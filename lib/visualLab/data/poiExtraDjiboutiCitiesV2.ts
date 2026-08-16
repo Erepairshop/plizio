@@ -25,7 +25,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       ro: ["Fondat în 1888, Djibouti City a înlocuit Obock drept capitală în 1894.", "Populația orașului depășește 600.000 de locuitori.", "Orașul este situat exact pe una dintre cele mai circulate rute maritime.", "Există șase baze militare străine în sau lângă oraș.", "Portul Doraleh are o capacitate de peste 1,6 milioane de containere pe an.", "Insula Moucha este o rezervație marină protejată din 1972.", "Temperatura medie în luna iulie este de aproximativ 36°C.", "Moneda locală, francul djiboutian, este fixată în raport cu dolarul SUA."],
       en: ["Djibouti City was established as a port by the French in 1888.", "The city accounts for more than 70% of the national GDP.", "It is the eastern terminus of the new Ethio-Djibouti standard-gauge railway.", "The Port of Djibouti is one of the busiest in East Africa.", "The city hosts the only permanent Chinese overseas military base.", "Moucha and Maskali Islands are located about 15km offshore.", "The Marché Central is the city's largest and most famous market.", "Over 600,000 people reside in the greater metropolitan area."],
     }, },
-    image: "/poi-images/djibouti-city-cities-v2.webp",
     description: {
       de: "Die Hauptstadt am Golf von Tadjoura ist das pulsierende Herz des Landes und ein strategisch wichtiger Hafen am Horn von Afrika.",
       hu: "A Tadjoura-öböl partján fekvő főváros az ország lüktető szíve és stratégiai fontosságú kikötő Afrika szarván.",
@@ -184,7 +183,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       ro: ["Ali Sabieh este al doilea oraș ca mărime din Djibouti.", "Altitudinea orașului (750m) reduce semnificativ umiditatea resimțită.", "Distanța rutieră până la capitala Djibouti este de circa 93 km.", "Orașul servește drept nod feroviar major pe noua linie electrificată.", "Deșertul Grand Bara din apropiere are o suprafață de 103 km².", "Munții Arrey oferă protecție naturală împotriva vânturilor deșertice.", "Economia locală se bazează în proporție de 40% pe servicii și transport.", "Piața centrală funcționează zilnic între orele 06:00 și 18:00."],
       en: ["Ali Sabieh is situated at an altitude of approximately 750 meters.", "It is the capital of the Ali Sabieh Region, bordering Ethiopia and Somalia.", "The city is roughly 90 kilometers away from Djibouti City.", "The Grand Bara desert nearby is famous for the '15km de la Grand Bara' race.", "The population is estimated to be between 50,000 and 60,000 people.", "The railway station was a key part of the first Ethio-Djibouti line (1917).", "Average high temperatures in summer reach around 38°C.", "The city is a major center for the Issa Somali clan culture."],
     }, },
-    image: "/poi-images/ali-sabieh-cities-v2.webp",
     description: {
       de: "Die zweitgrößte Stadt des Landes liegt in einer beeindruckenden Bergregion und ist bekannt für ihre Granitfelsen.",
       hu: "Az ország második legnagyobb városa egy lenyűgöző hegyvidéken fekszik, és gránitszikláiról ismert.",
@@ -451,7 +449,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       ro: ["Tadjourah este renumit pentru arhitectura sa tradițională cu ziduri albe.", "Sultanatul local a controlat rutele caravanelor spre Etiopia timp de secole.", "Portul modern are o capacitate de operare de peste 4 milioane de tone anual.", "Munții Goda din apropiere ating altitudini de peste 1.700 de metri.", "Orașul este centrul administrativ al celei mai mari regiuni din Djibouti.", "Populația este formată aproape integral din grupul etnic Afar.", "Infrastructura feroviară și rutieră nouă leagă orașul direct de Etiopia.", "Sărbătorile religioase Eid sunt celebrate cu procesiuni tradiționale de amploare."],
       en: ["Tadjourah is nicknamed 'The White City' due to its characteristic whitewashed buildings.", "The town's deep-water port was inaugurated in June 2017.", "It was a major center for the export of slaves and ivory in the 19th century.", "The Sultanate of Tadjourah is one of the oldest political entities in the region.", "The Goda Mountains provide a unique high-altitude microclimate near the town.", "Tadjourah is roughly 110 kilometers away from the Ethiopian border.", "Artisanal salt production is still practiced in parts of the surrounding region.", "The town serves as a major hub for Afar culture and language preservation."],
     }, },
-    image: "/poi-images/tadjourah-cities-v2.webp",
     description: {
       de: "Eine der ältesten Städte des Landes, bekannt als die 'Weiße Stadt' aufgrund ihrer kalkverputzten Häuser.",
       hu: "Az ország egyik legrégebbi városa, amelyet mészre festett házai miatt 'Fehér Városként' is ismernek.",
@@ -538,7 +535,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       ro: ["Obock a fost prima capitală a Somaliei Franceze înainte de orașul Djibouti.", "Franța a semnat tratatul de achiziție a teritoriului la 11 martie 1862.", "Populația orașului este estimată la aproximativ 20.000 de locuitori.", "Strâmtoarea Bab al-Mandab se află la mică distanță de coasta orașului.", "Orașul dispune de un aeroport regional cu o pistă neasfaltată.", "Clima este tropical-deșertică, cu umiditate ridicată din cauza mării.", "Principala etnie este Afar, urmată de mici comunități de origine arabă.", "Fostul palat al guvernatorului francez este principalul punct istoric."],
       en: ["Obock served as the capital of French Somaliland for eight years (1884–1892).", "The territory was purchased by France for 50,000 francs in 1862.", "It is located at an elevation of only 13 meters above sea level.", "The town is a major hub for ferry transport across the Gulf of Tadjoura.", "Obock's population consists mainly of the Afar ethnic group.", "The region is known for its extreme heat and minimal annual rainfall.", "The Port of Obock is currently undergoing expansion to aid regional trade.", "Historical French postage stamps once bore the specific name of Obock."],
     }, },
-    image: "/poi-images/obock-cities-v2.webp",
     description: {
       de: "Diese Küstenstadt war die erste französische Kolonialniederlassung in der Region und bietet einen Blick auf das Rote Meer.",
       hu: "Ez a kikötőváros volt az első francia gyarmati település a régióban, és kilátást nyújt a Vörös-tengerre.",
@@ -580,7 +576,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       ro: ["Dikhil este situat la o altitudine de 507 metri deasupra mării.", "Orașul este poarta principală de intrare către Parcul Național Lacul Abbe.", "Distanța până la granița cu Etiopia (Galafi) este de circa 60 km.", "Economia este susținută de peste 500 de camioane ce trec zilnic.", "Grădinile din Dikhil folosesc un sistem de irigații prin canale antice.", "Populația este estimată la aproximativ 24.000 de locuitori.", "Situl arheologic Handoga din apropiere datează din neolitic.", "Clima este aridă, cu temperaturi medii anuale de peste 30°C."],
       en: ["Dikhil is located roughly 120 km (75 miles) from Djibouti City.", "It is known as the 'City of Gardens' due to its lush palm groves.", "The city serves as the gateway to the surreal landscapes of Lake Abbe.", "Dikhil's fort was a strategic point for French colonial patrols.", "The town is a major logistics hub for the Ethiopia-Djibouti trade route.", "It is a key cultural meeting point for the Afar and Issa ethnic groups.", "Prehistoric rock engravings are found in the nearby valleys.", "The region is a major producer of watermelon and onions for the country."],
     }, },
-    image: "/poi-images/dikhil-cities-v2.webp",
     description: {
       de: "Ein wichtiges Verwaltungszentrum im Südwesten, das als Tor zum Abbe-See und seinen bizarren Kalksteinformationen dient.",
       hu: "Fontos közigazgatási központ a délnyugati részen, amely az Abbe-tó és annak különleges mészkőformációinak kapuja.",
@@ -1063,7 +1058,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       ro: ["Altitudinea de 750m oferă un climat unic în Cornul Africii.", "Arta este centrul administrativ al celei mai tinere regiuni din Djibouti.", "Conferința de Pace din 2000 a durat peste 4 luni de zile.", "Distanța până la Djibouti City este de aproximativ 35 de kilometri.", "În apele din apropiere, rechinii balenă pot fi văzuți din noiembrie.", "Orașul este sediul Academiei Militare din Djibouti.", "Arta beneficiază de o rată de umiditate mult mai scăzută decât coasta.", "Există vile de protocol folosite de diplomații străini din capitală."],
       en: ["Arta is located at an elevation of 750 meters above sea level.", "It hosted the Somali National Peace Conference in the year 2000.", "The city is roughly a 30-40 minute drive from Djibouti City.", "Average summer temperatures are significantly milder than on the coast.", "The Arta Region was officially established in 2002.", "The nearby coast is a world-class site for viewing whale sharks.", "The city is a key location for regional mountain warfare training.", "It serves as a primary summer residence for many government officials."],
     }, },
-    image: "/poi-images/arta-cities-v2.webp",
     description: {
       de: "Auf einem Hochplateau gelegen, bietet Arta ein milderes Klima als die Küstenebene und ist ein beliebter Erholungsort.",
       hu: "Egy magas fennsíkon fekszik, Arta klímája enyhébb, mint a tengerparti síkságé, így népszerű üdülőhely.",
@@ -1111,7 +1105,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Paragem historicamente significativa na linha ferroviária para a Etiópia.", "Estação de água importante para locomotivas a vapor no período colonial.", "Situada no meio da paisagem árida e rochosa de Ali Sabieh.", "A área envolvente é dominada por cursos de água sazonais (uadis).", "Restos de infraestrutura testemunham a história industrial regional.", "Serve hoje como um pequeno centro regional para pastores locais."],
       fr: ["Halte historiquement importante sur la ligne de chemin de fer vers l'Éthiopie.", "Station d'eau importante pour les locomotives à vapeur à l'époque coloniale.", "Situé au milieu du paysage aride et rocheux d'Ali Sabieh.", "L'environnement est dominé par des cours d'eau saisonniers (oueds).", "Les restes d'infrastructure témoignent de l'histoire industrielle régionale.", "Sert aujourd'hui de petit centre régional pour les bergers locaux."],
     }, },
-    image: "/poi-images/holhol-cities-v2.webp",
     description: {
       de: "Eine strategisch wichtige Stadt an der Eisenbahnlinie zwischen Dschibuti und Addis Abeba.",
       hu: "Stratégiailag fontos város a Dzsibuti és Addisz-Abeba közötti vasútvonal mentén.",
@@ -1159,7 +1152,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Localizado na remota região de Dikhil, perto da fronteira com a Etiópia.", "A economia baseia-se fortemente na pecuária tradicional.", "O terreno consiste em formações vulcânicas e planícies secas.", "Localização estratégica para a mobilidade transfronteiriça local.", "O estilo de vida da comunidade está adaptado a condições extremamente secas.", "Dependência de poços tradicionais para humanos e gado."],
       fr: ["Situé dans la région isolée de Dikhil près de la frontière éthiopienne.", "L'économie repose fortement sur l'élevage traditionnel.", "Le terrain est composé de formations volcaniques et de plaines sèches.", "Position stratégique pour la mobilité transfrontalière locale.", "Le mode de vie de la communauté est adapté aux conditions d'extrême aridité.", "Dépendance vis-à-vis des puits traditionnels pour les hommes et le bétail."],
     }, },
-    image: "/poi-images/yoboki-cities-v2.webp",
     description: {
       de: "Eine Siedlung in der westlichen Wüste, die als wichtiger Stopp auf der Route nach Äthiopien dient.",
       hu: "Település a nyugati sivatagban, amely fontos megálló az Etiópiába vezető úton.",
@@ -1207,7 +1199,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Cidade costeira situada diretamente na fronteira com a Somália.", "Funciona como um ponto central de passagem de fronteira regional.", "Geografia marcada por dunas costeiras e praias de areia.", "As condições ambientais são fortemente influenciadas pelo Golfo de Áden.", "Importância estratégica para a segurança e o comércio regional.", "As atividades económicas concentram-se na operação fronteiriça."],
       fr: ["Ville côtière située directement à la frontière avec la Somalie.", "Fait office de point de passage frontalier régional central.", "Géographie marquée par des dunes côtières et des plages de sable.", "Les conditions environnementales sont fortement influencées par le golfe d'Aden.", "Importance stratégique pour la sécurité et le commerce régional.", "Les activités économiques se concentrent sur l'exploitation de la frontière."],
     }, },
-    image: "/poi-images/loyada-cities-v2.webp",
     description: {
       de: "Die einzige offizielle Grenzstadt zwischen Dschibuti und Somalia, gelegen an der Küste.",
       hu: "Dzsibuti és Szomália egyetlen hivatalos határ menti városa, a tengerparton fekszik.",
@@ -1255,7 +1246,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Cidade no interior da região norte de Tadjourah.", "Rodeada por um complexo terreno vulcânico e montanhoso.", "A população pratica a pecuária pastoral tradicional.", "Conhecida por condições extremamente desafiantes e secas.", "Geograficamente isolada, em grande parte, dos centros costeiros.", "O estilo de vida depende fortemente das chuvas sazonais e de poços."],
       fr: ["Ville de l'intérieur de la région septentrionale de Tadjourah.", "Entourée d'un terrain volcanique et montagneux complexe.", "La population pratique l'élevage pastoral traditionnel.", "Connue pour ses conditions extrêmement difficiles et sèches.", "Géographiquement isolée des centres côtiers.", "Le mode de vie dépend fortement des pluies saisonnières et des puits."],
     }, },
-    image: "/poi-images/dorra-cities-v2.webp",
     description: {
       de: "Ein abgelegenes Dorf im Norden, bekannt für seine archäologischen Funde und Felsmalereien.",
       hu: "Egy távoli falu északon, amely régészeti leleteiről és sziklarajzairól ismert.",
@@ -1469,7 +1459,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Inserido nas cadeias montanhosas do maciço de Mabla.", "Conhecido pelo seu clima mais fresco em comparação com a costa.", "Centro da pecuária tradicional no norte.", "A área é caracterizada por picos íngremes e uadis profundos.", "Ponto de referência importante para a população local Afar.", "Acessível apenas por estradas e trilhos de montanha exigentes."],
       fr: ["Niché dans les chaînes de montagnes du massif de Mabla.", "Connu pour son climat plus frais par rapport à la côte.", "Centre de l'élevage traditionnel dans le nord.", "Les environs sont marqués par des sommets escarpés et des oueds profonds.", "Point de référence important pour la population locale Afar.", "Accessible uniquement par des routes et sentiers de montagne difficiles."],
     }, },
-    image: "/poi-images/alaili-dadda-cities-v2.webp",
     description: {
       de: "Ein Gebirgsort im Norden von Obock, umgeben von schroffen Gipfeln und tiefen Tälern.",
       hu: "Hegyi település Obocktól északra, meredek csúcsok és mély völgyek veszik körül.",
@@ -1517,7 +1506,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Local historicamente importante durante a guerra civil do Djibouti.", "Famoso pelas pinturas rupestres pré-históricas nas proximidades.", "Localizado numa paisagem vulcânica geologicamente fascinante.", "Proximidade estratégica com a fronteira da Etiópia.", "Ponto central para rotas de montanha nómadas no noroeste.", "Testemunho do povoamento humano precoce no Corno de África."],
       fr: ["Lieu historiquement important pendant la guerre civile djiboutienne.", "Célèbre pour les peintures rupestres préhistoriques situées à proximité.", "Situé dans un paysage volcanique géologiquement fascinant.", "Proximité stratégique avec la frontière de l'Éthiopie.", "Point central pour les routes de montagne nomades du nord-ouest.", "Témoignage du peuplement humain ancien dans la Corne de l'Afrique."],
     }, },
-    image: "/poi-images/balho-cities-v2.webp",
     description: {
       de: "Ein Dorf im Nordwesten, das in einer zerklüfteten Vulkanlandschaft nahe der äthiopischen Grenze liegt.",
       hu: "Település az északnyugati részen, amely egy egyenetlen vulkáni tájon fekszik az etióp határ közelében.",
@@ -1570,7 +1558,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Conhecido pelos seus mangais ecologicamente valiosos.", "Localizado no estrategicamente importante estreito de Bab el-Mandeb.", "Importante área de reprodução para numerosas espécies de aves marinhas.", "Centro para a pesca tradicional na costa norte.", "Destino popular para pescadores desportivos e turistas de natureza.", "Oferece acesso a recifes de coral intocados do Mar Vermelho."],
       fr: ["Connu pour ses forêts de mangroves d'une grande valeur écologique.", "Situé sur le détroit stratégiquement important de Bab-el-Mandeb.", "Zone de nidification importante pour de nombreuses espèces d'oiseaux marins.", "Centre de pêche traditionnelle sur la côte nord.", "Destination prisée des pêcheurs sportifs et des touristes de nature.", "Offre un accès aux récifs coralliens intacts de la mer Rouge."],
     }, },
-    image: "/poi-images/khor-angar-cities-v2.webp",
     description: {
       de: "Ein malerisches Fischerdorf an der Küste des Roten Meeres, bekannt für seine Mangrovenwälder.",
       hu: "Gondozott halászfalu a Vörös-tenger partján, amely mangroveerdeiről ismert.",
@@ -1699,7 +1686,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Situado nas encostas verdes das montanhas Goda.", "Local importante para o cultivo de frutas e legumes.", "Serve como porta de acesso ao Parque Nacional Day Forest.", "Goza de um clima significativamente mais ameno do que a planície costeira.", "Conhecido pelos seus tradicionais jardins em socalcos.", "Destino popular para caminhantes e entusiastas da natureza."],
       fr: ["Situé dans les contreforts verdoyants des monts Goda.", "Site important pour la culture de fruits et légumes.", "Sert de porte d'accès au parc national de la Forêt du Day.", "Bénéficie d'un climat nettement plus doux que la plaine côtière.", "Connu pour ses jardins traditionnels en terrasses.", "Destination prisée des randonneurs et des passionnés de nature."],
     }, },
-    image: "/poi-images/randa-cities-v2.webp",
     description: {
       de: "Ein Bergdorf im Goda-Gebirge, das für sein außergewöhnlich grünes und fruchtbares Land bekannt ist.",
       hu: "Hegyi falu a Goda-hegységben, amely rendkívüli zöld és termékeny földjeiről ismert.",
@@ -1828,7 +1814,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Localizada no extremo sul do Djibouti, na fronteira com a Etiópia.", "Cercada por uma vasta paisagem de savana árida.", "Importante área de proteção para gazelas e antílopes.", "Ponto central para o comércio local transfronteiriço.", "O modo de vida tradicional dos nómadas é muito presente aqui.", "Localização estratégica para a segurança das fronteiras no sul."],
       fr: ["Situé à l'extrême sud de Djibouti, à la frontière avec l'Éthiopie.", "Entouré d'un vaste paysage de savane aride.", "Zone de protection importante pour les gazelles et les antilopes.", "Point central pour le commerce transfrontalier local.", "Le mode de vie traditionnel des nomades est très présent ici.", "Emplacement stratégique pour la sécurité frontalière au sud."],
     }, },
-    image: "/poi-images/assamo-cities-v2.webp",
     description: {
       de: "Ein Dorf im äußersten Süden an der Grenze zu Äthiopien, gelegen in einer weiten Savannenlandschaft.",
       hu: "Falu a távoli délen, az etióp határ mentén, egy széles szavannás tájon.",
@@ -1921,7 +1906,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Local importante para pedreiras e mineração.", "Principal fornecedor de rocha e material de construção para a capital.", "Situado na linha ferroviária central para a Etiópia.", "Posicionado geograficamente entre a cidade de Djibuti e Ali Sabieh.", "O terreno é marcado por planícies desérticas amplas e planas.", "Desempenhou historicamente um papel na manutenção ferroviária."],
       fr: ["Site important pour les carrières et l'exploitation minière.", "Principal fournisseur de pierre et de matériaux de construction pour la capitale.", "Situé sur la ligne de chemin de fer centrale vers l'Éthiopie.", "Positionné géographiquement entre Djibouti-ville et Ali Sabieh.", "Le terrain est marqué par de vastes plaines désertiques plates.", "A joué historiquement un rôle dans l'entretien ferroviaire."],
     }, },
-    image: "/poi-images/goubetto-cities-v2.webp",
     description: {
       de: "Eine kleine Stadt in der Nähe der Hauptstadt, die durch ihre Lage an der Haupteisenbahnstrecke wächst.",
       hu: "Kisváros a főváros közelében, amely a fő vasútvonal menti elhelyezkedése miatt növekszik.",
@@ -2266,7 +2250,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Aldeia rural na região de Arta, a sul da capital.", "Conhecida por explorações avícolas especializadas.", "Localizada na importante rota de trânsito para o sul do Djibouti.", "Encontra-se nas imediações da bacia de Grand Bara.", "A economia baseia-se numa mistura de comércio e agricultura.", "Importante ponto de abastecimento para viajantes na rota sul."],
       fr: ["Village rural dans la région d'Arta, au sud de la capitale.", "Réputé pour ses exploitations avicoles spécialisées.", "Situé sur l'axe de transit important vers le sud de Djibouti.", "Se trouve à proximité immédiate du bassin du Grand Bara.", "L'économie repose sur un mélange de commerce et d'agriculture.", "Point de ravitaillement important pour les voyageurs de la route sud."],
     }, },
-    image: "/poi-images/chebelle-cities-v2.webp",
     description: {
       de: "Ein Dorf in der Arta-Region, das für seine landwirtschaftlichen Bemühungen in einer trockenen Umgebung bekannt ist.",
       hu: "Falu az Arta régióban, amely a száraz környezetben folytatott mezőgazdasági törekvéseiről ismert.",
@@ -2359,7 +2342,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Ponto de encontro central para nómadas no distrito de Dikhil.", "Possui poços de água vitais para o gado.", "Rodeado por uma vasta savana plana.", "Situado numa zona estrategicamente importante para os pastores nómadas.", "Faz fronteira com espaços naturais ecologicamente sensíveis e intocados.", "A cultura nómada tradicional está profundamente enraizada aqui."],
       fr: ["Point de rencontre central pour les nomades du district de Dikhil.", "Dispose de puits d'eau vitaux pour le bétail.", "Entouré d'une vaste savane plane.", "Situé dans une zone stratégique pour les bergers nomades.", "Borde des espaces naturels écologiquement sensibles et vierges.", "La culture nomade traditionnelle y est profondément enracinée."],
     }, },
-    image: "/poi-images/sankal-cities-v2.webp",
     description: {
       de: "Ein kleiner Ort im Dikhil-Bezirk, der als Treffpunkt für Nomaden in der südlichen Wüste dient.",
       hu: "Kis település a Dikhil kerületben, amely a déli sivatag nomádjainak találkozóhelyeként szolgál.",
@@ -2452,7 +2434,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Assentamento tradicional dos Afar no oeste do Djibouti.", "Centro para a criação extensiva de camelos na região.", "Forte influência das estruturas tribais tradicionais.", "Geograficamente isolado das principais rotas de trânsito.", "Oferece vastas paisagens intocadas de deserto e estepe.", "A economia baseia-se quase inteiramente na economia pastoral."],
       fr: ["Établissement traditionnel des Afar dans l'ouest de Djibouti.", "Centre pour l'élevage extensif de chameaux dans la région.", "Forte influence des structures tribales traditionnelles.", "Isolé géographiquement des principaux axes de transit.", "Offre de vastes paysages de désert et de steppe préservés.", "L'économie repose presque entièrement sur le pastoralisme."],
     }, },
-    image: "/poi-images/bondara-cities-v2.webp",
     description: {
       de: "Eine ländliche Gemeinde im Westen, bekannt für ihre traditionelle Lebensweise und weite Landschaften.",
       hu: "Vidéki közösség nyugaton, amely hagyományos életmódjáról és tágas tájairól ismert.",
@@ -2581,7 +2562,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Centro cultural dos Afar nas montanhas Goda.", "Conhecido pela preservação de técnicas artesanais tradicionais.", "Situado numa das zonas com mais vegetação do país.", "A altitude proporciona um clima ameno durante todo o ano.", "Lar de importantes locais espirituais e sagrados.", "Local importante para a tradição oral da história."],
       fr: ["Centre culturel des Afars dans les montagnes de Goda.", "Connu pour la préservation des techniques artisanales traditionnelles.", "Situé dans l'une des zones les plus riches en végétation du pays.", "L'altitude assure un climat doux tout au long de l'année.", "Abrite d'importants sites spirituels et sacrés.", "Lieu important pour la transmission orale de l'histoire."],
     }, },
-    image: "/poi-images/adailou-cities-v2.webp",
     description: {
       de: "Ein geschichtsträchtiger Ort im Goda-Gebirge, eingebettet in dichte Vegetation und kühle Berghöhen.",
       hu: "Történelmi helyszín a Goda-hegységben, sűrű vegetáció és hűvös hegyi magasságok veszik körül.",
@@ -2629,7 +2609,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Área residencial em rápido crescimento na periferia da capital.", "Reflete o boom da construção e a urbanização do Djibuti.", "Excelente ligação ao centro da cidade do Djibuti.", "Centro de modernos programas estatais de habitação.", "Localização importante para a crescente classe média.", "A infraestrutura foi massivamente ampliada nos últimos anos."],
       fr: ["Zone résidentielle en pleine expansion à la périphérie de la capitale.", "Reflète le boom de la construction et l'urbanisation de Djibouti.", "Excellente connexion avec le centre-ville de Djibouti.", "Centre de programmes de logements sociaux modernes.", "Lieu important pour la classe moyenne émergente.", "L'infrastructure a été massivement développée ces dernières années."],
     }, },
-    image: "/poi-images/daoudaouya-cities-v2.webp",
     description: {
       de: "Ein schnell wachsender Vorort der Hauptstadt, der die Expansion Dschibutis widerspiegelt.",
       hu: "A főváros gyorsan növekvő elővárosa, amely Dzsibuti terjeszkedését tükrözi.",
@@ -2682,7 +2661,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Ponto habitado mais a norte da República do Djibuti.", "Posto fronteiriço direto com o estado vizinho da Eritreia.", "Localização estrategicamente importante no Mar Vermelho.", "Vista para a ilha de Doumera, politicamente contestada.", "Elevada presença militar para assegurar a fronteira.", "Terreno árido e vulcânico define a zona envolvente."],
       fr: ["Point habité le plus au nord de la République de Djibouti.", "Poste frontière direct avec l'État voisin de l'Érythrée.", "Position stratégique importante sur la mer Rouge.", "Vue sur l'île de Doumera, politiquement contestée.", "Forte présence militaire pour sécuriser la frontière.", "Un terrain aride et volcanique caractérise les environs."],
     }, },
-    image: "/poi-images/doumera-cities-v2.webp",
     description: {
       de: "Ein strategisch wichtiger Grenzort am nördlichsten Punkt des Landes, direkt am Roten Meer.",
       hu: "Stratégiailag fontos határmenti hely az ország legészakibb pontján, közvetlenül a Vörös-tenger partján.",
@@ -2730,7 +2708,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Conhecido por ecossistemas de mangais bem preservados.", "Lar de recifes de coral magníficos e intocados.", "Local importante para métodos de pesca tradicionais.", "Destino secreto para o turismo de mergulho ecológico.", "Abriga uma rica variedade de flora e fauna marinha.", "Localizado isoladamente na costa norte da região de Obock."],
       fr: ["Connu pour ses écosystèmes de mangroves bien préservés.", "Abrite de magnifiques récifs coralliens intacts.", "Lieu important pour les méthodes de pêche traditionnelles.", "Destination secrète pour le tourisme de plongée écologique.", "Héberge une riche variété de flore et de faune marines.", "Situé de manière isolée sur la côte nord de la région d'Obock."],
     }, },
-    image: "/poi-images/godoria-cities-v2.webp",
     description: {
       de: "Ein Küstendorf nördlich von Obock, bekannt für seine unberührten Korallenriffe und Mangroven.",
       hu: "Kikötőfalu Obocktól északra, amely érintetlen korallzátonyairól és mangroveerdeiről ismert.",
@@ -2823,7 +2800,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Localizado na região de Dikhil, no sudoeste do Djibouti.", "Encontra-se nas proximidades da fronteira com a Etiópia.", "Pertence à área geologicamente ativa da Depressão de Danakil.", "As temperaturas no verão atingem frequentemente mais de 45 graus Celsius.", "A principal atividade económica é a criação nómada de camelos.", "A população pertence principalmente ao grupo étnico Afar."],
       fr: ["Situé dans la région de Dikhil, au sud-ouest de Djibouti.", "Se trouve à proximité immédiate de la frontière avec l'Éthiopie.", "Fait partie de la zone géologiquement active de la dépression de Danakil.", "Les températures estivales atteignent souvent plus de 45 degrés Celsius.", "Le principal secteur économique est l'élevage nomade de chameaux.", "La population appartient principalement au groupe ethnique Afar."],
     }, },
-    image: "/poi-images/kouta-bouyya-cities-v2.webp",
     description: {
       de: "Ein Bergort im Zentrum von Tadjourah, umgeben von spektakulären vulkanischen Bergketten.",
       hu: "Hegyi település Tadjoura központjában, látványos vulkáni hegyláncok veszik körül.",
@@ -3086,7 +3062,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Localizada na região de Dikhil, perto do Lago Abbe.", "Principal local de acesso às chaminés de calcário do Lago Abbe.", "Encontra-se numa zona de intensos movimentos de placas tectónicas.", "Centro para a extração tradicional de sal na região.", "Habitada principalmente por membros do povo Afar.", "Estação importante para caravanas a caminho da Etiópia."],
       fr: ["Situé dans la région de Dikhil près du lac Abbe.", "Principal point d'accès aux cheminées de calcaire du lac Abbe.", "Se trouve dans une zone de mouvements tectoniques intenses.", "Centre pour l'extraction traditionnelle du sel dans la région.", "Habité principalement par des membres du peuple Afar.", "Halte importante pour les caravanes en route vers l'Éthiopie."],
     }, },
-    image: "/poi-images/as-eyla-cities-v2.webp",
     description: {
       de: "Ein Dorf im Süden der Dikhil-Region, nahe der äthiopischen Grenze in einer flachen Wüstenlandschaft.",
       hu: "Falu a Dikhil régió déli részén, az etióp határ közelében, egy sík sivatagi tájon.",
@@ -3228,7 +3203,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Localizada numa zona geologicamente ativa da fenda da África Oriental.", "Local tradicional para a migração sazonal de nómadas.", "A vegetação é dominada por acácias e arbustos espinhosos.", "O abastecimento de água é feito principalmente através de poços tradicionais profundos.", "A estrutura social baseia-se no sistema tradicional de clãs.", "Serve como um importante ponto de orientação no semideserto do Djibouti."],
       fr: ["Situé dans une zone géologiquement active du rift est-africain.", "Lieu traditionnel pour la migration saisonnière des nomades.", "La végétation est dominée par les acacias et les buissons épineux.", "L'approvisionnement en eau se fait par des puits traditionnels profonds.", "La structure sociale repose sur le système traditionnel des clans.", "Sert de point de repère important dans le semi-désert djiboutien."],
     }, },
-    image: "/poi-images/dakka-cities-v2.webp",
     description: {
       de: "Ein kleiner Ort in der Nähe von Ali Sabieh, der von der Eisenbahnlinie profitiert.",
       hu: "Kis település Ali Sabieh közelében, amely a vasútvonal közelségéből profitál.",
@@ -3276,7 +3250,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Grande depressão tectónica entre Dikhil e Tadjourah.", "Geologicamente constituída por uma bacia plana e argilosa.", "Serviu historicamente como rota principal para caravanas para a Etiópia.", "A paisagem é marcada por colinas vulcânicas e fluxos de lava.", "Utilizada por nómadas como área de pastagem sazonal.", "Importante área de investigação para o estudo da tectónica de placas."],
       fr: ["Grande dépression tectonique entre Dikhil et Tadjourah.", "Constituée géologiquement d'un bassin plat et argileux.", "A servi historiquement de route principale pour les caravanes vers l'Éthiopie.", "Le paysage est marqué par des collines volcaniques et des coulées de lave.", "Utilisée par les nomades comme zone de pâturage saisonnier.", "Zone de recherche importante pour l'étude de la tectonique des plaques."],
     }, },
-    image: "/poi-images/gaggade-cities-v2.webp",
     description: {
       de: "Ein Wüstenort in der Nähe der Gaggade-Ebene, bekannt für seine rauen Lebensbedingungen.",
       hu: "Sivatagi település a Gaggade-síkság közelében, zord életkörülményeiről ismert.",
@@ -3324,7 +3297,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Serve como nó central para pontos de água no interior do país.", "A paisagem é marcada por formações de basalto proeminentes.", "Principal local de mercado para o comércio regional de gado.", "Área de povoamento dos grupos étnicos Issa e Afar.", "O clima apresenta um período de seca extremamente acentuado.", "Nas proximidades encontram-se pinturas rupestres pré-históricas."],
       fr: ["Sert de nœud central pour les points d'eau à l'intérieur du pays.", "Le paysage est marqué par des formations basaltiques proéminentes.", "Principal lieu de marché pour le commerce régional du bétail.", "Zone de peuplement des groupes ethniques Issa et Afar.", "Le climat présente une période de sécheresse extrêmement marquée.", "Des peintures rupestres préhistoriques se trouvent dans les environs."],
     }, },
-    image: "/poi-images/garba-daba-cities-v2.webp",
     description: {
       de: "Ein Dorf im Zentrum des Dikhil-Bezirks, das von saisonalen Wasserläufen abhängt.",
       hu: "Falu a Dikhil kerület központjában, amely az időszakos vízfolyásoktól függ.",
@@ -3417,7 +3389,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Localizada na paisagem de colinas acidentadas da região de Dikhil.", "Historicamente fez parte das rotas comerciais de sal e incenso.", "Dispõe de uma escola primária local e um posto de saúde.", "Lar de flora desértica espinhosa e da gazela-dorcas.", "O abastecimento de água é feito através de uadis e poços de infiltração.", "A estrutura social é moldada pelo sistema de clãs Afar."],
       fr: ["Situé dans le paysage de collines escarpées de la région de Dikhil.", "Faisait historiquement partie des routes commerciales du sel et de l'encens.", "Dispose d'une école primaire locale et d'un poste de santé.", "Abrite une flore désertique épineuse et la gazelle Dorcas.", "L'approvisionnement en eau se fait via des oueds et des puits d'infiltration.", "La structure sociale est marquée par le système clanique Afar."],
     }, },
-    image: "/poi-images/gourabous-cities-v2.webp",
     description: {
       de: "Ein kleiner, entlegener Ort im Westen, der für seine Stille und Weite bekannt ist.",
       hu: "Kicsi, távoli település nyugaton, amely csendjéről és tágasságáról ismert.",
@@ -3676,7 +3647,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Localizada na fértil planície de Hanle, no centro de Djibuti.", "Local de projetos inovadores de irrigação e agricultura.", "Corredor importante para as migrações da vida selvagem local.", "Centro para o desenvolvimento da agricultura sedentária.", "Cercada por pastagens ideais para a pecuária.", "Combina a economia pastoril tradicional com o cultivo moderno."],
       fr: ["Situé dans la plaine fertile de Hanle, au centre de Djibouti.", "Site de projets innovants d'irrigation et d'agriculture.", "Couloir important pour les migrations de la faune sauvage locale.", "Centre pour le développement de l'agriculture sédentaire.", "Entouré de prairies idéales pour l'élevage du bétail.", "Combine l'économie pastorale traditionnelle avec l'agriculture moderne."],
     }, },
-    image: "/poi-images/hanle-cities-v2.webp",
     description: {
       de: "Ein Ort inmitten der Hanle-Ebene, einer der wenigen Regionen mit Potenzial für Landwirtschaft.",
       hu: "Település a Hanle-síkság közepén, amely az egyetlen mezőgazdasági potenciállal rendelkező régiók egyike.",
@@ -3724,7 +3694,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Conhecido pelo seu clima ameno e atmosfera relaxante.", "Zona de lazer popular para os residentes da capital.", "Oferece vistas espetaculares sobre as terras altas de Djibuti.", "Abriga uma flora diversificada e frequentemente endémica.", "A infraestrutura está preparada para pequenos grupos de turistas.", "Localizado estrategicamente perto da estrada entre a costa e o interior."],
       fr: ["Connu pour son climat doux et son atmosphère reposante.", "Zone de loisirs prisée des habitants de la capitale.", "Offre des vues spectaculaires sur les hauts plateaux djiboutiens.", "Abrite une flore diversifiée et souvent endémique.", "L'infrastructure est adaptée aux petits groupes de touristes.", "Situé stratégiquement près de la route entre la côte et l'intérieur."],
     }, },
-    image: "/poi-images/karta-cities-v2.webp",
     description: {
       de: "Ein Dorf in der Nähe von Arta, das für seine erholsame Atmosphäre bekannt ist.",
       hu: "Falu Arta közelében, amely pihentető légköréről ismert.",
@@ -3772,7 +3741,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["O centro mais importante para a produção de incenso no Djibouti.", "Inserido nas encostas íngremes das montanhas de Mabla.", "A colheita tradicional de resinas é a principal fonte de rendimento.", "Abriga uma flora de montanha rara e protegida mundialmente.", "O local é de difícil acesso através de trilhos de montanha íngremes.", "Preserva técnicas milenares de processamento de resinas."],
       fr: ["Principal centre de production d'encens à Djibouti.", "Niché sur les pentes escarpées des monts Mabla.", "La récolte traditionnelle de résines est la principale source de revenus.", "Abrite une flore de montagne rare et protégée au niveau mondial.", "Le lieu n'est accessible que difficilement par des sentiers de montagne escarpés.", "Préserve des techniques séculaires de transformation de la résine."],
     }, },
-    image: "/poi-images/medeho-cities-v2.webp",
     description: {
       de: "Medeho ist eine kleine Siedlung, die vor allem durch ihre Lage in einer ariden Region geprägt ist.",
       hu: "Hegyi falu a Mabla-hegységben, amely tömjénéről ismert.",
@@ -3901,7 +3869,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Conhecido pelo seu deserto de argila endurecida extremamente plano.", "Local de realização internacional de competições de iatismo de areia.", "Base importante para manobras e exercícios militares.", "Localizado na rota estratégica entre Arta e Ali Sabieh.", "O terreno está quase totalmente livre de vegetação.", "Oferece condições ideais para desportos de deserto de alta velocidade."],
       fr: ["Connu pour son désert d'argile durcie extrêmement plat.", "Lieu d'accueil international pour les compétitions de char à voile.", "Base importante pour les manœuvres et exercices militaires.", "Situé sur la route stratégique entre Arta et Ali Sabieh.", "Le terrain est presque totalement dépourvu de végétation.", "Offre des conditions idéales pour les sports de désert à haute vitesse."],
     }, },
-    image: "/poi-images/petit-bara-cities-v2.webp",
     description: {
       de: "Ein Ort am Rande der Petit Bara-Wüste, oft Schauplatz für sportliche Aktivitäten.",
       hu: "Település a Petit Bara-sivatag szélén, gyakran sporttevékenységek helyszíne.",
@@ -4331,7 +4298,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Ponto de trânsito central na estrada principal para o interior.", "Importante ponto de descanso e abastecimento para o tráfego de longa distância.", "Possui mercados dinâmicos para produtos locais.", "Situado nas encostas das montanhas Arta, com clima favorável.", "Localização estratégica para empresas de logística e serviços.", "Assegura a ligação entre a capital e as regiões ocidentais."],
       fr: ["Point de transit central sur la route principale vers l'intérieur.", "Halte importante pour le ravitaillement du trafic longue distance.", "Dispose de marchés dynamiques pour les produits locaux.", "Situé dans les contreforts des monts Arta au climat favorable.", "Emplacement stratégique pour les entreprises de logistique et de services.", "Assure la liaison entre la capitale et les régions de l'Ouest."],
     }, },
-    image: "/poi-images/we-a-cities-v2.webp",
     description: {
       de: "Ein Ort an der Hauptstraße, die die Hauptstadt mit dem Landesinneren verbindet.",
       hu: "Település a főút mentén, amely a fővárost köti össze a belső területekkel.",
@@ -4428,7 +4394,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Aldeia tradicional com foco na criação de ovelhas e cabras.", "Caracterizada pela arquitetura clássica de cabanas circulares dos Afar.", "Situada na rota estratégica de trânsito para o sul do país.", "Local importante para mercados de gado locais.", "A comunidade preserva ativamente os costumes tradicionais.", "Cercada por uma savana de espinheiros típica e árida."],
       fr: ["Village traditionnel axé sur l'élevage de moutons et de chèvres.", "Caractérisé par l'architecture classique des huttes circulaires afar.", "Situé sur la route de transit stratégique vers le sud du pays.", "Site important pour les marchés aux bestiaux locaux.", "La communauté préserve activement les coutumes traditionnelles.", "Entouré d'une savane de brousse épineuse aride typique."],
     }, },
-    image: "/poi-images/mouloud-cities-v2.webp",
     description: {
       de: "Ein kleines Dorf im Osten von Dikhil, bekannt für seine Gemeinschaft und Viehzucht.",
       hu: "Kis falu Dikhiltől keletre, közösségéről és állattenyésztéséről ismert.",
@@ -4521,7 +4486,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Acolhe um dos campos de refugiados mais importantes da África Oriental.", "Localização importante para organizações humanitárias internacionais.", "Situado numa paisagem montanhosa isolada e semiárida.", "Símbolo de estabilidade regional e de acolhimento.", "A infraestrutura está fortemente voltada para o apoio aos refugiados.", "Promove o intercâmbio cultural entre diferentes etnias."],
       fr: ["Abrite l'un des plus importants camps de réfugiés d'Afrique de l'Est.", "Site majeur pour les organisations humanitaires internationales.", "Situé dans un paysage montagneux isolé et semi-aride.", "Symbole de stabilité régionale et de capacité d'accueil.", "L'infrastructure est fortement orientée vers la prise en charge des réfugiés.", "Favorise l'échange culturel entre différentes ethnies."],
     }, },
-    image: "/poi-images/ali-adde-cities-v2.webp",
     description: {
       de: "Bekannt als Standort eines der größten Flüchtlingslager des Landes in einer abgelegenen Gegend.",
       hu: "Az ország egyik legnagyobb menekülttáborának helyszíneként ismert egy távoli területen.",
@@ -4569,7 +4533,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Local de uma estação histórica da era colonial francesa.", "Marcado pela sua localização na antiga linha ferroviária Djibouti-Etiópia.", "Rodeado por mesetas espetaculares e marcantes.", "Situa-se em importantes rotas migratórias tradicionais dos nómadas Issa.", "Preserva relíquias arquitetónicas do início do século XX.", "Ponto importante para a investigação da história dos transportes regionais."],
       fr: ["Site d'une gare historique de l'époque coloniale française.", "Marqué par sa situation sur l'ancienne ligne de chemin de fer Djibouti-Éthiopie.", "Entouré de plateaux tabulaires spectaculaires et remarquables.", "Situé sur d'importantes routes de migration traditionnelles des nomades Issa.", "Conserve des vestiges architecturaux du début du XXe siècle.", "Point important pour l'étude de l'histoire des transports régionaux."],
     }, },
-    image: "/poi-images/dasbiyo-cities-v2.webp",
     description: {
       de: "Ein kleiner Ort im Osten von Ali Sabieh, der durch seine Eisenbahnhistorie geprägt ist.",
       hu: "Kis település Ali Sabiehtől keletre, amelyet a vasúti múlt határoz meg.",
@@ -4662,7 +4625,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Futuro peso pesado da indústria e logística do Djibuti.", "Local de projetos portuários de última geração para a exportação de gado.", "Ligado diretamente à zona franca nacional.", "Localização estratégica a sul do porto da capital.", "Centro para novas infraestruturas energéticas e terminais de granéis líquidos.", "Motor essencial para a diversificação económica do país."],
       fr: ["Futur poids lourd de l'industrie et de la logistique djiboutienne.", "Emplacement de projets portuaires ultramodernes pour l'exportation de bétail.", "Directement relié à la zone franche nationale.", "Position stratégique au sud du port de la capitale.", "Centre pour les nouvelles infrastructures énergétiques et les terminaux de vrac liquide.", "Moteur essentiel de la diversification économique du pays."],
     }, },
-    image: "/poi-images/damerjog-cities-v2.webp",
     description: {
       de: "Ein Küstenort südlich der Hauptstadt, der sich zu einem wichtigen Industrie- und Logistikzentrum entwickelt.",
       hu: "Kikötőváros a fővárostól délre, amely fontos ipari és logisztikai központtá fejlődik.",
@@ -4710,7 +4672,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Subúrbio em crescimento com função primária como área residencial.", "Proximidade estratégica com o aeroporto internacional do Djibouti.", "Abriga uma população diversa de todas as partes do país.", "Local importante para o pequeno comércio e mercados locais.", "Beneficia da expansão da capital próxima.", "A infraestrutura está a ser adaptada gradualmente ao nível urbano."],
       fr: ["Banlieue en croissance dont la fonction principale est résidentielle.", "Proximité stratégique de l'aéroport international de Djibouti.", "Abrite une population diversifiée venant de toutes les régions du pays.", "Site important pour les petits commerces et les marchés locaux.", "Bénéficie de l'expansion de la capitale voisine.", "L'infrastructure est progressivement mise à niveau vers les standards urbains."],
     }, },
-    image: "/poi-images/omar-jagaa-cities-v2.webp",
     description: {
       de: "Ein kleiner Vorort westlich der Hauptstadt, der hauptsächlich als Wohngebiet dient.",
       hu: "Kisebb előváros a fővárostól nyugatra, amely főként lakóövezetként szolgál.",
@@ -4758,7 +4719,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Uma das praias mais populares perto da cidade de Djibuti.", "Destino de excelência para snorkeling e mergulho no Golfo de Tadjoura.", "Principal zona de lazer para a população urbana.", "Oferece recifes de coral pitorescos mesmo em frente à costa.", "Conhecido pela sua atmosfera relaxada e resorts de fim de semana.", "Local importante para o desenvolvimento do turismo local."],
       fr: ["L'une des plages les plus populaires près de Djibouti-ville.", "Destination de premier choix pour le snorkeling et la plongée dans le golfe de Tadjoura.", "Principal zone de loisirs pour la population urbaine.", "Offre des récifs coralliens pittoresques juste au large de la côte.", "Connu pour son atmosphère détendue et ses complexes hôteliers de week-end.", "Site important pour le développement du tourisme local."],
     }, },
-    image: "/poi-images/khor-ambado-cities-v2.webp",
     description: {
       de: "Ein Küstenort, der für seinen beliebten Strand und seine Freizeitmöglichkeiten bekannt ist.",
       hu: "Tengerparti település, amely népszerű strandjáról és kikapcsolódási lehetőségeiről ismert.",
@@ -4806,7 +4766,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Posto remoto na zona fronteiriça do sul.", "Ligação estreita com a pecuária nómada dos Issa.", "Situado num terreno extremamente seco e inóspito.", "Local importante para o intercâmbio social entre famílias nómadas.", "A infraestrutura limita-se ao mínimo absoluto.", "Símbolo da preservação da cultura tradicional do deserto."],
       fr: ["Avant-poste reculé dans la zone frontalière sud.", "Lien étroit avec l'élevage nomade des Issas.", "Situé dans un terrain extrêmement sec et inhospitalier.", "Lieu important pour les échanges sociaux entre les familles nomades.", "L'infrastructure est limitée au strict minimum.", "Symbole de la préservation de la culture traditionnelle du désert."],
     }, },
-    image: "/poi-images/galileh-cities-v2.webp",
     description: {
       de: "Ein abgelegenes Dorf im Süden, das eng mit den Nomadenstämmen der Region verbunden ist.",
       hu: "Távoli falu délen, amely szorosan kötődik a régió nomád törzseihez.",
@@ -4859,7 +4818,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       pt: ["Local da estação central de mercadorias da linha ferroviária para Adis Abeba.", "O hub logístico mais importante para o tráfego transfronteiriço de camiões.", "Imediatamente adjacente às grandes zonas de comércio livre do Djibouti.", "Centro para a importação e exportação de mercadorias a granel.", "Abriga inúmeros armazéns e empresas de logística.", "Ponto essencial para o abastecimento do interior da Etiópia."],
       fr: ["Siège de la gare de marchandises centrale de la ligne ferroviaire vers Addis-Abeba.", "Principal hub logistique pour le transport routier transfrontalier.", "Jouxtant directement les grandes zones de libre-échange de Djibouti.", "Plaque tournante pour l'importation et l'exportation de marchandises en vrac.", "Abrite de nombreux entrepôts et entreprises de logistique.", "Point essentiel pour l'approvisionnement de l'Éthiopie continentale."],
     }, },
-    image: "/poi-images/negad-cities-v2.webp",
     description: {
       de: "Ein Ort südlich der Hauptstadt, der als wichtiger Verkehrsknotenpunkt und Logistikstandort dient.",
       hu: "A fővárostól délre fekvő település, amely fontos közlekedési csomópont és logisztikai helyszín.",

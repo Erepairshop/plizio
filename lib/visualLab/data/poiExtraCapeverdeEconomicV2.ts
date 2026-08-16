@@ -57,7 +57,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       hu: "Porto Grande (Mindelo)",
       ro: "Porto Grande (Mindelo)",
       en: "Porto Grande (Mindelo)"},
-    image: "/poi-images/porto-grande-mindelo-economic-v2.webp",
     descriptionAdvanced: {
       de: "Der Porto Grande in Mindelo auf der Insel São Vicente ist der wichtigste Tiefwasserhafen der Republik Kap Verde und ein bedeutendes maritimes Drehkreuz im zentralen Atlantik. Er liegt in einer weiten, geschützten Bucht, die durch einen versunkenen Vulkankrater entstanden ist und Schiffen hervorragenden Schutz vor den Strömungen des offenen Ozeans bietet. Seine historische Bedeutung wuchs im 19. Jahrhundert rasant, als Mindelo ab 1838 als strategische Kohlenstation für britische Dampfschiffe auf den Routen nach Südamerika und Afrika etabliert wurde. In der heutigen Zeit fungiert der Hafen als zentraler Umschlagplatz für internationale Containerfracht, Treibstoffe sowie als Anlegestelle für große Kreuzfahrtschiffe, was den lokalen Tourismus stärkt. Mit einer Wassertiefe von bis zu 30 Metern und modernisierten Kaianlagen ist er für die wirtschaftliche Versorgung des gesamten Archipels absolut unverzichtbar. Der Hafen prägte maßgeblich die kosmopolitische Atmosphäre von Mindelo und bleibt ein Symbol der engen Verbindung des Landes zur globalen Seefahrt.",
       hu: "A Mindelóban, São Vicente szigetén található Porto Grande a Zöld-foki Köztársaság legfontosabb mélyvízi kikötője és az Atlanti-óceán középső részének egyik meghatározó tengeri csomópontja. A kikötő egy hatalmas, védett öbölben fekszik, amelyet egy elsüllyedt vulkáni kráter alakított ki, kiváló menedéket nyújtva a hajóknak a nyílt óceáni áramlatok ellen. Történelmi jelentősége a 19. században nőtt meg ugrásszerűen, amikor 1838-tól Mindelo a Brit Birodalom gőzhajóinak kulcsfontosságú szénrakodó állomásává vált a Dél-Amerika és Afrika felé vezető útvonalakon. Napjainkban a kikötő a nemzetközi konténeres áruszállítás, az üzemanyag-ellátás és a luxus tengerjáró hajók központi termináljaként működik, ami alapvető a szigetország gazdasága számára. Akár 30 méteres vízmélységével és modernizált rakpartjaival képes kiszolgálni a legmodernebb teherszállítókat is. A kikötő alapjaiban határozta meg Mindelo kozmopolita jellegét, és ma is az ország tengeri kereskedelemhez fűződő szoros kapcsolatának jelképe.",
@@ -147,7 +146,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       hu: "Praia kikötője",
       ro: "Portul Praia",
       en: "Port of Praia"},
-    image: "/poi-images/porto-da-praia-economic-v2.webp",
     descriptionAdvanced: {
       de: "Der Hafen von Praia auf der Insel Santiago ist das wichtigste wirtschaftliche Tor zur Hauptstadt der Kap Verden und verarbeitet das größte Volumen an Containerfracht des Landes. Gelegen im Südosten der Insel, dient er als primärer Versorgungspunkt für die bevölkerungsreichste Region des Archipels. Ursprünglich ein kleinerer Ankerplatz, wurde der Hafen in den 1960er Jahren massiv ausgebaut und zwischen 2011 und 2014 einer umfassenden Modernisierung unterzogen. Diese Erweiterungen umfassten neue Containerterminals und verbesserte Lagerkapazitäten, um dem steigenden Bedarf an Importgütern gerecht zu werden. Neben der Frachtschifffahrt spielt der Hafen eine entscheidende Rolle für den interinsularen Fährverkehr, der Santiago mit den nördlichen und südlichen Inseln verbindet. Strategisch positioniert, profitiert Praia von seiner Nähe zu den westafrikanischen Schifffahrtswegen, was ihn zu einem potenziellen regionalen Logistikstandort macht. Die Hafenverwaltung setzt verstärkt auf Digitalisierung, um die Abfertigungszeiten zu verkürzen und die Effizienz des Warenflusses zu steigern.",
       hu: "A Santiago-szigeten található Praia kikötője a Zöld-foki Köztársaság fővárosának legfontosabb gazdasági kapuja, amely az ország legnagyobb konténerforgalmát bonyolítja le. A sziget délkeleti részén elhelyezkedő létesítmény az archipelágus legnépesebb régiójának elsődleges ellátási pontjaként szolgál. Az eredetileg kisebb horgonyzóhelyként üzemelő kikötőt az 1960-as években jelentősen kibővítették, majd 2011 és 2014 között átfogó modernizáción esett át. A fejlesztések során új konténerterminálokat és korszerűsített raktárkapacitásokat alakítottak ki az importáruk iránti növekvő igények kielégítésére. A teherforgalom mellett a kikötő kulcsszerepet játszik a szigetek közötti kompforgalomban is, összekötve Santiagót az északi és déli szigetekkel. Stratégiai elhelyezkedése révén Praia profitál a nyugat-afrikai hajózási útvonalak közelségéből, ami potenciális regionális logisztikai bázissá teszi. A kikötői hatóságok jelenleg a digitalizációra összpontosítanak a feldolgozási idő csökkentése és a hatékonyság növelése érdekében.",
@@ -237,7 +235,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       hu: "Palmeira kikötője",
       ro: "Portul Palmeira",
       en: "Port of Palmeira"},
-    image: "/poi-images/porto-de-palmeira-economic-v2.webp",
     descriptionAdvanced: {
       de: "Der Hafen von Palmeira auf der Insel Sal ist für die wirtschaftliche Stabilität der Insel von entscheidender Bedeutung, da er als primärer Versorgungspunkt für Treibstoffe und Baumaterialien fungiert. Angesichts des boomenden Tourismussektors auf Sal wurde der Hafen in den letzten Jahren schrittweise erweitert, um größere Frachtmengen und Kreuzfahrtschiffe bewältigen zu können. Die Lage an der Westküste bietet einen funktionalen Zugang zum Atlantik, wobei die Infrastruktur speziell auf die Bedürfnisse der nahegelegenen Industrie und des internationalen Flughafens Amílcar Cabral zugeschnitten ist. Ein wichtiger Meilenstein war die Eröffnung eines modernisierten Terminals im Jahr 2018, das die Effizienz beim Entladen von Containern und Stückgut erheblich steigerte. Neben der kommerziellen Schifffahrt ist Palmeira ein wichtiges Zentrum für die lokale Fischerei, die die Hotels der Insel mit frischen Produkten versorgt. Der Hafen dient zudem als Ankerpunkt für Segelyachten und kleinere Expeditionskreuzfahrtschiffe, was die maritime Vielfalt der Insel unterstreicht. Zukünftige Projekte zielen darauf ab, Palmeira zu einem noch leistungsfähigeren Logistikknotenpunkt für den nördlichen Teil des Archipels auszubauen.",
       hu: "A Sal szigetén található Palmeira kikötője alapvető fontosságú a sziget gazdasági stabilitása szempontjából, mivel az üzemanyag- és építőanyag-ellátás elsődleges pontjaként szolgál. Sal virágzó turisztikai szektora miatt a kikötőt az elmúlt években fokozatosan bővítették, hogy képes legyen kezelni a megnövekedett áruforgalmat és a nagyobb tengerjáró hajókat is. A nyugati parton fekvő létesítmény funkcionális hozzáférést biztosít az Atlanti-óceánhoz, infrastruktúrája pedig speciálisan a közeli ipari létesítmények és az Amílcar Cabral nemzetközi repülőtér igényeihez igazodik. Jelentős mérföldkő volt a 2018-ban átadott modernizált terminál, amely jelentősen növelte a konténerek és darabáruk rakodásának hatékonyságát. A kereskedelmi hajózás mellett Palmeira a helyi halászat központja is, amely a sziget szállodáit friss tengeri termékekkel látja el. A kikötő vitorlás jachtok és kisebb expedíciós hajók kedvelt horgonyzóhelye is, ami tovább színesíti a sziget tengeri életét. A jövőbeli tervek célja, hogy Palmeirát az archipelágus északi részének még hatékonyabb logisztikai csomópontjává fejlesszék.",
@@ -399,7 +396,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       hu: "Porto Novo kikötője",
       ro: "Portul Porto Novo",
       en: "Port of Porto Novo"},
-    image: "/poi-images/porto-novo-harbour-economic-v2.webp",
     descriptionAdvanced: {
       de: "Der Hafen von Porto Novo ist die unverzichtbare Lebensader für die Insel Santo Antão und stellt die einzige maritime Verbindung zum benachbarten São Vicente her. Da Santo Antão keinen funktionstüchtigen Flughafen besitzt, wird der gesamte Personen- und Warenverkehr über diesen Hafen abgewickelt. Er wurde ursprünglich 1962 erbaut und in den folgenden Jahrzehnten mehrfach erweitert, um dem steigenden Verkehrsaufkommen gerecht zu werden. Ein bedeutendes Modernisierungsprojekt im Jahr 2013 verbesserte die Kaianlagen und schuf sicherere Bedingungen für die täglichen Fährverbindungen zwischen Porto Novo und Mindelo. Der Hafen ist entscheidend für den Export landwirtschaftlicher Produkte, für die Santo Antão im gesamten Archipel bekannt ist, darunter Zuckerrohrprodukte und Kaffee. Die Infrastruktur umfasst zudem Bereiche für die lokale Fischerei und Einrichtungen zur Lagerung von Treibstoffen. Trotz seiner exponierten Lage an der Südküste bietet der Hafen durch massive Wellenbrecher Schutz vor der Meeresbrandung. Die kontinuierliche Entwicklung des Hafens ist ein zentraler Faktor für das wirtschaftliche Wachstum und die touristische Erschließung der gebirgigen Insel.",
       hu: "Porto Novo kikötője Santo Antão szigetének nélkülözhetetlen élettere, amely az egyetlen tengeri összeköttetést biztosítja a szomszédos São Vicente szigetével. Mivel Santo Antão nem rendelkezik működő repülőtérrel, a teljes személy- és áruforgalom ezen a kikötőn keresztül zajlik. Eredetileg 1962-ben épült, majd az évtizedek során többször bővítették a növekvő igényeknek megfelelően. Egy jelentős, 2013-ban befejezett modernizációs projekt során korszerűsítették a rakpartokat és biztonságosabb feltételeket teremtettek a Porto Novo és Mindelo közötti napi kompjáratok számára. A kikötő meghatározó a sziget híres mezőgazdasági termékeinek, például a kávénak és a cukornád alapú termékeknek az exportjában. Az infrastruktúra részét képezik a helyi halászatot kiszolgáló területek és az üzemanyagtároló létesítmények is. Annak ellenére, hogy a déli part mentén fekszik, a masszív hullámtörők hatékony védelmet nyújtanak a tengeri hullámzás ellen. A kikötő folyamatos fejlesztése kulcsfontosságú tényező a hegyvidéki sziget gazdasági növekedésében és turisztikai fellendülésében.",
@@ -525,7 +521,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       hu: "Vale de Cavaleiros kikötője",
       ro: "Portul Vale de Cavaleiros",
       en: "Port of Vale de Cavaleiros"},
-    image: "/poi-images/porto-vale-cavaleiros-economic-v2.webp",
     descriptionAdvanced: {
       de: "Der Hafen von Vale de Cavaleiros auf der Insel Fogo ist das logistische Zentrum für die Versorgung der Vulkaninsel und ein wichtiges Tor für den regionalen Handel. Er befindet sich etwa vier Kilometer nördlich der Inselhauptstadt São Filipe und wurde an einem Küstenabschnitt errichtet, der durch steile Klippen geprägt ist. Seit seiner ursprünglichen Eröffnung in den 1960er Jahren hat der Hafen mehrere Modernisierungsphasen durchlaufen, wobei die bedeutendste Erweiterung im Jahr 2000 abgeschlossen wurde. Diese Maßnahmen ermöglichten das Anlegen größerer Frachtschiffe und verbesserten die Sicherheit der Passagierabfertigung erheblich. Der Hafen ist entscheidend für den Import von Nahrungsmitteln, Baumaterialien und Treibstoffen sowie für den Export lokaler Spezialitäten wie Fogo-Kaffee und Wein. Die Infrastruktur verfügt über spezialisierte Kaianlagen für den Fährverkehr nach Santiago und Brava, was Fogo fest in das nationale Verkehrsnetz integriert. Trotz der Herausforderungen durch die raue See und vulkanische Aktivitäten in der Region bleibt Vale de Cavaleiros ein stabiler Wirtschaftsfaktor. Zukünftige Pläne sehen weitere Verbesserungen der Lagerkapazitäten vor, um die Effizienz der Warenströme zu steigern.",
       hu: "A Fogo szigetén található Vale de Cavaleiros kikötője a vulkáni sziget ellátásának logisztikai központja és a regionális kereskedelem fontos kapuja. A létesítmény körülbelül négy kilométerre északra fekszik a sziget fővárosától, São Filipétől, egy meredek sziklákkal határolt tengerparti szakaszon. Az 1960-as évekbeli megnyitása óta a kikötő több modernizációs fázison ment keresztül, amelyek közül a legjelentősebb bővítés 2000-ben fejeződött be. Ezek a fejlesztések lehetővé tették nagyobb teherszállító hajók fogadását és jelentősen javították az utasforgalom biztonságát. A kikötő létfontosságú az élelmiszerek, építőanyagok és üzemanyagok importjához, valamint a helyi különlegességek, például a Fogo-kávé és a bor exportjához. Az infrastruktúra speciális rakpartokkal rendelkezik a Santiago és Brava felé tartó kompjáratok számára, ami Fogót szorosan integrálja az országos közlekedési hálózatba. A zord tengeri körülmények és a régió vulkáni tevékenysége okozta kihívások ellenére Vale de Cavaleiros stabil gazdasági tényező marad. A jövőbeli tervek a raktárkapacitások további bővítését irányozzák elő az áruforgalom hatékonyságának növelése érdekében.",
@@ -651,7 +646,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       hu: "Sal Rei kikötője",
       ro: "Portul Sal Rei",
       en: "Port of Sal Rei"},
-    image: "/poi-images/porto-sal-rei-economic-v2.webp",
     description: {
       de: "Ein moderner Hafen auf der Insel Boa Vista, der das Wachstum des lokalen Tourismus und Handels unterstützt.",
       hu: "Modern kikötő Boa Vista szigetén, amely támogatja a helyi turizmus és kereskedelem növekedését.",
@@ -852,7 +846,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       hu: "Tarrafal kikötője (São Nicolau)",
       ro: "Portul Tarrafal (São Nicolau)",
       en: "Port of Tarrafal (São Nicolau)"},
-    image: "/poi-images/porto-tarrafal-sn-economic-v2.webp",
     description: {
       de: "Der wichtigste Wirtschaftsknotenpunkt der Insel São Nicolau mit einem Fokus auf Fischerei und Warenimport.",
       hu: "São Nicolau szigetének legfontosabb gazdasági csomópontja, középpontban a halászattal és az áruimporttal.",
@@ -945,7 +938,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       hu: "Furna kikötője",
       ro: "Portul Furna",
       en: "Port of Furna"},
-    image: "/poi-images/porto-da-furna-economic-v2.webp",
     description: {
       de: "Der einzige Hafen der Insel Brava, der die abgelegene Insel mit dem Rest des Archipels verbindet.",
       hu: "Brava szigetének egyetlen kikötője, amely összeköti a távoli szigetet a szigetcsoport többi részével.",
@@ -993,7 +985,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       hu: "Porto Inglês kikötője",
       ro: "Portul Porto Inglês",
       en: "Port of Porto Inglês"},
-    image: "/poi-images/porto-ingles-maio-economic-v2.webp",
     description: {
       de: "Der wichtigste Hafen der Insel Maio, der entscheidend für den Transport von Salz und lokalen Produkten ist.",
       hu: "Maio szigetének legfontosabb kikötője, amely kulcsfontosságú a só és a helyi termékek szállításához.",
@@ -1041,7 +1032,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       hu: "Cabnave hajógyár",
       ro: "Șantierul naval Cabnave",
       en: "Cabnave Shipyard"},
-    image: "/poi-images/cabnave-shipyard-economic-v2.webp",
     description: {
       de: "Die größte Schiffswerft von Kap Verde in Mindelo, die Reparaturdienste für die mittelatlantische Schifffahrt anbietet.",
       hu: "Zöld-foki Köztársaság legnagyobb hajógyára Mindelóban, amely javítási szolgáltatásokat nyújt a közép-atlanti hajózás számára.",
@@ -1089,7 +1079,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       hu: "CERIS sörfőzde",
       ro: "Fabrica de bere CERIS",
       en: "CERIS Brewery"},
-    image: "/poi-images/ceris-brewery-praia-economic-v2.webp",
     description: {
       de: "Die führende Brauerei und Abfüllanlage für Getränke in Praia, die den nationalen Markt versorgt.",
       hu: "Praia vezető sörfőzdéje és italpalackozó üzeme, amely a nemzeti piacot látja el.",
@@ -1182,7 +1171,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       hu: "Gouveia szélerőműpark",
       ro: "Parcul eolian Gouveia",
       en: "Gouveia Wind Farm"},
-    image: "/poi-images/windfarm-gouveia-economic-v2.webp",
     description: {
       de: "Ein bedeutender Windpark auf der Insel Santiago, der zur Erhöhung des Anteils erneuerbarer Energien beiträgt.",
       hu: "Jelentős szélerőműpark Santiago szigetén, amely hozzájárul a megújuló energiaforrások arányának növeléséhez.",
@@ -1275,7 +1263,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       hu: "Selada do Flamengo szélerőműpark",
       ro: "Parcul eolian Selada do Flamengo",
       en: "Selada do Flamengo Wind Farm"},
-    image: "/poi-images/windfarm-selada-flamengo-economic-v2.webp",
     description: {
       de: "Ein wichtiger Windenergie-Standort auf São Vicente, der die Stadt Mindelo mit sauberem Strom versorgt.",
       hu: "Fontos szélenergia-helyszín São Vicentén, amely tiszta elektromos árammal látja el Mindelo városát.",
@@ -1368,7 +1355,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       hu: "Frescomar halkonzervgyár",
       ro: "Fabrica de conserve de pește Frescomar",
       en: "Frescomar Fish Canning Factory"},
-    image: "/poi-images/frescomar-factory-economic-v2.webp",
     description: {
       de: "Eine große Fabrik in Mindelo, die Fisch aus den kapverdischen Gewässern für den Weltmarkt verarbeitet.",
       hu: "Nagy gyár Mindelóban, amely a zöld-foki vizekből származó halat dolgozza fel a világpiac számára.",
@@ -1416,7 +1402,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       hu: "Palmarejo sótalanító üzem",
       ro: "Instalația de desalinizare Palmarejo",
       en: "Palmarejo Desalination Plant"},
-    image: "/poi-images/desalination-plant-palmarejo-economic-v2.webp",
     description: {
       de: "Eine lebenswichtige Anlage in Praia, die Meerwasser in Trinkwasser für die wachsende Bevölkerung umwandelt.",
       hu: "Létfontosságú létesítmény Praiában, amely a tengervizet ivóvízzé alakítja a növekvő lakosság számára.",
@@ -1545,7 +1530,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       hu: "Achada Grande ipari övezet",
       ro: "Zona industrială Achada Grande",
       en: "Achada Grande Industrial Zone"},
-    image: "/poi-images/achada-grande-industrial-economic-v2.webp",
     description: {
       de: "Das wichtigste Industrie- und Gewerbegebiet in Praia, in dem zahlreiche Unternehmen ansässig sind.",
       hu: "Praia legfontosabb ipari és kereskedelmi övezete, ahol számos vállalat székel.",
@@ -1593,7 +1577,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       hu: "Lazareto ipari övezet",
       ro: "Zona industrială Lazareto",
       en: "Lazareto Industrial Zone"},
-    image: "/poi-images/lazareto-industrial-economic-v2.webp",
     description: {
       de: "Ein wachsendes Industriegebiet am Stadtrand von Mindelo, das neue wirtschaftliche Impulse setzt.",
       hu: "Növekvő ipari övezet Mindelo szélén, amely új gazdasági lendületet ad.",
@@ -1686,7 +1669,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       hu: "Palmarejo naperőmű",
       ro: "Centrala solară Palmarejo",
       en: "Palmarejo Solar Power Plant"},
-    image: "/poi-images/solar-plant-palmarejo-economic-v2.webp",
     description: {
       de: "Eine große Photovoltaikanlage in Praia, die die intensive Sonneneinstrahlung zur Energiegewinnung nutzt.",
       hu: "Nagy fotovoltaikus létesítmény Praiában, amely az intenzív napsugárzást használja energiatermelésre.",
@@ -1739,7 +1721,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       hu: "Grogue lepárló (Paúl)",
       ro: "Distileria de grogue (Paúl)",
       en: "Grogue Distillery (Paúl)"},
-    image: "/poi-images/grogue-distillery-paul-economic-v2.webp",
     description: {
       de: "Eine traditionelle Brennerei im Paúl-Tal, in der das berühmte kapverdische Zuckerrohrgetränk hergestellt wird.",
       hu: "Hagyományos lepárló a Paúl-völgyben, ahol a híres zöld-foki cukornádital készül.",

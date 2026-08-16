@@ -89,7 +89,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-1",
     coords: [9.4447, 0.3875],
     name: { de: "Präsidentenpalast", hu: "Elnöki palota", ro: "Palatul Prezidențial", en: "Presidential Palace"},
-    image: "/poi-images/palais-presidentiel-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Der Präsidentenpalast in Libreville, bekannt als Palais du Bord de Mer, ist ein monumentaler Architekturkomplex, der als offizieller Sitz der gabunischen Regierung dient. Er wurde in den 1970er Jahren während der Präsidentschaft von Omar Bongo errichtet und sollte den wachsenden Wohlstand der Nation nach der Entdeckung bedeutender Ölreserven demonstrieren. Das Bauwerk ist bekannt für sein opulentes Design mit einer umfassenden Verwendung von importiertem Marmor, komplizierten Blattgoldverzierungen und modernen künstlerischen Elementen. In bester Lage am Wasser gelegen, überblickt der Palast den Atlantik und ist von sorgfältig gepflegten Gärten und Hochsicherheitsbefestigungen umgeben. Er fungiert sowohl als Residenz des Staatsoberhauptes als auch als Hauptort für hochrangige diplomatische Treffen und offizielle Staatszeremonien. Der Palast bleibt ein kraftvolles Symbol der politischen Autorität in Gabun und ein markantes Wahrzeichen in der Skyline der Hauptstadt, das die Modernisierungsbemühungen des Landes in der Mitte des 20. Jahrhunderts widerspiegelt.",
       hu: "A libreville-i elnöki palota, más néven Palais du Bord de Mer, egy monumentális építészeti komplexum, amely a gaboni kormány hivatalos székhelyeként szolgál. Az 1970-es években épült Omar Bongo elnöksége alatt, azzal a céllal, hogy bemutassa a nemzet növekvő jólétét a jelentős olajtartalékok felfedezését követően. Az épület híres fényűző kialakításáról, amely magában foglalja az importált márvány széleskörű használatát, a bonyolult aranyfüst díszítéseket és a modern művészeti elemeket. A tengerparti sétányon található palota az Atlanti-óceánra néz, és gondosan karbantartott kertek, valamint szigorú biztonsági erődítmények veszik körül. Egyszerre szolgál az államfő lakóhelyeként és a magas szintű diplomáciai találkozók, valamint hivatalos állami ünnepségek elsődleges helyszíneként. A palota továbbra is a politikai hatalom erőteljes szimbóluma Gabonban és a főváros látképének meghatározó eleme, tükrözve az ország 20. század közepi modernizációs törekvéseit.",
@@ -205,7 +204,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-1",
     coords: [9.4464, 0.3958],
     name: { de: "Kathedrale Sainte-Marie", hu: "Szent Mária-székesegyház", ro: "Catedrala Sfânta Maria", en: "Sainte-Marie Cathedral"},
-    image: "/poi-images/cathedrale-sainte-marie-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Die Kathedrale Notre-Dame de l'Assomption, allgemein bekannt als Sainte-Marie, ist ein Eckpfeiler der religiösen und architektonischen Geschichte Gabuns im Herzen von Libreville. Sie steht auf dem historischen Gelände des Fort d'Aumale, das 1843 die erste ständige französische Niederlassung im Land war. Das heutige Kathedralengebäude wurde vor allem in der Mitte des 20. Jahrhunderts errichtet, um frühere, bescheidenere Strukturen zu ersetzen, die der wachsenden katholischen Gemeinde seit der Mitte des 19. Jahrhunderts gedient hatten. Als Sitz der Erzdiözese Libreville spielt sie eine zentrale Rolle im geistlichen Leben der Nation und war 1982 Schauplatz eines historischen Besuchs von Papst Johannes Paul II. Die Architektur der Kathedrale verbindet traditionelle europäische gotische Einflüsse mit lokalen Materialien und schafft so ein einzigartiges Wahrzeichen, das die Küstenlandschaft dominiert. Sie dient nicht nur als Gotteshaus, sondern auch als Zeugnis für den langjährigen Einfluss der katholischen Kirche auf die Entwicklung der gabunischen Gesellschaft.",
       hu: "A Notre-Dame de l'Assomption katedrális, közismertebb nevén Sainte-Marie, Gabon vallási és építészeti történelmének sarokköve, amely Libreville szívében található. A történelmi Fort d'Aumale helyén áll, amely 1843-ban az első állandó francia település volt az országban. A jelenlegi székesegyház épülete elsősorban a 20. század közepén épült, felváltva a korábbi, szerényebb építményeket, amelyek az 1800-as évek közepe óta szolgálták a növekvő katolikus közösséget. Mint a Libreville-i érsekség székhelye, központi szerepet játszik a nemzet lelki életében, és II. János Pál pápa 1982-es történelmi látogatásának is helyszíne volt. A katedrális építészete a hagyományos európai gótikus hatásokat ötvözi a helyi anyagokkal, egyedülálló mérföldkövet hozva létre, amely uralja a tengerparti tájat. Nemcsak istentiszteleti helyként szolgál, hanem a katolikus egyháznak a gaboni társadalom fejlődésében betöltött hosszú távú hatásának bizonyságaként is.",
@@ -322,7 +320,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-1",
     coords: [9.4583, 0.3986],
     name: { de: "Kirche Saint-Michel de Nkembo", hu: "Nkembo-i Szent Mihály templom", ro: "Biserica Sfântul Mihail din Nkembo", en: "Saint-Michel de Nkembo Church"},
-    image: "/poi-images/eglise-saint-michel-landmarks-v2.webp",
   description: { de: "Eine einzigartige Kirche in Libreville, berühmt für ihre kunstvoll geschnitzten Holzsäulen.", hu: "Egyedülálló templom Libreville-ben, amely művészien faragott oszlopairól híres.", ro: "O biserică unică în Libreville, faimoasă pentru coloanele sale din lemn sculptate artistic.", en: "A unique church in Libreville, famous for its artistically carved wooden columns." , es: "Una iglesia única en Libreville, famosa por sus columnas de madera artísticamente talladas.", pt: "Uma igreja única em Libreville, famosa pelas suas colunas de madeira artisticamente esculpidas.", fr: "Une église unique à Libreville, célèbre pour ses colonnes en bois finement sculptées."},
     facts: {
       de: ["31 geschnitzte Holzsäulen", "Meisterwerk lokaler Kunst"],
@@ -357,7 +354,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-1",
     coords: [9.4430, 0.3845],
     name: { de: "Freiheitsdenkmal", hu: "Szabadság-emlékmű", ro: "Monumentul Libertății", en: "Liberty Monument"},
-    image: "/poi-images/monument-de-la-liberte-landmarks-v2.webp",
   description: { de: "Ein Denkmal in Libreville, das an die Abschaffung der Sklaverei und die Freiheit erinnert.", hu: "Emlékmű Libreville-ben, amely a rabszolgaság eltörlésére és a szabadságra emlékeztet.", ro: "Un monument în Libreville care comemorează abolirea sclaviei și libertatea.", en: "A monument in Libreville commemorating the abolition of slavery and freedom." , es: "Un monumento en Libreville que conmemora la abolición de la esclavitud y la libertad.", pt: "Um monumento em Libreville que recorda a abolição da escravatura e a liberdade.", fr: "Un monument à Libreville commémorant l'abolition de l'esclavage et la liberté."},
     facts: {
       de: ["Symbol der Befreiung", "Am Meer gelegen"],
@@ -438,7 +434,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-1",
     coords: [9.4886, 0.4439],
     name: { de: "Stadion der Freundschaft", hu: "Barátság Stadion", ro: "Stadionul Prieteniei", en: "Friendship Stadium"},
-    image: "/poi-images/stade-amitie-landmarks-v2.webp",
   description: { de: "Ein großes Sportstadion in Libreville, das bedeutende Fußballspiele und Events beherbergt.", hu: "Nagy sportstadion Libreville-ben, amely jelentős futballmérkőzéseknek és eseményeknek ad otthont.", ro: "Un mare stadion sportiv din Libreville, care găzduiește meciuri de fotbal și evenimente importante.", en: "A large sports stadium in Libreville that hosts major football matches and events." , es: "Un gran estadio deportivo en Libreville que alberga importantes partidos de fútbol y eventos.", pt: "Um grande estádio desportivo em Libreville, que acolhe importantes jogos de futebol e eventos.", fr: "Un grand stade de sport à Libreville, accueillant des matchs de football et des événements majeurs."},
     facts: {
       de: ["Austragungsort des Afrika-Cups", "Modernes Stadion"],
@@ -474,7 +469,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-1",
     coords: [9.4550, 0.4010],
     name: { de: "Stade Omar Bongo", hu: "Omar Bongo Stadion", ro: "Stadionul Omar Bongo", en: "Omar Bongo Stadium"},
-    image: "/poi-images/stade-omar-bongo-landmarks-v2.webp",
   description: { de: "Das Mehrzweckstadion in Libreville, benannt nach dem langjährigen Präsidenten Gabuns.", hu: "Többcélú stadion Libreville-ben, amelyet Gabon hosszú ideig hivatalban lévő elnökéről neveztek el.", ro: "Stadionul polivalent din Libreville, numit după președintele cu cel mai lung mandat al Gabonului.", en: "The multi-purpose stadium in Libreville, named after Gabon's long-serving president." , es: "El estadio multiusos de Libreville, nombrado en honor al que fuera presidente de Gabón durante muchos años.", pt: "O estádio multiusos em Libreville, nomeado em honra ao antigo presidente do Gabão.", fr: "Le stade polyvalent de Libreville, nommé en l'honneur du président de longue date du Gabon."},
     facts: {
       de: ["Nationalstadion", "Zentrum für Leichtathletik"],
@@ -591,7 +585,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-1",
     coords: [9.4475, 0.3925],
     name: { de: "Léon-Mba-Mausoleum", hu: "Léon Mba mauzóleum", ro: "Mausoleul Léon Mba", en: "Léon Mba Mausoleum"},
-    image: "/poi-images/mausolee-leon-mba-landmarks-v2.webp",
   description: { de: "Die Grabstätte des ersten Präsidenten von Gabun, Léon Mba, in Libreville.", hu: "Gabon első elnökének, Léon Mbának a sírhelye Libreville-ben.", ro: "Locul de odihnă al primului președinte al Gabonului, Léon Mba, în Libreville.", en: "The burial site of the first president of Gabon, Léon Mba, in Libreville." , es: "El lugar de sepultura del primer presidente de Gabón, Léon Mba, en Libreville.", pt: "O local de sepultura do primeiro presidente do Gabão, Léon Mba, em Libreville.", fr: "Le lieu de sépulture du premier président du Gabon, Léon Mba, à Libreville."},
     facts: {
       de: ["Grab des ersten Präsidenten", "Ort des Gedenkens"],
@@ -626,7 +619,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-8",
     coords: [8.8500, -0.9000],
     name: { de: "Ozouri-Brücke", hu: "Ozouri-híd", ro: "Podul Ozouri", en: "Ozouri Bridge"},
-    image: "/poi-images/pont-ozouri-landmarks-v2.webp",
   description: { de: "Eine bedeutende Brücke in der Ogooué-Maritime-Region, die wichtige Verkehrswege verbindet.", hu: "Jelentős híd Ogooué-Maritime régióban, amely fontos közlekedési útvonalakat köt össze.", ro: "Un pod important în regiunea Ogooué-Maritime, care leagă rute de transport vitale.", en: "A significant bridge in the Ogooué-Maritime region, connecting vital transport routes." , es: "Un puente importante en la región de Ogooué-Maritime que conecta rutas de transporte vitales.", pt: "Uma ponte importante na região de Ogooué-Maritime, que liga rotas de transporte vitais.", fr: "Un pont majeur dans la région de l'Ogooué-Maritime, reliant des axes de transport essentiels."},
     facts: {
       de: ["Ingenieurtechnisches Werk", "Überquert ein Ästuar"],
@@ -662,7 +654,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-2",
     coords: [13.5850, -1.6350],
     name: { de: "Kathedrale Saint-Hilaire", hu: "Szent Hiláriusz székesegyház", ro: "Catedrala Sfântul Hilarie", en: "Saint-Hilaire Cathedral"},
-    image: "/poi-images/cathedrale-saint-hilaire-landmarks-v2.webp",
   description: { de: "Die markante Kathedrale von Franceville, ein geistliches Zentrum im Osten Gabuns.", hu: "Franceville jellegzetes székesegyháza, Kelet-Gabon szellemi központja.", ro: "Catedrala proeminentă din Franceville, un centru spiritual în estul Gabonului.", en: "The prominent cathedral of Franceville, a spiritual center in eastern Gabon." , es: "La distintiva catedral de Franceville, un centro espiritual en el este de Gabón.", pt: "A catedral distintiva de Franceville, um centro espiritual no leste do Gabão.", fr: "La cathédrale emblématique de Franceville, un centre spirituel dans l'Est du Gabon."},
     facts: {
       de: ["Zentrum von Franceville", "Religiöses Wahrzeichen"],
@@ -697,7 +688,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-3",
     coords: [10.2280, -0.6950],
     name: { de: "Albert-Schweitzer-Krankenhaus", hu: "Albert Schweitzer Kórház", ro: "Spitalul Albert Schweitzer", en: "Albert Schweitzer Hospital"},
-    image: "/poi-images/hopital-schweitzer-landmarks-v2.webp",
   description: { de: "Das weltberühmte Krankenhaus, das vom Nobelpreisträger Albert Schweitzer in Lambaréné gegründet wurde.", hu: "A világhírű kórház, amelyet a Nobel-díjas Albert Schweitzer alapított Lambarénében.", ro: "Spitalul de renume mondial fondat de laureatul Premiului Nobel Albert Schweitzer în Lambaréné.", en: "The world-famous hospital founded by Nobel laureate Albert Schweitzer in Lambaréné." , es: "El mundialmente famoso hospital fundado por el Premio Nobel Albert Schweitzer en Lambaréné.", pt: "O hospital de fama mundial fundado pelo vencedor do Prémio Nobel Albert Schweitzer em Lambaréné.", fr: "L'hôpital de renommée mondiale fondé par le prix Nobel Albert Schweitzer à Lambaréné."},
     facts: {
       de: ["Historisches Krankenhaus", "UNESCO-Weltkulturerbe-Kandidat"],
@@ -732,7 +722,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-8",
     coords: [9.2000, -1.3000],
     name: { de: "Mission Sainte-Anne du Fernan Vaz", hu: "Fernan Vaz-i Szent Anna misszió", ro: "Misiunea Sfânta Ana din Fernan Vaz", en: "Saint-Anne Mission of Fernan Vaz"},
-    image: "/poi-images/mission-sainte-anne-landmarks-v2.webp",
   description: { de: "Eine historische katholische Mission mit einer Eisenkirche, die von Gustave Eiffel entworfen wurde.", hu: "Történelmi katolikus misszió vasvázas templommal, amelyet Gustave Eiffel tervezett.", ro: "O misiune istorică catolică cu o biserică din fier proiectată de Gustave Eiffel.", en: "A historic Catholic mission featuring an iron church designed by Gustave Eiffel." , es: "Una histórica misión católica con una iglesia de hierro diseñada por Gustave Eiffel.", pt: "Uma histórica missão católica com uma igreja de ferro desenhada por Gustave Eiffel.", fr: "Une mission catholique historique dotée d'une église en fer conçue par Gustave Eiffel."},
     facts: {
       de: ["Kirche von Eiffel entworfen", "Am Ufer der Lagune"],
@@ -885,7 +874,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-1",
     coords: [9.4480, 0.4030],
     name: { de: "Parlamentsgebäude", hu: "Parlament épülete", ro: "Clădirea Parlamentului", en: "Parliament Building"},
-    image: "/poi-images/palais-parlement-landmarks-v2.webp",
   description: { de: "Der Sitz der Nationalversammlung von Gabun in Libreville, ein modernes architektonisches Bauwerk.", hu: "Gabon nemzetgyűlésének székhelye Libreville-ben, egy modern építészeti alkotás.", ro: "Sediul Adunării Naționale a Gabonului din Libreville, o structură arhitecturală modernă.", en: "The seat of the National Assembly of Gabon in Libreville, a modern architectural structure." , es: "La sede de la Asamblea Nacional de Gabón en Libreville, una obra arquitectónica moderna.", pt: "A sede da Assembleia Nacional do Gabão em Libreville, um edifício arquitetónico moderno.", fr: "Le siège de l'Assemblée nationale du Gabon à Libreville, un édifice architectural moderne."},
     facts: {
       de: ["Gesetzgebendes Zentrum", "Modernes Design"],
@@ -921,7 +909,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-1",
     coords: [9.4420, 0.3910],
     name: { de: "Nationalmuseum für Kunst und Tradition", hu: "Nemzeti Művészeti és Hagyományőrző Múzeum", ro: "Muzeul Național de Arte și Tradiții", en: "National Museum of Arts and Traditions"},
-    image: "/poi-images/musee-national-landmarks-v2.webp",
   description: { de: "Ein Museum in Libreville, das die reiche kulturelle Geschichte und Kunst Gabuns ausstellt.", hu: "Múzeum Libreville-ben, amely Gabon gazdag kulturális történelmét és művészetét mutatja be.", ro: "Un muzeu din Libreville care expune istoria culturală bogată și arta Gabonului.", en: "A museum in Libreville exhibiting Gabon's rich cultural history and arts." , es: "Un museo en Libreville que exhibe la rica historia cultural y el arte de Gabón.", pt: "Um museu em Libreville que expõe a rica história cultural e a arte do Gabão.", fr: "Un musée à Libreville exposant la riche histoire culturelle et l'art du Gabon."},
     facts: {
       de: ["Maskensammlung", "Kulturelles Erbe"],
@@ -957,7 +944,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-8",
     coords: [8.7050, -0.6350],
     name: { de: "Leuchtturm von Kap Lopez", hu: "Lopez-fok világítótorony", ro: "Farul de la Capul Lopez", en: "Lighthouse of Cape Lopez"},
-    image: "/poi-images/phare-cap-lopez-landmarks-v2.webp",
   description: { de: "Ein historischer Leuchtturm am westlichsten Punkt Gabuns, der Schiffen den Weg weist.", hu: "Történelmi világítótorony Gabon legnyugatibb pontján, amely az utat mutatja a hajóknak.", ro: "Un far istoric situat în cel mai vestic punct al Gabonului, ghidând navele.", en: "A historic lighthouse at the westernmost point of Gabon, guiding ships." , es: "Un faro histórico en el punto más occidental de Gabón que guía a los barcos.", pt: "Um farol histórico no ponto mais ocidental do Gabão, que guia os navios.", fr: "Un phare historique situé au point le plus à l'ouest du Gabon, guidant les navires."},
     facts: {
       de: ["Navigation am Atlantik", "Strategischer Punkt"],
@@ -1029,7 +1015,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-2",
     coords: [13.2100, -1.5700],
     name: { de: "Manganmine von Moanda", hu: "Moandai mangánbánya", ro: "Mina de mangan din Moanda", en: "Moanda Manganese Mine"},
-    image: "/poi-images/mine-mangan-moanda-landmarks-v2.webp",
   description: { de: "Eine der größten Manganminen der Welt, ein industrielles Wahrzeichen Gabuns.", hu: "A világ egyik legnagyobb mangánbányája, Gabon ipari jelképe.", ro: "Una dintre cele mai mari mine de mangan din lume, un reper industrial al Gabonului.", en: "One of the largest manganese mines in the world, an industrial landmark of Gabon." , es: "Una de las minas de manganeso más grandes del mundo, un hito industrial de Gabón.", pt: "Uma das maiores minas de manganês do mundo, um marco industrial do Gabão.", fr: "L'une des plus grandes mines de manganèse au monde, un monument industriel du Gabon."},
     facts: {
       de: ["Weltgrößte Vorkommen", "Wirtschaftlicher Motor"],
@@ -1110,7 +1095,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-2",
     coords: [13.5500, -1.7800],
     name: { de: "Poubara-Staudamm", hu: "Poubara-gát", ro: "Barajul Poubara", en: "Poubara Dam"},
-    image: "/poi-images/barrage-poubara-landmarks-v2.webp",
   description: { de: "Ein bedeutender Wasserkraftdamm am Ogooué-Fluss, der die Region mit Energie versorgt.", hu: "Jelentős vízerőmű az Ogooué folyón, amely energiával látja el a régiót.", ro: "Un baraj hidroelectric important pe râul Ogooué, care furnizează energie regiunii.", en: "A significant hydroelectric dam on the Ogooué River, supplying energy to the region." , es: "Una importante presa hidroeléctrica en el río Ogooué que suministra energía a la región.", pt: "Uma importante barragem hidroeléctrica no rio Ogooué que fornece energia à região.", fr: "Un important barrage hydroélectrique sur le fleuve Ogooué, qui alimente la région en énergie."},
     facts: {
       de: ["Energiegewinnung", "Am Ogooué-Fluss"],
@@ -1145,7 +1129,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-1",
     coords: [9.3650, 0.3150],
     name: { de: "Palast von König Denis", hu: "Denis király palotája", ro: "Palatul Regelui Denis", en: "King Denis Palace"},
-    image: "/poi-images/palais-roi-denis-landmarks-v2.webp",
   description: { de: "Ein historischer Ort auf der Pointe Denis, der an die Herrschaft lokaler Könige erinnert.", hu: "Történelmi helyszín a Pointe Denis-en, amely a helyi királyok uralkodására emlékeztet.", ro: "Un loc istoric pe Pointe Denis, care comemorează domnia regilor locali.", en: "A historic site on Pointe Denis, commemorating the rule of local kings." , es: "Un lugar histórico en Pointe Denis que conmemora el reinado de los monarcas locales.", pt: "Um local histórico na Pointe Denis que comemora o reinado dos reis locais.", fr: "Un site historique sur la Pointe Denis qui commémore le règne des rois locaux."},
     facts: {
       de: ["Historisches Erbe", "Kulturelle Bedeutung"],
@@ -1181,7 +1164,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-8",
     coords: [8.7850, -0.7180],
     name: { de: "Kathedrale Saint-Pierre", hu: "Szent Péter székesegyház", ro: "Catedrala Sfântul Petru", en: "Saint-Pierre Cathedral"},
-    image: "/poi-images/cathedrale-saint-pierre-landmarks-v2.webp",
   description: { de: "Die zentrale katholische Kirche von Port-Gentil, bekannt für ihre Architektur.", hu: "Port-Gentil központi katolikus temploma, amely építészetéről ismert.", ro: "Biserica centrală catolică din Port-Gentil, cunoscută pentru arhitectura sa.", en: "The central Catholic church of Port-Gentil, known for its architecture." , es: "La iglesia católica central de Port-Gentil, conocida por su arquitectura.", pt: "A igreja católica central de Port-Gentil, conhecida pela sua arquitetura.", fr: "L'église catholique centrale de Port-Gentil, réputée pour son architecture."},
     facts: {
       de: ["Zentrum von Port-Gentil", "Wichtige Kirche"],
@@ -1216,7 +1198,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-2",
     coords: [13.5820, -1.6380],
     name: { de: "Omar-Bongo-Gedenkstätte", hu: "Omar Bongo emlékhely", ro: "Memorialul Omar Bongo", en: "Memorial of Omar Bongo"},
-    image: "/poi-images/memorial-omar-bongo-landmarks-v2.webp",
   description: { de: "Eine monumentale Gedenkstätte in Franceville, gewidmet dem ehemaligen Präsidenten Omar Bongo.", hu: "Monumentális emlékhely Franceville-ben, amelyet Omar Bongo volt elnöknek szenteltek.", ro: "Un memorial monumental în Franceville, dedicat fostului președinte Omar Bongo.", en: "A monumental memorial in Franceville dedicated to former President Omar Bongo." , es: "Un monumento conmemorativo en Franceville dedicado al expresidente Omar Bongo.", pt: "Um memorial monumental em Franceville, dedicado ao ex-presidente Omar Bongo.", fr: "Un mémorial monumental à Franceville, dédié à l'ancien président Omar Bongo."},
     facts: {
       de: ["Monumentales Grab", "In Franceville"],
@@ -1296,7 +1277,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-2",
     coords: [13.5450, -1.7850],
     name: { de: "Lianenbrücke von Poubara", hu: "Poubarai liánhíd", ro: "Podul de liane din Poubara", en: "Bridge of Vines of Poubara"},
-    image: "/poi-images/pont-lianes-poubara-landmarks-v2.webp",
   description: { de: "Eine traditionelle Brücke aus Lianen, die eine beeindruckende handwerkliche Leistung darstellt.", hu: "Hagyományos, liánokból készült híd, amely lenyűgöző kézműves teljesítményt tükröz.", ro: "Un pod tradițional făcut din liane, reprezentând o realizare artizanală impresionantă.", en: "A traditional bridge made of vines, representing an impressive artisanal achievement." , es: "Un puente tradicional hecho de lianas que representa un impresionante logro artesanal.", pt: "Uma ponte tradicional feita de lianas, que representa uma impressionante conquista artesanal.", fr: "Un pont traditionnel en lianes, représentant une prouesse artisanale impressionnante."},
     facts: {
       de: ["Traditionelle Bauweise", "Über den Ogooué"],
@@ -1377,7 +1357,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-1",
     coords: [9.5080, 0.2980],
     name: { de: "Bahnhof von Owendo", hu: "Owendo vasútállomás", ro: "Gara din Owendo", en: "Owendo Railway Station"},
-    image: "/poi-images/gare-transgabonais-landmarks-v2.webp",
   description: { de: "Der zentrale Bahnhof der Transgabun-Eisenbahn, die das Innere des Landes verbindet.", hu: "A Transzgaboni vasútvonal központi állomása, amely összeköti az ország belsejét.", ro: "Gara centrală a căii ferate Transgabon, care leagă interiorul țării.", en: "The central station of the Transgabon Railway, connecting the interior of the country." , es: "La estación central del ferrocarril Trans-Gabonais, que conecta el interior del país con la costa.", pt: "A estação central da ferrovia Trans-Gabonais, que liga o interior do país à costa.", fr: "La gare centrale du chemin de fer Transgabonais, reliant l'intérieur du pays à la côte."},
     facts: {
       de: ["Startpunkt der Transgabonais", "Verkehrsknotenpunkt"],
@@ -1637,7 +1616,6 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     parent: "GA-1",
     coords: [9.4520, 0.4210],
     name: { de: "Universität Omar Bongo", hu: "Omar Bongo Egyetem", ro: "Universitatea Omar Bongo", en: "University of Omar Bongo"},
-    image: "/poi-images/universite-omar-bongo-landmarks-v2.webp",
   description: { de: "Die bedeutendste Bildungseinrichtung Gabuns in Libreville, benannt nach dem ehemaligen Präsidenten.", hu: "Gabon legjelentősebb oktatási intézménye Libreville-ben, amelyet a volt elnökről neveztek el.", ro: "Cea mai importantă instituție de învățământ din Gabon, situată în Libreville.", en: "Gabon's most important educational institution in Libreville, named after the former president." , es: "La institución educativa más importante de Gabón en Libreville, nombrada en honor al antiguo presidente.", pt: "A instituição de ensino mais importante do Gabão, em Libreville, nomeada em honra ao antigo presidente.", fr: "Le plus important établissement d'enseignement du Gabon à Libreville, nommé d'après l'ancien président."},
     facts: {
       de: ["Größte Universität", "Akademisches Zentrum"],

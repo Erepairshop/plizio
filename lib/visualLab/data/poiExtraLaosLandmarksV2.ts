@@ -1101,7 +1101,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
       hu: "Pha That Luang",
       ro: "Pha That Luang",
       en: "Pha That Luang"},
-    image: "/poi-images/pha-that-luang-landmarks-v2.webp",
     description: {
       de: "Das wichtigste nationale Wahrzeichen in Laos, ein großes goldfarbenes buddhistisches Stupa-Monument im Zentrum von Vientiane.",
       hu: "Laosz legfontosabb nemzeti jelképe, egy nagy aranyszínű buddhista sztúpa Vientián központjában.",
@@ -1862,7 +1861,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
       hu: "Wat Xieng Thong",
       ro: "Wat Xieng Thong",
       en: "Wat Xieng Thong"},
-    image: "/poi-images/wat-xieng-thong-landmarks-v2.webp",
     description: {
       de: "Einer der historisch bedeutendsten buddhistischen Tempel in Luang Prabang, berühmt für sein weitreichendes Dach und reiche Verzierungen.",
       hu: "Luangprabang egyik történelmileg legjelentősebb buddhista temploma, amely híres az alacsonyra nyúló tetőzetéről és gazdag díszítéseiről.",
@@ -2335,7 +2333,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
       hu: "Buddha Park",
       ro: "Parcul Buddha",
       en: "Buddha Park"},
-    image: "/poi-images/buddha-park-landmarks-v2.webp",
     description: {
       de: "Ein ungewöhnlicher Skulpturenpark am Mekong, der mehr als 200 buddhistische und hinduistische Statuen beherbergt.",
       hu: "Egy szokatlan szoborpark a Mekong folyó partján, amely több mint 200 buddhista és hindu szobornak ad otthont.",
@@ -2520,7 +2517,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
       hu: "Wat Phu",
       ro: "Vat Phou",
       en: "Vat Phou"},
-    image: "/poi-images/vat-phou-landmarks-v2.webp",
     description: {
       de: "Eine ruinierte Tempelanlage der Khmer im Süden von Laos, die sich am Fuß des Berges Phou Kao befindet.",
       hu: "Egy romos khmer templomegyüttes Dél-Laoszban, amely a Phou Kao hegy lábánál található.",
@@ -2588,7 +2584,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
       hu: "Wat Si Saket",
       ro: "Wat Si Saket",
       en: "Wat Si Saket"},
-    image: "/poi-images/wat-si-saket-landmarks-v2.webp",
     description: {
       de: "Der älteste erhaltene buddhistische Tempel in Vientiane, bekannt für seine Tausenden von kleinen Buddha-Statuen in den Wänden.",
       hu: "Vientián legrégebbi fennmaradt buddhista temploma, amely híres a falaiban található több ezer kis Buddha-szoborról.",
@@ -2773,7 +2768,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
       hu: "Haw Phra Kaew",
       ro: "Haw Phra Kaew",
       en: "Haw Phra Kaew"},
-    image: "/poi-images/haw-phra-kaew-landmarks-v2.webp",
     description: {
       de: "Ein ehemaliger Tempel in Vientiane, der heute als Museum für religiöse Kunst und alte laotische Artefakte dient.",
       hu: "Egykori templom Vientiánban, amely ma a vallási művészet és az ősi laoszi tárgyak múzeumaként működik.",
@@ -2958,7 +2952,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
       hu: "Királyi Palota Múzeum",
       ro: "Muzeul Palatului Regal",
       en: "Royal Palace Museum"},
-    image: "/poi-images/royal-palace-museum-landmarks-v2.webp",
     description: {
       de: "Der ehemalige königliche Palast von Luang Prabang, der laotische und französische Beaux-Arts-Architektur vereint.",
       hu: "Luangprabang egykori királyi palotája, amely a laoszi és a francia Beaux-Arts építészetet ötvözi.",
@@ -3170,7 +3163,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
       hu: "That Sikhottabong",
       ro: "That Sikhottabong",
       en: "That Sikhottabong"},
-    image: "/poi-images/that-sikhottabong-landmarks-v2.webp",
     description: {
       de: "Ein monumentaler Stupa in Thakhek am Ufer des Mekong, der ein Relikt von Lord Buddha beherbergen soll.",
       hu: "Egy monumentális sztúpa Thakhekben, a Mekong partján, amely állítólag Buddha egyik ereklyéjét őrzi.",
@@ -3355,7 +3347,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
       hu: "Wat Mai",
       ro: "Wat Mai",
       en: "Wat Mai"},
-    image: "/poi-images/wat-mai-suwannaphumaham-landmarks-v2.webp",
     description: {
       de: "Das größte und am reichsten verzierte Kloster in Luang Prabang, berühmt für seine goldenen Reliefs auf der Vorderseite.",
       hu: "Luangprabang legnagyobb és leggazdagabban díszített kolostora, amely híres a homlokzatán lévő arany domborművekről.",
@@ -3540,7 +3531,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
       hu: "Viengxay-barlangok",
       ro: "Peșterile Viengxay",
       en: "Viengxay Caves"},
-    image: "/poi-images/viengxay-caves-landmarks-v2.webp",
     description: {
       de: "Ein weitreichendes Höhlennetzwerk, das während des Zweiten Indochinakriegs als geheime Operationsbasis der Pathet Lao diente.",
       hu: "Kiterjedt barlanghálózat, amely a második indokínai háború alatt a Pathet Lao titkos műveleti bázisaként szolgált.",
@@ -3608,7 +3598,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
       hu: "Pak Ou-barlangok",
       ro: "Peșterile Pak Ou",
       en: "Pak Ou Caves"},
-    image: "/poi-images/pak-ou-caves-landmarks-v2.webp",
     description: {
       de: "Heilige Höhlen am Mekong, in denen Tausende von kleinen und großen Buddha-Statuen von Pilgern hinterlassen wurden.",
       hu: "Szent barlangok a Mekong mentén, ahol a zarándokok több ezer kisebb-nagyobb Buddha-szobrot hagytak hátra.",
@@ -3757,7 +3746,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
       hu: "Phousi-hegy",
       ro: "Muntele Phousi",
       en: "Mount Phousi"},
-    image: "/poi-images/mount-phousi-landmarks-v2.webp",
     description: {
       de: "Ein 100 Meter hoher Hügel im Zentrum von Luang Prabang, der religiöse Schreine und einen Panoramablick auf die Stadt bietet.",
       hu: "Egy 100 méter magas domb Luangprabang központjában, amely vallási szentélyeket és panorámás kilátást kínál a városra.",
@@ -3870,7 +3858,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
       hu: "Kong Lor-barlang",
       ro: "Peștera Kong Lor",
       en: "Kong Lor Cave"},
-    image: "/poi-images/kong-lor-cave-landmarks-v2.webp",
     description: {
       de: "Eine der beeindruckendsten geologischen Formationen in Laos, eine 7,5 km lange Karsthöhle, die von einem befahrbaren unterirdischen Fluss durchzogen wird.",
       hu: "Laosz egyik leglenyűgözőbb geológiai képződménye, egy 7,5 km hosszú karsztbarlang, amelyet egy hajózható föld alatti folyó szel át.",
@@ -3983,7 +3970,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
       hu: "Wat Visounnarath",
       ro: "Wat Visounnarath",
       en: "Wat Visounnarath"},
-    image: "/poi-images/wat-visounnarath-landmarks-v2.webp",
     description: {
       de: "Einer der ältesten Tempel in Luang Prabang, bekannt für seinen einzigartigen Wassermelonen-Stupa.",
       hu: "Luangprabang egyik legrégebbi temploma, amely az egyedi dinnye alakú sztúpájáról ismert.",
@@ -4600,7 +4586,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
       hu: "COPE Látogatóközpont",
       ro: "Centrul de Vizitatori COPE",
       en: "COPE Visitor Centre"},
-    image: "/poi-images/cope-visitor-centre-landmarks-v2.webp",
     description: {
       de: "Ein informatives Museum in Vientiane, das die Auswirkungen der geheimen Bombardierungen auf Laos und die Bemühungen um Prothetik dokumentiert.",
       hu: "Egy informatív múzeum Vientiánban, amely dokumentálja a titkos bombázások hatásait Laoszra és a protetikai erőfeszítéseket.",
@@ -4668,7 +4653,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
       hu: "Chao Anouvong-szobor",
       ro: "Statuia lui Chao Anouvong",
       en: "Chao Anouvong Statue"},
-    image: "/poi-images/chao-anouvong-statue-landmarks-v2.webp",
     description: {
       de: "Ein markantes Bronzemonument am Mekong in Vientiane, das dem letzten König des Königreichs Vientiane gewidmet ist.",
       hu: "Egy jellegzetes bronzemlékmű a Mekong mentén Vientiánban, amelyet Vientián királyságának utolsó királyának szenteltek.",

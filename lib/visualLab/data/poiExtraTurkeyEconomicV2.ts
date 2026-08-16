@@ -89,7 +89,6 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     parent: "TR-63",
     coords: [38.317, 37.481],
     name: { de: "Atatürk-Staudamm", hu: "Atatürk-gát", ro: "Barajul Atatürk", en: "Atatürk Dam"},
-    image: "/poi-images/ataturk-dam-economic-v2.webp",
     description: { de: "Der Atatürk-Staudamm ist das Herzstück des Südostanatolien-Projekts am Euphrat.", hu: "Az Atatürk-gát a Délkelet-Anatólia Projekt központi eleme az Eufrátesz folyón.", ro: "Barajul Atatürk este piesa centrală a Proiectului Anatoliei de Sud-Est de pe fluviul Eufrat.", en: "The Atatürk Dam is the centerpiece of the Southeastern Anatolia Project on the Euphrates River." , es: "La presa Atatürk es la pieza central del proyecto del Sureste de Anatolia en el río Éufrates.", pt: "A barragem Atatürk é a peça central do projeto do Sudeste da Anatólia no rio Eufrates.", fr: "Le barrage Atatürk est la pièce maîtresse du projet de l'Anatolie du Sud-Est sur l'Euphrate."},
     facts: {
       de: ["Der größte Staudamm der Türkei.", "Erzeugt massive Mengen an Wasserkraft."],
@@ -422,7 +421,6 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     parent: "TR-34",
     coords: [28.675, 40.970],
     name: { de: "Hafen von Ambarlı", hu: "Ambarlı kikötő", ro: "Portul Ambarlı", en: "Port of Ambarlı"},
-    image: "/poi-images/ambarli-port-economic-v2.webp",
     description: { de: "Der Hafen von Ambarlı in Istanbul ist der wichtigste Knotenpunkt für den Seehandel der Türkei.", hu: "Az isztambuli Ambarlı kikötő Törökország tengeri kereskedelmének legfontosabb csomópontja.", ro: "Portul Ambarlı din Istanbul este cel mai important nod pentru comerțul maritim al Turciei.", en: "The Port of Ambarlı in Istanbul is the most important hub for Turkey's maritime trade." , es: "El puerto de Ambarlı en Estambul es el nudo central más importante para el comercio marítimo de Turquía.", pt: "O porto de Ambarlı em Istambul é o centro mais importante para o comércio marítimo da Turquia.", fr: "Le port d'Ambarlı à Istanbul est le centre névralgique le plus important pour le commerce maritime en Turquie."},
     facts: {
       de: ["Größter Containerhafen des Landes.", "Wichtiges Tor für den Handel Istanbuls."],
@@ -503,7 +501,6 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     parent: "TR-33",
     coords: [34.646, 36.795],
     name: { de: "Internationaler Hafen von Mersin", hu: "Mersin Nemzetközi Kikötő", ro: "Portul Internațional Mersin", en: "Mersin International Port"},
-    image: "/poi-images/mersin-international-port-economic-v2.webp",
     description: { de: "Der Hafen von Mersin ist einer der größten Seehäfen der Türkei mit Verbindungen in den Nahen Osten.", hu: "A mersini kikötő Törökország egyik legnagyobb tengeri kikötője, amely összeköti a Közel-Keletet.", ro: "Portul Mersin este unul dintre cele mai mari porturi din Turcia, cu legături spre Orientul Mijlociu.", en: "The Port of Mersin is one of Turkey's largest seaports, providing links to the Middle East." , es: "El puerto de Mersin es uno de los puertos marítimos más grandes de Turquía con conexiones a Oriente Medio.", pt: "O porto de Mersin é um dos maiores portos marítimos da Turquia, com conexões para o Oriente Médio.", fr: "Le port de Mersin est l'un des plus grands ports maritimes de Turquie avec des liaisons vers le Moyen-Orient."},
     facts: {
       de: ["Wichtiger Exporthafen im Mittelmeer.", "Unterstützt Industrie und Landwirtschaft."],
@@ -539,7 +536,6 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     parent: "TR-21",
     coords: [39.141, 38.223],
     name: { de: "Karakaya-Staudamm", hu: "Karakaya-gát", ro: "Barajul Karakaya", en: "Karakaya Dam"},
-    image: "/poi-images/karakaya-dam-economic-v2.webp",
     description: { de: "Der Karakaya-Staudamm ist eine der wichtigsten Energiequellen im Osten der Türkei.", hu: "A Karakaya-gát az egyik legfontosabb energiaforrás Törökország keleti részén.", ro: "Barajul Karakaya este una dintre sursele majore de energie din estul Turciei.", en: "The Karakaya Dam is one of the major sources of energy in eastern Turkey." , es: "La presa de Karakaya es una de las fuentes de energía más importantes del este de Turquía.", pt: "A barragem de Karakaya é uma das fontes de energia mais importantes do leste da Turquia.", fr: "Le barrage de Karakaya est l'une des sources d'énergie les plus importantes de l'est de la Turquie."},
     facts: {
       de: ["Wichtiges Wasserkraftwerk.", "Zweites Kraftwerk am Euphrat."],
@@ -728,7 +724,6 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     parent: "TR-16",
     coords: [29.116, 40.413],
     name: { de: "Togg-Werk Gemlik", hu: "Togg Gemlik Gyár", ro: "Fabrica Togg Gemlik", en: "Togg Gemlik Facility"},
-    image: "/poi-images/togg-gemlik-facility-economic-v2.webp",
     description: { de: "Das Togg-Werk in Gemlik ist das erste Zentrum zur Herstellung von Elektrofahrzeugen in der Türkei.", hu: "A gemliki Togg gyár Törökország első elektromos járműgyártó központja.", ro: "Fabrica Togg din Gemlik este primul centru de producție de vehicule electrice din Turcia.", en: "The Togg plant in Gemlik is Turkey's first electric vehicle manufacturing center." , es: "La planta Togg en Gemlik es el primer centro de fabricación de vehículos eléctricos en Turquía.", pt: "A fábrica da Togg em Gemlik é o primeiro centro de fabricação de veículos elétricos na Turquia.", fr: "L'usine Togg à Gemlik est le premier centre de fabrication de véhicules électriques en Turquie."},
     facts: {
       de: ["Produktionsstätte für E-Autos.", "Eröffnet im Jahr 2022."],
@@ -764,7 +759,6 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     parent: "TR-45",
     coords: [27.387, 38.618],
     name: { de: "Vestel City", hu: "Vestel City", ro: "Vestel City", en: "Vestel City"},
-    image: "/poi-images/vestel-city-economic-v2.webp",
     description: { de: "Vestel City in Manisa ist eine massive Produktionsstätte für Unterhaltungselektronik und Haushaltsgeräte.", hu: "A manisai Vestel City egy hatalmas szórakoztatóelektronikai és háztartási gépgyár.", ro: "Vestel City din Manisa este o unitate masivă de producție pentru electronice și electrocasnice.", en: "Vestel City in Manisa is a massive production facility for consumer electronics and home appliances." , es: "Vestel City en Manisa es una enorme instalación de producción de electrónica de consumo y electrodomésticos.", pt: "A Vestel City em Manisa é uma enorme instalação de produção de eletrônicos de consumo e eletrodomésticos.", fr: "Vestel City à Manisa est une immense installation de production d'électronique grand public et d'appareils électroménagers."},
     facts: {
       de: ["Einer der größten Industriekomplexe.", "Produziert Elektronik für ganz Europa."],
@@ -881,7 +875,6 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     parent: "TR-31",
     coords: [36.196, 36.733],
     name: { de: "Stahlwerk İskenderun (İsdemir)", hu: "İskenderun Vas- és Acélmű (İsdemir)", ro: "Uzina Siderurgică İskenderun (İsdemir)", en: "İskenderun Iron and Steel Works (İsdemir)"},
-    image: "/poi-images/isdemir-economic-v2.webp",
     description: { de: "Das Stahlwerk İskenderun spielt eine zentrale Rolle in der Schwerindustrie der Region.", hu: "Az İskenderun Vas- és Acélmű központi szerepet játszik a régió nehéziparában.", ro: "Uzina siderurgică İskenderun joacă un rol central în industria grea a regiunii.", en: "The İskenderun Steelworks plays a central role in the heavy industry of the region." , es: "La acería de İskenderun desempeña un papel central en la industria pesada de la región.", pt: "A siderúrgica de İskenderun desempenha um papel central na indústria pesada da região.", fr: "L'aciérie d'İskenderun joue un rôle central dans l'industrie lourde de la région."},
     facts: {
       de: ["Zweitgrößtes Stahlwerk der Türkei.", "Liegt an der Küste in İskenderun."],
@@ -1502,7 +1495,6 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     parent: "TR-35",
     coords: [26.960, 38.790],
     name: { de: "Star-Raffinerie Aliağa", hu: "Star Finomító Aliağa", ro: "Rafinăria Star Aliağa", en: "Star Refinery Aliağa"},
-    image: "/poi-images/star-refinery-economic-v2.webp",
     description: { de: "Die Star-Raffinerie sichert die Versorgung der Türkei mit petrochemischen Produkten.", hu: "A Star Finomító biztosítja Törökország petrolkémiai termékekkel való ellátását.", ro: "Rafinăria Star asigură aprovizionarea Turciei cu produse petrochimice.", en: "The Star Refinery secures Turkey's supply of petrochemical products." , es: "La refinería Star asegura el suministro de productos petroquímicos a Turquía.", pt: "A refinaria Star garante o fornecimento de produtos petroquímicos para a Turquia.", fr: "La raffinerie Star assure l'approvisionnement de la Turquie en produits pétrochimiques."},
     facts: {
       de: ["Große Ölraffinerie in Aliağa.", "Reduziert die Importabhängigkeit."],
@@ -1538,7 +1530,6 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     parent: "TR-26",
     coords: [30.457, 39.288],
     name: { de: "Bormine Kırka", hu: "Kırka Bórbánya", ro: "Mina de Bor Kırka", en: "Kırka Boron Mine"},
-    image: "/poi-images/kirka-boron-mine-economic-v2.webp",
     description: { de: "Die Kırka-Bormine in Eskişehir ist ein entscheidendes Zentrum für den weltweiten Borabbau.", hu: "Az Eskişehirben található Kırka bórbánya a globális bórkitermelés döntő fontosságú központja.", ro: "Mina de bor Kırka din Eskişehir este un centru crucial pentru extracția globală de bor.", en: "The Kırka boron mine in Eskişehir is a crucial center for global boron extraction." , es: "La mina de boro de Kırka en Eskişehir es un centro crucial para la extracción mundial de boro.", pt: "A mina de boro de Kırka em Eskişehir é um centro crucial para a extração mundial de boro.", fr: "La mine de bore de Kırka à Eskişehir est un centre crucial pour l'extraction mondiale de bore."},
     facts: {
       de: ["Größte Bor-Lagerstätte der Welt.", "Wichtiger Exportartikel der Türkei."],
@@ -1574,7 +1565,6 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     parent: "TR-45",
     coords: [27.568, 39.186],
     name: { de: "Kohlebergwerk Soma", hu: "Soma Szénbánya", ro: "Mina de Cărbune Soma", en: "Soma Coal Mine"},
-    image: "/poi-images/soma-coal-mine-economic-v2.webp",
     description: { de: "Die Bergwerke von Soma gehören zu den wichtigsten Braunkohlelieferanten für die Energieerzeugung.", hu: "A soma-i bányák az energiatermelés legfontosabb barnaszén-szállítói közé tartoznak.", ro: "Minele din Soma se numără printre cei mai importanți furnizori de lignit pentru energie.", en: "The Soma mines are among the most important suppliers of lignite for energy production." , es: "Las minas de Soma son uno de los proveedores de lignito más importantes para la generación de energía.", pt: "As minas de Soma são um dos fornecedores de linhito mais importantes para a geração de energia.", fr: "Les mines de Soma sont l'un des fournisseurs de lignite les plus importants pour la production d'énergie."},
     facts: {
       de: ["Wichtiges Zentrum für den Kohleabbau.", "Befindet sich in der Provinz Manisa."],
@@ -1610,7 +1600,6 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     parent: "TR-46",
     coords: [37.108, 38.319],
     name: { de: "Kraftwerk Afşin-Elbistan", hu: "Afşin-Elbistan Hőerőmű", ro: "Centrala Termică Afşin-Elbistan", en: "Afşin-Elbistan Power Plant"},
-    image: "/poi-images/afsin-elbistan-power-plant-economic-v2.webp",
     description: { de: "Das Kraftwerk Afşin-Elbistan spielt eine Schlüsselrolle in der Stromversorgung des Landes.", hu: "Az Afşin-Elbistan Hőerőmű kulcsszerepet játszik az ország áramellátásában.", ro: "Centrala Afşin-Elbistan joacă un rol cheie în alimentarea cu energie electrică a țării.", en: "The Afşin-Elbistan Power Plant plays a key role in the country's electricity supply." , es: "La central eléctrica Afşin-Elbistan desempeña un papel clave en el suministro de electricidad del país.", pt: "A central elétrica Afşin-Elbistan desempenha um papel fundamental no fornecimento de eletricidade do país.", fr: "La centrale électrique Afşin-Elbistan joue un rôle clé dans l'approvisionnement en électricité du pays."},
     facts: {
       de: ["Größtes Kohlekraftwerk der Türkei.", "Nutzt lokale Braunkohlevorkommen."],
@@ -1646,7 +1635,6 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     parent: "TR-08",
     coords: [41.860, 41.161],
     name: { de: "Deriner-Staudamm", hu: "Deriner-gát", ro: "Barajul Deriner", en: "Deriner Dam"},
-    image: "/poi-images/deriner-dam-economic-v2.webp",
     description: { de: "Der Deriner-Staudamm am Çoruh-Fluss ist ein Meisterwerk der Ingenieurskunst und Wasserkrafterzeugung.", hu: "A Çoruh folyón épült Deriner-gát a mérnöki tudomány és a vízenergia-termelés remekműve.", ro: "Barajul Deriner de pe râul Çoruh este o capodoperă a ingineriei și a energiei hidroelectrice.", en: "The Deriner Dam on the Çoruh River is a masterpiece of engineering and hydroelectric generation." , es: "La presa de Deriner en el río Çoruh es una obra maestra de la ingeniería y la generación hidroeléctrica.", pt: "A barragem de Deriner no rio Çoruh é uma obra-prima da engenharia e da geração hidroelétrica.", fr: "Le barrage de Deriner sur la rivière Çoruh est un chef-d'œuvre d'ingénierie et de production hydroélectrique."},
     facts: {
       de: ["Höchster Staudamm in der Türkei.", "Gebaut in einer tiefen Schlucht."],
@@ -1682,7 +1670,6 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     parent: "TR-33",
     coords: [33.541, 36.143],
     name: { de: "Kernkraftwerk Akkuyu", hu: "Akkuyu Atomerőmű", ro: "Centrala Nucleară Akkuyu", en: "Akkuyu Nuclear Power Plant"},
-    image: "/poi-images/akkuyu-nuclear-plant-economic-v2.webp",
     description: { de: "Das Kernkraftwerk Akkuyu markiert den Einstieg der Türkei in die zivile Nutzung der Kernenergie.", hu: "Az Akkuyu Atomerőmű Törökország belépését jelenti az atomenergia békés célú felhasználásába.", ro: "Centrala nucleară Akkuyu marchează intrarea Turciei în utilizarea civilă a energiei nucleare.", en: "The Akkuyu Nuclear Power Plant marks Turkey's entry into the civil use of nuclear energy." , es: "La central nuclear de Akkuyu marca la entrada de Turquía en el uso civil de la energía nuclear.", pt: "A central nuclear de Akkuyu marca a entrada da Turquia no uso civil da energia nuclear.", fr: "La centrale nucléaire d'Akkuyu marque l'entrée de la Turquie dans l'utilisation civile de l'énergie nucléaire."},
     facts: {
       de: ["Das erste Kernkraftwerk der Türkei.", "Derzeit im Bau in der Provinz Mersin."],
@@ -1871,7 +1858,6 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     parent: "TR-41",
     coords: [29.432, 40.835],
     name: { de: "Gebze Organisierte Industriezone", hu: "Gebze Szervezett Ipari Zóna", ro: "Zona Industrială Organizată Gebze", en: "Gebze Organized Industrial Zone"},
-    image: "/poi-images/gebze-industrial-zone-economic-v2.webp",
     description: { de: "Die Industriezone Gebze ist einer der dynamischsten Wirtschaftsmotoren in der Marmararegion.", hu: "A Gebze ipari zóna a Márvány-tengeri régió egyik legdinamikusabb gazdasági motorja.", ro: "Zona industrială Gebze este unul dintre cele mai dinamice motoare economice din Marmara.", en: "The Gebze Industrial Zone is one of the most dynamic economic engines in the Marmara region." , es: "La zona industrial de Gebze es uno de los motores económicos más dinámicos de la región de Mármara.", pt: "A zona industrial de Gebze é um dos motores económicos mais dinâmicos da região de Mármara.", fr: "La zone industrielle de Gebze est l'un des moteurs économiques les plus dynamiques de la région de Marmara."},
     facts: {
       de: ["Innovations- und Industriezentrum.", "Heimat vieler Hightech-Unternehmen."],
@@ -2465,7 +2451,6 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     parent: "TR-72",
     coords: [41.116, 37.873],
     name: { de: "TÜPRAŞ-Raffinerie Batman", hu: "TÜPRAŞ Batman Finomító", ro: "Rafinăria TÜPRAŞ Batman", en: "TÜPRAŞ Batman Refinery"},
-    image: "/poi-images/tupras-batman-refinery-economic-v2.webp",
     description: { de: "Die Batman-Raffinerie hat eine historische Bedeutung für die Entwicklung der türkischen Ölindustrie.", hu: "A Batman Finomító történelmi jelentőséggel bír a török olajipar fejlődésében.", ro: "Rafinăria Batman are o importanță istorică pentru dezvoltarea industriei petroliere turcești.", en: "The Batman Refinery holds historical significance for the development of the Turkish oil industry." , es: "La refinería de Batman tiene una importancia histórica para el desarrollo de la industria petrolera turca.", pt: "A refinaria de Batman tem uma importância histórica para o desenvolvimento da indústria petrolífera turca.", fr: "La raffinerie de Batman revêt une importance historique pour le développement de l'industrie pétrolière turque."},
     facts: {
       de: ["Die erste Ölraffinerie des Landes.", "Verarbeitet lokal gefördertes Rohöl."],
@@ -3023,7 +3008,6 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     parent: "TR-41",
     coords: [29.833, 40.722],
     name: { de: "Ford Otosan-Werk Gölcük", hu: "Ford Otosan Gölcük Gyár", ro: "Fabrica Ford Otosan Gölcük", en: "Ford Otosan Gölcük Plant"},
-    image: "/poi-images/ford-otosan-golcuk-economic-v2.webp",
     description: { de: "Das Gölcük-Werk von Ford Otosan ist Europas größtes Produktionszentrum für Nutzfahrzeuge.", hu: "A Ford Otosan gölcüki gyára Európa legnagyobb haszongépjármű-gyártó központja.", ro: "Fabrica Gölcük a Ford Otosan este cel mai mare centru de producție de vehicule utilitare.", en: "The Ford Otosan Gölcük plant is Europe's largest production center for commercial vehicles." , es: "La planta de Ford Otosan en Gölcük es el mayor centro de producción de vehículos comerciales de Europa.", pt: "A fábrica da Ford Otosan em Gölcük é o maior centro de produção de veículos comerciais da Europa.", fr: "L'usine Ford Otosan de Gölcük est le plus grand centre de production de véhicules utilitaires d'Europe."},
     facts: {
       de: ["Wichtiges Werk für Nutzfahrzeuge.", "Ein Joint Venture mit Ford Motor Company."],

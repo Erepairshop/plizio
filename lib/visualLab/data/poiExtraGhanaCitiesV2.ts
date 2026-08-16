@@ -89,7 +89,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-AA",
     coords: [-0.187, 5.6037],
     name: { de: "Accra", hu: "Accra", ro: "Accra", en: "Accra"},
-    image: "/poi-images/accra-cities-v2.webp",
     description: { de: "Accra ist die Hauptstadt und größte Stadt Ghanas, bekannt für ihre lebhaften Märkte und die Küstenlage.", hu: "Accra Ghána fővárosa és legnagyobb városa, amely nyüzsgő piacairól és tengerparti fekvéséről ismert.", ro: "Accra este capitala și cel mai mare oraș din Ghana, recunoscut pentru piețele sale vibrante și locația de coastă.", en: "Accra is the capital and largest city of Ghana, known for its vibrant markets and coastal setting." , es: "Accra es la capital y la ciudad más grande de Ghana, conocida por sus animados mercados y su ubicación costera.", pt: "Acra é a capital e a maior cidade de Gana, conhecida pelos seus mercados vibrantes e pela localização costeira.", fr: "Accra est la capitale et la plus grande ville du Ghana, réputée pour ses marchés animés et sa situation côtière."},
     facts: {
       de: ["Die Stadt Accra hat eine geschätzte Bevölkerung von über 2514005.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AA Ghanas."],
@@ -240,7 +239,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-AH",
     coords: [-1.6244, 6.6885],
     name: { de: "Kumasi", hu: "Kumasi", ro: "Kumasi", en: "Kumasi"},
-    image: "/poi-images/kumasi-cities-v2.webp",
     description: { de: "Kumasi ist die historische Hauptstadt des Ashanti-Reiches, berühmt für den Kejetia-Markt.", hu: "Kumasi az Ashanti Birodalom történelmi fővárosa, amely a Kejetia piacról híres.", ro: "Kumasi este capitala istorică a Imperiului Ashanti, faimoasă pentru piața Kejetia.", en: "Kumasi is the historic capital of the Ashanti Empire, famous for the Kejetia Market." , es: "Kumasi es la capital histórica del Imperio Ashanti, famosa por el mercado de Kejetia.", pt: "Kumasi é a capital histórica do Império Ashanti, famosa pelo Mercado de Kejetia.", fr: "Kumasi est la capitale historique de l'Empire Ashanti, célèbre pour son marché de Kejetia."},
     facts: {
       de: ["Die Stadt Kumasi hat eine geschätzte Bevölkerung von über 3348000.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AH Ghanas."],
@@ -361,7 +359,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-NP",
     coords: [-0.8393, 9.4008],
     name: { de: "Tamale", hu: "Tamale", ro: "Tamale", en: "Tamale"},
-    image: "/poi-images/tamale-cities-v2.webp",
     description: { de: "Tamale ist die Hauptstadt der Nordregion, anerkannt als sich schnell entwickelnder Knotenpunkt in Westafrika.", hu: "Tamale az Északi régió fővárosa, Nyugat-Afrika egyik leggyorsabban fejlődő központja.", ro: "Tamale este capitala Regiunii de Nord, recunoscută ca un centru în plină dezvoltare în Africa de Vest.", en: "Tamale is the capital of the Northern Region, recognized as a rapidly developing hub in West Africa." , es: "Tamale es la capital de la Región del Norte, reconocida como un nodo de rápido desarrollo en África Occidental.", pt: "Tamale é a capital da Região Norte, reconhecida como um polo de rápido desenvolvimento na África Ocidental.", fr: "Tamale est la capitale de la région du Nord, reconnue comme un carrefour en plein développement en Afrique de l'Ouest."},
     facts: {
       de: ["Die Stadt Tamale hat eine geschätzte Bevölkerung von über 642000.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-NP Ghanas."],
@@ -514,7 +511,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-WP",
     coords: [-1.7554, 4.8845],
     name: { de: "Takoradi", hu: "Takoradi", ro: "Takoradi", en: "Takoradi"},
-    image: "/poi-images/takoradi-cities-v2.webp",
     description: { de: "Takoradi ist eine große Hafenstadt in der Westregion, oft als Ölstadt bezeichnet.", hu: "Takoradi egy jelentős kikötőváros a Nyugati régióban, amelyet gyakran Olajvárosnak neveznek.", ro: "Takoradi este un important oraș portuar în Regiunea de Vest, adesea numit Orașul Petrolului.", en: "Takoradi is a major port city in the Western Region, often called the Oil City." , es: "Takoradi es una gran ciudad portuaria en la Región Occidental, a menudo llamada la 'Ciudad del Petróleo'.", pt: "Takoradi é uma grande cidade portuária na Região Ocidental, frequentemente chamada de 'Cidade do Petróleo'.", fr: "Takoradi est une grande ville portuaire de la région de l'Ouest, souvent surnommée la 'Ville du pétrole'."},
     facts: {
       de: ["Die Stadt Takoradi hat eine geschätzte Bevölkerung von über 445205.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-WP Ghanas."],
@@ -550,7 +546,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-AA",
     coords: [-0.0294, 5.6983],
     name: { de: "Ashaiman", hu: "Ashaiman", ro: "Ashaiman", en: "Ashaiman"},
-    image: "/poi-images/ashaiman-cities-v2.webp",
     description: { de: "Ashaiman ist eine geschäftige Handelsstadt etwas nördlich von Tema.", hu: "Ashaiman egy forgalmas kereskedelmi város Tema városától északra.", ro: "Ashaiman este un oraș comercial aglomerat situat la nord de Tema.", en: "Ashaiman is a busy commercial town located just north of Tema." , es: "Ashaiman es una bulliciosa ciudad comercial situada un poco al norte de Tema.", pt: "Ashaiman é uma movimentada cidade comercial situada um pouco a norte de Tema.", fr: "Ashaiman est une ville commerciale animée située un peu au nord de l'enclave de Tema."},
     facts: {
       de: ["Die Stadt Ashaiman hat eine geschätzte Bevölkerung von über 298841.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AA Ghanas."],
@@ -586,7 +581,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-AA",
     coords: [-0.0166, 5.6698],
     name: { de: "Tema", hu: "Tema", ro: "Tema", en: "Tema"},
-    image: "/poi-images/tema-cities-v2.webp",
     description: { de: "Tema wird lokal als Hafenstadt bezeichnet, da es der größte Seehafen Ghanas ist.", hu: "Temát a helyiek Kikötővárosnak becézik, mivel ez Ghána legnagyobb tengeri kikötője.", ro: "Tema este supranumită local Orașul Port deoarece este cel mai mare port maritim din Ghana.", en: "Tema is locally nicknamed the Harbour City because it is Ghana's largest seaport." , es: "Tema es conocida localmente como la ciudad portuaria, ya que alberga el mayor puerto marítimo de Ghana.", pt: "Tema é conhecida localmente como a 'Harbour City', sendo o maior porto marítimo do Gana.", fr: "Tema est localement appelée la ville portuaire, car elle possède le plus grand port maritime du Ghana."},
     facts: {
       de: ["Die Stadt Tema hat eine geschätzte Bevölkerung von über 161612.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AA Ghanas."],
@@ -703,7 +697,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-AA",
     coords: [-0.0931, 5.5836],
     name: { de: "Teshie", hu: "Teshie", ro: "Teshie", en: "Teshie"},
-    image: "/poi-images/teshie-cities-v2.webp",
     description: { de: "Teshie ist eine Küstenstadt in der Region Greater Accra, bekannt für ihre kreativen Fantasiesärge.", hu: "Teshie egy partmenti város Nagy-Accra régióban, amely kreatív fantáziakoporsóiról híres.", ro: "Teshie este un oraș de coastă în Regiunea Greater Accra, cunoscut pentru sicriele sale fanteziste creative.", en: "Teshie is a coastal town in the Greater Accra Region, known for its creative fantasy coffins." , es: "Teshie es una ciudad costera en la región de Gran Accra, famosa por sus creativos ataúdes de fantasía.", pt: "Teshie é uma cidade costeira na região da Grande Accra, famosa pelos seus caixões de fantasia criativos.", fr: "Teshie est une ville côtière de la région du Grand Accra, célèbre pour ses cercueils de fantaisie créatifs."},
     facts: {
       de: ["Die Stadt Teshie hat eine geschätzte Bevölkerung von über 171875.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AA Ghanas."],
@@ -901,7 +894,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-WP",
     coords: [-1.7058, 4.9404],
     name: { de: "Sekondi", hu: "Sekondi", ro: "Sekondi", en: "Sekondi"},
-    image: "/poi-images/sekondi-cities-v2.webp",
     description: { de: "Sekondi bildet mit Takoradi eine Doppelstadt und verfügt über einen historischen Marinestützpunkt.", hu: "Sekondi ikervárost alkot Takoradival, és egy történelmi haditengerészeti támaszponttal rendelkezik.", ro: "Sekondi formează un oraș geamăn cu Takoradi și are o bază navală istorică.", en: "Sekondi forms a twin city with Takoradi and features a historic naval base." , es: "Sekondi forma una ciudad gemela con Takoradi y cuenta con una base naval histórica.", pt: "Sekondi forma uma cidade gémea com Takoradi e possui uma base naval histórica.", fr: "Sekondi forme une ville jumelle avec Takoradi et dispose d'une base navale historique."},
     facts: {
       de: ["Die Stadt Sekondi hat eine geschätzte Bevölkerung von über 114157.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-WP Ghanas."],
@@ -937,7 +929,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-AH",
     coords: [-1.6811, 6.2057],
     name: { de: "Obuasi", hu: "Obuasi", ro: "Obuasi", en: "Obuasi"},
-    image: "/poi-images/obuasi-cities-v2.webp",
     description: { de: "Obuasi ist berühmt für seinen reichen Goldbergbau, der über ein Jahrhundert zurückreicht.", hu: "Obuasi híres gazdag aranybányászatáról, amely több mint egy évszázadra nyúlik vissza.", ro: "Obuasi este faimos pentru operațiunile sale bogate de exploatare a aurului care datează de peste un secol.", en: "Obuasi is famous for its rich gold mining operations which date back over a century." , es: "Obuasi es famosa por su rica minería de oro, que se remonta a más de un siglo.", pt: "Obuasi é famosa por sua rica mineração de ouro, que remonta a mais de um século.", fr: "Obuasi est célèbre pour son riche exploitation minière d'or, qui remonte à plus d'un siècle."},
     facts: {
       de: ["Die Stadt Obuasi hat eine geschätzte Bevölkerung von über 175043.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AH Ghanas."],
@@ -1018,7 +1009,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-AA",
     coords: [-0.1667, 5.6667],
     name: { de: "Madina", hu: "Madina", ro: "Madina", en: "Madina"},
-    image: "/poi-images/madina-cities-v2.webp",
     description: { de: "Madina ist eine dicht besiedelte Handelsstadt im Gemeindebezirk La Nkwantanang Madina.", hu: "Madina egy sűrűn lakott kereskedelmi város a La Nkwantanang Madina önkormányzati kerületben.", ro: "Madina este un oraș comercial dens populat situat în districtul municipal La Nkwantanang Madina.", en: "Madina is a densely populated commercial town located in the La Nkwantanang Madina Municipal District." , es: "Madina es una ciudad comercial densamente poblada en el distrito de La Nkwantanang Madina.", pt: "Madina é uma cidade comercial densamente povoada no distrito municipal de La Nkwantanang Madina.", fr: "Madina est une ville commerciale densément peuplée du district de La Nkwantanang Madina."},
     facts: {
       de: ["Die Stadt Madina hat eine geschätzte Bevölkerung von über 137162.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AA Ghanas."],
@@ -1135,7 +1125,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-EP",
     coords: [-0.2591, 6.0945],
     name: { de: "Koforidua", hu: "Koforidua", ro: "Koforidua", en: "Koforidua"},
-    image: "/poi-images/koforidua-cities-v2.webp",
     description: { de: "Koforidua dient als Hauptstadt der Ostregion und ist von üppigen grünen Hügeln umgeben.", hu: "Koforidua a Keleti régió fővárosa, amelyet buja zöld dombok vesznek körül.", ro: "Koforidua servește drept capitală a Regiunii de Est și este înconjurată de dealuri verzi luxuriante.", en: "Koforidua serves as the capital of the Eastern Region and is surrounded by lush green hills." , es: "Koforidua es la capital de la Región Oriental y está rodeada de exuberantes colinas verdes.", pt: "Koforidua serve como capital da Região Oriental e é cercada por colinas verdejantes.", fr: "Koforidua est la capitale de la région de l'Est, entourée de collines verdoyantes."},
     facts: {
       de: ["Die Stadt Koforidua hat eine geschätzte Bevölkerung von über 127334.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-EP Ghanas."],
@@ -1216,7 +1205,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-UW",
     coords: [-2.5099, 10.0601],
     name: { de: "Wa", hu: "Wa", ro: "Wa", en: "Wa"},
-    image: "/poi-images/wa-cities-v2.webp",
     description: { de: "Wa ist die Hauptstadt der Upper West Region, bekannt für den markanten Wa Naa-Palast.", hu: "Wa a Felső-Nyugati régió fővárosa, amely a jellegzetes Wa Naa palotáról ismert.", ro: "Wa este capitala Regiunii de Vest Superioare, cunoscută pentru Palatul Wa Naa distinctiv.", en: "Wa is the capital of the Upper West Region, noted for the distinctive Wa Naa's Palace." , es: "Wa es la capital de la región Upper West, conocida por el distintivo Palacio Wa Naa.", pt: "Wa é a capital da região de Upper West, conhecida pelo distinto Palácio Wa Naa.", fr: "Wa est la capitale de la région de l'Upper West, connue pour son remarquable palais Wa Naa."},
     facts: {
       de: ["Die Stadt Wa hat eine geschätzte Bevölkerung von über 102446.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-UW Ghanas."],
@@ -1252,7 +1240,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-BE",
     coords: [-1.9363, 7.5855],
     name: { de: "Techiman", hu: "Techiman", ro: "Techiman", en: "Techiman"},
-    image: "/poi-images/techiman-cities-v2.webp",
     description: { de: "Techiman ist ein bedeutendes Handelszentrum und die Hauptstadt der Bono East Region.", hu: "Techiman egy kiemelkedő kereskedelmi központ és a Bono East régió fővárosa.", ro: "Techiman este un centru comercial proeminent și capitala Regiunii Bono de Est.", en: "Techiman is a prominent trading center and the capital of the Bono East Region." , es: "Techiman es un importante centro comercial y la capital de la Región de Bono Este.", pt: "Techiman é um importante centro comercial e a capital da Região de Bono Leste.", fr: "Techiman est un centre commercial majeur et la capitale de la région de Bono Est."},
     facts: {
       de: ["Die Stadt Techiman hat eine geschätzte Bevölkerung von über 104212.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-BE Ghanas."],
@@ -1333,7 +1320,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-AA",
     coords: [-0.0689, 5.6028],
     name: { de: "Nungua", hu: "Nungua", ro: "Nungua", en: "Nungua"},
-    image: "/poi-images/nungua-cities-v2.webp",
     description: { de: "Nungua ist eine der wichtigen Küstensiedlungen der Ga in der Region Greater Accra.", hu: "Nungua egyike a fontos tengerparti Ga településeknek a Nagy-Accra régióban.", ro: "Nungua este una dintre așezările importante de coastă Ga din Regiunea Greater Accra.", en: "Nungua is one of the important coastal Ga settlements in the Greater Accra Region." , es: "Nungua es uno de los asentamientos costeros importantes de los Ga en la región del Gran Acra.", pt: "Nungua é um dos importantes assentamentos costeiros dos Ga na região da Grande Acra.", fr: "Nungua est l'un des importants établissements côtiers des Ga dans la région du Grand Accra."},
     facts: {
       de: ["Die Stadt Nungua hat eine geschätzte Bevölkerung von über 84119.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AA Ghanas."],
@@ -1374,7 +1360,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-AA",
     coords: [-0.0152, 5.6559],
     name: { de: "Tema New Town", hu: "Tema New Town", ro: "Tema New Town", en: "Tema New Town"},
-    image: "/poi-images/tema-new-town-cities-v2.webp",
     description: { de: "Tema New Town entstand als Umsiedlungsgebiet während des Baus des Hafens von Tema.", hu: "Tema New Town áttelepülési területként jött létre a temai kikötő építése során.", ro: "Tema New Town a apărut ca o zonă de relocare în timpul construcției portului Tema.", en: "Tema New Town originated as a resettlement area during the construction of the Tema Harbour." , es: "Tema New Town surgió como área de reasentamiento durante la construcción del puerto de Tema.", pt: "Tema New Town surgiu como uma área de reassentamento durante a construção do porto de Tema.", fr: "Tema New Town a été créée comme zone de relogement lors de la construction du port de Tema."},
     facts: {
       de: ["Die Stadt Tema New Town hat eine geschätzte Bevölkerung von über 81480.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AA Ghanas."],
@@ -1410,7 +1395,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-BO",
     coords: [-2.3268, 7.3399],
     name: { de: "Sunyani", hu: "Sunyani", ro: "Sunyani", en: "Sunyani"},
-    image: "/poi-images/sunyani-cities-v2.webp",
     description: { de: "Sunyani ist die Hauptstadt der Bono-Region, bekannt für ihre sauberen Straßen und bewaldete Umgebung.", hu: "Sunyani a Bono régió fővárosa, tiszta utcáiról és erdős környezetéről ismert.", ro: "Sunyani este capitala Regiunii Bono, cunoscută pentru străzile sale curate și mediul împădurit.", en: "Sunyani is the capital of the Bono Region, known for its clean streets and forested environment." , es: "Sunyani es la capital de la Región de Bono, conocida por sus calles limpias y su entorno boscoso.", pt: "Sunyani é a capital da Região de Bono, conhecida pelas suas ruas limpas e arredores arborizados.", fr: "Sunyani est la capitale de la région de Bono, réputée pour ses rues propres et ses environs boisés."},
     facts: {
       de: ["Die Stadt Sunyani hat eine geschätzte Bevölkerung von über 100000.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-BO Ghanas."],
@@ -1491,7 +1475,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-TV",
     coords: [0.4713, 6.6008],
     name: { de: "Ho", hu: "Ho", ro: "Ho", en: "Ho"},
-    image: "/poi-images/ho-cities-v2.webp",
     description: { de: "Ho ist die Hauptstadt der Volta-Region, eingebettet zwischen Hügeln und ein Zentrum der Ewe-Kultur.", hu: "Ho a Volta régió fővárosa, dombok között fekszik, az Ewe kultúra központja.", ro: "Ho este capitala Regiunii Volta, așezată printre dealuri și un centru al culturii Ewe.", en: "Ho is the capital city of the Volta Region, nestled among hills and a center of Ewe culture." , es: "Ho es la capital de la región de Volta, enclavada entre colinas y centro de la cultura Ewe.", pt: "Ho é a capital da região do Volta, aninhada entre colinas e um centro da cultura Ewe.", fr: "Ho est la capitale de la région de la Volta, nichée entre des collines et centre de la culture Ewe."},
     facts: {
       de: ["Die Stadt Ho hat eine geschätzte Bevölkerung von über 96213.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-TV Ghanas."],
@@ -1527,7 +1510,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-UE",
     coords: [-0.2417, 11.0616],
     name: { de: "Bawku", hu: "Bawku", ro: "Bawku", en: "Bawku"},
-    image: "/poi-images/bawku-cities-v2.webp",
     description: { de: "Bawku ist eine bedeutende Handelsstadt in der Upper East Region nahe der Grenze zu Burkina Faso.", hu: "Bawku egy jelentős kereskedelmi város a Felső-Keleti régióban, közel Burkina Faso határához.", ro: "Bawku este un important oraș comercial din Regiunea de Est Superioară, lângă granița cu Burkina Faso.", en: "Bawku is a significant trading town in the Upper East Region near the border with Burkina Faso." , es: "Bawku es una importante ciudad comercial en la región Upper East, cerca de la frontera con Burkina Faso.", pt: "Bawku é uma importante cidade comercial na região Upper East, perto da fronteira com Burkina Faso.", fr: "Bawku est une ville commerciale importante de la région de l'Upper East, près de la frontière avec le Burkina Faso."},
     facts: {
       de: ["Die Stadt Bawku hat eine geschätzte Bevölkerung von über 61151.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-UE Ghanas."],
@@ -1680,7 +1662,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-AA",
     coords: [-0.2333, 5.65],
     name: { de: "Dome", hu: "Dome", ro: "Dome", en: "Dome"},
-    image: "/poi-images/dome-cities-v2.webp",
     description: { de: "Dome ist ein schnell wachsender Vorort im nördlichen Teil von Accra.", hu: "Dome egy gyorsan növekvő külváros Accra északi részén.", ro: "Dome este o suburbie în creștere rapidă situată în partea de nord a Accra.", en: "Dome is a rapidly growing suburb located in the northern part of Accra." , es: "Dome es un suburbio de rápido crecimiento en la parte norte de Acra.", pt: "Dome é um subúrbio de rápido crescimento na zona norte de Acra.", fr: "Dome est une banlieue à croissance rapide située dans la partie nord d'Accra."},
     facts: {
       de: ["Die Stadt Dome hat eine geschätzte Bevölkerung von über 78785.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AA Ghanas."],
@@ -1761,7 +1742,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-UE",
     coords: [-0.8514, 10.7856],
     name: { de: "Bolgatanga", hu: "Bolgatanga", ro: "Bolgatanga", en: "Bolgatanga"},
-    image: "/poi-images/bolgatanga-cities-v2.webp",
     description: { de: "Bolgatanga dient als Hauptstadt der Upper East Region und ist berühmt für ihr Kunsthandwerk.", hu: "Bolgatanga a Felső-Keleti régió fővárosa, kézművességéről híres.", ro: "Bolgatanga servește drept capitală a Regiunii de Est Superioară și este renumită pentru meșteșugurile sale.", en: "Bolgatanga serves as the capital of the Upper East Region and is renowned for its crafts." , es: "Bolgatanga sirve como capital de la región Upper East y es famosa por su artesanía.", pt: "Bolgatanga serve como capital da região Upper East e é famosa pelo seu artesanato.", fr: "Bolgatanga est la capitale de la région de l'Upper East et est célèbre pour son artisanat."},
     facts: {
       de: ["Die Stadt Bolgatanga hat eine geschätzte Bevölkerung von über 66685.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-UE Ghanas."],
@@ -2072,7 +2052,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-AA",
     coords: [-0.313, 5.5786],
     name: { de: "Gbawe", hu: "Gbawe", ro: "Gbawe", en: "Gbawe"},
-    image: "/poi-images/gbawe-cities-v2.webp",
     description: { de: "Gbawe ist eine bedeutende Siedlung im westlichen Teil der Region Greater Accra.", hu: "Gbawe egy kiemelkedő település a Nagy-Accra régió nyugati részén.", ro: "Gbawe este o așezare proeminentă în partea de vest a Regiunii Greater Accra.", en: "Gbawe is a prominent settlement in the western part of the Greater Accra Region." , es: "Gbawe es un asentamiento significativo en la parte occidental de la región del Gran Acra.", pt: "Gbawe é um povoado importante na zona ocidental da região da Grande Acra.", fr: "Gbawe est une agglomération importante située dans la partie ouest de la région du Grand Accra."},
     facts: {
       de: ["Die Stadt Gbawe hat eine geschätzte Bevölkerung von über 74403.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AA Ghanas."],
@@ -2108,7 +2087,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-CP",
     coords: [-0.7027, 5.5348],
     name: { de: "Agona Swedru", hu: "Agona Swedru", ro: "Agona Swedru", en: "Agona Swedru"},
-    image: "/poi-images/agona-swedru-cities-v2.webp",
     description: { de: "Agona Swedru ist ein wichtiges Handelszentrum und Verkehrsknotenpunkt in der Zentralregion.", hu: "Agona Swedru egy kulcsfontosságú kereskedelmi központ és közlekedési csomópont a Középső régióban.", ro: "Agona Swedru este un centru comercial cheie și un nod de transport în Regiunea Centrală.", en: "Agona Swedru is a key commercial center and transport hub in the Central Region." , es: "Agona Swedru es un importante centro comercial y nodo de transporte en la Región Central.", pt: "Agona Swedru é um importante centro comercial e nó de transporte na Região Central.", fr: "Agona Swedru est un centre commercial important et un carrefour de transports dans la région du Centre."},
     facts: {
       de: ["Die Stadt Agona Swedru hat eine geschätzte Bevölkerung von über 68216.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
@@ -2144,7 +2122,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-AH",
     coords: [-1.3562, 7.3856],
     name: { de: "Ejura", hu: "Ejura", ro: "Ejura", en: "Ejura"},
-    image: "/poi-images/ejura-cities-v2.webp",
     description: { de: "Ejura ist eine landwirtschaftlich geprägte Stadt in der Ashanti-Region, bekannt für die Yams-Produktion.", hu: "Ejura egy mezőgazdasági város az Ashanti régióban, kiemelkedő jamgyökér-termeléséről.", ro: "Ejura este un oraș agricol în Regiunea Ashanti, proeminent pentru producția de igname.", en: "Ejura is an agricultural town in the Ashanti Region, prominent for yam production." , es: "Ejura es una ciudad agrícola en la región de Ashanti, conocida por la producción de ñames.", pt: "Ejura é uma cidade agrícola na região de Ashanti, conhecida pela produção de inhame.", fr: "Ejura est une ville agricole de la région d'Ashanti, réputée pour sa production d'ignames."},
     facts: {
       de: ["Die Stadt Ejura hat eine geschätzte Bevölkerung von über 70807.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AH Ghanas."],
@@ -2180,7 +2157,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-BO",
     coords: [-2.584, 7.4534],
     name: { de: "Berekum", hu: "Berekum", ro: "Berekum", en: "Berekum"},
-    image: "/poi-images/berekum-cities-v2.webp",
     description: { de: "Berekum ist eine Handelsstadt in der Bono-Region, lokal als die Goldene Stadt bekannt.", hu: "Berekum egy kereskedelmi város a Bono régióban, amelyet helyben Aranyvárosnak neveznek.", ro: "Berekum este un oraș comercial în Regiunea Bono, cunoscut local ca Orașul de Aur.", en: "Berekum is a trading town in the Bono Region, known locally as the Golden City." , es: "Berekum es una ciudad comercial de la región de Bono, conocida localmente como la Ciudad Dorada.", pt: "Berekum é uma cidade comercial na região de Bono, conhecida localmente como a Cidade Dourada.", fr: "Berekum est une ville commerciale de la région de Bono, connue localmente sous le nom de Cité d'Or."},
     facts: {
       de: ["Die Stadt Berekum hat eine geschätzte Bevölkerung von über 60473.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-BO Ghanas."],
@@ -2221,7 +2197,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-AH",
     coords: [-1.6167, 6.7333],
     name: { de: "Tafo", hu: "Tafo", ro: "Tafo", en: "Tafo"},
-    image: "/poi-images/tafo-cities-v2.webp",
     description: { de: "Tafo ist ein bedeutender Vorort im Ballungsraum Kumasi.", hu: "Tafo egy jelentős külváros a Kumasi nagyvárosi területen.", ro: "Tafo este o suburbie semnificativă în zona metropolitană Kumasi.", en: "Tafo is a significant suburb in the Kumasi Metropolitan area." , es: "Tafo es un suburbio destacado en el área metropolitana de Kumasi.", pt: "Tafo é um subúrbio importante na área metropolitana de Kumasi.", fr: "Tafo est une banlieue importante de l'agglomération de Kumasi."},
     facts: {
       de: ["Die Stadt Tafo hat eine geschätzte Bevölkerung von über 60919.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AH Ghanas."],
@@ -2257,7 +2232,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-EP",
     coords: [-0.45, 6.04],
     name: { de: "Suhum", hu: "Suhum", ro: "Suhum", en: "Suhum"},
-    image: "/poi-images/suhum-cities-v2.webp",
     description: { de: "Suhum ist eine wichtige Autobahnstadt, die die Küste mit den nördlichen Teilen Ghanas verbindet.", hu: "Suhum egy fontos autópálya-város, amely a partot köti össze Ghána északi részeivel.", ro: "Suhum este un important oraș de autostradă care face legătura între coastă și părțile de nord ale Ghanei.", en: "Suhum is an important highway town connecting the coast to the northern parts of Ghana." , es: "Suhum es una importante ciudad de carretera que conecta la costa con las partes del norte de Ghana.", pt: "Suhum é uma importante cidade rodoviária que liga a costa às partes do norte do Gana.", fr: "Suhum est une ville routière importante qui relie la côte aux parties nord du Ghana."},
     facts: {
       de: ["Die Stadt Suhum hat eine geschätzte Bevölkerung von über 49398.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-EP Ghanas."],
@@ -2298,7 +2272,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-WP",
     coords: [-1.9833, 5.3],
     name: { de: "Tarkwa", hu: "Tarkwa", ro: "Tarkwa", en: "Tarkwa"},
-    image: "/poi-images/tarkwa-cities-v2.webp",
     description: { de: "Tarkwa ist eine berühmte Bergbaustadt in der Westregion, tief verbunden mit der Goldgewinnung.", hu: "Tarkwa egy híres bányászváros a Nyugati régióban, amely mélyen kapcsolódik az aranykitermeléshez.", ro: "Tarkwa este un faimos oraș minier în Regiunea de Vest, profund conectat la extracția aurului.", en: "Tarkwa is a famous mining town in the Western Region, deeply connected to gold extraction." , es: "Tarkwa es una famosa ciudad minera en la Región Occidental, profundamente ligada a la extracción de oro.", pt: "Tarkwa é uma famosa cidade mineira na Região Ocidental, profundamente ligada à extração de ouro.", fr: "Tarkwa est une célèbre ville minière de la région de l'Ouest, profondément liée à l'extraction de l'or."},
     facts: {
       de: ["Die Stadt Tarkwa hat eine geschätzte Bevölkerung von über 34941.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-WP Ghanas."],
@@ -2334,7 +2307,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-EP",
     coords: [-0.35, 5.8],
     name: { de: "Nsawam", hu: "Nsawam", ro: "Nsawam", en: "Nsawam"},
-    image: "/poi-images/nsawam-cities-v2.webp",
     description: { de: "Nsawam liegt im Süden der Ostregion und fungiert als Tor zu Accra.", hu: "Nsawam a Keleti régió déli részén található, és kapuként szolgál Accra felé.", ro: "Nsawam este situat în sudul Regiunii de Est și servește ca poartă de acces către Accra.", en: "Nsawam is located in the south of the Eastern Region and acts as a gateway to Accra." , es: "Nsawam está situada en el sur de la Región Oriental y sirve como puerta de entrada a Acra.", pt: "Nsawam está localizada no sul da Região Oriental e funciona como uma porta de entrada para Acra.", fr: "Nsawam est située dans le sud de la Région Orientale et sert de porte d'entrée vers Accra."},
     facts: {
       de: ["Die Stadt Nsawam hat eine geschätzte Bevölkerung von über 44522.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-EP Ghanas."],
@@ -2370,7 +2342,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-CP",
     coords: [-0.4168, 5.5345],
     name: { de: "Kasoa", hu: "Kasoa", ro: "Kasoa", en: "Kasoa"},
-    image: "/poi-images/kasoa-cities-v2.webp",
     description: { de: "Kasoa ist eine sehr schnell wachsende Stadt in der Zentralregion, die als wichtiger Pendlerknotenpunkt fungiert.", hu: "Kasoa egy nagyon gyorsan növekvő város a Középső régióban, jelentős ingázó központként működik.", ro: "Kasoa este un oraș cu creștere foarte rapidă în Regiunea Centrală, funcționând ca un important nod pentru navetiști.", en: "Kasoa is a very fast-growing town in the Central Region, functioning as a major commuter hub." , es: "Kasoa es una ciudad de crecimiento muy rápido en la Región Central que funciona como un importante centro de cercanías.", pt: "Kasoa é uma cidade de crescimento muito rápido na Região Central que funciona como um importante centro de passageiros.", fr: "Kasoa est une ville à croissance très rapide dans la région du Centre, qui sert d'important nœud de transport pour les navetteurs."},
     facts: {
       de: ["Die Stadt Kasoa hat eine geschätzte Bevölkerung von über 69384.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
@@ -2451,7 +2422,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-NP",
     coords: [-0.0099, 9.4427],
     name: { de: "Yendi", hu: "Yendi", ro: "Yendi", en: "Yendi"},
-    image: "/poi-images/yendi-cities-v2.webp",
     description: { de: "Yendi ist die traditionelle Hauptstadt des Dagbon-Königreichs in der Nordregion.", hu: "Yendi a Dagbon Királyság hagyományos fővárosa az Északi régióban.", ro: "Yendi este capitala tradițională a Regatului Dagbon în Regiunea de Nord.", en: "Yendi is the traditional capital of the Dagbon Kingdom in the Northern Region." , es: "Yendi es la capital tradicional del Reino de Dagbon en la Región del Norte.", pt: "Yendi é a capital tradicional do Reino de Dagbon na região Norte.", fr: "Yendi est la capitale traditionnelle du royaume de Dagbon, dans la région du Nord."},
     facts: {
       de: ["Die Stadt Yendi hat eine geschätzte Bevölkerung von über 52008.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-NP Ghanas."],
@@ -2568,7 +2538,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-CP",
     coords: [-0.6231, 5.3511],
     name: { de: "Winneba", hu: "Winneba", ro: "Winneba", en: "Winneba"},
-    image: "/poi-images/winneba-cities-v2.webp",
     description: { de: "Winneba ist eine Küstenstadt, bekannt für ihr lebendiges Aboakyer-Festival und ihre Bildungseinrichtungen.", hu: "Winneba egy tengerparti város, amely élénk Aboakyer fesztiváljáról és oktatási intézményeiről ismert.", ro: "Winneba este un oraș de coastă cunoscut pentru vibrantul festival Aboakyer și instituțiile sale de învățământ.", en: "Winneba is a coastal town known for its vibrant Aboakyer festival and its educational institutions." , es: "Winneba es una ciudad costera conocida por su animado festival Aboakyer y sus instituciones educativas.", pt: "Winneba é uma cidade costeira conhecida pelo seu vibrante festival Aboakyer e pelas suas instituições de ensino.", fr: "Winneba est une ville côtière connue pour son festival animé d'Aboakyer et ses établissements d'enseignement."},
     facts: {
       de: ["Die Stadt Winneba hat eine geschätzte Bevölkerung von über 57015.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
@@ -2604,7 +2573,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-AH",
     coords: [-1.3994, 7.0627],
     name: { de: "Mampong", hu: "Mampong", ro: "Mampong", en: "Mampong"},
-    image: "/poi-images/mampong-cities-v2.webp",
     description: { de: "Mampong in der Ashanti-Region ist ein wichtiges Zentrum für Landwirtschaft und traditionelle Führung.", hu: "Mampong az Ashanti régióban a mezőgazdaság és a hagyományos vezetés fontos központja.", ro: "Mampong în Regiunea Ashanti este un centru important pentru agricultură și conducere tradițională.", en: "Mampong is a significant town in the Ashanti Region, acting as a gateway to the north." , es: "Mampong, en la región de Ashanti, es un centro clave para la agricultura y el liderazgo tradicional.", pt: "Mampong, na região de Ashanti, é um importante centro de agricultura e liderança tradicional.", fr: "Mampong, dans la région Ashanti, est un centre majeur pour l'agriculture et l'autorité traditionnelle."},
     facts: {
       de: ["Die Stadt Mampong hat eine geschätzte Bevölkerung von über 42037.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AH Ghanas."],
@@ -2685,7 +2653,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-UE",
     coords: [-1.0921, 10.8956],
     name: { de: "Navrongo", hu: "Navrongo", ro: "Navrongo", en: "Navrongo"},
-    image: "/poi-images/navrongo-cities-v2.webp",
     description: { de: "Navrongo liegt nahe der Nordgrenze und beherbergt eine bedeutende aus Lehm erbaute katholische Kathedrale.", hu: "Navrongo az északi határ közelében található, egy jelentős sárból épült katolikus katedrálisnak ad otthonn.", ro: "Navrongo este situat în apropierea graniței de nord, adăpostind o importantă catedrală catolică construită din lut.", en: "Navrongo is an important town in the Upper East Region, known for its historic mud cathedral." , es: "Navrongo se encuentra cerca de la frontera norte y alberga una destacada catedral católica construida en barro.", pt: "Navrongo situa-se perto da fronteira norte e abriga uma importante catedral católica construída em barro.", fr: "Navrongo est située près de la frontière nord et abrite une cathédrale catholique en terre battue."},
     facts: {
       de: ["Die Stadt Navrongo hat eine geschätzte Bevölkerung von über 27306.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-UE Ghanas."],
@@ -2721,7 +2688,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-EP",
     coords: [-0.9858, 5.9267],
     name: { de: "Akim Oda", hu: "Akim Oda", ro: "Akim Oda", en: "Akim Oda"},
-    image: "/poi-images/akim-oda-cities-v2.webp",
     description: { de: "Akim Oda ist die Hauptstadt des Birim Central Municipal District, bekannt für ihren großen Baum.", hu: "Akim Oda a Birim Középső önkormányzati kerület fővárosa, nagy fájáról ismert.", ro: "Akim Oda este capitala districtului municipal Birim Central, cunoscut pentru marele său copac.", en: "Akim Oda is the capital of the Birim Central Municipal District, known for its big tree." , es: "Akim Oda es la capital del distrito municipal de Birim Central, conocida por su gran árbol.", pt: "Akim Oda é a capital do Distrito Municipal de Birim Central, conhecida pela sua grande árvore.", fr: "Akim Oda est le chef-lieu de la municipalité de Birim Central, célèbre pour son grand arbre."},
     facts: {
       de: ["Die Stadt Akim Oda hat eine geschätzte Bevölkerung von über 51231.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-EP Ghanas."],
@@ -2879,7 +2845,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-AH",
     coords: [-1.0833, 6.8],
     name: { de: "Agogo", hu: "Agogo", ro: "Agogo", en: "Agogo"},
-    image: "/poi-images/agogo-cities-v2.webp",
     description: { de: "Agogo ist bekannt für sein presbyterianisches Krankenhaus und fruchtbare landwirtschaftliche Flächen.", hu: "Agogo presbiteriánus kórházáról és termékeny mezőgazdasági területeiről híres.", ro: "Agogo este bine-cunoscut pentru spitalul său prezbiterian și terenurile agricole fertile.", en: "Agogo is a prominent town in the Asante Akim North District, serving as a regional trade center." , es: "Agogo es conocida por su hospital presbiteriano y sus fértiles tierras agrícolas.", pt: "Agogo é conhecida pelo seu hospital presbiteriano e pelas terras agrícolas férteis.", fr: "Agogo est réputée pour son hôpital presbytérien et ses terres agricoles fertiles."},
     facts: {
       de: ["Die Stadt Agogo hat eine geschätzte Bevölkerung von über 28271.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AH Ghanas."],
@@ -2915,7 +2880,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-CP",
     coords: [-1.7833, 5.9667],
     name: { de: "Dunkwa-on-Offin", hu: "Dunkwa-on-Offin", ro: "Dunkwa-on-Offin", en: "Dunkwa-on-Offin"},
-    image: "/poi-images/dunkwa-on-offin-cities-v2.webp",
     description: { de: "Dunkwa-on-Offin ist ein wichtiges Zentrum für die Holzverarbeitung und den lokalen Handel.", hu: "Dunkwa-on-Offin a fafeldolgozás és a helyi kereskedelem fontos központja.", ro: "Dunkwa-on-Offin este un centru important pentru prelucrarea lemnului și comerțul local.", en: "Dunkwa-on-Offin is an important center for the mining and cocoa trade." , es: "Dunkwa-on-Offin es un centro importante para el procesamiento de madera y el comercio local.", pt: "Dunkwa-on-Offin é um centro importante para o processamento de madeira e o comércio local.", fr: "Dunkwa-on-Offin est un centre important pour la transformation du bois et le commerce local."},
     facts: {
       de: ["Die Stadt Dunkwa-on-Offin hat eine geschätzte Bevölkerung von über 26215.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
@@ -2951,7 +2915,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-EP",
     coords: [-0.3833, 6.3833],
     name: { de: "Begoro", hu: "Begoro", ro: "Begoro", en: "Begoro"},
-    image: "/poi-images/begoro-cities-v2.webp",
     description: { de: "Begoro ist eine malerische Stadt, bekannt für ihr kühles Klima und zahlreiche Wasserfälle.", hu: "Begoro egy festői kisváros hűvös klímájáról és számos vízeséséről ismert.", ro: "Begoro este un oraș pitoresc cunoscut pentru climatul său răcoros și numeroasele cascade.", en: "Begoro is a hillside town in the Eastern Region, known for its fertile lands and cool climate." , es: "Begoro es una ciudad pintoresca, conocida por su clima fresco y sus numerosas cascadas.", pt: "Begoro é uma cidade pitoresca, conhecida pelo seu clima fresco e pelas suas inúmeras cascatas.", fr: "Begoro est une ville pittoresque, connue pour son climat frais et ses nombreuses cascades."},
     facts: {
       de: ["Die Stadt Begoro hat eine geschätzte Bevölkerung von über 48316.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-EP Ghanas."],
@@ -2987,7 +2950,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-BE",
     coords: [-1.7306, 8.0563],
     name: { de: "Kintampo", hu: "Kintampo", ro: "Kintampo", en: "Kintampo"},
-    image: "/poi-images/kintampo-cities-v2.webp",
     description: { de: "Kintampo liegt zentral in Ghana und ist berühmt für die Kintampo-Wasserfälle.", hu: "Kintampo Ghána központjában helyezkedik el, és híres a Kintampo-vízesésekről.", ro: "Kintampo este situat central în Ghana și este faimos pentru cascadele Kintampo.", en: "Kintampo is the geographical center of Ghana, famous for its waterfalls and cultural diversity." , es: "Kintampo se encuentra en el centro de Ghana y es famosa por las cataratas de Kintampo.", pt: "Kintampo está localizada no centro do Gana e é famosa pelas cataratas de Kintampo.", fr: "Kintampo est située au centre du Ghana et est célèbre pour ses chutes d'eau."},
     facts: {
       de: ["Die Stadt Kintampo hat eine geschätzte Bevölkerung von über 49046.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-BE Ghanas."],
@@ -3104,7 +3066,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-BE",
     coords: [-1.7, 7.5667],
     name: { de: "Nkoranza", hu: "Nkoranza", ro: "Nkoranza", en: "Nkoranza"},
-    image: "/poi-images/nkoranza-cities-v2.webp",
     description: { de: "Nkoranza ist ein traditionelles landwirtschaftliches Zentrum, das stark im Maisanbau engagiert ist.", hu: "Nkoranza egy hagyományos mezőgazdasági központ, amely nagyban részt vesz a kukoricatermesztésben.", ro: "Nkoranza este un centru agricol tradițional puternic implicat în cultivarea porumbului.", en: "Nkoranza is a significant agricultural center in the Bono East Region." , es: "Nkoranza es un centro agrícola tradicional fuertemente dedicado al cultivo de maíz.", pt: "Nkoranza é um centro agrícola tradicional fortemente envolvido no cultivo de milho.", fr: "Nkoranza est un centre agricole traditionnel fortement engagé dans la culture du maïs."},
     facts: {
       de: ["Die Stadt Nkoranza hat eine geschätzte Bevölkerung von über 21715.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-BE Ghanas."],
@@ -3140,7 +3101,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-CP",
     coords: [-0.4667, 5.5167],
     name: { de: "Oduponkpehe", hu: "Oduponkpehe", ro: "Oduponkpehe", en: "Oduponkpehe"},
-    image: "/poi-images/oduponkpehe-cities-v2.webp",
     description: { de: "Oduponkpehe ist eine aufstrebende städtische Siedlung in der Zentralregion, Teil des weiteren Awutu Senya-Gebiets.", hu: "Oduponkpehe egy feltörekvő városi település a Középső régióban, a tágabb Awutu Senya terület része.", ro: "Oduponkpehe este o așezare urbană emergentă în Regiunea Centrală, parte a zonei mai largi Awutu Senya.", en: "Oduponkpehe is a rapidly growing residential and commercial town in the Central Region." , es: "Oduponkpehe es un asentamiento urbano emergente en la Región Central, parte de la zona más amplia de Awutu Senya.", pt: "Oduponkpehe é um assentamento urbano emergente na Região Central, parte da área mais ampla de Awutu Senya.", fr: "Oduponkpehe est un établissement urbain émergent dans la Région Centrale, faisant partie de la zone plus large d'Awutu Senya."},
     facts: {
       de: ["Die Stadt Oduponkpehe hat eine geschätzte Bevölkerung von über 42000.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
@@ -3221,7 +3181,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-CP",
     coords: [-1.0667, 5.2],
     name: { de: "Saltpond", hu: "Saltpond", ro: "Saltpond", en: "Saltpond"},
-    image: "/poi-images/saltpond-cities-v2.webp",
     description: { de: "Saltpond hat eine bedeutende Geschichte bezüglich der Ölindustrie Ghanas und der Unabhängigkeitsbewegung.", hu: "Saltpond jelentős történelemmel bír Ghána olajipara és a függetlenségi mozgalom kapcsán.", ro: "Saltpond deține o istorie semnificativă în ceea ce privește industria petrolieră din Ghana și mișcarea de independență.", en: "Saltpond is a historic town in the Central Region, once a major center for colonial administration." , es: "Saltpond tiene una historia significativa relacionada con la industria petrolera de Ghana y el movimiento de independencia.", pt: "Saltpond tem uma história significativa relacionada com a indústria petrolífera do Gana e o movimento de independência.", fr: "Saltpond possède une histoire importante liée à l'industrie pétrolière du Ghana et au mouvement d'indépendance."},
     facts: {
       de: ["Die Stadt Saltpond hat eine geschätzte Bevölkerung von über 24689.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
@@ -3257,7 +3216,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-EP",
     coords: [-0.8, 6.05],
     name: { de: "Akwatia", hu: "Akwatia", ro: "Akwatia", en: "Akwatia"},
-    image: "/poi-images/akwatia-cities-v2.webp",
     description: { de: "Akwatia ist ein Synonym für den Diamantenabbau in Ghana.", hu: "Akwatia szinonimája a ghánai gyémántbányászatnak.", ro: "Akwatia este sinonim cu operațiunile de exploatare a diamantelor din Ghana.", en: "Akwatia is renowned for its diamond mining industry and its bustling market." , es: "Akwatia es sinónimo de la minería de diamantes en Ghana.", pt: "Akwatia é sinónimo de mineração de diamantes no Gana.", fr: "Akwatia est synonyme d'exploitation diamantaire au Ghana."},
     facts: {
       de: ["Die Stadt Akwatia hat eine geschätzte Bevölkerung von über 23766.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-EP Ghanas."],
@@ -3298,7 +3256,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-CP",
     coords: [-0.7333, 5.2833],
     name: { de: "Apam", hu: "Apam", ro: "Apam", en: "Apam"},
-    image: "/poi-images/apam-cities-v2.webp",
     description: { de: "Apam ist ein Fischerdorf, bekannt für das historische Fort Patience, das den Hafen überblickt.", hu: "Apam egy halászváros, amelyet a kikötőre néző történelmi Fort Patience erődítményéről ismernek.", ro: "Apam este un oraș pescăresc recunoscut pentru istoricul Fort Patience cu vedere la port.", en: "Apam is a historic coastal town known for its fishing industry and Fort Patience." , es: "Apam es un pueblo de pescadores, conocido por el histórico Fort Patience, que domina el puerto.", pt: "Apam é uma aldeia de pescadores, conhecida pelo histórico Fort Patience, que domina o porto.", fr: "Apam est un village de pêcheurs, connu pour l'historique Fort Patience, qui surplombe le port."},
     facts: {
       de: ["Die Stadt Apam hat eine geschätzte Bevölkerung von über 26466.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
@@ -3334,7 +3291,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-SR",
     coords: [-0.5167, 8.55],
     name: { de: "Salaga", hu: "Salaga", ro: "Salaga", en: "Salaga"},
-    image: "/poi-images/salaga-cities-v2.webp",
     description: { de: "Salaga war einst ein wichtiger Transitpunkt für die Transsahara-Sklavenhandelsrouten.", hu: "Salaga egykor a transzszaharai rabszolga-kereskedelmi útvonalak fontos tranzitpontja volt.", ro: "Salaga a fost odată un important punct de tranzit pentru rutele trans-sahariene ale comerțului cu sclavi.", en: "Salaga is a historic town in the Savannah Region, once a major hub for the trans-Saharan slave trade." , es: "Salaga fue una vez un importante punto de tránsito para las rutas de comercio de esclavos transaharianas.", pt: "Salaga foi outrora um importante ponto de trânsito para as rotas do comércio de escravos transarianas.", fr: "Salaga était autrefois un point de transit important pour les routes du commerce transsaharien des esclaves."},
     facts: {
       de: ["Die Stadt Salaga hat eine geschätzte Bevölkerung von über 25472.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-SR Ghanas."],
@@ -3370,7 +3326,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-WN",
     coords: [-2.3333, 6.4667],
     name: { de: "Bibiani", hu: "Bibiani", ro: "Bibiani", en: "Bibiani"},
-    image: "/poi-images/bibiani-cities-v2.webp",
     description: { de: "Bibiani ist eine Bergbaugemeinde in der Western North Region, umgeben von üppigen Wäldern.", hu: "Bibiani egy bányászközösség a Nyugat-Északi régióban, buja erdőkkel körülvéve.", ro: "Bibiani este o comunitate minieră situată în Regiunea de Nord-Vest, înconjurată de păduri luxuriante.", en: "Bibiani is a prominent gold mining and agricultural town in the Western North Region." , es: "Bibiani es una comunidad minera en la región Western North, rodeada de exuberantes bosques.", pt: "Bibiani é uma comunidade mineira na região Western North, rodeada por florestas exuberantes.", fr: "Bibiani est une communauté minière de la région Western North, entourée de forêts luxuriantes."},
     facts: {
       de: ["Die Stadt Bibiani hat eine geschätzte Bevölkerung von über 19076.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-WN Ghanas."],
@@ -3406,7 +3361,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-EP",
     coords: [-0.0167, 6.1],
     name: { de: "Somanya", hu: "Somanya", ro: "Somanya", en: "Somanya"},
-    image: "/poi-images/somanya-cities-v2.webp",
     description: { de: "Somanya ist eine Agrarstadt, berühmt für ihre lebendige Perlenindustrie.", hu: "Somanya egy mezőgazdasági város, amely élénk gyöngykészítő iparáról híres.", ro: "Somanya este un oraș agricol faimos pentru industria sa vibrantă de fabricare a mărgelelor.", en: "Somanya is the capital of the Yilo Krobo District, famous for its bead-making traditions." , es: "Somanya es una ciudad agrícola, famosa por su vibrante industria de cuentas.", pt: "Somanya é uma cidade agrícola, famosa pela sua vibrante indústria de missangas.", fr: "Somanya est une ville agricole, célèbre pour son industrie dynamique des perles."},
     facts: {
       de: ["Die Stadt Somanya hat eine geschätzte Bevölkerung von über 20596.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-EP Ghanas."],
@@ -3487,7 +3441,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-CP",
     coords: [-1.2833, 5.7],
     name: { de: "Foso", hu: "Foso", ro: "Foso", en: "Foso"},
-    image: "/poi-images/foso-cities-v2.webp",
     description: { de: "Foso ist eine Gemeindehauptstadt, die als zentraler Handelspunkt für die umliegenden Kakaofarmen fungiert.", hu: "Foso egy önkormányzati főváros, amely központi kereskedelmi pontként szolgál a környező kakaófarmok számára.", ro: "Foso este o capitală municipală care acționează ca un punct comercial central pentru fermele de cacao din jur.", en: "Foso is a municipal capital acting as a central trading point for the surrounding cocoa farms." , es: "Foso es una capital municipal que funciona como punto de comercio central para las granjas de cacao circundantes.", pt: "Foso é uma capital municipal que funciona como ponto de comércio central para as fazendas de cacau circundantes.", fr: "Foso est un chef-lieu municipal qui sert de point de commerce central pour les plantations de cacao environnantes."},
     facts: {
       de: ["Die Stadt Foso hat eine geschätzte Bevölkerung von über 22862.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
@@ -3523,7 +3476,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-BO",
     coords: [-2.1, 7.7333],
     name: { de: "Wenchi", hu: "Wenchi", ro: "Wenchi", en: "Wenchi"},
-    image: "/poi-images/wenchi-cities-v2.webp",
     description: { de: "Wenchi ist eine wichtige historische Stadt in der Bono-Region und ein Zentrum der traditionellen Weberei.", hu: "Wenchi fontos történelmi város a Bono régióban és a hagyományos szövés központja.", ro: "Wenchi este un important oraș istoric în Regiunea Bono și un centru al țesutului tradițional.", en: "Wenchi is an important historical town in the Bono Region and a center of traditional weaving." , es: "Wenchi es una importante ciudad histórica en la región de Bono y un centro de tejido tradicional.", pt: "Wenchi é uma importante cidade histórica na região de Bono e um centro de tecelagem tradicional.", fr: "Wenchi est une ville historique importante de la région de Bono et un centre de tissage traditionnel."},
     facts: {
       de: ["Die Stadt Wenchi hat eine geschätzte Bevölkerung von über 39187.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-BO Ghanas."],
@@ -3559,7 +3511,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-CP",
     coords: [-0.75, 5.2667],
     name: { de: "Mumford", hu: "Mumford", ro: "Mumford", en: "Mumford"},
-    image: "/poi-images/mumford-cities-v2.webp",
     description: { de: "Mumford ist eine Küstengemeinde, die sich hauptsächlich mit handwerklicher Meeresfischerei beschäftigt.", hu: "Mumford egy part menti közösség, amely elsősorban kézműves tengeri halászattal foglalkozik.", ro: "Mumford este o comunitate de coastă angajată în principal în pescuitul marin artizanal.", en: "Mumford is a coastal community primarily engaged in artisanal marine fishing." , es: "Mumford es una comunidad costera dedicada principalmente a la pesca marítima artesanal.", pt: "Mumford é uma comunidade costeira que se dedica principalmente à pesca marítima artesanal.", fr: "Mumford est une commune côtière dont l'activité principale est la pêche artisanale en mer."},
     facts: {
       de: ["Die Stadt Mumford hat eine geschätzte Bevölkerung von über 15410.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
@@ -3595,7 +3546,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-AH",
     coords: [-2.1, 7.1667],
     name: { de: "Duayaw Nkwanta", hu: "Duayaw Nkwanta", ro: "Duayaw Nkwanta", en: "Duayaw Nkwanta"},
-    image: "/poi-images/duayaw-nkwanta-cities-v2.webp",
     description: { de: "Duayaw Nkwanta dient als aktive Handelssiedlung, die mehrere wichtige Routen verbindet.", hu: "Duayaw Nkwanta aktív kereskedelmi településként szolgál, amely több fő útvonalat köt össze.", ro: "Duayaw Nkwanta servește ca o așezare comercială activă care conectează mai multe rute majore.", en: "Duayaw Nkwanta serves as an active trading settlement connecting several major routes." , es: "Duayaw Nkwanta sirve como un activo asentamiento comercial que conecta varias rutas importantes.", pt: "Duayaw Nkwanta serve como um povoado comercial ativo que liga várias rotas importantes.", fr: "Duayaw Nkwanta sert de centre commercial actif reliant plusieurs routes importantes."},
     facts: {
       de: ["Die Stadt Duayaw Nkwanta hat eine geschätzte Bevölkerung von über 17476.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AH Ghanas."],
@@ -3667,7 +3617,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-AH",
     coords: [-2.0167, 7.0833],
     name: { de: "Bechem", hu: "Bechem", ro: "Bechem", en: "Bechem"},
-    image: "/poi-images/bechem-cities-v2.webp",
     description: { de: "Bechem ist bekannt für seine hervorragenden Bildungseinrichtungen und landwirtschaftliche Produktivität.", hu: "Bechem kiváló oktatási intézményeiről és mezőgazdasági termelékenységéről híres.", ro: "Bechem este renumit pentru instituțiile sale educaționale excelente și productivitatea agricolă.", en: "Bechem is renowned for its excellent educational institutions and agricultural productivity." , es: "Bechem es conocida por sus excelentes instituciones educativas y su productividad agrícola.", pt: "Bechem é conhecida pelas suas excelentes instituições de ensino e pela sua produtividade agrícola.", fr: "Bechem est connue pour ses excellentes institutions éducatives et sa productivité agricole."},
     facts: {
       de: ["Die Stadt Bechem hat eine geschätzte Bevölkerung von über 17677.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AH Ghanas."],

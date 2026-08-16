@@ -13,7 +13,6 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: "Bámiján-völgy buddhái",
       ro: "Buddha din Bamiyan",
       en: "Buddhas of Bamiyan"},
-    image: "/poi-images/buddhas-bamiyan-history-v2.webp",
     description: {
       de: "Die Buddha-Statuen von Bamiyan waren zwei monumentale Statuen, die im 6. Jahrhundert in eine Felswand gemeißelt und 2001 zerstört wurden.",
       hu: "A Bámiján-völgy buddhái a 6. században sziklafalba faragott monumentális szobrok voltak, amelyeket 2001-ben elpusztítottak.",
@@ -141,7 +140,6 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: "Dzsam minaretje",
       ro: "Minaretul din Jam",
       en: "Minaret of Jam"},
-    image: "/poi-images/minaret-of-jam-history-v2.webp",
     description: {
       de: "Das Minarett von Dscham ist ein 65 Meter hoher Backsteinturm aus dem 12. Jahrhundert, der für seine aufwendigen Dekorationen bekannt ist.",
       hu: "A Dzsam minaretje egy 65 méter magas, 12. századi téglatorony, amely bonyolult díszítéseiről ismert.",
@@ -341,7 +339,6 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: "Heráti fellegvár",
       ro: "Citadela din Herat",
       en: "Citadel of Herat"},
-    image: "/poi-images/citadel-herat-history-v2.webp",
     description: {
       de: "Die Zitadelle von Herat, auch Qala Ikhtyaruddin genannt, ist eine alte Festung, deren Ursprünge auf Alexander den Großen zurückgehen.",
       hu: "A heráti fellegvár, más néven Qala Ikhtyaruddin, egy ősi erődítmény, amelynek eredete Nagy Sándorig nyúlik vissza.",
@@ -505,7 +502,6 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: "Bala Hisszar",
       ro: "Bala Hissar",
       en: "Bala Hissar"},
-    image: "/poi-images/bala-hissar-kabul-history-v2.webp",
     description: {
       de: "Bala Hissar ist eine alte Festung in Kabul, die über Jahrhunderte ein wichtiges militärisches und politisches Zentrum Afghanistans war.",
       hu: "A Bala Hisszar egy ősi erőd Kabulban, amely évszázadokon át Afganisztán fontos katonai és politikai központja volt.",
@@ -669,7 +665,6 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: "Kék mecset",
       ro: "Moscheea Albastră",
       en: "Shrine of Hazrat Ali"},
-    image: "/poi-images/shrine-of-hazrat-ali-history-v2.webp",
     description: {
       de: "Die Blaue Moschee in Mazar-e Sharif ist ein prächtiger islamischer Schrein, der mit aufwendigen blauen Fliesen verziert ist.",
       hu: "A Mazár-e Sarífban található Kék mecset egy pompás iszlám szentély, amelyet bonyolult kék csempék díszítenek.",
@@ -716,7 +711,6 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: "Darul Aman palota",
       ro: "Palatul Darul Aman",
       en: "Darul Aman Palace"},
-    image: "/poi-images/darul-aman-palace-history-v2.webp",
     description: {
       de: "Der Darul-Aman-Palast wurde in den 1920er Jahren von König Amanullah Khan erbaut und symbolisierte die Modernisierung Afghanistans, bevor er zerstört und später restauriert wurde.",
       hu: "A Darul Aman palotát az 1920-as években Amanullah kán építtette, és Afganisztán modernizációját jelképezte, mielőtt elpusztult, majd később felújították volna.",
@@ -916,7 +910,6 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: "Mirwais Hotak mauzóleuma",
       ro: "Mausoleul lui Mirwais Hotak",
       en: "Mausoleum of Mirwais Hotak"},
-    image: "/poi-images/mausoleum-mirwais-hotak-history-v2.webp",
     description: {
       de: "Das Mausoleum in Kandahar ehrt Mirwais Hotak, einen afghanischen Stammesführer, der im frühen 18. Jahrhundert die persische Herrschaft stürzte.",
       hu: "A kandahári mauzóleum Mirwais Hotak afgán törzsi vezetőnek állít emléket, aki a 18. század elején megdöntötte a perzsa uralmat.",
@@ -963,7 +956,6 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: "Bábur kertje",
       ro: "Grădinile lui Babur",
       en: "Bagh-e Babur"},
-    image: "/poi-images/bagh-e-babur-history-v2.webp",
     description: {
       de: "Die Babur-Gärten in Kabul sind ein historischer Park und die letzte Ruhestätte des ersten Mogulkaisers Babur.",
       hu: "A kabuli Bábur kertje egy történelmi park és az első mogul császár, Bábur végső nyughelye.",
@@ -1055,7 +1047,6 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: "Qala-i-Jangi erőd",
       ro: "Fortăreața Qala-i-Jangi",
       en: "Qala-i-Jangi"},
-    image: "/poi-images/qala-i-jangi-history-v2.webp",
     description: {
       de: "Die Festung des Krieges liegt in der Nähe von Masar-e Scharif und wurde im 19. Jahrhundert errichtet.",
       hu: "A Qala-i-Jangi egy 19. századi erőd Mazár-e Saríf közelében, amely 2001-ben egy véres felkelés helyszíne volt.",
@@ -1102,7 +1093,6 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: "Gázni minaretjei",
       ro: "Minaretele din Ghazni",
       en: "Minarets of Ghazni"},
-    image: "/poi-images/minarets-of-ghazni-history-v2.webp",
     description: {
       de: "Die Minarette von Ghazni sind zwei hoch aufragende, sternförmige Türme aus dem 12. Jahrhundert, verziert mit Terrakotta-Reliefs.",
       hu: "A gázni minaretek két magasan magasodó, csillag alakú, 12. századi torony, amelyeket terrakotta domborművek díszítenek.",
@@ -1194,7 +1184,6 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: "Bost erőd",
       ro: "Fortăreața Bost",
       en: "Bost Fort"},
-    image: "/poi-images/bost-fort-history-v2.webp",
     description: {
       de: "Die Festung Bost ist eine antike Ruine in Laschkar Gah. Der eindrucksvolle Bogen von Bost ist das bekannteste erhaltene Bauwerk der Stätte.",
       hu: "A Bost erőd egy ősi rom Laskar Gáhban. A lenyűgöző bosti diadalív a helyszín legismertebb fennmaradt építménye.",
@@ -1241,7 +1230,6 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: "Taq-e Zafar",
       ro: "Taq-e Zafar",
       en: "Taq-e Zafar"},
-    image: "/poi-images/taq-e-zafar-history-v2.webp",
     description: {
       de: "Taq-e Zafar ist ein Siegesbogen in Paghman in der Nähe von Kabul, der 1919 zur Feier der afghanischen Unabhängigkeit erbaut wurde.",
       hu: "A Taq-e Zafar egy diadalív Paghmanban, Kabul közelében, amelyet 1919-ben építettek az afgán függetlenség megünneplésére.",
@@ -1333,7 +1321,6 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: "Shahr-e Gholghola",
       ro: "Shahr-e Gholghola",
       en: "Shahr-e Gholghola"},
-    image: "/poi-images/shahr-e-gholghola-history-v2.webp",
     description: {
       de: "Schahr-e Gholghola, die „Stadt der Schreie“, ist eine Ruinenstadt in Bamiyan, die im 13. Jahrhundert von Dschingis Khan zerstört wurde.",
       hu: "Shahr-e Gholghola, a „Sikolyok városa” egy romváros Bámijánban, amelyet Dzsingisz kán rombolt le a 13. században.",
@@ -1533,7 +1520,6 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: "Musalla komplexum",
       ro: "Complexul Musalla",
       en: "Musalla Complex"},
-    image: "/poi-images/musalla-complex-history-v2.webp",
     description: {
       de: "Der Musallā-Komplex in Herat ist eine Ansammlung islamischer Architektur aus dem 15. Jahrhundert, bestehend aus Minaretten und Mausoleen.",
       hu: "A heráti Musalla komplexum egy 15. századi iszlám építészeti együttes, amely minaretekből és mauzóleumokból áll.",
@@ -1625,7 +1611,6 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: "Khwaja Abu Nasr Parsa szentélye",
       ro: "Sanctuarul Khwaja Abu Nasr Parsa",
       en: "Shrine of Khwaja Abu Nasr Parsa"},
-    image: "/poi-images/khwaja-abu-nasr-parsa-history-v2.webp",
     description: {
       de: "Der Schrein im Zentrum von Balkh ist ein Meisterwerk timuridischer Architektur und ehrt einen bekannten Sufi-Gelehrten.",
       hu: "Balkh központjában található szentély a timurida építészet remekműve, és egy ismert szúfi tudósnak állít emléket.",
@@ -1861,7 +1846,6 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: "Ahmad Shah Durrani mauzóleuma",
       ro: "Mausoleul lui Ahmad Shah Durrani",
       en: "Mausoleum of Ahmad Shah Durrani"},
-    image: "/poi-images/mausoleum-ahmad-shah-durrani-history-v2.webp",
     description: {
       de: "Dieses achteckige Bauwerk in Kandahar ist das Grabmal von Ahmad Schah Durrani, dem Gründer des modernen Staates Afghanistan.",
       hu: "Ez a nyolcszögletű épület Kandahárban Ahmad Shah Durrani, a modern Afganisztán állam alapítójának sírja.",
@@ -1989,7 +1973,6 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: "Shahr-e Zuhak",
       ro: "Shahr-e Zuhak",
       en: "Shahr-e Zuhak"},
-    image: "/poi-images/shahr-e-zuhak-history-v2.webp",
     description: {
       de: "Schahr-e Zuhak, auch „Rote Stadt“ genannt, ist eine alte Festungsruine, die steil über dem Zusammenfluss zweier Flüsse aufragt.",
       hu: "A Shahr-e Zuhak, más néven „Vörös Város”, egy régi erődrom, amely meredeken emelkedik két folyó összefolyása fölé.",
@@ -2081,7 +2064,6 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: "Taht-i Rusztam",
       ro: "Takht-e Rustam",
       en: "Takht-e Rustam"},
-    image: "/poi-images/takht-e-rustam-history-v2.webp",
     description: {
       de: "Takht-e Rustam ist eine außergewöhnliche buddhistische Stupa-Anlage in der Provinz Samangan, die komplett aus dem massiven Fels gehauen wurde.",
       hu: "A Taht-i Rusztam egy rendkívüli buddhista sztúpa-komplexum Szamangan tartományban, amelyet teljes egészében a szilárd kőzetből faragtak ki.",
@@ -2173,7 +2155,6 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: "Khwaja Abd Allah szentélye",
       ro: "Sanctuarul Khwaja Abd Allah",
       en: "Shrine of Khwaja Abd Allah"},
-    image: "/poi-images/shrine-khwaja-abd-allah-history-v2.webp",
     description: {
       de: "Der Gazar-Gah-Schrein beherbergt das Grab des verehrten Sufi-Mystikers Khwaja Abd Allah Ansari und ist ein Zentrum islamischer Spiritualität.",
       hu: "A Gazar-Gah szentély ad otthont Khwaja Abd Allah Ansari tisztelt szúfi misztikus sírjának, és az iszlám spiritualitás egyik központja.",

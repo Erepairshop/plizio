@@ -341,7 +341,6 @@ export const poiExtraNepalReliefV2: POI[] = [
     parent: "NP-P1",
     coords: [86.9333, 27.9616],
     name: { de: "Lhotse", hu: "Lhoce", ro: "Lhotse", en: "Lhotse"},
-    image: "/poi-images/nepal-lhotse-relief-v2.webp",
     description: { de: "Der Lhotse ist der vierthöchste Berg der Welt und liegt in unmittelbarer Nähe zum Mount Everest.", hu: "A Lhoce a világ negyedik legmagasabb hegye, amely a Mount Everest közvetlen szomszédságában található.", ro: "Lhotse este al patrulea cel mai înalt munte din lume și se află în imediata apropiere a Muntelui Everest.", en: "Lhotse is the fourth highest mountain in the world, located in the immediate vicinity of Mount Everest." , es: "El Lhotse es la cuarta montaña más alta del mundo y se encuentra muy cerca del Monte Everest.", pt: "O Lhotse é a quarta montanha mais alta do mundo e está localizado nas proximidades imediatas do Monte Everest.", fr: "Le Lhotse est la quatrième plus haute montagne du monde, située à proximité immédiate du mont Everest."},
     facts: {
       de: ["Erreicht eine Höhe von 8.516 Metern.", "Der Gipfel ist über den Südsattel mit dem Everest verbunden."],
@@ -602,7 +601,6 @@ export const poiExtraNepalReliefV2: POI[] = [
     parent: "NP-P1",
     coords: [86.6608, 28.0941],
     name: { de: "Cho Oyu", hu: "Cso-Oju", ro: "Cho Oyu", en: "Cho Oyu"},
-    image: "/poi-images/nepal-cho-oyu-relief-v2.webp",
     description: { de: "Der Cho Oyu ist der sechsthöchste Berg der Erde und gilt als der am leichtesten zu besteigende Achttausender.", hu: "A Cso-Oju a Föld hatodik legmagasabb hegye, és a legkönnyebben megmászható nyolcezresként tartják számon.", ro: "Cho Oyu este al șaselea cel mai înalt munte de pe Pământ și este considerat cel mai ușor de urcat dintre optmiari.", en: "Cho Oyu is the sixth highest mountain on Earth and is considered the easiest eight-thousander to climb." , es: "El Cho Oyu es la sexta montaña más alta de la Tierra y se considera el ocho mil más fácil de escalar.", pt: "O Cho Oyu é a sexta montanha mais alta da Terra e é considerado o oito mil metros mais fácil de escalar.", fr: "Le Cho Oyu est la sixième plus haute montagne de la Terre et est considéré comme le sommet de huit mille mètres le plus accessible."},
     facts: {
       de: ["Der Name bedeutet auf Tibetisch Türkisgöttin.", "Die Höhe beträgt 8.188 Meter."],
@@ -1079,7 +1077,6 @@ export const poiExtraNepalReliefV2: POI[] = [
     parent: "NP-GA",
     coords: [84.5597, 28.5497],
     name: { de: "Manaslu", hu: "Manaszlu", ro: "Manaslu", en: "Manaslu"},
-    image: "/poi-images/nepal-manaslu-relief-v2.webp",
     description: { de: "Der Manaslu ist der achthöchste Berg der Welt und zeichnet sich durch seine steilen, von Gletschern bedeckten Hänge aus.", hu: "A Manaszlu a világ nyolcadik legmagasabb hegye, amelyet meredek, gleccserekkel borított lejtők jellemeznek.", ro: "Manaslu este al optulea cel mai înalt munte din lume și se caracterizează prin versanții săi abrupți, acoperiți de ghețari.", en: "Manaslu is the eighth highest mountain in the world and is characterized by its steep, glacier-covered slopes." , es: "El Manaslu es la octava montaña más alta del mundo y se caracteriza por sus laderas empinadas cubiertas de glaciares.", pt: "O Manaslu é a oitava montanha mais alta do mundo e caracteriza-se pelas suas encostas íngremes cobertas de glaciares.", fr: "Le Manaslu est la huitième plus haute montagne du monde et se distingue par ses pentes raides couvertes de glaciers."},
     facts: {
       de: ["Die Höhe beträgt 8.163 Meter.", "Ersteingung im Jahr 1956 durch ein japanisches Team."],
@@ -1268,7 +1265,6 @@ export const poiExtraNepalReliefV2: POI[] = [
     parent: "NP-GA",
     coords: [83.8202, 28.5961],
     name: { de: "Annapurna I", hu: "Annapurna I", ro: "Annapurna I", en: "Annapurna I"},
-    image: "/poi-images/nepal-annapurna-i-relief-v2.webp",
     description: { de: "Die Annapurna I ist der dritthöchste Berg in Nepal und der zehnthöchste der Welt, berüchtigt für seine Gefährlichkeit.", hu: "Az Annapurna I Nepál harmadik és a világ tizedik legmagasabb hegye, amely veszélyességéről hírhedt.", ro: "Annapurna I este al treilea cel mai înalt munte din Nepal și al zecelea din lume, renumit pentru periculozitatea sa.", en: "Annapurna I is the third highest mountain in Nepal and the tenth highest in the world, notorious for its danger." , es: "El Annapurna I es la tercera montaña más alta de Nepal y la décima del mundo, famosa por su peligrosidad.", pt: "O Annapurna I é a terceira montanha mais alta do Nepal e a décima do mundo, notória por sua periculosidade.", fr: "L'Annapurna I est la troisième plus haute montagne du Népal et la dixième au monde, réputée pour sa dangerosité."},
     facts: {
       de: ["Mit 8.091 Metern der erste bestiegene Achttausender.", "Die Ersteingung fand 1950 durch Maurice Herzog statt."],
@@ -1565,7 +1561,6 @@ export const poiExtraNepalReliefV2: POI[] = [
     parent: "NP-GA",
     coords: [83.9486, 28.4950],
     name: { de: "Machapuchare", hu: "Macsapucsaré", ro: "Machapuchare", en: "Machapuchare"},
-    image: "/poi-images/nepal-machapuchare-relief-v2.webp",
     description: { de: "Der Machapuchare ist ein heiliger Berg im Annapurna-Massiv, der wegen seiner Fischschwanz-Form berühmt ist.", hu: "A Macsapucsaré egy szent hegy az Annapurna-masszívumban, amely halfarok formájáról híres.", ro: "Machapuchare este un munte sacru din masivul Annapurna, renumit pentru forma sa de coadă de pește.", en: "Machapuchare is a sacred mountain in the Annapurna massif, famous for its fishtail shape." , es: "El Machapuchare es una montaña sagrada en el macizo del Annapurna, famosa por su forma de cola de pez.", pt: "O Machapuchare é uma montanha sagrada no maciço de Annapurna, famosa pela sua forma de cauda de peixe.", fr: "Le Machapuchare est une montagne sacrée du massif des Annapurnas, célèbre pour sa forme en queue de poisson."},
     facts: {
       de: ["Der Berg ist für Bergsteiger gesperrt.", "Erreicht eine Höhe von 6.993 Metern."],
@@ -1790,7 +1785,6 @@ export const poiExtraNepalReliefV2: POI[] = [
     parent: "NP-P1",
     coords: [86.8611, 27.8611],
     name: { de: "Ama Dablam", hu: "Ama Dablam", ro: "Ama Dablam", en: "Ama Dablam"},
-    image: "/poi-images/nepal-ama-dablam-relief-v2.webp",
     description: { de: "Die Ama Dablam ist ein markanter Berg in der Khumbu-Region, der oft als das Matterhorn des Himalaya bezeichnet wird.", hu: "Az Ama Dablam egy jellegzetes hegy a Khumbu-régióban, amelyet gyakran a Himalája Matterhornjának neveznek.", ro: "Ama Dablam este un munte impresionant în regiunea Khumbu, adesea numit Matterhornul din Himalaya.", en: "Ama Dablam is a prominent mountain in the Khumbu region, often referred to as the Matterhorn of the Himalayas." , es: "El Ama Dablam es una montaña prominente en la región de Khumbu, a menudo llamada el Matterhorn del Himalaya.", pt: "O Ama Dablam é uma montanha proeminente na região de Khumbu, frequentemente chamada de Matterhorn do Himalaia.", fr: "L'Ama Dablam est une montagne emblématique de la région de Khumbu, souvent surnommée le Cervin de l'Himalaya."},
     facts: {
       de: ["Der Hauptgipfel ist 6.812 Meter hoch.", "Er ist ein beliebtes Ziel für technische Kletterer."],
@@ -2015,7 +2009,6 @@ export const poiExtraNepalReliefV2: POI[] = [
     parent: "NP-P1",
     coords: [86.8283, 28.0147],
     name: { de: "Pumori", hu: "Pumori", ro: "Pumori", en: "Pumori"},
-    image: "/poi-images/nepal-pumori-relief-v2.webp",
     description: { de: "Der Pumori ist ein pyramidenförmiger Berg westlich des Mount Everest, der oft von Everest-Trekkern bewundert wird.", hu: "A Pumori egy piramis alakú hegy a Mount Everesttől nyugatra, amelyet gyakran csodálnak meg az Everest-túrázók.", ro: "Pumori este un munte în formă de piramidă situat la vest de Muntele Everest, adesea admirat de drumeți.", en: "Pumori is a pyramid-shaped mountain just west of Mount Everest, often admired by Everest trekkers." , es: "El Pumori es una montaña piramidal al oeste del Monte Everest, a menudo admirada por los excursionistas del Everest.", pt: "O Pumori é uma montanha em forma de pirâmide a oeste do Monte Everest, frequentemente admirada pelos trekkers do Everest.", fr: "Le Pumori est une montagne pyramidale située à l'ouest du mont Everest, souvent admirée par les randonneurs de l'Everest."},
     facts: {
       de: ["Der Name bedeutet unverheiratete Tochter.", "Die Höhe des Berges beträgt 7.161 Meter."],
@@ -2240,7 +2233,6 @@ export const poiExtraNepalReliefV2: POI[] = [
     parent: "NP-P1",
     coords: [86.8900, 27.9650],
     name: { de: "Nuptse", hu: "Nupce", ro: "Nuptse", en: "Nuptse"},
-    image: "/poi-images/nepal-nuptse-relief-v2.webp",
     description: { de: "Der Nuptse ist ein spektakulärer Grat in der Khumbu-Region, der zusammen mit Lhotse und Everest ein Hufeisen bildet.", hu: "A Nupce egy látványos hegygerinc a Khumbu-régióban, amely a Lhoce és az Everest hegyekkel patkót alkot.", ro: "Nuptse este o creastă spectaculoasă în regiunea Khumbu, care formează o potcoavă împreună cu Lhotse și Everest.", en: "Nuptse is a spectacular ridge in the Khumbu region, forming a horseshoe alongside Lhotse and Everest." , es: "El Nuptse es una cresta espectacular en la región de Khumbu que, junto con el Lhotse y el Everest, forma una herradura.", pt: "O Nuptse é uma crista espetacular na região de Khumbu que, juntamente com o Lhotse e o Everest, forma uma ferradura.", fr: "Le Nuptse est une crête spectaculaire dans la région du Khumbu qui forme, avec le Lhotse et l'Everest, un fer à cheval."},
     facts: {
       de: ["Der Hauptgipfel erreicht 7.861 Meter.", "Der Berg hat eine steile, felsige Südwand."],
@@ -2357,7 +2349,6 @@ export const poiExtraNepalReliefV2: POI[] = [
     parent: "NP-P1",
     coords: [86.7422, 28.0980],
     name: { de: "Gyachung Kang", hu: "Gyachung Kang", ro: "Gyachung Kang", en: "Gyachung Kang"},
-    image: "/poi-images/nepal-gyachung-kang-relief-v2.webp",
     description: { de: "Der Gyachung Kang ist der höchste Berg der Welt, der nicht zu den Achttausendern gehört.", hu: "A Gyachung Kang a világ legmagasabb hegye, amely nem tartozik a nyolcezresek közé.", ro: "Gyachung Kang este cel mai înalt munte din lume care nu este un optmiar.", en: "Gyachung Kang is the highest mountain in the world that is not an eight-thousander." , es: "El Gyachung Kang es la montaña más alta del mundo que no pertenece a los ochomiles.", pt: "O Gyachung Kang é a montanha mais alta do mundo que não pertence aos oito mil metros.", fr: "Le Gyachung Kang est la plus haute montagne du monde ne faisant pas partie des quatorze sommets de plus de huit mille mètres."},
     facts: {
       de: ["Er liegt im Mahalangur Himal an der tibetischen Grenze.", "Die Höhe beträgt 7.952 Meter."],
@@ -2474,7 +2465,6 @@ export const poiExtraNepalReliefV2: POI[] = [
     parent: "NP-BA",
     coords: [85.5152, 28.2575],
     name: { de: "Langtang Lirung", hu: "Langtang Lirung", ro: "Langtang Lirung", en: "Langtang Lirung"},
-    image: "/poi-images/nepal-langtang-lirung-relief-v2.webp",
     description: { de: "Der Langtang Lirung ist der höchste Gipfel im Langtang-Himal, der nördlich des Kathmandu-Tals liegt.", hu: "A Langtang Lirung a Langtang-Himal legmagasabb csúcsa, amely a Katmandu-völgytől északra található.", ro: "Langtang Lirung este cel mai înalt vârf din Langtang Himal, situat la nord de Valea Kathmandu.", en: "Langtang Lirung is the highest peak in the Langtang Himal, located north of the Kathmandu Valley." , es: "El Langtang Lirung es el pico más alto del Langtang Himal, situado al norte del valle de Katmandú.", pt: "O Langtang Lirung é o pico mais alto do Langtang Himal, localizado a norte do vale de Catmandu.", fr: "Le Langtang Lirung est le point culminant du Langtang Himal, situé au nord de la vallée de Katmandou."},
     facts: {
       de: ["Die Spitze erreicht 7.227 Meter.", "Der Berg ist bekannt für enorme Eislawinen."],
@@ -2555,7 +2545,6 @@ export const poiExtraNepalReliefV2: POI[] = [
     parent: "NP-GA",
     coords: [84.6341, 28.4341],
     name: { de: "Himalchuli", hu: "Himalchuli", ro: "Himalchuli", en: "Himalchuli"},
-    image: "/poi-images/nepal-himalchuli-relief-v2.webp",
     description: { de: "Der Himalchuli ist ein gewaltiger Berg im Mansiri Himal, der sich markant über dem Marsyangdi-Tal erhebt.", hu: "A Himalchuli egy hatalmas hegy a Mansiri Himalban, amely látványosan magasodik a Marsyangdi-völgy fölé.", ro: "Himalchuli este un munte masiv din Mansiri Himal, care se ridică vizibil deasupra văii Marsyangdi.", en: "Himalchuli is a massive mountain in the Mansiri Himal, rising prominently above the Marsyangdi River valley." , es: "El Himalchuli es una montaña imponente en el Mansiri Himal que se eleva de forma prominente sobre el valle del Marsyangdi.", pt: "O Himalchuli é uma montanha massiva no Mansiri Himal, que se eleva de forma marcante sobre o vale do Marsyangdi.", fr: "L'Himalchuli est une montagne massive du Mansiri Himal, s'élevant de manière spectaculaire au-dessus de la vallée de la Marsyangdi."},
     facts: {
       de: ["Der Berg ist 7.893 Meter hoch.", "Er hat drei markante Hauptgipfel."],
@@ -3500,7 +3489,6 @@ export const poiExtraNepalReliefV2: POI[] = [
     parent: "NP-BA",
     coords: [85.3240, 27.7172],
     name: { de: "Kathmandu-Tal", hu: "Katmandu-völgy", ro: "Valea Kathmandu", en: "Kathmandu Valley"},
-    image: "/poi-images/nepal-kathmandu-valley-relief-v2.webp",
     description: { de: "Das Kathmandu-Tal ist das historische, kulturelle und politische Zentrum Nepals, umgeben von grünen Hügeln.", hu: "A Katmandu-völgy Nepál történelmi, kulturális és politikai központja, amelyet zöldellő dombok vesznek körül.", ro: "Valea Kathmandu este centrul istoric, cultural și politic al Nepalului, înconjurată de dealuri înverzite.", en: "The Kathmandu Valley is the historical, cultural, and political center of Nepal, surrounded by green hills." , es: "El valle de Katmandú es el centro histórico, cultural y político de Nepal, rodeado de colinas verdes.", pt: "O vale de Catmandu é o centro histórico, cultural e político do Nepal, rodeado por colinas verdes.", fr: "La vallée de Katmandou est le centre historique, culturel et politique du Népal, entouré de collines verdoyantes."},
     facts: {
       de: ["Die durchschnittliche Höhe beträgt 1.400 Meter.", "Es beherbergt sieben UNESCO-Welterbestätten."],
@@ -4625,7 +4613,6 @@ export const poiExtraNepalReliefV2: POI[] = [
     parent: "NP-GA",
     coords: [83.9855, 28.2096],
     name: { de: "Pokhara-Tal", hu: "Pokhara-völgy", ro: "Valea Pokhara", en: "Pokhara Valley"},
-    image: "/poi-images/nepal-pokhara-valley-relief-v2.webp",
     description: { de: "Das Pokhara-Tal ist eine malerische Region in Zentralnepal, berühmt für seine ruhigen Seen und Höhlen.", hu: "A Pokhara-völgy egy festői régió Közép-Nepálban, amely híres nyugodt tavairól és barlangjairól.", ro: "Valea Pokhara este o regiune pitorească din centrul Nepalului, faimoasă pentru lacurile și peșterile sale liniștite.", en: "The Pokhara Valley is a picturesque region in central Nepal, famous for its serene lakes and caves." , es: "El valle de Pokhara es una región pintoresca en el centro de Nepal, famosa por sus lagos tranquilos y sus cuevas.", pt: "O vale de Pokhara é uma região pitoresca no centro do Nepal, famosa pelos seus lagos tranquilos e pelas suas grutas.", fr: "La vallée de Pokhara est une région pittoresque du centre du Népal, célèbre pour ses lacs paisibles et ses grottes."},
     facts: {
       de: ["Der Phewa-See ist der größte See des Tals.", "Es ist der Ausgangspunkt für Annapurna-Trekkings."],
@@ -4886,7 +4873,6 @@ export const poiExtraNepalReliefV2: POI[] = [
     parent: "NP-P1",
     coords: [86.7266, 27.8666],
     name: { de: "Khumbu-Tal", hu: "Khumbu-völgy", ro: "Valea Khumbu", en: "Khumbu Valley"},
-    image: "/poi-images/nepal-khumbu-valley-relief-v2.webp",
     description: { de: "Das Khumbu-Tal ist die Heimat der Sherpas und der Zugangsweg zu den höchsten Bergen der Welt.", hu: "A Khumbu-völgy a serpák hazája és a világ legmagasabb hegyeihez vezető útvonal.", ro: "Valea Khumbu este casa șerpașilor și calea de acces către cei mai înalți munți din lume.", en: "The Khumbu Valley is the home of the Sherpas and the gateway to the highest mountains in the world." , es: "El valle de Khumbu es el hogar de los sherpas y la vía de acceso a las montañas más altas del mundo.", pt: "O vale de Khumbu é o lar dos Sherpas e a rota de acesso às montanhas mais altas do mundo.", fr: "La vallée du Khumbu est la terre des Sherpas et la voie d'accès aux plus hautes montagnes du monde."},
     facts: {
       de: ["Das Tal liegt im nordöstlichen Nepal.", "Hier befindet sich der Sagarmatha-Nationalpark."],
@@ -5219,7 +5205,6 @@ export const poiExtraNepalReliefV2: POI[] = [
     parent: "NP-BA",
     coords: [85.5566, 28.2166],
     name: { de: "Langtang-Tal", hu: "Langtang-völgy", ro: "Valea Langtang", en: "Langtang Valley"},
-    image: "/poi-images/nepal-langtang-valley-relief-v2.webp",
     description: { de: "Das Langtang-Tal ist ein wunderschönes Gletschertal im Himalaya, das für seine alpine Flora und Fauna bekannt ist.", hu: "A Langtang-völgy egy gyönyörű gleccservölgy a Himalájában, amely alpesi növény- és állatvilágáról ismert.", ro: "Valea Langtang este o frumoasă vale glaciară din Himalaya, cunoscută pentru flora și fauna sa alpină.", en: "The Langtang Valley is a beautiful glacial valley in the Himalayas, known for its alpine flora and fauna." , es: "El valle de Langtang es un hermoso valle glaciar en el Himalaya, conocido por su flora y fauna alpina.", pt: "O vale de Langtang é um belo vale glaciar no Himalaia, conhecido pela sua flora e fauna alpina.", fr: "La vallée du Langtang est une magnifique vallée glaciaire de l'Himalaya, réputée pour sa flore et sa faune alpines."},
     facts: {
       de: ["Es wird auch das Tal der Gletscher genannt.", "Der höchste Punkt des Treks liegt über 4.900 Metern."],
@@ -5552,7 +5537,6 @@ export const poiExtraNepalReliefV2: POI[] = [
     parent: "NP-GA",
     coords: [84.9333, 28.4833],
     name: { de: "Tsum-Tal", hu: "Tsum-völgy", ro: "Valea Tsum", en: "Tsum Valley"},
-    image: "/poi-images/nepal-tsum-valley-relief-v2.webp",
     description: { de: "Das Tsum-Tal ist ein abgelegenes Himalayatal, das für sein tief verwurzeltes tibetisch-buddhistisches Erbe bekannt ist.", hu: "A Tsum-völgy egy elszigetelt himalájai völgy, amely mélyen gyökerező tibeti buddhista örökségéről ismert.", ro: "Valea Tsum este o vale izolată din Himalaya, cunoscută pentru moștenirea sa profundă budistă tibetană.", en: "The Tsum Valley is a remote Himalayan valley known for its deeply rooted Tibetan Buddhist heritage." , es: "El valle de Tsum es un valle remoto del Himalaya, conocido por su herencia budista tibetana profundamente arraigada.", pt: "O vale de Tsum é um vale remoto do Himalaia, conhecido pela sua herança budista tibetana profundamente enraizada.", fr: "La vallée de Tsum est une vallée isolée de l'Himalaya, connue pour son patrimoine bouddhiste tibétain profondément enraciné."},
     facts: {
       de: ["Der Name Tsum stammt vom tibetischen Wort für lebendig.", "Die Region wurde erst 2008 für Trekker geöffnet."],
@@ -6209,7 +6193,6 @@ export const poiExtraNepalReliefV2: POI[] = [
     parent: "NP-GA",
     coords: [84.0200, 28.6600],
     name: { de: "Manang-Tal", hu: "Manang-völgy", ro: "Valea Manang", en: "Manang Valley"},
-    image: "/poi-images/nepal-manang-valley-relief-v2.webp",
     description: { de: "Das Manang-Tal liegt im Regenschatten der Annapurna und bietet eine trockene, wüstenähnliche Landschaft.", hu: "A Manang-völgy az Annapurna esőárnyékában fekszik, és száraz, sivatagszerű tájat kínál.", ro: "Valea Manang se află în umbra de ploaie a Annapurnei și oferă un peisaj uscat, asemănător deșertului.", en: "The Manang Valley lies in the rain shadow of the Annapurna, offering a dry, desert-like landscape." , es: "El valle de Manang se encuentra a la sombra de lluvia del Annapurna y ofrece un paisaje seco y desértico.", pt: "O vale de Manang está localizado na sombra de chuva do Annapurna e oferece uma paisagem seca e desértica.", fr: "La vallée de Manang est située dans l'ombre pluviométrique de l'Annapurna et offre un paysage sec et désertique."},
     facts: {
       de: ["Es ist ein wichtiger Stopp auf dem Annapurna Circuit.", "Die Kultur hier ist stark tibetisch geprägt."],
@@ -6398,7 +6381,6 @@ export const poiExtraNepalReliefV2: POI[] = [
     parent: "NP-GA",
     coords: [83.6500, 28.5333],
     name: { de: "Kali Gandaki-Tal", hu: "Kali Gandaki-völgy", ro: "Valea Kali Gandaki", en: "Kali Gandaki Valley"},
-    image: "/poi-images/nepal-kali-gandaki-valley-relief-v2.webp",
     description: { de: "Das Kali Gandaki-Tal bildet eine der tiefsten Schluchten der Welt, zwischen Dhaulagiri und Annapurna.", hu: "A Kali Gandaki-völgy a világ egyik legmélyebb szurdokát képezi a Dhaulagiri és az Annapurna hegyek között.", ro: "Valea Kali Gandaki formează unul dintre cele mai adânci defilee din lume, între munții Dhaulagiri și Annapurna.", en: "The Kali Gandaki Valley forms one of the deepest gorges in the world, between Dhaulagiri and Annapurna." , es: "El valle de Kali Gandaki forma uno de los cañones más profundos del mundo, entre el Dhaulagiri y el Annapurna.", pt: "O vale de Kali Gandaki forma um dos desfiladeiros mais profundos do mundo, entre o Dhaulagiri e o Annapurna.", fr: "La vallée de la Kali Gandaki forme l'un des canyons les plus profonds du monde, entre le Dhaulagiri et l'Annapurna."},
     facts: {
       de: ["Der Höhenunterschied beträgt mehr als 5.500 Meter.", "Das Tal war eine alte Handelsroute nach Tibet."],
@@ -6587,7 +6569,6 @@ export const poiExtraNepalReliefV2: POI[] = [
     parent: "NP-P1",
     coords: [86.6963, 27.9547],
     name: { de: "Gokyo-Tal", hu: "Gokyo-völgy", ro: "Valea Gokyo", en: "Gokyo Valley"},
-    image: "/poi-images/nepal-gokyo-valley-relief-v2.webp",
     description: { de: "Das Gokyo-Tal ist eine spektakuläre Bergregion mit azurblauen Seen und dem gewaltigen Ngozumpa-Gletscher.", hu: "A Gokyo-völgy egy látványos hegyvidéki régió azúrkék tavakkal és a hatalmas Ngozumpa-gleccserrel.", ro: "Valea Gokyo este o regiune montană spectaculoasă, cu lacuri azurii și uriașul ghețar Ngozumpa.", en: "The Gokyo Valley is a spectacular mountainous region featuring azure lakes and the massive Ngozumpa Glacier." , es: "El valle de Gokyo es una región montañosa espectacular con lagos azul azur y el inmenso glaciar Ngozumpa.", pt: "O Vale de Gokyo é uma região montanhosa espetacular com lagos azul-turquesa e a imensa geleira Ngozumpa.", fr: "La vallée de Gokyo est une région montagneuse spectaculaire abritant des lacs bleu azur et l'immense glacier Ngozumpa."},
     facts: {
       de: ["Der höchste See liegt auf 4.990 Metern.", "Es bietet eine alternative Trekkingroute zum Everest-Basislager."],

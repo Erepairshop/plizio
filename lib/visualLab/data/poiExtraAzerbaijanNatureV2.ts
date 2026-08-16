@@ -53,7 +53,6 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
     parent: "AZ-GOY",
     coords: [46.3167, 40.4000],
     name: { de: "Göygöl-Nationalpark", hu: "Göygöl Nemzeti Park", ro: "Parcul Național Goygol", en: "Goygol National Park"},
-    image: "/poi-images/goygol-national-park-nature-v2.webp",
     description: { de: "Ein wunderschöner Nationalpark, bekannt für seine klaren Bergseen und dichten Wälder im Kleinen Kaukasus.", hu: "Gyönyörű nemzeti park, amely a Kis-Kaukázus kristálytiszta hegyi tavairól és sűrű erdeiről ismert.", ro: "Un frumos parc național cunoscut pentru lacurile sale montane clare și pădurile dense din Caucazul Mic.", en: "A beautiful national park known for its clear mountain lakes and dense forests in the Lesser Caucasus." , es: "Un hermoso parque nacional, conocido por sus claros lagos de montaña y densos bosques en el Cáucaso Menor.", pt: "Um belo parque nacional, conhecido pelos seus lagos de montanha cristalinos e florestas densas no Cáucaso Menor.", fr: "Un magnifique parc national, connu pour ses lacs de montagne clairs et ses forêts denses dans le Petit Caucase."},
     facts: {
       de: ["Gegründet 2008 zur Erhaltung der Bergökosysteme.", "Umfasst den berühmten Göygöl-See.", "Heimat seltener Flora und Fauna."],
@@ -314,7 +313,6 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
     parent: "AZ-GOY",
     coords: [46.3269, 40.4092],
     name: { de: "Göygöl-See", hu: "Göygöl-tó", ro: "Lacul Goygol", en: "Lake Goygol"},
-    image: "/poi-images/lake-goygol-nature-v2.webp",
     description: { de: "Ein malerischer Bergsee, der 1139 nach einem massiven Erdbeben durch einen Erdrutsch entstand.", hu: "Festői hegyi tó, amely 1139-ben egy hatalmas földrengés okozta földcsuszamlás következtében jött létre.", ro: "Un lac montan pitoresc, format în 1139 de o alunecare de teren după un cutremur masiv.", en: "A picturesque mountain lake formed in 1139 by a landslide following a massive earthquake." , es: "Un pintoresco lago de montaña que se formó tras un corrimiento de tierras provocado por un fuerte terremoto en 1139.", pt: "Um pitoresco lago de montanha formado em 1139 após um deslizamento de terras massivo causado por um terramoto.", fr: "Un lac de montagne pittoresque formé en 1139 à la suite d'un glissement de terrain massif provoqué par un séisme."},
     facts: {
       de: ["Liegt 1556 Meter über dem Meeresspiegel.", "Das Wasser ist extrem klar und tief.", "Umgeben von dichten Wäldern."],
@@ -431,7 +429,6 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
     parent: "AZ-QUS",
     coords: [47.8581, 41.2206],
     name: { de: "Bazardüzü Dağı", hu: "Bazardüzü", ro: "Muntele Bazarduzu", en: "Mount Bazarduzu"},
-    image: "/poi-images/mount-bazarduzu-nature-v2.webp",
     description: { de: "Der höchste Gipfel in Aserbaidschan, gelegen im Großen Kaukasus an der Grenze zu Russland.", hu: "Azerbajdzsán legmagasabb csúcsa, amely a Nagy-Kaukázusban, az orosz határon található.", ro: "Cel mai înalt vârf din Azerbaidjan, situat în Caucazul Mare la granița cu Rusia.", en: "The highest peak in Azerbaijan, located in the Greater Caucasus on the border with Russia." , es: "El pico más alto de Azerbaiyán, situado en el Gran Cáucaso, en la frontera con Rusia.", pt: "O pico mais alto do Azerbaijão, situado no Grande Cáucaso, na fronteira com a Rússia.", fr: "Le plus haut sommet d'Azerbaïdjan, situé dans le Grand Caucase à la frontière avec la Russie."},
     facts: {
       de: ["Erreicht eine Höhe von 4466 Metern.", "Ein beliebtes Ziel für Bergsteiger.", "Sein Name bedeutet Marktplatz oder Markt-Ebene."],
@@ -1160,7 +1157,6 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
     parent: "AZ-MI",
     coords: [47.0500, 40.7667],
     name: { de: "Kura (Fluss)", hu: "Kura folyó", ro: "Râul Kura", en: "Kura River"},
-    image: "/poi-images/kura-river-nature-v2.webp",
     description: { de: "Der wichtigste Fluss im Kaukasus, der durch Aserbaidschan fließt und in das Kaspische Meer mündet.", hu: "A Kaukázus legfontosabb folyója, amely átszeli Azerbajdzsánt és a Kaszpi-tengerbe ömlik.", ro: "Cel mai important râu din Caucaz, curgând prin Azerbaidjan și vărsându-se în Marea Caspică.", en: "The most important river in the Caucasus, flowing through Azerbaijan and emptying into the Caspian Sea." , es: "El río más importante del Cáucaso, que fluye a través de Azerbaiyán y desemboca en el Mar Caspio.", pt: "O rio mais importante do Cáucaso, que flui através do Azerbaijão e desagua no Mar Cáspio.", fr: "Le fleuve le plus important du Caucase, qui traverse l'Azerbaïdjan et se jette dans la mer Caspienne."},
     facts: {
       de: ["Über 1500 Kilometer lang.", "Spielt eine zentrale Rolle in der Landwirtschaft.", "Wird für die Stromerzeugung in Mingəçevir genutzt."],
@@ -1196,7 +1192,6 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
     parent: "AZ-SAB",
     coords: [48.4500, 39.9333],
     name: { de: "Aras (Fluss)", hu: "Arasz folyó", ro: "Râul Aras", en: "Aras River"},
-    image: "/poi-images/aras-river-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss, der einen großen Teil der Grenze zwischen Aserbaidschan und dem Iran bildet.", hu: "Jelentős folyó, amely az Azerbajdzsán és Irán közötti határ nagy részét alkotja.", ro: "Un râu major care formează o mare parte din granița dintre Azerbaidjan și Iran.", en: "A major river that forms a large part of the border between Azerbaijan and Iran." },
     facts: {
       de: ["Mündet in den Fluss Kura.", "Historisch eine wichtige geographische Trennlinie.", "Sehr wichtig für die regionale Bewässerung."],
@@ -1300,7 +1295,6 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
     parent: "AZ-LAN",
     coords: [48.7833, 38.6333],
     name: { de: "Hirkan-Nationalpark", hu: "Hirkan Nemzeti Park", ro: "Parcul Național Hirkan", en: "Hirkan National Park"},
-    image: "/poi-images/hirkan-national-park-nature-v2.webp",
     description: { de: "Ein dichter Feuchtwald in den Talysch-Bergen, der für seine reliktischen und endemischen Pflanzenarten berühmt ist.", hu: "Sűrű esőerdő a Talis-hegységben, amely reliktum és endemikus növényfajairól híres.", ro: "O pădure densă și umedă în Munții Taliș, faimoasă pentru speciile sale de plante relicte și endemice.", en: "A dense humid forest in the Talysh Mountains, famous for its relict and endemic plant species." , es: "Un denso bosque húmedo en las montañas de Talysh, famoso por sus especies de plantas reliquias y endémicas.", pt: "Uma densa floresta húmida nas montanhas de Talysh, famosa pelas suas espécies de plantas relíquias e endémicas.", fr: "Une forêt humide dense dans les monts Talysh, célèbre pour ses espèces végétales reliques et endémiques."},
     facts: {
       de: ["Teil des UNESCO-Weltnaturerbes.", "Heimat des kaukasischen Leoparden.", "Enthält Baumarten, die die Eiszeit überlebt haben."],
@@ -1489,7 +1483,6 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
     parent: "AZ-QUS",
     coords: [48.0833, 41.2667],
     name: { de: "Şahdağ-Nationalpark", hu: "Şahdağ Nemzeti Park", ro: "Parcul Național Shahdag", en: "Shahdag National Park"},
-    image: "/poi-images/shahdag-national-park-nature-v2.webp",
     description: { de: "Der größte Nationalpark Aserbaidschans, der atemberaubende Alpenlandschaften und tiefe Schluchten umfasst.", hu: "Azerbajdzsán legnagyobb nemzeti parkja, amely lélegzetelállító alpesi tájakat és mély szurdokokat foglal magába.", ro: "Cel mai mare parc național din Azerbaidjan, cuprinzând peisaje alpine uimitoare și defileuri adânci.", en: "The largest national park in Azerbaijan, encompassing stunning alpine landscapes and deep gorges." , es: "El parque nacional más grande de Azerbaiyán, que incluye impresionantes paisajes alpinos y profundos desfiladeros.", pt: "O maior parque nacional do Azerbaijão, que abrange paisagens alpinas deslumbrantes e gargantas profundas.", fr: "Le plus grand parc national d'Azerbaïdjan, comprenant des paysages alpins époustouflants et des gorges profondes."},
     facts: {
       de: ["Bedeckt eine Fläche von über 130.000 Hektar.", "Reich an Bergflora und seltenen Tierarten.", "Ein Paradies für Ökotourismus."],
@@ -1525,7 +1518,6 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
     parent: "AZ-QUS",
     coords: [48.0167, 41.2667],
     name: { de: "Şahdağ (Berg)", hu: "Şahdağ-hegy", ro: "Muntele Shahdagh", en: "Mount Shahdagh"},
-    image: "/poi-images/mount-shahdagh-nature-v2.webp",
     description: { de: "Ein markanter Berggipfel im Großen Kaukasus, der für seine Gletschertäler und steilen Hänge bekannt ist.", hu: "A Shahdagh-hegy a Nagy-Kaukázus egyik legmagasabb csúcsa Azerbajdzsán északkeleti részén, a Gusar járásban. Kiemelkedő természetvédelmi terület, amelynek lejtői télen népszerű síközpontként működnek.", ro: "Un vârf proeminent în Caucazul Mare, cunoscut pentru văile sale glaciare și versanții abrupți.", en: "A prominent mountain peak in the Greater Caucasus, known for its glacial valleys and steep slopes." , es: "Un pico prominente en el Gran Cáucaso, conocido por sus valles glaciares y laderas empinadas.", pt: "Um pico proeminente no Grande Cáucaso, conhecido pelos seus vales glaciares e encostas íngremes.", fr: "Un sommet marquant du Grand Caucase, connu pour ses vallées glaciaires et ses pentes escarpées."},
     facts: {
       de: ["4243 Meter hoch.", "In der Nähe befindet sich ein beliebtes Wintersportzentrum.", "Bedeckt mit ewigem Schnee."],
@@ -1561,7 +1553,6 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
     parent: "AZ-GOY",
     coords: [46.3214, 40.3850],
     name: { de: "Maralgöl-See", hu: "Maralgöl-tó", ro: "Lacul Maralgol", en: "Lake Maralgol"},
-    image: "/poi-images/lake-maralgol-nature-v2.webp",
     description: { de: "Ein hoch gelegener Bergsee unweit des Göygöl-Sees, der für seine unberührte Natur geschätzt wird.", hu: "Magasan fekvő hegyi tó a Göygöl-tó közelében, amelyet érintetlen természetéért becsülnek.", ro: "Un lac montan situat la mare altitudine, nu departe de Lacul Goygol, apreciat pentru natura sa neatinsă.", en: "A high-altitude mountain lake not far from Lake Goygol, appreciated for its pristine nature." , es: "Un lago de montaña a gran altitud cerca del lago Göygöl, apreciado por su naturaleza virgen.", pt: "Um lago de montanha de elevada altitude não longe do lago Göygöl, apreciado pela sua natureza intocada.", fr: "Un lac de montagne d'altitude non loin du lac Göygöl, apprécié pour sa nature intacte."},
     facts: {
       de: ["Liegt auf über 1900 Metern Höhe.", "Nur zu Fuß oder mit speziellen Fahrzeugen erreichbar.", "Entstand wie der Göygöl durch ein Erdbeben."],
@@ -1786,7 +1777,6 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
     parent: "AZ-B",
     coords: [50.3667, 40.2833],
     name: { de: "Abşeron-Nationalpark", hu: "Abşeron Nemzeti Park", ro: "Parcul Național Absheron", en: "Absheron National Park"},
-    image: "/poi-images/absheron-national-park-nature-v2.webp",
     description: { de: "Ein Schutzgebiet an der Spitze der Abşeron-Halbinsel, das eine reiche Meeres- und Küstenfauna schützt.", hu: "Védett terület az Absheron-félsziget csücskén, amely a gazdag tengeri és part menti állatvilágot védi.", ro: "O rezervație la vârful Peninsulei Abșeron, care protejează o faună marină și de coastă bogată.", en: "A protected area at the tip of the Absheron Peninsula, safeguarding rich marine and coastal fauna." , es: "Un área protegida en la punta de la península de Abşeron que protege una rica fauna marina y costera.", pt: "Uma área protegida na ponta da península de Abşeron que protege uma rica fauna marinha e costeira.", fr: "Une zone protégée à la pointe de la péninsule d'Abşeron qui protège une riche faune marine et côtière."},
     facts: {
       de: ["Lebensraum der Kaspischen Robbe.", "Schützt wichtige Nistplätze für Wasservögel.", "Die Landschaft ist flach und halbtrocken."],
@@ -2200,7 +2190,6 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
     parent: "AZ-AGJ",
     coords: [47.6000, 40.0167],
     name: { de: "Ağgöl-See", hu: "Ağgöl-tó", ro: "Lacul Aggol", en: "Lake Aggol"},
-    image: "/poi-images/lake-aggol-nature-v2.webp",
     description: { de: "Das Herzstück des Ağgöl-Nationalparks, ein seichter See umgeben von dichtem Schilf.", hu: "Az Ağgöl Nemzeti Park szíve, egy sekély tó, amelyet sűrű nádas vesz körül.", ro: "Inima Parcului Național Ag-Gel, un lac puțin adânc înconjurat de stufăriș dens.", en: "The centerpiece of the Ag-Gel National Park, a shallow lake surrounded by dense reeds." , es: "El corazón del Parque Nacional de Ağgöl, un lago poco profundo rodeado de densos carrizales.", pt: "O coração do Parque Nacional de Ağgöl, um lago raso cercado por densos canaviais.", fr: "Le cœur du parc national d'Ağgöl, un lac peu profond entouré de roseaux denses."},
     facts: {
       de: ["Der Name bedeutet Weißer See.", "Bietet Lebensraum für zahlreiche Fischarten.", "Wird vom Kura-Flusssystem gespeist."],
@@ -2236,7 +2225,6 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
     parent: "AZ-LAN",
     coords: [48.9667, 39.1000],
     name: { de: "Qızılağac-Nationalpark", hu: "Qızılağac Nemzeti Park", ro: "Parcul Național Gizilagach", en: "Gizilagach National Park"},
-    image: "/poi-images/gizilagach-national-park-nature-v2.webp",
     description: { de: "Ein Küstenschutzgebiet im Süden Aserbaidschans, das große Buchten und Marschlandschaften schützt.", hu: "Part menti védett terület Dél-Azerbajdzsánban, amely nagy öblöket és mocsárvidékeket véd.", ro: "O arie costieră protejată din sudul Azerbaidjanului, care conservă golfuri mari și mlaștini.", en: "A coastal protected area in southern Azerbaijan that preserves large bays and marshlands." , es: "Un área costera protegida en el sur de Azerbaiyán que protege grandes bahías y marismas.", pt: "Uma área costeira protegida no sul do Azerbaijão que protege grandes baías e sapais.", fr: "Une zone côtière protégée au sud de l'Azerbaïdjan qui protège de vastes baies et des zones marécageuses."},
     facts: {
       de: ["Überwinterungsort für Millionen von Vögeln.", "Umfasst die Kysyl-Agach-Bucht.", "Sehr wichtig für die Erhaltung der Stör-Bestände."],
@@ -2272,7 +2260,6 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
     parent: "AZ-XIZ",
     coords: [48.9333, 40.8500],
     name: { de: "Altıağac-Nationalpark", hu: "Altıağac Nemzeti Park", ro: "Parcul Național Altiaghaj", en: "Altiaghaj National Park"},
-    image: "/poi-images/altiaghaj-national-park-nature-v2.webp",
     description: { de: "Ein bewaldeter Nationalpark, der für die Rehabilitierung von Wildtieren und seine Laubwälder bekannt ist.", hu: "Erdős nemzeti park, amely a vadon élő állatok rehabilitációjáról és lombhullató erdeiről ismert.", ro: "Un parc național împădurit, cunoscut pentru reabilitarea vieții sălbatice și pădurile sale de foioase.", en: "A forested national park known for wildlife rehabilitation and its deciduous forests." , es: "Un parque nacional boscoso conocido por la rehabilitación de animales salvajes y sus bosques caducifolios.", pt: "Um parque nacional arborizado conhecido pela reabilitação de animais selvagens e pelas suas florestas de folha caduca.", fr: "Un parc national boisé connu pour la réhabilitation des animaux sauvages et ses forêts de feuillus."},
     facts: {
       de: ["Besitzt eine Klinik für verletzte Wildtiere.", "Reich an Bären, Wildschweinen und Luchsen.", "Die Herbstfarben sind besonders spektakulär."],
@@ -2308,7 +2295,6 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
     parent: "AZ-ORD",
     coords: [46.0456, 39.1583],
     name: { de: "Qapıcıq dağı", hu: "Qapıcıq hegy", ro: "Muntele Qapiciq", en: "Mount Qapijiq"},
-    image: "/poi-images/mount-qapijiq-nature-v2.webp",
     description: { de: "Der höchste Gipfel in der Autonomen Republik Nachitschewan an der Grenze zu Armenien.", hu: "A Nahicseván Autonóm Köztársaság legmagasabb csúcsa az örmény határon.", ro: "Cel mai înalt vârf din Republica Autonomă Nahicevan, la granița cu Armenia.", en: "The highest peak in the Nakhchivan Autonomous Republic on the border with Armenia." , es: "El pico más alto de la República Autónoma de Najicheván, en la frontera con Armenia.", pt: "O pico mais alto da República Autónoma de Naquichevão, na fronteira com a Arménia.", fr: "Le plus haut sommet de la République autonome du Nakhitchevan, à la frontière avec l'Arménie."},
     facts: {
       de: ["Erreicht eine Höhe von 3904 Metern.", "Gehört zum Sangesur-Gebirge.", "Das Terrain ist sehr steinig und rau."],
@@ -2641,7 +2627,6 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
     parent: "AZ-XAC",
     coords: [48.4833, 41.8167],
     name: { de: "Samur (Fluss)", hu: "Samur folyó", ro: "Râul Samur", en: "Samur River"},
-    image: "/poi-images/samur-river-nature-v2.webp",
     description: { de: "Ein schnell fließender Fluss im Kaukasus, der einen Teil der Grenze zwischen Russland und Aserbaidschan markiert.", hu: "Gyors folyású hegyi folyó a Kaukázusban, amely az orosz-azerbajdzsáni határ egy részét alkotja.", ro: "Un râu cu curgere rapidă în Caucaz, care marchează o parte din granița dintre Rusia și Azerbaidjan.", en: "A fast-flowing river in the Caucasus that marks part of the border between Russia and Azerbaijan." , es: "Un río de corriente rápida en el Cáucaso que marca parte de la frontera entre Rusia y Azerbaiyán.", pt: "Um rio de fluxo rápido no Cáucaso que marca parte da fronteira entre a Rússia e o Azerbaijão.", fr: "Un fleuve au cours rapide dans le Caucase, marquant une partie de la frontière entre la Russie et l'Azerbaïdjan."},
     facts: {
       de: ["Wichtig für das Samur-Yalama-Nationalpark-Ökosystem.", "Mündet direkt ins Kaspische Meer.", "Berühmt für sein kaltes Bergwasser."],
@@ -3442,7 +3427,6 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
     parent: "AZ-QBA",
     coords: [48.5000, 41.3667],
     name: { de: "Guba-Xaçmaz-Wälder", hu: "Guba-Xaçmaz erdők", ro: "Pădurile Guba-Khachmaz", en: "Guba-Khachmaz Forests"},
-    image: "/poi-images/guba-khachmaz-forests-nature-v2.webp",
     description: { de: "Dichte und grüne Wälder im Nordosten Aserbaidschans, die für ihre reiche Biodiversität und kühlen Quellen bekannt sind.", hu: "Sűrű és zöld erdők Északkelet-Azerbajdzsánban, amelyek gazdag biodiverzitásukról és hűvös forrásaikról ismertek.", ro: "Păduri dense și verzi din nord-estul Azerbaidjanului, cunoscute pentru biodiversitatea lor bogată și izvoarele reci.", en: "Dense and green forests in northeastern Azerbaijan, known for their rich biodiversity and cool springs." , es: "Bosques densos y verdes en el noreste de Azerbaiyán, conocidos por su rica biodiversidad y manantiales frescos.", pt: "Florestas densas e verdes no nordeste do Azerbaijão, conhecidas pela sua rica biodiversidade e fontes frescas.", fr: "Forêts denses et verdoyantes du nord-est de l'Azerbaïdjan, connues pour leur riche biodiversité et leurs sources fraîches."},
     facts: {
       de: ["Ein beliebtes Erholungsgebiet im Sommer.", "Dominiert von Eichen und Buchen.", "Zahlreiche Flüsse entspringen in diesen Wäldern."],

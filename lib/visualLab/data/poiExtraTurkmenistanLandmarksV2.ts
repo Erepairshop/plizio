@@ -125,7 +125,6 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     parent: "TM-A",
     coords: [58.4397, 40.2525],
     name: { de: "Darvaza-Gaskrater", hu: "Darvaza gázkráter", ro: "Craterul de gaze Darvaza", en: "Darvaza Gas Crater"},
-    image: "/poi-images/tm-darvaza-gas-crater-landmarks-v2.webp",
     description: {
       de: "Dieser brennende Krater, oft 'Tor zur Hölle' genannt, entstand 1971 durch den Einsturz einer Erdgashöhle. Seit Jahrzehnten brennt das Gas ununterbrochen und fasziniert Besucher in der Karakum-Wüste.",
       hu: "A 'Pokol kapujaként' is ismert lángoló kráter 1971-ben alakult ki egy földgázbarlang beomlása után. A Karakum-sivatag közepén lévő lyuk azóta is folyamatosan ég, lenyűgöző látványt nyújtva.",
@@ -486,7 +485,6 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     parent: "TM-S",
     coords: [58.3808, 37.8808],
     name: { de: "Unabhängigkeitsdenkmal", hu: "Függetlenségi Emlékmű", ro: "Monumentul Independenței", en: "Independence Monument"},
-    image: "/poi-images/tm-independence-monument-landmarks-v2.webp",
     description: {
       de: "Dieses prächtige Denkmal in Aschgabat symbolisiert die turkmenische Unabhängigkeit. Sein 91 Meter hoher Turm erinnert an das Jahr der Unabhängigkeit, 1991, und wird von goldenen Kuppeln flankiert.",
       hu: "Ez a pompás aşgabati emlékmű a türkmén függetlenséget szimbolizálja. 91 méter magas tornya az 1991-es függetlenedési évre utal, amelyet aranykupolás építmények vesznek körül.",
@@ -631,7 +629,6 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     parent: "TM-S",
     coords: [58.3308, 37.8802],
     name: { de: "Neutralitätsbogen", hu: "Semlegesség Emlékmű", ro: "Arcul Neutralității", en: "Monument of Neutrality"},
-    image: "/poi-images/tm-neutrality-monument-landmarks-v2.webp",
     description: {
       de: "Das Monument, gekrönt von einer goldenen Statue des ehemaligen Präsidenten Nijasow, feiert die offizielle Neutralität Turkmenistans. Früher drehte sich die Statue, um immer der Sonne zugewandt zu sein.",
       hu: "A műemlék a türkmén semlegességet ünnepli, tetején Niyazov korábbi elnök aranyszobrával. A szobor régebben forgott, hogy mindig a Nap felé nézzen.",
@@ -848,7 +845,6 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     parent: "TM-A",
     coords: [58.2505, 38.0163],
     name: { de: "Türkmenbaşy-Ruhy-Moschee", hu: "Türkmenbaşy Ruhy Mecset", ro: "Moscheea Türkmenbașî Ruhy", en: "Türkmenbaşy Ruhy Mosque"},
-    image: "/poi-images/tm-ruhy-mosque-landmarks-v2.webp",
     description: {
       de: "Die in Gökdepe gelegene Moschee ist eine der größten Zentralasiens und zeichnet sich durch ihren weißen Marmor und die goldene Kuppel aus. Sie wurde als Ruhestätte für den ersten Präsidenten des Landes errichtet.",
       hu: "A Gökdepében található mecset Közép-Ázsia egyik legnagyobbika, melyet fehér márványa és aranykupolája tesz különlegessé. Az ország első elnökének végső nyughelyeként is szolgál.",
@@ -1425,7 +1421,6 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     parent: "TM-S",
     coords: [58.3970, 37.9304],
     name: { de: "Ertuğrul-Gazi-Moschee", hu: "Ertuğrul Gazi mecset", ro: "Moscheea Ertuğrul Gazi", en: "Ertuğrul Gazi Mosque"},
-    image: "/poi-images/tm-ertugrul-gazi-mosque-landmarks-v2.webp",
     description: {
       de: "Die Moschee in Aschgabat wurde im klassischen osmanischen Stil erbaut und erinnert an die berühmte Blaue Moschee in Istanbul. Sie ist benannt nach Ertuğrul Gazi, dem Vater von Osman I.",
       hu: "Az aşgabati mecset klasszikus oszmán stílusban épült, és az isztambuli Kék Mecsetre emlékeztet. Nevét Ertuğrul Gazi-ról, I. Oszmán apjáról kapta.",
@@ -1570,7 +1565,6 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     parent: "TM-S",
     coords: [58.3297, 37.8680],
     name: { de: "Alem-Zentrum", hu: "Alem Kulturális Központ", ro: "Centrul Cultural Alem", en: "Alem Cultural and Entertainment Center"},
-    image: "/poi-images/tm-alem-center-landmarks-v2.webp",
     description: {
       de: "Das Alem-Kulturzentrum in Aschgabat beherbergt ein gigantisches Riesenrad, das in eine Struktur aus Glas und weißem Marmor integriert ist. Es hält den Rekord für das größte Riesenrad in einem geschlossenen architektonischen Bauwerk.",
       hu: "Az aşgabati Alem Kulturális Központ egy gigantikus óriáskeréknek ad otthont, amelyet egy üveg és fehér márvány épület foglal magába. Ez tartja a rekordot mint a legnagyobb zárt épületben lévő óriáskerék.",
@@ -1634,7 +1628,6 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     parent: "TM-B",
     coords: [54.4377, 40.4578],
     name: { de: "Yangykala-Schlucht", hu: "Jangikala Kanyon", ro: "Canionul Yangykala", en: "Yangykala Canyon"},
-    image: "/poi-images/tm-yangykala-canyon-landmarks-v2.webp",
     description: {
       de: "Die Yangykala-Schlucht, übersetzt 'Feuerfestung', beeindruckt mit ihren steilen, farbenfrohen Felswänden in Rosa, Rot und Gelb. Einst lag diese dramatische Landschaft auf dem Grund des Urmeeres Tethys.",
       hu: "A Jangikala Kanyon, amelynek neve 'Tűzerődöt' jelent, meredek, rózsaszín, piros és sárga sziklafalakkal nyűgözi le a látogatókat. Ez a drámai táj egykor a Tethys ősóceán fenekén feküdt.",
@@ -1698,7 +1691,6 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     parent: "TM-B",
     coords: [52.9554, 40.0406],
     name: { de: "Awaza Touristenzone", hu: "Awaza Turisztikai Zóna", ro: "Zona Turistică Awaza", en: "Awaza Tourist Zone"},
-    image: "/poi-images/tm-awaza-tourist-zone-landmarks-v2.webp",
     description: {
       de: "Awaza ist ein ehrgeiziges Resortprojekt am Kaspischen Meer, das mit Luxushotels, künstlichen Kanälen und Parks beeindrucken soll. Es ist der Versuch Turkmenistans, ein internationales Urlaubsziel zu etablieren.",
       hu: "Az Awaza egy ambiciózus üdülőövezet a Kaszpi-tenger partján, mely luxusszállodákkal, mesterséges csatornákkal és parkokkal várja a látogatókat. Türkménisztán próbálkozása egy nemzetközi célpont kialakítására.",
@@ -1807,7 +1799,6 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     parent: "TM-M",
     coords: [62.0624, 38.2045],
     name: { de: "Gonur Depe", hu: "Gonur Depe", ro: "Gonur Depe", en: "Gonur Depe"},
-    image: "/poi-images/tm-gonur-depe-landmarks-v2.webp",
     description: {
       de: "Gonur Depe ist eine riesige archäologische Stätte und das Zentrum der bronzezeitlichen Oasenkultur in Zentralasien. Die freigelegten Paläste und Tempel deuten auf eine komplexe, hochentwickelte Zivilisation hin.",
       hu: "A Gonur Depe egy hatalmas régészeti lelőhely, a bronzkori közép-ázsiai oáziskultúra központja. A feltárt paloták és templomok egy rendkívül fejlett, összetett civilizációra utalnak.",
@@ -2133,7 +2124,6 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     parent: "TM-S",
     coords: [58.4239, 38.0306],
     name: { de: "Altyn Asyr Basar", hu: "Tolkuchka Bazár", ro: "Bazarul Altyn Asyr", en: "Altyn Asyr Bazaar"},
-    image: "/poi-images/tm-tolkuchka-bazaar-landmarks-v2.webp",
     description: {
       de: "Dieser riesige Markt am Rande von Aschgabat, oft Tolkuchka genannt, ist einer der größten Zentralasiens. Aus der Luft betrachtet sieht das gesamte Areal wie ein traditioneller turkmenischer Teppich aus.",
       hu: "A gyakran Tolkuchka néven ismert hatalmas piac Aşgabat szélén Közép-Ázsia egyik legnagyobbika. A levegőből nézve a teljes terület egy hagyományos türkmén szőnyeg mintáját idézi.",
@@ -2350,7 +2340,6 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     parent: "TM-S",
     coords: [58.3831, 37.9366],
     name: { de: "Teppichmuseum Aschgabat", hu: "Türkmén Szőnyegmúzeum", ro: "Muzeul Covorului Turkmen", en: "Turkmen Carpet Museum"},
-    image: "/poi-images/tm-turkmen-carpet-museum-landmarks-v2.webp",
     description: {
       de: "Dieses Museum widmet sich der hohen Kunst der turkmenischen Teppichweberei, die für das Land immense kulturelle Bedeutung hat. Es beherbergt einige der feinsten und größten handgefertigten Teppiche der Welt.",
       hu: "Ez a múzeum a türkmén szőnyegszövés magas szintű művészetének állít emléket, mely hatalmas kulturális jelentőséggel bír az országban. A világ legfinomabb és legnagyobb kézzel készített szőnyegeit őrzi.",
@@ -2531,7 +2520,6 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     parent: "TM-S",
     coords: [58.3496, 37.8860],
     name: { de: "Nationalmuseum von Turkmenistan", hu: "Türkmenisztán Nemzeti Múzeuma", ro: "Muzeul Național al Turkmenistanului", en: "State Museum of Turkmenistan"},
-    image: "/poi-images/tm-national-museum-landmarks-v2.webp",
     description: {
       de: "Das beeindruckende Nationalmuseum dokumentiert die Geschichte und Kultur Turkmenistans. Seine weitreichenden Sammlungen umfassen antike Artefakte aus Nisa, Merv und Gonur Depe sowie prachtvolle traditionelle Gewänder.",
       hu: "A lenyűgöző Nemzeti Múzeum Türkménisztán történelmét és kultúráját dokumentálja. Széleskörű gyűjteményeiben Nisa, Merv és Gonur Depe ősi leletei, valamint hagyományos ruházatok találhatók.",
@@ -2956,7 +2944,6 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     parent: "TM-S",
     coords: [58.3243, 37.9157],
     name: { de: "Hochzeitspalast Aschgabat", hu: "Esküvői Palota", ro: "Palatul Căsătoriilor", en: "Wedding Palace"},
-    image: "/poi-images/tm-wedding-palace-landmarks-v2.webp",
     description: {
       de: "Dieses futuristische Gebäude ist ein Zentrum für Eheschließungen in Aschgabat. Es fällt durch einen gewaltigen geometrischen Käfig in Sternenform auf, der eine Kugel – Symbol des Erdballs – umschließt.",
       hu: "Ez a futurisztikus épület az aşgabati házasságkötések központja. Legszembetűnőbb része egy hatalmas, csillag alakú geometriai ketrec, amely egy, a földgolyót szimbolizáló gömböt fog közre.",
@@ -3065,7 +3052,6 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     parent: "TM-A",
     coords: [57.5137, 38.3040],
     name: { de: "Kow-Ata Untergrundsee", hu: "Kow-Ata Földalatti Tó", ro: "Lacul Subteran Kow-Ata", en: "Kow-Ata Underground Lake"},
-    image: "/poi-images/tm-kow-ata-underground-lake-landmarks-v2.webp",
     description: {
       de: "Tief in den Ausläufern des Kopet-Dag-Gebirges liegt dieser natürliche Thermaluntergrundsee. Sein schwefelhaltiges Wasser hat ganzjährig angenehme Temperaturen und gilt als heilend.",
       hu: "A Kopet-Dag-hegység lábánál, a mélyben található ez a természetes termál földalatti tó. Kénes vize egész évben kellemes hőmérsékletű, és gyógyhatásúnak tartják.",
@@ -3318,7 +3304,6 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     parent: "TM-D",
     coords: [59.1557, 42.3168],
     name: { de: "Kutlug-Timur-Minarett", hu: "Kutlug Timur Minaret", ro: "Minaretul Kutlug Timur", en: "Kutlug Timur Minaret"},
-    image: "/poi-images/tm-kutlug-timur-minaret-landmarks-v2.webp",
     description: {
       de: "Dieses historische Minarett in Köneürgenç ist eines der höchsten erhaltenen Minarette in Zentralasien. Es zeugt von der architektonischen Meisterschaft des mittelalterlichen Choresmien und neigt sich leicht zur Seite.",
       hu: "Ez a történelmi köneürgençi minaret az egyik legmagasabb fennmaradt ilyen építmény Közép-Ázsiában. A középkori Horezm építészeti mesterműve, amely mára enyhén megdőlt.",

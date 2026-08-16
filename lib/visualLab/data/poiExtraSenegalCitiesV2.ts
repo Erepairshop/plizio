@@ -8,7 +8,6 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.4467, 14.6928],
     name: { de: "Dakar", hu: "Dakar", ro: "Dakar", en: "Dakar"},
-    image: "/poi-images/dakar-cities-v2.webp",
     description: {
       de: "Die pulsierende Hauptstadt Senegals liegt auf der Cap-Vert-Halbinsel und ist das politische und wirtschaftliche Zentrum des Landes.",
       hu: "Szenegál nyüzsgő fővárosa a Zöld-foki-félszigeten fekszik, és az ország politikai és gazdasági központja.",
@@ -207,7 +206,6 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.3907, 14.7645],
     name: { de: "Pikine", hu: "Pikine", ro: "Pikine", en: "Pikine"},
-    image: "/poi-images/pikine-cities-v2.webp",
     description: {
       de: "Die größte Vorstadt von Dakar, die durch rasches Bevölkerungswachstum zu einer der am dichtesten besiedelten Zonen wurde.",
       hu: "Dakar legnagyobb elővárosa, amely a gyors népességnövekedés révén az egyik legsűrűbben lakott övezetté vált.",
@@ -253,7 +251,6 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     parent: "SN-DI",
     coords: [-15.8778, 14.8667],
     name: { de: "Touba", hu: "Touba", ro: "Touba", en: "Touba"},
-    image: "/poi-images/touba-cities-v2.webp",
     description: {
       de: "Die heilige Stadt der Muridiyya-Bruderschaft ist eine der am schnellsten wachsenden Städte Afrikas und ein wichtiges religiöses Zentrum.",
       hu: "A Muridiyya testvériség szent városa Afrika egyik leggyorsabban növekvő települése és fontos vallási központja.",
@@ -440,7 +437,6 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     parent: "SN-TH",
     coords: [-16.9260, 14.7928],
     name: { de: "Thiès", hu: "Thiès", ro: "Thiès", en: "Thiès"},
-    image: "/poi-images/thies-cities-v2.webp",
     description: {
       de: "Ein wichtiger Verkehrsknotenpunkt und Industriezentrum, das für seine Teppichproduktion und historische Eisenbahnstrecken bekannt ist.",
       hu: "Fontos közlekedési csomópont és ipari központ, amely szőnyeggyártásáról és történelmi vasútvonalairól ismert.",
@@ -484,7 +480,6 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.2721, 14.7153],
     name: { de: "Rufisque", hu: "Rufisque", ro: "Rufisque", en: "Rufisque"},
-    image: "/poi-images/rufisque-cities-v2.webp",
     description: {
       de: "Eine historische Hafenstadt nahe Dakar, die in der Kolonialzeit eine Schlüsselrolle im Erdnussexport spielte.",
       hu: "Történelmi kikötőváros Dakar közelében, amely a gyarmati időkben kulcsszerepet játszott a földimogyoró-exportban.",
@@ -528,7 +523,6 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     parent: "SN-KL",
     coords: [-16.0758, 14.1525],
     name: { de: "Kaolack", hu: "Kaolack", ro: "Kaolack", en: "Kaolack"},
-    image: "/poi-images/kaolack-cities-v2.webp",
     description: {
       de: "Ein bedeutender Hafen am Saloum-Fluss und das wichtigste Handelszentrum für die Erdnuss- und Salzindustrie des Landes.",
       hu: "Jelentős kikötő a Saloum folyón, valamint az ország földimogyoró- és sóiparának legfontosabb kereskedelmi központja.",

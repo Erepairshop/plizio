@@ -8,7 +8,6 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     parent: "AM-AR",
     coords: [44.5761, 39.8783],
     name: { de: "Chor Virap", hu: "Khor Virap", ro: "Khor Virap", en: "Khor Virap"},
-    image: "/poi-images/armenia-khor-virap-landmarks-v2.webp",
     description: {
       de: "Ein Kloster in der Ararat-Ebene, bekannt für seine beeindruckende Aussicht auf den Berg Ararat.",
       hu: "Egy kolostor az Ararát-síkságon, amely híres az Ararát-hegyre nyíló lenyűgöző kilátásáról.",
@@ -496,7 +495,6 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     parent: "AM-GE",
     coords: [45.0109, 40.5638],
     name: { de: "Sewanawank", hu: "Szevanavank", ro: "Sevanavank", en: "Sevanavank"},
-    image: "/poi-images/armenia-sevanavank-landmarks-v2.webp",
     description: {
       de: "Ein Klosterkomplex auf einer Halbinsel am Nordwestufer des Sewansees mit malerischer Aussicht.",
       hu: "Kolostorkomplexum a Szeván-tó északnyugati partján lévő félszigeten, festői kilátással.",
@@ -1110,7 +1108,6 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     parent: "AM-AV",
     coords: [44.2911, 40.1618],
     name: { de: "Kathedrale von Etschmiadsin", hu: "Ecsmiadzini székesegyház", ro: "Catedrala Etchmiadzin", en: "Echmiadzin Cathedral"},
-    image: "/poi-images/armenia-echmiadzin-cathedral-landmarks-v2.webp",
     description: {
       de: "Die Mutterkirche der Armenischen Apostolischen Kirche und das Zentrum der armenischen Christenheit.",
       hu: "Az örmény apostoli ortodox egyház anyatemploma és az örmény kereszténység központja.",
@@ -1166,7 +1163,6 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     parent: "AM-VD",
     coords: [45.2332, 39.6846],
     name: { de: "Norawank", hu: "Noravank", ro: "Noravank", en: "Noravank"},
-    image: "/poi-images/armenia-noravank-landmarks-v2.webp",
     description: {
       de: "Ein Kloster in einer engen Schlucht am Amaghu-Fluss, berühmt für seine rötlichen Kalksteinklippen.",
       hu: "Egy kolostor az Amaghu folyó szűk szurdokában, amely híres vöröses mészkőszikláiról.",
@@ -1836,7 +1832,6 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     parent: "AM-ER",
     coords: [44.5126, 40.1776],
     name: { de: "Platz der Republik", hu: "Köztársaság tér", ro: "Piața Republicii", en: "Republic Square"},
-    image: "/poi-images/armenia-republic-square-landmarks-v2.webp",
     description: {
       de: "Der zentrale Stadtplatz von Eriwan, bekannt für seine beeindruckenden Gebäude aus rosafarbenem Tuffstein und die singenden Brunnen.",
       hu: "Jereván központi tere, amely híres a lenyűgöző rózsaszín tufából épült épületeiről és az éneklő szökőkutakról.",
@@ -2153,7 +2148,6 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     parent: "AM-ER",
     coords: [44.5209, 40.1919],
     name: { de: "Matenadaran", hu: "Matenadaran", ro: "Matenadaran", en: "Matenadaran"},
-    image: "/poi-images/armenia-matenadaran-landmarks-v2.webp",
     description: {
       de: "Ein Museum und Aufbewahrungsort für alte Handschriften, das eine der größten Sammlungen mittelalterlicher Dokumente weltweit beherbergt.",
       hu: "Egy múzeum és ősi kézirattár, amely a középkori dokumentumok egyik legnagyobb gyűjteményének ad otthont a világon.",
@@ -2686,7 +2680,6 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     parent: "AM-SU",
     coords: [46.0286, 39.5501],
     name: { de: "Sorakarer", hu: "Zorac Karer", ro: "Zorats Karer", en: "Zorats Karer"},
-    image: "/poi-images/armenia-zorats-karer-landmarks-v2.webp",
     description: {
       de: "Ein prähistorisches archäologisches Denkmal, oft als das armenische Stonehenge bezeichnet, das aus Hunderten von großen stehenden Steinen besteht.",
       hu: "Egy történelem előtti régészeti lelőhely, amelyet gyakran az örmény Stonehenge-nek neveznek, és több száz nagy, álló kőből áll.",
@@ -3111,7 +3104,6 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     parent: "AM-KO",
     coords: [44.7408, 40.1119],
     name: { de: "Symphonie der Steine", hu: "Kövek szimfóniája", ro: "Simfonia Pietrelor", en: "Symphony of Stones"},
-    image: "/poi-images/armenia-symphony-of-stones-landmarks-v2.webp",
     description: {
       de: "Ein beeindruckendes Naturdenkmal in der Garni-Schlucht, bestehend aus symmetrischen, sechseckigen Basaltsäulen, die wie eine riesige Orgel aussehen.",
       hu: "Egy lenyűgöző természeti emlékmű a Garni-szurdokban, amely szimmetrikus, hatszögletű bazaltoszlopokból áll, és úgy néz ki, mint egy hatalmas orgona.",
@@ -3248,7 +3240,6 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     parent: "AM-LO",
     coords: [44.7601, 41.1505],
     name: { de: "Festung Achtala", hu: "Akhtala-erőd", ro: "Cetatea Akhtala", en: "Akhtala Fortress"},
-    image: "/poi-images/armenia-akhtala-fortress-landmarks-v2.webp",
     description: {
       de: "Eine befestigte Klosteranlage aus dem 10. Jahrhundert, die eine entscheidende Rolle für den Schutz der nordwestlichen Regionen spielte.",
       hu: "Egy 10. századi erődített kolostor, amely döntő szerepet játszott az északnyugati régiók védelmében.",
@@ -3637,7 +3628,6 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     parent: "AM-AG",
     coords: [44.3804, 40.4079],
     name: { de: "Armenisches Alphabet-Denkmal", hu: "Örmény ábécé emlékmű", ro: "Monumentul Alfabetului Armean", en: "Armenian Alphabet Monument"},
-    image: "/poi-images/armenia-alphabet-monument-landmarks-v2.webp",
     description: {
       de: "Ein architektonisches Denkmal am Hang des Aragaz, das aus 39 riesigen, aus Tuffstein geschnitzten armenischen Buchstaben besteht.",
       hu: "Építészeti emlékmű az Aragac lejtőjén, amely 39 hatalmas, tufából faragott örmény betűből áll.",

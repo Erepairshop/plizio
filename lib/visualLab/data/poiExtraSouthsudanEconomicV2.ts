@@ -12,7 +12,6 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
       hu: "Paloch olajmező",
       ro: "Câmpul petrolifer Paloch",
       en: "Paloch Oil Field"},
-    image: "/poi-images/paloch-oil-field-economic-v2.webp",
     description: {
       de: "Das Paloch-Ölfeld ist eines der größten und produktivsten Erdölfördergebiete im Südsudan, gelegen im Bundesstaat Upper Nile.",
       hu: "A Paloch olajmező Dél-Szudán egyik legnagyobb és legtermelékenyebb kőolaj-kitermelő területe Felső-Nílus államban.",
@@ -60,7 +59,6 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
       hu: "Thar Jath olajmező",
       ro: "Câmpul petrolifer Thar Jath",
       en: "Thar Jath Oil Field"},
-    image: "/poi-images/thar-jath-oil-field-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Ölförderzentrum im Bundesstaat Unity, das wesentlich zum Exportvolumen des Landes beiträgt.",
       hu: "Jelentős olajkitermelő központ Unity államban, amely jelentősen hozzájárul az ország exportvolumenéhez.",
@@ -309,7 +307,6 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
       hu: "Juba folyami kikötő",
       ro: "Portul fluvial Juba",
       en: "Juba River Port"},
-    image: "/poi-images/juba-river-port-economic-v2.webp",
     description: {
       de: "Der Haupthafen in der Hauptstadt Juba ist das logistische Tor für Güter, die über den Weißen Nil transportiert werden.",
       hu: "A főváros, Juba fő kikötője a Fehér-Níluson szállított áruk logisztikai kapuja.",
@@ -453,7 +450,6 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
       hu: "Mangallai cukorgyár",
       ro: "Fabrica de zahăr Mangalla",
       en: "Mangalla Sugar Factory"},
-    image: "/poi-images/mangalla-sugar-factory-economic-v2.webp",
     description: {
       de: "Ein bedeutender Industriekomplex zur Verarbeitung von Zuckerrohr, das in den umliegenden Plantagen angebaut wird.",
       hu: "Jelentős ipari komplexum a környező ültetvényeken termesztett cukornád feldolgozására.",
@@ -501,7 +497,6 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
       hu: "Nzarai pamutcsévélő üzem",
       ro: "Fabrica de bumbac Nzara",
       en: "Nzara Cotton Ginnery"},
-    image: "/poi-images/nzara-cotton-ginnery-economic-v2.webp",
     description: {
       de: "Ein historisches Industriezentrum im Südwesten, das für die Entkörnung und Verarbeitung von Baumwolle bekannt ist.",
       hu: "Történelmi ipari központ a délnyugati részen, amely a pamut tisztításáról és feldolgozásáról ismert.",
@@ -549,7 +544,6 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
       hu: "Renk folyami kikötő",
       ro: "Portul fluvial Renk",
       en: "Renk River Port"},
-    image: "/poi-images/renk-river-port-economic-v2.webp",
     description: {
       de: "Der nördlichste Hafen des Südsudans am Weißen Nil, spezialisiert auf den Export von Getreide und Handelsgütern.",
       hu: "Dél-Szudán legészakibb kikötője a Fehér-Níluson, amely gabona és kereskedelmi áruk exportjára szakosodott.",
@@ -690,7 +684,6 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
       hu: "Bentiui olajfinomító",
       ro: "Rafinăria de petrol Bentiu",
       en: "Bentiu Oil Refinery"},
-    image: "/poi-images/bentiu-oil-refinery-economic-v2.webp",
     description: {
       de: "Eine Raffinerieanlage nahe Bentiu zur Deckung des inländischen Bedarfs an raffinierten Ölprodukten.",
       hu: "Olajfinomító Bentiu közelében a finomított olajtermékek iránti belföldi igények kielégítésére.",
@@ -786,7 +779,6 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
       hu: "Aweili rizsmalom",
       ro: "Moara de orez Aweil",
       en: "Aweil Rice Mill"},
-    image: "/poi-images/aweil-rice-mill-economic-v2.webp",
     description: {
       de: "Die industrielle Mühle verarbeitet den Reis, der im großangelegten Aweil-Reisprojekt produziert wird.",
       hu: "Az ipari malom az Aweil rizsprojekt keretében termelt rizst dolgozza fel.",
@@ -834,7 +826,6 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
       hu: "Fula vízerőmű projekt",
       ro: "Proiectul hidroelectric Fula",
       en: "Fula Rapids Hydro Project"},
-    image: "/poi-images/fula-rapids-hydro-economic-v2.webp",
     description: {
       de: "Ein wichtiges Infrastrukturprojekt zur Stromerzeugung aus der Wasserkraft der Nimule-Stromschnellen.",
       hu: "Fontos infrastruktúrális projekt a Nimule-zúgók vízi energiájából történő áramtermelésre.",
@@ -882,7 +873,6 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
       hu: "Yiroli szezámfeldolgozó",
       ro: "Fabrica de procesare a susanului Yirol",
       en: "Yirol Sesame Processing Plant"},
-    image: "/poi-images/yirol-sesame-plant-economic-v2.webp",
     description: {
       de: "Eine Verarbeitungsanlage für Sesam, die die reiche landwirtschaftliche Produktion der Lakes-Region nutzt.",
       hu: "Szezámfeldolgozó üzem, amely a Lakes-régió gazdag mezőgazdasági termelését hasznosítja.",
@@ -930,7 +920,6 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
       hu: "Kuajoki húsfeldolgozó",
       ro: "Fabrica de procesare a cărnii Kuajok",
       en: "Kuajok Meat Processing Plant"},
-    image: "/poi-images/kuajok-meat-plant-economic-v2.webp",
     description: {
       de: "Ein moderner Verarbeitungsbetrieb für Fleischprodukte im Herzen der Viehzuchtregion Warrap.",
       hu: "Modern húsfeldolgozó üzem a Warrap állattartó régió szívében.",
@@ -978,7 +967,6 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
       hu: "Terekekai halfeldolgozó",
       ro: "Centrul de procesare a peștelui Terekeka",
       en: "Terekeka Fish Processing Center"},
-    image: "/poi-images/terekeka-fish-center-economic-v2.webp",
     description: {
       de: "Ein industrielles Zentrum für die Lagerung und Verarbeitung von Fisch aus dem Weißen Nil.",
       hu: "Ipari központ a Fehér-Nílusból származó halak tárolására és feldolgozására.",
@@ -1026,7 +1014,6 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
       hu: "Adar Yale olajmező",
       ro: "Câmpul petrolifer Adar Yale",
       en: "Adar Yale Oil Field"},
-    image: "/poi-images/adar-yale-oil-field-economic-v2.webp",
     description: {
       de: "Eines der produktivsten Ölfelder im Melut-Becken, das Rohöl für den Weltmarkt liefert.",
       hu: "A Melut-medence egyik legtermelékenyebb olajmezője, amely nyersolajat szolgáltat a világpiacra.",
@@ -1074,7 +1061,6 @@ export const poiExtraSouthsudanEconomicV2: POI[] = [
       hu: "Melut-medence olajkomplexum",
       ro: "Complexul petrolier din bazinul Melut",
       en: "Melut Basin Oil Complex"},
-    image: "/poi-images/melut-basin-oil-complex-economic-v2.webp",
     description: {
       de: "Ein weitläufiger Komplex von Anlagen zur Koordination der Ölförderung im gesamten Melut-Becken.",
       hu: "A Melut-medence teljes olajkitermelésének koordinálására szolgáló létesítmények kiterjedt komplexuma.",

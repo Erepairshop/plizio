@@ -12,7 +12,6 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: "Mocende-hegy",
       ro: "Muntele Mocende",
       en: "Mount Mocende"},
-    image: "/poi-images/mount-mocende-relief-v2.webp",
     description: {
       de: "Der Mount Mocende ist mit etwa 300 Metern die höchste Erhebung in Guinea-Bissau und liegt im hügeligen Südosten des Landes.",
       hu: "A Mocende-hegy Bissau-Guinea legmagasabb pontja, körülbelül 300 méteres magasságával az ország dombos délkeleti részén található.",
@@ -59,7 +58,6 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: "Boé-fennsík",
       ro: "Podișul Boé",
       en: "Boé Plateau"},
-    image: "/poi-images/boe-plateau-relief-v2.webp",
     description: {
       de: "Die Boé-Hochebene ist eine felsige und hügelige Region im Südosten, die sich deutlich von den flachen Küstenebenen des Landes abhebt.",
       hu: "A Boé-fennsík egy sziklás és dombos régió délkeleten, amely jelentősen eltér az ország lapos tengerparti síkságaitól.",
@@ -106,7 +104,6 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: "Varela-dűnék",
       ro: "Dunele din Varela",
       en: "Varela Dunes"},
-    image: "/poi-images/varela-dunes-relief-v2.webp",
     description: {
       de: "An der nordwestlichen Küste bei Varela finden sich seltene Dünenformationen, die den Übergang vom Atlantik zum Festland markieren.",
       hu: "Az északnyugati parton, Varela közelében ritka dűneformációk találhatók, amelyek az Atlanti-óceán és a szárazföld közötti átmenetet jelzik.",
@@ -153,7 +150,6 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: "Binta-erdő",
       ro: "Pădurea Binta",
       en: "Binta Forest"},
-    image: "/poi-images/binta-forest-relief-v2.webp",
     description: {
       de: "Der Binta-Wald ist ein wichtiges Waldgebiet im Norden Guinea-Bissaus, das eine Mischung aus Savanne und dichtem Baumbestand bietet.",
       hu: "A Binta-erdő egy fontos erdőterület Bissau-Guinea északi részén, amely a szavanna és a sűrű faállomány keverékét kínálja.",
@@ -200,7 +196,6 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: "Geba-alföld",
       ro: "Câmpia Geba",
       en: "Geba Lowland"},
-    image: "/poi-images/geba-lowland-relief-v2.webp",
     description: {
       de: "Die ausgedehnte Tiefebene entlang des Geba-Flusses ist durch saisonale Überschwemmungen und fruchtbare Sedimentablagerungen geprägt.",
       hu: "A Geba-folyó menti kiterjedt alföldet szezonális áradások és termékeny üledéklerakódások jellemzik.",
@@ -247,7 +242,6 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: "Corubal-medence",
       ro: "Bazinul Corubal",
       en: "Corubal Basin"},
-    image: "/poi-images/corubal-basin-relief-v2.webp",
     description: {
       de: "Das Becken des Corubal-Flusses im Osten des Landes weist ein abwechslungsreiches Relief mit tief eingeschnittenen Tälern und Plateaus auf.",
       hu: "A Corubal-folyó medencéje az ország keleti részén változatos domborzatot mutat mély völgyekkel és fennsíkokkal.",
@@ -295,7 +289,6 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: "Mansoa-mangrove",
       ro: "Mangrovele Mansoa",
       en: "Mansoa Mangroves"},
-    image: "/poi-images/mansoa-mangroves-relief-v2.webp",
     description: {
       de: "Die dichten Mangrovenwälder am Mansoa-Fluss bilden ein komplexes Ökosystem, das die Küstenlinie vor Erosion schützt.",
       hu: "A Mansoa-folyó menti sűrű mangroveerdők összetett ökoszisztémát alkotnak, amely védi a partvonalat az eróziótól.",
@@ -343,7 +336,6 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: "Rio Grande-parti domborzat",
       ro: "Relieful de coastă Rio Grande",
       en: "Rio Grande Coastal Relief"},
-    image: "/poi-images/rio-grande-relief-v2.webp",
     description: {
       de: "Die fjordähnliche Struktur des Rio Grande de Buba ist geologisch einzigartig in Westafrika und tief in das Küstenplateau eingeschnitten.",
       hu: "A Rio Grande de Buba fjord-szerű szerkezete geológiailag egyedülálló Nyugat-Afrikában, mélyen belevágva a tengerparti fennsíkba.",
@@ -391,7 +383,6 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: "Bolama-pálmaliget",
       ro: "Palmierii din Bolama",
       en: "Bolama Palm Grove"},
-    image: "/poi-images/bolama-palm-forest-relief-v2.webp",
     description: {
       de: "Die Insel Bolama ist von dichten Ölpalmenwäldern bedeckt, die sowohl wild wachsen als auch seit Generationen bewirtschaftet werden.",
       hu: "Bolama szigetét sűrű olajpálma-erdők borítják, amelyek vadon is nőnek, és generációk óta művelik őket.",
@@ -535,7 +526,6 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: "Tombali-esőerdő",
       ro: "Pădurea tropicală Tombali",
       en: "Tombali Rainforest"},
-    image: "/poi-images/tombali-rainforest-relief-v2.webp",
     description: {
       de: "Im tiefen Süden von Tombali finden sich die letzten Reste des ursprünglichen westafrikanischen Regenwaldes in Guinea-Bissau.",
       hu: "Tombali mély déli részén találhatók az eredeti nyugat-afrikai esőerdők utolsó maradványai Bissau-Guineában.",
@@ -583,7 +573,6 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: "Cacheu-síkság",
       ro: "Câmpia Cacheu",
       en: "Cacheu Plain"},
-    image: "/poi-images/cacheu-plain-relief-v2.webp",
     description: {
       de: "Die Cacheu-Ebene ist eine flache Sedimentebene im Norden, die von zahlreichen Meeresarmen und Kanälen durchzogen ist.",
       hu: "A Cacheu-síkság egy északi üledékes síkság, amelyet számos tengeröböl és csatorna szel át.",
@@ -631,7 +620,6 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: "Bubaque-parti sziklák",
       ro: "Stâncile de coastă din Bubaque",
       en: "Bubaque Coastal Rocks"},
-    image: "/poi-images/bubaque-coastal-relief-v2.webp",
     description: {
       de: "Die Küste von Bubaque zeigt interessante geologische Formationen aus Lateritgestein, das bei Ebbe weite Plateaus bildet.",
       hu: "Bubaque partvidéke érdekes lateritkőzet-formációkat mutat, amelyek apálykor széles fennsíkokat alkotnak.",
@@ -724,7 +712,6 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: "Rubane-erdő",
       ro: "Pădurea Rubane",
       en: "Rubane Forest"},
-    image: "/poi-images/rubane-forest-relief-v2.webp",
     description: {
       de: "Der dichte Wald der Insel Rubane ist ein Paradebeispiel für die unberührte Vegetation der Bijagós-Inseln.",
       hu: "Rubane szigetének sűrű erdője a Bijagós-szigetek érintetlen vegetációjának kiváló példája.",
@@ -820,7 +807,6 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: "Farim-medence",
       ro: "Depresiunea Farim",
       en: "Farim Depression"},
-    image: "/poi-images/farim-depression-relief-v2.webp",
     description: {
       de: "Die Senke von Farim im Norden des Landes ist bekannt für ihre Phosphatlagerstätten und das flache, weite Relief.",
       hu: "Az ország északi részén található Farim-medence foszfátlelőhelyeiről és sík, tágas domborzatáról ismert.",
@@ -868,7 +854,6 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: "Biombo-parti mocsár",
       ro: "Mlaștina de coastă Biombo",
       en: "Biombo Coastal Swamp"},
-    image: "/poi-images/biombo-coastal-swamp-relief-v2.webp",
     description: {
       de: "Das Marsch- und Sumpfland von Biombo ist ein Übergangsrelief zwischen den sandigen Küsten und den inneren Flussebenen.",
       hu: "Biombo mocsárvidéke egy átmeneti domborzat a homokos partok és a belső folyómenti síkságok között.",
@@ -916,7 +901,6 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: "Oio-fennsík",
       ro: "Podișul Oio",
       en: "Oio Plateau"},
-    image: "/poi-images/oio-plateau-relief-v2.webp",
     description: {
       de: "Die Oio-Region besteht überwiegend aus einem sanft gewellten Plateau, das für den großflächigen Landbau genutzt wird.",
       hu: "Az Oio-régió túlnyomórészt enyhén hullámzó fennsíkból áll, amelyet kiterjedt mezőgazdasági művelésre használnak.",

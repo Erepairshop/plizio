@@ -8,7 +8,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-01",
     coords: [29.25, -2.00],
     name: { de: "Kiwusee", hu: "Kivu-tó", ro: "Lacul Kivu", en: "Lake Kivu"},
-    image: "/poi-images/lake-kivu-nature-v2.webp",
     description: { de: "Einer der großen afrikanischen Seen an der Grenze zwischen Ruanda und der Demokratischen Republik Kongo.", hu: "Az egyik nagy afrikai tó Ruanda és a Kongói Demokratikus Köztársaság határán.", ro: "Unul dintre marile lacuri africane de la granița dintre Rwanda și Republica Democratică Congo.", en: "One of the great African lakes on the border between Rwanda and the Democratic Republic of the Congo." , es: "Uno de los grandes lagos africanos en la frontera entre Ruanda y la República Democrática del Congo.", pt: "Um dos grandes lagos africanos na fronteira entre o Ruanda e a República Democrática do Congo.", fr: "L'un des Grands Lacs d'Afrique, à la frontière entre le Rwanda et la République démocratique du Congo."},
     facts: {
       de: ["Tiefer See mit Methangas-Reserven.", "Wichtige Lebensgrundlage für die Region."],
@@ -126,7 +125,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-05",
     coords: [29.25, -2.48],
     name: { de: "Nyungwe-Wald", hu: "Nyungwe-erdő", ro: "Pădurea Nyungwe", en: "Nyungwe Forest"},
-    image: "/poi-images/nyungwe-forest-nature-v2.webp",
     description: { de: "Eines der ältesten Regenwaldgebiete Afrikas, bekannt für seine Artenvielfalt und Schimpansen.", hu: "Afrika egyik legrégebbi esőerdője, amely biológiai sokféleségéről és csimpánzairól híres.", ro: "Una dintre cele mai vechi zone de pădure tropicală din Africa, cunoscută pentru biodiversitatea și cimpanzeii săi.", en: "One of Africa's oldest rainforest areas, known for its biodiversity and chimpanzees." , es: "Una de las zonas de selva tropical más antiguas de África, famosa por su biodiversidad y sus chimpancés.", pt: "Uma das áreas de floresta tropical mais antigas de África, conhecida pela sua biodiversidade e pelos chimpanzés.", fr: "L'une des plus anciennes forêts tropicales d'Afrique, réputée pour sa biodiversité et ses chimpanzés."},
     facts: {
       de: ["Heimat von Schimpansen.", "Großes zusammenhängendes Waldgebiet."],
@@ -161,7 +159,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-01",
     coords: [29.45, -1.50],
     name: { de: "Karisimbi-Vulkan", hu: "Karisimbi-vulkán", ro: "Vulcanul Karisimbi", en: "Mount Karisimbi"},
-    image: "/poi-images/mount-karisimbi-nature-v2.webp",
     description: { de: "Der höchste Punkt Ruandas, ein inaktiver Vulkan in den Virunga-Bergen.", hu: "Ruanda legmagasabb pontja, egy inaktív vulkán a Virunga-hegységben.", ro: "Cel mai înalt punct din Rwanda, un vulcan inactiv în Munții Virunga.", en: "The highest point in Rwanda, an inactive volcano in the Virunga Mountains." , es: "El punto más alto de Ruanda, un volcán inactivo en las montañas Virunga.", pt: "O ponto mais alto do Ruanda, um vulcão inativo nas montanhas Virunga.", fr: "Le point culminant du Rwanda, un volcan inactif dans les montagnes des Virunga."},
     facts: {
       de: ["4507 Meter über dem Meeresspiegel.", "Teil des Virunga-Nationalparks."],
@@ -196,7 +193,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-03",
     coords: [30.50, -2.13],
     name: { de: "Akagera-Fluss", hu: "Akagera-folyó", ro: "Râul Akagera", en: "Akagera River"},
-    image: "/poi-images/akagera-river-nature-v2.webp",
     description: { de: "Ein bedeutender Nebenfluss des Nils, der durch den Akagera-Nationalpark fließt.", hu: "A Nílus jelentős mellékfolyója, amely az Akagera Nemzeti Parkon keresztül folyik.", ro: "Un afluent important al Nilului care curge prin Parcul Național Akagera.", en: "A significant tributary of the Nile that flows through the Akagera National Park." , es: "Un importante afluente del Nilo que fluye a través del Parque Nacional Akagera.", pt: "Um afluente importante do Nilo que corre através do Parque Nacional Akagera.", fr: "Un affluent majeur du Nil qui traverse le parc national de l'Akagera."},
     facts: {
       de: ["Fließt durch Feuchtgebiete.", "Wichtige Wasserquelle."],
@@ -314,7 +310,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-01",
     coords: [29.75, -1.41],
     name: { de: "Burera-See", hu: "Burera-tó", ro: "Lacul Burera", en: "Lake Burera"},
-    image: "/poi-images/lake-burera-nature-v2.webp",
     description: { de: "Ein malerischer See in der Nähe der Virunga-Vulkane.", hu: "Festői tó a Virunga-vulkánok közelében.", ro: "Un lac pitoresc în apropierea vulcanilor Virunga.", en: "A picturesque lake near the Virunga volcanoes." , es: "Un lago pintoresco cerca de los volcanes Virunga.", pt: "Um lago pitoresco perto dos vulcões Virunga.", fr: "Un lac pittoresque à proximité des volcans des Virunga."},
     facts: {
       de: ["Umgeben von vulkanischen Hügeln.", "Tiefer Kratersee."],
@@ -351,7 +346,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-01",
     coords: [29.75, -1.48],
     name: { de: "Ruhondo-See", hu: "Ruhondo-tó", ro: "Lacul Ruhondo", en: "Lake Ruhondo"},
-    image: "/poi-images/lake-ruhondo-nature-v2.webp",
     description: { de: "Zwillingssee des Burera-Sees, bekannt für seine ruhige Natur.", hu: "A Burera-tó ikertava, híres nyugodt természetéről.", ro: "Lacul geamăn al lacului Burera, cunoscut pentru natura sa liniștită.", en: "Twin lake to Lake Burera, known for its peaceful nature." , es: "Lago gemelo del lago Burera, conocido por su naturaleza tranquila.", pt: "Lago gémeo do Lago Burera, conhecido pela sua natureza tranquila.", fr: "Lac jumeau du lac Burera, connu pour sa nature paisible."},
     facts: {
       de: ["Beliebt für Vogelbeobachtungen.", "Sehr klare Gewässer."],
@@ -469,7 +463,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-01",
     coords: [29.48, -1.46],
     name: { de: "Bisoke-Vulkan", hu: "Bisoke-vulkán", ro: "Vulcanul Bisoke", en: "Mount Bisoke"},
-    image: "/poi-images/mount-bisoke-nature-v2.webp",
     description: { de: "Ein aktiver Vulkan in der Nähe der Grenze, bekannt für seinen Kratersee.", hu: "Aktív vulkán a határ közelében, amely krátertaváról ismert.", ro: "Un vulcan activ în apropierea graniței, cunoscut pentru lacul său din crater.", en: "An active volcano near the border, known for its crater lake." , es: "Un volcán activo cerca de la frontera, famoso por su lago de cráter.", pt: "Um vulcão ativo perto da fronteira, conhecido pelo seu lago de cratera.", fr: "Un volcan actif près de la frontière, connu pour son lac de cratère."},
     facts: {
       de: ["Hat einen schönen Kratersee auf dem Gipfel.", "Dichte Vegetation."],
@@ -504,7 +497,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-01",
     coords: [29.68, -1.38],
     name: { de: "Muhabura-Vulkan", hu: "Muhabura-vulkán", ro: "Vulcanul Muhabura", en: "Mount Muhabura"},
-    image: "/poi-images/mount-muhabura-nature-v2.webp",
     description: { de: "Ein erloschener Vulkan in den Virunga-Bergen, auch 'Der Wegweiser' genannt.", hu: "Kialudt vulkán a Virunga-hegységben, amelyet 'Az útmutató'-nak is neveznek.", ro: "Un vulcan stins în Munții Virunga, numit și 'Indicatorul'.", en: "An extinct volcano in the Virunga Mountains, also called 'The Guide'." , es: "Un volcán extinguido en las montañas Virunga, también llamado 'El Guía'.", pt: "Um vulcão extinto nas montanhas Virunga, também chamado de 'O Guia'.", fr: "Un volcan éteint des montagnes des Virunga, surnommé 'Le Guide'."},
     facts: {
       de: ["Markantes Wahrzeichen der Region.", "Steiler Aufstieg."],
@@ -539,7 +531,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-01",
     coords: [29.65, -1.39],
     name: { de: "Gahinga-Vulkan", hu: "Gahinga-vulkán", ro: "Vulcanul Gahinga", en: "Mount Gahinga"},
-    image: "/poi-images/mount-gahinga-nature-v2.webp",
     description: { de: "Ein kleinerer Vulkan in der Virunga-Kette, bekannt für seine Moorlandschaften.", hu: "Kisebb vulkán a Virunga-láncban, amely lápvidékeiről ismert.", ro: "Un vulcan mai mic din lanțul Virunga, cunoscut pentru peisajele sale de mlaștină.", en: "A smaller volcano in the Virunga chain, known for its moorland landscapes." , es: "Un volcán menor en la cadena Virunga, conocido por sus humedales alpinos.", pt: "Um vulcão menor na cadeia de Virunga, conhecido pelas suas zonas pantanosas.", fr: "Un volcan plus petit de la chaîne des Virunga, connu pour ses paysages de landes."},
     facts: {
       de: ["Beheimatet seltene Pflanzen.", "Sanftere Hänge."],
@@ -574,7 +565,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-01",
     coords: [29.58, -1.41],
     name: { de: "Sabyinyo-Vulkan", hu: "Sabyinyo-vulkán", ro: "Vulcanul Sabyinyo", en: "Mount Sabyinyo"},
-    image: "/poi-images/mount-sabyinyo-nature-v2.webp",
     description: { de: "Ein alter, zerklüfteter Vulkan, dessen Name 'Zähne des alten Mannes' bedeutet.", hu: "Régi, tagolt vulkán, amelynek neve 'Az öregember fogai'-t jelent.", ro: "Un vulcan vechi și zimțat, al cărui nume înseamnă 'Dinții bătrânului'.", en: "An old, rugged volcano whose name means 'Old man's teeth'." , es: "Un antiguo volcán escarpado cuyo nombre significa 'dientes del anciano'.", pt: "Um antigo vulcão acidentado cujo nome significa 'dentes do homem velho'.", fr: "Un ancien volcan escarpé dont le nom signifie 'les dents du vieil homme'."},
     facts: {
       de: ["Dreiländereck (Ruanda, Uganda, DR Kongo).", "Sehr steil."],
@@ -609,7 +599,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-03",
     coords: [30.70, -1.90],
     name: { de: "Akagera-Park", hu: "Akagera Nemzeti Park", ro: "Parcul Național Akagera", en: "Akagera National Park"},
-    image: "/poi-images/akagera-national-park-nature-v2.webp",
     description: { de: "Ein Schutzgebiet, das Savannen, Wälder und Feuchtgebiete vereint.", hu: "Védett terület, amely egyesíti a szavannákat, erdőket és vizes élőhelyeket.", ro: "O arie protejată care combină savanele, pădurile și zonele umede.", en: "A protected area that combines savannas, forests, and wetlands." , es: "Un área protegida que combina sabanas, bosques y humedales.", pt: "Uma área protegida que combina savanas, florestas e zonas húmidas.", fr: "Une zone protégée alliant savanes, forêts et zones humides."},
     facts: {
       de: ["Reiche Wildtierpopulation.", "Vielfältiges Ökosystem."],
@@ -646,7 +635,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-01",
     coords: [29.35, -1.82],
     name: { de: "Gishwati-Mukura-Wald", hu: "Gishwati-Mukura-erdő", ro: "Pădurea Gishwati-Mukura", en: "Gishwati-Mukura Forest"},
-    image: "/poi-images/gishwati-mukura-nature-v2.webp",
     description: { de: "Ein wiederaufgeforstetes Gebiet, das als Biosphärenreservat anerkannt ist.", hu: "Újraerdősített terület, amelyet bioszféra-rezervátumként ismertek el.", ro: "O zonă reîmpădurită, recunoscută ca rezervație a biosferei.", en: "A reforested area recognized as a biosphere reserve." , es: "Una zona reforestada reconocida como reserva de la biosfera.", pt: "Uma área reflorestada reconhecida como reserva da biosfera.", fr: "Une zone reboisée reconnue comme réserve de biosphère."},
     facts: {
       de: ["Schutz für endemische Arten.", "Erfolgreiches Wiederaufforstungsprojekt."],
@@ -681,7 +669,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-05",
     coords: [29.00, -2.53],
     name: { de: "Cyamudongo-Wald", hu: "Cyamudongo-erdő", ro: "Pădurea Cyamudongo", en: "Cyamudongo Forest"},
-    image: "/poi-images/cyamudongo-forest-nature-v2.webp",
     description: { de: "Ein isoliertes Waldfragment, Teil des größeren Nyungwe-Ökosystems.", hu: "Elszigetelt erdőfolt, a nagyobb Nyungwe-ökoszisztéma része.", ro: "Un fragment de pădure izolat, parte a ecosistemului mai larg Nyungwe.", en: "An isolated forest fragment, part of the larger Nyungwe ecosystem." , es: "Un fragmento de bosque aislado, parte del ecosistema mayor de Nyungwe.", pt: "Um fragmento de floresta isolado, parte do ecossistema maior de Nyungwe.", fr: "Un fragment de forêt isolé, faisant partie du plus grand écosystème de Nyungwe."},
     facts: {
       de: ["Wichtig für Schimpansenpopulationen.", "Einzigartige Flora."],
@@ -752,7 +739,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-04",
     coords: [29.98, -2.25],
     name: { de: "Nyabarongo-Fluss", hu: "Nyabarongo-folyó", ro: "Râul Nyabarongo", en: "Nyabarongo River"},
-    image: "/poi-images/nyabarongo-river-nature-v2.webp",
     description: { de: "Der längste Fluss in Ruanda, ein Hauptzufluss des Akagera.", hu: "Ruanda leghosszabb folyója, az Akagera fő mellékfolyója.", ro: "Cel mai lung râu din Rwanda, un afluent principal al Akagerei.", en: "The longest river in Rwanda, a main tributary of the Akagera." , es: "El río más largo de Ruanda, principal afluente del Akagera.", pt: "O rio mais longo de Ruanda, um dos principais afluentes do Akagera.", fr: "Le plus long fleuve du Rwanda, un affluent majeur de l'Akagera."},
     facts: {
       de: ["Entwässert den Großteil Ruandas.", "Wichtige Verkehrsader für das Land."],
@@ -789,7 +775,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-03",
     coords: [30.73, -1.91],
     name: { de: "Ihema-See", hu: "Ihema-tó", ro: "Lacul Ihema", en: "Lake Ihema"},
-    image: "/poi-images/lake-ihema-nature-v2.webp",
     description: { de: "Der größte See im Akagera-Nationalpark, bekannt für seine reiche Tierwelt.", hu: "Az Akagera Nemzeti Park legnagyobb tava, gazdag vadvilágáról ismert.", ro: "Cel mai mare lac din Parcul Național Akagera, cunoscut pentru fauna sa bogată.", en: "The largest lake in Akagera National Park, known for its rich wildlife." , es: "El lago más grande del Parque Nacional Akagera, conocido por su rica fauna.", pt: "O maior lago do Parque Nacional Akagera, conhecido pela sua fauna rica.", fr: "Le plus grand lac du parc national de l'Akagera, réputé pour sa faune abondante."},
     facts: {
       de: ["Beheimatet Flusspferde und Krokodile.", "Wichtiger Lebensraum."],
@@ -826,7 +811,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-01",
     coords: [29.65, -1.55],
     name: { de: "Mukungwa-Fluss", hu: "Mukungwa-folyó", ro: "Râul Mukungwa", en: "Mukungwa River"},
-    image: "/poi-images/mukungwa-river-nature-v2.webp",
     description: { de: "Ein wichtiger Fluss, der aus den Burera- und Ruhondo-Seen entspringt.", hu: "Fontos folyó, amely a Burera- és Ruhondo-tavakból ered.", ro: "Un râu important care izvorăște din lacurile Burera și Ruhondo.", en: "An important river that originates from Lake Burera and Lake Ruhondo." , es: "Un río importante que nace de los lagos Burera y Ruhondo.", pt: "Um rio importante que nasce dos lagos Burera e Ruhondo.", fr: "Une rivière importante prenant sa source dans les lacs Burera et Ruhondo."},
     facts: {
       de: ["Dient der Stromerzeugung.", "Klares Gebirgswasser."],
@@ -863,7 +847,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-03",
     coords: [30.35, -2.45],
     name: { de: "Rurubu-Fluss", hu: "Rurubu-folyó", ro: "Râul Rurubu", en: "Rurubu River"},
-    image: "/poi-images/rurubu-river-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss, der durch den Südosten Ruandas fließt.", hu: "Jelentős folyó, amely Ruanda délkeleti részén folyik át.", ro: "Un râu semnificativ care curge prin sud-estul Rwandei.", en: "A significant river that flows through southeastern Rwanda." , es: "Un río importante que fluye a través del sureste de Ruanda.", pt: "Um rio importante que flui através do sudeste de Ruanda.", fr: "Une rivière importante traversant le sud-est du Rwanda."},
     facts: {
       de: ["Fließt in Richtung Burundi.", "Reiches Flussökosystem."],
@@ -898,7 +881,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-04",
     coords: [30.25, -2.25],
     name: { de: "Mugesera-See", hu: "Mugesera-tó", ro: "Lacul Mugesera", en: "Lake Mugesera"},
-    image: "/poi-images/lake-mugesera-nature-v2.webp",
     description: { de: "Ein flacher See im Südosten, bekannt für seine Feuchtgebiete.", hu: "Sekély tó a délkeleti részen, amely vizes élőhelyeiről ismert.", ro: "Un lac puțin adânc în sud-est, cunoscut pentru zonele sale umede.", en: "A shallow lake in the southeast, known for its wetlands." , es: "Un lago poco profundo en el sureste, conocido por sus humedales.", pt: "Um lago raso no sudeste, conhecido pelas suas zonas húmidas.", fr: "Un lac peu profond au sud-est, connu pour ses zones humides."},
     facts: {
       de: ["Vogelbeobachtungsgebiet.", "Wichtige Brutstätte."],
@@ -933,7 +915,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-04",
     coords: [30.15, -2.33],
     name: { de: "Cyohoha-See", hu: "Cyohoha-tó", ro: "Lacul Cyohoha", en: "Lake Cyohoha"},
-    image: "/poi-images/lake-cyohoha-nature-v2.webp",
     description: { de: "Ein See an der Grenze zu Burundi, umgeben von Sumpflandschaften.", hu: "Tó Burundi határán, mocsaras tájak veszik körül.", ro: "Un lac la granița cu Burundi, înconjurat de peisaje mlăștinoase.", en: "A lake on the border with Burundi, surrounded by swamp landscapes." , es: "Un lago en la frontera con Burundi, rodeado de paisajes pantanosos.", pt: "Um lago na fronteira com o Burundi, rodeado por paisagens pantanosas.", fr: "Un lac à la frontière avec le Burundi, entouré de paysages marécageux."},
     facts: {
       de: ["Naturschutzgebiet.", "Reiche Flora."],
@@ -968,7 +949,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-01",
     coords: [29.45, -1.50],
     name: { de: "Kalisimbi-Gipfel", hu: "Kalisimbi-csúcs", ro: "Vârful Kalisimbi", en: "Kalisimbi Summit"},
-    image: "/poi-images/mount-kalisimbi-summit-nature-v2.webp",
     description: { de: "Der höchste Bereich des Karisimbi-Vulkans, oft nebelverhangen.", hu: "A Karisimbi-vulkán legmagasabb része, gyakran ködös.", ro: "Cea mai înaltă zonă a vulcanului Karisimbi, adesea acoperită de ceață.", en: "The highest area of Mount Karisimbi, often shrouded in mist." , es: "La zona más alta del volcán Karisimbi, a menudo envuelta en niebla.", pt: "A zona mais alta do vulcão Karisimbi, muitas vezes envolta em nevoeiro.", fr: "La zone la plus élevée du volcan Karisimbi, souvent plongée dans le brouillard."},
     facts: {
       de: ["Oft kühle Temperaturen.", "Einzigartige Hochgebirgsvegetation."],
@@ -1084,7 +1064,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-01",
     coords: [29.28, -1.75],
     name: { de: "Nord-Kivusee", hu: "Északi-Kivu-tó", ro: "Lacul Kivu de Nord", en: "North Lake Kivu"},
-    image: "/poi-images/lake-kivu-north-nature-v2.webp",
     description: { de: "Der nördliche Teil des Kivu-Sees, nahe der Vulkane.", hu: "A Kivu-tó északi része, a vulkánok közelében.", ro: "Partea de nord a lacului Kivu, în apropierea vulcanilor.", en: "The northern part of Lake Kivu, near the volcanoes." , es: "La parte norte del lago Kivu, situada cerca de los volcanes.", pt: "A parte norte do Lago Kivu, localizada perto dos vulcões.", fr: "La partie nord du lac Kivu, située à proximité des volcans."},
     facts: {
       de: ["Vulkanische Umgebung.", "Sehr tiefe Gewässer."],
@@ -1119,7 +1098,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-03",
     coords: [30.65, -2.00],
     name: { de: "Akagera-Feuchtgebiete", hu: "Akagera-vizes élőhelyek", ro: "Zonele umede Akagera", en: "Akagera Wetlands"},
-    image: "/poi-images/akagera-wetlands-nature-v2.webp",
     description: { de: "Ein umfangreiches Sumpf- und Feuchtgebiet entlang des Flusses Akagera.", hu: "Kiterjedt mocsaras és vizes élőhely az Akagera-folyó mentén.", ro: "O zonă extinsă de mlaștină și zone umede de-a lungul râului Akagera.", en: "An extensive swamp and wetland area along the Akagera River." , es: "Un extenso sistema de pantanos y humedales a lo largo del río Akagera.", pt: "Um extenso sistema de pântanos e zonas húmidas ao longo do rio Akagera.", fr: "Un vaste ensemble de marécages et de zones humides le long de la rivière Akagera."},
     facts: {
       de: ["Wichtig für den Vogelschutz.", "Lebensraum für seltene Amphibien."],
@@ -1235,7 +1213,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-01",
     coords: [29.80, -1.65],
     name: { de: "Hiyaga-Berg", hu: "Hiyaga-hegy", ro: "Muntele Hiyaga", en: "Mount Hiyaga"},
-    image: "/poi-images/mount-hiyaga-nature-v2.webp",
     description: { de: "Ein markanter Berg in der nördlichen Provinz Ruandas.", hu: "Jellegzetes hegy Ruanda északi tartományában.", ro: "Un munte distinctiv în provincia de nord a Rwandei.", en: "A distinctive mountain in the northern province of Rwanda." , es: "Una montaña prominente en la provincia del norte de Ruanda.", pt: "Uma montanha proeminente na província do norte do Ruanda.", fr: "Une montagne remarquable dans la province du Nord du Rwanda."},
     facts: {
       de: ["Aussichtspunkt.", "Vulkanisches Gestein."],
@@ -1270,7 +1247,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-01",
     coords: [29.23, -2.25],
     name: { de: "Kivusee-Küste", hu: "Kivu-tó partvidéke", ro: "Țărmurile lacului Kivu", en: "Lake Kivu Shores"},
-    image: "/poi-images/lake-kivu-shores-nature-v2.webp",
     description: { de: "Die abwechslungsreiche Uferlinie des Kivu-Sees.", hu: "A Kivu-tó változatos partvonala.", ro: "Linia țărmului variată a lacului Kivu.", en: "The varied shoreline of Lake Kivu." , es: "La variada línea costera del lago Kivu.", pt: "A variada linha costeira do Lago Kivu.", fr: "La ligne côtière variée du lac Kivu."},
     facts: {
       de: ["Sandige Buchten.", "Umgeben von Kaffeeplantagen."],
@@ -1305,7 +1281,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-05",
     coords: [29.02, -2.65],
     name: { de: "Bugarama-Heiße-Quellen", hu: "Bugarama hévízforrások", ro: "Izvoarele termale Bugarama", en: "Bugarama Hot Springs"},
-    image: "/poi-images/bugarama-hot-springs-nature-v2.webp",
     description: { de: "Natürliche heiße Quellen in der südwestlichen Region Ruandas.", hu: "Természetes hévízforrások Ruanda délnyugati részén.", ro: "Izvoare termale naturale în regiunea de sud-vest a Rwandei.", en: "Natural hot springs in the southwestern region of Rwanda." , es: "Fuentes termales naturales en la región suroeste de Ruanda.", pt: "Fontes termais naturais na região sudoeste do Ruanda.", fr: "Sources thermales naturelles dans la région sud-ouest du Rwanda."},
     facts: {
       de: ["Geothermische Aktivität.", "Beliebt für Wellness."],
@@ -1341,7 +1316,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-04",
     coords: [30.06, -1.95],
     name: { de: "Kigali-Hügel", hu: "Kigali-dombok", ro: "Dealurile Kigali", en: "Kigali Hills"},
-    image: "/poi-images/kigali-hills-nature-v2.webp",
     description: { de: "Die sanften Hügelketten, auf denen die Hauptstadt Kigali liegt.", hu: "Szelíd dombságok, amelyeken Kigali fővárosa fekszik.", ro: "Lanțurile de dealuri line pe care se află capitala Kigali.", en: "The gentle hill chains upon which the capital, Kigali, lies." , es: "Las suaves cadenas de colinas sobre las que se asienta la capital, Kigali.", pt: "As suaves cadeias de colinas sobre as quais se situa a capital, Kigali.", fr: "Les chaînes de collines douces sur lesquelles se trouve la capitale Kigali."},
     facts: {
       de: ["Grüne Landschaften.", "Bieten Panoramablicke."],
@@ -1377,7 +1351,6 @@ export const poiExtraRwandaNatureV2: POI[] = [
     parent: "RW-04",
     coords: [30.00, -2.41],
     name: { de: "Akanyaru-Fluss", hu: "Akanyaru-folyó", ro: "Râul Akanyaru", en: "Akanyaru River"},
-    image: "/poi-images/akanyaru-river-nature-v2.webp",
     description: { de: "Ein Grenzfluss zwischen Ruanda und Burundi, Teil eines großen Feuchtgebiets.", hu: "Határfolyó Ruanda és Burundi között, egy nagy vizes élőhely része.", ro: "Un râu de graniță între Rwanda și Burundi, parte a unei mari zone umede.", en: "A border river between Rwanda and Burundi, part of a large wetland." , es: "Un río fronterizo entre Ruanda y Burundi, parte de un gran humedal.", pt: "Um rio fronteiriço entre o Ruanda e o Burundi, parte de uma grande zona húmida.", fr: "Une rivière frontalière entre le Rwanda et le Burundi, faisant partie d'une vaste zone humide."},
     facts: {
       de: ["Sumpfgebiete am Ufer.", "Wichtige Lebensraum-Verbindung."],

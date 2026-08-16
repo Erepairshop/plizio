@@ -125,7 +125,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-C",
     coords: [-58.368, -34.588],
     name: { de: "Hafen von Buenos Aires", hu: "Buenos Aires-i kikötő", ro: "Portul Buenos Aires", en: "Port of Buenos Aires"},
-    image: "/poi-images/buenos-aires-port-economic-v2.webp",
     description: { de: "Der größte Hafen Argentiniens und das Hauptzentrum für den Seehandel.", hu: "Argentína legnagyobb kikötője és a tengeri kereskedelem fő központja.", ro: "Cel mai mare port din Argentina și principalul centru al comerțului maritim.", en: "The largest port in Argentina and the main hub for maritime trade." , es: "El mayor puerto de Argentina y el principal centro del comercio marítimo.", pt: "O maior porto da Argentina e o principal centro do comércio marítimo.", fr: "Le plus grand port d'Argentine et le principal centre du commerce maritime."},
     facts: {
       de: ["Verarbeitet Millionen von Containern.", "Wichtigster Importpunkt."],
@@ -1573,7 +1572,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-S",
     coords: [-60.627, -33.003],
     name: { de: "Hafen von Rosario", hu: "Rosario kikötője", ro: "Portul Rosario", en: "Port of Rosario"},
-    image: "/poi-images/rosario-port-economic-v2.webp",
     description: { de: "Ein bedeutender Flusshafen für den Export von landwirtschaftlichen Produkten.", hu: "Jelentős folyami kikötő a mezőgazdasági termékek exportjára.", ro: "Un important port fluvial pentru exportul produselor agricole.", en: "A major river port for the export of agricultural products." , es: "Un importante puerto fluvial para la exportación de productos agrícolas.", pt: "Um importante porto fluvial para a exportação de produtos agrícolas.", fr: "Un port fluvial majeur pour l'exportation de produits agricoles."},
     facts: {
       de: ["Liegt am Fluss Paraná.", "Zentrum für Sojaexporte."],
@@ -1608,7 +1606,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-B",
     coords: [-62.298, -38.790],
     name: { de: "Hafen von Bahía Blanca", hu: "Bahía Blanca kikötője", ro: "Portul Bahía Blanca", en: "Port of Bahía Blanca"},
-    image: "/poi-images/bahia-blanca-port-economic-v2.webp",
     description: { de: "Ein wichtiger Tiefwasserhafen für Getreide und petrochemische Produkte.", hu: "Fontos mélyvízi kikötő gabona és petrolkémiai termékek számára.", ro: "Un important port de apă adâncă pentru cereale și produse petrochimice.", en: "An important deepwater port for grain and petrochemical products." , es: "Un importante puerto de aguas profundas para cereales y productos petroquímicos.", pt: "Um importante porto de águas profundas para cereais e produtos petroquímicos.", fr: "Un port important en eau profonde pour les céréales et les produits pétrochimiques."},
     facts: {
       de: ["Hat einen Tiefgang von 45 Fuß.", "Ganzjährig schiffbar."],
@@ -2120,7 +2117,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-B",
     coords: [-58.711, -38.583],
     name: { de: "Hafen von Quequén", hu: "Quequén kikötője", ro: "Portul Quequén", en: "Port of Quequén"},
-    image: "/poi-images/quequen-port-economic-v2.webp",
     description: { de: "Einer der wichtigsten Seehäfen Argentiniens für den Export von Agrargütern.", hu: "Argentína egyik legfontosabb tengeri kikötője az agrárexport számára.", ro: "Unul dintre cele mai importante porturi maritime din Argentina pentru exportul de produse agricole.", en: "One of the most important seaports in Argentina for agricultural exports." , es: "Uno de los puertos marítimos más importantes de Argentina para la exportación de granos.", pt: "Um dos portos marítimos mais importantes da Argentina para a exportação de produtos agrícolas.", fr: "L'un des ports maritimes les plus importants d'Argentine pour l'exportation de produits agricoles."},
     facts: {
       de: ["Spezialisiert auf Getreide und Düngemittel.", "Liegt an der Mündung des Quequén Grande."],
@@ -2344,7 +2340,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-U",
     coords: [-65.028, -42.738],
     name: { de: "Hafen Almirante Storni", hu: "Almirante Storni kikötő", ro: "Portul Almirante Storni", en: "Almirante Storni Port"},
-    image: "/poi-images/storni-port-economic-v2.webp",
     description: { de: "Ein bedeutender Hafen in Puerto Madryn, der hauptsächlich für Aluminiumexporte genutzt wird.", hu: "Jelentős kikötő Puerto Madrynban, amelyet főleg alumíniumexportra használnak.", ro: "Un port important în Puerto Madryn, folosit în principal pentru exporturile de aluminiu.", en: "A major port in Puerto Madryn, mainly used for aluminum exports." , es: "Un puerto importante en Puerto Madryn, utilizado principalmente para exportaciones de aluminio.", pt: "Um porto importante em Puerto Madryn, utilizado principalmente para exportações de alumínio.", fr: "Un port important à Puerto Madryn, principalement utilisé pour les exportations d'aluminium."},
     facts: {
       de: ["Wichtig für die Aluminiumindustrie.", "Dient auch der Fischerei."],
@@ -3432,7 +3427,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-V",
     coords: [-68.300, -54.810],
     name: { de: "Hafen von Ushuaia", hu: "Ushuaia kikötője", ro: "Portul Ushuaia", en: "Port of Ushuaia"},
-    image: "/poi-images/ushuaia-port-economic-v2.webp",
     description: { de: "Der südlichste Hafen Argentiniens, ein wichtiges Zentrum für Tourismus und Industrie.", hu: "Argentína legdélibb kikötője, a turizmus és az ipar fontos központja.", ro: "Cel mai sudic port din Argentina, un centru important pentru turism și industrie.", en: "The southernmost port in Argentina, an important center for tourism and industry." , es: "El puerto más austral de Argentina, un importante centro turístico e industrial.", pt: "O porto mais austral da Argentina, um importante centro turístico e industrial.", fr: "Le port le plus au sud de l'Argentine, un centre touristique et industriel important."},
     facts: {
       de: ["Ausgangspunkt für Antarktis-Kreuzfahrten.", "Unterstützt lokale Elektronikmontage."],
@@ -4160,7 +4154,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-S",
     coords: [-60.725, -32.721],
     name: { de: "Hafen San Martín", hu: "San Martín kikötő", ro: "Portul San Martín", en: "San Martín Port"},
-    image: "/poi-images/san-martin-port-economic-v2.webp",
     description: { de: "Ein Schlüsselhafen im Up-River-Komplex für den Export von landwirtschaftlichen Nebenprodukten.", hu: "Kulcsfontosságú kikötő az Up-River komplexumban mezőgazdasági melléktermékek exportjára.", ro: "Un port cheie în complexul Up-River pentru exportul de subproduse agricole.", en: "A key port in the Up-River complex for the export of agricultural by-products." , es: "Un puerto clave en el complejo \"Up-River\" para la exportación de subproductos agrícolas.", pt: "Um porto fundamental no complexo Up-River para a exportação de subprodutos agrícolas.", fr: "Un port clé du complexe Up-River pour l'exportation de sous-produits agricoles."},
     facts: {
       de: ["Teil des Agroindustrie-Hubs.", "Exportiert Sojaöl und Mehl."],
@@ -4924,7 +4917,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-B",
     coords: [-58.956, -34.153],
     name: { de: "Hafen von Campana", hu: "Campana kikötője", ro: "Portul Campana", en: "Port of Campana"},
-    image: "/poi-images/campana-port-economic-v2.webp",
     description: { de: "Ein Hafen am Fluss Paraná de las Palmas, wichtig für Erdöl- und Stahlexporte.", hu: "Kikötő a Paraná de las Palmas folyón, fontos a kőolaj- és acelexport szempontjából.", ro: "Un port pe râul Paraná de las Palmas, important pentru exporturile de petrol și oțel.", en: "A port on the Paraná de las Palmas river, important for petroleum and steel exports." , es: "Un puerto situado a orillas del río Paraná de las Palmas, importante para las exportaciones de petróleo y acero.", pt: "Um porto no rio Paraná de las Palmas, importante para as exportações de petróleo e aço.", fr: "Un port sur la rivière Paraná de las Palmas, important pour les exportations de pétrole et d'acier."},
     facts: {
       de: ["Verfügt über Ölterminals.", "Bedient die lokale Schwerindustrie."],
@@ -5796,7 +5788,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-B",
     coords: [-59.022, -34.108],
     name: { de: "Hafen von Zárate", hu: "Zárate kikötője", ro: "Portul Zárate", en: "Port of Zárate"},
-    image: "/poi-images/zarate-port-economic-v2.webp",
     description: { de: "Ein wichtiges RoRo-Terminal, das hauptsächlich für den Import und Export von Fahrzeugen genutzt wird.", hu: "Fontos RoRo-terminál, amelyet főként járművek importjára és exportjára használnak.", ro: "Un terminal RoRo important, utilizat în principal pentru importul și exportul de vehicule.", en: "A major RoRo terminal mainly used for the import and export of vehicles." , es: "Una importante terminal RoRo, utilizada principalmente para la importación y exportación de vehículos.", pt: "Um importante terminal RoRo, utilizado principalmente para a importação e exportação de veículos.", fr: "Un important terminal roulier (RoRo), principalement utilisé pour l'importation et l'exportation de véhicules."},
     facts: {
       de: ["Argentiniens wichtigster Autohafen.", "Liegt strategisch nahe Buenos Aires."],
@@ -6380,7 +6371,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-B",
     coords: [-60.210, -33.340],
     name: { de: "Hafen von San Nicolás", hu: "San Nicolás kikötője", ro: "Portul San Nicolás", en: "Port of San Nicolás"},
-    image: "/poi-images/san-nicolas-port-economic-v2.webp",
     description: { de: "Ein bedeutender Hafen für Schüttgüter, der die örtliche Stahlindustrie versorgt.", hu: "Jelentős ömlesztettáru-kikötő, amely a helyi acélipart látja el.", ro: "Un port important pentru mărfuri în vrac care aprovizionează industria siderurgică locală.", en: "A significant port for bulk goods that supplies the local steel industry." , es: "Un importante puerto de graneles que abastece a la industria siderúrgica local.", pt: "Um importante porto de granéis que abastece a indústria siderúrgica local.", fr: "Un port de vrac important qui approvisionne l'industrie sidérurgique locale."},
     facts: {
       de: ["Umschlagplatz für Eisenerz.", "Unterstützt das Siderar-Werk."],
@@ -6415,7 +6405,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-Q",
     coords: [-68.790, -38.256],
     name: { de: "Vaca Muerta Ölfeld", hu: "Vaca Muerta olajmező", ro: "Câmpul petrolier Vaca Muerta", en: "Vaca Muerta Oil Field"},
-    image: "/poi-images/vaca-muerta-economic-v2.webp",
     description: { de: "Eine der größten Schiefergas- und Schieferölformationen der Welt.", hu: "A világ egyik legnagyobb palagáz- és palaolaj-formációja.", ro: "Una dintre cele mai mari formațiuni de gaze și petrol de șist din lume.", en: "One of the largest shale gas and shale oil formations in the world." , es: "Una de las mayores formaciones de gas y petróleo de esquisto del mundo.", pt: "Uma das maiores formações de gás e óleo de xisto do mundo.", fr: "L'une des plus grandes formations de gaz et de pétrole de schiste au monde."},
     facts: {
       de: ["Umfasst rund 30.000 Quadratkilometer.", "Ein Motor der argentinischen Wirtschaft."],
@@ -6450,7 +6439,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-J",
     coords: [-70.021, -29.375],
     name: { de: "Bergwerk Veladero", hu: "Veladero bánya", ro: "Mina Veladero", en: "Veladero Mine"},
-    image: "/poi-images/veladero-mine-economic-v2.webp",
     description: { de: "Eine große Goldmine in den Anden in der Provinz San Juan.", hu: "Egy nagy aranybánya az Andokban, San Juan tartományban.", ro: "O mare mină de aur în Anzi, în provincia San Juan.", en: "A large gold mine in the Andes in the San Juan Province." , es: "Una gran mina de oro en los Andes, en la provincia de San Juan.", pt: "Uma grande mina de ouro nos Andes, na província de San Juan.", fr: "Une grande mine d'or dans les Andes, dans la province de San Juan."},
     facts: {
       de: ["Gehört zu den größten Goldminen Argentiniens.", "Liegt auf über 4.000 Metern Höhe."],
@@ -6485,7 +6473,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-Z",
     coords: [-68.106, -48.375],
     name: { de: "Bergwerk Cerro Vanguardia", hu: "Cerro Vanguardia bánya", ro: "Mina Cerro Vanguardia", en: "Cerro Vanguardia Mine"},
-    image: "/poi-images/cerro-vanguardia-mine-economic-v2.webp",
     description: { de: "Eine bedeutende Gold- und Silbermine in der patagonischen Provinz Santa Cruz.", hu: "Jelentős arany- és ezüstbánya a patagóniai Santa Cruz tartományban.", ro: "O importantă mină de aur și argint în provincia patagoniană Santa Cruz.", en: "A significant gold and silver mine in the Patagonian province of Santa Cruz." , es: "Una importante mina de oro y plata en la provincia patagónica de Santa Cruz.", pt: "Uma importante mina de ouro e prata na província patagónica de Santa Cruz.", fr: "Une importante mine d'or et d'argent dans la province patagonienne de Santa Cruz."},
     facts: {
       de: ["Betreibt Tagebau und Untertagebau.", "Wichtigster Arbeitgeber in der Region."],
@@ -7609,7 +7596,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-U",
     coords: [-65.032, -42.741],
     name: { de: "Aluar Aluminiumwerk", hu: "Aluar alumíniumgyár", ro: "Fabrica de aluminiu Aluar", en: "Aluar Aluminum Plant"},
-    image: "/poi-images/aluar-plant-economic-v2.webp",
     description: { de: "Der einzige primäre Aluminiumproduzent in Argentinien, gelegen in Puerto Madryn.", hu: "Argentína egyetlen elsődleges alumíniumgyártója, Puerto Madrynban.", ro: "Singurul producător de aluminiu primar din Argentina, situat în Puerto Madryn.", en: "The only primary aluminum producer in Argentina, located in Puerto Madryn." , es: "El único productor primario de aluminio de Argentina, situado en Puerto Madryn.", pt: "O único produtor primário de alumínio na Argentina, localizado em Puerto Madryn.", fr: "Le seul producteur primaire d'aluminium en Argentine, situé à Puerto Madryn."},
     facts: {
       de: ["Exportiert weltweit.", "Nutzt Energie aus dem Wasserkraftwerk Futaleufú."],
@@ -8274,7 +8260,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-B",
     coords: [-59.030, -34.120],
     name: { de: "Toyota-Werk Zárate", hu: "Toyota Zárate gyár", ro: "Fabrica Toyota Zárate", en: "Toyota Zárate Plant"},
-    image: "/poi-images/toyota-zarate-economic-v2.webp",
     description: { de: "Eine hochmoderne Automobilfabrik, die Pickup-Trucks für den lateinamerikanischen Markt produziert.", hu: "Korszerű autógyár, amely pickupokat gyárt a latin-amerikai piacra.", ro: "O fabrică de automobile de ultimă generație care produce camionete pentru piața latino-americană.", en: "A state-of-the-art automotive plant producing pickup trucks for the Latin American market." , es: "Una planta automotriz ultramoderna que produce camionetas pickup para el mercado latinoamericano.", pt: "Uma fábrica automotiva ultramoderna que produz picapes para o mercado latino-americano.", fr: "Une usine automobile ultramoderne produisant des pick-ups pour le marché latino-américain."},
     facts: {
       de: ["Produziert den Hilux.", "Ein wichtiger Exporteur für Argentinien."],
@@ -9542,7 +9527,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-B",
     coords: [-58.643, -34.455],
     name: { de: "Ford-Werk Pacheco", hu: "Ford Pacheco gyár", ro: "Fabrica Ford Pacheco", en: "Ford Pacheco Plant"},
-    image: "/poi-images/ford-pacheco-economic-v2.webp",
     description: { de: "Ein historisches Autowerk, das eine wichtige Rolle in der industriellen Entwicklung spielte.", hu: "Történelmi autógyár, amely fontos szerepet játszott az ipari fejlődésben.", ro: "O fabrică auto istorică care a jucat un rol important în dezvoltarea industrială.", en: "A historic auto plant that played a major role in industrial development." , es: "Una planta automotriz histórica que jugó un papel clave en el desarrollo industrial.", pt: "Uma fábrica de automóveis histórica que desempenhou um papel fundamental no desenvolvimento industrial.", fr: "Une usine automobile historique ayant joué un rôle clé dans le développement industriel."},
     facts: {
       de: ["Produziert Nutzfahrzeuge.", "Wurde in den 1960er Jahren eröffnet."],
@@ -11107,7 +11091,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-X",
     coords: [-64.248, -31.472],
     name: { de: "Renault-Werk Santa Isabel", hu: "Renault Santa Isabel gyár", ro: "Fabrica Renault Santa Isabel", en: "Renault Santa Isabel Plant"},
-    image: "/poi-images/renault-santa-isabel-economic-v2.webp",
     description: { de: "Ein traditionsreiches Autowerk in Córdoba, das seit Jahrzehnten in Betrieb ist.", hu: "Nagy hagyományokkal rendelkező autógyár Córdobában, amely évtizedek óta üzemel.", ro: "O fabrică auto cu tradiție din Córdoba, operațională de decenii.", en: "A traditional auto plant in Córdoba that has been operating for decades." , es: "Una histórica planta de automóviles en Córdoba que opera desde hace décadas.", pt: "Uma tradicional fábrica de automóveis em Córdoba, em operação há décadas.", fr: "Une usine automobile de tradition à Córdoba, en service depuis des décennies."},
     facts: {
       de: ["Wurde 1955 gegründet.", "Produziert verschiedene Renault-Modelle."],
@@ -12564,7 +12547,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-B",
     coords: [-57.925, -34.887],
     name: { de: "YPF-Raffinerie La Plata", hu: "YPF La Plata finomító", ro: "Rafinăria YPF La Plata", en: "YPF La Plata Refinery"},
-    image: "/poi-images/ypf-la-plata-economic-v2.webp",
     description: { de: "Der größte Raffineriekomplex Argentiniens, der Benzin, Diesel und petrochemische Produkte herstellt.", hu: "Argentína legnagyobb finomító komplexuma, amely benzint, gázolajat és petrolkémiai termékeket állít elő.", ro: "Cel mai mare complex de rafinare din Argentina, care produce benzină, motorină și produse petrochimice.", en: "The largest refinery complex in Argentina, producing gasoline, diesel, and petrochemical products." , es: "El mayor complejo de refinería de Argentina, que produce gasolina, diésel y productos petroquímicos.", pt: "O maior complexo de refinaria da Argentina, que produz gasolina, diesel e produtos petroquímicos.", fr: "Le plus grand complexe de raffinage d'Argentine, produisant de l'essence, du diesel et des produits pétrochimiques."},
     facts: {
       de: ["Deckteins einen Großteil des nationalen Bedarfs.", "Wurde 1925 eröffnet."],
@@ -13220,7 +13202,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-M",
     coords: [-68.910, -33.020],
     name: { de: "YPF-Raffinerie Luján de Cuyo", hu: "YPF Luján de Cuyo finomító", ro: "Rafinăria YPF Luján de Cuyo", en: "YPF Luján de Cuyo Refinery"},
-    image: "/poi-images/ypf-lujan-cuyo-economic-v2.webp",
     description: { de: "Eine bedeutende Ölraffinerie in Mendoza, die Rohöl aus der Cuyo-Region verarbeitet.", hu: "Jelentős olajfinomító Mendozában, amely a Cuyo régióból származó nyersolajat dolgozza fel.", ro: "O importantă rafinărie de petrol în Mendoza, care procesează țiței din regiunea Cuyo.", en: "A significant oil refinery in Mendoza that processes crude oil from the Cuyo region." , es: "Una importante refinería de petróleo en Mendoza que procesa crudo de la región de Cuyo.", pt: "Uma importante refinaria de petróleo em Mendoza que processa petróleo bruto da região de Cuyo.", fr: "Une importante raffinerie de pétrole à Mendoza qui traite le pétrole brut de la région de Cuyo."},
     facts: {
       de: ["Beliefert den Westen des Landes.", "Hohe Verarbeitungskapazität."],
@@ -13912,7 +13893,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-B",
     coords: [-62.290, -38.780],
     name: { de: "Petrochemischer Komplex Bahía Blanca", hu: "Bahía Blanca petrolkémiai komplexum", ro: "Complexul petrochimic Bahía Blanca", en: "Bahía Blanca Petrochemical Complex"},
-    image: "/poi-images/petrochemical-bahia-blanca-economic-v2.webp",
     description: { de: "Das wichtigste petrochemische Zentrum in Argentinien, das Kunststoffe und Chemikalien herstellt.", hu: "A legfontosabb petrolkémiai központ Argentínában, műanyagokat és vegyszereket gyárt.", ro: "Cel mai important centru petrochimic din Argentina, care produce materiale plastice și substanțe chimice.", en: "The most important petrochemical center in Argentina, producing plastics and chemicals." , es: "El centro petroquímico más importante de Argentina, productor de plásticos y químicos.", pt: "O centro petroquímico mais importante da Argentina, produtor de plásticos e produtos químicos.", fr: "Le plus important centre pétrochimique d'Argentine, produisant des plastiques et des produits chimiques."},
     facts: {
       de: ["Produziert Polyethylen.", "Arbeitet eng mit dem Hafen zusammen."],
@@ -14028,7 +14008,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-B",
     coords: [-59.200, -33.967],
     name: { de: "Kernkraftwerk Atucha", hu: "Atucha atomerőmű", ro: "Centrala nucleară Atucha", en: "Atucha Nuclear Power Plant"},
-    image: "/poi-images/atucha-nuclear-economic-v2.webp",
     description: { de: "Das erste kommerzielle Kernkraftwerk in Lateinamerika, das Strom für das nationale Netz liefert.", hu: "Az első kereskedelmi atomerőmű Latin-Amerikában, amely áramot szolgáltat a nemzeti hálózatnak.", ro: "Prima centrală nucleară comercială din America Latină, care furnizează energie rețelei naționale.", en: "The first commercial nuclear power plant in Latin America, supplying power to the national grid." , es: "La primera central nuclear comercial de América Latina, que suministra electricidad a la red nacional.", pt: "A primeira central nuclear comercial da América Latina, que fornece eletricidade à rede nacional.", fr: "La première centrale nucléaire commerciale d'Amérique latine, fournissant de l'électricité au réseau national."},
     facts: {
       de: ["Verfügt über zwei Reaktoren.", "Nutzt Natururan als Brennstoff."],
@@ -15332,7 +15311,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-X",
     coords: [-64.444, -32.231],
     name: { de: "Kernkraftwerk Embalse", hu: "Embalse atomerőmű", ro: "Centrala nucleară Embalse", en: "Embalse Nuclear Power Plant"},
-    image: "/poi-images/embalse-nuclear-economic-v2.webp",
     description: { de: "Ein bedeutendes Kernkraftwerk in Córdoba, das Strom und medizinische Isotope erzeugt.", hu: "Jelentős atomerőmű Córdobában, amely áramot és orvosi izotópokat állít elő.", ro: "O importantă centrală nucleară în Córdoba, care produce energie și izotopi medicali.", en: "A significant nuclear power plant in Córdoba that produces electricity and medical isotopes." , es: "Una importante central nuclear en Córdoba que genera electricidad e isótopos médicos.", pt: "Uma importante central nuclear em Córdoba que gera eletricidade e isótopos médicos.", fr: "Une importante centrale nucléaire à Córdoba qui produit de l'électricité et des isotopes médicaux."},
     facts: {
       de: ["Produziert Kobalt-60.", "Wurde vor Kurzem modernisiert."],
@@ -15448,7 +15426,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-W",
     coords: [-56.732, -27.481],
     name: { de: "Wasserkraftwerk Yacyretá", hu: "Yacyretá vízerőmű", ro: "Hidrocentrala Yacyretá", en: "Yacyretá Dam"},
-    image: "/poi-images/yacyreta-dam-economic-v2.webp",
     description: { de: "Ein riesiges Wasserkraftwerk am Fluss Paraná, das von Argentinien und Paraguay gemeinsam betrieben wird.", hu: "Hatalmas vízerőmű a Paraná folyón, amelyet Argentína és Paraguay közösen üzemeltet.", ro: "O uriașă hidrocentrală pe râul Paraná, operată în comun de Argentina și Paraguay.", en: "A huge hydroelectric dam on the Paraná River, jointly operated by Argentina and Paraguay." , es: "Una enorme central hidroeléctrica en el río Paraná, operada conjuntamente por Argentina y Paraguay.", pt: "Uma enorme usina hidrelétrica no rio Paraná, operada conjuntamente pela Argentina e Paraguai.", fr: "Une immense centrale hydroélectrique sur le fleuve Paraná, exploitée conjointement par l'Argentine et le Paraguay."},
     facts: {
       de: ["Eines der größten Kraftwerke Südamerikas.", "Deckte einen großen Teil des Strombedarfs."],
@@ -15924,7 +15901,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-E",
     coords: [-57.940, -31.274],
     name: { de: "Wasserkraftwerk Salto Grande", hu: "Salto Grande vízerőmű", ro: "Hidrocentrala Salto Grande", en: "Salto Grande Dam"},
-    image: "/poi-images/salto-grande-dam-economic-v2.webp",
     description: { de: "Ein binationales Wasserkraftwerk am Uruguay-Fluss, das mit Uruguay geteilt wird.", hu: "Kétnemzetiségű vízerőmű az Uruguay folyón, amelyen Uruguayjal osztoznak.", ro: "O hidrocentrală binațională pe râul Uruguay, împărțită cu Uruguay.", en: "A binational hydroelectric dam on the Uruguay River, shared with Uruguay." , es: "Una central hidroeléctrica binacional compartida con Uruguay en el río Uruguay.", pt: "Uma usina hidrelétrica binacional no rio Uruguai, compartilhada com o Uruguai.", fr: "Une centrale hydroélectrique binationale sur le fleuve Uruguay, partagée avec l'Uruguay."},
     facts: {
       de: ["Wurde 1979 in Betrieb genommen.", "Liefert saubere Energie für beide Länder."],
@@ -17084,7 +17060,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-U",
     coords: [-67.466, -45.864],
     name: { de: "Hafen von Comodoro Rivadavia", hu: "Comodoro Rivadavia kikötője", ro: "Portul Comodoro Rivadavia", en: "Port of Comodoro Rivadavia"},
-    image: "/poi-images/comodoro-rivadavia-port-economic-v2.webp",
     description: { de: "Ein patagonischer Hafen, der eng mit der regionalen Erdölindustrie verbunden ist.", hu: "Patagóniai kikötő, amely szorosan kapcsolódik a regionális kőolajiparhoz.", ro: "Un port patagonian strâns legat de industria petrolieră regională.", en: "A Patagonian port closely linked to the regional petroleum industry." , es: "Un puerto patagónico estrechamente vinculado a la industria petrolera regional.", pt: "Um porto patagônico intimamente ligado à indústria petrolífera regional.", fr: "Un port patagonien étroitement lié à l'industrie pétrolière régionale."},
     facts: {
       de: ["Schlüsselhafen für Erdölausfuhren.", "Bedient die Ölfelder des Golfo San Jorge."],
@@ -17236,7 +17211,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     parent: "AR-Y",
     coords: [-64.786, -23.826],
     name: { de: "Zuckerfabrik Ledesma", hu: "Ledesma cukorgyár", ro: "Fabrica de zahăr Ledesma", en: "Ledesma Sugar Mill"},
-    image: "/poi-images/ledesma-sugar-mill-economic-v2.webp",
     description: { de: "Einer der größten agroindustriellen Komplexe des Landes, bekannt für Zucker- und Papierproduktion.", hu: "Az ország egyik legnagyobb agrár-ipari komplexuma, amely cukor- és papírgyártásáról ismert.", ro: "Unul dintre cele mai mari complexe agroindustriale din țară, cunoscut pentru producția de zahăr și hârtie.", en: "One of the country's largest agro-industrial complexes, known for sugar and paper production." , es: "Uno de los complejos agroindustriales más grandes del país, conocido por la producción de azúcar y papel.", pt: "Um dos maiores complexos agroindustriais do país, conhecido pela produção de açúcar e papel.", fr: "L'un des plus grands complexes agro-industriels du pays, connu pour sa production de sucre et de papier."},
     facts: {
       de: ["Produziert Papier aus Zuckerrohrbagasse.", "Befindet sich in der Provinz Jujuy."],

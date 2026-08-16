@@ -233,7 +233,6 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     parent: "DZ-11",
     coords: [5.5, 23.2],
     name: { de: "Hoggar-Gebirge", hu: "Hoggar-hegyseg", ro: "Muntii Hoggar", en: "Hoggar Mountains"},
-    image: "/poi-images/hoggar-massif-relief-v2.webp",
     description: {
       de: "Vulkanisches Bergmassiv in der Sahara.",
       hu: "Vulkanikus hegység a Szaharában.",
@@ -502,7 +501,6 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     parent: "DZ-11",
     coords: [5.5, 23.3],
     name: { de: "Djebel Tahat", hu: "Djebel Tahat", ro: "Djebel Tahat", en: "Djebel Tahat"},
-    image: "/poi-images/djebel-tahat-relief-v2.webp",
     description: {
       de: "Der Djebel Tahat ist der höchste Berg Algeriens und befindet sich im beeindruckenden Hoggar-Massiv in der Zentralsahara.",
       hu: "Algéria legmagasabb hegye, a Hoggar-hegysegben.",
@@ -545,7 +543,6 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     parent: "DZ-39",
     coords: [6.0, 34.3],
     name: { de: "Chott Melrhir", hu: "Chott Melrhir", ro: "Chott Melrhir", en: "Chott Melrhir"},
-    image: "/poi-images/chott-melrhir-relief-v2.webp",
     description: {
       de: "Der groesste Salzsee in Algerien, der unter dem Meeresspiegel liegt.",
       hu: "Algéria legnagyobb sós tava, amely a tengerszint alatt fekszik.",

@@ -161,7 +161,6 @@ export const poiExtraKenyaReliefV2: POI[] = [
     parent: "KE-30",
     coords: [36.0, 0.0],
     name: { de: "Großer Afrikanischer Grabenbruch", hu: "Kelet-afrikai árokrendszer", ro: "Marele Rift Est-African", en: "Great Rift Valley"},
-    image: "/poi-images/rift-valley-kenya-relief-v2.webp",
     description: { de: "Ein geologisches Phänomen von globaler Bedeutung.", hu: "Globális jelentőségű geológiai jelenség.", ro: "Un fenomen geologic de importanță globală.", en: "A geological phenomenon of global importance." , es: "Un fenómeno geológico de importancia mundial.", pt: "Um fenómeno geológico de importância global.", fr: "Un phénomène géologique d'importance mondiale."},
     facts: {
       de: ["Tektonische Trennung", "Vulkanische Aktivität"],
@@ -198,7 +197,6 @@ export const poiExtraKenyaReliefV2: POI[] = [
     parent: "KE-20",
     coords: [37.3083, -0.1522],
     name: { de: "Mount-Kenya-Massiv", hu: "Kenya-hegy tömbje", ro: "Masivul Muntele Kenya", en: "Mount Kenya Massif"},
-    image: "/poi-images/mount-kenya-massif-relief-v2.webp",
     description: { de: "Das höchste Gebirgsmassiv in Kenia.", hu: "Kenya legmagasabb hegytömbje.", ro: "Cel mai înalt masiv muntos din Kenya.", en: "The highest mountain massif in Kenya." , es: "El macizo montañoso más alto de Kenia.", pt: "O maciço montanhoso mais alto do Quénia.", fr: "Le plus haut massif montagneux du Kenya."},
     facts: {
       de: ["Ehemaliger Stratovulkan", "Gletscherreste"],
@@ -235,7 +233,6 @@ export const poiExtraKenyaReliefV2: POI[] = [
     parent: "KE-26",
     coords: [35.45, 1.25],
     name: { de: "Cherangani-Hügel", hu: "Cherangani-dombság", ro: "Dealurile Cherangani", en: "Cherangani Hills"},
-    image: "/poi-images/cherangani-hills-relief-v2.webp",
     description: { de: "Eine komplexe Bergkette im Westen.", hu: "Komplex hegylánc nyugaton.", ro: "Un lanț muntos complex în vest.", en: "A complex mountain range in the west." , es: "Una compleja cadena montañosa en el oeste.", pt: "Uma complexa cadeia de montanhas no oeste.", fr: "Une chaîne de montagnes complexe dans l'ouest."},
     facts: {
       de: ["Wichtiges Wassereinzugsgebiet", "Steile Hänge"],
@@ -272,7 +269,6 @@ export const poiExtraKenyaReliefV2: POI[] = [
     parent: "KE-20",
     coords: [37.8, 0.2],
     name: { de: "Nyambene-Hügel", hu: "Nyambene-dombság", ro: "Dealurile Nyambene", en: "Nyambene Hills"},
-    image: "/poi-images/nyambene-hills-relief-v2.webp",
     description: { de: "Vulkanische Hügelkette im Osten von Mount Kenya.", hu: "Vulkanikus dombság a Kenya-hegytől keletre.", ro: "Lanț de dealuri vulcanice la est de Muntele Kenya.", en: "Volcanic hill range east of Mount Kenya." , es: "Cordillera de colinas volcánicas al este del monte Kenia.", pt: "Cordilheira de colinas vulcânicas a leste do Monte Quénia.", fr: "Chaîne de collines volcaniques à l'est du Mont Kenya."},
     facts: {
       de: ["Vulkanische Schlackenkegel", "Fruchtbarer Boden"],
@@ -309,7 +305,6 @@ export const poiExtraKenyaReliefV2: POI[] = [
     parent: "KE-25",
     coords: [37.0, 1.8],
     name: { de: "Ndoto-Gebirge", hu: "Ndoto-hegység", ro: "Munții Ndoto", en: "Ndoto Mountains"},
-    image: "/poi-images/ndoto-mountains-relief-v2.webp",
     description: { de: "Raue Bergregion im nördlichen Kenia.", hu: "Zord hegyvidék Észak-Kenyában.", ro: "Regiune muntoasă aspră în nordul Keniei.", en: "Rugged mountain region in northern Kenya." , es: "Región montañosa agreste en el norte de Kenia.", pt: "Região montanhosa agreste no norte do Quénia.", fr: "Région montagneuse rude dans le nord du Kenya."},
     facts: {
       de: ["Steile Felsformationen", "Wüstenrandlage"],
@@ -346,7 +341,6 @@ export const poiExtraKenyaReliefV2: POI[] = [
     parent: "KE-25",
     coords: [37.3, 1.0],
     name: { de: "Mathews-Gebirge", hu: "Mathews-hegység", ro: "Munții Mathews", en: "Mathews Range"},
-    image: "/poi-images/mathews-range-relief-v2.webp",
     description: { de: "Isolierte Bergkette in der trockenen Region.", hu: "Elszigetelt hegylánc a száraz régióban.", ro: "Lanț muntos izolat în regiunea aridă.", en: "Isolated mountain range in the dry region." , es: "Cordillera aislada en la región seca.", pt: "Cordilheira isolada na região seca.", fr: "Chaîne de montagnes isolée dans la région sèche."},
     facts: {
       de: ["Himmel-Inseln", "Dichte Wälder"],
@@ -383,7 +377,6 @@ export const poiExtraKenyaReliefV2: POI[] = [
     parent: "KE-26",
     coords: [36.06, -0.2],
     name: { de: "Menengai-Krater", hu: "Menengai-kráter", ro: "Craterul Menengai", en: "Menengai Crater"},
-    image: "/poi-images/menengai-crater-relief-v2.webp",
     description: { de: "Eine der größten Calderas weltweit.", hu: "Az egyik legnagyobb kaldera a világon.", ro: "Una dintre cele mai mari caldere din lume.", en: "One of the largest calderas worldwide." , es: "Una de las calderas más grandes del mundo.", pt: "Uma das maiores caldeiras do mundo.", fr: "L'une des plus grandes caldeiras au monde."},
     facts: {
       de: ["Schildvulkan-Rest", "Geothermische Quelle"],
@@ -420,7 +413,6 @@ export const poiExtraKenyaReliefV2: POI[] = [
     parent: "KE-31",
     coords: [38.5, -3.0],
     name: { de: "Tsavo-Ebene", hu: "Tsavo-síkság", ro: "Câmpia Tsavo", en: "Tsavo Plains"},
-    image: "/poi-images/tsavo-plains-relief-v2.webp",
     description: { de: "Weite Savannenebene im Südosten.", hu: "Széles szavannasíkság délkeleten.", ro: "Câmpie de savană vastă în sud-est.", en: "Vast savanna plain in the southeast." , es: "Vasta llanura de sabana en el sureste.", pt: "Vasta planície de savana no sudeste.", fr: "Vaste plaine de savane dans le sud-est."},
     facts: {
       de: ["Flaches Terrain", "Vulkanische Hügelinseln"],
@@ -502,7 +494,6 @@ export const poiExtraKenyaReliefV2: POI[] = [
     parent: "KE-26",
     coords: [40.2, -2.4],
     name: { de: "Tana-Delta", hu: "Tana-delta", ro: "Delta râului Tana", en: "Tana River Delta"},
-    image: "/poi-images/tana-delta-relief-v2.webp",
     description: { de: "Tiefgelegene Flussmündungslandschaft.", hu: "Alacsonyan fekvő folyótorkolati táj.", ro: "Peisaj de estuar de joasă altitudine.", en: "Low-lying river estuary landscape." , es: "Paisaje de estuario fluvial de baja altitud.", pt: "Paisagem de foz de rio em baixa altitude.", fr: "Paysage d'embouchure de rivière de faible altitude."},
     facts: {
       de: ["Schwemmland", "Überschwemmungsgebiet"],
@@ -656,7 +647,6 @@ export const poiExtraKenyaReliefV2: POI[] = [
     parent: "KE-20",
     coords: [37.2, 0.4],
     name: { de: "Loldaika-Hügel", hu: "Loldaika-dombság", ro: "Dealurile Loldaika", en: "Loldaika Hills"},
-    image: "/poi-images/loldaika-hills-relief-v2.webp",
     description: { de: "Felsiges Hügelland nördlich von Laikipia.", hu: "Sziklás dombvidék Laikipiától északra.", ro: "Teren deluros stâncos la nord de Laikipia.", en: "Rocky hilly country north of Laikipia." , es: "Tierras de colinas rocosas al norte de Laikipia.", pt: "Zonas de colinas rochosas a norte de Laikipia.", fr: "Zone de collines rocheuses au nord de Laikipia."},
     facts: {
       de: ["Granitformationen", "Trockene Vegetation"],
@@ -693,7 +683,6 @@ export const poiExtraKenyaReliefV2: POI[] = [
     parent: "KE-25",
     coords: [37.5, 3.0],
     name: { de: "Chalbi-Wüste", hu: "Chalbi-sivatag", ro: "Deșertul Chalbi", en: "Chalbi Desert"},
-    image: "/poi-images/chalbi-desert-relief-v2.webp",
     description: { de: "Trockene Wüstenebene im Norden Kenias.", hu: "Száraz sivatagi síkság Észak-Kenyában.", ro: "Câmpie deșertică aridă în nordul Keniei.", en: "Arid desert plain in northern Kenya." , es: "Llanura desértica seca en el norte de Kenia.", pt: "Planície desértica seca no norte do Quénia.", fr: "Plaine désertique aride au nord du Kenya."},
     facts: {
       de: ["Salzpfanne", "Extrem trocken"],
@@ -730,7 +719,6 @@ export const poiExtraKenyaReliefV2: POI[] = [
     parent: "KE-26",
     coords: [36.3, -1.0],
     name: { de: "Suswa-Vulkan", hu: "Suswa-vulkán", ro: "Vulcanul Suswa", en: "Mount Suswa"},
-    image: "/poi-images/susswa-volcano-relief-v2.webp",
     description: { de: "Vulkanschild mit doppelter Caldera.", hu: "Vulkánpajzs kettős kalderával.", ro: "Scut vulcanic cu calderă dublă.", en: "Volcanic shield with double caldera." , es: "Volcán en escudo con una caldera doble.", pt: "Vulcão em escudo com uma caldeira dupla.", fr: "Volcan bouclier avec une double caldeira."},
     facts: {
       de: ["Innere Caldera", "Lavahöhlen"],
@@ -767,7 +755,6 @@ export const poiExtraKenyaReliefV2: POI[] = [
     parent: "KE-30",
     coords: [35.5, 1.0],
     name: { de: "Kerio-Tal", hu: "Kerio-völgy", ro: "Valea Kerio", en: "Kerio Valley"},
-    image: "/poi-images/kerio-valley-relief-v2.webp",
     description: { de: "Tief eingeschnittenes Rift-Tal.", hu: "Mélyen bevágódott Rift-völgy.", ro: "Vale Rift adânc tăiată.", en: "Deeply incised Rift valley." , es: "Valle del Rift profundamente inciso.", pt: "Vale do Rift profundamente cortado.", fr: "Vallée du Rift profondément incisée."},
     facts: {
       de: ["Steile Rift-Kanten", "Erosionslandschaft"],
@@ -804,7 +791,6 @@ export const poiExtraKenyaReliefV2: POI[] = [
     parent: "KE-31",
     coords: [38.0, -1.5],
     name: { de: "Yatta-Plateau", hu: "Yatta-fennsík", ro: "Platoul Yatta", en: "Yatta Plateau"},
-    image: "/poi-images/yatta-plateau-relief-v2.webp",
     description: { de: "Langes, schmales Lava-Plateau.", hu: "Hosszú, keskeny láva-fennsík.", ro: "Platou de lavă lung și îngust.", en: "Long, narrow lava plateau." , es: "Meseta de lava larga y estrecha.", pt: "Planalto de lava longo e estreito.", fr: "Long et étroit plateau de lave."},
     facts: {
       de: ["Lavafluss-Relikt", "Sehr langgestreckt"],
@@ -922,7 +908,6 @@ export const poiExtraKenyaReliefV2: POI[] = [
     parent: "KE-26",
     coords: [34.7, 1.0],
     name: { de: "Uganda-Böschung", hu: "Ugandai-lépcső", ro: "Escarpa Uganda", en: "Uganda Escarpment"},
-    image: "/poi-images/uganda-escarpment-relief-v2.webp",
     description: { de: "Stufenartige Geländeform am Rift-Rand.", hu: "Lépcsőzetes terepforma a Rift szélén.", ro: "Formă de relief în trepte la marginea Riftului.", en: "Stepped landform at the Rift edge." , es: "Forma de terreno escalonada en el borde del Rift.", pt: "Forma de terreno em degraus na margem do Rift.", fr: "Forme de terrain en gradins au bord du Rift."},
     facts: {
       de: ["Geologische Verwerfung", "Höhenunterschiede"],
@@ -959,7 +944,6 @@ export const poiExtraKenyaReliefV2: POI[] = [
     parent: "KE-20",
     coords: [36.6, -0.6],
     name: { de: "Kinangop-Plateau", hu: "Kinangop-fennsík", ro: "Platoul Kinangop", en: "Kinangop Plateau"},
-    image: "/poi-images/kinangop-plateau-relief-v2.webp",
     description: { de: "Hochlandebene zwischen Aberdare und Rift.", hu: "Felföldi síkság az Aberdare és a Rift között.", ro: "Podiș înalt între Aberdare și Rift.", en: "Highland plain between Aberdare and Rift." , es: "Llanura de tierras altas entre Aberdare y el Rift.", pt: "Planalto de terras altas entre Aberdare e o Rift.", fr: "Plaine de hautes terres entre Aberdare et le Rift."},
     facts: {
       de: ["Kühles Klima", "Landwirtschaftlich genutzt"],
@@ -996,7 +980,6 @@ export const poiExtraKenyaReliefV2: POI[] = [
     parent: "KE-43",
     coords: [34.3, -0.1],
     name: { de: "Ndere-Insel", hu: "Ndere-sziget", ro: "Insula Ndere", en: "Ndere Island"},
-    image: "/poi-images/ndere-island-relief-v2.webp",
     description: { de: "Hügelige Insel im Viktoriasee.", hu: "Dombos sziget a Viktória-tóban.", ro: "Insulă deluroasă în Lacul Victoria.", en: "Hilly island in Lake Victoria." , es: "Isla montañosa en el lago Victoria.", pt: "Ilha acidentada no Lago Vitória.", fr: "Île vallonnée dans le lac Victoria."},
     facts: {
       de: ["Vulkanischer Ursprung", "Tiere"],

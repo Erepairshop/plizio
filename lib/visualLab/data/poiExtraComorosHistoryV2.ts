@@ -60,7 +60,6 @@ export const poiExtraComorosHistoryV2: POI[] = [
       hu: "Mutsamudu citadellája",
       ro: "Citadela din Mutsamudu",
       en: "Citadel of Mutsamudu"},
-    image: "/poi-images/mutsamudu-zitadelle-history-v2.webp",
     description: {
       de: "Die Zitadelle von Mutsamudu wurde im 18. Jahrhundert zum Schutz vor Piratenangriffen auf der Insel Anjouan errichtet.",
       hu: "A mutsamudui citadellát a 18. században építették Anjouan szigetén a kalóztámadások elleni védekezésül.",
@@ -108,7 +107,6 @@ export const poiExtraComorosHistoryV2: POI[] = [
       hu: "Domoni szultáni palota",
       ro: "Palatul Sultanului din Domoni",
       en: "Sultan's Palace of Domoni"},
-    image: "/poi-images/domoni-palast-history-v2.webp",
     description: {
       de: "Dieser ehemalige Palast in Domoni zeugt von der Macht der Sultane, die einst über die Insel Anjouan herrschten.",
       hu: "Ez az egykori domoni palota az Anjouan szigetén egykor uralkodó szultánok hatalmáról tanúskodik.",
@@ -156,7 +154,6 @@ export const poiExtraComorosHistoryV2: POI[] = [
       hu: "Iconi történelmi központja",
       ro: "Centrul istoric din Iconi",
       en: "Historic Center of Iconi"},
-    image: "/poi-images/iconi-medina-history-v2.webp",
     description: {
       de: "Das historische Zentrum von Iconi ist eine der ältesten Siedlungen auf Grande Comore mit engen Gassen und alten Mauern.",
       hu: "Iconi történelmi központja Grande Comore egyik legrégebbi települése, szűk utcákkal és régi falakkal.",
@@ -204,7 +201,6 @@ export const poiExtraComorosHistoryV2: POI[] = [
       hu: "Domoni pénteki mecset",
       ro: "Moscheea de Vineri din Domoni",
       en: "Friday Mosque of Domoni"},
-    image: "/poi-images/domoni-moschee-history-v2.webp",
     description: {
       de: "Die Freitagsmoschee von Domoni ist ein architektonisches Juwel und ein wichtiges Zentrum des religiösen Lebens auf Anjouan.",
       hu: "A domoni pénteki mecset egy építészeti gyöngyszem és az Anjouan-i vallási élet fontos központja.",
@@ -252,7 +248,6 @@ export const poiExtraComorosHistoryV2: POI[] = [
       hu: "Itsandra királyi mecsetje",
       ro: "Moscheea Regală din Itsandra",
       en: "Royal Mosque of Itsandra"},
-    image: "/poi-images/itsandra-moschee-history-v2.webp",
     description: {
       de: "Itsandra war einst die Hauptstadt eines mächtigen Sultanats, und seine Moschee war das religiöse Herz des Reiches.",
       hu: "Itsandra egykor egy hatalmas szultanátus fővárosa volt, mecsetje pedig a birodalom vallási szíve.",
@@ -300,7 +295,6 @@ export const poiExtraComorosHistoryV2: POI[] = [
       hu: "Pomoni történelmi romjai",
       ro: "Ruinele istorice din Pomoni",
       en: "Historic Ruins of Pomoni"},
-    image: "/poi-images/pomoni-ruinen-history-v2.webp",
     description: {
       de: "In Pomoni befinden sich die Überreste einer bedeutenden Zuckerfabrik aus der Kolonialzeit des 19. Jahrhunderts.",
       hu: "Pomoniban egy jelentős, 19. századi gyarmati kori cukorgyár maradványai találhatók.",
@@ -396,7 +390,6 @@ export const poiExtraComorosHistoryV2: POI[] = [
       hu: "Mutsamudu medinája",
       ro: "Medina din Mutsamudu",
       en: "Medina of Mutsamudu"},
-    image: "/poi-images/mutsamudu-medina-history-v2.webp",
     description: {
       de: "Die Medina von Mutsamudu ist das historische Herz der Stadt mit einem Labyrinth aus engen Gassen und jahrhundertealten Häusern.",
       hu: "Mutsamudu medinája a város történelmi szíve, szűk utcák és évszázados házak labirintusával.",
@@ -489,7 +482,6 @@ export const poiExtraComorosHistoryV2: POI[] = [
       hu: "Mitsamiouli szultáni sírok",
       ro: "Mormintele Sultanilor din Mitsamiouli",
       en: "Sultan's Tombs of Mitsamiouli"},
-    image: "/poi-images/mitsamiouli-graeber-history-v2.webp",
     description: {
       de: "In Mitsamiouli befinden sich die historischen Grabstätten lokaler Sultane, die die Region über Generationen regierten.",
       hu: "Mitsamiouliban találhatók a helyi szultánok történelmi sírhelyei, akik generációkon át uralkodtak a régióban.",
@@ -585,7 +577,6 @@ export const poiExtraComorosHistoryV2: POI[] = [
       hu: "Salima hercegnő palotája",
       ro: "Palatul Prințesei Salima",
       en: "Palace of Princess Salima"},
-    image: "/poi-images/salima-palast-history-v2.webp",
     description: {
       de: "Die Ruinen des Palastes der Prinzessin Salima auf Mohéli erinnern an die letzte Herrscherin der Insel vor der Kolonialzeit.",
       hu: "Salima hercegnő Mohéli-szigeti palotájának romjai az utolsó uralkodónőre emlékeztetnek a gyarmati kor előtt.",
@@ -714,7 +705,6 @@ export const poiExtraComorosHistoryV2: POI[] = [
       hu: "Ntsaoueni történelmi mecsetje",
       ro: "Moscheea istorică din Ntsaoueni",
       en: "Historic Mosque of Ntsaoueni"},
-    image: "/poi-images/ntsaoueni-moschee-history-v2.webp",
     description: {
       de: "In Ntsaoueni befindet sich eine der ehrwürdigsten Moscheen des Landes, die mit der Ausbreitung des Islams auf der Insel verbunden ist.",
       hu: "Az Ntsaoueni mecset a Grande Comore északi részén álló helyi vallási épület. A mecset a környék közösségi és mindennapi életének fontos pontja.",
@@ -807,7 +797,6 @@ export const poiExtraComorosHistoryV2: POI[] = [
       hu: "Sima ásatásai",
       ro: "Săpăturile arheologice din Sima",
       en: "Excavations of Sima"},
-    image: "/poi-images/sima-ausgrabungen-history-v2.webp",
     description: {
       de: "Die archäologische Stätte von Sima beherbergt Funde, die bis ins 9. Jahrhundert zurückreichen und die frühe Besiedlung der Insel belegen.",
       hu: "Sima régészeti lelőhelye a 9. századig visszanyúló leleteket őriz, amelyek a sziget korai benépesülését bizonyítják.",
@@ -855,7 +844,6 @@ export const poiExtraComorosHistoryV2: POI[] = [
       hu: "Mutsamudu királyi nekropolisza",
       ro: "Necropola Regală din Mutsamudu",
       en: "Royal Necropolis of Mutsamudu"},
-    image: "/poi-images/mutsamudu-nekropole-history-v2.webp",
     description: {
       de: "Die königliche Nekropole in Mutsamudu beherbergt die Gräber vieler Herrscher des Sultanats Anjouan.",
       hu: "A mutsamudui királyi nekropolisz az Anjouan-i Szultanátus számos uralkodójának sírját őrzi.",
@@ -1068,7 +1056,6 @@ export const poiExtraComorosHistoryV2: POI[] = [
       hu: "Bangoua Kouni romjai",
       ro: "Ruinele din Bangoua Kouni",
       en: "Ruins of Bangoua Kouni"},
-    image: "/poi-images/bangoua-kouni-history-v2.webp",
     description: {
       de: "Bangoua Kouni beherbergt Überreste alter Befestigungen und Gebäude aus der Zeit der frühen Sultanate.",
       hu: "Bangoua Kouni a korai szultanátusok idejéből származó régi erődítmények és épületek maradványait őrzi.",
@@ -1116,7 +1103,6 @@ export const poiExtraComorosHistoryV2: POI[] = [
       hu: "Saïd Mohamed Cheikh síremléke",
       ro: "Mormântul lui Saïd Mohamed Cheikh",
       en: "Tomb of Saïd Mohamed Cheikh"},
-    image: "/poi-images/cheikh-grabmal-history-v2.webp",
     description: {
       de: "Dieses Grabmal ehrt Saïd Mohamed Cheikh, einen der bedeutendsten politischen Führer der Komoren vor der Unabhängigkeit.",
       hu: "Ez a síremlék Saïd Mohamed Cheikh, a függetlenség előtti Comore-szigetek egyik legjelentősebb politikai vezetője előtt tiszteleg.",
@@ -1245,7 +1231,6 @@ export const poiExtraComorosHistoryV2: POI[] = [
       hu: "Iconi történelmi sziklái",
       ro: "Stâncile istorice din Iconi",
       en: "Historic Cliffs of Iconi"},
-    image: "/poi-images/iconi-klippen-history-v2.webp",
     description: {
       de: "Die Klippen von Iconi sind ein Ort von tragischer historischer Bedeutung, wo Frauen den Tod wählten, um der Versklavung durch Piraten zu entgehen.",
       hu: "Iconi sziklái tragikus történelmi jelentőségűek, ahol nők a halált választották, hogy elkerüljék a kalózok rabszolgaságát.",

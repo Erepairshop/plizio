@@ -129,7 +129,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "Algír kikötője",
       ro: "Portul Alger",
       en: "Port of Algiers"},
-    image: "/poi-images/port-of-algiers-economic-v2.webp",
     description: {
       de: "Der größte Seehafen Algeriens, ein wichtiges Zentrum für den internationalen Handel und Güterverkehr.",
       hu: "Algéria legnagyobb tengeri kikötője, a nemzetközi kereskedelem és teherszállítás fontos központja.",
@@ -422,7 +421,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "Hassi R'Mel gázmező",
       ro: "Câmpul de gaze Hassi R'Mel",
       en: "Hassi R'Mel Gas Field"},
-    image: "/poi-images/hassi-r-mel-gas-field-economic-v2.webp",
     description: {
       de: "Hassi R'Mel ist eines der weltweit größten Erdgasfelder und ein zentraler Knotenpunkt für Gasexporte nach Europa.",
       hu: "A világ egyik legnagyobb földgázmezője és Európa egyik legfontosabb energiaforrása.",
@@ -550,7 +548,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "Arzew kikötője",
       ro: "Portul Arzew",
       en: "Arzew Port"},
-    image: "/poi-images/arzew-petrochemical-port-economic-v2.webp",
     description: {
       de: "Der Hafen von Arzew ist ein führendes Zentrum für die petrochemische Industrie und den Export von Flüssigerdgas (LNG).",
       hu: "Algéria egyik legfontosabb ipari és kőolaj-vegyipari központja a Földközi-tenger partján.",
@@ -1398,7 +1395,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "Skikda kikötője",
       ro: "Portul Skikda",
       en: "Skikda Port"},
-    image: "/poi-images/skikda-port-economic-v2.webp",
     description: {
       de: "Einer der wichtigsten algerischen Häfen für den Export von Kohlenwasserstoffen, mit einer großen Raffinerie.",
       hu: "Az egyik legfontosabb algériai kikötő a szénhidrogének exportjára, nagy finomítóval.",
@@ -1490,7 +1486,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "El Hadjar acélmű",
       ro: "Complexul Siderurgic El Hadjar",
       en: "El Hadjar Steel Complex"},
-    image: "/poi-images/el-hadjar-steel-economic-v2.webp",
     description: {
       de: "Der größte Eisen- und Stahlkomplex in Algerien, der eine Schlüsselrolle in der Schwerindustrie spielt.",
       hu: "Algéria legnagyobb vas- és acélkomplexuma, amely kulcsszerepet játszik a nehéziparban.",
@@ -1582,7 +1577,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "Orán kikötője",
       ro: "Portul Oran",
       en: "Port of Oran"},
-    image: "/poi-images/port-of-oran-economic-v2.webp",
     description: {
       de: "Ein bedeutender Handels- und Passagierhafen im Westen Algeriens mit Verbindungen nach Europa.",
       hu: "Jelentős kereskedelmi és személyszállító kikötő Algéria nyugati részén, európai kapcsolatokkal.",
@@ -2394,7 +2388,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "Béjaïa kikötője",
       ro: "Portul Bejaia",
       en: "Port of Bejaia"},
-    image: "/poi-images/port-of-bejaia-economic-v2.webp",
     description: {
       de: "Ein wichtiger Tiefwasserhafen, der viel Stückgut und Öl abwickelt und als Tor zur Kabylei dient.",
       hu: "Az ország egyik meghatározó kereskedelmi kikötője, amely létfontosságú az export-import forgalom számára.",
@@ -2738,7 +2731,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "Annaba kikötője",
       ro: "Portul Annaba",
       en: "Port of Annaba"},
-    image: "/poi-images/port-of-annaba-economic-v2.webp",
     description: {
       de: "Einer der wichtigsten Häfen im Osten Algeriens, insbesondere für den Export von Eisenerz und Stahl.",
       hu: "Kelet-Algéria egyik legfontosabb kikötője, különösen a vasérc és az acél exportja szempontjából.",
@@ -3226,7 +3218,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "Mostaganem kikötője",
       ro: "Portul Mostaganem",
       en: "Port of Mostaganem"},
-    image: "/poi-images/port-of-mostaganem-economic-v2.webp",
     description: {
       de: "Der Hafen von Mostaganem spielt eine wichtige Rolle im algerischen Außenhandel, insbesondere für den Umschlag von Stückgut und Nahrungsmitteln.",
       hu: "Egy jelentős regionális kikötő, amely támogatja a környék mezőgazdasági és ipari termékeinek szállítását.",
@@ -3591,7 +3582,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "Ghazaouet kikötője",
       ro: "Portul Ghazaouet",
       en: "Ghazaouet Port"},
-    image: "/poi-images/ghazaouet-port-economic-v2.webp",
     description: {
       de: "Ghazaouet ist ein strategisch gelegener Hafen im Westen Algeriens, der besonders für den Export von Bergbauprodukten wichtig ist.",
       hu: "Fontos kikötőváros az ország északnyugati részén, jelentős szereppel a tengeri kereskedelemben.",
@@ -3638,7 +3628,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "Ouenza vasércbánya",
       ro: "Mina de fier Ouenza",
       en: "Ouenza Iron Mine"},
-    image: "/poi-images/ouenza-iron-mine-economic-v2.webp",
     description: {
       de: "Die Ouenza-Mine ist das bedeutendste Eisenerzvorkommen Algeriens und versorgt die nationale Stahlindustrie mit Rohstoffen.",
       hu: "Algéria egyik legrégebbi és legnagyobb vasércbányája, amely az El Hadjar acélkomplexumot látja el.",
@@ -3685,7 +3674,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "Boukhadra vasbánya",
       ro: "Mina de fier Boukhadra",
       en: "Boukhadra Iron Mine"},
-    image: "/poi-images/boukhadra-iron-mine-economic-v2.webp",
     description: {
       de: "Ein wichtiges Bergbaugebiet im Osten Algeriens, das zusammen mit Ouenza die nationale Stahlproduktion stützt.",
       hu: "Fontos bányászati terület Kelet-Algériában, amely Ouenzával együtt támogatja a nemzeti acéltermelést.",
@@ -3777,7 +3765,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "Djebel Onk foszfátbánya",
       ro: "Mina de fosfați Djebel Onk",
       en: "Djebel Onk Phosphate Mine"},
-    image: "/poi-images/djebel-onk-phosphate-mine-economic-v2.webp",
     description: {
       de: "Djebel Onk beherbergt eines der weltweit größten Phosphatvorkommen und ist zentral für die algerische Düngemittelproduktion.",
       hu: "Algéria legnagyobb foszfátlelőhelye, amely létfontosságú a műtrágyaipar és az export számára.",
@@ -4361,7 +4348,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "Bellara acélkomplexum",
       ro: "Complexul Siderurgic Bellara",
       en: "Bellara Steel Complex"},
-    image: "/poi-images/bellara-steel-complex-economic-v2.webp",
     description: {
       de: "Ein modernes Stahlwerk in der Nähe von Jijel, erbaut zur Deckung der nationalen Stahlnachfrage.",
       hu: "Egy modern acélmű Jijel közelében, amely a nemzeti acélkereslet kielégítésére épült.",
@@ -4408,7 +4394,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "Ain Smara traktorgyár",
       ro: "Fabrica de tractoare Ain Smara",
       en: "Ain Smara Tractor Plant"},
-    image: "/poi-images/ain-smara-tractor-plant-economic-v2.webp",
     description: {
       de: "Ein bedeutender Industriestandort in der Nähe von Constantine, bekannt für die Herstellung von Landmaschinen.",
       hu: "Constantine közelében található jelentős ipari létesítmény, amely mezőgazdasági gépek gyártásáról ismert.",
@@ -4455,7 +4440,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "ENIE Sidi Bel Abbes",
       ro: "ENIE Sidi Bel Abbes",
       en: "ENIE Sidi Bel Abbes"},
-    image: "/poi-images/enie-sidi-bel-abbes-economic-v2.webp",
     description: {
       de: "Das Zentrum der elektronischen Industrie in Algerien, das Fernsehgeräte und Solarmodule herstellt.",
       hu: "Az elektronikai ipar központja Algériában, ahol televíziókat és napelemeket gyártanak.",
@@ -4502,7 +4486,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "Constantine gyógyszeripari központ",
       ro: "Hubul Farmaceutic Constantine",
       en: "Constantine Pharmaceutical Hub"},
-    image: "/poi-images/constantine-pharmaceutical-hub-economic-v2.webp",
     description: {
       de: "Ein schnell wachsender Sektor in Constantine mit Produktionsstätten für Arzneimittel und Impfstoffe.",
       hu: "Constantine a gyógyszeripar fontos központja, számos üzemmel és kutatóegységgel.",
@@ -4678,7 +4661,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "Gara Djebilet vasbánya",
       ro: "Mina de fier Gara Djebilet",
       en: "Gara Djebilet Iron Mine"},
-    image: "/poi-images/gara-djebilet-iron-mine-economic-v2.webp",
     description: {
       de: "Eine der größten Eisenerzlagerstätten der Welt im Südwesten Algeriens, die vor Kurzem erschlossen wurde.",
       hu: "A világ egyik legnagyobb vasérclelőhelye Délnyugat-Algériában, amelyet nemrégiben nyitottak meg.",
@@ -4725,7 +4707,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "El Borma olajmező",
       ro: "Câmpul petrolier El Borma",
       en: "El Borma Oil Field"},
-    image: "/poi-images/el-borma-oil-field-economic-v2.webp",
     description: {
       de: "Ein wichtiges Ölfeld an der Grenze zu Tunesien, das zur Ölproduktion des Landes beiträgt.",
       hu: "Fontos olajmező a tunéziai határon, amely hozzájárul az ország olajtermeléséhez.",
@@ -4772,7 +4753,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "Rhourde Nouss gázmező",
       ro: "Câmpul de gaze Rhourde Nouss",
       en: "Rhourde Nouss Gas Field"},
-    image: "/poi-images/rhourde-nouss-gas-field-economic-v2.webp",
     description: {
       de: "Einer der größten Erdgas- und Kondensatkomplexe in Algerien, der den inländischen und internationalen Bedarf deckt.",
       hu: "Az egyik legnagyobb földgáz- és kondenzátum komplexum Algériában, amely a belföldi és nemzetközi igényeket fedezi.",
@@ -5020,7 +5000,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       hu: "Touat gázmező",
       ro: "Câmpul de gaze Touat",
       en: "Touat Gas Field"},
-    image: "/poi-images/touat-gas-field-economic-v2.webp",
     description: {
       de: "Das Touat-Gasfeld ist ein bedeutendes Erschließungsprojekt im Südwesten Algeriens zur Steigerung der nationalen Gasproduktion.",
       hu: "Jelentős földgázmező az algériai sivatagban, amely kulcsszerepet játszik a kitermelésben.",

@@ -88,8 +88,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "wildlife",
     name: { de: "Naturreservat Codru", hu: "Codru Természetvédelmi Terület", ro: "Rezervația Științifică Codru", en: "Codru Scientific Reserve"},
-    image: "/poi-images/moldova-codru-reserve-life-v2.webp",
-    coords: [28.3842, 47.1025],
     coords: [28.3842, 47.1025],
     description: {
       de: "Das 1971 gegründete Codru-Reservat ist das älteste Naturschutzgebiet Moldaus und schützt die zentralen Waldmassive des Landes. Es beherbergt eine beeindruckende Vielfalt an Flora und Fauna, darunter seltene Orchideenarten.",
@@ -137,7 +135,6 @@ export const moldovaLifeV2: POI[] = [
     name: { de: "Fürstlicher Wald", hu: "Királyi Erdő", ro: "Pădurea Domnească", en: "Royal Forest"},
     image: "/poi-images/moldova-padurea-domneasca-life-v2.webp",
     coords: [27.2081, 47.6044],
-    coords: [27.2081, 47.6044],
     description: {
       de: "Dieses Reservat entlang des Pruth-Flusses ist bekannt für seine jahrhundertealten Eichenwälder und die Wiedereinführung des Wisents. Es umfasst Feuchtgebiete und einzigartige geologische Formationen wie die Hundert Hügel.",
       hu: "A Prut folyó mentén fekvő rezervátum évszázados tölgyeseiről és az európai bölények visszatelepítéséről híres. Vizes élőhelyeket és egyedülálló geológiai képződményeket is magában foglal.",
@@ -181,8 +178,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "forest",
     name: { de: "Buchenland Reservat", hu: "Bükkös-vidék Rezervátum", ro: "Rezervația Plaiul Fagului", en: "Plaiul Fagului Reserve"},
-    image: "/poi-images/moldova-plaiul-fagului-life-v2.webp",
-    coords: [28.0255, 47.2842],
     coords: [28.0255, 47.2842],
     description: {
       de: "Plaiul Fagului schützt ein einzigartiges Ökosystem aus Buchen- und Eichenwäldern im Nordwesten der Codri-Region. Es dient als wichtiger Korridor für die Migration von Wildtieren in Zentraleuropa.",
@@ -309,8 +304,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "wildlife",
     name: { de: "Unterer Pruth Reservat", hu: "Alsó-Prut Rezervátum", ro: "Rezervația Prutul de Jos", en: "Lower Prut Reserve"},
-    image: "/poi-images/moldova-prutul-de-jos-life-v2.webp",
-    coords: [28.1511, 45.6028],
     coords: [28.1511, 45.6028],
     description: {
       de: "Dieses UNESCO-Biosphärenreservat im Süden Moldaus umfasst den Beleu-See und wichtige Feuchtgebiete. Es ist ein bedeutender Rastplatz für Zugvögel auf ihrem Weg zwischen Europa und Afrika.",
@@ -473,8 +466,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "wildlife",
     name: { de: "Wissenschaftliches Reservat Iagorlic", hu: "Iagorlîc Tudományos Rezervátum", ro: "Rezervația Științifică Iagorlîc", en: "Iagorlic Scientific Reserve"},
-    image: "/poi-images/moldova-iagorlic-reserve-life-v2.webp",
-    coords: [29.1558, 47.3853],
     coords: [29.1558, 47.3853],
     description: {
       de: "Iagorlic ist ein aquatisches Reservat an der Mündung des gleichnamigen Flusses in den Dnister. Es schützt einzigartige Fischlaichplätze und Wasserpflanzengemeinschaften in einer malerischen Umgebung.",
@@ -520,8 +511,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "park",
     name: { de: "Botanischer Garten Chișinău", hu: "Kisinyovi Botanikus Kert", ro: "Grădina Botanică din Chișinău", en: "Chișinău Botanical Garden"},
-    image: "/poi-images/moldova-chisinau-botanical-garden-life-v2.webp",
-    coords: [28.8856, 46.9744],
     coords: [28.8856, 46.9744],
     description: {
       de: "Der Botanische Garten in Chișinău erstreckt sich über 76 Hektar und präsentiert Tausende von Pflanzenarten aus aller Welt. Er ist ein Zentrum für wissenschaftliche Forschung und ein beliebter Erholungsort.",
@@ -567,8 +556,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "wildlife",
     name: { de: "Zoo Chișinău", hu: "Kisinyovi Állatkert", ro: "Grădina Zoologică din Chișinău", en: "Chișinău Zoo"},
-    image: "/poi-images/moldova-chisinau-zoo-life-v2.webp",
-    coords: [28.8744, 46.9731],
     coords: [28.8744, 46.9731],
     description: {
       de: "Der Zoo von Chișinău beherbergt eine große Sammlung einheimischer und exotischer Tiere in einer parkähnlichen Anlage. Er beteiligt sich an internationalen Erhaltungsprogrammen für gefährdete Arten.",
@@ -731,8 +718,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "park",
     name: { de: "Park von Țaul", hu: "Țaul-park", ro: "Parcul Țaul", en: "Taul Park"},
-    image: "/poi-images/moldova-taul-park-life-v2.webp",
-    coords: [27.6711, 48.2047],
     coords: [27.6711, 48.2047],
     description: {
       de: "Der Park von Țaul ist der größte dendrologische Park in Moldau und umgibt ein historisches Herrenhaus. Er beherbergt über 150 Baum- und Straucharten aus verschiedenen geografischen Regionen.",
@@ -778,8 +763,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "wildlife",
     name: { de: "Landschaftsreservat Saharna", hu: "Saharna Tájvédelmi Körzet", ro: "Rezervația peisajistică Saharna", en: "Saharna Landscape Reserve"},
-    image: "/poi-images/moldova-saharna-reserve-life-v2.webp",
-    coords: [28.9667, 47.7011],
     coords: [28.9667, 47.7011],
     description: {
       de: "Saharna ist berühmt für seine tiefen Schluchten, Wasserfälle und die reiche Artenvielfalt in den Kalksteinfelsen entlang des Dnister. Die Region kombiniert natürliche Schönheit mit spiritueller Bedeutung.",
@@ -870,8 +853,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "wildlife",
     name: { de: "Landschaftsreservat Țîpova", hu: "Țîpova Tájvédelmi Körzet", ro: "Rezervația peisajistică Țîpova", en: "Tipova Landscape Reserve"},
-    image: "/poi-images/moldova-tipova-reserve-life-v2.webp",
-    coords: [28.9833, 47.6042],
     coords: [28.9833, 47.6042],
     description: {
       de: "Das Reservat Țîpova umfasst eine beeindruckende Schluchtenlandschaft am rechten Ufer des Dnister. Es schützt seltene Pflanzenarten und bietet Lebensraum für zahlreiche Greifvogelarten.",
@@ -917,8 +898,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "wildlife",
     name: { de: "Naslavcea-Bogen", hu: "Naslavcea-szoros", ro: "Clisura Naslavcea", en: "Naslavcea Gorges"},
-    image: "/poi-images/moldova-naslavcea-clisura-life-v2.webp",
-    coords: [27.5847, 48.4556],
     coords: [27.5847, 48.4556],
     description: {
       de: "Naslavcea am nördlichsten Punkt Moldaus ist bekannt für seine geologischen Aufschlüsse und die reiche Flora in der Dnister-Windung. Die Gegend ist berühmt für fossile Funde und vulkanischen Tuff.",
@@ -964,8 +943,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "wildlife",
     name: { de: "Hundert Hügel", hu: "Száz halom", ro: "Suta de Movile", en: "Hundred Mounds"},
-    image: "/poi-images/moldova-hundred-mounds-life-v2.webp",
-    coords: [27.2333, 47.8167],
     coords: [27.2333, 47.8167],
     description: {
       de: "Dieses einzigartige Naturphänomen besteht aus über 3.500 Hügeln in der Pruth-Aue. Es ist ein bedeutendes Ökosystem mit Steppenflora und dient als Lebensraum für viele Nagetierarten.",
@@ -1128,8 +1105,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "lake",
     name: { de: "Beleu-See", hu: "Beleu-tó", ro: "Lacul Beleu", en: "Beleu Lake"},
-    image: "/poi-images/moldova-beleu-lake-life-v2.webp",
-    coords: [28.1567, 45.6111],
     coords: [28.1567, 45.6111],
     description: {
       de: "Der Beleu-See ist ein Reliktsee im Pruth-Tal und das Herzstück des Reservats Prutul de Jos. Er ist bekannt für seine schwimmenden Inseln und als Paradies für Wasservögel.",
@@ -1175,8 +1150,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "lake",
     name: { de: "Manta-See", hu: "Manta-tó", ro: "Lacul Manta", en: "Manta Lake"},
-    image: "/poi-images/moldova-manta-lake-life-v2.webp",
-    coords: [28.1756, 45.8233],
     coords: [28.1756, 45.8233],
     description: {
       de: "Der Manta-See ist der größte natürliche See Moldaus. Er bildet ein komplexes System aus Kanälen und Seen, das reich an Fischressourcen und Wasservegetation wie der Weißen Seerose ist.",
@@ -1339,8 +1312,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "wildlife",
     name: { de: "Reservat Fetești", hu: "Fetești Tájvédelmi Körzet", ro: "Rezervația peisajistică Fetești", en: "Fetesti Landscape Reserve"},
-    image: "/poi-images/moldova-fetesti-reserve-life-v2.webp",
-    coords: [27.1147, 48.1681],
     coords: [27.1147, 48.1681],
     description: {
       de: "Fetești, oft als 'Kleine Schweiz' bezeichnet, ist ein Kalksteinreservat mit steilen Felsen am Fluss Draghiște. Es beherbergt eine einzigartige Felsschluchten-Vegetation.",
@@ -1576,7 +1547,6 @@ export const moldovaLifeV2: POI[] = [
     type: "wildlife",
     name: { de: "Landschaftsreservat La Castel", hu: "La Castel Tájvédelmi Körzet", ro: "Rezervația peisajistică La Castel", en: "La Castel Landscape Reserve"},
     image: "/poi-images/moldova-la-castel-life-v2.webp",
-    coords: [27.1517, 48.1514],
     coords: [27.1517, 48.1514],
     description: {
       de: "Dieses Reservat im Racovăț-Tal beeindruckt durch seine massiven Korallenriffe und tiefen Erosionstäler. Es ist ein Refugium für seltene Steppen- und Felsvegetation.",
@@ -1884,7 +1854,6 @@ export const moldovaLifeV2: POI[] = [
     name: { de: "Rudi-Arionești Reservat", hu: "Rudi-Arionești Tájvédelmi Körzet", ro: "Rezervația Rudi-Arionești", en: "Rudi-Arionesti Reserve"},
     image: "/poi-images/moldova-rudi-arionesti-life-v2.webp",
     coords: [27.8833, 48.3364],
-    coords: [27.8833, 48.3364],
     description: {
       de: "Das Reservat Rudi-Arionești im Norden Moldaus umfasst tiefe Waldschluchten und Höhlensysteme. Es ist bekannt für seine Artenvielfalt und die Anwesenheit der berühmten Struve-Bogen-Station.",
       hu: "Az észak-moldovai Rudi-Arionești rezervátum mély erdei szurdokokat és barlangrendszereket foglal magában. Fajgazdagságáról és a híres Struve-ív állomásáról ismert.",
@@ -1930,7 +1899,6 @@ export const moldovaLifeV2: POI[] = [
     name: { de: "Reservat Cosăuți", hu: "Cosăuți Tájvédelmi Körzet", ro: "Rezervația peisajistică Cosăuți", en: "Cosauti Landscape Reserve"},
     image: "/poi-images/moldova-cosauti-reserve-life-v2.webp",
     coords: [28.2833, 48.2333],
-    coords: [28.2833, 48.2333],
     description: {
       de: "Cosăuți ist bekannt für seine geologischen Formationen entlang des Dnister, insbesondere die Granitausbisse. Das Reservat schützt wertvolle Wald- und Uferökosysteme.",
       hu: "Cosăuți a Dnyeszter menti geológiai képződményeiről, különösen a gránitkibúvásokról ismert. A rezervátum értékes erdei és folyóparti ökoszisztémákat véd.",
@@ -1974,8 +1942,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "wildlife",
     name: { de: "Landschaftsreservat Trebujeni", hu: "Trebujeni Tájvédelmi Körzet", ro: "Rezervația peisajistică Trebujeni", en: "Trebujeni Landscape Reserve"},
-    image: "/poi-images/moldova-trebujeni-reserve-life-v2.webp",
-    coords: [28.9733, 47.3117],
     coords: [28.9733, 47.3117],
     description: {
       de: "Dieses Reservat umgibt den berühmten Orheiul Vechi Komplex und schützt die Flora und Fauna der Răut-Schluchten. Es ist ein wichtiger Lebensraum für Fledermäuse und seltene Vögel.",
@@ -2021,8 +1987,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "forest",
     name: { de: "Landschaftsreservat Căpriana-Scoreni", hu: "Căpriana-Scoreni Tájvédelmi Körzet", ro: "Rezervația peisajistică Căpriana-Scoreni", en: "Capriana-Scoreni Landscape Reserve"},
-    image: "/poi-images/moldova-capriana-scoreni-life-v2.webp",
-    coords: [28.5211, 47.1256],
     coords: [28.5211, 47.1256],
     description: {
       de: "Căpriana-Scoreni liegt im Herzen der Codri-Wälder und schützt jahrhundertealte Eichenbestände. Es ist eines der wertvollsten Waldgebiete Moldaus mit einer reichen Tierwelt.",
@@ -2073,8 +2037,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "wildlife",
     name: { de: "Țîpova-Wasserfälle", hu: "Țîpova-vízesések", ro: "Cascadele Țîpova", en: "Tipova Waterfalls"},
-    image: "/poi-images/moldova-tipova-waterfalls-life-v2.webp",
-    coords: [28.9917, 47.6083],
     coords: [28.9917, 47.6083],
     description: {
       de: "Die Wasserfälle von Țîpova stürzen über Kalksteinstufen zum Dnister hinab. Die feuchte Umgebung bietet Lebensraum für spezialisierte Farne und Moose in einer trockenen Region.",
@@ -2120,8 +2082,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "wildlife",
     name: { de: "Saharna-Wasserfälle", hu: "Saharna-vízesések", ro: "Cascadele Saharna", en: "Saharna Waterfalls"},
-    image: "/poi-images/moldova-saharna-waterfalls-life-v2.webp",
-    coords: [28.9611, 47.6953],
     coords: [28.9611, 47.6953],
     description: {
       de: "Der Fluss Saharna bildet in seinem tiefen Canyon 22 Wasserfälle. Der bekannteste ist die 'Zigeuner-Grube' (Gropul Țiganului), ein wichtiger Punkt für die lokale Biodiversität.",
@@ -2169,7 +2129,6 @@ export const moldovaLifeV2: POI[] = [
     name: { de: "Schluchten von Duruitoarea Veche", hu: "Duruitoarea Veche-szurdok", ro: "Defileul Duruitoarea Veche", en: "Duruitoarea Veche Gorges"},
     image: "/poi-images/moldova-duruitoarea-gorges-life-v2.webp",
     coords: [27.2611, 47.8864],
-    coords: [27.2611, 47.8864],
     description: {
       de: "Diese Kalksteinschluchten beherbergen wichtige Höhlen, die in der Steinzeit bewohnt waren. Heute schützen sie seltene Fledermausarten und eine spezifische Flora der nordsarmatischen Riffe.",
       hu: "Ezek a mészkőszurdokok fontos barlangoknak adnak otthont, amelyeket a kőkorszakban laktak. Ma ritka denevérfajokat és a szarmata zátonyok sajátos flóráját védik.",
@@ -2213,8 +2172,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "wildlife",
     name: { de: "Riff von Butești", hu: "Butești-zátony", ro: "Reciful Butești", en: "Butesti Reef"},
-    image: "/poi-images/moldova-butesti-reef-life-v2.webp",
-    coords: [27.3233, 47.7942],
     coords: [27.3233, 47.7942],
     description: {
       de: "Das Riff von Butești ist eine massive Kalksteinformation am Fluss Camenca. Es ist ein wertvolles Naturdenkmal, das seltene Pflanzenarten der Kalksteinfelsen schützt.",
@@ -2260,8 +2217,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "wildlife",
     name: { de: "Stînca Mare bei Cobani", hu: "Cobani Nagy-szikla", ro: "Stînca Mare (Cobani)", en: "Great Rock of Cobani"},
-    image: "/poi-images/moldova-cobani-molla-life-v2.webp",
-    coords: [27.3167, 47.7711],
     coords: [27.3167, 47.7711],
     description: {
       de: "Stînca Mare in der Nähe von Cobani ist das massivste Kalksteinriff in der Pruth-Region. Es beherbergt eine reiche Artenvielfalt, darunter seltene Insekten und Pflanzen.",
@@ -2307,8 +2262,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "park",
     name: { de: "Dendrarium-Park Chișinău", hu: "Kisinyovi Dendrárium", ro: "Parcul Dendrariu din Chișinău", en: "Dendrarium Park Chișinău"},
-    image: "/poi-images/moldova-dendrarium-chisinau-life-v2.webp",
-    coords: [28.8111, 47.0311],
     coords: [28.8111, 47.0311],
     description: {
       de: "Das Dendrarium in Chișinău ist eine grüne Oase mit einer riesigen Sammlung von Gehölzen. Es dient der Erhaltung seltener Baumarten und bietet einen friedlichen Rückzugsort in der Stadt.",
@@ -2354,8 +2307,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "wildlife",
     name: { de: "Landschaftsreservat Ivancea", hu: "Ivancea Tájvédelmi Körzet", ro: "Rezervația peisajistică Ivancea", en: "Ivancea Landscape Reserve"},
-    image: "/poi-images/moldova-ivancea-reserve-life-v2.webp",
-    coords: [28.8556, 47.2917],
     coords: [28.8556, 47.2917],
     description: {
       de: "Ivancea umfasst Waldgebiete und Seenlandschaften in der Nähe von Orhei. Es schützt wertvolle Codri-Waldabschnitte und bietet Lebensraum für zahlreiche Wasservögel.",
@@ -2446,8 +2397,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "wildlife",
     name: { de: "Nationalpark Unterer Dnister", hu: "Alsó-Dnyeszter Nemzeti Park", ro: "Parcul Național Nistrul de Jos", en: "Lower Dniester National Park"},
-    image: "/poi-images/moldova-lower-dniester-life-v2.webp",
-    coords: [29.8056, 46.5028],
     coords: [29.8056, 46.5028],
     description: {
       de: "Dieses Ramsar-Gebiet im Südosten Moldaus schützt die Auenökosysteme des Unteren Dnister. Es ist eines der vielfältigsten Ökosysteme des Landes mit Sumpfgebieten und Auwäldern.",
@@ -2493,8 +2442,6 @@ export const moldovaLifeV2: POI[] = [
     parent: "MD",
     type: "wildlife",
     name: { de: "Emil-Racoviță-Höhle", hu: "Emil Racoviță-barlang", ro: "Peștera Emil Racoviță", en: "Emil Racovita Cave"},
-    image: "/poi-images/moldova-emil-racovita-cave-life-v2.webp",
-    coords: [26.8011, 48.2753],
     coords: [26.8011, 48.2753],
     description: {
       de: "Eine der größten Gipshöhlen der Welt, die ein einzigartiges unterirdisches Ökosystem beherbergt. Die Höhle enthält zahlreiche unterirdische Seen und außergewöhnliche Mineralkristalle.",
@@ -2541,7 +2488,6 @@ export const moldovaLifeV2: POI[] = [
     type: "forest",
     name: { de: "Waldreservat Gîrbovăț", hu: "Gîrbovăț-erdő", ro: "Rezervația peisajistică Gîrbovăț", en: "Garbovat Forest Reserve"},
     image: "/poi-images/moldova-garbovat-forest-life-v2.webp",
-    coords: [29.3511, 46.8517],
     coords: [29.3511, 46.8517],
     description: {
       de: "Gîrbovăț ist ein wichtiges Waldschutzgebiet im Osten Moldaus. Es schützt thermophile Eichenwälder und dient als genetisches Reservoir für lokale Baumpopulationen.",

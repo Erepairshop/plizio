@@ -129,7 +129,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Togo-tó",
       ro: "Lacul Togo",
       en: "Lake Togo"},
-    image: "/poi-images/lake-togo-nature-v2.webp",
     description: {
       de: "Der Togosee ist die größte Lagune des Landes und ein wichtiges Zentrum für Wassersport und Fischerei.",
       hu: "A Togo-tó az ország legnagyobb lagúnája, a vízi sportok és a halászat fontos központja.",
@@ -222,7 +221,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Agou-hegy",
       ro: "Muntele Agou",
       en: "Mount Agou"},
-    image: "/poi-images/mount-agou-nature-v2.webp",
     description: {
       de: "Mit 986 Metern ist der Mount Agou der höchste Gipfel Togos und bietet einen spektakulären Blick über die Region.",
       hu: "A 986 méter magas Agou-hegy Togo legmagasabb csúcsa, ahonnan látványos kilátás nyílik a régióra.",
@@ -270,7 +268,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Mono-folyó",
       ro: "Râul Mono",
       en: "Mono River"},
-    image: "/poi-images/mono-river-nature-v2.webp",
     description: {
       de: "Der Mono ist einer der bedeutendsten Flüsse Togos und bildet im Süden die Grenze zu Benin.",
       hu: "A Mono Togo egyik legjelentősebb folyója, délen a Beninnel közös határt alkotja.",
@@ -293,7 +290,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Oti-folyó",
       ro: "Râul Oti",
       en: "Oti River"},
-    image: "/poi-images/oti-river-nature-v2.webp",
     description: {
       de: "Der Oti-Fluss fließt durch den Norden Togos und ist eine lebenswichtige Wasserquelle für die trockene Savannenregion.",
       hu: "Az Oti-folyó Togo északi részén folyik keresztül, és létfontosságú vízforrás a száraz szavannai régió számára.",
@@ -316,7 +312,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Fazao-Malfakassa Nemzeti Park",
       ro: "Parcul Național Fazao-Malfakassa",
       en: "Fazao-Malfakassa National Park"},
-    image: "/poi-images/fazao-malfakassa-forest-nature-v2.webp",
     description: {
       de: "Dies ist der größte Nationalpark Togos, bekannt für seine bewaldeten Berge und vielfältige Tierwelt.",
       hu: "Ez Togo legnagyobb nemzeti parkja, amely erdős hegyeiről és változatos élővilágáról ismert.",
@@ -364,7 +359,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Kéran Nemzeti Park",
       ro: "Parcul Național Kéran",
       en: "Kéran National Park"},
-    image: "/poi-images/keran-forest-nature-v2.webp",
     description: {
       de: "Der Kéran Nationalpark im Norden ist ein Paradies für Vogelliebhaber und bietet weite Savannen und Galeriewälder.",
       hu: "Az északi Kéran Nemzeti Park a madárbarátok paradicsoma, hatalmas szavannákkal és galériaerdőkkel.",
@@ -457,7 +451,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Fosse aux Lions",
       ro: "Fosse aux Lions",
       en: "Fosse aux Lions"},
-    image: "/poi-images/fosse-aux-lions-forest-nature-v2.webp",
     description: {
       de: "Ein Naturreservat im äußersten Norden Togos, das ursprünglich für den Schutz von Löwen eingerichtet wurde.",
       hu: "Természetvédelmi terület Togo legészakibb részén, amelyet eredetileg az oroszlánok védelmére hoztak létre.",
@@ -505,7 +498,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Aklowa-vízesés",
       ro: "Cascada Aklowa",
       en: "Aklowa Waterfall"},
-    image: "/poi-images/cascade-aklowa-forest-nature-v2.webp",
     description: {
       de: "Ein verstecktes Juwel inmitten dichter Wälder, wo das Wasser aus großer Höhe in ein natürliches Becken stürzt.",
       hu: "Rejtett gyöngyszem a sűrű erdők közepén, ahol a víz nagy magasságból zúdul egy természetes medencébe.",
@@ -598,7 +590,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Malfakassa-hegy",
       ro: "Muntele Malfakassa",
       en: "Mount Malfakassa"},
-    image: "/poi-images/mount-malfakassa-nature-v2.webp",
     description: {
       de: "Ein markanter Gipfel in der Centrale-Region, der Teil des Fazao-Malfakassa Ökosystems ist.",
       hu: "Kiemelkedő csúcs a Centrale régióban, amely a Fazao-Malfakassa ökoszisztéma része.",
@@ -691,7 +682,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Koranga-hegy",
       ro: "Muntele Koranga",
       en: "Mount Koranga"},
-    image: "/poi-images/mount-koranga-nature-v2.webp",
     description: {
       de: "Ein zerklüfteter Berg in der Kara-Region, bekannt für seine beeindruckenden Felsformationen.",
       hu: "Sziklás hegy a Kara régióban, amely lenyűgöző sziklaalakzatairól ismert.",
@@ -739,7 +729,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Kara-folyó",
       ro: "Râul Kara",
       en: "Kara River"},
-    image: "/poi-images/kara-river-nature-v2.webp",
     description: {
       de: "Der Kara-Fluss ist das Herzstück der gleichnamigen Region und prägt die lokale Landwirtschaft.",
       hu: "A Kara-folyó az azonos nevű régió szíve, és meghatározza a helyi mezőgazdaságot.",
@@ -787,7 +776,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Mo-folyó",
       ro: "Râul Mo",
       en: "Mo River"},
-    image: "/poi-images/mo-river-nature-v2.webp",
     description: {
       de: "Ein malerischer Fluss in Zentraltogo, der dichte Wälder und fruchtbare Täler durchquert.",
       hu: "Festői folyó Közép-Togóban, amely sűrű erdőkön és termékeny völgyeken halad keresztül.",
@@ -988,7 +976,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Sio-folyó",
       ro: "Râul Sio",
       en: "Sio River"},
-    image: "/poi-images/sio-river-nature-v2.webp",
     description: {
       de: "Der Sio fließt durch den Süden Togos und mündet in die Küstenlagunen nahe Lomé.",
       hu: "A Sio Togo déli részén folyik keresztül, és a Lomé közeli parti lagúnákba torkollik.",
@@ -1036,7 +1023,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Haho-folyó",
       ro: "Râul Haho",
       en: "Haho River"},
-    image: "/poi-images/haho-river-nature-v2.webp",
     description: {
       de: "Der Haho-Fluss speist den Togosee und ist entscheidend für das ökologische Gleichgewicht der Lagune.",
       hu: "A Haho-folyó táplálja a Togo-tavat, és meghatározó a lagúna ökológiai egyensúlya szempontjából.",
@@ -1084,7 +1070,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Guineai-öböl",
       ro: "Golful Guineei",
       en: "Gulf of Guinea"},
-    image: "/poi-images/gulf-guinea-sea-nature-v2.webp",
     description: {
       de: "Der Golf von Guinea bildet die südliche Grenze Togos und bietet kilometerlange Sandstrände und Palmenhaine.",
       hu: "A Guineai-öböl alkotja Togo déli határát, kilométernyi homokos strandokat és pálmaligeteket kínálva.",
@@ -1132,7 +1117,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Togodo Erdőrezervátum",
       ro: "Rezervația Forestieră Togodo",
       en: "Togodo Forest Reserve"},
-    image: "/poi-images/togodo-forest-nature-v2.webp",
     description: {
       de: "Eines der letzten verbliebenen tropischen Waldgebiete im Südosten Togos, reich an Biodiversität.",
       hu: "Togo délkeleti részének egyik utolsó megmaradt trópusi erdőterülete, amely gazdag biológiai sokféleséggel rendelkezik.",
@@ -1155,7 +1139,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Missahoé-erdő",
       ro: "Pădurea Missahoé",
       en: "Missahoé Forest"},
-    image: "/poi-images/missahoe-forest-nature-v2.webp",
     description: {
       de: "Ein üppiges Waldgebiet in der Nähe von Kpalimé, bekannt für seine Schmetterlingsvielfalt und Wasserfälle.",
       hu: "Lush erdőterület Kpalimé közelében, amely pillangóiról és vízeséseiről ismert.",
@@ -1332,7 +1315,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Abdoulaye Vadvédelmi Rezervátum",
       ro: "Rezervația de Faună Abdoulaye",
       en: "Abdoulaye Wildlife Reserve"},
-    image: "/poi-images/abdoulaye-forest-nature-v2.webp",
     description: {
       de: "Ein bedeutendes Schutzgebiet in Zentraltogo, das eine Mischung aus Trockenwäldern und Savannen bietet.",
       hu: "Jelentős védett terület Közép-Togóban, amely száraz erdők és szavannák keverékét kínálja.",
@@ -1380,7 +1362,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Nangbéto-tó",
       ro: "Lacul Nangbéto",
       en: "Lake Nangbéto"},
-    image: "/poi-images/lake-nangbeto-nature-v2.webp",
     description: {
       de: "Ein künstlich angelegter See am Mono-Fluss, der sowohl für die Energieerzeugung als auch für die Fischerei wichtig ist.",
       hu: "Mesterséges tó a Mono-folyón, amely az energiatermelés és a halászat szempontjából is fontos.",
@@ -1473,7 +1454,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Koumongou-folyó",
       ro: "Râul Koumongou",
       en: "Koumongou River"},
-    image: "/poi-images/koumongou-river-nature-v2.webp",
     description: {
       de: "Ein wichtiger Nebenfluss des Oti im Norden Togos, der durch abgelegene Savannengebiete fließt.",
       hu: "Az Oti fontos mellékfolyója Togo északi részén, amely távoli szavannai területeken folyik keresztül.",
@@ -1521,7 +1501,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Tabalo-hegy",
       ro: "Muntele Tabalo",
       en: "Mount Tabalo"},
-    image: "/poi-images/mount-tabalo-nature-v2.webp",
     description: {
       de: "Ein imposanter Berg in Zentraltogo, bekannt für seine steilen Hänge und die dichte Vegetation.",
       hu: "Impozáns hegy Közép-Togóban, amely meredek lejtőiről és sűrű növényzetéről ismert.",
@@ -1650,7 +1629,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Kpimé-vízesés",
       ro: "Cascada Kpimé",
       en: "Kpimé Waterfall"},
-    image: "/poi-images/cascade-kpime-forest-nature-v2.webp",
     description: {
       de: "Ein malerischer Wasserfall in der Nähe von Kpalimé, umgeben von Kaffee- und Kakaoplantagen.",
       hu: "Festői vízesés Kpalimé közelében, kávé- és kakaóültetvényekkel körülvéve.",
@@ -1698,7 +1676,6 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: "Benini-öböl",
       ro: "Golful Benin",
       en: "Bight of Benin"},
-    image: "/poi-images/bight-benin-sea-nature-v2.webp",
     description: {
       de: "Ein großer Teil des Golfs von Guinea, der die gesamte Küste von Togo umfasst.",
       hu: "A Guineai-öböl nagy része, amely Togo egész partvidékét magában foglalja.",

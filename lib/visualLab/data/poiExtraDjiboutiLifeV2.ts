@@ -112,7 +112,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       pt: ["A reserva foi criada em 2003 pelo Dr. Bertrand Lafrance.", "Estende-se por uma área protegida de cerca de 30 hectares.", "O DECAN abriga um grupo significativo de chitas que foram resgatadas do contrabando.", "O antílope-beira, uma das espécies mais raras da região, é protegido aqui.", "Anualmente, mais de 5.000 crianças em idade escolar visitam o centro para fins educativos.", "O refúgio é financiado principalmente através de doações privadas e trabalho voluntário."],
       fr: ["La réserve a été créée en 2003 par le Dr Bertrand Lafrance.", "Elle s'étend sur une surface protégée d'environ 30 hectares.", "DECAN abrite un groupe important de guépards sauvés de la contrebande.", "L'antilope Beira, l'une des espèces les plus rares de la région, y est protégée.", "Chaque année, plus de 5 000 écoliers visitent le centre à des fins éducatives.", "Le refuge est principalement financé par des dons privés et le travail de bénévoles."],
     }, },
-    image: "/poi-images/wildtierreservat-decan-life-v2.webp",
     description: {
       de: "Ein wichtiges Refugium für gepfändete und verletzte Wildtiere wie Geparden, Löwen und Antilopen in der Nähe der Hauptstadt.",
       hu: "A főváros közelében található fontos menedékhely az elkobzott és sérült vadon élő állatok, például gepárdok, oroszlánok és antilopok számára.",
@@ -205,7 +204,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       pt: ["O oásis é alimentado pelas águas subterrâneas do sazonal Oued Ambouli.", "É um dos principais produtores de tâmaras e mangas para a capital.", "A área está localizada nas imediações do Aeroporto Internacional do Djibuti.", "Os jardins tradicionais utilizam um sistema de canais para irrigação.", "O oásis tem um microclima que é até 5 graus mais fresco do que a cidade.", "Inúmeras aves migratórias utilizam o oásis como ponto de paragem no seu caminho para África."],
       fr: ["L'oasis est alimentée par les eaux souterraines de l'oued saisonnier Ambouli.", "C'est un producteur principal de dattes et de mangues pour la capitale.", "La zone se trouve à proximité immédiate de l'aéroport international de Djibouti.", "Les jardins traditionnels utilisent un système de canaux pour l'irrigation.", "L'oasis bénéficie d'un microclimat jusqu'à 5 degrés plus frais que celui de la ville.", "De nombreux oiseaux migrateurs utilisent l'oasis comme escale sur leur route vers l'Afrique."],
     }, },
-    image: "/poi-images/oase-von-ambouli-life-v2.webp",
     description: {
       de: "Ein grünes Band fruchtbaren Landes, in dem Obst und Gemüse für die Versorgung der Hauptstadt angebaut werden.",
       hu: "Termékeny földterület zöld sávja, ahol gyümölcsöt és zöldséget termesztenek a főváros ellátására.",
@@ -550,7 +548,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       pt: ["Os jardins abrigam a rara palmeira de Bankoualé, uma espécie protegida.", "A área localiza-se a uma altitude de cerca de 1500 metros acima do nível do mar.", "Quedas de água naturais nas montanhas Goda alimentam os sistemas de irrigação.", "É um dos poucos locais no Djibouti onde se cultiva café.", "Os jardins só são acessíveis a pé ou com veículos todo-o-terreno.", "A flora inclui plantas que, de outra forma, só ocorrem em áreas significativamente mais húmidas."],
       fr: ["Les jardins abritent le rare palmier de Bankoualé, une espèce protégée.", "La zone se situe à une altitude d'environ 1500 mètres au-dessus du niveau de la mer.", "Des cascades naturelles dans les montagnes de Goda alimentent les systèmes d'irrigation.", "C'est l'un des rares endroits à Djibouti où l'on cultive du café.", "Les jardins ne sont accessibles qu'à pied ou avec des véhicules tout-terrain.", "La flore comprend des plantes que l'on ne trouve habituellement que dans des zones nettement plus humides."],
     }, },
-    image: "/poi-images/gaerten-von-bankouale-life-v2.webp",
     description: {
       de: "Die Gärten von Bankouale bieten in den Goda-Bergen eine grüne Oase für den lokalen Gartenbau.",
       hu: "Teraszos kertek a Goda-hegységben, amelyek pálmatermesztésükről és helyi mézükről ismertek.",
@@ -715,7 +712,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       pt: ["A reserva abriga a maior população mundial conhecida do antílope beira.", "Localiza-se diretamente na fronteira entre o Djibouti e a Etiópia.", "A vegetação consiste principalmente em espécies de acácias resistentes à seca.", "A área é um importante corredor para espécies migratórias de vida selvagem.", "Assamo foi oficialmente reconhecida em 2015 como uma Área Importante para Aves (IBA).", "A monitorização das manadas é frequentemente feita por guardas locais."],
       fr: ["La réserve abrite la plus grande population mondiale connue d'antilope beira.", "Elle se situe directement à la frontière entre Djibouti et l'Éthiopie.", "La végétation se compose principalement d'espèces d'acacias résistantes à la sécheresse.", "La zone est un couloir important pour les espèces migratrices de faune sauvage.", "Assamo a été officiellement reconnue en 2015 comme Zone Importante pour la Conservation des Oiseaux (ZICO).", "La surveillance des troupeaux est souvent effectuée par des rangers locaux."],
     }, },
-    image: "/poi-images/assamo-gazellenschutzgebiet-life-v2.webp",
     description: {
       de: "Ein Schutzgebiet im Süden des Landes, das der Erhaltung der vom Aussterben bedrohten Pelzeln-Gazelle gewidmet ist.",
       hu: "Az ország déli részén található védett terület, amelyet a veszélyeztetett Pelzeln-gazella megőrzésének szenteltek.",
@@ -1312,7 +1308,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       pt: ["Djalelo é uma área de proteção principal para a rara gazela de Pelzeln.", "A reserva situa-se numa zona geologicamente ativa com formações rochosas vulcânicas.", "Vários sítios arqueológicos neolíticos foram descobertos dentro dos limites do parque.", "Projetos de reflorestação utilizam sementes de acácias locais para melhorar o solo.", "Djalelo faz parte de um corredor que liga várias áreas protegidas no sul do Djibouti.", "A região é conhecida pelas suas oscilações extremas de temperatura entre o dia e a noite."],
       fr: ["Djalelo est une zone de protection majeure pour la rare gazelle de Pelzeln.", "La réserve se situe dans une zone géologiquement active avec des formations rocheuses volcaniques.", "Plusieurs sites néolithiques ont été découverts à l'intérieur des limites du parc.", "Les projets de reboisement utilisent les graines d'acacias locaux pour l'amélioration des sols.", "Djalelo fait partie d'un couloir reliant plusieurs aires protégées dans le sud de Djibouti.", "La région est connue pour ses variations de température extrêmes entre le jour et la nuit."],
     }, },
-    image: "/poi-images/djalelo-naturschutzgebiet-life-v2.webp",
     description: {
       de: "Dieses Reservat schützt die einzigartige Flora und Fauna der trockenen Hügellandschaft, einschließlich Greifvögel und seltener Antilopen.",
       hu: "Ez a rezervátum védi a száraz dombos vidék egyedülálló növény- és állatvilágát, beleértve a ragadozó madarakat és a ritka antilopokat.",
@@ -1441,7 +1436,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       pt: ["Khor Angar abriga os mangais mais extensos do Djibuti.", "A área está estrategicamente localizada no estreito de Bab-el-Mandeb, um importante corredor de voo.", "Mais de 150 espécies diferentes de aves foram documentadas na área protegida.", "Os mangais pertencem principalmente às espécies Avicennia marina e Rhizophora mucronata.", "É um local de reprodução importante para o raro caranguejeiro (Dromas ardeola).", "A área protegida inclui tanto a lagoa costeira como os recifes circundantes."],
       fr: ["Khor Angar abrite les mangroves les plus étendues de Djibouti.", "La zone est stratégiquement située sur le détroit de Bab-el-Mandeb, un important couloir de vol.", "Plus de 150 espèces d'oiseaux différentes ont été documentées dans la réserve.", "Les mangroves appartiennent principalement aux espèces Avicennia marina et Rhizophora mucronata.", "C'est un lieu de nidification important pour le rare dromas (Dromas ardeola).", "La zone protégée comprend à la fois la lagune côtière et les récifs au large."],
     }, },
-    image: "/poi-images/vogelschutzgebiet-khor-angar-life-v2.webp",
     description: {
       de: "Khor Angar ist ein wichtiges Schutzgebiet für Zugvögel an der Küste des Roten Meeres.",
       hu: "Khor Angar kiterjedt mangroveerdői fontos fészkelő- és pihenőhelyet jelentenek több ezer költöző madár számára.",
@@ -1606,7 +1600,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       pt: ["A época do tubarão-baleia em Ghoubbet decorre de outubro a fevereiro.", "A maioria dos tubarões-baleia observados aqui são machos jovens.", "Ghoubbet-al-Kharab está ligada ao Golfo de Tadjoura por um estreito braço de mar.", "Os cientistas identificaram mais de 500 tubarões-baleia individuais aqui.", "A água na baía é frequentemente muito rica em nutrientes devido à atividade vulcânica.", "Os barqueiros necessitam de uma licença especial para levar turistas para a área protegida."],
       fr: ["La saison des requins-baleines à Ghoubbet dure d'octobre à février.", "La plupart des requins-baleines observés ici sont de jeunes mâles.", "Ghoubbet-al-Kharab est reliée au golfe de Tadjoura par un détroit étroit.", "Les scientifiques ont identifié ici plus de 500 requins-baleines individuels.", "L'eau de la baie est souvent très riche en nutriments en raison de l'activité volcanique.", "Les bateliers ont besoin d'une licence spéciale pour emmener les touristes dans la zone protégée."],
     }, },
-    image: "/poi-images/walhai-schutzgebiet-ghoubbet-life-v2.webp",
     description: {
       de: "Die planktonreichen Gewässer der Ghoubbet-Bucht ziehen jedes Jahr zahlreiche Walhaie zur Fütterung und Paarung an.",
       hu: "A Ghoubbet-öböl planktonban gazdag vizei évente számos cápacápát vonzanak táplálkozásra és szaporodásra.",
@@ -1699,7 +1692,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       pt: ["Dikhil é uma das cidades oásis habitadas permanentemente mais antigas do Djibouti.", "O palmeiral inclui milhares de tamareiras de várias variedades.", "O sistema de irrigação utiliza reservas de água fóssil abaixo do nível do uádi.", "A cidade de Dikhil localiza-se a cerca de 120 quilómetros a oeste da capital.", "A época de colheita das tâmaras em Dikhil é entre junho e agosto.", "O palmeiral serve como um importante reservatório genético para culturas resistentes à seca."],
       fr: ["Dikhil est l'une des plus anciennes villes oasiennes habitées en permanence à Djibouti.", "La palmeraie comprend des milliers de palmiers-dattiers de différentes variétés.", "Le système d'irrigation utilise des nappes d'eau fossiles situées sous le niveau de l'oued.", "La ville de Dikhil se situe à environ 120 kilomètres à l'ouest de la capitale.", "La période de récolte des dattes à Dikhil se situe entre juin et août.", "La palmeraie sert de réservoir génétique important pour les plantes cultivées résistantes à la sécheresse."],
     }, },
-    image: "/poi-images/dattelpalmenhain-von-dikhil-life-v2.webp",
     description: {
       de: "Eine traditionelle Oasenlandwirtschaft in Dikhil, die für ihre hochwertigen Datteln und schattenspendenden Gärten bekannt ist.",
       hu: "Hagyományos oázisgazdálkodás Dikhilben, amely kiváló minőségű dátumáról és árnyas kertjeiről ismert.",
@@ -1864,7 +1856,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       pt: ["Randa está situada a uma altitude média de 1000 metros acima do nível do mar.", "A pluviosidade anual aqui é o dobro da da capital.", "Cultivam-se principalmente limões, laranjas e romãs.", "Os jardins são protegidos da erosão por um sistema de socalcos de pedra.", "Randa é considerada uma das aldeias mais 'verdes' de todo o Djibuti.", "Os produtos de Randa são vendidos nos mercados de Tadjoura e da Cidade do Djibuti."],
       fr: ["Randa se situe à une altitude moyenne de 1000 mètres au-dessus du niveau de la mer.", "La pluviométrie annuelle y est deux fois plus élevée que dans la capitale.", "On y cultive principalement des citrons, des oranges et des grenades.", "Les jardins sont protégés de l'érosion par un système de terrasses en pierre.", "Randa est considéré comme l'un des villages les plus 'verts' de tout Djibouti.", "Les produits de Randa sont vendus sur les marchés de Tadjoura et de la ville de Djibouti."],
     }, },
-    image: "/poi-images/obstgaerten-von-randa-life-v2.webp",
     description: {
       de: "In den Obstgärten von Randa wird dank des milderen Gebirgsklimas vielfältiges Obst kultiviert.",
       hu: "A hűvösebb hegyi éghajlatnak köszönhetően Randában különféle gyümölcsöket, például citrusféléket és guajavát termesztenek.",
@@ -2150,7 +2141,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       pt: ["Distância: 15 quilómetros a sul da Cidade do Djibuti", "Localização fronteiriça: Proximidade imediata da fronteira com a Somália", "Vegetação: Povoamentos naturais de tamareiras", "Importância: Único palmeiral costeiro do país", "Cultura: Local de importantes sepulturas históricas", "História: Antigo posto fronteiriço entre áreas coloniais"],
       fr: ["Distance : 15 kilomètres au sud de Djibouti-Ville", "Situation frontalière : proximité immédiate de la frontière avec la Somalie", "Végétation : peuplements naturels de palmiers dattiers", "Importance : seule palmeraie côtière du pays", "Culture : site d'importantes sépultures historiques", "Histoire : ancien poste frontière entre les zones coloniales"],
     }, },
-    image: "/poi-images/palmenhaine-von-loyada-life-v2.webp",
     description: {
       de: "Die Palmenhaine von Loyada säumen die Küstenzone nahe der Grenze zu Somalia.",
       hu: "Loyada tengerparti oázisa híres sűrű pálmaligeteiről, amelyek közvetlenül az Ádeni-öböl partján virágoznak.",
@@ -2279,7 +2269,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       pt: ["Altitude: Média de 750 metros acima do nível do mar", "Tipo de solo: Rocha basáltica vulcânica fértil", "Produtos: Tomates, melões, cebolas e citrinos", "Clima: Microclima mais fresco em comparação com a região costeira", "Gestão da água: Utilização de irrigação gota a gota", "Significado: Centro estratégico para a agricultura do Djibouti"],
       fr: ["Altitude : En moyenne 750 mètres au-dessus du niveau de la mer", "Nature du sol : Roche basaltique volcanique fertile", "Produits : Tomates, melons, oignons et agrumes", "Climat : Microclimat plus frais par rapport à la région côtière", "Gestion de l'eau : Utilisation de l'irrigation au goutte-à-goutte", "Importance : Centre stratégique pour l'agriculture djiboutienne"],
     }, },
-    image: "/poi-images/hochland-farmen-von-arta-life-v2.webp",
     description: {
       de: "Die Farmen auf dem Hochland von Arta profitieren von etwas kühleren Temperaturen als im Tiefland.",
       hu: "Arta hűvös fennsíkjain zöldségtermesztés folyik, amely a régió mérsékelt hőmérsékletéből profitál.",
@@ -2327,7 +2316,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       fr: ["Espèces dominantes : Avicennia marina et Rhizophora mucronata", "Rôle écologique : Rempart naturel contre l'érosion côtière", "Biodiversité : Habitat pour les crabes et les jeunes poissons", "Avifaune : Site de repos important pour les oiseaux migrateurs", "Géologie : Développement sur un substrat de calcaire corallien", "Menaces : Menacé par l'abattage de bois et le pâturage"],
       es: ["Especies dominantes: Avicennia marina y Rhizophora mucronata", "Papel ecológico: Barrera natural contra la erosión costera", "Biodiversidad: Hábitat para crustáceos y peces juveniles", "Aves: Lugar de descanso importante para aves migratorias", "Geología: Prosperan sobre sustrato de caliza coralina", "Amenazas: Riesgo por tala y pastoreo excesivo"],
     }, },
-    image: "/poi-images/mangroven-von-obock-life-v2.webp",
     description: {
       de: "Ein lebenswichtiger Lebensraum für Meeresbewohner und Küstenvögel in den geschützten Buchten nördlich von Obock.",
       hu: "Létfontosságú élőhely a tengeri élőlények és a tengerparti madarak számára az Obocktól északra fekvő védett öblökben.",
@@ -2456,7 +2444,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       fr: ["Géographie : l'une des plus grandes dépressions tectoniques du pays", "Utilisateurs : habitat et pâturages pour le peuple Afar", "Sources d'eau : forages stratégiques pour l'approvisionnement en saison sèche", "Flore : dominance d'acacias et d'arbustes résistants à la chaleur", "Agriculture : culture ponctuelle de céréales dans les sols alluviaux", "Faune : présence de gazelles et d'autruches d'Afrique"],
       es: ["Geografía: Una de las mayores depresiones tectónicas del país", "Usuarios: Hábitat y pastos para el pueblo Afar", "Fuentes de agua: Pozos estratégicos para el suministro en la estación seca", "Flora: Predominio de acacias y arbustos resistentes al calor", "Agricultura: Cultivo puntual de cereales en suelos aluviales", "Fauna: Presencia de gacelas y avestruces africanos"],
     }, },
-    image: "/poi-images/weidegruende-der-hanle-ebene-life-v2.webp",
     description: {
       de: "Die Hanle-Ebene bietet weitläufige Weidegründe für die nomadische Viehzucht.",
       hu: "Az ország egyik legtermékenyebb síksága, amely a nomádok állattenyésztésének fontos legelőterülete.",
@@ -2504,7 +2491,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       pt: ["Localização: 15 quilómetros a norte da capital no Golfo de Tadjoura", "Diversidade de corais: Mais de 200 espécies de corais duros e moles", "Grande fauna: Avistamentos de tubarões-baleia entre outubro e fevereiro", "Ilhas: Rodeia as ilhas de coral Moucha e Maskali", "Geologia: Construção sobre estruturas de recife do Pleistoceno", "Estatuto: Parte de uma área marinha protegida"],
       fr: ["Localisation : 15 km au nord de la capitale dans le golfe de Tadjourah", "Diversité corallienne : Plus de 200 espèces de coraux durs et mous", "Grande faune : Observations de requins-baleines entre octobre et février", "Îles : Entoure les îles coralliennes Moucha et Maskali", "Géologie : Formation sur des structures récifales du Pléistocène", "Statut : Fait partie d'une aire marine protégée"],
     }, },
-    image: "/poi-images/korallenriffe-der-moucha-inseln-life-v2.webp",
     description: {
       de: "Ein farbenfroher Unterwasserlebensraum, der eine enorme Vielfalt an tropischen Fischen und Korallen beherbergt.",
       hu: "Színes víz alatti élőhely, amely a trópusi halak és korallok hatalmas választékának ad otthont.",
@@ -2552,7 +2538,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       pt: ["Organização: Parte do centro de investigação CERD", "Localização: Perto do porto da cidade de Djibouti", "Foco: Espécies do Mar Vermelho e do Golfo de Aden", "Investigação: Estudo do branqueamento de corais e temperaturas marinhas", "Educação: Programas de sensibilização para escolas sobre ecologia marinha", "Exposições: Sistemas de corais vivos e peixes de recife endémicos"],
       fr: ["Organisation : Fait partie du centre de recherche CERD", "Localisation : Près du port de Djibouti-Ville", "Focus : Espèces de la mer Rouge et du golfe d'Aden", "Recherche : Étude du blanchissement des coraux et des températures marines", "Éducation : Programmes de sensibilisation pour les écoles sur l'écologie marine", "Expositions : Systèmes coralliens vivants et poissons de récif endémiques"],
     }, },
-    image: "/poi-images/aquarium-von-dschibuti-life-v2.webp",
     description: {
       de: "Ein spannendes Ziel für Kinder, um die reiche Meereswelt des Roten Meeres und des Golfs von Aden aus der Nähe zu sehen.",
       hu: "Izgalmas célpont a gyerekek számára, hogy közelről láthassák a Vörös-tenger és az Ádeni-öböl gazdag tengeri világát.",
@@ -2600,7 +2585,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       fr: ["Fonction : Parc urbain central et zone de détente", "Emplacement : Situé au centre de Djibouti-ville", "Installations : Aires de jeux, allées de promenade et terrains de sport", "Écologie : Amélioration du microclimat grâce à la végétation arborée", "Usage : Lieu de rencontre prisé en soirée", "Importance : Symbole de l'unité nationale et de la qualité de vie"],
       es: ["Función: Parque central de la ciudad y zona de recreo", "Ubicación: Situado centralmente en la ciudad de Yibuti", "Instalaciones: Parques infantiles, senderos y áreas deportivas", "Ecología: Mejora del microclima gracias al arbolado", "Uso: Punto de encuentro popular en las horas vespertinas", "Importancia: Símbolo de unidad nacional y calidad de vida"],
     }, },
-    image: "/poi-images/freizeitpark-lunite-life-v2.webp",
     description: {
       de: "Der Freizeitpark L'Unite in Djibouti-Stadt ist ein beliebter Erholungsort für Familien.",
       hu: "A főváros népszerű parkja játszóterekkel és zöldfelületekkel, amely ideális családi kirándulásokhoz.",
@@ -2909,7 +2893,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       pt: ["Região: Zonas altas das montanhas Goda (1000-1500m)", "Principais plantas: Zimbro africano e acácias", "Qualidade: Elevado grau de pureza e aroma específico", "Economia: Fonte de rendimento alternativa ao uso da floresta", "Sazonalidade: Colheita principal após as estações de chuva", "Estrutura: Apoio de cooperativas de apicultores locais"],
       fr: ["Région : Hautes terres des montagnes de Goda (1000-1500m)", "Principales plantes : Genévrier d'Afrique et acacias", "Qualité : Haut degré de pureté et arôme spécifique", "Économie : Source de revenus alternative à l'exploitation forestière", "Saisonnalité : Récolte principale après les saisons des pluies", "Structure : Soutien par des coopératives apicoles locales"],
     }, },
-    image: "/poi-images/bienenwirtschaft-im-goda-gebirge-life-v2.webp",
     description: {
       de: "Die Bienenzucht in den Goda-Bergen produziert hochwertigen Honig aus Bergblüten.",
       hu: "A hegyekben folyó hagyományos méztermelés a Day-erdő gazdag flóráját használja fel egy egyedülálló természetes termékhez.",
@@ -3038,7 +3021,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
       pt: ["Geologia: Parte do Triângulo de Afar com atividade geotérmica", "Altitude: Situa-se abaixo do nível do mar", "Fauna: Habitat para gazelas-de-Soemmerring e dic-dics", "Aves: Ocorrência de avestruzes africanas", "Paisagem: Mistura de planícies de sal e lava basáltica", "Particularidade: Ocorrência de vegetação rara de fontes termais"],
       fr: ["Géologie : partie du triangle de l'Afar avec activité géothermique", "Altitude : située en dessous du niveau de la mer", "Faune : habitat des gazelles de Soemmerring et des dik-diks", "Oiseaux : présence d'autruches d'Afrique", "Paysage : mélange de plaines salées et de lave basaltique", "Particularité : présence d'une végétation rare de sources thermales"],
     }, },
-    image: "/poi-images/wildtiere-der-allols-senke-life-v2.webp",
     description: {
       de: "Die Allols-Senke beherbergt eine einzigartige Fauna, die an das trockene Klima angepasst ist.",
       hu: "Ebben a távoli mélyedésben speciális sivatagi lakók élnek, például sakálok, hiénák és különféle hüllőfajok.",

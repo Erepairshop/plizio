@@ -989,7 +989,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     parent: "IL-D",
     coords: [35.3533, 31.3156],
     name: { de: "Masada", hu: "Maszada", ro: "Masada", en: "Masada"},
-    image: "/poi-images/masada-history-v2.webp",
     description: {
       de: "Eine antike Festung auf einem Felsplateau mit Blick auf das Tote Meer.",
       hu: "Ősi erőd egy sziklafennsíkon, ahonnan kilátás nyílik a Holt-tengerre.",
@@ -1257,7 +1256,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     parent: "IL-JM",
     coords: [35.2345, 31.7767],
     name: { de: "Klagemauer", hu: "Siratófal", ro: "Zidul Plângerii", en: "Western Wall"},
-    image: "/poi-images/western-wall-history-v2.webp",
     description: {
       de: "Die letzte erhaltene Stützmauer des Zweiten Jüdischen Tempels in Jerusalem.",
       hu: "A Második Szentély utolsó fennmaradt támfala Jeruzsálemben.",
@@ -2209,7 +2207,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     parent: "IL-Z",
     coords: [35.1844, 32.5833],
     name: { de: "Tel Megiddo", hu: "Tel Megiddó", ro: "Tel Megiddo", en: "Tel Megiddo"},
-    image: "/poi-images/tel-megiddo-history-v2.webp",
     description: {
       de: "Eine antike Stadt, die eine wichtige Königsstadt im Königreich Israel war.",
       hu: "Ősi város, amely az Izraeli Királyság egyik fontos királyi székhelye volt.",
@@ -2909,7 +2906,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     parent: "IL-HA",
     coords: [34.8903, 32.5013],
     name: { de: "Caesarea Maritima", hu: "Caesarea Maritima", ro: "Cezareea Maritimă", en: "Caesarea Maritima"},
-    image: "/poi-images/caesarea-maritima-history-v2.webp",
     description: {
       de: "Eine antike Hafenstadt, die von Herodes dem Großen an der Mittelmeerküste erbaut wurde.",
       hu: "Nagy Heródes által épített ősi kikötőváros a Földközi-tenger partján.",
@@ -3069,7 +3065,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     parent: "IL-D",
     coords: [35.4595, 31.7410],
     name: { de: "Qumran-Höhlen", hu: "Qumráni barlangok", ro: "Peșterile de la Qumran", en: "Qumran Caves"},
-    image: "/poi-images/qumran-caves-history-v2.webp",
     description: {
       de: "Eine Reihe von Höhlen in der Wüste Juda, in denen alte jüdische Manuskripte gefunden wurden.",
       hu: "Barlangrendszer a Júdeai-sivatagban, ahol ősi zsidó kéziratokat találtak.",
@@ -3337,7 +3332,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     parent: "IL-JM",
     coords: [35.2286, 31.7764],
     name: { de: "Davidszitadelle", hu: "Dávid-torony", ro: "Turnul lui David", en: "Tower of David"},
-    image: "/poi-images/tower-of-david-history-v2.webp",
     description: {
       de: "Eine antike Zitadelle in der Nähe des Jaffators zur Altstadt von Jerusalem.",
       hu: "Ősi fellegvár a jeruzsálemi óváros Jaffa-kapuja közelében.",
@@ -3569,7 +3563,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     parent: "IL-JM",
     coords: [35.2299, 31.7785],
     name: { de: "Grabeskirche", hu: "Szent Sír-templom", ro: "Biserica Sfântului Mormânt", en: "Church of the Holy Sepulchre"},
-    image: "/poi-images/holy-sepulchre-history-v2.webp",
     description: {
       de: "Eine Kirche im christlichen Viertel der Jerusalemer Altstadt, die als Stätte der Kreuzigung Jesu gilt.",
       hu: "A jeruzsálemi óváros keresztény negyedében található templom, amely Jézus keresztre feszítésének és sírjának feltételezett helye.",
@@ -4197,7 +4190,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     parent: "IL-Z",
     coords: [35.5019, 32.5028],
     name: { de: "Beit Sche'an", hu: "Bét-Seán", ro: "Beit Șean", en: "Beit She'an"},
-    image: "/poi-images/beit-shean-history-v2.webp",
     description: {
       de: "Eine der umfangreichsten und beeindruckendsten römischen und byzantinischen Ruinen in Israel.",
       hu: "Izrael egyik legkiterjedtebb és leglenyűgözőbb római és bizánci kori romvárosa.",
@@ -5185,7 +5177,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     parent: "IL-D",
     coords: [34.7733, 30.7933],
     name: { de: "Avdat", hu: "Avdat", ro: "Avdat", en: "Avdat"},
-    image: "/poi-images/avdat-history-v2.webp",
     description: {
       de: "Die Ruinen einer zerstörten nabatäischen Stadt in der Wüste Negev.",
       hu: "Egy elpusztult nabateus város romjai a Negev-sivatagban.",
@@ -6425,7 +6416,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     parent: "IL-Z",
     coords: [35.5686, 33.0183],
     name: { de: "Tel Hazor", hu: "Tel Hácór", ro: "Tel Hazor", en: "Tel Hazor"},
-    image: "/poi-images/tel-hazor-history-v2.webp",
     description: {
       de: "Die Ruinen der größten antiken Stadt aus der biblischen Zeit in Israel.",
       hu: "A bibliai korszak legnagyobb ősi városának romjai Izraelben.",
@@ -7053,7 +7043,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     parent: "IL-Z",
     coords: [35.0683, 32.9222],
     name: { de: "Stadtmauer von Akko", hu: "Akkó városfalai", ro: "Zidurile orașului Akko", en: "Akko Old City Walls"},
-    image: "/poi-images/akko-old-city-walls-history-v2.webp",
     description: {
       de: "Beeindruckende Befestigungsanlagen, die die antike Hafenstadt Akko umgeben.",
       hu: "Az ősi Akkó kikötővárost körülvevő lenyűgöző erődítményrendszer.",
@@ -7789,7 +7778,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     parent: "IL-D",
     coords: [34.8483, 31.5653],
     name: { de: "Tel Lachisch", hu: "Tel Lákis", ro: "Tel Lachiș", en: "Tel Lachish"},
-    image: "/poi-images/tel-lachish-history-v2.webp",
     description: {
       de: "Eine antike kanaanitische und israelitische Stadt in der Region Schefela.",
       hu: "Ősi kánaáni és izraelita város a Sefélá régióban.",
@@ -8777,7 +8765,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     parent: "IL-M",
     coords: [34.8058, 32.1942],
     name: { de: "Apollonia", hu: "Apollónia", ro: "Apollonia", en: "Apollonia"},
-    image: "/poi-images/apollonia-arsuf-history-v2.webp",
     description: {
       de: "Eine antike Stadt und Festung auf einer Klippe über dem Mittelmeer.",
       hu: "Ősi város és erőd egy Földközi-tengerre néző sziklaszirten.",
@@ -9045,7 +9032,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     parent: "IL-Z",
     coords: [35.7144, 33.2536],
     name: { de: "Nimrodburg", hu: "Nimród erőd", ro: "Fortăreața Nimrod", en: "Nimrod Fortress"},
-    image: "/poi-images/nimrod-fortress-history-v2.webp",
     description: {
       de: "Eine mittelalterliche ayyubidische Burg an den Südhängen des Berges Hermon.",
       hu: "Középkori ajjúbida vár a Hermon-hegy déli lejtőin.",
@@ -10393,7 +10379,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     parent: "IL-HA",
     coords: [35.1286, 32.7042],
     name: { de: "Beit Sche'arim", hu: "Bét-Seárim", ro: "Beit Șearim", en: "Beit She'arim"},
-    image: "/poi-images/beit-shearim-history-v2.webp",
     description: {
       de: "Eine antike jüdische Stadt, die für ihre riesige Nekropole und Felsengräber bekannt ist.",
       hu: "Ősi zsidó város, amely hatalmas nekropoliszáról és sziklába vájt katakombáiról ismert.",
@@ -10913,7 +10898,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     parent: "IL-Z",
     coords: [35.5750, 32.8808],
     name: { de: "Kapernaum", hu: "Kafarnaum", ro: "Capernaum", en: "Capernaum"},
-    image: "/poi-images/capernaum-history-v2.webp",
     description: {
       de: "Ein antikes Fischerdorf am Nordufer des Sees Genezareth.",
       hu: "Ősi halászfalu a Galileai-tenger északi partján.",
@@ -11793,7 +11777,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     parent: "IL-Z",
     coords: [35.4597, 32.7997],
     name: { de: "Hörner von Hattin", hu: "Hattíni szarvak", ro: "Coarnele de la Hattin", en: "Horns of Hattin"},
-    image: "/poi-images/horns-of-hattin-history-v2.webp",
     description: {
       de: "Ein erloschener Vulkan, auf dem eine entscheidende Schlacht stattfand.",
       hu: "Kialudt vulkán, ahol egy sorsdöntő csata zajlott a keresztesek és a muszlimok között.",
@@ -12817,7 +12800,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     parent: "IL-Z",
     coords: [35.5217, 32.5950],
     name: { de: "Burg Belvoir", hu: "Belvoir erőd", ro: "Fortăreața Belvoir", en: "Belvoir Fortress"},
-    image: "/poi-images/belvoir-fortress-history-v2.webp",
     description: {
       de: "Eine gut erhaltene Kreuzritterfestung mit Blick auf das Jordantal.",
       hu: "Jól megőrzött keresztes erőd, amely a Jordán-völgyre néz.",
@@ -13625,7 +13607,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     parent: "IL-JM",
     coords: [35.2414, 31.6658],
     name: { de: "Herodion", hu: "Heródion", ro: "Irodion", en: "Herodium"},
-    image: "/poi-images/herodium-history-v2.webp",
     description: {
       de: "Eine kegelförmige Palastfestung, die von König Herodes dem Großen erbaut wurde.",
       hu: "Kúp alakú palotaerőd, amelyet Nagy Heródes király építtetett.",

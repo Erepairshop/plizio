@@ -12,7 +12,6 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
       hu: "Szent Sebestyén-erőd",
       ro: "Fortăreața São Sebastião",
       en: "Fort of São Sebastião"},
-    image: "/poi-images/forte-de-sao-sebastiao-history-v2.webp",
     description: {
       de: "Die 1575 errichtete Festung São Sebastião war das erste steinerne Verteidigungswerk der Insel und schützte den Hafen vor Piraten und rivalisierenden Kolonialmächten. Heute beherbergt das markante Gebäude am Meeresufer das Nationalmuseum von São Tomé und Príncipe.",
       hu: "Az 1575-ben épült Szent Sebestyén-erőd a sziget első kőből készült védműve volt, amely a kikötőt védte a kalózoktól és a rivális gyarmati hatalmaktól. A tengerparton álló jellegzetes épület ma a São Tomé és Príncipe-i Nemzeti Múzeumnak ad otthont.",
@@ -81,7 +80,6 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
       hu: "Szent Tamás-székesegyház",
       ro: "Catedrala Sfântul Toma",
       en: "Cathedral of Saint Thomas"},
-    image: "/poi-images/catedral-de-sao-tome-history-v2.webp",
     description: {
       de: "Die im 16. Jahrhundert gegründete Kathedrale ist der Sitz der Diözese von São Tomé. Das heutige Bauwerk mit seiner markanten Fassade und den zwei Türmen spiegelt die lange religiöse Geschichte des Archipels wider und wurde über die Jahrhunderte mehrfach renoviert.",
       hu: "A 16. században alapított székesegyház a São Tomé-i egyházmegye székhelye. A jelenlegi épület jellegzetes homlokzatával és két tornyával a szigetcsoport hosszú vallási történelmét tükrözi, és az évszázadok során többször felújították.",
@@ -231,7 +229,6 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
       hu: "Roça Água Izé",
       ro: "Roça Água Izé",
       en: "Roça Água Izé"},
-    image: "/poi-images/roca-agua-ize-history-v2.webp",
     description: {
       de: "Água Izé war einst eine der produktivsten Kakaoplantagen der Insel und glich einer kleinen autonomen Stadt. Die Ruinen des monumentalen Krankenhauses und des Herrenhauses zeugen vom Reichtum der Kolonialzeit und den harten Bedingungen für die Arbeiter.",
       hu: "Água Izé egykor a sziget egyik legtermékenyebb kakaóültetvénye volt, amely egy kis autonóm városhoz hasonlított. A monumentális kórház és az udvarház romjai a gyarmati korszak gazdagságáról és a munkások kemény körülményeiről tanúskodnak.",
@@ -483,7 +480,6 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
       hu: "Felfedezők emlékműve",
       ro: "Monumentul Descoperirilor",
       en: "Monument of the Discoveries"},
-    image: "/poi-images/padrao-dos-descobrimentos-history-v2.webp",
     description: {
       de: "In der Nähe der Küste von São Tomé markiert dieses Denkmal den Ort, an dem die ersten portugiesischen Seefahrer im 15. Jahrhundert landeten. Es besteht aus mehreren Statuen der Entdecker João de Santarém und Pêro Escobar, die die unbewohnten Inseln für Portugal beanspruchten.",
       hu: "A São Tomé-i partok közelében található emlékmű azt a helyet jelöli, ahol az első portugál tengerészek kikötöttek a 15. században. João de Santarém és Pêro Escobar felfedezők szobrai állnak itt, akik Portugália számára birtokba vették a lakatlan szigeteket.",
@@ -552,7 +548,6 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
       hu: "Roça Plancad",
       ro: "Roça Plancad",
       en: "Roça Plancad"},
-    image: "/poi-images/roca-plancad-history-v2.webp",
     description: {
       de: "Die Roça Plancad liegt in den kühleren Höhenlagen des Distrikts Mé-Zóchi und war auf den Anbau von hochwertigem Kaffee und Kakao spezialisiert. Die terrassierten Hänge und die alten Trockenanlagen vermitteln einen Eindruck von der komplexen Logistik der damaligen Landwirtschaft.",
       hu: "A Roça Plancad Mé-Zóchi körzet hűvösebb hegyvidéki területein található, és kiváló minőségű kávé és kakaó termesztésére szakosodott. A teraszos lejtők és a régi szárítóberendezések képet adnak az akkori mezőgazdaság összetett logisztikájáról.",
@@ -621,7 +616,6 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
       hu: "Roça Bemposta",
       ro: "Roça Bemposta",
       en: "Roça Bemposta"},
-    image: "/poi-images/roca-bemposta-history-v2.webp",
     description: {
       de: "Roça Bemposta war eine bedeutende Plantage im zentralen Hochland von São Tomé. Die Architektur der Wohngebäude und die Anordnung der Arbeiterquartiere (Senzalas) spiegeln die hierarchische Sozialstruktur des kolonialen Plantagensystems wider.",
       hu: "A Roça Bemposta jelentős ültetvény volt São Tomé központi felföldjén. A lakóépületek építészete és a munkásnegyedek (senzalas) elrendezése a gyarmati ültetvényrendszer hierarchikus társadalmi szerkezetét tükrözi.",
@@ -690,7 +684,6 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
       hu: "Szent Antal-erőd",
       ro: "Fortăreața Santo António",
       en: "Fort of Santo António da Ponta da Mina"},
-    image: "/poi-images/forte-de-santo-antonio-da-ponta-da-mina-history-v2.webp",
     description: {
       de: "Dieses Fort wurde im 17. Jahrhundert erbaut, um die Bucht von Santo António auf Príncipe vor Seeangriffen zu schützen. Von seiner strategischen Position aus überblickt es den Atlantik und diente als wichtiger Vorposten für die Sicherheit der Insel.",
       hu: "Ezt az erődöt a 17. században építették, hogy megvédjék a Príncipe-szigeti Szent Antal-öblöt a tengeri támadásoktól. Stratégiai helyzetéből az Atlanti-óceánra néz, és a sziget biztonságának fontos előőrseként szolgált.",
@@ -759,7 +752,6 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
       hu: "Roça São José",
       ro: "Roça São José",
       en: "Roça São José"},
-    image: "/poi-images/roca-sao-jose-history-v2.webp",
     description: {
       de: "Roça São José liegt am Rande der Hauptstadt und zeigt, wie sich die Landwirtschaft einst bis in die Nähe des städtischen Zentrums erstreckte. Die Plantage war für ihre Palmen- und Kakaoproduktion bekannt und ist heute ein Zeugnis der frühen kolonialen Expansion.",
       hu: "A Roça São José a főváros szélén található, és azt mutatja, hogyan terjeszkedett egykor a mezőgazdaság a városközpont közelébe. Az ültetvény pálma- és kakaótermeléséről volt ismert, ma pedig a korai gyarmati terjeszkedés tanúja.",
@@ -828,7 +820,6 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
       hu: "Roça Ribeira Izé",
       ro: "Roça Ribeira Izé",
       en: "Roça Ribeira Izé"},
-    image: "/poi-images/roca-ribeira-ize-history-v2.webp",
     description: {
       de: "Ribeira Izé war der Ort der ersten Siedlung auf der Insel Príncipe. Die Ruinen der ersten Kirche der Insel, eingebettet in die tropische Vegetation, erzählen von den Anfängen der portugiesischen Präsenz und den Herausforderungen der ersten Siedler.",
       hu: "Ribeira Izé volt az első település helyszíne Príncipe szigetén. A sziget első templomának romjai, a trópusi növényzetbe ágyazva, a portugál jelenlét kezdeteiről és az első telepesek kihívásairól mesélnek.",
@@ -897,7 +888,6 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
       hu: "Roça Vau-Inhá",
       ro: "Roça Vau-Inhá",
       en: "Roça Vau-Inhá"},
-    image: "/poi-images/roca-vau-inha-history-v2.webp",
     description: {
       de: "Vau-Inhá ist eine historische Plantage an der Ostküste von São Tomé. Sie war strategisch günstig gelegen, um die Produkte der fruchtbaren Ebenen von Cantagalo für den Export vorzubereiten, und bewahrt noch heute Teile ihrer ursprünglichen Struktur.",
       hu: "A Roça Vau-Inhá egy történelmi ültetvény São Tomé keleti partján. Stratégiai elhelyezkedése lehetővé tette Cantagalo termékeny síkságainak terményeit az exportra való felkészítését, és ma is őrzi eredeti szerkezetének részeit.",
@@ -966,7 +956,6 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
       hu: "Roça Tras-os-Montes",
       ro: "Roça Tras-os-Montes",
       en: "Roça Tras-os-Montes"},
-    image: "/poi-images/roca-tras-os-montes-history-v2.webp",
     description: {
       de: "Inmitten der steilen Berge von Mé-Zóchi gelegen, war Tras-os-Montes für den Anbau unter extremen Bedingungen bekannt. Die Plantage zeigt den enormen Aufwand, den die Kolonialherren betrieben, um jeden Quadratmeter fruchtbaren Bodens zu nutzen.",
       hu: "Mé-Zóchi meredek hegyei között található Tras-os-Montes az extrém körülmények közötti gazdálkodásról volt ismert. Az ültetvény a gyarmatosítók hatalmas erőfeszítéseit mutatja be, hogy a termékeny talaj minden négyzetméterét kihasználják.",
@@ -1149,7 +1138,6 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
       hu: "Roça Novo Destino",
       ro: "Roça Novo Destino",
       en: "Roça Novo Destino"},
-    image: "/poi-images/roca-novo-destino-history-v2.webp",
     description: {
       de: "Wie der Name 'Neues Schicksal' andeutet, repräsentierte diese Roça in Mé-Zóchi die Hoffnung auf wirtschaftliche Expansion im späten 19. Jahrhundert. Ihre Architektur ist funktional und effizient gestaltet, um die steigende Nachfrage nach Kakao aus Europa zu bedienen.",
       hu: "Ahogy az 'Új sors' név is sugallja, ez a Mé-Zóchi-ban található ültetvény a 19. század végi gazdasági terjeszkedés reményét jelképezte. Építészete funkcionális és hatékony, hogy kiszolgálja az Európából érkező növekvő kakaóigényt.",
@@ -1332,7 +1320,6 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
       hu: "Roça Vista Alegre",
       ro: "Roça Vista Alegre",
       en: "Roça Vista Alegre"},
-    image: "/poi-images/roca-vista-alegre-history-v2.webp",
     description: {
       de: "Bekannt für ihre ästhetische Anlage und die weite Sicht über den Atlantik, war Vista Alegre ein Vorzeigeobjekt der kolonialen Landwirtschaft. Die Architektur verband industrielle Notwendigkeit mit dem Wunsch nach Repräsentation und Komfort für die Verwalter.",
       hu: "Esztétikus kialakításáról és az Atlanti-óceánra nyíló pazar kilátásáról ismert Vista Alegre a gyarmati mezőgazdaság mintagazdasága volt. Építészete az ipari szükségleteket ötvözte az adminisztrátorok számára nyújtott reprezentációval és kényelemmel.",
@@ -1401,7 +1388,6 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
       hu: "Roça Santa Cecília",
       ro: "Roça Santa Cecília",
       en: "Roça Santa Cecília"},
-    image: "/poi-images/roca-santa-cecilia-history-v2.webp",
     description: {
       de: "Im fruchtbaren Hinterland von Mé-Zóchi gelegen, spezialisierte sich Santa Cecília auf die Kultivierung verschiedener Tropenfrüchte neben dem allgegenwärtigen Kakao. Die Plantage ist ein Beispiel für die Diversifizierungsversuche innerhalb des starren Plantagensystems.",
       hu: "Mé-Zóchi termékeny hátországában található Santa Cecília a különféle trópusi gyümölcsök termesztésére szakosodott a mindenütt jelen lévő kakaó mellett. Az ültetvény a merev ültetvényrendszeren belüli diverzifikációs kísérletek példája.",
@@ -1470,7 +1456,6 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
       hu: "Roça Ribeira Palma",
       ro: "Roça Ribeira Palma",
       en: "Roça Ribeira Palma"},
-    image: "/poi-images/roca-ribeira-palma-history-v2.webp",
     description: {
       de: "An der wilden Nordküste im Distrikt Lembá gelegen, war Ribeira Palma ein Außenposten der kakao-basierten Wirtschaft. Die Plantage musste sich gegen die raue See und die dichte Vegetation behaupten und bewahrt eine ruhige, geschichtsträchtige Atmosphäre.",
       hu: "A vad északi parton, Lembá körzetben található Ribeira Palma a kakaóalapú gazdaság egyik előőrse volt. Az ültetvénynek meg kellett küzdenie a zord tengerrel és a sűrű növényzettel, ma is nyugodt, történelemmel átitatott hangulatot áraszt.",

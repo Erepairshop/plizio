@@ -12,7 +12,6 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont Abourasséin",
       ro: "Mont Abourasséin",
       en: "Mont Abourasséin"},
-    image: "/poi-images/mont-abourassein-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Mont Abourasséin ist ein markanter Gipfel im Massif des Bongo, der sich an der strategischen Grenze zwischen der Zentralafrikanischen Republik und dem Südsudan befindet. Mit einer Höhe von etwa 1113 Metern gehört er zu den bedeutendsten Erhebungen der Region und fungiert als natürlicher Orientierungspunkt in der weitläufigen Savannenlandschaft. Geographisch liegt der Berg auf der primären Wasserscheide zwischen den Einzugsgebieten des Nils im Osten und des Kongo im Südwesten, was seine enorme hydrologische Bedeutung für Zentralafrika unterstreicht. Die Umgebung ist durch eine Übergangszone zwischen dichtem tropischem Regenwald und der nördlichen Sudansavanne geprägt, was zu einer hohen biologischen Diversität führt. Geologisch besteht das Massiv hauptsächlich aus kristallinem Gestein des präkambrischen afrikanischen Schildes, das durch Jahrmillionen der Erosion seine heutige Form erhielt. Trotz seiner Abgeschiedenheit spielt der Berg eine wichtige Rolle in der regionalen Identität und dient als Referenzpunkt für wissenschaftliche Untersuchungen zum Klimawandel in der Sahel-Übergangszone.",
       hu: "A Mont Abourasséin a Bongo-masszívum egyik kiemelkedő csúcsa, amely a Közép-afrikai Köztársaság és Dél-Szudán határán helyezkedik el. Körülbelül 1113 méteres magasságával a régió egyik legjelentősebb pontja, amely természetes határvonalat képez a két ország között. Földrajzi elhelyezkedése kulcsfontosságú, mivel a Nílus és a Kongó folyók vízválasztóján fekszik, meghatározva a környék vízrajzi dinamikáját. A hegy környezete a trópusi esőerdők és a nedves szavannák közötti átmeneti zónában található, így rendkívül gazdag növény- és állatvilággal rendelkezik. Geológiai szempontból a hegység ősi kristályos kőzetekből épül fel, amelyek az afrikai pajzs részét képezik, és az erózió formálta őket évezredeken keresztül. Bár a terület nehezen megközelíthető és ritkán lakott, a Mont Abourasséin fontos viszonyítási pont a regionális térképészet és az ökológiai kutatások számára, különösen a biodiverzitás megőrzése szempontjából.",
@@ -56,7 +55,6 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont Bakoré",
       ro: "Mont Bakoré",
       en: "Mont Bakoré"},
-    image: "/poi-images/mont-bakore-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Mont Bakoré ist eine markante Erhebung im Osten der Zentralafrikanischen Republik, eingebettet in die sanften Ausläufer des Bongo-Massivs. Mit seiner charakteristischen Silhouette überragt er die umliegende Plateau-Landschaft und dient als wichtiger Orientierungspunkt für die lokale Bevölkerung und Reisende in dieser abgelegenen Region. Die geographische Lage des Berges ist geprägt durch die Nähe zu zahlreichen Quellflüssen, die später in das Tschadsee-Becken abfließen. Die Vegetation am Mont Bakoré variiert je nach Höhenlage von dichter Strauchsavanne bis hin zu offeneren Grasflächen, die während der Regenzeit intensiv ergrünen. Historisch gesehen war die Gegend um den Berg Schauplatz verschiedener Migrationsbewegungen indigener Gruppen, die das Gebirge als natürlichen Schutzraum nutzten. In der modernen Geographie wird der Berg oft als Beispiel für die Erosionsprozesse in den tropischen Zonen Zentralafrikas herangezogen. Seine geologische Basis bildet das stabile Fundament des afrikanischen Kontinents, bestehend aus metamorphen Gesteinen.",
       hu: "A Mont Bakoré a Közép-afrikai Köztársaság keleti részének egyik jellegzetes magaslata, amely a Bongo-masszívum lankásabb nyúlványai között található. Karakteres sziluettje kiemelkedik a környező fennsíkból, fontos tájékozódási pontot nyújtva a régió ritkán lakott területein. A hegy földrajzi jelentőségét fokozza a számos forrás és vízfolyás közelsége, amelyek a Csád-tó medencéje felé tartanak. A vegetáció a magasságtól függően változik a sűrű bozótos szavannától a nyíltabb füves területekig, amelyek az esős évszakban válnak dúsabbá. Történelmileg a hegy környéke különböző vándorló törzsek szálláshelyeként szolgált, akik a terep adottságait védekezésre is felhasználták. A modern földrajztudomány a Mont Bakorét a trópusi eróziós folyamatok tanulmányozására használja, bemutatva, hogyan alakítja a csapadék a felszínt. Geológiai alapját az afrikai kontinens ősi, metamorf kőzetei alkotják, amelyek rendkívüli stabilitást biztosítanak a tömbnek.",
@@ -100,7 +98,6 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Tondou-masszívum",
       ro: "Masivul Tondou",
       en: "Tondou Massif"},
-    image: "/poi-images/tondou-massiv-relief-v2.webp",
     descriptionAdvanced: {
       de: "Das Tondou-Massiv ist ein zerklüfteter Gebirgskomplex im Osten der Zentralafrikanischen Republik, der sich durch seine steilen Klippen und tief eingeschnittenen Täler auszeichnet. Es bildet eine natürliche Barriere und beeinflusst maßgeblich das lokale Klima, indem es feuchte Luftmassen zum Aufsteigen zwingt und so für Niederschläge sorgt. Das Massiv ist Teil des größeren Hochlandes, das sich über weite Teile der östlichen Präfekturen erstreckt und eine wichtige ökologische Nische darstellt. Die Flora umfasst seltene Gebirgspflanzen sowie isolierte Bestände von Primärwald in den geschützten Tälern. Geologisch ist das Tondou-Massiv äußerst interessant, da es eine Vielzahl von Gesteinsformationen aus verschiedenen erdgeschichtlichen Epochen vereint, darunter Sandsteine und Granite. Historisch war das Massiv ein schwer zugängliches Rückzugsgebiet, das erst im 20. Jahrhundert genauer kartografiert wurde. Heute ist es ein bedeutendes Gebiet für den Naturschutz, da es Korridore für wandernde Großsäugetiere wie Elefanten und verschiedene Antilopenarten bietet.",
       hu: "A Tondou-masszívum egy tagolt hegyvidéki komplexum a Közép-afrikai Köztársaság keleti részén, amely meredek sziklafalaival és mélyen bevágott völgyeivel tűnik ki. Természetes gátat képez, amely jelentősen befolyásolja a helyi éghajlatot, kényszerítve a nedves légtömegeket a felszállásra, ezzel növelve a csapadékmennyiséget. A masszívum része annak a nagyobb felföldnek, amely az ország keleti prefektúráin húzódik keresztül, és fontos ökológiai fülkét biztosít. Flórája ritka hegyvidéki növényeket és a védett völgyekben elszigetelt esőerdő-foltokat tartalmaz. Geológiailag a Tondou-masszívum rendkívül változatos, mivel különböző földtörténeti korokból származó kőzeteket, például homokkövet és gránitot is magában foglal. Történelmileg a hegység nehezen megközelíthető menedékhely volt, amelyet pontosabban csak a 20. században térképeztek fel. Napjainkban kiemelt természetvédelmi terület, mivel fontos vonulási útvonalat biztosít a nagyemlősök, például az elefántok és antilopfajok számára.",
@@ -144,7 +141,6 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont Dar Challa",
       ro: "Mont Dar Challa",
       en: "Mont Dar Challa"},
-    image: "/poi-images/mont-dar-challa-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Mont Dar Challa ist ein markanter Gipfel in der nordöstlichen Zentralafrikanischen Republik, nahe der Grenze zum Sudan. Er erhebt sich über das weite Bongo-Massiv und stellt eine der bedeutendsten topographischen Erhebungen in der Präfektur Vakaga dar. Die Region um den Berg ist bekannt für ihre raue Schönheit und ihre extremen klimatischen Bedingungen, mit einer ausgeprägten Trockenzeit, die die Landschaft in Ocker- und Brauntöne taucht. Geographisch liegt der Mont Dar Challa strategisch günstig an den alten Karawanenwegen, die einst das Tschadbecken mit dem Niltal verbanden. Die Vegetation ist spärlich und besteht hauptsächlich aus trockenheitsresistenten Gräsern und Akazien, die an die harten Bedingungen angepasst sind. Geologisch ist der Berg Teil des kristallinen Sockels Zentralafrikas und weist interessante Verwitterungsformen auf, die durch die starken Temperaturschwankungen entstehen. In der lokalen Folklore gilt der Gipfel oft als mystischer Ort, der mit alten Legenden der ansässigen Stämme verknüpft ist.",
       hu: "A Mont Dar Challa egy jellegzetes hegycsúcs a Közép-afrikai Köztársaság északkeleti részén, a szudáni határ közelében. A hatalmas Bongo-masszívumból emelkedik ki, és a Vakaga prefektúra egyik legfontosabb domborzati pontja. A hegy környéke vad szépségéről és szélsőséges éghajlati viszonyairól ismert, ahol a markáns száraz évszak okker és barna színekbe öltözteti a tájat. Földrajzi szempontból a Mont Dar Challa stratégiai helyen fekszik, az ősi karavánutak mentén, amelyek egykor a Csád-medencét kötötték össze a Nílus völgyével. A növényzet ritkás, főként szárazságtűrő füvekből és akáciákból áll, amelyek alkalmazkodtak a zord körülményekhez. Geológiailag a hegy Közép-Afrika kristályos alapkőzetének része, és az erős hőingadozás okozta érdekes mállási formákat mutat. A helyi folklórban a csúcsot gyakran misztikus helyként tartják számon, amely a környező törzsek ősi legendáihoz kapcsolódik.",
@@ -188,7 +184,6 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont Koumou",
       ro: "Mont Koumou",
       en: "Mont Koumou"},
-    image: "/poi-images/mont-koumou-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Mont Koumou ist ein markanter Berg im zentralen Hochland der Zentralafrikanischen Republik, der durch seine isolierte Lage und seine steilen Hänge beeindruckt. Er bildet den Kern einer kleinen Gebirgsgruppe, die aus der umliegenden Rumpffläche herausragt und als wichtiger hydrologischer Knotenpunkt dient. Die zahlreichen Bäche, die an seinen Flanken entspringen, speisen die Nebenflüsse des Ubangi, des wichtigsten Wasserwegs des Landes. Die Vegetation am Mont Koumou ist besonders vielfältig, da die Höhe kühlere Temperaturen und eine höhere Luftfeuchtigkeit ermöglicht, was die Ansiedlung von Galeriewäldern begünstigt. Geologisch besteht der Berg aus sehr altem Gneis und Schiefer, was auf eine lange Geschichte tektonischer Ruhe und kontinuierlicher Erosion hindeutet. Für die lokale Gemeinschaft hat der Berg eine spirituelle Bedeutung und wird oft in traditionellen Zeremonien verehrt. In den letzten Jahren hat das Interesse an dem Gebiet für ökologische Studien zugenommen, da es als Rückzugsgebiet für verschiedene seltene Primatenarten dient.",
       hu: "A Mont Koumou egy jellegzetes hegy a Közép-afrikai Köztársaság központi felföldjén, amely izolált helyzetével és meredek lejtőivel hívja fel magára a figyelmet. Egy kisebb hegycsoport magját alkotja, amely kiemelkedik a környező fennsíkból, és fontos vízrajzi csomópontként szolgál. Az oldalain eredő számos patak az Ubangi mellékfolyóit táplálja, amely az ország legfontosabb vízi útja. A Mont Koumou növényzete különösen változatos, mivel a magasság hűvösebb hőmérsékletet és magasabb páratartalmat tesz lehetővé, ami kedvez a galériaerdők kialakulásának. Geológiailag a hegy igen idős gneiszből és palából épül fel, ami a tektonikai nyugalom és a folyamatos erózió hosszú történetére utal. A helyi közösség számára a hegy spirituális jelentőséggel bír, és gyakran tisztelik hagyományos szertartások keretében. Az utóbbi években megnőtt az érdeklődés a terület iránti ökológiai kutatások iránt, mivel menedékként szolgál számos ritka főemlősfaj számára.",
@@ -232,7 +227,6 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont Pana",
       ro: "Mont Pana",
       en: "Mont Pana"},
-    image: "/poi-images/mont-pana-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Mont Pana ist eine bedeutende Erhebung im Norden der Zentralafrikanischen Republik, die sich majestätisch über die umliegende Grassavanne erhebt. Als Teil des nördlichen Ausläufers des Bongo-Massivs markiert er einen wichtigen Punkt im Relief der Region und beeinflusst die Windmuster in diesem Teil des Landes. Die geographische Position des Mont Pana ist geprägt durch den Übergang zur trockeneren Sahelzone, was sich in einer widerstandsfähigen Vegetation aus Gräsern und dornigen Sträuchern widerspiegelt. Historisch gesehen war die Umgebung des Berges ein Treffpunkt für nomadische Hirtenvölker, die das Gelände zur Orientierung während ihrer saisonalen Wanderungen nutzten. Geologisch gesehen zeichnet sich der Mont Pana durch seine harten Quarzit-Formationen aus, die der Verwitterung über Jahrmillionen standgehalten haben. Der Berg bietet zudem einen atemberaubenden Panoramablick über die unendlichen Weiten der afrikanischen Savanne, was ihn zu einem potenziellen Ziel für den zukünftigen Ökotourismus macht. Die Erforschung der lokalen Flora hat zudem mehrere endemische Pflanzenarten zu Tage gefördert, die nur in diesem speziellen Mikroklima gedeihen.",
       hu: "A Mont Pana a Közép-afrikai Köztársaság északi részének egyik jelentős magaslata, amely fenségesen emelkedik a környező füves szavanna fölé. A Bongo-masszívum északi nyúlványának részeként fontos pontot jelöl ki a régió domborzatában, és befolyásolja a környék széljárását. A Mont Pana földrajzi helyzetét a szárazabb Száhel-övezetbe való átmenet jellemzi, ami a füvekből és tövises bozótokból álló ellenálló vegetációban is megmutatkozik. Történelmileg a hegy környéke a nomád pásztornépek találkozóhelye volt, akik a terepet tájékozódási pontként használták szezonális vándorlásaik során. Geológiai szempontból a Mont Pana kemény kvarcitképződményeivel tűnik ki, amelyek évmilliók óta ellenállnak a mállásnak. A hegyről lélegzetelállító panoráma nyílik az afrikai szavanna végtelen rónáira, ami a jövőbeli ökoturizmus potenciális célpontjává teszi. A helyi flóra kutatása során számos olyan endemikus növényfajt találtak, amelyek csak ebben a különleges mikroklimatikus környezetben élnek.",
@@ -276,7 +270,6 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont Dir",
       ro: "Mont Dir",
       en: "Mont Dir"},
-    image: "/poi-images/mont-dir-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Mont Dir ist eine markante Erhebung im westlichen Teil der Zentralafrikanischen Republik, die sich durch ihre ungewöhnliche geologische Beschaffenheit auszeichnet. Im Gegensatz zu den sandsteinbasierten Massiven des Ostens besteht der Mont Dir überwiegend aus basaltischem Gestein, was auf frühere vulkanische Aktivitäten in der Region hindeutet. Er erhebt sich als Inselberg aus der sanft gewellten Hochfläche von Ouham-Pendé und bildet ein wichtiges Reservoir für die lokale Flora und Fauna. Die Hänge des Berges sind oft von dichten Waldstreifen bewachsen, die von den regelmäßigen Niederschlägen profitieren, die sich an der Erhebung stauen. In der Kolonialzeit war der Mont Dir ein wichtiger Standort für geodätische Vermessungen und diente als Basis für die Kartierung der westlichen Grenzgebiete. Heute ist er ein Symbol für die natürliche Vielfalt der Zentralafrikanischen Republik und ein Ziel für Forscher, die sich für die vulkanische Geschichte des afrikanischen Kontinents interessieren. Die fruchtbaren Böden am Fuße des Berges unterstützen eine produktive Landwirtschaft, die für die Versorgung der umliegenden Dörfer unerlässlich ist.",
       hu: "A Mont Dir egy jellegzetes magaslat a Közép-afrikai Köztársaság nyugati részén, amely szokatlan geológiai felépítésével tűnik ki. A keleti, homokkő alapú masszívumokkal ellentétben a Mont Dir főként bazaltos kőzetekből áll, ami a régió korábbi vulkáni tevékenységére utal. Szigethegyként emelkedik ki az Ouham-Pendé enyhén hullámos fennsíkjából, és fontos rezervoárt képez a helyi flóra és fauna számára. A hegy lejtőit gyakran sűrű erdősávok borítják, amelyek profitálnak a magaslatnál megrekedő rendszeres csapadékból. A gyarmati időszakban a Mont Dir fontos helyszín volt a geodéziai mérések számára, és bázisként szolgált a nyugati határvidékek térképezéséhez. Napjainkban a Közép-afrikai Köztársaság természetes sokszínűségének szimbóluma, és célpontja azon kutatóknak, akiket az afrikai kontinens vulkáni történelme érdekel. A hegy lábánál található termékeny talaj támogatja a produktív mezőgazdaságot, amely elengedhetetlen a környező falvak ellátásához.",
@@ -320,7 +313,6 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont Gounda",
       ro: "Mont Gounda",
       en: "Mont Gounda"},
-    image: "/poi-images/mont-gounda-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Mont Gounda ist ein markanter Gipfel im Gounda-Manovo-Massiv im Norden der Zentralafrikanischen Republik. Er liegt innerhalb des berühmten Nationalparks Manovo-Gounda St. Floris, der zum UNESCO-Welterbe gehört. Der Berg dominiert die weiten Überschwemmungsebenen der Flüsse Manovo und Gounda und bietet einen wichtigen Rückzugsort für die Tierwelt während der Regenzeit. Geographisch ist er Teil eines Plateausystems, das durch tiefe Schluchten und steile Felswände gekennzeichnet ist. Die Vegetation besteht aus einer Mischung von Sudan-Guinea-Savanne und Galeriewäldern entlang der Wasserläufe. Geologisch gesehen ist der Mont Gounda aus massivem Sandstein aufgebaut, der über Jahrmillionen durch Wind und Wasser spektakulär geformt wurde. Die Region ist von großer Bedeutung für den Erhalt seltener Arten wie Spitzmaulnashörner, Elefanten und verschiedene Raubkatzen, die in den unzugänglichen Gebieten des Berges Schutz finden. Historisch war der Berg ein Orientierungspunkt für frühe Entdecker und ist heute ein Symbol für die Bemühungen um den internationalen Naturschutz.",
       hu: "A Mont Gounda a Gounda-Manovo-masszívum egyik meghatározó csúcsa a Közép-afrikai Köztársaság északi részén. A híres Manovo-Gounda St. Floris Nemzeti Park területén található, amely az UNESCO Világörökség része. A hegy uralja a Manovo és Gounda folyók hatalmas ártéri síkságait, és fontos menedéket nyújt a vadvilág számára az esős évszak idején. Földrajzi szempontból egy olyan fennsíkrendszer része, amelyet mély szurdokok és meredek sziklafalak jellemeznek. A növényzet a szudáni-guineai szavanna és a vízfolyások menti galériaerdők keverékéből áll. Geológiailag a Mont Gounda masszív homokkőből épül fel, amelyet a szél és a víz évmilliók alatt látványos formákra alakított. A régió kiemelkedő jelentőségű az olyan ritka fajok megőrzése szempontjából, mint a keskenyszájú orrszarvúk, elefántok és különböző nagymacskák, amelyek a hegy nehezen megközelíthető területein találnak védelmet. Történelmileg a hegy tájékozódási pontként szolgált a korai felfedezők számára, ma pedig a nemzetközi természetvédelmi erőfeszítések szimbóluma.",
@@ -364,7 +356,6 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont Kounkou",
       ro: "Mont Kounkou",
       en: "Mont Kounkou"},
-    image: "/poi-images/mont-kounkou-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Mont Kounkou ist eine markante Erhebung im Südosten der Zentralafrikanischen Republik, die sich über den dichten tropischen Regenwald der Region erhebt. Er gehört zu den weniger erforschten Gebieten des Landes und ist durch seine steilen, oft nebelverhangenen Gipfel charakterisiert. Der Berg spielt eine entscheidende Rolle im lokalen Wasserkreislauf, da er die feuchten Luftmassen des Kongobeckens abfängt und so ganzjährig für hohe Niederschlagsmengen sorgt. Die Hänge des Mont Kounkou sind von einer außergewöhnlich dichten Vegetation bedeckt, die zahlreiche seltene Orchideenarten und endemische Insekten beherbergt. Geologisch gesehen besteht der Berg aus uralten metamorphen Gesteinen, die Teil des Kongo-Kratons sind. Die Abgeschiedenheit des Mont Kounkou hat dazu beigetragen, dass die ursprünglichen Ökosysteme weitgehend intakt geblieben sind, was ihn zu einem wertvollen Forschungsstandort für Biologen macht. Für die umliegenden Dorfgemeinschaften ist der Berg nicht nur ein physischer Orientierungspunkt, sondern auch ein Ort tief verwurzelter Mythen und Legenden.",
       hu: "A Mont Kounkou egy jellegzetes magaslat a Közép-afrikai Köztársaság délkeleti részén, amely a régió sűrű trópusi esőerdői fölé magasodik. Az ország kevésbé kutatott területei közé tartozik, meredek, gyakran ködbe burkolózó csúcsai jellemzik. A hegy döntő szerepet játszik a helyi vízkörforgásban, mivel felfogja a Kongó-medence nedves légtömegeit, így egész évben bőséges csapadékot biztosít. A Mont Kounkou lejtőit rendkívül sűrű növényzet borítja, amely számos ritka orchideafajnak és endemikus rovarnak ad otthont. Geológiai szempontból a hegy ősi metamorf kőzetekből épül fel, amelyek a Kongó-kraton részét képezik. A Mont Kounkou elszigeteltsége hozzájárult ahhoz, hogy az eredeti ökoszisztémák nagyrészt érintetlenek maradtak, ami értékes kutatási helyszínné teszi a biológusok számára. A környező falusi közösségek számára a hegy nemcsak fizikai tájékozódási pont, hanem mélyen gyökerező mítoszok és legendák helyszíne is.",
@@ -408,7 +399,6 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Obo-erdő",
       ro: "Pădurea Obo",
       en: "Obo Forest"},
-    image: "/poi-images/obo-wald-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Obo-Wald ist ein ausgedehntes Ökosystem im äußersten Osten der Zentralafrikanischen Republik, das als Übergangszone zwischen dem dichten Kongowald und der nördlichen Savanne fungiert. Diese Region ist von immenser ökologischer Bedeutung, da sie einen Korridor für zahlreiche wandernde Tierarten darstellt, darunter Elefanten und verschiedene Primaten. Die Vegetation ist ein Mosaik aus Galeriewäldern entlang der Flüsse und offenen Waldsavannen, was eine einzigartige Artenvielfalt begünstigt. Geographisch liegt der Wald in der Nähe der Dreiländerecke zwischen CAR, dem Südsudan und der DR Kongo, was ihn zu einem strategisch wichtigen Punkt für den grenzüberschreitenden Naturschutz macht. Historisch war der Obo-Wald Schauplatz vieler Konflikte, blieb aber aufgrund seiner Unwegsamkeit ein wichtiges Rückzugsgebiet für die Tierwelt. Das Klima ist tropisch-feucht mit einer ausgeprägten Regenzeit, die die Flüsse anschwellen lässt und die Waldwege oft unpassierbar macht. Aktuelle wissenschaftliche Bemühungen konzentrieren sich auf die Kartierung der Flora, um bisher unbekannte Heilpflanzen zu katalogisieren.",
       hu: "Az Obo-erdő egy kiterjedt ökoszisztéma a Közép-afrikai Köztársaság legkeletibb részén, amely átmeneti zónaként szolgál a sűrű Kongó-erdő és az északi szavanna között. Ez a régió óriási ökológiai jelentőséggel bír, mivel folyosót biztosít számos vándorló állatfaj, köztük elefántok és különböző főemlősök számára. A növényzet a folyók menti galériaerdők és a nyílt erdős szavannák mozaikja, ami egyedülálló biológiai sokféleséget tesz lehetővé. Földrajzilag az erdő a Közép-afrikai Köztársaság, Dél-Szudán és a Kongói Demokratikus Köztársaság hármashatárának közelében fekszik, ami stratégiai ponttá teszi a határokon átnyúló természetvédelem számára. Történelmileg az Obo-erdő számos konfliktus helyszíne volt, de járhatatlansága miatt továbbra is fontos menedékhely maradt a vadvilág számára. Az éghajlat trópusi-párás, markáns esős évszakkal, amely megduzzasztja a folyókat, és az erdei utakat gyakran járhatatlanná teszi. A jelenlegi tudományos erőfeszítések a flóra térképezésére összpontosítanak, hogy katalogizálják a korábban ismeretlen gyógynövényeket.",
@@ -452,7 +442,6 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Gamboula-erdő",
       ro: "Pădurea Gamboula",
       en: "Gamboula Forest"},
-    image: "/poi-images/gamboula-wald-relief-v2.webp",
     description: {
       de: "Ein üppiger Galeriewald im Westen des Landes entlang der Grenze zu Kamerun.",
       hu: "Egy buja galériaerdő az ország nyugati részén, a kameruni határ mentén.",
@@ -548,7 +537,6 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont Kaga-Djir",
       ro: "Mont Kaga-Djir",
       en: "Mont Kaga-Djir"},
-    image: "/poi-images/mont-kaga-djir-relief-v2.webp",
     description: {
       de: "Ein markantes Felsmassiv in der Nähe von Kaga-Bandoro, das heilig für lokale Gemeinschaften ist.",
       hu: "Egy jellegzetes sziklamasszívum Kaga-Bandoro közelében, amely szent a helyi közösségek számára.",
@@ -596,7 +584,6 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Bimbo-erdő",
       ro: "Pădurea Bimbo",
       en: "Bimbo Forest"},
-    image: "/poi-images/bimbo-wald-relief-v2.webp",
     description: {
       de: "Ein Restbestand des tropischen Regenwaldes südlich der Hauptstadt Bangui.",
       hu: "A trópusi esőerdő maradványa Bangui fővárosától délre.",
@@ -644,7 +631,6 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont Kanza",
       ro: "Mont Kanza",
       en: "Mont Kanza"},
-    image: "/poi-images/mont-kanza-relief-v2.webp",
     description: {
       de: "Ein markanter Berg im Westen, der Teil der Hügelkette des Yadé-Massivs ist.",
       hu: "Egy jellegzetes hegy nyugaton, amely a Yadé-masszívum domborulatainak része.",
@@ -692,7 +678,6 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont Gbada",
       ro: "Mont Gbada",
       en: "Mont Gbada"},
-    image: "/poi-images/mont-gbada-relief-v2.webp",
     description: {
       de: "Ein isolierter Berg im Osten des Landes, bekannt für seine steilen Felswände.",
       hu: "Egy izolált hegy az ország keleti részén, amely meredek sziklafalairól ismert.",
@@ -788,7 +773,6 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont M'Poko",
       ro: "Mont M'Poko",
       en: "Mont M'Poko"},
-    image: "/poi-images/mont-mpoko-relief-v2.webp",
     description: {
       de: "Ein Berg im südlichen Zentralafrika, der der umliegenden Präfektur und dem Fluss seinen Namen leiht.",
       hu: "Hegy Közép-Afrika déli részén, amely a környező prefektúrának és folyónak is nevet ad.",
@@ -836,7 +820,6 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont Ali",
       ro: "Mont Ali",
       en: "Mont Ali"},
-    image: "/poi-images/mont-ali-relief-v2.webp",
     description: {
       de: "Ein markanter Gipfel in der Ouaka-Region, bekannt für seine weiten Savannenausblicke.",
       hu: "Egy jellegzetes csúcs az Ouaka régióban, amely széles szavannai kilátásairól ismert.",

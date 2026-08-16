@@ -813,7 +813,6 @@ export const poiExtraChileLandmarksV2: POI[] = [
       hu: "Torres del Paine",
       ro: "Torres del Paine",
       en: "Torres del Paine"},
-    image: "/poi-images/torres-del-paine-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Der Nationalpark Torres del Paine in der chilenischen Region Magallanes zählt zu den spektakulärsten Wildnisgebieten der Erde. Er wurde 1959 gegründet und im Jahr 1978 von der UNESCO zum Biosphärenreservat erklärt. Das unverkennbare Wahrzeichen des Parks sind die drei ikonischen Granitnadeln, die sogenannten „Torres“, die sich fast 2.500 Meter steil über den Meeresspiegel erheben. Die vielfältige Landschaft ist geprägt von türkisblauen Seen, gewaltigen Gletschern wie dem Grey-Gletscher und dem zerklüfteten Massiv der Cuernos del Paine. Das Klima ist extrem wechselhaft und oft von orkanartigen Winden geprägt, was die Erkundung der Region zu einer echten Herausforderung für Besucher macht. Der Park beherbergt eine reiche Flora und Fauna, darunter Guanakos, Pumas und den majestätischen Andenkondor. Für Wanderer bietet der Park weltberühmte Routen wie den „W“- oder den „O“-Trail, die durch weitgehend unberührte Natur führen. Torres del Paine gilt heute als das ultimative Ziel für Natur- und Abenteuertourismus in ganz Südamerika.",
       hu: "A chilei Magallanes régióban található Torres del Paine Nemzeti Park a világ egyik leglátványosabb vadonja. 1959-ben alapították, és 1978-ban az UNESCO bioszféra-rezervátummá nyilvánította a területet. A park jelképe a három ikonikus gránitcsúcs, a „Torres”, amelyek közel 2500 méterrel magasodnak meredeken a tengerszint fölé. A változatos tájat türkizkék tavak, hatalmas gleccserek, mint például a Grey-gleccser, és a Cuernos del Paine hegység masszívuma jellemzi. Az éghajlat rendkívül kiszámíthatatlan, gyakran erős szelek tépázzák a vidéket, ami a felfedezést igazi kihívássá teszi a látogatók számára. A park gazdag növény- és állatvilágnak ad otthont, többek között guanakóknak, pumáknak és a fenséges andoki kondornak. A túrázók számára a park olyan világhírű útvonalakat kínál, mint a „W” vagy az „O” túra, amelyek érintetlen természeti környezetben vezetnek. A Torres del Paine ma Dél-Amerika első számú célpontja a természetjárók számára.",
@@ -1408,7 +1407,6 @@ export const poiExtraChileLandmarksV2: POI[] = [
       hu: "La Portada",
       ro: "La Portada",
       en: "La Portada"},
-    image: "/poi-images/la-portada-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "La Portada ist ein markanter natürlicher Felsbogen an der Küste Chiles, etwa 18 Kilometer nördlich der Stadt Antofagasta. Diese beeindruckende geologische Formation entstand über Millionen von Jahren durch die kontinuierliche erosive Kraft des Pazifiks auf sedimentäres Gestein und fossile Muschelschichten. Der Bogen ist 43 Meter hoch, 70 Meter lang und 23 Meter breit und steht majestätisch im Ozean, umgeben von hohen Küstenklippen. Das Gebiet wurde 1990 zum Naturdenkmal erklärt, um die einzigartige Geologie und die hier lebenden Meeresvögel dauerhaft zu schützen. Besucher können von Aussichtspunkten an den Klippen aus das Zusammenspiel von Wind und Wasser beobachten, das die Struktur ständig weiter formt. La Portada beherbergt wichtige Kolonien von Guano-Tölpeln, Inka-Seeschwalben und gelegentlich auch bedrohten Humboldt-Pinguinen. Der Felsbogen gilt als eines der wichtigsten touristischen Wahrzeichen Nordchiles und ist ein Symbol für die dynamische Küstenlandschaft der Atacama-Region.",
       hu: "A La Portada egy jellegzetes természetes sziklakapu Chile partjainál, mintegy 18 kilométerre északra Antofagasta városától. Ez a lenyűgöző geológiai képződmény évmilliók alatt jött létre a Csendes-óceán üledékes kőzetekre és fosszilis kagylórétegekre gyakorolt folyamatos eróziós hatása következtében. A kapu 43 méter magas, 70 méter hosszú és 23 méter széles, fenségesen magasodik az óceánban, meredek tengerparti sziklafalakkal körülvéve. A területet 1990-ben természeti emlékművé nyilvánították az egyedülálló geológia és az itt fészkelő tengeri madarak védelme érdekében. A látogatók a sziklákon kialakított kilátópontokról figyelhetik meg a szél és a víz állandó játékát, amely folyamatosan formálja a szerkezetet. A La Portada fontos kolóniáknak ad otthont, többek között guano-szuláknak, inka cséreknek és alkalmanként veszélyeztetett Humboldt-pingvineknek. A sziklakapu Észak-Chile egyik legfontosabb jelképe.",
@@ -1571,7 +1569,6 @@ export const poiExtraChileLandmarksV2: POI[] = [
       hu: "Valle de la Luna",
       ro: "Valle de la Luna",
       en: "Valle de la Luna"},
-    image: "/poi-images/valle-de-la-luna-landmarks-v2.webp",
     description: {
       de: "Eine mondähnliche Wüstenlandschaft mit bizarren Fels- und Sandformationen nahe San Pedro de Atacama.",
       hu: "Holdbéli sivatagi táj bizarr szikla- és homokformációkkal San Pedro de Atacama közelében.",
@@ -1735,7 +1732,6 @@ export const poiExtraChileLandmarksV2: POI[] = [
       hu: "El Tatio gejzírek",
       ro: "Gheizerele El Tatio",
       en: "El Tatio Geysers"},
-    image: "/poi-images/gayser-del-tatio-landmarks-v2.webp",
     description: {
       de: "Das dritthöchste Geysirfeld der Welt, gelegen in den Anden in über 4.000 Metern Höhe.",
       hu: "A világ harmadik legmagasabban fekvő gejzír-mezője az Andokban, több mint 4000 méteres magasságban.",
@@ -2979,7 +2975,6 @@ export const poiExtraChileLandmarksV2: POI[] = [
       hu: "Cerro San Cristóbal",
       ro: "Cerro San Cristóbal",
       en: "Cerro San Cristóbal"},
-    image: "/poi-images/cerro-san-cristobal-landmarks-v2.webp",
     description: {
       de: "Ein markanter Hügel in Santiago mit einer Statue der Jungfrau Maria und einem Panoramablick über die Stadt.",
       hu: "Kiemelkedő domb Santiagóban, Szűz Mária-szoborral és panorámás kilátással a városra.",
@@ -3143,7 +3138,6 @@ export const poiExtraChileLandmarksV2: POI[] = [
       hu: "Chiloé-sziget",
       ro: "Insula Chiloé",
       en: "Chiloé Island"},
-    image: "/poi-images/isla-chiloe-landmarks-v2.webp",
     description: {
       de: "Eine kulturell einzigartige Insel, bekannt für ihre Holzkirchen und bunten Pfahlbauten.",
       hu: "Kulturálisan egyedülálló sziget, amely híres fatemplomairól és színes cölöpházairól.",
@@ -3487,7 +3481,6 @@ export const poiExtraChileLandmarksV2: POI[] = [
       hu: "Lauca Nemzeti Park",
       ro: "Parcul Național Lauca",
       en: "Lauca National Park"},
-    image: "/poi-images/parque-nacional-lauca-landmarks-v2.webp",
     description: {
       de: "Ein beeindruckender Nationalpark in den Hochanden mit dem Chungará-See und vulkanischen Gipfeln.",
       hu: "Lélegzetelállító nemzeti park a magas Andokban, a Chungará-tóval és vulkáni csúcsokkal.",
@@ -4803,7 +4796,6 @@ export const poiExtraChileLandmarksV2: POI[] = [
       hu: "Valparaíso",
       ro: "Valparaíso",
       en: "Valparaíso"},
-    image: "/poi-images/valparaiso-landmarks-v2.webp",
     description: {
       de: "Eine farbenfrohe Hafenstadt, berühmt für ihre steilen Hügel, historischen Standseilbahnen und lebendige Straßenkunst.",
       hu: "Színpompás kikötőváros, amely híres meredek dombjairól, történelmi siklóiról és élénk utcai művészetéről.",
@@ -4895,7 +4887,6 @@ export const poiExtraChileLandmarksV2: POI[] = [
       hu: "San Rafael Lagúna",
       ro: "Laguna San Rafael",
       en: "Laguna San Rafael"},
-    image: "/poi-images/laguna-san-rafael-landmarks-v2.webp",
     description: {
       de: "Ein spektakulärer Nationalpark, der für seinen kalbenden Gletscher in die Lagune berühmt ist.",
       hu: "Lélegzetelállító nemzeti park, amely híres a lagúnába borjadzó gleccsereiről.",
@@ -5959,7 +5950,6 @@ export const poiExtraChileLandmarksV2: POI[] = [
       hu: "Parque Bicentenario",
       ro: "Parque Bicentenario",
       en: "Parque Bicentenario"},
-    image: "/poi-images/parque-bicentenario-landmarks-v2.webp",
     description: {
       de: "Ein moderner, weitläufiger Stadtpark in Vitacura, Santiago, mit künstlichen Seen und einer modernen Architektur.",
       hu: "Modern, kiterjedt városi park Vitacurában, Santiagóban, mesterséges tavakkal és modern építészettel.",

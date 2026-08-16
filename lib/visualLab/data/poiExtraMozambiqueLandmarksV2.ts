@@ -12,7 +12,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Maputói Városháza",
       ro: "Primăria din Maputo",
       en: "Maputo City Hall"},
-    image: "/poi-images/maputo-city-hall-landmarks-v2.webp",
     description: {
       de: "Ein markantes neoklassizistisches Gebäude im Herzen der Hauptstadt.",
       hu: "A főváros szívében található, feltűnő neoklasszikus épület.",
@@ -60,7 +59,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Vasház",
       ro: "Casa de Fier",
       en: "Iron House"},
-    image: "/poi-images/casa-de-ferro-landmarks-v2.webp",
     description: {
       de: "Ein komplett aus Eisenblechen gefertigtes Gebäude, entworfen von einem Schüler Gustave Eiffels.",
       hu: "Egy teljes egészében vaslemezekből készült épület, amelyet Gustave Eiffel egyik tanítványa tervezett.",
@@ -225,7 +223,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Maputói erőd",
       ro: "Fortăreața din Maputo",
       en: "Fortaleza de Maputo"},
-    image: "/poi-images/fortaleza-de-maputo-landmarks-v2.webp",
     description: {
       de: "Eine historische portugiesische Festungsanlage an der Bucht von Maputo.",
       hu: "Történelmi portugál erődítmény a Maputo-öböl partján.",
@@ -354,7 +351,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "A mozambiki nő emlékműve",
       ro: "Monumentul Femeii Mozambicane",
       en: "Monument to the Mozambican Woman"},
-    image: "/poi-images/monument-mozambican-woman-landmarks-v2.webp",
     description: {
       de: "Ein Denkmal zur Ehrung der Rolle der Frauen in der mosambikanischen Gesellschaft und Geschichte.",
       hu: "A nők mozambiki társadalomban és történelemben betöltött szerepét ünneplő emlékmű.",
@@ -447,7 +443,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Samora Machel szobra",
       ro: "Statuia lui Samora Machel",
       en: "Samora Machel Statue"},
-    image: "/poi-images/samora-machel-statue-landmarks-v2.webp",
     description: {
       de: "Eine monumentale Bronzestatue des ersten Präsidenten des unabhängigen Mosambiks.",
       hu: "A független Mozambik első elnökének monumentális bronzszobra.",
@@ -576,7 +571,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Mozambiki Hősök Tere",
       ro: "Piața Eroilor Mozambicani",
       en: "Praça dos Heróis Moçambicanos"},
-    image: "/poi-images/praca-dos-herois-landmarks-v2.webp",
     description: {
       de: "Ein zentraler Platz in Maputo mit einem großen sternförmigen Denkmal für die Unabhängigkeitskämpfer.",
       hu: "Központi tér Maputóban, amely a függetlenségi harcosok csillag alakú emlékművéről ismert.",
@@ -669,7 +663,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Tunduru Kertek pavilonja",
       ro: "Pavilionul Grădinilor Tunduru",
       en: "Tunduru Botanical Gardens Gates"},
-    image: "/poi-images/tunduru-botanical-gardens-gates-landmarks-v2.webp",
     description: {
       de: "Das markante Eingangstor und der historische Pavillon des zentralen botanischen Gartens in Maputo.",
       hu: "A maputói központi botanikus kert lenyűgöző bejárata és történelmi pavilonja.",
@@ -717,7 +710,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Maputo-Katembe híd",
       ro: "Podul Maputo-Katembe",
       en: "Maputo-Katembe Bridge"},
-    image: "/poi-images/maputo-katembe-bridge-landmarks-v2.webp",
     description: {
       de: "Die längste Hängebrücke Afrikas, die die Bucht von Maputo überspannt.",
       hu: "Afrika leghosszabb függőhídja, amely a Maputo-öblöt íveli át.",
@@ -765,7 +757,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Beira vasútállomás",
       ro: "Gara din Beira",
       en: "Beira Railway Station"},
-    image: "/poi-images/beira-railway-station-landmarks-v2.webp",
     description: {
       de: "Ein architektonisch bedeutender modernisierter Bahnhof in der Hafenstadt Beira.",
       hu: "Egy építészetileg jelentős, modernista vasútállomás a kikötővárosban, Beirában.",
@@ -813,7 +804,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Grande Hotel Beira",
       ro: "Grande Hotel Beira",
       en: "Grande Hotel Beira"},
-    image: "/poi-images/grande-hotel-beira-landmarks-v2.webp",
     description: {
       de: "Die Ruine eines einst luxuriösen Art-déco-Hotels, das heute von tausenden Menschen bewohnt wird.",
       hu: "Egy egykor fényűző art deco szálloda romja, amely ma több ezer ember lakhelye.",
@@ -906,7 +896,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Beirai katedrális",
       ro: "Catedrala din Beira",
       en: "Cathedral of Beira"},
-    image: "/poi-images/cathedral-of-beira-landmarks-v2.webp",
     description: {
       de: "Eine römisch-katholische Kirche, die für ihre auffällige moderne Architektur bekannt ist.",
       hu: "Római katolikus templom, amely a feltűnő modern építészetéről ismert.",
@@ -999,7 +988,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "São Sebastião erőd",
       ro: "Fortăreața São Sebastião",
       en: "Fortaleza de São Sebastião"},
-    image: "/poi-images/fortaleza-sao-sebastiao-landmarks-v2.webp",
     description: {
       de: "Eine massive portugiesische Verteidigungsanlage auf der Ilha de Moçambique.",
       hu: "Masszív portugál védelmi építmény az Ilha de Moçambique szigetén.",
@@ -1047,7 +1035,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "São Paulo-palota",
       ro: "Palatul São Paulo",
       en: "Palácio de São Paulo"},
-    image: "/poi-images/palacio-sao-paulo-landmarks-v2.webp",
     description: {
       de: "Ein ehemaliges Jesuitenkolleg, das später als Palast der portugiesischen Gouverneure diente.",
       hu: "Egykori jezsuita kollégium, amely később a portugál kormányzók palotájaként szolgált.",
@@ -1140,7 +1127,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "São João de Deus Kórház",
       ro: "Spitalul São João de Deus",
       en: "Hospital de São João de Deus"},
-    image: "/poi-images/hospital-sao-joao-deus-landmarks-v2.webp",
     description: {
       de: "Ein monumentales historisches Krankenhausgebäude auf der Ilha de Moçambique.",
       hu: "Monumentális történelmi kórházépület az Ilha de Moçambique szigeten.",
@@ -1188,7 +1174,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Inhambane központi mecset",
       ro: "Moscheea Centrală din Inhambane",
       en: "Inhambane Central Mosque"},
-    image: "/poi-images/inhambane-central-mosque-landmarks-v2.webp",
     description: {
       de: "Die wichtigste Moschee der Küstenstadt Inhambane, die vom starken islamischen Einfluss in der Region zeugt.",
       hu: "Inhambane partvidéki városának legfőbb mecsete, amely az iszlám hatásról tanúskodik a térségben.",
@@ -1236,7 +1221,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "São João Baptista do Ibo erőd",
       ro: "Fortăreața São João Baptista do Ibo",
       en: "Fortaleza de São João Baptista do Ibo"},
-    image: "/poi-images/fortaleza-sao-joao-baptista-ibo-landmarks-v2.webp",
     description: {
       de: "Ein sternförmiges historisches Fort auf der Ilha do Ibo im Quirimbas-Archipel.",
       hu: "Csillag alakú történelmi erőd a Quirimbas-szigetcsoporthoz tartozó Ilha do Ibo szigeten.",
@@ -1365,7 +1349,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Santo António erőd",
       ro: "Fortăreața Santo António",
       en: "Forte de Santo António"},
-    image: "/poi-images/forte-de-santo-antonio-ibo-landmarks-v2.webp",
     description: {
       de: "Eine kleinere Verteidigungsstruktur an der Küste der historischen Ibo-Insel.",
       hu: "Kisebb védelmi építmény a történelmi Ibo-sziget partján.",
@@ -1413,7 +1396,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Armando Emílio Guebuza híd",
       ro: "Podul Armando Emílio Guebuza",
       en: "Armando Emílio Guebuza Bridge"},
-    image: "/poi-images/armando-emilio-guebuza-bridge-landmarks-v2.webp",
     description: {
       de: "Eine der längsten Brücken Afrikas, die den Sambesi-Fluss überspannt und Nord- mit Südmosambik verbindet.",
       hu: "Afrika egyik leghosszabb hídja, amely a Zambézi folyót íveli át, és összeköti Észak- és Dél-Mozambikot.",
@@ -1461,7 +1443,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Cahora Bassa-gát",
       ro: "Barajul Cahora Bassa",
       en: "Cahora Bassa Dam"},
-    image: "/poi-images/cahora-bassa-dam-landmarks-v2.webp",
     description: {
       de: "Eine der größten Talsperren der Welt und der wichtigste Staudamm zur Stromerzeugung im südlichen Afrika.",
       hu: "A világ egyik legnagyobb gátja és a legfontosabb áramtermelő létesítmény Dél-Afrikában.",
@@ -1509,7 +1490,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Massingir-gát",
       ro: "Barajul Massingir",
       en: "Massingir Dam"},
-    image: "/poi-images/massingir-dam-landmarks-v2.webp",
     description: {
       de: "Ein wichtiger Erddamm am Elefantenfluss, der für die Landwirtschaft in der Region entscheidend ist.",
       hu: "Fontos földgát az Elefánt-folyón, amely meghatározó szerepet játszik a térség mezőgazdaságában.",
@@ -1557,7 +1537,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Limpopo-híd",
       ro: "Podul Limpopo",
       en: "Limpopo Bridge"},
-    image: "/poi-images/limpopo-bridge-landmarks-v2.webp",
     description: {
       de: "Eine Hängebrücke, die in der Stadt Xai-Xai den wichtigen Limpopo-Fluss überquert.",
       hu: "Xai-Xai városában a jelentős Limpopo folyót átszelő függőhíd.",
@@ -1605,7 +1584,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Gil Vicente Színház",
       ro: "Teatrul Gil Vicente",
       en: "Gil Vicente Theatre"},
-    image: "/poi-images/gil-vicente-theatre-landmarks-v2.webp",
     description: {
       de: "Ein historisches Theater und Kino mit Art-déco-Einflüssen im Zentrum von Maputo.",
       hu: "Történelmi színház és mozi art deco elemekkel Maputo központjában.",
@@ -1653,7 +1631,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Mozambiki Nemzeti Könyvtár",
       ro: "Biblioteca Națională a Mozambicului",
       en: "National Library of Mozambique"},
-    image: "/poi-images/national-library-mozambique-landmarks-v2.webp",
     description: {
       de: "Das wichtigste Literaturarchiv des Landes und ein markantes koloniales Gebäude.",
       hu: "Az ország legfontosabb irodalmi archívuma és egy feltűnő gyarmati stílusú épület.",
@@ -1782,7 +1759,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Maputo központi piaca",
       ro: "Piața Centrală din Maputo",
       en: "Central Market Maputo"},
-    image: "/poi-images/central-market-maputo-landmarks-v2.webp",
     description: {
       de: "Ein lebhafter historischer Markt mit einer wunderschönen Eisenarchitektur aus der Kolonialzeit.",
       hu: "Nyüzsgő történelmi piac gyönyörű, gyarmati időkből származó vasépítészeti elemekkel.",
@@ -1947,7 +1923,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Művészeti Központ (Núcleo de Arte)",
       ro: "Nucleul de Artă (Núcleo de Arte)",
       en: "Nucleo de Arte"},
-    image: "/poi-images/nucleo-de-arte-landmarks-v2.webp",
     description: {
       de: "Ein einflussreiches Kunstzentrum, in dem lokale Künstler arbeiten und ihre Werke ausstellen.",
       hu: "Egy befolyásos művészeti központ, ahol helyi művészek alkotnak és kiállítanak.",
@@ -2112,7 +2087,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Xipamanine piac",
       ro: "Piața Xipamanine",
       en: "Xipamanine Market"},
-    image: "/poi-images/xipamanine-market-landmarks-v2.webp",
     description: {
       de: "Einer der größten und traditionellsten Open-Air-Märkte in Maputo.",
       hu: "Maputo egyik legnagyobb és leghagyományosabb szabadtéri piaca.",
@@ -2385,7 +2359,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "FEIMA Kézműves Piac",
       ro: "Piața de Artizanat FEIMA",
       en: "FEIMA Art Market"},
-    image: "/poi-images/feima-art-market-landmarks-v2.webp",
     description: {
       de: "Ein beliebter Markt für mosambikanisches Kunsthandwerk, Blumen und lokale Gastronomie.",
       hu: "Népszerű piac, amely mozambiki kézműves termékeket, virágokat és helyi ételeket kínál.",
@@ -2514,7 +2487,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Mozambiki Nemzeti Bank",
       ro: "Sediul Băncii Mozambicului",
       en: "Bank of Mozambique Headquarters"},
-    image: "/poi-images/banco-de-mocambique-landmarks-v2.webp",
     description: {
       de: "Ein markanter moderner Wolkenkratzer und das zentrale Finanzinstitut des Landes.",
       hu: "Egy modern, figyelemfelkeltő felhőkarcoló és az ország központi pénzintézete.",
@@ -2643,7 +2615,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       hu: "Zimpeto Nemzeti Stadion",
       ro: "Stadionul Național Zimpeto",
       en: "Estádio Nacional do Zimpeto"},
-    image: "/poi-images/zimpeto-stadium-landmarks-v2.webp",
     description: {
       de: "Das größte Sportstadion in Mosambik, das für verschiedene Sportveranstaltungen genutzt wird.",
       hu: "Mozambik legnagyobb sportstadionja, amelyet különféle sporteseményekre használnak.",

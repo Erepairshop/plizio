@@ -93,7 +93,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Hvaszong",
         ro: "Hwaseong",
         en: "Hwaseong"},
-    image: "/poi-images/hwaseong-city-cities-v2.webp",
     description: {
         de: "Eine schnell wachsende Stadt in der Provinz Gyeonggi mit einer Mischung aus Industriegebieten, landwirtschaftlichen Flächen und Wohngebieten.",
         hu: "Gyorsan növekvő város Gyeonggi tartományban, ipari, mezőgazdasági és lakóövezetek keverékével.",
@@ -186,7 +185,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Namjangdzsu",
         ro: "Namyangju",
         en: "Namyangju"},
-    image: "/poi-images/namyangju-city-cities-v2.webp",
     description: {
         de: "Eine Stadt östlich von Seoul, die für ihre landschaftliche Schönheit, historischen Stätten und als beliebter Drehort bekannt ist.",
         hu: "Szöultól keletre fekvő város, amely festői szépségéről, történelmi helyszíneiről és népszerű filmforgatási helyszínként ismert.",
@@ -495,7 +493,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Idzsongbu",
         ro: "Uijeongbu",
         en: "Uijeongbu"},
-    image: "/poi-images/uijeongbu-city-cities-v2.webp",
     description: {
         de: "Eine Satellitenstadt nördlich von Seoul, die historisch als wichtiger Militärstandort bekannt ist.",
         hu: "Szöultól északra fekvő alvóváros, amely történelmileg fontos katonai helyszínként ismert.",
@@ -1200,7 +1197,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Kvangmjong",
         ro: "Gwangmyeong",
         en: "Gwangmyeong"},
-    image: "/poi-images/gwangmyeong-city-cities-v2.webp",
     description: {
         de: "Eine Stadt in der Nähe von Seoul, die für die Gwangmyeong-Höhle, ein ehemaliges Bergwerk, das in einen Themenpark umgewandelt wurde, bekannt ist.",
         hu: "Szöulhoz közeli város, amely a Gwangmyeong-barlangról ismert, egy egykori bányáról, amelyet vidámparkká alakítottak át.",
@@ -1365,7 +1361,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Mokpho",
         ro: "Mokpo",
         en: "Mokpo"},
-    image: "/poi-images/mokpo-city-cities-v2.webp",
     description: {
         de: "Eine Hafenstadt in der Provinz Süd-Jeolla, die als Fährterminal zu den Inseln im Südwesten dient.",
         hu: "Kikötőváros Dél-Csolla tartományban, amely kompkikötőként szolgál a délnyugati szigetek felé.",
@@ -2106,7 +2101,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Joszu",
         ro: "Yeosu",
         en: "Yeosu"},
-    image: "/poi-images/yeosu-city-cities-v2.webp",
     description: {
         de: "Eine malerische Küstenstadt, die aus einer Halbinsel und über 300 Inseln besteht und Gastgeber der Expo 2012 war.",
         hu: "Festői tengerparti város, amely egy félszigetből és több mint 300 szigetből áll, és a 2012-es Expo házigazdája volt.",
@@ -2739,7 +2733,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Szuncshon",
         ro: "Suncheon",
         en: "Suncheon"},
-    image: "/poi-images/suncheon-city-cities-v2.webp",
     description: {
         de: "Bekannt als 'Öko-Hauptstadt' Koreas, berühmt für die Suncheonman-Bucht und ihre Gärten.",
         hu: "Korea 'öko-fővárosaként' ismert, híres a Suncheonman-öbölről és kertjeiről.",
@@ -3048,7 +3041,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Kjongdzsu",
         ro: "Gyeongju",
         en: "Gyeongju"},
-    image: "/poi-images/gyeongju-city-cities-v2.webp",
     description: {
         de: "Die ehemalige Hauptstadt des alten Silla-Königreichs, bekannt als 'das Museum ohne Mauern' wegen seiner Fülle an historischen Stätten.",
         hu: "Az ősi Silla királyság egykori fővárosa, amelyet 'falak nélküli múzeumnak' neveznek a történelmi helyszínek bősége miatt.",
@@ -3321,7 +3313,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Kodzse",
         ro: "Geoje",
         en: "Geoje"},
-    image: "/poi-images/geoje-city-cities-v2.webp",
     description: {
         de: "Eine Stadt auf der Insel Geoje, einem wichtigen Zentrum für den Schiffbau und ein beliebtes Touristenziel.",
         hu: "Város Kodzse szigetén, a hajógyártás fontos központja és népszerű turisztikai célpont.",
@@ -3594,7 +3585,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Kimpho",
         ro: "Gimpo",
         en: "Gimpo"},
-    image: "/poi-images/gimpo-city-cities-v2.webp",
     description: {
         de: "Eine Stadt nordwestlich von Seoul, die für den Gimpo International Airport bekannt ist, der hauptsächlich Inlandsflüge abwickelt.",
         hu: "Szöultól északnyugatra fekvő város, amely a főként belföldi járatokat kiszolgáló Gimpo nemzetközi repülőtérről ismert.",
@@ -4191,7 +4181,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Andong",
         ro: "Andong",
         en: "Andong"},
-    image: "/poi-images/andong-city-cities-v2.webp",
     description: {
         de: "Bekannt als die Hauptstadt der koreanischen Geisteskultur, berühmt für das Hahoe Folk Village und das Andong Mask Dance Festival.",
         hu: "A koreai szellemi kultúra fővárosaként ismert, híres a Hahoe népi faluról és az Andong maszkos táncfesztiválról.",
@@ -4752,7 +4741,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Szogüpho",
         ro: "Seogwipo",
         en: "Seogwipo"},
-    image: "/poi-images/seogwipo-city-cities-v2.webp",
     description: {
         de: "Die zweitgrößte Stadt auf der Insel Jeju, bekannt für ihre malerische Küste, Wasserfälle und mildes Klima.",
         hu: "Csedzsu sziget második legnagyobb városa, amely festői partvidékéről, vízeséseiről és enyhe éghajlatáról ismert.",
@@ -5169,7 +5157,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Icshon",
         ro: "Icheon",
         en: "Icheon"},
-    image: "/poi-images/icheon-city-cities-v2.webp",
     description: {
         de: "Eine Stadt, die für ihre Keramik, Reisfelder und heißen Quellen bekannt ist und als UNESCO-Stadt des Handwerks und der Volkskunst anerkannt ist.",
         hu: "Kerámiáiról, rizsföldjeiről és hőforrásairól ismert város, amelyet az UNESCO a kézművesség és a népművészet városaként ismer el.",
@@ -5604,7 +5591,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Kuri",
         ro: "Guri",
         en: "Guri"},
-    image: "/poi-images/guri-city-cities-v2.webp",
     description: {
         de: "Eine kleine Stadt östlich von Seoul, die an den Han-Fluss grenzt und für ihre historischen Stätten der Goguryeo-Ära bekannt ist.",
         hu: "Kisváros Szöultól keletre, a Han-folyó partján, a Goguryeo-korszak történelmi helyszíneiről ismert.",
@@ -6273,7 +6259,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Szokcsho",
         ro: "Sokcho",
         en: "Sokcho"},
-    image: "/poi-images/sokcho-city-cities-v2.webp",
     description: {
         de: "Eine Küstenstadt in der Nähe des Seoraksan-Nationalparks, ein beliebtes Ziel für Wanderer und Touristen.",
         hu: "Part menti város a Seoraksan Nemzeti Park közelében, népszerű célpont a túrázók és a turisták számára.",
@@ -6474,7 +6459,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Kimcshon",
         ro: "Gimcheon",
         en: "Gimcheon"},
-    image: "/poi-images/gimcheon-city-cities-v2.webp",
     description: {
         de: "Ein wichtiger Verkehrsknotenpunkt im Landesinneren, wo sich mehrere wichtige Autobahnen und Eisenbahnlinien kreuzen.",
         hu: "Fontos belföldi közlekedési csomópont, ahol több fontos autópálya és vasútvonal keresztezi egymást.",
@@ -6819,7 +6803,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Cshungdzsu",
         ro: "Chungju",
         en: "Chungju"},
-    image: "/poi-images/chungju-city-cities-v2.webp",
     description: {
         de: "Eine Stadt am Ufer des Namhan-Flusses, bekannt für den Chungju-See und das jährliche Welt-Kampfkunst-Festival.",
         hu: "Város a Namhan folyó partján, a Chungju-tóról és az éves Világ Harcművészeti Fesztiválról ismert.",
@@ -7056,7 +7039,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Jangszan",
         ro: "Yangsan",
         en: "Yangsan"},
-    image: "/poi-images/yangsan-city-cities-v2.webp",
     description: {
         de: "Eine schnell wachsende Stadt zwischen Busan und Ulsan, die sich zu einem wichtigen Wohn- und Industriezentrum entwickelt.",
         hu: "Gyorsan növekvő város Busan és Ulsan között, amely fontos lakó- és ipari központtá fejlődik.",
@@ -8301,7 +8283,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Szoszan",
         ro: "Seosan",
         en: "Seosan"},
-    image: "/poi-images/seosan-city-cities-v2.webp",
     description: {
         de: "Eine Stadt an der Westküste mit einem wichtigen Petrochemiekomplex und historischen Stätten aus dem Baekje-Königreich.",
         hu: "Város a nyugati parton, fontos petrolkémiai komplexummal és a Baekje királyság idejéből származó történelmi helyszínekkel.",
@@ -8502,7 +8483,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Tangdzsin",
         ro: "Dangjin",
         en: "Dangjin"},
-    image: "/poi-images/dangjin-city-cities-v2.webp",
     description: {
         de: "Eine Hafen- und Industriestadt an der Küste des Gelben Meeres, die für ihre Stahlindustrie und Landwirtschaft bekannt ist.",
         hu: "Kikötő- és ipari város a Sárga-tenger partján, acéliparáról és mezőgazdaságáról ismert.",
@@ -8631,7 +8611,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Csecshon",
         ro: "Jecheon",
         en: "Jecheon"},
-    image: "/poi-images/jecheon-city-cities-v2.webp",
     description: {
         de: "Eine Stadt, die von Seen und Bergen umgeben ist und als 'Heilende Stadt' für ihre Naturlandschaft und Filmtradition bekannt ist.",
         hu: "Tavakkal és hegyekkel körülvett város, amelyet 'gyógyító városnak' neveznek természeti tájai és filmes hagyományai miatt.",
@@ -9120,7 +9099,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Nadzsu",
         ro: "Naju",
         en: "Naju"},
-    image: "/poi-images/naju-city-cities-v2.webp",
     description: {
         de: "Eine historische Stadt, die einst das Zentrum der Region war und sich nun mit dem Naju Innovation City-Projekt neu erfindet.",
         hu: "Történelmi város, amely egykor a régió központja volt, és most a Naju Innovációs Város projekttel újítja meg magát.",
@@ -9321,7 +9299,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Kvangjang",
         ro: "Gwangyang",
         en: "Gwangyang"},
-    image: "/poi-images/gwangyang-city-cities-v2.webp",
     description: {
         de: "Eine große Industriestadt mit einem der verkehrsreichsten Seehäfen der Welt und einem großen Stahlwerk.",
         hu: "Nagy ipari város a világ egyik legforgalmasabb tengeri kikötőjével és egy nagy acélművel.",
@@ -9486,7 +9463,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Mungjong",
         ro: "Mungyeong",
         en: "Mungyeong"},
-    image: "/poi-images/mungyeong-city-cities-v2.webp",
     description: {
         de: "Eine Stadt, die für ihren historischen Gebirgspass Mungyeong Saejae und ihre Vergangenheit im Kohlebergbau bekannt ist.",
         hu: "Város, amely a történelmi Mungyeong Saejae hágóról és szénbányászati múltjáról ismert.",
@@ -9975,7 +9951,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Hanam",
         ro: "Hanam",
         en: "Hanam"},
-    image: "/poi-images/hanam-city-cities-v2.webp",
     description: {
         de: "Eine Stadt am Han-Fluss, die sich von einer landwirtschaftlichen Gemeinde zu einem beliebten Wohnvorort von Seoul entwickelt hat.",
         hu: "Város a Han-folyó mentén, amely mezőgazdasági közösségből Szöul népszerű lakónegyedévé fejlődött.",
@@ -10284,7 +10259,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Jongdzsu",
         ro: "Yeongju",
         en: "Yeongju"},
-    image: "/poi-images/yeongju-city-cities-v2.webp",
     description: {
         de: "Eine Stadt, die für ihre reiche konfuzianische Geschichte, den Buseoksa-Tempel und ihre Spezialität, den Ginseng, bekannt ist.",
         hu: "Város, amely gazdag konfuciánus történelméről, a Buseoksa templomról és specialitásáról, a ginzenről ismert.",
@@ -10917,7 +10891,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Thongjong",
         ro: "Tongyeong",
         en: "Tongyeong"},
-    image: "/poi-images/tongyeong-city-cities-v2.webp",
     description: {
         de: "Eine Küstenstadt, die als 'Neapel Koreas' bekannt ist und für ihre wunderschöne Hafenlandschaft und ihre Verbindungen zum Admiral Yi Sun-sin berühmt ist.",
         hu: "Part menti város, amelyet 'Korea Nápolyaként' ismernek, gyönyörű kikötői tájáról és Yi Sun-sin admirálishoz fűződő kapcsolatairól híres.",
@@ -10965,7 +10938,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
         hu: "Szacshon",
         ro: "Sacheon",
         en: "Sacheon"},
-    image: "/poi-images/sacheon-city-cities-v2.webp",
     description: {
         de: "Ein Zentrum der koreanischen Luft- und Raumfahrtindustrie und eine Küstenstadt mit einer malerischen Brücke, die die Insel Namhae verbindet.",
         hu: "A koreai repülőgép- és űripar központja, valamint egy tengerparti város festői híddal, amely Namhae szigetét köti össze.",

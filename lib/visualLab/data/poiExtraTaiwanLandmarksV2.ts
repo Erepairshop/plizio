@@ -665,7 +665,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     parent: "TW-TPE",
     coords: [121.5645, 25.0339],
     name: { de: "Taipei 101", hu: "Taipei 101", ro: "Taipei 101", en: "Taipei 101"},
-    image: "/poi-images/taipei-101-landmarks-v2.webp",
     description: {
       de: "Ein markanter Wolkenkratzer, der einst das höchste Gebäude der Welt war und durch sein pagodenähnliches Design besticht.",
       hu: "Egy ikonikus felhőkarcoló, amely egykor a világ legmagasabb épülete volt, és pagoda-szerű kialakításáról ismert.",
@@ -1654,7 +1653,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     parent: "TW-NAN",
     coords: [120.9231, 23.8516],
     name: { de: "Sonne-Mond-See", hu: "Nap-Hold-tó", ro: "Lacul Soarelui și Lunii", en: "Sun Moon Lake"},
-    image: "/poi-images/sun-moon-lake-landmarks-v2.webp",
     description: {
       de: "Der größte natürliche See in Taiwan, berühmt für seine malerische Landschaft und die reiche Kultur der Ureinwohner.",
       hu: "Tajvan legnagyobb természetes tava, amely festői tájáról és a helyi őslakosok gazdag kultúrájáról híres.",
@@ -3075,7 +3073,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     parent: "TW-HUA",
     coords: [121.5204, 24.1610],
     name: { de: "Taroko-Schlucht", hu: "Taroko-szurdok", ro: "Cheile Taroko", en: "Taroko Gorge"},
-    image: "/poi-images/taroko-gorge-landmarks-v2.webp",
     description: {
       de: "Eine beeindruckende Marmorschlucht, die durch den Liwu-Fluss geformt wurde und spektakuläre Wanderwege bietet.",
       hu: "Egy lenyűgöző márványszurdok, amelyet a Liwu-folyó alakított ki, és látványos túraútvonalakat kínál.",
@@ -3956,7 +3953,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     parent: "TW-NWT",
     coords: [121.6067, 25.2057],
     name: { de: "Yehliu-Geopark", hu: "Yehliu Geopark", ro: "Geoparcul Yehliu", en: "Yehliu Geopark"},
-    image: "/poi-images/yehliu-geopark-landmarks-v2.webp",
     description: {
       de: "Ein geologischer Park an der Nordküste, der für seine ungewöhnlichen Felsformationen berühmt ist.",
       hu: "Egy geológiai park az északi parton, amely szokatlan sziklaalakzatairól híres.",
@@ -5970,7 +5966,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     parent: "TW-TPE",
     coords: [121.5484, 25.1022],
     name: { de: "Nationales Palastmuseum", hu: "Nemzeti Palotamúzeum", ro: "Muzeul Național al Palatului", en: "National Palace Museum"},
-    image: "/poi-images/national-palace-museum-landmarks-v2.webp",
     description: {
       de: "Ein weltberühmtes Museum, das eine der größten Sammlungen an antiken chinesischen kaiserlichen Kunstwerken und Artefakten beherbergt.",
       hu: "Egy világhírű múzeum, amely az ókori kínai császári műkincsek és műtárgyak egyik legnagyobb gyűjteményének ad otthont.",
@@ -6671,7 +6666,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     parent: "TW-NWT",
     coords: [121.8447, 25.1098],
     name: { de: "Jiufen Alte Straße", hu: "Jiufen óvárosi utcája", ro: "Strada Veche din Jiufen", en: "Jiufen Old Street"},
-    image: "/poi-images/jiufen-old-street-landmarks-v2.webp",
     description: {
       de: "Eine charmante Bergstadt, die einst ein Zentrum des Goldbergbaus war und heute für ihre engen Gassen und traditionellen Teehäuser bekannt ist.",
       hu: "Egy bájos hegyi falu, amely egykor aranybányászati központ volt, ma pedig szűk sikátorairól és hagyományos teaházairól ismert.",
@@ -8128,7 +8122,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     parent: "TW-TPE",
     coords: [121.5247, 25.0878],
     name: { de: "Shilin-Nachtmarkt", hu: "Shilin éjszakai piac", ro: "Piața de noapte Shilin", en: "Shilin Night Market"},
-    image: "/poi-images/shilin-night-market-landmarks-v2.webp",
     description: {
       de: "Der größte und berühmteste Nachtmarkt in Taipeh, ein Zentrum für lokale Straßenküche und Einkäufe.",
       hu: "Tajpej legnagyobb és leghíresebb éjszakai piaca, a helyi utcai ételek és vásárlás központja.",
@@ -8505,7 +8498,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     parent: "TW-PIF",
     coords: [120.7963, 21.9475],
     name: { de: "Kenting-Nationalpark", hu: "Kenting Nemzeti Park", ro: "Parcul Național Kenting", en: "Kenting National Park"},
-    image: "/poi-images/kenting-national-park-landmarks-v2.webp",
     description: {
       de: "Ein beliebter Nationalpark an der Südspitze Taiwans, bekannt für seine weißen Sandstrände und tropisches Klima.",
       hu: "Egy népszerű nemzeti park Tajvan déli csücskén, amely fehér homokos strandjairól és trópusi éghajlatáról ismert.",
@@ -9386,7 +9378,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     parent: "TW-KHH",
     coords: [120.4461, 22.7554],
     name: { de: "Fo Guang Shan Buddha Museum", hu: "Fo Guang Shan Buddha Múzeum", ro: "Muzeul Buddha Fo Guang Shan", en: "Fo Guang Shan Buddha Museum"},
-    image: "/poi-images/fo-guang-shan-buddha-museum-landmarks-v2.webp",
     description: {
       de: "Eine riesige buddhistische Tempelanlage und ein Museum, das eine bedeutende Zahnreliquie des historischen Buddha beherbergt.",
       hu: "Egy hatalmas buddhista templomkomplexum és múzeum, amely a történelmi Buddha egyik jelentős fogereklyéjének ad otthont.",
@@ -10051,7 +10042,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     parent: "TW-KHH",
     coords: [120.2941, 22.6823],
     name: { de: "Drachen- und Tigerpagoden", hu: "Sárkány és Tigris Pagodák", ro: "Pagodele Dragonului și Tigrului", en: "Dragon and Tiger Pagodas"},
-    image: "/poi-images/dragon-tiger-pagodas-landmarks-v2.webp",
     description: {
       de: "Zwei bunte, siebenstöckige Pagoden am Lotusteich, bei denen man durch das Maul eines Drachen hinein- und das eines Tigers hinausgeht, um Glück zu bringen.",
       hu: "Két színes, hétemeletes pagoda a Lótusz-tónál, ahol egy sárkány száján keresztül megyünk be és egy tigrisén ki, hogy szerencsét hozzon.",
@@ -11184,7 +11174,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     parent: "TW-TXG",
     coords: [120.6105, 24.1337],
     name: { de: "Regenbogen-Dorf", hu: "Szivárványfalu", ro: "Satul Curcubeului", en: "Rainbow Village"},
-    image: "/poi-images/rainbow-village-landmarks-v2.webp",
     description: {
       de: "Eine ehemalige Militärsiedlung in Taichung, die von einem Veteranen mit leuchtenden, bunten Wandmalereien vor dem Abriss gerettet wurde.",
       hu: "Egykori katonai település Tajcsungban, amelyet egy veterán ragyogó, színes falfestményekkel mentett meg a lebontástól.",
@@ -12065,7 +12054,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     parent: "TW-KHH",
     coords: [120.2818, 22.6198],
     name: { de: "Pier-2 Kunstzentrum", hu: "Pier-2 Művészeti Központ", ro: "Centrul de Artă Pier-2", en: "Pier-2 Art Center"},
-    image: "/poi-images/pier-2-art-center-landmarks-v2.webp",
     description: {
       de: "Ehemalige verlassene Lagerhäuser in Kaohsiung, die zu einem pulsierenden Zentrum für moderne Kunst und Design umgewandelt wurden.",
       hu: "Egykori elhagyatott raktárak Kaohsziungban, amelyeket a modern művészet és design pezsgő központjává alakítottak át.",
@@ -13054,7 +13042,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     parent: "TW-TPE",
     coords: [121.5772, 25.0507],
     name: { de: "Raohe-Nachtmarkt", hu: "Raohe éjszakai piac", ro: "Piața de noapte Raohe", en: "Raohe Street Night Market"},
-    image: "/poi-images/raohe-night-market-landmarks-v2.webp",
     description: {
       de: "Einer der ältesten Nachtmärkte in Taipeh, bekannt für seine traditionellen Gerichte und das imposante Tor am Eingang.",
       hu: "Tajpej egyik legrégebbi éjszakai piaca, amely hagyományos ételeiről és a bejáratnál lévő impozáns kapuról ismert.",
@@ -13611,7 +13598,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     parent: "TW-TPE",
     coords: [121.5746, 25.0272],
     name: { de: "Elefantenberg", hu: "Elefánt-hegy", ro: "Muntele Elefant", en: "Elephant Mountain"},
-    image: "/poi-images/elephant-mountain-landmarks-v2.webp",
     description: {
       de: "Ein steiler Hügel nahe dem Zentrum von Taipeh, der einen der besten Ausblicke auf den Taipei 101 und die Skyline der Stadt bietet.",
       hu: "Egy meredek domb Tajpej központja közelében, amely az egyik legjobb kilátást nyújtja a Taipei 101-re és a város sziluettjére.",
@@ -14744,7 +14730,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     parent: "TW-KHH",
     coords: [120.2952, 22.6824],
     name: { de: "Lotusteich", hu: "Lótusz-tó", ro: "Iazul de Lotus", en: "Lotus Pond"},
-    image: "/poi-images/lotus-pond-landmarks-v2.webp",
     description: {
       de: "Ein künstlicher See in Kaohsiung, der von zahlreichen farbenfrohen Tempeln, Pavillons und Statuen umgeben ist.",
       hu: "Egy mesterséges tó Kaohsziungban, amelyet számos színes templom, pavilon és szobor vesz körül.",
@@ -16201,7 +16186,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     parent: "TW-TPE",
     coords: [121.5901, 24.9686],
     name: { de: "Maokong-Gondelbahn", hu: "Maokong felvonó", ro: "Telegondola Maokong", en: "Maokong Gondola"},
-    image: "/poi-images/maokong-gondola-landmarks-v2.webp",
     description: {
       de: "Ein Seilbahnsystem in Taipeh, das Besucher hinauf in die Teeanbaugebiete von Maokong bringt, wo es viele traditionelle Teehäuser gibt.",
       hu: "Egy drótkötélpályás felvonó Tajpejben, amely felviszi a látogatókat Maokong teatermő vidékeire, ahol sok hagyományos teaház található.",
@@ -16542,7 +16526,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     parent: "TW-TNN",
     coords: [120.2263, 22.9348],
     name: { de: "Chimei Museum", hu: "Chimei Múzeum", ro: "Muzeul Chimei", en: "Chimei Museum"},
-    image: "/poi-images/chimei-museum-landmarks-v2.webp",
     description: {
       de: "Ein beeindruckendes privates Museum in Tainan, das europäische Kunst, Musikinstrumente, historische Waffen und Naturgeschichte ausstellt.",
       hu: "Egy lenyűgöző magánmúzeum Tajnanban, amely európai művészetet, hangszereket, történelmi fegyvereket és természettudományi kiállításokat mutat be.",
@@ -17279,7 +17262,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     parent: "TW-TPE",
     coords: [121.5541, 25.1581],
     name: { de: "Yangmingshan-Nationalpark", hu: "Yangmingshan Nemzeti Park", ro: "Parcul Național Yangmingshan", en: "Yangmingshan National Park"},
-    image: "/poi-images/yangmingshan-national-park-landmarks-v2.webp",
     description: {
       de: "Ein vulkanischer Nationalpark direkt vor den Toren Taipehs, bekannt für seine heißen Quellen, Fumarolen und im Frühling blühenden Kirschblüten.",
       hu: "Egy vulkanikus nemzeti park közvetlenül Tajpej mellett, amely híres hőforrásairól, fumaroláiról és tavasszal nyíló cseresznyevirágairól.",

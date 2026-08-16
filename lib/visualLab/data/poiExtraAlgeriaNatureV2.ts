@@ -8,7 +8,6 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     parent: "DZ-01",
     coords: [1.0, 34.0],
     name: { de: "Atlasgebirge", hu: "Atlasz-hegység", ro: "Munții Atlas", en: "Atlas Mountains"},
-    image: "/poi-images/atlas-mountains-nature-v2.webp",
     description: { de: "Ein bedeutendes Gebirgssystem in Nordafrika.", hu: "Jelentős hegyrendszer Észak-Afrikában.", ro: "Un sistem muntos important din Africa de Nord.", en: "A major mountain range in North Africa." , es: "Un importante sistema montañoso en el norte de África.", pt: "Um importante sistema montanhoso no Norte da África.", fr: "Un système montagneux majeur en Afrique du Nord."},
     facts: {
       de: ["Erstreckt sich über drei Länder.", "Höchster Punkt ist der Toubkal."],
@@ -43,7 +42,6 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     parent: "DZ-39",
     coords: [6.33, 34.25],
     name: { de: "Chott Melrhir", hu: "Chott Melrhir", ro: "Chott Melrhir", en: "Chott Melrhir"},
-    image: "/poi-images/chott-melrhir-nature-v2.webp",
     description: { de: "Ein großer endorheischer Salzsee.", hu: "Algéria legnagyobb sós tava, amely a Szahara szélén található, fontos madárélőhely.", ro: "Chott Melrhir este cel mai mare lac sărat endoreic din Algeria, situat într-o depresiune aridă.", en: "A large endorheic salt lake." , es: "Un gran lago salado endorreico.", pt: "Um grande lago salgado endorreico.", fr: "Un grand lac salé endoréique."},
     facts: {
       de: ["Liegt unter dem Meeresspiegel.", "Saisonaler See."],

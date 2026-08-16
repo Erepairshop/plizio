@@ -305,7 +305,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     parent: "TL-VI",
     coords: [126.2000, -8.6000],
     name: { de: "Berg Builo", hu: "Builo-hegy", ro: "Muntele Builo", en: "Mount Builo"},
-    image: "/poi-images/mount-builo-relief-v2.webp",
     description: {
       de: "Ein markanter Berg im Bezirk Viqueque, bekannt für seine raue Landschaft und unberührte Natur.",
       hu: "Egy kiemelkedő hegy Viqueque körzetében, amely zord tájairól és érintetlen természetéről ismert.",
@@ -502,7 +501,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     parent: "TL-DI",
     coords: [125.5500, -8.2600],
     name: { de: "Berg Manucoco", hu: "Manucoco-hegy", ro: "Muntele Manucoco", en: "Mount Manucoco"},
-    image: "/poi-images/mount-manucoco-relief-v2.webp",
     description: {
       de: "Die höchste Erhebung auf der Insel Atauro, die atemberaubende Ausblicke auf das Meer bietet.",
       hu: "Atauro szigetének legmagasabb pontja, ahonnan lélegzetelállító kilátás nyílik a környező tengerre.",
@@ -1311,7 +1309,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     parent: "TL-BO",
     coords: [125.1000, -9.0000],
     name: { de: "Berg Legumau", hu: "Legumau-hegy", ro: "Muntele Legumau", en: "Mount Legumau"},
-    image: "/poi-images/mount-legumau-relief-v2.webp",
     description: {
       de: "Ein steiler Berggipfel im Westen von Timor-Leste, nahe der indonesischen Grenze.",
       hu: "Meredek hegycsúcs Timor-Leste nyugati részén, az indonéz határ közelében.",
@@ -1400,7 +1397,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     parent: "TL-BA",
     coords: [126.4000, -8.4500],
     name: { de: "Baucau-Plateau", hu: "Baucau-fennsík", ro: "Platoul Baucau", en: "Baucau Plateau"},
-    image: "/poi-images/baucau-plateau-relief-v2.webp",
     description: {
       de: "Eine ausgedehnte Kalksteinhochebene, auf der die zweitgrößte Stadt des Landes liegt.",
       hu: "Kiterjedt mészkőfennsík, amelyen az ország második legnagyobb városa terül el.",
@@ -1525,7 +1521,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     parent: "TL-LA",
     coords: [126.9000, -8.4000],
     name: { de: "Fuiloro-Plateau", hu: "Fuiloro-fennsík", ro: "Platoul Fuiloro", en: "Fuiloro Plateau"},
-    image: "/poi-images/fuiloro-plateau-relief-v2.webp",
     description: {
       de: "Eine der größten Hochebenen im Osten des Landes, bekannt für ihre weiten Graslandschaften.",
       hu: "Az ország keleti részének egyik legnagyobb fennsíkja, amely tágas füves pusztáiról híres.",
@@ -1614,7 +1609,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     parent: "TL-LA",
     coords: [127.1600, -8.5000],
     name: { de: "Berg Paitchau", hu: "Paitchau-hegy", ro: "Muntele Paitchau", en: "Mount Paitchau"},
-    image: "/poi-images/mount-paitchau-relief-v2.webp",
     description: {
       de: "Ein isoliertes Bergmassiv nahe dem Ira-Lalaro-See im Nino Konis Santana Nationalpark.",
       hu: "Egy elszigetelt hegymasszívum az Ira Lalaro-tó közelében, a Nino Konis Santana Nemzeti Parkban.",
@@ -1775,7 +1769,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     parent: "TL-VI",
     coords: [126.4000, -8.7000],
     name: { de: "Berg Bibileo", hu: "Bibileo-hegy", ro: "Muntele Bibileo", en: "Mount Bibileo"},
-    image: "/poi-images/mount-bibileo-relief-v2.webp",
     description: {
       de: "Ein markanter Berg im Süden des Landes, der von unberührten tropischen Wäldern umgeben ist.",
       hu: "Kiemelkedő hegy az ország déli részén, amelyet érintetlen trópusi erdők vesznek körül.",
@@ -1900,7 +1893,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     parent: "TL-MA",
     coords: [125.9000, -8.7000],
     name: { de: "Berg Diatuto", hu: "Diatuto-hegy", ro: "Muntele Diatuto", en: "Mount Diatuto"},
-    image: "/poi-images/mount-diatuto-relief-v2.webp",
     description: {
       de: "Ein wichtiger Berg für die Wasserversorgung der Region, dessen Hänge steil ins Tal abfallen.",
       hu: "A régió vízellátása szempontjából fontos hegy, melynek lejtői meredeken hullanak a völgybe.",
@@ -2186,7 +2178,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     parent: "TL-LA",
     coords: [127.0600, -8.3500],
     name: { de: "Küste von Com", hu: "Com-partvidék", ro: "Coasta Com", en: "Com Coast"},
-    image: "/poi-images/com-coast-relief-v2.webp",
     description: {
       de: "Eine malerische Küstenlinie im äußersten Osten, die weiße Sandstrände und Korallenriffe bietet.",
       hu: "Festői partvidék a legkeletibb részen, amely fehér homokos strandokat és korallzátonyokat kínál.",
@@ -2419,7 +2410,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     parent: "TL-DI",
     coords: [125.6100, -8.5300],
     name: { de: "Küste von Areia Branca", hu: "Areia Branca-partvidék", ro: "Coasta Areia Branca", en: "Areia Branca Coast"},
-    image: "/poi-images/areia-branca-coast-relief-v2.webp",
     description: {
       de: "Ein sichelförmiger Küstenabschnitt in Dili, der durch ruhiges, kristallklares Wasser besticht.",
       hu: "Félhold alakú partszakasz Diliben, amely nyugodt, kristálytiszta vizével varázsol el.",
@@ -2616,7 +2606,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     parent: "TL-BO",
     coords: [125.2100, -8.9900],
     name: { de: "Maliana-Tal", hu: "Maliana-völgy", ro: "Valea Maliana", en: "Maliana Valley"},
-    image: "/poi-images/maliana-valley-relief-v2.webp",
     description: {
       de: "Ein breites, fruchtbares Tal nahe der Grenze zu Indonesien, ideal für den Reisanbau.",
       hu: "Széles, termékeny völgy az indonéz határ közelében, amely ideális a rizstermesztésre.",
@@ -2660,7 +2649,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     parent: "TL-VI",
     coords: [126.3700, -8.7300],
     name: { de: "Ossu-Tal", hu: "Ossu-völgy", ro: "Valea Ossu", en: "Ossu Valley"},
-    image: "/poi-images/ossu-valley-relief-v2.webp",
     description: {
       de: "Ein tief eingeschnittenes Tal, das von den Gipfeln des Mundo Perdido überragt wird.",
       hu: "Mélyen bevágódott völgy, amely fölé a Mundo Perdido csúcsai magasodnak.",
@@ -2749,7 +2737,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     parent: "TL-DI",
     coords: [125.6300, -8.5200],
     name: { de: "Küste von Dolok Oan", hu: "Dolok Oan-partvidék", ro: "Coasta Dolok Oan", en: "Dolok Oan Coast"},
-    image: "/poi-images/dolok-oan-coast-relief-v2.webp",
     description: {
       de: "Ein malerischer Küstenstreifen hinter dem Cristo Rei, bekannt für seinen feinen Sand.",
       hu: "Festői partszakasz a Cristo Rei mögött, amely finom homokjáról ismert.",
@@ -2874,7 +2861,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     parent: "TL-BA",
     coords: [126.6000, -8.4000],
     name: { de: "Küste von Laga", hu: "Laga-partvidék", ro: "Coasta Laga", en: "Laga Coast"},
-    image: "/poi-images/laga-coast-relief-v2.webp",
     description: {
       de: "Die nördliche Küste bei Laga bietet unberührte Strände und faszinierende Salinen.",
       hu: "Az északi part Laga közelében érintetlen strandokat és lenyűgöző sólepárlókat kínál.",
@@ -3071,7 +3057,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     parent: "TL-BO",
     coords: [125.1000, -8.9000],
     name: { de: "Berg Tapo", hu: "Tapo-hegy", ro: "Muntele Tapo", en: "Mount Tapo"},
-    image: "/poi-images/mount-tapo-relief-v2.webp",
     description: {
       de: "Ein bewaldeter Berg im Westen, der Schutz für verschiedene seltene Tierarten bietet.",
       hu: "Erdős hegy nyugaton, amely menedéket nyújt számos ritka állatfajnak.",
@@ -3115,7 +3100,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     parent: "TL-VI",
     coords: [126.2000, -8.7000],
     name: { de: "Berg Lari Guto", hu: "Lari Guto-hegy", ro: "Muntele Lari Guto", en: "Mount Lari Guto"},
-    image: "/poi-images/mount-lari-guto-relief-v2.webp",
     description: {
       de: "Ein markanter Felsrücken in Zentral-Timor, der durch starke Erosion geformt wurde.",
       hu: "Egy feltűnő sziklagerinc Közép-Timoron, amelyet erős erózió formált.",
@@ -3159,7 +3143,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     parent: "TL-MA",
     coords: [125.7000, -9.1000],
     name: { de: "Küste von Betano", hu: "Betano-partvidék", ro: "Coasta Betano", en: "Betano Coast"},
-    image: "/poi-images/betano-coast-relief-v2.webp",
     description: {
       de: "Ein offener und wilder Küstenstreifen an der Timorsee mit markanten schwarzen Sandstränden.",
       hu: "Nyitott és vad partszakasz a Timor-tengernél, fekete homokos strandjaival.",
@@ -3203,7 +3186,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     parent: "TL-LA",
     coords: [127.0000, -8.6000],
     name: { de: "Küste von Lore", hu: "Lore-partvidék", ro: "Coasta Lore", en: "Lore Coast"},
-    image: "/poi-images/lore-coast-relief-v2.webp",
     description: {
       de: "Eine entlegene und ungezähmte Küste am südöstlichen Rand, reich an mariner Biodiversität.",
       hu: "Távoli és szelídítetlen partszakasz a délkeleti peremen, gazdag tengeri biodiverzitással.",

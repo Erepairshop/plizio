@@ -89,7 +89,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     parent: "TL-LA",
     coords: [127.3236, -8.4278],
     name: { de: "Jaco", hu: "Jaco-sziget", ro: "Insula Jaco", en: "Jaco Island"},
-    image: "/poi-images/jaco-island-landmarks-v2.webp",
     description: { de: "Eine unbewohnte, heilige Insel am östlichsten Punkt von Timor-Leste mit weißen Sandstränden.", hu: "Egy lakatlan, szent sziget Kelet-Timor legkeletibb pontján, fehér homokos partokkal.", ro: "O insulă sacră nelocuită din cel mai estic punct al Timorului de Est, cu plaje cu nisip alb.", en: "An uninhabited, sacred island at the easternmost point of Timor-Leste with white sandy beaches." , es: "Una isla sagrada e inhabitada en el punto más oriental de Timor Oriental con playas de arena blanca.", pt: "Uma ilha sagrada e desabitada no ponto mais oriental de Timor-Leste com praias de areia branca.", fr: "Une île sacrée et inhabitée au point le plus à l'est du Timor oriental avec des plages de sable blanc."},
     facts: {
       de: ["Das Übernachten auf der Insel ist streng verboten.", "Die Gewässer sind Teil des Konis Santana Nationalparks."],
@@ -206,7 +205,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     parent: "TL-AN",
     coords: [125.4925, -8.9056],
     name: { de: "Marienstatue auf dem Tatamailau", hu: "Mária-szobor a Tatamailau hegyen", ro: "Statuia Fecioarei Maria de pe Tatamailau", en: "Virgin Mary Statue on Mount Ramelau"},
-    image: "/poi-images/tatamailau-statue-landmarks-v2.webp",
     description: { de: "Eine weiße Alabasterstatue der Jungfrau Maria, die auf dem höchsten Gipfel des Landes thront.", hu: "Szűz Mária fehér alabástrom szobra, amely az ország legmagasabb csúcsán trónol.", ro: "O statuie din alabastru alb a Fecioarei Maria, situată pe cel mai înalt vârf din țară.", en: "A white alabaster statue of the Virgin Mary perched on the highest peak of the country." , es: "Una estatua de alabastro blanco de la Virgen María que se alza sobre el pico más alto del país.", pt: "Uma estátua de alabastro branco da Virgem Maria que se ergue no pico mais alto do país.", fr: "Une statue en albâtre blanc de la Vierge Marie qui trône sur le plus haut sommet du pays."},
     facts: {
       de: ["Die Statue wurde 1997 aufgestellt.", "Sie wurde aus Italien importiert."],
@@ -287,7 +285,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     parent: "TL-LA",
     coords: [127.1667, -8.4167],
     name: { de: "Nino Konis Santana Nationalpark", hu: "Nino Konis Santana Nemzeti Park", ro: "Parcul Național Nino Konis Santana", en: "Nino Konis Santana National Park"},
-    image: "/poi-images/nino-konis-santana-landmarks-v2.webp",
     description: { de: "Der erste Nationalpark des Landes, der eine reiche Biodiversität und wichtige Meereslebensräume schützt.", hu: "Az ország első nemzeti parkja, amely gazdag biodiverzitást és fontos tengeri élőhelyeket véd.", ro: "Primul parc național al țării, care protejează o biodiversitate bogată și habitate marine importante.", en: "The country's first national park, protecting a rich biodiversity and important marine habitats." , es: "El primer parque nacional del país, que protege una rica biodiversidad y hábitats marinos importantes.", pt: "O primeiro parque nacional do país, que protege uma rica biodiversidade e importantes habitats marinhos.", fr: "Le premier parc national du pays, qui protège une riche biodiversité et d'importants habitats marins."},
     facts: {
       de: ["Der Park wurde im Jahr 2007 gegründet.", "Er erstreckt sich über 1236 Quadratkilometer."],
@@ -368,7 +365,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     parent: "TL-DI",
     coords: [125.5786, -8.5564],
     name: { de: "Tais-Markt", hu: "Tais piac", ro: "Piața Tais", en: "Tais Market"},
-    image: "/poi-images/tais-market-landmarks-v2.webp",
     description: { de: "Ein lebendiger Markt in Dili, auf dem lokale Handwerker traditionelle timoresische Textilien verkaufen.", hu: "Egy élénk piac Diliben, ahol a helyi kézművesek hagyományos timori textíliákat árulnak.", ro: "O piață vibrantă din Dili, unde artizanii locali vând textile tradiționale timoreze.", en: "A vibrant market in Dili where local artisans sell traditional Timorese textiles." , es: "Un mercado animado en Dili, donde los artesanos locales venden textiles tradicionales timorenses.", pt: "Um mercado animado em Díli, onde artesãos locais vendem têxteis tradicionais timorenses.", fr: "Un marché animé à Dili, où les artisans locaux vendent des textiles traditionnels timorais."},
     facts: {
       de: ["Tais sind traditionelle handgewebte Textilien.", "Jeder Bezirk hat seine eigenen Muster und Farben."],
@@ -629,7 +625,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     parent: "TL-BO",
     coords: [125.2631, -8.9213],
     name: { de: "Heiße Quellen von Marobo", hu: "Marobo melegvizű források", ro: "Izvoarele Termale Marobo", en: "Marobo Hot Springs"},
-    image: "/poi-images/marobo-hot-springs-landmarks-v2.webp",
     description: { de: "Natürliche Thermalquellen in den Bergen, die Überreste einer alten portugiesischen Badeanlage umfassen.", hu: "Természetes hőforrások a hegyekben, amelyek egy régi portugál fürdőkomplexum maradványait foglalják magukban.", ro: "Izvoare termale naturale în munți, care includ rămășițele unui vechi complex balnear portughez.", en: "Natural hot springs in the mountains, including the remains of an old Portuguese bath complex." , es: "Fuentes termales naturales en las montañas que incluyen los restos de un antiguo balneario portugués.", pt: "Fontes termais naturais nas montanhas, que incluem os vestígios de uma antiga estância termal portuguesa.", fr: "Sources thermales naturelles dans les montagnes, qui incluent les vestiges d'une ancienne station thermale portugaise."},
     facts: {
       de: ["Das Wasser kann eine Temperatur von 60 Grad erreichen.", "Sie befinden sich in der Gemeinde Bobonaro."],
@@ -710,7 +705,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     parent: "TL-DI",
     coords: [125.5050, -8.5630],
     name: { de: "Tasi Tolu Friedenspark", hu: "Tasi Tolu Békepark", ro: "Parcul Păcii Tasi Tolu", en: "Tasi Tolu Peace Park"},
-    image: "/poi-images/tasi-tolu-park-landmarks-v2.webp",
     description: { de: "Ein weitläufiges Schutzgebiet westlich von Dili, das für seine drei Salzseen bekannt ist.", hu: "Egy kiterjedt védett terület Dilitől nyugatra, amely három sós taváról ismert.", ro: "O rezervație extinsă la vest de Dili, cunoscută pentru cele trei lacuri sărate ale sale.", en: "An expansive protected area west of Dili, known for its three salt lakes." , es: "Una vasta reserva natural al oeste de Dili, conocida por sus tres lagos salados.", pt: "Uma vasta reserva natural a oeste de Díli, conhecida pelos seus três lagos salgados.", fr: "Une vaste réserve naturelle à l'ouest de Dili, connue pour ses trois lacs salés."},
     facts: {
       de: ["Der Name bedeutet wörtlich 'Drei Meere'.", "Das Gebiet ist ein wichtiges Vogelreservat."],
@@ -746,7 +740,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     parent: "TL-DI",
     coords: [125.5721, -8.5471],
     name: { de: "Leuchtturm von Dili", hu: "Dili világítótorony", ro: "Farul din Dili", en: "Dili Lighthouse"},
-    image: "/poi-images/dili-lighthouse-landmarks-v2.webp",
     description: { de: "Ein markantes Wahrzeichen aus der portugiesischen Kolonialzeit an der Uferpromenade von Dili.", hu: "Egy feltűnő tájékozódási pont a portugál gyarmati időkből Dili parti sétányán.", ro: "Un punct de reper proeminent din perioada colonială portugheză pe faleza din Dili.", en: "A striking landmark from the Portuguese colonial era on the Dili waterfront." , es: "Un emblemático hito de la época colonial portuguesa en el paseo marítimo de Dili.", pt: "Um marco emblemático da era colonial portuguesa no passeio marítimo de Díli.", fr: "Un point de repère emblématique de l'époque coloniale portugaise sur la promenade de Dili."},
     facts: {
       de: ["Der Leuchtturm wurde 1894 erbaut.", "Er markiert die Einfahrt zum Hafen von Dili."],
@@ -1115,7 +1108,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     parent: "TL-BA",
     coords: [126.4497, -8.4632],
     name: { de: "Stadtbad von Baucau", hu: "Baucau városi medence", ro: "Piscina Municipală din Baucau", en: "Baucau Municipal Pool"},
-    image: "/poi-images/baucau-pool-landmarks-v2.webp",
     description: { de: "Ein historisches Freibad, das von einer natürlichen Bergquelle mit frischem Wasser versorgt wird.", hu: "Egy történelmi szabadtéri medence, amelyet egy természetes hegyi forrás lát el friss vízzel.", ro: "O piscină în aer liber istorică, alimentată cu apă proaspătă de la un izvor natural de munte.", en: "A historic outdoor pool supplied with fresh water from a natural mountain spring." , es: "Una piscina histórica al aire libre alimentada por un manantial de montaña natural con agua fresca.", pt: "Uma piscina histórica ao ar livre alimentada por uma nascente de montanha natural com água fresca.", fr: "Une piscine historique en plein air alimentée par une source de montagne naturelle avec de l'eau fraîche."},
     facts: {
       de: ["Das Bad wurde von den Portugiesen erbaut.", "Es ist von üppiger Vegetation umgeben."],
@@ -1196,7 +1188,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     parent: "TL-DI",
     coords: [125.5780, -8.5540],
     name: { de: "Xanana Gusmão Lesesaal", hu: "Xanana Gusmão Olvasóterem", ro: "Sala de Lectură Xanana Gusmão", en: "Xanana Gusmão Reading Room"},
-    image: "/poi-images/xanana-reading-room-landmarks-v2.webp",
     description: { de: "Eine Bibliothek und ein kulturelles Zentrum in Dili, das sich der Förderung von Literatur und Geschichte widmet.", hu: "Egy könyvtár és kulturális központ Diliben, amely az irodalom és a történelem népszerűsítésének szentelte magát.", ro: "O bibliotecă și un centru cultural în Dili dedicat promovării literaturii și istoriei.", en: "A library and cultural center in Dili dedicated to promoting literature and history." , es: "Una biblioteca y centro cultural en Dili dedicado a la promoción de la literatura y la historia.", pt: "Uma biblioteca e centro cultural em Díli, dedicado à promoção da literatura e da história.", fr: "Une bibliothèque et un centre culturel à Dili, dédiés à la promotion de la littérature et de l'histoire."},
     facts: {
       de: ["Das Gebäude wurde ursprünglich von den Indonesiern erbaut.", "Es wurde im Jahr 2000 eröffnet."],
@@ -1529,7 +1520,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     parent: "TL-LA",
     coords: [127.3000, -8.4140],
     name: { de: "Valu Strand", hu: "Valu tengerpart", ro: "Plaja Valu", en: "Valu Beach"},
-    image: "/poi-images/valu-beach-landmarks-v2.webp",
     description: { de: "Ein malerischer weißer Sandstrand, der als Ausgangspunkt für Bootsfahrten zur Insel Jaco dient.", hu: "Egy festői, fehér homokos tengerpart, amely kiindulópontként szolgál a Jaco-szigetre induló hajóutakhoz.", ro: "O plajă pitorească cu nisip alb, care servește drept punct de plecare pentru excursiile cu barca spre Insula Jaco.", en: "A picturesque white sand beach serving as the starting point for boat trips to Jaco Island." , es: "Una pintoresca playa de arena blanca que sirve como punto de partida para los viajes en barco a la isla de Jaco.", pt: "Uma pitoresca praia de areia branca, que serve como ponto de partida para passeios de barco até à ilha de Jaco.", fr: "Une plage pittoresque de sable blanc, qui sert de point de départ pour des excursions en bateau vers l'île de Jaco."},
     facts: {
       de: ["Von hier aus starten Boote zur Insel Jaco.", "Das Gebiet ist beliebt zum Schnorcheln."],
@@ -1682,7 +1672,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     parent: "TL-LA",
     coords: [126.9950, -8.5240],
     name: { de: "Traditionelle Häuser von Lospalos", hu: "Lospalos hagyományos házai", ro: "Casele Tradiționale din Lospalos", en: "Fataluku Traditional Houses"},
-    image: "/poi-images/lospalos-houses-landmarks-v2.webp",
     description: { de: "Kulturell bedeutsame heilige Pfahlbauten, die für die Architektur der Fataluku-Ethnie charakteristisch sind.", hu: "Kulturálisan jelentős szent cölöpházak, amelyek a fataluku népcsoport építészetére jellemzőek.", ro: "Case sacre pe piloni cu importanță culturală, caracteristice arhitecturii grupului etnic Fataluku.", en: "Culturally significant sacred stilt houses characteristic of the architecture of the Fataluku ethnic group." , es: "Casas sagradas sobre pilotes de importancia cultural, características de la arquitectura de la etnia Fataluku.", pt: "Casas sagradas sobre palafitas de importância cultural, características da arquitetura da etnia Fataluku.", fr: "Maisons sacrées sur pilotis d'importance culturelle, caractéristiques de l'architecture de l'ethnie Fataluku."},
     facts: {
       de: ["Diese Häuser werden Uma Lulik genannt.", "Sie sind ein wichtiges Symbol für Osttimor."],
@@ -1763,7 +1752,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     parent: "TL-DI",
     coords: [125.7500, -8.5200],
     name: { de: "Ein-Dollar-Strand", hu: "Egydolláros part", ro: "Plaja Un Dolar", en: "One Dollar Beach"},
-    image: "/poi-images/one-dollar-beach-landmarks-v2.webp",
     description: { de: "Ein beliebter Küstenabschnitt östlich von Dili, bekannt für seine ruhige Atmosphäre und schöne Aussichten.", hu: "Egy népszerű partszakasz Dilitől keletre, amely nyugodt légköréről és szép kilátásáról ismert.", ro: "O porțiune de coastă populară la est de Dili, cunoscută pentru atmosfera sa liniștită și vederile frumoase.", en: "A popular stretch of coastline east of Dili, known for its tranquil atmosphere and beautiful views." , es: "Un tramo de costa popular al este de Dili, conocido por su ambiente tranquilo y sus bellas vistas.", pt: "Um trecho de costa popular a leste de Díli, conhecido pela sua atmosfera tranquila e belas vistas.", fr: "Un tronçon de côte populaire à l'est de Dili, connu pour son atmosphère calme et ses belles vues."},
     facts: {
       de: ["Der Strand liegt etwa 40 Minuten von Dili entfernt.", "Der Name stammt von einer ehemaligen Eintrittsgebühr."],
@@ -2060,7 +2048,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     parent: "TL-AT",
     coords: [125.6105, -8.2255],
     name: { de: "Beloi Strand", hu: "Beloi strand", ro: "Plaja Beloi", en: "Beloi Beach"},
-    image: "/poi-images/beloi-beach-landmarks-v2.webp",
     description: { de: "Ein unberührter Strand auf der Insel Atauro, umgeben von einem der artenreichsten Korallenriffe der Welt.", hu: "Egy érintetlen part az Atauro-szigeten, amelyet a világ egyik legfajgazdagabb korallzátonya vesz körül.", ro: "O plajă imaculată pe Insula Atauro, înconjurată de unul dintre cele mai biodiverse recife de corali din lume.", en: "A pristine beach on Atauro Island surrounded by one of the most biodiverse coral reefs in the world." , es: "Una playa virgen en la isla de Atauro, rodeada por uno de los arrecifes de coral con mayor biodiversidad del mundo.", pt: "Uma praia virgem na ilha de Ataúro, rodeada por um dos recifes de coral com maior biodiversidade do mundo.", fr: "Une plage vierge sur l'île d'Atauro, entourée par l'un des récifs coralliens les plus riches en biodiversité au monde."},
     facts: {
       de: ["Es ist ein beliebter Ausgangspunkt für Taucher.", "Der Strand ist per Boot von Dili aus erreichbar."],
@@ -2645,7 +2632,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     parent: "TL-DI",
     coords: [125.5450, -8.5580],
     name: { de: "Kulturzentrum Arte Moris", hu: "Arte Moris Kulturális Központ", ro: "Centrul Cultural Arte Moris", en: "Arte Moris Cultural Center"},
-    image: "/poi-images/arte-moris-landmarks-v2.webp",
     description: { de: "Die erste Kunstschule und Galerie Osttimors, die lokale Talente nach der Unabhängigkeit förderte.", hu: "Kelet-Timor első művészeti iskolája és galériája, amely a függetlenedés után támogatta a helyi tehetségeket.", ro: "Prima școală de artă și galerie din Timorul de Est, care a promovat talentul local după independență.", en: "East Timor's first art school and gallery, which promoted local talent after independence." , es: "La primera escuela de arte y galería de Timor Oriental, que promovió el talento local tras la independencia.", pt: "A primeira escola de arte e galeria de Timor-Leste, que promoveu o talento local após a independência.", fr: "La première école d'art et galerie du Timor oriental, qui a favorisé les talents locaux après l'indépendance."},
     facts: {
       de: ["Es wurde 2003 nach der Unabhängigkeit gegründet.", "Arte Moris bedeutet 'Lebendige Kunst'."],
@@ -2681,7 +2667,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     parent: "TL-LA",
     coords: [127.1167, -8.4667],
     name: { de: "Ira Lalaro See", hu: "Ira Lalaro-tó", ro: "Lacul Ira Lalaro", en: "Ira Lalaro Lake"},
-    image: "/poi-images/ira-lalaro-landmarks-v2.webp",
     description: { de: "Der größte See in Osttimor, der in einer Hochebene liegt und für seine große Krokodilpopulation bekannt ist.", hu: "Kelet-Timor legnagyobb tava, amely egy fennsíkon fekszik, és hatalmas krokodilpopulációjáról ismert.", ro: "Cel mai mare lac din Timorul de Est, situat pe un platou și cunoscut pentru populația sa mare de crocodili.", en: "The largest lake in East Timor, situated on a plateau and known for its large crocodile population." , es: "El lago más grande de Timor Oriental, situado en una meseta y conocido por su gran población de cocodrilos.", pt: "O maior lago de Timor-Leste, situado num planalto e conhecido pela sua grande população de crocodilos.", fr: "Le plus grand lac du Timor oriental, situé sur un plateau et connu pour sa grande population de crocodiles."},
     facts: {
       de: ["Im See leben Krokodile, daher ist Schwimmen verboten.", "Er liegt in einem großen Karstgebiet."],
@@ -2762,7 +2747,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     parent: "TL-DI",
     coords: [125.5800, -8.5550],
     name: { de: "Palast der Asche", hu: "Hamvak Palotája", ro: "Palatul Cenușii", en: "Palace of Ashes"},
-    image: "/poi-images/palacio-das-cinzas-landmarks-v2.webp",
     description: { de: "Ein historisches Gebäude in Dili, das während der Krisenjahre zerstört wurde und als Mahnmal dient.", hu: "Egy történelmi épület Diliben, amely a válságévek során elpusztult, és emlékműként szolgál.", ro: "O clădire istorică din Dili care a fost distrusă în anii de criză și servește drept memorial.", en: "A historic building in Dili that was destroyed during the crisis years and serves as a memorial." , es: "Un edificio histórico en Dili, destruido durante los años de crisis y que sirve de monumento conmemorativo.", pt: "Um edifício histórico em Díli, destruído durante os anos de crise e que serve de monumento memorial.", fr: "Un bâtiment historique à Dili, détruit pendant les années de crise et qui sert de monument commémoratif."},
     facts: {
       de: ["Das Gebäude wurde 1999 weitgehend zerstört.", "Es beherbergte einst wichtige Verwaltungsbüros."],
@@ -2924,7 +2908,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     parent: "TL-MF",
     coords: [125.7330, -9.1660],
     name: { de: "HMAS Voyager Wrack", hu: "HMAS Voyager hajóroncs", ro: "Epava HMAS Voyager", en: "HMAS Voyager Shipwreck"},
-    image: "/poi-images/voyager-shipwreck-landmarks-v2.webp",
     description: { de: "Die am Strand sichtbaren Überreste eines Zerstörers der australischen Marine aus dem Zweiten Weltkrieg.", hu: "Egy ausztrál haditengerészeti romboló a parton látható maradványai a második világháborúból.", ro: "Rămășițele vizibile pe plajă ale unui distrugător al marinei australiene din al Doilea Război Mondial.", en: "The visible remains on the beach of a Royal Australian Navy destroyer from World War II." , es: "Los restos visibles en la playa de un destructor de la Marina australiana de la Segunda Guerra Mundial.", pt: "Os destroços visíveis na praia de um contratorpedeiro da Marinha australiana da Segunda Guerra Mundial.", fr: "Les vestiges visibles sur la plage d'un destroyer de la marine australienne datant de la Seconde Guerre mondiale."},
     facts: {
       de: ["Das Schiff strandete im Jahr 1942.", "Die Besatzung wurde nach dem Vorfall gerettet."],
@@ -3005,7 +2988,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     parent: "TL-ER",
     coords: [125.4000, -8.7500],
     name: { de: "Grotte Unserer Lieben Frau von Lourdes", hu: "Lourdes-i Miasszonyunk Barlangja", ro: "Grota Maicii Domnului de la Lourdes", en: "Grotto of Our Lady of Lourdes"},
-    image: "/poi-images/lourdes-grotto-landmarks-v2.webp",
     description: { de: "Eine friedliche katholische Pilgerstätte, die der berühmten Grotte in Frankreich nachempfunden ist.", hu: "Egy békés katolikus zarándokhely, amelyet a híres franciaországi barlang mintájára alakítottak ki.", ro: "Un loc de pelerinaj catolic pașnic, modelat după faimoasa grotă din Franța.", en: "A peaceful Catholic pilgrimage site modeled after the famous grotto in France." , es: "Un pacífico lugar de peregrinación católica, modelado según la famosa gruta de Francia.", pt: "Um local de peregrinação católica pacífico, modelado com base na famosa gruta de França.", fr: "Un lieu de pèlerinage catholique paisible, calqué sur la célèbre grotte de France."},
     facts: {
       de: ["Die Stätte bietet einen weiten Blick über die Berge.", "Sie ist ein Ort des Gebets für Einheimische."],

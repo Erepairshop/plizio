@@ -125,7 +125,6 @@ export const poiExtraJordanLandmarksV2: POI[] = [
     parent: "JO-MN",
     coords: [35.4519, 30.3222],
     name: { de: "Al-Khazneh", hu: "Al-Khazneh (Kincstár)", ro: "Al-Khazneh (Trezoreria)", en: "Al-Khazneh (The Treasury)"},
-    image: "/poi-images/al-khazneh-landmarks-v2.webp",
     description: {
       de: "Das berühmte Schatzhaus ist das ikonischste Monument Petras. Es wurde im 1. Jahrhundert aus dem massiven roten Sandstein gemeißelt.",
       hu: "A híres Kincstár Petra legikonikusabb műemléke. Az 1. században faragták ki a hatalmas vörös homokkő sziklafalból.",
@@ -286,7 +285,6 @@ export const poiExtraJordanLandmarksV2: POI[] = [
     parent: "JO-MN",
     coords: [35.4320, 30.3385],
     name: { de: "Ad-Deir (Das Kloster)", hu: "Ad-Deir (A Kolostor)", ro: "Ad-Deir (Mănăstirea)", en: "Ad-Deir (The Monastery)"},
-    image: "/poi-images/ad-deir-landmarks-v2.webp",
     description: {
       de: "Das Kloster ist eines der größten Monumente in Petra und erfordert einen Aufstieg über 800 Stufen. Es besticht durch seine enorme Größe und abgelegene Lage.",
       hu: "A Kolostor Petra egyik legnagyobb műemléke, amelyhez több mint 800 lépcsőfok megmászása szükséges. Lenyűgöző a hatalmas mérete és elszigetelt fekvése.",
@@ -699,7 +697,6 @@ export const poiExtraJordanLandmarksV2: POI[] = [
     parent: "JO-MN",
     coords: [35.4589, 30.3223],
     name: { de: "Der Siq", hu: "A Siq", ro: "Defileul Siq", en: "The Siq"},
-    image: "/poi-images/the-siq-landmarks-v2.webp",
     description: {
       de: "Der schmale Canyon ist der dramatische Haupteingang zur antiken Stadt Petra. Die hohen Felswände schirmen das Sonnenlicht ab und leiten Besucher direkt zum Schatzhaus.",
       hu: "A szűk kanyon Petra drámai főbejárata. A magas sziklafalak elzárják a napfényt, és a látogatókat egyenesen a Kincstárhoz vezetik.",
@@ -1004,7 +1001,6 @@ export const poiExtraJordanLandmarksV2: POI[] = [
     parent: "JO-MN",
     coords: [35.4468, 30.3323],
     name: { de: "Königsgräber von Petra", hu: "Királyi sírok (Petra)", ro: "Mormintele Regale (Petra)", en: "Royal Tombs of Petra"},
-    image: "/poi-images/royal-tombs-petra-landmarks-v2.webp",
     description: {
       de: "Diese imposante Reihe von Gräbern ist in die Felswand des Jabal al-Khubtha gehauen. Sie umfassen das Urnengrab, das Seidengrab und das Palastgrab.",
       hu: "Ez az impozáns sírsor a Jabal al-Khubtha sziklafalába van vájva. Közéjük tartozik az Urnasír, a Selyemsír és a Palotasír.",
@@ -1381,7 +1377,6 @@ export const poiExtraJordanLandmarksV2: POI[] = [
     parent: "JO-MN",
     coords: [35.4439, 30.3283],
     name: { de: "Großer Tempel von Petra", hu: "Petra Nagy Temploma", ro: "Marele Templu din Petra", en: "Great Temple of Petra"},
-    image: "/poi-images/great-temple-petra-landmarks-v2.webp",
     description: {
       de: "Dieser weitläufige monumentale Komplex liegt im Zentrum von Petra. Er war wahrscheinlich ein großes religiöses oder administratives Zentrum der Nabatäer.",
       hu: "Ez a kiterjedt monumentális komplexum Petra központjában található. Valószínűleg a nabateusok nagy vallási vagy közigazgatási központja volt.",
@@ -1650,7 +1645,6 @@ export const poiExtraJordanLandmarksV2: POI[] = [
     parent: "JO-MN",
     coords: [35.4428, 30.3734],
     name: { de: "Klein-Petra (Siq al-Barid)", hu: "Kis Petra (Siq al-Barid)", ro: "Mica Petra (Siq al-Barid)", en: "Little Petra (Siq al-Barid)"},
-    image: "/poi-images/little-petra-landmarks-v2.webp",
     description: {
       de: "Diese abgelegene Stätte nördlich von Petra diente einst als Vorort für durchreisende Händler. Sie beherbergt gut erhaltene in den Fels gehauene Speisesäle und Fresken.",
       hu: "Ez az elszigetelt helyszín Petrától északra egykor az átutazó kereskedők külvárosaként szolgált. Jól karbantartott sziklába vájt étkezők és freskók találhatók itt.",
@@ -1739,7 +1733,6 @@ export const poiExtraJordanLandmarksV2: POI[] = [
     parent: "JO-AM",
     coords: [35.9370, 31.9515],
     name: { de: "Nymphäum von Amman", hu: "Ammáni Nymphaeum", ro: "Nimfeul din Amman", en: "Nymphaeum of Amman"},
-    image: "/poi-images/nymphaeum-amman-landmarks-v2.webp",
     description: {
       de: "Ein monumentaler öffentlicher Brunnen aus der Römerzeit, der sich in der Innenstadt von Amman befindet. Er war einst mit Mosaiken, Steinmetzarbeiten und einem großen Pool geschmückt.",
       hu: "Egy monumentális ókori római közútikút Ammán belvárosában. Egykor mozaikokkal, kőfaragványokkal és egy nagy medencével díszítették.",
@@ -2008,7 +2001,6 @@ export const poiExtraJordanLandmarksV2: POI[] = [
     parent: "JO-AM",
     coords: [35.9348, 31.9550],
     name: { de: "Umayyaden-Palast", hu: "Omajád palota", ro: "Palatul Umayyad", en: "Umayyad Palace"},
-    image: "/poi-images/umayyad-palace-amman-landmarks-v2.webp",
     description: {
       de: "Dieser Ruinenkomplex auf dem Zitadellenhügel stammt aus dem 8. Jahrhundert. Das restaurierte Monumentaltor mit seiner Kuppel ist das markanteste Merkmal.",
       hu: "Ez a Citadella-hegyen lévő romkomplexum a 8. századból származik. A felújított, kupolás monumentális kapu a legmeghatározóbb eleme.",
@@ -2349,7 +2341,6 @@ export const poiExtraJordanLandmarksV2: POI[] = [
     parent: "JO-AM",
     coords: [35.9135, 31.9613],
     name: { de: "König-Abdullah-I.-Moschee", hu: "I. Abdullah király mecset", ro: "Moscheea Regele Abdullah I", en: "King Abdullah I Mosque"},
-    image: "/poi-images/king-abdullah-mosque-amman-landmarks-v2.webp",
     description: {
       de: "Ein unverwechselbares Wahrzeichen Ammans, bekannt für seine prächtige blaue Mosaikkuppel. Sie ist eine der wenigen Moscheen in Jordanien, die von Nicht-Muslimen besucht werden darf.",
       hu: "Ammán egyik jellegzetes nevezetessége, amely pompás kék mozaikkupolájáról ismert. Azon kevés jordániai mecsetek egyike, amelyet nem muszlimok is látogathatnak.",
@@ -2618,7 +2609,6 @@ export const poiExtraJordanLandmarksV2: POI[] = [
     parent: "JO-AM",
     coords: [35.9343, 31.9392],
     name: { de: "Abu-Darwisch-Moschee", hu: "Abu Darwish mecset", ro: "Moscheea Abu Darwish", en: "Abu Darwish Mosque"},
-    image: "/poi-images/abu-darwish-mosque-landmarks-v2.webp",
     description: {
       de: "Diese Moschee erhebt sich auf dem Jabal al-Ashrafiyeh und sticht durch ihr charakteristisches Muster aus abwechselnd schwarzen und weißen Steinen hervor.",
       hu: "Ez a mecset a Jabal al-Ashrafiyeh hegyen magasodik, és a fekete és fehér kövek váltakozó, jellegzetes mintázatával tűnik ki.",
@@ -2779,7 +2769,6 @@ export const poiExtraJordanLandmarksV2: POI[] = [
     parent: "JO-AM",
     coords: [35.7511, 31.9126],
     name: { de: "Qasr al-Abd", hu: "Qasr al-Abd", ro: "Qasr al-Abd", en: "Qasr al-Abd"},
-    image: "/poi-images/qasr-al-abd-landmarks-v2.webp",
     description: {
       de: "Ein hellenistischer Palast nahe Iraq al-Amir, der aus riesigen Steinblöcken errichtet wurde. Er ist eines der wenigen erhaltenen Beispiele für diese Architektur in der Region.",
       hu: "Egy hellenisztikus palota Iraq al-Amir közelében, amelyet hatalmas kőtömbökből építettek. Az egyik kevés fennmaradt példája ennek az építészetnek a régióban.",
@@ -3048,7 +3037,6 @@ export const poiExtraJordanLandmarksV2: POI[] = [
     parent: "JO-JA",
     coords: [35.8913, 32.2771],
     name: { de: "Ovales Forum", hu: "Ovális tér (Dzseras)", ro: "Piața Ovală (Jerash)", en: "Oval Plaza"},
-    image: "/poi-images/oval-plaza-jerash-landmarks-v2.webp",
     description: {
       de: "Dieser asymmetrische, von majestätischen ionischen Säulen umgebene Platz diente als verbindendes Element zwischen der Hauptstraße und dem Zeustempel in Jerash.",
       hu: "Ez a fenséges ión oszlopokkal körülvett, aszimmetrikus tér összekötő elemként szolgált a főutca és a Zeusz-templom között Dzserasban.",
@@ -3353,7 +3341,6 @@ export const poiExtraJordanLandmarksV2: POI[] = [
     parent: "JO-JA",
     coords: [35.8910, 32.2718],
     name: { de: "Hadrianstor", hu: "Hadrianus diadalíve", ro: "Arcul lui Hadrian", en: "Arch of Hadrian"},
-    image: "/poi-images/arch-of-hadrian-jerash-landmarks-v2.webp",
     description: {
       de: "Dieser massive Triumphbogen wurde zu Ehren des Besuchs des römischen Kaisers Hadrian im Jahr 129 n. Chr. am südlichen Eingang von Jerash errichtet.",
       hu: "Ezt a hatalmas diadalívet Hadrianus római császár Kr. u. 129-ben tett látogatásának tiszteletére emelték Dzseras déli bejáratánál.",
@@ -3622,7 +3609,6 @@ export const poiExtraJordanLandmarksV2: POI[] = [
     parent: "JO-JA",
     coords: [35.8911, 32.2825],
     name: { de: "Artemistempel", hu: "Artemisz-templom", ro: "Templul lui Artemis", en: "Temple of Artemis"},
-    image: "/poi-images/temple-of-artemis-jerash-landmarks-v2.webp",
     description: {
       de: "Der Tempel der Artemis thront auf einem der höchsten Punkte von Jerash. Er war der Schutzgöttin der Stadt gewidmet und ist bekannt für seine imposanten Säulen.",
       hu: "Az Artemisz-templom Dzseras egyik legmagasabb pontján magasodik. A város védőistennőjének szentelték, és impozáns oszlopairól ismert.",
@@ -3747,7 +3733,6 @@ export const poiExtraJordanLandmarksV2: POI[] = [
     parent: "JO-JA",
     coords: [35.8901, 32.2772],
     name: { de: "Südtheater von Jerash", hu: "Dzseras Déli Színháza", ro: "Teatrul de Sud din Jerash", en: "South Theater of Jerash"},
-    image: "/poi-images/south-theater-jerash-landmarks-v2.webp",
     description: {
       de: "Das größte Theater der antiken Stadt Jerash beeindruckt mit seiner außergewöhnlichen Akustik. Ein Sprecher in der Mitte der Bühne ist in den obersten Rängen klar zu hören.",
       hu: "Dzseras ókori városának legnagyobb színháza lenyűgöz kivételes akusztikájával. A színpad közepén álló beszélőt a legfelső sorokban is tisztán hallani.",
@@ -3836,7 +3821,6 @@ export const poiExtraJordanLandmarksV2: POI[] = [
     parent: "JO-AM",
     coords: [36.0101, 31.7371],
     name: { de: "Qasr al-Mushatta", hu: "Qasr al-Mushatta", ro: "Qasr al-Mushatta", en: "Qasr al-Mushatta"},
-    image: "/poi-images/qasr-al-mushatta-landmarks-v2.webp",
     description: {
       de: "Die Ruine des größten umayyadischen Wüstenschlosses in Jordanien. Ein Großteil seiner prachtvoll geschnitzten Fassade wurde als Geschenk an den deutschen Kaiser übergeben und befindet sich heute in Berlin.",
       hu: "Jordánia legnagyobb omajád sivatagi kastélyának romja. Gazdagon faragott homlokzatának nagy részét a német császárnak ajándékozták, és ma Berlinben található.",
@@ -3925,7 +3909,6 @@ export const poiExtraJordanLandmarksV2: POI[] = [
     parent: "JO-AM",
     coords: [36.5705, 31.3255],
     name: { de: "Qasr Tuba", hu: "Qasr Tuba", ro: "Qasr Tuba", en: "Qasr Tuba"},
-    image: "/poi-images/qasr-tuba-landmarks-v2.webp",
     description: {
       de: "Dieses abgelegene Wüstenschloss aus der Umayyadenzeit besteht aus einer ungewöhnlichen Kombination von gebrannten Ziegeln und Stein. Es ist eines der am schwersten zugänglichen Bauwerke seiner Art.",
       hu: "Ez az elszigetelt omajád-kori sivatagi kastély égetett téglák és kövek szokatlan kombinációjából épült. Típusának egyik legnehezebben megközelíthető építménye.",
@@ -4014,7 +3997,6 @@ export const poiExtraJordanLandmarksV2: POI[] = [
     parent: "JO-KA",
     coords: [35.4789, 31.0456],
     name: { de: "Lot-Höhle", hu: "Lót barlangja", ro: "Peștera lui Lot", en: "Lot's Cave"},
-    image: "/poi-images/lots-cave-landmarks-v2.webp",
     description: {
       de: "Eine Höhle in den steilen Bergen nahe dem Toten Meer, in der der biblische Lot und seine Töchter nach der Zerstörung von Sodom Zuflucht gesucht haben sollen. Eine byzantinische Kirche wurde davor errichtet.",
       hu: "Egy barlang a Holt-tenger közeli meredek hegyekben, ahol a bibliai Lót és lányai a hagyomány szerint Szodoma pusztulása után menedéket kerestek. Elé egy bizánci templomot építettek.",
@@ -4103,7 +4085,6 @@ export const poiExtraJordanLandmarksV2: POI[] = [
     parent: "JO-MN",
     coords: [35.4056, 30.3167],
     name: { de: "Jabal Haroun", hu: "Áron hegye (Jabal Haroun)", ro: "Muntele lui Aaron (Jabal Haroun)", en: "Mount Aaron (Jabal Haroun)"},
-    image: "/poi-images/jabal-haroun-landmarks-v2.webp",
     description: {
       de: "Dieser Berg ist der höchste Gipfel im Bereich von Petra. Auf seiner Spitze befindet sich ein kleiner weißer Schrein, der als das Grab von Moses' Bruder Aaron gilt.",
       hu: "Ez a hegy a Petra területének legmagasabb csúcsa. Tetején egy kis fehér szentély található, amelyet a hagyomány Mózes bátyjának, Áronnak a sírjaként tart számon.",

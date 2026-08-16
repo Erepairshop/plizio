@@ -44,7 +44,6 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     parent: "PA-4",
     coords: [-82.1, 8.2],
     name: { de: "San Lorenzo (Chiriquí)", hu: "San Lorenzo (Chiriquí)", ro: "San Lorenzo (Chiriquí)", en: "San Lorenzo, Chiriquí"},
-    image: "/poi-images/san-lorenzo-chiriqui-cities-v2.webp",
     description: { de: "Ein Küstenbezirk in Chiriquí mit Mangroven und Stränden.", hu: "Tengerparti kerület Chiriquí tartományban, mangrovékkal és strandokkal.", ro: "Un district de coastă în Chiriquí, cu mangrove și plaje.", en: "A coastal district in Chiriquí with mangroves and beaches." , es: "Un distrito costero en Chiriquí con manglares y playas.", pt: "Um distrito costeiro em Chiriquí com manguezais e praias.", fr: "Un district côtier à Chiriquí avec des mangroves et des plages."},
     facts: {
       de: ["Tor zum Meeresnationalpark Golf von Chiriquí.", "Wichtige Mangrovenwälder.", "Fischerei und Tourismus.", "Ausgangspunkt für Inselbesuche."],
@@ -1529,7 +1528,6 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     parent: "PA-8",
     coords: [-79.56, 8.96],
     name: { de: "Balboa", hu: "Balboa", ro: "Balboa", en: "Balboa"},
-    image: "/poi-images/balboa-panama-cities-v2.webp",
     description: { de: "Ein historischer Bezirk am pazifischen Eingang des Panamakanals.", hu: "Történelmi kerület a Panama-csatorna csendes-óceáni bejáratánál.", ro: "Un district istoric la intrarea în Pacific a Canalului Panama.", en: "A historic district at the Pacific entrance of the Panama Canal." , es: "Un distrito histórico en la entrada del Pacífico del Canal de Panamá.", pt: "Um distrito histórico na entrada do Pacífico do Canal do Panamá.", fr: "Un quartier historique situé à l'entrée du canal de Panama, côté Pacifique."},
     facts: {
       de: ["Ehemalige Verwaltungsstadt der Kanalzone.", "Schöne amerikanische Kolonialarchitektur.", "Standort der Kanalverwaltung.", "Hafen und maritime Dienstleistungen."],
@@ -1718,7 +1716,6 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     parent: "PA-3",
     coords: [-79.9, 9.35],
     name: { de: "Cristóbal", hu: "Cristóbal", ro: "Cristóbal", en: "Cristóbal"},
-    image: "/poi-images/cristobal-colon-cities-v2.webp",
     description: { de: "Der Hafen- und Verwaltungsbezirk von Colón.", hu: "Colón kikötői és közigazgatási kerülete.", ro: "Districtul portuar și administrativ al lui Colón.", en: "The port and administrative district of Colón." , es: "El distrito portuario y administrativo de Colón.", pt: "O distrito portuário e administrativo de Colón.", fr: "Le quartier portuaire et administratif de la ville de Colón."},
     facts: {
       de: ["Liegt am karibischen Eingang des Kanals.", "Wichtiger Kreuzfahrt- und Handelshafen.", "Historische Gebäude aus der Kanalbauzeit.", "Eng verbunden mit der Stadt Colón."],
@@ -1871,7 +1868,6 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     parent: "PA-3",
     coords: [-79.57, 9.62],
     name: { de: "Isla Grande", hu: "Isla Grande", ro: "Isla Grande", en: "Isla Grande"},
-    image: "/poi-images/isla-grande-cities-v2.webp",
     description: { de: "Eine beliebte Touristeninsel an der Karibikküste von Colón.", hu: "Népszerű turisztikai sziget Colón karibi partvidékén.", ro: "O insulă turistică populară pe coasta caraibiană a Colónului.", en: "A popular tourist island on the Caribbean coast of Colón." , es: "Una popular isla turística en la costa caribeña de Colón.", pt: "Uma ilha turística popular na costa caribenha de Colón.", fr: "Une île touristique populaire sur la côte caraïbe de la province de Colón."},
     facts: {
       de: ["Klares Wasser zum Schnorcheln und Tauchen.", "Entspannte afro-karibische Atmosphäre.", "Keine Autos auf der Insel.", "Statue des Schwarzen Christus im Meer."],
@@ -1943,7 +1939,6 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     parent: "PA-8",
     coords: [-79.4, 9.0],
     name: { de: "Don Bosco (Panama)", hu: "Don Bosco (Panama)", ro: "Don Bosco (Panama)", en: "Don Bosco, Panama"},
-    image: "/poi-images/don-bosco-panama-cities-v2.webp",
     description: { de: "Ein moderner, wachsender Bezirk in der Nähe des Flughafens Tocumen.", hu: "Modern, növekvő kerület a Tocumen repülőtér közelében.", ro: "Un district modern, în creștere, lângă Aeroportul Tocumen.", en: "A modern, growing district near Tocumen airport." , es: "Un distrito moderno y en crecimiento cerca del aeropuerto de Tocumen.", pt: "Um distrito moderno e em crescimento perto do aeroporto de Tocumen.", fr: "Un quartier moderne en pleine expansion à proximité de l'aéroport de Tocumen."},
     facts: {
       de: ["Neue Wohn- und Geschäftsentwicklungen.", "Strategische Lage nahe dem Flughafen.", "Gute Anbindung an die Stadt.", "Teil der östlichen Expansion von Panama-Stadt."],
@@ -2024,7 +2019,6 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     parent: "PA-10",
     coords: [-79.7, 8.9],
     name: { de: "Juan Demóstenes Arosemena", hu: "Juan Demóstenes Arosemena", ro: "Juan Demóstenes Arosemena", en: "Juan Demóstenes Arosemena"},
-    image: "/poi-images/juan-demostenes-arosemena-cities-v2.webp",
     description: { de: "Ein bevölkerungsreicher Bezirk im Distrikt Arraiján.", hu: "Népes kerület Arraiján kerületében.", ro: "Un district populat în districtul Arraiján.", en: "A populous district in the Arraiján District." , es: "Un distrito densamente poblado en el distrito de Arraiján.", pt: "Um distrito densamente povoado no distrito de Arraiján.", fr: "Un quartier très peuplé situé dans le district d'Arraiján."},
     facts: {
       de: ["Benannt nach einem ehemaligen Präsidenten Panamas.", "Dicht besiedeltes Wohngebiet.", "Teil der Metropolregion.", "Städtische Infrastruktur."],
@@ -2105,7 +2099,6 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     parent: "PA-8",
     coords: [-79.6, 9.2],
     name: { de: "Chilibre", hu: "Chilibre", ro: "Chilibre", en: "Chilibre"},
-    image: "/poi-images/chilibre-cities-v2.webp",
     description: { de: "Ein großer Bezirk im Norden von Panama-Stadt.", hu: "Nagy kerület Panamavárostól északra.", ro: "Un district mare la nord de Ciudad de Panama.", en: "A large district in the north of Panama City." , es: "Un gran distrito en el norte de la Ciudad de Panamá.", pt: "Um grande distrito no norte da Cidade do Panamá.", fr: "Un vaste district situé au nord de Panama City."},
     facts: {
       de: ["Umfasst Teile des Chagres-Nationalparks.", "Wichtige Wasserressourcen für den Kanal.", "Mischung aus ländlichen und städtischen Gebieten.", "Anbau von Obst und Gemüse."],

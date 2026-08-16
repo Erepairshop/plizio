@@ -269,7 +269,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MO",
     coords: [-56.1983, -34.9064],
     name: { de: "Palacio Salvo", hu: "Palacio Salvo", ro: "Palacio Salvo", en: "Palacio Salvo"},
-    image: "/poi-images/uy-mo-palacio-salvo-landmarks-v2.webp",
     description: { de: "Dieses ikonische Gebäude am Plaza Independencia war einst das höchste in Südamerika.", hu: "Ez az ikonikus épület a Plaza Independencia téren egykor Dél-Amerika legmagasabb épülete volt.", ro: "Această clădire iconică de pe Plaza Independencia a fost odată cea mai înaltă din America de Sud.", en: "This iconic building on Plaza Independencia was once the tallest in South America." , es: "Este edificio icónico en la Plaza Independencia fue una vez el más alto de Sudamérica.", pt: "Este edifício icónico na Plaza Independencia foi outrora o mais alto da América do Sul.", fr: "Cet édifice emblématique de la Plaza Independencia était autrefois le plus haut d'Amérique du Sud."},
     
     facts: {
@@ -530,7 +529,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MA",
     coords: [-55.0442, -34.9089],
     name: { de: "Casapueblo", hu: "Casapueblo", ro: "Casapueblo", en: "Casapueblo"},
-    image: "/poi-images/uy-ma-casapueblo-landmarks-v2.webp",
     description: { de: "Eine beeindruckende Struktur, die vom Künstler Carlos Páez Vilaró erbaut wurde und heute ein Museum und Hotel ist.", hu: "Carlos Páez Vilaró művész által épített lenyűgöző szerkezet, amely ma múzeumként és szállodaként működik.", ro: "O structură impresionantă construită de artistul Carlos Páez Vilaró, care astăzi este muzeu și hotel.", en: "An impressive structure built by artist Carlos Páez Vilaró, which is now a museum and hotel." , es: "Una estructura impresionante construida por el artista Carlos Páez Vilaró que hoy es un museo y hotel.", pt: "Uma estrutura impressionante construída pelo artista Carlos Páez Vilaró que hoje é um museu e hotel.", fr: "Une structure impressionnante construite par l'artiste Carlos Páez Vilaró, qui est aujourd'hui un musée et un hôtel."},
     
     facts: {
@@ -791,7 +789,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MO",
     coords: [-56.1528, -34.8944],
     name: { de: "Estadio Centenario", hu: "Estadio Centenario", ro: "Estadio Centenario", en: "Centenario Stadium"},
-    image: "/poi-images/uy-mo-estadio-centenario-landmarks-v2.webp",
     description: { de: "Eines der wichtigsten Fußballstadien der Welt, Schauplatz der ersten FIFA-Weltmeisterschaft 1930.", hu: "A világ egyik legfontosabb labdarúgó-stadionja, az első, 1930-as labdarúgó-világbajnokság helyszíne.", ro: "Unul dintre cele mai importante stadioane de fotbal din lume, locul de desfășurare al primei Cupe Mondiale FIFA în 1930.", en: "One of the most important football stadiums in the world, venue of the first FIFA World Cup in 1930." , es: "Uno de los estadios de fútbol más importantes del mundo, sede de la primera Copa Mundial de la FIFA en 1930.", pt: "Um dos estádios de futebol mais importantes do mundo, palco do primeiro Campeonato do Mundo da FIFA em 1930.", fr: "L'un des stades de football les plus importants au monde, lieu de la première Coupe du monde de la FIFA en 1930."},
     
     facts: {
@@ -1268,7 +1265,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MA",
     coords: [-54.9372, -34.9575],
     name: { de: "La Mano de Punta del Este", hu: "A Punta del Este-i Kéz", ro: "Mâna din Punta del Este", en: "La Mano de Punta del Este"},
-    image: "/poi-images/uy-ma-la-mano-landmarks-v2.webp",
     description: { de: "Eine berühmte Skulptur am Strand von Brava, die Finger zeigt, die aus dem Sand ragen.", hu: "Híres szobor a Brava tengerparton, amely a homokból kiemelkedő ujjakat ábrázolja.", ro: "O sculptură faimoasă pe plaja Brava, arătând degete ieșind din nisip.", en: "A famous sculpture on Brava Beach, showing fingers emerging from the sand." , es: "Una famosa escultura en la playa Brava que muestra dedos emergiendo de la arena.", pt: "Uma escultura famosa na praia Brava que mostra dedos a emergir da areia.", fr: "Une célèbre sculpture sur la plage de Brava, montrant des doigts sortant du sable."},
     
     facts: {
@@ -1997,7 +1993,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MO",
     coords: [-56.1872, -34.8911],
     name: { de: "Palacio Legislativo", hu: "Palacio Legislativo", ro: "Palacio Legislativo", en: "Legislative Palace"},
-    image: "/poi-images/uy-mo-palacio-legislativo-landmarks-v2.webp",
     description: { de: "Der monumentale Sitz der Generalversammlung von Uruguay, bekannt für seine neoklassizistische Architektur.", hu: "Az uruguayi Közgyűlés monumentális székhelye, amely neoklasszicista építészetéről ismert.", ro: "Sediul monumental al Adunării Generale a Uruguayului, cunoscut pentru arhitectura sa neoclasică.", en: "The monumental seat of the General Assembly of Uruguay, known for its neoclassical architecture." , es: "La sede monumental de la Asamblea General de Uruguay, conocida por su arquitectura neoclásica.", pt: "A sede monumental da Assembleia Geral do Uruguai, conhecida pela sua arquitetura neoclássica.", fr: "Le siège monumental de l'Assemblée générale de l'Uruguay, connu pour son architecture néoclassique."},
     
     facts: {
@@ -2078,7 +2073,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MO",
     coords: [-56.2008, -34.9078],
     name: { de: "Teatro Solís", hu: "Teatro Solís", ro: "Teatro Solís", en: "Solís Theatre"},
-    image: "/poi-images/uy-mo-teatro-solis-landmarks-v2.webp",
     description: { de: "Das älteste Theater Uruguays, das eine wichtige Rolle im kulturellen Leben von Montevideo spielt.", hu: "Uruguay legrégebbi színháza, amely fontos szerepet játszik Montevideo kulturális életében.", ro: "Cel mai vechi teatru din Uruguay, care joacă un rol important în viața culturală din Montevideo.", en: "The oldest theatre in Uruguay, playing an important role in the cultural life of Montevideo." , es: "El teatro más antiguo de Uruguay, que desempeña un papel importante en la vida cultural de Montevideo.", pt: "O teatro mais antigo do Uruguai, que desempenha um papel importante na vida cultural de Montevideu.", fr: "Le plus ancien théâtre de l'Uruguay, qui joue un rôle important dans la vie culturelle de Montevideo."},
     
     facts: {
@@ -2114,7 +2108,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MO",
     coords: [-56.2589, -34.8894],
     name: { de: "Fortaleza del Cerro", hu: "Fortaleza del Cerro", ro: "Fortaleza del Cerro", en: "Fortress of the Cerro"},
-    image: "/poi-images/uy-mo-fortaleza-del-cerro-landmarks-v2.webp",
     description: { de: "Eine historische Festung auf dem Cerro de Montevideo, die die Bucht von Montevideo schützte.", hu: "Történelmi erőd a Cerro de Montevideón, amely Montevideo öblét védte.", ro: "O fortăreață istorică de pe Cerro de Montevideo, care proteja golful Montevideo.", en: "A historic fortress on the Cerro de Montevideo that protected the Bay of Montevideo." , es: "Una fortaleza histórica en el Cerro de Montevideo que protegía la bahía de Montevideo.", pt: "Uma fortaleza histórica no Cerro de Montevideu que protegia a baía de Montevideu.", fr: "Une forteresse historique sur le Cerro de Montevideo qui protégeait la baie de Montevideo."},
     
     facts: {
@@ -2303,7 +2296,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MO",
     coords: [-56.1917, -34.8922],
     name: { de: "Torre de las Telecomunicaciones", hu: "Torre de las Telecomunicaciones", ro: "Torre de las Telecomunicaciones", en: "Telecommunications Tower"},
-    image: "/poi-images/uy-mo-torre-antel-landmarks-v2.webp",
     description: { de: "Ein moderner Wolkenkratzer und das höchste Gebäude in Uruguay, das von Antel genutzt wird.", hu: "Modern felhőkarcoló és Uruguay legmagasabb épülete, amelyet az Antel használ.", ro: "Un zgârie-nori modern și cea mai înaltă clădire din Uruguay, folosită de Antel.", en: "A modern skyscraper and the tallest building in Uruguay, used by Antel." , es: "Un rascacielos moderno y el edificio más alto de Uruguay, utilizado por Antel.", pt: "Um arranha-céus moderno e o edifício mais alto do Uruguai, utilizado pela Antel.", fr: "Un gratte-ciel moderne et le plus haut bâtiment de l'Uruguay, utilisé par Antel."},
     
     facts: {
@@ -2456,7 +2448,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-RO",
     coords: [-53.7808, -34.4031],
     name: { de: "Faro de Cabo Polonio", hu: "Cabo Polonio-i világítótorony", ro: "Farul din Cabo Polonio", en: "Cabo Polonio Lighthouse"},
-    image: "/poi-images/uy-ro-faro-cabo-polonio-landmarks-v2.webp",
     description: { de: "Ein historischer Leuchtturm im Nationalpark Cabo Polonio, umgeben von einer großen Seelöwenkolonie.", hu: "Történelmi világítótorony a Cabo Polonio Nemzeti Parkban, amelyet egy nagy oroszlánfóka-kolónia vesz körül.", ro: "Un far istoric în Parcul Național Cabo Polonio, înconjurat de o mare colonie de lei de mare.", en: "A historic lighthouse in the Cabo Polonio National Park, surrounded by a large sea lion colony." , es: "Un faro histórico en el Parque Nacional Cabo Polonio, rodeado por una gran colonia de lobos marinos.", pt: "Um farol histórico no Parque Nacional Cabo Polonio, rodeado por uma grande colónia de leões-marinhos.", fr: "Un phare historique dans le parc national de Cabo Polonio, entouré d'une grande colonie de lions de mer."},
     
     facts: {
@@ -2537,7 +2528,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MA",
     coords: [-55.2636, -34.8214],
     name: { de: "Castillo de Piria", hu: "Piria kastély", ro: "Castelul Piria", en: "Piria's Castle"},
-    image: "/poi-images/uy-ma-castillo-de-piria-landmarks-v2.webp",
     description: { de: "Die ehemalige Residenz von Francisco Piria, dem Gründer der Küstenstadt Piriápolis.", hu: "Francisco Piria, a tengerparti Piriápolis város alapítójának egykori rezidenciája.", ro: "Fosta reședință a lui Francisco Piria, fondatorul orașului de coastă Piriápolis.", en: "The former residence of Francisco Piria, the founder of the coastal city of Piriápolis." , es: "La antigua residencia de Francisco Piria, el fundador de la ciudad costera de Piriápolis.", pt: "A antiga residência de Francisco Piria, o fundador da cidade costeira de Piriápolis.", fr: "L'ancienne résidence de Francisco Piria, le fondateur de la ville côtière de Piriápolis."},
     
     facts: {
@@ -3482,7 +3472,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-CA",
     coords: [-55.7656, -34.7431],
     name: { de: "Iglesia de Cristo Obrero", hu: "Iglesia de Cristo Obrero", ro: "Iglesia de Cristo Obrero", en: "Church of Christ the Worker"},
-    image: "/poi-images/uy-ca-iglesia-cristo-obrero-landmarks-v2.webp",
     description: { de: "Eine architektonisch einzigartige Backsteinkirche in Estación Atlántida, die von Eladio Dieste entworfen wurde.", hu: "Eladio Dieste által tervezett, építészetileg egyedülálló tégla templom Estación Atlántidában.", ro: "O biserică din cărămidă cu arhitectură unică în Estación Atlántida, proiectată de Eladio Dieste.", en: "An architecturally unique brick church in Estación Atlántida, designed by Eladio Dieste." , es: "Una iglesia de ladrillo arquitectónicamente única en Estación Atlántida, diseñada por Eladio Dieste.", pt: "Uma igreja de tijolos arquitetonicamente única em Estación Atlántida, projetada por Eladio Dieste.", fr: "Une église en briques à l'architecture unique située à Estación Atlántida, conçue par Eladio Dieste."},
     
     facts: {
@@ -3851,7 +3840,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MO",
     coords: [-56.1558, -34.8922],
     name: { de: "Monumento a La Carreta", hu: "A Szekér emlékműve", ro: "Monumentul La Carreta", en: "La Carreta Monument"},
-    image: "/poi-images/uy-mo-monumento-a-la-carreta-landmarks-v2.webp",
     description: { de: "Ein berühmtes Bronzedenkmal im Parque José Batlle y Ordóñez, das Ochsenkarren darstellt.", hu: "Híres bronz emlékmű a Parque José Batlle y Ordóñez parkban, amely egy ökörszekeret ábrázol.", ro: "Un faimos monument de bronz în Parque José Batlle y Ordóñez, înfățișând un car cu boi.", en: "A famous bronze monument in Parque José Batlle y Ordóñez depicting an ox cart." , es: "Un famoso monumento de bronce en el Parque José Batlle y Ordóñez que representa carretas de bueyes.", pt: "Um famoso monumento de bronze no Parque José Batlle y Ordóñez que representa carretas de bois.", fr: "Un célèbre monument en bronze dans le parc José Batlle y Ordóñez représentant des charrettes à bœufs."},
     
     facts: {
@@ -4148,7 +4136,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MO",
     coords: [-56.1633, -34.8972],
     name: { de: "Obelisco a los Constituyentes", hu: "Obelisco a los Constituyentes", ro: "Obelisco a los Constituyentes", en: "Obelisk to the Constituents"},
-    image: "/poi-images/uy-mo-obelisco-a-los-constituyentes-landmarks-v2.webp",
     description: { de: "Ein markanter Obelisk, der den Schöpfern der ersten Verfassung von Uruguay gewidmet ist.", hu: "Kiemelkedő obeliszk, amelyet Uruguay első alkotmányának megalkotói tiszteletére állítottak.", ro: "Un obelisc proeminent dedicat creatorilor primei constituții a Uruguayului.", en: "A prominent obelisk dedicated to the creators of the first Constitution of Uruguay." , es: "Un obelisco prominente dedicado a los creadores de la primera constitución de Uruguay.", pt: "Um obelisco proeminente dedicado aos criadores da primeira constituição do Uruguai.", fr: "Un obélisque proéminent dédié aux créateurs de la première constitution de l'Uruguay."},
     
     facts: {
@@ -4184,7 +4171,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MO",
     coords: [-56.2117, -34.9056],
     name: { de: "Mercado del Puerto", hu: "Mercado del Puerto", ro: "Mercado del Puerto", en: "Port Market"},
-    image: "/poi-images/uy-mo-mercado-del-puerto-landmarks-v2.webp",
     description: { de: "Eine historische Markthalle in der Altstadt von Montevideo, berühmt für ihre Grillrestaurants.", hu: "Történelmi vásárcsarnok Montevideo óvárosában, amely híres grillező éttermeiről.", ro: "O piață istorică acoperită din centrul vechi al orașului Montevideo, faimoasă pentru restaurantele sale cu grătar.", en: "A historic market hall in the Old City of Montevideo, famous for its barbecue restaurants." , es: "Un mercado histórico en la Ciudad Vieja de Montevideo, famoso por sus restaurantes de parrilla.", pt: "Um mercado histórico na Cidade Velha de Montevideu, famoso pelos seus restaurantes de grelhados.", fr: "Une halle historique dans la vieille ville de Montevideo, célèbre pour ses restaurants de grillades."},
     
     facts: {
@@ -4301,7 +4287,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MO",
     coords: [-56.2039, -34.9069],
     name: { de: "Catedral Metropolitana", hu: "Catedral Metropolitana", ro: "Catedral Metropolitana", en: "Metropolitan Cathedral"},
-    image: "/poi-images/uy-mo-catedral-metropolitana-landmarks-v2.webp",
     description: { de: "Die katholische Hauptkirche von Montevideo an der Plaza de la Constitución.", hu: "Montevideo legfőbb katolikus temploma a Plaza de la Constitución téren.", ro: "Principala biserică catolică din Montevideo, situată în Plaza de la Constitución.", en: "The main Catholic church in Montevideo, located on the Plaza de la Constitución." , es: "La principal iglesia católica de Montevideo en la Plaza de la Constitución.", pt: "A principal igreja católica de Montevideu na Plaza de la Constitución.", fr: "La principale église catholique de Montevideo sur la Plaza de la Constitución."},
     
     facts: {
@@ -4562,7 +4547,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MA",
     coords: [-54.8631, -34.9103],
     name: { de: "Puente Leonel Viera", hu: "Leonel Viera híd", ro: "Podul Leonel Viera", en: "Leonel Viera Bridge"},
-    image: "/poi-images/uy-ma-puente-leonel-viera-landmarks-v2.webp",
     description: { de: "Eine einzigartige wellenförmige Brücke in La Barra, die den Maldonado-Fluss überquert.", hu: "Egyedülálló hullám alakú híd La Barra közelében, amely a Maldonado-folyón ível át.", ro: "Un pod ondulat unic în La Barra, care traversează râul Maldonado.", en: "A unique undulating bridge in La Barra that crosses the Maldonado River." , es: "Un puente ondulado único en La Barra que cruza el río Maldonado.", pt: "Uma ponte ondulada única em La Barra que atravessa o rio Maldonado.", fr: "Un pont ondulé unique à La Barra qui traverse la rivière Maldonado."},
     
     facts: {
@@ -5111,7 +5095,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-CA",
     coords: [-56.0319, -34.8647],
     name: { de: "Puente de las Américas", hu: "Puente de las Américas", ro: "Puente de las Américas", en: "Bridge of the Americas"},
-    image: "/poi-images/uy-ca-puente-de-las-americas-landmarks-v2.webp",
     description: { de: "Eine beeindruckende Hängebrücke, die den Carrasco-Bach zwischen Montevideo und Canelones überquert.", hu: "Lenyűgöző függőhíd, amely a Carrasco-patakon ível át Montevideo és Canelones között.", ro: "Un impresionant pod suspendat care traversează pârâul Carrasco între Montevideo și Canelones.", en: "An impressive suspension bridge crossing the Carrasco Creek between Montevideo and Canelones." , es: "Un impresionante puente colgante que cruza el arroyo Carrasco entre Montevideo y Canelones.", pt: "Uma impressionante ponte suspensa que atravessa o ribeiro Carrasco entre Montevidéu e Canelones.", fr: "Un impressionnant pont suspendu qui traverse le ruisseau Carrasco entre Montevideo et Canelones."},
     
     facts: {
@@ -5264,7 +5247,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-CO",
     coords: [-57.8525, -34.4725],
     name: { de: "Faro de Colonia del Sacramento", hu: "Colonia del Sacramento-i világítótorony", ro: "Farul din Colonia del Sacramento", en: "Colonia del Sacramento Lighthouse"},
-    image: "/poi-images/uy-co-faro-de-colonia-landmarks-v2.webp",
     description: { de: "Ein malerischer Leuchtturm, der auf den Ruinen des Klosters San Francisco im historischen Viertel errichtet wurde.", hu: "Festői világítótorony, amely a San Francisco kolostor romjaira épült a történelmi negyedben.", ro: "Un far pitoresc construit pe ruinele mănăstirii San Francisco din cartierul istoric.", en: "A picturesque lighthouse built on the ruins of the San Francisco convent in the historic quarter." , es: "Un pintoresco faro construido sobre las ruinas del convento de San Francisco en el barrio histórico.", pt: "Um farol pitoresco construído sobre as ruínas do convento de San Francisco no bairro histórico.", fr: "Un phare pittoresque construit sur les ruines du couvent San Francisco dans le quartier historique."},
     
     facts: {
@@ -5777,7 +5759,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MO",
     coords: [-56.1578, -34.9214],
     name: { de: "Castillo Pittamiglio", hu: "Pittamiglio kastély", ro: "Castelul Pittamiglio", en: "Pittamiglio Castle"},
-    image: "/poi-images/uy-mo-castillo-pittamiglio-landmarks-v2.webp",
     description: { de: "Ein exzentrisches Gebäude des Alchemisten und Architekten Humberto Pittamiglio in Montevideo.", hu: "Humberto Pittamiglio alkimista és építész különc épülete Montevideóban.", ro: "O clădire excentrică a alchimistului și arhitectului Humberto Pittamiglio în Montevideo.", en: "An eccentric building by alchemist and architect Humberto Pittamiglio in Montevideo." , es: "Un edificio excéntrico del alquimista y arquitecto Humberto Pittamiglio en Montevideo.", pt: "Um edifício excêntrico do alquimista e arquiteto Humberto Pittamiglio em Montevideu.", fr: "Un bâtiment excentrique de l'alchimiste et architecte Humberto Pittamiglio à Montevideo."},
     
     facts: {
@@ -6434,7 +6415,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MO",
     coords: [-56.1367, -34.9042],
     name: { de: "World Trade Center Montevideo", hu: "World Trade Center Montevideo", ro: "World Trade Center Montevideo", en: "World Trade Center Montevideo"},
-    image: "/poi-images/uy-mo-wtc-montevideo-landmarks-v2.webp",
     description: { de: "Ein großer kommerzieller Geschäftskomplex im Viertel Buceo in Montevideo.", hu: "Nagy kereskedelmi üzleti komplexum Montevideo Buceo negyedében.", ro: "Un complex comercial de afaceri mare în cartierul Buceo din Montevideo.", en: "A large commercial business complex in the Buceo neighborhood of Montevideo." , es: "Un gran complejo comercial de negocios en el barrio de Buceo en Montevideo.", pt: "Um grande complexo comercial de negócios no bairro de Buceo em Montevideu.", fr: "Un grand complexe commercial d'affaires dans le quartier de Buceo à Montevideo."},
     
     facts: {
@@ -6470,7 +6450,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MO",
     coords: [-56.0658, -34.7981],
     name: { de: "Estadio Campeón del Siglo", hu: "Estadio Campeón del Siglo", ro: "Estadio Campeón del Siglo", en: "Estadio Campeón del Siglo"},
-    image: "/poi-images/uy-mo-estadio-campeon-del-siglo-landmarks-v2.webp",
     description: { de: "Ein modernes Fußballstadion, das dem Club Atlético Peñarol gehört.", hu: "Modern labdarúgó-stadion, amely a Club Atlético Peñarol tulajdonában van.", ro: "Un stadion de fotbal modern deținut de Club Atlético Peñarol.", en: "A modern football stadium owned by Club Atlético Peñarol." , es: "Un moderno estadio de fútbol perteneciente al Club Atlético Peñarol.", pt: "Um moderno estádio de futebol pertencente ao Club Atlético Peñarol.", fr: "Un stade de football moderne appartenant au Club Atlético Peñarol."},
     
     facts: {
@@ -6506,7 +6485,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MO",
     coords: [-56.1997, -34.9067],
     name: { de: "Mausoleo de José Gervasio Artigas", hu: "José Gervasio Artigas mauzóleuma", ro: "Mausoleul lui José Gervasio Artigas", en: "Mausoleum of José Gervasio Artigas"},
-    image: "/poi-images/uy-mo-mausoleo-artigas-landmarks-v2.webp",
     description: { de: "Ein beeindruckendes Mausoleum auf dem Plaza Independencia, das die Überreste des Nationalhelden beherbergt.", hu: "Lenyűgöző mauzóleum a Plaza Independencia téren, amely a nemzeti hős földi maradványait őrzi.", ro: "Un mausoleu impresionant în Plaza Independencia, care adăpostește rămășițele eroului național.", en: "An impressive mausoleum in Plaza Independencia housing the remains of the national hero." , es: "Un impresionante mausoleo en la Plaza Independencia que alberga los restos del héroe nacional.", pt: "Um impressionante mausoléu na Plaza Independencia que abriga os restos mortais do herói nacional.", fr: "Un impressionnant mausolée sur la Plaza Independencia qui abrite les restes du héros national."},
     
     facts: {
@@ -7595,7 +7573,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MO",
     coords: [-56.1517, -34.855],
     name: { de: "Antel Arena", hu: "Antel Arena", ro: "Antel Arena", en: "Antel Arena"},
-    image: "/poi-images/uy-mo-antel-arena-landmarks-v2.webp",
     description: { de: "Eine hochmoderne Mehrzweckhalle in Montevideo für Sport- und Kulturveranstaltungen.", hu: "Ultramodern többcélú aréna Montevideóban sport- és kulturális események számára.", ro: "O arenă multifuncțională ultramodernă în Montevideo pentru evenimente sportive și culturale.", en: "An ultra-modern multi-purpose arena in Montevideo for sports and cultural events." , es: "Un estadio polivalente ultramoderno en Montevideo para eventos deportivos y culturales.", pt: "Um pavilhão multiúsos de última geração em Montevideu para eventos desportivos e culturais.", fr: "Une salle polyvalente ultramoderne à Montevideo pour les événements sportifs et culturels."},
     
     facts: {
@@ -7712,7 +7689,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MA",
     coords: [-54.6347, -34.8425],
     name: { de: "Faro de José Ignacio", hu: "José Ignacio világítótorony", ro: "Farul José Ignacio", en: "José Ignacio Lighthouse"},
-    image: "/poi-images/uy-ma-faro-jose-ignacio-landmarks-v2.webp",
     description: { de: "Ein klassischer Leuchtturm in einem exklusiven Küstendorf, der den rauen Atlantik überblickt.", hu: "Klasszikus világítótorony egy exkluzív tengerparti faluban, kilátással a zord Atlanti-óceánra.", ro: "Un far clasic într-un sat de coastă exclusivist, cu vedere la Atlanticul accidentat.", en: "A classic lighthouse in an exclusive coastal village overlooking the rugged Atlantic." , es: "Un faro clásico en un exclusivo pueblo costero que domina el embravecido Atlántico.", pt: "Um farol clássico numa exclusiva aldeia costeira com vista para o agitado Atlântico.", fr: "Un phare classique situé dans un village côtier exclusif, surplombant l'Atlantique tumultueux."},
     
     facts: {
@@ -7901,7 +7877,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-RO",
     coords: [-53.5414, -33.6933],
     name: { de: "Fuerte de San Miguel", hu: "San Miguel erőd", ro: "Fortul San Miguel", en: "Fort of San Miguel"},
-    image: "/poi-images/uy-ro-fuerte-san-miguel-landmarks-v2.webp",
     description: { de: "Eine historische Militärfestung an der Grenze zu Brasilien, die die koloniale Vergangenheit widerspiegelt.", hu: "Történelmi katonai erőd a brazil határon, amely a gyarmati múltat tükrözi.", ro: "Un fort militar istoric la granița cu Brazilia, reflectând trecutul colonial.", en: "A historic military fort on the border with Brazil reflecting the colonial past." , es: "Una fortaleza militar histórica en la frontera con Brasil que refleja el pasado colonial de la región.", pt: "Uma fortaleza militar histórica na fronteira com o Brasil que reflete o passado colonial da região.", fr: "Une forteresse militaire historique à la frontière avec le Brésil qui reflète le passé colonial de la région."},
     
     facts: {
@@ -8270,7 +8245,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-RO",
     coords: [-53.5469, -33.9739],
     name: { de: "Fortaleza de Santa Teresa", hu: "Santa Teresa erőd", ro: "Fortăreața Santa Teresa", en: "Fortress of Santa Teresa"},
-    image: "/poi-images/uy-ro-fortaleza-santa-teresa-landmarks-v2.webp",
     description: { de: "Eine beeindruckende Kolonialfestung in der Nähe der Küste, umgeben von einem großen Nationalpark.", hu: "Lenyűgöző gyarmati erőd a tengerpart közelében, amelyet egy nagy nemzeti park vesz körül.", ro: "O fortăreață colonială impresionantă aproape de coastă, înconjurată de un mare parc național.", en: "An impressive colonial fortress near the coast, surrounded by a large national park." , es: "Una impresionante fortaleza colonial cerca de la costa, rodeada por un gran parque nacional.", pt: "Uma impressionante fortaleza colonial perto da costa, rodeada por um grande parque nacional.", fr: "Une impressionnante forteresse coloniale près de la côte, entourée d'un grand parc national."},
     
     facts: {
@@ -8495,7 +8469,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MO",
     coords: [-56.2081, -34.9064],
     name: { de: "Palacio Taranco", hu: "Palacio Taranco", ro: "Palacio Taranco", en: "Taranco Palace"},
-    image: "/poi-images/uy-mo-palacio-taranco-landmarks-v2.webp",
     description: { de: "Ein eleganter Palast im französischen Stil in der Altstadt, der das Museum für dekorative Kunst beherbergt.", hu: "Elegáns francia stílusú palota az óvárosban, amely az Iparművészeti Múzeumnak ad otthont.", ro: "Un palat elegant în stil francez în Orașul Vechi, care găzduiește Muzeul de Arte Decorative.", en: "An elegant French-style palace in the Old City that houses the Museum of Decorative Arts." , es: "Un elegante palacio de estilo francés en el casco antiguo que alberga el Museo de Artes Decorativas.", pt: "Um elegante palácio de estilo francês na cidade velha que alberga o Museu de Artes Decorativas.", fr: "Un élégant palais de style français dans la vieille ville qui abrite le musée des arts décoratifs."},
     
     facts: {
@@ -8864,7 +8837,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MA",
     coords: [-54.9575, -34.9083],
     name: { de: "Cuartel de Dragones", hu: "Cuartel de Dragones", ro: "Cuartel de Dragones", en: "Dragons Barracks"},
-    image: "/poi-images/uy-ma-cuartel-de-dragones-landmarks-v2.webp",
     description: { de: "Eine historische Militärkasern, in der der Nationalheld José Artigas seine militärische Laufbahn begann.", hu: "Történelmi katonai laktanya, ahol a nemzeti hős, José Artigas katonai pályafutását kezdte.", ro: "O cazarmă militară istorică unde eroul național José Artigas și-a început cariera militară.", en: "A historic military barracks where the national hero José Artigas began his military career." , es: "Un cuartel militar histórico donde el héroe nacional José Artigas comenzó su carrera militar.", pt: "Um quartel militar histórico onde o herói nacional José Artigas iniciou a sua carreira militar.", fr: "Une caserne militaire historique où le héros national José Artigas a commencé sa carrière militaire."},
     
     facts: {
@@ -8981,7 +8953,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
     parent: "UY-MA",
     coords: [-54.5583, -34.7989],
     name: { de: "Puente de la Laguna Garzón", hu: "Laguna Garzón híd", ro: "Podul Laguna Garzón", en: "Laguna Garzón Bridge"},
-    image: "/poi-images/uy-ma-puente-laguna-garzon-landmarks-v2.webp",
     description: { de: "Eine einzigartige kreisförmige Brücke, die die Geschwindigkeit der Autos verlangsamen soll.", hu: "Egyedülálló kör alakú híd, amelyet az autók sebességének lassítására terveztek.", ro: "Un pod circular unic, conceput pentru a încetini viteza mașinilor.", en: "A unique circular bridge designed to slow down the speed of cars." , es: "Un puente circular único diseñado para ralentizar la velocidad de los coches.", pt: "Uma ponte circular única concebida para abrandar a velocidade dos carros.", fr: "Un pont circulaire unique conçu pour ralentir la vitesse des voitures."},
     
     facts: {

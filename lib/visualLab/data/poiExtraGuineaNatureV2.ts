@@ -93,7 +93,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Nimba-hegy",
       ro: "Muntele Nimba",
       en: "Mount Nimba"},
-    image: "/poi-images/mount-nimba-nature-v2.webp",
     description: {
       de: "Der Mount Nimba ist der höchste Berg Guineas und Teil des Nimba-Massivs, das als UNESCO-Welterbe gelistet ist. Er beherbergt eine außergewöhnliche Artenvielfalt in seinen Bergwäldern.",
       hu: "A Nimba-hegy Guinea legmagasabb pontja és a Nimba-masszívum része, amely az UNESCO Világörökség listáján szerepel. Hegyi erdőiben rendkívüli biológiai sokféleség található.",
@@ -188,7 +187,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Fouta Djallon",
       ro: "Fouta Djallon",
       en: "Fouta Djallon"},
-    image: "/poi-images/fouta-djallon-nature-v2.webp",
     description: {
       de: "Das Fouta Djallon ist ein ausgedehntes Hochland im Westen Guineas, bekannt als das 'Wasserschloss Westafrikas'. Hier entspringen zahlreiche große Flüsse der Region.",
       hu: "A Fouta Djallon Guinea nyugati részén található kiterjedt hegyvidék, amelyet 'Nyugat-Afrika víztornyának' is neveznek. Itt ered a régió számos nagy folyója.",
@@ -235,7 +233,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Loura-hegy",
       ro: "Muntele Loura",
       en: "Mount Loura"},
-    image: "/poi-images/mount-loura-nature-v2.webp",
     description: {
       de: "Der Mount Loura ist der nördlichste Punkt des Fouta Djallon Massivs. Bekannt ist er für die 'Dame de Mali', eine natürliche Felsformation, die einer Frau ähnelt.",
       hu: "A Loura-hegy a Fouta Djallon-masszívum legészakibb pontja. Híres a 'Mali hölgye' nevű természetes sziklaképződményéről, amely egy női alakot formáz.",
@@ -258,7 +255,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       de: "Der Mount Loura (Mont Loura) ist mit einer Höhe von 1.515 Metern der höchste Punkt des Fouta-Djallon-Massivs und ein markantes Naturdenkmal im Norden Guineas. Geografisch liegt der Berg in der Präfektur Mali, nahe der Grenze zum Senegal. Die Spitze des Berges bietet eine spektakuläre Rundumsicht, die an klaren Tagen bis weit in die Ebenen des Nachbarlandes reicht. Weltweite Bekanntheit erlangte der Mount Loura jedoch vor allem durch eine außergewöhnliche geologische Formation an einer seiner Flanken: die 'Dame du Mali' (Die Dame von Mali). Dabei handelt es sich um eine durch Wind- und Wassererosion geformte Felswand, die aus einem bestimmten Blickwinkel das Profil einer Frau mit aristokratischen Zügen zeigt. Die Landschaft um den Mount Loura ist durch karge Plateaus, schroffe Klippen und eine kühle, oft windige Atmosphäre geprägt. Das Klima hier oben ist eines der extremsten Guineas, mit beträchtlichen Temperaturschwankungen zwischen Tag und Nacht. Botanisch beherbergt der Berg seltene alpine Pflanzenarten, die an die harten Bedingungen der Hochebene angepasst sind. Für die lokale Bevölkerung ist der Mount Loura ein Ort voller Legenden und ein Symbol für die Unbeugsamkeit ihrer Heimat. Er ist ein unverzichtbares Ziel für Wanderer und Naturliebhaber, die die raue und mystische Schönheit des guineischen Hochlandes erleben möchten.",
       hu: "A Loura-hegy (Mont Loura) 1515 méteres magasságával a Fouta Djallon-hegység legmagasabb pontja, és Guinea északi részének egyik legmeghatározóbb természeti szimbóluma. Földrajzilag a Mali prefektúrában található, közel a szenegáli határhoz. A hegycsúcsról lélegzetelállító panoráma nyílik, amely tiszta időben messze benyúlik a szomszédos ország síkságaira. A Loura-hegy világhírnevét azonban elsősorban egy különleges sziklaformációnak köszönheti: a „Mali asszonyának” (Dame du Mali). Ez egy szél- és vízerózió által koptatott sziklafal, amely egy meghatározott szögből nézve egy előkelő vonású női arc profilját formázza meg tökéletesen. A hegy környéki tájat kopár fennsíkok, meredek sziklák és hűvös, gyakran szeles időjárás jellemzi. Itt mérhetőek Guinea legszélsőségesebb hőmérsékleti értékei, a nappali forróságot gyakran fagy közeli éjszakák követik. Botanikailag a hegy ritka magaslati növényfajoknak ad otthont, amelyek alkalmazkodtak a zord körülményekhez. A helyi lakosság körében a Loura-hegy számos legenda forrása, és a hegyvidéki ember szívósságának jelképe. A túrázók és természetfotósok számára a Loura-hegy Guinea egyik legvonzóbb célpontja, ahol a természet ereje és misztikus szépsége közvetlenül megtapasztalható.",
       ro: "Muntele Loura (Mont Loura) este punctul culminant al masivului Fouta Djallon, având o înălțime de 1.515 metri, și un monument natural emblematic în nordul Guineei. Geografic, acesta este situat în prefectura Mali, aproape de frontiera cu Senegalul. Vârful muntelui oferă o panoramă spectaculoasă care, în zilele senine, se întinde până în câmpiile vaste ale statului vecin. Muntele Loura a câștigat celebritate internațională în special datorită unei formațiuni geologice neobișnuite de pe unul dintre versanții săi: „Doamna din Mali” (Dame du Mali). Aceasta este o stâncă sculptată de eroziunea vântului și a apei, care dintr-un anumit unghi înfățișează profilul perfect al unei femei cu trăsături aristocratice. Peisajul din jurul Muntelui Loura este caracterizat prin platouri stâncoase, faleze abrupte și un climat răcoros, adesea bântuit de vânturi puternice. Temperaturile de aici sunt printre cele mai scăzute din Guineea, oferind un mediu atipic pentru Africa tropicală. Din punct de vedere botanic, muntele găzduiește specii alpine rare, adaptate condițiilor aspre de altitudine. Pentru comunitățile locale, Loura este un loc încărcat de legende și un simbol al mândriei regionale. Este o destinație esențială pentru turiștii pasionați de trekking și pentru cei care caută frumusețea mistică a munților guineeni.",
-      en: "Mount Loura is the highest point of the Fouta Djallon highlands in Guinea, standing at 1,515 meters (some sources cite 1,573 m). It is located in the northern part of the country, near the town of Mali and the border with Senegal. The mountain is world-famous for the 'Lady of Mali', a natural rock formation created by erosion that strikingly resembles the profile of a woman's face. Legend tells of an unfaithful wife turned to stone. From the summit, a spectacular panoramic view stretches across the vast plains of Guinea and Senegal. The vegetation is typical of the highlands, featuring grasslands and scattered shrubs. The cool mountain air provides a welcome respite from the heat of the lowlands. The area is a popular destination for hikers and nature photographers.",
       en: "Mount Loura (Mont Loura) is the highest peak in the Fouta Djallon range, standing at 1,515 meters, and is a major natural landmark in northern Guinea. Geographically located in the Mali Prefecture near the border with Senegal, the mountain's summit offers spectacular 360-degree views that extend far into the neighboring country's plains on clear days. Mount Loura is most famous internationally for an extraordinary geological formation on one of its slopes: the 'Lady of Mali' (Dame du Mali). This natural rock wall has been carved by wind and water erosion to resemble, from a specific angle, the perfect profile of a woman with aristocratic features. The landscape around Mount Loura is characterized by rugged plateaus, sheer cliffs, and a cool, often windy atmosphere. The climate is among the most extreme in Guinea, with significant day-to-night temperature fluctuations that can drop near freezing during the harmattan season. Botanically, the mountain supports rare high-altitude plant species adapted to the harsh conditions. For the local people, Mount Loura is a site of legends and a symbol of the rugged spirit of the highlands. It remains a premier destination for hikers and nature enthusiasts seeking the mystical and raw beauty of Guinea's highest terrains.",
       pt: "O Monte Loura (Mont Loura), com uma altitude de 1.515 metros, é o ponto mais alto do maciço de Fouta-Djallon e um monumento natural proeminente no norte da Guiné. Geograficamente, a montanha está localizada na prefeitura de Mali, perto da fronteira com o Senegal. O topo da montanha oferece uma vista panorâmica espetacular que, em dias claros, se estende até as planícies do país vizinho. No entanto, o Monte Loura ganhou fama mundial principalmente devido a uma formação geológica extraordinária numa das suas encostas: a 'Dame du Mali' (A Dama de Mali). Trata-se de uma parede rochosa moldada pela erosão do vento e da água que, de um determinado ângulo, mostra o perfil de uma mulher com traços aristocráticos. A paisagem ao redor do Monte Loura é caracterizada por planaltos áridos, penhascos íngremes e uma atmosfera fresca e muitas vezes ventosa. O clima aqui em cima é um dos mais extremos da Guiné, com variações de temperatura consideráveis entre o dia e a noite. Botanicamente, a montanha abriga espécies de plantas alpinas raras adaptadas às condições adversas do planalto. Para a população local, o Monte Loura é um lugar cheio de lendas e um símbolo da indomabilidade da sua terra natal. É um destino indispensável para caminhantes e amantes da natureza que queiram experimentar a beleza crua e mística das terras altas da Guiné.",
       fr: "Le mont Loura est, avec ses 1 515 mètres d'altitude, le point culminant du massif du Fouta-Djalon et un monument naturel marquant du nord de la Guinée. Géographiquement, la montagne se situe dans la préfecture de Mali, près de la frontière avec le Sénégal. Le sommet offre une vue panoramique spectaculaire qui, par temps clair, s'étend loin dans les plaines du pays voisin. Le mont Loura a acquis une renommée mondiale principalement grâce à une formation géologique extraordinaire sur l'un de ses flancs : la « Dame de Mali ». Il s'agit d'une paroi rocheuse sculptée par l'érosion éolienne et hydraulique qui, sous un certain angle, présente le profil d'une femme aux traits aristocratiques. Le paysage autour du mont Loura est marqué par des plateaux arides, des falaises abruptes et une atmosphère fraîche et souvent venteuse. Le climat y est l'un des plus extrêmes de Guinée, avec des variations de température considérables entre le jour et la nuit. Botaniquement, la montagne abrite des espèces végétales alpines rares adaptées aux conditions rudes du haut plateau. Pour la population locale, le mont Loura est un lieu chargé de légendes et un symbole de l'indomptabilité de sa patrie. C'est une destination incontournable pour les randonneurs et les amoureux de la nature souhaitant découvrir la beauté sauvage et mystique des hauts plateaux guinéens.",
@@ -283,7 +279,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Bafing",
       ro: "Bafing",
       en: "Bafing"},
-    image: "/poi-images/bafing-river-nature-v2.webp",
     description: {
       de: "Der Bafing ist der wichtigste Quellfluss des Senegal-Flusses. Er fließt durch den Norden Guineas und ist für das hydroelektrische Potenzial der Region von großer Bedeutung.",
       hu: "A Bafing a Szenegál-folyó legfontosabb forráságának tekinthető. Guinea északi részén folyik keresztül, és fontos szerepe van a régió vízienergia-termelésében.",
@@ -366,7 +361,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Kassa-sziget",
       ro: "Insula Kassa",
       en: "Kassa Island"},
-    image: "/poi-images/kassa-island-nature-v2.webp",
     description: {
       de: "Kassa ist die bevölkerungsreichste Insel der Îles de Los vor Conakry. Sie bietet schöne Strände und war historisch ein Zentrum des Bauxitabbaus.",
       hu: "Kassa a Conakry előtt fekvő Îles de Los legnépesebb szigete. Gyönyörű strandokat kínál, és történelmileg a bauxitbányászat egyik központja volt.",
@@ -530,7 +524,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Roume-sziget",
       ro: "Insula Roume",
       en: "Roume Island"},
-    image: "/poi-images/roume-island-nature-v2.webp",
     description: {
       de: "Die Insel Roume gehört zum Archipel der Îles de Los. Sie soll die Inspiration für den Roman 'Die Schatzinsel' gewesen sein und ist heute ein beliebtes Ausflugsziel.",
       hu: "Roume szigete az Îles de Los szigetcsoporthoz tartozik. Állítólag ez a sziget ihlette 'A kincses sziget' című regényt, ma pedig népszerű kirándulóhely.",
@@ -577,7 +570,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Milo",
       ro: "Milo",
       en: "Milo"},
-    image: "/poi-images/milo-river-nature-v2.webp",
     description: {
       de: "Der Milo ist ein wichtiger Nebenfluss des Niger im Osten Guineas. Er fließt durch Kankan und ist eine bedeutende Wasserstraße für die Region.",
       hu: "A Milo a Niger fontos mellékfolyója Guinea keleti részén. Kankan városán folyik keresztül, és a régió jelentős vízi útja.",
@@ -624,7 +616,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Konkouré",
       ro: "Konkouré",
       en: "Konkouré"},
-    image: "/poi-images/konkoure-river-nature-v2.webp",
     description: {
       de: "Der Konkouré ist einer der wichtigsten Küstenflüsse Guineas. Er ist bekannt für seine großen Wasserkraftwerke, die die Aluminiumindustrie des Landes versorgen.",
       hu: "A Konkouré Guinea egyik legfontosabb parti folyója. Híres nagy vízi erőműveiről, amelyek az ország alumíniumiparát látják el energiával.",
@@ -671,7 +662,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Ziama-erdő",
       ro: "Pădurea Ziama",
       en: "Ziama Forest"},
-    image: "/poi-images/ziama-forest-nature-v2.webp",
     description: {
       de: "Das Ziama-Massiv beherbergt einen der letzten großen Primärregenwälder Guineas. Es ist ein Biosphärenreservat und Heimat einer bedeutenden Elefantenpopulation.",
       hu: "A Ziama-masszívum Guinea egyik utolsó nagy elsődleges esőerdőjének ad otthont. Bioszféra-rezervátum és jelentős elefántpopuláció élőhelye.",
@@ -718,7 +708,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Tinkisso",
       ro: "Tinkisso",
       en: "Tinkisso"},
-    image: "/poi-images/tinkisso-river-nature-v2.webp",
     description: {
       de: "Der Tinkisso ist ein großer Nebenfluss des Niger im Norden Guineas. Er fließt durch eine malerische Savannenlandschaft und ist wichtig für die lokale Landwirtschaft.",
       hu: "A Tinkisso a Niger nagy mellékfolyója Guinea északi részén. Festői szavannai tájon folyik keresztül, és fontos a helyi mezőgazdaság számára.",
@@ -765,7 +754,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Atlanti-óceán",
       ro: "Oceanul Atlantic",
       en: "Atlantic Ocean"},
-    image: "/poi-images/atlantic-ocean-guinea-nature-v2.webp",
     description: {
       de: "Die guineische Atlantikküste erstreckt sich über hunderte Kilometer und ist geprägt von Mangrovenwäldern, Flussmündungen und weiten Sandstränden.",
       hu: "A guineai atlanti partvidék több száz kilométeren át húzódik, mangroveerdők, folyótorkolatok és széles homokos strandok jellemzik.",
@@ -857,7 +845,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Gangan-hegy",
       ro: "Muntele Gangan",
       en: "Mount Gangan"},
-    image: "/poi-images/mount-gangan-nature-v2.webp",
     description: {
       de: "Der Mount Gangan überragt die Stadt Kindia und bietet einen spektakulären Blick auf das Umland. Er ist ein Wahrzeichen der Region und beliebt bei Wanderern.",
       hu: "A Gangan-hegy Kindia városa fölé magasodik, és látványos kilátást nyújt a környékre. A régió jelképe és a túrázók kedvelt célpontja.",
@@ -904,7 +891,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Fatala",
       ro: "Fatala",
       en: "Fatala"},
-    image: "/poi-images/fatala-river-nature-v2.webp",
     description: {
       de: "Der Fatala-Fluss fließt durch die Region Boké in den Atlantik. Er ist bekannt für seine Mangrovenlandschaften und die historische Bedeutung für den Handel an der Küste.",
       hu: "A Fatala-folyó a Boké régión keresztül folyik az Atlanti-óceánba. Híres mangrove-tájairól és a tengerparti kereskedelemben betöltött történelmi jelentőségéről.",
@@ -951,7 +937,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Diecké-erdő",
       ro: "Pădurea Diecké",
       en: "Diecké Forest"},
-    image: "/poi-images/diecke-forest-nature-v2.webp",
     description: {
       de: "Das Diecké-Waldreservat im Süden Guineas ist ein bedeutender Regenwald, der für den Erhalt seltener Tierarten wie Schimpansen und Zwergflusspferde wichtig ist.",
       hu: "A dél-guineai Diecké-erdőrezervátum jelentős esőerdő, amely fontos szerepet játszik az olyan ritka állatfajok megőrzésében, mint a csimpánzok és a törpevízilók.",
@@ -1079,7 +1064,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Sonfonia-tó",
       ro: "Lacul Sonfonia",
       en: "Lake Sonfonia"},
-    image: "/poi-images/lake-sonfonia-nature-v2.webp",
     description: {
       de: "Der Sonfonia-See liegt am Rande der Hauptstadt Conakry. Er dient als wichtiges Wasserreservoir und ist ein Ort für lokale Freizeitaktivitäten.",
       hu: "A Sonfonia-tó a főváros, Conakry szélén található. Fontos víztározóként szolgál, és a helyi szabadidős tevékenységek helyszíne.",
@@ -1243,7 +1227,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Tristao-szigetek",
       ro: "Insulele Tristao",
       en: "Tristao Islands"},
-    image: "/poi-images/tristao-islands-nature-v2.webp",
     description: {
       de: "Die Tristao-Inseln liegen im äußersten Nordwesten der guineischen Küste. Sie sind ein wichtiges Brutgebiet für Seevögel und Meeresschildkröten.",
       hu: "A Tristao-szigetek a guineai partvidék távoli északnyugati részén találhatók. Fontos fészkelőhelyei a tengeri madaraknak és a tengeri teknősöknek.",
@@ -1290,7 +1273,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Sankarani",
       ro: "Sankarani",
       en: "Sankarani"},
-    image: "/poi-images/sankarani-river-nature-v2.webp",
     description: {
       de: "Der Sankarani ist ein Nebenfluss des Niger, der durch den Osten Guineas fließt. Er bildete historisch eine wichtige Grenze des alten Mali-Reiches.",
       hu: "A Sankarani a Niger mellékfolyója, amely Guinea keleti részén folyik keresztül. Történelmileg az egykori Mali Birodalom fontos határát alkotta.",
@@ -1385,7 +1367,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Diani",
       ro: "Diani",
       en: "Diani"},
-    image: "/poi-images/diani-river-nature-v2.webp",
     description: {
       de: "Der Diani-Fluss (auch St. Paul River genannt) fließt durch die Waldregion Südguineas. Er durchquert dichte Regenwälder und bildet die Grenze zu Liberia.",
       hu: "A Diani-folyó (más néven St. Paul folyó) Dél-Guinea erdős régióján folyik keresztül. Sűrű esőerdőkön halad át, és alkotja a libériai határt.",
@@ -1432,7 +1413,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Kakoulima-hegy",
       ro: "Muntele Kakoulima",
       en: "Mount Kakoulima"},
-    image: "/poi-images/mount-kakoulima-nature-v2.webp",
     description: {
       de: "Der Mount Kakoulima ist ein weithin sichtbarer Berg nahe der Küste bei Conakry. Er ist oft in Wolken gehüllt und gilt als markanter Orientierungspunkt.",
       hu: "A Kakoulima-hegy a tengerpart közelében, Conakry mellett fekvő, messziről látható hegy. Gyakran burkolózik felhőkbe, és jellegzetes tájékozódási pontnak számít.",
@@ -1479,7 +1459,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Rio Nuñez",
       ro: "Rio Nuñez",
       en: "Rio Nuñez"},
-    image: "/poi-images/rio-nunez-nature-v2.webp",
     description: {
       de: "Der Rio Nuñez ist ein Gezeitenfluss im Westen Guineas. Er ist historisch bedeutsam für den Handel und führt durch weite Mangrovensümpfe zum Atlantik.",
       hu: "A Rio Nuñez egy árapály-folyó Nyugat-Guineában. Történelmileg jelentős a kereskedelem szempontjából, és kiterjedt mangrovemocsarakon keresztül vezet az Atlanti-óceánhoz.",
@@ -1526,7 +1505,6 @@ export const poiExtraGuineaNatureV2: POI[] = [
       hu: "Fotoba-sziget",
       ro: "Insula Fotoba",
       en: "Fotoba Island"},
-    image: "/poi-images/fotoba-island-nature-v2.webp",
     description: {
       de: "Die Insel Fotoba ist die westlichste der Îles de Los. Sie ist bekannt für ihre Ruhe, die dichte Vegetation und die historischen Überreste aus der Kolonialzeit.",
       hu: "Fotoba szigete az Îles de Los legnyugatibb tagja. Nyugalmáról, sűrű növényzetéről és a gyarmati időkből származó történelmi maradványairól ismert.",

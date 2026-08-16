@@ -381,7 +381,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Bangkok",
       ro: "Bangkok",
       en: "Bangkok"},
-    image: "/poi-images/bangkok-cities-v2.webp",
     description: {
       de: "Bangkok ist die Hauptstadt und größte Stadt Thailands, bekannt für ihre verzierten Schreine und das pulsierende Straßenleben.",
       hu: "Bangkok Thaiföld fővárosa és legnagyobb városa, amely díszes szentélyeiről és nyüzsgő utcai életéről ismert.",
@@ -2078,7 +2077,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Csiangmaj",
       ro: "Chiang Mai",
       en: "Chiang Mai"},
-    image: "/poi-images/chiang-mai-cities-v2.webp",
     description: {
       de: "Chiang Mai ist eine Stadt im bergigen Norden Thailands, die für ihre Altstadt mit Mauern und Hunderten von buddhistischen Tempeln bekannt ist.",
       hu: "Csiangmaj egy város Thaiföld hegyvidéki északi részén, amely fallal körülvett óvárosáról és több száz buddhista templomáról ismert.",
@@ -2890,7 +2888,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Phuket város",
       ro: "Orașul Phuket",
       en: "Phuket City"},
-    image: "/poi-images/phuket-city-cities-v2.webp",
     description: {
       de: "Phuket-Stadt ist die Hauptstadt der Inselprovinz Phuket, bekannt für ihre Altstadt mit sino-portugiesischer Architektur.",
       hu: "Phuket város Phuket sziget-tartomány fővárosa, amely a kínai-portugál építészetéről ismert óvárosáról nevezetes.",
@@ -3738,7 +3735,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Pattaja",
       ro: "Pattaya",
       en: "Pattaya"},
-    image: "/poi-images/pattaya-cities-v2.webp",
     description: {
       de: "Pattaya ist eine Stadt an der Ostküste des Golfs von Thailand, die für ihre Strände und ihr Nachtleben bekannt ist.",
       hu: "Pattaja egy város a Thai-öböl keleti partján, amely strandjairól és éjszakai életéről ismert.",
@@ -4118,7 +4114,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Nonthaburi",
       ro: "Nonthaburi",
       en: "Nonthaburi"},
-    image: "/poi-images/nonthaburi-cities-v2.webp",
     description: {
       de: "Nonthaburi ist eine Stadt und Provinz nördlich von Bangkok, die Teil der Metropolregion Bangkok ist.",
       hu: "Nonthaburi egy város és tartomány Bangkoktól északra, a bangkoki metropolisz régió része.",
@@ -4390,7 +4385,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Udonthani",
       ro: "Udon Thani",
       en: "Udon Thani"},
-    image: "/poi-images/udon-thani-cities-v2.webp",
     description: {
       de: "Udon Thani ist ein wichtiges regionales Zentrum im Nordosten Thailands, das als Tor nach Laos dient.",
       hu: "Udonthani egy fontos regionális központ Thaiföld északkeleti részén, amely kapuként szolgál Laosz felé.",
@@ -5130,7 +5124,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Nakhonratcsaszima",
       ro: "Nakhon Ratchasima",
       en: "Nakhon Ratchasima"},
-    image: "/poi-images/nakhon-ratchasima-cities-v2.webp",
     description: {
       de: "Nakhon Ratchasima, oft Korat genannt, ist eine der größten Städte in der nordöstlichen Region Isan.",
       hu: "Nakhonratcsaszima, gyakran Koratnak nevezik, az egyik legnagyobb város az északkeleti Isan régióban.",
@@ -5258,7 +5251,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Hatjaj",
       ro: "Hat Yai",
       en: "Hat Yai"},
-    image: "/poi-images/hat-yai-cities-v2.webp",
     description: {
       de: "Hat Yai ist die größte Stadt in der Provinz Songkhla und ein wichtiges Handels-, Logistik- und Kommunikationszentrum im Süden Thailands.",
       hu: "Hatjaj a Songkhla tartomány legnagyobb városa, és Dél-Thaiföld fontos kereskedelmi, logisztikai és kommunikációs központja.",
@@ -6592,7 +6584,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Ajutthaja",
       ro: "Ayutthaya",
       en: "Ayutthaya"},
-    image: "/poi-images/ayutthaya-cities-v2.webp",
     description: {
       de: "Phra Nakhon Si Ayutthaya ist eine Stadt, die die Ruinen der ehemaligen Hauptstadt des Königreichs Siam beherbergt.",
       hu: "Phra Nakhon Si Ayutthaya egy város, amely a Sziámi Királyság egykori fővárosának romjait őrzi.",
@@ -6972,7 +6963,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Khonken",
       ro: "Khon Kaen",
       en: "Khon Kaen"},
-    image: "/poi-images/khon-kaen-cities-v2.webp",
     description: {
       de: "Khon Kaen ist eines der vier Hauptzentren von Isan, dem Nordosten Thailands, und ein wichtiges Bildungszentrum.",
       hu: "Khonken egyike Isan, Thaiföld északkeleti részének négy fő központjának, és fontos oktatási központ.",
@@ -7424,7 +7414,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Suratthani",
       ro: "Surat Thani",
       en: "Surat Thani"},
-    image: "/poi-images/surat-thani-cities-v2.webp",
     description: {
       de: "Surat Thani ist eine Stadt am Golf von Thailand und das Tor zu den beliebten Inseln Ko Samui, Ko Pha-ngan und Ko Tao.",
       hu: "Suratthani egy város a Thai-öböl partján, és kapuja a népszerű Ko Samui, Ko Pha-ngan és Ko Tao szigeteknek.",
@@ -8524,7 +8513,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Csiangraj",
       ro: "Chiang Rai",
       en: "Chiang Rai"},
-    image: "/poi-images/chiang-rai-cities-v2.webp",
     description: {
       de: "Chiang Rai ist die nördlichste Großstadt Thailands und diente als Hauptstadt des Königreichs Lan Na.",
       hu: "Csiangraj Thaiföld legészakibb nagyvárosa, és a Lan Na Királyság fővárosaként szolgált.",
@@ -8796,7 +8784,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Rajong",
       ro: "Rayong",
       en: "Rayong"},
-    image: "/poi-images/rayong-cities-v2.webp",
     description: {
       de: "Rayong ist eine Stadt an der Küste des Golfs von Thailand, die für ihre Strände und als Zentrum der Petrochemieindustrie bekannt ist.",
       hu: "Rajong egy város a Thai-öböl partján, amely strandjairól és petrolkémiai iparának központjaként ismert.",
@@ -8996,7 +8983,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Ubonratcsathani",
       ro: "Ubon Ratchathani",
       en: "Ubon Ratchathani"},
-    image: "/poi-images/ubon-ratchathani-cities-v2.webp",
     description: {
       de: "Ubon Ratchathani ist eine der vier großen Städte von Isan und bekannt für sein jährliches Kerzenfest.",
       hu: "Ubonratcsathani egyike Isan négy nagyvárosának, és éves gyertyafesztiváljáról ismert.",
@@ -9304,7 +9290,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Nakhonszavan",
       ro: "Nakhon Sawan",
       en: "Nakhon Sawan"},
-    image: "/poi-images/nakhon-sawan-cities-v2.webp",
     description: {
       de: "Nakhon Sawan, auch 'Pak Nam Pho' genannt, ist die Stadt, in der die Flüsse Ping und Nan zusammenfließen und den Fluss Chao Phraya bilden.",
       hu: "Nakhonszavan, más néven 'Pak Nam Pho', az a város, ahol a Ping és a Nan folyók összefolynak, és a Chao Phraya folyót alkotják.",
@@ -9576,7 +9561,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Nakhonszithammarat",
       ro: "Nakhon Si Thammarat",
       en: "Nakhon Si Thammarat"},
-    image: "/poi-images/nakhon-si-thammarat-cities-v2.webp",
     description: {
       de: "Nakhon Si Thammarat ist eine der ältesten Städte Thailands und ein wichtiges Zentrum des Buddhismus in der südlichen Region.",
       hu: "Nakhonszithammarat Thaiföld egyik legrégebbi városa és a buddhizmus fontos központja a déli régióban.",
@@ -10280,7 +10264,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Phitszanulok",
       ro: "Phitsanulok",
       en: "Phitsanulok"},
-    image: "/poi-images/phitsanulok-cities-v2.webp",
     description: {
       de: "Phitsanulok ist eine historisch wichtige Stadt im unteren Norden Thailands, Geburtsort von König Naresuan dem Großen.",
       hu: "Phitszanulok egy történelmileg fontos város Thaiföld északi alsó részén, Nagy Naresuan király szülőhelye.",
@@ -10480,7 +10463,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Kancsanaburi",
       ro: "Kanchanaburi",
       en: "Kanchanaburi"},
-    image: "/poi-images/kanchanaburi-cities-v2.webp",
     description: {
       de: "Kanchanaburi ist eine Stadt im Westen Thailands, die für ihre Verbindung zur Todeseisenbahn während des Zweiten Weltkriegs bekannt ist.",
       hu: "Kancsanaburi egy város Nyugat-Thaiföldön, amely a második világháború alatti Halálvasúttal való kapcsolatáról ismert.",
@@ -10860,7 +10842,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Songkhla",
       ro: "Songkhla",
       en: "Songkhla"},
-    image: "/poi-images/songkhla-cities-v2.webp",
     description: {
       de: "Songkhla ist eine Hafenstadt am Golf von Thailand und die Hauptstadt der Provinz Songkhla.",
       hu: "Songkhla egy kikötőváros a Thai-öböl partján, és Songkhla tartomány fővárosa.",
@@ -10952,7 +10933,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Csonburi",
       ro: "Chonburi",
       en: "Chonburi"},
-    image: "/poi-images/chonburi-cities-v2.webp",
     description: {
       de: "Chonburi ist die Hauptstadt der Provinz Chonburi und ein Zentrum des Eastern Seaboard Entwicklungsplans.",
       hu: "Csonburi Csonburi tartomány fővárosa és a Keleti Parti Fejlesztési Terv központja.",
@@ -11368,7 +11348,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Trang",
       ro: "Trang",
       en: "Trang"},
-    image: "/poi-images/trang-cities-v2.webp",
     descriptionAdvanced: {
       de: "Trang ist eine charmante Küstenstadt im Südwesten Thailands an der Andamanensee und bekannt für ihre reiche Geschichte und kulturelle Vielfalt. Ende des 19. Jahrhunderts erlangte die Stadt Bedeutung, als Phraya Ratsadanupradit Mahisorn Phakdi hier 1899 die ersten Gummibäume Thailands pflanzte, was die lokale Wirtschaft revolutionierte. Das historische Stadtzentrum ist geprägt von alten Kaufmannshäusern und dem Bahnhof von Kantang, dem Endpunkt der südlichen Eisenbahnlinie, der im klassischen Holzbaustil erhalten ist. Geografisch dient Trang als Ausgangspunkt für die Erkundung von über 100 vorgelagerten Inseln, die für ihre Kalksteinfelsen und klaren Gewässer berühmt sind. Kulinarisch ist die Stadt für ihre einzigartige Frühstückskultur bekannt, insbesondere für die geröstete Ente und Dim Sum, die das chinesische Erbe widerspiegeln. Jedes Jahr zieht die Stadt Besucher mit ungewöhnlichen Veranstaltungen wie den Unterwasser-Hochzeiten am Valentinstag an, die Trang weltweit bekannt gemacht haben.",
       hu: "Trang egy bájos kikötőváros Thaiföld délnyugati részén, az Andaman-tenger partján, amely gazdag történelméről és kulturális sokszínűségéről ismert. A 19. század végén a város jelentősége megnőtt, amikor Phraya Ratsadanupradit Mahisorn Phakdi 1899-ben itt ültette el Thaiföld első gumifáit, ami forradalmasította a helyi gazdaságot. A történelmi városközpontot régi kereskedőházak és Kantang vasútállomása jellemzi, amely a déli vasútvonal végpontja, és klasszikus faházas stílusban maradt fenn. Földrajzilag Trang kiindulópontként szolgál több mint 100 part menti sziget felfedezéséhez, amelyek mészkőszikláikról és tiszta vizükről híresek. Gasztronómiai szempontból a város egyedülálló reggeli kultúrájáról ismert, különösen a sült kacsáról és a dim sum-ról, amelyek a kínai örökséget tükrözik. A város minden évben olyan szokatlan eseményekkel vonzza a látogatókat, mint a Valentin-napi víz alatti esküvők, amelyek világszerte ismertté tették Trangot.",
@@ -11820,7 +11799,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Lampang",
       ro: "Lampang",
       en: "Lampang"},
-    image: "/poi-images/lampang-cities-v2.webp",
     descriptionAdvanced: {
       de: "Lampang, im Norden Thailands am Ufer des Wang-Flusses gelegen, ist eine der ältesten Städte des Landes mit einer über 1.300-jährigen Geschichte. Die Stadt wurde im 7. Jahrhundert als Teil des Hariphunchai-Königreichs gegründet und entwickelte sich im späten 19. Jahrhundert zu einem bedeutenden Zentrum der Teakholzindustrie. Einzigartig in Thailand ist Lampang bis heute dafür bekannt, dass Pferdekutschen als reguläres Transportmittel im Stadtbild erhalten geblieben sind, was ihr den Beinamen \"Stadt der Pferdekutschen\" einbrachte. Das religiöse Herz der Region ist der Wat Phra That Lampang Luang, einer der am besten erhaltenen Tempel im Lanna-Stil, der auf einer Befestigung aus dem 15. Jahrhundert steht. Geografisch ist die Stadt von Bergen und Tälern umgeben, was ihr ein milderes Klima als den Ebenen Zentralthailands verleiht. Heute ist Lampang auch ein wichtiges Zentrum für die Keramikproduktion, insbesondere für die traditionellen \"Hähnchen-Schüsseln\", die in ganz Thailand verbreitet sind.",
       hu: "Lampang Thaiföld északi részén, a Wang-folyó partján fekszik, és az ország egyik legrégebbi városa, több mint 1300 éves múlttal. A várost a 7. században alapították a Hariphunchai Királyság részeként, majd a 19. század végén a teakfaipar jelentős központjává fejlődött. Thaiföldön egyedülálló módon Lampang a mai napig arról ismert, hogy a lovas kocsik a városkép részeként, rendszeres közlekedési eszközként maradtak fenn, amiért a „lovas kocsik városa” becenevet kapta. A régió vallási szíve a Wat Phra That Lampang Luang, az egyik legjobb állapotban fennmaradt Lanna-stílusú templom, amely egy 15. századi erődítményen áll. Földrajzilag a várost hegyek és völgyek veszik körül, ami enyhébb éghajlatot biztosít neki, mint Közép-Thaiföld síkságainak. Ma Lampang a kerámiagyártás fontos központja is, különösen a hagyományos „kakasos tálakról” ismert, amelyek Thaiföld-szerte elterjedtek.",
@@ -12344,7 +12322,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Szamutprakan",
       ro: "Samut Prakan",
       en: "Samut Prakan"},
-    image: "/poi-images/samut-prakan-cities-v2.webp",
     descriptionAdvanced: {
       de: "Samut Prakan, oft auch als \"Pak Nam\" (Mündung des Flusses) bezeichnet, liegt am Zusammenfluss des Chao Phraya mit dem Golf von Thailand. Die Stadt wurde während der Ayutthaya-Periode gegründet und diente aufgrund ihrer Lage am Meer jahrhundertelang als strategischer Verteidigungsposten für die Hauptstadt. Historische Festungen wie Phra Chulachomklao zeugen von der militärischen Bedeutung der Region im 19. Jahrhundert. Geografisch ist die Stadt durch ihre Nähe zu Bangkok geprägt und beherbergt einen großen Teil des internationalen Flughafens Suvarnabhumi sowie bedeutende Industrie- und Logistikzentren. Zu den kulturellen Höhepunkten zählen die \"Ancient City\" (Muang Boran), ein riesiges Freilichtmuseum mit Nachbildungen thailändischer Baudenkmäler, und das Erawan-Museum mit seiner monumentalen dreiköpfigen Elefantenstatue. Jedes Jahr wird die Stadt durch religiöse Feste wie die Phra Samut Chedi Feierlichkeiten belebt, die Tausende von Gläubigen anziehen.",
       hu: "Samut Prakan, amelyet gyakran „Pak Nam”-nak (a folyó torkolata) is neveznek, a Chao Phraya folyó és a Thai-öböl találkozásánál fekszik. A várost az Ayutthaya-korszakban alapították, és tengerparti elhelyezkedése miatt évszázadokon át a főváros stratégiai védelmi bástyájaként szolgált. Az olyan történelmi erődök, mint a Phra Chulachomklao, a régió 19. századi katonai jelentőségéről tanúskodnak. Földrajzilag a várost Bangkokhoz való közelsége jellemzi, és itt található a Suvarnabhumi nemzetközi repülőtér nagy része, valamint jelentős ipari és logisztikai központok. A kulturális látnivalók közé tartozik az „Ősi Város” (Muang Boran), egy hatalmas szabadtéri múzeum thaiföldi műemlékek másolataival, valamint az Erawan Múzeum a monumentális, háromfejű elefántszobrával. A várost minden évben olyan vallási ünnepek élesztik fel, mint a Phra Samut Chedi ünnepségek, amelyek hívők ezreit vonzzák.",
@@ -12580,7 +12557,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Szakonnakhon",
       ro: "Sakon Nakhon",
       en: "Sakon Nakhon"},
-    image: "/poi-images/sakon-nakhon-cities-v2.webp",
     descriptionAdvanced: {
       de: "Sakon Nakhon ist eine geschichtsträchtige Stadt im Nordosten Thailands, die in den Ausläufern des Phu Phan Gebirges am Ufer des Nong Han Sees liegt. Die Ursprünge der Siedlung reichen über 3.000 Jahre bis in prähistorische Zeiten zurück, während später Einflüsse der Dvaravati- und Khmer-Kulturen die Region prägten. Das religiöse Zentrum der Stadt ist der Wat Phra That Choeng Chum, ein heiliger Ort, dessen Pagode über den Fußabdrücken von vier Buddhas errichtet worden sein soll. Kulturell ist Sakon Nakhon weltweit für sein Indigo-Gewerbe bekannt, wobei die traditionell gefärbten Stoffe ein wichtiges wirtschaftliches Standbein der lokalen Gemeinschaften darstellen. Ein besonderes Ereignis ist das jährliche Wachsschloss-Festival zum Ende der Regenzeit, bei dem kunstvolle Skulpturen aus Bienenwachs in festlichen Prozessionen präsentiert werden. Die Stadt beherbergt zudem eine bedeutende christliche Gemeinde im Dorf Ban Tha Rae, das für seine Architektur im Kolonialstil und die weihnachtlichen Sternenparaden berühmt ist.",
       hu: "Sakon Nakhon egy történelmi város Thaiföld északkeleti részén, amely a Phu Phan-hegység lábánál, a Nong Han-tó partján fekszik. A település eredete több mint 3000 évre, a történelem előtti időkbe nyúlik vissza, míg később a Dvaravati és Khmer kultúrák hatása formálta a régiót. A város vallási központja a Wat Phra That Choeng Chum, egy szent hely, amelynek pagodája a hiedelem szerint négy Buddha lábnyoma fölé épült. Kulturális szempontból Sakon Nakhon világszerte ismert az indigófestéséről, a hagyományosan festett szövetek a helyi közösségek fontos gazdasági támaszát jelentik. Különleges esemény az évente megrendezett viaszvár-fesztivál az esős évszak végén, ahol méhviaszból készült, művészi szobrokat mutatnak be ünnepi körmenetekben. A város ad otthont egy jelentős keresztény közösségnek is Ban Tha Rae faluban, amely gyarmati stílusú építészetéről és karácsonyi csillagfelvonulásairól híres.",
@@ -12744,7 +12720,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Lopburi",
       ro: "Lopburi",
       en: "Lopburi"},
-    image: "/poi-images/lopburi-cities-v2.webp",
     descriptionAdvanced: {
       de: "Lopburi ist eine der ältesten und historisch bedeutendsten Städte Thailands und liegt etwa 150 Kilometer nördlich von Bangkok in der zentralen Ebene. Die Stadt war ein wichtiges Zentrum der Dvaravati-Kultur und diente später als zweite Hauptstadt des Ayutthaya-Königreichs unter der Herrschaft von König Narai dem Großen im 17. Jahrhundert. Ein markantes Wahrzeichen ist der Phra Prang Sam Yot, ein Tempel im Khmer-Stil mit drei markanten Türmen, der die enge Verbindung zur Angkor-Zivilisation verdeutlicht. Weltweit bekannt ist Lopburi jedoch vor allem als \"Stadt der Affen\", da hunderte von Javaneraffen frei in den Ruinen und Straßen des Stadtzentrums leben. Zu Ehren dieser Tiere findet jedes Jahr das Monkey Banquet Festival statt, bei dem den Affen riesige Mengen an Obst und Speisen serviert werden. Neben den antiken Stätten beherbergt die Stadt den prächtigen Palast von König Narai, der heute als Nationalmuseum dient und europäische Einflüsse in der thailändischen Architektur des 17. Jahrhunderts zeigt.",
       hu: "Lopburi Thaiföld egyik legrégebbi és történelmileg legjelentősebb városa, mintegy 150 kilométerre északra fekszik Bangkoktól a központi síkságon. A város a Dvaravati-kultúra fontos központja volt, majd később az Ayutthaya Királyság második fővárosaként szolgált Narai király uralkodása alatt a 17. században. Egyik jellegzetes látnivalója a Phra Prang Sam Yot, egy három tornyú, Khmer-stílusú templom, amely az Angkor-civilizációval való szoros kapcsolatot mutatja. Lopburi azonban világszerte leginkább a „majmok városaként” ismert, mivel többszáz makákó él szabadon a belváros romjai között és utcáin. Ezen állatok tiszteletére rendezik meg minden évben a majomlakoma-fesztivált, ahol hatalmas mennyiségű gyümölcsöt és ételt szolgálnak fel nekik. Az ókori helyszínek mellett a városban található Narai király pompás palotája is, amely ma nemzeti múzeumként működik, és a 17. századi thaiföldi építészet európai hatásait mutatja be.",
@@ -12944,7 +12919,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Nongkhaj",
       ro: "Nong Khai",
       en: "Nong Khai"},
-    image: "/poi-images/nong-khai-cities-v2.webp",
     descriptionAdvanced: {
       de: "Nong Khai liegt im Nordosten Thailands am Südufer des Mekong, direkt gegenüber der laotischen Hauptstadt Vientiane. Die Stadt dient als wichtigstes Tor für den Handel und Tourismus zwischen Thailand und Laos, insbesondere seit der Eröffnung der ersten thailändisch-laotischen Freundschaftsbrücke im Jahr 1994. Historisch gesehen war Nong Khai über Jahrhunderte hinweg ein strategischer Grenzposten und Schauplatz zahlreicher kultureller Austauschprozesse. Eine der außergewöhnlichsten Sehenswürdigkeiten ist Sala Keoku, ein fantastischer Skulpturenpark mit monumentalen Betonfiguren, die hinduistische und buddhistische Mythen darstellen. Der Tempel Wat Pho Chai beherbergt das Luang Pho Phra Sai, ein hochverehrtes Buddha-Bildnis, das während des thailändischen Neujahrsfestes Songkran im Zentrum der Feierlichkeiten steht. Ein geheimnisvolles Naturphänomen, die Naga-Feuerbälle, lockt jedes Jahr am Ende der Regenzeit Zehntausende Besucher an den Mekong, die leuchtende Kugeln aus dem Fluss aufsteigen sehen.",
       hu: "Nong Khai Thaiföld északkeleti részén, a Mekong folyó déli partján fekszik, közvetlenül a laoszi fővárossal, Vientiane-nal szemben. A város a Thaiföld és Laosz közötti kereskedelem és turizmus legfontosabb kapujaként szolgál, különösen az első thaiföldi-laoszi barátság híd 1994-es megnyitása óta. Történelmileg Nong Khai évszázadokon át stratégiai határmenti poszt és számos kulturális cserefolyamat helyszíne volt. Egyik legkülönlegesebb látnivalója a Sala Keoku, egy fantasztikus szoborpark monumentális betonfigurákkal, amelyek hindu és buddhista mítoszokat ábrázolnak. A Wat Pho Chai templom ad otthont a Luang Pho Phra Sai-nak, egy nagy tiszteletben álló Buddha-szobornak, amely a thaiföldi újév, a Songkran idején az ünnepségek középpontjában áll. Egy titokzatos természeti jelenség, a Naga-tűzgömbök, minden évben az esős évszak végén látogatók tízezreit vonzza a Mekonghoz, akik a folyóból felemelkedő fényes gömböket figyelik meg.",
@@ -13936,7 +13910,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Huahin",
       ro: "Hua Hin",
       en: "Hua Hin"},
-    image: "/poi-images/hua-hin-cities-v2.webp",
     descriptionAdvanced: {
       de: "Hua Hin ist das älteste und traditionsreichste Seebad Thailands und liegt etwa 200 Kilometer südlich von Bangkok am Golf von Thailand. Seine Entwicklung zum exklusiven Urlaubsort begann in den frühen 1920er Jahren, als der Bau der südlichen Eisenbahnlinie den Zugang zur Region erleichterte und die thailändische Königsfamilie dort Sommerresidenzen errichtete. Der Klai Kangwon Palast (\"Fern von Sorgen\") dient bis heute als königliche Residenz und prägt den vornehmen Charakter der Stadt. Geografisch besticht Hua Hin durch seine kilometerlangen Sandstrände und die Nähe zu den Bergen des Kaeng Krachan Nationalparks. Ein architektonisches Wahrzeichen ist der historische Bahnhof von Hua Hin mit seinem prachtvollen königlichen Wartesaal im thailändischen Pavillon-Stil. Im Jahr 1924 wurde hier mit dem Royal Hua Hin Golf Course der erste Golfplatz des Landes eröffnet, was die Stadt zu einem Pionier des thailändischen Sports machte. Heute verbindet Hua Hin den Charme eines Fischerdorfes mit modernen Annehmlichkeiten und erstklassigen Wellness-Einrichtungen.",
       hu: "Hua Hin Thaiföld legrégebbi és leghagyományosabb tengerparti üdülőhelye, mintegy 200 kilométerre délre fekszik Bangkoktól a Thai-öböl partján. Exkluzív üdülőhellyé való fejlődése az 1920-as évek elején kezdődött, amikor a déli vasútvonal megépítése megkönnyítette a régió megközelítését, és a thaiföldi királyi család nyári rezidenciákat épített itt. A Klai Kangwon palota („Távol az aggodalmaktól”) a mai napig királyi rezidenciaként szolgál, és meghatározza a város előkelő jellegét. Földrajzilag Hua Hin több kilométer hosszú homokos strandjaival és a Kaeng Krachan Nemzeti Park hegyeinek közelségével hódít. Építészeti mérföldkő a történelmi Hua Hin-i vasútállomás, pompás királyi várótermével, amely thaiföldi pavilon stílusban épült. 1924-ben itt nyílt meg az ország első golfpályája, a Royal Hua Hin Golf Course, amivel a város a thaiföldi sport úttörőjévé vált. Ma Hua Hin ötvözi a halászfalu báját a modern kényelemmel és az első osztályú wellness-létesítményekkel.",
@@ -14280,7 +14253,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Krabi",
       ro: "Krabi",
       en: "Krabi"},
-    image: "/poi-images/krabi-cities-v2.webp",
     descriptionAdvanced: {
       en: "Krabi is a stunning coastal town that serves as the administrative capital and main gateway to one of Thailand's most beautiful provinces. Situated at the mouth of the Krabi River on the Andaman Sea, the town is characterized by its dramatic limestone karsts that rise vertically from the surrounding plains and sea. While often treated as a stopover for the world-famous Phi Phi Islands and Railay Beach, Krabi Town itself has a charming, local feel with a lively riverfront and authentic markets. Notable attractions include Wat Tham Suea (Tiger Cave Temple), where visitors can climb 1,237 steps for a panoramic view of the province. The town is also famous for its prehistoric theme, seen in the 'Khao Khanab Nam' mountains that frame the river mouth and the unique caveman-themed traffic lights in the town center, celebrating the ancient human remains found in the area.",
       de: "Krabi ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Krabi ist eine Stadt an der Westküste Südthailands an der Andamanensee, die als Basis für die Erkundung der Provinz dient. Tor zu den Inseln Phi Phi und Railay Beach. Geprägt von markanten Kalksteinfelsen. Der Tigerhöhlentempel ist eine Hauptattraktion. Diese Stadt zählt zu den charakteristischen Siedlungen Thailands, oft entlang des Chao Phraya oder an der Andamanenküste gelegen. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",
@@ -14840,7 +14812,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       hu: "Tak",
       ro: "Tak",
       en: "Tak"},
-    image: "/poi-images/tak-cities-v2.webp",
     descriptionAdvanced: {
       de: "Tak ist eine geschichtsträchtige Provinzstadt im Nordwesten Thailands, die am Ufer des Ping-Flusses liegt und als Tor zum Norden sowie zum benachbarten Myanmar fungiert. Die Stadt erlangte historische Berühmtheit als Geburtsort von König Taksin dem Großen, der im 18. Jahrhundert die Unabhängigkeit Thailands von den Birmanen wiederherstellte. Strategisch günstig an den Handelswegen gelegen, war Tak jahrhundertelang ein wichtiger Garnisonsort und Schauplatz zahlreicher Schlachten. Geografisch ist die Region durch zerklüftete Gebirgszüge und dichte Wälder geprägt, wobei der Bhumibol-Staudamm, der größte Betonbogendamm Thailands, ein herausragendes Bauwerk der Moderne darstellt. Der Damm wurde 1964 eingeweiht und spielt eine entscheidende Rolle für die Stromerzeugung und Bewässerung Zentralthailands. Kulturell ist die Stadt für das Loy Krathong Sai Festival bekannt, bei dem tausende leuchtende Kokosnussschalen in einer Kette auf dem Ping-Fluss treiben gelassen werden. Tak ist zudem ein wichtiger Knotenpunkt für den grenzüberschreitenden Handel durch die Grenzstadt Mae Sot.",
       hu: "Tak egy történelmi tartományi város Thaiföld északnyugati részén, amely a Ping-folyó partján fekszik, és kapuként szolgál északra, valamint a szomszédos Mianmar felé. A város történelmi hírnevét Nagy Taksin király szülőhelyeként szerezte, aki a 18. században visszaállította Thaiföld függetlenségét a burmaiaktól. A kereskedelmi útvonalak mentén stratégiailag elhelyezkedő Tak évszázadokon át fontos helyőrségi város és számos csata helyszíne volt. Földrajzilag a régiót egyenetlen hegyvonulatok és sűrű erdők jellemzik, ahol a Bhumibol-gát, Thaiföld legnagyobb beton íves gátja a modern építészet kiemelkedő alkotása. A gátat 1964-ben avatták fel, és döntő szerepet játszik Közép-Thaiföld áramtermelésében és öntözésében. Kulturális szempontból a város a Loy Krathong Sai fesztiválról ismert, amely során több ezer világító kókuszdióhéjat eresztenek láncban a Ping-folyóra. Tak emellett a határon átnyúló kereskedelem fontos csomópontja a Mae Sot határvároson keresztül.",

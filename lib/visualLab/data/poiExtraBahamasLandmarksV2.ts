@@ -12,7 +12,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Királynő lépcsője",
       ro: "Scara Reginei",
       en: "Queen's Staircase"},
-    image: "/poi-images/queens-staircase-nassau-landmarks-v2.webp",
     description: {
       de: "Eine historische, aus massivem Kalkstein gehauene Treppe in Nassau, die 66 Stufen umfasst.",
       hu: "Nassau történelmi, tömör mészkőből faragott lépcsője, amely 66 fokból áll.",
@@ -148,7 +147,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Rawson tér",
       ro: "Piața Rawson",
       en: "Rawson Square"},
-    image: "/poi-images/rawson-square-nassau-landmarks-v2.webp",
     description: {
       de: "Das Zentrum des Stadtzentrums von Nassau, oft das Tor für Kreuzfahrtpassagiere.",
       hu: "Nassau belvárosának központja, gyakran a tengerjáró hajók utasainak kapuja.",
@@ -216,7 +214,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Fincastle-erőd",
       ro: "Fortul Fincastle",
       en: "Fort Fincastle"},
-    image: "/poi-images/fort-fincastle-landmarks-v2.webp",
     description: {
       de: "Ein historisches Fort auf dem Bennet's Hill, das wie ein Raddampfer geformt ist.",
       hu: "Történelmi erőd a Bennet's Hill-en, amely egy lapátkerekes gőzhajóra emlékeztet.",
@@ -284,7 +281,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Sir Sidney Poitier híd",
       ro: "Podul Sir Sidney Poitier",
       en: "Sir Sidney Poitier Bridge"},
-    image: "/poi-images/sir-sidney-poitier-bridge-landmarks-v2.webp",
     description: {
       de: "Eine Brücke, die Paradise Island mit der Hauptinsel New Providence verbindet.",
       hu: "Híd, amely a Paradise-szigetet köti össze a New Providence főszigettel.",
@@ -352,7 +348,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Baha Mar Üdülőközpont",
       ro: "Stațiunea Baha Mar",
       en: "Baha Mar Resort"},
-    image: "/poi-images/baha-mar-resort-landmarks-v2.webp",
     description: {
       de: "Ein massiver Hotel- und Casinokomplex, der die Skyline von Cable Beach dominiert.",
       hu: "Egy hatalmas szálloda- és kaszinókomplexum, amely uralja a Cable Beach látképét.",
@@ -420,7 +415,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Gregory-diadalív",
       ro: "Arcul lui Gregory",
       en: "Gregory's Arch"},
-    image: "/poi-images/gregorys-arch-landmarks-v2.webp",
     description: {
       de: "Ein steinerner Bogen, der eine malerische Grenze zwischen dem Stadtzentrum und der Siedlung 'Over-the-Hill' bildet.",
       hu: "Egy kőív, amely festői határt képez a belváros és az 'Over-the-Hill' negyed között.",
@@ -488,7 +482,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Nassaui kenotáfium",
       ro: "Cenotaful din Nassau",
       en: "Nassau Cenotaph"},
-    image: "/poi-images/nassau-cenotaph-landmarks-v2.webp",
     description: {
       de: "Ein Kriegsdenkmal in Nassau, das den in beiden Weltkriegen gefallenen Bahamaern gewidmet ist.",
       hu: "Egy háborús emlékmű Nassauban, amelyet a két világháborúban elesett bahamaiaknak szenteltek.",
@@ -556,7 +549,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Villa Doyle",
       ro: "Vila Doyle",
       en: "Villa Doyle"},
-    image: "/poi-images/villa-doyle-landmarks-v2.webp",
     description: {
       de: "Ein beeindruckendes historisches Herrenhaus, das heute die National Art Gallery of The Bahamas beherbergt.",
       hu: "Egy lenyűgöző történelmi kúria, amely ma a Bahamák Nemzeti Művészeti Galériájának ad otthont.",
@@ -624,7 +616,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Dundas Előadó-művészeti Központ",
       ro: "Centrul de Arte Performative Dundas",
       en: "Dundas Centre for the Performing Arts"},
-    image: "/poi-images/dundas-centre-landmarks-v2.webp",
     description: {
       de: "Ein markantes Gebäude, das als Herzstück für Theater und Kultur auf den Bahamas fungiert.",
       hu: "Egy jellegzetes épület, amely a színház és a kultúra központjaként működik a Bahamákon.",
@@ -692,7 +683,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Hole-in-the-Wall világítótorony",
       ro: "Farul Hole-in-the-Wall",
       en: "Hole-in-the-Wall Lighthouse"},
-    image: "/poi-images/hole-in-the-wall-lighthouse-landmarks-v2.webp",
     description: {
       de: "Ein abgelegener Leuchtturm an der Südspitze von Great Abaco.",
       hu: "Egy elhagyatott világítótorony Nagy-Abaco déli csücskén.",
@@ -760,7 +750,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Dixon Hill világítótorony",
       ro: "Farul Dixon Hill",
       en: "Dixon Hill Lighthouse"},
-    image: "/poi-images/dixon-hill-lighthouse-landmarks-v2.webp",
     description: {
       de: "Einer der letzten handbetriebenen Kerosin-Leuchttürme der Welt, gelegen auf San Salvador.",
       hu: "A világ egyik utolsó, kézzel működtetett kerozin világítótornya, San Salvadoron.",
@@ -828,7 +817,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Great Isaac világítótorony",
       ro: "Farul Great Isaac",
       en: "Great Isaac Lighthouse"},
-    image: "/poi-images/great-isaac-lighthouse-landmarks-v2.webp",
     description: {
       de: "Ein historischer gusseiserner Leuchtturm, um den sich zahlreiche Geistergeschichten ranken.",
       hu: "Egy történelmi, öntöttvas világítótorony, amelyhez számos kísértettörténet fűződik.",
@@ -896,7 +884,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Delfinház Múzeum",
       ro: "Muzeul Casa Delfinilor",
       en: "Dolphin House Museum"},
-    image: "/poi-images/dolphin-house-museum-landmarks-v2.webp",
     description: {
       de: "Ein einzigartiges Kunsthaus auf Bimini, erbaut aus Muscheln und recycelten Materialien.",
       hu: "Egyedülálló művészház Biminiben, kagylókból és újrahasznosított anyagokból építve.",
@@ -964,7 +951,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Prédikátor-barlang",
       ro: "Peștera Predicatorului",
       en: "Preacher's Cave"},
-    image: "/poi-images/preachers-cave-landmarks-v2.webp",
     description: {
       de: "Eine weitläufige Höhle, die den ersten englischen Siedlern auf den Bahamas als Zuflucht diente.",
       hu: "Egy kiterjedt barlang, amely menedékül szolgált az első angol telepesek számára a Bahamákon.",
@@ -1032,7 +1018,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Ocean Atlas szobor",
       ro: "Statuia Ocean Atlas",
       en: "Ocean Atlas Statue"},
-    image: "/poi-images/ocean-atlas-statue-landmarks-v2.webp",
     description: {
       de: "Die größte Unterwasserskulptur der Welt, die ein lokales bahamaisches Mädchen darstellt.",
       hu: "A világ legnagyobb víz alatti szobra, amely egy helyi bahamai lányt ábrázol.",
@@ -1100,7 +1085,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "A Royal Victoria Hotel romjai",
       ro: "Ruinele Hotelului Royal Victoria",
       en: "Royal Victoria Hotel Ruins"},
-    image: "/poi-images/royal-victoria-hotel-ruins-landmarks-v2.webp",
     description: {
       de: "Die Überreste des ersten Luxushotels der Bahamas, das während des Amerikanischen Bürgerkriegs erbaut wurde.",
       hu: "A Bahamák első luxusszállodájának maradványai, amelyet az amerikai polgárháború alatt építettek.",
@@ -1168,7 +1152,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Remeteség sírhelye",
       ro: "Mormântul Hermitage",
       en: "Hermitage Tomb"},
-    image: "/poi-images/hermitage-tomb-landmarks-v2.webp",
     description: {
       de: "Ein faszinierendes Familiengrabmal aus der Loyalistenzeit auf Exuma.",
       hu: "Lenyűgöző családi sírhely a lojalisták idejéből Exumán.",
@@ -1236,7 +1219,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Great Stirrup Cay világítótorony",
       ro: "Farul Great Stirrup Cay",
       en: "Great Stirrup Cay Lighthouse"},
-    image: "/poi-images/great-stirrup-cay-lighthouse-landmarks-v2.webp",
     description: {
       de: "Ein historisches Seezeichen auf einer Privatinsel in den Berry Islands.",
       hu: "Történelmi tengeri jelzőfény egy magánszigeten, a Berry-szigeteken.",
@@ -1304,7 +1286,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "A Bahamák Legfelsőbb Bírósága",
       ro: "Curtea Supremă a Bahamasului",
       en: "Supreme Court of the Bahamas"},
-    image: "/poi-images/supreme-court-landmarks-v2.webp",
     description: {
       de: "Ein klassisches Kolonialgebäude, das als höchstes juristisches Zentrum der Bahamas dient.",
       hu: "Egy klasszikus gyarmati épület, amely a Bahamák legfőbb jogi központjaként szolgál.",
@@ -1372,7 +1353,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Shirley Street-i postahivatal",
       ro: "Oficiul poștal Shirley Street",
       en: "Shirley Street Post Office"},
-    image: "/poi-images/shirley-street-post-office-landmarks-v2.webp",
     description: {
       de: "Ein markantes Gebäude der Regierung, das Postdienste für die Innenstadt bereitstellte.",
       hu: "Egy jellegzetes kormányzati épület, amely postai szolgáltatásokat nyújtott a belváros számára.",
@@ -1440,7 +1420,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Szent Máté anglikán templom",
       ro: "Biserica Anglicană Sfântul Matei",
       en: "Saint Matthew's Anglican Church"},
-    image: "/poi-images/saint-matthews-anglican-church-landmarks-v2.webp",
     description: {
       de: "Das älteste erhaltene Kirchengebäude in der Stadt Nassau.",
       hu: "Nassau városának legrégebbi fennmaradt templomépülete.",
@@ -1508,7 +1487,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Thomas A. Robinson Nemzeti Stadion",
       ro: "Stadionul Național Thomas A. Robinson",
       en: "Thomas A. Robinson National Stadium"},
-    image: "/poi-images/thomas-a-robinson-stadium-landmarks-v2.webp",
     description: {
       de: "Das wichtigste Sportstadion der Bahamas, oft Austragungsort internationaler Leichtathletikwettbewerbe.",
       hu: "A Bahamák legfontosabb sportstadionja, gyakran nemzetközi atlétikai versenyek helyszíne.",
@@ -1576,7 +1554,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "SS Sapona hajóroncs",
       ro: "Epava SS Sapona",
       en: "SS Sapona Shipwreck"},
-    image: "/poi-images/ss-sapona-shipwreck-landmarks-v2.webp",
     description: {
       de: "Ein sichtbares Wrack eines Betonschiffs südlich von Bimini, das zu einem bekannten Tauchziel wurde.",
       hu: "Egy betonhajó látható roncsa Biminitől délre, amely ismert búvárcélponttá vált.",
@@ -1644,7 +1621,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Compass Point Stúdió",
       ro: "Studiourile Compass Point",
       en: "Compass Point Studios"},
-    image: "/poi-images/compass-point-studios-landmarks-v2.webp",
     description: {
       de: "Ein ehemaliges berühmtes Tonstudio in Nassau, in dem in den 1980er Jahren viele Weltstars aufnahmen.",
       hu: "Egy egykori híres hangstúdió Nassauban, ahol az 1980-as években sok világsztár rögzített.",
@@ -1712,7 +1688,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Kendal G. L. Isaacs Nemzeti Tornacsarnok",
       ro: "Sala Națională Kendal G. L. Isaacs",
       en: "Kendal G. L. Isaacs National Gymnasium"},
-    image: "/poi-images/kendal-isaacs-gymnasium-landmarks-v2.webp",
     description: {
       de: "Eine vielseitig genutzte Indoor-Arena in Nassau, die sportliche und kulturelle Veranstaltungen ausrichtet.",
       hu: "Többcélú fedett aréna Nassauban, amely sport- és kulturális eseményeknek ad otthont.",
@@ -1780,7 +1755,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Clifton Heritage romok",
       ro: "Ruinele Clifton Heritage",
       en: "Clifton Heritage Ruins"},
-    image: "/poi-images/clifton-heritage-ruins-landmarks-v2.webp",
     description: {
       de: "Ein historisches Gelände im Westen von New Providence, das Überreste von Lucayan-Dörfern und Plantagen umfasst.",
       hu: "Történelmi terület New Providence nyugati részén, amely lucayan falvak és ültetvények romjait foglalja magában.",
@@ -1848,7 +1822,6 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       hu: "Xavéri Szent Ferenc Székesegyház",
       ro: "Catedrala Sfântul Francisc Xavier",
       en: "St. Francis Xavier Cathedral"},
-    image: "/poi-images/st-francis-xavier-cathedral-landmarks-v2.webp",
     description: {
       de: "Die erste katholische Kirche, die auf den Bahamas gebaut wurde, mit beeindruckender gotischer Architektur.",
       hu: "A Bahamákon épült első katolikus templom, lenyűgöző gótikus építészettel.",

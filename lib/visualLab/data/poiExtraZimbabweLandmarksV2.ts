@@ -57,7 +57,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Nemzeti Sportstadion",
       ro: "Stadionul Național de Sport",
       en: "National Sports Stadium"},
-    image: "/poi-images/national-sports-stadium-landmarks-v2.webp",
     description: {
       de: "Das größte Stadion in Zimbabwe, Austragungsort von Fußballspielen und großen Veranstaltungen.",
       hu: "Zimbabwe legnagyobb stadionja, amely futballmérkőzések és nagyszabású események helyszíne.",
@@ -162,7 +161,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Rufaro Stadion",
       ro: "Stadionul Rufaro",
       en: "Rufaro Stadium"},
-    image: "/poi-images/rufaro-stadium-landmarks-v2.webp",
     description: {
       de: "Ein historisches Mehrzweckstadion in Harare, oft als die spirituelle Heimat des zimbabwischen Fußballs bezeichnet.",
       hu: "Egy történelmi többcélú stadion Hararéban, gyakran a zimbabwei futball szellemi otthonának nevezik.",
@@ -303,7 +301,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Barbourfields Stadion",
       ro: "Stadionul Barbourfields",
       en: "Barbourfields Stadium"},
-    image: "/poi-images/barbourfields-stadium-landmarks-v2.webp",
     description: {
       de: "Das Hauptfußballstadion in Bulawayo und Heimat des beliebten Vereins Highlanders FC.",
       hu: "Bulawayo fő futballstadionja és a népszerű Highlanders FC csapatának otthona.",
@@ -408,7 +405,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Zimbabwe-i Jegybank Tornya",
       ro: "Turnul Băncii de Rezerve a Zimbabwe",
       en: "Reserve Bank of Zimbabwe Tower"},
-    image: "/poi-images/reserve-bank-tower-landmarks-v2.webp",
     description: {
       de: "Eines der markantesten Hochhäuser in Harare, das die nationale Zentralbank beherbergt.",
       hu: "Harare egyik legkiemelkedőbb felhőkarcolója, amely a nemzeti központi banknak ad otthont.",
@@ -468,7 +464,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Eastgate Központ",
       ro: "Centrul Eastgate",
       en: "Eastgate Centre"},
-    image: "/poi-images/eastgate-centre-landmarks-v2.webp",
     description: {
       de: "Ein Einkaufszentrum und Bürogebäude, das für seine umweltfreundliche, von Termitenhügeln inspirierte Architektur berühmt ist.",
       hu: "Egy bevásárlóközpont és irodaház, amely a termeszek várai által inspirált környezetbarát építészetéről híres.",
@@ -570,7 +565,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Kariba-gát",
       ro: "Barajul Kariba",
       en: "Kariba Dam"},
-    image: "/poi-images/kariba-dam-landmarks-v2.webp",
     description: {
       de: "Eine riesige Bogenstaumauer am Sambesi-Fluss, die einen der größten Stauseen der Welt bildet.",
       hu: "Egy hatalmas ívgát a Zambézi folyón, amely a világ egyik legnagyobb víztározóját hozza létre.",
@@ -672,7 +666,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Joina City",
       ro: "Joina City",
       en: "Joina City"},
-    image: "/poi-images/joina-city-landmarks-v2.webp",
     description: {
       de: "Ein moderner, multifunktionaler Gebäudekomplex im Herzen von Harare.",
       hu: "Egy modern, többfunkciós épületkomplexum Harare szívében.",
@@ -777,7 +770,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Birchenough híd",
       ro: "Podul Birchenough",
       en: "Birchenough Bridge"},
-    image: "/poi-images/birchenough-bridge-landmarks-v2.webp",
     description: {
       de: "Eine beeindruckende Bogenbrücke, die den Fluss Save in der Provinz Manicaland überquert.",
       hu: "Egy lenyűgöző ívhíd, amely a Save folyót íveli át Manicaland tartományban.",
@@ -879,7 +871,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Harare Nemzetközi Konferenciaközpont",
       ro: "Centrul Internațional de Conferințe Harare",
       en: "Harare International Conference Centre"},
-    image: "/poi-images/harare-hicc-landmarks-v2.webp",
     description: {
       de: "Ein markantes Gebäude, das als Zimbabwes wichtigster Veranstaltungsort für internationale Konferenzen und große Konzerte dient.",
       hu: "Egy feltűnő épület, amely Zimbabwe legfontosabb nemzetközi konferencia- és koncerthelyszíne.",
@@ -939,7 +930,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Szent Mária és Mindenszentek katedrális",
       ro: "Catedrala Sf. Maria și Toți Sfinții",
       en: "Cathedral of St Mary and All Saints"},
-    image: "/poi-images/st-marys-cathedral-harare-landmarks-v2.webp",
     description: {
       de: "Die anglikanische Kathedrale in Harare, ein bedeutendes religiöses und architektonisches Wahrzeichen der Stadt.",
       hu: "Az anglikán katedrális Hararéban, a város jelentős vallási és építészeti nevezetessége.",
@@ -999,7 +989,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Szent Mária katedrális bazilika (Bulawayo)",
       ro: "Bazilica Catedrală Sf. Maria (Bulawayo)",
       en: "St. Mary's Cathedral Basilica (Bulawayo)"},
-    image: "/poi-images/st-marys-basilica-bulawayo-landmarks-v2.webp",
     description: {
       de: "Eine römisch-katholische Basilika in Bulawayo mit beeindruckender Architektur.",
       hu: "Egy római katolikus bazilika Bulawayóban, lenyűgöző építészettel.",
@@ -1104,7 +1093,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Bulawayo Városháza",
       ro: "Primăria din Bulawayo",
       en: "Bulawayo City Hall"},
-    image: "/poi-images/bulawayo-city-hall-landmarks-v2.webp",
     description: {
       de: "Das historische Gebäude der Stadtverwaltung im Zentrum von Bulawayo.",
       hu: "A történelmi városvezetés épülete Bulawayo központjában.",
@@ -1209,7 +1197,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Új Parlament Épülete",
       ro: "Noua Clădire a Parlamentului",
       en: "New Parliament Building"},
-    image: "/poi-images/new-parliament-building-landmarks-v2.webp",
     description: {
       de: "Ein monumentaler Komplex am Mount Hampden, der den neuen Sitz der Legislative Zimbabwes bildet.",
       hu: "Egy monumentális komplexum Mount Hampdenen, amely a zimbabwei törvényhozás új székhelye.",
@@ -1998,7 +1985,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Sam Levy's Village",
       ro: "Sam Levy's Village",
       en: "Sam Levy's Village"},
-    image: "/poi-images/sam-levys-village-landmarks-v2.webp",
     description: {
       de: "Ein weitläufiges Einkaufs- und Unterhaltungszentrum in Harare, gestaltet im Stil eines traditionellen europäischen Dorfes.",
       hu: "Egy hatalmas bevásárló- és szórakoztatóközpont Hararéban, egy hagyományos európai falu stílusában.",
@@ -2103,7 +2089,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Karigamombe Központ",
       ro: "Centrul Karigamombe",
       en: "Karigamombe Centre"},
-    image: "/poi-images/karigamombe-centre-landmarks-v2.webp",
     description: {
       de: "Ein bekannter Büro- und Geschäftsturm im Stadtzentrum von Harare.",
       hu: "Egy ismert iroda- és üzletturony Harare városközpontjában.",
@@ -2244,7 +2229,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Livingstone-szobor",
       ro: "Statuia lui Livingstone",
       en: "Livingstone Statue"},
-    image: "/poi-images/livingstone-statue-landmarks-v2.webp",
     description: {
       de: "Eine Statue von David Livingstone auf der zimbabwischen Seite der Victoriafälle, die auf die Schlucht blickt.",
       hu: "David Livingstone szobra a Viktória-vízesés zimbabwei oldalán, amely a szurdokra néz.",
@@ -2454,7 +2438,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Bulawayo Központ",
       ro: "Centrul Bulawayo",
       en: "Bulawayo Centre"},
-    image: "/poi-images/bulawayo-centre-landmarks-v2.webp",
     description: {
       de: "Ein großes Einkaufs- und Geschäftszentrum in der Innenstadt von Bulawayo.",
       hu: "Egy nagy bevásárló- és üzleti központ Bulawayo belvárosában.",
@@ -2574,7 +2557,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Régi Parlament Épülete",
       ro: "Vechea Clădire a Parlamentului",
       en: "Old Parliament Building"},
-    image: "/poi-images/old-parliament-building-landmarks-v2.webp",
     description: {
       de: "Das historische Gebäude im Zentrum von Harare, das jahrzehntelang das zimbabwische Parlament beherbergte.",
       hu: "A történelmi épület Harare központjában, amely évtizedekig a zimbabwei parlamentnek adott otthont.",
@@ -2634,7 +2616,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Boggie Emlék-óratorony",
       ro: "Turnul cu Ceas Memorial Boggie",
       en: "Boggie Memorial Clock Tower"},
-    image: "/poi-images/boggie-clock-tower-landmarks-v2.webp",
     description: {
       de: "Ein ikonischer Uhrturm in Gweru, der an Major William Boggie erinnert.",
       hu: "Egy ikonikus óratorony Gweruban, amely William Boggie őrnagynak állít emléket.",
@@ -2739,7 +2720,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Mukwati Épület",
       ro: "Clădirea Mukwati",
       en: "Mukwati Building"},
-    image: "/poi-images/mukwati-building-landmarks-v2.webp",
     description: {
       de: "Ein markantes Regierungsgebäude in Harare, in dem verschiedene Ministerien untergebracht sind.",
       hu: "Egy jellegzetes kormányzati épület Hararéban, amely különböző minisztériumoknak ad otthont.",
@@ -2799,7 +2779,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Runhare House",
       ro: "Casa Runhare",
       en: "Runhare House"},
-    image: "/poi-images/runhare-house-landmarks-v2.webp",
     description: {
       de: "Ein ikonisches Gebäude in Harare, das lange Zeit der Hauptsitz der Post- und Telekommunikationsgesellschaft war.",
       hu: "Egy ikonikus épület Hararéban, amely sokáig a Posta és Távközlési Vállalat központja volt.",
@@ -2859,7 +2838,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Mutare Polgári Központja",
       ro: "Centrul Civic din Mutare",
       en: "Mutare Civic Centre"},
-    image: "/poi-images/mutare-civic-centre-landmarks-v2.webp",
     description: {
       de: "Das architektonische Zentrum der Stadtverwaltung in der östlichen Grenzstadt Mutare.",
       hu: "A városvezetés építészeti központja a keleti határvárosban, Mutaréban.",
@@ -3036,7 +3014,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Centenary Park Amfiteátrum",
       ro: "Amfiteatrul din Parcul Centenar",
       en: "Centenary Park Amphitheatre"},
-    image: "/poi-images/centenary-park-amphitheatre-landmarks-v2.webp",
     description: {
       de: "Ein markantes Freilufttheater im großen Centenary Park von Bulawayo.",
       hu: "Egy feltűnő szabadtéri színház Bulawayo nagy Centenary Parkjában.",
@@ -3246,7 +3223,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Keresztelő Szent János Anglikán Katedrális",
       ro: "Catedrala Anglicană Sf. Ioan Botezătorul",
       en: "Anglican Cathedral of St. John the Baptist"},
-    image: "/poi-images/anglican-cathedral-mutare-landmarks-v2.webp",
     description: {
       de: "Eine historische Steinkirche, die das religiöse Zentrum der anglikanischen Gemeinde in Mutare bildet.",
       hu: "Történelmi kőtemplom, amely az anglikán közösség vallási központja Mutaréban.",
@@ -3351,7 +3327,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Beitbridge Határátkelő",
       ro: "Punctul de Trecere a Frontierei Beitbridge",
       en: "Beitbridge Border Post"},
-    image: "/poi-images/beitbridge-border-post-landmarks-v2.webp",
     description: {
       de: "Einer der verkehrsreichsten Binnengrenzübergänge im südlichen Afrika, der Zimbabwe mit Südafrika verbindet.",
       hu: "Dél-Afrika egyik legforgalmasabb szárazföldi határátkelője, amely Zimbabwét köti össze Dél-Afrikával.",
@@ -3411,7 +3386,6 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
       hu: "Masvingo Polgári Központja",
       ro: "Centrul Civic din Masvingo",
       en: "Masvingo Civic Centre"},
-    image: "/poi-images/masvingo-civic-centre-landmarks-v2.webp",
     description: {
       de: "Das Zentrum der Stadtverwaltung in der ältesten Kolonialstadt Zimbabwes.",
       hu: "A városvezetés központja Zimbabwe legrégebbi gyarmati városában.",

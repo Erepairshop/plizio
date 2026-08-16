@@ -989,7 +989,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     parent: "MM-06",
     coords: [96.1666, 16.7958],
     name: { de: "Kandawgyi-Park", hu: "Kandawgyi Park", ro: "Parcul Kandawgyi", en: "Kandawgyi Park"},
-    image: "/poi-images/kandawgyi-park-life-v2.webp",
     description: { de: "Ein malerischer Park um den Kandawgyi-See in Rangun, der einen friedlichen Rückzugsort mit üppigen Gärten und Blick auf die Shwedagon-Pagode bietet.", hu: "Festői park a ranguni Kandawgyi-tó körül, amely békés menedéket nyújt buja kertekkel és kilátással a Shwedagon-pagodára.", ro: "Un parc pitoresc în jurul Lacului Kandawgyi din Yangon, oferind un refugiu liniștit cu grădini luxuriante și vedere la Pagoda Shwedagon.", en: "A picturesque park around Kandawgyi Lake in Yangon, offering a peaceful retreat with lush gardens and views of the Shwedagon Pagoda." , es: "Un pintoresco parque alrededor del lago Kandawgyi en Rangún, que ofrece un retiro tranquilo con jardines exuberantes y vistas a la pagoda Shwedagon.", pt: "Um parque pitoresco ao redor do Lago Kandawgyi em Yangon, oferecendo um retiro tranquilo com jardins exuberantes e vistas do Pagode Shwedagon.", fr: "Un parc pittoresque autour du lac Kandawgyi à Rangoun, offrant une retraite paisible avec des jardins luxuriants et une vue sur la pagode Shwedagon."},
     facts: {
       de: ["Beliebter Ort für Spaziergänge bei Sonnenuntergang.", "Beherbergt den beeindruckenden Karaweik-Palast auf dem See.", "Verfügt über einen Holzsteg entlang des Wassers.", "Umgeben von jahrhundertealten Bäumen."],
@@ -1250,7 +1249,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     parent: "MM-06",
     coords: [96.1558, 16.7963],
     name: { de: "Zoologischer Garten Rangun", hu: "Ranguni Állatkert", ro: "Grădina Zoologică din Yangon", en: "Yangon Zoological Gardens"},
-    image: "/poi-images/yangon-zoo-life-v2.webp",
     description: { de: "Der älteste und zweitgrößte Zoo Myanmars, der eine Vielzahl von asiatischen und afrikanischen Tierarten beherbergt.", hu: "Mianmar legrégebbi és második legnagyobb állatkertje, amely számos ázsiai és afrikai állatfajnak ad otthont.", ro: "Cea mai veche și a doua cea mai mare grădină zoologică din Myanmar, găzduind o varietate de specii de animale asiatice și africane.", en: "The oldest and second-largest zoo in Myanmar, home to a variety of Asian and African animal species." , es: "El zoológico más antiguo y el segundo más grande de Myanmar, que alberga una gran variedad de especies animales asiáticas y africanas.", pt: "O jardim zoológico mais antigo e o segundo maior de Myanmar, que abriga uma grande variedade de espécies animais asiáticas e africanas.", fr: "Le plus ancien et le deuxième plus grand zoo du Myanmar, abritant une grande variété d'espèces animales asiatiques et africaines."},
     facts: {
       de: ["Wurde 1906 während der britischen Kolonialzeit eröffnet.", "Beherbergt seltene weiße Tiger und asiatische Elefanten.", "Umfasst ein Museum für Naturgeschichte.", "Ein beliebtes Ausflugsziel für Familien an Wochenenden."],
@@ -2420,7 +2418,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     parent: "MM-03",
     coords: [96.4667, 22.0167],
     name: { de: "Nationaler Botanischer Garten Kandawgyi", hu: "Kandawgyi Nemzeti Botanikus Kert", ro: "Grădina Botanică Națională Kandawgyi", en: "National Kandawgyi Botanical Gardens"},
-    image: "/poi-images/kandawgyi-botanical-life-v2.webp",
     description: { de: "Ein weitläufiger botanischer Garten in der Bergstation Pyin Oo Lwin, bekannt für seine alpine Flora, Orchideen und Schmetterlinge.", hu: "Egy kiterjedt botanikus kert Pyin Oo Lwin hegyvidéki állomásán, amely alpesi flórájáról, orchideáiról és lepkéiről ismert.", ro: "O vastă grădină botanică în stațiunea montană Pyin Oo Lwin, cunoscută pentru flora sa alpină, orhidee și fluturi.", en: "A sprawling botanical garden in the hill station of Pyin Oo Lwin, known for its alpine flora, orchids, and butterflies." , es: "Un extenso jardín botánico en la estación de montaña Pyin Oo Lwin, conocido por su flora alpina, orquídeas y mariposas.", pt: "Um extenso jardim botânico na estação de montanha Pyin Oo Lwin, conhecido por sua flora alpina, orquídeas e borboletas.", fr: "Un vaste jardin botanique dans la station d'altitude de Pyin Oo Lwin, réputé pour sa flore alpine, ses orchidées et ses papillons."},
     facts: {
       de: ["Wurde 1915 von einem britischen Botaniker gegründet.", "Beherbergt über 480 Blumenarten und zahlreiche Baumarten.", "Umfasst einen speziellen Orchideengarten und ein Schmetterlingsmuseum.", "Dient als wichtiges Forschungszentrum für Botanik in Myanmar."],
@@ -2573,7 +2570,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     parent: "MM-15",
     coords: [96.9833, 20.7833],
     name: { de: "Aythaya-Weingut", hu: "Aythaya Pincészet", ro: "Podgoria Aythaya", en: "Aythaya Vineyard"},
-    image: "/poi-images/aythaya-vineyard-life-v2.webp",
     description: { de: "Das erste Weingut Myanmars, gelegen in den malerischen Shan-Bergen, das lokale Weinsorten in tropischem Klima produziert.", hu: "Mianmar első pincészete, amely a festői Shan-hegységben található, és trópusi éghajlaton termel helyi borfajtákat.", ro: "Prima podgorie din Myanmar, situată în pitoreștii Munți Shan, care produce soiuri de vin local într-un climat tropical.", en: "Myanmar's first vineyard, located in the scenic Shan Mountains, producing local wine varieties in a tropical climate." , es: "El primer viñedo de Myanmar, situado en las pintorescas montañas Shan, que produce variedades de vino locales en un clima tropical.", pt: "O primeiro vinhedo de Myanmar, localizado nas pitorescas montanhas Shan, produzindo variedades de vinho locais num clima tropical.", fr: "Le premier vignoble du Myanmar, situé dans les pittoresques montagnes Shan, produisant des cépages locaux sous un climat tropical."},
     facts: {
       de: ["Gegründet im Jahr 1999 von einem deutschen Unternehmer.", "Befindet sich auf einer Höhe von über 1.200 Metern.", "Produziert Sauvignon Blanc und Shiraz-Mischungen.", "Bietet Weinproben mit Blick auf die umliegenden Täler."],
@@ -3482,7 +3478,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     parent: "MM-15",
     coords: [96.9535, 20.6672],
     name: { de: "Red Mountain Estate Weingut", hu: "Red Mountain Estate Pincészet", ro: "Podgoria Red Mountain Estate", en: "Red Mountain Estate Vineyards"},
-    image: "/poi-images/red-mountain-estate-life-v2.webp",
     description: { de: "Ein renommiertes Weingut in der Nähe des Inle-Sees, das französische Weinbautechniken nutzt, um Qualitätsweine in Asien herzustellen.", hu: "Egy neves pincészet az Inle-tó közelében, amely francia borászati technikákat alkalmaz, hogy minőségi borokat állítson elő Ázsiában.", ro: "O podgorie renumită în apropiere de Lacul Inle, care folosește tehnici de viticultură franceză pentru a produce vinuri de calitate în Asia.", en: "A renowned vineyard near Inle Lake, using French winemaking techniques to produce quality wines in Asia." , es: "Un reconocido viñedo cerca del lago Inle que utiliza técnicas de viticultura francesas para producir vinos de calidad en Asia.", pt: "Uma vinha de renome perto do lago Inle que utiliza técnicas de viticultura francesas para produzir vinhos de qualidade na Ásia.", fr: "Un domaine viticole renommé près du lac Inle, qui utilise des techniques de viticulture françaises pour produire des vins de qualité en Asie."},
     facts: {
       de: ["Die Weinreben wurden aus Spanien und Frankreich importiert.", "Beliebtes Ziel für Touristen, um den Sonnenuntergang zu beobachten.", "Produziert preisgekrönte Pinot Noir und Shiraz Weine.", "Die kühlen Nächte der Region sind ideal für den Weinanbau."],
@@ -4643,7 +4638,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     parent: "MM-06",
     coords: [96.1436, 16.7972],
     name: { de: "Volksplatz und Park", hu: "Nép Tere és Parkja", ro: "Piața și Parcul Poporului", en: "People's Square and Park"},
-    image: "/poi-images/peoples-square-park-life-v2.webp",
     description: { de: "Ein großer öffentlicher Park in Rangun am Fuße der Shwedagon-Pagode, der grüne Rasenflächen und Springbrunnen bietet.", hu: "Egy nagy nyilvános park Rangunban a Shwedagon-pagoda lábánál, amely zöld gyepet és szökőkutakat kínál.", ro: "Un mare parc public în Yangon, la baza Pagodei Shwedagon, oferind peluze verzi și fântâni.", en: "A large public park in Yangon at the base of the Shwedagon Pagoda, offering green lawns and fountains." , es: "Un gran parque público en Rangún, a los pies de la pagoda Shwedagon, que ofrece verdes prados y fuentes.", pt: "Um grande parque público em Rangum, no sopé da Pagoda Shwedagon, que oferece relvados verdes e fontes.", fr: "Un grand parc public à Rangoun, au pied de la pagode Shwedagon, offrant des pelouses verdoyantes et des fontaines."},
     facts: {
       de: ["Erstreckt sich über ein Gebiet von mehr als 130 Hektar.", "Verfügt über ein Denkmal, das an die nationale Einheit erinnert.", "Beliebter Ort für Picknicks und Freiluftkonzerte.", "Der Park war früher Teil des Geländes des britischen Gouverneurs."],
@@ -5480,7 +5474,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     parent: "MM-04",
     coords: [94.5667, 20.0833],
     name: { de: "Shwesettaw-Wildreservat", hu: "Shwesettaw Vadvédelmi Terület", ro: "Sanctuarul Faunei Sălbatice Shwesettaw", en: "Shwesettaw Wildlife Sanctuary"},
-    image: "/poi-images/shwesettaw-wildlife-life-v2.webp",
     description: { de: "Ein Naturschutzgebiet in Zentralmyanmar, das eingerichtet wurde, um den vom Aussterben bedrohten burmesischen Sternschildkröten einen Lebensraum zu bieten.", hu: "Közép-Mianmarban található természetvédelmi terület, amelyet a kritikusan veszélyeztetett burmai csillagteknősök élőhelyének biztosítására hoztak létre.", ro: "O rezervație naturală în centrul Myanmarului, înființată pentru a proteja țestoasele stelate birmaneze pe cale de dispariție.", en: "A nature reserve in central Myanmar established to provide a habitat for the critically endangered Burmese star tortoises." , es: "Una reserva natural en el centro de Myanmar establecida para ofrecer un hábitat a las tortugas estrella birmanas en peligro de extinción.", pt: "Uma reserva natural no centro de Myanmar estabelecida para oferecer um habitat às tartarugas-estreladas-birmanesas em perigo de extinção.", fr: "Une réserve naturelle dans le centre du Myanmar, créée pour offrir un habitat aux tortues étoilées de Birmanie, menacées d'extinction."},
     facts: {
       de: ["Schützt auch die endemische Eld-Hirsch-Population (Thamin).", "Besteht hauptsächlich aus trockenen Laubwäldern.", "Ist nach einer nahegelegenen berühmten buddhistischen Pagode benannt.", "Ein Zentrum für erfolgreiche Nachzuchtprogramme von Schildkröten."],
@@ -5597,7 +5590,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     parent: "MM-07",
     coords: [95.3000, 15.9333],
     name: { de: "Meinmahla-Kyun-Wildreservat", hu: "Meinmahla Kyun Vadvédelmi Terület", ro: "Sanctuarul Faunei Sălbatice Meinmahla Kyun", en: "Meinmahla Kyun Wildlife Sanctuary"},
-    image: "/poi-images/meinmahla-kyun-life-v2.webp",
     description: { de: "Ein geschütztes Mangrovengebiet im Irrawaddy-Delta, das eine entscheidende Rolle für das Ökosystem der Küste spielt und Krokodile schützt.", hu: "Az Iravádi-deltában található védett mangrove terület, amely döntő szerepet játszik a part menti ökoszisztémában, és krokodilokat véd.", ro: "O zonă protejată de mangrove în Delta Irrawaddy, care joacă un rol crucial pentru ecosistemul de coastă și protejează crocodilii.", en: "A protected mangrove area in the Irrawaddy Delta that plays a crucial role for the coastal ecosystem and protects crocodiles." , es: "Una zona protegida de manglares en el delta del Irrawaddy que desempeña un papel crucial en el ecosistema costero y protege a los cocodrilos.", pt: "Uma área protegida de mangais no delta do Irrawaddy que desempenha um papel crucial no ecossistema costeiro e protege os crocodilos.", fr: "Une zone de mangrove protégée dans le delta de l'Irrawaddy, qui joue un rôle crucial pour l'écosystème côtier et protège les crocodiles."},
     facts: {
       de: ["Einer der letzten natürlichen Lebensräume des Leistenkrokodils in Myanmar.", "Das Reservat ist auch ein wichtiger Nistplatz für Meeresschildkröten.", "Umfasst eines der größten verbliebenen Mangrovengebiete des Landes.", "Hilft beim Schutz der Küste vor tropischen Stürmen."],
@@ -5678,7 +5670,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     parent: "MM-01",
     coords: [95.7333, 23.5833],
     name: { de: "Chatthin-Wildreservat", hu: "Chatthin Vadvédelmi Terület", ro: "Sanctuarul Faunei Sălbatice Chatthin", en: "Chatthin Wildlife Sanctuary"},
-    image: "/poi-images/chatthin-wildlife-life-v2.webp",
     description: { de: "Ein bedeutendes Schutzgebiet in der Sagaing-Region, das sich der Erhaltung des seltenen burmesischen Eld-Hirsches widmet.", hu: "Egy jelentős védett terület a Sagaing régióban, amely a ritka burmai Eld-szarvas megőrzésének szenteli magát.", ro: "O zonă protejată importantă în regiunea Sagaing, dedicată conservării rarului cerb Eld birmanez.", en: "A significant protected area in the Sagaing Region dedicated to the conservation of the rare Burmese Eld's deer." , es: "Una importante área protegida en la región de Sagaing dedicada a la conservación del raro ciervo de Eld birmano.", pt: "Uma importante área protegida na região de Sagaing dedicada à preservação do raro cervo de Eld birmanês.", fr: "Une zone protégée importante dans la région de Sagaing, dédiée à la conservation du rare cerf d'Eld birman."},
     facts: {
       de: ["Wurde 1941 als eines der ältesten Reservate des Landes gegründet.", "Die Landschaft ist von offenen Buschwäldern geprägt.", "Neben Hirschen leben hier auch Leoparden und wilde Hunde.", "Ein wichtiger Ort für ökologische Forschung in Myanmar."],
@@ -5867,7 +5858,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     parent: "MM-18",
     coords: [96.2667, 19.8167],
     name: { de: "Zoologischer Garten Naypyidaw", hu: "Naypyidaw Állatkert", ro: "Grădina Zoologică Naypyidaw", en: "Naypyidaw Zoological Gardens"},
-    image: "/poi-images/naypyidaw-zoo-life-v2.webp",
     description: { de: "Der größte Zoo Myanmars in der neuen Hauptstadt, der mit modernen Gehegen und einer Vielzahl exotischer Tiere gestaltet wurde.", hu: "Mianmar legnagyobb állatkertje az új fővárosban, amelyet modern kifutókkal és különféle egzotikus állatokkal alakítottak ki.", ro: "Cea mai mare grădină zoologică din Myanmar, în noua capitală, proiectată cu incinte moderne și o varietate de animale exotice.", en: "The largest zoo in Myanmar, located in the new capital, designed with modern enclosures and a variety of exotic animals." , es: "El zoológico más grande de Myanmar en la nueva capital, diseñado con recintos modernos y una variedad de animales exóticos.", pt: "O maior jardim zoológico de Myanmar na nova capital, desenhado com recintos modernos e uma variedade de animais exóticos.", fr: "Le plus grand zoo du Myanmar, situé dans la nouvelle capitale, aménagé avec des enclos modernes et une grande variété d'animaux exotiques."},
     facts: {
       de: ["Eröffnete im Jahr 2008 nach der Verlegung der Hauptstadt.", "Viele Tiere wurden aus dem alten Zoo in Rangun hierher gebracht.", "Besitzt ein großes, klimatisiertes Pinguin-Haus.", "Erstreckt sich über eine Fläche von rund 250 Hektar."],
@@ -6452,7 +6442,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     parent: "MM-18",
     coords: [96.2700, 19.8200],
     name: { de: "Safari-Park Naypyidaw", hu: "Naypyidaw Szafaripark", ro: "Parcul Safari Naypyidaw", en: "Naypyidaw Safari Park"},
-    image: "/poi-images/naypyidaw-safari-life-v2.webp",
     description: { de: "Ein weitläufiger Wildpark, in dem Besucher Tiere aus Asien, Afrika und Australien in einer naturnahen Umgebung von Buggys aus beobachten können.", hu: "Egy kiterjedt vadaspark, ahol a látogatók ázsiai, afrikai és ausztrál állatokat figyelhetnek meg természetes környezetben, járművekről.", ro: "Un parc sălbatic extins unde vizitatorii pot observa animale din Asia, Africa și Australia într-un mediu natural, din vehicule.", en: "A sprawling wildlife park where visitors can observe animals from Asia, Africa, and Australia in a natural environment from buggies." , es: "Un extenso parque de vida silvestre donde los visitantes pueden observar animales de Asia, África y Australia en un entorno natural desde buggies.", pt: "Um vasto parque de vida selvagem onde os visitantes podem observar animais da Ásia, África e Austrália num ambiente natural a partir de buggies.", fr: "Un vaste parc animalier où les visiteurs peuvent observer des animaux d'Asie, d'Afrique et d'Australie dans un environnement naturel à bord de buggys."},
     facts: {
       de: ["Der Park ist in drei verschiedene Kontinentalzonen unterteilt.", "Besucher können afrikanische Löwen und Zebras hautnah erleben.", "Die Fahrt mit den speziellen Safari-Wagen dauert etwa eine Stunde.", "Wurde kurz nach dem angrenzenden Zoo im Jahr 2011 eröffnet."],
@@ -7361,7 +7350,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     parent: "MM-18",
     coords: [96.1550, 19.7433],
     name: { de: "Naypyidaw-Wasserfontänen-Park", hu: "Naypyidaw Szökőkútpark", ro: "Parcul Fântânilor din Naypyidaw", en: "Naypyidaw Water Fountain Park"},
-    image: "/poi-images/naypyidaw-water-fountain-life-v2.webp",
     description: { de: "Ein abendlicher Unterhaltungsort in der Hauptstadt, bekannt für seine musikalischen Wasserspiele und bunt beleuchteten Fontänen.", hu: "A főváros egy esti szórakozóhelye, amely zenei vízijátékairól és színesen megvilágított szökőkútjairól ismert.", ro: "Un loc de divertisment de seară în capitală, cunoscut pentru spectacolele sale muzicale de apă și fântânile luminate colorat.", en: "An evening entertainment venue in the capital, known for its musical water shows and colorfully lit fountains." , es: "Un lugar de entretenimiento nocturno en la capital, conocido por sus juegos de agua musicales y fuentes iluminadas de colores.", pt: "Um local de entretenimento noturno na capital, conhecido pelos seus jogos de água musicais e fontes iluminadas coloridas.", fr: "Un lieu de divertissement nocturne dans la capitale, connu pour ses jeux d'eau musicaux et ses fontaines illuminées en couleurs."},
     facts: {
       de: ["Verfügt über einen großen See mit einer 90 Meter hohen Hauptfontäne.", "Bietet abendliche Licht- und Musikshows an den Wochenenden.", "Ein beliebter Ort für Familien und junge Paare.", "Beinhaltet auch Spielplätze und Hängebrücken."],
@@ -8342,7 +8330,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     parent: "MM-18",
     coords: [96.1517, 19.7617],
     name: { de: "Nationaler Kräuterpark", hu: "Nemzeti Gyógynövény Park", ro: "Parcul Național de Plante Medicinale", en: "National Herbal Park"},
-    image: "/poi-images/national-herbal-park-life-v2.webp",
     description: { de: "Ein weitläufiger Garten in Naypyidaw, der Tausende von Heilpflanzen aus verschiedenen Teilen Myanmars bewahrt und zur Schau stellt.", hu: "Egy kiterjedt kert Naypyidawban, amely Mianmar különböző részeiről származó gyógynövények ezreit őrzi és mutatja be.", ro: "O grădină vastă în Naypyidaw care conservă și expune mii de plante medicinale din diverse părți ale Myanmarului.", en: "A sprawling garden in Naypyidaw that preserves and showcases thousands of medicinal plants from various parts of Myanmar." , es: "Un extenso jardín en Naypyidaw que conserva y exhibe miles de plantas medicinales de diferentes partes de Myanmar.", pt: "Um vasto jardim em Naypyidaw que preserva e exibe milhares de plantas medicinais de diferentes partes de Myanmar.", fr: "Un vaste jardin à Naypyidaw qui préserve et présente des milliers de plantes médicinales provenant de différentes régions du Myanmar."},
     facts: {
       de: ["Wurde angelegt, um das traditionelle burmesische Medizinwissen zu bewahren.", "Beherbergt über 20.000 Pflanzen aus mehr als 700 Arten.", "Die Pflanzen sind systematisch nach ihren medizinischen Eigenschaften geordnet.", "Dient auch als Ausbildungsstätte für traditionelle Heiler."],
@@ -8567,7 +8554,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     parent: "MM-15",
     coords: [96.4833, 20.6167],
     name: { de: "Green Hill Valley Elefanten-Camp", hu: "Green Hill Valley Elefánttábor", ro: "Tabăra de Elefanți Green Hill Valley", en: "Green Hill Valley Elephant Camp"},
-    image: "/poi-images/green-hill-valley-life-v2.webp",
     description: { de: "Ein ethisches Elefantenschutzgebiet im Shan-Staat, das sich auf die Pflege von pensionierten Arbeitselefanten aus der Holzindustrie konzentriert.", hu: "Egy etikus elefántmenedékhely a Shan államban, amely a faiparból nyugdíjazott munkaselefántok gondozására összpontosít.", ro: "Un sanctuar etic de elefanți în statul Shan, axat pe îngrijirea elefanților de lucru pensionați din industria lemnului.", en: "An ethical elephant sanctuary in Shan State focusing on the care of retired working elephants from the timber industry." , es: "Un santuario ético de elefantes en el estado Shan que se centra en el cuidado de elefantes de trabajo jubilados de la industria maderera.", pt: "Um santuário ético de elefantes no estado de Shan que se concentra no cuidado de elefantes de trabalho aposentados da indústria madeireira.", fr: "Un sanctuaire éthique pour éléphants dans l'État Shan, qui se concentre sur les soins aux éléphants de trait retraités de l'industrie du bois."},
     facts: {
       de: ["Besucher können Elefanten füttern und baden, anstatt auf ihnen zu reiten.", "Das Camp führt auch aktive Wiederaufforstungsprogramme durch.", "Es wurde von einer lokalen Familie gegründet, um den Tierschutz zu fördern.", "Ein Tierarzt ist rund um die Uhr vor Ort für die Tiere da."],
@@ -8900,7 +8886,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     parent: "MM-03",
     coords: [96.1017, 21.9961],
     name: { de: "Yadanabon-Zoo", hu: "Yadanabon Állatkert", ro: "Grădina Zoologică Yadanabon", en: "Yadanabon Zoological Gardens"},
-    image: "/poi-images/yadanabon-zoo-life-v2.webp",
     description: { de: "Ein bekannter Zoo am Fuße des Mandalay Hills, der eine wichtige Rolle in der Zucht von endemischen birmanischen Tierarten spielt.", hu: "A Mandalay-hegy lábánál fekvő ismert állatkert, amely fontos szerepet játszik az endemikus burmai állatfajok tenyésztésében.", ro: "O grădină zoologică cunoscută la baza Dealului Mandalay, jucând un rol important în reproducerea speciilor de animale endemice birmaneze.", en: "A well-known zoo at the foot of Mandalay Hill, playing an important role in the breeding of endemic Burmese animal species." , es: "Un conocido zoológico al pie de las colinas de Mandalay, que desempeña un papel fundamental en la cría de especies animales birmanas endémicas.", pt: "Um jardim zoológico conhecido ao pé das colinas de Mandalay, que desempenha um papel importante na criação de espécies animais birmanesas endémicas.", fr: "Un zoo réputé au pied des collines de Mandalay, qui joue un rôle important dans l'élevage d'espèces animales endémiques de Birmanie."},
     facts: {
       de: ["Wurde 1989 eröffnet und ist Myanmars einziger Zoo für die vom Aussterben bedrohte burmesische Dachschildkröte.", "Bietet spezielle Nacht-Safari-Touren an.", "Engagiert sich stark im Artenschutz und in der Umweltbildung.", "Beherbergt über 300 verschiedene Tierarten."],
@@ -9161,7 +9146,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     parent: "MM-03",
     coords: [96.0000, 22.3333],
     name: { de: "Irrawaddy-Delfin-Schutzgebiet", hu: "Iravádi-delfin Védett Terület", ro: "Aria Protejată a Delfinilor Irrawaddy", en: "Ayeyarwady Dolphin Protected Area"},
-    image: "/poi-images/ayeyarwady-dolphin-area-life-v2.webp",
     description: { de: "Ein Flussabschnitt nördlich von Mandalay, der dem Schutz der seltenen Irrawaddy-Delfine dient, die für ihre Zusammenarbeit mit lokalen Fischern bekannt sind.", hu: "Egy folyószakasz Mandalay-tól északra, amely a ritka Iravádi-delfinek védelmét szolgálja, amelyek a helyi halászokkal való együttműködésükről ismertek.", ro: "O secțiune de râu la nord de Mandalay dedicată protecției delfinilor rari Irrawaddy, cunoscuți pentru cooperarea lor cu pescarii locali.", en: "A stretch of river north of Mandalay dedicated to the protection of the rare Irrawaddy dolphins, known for their cooperation with local fishermen." , es: "Un tramo del río al norte de Mandalay dedicado a la protección de los raros delfines del Irawadi, conocidos por su cooperación con los pescadores locales.", pt: "Um trecho do rio ao norte de Mandalay dedicado à proteção dos raros golfinhos de Irrawaddy, conhecidos por sua cooperação com os pescadores locais.", fr: "Un tronçon de la rivière au nord de Mandalay dédié à la protection des rares dauphins de l'Irrawaddy, connus pour leur coopération avec les pêcheurs locaux."},
     facts: {
       de: ["Hier praktizieren Delfine und Menschen das seltene 'kooperative Fischen'.", "Das Schutzgebiet erstreckt sich über rund 74 Kilometer des Flusses.", "Die Delfinpopulation ist stark durch illegale Fischereimethoden bedroht.", "Ökotourismus hilft hier, alternative Einkommensquellen für Einheimische zu schaffen."],
@@ -9197,7 +9181,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     parent: "MM-03",
     coords: [96.0967, 21.9933],
     name: { de: "Mandalay-Palastgraben-Park", hu: "Mandalay Palotaárok Park", ro: "Parcul Șanțului de Apărare din Mandalay", en: "Mandalay Palace Moat Park"},
-    image: "/poi-images/mandalay-moat-park-life-v2.webp",
     description: { de: "Ein weitläufiger Erholungsbereich, der den breiten, wassergefüllten Graben des historischen Königspalastes von Mandalay umgibt.", hu: "Kiterjedt szabadidős terület, amely a történelmi mandalayi királyi palota széles, vízzel teli várárkát öleli körül.", ro: "O zonă extinsă de recreere care înconjoară șanțul lat, plin cu apă, al istoricului Palat Regal din Mandalay.", en: "An expansive recreational area surrounding the wide, water-filled moat of the historic Mandalay Royal Palace." , es: "Una amplia zona recreativa que rodea el ancho foso lleno de agua del histórico Palacio Real de Mandalay.", pt: "Uma ampla área recreativa que rodeia o fosso largo e cheio de água do histórico Palácio Real de Mandalay.", fr: "Une vaste zone de loisirs entourant les larges douves remplies d'eau du palais royal historique de Mandalay."},
     facts: {
       de: ["Der Wassergraben ist mehr als 60 Meter breit und fast 8 Kilometer lang.", "Ein beliebter Ort für morgendliches Joggen und Tai-Chi.", "Der Park bietet einen herrlichen Blick auf die alten Festungsmauern und das Mandalay Hill.", "Nachts werden die Mauern und das Wasser stimmungsvoll beleuchtet."],
@@ -10142,7 +10125,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
     parent: "MM-03",
     coords: [96.4500, 22.0333],
     name: { de: "Erdbeerfarmen von Pyin Oo Lwin", hu: "Pyin Oo Lwin Eperfarmok", ro: "Fermele de Căpșuni Pyin Oo Lwin", en: "Pyin Oo Lwin Strawberry Farms"},
-    image: "/poi-images/pyin-oo-lwin-strawberries-life-v2.webp",
     description: { de: "Landwirtschaftliche Terrassen in der gemäßigten Bergstation Pyin Oo Lwin, berühmt für den Anbau frischer Erdbeeren während der kühlen Jahreszeit.", hu: "Mezőgazdasági teraszok a mérsékelt égövi Pyin Oo Lwin hegyvidéki állomáson, amelyek arról híresek, hogy a hűvös évszakban friss epret termesztenek.", ro: "Terase agricole în stațiunea montană temperată Pyin Oo Lwin, renumite pentru cultivarea căpșunilor proaspete în timpul sezonului răcoros.", en: "Agricultural terraces in the temperate hill station of Pyin Oo Lwin, famous for growing fresh strawberries during the cool season." , es: "Terrazas agrícolas en la estación de montaña de clima templado de Pyin Oo Lwin, famosas por el cultivo de fresas frescas durante la temporada fría.", pt: "Terraços agrícolas na estância de montanha de clima temperado de Pyin Oo Lwin, famosos pelo cultivo de morangos frescos durante a época fria.", fr: "Terrasses agricoles dans la station de montagne tempérée de Pyin Oo Lwin, célèbre pour la culture de fraises fraîches pendant la saison fraîche."},
     facts: {
       de: ["Das kühle Mikroklima der Region ist perfekt für Beerenfrüchte.", "Besucher können während der Erntezeit ihre eigenen Erdbeeren pflücken.", "Die lokalen Märkte sind für ihre handgemachte Erdbeermarmelade bekannt.", "Die Farmen trugen maßgeblich zur wirtschaftlichen Entwicklung der Stadt bei."],

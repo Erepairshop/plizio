@@ -341,7 +341,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-16",
     coords: [-3.7333, 5.2],
     name: { de: "Historische Stadt Grand-Bassam", hu: "Grand-Bassam történelmi városa", ro: "Orașul istoric Grand-Bassam", en: "Historic Town of Grand-Bassam"},
-    image: "/poi-images/grand-bassam-historic-town-history-v2.webp",
     description: { de: "Die historische Altstadt von Grand-Bassam zeugt von der kolonialen Architektur des späten 19. Jahrhunderts.", hu: "Elefántcsontpart egykori gyarmati fővárosa, amely 2012 óta az UNESCO Világörökség részét képezi jól megőrzött francia építészete miatt.", ro: "Orașul istoric Grand-Bassam, prima capitală a Coastei de Fildeș, este renumit pentru arhitectura sa colonială franceză bine conservată și statutul de sit UNESCO.", en: "This historic town served as the first French colonial capital of Ivory Coast between 1893 and 1896. It is now a UNESCO World Heritage site known for its late 19th-century architecture." , es: "El casco histórico de Grand-Bassam es testimonio de la arquitectura colonial de finales del siglo XIX.", pt: "O centro histórico de Grand-Bassam é um testemunho da arquitetura colonial do final do século XIX.", fr: "Le quartier historique de Grand-Bassam témoigne de l'architecture coloniale de la fin du XIXe siècle."},
     descriptionAdvanced: {
       de: "Die historische Stadt Grand-Bassam, gelegen an der Küste der Elfenbeinküste östlich von Abidjan, war von 1893 bis 1896 die erste koloniale Hauptstadt des Landes. Die Stadt ist ein herausragendes Beispiel für die Kolonialarchitektur des späten 19. und frühen 20. Jahrhunderts und wurde 2012 in die Liste des UNESCO-Welterbes aufgenommen. Ihr Stadtplan teilt sich in das koloniale Viertel „Ancien Bassam“ mit seinen herrschaftlichen Verwaltungsgebäuden und Wohnhäusern sowie das afrikanische Dorf „N'zima“. Grand-Bassam spielte eine zentrale Rolle als Seehafen und Handelszentrum, bevor eine verheerende Gelbfieber-Epidemie im Jahr 1899 zur Verlegung der Hauptstadt nach Bingerville führte. Heute ist die Stadt ein bedeutendes kulturelles Zentrum, bekannt für das Abissa-Festival und sein Kunsthandwerk. Die Architektur zeichnet sich durch funktionale Anpassungen an das tropische Klima aus, wie große Veranden und hohe Decken. Als Symbol der ivorischen Geschichte bewahrt Grand-Bassam das Erbe der Begegnung zwischen afrikanischer Tradition und europäischem Kolonialismus.",
@@ -422,7 +421,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-07",
     coords: [-5.2963, 6.8105],
     name: { de: "Basilika Notre-Dame-de-la-Paix", hu: "Miasszonyunk a Béke Királynője bazilika", ro: "Bazilica Notre-Dame de la Paix", en: "Basilica of Our Lady of Peace"},
-    image: "/poi-images/basilica-of-our-lady-of-peace-history-v2.webp",
     description: { de: "Eine riesige Basilika in Yamoussoukro, die zwischen 1985 und 1989 im Auftrag von Félix Houphouët-Boigny erbaut wurde.", hu: "Egy hatalmas bazilika Yamoussoukro-ban, amelyet Félix Houphouët-Boigny megbízásából építettek 1985 és 1989 között.", ro: "O bazilică imensă în Yamoussoukro, construită între 1985 și 1989 la comanda lui Félix Houphouët-Boigny.", en: "A huge basilica in Yamoussoukro, built between 1985 and 1989 commissioned by Félix Houphouët-Boigny." , es: "Una enorme basílica en Yamusukro, construida entre 1985 y 1989 por encargo de Félix Houphouët-Boigny.", pt: "Uma enorme basílica em Yamoussoukro, construída entre 1985 e 1989 por ordem de Félix Houphouët-Boigny.", fr: "Une immense basilique à Yamoussoukro, construite entre 1985 et 1989 sur commande de Félix Houphouët-Boigny."},
     facts: {
       de: ["Größte Kirche der Welt", "Erbaut 1985-1989", "Nach Vorbild des Petersdoms", "Bietet Platz für 18.000 Menschen"],
@@ -538,7 +536,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-16",
     coords: [-3.2833, 5.1167],
     name: { de: "Erste französische Siedlung in Assinie", hu: "Az első francia település Assinie-ben", ro: "Prima așezare franceză în Assinie", en: "First French settlement in Assinie"},
-    image: "/poi-images/assinie-mafia-settlement-history-v2.webp",
     description: { de: "Der Ort der ersten französischen Handelsstation und Mission an der Elfenbeinküste aus dem 17. Jahrhundert.", hu: "A 17. századi első francia kereskedelmi állomás és misszió helyszíne Elefántcsontparton.", ro: "Locul primului post comercial și al primei misiuni franceze din Coasta de Fildeș din secolul al XVII-lea.", en: "The site of the first French trading post and mission in Ivory Coast from the 17th century." , es: "El lugar del primer puesto comercial y misión francesa en Costa de Marfil, que data del siglo XVII.", pt: "O local do primeiro posto comercial e missão francesa na Costa do Marfim, datado do século XVII.", fr: "Le lieu du premier comptoir et de la première mission française en Côte d'Ivoire, datant du XVIIe siècle."},
     facts: {
       de: ["Gegründet im späten 17. Jahrhundert", "Erste christliche Mission", "Historisches Handelszentrum", "Wichtiger Küstenstützpunkt"],
@@ -619,7 +616,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-01",
     coords: [-3.8833, 5.35],
     name: { de: "Ehemalige Hauptstadt Bingerville", hu: "Bingerville egykori főváros", ro: "Fosta capitală Bingerville", en: "Former capital Bingerville"},
-    image: "/poi-images/bingerville-former-capital-history-v2.webp",
     description: { de: "War von 1900 bis 1934 die Hauptstadt der französischen Kolonie und beherbergt den ehemaligen Gouverneurspalast.", hu: "1900 és 1934 között a francia gyarmat fővárosa volt, és itt található az egykori kormányzói palota.", ro: "A fost capitala coloniei franceze din 1900 până în 1934 și găzduiește fostul palat al guvernatorului.", en: "Was the capital of the French colony from 1900 to 1934 and houses the former governor's palace." , es: "Fue la capital de la colonia francesa de 1900 a 1934 y alberga el antiguo palacio del gobernador.", pt: "Foi a capital da colónia francesa de 1900 a 1934 e alberga o antigo palácio do governador.", fr: "A été la capitale de la colonie française de 1900 à 1934 et abrite l'ancien palais du gouverneur."},
     facts: {
       de: ["Hauptstadt 1900-1934", "Palast des französischen Gouverneurs", "Benannt nach Louis Gustave Binger", "Historisches Verwaltungszentrum"],
@@ -700,7 +696,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-07",
     coords: [-5.2, 7.15],
     name: { de: "Historisches Zentrum von Tiébissou", hu: "Tiébissou történelmi központja", ro: "Centrul istoric Tiébissou", en: "Historic Center of Tiébissou"},
-    image: "/poi-images/tiebissou-resistance-history-v2.webp",
     description: { de: "Eine Region, die eine Schlüsselrolle im antikolonialen Widerstand von Samori Ture im 19. Jahrhundert spielte.", hu: "A régió kulcsszerepet játszott Samori Ture 19. századi gyarmatosításellenes ellenállásában.", ro: "O regiune care a jucat un rol cheie în rezistența anticolonială a lui Samori Ture din secolul al XIX-lea.", en: "A region that played a key role in the anti-colonial resistance of Samori Ture in the 19th century." , es: "Una región que desempeñó un papel clave en la resistencia anticolonial de Samori Ture en el siglo XIX.", pt: "Uma região que desempenhou um papel fundamental na resistência anticolonial de Samori Ture no século XIX.", fr: "Une région qui a joué un rôle clé dans la résistance anticoloniale de Samory Touré au XIXe siècle."},
     facts: {
       de: ["Zentrum des Baoulé-Widerstands", "Schlachtort gegen französische Truppen", "Historische Handelsroute", "Kulturelles Erbe der Akan"],
@@ -817,7 +812,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-08",
     coords: [-2.8, 8.0333],
     name: { de: "Stadt der 1000 Moscheen Bondoukou", hu: "Bondoukou az 1000 mecset városa", ro: "Orașul celor 1000 de moschei Bondoukou", en: "City of 1000 Mosques Bondoukou"},
-    image: "/poi-images/bondoukou-mosques-history-v2.webp",
     description: { de: "Ein altes islamisches Handels- und Bildungszentrum im Nordosten der Elfenbeinküste.", hu: "Egy régi iszlám kereskedelmi és oktatási központ Elefántcsontpart északkeleti részén.", ro: "Un vechi centru islamic de comerț și educație în nord-estul Coastei de Fildeș.", en: "An ancient Islamic trade and educational center in northeastern Ivory Coast." , es: "Un antiguo centro islámico de comercio y educación en el noreste de Costa de Marfil.", pt: "Um antigo centro islâmico de comércio e educação no nordeste da Costa do Marfim.", fr: "Un ancien centre de commerce et d'éducation islamique dans le nord-est de la Côte d'Ivoire."},
     facts: {
       de: ["Ehemaliges Transsahara-Handelszentrum", "Bekannt für traditionelle Moscheen", "Wichtige islamische Bildungsstätte", "Gegründet im 11. Jahrhundert"],
@@ -898,7 +892,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-08",
     coords: [-3.0, 9.2667],
     name: { de: "Königreich Bouna", hu: "Bouna Királyság", ro: "Regatul Bouna", en: "Bouna Kingdom"},
-    image: "/poi-images/bouna-kingdom-history-v2.webp",
     description: { de: "Der historische Sitz eines mächtigen vorkolonialen Reiches, das im 17. Jahrhundert gegründet wurde.", hu: "Egy hatalmas, a 17. században alapított gyarmatosítás előtti birodalom történelmi székhelye.", ro: "Sediul istoric al unui puternic imperiu precolonial fondat în secolul al XVII-lea.", en: "The historic seat of a powerful pre-colonial empire founded in the 17th century." , es: "La sede histórica de un poderoso reino precolonial fundado en el siglo XVII.", pt: "A sede histórica de um poderoso reino pré-colonial fundado no século XVII.", fr: "Le siège historique d'un puissant royaume précolonial fondé au XVIIe siècle."},
     facts: {
       de: ["Gegründet von König Bounkani", "Kontrollierte den Goldhandel", "Historischer Königspalast", "Teil der Mande-Kultur"],
@@ -979,7 +972,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-10",
     coords: [-7.5667, 9.5],
     name: { de: "Odienné und das Grab von Vakaba Touré", hu: "Odienné és Vakaba Touré sírja", ro: "Odienné și mormântul lui Vakaba Touré", en: "Odienné and Vakaba Touré's Tomb"},
-    image: "/poi-images/odienne-vakaba-toure-history-v2.webp",
     description: { de: "Die Stadt war im 19. Jahrhundert die Hauptstadt des von Vakaba Touré gegründeten Reiches Kabadougou.", hu: "A város a 19. században a Vakaba Touré által alapított Kabadougou birodalom fővárosa volt.", ro: "Orașul a fost capitala imperiului Kabadougou fondat de Vakaba Touré în secolul al XIX-lea.", en: "The city was the capital of the Kabadougou empire founded by Vakaba Touré in the 19th century." , es: "La ciudad fue la capital del Imperio Kabadougou fundado por Vakaba Touré en el siglo XIX.", pt: "A cidade foi a capital do império Kabadougou fundado por Vakaba Touré no século XIX.", fr: "La ville était au XIXe siècle la capitale de l'empire du Kabadougou fondé par Vakaba Touré."},
     facts: {
       de: ["Hauptstadt von Kabadougou", "Grab von Vakaba Touré", "Wichtiger Ort für Malinke-Geschichte", "Zentrum der Gold- und Salzrouten"],
@@ -1015,7 +1007,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-12",
     coords: [-7.55, 7.4],
     name: { de: "Historisches Zentrum von Man", hu: "Man történelmi központja", ro: "Centrul istoric din Man", en: "Historic Center of Man"},
-    image: "/poi-images/man-colonial-history-v2.webp",
     description: { de: "Ein wichtiger administrativer und militärischer Stützpunkt während der französischen Kolonialzeit in der westlichen Bergregion.", hu: "Fontos közigazgatási és katonai bázis volt a francia gyarmati időszakban a nyugati hegyvidéken.", ro: "O importantă bază administrativă și militară în timpul perioadei coloniale franceze în regiunea muntoasă vestică.", en: "An important administrative and military base during the French colonial period in the western mountain region." , es: "Una importante base administrativa y militar durante la época colonial francesa en la región montañosa del oeste.", pt: "Uma importante base administrativa e militar durante o período colonial francês na região montanhosa do oeste.", fr: "Une base administrative et militaire importante pendant la période coloniale française dans la région montagneuse de l'Ouest."},
     facts: {
       de: ["Militärposten ab 1900", "Zentrum der Dan-Kultur", "Wichtiger Ort für Kaffeehandel", "Ehemalige Garnisonsstadt"],
@@ -1168,7 +1159,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-14",
     coords: [-5.6333, 9.45],
     name: { de: "Palast von Péléforo Gbon Coulibaly in Korhogo", hu: "Péléforo Gbon Coulibaly palotája Korhogoban", ro: "Palatul lui Péléforo Gbon Coulibaly din Korhogo", en: "Péléforo Gbon Coulibaly's Palace in Korhogo"},
-    image: "/poi-images/korhogo-gbon-palace-history-v2.webp",
     description: { de: "Der historische Palast eines der einflussreichsten Anführer der Senufo im frühen 20. Jahrhundert.", hu: "A Senufo nép egyik legbefolyásosabb 20. század eleji vezetőjének történelmi palotája.", ro: "Palatul istoric al unuia dintre cei mai influenți lideri Senufo de la începutul secolului al XX-lea.", en: "The historic palace of one of the most influential leaders of the Senufo in the early 20th century." , es: "El palacio histórico de uno de los líderes senufo más influyentes de principios del siglo XX.", pt: "O palácio histórico de um dos líderes senufo mais influentes do início do século XX.", fr: "Le palais historique de l'un des chefs Sénoufo les plus influents du début du XXe siècle."},
     facts: {
       de: ["Residenz des Senufo-Oberhaupts", "Politisch wichtiges Zentrum", "Gbon Coulibaly kooperierte mit Frankreich", "Erhält traditionelle Architektur"],
@@ -1249,7 +1239,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-16",
     coords: [-4.3833, 5.3167],
     name: { de: "Fort Faidherbe in Dabou", hu: "Faidherbe erőd Dabou-ban", ro: "Fortul Faidherbe din Dabou", en: "Fort Faidherbe in Dabou"},
-    image: "/poi-images/dabou-fort-faidherbe-history-v2.webp",
     description: { de: "Eine 1853 erbaute französische Festung, die zur Sicherung der kolonialen Kontrolle an der Lagune diente.", hu: "A Louis Faidherbe által 1853-ban alapított erődítmény Dabou városában a francia katonai jelenlét egyik fontos bástyája volt.", ro: "O fortăreață franceză construită în 1853 pentru a asigura controlul colonial pe lagună.", en: "A French fortress built in 1853 to secure colonial control on the lagoon." , es: "Una fortaleza francesa construida en 1853 que servía para asegurar el control colonial en la laguna.", pt: "Uma fortaleza francesa construída em 1853 que servia para garantir o controlo colonial na lagoa.", fr: "Une forteresse française construite en 1853 qui servait à assurer le contrôle colonial sur la lagune."},
     facts: {
       de: ["Erbaut von Louis Faidherbe", "Militärischer Außenposten", "Wichtig im Handel", "Gut erhaltenes koloniales Fort"],
@@ -1366,7 +1355,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-03",
     coords: [-6.0833, 4.95],
     name: { de: "Gouverneurspalast und Kai von Sassandra", hu: "Kormányzói palota és rakpart Sassandrában", ro: "Palatul Guvernatorului și Debarcaderul din Sassandra", en: "Governor's Palace and Wharf of Sassandra"},
-    image: "/poi-images/sassandra-governors-palace-history-v2.webp",
     description: { de: "Ein markantes Gebäude aus der Kolonialzeit, das auf einem Hügel über der Stadt Sassandra thront.", hu: "A korai gyarmati kikötői infrastruktúra és közigazgatás maradványai Sassandrában, az Atlanti-óceán partján.", ro: "Rămășițele primei infrastructuri portuare coloniale și a administrației din Sassandra pe Atlantic.", en: "Remains of early colonial port infrastructure and administration in Sassandra on the Atlantic." , es: "Un edificio prominente de la época colonial que se alza sobre una colina dominando la ciudad de Sassandra.", pt: "Um edifício marcante do período colonial que se ergue sobre uma colina dominando a cidade de Sassandra.", fr: "Un bâtiment remarquable de l'époque coloniale qui surplombe la ville de Sassandra depuis une colline."},
     facts: {
       de: ["Baujahr um 1893", "Blick auf den Golf von Guinea", "Ehemaliger Verwaltungssitz"],
@@ -1402,7 +1390,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-03",
     coords: [-6.6333, 4.75],
     name: { de: "Historische Hafenstadt San-Pédro", hu: "San-Pédro történelmi kikötővárosa", ro: "Orașul portuar istoric San Pédro", en: "Historic Port City of San Pédro"},
-    image: "/poi-images/san-pedro-historic-origins-history-v2.webp",
     description: { de: "Ursprünglich ein kleines Fischerdorf, das in den 1960er Jahren als strategisches Regierungsprojekt massiv ausgebaut wurde.", hu: "Eredetileg egy kis halászfalu, amelyet az 1960-as években stratégiai kormányzati projektként jelentősen kibővítettek.", ro: "Inițial un mic sat de pescari, care a fost extins masiv în anii 1960 ca proiect strategic guvernamental.", en: "Originally a small fishing village that was massively expanded in the 1960s as a strategic government project." , es: "Originalmente un pequeño pueblo de pescadores que fue ampliado masivamente en la década de 1960 como un proyecto gubernamental estratégico.", pt: "Originalmente uma pequena aldeia de pescadores, que foi massivamente ampliada na década de 1960 como um projeto governamental estratégico.", fr: "À l'origine un petit village de pêcheurs, qui a été massivement développé dans les années 1960 en tant que projet gouvernemental stratégique."},
     facts: {
       de: ["Port-Chocolat genannt", "Zweitgrößter Hafen des Landes", "Zentrum des Kakaoexports", "Ehemalige portugiesische Präsenz"],
@@ -1438,7 +1425,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-16",
     coords: [-4.7, 5.25],
     name: { de: "Historisches Pfahldorf Tiagba", hu: "Tiagba történelmi cölöpfaluja", ro: "Satul istoric pe piloni Tiagba", en: "Historic Stilt Village of Tiagba"},
-    image: "/poi-images/tiagba-stilt-village-history-v2.webp",
     description: { de: "Ein traditionelles Dorf auf Pfählen in der Ébrié-Lagune, das die vorkoloniale Lebensweise der Küstenvölker bewahrt hat.", hu: "Egy hagyományos cölöpfalu az Ébrié-lagúnában, amely megőrizte a part menti népek gyarmatosítás előtti életmódját.", ro: "Tiagba este un sat istoric unic situat pe piloni în laguna Ébrié, reflectând adaptarea tradițională a poporului Ahizi la mediul acvatic.", en: "A traditional stilt village in the Ébrié Lagoon that has preserved the pre-colonial way of life of coastal peoples." , es: "Un pueblo tradicional sobre pilotes en la laguna de Ébrié, que conserva el modo de vida precolonial de los pueblos costeros.", pt: "Uma aldeia tradicional sobre estacas na lagoa Ébrié, que preserva o modo de vida pré-colonial dos povos costeiros.", fr: "Un village traditionnel sur pilotis dans la lagune Ébrié, préservant le mode de vie précolonial des peuples côtiers."},
     facts: {
       de: ["Häuser auf Stelzen", "Kultur der Ahizi", "Schutz vor feindlichen Angriffen", "Eine der letzten solchen Siedlungen"],
@@ -1474,7 +1460,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-14",
     coords: [-6.4, 10.4833],
     name: { de: "Alte Moschee von Tengréla", hu: "Tengréla régi mecsetje", ro: "Vechea moschee din Tengréla", en: "Old Mosque of Tengréla"},
-    image: "/poi-images/tengrela-historic-mosque-history-v2.webp",
     description: { de: "Eine gut erhaltene kleine Moschee im sudanesischen Stil an den alten Karawanenrouten nach Mali.", hu: "Egy jól megőrzött kis szudáni stílusú mecset a Maliba vezető régi karavánutakon.", ro: "O mică moschee bine conservată, în stil sudanez, pe vechile rute ale caravanelor spre Mali.", en: "A well-preserved small Sudanese-style mosque on the old caravan routes to Mali." , es: "Una pequeña mezquita bien conservada de estilo sudanés situada en las antiguas rutas de caravanas hacia Malí.", pt: "Uma pequena mesquita bem preservada em estilo sudanês nas antigas rotas de caravanas para o Mali.", fr: "Une petite mosquée bien conservée de style soudanais située sur les anciennes routes caravanières vers le Mali."},
     facts: {
       de: ["Lehmziegelarchitektur", "Islamisches Erbe im Norden", "Station auf der Salz- und Goldroute", "Wichtiger Ort für Gelehrte"],
@@ -1510,7 +1495,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-14",
     coords: [-6.15, 9.75],
     name: { de: "Traditionelles Senufo-Dorf Niofoin", hu: "Niofoin hagyományos Senufo falva", ro: "Satul tradițional Senufo Niofoin", en: "Traditional Senufo Village of Niofoin"},
-    image: "/poi-images/niofoin-senufo-village-history-v2.webp",
     description: { de: "Ein historisch intaktes Senufo-Dorf, das berühmt für seine alten Fetischhäuser und Riten ist.", hu: "Történelmileg érintetlen Senufo falu, amely a régi fétisházairól és rítusairól híres.", ro: "Un sat Senufo intact din punct de vedere istoric, faimos pentru vechile sale case de fetișuri și ritualuri.", en: "A historically intact Senufo village famous for its old fetish houses and rites." , es: "Un pueblo senufo históricamente intacto, famoso por sus antiguas casas de fetiches y ritos.", pt: "Uma aldeia senufo historicamente intacta, famosa pelas suas antigas casas de fetiches e ritos.", fr: "Un village Sénoufo historiquement intact, célèbre pour ses anciennes maisons de fétiches et ses rites."},
     facts: {
       de: ["Zentrum des Animismus", "Typische Rundhütten", "Heiliger Hain Poro", "Traditionelle Handwerkskunst"],
@@ -1546,7 +1530,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-01",
     coords: [-4.05, 5.4833],
     name: { de: "Eisenbahnstadt Anyama", hu: "Anyama vasútváros", ro: "Orașul feroviar Anyama", en: "Railway Town Anyama"},
-    image: "/poi-images/anyama-railway-town-history-v2.webp",
     description: { de: "Ein wichtiger Knotenpunkt der historischen Eisenbahnlinie Abidjan-Ouagadougou, die von den Franzosen erbaut wurde.", hu: "A franciák által épített történelmi Abidjan-Ouagadougou vasútvonal fontos csomópontja.", ro: "Un nod important al liniei feroviare istorice Abidjan-Ouagadougou construită de francezi.", en: "An important hub of the historic Abidjan-Ouagadougou railway line built by the French." , es: "Un importante nudo de la histórica línea de ferrocarril Abiyán-Uagadugú, construida por los franceses.", pt: "Um importante nó da histórica linha ferroviária Abidjan-Ouagadougou, construída pelos franceses.", fr: "Un nœud important de la ligne de chemin de fer historique Abidjan-Ouagadougou, construite par les Français."},
     facts: {
       de: ["Wichtige Station der Abidjan-Niger-Bahn", "Katalysator für lokalen Handel", "Alte koloniale Bahnhofsgebäude", "Cola-Nuss-Produktionszentrum"],
@@ -1699,7 +1682,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-04",
     coords: [-5.0333, 7.6833],
     name: { de: "Französischer Militärposten Bouaké", hu: "Bouaké francia katonai állomása", ro: "Postul militar francez Bouaké", en: "French Military Post Bouaké"},
-    image: "/poi-images/bouake-military-post-history-v2.webp",
     description: { de: "1899 gegründet, diente die Stadt als zentraler militärischer und später administrativer Stützpunkt in Landesmitte.", hu: "Az 1899-ben alapított város központi katonai, később közigazgatási bázisként szolgált az ország közepén.", ro: "Fondat în 1899 ca post militar strategic, Bouaké a devenit al doilea oraș ca mărime al țării și un centru industrial esențial.", en: "Founded in 1899, the city served as a central military and later administrative base in the middle of the country." , es: "Fundada en 1899, la ciudad sirvió como base militar central y posteriormente administrativa en el centro del país.", pt: "Fundada em 1899, a cidade serviu como base militar central e, posteriormente, administrativa no centro do país.", fr: "Fondée en 1899, la ville a servi de base militaire centrale, puis administrative au centre du pays."},
     facts: {
       de: ["Gegründet im Jahr 1899", "Zweitgrößte Stadt der Elfenbeinküste", "Wichtiger Knotenpunkt für Baoulé", "Ehemaliges Kolonialverwaltungszentrum"],
@@ -1780,7 +1762,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-09",
     coords: [-7.6833, 8.2833],
     name: { de: "Historisches Zentrum von Touba", hu: "Touba történelmi központja", ro: "Centrul istoric din Touba", en: "Historic Center of Touba"},
-    image: "/poi-images/touba-fadika-center-history-v2.webp",
     description: { de: "Eine Stadt, die tief in der Geschichte des Mahou-Volkes und islamischer Gelehrter, wie der Fadika-Familie, verwurzelt ist.", hu: "Egy város, amely mélyen gyökerezik a Mahou nép és az iszlám tudósok, mint például a Fadika család történetében.", ro: "Centrul istoric din Touba este vatra spirituală a poporului Mahouka, fiind un centru important de învățătură islamică și comerț regional.", en: "A city deeply rooted in the history of the Mahou people and Islamic scholars, such as the Fadika family." , es: "Una ciudad profundamente arraigada en la historia del pueblo Mahou y de eruditos islámicos como la familia Fadika.", pt: "Uma cidade profundamente enraizada na história do povo Mahou e de estudiosos islâmicos, como a família Fadika.", fr: "Une ville profondément enracinée dans l'histoire du peuple Mahou et des érudits islamiques, comme la famille Fadika."},
     facts: {
       de: ["Zentrum der Mahou", "Islamische Tradition seit Jahrhunderten", "Einflussreiche Fadika-Familie", "Historische Koranschulen"],
@@ -1816,7 +1797,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-12",
     coords: [-6.6667, 7.95],
     name: { de: "Altes Diamantenzentrum Séguéla", hu: "A régi gyémántközpont, Séguéla", ro: "Vechiul centru de diamante Séguéla", en: "Old Diamond Center Séguéla"},
-    image: "/poi-images/seguela-diamond-trade-history-v2.webp",
     description: { de: "Historisch bedeutend als eines der ersten Zentren für den Diamantenabbau und -handel an der Elfenbeinküste.", hu: "Történelmileg jelentős, mint Elefántcsontpart egyik első gyémántbányászati és -kereskedelmi központja.", ro: "Important din punct de vedere istoric ca fiind unul dintre primele centre de extracție și comerț cu diamante din Coasta de Fildeș.", en: "Historically significant as one of the first centers for diamond mining and trading in Ivory Coast." , es: "Históricamente significativo como uno de los primeros centros de extracción y comercio de diamantes en Costa de Marfil.", pt: "Historicamente significativo como um dos primeiros centros de extração e comércio de diamantes na Costa do Marfim.", fr: "Historiquement important comme l'un des premiers centres d'extraction et de commerce de diamants en Côte d'Ivoire."},
     facts: {
       de: ["Früher Diamantenabbau", "Zentrum der Worodougou", "Historische Bedeutung im Kolonialismus", "Handelspunkt im Westen"],
@@ -1852,7 +1832,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-16",
     coords: [-5.0167, 5.1333],
     name: { de: "Kolonialstadt Grand-Lahou", hu: "Grand-Lahou gyarmati városa", ro: "Orașul colonial Grand-Lahou", en: "Colonial Town Grand-Lahou"},
-    image: "/poi-images/grand-lahou-old-town-history-v2.webp",
     description: { de: "Die alte koloniale Siedlung, die heute aufgrund von Küstenerosion langsam im Meer versinkt.", hu: "A régi gyarmati település, amely ma a partmenti erózió miatt lassan a tengerbe süllyed.", ro: "Vechea așezare colonială, care astăzi se scufundă încet în mare din cauza eroziunii costiere.", en: "The old colonial settlement, which is now slowly sinking into the sea due to coastal erosion." , es: "El antiguo asentamiento colonial que hoy se hunde lentamente en el mar debido a la erosión costera.", pt: "O antigo assentamento colonial que hoje está a afundar lentamente no mar devido à erosão costeira.", fr: "L'ancien établissement colonial qui s'enfonce aujourd'hui lentement dans la mer en raison de l'érosion côtière."},
     facts: {
       de: ["Alte Kolonialgebäude", "Durch Erosion bedroht", "Ehemaliger Handelsposten", "Bekannt als das 'Venedig der Elfenbeinküste'"],
@@ -1893,7 +1872,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-04",
     coords: [-5.1, 8.1333],
     name: { de: "Historisches Töpferzentrum Katiola", hu: "Katiola történelmi fazekasközpontja", ro: "Centrul istoric de olărit Katiola", en: "Historic Pottery Center Katiola"},
-    image: "/poi-images/katiola-colonial-history-v2.webp",
     description: { de: "Neben seiner kolonialen Bedeutung ist Katiola ein historisches Zentrum der traditionellen Töpferkunst der Mangoro-Frauen.", hu: "Közép-Elefántcsontpart városa, amely a gyarmati időkben fontos kereskedelmi és közigazgatási csomópontként szolgált.", ro: "Pe lângă importanța sa colonială, Katiola este un centru istoric al ceramicii tradiționale a femeilor Mangoro.", en: "In addition to its colonial significance, Katiola is a historic center of the traditional pottery of the Mangoro women." , es: "Además de su importancia colonial, Katiola es un centro histórico del arte tradicional de la alfarería de las mujeres Mangoro.", pt: "Além da sua importância colonial, Katiola é um centro histórico da arte tradicional da olaria das mulheres Mangoro.", fr: "En plus de son importance coloniale, Katiola est un centre historique de l'art traditionnel de la poterie des femmes Mangoro."},
     facts: {
       de: ["Mangoro-Töpferkunst", "Historischer Eisenbahnanschluss", "Kolonialer Marktort", "Zentrum der Tagwana-Kultur"],
@@ -2082,7 +2060,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-02",
     coords: [-6.45, 6.8833],
     name: { de: "Handelsposten Daloa", hu: "Daloa kereskedelmi állomás", ro: "Postul comercial Daloa", en: "Trading Post Daloa"},
-    image: "/poi-images/daloa-trading-post-history-v2.webp",
     description: { de: "Daloa entwickelte sich während der Kolonialzeit zu einem zentralen Umschlagplatz für Kakao und Kaffee im Westen.", hu: "Daloa a gyarmati időszakban a kakaó és a kávé központi elosztóhelyévé fejlődött nyugaton.", ro: "Daloa s-a dezvoltat într-un centru principal pentru cacao și cafea în vest în timpul perioadei coloniale.", en: "Daloa developed into a central hub for cocoa and coffee in the west during the colonial period." , es: "Daloa se convirtió durante la época colonial en un punto central de intercambio de cacao y café en el oeste.", pt: "Daloa tornou-se, durante a era colonial, um ponto central de comércio de cacau e café no oeste.", fr: "Daloa est devenue, à l'époque coloniale, une plaque tournante majeure pour le cacao et le café dans l'ouest."},
     facts: {
       de: ["Zentrum des Bété-Volkes", "Wichtiger Agrarmarkt", "Kolonialzeitliche Expansion", "Hauptstadt von Haut-Sassandra"],
@@ -2199,7 +2176,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-05",
     coords: [-3.5, 6.7333],
     name: { de: "Königspalast von Indénié in Abengourou", hu: "Az Indénié királyi palota Abengourou-ban", ro: "Palatul Regal Indénié din Abengourou", en: "Royal Palace of Indénié in Abengourou"},
-    image: "/poi-images/abengourou-indenie-kingdom-history-v2.webp",
     description: { de: "Der Palast des Königs des Indénié-Reiches, das im 18. Jahrhundert von den Akan-Flüchtlingen aus Ghana gegründet wurde.", hu: "Az Indénié Birodalom királyának palotája, amelyet a Ghánából menekülő akanok alapítottak a 18. században.", ro: "Abengourou găzduiește palatul regal al Regatului Indénié, păstrând tradițiile vii ale poporului Agni și structura politică Akan.", en: "Abengourou is the seat of the traditional Indenie kingdom and home to the royal palace built in 1882. The city serves as a major cultural center for the Agni people." , es: "El palacio del rey del reino de Indénié, fundado en el siglo XVIII por refugiados Akan procedentes de Ghana.", pt: "O palácio do rei do reino de Indénié, fundado no século XVIII por refugiados Akan vindos do Gana.", fr: "Le palais du roi du royaume de l'Indénié, fondé au XVIIIe siècle par des réfugiés Akans venus du Ghana."},
     facts: {
       de: ["Agni-Volksstamm", "Akan-Traditionen", "Königspalast erbaut in den 1880ern", "Reiches kulturelles Erbe"],
@@ -2240,7 +2216,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-14",
     coords: [-5.2, 9.6],
     name: { de: "Historische Marktstadt Ferkessédougou", hu: "Ferkessédougou történelmi mezővárosa", ro: "Orașul comercial istoric Ferkessédougou", en: "Historic Market Town of Ferkessédougou"},
-    image: "/poi-images/ferkessedougou-historic-town-history-v2.webp",
     description: { de: "Ein alter Marktplatz und späterer wichtiger Eisenbahnknotenpunkt für Rinder- und Agrarhandel im Norden.", hu: "Régi piactér, később a szarvasmarha- és agrárkereskedelem fontos vasúti csomópontja északon.", ro: "O veche piață și, mai târziu, un important nod feroviar pentru comerțul cu vite și produse agricole în nord.", en: "An old marketplace and later an important railway junction for cattle and agricultural trade in the north." , es: "Un antiguo mercado y posterior nudo ferroviario importante para el comercio de ganado y productos agrícolas en el norte.", pt: "Um antigo mercado e posterior importante entroncamento ferroviário para o comércio de gado e produtos agrícolas no norte.", fr: "Une ancienne ville de marché devenue un important nœud ferroviaire pour le commerce du bétail et des produits agricoles dans le nord."},
     facts: {
       de: ["Wichtiger Viehmarkt", "Eisenbahnstation der Kolonialzeit", "Niarafolo-Kultur", "Zentrum des Baumwollanbaus"],
@@ -2276,7 +2251,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-16",
     coords: [-4.4167, 5.2],
     name: { de: "Koloniale Lagerhäuser von Jacqueville", hu: "Jacqueville gyarmati raktárai", ro: "Depozitele coloniale din Jacqueville", en: "Colonial Warehouses of Jacqueville"},
-    image: "/poi-images/jacqueville-colonial-history-v2.webp",
     description: { de: "Ein historisches Zentrum des Palmölhandels, bekannt für seine britischen und französischen kolonialen Lagerhäuser.", hu: "A pálmaolaj-kereskedelem történelmi központja, amely brit és francia gyarmati raktárairól ismert.", ro: "Un centru istoric al comerțului cu ulei de palmier, cunoscut pentru depozitele sale coloniale britanice și franceze.", en: "A historic center of the palm oil trade, known for its British and French colonial warehouses." , es: "Un centro histórico del comercio de aceite de palma, conocido por sus almacenes coloniales británicos y franceses.", pt: "Um centro histórico do comércio de óleo de palma, conhecido pelos seus armazéns coloniais britânicos e franceses.", fr: "Un centre historique du commerce de l'huile de palme, connu pour ses entrepôts coloniaux britanniques et français."},
     facts: {
       de: ["Ehemaliger Name: Half Jack", "Palmöl-Exportzentrum", "Überreste britischer Architektur", "Lagunensiedlung"],
@@ -2357,7 +2331,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-16",
     coords: [-4.2167, 5.9333],
     name: { de: "Agboville und der Abbey-Aufstand", hu: "Agboville és az Abbey-lázadás", ro: "Agboville și revolta Abbey", en: "Agboville and the Abbey Revolt"},
-    image: "/poi-images/agboville-abbey-revolt-history-v2.webp",
     description: { de: "Der historische Ort des großen Aufstands der Abbey-Bevölkerung 1910 gegen die französische Kolonialherrschaft.", hu: "Az Abbey lakosság 1910-es, a francia gyarmati uralom elleni nagy felkelésének történelmi helyszíne.", ro: "Situl istoric al marii revolte a populației Abbey din 1910 împotriva dominației coloniale franceze.", en: "The historic site of the great revolt of the Abbey population in 1910 against French colonial rule." , es: "El lugar histórico del gran levantamiento de la población Abbey en 1910 contra el dominio colonial francés.", pt: "O local histórico da grande revolta da população Abbey em 1910 contra o domínio colonial francês.", fr: "Le lieu historique de la grande révolte du peuple Abbey en 1910 contre la domination coloniale française."},
     facts: {
       de: ["Aufstand gegen Zwangsarbeit 1910", "Zentrum der Abbey", "Früher Eisenbahnanschluss", "Hauptstadt von Agnéby-Tiassa"],
@@ -2393,7 +2366,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-07",
     coords: [-4.7, 6.65],
     name: { de: "Historisches Viadukt von Dimbokro", hu: "Dimbokro történelmi viaduktja", ro: "Viaductul istoric din Dimbokro", en: "Historic Viaduct of Dimbokro"},
-    image: "/poi-images/dimbokro-historic-viaduct-history-v2.webp",
     description: { de: "Ein bedeutendes koloniales Eisenbahnviadukt, das den N'Zi-Fluss überspannt und für die Erschließung des Landes wichtig war.", hu: "Egy jelentős gyarmati vasúti viadukt, amely az N'Zi-folyón ível át, és fontos volt az ország fejlesztése szempontjából.", ro: "Un viaduct feroviar colonial semnificativ care se întinde peste râul N'Zi și a fost important pentru dezvoltarea țării.", en: "A significant colonial railway viaduct spanning the N'Zi River, which was important for the development of the country." , es: "Un importante viaducto ferroviario colonial que cruza el río N'Zi y fue crucial para el desarrollo del país.", pt: "Um importante viaduto ferroviário colonial que atravessa o rio N'Zi e foi fundamental para o desenvolvimento do país.", fr: "Un important viaduc ferroviaire colonial enjambant le fleuve N'Zi, essentiel pour le développement du pays."},
     facts: {
       de: ["Viadukt von 1910", "Überspannt den Fluss N'Zi", "Eisenbahnlinie Abidjan-Niger", "Ort eines anticolonialen Protests 1950"],

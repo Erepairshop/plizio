@@ -53,7 +53,6 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     parent: "KG-Y",
     coords: [80.1292, 42.0353],
     name: { de: "Dschengisch Tschokusu", hu: "Dzsengis Csokuszu", ro: "Jengish Chokusu", en: "Jengish Chokusu"},
-    image: "/poi-images/pik-pobedy-relief-v2.webp",
     description: {
       de: "Der höchste Berg Kirgisistans und des Tian-Shan-Gebirges mit einer Höhe von 7439 Metern an der Grenze zu China.",
       hu: "Kirgizisztán és a Tien-san hegység legmagasabb hegycsúcsa, amely 7439 méter magasan fekszik a kínai határon.",
@@ -250,7 +249,6 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     parent: "KG-Y",
     coords: [80.1747, 42.2105],
     name: { de: "Khan Tengri", hu: "Hantengri", ro: "Khan Tengri", en: "Khan Tengri"},
-    image: "/poi-images/khan-tengri-relief-v2.webp",
     description: {
       de: "Ein markanter pyramidenförmiger Gipfel im Tian-Shan-Gebirge, der die Grenze zwischen Kirgisistan, Kasachstan und China bildet.",
       hu: "Egy feltűnő piramis alakú csúcs a Tien-san hegységben, amely Kirgizisztán, Kazahsztán és Kína határát alkotja.",
@@ -294,7 +292,6 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     parent: "KG-O",
     coords: [72.9303, 39.3469],
     name: { de: "Pik Lenin", hu: "Lenin-csúcs", ro: "Vârful Lenin", en: "Lenin Peak"},
-    image: "/poi-images/pik-lenin-relief-v2.webp",
     description: {
       de: "Einer der höchsten Berge im Pamir-Gebirge an der Grenze zu Tadschikistan, der oft von Bergsteigern besucht wird.",
       hu: "A Pamír-hegység egyik legmagasabb hegye a tádzsik határon, amelyet gyakran látogatnak hegymászók.",
@@ -338,7 +335,6 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     parent: "KG-N",
     coords: [76.0, 42.0],
     name: { de: "Tian Shan", hu: "Tien-san", ro: "Tian Shan", en: "Tian Shan"},
-    image: "/poi-images/tian-shan-relief-v2.webp",
     description: {
       de: "Ein riesiges Gebirgssystem in Zentralasien, dessen Name \"Himmlische Berge\" bedeutet und das den Großteil Kirgisistans bedeckt.",
       hu: "Egy hatalmas közép-ázsiai hegységrendszer, amelynek neve \"Mennyei hegyek\", és amely Kirgizisztán nagy részét borítja.",
@@ -382,7 +378,6 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     parent: "KG-O",
     coords: [72.0, 39.6667],
     name: { de: "Alaigebirge", hu: "Alaj-hegység", ro: "Munții Alai", en: "Alay Mountains"},
-    image: "/poi-images/alay-mountains-relief-v2.webp",
     description: {
       de: "Ein Gebirgszug, der sich vom Pamir-Alai-System aus erstreckt und das Ferganatal im Süden begrenzt.",
       hu: "A Pamír-Alaj rendszerből kiinduló hegylánc, amely délen határolja a Fergana-völgyet.",
@@ -426,7 +421,6 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     parent: "KG-O",
     coords: [72.8, 39.5],
     name: { de: "Alai-Tal", hu: "Alaj-völgy", ro: "Valea Alai", en: "Alay Valley"},
-    image: "/poi-images/alay-valley-relief-v2.webp",
     description: {
       de: "Ein weites, hochgelegenes Tal zwischen dem Alaigebirge und der Transalai-Kette im Süden Kirgisistans.",
       hu: "Egy széles, magasan fekvő völgy az Alaj-hegység és a Transzalaj-lánc között Dél-Kirgizisztánban.",
@@ -640,7 +634,6 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     parent: "KG-C",
     coords: [73.8, 42.2],
     name: { de: "Suusamyr-Tal", hu: "Szuszamir-völgy", ro: "Valea Suusamyr", en: "Suusamyr Valley"},
-    image: "/poi-images/suusamyr-valley-relief-v2.webp",
     description: {
       de: "Ein hochgelegenes Steppental, das von Jurtenlagern geprägt ist und im Sommer als üppige Weidefläche für Vieh dient.",
       hu: "Egy magasan fekvő sztyeppevölgy, amelyet jurtatáborok jellemeznek, és nyáron buja legelőként szolgál az állatok számára.",
@@ -873,7 +866,6 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     parent: "KG-C",
     coords: [74.48, 42.56],
     name: { de: "Ala-Artscha-Schlucht", hu: "Ala-Arcsa szurdok", ro: "Defileul Ala Archa", en: "Ala Archa Gorge"},
-    image: "/poi-images/ala-archa-gorge-relief-v2.webp",
     description: {
       de: "Ein malerisches Alpental im Nationalpark nahe Bischkek, das für seine Wacholderwälder, Wasserfälle und Gletscher bekannt ist.",
       hu: "Festői alpesi völgy a Biskek melletti nemzeti parkban, amely borókaerdeiről, vízeséseiről és gleccsereiről ismert.",
@@ -962,7 +954,6 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     parent: "KG-Y",
     coords: [78.5, 42.16],
     name: { de: "Terskej-Alatau", hu: "Terszkej-Alatau", ro: "Terskey Ala-Too", en: "Terskey Ala-Too"},
-    image: "/poi-images/terskey-ala-too-relief-v2.webp",
     description: {
       de: "Ein Gebirgszug des Tian Shan, der das Südufer des Yssykköl-Sees rahmt und für seine atemberaubenden Täler und heißen Quellen bekannt ist.",
       hu: "A Tien-san egyik hegylánca, amely az Iszik-köl tó déli partját keretezi, és lélegzetelállító völgyeiről, valamint hőforrásairól ismert.",
@@ -1006,7 +997,6 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     parent: "KG-Y",
     coords: [76.5, 42.83],
     name: { de: "Küngej-Alatau", hu: "Küngej-Alatau", ro: "Kungey Ala-Too", en: "Kungey Ala-Too"},
-    image: "/poi-images/kungey-ala-too-relief-v2.webp",
     description: {
       de: "Die nördliche Gebirgskette, die den Yssykköl-See umschließt und die natürliche Grenze zu Kasachstan bildet.",
       hu: "Az északi hegylánc, amely az Iszik-köl tavat öleli körül, és a természetes határt alkotja Kazahsztánnal.",
@@ -1095,7 +1085,6 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     parent: "KG-Y",
     coords: [79.0, 42.6],
     name: { de: "Dschyrgalan-Tal", hu: "Dzsirgalan-völgy", ro: "Valea Jyrgalan", en: "Jyrgalan Valley"},
-    image: "/poi-images/jyrgalan-valley-relief-v2.webp",
     description: {
       de: "Ein unberührtes Tal im Osten Kirgisistans, das sich zu einem Zentrum für Ökotourismus und Freeride-Skifahren entwickelt hat.",
       hu: "Egy érintetlen völgy Kirgizisztán keleti részén, amely az ökoturizmus és a freeride síelés központjává fejlődött.",
@@ -1184,7 +1173,6 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     parent: "KG-C",
     coords: [76.25, 42.75],
     name: { de: "Tschong-Kemin-Tal", hu: "Csong-Kemin-völgy", ro: "Valea Chong-Kemin", en: "Chong-Kemin Valley"},
-    image: "/poi-images/chong-kemin-valley-relief-v2.webp",
     description: {
       de: "Ein langes und wildes Bergtal, das als Nationalpark geschützt ist und einen reichen Bestand an Flora und Fauna beheimatet.",
       hu: "Egy hosszú és vad hegyi völgy, amely nemzeti parkként védett, és gazdag növény- és állatvilágnak ad otthont.",
@@ -1228,7 +1216,6 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     parent: "KG-N",
     coords: [74.5, 40.8],
     name: { de: "Arpa-Tal", hu: "Arpa-völgy", ro: "Valea Arpa", en: "Arpa Valley"},
-    image: "/poi-images/arpa-valley-relief-v2.webp",
     description: {
       de: "Ein extrem abgelegenes Hochtal in der Naryn-Region, das traditionell von Nomaden als Sommerweide genutzt wird.",
       hu: "Egy rendkívül elzárt magashegyi völgy a Narin régióban, amelyet a nomádok hagyományosan nyári legelőként használnak.",
@@ -1272,7 +1259,6 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     parent: "KG-N",
     coords: [75.5, 40.5],
     name: { de: "Ak-Sai-Tal", hu: "Ak-Szaj-völgy", ro: "Valea Ak-Sai", en: "Ak-Sai Valley"},
-    image: "/poi-images/ak-sai-valley-relief-v2.webp",
     description: {
       de: "Eine Hochgebirgswüste und Hochebene an der Grenze zu China, bekannt für ihre extrem kalten Winter und das Marco-Polo-Schaf.",
       hu: "Magashegyi sivatag és fennsík a kínai határon, amely rendkívül hideg teleiről és a Marco Polo-juhról ismert.",
@@ -1757,7 +1743,6 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     parent: "KG-J",
     coords: [72.0, 40.5],
     name: { de: "Ferganatal", hu: "Fergana-völgy", ro: "Valea Fergana", en: "Fergana Valley"},
-    image: "/poi-images/fergana-valley-relief-v2.webp",
     description: {
       de: "Der kirgisische Rand der dicht bevölkerten und fruchtbaren Senke, die für ihre Landwirtschaft und komplexe Grenzziehung bekannt ist.",
       hu: "A sűrűn lakott és termékeny medence kirgiz pereme, amely mezőgazdaságáról és bonyolult határvonalairól ismert.",
@@ -1846,7 +1831,6 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     parent: "KG-Y",
     coords: [78.0, 41.5],
     name: { de: "Syrten-Hochebene", hu: "Szirt-fennsík", ro: "Platoul Syrt", en: "Syrt Plateau"},
-    image: "/poi-images/syrt-plateau-relief-v2.webp",
     description: {
       de: "Eine ausgedehnte, wüstenartige Hochebene im inneren Tian Shan, die sich auf über 3000 Metern Höhe erstreckt.",
       hu: "Kiterjedt, sivatagszerű fennsík a Belső-Tien-sanban, amely több mint 3000 méter magasságban húzódik.",
@@ -1869,7 +1853,6 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
       de: "Die Syrt-Hochebenen, deren Name auf Kirgisisch wörtlich \"hoher Rücken\" oder \"äußere Grenze\" bedeutet, sind gewaltige, eisige und stark gewellte Plateaus im tiefen Inneren des Tian-Shan-Gebirges. Diese kargen Hochländer liegen größtenteils an den Grenzen der Regionen Issyk-Kul und Naryn auf extremen Höhen von 3.500 bis 4.000 Metern. Die Landschaft ist maßgeblich von tiefem Permafrost geprägt und ähnelt in ihrer rauen Schönheit stark einer polaren Tundra, durchzogen von langsamen Gletschern, flachen Sumpfgebieten und unzähligen eisigen Bächen. Aufgrund des harschen Klimas wachsen hier keinerlei Bäume, sondern nur widerstandsfähige Flechten, Moose und kurze Gräser. Dennoch sind die Syrts von immenser ökologischer und hydrologischer Bedeutung: Hier entspringt der Naryn-Fluss, der wichtigste Fluss des Landes, der später in den Syrdarja mündet. In den kurzen Sommermonaten bringen extrem abgehärtete Nomaden ihre Yaks und Schafe auf diese endlosen Plateaus, während die Region im langen Winter völlig unpassierbar und lebensfeindlich wird. Die Syrts sind die absolute Verkörperung ungezähmter, roher und abgelegener Natur.",
       hu: "A Szirt-fennsíkok, amelyek neve kirgiz nyelven \"magas hátat\" vagy \"külső határt\" jelent, gigantikus, fagyos és hullámzó magaslati síkságok a belső Tien-san hegyrendszerének szívében. Ezek a kietlen, mégis lenyűgöző felföldek főként az Iszik-köl és Narin régiók határán helyezkednek el, extrém, 3500 és 4000 méter közötti tengerszint feletti magasságban. A tájat szinte teljes egészében az állandóan fagyott talaj (permafroszt) uralja, arculata pedig egy sarki tundrához hasonlít, amelyet lassan mozgó gleccserek, sekély mocsarak és számtalan jeges vizű patak szabdal. A könyörtelen éghajlat miatt itt egyáltalán nincsenek fák; kizárólag a legellenállóbb zuzmók, mohák és rövid szárú alpesi füvek maradnak meg. Ennek ellenére a Szirtek ökológiai és hidrológiai jelentősége felbecsülhetetlen: itt ered az ország legfontosabb folyója, a Narin, amely később a Szir-darját táplálja. A nyúlfarknyi nyár idején a legedzettebb nomádok jakokat és juhokat legeltetnek a végtelen rónákon, míg a brutális téli hónapokban a vidék teljesen áthatolhatatlanná és emberi életre alkalmatlanná válik.",
       ro: "Platourile Syrt, al căror nume se traduce literal prin \"spinare înaltă\" sau \"graniță exterioară\" în kârgâză, sunt platouri masive, înghețate și ușor ondulate situate în adâncul sistemului montan interior Tian Shan. Aceste ținuturi înalte și aspre se află în principal la granița dintre regiunile Issyk-Kul și Naryn, la altitudini extreme cuprinse între 3.500 și 4.000 de metri. Peisajul este definit de un strat profund de permafrost și se aseamănă izbitor cu o tundră polară, fiind brăzdat de ghețari cu mișcare lentă, mlaștini de mare altitudine și nenumărate pâraie glaciale. Din cauza climei necruțătoare, aici nu crește absolut niciun copac; vegetația constă exclusiv din licheni rezistenți, mușchi și ierburi scurte. Cu toate acestea, regiunile Syrt au o importanță ecologică și hidrologică uriașă: aici își are izvoarele râul Naryn, cel mai lung și important râu al țării, care alimentează bazinul Syr Darya. În scurta perioadă de vară, nomazii extrem de căliți își aduc iacii și oile pe aceste platouri nesfârșite, în timp ce iarna lungă face regiunea complet inaccesibilă și ostilă.",
-      en: "",
       en: "The Syrt Plateaus, whose name literally translates to \"high back\" or \"outer border\" in Kyrgyz, are massive, freezing, undulating high-altitude plains located deep within the internal Tian Shan mountain system. These stark and barren highlands lie mostly along the borders of the Issyk-Kul and Naryn regions, sitting at extreme elevations between 3,500 and 4,000 meters. The landscape is fundamentally shaped by deep, permanent permafrost and strongly resembles a harsh polar tundra, intersected by slow-moving glaciers, shallow alpine bogs, and countless icy streams. Because of the utterly unforgiving climate, absolutely no trees grow here; the sparse vegetation consists strictly of highly resilient lichens, mosses, and short alpine grasses. Nevertheless, the Syrts are of immense ecological and hydrological significance: they act as the crucial source of the Naryn River, the country's most important waterway, which eventually feeds the mighty Syr Darya. During the exceptionally brief summer, only the hardiest nomads bring their yaks and sheep to graze on these endless plateaus, while the brutal, long winter renders the region entirely impassable and hostile to human life.",
       es: "Las mesetas de Syrt, cuyo nombre significa literalmente \"lomo alto\" o \"frontera exterior\" en kirguís, son altiplanos inmensos, helados y fuertemente ondulados en el interior profundo de la cordillera Tian Shan. Estas tierras altas áridas se encuentran principalmente en los límites de las regiones de Issyk-Kul y Naryn a alturas extremas de 3.500 a 4.000 metros. El paisaje está marcado significativamente por un profundo permafrost y se asemeja en su belleza ruda a una tundra polar, atravesada por glaciares lentos, zonas pantanosas poco profundas e innumerables arroyos helados. Debido al clima severo, no crecen árboles, sino solo líquenes resistentes, musgos y pastos cortos. Sin embargo, los Syrts tienen una inmensa importancia ecológica e hidrológica: aquí nace el río Naryn, el más importante del país, que más tarde desemboca en el Sir Daria. En los cortos meses de verano, los nómadas extremadamente curtidos traen a sus yaks y ovejas a estas mesetas interminables, mientras que en el largo invierno la región se vuelve completamente intransitable y hostil para la vida. Los Syrts son la encarnación absoluta de la naturaleza salvaje, cruda y remota.",
       pt: "Os planaltos de Syrt, cujo nome significa literalmente \"dorso alto\" ou \"fronteira exterior\" em quirguiz, são planaltos imensos, gelados e fortemente ondulados no interior profundo da cordilheira Tian Shan. Estas terras altas áridas situam-se principalmente nos limites das regiões de Issyk-Kul e Naryn a altitudes extremas de 3.500 a 4.000 metros. A paisagem é marcada significativamente por um permafrost profundo e assemelha-se, na sua beleza ruda, a uma tundra polar, atravessada por glaciares lentos, zonas pantanosas pouco profundas e inúmeros riachos gelados. Devido ao clima severo, não crescem árvores, mas apenas líquenes resistentes, musgos e ervas curtas. No entanto, os Syrts têm uma imensa importância ecológica e hidrológica: aqui nasce o rio Naryn, o mais importante do país, que mais tarde desagua no Syr Darya. Nos curtos meses de verão, nómadas extremamente resistentes trazem os seus iaks e ovelhas para estes planaltos intermináveis, enquanto no longo inverno a região torna-se completamente intransitável e hostil à vida. Os Syrts são a personificação absoluta da natureza indomável, bruta e remota.",
@@ -1936,7 +1919,6 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     parent: "KG-Y",
     coords: [79.1667, 42.6667],
     name: { de: "Karkara-Tal", hu: "Karkara-völgy", ro: "Valea Karkara", en: "Karkara Valley"},
-    image: "/poi-images/karkara-valley-relief-v2.webp",
     description: {
       de: "Ein malerisches Flusstal an der Grenze zu Kasachstan, bekannt als Basislager für Helikopter-Expeditionen zum Dschengisch Tschokusu.",
       hu: "Festői folyóvölgy a kazah határon, amely bázistáborként szolgál a Dzsengis Csokuszu felé induló helikopteres expedíciókhoz.",

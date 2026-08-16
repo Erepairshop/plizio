@@ -489,7 +489,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       hu: "Al-Dzsahra Vörös Erődje",
       ro: "Fortul Roșu din Al Jahra",
       en: "Al Jahra Red Fort"},
-    image: "/poi-images/jahra-red-fort-history-v2.webp",
     description: {
       de: "Ein historisches Lehmfort, das 1920 während der Schlacht von Jahra eine entscheidende Rolle bei der Verteidigung Kuwaits spielte.",
       hu: "Történelmi vályogerőd, amely döntő szerepet játszott Kuvait védelmében az 1920-as dzsahrai csata során.",
@@ -1458,7 +1457,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       hu: "Al-Qurain Mártírok Múzeuma",
       ro: "Muzeul Martirilor din Al-Qurain",
       en: "Al-Qurain Martyrs Museum"},
-    image: "/poi-images/qurain-martyrs-museum-history-v2.webp",
     description: {
       de: "Ein Haus, das in ein Museum umgewandelt wurde, um an eine blutige Schlacht zwischen kuwaitischen Widerstandskämpfern und irakischen Truppen im Jahr 1991 zu erinnern.",
       hu: "Egy múzeummá alakított ház, amely a kuvaiti ellenállók és az iraki csapatok közötti 1991-es véres csatának állít emléket.",
@@ -1815,7 +1813,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       hu: "Szeif-palota",
       ro: "Palatul Seif",
       en: "Seif Palace"},
-    image: "/poi-images/seif-palace-history-v2.webp",
     description: {
       de: "Der historische Palast ist bekannt für seinen ikonischen Uhrenturm und dient als Sitz des kuwaitischen Emirs.",
       hu: "A történelmi palota ikonikus óratornyáról ismert, és a kuvaiti emír székhelyeként szolgál.",
@@ -2208,7 +2205,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       hu: "Dickson Ház",
       ro: "Casa Dickson",
       en: "Dickson House"},
-    image: "/poi-images/dickson-house-history-v2.webp",
     description: {
       de: "Die ehemalige Residenz der britischen politischen Vertreter in Kuwait, heute ein bedeutendes Kulturzentrum.",
       hu: "A brit politikai képviselők egykori kuvaiti rezidenciája, ma jelentős kulturális központ.",
@@ -2268,7 +2264,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       hu: "Failaka Hellenisztikus Romjai",
       ro: "Ruinele elenistice din Failaka",
       en: "Failaka Hellenistic Ruins"},
-    image: "/poi-images/failaka-hellenistic-ruins-history-v2.webp",
     description: {
       de: "Überreste antiker griechischer Siedlungen auf der Insel Failaka, die einst als Ikaros bekannt war.",
       hu: "Ősi görög települések maradványai a Failaka-szigeten, amelyet egykor Ikaroszként ismertek.",
@@ -2312,7 +2307,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: ["Antiker Name: Ikaros", "Epoche: Hellenistisch (ab 4. Jh. v. Chr.)", "Gründer: Seleukidenreich, Nachfolger Alexanders", "Hauptbauten: Festung, Artemis-Tempel, Zeus-Tempel", "Funde: Griechische Münzen, Inschriften", "Funktion: Handelsposten, Militärstützpunkt", "Kultur: Griechisch-Mesopotamischer Synkretismus", "Strategische Lage: Verbindung zum Indus-Tal"],
       hu: ["Ókori név: Ikarosz", "Korszak: Hellenisztikus (i.e. 4. századtól)", "Alapítók: Szeleukida Birodalom, Nagy Sándor utódai", "Fő épületek: Erőd, Artemisz-szentély, Zeusz-szentély", "Leletek: Görög érmék, feliratok", "Funkció: Kereskedelmi állomás, katonai bázis", "Kultúra: Görög-mezopotámiai szinkretizmus", "Stratégiai helyzet: Kapcsolat az Indus-völgy felé"],
       ro: ["Nume antic: Ikaros", "Epocă: Elenistică (din sec. IV î.Hr.)", "Fondatori: Imperiul Seleucid, succesorii lui Alexandru", "Clădiri principale: Fortăreață, Templul lui Artemis, Templul lui Zeus", "Artefacte: Monede grecești, inscripții", "Funcție: Punct comercial, bază militară", "Cultură: Sincretism greco-mesopotamian", "Poziție strategică: Legătură cu Valea Indusului"],
-      en: [],
       en: ["Ancient Name: Ikaros", "Era: Hellenistic (from 4th century BC)", "Founders: Seleucid Empire, successors of Alexander", "Main structures: Fortress, Temple of Artemis, Temple of Zeus", "Discoveries: Greek coins, inscriptions", "Function: Trading post, military base", "Culture: Greco-Mesopotamian syncretism", "Strategic Location: Link to the Indus Valley"],
       es: ["Nombre antiguo: Ícaros", "Época: Helenística (desde el siglo IV a. C.)", "Fundador: Imperio Seleúcida, sucesores de Alejandro", "Construcciones principales: Fortaleza, Templo de Ártemis, Templo de Zeus", "Hallazgos: Monedas griegas, inscripciones", "Función: Puesto comercial, base militar", "Cultura: Sincretismo griego-mesopotámico", "Ubicación estratégica: Conexión con el valle del Indo"],
       pt: ["Nome antigo: Ícaros", "Época: Helenística (a partir do século IV a.C.)", "Fundador: Império Selêucida, sucessores de Alexandre", "Principais construções: Fortaleza, Templo de Ártemis, Templo de Zeus", "Achados: Moedas gregas, inscrições", "Função: Posto comercial, base militar", "Cultura: Sincretismo grego-mesopotâmico", "Localização estratégica: Ligação ao Vale do Indo"],
@@ -2470,7 +2464,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       hu: "Dzsahra Kapu",
       ro: "Poarta Jahra",
       en: "Jahra Gate"},
-    image: "/poi-images/jahra-gate-history-v2.webp",
     description: {
       de: "Eines der wenigen verbliebenen Stadttore der alten Verteidigungsmauer von Kuwait-Stadt.",
       hu: "Kuvaitváros régi védőfalának egyik kevés megmaradt városkapuja.",
@@ -3007,7 +3000,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       hu: "Sámí Kapu",
       ro: "Poarta Shami",
       en: "Shami Gate"},
-    image: "/poi-images/shami-gate-history-v2.webp",
     description: {
       de: "Ein historisches Tor, das einst als Hauptzugang zur syrischen Wüste und zu Handelsrouten diente.",
       hu: "Történelmi kapu, amely egykor a szíriai sivatagba és a kereskedelmi útvonalakhoz vezető főbejáratként szolgált.",
@@ -3244,7 +3236,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       hu: "Beit Al-Badr Ház",
       ro: "Casa Beit Al-Badr",
       en: "Beit Al-Badr"},
-    image: "/poi-images/beit-al-badr-history-v2.webp",
     description: {
       de: "Ein wunderschönes, traditionelles kuwaitisches Haus, das heute das Nationalmuseum für kuwaitisches Erbe beherbergt.",
       hu: "Egy gyönyörű, hagyományos kuvaiti ház, amely ma a kuvaiti örökség nemzeti múzeumának ad otthont.",
@@ -3288,7 +3279,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: ["Bauzeit: 1837-1847", "Erbauer: Familie Al-Badr (Kaufleute)", "Architektur: Traditionell Kuwaitisch, Innenhof-Stil", "Materialien: Meeresfelsen, Lehmziegel, Holz", "Besonderheit: Geschnitzte Holztüren (Mashrabiya)", "Übergabe an Staat: 1968", "Heutige Funktion: Teil des Nationalmuseums", "Ausstellung: Kuwaitisches Kulturerbe"],
       hu: ["Építési időszak: 1837-1847", "Építtető: Al-Badr család (kereskedők)", "Építészet: Hagyományos kuvaiti, udvaros stílus", "Anyagok: Tengeri szikla, agyagtégla, fa", "Különlegesség: Faragott faajtók (Mashrabiya)", "Állami tulajdonba kerülés: 1968", "Mai funkció: A Nemzeti Múzeum része", "Kiállítás: Kuvaiti kulturális örökség"],
       ro: ["Perioada construcției: 1837-1847", "Constructor: Familia Al-Badr (negustori)", "Arhitectură: Tradițională kuwaitiană, stil cu curte interioară", "Materiale: Roci marine, cărămizi de noroi, lemn", "Caracteristică specială: Uși din lemn sculptat (Mashrabiya)", "Donată statului: 1968", "Funcția actuală: Parte a Muzeului Național", "Expoziție: Patrimoniul Cultural Kuwaitian"],
-      en: [],
       en: ["Construction period: 1837-1847", "Builders: Al-Badr family (merchants)", "Architecture: Traditional Kuwaiti, courtyard style", "Materials: Sea rocks, mudbrick, wood", "Special feature: Carved wooden doors (Mashrabiya)", "Donated to state: 1968", "Current function: Part of the National Museum", "Exhibition: Kuwaiti Cultural Heritage"],
       es: ["Periodo de construcción: 1837-1847", "Constructor: Familia Al-Badr (comerciantes)", "Arquitectura: Tradicional kuwaití, estilo de patio", "Materiales: Roca marina, ladrillos de barro, madera", "Particularidad: Puertas de madera talladas (Mashrabiya)", "Entrega al Estado: 1968", "Función actual: Parte del Museo Nacional", "Exposición: Patrimonio cultural kuwaití"],
       pt: ["Período de construção: 1837-1847", "Construtor: Família Al-Badr (mercadores)", "Arquitetura: Tradicional kuwaitiana, estilo de pátio", "Materiais: Rocha marinha, tijolos de lama, madeira", "Particularidade: Portas de madeira esculpidas (Mashrabiya)", "Entrega ao Estado: 1968", "Função atual: Parte do Museu Nacional", "Exposição: Património cultural do Kuwait"],
@@ -3350,7 +3340,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       hu: "Portugál Erőd Romjai",
       ro: "Ruinele Fortului Portughez",
       en: "Portuguese Fort Ruins"},
-    image: "/poi-images/failaka-portuguese-fort-history-v2.webp",
     description: {
       de: "Überreste einer historischen Festung, die im 16. Jahrhundert von den Portugiesen zur Kontrolle des Persischen Golfs errichtet wurde.",
       hu: "Egy történelmi erőd maradványai, amelyet a 16. században építettek a portugálok a Perzsa-öböl ellenőrzésére.",
@@ -3394,7 +3383,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: ["Epoche der portugiesischen Präsenz: 16. Jahrhundert", "Ziel der Portugiesen: Kontrolle der Gewürzrouten", "Regionale Stützpunkte: Bahrain, Hormuz", "Zuschreibung umstritten: Möglicherweise seleukidisch/islamisch", "Standort: Küste der Insel Failaka", "Strategische Bedeutung: Kontrolle des nördlichen Golfs", "Zustand: Ruinen, archäologische Stätte", "Symbolik: Koloniale Geschichte der Region"],
       hu: ["A portugál jelenlét kora: 16. század", "Portugál cél: Fűszerútvonalak ellenőrzése", "Regionális támaszpontok: Bahrein, Hormuz", "Hovatartozás vitatott: Lehet szeleukida/iszlám", "Helyszín: Failaka-sziget partja", "Stratégiai jelentőség: Az északi-öböl ellenőrzése", "Állapot: Romok, régészeti lelőhely", "Szimbolika: A régió gyarmati történelme"],
       ro: ["Epoca prezenței portugheze: secolul al XVI-lea", "Scopul portughez: Controlul rutelor de mirodenii", "Baze regionale: Bahrain, Hormuz", "Atribuire contestată: Posibil seleucidă/islamică", "Locație: Coasta insulei Failaka", "Importanță strategică: Controlul Golfului de Nord", "Stare: Ruine, sit arheologic", "Simbolism: Istoria colonială a regiunii"],
-      en: [],
       en: ["Era of Portuguese presence: 16th century", "Portuguese goal: Control of spice routes", "Regional bases: Bahrain, Hormuz", "Attribution disputed: Possibly Seleucid/Islamic", "Location: Coast of Failaka Island", "Strategic importance: Control of the northern Gulf", "Condition: Ruins, archaeological site", "Symbolism: Colonial history of the region"],
       es: ["Época de la presencia portuguesa: Siglo XVI", "Objetivo de los portugueses: Control de las rutas de especias", "Bases regionales: Baréin, Ormuz", "Atribución discutida: Posiblemente seleúcida/islámica", "Ubicación: Costa de la isla de Failaka", "Importancia estratégica: Control del norte del Golfo", "Estado: Ruinas, sitio arqueológico", "Simbolismo: Historia colonial de la región"],
       pt: ["Época da presença portuguesa: Século XVI", "Objetivo dos portugueses: Controlo das rotas de especiarias", "Bases regionais: Bahrein, Ormuz", "Atribuição contestada: Possivelmente selêucida/islâmica", "Localização: Costa da ilha de Failaka", "Importância estratégica: Controlo do norte do Golfo", "Estado: Ruínas, sítio arqueológico", "Simbolismo: História colonial da região"],
@@ -3600,7 +3588,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       hu: "Sejk Khazal Palotaromok",
       ro: "Ruinele Palatului șeicului Khazal",
       en: "Sheikh Khazal Palace Ruins"},
-    image: "/poi-images/sheikh-khazal-palace-ruins-history-v2.webp",
     description: {
       de: "Die Ruinen eines majestätischen Palastes, der einst dem Emir von Mohammerah, Sheikh Khazal, gehörte.",
       hu: "Egy fenséges palota romjai, amely egykor Mohammerah emírjének, Khazal sejknek a tulajdona volt.",
@@ -3813,7 +3800,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       hu: "Kuvait Tornyok",
       ro: "Turnurile din Kuweit",
       en: "Kuwait Towers"},
-    image: "/poi-images/kuwait-towers-monument-history-v2.webp",
     description: {
       de: "Ein Wahrzeichen und ikonisches Denkmal, das das moderne Kuwait und seinen wirtschaftlichen Aufschwung symbolisiert.",
       hu: "Kuvait modernizációját és gazdasági fellendülését szimbolizáló ikonikus műemlék és mérföldkő.",
@@ -4134,7 +4120,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       hu: "Kazmai Csatatér",
       ro: "Câmpul de luptă din Kazma",
       en: "Kazma Battlefield"},
-    image: "/poi-images/kazma-battlefield-history-v2.webp",
     description: {
       de: "Der historische Ort einer großen Schlacht im Jahr 633, einer bedeutenden Auseinandersetzung während der islamischen Expansion.",
       hu: "Egy 633-ban lezajlott nagy csata történelmi helyszíne, amely az iszlám terjeszkedés egyik legfontosabb ütközete volt.",
@@ -4178,7 +4163,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: ["Datum: 633 n. Chr.", "Alternativname: Schlacht der Ketten", "Parteien: Rashidun-Kalifat vs. Sassanidenreich", "Muslimischer Kommandant: Khalid ibn al-Walid", "Grund für den Namen: Aneinandergekettete sassanidische Soldaten", "Ergebnis: Entscheidender muslimischer Sieg", "Bedeutung: Beginn der Eroberung Persiens", "Historische Folge: Niedergang des Sassanidenreichs"],
       hu: ["Dátum: i.sz. 633", "Alternatív név: Láncok csatája", "Felek: Rásidún Kalifátus vs. Szászánida Birodalom", "Muszlim parancsnok: Khálid ibn al-Valíd", "Név eredete: Összeláncolt szászánida katonák", "Eredmény: Döntő muszlim győzelem", "Jelentőség: Perzsia meghódításának kezdete", "Történelmi következmény: A Szászánida Birodalom hanyatlása"],
       ro: ["Data: 633 d.Hr.", "Nume alternativ: Bătălia Lanțurilor", "Beligeranți: Califatul Rashidun vs. Imperiul Sasanid", "Comandant musulman: Khalid ibn al-Walid", "Originea numelui: Soldați sasanizi legați în lanțuri", "Rezultat: Victorie musulmană decisivă", "Semnificație: Începutul cuceririi Persiei", "Consecință istorică: Declinul Imperiului Sasanid"],
-      en: [],
       en: ["Date: 633 AD", "Alternate name: Battle of Chains", "Parties: Rashidun Caliphate vs. Sasanian Empire", "Muslim Commander: Khalid ibn al-Walid", "Reason for name: Chained Sasanian soldiers", "Outcome: Decisive Muslim victory", "Significance: Start of the conquest of Persia", "Historical result: Decline of the Sasanian Empire"],
       es: ["Fecha: 633 d. C.", "Nombre alternativo: Batalla de las Cadenas", "Bandos: Califato Rashidun vs. Imperio Sasánida", "Comandante musulmán: Khalid ibn al-Walid", "Razón del nombre: Soldados sasánidas encadenados", "Resultado: Victoria musulmana decisiva", "Importancia: Inicio de la conquista de Persia", "Consecuencia histórica: Declive del Imperio Sasánida"],
       pt: ["Data: 633 d.C.", "Nome alternativo: Batalha das Correntes", "Partes: Califado Rashidun vs. Império Sassânida", "Comandante muçulmano: Khalid ibn al-Walid", "Razão do nome: Soldados sassânidas acorrentados", "Resultado: Vitória muçulmana decisiva", "Importância: Início da conquista da Pérsia", "Consequência histórica: Declínio do Império Sassânida"],
@@ -4284,7 +4268,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: ["Kultur: Obed", "Datierung: 6. Jahrtausend v. Chr.", "Lage: Subiya-Region, Nord-Kuwait", "Bedeutung: Eine der frühesten Siedlungen am Golf", "Architektur: Steingebäude", "Verbindungen: Starker Bezug zu Mesopotamien", "Wichtigster Fund: Ältestes Schilfboot-Modell", "Implikation: Früher Seehandel"],
       hu: ["Kultúra: Ubaid", "Datálás: Kr. e. 6. évezred", "Helyszín: Subiya régió, Észak-Kuvait", "Jelentőség: Az Öböl egyik legkorábbi települése", "Építészet: Kőépületek", "Kapcsolatok: Szoros kapcsolat Mezopotámiával", "Legfontosabb lelet: Legrégebbi nádcsónak-modell", "Következtetés: Korai tengeri kereskedelem"],
       ro: ["Cultură: Ubaid", "Datare: Mileniul 6 î.Hr.", "Localizare: Regiunea Subiya, nordul Kuweitului", "Importanță: Una dintre cele mai vechi așezări din Golf", "Arhitectură: Clădiri din piatră", "Legături: Relații strânse cu Mesopotamia", "Descoperire cheie: Cel mai vechi model de barcă de stuf", "Implicație: Comerț maritim timpuriu"],
-      en: [],
       en: ["Culture: Ubaid", "Dated to: 6th millennium BC", "Location: Subiya region, northern Kuwait", "Significance: One of the earliest settlements in the Gulf", "Architecture: Stone buildings", "Connections: Strong links to Mesopotamia", "Key find: Oldest reed boat model", "Implication: Early maritime trade"],
       es: ["Cultura: El Obeid", "Datación: VI milenio a. C.", "Ubicación: Región de Subiya, norte de Kuwait", "Importancia: Uno de los asentamientos más tempranos del Golfo", "Arquitectura: Edificios de piedra", "Vínculos: Fuerte relación con Mesopotamia", "Hallazgo principal: Modelo de barco de juncos más antiguo", "Implicación: Comercio marítimo temprano"],
       pt: ["Cultura: Obeid", "Datação: 6º milénio a.C.", "Localização: Região de Subiya, norte do Kuwait", "Importância: Um dos primeiros povoados do Golfo", "Arquitetura: Edifícios de pedra", "Ligações: Forte relação com a Mesopotâmia", "Achado principal: Modelo de barco de junco mais antigo", "Implicação: Comércio marítimo precoce"],
@@ -4454,7 +4437,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       hu: "Beit Ghaith Ház",
       ro: "Casa Beit Ghaith",
       en: "Beit Ghaith"},
-    image: "/poi-images/beit-ghaith-history-v2.webp",
     description: {
       de: "Ein erhaltenes traditionelles kuwaitisches Haus, das das Leben und die Architektur vor der Entdeckung des Öls veranschaulicht.",
       hu: "Egy megőrzött hagyományos kuvaiti ház, amely az olaj felfedezése előtti életet és építészetet szemlélteti.",
@@ -4498,7 +4480,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: ["Epoche: 1930er-1940er (Vor-Öl-Ära)", "Eigentümer: Familie Ghaith (Händler)", "Struktur: Einstöckig mit zentralem Innenhof", "Baumaterialien: Meeresfelsen, Lehmziegel", "Funktion des Hofes: Licht, Belüftung, Privatsphäre", "Bedeutung: Beispiel für traditionelles Wohnen", "Erhaltungsstatus: Bewahrt als historisches Gebäude", "Kontext: Zeigt das Leben vor der Modernisierung"],
       hu: ["Korszak: 1930-40-es évek (olajkorszak előtt)", "Tulajdonos: Ghaith család (kereskedők)", "Szerkezet: Földszintes, központi udvarral", "Építőanyagok: Tengeri szikla, agyagtégla", "Az udvar funkciója: Fény, szellőzés, magánélet", "Jelentőség: A hagyományos lakóélet példája", "Megőrzési állapot: Történelmi épületként megőrizve", "Kontextus: Az élet a modernizáció előtt"],
       ro: ["Epocă: anii 1930-1940 (pre-petrolieră)", "Proprietar: Familia Ghaith (negustori)", "Structură: Un singur nivel cu curte centrală", "Materiale de construcție: Roci marine, cărămizi de noroi", "Funcția curții: Lumină, ventilație, intimitate", "Semnificație: Exemplu de locuire tradițională", "Statut de conservare: Păstrată ca clădire istorică", "Context: Prezintă viața înainte de modernizare"],
-      en: [],
       en: ["Era: 1930s-1940s (pre-oil era)", "Owner: Ghaith family (merchants)", "Structure: Single-story with central courtyard", "Building materials: Sea rocks, mudbricks", "Courtyard function: Light, ventilation, privacy", "Significance: Example of traditional living", "Preservation status: Preserved as a historic building", "Context: Shows life before modernization"],
       es: ["Época: Décadas de 1930-1940 (era pre-petróleo)", "Propietario: Familia Ghaith (comerciantes)", "Estructura: Una planta con patio central", "Materiales de construcción: Roca marina, ladrillos de barro", "Función del patio: Luz, ventilación, privacidad", "Importancia: Ejemplo de vivienda tradicional", "Estado de conservación: Preservada como edificio histórico", "Contexto: Muestra la vida antes de la modernización"],
       pt: ["Época: Décadas de 1930-1940 (era pré-petróleo)", "Proprietário: Família Ghaith (mercadores)", "Estrutura: Um piso com pátio central", "Materiais de construção: Rocha marinha, tijolos de lama", "Função do pátio: Luz, ventilação, privacidade", "Importância: Exemplo de habitação tradicional", "Estado de conservação: Preservada como edifício histórico", "Contexto: Mostra a vida antes da modernização"],
@@ -4776,7 +4757,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       hu: "Suvejh Régészeti Lelőhely",
       ro: "Situl arheologic Shuwaikh",
       en: "Shuwaikh Archaeological Site"},
-    image: "/poi-images/shuwaikh-archaeological-site-history-v2.webp",
     description: {
       de: "Antike Ruinen auf der Halbinsel Shuwaikh, die historische christliche Gemeinschaften und Handelsaktivitäten belegen.",
       hu: "Ősi romok a Suvejh-félszigeten, amelyek történelmi keresztény közösségekre és kereskedelmi tevékenységekre utalnak.",
@@ -4917,7 +4897,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       hu: "Kuvait Felszabadulási Emlékmű",
       ro: "Monumentul Eliberării din Kuweit",
       en: "Kuwait Liberation Monument"},
-    image: "/poi-images/liberation-monument-history-v2.webp",
     description: {
       de: "Ein modernes Denkmal, das an die Befreiung Kuwaits von der irakischen Besatzung im Jahr 1991 erinnert.",
       hu: "Egy modern emlékmű, amely Kuvait iraki megszállás alóli, 1991-es felszabadulásának állít emléket.",
@@ -5094,7 +5073,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       hu: "Al-Hashemi II",
       ro: "Al-Hashemi II",
       en: "Al-Hashemi II"},
-    image: "/poi-images/al-hashemi-ii-monument-history-v2.webp",
     description: {
       de: "Ein monumentales hölzernes Dhau-Schiff, das das reiche maritime Erbe Kuwaits ehrt.",
       hu: "Monumentális fából készült dhow hajó, amely Kuvait gazdag tengeri öröksége előtt tiszteleg.",
@@ -5198,7 +5176,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       de: ["Lage: Insel Failaka", "Zustand vor 1990: Blühendes Fischerdorf", "Ereignis: Vertreibung der 2.000 Einwohner durch Irak (1990)", "Militärische Nutzung: Irakische Militärbasis", "Zerstörung: Während des Golfkriegs 1991", "Heutiger Zustand: Verlassene Geisterstadt", "Folgen: Bewohner kehrten nie zurück", "Symbolik: Menschliche Kosten des Krieges, Verlust der Heimat"],
       hu: ["Helyszín: Failaka-sziget", "Állapot 1990 előtt: Virágzó halászfalu", "Esemény: 2000 lakos kitelepítése Irak által (1990)", "Katonai használat: Iraki katonai bázis", "Pusztulás: Az 1991-es Öbölháború alatt", "Mai állapot: Elhagyatott szellemváros", "Következmény: A lakosok soha nem tértek vissza", "Szimbolika: A háború emberi áldozatai, az otthon elvesztése"],
       ro: ["Locație: Insula Failaka", "Stare înainte de 1990: Sat pescăresc prosper", "Eveniment: Expulzarea celor 2.000 de locuitori de către Irak (1990)", "Utilizare militară: Bază militară irakiană", "Distrugere: În timpul Războiului din Golf din 1991", "Stare actuală: Oraș-fantomă abandonat", "Consecințe: Locuitorii nu s-au mai întors niciodată", "Simbolism: Costul uman al războiului, pierderea căminului"],
-      en: [],
       en: ["Location: Failaka Island", "State before 1990: Thriving fishing village", "Event: Expulsion of 2,000 residents by Iraq (1990)", "Military use: Iraqi military base", "Destruction: During the 1991 Gulf War", "Current state: Abandoned ghost town", "Aftermath: Residents never returned", "Symbolism: Human cost of war, loss of home"],
       es: ["Ubicación: Isla de Failaka", "Estado antes de 1990: Próspero pueblo pesquero", "Suceso: Expulsión de los 2.000 habitantes por Irak (1990)", "Uso militar: Base militar iraquí", "Destrucción: Durante la Guerra del Golfo de 1991", "Estado actual: Pueblo fantasma abandonado", "Consecuencias: Los habitantes nunca regresaron", "Simbolismo: Coste humano de la guerra, pérdida del hogar"],
       pt: ["Localização: Ilha de Failaka", "Estado antes de 1990: Aldeia de pescadores próspera", "Evento: Expulsão dos 2.000 habitantes pelo Iraque (1990)", "Uso militar: Base militar iraquiana", "Destruição: Durante a Guerra do Golfo de 1991", "Estado atual: Cidade fantasma abandonada", "Consequências: Os habitantes nunca regressaram", "Simbolismo: Custos humanos da guerra, perda do lar"],

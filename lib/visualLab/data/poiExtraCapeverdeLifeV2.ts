@@ -57,7 +57,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       hu: "Grandvaux Barbosa Nemzeti Botanikus Kert",
       ro: "Grădina Botanică Națională Grandvaux Barbosa",
       en: "Grandvaux Barbosa National Botanical Garden"},
-    image: "/poi-images/jardim-botanico-santiago-life-v2.webp",
     description: {
       de: "Der einzige botanische Garten des Landes, der die reiche endemische Flora der Kapverden schützt.",
       hu: "Az ország egyetlen botanikus kertje, amely a Zöld-foki-szigetek gazdag endemikus flóráját védi.",
@@ -366,7 +365,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       hu: "Turtle Foundation Teknősvédelmi Központ",
       ro: "Centrul de Protecție a Broaștelor Țestoase Turtle Foundation",
       en: "Turtle Foundation Sea Turtle Conservation Center"},
-    image: "/poi-images/turtle-sos-sal-life-v2.webp",
     description: {
       de: "Ein engagiertes Zentrum auf Sal, das sich dem Schutz der nistenden Unechten Karettschildkröten widmet.",
       hu: "Egy elkötelezett központ Sal szigetén, amely a fészkelő álcserepesteknősök védelmével foglalkozik.",
@@ -419,7 +417,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       hu: "Mosterosi kávéültetvények",
       ro: "Plantațiile de cafea din Mosteiros",
       en: "Coffee Plantations of Mosteiros"},
-    image: "/poi-images/coffee-plantations-fogo-life-v2.webp",
     description: {
       de: "Berühmte Kaffeeanbaugebiete an den Hängen des Vulkans, bekannt für ihr intensives Aroma.",
       hu: "Híres kávétermesztő vidék a vulkán lankáin, amely intenzív aromájáról ismert.",
@@ -467,7 +464,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       hu: "Chã das Caldeiras szőlőültetvényei",
       ro: "Viile din Chã das Caldeiras",
       en: "Vineyards of Chã das Caldeiras"},
-    image: "/poi-images/vineyards-cha-caldeiras-life-v2.webp",
     description: {
       de: "Einzigartige Weinberge, die direkt in der Lava-Asche am Fuße des Pico do Fogo wachsen.",
       hu: "Egyedülálló szőlőültetvények, amelyek közvetlenül a lávahamuban nőnek a Pico do Fogo lábánál.",
@@ -560,7 +556,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       hu: "Santa Cruz-i banánültetvények",
       ro: "Plantațiile de banane din Santa Cruz",
       en: "Banana Plantations of Santa Cruz"},
-    image: "/poi-images/banana-plantations-santa-cruz-life-v2.webp",
     description: {
       de: "Große landwirtschaftliche Flächen auf Santiago, die den Archipel mit frischen Bananen versorgen.",
       hu: "Hatalmas mezőgazdasági területek Santiagón, amelyek friss banánnal látják el a szigetvilágot.",
@@ -689,7 +684,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       hu: "Maio-i szamárvédelmi központ",
       ro: "Sanctuarul de măgari din Maio",
       en: "Maio Donkey Sanctuary"},
-    image: "/poi-images/donkey-sanctuary-maio-life-v2.webp",
     description: {
       de: "Ein Rückzugsort für die Esel der Insel Maio, die traditionell als Lasttiere eingesetzt wurden.",
       hu: "Menedékhely Maio szigetének szamarai számára, amelyeket hagyományosan teherhordásra használtak.",
@@ -890,7 +884,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       hu: "Boa Vista-i bálnamegfigyelő állomás",
       ro: "Stația de observare a balenelor din Boa Vista",
       en: "Boa Vista Whale Watching Station"},
-    image: "/poi-images/whale-watching-boa-vista-life-v2.webp",
     description: {
       de: "Ein bedeutender Ort zur Beobachtung von Buckelwalen, die in den Gewässern vor Boa Vista kalben.",
       hu: "Jelentős hely a hosszúszárnyú bálnák megfigyelésére, amelyek Boa Vista vizeiben ellenek.",
@@ -1148,7 +1141,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       hu: "Terra Branca játszótér",
       ro: "Loc de joacă Terra Branca",
       en: "Terra Branca Playground"},
-    image: "/poi-images/terra-branca-playground-life-v2.webp",
     description: {
       de: "Ein beliebter moderner Kinderspielplatz in einem der lebhaftesten Viertel der Hauptstadt Praia.",
       hu: "Népszerű modern játszótér Praia főváros egyik legélénkebb negyedében.",
@@ -1241,7 +1233,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       hu: "Rabil-lagúna madármegfigyelő terület",
       ro: "Zona de observare a păsărilor Laguna Rabil",
       en: "Rabil Lagoon Bird Watching Area"},
-    image: "/poi-images/rabil-lagoon-birds-life-v2.webp",
     description: {
       de: "Ein wichtiges Feuchtgebiet auf Boa Vista, das zahlreichen Zugvogelarten als Rastplatz dient.",
       hu: "Fontos vizes élőhely Boa Vista szigetén, amely számos költözőmadár pihenőhelye.",
@@ -1334,7 +1325,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       hu: "Sziget belső kukoricaföldjei",
       ro: "Câmpurile de porumb din interiorul insulei",
       en: "Maize Fields of the Inland"},
-    image: "/poi-images/maize-fields-santiago-life-v2.webp",
     description: {
       de: "Traditionelle Maisfelder in den Hochebenen von Santiago, die das Grundnahrungsmittel der Kapverdier liefern.",
       hu: "Hagyományos kukoricaföldek Santiago fennsíkjain, amelyek a zöld-fokiak alapvető élelmiszerét adják.",
@@ -1382,7 +1372,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       hu: "Ribeira Brava-i papayakert",
       ro: "Grădinile de papaya din Ribeira Brava",
       en: "Papaya Orchards of Ribeira Brava"},
-    image: "/poi-images/papaya-orchards-ribeira-brava-life-v2.webp",
     description: {
       de: "Fruchtbare Gärten im Tal von Ribeira Brava, in denen süße Papayas und andere tropische Früchte gedeihen.",
       hu: "Termékeny kertek Ribeira Brava völgyében, ahol édes papaya és más trópusi gyümölcsök teremnek.",
@@ -1430,7 +1419,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       hu: "Sal Rei-i datolyapálma ligetek",
       ro: "Livezile de curmali din Sal Rei",
       en: "Date Palm Groves of Sal Rei"},
-    image: "/poi-images/date-palm-groves-sal-rei-life-v2.webp",
     description: {
       de: "Malerische Palmenhaine in der Nähe von Sal Rei, die Schatten spenden und Datteln für die Region liefern.",
       hu: "Festői pálmaligetek Sal Rei közelében, amelyek árnyékot adnak és datolyát termelnek a régiónak.",
@@ -1631,7 +1619,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       hu: "Mindelói állatkert",
       ro: "Grădina zoologică din Mindelo",
       en: "Mindelo Zoo"},
-    image: "/poi-images/zoo-mindelo-life-v2.webp",
     description: {
       de: "Ein kleiner Tierpark in Mindelo, der einheimische und exotische Tiere beherbergt.",
       hu: "Egy kis állatkert Mindelóban, amely hazai és egzotikus állatoknak ad otthont.",
@@ -1724,7 +1711,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       hu: "Mindelói szabadidőközpont gyerekeknek",
       ro: "Centrul de agrement pentru copii din Mindelo",
       en: "Mindelo Kids Leisure Center"},
-    image: "/poi-images/kid-center-mindelo-life-v2.webp",
     description: {
       de: "Ein modernes Zentrum für Spiel, Sport und Kreativität für Kinder in der Kulturhauptstadt.",
       hu: "Modern központ a játékhoz, sporthoz és kreativitáshoz gyerekeknek a kulturális fővárosban.",
@@ -1772,7 +1758,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       hu: "Santa Luzia-i öko-kutatóállomás",
       ro: "Stația de cercetare ecologică Santa Luzia",
       en: "Santa Luzia Eco-Research Station"},
-    image: "/poi-images/eco-center-santa-luzia-life-v2.webp",
     description: {
       de: "Eine wissenschaftliche Station auf der lakatlanen Insel Santa Luzia zum Schutz der Meeresbiodiversität.",
       hu: "Tudományos állomás a lakatlan Santa Luzia szigetén a tengeri biodiverzitás védelmére.",
@@ -1901,7 +1886,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       hu: "Tengerisó-élményközpont",
       ro: "Centrul de experiență a sării de mare",
       en: "Sea Salt Experience Center"},
-    image: "/poi-images/salt-experience-sal-life-v2.webp",
     description: {
       de: "Ein interaktives Museum für Kinder, das die Geschichte und Gewinnung von Meersalz erklärt.",
       hu: "Interaktív múzeum gyerekeknek, amely elmagyarázza a tengeri só történetét és kinyerését.",
@@ -1994,7 +1978,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       hu: "Shark Bay citromcápa-megfigyelés",
       ro: "Observarea rechiniilor-lămâie în Shark Bay",
       en: "Shark Bay Lemon Shark Observation"},
-    image: "/poi-images/shark-bay-lemon-sharks-life-v2.webp",
     description: {
       de: "Ein flaches Küstengebiet auf Sal, in dem junge Zitronenhaie aus nächster Nähe beobachtet werden können.",
       hu: "Sekély tengerparti terület Sal szigetén, ahol fiatal citromcápákat lehet közelről megfigyelni.",
@@ -2087,7 +2070,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       hu: "Santo Antão-i agráregyetemi kutatóközpont",
       ro: "Centrul de cercetare agrară Santo Antão",
       en: "Santo Antão Agricultural Research Center"},
-    image: "/poi-images/agro-center-santo-antao-life-v2.webp",
     description: {
       de: "Ein Zentrum zur Verbesserung der landwirtschaftlichen Erträge und Einführung neuer Nutzpflanzen auf der grünen Insel.",
       hu: "Központ a mezőgazdasági hozamok javítására és új növények bevezetésére a zöld szigeten.",

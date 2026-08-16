@@ -269,7 +269,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
     parent: "IQ-BG",
     coords: [44.3888, 33.3408],
     name: { de: "Al-Mutanabbi-Straße", hu: "Al-Mutanabbi utca", ro: "Strada Al-Mutanabbi", en: "Al-Mutanabbi Street"},
-    image: "/poi-images/al-mutanabbi-street-landmarks-v2.webp",
     description: {
       de: "Eine historische Straße in Bagdad, die für ihre vielen Buchhandlungen und als kulturelles Zentrum des Irak bekannt ist.",
       hu: "Egy történelmi utca Bagdadban, amely számos könyvesboltjáról és az iraki kultúra központjaként ismert.",
@@ -1077,7 +1076,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
     parent: "IQ-BG",
     coords: [44.3544, 33.3325],
     name: { de: "Bagdader Fernsehturm", hu: "Bagdadi tévétorony", ro: "Turnul de televiziune din Bagdad", en: "Baghdad Tower"},
-    image: "/poi-images/baghdad-tower-landmarks-v2.webp",
     description: {
       de: "Ein markanter Fernsehturm in Bagdad, der ursprünglich in den 1990er Jahren erbaut wurde und eine Aussichtsplattform bietet.",
       hu: "Egy feltűnő tévétorony Bagdadban, amelyet eredetileg az 1990-es években építettek, és kilátóval is rendelkezik.",
@@ -2209,7 +2207,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
     parent: "IQ-BG",
     coords: [44.3411, 33.3800],
     name: { de: "Al-Kadhimiya-Moschee", hu: "Al-Kadhimiya mecset", ro: "Moscheea Al-Kadhimiya", en: "Al-Kadhimiya Mosque"},
-    image: "/poi-images/al-kadhimiya-mosque-landmarks-v2.webp",
     description: {
       de: "Ein wichtiger islamischer Schrein in Bagdad, in dem die siebten und neunten schiitischen Imame begraben sind.",
       hu: "Egy fontos iszlám szentély Bagdadban, ahol a hetedik és kilencedik síita imám nyugszik.",
@@ -2657,7 +2654,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
     parent: "IQ-BG",
     coords: [44.3853, 33.3467],
     name: { de: "Abbasiden-Palast", hu: "Abbászida palota", ro: "Palatul Abbasid", en: "Abbasid Palace"},
-    image: "/poi-images/abbasid-palace-landmarks-v2.webp",
     description: {
       de: "Eines der wenigen verbliebenen historischen Gebäude in Bagdad aus der Epoche der Abbasiden, das durch beeindruckende Backsteinarchitektur besticht.",
       hu: "Az egyik kevés fennmaradt bagdadi történelmi épület az Abbászida-korszakból, amely lenyűgöző téglaépítészetéről ismert.",
@@ -2925,7 +2921,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
     parent: "IQ-BG",
     coords: [44.3860, 33.3050],
     name: { de: "Siegesschwerter", hu: "A győzelem kardjai", ro: "Săbiile Victoriei", en: "Victory Arch"},
-    image: "/poi-images/victory-arch-landmarks-v2.webp",
     description: {
       de: "Zwei gigantische Triumphbögen in Form von gekreuzten Schwertern, die in Bagdad an den Ersten Golfkrieg erinnern.",
       hu: "Két gigantikus, keresztezett kardokat formázó diadalív Bagdadban, amelyek az első öbölháborúnak állítanak emléket.",
@@ -3193,7 +3188,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
     parent: "IQ-BG",
     coords: [44.3817, 33.3039],
     name: { de: "Denkmal des unbekannten Soldaten", hu: "Az ismeretlen katona emlékműve", ro: "Monumentul Soldatului Necunoscut", en: "Monument to the Unknown Soldier"},
-    image: "/poi-images/unknown-soldier-monument-landmarks-v2.webp",
     description: {
       de: "Ein monumentales Bauwerk in Bagdad, das einen traditionellen Schild darstellt und den im Krieg gefallenen Soldaten gewidmet ist.",
       hu: "Egy monumentális építmény Bagdadban, amely egy hagyományos pajzsot formáz, és a háborúban elesett katonáknak állít emléket.",
@@ -4251,7 +4245,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
     parent: "IQ-NA",
     coords: [44.4000, 32.0286],
     name: { de: "Große Moschee von Kufa", hu: "Kúfai nagymecset", ro: "Marea Moschee din Kufa", en: "Great Mosque of Kufa"},
-    image: "/poi-images/great-mosque-kufa-landmarks-v2.webp",
     description: {
       de: "Eine der ältesten und heiligsten Moscheen der Welt, die mit vielen bedeutenden historischen Ereignissen des Islam verbunden ist.",
       hu: "A világ egyik legrégebbi és legszentebb mecsete, amely az iszlám számos fontos történelmi eseményéhez kötődik.",
@@ -4735,7 +4728,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
     parent: "IQ-SD",
     coords: [43.8742, 34.1986],
     name: { de: "Al-Askari-Schrein", hu: "Al-Aszkari szentély", ro: "Altarul Al-Askari", en: "Al-Askari Shrine"},
-    image: "/poi-images/al-askari-shrine-landmarks-v2.webp",
     description: {
       de: "Ein bedeutendes schiitisches Heiligtum in Samarra, das für seine einstmals goldene Kuppel weltweit berühmt ist.",
       hu: "Egy jelentős síita szentély Szamarrában, amely egykor aranykupolájáról volt világhírű.",
@@ -6083,7 +6075,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
     parent: "IQ-AR",
     coords: [44.0175, 36.1956],
     name: { de: "Jalil-Khayat-Moschee", hu: "Jalil Khayat mecset", ro: "Moscheea Jalil Khayat", en: "Jalil Khayat Mosque"},
-    image: "/poi-images/jalil-khayat-mosque-landmarks-v2.webp",
     description: {
       de: "Die größte Moschee in Erbil, deren Architektur moderne osmanische Elemente mit lokaler Handwerkskunst verbindet.",
       hu: "A legnagyobb mecset Erbílben, amelynek építészete modern oszmán elemeket ötvöz a helyi kézművességgel.",
@@ -6279,7 +6270,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
     parent: "IQ-BG",
     coords: [44.3858, 33.3414],
     name: { de: "Al-Quschla", hu: "Al-Kislá", ro: "Al-Qishla", en: "Al-Qishla"},
-    image: "/poi-images/al-qishla-landmarks-v2.webp",
     description: {
       de: "Ein historisches osmanisches Gebäude in Bagdad mit einem charakteristischen Uhrenturm, der im 19. Jahrhundert errichtet wurde.",
       hu: "Egy történelmi oszmán épület Bagdadban, amelynek jellegzetes óratornyát a 19. században emelték.",
@@ -6403,7 +6393,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
     parent: "IQ-BA",
     coords: [47.4447, 31.0067],
     name: { de: "Baum der Erkenntnis", hu: "A tudás fája", ro: "Arborele Cunoașterii", en: "Tree of Knowledge"},
-    image: "/poi-images/tree-of-knowledge-landmarks-v2.webp",
     description: {
       de: "Ein symbolträchtiger Ort am Zusammenfluss von Tigris und Euphrat, der nach lokaler Legende Teil des Garten Eden war.",
       hu: "Egy szimbolikus hely a Tigris és az Eufrátesz összefolyásánál, amely a helyi legenda szerint az Édenkert része volt.",
@@ -6527,7 +6516,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
     parent: "IQ-BB",
     coords: [44.3756, 32.2239],
     name: { de: "Grab des Ezechiel", hu: "Ezékiel sírja", ro: "Mormântul lui Ezechiel", en: "Ezekiel's Tomb"},
-    image: "/poi-images/ezekiel-tomb-landmarks-v2.webp",
     description: {
       de: "Eine historische Pilgerstätte in Al-Kifl, die traditionell als letzte Ruhestätte des biblischen Propheten Ezechiel gilt.",
       hu: "Egy történelmi zarándokhely Al-Kiflben, amelyet hagyományosan a bibliai Ezékiel próféta végső nyughelyének tartanak.",
@@ -7839,7 +7827,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
     parent: "IQ-NI",
     coords: [43.1258, 36.3431],
     name: { de: "Große Moschee des an-Nuri", hu: "An-Núri nagymecset", ro: "Marea Moschee din al-Nuri", en: "Great Mosque of al-Nuri"},
-    image: "/poi-images/al-nuri-mosque-landmarks-v2.webp",
     description: {
       de: "Eine historische Moschee in Mosul, die vor allem für ihr berühmtes schiefes Minarett bekannt ist.",
       hu: "Egy történelmi mecset Moszulban, amely leginkább híres ferde minaretjéről volt ismert.",
@@ -9151,7 +9138,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
     parent: "IQ-DA",
     coords: [42.6953, 37.1350],
     name: { de: "Delal-Brücke", hu: "Delal híd", ro: "Podul Delal", en: "Delal Bridge"},
-    image: "/poi-images/delal-bridge-landmarks-v2.webp",
     description: {
       de: "Eine alte Steinbrücke über den Fluss Chabur in Zakho, die zu den bekanntesten historischen Bauwerken im Nordirak zählt.",
       hu: "Egy régi kőhíd a Habur folyó felett Zakhóban, amely Észak-Irak egyik legismertebb történelmi építménye.",
@@ -9887,7 +9873,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
     parent: "IQ-BG",
     coords: [44.3592, 33.3639],
     name: { de: "Abu-Hanifa-Moschee", hu: "Abu Hanifa mecset", ro: "Moscheea Abu Hanifa", en: "Abu Hanifa Mosque"},
-    image: "/poi-images/abu-hanifa-mosque-landmarks-v2.webp",
     description: {
       de: "Eine bedeutende sunnitische Moschee in Bagdad, die rund um das Grab des berühmten islamischen Rechtsgelehrten Abu Hanifa erbaut wurde.",
       hu: "Egy jelentős szunnita mecset Bagdadban, amelyet a híres iszlám jogtudós, Abu Hanifa sírja köré építettek.",
@@ -10083,7 +10068,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
     parent: "IQ-AR",
     coords: [44.4086, 36.6358],
     name: { de: "Gali-Ali-Beg-Wasserfall", hu: "Gali Ali Beg vízesés", ro: "Cascada Gali Ali Beg", en: "Gali Ali Beg Waterfall"},
-    image: "/poi-images/gali-ali-beg-waterfall-landmarks-v2.webp",
     description: {
       de: "Ein spektakulärer Wasserfall in den kurdischen Bergen, der so ikonisch ist, dass er auch irakische Banknoten ziert.",
       hu: "Egy látványos vízesés a kurd hegyekben, amely annyira ikonikus, hogy az iraki bankjegyeken is szerepel.",
@@ -10783,7 +10767,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
     parent: "IQ-AR",
     coords: [44.5381, 36.6214],
     name: { de: "Bekhal-Wasserfall", hu: "Bekhal-vízesés", ro: "Cascada Bekhal", en: "Bekhal Waterfall"},
-    image: "/poi-images/bekhal-waterfall-landmarks-v2.webp",
     description: {
       de: "Ein beliebtes Ausflugsziel in der Bergregion von Rawanduz, das für seine erfrischenden Kaskaden und natürliche Schönheit bekannt ist.",
       hu: "Népszerű kirándulóhely a Rawanduz hegyvidékén, amely frissítő vízeséseiről és természeti szépségéről ismert.",

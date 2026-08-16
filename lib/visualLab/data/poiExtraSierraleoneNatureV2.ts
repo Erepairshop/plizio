@@ -93,7 +93,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Bintumani-hegy",
       ro: "Muntele Bintumani",
       en: "Mount Bintumani"},
-    image: "/poi-images/mount-bintumani-nature-v2.webp",
     description: {
       de: "Der Mount Bintumani, auch als Loma Mansa bekannt, ist mit 1.945 Metern der höchste Berg in Sierra Leone.",
       hu: "A Bintumani-hegy, más néven Loma Mansa, 1945 méteres magasságával Sierra Leone legmagasabb pontja.",
@@ -157,7 +156,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Rokel-folyó",
       ro: "Râul Rokel",
       en: "Rokel River"},
-    image: "/poi-images/rokel-river-nature-v2.webp",
     description: {
       de: "Der Rokel ist der längste Fluss in Sierra Leone und mündet in das Ästuar des Sierra Leone River.",
       hu: "A Rokel Sierra Leone leghosszabb folyója, amely a Sierra Leone-folyó torkolatába ömlik.",
@@ -221,7 +219,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Sewa-folyó",
       ro: "Râul Sewa",
       en: "Sewa River"},
-    image: "/poi-images/sewa-river-nature-v2.webp",
     description: {
       de: "Der Sewa ist ein bedeutender Fluss, der durch die diamantenreichen Gebiete im Osten und Süden fließt.",
       hu: "A Sewa egy jelentős folyó, amely az ország keleti és déli gyémántgazdag vidékein folyik keresztül.",
@@ -285,7 +282,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Moa-folyó",
       ro: "Râul Moa",
       en: "Moa River"},
-    image: "/poi-images/moa-river-nature-v2.webp",
     description: {
       de: "Der Moa ist ein grenzüberschreitender Fluss, der in Guinea entspringt und durch Sierra Leone fließt.",
       hu: "A Moa egy határokon átnyúló folyó, amely Guineában ered és Sierra Leonén keresztül folyik.",
@@ -477,7 +473,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Gola-esőerdő",
       ro: "Pădurea tropicală Gola",
       en: "Gola Rainforest"},
-    image: "/poi-images/gola-rainforest-nature-v2.webp",
     description: {
       de: "Der Gola-Regenwald ist das größte verbliebene Gebiet mit tropischem Regenwald in Sierra Leone.",
       hu: "A Gola-esőerdő Sierra Leone legnagyobb fennmaradt trópusi esőerdő területe.",
@@ -622,7 +617,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Tiwai-sziget",
       ro: "Insula Tiwai",
       en: "Tiwai Island"},
-    image: "/poi-images/tiwai-island-nature-v2.webp",
     description: {
       de: "Tiwai Island ist ein Binneninsel-Wildschutzgebiet im Moa-Fluss, bekannt für seine Primatenvielfalt.",
       hu: "A Tiwai-sziget egy folyami vadvédelmi terület a Moa-folyóban, amely főemlőseinek sokféleségéről ismert.",
@@ -686,7 +680,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Sherbro-sziget",
       ro: "Insula Sherbro",
       en: "Sherbro Island"},
-    image: "/poi-images/sherbro-island-nature-v2.webp",
     description: {
       de: "Sherbro Island ist eine große Insel vor der Südküste von Sierra Leone, bekannt für ihre Strände und Lagunen.",
       hu: "A Sherbro-sziget egy nagy sziget Sierra Leone déli partjainál, strandjairól és lagúnáiról ismert.",
@@ -755,7 +748,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Banana-szigetek",
       ro: "Insulele Banana",
       en: "Banana Islands"},
-    image: "/poi-images/banana-islands-nature-v2.webp",
     description: {
       de: "Die Banana-Inseln sind eine Inselgruppe vor der Freetown-Halbinsel, bekannt für ihr klares Wasser.",
       hu: "A Banana-szigetek egy szigetcsoport a Freetown-félszigetnél, tiszta vizéről ismert.",
@@ -819,7 +811,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Schildkröten-szigetek",
       ro: "Insulele Turtle",
       en: "Turtle Islands"},
-    image: "/poi-images/turtle-islands-nature-v2.webp",
     description: {
       de: "Die Schildkröteninseln sind ein abgelegenes Archipel aus acht kleinen Sandinseln vor der Sherbro-Insel.",
       hu: "A Schildkröten-szigetek egy nyolc kis homokszigetből álló távoli szigetcsoport a Sherbro-szigetnél.",
@@ -928,7 +919,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Sonfon-tó",
       ro: "Lacul Sonfon",
       en: "Lake Sonfon"},
-    image: "/poi-images/lake-sonfon-nature-v2.webp",
     description: {
       de: "Der Sonfon-See ist ein heiliger Bergsee in den Sula-Bergen im Norden von Sierra Leone.",
       hu: "A Sonfon-tó egy szent hegyi tó a Sula-hegységben, Sierra Leone északi részén.",
@@ -992,7 +982,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Mape-tó",
       ro: "Lacul Mape",
       en: "Lake Mape"},
-    image: "/poi-images/lake-mape-nature-v2.webp",
     description: {
       de: "Der Mape-See ist ein großer Binnensee im Süden von Sierra Leone, nahe der Küste.",
       hu: "A Mape-tó egy nagy belföldi tó Sierra Leone déli részén, a part közelében.",
@@ -1056,7 +1045,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Mabesi-tó",
       ro: "Lacul Mabesi",
       en: "Lake Mabesi"},
-    image: "/poi-images/lake-mabesi-nature-v2.webp",
     description: {
       de: "Der Mabesi-See ist ein bedeutender See im Pujehun-Distrikt, bekannt für seine Artenvielfalt.",
       hu: "A Mabesi-tó egy jelentős tó a Pujehun kerületben, amely biológiai sokféleségéről ismert.",
@@ -1165,7 +1153,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Outamba-Kilimi",
       ro: "Outamba-Kilimi",
       en: "Outamba-Kilimi"},
-    image: "/poi-images/outamba-kilimi-nature-v2.webp",
     description: {
       de: "Outamba-Kilimi ist der älteste Nationalpark in Sierra Leone, bestehend aus zwei getrennten Gebieten.",
       hu: "Az Outamba-Kilimi Sierra Leone legrégebbi nemzeti parkja, amely két különálló területből áll.",
@@ -1274,7 +1261,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Western Area erdőrezervátum",
       ro: "Rezervația forestieră Western Area",
       en: "Western Area Forest Reserve"},
-    image: "/poi-images/western-area-forest-nature-v2.webp",
     description: {
       de: "Dieses Reservat schützt die bewaldeten Hügel der Freetown-Halbinsel und ist lebenswichtig für die Wasserversorgung.",
       hu: "Ez a rezervátum védi a Freetown-félsziget erdős dombjait, és létfontosságú a vízellátás szempontjából.",
@@ -1338,7 +1324,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Loma-hegység",
       ro: "Munții Loma",
       en: "Loma Mountains"},
-    image: "/poi-images/loma-mountains-nature-v2.webp",
     description: {
       de: "Die Loma-Berge sind ein beeindruckendes Hochgebirge im Nordosten von Sierra Leone.",
       hu: "A Loma-hegység egy lenyűgöző magashegység Sierra Leone északkeleti részén.",
@@ -1402,7 +1387,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Wara Wara-hegység",
       ro: "Munții Wara Wara",
       en: "Wara Wara Mountains"},
-    image: "/poi-images/wara-wara-mountains-nature-v2.webp",
     description: {
       de: "Die Wara Wara Berge umgeben die Stadt Kabala und bieten spektakuläre Ausblicke.",
       hu: "A Wara Wara-hegység Kabala városát veszi körül, és látványos kilátást nyújt.",
@@ -1466,7 +1450,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Kangari-dombság",
       ro: "Dealurile Kangari",
       en: "Kangari Hills"},
-    image: "/poi-images/kangari-hills-nature-v2.webp",
     description: {
       de: "Die Kangari Hills sind ein Waldreservat und Bergland im Zentrum von Sierra Leone.",
       hu: "A Kangari-dombság egy erdőrezervátum és hegyvidék Sierra Leone középső részén.",
@@ -1530,7 +1513,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Tingi-hegység",
       ro: "Munții Tingi",
       en: "Tingi Hills"},
-    image: "/poi-images/tingi-hills-nature-v2.webp",
     description: {
       de: "Die Tingi-Berge beherbergen den Sankan Biriwa, den zweithöchsten Berg des Landes.",
       hu: "A Tingi-hegység ad otthont a Sankan Biriwának, az ország második legmagasabb hegyének.",
@@ -1594,7 +1576,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Yawri-öböl",
       ro: "Golful Yawri",
       en: "Yawri Bay"},
-    image: "/poi-images/yawri-bay-nature-v2.webp",
     description: {
       de: "Yawri Bay ist eine große, flache Bucht an der Küste, bekannt für ihre Wattflächen und Mangroven.",
       hu: "A Yawri-öböl egy nagy, sekély öböl a parton, amely árapálysíkságairól és mangroveerdőiről ismert.",
@@ -1722,7 +1703,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Mano-folyó",
       ro: "Râul Mano",
       en: "Mano River"},
-    image: "/poi-images/mano-river-nature-v2.webp",
     description: {
       de: "Der Mano bildet einen Großteil der südlichen Grenze zwischen Sierra Leone und Liberia.",
       hu: "A Mano alkotja Sierra Leone és Libéria déli határának nagy részét.",
@@ -1786,7 +1766,6 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
       hu: "Tasso-sziget",
       ro: "Insula Tasso",
       en: "Tasso Island"},
-    image: "/poi-images/tasso-island-nature-v2.webp",
     description: {
       de: "Tasso Island ist eine Insel im Ästuar des Sierra Leone River, bekannt für ihren Ökotourismus.",
       hu: "A Tasso-sziget egy sziget a Sierra Leone-folyó torkolatában, ökoturizmusáról ismert.",

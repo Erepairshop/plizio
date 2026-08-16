@@ -7,8 +7,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "castle",
     name: { de: "Königsschloss Warschau", hu: "Varsói királyi vár", ro: "Castelul Regal din Varșovia", en: "Royal Castle in Warsaw"},
-    image: "/poi-images/poland-warsaw-royal-castle-landmarks-v2.webp",
-    coords: [21.0142, 52.2478],
     coords: [21.0142, 52.2478],
     description: {
       de: "Das Warschauer Königsschloss markiert den Eingang zur Altstadt und war die offizielle Residenz der polnischen Monarchen. Es wurde nach der Zerstörung im Zweiten Weltkrieg vollständig rekonstruiert.",
@@ -52,8 +50,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "monument",
     name: { de: "Kultur- und Wissenschaftspalast", hu: "Kultúra és Tudomány Palotája", ro: "Palatul Culturii și Științei", en: "Palace of Culture and Science"},
-    image: "/poi-images/poland-palace-culture-science-landmarks-v2.webp",
-    coords: [21.0061, 52.2317],
     coords: [21.0061, 52.2317],
     description: {
       de: "Der Kulturpalast ist das bekannteste Wahrzeichen Warschaus und ein Beispiel für den sozialistischen Klassizismus. Er war ein Geschenk der Sowjetunion an das polnische Volk.",
@@ -97,8 +93,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "cathedral",
     name: { de: "Marienkirche Krakau", hu: "Mária-templom (Krakkó)", ro: "Biserica Sfânta Maria din Cracovia", en: "St. Mary's Basilica"},
-    image: "/poi-images/poland-mariacka-basilica-krakow-landmarks-v2.webp",
-    coords: [19.9392, 50.0617],
     coords: [19.9392, 50.0617],
     description: {
       de: "Diese gotische Basilika am Krakauer Hauptmarkt ist berühmt für ihren Hochaltar von Veit Stoß und das stündliche Trompetensignal Hejnał.",
@@ -142,8 +136,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "landmark",
     name: { de: "Krantor Danzig", hu: "Danzigi daru", ro: "Macaraua din Gdańsk", en: "The Crane in Gdańsk"},
-    image: "/poi-images/poland-gdansk-crane-landmarks-v2.webp",
-    coords: [18.6575, 54.3512],
     coords: [18.6575, 54.3512],
     description: {
       de: "Das Krantor ist ein historisches Stadttor mit Kranfunktion am Ufer der Mottlau. Es ist das Symbol der maritimen Geschichte von Danzig.",
@@ -187,8 +179,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "monument",
     name: { de: "Jahrhunderthalle Breslau", hu: "Centenáriumi Csarnok", ro: "Hala Centenarului din Wrocław", en: "Centennial Hall"},
-    image: "/poi-images/poland-wroclaw-centennial-hall-landmarks-v2.webp",
-    coords: [17.0772, 51.1069],
     coords: [17.0772, 51.1069],
     description: {
       de: "Die Jahrhunderthalle ist ein Pionierbauwerk des modernen Stahlbetonbaus. Sie wurde zum 100. Jahrestag der Völkerschlacht bei Leipzig errichtet.",
@@ -232,8 +222,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "landmark",
     name: { de: "Krakauer Tuchhallen", hu: "Posztócsarnok (Krakkó)", ro: "Hala de Pânzeturi din Cracovia", en: "Cloth Hall (Sukiennice)"},
-    image: "/poi-images/poland-cloth-hall-krakow-landmarks-v2.webp",
-    coords: [19.9373, 50.0617],
     coords: [19.9373, 50.0617],
     description: {
       de: "Die Tuchhallen in der Mitte des Krakauer Hauptmarktes sind eines der ältesten Einkaufszentren der Welt. Das Gebäude ist ein herausragendes Beispiel der Renaissance-Architektur.",
@@ -277,8 +265,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "monument",
     name: { de: "Neptunbrunnen Danzig", hu: "Neptun-kút (Gdańsk)", ro: "Fântâna lui Neptun din Gdańsk", en: "Neptune's Fountain"},
-    image: "/poi-images/poland-neptune-fountain-gdansk-landmarks-v2.webp",
-    coords: [18.6533, 54.3486],
     coords: [18.6533, 54.3486],
     description: {
       de: "Dieser Bronzebrunnen aus dem 17. Jahrhundert steht vor dem Artushof in Danzig. Er symbolisiert die enge Verbindung der Hansestadt mit dem Meer.",
@@ -322,8 +308,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "landmark",
     name: { de: "Rathaus von Zamość", hu: "Zamośći városháza", ro: "Primăria din Zamość", en: "Zamość Town Hall"},
-    image: "/poi-images/poland-zamosc-town-hall-landmarks-v2.webp",
-    coords: [23.2524, 50.7169],
     coords: [23.2524, 50.7169],
     description: {
       de: "Das Rathaus von Zamość mit seiner charakteristischen Freitreppe ist das Symbol der 'idealen Stadt' der Renaissance. Es dominiert den Großen Marktplatz.",
@@ -700,8 +684,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "castle",
     name: { de: "Burg Niedzica", hu: "Nedec vára", ro: "Castelul Niedzica", en: "Niedzica Castle"},
-    image: "/poi-images/poland-niedzica-castle-landmarks-v2.webp",
-    coords: [20.3208, 49.4225],
     coords: [20.3208, 49.4225],
     description: {
       de: "Die Burg Niedzica, auch bekannt als Burg Dunajec, liegt am Ufer des Czorsztyn-Stausees. Sie ist eine mittelalterliche Festung mit einer reichen Legendenwelt.",
@@ -790,8 +772,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "landmark",
     name: { de: "Rathaus von Posen", hu: "Poznańi városháza", ro: "Primăria din Poznań", en: "Poznań Town Hall"},
-    image: "/poi-images/poland-poznan-town-hall-landmarks-v2.webp",
-    coords: [16.9342, 52.4085],
     coords: [16.9342, 52.4085],
     description: {
       de: "Das Rathaus von Posen am Alten Markt ist ein Juwel der Renaissance-Architektur. Es ist weltberühmt für die mechanischen Ziegenböcke, die mittags am Turm erscheinen.",
@@ -835,8 +815,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "museum",
     name: { de: "Panorama von Racławice", hu: "Racławicei körkép", ro: "Panorama de la Racławice", en: "Racławice Panorama"},
-    image: "/poi-images/poland-raclawice-panorama-landmarks-v2.webp",
-    coords: [17.0442, 51.1102],
     coords: [17.0442, 51.1102],
     description: {
       de: "Das Panorama von Racławice in Breslau ist ein monumentales Rundgemälde, das den Sieg der polnischen Aufständischen über die russische Armee im Jahr 1794 darstellt.",
@@ -1249,8 +1227,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "ruins",
     name: { de: "Burg Ogrodzieniec", hu: "Ogrodzieniec vára", ro: "Castelul Ogrodzieniec", en: "Ogrodzieniec Castle"},
-    image: "/poi-images/poland-ogrodzieniec-castle-landmarks-v2.webp",
-    coords: [19.5517, 50.4533],
     coords: [19.5517, 50.4533],
     description: {
       de: "Die Burgruine Ogrodzieniec ist die größte und beeindruckendste Anlage auf der Route der Adlerhorste. Die Ruine ist spektakulär in Kalksteinfelsen eingebettet.",
@@ -1627,8 +1603,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "castle",
     name: { de: "Burg Tzschocha", hu: "Czocha vára", ro: "Castelul Czocha", en: "Czocha Castle"},
-    image: "/poi-images/poland-czocha-castle-landmarks-v2.webp",
-    coords: [15.3039, 51.0311],
     coords: [15.3039, 51.0311],
     description: {
       de: "Die Burg Czocha ist eine mittelalterliche Verteidigungsburg in Niederschlesien. Sie ist bekannt für ihre geheimen Gänge und wird oft als 'polnisches Hogwarts' bezeichnet.",
@@ -1969,8 +1943,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "palace",
     name: { de: "Schloss Moschen", hu: "Moszna-kastély", ro: "Castelul Moszna", en: "Moszna Castle"},
-    image: "/poi-images/poland-moszna-castle-landmarks-v2.webp",
-    coords: [17.7686, 50.4447],
     coords: [17.7686, 50.4447],
     description: {
       de: "Das Schloss in Moszna ist eine eklektische Residenz, die für ihre 99 Türme und prachtvolle Parkanlage bekannt ist. Es sieht aus wie ein Märchenschloss aus einem Disney-Film.",
@@ -1995,7 +1967,6 @@ export const polandLandmarksV2: POI[] = [
       de: "Das märchenhafte Schloss Moschen (Moszna) in der Woiwodschaft Oppeln ist eines der außergewöhnlichsten und beeindruckendsten Architekturdenkmäler Polens. Oft mit den Fantasieschlössern aus Disney-Filmen verglichen, fasziniert das riesige Anwesen mit seinen exakt 99 Türmen und Türmchen sowie den 365 opulenten Räumen. Die heutige Gestalt des Schlosses verdankt es der Industriellenfamilie Tiele-Winckler, die es nach einem verheerenden Brand im Jahr 1896 wiederaufbaute und stark erweiterte. Das Gebäude ist eine faszinierende Mischung aus verschiedenen Baustilen: Der zentrale Teil ist barock, der östliche Flügel im neugotischen Stil gehalten, und der westliche Flügel zeigt Elemente der Neorenaissance. Umgeben wird das Schloss von einem 200 Hektar großen Landschaftspark, der besonders im Frühling für seine blühenden Azaleen und Rhododendren berühmt ist.",
       hu: "Az opolei vajdaságban található mesebeli Moszna-kastély Lengyelország egyik legkülönlegesebb és leglátványosabb építészeti műemléke. A gyakran Disney-filmek fantáziakastélyaihoz hasonlított hatalmas birtok 99 tornyával és tornyocskájával, valamint 365 pazarul berendezett szobájával nyűgözi le a látogatókat. A kastély mai formáját a Tiele-Winckler iparmágnás családnak köszönheti, akik egy pusztító 1896-os tűzvész után építették újjá és bővítették ki jelentősen. Az épület különböző építészeti stílusok lenyűgöző keveréke: a középső rész barokk, a keleti szárny neogótikus stílusú, míg a nyugati szárny neoreneszánsz elemeket hordoz. A kastélyt egy 200 hektáros tájképi park veszi körül, amely különösen tavasszal, a virágzó azáleák és rododendronok idején nyújt páratlan látványt.",
       ro: "Castelul de basm Moszna, situat în voievodatul Opole, este unul dintre cele mai extraordinare și impresionante monumente arhitecturale din Polonia. Adesea comparată cu castelele fanteziste din filmele Disney, proprietatea masivă captivează prin cele 99 de turnuri și turnulețe ale sale, precum și prin cele 365 de camere opulente. Castelul își datorează forma actuală familiei de industriași Tiele-Winckler, care l-a reconstruit și l-a extins masiv după un incendiu devastator în anul 1896. Clădirea este un amestec fascinant de stiluri arhitecturale diferite: partea centrală este barocă, aripa de est este proiectată în stil neogotic, iar aripa de vest prezintă elemente neorenascentiste. Castelul este înconjurat de un parc peisagistic extins de 200 de hectare, renumit în special primăvara pentru azaleele și rododendronii săi înfloriți.",
-      en: "",
       en: "The fairytale Moszna Castle, located in the Opole Voivodeship, is one of Poland's most extraordinary and visually stunning architectural monuments. Frequently compared to the fantasy castles found in Disney movies, the massive estate captivates visitors with its exact 99 towers and turrets, alongside 365 opulently decorated rooms. The castle owes its current eclectic appearance to the Tiele-Winckler industrialist family, who rebuilt and vastly expanded it following a devastating fire in 1896. The sprawling building is a fascinating amalgamation of distinct architectural styles: the central part is Baroque, the eastern wing is designed in a Neo-Gothic style, and the western wing features Neo-Renaissance elements. The castle is beautifully surrounded by a 200-hectare landscape park, particularly renowned in the spring for its vibrant blooming azaleas and rhododendrons.",
       es: "El de ensueño Castillo de Moszna, en el voivodato de Opole, es uno de los monumentos arquitectónicos más extraordinarios e impresionantes de Polonia. Comparado a menudo con los castillos de fantasía de las películas de Disney, la enorme propiedad fascina con sus exactamente 99 torres y torreones, así como con sus 365 opulentas habitaciones. El castillo debe su forma actual a la familia industrial Tiele-Winckler, que lo reconstruyó y amplió considerablemente tras un devastador incendio en 1896. El edificio es una fascinante mezcla de diferentes estilos arquitectónicos: la parte central es barroca, el ala este es de estilo neogótico y el ala oeste muestra elementos del neorrenacimiento. El castillo está rodeado por un parque paisajístico de 200 hectáreas, famoso especialmente en primavera por sus azaleas y rododendros en flor.",
       pt: "O fabuloso Castelo de Moszna, na voivodia de Opole, é um dos monumentos arquitetónicos mais extraordinários e impressionantes da Polónia. Frequentemente comparado aos castelos de fantasia dos filmes da Disney, a enorme propriedade fascina com as suas exatamente 99 torres e torreões, bem como os seus 365 quartos opulentos. O castelo deve a sua forma atual à família industrial Tiele-Winckler, que o reconstruiu e expandiu significativamente após um incêndio devastador em 1896. O edifício é uma mistura fascinante de diferentes estilos arquitetónicos: a parte central é barroca, a ala leste é de estilo neogótico e a ala oeste mostra elementos do Neorrenascimento. O castelo está rodeado por um parque paisagístico de 200 hectares, famoso especialmente na primavera pelas suas azáleas e rododendros em flor.",
@@ -2312,8 +2283,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "castle",
     name: { de: "Schloss Kórnik", hu: "Kórniki vár", ro: "Castelul Kórnik", en: "Kórnik Castle"},
-    image: "/poi-images/poland-kornik-castle-landmarks-v2.webp",
-    coords: [17.0911, 52.2444],
     coords: [17.0911, 52.2444],
     description: {
       de: "Schloss Kórnik ist eine neugotische Residenz, die für ihre wertvolle Bibliothek und das berühmte Arboretum bekannt ist. Die Architektur wurde vom englischen Tudor-Stil inspiriert.",
@@ -2357,8 +2326,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "landmark",
     name: { de: "Artushof Danzig", hu: "Artus-udvar (Gdańsk)", ro: "Curtea lui Artus din Gdańsk", en: "Artus Court"},
-    image: "/poi-images/poland-gdansk-artus-court-landmarks-v2.webp",
-    coords: [18.6536, 54.3486],
     coords: [18.6536, 54.3486],
     description: {
       de: "Der Artushof war früher das Zentrum des gesellschaftlichen Lebens der Danziger Kaufleute. Er befindet sich am Langen Markt neben dem Rathaus.",
@@ -2663,8 +2630,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "castle",
     name: { de: "Schloss Pieskowa Skała", hu: "Pieskowa Skała vára", ro: "Castelul Pieskowa Skała", en: "Pieskowa Skała Castle"},
-    image: "/poi-images/poland-pieskowa-skala-castle-landmarks-v2.webp",
-    coords: [19.7806, 50.2444],
     coords: [19.7806, 50.2444],
     description: {
       de: "Pieskowa Skała ist ein gut erhaltenes Renaissance-Schloss im Nationalpark Ojców. Es liegt malerisch auf einem Felsen oberhalb des Prądnik-Tals.",
@@ -2708,8 +2673,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "castle",
     name: { de: "Schloss Lublin", hu: "Lublini vár", ro: "Castelul din Lublin", en: "Lublin Castle"},
-    image: "/poi-images/poland-lublin-castle-landmarks-v2.webp",
-    coords: [22.5719, 51.2503],
     coords: [22.5719, 51.2503],
     description: {
       de: "Das Schloss Lublin ist eine historische Festungsanlage auf einem Hügel. Es beherbergt die Kapelle der Heiligen Dreifaltigkeit mit ihren einzigartigen russisch-byzantinischen Fresken.",
@@ -3086,8 +3049,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "bridge",
     name: { de: "Gotische Brücke in Kłodzko", hu: "Kłodzkói gótikus híd", ro: "Podul Gotic din Kłodzko", en: "Gothic Bridge in Kłodzko"},
-    image: "/poi-images/poland-klodzko-gothic-bridge-landmarks-v2.webp",
-    coords: [16.6547, 50.4389],
     coords: [16.6547, 50.4389],
     description: {
       de: "Diese kleine Steinbrücke in Kłodzko wird oft als 'Miniatur der Prager Karlsbrücke' bezeichnet. Sie ist mit barocken Skulpturengruppen geschmückt.",
@@ -3212,8 +3173,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "landmark",
     name: { de: "Festung Weichselmünde", hu: "Wisłoujście-erőd", ro: "Fortăreața Wisłoujście", en: "Vistulamouth Fortress"},
-    image: "/poi-images/poland-vistulamouth-fortress-landmarks-v2.webp",
-    coords: [18.6797, 54.3947],
     coords: [18.6797, 54.3947],
     description: {
       de: "Die Festung Weichselmünde in Danzig sicherte jahrhundertelang die Einfahrt in den Danziger Hafen. Sie ist ein einzigartiges Beispiel für maritime Verteidigungsarchitektur.",
@@ -3257,8 +3216,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "monument",
     name: { de: "Warschauer Barbakane", hu: "Varsói Barbakán", ro: "Barbicana din Varșovia", en: "Warsaw Barbican"},
-    image: "/poi-images/poland-warsaw-barbican-landmarks-v2.webp",
-    coords: [21.0103, 52.2503],
     coords: [21.0103, 52.2503],
     description: {
       de: "Die Barbakane ist ein halbkreisförmiger befestigter Vorposten, der die Warschauer Altstadt mit der Neustadt verbindet. Sie ist Teil des historischen Befestigungsgürtels.",
@@ -3302,8 +3259,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "cathedral",
     name: { de: "Jakobskathedrale Stettin", hu: "Szent Jakab-székesegyház (Szczecin)", ro: "Catedrala Sfântul Iacob din Szczecin", en: "St. James' Cathedral in Szczecin"},
-    image: "/poi-images/poland-szczecin-cathedral-landmarks-v2.webp",
-    coords: [14.5556, 53.4247],
     coords: [14.5556, 53.4247],
     description: {
       de: "Die Jakobskathedrale ist die größte Kirche in Westpommern und ein bedeutendes Denkmal der Backsteingotik. Ihr markanter Turm prägt die Skyline von Stettin.",
@@ -3349,7 +3304,6 @@ export const polandLandmarksV2: POI[] = [
     type: "palace",
     name: { de: "Branicki-Palast", hu: "Branicki-palota", ro: "Palatul Branicki", en: "Branicki Palace"},
     image: "/poi-images/poland-branicki-palace-landmarks-v2.webp",
-    coords: [23.1651, 53.1302],
     coords: [23.1651, 53.1302],
     description: {
       de: "Der Branicki-Palast, auch \"Versailles von Podlachien\" genannt, ist ein barocker Komplex in Białystok. Er verfügt über weitläufige französische Gärten und beherbergt heute die Medizinische Universität.",
@@ -3655,8 +3609,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "castle",
     name: { de: "Schloss Baranów Sandomierski", hu: "Baranów sandomierski-i várkastély", ro: "Castelul Baranów Sandomierski", en: "Baranow Sandomierski Castle"},
-    image: "/poi-images/poland-baranow-sandomierski-castle-landmarks-v2.webp",
-    coords: [21.5342, 50.4994],
     coords: [21.5342, 50.4994],
     description: {
       de: "Ein manieristisches Schloss, das wegen seines Arkadenhofs oft als \"Kleiner Wawel\" bezeichnet wird. Es wurde für die Familie Leszczyński erbaut und gilt als eine der schönsten Residenzen Polens.",
@@ -3702,8 +3654,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "church",
     name: { de: "Friedenskirche Świdnica", hu: "Świdnicai béketemplom", ro: "Biserica Păcii din Świdnica", en: "Church of Peace in Świdnica"},
-    image: "/poi-images/poland-swidnica-church-peace-landmarks-v2.webp",
-    coords: [16.4913, 50.8465],
     coords: [16.4913, 50.8465],
     description: {
       de: "Die größte Fachwerk-Kirche Europas, die nach dem Westfälischen Frieden erbaut wurde. Sie gehört zum UNESCO-Weltkulturerbe und ist für ihre kunstvolle Innenausstattung aus Holz bekannt.",
@@ -3974,8 +3924,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "castle",
     name: { de: "Burg Heilsberg", hu: "Lidzbark Warmiński vára", ro: "Castelul Lidzbark Warmiński", en: "Lidzbark Warminski Castle"},
-    image: "/poi-images/poland-lidzbark-warminski-castle-landmarks-v2.webp",
-    coords: [20.5825, 54.1265],
     coords: [20.5825, 54.1265],
     description: {
       de: "Eine gut erhaltene gotische Burg, die als Residenz der Bischöfe von Ermland diente. Nikolaus Kopernikus lebte hier mehrere Jahre und arbeitete an seiner heliozentrischen Theorie.",
@@ -4021,8 +3969,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "castle",
     name: { de: "Schloss Krasiczyn", hu: "Krasiczyni várkastély", ro: "Castelul Krasiczyn", en: "Krasiczyn Castle"},
-    image: "/poi-images/poland-krasiczyn-castle-landmarks-v2.webp",
-    coords: [22.6502, 49.7766],
     coords: [22.6502, 49.7766],
     description: {
       de: "Ein Renaissance-Schloss, das für seine vier Ecktürme bekannt ist, die die göttliche, päpstliche, königliche und adlige Ordnung darstellen. Die Wände sind mit kunstvollem Sgraffito verziert.",
@@ -4257,8 +4203,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "palace",
     name: { de: "Palais Rogalin", hu: "Rogalini palota", ro: "Palatul Rogalin", en: "Rogalin Palace"},
-    image: "/poi-images/poland-rogalin-palace-landmarks-v2.webp",
-    coords: [16.9312, 52.2345],
     coords: [16.9312, 52.2345],
     description: {
       de: "Ein spätbarockes Palais, das für seinen Landschaftspark mit jahrhundertealten Eichen bekannt ist. Der Komplex umfasst eine bedeutende Gemäldegalerie mit Werken polnischer und internationaler Künstler.",
@@ -4349,8 +4293,6 @@ export const polandLandmarksV2: POI[] = [
     parent: "PL",
     type: "museum",
     name: { de: "Europäisches Zentrum der Solidarność", hu: "Európai Szolidaritás Központ", ro: "Centrul European de Solidaritate", en: "European Solidarity Centre"},
-    image: "/poi-images/poland-solidarity-centre-landmarks-v2.webp",
-    coords: [18.6493, 54.3606],
     coords: [18.6493, 54.3606],
     description: {
       de: "Ein modernes Museum in Danzig, das der Geschichte der Gewerkschaft Solidarność gewidmet ist. Die rostfarbene Fassade des Gebäudes erinnert an einen Schiffsrumpf und spiegelt die Lage auf der Werft wider.",
@@ -4397,7 +4339,6 @@ export const polandLandmarksV2: POI[] = [
     type: "landmark",
     name: { de: "Altes Rathaus Breslau", hu: "Wrocław-i városháza", ro: "Primăria Veche din Wrocław", en: "Wroclaw Old Town Hall"},
     image: "/poi-images/poland-wroclaw-town-hall-landmarks-v2.webp",
-    coords: [17.0322, 51.1095],
     coords: [17.0322, 51.1095],
     description: {
       de: "Ein gotisches Wahrzeichen im Zentrum des Breslauer Marktplatzes. Es besticht durch seine dekorative Ostfassade mit einer astronomischen Uhr und beherbergt heute das Stadtmuseum.",

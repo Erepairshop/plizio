@@ -413,7 +413,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-MO",
     coords: [-56.1645, -34.9011],
     name: { de: "Montevideo", hu: "Montevideo", ro: "Montevideo", en: "Montevideo"},
-    image: "/poi-images/montevideo-cities-v2.webp",
     description: {
       de: "Montevideo ist die Hauptstadt und größte Stadt Uruguays. Die Hafenstadt am Río de la Plata ist das politische, wirtschaftliche und kulturelle Zentrum des Landes.",
       hu: "Montevideo Uruguay fővárosa és legnagyobb városa. A Río de la Plata partján fekvő kikötőváros az ország politikai, gazdasági és kulturális központja.",
@@ -450,7 +449,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CA",
     coords: [-55.95, -34.8167],
     name: { de: "Ciudad de la Costa", hu: "Ciudad de la Costa", ro: "Ciudad de la Costa", en: "Ciudad de la Costa"},
-    image: "/poi-images/ciudad-de-la-costa-cities-v2.webp",
     description: {
       de: "Ciudad de la Costa ist eine wichtige Stadt im Departement CA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Ciudad de la Costa egy jelentős város Uruguay CA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -574,7 +572,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CA",
     coords: [-56.2167, -34.7167],
     name: { de: "Las Piedras", hu: "Las Piedras", ro: "Las Piedras", en: "Las Piedras"},
-    image: "/poi-images/las-piedras-cities-v2.webp",
     description: {
       de: "Las Piedras ist eine wichtige Stadt im Departement CA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Las Piedras egy jelentős város Uruguay CA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -622,7 +619,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CA",
     coords: [-55.95, -34.7167],
     name: { de: "Pando", hu: "Pando", ro: "Pando", en: "Pando"},
-    image: "/poi-images/pando-cities-v2.webp",
     description: {
       de: "Pando ist eine wichtige Stadt im Departement CA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Pando egy jelentős város Uruguay CA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -665,7 +661,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CA",
     coords: [-56.2236, -34.7617],
     name: { de: "La Paz", hu: "La Paz", ro: "La Paz", en: "La Paz"},
-    image: "/poi-images/la-paz-cities-v2.webp",
     description: {
       de: "La Paz ist eine wichtige Stadt im Departement CA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "La Paz egy jelentős város Uruguay CA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -1064,7 +1059,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CA",
     coords: [-56.2833, -34.5333],
     name: { de: "Canelones", hu: "Canelones", ro: "Canelones", en: "Canelones"},
-    image: "/poi-images/canelones-cities-v2.webp",
     description: {
       de: "Canelones ist die Hauptstadt des Departements CA in Uruguay und das administrative Zentrum der Region.",
       hu: "Canelones Uruguay CA megyéjének fővárosa és a régió adminisztratív központja.",
@@ -1146,7 +1140,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CA",
     coords: [-56.3833, -34.45],
     name: { de: "Santa Lucía", hu: "Santa Lucía", ro: "Santa Lucía", en: "Santa Lucía"},
-    image: "/poi-images/santa-lucia-cities-v2.webp",
     description: {
       de: "Santa Lucía ist eine wichtige Stadt im Departement CA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Santa Lucía egy jelentős város Uruguay CA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -1189,7 +1182,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CA",
     coords: [-56.2167, -34.6667],
     name: { de: "Progreso", hu: "Progreso", ro: "Progreso", en: "Progreso"},
-    image: "/poi-images/progreso-cities-v2.webp",
     description: {
       de: "Progreso ist eine wichtige Stadt im Departement CA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Progreso egy jelentős város Uruguay CA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -1277,7 +1269,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CA",
     coords: [-56.0333, -34.85],
     name: { de: "Paso Carrasco", hu: "Paso Carrasco", ro: "Paso Carrasco", en: "Paso Carrasco"},
-    image: "/poi-images/paso-carrasco-cities-v2.webp",
     description: {
       de: "Paso Carrasco ist eine wichtige Stadt im Departement CA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Paso Carrasco egy jelentős város Uruguay CA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -1365,7 +1356,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CA",
     coords: [-55.9833, -34.7667],
     name: { de: "Barros Blancos", hu: "Barros Blancos", ro: "Barros Blancos", en: "Barros Blancos"},
-    image: "/poi-images/barros-blancos-cities-v2.webp",
     description: {
       de: "Barros Blancos ist eine wichtige Stadt im Departement CA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Barros Blancos egy jelentős város Uruguay CA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -1569,7 +1559,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CA",
     coords: [-56.0667, -34.65],
     name: { de: "Sauce", hu: "Sauce", ro: "Sauce", en: "Sauce"},
-    image: "/poi-images/sauce-cities-v2.webp",
     description: {
       de: "Sauce ist eine wichtige Stadt im Departement CA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Sauce egy jelentős város Uruguay CA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -1657,7 +1646,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CA",
     coords: [-55.9667, -34.3],
     name: { de: "San Ramón", hu: "San Ramón", ro: "San Ramón", en: "San Ramón"},
-    image: "/poi-images/san-ramon-cities-v2.webp",
     description: {
       de: "San Ramón ist eine wichtige Stadt im Departement CA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "San Ramón egy jelentős város Uruguay CA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -1745,7 +1733,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CA",
     coords: [-55.8833, -34.55],
     name: { de: "San Jacinto", hu: "San Jacinto", ro: "San Jacinto", en: "San Jacinto"},
-    image: "/poi-images/san-jacinto-cities-v2.webp",
     description: {
       de: "San Jacinto ist eine wichtige Stadt im Departement CA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "San Jacinto egy jelentős város Uruguay CA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -1788,7 +1775,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CA",
     coords: [-56.1, -34.7333],
     name: { de: "Toledo", hu: "Toledo", ro: "Toledo", en: "Toledo"},
-    image: "/poi-images/toledo-cities-v2.webp",
     description: {
       de: "Toledo ist eine wichtige Stadt im Departement CA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Toledo egy jelentős város Uruguay CA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -2020,7 +2006,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CA",
     coords: [-55.7667, -34.7667],
     name: { de: "Atlantida", hu: "Atlantida", ro: "Atlantida", en: "Atlantida"},
-    image: "/poi-images/atlantida-cities-v2.webp",
     description: {
       de: "Atlantida ist eine wichtige Stadt im Departement CA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Atlantida egy jelentős város Uruguay CA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -2540,7 +2525,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-MA",
     coords: [-54.95, -34.9],
     name: { de: "Maldonado", hu: "Maldonado", ro: "Maldonado", en: "Maldonado"},
-    image: "/poi-images/maldonado-cities-v2.webp",
     description: {
       de: "Maldonado ist die Hauptstadt des Departements MA in Uruguay und das administrative Zentrum der Region.",
       hu: "Maldonado Uruguay MA megyéjének fővárosa és a régió adminisztratív központja.",
@@ -2802,7 +2786,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-MA",
     coords: [-54.95, -34.9667],
     name: { de: "Punta del Este", hu: "Punta del Este", ro: "Punta del Este", en: "Punta del Este"},
-    image: "/poi-images/punta-del-este-cities-v2.webp",
     description: {
       de: "Punta del Este ist eine wichtige Stadt im Departement MA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Punta del Este egy jelentős város Uruguay MA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -2845,7 +2828,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-MA",
     coords: [-54.9167, -34.8],
     name: { de: "San Carlos", hu: "San Carlos", ro: "San Carlos", en: "San Carlos"},
-    image: "/poi-images/san-carlos-cities-v2.webp",
     description: {
       de: "San Carlos ist eine wichtige Stadt im Departement MA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "San Carlos egy jelentős város Uruguay MA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -3028,7 +3010,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-MA",
     coords: [-55.2833, -34.8667],
     name: { de: "Piriápolis", hu: "Piriápolis", ro: "Piriápolis", en: "Piriápolis"},
-    image: "/poi-images/piriapolis-cities-v2.webp",
     description: {
       de: "Piriápolis ist eine wichtige Stadt im Departement MA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Piriápolis egy jelentős város Uruguay MA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -3188,7 +3169,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-MA",
     coords: [-55.2333, -34.8],
     name: { de: "Pan de Azúcar", hu: "Pan de Azúcar", ro: "Pan de Azúcar", en: "Pan de Azúcar"},
-    image: "/poi-images/pan-de-azucar-cities-v2.webp",
     description: {
       de: "Pan de Azúcar ist eine wichtige Stadt im Departement MA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Pan de Azúcar egy jelentős város Uruguay MA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -3231,7 +3211,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-MA",
     coords: [-54.75, -34.2],
     name: { de: "Aiguá", hu: "Aiguá", ro: "Aiguá", en: "Aiguá"},
-    image: "/poi-images/aigua-cities-v2.webp",
     description: {
       de: "Aiguá ist eine wichtige Stadt im Departement MA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Aiguá egy jelentős város Uruguay MA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -3274,7 +3253,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-SA",
     coords: [-57.9667, -31.3833],
     name: { de: "Salto", hu: "Salto", ro: "Salto", en: "Salto"},
-    image: "/poi-images/salto-cities-v2.webp",
     description: {
       de: "Salto ist die Hauptstadt des Departements SA in Uruguay und das administrative Zentrum der Region.",
       hu: "Salto Uruguay SA megyéjének fővárosa és a régió adminisztratív központja.",
@@ -3311,7 +3289,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-PA",
     coords: [-58.0833, -32.3167],
     name: { de: "Paysandú", hu: "Paysandú", ro: "Paysandú", en: "Paysandú"},
-    image: "/poi-images/paysandu-cities-v2.webp",
     description: {
       de: "Paysandú ist die Hauptstadt des Departements PA in Uruguay und das administrative Zentrum der Region.",
       hu: "Paysandú Uruguay PA megyéjének fővárosa és a régió adminisztratív központja.",
@@ -3348,7 +3325,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-PA",
     coords: [-57.2, -32.35],
     name: { de: "Guichón", hu: "Guichón", ro: "Guichón", en: "Guichón"},
-    image: "/poi-images/guichon-cities-v2.webp",
     description: {
       de: "Guichón ist eine wichtige Stadt im Departement PA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Guichón egy jelentős város Uruguay PA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -4480,7 +4456,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-RV",
     coords: [-55.55, -30.9],
     name: { de: "Rivera", hu: "Rivera", ro: "Rivera", en: "Rivera"},
-    image: "/poi-images/rivera-cities-v2.webp",
     description: {
       de: "Rivera ist die Hauptstadt des Departements RV in Uruguay und das administrative Zentrum der Region.",
       hu: "Rivera Uruguay RV megyéjének fővárosa és a régió adminisztratív központja.",
@@ -4517,7 +4492,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-RV",
     coords: [-55.75, -31.4],
     name: { de: "Tranqueras", hu: "Tranqueras", ro: "Tranqueras", en: "Tranqueras"},
-    image: "/poi-images/tranqueras-cities-v2.webp",
     description: {
       de: "Tranqueras ist eine wichtige Stadt im Departement RV in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Tranqueras egy jelentős város Uruguay RV megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -4560,7 +4534,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-RV",
     coords: [-55.4667, -31.4667],
     name: { de: "Minas de Corrales", hu: "Minas de Corrales", ro: "Minas de Corrales", en: "Minas de Corrales"},
-    image: "/poi-images/minas-de-corrales-cities-v2.webp",
     description: {
       de: "Minas de Corrales ist eine wichtige Stadt im Departement RV in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Minas de Corrales egy jelentős város Uruguay RV megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -4603,7 +4576,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-TA",
     coords: [-55.9833, -31.7333],
     name: { de: "Tacuarembó", hu: "Tacuarembó", ro: "Tacuarembó", en: "Tacuarembó"},
-    image: "/poi-images/tacuarembo-cities-v2.webp",
     description: {
       de: "Tacuarembó ist die Hauptstadt des Departements TA in Uruguay und das administrative Zentrum der Region.",
       hu: "Tacuarembó Uruguay TA megyéjének fővárosa és a régió adminisztratív központja.",
@@ -4640,7 +4612,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-TA",
     coords: [-56.5167, -32.8167],
     name: { de: "Paso de los Toros", hu: "Paso de los Toros", ro: "Paso de los Toros", en: "Paso de los Toros"},
-    image: "/poi-images/paso-de-los-toros-cities-v2.webp",
     description: {
       de: "Paso de los Toros ist eine wichtige Stadt im Departement TA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Paso de los Toros egy jelentős város Uruguay TA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -4683,7 +4654,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-TA",
     coords: [-55.3333, -32.6167],
     name: { de: "San Gregorio de Polanco", hu: "San Gregorio de Polanco", ro: "San Gregorio de Polanco", en: "San Gregorio de Polanco"},
-    image: "/poi-images/san-gregorio-de-polanco-cities-v2.webp",
     description: {
       de: "San Gregorio de Polanco ist eine wichtige Stadt im Departement TA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "San Gregorio de Polanco egy jelentős város Uruguay TA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -4951,7 +4921,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CL",
     coords: [-54.1833, -32.3667],
     name: { de: "Melo", hu: "Melo", ro: "Melo", en: "Melo"},
-    image: "/poi-images/melo-cities-v2.webp",
     description: {
       de: "Melo ist die Hauptstadt des Departements CL in Uruguay und das administrative Zentrum der Region.",
       hu: "Melo Uruguay CL megyéjének fővárosa és a régió adminisztratív központja.",
@@ -4988,7 +4957,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CL",
     coords: [-53.3833, -32.6],
     name: { de: "Río Branco", hu: "Río Branco", ro: "Río Branco", en: "Río Branco"},
-    image: "/poi-images/rio-branco-cities-v2.webp",
     description: {
       de: "Río Branco ist eine wichtige Stadt im Departement CL in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Río Branco egy jelentős város Uruguay CL megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -5018,7 +4986,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CL",
     coords: [-54.5333, -32.5167],
     name: { de: "Fraile Muerto", hu: "Fraile Muerto", ro: "Fraile Muerto", en: "Fraile Muerto"},
-    image: "/poi-images/fraile-muerto-cities-v2.webp",
     description: {
       de: "Fraile Muerto ist eine wichtige Stadt im Departement CL in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Fraile Muerto egy jelentős város Uruguay CL megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -5502,7 +5469,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-AR",
     coords: [-56.4667, -30.4],
     name: { de: "Artigas", hu: "Artigas", ro: "Artigas", en: "Artigas"},
-    image: "/poi-images/artigas-cities-v2.webp",
     description: {
       de: "Artigas ist die Hauptstadt des Departements AR in Uruguay und das administrative Zentrum der Region.",
       hu: "Artigas Uruguay AR megyéjének fővárosa és a régió adminisztratív központja.",
@@ -5620,7 +5586,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-AR",
     coords: [-57.6, -30.25],
     name: { de: "Bella Unión", hu: "Bella Unión", ro: "Bella Unión", en: "Bella Unión"},
-    image: "/poi-images/bella-union-cities-v2.webp",
     description: {
       de: "Bella Unión ist eine wichtige Stadt im Departement AR in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Bella Unión egy jelentős város Uruguay AR megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -5663,7 +5628,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-AR",
     coords: [-57.4333, -30.4167],
     name: { de: "Tomás Gomensoro", hu: "Tomás Gomensoro", ro: "Tomás Gomensoro", en: "Tomás Gomensoro"},
-    image: "/poi-images/tomas-gomensoro-cities-v2.webp",
     description: {
       de: "Tomás Gomensoro ist eine wichtige Stadt im Departement AR in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Tomás Gomensoro egy jelentős város Uruguay AR megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -5859,7 +5823,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-SO",
     coords: [-58.0333, -33.25],
     name: { de: "Mercedes", hu: "Mercedes", ro: "Mercedes", en: "Mercedes"},
-    image: "/poi-images/mercedes-cities-v2.webp",
     description: {
       de: "Mercedes ist die Hauptstadt des Departements SO in Uruguay und das administrative Zentrum der Region.",
       hu: "Mercedes Uruguay SO megyéjének fővárosa és a régió adminisztratív központja.",
@@ -5977,7 +5940,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-SO",
     coords: [-58.2167, -33.5333],
     name: { de: "Dolores", hu: "Dolores", ro: "Dolores", en: "Dolores"},
-    image: "/poi-images/dolores-cities-v2.webp",
     description: {
       de: "Dolores ist eine wichtige Stadt im Departement SO in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Dolores egy jelentős város Uruguay SO megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -6101,7 +6063,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-SO",
     coords: [-57.3833, -33.8667],
     name: { de: "Cardona", hu: "Cardona", ro: "Cardona", en: "Cardona"},
-    image: "/poi-images/cardona-cities-v2.webp",
     description: {
       de: "Cardona ist eine wichtige Stadt im Departement SO in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Cardona egy jelentős város Uruguay SO megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -6144,7 +6105,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-LA",
     coords: [-55.2333, -34.3667],
     name: { de: "Minas", hu: "Minas", ro: "Minas", en: "Minas"},
-    image: "/poi-images/minas-cities-v2.webp",
     description: {
       de: "Minas ist die Hauptstadt des Departements LA in Uruguay und das administrative Zentrum der Region.",
       hu: "Minas Uruguay LA megyéjének fővárosa és a régió adminisztratív központja.",
@@ -6181,7 +6141,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-LA",
     coords: [-54.5333, -33.45],
     name: { de: "José Pedro Varela", hu: "José Pedro Varela", ro: "José Pedro Varela", en: "José Pedro Varela"},
-    image: "/poi-images/jose-pedro-varela-cities-v2.webp",
     description: {
       de: "José Pedro Varela ist eine wichtige Stadt im Departement LA in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "José Pedro Varela egy jelentős város Uruguay LA megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -6413,7 +6372,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-SJ",
     coords: [-56.7167, -34.3333],
     name: { de: "San José de Mayo", hu: "San José de Mayo", ro: "San José de Mayo", en: "San José de Mayo"},
-    image: "/poi-images/san-jose-de-mayo-cities-v2.webp",
     description: {
       de: "San José de Mayo ist die Hauptstadt des Departements SJ in Uruguay und das administrative Zentrum der Region.",
       hu: "San José de Mayo Uruguay SJ megyéjének fővárosa és a régió adminisztratív központja.",
@@ -6495,7 +6453,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-SJ",
     coords: [-56.3833, -34.7667],
     name: { de: "Ciudad del Plata", hu: "Ciudad del Plata", ro: "Ciudad del Plata", en: "Ciudad del Plata"},
-    image: "/poi-images/ciudad-del-plata-cities-v2.webp",
     description: {
       de: "Ciudad del Plata ist eine wichtige Stadt im Departement SJ in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Ciudad del Plata egy jelentős város Uruguay SJ megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -6538,7 +6495,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-SJ",
     coords: [-56.6167, -34.6333],
     name: { de: "Libertad", hu: "Libertad", ro: "Libertad", en: "Libertad"},
-    image: "/poi-images/libertad-cities-v2.webp",
     description: {
       de: "Libertad ist eine wichtige Stadt im Departement SJ in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Libertad egy jelentős város Uruguay SJ megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -6581,7 +6537,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-SJ",
     coords: [-56.55, -34.3833],
     name: { de: "Rodríguez", hu: "Rodríguez", ro: "Rodríguez", en: "Rodríguez"},
-    image: "/poi-images/rodriguez-cities-v2.webp",
     description: {
       de: "Rodríguez ist eine wichtige Stadt im Departement SJ in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Rodríguez egy jelentős város Uruguay SJ megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -6957,7 +6912,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-DU",
     coords: [-56.5167, -33.3833],
     name: { de: "Durazno", hu: "Durazno", ro: "Durazno", en: "Durazno"},
-    image: "/poi-images/durazno-cities-v2.webp",
     description: {
       de: "Durazno ist die Hauptstadt des Departements DU in Uruguay und das administrative Zentrum der Region.",
       hu: "Durazno Uruguay DU megyéjének fővárosa és a régió adminisztratív központja.",
@@ -6994,7 +6948,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-DU",
     coords: [-55.5667, -33.35],
     name: { de: "Sarandí del Yí", hu: "Sarandí del Yí", ro: "Sarandí del Yí", en: "Sarandí del Yí"},
-    image: "/poi-images/sarandi-del-yi-cities-v2.webp",
     description: {
       de: "Sarandí del Yí ist eine wichtige Stadt im Departement DU in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Sarandí del Yí egy jelentős város Uruguay DU megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -7037,7 +6990,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-DU",
     coords: [-56.0333, -33.25],
     name: { de: "Villa del Carmen", hu: "Villa del Carmen", ro: "Villa del Carmen", en: "Villa del Carmen"},
-    image: "/poi-images/villa-del-carmen-cities-v2.webp",
     description: {
       de: "Villa del Carmen ist eine wichtige Stadt im Departement DU in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Villa del Carmen egy jelentős város Uruguay DU megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -7080,7 +7032,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-FD",
     coords: [-56.2167, -34.1],
     name: { de: "Florida", hu: "Florida", ro: "Florida", en: "Florida"},
-    image: "/poi-images/florida-cities-v2.webp",
     description: {
       de: "Florida ist die Hauptstadt des Departements FD in Uruguay und das administrative Zentrum der Region.",
       hu: "Florida Uruguay FD megyéjének fővárosa és a régió adminisztratív központja.",
@@ -7110,7 +7061,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-FD",
     coords: [-56.3333, -33.7333],
     name: { de: "Sarandí Grande", hu: "Sarandí Grande", ro: "Sarandí Grande", en: "Sarandí Grande"},
-    image: "/poi-images/sarandi-grande-cities-v2.webp",
     description: {
       de: "Sarandí Grande ist eine wichtige Stadt im Departement FD in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Sarandí Grande egy jelentős város Uruguay FD megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -7153,7 +7103,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-FD",
     coords: [-55.65, -34.1167],
     name: { de: "Casupá", hu: "Casupá", ro: "Casupá", en: "Casupá"},
-    image: "/poi-images/casupa-cities-v2.webp",
     description: {
       de: "Casupá ist eine wichtige Stadt im Departement FD in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Casupá egy jelentős város Uruguay FD megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -7457,7 +7406,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-TT",
     coords: [-54.3833, -33.2333],
     name: { de: "Treinta y Tres", hu: "Treinta y Tres", ro: "Treinta y Tres", en: "Treinta y Tres"},
-    image: "/poi-images/treinta-y-tres-cities-v2.webp",
     description: {
       de: "Treinta y Tres ist die Hauptstadt des Departements TT in Uruguay und das administrative Zentrum der Region.",
       hu: "Treinta y Tres Uruguay TT megyéjének fővárosa és a régió adminisztratív központja.",
@@ -7494,7 +7442,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-TT",
     coords: [-54.3667, -33.2333],
     name: { de: "Ejido de Treinta y Tres", hu: "Ejido de Treinta y Tres", ro: "Ejido de Treinta y Tres", en: "Ejido de Treinta y Tres"},
-    image: "/poi-images/ejido-de-treinta-y-tres-cities-v2.webp",
     description: {
       de: "Ejido de Treinta y Tres ist eine wichtige Stadt im Departement TT in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Ejido de Treinta y Tres egy jelentős város Uruguay TT megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -7537,7 +7484,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-TT",
     coords: [-53.9, -32.9333],
     name: { de: "Vergara", hu: "Vergara", ro: "Vergara", en: "Vergara"},
-    image: "/poi-images/vergara-cities-v2.webp",
     description: {
       de: "Vergara ist eine wichtige Stadt im Departement TT in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Vergara egy jelentős város Uruguay TT megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -7697,7 +7643,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-RO",
     coords: [-54.3333, -34.4833],
     name: { de: "Rocha", hu: "Rocha", ro: "Rocha", en: "Rocha"},
-    image: "/poi-images/rocha-cities-v2.webp",
     description: {
       de: "Rocha ist die Hauptstadt des Departements RO in Uruguay und das administrative Zentrum der Region.",
       hu: "Rocha Uruguay RO megyéjének fővárosa és a régió adminisztratív központja.",
@@ -7734,7 +7679,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-RO",
     coords: [-53.45, -33.6833],
     name: { de: "Chuy", hu: "Chuy", ro: "Chuy", en: "Chuy"},
-    image: "/poi-images/chuy-cities-v2.webp",
     description: {
       de: "Chuy ist eine wichtige Stadt im Departement RO in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Chuy egy jelentős város Uruguay RO megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -7777,7 +7721,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-RO",
     coords: [-53.8333, -34.1667],
     name: { de: "Castillos", hu: "Castillos", ro: "Castillos", en: "Castillos"},
-    image: "/poi-images/castillos-cities-v2.webp",
     description: {
       de: "Castillos ist eine wichtige Stadt im Departement RO in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Castillos egy jelentős város Uruguay RO megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -7820,7 +7763,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-RO",
     coords: [-54.2, -33.6667],
     name: { de: "Lascano", hu: "Lascano", ro: "Lascano", en: "Lascano"},
-    image: "/poi-images/lascano-cities-v2.webp",
     description: {
       de: "Lascano ist eine wichtige Stadt im Departement RO in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Lascano egy jelentős város Uruguay RO megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -8016,7 +7958,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-RO",
     coords: [-54.1667, -34.6667],
     name: { de: "La Paloma", hu: "La Paloma", ro: "La Paloma", en: "La Paloma"},
-    image: "/poi-images/la-paloma-cities-v2.webp",
     description: {
       de: "La Paloma ist eine wichtige Stadt im Departement RO in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "La Paloma egy jelentős város Uruguay RO megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -8320,7 +8261,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CO",
     coords: [-57.8333, -34.4667],
     name: { de: "Colonia del Sacramento", hu: "Colonia del Sacramento", ro: "Colonia del Sacramento", en: "Colonia del Sacramento"},
-    image: "/poi-images/colonia-del-sacramento-cities-v2.webp",
     description: {
       de: "Colonia del Sacramento ist die Hauptstadt des Departements CO in Uruguay und das administrative Zentrum der Region.",
       hu: "Colonia del Sacramento Uruguay CO megyéjének fővárosa és a régió adminisztratív központja.",
@@ -8357,7 +8297,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CO",
     coords: [-58.2833, -34.0],
     name: { de: "Carmelo", hu: "Carmelo", ro: "Carmelo", en: "Carmelo"},
-    image: "/poi-images/carmelo-cities-v2.webp",
     description: {
       de: "Carmelo ist eine wichtige Stadt im Departement CO in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Carmelo egy jelentős város Uruguay CO megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -8561,7 +8500,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CO",
     coords: [-57.2333, -34.3],
     name: { de: "Nueva Helvecia", hu: "Nueva Helvecia", ro: "Nueva Helvecia", en: "Nueva Helvecia"},
-    image: "/poi-images/nueva-helvecia-cities-v2.webp",
     description: {
       de: "Nueva Helvecia ist eine wichtige Stadt im Departement CO in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Nueva Helvecia egy jelentős város Uruguay CO megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -8649,7 +8587,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CO",
     coords: [-57.35, -34.3167],
     name: { de: "Rosario", hu: "Rosario", ro: "Rosario", en: "Rosario"},
-    image: "/poi-images/rosario-cities-v2.webp",
     description: {
       de: "Rosario ist eine wichtige Stadt im Departement CO in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Rosario egy jelentős város Uruguay CO megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -8809,7 +8746,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CO",
     coords: [-58.4167, -33.8833],
     name: { de: "Nueva Palmira", hu: "Nueva Palmira", ro: "Nueva Palmira", en: "Nueva Palmira"},
-    image: "/poi-images/nueva-palmira-cities-v2.webp",
     description: {
       de: "Nueva Palmira ist eine wichtige Stadt im Departement CO in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Nueva Palmira egy jelentős város Uruguay CO megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -8852,7 +8788,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-CO",
     coords: [-57.6167, -34.2833],
     name: { de: "Tarariras", hu: "Tarariras", ro: "Tarariras", en: "Tarariras"},
-    image: "/poi-images/tarariras-cities-v2.webp",
     description: {
       de: "Tarariras ist eine wichtige Stadt im Departement CO in Uruguay, bekannt für ihre Rolle in der regionalen Wirtschaft.",
       hu: "Tarariras egy jelentős város Uruguay CO megyéjében, amely fontos szerepet játszik a régió gazdaságában.",
@@ -8940,7 +8875,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-RN",
     coords: [-58.3, -33.1333],
     name: { de: "Fray Bentos", hu: "Fray Bentos", ro: "Fray Bentos", en: "Fray Bentos"},
-    image: "/poi-images/fray-bentos-cities-v2.webp",
     description: {
       de: "Fray Bentos ist die Hauptstadt des Departements RN in Uruguay und das administrative Zentrum der Region.",
       hu: "Fray Bentos Uruguay RN megyéjének fővárosa és a régió adminisztratív központja.",
@@ -9066,7 +9000,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     parent: "UY-FS",
     coords: [-56.9, -33.5167],
     name: { de: "Trinidad", hu: "Trinidad", ro: "Trinidad", en: "Trinidad"},
-    image: "/poi-images/trinidad-cities-v2.webp",
     description: {
       de: "Trinidad ist die Hauptstadt des Departements FS in Uruguay und das administrative Zentrum der Region.",
       hu: "Trinidad Uruguay FS megyéjének fővárosa és a régió adminisztratív központja.",

@@ -197,7 +197,6 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     parent: "SA-03",
     coords: [37.9496, 26.7915],
     name: { de: "Hegra", hu: "Hegra", ro: "Hegra", en: "Hegra"},
-    image: "/poi-images/hegra-history-v2.webp",
     description: { de: "Eine antike Stadt der Nabatäer mit beeindruckenden Felsengräbern.", hu: "Egy ősi nabateus város lenyűgöző sziklasírokkal.", ro: "Un oraș antic nabateean cu morminte impresionante săpate în stâncă.", en: "An ancient Nabataean city with impressive rock-cut tombs." , es: "Una antigua ciudad nabatea con impresionantes tumbas rupestres.", pt: "Uma antiga cidade nabateia com impressionantes túmulos rupestres.", fr: "Une cité antique nabatéenne avec d'impressionnantes tombes rupestres."},
     facts: {
       de: ["Erstes UNESCO-Welterbe Saudi-Arabiens.", "Im 1. Jahrhundert erbaut."],
@@ -313,7 +312,6 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     parent: "SA-01",
     coords: [46.7133, 24.6311],
     name: { de: "Masmak-Festung", hu: "Masmak erőd", ro: "Fortăreața Masmak", en: "Masmak Fortress"},
-    image: "/poi-images/masmak-fortress-history-v2.webp",
     description: { de: "Eine historische Lehm- und Ziegelsteinfestung im Zentrum von Riad.", hu: "Egy történelmi agyag- és téglaerőd Rijád központjában.", ro: "O fortăreață istorică din lut și cărămidă în centrul orașului Riad.", en: "A historical clay and mud-brick fort in the center of Riyadh." , es: "Una fortaleza histórica de adobe y ladrillo en el centro de Riad.", pt: "Uma fortaleza histórica de adobe e tijolo no centro de Riade.", fr: "Une forteresse historique en adobe et brique au centre de Riyad."},
     facts: {
       de: ["Wurde 1865 erbaut.", "Wichtig für die Gründung Saudi-Arabiens."],
@@ -501,7 +499,6 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     parent: "SA-01",
     coords: [46.5744, 24.7347],
     name: { de: "At-Turaif in Diriyya", hu: "At-Turaif (Diríja)", ro: "At-Turaif (Diriyah)", en: "At-Turaif in Diriyah"},
-    image: "/poi-images/at-turaif-diriyah-history-v2.webp",
     description: { de: "Die ursprüngliche Heimat der königlichen Familie Saudi-Arabiens.", hu: "A szaúdi királyi család eredeti otthona.", ro: "Casa originală a familiei regale din Arabia Saudită.", en: "The original home of the Saudi royal family." , es: "El hogar original de la familia real de Arabia Saudita.", pt: "O lar original da família real da Arábia Saudita.", fr: "Le foyer originel de la famille royale d'Arabie saoudite."},
     facts: {
       de: ["Gegründet im 15. Jahrhundert.", "UNESCO-Welterbe seit 2010."],
@@ -797,7 +794,6 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     parent: "SA-03",
     coords: [37.9294, 26.6166],
     name: { de: "Altstadt von Al-Ula", hu: "Al-Ula óvárosa", ro: "Orașul vechi Al-Ula", en: "Al-Ula Old Town"},
-    image: "/poi-images/al-ula-old-town-history-v2.webp",
     description: { de: "Eine alte Oasenstadt mit verlassenen Lehmziegelhäusern.", hu: "Egy régi oázisváros elhagyatott vályogtéglás házakkal.", ro: "Un vechi oraș oază cu case de cărămidă din lut abandonate.", en: "An ancient oasis town with abandoned mud-brick houses." , es: "Una antigua ciudad oasis con casas de adobe abandonadas.", pt: "Uma antiga cidade oásis com casas de adobe abandonadas.", fr: "Une ancienne ville oasis avec des maisons en briques de boue abandonnées."},
     facts: {
       de: ["Bewohnt vom 12. bis zum 20. Jahrhundert.", "Wichtiger Halt auf der Weihrauchstraße."],
@@ -1309,7 +1305,6 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     parent: "SA-03",
     coords: [39.6175, 24.4391],
     name: { de: "Qubāʾ-Moschee", hu: "Kuba-mecset", ro: "Moscheea Quba", en: "Quba Mosque"},
-    image: "/poi-images/quba-mosque-history-v2.webp",
     description: { de: "Die erste jemals erbaute Moschee, gegründet vom Propheten Mohammed.", hu: "A valaha épült első mecset, amelyet Mohamed próféta alapított.", ro: "Prima moschee construită vreodată, fondată de profetul Mahomed.", en: "The first mosque ever built, founded by the Prophet Muhammad." , es: "La primera mezquita construida, fundada por el Profeta Mahoma.", pt: "A primeira mesquita construída, fundada pelo Profeta Maomé.", fr: "La première mosquée construite, fondée par le Prophète Mahomet."},
     facts: {
       de: ["Erbaut im Jahr 622.", "Befindet sich in Medina."],
@@ -2253,7 +2248,6 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     parent: "SA-03",
     coords: [39.6105, 24.5025],
     name: { de: "Schlachtfeld von Uhud", hu: "Uhudi csatatér", ro: "Câmpul de luptă de la Uhud", en: "Uhud Battlefield"},
-    image: "/poi-images/uhud-battlefield-history-v2.webp",
     description: { de: "Der Ort der berühmten Schlacht von Uhud zwischen frühen Muslimen und den Quraisch.", hu: "A híres uhudi csata helyszíne a korai muszlimok és a kurajs törzs között.", ro: "Locul faimoasei bătălii de la Uhud dintre primii musulmani și tribul Quraysh.", en: "The site of the famous Battle of Uhud between early Muslims and the Quraysh." , es: "El lugar de la famosa Batalla de Uhud entre los primeros musulmanes y los Quraish.", pt: "O local da famosa Batalha de Uhud entre os primeiros muçulmanos e os Quraish.", fr: "Le lieu de la célèbre bataille d'Uhud entre les premiers musulmans et les Quraish."},
     facts: {
       de: ["Die Schlacht fand 625 statt.", "Ein wichtiger historischer Ort im Islam."],
@@ -3233,7 +3227,6 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     parent: "SA-02",
     coords: [39.1833, 21.4833],
     name: { de: "Historisches Dschidda (Al-Balad)", hu: "Történelmi Dzsidda (Al-Balad)", ro: "Jeddah Istoric (Al-Balad)", en: "Historic Jeddah (Al-Balad)"},
-    image: "/poi-images/al-balad-jeddah-history-v2.webp",
     description: { de: "Das historische Zentrum von Dschidda, bekannt für traditionelle Korallenhäuser.", hu: "Dzsidda történelmi központja, amely hagyományos korallházairól ismert.", ro: "Centrul istoric al orașului Jeddah, cunoscut pentru casele tradiționale din corali.", en: "The historical center of Jeddah, known for traditional coral houses." , es: "El centro histórico de Yeda, famoso por sus casas tradicionales de coral.", pt: "O centro histórico de Jeddah, conhecido pelas suas casas de coral tradicionais.", fr: "Le centre historique de Djeddah, connu pour ses maisons en corail traditionnelles."},
     facts: {
       de: ["Gegründet im 7. Jahrhundert.", "UNESCO-Welterbe seit 2014."],
@@ -3349,7 +3342,6 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     parent: "SA-04",
     coords: [50.0075, 26.5647],
     name: { de: "Burg von Qatif", hu: "Katif vára", ro: "Castelul Qatif", en: "Qatif Castle"},
-    image: "/poi-images/qatif-castle-history-v2.webp",
     description: { de: "Die Überreste einer riesigen Burg in der Oase von Qatif.", hu: "Egy hatalmas vár romjai a katifi oázisban.", ro: "Ruinele unui castel uriaș în oaza Qatif.", en: "The remains of a massive castle in the Qatif oasis." , es: "Los restos de una enorme fortaleza en el oasis de Qatif.", pt: "Os restos de uma enorme fortaleza no oásis de Qatif.", fr: "Les vestiges d'une immense forteresse dans l'oasis de Qatif."},
     facts: {
       de: ["Erbaut im 3. Jahrhundert.", "Zerstört in den 1980er Jahren, nur Reste existieren."],
@@ -3681,7 +3673,6 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     parent: "SA-04",
     coords: [50.0544, 26.5727],
     name: { de: "Burg Tarut", hu: "Tárút vára", ro: "Castelul Tarut", en: "Tarout Castle"},
-    image: "/poi-images/tarout-castle-history-v2.webp",
     description: { de: "Eine alte Festung auf der Insel Tarut, die auf phönizischen Ruinen erbaut wurde.", hu: "Egy ősi erőd a Tárút-szigeten, amelyet föníciai romokra építettek.", ro: "O veche fortăreață pe insula Tarut, construită pe ruine feniciene.", en: "An ancient fortress on Tarout Island built over Phoenician ruins." , es: "Una antigua fortaleza en la isla de Tarut, construida sobre ruinas fenicias.", pt: "Uma antiga fortaleza na ilha de Tarut, construída sobre ruínas fenícias.", fr: "Une ancienne forteresse sur l'île de Tarut, construite sur des ruines phéniciennes."},
     facts: {
       de: ["Erbaut im 16. Jahrhundert durch die Portugiesen.", "Auf über 5000 Jahre alten Fundamenten."],
@@ -3797,7 +3788,6 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     parent: "SA-06",
     coords: [41.6883, 27.5147],
     name: { de: "A'arif-Festung", hu: "A'arif erőd", ro: "Fortăreața A'arif", en: "A'arif Fort"},
-    image: "/poi-images/aarif-fort-history-v2.webp",
     description: { de: "Die älteste historische Burg in der Stadt Ha'il, die zur Verteidigung genutzt wurde.", hu: "A legrégebbi történelmi vár Háíl városában, amelyet védekezésre használtak.", ro: "Cel mai vechi castel istoric din orașul Ha'il, folosit pentru apărare.", en: "The oldest historical castle in the city of Ha'il, used for defense." , es: "El castillo histórico más antiguo de la ciudad de Ha'il, utilizado para la defensa.", pt: "O castelo histórico mais antigo da cidade de Ha'il, usado para defesa.", fr: "Le plus ancien château historique de la ville de Ha'il, utilisé à des fins de défense."},
     facts: {
       de: ["Erbaut vor etwa 200 Jahren.", "Diente früher als Beobachtungsposten."],
@@ -3949,7 +3939,6 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     parent: "SA-06",
     coords: [41.6917, 27.5258],
     name: { de: "Barzan-Palast", hu: "Barzan-palota", ro: "Palatul Barzan", en: "Barzan Palace"},
-    image: "/poi-images/barzan-palace-history-v2.webp",
     description: { de: "Ein historischer Palast, der der Familie Al Rashid gehörte.", hu: "Egy történelmi palota, amely az Al Rasíd családé volt.", ro: "Un palat istoric care a aparținut familiei Al Rashid.", en: "A historic palace that belonged to the Al Rashid family." , es: "Un palacio histórico que perteneció a la familia Al Rashid.", pt: "Um palácio histórico que pertenceu à família Al Rashid.", fr: "Un palais historique ayant appartenu à la famille Al Rashid."},
     facts: {
       de: ["Erbaut im Jahr 1808.", "Fast vollständig in den 1920er Jahren zerstört."],
@@ -3984,7 +3973,6 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     parent: "SA-06",
     coords: [40.9238, 28.0263],
     name: { de: "Felszeichnungen von Jubbah", hu: "Jubbah sziklarajzai", ro: "Arta rupestră din Jubbah", en: "Jubbah Rock Art"},
-    image: "/poi-images/jubbah-rock-art-history-v2.webp",
     description: { de: "Eine der größten Sammlungen prä-islamischer Felskunst im Nahen Osten.", hu: "A Közel-Kelet egyik legnagyobb iszlám előtti sziklaművészeti gyűjteménye.", ro: "Una dintre cele mai mari colecții de artă rupestră pre-islamică din Orientul Mijlociu.", en: "One of the largest collections of pre-Islamic rock art in the Middle East." , es: "Una de las mayores colecciones de arte rupestre preislámico en Oriente Medio.", pt: "Uma das maiores coleções de arte rupestre pré-islâmica no Médio Oriente.", fr: "L'une des plus grandes collections d'art rupestre préislamique au Moyen-Orient."},
     facts: {
       de: ["UNESCO-Welterbe seit 2015.", "Stammt aus der Zeit um 5500 v. Chr."],
@@ -4100,7 +4088,6 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     parent: "SA-12",
     coords: [39.8661, 29.8130],
     name: { de: "Omar-ibn-al-Chattab-Moschee", hu: "Omár ibn al-Hattáb mecset", ro: "Moscheea Omar ibn al-Khattab", en: "Omar ibn al-Khattab Mosque"},
-    image: "/poi-images/omar-mosque-dumat-history-v2.webp",
     description: { de: "Eine der ältesten noch stehenden historischen Moscheen auf der Arabischen Halbinsel.", hu: "Az egyik legrégebbi máig fennmaradt történelmi mecset az Arab-félszigeten.", ro: "Una dintre cele mai vechi moschei istorice încă în picioare din Peninsula Arabică.", en: "One of the oldest historical mosques still standing in the Arabian Peninsula." , es: "Una de las mezquitas históricas más antiguas que aún existen en la Península Arábiga.", pt: "Uma das mesquitas históricas mais antigas ainda existentes na Península Arábica.", fr: "L'une des plus anciennes mosquées historiques encore debout dans la péninsule arabique."},
     facts: {
       de: ["Erbaut im Jahr 638.", "Das Minarett ist fast 13 Meter hoch."],
@@ -4432,7 +4419,6 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     parent: "SA-10",
     coords: [44.1533, 17.4727],
     name: { de: "Archäologische Stätte Al-Ukhdud", hu: "Al-Uhdúd régészeti lelőhely", ro: "Situl arheologic Al-Ukhdud", en: "Al-Ukhdud Archaeological Site"},
-    image: "/poi-images/al-ukhdud-history-v2.webp",
     description: { de: "Ruinen einer alten himjaritischen Stadt mit einer tragischen Geschichte von christlichen Märtyrern.", hu: "Egy ősi himjarita város romjai keresztény vértanúk tragikus történetével.", ro: "Ruinele unui antic oraș himyarit, cu o poveste tragică a martirilor creștini.", en: "Ruins of an ancient Himyarite city with a tragic history of Christian martyrs." , es: "Ruinas de una antigua ciudad himyarita con una trágica historia de mártires cristianos.", pt: "Ruínas de uma antiga cidade himiarita com uma trágica história de mártires cristãos.", fr: "Ruines d'une ancienne cité himyarite avec une histoire tragique de martyrs chrétiens."},
     facts: {
       de: ["Bewohnt vom 6. Jahrhundert v. Chr.", "Der Ort ist im Koran erwähnt."],
@@ -4467,7 +4453,6 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     parent: "SA-07",
     coords: [37.4911, 27.5308],
     name: { de: "Burg von Al-Muazzam", hu: "Al-Muazzam vára", ro: "Castelul Al-Muazzam", en: "Qal'at al-Muazzam"},
-    image: "/poi-images/al-muazzam-fort-history-v2.webp",
     description: { de: "Eine wichtige osmanische Festung entlang der historischen Hajj-Pilgerroute.", hu: "Fontos oszmán erőd a történelmi Hajj zarándokút mentén.", ro: "O importantă fortăreață otomană de-a lungul rutei istorice de pelerinaj Hajj.", en: "An important Ottoman fort along the historical Hajj pilgrimage route." , es: "Una importante fortaleza otomana situada a lo largo de la histórica ruta de peregrinación del Hajj.", pt: "Uma importante fortaleza otomana situada ao longo da histórica rota de peregrinação do Hajj.", fr: "Une importante forteresse ottomane située le long de la route historique de pèlerinage du Hajj."},
     facts: {
       de: ["Erbaut im Jahr 1622.", "Diente zum Schutz der Pilger und Wasserquellen."],
@@ -4583,7 +4568,6 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     parent: "SA-07",
     coords: [36.5714, 28.3844],
     name: { de: "Burg von Tabuk", hu: "Tabúk vára", ro: "Castelul Tabuk", en: "Tabuk Castle"},
-    image: "/poi-images/tabuk-castle-history-v2.webp",
     description: { de: "Eine alte Burg aus dem 16. Jahrhundert, jetzt ein archäologisches Museum.", hu: "Egy 16. századi régi vár, amely ma régészeti múzeumként működik.", ro: "Un castel vechi din secolul al XVI-lea, acum muzeu arheologic.", en: "An ancient 16th-century castle, now functioning as an archaeological museum." , es: "Una antigua fortaleza del siglo XVI, ahora un museo arqueológico.", pt: "Uma antiga fortaleza do século XVI, agora um museu arqueológico.", fr: "Une ancienne forteresse du XVIe siècle, devenue musée archéologique."},
     facts: {
       de: ["Erbaut im Jahr 1559.", "Hat eine eigene Moschee im Inneren."],
@@ -4699,7 +4683,6 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     parent: "SA-02",
     coords: [40.5986, 21.4328],
     name: { de: "Souq Okaz", hu: "Szúk Okáz", ro: "Souq Okaz", en: "Souq Okaz"},
-    image: "/poi-images/souq-okaz-history-v2.webp",
     description: { de: "Einer der berühmtesten Märkte im vorislamischen Arabien, wo sich Dichter trafen.", hu: "Az iszlám előtti Arábia egyik leghíresebb piaca, ahol a költők találkoztak.", ro: "Una dintre cele mai faimoase piețe din Arabia pre-islamică, unde se întâlneau poeții.", en: "One of the most famous markets in pre-Islamic Arabia where poets gathered." , es: "Uno de los mercados más famosos de la Arabia preislámica, donde se reunían los poetas.", pt: "Um dos mercados mais famosos da Arábia pré-islâmica, onde os poetas se reuniam.", fr: "L'un des marchés les plus célèbres de l'Arabie préislamique, où les poètes se réunissaient."},
     facts: {
       de: ["War im 6. Jahrhundert aktiv.", "Jährlich fand ein Poesiewettbewerb statt."],

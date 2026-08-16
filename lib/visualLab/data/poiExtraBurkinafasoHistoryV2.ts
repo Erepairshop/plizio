@@ -8,7 +8,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-09",
     coords: [-3.5333, 10.3],
     name: { de: "Ruinen von Loropéni", hu: "Loropéni romjai", ro: "Ruinele din Loropéni", en: "Ruins of Loropéni"},
-    image: "/poi-images/ruines-de-loropeni-history-v2.webp",
     description: { de: "Antike Steinruinen, die von einer alten Goldhandel-Zivilisation zeugen.", hu: "Ősi kőromok, amelyek egy egykori aranykereskedő civilizációról tanúskodnak.", ro: "Ruine antice de piatră care stau mărturie unei vechi civilizații a comerțului cu aur.", en: "Ancient stone ruins testifying to a past gold-trading civilization." , es: "Antiguas ruinas de piedra que atestiguan una vieja civilización del comercio de oro.", pt: "Antigas ruínas de pedra que testemunham uma velha civilização do comércio de ouro.", fr: "Ruines antiques en pierre témoignant d'une ancienne civilisation du commerce de l'or."},
     facts: {
       de: ["UNESCO-Weltkulturerbe.", "Mit dem Transsahara-Goldhandel verbunden."],
@@ -88,7 +87,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-09",
     coords: [-4.2961, 11.1772],
     name: { de: "Große Moschee von Bobo-Dioulasso", hu: "Bobo-Dioulasso Nagymecset", ro: "Marea Moschee din Bobo-Dioulasso", en: "Grand Mosque of Bobo-Dioulasso"},
-    image: "/poi-images/bobo-dioulasso-grand-mosque-history-v2.webp",
     description: { de: "Ein hervorragendes Beispiel sudanesisch-sahelischer Lehmarchitektur.", hu: "A szudáni-száheli vályogépítészet kiemelkedő példája.", ro: "Un exemplu excelent de arhitectură din noroi sudanezo-saheliană.", en: "An outstanding example of Sudano-Sahelian mud architecture." , es: "Un excelente ejemplo de la arquitectura de barro sudano-saheliana.", pt: "Um excelente exemplo da arquitetura de barro sudanesa-saheliana.", fr: "Un excellent exemple d'architecture de terre soudano-sahélienne."},
     facts: {
       de: ["Ende des 19. Jahrhunderts erbaut.", "Besteht hauptsächlich aus Lehm und Holz."],
@@ -204,7 +202,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-05",
     coords: [-0.9633, 11.0967],
     name: { de: "Königshof von Tiébélé", hu: "Tiébélé Királyi Udvara", ro: "Curtea Regală din Tiébélé", en: "Royal Court of Tiébélé"},
-    image: "/poi-images/cour-royale-tiebele-history-v2.webp",
     description: { de: "Traditionelle bemalte Häuser des Kassena-Volkes.", hu: "A kassena nép hagyományos festett házai.", ro: "Case tradiționale pictate ale poporului Kassena.", en: "Traditional painted houses of the Kassena people." , es: "Casas tradicionales pintadas del pueblo Kassena.", pt: "Casas tradicionais pintadas do povo Kassena.", fr: "Maisons peintes traditionnelles du peuple Kassena."},
     facts: {
       de: ["Wurde im 16. Jahrhundert gegründet.", "Bekannt für aufwendige Wandmalereien."],
@@ -392,7 +389,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-03",
     coords: [-1.5333, 12.3686],
     name: { de: "Palast des Moro Naba", hu: "Moro Naba Palota", ro: "Palatul Moro Naba", en: "Moro Naba Palace"},
-    image: "/poi-images/palais-du-moro-naba-history-v2.webp",
     description: { de: "Die traditionelle Residenz des Königs des Mossi-Reiches.", hu: "A mosszi birodalom királyának hagyományos rezidenciája.", ro: "Reședința tradițională a regelui imperiului Mossi.", en: "The traditional residence of the king of the Mossi Empire." , es: "La residencia tradicional del rey del Imperio Mossi.", pt: "A residência tradicional do rei do Império Mossi.", fr: "La résidence traditionnelle du roi de l'Empire Mossi."},
     facts: {
       de: ["Zentrum der Mossi-Kultur.", "Ort wöchentlicher traditioneller Zeremonien."],
@@ -427,7 +423,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-02",
     coords: [-5.1667, 10.6667],
     name: { de: "Historisches Refugium der Sindou-Gipfel", hu: "Sindou-csúcsok történelmi menedéke", ro: "Refugiul istoric de la Vârfurile Sindou", en: "Sindou Peaks Historical Refuge"},
-    image: "/poi-images/sindou-peaks-refuge-history-v2.webp",
     description: { de: "Zackige Felsformationen, die den lokalen Stämmen als historischer Schutzort dienten.", hu: "Csipkézett sziklaalakzatok, amelyek történelmi menedékhelyként szolgáltak a helyi törzseknek.", ro: "Formațiuni stâncoase zimțate care au servit drept refugiu istoric pentru triburile locale.", en: "Jagged rock formations that served as a historical place of refuge for local tribes." , es: "Formaciones rocosas dentadas que servían como refugio histórico a las tribus locales.", pt: "Formações rochosas dentadas que serviam como refúgio histórico às tribos locais.", fr: "Formations rocheuses déchiquetées ayant servi de refuge historique aux tribus locales."},
     facts: {
       de: ["Geologische Wunder mit historischen Spuren.", "Wurde während kriegerischer Konflikte genutzt."],
@@ -507,7 +502,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-09",
     coords: [-4.2167, 11.1667],
     name: { de: "Koro-Felsendorf", hu: "Koro sziklafalu", ro: "Satul de stâncă Koro", en: "Koro Rock Village"},
-    image: "/poi-images/koro-village-rocks-history-v2.webp",
     description: { de: "Ein historisches Dorf, das eindrucksvoll auf Granitfelsen erbaut wurde.", hu: "Egy történelmi falu, amely lenyűgöző módon gránitsziklákra épült.", ro: "Un sat istoric construit impresionant pe stânci de granit.", en: "A historical village impressively built on granite rocks." , es: "Una aldea histórica construida de forma impresionante sobre rocas de granito.", pt: "Uma aldeia histórica construída de forma impressionante sobre rochas de granito.", fr: "Un village historique impressionnant construit sur des rochers de granit."},
     facts: {
       de: ["Zeigt traditionelle Bobo-Architektur.", "Bietet historische Verteidigungsstrukturen."],
@@ -587,7 +581,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-10",
     coords: [-2.4167, 13.5833],
     name: { de: "Palast des Yatenga Naaba", hu: "Yatenga Naaba Palota", ro: "Palatul Yatenga Naaba", en: "Yatenga Naaba Palace"},
-    image: "/poi-images/ouahigouya-naaba-palace-history-v2.webp",
     description: { de: "Die Residenz der traditionellen Könige des Yatenga-Reiches.", hu: "A Yatenga királyság hagyományos királyainak rezidenciája.", ro: "Reședința regilor tradiționali ai regatului Yatenga.", en: "The residence of the traditional kings of the Yatenga kingdom." , es: "La residencia de los reyes tradicionales del Reino de Yatenga.", pt: "A residência dos reis tradicionais do Reino de Yatenga.", fr: "La résidence des rois traditionnels du Royaume du Yatenga."},
     facts: {
       de: ["Historisches Zentrum der Mossi-Macht im Norden.", "Spielt eine Rolle bei lokalen Festen."],
@@ -622,7 +615,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-02",
     coords: [-5.3833, 10.7667],
     name: { de: "Ruinen von Niansogoni", hu: "Niansogoni romjai", ro: "Ruinele din Niansogoni", en: "Ruins of Niansogoni"},
-    image: "/poi-images/niansogoni-ruins-history-v2.webp",
     description: { de: "Verlassene historische Höhlendörfer im Südwesten des Landes.", hu: "Elhagyott történelmi barlangfalvak az ország délnyugati részén.", ro: "Sate rupestre istorice abandonate în sud-vestul țării.", en: "Abandoned historical cave villages in the southwest of the country." , es: "Aldeas históricas en cuevas abandonadas en el suroeste del país.", pt: "Aldeias históricas em cavernas abandonadas no sudoeste do país.", fr: "Anciens villages troglodytiques abandonnés dans le sud-ouest du pays."},
     facts: {
       de: ["Befindet sich nahe der Grenze zu Mali.", "Bewahrt Überreste alter Getreidespeicher."],
@@ -657,7 +649,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-12",
     coords: [-0.8667, 14.2333],
     name: { de: "Petroglyphen von Arbinda", hu: "Arbinda sziklarajzai", ro: "Petroglifele din Arbinda", en: "Arbinda Petroglyphs"},
-    image: "/poi-images/arbinda-petroglyphs-history-v2.webp",
     description: { de: "Bedeutende prähistorische Felsgravuren, die tierische und menschliche Figuren darstellen.", hu: "Jelentős történelem előtti sziklafaragások, amelyek állati és emberi alakokat ábrázolnak.", ro: "Gravuri rupestre preistorice importante reprezentând figuri animale și umane.", en: "Significant prehistoric rock engravings depicting animal and human figures." , es: "Grabados rupestres prehistóricos significativos que representan figuras animales y humanas.", pt: "Gravuras rupestres pré-históricas significativas que representam figuras animais e humanas.", fr: "Importantes gravures rupestres préhistoriques représentant des figures animales et humaines."},
     facts: {
       de: ["Eine der wichtigsten archäologischen Stätten.", "Zeigt längst verschwundene Tierarten der Region."],
@@ -737,7 +728,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-12",
     coords: [-1.75, 13.8833],
     name: { de: "Felskunst von Pobé-Mengao", hu: "Pobé-Mengao sziklaművészete", ro: "Arta rupestră din Pobé-Mengao", en: "Pobé-Mengao Rock Art"},
-    image: "/poi-images/pobe-mengao-rock-art-history-v2.webp",
     description: { de: "Alte Gravuren und Hügelgräber, die auf frühe Besiedlung hinweisen.", hu: "Ősi metszetek és halomsírok, amelyek korai betelepülésre utalnak.", ro: "Gravuri antice și tumuli care indică o așezare timpurie.", en: "Ancient engravings and burial mounds indicating early settlement." , es: "Grabados antiguos y túmulos que indican un asentamiento temprano.", pt: "Gravuras antigas e túmulos que indicam um povoamento precoce.", fr: "Anciennes gravures et tumulus témoignant d'un peuplement précoce."},
     facts: {
       de: ["Kombination aus Felskunst und Kurganen.", "Liefert Einblicke in prähistorische Gesellschaften."],
@@ -817,7 +807,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-12",
     coords: [-0.0333, 14.0333],
     name: { de: "Alte Moschee von Dori", hu: "Dori Öreg Mecset", ro: "Vechea Moschee din Dori", en: "Dori Old Mosque"},
-    image: "/poi-images/dori-old-mosque-history-v2.webp",
     description: { de: "Eine historische Moschee, die den islamischen Einfluss in der Sahelzone widerspiegelt.", hu: "Egy történelmi mecset, amely a Száhel-övezet iszlám befolyását tükrözi.", ro: "O moschee istorică ce reflectă influența islamică în zona Sahel.", en: "A historical mosque reflecting Islamic influence in the Sahel zone." , es: "Una mezquita histórica que refleja la influencia islámica en el Sahel.", pt: "Uma mesquita histórica que reflete a influência islâmica no Sahel.", fr: "Une mosquée historique qui reflète l'influence islamique dans le Sahel."},
     facts: {
       de: ["Wichtiges Zentrum islamischer Gelehrsamkeit.", "Gebaut in traditioneller Sahel-Architektur."],
@@ -853,7 +842,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-02",
     coords: [-4.7667, 10.6333],
     name: { de: "Alter Bahnhof von Banfora", hu: "Banfora régi vasútállomása", ro: "Vechea Gară din Banfora", en: "Banfora Old Train Station"},
-    image: "/poi-images/banfora-old-station-history-v2.webp",
     description: { de: "Ein Kolonialbahnhof an der Abidjan-Ouagadougou-Eisenbahnstrecke.", hu: "Gyarmati vasútállomás az Abidjan-Ouagadougou vasútvonalon.", ro: "O gară colonială pe linia de cale ferată Abidjan-Ouagadougou.", en: "A colonial railway station on the Abidjan-Ouagadougou railway line." , es: "Una estación colonial en la ruta ferroviaria Abidján-Uagadugú.", pt: "Uma estação colonial na linha ferroviária Abidjan-Ouagadougou.", fr: "Une gare coloniale sur la ligne de chemin de fer Abidjan-Ouagadougou."},
     facts: {
       de: ["Wichtiges Relikt der französischen Kolonialzeit.", "Erbaut während des Eisenbahnbooms Westafrikas."],
@@ -889,7 +877,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-05",
     coords: [-1.0667, 12.9167],
     name: { de: "Königspalast von Boussouma", hu: "Boussouma Királyi Palota", ro: "Palatul Regal din Boussouma", en: "Boussouma Royal Palace"},
-    image: "/poi-images/boussouma-royal-palace-history-v2.webp",
     description: { de: "Historischer Sitz eines bedeutenden Mossi-Königreichs.", hu: "Egy jelentős mosszi királyság történelmi székhelye.", ro: "Sediul istoric al unui important regat Mossi.", en: "Historical seat of a significant Mossi kingdom." , es: "Sede histórica de un importante reino Mossi.", pt: "Sede histórica de um importante reino Mossi.", fr: "Siège historique d'un important royaume Mossi."},
     facts: {
       de: ["Eines der fünf großen Mossi-Königreiche.", "Traditionen werden hier bis heute gepflegt."],
@@ -925,7 +912,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-04",
     coords: [-0.3667, 11.7833],
     name: { de: "Ruinen des Tenkodogo-Königreichs", hu: "Tenkodogo Királyság romjai", ro: "Ruinele Regatului Tenkodogo", en: "Tenkodogo Kingdom Ruins"},
-    image: "/poi-images/tenkodogo-kingdom-ruins-history-v2.webp",
     description: { de: "Die Überreste der ersten Hauptstadt des ältesten Mossi-Reiches.", hu: "A legősibb mosszi birodalom első fővárosának maradványai.", ro: "Rămășițele primei capitale a celui mai vechi imperiu Mossi.", en: "The remains of the first capital of the oldest Mossi Empire." , es: "Los restos de la primera capital del imperio Mossi más antiguo.", pt: "Os vestígios da primeira capital do império Mossi mais antigo.", fr: "Les vestiges de la première capitale du plus ancien empire Mossi."},
     facts: {
       de: ["Gilt als die Wiege des Mossi-Volkes.", "Historischer Gründungsort im 12. Jahrhundert."],
@@ -1042,7 +1028,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-03",
     coords: [-1.5269, 12.3619],
     name: { de: "Kathedrale von Ouagadougou", hu: "Ouagadougou-i katedrális", ro: "Catedrala din Ouagadougou", en: "Ouagadougou Cathedral"},
-    image: "/poi-images/ouagadougou-cathedral-history-v2.webp",
     description: { de: "Eine historische römisch-katholische Kathedrale aus der Kolonialzeit.", hu: "Egy történelmi római katolikus katedrális a gyarmati korszakból.", ro: "O catedrală romano-catolică istorică din perioada colonială.", en: "A historical Roman Catholic cathedral from the colonial era." , es: "Una catedral católica histórica de la época colonial.", pt: "Uma catedral católica histórica da época colonial.", fr: "Une cathédrale catholique historique datant de l'époque coloniale."},
     facts: {
       de: ["In den 1930er Jahren erbaut.", "Eines der größten christlichen Bauwerke Westafrikas."],
@@ -1123,7 +1108,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-13",
     coords: [-3.1833, 10.3333],
     name: { de: "Historisches Poni-Museum", hu: "Történelmi Poni Múzeum", ro: "Muzeul Istoric Poni", en: "Historical Poni Museum"},
-    image: "/poi-images/gaoua-poni-museum-history-v2.webp",
     description: { de: "Befindet sich in einem alten Kolonialgebäude und zeigt Lobi-Artefakte.", hu: "Egy régi gyarmati épületben található, és a lobi kultúra tárgyait mutatja be.", ro: "Situat într-o veche clădire colonială, expune artefacte Lobi.", en: "Located in an old colonial building, it displays Lobi artifacts." , es: "Ubicado en un antiguo edificio colonial, exhibe artefactos Lobi.", pt: "Localizado num antigo edifício colonial, exibe artefactos Lobi.", fr: "Situé dans un ancien bâtiment colonial, il présente des objets Lobi."},
     facts: {
       de: ["Ehemals ein französischer Militärposten.", "Dokumentiert die Geschichte der Lobi-Gemeinschaft."],
@@ -1159,7 +1143,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-12",
     coords: [-0.2333, 14.45],
     name: { de: "Historischer Markt von Gorom-Gorom", hu: "Gorom-Gorom történelmi piaca", ro: "Piața istorică din Gorom-Gorom", en: "Gorom-Gorom Historical Market"},
-    image: "/poi-images/gorom-gorom-historical-market-history-v2.webp",
     description: { de: "Ein uralter Handelsknotenpunkt für verschiedene Sahel-Stämme.", hu: "Ősi kereskedelmi csomópont különböző száheli törzsek számára.", ro: "Un vechi centru comercial pentru diverse triburi din Sahel.", en: "An ancient trading hub for various Sahel tribes." , es: "Un antiguo centro comercial para varias tribus del Sahel.", pt: "Um antigo centro de comércio para várias tribos do Sahel.", fr: "Un ancien carrefour commercial pour diverses tribus sahéliennes."},
     facts: {
       de: ["Wichtiger Treffpunkt für Tuareg, Fulbe und Bella.", "Ein Zentrum des Salz- und Viehhandels."],
@@ -1276,7 +1259,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-05",
     coords: [-1.0833, 13.0833],
     name: { de: "Historisches Lederviertel von Kaya", hu: "Kaya történelmi bőrműves negyede", ro: "Cartierul istoric al pielăriei din Kaya", en: "Kaya Historical Leather Quarter"},
-    image: "/poi-images/kaya-leather-quarter-history-v2.webp",
     description: { de: "Ein traditionelles Viertel, bekannt für jahrhundertealtes Lederhandwerk.", hu: "Hagyományos negyed, amely évszázados bőrművességéről ismert.", ro: "Un cartier tradițional cunoscut pentru artizanatul în piele vechi de secole.", en: "A traditional quarter known for centuries-old leather craftsmanship." , es: "Un barrio tradicional conocido por su artesanía del cuero centenaria.", pt: "Um bairro tradicional conhecido pelo artesanato de couro centenário.", fr: "Un quartier traditionnel réputé pour son artisanat du cuir séculaire."},
     facts: {
       de: ["Zentrum der traditionellen Gerberei in Burkina Faso.", "Techniken wurden über Generationen weitergegeben."],
@@ -1312,7 +1294,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-12",
     coords: [0.0333, 14.6333],
     name: { de: "Alter Sklavenmarkt von Markoye", hu: "Markoye régi rabszolgapiaca", ro: "Vechea piață de sclavi din Markoye", en: "Markoye Old Slave Market"},
-    image: "/poi-images/markoye-slave-market-history-v2.webp",
     description: { de: "Ein dunkles Kapitel der Geschichte an den alten Karawanenrouten.", hu: "A történelem egy sötét fejezete a régi karavánutak mentén.", ro: "Un capitol întunecat al istoriei pe vechile rute ale caravanelor.", en: "A dark chapter of history on the old caravan routes." , es: "Un capítulo oscuro de la historia en las antiguas rutas de caravanas.", pt: "Um capítulo sombrio da história nas antigas rotas de caravanas.", fr: "Un chapitre sombre de l'histoire sur les anciennes routes caravanières."},
     facts: {
       de: ["War Teil der Transsahara-Handelsnetzwerke.", "Heute ein Ort der Erinnerung."],
@@ -1501,7 +1482,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-09",
     coords: [-4.3, 11.1833],
     name: { de: "Alter Bahnhof von Bobo-Dioulasso", hu: "Bobo-Dioulasso régi vasútállomása", ro: "Vechea Gară din Bobo-Dioulasso", en: "Bobo-Dioulasso Old Station"},
-    image: "/poi-images/bobo-dioulasso-old-station-history-v2.webp",
     description: { de: "Ein historisches Gebäude im sudanesisch-kolonialen Stil.", hu: "Történelmi épület szudáni-gyarmati stílusban.", ro: "O clădire istorică în stil colonial sudanez.", en: "A historical building in Sudano-colonial style." , es: "Un edificio histórico de estilo colonial sudanés.", pt: "Um edifício histórico de estilo colonial sudanês.", fr: "Un bâtiment historique de style colonial soudanais."},
     facts: {
       de: ["Architektonisches Wahrzeichen der Stadt.", "Spiegelte den kolonialen Handel wider."],
@@ -1537,7 +1517,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-02",
     coords: [-4.7, 10.2333],
     name: { de: "Historische Moschee von Kawara", hu: "Kawara történelmi mecsete", ro: "Moscheea istorică din Kawara", en: "Kawara Historical Mosque"},
-    image: "/poi-images/kawara-mosque-history-v2.webp",
     description: { de: "Ein altes Lehmgebäude von historischer und spiritueller Bedeutung.", hu: "Régi vályogépület történelmi és spirituális jelentőséggel.", ro: "O veche clădire din noroi cu semnificație istorică și spirituală.", en: "An old mud building of historical and spiritual significance." , es: "Un antiguo edificio de adobe de gran importancia histórica y espiritual.", pt: "Um antigo edifício de adobe de importância histórica e espiritual.", fr: "Un ancien bâtiment en terre crue d'une importance historique et spirituelle."},
     facts: {
       de: ["Typisches Beispiel der Lehmarchitektur der Region.", "Ein historisches Pilgerziel."],
@@ -1618,7 +1597,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-11",
     coords: [-1.2989, 12.5833],
     name: { de: "Naaba-Palast von Ziniaré", hu: "Ziniaré Naaba Palotája", ro: "Palatul Naaba din Ziniaré", en: "Ziniaré Naaba Palace"},
-    image: "/poi-images/ziniare-naaba-palace-history-v2.webp",
     description: { de: "Historische Residenz der traditionellen Häuptlinge der Region Oubritenga.", hu: "Az Oubritenga régió hagyományos vezetőinek történelmi rezidenciája.", ro: "Reședința istorică a căpeteniilor tradiționale din regiunea Oubritenga.", en: "Historical residence of the traditional chiefs of the Oubritenga region." , es: "Residencia histórica de los jefes tradicionales de la región de Oubritenga.", pt: "Residência histórica dos chefes tradicionais da região de Oubritenga.", fr: "Résidence historique des chefs traditionnels de la région d'Oubritenga."},
     facts: {
       de: ["Zentrum lokaler Machtausübung in der Vorkolonialzeit.", "Wichtiger Ort für Mossi-Zeremonien."],
@@ -1699,7 +1677,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-01",
     coords: [-2.9333, 11.75],
     name: { de: "Altstadt von Boromo", hu: "Boromo óvárosa", ro: "Orașul vechi Boromo", en: "Boromo Old Town"},
-    image: "/poi-images/boromo-old-town-history-v2.webp",
     description: { de: "Historisches Handelszentrum nahe dem Mouhoun (Schwarzer Volta).", hu: "Történelmi kereskedelmi központ a Mouhoun (Fekete-Volta) közelében.", ro: "Centru comercial istoric lângă Mouhoun (Volta Neagră).", en: "Historical trade center near the Mouhoun (Black Volta)." , es: "Centro comercial histórico cerca del Mouhoun (Volta Negro).", pt: "Centro comercial histórico perto do Mouhoun (Volta Negro).", fr: "Centre commercial historique près du Mouhoun (Volta Noire)."},
     facts: {
       de: ["Lag an strategischen Handelsrouten.", "Besitzt alte koloniale Strukturen."],
@@ -1735,7 +1712,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-12",
     coords: [-0.15, 14.5],
     name: { de: "Ruinen von Koutougou", hu: "Koutougou romjai", ro: "Ruinele din Koutougou", en: "Koutougou Ruins"},
-    image: "/poi-images/koutougou-ruins-history-v2.webp",
     description: { de: "Historische Überreste alter Siedlungsanlagen im Norden.", hu: "Régi települések történelmi maradványai északon.", ro: "Rămășițe istorice ale vechilor așezări în nord.", en: "Historical remains of old settlement systems in the north." , es: "Restos históricos de antiguos asentamientos en el norte.", pt: "Vestígios históricos de antigos assentamentos no norte.", fr: "Vestiges historiques d'anciens sites d'habitation dans le nord."},
     facts: {
       de: ["Zeugen alter Handelsnetze.", "Archäologisch wenig erforschtes Gebiet."],
@@ -1771,7 +1747,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-04",
     coords: [1.7333, 12.0667],
     name: { de: "Historisches Zentrum von Diapaga", hu: "Diapaga Történelmi Központja", ro: "Centrul Istoric Diapaga", en: "Diapaga Historical Center"},
-    image: "/poi-images/diapaga-historical-center-history-v2.webp",
     description: { de: "Ein altes Verwaltungszentrum in der Region Est.", hu: "Régi közigazgatási központ az Est régióban.", ro: "Un vechi centru administrativ în regiunea Est.", en: "An old administrative center in the Est region." , es: "Un antiguo centro administrativo en la región Est.", pt: "Um antigo centro administrativo na região Est.", fr: "Un ancien centre administratif dans la région de l'Est."},
     facts: {
       de: ["Spiegelte die koloniale Durchdringung des Ostens wider.", "Enthält noch Gebäude aus der Kolonialzeit."],
@@ -1807,7 +1782,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-03",
     coords: [-1.5167, 12.3833],
     name: { de: "Militärlager Paspanga", hu: "Paspanga katonai tábor", ro: "Tabăra militară Paspanga", en: "Paspanga Military Camp"},
-    image: "/poi-images/paspanga-military-camp-history-v2.webp",
     description: { de: "Ein historischer Militärstützpunkt in der Hauptstadt Ouagadougou.", hu: "Történelmi katonai bázis a fővárosban, Ouagadougou-ban.", ro: "O bază militară istorică în capitala Ouagadougou.", en: "A historical military base in the capital city of Ouagadougou." , es: "Una base militar histórica en la capital, Uagadugú.", pt: "Uma base militar histórica na capital, Ouagadougou.", fr: "Une base militaire historique dans la capitale, Ouagadougou."},
     facts: {
       de: ["Hat eine bedeutende Rolle in der Geschichte Burkina Fasos gespielt.", "Stammt aus der Kolonialzeit."],
@@ -1843,7 +1817,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-11",
     coords: [-1.3, 12.8],
     name: { de: "Musée de Manéga", hu: "Manéga Múzeum", ro: "Muzeul Manéga", en: "Manéga Museum"},
-    image: "/poi-images/manega-museum-history-v2.webp",
     description: { de: "Ein kulturhistorisches Museum, das sich der Bewahrung traditioneller burkinischer Kunst widmet.", hu: "Kultúrtörténeti múzeum, amely a hagyományos burkinai művészet megőrzésének szenteli magát.", ro: "Un muzeu cultural-istoric dedicat conservării artei tradiționale burkinabe.", en: "A cultural-historical museum dedicated to preserving traditional Burkinabé art." , es: "Un museo cultural e histórico dedicado a la preservación del arte tradicional de Burkina Faso.", pt: "Um museu cultural e histórico dedicado à preservação da arte tradicional de Burkina Faso.", fr: "Un musée culturel et historique dédié à la préservation de l'art traditionnel burkinabè."},
     facts: {
       de: ["Von Titinga Frédéric Pacéré gegründet.", "Zeigt heilige Gegenstände und Skulpturen."],
@@ -1924,7 +1897,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-04",
     coords: [0.35, 12.0667],
     name: { de: "Königspalast von Fada N'Gourma", hu: "Fada N'Gourma Királyi Palota", ro: "Palatul Regal din Fada N'Gourma", en: "Fada N'Gourma King's Palace"},
-    image: "/poi-images/fada-ngourma-palace-history-v2.webp",
     description: { de: "Das historische Machtzentrum des Gulmu-Königreichs.", hu: "A Gulmu Királyság történelmi hatalmi központja.", ro: "Centrul istoric de putere al Regatului Gulmu.", en: "The historical power center of the Gulmu Kingdom." , es: "El centro de poder histórico del reino de Gulmu.", pt: "O centro de poder histórico do reino de Gulmu.", fr: "Le centre de pouvoir historique du royaume du Gulmu."},
     facts: {
       de: ["Einst Sitz der Gurma-Herrscher.", "Ein Ort wichtiger traditioneller Riten."],
@@ -2005,7 +1977,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     parent: "BF-02",
     coords: [-4.8333, 10.6333],
     name: { de: "Historisches Dorf Tangrela", hu: "Tangrela történelmi faluja", ro: "Satul istoric Tangrela", en: "Tangrela Historical Village"},
-    image: "/poi-images/tangrela-historical-village-history-v2.webp",
     description: { de: "Eine alte Siedlung, die eng mit den traditionellen Fischergemeinschaften verbunden ist.", hu: "Régi település, amely szorosan kapcsolódik a hagyományos halászközösségekhez.", ro: "O veche așezare strâns legată de comunitățile tradiționale de pescari.", en: "An old settlement closely linked to traditional fishing communities." , es: "Un antiguo asentamiento estrechamente vinculado a las comunidades pesqueras tradicionales.", pt: "Um antigo povoamento estreitamente ligado às comunidades piscatórias tradicionais.", fr: "Un ancien établissement étroitement lié aux communautés de pêcheurs traditionnelles."},
     facts: {
       de: ["Liegt am Ufer des Tangrela-Sees.", "Bekannt für traditionelle Bauweisen."],

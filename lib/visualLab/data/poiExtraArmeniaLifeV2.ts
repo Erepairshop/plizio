@@ -1304,7 +1304,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     parent: "AM-ER",
     coords: [44.5078, 40.1919],
     name: { de: "Park der Liebenden", hu: "Szerelmesek parkja", ro: "Parcul Îndrăgostiților", en: "Lovers' Park"},
-    image: "/poi-images/armenia-lovers-park-yerevan-life-v2.webp",
     description: { de: "Ein wunderschön gestalteter japanischer Garten im Zentrum von Eriwan, der als romantischer Treffpunkt für Paare dient.", hu: "Egy gyönyörűen kialakított japánkert Jereván központjában, amely a párok romantikus találkozóhelyeként szolgál.", ro: "O grădină japoneză frumos amenajată în centrul Erevanului, servind ca punct de întâlnire romantic pentru cupluri.", en: "A beautifully landscaped Japanese garden in the center of Yerevan, serving as a romantic meeting place for couples." , es: "Un jardín japonés bellamente diseñado en el centro de Ereván, que sirve como lugar de encuentro romántico para parejas.", pt: "Um jardim japonês lindamente projetado no centro de Erevan, que serve como ponto de encontro romântico para casais.", fr: "Un jardin japonais magnifiquement aménagé au centre d'Erevan, servant de lieu de rencontre romantique pour les couples."},
     facts: {
       de: ["Stammt aus dem 18. Jahrhundert.", "2008 im japanischen Stil renoviert.", "Verfügt über Wasserfälle und kleine Teiche."],
@@ -1888,7 +1887,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     parent: "AM-ER",
     coords: [44.4756, 40.1983],
     name: { de: "Tumanjan-Park", hu: "Tumanjan park", ro: "Parcul Tumanyan", en: "Tumanyan Park"},
-    image: "/poi-images/armenia-tumanyan-park-life-v2.webp",
     description: { de: "Ein weitläufiger Stadtpark benannt nach dem berühmten armenischen Dichter Howhannes Tumanjan, ideal für Spaziergänge und Erholung.", hu: "Egy kiterjedt városi park, amelyet a híres örmény költőről, Hovhannesz Tumanjanról neveztek el, ideális sétákra és pihenésre.", ro: "Un parc urban extins numit după celebrul poet armean Hovhannes Tumanyan, ideal pentru plimbări și recreere.", en: "An expansive urban park named after the famous Armenian poet Hovhannes Tumanyan, ideal for walks and recreation." , es: "Un amplio parque urbano nombrado en honor al famoso poeta armenio Hovhannes Tumanyan, ideal para paseos y descanso.", pt: "Um vasto parque urbano com o nome do famoso poeta arménio Hovhannes Tumanyan, ideal para passeios e lazer.", fr: "Un vaste parc urbain nommé en l'honneur du célèbre poète arménien Hovhannès Toumanian, idéal pour les promenades et la détente."},
     facts: {
       de: ["Liegt in der Hrasdan-Schlucht.", "Wurde 1970 eröffnet.", "Umfasst zahlreiche Sportplätze."],
@@ -1923,7 +1921,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     parent: "AM-ER",
     coords: [44.5244, 40.1953],
     name: { de: "Siegespark", hu: "Győzelem park", ro: "Parcul Victoriei", en: "Victory Park"},
-    image: "/poi-images/armenia-victory-park-life-v2.webp",
     description: { de: "Ein großer Vergnügungspark auf einem Hügel, der neben Fahrgeschäften auch einen atemberaubenden Blick über Eriwan bietet.", hu: "Egy nagy vidámpark egy dombon, amely a körhinták mellett lélegzetelállító kilátást nyújt Jerevánra.", ro: "Un mare parc de distracții pe un deal, oferind pe lângă atracții și o priveliște uluitoare asupra Erevanului.", en: "A large amusement park on a hill that, in addition to rides, offers a breathtaking view over Yerevan." , es: "Un gran parque de atracciones en una colina que, además de juegos mecánicos, ofrece una vista impresionante de Ereván.", pt: "Um grande parque de diversões numa colina que, para além de divertimentos, oferece uma vista deslumbrante sobre Erevan.", fr: "Un grand parc d'attractions situé sur une colline qui propose, outre des manèges, une vue imprenable sur Erevan."},
     facts: {
       de: ["Beherbergt die Mutter Armenien-Statue.", "Erinnert an den sowjetischen Sieg im Zweiten Weltkrieg.", "Bietet ein Riesenrad für Kinder."],
@@ -2750,7 +2747,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     parent: "AM-TV",
     coords: [45.1481, 40.8753],
     name: { de: "Dendropark Idschewan", hu: "Idzseváni Dendropark", ro: "Dendroparcul Ijevan", en: "Ijevan Dendropark"},
-    image: "/poi-images/armenia-ijevan-dendropark-life-v2.webp",
     description: { de: "Ein malerisches Arboretum in der Region Tawusch, das für seine Sammlung seltener Nadelbäume und ruhigen Spazierwege bekannt ist.", hu: "Egy festői arborétum Tavus régióban, amely ritka tűlevelű fák gyűjteményéről és békés sétaútjairól ismert.", ro: "Un arboret pitoresc în regiunea Tavush, cunoscut pentru colecția sa de conifere rare și aleile liniștite pentru plimbări.", en: "A picturesque arboretum in the Tavush region, known for its collection of rare conifers and peaceful walking paths." , es: "Un pintoresco arboreto en la región de Tavush, conocido por su colección de raras coníferas y tranquilos senderos.", pt: "Um arboreto pitoresco na região de Tavush, conhecido pela sua coleção de coníferas raras e caminhos tranquilos.", fr: "Un arboretum pittoresque dans la région de Tavush, réputé pour sa collection de conifères rares et ses sentiers paisibles."},
     facts: {
       de: ["Wurde 1962 gegründet.", "Beherbergt über 650 Pflanzenarten.", "Ein Paradies für Naturliebhaber."],
@@ -2902,7 +2898,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     parent: "AM-LO",
     coords: [44.3217, 40.9231],
     name: { de: "Dendropark Stepanawan", hu: "Sztyepanavani Dendropark", ro: "Dendroparcul Stepanavan", en: "Stepanavan Dendropark"},
-    image: "/poi-images/armenia-stepanavan-dendropark-life-v2.webp",
     description: { de: "Der größte botanische Garten Armeniens, der sich tief in der bewaldeten Region Lori befindet und eine friedliche Atmosphäre bietet.", hu: "Örményország legnagyobb botanikus kertje, amely mélyen a Lori régió erdős részén található, és békés légkört kínál.", ro: "Cea mai mare grădină botanică din Armenia, situată adânc în regiunea împădurită Lori, oferind o atmosferă pașnică.", en: "Armenia's largest botanical garden, located deep in the forested Lori region and offering a peaceful atmosphere." , es: "El jardín botánico más grande de Armenia, situado en la región boscosa de Lori, que ofrece una atmósfera pacífica.", pt: "O maior jardim botânico da Arménia, localizado nas profundezas da região arborizada de Lori, oferecendo uma atmosfera tranquila.", fr: "Le plus grand jardin botanique d'Arménie, situé au cœur de la région boisée de Lori, offrant une atmosphère paisible."},
     facts: {
       de: ["Umfasst 35 Hektar Waldfläche.", "Wurde 1931 vom polnischen Biologen Edmon Leonowicz gegründet.", "Ein Zentrum für den Schutz von Koniferen."],
@@ -3315,7 +3310,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     parent: "AM-SU",
     coords: [46.2239, 39.5969],
     name: { de: "Sew-Litsch-Schutzgebiet", hu: "Fekete-tó Rezervátum", ro: "Rezervația Sev Lich", en: "Sev Lich Sanctuary"},
-    image: "/poi-images/armenia-sev-lich-sanctuary-life-v2.webp",
     description: { de: "Ein geschützter Kratersee im Vulkangebirge von Sjunik, der als Trinkwasserquelle und Lebensraum für Wasservögel dient.", hu: "Egy védett krátertó a Szjunik vulkanikus hegységben, amely ivóvízforrásként és vízimadarak élőhelyeként szolgál.", ro: "Un lac de crater protejat în munții vulcanici din Syunik, care servește ca sursă de apă potabilă și habitat pentru păsări de apă.", en: "A protected crater lake in the volcanic mountains of Syunik, serving as a drinking water source and habitat for waterfowl." , es: "Un lago de cráter protegido en las montañas volcánicas de Syunik, que sirve como fuente de agua potable y hábitat para aves acuáticas.", pt: "Um lago de cratera protegido nas montanhas vulcânicas de Syunik, que serve como fonte de água potável e habitat para aves aquáticas.", fr: "Un lac de cratère protégé dans les montagnes volcaniques de Syunik, servant de source d'eau potable et d'habitat pour les oiseaux aquatiques."},
     facts: {
       de: ["Liegt auf über 2600 Metern Höhe.", "Das Wasser ist fast eiskalt.", "Ein wichtiges Rastgebiet für Zugvögel."],
@@ -4187,7 +4181,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     parent: "AM-AR",
     coords: [44.5333, 39.9500],
     name: { de: "Weinberge des Ararat-Tals", hu: "Ararát-völgyi szőlőültetvények", ro: "Podgoriile din Valea Ararat", en: "Ararat Valley Vineyards"},
-    image: "/poi-images/armenia-ararat-valley-vineyards-life-v2.webp",
     description: { de: "Die sonnenverwöhnten Hänge am Fuße des Berges Ararat bringen einige der besten Weintrauben für die Weinproduktion im Kaukasus hervor.", hu: "Az Ararát-hegy lábánál fekvő napsütötte lejtők a Kaukázus legjobb borszőlőit teremtik meg a bortermelés számára.", ro: "Versanții însoriți de la poalele Muntelui Ararat produc unii dintre cei mai buni struguri pentru producția de vin din Caucaz.", en: "The sun-drenched slopes at the foot of Mount Ararat produce some of the best wine grapes for wine production in the Caucasus." , es: "Las laderas bañadas por el sol al pie del monte Ararat producen algunas de las mejores uvas para la producción de vino en el Cáucaso.", pt: "As encostas ensolaradas no sopé do Monte Ararat produzem algumas das melhores uvas para a produção de vinho no Cáucaso.", fr: "Les pentes ensoleillées au pied du mont Ararat produisent certains des meilleurs raisins pour la production de vin dans le Caucase."},
     facts: {
       de: ["Eine der ältesten Weinbauregionen der Welt.", "Profitiert vom vulkanischen Boden.", "Zentrum der Brandy-Herstellung in Armenien."],
@@ -4591,7 +4584,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     parent: "AM-VD",
     coords: [45.1833, 39.7167],
     name: { de: "Weinregion Areni", hu: "Areni borvidék", ro: "Regiunea viticolă Areni", en: "Areni Wine Region"},
-    image: "/poi-images/armenia-areni-wine-region-life-v2.webp",
     description: { de: "Die bergige Region Areni ist weltberühmt für ihre alten Rebsorten und die traditionelle armenische Weinherstellung in Tonkrügen.", hu: "Az Areni hegyvidéki régió világhírű ősi szőlőfajtáiról és a hagyományos örmény cserépedényes borkészítésről.", ro: "Regiunea muntoasă Areni este faimoasă la nivel mondial pentru soiurile sale antice de struguri și vinificația tradițională armeană în vase de lut.", en: "The mountainous Areni region is world-famous for its ancient grape varieties and traditional Armenian winemaking in clay jugs." , es: "La región montañosa de Areni es mundialmente famosa por sus antiguas variedades de uva y la producción tradicional de vino armenio en tinajas de barro.", pt: "A região montanhosa de Areni é mundialmente famosa pelas suas castas antigas e pela produção tradicional de vinho arménio em talhas de barro.", fr: "La région montagneuse d'Areni est mondialement célèbre pour ses anciens cépages et la production traditionnelle de vin arménien dans des jarres en terre cuite."},
     facts: {
       de: ["Die Höhle von Areni-1 zeigt 6000 Jahre alten Weinbau.", "Bekannt für den Areni Noir-Wein.", "Ein wichtiges Ziel für Agrotourismus."],
@@ -5013,7 +5005,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     parent: "AM-AV",
     coords: [44.0333, 40.1500],
     name: { de: "Aprikosenplantagen von Armawir", hu: "Armaviri sárgabarack-ültetvények", ro: "Livezile de caise din Armavir", en: "Armavir Apricot Orchards"},
-    image: "/poi-images/armenia-armavir-apricot-orchards-life-v2.webp",
     description: { de: "Weite Plantagen im Westen Armeniens kultivieren die legendäre armenische Aprikose, die tief in der nationalen Kultur verwurzelt ist.", hu: "Nyugat-Örményország hatalmas ültetvényein termesztik a legendás örmény sárgabarackot, amely mélyen gyökerezik a nemzeti kultúrában.", ro: "Vaste plantații din vestul Armeniei cultivă legendara caisă armeană, adânc înrădăcinată în cultura națională.", en: "Vast orchards in western Armenia cultivate the legendary Armenian apricot, deeply rooted in the national culture." , es: "Amplias plantaciones en el oeste de Armenia cultivan el legendario albaricoque armenio, profundamente arraigado en la cultura nacional.", pt: "Vastas plantações no oeste da Arménia cultivam o lendário damasco arménio, que está profundamente enraizado na cultura nacional.", fr: "De vastes plantations dans l'ouest de l'Arménie cultivent le légendaire abricot arménien, profondément enraciné dans la culture nationale."},
     facts: {
       de: ["Die Aprikose heißt wissenschaftlich Prunus armeniaca.", "Armenien exportiert tonnenweise frische Aprikosen.", "Das Holz wird für das Duduk-Instrument verwendet."],
@@ -5453,7 +5444,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     parent: "AM-VD",
     coords: [45.3333, 39.7500],
     name: { de: "Granatapfelplantagen von Wajoz Dsor", hu: "Vajoc Dzor-i gránátalma-ültetvények", ro: "Livezile de rodii din Vayots Dzor", en: "Vayots Dzor Pomegranate Orchards"},
-    image: "/poi-images/armenia-vayots-dzor-pomegranate-orchards-life-v2.webp",
     description: { de: "Die warmen und trockenen Bedingungen in Wajoz Dsor sind ideal für den Anbau von Granatäpfeln, dem Symbol des Lebens in Armenien.", hu: "A Vajoc Dzor meleg és száraz körülményei ideálisak a gránátalma termesztésére, amely az élet szimbóluma Örményországban.", ro: "Condițiile calde și uscate din Vayots Dzor sunt ideale pentru cultivarea rodiilor, simbolul vieții în Armenia.", en: "The warm and dry conditions in Vayots Dzor are ideal for growing pomegranates, the symbol of life in Armenia." , es: "Las condiciones cálidas y secas de Vayots Dzor son ideales para el cultivo de granadas, el símbolo de la vida en Armenia.", pt: "As condições quentes e secas em Vayots Dzor são ideais para o cultivo de romãs, o símbolo da vida na Arménia.", fr: "Les conditions chaudes et sèches de Vayots Dzor sont idéales pour la culture de la grenade, symbole de vie en Arménie."},
     facts: {
       de: ["Der Granatapfel steht für Fruchtbarkeit und Glück.", "Wird für Säfte und traditionelle Weine geerntet.", "Erfordert wenig Wasser zum Gedeihen."],
@@ -6127,7 +6117,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     parent: "AM-SH",
     coords: [43.8333, 40.8333],
     name: { de: "Weizenfelder von Schirak", hu: "Sirak búzamezői", ro: "Câmpurile de grâu din Shirak", en: "Shirak Wheat Fields"},
-    image: "/poi-images/armenia-shirak-wheat-fields-life-v2.webp",
     description: { de: "Die weiten, goldenen Weizenfelder in der Provinz Schirak sichern die Getreideversorgung des Landes und prägen die flache Landschaft.", hu: "A hatalmas, aranyszínű búzamezők Sirak tartományban biztosítják az ország gabonaellátását, és meghatározzák a sík tájat.", ro: "Câmpurile vaste și aurii de grâu din provincia Shirak asigură aprovizionarea cu cereale a țării și definesc peisajul plat.", en: "The vast, golden wheat fields in the Shirak province ensure the country's grain supply and define the flat landscape." , es: "Los vastos campos de trigo dorado de la provincia de Shirak aseguran el suministro de cereales del país y definen el paisaje llano.", pt: "Os vastos campos de trigo dourado na província de Shirak garantem o abastecimento de cereais do país e moldam a paisagem plana.", fr: "Les vastes champs de blé doré de la province de Shirak assurent l'approvisionnement en céréales du pays et marquent le paysage plat."},
     facts: {
       de: ["Schirak ist die Kornkammer Armeniens.", "Wird hauptsächlich im Trockenfeldbau kultiviert.", "Liefert das Mehl für das traditionelle Lavasch-Brot."],
@@ -6450,7 +6439,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     parent: "AM-GR",
     coords: [45.1667, 40.3333],
     name: { de: "Kartoffelfarmen von Gegharkunik", hu: "Gegarkunik burgonyafarmjai", ro: "Fermele de cartofi din Gegharkunik", en: "Gegharkunik Potato Farms"},
-    image: "/poi-images/armenia-gegharkunik-potato-farms-life-v2.webp",
     description: { de: "Die kühlen klimatischen Bedingungen rund um den Sewansee eignen sich hervorragend für den Anbau hochwertiger armenischer Kartoffeln.", hu: "A Szeván-tó körüli hűvös éghajlati viszonyok kiválóan alkalmasak a kiváló minőségű örmény burgonya termesztésére.", ro: "Condițiile climatice răcoroase din jurul Lacului Sevan sunt excelente pentru cultivarea cartofilor armeni de înaltă calitate.", en: "The cool climatic conditions around Lake Sevan are excellent for growing high-quality Armenian potatoes." , es: "Las frescas condiciones climáticas alrededor del lago Sevan son ideales para el cultivo de patatas armenias de alta calidad.", pt: "As condições climáticas frescas ao redor do lago Sevan são ideais para o cultivo de batatas arménias de alta qualidade.", fr: "Les conditions climatiques fraîches autour du lac Sevan sont idéales pour la culture de pommes de terre arméniennes de haute qualité."},
     facts: {
       de: ["Ein Hauptbestandteil der ländlichen Wirtschaft in Gegharkunik.", "Die Kartoffeln sind für ihren einzigartigen Geschmack bekannt.", "Wichtige Einkommensquelle für lokale Familien."],
@@ -6998,7 +6986,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
     parent: "AM-ER",
     coords: [44.5622, 40.2094],
     name: { de: "Wasserpark Eriwan", hu: "Jereváni Vízipark", ro: "Parcul Acvatic Erevan", en: "Water World Yerevan"},
-    image: "/poi-images/armenia-water-world-yerevan-life-v2.webp",
     description: { de: "Ein großes Freibad in der Hauptstadt, das in den heißen Sommermonaten erfrischende Rutschen und Wellenbäder für die ganze Familie bietet.", hu: "Egy nagy szabadtéri strand a fővárosban, amely a forró nyári hónapokban frissítő csúszdákat és hullámmedencéket kínál az egész családnak.", ro: "Un mare parc acvatic în aer liber în capitală, oferind tobogane răcoritoare și piscine cu valuri pentru întreaga familie în lunile fierbinți de vară.", en: "A large outdoor water park in the capital, offering refreshing slides and wave pools for the whole family during the hot summer months." , es: "Un gran parque acuático en la capital que ofrece toboganes refrescantes y piscinas de olas para toda la familia en los calurosos meses de verano.", pt: "Um grande parque aquático na capital que oferece escorregas refrescantes e piscinas de ondas para toda a família nos meses quentes de verão.", fr: "Un grand parc aquatique dans la capitale, proposant des toboggans rafraîchissants et des piscines à vagues pour toute la famille pendant les mois d'été."},
     facts: {
       de: ["Im Jahr 2001 eröffnet.", "Verfügt über mehrere große Wasserrutschen.", "Wird im Winter teilweise als Eislaufbahn genutzt."],

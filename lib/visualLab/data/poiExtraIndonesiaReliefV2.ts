@@ -57,7 +57,6 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: "Barisan-hegység",
       ro: "Munții Barisan",
       en: "Barisan Mountains"},
-    image: "/poi-images/barisan-mountains-relief-v2.webp",
     description: {
       de: "Eine Vulkangebirgskette, die sich über die gesamte Westseite der Insel Sumatra erstreckt.",
       hu: "Egy vulkanikus hegylánc, amely Szumátra szigetének egész nyugati oldalán végighúzódik.",
@@ -105,7 +104,6 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: "Sudirman-hegység",
       ro: "Munții Sudirman",
       en: "Sudirman Range"},
-    image: "/poi-images/sudirman-range-relief-v2.webp",
     description: {
       de: "Eine Gebirgskette in Papua, Indonesien, die den höchsten Punkt des Landes, Puncak Jaya, beherbergt.",
       hu: "Hegylánc Pápua tartományban, Indonéziában, amely az ország legmagasabb pontjának, a Puncak Jayának ad otthont.",
@@ -270,7 +268,6 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: "Dieng-fennsík",
       ro: "Platoul Dieng",
       en: "Dieng Plateau"},
-    image: "/poi-images/dieng-plateau-relief-v2.webp",
     description: {
       de: "Ein sumpfiges Plateau, das die Caldera eines prähistorischen Vulkans bildet, bekannt für seine alten Hindu-Tempel und vulkanischen Seen.",
       hu: "Egy mocsaras fennsík, amely egy őskori vulkán kalderáját alkotja, ismert ősi hindu templomairól és vulkáni tavairól.",
@@ -1695,7 +1692,6 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: "Kerinci-völgy",
       ro: "Valea Kerinci",
       en: "Kerinci Valley"},
-    image: "/poi-images/kerinci-valley-relief-v2.webp",
     description: {
       de: "Ein fruchtbares Tal, das vom Kerinci Seblat Nationalpark umgeben ist und am Fuße des Mount Kerinci liegt.",
       hu: "Termékeny völgy, amelyet a Kerinci Seblat Nemzeti Park vesz körül, a Kerinci-hegy lábánál.",
@@ -3048,7 +3044,6 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: "Baliem-völgy",
       ro: "Valea Baliem",
       en: "Baliem Valley"},
-    image: "/poi-images/baliem-valley-relief-v2.webp",
     description: {
       de: "Ein Tal im Hochland von Papua, das von den traditionellen Stämmen der Dani, Lani und Yali bewohnt wird.",
       hu: "Völgy Pápua hegyvidékén, amelyet a dani, lani és yali hagyományos törzsek laknak.",
@@ -3096,7 +3091,6 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: "Gayo-fennsík",
       ro: "Podișul Gayo",
       en: "Gayo Highlands"},
-    image: "/poi-images/gayo-highlands-relief-v2.webp",
     description: {
       de: "Ein Hochplateau im Norden Sumatras, weltberühmt für die Produktion von hochwertigem Arabica-Kaffee.",
       hu: "Magaslati fennsík Szumátra északi részén, világhírű a kiváló minőségű arabica kávé termeléséről.",
@@ -3144,7 +3138,6 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: "Jáva déli partja",
       ro: "Coasta de Sud a Javei",
       en: "South Coast of Java"},
-    image: "/poi-images/south-coast-java-relief-v2.webp",
     description: {
       de: "Die dem Indischen Ozean zugewandte Küste Javas ist bekannt für ihre raue Schönheit, hohen Wellen und mystischen Legenden.",
       hu: "Jáva Indiai-óceánra néző partvidéke, amely zord szépségéről, magas hullámairól és misztikus legendáiról ismert.",
@@ -3192,7 +3185,6 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: "Müller-hegység",
       ro: "Munții Müller",
       en: "Müller Mountains"},
-    image: "/poi-images/muller-mountains-relief-v2.webp",
     description: {
       de: "Eine zerklüftete und abgelegene Gebirgskette im Zentrum von Borneo, die als Wasserscheide für viele der großen Flüsse der Insel dient.",
       hu: "Egy tagolt és távoli hegylánc Borneó központjában, amely vízválasztóként szolgál a sziget számos nagy folyója számára.",
@@ -3501,7 +3493,6 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: "Rózsaszín strand, Komodo",
       ro: "Plaja Roz, Komodo",
       en: "Pink Beach, Komodo"},
-    image: "/poi-images/pink-beach-komodo-relief-v2.webp",
     description: {
       de: "Einer von nur wenigen rosafarbenen Stränden weltweit, dessen Farbe von mikroskopisch kleinen Organismen stammt, die rote Pigmente produzieren.",
       hu: "A világ mindössze néhány rózsaszín strandjának egyike, amelynek színét a vörös pigmentet termelő mikroszkopikus szervezetek adják.",
@@ -3846,7 +3837,6 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: "Bada-völgy",
       ro: "Valea Bada",
       en: "Bada Valley"},
-    image: "/poi-images/bada-valley-relief-v2.webp",
     description: {
       de: "Ein abgelegenes Tal in Zentralsulawesi, das für seine alten megalithischen Statuen unbekannten Ursprungs bekannt ist.",
       hu: "Egy távoli völgy Közép-Celebeszen, amely ősi, ismeretlen eredetű megalitikus szobrairól híres.",
@@ -4515,7 +4505,6 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: "Harau-völgy",
       ro: "Valea Harau",
       en: "Harau Valley"},
-    image: "/poi-images/harau-valley-relief-v2.webp",
     description: {
       de: "Ein malerisches Tal in West-Sumatra, das von steilen Granitklippen und üppigen Reisfeldern umgeben ist und mehrere Wasserfälle beherbergt.",
       hu: "Festői völgy Nyugat-Szumátrán, meredek gránitsziklákkal és buja rizsföldekkel körülvéve, számos vízesésnek ad otthont.",
@@ -4680,7 +4669,6 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: "Togean-szigetek partvidéke",
       ro: "Coasta Insulelor Togean",
       en: "Togean Islands Coast"},
-    image: "/poi-images/togean-islands-coast-relief-v2.webp",
     description: {
       de: "Die Küsten eines Archipels von 56 Inseln im Golf von Tomini, bekannt für ihre ruhigen, abgelegenen Strände und außergewöhnlichen Korallenriffe.",
       hu: "Egy 56 szigetből álló szigetcsoport partvidéke a Tomini-öbölben, amely nyugodt, eldugott strandjairól és kivételes korallzátonyairól ismert.",
@@ -4773,7 +4761,6 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: "Alas-völgy",
       ro: "Valea Alas",
       en: "Alas Valley"},
-    image: "/poi-images/alas-valley-relief-v2.webp",
     description: {
       de: "Ein Tal in Aceh, das vom Alas-Fluss durchschnitten wird und für seine Wildwasser-Rafting-Möglichkeiten und seine Lage neben dem Gunung Leuser Nationalpark bekannt ist.",
       hu: "Egy völgy Aceh tartományban, amelyet az Alas folyó szel át, és amely vadvízi evezési lehetőségeiről, valamint a Gunung Leuser Nemzeti Park melletti elhelyezkedéséről ismert.",
@@ -5622,7 +5609,6 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: "Mbeliling-erdő partvidéke",
       ro: "Coasta pădurii Mbeliling",
       en: "Mbeliling Forest Coast"},
-    image: "/poi-images/mbeliling-forest-coast-relief-v2.webp",
     description: {
       de: "Eine Küstenregion auf der Insel Flores, wo üppige Bergwälder auf unberührte Strände und den Indischen Ozean treffen.",
       hu: "Part menti régió Flores szigetén, ahol buja hegyi erdők találkoznak érintetlen strandokkal és az Indiai-óceánnal.",
@@ -5670,7 +5656,6 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: "Apar-hegység",
       ro: "Munții Apar",
       en: "Apar Mountains"},
-    image: "/poi-images/apar-mountains-relief-v2.webp",
     description: {
       de: "Eine weniger bekannte Gebirgskette auf der Vogelkop-Halbinsel in West-Papua, die mit dichtem, unberührtem Regenwald bedeckt ist.",
       hu: "Kevésbé ismert hegylánc a Madárfej-félszigeten, Nyugat-Pápuán, sűrű, érintetlen esőerdővel borítva.",
@@ -6339,7 +6324,6 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: "Tengger-kaldera sivataga",
       ro: "Deșertul calderei Tengger",
       en: "Tengger Caldera Desert"},
-    image: "/poi-images/tengger-caldera-desert-relief-v2.webp",
     description: {
       de: "Eine einzigartige Wüstenlandschaft aus vulkanischem Sand, bekannt als das 'Meer aus Sand', das sich innerhalb der alten Tengger-Kaldera befindet.",
       hu: "Egyedülálló sivatagi táj vulkáni homokból, amelyet a 'Homoktengernek' neveznek, az ősi Tengger-kalderán belül.",
@@ -6504,7 +6488,6 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: "Maros-Pangkep karsztvidék",
       ro: "Carstul din Maros-Pangkep",
       en: "Karst of Maros-Pangkep"},
-    image: "/poi-images/karst-of-maros-pangkep-relief-v2.webp",
     description: {
       de: "Eine spektakuläre Karstlandschaft in Süd-Sulawesi mit Turmkarst, Höhlen und einigen der ältesten Höhlenmalereien der Welt.",
       hu: "Látványos karsztvidék Dél-Celebeszen, toronykarszttal, barlangokkal és a világ legősibb barlangrajzaival.",
@@ -6741,7 +6724,6 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: "Ciletuh-Palabuhanratu Geopark partvidéke",
       ro: "Coasta Geoparcului Ciletuh-Palabuhanratu",
       en: "Ciletuh-Palabuhanratu Geopark Coast"},
-    image: "/poi-images/ciletuh-palabuhanratu-geopark-coast-relief-v2.webp",
     description: {
       de: "Ein UNESCO Global Geopark in West-Java mit einer einzigartigen Küstenlinie, die geologische Vielfalt, Wasserfälle und Strände zeigt.",
       hu: "UNESCO Globális Geopark Nyugat-Jáván, amely egyedülálló partvonallal rendelkezik, bemutatva a geológiai sokféleséget, vízeséseket és strandokat.",
@@ -7950,7 +7932,6 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: "Agung vulkán",
       ro: "Vulcanul Agung",
       en: "Mount Agung"},
-    image: "/poi-images/agung-volcano-relief-v2.webp",
     description: {
       de: "Der höchste Punkt auf Bali und ein aktiver Vulkan, der von den Balinesen als heilig angesehen wird.",
       hu: "Bali legmagasabb pontja és egy aktív vulkán, amelyet a balinézek szentként tisztelnek.",

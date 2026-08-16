@@ -237,7 +237,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       hu: "Petronas-ikertornyok",
       ro: "Turnurile Gemene Petronas",
       en: "Petronas Twin Towers"},
-    image: "/poi-images/petronas-twin-towers-landmarks-v2.webp",
     description: {
       de: "Ikonische Zwillingstürme in Kuala Lumpur, die von 1998 bis 2004 die höchsten Gebäude der Welt waren. Sie bleiben ein bedeutendes Wahrzeichen Malaysias.",
       hu: "Ikonikus ikertornyok Kuala Lumpurban, amelyek 1998 és 2004 között a világ legmagasabb épületei voltak. Továbbra is Malajzia fontos szimbólumai.",
@@ -582,7 +581,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       hu: "Menara Kuala Lumpur (KL torony)",
       ro: "Menara Kuala Lumpur (Turnul KL)",
       en: "Menara Kuala Lumpur (KL Tower)"},
-    image: "/poi-images/menara-kuala-lumpur-landmarks-v2.webp",
     description: {
       de: "Ein hoher Fernsehturm in Kuala Lumpur mit einer Aussichtsplattform, die einen Panoramablick auf die Stadt bietet.",
       hu: "Magas kommunikációs torony Kuala Lumpurban, kilátóterasszal, ahonnan panorámás kilátás nyílik a városra.",
@@ -1575,7 +1573,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       hu: "Langkawi Sky Bridge",
       ro: "Podul Suspendat Langkawi",
       en: "Langkawi Sky Bridge"},
-    image: "/poi-images/langkawi-sky-bridge-landmarks-v2.webp",
     description: {
       de: "Eine 125 Meter lange gebogene Fußgänger-Schrägseilbrücke auf der Insel Langkawi, die einen atemberaubenden Blick auf die umliegenden Berge und das Meer bietet.",
       hu: "Egy 125 méter hosszú, ívelt gyalogos függőhíd Langkawi szigetén, amely lenyűgöző kilátást nyújt a környező hegyekre és a tengerre.",
@@ -3000,7 +2997,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       hu: "Sultan Salahuddin Abdul Aziz mecset",
       ro: "Moscheea Sultan Salahuddin Abdul Aziz",
       en: "Sultan Salahuddin Abdul Aziz Mosque"},
-    image: "/poi-images/sultan-salahuddin-abdul-aziz-moschee-landmarks-v2.webp",
     description: {
       de: "Bekannt als die Blaue Moschee, ist sie die Staatsmoschee von Selangor in Shah Alam. Sie ist eine der größten Moscheen in Südostasien.",
       hu: "A Kék Mecsetként is ismert épület Selangor állami mecsetje Shah Alamban. Délkelet-Ázsia egyik legnagyobb mecsetje.",
@@ -3381,7 +3377,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       hu: "Krisztus-templom, Malakka",
       ro: "Biserica Hristos din Malacca",
       en: "Christ Church Melaka"},
-    image: "/poi-images/christ-church-melaka-landmarks-v2.webp",
     description: {
       de: "Eine anglikanische Kirche aus dem 18. Jahrhundert im Herzen von Malakka-Stadt. Es ist die älteste funktionierende protestantische Kirche in Malaysia.",
       hu: "Egy 18. századi anglikán templom Malakka városának szívében. Ez a legrégebbi működő protestáns templom Malajziában.",
@@ -4518,7 +4513,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       hu: "Thean Hou templom",
       ro: "Templul Thean Hou",
       en: "Thean Hou Temple"},
-    image: "/poi-images/thean-hou-tempel-landmarks-v2.webp",
     description: {
       de: "Ein sechsstufiger Tempel der chinesischen Meeresgöttin Mazu in Kuala Lumpur. Es ist einer der größten und ältesten Tempel in Südostasien.",
       hu: "Egy hatemeletes templom Kuala Lumpurban, amelyet Mazu kínai tengeristennőnek szenteltek. Délkelet-Ázsia egyik legnagyobb és legrégebbi temploma.",
@@ -6015,7 +6009,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       hu: "Kek Lok Si templom",
       ro: "Templul Kek Lok Si",
       en: "Kek Lok Si Temple"},
-    image: "/poi-images/kek-lok-si-tempel-landmarks-v2.webp",
     description: {
       de: "Ein großer buddhistischer Tempelkomplex in Penang. Er ist einer der bekanntesten Tempel in Malaysia.",
       hu: "Nagy buddhista templomkomplexum Penangban. Ez az egyik legismertebb templom Malajziában.",
@@ -7440,7 +7433,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       hu: "Sas tér (Dataran Lang)",
       ro: "Piața Vulturului (Dataran Lang)",
       en: "Eagle Square (Dataran Lang)"},
-    image: "/poi-images/langkawi-adler-platz-landmarks-v2.webp",
     description: {
       de: "Ein markantes Wahrzeichen in Kuah, Langkawi, mit einer 12 Meter hohen Skulptur eines Adlers, der zum Abflug bereit ist.",
       hu: "Jellegzetes látványosság Kuahban, Langkawiban, egy 12 méter magas, felszállni készülő sas szobrával.",
@@ -7569,7 +7561,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       hu: "Taman Negara",
       ro: "Taman Negara",
       en: "Taman Negara"},
-    image: "/poi-images/taman-negara-landmarks-v2.webp",
     description: {
       de: "Ein riesiger Nationalpark in Pahang, der einen der ältesten tropischen Regenwälder der Welt schützt, der auf 130 Millionen Jahre geschätzt wird.",
       hu: "Hatalmas nemzeti park Pahangban, amely a világ egyik legrégebbi trópusi esőerdejét védi, korát 130 millió évre becsülik.",
@@ -8814,7 +8805,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       hu: "Putra mecset",
       ro: "Moscheea Putra",
       en: "Putra Mosque"},
-    image: "/poi-images/putra-moschee-landmarks-v2.webp",
     description: {
       de: "Die Hauptmoschee von Putrajaya. Ihr rosafarbener Granit verleiht ihr ein einzigartiges und markantes Aussehen.",
       hu: "Putrajaya fő mecsetje. Rózsaszín gránitja egyedi és jellegzetes megjelenést kölcsönöz neki.",
@@ -9267,7 +9257,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       hu: "Kapitan Keling mecset",
       ro: "Moscheea Kapitan Keling",
       en: "Kapitan Keling Mosque"},
-    image: "/poi-images/kapitan-keling-moschee-landmarks-v2.webp",
     description: {
       de: "Eine prominente Moschee in George Town, Penang, erbaut im 19. Jahrhundert von indisch-muslimischen Händlern.",
       hu: "Jelentős mecset George Townban, Penangban, amelyet a 19. században építettek indiai muszlim kereskedők.",
@@ -10620,7 +10609,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       hu: "Gurney Drive",
       ro: "Gurney Drive",
       en: "Gurney Drive"},
-    image: "/poi-images/gurney-drive-landmarks-v2.webp",
     description: {
       de: "Eine beliebte Uferpromenade in George Town, Penang, berühmt für ihr Hawker-Zentrum, das eine große Auswahl an lokalen Straßengerichten anbietet.",
       hu: "Népszerű tengerparti sétány George Townban, Penangban, amely híres a helyi utcai ételek széles választékát kínáló ételudvaráról.",
@@ -11973,7 +11961,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       hu: "Cameron-felföld",
       ro: "Platourile Cameron",
       en: "Cameron Highlands"},
-    image: "/poi-images/cameron-highlands-landmarks-v2.webp",
     description: {
       de: "Ein weitläufiges Hochlandgebiet in Pahang, bekannt für seine Teeplantagen, kühles Wetter und Kolonialarchitektur.",
       hu: "Kiterjedt felföldi terület Pahangban, amely teültetvényeiről, hűvös időjárásáról és gyarmati építészetéről ismert.",
@@ -12858,7 +12845,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       hu: "Penang-hegy",
       ro: "Dealul Penang",
       en: "Penang Hill"},
-    image: "/poi-images/penang-hill-landmarks-v2.webp",
     description: {
       de: "Eine Gruppe von Gipfeln auf der Insel Penang. Es ist ein beliebter Ferienort mit Panoramablick auf die Insel und einer der ältesten Standseilbahnen der Welt.",
       hu: "Csúcsok csoportja Penang szigetén. Népszerű üdülőhely, ahonnan panorámás kilátás nyílik a szigetre, és a világ egyik legrégebbi siklóvasútja található itt.",
@@ -12951,7 +12937,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       hu: "Sipadan-sziget",
       ro: "Insula Sipadan",
       en: "Sipadan Island"},
-    image: "/poi-images/sipadan-island-landmarks-v2.webp",
     description: {
       de: "Malaysias einzige ozeanische Insel, die sich aus einem erloschenen Vulkankegel erhebt. Weltweit bekannt als eines der besten Tauchziele.",
       hu: "Malajzia egyetlen óceáni szigete, amely egy kialudt vulkáni kúpról emelkedik ki. Világszerte az egyik legjobb búvárkodási célpontként ismert.",
@@ -13800,7 +13785,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       hu: "Genting-felföld",
       ro: "Platourile Genting",
       en: "Genting Highlands"},
-    image: "/poi-images/genting-highlands-landmarks-v2.webp",
     description: {
       de: "Ein Hochland-Resort in Pahang, bekannt für sein Casino, Themenparks und kühles Wetter. Es trägt den Spitznamen 'Stadt der Unterhaltung'.",
       hu: "Magaslati üdülőhely Pahangban, amely kaszinójáról, vidámparkjairól és hűvös időjárásáról ismert. A 'Szórakozás Városa' becenevet viseli.",

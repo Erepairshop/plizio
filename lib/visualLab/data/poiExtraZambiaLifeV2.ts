@@ -8,7 +8,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-10",
     coords: [27.5167, -15.5333],
     name: { de: "Blue Lagoon Nationalpark", hu: "Blue Lagoon Nemzeti Park", ro: "Parcul Național Blue Lagoon", en: "Blue Lagoon National Park"},
-    image: "/poi-images/blue-lagoon-national-park-life-v2.webp",
     description: { de: "Ein bedeutender Lebensraum für Sitatunga-Antilopen.", hu: "Fontos élőhely a szitatunga antilopok számára.", ro: "Un habitat important pentru antilopele sitatunga.", en: "An important habitat for sitatunga antelopes." , es: "Un hábitat importante para los antílopes sitatunga.", pt: "Um habitat importante para os antílopes sitatunga.", fr: "Un habitat important pour les antilopes sitatungas."},
     facts: {
       de: ["Berühmt für die Kafue-Lechwe-Antilopen.", "Bietet saisonale Überschwemmungsgebiete."],
@@ -41,7 +40,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-08",
     coords: [30.2000, -11.0000],
     name: { de: "Isangano Nationalpark", hu: "Isangano Nemzeti Park", ro: "Parcul Național Isangano", en: "Isangano National Park"},
-    image: "/poi-images/isangano-national-park-life-v2.webp",
     description: { de: "Schutzgebiet mit bedeutenden Feuchtgebieten.", hu: "Védett terület jelentős vizes élőhelyekkel.", ro: "Arie protejată cu zone umede semnificative.", en: "Protected area with significant wetlands." , es: "Área protegida con importantes humedales.", pt: "Área protegida com zonas húmidas importantes.", fr: "Zone protégée comprenant d'importantes zones humides."},
     facts: {
       de: ["Dient als wichtiger Korridor für Wildtiere.", "Beheimatet seltene Vogelarten."],
@@ -77,7 +75,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-02",
     coords: [31.9500, -12.5000],
     name: { de: "Luambe Nationalpark", hu: "Luambe Nemzeti Park", ro: "Parcul Național Luambe", en: "Luambe National Park"},
-    image: "/poi-images/luambe-national-park-life-v2.webp",
     description: { de: "Ein intaktes Ökosystem im Luangwa-Tal.", hu: "Érintetlen ökoszisztéma a Luangwa-völgyben.", ro: "Un ecosistem intact în valea Luangwa.", en: "An intact ecosystem in the Luangwa Valley." , es: "Un ecosistema intacto en el valle del Luangwa.", pt: "Um ecossistema intacto no Vale do Luangwa.", fr: "Un écosystème intact dans la vallée de la Luangwa."},
     facts: {
       de: ["Bekannt für die hohe Dichte an Flusspferden.", "Bietet spektakuläre Wildbeobachtungen."],
@@ -113,7 +110,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-01",
     coords: [32.6500, -10.5000],
     name: { de: "Mzuzu Agrar-Hub", hu: "Mzuzu Mezőgazdasági Központ", ro: "Centrul Agricol Mzuzu", en: "Mzuzu Agricultural Hub"},
-    image: "/poi-images/mzuzu-agriculture-hub-life-v2.webp",
     description: { de: "Zentrum für Kaffeeanbau im Nordosten.", hu: "Kávétermesztési központ északkeleten.", ro: "Centru de cultivare a cafelei în nord-est.", en: "Center for coffee cultivation in the northeast." , es: "Centro del cultivo de café en el noreste.", pt: "Centro do cultivo de café no nordeste.", fr: "Centre de culture du café dans le nord-est."},
     facts: {
       de: ["Region für hochwertigen Hochlandkaffee.", "Unterstützt lokale Kleinbauern."],
@@ -176,7 +172,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-10",
     coords: [28.1667, -15.7500],
     name: { de: "Kafue Bewässerungszone", hu: "Kafue Öntözési Zóna", ro: "Zona de Irigare Kafue", en: "Kafue Irrigation Zone"},
-    image: "/poi-images/kafue-irrigation-zone-life-v2.webp",
     description: { de: "Großflächiges Gebiet für den Anbau von Getreide.", hu: "Kiterjedt terület gabonafélék termesztésére.", ro: "Zonă extinsă pentru cultivarea cerealelor.", en: "Large-scale area for cereal cultivation." , es: "Área extensa para el cultivo de cereales.", pt: "Área extensa para o cultivo de cereais.", fr: "Vaste zone destinée à la culture des céréales."},
     facts: {
       de: ["Wichtig für die nationale Nahrungssicherheit.", "Nutzt effiziente Bewässerungssysteme."],
@@ -212,7 +207,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-04",
     coords: [29.2500, -10.5000],
     name: { de: "Luapula Fischhabitat", hu: "Luapula Halélőhely", ro: "Habitatul de Pești Luapula", en: "Luapula Fish Habitat"},
-    image: "/poi-images/luapula-fish-habitat-life-v2.webp",
     description: { de: "Reichhaltiges Ökosystem im Luapula-Flussgebiet.", hu: "Gazdag ökoszisztéma a Luapula-folyó medencéjében.", ro: "Ecosistem bogat în bazinul râului Luapula.", en: "Rich ecosystem in the Luapula river basin." , es: "Rico ecosistema en la cuenca del río Luapula.", pt: "Ecossistema rico na bacia do rio Luapula.", fr: "Écosystème riche dans le bassin du fleuve Luapula."},
     facts: {
       de: ["Heimat vieler endemischer Fischarten.", "Wichtige Quelle für die lokale Fischerei."],
@@ -329,7 +323,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-02",
     coords: [32.6500, -13.6333],
     name: { de: "Chipata Maisfelder", hu: "Chipata Kukoricaföldek", ro: "Câmpurile de Porumb Chipata", en: "Chipata Maize Fields"},
-    image: "/poi-images/chipata-maize-fields-life-v2.webp",
     description: { de: "Zentrum für Maisanbau im Osten.", hu: "Kukoricatermesztési központ keleten.", ro: "Centru de cultivare a porumbului în est.", en: "Center for maize cultivation in the east." },
     facts: {
       de: ["Hauptanbaugebiet für Grundnahrungsmittel.", "Beschäftigt tausende Kleinbauern."],
@@ -401,7 +394,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-05",
     coords: [27.0667, -16.8167],
     name: { de: "Choma Viehzuchtzentrum", hu: "Choma Állattenyésztési Központ", ro: "Centrul de Creștere a Animalelor Choma", en: "Choma Livestock Hub"},
-    image: "/poi-images/choma-livestock-hub-life-v2.webp",
     description: { de: "Zentrum für die Rinderzucht.", hu: "Szarvasmarha-tenyésztési központ.", ro: "Centru pentru creșterea vitelor.", en: "Center for cattle breeding." , es: "Centro para la cría de ganado vacuno.", pt: "Centro para a criação de gado bovino.", fr: "Centre pour l'élevage de bétail."},
     facts: {
       de: ["Bedeutendes Zentrum für den Viehmarkt.", "Fördert moderne Zuchtmethoden."],
@@ -437,7 +429,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-04",
     coords: [29.5500, -11.3667],
     name: { de: "Samfya Kinderstrände", hu: "Samfya Gyermekstrandok", ro: "Plajele pentru Copii Samfya", en: "Samfya Kids Beaches"},
-    image: "/poi-images/samfya-beaches-kids-life-v2.webp",
     description: { de: "Sichere Bereiche am Bangweulu-See für Familien.", hu: "Biztonságos területek a Bangweulu-tónál családoknak.", ro: "Zone sigure la lacul Bangweulu pentru familii.", en: "Safe areas by Lake Bangweulu for families." , es: "Zonas seguras en el lago Bangweulu para familias.", pt: "Zonas seguras no lago Bangweulu para famílias.", fr: "Zones sécurisées au bord du lac Bangweulu pour les familles."},
     facts: {
       de: ["Ideal zum Schwimmen und Spielen.", "Bietet flache Uferzonen."],
@@ -473,7 +464,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-07",
     coords: [24.4333, -11.7167],
     name: { de: "Mwinilunga Ananasfarmen", hu: "Mwinilunga Ananászfarmok", ro: "Fermele de Ananas Mwinilunga", en: "Mwinilunga Pineapple Farms"},
-    image: "/poi-images/mwinilunga-pineapple-farms-life-v2.webp",
     description: { de: "Bekannt für den Anbau von tropischen Früchten.", hu: "Ismert a trópusi gyümölcsök termesztéséről.", ro: "Cunoscut pentru cultivarea fructelor tropicale.", en: "Known for the cultivation of tropical fruits." , es: "Conocida por el cultivo de frutas tropicales.", pt: "Conhecida pelo cultivo de frutas tropicais.", fr: "Réputée pour la culture de fruits tropicaux."},
     facts: {
       de: ["Produziert hochwertige Ananas.", "Wichtige Einkommensquelle für die Region."],
@@ -554,7 +544,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-01",
     coords: [28.3000, -15.4333],
     name: { de: "Lusaka Zoo & Bildungszentrum", hu: "Lusaka Állatkert és Oktatási Központ", ro: "Grădina Zoologică și Centrul Educațional Lusaka", en: "Lusaka Zoo & Educational Center"},
-    image: "/poi-images/lusaka-zoo-educational-life-v2.webp",
     description: { de: "Erleben einheimischer Tiere aus nächster Nähe.", hu: "A honos állatok megismerése közelről.", ro: "Experiența animalelor locale de aproape.", en: "Experiencing local animals up close." },
     facts: {
       de: ["Fokus auf lokale Tierarten.", "Unterstützt Naturschutzprogramme."],
@@ -842,7 +831,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-09",
     coords: [30.2500, -12.5833],
     name: { de: "Kasanka-Feuchtgebiete", hu: "Kasanka Vizesélőhelyek", ro: "Zonele Umede Kasanka", en: "Kasanka Wetlands"},
-    image: "/poi-images/kasanka-wetland-life-v2.webp",
     description: { de: "Wichtiger Ort für die Beobachtung von Fledermäusen.", hu: "Fontos helyszín a denevérmegfigyeléshez.", ro: "Loc important pentru observarea liliecilor.", en: "Important site for bat watching." , es: "Lugar importante para la observación de murciélagos.", pt: "Local importante para a observação de morcegos.", fr: "Lieu important pour l'observation des chauves-souris."},
     facts: {
       de: ["Heimat der jährlichen Fledermauswanderung.", "Einzigartiges Naturschauspiel."],
@@ -878,7 +866,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-06",
     coords: [28.2333, -12.5500],
     name: { de: "Mufulira Garten der Kinder", hu: "Mufulira Gyermekek Kertje", ro: "Grădina Copiilor Mufulira", en: "Mufulira Kids Garden"},
-    image: "/poi-images/mufulira-garden-kids-life-v2.webp",
     description: { de: "Park mit Fokus auf Spiel und Lernen.", hu: "Park, a játékra és tanulásra összpontosítva.", ro: "Parc axat pe joacă și învățare.", en: "Park with a focus on play and learning." , es: "Parque centrado en el juego y el aprendizaje.", pt: "Parque com foco no jogo e na aprendizagem.", fr: "Parc axé sur le jeu et l'apprentissage."},
     facts: {
       de: ["Beinhaltet Spielplätze und Bildungsbeete.", "Ein Ort der Erholung für junge Familien."],
@@ -914,7 +901,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-05",
     coords: [27.7500, -15.8500],
     name: { de: "Mazabuka Zuckerplantagen", hu: "Mazabuka Cukornádültetvények", ro: "Plantațiile de Zahăr Mazabuka", en: "Mazabuka Sugar Estates"},
-    image: "/poi-images/mazabuka-sugar-estates-life-v2.webp",
     description: { de: "Zentrum der Zuckerproduktion.", hu: "A cukortermelés központja.", ro: "Centrul producției de zahăr.", en: "Center of sugar production." , es: "Centro de la producción de azúcar.", pt: "Centro da produção de açúcar.", fr: "Centre de la production de sucre."},
     facts: {
       de: ["Größtes Zuckeranbaugebiet des Landes.", "Wichtiger Arbeitgeber in der Region."],
@@ -950,7 +936,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-08",
     coords: [30.5000, -8.5000],
     name: { de: "Nsumbu See-Habitat", hu: "Nsumbu Tó-élőhely", ro: "Habitatul Lacustru Nsumbu", en: "Nsumbu Lake Habitat"},
-    image: "/poi-images/nsumbu-lakeside-life-v2.webp",
     description: { de: "Uferlandschaften am Tanganjikasee.", hu: "Partmenti tájak a Tanganjika-tónál.", ro: "Peisaje de țărm la lacul Tanganika.", en: "Shore landscapes at Lake Tanganyika." , es: "Paisajes ribereños junto al lago Tanganica.", pt: "Paisagens ribeirinhas junto ao lago Tanganica.", fr: "Paysages riverains au bord du lac Tanganyika."},
     facts: {
       de: ["Hohe Biodiversität an den Ufern.", "Bekannt für Wassertiere."],
@@ -1103,7 +1088,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-07",
     coords: [26.3833, -12.1667],
     name: { de: "Solwezi Gemüsegärten", hu: "Solwezi Zöldségeskertek", ro: "Grădinile de Legume Solwezi", en: "Solwezi Vegetable Gardens"},
-    image: "/poi-images/solwezi-vegetable-gardens-life-v2.webp",
     description: { de: "Kleine landwirtschaftliche Betriebe für frische Produkte.", hu: "Kisüzemi gazdaságok friss termények számára.", ro: "Mici ferme agricole pentru produse proaspete.", en: "Small-scale farming operations for fresh produce." , es: "Pequeñas explotaciones agrícolas de productos frescos.", pt: "Pequenas explorações agrícolas de produtos frescos.", fr: "Petites exploitations agricoles pour des produits frais."},
     facts: {
       de: ["Versorgt die lokale Stadtbevölkerung.", "Fördert nachhaltigen Anbau."],
@@ -1139,7 +1123,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-03",
     coords: [23.1333, -15.2500],
     name: { de: "Mongu Reisfelder", hu: "Mongu Rizsföldek", ro: "Orezăriile Mongu", en: "Mongu Rice Paddies"},
-    image: "/poi-images/mongu-rice-paddies-life-v2.webp",
     description: { de: "Kulturland in der Barotse-Flutebene.", hu: "Művelt földek a Barotse-ártéren.", ro: "Terenuri cultivate în luncă Barotse.", en: "Cultivated land in the Barotse floodplains." , es: "Tierras de cultivo en la llanura aluvial de Barotse.", pt: "Terras de cultivo na planície de inundação de Barotse.", fr: "Terres de culture dans la plaine inondable de Barotse."},
     facts: {
       de: ["Bedeutendes Gebiet für den Reisanbau.", "Profitieren von jährlichen Überschwemmungen."],
@@ -1175,7 +1158,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-01",
     coords: [28.0667, -14.6667],
     name: { de: "Chibombo Agrardorf", hu: "Chibombo Mezőgazdasági Falu", ro: "Satul Agricol Chibombo", en: "Chibombo Farming Village"},
-    image: "/poi-images/chibombo-farm-village-life-v2.webp",
     description: { de: "Gemeinschaftsprojekt für nachhaltige Landwirtschaft.", hu: "Közösségi projekt a fenntartható mezőgazdaságért.", ro: "Proiect comunitar pentru agricultură durabilă.", en: "Community project for sustainable agriculture." , es: "Proyecto comunitario para la agricultura sostenible.", pt: "Projeto comunitário para agricultura sustentável.", fr: "Projet communautaire pour une agriculture durable."},
     facts: {
       de: ["Fokus auf biologischen Anbau.", "Zentrum für landwirtschaftliches Wissen."],
@@ -1208,7 +1190,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-03",
     coords: [22.6833, -14.9833],
     name: { de: "Kalabo Anbauflächen", hu: "Kalabo Művelési Területek", ro: "Terenurile Agricole Kalabo", en: "Kalabo Agro Fields"},
-    image: "/poi-images/kalabo-agro-fields-life-v2.webp",
     description: { de: "Weitläufiges Ackerland am Sambesi.", hu: "Kiterjedt szántóföldek a Zambézi mellett.", ro: "Terenuri arabile extinse lângă Zambezi.", en: "Extensive arable land by the Zambezi." , es: "Extensas tierras de cultivo a orillas del Zambeze.", pt: "Vastas terras agrícolas às margens do Zambeze.", fr: "Vastes terres agricoles sur les rives du Zambèze."},
     facts: {
       de: ["Traditioneller Ackerbau.", "Nutzt die Fruchtbarkeit der Sambesi-Ufer."],
@@ -1249,7 +1230,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-08",
     coords: [31.3667, -8.8500],
     name: { de: "Mbala Hochlandgärten", hu: "Mbala Hegységi Kertek", ro: "Grădinile de Podiș Mbala", en: "Mbala Highland Gardens"},
-    image: "/poi-images/mbala-highland-gardens-life-v2.webp",
     description: { de: "Gartenbau in kühleren Höhenlagen.", hu: "Kertészet hűvösebb hegyvidéki területeken.", ro: "Grădinărit în zone montane mai răcoroase.", en: "Horticulture in cooler highland areas." , es: "Horticultura en altitudes más frescas.", pt: "Horticultura em altitudes mais frescas.", fr: "Horticulture dans les hautes terres plus fraîches."},
     facts: {
       de: ["Produziert europäische Gemüsesorten.", "Profitieren vom moderaten Klima."],
@@ -1285,7 +1265,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-05",
     coords: [27.4500, -17.2500],
     name: { de: "Sinazongwe Fischmarkt", hu: "Sinazongwe Halpiac", ro: "Piața de Pește Sinazongwe", en: "Sinazongwe Fish Market"},
-    image: "/poi-images/sinazongwe-fish-market-life-v2.webp",
     description: { de: "Ein bedeutender Handelsplatz am Kariba-Stausee.", hu: "Jelentős kereskedelmi hely a Kariba-tónál.", ro: "Loc de comerț semnificativ la lacul Kariba.", en: "Significant trading place at Lake Kariba." , es: "Un importante lugar de comercio en el embalse de Kariba.", pt: "Um importante local de comércio na albufeira de Kariba.", fr: "Un lieu de commerce important sur le réservoir de Kariba."},
     facts: {
       de: ["Handelt mit frischem Fisch vom See.", "Wichtiger Knotenpunkt für die Region."],
@@ -1321,7 +1300,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-09",
     coords: [31.5000, -10.5000],
     name: { de: "Chambeshi Naturpfad für Kinder", hu: "Chambeshi Természetösvény Gyerekeknek", ro: "Traseu Natural pentru Copii Chambeshi", en: "Chambeshi Nature Trail for Kids"},
-    image: "/poi-images/chambeshi-nature-kids-life-v2.webp",
     description: { de: "Ein geführter Lehrpfad zur Erkundung der Flussumgebung.", hu: "Vezetett tanösvény a folyó környezetének felfedezésére.", ro: "Traseu educativ ghidat pentru explorarea mediului fluvial.", en: "Guided educational trail for exploring the river environment." , es: "Un sendero educativo guiado para explorar el entorno del río.", pt: "Um trilho educativo guiado para explorar as margens do rio.", fr: "Un sentier éducatif guidé pour explorer les environs du fleuve."},
     facts: {
       de: ["Bietet kindgerechte Informationen.", "Fördert das Verständnis für Ökosysteme."],
@@ -1471,7 +1449,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-01",
     coords: [28.2667, -15.4333],
     name: { de: "Lusaka Botanischer Garten", hu: "Lusaka Botanikus Kert", ro: "Grădina Botanică Lusaka", en: "Lusaka Botanical Garden"},
-    image: "/poi-images/lusaka-botanical-garden-life-v2.webp",
     description: { de: "Ein grüner Lernort für Kinder und Familien.", hu: "Zöld tanulási helyszín gyerekeknek és családoknak.", ro: "Loc de învățare verde pentru copii și familii.", en: "A green learning site for children and families." , es: "Un lugar de aprendizaje verde para niños y familias.", pt: "Um local de aprendizagem verde para crianças e famílias.", fr: "Un lieu d'apprentissage verdoyant pour les enfants et les familles."},
     facts: {
       de: ["Präsentiert die einheimische Flora.", "Bietet interaktive Workshops."],
@@ -1507,7 +1484,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-06",
     coords: [28.6500, -12.9833],
     name: { de: "Ndola Schmetterlingslebensraum", hu: "Ndola Pillangóélőhely", ro: "Habitatul de Fluturi Ndola", en: "Ndola Butterfly Habitat"},
-    image: "/poi-images/ndola-butterfly-habitat-life-v2.webp",
     description: { de: "Spezialisierter Park zur Beobachtung von Insekten.", hu: "Speciális park a rovarok megfigyelésére.", ro: "Parc specializat pentru observarea insectelor.", en: "Specialized park for observing insects." , es: "Parque especializado en la observación de insectos.", pt: "Parque especializado na observação de insetos.", fr: "Parc spécialisé dans l'observation des insectes."},
     facts: {
       de: ["Heimat für tausende Schmetterlingsarten.", "Bietet Schutz vor Störungen."],
@@ -1543,7 +1519,6 @@ export const poiExtraZambiaLifeV2: POI[] = [
     parent: "ZM-05",
     coords: [28.4500, -14.4500],
     name: { de: "Kabwe Agrar-Ausbildung", hu: "Kabwe Mezőgazdasági Képzés", ro: "Instruire Agricolă Kabwe", en: "Kabwe Agricultural Training"},
-    image: "/poi-images/kabwe-agri-training-life-v2.webp",
     description: { de: "Einrichtung zur Verbesserung landwirtschaftlicher Techniken.", hu: "Intézmény a mezőgazdasági technikák fejlesztésére.", ro: "Instituție pentru îmbunătățirea tehnicilor agricole.", en: "Facility for improving agricultural techniques." , es: "Instalación para la mejora de las técnicas agrícolas.", pt: "Instalação para a melhoria das técnicas agrícolas.", fr: "Établissement destiné à l'amélioration des techniques agricoles."},
     facts: {
       de: ["Schult Jugendliche in moderner Landwirtschaft.", "Fördert lokale Nahrungsmittelproduktion."],

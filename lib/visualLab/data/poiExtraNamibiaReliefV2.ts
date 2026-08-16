@@ -8,7 +8,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-ER",
     coords: [15.5, -24.5],
     name: { de: "Namib-Wüste", hu: "Namib-sivatag", ro: "Deșertul Namib", en: "Namib Desert"},
-    image: "/poi-images/namib-desert-relief-v2.webp",
     description: { de: "Eine der ältesten Wüsten der Welt mit riesigen Sanddünen.", hu: "A világ egyik legöregebb sivataga hatalmas homokdűnékkel.", ro: "Unul dintre cele mai vechi deșerturi din lume cu dune de nisip uriașe.", en: "One of the oldest deserts in the world with huge sand dunes." , es: "Uno de los desiertos más antiguos del mundo con enormes dunas de arena.", pt: "Um dos desertos mais antigos do mundo, com enormes dunas de areia.", fr: "L'un des plus vieux déserts du monde avec d'immenses dunes de sable."},
     facts: {
       de: ["Erstreckt sich entlang der Atlantikküste.", "Bekannt für Sossusvlei.", "Wüstenklima mit Nebel."],
@@ -49,7 +48,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-OH",
     coords: [19.0, -22.5],
     name: { de: "Kalahari-Becken", hu: "Kalahári-medence", ro: "Bazinul Kalahari", en: "Kalahari Basin"},
-    image: "/poi-images/kalahari-desert-relief-v2.webp",
     description: { de: "Ein großes, semiarides Sandbecken im südlichen Afrika.", hu: "Nagy, félszáraz homokmedence Dél-Afrikában.", ro: "Un bazin mare, semiarid, de nisip în sudul Africii.", en: "A large, semi-arid sandy basin in Southern Africa." },
     facts: {
       de: ["Bedeckt große Teile Namibias.", "Kein typisches Sandmeer.", "Heimat von Wildtieren."],
@@ -198,7 +196,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-ER",
     coords: [14.56, -21.13],
     name: { de: "Brandberg-Massiv", hu: "Brandberg-hegység", ro: "Masivul Brandberg", en: "Brandberg Massif"},
-    image: "/poi-images/brandberg-mountain-relief-v2.webp",
     description: { de: "Das höchste Gebirge Namibias.", hu: "Namíbia legmagasabb hegysége.", ro: "Cel mai înalt munte din Namibia.", en: "The highest mountain in Namibia." , es: "La montaña más alta de Namibia.", pt: "A montanha mais alta da Namíbia.", fr: "La plus haute montagne de Namibie."},
     facts: {
       de: ["Höchster Punkt ist der Königstein.", "Bekannt für Felsmalereien.", "Granitmassiv."],
@@ -239,7 +236,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-ER",
     coords: [15.17, -21.83],
     name: { de: "Spitzkoppe", hu: "Spitzkoppe", ro: "Spitzkoppe", en: "Spitzkoppe"},
-    image: "/poi-images/spitzkoppe-relief-v2.webp",
     description: { de: "Eine Gruppe auffälliger Granitgipfel.", hu: "Szembetűnő gránitcsúcsok csoportja.", ro: "Un grup de vârfuri de granit impresionante.", en: "A group of prominent granite peaks." , es: "Un grupo de llamativos picos de granito.", pt: "Um grupo de picos de granito impressionantes.", fr: "Un groupe de pics granitiques remarquables."},
     facts: {
       de: ["Wird oft als das Matterhorn Namibias bezeichnet.", "Beliebt bei Kletterern.", "Enthält prähistorische Kunst."],
@@ -397,7 +393,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-ER",
     coords: [15.66, -21.66],
     name: { de: "Erongo-Gebirge", hu: "Erongo-hegység", ro: "Munții Erongo", en: "Erongo Mountains"},
-    image: "/poi-images/erongo-mountains-relief-v2.webp",
     description: { de: "Ein altes Vulkangebirge.", hu: "Régi vulkanikus hegység.", ro: "Un vechi munte vulcanic.", en: "An old volcanic mountain range." , es: "Una antigua cadena montañosa volcánica.", pt: "Uma antiga cadeia de montanhas vulcânicas.", fr: "Une ancienne chaîne de montagnes volcaniques."},
     facts: {
       de: ["Geologisch sehr vielfältig.", "Bekannt für Mineralien.", "Runde Form."],
@@ -483,7 +478,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-KH",
     coords: [17.16, -22.75],
     name: { de: "Auas-Berge", hu: "Auas-hegység", ro: "Munții Auas", en: "Auas Mountains"},
-    image: "/poi-images/auas-mountains-relief-v2.webp",
     description: { de: "Ein Gebirgszug südlich von Windhoek.", hu: "Hegység Windhoek-tól délre.", ro: "Un lanț muntos la sud de Windhoek.", en: "A mountain range south of Windhoek." , es: "Una cordillera situada al sur de Windhoek.", pt: "Uma cadeia de montanhas ao sul de Windhoek.", fr: "Une chaîne de montagnes située au sud de Windhoek."},
     facts: {
       de: ["Beinhaltet den Moltkeblick.", "Wichtige Wasserscheide.", "Höhe über 2400 m."],
@@ -524,7 +518,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-KH",
     coords: [16.5, -22.5],
     name: { de: "Khomas-Hochland", hu: "Khomas-felföld", ro: "Podișul Khomas", en: "Khomas Hochland"},
-    image: "/poi-images/khomas-hochland-relief-v2.webp",
     description: { de: "Ein Hochlandplateau in der Mitte Namibias.", hu: "Felföldi fennsík Namíbia közepén.", ro: "Un platou muntos în centrul Namibiei.", en: "A highland plateau in central Namibia." , es: "Una meseta de tierras altas en el centro de Namibia.", pt: "Um planalto no centro da Namíbia.", fr: "Un plateau de hautes terres au centre de la Namibie."},
     facts: {
       de: ["Windhoek liegt hier.", "Zerklüftete Landschaft.", "Kühleres Klima."],
@@ -565,7 +558,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-OT",
     coords: [17.25, -20.5],
     name: { de: "Waterberg-Plateau", hu: "Waterberg-fennsík", ro: "Podișul Waterberg", en: "Waterberg Plateau"},
-    image: "/poi-images/waterberg-plateau-relief-v2.webp",
     description: { de: "Ein massives rotes Sandsteinplateau.", hu: "Masszív vörös homokkő fennsík.", ro: "Un platou masiv de gresie roșie.", en: "A massive red sandstone plateau." , es: "Una enorme meseta de arenisca roja.", pt: "Um enorme planalto de arenito vermelho.", fr: "Un massif plateau de grès rouge."},
     facts: {
       de: ["Schutzgebiet für bedrohte Arten.", "Steile Hänge.", "Vegetationsreich."],
@@ -723,7 +715,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-KA",
     coords: [17.6, -27.6],
     name: { de: "Fish River Canyon", hu: "Fish River kanyon", ro: "Canionul Fish River", en: "Fish River Canyon"},
-    image: "/poi-images/fish-river-canyon-relief-v2.webp",
     description: { de: "Der größte Canyon Afrikas.", hu: "Afrika legnagyobb kanyonja.", ro: "Cel mai mare canion din Africa.", en: "The largest canyon in Africa." , es: "El cañón más grande de África.", pt: "O maior canyon de África.", fr: "Le plus grand canyon d'Afrique."},
     facts: {
       de: ["Tiefes Erosionstal.", "Wanderparadies.", "Spektakuläre Aussichten."],
@@ -764,7 +755,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-KA",
     coords: [16.25, -26.6],
     name: { de: "Aus-Berge", hu: "Aus-hegység", ro: "Munții Aus", en: "Aus Mountains"},
-    image: "/poi-images/aus-mountains-relief-v2.webp",
     description: { de: "Gebirgsregion in der Nähe der Wüste Namib.", hu: "Hegyvidék a Namib-sivatag közelében.", ro: "Regiune muntoasă lângă deșertul Namib.", en: "Mountain region near the Namib Desert." , es: "Región montañosa cerca del desierto del Namib.", pt: "Região montanhosa perto do deserto do Namibe.", fr: "Région montagneuse à proximité du désert du Namib."},
     facts: {
       de: ["Heimat der Wüstenpferde.", "Kühles Hochland.", "Granitformationen."],
@@ -805,7 +795,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-KA",
     coords: [15.8, -27.0],
     name: { de: "Tsau //Khaeb", hu: "Tsau //Khaeb", ro: "Tsau //Khaeb", en: "Tsau //Khaeb"},
-    image: "/poi-images/tsau-khaeb-relief-v2.webp",
     description: { de: "Ein Gebiet mit Wüsten- und Berglandschaften.", hu: "Sivatagi és hegyvidéki tájak területe.", ro: "O zonă cu peisaje deșertice și muntoase.", en: "An area with desert and mountain landscapes." , es: "Una zona con paisajes de deserto y montaña.", pt: "Uma área com paisagens de deserto e montanha.", fr: "Une zone de paysages désertiques et montagneux."},
     facts: {
       de: ["Nationalpark.", "Früher Sperrgebiet.", "Einzigartige Flora."],
@@ -846,7 +835,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-KA",
     coords: [17.2, -27.6],
     name: { de: "Huns-Berge", hu: "Huns-hegység", ro: "Munții Huns", en: "Huns Mountains"},
-    image: "/poi-images/huns-mountains-relief-v2.webp",
     description: { de: "Ein bergiges Gebiet bei Fish River Canyon.", hu: "Hegyvidéki terület a Fish River kanyon közelében.", ro: "Zonă muntoasă lângă Canionul Fish River.", en: "A mountainous area near Fish River Canyon." , es: "Una zona montañosa cerca del cañón del río Fish.", pt: "Uma zona montanhosa perto do canyon do Rio Fish.", fr: "Une zone montagneuse près du canyon de la Fish River."},
     facts: {
       de: ["Raue Landschaft.", "Trockene Gegend.", "Gering besiedelt."],
@@ -887,7 +875,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-HA",
     coords: [16.25, -24.25],
     name: { de: "Naukluft-Berge", hu: "Naukluft-hegység", ro: "Munții Naukluft", en: "Naukluft Mountains"},
-    image: "/poi-images/naukluft-mountains-relief-v2.webp",
     description: { de: "Ein Gebirgsplateau mit vielen Quellen.", hu: "Hegyi fennsík sok forrással.", ro: "Un platou muntos cu multe izvoare.", en: "A mountain plateau with many springs." , es: "Una meseta montañosa con muchos manantiales.", pt: "Um planalto montanhoso com muitas nascentes.", fr: "Un plateau montagneux avec de nombreuses sources."},
     facts: {
       de: ["Bekannt für Wandern.", "Steile Felswände.", "Reiches Wildleben."],
@@ -928,7 +915,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-KA",
     coords: [15.8, -26.0],
     name: { de: "Tiras-Berge", hu: "Tiras-hegység", ro: "Munții Tiras", en: "Tiras Mountains"},
-    image: "/poi-images/tiras-mountains-relief-v2.webp",
     description: { de: "Gebirgsregion am Rande der Namib.", hu: "Hegyvidék a Namib peremén.", ro: "Regiune muntoasă la marginea deșertului Namib.", en: "Mountain region at the edge of the Namib." , es: "Región montañosa en el borde del Namib.", pt: "Região montanhosa à beira do Namibe.", fr: "Région montagneuse en bordure du Namib."},
     facts: {
       de: ["Spektakuläre Aussichten.", "Privatreservate.", "Übergangszone."],
@@ -969,7 +955,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-KH",
     coords: [17.5, -22.8],
     name: { de: "Khomas-Berge", hu: "Khomas-hegység", ro: "Munții Khomas", en: "Khomas Mountains"},
-    image: "/poi-images/muhlo-mountains-relief-v2.webp",
     description: { de: "Das Gebirge im Khomas-Hochland.", hu: "Hegység a Khomas-felföldön.", ro: "Munții din Podișul Khomas.", en: "The mountains in the Khomas Highlands." , es: "Las montañas en el Khomas Hochland.", pt: "As montanhas no Planalto de Khomas.", fr: "Les montagnes des hauts plateaux de Khomas."},
     facts: {
       de: ["Hügeliges Gelände.", "Trockene Täler.", "Typisch für Zentralnamibia."],
@@ -1010,7 +995,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-OT",
     coords: [17.5, -19.5],
     name: { de: "Otavi-Berge", hu: "Otavi-hegység", ro: "Munții Otavi", en: "Otavi Mountains"},
-    image: "/poi-images/otavi-mountains-relief-v2.webp",
     description: { de: "Eine Bergregion im Norden.", hu: "Hegyvidék északon.", ro: "O regiune muntoasă în nord.", en: "A mountain region in the north." , es: "Una región montañosa en el norte.", pt: "Uma região montanhosa no norte.", fr: "Une région montagneuse dans le nord."},
     facts: {
       de: ["Kalksteinformationen.", "Gute Niederschläge.", "Landwirtschaftlich wichtig."],
@@ -1096,7 +1080,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-KU",
     coords: [14.0, -17.8],
     name: { de: "Zebra-Berge", hu: "Zebra-hegység", ro: "Munții Zebra", en: "Zebra Mountains"},
-    image: "/poi-images/zebra-mountains-relief-v2.webp",
     description: { de: "Ein Gebirge im Kunene-Gebiet.", hu: "Hegység Kunene régióban.", ro: "Un munte în regiunea Kunene.", en: "A mountain range in the Kunene region." , es: "Una cadena montañosa en la región de Kunene.", pt: "Uma cordilheira na região de Kunene.", fr: "Une chaîne de montagnes dans la région de Kunene."},
     facts: {
       de: ["Gestreifte Gesteinsschichten.", "Entlegene Region.", "Wüstenlandschaft."],
@@ -1137,7 +1120,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-KU",
     coords: [12.6, -17.2],
     name: { de: "Baynes-Berge", hu: "Baynes-hegység", ro: "Munții Baynes", en: "Baynes Mountains"},
-    image: "/poi-images/baynes-mountains-relief-v2.webp",
     description: { de: "Gebirge nahe dem Kunene-Fluss.", hu: "Hegység a Kunene-folyó közelében.", ro: "Munți lângă râul Kunene.", en: "Mountains near the Kunene River." , es: "Montañas cerca del río Cunene.", pt: "Montanhas perto do rio Cunene.", fr: "Montagnes situées près du fleuve Cunene."},
     facts: {
       de: ["Sehr schroff.", "Grenze zu Angola.", "Kaum besucht."],
@@ -1178,7 +1160,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-KU",
     coords: [12.5, -17.5],
     name: { de: "Hartmann-Berge", hu: "Hartmann-hegység", ro: "Munții Hartmann", en: "Hartmann Mountains"},
-    image: "/poi-images/hartmann-mountains-relief-v2.webp",
     description: { de: "Teil der Kaokoveld-Berge.", hu: "A Kaokoveld-hegység része.", ro: "Parte a munților Kaokoveld.", en: "Part of the Kaokoveld mountains." , es: "Parte de las montañas del Kaokoveld.", pt: "Parte das montanhas de Kaokoveld.", fr: "Partie des montagnes du Kaokoveld."},
     facts: {
       de: ["Wüstenberge.", "Extrem trocken.", "Kaokoveld-Landschaft."],
@@ -1219,7 +1200,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-KU",
     coords: [14.0, -20.0],
     name: { de: "Grootberg", hu: "Grootberg", ro: "Grootberg", en: "Grootberg"},
-    image: "/poi-images/grootberg-relief-v2.webp",
     description: { de: "Ein bedeutender Tafelberg.", hu: "Jelentős táblahegy.", ro: "Un munte plat important.", en: "A significant table mountain." , es: "Una importante montaña de mesa.", pt: "Uma importante montanha de mesa.", fr: "Une importante montagne tabulaire."},
     facts: {
       de: ["Steilwandig.", "Tolle Aussicht.", "Naturreservat."],
@@ -1260,7 +1240,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-KU",
     coords: [13.2, -17.0],
     name: { de: "Epupa-Fälle", hu: "Epupa-vízesés", ro: "Cascada Epupa", en: "Epupa Falls"},
-    image: "/poi-images/epupa-falls-relief-v2.webp",
     description: { de: "Wasserfälle am Kunene-Fluss.", hu: "Vízesések a Kunene-folyón.", ro: "Cascade pe râul Kunene.", en: "Waterfalls on the Kunene River." , es: "Cataratas en el río Cunene.", pt: "Cataratas no rio Cunene.", fr: "Chutes d'eau sur le fleuve Cunene."},
     facts: {
       de: ["Palmen bewachsen.", "Grenzfluss.", "Spektakuläre Schlucht."],
@@ -1346,7 +1325,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-KU",
     coords: [14.2, -18.5],
     name: { de: "Khoe-Khoe-Berge", hu: "Khoe-Khoe-hegység", ro: "Munții Khoe-Khoe", en: "Khoe-Khoe Mountains"},
-    image: "/poi-images/khoe-khoe-mountains-relief-v2.webp",
     description: { de: "Hügelige Region im Nordwesten.", hu: "Dombos régió északnyugaton.", ro: "Regiune deluroasă în nord-vest.", en: "Hilly region in the northwest." , es: "Región montañosa en el noroeste.", pt: "Região montanhosa no noroeste.", fr: "Région vallonnée dans le nord-ouest."},
     facts: {
       de: ["Trockenes Hochland.", "Kulturhistorisch interessant.", "Traditionelle Siedlungen."],
@@ -1387,7 +1365,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-KU",
     coords: [14.1, -19.4],
     name: { de: "Ongongo-Quelle", hu: "Ongongo-forrás", ro: "Izvorul Ongongo", en: "Ongongo Spring"},
-    image: "/poi-images/ongongo-relief-v2.webp",
     description: { de: "Eine natürliche Oase.", hu: "Természetes oázis.", ro: "O oază naturală.", en: "A natural oasis." , es: "Un oasis natural.", pt: "Um oásis natural.", fr: "Une oasis naturelle."},
     facts: {
       de: ["Felsenbecken.", "Frisches Wasser.", "Im Klippentäler."],
@@ -1473,7 +1450,6 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     parent: "NA-KU",
     coords: [13.9, -19.8],
     name: { de: "Palmwag-Konzession", hu: "Palmwag-koncesszió", ro: "Concesiunea Palmwag", en: "Palmwag Concession"},
-    image: "/poi-images/palmwag-concession-relief-v2.webp",
     description: { de: "Ein riesiges Naturschutzgebiet.", hu: "Hatalmas természetvédelmi terület.", ro: "O uriașă rezervație naturală.", en: "A huge nature reserve." , es: "Una enorme reserva natural.", pt: "Uma enorme reserva natural.", fr: "Une immense réserve naturelle."},
     facts: {
       de: ["Wüstenangepasste Tiere.", "Basaltgebirge.", "Weite Landschaften."],

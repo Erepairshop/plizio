@@ -12,7 +12,6 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
       hu: "Kizil-kum sivatag",
       ro: "Deșertul Kyzylkum",
       en: "Kyzylkum Desert"},
-    image: "/poi-images/kyzylkum-desert-relief-v2.webp",
     description: {
       de: "Eine riesige Sandwüste, die sich über Zentralasien erstreckt und für ihre rötlichen Dünen und extremen Temperaturen bekannt ist.",
       hu: "Hatalmas homoksivatag, amely Közép-Ázsián húzódik keresztül, és vöröses dűnéiről, valamint szélsőséges hőmérsékletéről ismert.",
@@ -64,7 +63,6 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
       hu: "Ustjurt-fennsík",
       ro: "Platoul Ustyurt",
       en: "Ustyurt Plateau"},
-    image: "/poi-images/ustyurt-plateau-relief-v2.webp",
     description: {
       de: "Ein karges, hochgelegenes Plateau zwischen dem Kaspischen Meer und dem Aralsee, das von steilen Klippen begrenzt wird.",
       hu: "Kopár, magasan fekvő fennsík a Kaszpi-tenger és az Aral-tó között, amelyet meredek sziklafalak határolnak.",
@@ -116,7 +114,6 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
       hu: "Aralkum-sivatag",
       ro: "Deșertul Aralkum",
       en: "Aralkum Desert"},
-    image: "/poi-images/aralkum-desert-relief-v2.webp",
     description: {
       de: "Eine der jüngsten Wüsten der Erde, entstanden auf dem trockengefallenen Grund des ehemaligen Aralsees.",
       hu: "A Föld egyik legfiatalabb sivataga, amely az egykori Aral-tó kiszáradt medrén jött létre.",
@@ -168,7 +165,6 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
       hu: "Fergana-völgy",
       ro: "Valea Fergana",
       en: "Fergana Valley"},
-    image: "/poi-images/fergana-valley-relief-v2.webp",
     description: {
       de: "Ein fruchtbares, dicht besiedeltes Tal, das als die landwirtschaftliche Kernregion von Usbekistan gilt.",
       hu: "Termékeny, sűrűn lakott völgy, amely Üzbegisztán mezőgazdasági magterületének számít.",
@@ -401,7 +397,6 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
       hu: "Csatkal-hegység",
       ro: "Munții Chatkal",
       en: "Chatkal Range"},
-    image: "/poi-images/chatkal-range-relief-v2.webp",
     description: {
       de: "Ein westlicher Ausläufer des Tian-Shan-Gebirges, bekannt für malerische Alpenseen und tiefe Schluchten.",
       hu: "A Tien-san hegység nyugati nyúlványa, amely festői alpesi tavairól és mély szurdokairól ismert.",
@@ -465,7 +460,6 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
       hu: "Gisszar-hegység",
       ro: "Munții Gissar",
       en: "Gissar Range"},
-    image: "/poi-images/gissar-range-relief-v2.webp",
     description: {
       de: "Eine schroffe Bergkette im Süden des Landes, die Usbekistans höchste Erhebungen und abgelegene Täler umfasst.",
       hu: "Zord hegylánc az ország déli részén, amely Üzbegisztán legmagasabb kiemelkedéseit és eldugott völgyeit foglalja magában.",
@@ -581,7 +575,6 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
       hu: "Kurama-hegység",
       ro: "Munții Kurama",
       en: "Kurama Range"},
-    image: "/poi-images/kurama-range-relief-v2.webp",
     description: {
       de: "Ein Ausläufer des westlichen Tian Shan, der das Ferghanatal im Nordwesten begrenzt und reich an Mineralien ist.",
       hu: "A nyugati Tien-san nyúlványa, amely északnyugaton határolja a Fergana-völgyet, és ásványokban gazdag.",
@@ -1038,7 +1031,6 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
       hu: "Karzsantau-hegység",
       ro: "Munții Karjantau",
       en: "Karjantau Range"},
-    image: "/poi-images/karjantau-range-relief-v2.webp",
     description: {
       de: "Ein kleineres, aber steiles Gebirgsmassiv nahe Taschkent, das oft von Naturliebhabern und Wanderern besucht wird.",
       hu: "Kisebb, de meredek hegymasszívum Taskent közelében, amelyet gyakran látogatnak a természetkedvelők és a túrázók.",
@@ -1147,7 +1139,6 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
       hu: "Ugam-hegység",
       ro: "Munții Ugam",
       en: "Ugam Range"},
-    image: "/poi-images/ugam-range-relief-v2.webp",
     description: {
       de: "Eine wilde Gebirgsregion mit tief eingeschnittenen Flusstälern, die an der Grenze zu Kasachstan liegt.",
       hu: "Vad hegyvidéki régió mélyen bevágódott folyóvölgyekkel, amely Kazahsztán határán fekszik.",
@@ -1256,7 +1247,6 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
       hu: "Pszkem-hegység",
       ro: "Munții Pskem",
       en: "Pskem Range"},
-    image: "/poi-images/pskem-range-relief-v2.webp",
     description: {
       de: "Ein abgelegenes und schwer zugängliches Bergmassiv, das für seine unberührte alpine Natur und ewigen Schnee bekannt ist.",
       hu: "Elszigetelt és nehezen megközelíthető hegymasszívum, amely érintetlen alpesi természetéről és örök haváról ismert.",
@@ -1320,7 +1310,6 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
       hu: "Babatag-hegység",
       ro: "Munții Babatag",
       en: "Babatag Range"},
-    image: "/poi-images/babatag-range-relief-v2.webp",
     description: {
       de: "Ein südlicher Gebirgszug entlang der tadschikischen Grenze, der von rauen Felsen und spärlicher Vegetation geprägt ist.",
       hu: "Déli hegylánc a tádzsik határ mentén, amelyet zord sziklák és ritkás növényzet jellemez.",
@@ -1429,7 +1418,6 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
       hu: "Kugitangtau-hegység",
       ro: "Munții Kugitangtau",
       en: "Kugitangtau Range"},
-    image: "/poi-images/kugitangtau-range-relief-v2.webp",
     description: {
       de: "Eine majestätische Bergkette im äußersten Südosten Usbekistans, berühmt für versteckte Höhlen und Dinosaurierspuren.",
       hu: "Fenséges hegylánc Üzbegisztán legdélkeletibb részén, amely rejtett barlangjairól és dinoszaurusznyomairól híres.",
@@ -1538,7 +1526,6 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
       hu: "Zarafson-hegység",
       ro: "Munții Zarafșan",
       en: "Zarafshan Range"},
-    image: "/poi-images/zarafshan-range-relief-v2.webp",
     description: {
       de: "Ein zentraler Gebirgszug, der das Wasser für das historische Sarafschon-Tal liefert und eine beeindruckende geologische Vielfalt aufweist.",
       hu: "Központi hegylánc, amely a történelmi Zarafson-völgy vízellátását biztosítja, és lenyűgöző geológiai sokszínűséggel rendelkezik.",
@@ -1602,7 +1589,6 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
       hu: "Majdantal-hegység",
       ro: "Munții Maidantal",
       en: "Maidantal Range"},
-    image: "/poi-images/maidantal-range-relief-v2.webp",
     description: {
       de: "Ein nördlicher Gebirgsabschnitt im Tian-Shan, der für seine rauen klimatischen Bedingungen und weite Almwiesen bekannt ist.",
       hu: "A Tien-san északi hegyvonulata, amely zord éghajlati viszonyairól és széles havasi legelőiről ismert.",
@@ -3071,7 +3057,6 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
       hu: "Szurhandarja-völgy",
       ro: "Valea Surkhandarya",
       en: "Surkhandarya Valley"},
-    image: "/poi-images/surkhandarya-valley-relief-v2.webp",
     description: {
       de: "Ein warmes, subtropisches Tal im tiefen Süden, das durch den Surchandarja-Fluss fruchtbar gemacht wird.",
       hu: "Meleg, szubtrópusi völgy a mély déli részen, amelyet a Szurhandarja folyó tesz termékennyé.",
@@ -3288,7 +3273,6 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
       hu: "Pszkem-völgy",
       ro: "Valea Pskem",
       en: "Pskem Valley"},
-    image: "/poi-images/pskem-valley-relief-v2.webp",
     description: {
       de: "Ein malerisches, enges Tal im westlichen Tian Shan, das von schroffen Bergen und dem glasklaren Pskem-Fluss umgeben ist.",
       hu: "Festői, szűk völgy a nyugati Tien-sanban, amelyet zord hegyek és a kristálytiszta Pszkem-folyó ölel körül.",

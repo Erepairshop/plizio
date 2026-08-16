@@ -377,7 +377,6 @@ export const poiExtraYemenReliefV2: POI[] = [
     parent: "YE-SN",
     coords: [43.9877, 15.2750],
     name: { de: "Dschabal an-Nabi Schuʿaib", hu: "Dzsebel an-Nabi Suaib", ro: "Jabal An-Nabi Shu'ayb", en: "Jabal An-Nabi Shu'ayb"},
-    image: "/poi-images/jabal-an-nabi-shuayb-relief-v2.webp",
     description: { de: "Der höchste Berg im Jemen und auf der gesamten Arabischen Halbinsel, der eine atemberaubende Höhe von über 3.660 Metern erreicht.", hu: "Jemen és az egész Arab-félsziget legmagasabb hegye, amely több mint 3660 méteres magasságával lenyűgöző látványt nyújt.", ro: "Cel mai înalt munte din Yemen și din întreaga Peninsulă Arabică, atingând o altitudine uimitoare de peste 3.660 de metri.", en: "The highest mountain in Yemen and the entire Arabian Peninsula, reaching a staggering elevation of over 3,660 meters." , es: "La montaña más alta de Yemen y de toda la Península Arábiga, que alcanza una impresionante altura de más de 3.660 metros.", pt: "A montanha mais alta do Iémen e de toda a Península Arábica, atingindo uma altitude impressionante de mais de 3.660 metros.", fr: "Le plus haut sommet du Yémen et de toute la péninsule Arabique, culminant à une altitude impressionnante de plus de 3 660 mètres."},
     facts: {
       de: ["Höchster Berg der Arabischen Halbinsel.", "Höhe von 3.666 Metern."],
@@ -413,7 +412,6 @@ export const poiExtraYemenReliefV2: POI[] = [
     parent: "YE-HD",
     coords: [49.5000, 16.0000],
     name: { de: "Wadi Hadramaut", hu: "Vádi Hadramaut", ro: "Wadi Hadhramaut", en: "Wadi Hadhramaut"},
-    image: "/poi-images/wadi-hadhramaut-relief-v2.webp",
     description: { de: "Ein weites Flusstal im östlichen Jemen, das für seine antiken Städte und tiefen Canyons bekannt ist.", hu: "Egy széles folyóvölgy Kelet-Jemenben, amely ősi városairól és mély kanyonjairól ismert.", ro: "O vale largă de râu în estul Yemenului, cunoscută pentru orașele sale antice și canioanele adânci.", en: "A vast river valley in eastern Yemen, known for its ancient cities and deep canyons." , es: "Un vasto valle fluvial en el este de Yemen, conocido por sus ciudades antiguas y profundos cañones.", pt: "Um vasto vale fluvial no leste do Iémen, conhecido pelas suas cidades antigas e desfiladeiros profundos.", fr: "Une vaste vallée fluviale de l'est du Yémen, réputée pour ses cités antiques et ses canyons profonds."},
     facts: {
       de: ["Das größte Wadi der Arabischen Halbinsel.", "Umfasst antike Lehmarchitektur."],
@@ -449,7 +447,6 @@ export const poiExtraYemenReliefV2: POI[] = [
     parent: "YE-JA",
     coords: [47.0000, 17.5000],
     name: { de: "Rub al-Chali (Jemen)", hu: "Rub al-Háli (Jemen)", ro: "Rub' al Khali (Yemen)", en: "Rub' al Khali (Yemen)"},
-    image: "/poi-images/rub-al-khali-yemen-relief-v2.webp",
     description: { de: "Der südliche Rand der größten Sandwüste der Welt, der sich in die nördlichen Regionen des Jemen erstreckt.", hu: "A világ legnagyobb homoksivatagának déli pereme, amely kiterjed Jemen északi régióira is.", ro: "Marginea sudică a celui mai mare deșert de nisip din lume, care se extinde în regiunile nordice ale Yemenului.", en: "The southern edge of the world's largest sand desert, extending into the northern regions of Yemen." , es: "El borde meridional del desierto de arena más grande del mundo, que se adentra en las regiones del norte de Yemen.", pt: "A borda sul do maior deserto de areia do mundo, que se estende pelas regiões norte do Iémen.", fr: "La bordure sud du plus grand désert de sable au monde, qui s'étend dans les régions septentrionales du Yémen."},
     facts: {
       de: ["Die größte zusammenhängende Sandwüste der Welt.", "Erstreckt sich über mehrere Länder."],
@@ -485,7 +482,6 @@ export const poiExtraYemenReliefV2: POI[] = [
     parent: "YE-MA",
     coords: [46.0000, 15.5000],
     name: { de: "Ramlat as-Sabʿatain", hu: "Ramlat al-Szabatájn", ro: "Ramlat al-Sab'atayn", en: "Ramlat al-Sab'atayn"},
-    image: "/poi-images/ramlat-al-sabatayn-relief-v2.webp",
     description: { de: "Eine riesige Wüstenregion im zentralen Jemen, die historische Handelsrouten zwischen dem Hadramaut und Marib verbindet.", hu: "Egy hatalmas sivatagi régió Közép-Jemenben, amely történelmi kereskedelmi útvonalakat kötött össze Hadramaut és Márib között.", ro: "O vastă regiune deșertică în centrul Yemenului, legând rutele comerciale istorice între Hadhramaut și Marib.", en: "A vast desert region in central Yemen, connecting historical trade routes between Hadhramaut and Marib." , es: "Una vasta región desértica en el centro de Yemen que conecta las rutas comerciales históricas entre Hadramaut y Marib.", pt: "Uma vasta região desértica no centro do Iémen, ligando rotas comerciais históricas entre Hadramaut e Marib.", fr: "Une vaste région désertique au centre du Yémen, reliant les routes commerciales historiques entre le Hadramaout et Marib."},
     facts: {
       de: ["Teil der Wüste Rub al-Chali.", "War eine wichtige historische Handelsroute."],
@@ -962,7 +958,6 @@ export const poiExtraYemenReliefV2: POI[] = [
     parent: "YE-SN",
     coords: [43.7500, 15.0833],
     name: { de: "Haraz-Gebirge", hu: "Haraz-hegység", ro: "Munții Haraz", en: "Haraz Mountains"},
-    image: "/poi-images/haraz-mountains-relief-v2.webp",
     description: { de: "Ein zerklüftetes Gebirge westlich von Sanaa, berühmt für seine terrassierten Hänge und befestigten Bergdörfer.", hu: "Egy tagolt hegység Szanaától nyugatra, amely teraszos lejtőiről és erődített hegyi falvairól híres.", ro: "Un lanț muntos accidentat la vest de Sana'a, renumit pentru pantele sale terasate și satele de munte fortificate.", en: "A rugged mountain range west of Sanaa, famous for its terraced slopes and fortified mountain villages." , es: "Una cordillera escarpada al oeste de Saná, famosa por sus laderas aterrazadas y sus pueblos de montaña fortificados.", pt: "Uma cordilheira escarpada a oeste de Sanaa, famosa pelas suas encostas em socalcos e aldeias de montanha fortificadas.", fr: "Une chaîne de montagnes escarpée à l'ouest de Sanaa, célèbre pour ses versants en terrasses et ses villages de montagne fortifiés."},
     facts: {
       de: ["Bekannt für befestigte Dörfer.", "Stark terrassiert für den Kaffeeanbau."],
@@ -1079,7 +1074,6 @@ export const poiExtraYemenReliefV2: POI[] = [
     parent: "YE-HD",
     coords: [48.3333, 15.1667],
     name: { de: "Wadi Doan", hu: "Vádi Dawan", ro: "Wadi Dawan", en: "Wadi Dawan"},
-    image: "/poi-images/wadi-dawan-relief-v2.webp",
     description: { de: "Ein malerisches Wüstental, das sich vom Hadramaut abzweigt und für seine Lehmziegelarchitektur und Honigproduktion bekannt ist.", hu: "Egy festői sivatagi völgy, amely a Hadramautból ágazik ki, és vályogépítészetéről, valamint méztermeléséről ismert.", ro: "O vale pitorească deșertică care se ramifică din Hadhramaut, cunoscută pentru arhitectura sa din cărămidă de noroi și producția de miere.", en: "A picturesque desert valley branching off from the Hadhramaut, known for its mud-brick architecture and honey production." , es: "Un pintoresco valle desértico que se ramifica del Hadramaut, conocido por su arquitectura de ladrillos de barro y la producción de miel.", pt: "Um vale desértico pitoresco que se ramifica do Hadramaut, conhecido pela sua arquitetura de tijolos de barro e produção de mel.", fr: "Une vallée désertique pittoresque bifurquant du Hadramaout, célèbre pour son architecture en briques de terre crue et sa production de miel."},
     facts: {
       de: ["Berühmt für seinen Sidr-Honig.", "Weist beeindruckende Lehmhäuser auf."],
@@ -1484,7 +1478,6 @@ export const poiExtraYemenReliefV2: POI[] = [
     parent: "YE-HJ",
     coords: [43.6000, 15.6833],
     name: { de: "Hadscha-Gebirge", hu: "Haddzsa-hegység", ro: "Munții Hajjah", en: "Hajjah Mountains"},
-    image: "/poi-images/hajjah-mountains-relief-v2.webp",
     description: { de: "Eine beeindruckende Gebirgslandschaft im Nordwesten des Jemen mit steilen Schluchten und isolierten Tälern.", hu: "Lenyűgöző hegyvidéki táj Jemen északnyugati részén meredek szurdokokkal és elszigetelt völgyekkel.", ro: "Un peisaj montan impresionant în nord-vestul Yemenului, cu chei abrupte și văi izolate.", en: "An impressive mountainous landscape in northwestern Yemen with steep gorges and isolated valleys." , es: "Un impresionante paisaje montañoso en el noroeste de Yemen con desfiladeros empinados y valles aislados.", pt: "Uma paisagem montanhosa impressionante no noroeste do Iémen, com desfiladeiros íngremes e vales isolados.", fr: "Un paysage montagneux impressionnant dans le nord-ouest du Yémen, avec des gorges abruptes et des vallées isolées."},
     facts: {
       de: ["Bietet spektakuläre Schluchten.", "Geprägt von traditioneller Landwirtschaft."],
@@ -1565,7 +1558,6 @@ export const poiExtraYemenReliefV2: POI[] = [
     parent: "YE-SU",
     coords: [54.0000, 12.5000],
     name: { de: "Küste von Sokotra", hu: "Szokotra partvidéke", ro: "Coasta Socotra", en: "Socotra Coast"},
-    image: "/poi-images/socotra-coast-relief-v2.webp",
     description: { de: "Die unberührten Küstenlinien der Insel Sokotra, bekannt für ihre weißen Sandstrände und endemische Meereslebewesen.", hu: "Szokotra szigetének érintetlen partvidéke, amely fehér homokos strandjairól és endemikus tengeri élőlényeiről ismert.", ro: "Liniile de coastă virgine ale insulei Socotra, cunoscute pentru plajele lor cu nisip alb și viața marină endemică.", en: "The pristine coastlines of Socotra Island, known for their white sand beaches and endemic marine life." , es: "Las costas vírgenes de la isla de Socotra, conocidas por sus playas de arena blanca y vida marina endémica.", pt: "As costas intocadas da ilha de Socotra, conhecidas pelas suas praias de areia branca e vida marinha endémica.", fr: "Les côtes vierges de l'île de Socotra, connues pour leurs plages de sable blanc et leur vie marine endémique."},
     facts: {
       de: ["Heimat vieler endemischer Arten.", "Verfügt über unberührte Sandstrände."],
@@ -1862,7 +1854,6 @@ export const poiExtraYemenReliefV2: POI[] = [
     parent: "YE-SN",
     coords: [44.1333, 15.4333],
     name: { de: "Wadi Dhar", hu: "Vádi Dhar", ro: "Wadi Dhar", en: "Wadi Dhar"},
-    image: "/poi-images/wadi-dhar-relief-v2.webp",
     description: { de: "Ein fruchtbares Tal in der Nähe der Hauptstadt Sanaa, das von steilen Felswänden und grünen Obstgärten umgeben ist.", hu: "Egy termékeny völgy a főváros, Szanaa közelében, amelyet meredek sziklafalak és zöld gyümölcsösök vesznek körül.", ro: "O vale fertilă lângă capitala Sana'a, înconjurată de pereți stâncoși abrupți și livezi verzi.", en: "A fertile valley near the capital Sanaa, surrounded by steep rock faces and green orchards." , es: "Un valle fértil cerca de la capital, Saná, rodeado de escarpados acantilados y verdes huertos.", pt: "Um vale fértil perto da capital Saná, rodeado por paredes rochosas íngremes e pomares verdes.", fr: "Une vallée fertile près de la capitale Sanaa, entourée de falaises abruptes et de vergers verdoyants."},
     facts: {
       de: ["Heimat des berühmten Felsenpalastes.", "Sehr fruchtbares Tal nahe Sanaa."],
@@ -1934,7 +1925,6 @@ export const poiExtraYemenReliefV2: POI[] = [
     parent: "YE-TA",
     coords: [44.0167, 13.5333],
     name: { de: "Dschabal Sabir", hu: "Dzsebel Szabír", ro: "Jabal Sabir", en: "Jabal Sabir"},
-    image: "/poi-images/jabal-sabir-relief-v2.webp",
     description: { de: "Ein markantes Bergmassiv, das sich majestätisch über der Stadt Taiz erhebt und fruchtbare Terrassen bietet.", hu: "Egy feltűnő hegytömb, amely fenségesen magasodik Taiz városa fölé, és termékeny teraszoknak ad otthont.", ro: "Un masiv muntos proeminent care se înalță maiestuos deasupra orașului Taiz, oferind terase fertile.", en: "A prominent mountain massif that rises majestically above the city of Taiz, offering fertile terraces." , es: "Un imponente macizo montañoso que se eleva majestuosamente sobre la ciudad de Taiz y cuenta con fértiles terrazas.", pt: "Um maciço montanhoso marcante que se ergue majestosamente sobre a cidade de Taiz e oferece terraços férteis.", fr: "Un massif montagneux imposant qui s'élève majestueusement au-dessus de la ville de Taiz et offre des terrasses fertiles."},
     facts: {
       de: ["Einer der höchsten Berge im Jemen.", "Überblickt die Stadt Taiz."],
@@ -1970,7 +1960,6 @@ export const poiExtraYemenReliefV2: POI[] = [
     parent: "YE-HD",
     coords: [48.8000, 15.5000],
     name: { de: "Hadramaut-Plateau", hu: "Hadramaut-fennsík", ro: "Platoul Hadhramaut", en: "Hadhramaut Plateau"},
-    image: "/poi-images/hadhramaut-plateau-relief-v2.webp",
     description: { de: "Eine weitläufige, felsige Hochebene, die von einem Netzwerk tiefer Wadis durchschnitten wird.", hu: "Egy kiterjedt, sziklás fennsík, amelyet mély vádik hálózata szabdal át.", ro: "Un platou stâncos extins, intersectat de o rețea de wadi-uri adânci.", en: "The Hadhramaut Plateau is a vast and arid elevated region in Yemen, characterized by deep wadis and sparse vegetation. It is a defining geological feature of the Hadhramaut Governorate." , es: "Una vasta meseta rocosa atravesada por una red de profundos wadis.", pt: "Um vasto planalto rochoso atravessado por uma rede de uádis profundos.", fr: "Un vaste plateau rocheux entaillé par un réseau de profonds oueds."},
     facts: {
       de: ["Felsige Hochebene.", "Durchschnitten von tiefen Flusstälern."],
@@ -2087,7 +2076,6 @@ export const poiExtraYemenReliefV2: POI[] = [
     parent: "YE-AD",
     coords: [45.5000, 12.8000],
     name: { de: "Küste des Golfs von Aden", hu: "Ádeni-öböl partvidéke", ro: "Coasta Golfului Aden", en: "Gulf of Aden Coast"},
-    image: "/poi-images/gulf-of-aden-coast-yemen-relief-v2.webp",
     description: { de: "Die zerklüftete Südküste des Jemen, die sich entlang des Golfs von Aden mit vulkanischen Felsformationen erstreckt.", hu: "Jemen tagolt déli partvidéke, amely az Ádeni-öböl mentén húzódik vulkanikus sziklaalakzatokkal.", ro: "Coasta accidentată de sud a Yemenului, care se întinde de-a lungul Golfului Aden cu formațiuni stâncoase vulcanice.", en: "The rugged southern coast of Yemen, stretching along the Gulf of Aden with volcanic rock formations." , es: "La escarpada costa sur de Yemen, que se extiende a lo largo del Golfo de Adén con formaciones rocosas volcánicas.", pt: "A costa sul escarpada do Iémen, que se estende ao longo do Golfo de Áden com formações rochosas vulcânicas.", fr: "La côte sud découpée du Yémen, qui s'étend le long du golfe d'Aden avec des formations rocheuses volcaniques."},
     facts: {
       de: ["Vulkanische Felsformationen.", "Strategisch wichtige Wasserstraße."],
@@ -2285,7 +2273,6 @@ export const poiExtraYemenReliefV2: POI[] = [
     parent: "YE-AB",
     coords: [45.3000, 13.5000],
     name: { de: "Wadi Bana", hu: "Vádi Bana", ro: "Wadi Bana", en: "Wadi Bana"},
-    image: "/poi-images/wadi-bana-relief-v2.webp",
     description: { de: "Ein bedeutendes Tal im südlichen Jemen, durch das saisonale Flüsse in Richtung des Indischen Ozeans fließen.", hu: "Egy jelentős völgy Jemen déli részén, amelyen keresztül szezonális folyók tartanak az Indiai-óceán felé.", ro: "O vale importantă din sudul Yemenului, prin care râurile sezoniere curg spre Oceanul Indian.", en: "A significant valley in southern Yemen, through which seasonal rivers flow towards the Indian Ocean." , es: "Un importante valle en el sur de Yemen por el que fluyen ríos estacionales hacia el océano Índico.", pt: "Um vale importante no sul do Iémen, através do qual rios sazonais fluem em direção ao oceano Índico.", fr: "Une vallée importante du sud du Yémen, traversée par des rivières saisonnières coulant vers l'océan Indien."},
     facts: {
       de: ["Saisonaler Flussverlauf.", "Wichtig für die lokale Landwirtschaft."],
@@ -2978,7 +2965,6 @@ export const poiExtraYemenReliefV2: POI[] = [
     parent: "YE-TA",
     coords: [43.8333, 13.1667],
     name: { de: "Dschabal Iraf", hu: "Dzsebel Iraf", ro: "Jabal Iraf", en: "Jabal Iraf"},
-    image: "/poi-images/jabal-iraf-relief-v2.webp",
     description: { de: "Ein zerklüfteter Berg im südwestlichen Hochland des Jemen in der Nähe von Taiz.", hu: "Egy szabdalt hegy Jemen délnyugati fennsíkján, Taiz közelében.", ro: "Un munte accidentat în zonele muntoase de sud-vest ale Yemenului, lângă Taiz.", en: "A rugged mountain in the southwestern highlands of Yemen near Taiz." , es: "Una montaña escarpada en las tierras altas del suroeste de Yemen, cerca de la ciudad de Taiz.", pt: "Uma montanha escarpada nas terras altas do sudoeste do Iémen, perto de Taiz.", fr: "Une montagne escarpée dans les hautes terres du sud-ouest du Yémen, près de Taiz."},
     facts: {
       de: ["Teil des südwestlichen Hochlands.", "Bietet weite Ausblicke."],
@@ -3050,7 +3036,6 @@ export const poiExtraYemenReliefV2: POI[] = [
     parent: "YE-MR",
     coords: [52.9500, 16.5500],
     name: { de: "Hawf-Berge", hu: "Hawf-hegység", ro: "Munții Hawf", en: "Hawf Mountains"},
-    image: "/poi-images/hawf-mountains-relief-v2.webp",
     description: { de: "Ein Küstengebirge im Osten des Jemen, das vom Sommermonsun profitiert und eine seltene grüne Vegetation aufweist.", hu: "Egy part menti hegység Jemen keleti részén, amely a nyári monszunból profitál, és ritka zöld növényzettel rendelkezik.", ro: "O zonă montană de coastă din estul Yemenului, care beneficiază de musonul de vară și prezintă o vegetație verde rară.", en: "A coastal mountain range in eastern Yemen that benefits from the summer monsoon and features rare green vegetation." , es: "Una cordillera costera en el este de Yemen que se beneficia del monzón de verano y presenta una rara vegetación verde.", pt: "Uma cordilheira costeira no leste do Iémen que beneficia da monção de verão e apresenta uma rara vegetação verde.", fr: "Une chaîne côtière de l'est du Yémen bénéficiant de la mousson d'été et présentant une rare végétation verdoyante."},
     facts: {
       de: ["Profitiert vom Monsunregen.", "Üppige Vegetation in den Sommermonaten."],

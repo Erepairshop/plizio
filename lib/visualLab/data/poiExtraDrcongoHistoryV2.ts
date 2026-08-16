@@ -12,7 +12,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Bunkeya (Yeke Birodalom fővárosa)",
       ro: "Bunkeya (Capitala Imperiului Yeke)",
       en: "Bunkeya (Yeke Kingdom Capital)"},
-    image: "/poi-images/bunkeya-yeke-capital.webp",
     description: {
       de: "Die historische Hauptstadt des Yeke-Reiches, gegründet im 19. Jahrhundert von König Msiri, war ein wichtiges Handelszentrum für Kupfer und Elfenbein.",
       hu: "A Yeke Birodalom történelmi fővárosa, amelyet Msiri király alapított a 19. században, fontos réz- és elefántcsont-kereskedelmi központ volt.",
@@ -60,7 +59,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Nsheng (Kuba főváros)",
       ro: "Nsheng (Capitala Kuba)",
       en: "Nsheng (Kuba Capital)"},
-    image: "/poi-images/mushenge-kuba-capital.webp",
     description: {
       de: "Nsheng, auch Mushenge genannt, war das Zentrum des Kuba-Königreiches, das für seine komplexe Kunst, Textilien und Maskenschnitzerei berühmt ist.",
       hu: "Nsheng, más néven Mushenge, a Kuba Királyság központja volt, amely összetett művészetéről, textíliáiról és maszkfaragásáról híres.",
@@ -108,7 +106,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Nyangwe",
       ro: "Nyangwe",
       en: "Nyangwe"},
-    image: "/poi-images/nyangwe-swahili-arab-post.webp",
     description: {
       de: "Nyangwe war eine der wichtigsten Handelsstädte der Swahili-Araber am Lualaba-Fluss im späten 19. Jahrhundert, bevor sie vom Kongo-Freistaat erobert wurde.",
       hu: "Nyangwe a szuahéli-arabok egyik legfontosabb kereskedővárosa volt a Lualaba folyón a 19. század végén, mielőtt a Kongói Szabadállam meghódította.",
@@ -156,7 +153,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Kasongo",
       ro: "Kasongo",
       en: "Kasongo"},
-    image: "/poi-images/kasongo-tippu-tip.webp",
     description: {
       de: "Kasongo diente als Hauptstadt des Handelsimperiums von Tippu Tip, einem mächtigen sansibarischen Händler, im östlichen Kongo des 19. Jahrhunderts.",
       hu: "Kasongo Tippu Tip, a 19. századi kelet-kongói nagyhatalmú zanzibári kereskedő birodalmának fővárosaként szolgált.",
@@ -204,7 +200,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Boma (Egykori főváros)",
       ro: "Boma (Fosta capitală)",
       en: "Boma (Former Capital)"},
-    image: "/poi-images/boma-first-capital.webp",
     description: {
       de: "Boma war ab 1886 die erste Hauptstadt des Kongo-Freistaates und später von Belgisch-Kongo, bevor die Hauptstadt 1926 nach Léopoldville verlegt wurde.",
       hu: "Boma volt a Kongói Szabadállam, majd a Belga Kongó első fővárosa 1886-tól, mielőtt a fővárost 1926-ban Léopoldville-be helyezték át.",
@@ -252,7 +247,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Vivi",
       ro: "Vivi",
       en: "Vivi"},
-    image: "/poi-images/vivi-stanley-outpost.webp",
     description: {
       de: "Vivi wurde 1879 von Henry Morton Stanley gegründet und war faktisch das erste administrative Zentrum für die Interessen von König Leopold II. im Kongo.",
       hu: "Vivit Henry Morton Stanley alapította 1879-ben, és gyakorlatilag ez volt az első adminisztratív központja II. Lipót király kongói érdekeltségeinek.",
@@ -300,7 +294,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Fort de Shinkakasa",
       ro: "Fortul Shinkakasa",
       en: "Fort de Shinkakasa"},
-    image: "/poi-images/fort-de-shinkakasa.webp",
     description: {
       de: "Ein 1891 in Boma erbautes Fort, das dazu diente, den Zugang zum Kongo-Fluss gegen andere Kolonialmächte, insbesondere die Portugiesen, zu verteidigen.",
       hu: "Az 1891-ben Bomában épült erőd, amelynek célja a Kongó folyóhoz való hozzáférés védelme volt más gyarmati hatalmakkal, különösen a portugálokkal szemben.",
@@ -348,7 +341,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Jadotville (Likasi)",
       ro: "Jadotville (Likasi)",
       en: "Jadotville (Likasi)"},
-    image: "/poi-images/jadotville-likasi.webp",
     description: {
       de: "Likasi, früher Jadotville, war 1961 Schauplatz der berühmten Belagerung von Jadotville, bei der irische UN-Truppen gegen katangische Sezessionisten kämpften.",
       hu: "Likasi, korábban Jadotville, az 1961-es híres jadotville-i ostrom helyszíne volt, ahol az ír ENSZ-csapatok katangai szakadárok ellen harcoltak.",
@@ -396,7 +388,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Shinkolobwe uránbánya",
       ro: "Mina de uraniu Shinkolobwe",
       en: "Shinkolobwe Uranium Mine"},
-    image: "/poi-images/shinkolobwe-mine.webp",
     description: {
       de: "Die Shinkolobwe-Mine erlangte historische Berühmtheit, da sie das Uran für die ersten Atombomben des Manhattan-Projekts lieferte.",
       hu: "A Shinkolobwe bánya biztosította azt a kiváló minőségű uránt, amelyet a Manhattan-tervben a második világháború első atombombáihoz használtak.",
@@ -489,7 +480,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Ishango régészeti lelőhely",
       ro: "Situl arheologic Ishango",
       en: "Ishango Archaeological Site"},
-    image: "/poi-images/ishango-archaeological-site.webp",
     description: {
       de: "In Ishango am Eduardsee wurde der berühmte Ishango-Knochen gefunden, ein über 20.000 Jahre altes mathematisches Artefakt mit eingeritzten Markierungen.",
       hu: "Az Edward-tó melletti Ishangóban találták meg a híres Ishango-csontot, egy több mint 20 000 éves matematikai leletet bevésett jelzésekkel.",
@@ -537,7 +527,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Sanga temető",
       ro: "Cimitirul Sanga",
       en: "Sanga Burial Site"},
-    image: "/poi-images/sanga-kisale-graves.webp",
     description: {
       de: "Die archäologische Stätte Sanga am Kisale-See enthüllte reich ausgestattete Gräber aus dem 8. bis 9. Jahrhundert, die auf die frühe Luba-Kultur hinweisen.",
       hu: "A Kisale-tó melletti Sanga régészeti lelőhely gazdagon felszerelt 8-9. századi sírokat tárt fel, amelyek a korai Luba kultúrára utalnak.",
@@ -585,7 +574,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Kolwezi (1978-as csata)",
       ro: "Kolwezi (Bătălia din 1978)",
       en: "Kolwezi (1978 Battle)"},
-    image: "/poi-images/kolwezi-battle-1978.webp",
     description: {
       de: "Die Bergbaustadt Kolwezi wurde 1978 während der Shaba-Invasion von Rebellen erobert und durch eine Intervention französischer Fremdenlegionäre befreit.",
       hu: "Kolwezi bányászvárosát 1978-ban, a Shaba invázió során lázadók foglalták el, majd a francia Idegenlégió beavatkozásával szabadították fel.",
@@ -633,7 +621,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Stanley Falls Station (Kisangani)",
       ro: "Stanley Falls Station (Kisangani)",
       en: "Stanley Falls Station (Kisangani)"},
-    image: "/poi-images/stanley-falls-station.webp",
     description: {
       de: "Die Station an den Boyoma-Fällen wurde 1883 von H.M. Stanley gegründet und war ein zentraler Schauplatz im Krieg gegen die arabischen Sklavenhändler.",
       hu: "A Boyoma-vízesésnél lévő állomást H.M. Stanley alapította 1883-ban, és a rabszolga-kereskedők elleni háború központi helyszíne volt.",
@@ -681,7 +668,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Coquilhatville (Mbandaka)",
       ro: "Coquilhatville (Mbandaka)",
       en: "Coquilhatville (Mbandaka)"},
-    image: "/poi-images/mbandaka-coquilhatville.webp",
     description: {
       de: "Ursprünglich 1883 als Équateurville gegründet und später nach Camille Coquilhat benannt, war diese Stadt ein wichtiger administrativer Posten der Kolonialzeit.",
       hu: "Eredetileg 1883-ban Équateurville néven alapították, majd Camille Coquilhatról nevezték el, és a gyarmati korszak fontos adminisztratív állomása volt.",
@@ -846,7 +832,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Lovanium Egyetem",
       ro: "Universitatea Lovanium",
       en: "Lovanium University"},
-    image: "/poi-images/lovanium-university-site.webp",
     description: {
       de: "Die Lovanium-Universität auf dem Berg Amba bei Kinshasa war die erste Universität Zentralafrikas und beherbergte den ersten Forschungsreaktor des Kontinents.",
       hu: "Az 1954-ben Kinshasa közelében alapított Lovanium volt az első egyetem a Belga Kongóban, és itt működött Afrika első atomreaktora (TRICO I).",
@@ -894,7 +879,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Baudouinville (Moba)",
       ro: "Baudouinville (Moba)",
       en: "Baudouinville (Moba)"},
-    image: "/poi-images/baudouinville-moba.webp",
     description: {
       de: "Baudouinville wurde 1893 von Missionaren der Weißen Väter am Tanganjikasee gegründet und diente als Zufluchtsort für befreite Sklaven.",
       hu: "Baudouinville-t a Fehér Atyák misszionáriusai alapították 1893-ban a Tanganyika-tó mellett, és a felszabadított rabszolgák menedékhelyeként szolgált.",
@@ -942,7 +926,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Albertville (Kalemie)",
       ro: "Albertville (Kalemie)",
       en: "Albertville (Kalemie)"},
-    image: "/poi-images/albertville-kalemie.webp",
     description: {
       de: "Unter dem Namen Albertville war die heutige Stadt Kalemie ein strategischer Stützpunkt während der Kolonialzeit und ein Schlüsselort im Ersten Weltkrieg.",
       hu: "Kalemie városának gyarmati neve, amelyet I. Albert belga királyról neveztek el.",
@@ -990,7 +973,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Történelmi Uvira",
       ro: "Uvira Istorică",
       en: "Historical Uvira"},
-    image: "/poi-images/uvira-swahili-post.webp",
     description: {
       de: "Uvira wurde in den 1840er Jahren als Vorposten der Swahili-Araber etabliert und entwickelte sich zu einem wichtigen Knotenpunkt für Elfenbein- und Sklavenhandel.",
       hu: "Uvirát az 1840-es években szuahéli-arab előretolt helyőrségként alapították, és fontos elefántcsont- és rabszolga-kereskedelmi csomóponttá fejlődött.",
@@ -1038,7 +1020,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Banza-Manteke misszió",
       ro: "Misiunea Banza-Manteke",
       en: "Banza-Manteke Mission"},
-    image: "/poi-images/banza-manteke-mission.webp",
     description: {
       de: "Banza-Manteke war in den 1880er Jahren Schauplatz einer der ersten Massenbekehrungen zum Christentum im Kongo, angeführt von protestantischen Missionaren.",
       hu: "Banza-Manteke volt az 1880-as években az egyik első tömeges kereszténységre térés helyszíne Kongóban, protestáns misszionáriusok vezetésével.",
@@ -1131,7 +1112,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Kamina katonai bázis",
       ro: "Baza Militară Kamina",
       en: "Kamina Military Base"},
-    image: "/poi-images/kamina-military-base.webp",
     description: {
       de: "Die nach dem Zweiten Weltkrieg von Belgien errichtete Militärbasis in Kamina war eine der größten in Afrika und diente der strategischen Kontrolle der Region.",
       hu: "A második világháború után Belgium által épített kaminai katonai bázis az egyik legnagyobb volt Afrikában, és a régió stratégiai ellenőrzését szolgálta.",
@@ -1179,7 +1159,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Matupi-barlang",
       ro: "Peștera Matupi",
       en: "Matupi Cave"},
-    image: "/poi-images/matupi-cave.webp",
     description: {
       de: "Die Matupi-Höhle in Ituri hat einige der ältesten archäologischen Beweise für die menschliche Besiedlung des afrikanischen Tropenwaldes vor etwa 40.000 Jahren geliefert.",
       hu: "Az Ituriban található Matupi-barlang a trópusi afrikai erdők emberi betelepülésének legkorábbi, mintegy 40 000 éves régészeti bizonyítékait szolgáltatta.",
@@ -1227,7 +1206,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Dimba-barlang",
       ro: "Peștera Dimba",
       en: "Dimba Cave"},
-    image: "/poi-images/dimba-cave.webp",
     description: {
       de: "Die Dimba-Höhle in Kongo Central enthält bedeutende prähistorische Artefakte und Felsmalereien, die die frühe Besiedlung der Region dokumentieren.",
       hu: "A Kongo Centralban található Dimba-barlang jelentős történelem előtti leleteket és sziklafestményeket rejt, amelyek a régió korai betelepülését dokumentálják.",
@@ -1320,7 +1298,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Mont Mangengenge",
       ro: "Muntele Mangengenge",
       en: "Mount Mangengenge"},
-    image: "/poi-images/mount-mangengenge.webp",
     description: {
       de: "Dieser Berg nahe Kinshasa ist eine historische und spirituelle Pilgerstätte, auf der sich zahlreiche christliche Kreuze befinden und regelmäßig Gebete stattfinden.",
       hu: "Szentként tisztelt hegycsúcs Kinshasa közelében, amely népszerű zarándokhely.",
@@ -1368,7 +1345,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Kongo-Dia-Vwa",
       ro: "Kongo-Dia-Vwa",
       en: "Kongo-Dia-Vwa"},
-    image: "/poi-images/kongo-dia-vwa.webp",
     description: {
       de: "Ein historischer Ort in Bas-Congo, der in den Traditionen der Kongo-Bevölkerung tief verwurzelt ist und als Gedenkstätte für die Vorfahren gilt.",
       hu: "Történelmi hely Alsó-Kongóban, amely mélyen gyökerezik a kongói nép hagyományaiban, és az ősök emlékhelyeként szolgál.",
@@ -1464,7 +1440,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Kimpese misszió",
       ro: "Misiunea Kimpese",
       en: "Kimpese Mission"},
-    image: "/poi-images/kimpese-mission.webp",
     description: {
       de: "Kimpese war ein wichtiges Zentrum der protestantischen Mission und Bildung, bekannt für das früh gegründete Institut Médical Évangélique.",
       hu: "Kimpese a protestáns misszió és oktatás fontos központja volt, amely a korán alapított Institut Médical Évangélique-ről ismert.",
@@ -1512,7 +1487,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Businga gyarmati állomás",
       ro: "Postul Colonial Businga",
       en: "Businga Colonial Post"},
-    image: "/poi-images/businga-colonial-post.webp",
     description: {
       de: "Businga diente als entlegener, aber wichtiger administrativer und militärischer Außenposten während der belgischen Kolonialherrschaft im Norden des Landes.",
       hu: "Businga elszigetelt, de fontos közigazgatási és katonai előretolt helyőrségként szolgált a belga gyarmati uralom alatt az ország északi részén.",
@@ -1560,7 +1534,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Történelmi Ruvubu-völgy",
       ro: "Valea Istorică Ruvubu",
       en: "Historical Ruvubu Valley"},
-    image: "/poi-images/ruvubu-valley-historical.webp",
     description: {
       de: "Das Talgebiet im Osten des Landes war eine alte Migrations- und Handelsroute zwischen den Großen Seen, die für den Austausch von Eisenwerkzeugen genutzt wurde.",
       hu: "Az ország keleti részén található völgyvidék a Nagy Tavak közötti ősi vándorlási és kereskedelmi útvonal volt, amelyet vasszerszámok cseréjére használtak.",
@@ -1608,7 +1581,6 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: "Uvira partvidéke",
       ro: "Coasta Uvira",
       en: "Uvira Coast"},
-    image: "/poi-images/ruvubu-valley-historical-2.webp",
     description: {
       de: "Die Uvira-Küste am nördlichen Tanganjikasee war ein strategischer Ausgangspunkt für Expeditionen ins Landesinnere im 19. Jahrhundert.",
       hu: "Az északi Tanganyika-tó partján fekvő Uvira-partvidék stratégiai kiindulópont volt a 19. századi belső expedíciók számára.",

@@ -8,7 +8,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-8",
     coords: [-79.55, 9.0],
     name: { de: "Amphibien-Rettungszentrum Panama", hu: "Panamai Kétéltűmentő Központ", ro: "Centrul de Salvare a Amfibienilor din Panama", en: "Panama Amphibian Rescue Center"},
-    image: "/poi-images/centro-rescate-anfibios-panama-life-v2.webp",
     description: { de: "Ein Zentrum zum Schutz bedrohter Froscharten.", hu: "Központ a veszélyeztetett békafajok védelmére.", ro: "Un centru pentru protecția speciilor de broaște pe cale de dispariție.", en: "A center for the protection of endangered frog species." , es: "Un centro para la protección de especies de ranas amenazadas.", pt: "Um centro para a proteção de espécies de rãs ameaçadas.", fr: "Un centre de protection des espèces de grenouilles menacées."},
     facts: {
       de: ["Fokus auf den Chytridpilz.", "Zucht seltener Arten.", "Bildungszentrum.", "In der Nähe der Stadt."],
@@ -45,7 +44,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-8",
     coords: [-79.63, 9.08],
     name: { de: "Summit Municipal Park", hu: "Summit Városi Park", ro: "Parcul Municipal Summit", en: "Summit Municipal Park"},
-    image: "/poi-images/parque-municipal-summit-life-v2.webp",
     description: { de: "Ein Park mit botanischem Garten und Zoo.", hu: "Park botanikus kerttel és állatkerttel.", ro: "Un parc cu grădină botanică și grădină zoologică.", en: "A park with a botanical garden and zoo." , es: "Un parque que combina jardín botánico y centro de rescate animal.", pt: "Um parque com jardim botânico e jardim zoológico.", fr: "Un parc avec jardin botanique et zoo."},
     facts: {
       de: ["Harpyien-Adler-Gehege.", "Botanischer Garten.", "Begegnung mit einheimischen Tieren.", "Nahe dem Kanal."],
@@ -82,7 +80,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-4",
     coords: [-82.43, 8.78],
     name: { de: "Kaffeefarm in Boquete", hu: "Boquete kávéfarm", ro: "Fermă de cafea în Boquete", en: "Coffee Farm in Boquete"},
-    image: "/poi-images/finca-cafe-boquete-life-v2.webp",
     description: { de: "Traditioneller Kaffeeanbau im Hochland.", hu: "Hagyományos kávétermesztés a felföldön.", ro: "Cultivarea tradițională a cafelei în zonele înalte.", en: "Traditional coffee cultivation in the highlands." , es: "Cultivo tradicional de café en las tierras altas.", pt: "Cultivo tradicional de café nas terras altas.", fr: "Culture traditionnelle du café dans les hautes terres."},
     facts: {
       de: ["Hochland-Kaffee.", "Führungen für Touristen.", "Geisha-Kaffee.", "Vulkangesteinsboden."],
@@ -119,7 +116,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-8",
     coords: [-79.52, 9.01],
     name: { de: "Explora Wissenschaftszentrum", hu: "Explora Tudományos Központ", ro: "Explora Centru de Științe", en: "Explora Science Center"},
-    image: "/poi-images/explora-centro-ciencias-life-v2.webp",
     description: { de: "Interaktives Museum für Kinder.", hu: "Interaktív múzeum gyerekeknek.", ro: "Muzeu interactiv pentru copii.", en: "Interactive museum for kids." , es: "Museo interactivo para niños.", pt: "Museu interativo para crianças.", fr: "Musée interactif pour enfants."},
     facts: {
       de: ["Wissenschaft zum Anfassen.", "Lernspiele für Kinder.", "Kreativitätsförderung.", "Beliebt bei Schulklassen."],
@@ -192,7 +188,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-4",
     coords: [-82.8, 8.4],
     name: { de: "Bananenplantage bei Barú", hu: "Bananültetvény Barú közelében", ro: "Plantație de banane lângă Barú", en: "Banana Plantation near Baru"},
-    image: "/poi-images/finca-banano-barú-life-v2.webp",
     description: { de: "Großflächiger Anbau von Bananen.", hu: "Nagykiterjedésű banántermesztés.", ro: "Cultivarea bananelor pe suprafețe mari.", en: "Large-scale cultivation of bananas." , es: "Cultivo a gran escala de bananos.", pt: "Cultivo de bananas em larga escala.", fr: "Culture de bananes à grande échelle."},
     facts: {
       de: ["Exportprodukte.", "Wichtiger Arbeitgeber.", "Ernteprozesse.", "Tropisches Klima."],
@@ -229,7 +224,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-8",
     coords: [-79.5, 8.98],
     name: { de: "Omar Torrijos Erholungspark", hu: "Omar Torrijos Pihenőpark", ro: "Parcul de Recreere Omar Torrijos", en: "Omar Torrijos Recreational Park"},
-    image: "/poi-images/parque-recreativo-omar-torrijos-life-v2.webp",
     description: { de: "Großer Stadtpark mit Spielplätzen.", hu: "Nagy városi park játszóterekkel.", ro: "Parc urban mare cu locuri de joacă.", en: "Large city park with playgrounds." , es: "Extenso parque natural con senderos y gran biodiversidad.", pt: "Grande parque urbano com playgrounds.", fr: "Grand parc urbain avec aires de jeux."},
     facts: {
       de: ["Joggingstrecken.", "Mehrere Spielplätze.", "Sportanlagen.", "Grüne Lunge der Stadt."],
@@ -266,7 +260,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-8",
     coords: [-79.55, 8.78],
     name: { de: "Taboga Wildschutzgebiet", hu: "Taboga Vadvédelmi Terület", ro: "Rezervația de viață sălbatică Taboga", en: "Taboga Wildlife Refuge"},
-    image: "/poi-images/refugio-vida-silvestre-taboga-life-v2.webp",
     description: { de: "Insellebensraum für Meeresvögel.", hu: "Szigeti élőhely tengeri madarak számára.", ro: "Habitat insular pentru păsările marine.", en: "Island habitat for seabirds." , es: "Hábitat insular protegido para colonias de aves marinas.", pt: "Habitat insular para aves marinhas.", fr: "Habitat insulaire pour les oiseaux marins."},
     facts: {
       de: ["Nistplatz von Pelikanen.", "Küstenökosystem.", "Bootsausflüge.", "Naturbelassen."],
@@ -303,7 +296,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-4",
     coords: [-82.44, 8.77],
     name: { de: "Orchideenfarm Boquete", hu: "Boquete Orchideafarm", ro: "Fermă de orhidee Boquete", en: "Orchid Farm Boquete"},
-    image: "/poi-images/finca-orquideas-boquete-life-v2.webp",
     description: { de: "Spezialgärtnerei für Orchideen.", hu: "Szakosodott orchideakertészet.", ro: "Grădină specializată în orhidee.", en: "Specialized garden for orchids." , es: "Vivero especializado en orquídeas.", pt: "Viveiro especializado em orquídeas.", fr: "Pépinière spécialisée dans les orchidées."},
     facts: {
       de: ["Vielfalt an Arten.", "Blumenexport.", "Touristenattraktion.", "Spezialisierte Pflege."],
@@ -340,7 +332,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-8",
     coords: [-79.52, 8.91],
     name: { de: "Punta Culebra Naturzentrum", hu: "Punta Culebra Természetközpont", ro: "Centrul de Natură Punta Culebra", en: "Punta Culebra Nature Center"},
-    image: "/poi-images/centro-naturaleza-punta-culebra-life-v2.webp",
     description: { de: "Meeresbiologisches Forschungs- und Ausstellungszentrum.", hu: "Tengerbiológiai kutató- és kiállítóközpont.", ro: "Centru de cercetare și expoziție de biologie marină.", en: "Marine biology research and exhibition center." , es: "Centro de investigación y exposición de biología marina.", pt: "Centro de pesquisa e exposição de biologia marinha.", fr: "Centre de recherche et d'exposition en biologie marine."},
     facts: {
       de: ["Beobachtung von Meerestieren.", "Interaktive Aquarien.", "Lehrpfade.", "Blick auf den Kanal."],
@@ -377,7 +368,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-2",
     coords: [-80.35, 8.52],
     name: { de: "Bauernhof Penonomé", hu: "Penonomé Gazdaság", ro: "Fermă agricolă Penonomé", en: "Penonome Agricultural Farm"},
-    image: "/poi-images/granja-agricola-penonome-life-v2.webp",
     description: { de: "Landwirtschaftlicher Betrieb in der Region Coclé.", hu: "Mezőgazdasági üzem Coclé régióban.", ro: "Exploatație agricolă în regiunea Coclé.", en: "Agricultural operation in the Coclé region." , es: "Explotación agrícola en la región de Coclé.", pt: "Exploração agrícola na região de Coclé.", fr: "Exploitation agricole dans la région de Coclé."},
     facts: {
       de: ["Anbau von lokalen Feldfrüchten.", "Bildungsbesuche.", "Traditionelle Methoden.", "Regionale Produktion."],
@@ -450,7 +440,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-4",
     coords: [-82.2, 8.7],
     name: { de: "Fortuna Waldschutzgebiet", hu: "Fortuna Erdőrezervátum", ro: "Rezervația Forestieră Fortuna", en: "Fortuna Forest Reserve"},
-    image: "/poi-images/reserva-forestal-fortuna-life-v2.webp",
     description: { de: "Lebensraum für seltene Vogelarten.", hu: "Élőhely ritka madárfajok számára.", ro: "Habitat pentru specii rare de păsări.", en: "Habitat for rare bird species." , es: "Reserva forestal de montaña que es hogar de especies de aves raras.", pt: "Habitat para espécies de aves raras.", fr: "Habitat pour des espèces d'oiseaux rares."},
     facts: {
       de: ["Wolkenwald.", "Artenvielfalt.", "Wanderungen.", "Wasserschutz."],
@@ -487,7 +476,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-4",
     coords: [-82.45, 8.78],
     name: { de: "Schmetterlingszucht Boquete", hu: "Boquete Pillangótenyészet", ro: "Crescătoria de fluturi Boquete", en: "Butterfly Farm Boquete"},
-    image: "/poi-images/criadero-mariposas-boquete-life-v2.webp",
     description: { de: "Zucht und Ausstellung tropischer Schmetterlinge.", hu: "Trópusi pillangók tenyésztése és kiállítása.", ro: "Creșterea și expoziția de fluturi tropicali.", en: "Breeding and exhibition of tropical butterflies." , es: "Cría y exhibición de mariposas tropicales.", pt: "Criação e exibição de borboletas tropicais.", fr: "Élevage et exposition de papillons tropicaux."},
     facts: {
       de: ["Große Artenvielfalt.", "Lebenszyklus-Exponate.", "Farbenfroh.", "Lehrreich."],
@@ -524,7 +512,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-6",
     coords: [-80.4, 7.7],
     name: { de: "Viehfarm Los Santos", hu: "Los Santos Állattenyésztő Farm", ro: "Fermă de creștere a animalelor Los Santos", en: "Los Santos Livestock Farm"},
-    image: "/poi-images/finca-ganadera-los-santos-life-v2.webp",
     description: { de: "Landwirtschaftliche Rinderzucht.", hu: "Mezőgazdasági marhatenyésztés.", ro: "Creșterea bovinelor în scop agricol.", en: "Agricultural cattle farming." , es: "Cría ganadera de ganado vacuno.", pt: "Criação pecuária de gado bovino.", fr: "Élevage de bétail bovin."},
     facts: {
       de: ["Viehwirtschaft.", "Lokale Produkte.", "Tradition.", "Weideflächen."],
@@ -561,7 +548,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-8",
     coords: [-79.52, 8.97],
     name: { de: "Spielplatz Cinta Costera", hu: "Cinta Costera Játszótér", ro: "Loc de joacă Cinta Costera", en: "Cinta Costera Playground"},
-    image: "/poi-images/parque-infantil-cinta-costera-life-v2.webp",
     description: { de: "Küstenpark mit Spielmöglichkeiten.", hu: "Parti park játéklehetőségekkel.", ro: "Parc de coastă cu facilități de joacă.", en: "Coastal park with play areas." , es: "Parque costero con zonas de juego.", pt: "Parque costeiro com opções de lazer.", fr: "Parc côtier avec des aires de jeux."},
     facts: {
       de: ["Blick auf die Skyline.", "Große Spielbereiche.", "Sicher.", "Sehr belebt."],
@@ -598,7 +584,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-10",
     coords: [-78.3, 8.2],
     name: { de: "Naturreservat Punta Patiño", hu: "Punta Patiño Természetvédelmi Terület", ro: "Rezervația Naturală Punta Patiño", en: "Punta Patino Natural Reserve"},
-    image: "/poi-images/reserva-natural-punta-patino-life-v2.webp",
     description: { de: "Großes geschütztes Feuchtgebiet.", hu: "Nagy védett vizes élőhely.", ro: "Zonă umedă protejată mare.", en: "Large protected wetland." , es: "Gran humedal protegido.", pt: "Grande zona húmida protegida.", fr: "Grande zone humide protégée."},
     facts: {
       de: ["Mangrovenwälder.", "Zugvögel.", "Artenreich.", "Ökotourismus."],
@@ -635,7 +620,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-2",
     coords: [-80.5, 8.5],
     name: { de: "Reisfarm Coclé", hu: "Coclé Rizsfarm", ro: "Fermă de orez Coclé", en: "Cocle Rice Farm"},
-    image: "/poi-images/finca-arroz-cocle-life-v2.webp",
     description: { de: "Anbau von Reis in den Ebenen.", hu: "Rizstermesztés a síkságokon.", ro: "Cultivarea orezului pe câmpii.", en: "Cultivation of rice on the plains." , es: "Cultivo de arroz en las llanuras.", pt: "Cultivo de arroz nas planícies.", fr: "Culture du riz dans les plaines."},
     facts: {
       de: ["Hauptnahrungsmittel.", "Bewässerungssysteme.", "Große Ernten.", "Landwirtschaft."],
@@ -708,7 +692,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-9",
     coords: [-81.75, 7.45],
     name: { de: "Coiba Nationalpark - Tierbeobachtung", hu: "Coiba Nemzeti Park - Állatmegfigyelés", ro: "Parcul Național Coiba - Observarea animalelor", en: "Coiba National Park - Animal Watching"},
-    image: "/poi-images/parque-nacional-coiba-animales-life-v2.webp",
     description: { de: "Meerespark mit vielen Tierarten.", hu: "Tengeri park sok állatfajjal.", ro: "Parc marin cu multe specii de animale.", en: "Marine park with many animal species." , es: "Parque marino con una extraordinaria diversidad de especies.", pt: "Parque marinho com muitas espécies de animais.", fr: "Parc marin abritant de nombreuses espèces animales."},
     facts: {
       de: ["Meeresschildkröten.", "Haie.", "Korallenriffe.", "Tauchen."],
@@ -745,7 +728,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-9",
     coords: [-81.1, 8.1],
     name: { de: "Maisfarm Veraguas", hu: "Veraguas Kukoricafarm", ro: "Fermă de porumb Veraguas", en: "Veraguas Corn Farm"},
-    image: "/poi-images/finca-maiz-veraguas-life-v2.webp",
     description: { de: "Landwirtschaftliche Produktion von Mais.", hu: "Mezőgazdasági kukoricatermelés.", ro: "Producție agricolă de porumb.", en: "Agricultural production of corn." , es: "Producción agrícola de maíz.", pt: "Produção agrícola de milho.", fr: "Production agricole de maïs."},
     facts: {
       de: ["Traditionelle Ernte.", "Grundnahrungsmittel.", "Große Felder.", "Lokale Landwirtschaft."],
@@ -782,7 +764,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-4",
     coords: [-82.43, 8.43],
     name: { de: "Kinderspielplatz David", hu: "David Játszótér", ro: "Loc de joacă pentru copii David", en: "David Children's Playground"},
-    image: "/poi-images/parque-infantil-david-life-v2.webp",
     description: { de: "Zentraler Spielplatz in der Stadt David.", hu: "Központi játszótér David városában.", ro: "Loc de joacă central în orașul David.", en: "Central playground in the city of David." , es: "Parque central y zona recreativa en el corazón de David.", pt: "Parque central e área de lazer no coração da cidade de David.", fr: "Parc central et aire de jeux au cœur de la ville de David."},
     facts: {
       de: ["Zentrale Lage.", "Viele Kinder.", "Schattenplätze.", "Modern."],
@@ -819,7 +800,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-8",
     coords: [-79.7, 9.1],
     name: { de: "Faultier-Schutzgebiet Gamboa", hu: "Gamboa Lajhár-rezervátum", ro: "Sanctuarul leneșilor Gamboa", en: "Gamboa Sloth Sanctuary"},
-    image: "/poi-images/santuario-perezosos-gambo-life-v2.webp",
     description: { de: "Schutzzentrum für Faultiere.", hu: "Lajhárok védelmi központja.", ro: "Centru de protecție pentru leneși.", en: "Protection center for sloths." , es: "Centro de protección de perezosos.", pt: "Centro de proteção de preguiças.", fr: "Centre de protection des paresseux."},
     facts: {
       de: ["Faultierbeobachtung.", "Tierschutz.", "Tropischer Wald.", "Bildung."],
@@ -856,7 +836,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-4",
     coords: [-82.5, 8.5],
     name: { de: "Tomatenfarm Chiriquí", hu: "Chiriquí Paradicsomfarm", ro: "Fermă de tomate Chiriquí", en: "Chiriqui Tomato Farm"},
-    image: "/poi-images/finca-tomate-chiriqui-life-v2.webp",
     description: { de: "Tomatenanbau in der Region Chiriquí.", hu: "Paradicsomtermesztés Chiriquí régióban.", ro: "Cultivarea tomatelor în regiunea Chiriquí.", en: "Tomato cultivation in the Chiriquí region." , es: "Cultivo de tomates en la región de Chiriquí.", pt: "Cultivo de tomates na região de Chiriquí.", fr: "Culture de tomates dans la région de Chiriquí."},
     facts: {
       de: ["Frische Produktion.", "Gewächshäuser.", "Regionale Verteilung.", "Landwirtschaft."],
@@ -893,7 +872,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-6",
     coords: [-80.43, 7.97],
     name: { de: "Kinderspielplatz Chitré", hu: "Chitré Játszótér", ro: "Loc de joacă pentru copii Chitré", en: "Chitre Children's Playground"},
-    image: "/poi-images/parque-infantil-chitre-life-v2.webp",
     description: { de: "Spielbereich in der Stadt Chitré.", hu: "Játékzóna Chitré városában.", ro: "Zonă de joacă în orașul Chitré.", en: "Play area in the city of Chitre." , es: "Área de juegos en la ciudad de Chitré.", pt: "Área de lazer na cidade de Chitré.", fr: "Aire de jeux dans la ville de Chitré."},
     facts: {
       de: ["Modernes Design.", "Beliebt bei Einheimischen.", "Bänke.", "Gepflegt."],
@@ -929,7 +907,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-8",
     coords: [-79.55, 9.05],
     name: { de: "Nationaler Zoo Panama", hu: "Panamai Nemzeti Állatkert", ro: "Grădina Zoologică Națională din Panama", en: "National Zoo of Panama"},
-    image: "/poi-images/zoologico-nacional-panama-life-v2.webp",
     description: { de: "Zentrum für einheimische Tierarten.", hu: "Központ a helyi állatfajok számára.", ro: "Centru pentru speciile locale de animale.", en: "Center for local animal species." , es: "Centro para especies animales nativas.", pt: "Centro para espécies animais nativas.", fr: "Centre pour les espèces animales indigènes."},
     facts: {
       de: ["Vielfalt der Fauna.", "Erhalt von Arten.", "Besuchszentrum.", "Tropen."],
@@ -966,7 +943,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-8",
     coords: [-79.6, 9.0],
     name: { de: "Lehrbauernhof Panama", hu: "Panamai Oktatási Farm", ro: "Fermă educațională Panama", en: "Panama Educational Farm"},
-    image: "/poi-images/granja-educativa-panama-life-v2.webp",
     description: { de: "Bauernhof für Lernzwecke.", hu: "Gazdaság oktatási célokra.", ro: "Fermă în scopuri educaționale.", en: "Farm for educational purposes." , es: "Granja con fines educativos.", pt: "Fazenda para fins educativos.", fr: "Ferme à des fins éducatives."},
     facts: {
       de: ["Interaktives Lernen.", "Tierpflege.", "Pflanzenkunde.", "Schulausflüge."],
@@ -1003,7 +979,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-9",
     coords: [-80.97, 8.1],
     name: { de: "Kinderspielplatz Santiago", hu: "Santiago Játszótér", ro: "Loc de joacă pentru copii Santiago", en: "Santiago Children's Playground"},
-    image: "/poi-images/parque-infantil-santiago-life-v2.webp",
     description: { de: "Öffentlicher Spielplatz in Santiago.", hu: "Nyilvános játszótér Santiago-ban.", ro: "Loc de joacă public în Santiago.", en: "Public playground in Santiago." , es: "Parque público y zona de recreo en el centro de Santiago.", pt: "Parque público e área de lazer no centro de Santiago.", fr: "Parc public et aire de jeux au centre de Santiago."},
     facts: {
       de: ["Großer Bereich.", "Sicher.", "Klettermöglichkeiten.", "Spielplatz."],
@@ -1040,7 +1015,6 @@ export const poiExtraPanamaLifeV2: POI[] = [
     parent: "PA-8",
     coords: [-79.75, 9.2],
     name: { de: "Krokodilzucht Panama", hu: "Panamai Krokodiltenyészet", ro: "Crescătoria de crocodili Panama", en: "Panama Crocodile Farm"},
-    image: "/poi-images/criadero-cocodrilos-panama-life-v2.webp",
     description: { de: "Zentrum zur Erhaltung von Krokodilen.", hu: "Központ krokodilok megőrzésére.", ro: "Centru pentru conservarea crocodililor.", en: "Center for the conservation of crocodiles." , es: "Centro para la conservación de cocodrilos.", pt: "Centro para a conservação de crocodilos.", fr: "Centre de conservation des crocodiles."},
     facts: {
       de: ["Krokodilarten.", "Forschung.", "Bildung.", "Sicherheit."],

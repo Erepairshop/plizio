@@ -8,7 +8,6 @@ export const poiExtraBruneiNatureV2: POI[] = [
     parent: "BN-TE",
     coords: [115.215, 4.453],
     name: { de: "Nationalpark Ulu Temburong", hu: "Ulu Temburong Nemzeti Park", ro: "Parcul Național Ulu Temburong", en: "Ulu Temburong National Park"},
-    image: "/poi-images/bn-ulu-temburong-national-park-nature-v2.webp",
     description: {
       de: "Der erste Nationalpark in Brunei, bekannt für seinen unberührten Regenwald und den spektakulären Baumwipfelpfad.",
       hu: "Brunei első nemzeti parkja, amely érintetlen esőerdejéről és látványos lombkoronasétányáról ismert.",
@@ -153,7 +152,6 @@ export const poiExtraBruneiNatureV2: POI[] = [
     parent: "BN-TE",
     coords: [115.110, 4.708],
     name: { de: "Bukit Patoi Wald-Erholungspark", hu: "Bukit Patoi Erdei Pihenőpark", ro: "Parcul de Recreere Forestier Bukit Patoi", en: "Bukit Patoi Forest Recreation Park"},
-    image: "/poi-images/bn-bukit-patoi-forest-recreation-park-nature-v2.webp",
     description: {
       de: "Ein beliebtes Naturschutzgebiet im Temburong-Distrikt, das wunderschöne Wanderwege durch den tropischen Regenwald bietet.",
       hu: "Egy népszerű természetvédelmi terület a Temburong körzetben, amely gyönyörű túraútvonalakat kínál a trópusi esőerdőben.",
@@ -217,7 +215,6 @@ export const poiExtraBruneiNatureV2: POI[] = [
     parent: "BN-BE",
     coords: [114.195, 4.582],
     name: { de: "Belait-Fluss", hu: "Belait-folyó", ro: "Râul Belait", en: "Belait River"},
-    image: "/poi-images/bn-belait-river-nature-v2.webp",
     description: {
       de: "Der längste Fluss in Brunei, der durch dichte Torfmoorwälder fließt und das Lebenselixier des Belait-Distrikts bildet.",
       hu: "Brunei leghosszabb folyója, amely sűrű tőzegmocsárerdőkön folyik keresztül, és a Belait körzet éltető ereje.",
@@ -326,7 +323,6 @@ export const poiExtraBruneiNatureV2: POI[] = [
     parent: "BN-BM",
     coords: [114.992, 4.887],
     name: { de: "Brunei-Fluss", hu: "Brunei-folyó", ro: "Râul Brunei", en: "Brunei River"},
-    image: "/poi-images/bn-brunei-river-nature-v2.webp",
     description: {
       de: "Ein historisch bedeutender Fluss, an dessen Ufern die Hauptstadt Bandar Seri Begawan und das traditionelle Wasserdorf Kampong Ayer liegen.",
       hu: "Történelmi jelentőségű folyó, melynek partján fekszik a főváros, Bandar Seri Begawan és a hagyományos Kampong Ayer vízifalu.",
@@ -435,7 +431,6 @@ export const poiExtraBruneiNatureV2: POI[] = [
     parent: "BN-BM",
     coords: [114.858, 4.957],
     name: { de: "Bukit Shahbandar Waldpark", hu: "Bukit Shahbandar Erdei Park", ro: "Parcul Forestier Bukit Shahbandar", en: "Bukit Shahbandar Forest Recreation Park"},
-    image: "/poi-images/bn-bukit-shahbandar-nature-v2.webp",
     description: {
       de: "Ein hügeliger Waldpark in der Nähe der Hauptstadt, der bei Einheimischen für seine anspruchsvollen Joggingstrecken und schönen Aussichtspunkte beliebt ist.",
       hu: "Egy dombos erdei park a főváros közelében, amely a helyiek körében népszerű kihívást jelentő kocogópályái és gyönyörű kilátói miatt.",
@@ -499,7 +494,6 @@ export const poiExtraBruneiNatureV2: POI[] = [
     parent: "BN-BE",
     coords: [114.471, 4.414],
     name: { de: "Luagan Lalak See", hu: "Luagan Lalak-tó", ro: "Lacul Luagan Lalak", en: "Luagan Lalak Lake"},
-    image: "/poi-images/bn-luagan-lalak-nature-v2.webp",
     description: {
       de: "Ein einzigartiges Überschwemmungsgebiet, das sich während der Regenzeit in einen malerischen See verwandelt und mit Promenadenwegen ausgestattet ist.",
       hu: "Egyedülálló ártéri terület, amely az esős évszakban festői tóvá változik, és sétányokkal van felszerelve.",
@@ -563,7 +557,6 @@ export const poiExtraBruneiNatureV2: POI[] = [
     parent: "BN-BE",
     coords: [114.455, 4.587],
     name: { de: "Andulau Waldreservat", hu: "Andulau Erdőrezervátum", ro: "Rezervația Forestieră Andulau", en: "Andulau Forest Reserve"},
-    image: "/poi-images/bn-andulau-forest-reserve-nature-v2.webp",
     description: {
       de: "Eines der ältesten Waldreservate Bruneis, das einen dichten tropischen Tiefland-Regenwald und eine große Vielfalt an Baumarten schützt.",
       hu: "Brunei egyik legrégebbi erdőrezervátuma, amely egy sűrű trópusi síkvidéki esőerdőt és fafajok nagy változatosságát védi.",
@@ -708,7 +701,6 @@ export const poiExtraBruneiNatureV2: POI[] = [
     parent: "BN-BE",
     coords: [114.484, 4.673],
     name: { de: "Sungai Liang Erholungspark", hu: "Sungai Liang Pihenőpark", ro: "Parcul de Recreere Sungai Liang", en: "Sungai Liang Recreation Park"},
-    image: "/poi-images/bn-sungai-liang-forest-park-nature-v2.webp",
     description: {
       de: "Ein gut gepflegter Naturpark am Rande des Andulau-Waldes, der ruhige Teiche, Picknickplätze und leicht zugängliche Dschungelpfade bietet.",
       hu: "Egy jól karbantartott natúrpark az Andulau-erdő szélén, amely csendes tavakat, piknikezőhelyeket és könnyen megközelíthető dzsungelösvényeket kínál.",
@@ -1899,7 +1891,6 @@ export const poiExtraBruneiNatureV2: POI[] = [
     parent: "BN-TU",
     coords: [114.636, 4.761],
     name: { de: "Tutong-Fluss", hu: "Tutong-folyó", ro: "Râul Tutong", en: "Tutong River"},
-    image: "/poi-images/bn-tutong-river-nature-v2.webp",
     description: {
       de: "Ein gemächlicher Fluss, der durch das Zentrum des Tutong-Distrikts fließt und für seine große Vielfalt an Süßwasserfischen bekannt ist.",
       hu: "Egy kényelmes tempójú folyó, amely a Tutong körzet központján folyik keresztül, és a tiszta vizű halak nagy változatosságáról ismert.",
@@ -1963,7 +1954,6 @@ export const poiExtraBruneiNatureV2: POI[] = [
     parent: "BN-TU",
     coords: [114.735, 4.542],
     name: { de: "Bukit Ladan Waldreservat", hu: "Bukit Ladan Erdőrezervátum", ro: "Rezervația Forestieră Bukit Ladan", en: "Bukit Ladan Forest Reserve"},
-    image: "/poi-images/bn-bukit-ladan-forest-reserve-nature-v2.webp",
     description: {
       de: "Ein wichtiges Waldschutzgebiet in Tutong, das eine große Vielfalt an tropischen Bäumen beherbergt und für die Erhaltung der lokalen Biodiversität entscheidend ist.",
       hu: "Fontos erdővédelmi terület Tutongban, amely trópusi fák nagy választékának ad otthont, és kritikus a helyi biológiai sokféleség megőrzése szempontjából.",
@@ -2432,7 +2422,6 @@ export const poiExtraBruneiNatureV2: POI[] = [
     parent: "BN-BM",
     coords: [114.832, 4.881],
     name: { de: "Wasai Kandal Wasserfall und Wald", hu: "Wasai Kandal Vízesés és Erdő", ro: "Pădurea și Cascada Wasai Kandal", en: "Wasai Kandal Waterfall and Forest"},
-    image: "/poi-images/bn-wasai-kandal-nature-v2.webp",
     description: {
       de: "Ein zugängliches Waldgebiet in der Nähe von Bandar Seri Begawan, das für seine breiten, kaskadenartigen Wasserfälle und kühlen Wasserbecken bekannt ist.",
       hu: "Bandar Seri Begawanhoz közeli megközelíthető erdőterület, amely széles, lépcsőzetes vízeséseiről és hűvös vizű medencéiről ismert.",
@@ -2496,7 +2485,6 @@ export const poiExtraBruneiNatureV2: POI[] = [
     parent: "BN-TE",
     coords: [115.253, 4.296],
     name: { de: "Bukit Pagon", hu: "Bukit Pagon", ro: "Muntele Bukit Pagon", en: "Bukit Pagon"},
-    image: "/poi-images/bn-bukit-pagon-nature-v2.webp",
     description: {
       de: "Der höchste Berg in Brunei, der sich an der Grenze zu Malaysia im Temburong-Distrikt befindet und von Nebelwald bedeckt ist.",
       hu: "Brunei legmagasabb hegye, amely a malajziai határon fekszik a Temburong körzetben, és köderdő borítja.",
@@ -2560,7 +2548,6 @@ export const poiExtraBruneiNatureV2: POI[] = [
     parent: "BN-TE",
     coords: [115.289, 4.341],
     name: { de: "Bukit Retak", hu: "Bukit Retak", ro: "Muntele Bukit Retak", en: "Bukit Retak"},
-    image: "/poi-images/bn-bukit-retak-nature-v2.webp",
     description: {
       de: "Ein markanter Berggrat im unzugänglichen Hinterland Bruneis, der für seine extreme Biodiversität in den höheren Lagen bekannt ist.",
       hu: "Kiemelkedő hegygerinc Brunei megközelíthetetlen hátországában, amely a magasabb területeken tapasztalható rendkívüli biológiai sokféleségről ismert.",
@@ -2624,7 +2611,6 @@ export const poiExtraBruneiNatureV2: POI[] = [
     parent: "BN-BM",
     coords: [114.945, 4.992],
     name: { de: "Berakas Wald-Erholungspark", hu: "Berakas Erdei Pihenőpark", ro: "Parcul de Recreere Forestier Berakas", en: "Berakas Forest Recreation Park"},
-    image: "/poi-images/bn-berakas-forest-park-nature-v2.webp",
     description: {
       de: "Ein Küstenwaldpark, der sich durch eine Mischung aus Kerangas-Wald und Strandvegetation auszeichnet und ein wichtiges Naherholungsgebiet ist.",
       hu: "Tengerparti erdei park, amelyet a Kerangas-erdő és a parti növényzet keveréke jellemez, és fontos helyi rekreációs terület.",
@@ -2769,7 +2755,6 @@ export const poiExtraBruneiNatureV2: POI[] = [
     parent: "BN-BM",
     coords: [115.127, 4.887],
     name: { de: "Pulau Selirong Waldreservat", hu: "Pulau Selirong Erdőrezervátum", ro: "Rezervația Forestieră Insula Selirong", en: "Pulau Selirong Forest Reserve"},
-    image: "/poi-images/bn-selirong-island-forest-reserve-nature-v2.webp",
     description: {
       de: "Eine einzigartige Mangroveninsel, die das größte Mangrovenökosystem Bruneis beherbergt und nur per Boot erreichbar ist.",
       hu: "Egyedülálló mangrovesziget, amely Brunei legnagyobb mangroveökoszisztémájának ad otthont, és csak hajóval közelíthető meg.",

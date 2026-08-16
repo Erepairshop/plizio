@@ -12,7 +12,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
       hu: "Toyota Tahara gyár",
       ro: "Fabrica Toyota Tahara",
       en: "Toyota Tahara Plant"},
-    image: "/poi-images/toyota-tahara-plant-economic-v2.webp",
     description: {
       de: "Eines der fortschrittlichsten Automobilwerke von Toyota, bekannt für die Produktion von Premium-Fahrzeugen der Marke Lexus.",
       hu: "A Toyota egyik legfejlettebb autógyára, amely a prémium Lexus márkájú járművek gyártásáról ismert.",
@@ -1258,7 +1257,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
       hu: "Jokohamai kikötő",
       ro: "Portul Yokohama",
       en: "Port of Yokohama"},
-    image: "/poi-images/port-of-yokohama-economic-v2.webp",
     description: {
       de: "Einer der größten Seehäfen Japans und ein wichtiger Knotenpunkt für den internationalen Handel und die Logistik in der Bucht von Tokio.",
       hu: "Japán egyik legnagyobb tengeri kikötője, a Tokiói-öböl nemzetközi kereskedelmének és logisztikájának kulcsfontosságú csomópontja.",
@@ -1712,7 +1710,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
       hu: "Kasima ipari zóna",
       ro: "Zona Industrială Kashima",
       en: "Kashima Industrial Zone"},
-    image: "/poi-images/kashima-industrial-zone-economic-v2.webp",
     description: {
       de: "Ein großer Industriekomplex mit Schwerpunkt auf Petrochemie, Stahlproduktion und Energieerzeugung.",
       hu: "Egy hatalmas ipari komplexum, amely a petrolkémia, acélgyártás és energiatermelés köré épül.",
@@ -2202,7 +2199,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
       hu: "Nagojai kikötő",
       ro: "Portul Nagoya",
       en: "Port of Nagoya"},
-    image: "/poi-images/port-of-nagoya-economic-v2.webp",
     description: {
       de: "Der größte Handelshafen Japans nach Umschlagvolumen, besonders wichtig für den Export von Automobilen.",
       hu: "Japán legnagyobb kereskedelmi kikötője a kezelt áruk mennyisége alapján, különösen fontos az autóexport szempontjából.",
@@ -2476,7 +2472,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
       hu: "Hitacsi bánya",
       ro: "Mina Hitachi",
       en: "Hitachi Mine"},
-    image: "/poi-images/hitachi-mine-economic-v2.webp",
     description: {
       de: "Eine historisch bedeutsame Kupfermine, die zur Entwicklung der Stadt Hitachi und des gleichnamigen Unternehmens beitrug. Obwohl der Abbau eingestellt wurde, ist der Ort ein Symbol der japanischen Industrialisierung.",
       hu: "Történelmileg jelentős rézbánya, amely hozzájárult Hitacsi város és az azonos nevű vállalat fejlődéséhez. Bár a bányászat megszűnt, a hely a japán iparosodás szimbóluma.",
@@ -3974,7 +3969,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
       hu: "Oszaka Állomásváros",
       ro: "Orașul Stație Osaka",
       en: "Osaka Station City"},
-    image: "/poi-images/osaka-station-city-trade-hub-v2.webp",
     description: {
       de: "Ein massiver Eisenbahn- und Handelskomplex in Umeda, Osaka, der als wichtiger Verkehrsknotenpunkt und Einkaufszentrum dient.",
       hu: "Hatalmas vasúti és kereskedelmi komplexum Oszaka Umeda negyedében, amely fontos közlekedési csomópontként és bevásárlóközpontként funkcionál.",
@@ -4176,7 +4170,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
       hu: "Kasivazaki-Kariva atomerőmű",
       ro: "Centrala Nucleară Kashiwazaki-Kariwa",
       en: "Kashiwazaki-Kariwa Nuclear Power Plant"},
-    image: "/poi-images/kashiwazaki-kariwa-npp-economic-v2.webp",
     description: {
       de: "Das ehemals größte Kernkraftwerk der Welt nach Netto-Stromleistung. Der Betrieb ist seit dem Chūetsu-Erdbeben 2007 und dem Fukushima-Unfall stark eingeschränkt.",
       hu: "A világ egykor legnagyobb atomerőműve a nettó elektromos teljesítmény alapján. Működése a 2007-es Csúecu földrengés és a fukusimai katasztrófa óta erősen korlátozott.",
@@ -4882,7 +4875,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
       hu: "Kóbei kikötő",
       ro: "Portul Kobe",
       en: "Port of Kobe"},
-    image: "/poi-images/port-of-kobe-economic-v2.webp",
     description: {
       de: "Ein bedeutender japanischer Seehafen in der Präfektur Hyōgo. Er war vor dem Großen Hanshin-Erdbeben 1995 einer der verkehrsreichsten der Welt.",
       hu: "Jelentős japán tengeri kikötő Hjógo prefektúrában. Az 1995-ös nagy Hansin földrengés előtt a világ egyik legforgalmasabbja volt.",
@@ -5399,7 +5391,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
       hu: "Kitakjúsú ipari zóna",
       ro: "Zona Industrială Kitakyushu",
       en: "Kitakyushu Industrial Zone"},
-    image: "/poi-images/kitakyushu-industrial-zone-economic-v2.webp",
     description: {
       de: "Eine der vier größten Industriezonen Japans, historisch bekannt für Stahlproduktion und Schwerindustrie. Heute diversifiziert sie sich in Richtung Umwelttechnologie und Robotik.",
       hu: "Japán négy nagy ipari övezetének egyike, amely történelmileg az acélgyártásról és a nehéziparról volt ismert. Ma már a környezetvédelmi technológiák és a robotika felé diverzifikálódik.",
@@ -5448,7 +5439,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
       hu: "Szadoi aranybánya",
       ro: "Mina de Aur Sado",
       en: "Sado Gold Mine"},
-    image: "/poi-images/sado-gold-mine-economic-v2.webp",
     description: {
       de: "Die produktivste Goldmine Japans während der Edo-Zeit, die wesentlich zur Finanzierung des Tokugawa-Shogunats beitrug. Heute eine Touristenattraktion und UNESCO-Welterbekandidat.",
       hu: "Japán legtermékenyebb aranybányája az Edo-korszakban, amely jelentősen hozzájárult a Tokugawa-sógunátus finanszírozásához. Ma turisztikai látványosság és UNESCO világörökségi jelölt.",
@@ -6874,7 +6864,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
       hu: "Sibuja kereszteződés",
       ro: "Intersecția Shibuya",
       en: "Shibuya Scramble Crossing"},
-    image: "/poi-images/shibuya-scramble-crossing-trade-hub-v2.webp",
     description: {
       de: "Eine weltberühmte Fußgängerüberquerung in Tokio, die als Symbol für das moderne, geschäftige Japan und als riesiger kommerzieller Knotenpunkt mit unzähligen Geschäften, Restaurants und Werbeflächen dient.",
       hu: "Világhírű tokiói gyalogátkelőhely, amely a modern, nyüzsgő Japán szimbóluma és egy hatalmas kereskedelmi csomópont, számtalan üzlettel, étteremmel és reklámfelülettel.",
@@ -7076,7 +7065,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
       hu: "Hamaoka atomerőmű",
       ro: "Centrala Nucleară Hamaoka",
       en: "Hamaoka Nuclear Power Plant"},
-    image: "/poi-images/hamaoka-npp-economic-v2.webp",
     description: {
       de: "Ein Kernkraftwerk, das aufgrund seiner Lage in einem Gebiet mit hoher seismischer Aktivität als das gefährlichste in Japan gilt. Alle Reaktoren wurden auf Anweisung der Regierung abgeschaltet.",
       hu: "Egy atomerőmű, amelyet Japán legveszélyesebbjének tartanak, mivel egy magas szeizmikus aktivitású területen fekszik. A kormány utasítására minden reaktorát leállították.",
@@ -7096,7 +7084,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
       fr: ["Construite sur la zone de subduction de la fosse de Nankai.", "D'importants travaux de mise aux normes de sécurité sont en cours.", "Symbole des risques liés au nucléaire en zone sismique."],
     },
     descriptionAdvanced: {
-    en: "The Hamaoka Nuclear Power Plant, located in Omaezaki, Shizuoka Prefecture, is a significant energy facility on Japan's Pacific coast. Operated by the Chubu Electric Power Company, the plant historically supplied power to the heavily industrialized Chubu region. Due to its location directly above the subduction zone of the Philippine Sea Plate, it is considered one of the most earthquake-vulnerable nuclear plants in the world. Following the Fukushima disaster in 2011, the Japanese government requested the shutdown of all its active reactors pending the construction of a massive 22-meter-high seawall to defend against potential tsunamis, highlighting the tension between energy demands and seismic risks.",
   de: "KKW Hamaoka ist ein bemerkenswertes Element der japanischen Geografie und Kultur. Ein Kernkraftwerk, das aufgrund seiner Lage in einem Gebiet mit hoher seismischer Aktivität als das gefährlichste in Japan gilt. Alle Reaktoren wurden auf Anweisung der Regierung abgeschaltet. Gebaut an der Subduktionszone des Nankai-Trogs. Derzeit werden umfangreiche Sicherheits-Upgrades durchgeführt. Symbol der Risiken der Kernenergie in erdbebengefährdeten Gebieten. Dieser Standort spielt eine Rolle in der Wirtschaft Japans, geprägt von Automobilindustrie, Elektronik, Robotik, Schiffbau und Manga-Kultur als Exportgut. Wie viele bedeutende Orte in Japan verbindet dieser Ort regionale Eigenheiten mit dem Erbe der Samurai-Tradition, des Shintoismus und Buddhismus sowie der modernen Industrienation. Damit trägt dieser Ort zum vielseitigen Profil Japans bei — vom Fuji-Vulkan über Tokio bis zum vulkanischen Inselbogen am Pazifik.",
     hu: "A(z) Hamaoka atomerőmű a japán földrajz és kultúra figyelemre méltó eleme. Egy atomerőmű, amelyet Japán legveszélyesebbjének tartanak, mivel egy magas szeizmikus aktivitású területen fekszik. A kormány utasítására minden reaktorát leállították. A Nankai-árok szubdukciós zónájára épült. Jelenleg kiterjedt biztonsági fejlesztéseket végeznek rajta. A nukleáris energia kockázatainak szimbóluma a földrengésveszélyes területeken. Ez a helyszín szerepet játszik Japán gazdaságában, amelyet az autóipar, az elektronika, a robotika, a hajógyártás és a manga-kultúra export jellemez. Japán számos jelentős helyszínéhez hasonlóan ez is ötvözi a regionális sajátosságokat a szamuráj-hagyomány, a sintoizmus és a buddhizmus, valamint a modern ipari nemzet örökségével. Ezzel a helyszín hozzájárul Japán sokszínű arculatához — a Fudzsi-hegytől Tokión át a Csendes-óceán vulkáni szigetívéig.",
     ro: "Centrala Nucleară Hamaoka, situată pe malul Oceanului Pacific în orașul Omaezaki, Prefectura Shizuoka, a devenit un simbol al eforturilor extraordinare de prevenire a dezastrelor geologice în industria atomică a Japoniei. În urma cererii excepționale a guvernului național în anul 2011, din cauza previziunilor care plasau centrala în epicentrul unui posibil viitor cutremur devastator \"Tokai\", operatorul Chubu Electric Power Company a suspendat toate reactoarele. De atunci, complexul a fost supus unui proces de fortificare mamut, incluzând construcția unui uriaș dig marin din beton, lung de 1,6 kilometri și înalt de 22 de metri, destinat să blocheze un potențial mega-tsunami. Această investiție masivă reflectă dedicarea extremă pentru ingineria de siguranță modernă.",
@@ -8395,7 +8382,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
       hu: "Hakata kikötő",
       ro: "Portul Hakata",
       en: "Port of Hakata"},
-    image: "/poi-images/port-of-hakata-economic-v2.webp",
     description: {
       de: "Der größte Hafen in Kyūshū, ein wichtiges Tor für den Handel mit dem asiatischen Festland, insbesondere Korea und China.",
       hu: "Kjúsú legnagyobb kikötője, fontos kapu az ázsiai kontinenssel, különösen Koreával és Kínával folytatott kereskedelem számára.",
@@ -9353,7 +9339,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
       hu: "Isogo hőerőmű",
       ro: "Termocentrala Isogo",
       en: "J-POWER Isogo Thermal Power Station"},
-    image: "/poi-images/j-power-isogo-thermal-plant-economic-v2.webp",
     description: {
       de: "Ein hochmodernes Kohlekraftwerk in Yokohama, das für seine hohe Effizienz und fortschrittlichen Umweltschutztechnologien bekannt ist.",
       hu: "Egy rendkívül modern szénerőmű Jokohamában, amely magas hatásfokáról és fejlett környezetvédelmi technológiáiról ismert.",
@@ -10743,7 +10728,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
       hu: "Cukidzsi külső piac",
       ro: "Piața Exterioară Tsukiji",
       en: "Tsukiji Outer Market"},
-    image: "/poi-images/tsukiji-outer-market-trade-hub-v2.webp",
     description: {
       de: "Obwohl der berühmte Thunfisch-Großhandelsmarkt umgezogen ist, bleibt der äußere Markt ein lebhaftes Handelszentrum für frische Meeresfrüchte, Lebensmittel und Küchenutensilien.",
       hu: "Bár a híres tonhal-nagykereskedelmi piac elköltözött, a külső piac továbbra is élénk kereskedelmi központ a friss tenger gyümölcsei, élelmiszerek és konyhai eszközök számára.",
@@ -10837,7 +10821,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
       hu: "Ivami Gindzan ezüstbánya",
       ro: "Mina de Argint Iwami Ginzan",
       en: "Iwami Ginzan Silver Mine"},
-    image: "/poi-images/iwami-silver-mine-economic-v2.webp",
     description: {
       de: "Ein UNESCO-Weltkulturerbe, das vom 16. bis zum 20. Jahrhundert eine der wichtigsten Silberminen der Welt war und einen großen Teil der japanischen Silberproduktion ausmachte.",
       hu: "UNESCO Világörökségi helyszín, amely a 16. és 20. század között a világ egyik legfontosabb ezüstbányája volt, és a japán ezüsttermelés jelentős részét adta.",
@@ -12299,7 +12282,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
       hu: "Keihin ipari zóna",
       ro: "Zona Industrială Keihin",
       en: "Keihin Industrial Zone"},
-    image: "/poi-images/keihin-industrial-zone-economic-v2.webp",
     description: {
       de: "Eine der ältesten und größten Industriezonen Japans, die sich von Tokio über Kawasaki bis nach Yokohama erstreckt. Ein Zentrum für Schwerindustrie, Chemie und Fertigung.",
       hu: "Japán egyik legrégebbi és legnagyobb ipari övezete, amely Tokiótól Kawasakin át Jokohamáig terjed. A nehézipar, a vegyipar és a gyártás központja.",
@@ -12501,7 +12483,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
       hu: "Tomakomai kikötő",
       ro: "Portul Tomakomai",
       en: "Port of Tomakomai"},
-    image: "/poi-images/port-of-tomakomai-economic-v2.webp",
     description: {
       de: "Der größte Hafen in Hokkaido und ein wichtiger Logistikknotenpunkt für Nordjapan, der Papier, Erdölprodukte und landwirtschaftliche Erzeugnisse umschlägt.",
       hu: "Hokkaidó legnagyobb kikötője és Észak-Japán fontos logisztikai csomópontja, amely papírt, kőolajtermékeket és mezőgazdasági termékeket kezel.",
@@ -12811,7 +12792,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
       hu: "Jokkaicsi ipari komplexum",
       ro: "Complexul Industrial Yokkaichi",
       en: "Yokkaichi Industrial Complex"},
-    image: "/poi-images/yokkaichi-industrial-complex-economic-v2.webp",
     description: {
       de: "Einer der größten petrochemischen Komplexe Japans. Historisch war er für schwere Umweltverschmutzung bekannt (Yokkaichi-Asthma), was zu strengeren Umweltgesetzen in Japan führte.",
       hu: "Japán egyik legnagyobb petrolkémiai komplexuma. Történelmileg súlyos környezetszennyezéséről (Jokkaicsi-aszthma) volt hírhedt, ami szigorúbb környezetvédelmi törvényekhez vezetett Japánban.",

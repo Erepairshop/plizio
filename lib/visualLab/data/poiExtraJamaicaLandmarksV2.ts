@@ -8,7 +8,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-02",
     coords: [-76.7711, 18.0069],
     name: { de: "Independence Park (Nationalstadion)", hu: "Independence Park (Nemzeti Stadion)", ro: "Parcul Independenței (Stadionul Național)", en: "Independence Park (National Stadium)"},
-    image: "/poi-images/jm-independence-park-landmarks-v2.webp",
     description: { de: "Ein großer Sport- und Kulturkomplex in Kingston, der für internationale Leichtathletikwettbewerbe bekannt ist.", hu: "Nagy sport- és kulturális komplexum Kingstonban, amely nemzetközi atlétikai versenyeiről ismert.", ro: "Un complex sportiv și cultural major în Kingston, cunoscut pentru competițiile internaționale de atletism.", en: "A major sports and cultural complex in Kingston, known for international track and field competitions." , es: "Un gran complejo deportivo y cultural en Kingston, conocido por competiciones internacionales de atletismo.", pt: "Um grande complexo desportivo e cultural em Kingston, conhecido por competições internacionais de atletismo.", fr: "Un grand complexe sportif et culturel à Kingston, célèbre pour ses compétitions internationales d'athlétisme."},
     facts: {
       de: ["1962 für die Zentralamerika- und Karibikspiele erbaut.", "Fasst rund 35.000 Zuschauer.", "Steht in Kingston."],
@@ -44,7 +43,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-02",
     coords: [-76.7825, 17.9786],
     name: { de: "Sabina Park", hu: "Sabina Park", ro: "Sabina Park", en: "Sabina Park"},
-    image: "/poi-images/jm-sabina-park-landmarks-v2.webp",
     description: { de: "Das berühmteste Cricket-Stadion Jamaikas in Kingston, Heimat des Kingston Cricket Club.", hu: "Jamaica leghíresebb krikettstadionja Kingstonban, a Kingston Cricket Club otthona.", ro: "Cel mai faimos stadion de cricket din Jamaica, situat în Kingston, casa Kingston Cricket Club.", en: "Jamaica's most famous cricket stadium in Kingston, home to the Kingston Cricket Club." , es: "El estadio de críquet más famoso de Jamaica en Kingston, hogar del Kingston Cricket Club.", pt: "O estádio de críquete mais famoso da Jamaica em Kingston, sede do Kingston Cricket Club.", fr: "Le plus célèbre stade de cricket de la Jamaïque à Kingston, siège du Kingston Cricket Club."},
     facts: {
       de: ["Wurde 1930 zu einem Test-Cricket-Stadion.", "Austragungsort der Cricket-Weltmeisterschaft 2007.", "Befindet sich in einem der trockensten Teile von Kingston."],
@@ -80,7 +78,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-02",
     coords: [-76.7933, 17.9658],
     name: { de: "Nationalgalerie von Jamaika", hu: "Jamaica Nemzeti Galéria", ro: "Galeria Națională a Jamaicăi", en: "National Gallery of Jamaica"},
-    image: "/poi-images/jm-national-gallery-landmarks-v2.webp",
     description: { de: "Das wichtigste Kunstmuseum des Landes mit einer umfangreichen Sammlung jamaikanischer Kunstwerke.", hu: "Az ország legfontosabb művészeti múzeuma, amely kiterjedt jamaicai művészeti gyűjteménnyel rendelkezik.", ro: "Cel mai important muzeu de artă din țară, găzduind o colecție vastă de opere de artă jamaicane.", en: "The country's premier art museum, housing an extensive collection of Jamaican artwork." , es: "El museo de arte más importante del país, con una extensa colección de obras de arte jamaicanas.", pt: "O museu de arte mais importante do país, com uma extensa coleção de obras de arte jamaicanas.", fr: "Le plus important musée d'art du pays, doté d'une vaste collection d'œuvres d'art jamaïcaines."},
     facts: {
       de: ["1974 gegründet.", "Befindet sich im Kingston Mall-Komplex.", "Zeigt Werke von Edna Manley und anderen."],
@@ -116,7 +113,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-02",
     coords: [-76.7936, 17.9719],
     name: { de: "Ward Theater", hu: "Ward Színház", ro: "Teatrul Ward", en: "Ward Theatre"},
-    image: "/poi-images/jm-ward-theatre-landmarks-v2.webp",
     description: { de: "Ein historisches Theater im Zentrum von Kingston, das nach dem Erdbeben von 1907 wieder aufgebaut wurde.", hu: "Történelmi színház Kingston központjában, amelyet az 1907-es földrengés után újjáépítettek.", ro: "Un teatru istoric în centrul orașului Kingston, reconstruit după cutremurul din 1907.", en: "A historic theater in downtown Kingston, rebuilt after the 1907 earthquake." , es: "Un teatro histórico en el centro de Kingston, reconstruido tras el terremoto de 1907.", pt: "Um teatro histórico no centro de Kingston, reconstruído após o sismo de 1907.", fr: "Un théâtre historique au centre de Kingston, reconstruit après le tremblement de terre de 1907."},
     facts: {
       de: ["Wurde 1912 der Stadt geschenkt.", "Benannt nach Oberst Charles Ward.", "Ein bedeutender Ort für Pantomime."],
@@ -152,7 +148,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-02",
     coords: [-76.7906, 17.9753],
     name: { de: "Gordon House", hu: "Gordon House", ro: "Gordon House", en: "Gordon House"},
-    image: "/poi-images/jm-gordon-house-landmarks-v2.webp",
     description: { de: "Der Treffpunkt des jamaikanischen Parlaments in Kingston.", hu: "A jamaicai parlament ülésterme Kingstonban.", ro: "Locul de întâlnire al Parlamentului jamaican în Kingston.", en: "The official meeting place of Jamaica's Parliament, named after national hero George William Gordon." , es: "El lugar de reunión del parlamento jamaicano en Kingston.", pt: "O local de reunião do parlamento jamaicano em Kingston.", fr: "Le lieu de réunion du parlement jamaïcain à Kingston."},
     facts: {
       de: ["Erbaut im Jahr 1960.", "Benannt nach George William Gordon, einem Nationalhelden.", "Ersetzte das alte Headquarters House."],
@@ -188,7 +183,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-02",
     coords: [-76.7869, 18.0208],
     name: { de: "King's House", hu: "King's House", ro: "King's House", en: "King's House"},
-    image: "/poi-images/jm-kings-house-landmarks-v2.webp",
     description: { de: "Die offizielle Residenz des Generalgouverneurs von Jamaika in Kingston.", hu: "Jamaica főkormányzójának hivatalos rezidenciája Kingstonban.", ro: "Reședința oficială a Guvernatorului General al Jamaicăi în Kingston.", en: "The official residence of the Governor-General of Jamaica in Kingston." , es: "La residencia oficial del Gobernador General de Jamaica en Kingston.", pt: "A residência oficial do Governador-Geral da Jamaica em Kingston.", fr: "La résidence officielle du Gouverneur général de la Jamaïque à Kingston."},
     facts: {
       de: ["Ehemalige Residenz des anglikanischen Bischofs.", "Wurde 1907 durch ein Erdbeben zerstört und neu aufgebaut.", "Umfasst weitläufige Gärten."],
@@ -224,7 +218,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-02",
     coords: [-76.7892, 18.0028],
     name: { de: "Emancipation Park", hu: "Emancipáció Park", ro: "Parcul Emancipării", en: "Emancipation Park"},
-    image: "/poi-images/jm-emancipation-park-landmarks-v2.webp",
     description: { de: "Ein öffentlicher Park in New Kingston, der die Freiheit und das Ende der Sklaverei symbolisiert.", hu: "Nyilvános park New Kingstonban, amely a szabadságot és a rabszolgaság végét szimbolizálja.", ro: "Un parc public în New Kingston, simbolizând libertatea și sfârșitul sclaviei.", en: "A public park in New Kingston symbolizing freedom and the end of slavery." , es: "Un parque público en New Kingston que simboliza la libertad y el fin de la esclavitud.", pt: "Um parque público em New Kingston que simboliza a liberdade e o fim da escravatura.", fr: "Un parc public à New Kingston, symbolisant la liberté et la fin de l'esclavage."},
     facts: {
       de: ["Eröffnet im Jahr 2002.", "Bekannt für die Skulptur 'Redemption Song'.", "Ist sieben Hektar groß."],
@@ -254,7 +247,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-02",
     coords: [-76.7881, 17.9822],
     name: { de: "National Heroes Park", hu: "Nemzeti Hősök Parkja", ro: "Parcul Eroilor Naționali", en: "National Heroes Park"},
-    image: "/poi-images/jm-national-heroes-park-landmarks-v2.webp",
     description: { de: "Ein botanischer Garten und Schrein, in dem viele jamaikanische Nationalhelden und Führer begraben sind.", hu: "Botanikus kert és szentély, ahol számos jamaicai nemzeti hős és vezető nyugszik.", ro: "O grădină botanică și sanctuar unde sunt îngropați mulți eroi și lideri naționali jamaicani.", en: "A botanical garden and shrine where many Jamaican national heroes and leaders are buried." , es: "Un jardín botánico y santuario donde están enterrados muchos héroes nacionales y líderes jamaicanos.", pt: "Um jardim botânico e santuário onde estão enterrados muitos heróis nacionais e líderes jamaicanos.", fr: "Un jardin botanique et un sanctuaire où sont enterrés de nombreux héros nationaux et dirigeants jamaïcains."},
     facts: {
       de: ["War früher eine Pferderennbahn.", "Marcus Garvey ist hier begraben.", "Befindet sich in Kingston."],
@@ -290,7 +282,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-02",
     coords: [-76.7875, 17.9750],
     name: { de: "Holy Trinity Kathedrale", hu: "Szentháromság-székesegyház", ro: "Catedrala Sfânta Treime", en: "Holy Trinity Cathedral"},
-    image: "/poi-images/jm-holy-trinity-cathedral-landmarks-v2.webp",
     description: { de: "Eine römisch-katholische Kathedrale in Kingston, bekannt für ihre beeindruckende Kuppel und Fresken.", hu: "Római katolikus székesegyház Kingstonban, amely lenyűgöző kupolájáról és freskóiról ismert.", ro: "O catedrală romano-catolică în Kingston, cunoscută pentru domul și frescele sale impresionante.", en: "A Roman Catholic cathedral in Kingston known for its impressive dome and frescoes." , es: "Una catedral católica romana en Kingston, conocida por su impresionante cúpula y frescos.", pt: "Uma catedral católica romana em Kingston, conhecida pela sua impressionante cúpula e frescos.", fr: "Une cathédrale catholique romaine à Kingston, célèbre pour son dôme impressionnant et ses fresques."},
     facts: {
       de: ["1911 fertiggestellt.", "Ersetzte die beim Erdbeben 1907 zerstörte Kirche.", "Die Kunstwerke wurden von Bruder Francis Schroen gemalt."],
@@ -326,7 +317,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-02",
     coords: [-76.7961, 18.0131],
     name: { de: "Half Way Tree Uhrenturm", hu: "Half Way Tree Óratorony", ro: "Turnul cu Ceas Half Way Tree", en: "Half Way Tree Clock Tower"},
-    image: "/poi-images/jm-half-way-tree-clock-tower-landmarks-v2.webp",
     description: { de: "Ein viktorianisches Denkmal an einer belebten Kreuzung in St. Andrew, das als wichtiger Orientierungspunkt dient.", hu: "Viktoriánus emlékmű egy forgalmas útkereszteződésben St. Andrew-ban, amely fontos tájékozódási pontként szolgál.", ro: "Un monument victorian la o intersecție aglomerată din St. Andrew, servind ca punct de reper major.", en: "A Victorian monument at a busy intersection in St. Andrew, serving as a major landmark." , es: "Un monumento victoriano en una concurrida intersección de St. Andrew que sirve como un importante punto de referencia.", pt: "Um monumento vitoriano num cruzamento movimentado em St. Andrew que serve como um importante ponto de referência.", fr: "Un monument victorien situé à un carrefour animé de St. Andrew, servant de point de repère majeur."},
     facts: {
       de: ["1913 zum Gedenken an König Edward VII. errichtet.", "Markiert das Zentrum von Half Way Tree.", "Im neugotischen Stil erbaut."],
@@ -398,7 +388,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-02",
     coords: [-76.7803, 17.9303],
     name: { de: "Plumb Point Leuchtturm", hu: "Plumb Point-világítótorony", ro: "Farul Plumb Point", en: "Plumb Point Lighthouse"},
-    image: "/poi-images/jm-plumb-point-lighthouse-landmarks-v2.webp",
     description: { de: "Ein historischer Leuchtturm auf der Palisadoes-Halbinsel, der die Einfahrt zum Hafen von Kingston schützt.", hu: "Történelmi világítótorony a Palisadoes-félszigeten, amely a kingstoni kikötő bejáratát védi.", ro: "Un far istoric pe peninsula Palisadoes care protejează intrarea în portul Kingston.", en: "A historic 19th-century lighthouse guiding ships safely into the Kingston Harbour along the Palisadoes." , es: "Un faro histórico en la península de Palisadoes que protege la entrada al puerto de Kingston.", pt: "Um farol histórico na península de Palisadoes que protege a entrada do porto de Kingston.", fr: "Un phare historique sur la péninsule de Palisadoes qui protège l'entrée du port de Kingston."},
     facts: {
       de: ["Erbaut im Jahr 1853.", "Überlebte das Erdbeben von 1907.", "Besteht aus Gusseisen und Stein."],
@@ -434,7 +423,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-02",
     coords: [-76.7461, 18.0061],
     name: { de: "UWI Mona Campus", hu: "UWI Mona Kampusz", ro: "Campusul UWI Mona", en: "UWI Mona Campus"},
-    image: "/poi-images/jm-uwi-mona-campus-landmarks-v2.webp",
     description: { de: "Der älteste Campus der University of the West Indies, bekannt für seine historische und moderne Architektur.", hu: "A Nyugat-indiai Egyetem legrégebbi kampusza, történelmi és modern építészetéről ismert.", ro: "Cel mai vechi campus al Universității Indiilor de Vest, cunoscut pentru arhitectura sa istorică și modernă.", en: "The oldest campus of the University of the West Indies, known for its historic and modern architecture." , es: "El campus más antiguo de la University of the West Indies, conocido por su arquitectura histórica y moderna.", pt: "O campus mais antigo da University of the West Indies, conhecido pela sua arquitetura histórica e moderna.", fr: "Le plus ancien campus de l'University of the West Indies, connu pour son architecture historique et moderne."},
     facts: {
       de: ["1948 gegründet.", "Auf dem Gelände von ehemaligen Zuckerrohrplantagen errichtet.", "Beherbergt Ruinen von Aquädukten."],
@@ -470,7 +458,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-08",
     coords: [-77.9189, 18.4719],
     name: { de: "Sam Sharpe Square", hu: "Sam Sharpe tér", ro: "Piața Sam Sharpe", en: "Sam Sharpe Square"},
-    image: "/poi-images/jm-sam-sharpe-square-landmarks-v2.webp",
     description: { de: "Ein zentraler Platz in Montego Bay, der an den Nationalhelden Sam Sharpe und den Sklavenaufstand erinnert.", hu: "Központi tér Montego Bay-ben, amely Sam Sharpe nemzeti hősre és a rabszolgafelkelésre emlékeztet.", ro: "O piață centrală în Montego Bay, care comemorează eroul național Sam Sharpe și rebeliunea sclavilor.", en: "A central square in Montego Bay commemorating national hero Sam Sharpe and the slave rebellion." , es: "Una plaza central en Montego Bay que conmemora al héroe nacional Sam Sharpe y la rebelión de esclavos.", pt: "Uma praça central em Montego Bay que comemora o herói nacional Sam Sharpe e a revolta de escravos.", fr: "Une place centrale à Montego Bay commémorant le héros national Sam Sharpe et la révolte des esclaves."},
     facts: {
       de: ["Hieß früher Charles Square.", "Hier befindet sich 'The Cage', ein ehemaliges Gefängnis.", "Beherbergt ein Denkmal für Sam Sharpe."],
@@ -506,7 +493,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-08",
     coords: [-77.9197, 18.4750],
     name: { de: "St. James Pfarrkirche", hu: "St. James-plébániatemplom", ro: "Biserica Parohială St. James", en: "St. James Parish Church"},
-    image: "/poi-images/jm-st-james-parish-church-landmarks-v2.webp",
     description: { de: "Eine der beeindruckendsten Kirchen Jamaikas, gelegen in Montego Bay, erbaut in der Form eines griechischen Kreuzes.", hu: "Jamaica egyik leglenyűgözőbb temploma Montego Bay-ben, görög kereszt alaprajzzal épült.", ro: "Una dintre cele mai impresionante biserici din Jamaica, situată în Montego Bay, construită în formă de cruce grecească.", en: "One of Jamaica's most impressive churches, located in Montego Bay, built in the shape of a Greek cross." , es: "Una de las iglesias más impresionantes de Jamaica, situada en Montego Bay, construida en forma de cruz griega.", pt: "Uma das igrejas mais impressionantes da Jamaica, situada em Montego Bay, construída em forma de cruz grega.", fr: "L'une des églises les plus impressionnantes de Jamaïque, située à Montego Bay, construite en forme de croix grecque."},
     facts: {
       de: ["Erbaut zwischen 1775 und 1782.", "Weist Denkmäler des Bildhauers John Bacon auf.", "Gilt als architektonisches Juwel."],
@@ -542,7 +528,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-08",
     coords: [-77.7878, 18.5206],
     name: { de: "Greenwood Great House", hu: "Greenwood kúria", ro: "Conacul Greenwood", en: "Greenwood Great House"},
-    image: "/poi-images/jm-greenwood-great-house-landmarks-v2.webp",
     description: { de: "Ein hervorragend erhaltenes Plantagenhaus aus dem 18. Jahrhundert, das einst der Familie von Elizabeth Barrett Browning gehörte.", hu: "Kiválóan fennmaradt 18. századi ültetvényes ház, amely egykor Elizabeth Barrett Browning családjának tulajdonában volt.", ro: "O casă de plantație din secolul al XVIII-lea excelent conservată, care a aparținut familiei lui Elizabeth Barrett Browning.", en: "An excellently preserved 18th-century plantation house once owned by the family of Elizabeth Barrett Browning." , es: "Una casa de plantación del siglo XVIII magníficamente conservada que perteneció a la familia de Elizabeth Barrett Browning.", pt: "Uma casa de plantação do século XVIII soberbamente preservada que pertenceu à família de Elizabeth Barrett Browning.", fr: "Une maison de plantation du XVIIIe siècle magnifiquement conservée ayant appartenu à la famille d'Elizabeth Barrett Browning."},
     facts: {
       de: ["Überstand den Sklavenaufstand von 1831 unbeschadet.", "Beherbergt eine wertvolle Antiquitätensammlung.", "Liegt an der Grenze zwischen St. James und Trelawny."],
@@ -578,7 +563,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-07",
     coords: [-77.6569, 18.4950],
     name: { de: "Falmouth Kreuzfahrtterminal", hu: "Falmouth-i Tengerjáró Terminál", ro: "Terminalul de Croazieră Falmouth", en: "Falmouth Cruise Terminal"},
-    image: "/poi-images/jm-falmouth-cruise-terminal-landmarks-v2.webp",
     description: { de: "Das Kreuzfahrtterminal von Falmouth beeindruckt durch seine Architektur im georgianischen Stil, die an das historische Stadtbild angepasst wurde. Es ist ein moderner Touristenmagnet.", hu: "Modern kikötőkomplexum, amely grúz stílusban épült, és nagy tengerjáró hajókat fogad Trelawny-ban.", ro: "Un complex portuar modern construit în stil georgian, care primește nave de croazieră mari în Trelawny.", en: "A modern port complex built in the Georgian style, welcoming large cruise ships in Trelawny." , es: "La terminal de cruceros de Falmouth impresiona por su arquitectura de estilo georgiano, adaptada al paisaje histórico de la ciudad. Es un moderno imán turístico.", pt: "O terminal de cruzeiros de Falmouth impressiona pela sua arquitetura de estilo georgiano, adaptada à paisagem histórica da cidade. É um moderno íman turístico.", fr: "Le terminal de croisière de Falmouth impressionne par son architecture de style géorgien, adaptée au paysage urbain historique. C'est un pôle d'attraction touristique moderne."},
     facts: {
       de: ["Georgianischer Baustil", "Tor zur historischen Altstadt", "Bedeutender Touristenmagnet"],
@@ -614,7 +598,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-06",
     coords: [-77.3986, 18.4636],
     name: { de: "Columbus Park", hu: "Columbus Park", ro: "Parcul Columbus", en: "Columbus Park"},
-    image: "/poi-images/jm-columbus-park-landmarks-v2.webp",
     description: { de: "Ein Freilichtmuseum in Discovery Bay, das an die Ankunft von Christoph Kolumbus im Jahr 1494 erinnert.", hu: "Szabadtéri múzeum Discovery Bay-ben, amely Kolumbusz Kristóf 1494-es érkezésére emlékeztet.", ro: "Un muzeu în aer liber în Discovery Bay care comemorează sosirea lui Cristofor Columb în 1494.", en: "An open-air museum in Discovery Bay commemorating the arrival of Christopher Columbus in 1494." , es: "Un museo al aire libre en Discovery Bay que conmemora la llegada de Cristóbal Colón en 1494.", pt: "Um museu ao ar livre em Discovery Bay que recorda a chegada de Cristóvão Colombo em 1494.", fr: "Un musée en plein air à Discovery Bay qui commémore l'arrivée de Christophe Colomb en 1494."},
     facts: {
       de: ["Kolumbus nannte den Ort Puerto Seco.", "Zeigt Artefakte der Arawak-Indianer.", "Beherbergt Relikte aus der Kolonialzeit."],
@@ -650,7 +633,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-05",
     coords: [-76.9208, 18.3753],
     name: { de: "Firefly Anwesen", hu: "Firefly Birtok", ro: "Moșia Firefly", en: "Firefly Estate"},
-    image: "/poi-images/jm-firefly-estate-landmarks-v2.webp",
     description: { de: "Das ehemalige Zuhause des Dramatikers Noel Coward, hoch über der Küste von St. Mary gelegen.", hu: "Noel Coward drámaíró egykori otthona, magasan St. Mary partvidéke felett.", ro: "Fosta casă a dramaturgului Noel Coward, situată sus deasupra coastei St. Mary.", en: "The former home of playwright Noel Coward, located high above the coast of St. Mary." , es: "El antiguo hogar del dramaturgo Noel Coward, situado en lo alto de la costa de St. Mary.", pt: "A antiga casa do dramaturgo Noel Coward, situada no alto da costa de St. Mary.", fr: "L'ancienne demeure du dramaturge Noel Coward, située sur les hauteurs de la côte de St. Mary."},
     facts: {
       de: ["Noel Coward ist auf dem Gelände begraben.", "Bietet einen Blick auf Port Maria.", "War ursprünglich ein Ausguck des Piraten Henry Morgan."],
@@ -686,7 +668,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-05",
     coords: [-77.0375, 18.4114],
     name: { de: "Schlachtfeld von Rio Nuevo", hu: "Rio Nuevo csatatér", ro: "Câmpul de luptă Rio Nuevo", en: "Rio Nuevo Battle Site"},
-    image: "/poi-images/jm-rio-nuevo-battle-site-landmarks-v2.webp",
     description: { de: "Ein historisches Denkmal in St. Mary, das den Ort der letzten großen Schlacht zwischen Briten und Spaniern markiert.", hu: "Történelmi emlékmű St. Mary-ben, amely a britek és a spanyolok közötti utolsó nagy csata helyszínét jelöli.", ro: "Un monument istoric în St. Mary care marchează locul ultimei mari bătălii dintre britanici și spanioli.", en: "A historical monument in St. Mary marking the site of the final major battle between the British and Spanish." , es: "Un monumento histórico en St. Mary que marca el lugar de la última gran batalla entre británicos y españoles.", pt: "Um monumento histórico em St. Mary que marca o local da última grande batalha entre britânicos e espanhóis.", fr: "Un monument historique à St. Mary marquant le lieu de la dernière grande bataille entre les Britanniques et les Espagnols."},
     facts: {
       de: ["Die Schlacht fand 1658 statt.", "Sicherte die britische Kontrolle über Jamaika.", "Wird vom Jamaica National Heritage Trust verwaltet."],
@@ -722,7 +703,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-12",
     coords: [-77.5333, 18.0833],
     name: { de: "Roxborough", hu: "Roxborough", ro: "Roxborough", en: "Roxborough"},
-    image: "/poi-images/jm-roxborough-landmarks-v2.webp",
     description: { de: "Das Anwesen in Manchester, das als Geburtsort des jamaikanischen Nationalhelden Norman Washington Manley bekannt ist.", hu: "A manchesteri birtok, amely Norman Washington Manley jamaicai nemzeti hős szülőhelyeként ismert.", ro: "Moșia din Manchester cunoscută ca locul de naștere al eroului național jamaican Norman Washington Manley.", en: "The estate in Manchester known as the birthplace of Jamaican national hero Norman Washington Manley." , es: "La propiedad en Manchester conocida como el lugar de nacimiento del héroe nacional jamaicano Norman Washington Manley.", pt: "A propriedade em Manchester conhecida como o local de nascimento do herói nacional jamaicano Norman Washington Manley.", fr: "Le domaine de Manchester connu comme le lieu de naissance du héros national jamaïcain Norman Washington Manley."},
     facts: {
       de: ["1893 wurde Norman Manley hier geboren.", "Das ursprüngliche Haus brannte 1968 ab.", "Eine Gedenkstätte ehrt sein Leben."],
@@ -758,7 +738,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-12",
     coords: [-77.5083, 18.0417],
     name: { de: "Gerichtsgebäude von Mandeville", hu: "Mandeville-i Bíróság", ro: "Tribunalul din Mandeville", en: "Mandeville Courthouse"},
-    image: "/poi-images/jm-mandeville-courthouse-landmarks-v2.webp",
     description: { de: "Ein klassisches Gebäude im karibischen Kolonialstil, das den Stadtplatz von Mandeville überblickt.", hu: "Klasszikus karibi gyarmati stílusú épület, amely a mandeville-i városi térre néz.", ro: "O clădire clasică în stil colonial caraibian care domină piața orașului Mandeville.", en: "A classic Caribbean colonial-style building that overlooks the town square of Mandeville." , es: "Un edificio clásico de estilo colonial caribeño que domina la plaza principal de Mandeville.", pt: "Um edifício clássico de estilo colonial das Caraíbas que domina a praça da cidade de Mandeville.", fr: "Un bâtiment classique de style colonial caribéen dominant la place de la ville de Mandeville."},
     facts: {
       de: ["Wurde um 1817 erbaut.", "Wird noch heute für Gerichtsverhandlungen genutzt.", "Besteht aus zweistöckigem Mauerwerk und Holz."],
@@ -794,7 +773,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-11",
     coords: [-77.6431, 17.8647],
     name: { de: "Lover's Leap Leuchtturm", hu: "Lover's Leap világítótorony", ro: "Farul Lover's Leap", en: "Lover's Leap Lighthouse"},
-    image: "/poi-images/jm-lovers-leap-lighthouse-landmarks-v2.webp",
     description: { de: "Ein moderner Leuchtturm auf einer steilen Klippe in St. Elizabeth, nahe einer legendären Aussichtsplattform.", hu: "Modern világítótorony egy meredek sziklán St. Elizabeth-ben, egy legendás kilátóterasz közelében.", ro: "Un far modern situat pe o stâncă abruptă din St. Elizabeth, lângă o platformă de observare legendară.", en: "A modern lighthouse located on a steep cliff in St. Elizabeth, near a legendary viewing deck." , es: "Un faro moderno en un acantilado escarpado en St. Elizabeth, cerca de una legendaria plataforma de observación.", pt: "Um farol moderno num penhasco íngreme em St. Elizabeth, perto de uma lendária plataforma de observação.", fr: "Un phare moderne situé sur une falaise abrupte à St. Elizabeth, à proximité d'un belvédère légendaire."},
     facts: {
       de: ["Die Klippe ist über 500 Meter hoch.", "Errichtet, um Schiffe vor der zerklüfteten Küste zu warnen.", "Bietet einen atemberaubenden Blick aufs Meer."],
@@ -830,7 +808,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-11",
     coords: [-77.7289, 18.1581],
     name: { de: "Appleton Estate", hu: "Appleton Estate", ro: "Appleton Estate", en: "Appleton Estate"},
-    image: "/poi-images/jm-appleton-estate-landmarks-v2.webp",
     description: { de: "Eine der ältesten Rum-Destillerien in der Karibik, die im Nassau Valley in St. Elizabeth liegt.", hu: "A Karib-térség egyik legrégebbi rumlepárlója, amely a Nassau-völgyben, St. Elizabeth-ben található.", ro: "Una dintre cele mai vechi distilerii de rom din Caraibe, situată în Valea Nassau din St. Elizabeth.", en: "One of the oldest rum distilleries in the Caribbean, located in the Nassau Valley in St. Elizabeth." , es: "Una de las destilerías de ron más antiguas del Caribe, situada en el Nassau Valley en St. Elizabeth.", pt: "Uma das destilarias de rum mais antigas das Caraíbas, situada no Nassau Valley em St. Elizabeth.", fr: "L'une des plus anciennes distilleries de rhum des Caraïbes, située dans la Nassau Valley à St. Elizabeth."},
     facts: {
       de: ["Produziert seit 1749 Rum.", "Bietet Führungen durch die historische Anlage.", "Verfügt über ein Besucherzentrum und Verkostungsräume."],
@@ -860,7 +837,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-10",
     coords: [-78.3619, 18.2458],
     name: { de: "Negril Leuchtturm", hu: "Negrili világítótorony", ro: "Farul Negril", en: "Negril Lighthouse"},
-    image: "/poi-images/jm-negril-lighthouse-landmarks-v2.webp",
     description: { de: "Ein historischer Leuchtturm, der am äußersten westlichen Punkt Jamaikas, am West End von Negril, steht.", hu: "Történelmi világítótorony Jamaica legnyugatibb pontján, Negril West End nevű részén.", ro: "Un far istoric situat în cel mai vestic punct al Jamaicăi, la West End în Negril.", en: "A historic lighthouse standing at the westernmost point of Jamaica, at the West End of Negril." , es: "Un faro histórico situado en el punto más occidental de Jamaica, en el West End de Negril.", pt: "Um farol histórico situado no ponto mais ocidental da Jamaica, no West End de Negril.", fr: "Un phare historique situé à l'extrémité ouest de la Jamaïque, au West End de Negril."},
     facts: {
       de: ["Wurde 1894 erbaut.", "Wird durch Solarenergie betrieben.", "Bietet einen Panoramablick auf das Karibische Meer."],
@@ -890,7 +866,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-10",
     coords: [-77.9903, 18.1542],
     name: { de: "Peter Tosh Denkmal", hu: "Peter Tosh Emlékmű", ro: "Monumentul Peter Tosh", en: "Peter Tosh Monument"},
-    image: "/poi-images/jm-peter-tosh-monument-landmarks-v2.webp",
     description: { de: "Ein Mausoleum und Denkmal in Westmoreland, das dem berühmten Reggae-Musiker und Wailers-Mitglied gewidmet ist.", hu: "Mauzóleum és emlékmű Westmorelandben, amelyet a híres reggae-zenésznek és a Wailers tagjának szenteltek.", ro: "Un mausoleu și monument în Westmoreland, dedicat faimosului muzician reggae și membru al trupei Wailers.", en: "A mausoleum and monument in Westmoreland dedicated to the famous reggae musician and Wailers member." , es: "Un mausoleo y monumento en Westmoreland dedicado al famoso músico de reggae y miembro de los Wailers.", pt: "Um mausoléu e monumento em Westmoreland dedicado ao famoso músico de reggae e membro dos Wailers.", fr: "Un mausolée et un monument à Westmoreland dédié au célèbre musicien de reggae et membre des Wailers."},
     facts: {
       de: ["Befindet sich an seinem Geburtsort in Belmont.", "Besucher können sein Grabmal besichtigen.", "Wird oft von Reggae-Fans auf der ganzen Welt besucht."],
@@ -920,7 +895,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-03",
     coords: [-76.1853, 17.9150],
     name: { de: "Morant Point Leuchtturm", hu: "Morant Point világítótorony", ro: "Farul Morant Point", en: "Morant Point Lighthouse"},
-    image: "/poi-images/jm-morant-point-lighthouse-landmarks-v2.webp",
     description: { de: "Der älteste Leuchtturm auf Jamaika, der den östlichsten Punkt der Insel markiert.", hu: "Jamaica legrégebbi világítótornya, amely a sziget legkeletibb pontját jelzi.", ro: "Cel mai vechi far din Jamaica, care marchează cel mai estic punct al insulei.", en: "The oldest lighthouse in Jamaica, marking the easternmost point of the island." , es: "El faro más antiguo de Jamaica, que marca el punto más oriental de la isla.", pt: "O farol mais antigo da Jamaica, que marca o ponto mais oriental da ilha.", fr: "Le plus ancien phare de Jamaïque, marquant le point le plus oriental de l'île."},
     facts: {
       de: ["Wurde 1841 in London gegossen und nach Jamaika verschifft.", "Ist etwa 30 Meter hoch.", "Errichtet von freien Afrikanern."],
@@ -950,7 +924,6 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-03",
     coords: [-76.3989, 17.8819],
     name: { de: "Gerichtsgebäude von Morant Bay", hu: "Morant Bay-i Bíróság", ro: "Tribunalul din Morant Bay", en: "Morant Bay Courthouse"},
-    image: "/poi-images/jm-morant-bay-courthouse-landmarks-v2.webp",
     description: { de: "Ein historisches Gebäude, das für seine Rolle beim Morant-Bay-Aufstand von 1865 bekannt ist.", hu: "Történelmi épület, amely az 1865-ös Morant Bay-i lázadásban játszott szerepéről ismert.", ro: "O clădire istorică cunoscută pentru rolul său în rebeliunea din Morant Bay din 1865.", en: "A historic building known for its role in the Morant Bay rebellion of 1865." , es: "Un edificio histórico conocido por su papel en la rebelión de Morant Bay de 1865.", pt: "Um edifício histórico conhecido pelo seu papel na revolta de Morant Bay de 1865.", fr: "Un bâtiment historique célèbre pour son rôle lors de la révolte de Morant Bay en 1865."},
     facts: {
       de: ["War das Zentrum des Aufstands unter Paul Bogle.", "Ein Denkmal vor dem Gebäude ehrt die Rebellen.", "Das ursprüngliche Gebäude wurde 2007 durch ein Feuer zerstört."],

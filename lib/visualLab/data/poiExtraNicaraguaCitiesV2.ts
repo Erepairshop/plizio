@@ -8,7 +8,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-CH",
     coords: [-87.1311, 12.6294],
     name: { de: "Chinandega", hu: "Chinandega", ro: "Chinandega", en: "Chinandega"},
-    image: "/poi-images/chinandega-cities-v2.webp",
     description: { de: "Eine wichtige landwirtschaftliche und industrielle Stadt im Westen.", hu: "Fontos mezőgazdasági és ipari város a nyugati országrészben.", ro: "Un oraș agricol și industrial important în vestul țării.", en: "An important agricultural and industrial city in the west." , es: "Una importante ciudad agrícola e industrial en el occidente.", pt: "Uma importante cidade agrícola e industrial no oeste.", fr: "Une ville agricole et industrielle importante dans l'ouest."},
     facts: {
       de: ["Bekannt als 'Stadt der Orangen'", "Zentrum des Erdnussanbaus", "Wichtiger Verkehrsknotenpunkt", "Hohe Temperaturen"],
@@ -37,7 +36,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MT",
     coords: [-85.9175, 12.9254],
     name: { de: "Matagalpa", hu: "Matagalpa", ro: "Matagalpa", en: "Matagalpa"},
-    image: "/poi-images/matagalpa-cities-v2.webp",
     description: { de: "Das Herz der nicaraguanischen Kaffeeindustrie im zentralen Hochland.", hu: "A nicaraguai kávéipar szíve a központi hegyvidéken.", ro: "Inima industriei de cafea din Nicaragua, în zonele muntoase centrale.", en: "The heart of Nicaragua's coffee industry in the central highlands." , es: "El corazón de la industria cafetalera nicaragüense en las tierras altas centrales.", pt: "O coração da indústria cafeeira nicaraguense no planalto central.", fr: "Le cœur de l'industrie du café nicaraguayenne dans les hautes terres centrales."},
     facts: {
       de: ["'Perle des Nordens' genannt", "Kühles Bergklima", "Produziert hochwertigen Kaffee", "Umgeben von Kaffeefarmen"],
@@ -66,7 +64,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-JI",
     coords: [-86.0025, 13.0919],
     name: { de: "Jinotega", hu: "Jinotega", ro: "Jinotega", en: "Jinotega"},
-    image: "/poi-images/jinotega-cities-v2.webp",
     description: { de: "Hochgelegene Stadt, bekannt für Nebel, Kaffee und Gemüseanbau.", hu: "Magasan fekvő város, amely ködösségéről, kávéjáról és zöldségtermesztéséről ismert.", ro: "Oraș de mare altitudine, cunoscut pentru ceață, cafea și cultivarea legumelor.", en: "High-altitude city known for its mist, coffee, and vegetable cultivation." , es: "Ciudad de altura, conocida por su neblina, café y cultivo de hortalizas.", pt: "Cidade de altitude, conhecida pela neblina, café e cultivo de vegetais.", fr: "Ville d'altitude, connue pour sa brume, son café et sa culture maraîchère."},
     facts: {
       de: ["'Stadt des Nebels' genannt", "Wichtigster Kaffeeproduzent", "Höchstgelegene Departementshauptstadt", "Nahe dem Apanás-See"],
@@ -96,7 +93,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-RI",
     coords: [-85.8266, 11.4372],
     name: { de: "Rivas", hu: "Rivas", ro: "Rivas", en: "Rivas"},
-    image: "/poi-images/rivas-cities-v2.webp",
     description: { de: "Strategische Stadt zwischen dem Nicaraguasee und dem Pazifik.", hu: "Stratégiai fontosságú város a Nicaragua-tó és a Csendes-óceán között.", ro: "Oraș strategic între Lacul Nicaragua și Oceanul Pacific.", en: "Strategic city located between Lake Nicaragua and the Pacific Ocean." , es: "Ciudad estratégica entre el Lago de Nicaragua y el Pacífico.", pt: "Cidade estratégica entre o Lago Nicarágua e o Pacífico.", fr: "Ville stratégique entre le lac Nicaragua et le Pacifique."},
     facts: {
       de: ["Tor zu Ometepe und San Juan del Sur", "Schauplatz wichtiger Schlachten", "Bekannt für starke Winde", "Landwirtschaftliches Zentrum"],
@@ -126,7 +122,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-CO",
     coords: [-85.3653, 12.1069],
     name: { de: "Juigalpa", hu: "Juigalpa", ro: "Juigalpa", en: "Juigalpa"},
-    image: "/poi-images/juigalpa-cities-v2.webp",
     description: { de: "Das Zentrum der Viehzuchtregion Nicaraguas.", hu: "Nicaragua szarvasmarha-tenyésztő régiójának központja.", ro: "Centrul regiunii de creștere a vitelor din Nicaragua.", en: "The center of Nicaragua's cattle ranching region." , es: "El centro de la región ganadera de Nicaragua.", pt: "O centro da região pecuária da Nicarágua.", fr: "Le centre de la région d'élevage de bétail du Nicaragua."},
     facts: {
       de: ["'Hauptstadt der Viehzucht'", "Wichtiger Viehmarkt", "Archäologisches Museum", "Hügelige Landschaft"],
@@ -156,7 +151,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-BO",
     coords: [-85.6583, 12.4722],
     name: { de: "Boaco", hu: "Boaco", ro: "Boaco", en: "Boaco"},
-    image: "/poi-images/boaco-cities-v2.webp",
     description: { de: "Bekannt als die 'Stadt der zwei Stockwerke' wegen seiner steilen Straßen.", hu: "A 'kétszintes városként' ismert meredek utcái miatt.", ro: "Cunoscut ca 'Orașul cu două etaje' datorită străzilor sale abrupte.", en: "Known as the 'City of Two Floors' due to its steep streets." , es: "Conocida como la Ciudad de dos pisos por sus calles empinadas.", pt: "Conhecida como a Cidade de dois andares devido às suas ruas íngremes.", fr: "Connue comme la ville aux deux étages en raison de ses rues escarpées."},
     facts: {
       de: ["Zentrum der Milchwirtschaft", "Steile, malerische Straßen", "Käseproduktion", "Panoramablick"],
@@ -186,7 +180,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MD",
     coords: [-86.5819, 13.4831],
     name: { de: "Somoto", hu: "Somoto", ro: "Somoto", en: "Somoto"},
-    image: "/poi-images/somoto-cities-v2.webp",
     description: { de: "Stadt im Norden, berühmt für den nahegelegenen Somoto Canyon.", hu: "Északi város, amely a közeli Somoto-kanyonról híres.", ro: "Oraș nordic renumit pentru Canionul Somoto din apropiere.", en: "Northern city famous for the nearby Somoto Canyon." , es: "Ciudad en el norte, famosa por el cercano Cañón de Somoto.", pt: "Cidade no norte, famosa pelo vizinho Cânion de Somoto.", fr: "Ville du nord, célèbre pour le canyon de Somoto situé à proximité."},
     facts: {
       de: ["Tor zum Somoto Canyon", "Produktion von Rosquillas (Kekse)", "Grenznähe zu Honduras", "Trockenes Klima"],
@@ -216,7 +209,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-NS",
     coords: [-86.4783, 13.6322],
     name: { de: "Ocotal", hu: "Ocotal", ro: "Ocotal", en: "Ocotal"},
-    image: "/poi-images/ocotal-cities-v2.webp",
     description: { de: "Nördliche Stadt, bekannt für ihre Kiefernwälder und ihre Rolle in der Geschichte.", hu: "Északi város, amely fenyőerdeiről és történelmi szerepéről ismert.", ro: "Oraș nordic cunoscut pentru pădurile sale de pini și rolul său în istorie.", en: "Northern city known for its pine forests and its role in history." , es: "Ciudad del norte, conocida por sus bosques de pinos y su papel en la historia.", pt: "Cidade do norte, conhecida pelas suas florestas de pinheiros e pelo seu papel histórico.", fr: "Ville du nord, connue pour ses forêts de pins et son rôle dans l'histoire."},
     facts: {
       de: ["Umgeben von Kiefernwäldern", "Erster Luftangriff in Lateinamerika (1927)", "Kühleres Klima", "Zentrum der Holzindustrie"],
@@ -246,7 +238,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-SJ",
     coords: [-84.7778, 11.1253],
     name: { de: "San Carlos", hu: "San Carlos", ro: "San Carlos", en: "San Carlos"},
-    image: "/poi-images/san-carlos-cities-v2.webp",
     description: { de: "Hafenstadt am Ausgang des Nicaraguasees in den Río San Juan.", hu: "Kikötőváros a Nicaragua-tó és a San Juan-folyó találkozásánál.", ro: "Oraș-port la ieșirea din Lacul Nicaragua în râul San Juan.", en: "Port city at the exit of Lake Nicaragua into the San Juan River." , es: "Ciudad portuaria en la salida del Lago de Nicaragua hacia el Río San Juan.", pt: "Cidade portuária na saída do Lago Nicarágua para o Rio San Juan.", fr: "Ville portuaire au débouché du lac Nicaragua dans le fleuve San Juan."},
     facts: {
       de: ["Tor zum Solentiname-Archipel", "Wichtiger Flusshafen", "Beginn der Río San Juan Route", "Fischerei und Tourismus"],
@@ -357,7 +348,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MA",
     coords: [-86.0972, 12.1972],
     name: { de: "Tipitapa", hu: "Tipitapa", ro: "Tipitapa", en: "Tipitapa"},
-    image: "/poi-images/tipitapa-cities-v2.webp",
     description: { de: "Wichtige Industriestadt und Verkehrsknotenpunkt nordöstlich von Managua.", hu: "Fontos ipari város és közlekedési csomópont Managuától északkeletre.", ro: "Oraș industrial important și nod de transport la nord-est de Managua.", en: "Important industrial city and transportation hub northeast of Managua." , es: "Importante ciudad industrial y nudo de comunicaciones al noreste de Managua.", pt: "Importante cidade industrial e nó de transportes a nordeste de Manágua.", fr: "Importante ville industrielle et nœud de communication au nord-est de Managua."},
     facts: {
       de: ["Verbindet Managua- und Xolotlánsee", "Wichtige Industriezone", "Historischer Friedensvertrag (1927)", "Heisse Thermalquellen"],
@@ -438,7 +428,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-CH",
     coords: [-87.1667, 12.6667],
     name: { de: "El Viejo", hu: "El Viejo", ro: "El Viejo", en: "El Viejo"},
-    image: "/poi-images/el-viejo-cities-v2.webp",
     description: { de: "Eine der ältesten Kolonialstädte, bekannt für ihre Basilika.", hu: "Az egyik legrégebbi gyarmati város, bazilikájáról ismert.", ro: "Unul dintre cele mai vechi orașe coloniale, cunoscut pentru bazilica sa.", en: "One of the oldest colonial towns, known for its basilica." , es: "Una de las ciudades coloniales más antiguas, conocida por su basílica.", pt: "Uma das cidades coloniais mais antigas, conhecida por sua basílica.", fr: "L'une des plus anciennes villes coloniales, connue pour sa basilique."},
     facts: {
       de: ["Wichtiger Wallfahrtsort", "Basilika 'Nuestra Señora de la Concepción'", "Koloniale Architektur", "Religiöses Zentrum"],
@@ -519,7 +508,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-CH",
     coords: [-87.0278, 12.5719],
     name: { de: "Chichigalpa", hu: "Chichigalpa", ro: "Chichigalpa", en: "Chichigalpa"},
-    image: "/poi-images/chichigalpa-cities-v2.webp",
     description: { de: "Das Zentrum der Zuckerrohr- und Rumproduktion in Nicaragua.", hu: "A nicaraguai cukornád- és rumgyártás központja.", ro: "Centrul producției de trestie de zahăr și rom din Nicaragua.", en: "The center of sugar cane and rum production in Nicaragua." , es: "El centro de la producción de caña de azúcar y ron en Nicaragua.", pt: "O centro da produção de cana-de-açúcar e rum na Nicarágua.", fr: "Le centre de la production de canne à sucre et de rhum au Nicaragua."},
     facts: {
       de: ["Heimat des Flor de Caña Rums", "Große Zuckerrohrplantagen", "Industriestadt", "Hohe wirtschaftliche Bedeutung"],
@@ -636,7 +624,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-CA",
     coords: [-86.2411, 11.8594],
     name: { de: "Diriamba", hu: "Diriamba", ro: "Diriamba", en: "Diriamba"},
-    image: "/poi-images/diriamba-cities-v2.webp",
     description: { de: "Bekannt für die 'El Güegüense'-Tanztradition, ein UNESCO-Meisterwerk.", hu: "Az 'El Güegüense' tánchagyományról, egy UNESCO mesterműről híres.", ro: "Renumit pentru tradiția de dans 'El Güegüense', o capodoperă UNESCO.", en: "Famous for the 'El Güegüense' dance tradition, a UNESCO Masterpiece." , es: "Conocida por la tradición de danza 'El Güegüense', una obra maestra de la UNESCO.", pt: "Conhecida pela tradição de dança 'El Güegüense', uma obra-prima da UNESCO.", fr: "Connue pour la tradition de danse 'El Güegüense', un chef-d'œuvre de l'UNESCO."},
     facts: {
       de: ["Wiege des Güegüense", "Kaffeeregion", "Basilika San Sebastián", "Kühles Klima"],
@@ -672,7 +659,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-CA",
     coords: [-86.1994, 11.8494],
     name: { de: "Jinotepe", hu: "Jinotepe", ro: "Jinotepe", en: "Jinotepe"},
-    image: "/poi-images/jinotepe-cities-v2.webp",
     description: { de: "Die ruhige Hauptstadt des Departements Carazo.", hu: "Carazo megye csendes fővárosa.", ro: "Capitala liniștită a departamentului Carazo.", en: "The quiet capital of the Carazo department." , es: "La tranquila capital del departamento de Carazo.", pt: "A tranquila capital do departamento de Carazo.", fr: "La paisible capitale du département de Carazo."},
     facts: {
       de: ["Wichtiger Verkehrsknotenpunkt", "Zentrum des Kaffeeanbaus", "Neoklassische Kirche Santiago", "Hohe Lebensqualität"],
@@ -702,7 +688,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-AS",
     coords: [-84.2217, 12.1594],
     name: { de: "El Rama", hu: "El Rama", ro: "El Rama", en: "El Rama"},
-    image: "/poi-images/el-rama-cities-v2.webp",
     description: { de: "Wichtiger Binnenhafen, der die Pazifik- mit der Karibikküste verbindet.", hu: "Fontos belföldi kikötő, amely összeköti a csendes-óceáni és a karibi partvidéket.", ro: "Port interior important care leagă coasta Pacificului de cea a Caraibelor.", en: "Important inland port connecting the Pacific and Caribbean coasts." , es: "Puerto fluvial vital que conecta la costa del Pacífico con el Caribe.", pt: "Importante porto fluvial que liga a costa do Pacífico à costa das Caraíbas.", fr: "Port fluvial vital reliant la côte Pacifique à la côte caraïbe."},
     facts: {
       de: ["Verbindung nach Bluefields", "Ende der asphaltierten Straße", "Umschlagplatz für Waren", "Tropisches Klima"],
@@ -819,7 +804,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-AS",
     coords: [-84.4539, 11.6911],
     name: { de: "Nueva Guinea", hu: "Nueva Guinea", ro: "Nueva Guinea", en: "Nueva Guinea"},
-    image: "/poi-images/nueva-guinea-cities-v2.webp",
     description: { de: "Eine schnell wachsende landwirtschaftliche Stadt in der Karibikregion.", hu: "Gyorsan növekvő mezőgazdasági város a karibi régióban.", ro: "Un oraș agricol în creștere rapidă în regiunea Caraibelor.", en: "A fast-growing agricultural town in the Caribbean region." , es: "Una ciudad agrícola de rápido crecimiento en la región del Caribe.", pt: "Uma cidade agrícola em rápido crescimento na região das Caraíbas.", fr: "Une ville agricole en pleine croissance dans la région caraïbe."},
     facts: {
       de: ["Relativ junge Stadt", "Zentrum der Viehzucht und Milchproduktion", "Wichtig für den Anbau von Wurzelgemüse", "Multikulturelle Bevölkerung"],
@@ -891,7 +875,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-LE",
     coords: [-86.6775, 12.3364],
     name: { de: "La Paz Centro", hu: "La Paz Centro", ro: "La Paz Centro", en: "La Paz Centro"},
-    image: "/poi-images/la-paz-centro-cities-v2.webp",
     description: { de: "Bekannt für seine handgefertigten Ziegel und Dachziegel.", hu: "Kézzel készített tégláiról és tetőcserepeiről ismert.", ro: "Cunoscut pentru cărămizile și țiglele sale lucrate manual.", en: "Known for its handmade bricks and roof tiles." , es: "Conocida por sus ladrillos y tejas hechos a mano.", pt: "Conhecida pelos seus tijolos e telhas feitos à mão.", fr: "Connue pour ses briques et ses tuiles fabriquées à la main."},
     facts: {
       de: ["Zentrum der Ziegelproduktion", "Nahe dem Momotombo-Vulkan", "Traditionelles Handwerk", "Heißes, trockenes Klima"],
@@ -927,7 +910,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-LE",
     coords: [-86.5653, 12.2661],
     name: { de: "Nagarote", hu: "Nagarote", ro: "Nagarote", en: "Nagarote"},
-    image: "/poi-images/nagarote-cities-v2.webp",
     description: { de: "Bekannt für seine sauberen Straßen und die Quesillo-Spezialität.", hu: "Tiszta utcáiról és a quesillo specialitásról ismert.", ro: "Cunoscut pentru străzile sale curate și specialitatea quesillo.", en: "Known for its clean streets and the 'quesillo' specialty." , es: "Conocida por sus calles limpias y su especialidad gastronómica, el quesillo.", pt: "Conhecida pelas suas ruas limpas e pela especialidade gastronómica, o quesillo.", fr: "Connue pour ses rues propres et sa spécialité gastronomique, le quesillo."},
     facts: {
       de: ["'Sauberste Gemeinde Nicaraguas'", "Heimat des Quesillo", "Großer Baum 'El Genízaro'", "Starke Gemeinschaft"],
@@ -963,7 +945,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-CA",
     coords: [-86.2036, 11.9083],
     name: { de: "San Marcos", hu: "San Marcos", ro: "San Marcos", en: "San Marcos"},
-    image: "/poi-images/san-marcos-cities-v2.webp",
     description: { de: "Universitätsstadt in der kühlen Meseta de los Pueblos.", hu: "Egyetemi város a hűvös Meseta de los Pueblos fennsíkon.", ro: "Oraș universitar în răcoroasa Meseta de los Pueblos.", en: "University town in the cool Meseta de los Pueblos." },
     facts: {
       de: ["Sitz einer Landwirtschaftsuniversität", "Kühles, angenehmes Klima", "Anbau von Zierpflanzen", "Ruhige Atmosphäre"],
@@ -1288,7 +1269,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-ES",
     coords: [-86.3986, 13.2619],
     name: { de: "Condega", hu: "Condega", ro: "Condega", en: "Condega"},
-    image: "/poi-images/condega-cities-v2.webp",
     description: { de: "Bekannt für seine Töpfereien und prähispanischen Petroglyphen.", hu: "Fazekasműhelyeiről és prehispán sziklarajzairól ismert.", ro: "Cunoscut pentru atelierele sale de ceramică și petroglifele pre-hispanice.", en: "Known for its pottery workshops and pre-Hispanic petroglyphs." , es: "Conocida por su alfarería y petroglifos prehispánicos.", pt: "Conhecida pelas suas olarias e petróglifos pré-hispânicos.", fr: "Connue pour ses poteries et ses pétroglyphes préhispaniques."},
     facts: {
       de: ["Töpfertradition", "Archäologische Stätte 'Cantagallo'", "An der Panamericana gelegen", "Tabakanbau in der Nähe"],
@@ -1405,7 +1385,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MT",
     coords: [-86.0917, 12.85],
     name: { de: "Sébaco", hu: "Sébaco", ro: "Sébaco", en: "Sébaco"},
-    image: "/poi-images/sebaco-cities-v2.webp",
     description: { de: "Wichtiges landwirtschaftliches Zentrum in einem fruchtbaren Tal.", hu: "Fontos mezőgazdasági központ egy termékeny völgyben.", ro: "Centru agricol important într-o vale fertilă.", en: "Important agricultural center in a fertile valley." , es: "Importante centro agrícola en un valle fértil.", pt: "Importante centro agrícola num vale fértil.", fr: "Important centre agricole dans une vallée fertile."},
     facts: {
       de: ["'Zwiebelhauptstadt' Nicaraguas", "Anbau von Reis und Gemüse", "Wichtiger Verkehrsknotenpunkt", "Heißes Klima"],
@@ -1567,7 +1546,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-NS",
     coords: [-86.125, 13.925],
     name: { de: "Jalapa", hu: "Jalapa", ro: "Jalapa", en: "Jalapa"},
-    image: "/poi-images/jalapa-cities-v2.webp",
     description: { de: "Fruchtbares Tal im Norden, bekannt für Tabak- und Maisanbau.", hu: "Termékeny völgy északon, dohány- és kukoricatermesztéséről ismert.", ro: "Vale fertilă în nord, cunoscută pentru cultivarea tutunului și porumbului.", en: "Fertile valley in the north, known for tobacco and corn cultivation." , es: "Valle fértil en el norte, conocido por el cultivo de tabaco y maíz.", pt: "Vale fértil no norte, conhecido pelo cultivo de tabaco e milho.", fr: "Vallée fertile du nord, connue pour la culture du tabac et du maïs."},
     facts: {
       de: ["'Kornkammer Nicaraguas'", "Hochwertiger Tabak", "Grenznähe zu Honduras", "Abgelegene Lage"],
@@ -1603,7 +1581,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-LE",
     coords: [-86.5333, 12.8833],
     name: { de: "El Sauce", hu: "El Sauce", ro: "El Sauce", en: "El Sauce"},
-    image: "/poi-images/el-sauce-cities-v2.webp",
     description: { de: "Ein bedeutender nationaler Wallfahrtsort.", hu: "Jelentős nemzeti zarándokhely.", ro: "Un important loc de pelerinaj național.", en: "A major national pilgrimage site." },
     facts: {
       de: ["Heimat des 'Schwarzen Christus von Esquipulas'", "Große Pilgerfahrt im Januar", "Viehzuchtregion", "Trockenes, heißes Klima"],
@@ -1630,7 +1607,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-LE",
     coords: [-86.578, 12.665],
     name: { de: "Larreynaga (Malpaisillo)", hu: "Larreynaga (Malpaisillo)", ro: "Larreynaga (Malpaisillo)", en: "Larreynaga (Malpaisillo)"},
-    image: "/poi-images/larreynaga-malpaisillo-cities-v2.webp",
     description: { de: "Stadt in der Nähe der Vulkankette Maribios.", hu: "Város a Maribios vulkáni lánc közelében.", ro: "Oraș în apropierea lanțului vulcanic Maribios.", en: "Town located near the Maribios volcanic chain." , es: "Ciudad cerca de la cordillera volcánica de los Maribios.", pt: "Cidade perto da cordilheira vulcânica de Maribios.", fr: "Ville à proximité de la chaîne volcanique des Maribios."},
     facts: {
       de: ["Nahe dem Vulkan Cerro Negro", "Ausgangspunkt für Vulkanwanderungen", "Landwirtschaftliche Produktion", "Geothermische Aktivität in der Nähe"],
@@ -1666,7 +1642,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-CH",
     coords: [-86.97, 12.59],
     name: { de: "Posoltega", hu: "Posoltega", ro: "Posoltega", en: "Posoltega"},
-    image: "/poi-images/posoltega-cities-v2.webp",
     description: { de: "Eine durch den Hurrikan Mitch 1998 schwer getroffene Gemeinde.", hu: "Az 1998-as Mitch hurrikán által súlyosan érintett közösség.", ro: "O comunitate grav afectată de uraganul Mitch în 1998.", en: "A community severely affected by Hurricane Mitch in 1998." , es: "Un municipio gravemente afectado por el huracán Mitch en 1998.", pt: "Um município gravemente atingido pelo furacão Mitch em 1998.", fr: "Une municipalité durement touchée par l'ouragan Mitch en 1998."},
     facts: {
       de: ["Standort der Casita-Vulkan-Schlammlawine", "Wiederaufbau und Widerstandsfähigkeit", "Landwirtschaftliche Gemeinde", "Erinnerungsstätte"],
@@ -1702,7 +1677,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MA",
     coords: [-86.44, 11.85],
     name: { de: "San Rafael del Sur", hu: "San Rafael del Sur", ro: "San Rafael del Sur", en: "San Rafael del Sur"},
-    image: "/poi-images/san-rafael-del-sur-cities-v2.webp",
     description: { de: "Bekannt für seine Zementfabrik und die nahen Pazifikstrände.", hu: "Cementgyáráról és a közeli csendes-óceáni strandokról ismert.", ro: "Cunoscut pentru fabrica sa de ciment și plajele din apropiere de la Pacific.", en: "Known for its cement factory and the nearby Pacific beaches." , es: "Conocida por su fábrica de cemento y las cercanas playas del Pacífico.", pt: "Conhecida pela sua fábrica de cimento e pelas praias próximas do Pacífico.", fr: "Connue pour sa cimenterie et les plages du Pacifique à proximité."},
     facts: {
       de: ["Wichtige Zementproduktion", "Nahe den Stränden von Pochomil und Masachapa", "Industrielles Zentrum", "Touristische Entwicklung"],
@@ -1783,7 +1757,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MS",
     coords: [-86.143, 11.913],
     name: { de: "Masatepe", hu: "Masatepe", ro: "Masatepe", en: "Masatepe"},
-    image: "/poi-images/masatepe-cities-v2.webp",
     description: { de: "Bekannt als die 'Hirsch-Hauptstadt' und für seine Möbelherstellung.", hu: "A 'szarvas fővárosaként' és bútorgyártásáról ismert.", ro: "Cunoscut ca 'Capitala Căprioarelor' și pentru producția sa de mobilier.", en: "Known as the 'Deer Capital' and for its furniture making." , es: "Conocida como la 'Capital del Venado' y por su fabricación de muebles.", pt: "Conhecida como a 'Capital do Veado' e pelo seu fabrico de móveis.", fr: "Connue comme la « capitale du cerf » et pour sa fabrication de meubles."},
     facts: {
       de: ["Herstellung von Holzmöbeln", "Traditionelle Musik und Tanz", "Anbau von Zitrusfrüchten", "Handwerkliches Zentrum"],
@@ -1936,7 +1909,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MS",
     coords: [-86.09, 11.9],
     name: { de: "Niquinohomo", hu: "Niquinohomo", ro: "Niquinohomo", en: "Niquinohomo"},
-    image: "/poi-images/niquinohomo-cities-v2.webp",
     description: { de: "Geburtsort des Nationalhelden Augusto C. Sandino.", hu: "Augusto C. Sandino nemzeti hős szülőhelye.", ro: "Locul de naștere al eroului național Augusto C. Sandino.", en: "Birthplace of national hero Augusto C. Sandino." , es: "Lugar de nacimiento del héroe nacional Augusto C. Sandino.", pt: "Local de nascimento do herói nacional Augusto C. Sandino.", fr: "Lieu de naissance du héros national Augusto C. Sandino."},
     facts: {
       de: ["Historische Bedeutung", "Sandino-Museum", "Teil der 'Pueblos Blancos'", "Handwerkskunst"],
@@ -1972,7 +1944,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MS",
     coords: [-86.19, 11.94],
     name: { de: "La Concepción", hu: "La Concepción", ro: "La Concepción", en: "La Concepción"},
-    image: "/poi-images/la-concepcion-masaya-cities-v2.webp",
     description: { de: "Eine Stadt in der Meseta de los Pueblos, bekannt für den Anbau von Zitrusfrüchten.", hu: "Város a Meseta de los Pueblos fennsíkon, citrustermesztéséről ismert.", ro: "Un oraș în Meseta de los Pueblos, cunoscut pentru cultivarea citricelor.", en: "A town in the Meseta de los Pueblos known for its citrus cultivation." , es: "Una ciudad en la Meseta de los Pueblos, conocida por el cultivo de cítricos.", pt: "Uma cidade na Meseta de los Pueblos, conhecida pelo cultivo de citrinos.", fr: "Une ville de la Meseta de los Pueblos, connue pour la culture des agrumes."},
     facts: {
       de: ["'Zitrus-Hauptstadt'", "Kühles und angenehmes Klima", "Anbau von Ananas und Pitahayas", "Bunte Feste"],
@@ -2008,7 +1979,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-LE",
     coords: [-86.85, 12.52],
     name: { de: "Telica", hu: "Telica", ro: "Telica", en: "Telica"},
-    image: "/poi-images/telica-cities-v2.webp",
     description: { de: "Kleinstadt am Fuße des aktiven Vulkans Telica.", hu: "Kisváros az aktív Telica vulkán lábánál.", ro: "Orășel la poalele vulcanului activ Telica.", en: "Small town at the foot of the active Telica volcano." , es: "Pequeña ciudad al pie del volcán activo Telica.", pt: "Pequena cidade ao pé do vulcão ativo Telica.", fr: "Petite ville au pied du volcan actif Telica."},
     facts: {
       de: ["Namensgeber des Vulkans", "Landwirtschaftliche Gemeinde", "Ausgangspunkt für Vulkanbesteigungen", "Geothermische Quellen in der Nähe"],
@@ -2089,7 +2059,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-ES",
     coords: [-86.61, 13.17],
     name: { de: "San Juan de Limay", hu: "San Juan de Limay", ro: "San Juan de Limay", en: "San Juan de Limay"},
-    image: "/poi-images/san-juan-de-limay-cities-v2.webp",
     description: { de: "Bekannt für seine Speckstein-Skulpturen und seine trockene Landschaft.", hu: "Zsírkő szobrairól és száraz tájáról ismert.", ro: "Cunoscut pentru sculpturile sale în steatit și peisajul său arid.", en: "Known for its soapstone sculptures and its arid landscape." , es: "Conocida por sus esculturas de esteatita y su paisaje seco.", pt: "Conhecida pelas suas esculturas em pedra-sabão e pela sua paisagem seca.", fr: "Connue pour ses sculptures en stéatite et son paysage sec."},
     facts: {
       de: ["Zentrum der Speckstein-Kunst", "Marmolina-Skulpturen", "Trockenwald-Ökosystem", "Abgelegene Bergstadt"],
@@ -2125,7 +2094,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-RI",
     coords: [-85.94, 11.33],
     name: { de: "Tola", hu: "Tola", ro: "Tola", en: "Tola"},
-    image: "/poi-images/tola-cities-v2.webp",
     description: { de: "Gemeinde mit einigen der berühmtesten Surfstrände Nicaraguas.", hu: "Község Nicaragua leghíresebb szörfstrandjaival.", ro: "Municipalitate cu unele dintre cele mai renumite plaje de surf din Nicaragua.", en: "Municipality with some of the most famous surf beaches in Nicaragua." , es: "Municipio con algunas de las playas de surf más famosas de Nicaragua.", pt: "Município com algumas das praias de surf mais famosas da Nicarágua.", fr: "Commune possédant certaines des plages de surf les plus célèbres du Nicaragua."},
     facts: {
       de: ["Zugang zu Popoyo und Gigante", "Surfer-Hotspot", "Ländliche Gemeinde", "Viehzucht und Landwirtschaft"],
@@ -2161,7 +2129,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-RI",
     coords: [-85.7, 11.54],
     name: { de: "Moyogalpa", hu: "Moyogalpa", ro: "Moyogalpa", en: "Moyogalpa"},
-    image: "/poi-images/moyogalpa-cities-v2.webp",
     description: { de: "Der Haupthafen und die größte Stadt auf der Insel Ometepe.", hu: "A fő kikötő és a legnagyobb város Ometepe szigetén.", ro: "Principalul port și cel mai mare oraș de pe insula Ometepe.", en: "The main port and largest town on Ometepe Island." , es: "El puerto principal y la ciudad más grande de la isla de Ometepe.", pt: "O principal porto e a maior cidade da ilha de Ometepe.", fr: "Le port principal et la plus grande ville de l'île d'Ometepe."},
     facts: {
       de: ["Hauptankunftspunkt für Ometepe", "Blick auf den Vulkan Concepción", "Touristische Dienstleistungen", "Fährverbindung nach San Jorge"],
@@ -2197,7 +2164,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-RI",
     coords: [-85.57, 11.47],
     name: { de: "Altagracia", hu: "Altagracia", ro: "Altagracia", en: "Altagracia"},
-    image: "/poi-images/altagracia-cities-v2.webp",
     description: { de: "Zweitgrößte Stadt auf Ometepe mit reicher prähispanischer Geschichte.", hu: "Ometepe második legnagyobb városa, gazdag prehispán történelemmel.", ro: "Al doilea cel mai mare oraș de pe Ometepe, cu o bogată istorie pre-hispanică.", en: "Second largest town on Ometepe with a rich pre-Hispanic history." , es: "Segunda ciudad más grande de Ometepe con una rica historia prehispánica.", pt: "Segunda maior cidade da ilha de Ometepe com uma rica história pré-hispânica.", fr: "Deuxième ville de l'île d'Ometepe, dotée d'une riche histoire préhispanique."},
     facts: {
       de: ["Nahe dem Vulkan Maderas", "Präkolumbische Statuen", "Ruhigere Alternative zu Moyogalpa", "Museum für Archäologie"],
@@ -2611,7 +2577,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MT",
     coords: [-85.22, 12.93],
     name: { de: "Río Blanco", hu: "Río Blanco", ro: "Río Blanco", en: "Río Blanco"},
-    image: "/poi-images/rio-blanco-cities-v2.webp",
     description: { de: "Eine Handelsstadt an der 'landwirtschaftlichen Front' Nicaraguas.", hu: "Kereskedőváros Nicaragua 'mezőgazdasági frontvonalán'.", ro: "Un oraș comercial pe 'frontiera agricolă' a Nicaraguei.", en: "A commercial town on Nicaragua's 'agricultural frontier'." , es: "Una ciudad comercial en la 'frontera agrícola' de Nicaragua.", pt: "Uma cidade comercial na 'fronteira agrícola' da Nicarágua.", fr: "Une ville commerciale sur le 'front agricole' du Nicaragua."},
     facts: {
       de: ["Schnell wachsend", "Viehzucht und Grundnahrungsmittelanbau", "Tor zur Karibikregion", "Multikulturelle Bevölkerung"],
@@ -2647,7 +2612,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-AN",
     coords: [-84.77, 13.73],
     name: { de: "Siuna", hu: "Siuna", ro: "Siuna", en: "Siuna"},
-    image: "/poi-images/siuna-cities-v2.webp",
     description: { de: "Historische Bergbaustadt im Herzen des 'Bergbau-Dreiecks'.", hu: "Történelmi bányaváros a 'bányászati háromszög' szívében.", ro: "Oraș minier istoric în inima 'Triunghiului Minier'.", en: "Historic mining town in the heart of the 'Mining Triangle'." , es: "Histórica ciudad minera en el corazón del 'Triángulo Minero'.", pt: "Histórica cidade mineradora no coração do 'Triângulo Mineiro'.", fr: "Ville minière historique au cœur du 'Triangle Minier'."},
     facts: {
       de: ["Gold- und Silberbergbau", "Multikulturelle Geschichte", "Teil des Biosphärenreservats Bosawás", "Abgelegene Lage"],
@@ -2764,7 +2728,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-AN",
     coords: [-84.59, 14.02],
     name: { de: "Bonanza", hu: "Bonanza", ro: "Bonanza", en: "Bonanza"},
-    image: "/poi-images/bonanza-cities-v2.webp",
     description: { de: "Eine Stadt, deren Name ihre Geschichte im Goldabbau widerspiegelt.", hu: "Város, amelynek neve tükrözi aranybányászati múltját.", ro: "Un oraș al cărui nume reflectă istoria sa în mineritul de aur.", en: "A town whose name reflects its history in gold mining." , es: "Una ciudad cuyo nombre refleja su historia en la minería de oro.", pt: "Uma cidade cujo nome reflete sua história na mineração de ouro.", fr: "Une ville dont le nom reflète son histoire dans l'exploitation aurifère."},
     facts: {
       de: ["Teil des 'Bergbau-Dreiecks'", "Aktiver Goldabbau", "Starke indigene Präsenz", "Herausfordernde Geografie"],
@@ -2800,7 +2763,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-CH",
     coords: [-87.0, 12.85],
     name: { de: "Puerto Morazán", hu: "Puerto Morazán", ro: "Puerto Morazán", en: "Puerto Morazán"},
-    image: "/poi-images/puerto-morazan-cities-v2.webp",
     description: { de: "Hafenstadt am Estero Real, einem großen Mündungsgewässer.", hu: "Kikötőváros az Estero Real-nál, egy nagy torkolati víznél.", ro: "Oraș-port pe Estero Real, un mare estuar.", en: "Port town on the Estero Real, a large estuary." , es: "Ciudad portuaria situada en el Estero Real, un gran estuario de desembocadura.", pt: "Cidade portuária situada no Estero Real, um grande estuário de foz.", fr: "Ville portuaire située sur l'Estero Real, un grand estuaire d'embouchure."},
     facts: {
       de: ["Garnelenzucht", "Wichtiges Mangroven-Ökosystem", "Bootsbau", "Verbindung zum Golf von Fonseca"],
@@ -2836,7 +2798,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-LE",
     coords: [-86.38, 12.72],
     name: { de: "El Jicaral", hu: "El Jicaral", ro: "El Jicaral", en: "El Jicaral"},
-    image: "/poi-images/el-jicaral-cities-v2.webp",
     description: { de: "Ländliche Gemeinde im trockenen Landesinneren von León.", hu: "Vidéki közösség León száraz belső részén.", ro: "Comunitate rurală în interiorul uscat al departamentului León.", en: "Rural municipality in the dry interior of León." , es: "Municipio rural en el seco interior de León.", pt: "Município rural no interior seco de León.", fr: "Commune rurale dans l'intérieur sec de León."},
     facts: {
       de: ["Landwirtschaft in Trockengebieten", "Viehzucht", "Traditionelle Lebensweise", "Herausforderungen durch Dürre"],
@@ -2872,7 +2833,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MA",
     coords: [-86.42, 12.23],
     name: { de: "Mateare", hu: "Mateare", ro: "Mateare", en: "Mateare"},
-    image: "/poi-images/mateare-cities-v2.webp",
     description: { de: "Stadt am Ufer des Managuasees, westlich der Hauptstadt.", hu: "Város a Managua-tó partján, a fővárostól nyugatra.", ro: "Oraș pe malul lacului Managua, la vest de capitală.", en: "Town on the shores of Lake Managua, west of the capital." , es: "Ciudad a orillas del Lago de Managua, al oeste de la capital.", pt: "Cidade nas margens do Lago de Manágua, a oeste da capital.", fr: "Ville sur les rives du lac de Managua, à l'ouest de la capitale."},
     facts: {
       de: ["Blick auf den Vulkan Momotombo", "Fischerei", "Nahe der Halbinsel Chiltepe", "Naherholungsgebiet für Managua"],
@@ -2908,7 +2868,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-AN",
     coords: [-85.38, 13.23],
     name: { de: "Waslala", hu: "Waslala", ro: "Waslala", en: "Waslala"},
-    image: "/poi-images/waslala-cities-v2.webp",
     description: { de: "Ländliche Stadt an der Grenze zwischen den Departements Matagalpa und der Karibikküste.", hu: "Vidéki város Matagalpa megye és a karibi partvidék határán.", ro: "Oraș rural la granița dintre departamentul Matagalpa și coasta Caraibelor.", en: "Rural town on the border between the Matagalpa department and the Caribbean Coast." , es: "Ciudad rural en el límite entre Matagalpa y la Costa Caribe.", pt: "Cidade rural na fronteira entre os departamentos de Matagalpa e a Costa das Caraíbas.", fr: "Ville rurale à la frontière entre les départements de Matagalpa et la côte caraïbe."},
     facts: {
       de: ["Kakaoanbau", "Teil des Biosphärenreservats Bosawás", "Wichtiger Flussübergang", "Siedlungsgebiet"],
@@ -2944,7 +2903,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MT",
     coords: [-86.12, 12.78],
     name: { de: "San Isidro", hu: "San Isidro", ro: "San Isidro", en: "San Isidro"},
-    image: "/poi-images/san-isidro-matagalpa-cities-v2.webp",
     description: { de: "Verkehrsknotenpunkt an der Panamericana im Departement Matagalpa.", hu: "Közlekedési csomópont a Pánamerikai úton Matagalpa megyében.", ro: "Nod de transport pe autostrada Pan-Americană în departamentul Matagalpa.", en: "Transportation hub on the Pan-American Highway in the Matagalpa department." , es: "Nudo de comunicaciones en la Carretera Panamericana en el departamento de Matagalpa.", pt: "Nó de comunicações na Rodovia Pan-Americana, no departamento de Matagalpa.", fr: "Carrefour de communication sur la route panaméricaine dans le département de Matagalpa."},
     facts: {
       de: ["Verzweigung nach León und Estelí", "Reisanbau", "Handelszentrum", "Rastplatz für Reisende"],
@@ -3016,7 +2974,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-BO",
     coords: [-85.67, 12.35],
     name: { de: "San Lorenzo", hu: "San Lorenzo", ro: "San Lorenzo", en: "San Lorenzo"},
-    image: "/poi-images/san-lorenzo-boaco-cities-v2.webp",
     description: { de: "Eine Gemeinde, die für ihre Milchprodukte und ihre Tontöpferwaren bekannt ist.", hu: "Tejtermékeiről és agyagedényeiről ismert község.", ro: "O municipalitate cunoscută pentru produsele sale lactate și olărit.", en: "A municipality known for its dairy products and its clay pottery." , es: "Un municipio conocido por sus productos lácteos y su cerámica de barro.", pt: "Um município conhecido pelos seus produtos lácteos e pela sua cerâmica de barro.", fr: "Une commune connue pour ses produits laitiers et sa poterie en terre cuite."},
     facts: {
       de: ["Käseproduktion", "Handwerkliche Töpferei", "Viehzucht", "Ländliche Traditionen"],
@@ -3097,7 +3054,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-CO",
     coords: [-85.08, 12.07],
     name: { de: "Santo Tomás", hu: "Santo Tomás", ro: "Santo Tomás", en: "Santo Tomás"},
-    image: "/poi-images/santo-tomas-chontales-cities-v2.webp",
     description: { de: "Eine Stadt in der Viehzuchtregion von Chontales.", hu: "Város Chontales szarvasmarha-tenyésztő régiójában.", ro: "Un oraș în regiunea de creștere a vitelor din Chontales.", en: "A town in the cattle-ranching region of Chontales." , es: "Una ciudad en la región ganadera de Chontales.", pt: "Uma cidade na região pecuária de Chontales.", fr: "Une ville dans la région d'élevage de Chontales."},
     facts: {
       de: ["Viehhandel", "Wichtiger regionaler Markt", "An der Straße nach Nueva Guinea", "Traditionelle Feste"],
@@ -3205,7 +3161,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-SJ",
     coords: [-84.9, 11.4],
     name: { de: "San Miguelito", hu: "San Miguelito", ro: "San Miguelito", en: "San Miguelito"},
-    image: "/poi-images/san-miguelito-cities-v2.webp",
     description: { de: "Fischerdorf am Ufer des Nicaraguasees.", hu: "Halászfalu a Nicaragua-tó partján.", ro: "Sat pescăresc pe malul Lacului Nicaragua.", en: "Fishing town on the shores of Lake Nicaragua." , es: "Pueblo de pescadores a orillas del Lago de Nicaragua.", pt: "Vila de pescadores às margens do Lago Nicarágua.", fr: "Village de pêcheurs sur les rives du lac Nicaragua."},
     facts: {
       de: ["Wichtiger Fischereihafen am See", "Teil des Los Guatuzos Wildreservats", "Vogelbeobachtung", "Ländliche, ruhige Atmosphäre"],
@@ -3358,7 +3313,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-SJ",
     coords: [-84.397, 11.018],
     name: { de: "El Castillo", hu: "El Castillo", ro: "El Castillo", en: "El Castillo"},
-    image: "/poi-images/el-castillo-de-la-concepcion-cities-v2.webp",
     description: { de: "Dorf um die historische Festung am Río San Juan.", hu: "Falu a történelmi erőd körül a San Juan-folyónál.", ro: "Sat în jurul fortăreței istorice de pe râul San Juan.", en: "Village surrounding the historic fortress on the San Juan River." , es: "Pueblo en torno a la histórica fortaleza en el Río San Juan.", pt: "Aldeia em torno da fortaleza histórica no Río San Juan.", fr: "Village autour de la forteresse historique sur le Río San Juan."},
     facts: {
       de: ["Imposante Festung aus dem 17. Jahrhundert", "Schutz vor Piraten", "Ökotourismus-Destination", "Teil des Indio-Maíz Reservats"],
@@ -3394,7 +3348,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-SJ",
     coords: [-83.69, 10.93],
     name: { de: "San Juan de Nicaragua (Greytown)", hu: "San Juan de Nicaragua (Greytown)", ro: "San Juan de Nicaragua (Greytown)", en: "San Juan de Nicaragua (Greytown)"},
-    image: "/poi-images/san-juan-del-norte-greytown-cities-v2.webp",
     description: { de: "Historisch bedeutende Hafenstadt an der Karibikküste.", hu: "Történelmileg jelentős kikötőváros a karibi parton.", ro: "Oraș-port istoric important pe coasta Caraibelor.", en: "Historically significant port town on the Caribbean coast." , es: "Ciudad portuaria de importancia histórica en la costa del Caribe.", pt: "Cidade portuária de importância histórica na costa das Caraíbas.", fr: "Ville portuaire d'importance historique sur la côte caraïbe."},
     facts: {
       de: ["Einst wichtiger Transithafen", "Mehrfach zerstört und wieder aufgebaut", "Mündung des Río San Juan", "Reiche Geschichte"],
@@ -3430,7 +3383,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-ES",
     coords: [-86.53, 13.38],
     name: { de: "Pueblo Nuevo", hu: "Pueblo Nuevo", ro: "Pueblo Nuevo", en: "Pueblo Nuevo"},
-    image: "/poi-images/pueblo-nuevo-esteli-cities-v2.webp",
     description: { de: "Bergstadt im Departement Estelí, umgeben von Naturreservaten.", hu: "Hegyi város Estelí megyében, természetvédelmi területekkel körülvéve.", ro: "Oraș montan în departamentul Estelí, înconjurat de rezervații naturale.", en: "Mountain town in the Estelí department, surrounded by nature reserves." , es: "Ciudad de montaña en Estelí, rodeada de reservas naturales.", pt: "Cidade montanhosa no departamento de Estelí, cercada por reservas naturais.", fr: "Ville de montagne dans le département d'Estelí, entourée de réserves naturelles."},
     facts: {
       de: ["Anbau von Kaffee und Gemüse", "Wanderwege", "Kühles Klima", "Ländliche Gemeinde"],
@@ -3466,7 +3418,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-ES",
     coords: [-86.23, 13.0],
     name: { de: "La Trinidad", hu: "La Trinidad", ro: "La Trinidad", en: "La Trinidad"},
-    image: "/poi-images/la-trinidad-esteli-cities-v2.webp",
     description: { de: "Eine Stadt, die für ihre Bäckereien und als Verkehrsknotenpunkt bekannt ist.", hu: "Pékségeiről és közlekedési csomópontként ismert város.", ro: "Un oraș cunoscut pentru brutăriile sale și ca nod de transport.", en: "A town known for its bakeries and as a transportation hub." , es: "Una ciudad conocida por sus panaderías y como nudo de transporte.", pt: "Uma cidade conhecida pelas suas padarias e como nó de transporte.", fr: "Une ville connue pour ses boulangeries et comme carrefour de transport."},
     facts: {
       de: ["'Hauptstadt des Brotes'", "An der Panamericana", "Handelszentrum", "Viehzucht"],
@@ -3547,7 +3498,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MT",
     coords: [-86.12, 12.73],
     name: { de: "Ciudad Darío", hu: "Ciudad Darío", ro: "Ciudad Darío", en: "Ciudad Darío"},
-    image: "/poi-images/ciudad-dario-cities-v2.webp",
     description: { de: "Geburtsort des berühmten Dichters Rubén Darío.", hu: "A híres költő, Rubén Darío szülőhelye.", ro: "Locul de naștere al celebrului poet Rubén Darío.", en: "Birthplace of the famous poet Rubén Darío." , es: "Lugar de nacimiento del famoso poeta Rubén Darío.", pt: "Local de nascimento do famoso poeta Rubén Darío.", fr: "Lieu de naissance du célèbre poète Rubén Darío."},
     facts: {
       de: ["Geburtshaus von Rubén Darío (Museum)", "Wichtiger kultureller Ort", "Landwirtschaft (Reis, Bohnen)", "Ehemals Metapa genannt"],
@@ -3583,7 +3533,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MT",
     coords: [-85.78, 12.64],
     name: { de: "Esquipulas", hu: "Esquipulas", ro: "Esquipulas", en: "Esquipulas"},
-    image: "/poi-images/esquipulas-matagalpa-cities-v2.webp",
     description: { de: "Bergbaustadt im Departement Matagalpa.", hu: "Bányaváros Matagalpa megyében.", ro: "Oraș minier în departamentul Matagalpa.", en: "Mining town in the department of Matagalpa." , es: "Ciudad minera en el departamento de Matagalpa.", pt: "Cidade mineira no departamento de Matagalpa.", fr: "Ville minière dans le département de Matagalpa."},
     facts: {
       de: ["Historischer Goldabbau", "Kaffeeanbau", "Ländliche Umgebung", "Bergiges Gelände"],
@@ -3619,7 +3568,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MT",
     coords: [-85.85, 12.75],
     name: { de: "San Dionisio", hu: "San Dionisio", ro: "San Dionisio", en: "San Dionisio"},
-    image: "/poi-images/san-dionisio-matagalpa-cities-v2.webp",
     description: { de: "Eine Gemeinde in den Kaffeeregionen von Matagalpa.", hu: "Község Matagalpa kávérégióiban.", ro: "O municipalitate în regiunile de cafea din Matagalpa.", en: "A municipality in the coffee regions of Matagalpa." , es: "Un municipio en las regiones cafetaleras de Matagalpa.", pt: "Um município nas regiões cafeeiras de Matagalpa.", fr: "Une municipalité dans les régions caféières de Matagalpa."},
     facts: {
       de: ["Kaffeeanbau", "Traditionelle Landwirtschaft", "Berglandschaft", "Kleine, verstreute Gemeinden"],
@@ -3655,7 +3603,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MT",
     coords: [-85.55, 13.1],
     name: { de: "La Dalia", hu: "La Dalia", ro: "La Dalia", en: "La Dalia"},
-    image: "/poi-images/la-dalia-matagalpa-cities-v2.webp",
     description: { de: "Eine wichtige Kaffeeanbau-Gemeinde im Departement Matagalpa.", hu: "Fontos kávétermesztő község Matagalpa megyében.", ro: "O importantă municipalitate cultivatoare de cafea în departamentul Matagalpa.", en: "An important coffee-growing municipality in the Matagalpa department." , es: "Un importante municipio cafetalero en el departamento de Matagalpa.", pt: "Um importante município cafeeiro no departamento de Matagalpa.", fr: "Une importante commune caféière dans le département de Matagalpa."},
     facts: {
       de: ["Herz der Kaffeeproduktion", "Nebelwälder in der Nähe", "Hohe Niederschlagsmengen", "Ländliche Entwicklungsprojekte"],
@@ -3691,7 +3638,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MT",
     coords: [-85.4, 13.25],
     name: { de: "Rancho Grande", hu: "Rancho Grande", ro: "Rancho Grande", en: "Rancho Grande"},
-    image: "/poi-images/rancho-grande-matagalpa-cities-v2.webp",
     description: { de: "Eine Gemeinde an der landwirtschaftlichen Front mit Fokus auf Kakao.", hu: "Község a mezőgazdasági frontvonalon, a kakaóra összpontosítva.", ro: "O municipalitate pe frontiera agricolă, axată pe cacao.", en: "A municipality on the agricultural frontier with a focus on cacao." , es: "Un municipio en la frontera agrícola con un fuerte enfoque en el cacao.", pt: "Um município na fronteira agrícola com foco no cacau.", fr: "Une municipalité sur le front agricole axée sur le cacao."},
     facts: {
       de: ["Kakaoanbau", "Viehzucht", "Siedlungsgebiet", "Schutz von Wassereinzugsgebieten"],
@@ -3727,7 +3673,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MT",
     coords: [-85.75, 13.0],
     name: { de: "El Tuma - La Dalia", hu: "El Tuma - La Dalia", ro: "El Tuma - La Dalia", en: "El Tuma - La Dalia"},
-    image: "/poi-images/el-tuma-la-dalia-cities-v2.webp",
     description: { de: "Zwillingsstädte, die ein wichtiges Zentrum für Kaffee und Handel sind.", hu: "Iker városok, amelyek a kávé és a kereskedelem fontos központjai.", ro: "Orașe gemene care sunt un centru important pentru cafea și comerț.", en: "Twin towns that are an important center for coffee and commerce." , es: "Ciudades gemelas que son un centro importante para el café y el comercio.", pt: "Cidades gémeas que são um importante centro de café e comércio.", fr: "Villes jumelles constituant un centre important pour le café et le commerce."},
     facts: {
       de: ["Zentrum der Kaffeekooperativen", "Handelsaktivität", "Verbindung ins Landesinnere", "Bergiges Gelände"],
@@ -3799,7 +3744,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MT",
     coords: [-85.7, 12.7],
     name: { de: "Muy Muy", hu: "Muy Muy", ro: "Muy Muy", en: "Muy Muy"},
-    image: "/poi-images/muy-muy-matagalpa-cities-v2.webp",
     description: { de: "Eine kleine, ländliche Gemeinde im Departement Matagalpa.", hu: "Kicsi, vidéki község Matagalpa megyében.", ro: "O mică comunitate rurală în departamentul Matagalpa.", en: "A small, rural municipality in the Matagalpa department." , es: "Un pequeño municipio rural en el departamento de Matagalpa.", pt: "Um pequeno município rural no departamento de Matagalpa.", fr: "Une petite commune rurale dans le département de Matagalpa."},
     facts: {
       de: ["Viehzucht", "Anbau von Grundnahrungsmitteln", "Traditionelles Landleben", "Hügelige Landschaft"],
@@ -3835,7 +3779,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MT",
     coords: [-85.83, 12.91],
     name: { de: "San Ramón", hu: "San Ramón", ro: "San Ramón", en: "San Ramón"},
-    image: "/poi-images/san-ramon-matagalpa-cities-v2.webp",
     description: { de: "Eine Gemeinde in der Nähe von Matagalpa, bekannt für Ökotourismus und Kaffee.", hu: "Matagalpa közelében fekvő község, amely ökoturizmusáról és kávéjáról ismert.", ro: "O municipalitate lângă Matagalpa, cunoscută pentru ecoturism și cafea.", en: "A municipality near Matagalpa known for ecotourism and coffee." , es: "Un municipio cerca de Matagalpa, conocido por su ecoturismo y café.", pt: "Um município perto de Matagalpa, conhecido pelo ecoturismo e pelo café.", fr: "Une municipalité proche de Matagalpa, connue pour son écotourisme et son café."},
     facts: {
       de: ["Nachhaltiger Kaffeeanbau", "Wasserfälle und Naturreservate", "Ländlicher Tourismus", "Gemeinschaftsprojekte"],
@@ -3997,7 +3940,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-NS",
     coords: [-86.01, 13.56],
     name: { de: "Quilalí", hu: "Quilalí", ro: "Quilalí", en: "Quilalí"},
-    image: "/poi-images/quilali-nueva-segovia-cities-v2.webp",
     description: { de: "Eine abgelegene Bergstadt im Departement Nueva Segovia.", hu: "Elszigetelt hegyi város Nueva Segovia megyében.", ro: "Un oraș montan izolat în departamentul Nueva Segovia.", en: "A remote mountain town in the department of Nueva Segovia." , es: "Un remoto pueblo de montaña en el departamento de Nueva Segovia.", pt: "Uma remota cidade serrana no departamento de Nueva Segovia.", fr: "Une ville de montagne isolée dans le département de Nueva Segovia."},
     facts: {
       de: ["Kaffeeanbau", "Ehemalige Konfliktzone", "Wunderschöne Berglandschaft", "Ländliche Entwicklung"],
@@ -4033,7 +3975,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-NS",
     coords: [-86.3, 13.7],
     name: { de: "San Fernando", hu: "San Fernando", ro: "San Fernando", en: "San Fernando"},
-    image: "/poi-images/san-fernando-nueva-segovia-cities-v2.webp",
     description: { de: "Eine kleine Stadt in den Kiefernwäldern von Nueva Segovia.", hu: "Kis város Nueva Segovia fenyőerdeiben.", ro: "Un orășel în pădurile de pini din Nueva Segovia.", en: "A small town in the pine forests of Nueva Segovia." , es: "Un pequeño pueblo en los bosques de pinos de Nueva Segovia.", pt: "Uma pequena cidade nas florestas de pinheiros de Nueva Segovia.", fr: "Une petite ville dans les forêts de pins de Nueva Segovia."},
     facts: {
       de: ["Kühles Klima", "Kaffeeanbau", "Holzwirtschaft", "Grenznähe zu Honduras"],
@@ -4591,7 +4532,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-AS",
     coords: [-83.04, 12.17],
     name: { de: "Corn Island", hu: "Corn Island", ro: "Corn Island", en: "Corn Island"},
-    image: "/poi-images/corn-island-cities-v2.webp",
     description: { de: "Hauptort der Corn Islands, ein karibisches Paradies.", hu: "A Corn-szigetek fő helysége, egy karibi paradicsom.", ro: "Principalul oraș al Insulelor Corn, un paradis caraibian.", en: "Main town of the Corn Islands, a Caribbean paradise." , es: "Principal asentamiento de Corn Island, un paraíso caribeño.", pt: "Principal localidade de Corn Island, um paraíso caribenho.", fr: "Localité principale de Corn Island, un paradis caribéen."},
     facts: {
       de: ["Tourismuszentrum", "Flughafen", "Kokosnussproduktion", "Kreolische und englische Sprache"],
@@ -4663,7 +4603,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-AS",
     coords: [-84.1, 12.7],
     name: { de: "El Tortuguero", hu: "El Tortuguero", ro: "El Tortuguero", en: "El Tortuguero"},
-    image: "/poi-images/el-tortuguero-cities-v2.webp",
     description: { de: "Eine junge Gemeinde, die für ihre Flüsse und ihre Natur bekannt ist.", hu: "Fiatal község, amely folyóiról és természetéről ismert.", ro: "O municipalitate tânără, cunoscută pentru râurile și natura sa.", en: "A young municipality known for its rivers and its nature." , es: "Un municipio joven conocido por sus ríos y su naturaleza.", pt: "Um município jovem conhecido pelos seus rios e pela sua natureza.", fr: "Une municipalité jeune connue pour ses rivières et sa nature."},
     facts: {
       de: ["'Land der Flüsse'", "Viehzucht", "Subsistenzlandwirtschaft", "Große Biodiversität"],
@@ -4735,7 +4674,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-SJ",
     coords: [-85.1, 11.55],
     name: { de: "Morrito", hu: "Morrito", ro: "Morrito", en: "Morrito"},
-    image: "/poi-images/morrito-rio-san-juan-cities-v2.webp",
     description: { de: "Eine kleine Hafenstadt am Nicaraguasee.", hu: "Kis kikötőváros a Nicaragua-tónál.", ro: "Un mic oraș-port pe Lacul Nicaragua.", en: "A small port town on Lake Nicaragua." , es: "Una pequeña ciudad portuaria en el Lago de Nicaragua.", pt: "Uma pequena cidade portuária no Lago Nicarágua.", fr: "Une petite ville portuaire sur le lac Nicaragua."},
     facts: {
       de: ["Fischerei", "Viehzucht", "Blick auf Ometepe", "Ländliche Ruhe"],
@@ -4771,7 +4709,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-RI",
     coords: [-85.8, 11.45],
     name: { de: "San Jorge", hu: "San Jorge", ro: "San Jorge", en: "San Jorge"},
-    image: "/poi-images/san-jorge-rivas-cities-v2.webp",
     description: { de: "Der Haupthafen für die Fährverbindung zur Insel Ometepe.", hu: "A fő kikötő az Ometepe-szigetre tartó kompok számára.", ro: "Principalul port pentru feriboturile către insula Ometepe.", en: "The main port for ferry service to Ometepe Island." , es: "El puerto principal para la conexión de ferry a la isla de Ometepe.", pt: "O principal porto para a ligação de balsa à ilha de Ometepe.", fr: "Le principal port pour la liaison par ferry vers l'île d'Ometepe."},
     facts: {
       de: ["Fährhafen nach Ometepe", "Touristische Aktivität", "Handel", "Historischer Ort (Vertragsunterzeichnung)"],
@@ -4807,7 +4744,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-RI",
     coords: [-85.88, 11.5],
     name: { de: "Belén", hu: "Belén", ro: "Belén", en: "Belén"},
-    image: "/poi-images/belen-rivas-cities-v2.webp",
     description: { de: "Eine kleine landwirtschaftliche Gemeinde im Departement Rivas.", hu: "Kis mezőgazdasági község Rivas megyében.", ro: "O mică municipalitate agricolă în departamentul Rivas.", en: "A small agricultural municipality in the department of Rivas." , es: "Una pequeña comunidad agrícola en el departamento de Rivas.", pt: "Uma pequena comunidade agrícola no departamento de Rivas.", fr: "Une petite communauté agricole du département de Rivas."},
     facts: {
       de: ["Anbau von Kochbananen und Zuckerrohr", "Ländliches Leben", "Nahe Rivas Stadt", "Traditionelle Kultur"],
@@ -4843,7 +4779,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-RI",
     coords: [-85.85, 11.53],
     name: { de: "Potosí", hu: "Potosí", ro: "Potosí", en: "Potosí"},
-    image: "/poi-images/potosi-rivas-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement Rivas, die sich der Landwirtschaft widmet.", hu: "Rivas megyei község, amely mezőgazdasággal foglalkozik.", ro: "O municipalitate în departamentul Rivas, dedicată agriculturii.", en: "A municipality in the department of Rivas dedicated to agriculture." , es: "Un municipio en el departamento de Rivas dedicado a la agricultura.", pt: "Um município no departamento de Rivas dedicado à agricultura.", fr: "Une municipalité du département de Rivas dédiée à l'agriculture."},
     facts: {
       de: ["Landwirtschaft", "Viehzucht", "Ländliche Gemeinde", "Ruhige Atmosphäre"],
@@ -4879,7 +4814,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-RI",
     coords: [-85.81, 11.56],
     name: { de: "Buenos Aires", hu: "Buenos Aires", ro: "Buenos Aires", en: "Buenos Aires"},
-    image: "/poi-images/buenos-aires-rivas-cities-v2.webp",
     description: { de: "Eine kleine Gemeinde am Ufer des Nicaraguasees.", hu: "Kis község a Nicaragua-tó partján.", ro: "O mică municipalitate pe malul Lacului Nicaragua.", en: "A small municipality on the shores of Lake Nicaragua." , es: "Un pequeño municipio a orillas del Lago de Nicaragua.", pt: "Um pequeno município às margens do Lago Nicarágua.", fr: "Une petite municipalité sur les rives du lac Nicaragua."},
     facts: {
       de: ["Blick auf Ometepe", "Fischerei", "Landwirtschaft", "Ruhige Strände"],
@@ -4915,7 +4849,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-RI",
     coords: [-85.5, 11.19],
     name: { de: "Cárdenas", hu: "Cárdenas", ro: "Cárdenas", en: "Cárdenas"},
-    image: "/poi-images/cardenas-rivas-cities-v2.webp",
     description: { de: "Eine Grenzgemeinde zu Costa Rica am Ufer des Nicaraguasees.", hu: "Határközség Costa Ricával, a Nicaragua-tó partján.", ro: "O municipalitate de frontieră cu Costa Rica, pe malul Lacului Nicaragua.", en: "A border municipality with Costa Rica on the shores of Lake Nicaragua." , es: "Un municipio fronterizo con Costa Rica a orillas del Lago de Nicaragua.", pt: "Um município fronteiriço com a Costa Rica às margens do Lago Nicarágua.", fr: "Une municipalité frontalière avec le Costa Rica sur les rives du lac Nicaragua."},
     facts: {
       de: ["Grenzübergang", "Viehzucht", "Fischerei", "Abgelegene Lage"],
@@ -4951,7 +4884,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MD",
     coords: [-86.35, 13.53],
     name: { de: "Telpaneca", hu: "Telpaneca", ro: "Telpaneca", en: "Telpaneca"},
-    image: "/poi-images/telpaneca-madriz-cities-v2.webp",
     description: { de: "Eine alte indigene Gemeinde im Departement Madriz.", hu: "Ősi őslakos község Madriz megyében.", ro: "O veche comunitate indigenă în departamentul Madriz.", en: "An ancient indigenous community in the department of Madriz." , es: "Una antigua comunidad indígena en el departamento de Madriz.", pt: "Uma antiga comunidade indígena no departamento de Madriz.", fr: "Une ancienne communauté indigène dans le département de Madriz."},
     facts: {
       de: ["Indigene Wurzeln", "Handwerk (Töpferei)", "Am Ufer des Coco-Flusses", "Kulturelle Traditionen"],
@@ -4987,7 +4919,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MD",
     coords: [-86.16, 13.54],
     name: { de: "San Juan del Río Coco", hu: "San Juan del Río Coco", ro: "San Juan del Río Coco", en: "San Juan del Río Coco"},
-    image: "/poi-images/san-juan-de-rio-coco-madriz-cities-v2.webp",
     description: { de: "Eine wichtige Kaffeeanbau-Gemeinde in den Bergen von Madriz.", hu: "Fontos kávétermesztő község Madriz hegyeiben.", ro: "O importantă municipalitate cultivatoare de cafea în munții din Madriz.", en: "An important coffee-growing municipality in the mountains of Madriz." , es: "Un importante municipio cafetalero en las montañas de Madriz.", pt: "Um importante município cafeeiro nas montanhas de Madriz.", fr: "Une importante commune caféière dans les montagnes de Madriz."},
     facts: {
       de: ["Qualitätskaffee", "Kühles Bergklima", "Wunderschöne Landschaft", "Ländlicher Tourismus"],
@@ -5221,7 +5152,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-MD",
     coords: [-86.41, 13.46],
     name: { de: "Palacagüina", hu: "Palacagüina", ro: "Palacagüina", en: "Palacagüina"},
-    image: "/poi-images/palacaguina-madriz-cities-v2.webp",
     description: { de: "Eine kleine Gemeinde, die durch das Lied 'Cristo ya nació en Palacagüina' berühmt wurde.", hu: "Kis község, amelyet a 'Cristo ya nació en Palacagüina' című dal tett híressé.", ro: "O mică municipalitate făcută celebră de cântecul 'Cristo ya nació en Palacagüina'.", en: "A small municipality made famous by the song 'Cristo ya nació en Palacagüina'." , es: "Pequeño municipio famoso por la canción 'Cristo ya nació en Palacagüina'.", pt: "Pequeno município que se tornou famoso pela canção 'Cristo ya nació en Palacagüina'.", fr: "Petite municipalité rendue célèbre par la chanson 'Cristo ya nació en Palacagüina'."},
     facts: {
       de: ["Kulturelle Berühmtheit", "Landwirtschaft", "An der Panamericana", "Religiöse Traditionen"],
@@ -5257,7 +5187,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-LE",
     coords: [-86.25, 12.8],
     name: { de: "Santa Rosa del Peñón", hu: "Santa Rosa del Peñón", ro: "Santa Rosa del Peñón", en: "Santa Rosa del Peñón"},
-    image: "/poi-images/santa-rosa-del-penon-leon-cities-v2.webp",
     description: { de: "Eine Bergbaugemeinde im Departement León.", hu: "Bányászati község León megyében.", ro: "O municipalitate minieră în departamentul León.", en: "A mining municipality in the department of León." , es: "Un municipio minero en el departamento de León.", pt: "Um município mineiro no departamento de León.", fr: "Une municipalité minière dans le département de León."},
     facts: {
       de: ["Goldabbau in kleinem Maßstab", "Ländliche, abgelegene Gegend", "Trockenes Klima", "Viehzucht"],
@@ -5293,7 +5222,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-CH",
     coords: [-87.16, 12.54],
     name: { de: "El Realejo", hu: "El Realejo", ro: "El Realejo", en: "El Realejo"},
-    image: "/poi-images/el-realejo-chinandega-cities-v2.webp",
     description: { de: "Einst der wichtigste Hafen Nicaraguas an der Pazifikküste während der Kolonialzeit.", hu: "Egykor Nicaragua legfontosabb csendes-óceáni kikötője volt a gyarmati időkben.", ro: "Odinioară cel mai important port al Nicaraguei la Pacific în perioada colonială.", en: "Once Nicaragua's most important Pacific port during the colonial era." , es: "Antaño el puerto más importante de Nicaragua en la costa del Pacífico durante la época colonial.", pt: "Antigamente o porto mais importante da Nicarágua na costa do Pacífico durante a época colonial.", fr: "Autrefois le port le plus important du Nicaragua sur la côte Pacifique pendant l'époque coloniale."},
     facts: {
       de: ["Historischer Hafen", "Von Piraten angegriffen", "Koloniale Ruinen", "Fischerei und Landwirtschaft"],
@@ -5329,7 +5257,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-CH",
     coords: [-86.88, 13.23],
     name: { de: "Cinco Pinos", hu: "Cinco Pinos", ro: "Cinco Pinos", en: "Cinco Pinos"},
-    image: "/poi-images/cinco-pinos-chinandega-cities-v2.webp",
     description: { de: "Eine kleine, ländliche Gemeinde in den nördlichen Hügeln von Chinandega.", hu: "Kis, vidéki község Chinandega északi dombjai között.", ro: "O mică comunitate rurală în dealurile nordice ale Chinandegăi.", en: "A small, rural municipality in the northern hills of Chinandega." , es: "Un pequeño municipio rural en las colinas del norte de Chinandega.", pt: "Um pequeno município rural nas colinas do norte de Chinandega.", fr: "Une petite municipalité rurale dans les collines du nord de Chinandega."},
     facts: {
       de: ["Grenzgebiet zu Honduras", "Viehzucht", "Kaffeeanbau", "Ländliche Ruhe"],
@@ -5365,7 +5292,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-CO",
     coords: [-85.3, 12.2],
     name: { de: "San Francisco de Cuapa", hu: "San Francisco de Cuapa", ro: "San Francisco de Cuapa", en: "San Francisco de Cuapa"},
-    image: "/poi-images/san-francisco-de-cuapa-chontales-cities-v2.webp",
     description: { de: "Ein Ort, der für die Marienerscheinungen in den 1980er Jahren bekannt ist.", hu: "Hely, amely az 1980-as évekbeli Mária-jelenésekről ismert.", ro: "Un loc cunoscut pentru aparițiile Fecioarei Maria din anii 1980.", en: "A place known for the Marian apparitions in the 1980s." , es: "Un lugar conocido por las apariciones marianas en la década de 1980.", pt: "Um local conhecido pelas aparições marianas na década de 1980.", fr: "Un lieu célèbre pour les apparitions mariales dans les années 1980."},
     facts: {
       de: ["Wallfahrtsort", "Ländliche Gemeinde", "Viehzucht", "Religiöse Bedeutung"],
@@ -5401,7 +5327,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-CO",
     coords: [-85.08, 12.26],
     name: { de: "Santo Domingo", hu: "Santo Domingo", ro: "Santo Domingo", en: "Santo Domingo"},
-    image: "/poi-images/santo-domingo-chontales-cities-v2.webp",
     description: { de: "Eine historische Bergbaustadt in den Hügeln von Chontales.", hu: "Történelmi bányaváros Chontales dombjai között.", ro: "Un oraș minier istoric în dealurile din Chontales.", en: "A historic mining town in the hills of Chontales." , es: "Una ciudad minera histórica en las colinas de Chontales.", pt: "Uma histórica cidade mineradora nas colinas de Chontales.", fr: "Une ville minière historique dans les collines de Chontales."},
     facts: {
       de: ["Goldabbau", "Ländliche Umgebung", "Kulturelle Traditionen", "Bergbaustollen"],
@@ -5437,7 +5362,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-CO",
     coords: [-85.16, 12.22],
     name: { de: "La Libertad", hu: "La Libertad", ro: "La Libertad", en: "La Libertad"},
-    image: "/poi-images/la-libertad-chontales-cities-v2.webp",
     description: { de: "Geburtsort des ehemaligen Präsidenten Daniel Ortega.", hu: "Daniel Ortega volt elnök szülőhelye.", ro: "Locul de naștere al fostului președinte Daniel Ortega.", en: "Birthplace of former president Daniel Ortega." , es: "Lugar de nacimiento del expresidente Daniel Ortega.", pt: "Local de nascimento do ex-presidente Daniel Ortega.", fr: "Lieu de naissance de l'ancien président Daniel Ortega."},
     facts: {
       de: ["Historischer Goldabbau", "Politische Bedeutung", "Viehzucht", "Berglandschaft"],
@@ -5509,7 +5433,6 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     parent: "NI-BO",
     coords: [-85.71, 12.53],
     name: { de: "Santa Lucía", hu: "Santa Lucía", ro: "Santa Lucía", en: "Santa Lucía"},
-    image: "/poi-images/santa-lucia-boaco-cities-v2.webp",
     description: { de: "Eine kleine Kaffeegemeinde in den höheren Lagen von Boaco.", hu: "Kis kávéközség Boaco magasabban fekvő területein.", ro: "O mică comunitate cultivatoare de cafea în zonele înalte ale departamentului Boaco.", en: "A small coffee municipality in the higher elevations of Boaco." , es: "Una pequeña comunidad cafetalera en las zonas altas de Boaco.", pt: "Uma pequena comunidade cafeeira nas zonas altas de Boaco.", fr: "Une petite communauté caféière dans les hauts plateaux de Boaco."},
     facts: {
       de: ["Kaffeeanbau", "Ländliche Gemeinde", "Kühleres Klima als die Umgebung", "Berglandschaft"],

@@ -93,7 +93,6 @@ export const poiExtraQatarLandmarksV2: POI[] = [
       hu: "Iszlám Művészeti Múzeum",
       ro: "Muzeul de Artă Islamică",
       en: "Museum of Islamic Art"},
-    image: "/poi-images/qatar-museum-of-islamic-art-landmarks-v2.webp",
     description: {
       de: "Das markante Gebäude auf einer künstlichen Insel beherbergt eine der umfassendsten Sammlungen islamischer Kunst aus drei Kontinenten.",
       hu: "A mesterséges szigeten álló lenyűgöző épület három kontinens iszlám művészetének egyik legátfogóbb gyűjteményének ad otthont.",
@@ -346,7 +345,6 @@ export const poiExtraQatarLandmarksV2: POI[] = [
       hu: "Katar Nemzeti Múzeuma",
       ro: "Muzeul Național al Qatarului",
       en: "National Museum of Qatar"},
-    image: "/poi-images/qatar-national-museum-landmarks-v2.webp",
     description: {
       de: "Das von Wüstenrosen inspirierte Gebäude erzählt die Geschichte Katars von seiner geologischen Entstehung bis zur modernen Metropole.",
       hu: "A sivatagi rózsa ihlette épület Katar történetét meséli el a geológiai kialakulástól a modern metropoliszig.",
@@ -455,7 +453,6 @@ export const poiExtraQatarLandmarksV2: POI[] = [
       hu: "Souq Waqif",
       ro: "Souq Waqif",
       en: "Souq Waqif"},
-    image: "/poi-images/qatar-souq-waqif-landmarks-v2.webp",
     description: {
       de: "Der traditionelle Markt bietet ein Labyrinth aus Gassen mit Gewürzen, Kunsthandwerk und Restaurants im Herzen der Hauptstadt.",
       hu: "A hagyományos piac a főváros szívében fűszereket, kézműves termékeket és éttermeket kínáló sikátorok labirintusa.",
@@ -672,7 +669,6 @@ export const poiExtraQatarLandmarksV2: POI[] = [
       hu: "The Pearl-Qatar",
       ro: "The Pearl-Qatar",
       en: "The Pearl-Qatar"},
-    image: "/poi-images/qatar-the-pearl-landmarks-v2.webp",
     description: {
       de: "Diese künstliche Inselgruppe bietet luxuriöse Wohnanlagen, Jachthäfen im mediterranen Stil und exklusive Einkaufszentren.",
       hu: "A mesterséges szigetcsoport luxuslakosztályokat, mediterrán stílusú jachtkikötőket és exkluzív bevásárlóközpontokat kínál.",
@@ -997,7 +993,6 @@ export const poiExtraQatarLandmarksV2: POI[] = [
       hu: "Katara Kulturális Falu",
       ro: "Satul Cultural Katara",
       en: "Katara Cultural Village"},
-    image: "/poi-images/qatar-katara-cultural-village-landmarks-v2.webp",
     description: {
       de: "Ein kulturelles Zentrum, das die Traditionen Katars mit Theatern, Galerien und einem beeindruckenden Amphitheater feiert.",
       hu: "Kulturális központ, amely Katar hagyományait ünnepli színházakkal, galériákkal és egy lenyűgöző amfiteátrummal.",
@@ -1358,7 +1353,6 @@ export const poiExtraQatarLandmarksV2: POI[] = [
       hu: "Aspire Torony",
       ro: "Turnul Aspire",
       en: "Aspire Tower"},
-    image: "/poi-images/qatar-aspire-tower-landmarks-v2.webp",
     description: {
       de: "Dieser ikonische Wolkenkratzer in Form einer Fackel diente als Hauptsymbol für die Asienspiele 2006 und beherbergt heute ein Luxushotel.",
       hu: "Ez a fáklya alakú ikonikus felhőkarcoló a 2006-os Ázsiai Játékok fő szimbóluma volt, ma luxusszállodaként működik.",
@@ -1611,7 +1605,6 @@ export const poiExtraQatarLandmarksV2: POI[] = [
       hu: "Állami Nagymecset",
       ro: "Marea Moschee de Stat",
       en: "State Grand Mosque"},
-    image: "/poi-images/qatar-state-grand-mosque-landmarks-v2.webp",
     description: {
       de: "Die größte Moschee des Landes besticht durch ihre traditionelle Architektur mit 93 Kuppeln und bietet Platz für Zehntausende Gläubige.",
       hu: "Az ország legnagyobb mecsete lenyűgöző hagyományos építészetével, 93 kupolájával tízezrek számára biztosít imádkozási helyet.",
@@ -1756,7 +1749,6 @@ export const poiExtraQatarLandmarksV2: POI[] = [
       hu: "Doha Corniche",
       ro: "Doha Corniche",
       en: "Doha Corniche"},
-    image: "/poi-images/qatar-doha-corniche-landmarks-v2.webp",
     description: {
       de: "Die sieben Kilometer lange Uferpromenade erstreckt sich sichelförmig entlang der Bucht und bietet spektakuläre Ausblicke auf die Skyline der Stadt.",
       hu: "A hét kilométer hosszú tengerparti sétány sarló alakban húzódik az öböl mentén, és látványos kilátást nyújt a város sziluettjére.",
@@ -1865,7 +1857,6 @@ export const poiExtraQatarLandmarksV2: POI[] = [
       hu: "Katar Nemzeti Könyvtára",
       ro: "Biblioteca Națională a Qatarului",
       en: "Qatar National Library"},
-    image: "/poi-images/qatar-national-library-landmarks-v2.webp",
     description: {
       de: "Dieses architektonische Meisterwerk vereint eine Nationalbibliothek, eine Universitätsbibliothek und eine öffentliche Bibliothek unter einem spektakulären, offenen Dach.",
       hu: "Ez az építészeti remekmű egy nemzeti, egy egyetemi és egy nyilvános könyvtárat egyesít egy látványos, nyitott tető alatt.",
@@ -2300,7 +2291,6 @@ export const poiExtraQatarLandmarksV2: POI[] = [
       hu: "Villaggio Mall",
       ro: "Villaggio Mall",
       en: "Villaggio Mall"},
-    image: "/poi-images/qatar-villaggio-mall-landmarks-v2.webp",
     description: {
       de: "Dieses opulente Einkaufszentrum ist im Stil Venedigs gestaltet, komplett mit einem künstlichen Himmel und Kanälen, auf denen Gondeln verkehren.",
       hu: "Ez a pazar bevásárlóközpont Velence stílusában épült, mesterséges égbolttal és csatornákkal, amelyeken gondolák közlekednek.",
@@ -2445,7 +2435,6 @@ export const poiExtraQatarLandmarksV2: POI[] = [
       hu: "Banán-sziget",
       ro: "Insula Bananelor",
       en: "Banana Island"},
-    image: "/poi-images/qatar-banana-island-landmarks-v2.webp",
     description: {
       de: "Eine malerische sichelförmige Insel vor der Küste von Doha, die sich in ein exklusives Luxusresort mit paradiesischen Stränden verwandelt hat.",
       hu: "Egy festői, félhold alakú sziget Doha partjainál, amely exkluzív luxusüdülőhellyé alakult paradicsomi strandokkal.",
@@ -2626,7 +2615,6 @@ export const poiExtraQatarLandmarksV2: POI[] = [
       hu: "Msheireb Múzeumok",
       ro: "Muzeele Msheireb",
       en: "Msheireb Museums"},
-    image: "/poi-images/qatar-msheireb-museums-landmarks-v2.webp",
     description: {
       de: "Vier historische, aufwendig restaurierte Herrenhäuser im Zentrum von Doha, die die reiche soziale und kulturelle Geschichte Katars dokumentieren.",
       hu: "Négy történelmi, gondosan restaurált udvarház Doha központjában, amelyek Katar gazdag társadalmi és kulturális történelmét mutatják be.",
@@ -2807,7 +2795,6 @@ export const poiExtraQatarLandmarksV2: POI[] = [
       hu: "Mathaf: Arab Modern Művészeti Múzeum",
       ro: "Mathaf: Muzeul Arab de Artă Modernă",
       en: "Mathaf: Arab Museum of Modern Art"},
-    image: "/poi-images/qatar-mathaf-museum-landmarks-v2.webp",
     description: {
       de: "Dieses Museum in der Education City präsentiert eine umfassende Sammlung moderner und zeitgenössischer Kunst aus der arabischen Welt.",
       hu: "Az Education City területén található múzeum az arab világ modern és kortárs művészetének átfogó gyűjteményét mutatja be.",
@@ -2988,7 +2975,6 @@ export const poiExtraQatarLandmarksV2: POI[] = [
       hu: "Lusail Stadion",
       ro: "Stadionul Lusail",
       en: "Lusail Stadium"},
-    image: "/poi-images/qatar-lusail-stadium-landmarks-v2.webp",
     description: {
       de: "Ein architektonisches Wunderwerk in Form einer goldenen Schale, das als Austragungsort für das Finale der Fußball-Weltmeisterschaft 2022 diente.",
       hu: "Egy aranyszínű tál alakú építészeti csoda, amely a 2022-es labdarúgó-világbajnokság döntőjének helyszíneként szolgált.",

@@ -57,7 +57,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
       hu: "Assal-tó",
       ro: "Lacul Assal",
       en: "Lake Assal"},
-    image: "/poi-images/assal-lake-nature-v2.webp",
     description: {
       de: "Der Assalsee ist ein Kratersee im Zentrum von Dschibuti und liegt 155 Meter unter dem Meeresspiegel.",
       hu: "Az Assal-tó egy kráter-tó Dzsibuti központjában, 155 méterrel a tengerszint alatt helyezkedik el.",
@@ -150,7 +149,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
       hu: "Abbe-tó",
       ro: "Lacul Abbe",
       en: "Lake Abbe"},
-    image: "/poi-images/abbe-lake-nature-v2.webp",
     description: {
       de: "Ein Salzsee an der Grenze zwischen Äthiopien und Dschibuti, bekannt für seine Kalksteinnadeln.",
       hu: "Sóstó Etiópia és Dzsibuti határán, amely látványos mészkő oszlopairól ismert.",
@@ -198,7 +196,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
       hu: "Day-erdő",
       ro: "Pădurea Day",
       en: "Day Forest"},
-    image: "/poi-images/day-forest-nature-v2.webp",
     description: {
       de: "Ein Nationalpark im Goda-Gebirge, der eines der wenigen bewaldeten Gebiete des Landes schützt.",
       hu: "Nemzeti park a Goda-hegységben, amely az ország kevés erdős területének egyikét védi.",
@@ -435,7 +432,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
       hu: "Moussa Ali",
       ro: "Moussa Ali",
       en: "Moussa Ali"},
-    image: "/poi-images/moussa-ali-nature-v2.webp",
     description: {
       de: "Der höchste Berg in Dschibuti, ein Stratovulkan am Dreiländereck mit Äthiopien und Eritrea.",
       hu: "Dzsibuti legmagasabb hegye, egy sztratovulkán az etióp és eritreai hármashatárnál.",
@@ -483,7 +479,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
       hu: "Tadjourai-öböl",
       ro: "Golful Tadjoura",
       en: "Gulf of Tadjoura"},
-    image: "/poi-images/tadjoura-gulf-nature-v2.webp",
     description: {
       de: "Ein tiefer Golf des Indischen Ozeans, der von Korallenriffen und Küstenstädten umgeben ist.",
       hu: "Az Indiai-óceán mély öble, amelyet korallzátonyok és parti városok vesznek körül.",
@@ -576,7 +571,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
       hu: "Ghoubbet-el-Kharab",
       ro: "Ghoubbet-el-Kharab",
       en: "Ghoubbet-el-Kharab"},
-    image: "/poi-images/ghoubbet-kharab-nature-v2.webp",
     description: {
       de: "Eine fast umschlossene Bucht, die durch eine schmale Meerenge mit dem Golf von Tadjoura verbunden ist.",
       hu: "Egy szinte teljesen körbezárt öböl, amelyet szűk szoros köt össze a Tadjourai-öböllel.",
@@ -624,7 +618,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
       hu: "Moucha-sziget",
       ro: "Insula Moucha",
       en: "Moucha Island"},
-    image: "/poi-images/moucha-island-nature-v2.webp",
     description: {
       de: "Eine kleine Koralleninsel im Golf von Tadjoura, beliebt für Tauchen und Schnorcheln.",
       hu: "Kis korallsziget a Tadjourai-öbölben, népszerű búvárkodási és sznorkelezési helyszín.",
@@ -717,7 +710,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
       hu: "Maskali-sziget",
       ro: "Insula Maskali",
       en: "Maskali Island"},
-    image: "/poi-images/maskali-island-nature-v2.webp",
     description: {
       de: "Eine einsame Insel in der Nähe von Moucha, bekannt für ihre unberührten Strände.",
       hu: "Lakatlan sziget Moucha közelében, érintetlen strandjairól híres.",
@@ -990,7 +982,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
       hu: "Ardoukoba-vulkán",
       ro: "Vulcanul Ardoukoba",
       en: "Ardoukoba Volcano"},
-    image: "/poi-images/ardoukoba-volcano-nature-v2.webp",
     description: {
       de: "Ein aktiver Vulkan, der zuletzt 1978 nach einer langen Ruhepause ausbrach.",
       hu: "Aktív vulkán, amely utoljára 1978-ban tört ki hosszú szünet után.",
@@ -1038,7 +1029,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
       hu: "Hét Testvér-szigetek",
       ro: "Insulele celor Șapte Frați",
       en: "Seven Brothers Islands"},
-    image: "/poi-images/seven-brothers-islands-nature-v2.webp",
     description: {
       de: "Eine Inselgruppe in der Bab-el-Mandeb-Straße, auch als Sawabi-Inseln bekannt.",
       hu: "Szigetcsoport a Bab-el-Mandeb szorosban, Sawabi-szigetek néven is ismertek.",
@@ -2700,7 +2690,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
       hu: "Mabla-hegység",
       ro: "Munții Mabla",
       en: "Mabla Mountains"},
-    image: "/poi-images/mabla-mountains-nature-v2.webp",
     description: {
       de: "Ein Gebirgszug im Norden Dschibutis, der für seine reiche Flora bekannt ist.",
       hu: "Hegylánc Észak-Dzsibutiban, amely gazdag növényvilágáról híres.",
@@ -3045,7 +3034,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
       hu: "Ras Siyyan",
       ro: "Ras Siyyan",
       en: "Ras Siyyan"},
-    image: "/poi-images/ras-siyyan-nature-v2.webp",
     description: {
       de: "Ein vulkanischer Hügel an einer Halbinsel, die die Bab-el-Mandeb-Straße überblickt.",
       hu: "Vulkanikus domb egy félszigeten, amely a Bab-el-Mandeb szorosra néz.",
@@ -3093,7 +3081,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
       hu: "Bab-el-Mandeb",
       ro: "Bab-el-Mandeb",
       en: "Bab-el-Mandeb"},
-    image: "/poi-images/bab-el-mandeb-nature-v2.webp",
     description: {
       de: "Die Meerenge, die das Rote Meer mit dem Golf von Aden verbindet.",
       hu: "A szoros, amely összeköti a Vörös-tengert az Ádeni-öböllel.",
@@ -3474,7 +3461,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
       hu: "Khor Angar",
       ro: "Khor Angar",
       en: "Khor Angar"},
-    image: "/poi-images/khor-angar-nature-v2.webp",
     description: {
       de: "Ein bedeutendes Mangrovenökosystem an der Küste von Obock.",
       hu: "Jelentős mangrove ökoszisztéma Obock partjainál.",
@@ -3840,7 +3826,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
       hu: "We'a",
       ro: "We'a",
       en: "We'a"},
-    image: "/poi-images/wea-river-nature-v2.webp",
     description: {
       de: "Ein Oued in der Arta-Region, das die umliegende karge Landschaft prägt.",
       hu: "Vádi Arta régióban, amely meghatározza a környező kopár tájat.",
@@ -4041,7 +4026,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
       hu: "Ghoubbet-tó",
       ro: "Lacul Ghoubbet",
       en: "Lake Ghoubbet"},
-    image: "/poi-images/ghoubbet-lake-nature-v2.webp",
     description: {
       de: "Eine Lagune, die oft als See bezeichnet wird und durch vulkanische Aktivitäten entstand.",
       hu: "Lagúna, amelyet gyakran tóként emlegetnek, és vulkáni tevékenység során jött létre.",
@@ -4386,7 +4370,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
       hu: "Goda-erdő",
       ro: "Pădurea Goda",
       en: "Goda Forest"},
-    image: "/poi-images/goda-forest-nature-v2.webp",
     description: {
       de: "Die höher gelegenen Waldgebiete des Goda-Massivs mit einzigartiger Flora.",
       hu: "A Goda-masszívum magasabban fekvő erdős területei egyedi flórával.",
@@ -5499,7 +5482,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
       hu: "Ördög-sziget",
       ro: "Insula Diavolului",
       en: "Devil's Island"},
-    image: "/poi-images/diable-island-nature-v2.webp",
     description: {
       de: "Eine kleine, schroffe Vulkaninsel inmitten der Ghoubbet-Bucht.",
       hu: "Kicsi, zord vulkanikus sziget a Ghoubbet-öböl közepén.",
@@ -5547,7 +5529,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
       hu: "Garbi-hegy",
       ro: "Muntele Garbi",
       en: "Mount Garbi"},
-    image: "/poi-images/mount-garbi-nature-v2.webp",
     description: {
       de: "Ein markanter Gipfel in der Dikhil-Region, umgeben von Wüstenlandschaften.",
       hu: "Jelentős hegycsúcs Dikhil régióban, sivatagi tájjal körülvéve.",
@@ -5712,7 +5693,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
       hu: "Allols-mélyföld",
       ro: "Depresiunea Allols",
       en: "Allols Depression"},
-    image: "/poi-images/allols-depression-nature-v2.webp",
     description: {
       de: "Eine tektonische Senke mit mehreren Salzpfannen und heißen Quellen.",
       hu: "Tektonikus mélyedés több sós síksággal és forró forrással.",

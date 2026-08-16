@@ -449,7 +449,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-QC",
     coords: [-73.5562, 45.5045],
     name: { de: "Notre-Dame-Basilika (Montreal)", hu: "Notre-Dame bazilika (Montréal)", ro: "Bazilica Notre-Dame (Montreal)", en: "Notre-Dame Basilica (Montreal)"},
-    image: "/poi-images/notre-dame-basilica-montreal-landmarks-v2.webp",
     description: { de: "Eine prächtige neugotische Basilika in der Altstadt von Montreal.", hu: "Pompás neogótikus bazilika Montréal óvárosában.", ro: "O magnifică bazilică neogotică în vechiul Montreal.", en: "A stunning Gothic Revival basilica in Old Montreal." , es: "Una magnífica basílica neogótica situada en el casco antiguo de Montreal.", pt: "Uma magnífica basílica neogótica na zona histórica de Montreal.", fr: "Une magnifique basilique néogothique située dans le Vieux-Montréal."},
     facts: {
       de: ["Berühmt für ihre tiefblaue Decke", "Entworfen von James O'Donnell", "Zwei hohe Glockentürme", "Licht- und Soundshow 'AURA'"],
@@ -1753,7 +1752,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-QC",
     coords: [-73.6169, 45.4926],
     name: { de: "St.-Josephs-Oratorium", hu: "Szent József-oratórium", ro: "Oratoriul Sfântul Iosif", en: "Saint Joseph's Oratory"},
-    image: "/poi-images/saint-josephs-oratory-landmarks-v2.webp",
     description: { de: "Eine römisch-katholische Basilika auf dem Mount Royal in Montreal.", hu: "Római katolikus bazilika a Mount Royalon, Montréalban.", ro: "O bazilică romano-catolică pe Muntele Royal din Montreal.", en: "A Roman Catholic minor basilica on Mount Royal in Montreal." , es: "Una basílica católica romana en el Mount Royal de Montreal.", pt: "Uma basílica católica romana no Mount Royal, em Montreal.", fr: "Une basilique catholique romaine située sur le mont Royal à Montréal."},
     facts: {
       de: ["Größte Kirche Kanadas", "Massive Kuppel, eine der größten der Welt", "Pilgerstätte für Heilung", "Gegründet vom Heiligen Bruder André"],
@@ -1977,7 +1975,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-PE",
     coords: [-63.7483, 46.2081],
     name: { de: "Confederation Bridge", hu: "Konföderáció-híd", ro: "Podul Confederației", en: "Confederation Bridge"},
-    image: "/poi-images/confederation-bridge-landmarks-v2.webp",
     description: { de: "Die Confederation Bridge verbindet Prince Edward Island mit New Brunswick.", hu: "A Konföderáció-híd Prince Edward-szigetet köti össze a szárazfölddel. Hosszú, egyenletes ívével Kanada egyik legismertebb mérnöki alkotása.", ro: "O capodoperă a ingineriei care leagă Insula Prințului Edward de New Brunswick peste apele înghețate ale strâmtorii Northumberland.", en: "An engineering marvel connecting Prince Edward Island to New Brunswick across the Abegweit Passage." , es: "El Puente de la Confederación conecta la Isla del Príncipe Eduardo con Nuevo Brunswick.", pt: "A Ponte da Confederação conecta a Ilha do Príncipe Eduardo a New Brunswick.", fr: "Le pont de la Confédération relie l'Île-du-Prince-Édouard au Nouveau-Brunswick."},
     facts: {
       de: ["12,9 Kilometer lang", "Verbindet PEI und New Brunswick", "Ganzjährig befahrbar"],
@@ -2129,7 +2126,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-AB",
     coords: [-114.0631, 51.0443],
     name: { de: "Calgary Tower", hu: "Calgary Tower", ro: "Turnul Calgary", en: "Calgary Tower"},
-    image: "/poi-images/calgary-tower-landmarks-v2.webp",
     description: { de: "Ein 191 Meter hoher Aussichtsturm in der Innenstadt von Calgary.", hu: "191 méter magas kilátótorony Calgary belvárosában.", ro: "Un turn de observație de 191 de metri în centrul orașului Calgary.", en: "A 191-metre observation tower in downtown Calgary." , es: "Una torre de observación de 191 metros de altura en el centro de Calgary.", pt: "Uma torre de observação de 191 metros de altura no centro da cidade de Calgary.", fr: "Une tour d'observation de 191 mètres de haut située dans le centre-ville de Calgary."},
     facts: {
       de: ["Panoramablick auf die Stadt und die Rockies", "Glasboden-Aussichtsplattform", "Drehrestaurant an der Spitze", "Olympische Flamme während der Spiele 1988"],
@@ -2533,7 +2529,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-ON",
     coords: [-79.3894, 43.6414],
     name: { de: "Rogers Centre", hu: "Rogers Centre", ro: "Rogers Centre", en: "Rogers Centre"},
-    image: "/poi-images/rogers-centre-landmarks-v2.webp",
     description: { de: "Ein Mehrzweckstadion in Toronto mit dem weltweit ersten voll funktionsfähigen Schiebedach.", hu: "Többcélú stadion Torontóban, a világ első teljesen működőképes, behúzható tetejével.", ro: "Un stadion multifuncțional din Toronto cu primul acoperiș retractabil complet funcțional din lume.", en: "A multi-purpose stadium in Toronto with the world's first fully retractable roof." , es: "Un estadio multiusos en Toronto con el primer techo retráctil totalmente funcional del mundo.", pt: "Um estádio multiuso em Toronto com o primeiro teto retrátil totalmente funcional do mundo.", fr: "Un stade polyvalent à Toronto doté du premier toit rétractable entièrement fonctionnel au monde."},
     facts: {
       de: ["Heimat der Toronto Blue Jays (MLB)", "Ehemals SkyDome genannt", "Neben dem CN Tower gelegen", "Beherbergt Konzerte und Veranstaltungen"],
@@ -3549,7 +3544,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-AB",
     coords: [-114.052, 51.0375],
     name: { de: "Scotiabank Saddledome", hu: "Scotiabank Saddledome", ro: "Scotiabank Saddledome", en: "Scotiabank Saddledome"},
-    image: "/poi-images/scotiabank-saddledome-landmarks-v2.webp",
     description: { de: "Eine ikonische Arena in Calgary, bekannt für ihr sattelförmiges Dach.", hu: "Ikonikus aréna Calgaryban, nyereg alakú tetejéről ismert.", ro: "O arenă iconică din Calgary, cunoscută pentru acoperișul său în formă de șa.", en: "An iconic arena in Calgary, known for its saddle-shaped roof." , es: "Un pabellón icónico en Calgary, conocido por su techo en forma de silla de montar.", pt: "Uma arena icónica em Calgary, conhecida pelo seu teto em forma de sela.", fr: "Une arène emblématique de Calgary, connue pour son toit en forme de selle."},
     facts: {
       de: ["Heimat der Calgary Flames (NHL)", "Hauptveranstaltungsort der Calgary Stampede", "Dach in Form eines hyperbolischen Paraboloids", "Erbaut für die Olympischen Winterspiele 1988"],
@@ -4170,7 +4164,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-QC",
     coords: [-73.5516, 45.5586],
     name: { de: "Olympiastadion Montreal", hu: "Olimpiai Stadion (Montréal)", ro: "Stadionul Olimpic din Montreal", en: "Montreal Olympic Stadium"},
-    image: "/poi-images/olympic-stadium-montreal-landmarks-v2.webp",
     description: { de: "Das Stadion wurde für die Olympischen Sommerspiele 1976 gebaut und hat den höchsten geneigten Turm der Welt.", hu: "Az 1976-os nyári olimpiára épült stadion, a világ legmagasabb ferde tornyával.", ro: "Construit pentru Jocurile Olimpice de vară din 1976, acest stadion iconic are cel mai înalt turn înclinat din lume.", en: "Built for the 1976 Summer Olympics, it features the world's tallest inclined tower." , es: "El estadio fue construido para los Juegos Olímpicos de Verano de 1976 y posee la torre inclinada más alta del mundo.", pt: "O estádio foi construído para os Jogos Olímpicos de Verão de 1976 e tem a torre inclinada mais alta do mundo.", fr: "Le stade a été construit pour les Jeux olympiques d'été de 1976 et possède la plus haute tour inclinée au monde."},
     facts: {
       de: ["Spitzname 'The Big O'", "Schrägster Turm der Welt (165 m)", "Ehemalige Heimat der Montreal Expos (MLB)", "Schiebedach wurde nie voll funktionsfähig"],
@@ -5295,7 +5288,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-BC",
     coords: [-123.112, 49.2767],
     name: { de: "BC Place Stadium", hu: "BC Place Stadion", ro: "Stadionul BC Place", en: "BC Place Stadium"},
-    image: "/poi-images/bc-place-stadium-landmarks-v2.webp",
     description: { de: "Ein Mehrzweckstadion in Vancouver mit einem Schiebedach, das von Kabeln getragen wird.", hu: "Többcélú stadion Vancouverben, kábelekkel támogatott, behúzható tetővel.", ro: "Un stadion multifuncțional spectaculos din Vancouver, cunoscut pentru acoperișul său retractabil susținut de cabluri, cel mai mare de acest tip.", en: "A multi-purpose stadium in Vancouver with a cable-supported retractable roof." , es: "Un estadio multiusos en Vancouver con un techo retráctil sostenido por cables.", pt: "Um estádio multiuso em Vancouver com um teto retrátil sustentado por cabos.", fr: "Un stade polyvalent à Vancouver doté d'un toit rétractable soutenu par des câbles."},
     facts: {
       de: ["Heimat der BC Lions (CFL) und Vancouver Whitecaps FC (MLS)", "Größtes luftgestütztes Schiebedach der Welt", "Veranstaltungsort für Eröffnungs- und Abschlussfeiern der Olympiade 2010", "Charakteristische 'Kissen'-Optik bei Nacht"],
@@ -6600,7 +6592,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-QC",
     coords: [-73.5498, 45.5001],
     name: { de: "Habitat 67", hu: "Habitat 67", ro: "Habitat 67", en: "Habitat 67"},
-    image: "/poi-images/habitat-67-landmarks-v2.webp",
     description: { de: "Ein ikonischer Wohnkomplex in Montreal, entworfen von Moshe Safdie für die Expo 67.", hu: "Ikonikus lakókomplexum Montréalban, Moshe Safdie tervezte az Expo 67-re.", ro: "Un complex rezidențial iconic din Montreal, proiectat de Moshe Safdie pentru Expo 67.", en: "An iconic housing complex in Montreal, designed by Moshe Safdie for Expo 67." , es: "Un icónico complejo residencial en Montreal, diseñado por Moshe Safdie para la Expo 67.", pt: "Um complexo residencial icónico em Montreal, concebido por Moshe Safdie para a Expo 67.", fr: "Un complexe résidentiel emblématique à Montréal, conçu par Moshe Safdie pour l'Expo 67."},
     facts: {
       de: ["Besteht aus 354 vorgefertigten Betonmodulen", "Brutalistisches architektonisches Wahrzeichen", "Jede Wohnung hat einen eigenen Dachgarten", "Entworfen als Masterarbeit"],
@@ -7941,7 +7932,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-ON",
     coords: [-75.6989, 45.4295],
     name: { de: "Nationalgalerie von Kanada", hu: "Kanadai Nemzeti Galéria", ro: "Galeria Națională a Canadei", en: "National Gallery of Canada"},
-    image: "/poi-images/national-gallery-of-canada-landmarks-v2.webp",
     description: { de: "Kanadas nationales Kunstmuseum in Ottawa, entworfen von Moshe Safdie.", hu: "Kanada nemzeti művészeti múzeuma Ottawában, Moshe Safdie tervezésében.", ro: "Muzeul național de artă al Canadei din Ottawa, proiectat de Moshe Safdie.", en: "Canada's national art museum in Ottawa, designed by Moshe Safdie." , es: "El museo nacional de arte de Canadá en Ottawa, diseñado por Moshe Safdie.", pt: "O museu nacional de arte do Canadá em Otava, concebido por Moshe Safdie.", fr: "Le musée d'art national du Canada à Ottawa, conçu par Moshe Safdie."},
     facts: {
       de: ["Gebäude aus Glas und rosa Granit", "Beherbergt die Skulptur 'Maman' (Spinne)", "Umfangreiche Sammlung kanadischer und Inuit-Kunst", "Große Halle mit Blick auf Parliament Hill"],
@@ -9246,7 +9236,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-ON",
     coords: [-79.3948, 43.6677],
     name: { de: "Royal Ontario Museum", hu: "Királyi Ontario Múzeum", ro: "Muzeul Regal Ontario", en: "Royal Ontario Museum"},
-    image: "/poi-images/royal-ontario-museum-landmarks-v2.webp",
     description: { de: "Ein großes Museum in Toronto, bekannt für seine Mischung aus historischer und moderner Architektur.", hu: "Nagy múzeum Torontóban, a történelmi és modern építészet keverékéről ismert.", ro: "Cel mai mare muzeu din Canada, faimos pentru arhitectura sa ce îmbină clădirea istorică cu structura modernă „The Crystal”.", en: "A major museum in Toronto, known for its mix of historic and modern architecture." , es: "Un gran museo en Toronto, conocido por su mezcla de arquitectura histórica y moderna.", pt: "Um grande museu em Toronto, conhecido pela sua mistura de arquitetura histórica e moderna.", fr: "Un grand musée à Toronto, connu pour son mélange d'architecture historique et moderne."},
     facts: {
       de: ["Spitzname 'ROM'", "Michael Lee-Chin Crystal Anbau", "Umfassende Sammlungen zu Weltkulturen und Naturgeschichte", "Kanadas größtes Museum"],
@@ -9471,7 +9460,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-MB",
     coords: [-97.1306, 49.891],
     name: { de: "Kanadisches Museum für Menschenrechte", hu: "Kanadai Emberi Jogi Múzeum", ro: "Muzeul Canadian pentru Drepturile Omului", en: "Canadian Museum for Human Rights"},
-    image: "/poi-images/canadian-museum-for-human-rights-landmarks-v2.webp",
     description: { de: "Ein nationales Museum in Winnipeg mit markanter Architektur.", hu: "Nemzeti múzeum Winnipegben, jellegzetes építészettel.", ro: "Un muzeu național în Winnipeg cu o arhitectură distinctivă.", en: "A national museum in Winnipeg with striking architecture." , es: "Un museo nacional en Winnipeg con una arquitectura distintiva.", pt: "Um museu nacional em Winnipeg com uma arquitetura marcante.", fr: "Un musée national à Winnipeg à l'architecture remarquable."},
     facts: {
       de: ["Das erste Nationalmuseum außerhalb der Hauptstadtregion", "Entworfen von Antoine Predock", "Tower of Hope Aussichtsplattform", "Fokus auf Menschenrechtsgeschichten"],
@@ -10452,7 +10440,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-QC",
     coords: [-71.2046, 46.8122],
     name: { de: "Fairmont Le Château Frontenac", hu: "Fairmont Le Château Frontenac", ro: "Fairmont Le Château Frontenac", en: "Fairmont Le Château Frontenac"},
-    image: "/poi-images/fairmont-le-chateau-frontenac-landmarks-v2.webp",
     description: { de: "Ein historisches Hotel in Quebec City, das oft als das meistfotografierte Hotel der Welt bezeichnet wird.", hu: "Történelmi szálloda Quebec Cityben, amelyet gyakran a világ legtöbbet fényképezett szállodájának neveznek.", ro: "Un hotel istoric din Quebec City, adesea descris ca fiind cel mai fotografiat hotel din lume.", en: "A historic hotel in Quebec City, often cited as the world's most photographed hotel." , es: "Un hotel histórico en la ciudad de Quebec, a menudo citado como el hotel más fotografiado del mundo.", pt: "Um hotel histórico na cidade do Quebeque, muitas vezes referido como o hotel mais fotografado do mundo.", fr: "Un hôtel historique de Québec, souvent décrit comme l'hôtel le plus photographié au monde."},
     facts: {
       de: ["Im Stil eines Schlosses der Loire erbaut", "Dominiert die Skyline von Quebec City", "Eines der großen Eisenbahnhotels Kanadas", "UNESCO-Weltkulturerbe als Teil der Altstadt"],
@@ -11865,7 +11852,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-ON",
     coords: [-79.4097, 43.678],
     name: { de: "Casa Loma", hu: "Casa Loma", ro: "Casa Loma", en: "Casa Loma"},
-    image: "/poi-images/casa-loma-landmarks-v2.webp",
     description: { de: "Ein schlossartiges Herrenhaus im neugotischen Stil in Toronto.", hu: "Neogótikus stílusú, kastélyszerű kúria Torontóban.", ro: "Un castel impunător în stil neogotic din Toronto, construit ca reședință privată la începutul secolului XX, acum un muzeu popular.", en: "A Gothic Revival style mansion and garden in midtown Toronto." , es: "Una mansión de estilo neogótico similar a un castillo en Toronto.", pt: "Uma mansão em estilo neogótico semelhante a um castelo em Toronto.", fr: "Un manoir de style néogothique aux allures de château situé à Toronto."},
     facts: {
       de: ["Erbaut von Sir Henry Pellatt", "Bedeutet 'Haus auf dem Hügel' auf Spanisch", "Beliebter Drehort für Filme", "Heute ein Museum und Veranstaltungsort"],
@@ -12846,7 +12832,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-ON",
     coords: [-79.3832, 43.6532],
     name: { de: "Toronto City Hall", hu: "Torontói városháza", ro: "Primăria Toronto", en: "Toronto City Hall"},
-    image: "/poi-images/toronto-city-hall-landmarks-v2.webp",
     description: { de: "Ein markantes modernistisches Gebäude am Nathan Phillips Square.", hu: "Jellegzetes modernista épület a Nathan Phillips téren.", ro: "O clădire modernistă distinctivă în Piața Nathan Phillips.", en: "A distinctive modernist building located at Nathan Phillips Square." , es: "Un llamativo edificio modernista en Nathan Phillips Square.", pt: "Um edifício modernista marcante na Nathan Phillips Square.", fr: "Un bâtiment moderniste remarquable situé sur Nathan Phillips Square."},
     facts: {
       de: ["Entworfen vom finnischen Architekten Viljo Revell", "Besteht aus zwei gekrümmten Türmen", "Umschließt die zentrale Ratskammer", "Beliebter öffentlicher Platz mit Eislaufbahn"],
@@ -14259,7 +14244,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-BC",
     coords: [-123.1444, 49.3139],
     name: { de: "Lions Gate Bridge", hu: "Lions Gate híd", ro: "Podul Lions Gate", en: "Lions Gate Bridge"},
-    image: "/poi-images/lions-gate-bridge-landmarks-v2.webp",
     description: { de: "Eine Hängebrücke, die die Stadt Vancouver mit North und West Vancouver verbindet.", hu: "Függőhíd, amely Vancouver városát köti össze North és West Vancouverrel.", ro: "Un pod suspendat care leagă orașul Vancouver de North și West Vancouver.", en: "A suspension bridge that connects the City of Vancouver to North and West Vancouver." , es: "Un puente colgante que conecta la ciudad de Vancouver con North y West Vancouver.", pt: "Uma ponte suspensa que liga a cidade de Vancouver a North e West Vancouver.", fr: "Un pont suspendu qui relie la ville de Vancouver à North et West Vancouver."},
     facts: {
       de: ["Überquert den Burrard Inlet", "Benannt nach den 'Lions'-Gipfeln in der Nähe", "Nationale historische Stätte Kanadas", "Oft in Filmen und Fernsehsendungen zu sehen"],
@@ -14376,7 +14360,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-ON",
     coords: [-75.6998, 45.425],
     name: { de: "Friedensturm (Ottawa)", hu: "Béke-torony (Ottawa)", ro: "Turnul Păcii (Ottawa)", en: "Peace Tower (Ottawa)"},
-    image: "/poi-images/peace-tower-ottawa-landmarks-v2.webp",
     description: { de: "Ein Glocken- und Uhrturm im Zentrum des Parlamentsgebäudes in Ottawa.", hu: "Harang- és óratorony az ottawai parlament központi épületében.", ro: "Un turn cu clopot și ceas în centrul clădirii Parlamentului din Ottawa.", en: "A bell and clock tower in the centre of the Parliament buildings in Ottawa." , es: "Una torre de reloj y campanas en el centro del edificio del Parlamento en Ottawa.", pt: "Uma torre de relógio e carrilhão no centro do edifício do Parlamento em Ottawa.", fr: "Une tour d'horloge et de cloches située au centre de l'édifice du Parlement à Ottawa."},
     facts: {
       de: ["92,2 Meter hoch", "Symbol des Friedens und des Gedenkens", "Beherbergt ein Carillon mit 53 Glocken", "Aussichtsplattform mit Blick auf die Stadt"],
@@ -15753,7 +15736,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-ON",
     coords: [-79.4147, 43.6275],
     name: { de: "Ontario Place Cinesphere", hu: "Ontario Place Cinesphere", ro: "Ontario Place Cinesphere", en: "Ontario Place Cinesphere"},
-    image: "/poi-images/ontario-place-cinesphere-landmarks-v2.webp",
     description: { de: "Das weltweit erste permanente IMAX-Kino in Toronto.", hu: "A világ első állandó IMAX mozija Torontóban.", ro: "Primul cinematograf IMAX permanent din lume, situat în Toronto.", en: "The world's first permanent IMAX theatre, located in Toronto." , es: "El primer cine IMAX permanente del mundo, ubicado en Toronto.", pt: "O primeiro cinema IMAX permanente do mundo, localizado em Toronto.", fr: "La toute première salle de cinéma IMAX permanente au monde à Toronto."},
     facts: {
       de: ["Teil des Ontario Place Komplexes", "Geodätische Kuppelstruktur", "Zeigt Filme im IMAX-Format", "Architektonisches Wahrzeichen der 1970er Jahre"],
@@ -16446,7 +16428,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-ON",
     coords: [-75.6845, 44.587],
     name: { de: "Brockville Eisenbahntunnel", hu: "Brockville-i vasúti alagút", ro: "Tunelul feroviar Brockville", en: "Brockville Railway Tunnel"},
-    image: "/poi-images/brockville-railway-tunnel-landmarks-v2.webp",
     description: { de: "Kanadas erster Eisenbahntunnel, heute eine Touristenattraktion.", hu: "Kanada első vasúti alagútja, ma turisztikai látványosság.", ro: "Primul tunel feroviar din Canada, acum o atracție turistică.", en: "Canada's first railway tunnel, now a tourist attraction." , es: "El primer túnel ferroviario de Canadá, hoy una atracción turística.", pt: "O primeiro túnel ferroviário do Canadá, hoje uma atração turística.", fr: "Le premier tunnel ferroviaire du Canada, devenu aujourd'hui une attraction touristique."},
     facts: {
       de: ["Erbaut zwischen 1854 und 1860", "Über 500 Meter lang", "Verfügt über eine farbenfrohe LED-Lichtshow", "Teil des Brock Trail"],
@@ -17067,7 +17048,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-ON",
     coords: [-79.3835, 43.6525],
     name: { de: "Toronto-Schild", hu: "Toronto felirat", ro: "Semnul Toronto", en: "Toronto Sign"},
-    image: "/poi-images/toronto-sign-landmarks-v2.webp",
     description: { de: "Ein leuchtendes 3D-Schild am Nathan Phillips Square vor dem Rathaus.", hu: "Világító 3D felirat a Nathan Phillips téren, a városháza előtt.", ro: "Un semn 3D iluminat în Piața Nathan Phillips, în fața Primăriei.", en: "An illuminated 3D sign in Nathan Phillips Square, in front of City Hall." , es: "Un letrero luminoso en 3D en Nathan Phillips Square, frente al ayuntamiento.", pt: "Um letreiro 3D iluminado na Nathan Phillips Square, em frente à prefeitura.", fr: "Une enseigne 3D lumineuse sur Nathan Phillips Square, devant l'hôtel de ville."},
     facts: {
       de: ["Installiert für die Panamerikanischen Spiele 2015", "Sehr beliebter Fotopunkt", "Wechselt die Farben für besondere Anlässe", "Spiegelt sich im Pool davor"],
@@ -18300,7 +18280,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-AB",
     coords: [-114.085, 51.0525],
     name: { de: "Friedensbrücke (Calgary)", hu: "Béke-híd (Calgary)", ro: "Podul Păcii (Calgary)", en: "Peace Bridge (Calgary)"},
-    image: "/poi-images/calgary-peace-bridge-landmarks-v2.webp",
     description: { de: "Eine markante Fußgänger- und Radfahrerbrücke über den Bow River.", hu: "Jellegzetes gyalogos- és kerékpároshíd a Bow folyó felett.", ro: "Un pod pietonal și pentru bicicliști distinctiv peste râul Bow.", en: "A distinctive pedestrian and cycle bridge over the Bow River." , es: "Un llamativo puente para peatones y ciclistas sobre el río Bow.", pt: "Uma ponte marcante para pedestres e ciclistas sobre o rio Bow.", fr: "Un pont remarquable pour piétons et cyclistes traversant la rivière Bow."},
     facts: {
       de: ["Entworfen vom spanischen Architekten Santiago Calatrava", "Röhrenförmiges Design in Rot und Weiß", "Keine Stützen im Flussbett", "Verbindet die Innenstadt mit dem Stadtteil Sunnyside"],
@@ -18813,7 +18792,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-ON",
     coords: [-79.3708, 43.6489],
     name: { de: "Gooderham Building", hu: "Gooderham-épület", ro: "Clădirea Gooderham", en: "Gooderham Building"},
-    image: "/poi-images/gooderham-building-landmarks-v2.webp",
     description: { de: "Das markante Flatiron Building in Toronto ist ein architektonisches Juwel aus dem späten 19. Jahrhundert im St. Lawrence Market Viertel.", hu: "Toronto egyik ikonikus, \"vasaló\" alakú téglaépülete, amely 1892-ben épült a pénzügyi negyed szélén.", ro: "O clădire istorică de tip \\\"Flatiron\\\" în Toronto.", en: "An iconic red-brick flatiron building in Toronto located at the intersection of Front and Wellington." , es: "El llamativo edificio Flatiron de Toronto es una joya arquitectónica de finales del siglo XIX situada en el barrio de St. Lawrence Market.", pt: "O marcante edifício Flatiron de Toronto é uma joia arquitetónica do final do século XIX, situado no bairro de St. Lawrence Market.", fr: "L'emblématique édifice Flatiron de Toronto est un joyau architectural de la fin du XIXe siècle situé dans le quartier de St. Lawrence Market."},
     facts: {
       de: ["Erbaut im Jahr 1892", "Bekannt für seine charakteristische Keilform", "Wandgemälde auf der Rückseite erzeugt optische Täuschung"],
@@ -18966,7 +18944,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-NB",
     coords: [-67.5278, 46.295],
     name: { de: "Hartland Covered Bridge", hu: "Hartlandi fedett híd", ro: "Podul acoperit Hartland", en: "Hartland Covered Bridge"},
-    image: "/poi-images/hartland-covered-bridge-landmarks-v2.webp",
     description: { de: "Die Hartland Bridge in New Brunswick ist die längste überdachte Brücke der Welt und ein Symbol für kanadische Ingenieurskunst.", hu: "A világ leghosszabb fedett hídja New Brunswickben.", ro: "Cel mai lung pod acoperit din lume, în New Brunswick.", en: "The world's longest covered bridge, located in New Brunswick." , es: "El puente de Hartland en Nuevo Brunswick es el puente cubierto más largo del mundo y un símbolo de la ingeniería canadiense.", pt: "A ponte de Hartland, em New Brunswick, é a ponte coberta mais longa do mundo e um símbolo da engenharia canadiana.", fr: "Le pont de Hartland, au Nouveau-Brunswick, est le plus long pont couvert au monde et un symbole de l'ingénierie canadienne."},
     facts: {
       de: ["Erstreckt sich über 391 Meter", "Überquert den Saint John River", "Nationale historische Stätte seit 1980"],
@@ -20415,7 +20392,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-NS",
     coords: [-63.585, 44.663],
     name: { de: "Angus L. Macdonald Bridge", hu: "Angus L. Macdonald híd", ro: "Podul Angus L. Macdonald", en: "Angus L. Macdonald Bridge"},
-    image: "/poi-images/macdonald-bridge-halifax-landmarks-v2.webp",
     description: { de: "Diese imposante Hängebrücke verbindet Halifax mit Dartmouth und prägt das Stadtbild der Küstenmetropole in Nova Scotia.", hu: "Függőhíd, amely Halifaxot és Dartmouthot köti össze a kikötő felett.", ro: "Un pod suspendat iconic care traversează portul Halifax, legând centrul orașului de Dartmouth și oferind vederi panoramice superbe.", en: "A major suspension bridge connecting Halifax and Dartmouth across the Halifax Harbour." , es: "Este imponente puente colgante conecta Halifax con Dartmouth y define el paisaje de la metrópoli costera de Nueva Escocia.", pt: "Esta imponente ponte suspensa liga Halifax a Dartmouth e molda a paisagem urbana da metrópole costeira na Nova Escócia.", fr: "Cet imposant pont suspendu relie Halifax à Dartmouth et façonne le paysage urbain de la métropole côtière de la Nouvelle-Écosse."},
     facts: {
       de: ["Eröffnet im Jahr 1955", "Überquert den Hafen von Halifax", "Bietet separate Wege für Fußgänger und Radfahrer"],
@@ -21648,7 +21624,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-MB",
     coords: [-97.1461, 49.8844],
     name: { de: "Manitoba Legislative Building", hu: "Manitoba Törvényhozási Épület", ro: "Clădirea Legislativă din Manitoba", en: "Manitoba Legislative Building"},
-    image: "/poi-images/winnipeg-legislative-building-landmarks-v2.webp",
     description: { de: "Der Sitz der gesetzgebenden Versammlung von Manitoba in Winnipeg.", hu: "Manitoba törvényhozó gyűlésének székhelye Winnipegben.", ro: "Sediul Adunării Legislative din Manitoba, renumit pentru arhitectura sa neoclasică și statuia aurie „Golden Boy” de pe cupolă.", en: "The seat of the Legislative Assembly of Manitoba, located in Winnipeg." , es: "La sede de la Asamblea Legislativa de Manitoba en Winnipeg.", pt: "A sede da Assembleia Legislativa de Manitoba em Winnipeg.", fr: "Le siège de l'Assemblée législative du Manitoba à Winnipeg."},
     facts: {
       de: ["Neoklassizistische Architektur", "Gekrönt von der 'Golden Boy'-Statue", "Enthält hermetische und freimaurerische Symbole", "Erbaut aus Tyndall-Stein"],
@@ -22773,7 +22748,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-SK",
     coords: [-104.605, 50.4344],
     name: { de: "Saskatchewan Legislative Building", hu: "Saskatchewan Törvényhozási Épület", ro: "Clădirea Legislativă din Saskatchewan", en: "Saskatchewan Legislative Building"},
-    image: "/poi-images/saskatchewan-legislative-building-landmarks-v2.webp",
     description: { de: "Ein monumentales Gebäude im Beaux-Arts-Stil in Regina.", hu: "Monumentális Beaux-Arts stílusú épület Reginában.", ro: "O clădire monumentală în stil Beaux-Arts din Regina.", en: "A monumental Beaux-Arts style building located in Regina." , es: "Un edificio monumental de estilo Beaux-Arts en Regina.", pt: "Um edifício monumental em estilo Beaux-Arts em Regina.", fr: "Un bâtiment monumental de style Beaux-Arts à Regina."},
     facts: {
       de: ["Blick auf den Wascana Lake", "Kreuzförmiger Grundriss", "Enthält 34 verschiedene Marmorarten", "Umgaben von Wascana Centre Parklandschaft"],
@@ -24186,7 +24160,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-AB",
     coords: [-113.486, 53.541],
     name: { de: "Edmonton Standseilbahn", hu: "Edmontoni sikló", ro: "Funicularul din Edmonton", en: "Edmonton Funicular"},
-    image: "/poi-images/edmonton-funicular-landmarks-v2.webp",
     description: { de: "Eine gläserne Standseilbahn, die die Innenstadt mit dem Flusstal verbindet.", hu: "Üveg sikló, amely összeköti a belvárost a folyóvölggyel.", ro: "Un funicular de sticlă care leagă centrul orașului de valea râului.", en: "An incline elevator that provides easy access between downtown Edmonton and the North Saskatchewan River Valley." , es: "Un funicular de cristal que conecta el centro de la ciudad con el valle del río.", pt: "Um funicular de vidro que liga o centro da cidade ao vale do rio.", fr: "Un funiculaire en verre reliant le centre-ville à la vallée de la rivière."},
     facts: {
       de: ["Mechanisierter Aufzug für alle zugänglich", "Panoramablick auf das North Saskatchewan River Valley", "Verbindet mit einem Aussichtspunkt und einer Brücke", "Kostenlos zu benutzen"],
@@ -25491,7 +25464,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-ON",
     coords: [-79.358, 43.676],
     name: { de: "Prince Edward Viaduct", hu: "Prince Edward viadukt", ro: "Viaductul Prince Edward", en: "Prince Edward Viaduct"},
-    image: "/poi-images/prince-edward-viaduct-toronto-landmarks-v2.webp",
     description: { de: "Eine Bogenbrücke in Toronto, bekannt für ihre Suizidpräventionsbarriere.", hu: "Ívhíd Torontóban, öngyilkosság-megelőzési korlátjáról ismert.", ro: "Un pod în arc din Toronto, cunoscut pentru bariera sa de prevenire a sinuciderilor.", en: "An arch bridge in Toronto, known for its suicide prevention barrier." , es: "Un puente de arco en Toronto, conocido por su barrera de prevención de suicidios.", pt: "Uma ponte em arco em Toronto, conhecida pela sua barreira de prevenção do suicídio.", fr: "Un pont en arc à Toronto, connu pour sa barrière de prévention du suicide."},
     facts: {
       de: ["Überquert das Don River Valley", "Auch als Bloor Viaduct bekannt", "Zweistöckig für Autos und U-Bahn", "Luminous Veil Sicherheitsbarriere"],

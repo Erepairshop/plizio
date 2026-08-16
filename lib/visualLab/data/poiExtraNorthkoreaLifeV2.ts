@@ -184,7 +184,6 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/pyongyang-central-zoo-life-v2.webp",
     description: {
       de: "Der Nationalzoo Nordkoreas, gegründet 1959. Er beherbergt eine Vielzahl von Tierarten aus der ganzen Welt.",
       hu: "Észak-Korea nemzeti állatkertje, 1959-ben alapították. Számos állatfajnak ad otthont a világ minden tájáról.",
@@ -349,7 +348,6 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/taesongsan-amusement-park-life-v2.webp",
     description: {
       de: "Ein Vergnügungspark am Berg Taesong, der verschiedene Fahrgeschäfte und Attraktionen für Familien und Kinder bietet.",
       hu: "Vidámpark a Teszong-hegyen, amely különféle játékokat és látnivalókat kínál családoknak és gyerekeknek.",
@@ -397,7 +395,6 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/sukchon-agriculture-collective-life-v2.webp",
     description: {
       de: "Ein Beispiel für eine kollektive Farm in der Provinz Süd-Pyongan, die Getreide und Gemüse anbaut.",
       hu: "Példa egy kollektív gazdaságra Dél-Phjongan tartományban, amely gabonát és zöldségeket termeszt.",
@@ -886,7 +883,6 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/moranbong-park-life-v2.webp",
     description: {
       de: "Ein beliebter Park im Zentrum von Pjöngjang, bekannt für seine schönen Landschaften und historischen Pavillons.",
       hu: "Népszerű park Phenjan központjában, gyönyörű tájairól és történelmi pavilonjairól ismert.",
@@ -979,7 +975,6 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/ryongmun-cave-park-life-v2.webp",
     description: {
       de: "Ein Naturpark, der ein ausgedehntes Karsthöhlensystem mit beeindruckenden Felsformationen umgibt.",
       hu: "Természeti park, amely egy kiterjedt karsztbarlang-rendszert vesz körül, lenyűgöző sziklaképződményekkel.",
@@ -1069,7 +1064,6 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       ro: ["Situat în provincia Hwanghae de Sud, pe coasta de vest.", "Fondat în 1967 prin fuzionarea mai multor unități agricole.", "Numele districtului a fost ales special în onoarea producției de fructe.", "Cuprinde o suprafață cultivată de peste 8.000 de hectare de livezi.", "Produce anual zeci de mii de tone de mere și pere.", "Găzduiește o fabrică modernă pentru producția de gemuri de fructe."],
       en: ["Located in South Hwanghae Province on the west coast.", "Established in 1967 through the merger of several farms.", "The county's name was specifically chosen to honor fruit production.", "Covers a cultivation area of over 8,000 hectares of orchards.", "Produces tens of thousands of tons of apples and pears annually.", "Home to a modern factory for the production of fruit jams."],
     }, },
-    image: "/poi-images/kwail-county-orchards-life-v2.webp",
     description: {
       de: "Eine Region, die für ihre riesigen Obstplantagen bekannt ist. Der Name 'Kwail' bedeutet auf Koreanisch 'Frucht'.",
       hu: "Hatalmas gyümölcsültetvényeiről ismert régió. A 'Kjail' név koreaiul 'gyümölcs'-öt jelent.",
@@ -1117,7 +1111,6 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/majon-beach-resort-life-v2.webp",
     description: {
       de: "Ein Strandresort in der Nähe von Hamhung mit einem Sandstrand und Badeeinrichtungen, das bei Einheimischen beliebt ist.",
       hu: "Strandfürdő Hamhung közelében, homokos stranddal és fürdési lehetőségekkel, amely a helyiek körében népszerű.",
@@ -1165,7 +1158,6 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/mundok-migratory-bird-reserve-life-v2.webp",
     description: {
       de: "Ein wichtiges Feuchtgebiet an der Westküste, das als entscheidender Rastplatz für Zugvögel auf der ostasiatisch-australasiatischen Flugroute dient.",
       hu: "Fontos vizes élőhely a nyugati parton, amely a kelet-ázsiai-ausztrálázsiai vonulási útvonalon haladó vándormadarak döntő pihenőhelye.",
@@ -1330,7 +1322,6 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/ryongaksan-pleasure-ground-life-v2.webp",
     description: {
       de: "Ein großer Naturpark am Berg Ryongak am westlichen Stadtrand von Pjöngjang, der zum Wandern und zur Erholung genutzt wird.",
       hu: "Nagy természeti park a Rjongak-hegyen, Phenjan nyugati peremén, amelyet túrázásra és kikapcsolódásra használnak.",
@@ -1424,7 +1415,6 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       ro: ["Situată pe râul Changja în provincia muntoasă Chagang.", "Specializată în creșterea peștilor de apă rece, cum ar fi păstrăvul curcubeu.", "Ferma utilizează curenții naturali de apă pentru curățarea bazinelor.", "Producție anuală de câteva sute de tone de pește de consum.", "Include un sistem automatizat pentru monitorizarea calității apei.", "Un proiect important pentru creșterea aportului de proteine în nord."],
       en: ["Located along the Changja River in the mountainous Chagang Province.", "Specializes in breeding cold-water fish such as rainbow trout.", "The farm utilizes natural water currents for pond cleaning.", "Annual production of several hundred tons of food fish.", "Features an automated system for monitoring water quality.", "A key project for increasing protein supply in the northern regions."],
     }, },
-    image: "/poi-images/changja-river-fish-farm-life-v2.webp",
     description: {
       de: "Eine Aquakulturanlage in der Provinz Chagang, die sich auf die Zucht von Süßwasserfischen zur Versorgung der Region konzentriert.",
       hu: "Akvakultúra-létesítmény Csagang tartományban, amely édesvízi halak tenyésztésére összpontosít a régió ellátása érdekében.",
@@ -1625,7 +1615,6 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/wonsan-youth-park-life-v2.webp",
     description: {
       de: "Ein öffentlicher Park in Wonsan, der Erholungsflächen, Sportanlagen und Grünflächen für die Bewohner der Stadt bietet.",
       hu: "Nyilvános park Vonszanban, amely rekreációs területeket, sportlétesítményeket és zöldterületeket kínál a város lakóinak.",
@@ -2150,7 +2139,6 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/mankyongdae-funfair-life-v2.webp",
     description: {
       de: "Ein Vergnügungspark im Bezirk Mangyongdae von Pjöngjang, der Fahrgeschäfte und Spiele für Besucher bietet.",
       hu: "Vidámpark Phenjan Mangjongde kerületében, amely játékokat és szórakozási lehetőségeket kínál a látogatóknak.",
@@ -2243,7 +2231,6 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/north-korea-ginseng-farm-kaesong-life-v2.webp",
     description: {
       de: "Eine Farm in der Region Kaesong, die sich auf den Anbau des berühmten koreanischen Ginsengs spezialisiert hat, der für seine medizinischen Eigenschaften bekannt ist.",
       hu: "Egy gazdaság a keszongi régióban, amely a híres koreai ginzeng termesztésére szakosodott, ami gyógyászati tulajdonságairól ismert.",
@@ -2291,7 +2278,6 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/songdowon-international-childrens-camp-life-v2.webp",
     description: {
       de: "Ein großes Sommerlager in Wonsan für nordkoreanische und internationale Kinder, das kulturellen Austausch fördert.",
       hu: "Nagy nyári tábor Vonszanban észak-koreai és nemzetközi gyermekek számára, amely a kulturális cserét hirdeti.",
@@ -2384,7 +2370,6 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/taesong-reservoir-fishing-area-life-v2.webp",
     description: {
       de: "Ein großer Stausee in der Nähe von Pjöngjang, der als Erholungsgebiet zum Angeln und Bootfahren dient.",
       hu: "Nagy víztározó Phenjan közelében, amely horgászatra és csónakázásra szolgáló rekreációs területként funkcionál.",
@@ -2474,7 +2459,6 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       ro: ["Parcul a fost finalizat în decembrie 2011 și inaugurat în 2012.", "Cuprinde o suprafață de aproximativ 30 de hectare la poalele muntelui Songak.", "Complexul este împărțit în secțiuni de la preistorie până în epoca modernă.", "Există replici ale pagodelor faimoase și ale mausoleelor regilor Koryo.", "Un element central este parcul de miniaturi cu modele ale monumentelor nord-coreene.", "Kaesong a fost capitala regatului Koryo timp de aproape 500 de ani."],
       en: ["The park was completed in December 2011 and opened to the public in 2012.", "It covers an area of approximately 30 hectares at the base of Mount Songak.", "The grounds are divided into zones representing prehistory through the modern era.", "It features replicas of famous pagodas and the mausoleums of Koryo kings.", "A major attraction is the miniature park with models of North Korean monuments.", "Kaesong served as the capital of the Koryo Dynasty for nearly 500 years."],
     }, },
-    image: "/poi-images/kaesong-folklore-park-life-v2.webp",
     description: {
       de: "Ein Park, der traditionelle koreanische Architektur, Bräuche und Lebensweisen aus der Koryo-Dynastie zeigt.",
       hu: "Egy park, amely a Korjo-dinasztia hagyományos koreai építészetét, szokásait és életmódját mutatja be.",
@@ -2675,7 +2659,6 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/samjiyon-potato-farms-life-v2.webp",
     description: {
       de: "Großflächige Kartoffelfarmen in der kühlen Region Samjiyon, die als Modell für die moderne Landwirtschaft des Landes gelten.",
       hu: "Nagyméretű burgonyafarmok a hűvös Szamdzsijon régióban, amelyeket az ország modern mezőgazdaságának mintaképeként tartanak számon.",
@@ -2873,7 +2856,6 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       ro: ["Parcul este situat pe o peninsulă care înaintează în golful Wonsan.", "Este renumit pentru pinii săi antici și formațiunile stâncoase bizare.", "Numeroase pavilioane în stil tradițional oferă vedere spre mare.", "În apropiere se află gara din Wonsan și portul orașului.", "Parcul servește ca zonă de recreere pentru cei peste 300.000 de locuitori ai orașului.", "Wonsan este cunoscut pentru climatul său blând în comparație cu interiorul țării."],
       en: ["The park is located on a peninsula jutting into Wonsan Bay.", "It is famous for its stands of ancient pine trees and unique rock formations.", "Numerous traditional-style pavilions offer scenic views over the sea.", "The park is situated close to the Wonsan railway station and the harbor.", "It serves as a primary local retreat for the city's 300,000 residents.", "Wonsan is noted for its relatively mild climate compared to the hinterland."],
     }, },
-    image: "/poi-images/kumgang-park-wonsan-life-v2.webp",
     description: {
       de: "Ein öffentlicher Park in der Küstenstadt Wonsan, benannt nach dem berühmten Kumgang-Gebirge, der als Erholungsort dient.",
       hu: "Nyilvános park Vonszan tengerparti városában, a híres Kumgang-hegységről elnevezve, amely pihenőhelyként szolgál.",

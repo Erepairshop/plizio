@@ -17,7 +17,6 @@ export const poiExtraGabonReliefV2: POI[] = [
       hu: "A Bateke-fennsík egy hatalmas homokkőplató Gabon délkeleti részén, amely több mint 2000 négyzetkilométeren terül el. A területet jellemző szavannás tájat mély, erodált völgyek szabdalják, amelyek látványos kontrasztot alkotnak a környező trópusi esőerdőkkel. Ez a geológiai képződmény különleges élőhely számos ritka faj számára, és fontos szerepet játszik az ország vízháztartásában."},
     factsAdvanced: {
       hu: ["A fennsík átlagos magassága 500-800 méter.", "Területének nagy részét száraz szavanna borítja.", "A talaj főként vörös homokkőből áll.", "Fontos vízválasztó az Ogooué-folyó medencéjében.", "A területen számos endemikus növényfaj él.", "A fennsík az ősi kereskedelmi útvonalak kereszteződése volt."] } },
-    image: "/poi-images/bateke-plateau-relief-v2.webp",
     description: {
       de: "Ein weitläufiges Hochplateau aus Sandstein an der Grenze zum Kongo, geprägt von tiefen Tälern und Savannen.",
       hu: "Hatalmas homokkő fennsík a kongói határon, amelyet mély völgyek és szavannák tarkítanak.",
@@ -104,7 +103,6 @@ export const poiExtraGabonReliefV2: POI[] = [
       pt: ["O cânion situa-se no leste da província de Haut-Ogooué, perto da fronteira com o Congo.", "A coloração vermelha das paredes deve-se à oxidação de minerais de ferro.", "Léconi fica a cerca de 100 quilómetros da capital provincial, Franceville.", "A erosão progride continuamente devido ao arenito solto.", "O circo forma uma barreira natural na savana, de outra forma plana.", "Nas proximidades encontram-se dois cânions, o 'Vermelho' e o 'Branco'."],
       fr: ["Le canyon est situé dans l'est de la province du Haut-Ogooué, près de la frontière congolaise.", "La coloration rouge des parois est due à l'oxydation des minéraux de fer.", "Léconi se trouve à environ 100 kilomètres de la capitale provinciale, Franceville.", "L'érosion progresse de manière constante en raison de la friabilité du grès.", "Le cirque forme une barrière naturelle dans la savane par ailleurs plate.", "À proximité se trouvent deux canyons, le canyon 'rouge' et le canyon 'blanc'."],
     }, },
-    image: "/poi-images/leconi-canyon-relief-v2.webp",
     description: {
       de: "Ein spektakuläres geologisches Amphitheater mit leuchtend roten Sandsteinfelsen und bizarren Erosionsformen.",
       hu: "Látványos geológiai amfiteátrum élénkvörös homokkő sziklákkal és bizarr eróziós formákkal.",
@@ -152,7 +150,6 @@ export const poiExtraGabonReliefV2: POI[] = [
       pt: ["O Monte Bengoué é a montanha mais alta do Gabão com 1070 metros.", "Situa-se na remota província de Ogooué-Ivindo, no nordeste.", "A montanha consiste principalmente em formações rochosas pré-cambrianas.", "A precipitação anual na montanha é superior à das áreas circundantes.", "Até à década de 1980, o Monte Iboundji era frequentemente citado erradamente como a montanha mais alta.", "A ascensão requer uma expedição de vários dias através de terreno difícil."],
       fr: ["Le mont Bengoué est le point culminant du Gabon avec 1 070 mètres.", "Il se trouve dans la province isolée de l'Ogooué-Ivindo, au nord-est.", "La montagne se compose principalement de formations rocheuses précambriennes.", "La pluviométrie annuelle sur le mont est supérieure à celle des environs.", "Jusque dans les années 1980, le mont Iboundji était souvent cité à tort comme le plus haut.", "Son ascension nécessite une expédition de plusieurs jours en terrain accidenté."],
     }, },
-    image: "/poi-images/mont-bengoue-relief-v2.webp",
     description: {
       de: "Mit etwa 1.070 Metern der höchste Berg Gabons, gelegen im Nordosten des Landes.",
       hu: "Gabon legmagasabb pontja, körülbelül 1070 méter magas, az ország északkeleti részén található.",
@@ -202,7 +199,6 @@ export const poiExtraGabonReliefV2: POI[] = [
       pt: ["A cordilheira estende-se por um comprimento total de cerca de 550 quilómetros.", "A maior elevação da cadeia atinge cerca de 830 metros acima do nível do mar.", "A região regista precipitação anual entre 1200 e 2000 mm.", "A rocha consiste principalmente em granito, gnaisse e xisto do Proterozoico.", "As montanhas albergam a Reserva da Biosfera Luki na RD Congo.", "Rios importantes como o Kouilou-Niari nascem ou correm através destas montanhas."],
       fr: ["La chaîne de montagnes s'étend sur une longueur totale d'environ 550 kilomètres.", "Le point culminant de la chaîne atteint environ 830 mètres au-dessus du niveau de la mer.", "La région enregistre des précipitations annuelles comprises entre 1 200 et 2 000 mm.", "La roche se compose principalement de granit, de gneiss et de schiste du Protérozoïque.", "Les montagnes abritent la réserve de biosphère de Luki en RD Congo.", "Des rivières importantes comme le Kouilou-Niari prennent leur source ou traversent ce massif."],
     }, },
-    image: "/poi-images/mayombe-range-relief-v2.webp",
     description: {
       de: "Eine niedrige Bergkette, die sich parallel zur Atlantikküste durch den Süden Gabons zieht.",
       hu: "Alacsony hegylánc, amely az Atlanti-óceán partjával párhuzamosan húzódik Gabon déli részén.",
@@ -299,7 +295,6 @@ export const poiExtraGabonReliefV2: POI[] = [
       pt: ["O maciço atinge uma altura máxima de cerca de 980 metros.", "Pertence ao maciço de Chaillu, que se estende até ao Congo.", "As formações de granito datam do Paleoproterozoico.", "Cai aqui uma média anual de mais de 2500 mm de precipitação.", "A área é uma das mais chuvosas do centro do Gabão.", "O Monte Iboundji, outrora considerado o mais alto do Gabão, fica próximo."],
       fr: ["Le massif atteint une altitude maximale d'environ 980 mètres.", "Il appartient au massif du Chaillu, qui s'étend jusqu'au Congo.", "Les formations granitiques datent du Paléoprotérozoïque.", "Il y tombe en moyenne plus de 2 500 mm de précipitations par an.", "La zone est l'une des plus pluvieuses du centre du Gabon.", "Le mont Iboundji, autrefois présumé point culminant du Gabon, est à proximité."],
     }, },
-    image: "/poi-images/koumouna-bouali-relief-v2.webp",
     description: {
       de: "Ein markantes Bergmassiv in der Provinz Ngounié, das die Landschaft dominiert.",
       hu: "Jellegzetes hegymasszívum Ngounié tartományban, amely meghatározza a tájképet.",
@@ -347,7 +342,6 @@ export const poiExtraGabonReliefV2: POI[] = [
       pt: ["O Monte Mimongo atinge uma altitude exata de 860 metros.", "Situa-se a cerca de 450 quilómetros a sudeste da capital, Libreville.", "A temperatura média na região de Mimongo é de 24,5 °C.", "A montanha pertence à formação geológica do Maciço de Chaillu.", "A precipitação anual média é de 1950 mm.", "Existem depósitos significativos de minério de ferro nas proximidades."],
       fr: ["Le mont Mimongo culmine à exactement 860 mètres d'altitude.", "Il est situé à environ 450 kilomètres au sud-est de la capitale, Libreville.", "La température moyenne dans la région de Mimongo est de 24,5 °C.", "La montagne fait partie de la formation géologique du massif du Chaillu.", "Les précipitations annuelles moyennes s'élèvent à 1 950 mm.", "D'importants gisements de minerai de fer se trouvent dans les environs."],
     }, },
-    image: "/poi-images/mont-mimongo-relief-v2.webp",
     description: {
       de: "Ein isolierter Gipfel in der Nähe der Stadt Mimongo, umgeben von dichtem Primärwald.",
       hu: "Szigetként kiemelkedő hegycsúcs Mimongo városa közelében, sűrű őserdővel körülvéve.",
@@ -395,7 +389,6 @@ export const poiExtraGabonReliefV2: POI[] = [
       pt: ["O maciço atinge picos de quase 1000 metros acima do nível do mar.", "Localiza-se geograficamente na transição entre as províncias de Ogooué-Lolo e Ngounié.", "As formações rochosas pertencem ao complexo Nord-Chaillu.", "A área está coberta em quase 98 % por floresta tropical densa.", "Numerosos riachos nascentes do sistema fluvial do Ogooué nascem aqui.", "O maciço não tem estradas e é acessível apenas através de trilhos fluviais."],
       fr: ["Le massif culmine à près de 1 000 mètres d'altitude.", "Il se situe géographiquement à la transition entre les provinces de l'Ogooué-Lolo et de la Ngounié.", "Les formations rocheuses appartiennent au complexe du Nord-Chaillu.", "La zone est couverte à près de 98 % par une forêt tropicale dense.", "De nombreux ruisseaux sources du système fluvial de l'Ogooué y prennent naissance.", "Le massif est largement dépourvu de routes et accessible uniquement par des sentiers fluviaux."],
     }, },
-    image: "/poi-images/ikoundou-massif-relief-v2.webp",
     description: {
       de: "Ein Teil des Chaillu-Gebirges, bekannt für seine steilen Hänge und mineralreichen Gesteine.",
       hu: "A Chaillu-hegység része, meredek lejtőiről és ásványokban gazdag kőzeteiről ismert.",
@@ -492,7 +485,6 @@ export const poiExtraGabonReliefV2: POI[] = [
       pt: ["O rio Rembo-Nkomi tem uma extensão estimada em 120 quilómetros.", "A área faz fronteira com a zona protegida de Petit-Loango.", "Populações raras de crocodilos-de-focinho-delgado vivem nos manguezais.", "A região regista uma humidade que frequentemente excede os 85%.", "A lagoa Fernan-Vaz é uma das maiores zonas de águas salobras do Gabão.", "Existem aqui sitatungas da floresta (antílopes do pântano) especializados."],
       fr: ["La rivière Rembo-Nkomi a une longueur estimée à 120 kilomètres.", "La zone est limitrophe de la réserve du Petit-Loango.", "Des populations rares de crocodiles à nuque cuirassée vivent dans les mangroves.", "La région enregistre un taux d'humidité dépassant souvent 85 %.", "La lagune Fernan-Vaz est l'une des plus grandes zones d'eau saumâtre du Gabon.", "On y trouve des sitatungas de forêt (antilopes des marais) spécialisés."],
     }, },
-    image: "/poi-images/rembo-nkomi-forest-relief-v2.webp",
     description: {
       de: "Ein riesiges Sumpfwaldgebiet in der Nähe der Küstenlagunen, geprägt von Wasserläufen und Mangroven.",
       hu: "Hatalmas mocsári erdő a parti lagúnák közelében, vízfolyásokkal és mangrove-erdőkkel.",
@@ -589,7 +581,6 @@ export const poiExtraGabonReliefV2: POI[] = [
       pt: ["O rio Okano tem um comprimento total de cerca de 280 quilómetros.", "A floresta situa-se predominantemente na província de Woleu-Ntem.", "A produção anual de biomassa está entre as mais elevadas da bacia do Congo.", "A região é o lar do petauro do Gabão (espécie rara).", "As principais espécies de árvores são Okoumé, Ozigo e Moabi.", "A área é acessível quase exclusivamente por rios ou caminhos florestais."],
       fr: ["La rivière Okano a une longueur totale d'environ 280 kilomètres.", "La forêt est située principalement dans la province de Woleu-Ntem.", "La production annuelle de biomasse est l'une des plus élevées du bassin du Congo.", "La région abrite le planeur du Gabon (espèce rare).", "Les essences d'arbres importantes sont l'Okoumé, l'Ozigo et le Moabi.", "La zone est accessible presque exclusivement par voie fluviale ou pistes forestières."],
     }, },
-    image: "/poi-images/okano-rainforest-relief-v2.webp",
     description: {
       de: "Ein dichter, feuchter Regenwald im Norden Gabons, bekannt für seine riesigen Okoumé-Bäume.",
       hu: "Sűrű, párás esőerdő Gabon északi részén, amely hatalmas Okoumé-fáiról ismert.",
@@ -637,7 +628,6 @@ export const poiExtraGabonReliefV2: POI[] = [
       pt: ["O rio Abanga tem um comprimento de cerca de 160 quilómetros.", "A floresta estende-se pelas províncias de Estuaire e Moyen-Ogooué.", "As quedas de água de Kinguélé localizam-se perto da bacia do Abanga.", "A região recebe anualmente uma média de 2200 mm de chuva.", "A densidade de Okoumé na floresta de Abanga é uma das mais elevadas do Gabão.", "A área é um corredor importante para elefantes de floresta migrantes."],
       fr: ["La rivière Abanga a une longueur d'environ 160 kilomètres.", "La forêt s'étend sur les provinces de l'Estuaire et du Moyen-Ogooué.", "Les chutes de Kinguélé se trouvent à proximité du bassin de l'Abanga.", "La région reçoit en moyenne 2 200 mm de pluie par an.", "La densité d'Okoumé dans la forêt de l'Abanga est l'une des plus élevées du Gabon.", "La zone est un corridor important pour les éléphants de forêt migrateurs."],
     }, },
-    image: "/poi-images/abanga-forest-relief-v2.webp",
     description: {
       de: "Ein üppiger Regenwald entlang des Abanga-Flusses mit einer extrem hohen Baumdichte.",
       hu: "Bujja esőerdő az Abanga-folyó mentén, rendkívül sűrű faállománnyal.",
@@ -685,7 +675,6 @@ export const poiExtraGabonReliefV2: POI[] = [
       pt: ["Parte do Parque Nacional Moukalaba-Doudou, fundado em 2002.", "Alberga uma população de cerca de 5.000 gorilas-planálticos-ocidentais.", "A área protegida abrange uma superfície de cerca de 4.500 quilómetros quadrados.", "A topografia atinge altitudes de até 600 metros acima do nível do mar.", "Habitat importante para o ameaçado elefante-da-floresta.", "A precipitação na região é superior a 2.000 mm anuais."],
       fr: ["Fait partie du parc national de Moukalaba-Doudou, créé en 2002.", "Abrite une population d'environ 5 000 gorilles des plaines de l'ouest.", "La zone protégée couvre une superficie d'environ 4 500 km².", "La topographie culmine à 600 mètres au-dessus du niveau de la mer.", "Habitat crucial pour l'éléphant de forêt, espèce menacée.", "La pluviométrie dans la région dépasse les 2 000 mm par an."],
     }, },
-    image: "/poi-images/moukalaba-forest-relief-v2.webp",
     description: {
       de: "Ein Mosaik aus Wald und Savanne im Südwesten, das einen Übergang zwischen zwei Ökosystemen bildet.",
       hu: "Erdő és szavanna mozaikja délnyugaton, amely átmenetet képez két ökoszisztéma között.",
@@ -733,7 +722,6 @@ export const poiExtraGabonReliefV2: POI[] = [
       pt: ["O planalto consiste principalmente em arenito pré-cambriano.", "A altitude média situa-se entre 500 e 800 metros.", "O Parque Nacional Plateaux Batéké foi fundado no ano de 2002.", "Em 2015, um leão foi novamente avistado na área após muito tempo.", "O planalto serve como uma importante divisória de águas para a bacia do Ogooué.", "Abrange uma área de mais de 2.000 quilómetros quadrados no Gabão."],
       fr: ["Le plateau est principalement composé de grès précambrien.", "L'altitude moyenne se situe entre 500 et 800 mètres.", "Le parc national des Plateaux Batéké a été créé en 2002.", "En 2015, un lion a été de nouveau aperçu dans la zone après une longue absence.", "Les hauts plateaux constituent une ligne de partage des eaux cruciale pour le bassin de l'Ogooué.", "Le site couvre une superficie de plus de 2 000 kilomètres carrés au Gabon."],
     }, },
-    image: "/poi-images/bateke-highlands-relief-v2.webp",
     description: {
       de: "Die höher gelegenen Teile des Batéké-Plateaus, die eine kargere, aber faszinierende Landschaft bieten.",
       hu: "A Batéké-fennsík magasabban fekvő részei, amelyek kopárabb, de lenyűgöző tájat kínálnak.",
@@ -920,7 +908,6 @@ export const poiExtraGabonReliefV2: POI[] = [
       pt: ["Os cânions formaram-se através da erosão do planalto de arenito Batéké.", "Os tons da areia resultam de diferentes concentrações de óxido de ferro.", "A profundidade dos desfiladeiros atinge em alguns pontos mais de 100 metros.", "Situam-se nas imediações da fronteira com a República do Congo.", "As formações são localmente conhecidas também como 'Cirque de Lékoni'.", "A área é um importante centro espiritual para o povo Batéké."],
       fr: ["Les canyons sont nés de l'érosion du plateau de grès des Batéké.", "Les teintes du sable résultent de diverses concentrations d'oxyde de fer.", "La profondeur des gorges atteint par endroits plus de 100 mètres.", "Ils sont situés à proximité immédiate de la frontière avec la République du Congo.", "Les formations sont également appelées localement 'Cirque de Léconi'.", "La zone est un centre spirituel majeur pour le peuple Batéké."],
     }, },
-    image: "/poi-images/mpassa-canyons-relief-v2.webp",
     description: {
       de: "Tiefe, durch den Fluss M'Passa geformte Schluchten im Sandsteinplateau von Franceville.",
       hu: "Mély, az M'Passa-folyó által vájt szurdokok a Franceville-i homokkőfennsíkon.",
@@ -968,7 +955,6 @@ export const poiExtraGabonReliefV2: POI[] = [
       pt: ["O rio Ikoy tem cerca de 150 km de comprimento e atravessa a área florestal.", "A região abriga reservas importantes da árvore Okoumé.", "A precipitação anual é frequentemente superior a 2000 mm.", "A floresta serve como corredor de migração para elefantes de floresta africanos.", "A altitude média do terreno é de 300 metros.", "A área faz parte da bacia hidrográfica maior do rio Ngounié."],
       fr: ["La rivière Ikoy mesure environ 150 km de long et traverse la zone forestière.", "La région abrite d'importants peuplements d'Okoumé.", "Les précipitations annuelles dépassent souvent les 2 000 mm.", "La forêt sert de corridor de migration pour les éléphants de forêt d'Afrique.", "L'altitude moyenne du terrain est de 300 mètres.", "La zone fait partie du grand bassin versant de la rivière Ngounié."],
     }, },
-    image: "/poi-images/ikoy-forest-relief-v2.webp",
     description: {
       de: "Ein ausgedehntes Waldgebiet im Zentrum des Landes, das eine wichtige ökologische Brücke bildet.",
       hu: "Kiterjedt erdőség az ország közepén, amely fontos ökológiai hidat alkot.",
@@ -1016,7 +1002,6 @@ export const poiExtraGabonReliefV2: POI[] = [
       pt: ["Os inselbergs são compostos por rocha granítica arcaica.", "O Parque Nacional de Minkébé abrange uma área de 7.500 km².", "Os monólitos elevam-se até 500 metros acima da copa das árvores.", "A região foi declarada parque nacional no ano de 2002.", "Outrora, a área albergava mais de 20.000 elefantes-da-floresta.", "Não existem assentamentos humanos permanentes no interior do parque."],
       fr: ["Les inselbergs sont composés de roches granitiques archéennes.", "Le parc national de Minkébé s'étend sur une superficie de 7 500 km².", "Les monolithes s'élèvent jusqu'à 500 mètres au-dessus de la canopée.", "La région a été classée parc national en 2002.", "Le territoire a abrité autrefois plus de 20 000 éléphants de forêt.", "Il n'y a aucun établissement humain permanent à l'intérieur du parc."],
     }, },
-    image: "/poi-images/minkebe-inselbergs-relief-v2.webp",
     description: {
       de: "Einzeln stehende Granitberge, die wie Inseln aus dem dichten Kronendach des Regenwaldes herausragen.",
       hu: "Különálló gránithegyek, amelyek szigetként emelkednek ki az esőerdő sűrű lombkoronájából.",

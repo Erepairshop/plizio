@@ -12,7 +12,6 @@ export const poiExtraChileNatureV2: POI[] = [
       hu: "Torres del Paine Nemzeti Park",
       ro: "Parcul Național Torres del Paine",
       en: "Torres del Paine National Park"},
-    image: "/poi-images/parque-nacional-torres-del-paine-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Nationalpark Torres del Paine in der chilenischen Region Magallanes gilt als eines der spektakulärsten Naturwunder der Welt. Er wurde 1959 gegründet und erstreckt sich über 227.000 Hektar patagonischer Wildnis, geprägt durch monumentale Granitspitzen, riesige Gletscher und türkisfarbene Seen. Die namensgebenden drei Granittürme (Torres) sind das Wahrzeichen des Parks und ein Magnet für Bergsteiger und Wanderer. Zu den weiteren Höhepunkten zählen das Cuernos del Paine Massiv und der Grey-Gletscher, der Teil des Südlichen Patagonischen Eisfeldes ist. Die Tierwelt ist außergewöhnlich vielfältig, mit großen Populationen von Guanakos, Nandus und dem schwer fassbaren Puma. Aufgrund seiner ökologischen Bedeutung wurde der Park 1978 von der UNESCO zum Biosphärenreservat erklärt. Wanderrouten wie der 'W-Trek' oder der 'O-Circuit' gehören zu den berühmtesten Fernwanderwegen der Welt und ziehen jährlich hunderttausende Besucher an. Trotz seiner Beliebtheit bleibt der Park ein streng geschütztes Gebiet, das die ungezähmte Schönheit Patagoniens in ihrer reinsten Form bewahrt.",
       hu: "A chilei Magallanes régióban található Torres del Paine Nemzeti Park a világ egyik leglátványosabb természeti csodája. Az 1959-ben alapított park 227 000 hektárnyi patagóniai vadont foglal magában, amelyet monumentális gránitcsúcsok, hatalmas gleccserek és türkizkék tavak jellemeznek. A névadó három gránittorony (Torres) a park jelképe, amely mágnesként vonzza a hegymászókat és túrázókat. További kiemelkedő látnivalók közé tartozik a Cuernos del Paine masszívum és a Grey-gleccser, amely a déli patagóniai jégmező része. Az állatvilág rendkívül változatos: nagy létszámú guanako- és nandu-populációk élnek itt, valamint a rejtőzködő puma is előfordul. Ökológiai jelentősége miatt az UNESCO 1978-ban bioszféra-rezervátummá nyilvánította a területet. A 'W-túra' és az 'O-körút' a világ leghíresebb távolsági túraútvonalai közé tartoznak, évente látogatók százezreit vonzzák. Népszerűsége ellenére a park szigorúan védett terület marad, amely tisztaságában őrzi Patagónia zabolátlan szépségét.",
@@ -58,7 +57,6 @@ export const poiExtraChileNatureV2: POI[] = [
       hu: "Conguillío Nemzeti Park",
       ro: "Parcul Național Conguillío",
       en: "Conguillío National Park"},
-    image: "/poi-images/parque-nacional-conguillio-nature-v2.webp",
     description: {
       de: "Ein spektakulärer Park in den Araukarienwäldern, dominiert vom Vulkan Llaima.",
       hu: "Lélegzetelállító park az araukáriaerdőkben, amelyet a Llaima vulkán ural.",
@@ -105,7 +103,6 @@ export const poiExtraChileNatureV2: POI[] = [
       hu: "Queulat Nemzeti Park",
       ro: "Parcul Național Queulat",
       en: "Queulat National Park"},
-    image: "/poi-images/parque-nacional-queulat-nature-v2.webp",
     description: {
       de: "Bekannt für seinen berühmten Hängegletscher, eingebettet in einen dichten patagonischen Regenwald.",
       hu: "Híres függőgleccseréről, amely sűrű patagóniai esőerdőben található.",
@@ -152,7 +149,6 @@ export const poiExtraChileNatureV2: POI[] = [
       hu: "Vicente Pérez Rosales Nemzeti Park",
       ro: "Parcul Național Vicente Pérez Rosales",
       en: "Vicente Pérez Rosales National Park"},
-    image: "/poi-images/parque-nacional-vicente-perez-rosales-nature-v2.webp",
     description: {
       de: "Der älteste Nationalpark Chiles mit den beeindruckenden Petrohué-Wasserfällen und dem Osorno-Vulkan.",
       hu: "Chile legrégebbi nemzeti parkja a lenyűgöző Petrohué-vízesésekkel és az Osorno vulkánnal.",
@@ -199,7 +195,6 @@ export const poiExtraChileNatureV2: POI[] = [
       hu: "Atacama-sivatag",
       ro: "Deșertul Atacama",
       en: "Atacama Desert"},
-    image: "/poi-images/desierto-de-atacama-nature-v2.webp",
     description: {
       de: "Die trockenste Wüste der Welt mit faszinierenden Salzseen, Geysiren und klarem Sternenhimmel.",
       hu: "A világ legszárazabb sivataga, lenyűgöző sóstavakkal, gejzírekkel és tiszta csillagos égbolttal.",
@@ -615,7 +610,6 @@ export const poiExtraChileNatureV2: POI[] = [
       hu: "Chiloé Nemzeti Park",
       ro: "Parcul Național Chiloé",
       en: "Chiloé National Park"},
-    image: "/poi-images/parque-nacional-chiloé-nature-v2.webp",
     description: {
       de: "Ein Park an der Westküste der Insel Chiloé, der für seine dichten Regenwälder, Dünen und die pazifische Küste bekannt ist.",
       hu: "Park Chiloé szigetének nyugati partján, amely sűrű esőerdőiről, dűnéiről és csendes-óceáni partjáról ismert.",

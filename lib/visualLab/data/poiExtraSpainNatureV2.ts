@@ -52,8 +52,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-AN",
     type: "peak",
     name: { de: "Mulhacén", hu: "Mulhacén", ro: "Mulhacén", en: "Mulhacén"},
-    image: "/poi-images/spain-mulhacen-nature-v2.webp",
-    coords: [-3.311, 37.053],
     coords: [-3.311, 37.053],
     description: {
       de: "Der Mulhacén ist mit 3479 Metern der höchste Gipfel der Iberischen Halbinsel und liegt im Nationalpark Sierra Nevada in Andalusien.",
@@ -288,8 +286,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-AS",
     type: "park",
     name: { de: "Picos de Europa", hu: "Picos de Europa", ro: "Picos de Europa", en: "Picos de Europa"},
-    image: "/poi-images/spain-picos-de-europa-nature-v2.webp",
-    coords: [-4.85, 43.19],
     coords: [-4.85, 43.19],
     description: {
       de: "Das Picos de Europa-Massiv ist Teil des Kantabrischen Gebirges und beherbergt den ältesten Nationalpark Spaniens mit spektakulären Kalksteinformationen.",
@@ -668,8 +664,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-AN",
     type: "valley",
     name: { de: "Wüste von Tabernas", hu: "Tabernas-sivatag", ro: "Deșertul Tabernas", en: "Tabernas Desert"},
-    image: "/poi-images/spain-tabernas-desert-nature-v2.webp",
-    coords: [-2.43, 37.04],
     coords: [-2.43, 37.04],
     description: {
       de: "Die Wüste von Tabernas in der Provinz Almería gilt als die einzige echte Wüste auf dem europäischen Kontinent mit einer einzigartigen Badlands-Landschaft.",
@@ -715,8 +709,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-AR",
     type: "park",
     name: { de: "Ordesa y Monte Perdido", hu: "Ordesa és Monte Perdido", ro: "Ordesa și Monte Perdido", en: "Ordesa y Monte Perdido"},
-    image: "/poi-images/spain-ordesa-monte-perdido-nature-v2.webp",
-    coords: [0.05, 42.67],
     coords: [0.05, 42.67],
     description: {
       de: "Dieser Nationalpark in den Pyrenäen zeichnet sich durch tiefe Canyons, hohe Gipfel wie den Monte Perdido und eine reiche alpine Flora aus.",
@@ -1059,8 +1051,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-CT",
     type: "river",
     name: { de: "Ebro", hu: "Ebro", ro: "Ebro", en: "Ebro River"},
-    image: "/poi-images/spain-ebro-river-nature-v2.webp",
-    coords: [0.81, 40.72],
     coords: [0.81, 40.72],
     description: {
       de: "Der Ebro ist der wasserreichste Fluss Spaniens und fließt vom Kantabrischen Gebirge bis in das Mittelmeer, wo er ein großes Delta bildet.",
@@ -1331,8 +1321,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-EX",
     type: "river",
     name: { de: "Tajo", hu: "Tajo", ro: "Tajo", en: "Tagus River"},
-    image: "/poi-images/spain-tagus-river-nature-v2.webp",
-    coords: [-7.53, 39.66],
     coords: [-7.53, 39.66],
     description: {
       de: "Der Tajo ist der längste Fluss der Iberischen Halbinsel und entspringt in den Bergen von Albarracín, bevor er durch Toledo nach Lissabon fließt.",
@@ -1675,8 +1663,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-AN",
     type: "park",
     name: { de: "Cabo de Gata-Níjar", hu: "Cabo de Gata-Níjar", ro: "Cabo de Gata-Níjar", en: "Cabo de Gata-Níjar"},
-    image: "/poi-images/spain-cabo-de-gata-nature-v2.webp",
-    coords: [-2.2, 36.72],
     coords: [-2.2, 36.72],
     description: {
       de: "Dieser Naturpark in Almería ist eines der trockensten Gebiete Europas und bekannt für seine vulkanischen Klippen und unberührten Strände.",
@@ -1875,8 +1861,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-AR",
     type: "peak",
     name: { de: "Aneto", hu: "Aneto", ro: "Aneto", en: "Aneto"},
-    image: "/poi-images/spain-aneto-nature-v2.webp",
-    coords: [0.65, 42.63],
     coords: [0.65, 42.63],
     description: {
       de: "Der Aneto ist mit 3404 Metern der höchste Berg der Pyrenäen und beherbergt den größten Gletscher Spaniens.",
@@ -2003,8 +1987,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-MD",
     type: "park",
     name: { de: "Sierra de Guadarrama", hu: "Sierra de Guadarrama", ro: "Sierra de Guadarrama", en: "Sierra de Guadarrama"},
-    image: "/poi-images/spain-guadarrama-nature-v2.webp",
-    coords: [-3.95, 40.85],
     coords: [-3.95, 40.85],
     description: {
       de: "Die Sierra de Guadarrama ist eine Gebirgskette im Zentralsystem Spaniens und dient als wichtiges Erholungsgebiet für die nahegelegene Stadt Madrid.",
@@ -2311,8 +2293,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-CL",
     type: "lake",
     name: { de: "Sanabria-See", hu: "Sanabria-tó", ro: "Lacul Sanabria", en: "Lake Sanabria"},
-    image: "/poi-images/spain-lake-sanabria-nature-v2.webp",
-    coords: [-6.71, 42.12],
     coords: [-6.71, 42.12],
     description: {
       de: "Der Sanabria-See in der Provinz Zamora ist der größte glaziale See auf der Iberischen Halbinsel und ein beliebtes Ziel für Wassersport.",
@@ -2619,8 +2599,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-GA",
     type: "park",
     name: { de: "Nationalpark Islas Atlánticas", hu: "Islas Atlánticas Nemzeti Park", ro: "Parcul Național Islas Atlánticas", en: "Atlantic Islands of Galicia National Park"},
-    image: "/poi-images/spain-islas-atlanticas-nature-v2.webp",
-    coords: [-8.93, 42.22],
     coords: [-8.93, 42.22],
     description: {
       de: "Dieser Meeres-Nationalpark in Galicien umfasst die Inselgruppen Cíes, Ons, Sálvora und Cortegada und schützt wichtige Seevogelkolonien.",
@@ -2927,8 +2905,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-AN",
     type: "landmark",
     name: { de: "Caminito del Rey", hu: "Caminito del Rey", ro: "Caminito del Rey", en: "Caminito del Rey"},
-    image: "/poi-images/spain-caminito-del-rey-nature-v2.webp",
-    coords: [-4.77, 36.91],
     coords: [-4.77, 36.91],
     description: {
       de: "Der Caminito del Rey ist ein spektakulärer Klettersteig, der an den steilen Wänden einer engen Schlucht in der Provinz Málaga befestigt ist.",
@@ -3271,8 +3247,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-CL",
     type: "landmark",
     name: { de: "Las Médulas", hu: "Las Médulas", ro: "Las Médulas", en: "Las Médulas"},
-    image: "/poi-images/spain-las-medulas-nature-v2.webp",
-    coords: [-6.76, 42.46],
     coords: [-6.76, 42.46],
     description: {
       de: "Las Médulas ist eine historische Bergbaulandschaft in Kastilien und León, die durch römische Goldminen und massive Erdbewegungen entstand.",
@@ -3471,8 +3445,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-NC",
     type: "park",
     name: { de: "Bardenas Reales", hu: "Bardenas Reales", ro: "Bardenas Reales", en: "Bardenas Reales"},
-    image: "/poi-images/spain-bardenas-reales-nature-v2.webp",
-    coords: [-1.5, 42.18],
     coords: [-1.5, 42.18],
     description: {
       de: "Die Bardenas Reales sind eine halbwüstenartige Landschaft in Navarra mit bizarren Felsformationen, Plateaus und Schluchten.",
@@ -3707,8 +3679,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-CT",
     type: "mountain",
     name: { de: "Montserrat", hu: "Montserrat", ro: "Montserrat", en: "Montserrat"},
-    image: "/poi-images/spain-montserrat-nature-v2.webp",
-    coords: [1.83, 41.59],
     coords: [1.83, 41.59],
     description: {
       de: "Der Montserrat ist ein markantes Gebirgsmassiv in Katalonien, bekannt für seine ungewöhnlichen runden Gipfel und das berühmte Kloster.",
@@ -3907,8 +3877,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-IB",
     type: "landmark",
     name: { de: "Cuevas del Drach", hu: "Sárkánybarlangok", ro: "Peșterile Drach", en: "Caves of Drach"},
-    image: "/poi-images/spain-drach-caves-nature-v2.webp",
-    coords: [3.33, 39.53],
     coords: [3.33, 39.53],
     description: {
       de: "Die Drachenhöhlen auf Mallorca beherbergen einen der größten unterirdischen Seen der Welt und beeindruckende Tropfsteinformationen.",
@@ -4107,8 +4075,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-AN",
     type: "landmark",
     name: { de: "Höhlen von Nerja", hu: "Nerjai barlangok", ro: "Peșterile din Nerja", en: "Nerja Caves"},
-    image: "/poi-images/spain-nerja-caves-nature-v2.webp",
-    coords: [-3.84, 36.76],
     coords: [-3.84, 36.76],
     description: {
       de: "Die Höhlen von Nerja sind eine riesige Tropfsteinhöhle in Andalusien, bekannt für die größte Stalaktiten-Säule der Welt.",
@@ -4196,8 +4162,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-AN",
     type: "river",
     name: { de: "Guadalquivir", hu: "Guadalquivir", ro: "Guadalquivir", en: "Guadalquivir River"},
-    image: "/poi-images/spain-guadalquivir-river-nature-v2.webp",
-    coords: [-6.35, 36.8],
     coords: [-6.35, 36.8],
     description: {
       de: "Der Guadalquivir ist der wichtigste Fluss Andalusiens und der einzige schiffbare Fluss Spaniens von nennenswerter Länge.",
@@ -4288,8 +4252,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-CT",
     type: "park",
     name: { de: "Aigüestortes i Estany de Sant Maurici", hu: "Aigüestortes i Estany de Sant Maurici", ro: "Aigüestortes i Estany de Sant Maurici", en: "Aigüestortes National Park"},
-    image: "/poi-images/spain-aiguestortes-nature-v2.webp",
-    coords: [0.93, 42.58],
     coords: [0.93, 42.58],
     description: {
       de: "Dieser Nationalpark in den katalanischen Pyrenäen ist berühmt für seine über 200 Seen und mäandrierende Gebirgsbäche.",
@@ -5496,8 +5458,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-CN",
     type: "park",
     name: { de: "Caldera de Taburiente", hu: "Caldera de Taburiente", ro: "Caldera de Taburiente", en: "Caldera de Taburiente"},
-    image: "/poi-images/spain-taburiente-nature-v2.webp",
-    coords: [-17.87, 28.71],
     coords: [-17.87, 28.71],
     description: {
       de: "Dieser Nationalpark auf La Palma umfasst einen riesigen Erosionskrater mit steilen Wänden und dichten Kanarischen Kiefernwäldern.",
@@ -5589,7 +5549,6 @@ export const spainNatureV2: POI[] = [
     type: "valley",
     name: { de: "Jiloca-Tal", hu: "Jiloca-völgy", ro: "Valea Jiloca", en: "Jiloca Valley"},
     image: "/poi-images/spain-jiloca-valley-nature-v2.webp",
-    coords: [-1.33, 40.73],
     coords: [-1.33, 40.73],
     description: {
       de: "Das Jiloca-Tal in Aragonien ist eine wichtige Route für Zugvögel und bekannt für den Anbau von Safran.",
@@ -5823,8 +5782,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-CB",
     type: "landmark",
     name: { de: "El Soplao", hu: "El Soplao barlang", ro: "Peștera El Soplao", en: "El Soplao Cave"},
-    image: "/poi-images/spain-cueva-del-soplao-nature-v2.webp",
-    coords: [-4.41, 43.29],
     coords: [-4.41, 43.29],
     description: {
       de: "El Soplao in Kantabrien gilt als eine der geologisch wertvollsten Höhlen der Welt aufgrund ihrer exzentrischen Formationen.",
@@ -6167,8 +6124,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-CT",
     type: "valley",
     name: { de: "Congost de Mont-rebei", hu: "Mont-rebei szurdok", ro: "Cheile Mont-rebei", en: "Mont-rebei Gorge"},
-    image: "/poi-images/spain-nera-river-canyon-nature-v2.webp",
-    coords: [0.69, 42.09],
     coords: [0.69, 42.09],
     description: {
       de: "Die Mont-rebei-Schlucht bildet eine natürliche Grenze zwischen Katalonien und Aragonien mit spektakulären Wänden, die über den Fluss Noguera Ribagorçana ragen.",
@@ -6557,7 +6512,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-AN",
     type: "landmark",
     name: { de: "El Torcal de Antequera", hu: "Torcal de Antequera", ro: "Torcal de Antequera", en: "Torcal de Antequera"},
-    image: "/poi-images/spain-torcal-antequera-nature-v2.webp",
     coords: [-4.5442, 36.9531],
     description: {
       de: "Dieses Karstgebirge in Andalusien ist bekannt für seine bizarren Kalksteinformationen. Die Erosion hat über Millionen von Jahren eine surreale Felslandschaft geschaffen.",
@@ -7872,7 +7826,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-CN",
     type: "landmark",
     name: { de: "Klippen von Los Gigantes", hu: "Los Gigantes sziklái", ro: "Stâncile Los Gigantes", en: "Cliffs of Los Gigantes"},
-    image: "/poi-images/spain-los-gigantes-cliffs-nature-v2.webp",
     coords: [-16.8424, 28.2461],
     description: {
       de: "Diese monumentalen Basaltklippen an der Westküste von Teneriffa ragen bis zu 800 Meter fast senkrecht aus dem Atlantik. Sie gehören zu den höchsten Steilküsten Europas.",
@@ -8341,7 +8294,6 @@ export const spainNatureV2: POI[] = [
     parent: "ES-PV",
     type: "landmark",
     name: { de: "Gaztelugatxe", hu: "Gaztelugatxe", ro: "Gaztelugatxe", en: "Gaztelugatxe"},
-    image: "/poi-images/spain-gaztelugatxe-nature-v2.webp",
     coords: [-2.7851, 43.4473],
     description: {
       de: "Eine markante Felsinsel im Baskenland, die durch eine schmale Steinbrücke mit dem Festland verbunden ist. Ein steiler Pfad führt hinauf zu einer Kapelle aus dem 10. Jahrhundert.",

@@ -345,7 +345,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: "Zeelandia Erőd",
       ro: "Fortul Zeelandia",
       en: "Fort Zeelandia"},
-    image: "/poi-images/fort-zeelandia-history-v2.webp",
     description: {
       de: "Die im 17. Jahrhundert von der Niederländischen Ostindien-Kompanie erbaute Festung ist ein wichtiges historisches Wahrzeichen.",
       hu: "A 17. században a Holland Kelet-indiai Társaság által épített erőd fontos történelmi emlékhely.",
@@ -1374,7 +1373,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: "Chihkan-torony",
       ro: "Turnul Chihkan",
       en: "Chihkan Tower"},
-    image: "/poi-images/chihkan-tower-history-v2.webp",
     description: {
       de: "Der 1653 von den Niederländern als Fort Provintia erbaute Turm ist eines der ältesten Gebäude Taiwans.",
       hu: "Az 1653-ban a hollandok által Fort Provintia néven épített torony Tajvan egyik legrégebbi épülete.",
@@ -2691,7 +2689,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: "Csang Kaj-sek-emlékcsarnok",
       ro: "Sala Memorială Chiang Kai-shek",
       en: "Chiang Kai-shek Memorial Hall"},
-    image: "/poi-images/chiang-kai-shek-memorial-hall-history-v2.webp",
     description: {
       de: "Ein markantes Monument in Taipeh, das in Erinnerung an den ehemaligen Präsidenten Chiang Kai-shek errichtet wurde.",
       hu: "Egy jellegzetes tajpeji emlékmű, amelyet Csang Kaj-sek egykori elnök emlékére emeltek.",
@@ -3864,7 +3861,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: "Nemzeti Mártírok Szentélye",
       ro: "Altarul Național al Martirilor",
       en: "National Revolutionary Martyrs' Shrine"},
-    image: "/poi-images/national-revolutionary-martyrs-shrine-history-v2.webp",
     description: {
       de: "Ein Schrein zur Ehrung der Gefallenen der Republik China während verschiedener historischer Konflikte.",
       hu: "Egy szentély, amely a Kínai Köztársaság elesett katonáinak állít emléket a különböző történelmi konfliktusok során.",
@@ -5037,7 +5033,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: "Lin Család Kúriája és Kertje",
       ro: "Conacul și Grădina Familiei Lin",
       en: "Lin Family Mansion and Garden"},
-    image: "/poi-images/lin-family-mansion-and-garden-history-v2.webp",
     description: {
       de: "Eines der besterhaltenen Beispiele traditioneller chinesischer Architektur und Gartenkunst in Taiwan.",
       hu: "A hagyományos kínai építészet és kertművészet egyik legjobban megőrzött példája Tajvanon.",
@@ -5310,7 +5305,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: "Örök Aranykastély",
       ro: "Castelul de Aur Etern",
       en: "Eternal Golden Castle"},
-    image: "/poi-images/eternal-golden-castle-history-v2.webp",
     description: {
       de: "Eine Verteidigungsfestung aus dem 19. Jahrhundert in Tainan, die zum Schutz gegen ausländische Invasionen errichtet wurde.",
       hu: "Egy 19. századi védelmi erőd Tajnanban, amelyet a külföldi inváziók elleni védelem céljából emeltek.",
@@ -5763,7 +5757,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: "San Domingo Erőd",
       ro: "Fortul San Domingo",
       en: "Fort San Domingo"},
-    image: "/poi-images/fort-san-domingo-history-v2.webp",
     description: {
       de: "Ursprünglich von den Spaniern erbaut und später von verschiedenen Kolonialmächten genutzt, spiegelt es die komplexe Geschichte Taiwans wider.",
       hu: "Eredetileg a spanyolok építették, majd különböző gyarmati hatalmak használták, hűen tükrözi Tajvan összetett történelmét.",
@@ -6864,7 +6857,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: "Wufeng Lin Család Kúriája",
       ro: "Conacul Familiei Wufeng Lin",
       en: "Wufeng Lin Family Mansion"},
-    image: "/poi-images/wufeng-lin-family-mansion-history-v2.webp",
     description: {
       de: "Ein historischer Gebäudekomplex in Taichung, der die architektonische Entwicklung und den Reichtum der Lin-Familie zeigt.",
       hu: "Egy történelmi épületegyüttes Tajcsungban, amely a Lin család gazdagságát és építészeti fejlődését mutatja be.",
@@ -7209,7 +7201,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: "Jhaishan-alagút",
       ro: "Tunelul Jhaishan",
       en: "Jhaishan Tunnel"},
-    image: "/poi-images/jhaishan-tunnel-history-v2.webp",
     description: {
       de: "Ein in den Granit gegrabener Wassertunnel auf der Insel Kinmen, der zur Versorgung während der Artillerieangriffe diente.",
       hu: "A Kinmen-szigeten gránitba vájt vízi alagút, amely a tüzérségi támadások idején az utánpótlás biztosítására szolgált.",
@@ -7806,7 +7797,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: "Guningtou Csatatér",
       ro: "Câmpul de luptă Guningtou",
       en: "Guningtou Battlefield"},
-    image: "/poi-images/guningtou-battlefield-history-v2.webp",
     description: {
       de: "Der Ort einer entscheidenden Schlacht im Jahr 1949, bei der die ROC-Streitkräfte eine Invasion auf Kinmen erfolgreich abwehrten.",
       hu: "Egy 1949-es döntő csata helyszíne, ahol a Kínai Köztársaság erői sikeresen visszavertek egy Kinmen elleni inváziót.",
@@ -9087,7 +9077,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: "Mengjia Longshan Templom",
       ro: "Templul Mengjia Longshan",
       en: "Mengjia Longshan Temple"},
-    image: "/poi-images/mengjia-longshan-temple-history-v2.webp",
     description: {
       de: "Einer der ältesten und bedeutendsten Tempel in Taipeh, der 1738 von Einwanderern aus Fujian erbaut wurde.",
       hu: "Tajpej egyik legrégebbi és legjelentősebb temploma, amelyet 1738-ban építettek Fujianből érkező bevándorlók.",
@@ -10029,7 +10018,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: "Beinan Kulturális Park",
       ro: "Parcul Cultural Beinan",
       en: "Beinan Cultural Park"},
-    image: "/poi-images/beinan-cultural-park-history-v2.webp",
     description: {
       de: "Die größte und intakteste prähistorische Ausgrabungsstätte in Taiwan, in der Tausende von Schiefergräbern gefunden wurden.",
       hu: "Tajvan legnagyobb és legépebb őskori ásatási helyszíne, ahol palakőből épült sírok ezreit találták meg.",
@@ -10482,7 +10470,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: "Qihou Erőd",
       ro: "Fortăreața Qihou",
       en: "Qihou Fort"},
-    image: "/poi-images/qihou-fort-history-v2.webp",
     description: {
       de: "Eine historische Befestigungsanlage auf dem Berg Cijin, die den Hafen von Kaohsiung bewachte.",
       hu: "Egy történelmi erődítmény a Cijin-hegyen, amely Kaohsziung kikötőjét védte.",
@@ -10647,7 +10634,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: "Eluanbi Világítótorony",
       ro: "Farul Eluanbi",
       en: "Eluanbi Lighthouse"},
-    image: "/poi-images/eluanbi-lighthouse-history-v2.webp",
     description: {
       de: "Einer der wenigen bewaffneten Leuchttürme der Welt, der am südlichsten Punkt Taiwans liegt.",
       hu: "A világ egyik ritka fegyveres világítótornya, amely Tajvan legdélibb pontján áll.",
@@ -10848,7 +10834,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: "Hobe Erőd",
       ro: "Fortăreața Hobe",
       en: "Hobe Fort"},
-    image: "/poi-images/hobe-fort-history-v2.webp",
     description: {
       de: "Ein Ende des 19. Jahrhunderts errichtetes Fort in Tamsui, das die Mündung des Tamsui-Flusses verteidigte.",
       hu: "A 19. század végén Tamszujban épült erőd, amely a Tamszuj-folyó torkolatát védte.",
@@ -11841,7 +11826,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: "Beigang Chaotian Templom",
       ro: "Templul Beigang Chaotian",
       en: "Beigang Chaotian Temple"},
-    image: "/poi-images/beigang-chaotian-temple-history-v2.webp",
     description: {
       de: "Einer der wichtigsten Mazu-Tempel in Taiwan, der für seine prachtvolle Architektur und historische Bedeutung bekannt ist.",
       hu: "Tajvan egyik legfontosabb Mazu-temploma, amely pompás építészetéről és történelmi jelentőségéről ismert.",
@@ -12510,7 +12494,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: "Az Augusztus 23-i Tüzérségi Csata Múzeuma",
       ro: "Muzeul Bătăliei de Artilerie din 23 August",
       en: "August 23 Artillery Battle Museum"},
-    image: "/poi-images/august-23-artillery-battle-museum-history-v2.webp",
     description: {
       de: "Gedenkt des massiven Bombardements von Kinmen im Jahr 1958 und dokumentiert die Härte des Konflikts.",
       hu: "Emléket állít Kinmen 1958-as hatalmas bombázásának, és dokumentálja a konfliktus súlyosságát.",
@@ -13107,7 +13090,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: "Hatta Yoichi Emlékpark",
       ro: "Parcul Memorial Hatta Yoichi",
       en: "Hatta Yoichi Memorial Park"},
-    image: "/poi-images/hatta-yoichi-memorial-park-history-v2.webp",
     description: {
       de: "Ein Park zu Ehren des japanischen Ingenieurs Hatta Yoichi, der das Chianan-Bewässerungssystem und das Wushantou-Reservoir baute.",
       hu: "Egy park Hatta Yoichi japán mérnök tiszteletére, aki a Chianan öntözőrendszert és a Wushantou-víztározót építette.",

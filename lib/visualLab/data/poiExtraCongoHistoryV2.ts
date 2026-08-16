@@ -28,7 +28,6 @@ export const poiExtraCongoHistoryV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-loango-slave-port-history-v2.webp",
     description: {
       de: "Ein historischer Ort an der Küste, von dem aus Millionen von Menschen während des transatlantischen Sklavenhandels verschifft wurden.",
       hu: "Történelmi helyszín a tengerparton, ahonnan emberek millióit szállították el a transzatlanti rabszolga-kereskedelem során.",
@@ -190,7 +189,6 @@ export const poiExtraCongoHistoryV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-diosso-royal-palace-history-v2.webp",
     description: {
       de: "Der ehemalige Sitz der Könige von Loango in Diosso, heute ein Museum für die Geschichte des Königreichs.",
       hu: "A loangói királyok egykori székhelye Diossóban, ma a királyság történetét bemutató múzeum.",
@@ -280,7 +278,6 @@ export const poiExtraCongoHistoryV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-linzolo-mission-history-v2.webp",
     description: {
       de: "Gegründet im Jahr 1883, war die Mission von Linzolo die erste katholische Missionsstation im heutigen Kongo. Der Ort markiert den Beginn einer neuen religiösen und schulischen Präsenz in der Region.",
       hu: "Az 1883-ban alapított állomás volt az első katolikus misszió a mai Kongó területén.",
@@ -325,7 +322,6 @@ export const poiExtraCongoHistoryV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-sainte-anne-basilica-history-v2.webp",
     description: {
       de: "Eine beeindruckende Basilika in Brazzaville, bekannt für ihre Architektur mit grünen Dachziegeln.",
       hu: "Lenyűgöző bazilika Brazzaville-ben, amely zöld tetőcserepeiről és különleges építészetéről ismert.",
@@ -451,7 +447,6 @@ export const poiExtraCongoHistoryV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-brazza-mausoleum-history-v2.webp",
     description: {
       de: "Die letzte Ruhestätte des Gründers von Brazzaville, ein prächtiges Gebäude am Ufer des Kongo-Flusses.",
       hu: "Brazzaville alapítójának végső nyughelye, egy pompás épület a Kongó-folyó partján.",
@@ -659,7 +654,6 @@ export const poiExtraCongoHistoryV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-case-de-gaulle-history-v2.webp",
     description: {
       de: "Die Case de Gaulle erinnert an die französische Kolonialzeit in Brazzaville. Das Gebäude steht für die politische und militärische Geschichte der Hauptstadt im 20. Jahrhundert.",
       hu: "A Brazzaville-i Case de Gaulle Charles de Gaulle egykori rezidenci?ja volt a m?sodik vil?gh?bor? idej?n. Az ?p?let a v?ros szabadfrancia korszak?nak eml?ke.",
@@ -704,7 +698,6 @@ export const poiExtraCongoHistoryV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-sacre-coeur-cathedral-history-v2.webp",
     description: {
       de: "Die Kathedrale Sacré-Cœur ist eine bedeutende katholische Kirche in Brazzaville. Sie prägt das religiöse Stadtbild der Hauptstadt mit ihrer markanten Lage und Architektur.",
       hu: "Közép-Afrika legrégebbi székesegyháza, a gyarmati építészet egyik fontos emléke.",
@@ -749,7 +742,6 @@ export const poiExtraCongoHistoryV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-pointe-noire-lighthouse-history-v2.webp",
     description: {
       de: "Der Leuchtturm von Pointe-Noire sicherte die Navigation an der Atlantikküste. Er steht für die maritime Geschichte der Hafenstadt und ihren Bezug zum Meer.",
       hu: "A kikötőváros történelmi jelképe, amely évtizedek óta mutatja az utat a hajóknak az Atlanti-óceánon.",
@@ -953,7 +945,6 @@ export const poiExtraCongoHistoryV2: POI[] = [
       hu: "Lékanai sziklabarlangok",
       ro: "Peșterile rupestre din Lékana",
       en: "Lékana Rock Caves"},
-    image: "/poi-images/cg-lekana-caves-history-v2.webp",
     description: {
       de: "Antike Felsenhöhlen in der Plateaux-Region, die Zeugnisse früherer Besiedlung und Riten beherbergen.",
       hu: "A Lekana-barlangok term?szetes barlangrendszert jelentenek a Plateaux t?rs?gben. A k?pz?dm?ny a helyi k?zetek ?s er?zi? nyomait ?rzi.",
@@ -1001,7 +992,6 @@ export const poiExtraCongoHistoryV2: POI[] = [
       hu: "Marien Ngouabi mauzóleum",
       ro: "Mausoleul Marien Ngouabi",
       en: "Marien Ngouabi Mausoleum"},
-    image: "/poi-images/cg-ngouabi-mausoleum-history-v2.webp",
     description: {
       de: "Das Mausoleum für den ermordeten Präsidenten Marien Ngouabi, eine wichtige nationale Gedenkstätte.",
       hu: "A Ngouabi-mauz?leum Marien Ngouabi eln?k eml?khelye Brazzaville-ben. A hely a modern kong?i t?rt?nelem egyik fontos politikai pontja.",
@@ -1049,7 +1039,6 @@ export const poiExtraCongoHistoryV2: POI[] = [
       hu: "Brazzaville történelmi városházája",
       ro: "Primăria istorică din Brazzaville",
       en: "Historic Brazzaville City Hall"},
-    image: "/poi-images/cg-brazzaville-city-hall-history-v2.webp",
     description: {
       de: "Ein bedeutendes koloniales Verwaltungsgebäude im Herzen der Stadt, das noch heute genutzt wird.",
       hu: "A Brazzaville-i v?rosh?za a f?v?ros ?nkorm?nyzati k?zpontja. Az ?p?let a v?rosi igazgat?s mindennapi m?k?d?s?t szolg?lja.",
@@ -1097,7 +1086,6 @@ export const poiExtraCongoHistoryV2: POI[] = [
       hu: "Alima-állomás",
       ro: "Postul Alima",
       en: "Poste de l'Alima"},
-    image: "/poi-images/cg-poste-alima-history-v2.webp",
     description: {
       de: "Der alte Posten an der Alima war ein früher Stützpunkt am Fluss. Er verweist auf die Kolonialgeschichte der Wasserwege im Zentrum des Landes.",
       hu: "Történelmi állomás az Alima-folyó partján, amelyet Kongó korai felfedezése során alapítottak.",
@@ -1241,7 +1229,6 @@ export const poiExtraCongoHistoryV2: POI[] = [
       hu: "Fort-Rousset történelmi magja",
       ro: "Nucleul istoric din Fort-Rousset",
       en: "Historic Fort-Rousset Core"},
-    image: "/poi-images/cg-fort-rousset-old-fort-history-v2.webp",
     description: {
       de: "Der alte Fortkern von Fort-Rousset erinnert an die frühe militärische Präsenz im Zentrum des Landes. Der Ort ist ein wichtiges Zeugnis der kolonialen Grenzsicherung.",
       hu: "A r?gi Fort Rousset egy gyarmati id?szakb?l sz?rmaz? er?dhely a f?v?ros t?rs?g?ben. A katonai ?s igazgat?si m?lt eml?k?t ?rzi.",
@@ -1289,7 +1276,6 @@ export const poiExtraCongoHistoryV2: POI[] = [
       hu: "Kindambai missziós állomás",
       ro: "Stația de misiune din Kindamba",
       en: "Kindamba Mission Station"},
-    image: "/poi-images/cg-kindamba-old-mission-history-v2.webp",
     description: {
       de: "Die alte Mission von Kindamba gehört zu den frühen christlichen Stützpunkten im Pool. Sie ist ein Zeugnis der Missionsgeschichte im Süden.",
       hu: "A Kindamba-i r?gi misszi? a vall?si jelenl?t korai nyoma a Pool t?rs?gben. A hely a r?gi? misszi?s ?s oktat?si m?ltj?t id?zi.",

@@ -57,7 +57,6 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: "Forbes Reef bánya emlékei",
       ro: "Relicvele Minei Forbes Reef",
       en: "Forbes Reef Mine Relics"},
-    image: "/poi-images/forbes-reef-mine-history-v2.webp",
     description: {
       de: "Die Relikte der ersten Goldmine Eswatinis, die in den 1880er Jahren den Beginn des Bergbaubooms im Land markierte.",
       hu: "Eswatini első aranybányájának maradványai, amely az 1880-as években az ország bányászati fellendülésének kezdetét jelezte.",
@@ -105,7 +104,6 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: "Régi bremersdorpi temető",
       ro: "Vechiul Cimitir Bremersdorp",
       en: "Old Bremersdorp Cemetery"},
-    image: "/poi-images/bremersdorp-cemetery-history-v2.webp",
     description: {
       de: "Ein historischer Friedhof in Manzini, der an die Zeit erinnert, als die Stadt noch Bremersdorp hieß und ein kolonialer Außenposten war.",
       hu: "Történelmi temető Manziniben, amely arra az időre emlékeztet, amikor a várost még Bremersdorpi-nak hívták és gyarmati előörs volt.",
@@ -153,7 +151,6 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: "Dlangeni királyi menedékhely",
       ro: "Sanctuarul Regal Dlangeni",
       en: "Dlangeni Royal Sanctuary"},
-    image: "/poi-images/dlangeni-sanctuary-history-v2.webp",
     description: {
       de: "Eine geschichtsträchtige Stätte in den Dlangeni-Hügeln, die den Swazi-Königen in Zeiten von Konflikten als Zufluchtsort diente.",
       hu: "Történelmi helyszín a Dlangeni-hegyekben, amely a szvázi királyok számára szolgált menedékül konfliktusok idején.",
@@ -249,7 +246,6 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: "Mbabane gyarmati negyed",
       ro: "Districtul Colonial Mbabane",
       en: "Mbabane Colonial District"},
-    image: "/poi-images/mbabane-colonial-district-history-v2.webp",
     description: {
       de: "Das Viertel beherbergt Gebäude aus der Zeit der britischen Verwaltung und spiegelt die koloniale Architektur des frühen 20. Jahrhunderts wider.",
       hu: "A negyed a brit közigazgatás idejéből származó épületeknek ad otthont, tükrözve a 20. század eleji gyarmati építészetet.",
@@ -297,7 +293,6 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: "Siteki régi börtön",
       ro: "Vechea Închisoare din Siteki",
       en: "Old Siteki Jail"},
-    image: "/poi-images/old-siteki-jail-history-v2.webp",
     description: {
       de: "Ein Relikt der frühen kolonialen Justizverwaltung in der Lubombo-Region, heute ein Zeugnis der Vergangenheit.",
       hu: "A korai gyarmati igazságszolgáltatás emléke a Lubombo régióban, amely ma a múlt tanúja.",
@@ -345,7 +340,6 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: "Zombodze történelmi iskola",
       ro: "Școala Istorică din Zombodze",
       en: "Zombodze Historical School"},
-    image: "/poi-images/zombodze-school-history-v2.webp",
     description: {
       de: "Diese Schule wurde speziell für die Ausbildung der Swazi-Elite und der königlichen Familie im frühen 20. Jahrhundert gegründet.",
       hu: "Ezt az iskolát kifejezetten a szvázi elit és a királyi család oktatására alapították a 20. század elején.",
@@ -393,7 +387,6 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: "Lobamba Lomdzala történelmi hely",
       ro: "Situl Lobamba Lomdzala",
       en: "Lobamba Lomdzala Site"},
-    image: "/poi-images/lobamba-lomdzala-history-v2.webp",
     description: {
       de: "Der 'alte' Ort von Lobamba, der eine tiefe spirituelle und historische Bedeutung für die Gründung der Swazi-Nation hat.",
       hu: "Lobamba 'régi' helye, amely mély spirituális és történelmi jelentőséggel bír a szvázi nemzet alapítása szempontjából.",
@@ -441,7 +434,6 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: "Piggs Peak történelmi hotel",
       ro: "Hotelul Istoric Piggs Peak",
       en: "Piggs Peak Historical Hotel"},
-    image: "/poi-images/piggs-peak-hotel-history-v2.webp",
     description: {
       de: "Ein Wahrzeichen der Stadt, das seit Jahrzehnten Reisende beherbergt und den kolonialen Charme des Hochlands bewahrt.",
       hu: "A város egyik jelképe, amely évtizedek óta fogadja az utazókat, megőrizve a felföld gyarmati báját.",
@@ -489,7 +481,6 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: "Manzini gyarmati klub",
       ro: "Clubul Colonial din Manzini",
       en: "Manzini Colonial Club"},
-    image: "/poi-images/manzini-colonial-club-history-v2.webp",
     description: {
       de: "Ein historischer Treffpunkt für die frühe Siedlergemeinschaft, der heute ein Fenster in die soziale Vergangenheit der Stadt ist.",
       hu: "Történelmi találkozóhely a korai telepes közösség számára, amely ma ablakot nyit a város társadalmi múltjára.",
@@ -537,7 +528,6 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: "Mbabane régi kormányzati negyed",
       ro: "Vechiul Cartier Guvernamental Mbabane",
       en: "Mbabane Old Government Quarter"},
-    image: "/poi-images/mbabane-old-govt-history-v2.webp",
     description: {
       de: "Dieses Gebiet umfasst die ursprünglichen administrativen Strukturen, von denen aus Eswatini während des Protektorats verwaltet wurde.",
       hu: "Ez a terület magában foglalja az eredeti adminisztratív struktúrákat, amelyekből Eswatinit a protektorátus idején irányították.",
@@ -585,7 +575,6 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: "Mahambai búr háborús ösvény",
       ro: "Traseul Războiului Burilor Mahamba",
       en: "Mahamba Boer War Trail"},
-    image: "/poi-images/mahamba-war-trail-history-v2.webp",
     description: {
       de: "Ein historischer Pfad in der Nähe der Grenze, der während des Zweiten Burenkrieges strategische Bedeutung für Truppenbewegungen hatte.",
       hu: "Történelmi ösvény a határ közelében, amely a második búr háború idején stratégiai jelentőséggel bírt a csapatmozgások szempontjából.",
@@ -633,7 +622,6 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: "Mahlanya történelmi piac",
       ro: "Piața Istorică Mahlanya",
       en: "Mahlanya Historic Market"},
-    image: "/poi-images/mahlanya-historic-market-history-v2.webp",
     description: {
       de: "Mahlanya ist seit Generationen ein Zentrum des lokalen Handels und bewahrt die traditionelle Marktkultur des Landes.",
       hu: "Mahlanya generációk óta a helyi kereskedelem központja, megőrizve az ország hagyományos piaci kultúráját.",
@@ -798,7 +786,6 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: "Nsoko régi cukormalom",
       ro: "Vechea Moară de Zahăr din Nsoko",
       en: "Old Nsoko Sugar Mill"},
-    image: "/poi-images/nsoko-old-mill-history-v2.webp",
     description: {
       de: "Die Überreste einer der ersten industriellen Zuckermühlen im Süden, die den Grundstein für den heutigen Wirtschaftssektor legten.",
       hu: "Dél egyik első ipari cukormalmának maradványai, amelyek megalapozták a mai gazdasági szektort.",
@@ -846,7 +833,6 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: "Lavumisa régi vasútállomás",
       ro: "Vechea Gară din Lavumisa",
       en: "Old Lavumisa Rail Station"},
-    image: "/poi-images/lavumisa-rail-station-history-v2.webp",
     description: {
       de: "Ein historischer Bahnhof an der Grenze zu Südafrika, der einst eine lebenswichtige Verbindung für den Güterverkehr darstellte.",
       hu: "Történelmi vasútállomás a dél-afrikai határon, amely egykor létfontosságú összeköttetést jelentett a teherforgalom számára.",
@@ -939,7 +925,6 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: "Sivunga Dlamini történelmi hely",
       ro: "Situl Dlamini Sivunga",
       en: "Sivunga Dlamini Site"},
-    image: "/poi-images/sivunga-dlamini-history-v2.webp",
     description: {
       de: "Ein bedeutender Ort für die Dlamini-Dynastie, der eng mit der Wanderung und Ansiedlung des Volkes verbunden ist.",
       hu: "A Dlamini-dinasztia jelentős helyszíne, amely szorosan kötődik a nép vándorlásához és letelepedéséhez.",
@@ -987,7 +972,6 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: "Malolotja vaskori lelőhely",
       ro: "Situl Epocii Fierului Malolotja",
       en: "Malolotja Iron Age Site"},
-    image: "/poi-images/malolotja-iron-age-history-v2.webp",
     description: {
       de: "Eine archäologische Stätte, die Beweise für frühe Eisenverhüttung und menschliche Besiedlung vor Jahrhunderten liefert.",
       hu: "Régészeti lelőhely, amely bizonyítékot szolgáltat a korai vasolvasztásra és az évszázadokkal ezelőtti emberi letelepedésre.",
@@ -1128,7 +1112,6 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: "Kubutai történelmi csomagolóház",
       ro: "Depozitul Istoric de Ambalare Kubuta",
       en: "Kubuta Historical Packing Shed"},
-    image: "/poi-images/kubuta-packing-shed-history-v2.webp",
     description: {
       de: "Ein Relikt der kolonialen Landwirtschaft, das als Zentrum für den export von Bananen und Zitrusfrüchten in der Shiselweni-Region diente.",
       hu: "A gyarmati mezőgazdaság emléke, amely a Shiselweni régió banán- és citrusexportjának központjaként szolgált.",

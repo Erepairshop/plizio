@@ -8,7 +8,6 @@ export const poiExtraTrinidadLifeV2: POI[] = [
     parent: "TT-CTT",
     coords: [-61.45, 10.58],
     name: { de: "Caroni Vogelreservat", hu: "Caroni madarrezervátum", ro: "Sanctuarul de păsări Caroni", en: "Caroni Bird Sanctuary"},
-    image: "/poi-images/tt-caroni-bird-sanctuary-life-v2.webp",
     description: { de: "Ein Mangrovengebiet, das für die roten Ibisse bekannt ist.", hu: "Mangrovevidék, amely a skarlát íbiszekről ismert.", ro: "O zonă de mangrove cunoscută pentru ibișii stacojii.", en: "A mangrove wetland known for its scarlet ibises." , es: "Una zona de manglares famosa por sus ibis rojos.", pt: "Uma zona de mangais famosa pelos seus íbis vermelhos.", fr: "Une zone de mangroves célèbre pour ses ibis rouges."},
     facts: {
       de: ["Heimat des Nationalvogels", "Beliebte Sonnenuntergangsboote", "Wichtiges Mangroven-Ökosystem"],
@@ -44,7 +43,6 @@ export const poiExtraTrinidadLifeV2: POI[] = [
     parent: "TT-TUP",
     coords: [-61.2833, 10.7167],
     name: { de: "Asa Wright Naturzentrum", hu: "Asa Wright természetközpont", ro: "Centrul de natură Asa Wright", en: "Asa Wright Nature Centre"},
-    image: "/poi-images/tt-asa-wright-life-v2.webp",
     description: { de: "Ein weltbekanntes Vogelbeobachtungszentrum in den Bergen.", hu: "Világhírű madármegfigyelő központ a hegyekben.", ro: "Un centru celebru de observare a păsărilor în munți.", en: "A world-famous birdwatching center in the hills." , es: "Un centro de observación de aves mundialmente famoso en las montañas.", pt: "Um centro de observação de aves mundialmente famoso nas montanhas.", fr: "Un centre d'observation des oiseaux de renommée mondiale dans les montagnes."},
     facts: {
       de: ["Berühmt für Tukane", "Ehemalige Kakao- und Kaffeeplantage", "Biodiversitäts-Hotspot"],
@@ -116,7 +114,6 @@ export const poiExtraTrinidadLifeV2: POI[] = [
     parent: "TT-POS",
     coords: [-61.52, 10.665],
     name: { de: "Emperor Valley Zoo", hu: "Emperor Valley állatkert", ro: "Grădina Zoologică Emperor Valley", en: "Emperor Valley Zoo"},
-    image: "/poi-images/tt-emperor-valley-zoo-life-v2.webp",
     description: { de: "Der bekannteste Zoo von Trinidad und Tobago.", hu: "Trinidad és Tobago legismertebb állatkertje.", ro: "Cea mai cunoscută grădină zoologică din Trinidad și Tobago.", en: "The best-known zoo in Trinidad and Tobago." , es: "El zoológico más conocido de Trinidad y Tobago.", pt: "O zoológico mais conhecido de Trinidad e Tobago.", fr: "Le zoo le plus connu de Trinidad-et-Tobago."},
     facts: {
       de: ["In Port of Spain", "Beliebt bei Familien", "Verbindet Lernen und Freizeit"],
@@ -152,7 +149,6 @@ export const poiExtraTrinidadLifeV2: POI[] = [
     parent: "TT-POS",
     coords: [-61.5147, 10.6686],
     name: { de: "Queens Park Savannah", hu: "Queens Park Savannah", ro: "Queen's Park Savannah", en: "Queen's Park Savannah"},
-    image: "/poi-images/tt-queens-park-savannah-life-v2.webp",
     description: { de: "Die größte offene Fläche in Port of Spain.", hu: "Port of Spain legnagyobb nyitott tere.", ro: "Cel mai mare spațiu deschis din Port of Spain.", en: "The largest open space in Port of Spain." , es: "El espacio abierto más grande de Port of Spain.", pt: "O maior espaço aberto em Port of Spain.", fr: "Le plus grand espace ouvert de Port of Spain."},
     facts: {
       de: ["Ort für Karneval", "Freizeit und Sport", "Umgeben von Kolonialhäusern"],
@@ -188,7 +184,6 @@ export const poiExtraTrinidadLifeV2: POI[] = [
     parent: "TT-SJL",
     coords: [-61.4392, 10.7583],
     name: { de: "Maracas Bay", hu: "Maracas-öböl", ro: "Golful Maracas", en: "Maracas Bay"},
-    image: "/poi-images/tt-maracas-bay-life-v2.webp",
     description: { de: "Trinidads bekanntester Strand und ein beliebter Wochenendort.", hu: "Trinidad legismertebb strandja és kedvelt hétvégi helyszín.", ro: "Cea mai cunoscută plajă din Trinidad și o destinație de weekend.", en: "Trinidad's most famous beach and a popular weekend spot." , es: "La playa más famosa de Trinidad y un lugar popular para los fines de semana.", pt: "A praia mais famosa de Trinidad e um local popular para fins de semana.", fr: "La plage la plus célèbre de Trinidad et un lieu prisé pour les week-ends."},
     facts: {
       de: ["Bekannt für Bake and Shark", "Nordkustenfahrt", "Breiter Sandstrand"],
@@ -260,7 +255,6 @@ export const poiExtraTrinidadLifeV2: POI[] = [
     parent: "TT-CTT",
     coords: [-61.45, 10.33],
     name: { de: "Pointe a Pierre Wildvogelpark", hu: "Pointe a Pierre vadmadárpark", ro: "Rezervația de păsări sălbatice Pointe a Pierre", en: "Pointe-a-Pierre Wildfowl Trust"},
-    image: "/poi-images/tt-pointe-a-pierre-wildfowl-life-v2.webp",
     description: { de: "Ein Schutzgebiet mit Lagunen, Vögeln und ruhigen Wegen.", hu: "Védett terület lagúnákkal, madarakkal és csendes sétányokkal.", ro: "O rezervație cu lagune, păsări și alei liniștite.", en: "A sanctuary with lagoons, birds, and quiet walking paths." , es: "Un área protegida con lagunas, aves y senderos tranquilos.", pt: "Uma área protegida com lagoas, aves e trilhos tranquilos.", fr: "Une zone protégée avec des lagunes, des oiseaux et des sentiers paisibles."},
     facts: {
       de: ["Wichtige Vogelstation", "Lagunen und Mangroven", "Beliebt bei Naturfreunden"],
@@ -404,7 +398,6 @@ export const poiExtraTrinidadLifeV2: POI[] = [
     parent: "TT-MRC",
     coords: [-61.02, 10.32],
     name: { de: "Nariva Sumpf", hu: "Nariva mocsár", ro: "Mlaștina Nariva", en: "Nariva Swamp"},
-    image: "/poi-images/tt-nariva-swamp-life-v2.webp",
     description: { de: "Trinidads größtes Süßwasser-Feuchtgebiet.", hu: "Trinidad legnagyobb édesvízi vizes élőhelye.", ro: "Cea mai mare zonă umedă de apă dulce din Trinidad.", en: "The largest freshwater wetland in Trinidad." , es: "El humedal de agua dulce más grande de Trinidad.", pt: "A maior zona húmida de água doce de Trinidad.", fr: "La plus grande zone humide d'eau douce de Trinidad."},
     facts: {
       de: ["RAMSAR-Gebiet", "Heimat von Manatis", "Reich an Vogelwelt"],
@@ -440,7 +433,6 @@ export const poiExtraTrinidadLifeV2: POI[] = [
     parent: "TT-MRC",
     coords: [-61.0, 10.33],
     name: { de: "Bush Bush Schutzgebiet", hu: "Bush Bush védelmi terület", ro: "Sanctuarul Bush Bush", en: "Bush Bush Sanctuary"},
-    image: "/poi-images/tt-bush-bush-sanctuary-life-v2.webp",
     description: { de: "Ein geschütztes Sumpf- und Waldgebiet bei Nariva.", hu: "Védett mocsaras és erdős terület Nariva mellett.", ro: "O zonă protejată de mlaștină și pădure lângă Nariva.", en: "A protected swamp and forest area near Nariva." , es: "Una zona protegida de pantanos y bosques cerca de Nariva.", pt: "Uma zona protegida de pântanos e florestas perto de Nariva.", fr: "Une zone protégée de marais et de forêts près de Nariva."},
     facts: {
       de: ["Wilde Mangroven", "Naturkundliche Bootsfahrt", "Teil des Nariva-Gebiets"],
@@ -476,7 +468,6 @@ export const poiExtraTrinidadLifeV2: POI[] = [
     parent: "TT-PRT",
     coords: [-61.16, 10.08],
     name: { de: "Trinity Hills Wildnisgebiet", hu: "Trinity Hills vadonvédelmi terület", ro: "Sanctuarul Trinity Hills", en: "Trinity Hills Wildlife Sanctuary"},
-    image: "/poi-images/tt-trinity-hills-life-v2.webp",
     description: { de: "Ein hügeliges Waldschutzgebiet im Südosten Trinidads.", hu: "Dombos erdős védelmi terület Trinidad délkeleti részén.", ro: "O zonă forestieră deluroasă protejată în sud-estul Trinidadului.", en: "A hilly forest sanctuary in southeastern Trinidad." , es: "Una reserva forestal montañosa en el sureste de Trinidad.", pt: "Uma reserva florestal montanhosa no sudeste de Trinidad.", fr: "Une réserve forestière vallonnée dans le sud-est de Trinidad."},
     facts: {
       de: ["Wichtiger Wassereinzugsbereich", "Reiches Tierleben", "Beliebt zum Wandern"],
@@ -512,7 +503,6 @@ export const poiExtraTrinidadLifeV2: POI[] = [
     parent: "TT-SGE",
     coords: [-61.0, 10.67],
     name: { de: "Matura Schildkrötenstrand", hu: "Matura teknősös strand", ro: "Plaja Matura pentru țestoase", en: "Matura Turtle Beach"},
-    image: "/poi-images/tt-matura-turtle-beach-life-v2.webp",
     description: { de: "Ein bekannter Nistplatz für Meeresschildkröten.", hu: "Ismert fészkelőhely a tengeri teknősök számára.", ro: "Un loc cunoscut de cuibărit pentru țestoasele marine.", en: "A well-known nesting beach for sea turtles." , es: "Un lugar conocido para la anidación de tortugas marinas.", pt: "Um local conhecido para a nidificação de tartarugas marinhas.", fr: "Un lieu connu pour la nidification des tortues marines."},
     facts: {
       de: ["Lederschildkröten", "Nächtliche Naturbeobachtung", "Schutz wichtiger Nester"],
@@ -548,7 +538,6 @@ export const poiExtraTrinidadLifeV2: POI[] = [
     parent: "TT-SGE",
     coords: [-61.03, 10.7],
     name: { de: "Grande Riviere Schildkrötenstrand", hu: "Grande Riviere teknősös strand", ro: "Plaja Grande Riviere pentru țestoase", en: "Grande Riviere Turtle Beach"},
-    image: "/poi-images/tt-grande-riviere-turtle-beach-life-v2.webp",
     description: { de: "Einer der wichtigsten Strände für Lederschildkröten in der Karibik.", hu: "A Karib-térség egyik fontos bőrösteknősös partja.", ro: "Una dintre cele mai importante plaje pentru țestoasele marine din Caraibe.", en: "One of the Caribbean's most important leatherback beaches." , es: "Una de las playas más importantes para las tortugas laúd en el Caribe.", pt: "Uma das praias mais importantes para as tartarugas-de-couro no Caribe.", fr: "L'une des plages les plus importantes pour les tortues luth dans les Caraïbes."},
     facts: {
       de: ["Starke Schildkrötenpopulation", "Geführte Nachtbesuche", "Schutzgebiet am Meer"],
@@ -584,7 +573,6 @@ export const poiExtraTrinidadLifeV2: POI[] = [
     parent: "TT-SGE",
     coords: [-61.0, 10.78],
     name: { de: "Toco Kokospalmenhaine", hu: "Toco kókuszligetek", ro: "Livezi de cocotieri Toco", en: "Toco Coconut Groves"},
-    image: "/poi-images/tt-toco-coconut-groves-life-v2.webp",
     description: { de: "Kokosplantagen entlang der Ostküste.", hu: "Kókuszültetvények a keleti part mentén.", ro: "Plantații de cocotieri de-a lungul coastei de est.", en: "Coconut plantations along the east coast." , es: "Plantaciones de coco a lo largo de la costa este.", pt: "Plantações de coco ao longo da costa leste.", fr: "Plantations de cocotiers le long de la côte est."},
     facts: {
       de: ["Küstenlandwirtschaft", "Schattige Haine", "Wichtige Dorfkultur"],
@@ -620,7 +608,6 @@ export const poiExtraTrinidadLifeV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.8353, 11.1733],
     name: { de: "Pigeon Point", hu: "Pigeon Point", ro: "Pigeon Point", en: "Pigeon Point"},
-    image: "/poi-images/tt-pigeon-point-life-v2.webp",
     description: { de: "Tobagos ikonischster Strand mit dem bekannten Holzsteg.", hu: "Tobago ikonikus strandja a híres fahíddal.", ro: "Cea mai iconică plajă din Tobago, cu celebrul ponton din lemn.", en: "Tobago's iconic beach with the famous wooden jetty." , es: "La playa más icónica de Tobago con su famoso muelle de madera.", pt: "A praia mais icónica de Tobago, com o seu famoso pontão de madeira.", fr: "La plage la plus emblématique de Tobago, avec son célèbre ponton en bois."},
     facts: {
       de: ["Weißer Sand", "Türkisfarbenes Wasser", "Beliebt für Familien"],
@@ -656,7 +643,6 @@ export const poiExtraTrinidadLifeV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.82, 11.18],
     name: { de: "Buccoo Riff", hu: "Buccoo zátony", ro: "Reciful Buccoo", en: "Buccoo Reef"},
-    image: "/poi-images/tt-buccoo-reef-life-v2.webp",
     description: { de: "Ein geschütztes Korallenriff mit großer mariner Vielfalt.", hu: "Védett korallzátony nagy tengeri sokféleséggel.", ro: "Un recif de corali protejat cu mare diversitate marină.", en: "A protected coral reef with rich marine life." , es: "Un arrecife de coral protegido con una gran diversidad marina.", pt: "Um recife de coral protegido com uma grande diversidade marinha.", fr: "Un récif corallien protégé avec une grande diversité marine."},
     facts: {
       de: ["Glasbodenboote", "Farbenfrohe Fische", "Wichtig für den Tourismus"],
@@ -692,7 +678,6 @@ export const poiExtraTrinidadLifeV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.52, 11.35],
     name: { de: "Little Tobago Vogelreservat", hu: "Little Tobago madárrezervátum", ro: "Sanctuarul de păsări Little Tobago", en: "Little Tobago Bird Sanctuary"},
-    image: "/poi-images/tt-little-tobago-bird-sanctuary-life-v2.webp",
     description: { de: "Eine kleine Insel mit wichtigem Brutgebiet für Seevögel.", hu: "Kis sziget fontos tengeri madár fészkelőhellyel.", ro: "O insulă mică cu un loc important de cuibărit pentru păsări marine.", en: "A small island with an important seabird nesting site." , es: "Una pequeña isla con una importante zona de anidación para aves marinas.", pt: "Uma pequena ilha com uma importante área de nidificação para aves marinhas.", fr: "Une petite île avec une zone de nidification importante pour les oiseaux marins."},
     facts: {
       de: ["Seevogelkolonien", "Beliebt bei Bootsausflügen", "Unbewohnt"],
@@ -728,7 +713,6 @@ export const poiExtraTrinidadLifeV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.7333, 11.1833],
     name: { de: "Scarborough Botanischer Garten", hu: "Scarborough botanikus kert", ro: "Grădina botanică Scarborough", en: "Scarborough Botanical Gardens"},
-    image: "/poi-images/tt-scarborough-botanical-gardens-life-v2.webp",
     description: { de: "Ein ruhiger Garten mit tropischen Pflanzen in Scarborough.", hu: "Csendes kert trópusi növényekkel Scarboroughban.", ro: "O grădină liniștită cu plante tropicale în Scarborough.", en: "A quiet garden with tropical plants in Scarborough." , es: "Un jardín tranquilo con plantas tropicales en Scarborough.", pt: "Um jardim tranquilo com plantas tropicais em Scarborough.", fr: "Un jardin paisible avec des plantes tropicales à Scarborough."},
     facts: {
       de: ["Schattenwege", "Tropische Pflanzen", "Gute Familienpause"],
@@ -764,7 +748,6 @@ export const poiExtraTrinidadLifeV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.6833, 11.2667],
     name: { de: "Castara Fischerdorf", hu: "Castara halászfalu", ro: "Satul pescăresc Castara", en: "Castara Fishing Village"},
-    image: "/poi-images/tt-castara-fishing-village-life-v2.webp",
     description: { de: "Ein ruhiges Fischerdorf mit kleinem Strand und lokaler Küche.", hu: "Csendes halászfalu kis stranddal és helyi konyhával.", ro: "Un sat pescăresc liniștit, cu plajă mică și bucătărie locală.", en: "A quiet fishing village with a small beach and local food." , es: "Un tranquilo pueblo pesquero con una pequeña playa y cocina local.", pt: "Uma vila piscatória tranquila com uma pequena praia e culinária local.", fr: "Un village de pêcheurs paisible avec une petite plage et une cuisine locale."},
     facts: {
       de: ["Bucht mit Dorfcharakter", "Lokale Fischerboote", "Beliebt für Natururlaub"],
@@ -836,7 +819,6 @@ export const poiExtraTrinidadLifeV2: POI[] = [
     parent: "TT-CTT",
     coords: [-61.4, 10.45],
     name: { de: "Freeport Reisfelder", hu: "Freeport rizsföldek", ro: "Câmpurile de orez Freeport", en: "Freeport Rice Fields"},
-    image: "/poi-images/tt-freeport-rice-fields-life-v2.webp",
     description: { de: "Reisanbauflächen in Zentral-Trinidad.", hu: "Rizstermesztési területek Közép-Trinidadban.", ro: "Zone de cultivare a orezului în centrul Trinidadului.", en: "Rice growing areas in central Trinidad." , es: "Campos de cultivo de arroz en el centro de Trinidad.", pt: "Campos de cultivo de arroz no centro de Trinidad.", fr: "Champs de riz dans le centre de Trinidad."},
     facts: {
       de: ["Wichtige Nahrungspflanze", "Flache Bewässerungsfelder", "Ländliche Wirtschaftsgrundlage"],
@@ -872,7 +854,6 @@ export const poiExtraTrinidadLifeV2: POI[] = [
     parent: "TT-SIP",
     coords: [-61.5, 10.13],
     name: { de: "Siparia Milchfarmen", hu: "Siparia tejfarmok", ro: "Ferme de lapte Siparia", en: "Siparia Dairy Farms"},
-    image: "/poi-images/tt-siparia-dairy-farms-life-v2.webp",
     description: { de: "Weidebetriebe im Südwesten, die Milch und Käse liefern.", hu: "Legelő gazdaságok a délnyugaton, tejjel és sajttal.", ro: "Ferme de pășunat în sud-vest care produc lapte și brânză.", en: "Pasture farms in the southwest producing milk and cheese." , es: "Explotaciones ganaderas en el suroeste que suministran leche y queso.", pt: "Explorações pecuárias no sudoeste que fornecem leite e queijo.", fr: "Exploitations laitières dans le sud-ouest fournissant du lait et du fromage."},
     facts: {
       de: ["Viehzucht", "Lokale Molkereiprodukte", "Grüne Weideflächen"],
@@ -908,7 +889,6 @@ export const poiExtraTrinidadLifeV2: POI[] = [
     parent: "TT-PTF",
     coords: [-61.68, 10.18],
     name: { de: "Point Fortin Strandpark", hu: "Point Fortin strandpark", ro: "Parcul de plajă Point Fortin", en: "Point Fortin Beach Park"},
-    image: "/poi-images/tt-point-fortin-beach-park-life-v2.webp",
     description: { de: "Ein lokaler Freizeitstrand an der Südwestküste.", hu: "Helyi szabadidős strand a délnyugati parton.", ro: "O plajă de agrement locală pe coasta de sud-vest.", en: "A local leisure beach on the southwest coast." , es: "Una playa recreativa local en la costa suroeste.", pt: "Uma praia recreativa local na costa sudoeste.", fr: "Une plage de loisirs locale sur la côte sud-ouest."},
     facts: {
       de: ["Familienfreundlich", "Sonnenuntergangsblick", "Kleiner Küstenpark"],

@@ -196,8 +196,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "park",
     name: { de: "Nationalpark Riesengebirge", hu: "Krkonoše Nemzeti Park", ro: "Parcul Național Krkonoše", en: "Krkonoše National Park"},
-    image: "/poi-images/czechrepublic-krkonose-national-park-life-v2.webp",
-    coords: [15.733, 50.733],
     coords: [15.733, 50.733],
     description: {
       de: "Der älteste Nationalpark Tschechiens schützt das höchste Gebirge des Landes an der Grenze zu Polen. Er ist bekannt für seine arktisch-alpine Tundra und reiche Biodiversität.",
@@ -432,8 +430,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "park",
     name: { de: "Nationalpark Böhmerwald", hu: "Šumava Nemzeti Park", ro: "Parcul Național Šumava", en: "Šumava National Park"},
-    image: "/poi-images/czechrepublic-sumava-national-park-life-v2.webp",
-    coords: [13.517, 48.983],
     coords: [13.517, 48.983],
     description: {
       de: "Der größte Nationalpark des Landes schützt weite Waldflächen, Hochmoore und Gletscherseen. Er bildet zusammen mit dem Bayerischen Wald das größte Waldgebiet Mitteleuropas.",
@@ -560,8 +556,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "park",
     name: { de: "Nationalpark Thayatal", hu: "Podyjí Nemzeti Park", ro: "Parcul Național Podyjí", en: "Podyjí National Park"},
-    image: "/poi-images/czechrepublic-podyji-national-park-life-v2.webp",
-    coords: [15.833, 48.85],
     coords: [15.833, 48.85],
     description: {
       de: "Dieser kleinste Nationalpark Tschechiens liegt an der Grenze zu Österreich. Er schützt das tief eingeschnittene, mäandernde Tal des Flusses Thaya mit seinen Felsformationen.",
@@ -607,8 +601,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "park",
     name: { de: "Nationalpark Böhmische Schweiz", hu: "Cseh Svájc Nemzeti Park", ro: "Parcul Național Elveția Bohemiană", en: "Bohemian Switzerland National Park"},
-    image: "/poi-images/czechrepublic-bohemian-switzerland-life-v2.webp",
-    coords: [14.333, 50.883],
     coords: [14.333, 50.883],
     description: {
       de: "Der Park im Norden Tschechiens ist berühmt für seine bizarren Sandsteinformationen. Er beherbergt das Prebischtor, die größte natürliche Sandsteinbrücke Europas.",
@@ -654,8 +646,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "wildlife",
     name: { de: "Zoo Prag", hu: "Prágai Állatkert", ro: "Grădina Zoologică din Praga", en: "Prague Zoo"},
-    image: "/poi-images/czechrepublic-prague-zoo-life-v2.webp",
-    coords: [14.407, 50.117],
     coords: [14.407, 50.117],
     description: {
       de: "Einer der besten Zoos der Welt befindet sich im Prager Stadtteil Troja. Er ist international bekannt für die Rettung des Przewalski-Pferdes und seine modernen Anlagen.",
@@ -701,8 +691,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "wildlife",
     name: { de: "Zoo Zlín", hu: "Zlíni Állatkert", ro: "Grădina Zoologică Zlín", en: "Zlín Zoo"},
-    image: "/poi-images/czechrepublic-zlin-zoo-life-v2.webp",
-    coords: [17.717, 49.273],
     coords: [17.717, 49.273],
     description: {
       de: "Dieser Zoo ist nach Kontinenten gegliedert und befindet sich in der Nähe des Schlosses Lešná. Er ist besonders bekannt für seine begehbaren Volieren und das Rochenbecken.",
@@ -748,8 +736,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "wildlife",
     name: { de: "Zoo Pilsen", hu: "Plzeňi Állatkert", ro: "Grădina Zoologică Plzeň", en: "Plzeň Zoo"},
-    image: "/poi-images/czechrepublic-plzen-zoo-life-v2.webp",
-    coords: [13.359, 49.758],
     coords: [13.359, 49.758],
     description: {
       de: "Der Zoo Pilsen ist mit einem botanischen Garten und einem DinoPark verbunden. Er beherbergt seltene Arten wie Panzernashörner und Komodowarane.",
@@ -795,8 +781,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "wildlife",
     name: { de: "Zoo Ostrava", hu: "Ostravai Állatkert", ro: "Grădina Zoologică Ostrava", en: "Ostrava Zoo"},
-    image: "/poi-images/czechrepublic-ostrava-zoo-life-v2.webp",
-    coords: [18.324, 49.845],
     coords: [18.324, 49.845],
     description: {
       de: "Dieser weitläufige Waldpark-Zoo konzentriert sich auf die Erhaltung gefährdeter Arten. Er bietet große natürliche Gehege für Elefanten und eine Insel der Lemuren.",
@@ -844,7 +828,6 @@ export const czechrepublicLifeV2: POI[] = [
     name: { de: "Zoo Olmütz", hu: "Olomouci Állatkert", ro: "Grădina Zoologică Olomouc", en: "Olomouc Zoo"},
     image: "/poi-images/czechrepublic-olomouc-zoo-life-v2.webp",
     coords: [17.341, 49.636],
-    coords: [17.341, 49.636],
     description: {
       de: "Der Zoo auf dem Svatý Kopeček ist bekannt für seine Spezialisierung auf Meeresbewohner und Huftiere. Ein 32 Meter hoher Aussichtsturm bietet einen Blick auf die Stadt.",
       hu: "A Svatý Kopeček-en található állatkert tengeri élőlényekre és patásokra szakosodott. Egy 32 méter magas kilátótoronyból nyílik kilátás a városra.",
@@ -888,8 +871,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "wildlife",
     name: { de: "Zoo Iglau", hu: "Jihlavai Állatkert", ro: "Grădina Zoologică Jihlava", en: "Jihlava Zoo"},
-    image: "/poi-images/czechrepublic-jihlava-zoo-life-v2.webp",
-    coords: [15.597, 49.395],
     coords: [15.597, 49.395],
     description: {
       de: "Dieser 'Zoo ohne Gitter' ist spezialisiert auf die Zucht kleiner Affen, Raubkatzen und Reptilien. Er liegt malerisch im Tal des Flusses Jihlávka nahe dem Stadtzentrum.",
@@ -935,8 +916,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "wildlife",
     name: { de: "Zoo Brünn", hu: "Brnói Állatkert", ro: "Grădina Zoologică Brno", en: "Brno Zoo"},
-    image: "/poi-images/czechrepublic-brno-zoo-life-v2.webp",
-    coords: [16.533, 49.231],
     coords: [16.533, 49.231],
     description: {
       de: "Der Zoo liegt am Hang des Berges Mniší hora in Brünn-Bystrc. Er konzentriert sich auf Huftiere, Raubvögel und Tiere aus den nördlichen Regionen der Welt.",
@@ -1063,8 +1042,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "wildlife",
     name: { de: "Zoo Aussig", hu: "Ústí nad Labem-i Állatkert", ro: "Grădina Zoologică Ústí nad Labem", en: "Ústí nad Labem Zoo"},
-    image: "/poi-images/czechrepublic-usti-nad-labem-zoo-life-v2.webp",
-    coords: [14.057, 50.665],
     coords: [14.057, 50.665],
     description: {
       de: "Dieser Zoo am Hang des Mariánská hora wurde ursprünglich als Vogelschutzgebiet Lumpepark gegründet. Er bietet einen weiten Blick über das Elbtal und das Böhmische Mittelgebirge.",
@@ -1371,8 +1348,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "park",
     name: { de: "Schlosspark Průhonice", hu: "Průhonicei Park", ro: "Parcul Průhonice", en: "Průhonice Park"},
-    image: "/poi-images/czechrepublic-pruhonice-park-life-v2.webp",
-    coords: [14.557, 49.998],
     coords: [14.557, 49.998],
     description: {
       de: "Dieser UNESCO-geschützte Landschaftspark ist einer der bedeutendsten botanischen Gärten des Landes. Er beherbergt eine riesige Sammlung von Rhododendren und exotischen Gehölzen.",
@@ -1535,8 +1510,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "park",
     name: { de: "Teichlandschaft Třeboň", hu: "Třeboňi halastavak", ro: "Iazurile din Třeboň", en: "Třeboň Fishponds"},
-    image: "/poi-images/czechrepublic-trebon-fishponds-life-v2.webp",
-    coords: [14.77, 49.003],
     coords: [14.77, 49.003],
     description: {
       de: "Das UNESCO-Biosphärenreservat Třeboňsko ist ein einzigartiges System von künstlichen Teichen, das seit dem Mittelalter besteht. Es ist ein Paradies für Wasservögel und Fischzucht.",
@@ -1843,8 +1816,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "park",
     name: { de: "Biosphärenreservat Pálava", hu: "Pálava bioszféra-rezervátum", ro: "Rezervația Biosferei Pálava", en: "Pálava Biosphere Reserve"},
-    image: "/poi-images/czechrepublic-palava-reserve-life-v2.webp",
-    coords: [16.65, 48.867],
     coords: [16.65, 48.867],
     description: {
       de: "Dieses UNESCO-Biosphärenreservat in Südmähren umfasst die Pollauer Berge. Es ist geprägt durch Kalkfelsen, Steppenvegetation und Weinberge in einem warmen Mikroklima.",
@@ -1890,8 +1861,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "landmark",
     name: { de: "Mährischer Karst", hu: "Morva-karszt", ro: "Carstul Moravian", en: "Moravian Karst"},
-    image: "/poi-images/czechrepublic-moravian-karst-life-v2.webp",
-    coords: [16.712, 49.366],
     coords: [16.712, 49.366],
     description: {
       de: "Das bedeutendste Karstgebiet Mitteleuropas beherbergt über 1100 Höhlen. Bekannteste Attraktionen sind die Punkva-Höhlen mit unterirdischer Bootsfahrt und die Macocha-Schlucht.",
@@ -2198,8 +2167,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "park",
     name: { de: "Naturreservat Soos", hu: "Soos természetvédelmi terület", ro: "Rezervația Naturală Soos", en: "Soos National Nature Reserve"},
-    image: "/poi-images/czechrepublic-soos-reserve-life-v2.webp",
-    coords: [12.404, 50.147],
     coords: [12.404, 50.147],
     description: {
       de: "Das Reservat nahe Franzensbad ist ein Moorgebiet mit Mofetten (Schlammvulkanen). Kohlendioxid blubbert aus dem Boden und erzeugt eine surreale, mondähnliche Landschaft.",
@@ -2326,8 +2293,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "forest",
     name: { de: "Urwald Boubín", hu: "Boubíni őserdő", ro: "Pădurea Virgina Boubín", en: "Boubín Primeval Forest"},
-    image: "/poi-images/czechrepublic-boubin-primeval-forest-life-v2.webp",
-    coords: [13.824, 48.975],
     coords: [13.824, 48.975],
     description: {
       de: "Dieser Teil des Böhmerwaldes wird seit 1858 nicht mehr bewirtschaftet. Er ist einer der ältesten Urwälder Europas mit bis zu 400 Jahre alten Fichten und Tannen.",
@@ -2706,8 +2671,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "landmark",
     name: { de: "Adersbach-Weckelsdorfer Felsen", hu: "Adršpach-Teplice sziklák", ro: "Stâncile Adršpach-Teplice", en: "Adršpach-Teplice Rocks"},
-    image: "/poi-images/czechrepublic-adrspach-teplice-rocks-life-v2.webp",
-    coords: [16.113, 50.613],
     coords: [16.113, 50.613],
     description: {
       de: "Ein riesiges Labyrinth aus Sandsteintürmen bildet diese Felsenstadt im Nordosten Böhmens. Sie beherbergt tiefe Schluchten, einen See und zwei Wasserfälle.",
@@ -2906,8 +2869,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "mountain",
     name: { de: "Altvatergebirge", hu: "Jeseníky-hegység", ro: "Munții Jeseníky", en: "Jeseníky Mountains"},
-    image: "/poi-images/czechrepublic-jeseniky-mountains-life-v2.webp",
-    coords: [17.231, 50.083],
     coords: [17.231, 50.083],
     description: {
       de: "Das Jeseníky-Gebirge im Osten Tschechiens schützt alpine Ökosysteme und Torfmoore. Der höchste Gipfel Praděd beherbergt seltene Gebirgspflanzen.",
@@ -3250,8 +3211,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "mountain",
     name: { de: "Beskiden", hu: "Beszkidek", ro: "Munții Beskydy", en: "Beskydy Mountains"},
-    image: "/poi-images/czechrepublic-beskydy-mountains-life-v2.webp",
-    coords: [18.4, 49.5],
     coords: [18.4, 49.5],
     description: {
       de: "Das größte Landschaftsschutzgebiet Tschechiens schützt dichte Wälder und Bergwiesen an der Grenze zur Slowakei. Es ist eines der wenigen Gebiete mit Bären und Wölfen.",
@@ -3486,8 +3445,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "forest",
     name: { de: "Pürglitzer Wald", hu: "Křivoklátsko", ro: "Pădurea Křivoklátsko", en: "Křivoklátsko Protected Landscape"},
-    image: "/poi-images/czechrepublic-krivoklatsko-forest-life-v2.webp",
-    coords: [13.867, 50.033],
     coords: [13.867, 50.033],
     description: {
       de: "Dieses UNESCO-Biosphärenreservat umfasst weite Laubmischwälder entlang des Flusses Berounka. Es war früher das Jagdrevier der böhmischen Könige.",
@@ -3533,8 +3490,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "park",
     name: { de: "Botanischer Garten Prag", hu: "Prágai Botanikus Kert", ro: "Grădina Botanică din Praga", en: "Prague Botanical Garden"},
-    image: "/poi-images/czechrepublic-prague-botanical-garden-life-v2.webp",
-    coords: [14.414, 50.119],
     coords: [14.414, 50.119],
     description: {
       de: "Der Garten im Stadtteil Troja beherbergt das moderne Gewächshaus Fata Morgana. Er bietet thematische Gärten, einen Weinberg und Sammlungen aus aller Welt.",
@@ -3580,8 +3535,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "park",
     name: { de: "Naturreservat Rejvíz", hu: "Rejvíz természetvédelmi terület", ro: "Rezervația Naturală Rejvíz", en: "Rejvíz Nature Reserve"},
-    image: "/poi-images/czechrepublic-rejviz-reserve-life-v2.webp",
-    coords: [17.294, 50.23],
     coords: [17.294, 50.23],
     description: {
       de: "Das größte Moorgebiet in Mähren liegt im Jeseníky-Gebirge. Es ist bekannt für seine Moose und den Großen Moossee, zu dem ein Lehrpfad auf Holzstegen führt.",
@@ -3888,8 +3841,6 @@ export const czechrepublicLifeV2: POI[] = [
     parent: "CZ",
     type: "forest",
     name: { de: "Kaiserwald", hu: "Slavkovský les", ro: "Codrul Slavkov", en: "Slavkov Forest"},
-    image: "/poi-images/czechrepublic-slavkovsky-les-life-v2.webp",
-    coords: [12.75, 50.083],
     coords: [12.75, 50.083],
     description: {
       de: "Das Waldgebiet im westböhmischen Bäderdreieck schützt wertvolle Hochmoore und Mineralquellen. Es bildet einen natürlichen Wasserspeicher für die umliegenden Kurorte.",
@@ -4161,7 +4112,6 @@ export const czechrepublicLifeV2: POI[] = [
     type: "mountain",
     name: { de: "Adlergebirge", hu: "Orlické hory", ro: "Munții Orlické", en: "Eagle Mountains"},
     image: "/poi-images/czechrepublic-orlicke-hory-life-v2.webp",
-    coords: [16.442, 50.211],
     coords: [16.442, 50.211],
     description: {
       de: "Dieses Gebirge an der polnischen Grenze ist für seine unberührte Natur und tiefen Täler bekannt. Das Schutzgebiet bewahrt wertvolle Bergwiesen und Buchenwälder.",

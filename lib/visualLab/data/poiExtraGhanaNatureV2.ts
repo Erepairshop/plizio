@@ -8,7 +8,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-TV",
     coords: [0.1000, 7.3000],
     name: { de: "Volta-Stausee", hu: "Volta-tó", ro: "Lacul Volta", en: "Lake Volta"},
-    image: "/poi-images/volta-lake-nature-v2.webp",
     description: { de: "Der größte künstliche Stausee der Welt nach Fläche.", hu: "A világ legnagyobb területű mesterséges tározója.", ro: "Cel mai mare lac de acumulare din lume ca suprafață.", en: "The world's largest artificial reservoir by surface area." , es: "El mayor embalse artificial del mundo por superficie.", pt: "O maior lago artificial do mundo em área de superfície.", fr: "Le plus grand lac artificiel au monde par sa superficie."},
     facts: {
       de: ["Entstanden durch den Akosombo-Staudamm.", "Deckt 3,6% der Fläche Ghanas ab."],
@@ -48,7 +47,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-CP",
     coords: [-1.3833, 5.3500],
     name: { de: "Kakum-Nationalpark", hu: "Kakum Nemzeti Park", ro: "Parcul Național Kakum", en: "Kakum National Park"},
-    image: "/poi-images/kakum-forest-nature-v2.webp",
     description: { de: "Ein tropischer Regenwald, bekannt für seine Hängebrücken.", hu: "Trópusi esőerdő, amely függőhídjairól ismert.", ro: "O pădure tropicală cunoscută pentru podurile sale suspendate.", en: "A tropical rainforest known for its canopy walkways." , es: "Una selva tropical famosa por sus puentes colgantes.", pt: "Uma floresta tropical famosa pelas suas pontes suspensas.", fr: "Une forêt tropicale humide célèbre pour ses ponts suspendus."},
     facts: {
       de: ["Heimat seltener Elefanten.", "Bietet 350 Meter lange Hängebrücken."],
@@ -88,7 +86,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-NP",
     coords: [-1.8667, 9.8333],
     name: { de: "Mole-Nationalpark", hu: "Mole Nemzeti Park", ro: "Parcul Național Mole", en: "Mole National Park"},
-    image: "/poi-images/mole-forest-nature-v2.webp",
     description: { de: "Ghanas größtes Wildschutzgebiet mit offener Savanne.", hu: "Ghána legnagyobb vadvédelmi területe nyílt szavannával.", ro: "Cea mai mare rezervație naturală din Ghana cu savană deschisă.", en: "Ghana's largest wildlife refuge with open savanna." , es: "La reserva de fauna más grande de Ghana con sabana abierta.", pt: "A maior reserva de vida selvagem do Gana com savana aberta.", fr: "La plus grande réserve de faune du Ghana avec une savane ouverte."},
     facts: {
       de: ["Bekannt für Elefantenbeobachtungen.", "Gelegen im Norden des Landes."],
@@ -313,7 +310,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-TV",
     coords: [0.5833, 7.1000],
     name: { de: "Wli-Wasserfälle", hu: "Wli-vízesés", ro: "Cascada Wli", en: "Wli Waterfalls"},
-    image: "/poi-images/wli-waterfalls-nature-v2.webp",
     description: { de: "Der höchste Wasserfall in Westafrika.", hu: "Nyugat-Afrika legmagasabb vízesése.", ro: "Cea mai înaltă cascadă din Africa de Vest.", en: "The tallest waterfall in West Africa." , es: "La cascada más alta de África Occidental.", pt: "A cascata mais alta da África Ocidental.", fr: "La plus haute cascade d'Afrique de l'Ouest."},
     facts: {
       de: ["Besteht aus oberem und unterem Fall.", "Liegt nahe der Grenze zu Togo."],
@@ -349,7 +345,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-BO",
     coords: [-2.2500, 8.2833],
     name: { de: "Bui-Nationalpark", hu: "Bui Nemzeti Park", ro: "Parcul Național Bui", en: "Bui National Park"},
-    image: "/poi-images/bui-national-forest-nature-v2.webp",
     description: { de: "Ein Schutzgebiet, das für seine Flusspferdpopulation berühmt ist.", hu: "Védett terület, amely híres vízilóállományáról.", ro: "O rezervație faimoasă pentru populația sa de hipopotami.", en: "A protected area famous for its hippopotamus population." , es: "Un área protegida famosa por su población de hipopótamos.", pt: "Uma área protegida famosa pela sua população de hipopótamos.", fr: "Une zone protégée célèbre pour sa population d'hippopotames."},
     facts: {
       de: ["Durchflossen vom Schwarzen Volta.", "Wichtiges Habitat für Primaten."],
@@ -385,7 +380,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-TV",
     coords: [0.1500, 7.5000],
     name: { de: "Digya-Nationalpark", hu: "Digya Nemzeti Park", ro: "Parcul Național Digya", en: "Digya National Park"},
-    image: "/poi-images/digya-forest-nature-v2.webp",
     description: { de: "Der zweitälteste Nationalpark Ghanas am Volta-See.", hu: "Ghána második legrégebbi nemzeti parkja a Volta-tónál.", ro: "Al doilea cel mai vechi parc național din Ghana de pe Lacul Volta.", en: "Ghana's second oldest national park on Lake Volta." , es: "El segundo parque nacional más antiguo de Ghana, junto al Lago Volta.", pt: "O segundo parque nacional mais antigo do Gana, junto ao Lago Volta.", fr: "Le deuxième plus ancien parc national du Ghana, au bord du lac Volta."},
     facts: {
       de: ["Umfasst Teile des Volta-Sees.", "Reiche Vogelwelt."],
@@ -421,7 +415,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-TV",
     coords: [0.6000, 8.3500],
     name: { de: "Kyabobo-Nationalpark", hu: "Kyabobo Nemzeti Park", ro: "Parcul Național Kyabobo", en: "Kyabobo National Park"},
-    image: "/poi-images/kyabobo-forest-nature-v2.webp",
     description: { de: "Ein bergiger Park an der Grenze zu Togo.", hu: "Hegyvidéki park Togo határán.", ro: "Un parc muntos la granița cu Togo.", en: "A mountainous park on the border with Togo." , es: "Un parque montañoso en la frontera con Togo.", pt: "Um parque montanhoso na fronteira com o Togo.", fr: "Un parc montagneux à la frontière avec le Togo."},
     facts: {
       de: ["Dominanter Berg: Mount Dzebobo.", "Verbindet Savanne und Wald."],
@@ -502,7 +495,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-WE",
     coords: [-2.6667, 5.2500],
     name: { de: "Ankasa-Nationalpark", hu: "Ankasa Nemzeti Park", ro: "Parcul Național Ankasa", en: "Ankasa National Park"},
-    image: "/poi-images/ankasa-forest-nature-v2.webp",
     description: { de: "Ein seltener Typ von feuchtem immergrünem Regenwald.", hu: "Ritka típusú nedves örökzöld esőerdő.", ro: "Un tip rar de pădure tropicală veșnic verde.", en: "A rare type of wet evergreen rainforest." , es: "Un tipo raro de selva tropical siempreverde húmeda.", pt: "Um tipo raro de floresta tropical húmida sempre verde.", fr: "Un type rare de forêt tropicale humide à feuilles persistantes."},
     facts: {
       de: ["Enthält Bambuswälder.", "Sehr hohe Biodiversität."],
@@ -538,7 +530,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-WE",
     coords: [-2.6833, 5.3500],
     name: { de: "Nini-Suhien-Nationalpark", hu: "Nini-Suhien Nemzeti Park", ro: "Parcul Național Nini-Suhien", en: "Nini-Suhien National Park"},
-    image: "/poi-images/nini-suhien-forest-nature-v2.webp",
     description: { de: "Ein bedeutendes Naturschutzgebiet im Südwesten.", hu: "Jelentős természetvédelmi terület délnyugaton.", ro: "O rezervație naturală importantă în sud-vest.", en: "A significant nature reserve in the southwest." , es: "Una importante reserva natural en el suroeste.", pt: "Uma importante reserva natural no sudoeste.", fr: "Une réserve naturelle importante dans le sud-ouest."},
     facts: {
       de: ["Grenzend an Ankasa.", "Dichte tropische Vegetation."],
@@ -619,7 +610,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-WN",
     coords: [-3.0667, 6.5500],
     name: { de: "Bia-Nationalpark", hu: "Bia Nemzeti Park", ro: "Parcul Național Bia", en: "Bia National Park"},
-    image: "/poi-images/bia-forest-nature-v2.webp",
     description: { de: "Biosphärenreservat mit seltenen Primatenarten.", hu: "Bioszféra-rezervátum ritka főemlősfajokkal.", ro: "Rezervație a biosferei cu specii rare de primate.", en: "Biosphere reserve with rare primate species." , es: "Reserva de la Biosfera con especies raras de primates.", pt: "Reserva da Biosfera com espécies raras de primatas.", fr: "Réserve de biosphère abritant des espèces de primates rares."},
     facts: {
       de: ["Enthält einen der letzten Primärwälder.", "UNESCO Biosphärenreservat."],
@@ -736,7 +726,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-ER",
     coords: [-0.4833, 6.2167],
     name: { de: "Atiwa-Gebirge", hu: "Atiwa-hegység", ro: "Munții Atiwa", en: "Atewa Range"},
-    image: "/poi-images/atiwa-mountain-nature-v2.webp",
     description: { de: "Eine Bergkette mit außergewöhnlich hoher Artenvielfalt.", hu: "Hegyvonulat kivételesen magas biodiverzitással.", ro: "Un lanț muntos cu o biodiversitate excepțional de ridicată.", en: "A mountain range with exceptionally high biodiversity." , es: "Una cadena montañosa con una biodiversidad excepcionalmente alta.", pt: "Uma cadeia de montanhas com uma biodiversidade excecionalmente elevada.", fr: "Une chaîne de montagnes à la biodiversité exceptionnellement élevée."},
     facts: {
       de: ["Quelle für viele Flüsse.", "Stark bedroht durch Bergbau."],
@@ -817,7 +806,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-ER",
     coords: [0.0500, 6.0000],
     name: { de: "Akwapim-Togo-Kette", hu: "Akwapim-Togo-hegység", ro: "Munții Akwapim-Togo", en: "Akwapim-Togo Range"},
-    image: "/poi-images/akwapim-mountain-nature-v2.webp",
     description: { de: "Ein langer Gebirgszug, der sich bis nach Togo erstreckt.", hu: "Hosszú hegyvonulat, amely Togóig húzódik.", ro: "Un lanț muntos lung care se întinde până în Togo.", en: "A long mountain range extending into Togo." , es: "Una larga cadena montañosa que se extiende hasta Togo.", pt: "Uma longa cadeia de montanhas que se estende até ao Togo.", fr: "Une longue chaîne de montagnes qui s'étend jusqu'au Togo."},
     facts: {
       de: ["Kühleres Klima auf den Gipfeln.", "Historische Kolonialorte."],
@@ -1051,7 +1039,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-VR",
     coords: [0.9833, 5.9167],
     name: { de: "Keta-Lagune", hu: "Keta-lagúna", ro: "Laguna Keta", en: "Keta Lagoon"},
-    image: "/poi-images/keta-lake-nature-v2.webp",
     description: { de: "Die Keta-Lagune ist das größte Binnengewässer Ghanas und ein Paradies für Vogelliebhaber und Naturschützer.", hu: "Ghána legnagyobb lagúnája.", ro: "Cea mai mare lagună din Ghana, situată în regiunea Volta, fiind un sit Ramsar protejat de importanță internațională.", en: "The largest lagoon in Ghana." , es: "La laguna de Keta es la masa de agua interior más grande de Ghana y un paraíso para los amantes de las aves y los conservacionistas.", pt: "A lagoa de Keta é o maior corpo de água interior do Gana e um paraíso para os amantes de aves e conservacionistas.", fr: "La lagune de Keta est le plus grand plan d'eau intérieur du Ghana et un paradis pour les amateurs d'oiseaux et les protecteurs de la nature."},
     facts: {
       de: ["Brackwasser-Ökosystem.", "Heimat für Tausende Zugvögel.", "Bedeutendes Fischereigebiet."],
@@ -1087,7 +1074,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-NP",
     coords: [-1.0000, 9.0000],
     name: { de: "Weißer Volta", hu: "Fehér-Volta", ro: "Volta Albă", en: "White Volta"},
-    image: "/poi-images/white-volta-river-nature-v2.webp",
     description: { de: "Einer der Hauptzuflüsse des Volta-Flusssystems.", hu: "A Volta folyórendszer egyik fő mellékága.", ro: "Unul dintre principalii afluenți ai sistemului fluvial Volta.", en: "One of the main tributaries of the Volta river system." , es: "Uno de los principales afluentes del sistema del río Volta.", pt: "Um dos principais afluentes do sistema do rio Volta.", fr: "L'un des principaux affluents du système du fleuve Volta."},
     facts: {
       de: ["Entspringt in Burkina Faso.", "Lebensader im Norden."],
@@ -1123,7 +1109,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-BO",
     coords: [-2.5000, 8.5000],
     name: { de: "Schwarzer Volta", hu: "Fekete-Volta", ro: "Volta Neagră", en: "Black Volta"},
-    image: "/poi-images/black-volta-river-nature-v2.webp",
     description: { de: "Ein bedeutender Grenzfluss im Westen Ghanas.", hu: "Fontos határfolyó Ghána nyugati részén.", ro: "Un râu de frontieră important în vestul Ghanei.", en: "A significant border river in western Ghana." , es: "Un importante río fronterizo en el oeste de Ghana.", pt: "Um importante rio fronteiriço no oeste do Gana.", fr: "Un important fleuve frontalier dans l'ouest du Ghana."},
     facts: {
       de: ["Speist den Bui-Stausee.", "Bildet die Grenze zur Elfenbeinküste."],
@@ -1204,7 +1189,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-ER",
     coords: [-1.5000, 5.0000],
     name: { de: "Pra", hu: "Pra", ro: "Pra", en: "Pra River"},
-    image: "/poi-images/pra-river-nature-v2.webp",
     description: { de: "Ein großer Fluss im Süden Ghanas.", hu: "Nagy folyó Dél-Ghána területén.", ro: "Un râu mare în sudul Ghanei.", en: "A major river in southern Ghana." , es: "Un gran río en el sur de Ghana.", pt: "Um grande rio no sul do Gana.", fr: "Un grand fleuve dans le sud du Ghana."},
     facts: {
       de: ["Fließt in den Atlantischen Ozean.", "Wichtige Wasserstraße."],
@@ -1429,7 +1413,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-AS",
     coords: [-1.6000, 6.7000],
     name: { de: "Offin", hu: "Offin", ro: "Offin", en: "Offin River"},
-    image: "/poi-images/offin-river-nature-v2.webp",
     description: { de: "Ein wichtiger Nebenfluss des Pra.", hu: "A Pra folyó fontos mellékága.", ro: "Un afluent important al râului Pra.", en: "An important tributary of the Pra River." , es: "Un importante afluente del Pra.", pt: "Um importante afluente do Pra.", fr: "Un affluent important du Pra."},
     facts: {
       de: ["Bekannt für Goldvorkommen.", "Reich an Fisch."],
@@ -1465,7 +1448,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-WE",
     coords: [-2.3000, 5.0000],
     name: { de: "Ankobra", hu: "Ankobra", ro: "Ankobra", en: "Ankobra River"},
-    image: "/poi-images/ankobra-river-nature-v2.webp",
     description: { de: "Fließt durch die Goldminenregion im Südwesten.", hu: "Átfolyik a délnyugati aranybányászati régión.", ro: "Curge prin regiunea minelor de aur din sud-vest.", en: "Flows through the gold mining region in the southwest." , es: "Fluye a través de la región de las minas de oro en el suroeste.", pt: "Flui através da região das minas de ouro no sudoeste.", fr: "Coule à travers la région des mines d'or du sud-ouest."},
     facts: {
       de: ["Schiffbar für kleinere Boote.", "Wichtig für die lokale Industrie."],
@@ -1501,7 +1483,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-WN",
     coords: [-3.0000, 5.5000],
     name: { de: "Tano", hu: "Tano", ro: "Tano", en: "Tano River"},
-    image: "/poi-images/tano-river-nature-v2.webp",
     description: { de: "Ein Fluss, der die Grenze zu Côte d'Ivoire bildet.", hu: "Folyó, amely a határt alkotja Elefántcsontpart felé.", ro: "Un râu care formează granița cu Coasta de Fildeș.", en: "A river forming the border with Côte d'Ivoire." , es: "Un río que forma la frontera natural con Côte d'Ivoire.", pt: "Um rio que forma a fronteira com a Côte d'Ivoire.", fr: "Un fleuve qui forme la frontière avec la Côte d'Ivoire."},
     facts: {
       de: ["Mündet in die Aby-Lagune.", "Wichtiger ökologischer Korridor."],
@@ -1537,7 +1518,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-OS",
     coords: [0.5000, 8.0000],
     name: { de: "Oti", hu: "Oti", ro: "Oti", en: "Oti River"},
-    image: "/poi-images/oti-river-nature-v2.webp",
     description: { de: "Ein bedeutender Nebenfluss des Volta.", hu: "A Volta folyó jelentős mellékága.", ro: "Un afluent important al Voltei.", en: "A major tributary of the Volta." , es: "Un importante afluente del Volta.", pt: "Um importante afluente do Volta.", fr: "Un affluent majeur de la Volta."},
     facts: {
       de: ["Durchquert den Nordosten.", "Erhöht den Wasserpegel des Volta-Sees."],
@@ -1573,7 +1553,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-WE",
     coords: [-1.9167, 4.7833],
     name: { de: "Busua-Bucht", hu: "Busua-öböl", ro: "Golful Busua", en: "Busua Beach"},
-    image: "/poi-images/busua-beach-nature-v2.webp",
     description: { de: "Ein bekannter Strand am Atlantischen Ozean.", hu: "Ismert strand az Atlanti-óceán partján.", ro: "O plajă spectaculoasă cu nisip fin, situată în regiunea de vest, faimoasă pentru condițiile excelente de surfing.", en: "A well-known beach on the Atlantic Ocean." , es: "Una playa conocida en el Océano Atlántico.", pt: "Uma praia conhecida no Oceano Atlântico.", fr: "Une plage célèbre au bord de l'océan Atlantique."},
     facts: {
       de: ["Beliebt bei Surfern.", "Goldgelber Sand."],
@@ -1609,7 +1588,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-AA",
     coords: [0.1500, 5.5667],
     name: { de: "Labadi-Strand", hu: "Labadi-strand", ro: "Plaja Labadi", en: "Labadi Beach"},
-    image: "/poi-images/labadi-beach-nature-v2.webp",
     description: { de: "Der meistbesuchte Strand in der Nähe von Accra.", hu: "A leglátogatottabb strand Accra közelében.", ro: "Cea mai vizitată plajă lângă Accra.", en: "The most visited beach near Accra." , es: "La playa más visitada cerca de Accra.", pt: "A praia mais visitada perto de Acra.", fr: "La plage la plus visitée près d'Accra."},
     facts: {
       de: ["Wochenend-Treffpunkt.", "Bietet kulturelle Veranstaltungen."],
@@ -1690,7 +1668,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-AA",
     coords: [0.6333, 5.7833],
     name: { de: "Ada-Foah", hu: "Ada-Foah", ro: "Ada-Foah", en: "Ada Foah"},
-    image: "/poi-images/ada-foah-sea-nature-v2.webp",
     description: { de: "Wo die Volta-Mündung den Atlantik trifft.", hu: "Ahol a Volta torkolata találkozik az Atlanti-óceánnal.", ro: "Unde estuarul Voltei întâlnește Atlanticul.", en: "Where the Volta estuary meets the Atlantic." , es: "Donde la desembocadura del Volta se encuentra con el Atlántico.", pt: "Onde a foz do Volta encontra o Atlântico.", fr: "Là où l'embouchure de la Volta rencontre l'Atlantique."},
     facts: {
       de: ["Idealer Ort zum Schwimmen.", "Wassersportzentrum."],
@@ -1726,7 +1703,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-WE",
     coords: [-2.0833, 4.7333],
     name: { de: "Cape Three Points", hu: "Cape Three Points", ro: "Cape Three Points", en: "Cape Three Points"},
-    image: "/poi-images/cape-three-points-sea-nature-v2.webp",
     description: { de: "Der südlichste Punkt Ghanas.", hu: "Ghána legdélibb pontja.", ro: "Cel mai sudic punct al Ghanei, oferind vederi dramatice asupra oceanului și un ecosistem marin divers.", en: "The southernmost point of Ghana." , es: "El punto más meridional de Ghana.", pt: "O ponto mais meridional do Gana.", fr: "Le point le plus méridional du Ghana."},
     facts: {
       de: ["Historischer Leuchtturm.", "Grüne Küstenlandschaft."],
@@ -1762,7 +1738,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-AA",
     coords: [0.0000, 5.0000],
     name: { de: "Golf von Guinea", hu: "Guinea-öböl", ro: "Golful Guineei", en: "Gulf of Guinea"},
-    image: "/poi-images/gulf-of-guinea-sea-nature-v2.webp",
     description: { de: "Der Teil des Atlantiks, der Ghana begrenzt.", hu: "Az Atlanti-óceán azon része, amely Ghánát határolja.", ro: "Partea Atlanticului care mărginește Ghana.", en: "The part of the Atlantic bordering Ghana." , es: "La parte del Atlántico que limita con Ghana.", pt: "A parte do Atlântico que limita com o Gana.", fr: "La partie de l'Atlantique qui borde le Ghana."},
     facts: {
       de: ["Reich an Fischvorkommen.", "Wichtige Handelsroute."],
@@ -1843,7 +1818,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-CP",
     coords: [-1.3900, 5.3400],
     name: { de: "Kakum-Waldreservat", hu: "Kakum Erdőrezervátum", ro: "Rezervația Forestieră Kakum", en: "Kakum Forest Reserve"},
-    image: "/poi-images/kakum-canopy-forest-nature-v2.webp",
     description: { de: "Ein geschütztes Waldgebiet um den Nationalpark.", hu: "Védett erdőterület a nemzeti park körül.", ro: "O zonă forestieră protejată în jurul parcului național.", en: "A protected forest area around the national park." , es: "Una reserva forestal protegida que rodea el parque nacional.", pt: "Uma reserva florestal protegida que rodeia o parque nacional.", fr: "Une zone forestière protégée entourant le parc national."},
     facts: {
       de: ["Wichtig für die CO2-Speicherung.", "Heimat vieler Insektenarten."],
@@ -1879,7 +1853,6 @@ export const poiExtraGhanaNatureV2: POI[] = [
     parent: "GH-BO",
     coords: [-2.2400, 8.2700],
     name: { de: "Bui-Stausee", hu: "Bui-tározó", ro: "Lacul Bui", en: "Bui Reservoir"},
-    image: "/poi-images/bui-dam-lake-nature-v2.webp",
     description: { de: "Ein künstlicher See durch das Bui-Wasserkraftwerk.", hu: "Mesterséges tó a Bui vízerőmű által.", ro: "Un lac artificial creat de centrala hidroelectrică Bui.", en: "An artificial lake created by the Bui hydropower project." , es: "Un lago artificial creado por la central hidroeléctrica de Bui.", pt: "Um lago artificial criado pela central hidroelétrica de Bui.", fr: "Un lac artificiel créé par la centrale hydroélectrique de Bui."},
     facts: {
       de: ["Energiegewinnung für Ghana.", "Veränderte die lokale Ökologie."],

@@ -7,8 +7,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "castle",
     name: { de: "Bratislavaer Burg", hu: "Pozsonyi vár", ro: "Castelul Bratislava", en: "Bratislava Castle"},
-    image: "/poi-images/slovakia-bratislava-castle-landmarks-v2.webp",
-    coords: [17.1002, 48.1422],
     coords: [17.1002, 48.1422],
     description: {
       de: "Die Burg thront auf einem Felsen über der Donau im Zentrum der Hauptstadt. Nach einem Brand im Jahr 1811 wurde sie erst in den 1950er Jahren wiederaufgebaut.",
@@ -54,8 +52,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "cathedral",
     name: { de: "Martinsdom", hu: "Szent Márton-dóm", ro: "Catedrala Sfântul Martin", en: "St. Martin's Cathedral"},
-    image: "/poi-images/slovakia-st-martins-cathedral-landmarks-v2.webp",
-    coords: [17.1049, 48.1419],
     coords: [17.1049, 48.1419],
     description: {
       de: "Diese gotische Kirche war über 250 Jahre lang die Krönungskirche der ungarischen Könige. Sie befindet sich am Rande der Altstadt unterhalb der Burg.",
@@ -101,8 +97,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "palace",
     name: { de: "Palais Grassalkovich", hu: "Grassalkovich-kastély", ro: "Palatul Grassalkovich", en: "Grassalkovich Palace"},
-    image: "/poi-images/slovakia-grassalkovich-palace-landmarks-v2.webp",
-    coords: [17.1077, 48.1491],
     coords: [17.1077, 48.1491],
     description: {
       de: "Das im Rokoko-Stil errichtete Gebäude dient heute als offizieller Amtssitz des Präsidenten der Slowakei. Es wurde 1760 für den Grafen Anton Grassalkovich erbaut.",
@@ -148,8 +142,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "landmark",
     name: { de: "Altes Rathaus", hu: "Régi városháza", ro: "Vechea Primărie", en: "Old Town Hall"},
-    image: "/poi-images/slovakia-bratislava-old-town-hall-landmarks-v2.webp",
-    coords: [17.1086, 48.1444],
     coords: [17.1086, 48.1444],
     description: {
       de: "Es ist eines der ältesten Steingebäude der Stadt und beherbergt heute das Stadtmuseum. Der Komplex besteht aus mehreren Häusern, die im Laufe der Jahrhunderte verbunden wurden.",
@@ -195,8 +187,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "tower",
     name: { de: "Michaelertor", hu: "Mihály-kapu", ro: "Poarta lui Mihail", en: "Michael's Gate"},
-    image: "/poi-images/slovakia-michaels-gate-landmarks-v2.webp",
-    coords: [17.1067, 48.1451],
     coords: [17.1067, 48.1451],
     description: {
       de: "Dies ist das einzige erhaltene Stadttor der mittelalterlichen Befestigungsanlagen von Bratislava. Der barocke Turm beherbergt eine Waffenausstellung.",
@@ -242,8 +232,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "church",
     name: { de: "Blaue Kirche", hu: "Kék templom", ro: "Biserica Albastră", en: "Blue Church"},
-    image: "/poi-images/slovakia-blue-church-landmarks-v2.webp",
-    coords: [17.1168, 48.1434],
     coords: [17.1168, 48.1434],
     description: {
       de: "Die offizielle St.-Elisabeth-Kirche ist bekannt für ihre hellblaue Farbe und die Verwendung von Majolika-Fliesen. Sie ist ein Meisterwerk des ungarischen Sezessionsstils.",
@@ -289,8 +277,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "monument",
     name: { de: "Slavín", hu: "Slavín", ro: "Slavín", en: "Slavín"},
-    image: "/poi-images/slovakia-slavin-memorial-landmarks-v2.webp",
-    coords: [17.0997, 48.1541],
     coords: [17.0997, 48.1541],
     description: {
       de: "Dieses Denkmal und der Militärfriedhof ehren die sowjetischen Soldaten, die 1945 bei der Befreiung von Bratislava fielen. Es bietet einen Panoramablick über die gesamte Stadt.",
@@ -561,8 +547,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "castle",
     name: { de: "Burg Theben", hu: "Dévényi vár", ro: "Castelul Devín", en: "Devín Castle"},
-    image: "/poi-images/slovakia-devin-castle-landmarks-v2.webp",
-    coords: [16.9783, 48.1739],
     coords: [16.9783, 48.1739],
     description: {
       de: "Die Burgruine liegt am Zusammenfluss von March und Donau an der Grenze zu Österreich. Sie ist eine der wichtigsten archäologischen Stätten der Slowakei.",
@@ -608,8 +592,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "castle",
     name: { de: "Arwaburg", hu: "Árva vára", ro: "Castelul Orava", en: "Orava Castle"},
-    image: "/poi-images/slovakia-orava-castle-landmarks-v2.webp",
-    coords: [19.3589, 49.2619],
     coords: [19.3589, 49.2619],
     description: {
       de: "Die Burg gilt als eine der schönsten Burgen der Slowakei und thront auf einer steilen Klippe über dem Fluss Orava. Sie wurde auf mehreren Ebenen errichtet.",
@@ -655,8 +637,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "castle",
     name: { de: "Schloss Weinitz", hu: "Bajmóci várkastély", ro: "Castelul Bojnice", en: "Bojnice Castle"},
-    image: "/poi-images/slovakia-bojnice-castle-landmarks-v2.webp",
-    coords: [18.5779, 48.7797],
     coords: [18.5779, 48.7797],
     description: {
       de: "Das Schloss ist für sein märchenhaftes Aussehen bekannt und wurde im 19. Jahrhundert nach dem Vorbild der französischen Loire-Schlösser umgestaltet.",
@@ -702,8 +682,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "castle",
     name: { de: "Burg Trentschin", hu: "Trencséni vár", ro: "Castelul Trenčín", en: "Trenčín Castle"},
-    image: "/poi-images/slovakia-trencin-castle-landmarks-v2.webp",
-    coords: [18.0447, 48.8943],
     coords: [18.0447, 48.8943],
     description: {
       de: "Die Burg beherrscht die Stadt Trenčín und das Waagtal. Bekannt ist sie vor allem für die römische Inschrift auf dem Burgfelsen aus dem Jahr 179 n. Chr.",
@@ -749,8 +727,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "cathedral",
     name: { de: "Elisabeth-Dom", hu: "Szent Erzsébet-dóm", ro: "Catedrala Sfânta Elisabeta", en: "St. Elisabeth Cathedral"},
-    image: "/poi-images/slovakia-st-elisabeth-cathedral-landmarks-v2.webp",
-    coords: [21.2575, 48.7203],
     coords: [21.2575, 48.7203],
     description: {
       de: "Dieses Meisterwerk der Gotik in Košice ist die größte Kirche der Slowakei. Sie befindet sich im Zentrum der spindelförmigen Hauptstraße der Stadt.",
@@ -913,8 +889,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "ruins",
     name: { de: "Burg Schächtitz", hu: "Csejte vára", ro: "Castelul Čachtice", en: "Čachtice Castle"},
-    image: "/poi-images/slovakia-cachtice-castle-landmarks-v2.webp",
-    coords: [17.7611, 48.7247],
     coords: [17.7611, 48.7247],
     description: {
       de: "Die Burgruine ist berüchtigt als Wohnsitz der 'Blutgräfin' Elisabeth Báthory. Sie liegt auf einem Hügel in den Kleinen Karpaten und bietet weite Ausblicke.",
@@ -1329,8 +1303,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "ruins",
     name: { de: "Burg Beckov", hu: "Beckó vára", ro: "Castelul Beckov", en: "Beckov Castle"},
-    image: "/poi-images/slovakia-beckov-castle-landmarks-v2.webp",
-    coords: [17.8986, 48.7908],
     coords: [17.8986, 48.7908],
     description: {
       de: "Die markante Burgruine thront auf einem 60 Meter hohen steilen Felsen über dem Dorf Beckov. Sie war einst eine uneinnehmbare Festung im Waagtal.",
@@ -1376,8 +1348,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "castle",
     name: { de: "Burg Krásna Hôrka", hu: "Andrássy-vár (Krasznahorka)", ro: "Castelul Krásna Hôrka", en: "Krásna Hôrka Castle"},
-    image: "/poi-images/slovakia-krasna-horka-castle-landmarks-v2.webp",
-    coords: [20.6003, 48.6586],
     coords: [20.6003, 48.6586],
     description: {
       de: "Die Burg auf einem kegelförmigen Hügel war jahrhundertelang der Stammsitz der Familie Andrássy. Sie beherbergt wertvolle historische Sammlungen.",
@@ -1423,8 +1393,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "palace",
     name: { de: "Schloss Betliar", hu: "Andrássy-kastély (Betlér)", ro: "Conacul Betliar", en: "Betliar Mansion"},
-    image: "/poi-images/slovakia-betliar-mansion-landmarks-v2.webp",
-    coords: [20.5103, 48.7139],
     coords: [20.5103, 48.7139],
     description: {
       de: "Das Jagdschloss der Familie Andrássy ist für seine originale Inneneinrichtung und die riesige Bibliothek bekannt. Es ist von einem weitläufigen englischen Park umgeben.",
@@ -1839,8 +1807,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "castle",
     name: { de: "Burg Strečno", hu: "Sztrecsény vára", ro: "Castelul Strečno", en: "Strečno Castle"},
-    image: "/poi-images/slovakia-strecno-castle-landmarks-v2.webp",
-    coords: [18.8617, 49.1764],
     coords: [18.8617, 49.1764],
     description: {
       de: "Die Burgruine liegt auf einem hohen Kalksteinfelsen über dem Fluss Waag an einer strategischen Engstelle. Sie sicherte einst die Handelswege durch das Tal.",
@@ -1886,8 +1852,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "castle",
     name: { de: "Neutraer Burg", hu: "Nyitrai vár", ro: "Castelul Nitra", en: "Nitra Castle"},
-    image: "/poi-images/slovakia-nitra-castle-landmarks-v2.webp",
-    coords: [18.0867, 48.3186],
     coords: [18.0867, 48.3186],
     description: {
       de: "Die Burg in Nitra ist ein bedeutendes religiöses und historisches Zentrum der Slowakei. Sie umfasst die Kathedrale des heiligen Emmeram und den Bischofspalast.",
@@ -1933,8 +1897,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "church",
     name: { de: "Holzkirche von Hronsek", hu: "Garamszegi artikuláris fatemplom", ro: "Biserica de lemn din Hronsek", en: "Hronsek Wooden Church"},
-    image: "/poi-images/slovakia-hronsek-wooden-church-landmarks-v2.webp",
-    coords: [19.1553, 48.6486],
     coords: [19.1553, 48.6486],
     description: {
       de: "Diese hölzerne Artikular-Kirche wurde ohne die Verwendung eines einzigen Metallnagels erbaut. Sie ist eines der bedeutendsten Beispiele slowakischer Sakralarchitektur.",
@@ -1980,8 +1942,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "landmark",
     name: { de: "Altes Rathaus Levoča", hu: "Lőcsei városháza", ro: "Primăria Veche din Levoča", en: "Levoča Old Town Hall"},
-    image: "/poi-images/slovakia-levoca-town-hall-landmarks-v2.webp",
-    coords: [20.5894, 49.0258],
     coords: [20.5894, 49.0258],
     description: {
       de: "Das Renaissance-Rathaus steht in der Mitte des historischen Platzes von Levoča. Es beherbergt Ausstellungen des Zipser Museums und ist für seine Arkaden bekannt.",
@@ -2027,8 +1987,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "church",
     name: { de: "Jakobskirche Levoča", hu: "Szent Jakab-bazilika (Lőcse)", ro: "Bazilica Sfântul Iacob din Levoča", en: "Basilica of St. James"},
-    image: "/poi-images/slovakia-st-james-basilica-landmarks-v2.webp",
-    coords: [20.5889, 49.0264],
     coords: [20.5889, 49.0264],
     description: {
       de: "Diese gotische Kirche beherbergt den höchsten hölzernen spätgotischen Altar der Welt. Er wurde in der Werkstatt von Meister Paul von Levoča geschaffen.",
@@ -2074,8 +2032,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "castle",
     name: { de: "Altes Schloss Schemnitz", hu: "Óvár (Selmecbánya)", ro: "Castelul Vechi din Banská Štiavnica", en: "Old Castle"},
-    image: "/poi-images/slovakia-stiavnica-old-castle-landmarks-v2.webp",
-    coords: [18.8894, 48.4594],
     coords: [18.8894, 48.4594],
     description: {
       de: "Das Alte Schloss ist eine ehemalige romanische Basilika, die im 16. Jahrhundert zu einer Festung gegen die Türken umgebaut wurde. Es dient heute als Museum.",
@@ -2121,8 +2077,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "landmark",
     name: { de: "Altes Rathaus Bardejov", hu: "Bártfai városháza", ro: "Vechea Primărie din Bardejov", en: "Bardejov Town Hall"},
-    image: "/poi-images/slovakia-bardejov-town-hall-landmarks-v2.webp",
-    coords: [21.2758, 49.2942],
     coords: [21.2758, 49.2942],
     description: {
       de: "Das ehemalige Rathaus steht isoliert in der Mitte des Marktplatzes von Bardejov. Es gilt als das erste Renaissancegebäude in der Slowakei.",
@@ -2168,8 +2122,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "castle",
     name: { de: "Burg Bibersburg", hu: "Vöröskő vára", ro: "Castelul Piatra Roșie", en: "Red Stone Castle"},
-    image: "/poi-images/slovakia-red-stone-castle-landmarks-v2.webp",
-    coords: [17.3353, 48.3889],
     coords: [17.3353, 48.3889],
     description: {
       de: "Die Burg Červený Kameň in den Kleinen Karpaten ist berühmt für ihre riesigen Verteidigungskeller. Sie war lange Zeit im Besitz der Familie Fugger und später Pálffy.",
@@ -2215,8 +2167,6 @@ export const slovakiaLandmarksV2: POI[] = [
     parent: "SK",
     type: "castle",
     name: { de: "Burg Lublau", hu: "Lubló vára", ro: "Castelul Stará Ľubovňa", en: "Stará Ľubovňa Castle"},
-    image: "/poi-images/slovakia-stara-lubovna-castle-landmarks-v2.webp",
-    coords: [20.6992, 49.3147],
     coords: [20.6992, 49.3147],
     description: {
       de: "Die Burg sicherte einst die Grenze zu Polen und diente als Aufbewahrungsort für die polnischen Krönungsinsignien. Unterhalb der Burg befindet sich ein Freilichtmuseum.",
@@ -2263,7 +2213,6 @@ export const slovakiaLandmarksV2: POI[] = [
     type: "castle",
     name: { de: "Schloss Kesmark", hu: "Késmárki vár", ro: "Castelul Kežmarok", en: "Kežmarok Castle"},
     image: "/poi-images/slovakia-kezmarok-castle-landmarks-v2.webp",
-    coords: [20.4331, 49.1394],
     coords: [20.4331, 49.1394],
     description: {
       de: "Die Burg liegt direkt im Stadtzentrum von Kežmarok. Sie ist eine der wenigen Stadtburgen der Slowakei und diente als Verteidigungsanlage sowie Residenz.",

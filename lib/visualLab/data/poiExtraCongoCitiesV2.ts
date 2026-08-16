@@ -25,7 +25,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       ro: ["Brazzaville este situat la aproximativ 500 km distanță de Oceanul Atlantic.", "Orașul a fost capitala Africii Ecuatoriale Franceze din 1910 până în 1958.", "Podul de peste fluviul Congo între cele două capitale este în proiect de zeci de ani.", "Catedrala Sacré-Cœur a fost construită în anul 1892.", "Nabemba Tower are 30 de etaje și domină panorama orașului.", "Populația orașului depășește în prezent 2 milioane de locuitori.", "Gara Centrală este un monument istoric construit în stil art deco.", "Brazzaville este sediul central al Băncii Statelor din Africa Centrală (BEAC) în Congo."],
       en: ["Brazzaville was founded in 1880 on the site of a small village called Ntamo.", "General Charles de Gaulle made his famous 1944 speech on colonial reform here.", "The city is located at the coordinates 4°16′S 15°17′E.", "Brazzaville's Maya-Maya Airport is a major international gateway.", "The Poto-Poto neighborhood is the city's most famous artistic quarter.", "The city sits at an altitude of 320 meters above sea level.", "Brazzaville was the first African city to host the All-Africa Games in 1965.", "The Congo River flow at Brazzaville is the second-largest in the world by volume."],
     }, },
-    image: "/poi-images/cg-brazzaville-cities-v2.webp",
     description: {
       de: "Brazzaville ist die Hauptstadt der Republik Kongo am Nordufer des Kongo-Flusses. Die Stadt liegt direkt gegenüber von Kinshasa und ist das politische Zentrum des Landes.",
       hu: "Brazzaville a Kongói Köztársaság fővárosa és legnagyobb városa, a Kongó-folyó északi partján.",
@@ -73,7 +72,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-pointe-noire-cities-v2.webp",
     description: {
       de: "Pointe-Noire ist die wichtigste Hafenstadt des Landes am Atlantik. Die Stadt verbindet den Seehandel mit der Ölwirtschaft und ist das große Wirtschaftszentrum an der Küste.",
       hu: "Pointe-Noire az ország gazdasági központja és a legfontosabb tengeri kikötő az Atlanti-óceán partján.",
@@ -121,7 +119,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-dolisie-cities-v2.webp",
     description: {
       de: "Dolisie liegt im Südwesten der Republik Kongo und ist der wichtigste Ort im Departement Niari. Als Knoten an der Bahnlinie zwischen Brazzaville und Pointe-Noire verbindet die Stadt das Hinterland mit der Küste.",
       hu: "Dolisie, korábbi nevén Loubomo, az ország harmadik legnagyobb városa és fontos vasúti csomópont.",
@@ -348,7 +345,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-ouesso-cities-v2.webp",
     description: {
       de: "Ouésso ist eine Marktstadt im Norden des Kongo am Sangha-Fluss und das Zentrum der Sangha-Region.",
       hu: "Ouésso mezőváros Kongó északi részén, a Sangha-folyó partján, a Sangha régió központja.",
@@ -396,7 +392,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-madingou-cities-v2.webp",
     description: {
       de: "Madingou ist eine Stadt im grünen Süden der Republik Kongo und Verwaltungssitz von Bouenza. Der Ort liegt an einer wichtigen Verkehrsachse zwischen den südlichen Landesteilen.",
       hu: "Madingou a Bouenza megy?ben fekv? v?ros, amely a k?rnyez? mez?gazdas?gi t?rs?g egyik k?zpontja. A d?l-kong?i bels? utak ?s kereskedelem fontos ?llom?sa.",
@@ -493,7 +488,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-sibiti-cities-v2.webp",
     description: {
       de: "Sibiti ist die Hauptstadt der Lékoumou-Region und liegt in einer malerischen, hügeligen Waldlandschaft.",
       hu: "Sibiti a Lékoumou régió fővárosa, amely egy festői, dombos erdei tájon fekszik.",
@@ -541,7 +535,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-gamboma-cities-v2.webp",
     description: {
       de: "Gamboma liegt in den Plateaux im zentralen Kongo und dient als regionaler Markt- und Verwaltungsort. Die Stadt verbindet die Savannen des Inlandes mit den Verkehrswegen nach Brazzaville.",
       hu: "Gamboma a Plateaux r?gi? egyik fontos v?rosa K?z?p-Kong?ban. A telep?l?s a t?rs?g k?z?ti kapcsolataiban ?s ell?t?s?ban j?tszik szerepet.",
@@ -732,7 +725,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-makoua-cities-v2.webp",
     description: {
       de: "Makoua ist eine Stadt im nördlichen Binnenland der Republik Kongo. Sie liegt in einer waldreichen Region der Cuvette und ist ein wichtiger Ort für die umliegenden Gemeinden.",
       hu: "Makoua a Cuvette megye ?szaki r?sz?n tal?lhat? v?ros, amely a k?rnyez? erd?s ?s mez?gazdas?gi ter?leteket szolg?lja ki. Helyi k?zigazgat?si ?s kereskedelmi szerepe van.",
@@ -780,7 +772,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-djambala-cities-v2.webp",
     description: {
       de: "Djambala ist die Hauptstadt der Plateaux im Zentrum des Landes. Die Stadt liegt in einer Hochebene und ist ein wichtiger Verwaltungsstandort der Region.",
       hu: "Djambala a Plateaux megye k?zigazgat?si k?zpontja. A v?ros a fenns?kvid?k egyik legfontosabb telep?l?se, ?s a t?rs?g szolg?ltat? k?zpontjak?nt m?k?dik.",
@@ -828,7 +819,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-ewo-cities-v2.webp",
     description: {
       de: "Ewo ist die Hauptstadt des Departements Cuvette-Ouest. Die kleine Stadt liegt im Nordwesten des Landes und bildet das Zentrum einer dünn besiedelten Region.",
       hu: "Ewo a Cuvette-Ouest régió fővárosa, a trópusi esőerdő szívében fekszik.",
@@ -873,7 +863,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-oyo-cities-v2.webp",
     description: {
       de: "Oyo ist eine strategisch wichtige Stadt am Alima-Fluss, bekannt als Geburtsort des Präsidenten Denis Sassou-Nguesso.",
       hu: "Oyo egy stratégiailag fontos város az Alima-folyó partján, Denis Sassou-Nguesso elnök szülőhelyeként ismert.",
@@ -918,7 +907,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-boundji-cities-v2.webp",
     description: {
       de: "Boundji liegt in der Cuvette im nördlichen Kongo und ist ein regionaler Ort zwischen Wald und Savanne. Der Ort versorgt die Umgebung mit Handel und öffentlichen Diensten.",
       hu: "Boundji egy történelmi város a Cuvette régióban, amely kulturális jelentőségéről ismert.",
@@ -963,7 +951,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-loutete-cities-v2.webp",
     description: {
       de: "Loutété ist ein bedeutendes Industriezentrum in der Bouenza-Region, vor allem für seine Zementproduktion bekannt.",
       hu: "Loutété jelentős ipari központ a Bouenza régióban, elsősorban cementgyártásáról ismert.",
@@ -1008,7 +995,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-mindouli-cities-v2.webp",
     description: {
       de: "Mindouli liegt im Departement Pool südlich von Brazzaville. Der Ort ist mit dem Verkehrsnetz der Hauptstadt verbunden und gehört zu den älteren Siedlungen im Umland.",
       hu: "Mindouli a Pool megye d?lnyugati r?sz?n fekv? telep?l?s, amely a Brazzaville ?s a d?li ?tvonalak ment?n fekszik. K?zleked?si ?s mez?gazdas?gi jelent?s?ge van.",
@@ -1053,7 +1039,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-mossaka-cities-v2.webp",
     description: {
       de: "Mossaka ist eine Flussstadt an den Wasserwegen der Cuvette im Norden des Landes. Der Ort ist vor allem durch Fischerei und den Verkehr auf dem Wasser geprägt.",
       hu: "Mossaka fontos kikötőváros a Kongó és a Sangha összefolyásánál, halászatáról ismert.",
@@ -1190,7 +1175,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-kelle-cities-v2.webp",
     description: {
       de: "Kellé ist eine abgelegene Siedlung in der Cuvette-Ouest-Region, bekannt für ihre unberührte Natur.",
       hu: "Kellé egy távoli település a Cuvette-Ouest régióban, érintetlen természetéről ismert.",
@@ -1327,7 +1311,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-boko-cities-v2.webp",
     description: {
       de: "Boko liegt südlich von Brazzaville im Departement Pool. Der Ort ist Teil des landwirtschaftlichen Umlands der Hauptstadt.",
       hu: "Boko a Pool megye egyik kisebb v?rosa Brazzaville k?zel?ben. A f?v?ros k?rny?ki telep?l?sk?nt k?z?ti ?s helyi gazdas?gi kapcsolatokkal rendelkezik.",
@@ -1602,7 +1585,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-mpouya-cities-v2.webp",
     description: {
       de: "Mpouya liegt am Kongo-Fluss im Departement Plateaux. Die Stadt nutzt ihre Lage am Wasser als wichtigen Punkt für Verkehr und Versorgung.",
       hu: "Mpouya a Kong? foly? menti telep?l?sek egyike a Plateaux t?rs?gben. A v?zi k?zleked?s ?s a part menti ?let hat?rozza meg.",
@@ -1693,7 +1675,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-abala-cities-v2.webp",
     description: {
       de: "Abala liegt in den Plateaux und gehört zu den kleineren Orten im zentralen Inland. Die Stadt ist von Savannenlandschaft und lokalen Feldern umgeben.",
       hu: "Abala a Cuvette t?rs?g egyik kisebb v?rosa, amely a k?z?p-?szaki telep?l?sh?l?zat r?sze. A helyi k?z?ss?gek sz?m?ra alapvet? szolg?ltat?si pont.",
@@ -1738,7 +1719,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-allembe-cities-v2.webp",
     description: {
       de: "Allembé liegt im Departement Plateaux und ist ein ruhiger Ort im zentralen Inland. Die Umgebung ist dünn besiedelt und von offener Landschaft geprägt.",
       hu: "Allembe a fenns?kvid?khez kapcsol?d? kisebb kong?i telep?l?s. A k?rnyez? falvakhoz k?t?d? helyi kereskedelem ?s igazgat?s jellemzi.",
@@ -1783,7 +1763,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-dongou-cities-v2.webp",
     description: {
       de: "Dongou liegt im Nordosten der Republik Kongo am Ubangi. Die Stadt ist ein wichtiger Flusspunkt in der Likouala und nahe an der Grenze zur Zentralafrikanischen Republik.",
       hu: "Dongou a Likouala megy?ben, az ?szaki foly?vid?ken tal?lhat? v?ros. A folyami k?zleked?s ?s a hat?rk?zeli fekv?s miatt fontos.",
@@ -1828,7 +1807,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-epena-cities-v2.webp",
     description: {
       de: "Épéna liegt in der Likouala im nördlichen Regenwaldgebiet. Der Ort ist vor allem als lokales Zentrum in einer wasserreichen Region bekannt.",
       hu: "Epena a Likouala t?rs?g egyik ismert telep?l?se, mocsaras ?s erd?s k?rnyezetben. A helyi k?z?ss?gek sz?m?ra kereskedelmi ?s k?zigazgat?si pont.",
@@ -1873,7 +1851,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-betou-cities-v2.webp",
     description: {
       de: "Betou liegt im äußersten Nordosten der Republik Kongo. Die Stadt verbindet die Grenzregion mit den Handels- und Verkehrswegen der Likouala.",
       hu: "Betou a keleti Likouala egyik hat?rmenti v?rosa. A t?rs?g foly?kkal, erd?kkel ?s hat?rforgalommal jellemezhet?.",
@@ -1918,7 +1895,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-liranga-cities-v2.webp",
     description: {
       de: "Liranga liegt an den großen Flussläufen im Nordosten des Landes. Der Ort ist eng mit dem Wasserverkehr und dem Leben am Fluss verbunden.",
       hu: "Liranga a Kong? foly? ment?n fekv? folyami telep?l?s az ?szaki orsz?gr?szben. A folyami sz?ll?t?s ?s a helyi hal?szat meghat?roz?.",
@@ -1963,7 +1939,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-lukolela-cities-v2.webp",
     description: {
       de: "Lukolela ist eine historische Stadt am Kongo-Fluss, die als Grenzstation dient.",
       hu: "Lukolela a foly? menti telep?l?sh?l?zat r?sze a Kong? ?szaki szakasz?n. A v?zi k?zleked?s ?s a part menti ?let itt k?l?n?sen fontos.",
@@ -2054,7 +2029,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-ngoko-cities-v2.webp",
     description: {
       de: "Ngoko liegt in der Cuvette und gehört zu den kleineren Orten des zentralen Nordens. Die Umgebung ist von Wald, Flussarmen und ländlichen Wegen geprägt.",
       hu: "Ngoko a k?z?p-?szaki orsz?gr?sz egyik kisebb telep?l?se. A k?rnyez? erd?s ?s foly?k?zeli t?jhoz alkalmazkod? helyi ?let jellemzi.",
@@ -2099,7 +2073,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-kayes-cities-v2.webp",
     description: {
       de: "Kayes ist eine wachsende Siedlung in der Bouenza-Region, Teil der landwirtschaftlichen Kernzone.",
       hu: "Kayes egy növekvő település a Bouenza régióban, a mezőgazdasági magzóna része.",
@@ -2144,7 +2117,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-kingoue-cities-v2.webp",
     description: {
       de: "Kingoué liegt im Süden der Republik Kongo im Departement Bouenza. Der Ort ist Teil einer ländlichen Region mit Landwirtschaft und Straßenzugang.",
       hu: "Kingou? a d?li bels? t?rs?g egyik v?rosa, vid?ki k?rnyezetben. A helyi mez?gazdas?g ?s k?zleked?s kapcsolja a r?gi?hoz.",
@@ -2281,7 +2253,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-kimongo-cities-v2.webp",
     description: {
       de: "Kimongo liegt im Departement Niari und gehört zu den Orten des südwestlichen Inlandes. Die Umgebung ist dünn besiedelt und ländlich geprägt.",
       hu: "Kimongo a Kong? d?lnyugati r?sz?n fekv? v?ros, amely a k?rnyez? vid?ki t?rs?get szolg?lja ki. Helyi kereskedelmi ?s igazgat?si szerepe van.",
@@ -2326,7 +2297,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-mayoko-cities-v2.webp",
     description: {
       de: "Mayoko ist eine Stadt im Departement Niari im Südwesten des Landes. Der Ort dient als lokaler Stützpunkt im inlandigen Teil der Region.",
       hu: "Mayoko a d?lnyugati Kong? egyik ismert bels? telep?l?se. A k?rny?k?t erd?s dombvid?k ?s b?ny?szati ?rdekl?d?s is jellemzi.",
@@ -2371,7 +2341,6 @@ export const poiExtraCongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cg-banda-cities-v2.webp",
     description: {
       de: "Banda liegt im Departement Niari im Süden der Republik Kongo. Die Stadt ist ein kleiner Ort im landwirtschaftlich geprägten Inland.",
       hu: "Banda egy kisebb kong?i telep?l?s az orsz?g bels? r?sz?ben. A k?rnyez? k?z?ss?gek sz?m?ra alapvet? helyi szerepet t?lt be.",

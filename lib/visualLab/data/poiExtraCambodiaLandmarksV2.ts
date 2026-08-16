@@ -1438,7 +1438,6 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     parent: "KH-12",
     coords: [104.9213, 11.5696],
     name: { de: "Zentralmarkt (Phsar Thmei)", hu: "Központi Piac (Phsar Thmei)", ro: "Piața Centrală (Phsar Thmei)", en: "Central Market (Phsar Thmei)"},
-    image: "/poi-images/central-market-phnom-penh-landmarks-v2.webp",
     description: {
       de: "Ein markantes gelbes Art-déco-Gebäude aus der Kolonialzeit, das heute als belebter Markt für Schmuck, Kleidung und Souvenirs dient.",
       hu: "Jellegzetes sárga, art deco stílusú gyarmati épület, amely ma nyüzsgő piacként szolgál, ékszereket, ruhákat és ajándéktárgyakat árusítva.",
@@ -2715,7 +2714,6 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     parent: "KH-12",
     coords: [104.9311, 11.5540],
     name: { de: "Kambodschanisch-Vietnamesisches Freundschaftsdenkmal", hu: "Kambodzsa-Vietnam Barátság Emlékmű", ro: "Monumentul Prieteniei Cambodgia-Vietnam", en: "Cambodia-Vietnam Friendship Monument"},
-    image: "/poi-images/cambo-viet-monument-landmarks-v2.webp",
     description: {
       de: "Ein massives Betondenkmal im Hun-Sen-Park, das in den späten 1970er Jahren errichtet wurde, um an das Bündnis zwischen beiden Ländern zu erinnern.",
       hu: "Hatalmas beton emlékmű a Hun Sen parkban, amelyet az 1970-es évek végén állítottak a két ország közötti szövetség emlékére.",
@@ -2948,7 +2946,6 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     parent: "KH-12",
     coords: [104.9304, 11.5662],
     name: { de: "Wat Ounalom", hu: "Wat Ounalom", ro: "Wat Ounalom", en: "Wat Ounalom"},
-    image: "/poi-images/wat-ounalom-landmarks-v2.webp",
     description: {
       de: "Das Zentrum des kambodschanischen Buddhismus, das angeblich eine Augenbraue von Buddha in seiner Hauptstupa bewahrt.",
       hu: "A kambodzsai buddhizmus központja, amelynek fő sztúpája a legenda szerint Buddha egyik szemöldökszőrét őrzi.",
@@ -3145,7 +3142,6 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     parent: "KH-17",
     coords: [103.8560, 13.4435],
     name: { de: "Baphuon", hu: "Baphuon", ro: "Baphuon", en: "Baphuon"},
-    image: "/poi-images/baphuon-landmarks-v2.webp",
     description: {
       de: "Ein gewaltiger dreistufiger Tempelberg im Herzen von Angkor Thom, der dem Hindugott Shiva geweiht war.",
       hu: "Hatalmas, háromszintes hegytemplom Angkor Thom szívében, amelyet a hindu Siva istennek szenteltek.",
@@ -3522,7 +3518,6 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     parent: "KH-17",
     coords: [103.8580, 13.4455],
     name: { de: "Terrasse der Elefanten", hu: "Elefántok Terasza", ro: "Terasa Elefanților", en: "Terrace of the Elephants"},
-    image: "/poi-images/terrace-of-the-elephants-landmarks-v2.webp",
     description: {
       de: "Eine beeindruckende Aussichtsterrasse, verziert mit lebensgroßen Elefantenreliefs, die einst für königliche Zeremonien genutzt wurde.",
       hu: "Lenyűgöző kilátóterasz, amelyet életnagyságú elefántdomborművek díszítenek, és egykor királyi ceremóniákra használtak.",
@@ -4259,7 +4254,6 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     parent: "KH-17",
     coords: [103.8550, 13.4450],
     name: { de: "Phimeanakas", hu: "Phimeanakas", ro: "Phimeanakas", en: "Phimeanakas"},
-    image: "/poi-images/phimeanakas-landmarks-v2.webp",
     description: {
       de: "Ein hinduistischer Tempel in Form einer Stufenpyramide, der innerhalb des königlichen Palastes von Angkor Thom liegt.",
       hu: "Lépcsős piramis alakú hindu templom, amely az Angkor Thom-i királyi palota területén található.",
@@ -4528,7 +4522,6 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     parent: "KH-17",
     coords: [103.9200, 13.4350],
     name: { de: "Pre Rup", hu: "Pre Rup", ro: "Pre Rup", en: "Pre Rup"},
-    image: "/poi-images/pre-rup-landmarks-v2.webp",
     description: {
       de: "Ein Tempelberg aus Ziegeln und Laterit, dessen warme Farbtöne ihn zu einem beliebten Ort für Sonnenuntergänge machen.",
       hu: "Téglából és lateritből épült hegytemplom, melynek meleg színárnyalatai miatt kedvelt hely a naplemente megtekintésére.",
@@ -4977,7 +4970,6 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     parent: "KH-17",
     coords: [103.9200, 13.4460],
     name: { de: "Östlicher Mebon", hu: "Keleti Mebon", ro: "Mebon de Est", en: "East Mebon"},
-    image: "/poi-images/east-mebon-landmarks-v2.webp",
     description: {
       de: "Ein monumentaler Tempel, der einst auf einer künstlichen Insel inmitten des heute ausgetrockneten Östlichen Baray stand.",
       hu: "Monumentális templom, amely egykor egy mesterséges szigeten állt a ma már kiszáradt Keleti Baray víztározó közepén.",
@@ -6254,7 +6246,6 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     parent: "KH-17",
     coords: [103.8510, 13.4240],
     name: { de: "Phnom Bakheng", hu: "Phnom Bakheng", ro: "Phnom Bakheng", en: "Phnom Bakheng"},
-    image: "/poi-images/phnom-bakheng-landmarks-v2.webp",
     description: {
       de: "Ein Tempelberg in Angkor, der für seine atemberaubenden Aussichten auf den Angkor Wat beim Sonnenuntergang berühmt ist.",
       hu: "Hegytemplom Angkorban, amely az Angkorvatra nyíló lélegzetelállító naplementés kilátásáról híres.",
@@ -6523,7 +6514,6 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     parent: "KH-17",
     coords: [103.8820, 13.4440],
     name: { de: "Ta Keo", hu: "Ta Keo", ro: "Ta Keo", en: "Ta Keo"},
-    image: "/poi-images/ta-keo-landmarks-v2.webp",
     description: {
       de: "Ein unvollendeter, massiver Tempelberg aus Sandstein, der wegen seiner Schlichtheit und fehlenden Verzierungen auffällt.",
       hu: "Befejezetlen, hatalmas homokkő hegytemplom, amely egyszerűségével és a díszítések hiányával tűnik ki.",
@@ -6972,7 +6962,6 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     parent: "KH-17",
     coords: [103.8980, 13.4300],
     name: { de: "Banteay Kdei", hu: "Banteay Kdei", ro: "Banteay Kdei", en: "Banteay Kdei"},
-    image: "/poi-images/banteay-kdei-landmarks-v2.webp",
     description: {
       de: "Ein faszinierender buddhistischer Klosterkomplex in Angkor, dessen Ruinen heute friedlich von hohen Bäumen beschattet werden.",
       hu: "Lenyűgöző buddhista kolostorkomplexum Angkorban, melynek romjait ma hatalmas fák árnyékolják békésen.",
@@ -7241,7 +7230,6 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     parent: "KH-02",
     coords: [103.1380, 12.9520],
     name: { de: "Wat Banan", hu: "Wat Banan", ro: "Wat Banan", en: "Wat Banan"},
-    image: "/poi-images/wat-banan-landmarks-v2.webp",
     description: {
       de: "Ein alter Khmer-Tempel auf einem steilen Hügel nahe Battambang, der oft als Miniaturversion von Angkor Wat bezeichnet wird.",
       hu: "Ősi khmer templom egy meredek dombon Battambang közelében, amelyet gyakran Angkorvat miniatűr változatának is neveznek.",
@@ -7582,7 +7570,6 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     parent: "KH-02",
     coords: [103.0980, 13.0230],
     name: { de: "Phnom Sampeau", hu: "Phnom Sampeau", ro: "Phnom Sampeau", en: "Phnom Sampeau"},
-    image: "/poi-images/phnom-sampeau-landmarks-v2.webp",
     description: {
       de: "Ein markanter Kalksteinhügel bei Battambang mit historischen Tempeln, der auch für seine düstere Geschichte der Killing Caves bekannt ist.",
       hu: "Jellegzetes mészkődomb Battambang közelében, amely történelmi templomairól és a gyilkos barlangok sötét múltjáról ismert.",
@@ -7815,7 +7802,6 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     parent: "KH-07",
     coords: [104.0250, 10.6230],
     name: { de: "Bokor Hill Station", hu: "Bokor Hegyi Állomás", ro: "Stațiunea Montană Bokor", en: "Bokor Hill Station"},
-    image: "/poi-images/bokor-hill-station-landmarks-v2.webp",
     description: {
       de: "Ein verlassener französischer Höhenkurort in den Bergen bei Kampot, berühmt für seine gespenstische Atmosphäre und historische Architektur.",
       hu: "Elhagyatott francia magaslati üdülőhely a Kampot közeli hegyekben, amely kísérteties hangulatáról és történelmi építészetéről híres.",
@@ -7940,7 +7926,6 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     parent: "KH-17",
     coords: [104.0160, 13.6830],
     name: { de: "Kbal Spean", hu: "Kbal Spean", ro: "Kbal Spean", en: "Kbal Spean"},
-    image: "/poi-images/kbal-spean-landmarks-v2.webp",
     description: {
       de: "Ein heiliger Fluss in den Bergen, dessen Flussbett mit unzähligen kunstvollen Reliefs und hinduistischen Symbolen verziert ist.",
       hu: "Szent folyó a hegyekben, melynek medrét számtalan művészi dombormű és hindu szimbólum díszíti.",
@@ -8173,7 +8158,6 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     parent: "KH-17",
     coords: [103.8770, 13.4460],
     name: { de: "Thommanon", hu: "Thommanon", ro: "Thommanon", en: "Thommanon"},
-    image: "/poi-images/thommanon-landmarks-v2.webp",
     description: {
       de: "Ein kleiner, gut erhaltener hinduistischer Tempel in Angkor, der für seine detailreichen Devata-Schnitzereien bekannt ist.",
       hu: "Kisméretű, jó állapotban fennmaradt hindu templom Angkorban, amely részletgazdag dévata-faragványairól ismert.",
@@ -8514,7 +8498,6 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     parent: "KH-12",
     coords: [104.9310, 11.5580],
     name: { de: "Wat Botum", hu: "Wat Botum", ro: "Wat Botum", en: "Wat Botum"},
-    image: "/poi-images/wat-botum-landmarks-v2.webp",
     description: {
       de: "Einer der wichtigsten und am reichsten verzierten Tempel in Phnom Penh, dessen Name Tempel der Lotusblüten bedeutet.",
       hu: "Phnompen egyik legfontosabb és leggazdagabban díszített temploma, melynek neve Lótuszvirágok templomát jelent.",
@@ -8891,7 +8874,6 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
     parent: "KH-17",
     coords: [103.9720, 13.3440],
     name: { de: "Preah Ko", hu: "Preah Ko", ro: "Preah Ko", en: "Preah Ko"},
-    image: "/poi-images/preah-ko-landmarks-v2.webp",
     description: {
       de: "Der erste Tempel, der in der alten Hauptstadt Hariharalaya erbaut wurde, bekannt für seine erhaltenen Stuckverzierungen.",
       hu: "A régi fővárosban, Hariharalayában épült első templom, amely fennmaradt stukkódíszítéseiről ismert.",

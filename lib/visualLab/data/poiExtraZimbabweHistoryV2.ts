@@ -237,7 +237,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Nagy Zimbabwe",
       ro: "Marele Zimbabwe",
       en: "Great Zimbabwe"},
-    image: "/poi-images/great-zimbabwe-history-v2.webp",
     description: {
       de: "Die Ruinen der antiken Stadt Great Zimbabwe waren einst das Zentrum eines großen Reiches.",
       hu: "Nagy Zimbabwe ősi romvárosa egykor egy hatalmas birodalom központja volt.",
@@ -519,7 +518,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Khami romjai",
       ro: "Ruinele Khami",
       en: "Khami Ruins"},
-    image: "/poi-images/khami-ruins-history-v2.webp",
     description: {
       de: "Khami war die Hauptstadt des Torwa-Reiches und ist heute ein UNESCO-Weltkulturerbe.",
       hu: "Khami a Torwa Birodalom fővárosa volt, ma pedig UNESCO Világörökség.",
@@ -621,7 +619,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Ziwa romjai",
       ro: "Ruinele Ziwa",
       en: "Ziwa Ruins"},
-    image: "/poi-images/ziwa-ruins-history-v2.webp",
     description: {
       de: "Eine ausgedehnte archäologische Stätte mit steinernen landwirtschaftlichen Terrassen.",
       hu: "Kiterjedt régészeti lelőhely mezőgazdasági kőteraszokkal.",
@@ -735,7 +732,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Naletale romjai",
       ro: "Ruinele Naletale",
       en: "Naletale Ruins"},
-    image: "/poi-images/naletale-ruins-history-v2.webp",
     description: {
       de: "Naletale besticht durch die kunstvollsten verzierten Steinmauern Zimbabwes.",
       hu: "Naletale Zimbabwe legszebben díszített kőfalait kínálja.",
@@ -795,7 +791,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Régi Bulawayo",
       ro: "Vechiul Bulawayo",
       en: "Old Bulawayo"},
-    image: "/poi-images/old-bulawayo-history-v2.webp",
     description: {
       de: "Die ehemalige Hauptstadt von König Lobengula wurde 1893 von ihm selbst niedergebrannt.",
       hu: "Lobengula király egykori fővárosa, amelyet 1893-ban ő maga égetett fel.",
@@ -936,7 +931,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Matobo-hegység sziklarajzai",
       ro: "Arta rupestră din Matobo",
       en: "Matobo Hills Rock Art"},
-    image: "/poi-images/matobo-hills-rock-art-history-v2.webp",
     description: {
       de: "Die Granithügel sind für eine der weltweit größten Ansammlungen von San-Felskunst bekannt.",
       hu: "A gránitdombok a világ egyik legnagyobb San sziklarajz-gyűjteményéről ismertek.",
@@ -1113,7 +1107,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Nemzeti Hősök Temetője",
       ro: "Cimitirul Eroilor Naționali",
       en: "National Heroes Acre"},
-    image: "/poi-images/national-heroes-acre-history-v2.webp",
     description: {
       de: "Ein monumentaler Friedhof und Schrein zu Ehren jener, die im Befreiungskrieg starben.",
       hu: "Monumentális temető és emlékhely a függetlenségi háborúban elesettek tiszteletére.",
@@ -1173,7 +1166,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Zvongombe romjai",
       ro: "Ruinele Zvongombe",
       en: "Zvongombe Ruins"},
-    image: "/poi-images/zvongombe-ruins-history-v2.webp",
     description: {
       de: "Eine der nördlichsten Steinsiedlungen, die mit dem Munhumutapa-Reich in Verbindung steht.",
       hu: "A Munhumutapa Birodalomhoz köthető egyik legészakibb kőtelepülés.",
@@ -1233,7 +1225,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Tsindi romjai",
       ro: "Ruinele Tsindi",
       en: "Tsindi Ruins"},
-    image: "/poi-images/tsindi-ruins-history-v2.webp",
     description: {
       de: "Eine antike Bergsiedlung in der Nähe von Marondera mit gut erhaltenen Mauern.",
       hu: "Egy ősi hegyi település Marondera közelében, jó állapotban lévő falakkal.",
@@ -1410,7 +1401,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Bumbusi Nemzeti Emlékmű",
       ro: "Monumentul Național Bumbusi",
       en: "Bumbusi National Monument"},
-    image: "/poi-images/bumbusi-national-monument-history-v2.webp",
     description: {
       de: "Bumbusi umfasst Felszeichnungen sowie Ruinen aus der späten Eisenzeit.",
       hu: "Bumbusi sziklarajzokat és késő vaskori romokat foglal magában.",
@@ -1875,7 +1865,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Domboshava-barlangok",
       ro: "Peșterile Domboshava",
       en: "Domboshava Caves"},
-    image: "/poi-images/domboshava-caves-history-v2.webp",
     description: {
       de: "Bekannt für leuchtend rote und ockerfarbene Felszeichnungen auf einem riesigen Granithügel.",
       hu: "Híres élénkpiros és okkersárga sziklarajzairól egy hatalmas gránitdombon.",
@@ -2016,7 +2005,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Chinhoyi történelmi barlangok",
       ro: "Peșterile istorice Chinhoyi",
       en: "Chinhoyi Caves (Historical site)"},
-    image: "/poi-images/chinhoyi-caves-history-v2.webp",
     description: {
       de: "Dieses Kalksteinhöhlensystem diente dem Häuptling Chinhoyi einst als Zufluchtsort vor Plünderern.",
       hu: "Ez a mészkőbarlang-rendszer egykor Chinhoyi törzsfőnök menedékéül szolgált a fosztogatók elől.",
@@ -2121,7 +2109,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Diana's Vow sziklafestményei",
       ro: "Arta rupestră Diana's Vow",
       en: "Diana's Vow Rock Art"},
-    image: "/poi-images/dianas-vow-rock-art-history-v2.webp",
     description: {
       de: "Eines der faszinierendsten Felskunstwerke Zimbabwes, das vermutlich eine Trancezeremonie darstellt.",
       hu: "Zimbabwe egyik leglenyűgözőbb sziklarajza, amely feltételezhetően egy transzceremóniát ábrázol.",
@@ -2181,7 +2168,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Nyahokwe romjai",
       ro: "Ruinele Nyahokwe",
       en: "Nyahokwe Ruins"},
-    image: "/poi-images/nyahokwe-ruins-history-v2.webp",
     description: {
       de: "Ruinen aus der Eisenzeit, die frühe landwirtschaftliche Praktiken in der östlichen Region belegen.",
       hu: "Vaskori romok, amelyek a keleti régió korai földművelési gyakorlatait bizonyítják.",
@@ -2241,7 +2227,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Harleigh Farm romjai",
       ro: "Ruinele Harleigh Farm",
       en: "Harleigh Farm Ruins"},
-    image: "/poi-images/harleigh-farm-ruins-history-v2.webp",
     description: {
       de: "Historische Stätte, die Trockenmauern und Überreste einer vorkolonialen Siedlung zeigt.",
       hu: "Történelmi helyszín, amely kötőanyag nélküli kőfalakat és egy gyarmatosítás előtti település maradványait mutatja be.",
@@ -2301,7 +2286,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Tere romjai",
       ro: "Ruinele Tere",
       en: "Tere Ruins"},
-    image: "/poi-images/tere-ruins-history-v2.webp",
     description: {
       de: "Die Ruinen von Tere waren einst ein bedeutender Außenposten des Munhumutapa-Reiches.",
       hu: "A Tere-romok egykor a Munhumutapa Birodalom egyik fontos előretolt helyőrségei voltak.",
@@ -2442,7 +2426,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Régi Victoria-erőd",
       ro: "Vechiul Fort Victoria",
       en: "Old Fort Victoria"},
-    image: "/poi-images/old-fort-victoria-history-v2.webp",
     description: {
       de: "Eines der ersten Forts, das 1890 von der Pioneer Column errichtet wurde.",
       hu: "Az egyik első erőd, amelyet a Pioneer Column épített 1890-ben.",
@@ -2871,7 +2854,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Tuli-erőd",
       ro: "Fort Tuli",
       en: "Fort Tuli"},
-    image: "/poi-images/fort-tuli-history-v2.webp",
     description: {
       de: "Das erste Fort der British South Africa Company im heutigen Zimbabwe.",
       hu: "A Brit Dél-afrikai Társaság első erődje a mai Zimbabwe területén.",
@@ -2931,7 +2913,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Mangwe-hágó emlékmű",
       ro: "Monumentul Trecătorii Mangwe",
       en: "Mangwe Pass Memorial"},
-    image: "/poi-images/mangwe-pass-memorial-history-v2.webp",
     description: {
       de: "Ein Denkmal für die ersten europäischen Siedler, die durch diesen Pass ins Land kamen.",
       hu: "Emlékmű azon első európai telepesek tiszteletére, akik ezen a hágón keresztül érkeztek az országba.",
@@ -3072,7 +3053,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Allan Wilson-emlékmű",
       ro: "Monumentul Allan Wilson",
       en: "Allan Wilson Memorial"},
-    image: "/poi-images/allan-wilson-memorial-history-v2.webp",
     description: {
       de: "Erinnert an die Shangani-Patrouille, die 1893 im Kampf gegen Lobengulas Armee fiel.",
       hu: "A Shangani őrjáratnak állít emléket, akik 1893-ban a Lobengula hadserege elleni harcban estek el.",
@@ -3177,7 +3157,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Harare-i Úttörő Temető",
       ro: "Cimitirul Pionierilor din Harare",
       en: "Pioneer Cemetery Harare"},
-    image: "/poi-images/pioneer-cemetery-harare-history-v2.webp",
     description: {
       de: "Ruhestätte der frühen kolonialen Siedler und Soldaten aus dem 19. Jahrhundert.",
       hu: "A 19. századi korai gyarmati telepesek és katonák nyughelye.",
@@ -3354,7 +3333,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "The Kopje",
       ro: "The Kopje",
       en: "The Kopje"},
-    image: "/poi-images/the-kopje-history-v2.webp",
     description: {
       de: "Ein Hügel, auf dem 1890 Fort Salisbury gegründet wurde, der Ursprung von Harare.",
       hu: "A domb, ahol 1890-ben megalapították a Salisbury-erődöt, amelyből később Harare lett.",
@@ -3414,7 +3392,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Cecil Rhodes sírja",
       ro: "Mormântul lui Cecil Rhodes",
       en: "Cecil Rhodes Grave"},
-    image: "/poi-images/cecil-rhodes-grave-history-v2.webp",
     description: {
       de: "Das Grab des britischen Imperialisten befindet sich auf einem Hügel, den er \"World's View\" nannte.",
       hu: "A brit imperialista sírja egy dombon található, amelyet ő \"A Világ Látképének\" nevezett el.",
@@ -3591,7 +3568,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Mzilikazi király sírja",
       ro: "Mormântul Regelui Mzilikazi",
       en: "King Mzilikazi's Grave"},
-    image: "/poi-images/king-mzilikazis-grave-history-v2.webp",
     description: {
       de: "Die geheime Höhlengrabstätte des Gründers des Ndebele-Reiches.",
       hu: "A Ndebele Birodalom alapítójának titkos barlangsírja.",
@@ -3651,7 +3627,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Murewa-barlangok",
       ro: "Peșterile Murewa",
       en: "Murewa Caves"},
-    image: "/poi-images/murewa-caves-history-v2.webp",
     description: {
       de: "Bedeutende Stätte der San-Felskunst mit Darstellungen von Tieren und Menschen.",
       hu: "Jelentős San sziklarajz-lelőhely, ahol állatokat és embereket ábrázolnak.",
@@ -3711,7 +3686,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Martin-erőd",
       ro: "Fort Martin",
       en: "Fort Martin"},
-    image: "/poi-images/fort-martin-history-v2.webp",
     description: {
       de: "Ein historisches Fort, das während der Aufstände von 1896 genutzt wurde.",
       hu: "Történelmi erőd, amelyet az 1896-os felkelések idején használtak.",
@@ -3816,7 +3790,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Rixon-erőd",
       ro: "Fort Rixon",
       en: "Fort Rixon"},
-    image: "/poi-images/fort-rixon-history-v2.webp",
     description: {
       de: "Ehemaliger Militärposten der britischen Kolonialtruppen aus dem späten 19. Jahrhundert.",
       hu: "A brit gyarmati csapatok egykori katonai posztja a 19. század végéről.",
@@ -3876,7 +3849,6 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
       hu: "Mbuya Nehanda szobra",
       ro: "Statuia Mbuya Nehanda",
       en: "Mbuya Nehanda Statue"},
-    image: "/poi-images/mbuya-nehanda-statue-history-v2.webp",
     description: {
       de: "Ein Monument für das Medium Mbuya Nehanda, das den Widerstand gegen die Kolonisation anführte.",
       hu: "Mbuya Nehanda médiumának emlékműve, aki a gyarmatosítás elleni ellenállást vezette.",

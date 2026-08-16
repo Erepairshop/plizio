@@ -8,7 +8,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     parent: "AZ-BA",
     coords: [49.8398, 40.3621],
     name: { de: "Baku-Boulevard", hu: "Baku körút", ro: "Bulevardul Baku", en: "Baku Boulevard"},
-    image: "/poi-images/baku-boulevard-life-v2.webp",
     description: { de: "Ein weitläufiger Küstenpark am Kaspischen Meer, ideal für Spaziergänge und Familienausflüge.", hu: "Tágas parti park a Kaszpi-tenger mentén, ideális sétákhoz és családi kirándulásokhoz.", ro: "Un parc de coastă extins pe Marea Caspică, ideal pentru plimbări și ieșiri în familie.", en: "An expansive coastal park along the Caspian Sea, ideal for walks and family outings." , es: "Un extenso parque costero a orillas del mar Caspio, ideal para paseos y excursiones familiares.", pt: "Um extenso parque costeiro à beira do Mar Cáspio, ideal para passeios e lazer em família.", fr: "Un vaste parc côtier au bord de la mer Caspienne, idéal pour les promenades et les sorties en famille."},
     facts: {
       de: ["Eröffnet im Jahr 1909.", "Mehrere Kilometer lang entlang der Küste."],
@@ -556,7 +555,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     parent: "AZ-BA",
     coords: [50.1402, 40.4900],
     name: { de: "Dalğa Beach Aquapark", hu: "Dalğa Beach Aquapark", ro: "Aquapark-ul Dalğa Beach", en: "Dalga Beach Aquapark"},
-    image: "/poi-images/dalga-beach-aquapark-life-v2.webp",
     description: { de: "Einer der größten Wasserparks in Aserbaidschan, der zahlreiche Rutschen und Pools für Kinder bietet.", hu: "Azerbajdzsán egyik legnagyobb víziparkja, amely számos csúszdát és medencét kínál gyerekeknek.", ro: "Unul dintre cele mai mari parcuri acvatice din Azerbaidjan, oferind numeroase tobogane și piscine pentru copii.", en: "One of the largest water parks in Azerbaijan, offering numerous slides and pools for children." , es: "Uno de los parques acuáticos más grandes de Azerbaiyán, que ofrece numerosos toboganes y piscinas para niños.", pt: "Um dos maiores parques aquáticos do Azerbaijão, que oferece numerosos escorregas e piscinas para crianças.", fr: "L'un des plus grands parcs aquatiques d'Azerbaïdjan, offrant de nombreux toboggans et piscines pour les enfants."},
     facts: {
       de: ["Beliebtes Ziel im Sommer.", "Bietet Wellenbecken und Kinderzonen."],
@@ -1968,7 +1966,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     parent: "AZ-BA",
     coords: [49.8475, 40.3953],
     name: { de: "Zoo Baku", hu: "Bakui Állatkert", ro: "Grădina Zoologică din Baku", en: "Baku Zoo"},
-    image: "/poi-images/baku-zoo-life-v2.webp",
     description: { de: "Der älteste zoologische Garten des Landes, der eine Vielzahl lokaler und exotischer Tierarten beheimatet.", hu: "Az ország legrégebbi állatkertje, amely számos helyi és egzotikus állatfajnak ad otthont.", ro: "Cea mai veche grădină zoologică din țară, adăpostind o varietate de specii locale și exotice.", en: "The oldest zoological garden in the country, home to a variety of local and exotic animal species." , es: "El jardín zoológico más antiguo del país, que alberga una gran variedad de especies animales locales y exóticas.", pt: "O jardim zoológico mais antigo do país, que abriga uma variedade de espécies animais locais e exóticas.", fr: "Le plus ancien jardin zoologique du pays, qui abrite une grande variété d'espèces animales locales et exotiques."},
     facts: {
       de: ["Gegründet im Jahr 1928.", "Kürzlich umfangreich renoviert."],
@@ -2003,7 +2000,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     parent: "AZ-ZAQ",
     coords: [46.7333, 41.7333],
     name: { de: "Zaqatala-Staatsschutzgebiet", hu: "Zaqatala Állami Természetvédelmi Terület", ro: "Rezervația de Stat Zaqatala", en: "Zagatala State Reserve"},
-    image: "/poi-images/zagatala-reserve-life-v2.webp",
     description: { de: "Ein bedeutendes Naturreservat im Kaukasus, das Braunbären, Luchse und viele seltene Vogelarten schützt.", hu: "Jelentős kaukázusi természetvédelmi terület, amely barnamedvéket, hiúzokat és ritka madárfajokat véd.", ro: "O importantă rezervație naturală din Caucaz, care protejează urși bruni, râși și multe specii de păsări rare.", en: "An important nature reserve in the Caucasus, protecting brown bears, lynxes, and many rare bird species." , es: "Una importante reserva natural en el Cáucaso que protege osos pardos, linces y muchas especies de aves raras.", pt: "Uma importante reserva natural no Cáucaso que protege ursos-pardos, linces e muitas espécies de aves raras.", fr: "Une importante réserve naturelle dans le Caucase qui protège les ours bruns, les lynx et de nombreuses espèces d'oiseaux rares."},
     facts: {
       de: ["Wurde 1929 gegründet.", "Besteht hauptsächlich aus dichten Wäldern."],
@@ -2839,7 +2835,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     parent: "AZ-QAX",
     coords: [46.9667, 41.4667],
     name: { de: "Ilisu-Staatsschutzgebiet", hu: "Ilisu Állami Természetvédelmi Terület", ro: "Rezervația de Stat Ilisu", en: "Ilisu State Reserve"},
-    image: "/poi-images/ilisu-reserve-life-v2.webp",
     description: { de: "Dieses Reservat schützt die einzigartige Flora und Fauna der südlichen Hänge des Großen Kaukasus.", hu: "Ez a rezervátum a Nagy-Kaukázus déli lejtőinek egyedülálló növény- és állatvilágát védi.", ro: "Această rezervație protejează flora și fauna unică a versanților sudici ai Caucazului Mare.", en: "This reserve protects the unique flora and fauna of the southern slopes of the Greater Caucasus." , es: "Esta reserva protege la flora y fauna únicas de las laderas meridionales del Gran Cáucaso.", pt: "Esta reserva protege a flora e fauna únicas das encostas sul do Grande Cáucaso.", fr: "Cette réserve protège la flore et la faune uniques des versants sud du Grand Caucase."},
     facts: {
       de: ["Bekannt für alpine Wiesen.", "Schützt endemische Pflanzenarten."],
@@ -3243,7 +3238,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     parent: "AZ-LAN",
     coords: [48.8472, 38.7522],
     name: { de: "Teeplantagen von Lənkəran", hu: "Lənkərani teaültetvények", ro: "Plantațiile de ceai din Lankaran", en: "Lankaran Tea Plantations"},
-    image: "/poi-images/lankaran-tea-plantations-life-v2.webp",
     description: { de: "Die fruchtbaren Ländereien im Süden Aserbaidschans sind das Zentrum der traditionsreichen Teeproduktion des Landes.", hu: "A dél-azerbajdzsáni termékeny vidék az ország nagy múltú teatermelésének központja.", ro: "Terenurile fertile din sudul Azerbaidjanului sunt centrul producției tradiționale de ceai din țară.", en: "The fertile lands in southern Azerbaijan are the center of the country's traditional tea production." , es: "Las tierras fértiles del sur de Azerbaiyán son el centro de la producción tradicional de té del país.", pt: "As terras férteis do sul do Azerbaijão são o centro da produção tradicional de chá do país.", fr: "Les terres fertiles du sud de l'Azerbaïdjan sont le centre de la production traditionnelle de thé du pays."},
     facts: {
       de: ["Das subtropische Klima ist ideal für Tee.", "Aserbaidschanischer Tee ist ein wichtiges Kulturgut."],
@@ -3728,7 +3722,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     parent: "AZ-XIZ",
     coords: [48.9167, 40.8500],
     name: { de: "Altiaghach-Nationalpark", hu: "Altiaghach Nemzeti Park", ro: "Parcul Național Altiaghach", en: "Altyaghach National Park"},
-    image: "/poi-images/altyaghach-national-park-life-v2.webp",
     description: { de: "Ein üppig bewaldeter Nationalpark, der als Rehabilitationszentrum für Wildtiere, einschließlich Greifvögel, dient.", hu: "Buja erdőkkel borított nemzeti park, amely vadon élő állatok, köztük ragadozó madarak rehabilitációs központjaként is szolgál.", ro: "Un parc național împădurit luxuriant care servește drept centru de reabilitare pentru animale sălbatice, inclusiv păsări de pradă.", en: "A lushly forested national park that serves as a wildlife rehabilitation center, including for birds of prey." , es: "Un exuberante parque nacional boscoso que sirve como centro de rehabilitación para la vida silvestre, incluyendo aves rapaces.", pt: "Um parque nacional densamente arborizado que serve como centro de reabilitação para a vida selvagem, incluindo aves de rapina.", fr: "Un parc national richement boisé qui sert de centre de réhabilitation pour la faune sauvage, y compris les oiseaux de proie."},
     facts: {
       de: ["Berühmt für Laubwälder.", "Beliebt für Ökotourismus."],
@@ -4429,7 +4422,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     parent: "AZ-AGS",
     coords: [47.3000, 40.7000],
     name: { de: "Türyançay-Staatsschutzgebiet", hu: "Türyançay Állami Természetvédelmi Terület", ro: "Rezervația de Stat Turyanchay", en: "Turyanchay State Reserve"},
-    image: "/poi-images/turyancay-reserve-life-v2.webp",
     description: { de: "Ein trockenes, hügeliges Reservat, das Pistazienwälder und Steppenökosysteme vor der Erosion schützt.", hu: "Száraz, dombos rezervátum, amely a pisztáciaerdőket és a sztyeppei ökoszisztémákat védi az eróziótól.", ro: "O rezervație uscată și deluroasă care protejează pădurile de fistic și ecosistemele de stepă de eroziune.", en: "An arid, hilly reserve that protects pistachio woodlands and steppe ecosystems from erosion." , es: "Una reserva árida y montañosa que protege los bosques de pistachos y los ecosistemas esteparios de la erosión.", pt: "Uma reserva árida e montanhosa que protege as florestas de pistácios e os ecossistemas de estepe contra a erosão.", fr: "Une réserve aride et vallonnée qui protège les forêts de pistachiers et les écosystèmes de steppe contre l'érosion."},
     facts: {
       de: ["Gegründet zum Schutz von Wacholder- und Pistazienwäldern.", "Das Gebiet leidet stark unter Bodenerosion."],
@@ -5166,7 +5158,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     parent: "AZ-BA",
     coords: [49.8164, 40.3547],
     name: { de: "Botanischer Zentralgarten Baku", hu: "Bakui Központi Botanikus Kert", ro: "Grădina Botanică Centrală din Baku", en: "Baku Central Botanical Garden"},
-    image: "/poi-images/baku-botanical-garden-life-v2.webp",
     description: { de: "Ein wissenschaftlicher Garten in der Hauptstadt, der eine große Sammlung von Pflanzenarten aus aller Welt präsentiert.", hu: "Tudományos kert a fővárosban, amely a világ minden tájáról származó növényfajok nagy gyűjteményét mutatja be.", ro: "O grădină științifică în capitală, prezentând o colecție mare de specii de plante din întreaga lume.", en: "A scientific garden in the capital showcasing a large collection of plant species from around the world." , es: "Un jardín científico en la capital que presenta una gran colección de especies vegetales de todo el mundo.", pt: "Um jardim científico na capital que apresenta uma grande coleção de espécies de plantas de todo o mundo.", fr: "Un jardin scientifique dans la capitale qui présente une vaste collection d'espèces végétales du monde entier."},
     facts: {
       de: ["Gegründet im Jahr 1934.", "Beherbergt Tausende exotische Pflanzen."],
@@ -5462,7 +5453,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     parent: "AZ-XAC",
     coords: [48.5108, 41.8081],
     name: { de: "Samur-Yalama-Nationalpark", hu: "Samur-Yalama Nemzeti Park", ro: "Parcul Național Samur-Yalama", en: "Samur-Yalama National Park"},
-    image: "/poi-images/samur-yalama-park-life-v2.webp",
     description: { de: "Ein geschütztes Gebiet, das die dichten Küstenwälder und die Tierwelt entlang des Kaspischen Meeres bewahrt.", hu: "Védett terület, amely megőrzi a Kaszpi-tenger menti sűrű parti erdőket és állatvilágot.", ro: "O zonă protejată care conservă pădurile dense de coastă și fauna sălbatică de-a lungul Mării Caspice.", en: "A protected area that preserves the dense coastal forests and wildlife along the Caspian Sea." , es: "Un área protegida que preserva los densos bosques costeros y la vida silvestre a lo largo del mar Caspio.", pt: "Uma área protegida que preserva as densas florestas costeiras e a vida selvagem ao longo do Mar Cáspio.", fr: "Une zone protégée préservant les forêts côtières denses et la faune le long de la mer Caspienne."},
     facts: {
       de: ["Verfügt über wertvolle Grundwasserquellen.", "Beliebt für Vogelbeobachtungen."],
@@ -5542,7 +5532,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     parent: "AZ-MAS",
     coords: [48.9667, 39.1000],
     name: { de: "Qızılağac-Staatsschutzgebiet", hu: "Qızılağac Állami Természetvédelmi Terület", ro: "Rezervația de Stat Gizil-Agach", en: "Gizil-Agach State Reserve"},
-    image: "/poi-images/gizil-agach-reserve-life-v2.webp",
     description: { de: "Ein bedeutendes Ramsar-Feuchtgebiet, das Millionen von Zugvögeln wie Flamingos und Pelikane während ihrer Winterreise beherbergt.", hu: "Jelentős Ramsari egyezmény hatálya alá tartozó vizes élőhely, amely több millió vándormadarat, például flamingókat és pelikánokat fogad be téli útjuk során.", ro: "O zonă umedă importantă Ramsar, care adăpostește milioane de păsări migratoare, precum flamingo și pelicani, în timpul călătoriei lor de iarnă.", en: "A significant Ramsar wetland that hosts millions of migratory birds such as flamingos and pelicans during their winter journey." , es: "Un importante humedal Ramsar que alberga a millones de aves migratorias como flamencos y pelícanos durante su viaje invernal.", pt: "Uma importante zona húmida Ramsar que abriga milhões de aves migratórias, como flamingos e pelicanos, durante a sua jornada de inverno.", fr: "Une zone humide Ramsar majeure qui accueille des millions d'oiseaux migrateurs, comme des flamants roses et des pélicans, lors de leur voyage hivernal."},
     facts: {
       de: ["Eines der wichtigsten Vogelreviere am Kaspischen Meer.", "Über 240 Vogelarten wurden hier registriert."],
@@ -6477,7 +6466,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     parent: "AZ-SAH",
     coords: [45.7500, 39.4667],
     name: { de: "Şahbuz-Staatsschutzgebiet", hu: "Şahbuz Állami Természetvédelmi Terület", ro: "Rezervația de Stat Shahbuz", en: "Shahbuz State Reserve"},
-    image: "/poi-images/shahbuz-reserve-life-v2.webp",
     description: { de: "Ein Schutzgebiet in Nachitschewan, das die unberührten Wasserquellen und das alpine Ökosystem um den Batabat-See bewahrt.", hu: "Védett terület Nahicsevánban, amely megőrzi az érintetlen vízforrásokat és a Batabat-tó körüli alpesi ökoszisztémát.", ro: "O zonă protejată în Nahicevan, care conservă sursele de apă neatinse și ecosistemul alpin din jurul Lacului Batabat.", en: "A protected area in Nakhchivan that preserves the pristine water sources and the alpine ecosystem around Lake Batabat." , es: "Un área protegida en Najicheván que preserva las fuentes de agua vírgenes y el ecosistema alpino alrededor del lago Batabat.", pt: "Uma área protegida em Naquichevão que preserva as fontes de água imaculadas e o ecossistema alpino em redor do lago Batabat.", fr: "Une zone protégée au Nakhitchevan qui préserve les sources d'eau vierges et l'écosystème alpin autour du lac Batabat."},
     facts: {
       de: ["Beinhaltet den malerischen Batabat-See.", "Die Region ist bekannt für ihre reiche Bergflora."],
@@ -7241,7 +7229,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
     parent: "AZ-QAB",
     coords: [47.8486, 40.9833],
     name: { de: "Haselnussplantagen von Qəbələ", hu: "Qəbələi mogyoróültetvények", ro: "Plantațiile de alune din Gabala", en: "Gabala Hazelnut Plantations"},
-    image: "/poi-images/gabala-hazelnut-plantations-life-v2.webp",
     description: { de: "Qəbələ ist ein Zentrum des landwirtschaftlichen Anbaus, wobei ausgedehnte Haselnussplantagen die lokale Wirtschaft antreiben.", hu: "Qəbələ a mezőgazdasági termesztés központja, ahol a kiterjedt mogyoróültetvények mozgatják a helyi gazdaságot.", ro: "Gabala este un centru al cultivării agricole, cu plantații extinse de alune care stimulează economia locală.", en: "Gabala is a center of agricultural cultivation, with extensive hazelnut plantations driving the local economy." , es: "Gabala es un centro de cultivo agrícola, donde extensas plantaciones de avellanas impulsan la economía local.", pt: "Gabala é um centro de cultivo agrícola, onde extensas plantações de avelãs impulsionam a economia local.", fr: "Gabala est un centre de culture agricole, où de vastes plantations de noisettes dynamisent l'économie locale."},
     facts: {
       de: ["Aserbaidschan ist ein führender Haselnussproduzent.", "Die Region profitiert von fruchtbaren Böden."],

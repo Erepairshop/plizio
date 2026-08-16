@@ -233,7 +233,6 @@ export const poiExtraBhutanReliefV2: POI[] = [
     parent: "BT-32",
     coords: [90.1764, 27.4262],
     name: { de: "Phobjikha-Tal", hu: "Phobjikha-völgy", ro: "Valea Phobjikha", en: "Phobjikha Valley"},
-    image: "/poi-images/phobjikha-valley-relief-v2.webp",
     description: { de: "Ein weites Gletschertal, das als Winterquartier für die seltenen Schwarzhalskraniche berühmt ist.", hu: "Egy széles gleccservölgy, amely a ritka feketenyakú darvak téli menedékhelyeként híres.", ro: "O vale glaciară largă, renumită ca zonă de iernat pentru rarele cocori cu gât negru.", en: "A wide glacial valley famous as the winter roosting ground for the rare black-necked cranes." , es: "Un amplio valle glaciar, famoso por ser el cuartel de invierno de las raras grullas de cuello negro.", pt: "Um vasto vale glaciar, famoso por ser o quartel de inverno das raras gralhas-de-pescoço-preto.", fr: "Une vaste vallée glaciaire, célèbre pour être le quartier d'hiver des rares grues à cou noir."},
     facts: {
       de: ["Liegt auf etwa 3000 Metern Höhe.", "Wichtige Naturschutzzone."],
@@ -1146,7 +1145,6 @@ export const poiExtraBhutanReliefV2: POI[] = [
     parent: "BT-12",
     coords: [89.4133, 27.4294],
     name: { de: "Paro-Tal", hu: "Paro-völgy", ro: "Valea Paro", en: "Paro Valley"},
-    image: "/poi-images/paro-valley-relief-v2.webp",
     description: { de: "Eines der breitesten und fruchtbarsten Täler Bhutans, das das kulturelle und historische Zentrum des Landes bildet.", hu: "Bhután egyik legszélesebb és legtermékenyebb völgye, amely az ország kulturális és történelmi központja.", ro: "Una dintre cele mai largi și fertile văi din Bhutan, care formează centrul cultural și istoric al țării.", en: "One of the widest and most fertile valleys in Bhutan, forming the cultural and historical center of the country." , es: "Uno de los valles más amplios y fértiles de Bután, que forma el centro cultural e histórico del país.", pt: "Um dos vales mais largos e férteis do Butão, que forma o centro cultural e histórico do país.", fr: "L'une des vallées les plus larges et les plus fertiles du Bhoutan, constituant le centre culturel et historique du pays."},
     facts: {
       de: ["Heimat des einzigen internationalen Flughafens.", "Wird vom Paro Chhu durchflossen."],
@@ -1224,7 +1222,6 @@ export const poiExtraBhutanReliefV2: POI[] = [
     parent: "BT-23",
     coords: [89.8631, 27.5921],
     name: { de: "Punakha-Tal", hu: "Punakha-völgy", ro: "Valea Punakha", en: "Punakha Valley"},
-    image: "/poi-images/punakha-valley-relief-v2.webp",
     description: { de: "Ein tiefer und wärmerer Talabschnitt, in dem aufgrund des milden Klimas Reis und Früchte hervorragend gedeihen.", hu: "Egy mélyebb és melegebb völgyszakasz, ahol az enyhe éghajlat miatt kiválóan terem a rizs és a gyümölcs.", ro: "O vale mai adâncă și mai caldă, unde datorită climei blânde orezul și fructele cresc excelent.", en: "A lower and warmer valley where rice and fruits thrive excellently due to the mild climate." , es: "Una sección de valle más profunda y cálida donde, debido al clima suave, el arroz y las frutas prosperan de manera excelente.", pt: "Uma secção de vale mais profunda e quente onde, devido ao clima ameno, o arroz e os frutos prosperam de forma excelente.", fr: "Une section de vallée plus profonde et plus chaude où, grâce au climat doux, le riz et les fruits prospèrent magnificamente."},
     facts: {
       de: ["Ehemalige Winterhauptstadt des Landes.", "Liegt auf etwa 1200 Metern."],
@@ -1480,7 +1477,6 @@ export const poiExtraBhutanReliefV2: POI[] = [
     parent: "BT-14",
     coords: [89.6390, 27.4728],
     name: { de: "Thimphu-Tal", hu: "Thimphu-völgy", ro: "Valea Thimphu", en: "Thimphu Valley"},
-    image: "/poi-images/thimphu-valley-relief-v2.webp",
     description: { de: "Das dicht besiedelte Tal, in dem die Hauptstadt liegt und eine einzigartige Mischung aus Tradition und Moderne bietet.", hu: "A sűrűn lakott völgy, ahol a főváros található, és a hagyomány és a modernitás egyedi keverékét nyújtja.", ro: "Valea dens populată unde se află capitala, oferind un amestec unic de tradiție și modernitate.", en: "The densely populated valley where the capital is located, offering a unique blend of tradition and modernity." , es: "El valle densamente poblado donde se encuentra la capital, ofreciendo una mezcla única de tradición y modernidad.", pt: "O vale densamente povoado onde se encontra a capital, oferecendo uma mistura única de tradição e modernidade.", fr: "La vallée densément peuplée où se situe la capitale, offrant un mélange unique de tradition et de modernité."},
     facts: {
       de: ["Umschließt den Fluss Wang Chhu.", "Hat keine Verkehrsampeln im gesamten Tal."],
@@ -1594,7 +1590,6 @@ export const poiExtraBhutanReliefV2: POI[] = [
     parent: "BT-33",
     coords: [90.9333, 27.4833],
     name: { de: "Ura-Tal", hu: "Ura-völgy", ro: "Valea Ura", en: "Ura Valley"},
-    image: "/poi-images/ura-valley-relief-v2.webp",
     description: { de: "Das höchste der vier Bumthang-Täler, charakterisiert durch terrassierte Felder und dichte Nadelwälder.", hu: "A négy Bumthang-völgy legmagasabbika, amelyet teraszos mezők és sűrű tűlevelű erdők jellemeznek.", ro: "Cea mai înaltă dintre cele patru văi Bumthang, caracterizată prin câmpuri terasate și păduri dense de conifere.", en: "The highest of the four Bumthang valleys, characterized by terraced fields and dense coniferous forests." , es: "El más alto de los cuatro valles de Bumthang, caracterizado por campos en terrazas y densos bosques de coníferas.", pt: "O mais alto dos quatro vales de Bumthang, caracterizado por campos em terraços e densas florestas de coníferas.", fr: "La plus haute des quatre vallées de Bumthang, caractérisée par des champs en terrasses et de denses forêts de conifères."},
     facts: {
       de: ["Liegt auf etwa 3100 Metern Höhe.", "Bekannt für seine traditionellen Dorfstrukturen."],
@@ -1672,7 +1667,6 @@ export const poiExtraBhutanReliefV2: POI[] = [
     parent: "BT-33",
     coords: [90.8167, 27.6000],
     name: { de: "Tang-Tal", hu: "Tang-völgy", ro: "Valea Tang", en: "Tang Valley"},
-    image: "/poi-images/tang-valley-relief-v2.webp",
     description: { de: "Eines der entlegensten Bumthang-Täler, bekannt für den brennenden See und tiefe Schluchten entlang des Flusses.", hu: "A Bumthang-völgyek egyik legeldugottabbika, amely az Égő-tóról és a folyó menti mély szurdokokról ismert.", ro: "Una dintre cele mai izolate văi Bumthang, cunoscută pentru lacul arzând și defileele adânci de-a lungul râului.", en: "One of the most remote Bumthang valleys, known for the burning lake and deep gorges along the river." , es: "Uno de los valles más remotos de Bumthang, conocido por su lago ardiente y profundos desfiladeros a lo largo del río.", pt: "Um dos vales mais remotos de Bumthang, conhecido pelo seu lago ardente e desfiladeiros profundos ao longo do rio.", fr: "L'une des vallées les plus reculées de Bumthang, connue pour son lac brûlant et ses gorges profondes le long de la rivière."},
     facts: {
       de: ["Wurde vom Pema Lingpa erkundet.", "Ein wichtiges spirituelles Pilgerziel."],
@@ -1935,7 +1929,6 @@ export const poiExtraBhutanReliefV2: POI[] = [
     parent: "BT-42",
     coords: [91.1736, 27.6628],
     name: { de: "Lhuentse-Tal", hu: "Lhuentse-völgy", ro: "Valea Lhuentse", en: "Lhuentse Valley"},
-    image: "/poi-images/lhuentse-valley-relief-v2.webp",
     description: { de: "Ein abgelegenes Tal im Nordosten, eingebettet in raue Felsklippen, das als angestammte Heimat der bhutanischen Königsfamilie gilt.", hu: "Egy eldugott völgy északkeleten, zord sziklaszirtjei között, amely a bhutáni királyi család ősi otthonának számít.", ro: "O vale retrasă în nord-est, înconjurată de stânci abrupte, considerată casa ancestrală a familiei regale bhutaneze.", en: "A remote valley in the northeast, nestled amid rugged cliffs, considered the ancestral home of the Bhutanese royal family." , es: "Un valle remoto en el noreste, rodeado de escarpados acantilados rocosos, considerado el hogar ancestral de la familia real butanesa.", pt: "Um vale remoto no nordeste, inserido em escarpas rochosas acidentadas, considerado a casa ancestral da família real butanesa.", fr: "Une vallée reculée du nord-est, nichée dans des falaises rocheuses abruptes, considérée comme le foyer ancestral de la famille royale bhoutanaise."},
     facts: {
       de: ["Berühmt für hochkomplexe Webarbeiten (Kishuthara).", "Eines der isoliertesten Täler Bhutans."],
@@ -1968,7 +1961,6 @@ export const poiExtraBhutanReliefV2: POI[] = [
     parent: "BT-41",
     coords: [91.5542, 27.3325],
     name: { de: "Trashigang-Tal", hu: "Trashigang-völgy", ro: "Valea Trashigang", en: "Trashigang Valley"},
-    image: "/poi-images/trashigang-valley-relief-v2.webp",
     description: { de: "Das östlichste und dichtestbesiedelte Tal, das durch steile Schluchten und terrassierte Reisfelder geprägt ist.", hu: "A legkeletibb és legsűrűbben lakott völgy, amelyet meredek szurdokok és teraszos rizsföldek jellemeznek.", ro: "Cea mai estică și mai dens populată vale, caracterizată prin defilee abrupte și câmpuri de orez terasate.", en: "The easternmost and most densely populated valley, characterized by steep gorges and terraced rice fields." , es: "El valle más oriental y densamente poblado, caracterizado por desfiladeros escarpados y campos de arroz en terrazas.", pt: "O vale mais oriental e densamente povoado, caracterizado por desfiladeiros íngremes e campos de arroz em terraços.", fr: "La vallée la plus orientale et la plus densément peuplée, caractérisée par des gorges escarpées et des rizières en terrasses."},
     facts: {
       de: ["Wichtiger Handelsknotenpunkt.", "Wird vom Drangme Chhu durchschnitten."],
@@ -2001,7 +1993,6 @@ export const poiExtraBhutanReliefV2: POI[] = [
     parent: "BT-32",
     coords: [90.2500, 27.2500],
     name: { de: "Schwarze Berge", hu: "Fekete-hegység", ro: "Munții Negri", en: "Black Mountains"},
-    image: "/poi-images/black-mountains-bhutan-relief-v2.webp",
     description: { de: "Eine mächtige Gebirgskette, die Bhutan physisch und kulturell in eine westliche und eine östliche Region unterteilt.", hu: "Egy hatalmas hegylánc, amely fizikailag és kulturálisan is nyugati és keleti régióra osztja Bhutánt.", ro: "Un lanț muntos masiv care împarte Bhutanul, fizic și cultural, într-o regiune vestică și una estică.", en: "A massive mountain range that physically and culturally divides Bhutan into a western and an eastern region." , es: "Una poderosa cadena montañosa que divide física y culturalmente a Bután en una región occidental y otra oriental.", pt: "Uma poderosa cordilheira que divide física e culturalmente o Butão numa região ocidental e numa região oriental.", fr: "Une imposante chaîne de montagnes qui divise physiquement et culturellement le Bhoutan en deux régions, l'ouest et l'est."},
     facts: {
       de: ["Trennt die Täler von Mangde Chhu und Sankosh.", "Höchste Gipfel erreichen fast 5000 Meter."],
@@ -2151,7 +2142,6 @@ export const poiExtraBhutanReliefV2: POI[] = [
     parent: "BT-14",
     coords: [89.7891, 28.1583],
     name: { de: "Masang Kang", hu: "Masang Kang", ro: "Masang Kang", en: "Masang Kang"},
-    image: "/poi-images/masang-kang-relief-v2.webp",
     description: { de: "Ein markanter, schneebedeckter Berg im Jigme-Dorji-Nationalpark, der von den lokalen Tälern aus als Beschützer verehrt wird.", hu: "Egy jellegzetes, hófödte hegy a Jigme Dorji Nemzeti Parkban, amelyet a helyi völgyekben védelmezőként tisztelnek.", ro: "Un munte proeminent, acoperit de zăpadă, în Parcul Național Jigme Dorji, venerat ca un protector de văile locale.", en: "A prominent, snow-capped mountain in Jigme Dorji National Park, revered as a protector from the local valleys." , es: "Una montaña prominente cubierta de nieve en el Parque Nacional Jigme Dorji, venerada como protectora por los valles locales.", pt: "Uma montanha proeminente coberta de neve no Parque Nacional Jigme Dorji, venerada como protetora pelos vales locais.", fr: "Une montagne enneigée remarquable dans le parc national Jigme Dorji, vénérée comme protectrice par les vallées locales."},
     facts: {
       de: ["Erreicht eine Höhe von 7194 Metern.", "Wurde erstmals 1985 bestiegen."],
@@ -2229,7 +2219,6 @@ export const poiExtraBhutanReliefV2: POI[] = [
     parent: "BT-14",
     coords: [90.0603, 28.1539],
     name: { de: "Kangphu Kang", hu: "Kangphu Kang", ro: "Kangphu Kang", en: "Kangphu Kang"},
-    image: "/poi-images/kangphu-kang-relief-v2.webp",
     description: { de: "Ein mächtiger Himalayagipfel an der Grenze zu Tibet, der für seine massive Eiskappe und seine unzugängliche Lage bekannt ist.", hu: "Egy hatalmas Himalája-csúcs a tibeti határon, amely hatalmas jégsapkájáról és megközelíthetetlen fekvéséről ismert.", ro: "Un vârf masiv din Himalaya, la granița cu Tibetul, cunoscut pentru calota sa uriașă de gheață și locația inaccesibilă.", en: "A massive Himalayan peak on the border with Tibet, known for its massive ice cap and inaccessible location." , es: "Un poderoso pico del Himalaya en la frontera con el Tíbet, conocido por su enorme capa de hielo y su ubicación inaccesible.", pt: "Um poderoso pico do Himalaia na fronteira com o Tibete, conhecido pela sua enorme calota de gelo e pela sua localização inacessível.", fr: "Un imposant sommet de l'Himalaya à la frontière avec le Tibet, connu pour sa calotte glaciaire massive et son emplacement inaccessible."},
     facts: {
       de: ["Ist 7204 Meter hoch.", "Erstmals von einer südkoreanischen Expedition bestiegen."],
@@ -2262,7 +2251,6 @@ export const poiExtraBhutanReliefV2: POI[] = [
     parent: "BT-14",
     coords: [89.9833, 28.1667],
     name: { de: "Teri Kang", hu: "Teri Kang", ro: "Teri Kang", en: "Teri Kang"},
-    image: "/poi-images/teri-kang-relief-v2.webp",
     description: { de: "Ein weiterer siebentausender Gipfel in der nördlichen Gebirgskette, der tief in den rauen Gletschertälern verborgen liegt.", hu: "Egy újabb hétezres csúcs az északi hegyláncban, amely mélyen elrejtve fekszik a zord gleccservölgyekben.", ro: "Un alt vârf de peste șapte mii de metri în lanțul muntos nordic, ascuns adânc în văile glaciare aspre.", en: "Another seven-thousander peak in the northern mountain range, hidden deep within the rugged glacial valleys." , es: "Otro pico de siete mil metros en la cordillera norte, escondido profundamente en los accidentados valles glaciares.", pt: "Outro pico de sete mil metros na cordilheira norte, escondido profundamente nos vales glaciares acidentados.", fr: "Un autre sommet de sept mille mètres dans la chaîne de montagnes septentrionale, caché au fond des vallées glaciaires escarpées."},
     facts: {
       de: ["Höhe beträgt 7125 Meter.", "Gehört zum Jigme-Dorji-Nationalpark."],
@@ -2340,7 +2328,6 @@ export const poiExtraBhutanReliefV2: POI[] = [
     parent: "BT-14",
     coords: [90.1000, 28.1833],
     name: { de: "Zongphu Kang", hu: "Zongphu Kang", ro: "Zongphu Kang", en: "Zongphu Kang"},
-    image: "/poi-images/zongphu-kang-relief-v2.webp",
     description: { de: "Auch als Tafelberg bekannt, ist dieser massige Berg für seine flache Gipfelstruktur in den schroffen Hochgebirgen auffällig.", hu: "Táblahegyként is ismert, ez a masszív hegy feltűnő a sík csúcsszerkezetével a zord magashegységekben.", ro: "Cunoscut și sub numele de Muntele Masă, acest munte masiv este remarcabil pentru structura sa plată a vârfului.", en: "Also known as Table Mountain, this massive mountain is conspicuous for its flat summit structure in the rugged high mountains." , es: "También conocida como la Montaña de la Mesa, esta montaña maciza destaca por su estructura de cumbre plana en las escarpadas altas cordilleras.", pt: "Também conhecida como Montanha da Mesa, esta montanha maciça destaca-se pela sua estrutura de topo plano nas cordilheiras escarpadas de alta montanha.", fr: "Également connue sous le nom de montagne de la Table, cette montagne massive se distingue par sa structure de sommet plat au milieu des hautes chaînes escarpées."},
     facts: {
       de: ["Ist 7044 Meter hoch.", "Noch immer unbestiegen."],
@@ -2418,7 +2405,6 @@ export const poiExtraBhutanReliefV2: POI[] = [
     parent: "BT-14",
     coords: [89.9619, 28.1969],
     name: { de: "Tongshanjiabu", hu: "Tongshanjiabu", ro: "Tongshanjiabu", en: "Tongshanjiabu"},
-    image: "/poi-images/tongshanjiabu-relief-v2.webp",
     description: { de: "Ein mächtiger Grenzgipfel zwischen Bhutan und China, dessen Hänge von gefährlichen Gletscherspalten und Eisfeldern geprägt sind.", hu: "Egy hatalmas határhegy Bhután és Kína között, amelynek lejtőit veszélyes gleccserhasadékok és jégmezők jellemeznek.", ro: "Un vârf de graniță masiv între Bhutan și China, ale cărui pante sunt caracterizate de crevase glaciare periculoase și câmpuri de gheață.", en: "A massive border peak between Bhutan and China, whose slopes are characterized by dangerous crevasses and ice fields." , es: "Una imponente cumbre fronteriza entre Bután y China, cuyas laderas se caracterizan por peligrosas grietas de glaciares y campos de hielo.", pt: "Um imponente pico fronteiriço entre o Butão e a China, cujas encostas são caracterizadas por fendas glaciares perigosas e campos de gelo.", fr: "Un puissant sommet frontalier entre le Bhoutan et la Chine, dont les pentes sont marquées par de dangereuses crevasses glaciaires et des champs de glace."},
     facts: {
       de: ["Einer der höchsten unbestiegenen Berge der Erde.", "Erreicht 7207 Meter."],
@@ -2496,7 +2482,6 @@ export const poiExtraBhutanReliefV2: POI[] = [
     parent: "BT-14",
     coords: [89.7042, 27.9703],
     name: { de: "Tsenda Kang", hu: "Tsenda Kang", ro: "Tsenda Kang", en: "Tsenda Kang"},
-    image: "/poi-images/tsenda-kang-relief-v2.webp",
     description: { de: "Eine beeindruckende Eispyramide in der Gebirgsgruppe um den Gangkhar Puensum, umgeben von unberührter Wildnis.", hu: "Egy lenyűgöző jégpiramis a Gangkhar Puensum körüli hegycsoportban, érintetlen vadonnal körülvéve.", ro: "O piramidă impresionantă de gheață în grupul montan din jurul lui Gangkhar Puensum, înconjurată de sălbăticie neatinsă.", en: "An impressive ice pyramid in the mountain group around Gangkhar Puensum, surrounded by untouched wilderness." , es: "Una impresionante pirámide de hielo en el grupo montañoso cercano al Gangkhar Puensum, rodeada de naturaleza virgen.", pt: "Uma impressionante pirâmide de gelo no grupo montanhoso perto do Gangkhar Puensum, cercada por natureza selvagem intacta.", fr: "Une impressionnante pyramide de glace dans le massif entourant le Gangkhar Puensum, cernée par une nature sauvage et intacte."},
     facts: {
       de: ["Besitzt eine Höhe von fast 7000 Metern.", "Wurde historisch erst spät kartografiert."],

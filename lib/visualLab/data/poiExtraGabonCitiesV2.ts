@@ -53,7 +53,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-1",
     coords: [9.4533, 0.3892],
     name: { de: "Libreville", hu: "Libreville", ro: "Libreville", en: "Libreville"},
-    image: "/poi-images/libreville-cities-v2.webp",
     description: { de: "Die Hauptstadt Gabuns und ein wichtiges Handelszentrum am Atlantik.", hu: "Gabon fővárosa és az ország legfontosabb kereskedelmi központja az Atlanti-óceán partján.", ro: "Capitala Gabonului și un important centru comercial la Oceanul Atlantic.", en: "The capital of Gabon and a major commercial hub on the Atlantic coast." , es: "La capital de Gabón y un importante centro comercial en el Atlántico.", pt: "A capital do Gabão e um importante centro comercial no Atlântico.", fr: "La capitale du Gabon et un centre commercial important sur l'Atlantique."},
     facts: {
       de: ["Größte Stadt des Landes", "Wichtiger Seehafen"],
@@ -86,7 +85,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-8",
     coords: [8.7833, -0.7167],
     name: { de: "Port-Gentil", hu: "Port-Gentil", ro: "Port-Gentil", en: "Port-Gentil"},
-    image: "/poi-images/port-gentil-cities-v2.webp",
     description: { de: "Das wirtschaftliche Zentrum Gabuns, bekannt für seine Erdölindustrie.", hu: "Gabon gazdasági központja, amely elsősorban kőolajiparáról ismert.", ro: "Centrul economic al Gabonului, cunoscut pentru industria sa petrolieră.", en: "The economic heart of Gabon, famous for its petroleum industry." , es: "El centro económico de Gabón, conocido por su industria petrolera.", pt: "O centro económico do Gabão, conhecido pela sua indústria petrolífera.", fr: "Le centre économique du Gabon, connu pour son industrie pétrolière."},
     facts: {
       de: ["Zentrum der Ölindustrie", "Auf einer Insel gelegen"],
@@ -117,7 +115,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-2",
     coords: [13.5833, -1.6333],
     name: { de: "Franceville", hu: "Franceville", ro: "Franceville", en: "Franceville"},
-    image: "/poi-images/franceville-cities-v2.webp",
     description: { de: "Eine der größten Städte Gabuns und Endpunkt der Transgabun-Eisenbahn.", hu: "Gabon egyik legnagyobb városa és a Transzgaboni vasútvonal végpontja.", ro: "Unul dintre cele mai mari orașe din Gabon și punctul final al căii ferate Transgabon.", en: "One of the largest cities in Gabon and the terminus of the Transgabon Railway." , es: "Una de las ciudades más grandes de Gabón y el punto final del ferrocarril Transgabonés.", pt: "Uma das maiores cidades do Gabão e o ponto final do caminho-de-ferro Transgabonês.", fr: "L'une des plus grandes villes du Gabon et le terminus du chemin de fer Transgabonais."},
     facts: {
       de: ["Bergbauzentrum", "Endstation der Eisenbahn"],
@@ -150,7 +147,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-3",
     coords: [10.2333, -0.7000],
     name: { de: "Lambaréné", hu: "Lambaréné", ro: "Lambaréné", en: "Lambaréné"},
-    image: "/poi-images/lambarene-cities-v2.webp",
     description: { de: "Berühmt für das von Albert Schweitzer gegründete Krankenhaus am Ogooué-Fluss.", hu: "Az Albert Schweitzer által alapított kórházról híres város az Ogooué folyó partján.", ro: "Renumit pentru spitalul fondat de Albert Schweitzer pe râul Ogooué.", en: "Famous for the hospital founded by Albert Schweitzer on the Ogooué River." , es: "Famosa por el hospital fundado por Albert Schweitzer a orillas del río Ogooué.", pt: "Famosa pelo hospital fundado por Albert Schweitzer no rio Ogooué.", fr: "Célèbre pour l'hôpital fondé par Albert Schweitzer sur le fleuve Ogooué."},
     facts: {
       de: ["Albert-Schweitzer-Krankenhaus", "Am Ogooué-Fluss"],
@@ -262,7 +258,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-9",
     coords: [11.5667, 1.6000],
     name: { de: "Oyem", hu: "Oyem", ro: "Oyem", en: "Oyem"},
-    image: "/poi-images/oyem-cities-v2.webp",
     description: { de: "Das Zentrum der Provinz Woleu-Ntem und ein wichtiger Handelsort im Norden.", hu: "Woleu-Ntem tartomány központja és fontos északi kereskedelmi csomópont.", ro: "Centrul provinciei Woleu-Ntem și un important loc comercial în nord.", en: "The center of the Woleu-Ntem province and a key trading post in the north." , es: "Centro de la provincia de Woleu-Ntem y un importante lugar comercial en el norte.", pt: "Centro da província de Woleu-Ntem e um importante local comercial no norte.", fr: "Centre de la province du Woleu-Ntem et un important centre commercial du nord."},
     facts: {
       de: ["Regionales Zentrum", "Nahe der Grenze zu Kamerun"],
@@ -338,7 +333,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-2",
     coords: [13.2000, -1.5667],
     name: { de: "Moanda", hu: "Moanda", ro: "Moanda", en: "Moanda"},
-    image: "/poi-images/moanda-cities-v2.webp",
     description: { de: "Eine bedeutende Bergbaustadt, die für ihre Manganvorkommen bekannt ist.", hu: "Jelentős bányaváros, amely mangánkészleteiről világszerte ismert.", ro: "Un oraș minier important, cunoscut pentru zăcămintele sale de mangan.", en: "An important mining town known for its manganese deposits." , es: "Una importante ciudad minera conocida por sus yacimientos de manganeso.", pt: "Uma importante cidade mineira, conhecida pelas suas jazidas de manganésio.", fr: "Une ville minière majeure, réputée pour ses gisements de manganèse."},
     facts: {
       de: ["Mangan-Bergbau", "Industriestadt"],
@@ -490,7 +484,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-4",
     coords: [11.0500, -1.8667],
     name: { de: "Mouila", hu: "Mouila", ro: "Mouila", en: "Mouila"},
-    image: "/poi-images/mouila-cities-v2.webp",
     description: { de: "Die Hauptstadt der Provinz Ngounié, gelegen am gleichnamigen Fluss.", hu: "Ngounié tartomány székhelye, amely az azonos nevű folyó partján fekszik.", ro: "Capitala provinciei Ngounié, situată pe râul cu același nume.", en: "The capital of the Ngounié province, located on the river of the same name." , es: "La capital de la provincia de Ngounié, situada junto al río del mismo nombre.", pt: "A capital da província de Ngounié, situada junto ao rio com o mesmo nome.", fr: "La capitale de la province de la Ngounié, située au bord du fleuve éponyme."},
     facts: {
       de: ["Provinzhauptstadt", "Landwirtschaftliche Region"],
@@ -594,7 +587,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-7",
     coords: [12.4833, -1.1333],
     name: { de: "Koulamoutou", hu: "Koulamoutou", ro: "Koulamoutou", en: "Koulamoutou"},
-    image: "/poi-images/koulamoutou-cities-v2.webp",
     description: { de: "Die Hauptstadt der Provinz Ogooué-Lolo am Zusammenfluss von Lolo und Bouenguidi.", hu: "Ogooué-Lolo tartomány székhelye a Lolo és a Bouenguidi folyók találkozásánál.", ro: "Capitala provinciei Ogooué-Lolo la confluența râurilor Lolo și Bouenguidi.", en: "The capital of the Ogooué-Lolo province at the confluence of the Lolo and Bouenguidi rivers." , es: "La capital de la provincia de Ogooué-Lolo, en la confluencia de los ríos Lolo y Bouenguidi.", pt: "A capital da província de Ogooué-Lolo na confluência dos rios Lolo e Bouenguidi.", fr: "Le chef-lieu de la province de l'Ogooué-Lolo, au confluent de la Lolo et de la Bouenguidi."},
     facts: {
       de: ["Flusszusammenfluss", "Administratives Zentrum"],
@@ -657,7 +649,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-1",
     coords: [9.5000, 0.3000],
     name: { de: "Owendo", hu: "Owendo", ro: "Owendo", en: "Owendo"},
-    image: "/poi-images/owendo-cities-v2.webp",
     description: { de: "Ein bedeutender Industriehafen südlich von Libreville.", hu: "Jelentős ipari kikötő Libreville-től délre.", ro: "Un port industrial important la sud de Libreville.", en: "A major industrial port located south of Libreville." , es: "Un importante puerto industrial al sur de Libreville.", pt: "Um importante porto industrial ao sul de Libreville.", fr: "Un port industriel majeur au sud de Libreville."},
     facts: {
       de: ["Wichtiger Hafen", "Industriegebiet"],
@@ -692,7 +683,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-9",
     coords: [11.4833, 2.0833],
     name: { de: "Bitam", hu: "Bitam", ro: "Bitam", en: "Bitam"},
-    image: "/poi-images/bitam-cities-v2.webp",
     description: { de: "Eine Stadt im Norden Gabuns, bekannt für ihre Landwirtschaft und die Nähe zu Kamerun.", hu: "Város Gabon északi részén, amely mezőgazdaságáról és a kameruni határ közelségéről ismert.", ro: "Un oraș din nordul Gabonului, cunoscut pentru agricultură și proximitatea față de Camerun.", en: "A town in northern Gabon, known for agriculture and proximity to Cameroon." , es: "Una ciudad en el norte de Gabón, conocida por su agricultura y su cercanía a Camerún.", pt: "Uma cidade no norte do Gabão, conhecida pela sua agricultura e proximidade com os Camarões.", fr: "Une ville du nord du Gabon, réputée pour son agriculture et sa proximité avec le Cameroun."},
     facts: {
       de: ["Grenzstadt", "Landwirtschaftszentrum"],
@@ -729,7 +719,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-1",
     coords: [9.7667, 0.3833],
     name: { de: "Ntoum", hu: "Ntoum", ro: "Ntoum", en: "Ntoum"},
-    image: "/poi-images/ntoum-cities-v2.webp",
     description: { de: "Eine Stadt in der Nähe von Libreville, die als landwirtschaftliches Versorgungszentrum dient.", hu: "Libreville közelében fekvő város, amely mezőgazdasági ellátó központként szolgál.", ro: "Un oraș lângă Libreville, care servește ca centru de aprovizionare agricolă.", en: "A town near Libreville serving as an agricultural supply center." , es: "Ciudad cercana a Libreville que sirve como centro de suministro agrícola.", pt: "Cidade perto de Libreville que serve como centro de abastecimento agrícola.", fr: "Ville proche de Libreville servant de centre d'approvisionnement agricole."},
     facts: {
       de: ["Versorgungszentrum", "Wachsende Bevölkerung"],
@@ -809,7 +798,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-7",
     coords: [12.7167, -0.8167],
     name: { de: "Lastoursville", hu: "Lastoursville", ro: "Lastoursville", en: "Lastoursville"},
-    image: "/poi-images/lastoursville-cities-v2.webp",
     description: { de: "Eine Stadt am Ogooué-Fluss, benannt nach einem französischen Entdecker.", hu: "Város az Ogooué folyó partján, amelyet egy francia felfedezőről neveztek el.", ro: "Un oraș pe râul Ogooué, numit după un explorator francez.", en: "A town on the Ogooué River, named after a French explorer." , es: "Una ciudad a orillas del río Ogooué, llamada así en honor a un explorador francés.", pt: "Uma cidade nas margens do rio Ogooué, batizada em honra de um explorador francês.", fr: "Une ville sur les rives du fleuve Ogooué, nommée d'après un explorateur français."},
     facts: {
       de: ["Historische Stadt", "Am Fluss gelegen"],
@@ -927,7 +915,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-3",
     coords: [10.7667, -0.1833],
     name: { de: "Ndjolé", hu: "Ndjolé", ro: "Ndjole", en: "Ndjolé"},
-    image: "/poi-images/ndjole-cities-v2.webp",
     description: { de: "Ein wichtiger Verkehrsknotenpunkt an der Transgabun-Eisenbahn.", hu: "Fontos közlekedési csomópont a Transzgaboni vasútvonal mentén.", ro: "Un nod important de transport pe calea ferată Transgabon.", en: "An important transportation hub on the Transgabon Railway." , es: "Un nudo de transporte estratégico en el ferrocarril Transgabonés.", pt: "Um nó de transporte estratégico na ferrovia Transgabonesa.", fr: "Un nœud de transport stratégique sur le chemin de fer Transgabonais."},
     facts: {
       de: ["Eisenbahnknoten", "Holzindustrie"],
@@ -1000,7 +987,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-4",
     coords: [11.3667, -2.4000],
     name: { de: "Ndendé", hu: "Ndendé", ro: "Ndende", en: "Ndendé"},
-    image: "/poi-images/ndende-cities-v2.webp",
     description: { de: "Ein wichtiger Grenzort im Süden des Landes.", hu: "Fontos határmenti település az ország déli részén.", ro: "Un oraș de frontieră important în sudul țării.", en: "An important border town in the south of the country." , es: "Un importante punto fronterizo en el sur del país.", pt: "Um importante ponto fronteiriço no sul do país.", fr: "Une ville frontalière importante dans le sud du pays."},
     facts: {
       de: ["Nahe der Grenze zum Kongo", "Handelszentrum"],
@@ -1035,7 +1021,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-5",
     coords: [10.6500, -3.4167],
     name: { de: "Mayumba", hu: "Mayumba", ro: "Mayumba", en: "Mayumba"},
-    image: "/poi-images/mayumba-cities-v2.webp",
     description: { de: "Ein Küstenort, der für seine Strände und Schildkröten bekannt ist.", hu: "Tengerparti település, amely strandjairól és teknőseiről ismert.", ro: "Un oraș de coastă cunoscut pentru plajele și țestoasele sale.", en: "A coastal town known for its beaches and turtles." , es: "Un ciudad costera conocida por sus playas y tortugas.", pt: "Uma cidade costeira conhecida pelas suas praias e tartarugas.", fr: "Une ville côtière connue pour ses plages et ses tortues."},
     facts: {
       de: ["Schildkrötenschutz", "Küstennähe"],
@@ -1142,7 +1127,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-2",
     coords: [14.2500, -1.5833],
     name: { de: "Léconi", hu: "Léconi", ro: "Leconi", en: "Léconi"},
-    image: "/poi-images/leconi-cities-v2.webp",
     description: { de: "Bekannt für die umliegenden Canyons und das Plateau.", hu: "A környező kanyonokról és a fennsíkról híres település.", ro: "Cunoscut pentru canioanele și platoul înconjurător.", en: "Known for the surrounding canyons and the plateau." , es: "Conocida por los cañones y la meseta circundantes.", pt: "Conhecida pelos desfiladeiros e pelo planalto circundantes.", fr: "Connue pour ses canyons et son plateau environnants."},
     facts: {
       de: ["Canyons von Léconi", "Landschaftliche Schönheit"],
@@ -1179,7 +1163,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-4",
     coords: [11.6000, -1.6167],
     name: { de: "Mimongo", hu: "Mimongo", ro: "Mimongo", en: "Mimongo"},
-    image: "/poi-images/mimongo-cities-v2.webp",
     description: { de: "Eine Stadt in einer bergigen Region der Provinz Ngounié.", hu: "Hegyvidéki régióban fekvő város Ngounié tartományban.", ro: "Un oraș într-o regiune muntoasă a provinciei Ngounié.", en: "A town in a mountainous region of the Ngounié province." , es: "Una ciudad en una región montañosa de la provincia de Ngounié.", pt: "Uma cidade numa região montanhosa da província de Ngounié.", fr: "Une ville située dans une région montagneuse de la province de la Ngounié."},
     facts: {
       de: ["Bergiges Terrain", "Regionale Kultur"],
@@ -1250,7 +1233,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-6",
     coords: [11.9333, -0.1000],
     name: { de: "Booué", hu: "Booué", ro: "Booue", en: "Booué"},
-    image: "/poi-images/booue-cities-v2.webp",
     description: { de: "Eine Stadt am Ogooué-Fluss und wichtiger Halt der Transgabun-Eisenbahn.", hu: "Város az Ogooué folyó mentén, a Transzgaboni vasútvonal fontos megállója.", ro: "Un oraș pe râul Ogooué și o oprire importantă a căii ferate Transgabon.", en: "A town on the Ogooué River and an important stop on the Transgabon Railway." , es: "Una ciudad a orillas del río Ogooué y una parada importante del ferrocarril Transgabonés.", pt: "Uma cidade nas margens do rio Ogooué e uma paragem importante do caminho-de-ferro Transgabonês.", fr: "Une ville située sur le fleuve Ogooué et un arrêt important du chemin de fer Transgabonais."},
     facts: {
       de: ["Eisenbahnhalt", "Holzverarbeitung"],
@@ -1287,7 +1269,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-7",
     coords: [12.6333, -1.5167],
     name: { de: "Pana", hu: "Pana", ro: "Pana", en: "Pana"},
-    image: "/poi-images/pana-cities-v2.webp",
     description: { de: "Ein kleineres Zentrum in der Provinz Ogooué-Lolo.", hu: "Kisebb központ Ogooué-Lolo tartományban.", ro: "Un centru mai mic din provincia Ogooué-Lolo.", en: "A smaller center in the Ogooué-Lolo province." , es: "Un pequeño centro en la provincia de Ogooué-Lolo.", pt: "Um pequeno centro na província de Ogooué-Lolo.", fr: "Un petit centre dans la province de l'Ogooué-Lolo."},
     facts: {
       de: ["Ländliche Stadt", "Landwirtschaft"],
@@ -1367,7 +1348,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-1",
     coords: [9.5833, 1.0000],
     name: { de: "Cocobeach", hu: "Cocobeach", ro: "Cocobeach", en: "Cocobeach"},
-    image: "/poi-images/cocobeach-cities-v2.webp",
     description: { de: "Ein Küstenort an der Mündung des Muni-Flusses, nahe Äquatorialguinea.", hu: "Tengerparti település a Muni folyó torkolatánál, Egyenlítői-Gínea közelében.", ro: "Un oraș de coastă la gura râului Muni, lângă Guineea Ecuatorială.", en: "A coastal town at the mouth of the Muni River, near Equatorial Guinea." , es: "Un pueblo costero en la desembocadura del río Muni, cerca de Guinea Ecuatorial.", pt: "Uma vila costeira na foz do rio Muni, perto da Guiné Equatorial.", fr: "Une ville côtière à l'embouchure du fleuve Muni, près de la Guinée équatoriale."},
     facts: {
       de: ["Grenznähe", "Fischereihafen"],
@@ -1404,7 +1384,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-1",
     coords: [10.1167, 0.1667],
     name: { de: "Kango", hu: "Kango", ro: "Kango", en: "Kango"},
-    image: "/poi-images/kango-cities-v2.webp",
     description: { de: "Strategisch günstig an der Brücke über den Komo-Fluss gelegen.", hu: "Stratégiailag fontos helyen, a Komo folyó hídjánál fekvő település.", ro: "Situat strategic lângă podul peste râul Komo.", en: "Strategically located by the bridge over the Komo River." , es: "Situada estratégicamente junto al puente sobre el río Komo.", pt: "Situada estrategicamente junto à ponte sobre o rio Komo.", fr: "Située stratégiquement au niveau du pont sur le fleuve Komo."},
     facts: {
       de: ["Verkehrsknoten", "Am Komo-Fluss"],
@@ -1477,7 +1456,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-4",
     coords: [10.3500, -1.5000],
     name: { de: "Mandji", hu: "Mandji", ro: "Mandji", en: "Mandji"},
-    image: "/poi-images/mandji-cities-v2.webp",
     description: { de: "Ein regionales Zentrum in der Provinz Ngounié.", hu: "Regionális központ Ngounié tartományban.", ro: "Un centru regional în provincia Ngounié.", en: "A regional center in the Ngounié province." , es: "Un centro regional en la provincia de Ngounié.", pt: "Um centro regional na província de Ngounié.", fr: "Un centre régional dans la province de la Ngounié."},
     facts: {
       de: ["Ländliches Zentrum", "Handel"],
@@ -1548,7 +1526,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-4",
     coords: [11.5000, -2.2000],
     name: { de: "Lebamba", hu: "Lebamba", ro: "Lebamba", en: "Lebamba"},
-    image: "/poi-images/lebamba-cities-v2.webp",
     description: { de: "Ein landwirtschaftliches Zentrum im Süden der Provinz Ngounié.", hu: "Mezőgazdasági központ Ngounié tartomány déli részén.", ro: "Un centru agricol în sudul provinciei Ngounié.", en: "An agricultural hub in the south of the Ngounié province." , es: "Un centro agrícola en el sur de la provincia de Ngounié.", pt: "Um centro agrícola no sul da província de Ngounié.", fr: "Un centre agricole dans le sud de la province de la Ngounié."},
     facts: {
       de: ["Landwirtschaft", "Nahe Bongolo"],
@@ -1585,7 +1562,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-9",
     coords: [10.7833, 1.0167],
     name: { de: "Medouneu", hu: "Medouneu", ro: "Medouneu", en: "Medouneu"},
-    image: "/poi-images/medouneu-cities-v2.webp",
     description: { de: "Eine Stadt in den Bergen des Woleu-Ntem.", hu: "Hegyvidéki város Woleu-Ntem tartományban.", ro: "Un oraș în munții din Woleu-Ntem.", en: "A town in the mountains of Woleu-Ntem." , es: "Una ciudad en las montañas de Woleu-Ntem.", pt: "Uma cidade nas montanhas de Woleu-Ntem.", fr: "Une ville située dans les montagnes du Woleu-Ntem."},
     facts: {
       de: ["Höhenlage", "Kühleres Klima"],
@@ -1620,7 +1596,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-6",
     coords: [12.7500, 0.8667],
     name: { de: "Ovan", hu: "Ovan", ro: "Ovan", en: "Ovan"},
-    image: "/poi-images/ovan-cities-v2.webp",
     description: { de: "Ein Ort am Rande des Ivindo-Nationalparks.", hu: "Település az Ivindo Nemzeti Park szélén.", ro: "O localitate la marginea Parcului Național Ivindo.", en: "A settlement on the edge of the Ivindo National Park." , es: "Una localidad a orillas del Parque Nacional de Ivindo.", pt: "Uma localidade à beira do Parque Nacional do Ivindo.", fr: "Une localité en bordure du parc national de l'Ivindo."},
     facts: {
       de: ["Waldlage", "Ökotourismus"],
@@ -1693,7 +1668,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-7",
     coords: [13.3333, -1.8667],
     name: { de: "Dienga", hu: "Dienga", ro: "Dienga", en: "Dienga"},
-    image: "/poi-images/dienga-cities-v2.webp",
     description: { de: "Ein regionales Zentrum im Südosten des Landes.", hu: "Regionális központ az ország délkeleti részén.", ro: "Un centru regional în sud-estul țării.", en: "A regional center in the southeast of the country." , es: "Un centro regional en el sureste del país.", pt: "Um centro regional no sudeste do país.", fr: "Un centre régional dans le sud-est du pays."},
     facts: {
       de: ["Südosten", "Ländlich"],
@@ -1764,7 +1738,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-2",
     coords: [13.8500, -1.6500],
     name: { de: "Bongoville", hu: "Bongoville", ro: "Bongoville", en: "Bongoville"},
-    image: "/poi-images/bongoville-cities-v2.webp",
     description: { de: "Der Geburtsort des ehemaligen Präsidenten Omar Bongo.", hu: "Omar Bongo volt elnök szülőhelye.", ro: "Locul de naștere al fostului președinte Omar Bongo.", en: "The birthplace of former President Omar Bongo." , es: "El lugar de nacimiento del expresidente Omar Bongo.", pt: "O local de nascimento do antigo presidente Omar Bongo.", fr: "Le lieu de naissance de l'ancien président Omar Bongo."},
     facts: {
       de: ["Bedeutende Persönlichkeit", "Moderne Infrastruktur"],
@@ -1871,7 +1844,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-5",
     coords: [11.0000, -2.4333],
     name: { de: "Moabi", hu: "Moabi", ro: "Moabi", en: "Moabi"},
-    image: "/poi-images/moabi-cities-v2.webp",
     description: { de: "Ein kleiner Ort in der Provinz Nyanga.", hu: "Kisebb település Nyanga tartományban.", ro: "O mică localitate în provincia Nyanga.", en: "A small town in the Nyanga province." , es: "Un pequeño lugar en la provincia de Nyanga.", pt: "Uma pequena localidade na província de Nyanga.", fr: "Une petite localité située dans la province de la Nyanga."},
     facts: {
       de: ["Nyanga-Region", "Landwirtschaft"],
@@ -1907,7 +1879,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-5",
     coords: [10.9667, -3.6500],
     name: { de: "Mabanda", hu: "Mabanda", ro: "Mabanda", en: "Mabanda"},
-    image: "/poi-images/mabanda-cities-v2.webp",
     description: { de: "Ein Grenzort zum Kongo im Süden der Provinz Nyanga.", hu: "Határmenti település Kongó felé Nyanga tartomány déli részén.", ro: "Un oraș de frontieră cu Congo în sudul provinciei Nyanga.", en: "A border town with Congo in the south of the Nyanga province." },
     facts: {
       de: ["Südlichster Punkt", "Handel"],
@@ -1927,7 +1898,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-4",
     coords: [12.0167, -2.1333],
     name: { de: "Malinga", hu: "Malinga", ro: "Malinga", en: "Malinga"},
-    image: "/poi-images/malinga-cities-v2.webp",
     description: { de: "Eine Stadt im Süden der Provinz Ngounié.", hu: "Város Ngounié tartomány déli részén.", ro: "Un oraș în sudul provinciei Ngounié.", en: "A town in the south of the Ngounié province." , es: "Una ciudad en el sur de la provincia de Ngounié.", pt: "Uma cidade no sul da província de Ngounié.", fr: "Une ville dans le sud de la province de la Ngounié."},
     facts: {
       de: ["Abgelegen", "Waldregion"],
@@ -1963,7 +1933,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-2",
     coords: [14.1667, -1.0667],
     name: { de: "Onga", hu: "Onga", ro: "Onga", en: "Onga"},
-    image: "/poi-images/onga-cities-v2.webp",
     description: { de: "Ein Ort im Nordosten der Provinz Haut-Ogooué.", hu: "Település Haut-Ogooué tartomány északkeleti részén.", ro: "O localitate în nord-estul provinciei Haut-Ogooué.", en: "A settlement in the northeast of the Haut-Ogooué province." , es: "Una localidad en el noreste de la provincia de Haut-Ogooué.", pt: "Uma localidade no nordeste da província de Haut-Ogooué.", fr: "Une localité dans le nord-est de la province du Haut-Ogooué."},
     facts: {
       de: ["Haut-Ogooué", "Savannenlandschaft"],
@@ -1999,7 +1968,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-4",
     coords: [11.8500, -2.2500],
     name: { de: "Malemba", hu: "Malemba", ro: "Malemba", en: "Malemba"},
-    image: "/poi-images/malemba-cities-v2.webp",
     description: { de: "Ein ländliches Zentrum im Süden Gabuns.", hu: "Vidéki központ Gabon déli részén.", ro: "Un centru rural în sudul Gabonului.", en: "A rural center in southern Gabon." , es: "Un centro rural en el sur de Gabón.", pt: "Um centro rural no sul do Gabão.", fr: "Un centre rural dans le sud du Gabon."},
     facts: {
       de: ["Ngounié-Provinz", "Dörfliche Struktur"],
@@ -2071,7 +2039,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-8",
     coords: [10.0000, -2.7333],
     name: { de: "Gamba", hu: "Gamba", ro: "Gamba", en: "Gamba"},
-    image: "/poi-images/gamba-cities-v2.webp",
     description: { de: "Ein bedeutender Standort für die Ölindustrie an der Küste.", hu: "Jelentős kőolajipari helyszín a tengerparton.", ro: "O locație importantă pentru industria petrolieră pe coastă.", en: "A significant site for the oil industry on the coast." , es: "Un emplazamiento importante para la industria petrolera en la costa.", pt: "Um local importante para a indústria petrolífera na costa.", fr: "Un site important pour l'industrie pétrolière sur la côte."},
     facts: {
       de: ["Ölterminal", "Naturreservat in der Nähe"],
@@ -2106,7 +2073,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-2",
     coords: [13.1500, -1.4500],
     name: { de: "Mounana", hu: "Mounana", ro: "Mounana", en: "Mounana"},
-    image: "/poi-images/mounana-cities-v2.webp",
     description: { de: "Früher ein Zentrum des Uranbergbaus in Gabun.", hu: "Korábban az uránbányászat központja volt Gabonban.", ro: "Fost centru de extracție a uraniului în Gabon.", en: "Formerly a center of uranium mining in Gabon." , es: "Antiguo centro de la minería de uranio en Gabón.", pt: "Antigo centro de mineração de urânio no Gabão.", fr: "Ancien centre de l'exploitation minière de l'uranium au Gabon."},
     facts: {
       de: ["Ehemaliger Uranbau", "Industriegeschichte"],
@@ -2142,7 +2108,6 @@ export const poiExtraGabonCitiesV2: POI[] = [
     parent: "GA-8",
     coords: [9.2500, -2.5333],
     name: { de: "Sette Cama", hu: "Sette Cama", ro: "Sette Cama", en: "Sette Cama"},
-    image: "/poi-images/sette-cama-cities-v2.webp",
     description: { de: "Ein historischer Ort an der Küste, bekannt für Fischfang und Natur.", hu: "Történelmi tengerparti település, amely halászatáról és természetéről ismert.", ro: "O localitate istorică de coastă, cunoscută pentru pescuit și natură.", en: "A historical coastal settlement known for fishing and nature." , es: "Un lugar histórico en la costa, conocido por la pesca y la naturaleza.", pt: "Um local histórico na costa, conhecido pela pesca e pela natureza.", fr: "Un lieu historique sur la côte, connu pour la pêche et la nature."},
     facts: {
       de: ["Sportfischen", "Biodiversität"],

@@ -2402,7 +2402,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     parent: "BD-13",
     coords: [90.4128, 23.7315],
     name: { de: "Baitul-Mokarram-Nationalmoschee", hu: "Baitul Mukarram Nemzeti Mecset", ro: "Moscheea Națională Baitul Mukarram", en: "Baitul Mukarram National Mosque"},
-    image: "/poi-images/bd-baitul-mukarram-landmarks-v2.webp",
     description: { de: "Die Nationalmoschee von Bangladesch in Dhaka, deren Architektur an die Kaaba in Mekka erinnert.", hu: "Banglades nemzeti mecsete Dakkában, amelynek építészete a mekkai Kába szentélyre emlékeztet.", ro: "Moscheea națională a Bangladeshului din Dhaka, a cărei arhitectură amintește de Kaaba din Mecca.", en: "The national mosque of Bangladesh in Dhaka, whose architecture resembles the Kaaba in Mecca." , es: "La mezquita nacional de Bangladés en Dhaka, cuya arquitectura recuerda a la Kaaba de La Meca.", pt: "A mesquita nacional de Bangladesh em Dhaka, cuja arquitetura lembra a Kaaba em Meca.", fr: "La mosquée nationale du Bangladesh à Dhaka, dont l'architecture rappelle la Kaaba de La Mecque."},
     facts: {
       de: ["1968 fertiggestellt.", "Bietet Platz für 42.000 Gläubige.", "Architektur ähnelt der Kaaba."],
@@ -2953,7 +2952,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     parent: "BD-13",
     coords: [90.3926, 23.7230],
     name: { de: "Dhakeshwari-Nationaltempel", hu: "Dhakeshwari Nemzeti Templom", ro: "Templul Național Dhakeshwari", en: "Dhakeshwari National Temple"},
-    image: "/poi-images/bd-dhakeshwari-temple-landmarks-v2.webp",
     description: { de: "Der wichtigste hinduistische Tempel in Bangladesch, der dem Namen der Stadt Dhaka zugrunde liegen soll.", hu: "Banglades legfontosabb hindu temploma, amelyről a legenda szerint Dakka városa a nevét kapta.", ro: "Cel mai important templu hindus din Bangladesh, despre care se spune că a dat numele orașului Dhaka.", en: "The most important Hindu temple in Bangladesh, which is believed to be the origin of Dhaka's name." , es: "El templo hindú más importante de Bangladés, que se cree que dio nombre a la ciudad de Daca.", pt: "O templo hindu mais importante do Bangladesh, que se acredita ter dado nome à cidade de Daca.", fr: "Le plus important temple hindou du Bangladesh, qui serait à l'origine du nom de la ville de Dhaka."},
     facts: {
       de: ["Staatseigener Nationaltempel.", "Im 12. Jahrhundert erbaut.", "Zentrum des hinduistischen Glaubens in Dhaka."],
@@ -4188,7 +4186,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     parent: "BD-13",
     coords: [90.3768, 23.7516],
     name: { de: "Bangabandhu-Gedenkmuseum", hu: "Bangabandhu Emlékmúzeum", ro: "Muzeul Memorial Bangabandhu", en: "Bangabandhu Memorial Museum"},
-    image: "/poi-images/bd-bangabandhu-museum-landmarks-v2.webp",
     description: { de: "Das ehemalige Wohnhaus von Sheikh Mujibur Rahman, dem Gründervater von Bangladesch, das heute ein Museum ist.", hu: "Sheikh Mujibur Rahman, Banglades alapító atyjának egykori otthona, amely ma múzeumként működik.", ro: "Fosta reședință a lui Sheikh Mujibur Rahman, părintele fondator al Bangladeshului, transformată în muzeu.", en: "The former residence of Sheikh Mujibur Rahman, the founding father of Bangladesh, now a museum." , es: "La antigua residencia de Sheikh Mujibur Rahman, padre fundador de Bangladés, que hoy es un museo.", pt: "A antiga residência de Sheikh Mujibur Rahman, pai fundador de Bangladesh, que hoje é um museu.", fr: "L'ancienne résidence de Sheikh Mujibur Rahman, le père fondateur du Bangladesh, qui est aujourd'hui un musée."},
     facts: {
       de: ["Ehemaliger Wohnsitz von Mujibur Rahman.", "Ort seiner Ermordung 1975.", "Zeigt persönliche Gegenstände des Führers."],
@@ -5387,7 +5384,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     parent: "BD-42",
     coords: [90.2646, 23.4470],
     name: { de: "Padma-Brücke", hu: "Padma híd", ro: "Podul Padma", en: "Padma Bridge"},
-    image: "/poi-images/bd-padma-bridge-landmarks-v2.webp",
     description: { de: "Die längste Brücke in Bangladesch, die den Fluss Padma überquert und den Südwesten mit Dhaka verbindet.", hu: "Banglades leghosszabb hídja, amely a Padma folyót szeli át, és a délnyugati régiót köti össze Dakkával.", ro: "Cel mai lung pod din Bangladesh, care traversează râul Padma și conectează sud-vestul cu Dhaka.", en: "The longest bridge in Bangladesh, crossing the Padma River and connecting the southwest to Dhaka." , es: "El puente más largo de Bangladés, que cruza el río Padma y conecta el suroeste con Daca.", pt: "A ponte mais longa do Bangladesh, que atravessa o rio Padma e liga o sudoeste a Dhaka.", fr: "Le plus long pont du Bangladesh, traversant la rivière Padma et reliant le sud-ouest à Dacca."},
     facts: {
       de: ["6,15 Kilometer lang.", "Eröffnet im Jahr 2022.", "Zweistöckige Straßen- und Eisenbahnbrücke."],
@@ -6721,7 +6717,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     parent: "BD-55",
     coords: [89.7712, 24.3970],
     name: { de: "Bangabandhu-Brücke", hu: "Bangabandhu híd", ro: "Podul Bangabandhu", en: "Bangabandhu Bridge"},
-    image: "/poi-images/bd-jamuna-bridge-landmarks-v2.webp",
     description: { de: "Eine der längsten Brücken Südasiens, die über den Fluss Jamuna führt und Ost- und Westbangladesch verbindet.", hu: "Dél-Ázsia egyik leghosszabb hídja, amely a Jamuna folyón ível át, összekötve Kelet- és Nyugat-Bangladest.", ro: "Unul dintre cele mai lungi poduri din Asia de Sud, traversând râul Jamuna pentru a conecta estul și vestul țării.", en: "One of the longest bridges in South Asia, crossing the Jamuna River to connect eastern and western Bangladesh." , es: "Uno de los puentes más largos del sur de Asia, que cruza el río Jamuna y conecta el este y el oeste de Bangladés.", pt: "Uma das pontes mais longas do Sul da Ásia, que atravessa o rio Jamuna e liga o leste e o oeste do Bangladesh.", fr: "L'un des plus longs ponts d'Asie du Sud, traversant le fleuve Jamuna et reliant l'est et l'ouest du Bangladesh."},
     facts: {
       de: ["4,8 Kilometer lang.", "1998 fertiggestellt.", "Mehrzweckbrücke für Autos und Züge."],
@@ -6948,7 +6943,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     parent: "BD-56",
     coords: [92.2289, 22.4939],
     name: { de: "Kaptai-Talsperre", hu: "Kaptai-gát", ro: "Barajul Kaptai", en: "Kaptai Dam"},
-    image: "/poi-images/bd-kaptai-dam-landmarks-v2.webp",
     description: { de: "Ein bedeutender Staudamm am Fluss Karnaphuli, der den Kaptai-See schuf, den größten künstlichen See des Landes.", hu: "Jelentős gát a Karnaphuli folyón, amely a Kaptai-tavat, az ország legnagyobb mesterséges tavát hozta létre.", ro: "Un baraj major pe râul Karnaphuli, care a creat Lacul Kaptai, cel mai mare lac artificial din țară.", en: "A major dam on the Karnaphuli River that created Kaptai Lake, the largest artificial lake in the country." , es: "Una importante presa en el río Karnaphuli que creó el lago Kaptai, el lago artificial más grande del país.", pt: "Uma importante barragem no rio Karnaphuli que criou o lago Kaptai, o maior lago artificial do país.", fr: "Un barrage important sur le fleuve Karnaphuli, ayant créé le lac Kaptai, le plus grand lac artificiel du pays."},
     facts: {
       de: ["1962 fertiggestellt.", "Dient der Wasserkraftgewinnung.", "Schuf den riesigen Kaptai-See."],
@@ -8183,7 +8177,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     parent: "BD-13",
     coords: [90.4075, 23.7663],
     name: { de: "Hatirjheel", hu: "Hatirjheel", ro: "Hatirjheel", en: "Hatirjheel"},
-    image: "/poi-images/bd-hatirjheel-landmarks-v2.webp",
     description: { de: "Ein modernes Seengebiet in Dhaka, das als Naherholungsgebiet und wichtiges Verkehrsprojekt dient.", hu: "Modern tórendszer Dakkában, amely népszerű rekreációs területként és fontos közlekedési projektként is szolgál.", ro: "O zonă modernă de lacuri în Dhaka, servind ca zonă de recreere și un proiect important de transport.", en: "A modern lakefront area in Dhaka serving as a popular recreational space and major transportation project." , es: "Una zona de lagos moderna en Daca que sirve como área recreativa y como importante proyecto de transporte.", pt: "Uma zona de lagos moderna em Daca que serve como área de lazer e importante projeto de transportes.", fr: "Une zone lacustre moderne à Dhaka, servant de zone de loisirs et de projet de transport important."},
     facts: {
       de: ["Beliebter Ort für Erholung.", "2013 für die Öffentlichkeit freigegeben.", "Entlastet den Verkehr in Dhaka."],
@@ -9310,7 +9303,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     parent: "BD-10",
     coords: [91.7947, 22.3686],
     name: { de: "Foy's Lake", hu: "Foy-tó", ro: "Lacul Foy", en: "Foy's Lake"},
-    image: "/poi-images/bd-foys-lake-landmarks-v2.webp",
     description: { de: "Ein künstlicher See in Chittagong, der von malerischen Hügeln umgeben ist und einen Vergnügungspark bietet.", hu: "Festői dombokkal körülvett mesterséges tó Csittagongban, amely mellett egy vidámpark is található.", ro: "Un lac artificial în Chittagong, înconjurat de dealuri pitorești, care dispune de un parc de distracții.", en: "An artificial lake in Chittagong surrounded by picturesque hills, featuring an amusement park." , es: "Un lago artificial en Chittagong rodeado de pintorescas colinas que ofrece un parque de atracciones.", pt: "Um lago artificial em Chittagong rodeado por colinas pitorescas, com um parque de diversões.", fr: "Un lac artificiel à Chittagong, entouré de collines pittoresques et proposant un parc d'attractions."},
     facts: {
       de: ["1924 künstlich angelegt.", "Benannt nach einem Eisenbahningenieur.", "Beliebtes Touristenziel in Chittagong."],
@@ -10365,7 +10357,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     parent: "BD-60",
     coords: [91.8682, 24.9038],
     name: { de: "Schrein von Hazrat Shahjalal", hu: "Hazrat Shahjalal szentélye", ro: "Altarul lui Hazrat Shahjalal", en: "Shrine of Hazrat Shahjalal"},
-    image: "/poi-images/bd-hazrat-shahjalal-shrine-landmarks-v2.webp",
     description: { de: "Das Grab eines berühmten Sufi-Heiligen in Sylhet, das jährlich Tausende von Pilgern anzieht.", hu: "Egy híres szúfi szent sírja Szilhetben, amely évente zarándokok ezreit vonzza.", ro: "Mormântul unui faimos sfânt sufit din Sylhet, care atrage anual mii de pelerini.", en: "The tomb of a famous Sufi saint in Sylhet, attracting thousands of pilgrims annually." , es: "La tumba de un famoso santo sufí en Sylhet, que atrae a miles de peregrinos cada año.", pt: "O túmulo de um famoso santo sufi em Sylhet, que atrai milhares de peregrinos todos os anos.", fr: "La tombe d'un célèbre saint soufi à Sylhet, qui attire des milliers de pèlerins chaque année."},
     facts: {
       de: ["Wichtige islamische Pilgerstätte.", "Befindet sich in Sylhet.", "Shahjalal half bei der Verbreitung des Islam."],
@@ -11240,7 +11231,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     parent: "BD-10",
     coords: [91.8159, 22.3855],
     name: { de: "Schrein von Bayazid Bostami", hu: "Bayazid Bostami szentélye", ro: "Altarul lui Bayazid Bostami", en: "Shrine of Bayazid Bostami"},
-    image: "/poi-images/bd-bayazid-bostami-shrine-landmarks-v2.webp",
     description: { de: "Ein historischer Schrein in Chittagong, bekannt für seinen Teich mit seltenen, heiligen Schildkröten.", hu: "Történelmi szentély Csittagongban, amely különleges, szentként tisztelt teknőseiről ismert taváról híres.", ro: "Un altar istoric din Chittagong, faimos pentru iazul său cu broaște țestoase sacre rare.", en: "A historic shrine in Chittagong, famous for its pond inhabited by rare, sacred turtles." , es: "Un santuario histórico en Chittagong, conocido por su estanque con tortugas sagradas poco comunes.", pt: "Um santuário histórico em Chittagong, conhecido pela sua lagoa com tartarugas sagradas raras.", fr: "Un sanctuaire historique à Chittagong, connu pour son étang aux tortues sacrées et rares."},
     facts: {
       de: ["Heimat seltener Weichschildkröten.", "Bayazid Bostami war ein persischer Sufi.", "Bedeutender Wallfahrtsort in Chittagong."],
@@ -12475,7 +12465,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     parent: "BD-10",
     coords: [91.8219, 22.3421],
     name: { de: "Zentrales Eisenbahngebäude", hu: "Központi Vasúti Épület", ro: "Clădirea Centrală a Căilor Ferate", en: "Central Railway Building"},
-    image: "/poi-images/bd-central-railway-building-landmarks-v2.webp",
     description: { de: "Ein markantes koloniales Gebäude in Chittagong, das als administratives Hauptquartier der östlichen Eisenbahn dient.", hu: "Történelmi brit gyarmati épület Csittagongban, amelyet festői természeti szépség vesz körül.", ro: "O clădire istorică colonială britanică din Chittagong, înconjurată de frumusețea peisajului natural.", en: "An iconic colonial-era administrative building in Chittagong, reflecting British architectural style and railway history." , es: "Un prominente edificio colonial en Chittagong que sirve como sede administrativa de la zona este del ferrocarril.", pt: "Um proeminente edifício colonial em Chittagong que serve como sede administrativa da ferrovia oriental.", fr: "Un bâtiment colonial imposant à Chittagong, servant de siège administratif pour les chemins de fer de l'Est."},
     facts: {
       de: ["Prachtvolles Beispiel britischer Kolonialarchitektur", "Erbaut während der britischen Herrschaft", "Verwaltungszentrum der Bangladesh Railway (East Zone)", "Wichtiges historisches Wahrzeichen in Chittagong"],
@@ -13026,7 +13015,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     parent: "BD-54",
     coords: [88.5986, 24.3683],
     name: { de: "Varendra-Forschungsmuseum", hu: "Varendra Kutatómúzeum", ro: "Muzeul de Cercetare Varendra", en: "Varendra Research Museum"},
-    image: "/poi-images/bd-varendra-museum-landmarks-v2.webp",
     description: { de: "Das älteste Museum in Bangladesch, gelegen in Rajshahi, mit einer reichen Sammlung an historischen Artefakten.", hu: "Banglades legrégebbi múzeuma Rajshahiban, amely gazdag történelmi leletgyűjteménnyel rendelkezik.", ro: "Cel mai vechi muzeu din Bangladesh, situat în Rajshahi, cu o colecție bogată de artefacte istorice.", en: "The oldest museum in Bangladesh, located in Rajshahi, featuring a rich collection of historical artifacts." , es: "El museo más antiguo de Bangladés, situado en Rajshahi, con una rica colección de artefactos históricos.", pt: "O museu mais antigo do Bangladesh, situado em Rajshahi, com uma rica coleção de artefactos históricos.", fr: "Le plus ancien musée du Bangladesh, situé à Rajshahi, doté d'une riche collection d'artéfacts historiques."},
     facts: {
       de: ["Gegründet im Jahr 1910.", "Das älteste Museum in Bangladesch.", "Zentrum für archäologische Forschung."],
@@ -13217,7 +13205,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     parent: "BD-50",
     coords: [89.0270, 24.0673],
     name: { de: "Hardinge-Brücke", hu: "Hardinge híd", ro: "Podul Hardinge", en: "Hardinge Bridge"},
-    image: "/poi-images/bd-hardinge-bridge-landmarks-v2.webp",
     description: { de: "Eine historische Eisenbahnbrücke über den Padma-Fluss, die als technisches Meisterwerk der Kolonialzeit gilt.", hu: "Történelmi vasúti híd a Padma folyó felett, amelyet a brit gyarmati időszakban építettek.", ro: "Un pod feroviar istoric peste râul Padma, construit în perioada colonială britanică.", en: "A historic railway bridge over the Padma River, built during the British colonial period." , es: "Un histórico puente ferroviario sobre el río Padma, considerado una obra maestra de la ingeniería de la época colonial.", pt: "Uma histórica ponte ferroviária sobre o rio Padma, considerada uma obra-prima da engenharia da era colonial.", fr: "Un pont ferroviaire historique sur le fleuve Padma, considéré comme un chef-d'œuvre technique de l'époque coloniale."},
     facts: {
       de: ["Nach Lord Hardinge, dem Vizekönig von Indien, benannt", "1915 für den Eisenbahnverkehr eröffnet", "Eine der längsten Eisenbahnbrücken des Landes", "Wichtige Verbindung zwischen Nord- und Südbangladesch"],
@@ -14056,7 +14043,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     parent: "BD-13",
     coords: [90.3871, 23.7599],
     name: { de: "Novo-Theater", hu: "Novo Színház és Planetárium", ro: "Teatrul Novo", en: "Novo Theatre"},
-    image: "/poi-images/bd-novo-theatre-landmarks-v2.webp",
     description: { de: "Ein modernes Planetarium in Dhaka, das Besuchern faszinierende Einblicke in die Astronomie und Weltraumforschung bietet.", hu: "Korszerű planetárium Dakkában, amely csillagászati és tudományos programokat kínál a látogatóknak.", ro: "Un planetariu ultramodern în Dhaka, care oferă programe despre astronomie și știință.", en: "A state-of-the-art planetarium in Dhaka offering programs on astronomy and science." , es: "Un planetario moderno en Daca que ofrece a los visitantes visiones fascinantes de la astronomía y la exploración espacial.", pt: "Um planetário moderno em Dhaka que oferece aos visitantes visões fascinantes da astronomia e da exploração espacial.", fr: "Un planétarium moderne à Dacca, offrant aux visiteurs des perspectives fascinantes sur l'astronomie et l'exploration spatiale."},
     facts: {
       de: ["Größtes Planetarium in Bangladesch", "Bietet hochmoderne digitale Vorführungen", "Wichtiges Zentrum für wissenschaftliche Bildung", "Markante Architektur im Herzen von Dhaka"],
@@ -14247,7 +14233,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     parent: "BD-13",
     coords: [90.3857, 23.7601],
     name: { de: "Bangabandhu-Militärmuseum", hu: "Bangabandhu Katonai Múzeum", ro: "Muzeul Militar Bangabandhu", en: "Bangabandhu Military Museum"},
-    image: "/poi-images/bd-military-museum-landmarks-v2.webp",
     description: { de: "Ein großes Museum in Dhaka, das die Geschichte und Ausrüstung der Streitkräfte von Bangladesch präsentiert.", hu: "Nagy múzeum Dakkában, amely a bangladesi fegyveres erők történetét és felszerelését mutatja be.", ro: "Un muzeu mare din Dhaka care prezintă istoria și echipamentul forțelor armate din Bangladesh.", en: "A large museum in Dhaka showcasing the history and equipment of the Bangladesh Armed Forces." , es: "Un gran museo en Daca que presenta la historia y el equipamiento de las fuerzas armadas de Bangladés.", pt: "Um grande museu em Dhaka que apresenta a história e os equipamentos das forças armadas do Bangladesh.", fr: "Un grand musée à Dacca qui présente l'histoire et l'équipement des forces armées du Bangladesh."},
     facts: {
       de: ["Präsentiert die Militärgeschichte.", "1987 gegründet und später modernisiert.", "Befindet sich in Bijoy Sarani, Dhaka."],
@@ -15194,7 +15179,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     parent: "BD-13",
     coords: [90.3942, 23.7381],
     name: { de: "Nationalmuseum von Bangladesch", hu: "Bangladesi Nemzeti Múzeum", ro: "Muzeul Național al Bangladeshului", en: "Bangladesh National Museum"},
-    image: "/poi-images/bd-national-museum-landmarks-v2.webp",
     description: { de: "Das wichtigste Museum des Landes in Dhaka, das Kunst, Geschichte, klassische Antiquitäten und Naturkunde ausstellt.", hu: "Az ország legfontosabb múzeuma Dakkában, amely művészeti, történelmi, ókori és természetrajzi kiállításokat kínál.", ro: "Cel mai important muzeu din țară, situat în Dhaka, expunând artă, istorie, antichități și istorie naturală.", en: "The country's principal museum in Dhaka, exhibiting art, history, classical antiquities, and natural history." , es: "El museo más importante del país en Daca, que exhibe arte, historia, antigüedades clásicas e historia natural.", pt: "O museu mais importante do país em Dhaka, que exibe arte, história, antiguidades clássicas e história natural.", fr: "Le plus important musée du pays à Dacca, exposant de l'art, de l'histoire, des antiquités classiques et de l'histoire naturelle."},
     facts: {
       de: ["1913 als Dhaka Museum gegründet.", "Das größte Museum in Bangladesch.", "Umfasst zahlreiche Abteilungen."],
@@ -16429,7 +16413,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     parent: "BD-30",
     coords: [89.1419, 23.8966],
     name: { de: "Schrein von Lalon Shah", hu: "Lalon Shah szentélye", ro: "Altarul lui Lalon Shah", en: "Lalon Shah's Shrine"},
-    image: "/poi-images/bd-lalon-shah-shrine-landmarks-v2.webp",
     description: { de: "Ein spirituelles Zentrum in Kushtia, das dem berühmten bengalischen Baul-Sänger und Philosophen Lalon Shah gewidmet ist.", hu: "Spirituális központ Kushtiában, amelyet a híres bengáli Baul énekesnek és filozófusnak, Lalon Shah-nak szenteltek.", ro: "Un centru spiritual din Kushtia, dedicat faimosului cântăreț și filosof bengalez Lalon Shah.", en: "A spiritual center in Kushtia dedicated to the famous Bengali Baul singer and philosopher Lalon Shah." , es: "Un centro espiritual en Kushtia dedicado al famoso cantante y filósofo Baul bengalí Lalon Shah.", pt: "Um centro espiritual em Kushtia dedicado ao famoso cantor e filósofo Baul bengali Lalon Shah.", fr: "Un centre spirituel à Kushtia dédié au célèbre chanteur et philosophe Baul bengali Lalon Shah."},
     facts: {
       de: ["Befindet sich in Cheuriya, Kushtia.", "Zieht viele Baul-Musiker an.", "Jährliches Festival zu seinen Ehren."],
@@ -16620,7 +16603,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     parent: "BD-24",
     coords: [91.9566, 23.0883],
     name: { de: "Alutila-Höhle", hu: "Alutila-barlang", ro: "Peștera Alutila", en: "Alutila Cave"},
-    image: "/poi-images/bd-alutila-cave-landmarks-v2.webp",
     description: { de: "Eine natürliche Höhle in Khagrachari, die ein aufregendes Abenteuererlebnis in vollkommener Dunkelheit bietet.", hu: "Természetes barlang Khagrachariban, amely izgalmas kalandot kínál a látogatóknak a teljes sötétségben.", ro: "O peșteră naturală în Khagrachari, oferind o experiență de aventură palpitantă în întuneric total.", en: "A natural cave in Khagrachari that offers a thrilling adventure experience in complete darkness." , es: "Una cueva natural en Khagrachari que ofrece una emocionante experiencia de aventura en total oscuridad.", pt: "Uma caverna natural em Khagrachari que oferece uma emocionante experiência de aventura em total escuridão.", fr: "Une grotte naturelle à Khagrachari qui offre une expérience d'aventure passionnante dans l'obscurité totale."},
     facts: {
       de: ["Natürliche Höhle in Khagrachari.", "Oft mit Fackeln erkundet.", "Beliebte Touristenattraktion in den Hügeln."],

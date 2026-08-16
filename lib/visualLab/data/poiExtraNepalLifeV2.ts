@@ -593,7 +593,6 @@ export const poiExtraNepalLifeV2: POI[] = [
     parent: "NP-P3",
     coords: [85.3113, 27.6738],
     name: { de: "Zentraler Zoo", hu: "Központi Állatkert", ro: "Grădina Zoologică Centrală", en: "Central Zoo"},
-    image: "/poi-images/central-zoo-life-v2.webp",
     description: {
       de: "Dieser einzige historische Zoo Nepals liegt in Jawalakhel und bietet Familien die Möglichkeit, bengalische Tiger, Panzernashörner und unzählige Vogelarten hautnah zu erleben.",
       hu: "Nepál egyetlen történelmi állatkertje Jawalakhelben található, ahol a családok testközelből figyelhetik meg a bengáli tigriseket, az indiai orrszarvúkat és számos madárfajt.",
@@ -1762,7 +1761,6 @@ export const poiExtraNepalLifeV2: POI[] = [
     parent: "NP-P3",
     coords: [85.3211, 27.7011],
     name: { de: "Kathmandu Vergnügungspark", hu: "Katmandu Vidámpark", ro: "Parcul de Distracții Kathmandu", en: "Kathmandu Fun Park"},
-    image: "/poi-images/kathmandu-fun-park-life-v2.webp",
     description: {
       de: "Ein bunter Freizeitpark im Herzen der Hauptstadt, der mit Riesenrädern, Autoscootern und klassischen Karussells täglich hunderte lachende Kinder anzieht.",
       hu: "A főváros szívében található színes vidámpark óriáskerékkel, dodzsemmel és klasszikus körhintákkal vonz naponta több száz nevető gyermeket.",
@@ -2247,7 +2245,6 @@ export const poiExtraNepalLifeV2: POI[] = [
     parent: "NP-P1",
     coords: [87.9281, 26.9118],
     name: { de: "Teegärten von Ilam", hu: "Ilam teaföldek", ro: "Grădinile de Ceai Ilam", en: "Ilam Tea Gardens"},
-    image: "/poi-images/ilam-tea-gardens-life-v2.webp",
     description: {
       de: "Die sanft geschwungenen, smaragdgrünen Hügel von Ilam sind das Herzstück der nepalesischen Teeproduktion, wo der berühmte Hochlandtee mit Sorgfalt geerntet wird.",
       hu: "Ilam lágyan hullámzó, smaragdzöld dombjai a nepáli teatermelés központját jelentik, ahol a híres hegyvidéki teát gondosan szüretelik.",
@@ -3308,7 +3305,6 @@ export const poiExtraNepalLifeV2: POI[] = [
     parent: "NP-P3",
     coords: [85.3811, 27.5956],
     name: { de: "Botanischer Garten Godawari", hu: "Godawari Botanikus Kert", ro: "Grădina Botanică Godawari", en: "Godawari Botanical Garden"},
-    image: "/poi-images/godawari-botanical-garden-life-v2.webp",
     description: {
       de: "Dieser ruhige Rückzugsort am Fuße des Phulchowki-Hügels ist ein lebendiges Laboratorium für Nepals reiche Flora und ein beliebtes Picknickziel für Stadtbewohner.",
       hu: "Ez a csendes menedékhely a Phulchowki-hegy lábánál Nepál gazdag növényvilágának élő laboratóriuma, és a városiak kedvelt piknikezőhelye.",
@@ -3829,7 +3825,6 @@ export const poiExtraNepalLifeV2: POI[] = [
     parent: "NP-P5",
     coords: [83.2753, 27.4811],
     name: { de: "Lumbini-Kranichschutzgebiet", hu: "Lumbini Daru Menedékhely", ro: "Sanctuarul de Cocori Lumbini", en: "Lumbini Crane Sanctuary"},
-    image: "/poi-images/lumbini-crane-sanctuary-life-v2.webp",
     description: {
       de: "Rund um den Geburtsort Buddhas haben Naturschützer dieses Feuchtgebiet erhalten, das eine wichtige Zuflucht für die majestätischen, gefährdeten Saruskraniche bietet.",
       hu: "Buddha szülőhelye körül a természetvédők megőrizték ezt a vizes élőhelyet, amely létfontosságú menedéket nyújt a fenséges, veszélyeztetett antigonédarvaknak.",
@@ -4206,7 +4201,6 @@ export const poiExtraNepalLifeV2: POI[] = [
     parent: "NP-P3",
     coords: [85.3971, 27.5701],
     name: { de: "Vogelbeobachtungsgebiet Phulchowki", hu: "Phulchowki Madármegfigyelő Terület", ro: "Zona de Observare a Păsărilor Phulchowki", en: "Phulchowki Bird Watching Area"},
-    image: "/poi-images/phulchowki-bird-watching-area-life-v2.webp",
     description: {
       de: "Der höchste Hügel rund um das Kathmandu-Tal ist ein bewaldetes Paradies, durch das Ornithologen streifen, um einige der seltensten Himalaya-Vögel zu sichten.",
       hu: "A Katmandu-völgy körüli legmagasabb domb egy erdős paradicsom, ahol ornitológusok kutatnak a legritkább himalájai madarak után.",
@@ -4295,7 +4289,6 @@ export const poiExtraNepalLifeV2: POI[] = [
     parent: "NP-P2",
     coords: [84.8876, 27.3592],
     name: { de: "Parsa-Nationalpark", hu: "Parsa Nemzeti Park", ro: "Parcul Național Parsa", en: "Parsa National Park"},
-    image: "/poi-images/parsa-national-park-life-v2.webp",
     description: {
       de: "Dieses weitläufige Reservat in den Siwalik-Hügeln war einst ein königliches Jagdrevier und ist heute ein geschützter Zufluchtsort für eine wachsende Population von asiatischen Wildfanten.",
       hu: "A Siwalik-hegységben elterülő hatalmas rezervátum egykor királyi vadászterület volt, ma pedig az ázsiai vadon élő elefántok növekvő populációjának védett menedéke.",
@@ -4339,7 +4332,6 @@ export const poiExtraNepalLifeV2: POI[] = [
     parent: "NP-P5",
     coords: [81.8794, 28.1633],
     name: { de: "Banke-Nationalpark", hu: "Banke Nemzeti Park", ro: "Parcul Național Banke", en: "Banke National Park"},
-    image: "/poi-images/banke-national-park-life-v2.webp",
     description: {
       de: "Als jüngster Nationalpark in der Terai-Region Nepals wurde dieses Gebiet speziell als Erweiterung der Schutzgebiete für den gefährdeten Königstiger eingerichtet.",
       hu: "Nepál Terai régiójának legfiatalabb nemzeti parkjaként ezt a területet kifejezetten a veszélyeztetett bengáli tigris védett élőhelyeinek kiterjesztéseként hozták létre.",
@@ -5760,7 +5752,6 @@ export const poiExtraNepalLifeV2: POI[] = [
     parent: "NP-P7",
     coords: [81.0494, 29.3876],
     name: { de: "Khaptad-Nationalpark", hu: "Khaptad Nemzeti Park", ro: "Parcul Național Khaptad", en: "Khaptad National Park"},
-    image: "/poi-images/khaptad-national-park-life-v2.webp",
     description: {
       de: "Dieses abgelegene, spirituelle Wunderland in Fernwestnepal vereint weite, grüne Moorlandschaften, dichte Kiefernwälder und heilige Meditationsstätten.",
       hu: "Ez a távoli, spirituális csodavilág Nepál távol-nyugati részén hatalmas, zöld mocsárvidékeket, sűrű fenyveseket és szent meditációs helyeket ötvöz.",
@@ -5849,7 +5840,6 @@ export const poiExtraNepalLifeV2: POI[] = [
     parent: "NP-P7",
     coords: [80.8973, 29.8398],
     name: { de: "Api-Nampa-Schutzgebiet", hu: "Api Nampa Természetvédelmi Terület", ro: "Aria de Conservare Api Nampa", en: "Api Nampa Conservation Area"},
-    image: "/poi-images/api-nampa-conservation-area-life-v2.webp",
     description: {
       de: "Das Schutzgebiet im äußersten Nordwesten des Landes ist ein unberührtes Ökosystem, in dem seltene Schneeleoparden jagen und Nomaden ihre Yaks weiden lassen.",
       hu: "Az ország legészaknyugatibb részén található védett terület egy érintetlen ökoszisztéma, ahol ritka hópárducok vadásznak és nomádok legeltetik jakjaikat.",
@@ -6622,7 +6612,6 @@ export const poiExtraNepalLifeV2: POI[] = [
     parent: "NP-P4",
     coords: [84.8395, 28.5398],
     name: { de: "Manaslu-Schutzgebiet", hu: "Manaslu Természetvédelmi Terület", ro: "Aria de Conservare Manaslu", en: "Manaslu Conservation Area"},
-    image: "/poi-images/manaslu-conservation-area-life-v2.webp",
     description: {
       de: "Um den achthöchsten Berg der Welt herum liegt eine geschützte Region, die vom bedrohten Moschustier und Blauschafrudeln auf extremen Höhen bewohnt wird.",
       hu: "A világ nyolcadik legmagasabb hegye körül terül el az a védett régió, amelyet a veszélyeztetett pézsmaszarvasok és kékjuh nyájak laknak extrém magasságokban.",
@@ -6747,7 +6736,6 @@ export const poiExtraNepalLifeV2: POI[] = [
     parent: "NP-P3",
     coords: [86.2301, 27.8732],
     name: { de: "Gaurishankar-Schutzgebiet", hu: "Gaurishankar Természetvédelmi Terület", ro: "Aria de Conservare Gaurishankar", en: "Gaurishankar Conservation Area"},
-    image: "/poi-images/gaurishankar-conservation-area-life-v2.webp",
     description: {
       de: "Dieses zerklüftete Schutzgebiet dient als lebenswichtiger ökologischer Korridor zwischen den Nationalparks Langtang und Sagarmatha, in dem Rote Pandas durch dichte Bambuswälder streifen.",
       hu: "Ez a zord védett terület létfontosságú ökológiai folyosóként szolgál a Langtang és Sagarmatha nemzeti parkok között, ahol vörös macskamedvék barangolnak a sűrű bambuszerdőkben.",
@@ -6791,7 +6779,6 @@ export const poiExtraNepalLifeV2: POI[] = [
     parent: "NP-P5",
     coords: [81.3094, 28.5301],
     name: { de: "Krishnasar-Schutzgebiet", hu: "Krishnasar Vadvédelmi Terület", ro: "Aria de Conservare Krishnasar", en: "Krishnasar Conservation Area"},
-    image: "/poi-images/krishnasar-conservation-area-life-v2.webp",
     description: {
       de: "Ein kleines, aber wichtiges Schutzgebiet im Terai, das speziell dafür eingerichtet wurde, die ehemals vom Aussterben bedrohte Hirschziegenantilope vor der Ausrottung zu bewahren.",
       hu: "Egy kis, de fontos védett terület a Terai régióban, amelyet kifejezetten azért hoztak létre, hogy megmentsék a korábban a kihalás szélén álló indiai antilopot.",
@@ -6835,7 +6822,6 @@ export const poiExtraNepalLifeV2: POI[] = [
     parent: "NP-P4",
     coords: [83.0592, 28.4901],
     name: { de: "Dhorpatan-Jagdreservat", hu: "Dhorpatan Vadászrezervátum", ro: "Rezervația de Vânătoare Dhorpatan", en: "Dhorpatan Hunting Reserve"},
-    image: "/poi-images/dhorpatan-hunting-reserve-life-v2.webp",
     description: {
       de: "Als Nepals einziges Jagdreservat wird hier die Population des Blauschaafs und des Himalaya-Tahr streng überwacht und reguliert, um das ökologische Gleichgewicht in den alpinen Weiden zu erhalten.",
       hu: "Nepál egyetlen vadászrezervátumaként itt szigorúan felügyelik és szabályozzák a kékjuhok és a himalájai tahr populációját az alpesi legelők ökológiai egyensúlyának fenntartása érdekében.",
@@ -7032,7 +7018,6 @@ export const poiExtraNepalLifeV2: POI[] = [
     parent: "NP-P4",
     coords: [83.6841, 28.7533],
     name: { de: "Apfelplantagen von Mustang", hu: "Mustang almaültetvények", ro: "Livezile de Meri din Mustang", en: "Mustang Apple Orchards"},
-    image: "/poi-images/mustang-apple-orchards-life-v2.webp",
     description: {
       de: "In der trockenen, windgepeitschten Region von Mustang, insbesondere in Marpha, bauen Landwirte in großen Höhen saftige Äpfel an, die für ihren einzigartigen, knackigen Geschmack berühmt sind.",
       hu: "A száraz, szélfútta Mustang régióban, különösen Marphában a gazdák nagy magasságban termesztenek lédús almát, amely egyedi, ropogós ízéről híres.",
@@ -7229,7 +7214,6 @@ export const poiExtraNepalLifeV2: POI[] = [
     parent: "NP-P5",
     coords: [83.2501, 28.0501],
     name: { de: "Kaffeeplantagen von Gulmi", hu: "Gulmi kávéültetvények", ro: "Plantațiile de Cafea din Gulmi", en: "Gulmi Coffee Plantations"},
-    image: "/poi-images/gulmi-coffee-plantations-life-v2.webp",
     description: {
       de: "An den steilen, terrassierten Hängen des Gulmi-Distrikts wird hochwertiger Arabica-Kaffee unter schattigen Bäumen angebaut, der Nepals Reputation für Spezialitätenkaffee begründet hat.",
       hu: "A Gulmi kerület meredek, teraszos lejtőin, árnyékot adó fák alatt termesztik a kiváló minőségű arabica kávét, amely megalapozta Nepál hírnevét a különleges kávék terén.",
@@ -8290,7 +8274,6 @@ export const poiExtraNepalLifeV2: POI[] = [
     parent: "NP-P3",
     coords: [85.2811, 27.6321],
     name: { de: "Whoopee Land Freizeitpark", hu: "Whoopee Land Vidámpark", ro: "Parcul de Distracții Whoopee Land", en: "Whoopee Land Amusement Park"},
-    image: "/poi-images/whoopee-land-amusement-park-life-v2.webp",
     description: {
       de: "Einer der aufregendsten modernen Wasser- und Freizeitparks in Kathmandu, der Familien eine perfekte Abkühlung und Nervenkitzel mit rasanten Rutschen bietet.",
       hu: "Katmandu egyik legizgalmasabb modern vízi- és vidámparkja, amely tökéletes felfrissülést és izgalmakat kínál a családoknak sebes csúszdáival.",
@@ -8631,7 +8614,6 @@ export const poiExtraNepalLifeV2: POI[] = [
     parent: "NP-P3",
     coords: [85.1501, 27.5833],
     name: { de: "Fischfarmen von Kulekhani", hu: "Kulekhani halgazdaságok", ro: "Fermele Piscicole Kulekhani", en: "Kulekhani Fish Farms"},
-    image: "/poi-images/kulekhani-fish-farms-life-v2.webp",
     description: {
       de: "Rund um den künstlichen Stausee Kulekhani hat sich eine blühende Aquakultur-Industrie entwickelt, die das Kathmandu-Tal mit frischem Fisch versorgt.",
       hu: "A Kulekhani mesterséges víztározó körül virágzó akvakultúra-ipar alakult ki, amely friss hallal látja el a Katmandu-völgyet.",
@@ -9980,7 +9962,6 @@ export const poiExtraNepalLifeV2: POI[] = [
     parent: "NP-P5",
     coords: [83.4211, 27.6511],
     name: { de: "Straußenfarm Nepal", hu: "Nepál Struccfarm", ro: "Ferma de Struți Nepal", en: "Ostrich Nepal Farm"},
-    image: "/poi-images/ostrich-nepal-farm-life-v2.webp",
     description: {
       de: "Diese Pionierfarm im Distrikt Rupandehi brachte die kommerzielle Straußenzucht nach Nepal und ist heute ein faszinierendes agrotouristisches Ziel für Familien.",
       hu: "Ez az úttörő farm a Rupandehi kerületben hozta el a kereskedelmi strucctenyésztést Nepálba, és ma lenyűgöző agroturisztikai célpont a családok számára.",

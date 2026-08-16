@@ -76,7 +76,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["Com 826 metros, o Mont Itoupé é o segundo ponto mais alto do país.", "Situa-se no coração do Parc Amazonien de Guyane, fundado em 2007.", "A montanha abriga mais de 200 espécies diferentes de musgos e fetos.", "A região do topo está quase constantemente envolta em nuvens e nevoeiro.", "As expedições científicas ocorrem aqui desde a década de 1980.", "No sopé da montanha nascem vários afluentes do rio Maroni."],
       fr: ["Avec 826 mètres, le Mont Itoupé est le deuxième point culminant du territoire.", "Il est situé au cœur du Parc Amazonien de Guyane, créé en 2007.", "Le mont abrite plus de 200 espèces différentes de mousses et de fougères.", "La zone sommitale est presque en permanence plongée dans les nuages et la brume.", "Des expéditions scientifiques y sont menées depuis les années 1980.", "Plusieurs affluents du Maroni prennent leur source au pied de la montagne."],
     }, },
-    image: "/poi-images/gf-mont-itoupe-relief-v2.webp",
     description: {
       de: "Einer der höchsten Gipfel in Französisch-Guayana mit 830 Metern Höhe.",
       hu: "Francia Guyana egyik legmagasabb csúcsa, amely 830 méter magasságba nyúlik.",
@@ -126,7 +125,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["Os Monts Bakra estendem-se por uma extensão de cerca de 40 quilómetros.", "O pico mais alto da cordilheira atinge uma altitude de 700 metros.", "A rocha das montanhas tem mais de 2 mil milhões de anos.", "A região é completamente desabitada e não possui ligação rodoviária.", "Nos vales foram encontrados raros vestígios de garimpo de ouro do século XIX.", "As montanhas servem de divisora de águas entre as bacias hidrográficas do Inini e do Approuague."],
       fr: ["Les Monts Bakra s'étendent sur une longueur d'environ 40 kilomètres.", "Le point culminant de la chaîne atteint une altitude de 700 mètres.", "La roche des montagnes est âgée de plus de 2 milliards d'années.", "La région est totalement inhabitée et dépourvue de liaison routière.", "De rares traces d'orpaillage du XIXe siècle ont été retrouvées dans les vallées.", "Les montagnes servent de ligne de partage des eaux entre les bassins versants de l'Inini et de l'Approuague."],
     }, },
-    image: "/poi-images/gf-monts-bakra-relief-v2.webp",
     description: {
       de: "Eine Gebirgskette im Südwesten von Französisch-Guayana nahe der brasilianischen Grenze.",
       hu: "Hegylánc Francia Guyana délnyugati részén, a brazil határ közelében.",
@@ -176,7 +174,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["O maciço atinge uma altitude máxima de cerca de 500 metros.", "Situa-se a cerca de 30 quilómetros a sul de Saint-Laurent-du-Maroni.", "A formação pertence à cintura de pedras verdes proterozoica das Guianas.", "Na década de 1950, foram investigados aqui depósitos de bauxite.", "A área abriga populações do raro saki-de-guiana.", "O nome 'Dékou-Dékou' provém da língua local dos marrons."],
       fr: ["Le massif atteint une altitude maximale d'environ 500 mètres.", "Il est situé à environ 30 kilomètres au sud de Saint-Laurent-du-Maroni.", "La formation appartient à la ceinture de roches vertes protérozoïque de Guyane.", "Dans les années 1950, des gisements de bauxite y ont été étudiés.", "La zone abrite des populations du rare Saki à tête pâle.", "Le nom 'Dékou-Dékou' provient de la langue locale marron."],
     }, },
-    image: "/poi-images/gf-massif-dekou-dekou-relief-v2.webp",
     description: {
       de: "Ein bedeutendes Gebirgsmassiv und wichtiges Naturschutzgebiet im Westen des Landes.",
       hu: "Egy jelentős hegység és fontos természetvédelmi terület az ország nyugati részén.",
@@ -271,7 +268,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["A reserva natural foi fundada oficialmente em 6 de junho de 1994.", "O inselberg mais alto, a Roche de la Trinité, tem 630 metros de altura.", "As rochas de granito estão entre as formações superficiais mais antigas das Américas.", "A reserva estende-se por uma área total de 76.903 hectares.", "Abriga espécies raras de morcegos que vivem apenas em fendas rochosas.", "A temperatura média nas rochas nuas pode atingir os 45 graus durante o dia."],
       fr: ["La réserve naturelle a été officiellement fondée le 6 juin 1994.", "Le plus haut inselberg, la Roche de la Trinité, culmine à 630 mètres.", "Les roches granitiques comptent parmi les formations de surface les plus anciennes des Amériques.", "La réserve s'étend sur une superficie totale de 76 903 hectares.", "Elle abrite des espèces de chauves-souris rares qui ne vivent que dans les crevasses rocheuses.", "La température moyenne sur les rochers nus peut atteindre 45 degrés pendant la journée."],
     }, },
-    image: "/poi-images/gf-montagnes-de-la-trinite-relief-v2.webp",
     description: {
       de: "Ein isoliertes Gebirgsmassiv im Zentrum des Regenwaldes von Französisch-Guayana.",
       hu: "Egy elszigetelt hegység Francia Guyana esőerdejének közepén.",
@@ -321,7 +317,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["O Mont Machalou atinge uma altura de cerca de 780 metros.", "Localiza-se na bacia hidrográfica do rio Maroni.", "As formações rochosas datam do Pré-Câmbrico.", "A humidade do ar aqui é superior a 85% em média anual.", "Foram identificadas espécies raras de musgos endémicos na montanha.", "Não existem povoações humanas permanentes num raio de 50 km."],
       fr: ["Le Mont Machalou atteint une altitude d'environ 780 mètres.", "Il se situe dans le bassin versant du fleuve Maroni.", "Les formations rocheuses datent du Précambrien.", "L'humidité de l'air y dépasse 85 % en moyenne annuelle.", "Des espèces rares de mousses endémiques ont été identifiées sur le mont.", "Il n'y a aucun établissement humain permanent dans un rayon de 50 km."],
     }, },
-    image: "/poi-images/gf-mont-machalou-relief-v2.webp",
     description: {
       de: "Ein markanter Berg im südlichen Teil von Französisch-Guayana.",
       hu: "Egy jellegzetes hegy Francia Guyana déli részén.",
@@ -488,7 +483,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["A colina tem cerca de 130 metros de altura.", "Abriga petróglifos com mais de 1.000 anos de idade.", "A primeira missão jesuíta francesa foi fundada aqui em 1731.", "O local situa-se a poucos quilómetros da cidade de Oiapoque, no Brasil.", "A área é protegida desde 1998 pelo Conservatoire du Littoral.", "Foram registados mais de 40 sítios arqueológicos diferentes."],
       fr: ["La colline culmine à environ 130 mètres.", "Elle abrite des pétroglyphes vieux de plus de 1 000 ans.", "La première mission jésuite française y fut fondée en 1731.", "Le site se trouve à quelques kilomètres de la ville d'Oiapoque au Brésil.", "La zone est protégée depuis 1998 par le Conservatoire du Littoral.", "Plus de 40 sites archéologiques différents y ont été recensés."],
     }, },
-    image: "/poi-images/gf-montagne-d-argent-relief-v2.webp",
     description: {
       de: "Eine historische und markante Erhebung nahe der Küste, die einst besiedelt war.",
       hu: "Egy történelmi és jellegzetes magaslat a part közelében, amely egykor lakott volt.",
@@ -583,7 +577,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["O Pic Coudreau tem uma altitude de 711 metros.", "Foi batizado em honra de Henri Coudreau (1859-1899).", "A montanha situa-se na zona central de Inini.", "Geologicamente pertence à base cristalina do Escudo das Guianas.", "A precipitação anual pode ultrapassar aqui os 3.500 mm.", "A região só foi mapeada com precisão a partir do ar na década de 1950."],
       fr: ["Le Pic Coudreau culmine à 711 mètres.", "Il a été nommé en l'honneur de Henri Coudreau (1859-1899).", "La montagne est située dans la zone centrale de l'Inini.", "D'un point de vue géologique, elle appartient au socle cristallin du plateau des Guyanes.", "La pluviométrie annuelle peut y dépasser 3 500 mm.", "La région n'a été cartographiée avec précision par voie aérienne que dans les années 1950."],
     }, },
-    image: "/poi-images/gf-pic-coudreau-relief-v2.webp",
     description: {
       de: "Ein 711 Meter hoher Berggipfel, benannt nach dem Entdecker Henri Coudreau.",
       hu: "Egy 711 méter magas hegycsúcs, amelyet Henri Coudreau felfedezőről neveztek el.",
@@ -729,7 +722,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["A cordilheira forma a divisória de águas entre o Amazonas e os rios costeiros da Guiana.", "Geologicamente, a cadeia pertence ao Escudo das Guianas, uma das formações rochosas mais antigas da Terra.", "A elevação mais alta neste setor atinge uma altitude de cerca de 700 metros.", "A área faz parte do Parque Amazónico da Guiana, fundado em 2007.", "A população indígena Wayana habita os vales no sopé da cordilheira.", "A região regista precipitação anual que ultrapassa frequentemente os 3.000 milímetros."],
       fr: ["La chaîne de montagnes forme la ligne de partage des eaux entre l'Amazone et les fleuves côtiers guyanais.", "Géologiquement, la chaîne appartient au plateau des Guyanes, l'une des formations rocheuses les plus anciennes de la Terre.", "Le point culminant de ce secteur atteint une altitude d'environ 700 mètres.", "La zone fait partie du Parc amazonien de Guyane, fondé en 2007.", "La population autochtone Wayana habite les vallées aux pieds de la chaîne de montagnes.", "La région enregistre des précipitations annuelles dépassant souvent les 3 000 millimètres."],
     }, },
-    image: "/poi-images/gf-monts-tumuc-humac-relief-v2.webp",
     description: {
       de: "Eine ausgedehnte Hügel- und Bergkette an der südlichen Grenze zu Brasilien.",
       hu: "Kiterjedt domb- és hegylánc a déli határon Brazíliával.",
@@ -779,7 +771,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["Os Monts d'Arawa situam-se na bacia hidrográfica do rio Mana.", "A altitude média dos picos varia entre os 400 e os 500 metros.", "A região é acessível quase exclusivamente por via aérea ou através de rios.", "Estudos geológicos mostram uma elevada concentração de xisto metamórfico.", "A área é um habitat importante para o bugio-ruivo.", "A precipitação anual está entre as mais elevadas do distrito central."],
       fr: ["Les Monts d'Arawa se situent dans le bassin versant du fleuve Mana.", "L'altitude moyenne des sommets varie entre 400 et 500 mètres.", "La région est accessible presque exclusivement par avion ou par les fleuves.", "Les études géologiques montrent une forte concentration de schiste métamorphique.", "La zone est un habitat important pour le singe hurleur roux.", "La pluviométrie annuelle est l'une des plus élevées du district central."],
     }, },
-    image: "/poi-images/gf-monts-d-arawa-relief-v2.webp",
     description: {
       de: "Eine Gebirgsformation im westlich-zentralen Teil des Überseedepartements.",
       hu: "Egy hegyképződmény a tengerentúli megye nyugati-középső részén.",
@@ -874,7 +865,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["O Massif Lucifer faz parte de uma reserva biológica de 64.000 hectares.", "A elevação mais alta do maciço situa-se em cerca de 500 metros.", "A área foi colocada sob proteção em 1995 para travar a mineração de ouro.", "Abriga uma das populações mais densas de macaco-aranha-preto.", "O maciço consiste principalmente em rocha vulcano-sedimentar.", "Os cientistas contaram aqui mais de 150 espécies de árvores diferentes por hectare."],
       fr: ["Le Massif Lucifer fait partie d'une réserve biologique de 64 000 hectares.", "Le point culminant du massif se situe à environ 500 mètres d'altitude.", "La zone a été protégée en 1995 pour freiner l'exploitation aurifère.", "Il abrite l'une des populations les plus denses d'atèles noirs.", "Le massif est principalement composé de roches vulcano-sédimentaires.", "Les scientifiques y ont recensé plus de 150 espèces d'arbres différentes par hectare."],
     }, },
-    image: "/poi-images/gf-massif-lucifer-relief-v2.webp",
     description: {
       de: "Ein isoliertes Massiv und wichtiges ökologisches Reservat mit hoher Biodiversität.",
       hu: "Egy elszigetelt masszívum és fontos ökológiai rezervátum magas biológiai sokféleséggel.",
@@ -924,7 +914,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["O Mont Kotika atinge uma altura máxima de 703 metros.", "Situa-se no território dos Aluku-Marrons, uma comunidade de descendentes de escravos.", "Geologicamente, a montanha faz parte da cintura de pedras verdes da Guiana.", "No topo reina um microclima mais fresco com elevada frequência de nevoeiro.", "A montanha serve como local sagrado para cerimónias tradicionais da população local.", "Nas florestas do Mont Kotika foram documentadas espécies raras de orquídeas."],
       fr: ["Le Mont Kotika atteint une altitude maximale de 703 mètres.", "Il est situé sur le territoire des Aluku, une communauté de Marrons.", "Géologiquement, le mont fait partie de la ceinture de roches vertes guyanaise.", "Le sommet bénéficie d'un microclimat plus frais avec une brume fréquente.", "La montagne sert de lieu sacré pour les cérémonies traditionnelles de la population locale.", "Des espèces d'orchidées rares ont été documentées dans les forêts du Mont Kotika."],
     }, },
-    image: "/poi-images/gf-mont-kotika-relief-v2.webp",
     description: {
       de: "Mit etwa 730 Metern eine der bemerkenswerten Erhebungen im Guayana-Schild.",
       hu: "Körülbelül 730 méteres magasságával a Guyanai-pajzs egyik figyelemre méltó kiemelkedése.",
@@ -1019,7 +1008,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["O Mont Saint-Clair situa-se no município de Saül, no coração do país.", "A sua altitude é de cerca de 350 metros acima do nível do mar.", "A montanha faz parte do Parque Amazónico da Guiana, o maior parque nacional da França.", "A região ao redor da montanha só é acessível por pequenos aviões ou a pé.", "O solo consiste principalmente em laterite vermelha, rica em óxido de ferro.", "Nas florestas circundantes aninham espécies raras de araras."],
       fr: ["Le Mont Saint-Clair est situé sur la commune de Saül, au cœur du territoire.", "Son altitude est d'environ 350 mètres au-dessus du niveau de la mer.", "Le mont fait partie du Parc Amazonien de Guyane, le plus grand parc national de France.", "La région autour de la montagne n'est accessible que par avion léger ou à pied.", "Le sol est principalement composé de latérite rouge, riche en oxyde de fer.", "Des espèces rares d'aras nichent dans les forêts environnantes."],
     }, },
-    image: "/poi-images/gf-mont-saint-clair-relief-v2.webp",
     description: {
       de: "Ein isolierter Berg, der sich aus dem dichten Regenwald des Landesinneren erhebt.",
       hu: "Egy elszigetelt hegy, amely a belföld sűrű esőerdejéből emelkedik ki.",
@@ -1114,7 +1102,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["Com 717 metros, o Mont Galbao é um dos pontos mais altos do centro da Guiana.", "A montanha abriga uma das poucas florestas de nuvens verdadeiras da região.", "Trilhos de caminhada a partir de Saül levam às encostas do maciço.", "A flora inclui mais de 500 espécies de plantas identificadas na zona do topo.", "Geologicamente, o maciço consiste em rocha granitoide resistente.", "O Mont Galbao faz parte da zona central do Parque Amazónico da Guiana."],
       fr: ["Avec 717 mètres, le Mont Galbao est l'un des points culminants du centre de la Guyane.", "La montagne abrite l'une des rares véritables forêts de nuages de la région.", "Des sentiers de randonnée au départ de Saül mènent aux pentes du massif.", "La flore comprend plus de 500 espèces de plantes identifiées dans la zone sommitale.", "Géologiquement, le massif est composé de roches granitoïdes résistantes.", "Le Mont Galbao fait partie de la zone de cœur du Parc Amazonien de Guyane."],
     }, },
-    image: "/poi-images/gf-mont-galbao-relief-v2.webp",
     description: {
       de: "Eine rund 700 Meter hohe Bergformation mit einem einzigartigen Ökosystem.",
       hu: "Egy mintegy 700 méter magas hegyképződmény egyedülálló ökoszisztémával.",
@@ -1164,7 +1151,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["As quedas d'água de Voltaire têm uma altura total de cerca de 35 metros.", "A floresta situa-se numa reserva biológica gerida de 3.300 hectares.", "Geologicamente, o leito da Crique Voltaire consiste em granito pré-cambriano.", "A região abriga a ariranha, uma espécie animal ameaçada globalmente.", "Trilhas para caminhadas ligam o caminho de acesso aos diferentes degraus das quedas.", "A floresta regista uma das maiores concentrações de fetos arbóreos na Guiana."],
       fr: ["Les chutes Voltaire ont une hauteur totale d'environ 35 mètres.", "La forêt est située dans une réserve biologique gérée de 3 300 hectares.", "Géologiquement, le lit de la crique Voltaire est composé de granit précambrien.", "La région abrite la loutre géante, une espèce menacée à l'échelle mondiale.", "Des sentiers de randonnée relient la piste d'accès aux différents paliers des chutes.", "La forêt présente l'une des plus fortes concentrations de fougères arborescentes de Guyane."],
     }, },
-    image: "/poi-images/gf-foret-de-la-crique-voltaire-relief-v2.webp",
     description: {
       de: "Ein dichtes Waldgebiet rund um den Flusslauf des Crique Voltaire.",
       hu: "Egy sűrű erdőterület a Crique Voltaire folyása körül.",
@@ -1214,7 +1200,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["A Montagne de Plomb atinge uma altura de cerca de 400 metros.", "A área contém algumas das gravuras rupestres pré-colombianas mais bem preservadas da Guiana.", "A reserva biológica abrange uma área de cerca de 3.000 hectares.", "Os cientistas utilizam o local como área de referência para a investigação da mineralogia do solo.", "A floresta é gerida pelo Serviço Florestal Nacional (ONF).", "A região é um corredor importante para populações migratórias de jaguares."],
       fr: ["La montagne de Plomb culmine à environ 400 mètres d'altitude.", "Le site abrite certaines des gravures rupestres précolombiennes les mieux préservées de Guyane.", "La réserve biologique couvre une superficie d'environ 3 000 hectares.", "Les scientifiques utilisent le site comme zone de référence pour l'étude de la minéralogie des sols.", "La forêt est gérée par l'Office National des Forêts (ONF).", "La région constitue un corridor important pour les populations de jaguars en déplacement."],
     }, },
-    image: "/poi-images/gf-foret-de-la-montagne-de-plomb-relief-v2.webp",
     description: {
       de: "Ein bergiges Waldgebiet, das sich durch seine dichte tropische Vegetation auszeichnet.",
       hu: "Hegyvidéki erdőterület, amelyet sűrű trópusi növényzet jellemez.",
@@ -1417,7 +1402,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["A leprosaria de Acarouany só foi oficialmente fechada em 1952.", "A floresta abriga uma das maiores concentrações de palmeira açaí na região de Mana.", "A área faz parte de uma ZNIEFF (Zona Natural de Interesse Ecológico, Faunístico e Florístico).", "O íbis-escarlate utiliza a borda da floresta como local de descanso durante a maré alta.", "Historicamente, a floresta foi usada para a extração de óleo de pau-rosa.", "A estrutura do solo é marcada por rochas hidromórficas e pântanos."],
       fr: ["La léproserie de l'Acarouany n'a officiellement fermé qu'en 1952.", "La forêt abrite l'une des plus fortes concentrations de palmiers Açai de la région de Mana.", "Le site fait partie d'une ZNIEFF (Zone Naturelle d'Intérêt Écologique, Faunistique et Floristique).", "L'Ibis rouge utilise la lisière de la forêt comme reposoir lors de la marée haute.", "Historiquement, la forêt était exploitée pour l'extraction de l'huile de bois de rose.", "La structure du sol est marquée par des roches hydromorphes et des marécages."],
     }, },
-    image: "/poi-images/gf-foret-de-l-acarouany-relief-v2.webp",
     description: {
       de: "Ein bedeutendes Waldreservat im Nordwesten von Französisch-Guayana.",
       hu: "Egy jelentős erdőrezervátum Francia Guyana északnyugati részén.",
@@ -1512,7 +1496,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["Régina regista uma precipitação anual de mais de 3.500 milímetros.", "A floresta situa-se diretamente na estrada nacional RN2, que leva ao Brasil.", "A região abriga a estação de pesquisa Les Nouragues.", "Historicamente, Régina foi o ponto de partida para expedições à bacia superior do Approuague.", "Na floresta ocorrem plantas raras especializadas em 'inselbergs'.", "A região é conhecida pela ocorrência de jacaré-açu nos cursos de água."],
       fr: ["Régina enregistre une pluviométrie annuelle dépassant les 3 500 millimètres.", "La forêt se situe directement sur la route nationale RN2 menant au Brésil.", "La région abrite la station de recherche des Nouragues.", "Historiquement, Régina fut le point de départ des expéditions vers le haut bassin de l'Approuague.", "La forêt abrite des plantes rares spécialistes des inselbergs.", "La région est réputée pour la présence du caïman noir dans ses cours d'eau."],
     }, },
-    image: "/poi-images/gf-foret-de-regina-relief-v2.webp",
     description: {
       de: "Ausgedehnte Urwaldgebiete im Osten von Französisch-Guayana rund um die Gemeinde Régina.",
       hu: "Kiterjedt őserdők Francia Guyana keleti részén, Régina község körül.",
@@ -1562,7 +1545,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["Localizado no município de Iracoubo, no norte da Guiana.", "Gerido pelo Office National des Forêts.", "Faz fronteira com a Reserva Natural de Amana.", "Área de proteção importante para a tartaruga-de-couro (Dermochelys coriacea).", "Parte do geologicamente antigo Escudo das Guianas.", "Abrange tanto floresta pantanosa como floresta de terra firme."],
       fr: ["Située dans la commune d'Iracoubo, au nord de la Guyane.", "Gérée par l'Office National des Forêts.", "Borde la réserve naturelle de l'Amana.", "Zone de protection majeure pour la tortue luth (Dermochelys coriacea).", "Fait partie du bouclier guyanais, géologiquement ancien.", "Comprend aussi bien de la forêt marécageuse que de la forêt de terre ferme."],
     }, },
-    image: "/poi-images/gf-foret-d-organabo-relief-v2.webp",
     description: {
       de: "Ein Wald- und Savannengebiet an der Nordküste zwischen Iracoubo und Mana.",
       hu: "Erdő- és szavannaterület az északi parton Iracoubo és Mana között.",
@@ -1612,7 +1594,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["Os picos atingem alturas entre 400 e 500 metros.", "Deu nome ao território independente de Inini (1930-1946).", "Importante divisor de águas para o rio Sinnamary.", "Pertence ao geologicamente estável Escudo das Guianas.", "Centro histórico de extração de ouro no interior.", "Apenas acessível por helicóptero ou piroga."],
       fr: ["Les sommets atteignent des altitudes entre 400 et 500 mètres.", "A donné son nom au territoire autonome de l'Inini (1930-1946).", "Ligne de partage des eaux importante pour le fleuve Sinnamary.", "Fait partie du bouclier guyanais, géologiquement stable.", "Centre historique de l'exploitation aurifère à l'intérieur des terres.", "Accessible uniquement par hélicoptère ou pirogue."],
     }, },
-    image: "/poi-images/gf-chaine-de-l-inini-relief-v2.webp",
     description: {
       de: "Eine gebirgige Zone im Herzen von Französisch-Guayana, historisch bedeutend für Goldgräber.",
       hu: "Egy hegyvidéki zóna Francia Guyana szívében, történelmileg jelentős az aranyásók számára.",
@@ -1662,7 +1643,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["Atinge uma altura de cerca de 402 metros.", "Localiza-se no planalto central da Guiana Francesa.", "Situa-se perto da povoação isolada de Saül.", "Consiste geologicamente em granito antigo do Escudo das Guianas.", "Abriga flora rara de floresta de nuvens nas encostas superiores.", "Local importante para expedições botânicas."],
       fr: ["Atteint une altitude d'environ 402 mètres.", "Se situe dans les hauts plateaux centraux de la Guyane française.", "Se trouve à proximité du village isolé de Saül.", "Se compose géologiquement de granit ancien du Bouclier guyanais.", "Abrite une flore de forêt de nuages rare sur ses pentes supérieures.", "Site important pour les expéditions botaniques."],
     }, },
-    image: "/poi-images/gf-mont-leblond-relief-v2.webp",
     description: {
       de: "Ein markanter Gipfel von 736 Metern Höhe im schwer zugänglichen Landesinneren.",
       hu: "Egy 736 méter magas, nehezen megközelíthető, jellegzetes hegycsúcs a belföldön.",
@@ -1712,7 +1692,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["Atinge uma altitude de 334 metros.", "Situa-se perto da comunidade de Sinnamary.", "O nome refere-se a descobertas históricas de chumbo e minerais.", "Importante zona de transição entre a costa e o interior.", "Abriga uma elevada densidade de bromélias e orquídeas.", "É utilizada para estudos ecológicos de longo prazo."],
       fr: ["Culmine à 334 mètres d'altitude.", "Située près de la commune de Sinnamary.", "Le nom évoque des découvertes historiques de plomb et de minéraux.", "Zone de transition importante entre la côte et l'arrière-pays.", "Abrite une forte densité de broméliacées et d'orchidées.", "Utilisée pour des études écologiques à long terme."],
     }, },
-    image: "/poi-images/gf-montagne-plomb-relief-v2.webp",
     description: {
       de: "Ein bewaldeter Berg in der Küstenebene, der sich deutlich von seiner Umgebung abhebt.",
       hu: "Egy erdős hegy a parti síkságon, amely egyértelműen kiemelkedik környezetéből.",
@@ -1762,7 +1741,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["Atinge uma altitude de 412 metros.", "Localiza-se na zona fronteiriça entre a Guiana e o Brasil.", "Parte da cordilheira Tumuc-Humac.", "Pertence à área protegida do Parque Nacional da Guiana.", "Historicamente habitado pelas tribos Wayampi e Teko.", "Consiste principalmente em granito pré-cambriano."],
       fr: ["Atteint une altitude de 412 mètres.", "Situé dans la zone frontalière entre la Guyane et le Brésil.", "Fait partie de la chaîne de montagnes des Tumuc-Humac.", "Fait partie de la zone protégée du Parc national de Guyane.", "Historiquement habité par les tribus Wayampi et Teko.", "Constitué principalement de granit précambrien."],
     }, },
-    image: "/poi-images/gf-sommet-emeric-relief-v2.webp",
     description: {
       de: "Eine abgelegene Erhebung im tiefen Wald von Französisch-Guayana.",
       hu: "Egy elszigetelt kiemelkedés Francia Guyana mély erdejében.",
@@ -1893,7 +1871,6 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       pt: ["Atinge uma altitude de 140 metros acima das planícies.", "Localiza-se perto da comuna de Régina, junto ao rio Approuague.", "Inselberg típico (fenómeno de monte-ilha) na floresta tropical.", "Abriga a rara espécie de bromélia Pitcairnia geyskesii.", "Consiste em rocha de granito maciço resistente à erosão.", "Local importante para estudos botânicos de vegetação rupícola."],
       fr: ["Atteint une hauteur de 140 mètres au-dessus des plaines.", "Située à proximité de la commune de Régina, sur le fleuve Approuague.", "Inselberg typique (phénomène de montagne-île) dans la forêt tropicale.", "Abrite l'espèce rare de broméliacée Pitcairnia geyskesii.", "Constituée de roche granitique massive résistante à l'érosion.", "Site important pour les études botaniques de la flore des parois rocheuses."],
     }, },
-    image: "/poi-images/gf-savane-roche-virginie-relief-v2.webp",
     description: {
       de: "Ein spektakulärer Inselberg aus Granit, der aus dem Baumkronendach hervorragt.",
       hu: "Egy látványos gránit szigethegy, amely kiemelkedik a lombkoronaszintből.",

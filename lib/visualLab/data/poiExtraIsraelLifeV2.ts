@@ -773,7 +773,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     parent: "IL-TA",
     coords: [34.8252, 32.0460],
     name: { de: "Safari Ramat Gan", hu: "Ramat Gan Szafari", ro: "Safari Ramat Gan", en: "Ramat Gan Safari"},
-    image: "/poi-images/israel-ramat-gan-safari-life-v2.webp",
     description: {
       de: "Ein zoologischer Garten und Safaripark, der die größte Sammlung von Tieren im Nahen Osten beherbergt.",
       hu: "Állatkert és szafaripark, amely a Közel-Kelet legnagyobb állatgyűjteményének ad otthont.",
@@ -2050,7 +2049,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     parent: "IL-JM",
     coords: [35.1764, 31.7478],
     name: { de: "Biblischer Zoo Jerusalem", hu: "Jeruzsálemi Bibliai Állatkert", ro: "Grădina Zoologică Biblică din Ierusalim", en: "Jerusalem Biblical Zoo"},
-    image: "/poi-images/israel-biblical-zoo-life-v2.webp",
     description: {
       de: "Ein Zoo, der für seine Sammlung von Tieren bekannt ist, die in der hebräischen Bibel erwähnt werden.",
       hu: "Az állatkert a héber Bibliában említett állatok gyűjteményéről híres.",
@@ -2499,7 +2497,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     parent: "IL-Z",
     coords: [35.6120, 33.1060],
     name: { de: "Agamon Hula", hu: "Agamon Hula", ro: "Agamon Hula", en: "Agamon Hula"},
-    image: "/poi-images/israel-agamon-hula-life-v2.webp",
     description: {
       de: "Ein bedeutendes Feuchtgebiet und Vogelbeobachtungszentrum, das jährlich von Tausenden Zugvögeln besucht wird.",
       hu: "Jelentős vizes élőhely és madármegfigyelő központ, amelyet évente vándormadarak ezrei látogatnak.",
@@ -2948,7 +2945,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     parent: "IL-D",
     coords: [35.0118, 29.8996],
     name: { de: "Naturreservat Chai-Bar Jotvata", hu: "Chaj-Bar Jotvata Természetvédelmi Terület", ro: "Rezervația Naturală Hai-Bar Yotvata", en: "Hai-Bar Yotvata Nature Reserve"},
-    image: "/poi-images/israel-haibar-yotvata-life-v2.webp",
     description: {
       de: "Ein Reservat in der Arava-Senke, das der Zucht und Auswilderung bedrohter biblischer Wüstentiere gewidmet ist.",
       hu: "Az Arava-völgyben található rezervátum, amely a veszélyeztetett bibliai sivatagi állatok tenyésztésével és szabadon engedésével foglalkozik.",
@@ -3829,7 +3825,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     parent: "IL-TA",
     coords: [34.8116, 32.1000],
     name: { de: "Jarkon-Park", hu: "Jarkon Park", ro: "Parcul Yarkon", en: "Yarkon Park"},
-    image: "/poi-images/israel-yarkon-park-life-v2.webp",
     description: {
       de: "Der größte Stadtpark in Tel Aviv mit ausgedehnten Rasenflächen, botanischen Gärten und Sportanlagen.",
       hu: "Tel-Aviv legnagyobb városi parkja kiterjedt pázsitokkal, botanikus kertekkel és sportlétesítményekkel.",
@@ -4206,7 +4201,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     parent: "IL-HA",
     coords: [35.0131, 32.7533],
     name: { de: "Naturreservat Chai-Bar Karmel", hu: "Kármel Chaj-Bar Természetvédelmi Terület", ro: "Rezervația Naturală Hai-Bar Carmel", en: "Carmel Hai-Bar Nature Reserve"},
-    image: "/poi-images/israel-carmel-haibar-life-v2.webp",
     description: {
       de: "Ein Schutzgebiet auf dem Berg Karmel, das sich auf die Erhaltung der mediterranen Tierwelt spezialisiert hat.",
       hu: "A Kármel-hegyen található védett terület, amely a mediterrán élővilág megőrzésére szakosodott.",
@@ -4619,7 +4613,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     parent: "IL-D",
     coords: [35.0833, 29.9833],
     name: { de: "Kibbuz Lotan", hu: "Lotan Kibuc", ro: "Kibuțul Lotan", en: "Kibbutz Lotan"},
-    image: "/poi-images/israel-kibbutz-lotan-life-v2.webp",
     description: {
       de: "Ein Kibbuz in der Wüste Arava, der für seine ökologischen Initiativen und biologische Landwirtschaft bekannt ist.",
       hu: "Az Arava-sivatagban található kibuc, amely ökológiai kezdeményezéseiről és biogazdálkodásáról ismert.",
@@ -5536,7 +5529,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     parent: "IL-M",
     coords: [34.9680, 31.9480],
     name: { de: "Neot Kedumim", hu: "Neot Kedumim", ro: "Neot Kedumim", en: "Neot Kedumim"},
-    image: "/poi-images/israel-neot-kedumim-life-v2.webp",
     description: {
       de: "Ein biblisches Landschaftsreservat, das die antike Flora und Landwirtschaft Israels nachbildet.",
       hu: "Bibliai tájrezervátum, amely Izrael ősi növényvilágát és mezőgazdaságát mutatja be.",
@@ -6597,7 +6589,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     parent: "IL-Z",
     coords: [35.4526, 32.5056],
     name: { de: "Nationalpark Gan HaSchloscha", hu: "Gan HaSlosa Nemzeti Park", ro: "Parcul Național Gan HaShlosha", en: "Gan HaShlosha National Park"},
-    image: "/poi-images/israel-gan-hashlosha-life-v2.webp",
     description: {
       de: "Ein malerischer Park mit natürlichen warmen Quellen und Wasserfällen, ideal zum Schwimmen.",
       hu: "Festői park természetes hőforrásokkal és vízesésekkel, amely ideális az úszáshoz.",
@@ -7226,7 +7217,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     parent: "IL-D",
     coords: [34.9650, 29.5700],
     name: { de: "Botanischer Garten Eilat", hu: "Eilati Botanikus Kert", ro: "Grădina Botanică din Eilat", en: "Eilat Botanical Garden"},
-    image: "/poi-images/israel-eilat-botanical-life-v2.webp",
     description: {
       de: "Ein einzigartiger ökologischer Garten in der Wüste, der mit historischen Steinpfaden und Wasserläufen gestaltet ist.",
       hu: "Egyedülálló ökológiai kert a sivatagban, amelyet történelmi kőösvények és vízfolyások díszítenek.",
@@ -8395,7 +8385,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     parent: "IL-HA",
     coords: [34.9450, 32.5510],
     name: { de: "Ramat Hanadiv", hu: "Ramat Hanadiv", ro: "Ramat Hanadiv", en: "Ramat Hanadiv"},
-    image: "/poi-images/israel-ramat-hanadiv-life-v2.webp",
     description: {
       de: "Ein Naturpark und die Gedenkstätte des Barons Edmond de Rothschild mit gepflegten botanischen Gärten.",
       hu: "Edmond de Rothschild báró emlékhelye és természetvédelmi parkja, gyönyörű botanikus kertekkel.",
@@ -8844,7 +8833,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     parent: "IL-TA",
     coords: [34.8110, 32.1030],
     name: { de: "Meymadion", hu: "Meymadion", ro: "Meymadion", en: "Meymadion"},
-    image: "/poi-images/israel-meymadion-life-v2.webp",
     description: {
       de: "Der größte Wasserpark in Israel im Herzen des Jarkon-Parks mit Wellenbädern und Rutschen.",
       hu: "Izrael legnagyobb víziparkja a Jarkon Park szívében, hullámmedencékkel és csúszdákkal.",
@@ -9653,7 +9641,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     parent: "IL-M",
     coords: [35.0130, 32.3480],
     name: { de: "Utopia-Park", hu: "Utópia Park", ro: "Parcul Utopia", en: "Utopia Park"},
-    image: "/poi-images/israel-utopia-park-life-v2.webp",
     description: {
       de: "Ein tropischer botanischer Garten und Orchideenpark mit Wasserfällen, Vögeln und Pflanzenlabyrinthen.",
       hu: "Trópusi botanikus kert és orchideapark vízesésekkel, madarakkal és növényi labirintusokkal.",
@@ -10750,7 +10737,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     parent: "IL-M",
     coords: [34.9754, 31.8427],
     name: { de: "Mini Israel", hu: "Mini Izrael", ro: "Mini Israel", en: "Mini Israel"},
-    image: "/poi-images/israel-mini-israel-life-v2.webp",
     description: {
       de: "Ein Miniaturpark, der Hunderte von detailgetreuen Modellen der wichtigsten Wahrzeichen Israels präsentiert.",
       hu: "Makettpark, amely az izraeli nevezetességek több száz részletgazdag modelljét mutatja be.",
@@ -10911,7 +10897,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     parent: "IL-D",
     coords: [35.3850, 31.4580],
     name: { de: "Botanischer Garten En Gedi", hu: "Én-Gedi Botanikus Kert", ro: "Grădina Botanică Ein Gedi", en: "Ein Gedi Botanical Garden"},
-    image: "/poi-images/israel-eingedi-botanical-life-v2.webp",
     description: {
       de: "Ein Kibbuzgarten in der Wüste mit einer unglaublichen Vielfalt an Wüsten- und Tropenpflanzen aus aller Welt.",
       hu: "Egy sivatagi kibuc kertje, ahol a világ minden tájáról származó sivatagi és trópusi növények hihetetlen választéka található.",
@@ -11792,7 +11777,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     parent: "IL-TA",
     coords: [34.8080, 32.1060],
     name: { de: "Luna Park Tel Aviv", hu: "Luna Park Tel-Aviv", ro: "Luna Park Tel Aviv", en: "Luna Park Tel Aviv"},
-    image: "/poi-images/israel-luna-park-telaviv-life-v2.webp",
     description: {
       de: "Einer der bekanntesten Vergnügungsparks in Israel, der Fahrgeschäfte für Familien und Nervenkitzel-Sucher bietet.",
       hu: "Izrael egyik legismertebb vidámparkja, amely családok és izgalomra vágyók számára egyaránt kínál attrakciókat.",
@@ -12457,7 +12441,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     parent: "IL-Z",
     coords: [35.5180, 32.4410],
     name: { de: "Kibbuz Sde Elijahu", hu: "Szde Élijáhu Kibuc", ro: "Kibuțul Sde Eliyahu", en: "Kibbutz Sde Eliyahu"},
-    image: "/poi-images/israel-sde-eliyahu-life-v2.webp",
     description: {
       de: "Ein Pionier der biologischen Landwirtschaft in Israel, berühmt für seine Bio-Tour und natürliche Schädlingsbekämpfung.",
       hu: "Az izraeli biogazdálkodás úttörője, amely bio-túrájáról és természetes kártevőirtásáról híres.",
@@ -13122,7 +13105,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     parent: "IL-TA",
     coords: [34.8230, 32.0280],
     name: { de: "Ariel-Scharon-Park", hu: "Ariel Saron Park", ro: "Parcul Ariel Sharon", en: "Ariel Sharon Park"},
-    image: "/poi-images/israel-ariel-sharon-park-life-v2.webp",
     description: {
       de: "Ein ökologischer Park, der auf einer ehemaligen riesigen Mülldeponie errichtet wurde und heute ein grünes Erholungsgebiet ist.",
       hu: "Ökológiai park, amely egy korábbi hatalmas szeméttelep helyén épült, és ma zöld rekreációs terület.",
@@ -13535,7 +13517,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     parent: "IL-D",
     coords: [34.7820, 30.6030],
     name: { de: "Alpaka-Farm Mitzpe Ramon", hu: "Alpaka Farm Mitzpe Ramon", ro: "Ferma de Alpaca Mitzpe Ramon", en: "Alpaca Farm Mitzpe Ramon"},
-    image: "/poi-images/israel-alpaca-farm-life-v2.webp",
     description: {
       de: "Eine Farm in der Wüste, auf der Alpakas und Lamas gezüchtet werden und Besucher die Tiere füttern können.",
       hu: "Sivatagi farm, ahol alpakákat és lámákat tenyésztenek, és a látogatók etethetik az állatokat.",

@@ -53,7 +53,6 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     parent: "BD-B",
     coords: [92.518, 21.905],
     name: { de: "Tazing Dong", hu: "Tazing Dong", ro: "Tazing Dong", en: "Tazing Dong"},
-    image: "/poi-images/tazing-dong-relief-v2.webp",
     description: { de: "Ein steiler Berg im Distrikt Bandarban, der in den lokalen Sprachen als 'Berg der großen Erhebung' bekannt ist.", hu: "Meredek hegy a Bandarban körzetben, amelyet a helyi nyelveken a 'nagy kiemelkedés hegyeként' ismernek.", ro: "Un munte abrupt în districtul Bandarban, cunoscut în limbile locale ca 'Muntele marii înălțări'.", en: "A steep mountain in the Bandarban district, known in local languages as the 'Mountain of great elevation'." , es: "Una montaña escarpada en el distrito de Bandarban, conocida en las lenguas locales como la \"montaña de la gran elevación\".", pt: "Uma montanha íngreme no distrito de Bandarban, conhecida nas línguas locais como a \"montanha da grande elevação\".", fr: "Une montagne escarpée dans le district de Bandarban, connue dans les langues locales comme la \"montagne de la grande élévation\"."},
     facts: {
       de: ["Gilt als einer der anspruchsvollsten Aufstiege.", "Sehr steile Hänge und dichtes Dschungeldach.", "Name stammt aus der Tripura-Sprache.", "Ein Hotspot für extreme Abenteurer."],
@@ -134,7 +133,6 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     parent: "BD-B",
     coords: [92.235, 21.961],
     name: { de: "Chimbuk Hill", hu: "Chimbuk-hegy", ro: "Dealul Chimbuk", en: "Chimbuk Hill"},
-    image: "/poi-images/chimbuk-hill-relief-v2.webp",
     description: { de: "Der drittgrößte Berg in Bangladesch, oft als das 'Darjeeling von Bengalen' bezeichnet.", hu: "Banglades harmadik legmagasabb hegye, amelyet gyakran 'Bengália Darjeelingjének' is neveznek.", ro: "Al treilea munte ca mărime din Bangladesh, adesea numit 'Darjeelingul Bengalului'.", en: "The third largest mountain in Bangladesh, often referred to as the 'Darjeeling of Bengal'." , es: "La tercera montaña más alta de Bangladés, a menudo llamada el 'Darjeeling de Bengala'.", pt: "A terceira montanha mais alta do Bangladesh, frequentemente chamada de o 'Darjeeling de Bengala'.", fr: "La troisième plus haute montagne du Bangladesh, souvent appelée le 'Darjeeling du Bengale'."},
     facts: {
       de: ["Bietet eine spektakuläre Aussicht auf Wolken.", "Leicht mit Fahrzeugen von Bandarban erreichbar.", "Heimat von indigenen Mro-Stämmen.", "Gipfel ist oft in dichten Nebel gehüllt."],
@@ -215,7 +213,6 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     parent: "BD-B",
     coords: [92.368, 21.849],
     name: { de: "Nilgiri Hills", hu: "Nilgiri-hegység", ro: "Dealurile Nilgiri", en: "Nilgiri Hills"},
-    image: "/poi-images/nilgiri-hills-relief-v2.webp",
     description: { de: "Ein malerisches Berggebiet in Bandarban, das wegen seiner schwebenden Wolken und kühlen Temperaturen berühmt ist.", hu: "Festői hegyvidék Bandarbanban, amely lebegő felhőiről és hűvös hőmérsékletéről híres.", ro: "O zonă montană pitorească în Bandarban, faimoasă pentru norii săi plutitori și temperaturile răcoroase.", en: "A picturesque mountain area in Bandarban, famous for its floating clouds and cool temperatures." , es: "Una pintoresca zona montañosa en Bandarban, famosa por sus nubes flotantes y temperaturas frescas.", pt: "Uma pitoresca área montanhosa em Bandarban, famosa pelas suas nuvens flutuantes e temperaturas frescas.", fr: "Une zone montagneuse pittoresque à Bandarban, célèbre pour ses nuages flottants et ses températures fraîches."},
     facts: {
       de: ["Höchstgelegenes Touristenresort im Land.", "Wird vom bangladeschischen Militär verwaltet.", "Die Temperaturen fallen im Winter stark.", "Bietet Panoramablicke auf grüne Täler."],
@@ -1628,7 +1625,6 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     parent: "BD-B",
     coords: [91.682, 22.632],
     name: { de: "Chandranath Hill", hu: "Chandranath-hegy", ro: "Dealul Chandranath", en: "Chandranath Hill"},
-    image: "/poi-images/chandranath-hill-relief-v2.webp",
     description: { de: "Ein markanter Hügel in Sitakunda, der sowohl als Naturwunder als auch als wichtiger hinduistischer Pilgerort dient.", hu: "Kiemelkedő domb Sitakundában, amely természeti csodaként és fontos hindu zarándokhelyként is szolgál.", ro: "Un deal proeminent în Sitakunda, care servește atât ca o minune naturală, cât și ca un important loc de pelerinaj hindus.", en: "A prominent hill in Sitakunda that serves as both a natural wonder and a major Hindu pilgrimage site." , es: "Una colina prominente en Sitakunda que sirve tanto como maravilla natural como importante lugar de peregrinación hindú.", pt: "Uma colina proeminente em Sitakunda que serve tanto como uma maravilha natural como um importante local de peregrinação hindu.", fr: "Une colline marquante à Sitakunda qui sert à la fois de merveille naturelle et de haut lieu de pèlerinage hindou."},
     facts: {
       de: ["Höhe beträgt etwa 350 Meter.", "Es gibt mehrere Wasserfälle in der Nähe.", "Ein antiker Hindu-Tempel krönt den Gipfel.", "Jährliches Shiva-Chaturdashi-Fest findet hier statt."],
@@ -1745,7 +1741,6 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     parent: "BD-B",
     coords: [92.301, 23.388],
     name: { de: "Sajek Valley", hu: "Sajek-völgy", ro: "Valea Sajek", en: "Sajek Valley"},
-    image: "/poi-images/sajek-valley-relief-v2.webp",
     description: { de: "Das größte Verwaltungsgebiet von Bangladesch, ein tiefes Tal, das für seine unberührte Natur und Nebelmeere bekannt ist.", hu: "Banglades legnagyobb közigazgatási területe, egy mély völgy, amely érintetlen természetéről és ködtengereiről ismert.", ro: "Cea mai mare zonă administrativă din Bangladesh, o vale adâncă cunoscută pentru natura sa virgină și mările de ceață.", en: "The largest administrative area in Bangladesh, a deep valley known for its untouched nature and seas of fog." , es: "El área administrativa más grande de Bangladesh, un valle profundo conocido por su naturaleza virgen y sus mares de niebla.", pt: "A maior área administrativa de Bangladesh, um vale profundo conhecido pela sua natureza intocada e mares de névoa.", fr: "La plus grande zone administrative du Bangladesh, une vallée profonde connue pour sa nature vierge et ses mers de brume."},
     facts: {
       de: ["Wird als 'Dach von Rangamati' bezeichnet.", "Liegt auf einer Höhe von fast 550 Metern.", "Bewohnt von indigenen Völkern wie den Lushei.", "Wunderschöne Sonnenaufgänge über den Wolken."],
@@ -2582,7 +2577,6 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     parent: "BD-B",
     coords: [91.758, 22.846],
     name: { de: "Halda Valley", hu: "Halda-völgy", ro: "Valea Halda", en: "Halda Valley"},
-    image: "/poi-images/halda-valley-relief-v2.webp",
     description: { de: "Ein fruchtbares Tal in der Region Chittagong, das vom Halda-Fluss durchzogen wird, der für seine natürliche Karpfenzucht bekannt ist.", hu: "Termékeny völgy a Csittagong régióban, amelyet a természetes pontytenyésztésről ismert Halda folyó szel át.", ro: "O vale fertilă din regiunea Chittagong, traversată de râul Halda, faimos pentru reproducerea naturală a crapului.", en: "A fertile valley in the Chittagong region, crossed by the Halda River, famous for its natural carp breeding." , es: "Un valle fértil en la región de Chittagong atravesado por el río Halda, famoso por su cría natural de carpas.", pt: "Um vale fértil na região de Chittagong atravessado pelo rio Halda, famoso pela sua criação natural de carpas.", fr: "Une vallée fertile dans la région de Chittagong traversée par la rivière Halda, réputée pour son élevage naturel de carpes."},
     facts: {
       de: ["Wichtigstes natürliches Fischzuchtgebiet.", "Das Tal ist stark von Landwirtschaft geprägt.", "Der Fluss speist sich aus den Hügeln von Khagrachari.", "Eine lebenswichtige Wasserquelle der Region."],
@@ -2699,7 +2693,6 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     parent: "BD-B",
     coords: [92.428, 21.986],
     name: { de: "Sangu Valley", hu: "Sangu-völgy", ro: "Valea Sangu", en: "Sangu Valley"},
-    image: "/poi-images/sangu-valley-relief-v2.webp",
     description: { de: "Ein tiefes und abgelegenes Tal in Bandarban, geprägt von schroffen Klippen und dem wilden Sangu-Fluss.", hu: "Egy mély és távoli völgy Bandarbanban, amelyet meredek sziklák és a vad Sangu folyó jellemez.", ro: "O vale adâncă și izolată în Bandarban, caracterizată de stânci abrupte și râul sălbatic Sangu.", en: "A deep and remote valley in Bandarban, characterized by rugged cliffs and the wild Sangu River." , es: "Un valle profundo y remoto en Bandarban, caracterizado por acantilados escarpados y el salvaje río Sangu.", pt: "Um vale profundo e remoto em Bandarban, caracterizado por penhascos íngremes e pelo selvagem rio Sangu.", fr: "Une vallée profonde et isolée à Bandarban, caractérisée par des falaises escarpées et la rivière sauvage Sangu."},
     facts: {
       de: ["Der Sangu-Fluss fließt in nördlicher Richtung.", "Das Tal ist ein Zentrum der Marma-Kultur.", "Steile Kalksteinwände säumen den Fluss.", "Beliebt für Bootstouren und Abenteuer."],
@@ -4076,7 +4069,6 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     parent: "BD-C",
     coords: [90.046, 24.629],
     name: { de: "Madhupur Tract", hu: "Madhupur-fennsík", ro: "Podișul Madhupur", en: "Madhupur Tract"},
-    image: "/poi-images/madhupur-tract-relief-v2.webp",
     description: { de: "Ein erhöhtes Plateau im zentralen Bangladesch, bekannt für seine rötlichen Böden und Salbaumwälder.", hu: "Egy kiemelkedő fennsík Közép-Bangladesben, amely vöröses talajáról és Sal-faerdőiről ismert.", ro: "Un platou ridicat în centrul Bangladeshului, cunoscut pentru solurile sale roșiatice și pădurile de arbori Sal.", en: "An elevated plateau in central Bangladesh, known for its reddish soils and Sal tree forests." , es: "Una meseta elevada en el centro de Bangladesh, conocida por sus suelos rojizos y sus bosques de árboles Sal.", pt: "Um planalto elevado no centro do Bangladesh, conhecido pelos seus solos avermelhados e florestas de árvores Sal.", fr: "Un plateau surélevé dans le centre du Bangladesh, connu pour ses sols rougeâtres et ses forêts de Shorea robusta (Sal)."},
     facts: {
       de: ["Besteht aus pliozänen Ablagerungen.", "Boden ist sehr reich an Eisen und Aluminium.", "Beherbergt den Madhupur-Nationalpark.", "Eine wichtige landwirtschaftliche Zone für Ananas."],
@@ -4112,7 +4104,6 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     parent: "BD-E",
     coords: [88.583, 24.815],
     name: { de: "Barind Tract", hu: "Barind-fennsík", ro: "Podișul Barind", en: "Barind Tract"},
-    image: "/poi-images/barind-tract-relief-v2.webp",
     description: { de: "Das größte pleistozäne Terrassengebiet im Nordwesten Bangladeschs, charakterisiert durch trockenere Bedingungen und rote Erde.", hu: "A legnagyobb pleisztocén kori teraszterület Északnyugat-Bangladesben, amelyet szárazabb körülmények és vörös föld jellemez.", ro: "Cea mai mare zonă de terasă pleistocenă din nord-vestul Bangladeshului, caracterizată prin condiții mai uscate și pământ roșu.", en: "The largest Pleistocene terrace area in northwestern Bangladesh, characterized by drier conditions and red earth." , es: "La mayor zona de terrazas del Pleistoceno en el noroeste de Bangladés, caracterizada por condiciones más secas y tierra roja.", pt: "A maior área de terraços do Pleistoceno no noroeste do Bangladesh, caracterizada por condições mais secas e terra vermelha.", fr: "La plus grande zone de terrasses pléistocènes du nord-ouest du Bangladesh, caractérisée par des conditions plus sèches et une terre rouge."},
     facts: {
       de: ["Eine der trockensten Regionen des Landes.", "Traditionell ein Zentrum des Reisanbaus.", "Die rote Erde speichert das Monsunwasser schlecht.", "Es gibt Bemühungen zur Aufforstung."],
@@ -4148,7 +4139,6 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     parent: "BD-B",
     coords: [91.977, 21.427],
     name: { de: "Strand von Cox's Bazar", hu: "Cox's Bazar partvidék", ro: "Plaja din Cox's Bazar", en: "Cox's Bazar Beach"},
-    image: "/poi-images/coxs-bazar-beach-relief-v2.webp",
     description: { de: "Der längste ununterbrochene natürliche Sandstrand der Welt, der sich entlang des Golfs von Bengalen erstreckt.", hu: "A világ leghosszabb, megszakítás nélküli természetes homokos tengerpartja, amely a Bengáli-öböl mentén húzódik.", ro: "Cea mai lungă plajă naturală de nisip neîntreruptă din lume, întinzându-se de-a lungul Golfului Bengal.", en: "The longest uninterrupted natural sandy beach in the world, stretching along the Bay of Bengal." , es: "La playa de arena natural ininterrumpida más larga del mundo, que se extiende a lo largo del golfo de Bengala.", pt: "A praia de areia natural ininterrupta mais longa do mundo, estendendo-se ao longo da Baía de Bengala.", fr: "La plus longue plage de sable naturel ininterrompue au monde, s'étendant le long du golfe du Bengale."},
     facts: {
       de: ["Über 120 Kilometer langer Sandstrand.", "Die Küste wird von sanften Hügeln begleitet.", "Ein zentrales Ziel des nationalen Tourismus.", "Leidet unter starker Küstenerosion."],
@@ -4337,7 +4327,6 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     parent: "BD-A",
     coords: [90.117, 21.815],
     name: { de: "Kuakata-Küste", hu: "Kuakata tengerpart", ro: "Coasta Kuakata", en: "Kuakata Coast"},
-    image: "/poi-images/kuakata-beach-relief-v2.webp",
     description: { de: "Ein seltener malerischer Strand im Süden, von dem aus man sowohl den Sonnenaufgang als auch den Sonnenuntergang über dem Meer beobachten kann.", hu: "Egy ritka festői tengerpart délen, ahonnan a tenger feletti napfelkelte és naplemente egyaránt megfigyelhető.", ro: "O plajă pitorească rară în sud, de unde puteți privi atât răsăritul, cât și apusul soarelui peste mare.", en: "A rare scenic beach in the south from which one can watch both the sunrise and sunset over the sea." , es: "Una rara y pintoresca playa en el sur, desde la cual se pueden observar tanto el amanecer como el atardecer sobre el mar.", pt: "Uma rara e pitoresca praia no sul, de onde se pode observar tanto o nascer como o pôr do sol sobre o mar.", fr: "Une rare plage pittoresque du sud, d'où l'on peut observer à la fois le lever et le coucher du soleil sur la mer."},
     facts: {
       de: ["Wird als 'Tochter des Meeres' bezeichnet.", "Breiter, sanft abfallender Sandstrand.", "Beherbergt winterliche Zugvögel.", "Geprägt von Kokospalmenwäldern an der Küste."],
@@ -5534,7 +5523,6 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     parent: "BD-B",
     coords: [91.789, 22.235],
     name: { de: "Patenga-Küste", hu: "Patenga tengerpart", ro: "Coasta Patenga", en: "Patenga Coast"},
-    image: "/poi-images/patenga-beach-relief-v2.webp",
     description: { de: "Eine von massiven Steinblöcken gesäumte Küste nahe Chittagong, wo der Karnaphuli-Fluss ins Meer mündet.", hu: "Hatalmas kőtömbökkel szegélyezett partvidék Csittagong közelében, ahol a Karnaphuli folyó a tengerbe ömlik.", ro: "O coastă mărginită de blocuri masive de piatră lângă Chittagong, unde râul Karnaphuli se varsă în mare.", en: "A coastline lined with massive stone blocks near Chittagong, where the Karnaphuli River flows into the sea." , es: "Una costa bordeada por enormes bloques de piedra cerca de Chittagong, donde el río Karnaphuli desemboca en el mar.", pt: "Uma costa ladeada por enormes blocos de pedra perto de Chittagong, onde o rio Karnaphuli desagua no mar.", fr: "Une côte bordée de massifs blocs de pierre près de Chittagong, où la rivière Karnaphuli se jette dans la mer."},
     facts: {
       de: ["Befestigt, um vor Zyklonen zu schützen.", "Beliebter abendlicher Treffpunkt.", "Die Mündung des Flusses ist hier sichtbar.", "Liegt in der Nähe des größten Hafens des Landes."],
@@ -5651,7 +5639,6 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     parent: "BD-B",
     coords: [92.034, 21.206],
     name: { de: "Inani-Korallenküste", hu: "Inani korallpart", ro: "Coasta de corali Inani", en: "Inani Coral Coast"},
-    image: "/poi-images/inani-beach-relief-v2.webp",
     description: { de: "Ein besonderer Strandabschnitt, der für seine ausgedehnten, runden Korallensteine und sauberes Wasser bekannt ist.", hu: "Különleges partszakasz, amely kiterjedt, kerek korallköveiről és tiszta vizéről ismert.", ro: "O secțiune specială de plajă cunoscută pentru rocile sale extinse de corali rotunzi și apa curată.", en: "A special section of beach known for its extensive, round coral rocks and clean water." , es: "Un tramo de playa especial conocido por sus extensas rocas de coral redondas y sus aguas limpias.", pt: "Um trecho de praia especial conhecido pelas suas extensas rochas de coral redondas e águas limpas.", fr: "Un tronçon de plage particulier, connu pour ses vastes rochers de corail ronds et ses eaux propres."},
     facts: {
       de: ["Die Korallen werden bei Ebbe sichtbar.", "Ruhiger als der Hauptstrand von Cox's Bazar.", "Das Wasser ist hier bemerkenswert klar.", "Hinter dem Strand erheben sich grüne Hügel."],
@@ -5948,7 +5935,6 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     parent: "BD-B",
     coords: [92.324, 20.613],
     name: { de: "Küste von St. Martin", hu: "St. Martin partvidék", ro: "Coasta St. Martin", en: "St. Martin's Coast"},
-    image: "/poi-images/st-martins-coast-relief-v2.webp",
     description: { de: "Die Küstenlinie der einzigen Koralleninsel von Bangladesch, umgeben von kristallklarem Wasser und Riffen.", hu: "Banglades egyetlen korallszigetének partvonala, amelyet kristálytiszta víz és zátonyok vesznek körül.", ro: "Litoralul singurei insule de corali din Bangladesh, înconjurat de ape cristaline și recife.", en: "The coastline of the only coral island in Bangladesh, surrounded by crystal clear waters and reefs." , es: "La línea costera de la única isla de coral de Bangladesh, rodeada de aguas cristalinas y arrecifes.", pt: "A linha costeira da única ilha de coral de Bangladesh, rodeada por águas cristalinas e recifes.", fr: "Le littoral de la seule île corallienne du Bangladesh, entouré d'eaux cristallines et de récifs."},
     facts: {
       de: ["Der Strand besteht aus feinem Korallensand.", "Massive Korallenblöcke säumen das Ufer.", "Wichtiger Nistplatz für Meeresschildkröten.", "Das Ökosystem ist stark gefährdet."],
@@ -6101,7 +6087,6 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     parent: "BD-B",
     coords: [91.811, 22.181],
     name: { de: "Parki-Sandstrand", hu: "Parki homokos part", ro: "Plaja Parki", en: "Parki Sandy Beach"},
-    image: "/poi-images/parki-beach-relief-v2.webp",
     description: { de: "Eine friedliche Küstenlandschaft in Anwara, wo der Strand in einen dichten Tannenwald übergeht.", hu: "Békés tengerparti táj Anwarában, ahol a homokos part egy sűrű fenyőerdőbe olvad.", ro: "Un peisaj de coastă liniștit în Anwara, unde plaja se îmbină cu o pădure deasă de brazi.", en: "A peaceful coastal landscape in Anwara, where the sandy beach merges into a dense fir forest." , es: "Un paisaje costero tranquilo en Anwara, donde la playa se funde con un denso bosque de pinos.", pt: "Uma paisagem costeira tranquila em Anwara, onde a praia se funde com uma densa floresta de pinheiros.", fr: "Un paysage côtier paisible à Anwara, où la plage se transforme en une forêt de sapins dense."},
     facts: {
       de: ["Liegt an der Flussmündung des Karnaphuli.", "Ein ausgedehnter Wald spendet kühlen Schatten.", "Es gibt breite Schlammflächen bei Ebbe.", "Wird zunehmend als Naherholungsgebiet genutzt."],
@@ -7406,7 +7391,6 @@ export const poiExtraBangladeshReliefV2: POI[] = [
     parent: "BD-B",
     coords: [91.134, 23.421],
     name: { de: "Lalmai-Hügel", hu: "Lalmai-dombság", ro: "Dealurile Lalmai", en: "Lalmai Hills"},
-    image: "/poi-images/lalmai-hills-relief-v2.webp",
     description: { de: "Eine isolierte Hügelkette in Comilla, die sich abrupt aus der ansonsten flachen Überschwemmungsebene erhebt.", hu: "Elszigetelt dombvonulat Comillában, amely hirtelen emelkedik ki az egyébként lapos ártérből.", ro: "Un lanț izolat de dealuri în Comilla, care se ridică brusc din câmpia inundabilă altfel plată.", en: "An isolated hill range in Comilla that rises abruptly from the otherwise flat floodplain." , es: "Una cordillera aislada en Comilla que se eleva abruptamente de la llanura aluvial, por lo demás llana.", pt: "Uma cordilheira isolada em Comilla que se eleva abruptamente da planície de inundação, de resto plana.", fr: "Une chaîne de collines isolée à Comilla, s'élevant brusquement de la plaine d'inondation par ailleurs plate."},
     facts: {
       de: ["Besteht aus rotem Ton und Sandstein.", "Erreicht eine Höhe von rund 50 Metern.", "Reich an archäologischen buddhistischen Stätten.", "Die Hügel erstrecken sich über 8 Kilometer."],

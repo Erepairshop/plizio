@@ -12,7 +12,6 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
       hu: "Port Victoria konténerterminál",
       ro: "Terminalul de containere Port Victoria",
       en: "Port Victoria Container Terminal"},
-    image: "/poi-images/port-victoria-container-terminal-economic-v2.webp",
     description: {
       de: "Das wichtigste Tor für den internationalen Handel der Seychellen, wo der Großteil der Importgüter des Landes umgeschlagen wird.",
       hu: "A Seychelles-szigetek nemzetközi kereskedelmének legfontosabb kapuja, ahol az ország importáruinak nagy részét kezelik.",
@@ -76,7 +75,6 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
       hu: "Bel Ombre halászkikötő",
       ro: "Portul de pescuit Bel Ombre",
       en: "Bel Ombre Fishing Port"},
-    image: "/poi-images/bel-ombre-fishing-port-economic-v2.webp",
     description: {
       de: "Ein moderner Fischereihafen an der Nordwestküste von Mahé, der die lokale Fischereiindustrie unterstützt.",
       hu: "Modern halászkikötő Mahé északnyugati partján, amely a helyi halászati ipart támogatja.",
@@ -140,7 +138,6 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
       hu: "Indian Ocean Tuna konzervgyár",
       ro: "Fabrica de conserve Indian Ocean Tuna",
       en: "Indian Ocean Tuna Cannery"},
-    image: "/poi-images/indian-ocean-tuna-cannery-economic-v2.webp",
     description: {
       de: "Einer der größten Arbeitgeber des Landes und eine der bedeutendsten Thunfisch-Konservenfabriken weltweit.",
       hu: "Az ország egyik legnagyobb munkaadója és a világ egyik legjelentősebb tonhalkonzerv-gyára.",
@@ -204,7 +201,6 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
       hu: "Seychelles Sörgyár",
       ro: "Berăriile Seychelles",
       en: "Seychelles Breweries"},
-    image: "/poi-images/seychelles-breweries-le-rocher-economic-v2.webp",
     description: {
       de: "Die einzige Brauerei des Landes, die das berühmte SeyBrew-Bier und verschiedene Erfrischungsgetränke herstellt.",
       hu: "Az ország egyetlen sörfőzdéje, amely a híres SeyBrew sört és különféle üdítőitalokat gyártja.",
@@ -268,7 +264,6 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
       hu: "SEYPEC üzemanyagraktár",
       ro: "Depozitul de combustibil SEYPEC",
       en: "SEYPEC Fuel Depot"},
-    image: "/poi-images/seypec-victoria-depot-economic-v2.webp",
     description: {
       de: "Das zentrale Depot für die Lagerung und Verteilung von Treibstoffen auf den Seychellen, betrieben von der staatlichen Ölgesellschaft.",
       hu: "A Seychelles-szigetek központi üzemanyag-tároló és -elosztó telepe, amelyet az állami olajtársaság üzemeltet.",
@@ -332,7 +327,6 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
       hu: "PUC Roche Caiman erőmű",
       ro: "Centrala electrică PUC Roche Caiman",
       en: "PUC Roche Caiman Power Station"},
-    image: "/poi-images/puc-electricity-plant-roche-caiman-economic-v2.webp",
     description: {
       de: "Das größte Wärmekraftwerk des Landes, das den Großteil des Stroms für die Hauptinsel Mahé erzeugt.",
       hu: "Az ország legnagyobb hőerőműve, amely Mahé fősziget áramellátásának nagy részét biztosítja.",
@@ -396,7 +390,6 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
       hu: "PUC Baie Sainte Anne erőmű",
       ro: "Centrala electrică PUC Baie Sainte Anne",
       en: "PUC Baie Sainte Anne Power Station"},
-    image: "/poi-images/puc-power-station-praslin-economic-v2.webp",
     description: {
       de: "Die Hauptenergiequelle für die Inseln Praslin und La Digue, die eine stabile Stromversorgung für Bewohner und Tourismus garantiert.",
       hu: "Praslin és La Digue szigetek fő energiaforrása, amely stabil áramellátást garantál a lakosok és a turizmus számára.",
@@ -524,7 +517,6 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
       hu: "Anse Boileau vízmű",
       ro: "Stația de tratare a apei Anse Boileau",
       en: "Anse Boileau Water Treatment Plant"},
-    image: "/poi-images/anse-boileau-water-plant-economic-v2.webp",
     description: {
       de: "Eine Einrichtung zur Wasseraufbereitung im Westen von Mahé, die für die Verteilung von sauberem Wasser im Süden der Insel zuständig ist.",
       hu: "Vízkezelő létesítmény Mahé nyugati részén, amely a sziget déli részének tiszta vízzel való ellátásáért felelős.",
@@ -588,7 +580,6 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
       hu: "Seychelles repülőtér teherterminál",
       ro: "Terminalul de marfă al Aeroportului Seychelles",
       en: "Seychelles Airport Cargo Terminal"},
-    image: "/poi-images/seychelles-airport-cargo-terminal-economic-v2.webp",
     description: {
       de: "Das Zentrum für den Luftfrachtverkehr der Seychellen, über das verderbliche Waren und hochwertige Güter importiert werden.",
       hu: "A Seychelles-szigetek légi áruszállítási központja, amelyen keresztül romlandó árukat és nagy értékű javakat importálnak.",
@@ -652,7 +643,6 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
       hu: "STC Providence raktár",
       ro: "Depozitul STC Providence",
       en: "STC Providence Warehouse"},
-    image: "/poi-images/stc-providence-warehouse-economic-v2.webp",
     description: {
       de: "Das zentrale Lager der Seychelles Trading Company, das die Grundversorgung der Bevölkerung mit lebensnotwendigen Gütern sichert.",
       hu: "A Seychelles Trading Company központi raktára, amely biztosítja a lakosság alapvető árucikkekkel való ellátását.",
@@ -716,7 +706,6 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
       hu: "SEAS tengeri kábelállomás",
       ro: "Stația de aterizare a cablului SEAS",
       en: "SEAS Cable Landing Station"},
-    image: "/poi-images/seas-cable-landing-station-economic-v2.webp",
     description: {
       de: "Die Anlandestation des Seychelles East Africa System (SEAS), die das Land mit dem weltweiten Hochgeschwindigkeitsinternet verbindet.",
       hu: "A Seychelles East Africa System (SEAS) fogadóállomása, amely összeköti az országot a globális nagysebességű internettel.",
@@ -780,7 +769,6 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
       hu: "UCPS Cascade kőbánya",
       ro: "Cariera de piatră UCPS Cascade",
       en: "UCPS Quarry Cascade"},
-    image: "/poi-images/ucps-quarry-cascade-economic-v2.webp",
     description: {
       de: "Ein großer Granitsteinbruch, der Baumaterialien für die Infrastrukturprojekte und den Hausbau auf den Seychellen liefert.",
       hu: "Nagy gránitbánya, amely építőanyagot szolgáltat a Seychelles-szigetek infrastrukturális projektjeihez és házépítéseihez.",
@@ -844,7 +832,6 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
       hu: "CCC Grand Anse kőbánya",
       ro: "Cariera CCC Grand Anse",
       en: "CCC Quarry Grand Anse"},
-    image: "/poi-images/ccc-quarry-grand-anse-economic-v2.webp",
     description: {
       de: "Ein bedeutender Steinbruch an der Westküste von Mahé, der eine wichtige Rolle in der Bauindustrie des Landes spielt.",
       hu: "Jelentős kőbánya Mahé nyugati partján, amely fontos szerepet játszik az ország építőiparában.",
@@ -908,7 +895,6 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
       hu: "Coëtivy garnélafarm",
       ro: "Ferma de creveți Coëtivy",
       en: "Coëtivy Prawn Farm"},
-    image: "/poi-images/coetivy-aquaculture-centre-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Aquakulturprojekt auf einer abgelegenen Insel, das auf die Zucht von Garnelen für den Export spezialisiert ist.",
       hu: "Jelentős akvakultúra-projekt egy távoli szigeten, amely garnélarákok exportra történő tenyésztésére specializálódott.",
@@ -972,7 +958,6 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
       hu: "Praslin repülőtér logisztika",
       ro: "Logistica Aeroportului Praslin",
       en: "Praslin Airport Logistics"},
-    image: "/poi-images/amitié-airport-logistics-economic-v2.webp",
     description: {
       de: "Der logistische Knotenpunkt am Flughafen von Praslin, der den täglichen Transport von Fracht und Passagieren zwischen den Inseln ermöglicht.",
       hu: "A praslini repülőtér logisztikai csomópontja, amely lehetővé teszi a szigetek közötti napi áru- és személyszállítást.",
@@ -1036,7 +1021,6 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
       hu: "Bel Ombre hűtőház",
       ro: "Depozitul frigorific Bel Ombre",
       en: "Bel Ombre Cold Storage"},
-    image: "/poi-images/bel-ombre-cold-store-economic-v2.webp",
     description: {
       de: "Eine spezialisierte Einrichtung zur Lagerung von Fischfängen, um die Qualität der Meeresfrüchte für den lokalen Markt zu erhalten.",
       hu: "Halzsákmányok tárolására szolgáló speciális létesítmény a tenger gyümölcseinek minőségének megőrzése érdekében.",
@@ -1100,7 +1084,6 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
       hu: "Providence halfeldolgozó zóna",
       ro: "Zona de procesare a peștelui Providence",
       en: "Providence Fish Processing Zone"},
-    image: "/poi-images/providence-fish-processing-zone-economic-v2.webp",
     description: {
       de: "Ein dediziertes Industriegebiet für Unternehmen, die Meeresfrüchte verarbeiten und Mehrwertprodukte für den Export schaffen.",
       hu: "Külön ipari terület a tenger gyümölcseit feldolgozó és exportra szánt termékeket előállító vállalkozások számára.",
@@ -1164,7 +1147,6 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
       hu: "Taylor Smith hajógyár",
       ro: "Șantierul naval Taylor Smith",
       en: "Taylor Smith Shipyard"},
-    image: "/poi-images/victoria-shipyard-complex-economic-v2.webp",
     description: {
       de: "Die wichtigste Schiffswerft der Seychellen, spezialisiert auf die Reparatur und Wartung von Fischerbooten und Jachten.",
       hu: "A Seychelles-szigetek legfontosabb hajógyára, amely halászhajók és jachtok javítására és karbantartására specializálódott.",

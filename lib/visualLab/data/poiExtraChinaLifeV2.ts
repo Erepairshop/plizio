@@ -1281,7 +1281,6 @@ export const poiExtraChinaLifeV2: POI[] = [
       hu: "Csengtui Óriáspanda-tenyésztő Kutatóbázis",
       ro: "Baza de Cercetare a Creșterii Panda Uriaș din Chengdu",
       en: "Chengdu Giant Panda Breeding Research Base"},
-    image: "/poi-images/chengdu-giant-panda-base-life-v2.webp",
     description: {
       de: "Eine weltberühmte Einrichtung zur Erhaltung und Zucht von Riesenpandas und anderen seltenen Tieren.",
       hu: "Világhírű létesítmény az óriáspandák és más ritka állatok megőrzésére és tenyésztésére.",
@@ -2706,7 +2705,6 @@ export const poiExtraChinaLifeV2: POI[] = [
       hu: "Jü-kert",
       ro: "Grădina Yu",
       en: "Yu Garden"},
-    image: "/poi-images/yu-garden-shanghai-life-v2.webp",
     description: {
       de: "Ein weitläufiger chinesischer Garten neben dem Stadtgott-Tempel in Shanghai, der während der Ming-Dynastie angelegt wurde.",
       hu: "Egy kiterjedt kínai kert Sanghajban, a Városisten temploma mellett, amelyet a Ming-dinasztia idején hoztak létre.",
@@ -3987,7 +3985,6 @@ export const poiExtraChinaLifeV2: POI[] = [
       hu: "Pekingi Állatkert",
       ro: "Grădina Zoologică din Beijing",
       en: "Beijing Zoo"},
-    image: "/poi-images/beijing-zoo-life-v2.webp",
     description: {
       de: "Ein großer Zoo und Aquarium im Zentrum von Peking mit einer vielfältigen Sammlung von Tieren, darunter viele einheimische Arten Chinas.",
       hu: "Nagy állatkert és akvárium Peking központjában, változatos állatgyűjteménnyel, köztük számos Kínában őshonos fajjal.",
@@ -4800,7 +4797,6 @@ export const poiExtraChinaLifeV2: POI[] = [
       hu: "Lungcsing teaültetvények",
       ro: "Plantațiile de ceai Longjing",
       en: "Longjing Tea Plantations"},
-    image: "/poi-images/longjing-tea-plantations-life-v2.webp",
     description: {
       de: "Die terrassierten Hügel rund um den Westsee in Hangzhou sind berühmt für den Anbau von Longjing-Tee, einer der berühmtesten Grünteesorten Chinas.",
       hu: "A hangcsoui Nyugati-tó körüli teraszos domboldalak híresek a Lungcsing tea termesztéséről, amely Kína egyik leghíresebb zöld teája.",
@@ -4893,7 +4889,6 @@ export const poiExtraChinaLifeV2: POI[] = [
       hu: "Zhalong Természetvédelmi Terület",
       ro: "Rezervația Naturală Zhalong",
       en: "Zhalong Nature Reserve"},
-    image: "/poi-images/zhalong-nature-reserve-life-v2.webp",
     description: {
       de: "Ein großes Feuchtgebiet in der Provinz Heilongjiang, das ein wichtiger Lebensraum für Zugvögel ist, insbesondere für Kraniche.",
       hu: "Nagy kiterjedésű vizes élőhely Heilungcsiang tartományban, amely fontos élőhely a vándormadarak, különösen a darvak számára.",
@@ -6246,7 +6241,6 @@ export const poiExtraChinaLifeV2: POI[] = [
       hu: "Pejhaj Park",
       ro: "Parcul Beihai",
       en: "Beihai Park"},
-    image: "/poi-images/beihai-park-beijing-life-v2.webp",
     description: {
       de: "Einer der ältesten und am besten erhaltenen kaiserlichen Gärten Chinas, nordwestlich der Verbotenen Stadt gelegen.",
       hu: "Kína egyik legrégebbi és legjobban megőrzött császári kertje, a Tiltott Várostól északnyugatra.",
@@ -7203,7 +7197,6 @@ export const poiExtraChinaLifeV2: POI[] = [
       hu: "Sanghaji Disneyland Park",
       ro: "Parcul Disneyland Shanghai",
       en: "Shanghai Disneyland Park"},
-    image: "/poi-images/shanghai-disneyland-park-life-v2.webp",
     description: {
       de: "Der erste Disney-Themenpark auf dem chinesischen Festland mit Attraktionen, die chinesische Kulturelemente integrieren.",
       hu: "Az első Disney-élménypark a kínai szárazföldön, olyan látványosságokkal, amelyek kínai kulturális elemeket is tartalmaznak.",
@@ -7821,7 +7814,6 @@ export const poiExtraChinaLifeV2: POI[] = [
       hu: "Volung Nemzeti Természetvédelmi Terület",
       ro: "Rezervația Naturală Națională Wolong",
       en: "Wolong National Nature Reserve"},
-    image: "/poi-images/wolong-national-nature-reserve-life-v2.webp",
     description: {
       de: "Ein geschütztes Gebiet in der Provinz Sichuan, eines der wichtigsten Zentren für den Schutz von Riesenpandas.",
       hu: "Védett terület Szecsuán tartományban, az óriáspandák védelmének egyik legfontosabb központja.",
@@ -9210,7 +9202,6 @@ export const poiExtraChinaLifeV2: POI[] = [
       hu: "Jingshan Park",
       ro: "Parcul Jingshan",
       en: "Jingshan Park"},
-    image: "/poi-images/jingshan-park-beijing-life-v2.webp",
     description: {
       de: "Ein kaiserlicher Park nördlich der Verbotenen Stadt mit einem künstlichen Hügel, der einen Panoramablick auf Peking bietet.",
       hu: "Egy császári park a Tiltott Várostól északra, egy mesterséges dombbal, ahonnan panorámás kilátás nyílik Pekingre.",
@@ -10455,7 +10446,6 @@ export const poiExtraChinaLifeV2: POI[] = [
       hu: "Chimelong Óceán Királyság",
       ro: "Regatul Oceanului Chimelong",
       en: "Chimelong Ocean Kingdom"},
-    image: "/poi-images/chimelong-ocean-kingdom-life-v2.webp",
     description: {
       de: "Ein riesiger Themenpark und Aquarium in Hengqin, Zhuhai, der mehrere Weltrekorde hält.",
       hu: "Hatalmas vidámpark és akvárium Hengqinben, Zhuhai-ban, amely számos világrekordot tart.",
@@ -10503,7 +10493,6 @@ export const poiExtraChinaLifeV2: POI[] = [
       hu: "Shouguangi zöldségfarmok",
       ro: "Fermele de legume din Shouguang",
       en: "Shouguang Vegetable Farms"},
-    image: "/poi-images/shouguang-vegetable-farms-life-v2.webp",
     description: {
       de: "Bekannt als Chinas 'Hauptstadt des Gemüses', ist Shouguang ein riesiges Zentrum für den Anbau, Handel und die Technologie von Gemüse.",
       hu: "Kína 'zöldségfővárosaként' ismert Shouguang a zöldségtermesztés, -kereskedelem és -technológia hatalmas központja.",
@@ -10596,7 +10585,6 @@ export const poiExtraChinaLifeV2: POI[] = [
       hu: "Foping Nemzeti Természetvédelmi Terület",
       ro: "Rezervația Naturală Națională Foping",
       en: "Foping National Nature Reserve"},
-    image: "/poi-images/foping-national-nature-reserve-life-v2.webp",
     description: {
       de: "Ein Reservat in den Qinling-Bergen, das für die hohe Dichte an wilden Riesenpandas bekannt ist.",
       hu: "Egy rezervátum a Csinling-hegységben, amely a vadon élő óriáspandák nagy sűrűségéről ismert.",
@@ -11193,7 +11181,6 @@ export const poiExtraChinaLifeV2: POI[] = [
       hu: "Sencseni Tündér-tó Botanikus Kert",
       ro: "Grădina Botanică Lacul Zânelor din Shenzhen",
       en: "Shenzhen Fairy Lake Botanical Garden"},
-    image: "/poi-images/shenzhen-fairy-lake-botanical-garden-life-v2.webp",
     description: {
       de: "Ein multifunktionaler botanischer Garten in Shenzhen, der Forschung, Bildung und Tourismus integriert.",
       hu: "Egy multifunkcionális botanikus kert Sencsenben, amely integrálja a kutatást, az oktatást és a turizmust.",
@@ -11430,7 +11417,6 @@ export const poiExtraChinaLifeV2: POI[] = [
       hu: "Happy Valley Peking",
       ro: "Happy Valley Beijing",
       en: "Happy Valley Beijing"},
-    image: "/poi-images/happy-valley-beijing-life-v2.webp",
     description: {
       de: "Ein großer Themenpark in Peking mit sechs thematischen Bereichen und zahlreichen Achterbahnen und Fahrgeschäften.",
       hu: "Egy nagy vidámpark Pekingben, hat tematikus területtel és számos hullámvasúttal és attrakcióval.",
@@ -11652,7 +11638,6 @@ export const poiExtraChinaLifeV2: POI[] = [
       hu: "Csangpaj-hegység vadvilága",
       ro: "Fauna sălbatică din Munții Changbai",
       en: "Changbai Mountains Wildlife"},
-    image: "/poi-images/changbai-mountain-wildlife-life-v2.webp",
     description: {
       de: "Ein Gebirgszug an der Grenze zu Nordkorea, der ein wichtiger Lebensraum für eine vielfältige Tierwelt ist, darunter Amur-Tiger und Braunbären.",
       hu: "Hegylánc az Észak-Koreával közös határon, amely fontos élőhely a változatos vadvilág, köztük az amuri tigrisek és a barnamedvék számára.",
@@ -12033,7 +12018,6 @@ export const poiExtraChinaLifeV2: POI[] = [
       hu: "Karcsú Nyugati-tó Park",
       ro: "Parcul Lacul de Vest Subțire",
       en: "Slender West Lake Park"},
-    image: "/poi-images/slender-west-lake-park-life-v2.webp",
     description: {
       de: "Ein malerischer Park in Yangzhou, bekannt für seine schönen Gärten, historischen Strukturen und den langen, schmalen See, der einem Pinselstrich ähnelt.",
       hu: "Festői park Jangcsouban, amely gyönyörű kertjeiről, történelmi építményeiről és a hosszú, keskeny tóról ismert, amely egy ecsetvonásra hasonlít.",
@@ -13530,7 +13514,6 @@ export const poiExtraChinaLifeV2: POI[] = [
       hu: "Happy Valley Sencsen",
       ro: "Happy Valley Shenzhen",
       en: "Happy Valley Shenzhen"},
-    image: "/poi-images/shenzhen-happy-valley-life-v2.webp",
     description: {
       de: "Ein großer, moderner Themenpark in Shenzhen mit neun thematischen Bereichen und über 100 Attraktionen.",
       hu: "Egy nagy, modern vidámpark Sencsenben, kilenc tematikus területtel és több mint 100 attrakcióval.",

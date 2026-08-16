@@ -1349,7 +1349,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-TK",
     coords: [69.2401, 41.2995],
     name: { de: "Taschkent", hu: "Taskent", ro: "Tașkent", en: "Tashkent"},
-    image: "/poi-images/tashkent-cities-v2.webp",
     description: {
       de: "Hauptstadt Usbekistans und wirtschaftliches sowie kulturelles Zentrum des Landes.",
       hu: "Üzbegisztán fővárosa, az ország gazdasági és kulturális központja.",
@@ -1776,7 +1775,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-SA",
     coords: [66.9597, 39.6542],
     name: { de: "Samarkand", hu: "Szamarkand", ro: "Samarkand", en: "Samarkand"},
-    image: "/poi-images/samarkand-cities-v2.webp",
     description: {
       de: "Eine der ältesten bewohnten Städte Zentralasiens, berühmt für die Architektur der Seidenstraße.",
       hu: "Közép-Ázsia egyik legrégebben lakott városa, a Selyemút lenyűgöző építészetéről ismert.",
@@ -2245,7 +2243,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-BU",
     coords: [64.4286, 39.7747],
     name: { de: "Buchara", hu: "Buhara", ro: "Buhara", en: "Bukhara"},
-    image: "/poi-images/bukhara-cities-v2.webp",
     description: {
       de: "Historische Stadt an der Seidenstraße mit unzähligen Moscheen und Medresen.",
       hu: "Történelmi város a Selyemúton számtalan mecsettel és medreszével.",
@@ -2354,7 +2351,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-NG",
     coords: [71.6726, 41.0011],
     name: { de: "Namangan", hu: "Namangan", ro: "Namangan", en: "Namangan"},
-    image: "/poi-images/namangan-cities-v2.webp",
     description: {
       de: "Wichtige Industriestadt im Ferghanatal, bekannt für ihre Textil- und Lebensmittelproduktion.",
       hu: "Fontos ipari város a Fergana-völgyben, textil- és élelmiszeriparáról ismert.",
@@ -2418,7 +2414,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-AN",
     coords: [72.3442, 40.7821],
     name: { de: "Andischan", hu: "Andizsán", ro: "Andijan", en: "Andijan"},
-    image: "/poi-images/andijan-cities-v2.webp",
     description: {
       de: "Eine der ältesten Städte im Ferghanatal, berühmt als Geburtsort des Herrschers Babur.",
       hu: "A Fergana-völgy egyik legrégebbi városa, Babur uralkodó szülőhelyeként ismert.",
@@ -2527,7 +2522,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-FA",
     coords: [71.7268, 40.3842],
     name: { de: "Fergana", hu: "Fergana", ro: "Fergana", en: "Fergana"},
-    image: "/poi-images/fergana-cities-v2.webp",
     description: {
       de: "Moderne Stadt im Süden des fruchtbaren Ferghanatals, gegründet im 19. Jahrhundert.",
       hu: "Modern város a termékeny Fergana-völgy déli részén, a 19. században alapították.",
@@ -3239,7 +3233,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-QR",
     coords: [59.6179, 42.4619],
     name: { de: "Nukus", hu: "Nukus", ro: "Nukus", en: "Nukus"},
-    image: "/poi-images/nukus-cities-v2.webp",
     description: {
       de: "Hauptstadt der autonomen Republik Karakalpakstan, bekannt für das Savitsky-Museum.",
       hu: "A Karakalpaksztán Autonóm Köztársaság fővárosa, a Szavickij Múzeumról ismert.",
@@ -3816,7 +3809,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-QA",
     coords: [65.7938, 38.8615],
     name: { de: "Qarschi", hu: "Karsi", ro: "Karshi", en: "Karshi"},
-    image: "/poi-images/karshi-cities-v2.webp",
     description: {
       de: "Bedeutendes Zentrum in Südusbekistan mit langer Geschichte und moderner Erdgasindustrie.",
       hu: "Jelentős központ Dél-Üzbegisztánban, hosszú történelemmel és modern földgáziparral.",
@@ -4132,7 +4124,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-FA",
     coords: [70.9389, 40.5286],
     name: { de: "Kokand", hu: "Kokand", ro: "Kokand", en: "Kokand"},
-    image: "/poi-images/kokand-cities-v2.webp",
     description: {
       de: "Ehemalige Hauptstadt des Khanats Kokand, reich an historischen Palästen und Medresen.",
       hu: "A Kokandi Kánság egykori fővárosa, gazdag történelmi palotákban és medreszékben.",
@@ -4196,7 +4187,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-FA",
     coords: [71.7272, 40.4722],
     name: { de: "Margilan", hu: "Margilán", ro: "Margilan", en: "Margilan"},
-    image: "/poi-images/margilan-cities-v2.webp",
     description: {
       de: "Traditionelles Zentrum der Seidenproduktion in Zentralasien mit jahrhundertealter Handwerkskunst.",
       hu: "A közép-ázsiai selyemgyártás hagyományos központja évszázados kézművességgel.",
@@ -4265,7 +4255,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-NW",
     coords: [65.3792, 40.0844],
     name: { de: "Navoiy", hu: "Navoi", ro: "Navoiy", en: "Navoiy"},
-    image: "/poi-images/navoiy-cities-v2.webp",
     description: {
       de: "Moderne Industriestadt in der Wüste, benannt nach dem großen Dichter Alischer Navoi.",
       hu: "Modern iparváros a sivatagban, amelyet a nagy költőről, Aliser Navoiról neveztek el.",
@@ -4698,7 +4687,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-JI",
     coords: [67.8422, 40.1158],
     name: { de: "Dschizzach", hu: "Dzsizak", ro: "Jizzakh", en: "Jizzakh"},
-    image: "/poi-images/jizzakh-cities-v2.webp",
     description: {
       de: "Strategisch gelegene Stadt zwischen Taschkent und Samarkand an einer wichtigen Transportroute.",
       hu: "Stratégiai elhelyezkedésű város Taskent és Szamarkand között, egy fontos szállítási útvonalon.",
@@ -4762,7 +4750,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-XW",
     coords: [60.6316, 41.5500],
     name: { de: "Urgentsch", hu: "Urgencs", ro: "Urgench", en: "Urgench"},
-    image: "/poi-images/urgench-cities-v2.webp",
     description: {
       de: "Verwaltungszentrum der Region Choresmien und Ausgangspunkt für Reisen nach Chiwa.",
       hu: "Horezm tartomány közigazgatási központja és a Hívába irányuló utazások kiindulópontja.",
@@ -5087,7 +5074,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-SU",
     coords: [67.2783, 37.2242],
     name: { de: "Termiz", hu: "Termez", ro: "Termez", en: "Termez"},
-    image: "/poi-images/termez-cities-v2.webp",
     description: {
       de: "Die südlichste Stadt Usbekistans an der Grenze zu Afghanistan mit reichem buddhistischen Erbe.",
       hu: "Üzbegisztán legdélebbi városa az afgán határon, gazdag buddhista örökséggel.",
@@ -5556,7 +5542,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-TO",
     coords: [69.5822, 41.4689],
     name: { de: "Tschirtschik", hu: "Csircsik", ro: "Chirchiq", en: "Chirchiq"},
-    image: "/poi-images/chirchiq-cities-v2.webp",
     description: {
       de: "Bedeutende Industriestadt nahe Taschkent, gelegen im Tal des gleichnamigen Flusses.",
       hu: "Jelentős ipari város Taskent közelében, az azonos nevű folyó völgyében.",
@@ -5620,7 +5605,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-TO",
     coords: [70.1436, 41.0111],
     name: { de: "Angren", hu: "Angren", ro: "Angren", en: "Angren"},
-    image: "/poi-images/angren-cities-v2.webp",
     description: {
       de: "Zentrum des Kohlebergbaus und der Energiewirtschaft in der Region Taschkent.",
       hu: "A szénbányászat és az energiaipar központja Taskent tartományban.",
@@ -6161,7 +6145,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-TO",
     coords: [69.5969, 40.8589],
     name: { de: "Almalyk", hu: "Almalik", ro: "Olmaliq", en: "Olmaliq"},
-    image: "/poi-images/olmaliq-cities-v2.webp",
     description: {
       de: "Bekannte Bergbaustadt mit großen Kupfer- und Zinkvorkommen am Fuße des Kurama-Gebirges.",
       hu: "Ismert bányászváros nagy réz- és cinkkészletekkel a Kurama-hegység lábánál.",
@@ -6406,7 +6389,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-QA",
     coords: [66.8253, 39.0525],
     name: { de: "Schahrisabs", hu: "Sahriszabz", ro: "Șahrisabz", en: "Shahrisabz"},
-    image: "/poi-images/shahrisabz-cities-v2.webp",
     description: {
       de: "Die historische Geburtsstadt von Timur mit bedeutenden architektonischen Ruinen.",
       hu: "Timur történelmi szülővárosa jelentős építészeti romokkal.",
@@ -7163,7 +7145,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-SI",
     coords: [68.7842, 40.4897],
     name: { de: "Guliston", hu: "Guliszton", ro: "Guliston", en: "Guliston"},
-    image: "/poi-images/guliston-cities-v2.webp",
     description: {
       de: "Hauptstadt der Region Sirdaryo und ein wichtiges landwirtschaftliches Zentrum.",
       hu: "Szirdarja tartomány fővárosa és fontos mezőgazdasági központ.",
@@ -7227,7 +7208,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-SU",
     coords: [67.8986, 38.2667],
     name: { de: "Denau", hu: "Denau", ro: "Denov", en: "Denov"},
-    image: "/poi-images/denov-cities-v2.webp",
     description: {
       de: "Handelszentrum in Südusbekistan mit einer florierenden Landwirtschaft und Weinproduktion.",
       hu: "Kereskedelmi központ Dél-Üzbegisztánban virágzó mezőgazdasággal és bortermeléssel.",
@@ -7291,7 +7271,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-NW",
     coords: [64.1953, 41.5736],
     name: { de: "Sarafschon", hu: "Zarafson", ro: "Zarafșan", en: "Zarafshan"},
-    image: "/poi-images/zarafshan-cities-v2.webp",
     description: {
       de: "Eine in der Kyzylkum-Wüste gelegene Stadt, die als Zentrum des usbekischen Goldbergbaus gilt.",
       hu: "A Kizil-kum sivatagban fekvő város, az üzbég aranybányászat központja.",
@@ -7355,7 +7334,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-SA",
     coords: [66.2597, 39.8983],
     name: { de: "Kattakurgan", hu: "Kattakurgon", ro: "Kattaqo'rg'on", en: "Kattakurgan"},
-    image: "/poi-images/kattakurgan-cities-v2.webp",
     description: {
       de: "Eines der ältesten Zentren der Region Samarkand mit einem großen Wasserreservoir.",
       hu: "Szamarkand régió egyik legrégebbi központja, ahol egy nagy víztározó is található.",
@@ -7752,7 +7730,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-AN",
     coords: [72.2411, 40.6425],
     name: { de: "Asaka", hu: "Aszaka", ro: "Asaka", en: "Asaka"},
-    image: "/poi-images/asaka-cities-v2.webp",
     description: {
       de: "Eine Stadt im Ferghanatal, die vor allem für ihr großes Automobilwerk bekannt ist.",
       hu: "A Fergana-völgyben fekvő város, amely elsősorban hatalmas autógyáráról ismert.",
@@ -8221,7 +8198,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-XW",
     coords: [60.3606, 41.3783],
     name: { de: "Chiwa", hu: "Híva", ro: "Hiva", en: "Khiva"},
-    image: "/poi-images/khiva-cities-v2.webp",
     description: {
       de: "Eine atemberaubende Oasenstadt, deren Altstadt ein lebendiges Freilichtmuseum ist.",
       hu: "Lenyűgöző oázisváros, amelynek óvárosa egy élő szabadtéri múzeum.",
@@ -8402,7 +8378,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-TO",
     coords: [69.0458, 41.1125],
     name: { de: "Jangijul", hu: "Jangijul", ro: "Yangiyo'l", en: "Yangiyul"},
-    image: "/poi-images/yangiyul-cities-v2.webp",
     description: {
       de: "Eine schnell wachsende Vorstadt von Taschkent mit bedeutender Lebensmittelindustrie.",
       hu: "Taskent gyorsan növekvő elővárosa jelentős élelmiszeriparral.",
@@ -8511,7 +8486,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-NG",
     coords: [71.2294, 40.9997],
     name: { de: "Tschust", hu: "Csuszt", ro: "Chust", en: "Chust"},
-    image: "/poi-images/chust-cities-v2.webp",
     description: {
       de: "Bekannt für traditionelle Handwerkskunst, insbesondere die Herstellung von Messern und Kopfbedeckungen.",
       hu: "Hagyományos kézművességéről, különösen a kések és fejfedők készítéséről ismert.",
@@ -8728,7 +8702,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-QR",
     coords: [59.4561, 42.4042],
     name: { de: "Chodschejli", hu: "Hodzsejli", ro: "Xo'jayli", en: "Khodjeyli"},
-    image: "/poi-images/khodjeyli-cities-v2.webp",
     description: {
       de: "Eine wichtige historische Stadt unweit von Nukus mit alten Nekropolen.",
       hu: "Fontos történelmi város Nukus közelében ősi nekropoliszokkal.",
@@ -8945,7 +8918,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     parent: "UZ-QR",
     coords: [61.0011, 41.5542],
     name: { de: "Turtkul", hu: "Turtkul", ro: "To'rtko'l", en: "Turtkul"},
-    image: "/poi-images/turtkul-cities-v2.webp",
     description: {
       de: "Eine ehemalige Hauptstadt von Karakalpakstan, die an den Ufern des Amudarja liegt.",
       hu: "Karakalpaksztán egykori fővárosa az Amu-darja partján.",

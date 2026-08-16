@@ -12,7 +12,6 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
       hu: "Oju Tolgoj bánya",
       ro: "Mina Oyu Tolgoi",
       en: "Oyu Tolgoi Mine"},
-    image: "/poi-images/oyu-tolgoi-mine-economic-v2.webp",
     description: {
       de: "Eines der größten Kupfer- und Goldvorkommen der Welt, tief in der Wüste Gobi gelegen.",
       hu: "A világ egyik legnagyobb réz- és aranylelőhelye, amely mélyen a Góbi sivatagban található.",
@@ -72,7 +71,6 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
       hu: "Tavan Tolgoj szénbánya",
       ro: "Mina de cărbune Tavan Tolgoi",
       en: "Tavan Tolgoi Coal Mine"},
-    image: "/poi-images/tavan-tolgoi-mine-economic-v2.webp",
     description: {
       de: "Ein gewaltiges Kohlevorkommen in der Süd-Gobi, das hauptsächlich hochwertige Kokskohle produziert.",
       hu: "Hatalmas szénlelőhely a Dél-Góbiban, amely főleg kiváló minőségű kokszolható szenet termel.",
@@ -789,7 +787,6 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
       hu: "Erdenet rézbánya",
       ro: "Mina de cupru Erdenet",
       en: "Erdenet Copper Mine"},
-    image: "/poi-images/erdenet-mining-corporation-economic-v2.webp",
     description: {
       de: "Eine der größten offenen Kupferminen Asiens, die maßgeblich zur Entwicklung der gleichnamigen Stadt beitrug.",
       hu: "Ázsia egyik legnagyobb külszíni rézbányája, amely jelentősen hozzájárult az azonos nevű város fejlődéséhez.",
@@ -930,7 +927,6 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
       hu: "Zamiin-Üüd szabadkereskedelmi övezet",
       ro: "Zona de comerț liber Zamiin-Uud",
       en: "Zamiin-Uud Free Trade Zone"},
-    image: "/poi-images/zamiin-uud-trade-zone-economic-v2.webp",
     description: {
       de: "Der wichtigste Grenzübergang und Handelsplatz zwischen der Mongolei und China, essenziell für den Import.",
       hu: "A legfontosabb határátkelő és kereskedelmi központ Mongólia és Kína között, amely elengedhetetlen az import szempontjából.",
@@ -1539,7 +1535,6 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
       hu: "Altanbulag szabadkereskedelmi övezet",
       ro: "Zona de comerț liber Altanbulag",
       en: "Altanbulag Free Trade Zone"},
-    image: "/poi-images/altanbulag-trade-zone-economic-v2.webp",
     description: {
       de: "Ein bedeutender Handelsknotenpunkt an der russischen Grenze, der den Warenaustausch nach Norden fördert.",
       hu: "Jelentős kereskedelmi csomópont az orosz határon, amely elősegíti az északi árucserét.",
@@ -1599,7 +1594,6 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
       hu: "Gacuurt aranybánya",
       ro: "Mina de aur Gatsuurt",
       en: "Gatsuurt Gold Mine"},
-    image: "/poi-images/gatsuurt-gold-mine-economic-v2.webp",
     description: {
       de: "Eine bedeutende Goldlagerstätte im Norden des Landes, die durch moderne Bergbautechniken erschlossen wird.",
       hu: "Jelentős aranylelőhely az ország északi részén, amelyet modern bányászati technológiákkal aknáznak ki.",
@@ -1848,7 +1842,6 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
       hu: "Sivée Ovoo szénbánya",
       ro: "Mina de cărbune Shivee Ovoo",
       en: "Shivee Ovoo Coal Mine"},
-    image: "/poi-images/shivee-ovoo-coal-mine-economic-v2.webp",
     description: {
       de: "Ein großer Tagebau, der maßgeblich zur Kohleversorgung der inländischen Kraftwerke beiträgt.",
       hu: "Egy nagy külszíni fejtés, amely jelentősen hozzájárul a hazai erőművek szénellátásához.",
@@ -2025,7 +2018,6 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
       hu: "Baganuur szénbánya",
       ro: "Mina de cărbune Baganuur",
       en: "Baganuur Coal Mine"},
-    image: "/poi-images/baganuur-coal-mine-economic-v2.webp",
     description: {
       de: "Diese Mine liegt östlich von Ulaanbaatar und ist der Hauptlieferant für die Heiz- und Kraftwerke der Hauptstadt.",
       hu: "Ez a bánya Ulánbátor keleti részén található, és a főváros hő- és villamosenergia-műveinek fő szállítója.",
@@ -2085,7 +2077,6 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
       hu: "Szalkhit szélerőműpark",
       ro: "Parcul eolian Salkhit",
       en: "Salkhit Wind Farm"},
-    image: "/poi-images/salkhit-wind-farm-economic-v2.webp",
     description: {
       de: "Der erste große Windpark der Mongolei, der einen wichtigen Schritt in Richtung erneuerbarer Energien darstellt.",
       hu: "Mongólia első nagy szélerőműparkja, amely fontos lépést jelent a megújuló energiák felé.",
@@ -2145,7 +2136,6 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
       hu: "Ceci szélerőműpark",
       ro: "Parcul eolian Tsetsii",
       en: "Tsetsii Wind Farm"},
-    image: "/poi-images/tsetsii-wind-farm-economic-v2.webp",
     description: {
       de: "Ein modernes Windenergieprojekt in der Wüste Gobi, das die starken und konstanten Wüstenwinde nutzt.",
       hu: "Egy modern szélenergia-projekt a Góbi sivatagban, amely az erős és állandó sivatagi szeleket hasznosítja.",
@@ -3006,7 +2996,6 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
       hu: "Darhan Kohászati Üzem",
       ro: "Uzina metalurgică Darkhan",
       en: "Darkhan Metallurgical Plant"},
-    image: "/poi-images/darkhan-metallurgical-plant-economic-v2.webp",
     description: {
       de: "Das größte Stahl- und Eisenwerk des Landes, das die mongolische Bau- und Infrastrukturindustrie mit Material versorgt.",
       hu: "Az ország legnagyobb acél- és vasműve, amely a mongol építőipart és infrastruktúrát látja el anyagokkal.",
@@ -4047,7 +4036,6 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
       hu: "Ulánbátor 4-es számú Hőerőmű",
       ro: "Centrala termică nr. 4 Ulaanbaatar",
       en: "Ulaanbaatar Thermal Power Plant No. 4"},
-    image: "/poi-images/ulaanbaatar-power-plant-4-economic-v2.webp",
     description: {
       de: "Das größte Kraftwerk der Mongolei, das den Löwenanteil des Stroms und der Fernwärme für die Hauptstadt produziert.",
       hu: "Mongólia legnagyobb erőműve, amely a főváros áram- és távhőellátásának oroszlánrészét termeli.",
@@ -4692,7 +4680,6 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
       hu: "Gobi Kasmírgyár",
       ro: "Fabrica de cașmir Gobi",
       en: "Gobi Cashmere Factory"},
-    image: "/poi-images/gobi-cashmere-factory-economic-v2.webp",
     description: {
       de: "Eine der größten Kaschmir-Verarbeitungsanlagen der Welt, die luxuriöse Textilien für den globalen Markt herstellt.",
       hu: "A világ egyik legnagyobb kasmírfeldolgozó üzeme, amely luxustextíliákat gyárt a globális piacra.",
@@ -4752,7 +4739,6 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
       hu: "Cagaan Szuvarga bánya",
       ro: "Mina Tsagaan Suvarga",
       en: "Tsagaan Suvarga Mine"},
-    image: "/poi-images/tsagaan-suvarga-mine-economic-v2.webp",
     description: {
       de: "Ein riesiges Bergbauprojekt für Kupfer und Molybdän in der Wüste Gobi, das sich noch in der Entwicklung befindet.",
       hu: "Egy hatalmas réz- és molibdénbányászati projekt a Góbi sivatagban, amely még fejlesztés alatt áll.",
@@ -4812,7 +4798,6 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
       hu: "Khushigt-völgy Gazdasági Övezet",
       ro: "Zona economică Valea Khushigt",
       en: "Khushigt Valley Economic Zone"},
-    image: "/poi-images/khushigt-valley-trade-zone-economic-v2.webp",
     description: {
       de: "Ein neues Entwicklungszentrum rund um den internationalen Flughafen von Ulaanbaatar, das Logistik und Handel bündeln soll.",
       hu: "Egy új fejlesztési központ az ulánbátori nemzetközi repülőtér körül, amely a logisztikát és a kereskedelmet hivatott összefogni.",
@@ -4872,7 +4857,6 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
       hu: "Boró aranybánya",
       ro: "Mina de aur Boroo",
       en: "Boroo Gold Mine"},
-    image: "/poi-images/boroo-gold-mine-economic-v2.webp",
     description: {
       de: "Eine der ersten erfolgreichen Goldminen mit ausländischer Investition, die stark zum Exportwachstum der Mongolei beitrug.",
       hu: "Az egyik első sikeres külföldi befektetésű aranybánya, amely nagyban hozzájárult Mongólia exportnövekedéséhez.",
@@ -5049,7 +5033,6 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
       hu: "Sainshand Ipari Park",
       ro: "Parcul industrial Sainshand",
       en: "Sainshand Industrial Park"},
-    image: "/poi-images/sainshand-industrial-park-economic-v2.webp",
     description: {
       de: "Ein ehrgeiziges Mega-Projekt, das Rohstoffe aus der Gobi lokal verarbeiten und schwere Industrieanlagen ansiedeln soll.",
       hu: "Egy ambiciózus megaprojekt, amely a góbi nyersanyagok helyi feldolgozását és nehézipari létesítmények betelepítését célozza.",
@@ -5442,7 +5425,6 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
       hu: "Amgalan Fűtőerőmű",
       ro: "Centrala termică Amgalan",
       en: "Amgalan Thermal Power Plant"},
-    image: "/poi-images/amgalan-thermal-power-plant-economic-v2.webp",
     description: {
       de: "Ein wichtiges Heizkraftwerk im Osten der Hauptstadt, das erbaut wurde, um den wachsenden Wärmebedarf neuer Wohnviertel zu decken.",
       hu: "Egy fontos fűtőerőmű a főváros keleti részén, amelyet az új lakónegyedek növekvő hőigényének fedezésére építettek.",
@@ -5502,7 +5484,6 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
       hu: "Nalajh Ipari és Technológiai Park",
       ro: "Parcul industrial și tehnologic Nalaikh",
       en: "Nalaikh Industrial and Technology Park"},
-    image: "/poi-images/nalaikh-industrial-park-economic-v2.webp",
     description: {
       de: "Ein aufstrebendes Wirtschaftszentrum nahe Ulaanbaatar, das sich auf die Produktion von Baumaterialien konzentriert.",
       hu: "Egy feltörekvő gazdasági központ Ulánbátor közelében, amely az építőanyagok gyártására összpontosít.",

@@ -89,7 +89,6 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     parent: "AF-BDS",
     coords: [71.8298, 36.4332],
     name: { de: "Noshaq", hu: "Noshak-csúcs", ro: "Noshaq", en: "Mount Noshaq"},
-    image: "/poi-images/noshaq-relief-v2.webp",
     description: { de: "Der Noshaq ist mit über 7400 Metern der höchste Berg Afghanistans und liegt im Hindukusch-Gebirge nahe der pakistanischen Grenze.", hu: "A Noshak Afganisztán legmagasabb pontja, amely több mint 7400 méterrel magasodik a Hindukus-hegységben, a pakisztáni határ közelében.", ro: "Noshaq este cel mai înalt munte din Afganistan, depășind 7400 de metri, situat în lanțul muntos Hindu Kush, aproape de granița cu Pakistanul.", en: "Mount Noshaq is the highest peak in Afghanistan, standing at over 7,400 meters in the Hindu Kush mountain range near the Pakistani border." , es: "El Noshaq es la montaña más alta de Afganistán, con más de 7.400 metros de altura, y se encuentra en la cordillera del Hindu Kush, cerca de la frontera con Pakistán.", pt: "O Noshaq é a montanha mais alta do Afeganistão, com mais de 7.400 metros, e situa-se na cordilheira Hindu Kush, perto da fronteira com o Paquistão.", fr: "Le Noshaq est le point culminant de l'Afghanistan, s'élevant à plus de 7 400 mètres dans le massif de l'Hindou Kouch, près de la frontière pakistanaise."},
     facts: {
       de: ["Höchster Berg Afghanistans.", "Teil des Hindukusch.", "Höhe von 7492 Metern."],
@@ -124,7 +123,6 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     parent: "AF-BDS",
     coords: [71.0000, 35.0000],
     name: { de: "Hindukusch", hu: "Hindukus", ro: "Hindu Kush", en: "Hindu Kush"},
-    image: "/poi-images/hindu-kush-relief-v2.webp",
     description: { de: "Der Hindukusch ist ein gewaltiges Hochgebirge in Zentralasien, das sich über einen großen Teil Afghanistans erstreckt und das Land geografisch teilt.", hu: "A Hindukus egy hatalmas közép-ázsiai magashegység, amely Afganisztán jelentős részén húzódik keresztül, földrajzilag kettéosztva az országot.", ro: "Hindu Kush este un lanț muntos masiv din Asia Centrală care se întinde pe o mare parte din Afganistan, împărțind țara din punct de vedere geografic.", en: "The Hindu Kush is a massive high-mountain range in Central Asia that stretches across a large part of Afghanistan, dividing the country geographically." , es: "El Hindu Kush es una imponente cadena montañosa en Asia Central que se extiende por gran parte de Afganistán y divide geográficamente el país.", pt: "O Hindu Kush é uma imensa cordilheira na Ásia Central que se estende por grande parte do Afeganistão e divide o país geograficamente.", fr: "L'Hindou Kouch est une immense chaîne de montagnes d'Asie centrale qui s'étend sur une grande partie de l'Afghanistan, divisant le pays géographiquement."},
     facts: {
       de: ["Über 800 km lang.", "Teilt das Land geografisch.", "Gipfel über 7000 Meter."],
@@ -159,7 +157,6 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     parent: "AF-BDS",
     coords: [73.0000, 37.0000],
     name: { de: "Wachantal", hu: "Vahán-völgy", ro: "Valea Wakhan", en: "Wakhan Valley"},
-    image: "/poi-images/wakhan-valley-relief-v2.webp",
     description: { de: "Das Wachantal liegt im äußersten Nordosten Afghanistans, eingebettet zwischen dem Pamir-Gebirge und dem Karakorum, und ist historisch ein Teil der Seidenstraße.", hu: "A Vahán-völgy Afganisztán legészakkeletibb részén, a Pamír és a Karakorum hegységek között terül el, és történelmileg a Selyemút része volt.", ro: "Valea Wakhan se află în extremitatea nord-estică a Afganistanului, între Munții Pamir și Karakorum, fiind istoric o parte a Drumului Mătăsii.", en: "The Wakhan Valley lies in the extreme northeast of Afghanistan, nestled between the Pamir and Karakoram mountains, historically a part of the Silk Road." , es: "El valle de Wakhan se encuentra en el extremo noreste de Afganistán, enclavado entre las montañas del Pamir y el Karakórum, e históricamente forma parte de la Ruta de la Seda.", pt: "O vale de Wakhan situa-se no extremo nordeste do Afeganistão, aninhado entre as montanhas Pamir e Karakorum, e faz parte historicamente da Rota da Seda.", fr: "La vallée du Wakhan est située à l'extrême nord-est de l'Afghanistan, nichée entre les montagnes du Pamir et du Karakoram, et fait historiquement partie de la Route de la Soie."},
     facts: {
       de: ["Historische Seidenstraße.", "Liegt im Wachan-Korridor.", "Umgeben von Hochgebirgen."],
@@ -194,7 +191,6 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     parent: "AF-PAN",
     coords: [69.6000, 35.2600],
     name: { de: "Pandschschir-Tal", hu: "Pandzssír-völgy", ro: "Valea Panjshir", en: "Panjshir Valley"},
-    image: "/poi-images/panjshir-valley-relief-v2.webp",
     description: { de: "Das Pandschschir-Tal nördlich von Kabul wird vom Pandschschir-Fluss durchflossen und ist von hohen Berggipfeln umgeben, bekannt für seine natürliche Schönheit und strategische Bedeutung.", hu: "A Kabultól északra fekvő Pandzssír-völgyet a Pandzssír-folyó szeli át, magas hegycsúcsok veszik körül, természeti szépségéről és stratégiai jelentőségéről ismert.", ro: "Valea Panjshir la nord de Kabul este traversată de râul Panjshir și este înconjurată de vârfuri muntoase, cunoscută pentru frumusețea sa naturală și importanța strategică.", en: "The Panjshir Valley north of Kabul is crossed by the Panjshir River and surrounded by high mountain peaks, known for its natural beauty and strategic importance." , es: "El valle de Panjshir, al norte de Kabul, es atravesado por el río Panjshir y está rodeado de altas cumbres, siendo conocido por su belleza natural e importancia estratégica.", pt: "O vale de Panjshir, a norte de Cabul, é atravessado pelo rio Panjshir e rodeado por altos picos montanhosos, sendo conhecido pela sua beleza natural e importância estratégica.", fr: "La vallée du Panjshir, au nord de Kaboul, est traversée par la rivière Panjshir et entourée de hauts sommets, célèbre pour sa beauté et son rôle stratégique."},
     facts: {
       de: ["Nördlich von Kabul.", "Bedeutet 'Fünf Löwen'.", "Strategische Bedeutung."],
@@ -229,7 +225,6 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     parent: "AF-KAN",
     coords: [65.0000, 30.5000],
     name: { de: "Registan-Wüste", hu: "Regisztán-sivatag", ro: "Deșertul Registan", en: "Registan Desert"},
-    image: "/poi-images/registan-desert-relief-v2.webp",
     description: { de: "Die Registan-Wüste im Süden Afghanistans ist eine trockene Region aus roten Sanddünen, Felsen und spärlicher Vegetation, die extremen klimatischen Bedingungen ausgesetzt ist.", hu: "A dél-afganisztáni Regisztán-sivatag egy száraz régió, amely vörös homokdűnékből, sziklákból és ritkás növényzetből áll, rendkívüli éghajlati viszonyokkal.", ro: "Deșertul Registan din sudul Afganistanului este o regiune aridă cu dune de nisip roșu, stânci și vegetație rară, supusă unor condiții climatice extreme.", en: "The Registan Desert in southern Afghanistan is an arid region of red sand dunes, rocks, and sparse vegetation, subject to extreme climatic conditions." , es: "El desierto de Registan, en el sur de Afganistán, es una región árida de dunas de arena roja, rocas y vegetación escasa, sujeta a condiciones climáticas extremas.", pt: "O deserto de Registan, no sul do Afeganistão, é uma região árida composta por dunas de areia vermelha, rochas e vegetação escassa, sujeita a condições climáticas extremas.", fr: "Le désert du Registan, au sud de l'Afghanistan, est une région aride de dunes de sable rouge et de roches à la végétation rare, soumise à un climat extrême."},
     facts: {
       de: ["Wüste aus rotem Sand.", "Im Süden des Landes.", "Trockenes, extremes Klima."],
@@ -345,7 +340,6 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     parent: "AF-BAM",
     coords: [67.3300, 34.6600],
     name: { de: "Koh-e Baba", hu: "Koh-e Baba-hegység", ro: "Munții Koh-e Baba", en: "Koh-e Baba"},
-    image: "/poi-images/koh-e-baba-relief-v2.webp",
     description: { de: "Das Koh-e Baba-Gebirge ist ein westlicher Ausläufer des Hindukusch in Zentralafghanistan und bildet die Quelle mehrerer großer Flüsse des Landes.", hu: "A Koh-e Baba hegység a Hindukus nyugati nyúlványa Közép-Afganisztánban, és az ország több jelentős folyójának forrásvidéke.", ro: "Lanțul muntos Koh-e Baba este o prelungire vestică a Hindu Kush în centrul Afganistanului și formează sursa mai multor râuri mari ale țării.", en: "The Koh-e Baba mountain range is a western extension of the Hindu Kush in central Afghanistan and forms the source of several major rivers of the country." , es: "La cordillera Koh-e Baba es una extensión occidental del Hindu Kush en el centro de Afganistán y constituye la fuente de varios de los ríos más importantes del país.", pt: "A cordilheira Koh-e Baba é um prolongamento ocidental do Hindu Kush, no centro do Afeganistão, e constitui a nascente de vários grandes rios do país.", fr: "La chaîne de Koh-e Baba est un prolongement occidental de l'Hindou Kouch au centre de l'Afghanistan, constituant la source de plusieurs fleuves majeurs du pays."},
     facts: {
       de: ["Westlicher Teil des Hindukusch.", "Quelle wichtiger Flüsse.", "Liegt in der Bamiyan-Provinz."],
@@ -425,7 +419,6 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     parent: "AF-BAM",
     coords: [67.6250, 34.6450],
     name: { de: "Shah-e Fuladi", hu: "Shah-e Fuladi", ro: "Shah-e Fuladi", en: "Shah-e Fuladi"},
-    image: "/poi-images/shah-e-fuladi-relief-v2.webp",
     description: { de: "Der Shah-e Fuladi ist mit über 5000 Metern der höchste Gipfel des Koh-e Baba-Gebirges und überragt das umliegende zentralafghanische Hochland.", hu: "A Shah-e Fuladi több mint 5000 méteres magasságával a Koh-e Baba hegység legmagasabb csúcsa, amely a közép-afganisztáni fennsík fölé magasodik.", ro: "Shah-e Fuladi, la peste 5000 de metri, este cel mai înalt vârf din munții Koh-e Baba, dominând platoul central afgan înconjurător.", en: "Shah-e Fuladi, at over 5,000 meters, is the highest peak of the Koh-e Baba mountain range, towering over the surrounding central Afghan highlands." , es: "El Shah-e Fuladi es el pico más alto de las montañas Koh-e Baba, con más de 5000 metros, y domina las tierras altas del centro de Afganistán.", pt: "O Shah-e Fuladi é o pico mais alto das montanhas Koh-e Baba, com mais de 5000 metros, dominando o planalto central do Afeganistão.", fr: "Le Shah-e Fuladi est le point culminant des montagnes Koh-e Baba, s'élevant à plus de 5000 mètres et dominant les hauts plateaux du centre de l'Afghanistan."},
     facts: {
       de: ["Höchster Gipfel des Koh-e Baba.", "Über 5000 Meter hoch.", "Im zentralen Hochland."],
@@ -460,7 +453,6 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     parent: "AF-BAM",
     coords: [67.8200, 34.8200],
     name: { de: "Bamiyan-Tal", hu: "Bámiján-völgy", ro: "Valea Bamiyan", en: "Bamyan Valley"},
-    image: "/poi-images/bamyan-valley-relief-v2.webp",
     description: { de: "Das Bamiyan-Tal ist ein weites, fruchtbares Flusstal im zentralen Hochland Afghanistans, das tief in die umgebende Gebirgslandschaft eingeschnitten ist.", hu: "A Bámiján-völgy egy széles, termékeny folyóvölgy Afganisztán középső hegyvidékén, amely mélyen bevágódik a környező hegyi tájba.", ro: "Valea Bamyan este renumită pentru bogăția sa arheologică și peisajele montane, fiind un nod istoric pe Drumul Mătăsii.", en: "A high-altitude valley famous for its dramatic sandstone cliffs and the empty niches where massive Buddha statues once stood." , es: "El valle de Bamiyán es un valle fluvial amplio y fértil en las tierras altas centrales de Afganistán, profundamente tallado en el paisaje montañoso circundante.", pt: "O vale de Bamiyan é um vale fluvial amplo e fértil nas terras altas centrais do Afeganistão, profundamente esculpido na paisagem montanhosa circundante.", fr: "La vallée de Bamiyan est une vaste vallée fluviale fertile située dans les hauts plateaux du centre de l'Afghanistan, profondément encaissée dans le paysage montagneux environnant."},
     facts: {
       de: ["Fruchtbares Tal in großer Höhe.", "Kultureller Knotenpunkt.", "Umgeben von roten Felsen."],
@@ -576,7 +568,6 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     parent: "AF-NAN",
     coords: [70.0000, 33.9000],
     name: { de: "Spīn Ghar", hu: "Szafed Koh", ro: "Spīn Ghar", en: "Spīn Ghar"},
-    image: "/poi-images/spin-ghar-relief-v2.webp",
     description: { de: "Das Spīn Ghar, auch als Safed Koh bekannt, ist ein schroffes Gebirge im Osten Afghanistans, dessen höchster Punkt der Berg Sikaram ist.", hu: "A Spīn Ghar, más néven Szafed Koh egy zord hegység Afganisztán keleti részén, amelynek legmagasabb pontja a Szikaram-hegy.", ro: "Spīn Ghar, cunoscut și sub numele de Safed Koh, este un lanț muntos accidentat în estul Afganistanului, al cărui punct cel mai înalt este Muntele Sikaram.", en: "Spīn Ghar, also known as Safed Koh, is a rugged mountain range in eastern Afghanistan, whose highest point is Mount Sikaram." , es: "El Spīn Ghar, también conocido como Safed Koh, es una cadena montañosa escarpada en el este de Afganistán, cuyo punto más alto es el monte Sikaram.", pt: "O Spīn Ghar, também conhecido como Safed Koh, é uma cordilheira acidentada no leste do Afeganistão, cujo ponto mais alto é o monte Sikaram.", fr: "Le Spīn Ghar, également connu sous le nom de Safed Koh, est une chaîne de montagnes escarpée de l'est de l'Afghanistan, dont le point culminant est le mont Sikaram."},
     facts: {
       de: ["Bedeutet 'Weißer Berg'.", "An der Grenze zu Pakistan.", "Gipfel bis zu 4761 Meter."],
@@ -683,7 +674,6 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     parent: "AF-KAB",
     coords: [68.9000, 34.6000],
     name: { de: "Koh-e Paghman", hu: "Pagmán-hegység", ro: "Munții Paghman", en: "Koh-e Paghman"},
-    image: "/poi-images/koh-e-paghman-relief-v2.webp",
     description: { de: "Die Paghman-Berge erheben sich nordwestlich von Kabul und bieten ein kühleres Klima sowie grüne Täler, die sich stark von der Umgebung abheben.", hu: "A Pagmán-hegység Kabultól északnyugatra emelkedik, hűvösebb éghajlatot és zöld völgyeket kínálva, amelyek élesen elütnek a környezettől.", ro: "Munții Paghman se înalță la nord-vest de Kabul, oferind un climat mai răcoros și văi verzi care contrastează puternic cu împrejurimile.", en: "The Paghman Mountains rise northwest of Kabul, offering a cooler climate and green valleys that contrast sharply with the surroundings." , es: "Las montañas de Paghman se elevan al noroeste de Kabul, ofreciendo un clima más fresco y valles verdes que contrastan fuertemente con su entorno.", pt: "As montanhas de Paghman elevam-se a noroeste de Cabul, oferecendo um clima mais fresco e vales verdejantes que contrastam fortemente com os arredores.", fr: "Les monts Paghman s'élèvent au nord-ouest de Kaboul, offrant un climat plus frais et des vallées verdoyantes qui contrastent avec les environs."},
     facts: {
       de: ["Nahe der Hauptstadt Kabul.", "Beliebtes Erholungsgebiet.", "Schneebedeckte Gipfel im Winter."],
@@ -718,7 +708,6 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     parent: "AF-JOW",
     coords: [65.7500, 36.8000],
     name: { de: "Dascht-e Leili", hu: "Dast-e Leili", ro: "Dasht-e Leili", en: "Dasht-e Leili"},
-    image: "/poi-images/dasht-e-leili-relief-v2.webp",
     description: { de: "Dascht-e Leili ist eine Wüstenregion im Norden Afghanistans, bestehend aus trockenen Ebenen, die sich in den Provinzen Dschuzdschan und Faryab erstrecken.", hu: "Észak-Afganisztánban, Dzsauzdján tartományban elterülő kietlen sivatagi síkság, amely a homokos és agyagos talajáról ismert.", ro: "Dasht-e Leili este o câmpie deșertică întinsă situată în nordul Afganistanului, în provincia Jowzjan.", en: "Dasht-e Leili is a desert region in northern Afghanistan, consisting of arid plains stretching across the Jowzjan and Faryab provinces." , es: "Dasht-e Leili es una región desértica en el norte de Afganistán, que consiste en llanuras secas que se extienden por las provincias de Jawzjān y Faryab.", pt: "Dasht-e Leili é uma região desértica no norte do Afeganistão, composta por planícies secas que se estendem pelas províncias de Jowzjan e Faryab.", fr: "Le Dasht-e Leili est une région désertique du nord de l'Afghanistan, composée de plaines arides s'étendant dans les provinces de Jowzjan et de Faryab."},
     facts: {
       de: ["Wüste im Norden.", "Karges Gelände.", "Erstreckt sich über mehrere Provinzen."],
@@ -798,7 +787,6 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     parent: "AF-KNR",
     coords: [70.8200, 34.8800],
     name: { de: "Korengal-Tal", hu: "Korengal-völgy", ro: "Valea Korengal", en: "Korengal Valley"},
-    image: "/poi-images/korengal-valley-relief-v2.webp",
     description: { de: "Das Korengal-Tal ist ein dicht bewaldetes, tiefes Tal in Ostafghanistan, das durch seine unzugängliche und steile Geländebeschaffenheit charakterisiert wird.", hu: "A Korengal-völgy egy sűrűn erdősült, mély völgy Kelet-Afganisztánban, amelyet megközelíthetetlen és meredek terepviszonyok jellemeznek.", ro: "Valea Korengal este o vale adâncă, dens împădurită din estul Afganistanului, caracterizată prin terenul său inaccesibil și abrupt.", en: "The Korengal Valley is a densely forested, deep valley in eastern Afghanistan, characterized by its inaccessible and steep terrain." , es: "El valle de Korengal es un valle profundo y densamente boscoso en el este de Afganistán, caracterizado por su terreno inaccesible y escarpado.", pt: "O vale de Korengal é um vale profundo e densamente arborizado no leste do Afeganistão, caracterizado pelo seu terreno inacessível e íngreme.", fr: "La vallée de Korengal est une vallée profonde et densément boisée de l'est de l'Afghanistan, caractérisée par un relief escarpé et inaccessible."},
     facts: {
       de: ["Im Osten Afghanistans.", "Dicht bewaldetes Tal.", "Schwer zugänglich."],
@@ -833,7 +821,6 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     parent: "AF-HER",
     coords: [63.0000, 34.0000],
     name: { de: "Siah Koh", hu: "Siah Koh", ro: "Siah Koh", en: "Siah Koh"},
-    image: "/poi-images/siah-koh-relief-v2.webp",
     description: { de: "Die Siah Koh, was auf Persisch 'Schwarzer Berg' bedeutet, sind eine Berggruppe, die sich durch den westlichen und zentralen Teil des Landes zieht.", hu: "A Siah Koh, ami perzsául 'Fekete-hegyet' jelent, egy hegycsoport, amely az ország nyugati és középső részén húzódik keresztül.", ro: "Siah Koh, care înseamnă 'Muntele Negru' în persană, este un grup muntos care se întinde prin părțile vestice și centrale ale țării.", en: "The Siah Koh, meaning 'Black Mountain' in Persian, is a mountain group stretching through the western and central parts of the country." , es: "Los Siah Koh, que en persa significa 'Montaña Negra', son un grupo de montañas que se extienden por las partes occidental y central del país.", pt: "As Siah Koh, que significa 'Montanha Negra' em persa, são um grupo de montanhas que atravessam a parte ocidental e central do país.", fr: "Les Siah Koh, ce qui signifie « Montagne Noire » en persan, sont un groupe de montagnes qui traversent les parties occidentale et centrale du pays."},
     facts: {
       de: ["Bedeutet 'Schwarzer Berg'.", "Rauer, dunkler Fels.", "Im Westen Afghanistans."],
@@ -1318,7 +1305,6 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     parent: "AF-KNR",
     coords: [71.0000, 34.9000],
     name: { de: "Pech-Tal", hu: "Pecs-völgy", ro: "Valea Pech", en: "Pech Valley"},
-    image: "/poi-images/pech-valley-relief-v2.webp",
     description: { de: "Das Pech-Tal ist ein steiles Flusstal in der Provinz Kunar, umgeben von zerklüfteten Bergen und tiefen Schluchten.", hu: "A Pecs-völgy egy meredek folyóvölgy Kunar tartományban, amelyet csipkézett hegyek és mély szurdokok vesznek körül.", ro: "Valea Pech este o vale abruptă a unui râu din provincia Kunar, înconjurată de munți stâncoși și chei adânci.", en: "The Pech Valley is a steep river valley in Kunar province, surrounded by craggy mountains and deep gorges." , es: "El valle de Pech es un valle fluvial empinado en la provincia de Kunar, rodeado de montañas escarpadas y desfiladeros profundos.", pt: "O vale de Pech é um vale fluvial íngreme na província de Kunar, rodeado por montanhas acidentadas e desfiladeiros profundos.", fr: "La vallée de Pech est une vallée fluviale encaissée de la province de Kunar, entourée de montagnes escarpées et de gorges profondes."},
     facts: {
       de: ["In der Provinz Kunar.", "Steiles und enges Tal.", "Nahe der pakistanischen Grenze."],
@@ -1353,7 +1339,6 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     parent: "AF-LOG",
     coords: [69.0000, 34.0000],
     name: { de: "Zarghun Ghar", hu: "Zarghun Ghar", ro: "Zarghun Ghar", en: "Zarghun Ghar"},
-    image: "/poi-images/zarghun-ghar-relief-v2.webp",
     description: { de: "Zarghun Ghar ist ein Gebirgsmassiv in der Nähe von Kandahar, das markante geologische Formationen aufweist.", hu: "A Logar tartományban található Zarghun Ghar egy jellegzetes hegylánc gyér növényzettel és száraz sziklaalakzatokkal.", ro: "Zarghun Ghar din provincia Logar este un lanț muntos distinct cu vegetație rară și formațiuni stâncoase aride.", en: "Zarghun Ghar in Logar province is a distinct mountain range with sparse vegetation and arid rock formations." , es: "Zarghun Ghar es un macizo montañoso cerca de Kandahar que presenta formaciones geológicas prominentes.", pt: "Zarghun Ghar é um maciço montanhoso perto de Kandahar que apresenta formações geológicas proeminentes.", fr: "Le Zarghun Ghar est un massif montagneux situé près de Kandahar, présentant des formations géologiques remarquables."},
     facts: {
       de: ["Höchster Punkt liegt über 3.500 Meter", "Teil des südlichen Ausläufers des Hindukusch", "Bedeutende Landmarke im Süden des Landes", "Karges Relief mit tiefen Schluchten"],

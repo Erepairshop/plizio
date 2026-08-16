@@ -8,7 +8,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-QC",
     coords: [-91.157, 15.029],
     name: { de: "Gumarcaaj Ruinen", hu: "Gumarcaaj romok", ro: "Ruinele Gumarcaaj", en: "Gumarcaaj Ruins"},
-    image: "/poi-images/gumarcaaj-ruins-history-v2.webp",
     description: { de: "Die letzte Hauptstadt des K'iche'-Königreichs, die von den Spaniern erobert und niedergebrannt wurde.", hu: "A K'iche' Királyság utolsó fővárosa, amelyet a spanyolok hódítottak meg és égettek fel.", ro: "Ultima capitală a regatului K'iche', cucerită și arsă de spanioli.", en: "The last capital of the K'iche' Kingdom, conquered and burned by the Spanish." , es: "La última capital del reino K'iche', que fue conquistada e incendiada por los españoles.", pt: "A última capital do reino K'iche', que foi conquistada e incendiada pelos espanhóis.", fr: "La dernière capitale du royaume K'iche', conquise et incendiée par les Espagnols."},
     facts: {
       de: ["Hauptstadt des K'iche'-Reiches", "1524 von Pedro de Alvarado zerstört", "Unterirdische Gänge und Höhlen", "Heute noch ein Ort für Maya-Zeremonien"],
@@ -45,7 +44,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-QZ",
     coords: [-91.55, 14.8],
     name: { de: "Schlacht von Quetzaltenango", hu: "Quetzaltenangói csata", ro: "Bătălia de la Quetzaltenango", en: "Battle of Quetzaltenango"},
-    image: "/poi-images/batalla-de-quetzaltenango-history-v2.webp",
     description: { de: "Eine entscheidende Schlacht im Jahr 1524, bei der die spanischen Konquistadoren die K'iche'-Maya besiegten.", hu: "Döntő csata 1524-ben, ahol a spanyol konkvisztádorok legyőzték a K'iche' majákat.", ro: "O bătălie decisivă în 1524, unde conchistadorii spanioli i-au învins pe mayașii K'iche'.", en: "A decisive battle in 1524 where the Spanish conquistadors defeated the K'iche' Maya." , es: "Una batalla decisiva en 1524 en la que los conquistadores españoles derrotaron a los mayas k'iche'.", pt: "Uma batalha decisiva em 1524, na qual os conquistadores espanhóis derrotaram os maias k'iche'.", fr: "Une bataille décisive en 1524 au cours de laquelle les conquistadors espagnols ont vaincu les Mayas K'iche'."},
     facts: {
       de: ["Fand 1524 statt", "Sieg für Pedro de Alvarado", "Tod des Maya-Anführers Tecun Uman", "Führte zur Eroberung des Hochlands"],
@@ -82,7 +80,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-PE",
     coords: [-90.057, 16.516],
     name: { de: "Ceibal Ruinen", hu: "Ceibal romok", ro: "Ruinele Ceibal", en: "Ceibal Ruins"},
-    image: "/poi-images/ceibal-ruins-history-v2.webp",
     description: { de: "Eine bedeutende Maya-Stätte am Río de la Pasión, bekannt für ihre feinen Stelen und Zeremonialarchitektur.", hu: "Jelentős maja lelőhely a La Pasión-folyó mentén, finoman kidolgozott sztéléiről és szertartási építészetéről ismert.", ro: "Un sit mayaș important pe malul râului Pasión, cunoscut pentru stelele sale fine și arhitectura ceremonială.", en: "A major Maya site on the Pasión River, known for its fine stelae and ceremonial architecture." , es: "Un importante sitio maya a orillas del río de la Pasión, conocido por sus finas estelas y arquitectura ceremonial.", pt: "Um importante sítio maia nas margens do Rio de la Pasión, conhecido pelas suas estelas finas e arquitetura cerimonial.", fr: "Un site maya important sur les rives du río de la Pasión, connu pour ses stèles raffinées et son architecture cérémonielle."},
     facts: {
       de: ["Blütezeit in der Spätklassik", "Runde Sternwarte", "Gut erhaltene Stelen", "Einflüsse aus Zentralmexiko"],
@@ -119,7 +116,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-PE",
     coords: [-90.294, 16.442],
     name: { de: "Dos Pilas Ruinen", hu: "Dos Pilas romok", ro: "Ruinele Dos Pilas", en: "Dos Pilas Ruins"},
-    image: "/poi-images/dos-pilas-ruins-history-v2.webp",
     description: { de: "Eine Maya-Hauptstadt, die in einen erbitterten Krieg mit Tikal verwickelt war.", hu: "Maja főváros, amely elkeseredett háborúban állt Tikallal.", ro: "O capitală mayașă implicată într-un război aprig cu Tikal.", en: "A Maya capital that was involved in a bitter war with Tikal." , es: "Una capital maya involucrada en una guerra encarnizada con Tikal.", pt: "Uma capital maia envolvida numa guerra feroz com Tikal.", fr: "Une capitale maya impliquée dans une guerre acharnée avec Tikal."},
     facts: {
       de: ["Gegründet von einem Prinzen aus Tikal", "Epizentrum eines langanhaltenden Krieges", "Hieroglyphentreppe, die die Geschichte erzählt", "Plötzlich verlassen und befestigt"],
@@ -156,7 +152,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-SA",
     coords: [-90.729, 14.553],
     name: { de: "Kloster Santo Domingo", hu: "Santo Domingo kolostor", ro: "Mănăstirea Santo Domingo", en: "Santo Domingo Monastery"},
-    image: "/poi-images/convento-de-santo-domingo-history-v2.webp",
     description: { de: "Die Ruinen eines der größten Klöster in Antigua, heute ein Hotel mit Museum.", hu: "Antigua egyik legnagyobb kolostorának romjai, ma szálloda múzeummal.", ro: "Ruinele uneia dintre cele mai mari mănăstiri din Antigua, astăzi un hotel cu muzeu.", en: "The ruins of one of the largest monasteries in Antigua, now a hotel with a museum." , es: "Las ruinas de uno de los conventos más grandes de Antigua, hoy convertido en hotel con museo.", pt: "As ruínas de um dos maiores conventos de Antigua, hoje um hotel com museu.", fr: "Les ruines de l'un des plus grands couvents d'Antigua, aujourd'hui un hôtel avec musée."},
     facts: {
       de: ["Gegründet im 16. Jahrhundert", "Durch Erdbeben 1773 zerstört", "Beherbergte zwei Kirchen", "Umfangreiche archäologische Stätte"],
@@ -193,7 +188,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-ES",
     coords: [-91.011, 14.397],
     name: { de: "El Baúl Stelen", hu: "El Baúl sztélék", ro: "Stelele El Baúl", en: "El Baúl Stelae"},
-    image: "/poi-images/el-baul-stelae-history-v2.webp",
     description: { de: "Eine archäologische Stätte, bekannt für ihre Stelen, die einige der ältesten Maya-Schriften enthalten.", hu: "Régészeti lelőhely, amely sztéléiről ismert, melyek a legkorábbi maja írások némelyikét tartalmazzák.", ro: "Un sit arheologic cunoscut pentru stelele sale, care conțin unele dintre cele mai vechi scrieri mayașe.", en: "An archaeological site known for its stelae, which contain some of the earliest Maya writing." , es: "Un sitio arqueológico conocido por sus estelas, que contienen algunas de las escrituras mayas más antiguas.", pt: "Um sítio arqueológico conhecido pelas suas estelas, que contêm algumas das escritas maias mais antigas.", fr: "Un site archéologique célèbre pour ses stèles, qui contiennent certains des plus anciens écrits mayas."},
     facts: {
       de: ["Frühe Maya-Schrift", "Stela 1 datiert auf 37 n. Chr.", "Teil der Cotzumalhuapa-Kultur", "Wichtige historische Aufzeichnungen"],
@@ -230,7 +224,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-PE",
     coords: [-89.283, 17.333],
     name: { de: "Archäologische Stätte La Blanca", hu: "La Blanca régészeti lelőhely", ro: "Situl arheologic La Blanca", en: "La Blanca Archaeological Site"},
-    image: "/poi-images/sitio-arqueologico-la-blanca-history-v2.webp",
     description: { de: "Eine große präklassische Maya-Stätte nahe der Grenze zu Belize.", hu: "Nagy preklasszikus maja lelőhely a belize-i határ közelében.", ro: "Un mare sit mayaș preclasic lângă granița cu Belize.", en: "A large preclassic Maya site near the border with Belize." , es: "Un gran sitio maya del Preclásico cerca de la frontera con Belice.", pt: "Um grande sítio maia do Pré-clássico perto da fronteira com o Belize.", fr: "Un grand site maya préclassique situé près de la frontière avec le Belize."},
     facts: {
       de: ["Präklassische Periode", "Beeindruckende Akropolis", "Zeigt frühe städtische Planung", "Wurde nie vollständig ausgegraben"],
@@ -267,7 +260,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-RE",
     coords: [-91.733, 14.646],
     name: { de: "Takalik Abaj Ruinen", hu: "Takalik Abaj romok", ro: "Ruinele Takalik Abaj", en: "Takalik Abaj Ruins"},
-    image: "/poi-images/takalik-abaj-ruins-history-v2.webp",
     description: { de: "Eine einzigartige Stätte, die Olmeken- und frühe Maya-Kultur miteinander verbindet.", hu: "Egyedülálló lelőhely, amely ötvözi az olmék és a korai maja kultúrát.", ro: "Un sit unic care îmbină cultura olmecă și cea mayașă timpurie.", en: "A unique site that blends Olmec and early Maya culture." , es: "Un sitio único que fusiona la cultura olmeca y la maya temprana.", pt: "Um sítio único que funde a cultura olmeca e a maia inicial.", fr: "Un site unique alliant les cultures olmèque et maya primitive."},
     facts: {
       de: ["UNESCO-Welterbe", "Olmec- und Maya-Einflüsse", "Wichtiger Handelspunkt", "Astronomische Ausrichtungen"],
@@ -304,7 +296,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-SA",
     coords: [-90.734, 14.557],
     name: { de: "Rathaus von Antigua", hu: "Antiguai Városháza", ro: "Primăria din Antigua", en: "Antigua City Hall Palace"},
-    image: "/poi-images/palacio-del-ayuntamiento-antigua-history-v2.webp",
     description: { de: "Das koloniale Rathaus am Zentralplatz von Antigua, heute ein Museum.", hu: "A gyarmati városháza Antigua központi terén, ma múzeum.", ro: "Primăria colonială din piața centrală a Antiguei, astăzi muzeu.", en: "The colonial city hall on Antigua's central square, now a museum." , es: "El ayuntamiento colonial en la plaza central de Antigua, hoy convertido en museo.", pt: "A câmara municipal colonial na praça central de Antigua, hoje um museu.", fr: "L'hôtel de ville colonial sur la place centrale d'Antigua, aujourd'hui un musée."},
     facts: {
       de: ["Erbaut Mitte des 18. Jahrhunderts", "Koloniale Verwaltungsarchitektur", "Museum für alte Waffen", "Blick auf den Platz"],
@@ -341,7 +332,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-CQ",
     coords: [-89.5, 14.833],
     name: { de: "Schlacht von La Arada", hu: "La Arada-i csata", ro: "Bătălia de la La Arada", en: "Battle of La Arada"},
-    image: "/poi-images/batalla-de-la-arada-history-v2.webp",
     description: { de: "Eine entscheidende Schlacht im Jahr 1851, die Guatemalas Souveränität gegen eine Invasion sicherte.", hu: "Döntő csata 1851-ben, amely biztosította Guatemala szuverenitását egy invázióval szemben.", ro: "O bătălie decisivă în 1851 care a asigurat suveranitatea Guatemalei împotriva unei invazii.", en: "A decisive battle in 1851 that secured Guatemala's sovereignty against an invasion." , es: "Una batalla decisiva en 1851 que aseguró la soberanía de Guatemala frente a una invasión.", pt: "Uma batalha decisiva em 1851 que garantiu a soberania da Guatemala contra uma invasão.", fr: "Une bataille décisive en 1851 qui a assuré la souveraineté du Guatemala contre une invasion."},
     facts: {
       de: ["Fand am 2. Februar 1851 statt", "Sieg für Guatemala unter Rafael Carrera", "Sicherte die Unabhängigkeit", "Wichtiger Nationalfeiertag"],
@@ -378,7 +368,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-PE",
     coords: [-89.891, 16.929],
     name: { de: "Fortín de San Carlos", hu: "San Carlos erőd", ro: "Fortăreața San Carlos", en: "San Carlos Fort"},
-    image: "/poi-images/fortin-de-san-carlos-history-v2.webp",
     description: { de: "Eine kleine Festung auf der Insel Flores, die zum Schutz gegen Piraten erbaut wurde.", hu: "Kis erőd a Flores-szigeten, amelyet a kalózok elleni védelemre építettek.", ro: "O mică fortăreață pe insula Flores, construită pentru a proteja împotriva piraților.", en: "A small fort on the island of Flores, built to protect against pirates." , es: "Un pequeño fuerte en la isla de Flores, construido para protegerse de los piratas.", pt: "Um pequeno forte na ilha de Flores, construído para proteção contra piratas.", fr: "Un petit fort sur l'île de Flores, construit pour se protéger des pirates."},
     facts: {
       de: ["Befindet sich auf der Insel Flores", "Erbaut zum Schutz vor Piraten", "Bietet Blick auf den See", "Historisches Wahrzeichen"],
@@ -415,7 +404,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-CM",
     coords: [-90.81, 14.65],
     name: { de: "Alte Kirche von Chimaltenango", hu: "Chimaltenango régi temploma", ro: "Biserica veche din Chimaltenango", en: "Old Church of Chimaltenango"},
-    image: "/poi-images/iglesia-vieja-chimaltenango-history-v2.webp",
     description: { de: "Die Ruinen einer Kolonialkirche, die durch Erdbeben zerstört wurde.", hu: "Egy gyarmati templom romjai, amelyet földrengések pusztítottak el.", ro: "Ruinele unei biserici coloniale distruse de cutremure.", en: "The ruins of a colonial church destroyed by earthquakes." , es: "Las ruinas de una iglesia colonial destruida por terremotos.", pt: "As ruínas de uma igreja colonial destruída por terremotos.", fr: "Les ruines d'une église coloniale détruite par des tremblements de terre."},
     facts: {
       de: ["Koloniale Kirchenruine", "Von mehreren Erdbeben betroffen", "Zeugnis der Geschichte der Region", "Stiller Ort der Besinnung"],
@@ -452,7 +440,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-PE",
     coords: [-89.89, 16.93],
     name: { de: "Eroberung von Tayasal", hu: "Tayasal meghódítása", ro: "Cucerirea Tayasal", en: "Conquest of Tayasal"},
-    image: "/poi-images/conquista-de-tayasal-history-v2.webp",
     description: { de: "Die Eroberung der letzten unabhängigen Maya-Stadt im Jahr 1697 auf der heutigen Insel Flores.", hu: "Az utolsó független maja város meghódítása 1697-ben a mai Flores-szigeten.", ro: "Cucerirea ultimului oraș mayaș independent în 1697 pe actuala insulă Flores.", en: "The conquest of the last independent Maya city in 1697, on what is now the island of Flores." , es: "La conquista de la última ciudad maya independiente en 1697, en la actual isla de Flores.", pt: "A conquista da última cidade maia independente em 1697, na atual ilha de Flores.", fr: "La conquête de la dernière cité maya indépendante en 1697, sur l'actuelle île de Flores."},
     facts: {
       de: ["Letztes unabhängiges Maya-Königreich", "Erobert am 13. März 1697", "Ende der Maya-Unabhängigkeit", "Hauptstadt war Nojpetén"],
@@ -489,7 +476,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-BV",
     coords: [-90.21, 15.11],
     name: { de: "Ruinen von San Jerónimo", hu: "San Jerónimo romok", ro: "Ruinele San Jerónimo", en: "Ruins of San Jerónimo"},
-    image: "/poi-images/ruinas-de-san-jeronimo-history-v2.webp",
     description: { de: "Ein ehemaliges Dominikanerkloster und Zuckergut, bekannt für seine Aquädukte.", hu: "Egykori dominikánus kolostor és cukorbirtok, amely vízvezetékeiről ismert.", ro: "O fostă mănăstire dominicană și moșie de zahăr, cunoscută pentru apeductele sale.", en: "A former Dominican monastery and sugar estate, known for its aqueducts." , es: "Un antiguo monasterio dominico y hacienda azucarera, conocido por sus acueductos.", pt: "Um antigo mosteiro dominicano e fazenda de açúcar, conhecido pelos seus aquedutos.", fr: "Un ancien monastère dominicain et domaine sucrier, réputé pour ses aqueducs."},
     facts: {
       de: ["Dominikanerkloster aus der Kolonialzeit", "Gut erhaltene Aquädukte", "Wichtige Zuckerproduktion", "Historisches Industriedenkmal"],
@@ -526,7 +512,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-PE",
     coords: [-89.4, 17.26],
     name: { de: "Nakum Ruinen", hu: "Nakum romok", ro: "Ruinele Nakum", en: "Nakum Ruins"},
-    image: "/poi-images/nakum-ruins-history-v2.webp",
     description: { de: "Eine bedeutende Maya-Stätte, die Teil des 'Kulturellen Dreiecks' mit Yaxhá und Naranjo ist.", hu: "Jelentős maja lelőhely, amely a Yaxhával és Naranjoval alkotott 'kulturális háromszög' része.", ro: "Un sit mayaș important care face parte din 'Triunghiul Cultural' cu Yaxhá și Naranjo.", en: "A major Maya site that is part of the 'Cultural Triangle' with Yaxhá and Naranjo." , es: "Un importante sitio maya que forma parte del 'Triángulo Cultural' junto con Yaxhá y Naranjo.", pt: "Um importante sítio maia que faz parte do 'Triângulo Cultural' com Yaxhá e Naranjo.", fr: "Un site maya majeur faisant partie du 'Triangle culturel' avec Yaxhá et Naranjo."},
     facts: {
       de: ["Große Akropolis", "Lange Besiedlungsgeschichte", "Wichtige Handelsroute", "Teil eines archäologischen Parks"],
@@ -608,7 +593,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-PE",
     coords: [-90.53, 16.49],
     name: { de: "Altar de Sacrificios", hu: "Altar de Sacrificios", ro: "Altar de Sacrificios", en: "Altar de Sacrificios"},
-    image: "/poi-images/altar-de-sacrificios-history-v2.webp",
     description: { de: "Eine wichtige Zeremonialstätte der Maya am Zusammenfluss der Flüsse Pasión und Usumacinta.", hu: "Fontos maja szertartási hely a Pasión és az Usumacinta folyók összefolyásánál.", ro: "Un important centru ceremonial mayaș la confluența râurilor Pasión și Usumacinta.", en: "An important Maya ceremonial center at the confluence of the Pasión and Usumacinta rivers." , es: "Un importante sitio ceremonial maya en la confluencia de los ríos Pasión y Usumacinta.", pt: "Um importante local cerimonial maia na confluência dos rios Pasión e Usumacinta.", fr: "Un site cérémoniel maya important au confluent des rivières Pasión et Usumacinta."},
     facts: {
       de: ["Strategische Lage am Fluss", "Handelszentrum", "Frühe Keramikfunde", "Beeinflusst von verschiedenen Maya-Gruppen"],
@@ -645,7 +629,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-QZ",
     coords: [-91.517, 14.835],
     name: { de: "Kirche San Nicolás", hu: "Szent Miklós-templom", ro: "Biserica San Nicolás", en: "San Nicolás Church"},
-    image: "/poi-images/iglesia-de-san-nicolas-quetzaltenango-history-v2.webp",
     description: { de: "Eine historische Kirche im Zentrum von Quetzaltenango mit einer bemerkenswerten Fassade.", hu: "Történelmi templom Quetzaltenango központjában, figyelemre méltó homlokzattal.", ro: "O biserică istorică în centrul orașului Quetzaltenango, cu o fațadă remarcabilă.", en: "A historic church in the center of Quetzaltenango with a remarkable facade." , es: "Una iglesia histórica en el centro de Quetzaltenango con una fachada notable.", pt: "Uma igreja histórica no centro de Quetzaltenango com uma fachada notável.", fr: "Une église historique au centre de Quetzaltenango avec une façade remarquable."},
     facts: {
       de: ["Barocke und neoklassizistische Elemente", "Teil des historischen Zentrums", "Wichtiger religiöser Ort", "Wurde nach Erdbeben wiederaufgebaut"],
@@ -682,7 +665,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-SA",
     coords: [-90.75, 14.57],
     name: { de: "Casa K'ojom Musikmuseum", hu: "Casa K'ojom Zenei Múzeum", ro: "Muzeul de Muzică Casa K'ojom", en: "Casa K'ojom Music Museum"},
-    image: "/poi-images/casa-k-ojom-jocotenango-history-v2.webp",
     description: { de: "Ein Museum, das der traditionellen Maya-Musik und den dazugehörigen Zeremonien gewidmet ist.", hu: "A hagyományos maja zenének és a hozzá kapcsolódó szertartásoknak szentelt múzeum.", ro: "Un muzeu dedicat muzicii tradiționale mayașe și ceremoniilor aferente.", en: "A museum dedicated to traditional Maya music and its related ceremonies." , es: "Un museo dedicado a la música tradicional maya y las ceremonias asociadas.", pt: "Um museu dedicado à música tradicional maia e às cerimónias associadas.", fr: "Un musée dédié à la musique traditionnelle maya et aux cérémonies associées."},
     facts: {
       de: ["Fokus auf Maya-Musik", "Sammlung traditioneller Instrumente", "Dokumentation von Tänzen und Ritualen", "Audio- und Videoarchive"],
@@ -719,7 +701,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-GU",
     coords: [-90.51, 14.64],
     name: { de: "Liberale Revolution von 1871", hu: "1871-es liberális forradalom", ro: "Revoluția Liberală din 1871", en: "Liberal Revolution of 1871"},
-    image: "/poi-images/revolucion-de-1871-history-v2.webp",
     description: { de: "Ein historisches Ereignis, das zum Sturz der konservativen Regierung führte und eine Ära liberaler Reformen einleitete.", hu: "Történelmi esemény, amely a konzervatív kormány megdöntéséhez vezetett és a liberális reformok korszakát nyitotta meg.", ro: "Un eveniment istoric care a dus la răsturnarea guvernului conservator și a inaugurat o eră de reforme liberale.", en: "A historical event that led to the overthrow of the conservative government and initiated an era of liberal reforms." , es: "Un evento histórico que llevó al derrocamiento del gobierno conservador e inició una era de reformas liberales.", pt: "Um evento histórico que levou ao derrube do governo conservador e iniciou uma era de reformas liberais.", fr: "Un événement historique qui a conduit au renversement du gouvernement conservateur et a instauré une ère de réformes libérales."},
     facts: {
       de: ["Angeführt von Miguel García Granados und Justo Rufino Barrios", "Modernisierung des Staates", "Trennung von Kirche und Staat", "Förderung des Kaffeeanbaus"],
@@ -756,7 +737,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-SA",
     coords: [-90.73, 14.55],
     name: { de: "Erdbeben von 1773", hu: "1773-as földrengés", ro: "Cutremurul din 1773", en: "Earthquake of 1773"},
-    image: "/poi-images/terremoto-de-1773-history-v2.webp",
     description: { de: "Die Erdbebenserie, die die damalige Hauptstadt Antigua Guatemala zerstörte und zur Gründung von Guatemala-Stadt führte.", hu: "A földrengéssorozat, amely elpusztította az akkori fővárost, Antigua Guatemalát, és Guatemalaváros megalapításához vezetett.", ro: "Seria de cutremure care a distrus capitala de atunci, Antigua Guatemala, și a dus la fondarea orașului Guatemala.", en: "The series of earthquakes that destroyed the then-capital, Antigua Guatemala, leading to the founding of Guatemala City." , es: "La serie de terremotos que destruyó la entonces capital Antigua Guatemala y llevó a la fundación de la Ciudad de Guatemala.", pt: "A série de sismos que destruiu a então capital Antigua Guatemala e levou à fundação da Cidade da Guatemala.", fr: "La série de tremblements de terre qui a détruit la capitale de l'époque, Antigua Guatemala, et entraîné la fondation de Guatemala City."},
     facts: {
       de: ["Zerstörte die Hauptstadt Antigua", "Führte zur Verlegung der Hauptstadt", "Die Ruinen prägen Antigua bis heute", "Santa-Marta-Erdbeben genannt"],
@@ -793,7 +773,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-SA",
     coords: [-90.735, 14.556],
     name: { de: "Münzprägeanstalt von Antigua", hu: "Antiguai Pénzverde", ro: "Casa Monetăriei din Antigua", en: "Antigua Mint"},
-    image: "/poi-images/casa-de-la-moneda-antigua-history-v2.webp",
     description: { de: "Die Ruinen der königlichen Münzprägeanstalt in Antigua, wo die ersten Münzen Mittelamerikas hergestellt wurden.", hu: "A királyi pénzverde romjai Antiguában, ahol Közép-Amerika első érméit verték.", ro: "Ruinele monetăriei regale din Antigua, unde au fost fabricate primele monede din America Centrală.", en: "The ruins of the royal mint in Antigua, where the first coins of Central America were produced." , es: "Las ruinas de la Real Casa de la Moneda en Antigua, donde se fabricaron las primeras monedas de Centroamérica.", pt: "As ruínas da Real Casa da Moeda em Antigua, onde foram produzidas as primeiras moedas da América Central.", fr: "Les ruines de la Maison royale de la monnaie à Antigua, où furent frappées les premières pièces d'Amérique centrale."},
     facts: {
       de: ["Gegründet 1731", "Herstellung der ersten Münzen in Mittelamerika", "Durch Erdbeben zerstört", "Historisches Wirtschaftsdenkmal"],
@@ -868,7 +847,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-PE",
     coords: [-90.25, 16.4],
     name: { de: "Petexbatún-Königreich", hu: "Petexbatún Királyság", ro: "Regatul Petexbatún", en: "Petexbatún Kingdom"},
-    image: "/poi-images/petexbatun-kingdom-history-v2.webp",
     description: { de: "Ein aggressives Maya-Königreich in der Spätklassik, zentriert um Dos Pilas und Aguateca.", hu: "Agresszív maja királyság a késő klasszikus korban, amelynek központja Dos Pilas és Aguateca volt.", ro: "Un regat mayaș agresiv în perioada clasică târzie, centrat în jurul Dos Pilas și Aguateca.", en: "An aggressive Maya kingdom in the Late Classic period, centered around Dos Pilas and Aguateca." , es: "Un agresivo reino maya del Clásico Tardío, centrado en Dos Pilas y Aguateca.", pt: "Um agressivo reino maia do Clássico Tardio, centrado em Dos Pilas e Aguateca.", fr: "Un royaume maya agressif de la période classique tardive, centré sur Dos Pilas et Aguateca."},
     facts: {
       de: ["Dominierte die Pasión-Region", "Bekannt für seine Kriegsführung", "Kollabierte schnell und gewaltsam", "Wichtige archäologische Erkenntnisse"],
@@ -905,7 +883,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-PE",
     coords: [-89.39, 17.53],
     name: { de: "Wandmalereien von San Bartolo", hu: "San Bartolo falfestményei", ro: "Picturile murale din San Bartolo", en: "San Bartolo Murals"},
-    image: "/poi-images/san-bartolo-murals-history-v2.webp",
     description: { de: "Eine präklassische Stätte, die einige der ältesten und komplexesten Maya-Wandmalereien enthält.", hu: "Preklasszikus lelőhely, amely a legősibb és legösszetettebb maja falfestmények némelyikét tartalmazza.", ro: "Un sit preclasic care conține unele dintre cele mai vechi și mai complexe picturi murale mayașe.", en: "A Preclassic site containing some of the oldest and most complex Maya murals." , es: "Un sitio preclásico que contiene algunas de las pinturas murales mayas más antiguas y complejas.", pt: "Um sítio pré-clássico que contém algumas das pinturas murais maias mais antigas e complexas.", fr: "Un site préclassique contenant certaines des peintures murales mayas les plus anciennes et les plus complexes."},
     facts: {
       de: ["Stammen aus ca. 100 v. Chr.", "Zeigen den Maya-Schöpfungsmythos", "Älteste bekannte Maya-Glyphenschrift", "Zufällig entdeckt im Jahr 2001"],
@@ -942,7 +919,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-GU",
     coords: [-90.521, 14.615],
     name: { de: "Die Liberale Reform", hu: "A liberális reform", ro: "Reforma Liberală", en: "The Liberal Reform"},
-    image: "/poi-images/la-reforma-liberal-history-v2.webp",
     description: { de: "Die Periode der Modernisierung nach 1871, symbolisiert durch den Torre del Reformador.", hu: "Az 1871 utáni modernizációs időszak, amelyet a Torre del Reformador szimbolizál.", ro: "Perioada de modernizare de după 1871, simbolizată de Torre del Reformador.", en: "The period of modernization after 1871, symbolized by the Torre del Reformador." , es: "El periodo de modernización después de 1871, simbolizado por la Torre del Reformador.", pt: "O período de modernização após 1871, simbolizado pela Torre del Reformador.", fr: "La période de modernisation après 1871, symbolisée par la Torre del Reformador."},
     facts: {
       de: ["Angeführt von Justo Rufino Barrios", "Säkularisierung und Bildung", "Infrastruktur- und Wirtschaftsaufbau", "Enteignung von Kirchenland"],
@@ -979,7 +955,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-IZ",
     coords: [-88.6, 15.7],
     name: { de: "Schlacht von Puerto Caballos", hu: "Puerto Caballos-i csata", ro: "Bătălia de la Puerto Caballos", en: "Battle of Puerto Caballos"},
-    image: "/poi-images/batalla-de-puerto-caballos-history-v2.webp",
     description: { de: "Eine Seeschlacht im 17. Jahrhundert, bei der Piraten eine spanische Festung angriffen.", hu: "Tengeri csata a 17. században, ahol kalózok támadtak meg egy spanyol erődöt.", ro: "O bătălie navală în secolul al XVII-lea, în care pirații au atacat o fortăreață spaniolă.", en: "A 17th-century naval battle where pirates attacked a Spanish fortress." , es: "Una batalla naval en el siglo XVII en la que piratas atacaron una fortaleza española.", pt: "Uma batalha naval no século XVII, na qual piratas atacaram uma fortaleza espanhola.", fr: "Une bataille navale au XVIIe siècle au cours de laquelle des pirates ont attaqué une forteresse espagnole."},
     facts: {
       de: ["Angriff von Piraten auf spanische Stellungen", "Teil der Konflikte in der Karibik", "Zeigt die Verwundbarkeit der Küste", "Führte zum Bau von Festungen"],
@@ -1016,7 +991,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-QC",
     coords: [-91.0, 15.4],
     name: { de: "Maya-Völkermord", hu: "Maja népirtás", ro: "Genocidul Mayaș", en: "Maya Genocide"},
-    image: "/poi-images/genocidio-maya-history-v2.webp",
     description: { de: "Die systematische Ermordung von Maya-Völkern während des guatemaltekischen Bürgerkriegs (1960-1996).", hu: "A maja népek szisztematikus meggyilkolása a guatemalai polgárháború alatt (1960-1996).", ro: "Uciderea sistematică a popoarelor mayașe în timpul războiului civil din Guatemala (1960-1996).", en: "The systematic killing of Maya peoples during the Guatemalan Civil War (1960-1996)." , es: "El asesinato sistemático de pueblos mayas durante la guerra civil guatemalteca (1960-1996).", pt: "O assassinato sistemático de povos maias durante a guerra civil guatemalteca (1960-1996).", fr: "Le massacre systématique des populations mayas pendant la guerre civile guatémaltèque (1960-1996)."},
     facts: {
       de: ["Höhepunkt in den frühen 1980er Jahren", "Besonders betroffen: Ixil-Region", "Von der UN als Völkermord eingestuft", "Dunkles Kapitel der Geschichte"],
@@ -1053,7 +1027,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-GU",
     coords: [-90.513, 14.643],
     name: { de: "Unterzeichnung der Friedensverträge", hu: "A békeszerződések aláírása", ro: "Semnarea Acordurilor de Pace", en: "Signing of the Peace Accords"},
-    image: "/poi-images/firma-de-la-paz-history-v2.webp",
     description: { de: "Der formelle Akt am 29. Dezember 1996, der den 36-jährigen Bürgerkrieg in Guatemala beendete.", hu: "A formális aktus 1996. december 29-én, amely lezárta a 36 éves polgárháborút Guatemalában.", ro: "Actul formal din 29 decembrie 1996 care a pus capăt războiului civil de 36 de ani din Guatemala.", en: "The formal act on December 29, 1996, that ended the 36-year-long civil war in Guatemala." , es: "El acto formal del 29 de diciembre de 1996 que puso fin a la guerra civil de 36 años en Guatemala.", pt: "O ato formal em 29 de dezembro de 1996 que encerrou a guerra civil de 36 anos na Guatemala.", fr: "L'acte formel du 29 décembre 1996 qui a mis fin à 36 ans de guerre civile au Guatemala."},
     facts: {
       de: ["Beendete den Bürgerkrieg", "Unterzeichnet im Nationalpalast", "Verhandelt mit UN-Vermittlung", "Symbolisiert durch das Friedensdenkmal"],
@@ -1090,7 +1063,6 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     parent: "GT-SA",
     coords: [-90.732, 14.555],
     name: { de: "Karmeliterinnenkloster Antigua", hu: "Antiguai Kármelita Kolostor", ro: "Mănăstirea Carmelită din Antigua", en: "Antigua Carmelite Convent"},
-    image: "/poi-images/antigua-carmelite-convent-history-v2.webp",
     description: { de: "Die Ruinen eines weiteren bedeutenden Nonnenklosters in der ehemaligen Hauptstadt.", hu: "Egy másik jelentős apácakolostor romjai az egykori fővárosban.", ro: "Ruinele unei alte mănăstiri importante de maici din fosta capitală.", en: "The ruins of another significant nunnery in the former capital." , es: "Las ruinas de otro importante convento de monjas en la antigua capital.", pt: "As ruínas de outro importante convento de freiras na antiga capital.", fr: "Les ruines d'un autre couvent de religieuses important dans l'ancienne capitale."},
     facts: {
       de: ["Erbaut im 17. Jahrhundert", "Strenge Klausurregeln", "Von Erdbeben beschädigt", "Architektonische Schönheit der Ruinen"],

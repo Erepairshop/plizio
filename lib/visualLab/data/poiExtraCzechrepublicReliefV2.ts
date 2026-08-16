@@ -88,8 +88,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "peak",
     name: { de: "Schneekoppe", hu: "Sněžka", ro: "Snezka", en: "Snezka"},
-    image: "/poi-images/czechrepublic-snezka-relief-v2.webp",
-    coords: [15.7402, 50.7361],
     coords: [15.7402, 50.7361],
     description: {
       de: "Die Schneekoppe ist mit 1603 Metern der höchste Berg der Tschechischen Republik und liegt im Riesengebirge an der Grenze zu Polen. Der Gipfel ist ein beliebtes Ziel für Wanderer und über eine Seilbahn erreichbar.",
@@ -180,8 +178,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "peak",
     name: { de: "Altvater", hu: "Praděd", ro: "Praded", en: "Praded"},
-    image: "/poi-images/czechrepublic-praded-relief-v2.webp",
-    coords: [17.2311, 50.0831],
     coords: [17.2311, 50.0831],
     description: {
       de: "Der Altvater ist mit 1491 Metern der höchste Berg Mährens und des Altvatergebirges. Auf seinem Gipfel steht ein 162 Meter hoher Fernsehturm, dessen Spitze den höchsten künstlichen Punkt des Landes markiert.",
@@ -227,8 +223,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "peak",
     name: { de: "Kahlberg", hu: "Lysá hora", ro: "Lysa hora", en: "Lysa hora"},
-    image: "/poi-images/czechrepublic-lysa-hora-relief-v2.webp",
-    coords: [18.4475, 49.5461],
     coords: [18.4475, 49.5461],
     description: {
       de: "Der Kahlberg ist mit 1323 Metern der höchste Gipfel der Mährisch-Schlesischen Beskiden. Er ist bekannt für seine anspruchsvollen Wanderwege und den Panoramablick bis in die Slowakei.",
@@ -355,8 +349,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "peak",
     name: { de: "Keilberg", hu: "Klínovec", ro: "Klinovec", en: "Klinovec"},
-    image: "/poi-images/czechrepublic-klinovec-relief-v2.webp",
-    coords: [12.9675, 50.3958],
     coords: [12.9675, 50.3958],
     description: {
       de: "Der Keilberg ist der höchste Gipfel des Erzgebirges mit einer Höhe von 1244 Metern. Er liegt in der Nähe der Grenze zu Deutschland und ist ein bedeutendes Zentrum für Wintersport.",
@@ -663,8 +655,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "peak",
     name: { de: "Milleschauer", hu: "Milešovka", ro: "Milesovka", en: "Milesovka"},
-    image: "/poi-images/czechrepublic-milesovka-relief-v2.webp",
-    coords: [13.9312, 50.5552],
     coords: [13.9312, 50.5552],
     description: {
       de: "Der Milleschauer ist mit 837 Metern der höchste Berg des Böhmischen Mittelgebirges. Er gilt als der windigste Ort Tschechiens und bietet einen der schönsten Ausblicke Mitteleuropas.",
@@ -971,8 +961,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "peak",
     name: { de: "Deschneyer Großkoppe", hu: "Velká Deštná", ro: "Velka Destna", en: "Velka Destna"},
-    image: "/poi-images/czechrepublic-velka-destna-relief-v2.webp",
-    coords: [16.3842, 50.3015],
     coords: [16.3842, 50.3015],
     description: {
       de: "Die Deschneyer Großkoppe ist mit 1115 Metern der höchste Gipfel des Adlergebirges. Eine moderne Aussichtsplattform auf dem Gipfel bietet einen weiten Blick über Ostböhmen und Polen.",
@@ -1315,8 +1303,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "peak",
     name: { de: "Plöckenstein", hu: "Plechý", ro: "Plechy", en: "Plechy"},
-    image: "/poi-images/czechrepublic-plechy-relief-v2.webp",
-    coords: [13.8542, 48.7711],
     coords: [13.8542, 48.7711],
     description: {
       de: "Der Plöckenstein ist mit 1378 Metern der höchste Berg des Böhmerwaldes auf tschechischem Gebiet. Er liegt im Dreiländereck zwischen Tschechien, Österreich und Deutschland.",
@@ -1623,8 +1609,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "peak",
     name: { de: "Tafelfichte", hu: "Smrk", ro: "Smrk", en: "Smrk"},
-    image: "/poi-images/czechrepublic-smrk-relief-v2.webp",
-    coords: [15.2711, 50.8889],
     coords: [15.2711, 50.8889],
     description: {
       de: "Die Tafelfichte ist mit 1124 Metern der höchste Gipfel des tschechischen Teils des Isergebirges. Auf dem Gipfel steht ein stählerner Aussichtsturm mit Blick auf Böhmen, Sachsen und Schlesien.",
@@ -1931,8 +1915,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "peak",
     name: { de: "Lausche", hu: "Luž", ro: "Luz", en: "Luz"},
-    image: "/poi-images/czechrepublic-luz-relief-v2.webp",
-    coords: [14.6475, 50.8492],
     coords: [14.6475, 50.8492],
     description: {
       de: "Die Lausche ist mit 793 Metern der höchste Gipfel des Lausitzer Gebirges. Der Berg ist vulkanischen Ursprungs und liegt direkt auf der Staatsgrenze zwischen Tschechien und Deutschland.",
@@ -2239,8 +2221,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "peak",
     name: { de: "Neun Felsen", hu: "Devět skal", ro: "Devet skal", en: "Devet skal"},
-    image: "/poi-images/czechrepublic-devet-skal-relief-v2.webp",
-    coords: [16.0319, 49.6703],
     coords: [16.0319, 49.6703],
     description: {
       de: "Neun Felsen ist mit 836 Metern der höchste Gipfel der Saarer Berge (Žďárské vrchy). Der Name leitet sich von einer Gruppe aus neun markanten Felsformationen auf dem Bergrücken ab.",
@@ -2583,8 +2563,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "peak",
     name: { de: "Großer Jauerling", hu: "Velká Javořina", ro: "Velka Javorina", en: "Velka Javorina"},
-    image: "/poi-images/czechrepublic-velka-javorina-relief-v2.webp",
-    coords: [17.6758, 48.8578],
     coords: [17.6758, 48.8578],
     description: {
       de: "Der Große Jauerling ist mit 970 Metern der höchste Berg der Weißen Karpaten. Er ist ein Symbol der tschechisch-slowakischen Verbundenheit und beherbergt einen bedeutenden Sendemast.",
@@ -2855,8 +2833,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "peak",
     name: { de: "Tok", hu: "Tok", ro: "Tok", en: "Tok"},
-    image: "/poi-images/czechrepublic-tok-relief-v2.webp",
-    coords: [13.8403, 49.7028],
     coords: [13.8403, 49.7028],
     description: {
       de: "Der Tok ist mit 865 Metern die höchste Erhebung des Brdy-Gebirges in Mittelböhmen. Das Gebiet war lange Zeit ein Truppenübungsplatz und ist heute Teil eines Landschaftsschutzgebiets.",
@@ -2902,8 +2878,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "peak",
     name: { de: "Radhost", hu: "Radhošť", ro: "Radhost", en: "Radhost"},
-    image: "/poi-images/czechrepublic-radhost-relief-v2.webp",
-    coords: [18.2197, 49.4853],
     coords: [18.2197, 49.4853],
     description: {
       de: "Der Radhost ist ein 1129 Meter hoher Berg in den Beskiden, der eng mit der slawischen Mythologie verknüpft ist. Er beherbergt eine markante Statue des Gottes Radegast und eine Kapelle.",
@@ -2949,8 +2923,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "peak",
     name: { de: "Hochschar", hu: "Šerák", ro: "Serak", en: "Serak"},
-    image: "/poi-images/czechrepublic-serak-relief-v2.webp",
-    coords: [17.1083, 50.1872],
     coords: [17.1083, 50.1872],
     description: {
       de: "Der Hochschar ist ein 1351 Meter hoher Berg im Altvatergebirge. Er ist bekannt für seine historische Berghütte 'Jiřího na Šeráku' und dient als wichtiger Knotenpunkt für Bergwanderungen.",
@@ -3001,8 +2973,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "landmark",
     name: { de: "Georgsberg", hu: "Říp", ro: "Rip", en: "Rip"},
-    image: "/poi-images/czechrepublic-rip-relief-v2.webp",
-    coords: [14.2894, 50.3861],
     coords: [14.2894, 50.3861],
     description: {
       de: "Der Georgsberg ist ein markanter Basaltkegel in Mittelböhmen, der als nationales Symbol Tschechiens gilt. Einer Legende nach ließ sich hier der Urvater Tschech mit seinem Volk nieder.",
@@ -3048,8 +3018,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "landmark",
     name: { de: "Prebischtor", hu: "Pravčická brána", ro: "Poarta Pravcicka", en: "Pravcicka brana"},
-    image: "/poi-images/czechrepublic-pravcicka-brana-relief-v2.webp",
-    coords: [14.2814, 50.8842],
     coords: [14.2814, 50.8842],
     description: {
       de: "Das Prebischtor ist die größte natürliche Sandstein-Felsbrücke Europas. Es befindet sich in der Böhmischen Schweiz und gilt als eines der beeindruckendsten Naturdenkmäler des Landes.",
@@ -3100,8 +3068,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "valley",
     name: { de: "Thayatal", hu: "Podyjí", ro: "Valea Thaya", en: "Podyji Valley"},
-    image: "/poi-images/czechrepublic-podyji-relief-v2.webp",
-    coords: [15.9, 48.85],
     coords: [15.9, 48.85],
     description: {
       de: "Das Thayatal ist ein tief eingeschnittenes Flusstal an der Grenze zu Österreich. Der Fluss Thaya hat hier über Jahrtausende beeindruckende Mäander und steile Felswände in das Massiv geformt.",
@@ -3372,8 +3338,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "landmark",
     name: { de: "Pollauer Berge", hu: "Pálava", ro: "Dealurile Palava", en: "Palava Hills"},
-    image: "/poi-images/czechrepublic-palava-relief-v2.webp",
-    coords: [16.65, 48.8333],
     coords: [16.65, 48.8333],
     description: {
       de: "Die Pollauer Berge sind ein markanter Kalksteinzug in Südmähren. Die weißen Felsen ragen steil aus der umliegenden Tiefebene empor und beherbergen eine einzigartige Flora und Fauna.",
@@ -3419,8 +3383,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "landmark",
     name: { de: "Tyssaer Wände", hu: "Tisái-falak", ro: "Stancile Tisa", en: "Tisa Walls"},
-    image: "/poi-images/czechrepublic-tiske-steny-relief-v2.webp",
-    coords: [14.0306, 50.7889],
     coords: [14.0306, 50.7889],
     description: {
       de: "Die Tyssaer Wände sind eine beeindruckende Felslandschaft am Rande der Böhmischen Schweiz. Das Sandstein-Labyrinth ist bekannt für seine vielfältigen Formen, die oft an Figuren erinnern.",
@@ -3691,8 +3653,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "mountain",
     name: { de: "Altvatergebirge", hu: "Hrubý Jeseník", ro: "Hruby Jesenik", en: "Hruby Jesenik"},
-    image: "/poi-images/czechrepublic-hruby-jesenik-relief-v2.webp",
-    coords: [17.2, 50.1],
     coords: [17.2, 50.1],
     description: {
       de: "Das Altvatergebirge ist der zweithöchste Gebirgszug Tschechiens. Es liegt in Mähren und Schlesien und ist geprägt von tiefen Wäldern, Hochmooren und kahlen Bergrücken.",
@@ -3964,7 +3924,6 @@ export const czechrepublicReliefV2: POI[] = [
     type: "mountain",
     name: { de: "Böhmisches Mittelgebirge", hu: "Cseh-középhegység", ro: "Munții Centrali Boemi", en: "Central Bohemian Uplands"},
     image: "/poi-images/czechrepublic-ceske-stredohori-relief-v2.webp",
-    coords: [14.0, 50.5],
     coords: [14, 50.5],
     description: {
       de: "Das Böhmische Mittelgebirge ist eine einzigartige vulkanische Landschaft in Nordböhmen. Es zeichnet sich durch markante kegelförmige Berge aus, die durch tertiären Vulkanismus entstanden sind.",
@@ -4270,8 +4229,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "valley",
     name: { de: "Elbeniederung", hu: "Polabí", ro: "Câmpia Elbei", en: "Elbe Lowlands"},
-    image: "/poi-images/czechrepublic-polabi-relief-v2.webp",
-    coords: [15.0, 50.1],
     coords: [15, 50.1],
     description: {
       de: "Die Elbeniederung ist eine fruchtbare Ebene entlang des Mittellaufs der Elbe in Mittel- und Ostböhmen. Sie bildet das landwirtschaftliche Herzstück Tschechiens und ist geprägt von sanften Hügeln.",
@@ -4813,7 +4770,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "mountain",
     name: { de: "Oberpfälzer Wald", hu: "Cseh-erdő", ro: "Pădurea Boemiei Superioare", en: "Upper Palatine Forest"},
-    image: "/poi-images/czechrepublic-upper-palatine-forest-relief-v2.webp",
     coords: [12.6, 49.6],
     description: {
       de: "Der Oberpfälzer Wald, in Tschechien Český les genannt, erstreckt sich entlang der westlichen Grenze zu Bayern. Er ist ein waldreiches Mittelgebirge mit sanften Bergrücken.",
@@ -5192,7 +5148,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "mountain",
     name: { de: "Eisengebirge", hu: "Vas-hegység", ro: "Munții Železné", en: "Iron Mountains"},
-    image: "/poi-images/czechrepublic-iron-mountains-relief-v2.webp",
     coords: [15.6, 49.85],
     description: {
       de: "Das Eisengebirge ist ein geologisch vielfältiges Gebirge in Ostböhmen. Die Region ist als nationaler Geopark anerkannt und für ihre tiefen Täler und Stauseen bekannt.",
@@ -5535,7 +5490,6 @@ export const czechrepublicReliefV2: POI[] = [
     parent: "CZ",
     type: "mountain",
     name: { de: "Marsgebirge", hu: "Chřiby-hegység", ro: "Munții Chřiby", en: "Chřiby Mountains"},
-    image: "/poi-images/czechrepublic-chriby-mountains-relief-v2.webp",
     coords: [17.25, 49.15],
     description: {
       de: "Die Chřiby sind ein bewaldetes Bergland in Mähren, das für seine Sandsteinfelsen und historischen Denkmäler bekannt ist. Sie bilden den höchsten Teil der Mittelmährischen Karpaten.",

@@ -12,7 +12,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: "Tacugama Csimpánz Rezervátum",
       ro: "Sanctuarul de Cimpanzei Tacugama",
       en: "Tacugama Chimpanzee Sanctuary"},
-    image: "/poi-images/tacugama-chimpanzee-life-v2.webp",
     description: {
       de: "In den nebligen Hügeln nahe Freetown finden gerettete Schimpansen ein sicheres Zuhause und Schutz im dichten Regenwald.",
       hu: "Freetown közeli ködös dombok között megmentett csimpánzok találnak biztonságos otthonra a sűrű esőerdőben.",
@@ -60,7 +59,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: "Mamunta-Mayosso Vadvédelmi Terület",
       ro: "Rezervația de Faună Mamunta-Mayosso",
       en: "Mamunta-Mayosso Wildlife Sanctuary"},
-    image: "/poi-images/mamunta-mayosso-life-v2.webp",
     description: {
       de: "Dieses Feuchtgebiet im Herzen des Landes ist ein Paradies für seltene Vögel und das vom Aussterben bedrohte Zwergkrokodil.",
       hu: "Ez a vizes élőhely az ország szívében ritka madarak és a kihalófélben lévő törpe-krokodil paradicsoma.",
@@ -108,7 +106,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: "Moa-folyó elefánt-folyosó",
       ro: "Coridorul elefanților de pe râul Moa",
       en: "Moa River Elephant Corridor"},
-    image: "/poi-images/moa-river-elephant-life-v2.webp",
     description: {
       de: "Entlang des Moa-Flusses ziehen majestätische Waldelefanten durch die grünen Wälder, ein seltener Anblick in Westafrika.",
       hu: "A Moa-folyó mentén fenséges erdei elefántok vonulnak a zöld erdőkön át, ami ritka látvány Nyugat-Afrikában.",
@@ -201,7 +198,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: "Bumbuna erdei élőhely",
       ro: "Habitatul forestier Bumbuna",
       en: "Bumbuna Forest Habitat"},
-    image: "/poi-images/bumbuna-forest-life-v2.webp",
     description: {
       de: "Die dichten Wälder rund um die Bumbuna-Region beherbergen eine Vielzahl von Primaten und exotischen Schmetterlingen.",
       hu: "A Bumbuna régió körüli sűrű erdők számos primátának és egzotikus pillangónak adnak otthont.",
@@ -249,7 +245,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: "Sherbro-folyó lamantin élőhely",
       ro: "Habitatul lamantinilor de pe râul Sherbro",
       en: "Sherbro River Manatee Habitat"},
-    image: "/poi-images/sherbro-river-manatee-life-v2.webp",
     description: {
       de: "In den ruhigen Gewässern des Sherbro-Flusses leben die geheimnisvollen westafrikanischen Seekühe zwischen den Mangroven.",
       hu: "A Sherbro-folyó nyugodt vizeiben rejtélyes nyugat-afrikai lamantinok élnek a mangroveerdők között.",
@@ -297,7 +292,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: "Sankanya Natúrpark",
       ro: "Parcul Natural Sankanya",
       en: "Sankanya Nature Park"},
-    image: "/poi-images/sankanya-nature-life-v2.webp",
     description: {
       de: "Ein unberührtes Gebiet im hohen Norden, wo Antilopen und Leoparden in der weiten Savannenlandschaft umherstreifen.",
       hu: "Északi érintetlen terület, ahol antilopok és leopárdok kóborolnak a tágas szavannai tájakon.",
@@ -390,7 +384,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: "Pampana-folyó víziló-medence",
       ro: "Bazinul hipopotamilor de pe râul Pampana",
       en: "Pampana River Hippo Pools"},
-    image: "/poi-images/pampana-river-hippo-life-v2.webp",
     description: {
       de: "In den tiefen Becken des Pampana-Flusses kann man Flusspferde beobachten, wie sie tagsüber im kühlen Wasser ruhen.",
       hu: "A Pampana-folyó mély medencéiben vízilovakat figyelhetünk meg, ahogy nappal a hűvös vízben pihennek.",
@@ -438,7 +431,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: "Kabala állattenyésztő vidék",
       ro: "Regiunea de creștere a animalelor Kabala",
       en: "Kabala Cattle Ranching Region"},
-    image: "/poi-images/kabala-cattle-ranch-life-v2.webp",
     description: {
       de: "Die kühleren Hochebenen rund um Kabala sind das Zentrum der traditionellen Rinderzucht des Fulbe-Volkes.",
       hu: "A Kabala körüli hűvösebb fennsíkok a fula nép hagyományos szarvasmarha-tenyésztésének központjai.",
@@ -486,7 +478,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: "Kenema kakaó-faiskolák",
       ro: "Pepinierele de cacao din Kenema",
       en: "Kenema Cocoa Nurseries"},
-    image: "/poi-images/kenema-cocoa-nurseries-life-v2.webp",
     description: {
       de: "Im Schatten großer Waldbäume wachsen junge Kakaopflanzen heran, bevor sie auf die Plantagen im fruchtbaren Osten verteilt werden.",
       hu: "Hatalmas erdei fák árnyékában fiatal kakaópalánták növekednek, mielőtt a termékeny keleti ültetvényekre kerülnének.",
@@ -534,7 +525,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: "Kailahun kávéültetvények",
       ro: "Plantațiile de cafea din Kailahun",
       en: "Kailahun Coffee Farms"},
-    image: "/poi-images/kailahun-coffee-farms-life-v2.webp",
     description: {
       de: "An den Hängen nahe der Grenze zu Guinea gedeihen Robusta-Kaffeebohnen, die für ihr kräftiges Aroma bekannt sind.",
       hu: "A Guinea-határ menti lankákon Robusta kávébab terem, amely erős aromájáról híres.",
@@ -582,7 +572,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: "Kambia rizsföldek",
       ro: "Polderele de orez din Kambia",
       en: "Kambia Rice Polders"},
-    image: "/poi-images/kambia-rice-polders-life-v2.webp",
     description: {
       de: "Die weiten, durch Dämme geschützten Reisfelder in Kambia nutzen den fruchtbaren Schlamm der Gezeitenflüsse.",
       hu: "A gátakkal védett kiterjedt kambia-i rizsföldek az árapály-folyók termékeny iszapját hasznosítják.",
@@ -630,7 +619,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: "Magbosi kisgazdaságok",
       ro: "Fermele micilor proprietari Magbosi",
       en: "Magbosi Smallholder Farms"},
-    image: "/poi-images/magbosi-smallholder-farms-life-v2.webp",
     description: {
       de: "In der Magbosi-Region bauen lokale Gemeinschaften eine Vielzahl von Feldfrüchten wie Maniok und Erdnüsse für den Eigenbedarf an.",
       hu: "A Magbosi régióban a helyi közösségek számos növényt, például maniókát és földimogyorót termesztenek saját szükségletre.",
@@ -771,7 +759,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: "Port Loko kesudió-ligetek",
       ro: "Livezile de caju din Port Loko",
       en: "Port Loko Cashew Orchards"},
-    image: "/poi-images/port-loko-cashew-life-v2.webp",
     description: {
       de: "In Port Loko wachsen tausende Cashew-Bäume, deren Nüsse ein wertvolles Exportgut für die Bauern der Region darstellen.",
       hu: "Port Loko-ban több ezer kesudiófa nő, amelyek diói értékes exportcikket jelentenek a régió gazdái számára.",
@@ -900,7 +887,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: "Tane gyömbérföldek",
       ro: "Câmpurile de ghimbir din Tane",
       en: "Tane Ginger Farms"},
-    image: "/poi-images/tane-ginger-farms-life-v2.webp",
     description: {
       de: "Die Tane-Region ist bekannt für ihren würzigen Ingwer, der in den lockeren Böden der sanften Hügel hervorragend gedeiht.",
       hu: "A Tane régió híres fűszeres gyömbéréről, amely kiválóan terem a lankás dombok laza talajában.",
@@ -948,7 +934,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: "Victoria Park játszótér",
       ro: "Locul de joacă Victoria Park",
       en: "Victoria Park Playground"},
-    image: "/poi-images/victoria-park-playground-life-v2.webp",
     description: {
       de: "Im Herzen von Freetown bietet dieser Park Raum zum Spielen und Entspannen inmitten des geschäftigen Stadtzentrums.",
       hu: "Freetown szívében ez a park játékra és kikapcsolódásra nyújt lehetőséget a nyüzsgő városközpont közepén.",
@@ -1077,7 +1062,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: "Lakka gyermek-strand",
       ro: "Plaja pentru copii Lakka",
       en: "Lakka Children's Beach"},
-    image: "/poi-images/lakka-childrens-beach-life-v2.webp",
     description: {
       de: "Das flache Wasser und der feine Sand von Lakka machen diesen Strand zu einem sicheren Paradies für kleine Schwimmer.",
       hu: "Lakka sekély vize és finom homokja biztonságos paradicsommá teszi ezt a strandot a kis úszók számára.",
@@ -1125,7 +1109,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: "Bo gyermekpark",
       ro: "Parcul copiilor din Bo",
       en: "Bo Children's Park"},
-    image: "/poi-images/bo-childrens-park-life-v2.webp",
     description: {
       de: "Ein bunter Ort in der zweitgrößten Stadt des Landes, wo Kinder auf Schaukeln und Klettergerüsten toben können.",
       hu: "Színes hely az ország második legnagyobb városában, ahol a gyerekek hintákon és mászókákon játszhatnak.",
@@ -1173,7 +1156,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: "Makeni gyerek-zóna",
       ro: "Zona pentru copii din Makeni",
       en: "Makeni Kids Zone"},
-    image: "/poi-images/makeni-kids-zone-life-v2.webp",
     description: {
       de: "Ein moderner Freizeitbereich in Makeni, der speziell für Kinder mit verschiedenen Spielgeräten gestaltet wurde.",
       hu: "Modern szabadidős terület Makeni-ben, amelyet kifejezetten gyerekeknek terveztek különféle játékszerekkel.",

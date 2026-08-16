@@ -8,7 +8,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-12",
     coords: [-76.7833, 20.35],
     name: { de: "Río Toa", hu: "Toa-folyó", ro: "Râul Toa", en: "Toa River"},
-    image: "/poi-images/rio-toya-nature-v2.webp",
     description: {
       de: "Einer der wasserreichsten und ökologisch bedeutendsten Flüsse Kubas, bekannt für seine unberührte Natur.",
       hu: "Kuba egyik legbővizűbb és ökológiailag legjelentősebb folyója, érintetlen természetéről ismert.",
@@ -52,7 +51,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-11",
     coords: [-75.4833, 20.5833],
     name: { de: "Pico Cristal", hu: "Pico Cristal", ro: "Pico Cristal", en: "Pico Cristal"},
-    image: "/poi-images/pico-cristal-nature-v2.webp",
     description: {
       de: "Ein markanter Gipfel in der Sierra del Cristal, dem ersten Nationalpark Kubas.",
       hu: "Jellegzetes csúcs a Sierra del Cristal hegységben, Kuba első nemzeti parkjában.",
@@ -96,7 +94,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-13",
     coords: [-75.6269, 20.0083],
     name: { de: "La Gran Piedra", hu: "La Gran Piedra", ro: "La Gran Piedra", en: "The Great Stone"},
-    image: "/poi-images/gran-piedra-nature-v2.webp",
     description: {
       de: "Ein riesiger vulkanischer Felsen in der Nähe von Santiago de Cuba, der einen Panoramablick bietet.",
       hu: "Hatalmas vulkáni szikla Santiago de Cuba közelében, panorámás kilátással.",
@@ -140,7 +137,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-99",
     coords: [-81.5, 21.6333],
     name: { de: "Cayo Largo del Sur", hu: "Cayo Largo del Sur", ro: "Cayo Largo del Sur", en: "Cayo Largo del Sur"},
-    image: "/poi-images/cayo-largo-del-sur-nature-v2.webp",
     description: {
       de: "Eine kleine Ferieninsel im Süden Kubas, berühmt für ihre unberührten Korallenriffe und weißen Strände.",
       hu: "Kis üdülősziget Kuba déli részén, híres érintetlen korallzátonyairól és fehér strandjairól.",
@@ -184,7 +180,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-07",
     coords: [-79.0833, 22.4167],
     name: { de: "Nationalpark Caguanes", hu: "Caguanes Nemzeti Park", ro: "Parcul Național Caguanes", en: "Caguanes National Park"},
-    image: "/poi-images/parque-nacional-caguanes-nature-v2.webp",
     description: {
       de: "Ein Nationalpark, der Küstenökosysteme, Höhlen mit Felsmalereien und Mangrovenwälder schützt.",
       hu: "Nemzeti park, amely parti ökoszisztémákat, sziklafestményekkel díszített barlangokat és mangroveerdőket véd.",
@@ -228,7 +223,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU",
     coords: [-77.5, 20.5],
     name: { de: "Golf von Guacanayabo", hu: "Guacanayabo-öböl", ro: "Golful Guacanayabo", en: "Gulf of Guacanayabo"},
-    image: "/poi-images/gulf-of-guacanayabo-nature-v2.webp",
     description: {
       de: "Die größte Bucht an der Südküste Kubas, in die der längste Fluss des Landes, der Río Cauto, mündet.",
       hu: "Kuba déli partjának legnagyobb öble, ahová az ország leghosszabb folyója, a Cauto torkollik.",
@@ -272,7 +266,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-14",
     coords: [-74.65, 20.3667],
     name: { de: "Río Yumurí", hu: "Yumurí-folyó", ro: "Râul Yumurí", en: "Yumurí River"},
-    image: "/poi-images/rio-yumuri-nature-v2.webp",
     description: {
       de: "Ein Fluss im Osten Kubas, der einen spektakulären Canyon durch die Berge gegraben hat.",
       hu: "A Yumurí folyó Matanzas egyik ismert természeti vize, a környék látképének része.",
@@ -316,7 +309,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-14",
     coords: [-74.5833, 20.3333],
     name: { de: "El Yunque", hu: "El Yunque", ro: "El Yunque", en: "El Yunque"},
-    image: "/poi-images/el-yunque-de-baracoa-nature-v2.webp",
     description: {
       de: "Ein markanter Tafelberg in der Nähe von Baracoa, der als Symbol der Region gilt.",
       hu: "Jellegzetes táblahegy Baracoa közelében, a régió szimbólumának számít.",
@@ -360,7 +352,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-06",
     coords: [-80.1167, 22.05],
     name: { de: "Hanabanilla-See", hu: "Hanabanilla-tó", ro: "Lacul Hanabanilla", en: "Hanabanilla Lake"},
-    image: "/poi-images/hanabanilla-lake-nature-v2.webp",
     description: {
       de: "Der einzige See intramontanen Ursprungs in Kuba, gelegen im Escambray-Gebirge.",
       hu: "Kuba egyetlen hegyvidéki eredetű tava az Escambray-hegységben.",
@@ -404,7 +395,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-08",
     coords: [-78.6667, 22.6],
     name: { de: "Cayo Guillermo", hu: "Cayo Guillermo", ro: "Cayo Guillermo", en: "Cayo Guillermo"},
-    image: "/poi-images/cayo-guillermo-nature-v2.webp",
     description: {
       de: "Eine kleine Insel im Archipel Jardines del Rey, bekannt für ihre hohen Sanddünen.",
       hu: "Kis sziget a Jardines del Rey szigetcsoportban, magas homokdűnéiről ismert.",
@@ -448,7 +438,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-12",
     coords: [-77.6, 19.9167],
     name: { de: "Nationalpark Desembarco del Granma", hu: "Desembarco del Granma Nemzeti Park", ro: "Parcul Național Desembarco del Granma", en: "Desembarco del Granma National Park"},
-    image: "/poi-images/desembarco-del-granma-np-nature-v2.webp",
     description: {
       de: "Ein Nationalpark und UNESCO-Weltkulturerbe, bekannt für seine marinen Terrassen und Küstenklippen.",
       hu: "Nemzeti park és UNESCO világörökségi helyszín, tengeri teraszairól és parti szikláiról ismert.",
@@ -492,7 +481,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-04",
     coords: [-81.1667, 22.25],
     name: { de: "Schweinebucht", hu: "Disznó-öböl", ro: "Golful Porcilor", en: "Bay of Pigs"},
-    image: "/poi-images/bay-of-pigs-nature-v2.webp",
     description: {
       de: "Eine Bucht an der Südküste Kubas, bekannt für die gescheiterte Invasion von 1961 und ihre hervorragenden Tauchplätze.",
       hu: "Öböl Kuba déli partján, az 1961-es sikertelen invázióról és kiváló búvárhelyeiről ismert.",
@@ -536,7 +524,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-07",
     coords: [-79.8667, 21.75],
     name: { de: "Río Aguanabo", hu: "Aguanabo-folyó", ro: "Râul Aguanabo", en: "Aguanabo River"},
-    image: "/poi-images/rio-aguanabo-nature-v2.webp",
     description: {
       de: "Ein Fluss in der Nähe von Trinidad, der durch das Tal der Zuckermühlen fließt und ins Karibische Meer mündet.",
       hu: "Folyó Trinidad közelében, amely a Cukormalmok Völgyén folyik keresztül és a Karib-tengerbe torkollik.",
@@ -580,7 +567,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-06",
     coords: [-80.0833, 21.9833],
     name: { de: "Pico San Juan", hu: "Pico San Juan", ro: "Vârful San Juan", en: "Pico San Juan"},
-    image: "/poi-images/pico-san-juan-nature-v2.webp",
     description: {
       de: "Der höchste Gipfel des Escambray-Gebirges im Zentrum Kubas.",
       hu: "Az Escambray-hegység legmagasabb csúcsa Közép-Kubában.",
@@ -668,7 +654,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-05",
     coords: [-78.9667, 22.65],
     name: { de: "Cayo Santa María", hu: "Cayo Santa María", ro: "Cayo Santa María", en: "Cayo Santa María"},
-    image: "/poi-images/cayo-santa-maria-nature-v2.webp",
     description: {
       de: "Eine Insel vor der Nordküste Kubas, die über einen langen Damm mit dem Festland verbunden ist.",
       hu: "Sziget Kuba északi partjainál, amelyet egy hosszú gát köt össze a szárazfölddel.",
@@ -712,7 +697,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-99",
     coords: [-82.7, 21.6],
     name: { de: "Ciénaga de Lanier", hu: "Lanier-mocsár", ro: "Mlaștina Lanier", en: "Lanier Swamp"},
-    image: "/poi-images/cienaga-de-lanier-nature-v2.webp",
     description: {
       de: "Ein großes Sumpfgebiet auf der Isla de la Juventud, das die Insel praktisch in zwei Teile teilt.",
       hu: "Nagy mocsaras terület az Ifjúság szigetén, amely gyakorlatilag két részre osztja a szigetet.",
@@ -756,7 +740,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU",
     coords: [-81.0, 23.5],
     name: { de: "Floridastraße", hu: "Floridai-szoros", ro: "Strâmtoarea Florida", en: "Strait of Florida"},
-    image: "/poi-images/strait-of-florida-nature-v2.webp",
     description: {
       de: "Die Meerenge, die Kuba von Florida trennt und den Golf von Mexiko mit dem Atlantik verbindet.",
       hu: "A tengerszoros, amely elválasztja Kubát Floridától és összeköti a Mexikói-öbölt az Atlanti-óceánnal.",
@@ -800,7 +783,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-03",
     coords: [-82.4, 23.1167],
     name: { de: "Río Almendares", hu: "Almendares-folyó", ro: "Râul Almendares", en: "Almendares River"},
-    image: "/poi-images/rio-almendares-nature-v2.webp",
     description: {
       de: "Ein Fluss, der durch Havanna fließt und die Stadt in zwei Hälften teilt.",
       hu: "Havannán átfolyó folyó, amely két részre osztja a várost.",
@@ -844,7 +826,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-15",
     coords: [-83.3, 22.75],
     name: { de: "Pan de Guajaibón", hu: "Pan de Guajaibón", ro: "Pan de Guajaibón", en: "Pan de Guajaibón"},
-    image: "/poi-images/pan-de-guajaibon-nature-v2.webp",
     description: {
       de: "Der höchste Gipfel im Westen Kubas, gelegen in der Sierra del Rosario.",
       hu: "Kuba nyugati részének legmagasabb csúcsa, a Sierra del Rosario hegységben.",
@@ -888,7 +869,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-08",
     coords: [-78.55, 22.1167],
     name: { de: "Laguna la Redonda", hu: "La Redonda lagúna", ro: "Laguna La Redonda", en: "La Redonda Lagoon"},
-    image: "/poi-images/redonda-lagoon-nature-v2.webp",
     description: {
       de: "Ein See in der Nähe von Morón, der für seine Mangrovenwälder und sein reiches Vorkommen an Forellenbarschen bekannt ist.",
       hu: "Tó Morón közelében, amely mangroveerdeiről és gazdag sügérállományáról ismert.",
@@ -932,7 +912,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-01",
     coords: [-84.025, 22.7],
     name: { de: "Cayo Jutías", hu: "Cayo Jutías", ro: "Cayo Jutías", en: "Cayo Jutías"},
-    image: "/poi-images/cayo-jutias-nature-v2.webp",
     description: {
       de: "Eine kleine Insel und ein Strand an der Nordküste von Pinar del Río, die über einen Damm erreichbar ist.",
       hu: "Kis sziget és strand Pinar del Río északi partján, amely egy gáton keresztül érhető el.",
@@ -976,7 +955,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-11",
     coords: [-75.0, 20.45],
     name: { de: "Alexander-von-Humboldt-Nationalpark", hu: "Alexander von Humboldt Nemzeti Park", ro: "Parcul Național Alexander von Humboldt", en: "Alexander von Humboldt National Park"},
-    image: "/poi-images/alexander-humboldt-np-nature-v2.webp",
     description: {
       de: "Einer der biologisch vielfältigsten tropischen Inselstandorte der Erde, UNESCO-Weltnaturerbe.",
       hu: "A Föld egyik biológiailag legváltozatosabb trópusi szigeti helyszíne, UNESCO világörökség.",
@@ -1020,7 +998,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU",
     coords: [-82.5, 22.3333],
     name: { de: "Golf von Batabanó", hu: "Batabanó-öböl", ro: "Golful Batabanó", en: "Gulf of Batabanó"},
-    image: "/poi-images/gulf-of-batabano-nature-v2.webp",
     description: {
       de: "Ein flacher Golf an der Südwestküste Kubas, bekannt für Schwammfischerei und Hummerfang.",
       hu: "Sekély öböl Kuba délnyugati partján, szivacshalászatáról és homárfogásáról ismert.",
@@ -1064,7 +1041,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-04",
     coords: [-81.5833, 23.05],
     name: { de: "Río San Juan (Matanzas)", hu: "San Juan-folyó (Matanzas)", ro: "Râul San Juan (Matanzas)", en: "San Juan River (Matanzas)"},
-    image: "/poi-images/rio-san-juan-nature-v2.webp",
     description: {
       de: "Ein Fluss, der durch die Stadt Matanzas fließt und sie in zwei Hälften teilt, bevor er in die Bucht mündet.",
       hu: "Folyó, amely áthalad Matanzas városán, két részre osztva azt, mielőtt az öbölbe ömlik.",
@@ -1108,7 +1084,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-07",
     coords: [-80.0, 21.9],
     name: { de: "Salto del Caburní", hu: "Caburní-vízesés", ro: "Cascada Caburní", en: "Caburní Waterfall"},
-    image: "/poi-images/salto-del-caburni-nature-v2.webp",
     description: {
       de: "Ein beeindruckender Wasserfall im Escambray-Gebirge, erreichbar über einen Wanderweg.",
       hu: "Lenyűgöző vízesés az Escambray-hegységben, egy túraútvonalon keresztül érhető el.",
@@ -1152,7 +1127,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-08",
     coords: [-78.5, 22.45],
     name: { de: "Laguna de la Restinga", hu: "La Restinga lagúna", ro: "Laguna La Restinga", en: "La Restinga Lagoon"},
-    image: "/poi-images/laguna-de-la-restinga-nature-v2.webp",
     description: {
       de: "Eine Küstenlagune in der Provinz Ciego de Ávila, verbunden mit dem Meer.",
       hu: "Parti lagúna Ciego de Ávila tartományban, összeköttetésben a tengerrel.",
@@ -1196,7 +1170,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-01",
     coords: [-83.5333, 22.8667],
     name: { de: "Cayo Levisa", hu: "Cayo Levisa", ro: "Cayo Levisa", en: "Cayo Levisa"},
-    image: "/poi-images/cayo-levisa-nature-v2.webp",
     description: {
       de: "Eine kleine Insel vor der Nordwestküste Kubas, bekannt für ihren ruhigen Strand und ihre Tauchplätze.",
       hu: "Kis sziget Kuba északnyugati partjainál, csendes strandjáról és búvárhelyeiről ismert.",
@@ -1240,7 +1213,6 @@ export const poiExtraCubaNatureV2: POI[] = [
     parent: "CU-11",
     coords: [-75.8, 20.35],
     name: { de: "Peñón del Fraile", hu: "Peñón del Fraile", ro: "Peñón del Fraile", en: "Peñón del Fraile"},
-    image: "/poi-images/penon-del-fraile-nature-v2.webp",
     description: {
       de: "Ein Naturdenkmal und Waldgebiet in der Provinz Holguín.",
       hu: "A Peñón del Fraile egy helyi természeti sziklaalakzat, amely látványos part menti pontként ismert.",

@@ -381,7 +381,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "Cerro erőd",
       ro: "Fortăreața del Cerro",
       en: "Fortress of the Cerro"},
-    image: "/poi-images/fortaleza-del-cerro-history-v2.webp",
     description: {
       de: "Eine historische Festung auf dem höchsten Hügel von Montevideo, die 1809 zur Verteidigung der Stadt erbaut wurde.",
       hu: "Egy történelmi erőd Montevideo legmagasabb dombján, amelyet 1809-ben építettek a város védelmére.",
@@ -580,7 +579,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "Solís Színház",
       ro: "Teatrul Solís",
       en: "Solís Theatre"},
-    image: "/poi-images/teatro-solis-history-v2.webp",
     description: {
       de: "Das älteste und wichtigste Theater Uruguays, eröffnet im Jahr 1856 mit klassischer Architektur.",
       hu: "Uruguay legrégebbi és legfontosabb színháza, amelyet 1856-ban nyitottak meg klasszikus építészettel.",
@@ -743,7 +741,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "Montevideo Cabildo",
       ro: "Cabildo din Montevideo",
       en: "Cabildo of Montevideo"},
-    image: "/poi-images/cabildo-de-montevideo-history-v2.webp",
     description: {
       de: "Das historische Rathaus der Stadt, in dem 1830 die erste Verfassung Uruguays unterzeichnet wurde.",
       hu: "A város történelmi városházája, ahol 1830-ban aláírták Uruguay első alkotmányát.",
@@ -1323,7 +1320,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "Santa Teresa erőd",
       ro: "Fortăreața Santa Teresa",
       en: "Fortress of Santa Teresa"},
-    image: "/poi-images/fortaleza-de-santa-teresa-history-v2.webp",
     description: {
       de: "Eine beeindruckende Militärfestung im Departement Rocha, die 1762 von den Portugiesen begonnen wurde.",
       hu: "Lenyűgöző katonai erődítmény Rocha megyében, amelyet a portugálok kezdtek el építeni 1762-ben.",
@@ -1369,7 +1365,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "San Miguel erőd",
       ro: "Fortul San Miguel",
       en: "Fort San Miguel"},
-    image: "/poi-images/fuerte-de-san-miguel-history-v2.webp",
     description: {
       de: "Ein 1737 erbautes Militärfort nahe der brasilianischen Grenze, das perfekt erhalten ist.",
       hu: "Egy 1737-ben épült katonai erőd a brazil határ közelében, amely tökéletesen fennmaradt.",
@@ -1728,7 +1723,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "Colonia történelmi negyede",
       ro: "Cartierul Istoric din Colonia",
       en: "Historic Quarter of Colonia"},
-    image: "/poi-images/barrio-historico-de-colonia-history-v2.webp",
     description: {
       de: "Das von den Portugiesen im 17. Jahrhundert gegründete Viertel ist UNESCO-Weltkulturerbe.",
       hu: "A portugálok által a 17. században alapított negyed az UNESCO világörökség része.",
@@ -1774,7 +1768,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "Függetlenség tere",
       ro: "Piața Independenței",
       en: "Independence Square"},
-    image: "/poi-images/plaza-independencia-history-v2.webp",
     description: {
       de: "Der wichtigste Platz in Montevideo, der die Grenze zwischen der Altstadt und dem neuen Stadtzentrum bildet.",
       hu: "Montevideo legfontosabb tere, amely határt képez az óváros és az új városközpont között.",
@@ -1937,7 +1930,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "Kikötői piac",
       ro: "Piața Portului",
       en: "Port Market"},
-    image: "/poi-images/mercado-del-puerto-history-v2.webp",
     description: {
       de: "Eine historische Markthalle in Montevideo aus dem Jahr 1868 mit einer beeindruckenden Eisenstruktur.",
       hu: "Egy történelmi vásárcsarnok Montevideóban 1868-ból, lenyűgöző vasszerkezettel.",
@@ -2280,7 +2272,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "San Carlos bikaviadal-aréna",
       ro: "Arena de Tauri San Carlos",
       en: "San Carlos Bullring"},
-    image: "/poi-images/plaza-de-toros-real-de-san-carlos-history-v2.webp",
     description: {
       de: "Eine alte Stierkampfarena im maurischen Stil, die 1910 eröffnet und kurz darauf geschlossen wurde.",
       hu: "Egy régi mór stílusú bikaviadal-aréna, amelyet 1910-ben nyitottak meg, majd nem sokkal később bezártak.",
@@ -2419,7 +2410,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "Montevideo katedrális",
       ro: "Catedrala din Montevideo",
       en: "Metropolitan Cathedral"},
-    image: "/poi-images/catedral-metropolitana-history-v2.webp",
     description: {
       de: "Die wichtigste katholische Kirche der Stadt, im Jahr 1804 eingeweiht, mit neoklassizistischer Architektur.",
       hu: "A város legfontosabb katolikus temploma, amelyet 1804-ben szenteltek fel neoklasszikus építészettel.",
@@ -2490,7 +2480,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "Anchorena Park",
       ro: "Parcul Anchorena",
       en: "Anchorena Park"},
-    image: "/poi-images/parque-anchorena-history-v2.webp",
     description: {
       de: "Ein prächtiges Landgut aus dem Jahr 1907, das heute als Präsidentenresidenz und Naturschutzgebiet dient.",
       hu: "Egy csodálatos 1907-es birtok, amely ma elnöki rezidenciaként és természetvédelmi területként működik.",
@@ -2581,7 +2570,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "Piria-kastély",
       ro: "Castelul Piria",
       en: "Piria Castle"},
-    image: "/poi-images/castillo-de-piria-history-v2.webp",
     description: {
       de: "Die persönliche Residenz von Francisco Piria, dem Gründer von Piriápolis, erbaut im Jahr 1897.",
       hu: "Francisco Piria, Piriápolis alapítójának személyes rezidenciája, amely 1897-ben épült.",
@@ -2852,7 +2840,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "Pittamiglio kastély",
       ro: "Castelul Pittamiglio",
       en: "Pittamiglio Castle"},
-    image: "/poi-images/castillo-pittamiglio-history-v2.webp",
     description: {
       de: "Ein rätselhaftes Gebäude in Montevideo voller alchemistischer Symbole, entworfen von Humberto Pittamiglio.",
       hu: "Egy rejtélyes montevideói épület tele alkímiai szimbólumokkal, amelyet Humberto Pittamiglio tervezett.",
@@ -3123,7 +3110,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "San Isidro templom",
       ro: "Biserica San Isidro",
       en: "Church of San Isidro"},
-    image: "/poi-images/iglesia-de-san-isidro-history-v2.webp",
     description: {
       de: "Eine bedeutende historische Kirche in Las Piedras, nahe dem Ort der berühmten Schlacht von Las Piedras.",
       hu: "Egy jelentős történelmi templom Las Piedrasban, a híres Las Piedras-i csata helyszíne közelében.",
@@ -3250,7 +3236,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "Lavalleja háza",
       ro: "Casa lui Lavalleja",
       en: "Lavalleja's House"},
-    image: "/poi-images/casa-de-lavalleja-history-v2.webp",
     description: {
       de: "Das koloniale Wohnhaus von Juan Antonio Lavalleja, einem Nationalhelden Uruguays, das heute als Museum dient.",
       hu: "Juan Antonio Lavalleja, Uruguay nemzeti hősének gyarmati lakóháza, amely ma múzeumként szolgál.",
@@ -3449,7 +3434,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "Az 1830-as alkotmányozók obeliszkje",
       ro: "Obeliscul Constituanților din 1830",
       en: "Obelisk to the Constituents of 1830"},
-    image: "/poi-images/obelisco-de-1830-history-v2.webp",
     description: {
       de: "Ein markantes Denkmal in Montevideo zur Erinnerung an die Verfasser der ersten uruguayischen Verfassung.",
       hu: "Egy feltűnő emlékmű Montevideóban, amely az első uruguayi alkotmány szerzőinek állít emléket.",
@@ -3540,7 +3524,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "Fructuoso Rivera háza",
       ro: "Casa lui Fructuoso Rivera",
       en: "House of Fructuoso Rivera"},
-    image: "/poi-images/casa-de-fructuoso-rivera-history-v2.webp",
     description: {
       de: "Das ehemalige Wohnhaus des ersten Präsidenten Uruguays, heute eine wichtige Außenstelle des Historischen Nationalmuseums.",
       hu: "Uruguay első elnökének egykori lakóháza, ma a Nemzeti Történeti Múzeum fontos kirendeltsége.",
@@ -3586,7 +3569,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "Narbona birtok",
       ro: "Moșia Narbona",
       en: "Narbona Estate"},
-    image: "/poi-images/estancia-narbona-history-v2.webp",
     description: {
       de: "Eines der ältesten ländlichen Gebäude in Uruguay, das 1732 von Juan de Narbona erbaut wurde.",
       hu: "Uruguay egyik legrégebbi vidéki épülete, amelyet Juan de Narbona épített 1732-ben.",
@@ -3677,7 +3659,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "Posta del Chuy",
       ro: "Posta del Chuy",
       en: "Posta del Chuy"},
-    image: "/poi-images/posta-del-chuy-history-v2.webp",
     description: {
       de: "Ein historisches Rasthaus und Brückenbauwerk im Departement Cerro Largo aus der Mitte des 19. Jahrhunderts.",
       hu: "Egy történelmi pihenőház és híd Cerro Largo megyében, a 19. század közepéről.",
@@ -3876,7 +3857,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "Az örökkévalóság emlékműve",
       ro: "Monumentul pentru Eternitate",
       en: "Monument to Perpetuity"},
-    image: "/poi-images/monumento-a-perpetuidad-history-v2.webp",
     description: {
       de: "Ein bedeutender Friedhof in Paysandú aus dem 19. Jahrhundert, der für seine kunstvollen Grabskulpturen bekannt ist.",
       hu: "Egy jelentős 19. századi temető Paysandúban, amely kidolgozott sírszobrairól ismert.",
@@ -3922,7 +3902,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "Estévez palota",
       ro: "Palatul Estévez",
       en: "Estévez Palace"},
-    image: "/poi-images/palacio-estevez-history-v2.webp",
     description: {
       de: "Ein historisches Gebäude an der Plaza Independencia, das einst als Sitz des Präsidenten Uruguays diente.",
       hu: "Egy történelmi épület a Plaza Independencia téren, amely egykor az uruguayi elnök székhelyeként szolgált.",
@@ -4697,7 +4676,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "Batlle y Ordóñez villa",
       ro: "Vila lui Batlle y Ordóñez",
       en: "Villa of Batlle y Ordóñez"},
-    image: "/poi-images/quinta-de-batlle-y-ordonez-history-v2.webp",
     description: {
       de: "Das einstige Sommerhaus des zweifachen uruguayischen Präsidenten José Batlle y Ordóñez, jetzt ein Museum.",
       hu: "A kétszeres uruguayi elnök, José Batlle y Ordóñez egykori nyaralója, amely ma múzeum.",
@@ -4743,7 +4721,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "General Artigas főpályaudvar",
       ro: "Gara Centrală General Artigas",
       en: "General Artigas Central Station"},
-    image: "/poi-images/estacion-central-general-artigas-history-v2.webp",
     description: {
       de: "Der verlassene historische Hauptbahnhof von Montevideo, der 1897 eröffnet wurde und ein Architekturjuwel ist.",
       hu: "Montevideo elhagyatott történelmi főpályaudvara, amelyet 1897-ben nyitottak meg, és amely egy építészeti gyöngyszem.",
@@ -4789,7 +4766,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "M'Bopicuá romjai",
       ro: "Ruinele M'Bopicuá",
       en: "Ruins of M'Bopicuá"},
-    image: "/poi-images/ruinas-de-mbopicua-history-v2.webp",
     description: {
       de: "Die Überreste einer riesigen Fleischsalzerei aus dem 19. Jahrhundert am Ufer des Río Uruguay.",
       hu: "Egy hatalmas 19. századi hússózó maradványai a Río Uruguay partján.",
@@ -5276,7 +5252,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: "Sárkányok laktanyája",
       ro: "Cazarma Dragonilor",
       en: "Dragoon Barracks"},
-    image: "/poi-images/cuartel-de-dragones-history-v2.webp",
     description: {
       de: "Ein militärisches Hauptquartier aus der Kolonialzeit in Maldonado, erbaut zwischen 1771 und 1797.",
       hu: "Egy gyarmati kori katonai főhadiszállás Maldonadóban, amely 1771 és 1797 között épült.",

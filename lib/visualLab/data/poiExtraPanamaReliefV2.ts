@@ -8,7 +8,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-PA",
     coords: [-81.5, 8.5],
     name: { de: "Zentrale Kordillere", hu: "Központi-hegylánc", ro: "Cordillera Central", en: "Central Cordillera"},
-    image: "/poi-images/cordillera-central-relief-v2.webp",
     description: { de: "Das zentrale Gebirgssystem, das Panama von Westen nach Osten durchzieht und die Wasserscheide bildet.", hu: "Központi hegységrendszer, amely nyugatról keletre húzódik Panamán keresztül, alkotva a vízválasztót.", ro: "Sistemul muntos central care traversează Panama de la vest la est, formând cumpăna apelor.", en: "The central mountain range that runs through Panama from west to east, forming the continental divide." , es: "El sistema montañoso central que atraviesa Panamá de oeste a este y forma la divisoria continental.", pt: "O sistema montanhoso central que atravessa o Panamá de oeste a leste e forma o divisor de águas.", fr: "Le système montagneux central qui traverse le Panama d'ouest en est et forme la ligne de partage des eaux."},
     facts: {
       de: ["Höchster Gebirgszug Panamas.", "Bildet die kontinentale Wasserscheide.", "Besteht aus vulkanischem Gestein.", "Erstreckt sich über fast das ganze Land."],
@@ -44,7 +43,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-8",
     coords: [-80.12, 8.65],
     name: { de: "Cerro Picacho", hu: "Cerro Picacho", ro: "Cerro Picacho", en: "Cerro Picacho"},
-    image: "/poi-images/cerro-picacho-relief-v2.webp",
     description: { de: "Ein markanter Gipfel in der Provinz Panama Oeste, bekannt für seine steilen Hänge und Wanderwege.", hu: "Kiemelkedő csúcs Panama Oeste tartományban, amely meredek lejtőiről és túraútvonalairól ismert.", ro: "Un vârf proeminent în provincia Panama Oeste, cunoscut pentru pantele sale abrupte și traseele de drumeție.", en: "A prominent peak in the Panama Oeste province, known for its steep slopes and hiking trails." , es: "Una cumbre distintiva en la provincia de Panamá Oeste, conocida por sus laderas empinadas y senderos.", pt: "Um cume marcante na província do Panamá Oeste, conhecido pelas suas encostas íngremes e trilhos.", fr: "Un sommet remarquable dans la province de Panama Ouest, connu pour ses pentes abruptes et ses sentiers."},
     facts: {
       de: ["Beliebtes Ziel für Wanderer.", "Bietet weite Ausblicke.", "Besteht aus hartem Vulkangestein.", "Liegt nahe San Carlos."],
@@ -80,7 +78,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-2",
     coords: [-80.13, 8.6],
     name: { de: "Vulkankrater El Valle", hu: "El Valle vulkáni kráter", ro: "Craterul vulcanic El Valle", en: "El Valle volcanic crater"},
-    image: "/poi-images/valle-de-anton-krater-relief-v2.webp",
     description: { de: "Einer der wenigen bewohnten Vulkankrater der Welt, umgeben von schroffen Bergen.", hu: "A világ kevés lakott vulkáni kráterének egyike, amelyet zord hegyek vesznek körül.", ro: "Unul dintre puținele cratere vulcanice locuite din lume, înconjurat de munți abrupți.", en: "One of the few inhabited volcanic craters in the world, surrounded by rugged mountains." , es: "Uno de los pocos cráteres volcánicos habitados del mundo, rodeado de montañas escarpadas.", pt: "Um dos poucos crateras vulcânicas habitadas do mundo, rodeada por montanhas escarpadas.", fr: "L'un des rares cratères volcaniques habités au monde, entouré de montagnes escarpées."},
     facts: {
       de: ["Geologisch als Krater identifiziert.", "Kühles Klima im Inneren.", "Von steilen Wänden umgeben.", "Einzigartiges Mikro-Ökosystem."],
@@ -116,7 +113,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-8",
     coords: [-79.91, 8.68],
     name: { de: "Cerro Campana", hu: "Cerro Campana", ro: "Cerro Campana", en: "Cerro Campana"},
-    image: "/poi-images/cerro-campana-relief-v2.webp",
     description: { de: "Der namensgebende Berg des ersten Nationalparks Panamas, bekannt für seine Nebelwälder.", hu: "Panama első nemzeti parkjának névadó hegye, amely köderdőiről ismert.", ro: "Muntele care dă numele primului parc național din Panama, cunoscut pentru pădurile sale de nori.", en: "The mountain that gives its name to Panama's first national park, known for its cloud forests." , es: "La montaña que da nombre al primer parque nacional de Panamá, conocida por sus bosques nubosos.", pt: "A montanha que dá nome ao primeiro parque nacional do Panamá, conhecida pelas suas florestas de altitude.", fr: "La montagne éponyme du premier parc national du Panama, connue pour ses forêts de nuages."},
     facts: {
       de: ["Erster Nationalpark des Landes.", "Hohe Biodiversität.", "Nebelwald-Ökosystem.", "Nahe der Hauptstadt."],
@@ -152,7 +148,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-6",
     coords: [-80.68, 7.32],
     name: { de: "Cerro Hoya", hu: "Cerro Hoya", ro: "Cerro Hoya", en: "Cerro Hoya"},
-    image: "/poi-images/cerro-hoya-relief-v2.webp",
     description: { de: "Ein abgelegener Nationalpark, der die höchsten Gipfel der Azuero-Halbinsel schützt.", hu: "Távoli nemzeti park, amely védi az Azuero-félsziget legmagasabb csúcsait.", ro: "Parc național izolat care protejează cele mai înalte vârfuri din peninsula Azuero.", en: "Remote national park protecting the highest peaks of the Azuero Peninsula." , es: "Un parque nacional remoto que protege las cumbres más altas de la Península de Azuero.", pt: "Um parque nacional remoto que protege os cumes mais altos da Península de Azuero.", fr: "Un parc national reculé protégeant les plus hauts sommets de la péninsule d'Azuero."},
     facts: {
       de: ["Höchster Punkt der Azuero-Halbinsel.", "Wichtiger Schutz für Flora.", "Dschungelbedeckte Hänge.", "Schwer zugängliches Terrain."],
@@ -188,7 +183,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-2",
     coords: [-80.11, 8.63],
     name: { de: "Cerro Gaital", hu: "Cerro Gaital", ro: "Cerro Gaital", en: "Cerro Gaital"},
-    image: "/poi-images/cerro-gaital-relief-v2.webp",
     description: { de: "Ein markanter Gipfel nahe El Valle de Antón, berühmt für Wanderer und reiche Natur.", hu: "Kiemelkedő csúcs El Valle de Antón közelében, amely híres a túrázók körében és gazdag természetével.", ro: "Un vârf proeminent lângă El Valle de Antón, celebru pentru drumeți și natura sa bogată.", en: "A prominent peak near El Valle de Antón, famous for hikers and rich nature." , es: "Una cumbre distintiva cerca de El Valle de Antón, famosa para senderistas y naturaleza rica.", pt: "Um cume marcante perto de El Valle de Antón, famoso pelos caminhantes e natureza rica.", fr: "Un sommet remarquable près d'El Valle de Antón, célèbre pour les randonneurs et sa nature généreuse."},
     facts: {
       de: ["Markante Gipfelformation.", "Beliebt bei Ornithologen.", "Dichter Nebelwald.", "Teil des Kraterrands."],
@@ -224,7 +218,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-9",
     coords: [-81.13, 8.5],
     name: { de: "Cerro Tute", hu: "Cerro Tute", ro: "Cerro Tute", en: "Cerro Tute"},
-    image: "/poi-images/cerro-tute-relief-v2.webp",
     description: { de: "Ein malerischer Berg in der Provinz Veraguas mit steilen Klippen und Panoramablick.", hu: "Festői hegy Veraguas tartományban, meredek sziklákkal és panorámás kilátással.", ro: "Un munte pitoresc în provincia Veraguas, cu stânci abrupte și vedere panoramică.", en: "A picturesque mountain in the Veraguas province, with steep cliffs and panoramic views." , es: "Una montaña pintoresca en la provincia de Veraguas con acantilados escarpados y vistas panorámicas.", pt: "Uma montanha pitoresca na província de Veraguas com falésias íngremes e vistas panorâmicas.", fr: "Une montagne pittoresque de la province de Veraguas avec des falaises abruptes et des vues panoramiques."},
     facts: {
       de: ["Steile Felswände.", "Hervorragende Aussicht.", "Wandergebiet.", "Typisch für die Region."],
@@ -260,7 +253,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-1",
     coords: [-82.85, 8.9],
     name: { de: "Cerro Fábrega", hu: "Cerro Fábrega", ro: "Cerro Fábrega", en: "Cerro Fábrega"},
-    image: "/poi-images/cerro-fabrega-relief-v2.webp",
     description: { de: "Der zweithöchste Berg Panamas und Teil des La Amistad Nationalparks.", hu: "Panama második legmagasabb hegye, a La Amistad Nemzeti Park része.", ro: "Al doilea cel mai înalt munte din Panama și parte a Parcului Național La Amistad.", en: "The second highest mountain in Panama and part of the La Amistad National Park." , es: "La segunda montaña más alta de Panamá y parte del Parque Nacional La Amistad.", pt: "A segunda montanha mais alta do Panamá e parte do Parque Nacional La Amistad.", fr: "La deuxième plus haute montagne du Panama et fait partie du parc national La Amistad."},
     facts: {
       de: ["Zweithöchster Punkt.", "Einzigartige Páramo-Vegetation.", "Abgelegene Lage.", "Grenznah zu Costa Rica."],
@@ -296,7 +288,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-3",
     coords: [-79.4, 9.48],
     name: { de: "Cerro Bruja", hu: "Cerro Bruja", ro: "Cerro Bruja", en: "Cerro Bruja"},
-    image: "/poi-images/cerro-bruja-relief-v2.webp",
     description: { de: "Ein bedeutender Berg im Nationalpark Chagres mit dichten Wäldern.", hu: "Fontos hegy a Chagres Nemzeti Parkban, sűrű erdőkkel.", ro: "Un munte important în Parcul Național Chagres, cu păduri dense.", en: "An important mountain in the Chagres National Park with dense forests." , es: "Una montaña importante en el Parque Nacional Chagres con bosques densos.", pt: "Uma importante montanha no Parque Nacional Chagres com florestas densas.", fr: "Une montagne importante du parc national Chagres aux forêts denses."},
     facts: {
       de: ["Schützt das Einzugsgebiet.", "Dichter Dschungel.", "Wichtiger Wasserlieferant.", "Schwer zugänglich."],
@@ -404,7 +395,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-PA",
     coords: [-79.38, 9.23],
     name: { de: "Cerro Jefe", hu: "Cerro Jefe", ro: "Cerro Jefe", en: "Cerro Jefe"},
-    image: "/poi-images/cerro-jefe-relief-v2.webp",
     description: { de: "Ein hochgelegenes Waldgebiet, das für seine reiche Flora und Wasserkraftreserven bekannt ist.", hu: "Magasan fekvő erdőterület, amely gazdag flórájáról és vízerő-tartalékairól ismert.", ro: "Zonă forestieră situată la altitudine, cunoscută pentru flora sa bogată și rezervele de energie hidroelectrică.", en: "High-altitude forest area known for its rich flora and hydropower reserves." , es: "Un área forestal de gran altitud conocida por su rica flora y reservas hidroeléctricas.", pt: "Uma área florestal de grande altitude conhecida pela sua rica flora e reservas hidroelétricas.", fr: "Une zone forestière d'altitude réputée pour sa flore riche et ses réserves hydroélectriques."},
     facts: {
       de: ["Wichtige Wasserquelle.", "Hohe Flora-Diversität.", "Nahe der Hauptstadt.", "Kühles Mikroklima."],
@@ -440,7 +430,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-8",
     coords: [-80.05, 8.7],
     name: { de: "Cerro Ceniza", hu: "Cerro Ceniza", ro: "Cerro Ceniza", en: "Cerro Ceniza"},
-    image: "/poi-images/cerro-ceniza-relief-v2.webp",
     description: { de: "Ein kleinerer Berg nahe der Hauptstadt, beliebt für Wanderungen.", hu: "Kisebb hegy a főváros közelében, népszerű túrázáshoz.", ro: "Un munte mai mic lângă capitală, popular pentru drumeții.", en: "A smaller mountain near the capital, popular for hiking." , es: "Una montaña más pequeña cerca de la capital, popular para el senderismo.", pt: "Uma montanha menor perto da capital, popular para caminhadas.", fr: "Une montagne plus petite près de la capitale, populaire pour les randonnées."},
     facts: {
       de: ["Wandergebiet.", "Leicht erreichbar.", "Dschungelpfade.", "Guter Aussichtspunkt."],
@@ -476,7 +465,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-2",
     coords: [-80.08, 8.65],
     name: { de: "Cerro Cara de Iguana", hu: "Cerro Cara de Iguana", ro: "Cerro Cara de Iguana", en: "Cerro Cara de Iguana"},
-    image: "/poi-images/cerro-cara-de-iguana-relief-v2.webp",
     description: { de: "Ein Berg im Valle de Antón, der Teil eines Naturdenkmals ist.", hu: "Hegy az El Valle de Antón-ban, amely egy természeti emlék része.", ro: "Un munte în Valle de Antón, care este parte a unui monument natural.", en: "A mountain in Valle de Antón which is part of a natural monument." , es: "Una montaña en el Valle de Antón que forma parte de un monumento natural.", pt: "Uma montanha no Valle de Antón que faz parte de um monumento natural.", fr: "Une montagne de la Valle de Antón, qui fait partie d'un monument naturel."},
     facts: {
       de: ["Teil des Vulkankraters.", "Wandergebiet.", "Schöne Aussicht.", "Naturdenkmal."],
@@ -512,7 +500,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-8",
     coords: [-79.98, 8.82],
     name: { de: "Cerro Trinidad Norte", hu: "Cerro Trinidad Norte", ro: "Cerro Trinidad Norte", en: "Cerro Trinidad Norte"},
-    image: "/poi-images/cerro-trinidad-norte-relief-v2.webp",
     description: { de: "Die nördliche Erhebung des Trinidad-Gebirgsstocks.", hu: "A Trinidad-hegység északi kiemelkedése.", ro: "Elevația nordică a masivului muntos Trinidad.", en: "The northern elevation of the Trinidad mountain massif." , es: "La elevación norte del macizo de Trinidad.", pt: "A elevação norte do maciço de Trinidad.", fr: "Le versant nord du massif montagneux de Trinidad."},
     facts: {
       de: ["Gebirgsteil.", "Dichte Vegetation.", "Wanderregion.", "Hügelig."],
@@ -548,7 +535,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-4",
     coords: [-82.5, 8.8],
     name: { de: "Volcán Barú", hu: "Volcán Barú", ro: "Volcán Barú", en: "Volcán Barú"},
-    image: "/poi-images/volcan-baru-relief-v2.webp",
     description: { de: "Der höchste Punkt Panamas, ein schlafender Vulkan, von dem man beide Ozeane sehen kann.", hu: "Panama legmagasabb pontja, egy szunnyadó vulkán, ahonnan mindkét óceán látható.", ro: "Cel mai înalt punct din Panama, un vulcan adormit de pe care pot fi văzute ambele oceane.", en: "Panama's highest point, a dormant volcano from which both oceans can be seen." , es: "El punto más alto de Panamá, un volcán dormido desde el cual se pueden ver ambos océanos.", pt: "O ponto mais alto do Panamá, um vulcão adormecido do qual se podem ver ambos os oceanos.", fr: "Le point culminant du Panama, un volcan endormi d'où l'on peut voir les deux océans."},
     facts: {
       de: ["3.474 m hoch.", "Beide Ozeane sichtbar.", "Nationalpark.", "Alpines Klima."],
@@ -621,7 +607,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-1",
     coords: [-82.6, 9.0],
     name: { de: "Talamanca-Gebirge", hu: "Talamanca-hegység", ro: "Munții Talamanca", en: "Talamanca Mountains"},
-    image: "/poi-images/cordillera-talamanca-relief-v2.webp",
     description: { de: "Ein langer Gebirgszug, der sich durch West-Panama erstreckt.", hu: "Hosszú hegységvonulat, amely Nyugat-Panamán keresztül húzódik.", ro: "Un lanț muntos lung care se întinde prin vestul Panama.", en: "A long mountain range that extends through western Panama." , es: "Una larga cordillera que se extiende por el oeste de Panamá.", pt: "Uma longa cadeia de montanhas que se estende pelo oeste do Panamá.", fr: "Une longue chaîne de montagnes qui s'étend à travers l'ouest du Panama."},
     facts: {
       de: ["Grenzüberschreitend.", "Hohe Gipfel.", "Dichter Nebelwald.", "Wichtiger Korridor."],
@@ -658,7 +643,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-PA",
     coords: [-79.55, 9.05],
     name: { de: "Cerro Patacón", hu: "Cerro Patacón", ro: "Cerro Patacón", en: "Cerro Patacón"},
-    image: "/poi-images/cerro-patacon-relief-v2.webp",
     description: { de: "Ein markanter Hügel in der Nähe von Panama-Stadt.", hu: "Kiemelkedő domb Panama-város közelében.", ro: "Un deal proeminent lângă orașul Panama.", en: "A prominent hill near Panama City." , es: "Una colina prominente en las cercanías de Ciudad de Panamá.", pt: "Uma colina proeminente nas proximidades da Cidade do Panamá.", fr: "Une colline marquante à proximité de Panama City."},
     facts: {
       de: ["Bekannte Landmarke.", "Hügeliges Gelände.", "Nahe der Stadt.", "Wanderpfade."],
@@ -695,7 +679,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-9",
     coords: [-81.7, 7.4],
     name: { de: "Coiba-Inselhügel", hu: "Coiba-szigeti dombok", ro: "Dealurile insulei Coiba", en: "Coiba Island hills"},
-    image: "/poi-images/coiba-inselhuegel-relief-v2.webp",
     description: { de: "Das hügelige Zentrum der Insel Coiba, geschützt durch dichten Dschungel.", hu: "A Coiba-sziget dombos központja, sűrű dzsungellel védve.", ro: "Centrul deluros al insulei Coiba, protejat de junglă densă.", en: "The hilly center of Coiba Island, protected by dense jungle." , es: "El centro ondulado de la isla de Coiba, protegido por una densa selva.", pt: "O centro montanhoso da Ilha Coiba, protegido por uma selva densa.", fr: "Le centre vallonné de l'île de Coiba, protégé par une jungle dense."},
     facts: {
       de: ["Geschütztes Gebiet.", "Dichter Dschungel.", "Hohe Biodiversität.", "Inselinneres."],
@@ -731,7 +714,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-6",
     coords: [-80.5, 7.6],
     name: { de: "Azuero-Berge", hu: "Azuero-hegység", ro: "Munții Azuero", en: "Azuero Mountains"},
-    image: "/poi-images/azuero-berge-relief-v2.webp",
     description: { de: "Das hügelige Innere der Azuero-Halbinsel.", hu: "Az Azuero-félsziget dombos belseje.", ro: "Interiorul deluros al peninsulei Azuero.", en: "The hilly interior of the Azuero Peninsula." , es: "El interior montañoso de la península de Azuero.", pt: "O interior montanhoso da península de Azuero.", fr: "L'intérieur vallonné de la péninsule d'Azuero."},
     facts: {
       de: ["Hügelige Landschaft.", "Trockene Wälder.", "Landwirtschaftlich genutzt.", "Typisch für den Süden."],
@@ -767,7 +749,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-PA",
     coords: [-79.52, 9.0],
     name: { de: "Cerro San Miguel", hu: "Cerro San Miguel", ro: "Cerro San Miguel", en: "Cerro San Miguel"},
-    image: "/poi-images/cerro-san-miguel-relief-v2.webp",
     description: { de: "Ein kleinerer Berg nahe der Hauptstadt, beliebt für Wanderungen.", hu: "Kisebb hegy a főváros közelében, népszerű túrázáshoz.", ro: "Un munte mai mic lângă capitală, popular pentru drumeții.", en: "A smaller mountain near the capital, popular for hiking." , es: "Una montaña más pequeña cerca de la capital, popular para caminatas.", pt: "Uma montanha menor perto da capital, popular para caminhadas.", fr: "Une montagne plus petite près de la capitale, prisée pour la randonnée."},
     facts: {
       de: ["Wandergebiet.", "Leicht erreichbar.", "Waldpfade.", "Blick auf die Stadt."],
@@ -803,7 +784,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-PA",
     coords: [-79.45, 9.3],
     name: { de: "Cerro Cucurucha", hu: "Cerro Cucurucha", ro: "Cerro Cucurucha", en: "Cerro Cucurucha"},
-    image: "/poi-images/cerro-cucurucha-relief-v2.webp",
     description: { de: "Ein bedeutender Berg in der Nähe von Panama-Stadt.", hu: "Kiemelkedő hegy Panama-város közelében.", ro: "Un munte proeminent lângă orașul Panama.", en: "A prominent mountain near Panama City." , es: "Una montaña prominente cerca de la Ciudad de Panamá.", pt: "Uma montanha importante perto da Cidade do Panamá.", fr: "Une montagne importante près de la ville de Panama."},
     facts: {
       de: ["Bergregion.", "Dichte Wälder.", "Wandergebiet.", "Teil des Vorlandes."],
@@ -839,7 +819,6 @@ export const poiExtraPanamaReliefV2: POI[] = [
     parent: "PA-8",
     coords: [-79.9, 8.7],
     name: { de: "Altos de Campana Hochland", hu: "Altos de Campana felföldje", ro: "Zona înaltă Altos de Campana", en: "Altos de Campana highlands"},
-    image: "/poi-images/altos-de-campana-hohe-relief-v2.webp",
     description: { de: "Ein hochgelegenes Waldgebiet, das für seine reiche Flora und Wasserkraftreserven bekannt ist.", hu: "Magasan fekvő erdőterület, amely gazdag flórájáról és vízerő-tartalékairól ismert.", ro: "Zonă forestieră situată la altitudine, cunoscută pentru flora sa bogată și rezervele de energie hidroelectrică.", en: "High-altitude forest area known for its rich flora and hydropower reserves." , es: "Una zona forestal elevada conocida por su rica flora y reservas de energía hidroeléctrica.", pt: "Uma área de floresta elevada, conhecida por sua rica flora e reservas de energia hidrelétrica.", fr: "Une zone forestière d'altitude connue pour sa flore riche et ses réserves hydroélectriques."},
     facts: {
       de: ["Hochland.", "Nebelwald.", "Wichtige Wasserscheide.", "Biodiversität."],

@@ -161,7 +161,6 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     parent: "SA-14",
     coords: [42.3670, 18.2670],
     name: { de: "Dschabal Sauda", hu: "Dzsebel Szavda", ro: "Jabal Sawda", en: "Jabal Sawda"},
-    image: "/poi-images/jabal-sawda-nature-v2.webp",
     description: { de: "Der höchste Berggipfel in Saudi-Arabien, bekannt für sein kühleres Klima und dichte Wacholderwälder.", hu: "Szaúd-Arábia legmagasabb hegycsúcsa, amely hűvösebb éghajlatáról és sűrű borókaerdeiről ismert.", ro: "Cel mai înalt vârf muntos din Arabia Saudită, cunoscut pentru climatul său mai răcoros și pădurile dese de ienupăr.", en: "The highest mountain peak in Saudi Arabia, known for its cooler climate and dense juniper forests." , es: "El pico montañoso más alto de Arabia Saudita, conocido por su clima más fresco y sus densos bosques de enebros.", pt: "O pico de montanha mais alto da Arábia Saudita, conhecido pelo seu clima mais fresco e densas florestas de zimbro.", fr: "Le plus haut sommet montagneux d'Arabie saoudite, connu pour son climat plus frais et ses denses forêts de genévriers."},
     facts: {
       de: ["Erreicht eine Höhe von rund 3.000 Metern.", "Beliebtes Ziel für Wanderer und Naturliebhaber."],
@@ -314,7 +313,6 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     parent: "SA-01",
     coords: [46.7369, 24.5714],
     name: { de: "Wadi Hanifa", hu: "Vádi Hanifa", ro: "Wadi Hanifa", en: "Wadi Hanifa"},
-    image: "/poi-images/wadi-hanifa-nature-v2.webp",
     description: { de: "Ein historisches Flusstal, das sich durch Riad schlängelt und zu einem wichtigen ökologischen Erholungsgebiet ausgebaut wurde.", hu: "Rijádon kanyargó történelmi folyóvölgy, amelyet fontos ökológiai rekreációs területté alakítottak.", ro: "O vale istorică a unui râu care șerpuiește prin Riad și a fost transformată într-o importantă zonă de recreere ecologică.", en: "A historic river valley meandering through Riyadh that has been developed into a major ecological recreation area." , es: "Un valle fluvial histórico que serpentea por Riad y que ha sido transformado en una importante área de recreo ecológico.", pt: "Um vale fluvial histórico que serpenteia por Riade e que foi transformado numa importante área de lazer ecológico.", fr: "Une vallée fluviale historique qui serpente à travers Riyad et qui a été transformée en une importante zone de loisirs écologiques."},
     facts: {
       de: ["Erstreckt sich über eine Länge von 120 Kilometern.", "Dient der natürlichen Wasseraufbereitung der Hauptstadt."],
@@ -548,7 +546,6 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     parent: "SA-04",
     coords: [49.7180, 25.5180],
     name: { de: "Al-Asfar-See", hu: "Al-Aszfar-tó", ro: "Lacul Al-Asfar", en: "Al-Asfar Lake"},
-    image: "/poi-images/al-asfar-lake-nature-v2.webp",
     description: { de: "Ein ausgedehnter Feuchtgebietssee in der Oase Al-Ahsa, der Tausenden von Zugvögeln als Zufluchtsort dient.", hu: "Egy kiterjedt vizes élőhely az Al-Ahsza oázisban, amely vándormadarak ezreinek nyújt menedéket.", ro: "Un lac extins de zonă umedă din oaza Al-Ahsa, care servește drept refugiu pentru mii de păsări migratoare.", en: "An expansive wetland lake in the Al-Ahsa Oasis that serves as a sanctuary for thousands of migratory birds." , es: "Un extenso lago de humedales en el oasis de Al-Ahsa, que sirve de refugio a miles de aves migratorias.", pt: "Um extenso lago de zonas húmidas no oásis de Al-Ahsa, que serve de refúgio a milhares de aves migratórias.", fr: "Un vaste lac de zones humides dans l'oasis d'Al-Ahsa, servant de refuge à des milliers d'oiseaux migrateurs."},
     facts: {
       de: ["Ist ein von der UNESCO anerkanntes Welterbe.", "Umgeben von Sanddünen und üppiger Vegetation."],
@@ -737,7 +734,6 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     parent: "SA-07",
     coords: [35.3130, 28.6536],
     name: { de: "Dschabal al-Lauz", hu: "Dzsebel al-Lauz", ro: "Jabal Al-Lawz", en: "Jabal Al-Lawz"},
-    image: "/poi-images/jabal-al-lawz-nature-v2.webp",
     description: { de: "Der 'Mandelberg' im Nordwesten Saudi-Arabiens ist einer der wenigen Orte des Landes, an denen es im Winter schneit.", hu: "A Szaúd-Arábia északnyugati részén fekvő 'Mandula-hegy' az ország azon kevés helyeinek egyike, ahol télen havazik.", ro: "Muntele Migdalului din nord-vestul Arabiei Saudite este unul dintre puținele locuri din țară unde ninge iarna.", en: "The 'Almond Mountain' in northwestern Saudi Arabia is one of the few places in the country that experiences winter snowfall." , es: "La 'Montaña de los Almendros' en el noroeste de Arabia Saudita es uno de los pocos lugares del país donde nieva en invierno.", pt: "A 'Montanha das Amendoeiras' no noroeste da Arábia Saudita é um dos poucos lugares do país onde neva no inverno.", fr: "La 'montagne des amandiers' dans le nord-ouest de l'Arabie saoudite est l'un des rares endroits du pays où il neige en hiver."},
     facts: {
       de: ["Erreicht eine Höhe von 2.580 Metern.", "Der Name stammt von den Mandelbäumen, die einst hier wuchsen."],
@@ -773,7 +769,6 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     parent: "SA-02",
     coords: [41.2222, 19.3444],
     name: { de: "Wadi Qanuna", hu: "Vádi Kanuna", ro: "Wadi Qanuna", en: "Wadi Qanuna"},
-    image: "/poi-images/wadi-qanuna-nature-v2.webp",
     description: { de: "Eines der größten und schönsten Täler der Region, durch das fast das ganze Jahr über Wasser fließt.", hu: "A régió egyik legnagyobb és legszebb völgye, amelyen szinte egész évben víz folyik keresztül.", ro: "Una dintre cele mai mari și mai frumoase văi din regiune, prin care apa curge aproape tot anul.", en: "One of the largest and most beautiful valleys in the region, with water flowing through it almost all year round." , es: "Uno de los valles más grandes y bellos de la región, por el que fluye agua casi todo el año.", pt: "Um dos maiores e mais belos vales da região, por onde corre água quase todo o ano.", fr: "L'une des plus grandes et des plus belles vallées de la région, où l'eau coule presque toute l'année."},
     facts: {
       de: ["Die Länge des Flusstals beträgt über 100 Kilometer.", "Umgeben von Palmen und üppiger lokaler Vegetation."],
@@ -809,7 +804,6 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     parent: "SA-11",
     coords: [41.4552, 20.0355],
     name: { de: "Raghadan-Wald", hu: "Ragadán-erdő", ro: "Pădurea Raghadan", en: "Raghadan Forest"},
-    image: "/poi-images/raghadan-forest-nature-v2.webp",
     description: { de: "Ein dichter Waldpark in der Nähe von Al Baha, der für seine alten Bäume und atemberaubenden Ausblicke auf die Berge bekannt ist.", hu: "Sűrű erdőpark Al Baha közelében, amely ősi fáiról és a hegyekre nyíló lélegzetelállító kilátásáról ismert.", ro: "Un parc forestier dens lângă Al Baha, cunoscut pentru copacii săi bătrâni și priveliștile uimitoare asupra munților.", en: "A dense forest park near Al Baha, known for its ancient trees and breathtaking mountain views." , es: "Un denso parque forestal cerca de Al Baha, famoso por sus árboles antiguos y sus impresionantes vistas de las montañas.", pt: "Um denso parque florestal perto de Al Baha, famoso pelas suas árvores antigas e vistas deslumbrantes sobre as montanhas.", fr: "Un parc forestier dense près d'Al Baha, célèbre pour ses arbres centenaires et ses vues imprenables sur les montagnes."},
     facts: {
       de: ["Berühmt für verspielte Paviane, die den Park bewohnen.", "Bietet Hängebrücken für Besucher."],
@@ -962,7 +956,6 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     parent: "SA-01",
     coords: [46.1554, 24.3980],
     name: { de: "Al-Kharrarah-Nationalpark", hu: "Al-Harrára Nemzeti Park", ro: "Parcul Național Al Kharrarah", en: "Al Kharrarah National Park"},
-    image: "/poi-images/al-kharrarah-nature-v2.webp",
     description: { de: "Ein faszinierender Nationalpark mit tiefroten Sanddünen, die nach Regenfällen einen temporären See bilden.", hu: "Lenyűgöző nemzeti park mélyvörös homokdűnékkel, amelyek esőzések után ideiglenes tavat hoznak létre.", ro: "Un parc național fascinant, cu dune de nisip roșu intens, care formează un lac temporar după ploi.", en: "A fascinating national park featuring deep red sand dunes that form a temporary lake after rainfall." , es: "Un fascinante parque nacional con dunas de arena de color rojo intenso que forman un lago temporal tras las lluvias.", pt: "Um fascinante parque nacional com dunas de areia de cor vermelho intenso que formam um lago temporário após as chuvas.", fr: "Un parc national fascinant avec des dunes de sable rouge intense formant un lac temporaire après les pluies."},
     facts: {
       de: ["Der nach Regen entstehende See wird auch 'See des flüssigen Lichts' genannt.", "Liegt in der Nähe des Tuwaiq-Gebirges."],
@@ -1043,7 +1036,6 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     parent: "SA-03",
     coords: [38.2500, 26.8500],
     name: { de: "Sharaan-Naturreservat", hu: "Sarán Természetvédelmi Terület", ro: "Rezervația Naturală Sharaan", en: "Sharaan Nature Reserve"},
-    image: "/poi-images/sharaan-nature-reserve-nature-v2.webp",
     description: { de: "Ein geschütztes Gebiet in der Region Al Ula, das sich der Wiederherstellung der natürlichen Lebensräume und Tierarten der Wüste widmet.", hu: "Védett terület az Al Ula régióban, amely a sivatag természetes élőhelyeinek és állatfajainak helyreállítására összpontosít.", ro: "O zonă protejată în regiunea Al Ula dedicată restaurării habitatelor naturale și speciilor de animale din deșert.", en: "A protected area in the Al Ula region dedicated to restoring the natural desert habitats and wildlife species." , es: "Un área protegida en la región de Al Ula, dedicada a restaurar los hábitats naturales y las especies animales del desierto.", pt: "Uma área protegida na região de Al Ula, dedicada a restaurar os habitats naturais e as espécies animais do deserto.", fr: "Une zone protégée dans la région d'Al Ula, dédiée à la restauration des habitats naturels et des espèces animales du désert."},
     facts: {
       de: ["Soll ein sicherer Hafen für den Arabischen Leoparden werden.", "Besteht aus dramatischen Sandsteinformationen."],
@@ -1079,7 +1071,6 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     parent: "SA-01",
     coords: [46.7330, 25.2133],
     name: { de: "Thumamah-Nationalpark", hu: "Tumáma Nemzeti Park", ro: "Parcul Național Thumamah", en: "Thumamah National Park"},
-    image: "/poi-images/thumamah-national-park-nature-v2.webp",
     description: { de: "Ein weitläufiger Wüstenpark nördlich von Riad, der für Offroad-Abenteuer und Wüstencamping beliebt ist.", hu: "Egy kiterjedt sivatagi park Rijádtól északra, amely népszerű a terepjárós kalandok és a sivatagi kempingezés szerelmesei körében.", ro: "Un vast parc deșertic la nord de Riad, popular pentru aventuri off-road și camping în deșert.", en: "An expansive desert park north of Riyadh, popular for off-road adventures and desert camping." , es: "Un extenso parque desértico al norte de Riad, popular para aventuras todoterreno y acampadas en el desierto.", pt: "Um vasto parque desértico a norte de Riade, popular para aventuras todo-o-terreno e campismo no deserto.", fr: "Un vaste parc désertique au nord de Riyad, apprécié pour les aventures hors-piste et le camping dans le désert."},
     facts: {
       de: ["Umfasst zahlreiche Dünen, die für das Sandboarding ideal sind.", "Beherbergt traditionelle Beduinenzelte für Touristen."],
@@ -1160,7 +1151,6 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     parent: "SA-02",
     coords: [40.2483, 21.0505],
     name: { de: "Dschabal Daka", hu: "Dzsebel Daka", ro: "Jabal Daka", en: "Jabal Daka"},
-    image: "/poi-images/jabal-daka-nature-v2.webp",
     description: { de: "Der höchste Berg in der Region Ta'if, der für seine atemberaubenden Sonnenuntergänge und steilen Klippen bekannt ist.", hu: "A Taif régió legmagasabb hegye, amely lélegzetelállító naplementéiről és meredek szikláiról ismert.", ro: "Cel mai înalt munte din regiunea Ta'if, cunoscut pentru apusurile sale uluitoare și stâncile abrupte.", en: "The highest mountain in the Ta'if region, known for its breathtaking sunsets and steep cliffs." , es: "La montaña más alta en la región de Ta'if, conocida por sus impresionantes puestas de sol y acantilados escarpados.", pt: "A montanha mais alta na região de Ta'if, conhecida pelos seus pores do sol deslumbrantes e falésias íngremes.", fr: "La plus haute montagne de la région de Ta'if, connue pour ses couchers de soleil époustouflants et ses falaises escarpées."},
     facts: {
       de: ["Der Berg ist oft in dichten Nebel gehüllt.", "Ein beliebter Ort für Sternenbeobachtungen."],
@@ -1277,7 +1267,6 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     parent: "SA-01",
     coords: [46.6669, 24.5800],
     name: { de: "Wadi Namar", hu: "Vádi Namar", ro: "Wadi Namar", en: "Wadi Namar"},
-    image: "/poi-images/wadi-namar-nature-v2.webp",
     description: { de: "Ein wunderschönes Tal mit einem künstlichen See und einem Wasserfall in Riad, das ein idealer Ort für Familienausflüge ist.", hu: "Egy gyönyörű völgy mesterséges tóval és vízeséssel Rijádban, amely ideális hely a családi kirándulásokhoz.", ro: "O vale frumoasă cu un lac artificial și o cascadă în Riad, care este un loc ideal pentru excursii în familie.", en: "A beautiful valley featuring an artificial lake and a waterfall in Riyadh, an ideal spot for family outings." , es: "Un hermoso valle en Riad con un lago artificial y una cascada, un lugar ideal para excursiones familiares.", pt: "Um belo vale em Riade com um lago artificial e uma cascata, um local ideal para passeios em família.", fr: "Une belle vallée à Riyad avec un lac artificiel et une cascade, un lieu idéal pour les sorties en famille."},
     facts: {
       de: ["Der Seehafen verfügt über eine 2 Kilometer lange Promenade.", "Beliebter Picknickplatz für Einheimische."],
@@ -1358,7 +1347,6 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     parent: "SA-14",
     coords: [42.4172, 18.2325],
     name: { de: "Raydah-Schutzgebiet", hu: "Rajda Természetvédelmi Terület", ro: "Rezervația Escarpamentului Raydah", en: "Raydah Escarpment Reserve"},
-    image: "/poi-images/raydah-escarpment-reserve-nature-v2.webp",
     description: { de: "Ein steil abfallendes Schutzgebiet in den Asir-Bergen, das dichte Wälder und seltene Vogelarten beherbergt.", hu: "Meredeken lejtő természetvédelmi terület az Aszír-hegységben, amely sűrű erdőknek és ritka madárfajoknak ad otthont.", ro: "O rezervație cu pante abrupte în Munții Asir, care găzduiește păduri dese și specii rare de păsări.", en: "A steeply sloping reserve in the Asir Mountains that is home to dense forests and rare bird species." , es: "Una reserva natural escarpada en las montañas Asir, que alberga densos bosques y raras especies de aves.", pt: "Uma reserva natural escarpada nas montanhas Asir, que alberga densas florestas e espécies raras de aves.", fr: "Une réserve naturelle escarpée dans les montagnes de l'Asir, abritant des forêts denses et des espèces d'oiseaux rares."},
     facts: {
       de: ["Eine der letzten verbliebenen Zufluchtsorte für den Asir-Elster.", "Charakterisiert durch tiefe Schluchten und hohe Klippen."],
@@ -1439,7 +1427,6 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     parent: "SA-11",
     coords: [41.3150, 19.7891],
     name: { de: "Dschabal Shada", hu: "Dzsebel Sada", ro: "Jabal Shada", en: "Jabal Shada"},
-    image: "/poi-images/jabal-shada-nature-v2.webp",
     description: { de: "Ein Bergmassiv, das für seine ungewöhnlichen Felsformationen und alten Höhlenwohnungen berühmt ist.", hu: "Hegymasszívum, amely szokatlan sziklaalakzatairól és ősi barlanglakásairól híres.", ro: "Un masiv muntos renumit pentru formațiunile sale stâncoase neobișnuite și locuințele rupestre antice.", en: "A mountain massif famous for its unusual rock formations and ancient cave dwellings." , es: "Un macizo montañoso famoso por sus inusuales formaciones rocosas y antiguas viviendas en cuevas.", pt: "Um maciço montanhoso famoso pelas suas formações rochosas invulgares e antigas habitações em cavernas.", fr: "Un massif montagneux célèbre pour ses formations rocheuses inhabituelles et ses anciennes habitations troglodytes."},
     facts: {
       de: ["Die Höhlen wurden seit Jahrtausenden von Menschen bewohnt.", "Die Granitblöcke wurden durch Wind und Wetter geformt."],
@@ -1475,7 +1462,6 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     parent: "SA-10",
     coords: [45.5000, 19.3333],
     name: { de: "Uruq Bani Ma'arid", hu: "Uruk Bani Maarid", ro: "Uruq Bani Ma'arid", en: "Uruq Bani Ma'arid"},
-    image: "/poi-images/uruq-bani-maarid-nature-v2.webp",
     description: { de: "Ein Naturschutzgebiet am westlichen Rand des Leeren Viertels (Rub al-Chali), in dem die Arabische Oryx erfolgreich ausgewildert wurde.", hu: "Természetvédelmi terület az Üres Negyed (Rub al-Háli) nyugati peremén, ahol sikeresen visszatelepítették az arab bejzát.", ro: "O rezervație naturală la marginea vestică a Pătrarului Gol (Rub' al Khali), unde orixul arab a fost reintrodus cu succes.", en: "A nature reserve on the western edge of the Empty Quarter (Rub' al Khali) where the Arabian oryx has been successfully reintroduced." , es: "Una reserva natural en el borde occidental del Rub al-Jali, donde se reintrodujo con éxito el órice de Arabia.", pt: "Uma reserva natural na orla ocidental do Rub al-Jali, onde o órix-da-arábia foi reintroduzido com sucesso.", fr: "Une réserve naturelle à la limite ouest du Rub al-Khali, où l'oryx d'Arabie a été réintroduit avec succès."},
     facts: {
       de: ["Ist ein von der UNESCO anerkanntes Weltnaturerbe.", "Die Landschaft besteht aus gewaltigen linearen Sanddünen."],
@@ -1547,7 +1533,6 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     parent: "SA-01",
     coords: [47.2882, 25.3789],
     name: { de: "Rawdat Khuraim", hu: "Raudat Huraim", ro: "Rawdat Khuraim", en: "Rawdat Khuraim"},
-    image: "/poi-images/rawdat-khuraim-nature-v2.webp",
     description: { de: "Eine grüne Oase und ein Waldgebiet inmitten der Wüste, oft als der 'Wald des Königs' bezeichnet.", hu: "Egy zöld oázis és erdőterület a sivatag közepén, amelyet gyakran 'a király erdejének' is neveznek.", ro: "O oază verde și o zonă împădurită în mijlocul deșertului, adesea numită 'Pădurea Regelui'.", en: "A green oasis and forested area in the middle of the desert, often referred to as the 'King's Forest'." , es: "Un oasis verde y una zona boscosa en medio del desierto, a menudo llamado el 'Bosque del Rey'.", pt: "Um oásis verde e uma zona florestal no meio do deserto, frequentemente chamado de 'Floresta do Rei'.", fr: "Une oasis verte et une zone forestière au milieu du désert, souvent appelée la 'Forêt du Roi'."},
     facts: {
       de: ["Im Frühling blüht die Region mit unzähligen Wildblumen.", "Ein beliebtes Rückzugsgebiet für die königliche Familie."],

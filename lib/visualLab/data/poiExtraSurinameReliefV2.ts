@@ -12,7 +12,6 @@ export const poiExtraSurinameReliefV2: POI[] = [
       hu: "Wilhelmina-hegység",
       ro: "Munții Wilhelmina",
       en: "Wilhelmina Mountains"},
-    image: "/poi-images/sr-wilhelminagebergte-relief-v2.webp",
     description: {
       de: "Eine beeindruckende Bergkette in Zentral-Suriname, benannt nach einer niederländischen Königin.",
       hu: "Lenyűgöző hegylánc Közép-Suriname-ban, amelyet egy holland királynőről neveztek el.",

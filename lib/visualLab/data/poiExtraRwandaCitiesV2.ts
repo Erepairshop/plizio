@@ -8,7 +8,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-01",
     coords: [30.0619, -1.9441],
     name: { de: "Kigali", hu: "Kigali", ro: "Kigali", en: "Kigali"},
-    image: "/poi-images/rwanda-kigali-cities-v2.webp",
     description: { de: "Die dynamische Hauptstadt Ruandas ist bekannt für ihre Sauberkeit und die aufstrebende IT-Wirtschaft auf vielen grünen Hügeln.", hu: "Ruanda dinamikus fővárosa, amely tisztaságáról és a zöld dombokon kiépült fejlett informatikai szektoráról híres.", ro: "Capitala dinamică a Rwandei este renumită pentru curățenia sa și sectorul IT în plină dezvoltare de pe dealurile verzi.", en: "Rwanda's dynamic capital is famous for its cleanliness and the booming IT economy spread across green hills." , es: "La dinámica capital de Ruanda es conocida por su limpieza y su creciente economía de TI en muchas colinas verdes.", pt: "A capital dinâmica do Ruanda é conhecida pela sua limpeza e pela crescente economia de TI em muitas colinas verdes.", fr: "La capitale dynamique du Rwanda est connue pour sa propreté et son économie informatique florissante sur de nombreuses collines verdoyantes."},
     facts: {
       de: ["Gilt als eine der saubersten Städte Afrikas.", "Liegt auf mehreren sanften Hügeln im Landeszentrum."],
@@ -118,7 +117,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-03",
     coords: [29.6349, -1.4998],
     name: { de: "Musanze", hu: "Musanze", ro: "Musanze", en: "Musanze"},
-    image: "/poi-images/rwanda-musanze-cities-v2.webp",
     description: { de: "Die wichtigste Stadt im Norden ist das Tor zu den berühmten Berggorillas im Vulkan-Nationalpark.", hu: "Az északi régió legfontosabb városa a Vulkánok Nemzeti Park hegyi gorilláihoz vezető túrák kiindulópontja.", ro: "Cel mai important oraș din nord este poarta de acces către faimoasele gorile de munte din Parcul Național al Vulcanilor.", en: "The main city in the north is the gateway to the famous mountain gorillas in Volcanoes National Park." , es: "La ciudad más importante del norte es la puerta de entrada a los famosos gorilas de montaña en el Parque Nacional de los Volcanes.", pt: "A cidade mais importante do norte é a porta de entrada para os famosos gorilas de montanha no Parque Nacional dos Vulcões.", fr: "La ville la plus importante du nord est la porte d'entrée vers les célèbres gorilles de montagne du Parc National des Volcans."},
     facts: {
       de: ["Ehemals unter dem Namen Ruhengeri bekannt.", "Zentrum des ruandischen Tourismus für Naturbeobachter."],
@@ -234,7 +232,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-04",
     coords: [29.2559, -1.7028],
     name: { de: "Rubavu", hu: "Rubavu", ro: "Rubavu", en: "Rubavu"},
-    image: "/poi-images/rwanda-rubavu-cities-v2.webp",
     description: { de: "Ein malerischer Erholungsort am Ufer des Kiwusees, der direkt an die kongolesische Stadt Goma grenzt.", hu: "Festői üdülőváros a Kivu-tó partján, amely közvetlenül határos a kongói Goma városával.", ro: "O stațiune pitorească pe malul Lacului Kivu, care se învecinează direct cu orașul congolez Goma.", en: "A picturesque resort town on the shores of Lake Kivu, directly bordering the Congolese city of Goma." , es: "Un pintoresco lugar de descanso a orillas del lago Kivu, que limita directamente con la ciudad congoleña de Goma.", pt: "Um local de repouso pitoresco nas margens do Lago Kivu, que faz fronteira direta com a cidade congolesa de Goma.", fr: "Un lieu de villégiature pittoresque sur les rives du lac Kivu, bordant directement la ville congolaise de Goma."},
     facts: {
       de: ["Bietet herrliche Sandstrände am Süßwassersee.", "Die koloniale Architektur ist noch in Teilen sichtbar."],
@@ -351,7 +348,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-02",
     coords: [29.7422, -2.5966],
     name: { de: "Huye", hu: "Huye", ro: "Huye", en: "Huye"},
-    image: "/poi-images/rwanda-huye-cities-v2.webp",
     description: { de: "Die intellektuelle Hauptstadt im Süden beherbergt die nationale Universität und das beeindruckende ethnografische Museum.", hu: "A déli országrész szellemi központja ad otthont a nemzeti egyetemnek és egy lenyűgöző néprajzi múzeumnak.", ro: "Capitala intelectuală din sud găzduiește universitatea națională și impresionantul muzeu etnografic.", en: "The intellectual capital in the south houses the national university and the impressive ethnographic museum." , es: "La capital intelectual del sur alberga la universidad nacional y el impresionante museo etnográfico.", pt: "A capital intelectual do sul alberga a universidade nacional e o impressionante museu etnográfico.", fr: "La capitale intellectuelle du Sud abrite l'université nationale et l'impressionnant musée ethnographique."},
     facts: {
       de: ["Das frühere Butare ist ein Zentrum der Wissenschaft.", "Hier befindet sich das Nationalmuseum Ruandas."],
@@ -392,7 +388,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-02",
     coords: [29.7565, -2.0805],
     name: { de: "Muhanga", hu: "Muhanga", ro: "Muhanga", en: "Muhanga"},
-    image: "/poi-images/rwanda-muhanga-cities-v2.webp",
     description: { de: "Ein bedeutender Handelsknotenpunkt zwischen Kigali und den westlichen sowie südlichen Provinzen des Landes.", hu: "Fontos kereskedelmi csomópont Kigali, valamint az ország nyugati és déli tartományai között.", ro: "Un important nod comercial între Kigali și provinciile de vest și sud ale țării.", en: "A major commercial hub between Kigali and the western and southern provinces of the country." , es: "Un centro comercial clave entre Kigali y las provincias del oeste y del sur del país.", pt: "Um centro comercial fundamental entre Kigali e as províncias ocidental e meridional do país.", fr: "Une plaque tournante commerciale majeure entre Kigali et les provinces de l'ouest et du sud du pays."},
     facts: {
       de: ["Zweitgrößte städtische Agglomeration des Landes.", "War früher als Gitarama bekannt."],
@@ -428,7 +423,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-04",
     coords: [28.8920, -2.4842],
     name: { de: "Rusizi", hu: "Rusizi", ro: "Rusizi", en: "Rusizi"},
-    image: "/poi-images/rwanda-rusizi-cities-v2.webp",
     description: { de: "Eine geschäftige Grenzstadt am südlichen Ende des Kiwusees, die eine Brücke zur Demokratischen Republik Kongo schlägt.", hu: "Nyüzsgő határváros a Kivu-tó déli végénél, amely hidat képez a Kongói Demokratikus Köztársaság felé.", ro: "Un oraș de graniță aglomerat la capătul sudic al Lacului Kivu, care creează o punte către Republica Democrată Congo.", en: "A bustling border town at the southern end of Lake Kivu, bridging to the Democratic Republic of Congo." , es: "Una bulliciosa ciudad fronteriza en el extremo sur del lago Kivu que sirve de puente con la República Democrática del Congo.", pt: "Uma cidade fronteiriça movimentada no extremo sul do Lago Kivu que serve de ponte para a República Democrática do Congo.", fr: "Une ville frontalière animée à l'extrémité sud du lac Kivu, servant de pont avec la République démocratique du Congo."},
     facts: {
       de: ["Besteht aus zwei Hauptteilen: Cyangugu und Kamembe.", "Ein wichtiger Umschlagplatz für grenzüberschreitenden Handel."],
@@ -464,7 +458,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-05",
     coords: [30.4340, -1.9486],
     name: { de: "Rwamagana", hu: "Rwamagana", ro: "Rwamagana", en: "Rwamagana"},
-    image: "/poi-images/rwanda-rwamagana-cities-v2.webp",
     description: { de: "Die Hauptstadt der Ostprovinz zeichnet sich durch ein großes Industriegebiet und neue Solarkraftwerke aus.", hu: "A keleti tartomány fővárosa kiterjedt ipari területével és új naperőműveivel emelkedik ki.", ro: "Capitala provinciei de est se distinge printr-o zonă industrială mare și noi centrale solare.", en: "The capital of the Eastern Province is characterized by a large industrial area and new solar power plants." , es: "La capital de la Provincia Oriental destaca por una gran zona industrial y nuevas plantas de energía solar.", pt: "A capital da Província Oriental destaca-se por uma grande zona industrial e novas centrais de energia solar.", fr: "La capitale de la province de l'Est se distingue par une grande zone industrielle et de nouvelles centrales solaires."},
     facts: {
       de: ["Das städtische Zentrum liegt relativ flach.", "Hier befindet sich ein großes regionales Krankenhaus."],
@@ -662,7 +655,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-02",
     coords: [29.7360, -2.3524],
     name: { de: "Nyanza", hu: "Nyanza", ro: "Nyanza", en: "Nyanza"},
-    image: "/poi-images/rwanda-nyanza-cities-v2.webp",
     description: { de: "Das traditionelle Herz des ehemaligen ruandischen Königreichs bewahrt die historische Palastanlage der Monarchen.", hu: "Az egykori ruandai királyság hagyományos központja, amely megőrizte az uralkodók történelmi palotakomplexumát.", ro: "Inima tradițională a fostului regat ruandez păstrează complexul istoric al palatului monarhilor.", en: "The traditional heart of the former Rwandan kingdom preserves the historic palace complex of the monarchs." , es: "El corazón tradicional del antiguo reino ruandés conserva el histórico complejo palaciego de los monarcas.", pt: "O coração tradicional do antigo reino de Ruanda preserva o complexo palaciano histórico dos monarcas.", fr: "Le cœur traditionnel de l'ancien royaume rwandais conserve le complexe palatial historique des monarques."},
     facts: {
       de: ["Heimat des Königspalast-Museums in Rukari.", "Zeigt die berühmten Inyambo-Rinder mit riesigen Hörnern."],
@@ -743,7 +735,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-03",
     coords: [30.0664, -1.5768],
     name: { de: "Gicumbi", hu: "Gicumbi", ro: "Gicumbi", en: "Gicumbi"},
-    image: "/poi-images/rwanda-gicumbi-cities-v2.webp",
     description: { de: "Ein hochgelegenes landwirtschaftliches Zentrum, in dem vor allem grüner Tee und hochwertiger Weizen angebaut werden.", hu: "Magasan fekvő mezőgazdasági központ, ahol elsősorban zöld teát és kiváló minőségű búzát termesztenek.", ro: "Un centru agricol situat la altitudine unde se cultivă în principal ceai verde și grâu de înaltă calitate.", en: "A high-altitude agricultural center where green tea and high-quality wheat are primarily cultivated." , es: "Un centro agrícola de gran altitud donde se cultivan principalmente té verde y trigo de alta calidad.", pt: "Um centro agrícola de grande altitude onde se cultiva principalmente chá verde e trigo de alta qualidade.", fr: "Un centre agricole d'altitude où sont cultivés principalement du thé vert et du blé de haute qualité."},
     facts: {
       de: ["Das Gebiet ist für seine extrem steilen Hügel bekannt.", "Früher wurde die Stadt Byumba genannt."],
@@ -779,7 +770,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-02",
     coords: [29.5393, -2.4746],
     name: { de: "Nyamagabe", hu: "Nyamagabe", ro: "Nyamagabe", en: "Nyamagabe"},
-    image: "/poi-images/rwanda-nyamagabe-cities-v2.webp",
     description: { de: "Diese Stadt grenzt an den Nyungwe-Nationalpark und ist stark von der Holz- und Teeproduktion geprägt.", hu: "A Nyungwe Nemzeti Parkkal határos város életét erősen meghatározza a fa- és teatermelés.", ro: "Acest oraș se învecinează cu Parcul Național Nyungwe și depinde puternic de producția de lemn și ceai.", en: "This town borders the Nyungwe National Park and is heavily characterized by timber and tea production." , es: "Esta ciudad limita con el Parque Nacional Nyungwe y está fuertemente influenciada por la producción de madera y té.", pt: "Esta cidade faz fronteira com o Parque Nacional Nyungwe e é fortemente marcada pela produção de madeira e chá.", fr: "Cette ville borde le parc national de Nyungwe et est fortement marquée par la production de bois et de thé."},
     facts: {
       de: ["Ehemals als Gikongoro bekannt.", "Liegt auf einer Höhe von fast 2000 Metern."],
@@ -851,7 +841,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-05",
     coords: [30.3275, -1.2965],
     name: { de: "Nyagatare", hu: "Nyagatare", ro: "Nyagatare", en: "Nyagatare"},
-    image: "/poi-images/rwanda-nyagatare-cities-v2.webp",
     description: { de: "Das größte städtische Zentrum im Nordosten, charakterisiert durch Rinderzucht auf ausgedehnten, flachen Savannen.", hu: "Az északkeleti rész legnagyobb városi központja, amelyet a kiterjedt, sík szavannákon folytatott szarvasmarha-tenyésztés jellemez.", ro: "Cel mai mare centru urban din nord-est, caracterizat prin creșterea vitelor în savanele vaste și plate.", en: "The largest urban center in the northeast, characterized by cattle ranching on vast, flat savannas." , es: "El centro urbano más grande del noreste, caracterizado por la ganadería en extensas y llanas sabanas.", pt: "O maior centro urbano do nordeste, caracterizado pela pecuária em extensas savanas planas.", fr: "Le plus grand centre urbain du nord-est, caractérisé par l'élevage de bétail dans de vastes savanes plates."},
     facts: {
       de: ["Erlebt ein enormes Bevölkerungswachstum durch Rückkehrer.", "Das Klima ist hier deutlich heißer und trockener."],
@@ -932,7 +921,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-05",
     coords: [30.5140, -1.9056],
     name: { de: "Kayonza", hu: "Kayonza", ro: "Kayonza", en: "Kayonza"},
-    image: "/poi-images/rwanda-kayonza-cities-v2.webp",
     description: { de: "Ein bedeutender Verkehrsknotenpunkt, an dem sich die Hauptstraßen nach Tansania und Uganda teilen.", hu: "Jelentős közlekedési csomópont, ahol a Tanzánia és Uganda felé vezető főutak elválnak egymástól.", ro: "Un nod de transport major unde se împart drumurile principale către Tanzania și Uganda.", en: "A major transport hub where the main roads to Tanzania and Uganda divide." , es: "Un importante centro de transporte donde se dividen las carreteras principales hacia Tanzania y Uganda.", pt: "Um importante nó de transporte onde se dividem as estradas principais para a Tanzânia e Uganda.", fr: "Un nœud de transport majeur où se séparent les routes principales vers la Tanzanie et l'Ouganda."},
     facts: {
       de: ["Wichtiges Zentrum für logistikbezogene Unternehmen.", "In der Nähe befindet sich der Eingang zum Akagera-Park."],
@@ -968,7 +956,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-05",
     coords: [30.0883, -2.1481],
     name: { de: "Nyamata", hu: "Nyamata", ro: "Nyamata", en: "Nyamata"},
-    image: "/poi-images/rwanda-nyamata-cities-v2.webp",
     description: { de: "Die Hauptsiedlung des Bugesera-Distrikts, wo ein neuer internationaler Flughafen für Ruanda gebaut wird.", hu: "A Bugesera kerület fő települése, ahol Ruanda új nemzetközi repülőtere épül.", ro: "Așezarea principală a districtului Bugesera, unde se construiește un nou aeroport internațional pentru Rwanda.", en: "The main settlement of the Bugesera district, where a new international airport for Rwanda is being built." , es: "El asentamiento principal del distrito de Bugesera, donde se construye un nuevo aeropuerto internacional para Ruanda.", pt: "O principal povoado do distrito de Bugesera, onde está a ser construído um novo aeroporto internacional para Ruanda.", fr: "Le principal établissement du district de Bugesera, où un nouvel aéroport international est en construction pour le Rwanda."},
     facts: {
       de: ["Verfügt über eine wichtige Genozid-Gedenkstätte.", "Die Landschaft ist geprägt von vielen kleinen Seen."],
@@ -1004,7 +991,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-02",
     coords: [29.7758, -2.2307],
     name: { de: "Ruhango", hu: "Ruhango", ro: "Ruhango", en: "Ruhango"},
-    image: "/poi-images/rwanda-ruhango-cities-v2.webp",
     description: { de: "Eine wachsende Handelsstadt an der Hauptstraße in den Süden, bekannt für ihre großen Maniok-Verarbeitungsanlagen.", hu: "Növekvő kereskedőváros a délre vezető főút mentén, amely nagy manióka-feldolgozó üzemeiről ismert.", ro: "Un oraș comercial în creștere pe drumul principal spre sud, cunoscut pentru marile sale fabrici de prelucrare a maniocului.", en: "A growing commercial town on the main road south, known for its large cassava processing plants." , es: "Una ciudad comercial en crecimiento en la carretera principal hacia el sur, conocida por sus grandes plantas de procesamiento de mandioca.", pt: "Uma cidade comercial em crescimento na estrada principal para o sul, conhecida pelas suas grandes fábricas de processamento de mandioca.", fr: "Une ville commerciale en pleine croissance sur la route principale vers le sud, connue pour ses grandes usines de transformation du manioc."},
     facts: {
       de: ["Das Kinazi-Maniokwerk ist der größte Arbeitgeber.", "Wichtiger Halt für Überlandbusse."],
@@ -1040,7 +1026,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-04",
     coords: [29.1417, -2.3667],
     name: { de: "Nyamasheke", hu: "Nyamasheke", ro: "Nyamasheke", en: "Nyamasheke"},
-    image: "/poi-images/rwanda-nyamasheke-cities-v2.webp",
     description: { de: "Ein ruhiges Zentrum am Ufer des Kiwusees, das für ausgedehnte Kaffeeplantagen in der Umgebung bekannt ist.", hu: "Csendes központ a Kivu-tó partján, amely a környék kiterjedt kávéültetvényeiről híres.", ro: "Un centru liniștit pe malul Lacului Kivu, faimos pentru vastele sale plantații de cafea din împrejurimi.", en: "A quiet center on the shores of Lake Kivu, famous for the extensive coffee plantations in the surrounding area." , es: "Un centro tranquilo a orillas del lago Kivu, conocido por las extensas plantaciones de café en sus alrededores.", pt: "Um centro tranquilo nas margens do Lago Kivu, conhecido pelas extensas plantações de café nos arredores.", fr: "Un centre paisible au bord du lac Kivu, connu pour les vastes plantations de café des environs."},
     facts: {
       de: ["Hier wird erstklassiger Arabica-Kaffee produziert.", "Bietet Zugang zum südlichen Teil des Nyungwe-Waldes."],
@@ -1076,7 +1061,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-04",
     coords: [29.3170, -1.9167],
     name: { de: "Rutsiro", hu: "Rutsiro", ro: "Rutsiro", en: "Rutsiro"},
-    image: "/poi-images/rwanda-rutsiro-cities-v2.webp",
     description: { de: "Eine ländliche Stadt hoch über dem See, die starke Verbindungen zum Gishwati-Mukura-Nationalpark pflegt.", hu: "Tó felett magasan fekvő vidéki város, amely szoros kapcsolatot ápol a Gishwati-Mukura Nemzeti Parkkal.", ro: "Un oraș rural situat sus deasupra lacului, care menține legături strânse cu Parcul Național Gishwati-Mukura.", en: "A rural town high above the lake that maintains strong ties with the Gishwati-Mukura National Park." , es: "Una ciudad rural en las alturas sobre el lago que mantiene fuertes vínculos con el Parque Nacional Gishwati-Mukura.", pt: "Uma cidade rural nas alturas sobre o lago que mantém fortes ligações com o Parque Nacional Gishwati-Mukura.", fr: "Une ville rurale surplombant le lac, qui entretient des liens étroits avec le parc national de Gishwati-Mukura."},
     facts: {
       de: ["Zentrum der regionalen Honigproduktion.", "Landschaftlich geprägt durch Teeplantagen."],
@@ -1148,7 +1132,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-04",
     coords: [29.5167, -1.6333],
     name: { de: "Nyabihu", hu: "Nyabihu", ro: "Nyabihu", en: "Nyabihu"},
-    image: "/poi-images/rwanda-nyabihu-cities-v2.webp",
     description: { de: "Ein kühles Bergstädtchen am Rande der Vulkan-Kette, wo die besten Milchprodukte des Landes entstehen.", hu: "Hűvös hegyi városka a Vulkán-lánc szélén, ahol az ország legjobb tejtermékeit készítik.", ro: "Un orășel montan răcoros la marginea lanțului vulcanic, unde se obțin cele mai bune produse lactate din țară.", en: "A cool mountain town on the edge of the volcanic chain, where the country's best dairy products are made." , es: "Un fresco pueblito de montaña al borde de la cadena de volcanes, donde se producen los mejores lácteos del país.", pt: "Uma pequena cidade de montanha fresca à beira da cadeia de vulcões, onde se produzem os melhores lacticínios do país.", fr: "Une petite ville de montagne fraîche au bord de la chaîne des volcans, où sont produits les meilleurs produits laitiers du pays."},
     facts: {
       de: ["Das kühle Klima begünstigt die Milchwirtschaft.", "Hier existiert eine gut entwickelte Käseproduktion."],
@@ -1184,7 +1167,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-05",
     coords: [30.6500, -2.2667],
     name: { de: "Kirehe", hu: "Kirehe", ro: "Kirehe", en: "Kirehe"},
-    image: "/poi-images/rwanda-kirehe-cities-v2.webp",
     description: { de: "Eine geschäftige Stadt im Südosten, nahe dem Grenzposten Rusumo, die als Eintrittstor für Waren aus Tansania dient.", hu: "Nyüzsgő város délkeleten, a rusumói határátkelő közelében, amely a Tanzániából érkező áruk kapujaként szolgál.", ro: "Un oraș plin de viață în sud-est, aproape de punctul de frontieră Rusumo, servind drept poartă de intrare pentru mărfurile din Tanzania.", en: "A bustling town in the southeast, near the Rusumo border post, serving as a gateway for goods from Tanzania." , es: "Una bulliciosa ciudad en el sureste, cerca del puesto fronterizo de Rusumo, que sirve como puerta de entrada para mercancías de Tanzania.", pt: "Uma cidade movimentada no sudeste, perto do posto fronteiriço de Rusumo, que serve como porta de entrada para mercadorias da Tanzânia.", fr: "Une ville animée du sud-est, proche du poste frontière de Rusumo, qui sert de porte d'entrée pour les marchandises en provenance de Tanzanie."},
     facts: {
       de: ["Liegt an der strategisch wichtigen Zentralen Transportroute.", "Von großen Bananenplantagen umgeben."],
@@ -1220,7 +1202,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-05",
     coords: [30.2833, -1.6000],
     name: { de: "Gatsibo", hu: "Gatsibo", ro: "Gatsibo", en: "Gatsibo"},
-    image: "/poi-images/rwanda-gatsibo-cities-v2.webp",
     description: { de: "Eine rasant wachsende ländliche Siedlung in der Ostprovinz, in der moderne Viehzucht die Wirtschaft dominiert.", hu: "Gyorsan növekvő vidéki település a keleti tartományban, ahol a modern állattenyésztés uralja a gazdaságot.", ro: "O așezare rurală cu o creștere rapidă în provincia de est, unde creșterea modernă a animalelor domină economia.", en: "A rapidly growing rural settlement in the Eastern Province, where modern livestock farming dominates the economy." , es: "Un asentamiento rural de rápido crecimiento en la Provincia del Este, donde la ganadería moderna domina la economía.", pt: "Um assentamento rural em rápido crescimento na Província do Leste, onde a pecuária moderna domina a economia.", fr: "Un établissement rural en pleine croissance dans la province de l'Est, où l'élevage moderne domine l'économie."},
     facts: {
       de: ["Besitzt große Milchvieh-Genossenschaften.", "Die Hügel hier sind flacher und savannenartig."],
@@ -1256,7 +1237,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-03",
     coords: [29.8000, -1.4333],
     name: { de: "Burera", hu: "Burera", ro: "Burera", en: "Burera"},
-    image: "/poi-images/rwanda-burera-cities-v2.webp",
     description: { de: "Das Verwaltungszentrum eines nordwestlichen Bezirks, direkt an den spektakulären Zwillingsseen und nahen Vulkanen gelegen.", hu: "Egy északnyugati kerület közigazgatási központja, amely közvetlenül a látványos ikertavak és vulkánok mellett található.", ro: "Centrul administrativ al unui district de nord-vest, situat chiar lângă spectaculoasele lacuri gemene și vulcanii din apropiere.", en: "The administrative center of a northwestern district, located right next to the spectacular twin lakes and nearby volcanoes." , es: "El centro administrativo de un distrito del noroeste, situado junto a los espectaculares lagos gemelos y los volcanes cercanos.", pt: "O centro administrativo de um distrito do noroeste, localizado junto aos espetaculares lagos gémeos e vulcões próximos.", fr: "Le centre administratif d'un district du nord-ouest, situé au bord des spectaculaires lacs jumeaux et à proximité des volcans."},
     facts: {
       de: ["Beherbergt ein modernes medizinisches Exzellenzzentrum.", "Die Umgebung ist sehr fruchtbar für Bohnen."],
@@ -1292,7 +1272,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-03",
     coords: [29.9833, -1.7333],
     name: { de: "Rulindo", hu: "Rulindo", ro: "Rulindo", en: "Rulindo"},
-    image: "/poi-images/rwanda-rulindo-cities-v2.webp",
     description: { de: "Eine aufstrebende Kommune nahe der Hauptstadt, deren Wirtschaft von Kaffee-Verarbeitung und Bergbau profitiert.", hu: "Feltörekvő közösség a főváros közelében, melynek gazdasága a kávéfeldolgozásból és bányászatból profitál.", ro: "O comunitate emergentă aproape de capitală, a cărei economie beneficiază de prelucrarea cafelei și minerit.", en: "An emerging community near the capital, whose economy benefits from coffee processing and mining." , es: "Una comuna en auge cerca de la capital, cuya economía se beneficia del procesamiento de café y la minería.", pt: "Uma comunidade em expansão perto da capital, cuja economia beneficia do processamento de café e da mineração.", fr: "Une commune en plein essor proche de la capitale, dont l'économie profite du traitement du café et de l'exploitation minière."},
     facts: {
       de: ["Zahlreiche kleine Wolfram- und Zinnminen prägen das Umland.", "Wichtiger Verkehrsknoten für den Norden."],
@@ -1328,7 +1307,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-03",
     coords: [29.7833, -1.7000],
     name: { de: "Gakenke", hu: "Gakenke", ro: "Gakenke", en: "Gakenke"},
-    image: "/poi-images/rwanda-gakenke-cities-v2.webp",
     description: { de: "Dieses bergige Städtchen ist für seinen exzellenten Premium-Kaffee berühmt, der weltweit Auszeichnungen gewinnt.", hu: "Ez a hegyvidéki kisváros kiváló prémium kávéjáról híres, amely világszerte díjakat nyer.", ro: "Acest orășel montan este renumit pentru cafeaua sa premium excelentă, care câștigă premii în întreaga lume.", en: "This mountainous town is famous for its excellent premium coffee, which wins awards worldwide." , es: "Esta ciudad montañosa es famosa por su excelente café premium, que gana premios en todo el mundo.", pt: "Esta cidade montanhosa é famosa pelo seu excelente café premium, que ganha prémios em todo o mundo.", fr: "Cette ville montagneuse est célèbre pour son café premium d'exception, primé dans le monde entier."},
     facts: {
       de: ["Kaffeebauern aus Gakenke erzielen regelmäßig Rekordpreise.", "Wird von zahlreichen Flussläufen durchzogen."],
@@ -1364,7 +1342,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-02",
     coords: [29.8667, -2.0000],
     name: { de: "Kamonyi", hu: "Kamonyi", ro: "Kamonyi", en: "Kamonyi"},
-    image: "/poi-images/rwanda-kamonyi-cities-v2.webp",
     description: { de: "Das städtische Gebiet fungiert als wichtige Verbindung zwischen der Hauptstadtregion und dem tiefen Süden des Landes.", hu: "A városi terület fontos összeköttetésként szolgál a fővárosi régió és az ország déli része között.", ro: "Zona urbană acționează ca o legătură importantă între regiunea capitalei și sudul îndepărtat al țării.", en: "The urban area acts as an important link between the capital region and the deep south of the country." , es: "El área urbana actúa como una conexión importante entre la región de la capital y el extremo sur del país.", pt: "A área urbana funciona como uma ligação importante entre a região da capital e o sul profundo do país.", fr: "La zone urbaine sert de lien important entre la région de la capitale et le grand sud du pays."},
     facts: {
       de: ["Liegt direkt hinter den Ausläufern Kigalis.", "Landwirtschaftlich geprägt mit starker Ziegelproduktion."],
@@ -1400,7 +1377,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-02",
     coords: [29.5667, -2.7167],
     name: { de: "Nyaruguru", hu: "Nyaruguru", ro: "Nyaruguru", en: "Nyaruguru"},
-    image: "/poi-images/rwanda-nyaruguru-cities-v2.webp",
     description: { de: "Eine hochgelegene Siedlung im tiefen Süden, die an den Nyungwe-Nationalpark und den Nachbarstaat Burundi grenzt.", hu: "Magasan fekvő település a mély délen, amely a Nyungwe Nemzeti Parkkal és a szomszédos Burundival határos.", ro: "O așezare la altitudine mare în sudul îndepărtat, care se învecinează cu Parcul Național Nyungwe și cu statul vecin Burundi.", en: "A high-altitude settlement in the deep south, bordering the Nyungwe National Park and the neighboring state of Burundi." , es: "Un asentamiento a gran altitud en el extremo sur, que limita con el Parque Nacional Nyungwe y Burundi.", pt: "Um povoado de grande altitude no extremo sul, que faz fronteira com o Parque Nacional Nyungwe e o Burundi.", fr: "Un établissement d'altitude dans l'extrême sud, bordant le parc national de Nyungwe et le Burundi."},
     facts: {
       de: ["Bekannt als das wichtigste Zentrum für katholische Pilger in Ruanda.", "Teefelder dominieren das Landschaftsbild."],
@@ -1436,7 +1412,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-02",
     coords: [29.8333, -2.6167],
     name: { de: "Gisagara", hu: "Gisagara", ro: "Gisagara", en: "Gisagara"},
-    image: "/poi-images/rwanda-gisagara-cities-v2.webp",
     description: { de: "Ein bedeutender Ort im Südosten der Südprovinz, in dem große Torf-Kraftwerke zur nationalen Stromversorgung beitragen.", hu: "Jelentős település a déli tartományban, ahol nagy tőzegetermelő erőművek járulnak hozzá az ország áramellátásához.", ro: "O locație semnificativă în sud-estul provinciei de sud, unde marile centrale pe bază de turbă contribuie la aprovizionarea națională cu energie electrică.", en: "A significant location in the southeast of the Southern Province, where large peat power plants contribute to the national power supply." , es: "Un lugar significativo en el sureste de la Provincia del Sur, donde grandes centrales de turba contribuyen al suministro eléctrico nacional.", pt: "Um local significativo no sudeste da Província do Sul, onde grandes centrais elétricas de turfa contribuem para o abastecimento nacional.", fr: "Un site important au sud-est de la province du Sud, où de grandes centrales électriques à tourbe contribuent à l'approvisionnement national."},
     facts: {
       de: ["Eines der größten Torf-Kraftwerke Afrikas steht hier.", "Hat eine enge wirtschaftliche Bindung zu Huye."],
@@ -1477,7 +1452,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-01",
     coords: [30.1000, -2.0000],
     name: { de: "Kicukiro", hu: "Kicukiro", ro: "Kicukiro", en: "Kicukiro"},
-    image: "/poi-images/rwanda-kicukiro-cities-v2.webp",
     description: { de: "Ein rasant wachsender städtischer Bezirk von Kigali, der moderne Wohnviertel mit geschäftigen Gewerbezonen vereint.", hu: "Kigali gyorsan növekvő városrésze, amely a modern lakóövezeteket nyüzsgő kereskedelmi zónákkal ötvözi.", ro: "Un district urban din Kigali în creștere rapidă, care combină cartiere rezidențiale moderne cu zone comerciale aglomerate.", en: "A rapidly growing urban district of Kigali that combines modern residential areas with bustling commercial zones." , es: "Un distrito urbano de Kigali en rápido crecimiento que combina modernos barrios residenciales con bulliciosas zonas comerciales.", pt: "Um distrito urbano de Kigali em rápido crescimento que combina bairros residenciais modernos com zonas comerciais movimentadas.", fr: "Un district urbain de Kigali en pleine croissance qui combine des quartiers résidentiels modernes avec des zones commerciales animées."},
     facts: {
       de: ["Standort mehrerer Universitäts-Campus.", "Geprägt von einer starken industriellen Basis."],
@@ -1513,7 +1487,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-01",
     coords: [30.1333, -1.8833],
     name: { de: "Gasabo", hu: "Gasabo", ro: "Gasabo", en: "Gasabo"},
-    image: "/poi-images/rwanda-gasabo-cities-v2.webp",
     description: { de: "Der flächenmäßig größte Verwaltungsbezirk der Hauptstadt beherbergt Regierungsministerien und exklusive Wohngebiete.", hu: "A főváros legnagyobb területű kerülete ad otthont a kormányzati minisztériumoknak és exkluzív lakónegyedeknek.", ro: "Cel mai mare district administrativ al capitalei găzduiește ministere guvernamentale și zone rezidențiale exclusive.", en: "The largest administrative district of the capital houses government ministries and exclusive residential areas." , es: "El distrito administrativo más grande de la capital alberga ministerios gubernamentales y zonas residenciales exclusivas.", pt: "O maior distrito administrativo da capital abriga ministérios governamentais e áreas residenciais exclusivas.", fr: "Le plus vaste district administratif de la capitale abrite les ministères du gouvernement et des quartiers résidentiels huppés."},
     facts: {
       de: ["Hier befinden sich viele Botschaften und Regierungsgebäude.", "Umfasst auch ländliche Gebiete rund um Kigali."],
@@ -1549,7 +1522,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-01",
     coords: [30.0500, -1.9667],
     name: { de: "Nyarugenge", hu: "Nyarugenge", ro: "Nyarugenge", en: "Nyarugenge"},
-    image: "/poi-images/rwanda-nyarugenge-cities-v2.webp",
     description: { de: "Das kommerzielle und finanzielle Zentrum Kigalis beherbergt hohe Bankentürme und den berühmten großen Stadtmarkt.", hu: "Kigali kereskedelmi és pénzügyi központja, amely magas banktornyoknak és a híres városi piacnak ad otthont.", ro: "Centrul comercial și financiar din Kigali găzduiește turnuri bancare înalte și faimoasa piață mare a orașului.", en: "The commercial and financial center of Kigali houses high-rise bank towers and the famous large city market." , es: "El centro comercial y financiero de Kigali alberga torres bancarias y el famoso gran mercado de la ciudad.", pt: "O centro comercial e financeiro de Kigali abriga torres bancárias e o famoso grande mercado da cidade.", fr: "Le centre commercial et financier de Kigali abrite des tours bancaires et le célèbre grand marché de la ville."},
     facts: {
       de: ["Das älteste Siedlungsgebiet der heutigen Hauptstadt.", "Zentrum des Finanzsektors in Ruanda."],
@@ -1585,7 +1557,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-03",
     coords: [30.0125, -1.4358],
     name: { de: "Gatuna", hu: "Gatuna", ro: "Gatuna", en: "Gatuna"},
-    image: "/poi-images/rwanda-gatuna-cities-v2.webp",
     description: { de: "Der geschäftigste Grenzübergang nach Uganda, der einen Großteil der nationalen Importe über den Nordkorridor abwickelt.", hu: "A legforgalmasabb határátkelő Uganda felé, amely a nemzeti import nagy részét kezeli az északi folyosón keresztül.", ro: "Cel mai aglomerat punct de trecere a frontierei către Uganda, care gestionează o mare parte din importurile naționale prin coridorul nordic.", en: "The busiest border crossing to Uganda, which handles a large part of the national imports via the Northern Corridor." , es: "El paso fronterizo más transitado hacia Uganda, que gestiona gran parte de las importaciones nacionales a través del Corredor Norte.", pt: "A fronteira mais movimentada para o Uganda, que processa a maioria das importações nacionais através do Corredor Norte.", fr: "Le poste frontière le plus fréquenté vers l'Ouganda, gérant une grande partie des importations nationales via le corridor nord."},
     facts: {
       de: ["Ein 24-Stunden-Grenzposten für Frachtverkehr.", "Wichtiger wirtschaftlicher Lebensnerv für das Land."],
@@ -1621,7 +1592,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-05",
     coords: [30.4398, -1.0560],
     name: { de: "Kagitumba", hu: "Kagitumba", ro: "Kagitumba", en: "Kagitumba"},
-    image: "/poi-images/rwanda-kagitumba-cities-v2.webp",
     description: { de: "Ein bedeutender Dreiländerpunkt im Nordosten, wo die Grenzen Ruandas, Ugandas und Tansanias zusammentreffen.", hu: "Jelentős hármashatár-pont északkeleten, ahol Ruanda, Uganda és Tanzánia határai találkoznak.", ro: "Un punct triplu de frontieră semnificativ în nord-est, unde se întâlnesc granițele Rwandei, Ugandei și Tanzaniei.", en: "A significant tripoint in the northeast where the borders of Rwanda, Uganda, and Tanzania meet." , es: "Un importante punto trifinio en el noreste, donde se encuentran las fronteras de Ruanda, Uganda y Tanzania.", pt: "Um importante ponto trifonteira no nordeste, onde se encontram as fronteiras do Ruanda, Uganda e Tanzânia.", fr: "Un point de rencontre important entre trois pays au nord-est, où les frontières du Rwanda, de l'Ouganda et de la Tanzanie se rejoignent."},
     facts: {
       de: ["Sitz eines modernen One-Stop-Border-Post.", "Die umliegende Landschaft ist eine flache Steppe."],
@@ -1657,7 +1627,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-05",
     coords: [30.7853, -2.3813],
     name: { de: "Rusumo", hu: "Rusumo", ro: "Rusumo", en: "Rusumo"},
-    image: "/poi-images/rwanda-rusumo-cities-v2.webp",
     description: { de: "Eine Grenzstadt zu Tansania am Kagera-Fluss, in der ein großes trinationales Wasserkraftwerk errichtet wurde.", hu: "Tanzániával határos város a Kagera folyó mentén, ahol egy nagy háromnemzetiségű vízerőmű épült.", ro: "Un oraș de graniță cu Tanzania pe râul Kagera, unde a fost construită o mare centrală hidroelectrică tri-națională.", en: "A border town with Tanzania on the Kagera River, where a large tri-national hydroelectric power plant was built." , es: "Una ciudad fronteriza con Tanzania junto al río Kagera, donde se ha construido una gran central hidroeléctrica trinacional.", pt: "Uma cidade fronteiriça com a Tanzânia junto ao Rio Kagera, onde foi construída uma grande central hidroelétrica trinacional.", fr: "Une ville frontalière avec la Tanzanie au bord de la rivière Kagera, où une grande centrale hydroélectrique trinationale a été érigée."},
     facts: {
       de: ["Haupteintrittstor für Waren aus dem Hafen von Dar es Salaam.", "Besitzt spektakuläre Wasserfälle am Fluss."],
@@ -1729,7 +1698,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-04",
     coords: [29.2136, -2.6844],
     name: { de: "Bweyeye", hu: "Bweyeye", ro: "Bweyeye", en: "Bweyeye"},
-    image: "/poi-images/rwanda-bweyeye-cities-v2.webp",
     description: { de: "Eine abgelegene Siedlung im Nyungwe-Wald an der burundischen Grenze, geprägt von dichten Wäldern und Isolation.", hu: "Elszigetelt település a Nyungwe-erdőben, a burundi határ mentén, amelyet a sűrű erdők és az elszigeteltség jellemez.", ro: "O așezare îndepărtată în Pădurea Nyungwe la granița cu Burundi, marcată de păduri dense și izolare.", en: "A remote settlement in the Nyungwe Forest on the Burundian border, characterized by dense forests and isolation." , es: "Un asentamiento remoto en el bosque de Nyungwe, en la frontera con Burundi, caracterizado por sus densos bosques y aislamiento.", pt: "Um assentamento remoto na floresta de Nyungwe, na fronteira com o Burundi, caracterizado por florestas densas e isolamento.", fr: "Un établissement reculé dans la forêt de Nyungwe, à la frontière burundaise, marqué par des forêts denses et l'isolement."},
     facts: {
       de: ["Eines der am schwersten zugänglichen Gebiete Ruandas.", "Ist komplett vom Regenwald umschlossen."],
@@ -1765,7 +1733,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-04",
     coords: [29.5532, -1.6215],
     name: { de: "Mukamira", hu: "Mukamira", ro: "Mukamira", en: "Mukamira"},
-    image: "/poi-images/rwanda-mukamira-cities-v2.webp",
     description: { de: "Ein geschäftiger Handelsort an der Hauptachse zwischen Musanze und dem Kiwusee, umgeben von grünen Vulkanhängen.", hu: "Forgalmas kereskedelmi település a Musanze és a Kivu-tó közötti fő tengelyen, zöld vulkáni lejtőkkel körülvéve.", ro: "Un centru comercial plin de viață pe axa principală dintre Musanze și Lacul Kivu, înconjurat de versanți vulcanici verzi.", en: "A bustling trading town on the main axis between Musanze and Lake Kivu, surrounded by green volcanic slopes." , es: "Un concurrido lugar comercial en el eje principal entre Musanze y el lago Kivu, rodeado de verdes laderas volcánicas.", pt: "Um local comercial movimentado no eixo principal entre Musanze e o Lago Kivu, rodeado por encostas vulcânicas verdes.", fr: "Un lieu de commerce animé sur l'axe principal entre Musanze et le lac Kivu, entouré de versants volcaniques verdoyants."},
     facts: {
       de: ["Bekannt als Umschlagplatz für Kartoffeln aus dem Hochland.", "Es beherbergt große militärische Einrichtungen."],
@@ -1846,7 +1813,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-04",
     coords: [29.3908, -1.6053],
     name: { de: "Kora", hu: "Kora", ro: "Kora", en: "Kora"},
-    image: "/poi-images/rwanda-kora-cities-v2.webp",
     description: { de: "Eine kleine Stadt in den nordwestlichen Bergen, wo die lokale Landwirtschaft von fruchtbarer Vulkanerde profitiert.", hu: "Kisváros az északnyugati hegyekben, ahol a helyi mezőgazdaság sokat profitál a termékeny vulkáni talajból.", ro: "Un mic oraș din munții de nord-vest, unde agricultura locală beneficiază de pământul vulcanic fertil.", en: "A small town in the northwestern mountains, where local agriculture benefits from fertile volcanic soil." , es: "Una pequeña ciudad en las montañas del noroeste, donde la agricultura local se beneficia de la fértil tierra volcánica.", pt: "Uma pequena cidade nas montanhas do noroeste, onde a agricultura local beneficia de solo vulcânico fértil.", fr: "Une petite ville dans les montagnes du nord-ouest, où l'agriculture locale profite d'une terre volcanique fertile."},
     facts: {
       de: ["Landwirtschaftliches Zentrum in der Region Nyabihu.", "Spezialisiert auf den Anbau von Karotten und Kohl."],
@@ -1882,7 +1848,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-04",
     coords: [29.4172, -1.6300],
     name: { de: "Bigogwe", hu: "Bigogwe", ro: "Bigogwe", en: "Bigogwe"},
-    image: "/poi-images/rwanda-bigogwe-cities-v2.webp",
     description: { de: "Berühmt für ausgedehnte, saftige Weiden auf denen traditionelle Viehzucht nach jahrhundertealtem Muster betrieben wird.", hu: "Híres hatalmas, dús legelőiről, ahol az évszázados mintákat követő hagyományos állattenyésztés zajlik.", ro: "Faimos pentru pășunile extinse și luxuriante unde creșterea tradițională a animalelor este practicată după modele de secole.", en: "Famous for extensive, lush pastures where traditional livestock farming is practiced according to centuries-old patterns." , es: "Famoso por sus extensos y jugosos pastos donde se practica la ganadería tradicional siguiendo patrones centenarios.", pt: "Famoso por pastagens extensas e suculentas onde a pecuária tradicional é praticada seguindo padrões centenários.", fr: "Célèbre pour ses vastes pâturages verdoyants où l'élevage traditionnel est pratiqué selon des méthodes séculaires."},
     facts: {
       de: ["Hier grasen die Kühe mit den bekannten riesigen Hörnern.", "Wichtiger Ort für traditionelle Milchrituale."],
@@ -1918,7 +1883,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-03",
     coords: [29.7431, -1.5831],
     name: { de: "Kivuruga", hu: "Kivuruga", ro: "Kivuruga", en: "Kivuruga"},
-    image: "/poi-images/rwanda-kivuruga-cities-v2.webp",
     description: { de: "Ein bedeutendes ländliches Handelszentrum an der Nord-Süd-Verkehrsachse, geprägt von landwirtschaftlichen Märkten.", hu: "Jelentős vidéki kereskedelmi központ az észak-dél közlekedési tengelyen, mezőgazdasági piacokkal jellemezve.", ro: "Un important centru comercial rural pe axa de transport nord-sud, caracterizat de piețe agricole.", en: "A significant rural commercial center on the north-south transport axis, characterized by agricultural markets." , es: "Un importante centro de comercio rural en el eje de transporte norte-sur, caracterizado por mercados agrícolas.", pt: "Um importante centro de comércio rural no eixo de transporte norte-sul, caracterizado por mercados agrícolas.", fr: "Un centre commercial rural important sur l'axe de transport nord-sud, caractérisé par des marchés agricoles."},
     facts: {
       de: ["Fungiert als Verteilungsknotenpunkt für Frischwaren.", "Liegt in einer sehr hügeligen und grünen Region."],
@@ -1954,7 +1918,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-03",
     coords: [29.9275, -1.6933],
     name: { de: "Base", hu: "Base", ro: "Base", en: "Base"},
-    image: "/poi-images/rwanda-base-cities-v2.webp",
     description: { de: "Die strategisch günstige Lage auf halbem Weg in den Norden macht diesen Ort zu einem beliebten Rastplatz für Reisende.", hu: "Stratégiailag előnyös elhelyezkedése észak felé félúton kedvelt pihenőhellyé teszi ezt a települést az utazók számára.", ro: "Locația sa strategică la jumătatea drumului spre nord face din acest loc un popas popular pentru călători.", en: "Its strategically advantageous location halfway to the north makes this place a popular rest stop for travelers." , es: "Su ubicación estratégica a medio camino del norte convierte a este lugar en una parada popular para los viajeros.", pt: "A sua localização estratégica a meio caminho do norte torna este local um ponto de paragem popular para os viajantes.", fr: "Sa situation stratégique à mi-chemin vers le nord fait de cet endroit une halte populaire pour les voyageurs."},
     facts: {
       de: ["Zahlreiche Straßenverkäufer bieten hier lokale Snacks an.", "Befindet sich an der wichtigen Straße von Kigali nach Musanze."],
@@ -2026,7 +1989,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-03",
     coords: [30.0583, -1.6386],
     name: { de: "Miyove", hu: "Miyove", ro: "Miyove", en: "Miyove"},
-    image: "/poi-images/rwanda-miyove-cities-v2.webp",
     description: { de: "Eine wachsende Siedlung im Nordgebirge, deren Ökonomie zunehmend von modernen agro-industriellen Genossenschaften getrieben wird.", hu: "Növekvő település az északi hegyekben, amelynek gazdaságát egyre inkább modern agrár-ipari szövetkezetek hajtják.", ro: "O așezare în creștere în munții nordici, a cărei economie este tot mai mult condusă de cooperative agro-industriale moderne.", en: "A growing settlement in the northern mountains, whose economy is increasingly driven by modern agro-industrial cooperatives." , es: "Un asentamiento en crecimiento en las montañas del norte, cuya economía está impulsada cada vez más por modernas cooperativas agroindustriales.", pt: "Um assentamento em crescimento nas montanhas do norte, cuja economia é cada vez mais impulsionada por modernas cooperativas agroindustriais.", fr: "Une colonie en pleine croissance dans les montagnes du nord, dont l'économie est de plus en plus portée par des coopératives agro-industrielles modernes."},
     facts: {
       de: ["Hat große Anlagen zur Verarbeitung von Weizen.", "Profitieret von der Nähe zum Distriktzentrum Gicumbi."],
@@ -2107,7 +2069,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-03",
     coords: [29.5897, -1.4300],
     name: { de: "Kinigi", hu: "Kinigi", ro: "Kinigi", en: "Kinigi"},
-    image: "/poi-images/rwanda-kinigi-cities-v2.webp",
     description: { de: "Dieses Basis-Lager für Touristen liegt unmittelbar am Vulkan-Nationalpark und profitiert massiv vom Ökotourismus.", hu: "Ez a turisták számára kiépült alaptábor közvetlenül a Vulkánok Nemzeti Park mellett fekszik, és masszívan profitál az ökoturizmusból.", ro: "Acest oraș-tabără de bază pentru turiști este situat chiar lângă Parcul Național al Vulcanilor și beneficiază masiv de pe urma ecoturismului.", en: "This base camp for tourists is located right next to the Volcanoes National Park and benefits massively from ecotourism." , es: "Este campamento base para turistas se encuentra directamente en el Parque Nacional de los Volcanes y se beneficia masivamente del ecoturismo.", pt: "Este acampamento base para turistas situa-se diretamente no Parque Nacional dos Vulcões e beneficia massivamente do ecoturismo.", fr: "Ce camp de base pour touristes est situé directement au parc national des Volcans et profite massivement de l'écotourisme."},
     facts: {
       de: ["Das Hauptquartier für das Gorilla-Trekking in Ruanda.", "Zahlreiche Öko-Lodges prägen die Umgebung."],
@@ -2260,7 +2221,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-02",
     coords: [29.7472, -2.1000],
     name: { de: "Kabgayi", hu: "Kabgayi", ro: "Kabgayi", en: "Kabgayi"},
-    image: "/poi-images/rwanda-kabgayi-cities-v2.webp",
     description: { de: "Das historische Epizentrum der katholischen Kirche in Ruanda beherbergt eine monumentale Kathedrale und viele Schulen.", hu: "A ruandai katolikus egyház történelmi központja, amely egy monumentális katedrálisnak és számos iskolának ad otthont.", ro: "Epicentrul istoric al Bisericii Catolice din Rwanda găzduiește o catedrală monumentală și multe școli.", en: "The historical epicenter of the Catholic Church in Rwanda houses a monumental cathedral and many schools." , es: "El epicentro histórico de la Iglesia Católica en Ruanda alberga una catedral monumental y muchas escuelas.", pt: "O epicentro histórico da Igreja Católica no Ruanda alberga uma catedral monumental e muitas escolas.", fr: "L'épicentre historique de l'Église catholique au Rwanda abrite une cathédrale monumentale et de nombreuses écoles."},
     facts: {
       de: ["Hier steht die älteste Kathedrale Ruandas.", "Ist das theologische Bildungszentrum des Landes."],
@@ -2296,7 +2256,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-02",
     coords: [29.5528, -2.6464],
     name: { de: "Kibeho", hu: "Kibeho", ro: "Kibeho", en: "Kibeho"},
-    image: "/poi-images/rwanda-kibeho-cities-v2.webp",
     description: { de: "Weltbekannt als der einzige vom Vatikan anerkannte Marien-Erscheinungsort auf dem afrikanischen Kontinent.", hu: "Világszerte ismert, mint az afrikai kontinens egyetlen olyan Mária-jelenésének helyszíne, amelyet a Vatikán is elismert.", ro: "Cunoscut la nivel mondial ca singurul loc de apariție mariană aprobat de Vatican de pe continentul african.", en: "World-famous as the only Vatican-approved Marian apparition site on the African continent." , es: "Conocido mundialmente como el único lugar de apariciones marianas reconocido por el Vaticano en el continente africano.", pt: "Conhecido mundialmente como o único local de aparições marianas reconhecido pelo Vaticano no continente africano.", fr: "Mondialement connu comme le seul lieu d'apparitions mariales reconnu par le Vatican sur le continent africain."},
     facts: {
       de: ["Zieht jährlich zehntausende Pilger aus aller Welt an.", "Ein Ort von großer spiritueller Bedeutung für Ruanda."],
@@ -2332,7 +2291,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-02",
     coords: [29.7525, -2.5411],
     name: { de: "Save", hu: "Save", ro: "Save", en: "Save"},
-    image: "/poi-images/rwanda-save-cities-v2.webp",
     description: { de: "Die erste katholische Missionsstation Ruandas, gegründet 1900, liegt majestätisch auf einem Hügel nahe der Stadt Huye.", hu: "Ruanda legelső katolikus missziója, amelyet 1900-ban alapítottak, fenségesen magasodik egy dombon Huye városa közelében.", ro: "Prima misiune catolică din Rwanda, fondată în 1900, stă maiestuos pe un deal aproape de orașul Huye.", en: "Rwanda's first Catholic mission, founded in 1900, sits majestically on a hill near the city of Huye." , es: "La primera misión católica de Ruanda, fundada en 1900, se alza majestuosamente sobre una colina cerca de la ciudad de Huye.", pt: "A primeira missão católica de Ruanda, fundada em 1900, ergue-se majestosamente numa colina perto da cidade de Huye.", fr: "La première mission catholique du Rwanda, fondée en 1900, se dresse majestueusement sur une colline près de la ville de Huye."},
     facts: {
       de: ["Historischer Ausgangspunkt des Christentums im Land.", "Beherbergt alte klösterliche Einrichtungen."],
@@ -2368,7 +2326,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-02",
     coords: [29.7547, -2.6075],
     name: { de: "Ndora", hu: "Ndora", ro: "Ndora", en: "Ndora"},
-    image: "/poi-images/rwanda-ndora-cities-v2.webp",
     description: { de: "Ein geschäftiges Zentrum des landwirtschaftlichen Handels im Gisagara-Distrikt, in dem vor allem Kaffeebohnen umgeschlagen werden.", hu: "A gisagarai kerület nyüzsgő mezőgazdasági kereskedelmi központja, ahol elsősorban kávébabot forgalmaznak.", ro: "Un centru aglomerat de comerț agricol din districtul Gisagara, unde sunt comercializate în principal boabele de cafea.", en: "A bustling center of agricultural trade in the Gisagara district, where coffee beans are primarily traded." , es: "Un concurrido centro de comercio agrícola en el distrito de Gisagara, donde se comercializan principalmente granos de café.", pt: "Um centro movimentado de comércio agrícola no distrito de Gisagara, onde se comercializam principalmente grãos de café.", fr: "Un centre de commerce agricole animé dans le district de Gisagara, où l'on traite principalement des grains de café."},
     facts: {
       de: ["Gilt als Sammelstelle für Ernten kleiner lokaler Bauern.", "Die Region ist flacher als der raue ruandische Norden."],
@@ -2404,7 +2361,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-02",
     coords: [29.7533, -2.6739],
     name: { de: "Kansi", hu: "Kansi", ro: "Kansi", en: "Kansi"},
-    image: "/poi-images/rwanda-kansi-cities-v2.webp",
     description: { de: "Diese friedliche südliche Gemeinde ist stark von handwerklicher Bananenweinherstellung und Töpferei geprägt.", hu: "Ezt a békés déli települést nagyban meghatározza a kézműves banánbor-készítés és a hagyományos fazekasság.", ro: "Această comunitate liniștită din sud este puternic influențată de producția artizanală de vin de banane și olărit.", en: "This peaceful southern community is heavily influenced by artisanal banana wine production and traditional pottery." , es: "Esta tranquila comunidad del sur está fuertemente marcada por la producción artesanal de vino de banana y la alfarería.", pt: "Esta comunidade pacata do sul é fortemente marcada pela produção artesanal de vinho de banana e pela olaria.", fr: "Cette paisible communauté du sud est fortement marquée par la fabrication artisanale de vin de banane et la poterie."},
     facts: {
       de: ["Bekannt für traditionelle ruandische Tonwaren.", "Es gibt hier mehrere historische Bildungseinrichtungen."],
@@ -2440,7 +2396,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-02",
     coords: [29.8169, -2.7142],
     name: { de: "Mugombwa", hu: "Mugombwa", ro: "Mugombwa", en: "Mugombwa"},
-    image: "/poi-images/rwanda-mugombwa-cities-v2.webp",
     description: { de: "Ein bedeutender Standort durch das UNHCR-Flüchtlingslager, der eine starke internationale humanitäre Präsenz aufweist.", hu: "Az UNHCR menekülttábor miatt jelentős helyszín, amely erős nemzetközi humanitárius jelenléttel rendelkezik.", ro: "O locație semnificativă din cauza taberei de refugiați UNHCR, care are o prezență umanitară internațională puternică.", en: "A significant location due to the UNHCR refugee camp, which has a strong international humanitarian presence." , es: "Un sitio importante debido al campo de refugiados de ACNUR, que presenta una fuerte presencia humanitaria internacional.", pt: "Um local importante devido ao campo de refugiados do ACNUR, apresentando uma forte presença humanitária internacional.", fr: "Un site important en raison du camp de réfugiés du HCR, qui présente une forte présence humanitaire internationale."},
     facts: {
       de: ["Beherbergt tausende kongolesische Flüchtlinge.", "Fungiert als wirtschaftlicher Motor für die lokale Umgebung."],
@@ -2476,7 +2431,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-05",
     coords: [30.2222, -2.1883],
     name: { de: "Rilima", hu: "Rilima", ro: "Rilima", en: "Rilima"},
-    image: "/poi-images/rwanda-rilima-cities-v2.webp",
     description: { de: "Bekannt für sein großes Krankenhaus, das auf Knochenchirurgie spezialisiert ist, inmitten der flachen Landschaft Bugeseras.", hu: "Bugesera sík vidékén található a város, amely nagy, csontsebészetre szakosodott kórházáról híres.", ro: "Cunoscut pentru marele său spital specializat în chirurgie osoasă, în mijlocul peisajului plat din Bugesera.", en: "Known for its large hospital specializing in bone surgery, in the midst of the flat landscape of Bugesera." , es: "Conocido por su gran hospital especializado en cirugía ósea, en medio del paisaje llano de Bugesera.", pt: "Conhecido pelo seu grande hospital especializado em cirurgia óssea, no meio da paisagem plana de Bugesera.", fr: "Connu pour son grand hôpital spécialisé en chirurgie osseuse, au milieu du paysage plat de Bugesera."},
     facts: {
       de: ["Verfügt über ein orthopädisches Zentrum von nationalem Rang.", "Umgeben von weitläufigen Maniok-Feldern."],
@@ -2512,7 +2466,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-05",
     coords: [30.2450, -2.2356],
     name: { de: "Gashora", hu: "Gashora", ro: "Gashora", en: "Gashora"},
-    image: "/poi-images/rwanda-gashora-cities-v2.webp",
     description: { de: "Diese am Mirayi-See gelegene Stadt ist Heimat einer exklusiven Mädchen-Akademie, die junge afrikanische Führungskräfte ausbildet.", hu: "A Mirayi-tó partján fekvő város ad otthont egy exkluzív leányakadémiának, amely fiatal afrikai vezetőket képez.", ro: "Acest oraș situat pe Lacul Mirayi găzduiește o academie exclusivă pentru fete care pregătește tinere lidere africane.", en: "This town located on Lake Mirayi is home to an exclusive girls' academy that trains young African leaders." , es: "Esta ciudad situada junto al lago Mirayi alberga una academia exclusiva para niñas que forma a jóvenes líderes africanas.", pt: "Esta cidade situada no Lago Mirayi é o lar de uma academia exclusiva para raparigas que forma jovens líderes africanas.", fr: "Cette ville située au bord du lac Mirayi abrite une académie pour filles prestigieuse formant les futures dirigeantes africaines."},
     facts: {
       de: ["Die Gashora Girls Academy hat landesweite Bekanntheit.", "Tourismus am See entwickelt sich zunehmend."],
@@ -2548,7 +2501,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-05",
     coords: [30.5794, -2.2036],
     name: { de: "Rukira", hu: "Rukira", ro: "Rukira", en: "Rukira"},
-    image: "/poi-images/rwanda-rukira-cities-v2.webp",
     description: { de: "Eine von traditioneller Landwirtschaft geprägte Gemeinde, in der Sorghum und Bohnen das Bild der Ostprovinz bestimmen.", hu: "Hagyományos mezőgazdaság jellemezte közösség, ahol a cirok és a bab határozza meg a keleti tartomány képét.", ro: "O comunitate dominată de agricultura tradițională, unde sorgul și fasolea definesc imaginea provinciei de est.", en: "A community dominated by traditional agriculture, where sorghum and beans define the image of the Eastern Province." , es: "Una comunidad marcada por la agricultura tradicional, donde el sorgo y las judías definen el paisaje de la Provincia Oriental.", pt: "Uma comunidade marcada pela agricultura tradicional, onde o sorgo e o feijão definem a paisagem da Província Oriental.", fr: "Une communauté marquée par l'agriculture traditionnelle, où le sorgho et les haricots définissent le paysage de la province de l'Est."},
     facts: {
       de: ["Wichtiges lokales Handelszentrum für Getreide.", "Die Savannenlandschaft hier ist im Sommer sehr trocken."],
@@ -2584,7 +2536,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-05",
     coords: [30.7225, -2.0153],
     name: { de: "Nasho", hu: "Nasho", ro: "Nasho", en: "Nasho"},
-    image: "/poi-images/rwanda-nasho-cities-v2.webp",
     description: { de: "Am Nasho-See liegend, profitiert die Stadt von einem modernen Solar-Bewässerungsprojekt zur Steigerung der Ernteerträge.", hu: "A Nasho-tó partján fekvő város egy modern napelemes öntözési projektből profitál, amely növeli a termésátlagokat.", ro: "Situat pe Lacul Nasho, orașul beneficiază de un proiect modern de irigații solare pentru a crește recoltele.", en: "Located on Lake Nasho, the city benefits from a modern solar irrigation project to increase crop yields." , es: "Situada junto al lago Nasho, la ciudad se beneficia de un moderno proyecto de riego solar para aumentar el rendimiento de las cosechas.", pt: "Situada junto ao Lago Nasho, a cidade beneficia de um moderno projecto de irrigação solar para aumentar o rendimento das colheitas.", fr: "Située au bord du lac Nasho, la ville bénéficie d'un projet moderne d'irrigation solaire pour augmenter les rendements des récoltes."},
     facts: {
       de: ["Fortschrittliche Technologie hat die Landwirtschaft revolutioniert.", "Beliebter Ort für Vogelbeobachtung am Wasser."],
@@ -2620,7 +2571,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-05",
     coords: [30.6133, -1.9422],
     name: { de: "Rwinkwavu", hu: "Rwinkwavu", ro: "Rwinkwavu", en: "Rwinkwavu"},
-    image: "/poi-images/rwanda-rwinkwavu-cities-v2.webp",
     description: { de: "Ein geschichtsträchtiges Bergbauzentrum für Zinn, das heute dank internationaler Unterstützung ein Vorzeigekrankenhaus besitzt.", hu: "Történelmi jelentőségű ónbányászati központ, amely ma nemzetközi támogatásnak köszönhetően mintakórházzal rendelkezik.", ro: "Un centru istoric de exploatare a staniului, care astăzi are un spital model datorită sprijinului internațional.", en: "A historic tin mining center that today boasts a model hospital thanks to international support." , es: "Un centro minero de estaño cargado de historia que hoy cuenta con un hospital modelo gracias al apoyo internacional.", pt: "Um centro mineiro de estanho carregado de história que hoje possui um hospital modelo graças ao apoio internacional.", fr: "Un centre minier d'étain chargé d'histoire qui dispose aujourd'hui d'un hôpital modèle grâce au soutien international."},
     facts: {
       de: ["Wurde durch die NGO Partners In Health weltweit bekannt.", "Ehemaliges Zentrum der kongolesischen Bergbau-Routen."],
@@ -2737,7 +2687,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-05",
     coords: [30.4908, -1.7878],
     name: { de: "Rukara", hu: "Rukara", ro: "Rukara", en: "Rukara"},
-    image: "/poi-images/rwanda-rukara-cities-v2.webp",
     description: { de: "Das Bildungs-Zentrum des Kayonza-Distrikts verfügt über ein pädagogisches College, das Lehrer für ganz Ruanda ausbildet.", hu: "Kayonza kerület oktatási központja rendelkezik egy tanárképző főiskolával, amely egész Ruanda számára képez oktatókat.", ro: "Centrul educațional al districtului Kayonza are un colegiu pedagogic care formează profesori pentru toată Rwanda.", en: "The educational center of the Kayonza district has a teachers' college that trains teachers for all of Rwanda." , es: "El centro educativo del distrito de Kayonza cuenta con una escuela de magisterio que forma a profesores para toda Ruanda.", pt: "O centro educacional do distrito de Kayonza possui uma faculdade de pedagogia que forma professores para toda a Ruanda.", fr: "Le centre éducatif du district de Kayonza dispose d'une école normale qui forme des enseignants pour tout le Rwanda."},
     facts: {
       de: ["Die UR-College of Education hat hier einen Campus.", "Infrastruktur für Studenten prägt das Stadtbild."],
@@ -2773,7 +2722,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     parent: "RW-05",
     coords: [30.3392, -1.7456],
     name: { de: "Murambi", hu: "Murambi", ro: "Murambi", en: "Murambi"},
-    image: "/poi-images/rwanda-murambi-cities-v2.webp",
     description: { de: "Eine landwirtschaftliche Hochburg im Osten, deren Name zwar traurige Geschichte birgt, heute aber Erholung symbolisiert.", hu: "Mezőgazdasági fellegvár keleten, amelynek neve bár szomorú múltat hordoz, ma már a fellendülés szimbóluma.", ro: "Un bastion agricol din est, al cărui nume, deși poartă o istorie tristă, simbolizează acum recuperarea.", en: "An agricultural stronghold in the east, whose name, although carrying a sad history, now symbolizes recovery." , es: "Un bastión agrícola en el este, cuyo nombre encierra una historia triste pero que hoy simboliza la recuperación.", pt: "Um baluarte agrícola no leste, cujo nome carrega uma história triste, mas hoje simboliza a recuperação.", fr: "Un bastion agricole à l'est, dont le nom porte une histoire triste, mais qui symbolise aujourd'hui le renouveau."},
     facts: {
       de: ["Wichtig für den Anbau von Sonnenblumen und Mais.", "Geografisch in sanft geschwungenen Savannen gelegen."],

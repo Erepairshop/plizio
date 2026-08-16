@@ -93,7 +93,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
       hu: "Koryo Múzeum (Songgyungwan)",
       ro: "Muzeul Koryo (Songgyungwan)",
       en: "Koryo Museum (Songgyungwan)"},
-    image: "/poi-images/northkorea-songgyungwan-history-v2.webp",
     description: {
       de: "Das Koryo-Museum in Kaesong war ursprünglich die höchste konfuzianische Akademie der Koryo-Dynastie, bekannt als Songgyungwan. Der im 10. Jahrhundert gegründete Komplex besteht aus mehr als 20 historischen Gebäuden und beherbergt eine reiche Sammlung von Keramiken und buddhistischen Artefakten. Der friedliche Innenhof wird von über tausend Jahre alten Gingko- und Zelkovenbäumen beschattet. Es ist ein UNESCO-Weltkulturerbe.",
       hu: "A kaesongi Koryo Múzeum eredetileg a Koryo-dinasztia legmagasabb rangú konfuciánus akadémiája, a Songgyungwan volt. A 10. században alapított komplexum több mint 20 történelmi épületből áll, és kerámiák, valamint buddhista leletek gazdag gyűjteményét őrzi. Békés belső udvarát több mint ezer éves páfrányfenyők és zelkova fák árnyékolják be. Az UNESCO Világörökség része.",
@@ -206,7 +205,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
       hu: "Sonjuk-híd",
       ro: "Podul Sonjuk",
       en: "Sonjuk Bridge"},
-    image: "/poi-images/northkorea-sonjuk-bridge-history-v2.webp",
     description: {
       de: "Die Sonjuk-Brücke ist eine kleine, steinerne Brücke in Kaesong, die 1290 erbaut wurde. Sie ist historisch berühmt als der Ort, an dem der loyale konfuzianische Gelehrte Jong Mong-ju im Jahr 1392 ermordet wurde, was den Untergang der Koryo-Dynastie besiegelte. Der Legende nach wuchs dort, wo sein Blut vergossen wurde, ein roter Bambus (Sonjuk). Die Brücke wurde seit 1780 für den Verkehr gesperrt, um seinen Geist zu ehren.",
       hu: "A Sonjuk-híd egy kis kőhíd Kaesongban, amely 1290-ben épült. Történelmileg arról hírhedt, hogy 1392-ben itt gyilkolták meg Jong Mong-ju hűséges konfuciánus tudóst, ami megpecsételte a Koryo-dinasztia sorsát. A legenda szerint ahol a vére kiontott, egy vörös bambusz (Sonjuk) nőtt. A hidat 1780 óta lezárták a forgalom elől szellemének tiszteletére.",
@@ -274,7 +272,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
       hu: "Wang Gon király sírja",
       ro: "Mormântul Regelui Wang Gon",
       en: "Tomb of King Wang Gon"},
-    image: "/poi-images/northkorea-wang-gon-tomb-history-v2.webp",
     description: {
       de: "Das Grabmal des Königs Wang Gon, des Gründers der Koryo-Dynastie, liegt in einem bewaldeten Tal nahe Kaesong. Das 943 errichtete Mausoleum besteht aus einem gewaltigen Erdhügel, der von aufwendig geschnitzten Steinfiguren von Tigern, Schafen und zivilen sowie militärischen Beamten flankiert wird. Die Stätte wurde 1994 im Vorfeld des 1000-jährigen Jubiläums der Koryo-Gründung von Nordkorea massiv restauriert und monumentalisiert.",
       hu: "Wang Gon királynak, a Koryo-dinasztia alapítójának sírja egy erdős völgyben fekszik Kaesong közelében. A 943-ban épült mauzóleum egy hatalmas földhalomból áll, amelyet tigriseket, juhokat, valamint polgári és katonai tisztviselőket ábrázoló, bonyolult faragású kőszobrok szegélyeznek. A helyszínt Észak-Korea 1994-ben, a Koryo alapításának 1000. évfordulója alkalmából masszívan restaurálta.",
@@ -603,7 +600,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
       hu: "Pohyon-templom",
       ro: "Templul Pohyon",
       en: "Pohyon Temple"},
-    image: "/poi-images/northkorea-pohyon-temple-history-v2.webp",
     description: {
       de: "Der Pohyon-Tempel im Myohyang-Gebirge ist einer der wichtigsten buddhistischen Komplexe Nordkoreas. Er wurde im Jahr 1042 gegründet und diente über Jahrhunderte als spirituelles Zentrum im Norden der Halbinsel. Die Anlage ist berühmt für ihre vielstöckigen Steinpagoden, darunter die neunstufige Tabo-Pagode, und das wertvolle Archiv der Tripitaka Koreana. Trotz schwerer Schäden durch Bombenangriffe im Koreakrieg wurde der Tempel detailgetreu wiederaufgebaut.",
       hu: "A Myohyang-hegységben található Pohyon-templom Észak-Korea egyik legfontosabb buddhista komplexuma. 1042-ben alapították, és évszázadokon át szellemi központként szolgált a félsziget északi részén. A komplexum híres többszintes kőpagodáiról, köztük a kilencszintes Tabo-pagodáról, valamint a Tripitaka Koreana értékes archívumáról. A koreai háború bombázásai okozta súlyos károk ellenére a templomot hűen újjáépítették.",
@@ -824,7 +820,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
       hu: "3. számú Anak-sír",
       ro: "Mormântul Anak Nr. 3",
       en: "Anak Tomb No. 3"},
-    image: "/poi-images/northkorea-anak-tomb-3-history-v2.webp",
     description: {
       de: "Das Anak-Grab Nr. 3 in der Provinz Süd-Hwanghae ist eines der spektakulärsten Hügelgräber aus der Goguryeo-Epoche, datiert auf das Jahr 357 n. Chr. Im Inneren der steinernen Grabkammer befinden sich außergewöhnlich gut erhaltene Fresken, die Szenen aus dem Leben eines hochrangigen Generals oder Königs, inklusive Prozessionen, Tänzern und Ringern, detailliert darstellen. Die Wandmalereien bieten einen unschätzbaren Einblick in die Kleidung, Architektur und militärische Struktur des alten Koreas.",
       hu: "A Dél-Hwanghae tartományban található 3. számú Anak-sír a Goguryeo-korszak egyik leglátványosabb halomsírja, amely Kr. u. 357-ből származik. A kőből épült sírkamra belsejében rendkívül jól megőrzött freskók találhatók, amelyek egy magas rangú tábornok vagy király életének jeleneteit mutatják be részletesen, beleértve a felvonulásokat, táncosokat és birkózókat. A falfestmények felbecsülhetetlen betekintést nyújtanak az ősi Korea ruházatába, építészetébe és katonai felépítésébe.",
@@ -892,7 +887,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
       hu: "Kaesongi Déli Kapu (Namdaemun)",
       ro: "Poarta de Sud din Kaesong (Namdaemun)",
       en: "South Gate of Kaesong (Namdaemun)"},
-    image: "/poi-images/northkorea-kaesong-namdaemun-history-v2.webp",
     description: {
       de: "Das Namdaemun (Südtor) ist das einzige verbliebene Tor der alten inneren Stadtmauer von Kaesong, erbaut gegen Ende der Koryo-Dynastie im Jahr 1394. Der massive steinerne Unterbau mit seinem eleganten Holzdachpavillon überlebte viele Jahrhunderte, wurde aber im Koreakrieg schwer beschädigt und 1954 restauriert. Im Inneren des Pavillons hängt heute die Yeonbok-Glocke, eine tonnenschwere Bronzeglocke, die im 14. Jahrhundert gegossen wurde und als nationales Kulturgut gilt.",
       hu: "A Namdaemun (Déli Kapu) Kaesong ősi belső városfalának egyetlen fennmaradt kapuja, amely a Koryo-dinasztia vége felé, 1394-ben épült. A masszív kő alapítmény az elegáns fa tetőpavilonnal évszázadokat élt túl, de a koreai háborúban súlyosan megsérült, majd 1954-ben restaurálták. A pavilon belsejében ma a Yeonbok-harang lóg, egy több tonnás bronzharang, amelyet a 14. században öntöttek, és nemzeti kulturális kincsnek számít.",
@@ -1041,7 +1035,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
       hu: "Kongmin király sírja",
       ro: "Mormântul Regelui Kongmin",
       en: "Tomb of King Kongmin"},
-    image: "/poi-images/northkorea-kongmin-tomb-history-v2.webp",
     description: {
       de: "Das Grabmal des Königs Kongmin ist eines der am besten erhaltenen königlichen Mausoleen der Koryo-Dynastie, gelegen in Kaesong. Errichtet in den 1360er Jahren, ruhen hier König Kongmin und seine mongolische Prinzessin Noguk in Zwillingsgrabhügeln nebeneinander. Die Anlage besticht durch meisterhafte Steinschnitzereien, die Treppen und Plattformen säumen, und bietet einen herrlichen Blick über das umliegende Tal. Es entging Plünderungen, da die inneren Grabkammern extrem gut gesichert waren.",
       hu: "Kongmin király sírja a Koryo-dinasztia egyik legjobb állapotban fennmaradt királyi mauzóleuma, amely Kaesongban található. Az 1360-as években épült, és itt nyugszik Kongmin király és mongol hercegnője, Noguk, ikersírhantokban egymás mellett. A komplexum lenyűgöző kőfaragványaival büszkélkedhet, amelyek a lépcsőket és emelvényeket szegélyezik, és csodálatos kilátást nyújt a környező völgyre. Elkerülte a kifosztást, mivel a belső sírkamrák rendkívül jól voltak biztosítva.",
@@ -1874,7 +1867,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
       hu: "Kwangbop-templom",
       ro: "Templul Kwangbop",
       en: "Kwangbop Temple"},
-    image: "/poi-images/northkorea-kwangbop-temple-history-v2.webp",
     description: {
       de: "Der Kwangbop-Tempel befindet sich auf dem Berg Taesong in Pjöngjang. Er wurde ursprünglich 392 während der Goguryeo-Dynastie erbaut und zeugt von der frühen Verbreitung des Buddhismus auf der Halbinsel. Die heutige Anlage ist eine detaillierte Rekonstruktion aus dem Jahr 1990, da der historische Tempel 1952 durch US-Bombardements vollständig zerstört wurde. Die friedliche Tempelanlage mit ihrem achteckigen Pavillon und den Schreinen wird heute von aktiven Mönchen betreut und für Zeremonien genutzt.",
       hu: "A Kwangbop-templom a pjongjangi Taesong-hegyen található. Eredetileg 392-ben épült a Goguryeo-dinasztia idején, és a buddhizmus félszigeten való korai elterjedéséről tanúskodik. A jelenlegi komplexum egy 1990-es részletes rekonstrukció, mivel a történelmi templom 1952-ben az amerikai bombázások következtében teljesen megsemmisült. A békés templomegyüttest a nyolcszögletű pavilonjával és szentélyeivel ma aktív szerzetesek gondozzák, és szertartásokra használják.",
@@ -2119,7 +2111,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
       hu: "Az Anhak-palota romjai",
       ro: "Ruinele Palatului Anhak",
       en: "Anhak Palace Ruins"},
-    image: "/poi-images/northkorea-anhak-palace-ruins-history-v2.webp",
     description: {
       de: "Die Ruinen des Anhak-Palastes in Pjöngjang markieren den Ort der großen königlichen Residenz der Goguryeo-Dynastie, nachdem die Hauptstadt 427 dorthin verlegt wurde. Die Palastanlage umfasste einst eine Fläche von über 380.000 Quadratmetern und enthielt 52 prächtige Gebäude, umgeben von massiven Erdwällen. Heute sind nur noch die steinernen Fundamente, Säulenbasen und der Grundriss der riesigen Mauern zu sehen, die Archäologen halfen, die beeindruckende städtebauliche Macht von Goguryeo zu entschlüsseln.",
       hu: "A pjongjangi Anhak-palota romjai jelölik a Goguryeo-dinasztia nagyszerű királyi rezidenciájának helyét, miután a fővárost 427-ben ide helyezték át. A palotakomplexum egykor több mint 380 000 négyzetmétert foglalt el, és 52 pompás épületet tartalmazott, masszív földsáncokkal körülvéve. Ma már csak a kő alapok, az oszloptalpak és a hatalmas falak alaprajza látható, amelyek segítettek a régészeknek megfejteni Goguryeo lenyűgöző városépítészeti hatalmát.",
@@ -2304,7 +2295,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
       hu: "Taedong-kapu",
       ro: "Poarta Taedong",
       en: "Taedong Gate"},
-    image: "/poi-images/northkorea-taedong-gate-history-v2.webp",
     description: {
       de: "Das Taedong-Tor (Taedongmun) ist das erhaltene Osttor der alten ummauerten Stadt Pjöngjang und liegt majestätisch am Ufer des Taedong-Flusses. Ursprünglich im 6. Jahrhundert unter der Goguryeo-Dynastie erbaut, erhielt das heutige hölzerne Doppel-Dach-Struktur ihr Aussehen während eines Wiederaufbaus im Jahr 1635. Das Tor diente einst als primärer Flusshafen-Zugang zur Festung. Es gilt als herausragendes Beispiel der antiken koreanischen Festungsarchitektur und überstand die Zerstörungen des Koreakriegs mit nur leichten Schäden.",
       hu: "A Taedong-kapu (Taedongmun) Pjongjang ősi fallal körülvett városának fennmaradt keleti kapuja, és fenségesen fekszik a Taedong-folyó partján. Eredetileg a 6. században épült a Goguryeo-dinasztia idején, a mai fa dupla tetőszerkezet egy 1635-ös újjáépítés során nyerte el külsejét. A kapu egykor a fő folyami kikötői bejáratként szolgált az erődbe. Az ősi koreai erődépítészet kiemelkedő példájának tekintik, és csak kisebb sérülésekkel vészelte át a koreai háború pusztításait.",
@@ -2489,7 +2479,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
       hu: "Ryongwang-pavilon",
       ro: "Pavilionul Ryongwang",
       en: "Ryongwang Pavilion"},
-    image: "/poi-images/northkorea-ryongwang-pavilion-history-v2.webp",
     description: {
       de: "Der Ryongwang-Pavillon befindet sich direkt neben dem Taedong-Tor in Pjöngjang und wurde im 12. Jahrhundert zur Verteidigung sowie als Aussichtspunkt am Fluss errichtet. Sein eleganter Holzbau ragt auf hohen steinernen Säulen über die Flussaue hinaus. Historisch war der Pavillon der Ort, von dem aus Generäle Flussangriffe abwehrten, und später diente er Gelehrten als Ort für Poesie. Heute hängt hier die Pjöngjang-Glocke, die 1726 gegossen wurde und in der Antike Sturm- und Feuerwarnungen für die Stadtbewohner schlug.",
       hu: "A Ryongwang-pavilon közvetlenül a pjongjangi Taedong-kapu mellett található, és a 12. században épült védelem és a folyóra néző kilátópont céljából. Elegáns faépülete magas kőoszlopokon emelkedik a folyó ártere fölé. Történelmileg a pavilon volt az a hely, ahonnan a tábornokok visszaverték a folyami támadásokat, később pedig a tudósok számára szolgált költészet helyszíneként. Ma itt lóg az 1726-ban öntött Pjongjang-harang, amely az ókorban vihar- és tűzriasztást adott a városlakóknak.",
@@ -2710,7 +2699,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
       hu: "Ulmil-pavilon (Ulmildae)",
       ro: "Pavilionul Ulmil (Ulmildae)",
       en: "Ulmil Pavilion (Ulmildae)"},
-    image: "/poi-images/northkorea-ulmil-pavilion-history-v2.webp",
     description: {
       de: "Der Ulmil-Pavillon (Ulmildae) steht erhaben auf dem Moran-Hügel im Zentrum Pjöngjangs und stammt ursprünglich aus dem 6. Jahrhundert. Er war die wichtigste nördliche Bastion der Goguryeo-Festung, entworfen, um weite Blicke auf feindliche Truppenbewegungen im Tal zu ermöglichen. Bemerkenswert sind die massiven, schräg geschichteten Grundsteine, eine typische Goguryeo-Bauweise, die Erdbeben und Kanonenbeschuss standhalten sollte. In den 1930er Jahren war der Pavillon Schauplatz der berühmten Protestaktion der Arbeiteraktivistin Kang Ju-ryong.",
       hu: "Az Ulmil-pavilon (Ulmildae) fenségesen áll a Moran-hegyen, Pjongjang központjában, és eredetileg a 6. századból származik. Ez volt a Goguryeo-erőd legfontosabb északi bástyája, úgy tervezték, hogy széles kilátást nyújtson az ellenséges csapatmozgásokra a völgyben. Figyelemre méltóak a masszív, ferdén rétegzett alapkövek, egy tipikus Goguryeo építési mód, amelynek ellen kellett állnia a földrengéseknek és az ágyútűznek. Az 1930-as években a pavilon volt Kang Ju-ryong munkásaktivista híres tiltakozásának helyszíne.",
@@ -2859,7 +2847,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
       hu: "Chilsong-kapu",
       ro: "Poarta Chilsong",
       en: "Chilsong Gate"},
-    image: "/poi-images/northkorea-chilsong-gate-history-v2.webp",
     description: {
       de: "Das Chilsong-Tor (Tor der Sieben Sterne) ist das Nordtor der alten inneren Befestigung Pjöngjangs und liegt am Rande des Moranbong-Parks. Im 6. Jahrhundert erbaut und 1712 neu errichtet, weist es eine seltene Architektur auf: Das Tor bildet einen Bogen, der nicht direkt in einer geraden Mauer liegt, sondern tief in eine defensive V-förmige Einbuchtung gesetzt wurde, um Angreifer ins Kreuzfeuer zu locken. Das historische Steintor spielte eine zentrale Rolle bei der Abwehr von japanischen und mandschurischen Invasionen in der koreanischen Geschichte.",
       hu: "A Chilsong-kapu (A Hét Csillag Kapuja) Pjongjang ősi belső erődítményének északi kapuja, és a Moranbong-park szélén található. A 6. században épült és 1712-ben újjáépített kapu ritka építészeti jellemzőkkel bír: a kapu egy ívet alkot, amely nem közvetlenül egy egyenes falon helyezkedik el, hanem mélyen egy védekező V alakú bemélyedésbe került, hogy kereszttűzbe csalogassa a támadókat. A történelmi kőkapu központi szerepet játszott a japán és mandzsu inváziók elhárításában a koreai történelemben.",
@@ -2927,7 +2914,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
       hu: "Woljong-templom",
       ro: "Templul Woljong",
       en: "Woljong Temple"},
-    image: "/poi-images/northkorea-woljong-temple-history-v2.webp",
     description: {
       de: "Der Woljong-Tempel liegt tief in den dichten Wäldern des Kuwol-Gebirges in der Provinz Süd-Hwanghae. Er wurde im Jahr 846 während der späten Silla-Periode gegründet. Die heute sichtbaren Strukturen, reich verziert mit dem klassischen koreanischen Dancheong-Malstil, stammen aus dem 15. Jahrhundert. Der Tempel war historisch eine Zuflucht für Gelehrte und Mönche und bewahrte eine bedeutende Sammlung von konfuzianischen und buddhistischen Texten. Er gilt heute als wertvolles Denkmal der Religionsgeschichte an der Westküste Koreas.",
       hu: "A Woljong-templom a Kuwol-hegység sűrű erdeiben, Dél-Hwanghae tartományban található. 846-ban, a késői Silla-korszakban alapították. A ma látható, a klasszikus koreai Dancheong festészeti stílussal gazdagon díszített építmények a 15. századból származnak. A templom történelmileg a tudósok és szerzetesek menedéke volt, és jelentős konfuciánus és buddhista szöveggyűjteményt őrzött. Ma a vallástörténet értékes műemlékének számít Korea nyugati partján.",
@@ -3064,7 +3050,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
       hu: "Sungyang Akadémia (Seowon)",
       ro: "Academia Sungyang (Seowon)",
       en: "Sungyang Academy (Seowon)"},
-    image: "/poi-images/northkorea-sungyang-seowon-history-v2.webp",
     description: {
       de: "Die Sungyang-Akademie in Kaesong, gegründet 1573, ist ein klassisches Beispiel einer Seowon – einer privaten konfuzianischen Akademie der Joseon-Zeit. Sie wurde an der Stelle des ehemaligen Wohnhauses von Jong Mong-ju errichtet, um diesem ermordeten Gelehrten zu huldigen. Die Anlage, harmonisch in den Hang eines Berges integriert, besteht aus Vorlesungssälen, Schlafsälen für die Studenten und einem Schrein. Sie ist ein exzellentes architektonisches Zeugnis für das strikte Bildungssystem und die spirituelle Landschaft des konfuzianischen Koreas.",
       hu: "Az 1573-ban alapított kaesongi Sungyang Akadémia a Seowon – a Joseon-korszak magán konfuciánus akadémiája – klasszikus példája. Jong Mong-ju egykori lakóházának helyén épült, hogy tisztelegjen e meggyilkolt tudós előtt. A hegyoldalba harmonikusan illeszkedő komplexum előadótermekből, a hallgatók hálótermeiből és egy szentélyből áll. Kiváló építészeti bizonyítéka a konfuciánus Korea szigorú oktatási rendszerének és szellemi tájának.",
@@ -3249,7 +3234,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
       hu: "Manwoldae (Palotaromok)",
       ro: "Manwoldae (Ruinele Palatului)",
       en: "Manwoldae (Palace Ruins)"},
-    image: "/poi-images/northkorea-manwoldae-ruins-history-v2.webp",
     description: {
       de: "Manwoldae, übersetzt 'Hügel des Vollmonds', war der Standort des prächtigen königlichen Palastes der Koryo-Dynastie in Kaesong. Der 919 erbaute Komplex zeichnete sich durch seine einzigartige, terrassenförmige Bauweise aus, die sich dem steilen Gebirgsgelände anpasste, statt ein flaches Layout zu erzwingen. Der Palast wurde 1361 von den Roten Turbanen (chinesischen Rebellen) niedergebrannt und nie wieder aufgebaut. Heute zeugen nur noch massige Steintreppen und fundamentale Plattformen von der einstigen Größe der Herrscherresidenz.",
       hu: "A Manwoldae, azaz a 'Telihold hegye', a Koryo-dinasztia pompás királyi palotájának helyszíne volt Kaesongban. A 919-ben épült komplexumot egyedi, teraszos felépítése jellemezte, amely alkalmazkodott a meredek hegyvidéki terephez, ahelyett, hogy sík elrendezést kényszerített volna ki. A palotát 1361-ben a Vörös Turbánosok (kínai lázadók) felégették, és soha nem építették újjá. Ma már csak a masszív kőlépcsők és az alap emelvények tanúskodnak az uralkodói rezidencia egykori nagyságáról.",
@@ -3542,7 +3526,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
       hu: "Pyohun-templom",
       ro: "Templul Pyohun",
       en: "Pyohun Temple"},
-    image: "/poi-images/northkorea-pyohun-temple-history-v2.webp",
     description: {
       de: "Der Pyohun-Tempel ist einer der berühmtesten noch erhaltenen buddhistischen Tempel im Diamantgebirge (Kumgang-san). Er wurde im Jahr 670 unter der Silla-Dynastie gegründet und war einst das Zentrum von 100 Tempeln in diesem mystischen Gebirge. Der Tempel besticht durch seine aufwendigen Holzschnitzereien und liegt harmonisch eingebettet in ein Tal am Ufer eines kristallklaren Gebirgsbachs. Obwohl viele der umliegenden Klöster im Koreakrieg zerstört wurden, blieb Pyohun intakt und ist heute ein geschütztes Kulturdenkmal.",
       hu: "A Pyohun-templom a Gyémánt-hegység (Kumgang-san) egyik leghíresebb fennmaradt buddhista temploma. 670-ben alapították a Silla-dinasztia idején, és egykor 100 templom központja volt ebben a misztikus hegységben. A templom lenyűgöző a bonyolult fafaragványaival, és harmonikusan helyezkedik el egy völgyben egy kristálytiszta hegyi patak partján. Bár a környező kolostorok nagy része elpusztult a koreai háborúban, a Pyohun sértetlen maradt, és ma védett műemlék.",
@@ -3610,7 +3593,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
       hu: "A kumsongi csatatér",
       ro: "Câmpul de Luptă de la Kumsong",
       en: "Battle of Kumsong Battlefield"},
-    image: "/poi-images/northkorea-kumsong-battlefield-history-v2.webp",
     description: {
       de: "Das Kumsong-Tal in der Provinz Kangwon war Schauplatz der letzten und massivsten Offensive während des Koreakriegs im Juli 1953, nur Wochen vor dem Waffenstillstand. Die chinesische 'Volksfreiwilligenarmee' startete hier einen massiven Angriff gegen südkoreanische und US-Kräfte, um das Territorium vor der Grenzziehung zu maximieren. Die brutalen Artilleriegefechte formten die Hügel und Täler drastisch um. Heute ist das Gebiet nahe der DMZ übersät mit alten Schützengräben und Bunkern und wird in Nordkorea als Ort des 'finalen Sieges' geehrt.",
       hu: "A Kangwon tartománybeli Kumsong-völgy volt a koreai háború utolsó és legmasszívabb offenzívájának helyszíne 1953 júliusában, hetekkel a fegyverszünet előtt. A kínai 'Népi Önkéntes Hadsereg' hatalmas támadást indított itt a dél-koreai és amerikai erők ellen, hogy maximalizálja a területet a határ meghúzása előtt. A brutális tüzérségi harcok drasztikusan átformálták a dombokat és völgyeket. Ma a DMZ közelében fekvő terület tele van régi lövészárkokkal és bunkerekkel, és Észak-Koreában a 'végső győzelem' helyszíneként tisztelik.",
@@ -3759,7 +3741,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
       hu: "Hwangryong-erőd",
       ro: "Fortăreața Hwangryong",
       en: "Hwangryong Fortress"},
-    image: "/poi-images/northkorea-hwangryong-fortress-history-v2.webp",
     description: {
       de: "Die Ruinen der Hwangryong-Festung (Festung des Gelben Drachen) erstrecken sich über die rauen Küstenberge nahe Nampo am Gelben Meer. Die Festung wurde während der Goguryeo-Zeit im 5. Jahrhundert errichtet, um die Mündung des Taedong-Flusses vor maritimen Invasoren aus China zu schützen. Die verbliebenen, meterhohen Steinmauern winden sich über mehrere Kilometer wie eine Schlange über die Bergrücken. Archäologische Funde aus der Festung beweisen die exzellente militärische Steinbearbeitungskunst der antiken koreanischen Reiche.",
       hu: "A Hwangryong-erőd (Sárga Sárkány Erőd) romjai a Sárga-tenger melletti Nampo közelében fekvő zord tengerparti hegyeken nyúlnak el. Az erődöt a Goguryeo-korszakban, az 5. században építették, hogy megvédje a Taedong-folyó torkolatát a Kínából érkező tengeri betolakodóktól. A megmaradt, méter magas kőfalak több kilométeren keresztül kígyóznak a hegygerinceken. Az erődből származó régészeti leletek az ókori koreai birodalmak kiváló katonai kőmegmunkáló művészetét bizonyítják.",

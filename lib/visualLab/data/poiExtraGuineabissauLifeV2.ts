@@ -12,7 +12,6 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
       hu: "Orango sós vízi víziló rezervátum",
       ro: "Rezervația de hipopotami de apă sărată Orango",
       en: "Orango Saltwater Hippo Sanctuary"},
-    image: "/poi-images/orango-nilpferde-life-v2.webp",
     description: {
       de: "Einzigartiges Schutzgebiet auf der Insel Orango, in dem Nilpferde im Brack- und Salzwasser leben.",
       hu: "Egyedülálló védett terület Orango szigetén, ahol a vízilovak brakk- és sós vízben élnek.",
@@ -79,7 +78,6 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
       hu: "Cantanhez csimpánz élőhely",
       ro: "Habitatul de cimpanzei Cantanhez",
       en: "Cantanhez Chimpanzee Habitat"},
-    image: "/poi-images/cantanhez-schimpansen-life-v2.webp",
     description: {
       de: "Die letzte Hochburg für wild lebende Schimpansen in Guinea-Bissau, eingebettet in dichten Regenwald.",
       hu: "A vadon élő csimpánzok utolsó bástyája Bissau-Guineában, sűrű esőerdőbe ágyazva.",
@@ -146,7 +144,6 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
       hu: "Poilão közönséges levesteknős fészkelőhely",
       ro: "Locul de cuibărit al țestoaselor verzi Poilão",
       en: "Poilão Green Sea Turtle Nesting Site"},
-    image: "/poi-images/poilao-schildkroeten-life-v2.webp",
     description: {
       de: "Einer der weltweit wichtigsten Nistplätze für Grüne Meeresschildkröten auf einer heiligen Insel.",
       hu: "A világ egyik legfontosabb közönséges levesteknős fészkelőhelye egy szent szigeten.",
@@ -259,7 +256,6 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
       hu: "João Vieira tengeri madárkolóniák",
       ro: "Coloniile de păsări marine João Vieira",
       en: "João Vieira Seabird Colonies"},
-    image: "/poi-images/joao-vieira-voegel-life-v2.webp",
     description: {
       de: "Wichtige Nist- und Ruheplätze für zahlreiche Seevögel im Nationalpark João Vieira e Poilão.",
       hu: "Fontos fészkelő- és pihenőhely számos tengeri madár számára a João Vieira e Poilão Nemzeti Parkban.",
@@ -327,7 +323,6 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
       hu: "Cufada-lagúna madárvédelmi körzet",
       ro: "Sanctuarul de păsări din Laguna Cufada",
       en: "Cufada Lagoon Bird Sanctuary"},
-    image: "/poi-images/cufada-voegel-life-v2.webp",
     description: {
       de: "Ein bedeutendes Feuchtgebiet, das Tausenden von Wasservögeln als Lebensraum dient.",
       hu: "Jelentős vizes élőhely, amely vízi madarak ezreinek szolgál lakóhelyül.",
@@ -395,7 +390,6 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
       hu: "Rio Cacheu lamantin rezervátum",
       ro: "Rezervația de lamantini de pe Rio Cacheu",
       en: "Rio Cacheu Manatee Sanctuary"},
-    image: "/poi-images/cacheu-seekuh-life-v2.webp",
     description: {
       de: "Die Mangrovenwälder des Rio Cacheu bieten einen der letzten sicheren Rückzugsorte für afrikanische Seekühe.",
       hu: "A Rio Cacheu mangroveerdei az afrikai lamantinok egyik utolsó biztonságos menedékét nyújtják.",
@@ -599,7 +593,6 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
       hu: "Oio régió földimogyoró farmjai",
       ro: "Fermele de arahide din regiunea Oio",
       en: "Oio Region Peanut Farms"},
-    image: "/poi-images/oio-erdnuss-life-v2.webp",
     description: {
       de: "Die fruchtbaren Böden von Oio sind bekannt für den Anbau von Erdnüssen, einem traditionellen Grundnahrungsmittel.",
       hu: "Oio termékeny földjei a földimogyoró termesztéséről ismertek, amely hagyományos alapélelmiszer.",
@@ -667,7 +660,6 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
       hu: "Tombali rizsteraszok",
       ro: "Terasele de orez din Tombali",
       en: "Tombali Rice Terraces"},
-    image: "/poi-images/tombali-reis-life-v2.webp",
     description: {
       de: "Im Süden des Landes prägen kunstvoll angelegte Reisfelder die Küstenlandschaft und Mangrovensümpfe.",
       hu: "Az ország déli részén művészien kialakított rizsföldek jellemzik a part menti tájat és a mangrove mocsarakat.",
@@ -735,7 +727,6 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
       hu: "Quínara olajpálma erdők",
       ro: "Pădurile de palmieri de ulei din Quínara",
       en: "Quínara Oil Palm Groves"},
-    image: "/poi-images/quinara-oelpalm-life-v2.webp",
     description: {
       de: "Die Region Quínara ist reich an wild wachsenden und kultivierten Ölpalmen, die für die lokale Wirtschaft entscheidend sind.",
       hu: "Quínara régió gazdag vadon növő és termesztett olajpálmákban, amelyek döntő fontosságúak a helyi gazdaság számára.",
@@ -871,7 +862,6 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
       hu: "Bolama szigeti gyümölcsültetvények",
       ro: "Plantațiile de fructe de pe insula Bolama",
       en: "Bolama Island Fruit Orchards"},
-    image: "/poi-images/bolama-obst-life-v2.webp",
     description: {
       de: "Die fruchtbare Insel Bolama beherbergt ausgedehnte Plantagen, die während der Kolonialzeit angelegt wurden.",
       hu: "A termékeny Bolama-sziget kiterjedt ültetvényeknek ad otthont, amelyeket a gyarmati korszakban hoztak létre.",
@@ -914,11 +904,6 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
       de: "Die Insel Bolama, einst das administrative Zentrum von Portugiesisch-Guinea, beherbergt heute einige der prächtigsten, wenn auch verwilderten Obstplantagen des Landes. Diese Gärten sind ein Erbe der kolonialen Stadtplanung, als die Insel als das 'Genua Westafrikas' galt und für ihre botanische Vielfalt berühmt war. Heute ernten die Bewohner von Bolama eine Fülle von Früchten, die in der salzhaltigen Meeresluft und dem fruchtbaren Boden prächtig gedeihen: von saftigen Zitrusfrüchten und Limetten über Guaven und Mangos bis hin zu den allgegenwärtigen Cashewnüssen. Die Obstgärten sind oft Teil der weitläufigen Grundstücke der alten Kolonialvillen, wo die Natur die einst geordneten Strukturen zurückerobert hat. Diese 'Garteninsel' versorgt nicht nur die lokale Bevölkerung, sondern liefert auch wertvolle Erzeugnisse per Boot nach Bissau. Das Leben auf Bolama ist eng mit dem Zyklus dieser Früchte verbunden; die Ernte bietet Arbeit und sichert die Ernährung. Besonders die Limetten von Bolama sind für ihr intensives Aroma bekannt und werden im ganzen Land geschätzt. Ein Spaziergang durch die Obsthaine der Insel ist eine Reise durch die Zeit, bei der man den Duft blühender Zitrusbäume atmet und die melancholische Schönheit einer Natur erlebt, die über die Ruinen der Geschichte triumphiert.",
       hu: "Bolama szigete, amely egykor Portugál-Guinea adminisztratív központja volt, ma az ország egyik legpompásabb, bár részben elvadult gyümölcsöskertjeinek ad otthont. Ezek a kertek a gyarmati várostervezés örökségei, abból az időből, amikor a szigetet „Nyugat-Afrika Genuájaként” emlegették botanikai gazdagsága miatt. Ma Bolama lakói a sós tengeri levegőn és a termékeny talajon kiválóan fejlődő gyümölcsök bőségét élvezik: a lédús citrusféléktől és limetól kezdve a guaván és mangón át egészen a mindenütt jelen lévő kesudióig. A gyümölcsösök gyakran a régi gyarmati villák hatalmas telkeinek részét képezik, ahol a természet fokozatosan visszahódította az egykor rendezett struktúrákat. Ez a „kertsziget” nemcsak a helyi lakosságot látja el, hanem értékes terményeit csónakkal Bissauba is szállítják. Az élet Bolamán szorosan összefonódik e gyümölcsök ciklusával; a betakarítás munkát ad és biztosítja az élelmezést. Különösen a bolamai lime híres intenzív aromájáról, amelyet az egész országban nagyra értékelnek. Egy séta a sziget gyümölcsösei között időutazás is egyben, ahol a virágzó citrusfák illatát belélegezve feltárul a történelem romjai felett diadalmaskodó természet melankolikus szépsége.",
       ro: "Insula Bolama, cândva centrul administrativ al Guineei Portugheze, găzduiește astăzi unele dintre cele mai splendide, deși parțial sălbăticite, livezi de fructe din țară. Aceste grădini sunt o moștenire a planificării urbane coloniale, dintr-o epocă în care insula era supranumită 'Genova Africii de Vest' datorită bogăției sale botanice. Astăzi, locuitorii din Bolama beneficiază de o abundență de fructe care prosperă în aerul salin și solul fertil: de la citrice suculente și lime, la guava, mango și nelipsitele nuci caju. Livezile fac adesea parte din proprietățile vaste ale vechilor vile coloniale, unde natura a recuperat treptat structurile odinioară ordonate. Această 'insulă-grădină' nu doar aprovizionează populația locală, ci trimite produse valoroase cu barca spre Bissau. Viața pe Bolama este strâns legată de ciclul acestor fructe; recoltarea oferă locuri de muncă și asigură hrana. În mod special, fructele de lime din Bolama sunt renumite pentru aroma lor intensă, fiind apreciate în toată țara. O plimbare prin livezile insulei este o călătorie în timp, unde parfumul citricelor înflorite se împletește cu frumusețea melancolică a unei naturi care triumfă asupra ruinelor istoriei.",
-      en: "",
-      en: "Bolama Island, once the administrative center of Portuguese Guinea, is home today to some of the country’s most splendid, albeit partially overgrown, fruit orchards. These gardens are a legacy of colonial urban planning from a time when the island was known as the 'Genoa of West Africa' for its botanical diversity. Today, the residents of Bolama harvest an abundance of fruit that thrives in the salty sea air and fertile soil: ranging from juicy citrus and limes to guavas, mangoes, and the ubiquitous cashews. The orchards are often part of the vast grounds of old colonial villas, where nature has reclaimed once-ordered structures. This 'garden island' not only sustains the local population but also sends valuable produce by boat to Bissau. Life on Bolama is closely linked to the cycle of these fruits; the harvest provides jobs and ensures food security. Bolama’s limes, in particular, are famous for their intense aroma and are prized throughout the country. A stroll through the island’s fruit groves is a journey through time, breathing in the scent of blooming citrus trees while experiencing the melancholic beauty of nature triumphing over the ruins of history.",
-      en: "Bolama Island, once the administrative center of Portuguese Guinea, is home today to some of the country’s most splendid, albeit partially overgrown, fruit orchards. These gardens are a legacy of colonial urban planning from a time when the island was known as the 'Genoa of West Africa' for its botanical diversity. Today, the residents of Bolama harvest an abundance of fruit that thrives in the salty sea air and fertile soil: ranging from juicy citrus and limes to guavas, mangoes, and the ubiquitous cashews. The orchards are often part of the vast grounds of old colonial villas, where nature has reclaimed once-ordered structures. This 'garden island' not only sustains the local population but also sends valuable produce by boat to Bissau. Life on Bolama is closely linked to the cycle of these fruits; the harvest provides jobs and ensures food security. Bolama’s limes, in particular, are famous for their intense aroma and are prized throughout the country. A stroll through the island’s fruit groves is a journey through time, breathing in the scent of blooming citrus trees while experiencing the melancholic beauty of nature triumphing over the ruins of history.",
-      en: "Bolama Island, once the administrative center of Portuguese Guinea, is home today to some of the country’s most splendid, albeit partially overgrown, fruit orchards. These gardens are a legacy of colonial urban planning from a time when the island was known as the 'Genoa of West Africa' for its botanical diversity. Today, the residents of Bolama harvest an abundance of fruit that thrives in the salty sea air and fertile soil: ranging from juicy citrus and limes to guavas, mangoes, and the ubiquitous cashews. The orchards are often part of the vast grounds of old colonial villas, where nature has reclaimed once-ordered structures. This 'garden island' not only sustains the local population but also sends valuable produce by boat to Bissau. Life on Bolama is closely linked to the cycle of these fruits; the harvest provides jobs and ensures food security. Bolama’s limes, in particular, are famous for their intense aroma and are prized throughout the country. A stroll through the island’s fruit groves is a journey through time, breathing in the scent of blooming citrus trees while experiencing the melancholic beauty of nature triumphing over the ruins of history.",
-      en: "Bolama Island, once the administrative center of Portuguese Guinea, is home today to some of the country’s most splendid, albeit partially overgrown, fruit orchards. These gardens are a legacy of colonial urban planning from a time when the island was known as the 'Genoa of West Africa' for its botanical diversity. Today, the residents of Bolama harvest an abundance of fruit that thrives in the salty sea air and fertile soil: ranging from juicy citrus and limes to guavas, mangoes, and the ubiquitous cashews. The orchards are often part of the vast grounds of old colonial villas, where nature has reclaimed once-ordered structures. This 'garden island' not only sustains the local population but also sends valuable produce by boat to Bissau. Life on Bolama is closely linked to the cycle of these fruits; the harvest provides jobs and ensures food security. Bolama’s limes, in particular, are famous for their intense aroma and are prized throughout the country. A stroll through the island’s fruit groves is a journey through time, breathing in the scent of blooming citrus trees while experiencing the melancholic beauty of nature triumphing over the ruins of history.",
       en: "Bolama Island, once the administrative center of Portuguese Guinea, is home today to some of the country’s most splendid, albeit partially overgrown, fruit orchards. These gardens are a legacy of colonial urban planning from a time when the island was known as the 'Genoa of West Africa' for its botanical diversity. Today, the residents of Bolama harvest an abundance of fruit that thrives in the salty sea air and fertile soil: ranging from juicy citrus and limes to guavas, mangoes, and the ubiquitous cashews. The orchards are often part of the vast grounds of old colonial villas, where nature has reclaimed once-ordered structures. This 'garden island' not only sustains the local population but also sends valuable produce by boat to Bissau. Life on Bolama is closely linked to the cycle of these fruits; the harvest provides jobs and ensures food security. Bolama’s limes, in particular, are famous for their intense aroma and are prized throughout the country. A stroll through the island’s fruit groves is a journey through time, breathing in the scent of blooming citrus trees while experiencing the melancholic beauty of nature triumphing over the ruins of history.",
       es: "La isla de Bolama, que fuera el centro administrativo de la Guinea Portuguesa, alberga hoy algunas de las plantaciones frutales más magníficas, aunque descuidadas, del país. Estos jardines son un legado de la planificación urbana colonial, cuando la isla era considerada la 'Génova de África Occidental' y era famosa por su diversidad botánica. Hoy en día, los habitantes de Bolama cosechan una abundancia de frutas que crecen magníficamente en el aire salino del mar y el suelo fértil: desde jugosos cítricos y limas hasta guayabas y mangos, pasando por los omnipresentes anacardos. Los huertos frutales suelen formar parte de los extensos terrenos de las antiguas villas coloniales, donde la naturaleza ha recuperado las estructuras que alguna vez estuvieron ordenadas. Esta 'isla jardín' no solo abastece a la población local, sino que también entrega productos valiosos por barco a Bissau. La vida en Bolama está estrechamente ligada al ciclo de estas frutas; la cosecha ofrece trabajo y asegura la alimentación. Especialmente las limas de Bolama son conocidas por su intenso aroma y son apreciadas en todo el país. Un paseo por los huertos frutales de la isla es un viaje a través del tiempo, donde se respira el aroma de los cítricos en flor y se experimenta la belleza melancólica de una naturaleza que triunfa sobre las ruinas de la historia.",
       pt: "A ilha de Bolama, outrora o centro administrativo da Guiné Portuguesa, abriga hoje algumas das mais magníficas, embora descuidadas, plantações de fruta do país. Estes jardins são um legado do planeamento urbano colonial, quando a ilha era considerada a 'Génova da África Ocidental' e era famosa pela sua diversidade botânica. Hoje, os habitantes de Bolama colhem uma abundância de frutos que crescem magnificamente no ar salgado do mar e no solo fértil: desde suculentos citrinos e limas a goiabas e mangas, até aos omnipresentes cajus. Os pomares fazem frequentemente parte dos extensos terrenos das antigas vilas coloniais, onde a natureza recuperou as estruturas outrora ordenadas. Esta 'ilha jardim' não só abastece a população local, como também fornece produtos valiosos por barco para Bissau. A vida em Bolama está estreitamente ligada ao ciclo destes frutos; a colheita oferece trabalho e garante a alimentação. Especialmente as limas de Bolama são conhecidas pelo seu aroma intenso e são apreciadas em todo o país. Um passeio pelos pomares da ilha é uma viagem no tempo, onde se respira o aroma das árvores de citrinos em flor e se experimenta a beleza melancólica de uma natureza que triunfa sobre as ruínas da história.",
@@ -1012,7 +997,6 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
       hu: "Bambadinca öntözési projektek",
       ro: "Proiectele de irigații din Bambadinca",
       en: "Bambadinca Irrigation Projects"},
-    image: "/poi-images/bambadinca-bewaesserung-life-v2.webp",
     description: {
       de: "Moderne Bewässerungsanlagen am Geba-Fluss ermöglichen den ganzjährigen Anbau von Gemüse und Getreide.",
       hu: "A Geba-folyó menti modern öntözőrendszerek lehetővé teszik a zöldségek és gabonafélék egész éves termesztését.",
@@ -1080,7 +1064,6 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
       hu: "Bissaui Állatkert",
       ro: "Grădina Zoologică din Bissau",
       en: "Bissau Zoological Garden"},
-    image: "/poi-images/bissau-zoo-life-v2.webp",
     description: {
       de: "Ein kleiner städtischer Zoo in der Hauptstadt, der einheimische Tierarten für Bildungszwecke zeigt.",
       hu: "Egy kis városi állatkert a fővárosban, amely oktatási célból mutatja be a hazai állatfajokat.",
@@ -1265,7 +1248,6 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
       hu: "Játszótér a Praça dos Heróis-nál",
       ro: "Loc de joacă în Praça dos Heróis",
       en: "Praça dos Heróis Playground"},
-    image: "/poi-images/praca-herois-spielplatz-life-v2.webp",
     description: {
       de: "Ein zentraler Treffpunkt für Familien in Bissau mit Spielgeräten und viel Platz zum Laufen.",
       hu: "Bissau családjainak központi találkozóhelye játékokkal és sok futóhellyel.",
@@ -1333,7 +1315,6 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
       hu: "Franco-Bissau-Guinéen Kulturális Központ gyermekrészlege",
       ro: "Zona pentru copii de la Centrul Cultural Franco-Bissau-Guinéen",
       en: "Children's Area at Franco-Bissau-Guinéen Cultural Center"},
-    image: "/poi-images/franco-guineen-kinder-life-v2.webp",
     description: {
       de: "Ein kultureller Raum in der Hauptstadt, der spezielle Programme, Filme und Workshops für Kinder anbietet.",
       hu: "Kulturális tér a fővárosban, amely speciális programokat, filmeket és workshopokat kínál gyerekeknek.",
@@ -1401,7 +1382,6 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
       hu: "Bubaque strandjátszótér",
       ro: "Zona de joacă de pe plaja Bubaque",
       en: "Bubaque Beach Play Area"},
-    image: "/poi-images/bubaque-strand-spiel-life-v2.webp",
     description: {
       de: "Sichere und flache Strandabschnitte auf der Insel Bubaque, die ideal für Kinder zum Spielen und Schwimmen sind.",
       hu: "Biztonságos és sekély szakaszok Bubaque szigetén, amelyek ideálisak gyerekeknek játékra és úszásra.",

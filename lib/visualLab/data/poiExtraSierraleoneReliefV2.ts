@@ -12,7 +12,6 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
       hu: "Sula-hegység",
       ro: "Munții Sula",
       en: "Sula Mountains"},
-    image: "/poi-images/sula-mountains-relief-v2.webp",
     description: {
       de: "Die Sula-Berge sind ein bedeutendes Mittelgebirge im Zentrum von Sierra Leone, bekannt für ihre Mineralvorkommen.",
       hu: "A Sula-hegység egy jelentős középhegység Sierra Leone középső részén, amely ásványkincseiről ismert.",
@@ -76,7 +75,6 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
       hu: "Kambui-dombság",
       ro: "Dealurile Kambui",
       en: "Kambui Hills"},
-    image: "/poi-images/kambui-hills-relief-v2.webp",
     description: {
       de: "Die Kambui-Hügel erstrecken sich in der Nähe von Kenema und bilden eine markante Erhebung im Osten des Landes.",
       hu: "A Kambui-dombság Kenema közelében húzódik, és az ország keleti részének jellegzetes magaslata.",
@@ -140,7 +138,6 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
       hu: "Nimini-dombság",
       ro: "Dealurile Nimini",
       en: "Nimini Hills"},
-    image: "/poi-images/nimini-hills-relief-v2.webp",
     description: {
       de: "Die Nimini-Hügel sind eine zerklüftete Bergkette im Osten, die für ihre geologische Vielfalt bekannt ist.",
       hu: "A Nimini-dombság egy tagolt hegylánc keleten, amely geológiai sokszínűségéről ismert.",
@@ -268,7 +265,6 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
       hu: "Malal-dombság",
       ro: "Dealurile Malal",
       en: "Malal Hills"},
-    image: "/poi-images/malal-hills-relief-v2.webp",
     description: {
       de: "Die Malal-Hügel sind eine Reihe von Erhebungen im Norden, die aus der umliegenden Ebene herausragen.",
       hu: "A Malal-dombság északon található magaslatok sorozata, amelyek kiemelkednek a környező síkságból.",
@@ -332,7 +328,6 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
       hu: "Sankan Biriwa-csúcs",
       ro: "Vârful Sankan Biriwa",
       en: "Sankan Biriwa Peak"},
-    image: "/poi-images/sankan-biriwa-peak-relief-v2.webp",
     description: {
       de: "Der Sankan Biriwa ist der zweithöchste Gipfel in Sierra Leone und liegt im Tingi-Hügelland.",
       hu: "A Sankan Biriwa Sierra Leone második legmagasabb csúcsa, amely a Tingi-dombságban található.",
@@ -396,7 +391,6 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
       hu: "Leicester Peak",
       ro: "Leicester Peak",
       en: "Leicester Peak"},
-    image: "/poi-images/leicester-peak-relief-v2.webp",
     description: {
       de: "Leicester Peak ist einer der höchsten Punkte auf der Freetown-Halbinsel und bietet einen Panoramablick auf die Hauptstadt.",
       hu: "A Leicester Peak a Freetown-félsziget egyik legmagasabb pontja, ahonnan panorámás kilátás nyílik a fővárosra.",
@@ -460,7 +454,6 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
       hu: "Sugar Loaf-hegy",
       ro: "Muntele Sugar Loaf",
       en: "Sugar Loaf Mountain"},
-    image: "/poi-images/sugar-loaf-mountain-relief-v2.webp",
     description: {
       de: "Der Sugar Loaf Mountain ist ein markanter, kegelförmiger Gipfel in der Western Area von Sierra Leone.",
       hu: "A Sugar Loaf-hegy egy jellegzetes, kúp alakú csúcs Sierra Leone Western Area régiójában.",
@@ -524,7 +517,6 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
       hu: "Koinadugu-felföld",
       ro: "Podișul Koinadugu",
       en: "Koinadugu Highlands"},
-    image: "/poi-images/koinadugu-highlands-relief-v2.webp",
     description: {
       de: "Das Koinadugu-Hochland ist eine ausgedehnte Hochebene im Norden, die für ihr kühleres Klima bekannt ist.",
       hu: "A Koinadugu-felföld egy kiterjedt északi fennsík, amely hűvösebb éghajlatáról ismert.",
@@ -652,7 +644,6 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
       hu: "Mende-felföld",
       ro: "Podișul Mende",
       en: "Mende Highlands"},
-    image: "/poi-images/mende-highlands-relief-v2.webp",
     description: {
       de: "Das Mende-Hochland ist ein welliges Bergland im Süden, das durch dichten Regenwald geprägt ist.",
       hu: "A Mende-felföld egy hullámos hegyvidék délen, amelyet sűrű esőerdő jellemez.",
@@ -716,7 +707,6 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
       hu: "Dodo-dombság erdőrezervátum",
       ro: "Rezervația forestieră Dealurile Dodo",
       en: "Dodo Hills Forest Reserve"},
-    image: "/poi-images/dodo-hills-forest-relief-v2.webp",
     description: {
       de: "Das Dodo-Hügel Waldreservat schützt ein wichtiges Gebiet mit primärem Regenwald im Osten des Landes.",
       hu: "A Dodo-dombság erdőrezervátum az ország keleti részén található elsődleges esőerdők fontos területét védi.",
@@ -825,7 +815,6 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
       hu: "Tama erdőrezervátum",
       ro: "Rezervația forestieră Tama",
       en: "Tama Forest Reserve"},
-    image: "/poi-images/tama-forest-relief-v2.webp",
     description: {
       de: "Das Tama-Waldreservat ist ein bedeutendes Schutzgebiet im Norden, das Übergangswälder umfasst.",
       hu: "A Tama erdőrezervátum egy jelentős északi védett terület, amely átmeneti erdőket foglal magában.",
@@ -889,7 +878,6 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
       hu: "Toncoli erdőrezervátum",
       ro: "Rezervația forestieră Toncoli",
       en: "Toncoli Forest Reserve"},
-    image: "/poi-images/toncoli-forest-relief-v2.webp",
     description: {
       de: "Dieses Waldreservat liegt in der Nähe der Sula-Berge und schützt dichte tropische Bergwälder.",
       hu: "Ez az erdőrezervátum a Sula-hegység közelében található, és sűrű trópusi hegyi erdőket véd.",
@@ -998,7 +986,6 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
       hu: "Kasewe erdőrezervátum",
       ro: "Rezervația forestieră Kasewe",
       en: "Kasewe Forest Reserve"},
-    image: "/poi-images/kasewe-forest-relief-v2.webp",
     description: {
       de: "Das Kasewe-Waldreservat im Süden ist bekannt für seine einzigartige Flora auf vulkanischem Gestein.",
       hu: "A déli Kasewe erdőrezervátum vulkáni kőzeteken kialakult egyedülálló flórájáról ismert.",
@@ -1062,7 +1049,6 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
       hu: "Kuru-dombság erdőrezervátum",
       ro: "Rezervația forestieră Dealurile Kuru",
       en: "Kuru Hills Forest Reserve"},
-    image: "/poi-images/kuru-hills-forest-relief-v2.webp",
     description: {
       de: "Das Kuru-Hügel Waldreservat liegt an der Grenze zu Guinea und schützt Bergwälder im Norden.",
       hu: "A Kuru-dombság erdőrezervátum a guineai határon fekszik, és északi hegyi erdőket véd.",
@@ -1126,7 +1112,6 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
       hu: "Singamba-erdő",
       ro: "Pădurea Singamba",
       en: "Singamba Forest"},
-    image: "/poi-images/singamba-forest-relief-v2.webp",
     description: {
       de: "Der Singamba-Wald ist ein bedeutendes Waldstück im Nordwesten, das als Refugium für Wildtiere dient.",
       hu: "A Singamba-erdő egy jelentős északnyugati erdőterület, amely vadvédelmi menedékként szolgál.",
@@ -1190,7 +1175,6 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
       hu: "Lui-fennsík",
       ro: "Podișul Lui",
       en: "Lui Plateau"},
-    image: "/poi-images/lui-plateau-relief-v2.webp",
     description: {
       de: "Das Lui-Plateau ist eine sanfte Erhebung im Süden, die für ihre landwirtschaftliche Bedeutung bekannt ist.",
       hu: "A Lui-fennsík egy enyhe magaslat délen, amely mezőgazdasági jelentőségéről ismert.",
@@ -1254,7 +1238,6 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
       hu: "Gola-erdő észak",
       ro: "Pădurea Gola de Nord",
       en: "Gola Forest North"},
-    image: "/poi-images/gola-forest-north-relief-v2.webp",
     description: {
       de: "Der nördliche Teil des Gola-Waldes umfasst einige der dichtesten und unberührtesten Gebiete des Parks.",
       hu: "A Gola-erdő északi része a park legsűrűbb és legérintetlenebb területeit foglalja magában.",

@@ -8,7 +8,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [21.0, -1.0],
     name: { de: "Kongobecken", hu: "Kongó-medence", ro: "Bazinul Congo", en: "Congo Basin"},
-    image: "/poi-images/congo-basin-relief-v2.webp",
     description: { de: "Ein riesiges Sedimentbecken in Zentralafrika.", hu: "Hatalmas üledékes medence Közép-Afrikában.", ro: "Un bazin sedimentar imens în Africa Centrală.", en: "A vast sedimentary basin in Central Africa." , es: "Una enorme cuenca sedimentaria en África Central.", pt: "Uma enorme bacia sedimentar na África Central.", fr: "Un immense bassin sédimentaire en Afrique centrale."},
     facts: {
       de: ["Das zweitgrößte Regenwaldgebiet der Welt.", "Enthält den Kongo-Fluss."],
@@ -44,7 +43,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [28.0, -5.0],
     name: { de: "Mitumba-Gebirge", hu: "Mitumba-hegység", ro: "Munții Mitumba", en: "Mitumba Mountains"},
-    image: "/poi-images/mitumba-mountains-relief-v2.webp",
     description: { de: "Ein Gebirgszug im Osten der Demokratischen Republik Kongo.", hu: "Hegyvonulat a Kongói Demokratikus Köztársaság keleti részén.", ro: "Un lanț muntos în estul Republicii Democrate Congo.", en: "A mountain range in the east of the Democratic Republic of the Congo." , es: "Una cadena montañosa en el este de la República Democrática del Congo.", pt: "Uma cordilheira no leste da República Democrática do Congo.", fr: "Une chaîne de montagnes dans l'est de la République démocratique du Congo."},
     facts: {
       de: ["Teil des Ostafrikanischen Grabenbruchs.", "Höchster Gipfel ist der Mount Kahuzi."],
@@ -80,7 +78,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [29.5, -1.5],
     name: { de: "Virunga-Vulkane", hu: "Virunga-hegység", ro: "Munții Virunga", en: "Virunga Mountains"},
-    image: "/poi-images/virunga-mountains-relief-v2.webp",
     description: { de: "Eine Kette von Vulkanen an der Grenze zwischen Ruanda, Uganda und der DR Kongo.", hu: "Vulkánlánc Ruanda, Uganda és a Kongói DK határán.", ro: "Un lanț de vulcani la granița dintre Rwanda, Uganda și RD Congo.", en: "A chain of volcanoes on the border between Rwanda, Uganda, and the DR Congo." , es: "Una cadena de volcanes en la frontera entre Ruanda, Uganda y la RD del Congo.", pt: "Uma cadeia de vulcões na fronteira entre Ruanda, Uganda e a RD Congo.", fr: "Une chaîne de volcans à la frontière entre le Rwanda, l'Ouganda et la RD Congo."},
     facts: {
       de: ["Beheimatet die berühmten Berggorillas.", "Aktive Vulkane wie der Nyiragongo."],
@@ -233,7 +230,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [29.9, 0.4],
     name: { de: "Rwenzori-Gebirge", hu: "Rwenzori-hegység", ro: "Munții Rwenzori", en: "Rwenzori Mountains"},
-    image: "/poi-images/rwenzori-mountains-relief-v2.webp",
     description: { de: "Ein Gebirge an der Grenze zwischen Uganda und der DR Kongo.", hu: "Hegység Uganda és a Kongói DK határán.", ro: "Un lanț muntos la granița dintre Uganda și RD Congo.", en: "A range on the border between Uganda and the DR Congo." , es: "Una cordillera en la frontera entre Uganda y la RD del Congo.", pt: "Uma cordilheira na fronteira entre o Uganda e a RD Congo.", fr: "Une chaîne de montagnes à la frontière entre l'Ouganda et la RD Congo."},
     facts: {
       de: ["Bekannt als die 'Mondberge'.", "Gletscherbedeckte Gipfel trotz Äquatornähe."],
@@ -269,7 +265,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [29.2, -6.0],
     name: { de: "Tanganyika-Graben", hu: "Tanganyika-árok", ro: "Groapa Tanganyika", en: "Tanganyika Trough"},
-    image: "/poi-images/tanganyika-trough-relief-v2.webp",
     description: { de: "Ein bedeutender Teil des Ostafrikanischen Grabenbruchs.", hu: "A kelet-afrikai árokrendszer jelentős része.", ro: "O parte semnificativă a Marelui Rift African.", en: "A significant part of the East African Rift." , es: "Una parte importante del Rift de África Oriental.", pt: "Uma parte importante do Vale do Rift da África Oriental.", fr: "Une partie importante de la vallée du Grand Rift africain."},
     facts: {
       de: ["Beinhaltet den tiefen Tanganjikasee.", "Steile Hänge charakterisieren die Region."],
@@ -305,7 +300,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [29.0, -2.0],
     name: { de: "Kivu-Becken", hu: "Kivu-medence", ro: "Bazinul Kivu", en: "Kivu Basin"},
-    image: "/poi-images/kivu-basin-relief-v2.webp",
     description: { de: "Ein Becken im östlichen Rift-Tal.", hu: "Medence a keleti hasadékvölgyben.", ro: "Un bazin în valea riftului estic.", en: "A basin in the eastern rift valley." , es: "Una cuenca en el valle del Rift oriental.", pt: "Uma bacia no vale do Rift oriental.", fr: "Un bassin dans la vallée du rift oriental."},
     facts: {
       de: ["Geologisch sehr aktiv.", "Beherbergt den Kivusee."],
@@ -341,7 +335,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [27.0, -10.0],
     name: { de: "Katanga-Plateau", hu: "Katanga-fennsík", ro: "Podișul Katanga", en: "Katanga Plateau"},
-    image: "/poi-images/plateau-of-katanga-relief-v2.webp",
     description: { de: "Ein Hochplateau im Südosten des Landes.", hu: "Hatalmas, ásványkincsekben rendkívül gazdag fennsík az ország déli részén.", ro: "Un podiș înalt în sud-estul țării.", en: "A high plateau in the southeast of the country." , es: "Una meseta elevada en el sureste del país.", pt: "Um planalto elevado no sudeste do país.", fr: "Un haut plateau dans le sud-est du pays."},
     facts: {
       de: ["Reich an Mineralvorkommen.", "Savannenlandschaft."],
@@ -377,7 +370,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [22.0, 4.0],
     name: { de: "Ubangi-Plateau", hu: "Ubangi-fennsík", ro: "Podișul Ubangi", en: "Ubangi Plateau"},
-    image: "/poi-images/ubangi-plateau-relief-v2.webp",
     description: { de: "Ein Plateau im Norden der DR Kongo.", hu: "Fennsík a Kongói DK északi részén.", ro: "Un platou înalt situat în nordul țării, caracterizat prin soluri fertile și un relief ușor ondulat.", en: "The Ubangi Plateau is an elevated region in the northern part of the country, forming part of the watershed between the Congo and Nile basins." , es: "Una meseta en el norte de la RD del Congo.", pt: "Um planalto no norte da RD Congo.", fr: "Un plateau au nord de la RD Congo."},
     facts: {
       de: ["Geprägt durch das Ubangi-Flusssystem.", "Hügeliges Gelände."],
@@ -413,7 +405,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [28.7, -2.2],
     name: { de: "Mount Kahuzi", hu: "Kahuzi-hegy", ro: "Muntele Kahuzi", en: "Mount Kahuzi"},
-    image: "/poi-images/mount-kahuzi-relief-v2.webp",
     description: { de: "Ein erloschener Vulkan in den Mitumba-Bergen.", hu: "Kialudt vulkán a Mitumba-hegységben.", ro: "Un vulcan stins în munții Mitumba.", en: "An extinct volcano in the Mitumba Mountains." , es: "Un volcán extinguido en las montañas Mitumba.", pt: "Um vulcão extinto nas montanhas Mitumba.", fr: "Un volcan éteint dans les monts Mitumba."},
     facts: {
       de: ["Teil des Kahuzi-Biega-Nationalparks.", "Über 3.300 Meter hoch."],
@@ -449,7 +440,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [29.2, -1.5],
     name: { de: "Nyiragongo", hu: "Nyiragongo", ro: "Nyiragongo", en: "Nyiragongo"},
-    image: "/poi-images/mount-nyiragongo-relief-v2.webp",
     description: { de: "Der Mount Nyiragongo ist einer der aktivsten und gefährlichsten Vulkane der Welt, bekannt für seinen dauerhaften Lavasee im Krater.", hu: "A világ egyik legaktívabb rétegvulkánja, amely a Virunga-hegységben található.", ro: "Unul dintre cei mai activi vulcani din lume, renumit pentru lacul său de lavă persistent și erupțiile spectaculoase.", en: "An active stratovolcano in the Virunga chain." , es: "El monte Nyiragongo es uno de los volcanes más activos y peligrosos del mundo, conocido por su lago de lava permanente en el cráter.", pt: "O monte Nyiragongo é um dos vulcões mais activos e perigosos do mundo, conhecido pelo seu lago de lava permanente na cratera.", fr: "Le mont Nyiragongo est l'un des volcans les plus actifs et les plus dangereux au monde, célèbre pour son lac de lave permanent dans le cratère."},
     facts: {
       de: ["Aktiver Schichtvulkan", "Größter Lavasee der Welt", "Ständige Bedrohung für Goma"],
@@ -485,7 +475,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [29.2, -1.4],
     name: { de: "Nyamuragira", hu: "Nyamuragira", ro: "Nyamuragira", en: "Nyamuragira"},
-    image: "/poi-images/mount-nyamuragira-relief-v2.webp",
     description: { de: "Ein sehr aktiver Schildvulkan.", hu: "Nagyon aktív pajzsvulkán.", ro: "Un vulcan scut foarte activ.", en: "A very active shield volcano." , es: "Un volcán en escudo muy activo.", pt: "Um vulcão em escudo muito ativo.", fr: "Un volcan bouclier très actif."},
     facts: {
       de: ["Einer der aktivsten Vulkane Afrikas.", "Liegt in der Nähe des Nyiragongo."],
@@ -566,7 +555,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [29.4, -1.5],
     name: { de: "Mount Karisimbi", hu: "Karisimbi-hegy", ro: "Muntele Karisimbi", en: "Mount Karisimbi"},
-    image: "/poi-images/mount-karisimbi-relief-v2.webp",
     description: { de: "Der höchste Vulkan der Virunga-Berge.", hu: "A Virunga-hegység legmagasabb vulkánja.", ro: "Cel mai înalt vulcan din munții Virunga.", en: "The highest volcano in the Virunga Mountains." , es: "El volcán más alto de las montañas Virunga.", pt: "O vulcão mais alto das montanhas Virunga.", fr: "Le plus haut volcan des montagnes des Virunga."},
     facts: {
       de: ["Gipfelhöhe etwa 4.507 Meter.", "Grenzvulkan zwischen Ruanda und DR Kongo."],
@@ -602,7 +590,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [29.4, -1.4],
     name: { de: "Mount Mikeno", hu: "Mikeno-hegy", ro: "Muntele Mikeno", en: "Mount Mikeno"},
-    image: "/poi-images/mount-mikeno-relief-v2.webp",
     description: { de: "Ein erloschener Vulkan in den Virunga-Bergen.", hu: "Kialudt vulkán a Virunga-hegységben.", ro: "Un vulcan stins în munții Virunga.", en: "An extinct volcano in the Virunga Mountains." , es: "Un volcán extinguido en las montañas Virunga.", pt: "Um vulcão extinto nas montanhas Virunga.", fr: "Un volcan éteint dans les montagnes des Virunga."},
     facts: {
       de: ["Berühmt für steile Hänge.", "Lebensraum für Berggorillas."],
@@ -638,7 +625,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [29.0, 1.0],
     name: { de: "Ituri-Regenwald", hu: "Ituri-esőerdő", ro: "Pădurea Ituri", en: "Ituri Forest"},
-    image: "/poi-images/ituri-forest-relief-v2.webp",
     description: { de: "Ein bedeutender Regenwald im Nordosten.", hu: "Jelentős esőerdő az északkeleti régióban.", ro: "O pădure tropicală semnificativă în nord-est.", en: "A significant rainforest in the northeast." , es: "Una importante selva tropical en el noreste.", pt: "Uma floresta tropical importante no nordeste.", fr: "Une forêt tropicale majeure dans le nord-est."},
     facts: {
       de: ["Heimat der Mbuti-Pygmäen.", "Hohe Biodiversität."],
@@ -674,7 +660,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [12.5, -5.0],
     name: { de: "Mayombe-Wald", hu: "Mayombe-erdő", ro: "Pădurea Mayombe", en: "Mayombe Forest"},
-    image: "/poi-images/mayombe-forest-relief-v2.webp",
     description: { de: "Ein Regenwaldgebiet im Westen des Landes.", hu: "Esőerdő terület az ország nyugati részén.", ro: "O zonă de pădure tropicală în vestul țării.", en: "A rainforest area in the west of the country." , es: "Una zona de selva tropical en el oeste del país.", pt: "Uma área de floresta tropical no oeste do país.", fr: "Une zone de forêt tropicale dans l'ouest du pays."},
     facts: {
       de: ["Gebirgiges Waldgebiet.", "Wichtiger Lebensraum für Primaten."],
@@ -710,7 +695,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [29.5, -1.5],
     name: { de: "Mount Bisoke", hu: "Bisoke-hegy", ro: "Muntele Bisoke", en: "Mount Bisoke"},
-    image: "/poi-images/mount-visoke-relief-v2.webp",
     description: { de: "Ein aktiver Vulkan in den Virunga-Bergen.", hu: "Aktív vulkán a Virunga-hegységben.", ro: "Un vulcan activ în munții Virunga.", en: "An active volcano in the Virunga Mountains." , es: "Un volcán activo en las montañas de Virunga.", pt: "Um vulcão activo nas montanhas de Virunga.", fr: "Un volcan actif dans les montagnes des Virunga."},
     facts: {
       de: ["Besitzt einen Kratersee.", "Gipfel auf über 3.700 Metern."],
@@ -827,7 +811,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [29.6, -1.4],
     name: { de: "Mount Sabyinyo", hu: "Sabyinyo-hegy", ro: "Muntele Sabyinyo", en: "Mount Sabyinyo"},
-    image: "/poi-images/mount-sabyinyo-relief-v2.webp",
     description: { de: "Ein erloschener Vulkan in den Virunga-Bergen.", hu: "Kialudt vulkán a Virunga-hegységben.", ro: "Un vulcan stins în munții Virunga.", en: "An extinct volcano in the Virunga Mountains." , es: "Un volcán extinto en las montañas de Virunga.", pt: "Um vulcão extinto nas montanhas de Virunga.", fr: "Un volcan éteint dans les montagnes des Virunga."},
     facts: {
       de: ["Der Name bedeutet 'Zähne eines alten Mannes'.", "Gipfelpunkt der drei Landesgrenzen."],
@@ -863,7 +846,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [29.6, -1.4],
     name: { de: "Mount Gahinga", hu: "Gahinga-hegy", ro: "Muntele Gahinga", en: "Mount Gahinga"},
-    image: "/poi-images/mount-gahinga-relief-v2.webp",
     description: { de: "Ein erloschener Vulkan in der Virunga-Kette.", hu: "Kialudt vulkán a Virunga-hegységben.", ro: "Un vulcan stins în lanțul Virunga.", en: "An extinct volcano in the Virunga chain." , es: "Un volcán extinguido en la cordillera de Virunga.", pt: "Um vulcão extinto na cordilheira de Virunga.", fr: "Un volcan éteint de la chaîne des Virunga."},
     facts: {
       de: ["Kleinerer Vulkan der Gruppe.", "Bedeckt mit Bambuswald."],
@@ -944,7 +926,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [29.2, -1.7],
     name: { de: "Goma-Vulkangebiet", hu: "Goma-vulkáni terület", ro: "Zona vulcanică Goma", en: "Goma Volcanic Area"},
-    image: "/poi-images/mount-goma-relief-v2.webp",
     description: { de: "Ein Gebiet mit hoher vulkanischer Aktivität nahe Goma.", hu: "Nagy vulkáni aktivitású terület Goma közelében.", ro: "O zonă cu activitate vulcanică ridicată lângă Goma.", en: "An area of high volcanic activity near Goma." , es: "Una zona con alta actividad volcánica cerca de Goma.", pt: "Uma área com elevada atividade vulcânica perto de Goma.", fr: "Une zone à forte activité volcanique près de Goma."},
     facts: {
       de: ["Geprägt durch Lavaströme.", "Ständig überwacht."],
@@ -980,7 +961,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [28.0, -6.5],
     name: { de: "Luama-Plateau", hu: "Luama-fennsík", ro: "Podișul Luama", en: "Luama Plateau"},
-    image: "/poi-images/luama-plateau-relief-v2.webp",
     description: { de: "Ein Hochlandgebiet im Osten.", hu: "Felföldi terület keleten.", ro: "Platou situat în provincia Maniema, oferind un relief înalt cu vederi panoramice spre valea râului Lualaba.", en: "The Luama Plateau is a highland area in the eastern DR Congo, known for its rugged terrain and diverse ecosystems." , es: "Una zona de tierras altas en el este.", pt: "Uma área de planalto no leste.", fr: "Une région de hauts plateaux dans l'est."},
     facts: {
       de: ["Hügeliges Terrain.", "Teil der Ostafrikanischen Schwelle."],
@@ -1016,7 +996,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [25.0, 0.5],
     name: { de: "Boyoma-Fälle", hu: "Boyoma-vízesés", ro: "Cascadele Boyoma", en: "Boyoma Falls"},
-    image: "/poi-images/boyoma-falls-relief-v2.webp",
     description: { de: "Eine Serie von Stromschnellen des Kongo-Flusses.", hu: "A Kongó-folyó zuhatagrendszere.", ro: "O serie de rapide ale fluviului Congo.", en: "A series of rapids of the Congo River." , es: "Una serie de rápidos en el río Congo.", pt: "Uma série de corredeiras no rio Congo.", fr: "Une série de rapides sur le fleuve Congo."},
     facts: {
       de: ["Größte Stromschnellen der Welt nach Wasserdurchsatz.", "Früher Stanley-Fälle genannt."],
@@ -1052,7 +1031,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [30.0, -7.5],
     name: { de: "Marungu-Gebirge", hu: "Marungu-hegység", ro: "Munții Marungu", en: "Marungu Mountains"},
-    image: "/poi-images/marungu-mountains-relief-v2.webp",
     description: { de: "Ein Gebirgszug westlich des Tanganjikasees.", hu: "Hegyvonulat a Tanganyika-tótól nyugatra.", ro: "Un lanț muntos la vest de lacul Tanganyika.", en: "A mountain range west of Lake Tanganyika." , es: "Una cadena montañosa al oeste del lago Tanganica.", pt: "Uma cordilheira a oeste do Lago Tanganica.", fr: "Une chaîne de montagnes à l'ouest du lac Tanganyika."},
     facts: {
       de: ["Hohes Plateau und Bergkämme.", "Einzigartiges Mikroklima."],
@@ -1088,7 +1066,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [27.5, -10.0],
     name: { de: "Kundelungu-Plateau", hu: "Kundelungu-fennsík", ro: "Podișul Kundelungu", en: "Kundelungu Plateau"},
-    image: "/poi-images/kundelungu-plateau-relief-v2.webp",
     description: { de: "Ein weitläufiges Plateau in der Provinz Katanga.", hu: "Kiterjedt fennsík Katanga tartományban.", ro: "Un podiș vast în provincia Katanga.", en: "A vast plateau in Katanga province." , es: "Una extensa meseta en la provincia de Katanga.", pt: "Um planalto extenso na província de Katanga.", fr: "Un vaste plateau dans la province du Katanga."},
     facts: {
       de: ["Bekannt für den Kundelungu-Nationalpark.", "Steile Plateaukanten."],
@@ -1124,7 +1101,6 @@ export const poiExtraDrcongoReliefV2: POI[] = [
     parent: "CD-XX",
     coords: [26.0, -9.5],
     name: { de: "Biano-Plateau", hu: "Biano-fennsík", ro: "Podișul Biano", en: "Biano Plateau"},
-    image: "/poi-images/biano-plateau-relief-v2.webp",
     description: { de: "Ein weiteres bedeutendes Hochplateau in Katanga.", hu: "Egy másik jelentős magasfennsík Katangában.", ro: "Platou vast în provincia Lualaba, cunoscut pentru pășunile sale întinse și climatul temperat.", en: "Another significant high plateau in Katanga." , es: "Otra meseta importante en Katanga.", pt: "Outro planalto importante em Katanga.", fr: "Un autre haut plateau important au Katanga."},
     facts: {
       de: ["Sparsames Grasland.", "Höhe über 1.500 Meter."],

@@ -89,7 +89,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-NR",
     coords: [32.53, 15.61],
     name: { de: "Khartum Nationalzoo", hu: "Kartúmi Nemzeti Állatkert", ro: "Grădina Zoologică Națională din Khartoum", en: "Khartoum National Zoo"},
-    image: "/poi-images/sudan-national-zoo-life-v2.webp",
     description: {
       de: "Ein zentral gelegener Zoo in der Hauptstadt für Familien.",
       hu: "Központilag elhelyezkedő állatkert a fővárosban családok számára.",
@@ -133,7 +132,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-NR",
     coords: [33.2, 14.5],
     name: { de: "Gezira-Bewässerungsprojekt", hu: "Gezira öntözési projekt", ro: "Proiectul de irigații Gezira", en: "Gezira Scheme"},
-    image: "/poi-images/gezira-scheme-life-v2.webp",
     description: {
       de: "Eines der größten landwirtschaftlichen Bewässerungsprojekte weltweit.",
       hu: "A világ egyik legnagyobb mezőgazdasági öntözési projektje.",
@@ -221,7 +219,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-RS",
     coords: [37.2, 19.5],
     name: { de: "Sanganeb-Atoll", hu: "Sanganeb-atoll", ro: "Atolul Sanganeb", en: "Sanganeb Atoll"},
-    image: "/poi-images/red-sea-marine-life-life-v2.webp",
     description: {
       de: "Ein geschütztes marines Ökosystem im Roten Meer.",
       hu: "Védett tengeri ökoszisztéma a Vörös-tengerben.",
@@ -346,7 +343,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-NR",
     coords: [32.54, 15.62],
     name: { de: "Botanischer Garten Khartum", hu: "Kartúmi Botanikus Kert", ro: "Grădina Botanică din Khartoum", en: "Khartoum Botanic Garden"},
-    image: "/poi-images/khartoum-botanic-garden-life-v2.webp",
     description: {
       de: "Ein friedlicher Garten für Familien in der Hauptstadt.",
       hu: "Békés kert családoknak a fővárosban.",
@@ -390,7 +386,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-SK",
     coords: [30.5, 11.5],
     name: { de: "Nuba-Weideland", hu: "Nuba-legelők", ro: "Pășunile Nuba", en: "Nuba Grazing Lands"},
-    image: "/poi-images/nuba-mountains-grazing-life-v2.webp",
     description: {
       de: "Traditionelle Weidegebiete für das Vieh der Nuba.",
       hu: "Hagyományos legelőterületek a Nuba nép állatállománya számára.",
@@ -434,7 +429,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-SN",
     coords: [33.6, 13.5],
     name: { de: "Sennar-Staudamm-Region", hu: "Sennar-gát régió", ro: "Regiunea barajului Sennar", en: "Sennar Dam Region"},
-    image: "/poi-images/sennar-dam-agricultural-life-v2.webp",
     description: {
       de: "Ein landwirtschaftlich fruchtbares Gebiet um den Sennar-Damm.",
       hu: "Mezőgazdaságilag termékeny terület a Sennar-gát körül.",
@@ -648,7 +642,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-NR",
     coords: [32.55, 15.63],
     name: { de: "Khartum Freizeitpark", hu: "Kartúmi Vidámpark", ro: "Parcul de distracții din Khartoum", en: "Khartoum Amusement Park"},
-    image: "/poi-images/khartoum-amusement-park-life-v2.webp",
     description: {
       de: "Ein Vergnügungspark mit Fahrgeschäften für Kinder.",
       hu: "Vidámpark játékokkal gyerekeknek.",
@@ -737,7 +730,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-RS",
     coords: [24.26, 12.95],
     name: { de: "Jebel-Marra-Landwirtschaft", hu: "Jebel Marra mezőgazdaság", ro: "Agricultura Jebel Marra", en: "Jebel Marra Agriculture"},
-    image: "/poi-images/jebel-marra-agriculture-life-v2.webp",
     description: {
       de: "Terrassenfeldbau in den fruchtbaren Hängen des Jebel Marra.",
       hu: "Teraszos gazdálkodás a Jebel Marra termékeny lejtőin.",
@@ -781,7 +773,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-NR",
     coords: [31.33, 21.83],
     name: { de: "Wadi-Halfa-Fischerei", hu: "Wadi Halfa halászat", ro: "Pescuitul la Wadi Halfa", en: "Wadi Halfa Fisheries"},
-    image: "/poi-images/wadi-halfa-fishing-life-v2.webp",
     description: {
       de: "Ein Zentrum für Fischerei am Nasser-Stausee bei Wadi Halfa.",
       hu: "Halászati központ a Nasszer-tónál, Wadi Halfa mellett.",
@@ -825,7 +816,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-BN",
     coords: [34.3, 11.8],
     name: { de: "Er-Roseires-Region", hu: "Er-Roseires régió", ro: "Regiunea Er-Roseires", en: "Er Roseires Region"},
-    image: "/poi-images/er-roseires-dam-agriculture-life-v2.webp",
     description: {
       de: "Landwirtschaftliche Region um den Roseires-Staudamm.",
       hu: "Mezőgazdasági régió a Roseires-gát körül.",
@@ -950,7 +940,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-SI",
     coords: [34.8, 12.8],
     name: { de: "Dinder Öko-Lodge", hu: "Dinder Öko-Lodge", ro: "Dinder Eco-Lodge", en: "Dinder Eco-Lodge"},
-    image: "/poi-images/dinder-eco-lodge-life-v2.webp",
     description: {
       de: "Ein Familien-Resort im Dinder Nationalpark.",
       hu: "Családi üdülőhely a Dinder Nemzeti Parkban.",
@@ -994,7 +983,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-NR",
     coords: [33.9, 17.7],
     name: { de: "Markt in Atbara", hu: "Atbarai piac", ro: "Piața din Atbara", en: "Atbara Market"},
-    image: "/poi-images/atbara-market-life-v2.webp",
     description: {
       de: "Ein lebendiger Markt zum Entdecken für Kinder und Familien.",
       hu: "Élénk piac felfedezésre gyerekek és családok számára.",
@@ -1038,7 +1026,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-SK",
     coords: [30.6, 11.6],
     name: { de: "Nuba-Kulturzentrum", hu: "Nuba Kulturális Központ", ro: "Centrul Cultural Nuba", en: "Nuba Cultural Center"},
-    image: "/poi-images/nuba-mountains-arts-life-v2.webp",
     description: {
       de: "Ein Ort zum Kennenlernen der Nuba-Kultur für Kinder.",
       hu: "Hely a Nuba kultúra megismerésére gyerekek számára.",
@@ -1082,7 +1069,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-NR",
     coords: [32.7, 13.2],
     name: { de: "Weißer Nil Obstgärten", hu: "Fehér-Nílus gyümölcsösök", ro: "Livezile Nilului Alb", en: "White Nile Orchards"},
-    image: "/poi-images/white-nile-orchards-life-v2.webp",
     description: {
       de: "Obstplantagen entlang des Weißen Nils.",
       hu: "Gyümölcsültetvények a Fehér-Nílus mentén.",
@@ -1126,7 +1112,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-RS",
     coords: [37.3, 19.1],
     name: { de: "Suakin Inselpark", hu: "Suakin Szigetpark", ro: "Parcul Insular Suakin", en: "Suakin Island Park"},
-    image: "/poi-images/suakin-island-park-life-v2.webp",
     description: {
       de: "Ein Park auf einer historischen Insel in Suakin.",
       hu: "Park egy történelmi szigeten, Suakinban.",
@@ -1359,7 +1344,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-NR",
     coords: [32.6, 15.5],
     name: { de: "Blauer Nil Fischerdorf", hu: "Kék-Nílus halászfalu", ro: "Satul de pescari de pe Nilul Albastru", en: "Blue Nile Fishing Village"},
-    image: "/poi-images/blue-nile-fishing-villiage-life-v2.webp",
     description: {
       de: "Ein traditionelles Dorf am Ufer des Blauen Nils.",
       hu: "Hagyományos falu a Kék-Nílus partján.",
@@ -1448,7 +1432,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-NR",
     coords: [31.9, 18.5],
     name: { de: "Merowe-Staudamm-Region", hu: "Merowe-gát régió", ro: "Regiunea barajului Merowe", en: "Merowe Dam Region"},
-    image: "/poi-images/merowe-dam-agricultural-life-v2.webp",
     description: {
       de: "Landwirtschaftliche Entwicklung um den Merowe-Damm.",
       hu: "Mezőgazdasági fejlődés a Merowe-gát körül.",
@@ -1492,7 +1475,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-KS",
     coords: [36.4, 15.5],
     name: { de: "Kassala Obstmarkt", hu: "Kassalai gyümölcspiac", ro: "Piața de fructe din Kassala", en: "Kassala Fruit Market"},
-    image: "/poi-images/kassala-fruit-market-life-v2.webp",
     description: {
       de: "Ein bunter Markt für frische Früchte in Kassala.",
       hu: "Színes piac friss gyümölcsökkel Kassalában.",
@@ -1536,7 +1518,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-SK",
     coords: [30.4, 11.4],
     name: { de: "Nuba-Berge Honigernte", hu: "Nuba-hegységi mézszüret", ro: "Recoltarea mierii în Munții Nuba", en: "Nuba Mountains Honey Harvest"},
-    image: "/poi-images/nuba-mountains-honey-life-v2.webp",
     description: {
       de: "Traditionelle Honiggewinnung in den Nuba-Bergen.",
       hu: "Hagyományos méztermelés a Nuba-hegységben.",
@@ -1580,7 +1561,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-NR",
     coords: [30.5, 19.2],
     name: { de: "Dongola Dattelfarmen", hu: "Dongolai datolyaültetvények", ro: "Plantații de curmali din Dongola", en: "Dongola Date Farms"},
-    image: "/poi-images/dongola-date-farms-life-v2.webp",
     description: {
       de: "Große Dattelplantagen entlang des Nils bei Dongola.",
       hu: "Nagy datolyaültetvények a Nílus mentén, Dongolánál.",
@@ -1624,7 +1604,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-NR",
     coords: [32.53, 15.61],
     name: { de: "Tuti Insel Park", hu: "Tuti-sziget Park", ro: "Parcul Insulei Tuti", en: "Tuti Island Park"},
-    image: "/poi-images/tuti-island-park-life-v2.webp",
     description: {
       de: "Ein Park auf der Insel Tuti für Familien-Freizeit.",
       hu: "Park a Tuti-szigeten családi kikapcsolódásra.",
@@ -1757,7 +1736,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-GD",
     coords: [35.4, 14.0],
     name: { de: "Gedaref Landwirtschaftsgebiet", hu: "Gedaref mezőgazdasági terület", ro: "Zona agricolă Gedaref", en: "Gedaref Agricultural Area"},
-    image: "/poi-images/gedaref-agricultural-life-v2.webp",
     description: {
       de: "Ein wichtiges Anbaugebiet für Getreide im Osten.",
       hu: "Fontos gabonatermesztő terület keleten.",
@@ -1882,7 +1860,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-NR",
     coords: [32.52, 15.65],
     name: { de: "Nil Wildtier-Aufzucht", hu: "Nílus vadvilág-nevelde", ro: "Centru de îngrijire a faunei de pe Nil", en: "Nile Wildlife Nursery"},
-    image: "/poi-images/nile-wildlife-nursery-life-v2.webp",
     description: {
       de: "Ein Zentrum zum Schutz junger Wildtiere am Nil.",
       hu: "Központ fiatal vadállatok védelmére a Níluson.",
@@ -1926,7 +1903,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-RS",
     coords: [24.28, 12.96],
     name: { de: "Jebel-Marra-Quellen", hu: "Jebel Marra-források", ro: "Izvoarele Jebel Marra", en: "Jebel Marra Springs"},
-    image: "/poi-images/jebel-marra-springs-life-v2.webp",
     description: {
       de: "Natürliche Quellen im Gebirge, ideal für Familienausflüge.",
       hu: "Természetes források a hegyekben, ideális családi kirándulásokhoz.",
@@ -1970,7 +1946,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     parent: "SD-NR",
     coords: [30.4, 19.1],
     name: { de: "Dongola Markt", hu: "Dongolai piac", ro: "Piața din Dongola", en: "Dongola Market"},
-    image: "/poi-images/dongola-market-life-v2.webp",
     description: {
       de: "Ein lebhafter traditioneller Markt in Dongola.",
       hu: "Élénk hagyományos piac Dongolában.",

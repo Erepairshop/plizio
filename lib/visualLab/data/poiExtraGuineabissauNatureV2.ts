@@ -57,7 +57,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Orango-sziget",
       ro: "Insula Orango",
       en: "Orango Island"},
-    image: "/poi-images/orango-island-nature-v2.webp",
     description: {
       de: "Die Insel Orango ist Teil des Bijagós-Archipels und berühmt für ihre einzigartigen Salzwasser-Flusspferde. Sie ist ein wichtiges Biosphärenreservat mit unberührten Stränden und dichter Vegetation.",
       hu: "Az Orango-sziget a Bijagós-szigetcsoport része, és híres az egyedülálló sós vízi vízilóiról. Fontos bioszféra-rezervátum, érintetlen tengerpartokkal és sűrű növényzettel.",
@@ -120,7 +119,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Geba-folyó",
       ro: "Râul Geba",
       en: "Geba River"},
-    image: "/poi-images/rio-geba-nature-v2.webp",
     description: {
       de: "Der Rio Geba ist der wichtigste Fluss in Guinea-Bissau und fließt durch die Hauptstadt Bissau in den Atlantik. Er ist eine lebenswichtige Wasserstraße für den Transport und die Fischerei des Landes.",
       hu: "A Geba-folyó Bissau-Guinea legfontosabb folyója, amely Bissau fővárosán keresztül ömlik az Atlanti-óceánba. Létfontosságú vízi út az ország szállítási és halászati ágazata számára.",
@@ -183,7 +181,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Cacheu-folyó",
       ro: "Râul Cacheu",
       en: "Cacheu River"},
-    image: "/poi-images/rio-cacheu-nature-v2.webp",
     description: {
       de: "Der Rio Cacheu fließt durch den Norden des Landes und ist für seine ausgedehnten Mangrovenwälder bekannt. Er beherbergt eine reiche Vielfalt an Vögeln und aquatischem Leben.",
       hu: "A Cacheu-folyó az ország északi részén folyik keresztül, és kiterjedt mangroveerdőiről ismert. Gazdag madárvilágnak és vízi életnek ad otthont.",
@@ -247,7 +244,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Corubal-folyó",
       ro: "Râul Corubal",
       en: "Corubal River"},
-    image: "/poi-images/rio-corubal-nature-v2.webp",
     description: {
       de: "Der Rio Corubal entspringt in Guinea und bildet im Osten Guinea-Bissaus spektakuläre Stromschnellen und Wasserfälle. Er ist bekannt für seine landschaftliche Schönheit und ökologische Bedeutung.",
       hu: "A Corubal-folyó Guineában ered, és Bissau-Guinea keleti részén látványos zúgókat és vízeséseket alkot. Természeti szépségéről és ökológiai jelentőségéről ismert.",
@@ -311,7 +307,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Bijagós-szigetvilág",
       ro: "Arhipelagul Bijagós",
       en: "Bijagós Archipelago"},
-    image: "/poi-images/bijagos-archipelago-nature-v2.webp",
     description: {
       de: "Dieser Archipel besteht aus 88 Inseln und Inselchen vor der Küste Guinea-Bissaus. Er ist ein UNESCO-Biosphärenreservat, das für seine Artenvielfalt und die einzigartige Kultur der Bijagó bekannt ist.",
       hu: "Ez a szigetcsoport 88 szigetből és zátonyból áll Bissau-Guinea partjainál. UNESCO bioszféra-rezervátum, amely biológiai sokféleségéről és a bijagó nép egyedülálló kultúrájáról ismert.",
@@ -375,7 +370,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Bolama-sziget",
       ro: "Insula Bolama",
       en: "Bolama Island"},
-    image: "/poi-images/bolama-island-nature-v2.webp",
     description: {
       de: "Die Insel Bolama ist dem Festland am nächsten und war einst die Hauptstadt von Portugiesisch-Guinea. Heute ist sie ein ruhiger Ort mit verfallender Kolonialarchitektur und üppiger Natur.",
       hu: "Bolama-sziget fekszik a legközelebb a szárazföldhöz, és egykor Portugál-Guinea fővárosa volt. Ma egy csendes hely pusztuló gyarmati építészettel és buja természettel.",
@@ -520,7 +514,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Bubaque-sziget",
       ro: "Insula Bubaque",
       en: "Bubaque Island"},
-    image: "/poi-images/bubaque-island-nature-v2.webp",
     description: {
       de: "Bubaque ist das Verwaltungszentrum des Bijagós-Archipels und eine der am besten zugänglichen Inseln. Sie bietet eine Mischung aus lebendigem Inselleben, schönen Stränden und tropischen Wäldern.",
       hu: "Bubaque a Bijagós-szigetcsoport közigazgatási központja és az egyik legkönnyebben megközelíthető sziget. A pezsgő szigeti élet, a gyönyörű strandok és a trópusi erdők keverékét kínálja.",
@@ -584,7 +577,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Rubane-sziget",
       ro: "Insula Rubane",
       en: "Rubane Island"},
-    image: "/poi-images/rubane-island-nature-v2.webp",
     description: {
       de: "Gegenüber von Bubaque gelegen, ist Rubane bekannt für seine exklusiven Öko-Resorts und seine unberührte Natur. Die Insel bietet weiße Sandstrände und kristallklares Wasser, ideal zum Entspannen.",
       hu: "A Bubaque-val szemben fekvő Rubane exkluzív öko-üdülőhelyeiről és érintetlen természetéről ismert. A sziget fehér homokos strandokat és kristálytiszta vizet kínál, ideális a kikapcsolódáshoz.",
@@ -648,7 +640,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Poilão-sziget",
       ro: "Insula Poilão",
       en: "Poilão Island"},
-    image: "/poi-images/poilao-island-nature-v2.webp",
     description: {
       de: "Die Insel Poilão ist ein heiliger Ort für die Bijagós und einer der wichtigsten Nistplätze für die Grüne Meeresschildkröte im gesamten Atlantik. Der Zugang ist streng reglementiert, um die Natur zu schützen.",
       hu: "Poilão-sziget a bijagó nép szent helye, és az egész Atlanti-óceán egyik legfontosabb fészkelőhelye a közönséges levesteknős számára. A hozzáférés szigorúan korlátozott a természet védelme érdekében.",
@@ -712,7 +703,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Cufada-lagúna",
       ro: "Laguna Cufada",
       en: "Cufada Lagoon"},
-    image: "/poi-images/lagoa-de-cufada-nature-v2.webp",
     description: {
       de: "Die Cufada-Lagune ist die größte Süßwasserfläche in Guinea-Bissau und ein international anerkanntes RAMSAR-Feuchtgebiet. Sie ist ein entscheidender Lebensraum für Flusspferde, Krokodile und zahlreiche Zugvögel.",
       hu: "A Cufada-lagúna Bissau-Guinea legnagyobb édesvízi területe, és nemzetközileg elismert RAMSAR vizes élőhely. Döntő fontosságú élőhely a vízilovak, krokodilok és számos költöző madár számára.",
@@ -776,7 +766,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Cantanhez-erdő",
       ro: "Pădurea Cantanhez",
       en: "Cantanhez Forest"},
-    image: "/poi-images/cantanhez-forest-nature-v2.webp",
     description: {
       de: "Der Cantanhez-Nationalpark schützt den letzten verbliebenen Primärregenwald in Guinea-Bissau. Er ist ein kritischer Zufluchtsort für Schimpansen und beherbergt eine außergewöhnliche botanische Vielfalt.",
       hu: "A Cantanhez Nemzeti Park Bissau-Guinea utolsó megmaradt elsődleges esőerdőjét védi. A csimpánzok kritikus menedékhelye, és rendkívüli botanikai sokféleségnek ad otthont.",
@@ -840,7 +829,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Dulombi-erdő",
       ro: "Pădurea Dulombi",
       en: "Dulombi Forest"},
-    image: "/poi-images/dulombi-forest-nature-v2.webp",
     description: {
       de: "Der Dulombi-Nationalpark im Osten des Landes ist ein Mosaik aus Wäldern und Savannen. Er dient als wichtiger Korridor für große Wildtiere wie Elefanten und verschiedene Antilopenarten.",
       hu: "Dulombi Nemzeti Park az ország keleti részén erdők és szavannák mozaikja. Fontos folyosóként szolgál a nagyvadak, például elefántok és különböző antilopfajok számára.",
@@ -904,7 +892,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Boé-dombság",
       ro: "Dealurile Boé",
       en: "Boé Hills"},
-    image: "/poi-images/boe-hills-nature-v2.webp",
     description: {
       de: "Die Boé-Hügel stellen die höchsten Erhebungen in Guinea-Bissau dar. Diese bergige Region im Südosten ist historisch bedeutsam und bietet eine dramatisch andere Landschaft als der Rest des flachen Landes.",
       hu: "A Boé-dombság Bissau-Guinea legmagasabb pontjait képviseli. Ez a délkeleti hegyvidéki régió történelmileg jelentős, és drámaian eltérő tájat kínál, mint az ország többi, sík vidéke.",
@@ -968,7 +955,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Mansoa-folyó",
       ro: "Râul Mansoa",
       en: "Rio Mansoa"},
-    image: "/poi-images/rio-mansoa-nature-v2.webp",
     description: {
       de: "Der Rio Mansoa ist ein bedeutender Fluss in Zentral-Guinea-Bissau. Er spielt eine wichtige Rolle in der Landwirtschaft der Region und ist von dichten Mangroven und Reisfeldern gesäumt.",
       hu: "A Mansoa-folyó Közép-Bissau-Guinea jelentős folyója. Fontos szerepet játszik a régió mezőgazdaságában, partjait sűrű mangrovék és rizsföldek szegélyezik.",
@@ -1032,7 +1018,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Formosa-sziget",
       ro: "Insula Formosa",
       en: "Formosa Island"},
-    image: "/poi-images/formosa-island-nature-v2.webp",
     description: {
       de: "Formosa ist eine der größeren Inseln des Bijagós-Archipels. Sie zeichnet sich durch ihre abwechslungsreiche Landschaft aus, die von dichten Mangrovensümpfen bis hin zu sandigen Küstenabschnitten reicht.",
       hu: "Formosa a Bijagós-szigetcsoport egyik nagyobb szigete. Változatos táj jellemzi, a sűrű mangrove-mocsaraktól a homokos tengerparti szakaszokig.",
@@ -1177,7 +1162,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Uno-sziget",
       ro: "Insula Uno",
       en: "Uno Island"},
-    image: "/poi-images/uno-island-nature-v2.webp",
     description: {
       de: "Uno ist eine Insel im westlichen Teil des Bijagós-Archipels. Sie ist bekannt für ihre unberührte Natur, einsame Strände und die Erhaltung der authentischen Kultur ihrer Bewohner.",
       hu: "Uno a Bijagós-szigetcsoport nyugati részén található sziget. Érintetlen természetéről, elhagyatott strandjairól és lakói autentikus kultúrájának megőrzéséről ismert.",
@@ -1241,7 +1225,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Canhabaque-sziget",
       ro: "Insula Canhabaque",
       en: "Canhabaque Island"},
-    image: "/poi-images/canhabaque-island-nature-v2.webp",
     description: {
       de: "Die Insel Canhabaque, auch bekannt als Roxa, ist berühmt für die starke Identität ihrer Bewohner und die Bewahrung jahrhundertealter Traditionen. Die Landschaft ist geprägt von Palmenhainen und Stränden.",
       hu: "Canhabaque-sziget, más néven Roxa, lakóinak erős identitásáról és évszázados hagyományaik megőrzéséről híres. A tájat pálmaligetek és strandok jellemzik.",
@@ -1305,7 +1288,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Caravela-sziget",
       ro: "Insula Caravela",
       en: "Caravela Island"},
-    image: "/poi-images/caravela-island-nature-v2.webp",
     description: {
       de: "Caravela ist die nördlichste Insel des Bijagós-Archipels. Sie bietet weite, einsame Sandstrände und ist ein Paradies für Naturliebhaber, die Ruhe abseits der bewohnten Zentren suchen.",
       hu: "Caravela a Bijagós-szigetcsoport legészakibb szigete. Hatalmas, magányos homokos strandokat kínál, és a lakott központoktól távoli nyugalomra vágyó természetbarátok paradicsoma.",
@@ -1369,7 +1351,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Carache-sziget",
       ro: "Insula Carache",
       en: "Carache Island"},
-    image: "/poi-images/carache-island-nature-v2.webp",
     description: {
       de: "Carache liegt südlich von Caravela und ist eine wilde, weitgehend unerschlossene Insel. Sie ist geprägt von dichten Wäldern und einer Küstenlinie, die reich an mariner Biodiversität ist.",
       hu: "Carache Caravelától délre fekszik, és egy vad, nagyrészt feltáratlan sziget. Sűrű erdők és a tengeri biológiai sokféleségben gazdag partvonal jellemzi.",
@@ -1433,7 +1414,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Varela-tengerpart",
       ro: "Coasta Varela",
       en: "Varela Coast"},
-    image: "/poi-images/varela-coast-nature-v2.webp",
     description: {
       de: "Varela an der nordwestlichen Küste ist bekannt für einige der schönsten Strände des Festlandes. Das azurblaue Wasser und der feine Sand ziehen Besucher an, die die Ruhe der guineischen Küste suchen.",
       hu: "Az északnyugati parton fekvő Varela a szárazföld legszebb strandjairól ismert. Az azúrkék víz és a finom homok vonzza a békére vágyó látogatókat a guineai partvidékre.",
@@ -1578,7 +1558,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Rio Grande de Buba",
       ro: "Rio Grande de Buba",
       en: "Rio Grande de Buba"},
-    image: "/poi-images/rio-grande-de-buba-nature-v2.webp",
     description: {
       de: "Der Rio Grande de Buba ist eigentlich eine lange, fjordähnliche Meeresbucht, die tief ins Landesinnere reicht. Er ist ökologisch einzigartig und beherbergt eine Vielzahl von Meeres- und Flusslebewesen.",
       hu: "A Rio Grande de Buba valójában egy hosszú, fjord-szerű tengeröböl, amely mélyen benyúlik a szárazföldbe. Ökológiailag egyedülálló, és számos tengeri és folyami élőlénynek ad otthont.",
@@ -1706,7 +1685,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Galinhas-sziget",
       ro: "Insula Galinhas",
       en: "Galinhas Island"},
-    image: "/poi-images/galinhas-island-nature-v2.webp",
     description: {
       de: "Die Insel Galinhas ist bekannt für ihre ruhige Atmosphäre und ihre historische Bedeutung. Die Insel bietet eine Mischung aus Mangroven, Savannen und schönen Stränden.",
       hu: "Galinhas-sziget nyugodt légköréről és történelmi jelentőségéről ismert. A sziget mangrovék, szavannák és gyönyörű strandok keverékét kínálja.",
@@ -1770,7 +1748,6 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
       hu: "Soga-sziget",
       ro: "Insula Soga",
       en: "Soga Island"},
-    image: "/poi-images/soga-island-nature-v2.webp",
     description: {
       de: "Soga ist eine bewohnte Insel in der Nähe von Bubaque. Sie ist bekannt für ihre traditionellen Dörfer und die herzliche Gastfreundschaft der Bijagós-Bevölkerung.",
       hu: "Soga egy lakott sziget Bubaque közelében. Hagyományos falvairól és a bijagó nép meleg vendégszeretetéről ismert.",

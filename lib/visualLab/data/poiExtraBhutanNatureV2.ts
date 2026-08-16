@@ -8,7 +8,6 @@ export const poiExtraBhutanNatureV2: POI[] = [
     parent: "BT-GA",
     coords: [89.5, 28.0],
     name: { de: "Jigme-Dorji-Nationalpark", hu: "Jigme Dorji Nemzeti Park", ro: "Parcul Național Jigme Dorji", en: "Jigme Dorji National Park"},
-    image: "/poi-images/bt-jigme-dorji-national-park-nature-v2.webp",
     description: {
       de: "Bhutan zweitgrößter Nationalpark erstreckt sich über den gesamten Nordwesten des Landes und beheimatet Schneeleoparden und den Himalaya-Schwarzbären.",
       hu: "Bhután második legnagyobb nemzeti parkja az ország északnyugati részét öleli fel, hópárducok és himalájai feketemedvék menedéke.",
@@ -49,7 +48,6 @@ export const poiExtraBhutanNatureV2: POI[] = [
     parent: "BT-32",
     coords: [90.3, 27.2],
     name: { de: "Jigme-Singye-Wangchuck-Nationalpark", hu: "Jigme Singye Wangchuck Nemzeti Park", ro: "Parcul Național Jigme Singye Wangchuck", en: "Jigme Singye Wangchuck National Park"},
-    image: "/poi-images/bt-jigme-singye-wangchuck-national-park-nature-v2.webp",
     description: {
       de: "Ein zentral gelegener Nationalpark in Bhutan, der ausgedehnte Nadelwälder und weite alpine Weiden umfasst.",
       hu: "Központi fekvésű nemzeti park Bhutánban, amely kiterjedt tűlevelű erdőket és hatalmas alpesi legelőket foglal magába.",
@@ -90,7 +88,6 @@ export const poiExtraBhutanNatureV2: POI[] = [
     parent: "BT-31",
     coords: [90.8, 26.85],
     name: { de: "Royal-Manas-Nationalpark", hu: "Királyi Manas Nemzeti Park", ro: "Parcul Național Regal Manas", en: "Royal Manas National Park"},
-    image: "/poi-images/bt-royal-manas-national-park-nature-v2.webp",
     description: {
       de: "Der älteste Nationalpark Bhutans liegt in den tropischen und subtropischen Ebenen des Südens und ist ein Hotspot der Artenvielfalt.",
       hu: "Bhután legrégebbi nemzeti parkja a déli trópusi és szubtrópusi síkságokon fekszik, és a biodiverzitás egyik központja.",
@@ -428,7 +425,6 @@ export const poiExtraBhutanNatureV2: POI[] = [
     parent: "BT-33",
     coords: [90.95, 27.25],
     name: { de: "Phrumsengla-Nationalpark", hu: "Phrumsengla Nemzeti Park", ro: "Parcul Național Phrumsengla", en: "Phrumsengla National Park"},
-    image: "/poi-images/bt-phrumsengla-national-park-nature-v2.webp",
     description: {
       de: "Dieser Park schützt dichte Rhododendronwälder im Zentrum Bhutans und bietet atemberaubende Ausblicke auf das unberührte Himalaya-Vorland.",
       hu: "Ez a park sűrű rododendronerdőket véd Bhután központjában, és lélegzetelállító kilátást nyújt az érintetlen himalájai lábhegyekre.",
@@ -469,7 +465,6 @@ export const poiExtraBhutanNatureV2: POI[] = [
     parent: "BT-33",
     coords: [90.75, 27.8],
     name: { de: "Wangchuck-Centennial-Nationalpark", hu: "Wangchuck Centenáriumi Nemzeti Park", ro: "Parcul Național Centenar Wangchuck", en: "Wangchuck Centennial National Park"},
-    image: "/poi-images/bt-wangchuck-centennial-national-park-nature-v2.webp",
     description: {
       de: "Der größte Nationalpark Bhutans wurde zur Feier von hundert Jahren Monarchie gegründet und umfasst riesige Gebiete alpiner Ökosysteme.",
       hu: "Bhután legnagyobb nemzeti parkját a monarchia századik évfordulója alkalmából alapították, és hatalmas alpesi ökoszisztémákat ölel fel.",
@@ -510,7 +505,6 @@ export const poiExtraBhutanNatureV2: POI[] = [
     parent: "BT-TY",
     coords: [91.45, 27.8],
     name: { de: "Bumdeling-Wildschutzgebiet", hu: "Bumdeling Vadvédelmi Terület", ro: "Rezervația Naturală Bumdeling", en: "Bumdeling Wildlife Sanctuary"},
-    image: "/poi-images/bt-bumdeling-wildlife-sanctuary-nature-v2.webp",
     description: {
       de: "Ein friedliches Schutzgebiet im Nordosten, bekannt als wichtiges Überwinterungsgebiet für die seltenen Schwarzhalskraniche.",
       hu: "Egy békés védett terület északkeleten, amely a ritka feketenyakú darvak fontos telelőhelyeként ismert.",
@@ -632,7 +626,6 @@ export const poiExtraBhutanNatureV2: POI[] = [
     parent: "BT-41",
     coords: [91.8, 27.35],
     name: { de: "Sakteng-Wildschutzgebiet", hu: "Sakteng Vadvédelmi Terület", ro: "Rezervația Naturală Sakteng", en: "Sakteng Wildlife Sanctuary"},
-    image: "/poi-images/bt-sakteng-wildlife-sanctuary-nature-v2.webp",
     description: {
       de: "Ein entlegenes Schutzgebiet im Osten Bhutans, das angeblich geschaffen wurde, um den mythischen Yeti (Migoi) zu schützen.",
       hu: "Egy eldugott védett terület Kelet-Bhutánban, amelyet állítólag a mitikus jeti (Migoi) védelmére hoztak létre.",
@@ -718,7 +711,6 @@ export const poiExtraBhutanNatureV2: POI[] = [
     parent: "BT-GA",
     coords: [90.395, 28.046],
     name: { de: "Gangkhar Puensum", hu: "Gangkhar Puensum", ro: "Gangkhar Puensum", en: "Gangkhar Puensum"},
-    image: "/poi-images/bt-gangkhar-puensum-nature-v2.webp",
     description: {
       de: "Der höchste Berg Bhutans gilt weltweit als der höchste unbestiegene Gipfel, da das Land Bergsteigen auf heiligen Gipfeln verboten hat.",
       hu: "Bhután legmagasabb hegye világszerte a legmagasabb megmászatlan csúcsként ismert, mivel az ország betiltotta a szent hegyek megmászását.",
@@ -846,7 +838,6 @@ export const poiExtraBhutanNatureV2: POI[] = [
     parent: "BT-11",
     coords: [89.3, 27.85],
     name: { de: "Jitchu Drake", hu: "Jitchu Drake", ro: "Jitchu Drake", en: "Jitchu Drake"},
-    image: "/poi-images/bt-jitchu-drake-nature-v2.webp",
     description: {
       de: "Ein markanter, schroffer Gipfel unweit des Jomolhari, der durch seine steilen Flanken und eisigen Hänge beeindruckt.",
       hu: "Egy jellegzetes, zord csúcs a Jomolhari közelében, amely meredek oldalaival és jeges lejtőivel lenyűgöző látványt nyújt.",
@@ -1040,7 +1031,6 @@ export const poiExtraBhutanNatureV2: POI[] = [
     parent: "BT-GA",
     coords: [90.616, 28.225],
     name: { de: "Kula Kangri", hu: "Kula Kangri", ro: "Kula Kangri", en: "Kula Kangri"},
-    image: "/poi-images/bt-kula-kangri-nature-v2.webp",
     description: {
       de: "Ein mächtiges Bergmassiv im hohen Norden, dessen genaue Grenzzugehörigkeit historisch zwischen Bhutan und China debattiert wurde.",
       hu: "Egy hatalmas hegymasszívum a messzi északon, amelynek pontos hovatartozása történelmileg vita tárgya volt Bhután és Kína között.",
@@ -1309,7 +1299,6 @@ export const poiExtraBhutanNatureV2: POI[] = [
     parent: "BT-31",
     coords: [90.933, 26.78],
     name: { de: "Manas (Fluss)", hu: "Manas folyó", ro: "Râul Manas", en: "Manas River"},
-    image: "/poi-images/bt-manas-river-nature-v2.webp",
     description: {
       de: "Ein mächtiger grenzüberschreitender Fluss, der die subtropischen Regionen bewässert, bevor er in den indischen Brahmaputra mündet.",
       hu: "Hatalmas, határokon átnyúló folyó, amely a szubtrópusi régiókat öntözi, mielőtt az indiai Brahmaputra folyóba ömlene.",
@@ -1431,7 +1420,6 @@ export const poiExtraBhutanNatureV2: POI[] = [
     parent: "BT-24",
     coords: [89.9, 27.5],
     name: { de: "Puna Tsang Chhu", hu: "Puna Tsang Chhu", ro: "Puna Tsang Chhu", en: "Puna Tsang Chhu"},
-    image: "/poi-images/bt-puna-tsang-chhu-nature-v2.webp",
     description: {
       de: "Dieser breite Fluss entsteht aus dem Zusammenfluss von Mo Chhu und Pho Chhu und treibt wichtige Wasserkraftwerke im Land an.",
       hu: "Ez a széles folyó a Mo Chhu és a Pho Chhu összefolyásából születik, és az ország fontos vízerőműveit hajtja meg.",
@@ -1517,7 +1505,6 @@ export const poiExtraBhutanNatureV2: POI[] = [
     parent: "BT-15",
     coords: [89.633, 27.466],
     name: { de: "Wang Chhu", hu: "Wang Chhu", ro: "Wang Chhu", en: "Wang Chhu"},
-    image: "/poi-images/bt-wang-chhu-nature-v2.webp",
     description: {
       de: "Der Hauptfluss des Thimphu-Tals verläuft durch die Hauptstadt Bhutans und formt eine malerische Schlucht im Westen des Landes.",
       hu: "A Thimphu-völgy fő folyója átszeli Bhután fővárosát, és festői szurdokot formál az ország nyugati részén.",
@@ -1558,7 +1545,6 @@ export const poiExtraBhutanNatureV2: POI[] = [
     parent: "BT-32",
     coords: [90.5, 27.5],
     name: { de: "Mangde Chhu", hu: "Mangde Chhu", ro: "Mangde Chhu", en: "Mangde Chhu"},
-    image: "/poi-images/bt-mangde-chhu-nature-v2.webp",
     description: {
       de: "Ein starker Fluss, der sich durch das steile Terrain Zentralbhutans schneidet und tiefe Täler um die Region Trongsa bildet.",
       hu: "Egy sebes vizű folyó, amely Közép-Bhután meredek terepén vág keresztül, és mély völgyeket váj Trongsa régió körül.",
@@ -1599,7 +1585,6 @@ export const poiExtraBhutanNatureV2: POI[] = [
     parent: "BT-GA",
     coords: [90.23, 28.06],
     name: { de: "Thorthormi Tsho", hu: "Thorthormi Tsho", ro: "Thorthormi Tsho", en: "Thorthormi Tsho"},
-    image: "/poi-images/bt-thorthormi-tsho-nature-v2.webp",
     description: {
       de: "Ein sich rasch vergrößernder Gletschersee im Hochhimalaya, der aufgrund des Klimawandels genaustens wissenschaftlich überwacht wird.",
       hu: "Egy gyorsan növekvő gleccsertó a Magas-Himalájában, amelyet az éghajlatváltozás miatt szigorú tudományos megfigyelés alatt tartanak.",
@@ -1640,7 +1625,6 @@ export const poiExtraBhutanNatureV2: POI[] = [
     parent: "BT-GA",
     coords: [90.25, 28.05],
     name: { de: "Lugge Tsho", hu: "Lugge Tsho", ro: "Lugge Tsho", en: "Lugge Tsho"},
-    image: "/poi-images/bt-lugge-tsho-nature-v2.webp",
     description: {
       de: "Ein gefährlicher Gletschersee in der Lunana-Region, der bereits in der Vergangenheit katastrophale Sturzfluten durch Moränenbrüche verursachte.",
       hu: "Egy veszélyes gleccsertó a Lunana régióban, amely a múltban már okozott katasztrofális villámárvizeket a morénák átszakadása miatt.",

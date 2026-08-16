@@ -89,7 +89,6 @@ export const poiExtraQatarHistoryV2: POI[] = [
     parent: "QA-MS",
     coords: [51.028, 25.976],
     name: { de: "Al-Zubarah-Fort", hu: "Al Zubarah Erőd", ro: "Fortăreața Al Zubarah", en: "Al Zubarah Fort"},
-    image: "/poi-images/qatar-al-zubarah-fort-history-v2.webp",
     description: {
       de: "Das UNESCO-Weltkulturerbe ist eine der besterhaltenen Festungen am Persischen Golf und zeugt vom Perlenhandel des 18. Jahrhunderts.",
       hu: "Az UNESCO Világörökség részét képező, kiváló állapotban fennmaradt erőd a 18. századi gyöngyhalászat és kereskedelem emlékét őrzi a Perzsa-öbölben.",
@@ -222,7 +221,6 @@ export const poiExtraQatarHistoryV2: POI[] = [
     parent: "QA-RA",
     coords: [51.353, 25.267],
     name: { de: "Al-Wajbah-Fort", hu: "Al Wajbah Erőd", ro: "Fortul Al Wajbah", en: "Al Wajbah Fort"},
-    image: "/poi-images/qatar-al-wajbah-fort-history-v2.webp",
     description: {
       de: "Eines der ältesten Forts in Katar und Schauplatz der entscheidenden Schlacht von 1893, in der die Katarer die osmanischen Truppen besiegten.",
       hu: "Katar egyik legrégebbi erődje, ahol 1893-ban sorsdöntő csata zajlott, amelyben a katari erők legyőzték az oszmán sereget.",
@@ -311,7 +309,6 @@ export const poiExtraQatarHistoryV2: POI[] = [
     parent: "QA-RA",
     coords: [50.849, 25.488],
     name: { de: "Zekreet-Fort", hu: "Zekreet Erőd", ro: "Fortul Zekreet", en: "Zekreet Fort"},
-    image: "/poi-images/qatar-zekreet-fort-history-v2.webp",
     description: {
       de: "Die Ruinen dieses ungewöhnlichen Forts aus dem 18. Jahrhundert an der Westküste zeigen einen einzigartigen Baustil ohne traditionelle Ecktürme.",
       hu: "A nyugati parton fekvő, 18. századi erőd romjai különleges építészeti stílust képviselnek, mivel hiányoznak a hagyományos saroktornyok.",
@@ -400,7 +397,6 @@ export const poiExtraQatarHistoryV2: POI[] = [
     parent: "QA-DA",
     coords: [51.534, 25.287],
     name: { de: "Al-Koot-Fort", hu: "Al Koot Erőd", ro: "Fortul Al Koot", en: "Al Koot Fort"},
-    image: "/poi-images/qatar-al-koot-fort-history-v2.webp",
     description: {
       de: "Das auch als Doha-Fort bekannte Gebäude diente ursprünglich als Polizeistation und Gefängnis inmitten des traditionellen Souq Waqif.",
       hu: "A dohai erődként is ismert épület eredetileg rendőrőrsként és börtönként funkcionált a hagyományos Souq Waqif piac szívében.",
@@ -489,7 +485,6 @@ export const poiExtraQatarHistoryV2: POI[] = [
     parent: "QA-MS",
     coords: [51.135, 26.049],
     name: { de: "Al-Rakiyat-Fort", hu: "Al Rakiyat Erőd", ro: "Fortul Al Rakiyat", en: "Al Rakiyat Fort"},
-    image: "/poi-images/qatar-al-rakiyat-fort-history-v2.webp",
     description: {
       de: "Eine der wichtigsten Wüstenfestungen Katars, erbaut im 19. Jahrhundert, um die Süßwasserbrunnen der umliegenden Dörfer zu schützen.",
       hu: "Katar egyik legfontosabb sivatagi erődje a 19. századból, amelyet a környező falvak édesvízi kútjainak védelmére építettek.",
@@ -614,7 +609,6 @@ export const poiExtraQatarHistoryV2: POI[] = [
     parent: "QA-MS",
     coords: [51.408, 25.952],
     name: { de: "Felszeichnungen von Al Jassasiya", hu: "Al Jassasiya Sziklarajzok", ro: "Petroglifele Al Jassasiya", en: "Al Jassasiya Rock Carvings"},
-    image: "/poi-images/qatar-al-jassasiya-rock-carvings-history-v2.webp",
     description: {
       de: "Die bedeutendste archäologische Stätte Katars für Petroglyphen mit faszinierenden Steinritzungen von Schiffen, Tieren und geometrischen Mustern.",
       hu: "Katar legjelentősebb petroglifa lelőhelye, ahol hajók, állatok és geometriai minták lenyűgöző sziklába vésett ábrázolásai láthatók.",
@@ -747,7 +741,6 @@ export const poiExtraQatarHistoryV2: POI[] = [
     parent: "QA-MS",
     coords: [51.026, 26.015],
     name: { de: "Siedlung Freiha", hu: "Freiha Település", ro: "Așezarea Freiha", en: "Freiha Settlement"},
-    image: "/poi-images/qatar-freiha-settlement-history-v2.webp",
     description: {
       de: "Eine der ältesten verlassenen Küstenstädte Katars, die einst ein blühendes Zentrum für Perlentaucher war, bevor sie im 19. Jahrhundert aufgegeben wurde.",
       hu: "Katar egyik legrégebbi elhagyatott tengerparti városa, amely egykor virágzó gyöngyhalász központ volt, mielőtt a 19. században elnéptelenedett.",
@@ -872,7 +865,6 @@ export const poiExtraQatarHistoryV2: POI[] = [
     parent: "QA-MS",
     coords: [51.155, 26.094],
     name: { de: "Al-Jumail Fischerdorf", hu: "Al Jumail Halászfalu", ro: "Satul de pescari Al Jumail", en: "Al Jumail Fishing Village"},
-    image: "/poi-images/qatar-al-jumail-village-history-v2.webp",
     description: {
       de: "Ein malerisches, verlassenes Fischer- und Perlentaucherdorf an der Nordküste, das den Wandel vom traditionellen zum modernen Katar symbolisiert.",
       hu: "Festői, elhagyatott halász- és gyöngyhalász falu az északi parton, amely a hagyományos és a modern Katar közötti átmenetet szimbolizálja.",
@@ -916,7 +908,6 @@ export const poiExtraQatarHistoryV2: POI[] = [
     parent: "QA-MS",
     coords: [51.054, 26.068],
     name: { de: "Al-Areesh Dorf", hu: "Al Areesh Falu", ro: "Satul Al Areesh", en: "Al Areesh Village"},
-    image: "/poi-images/qatar-al-areesh-village-history-v2.webp",
     description: {
       de: "Eine weitere Geisterstadt im Norden Katars, deren von der Wüste zurückeroberte Ruinen ein stilles Zeugnis früherer Küstengemeinden ablegen.",
       hu: "Egy másik szellemváros Észak-Katarban, melynek a sivatag által visszahódított romjai a korábbi partmenti közösségek csendes tanúi.",
@@ -1005,7 +996,6 @@ export const poiExtraQatarHistoryV2: POI[] = [
     parent: "QA-KH",
     coords: [51.554, 25.688],
     name: { de: "Jazirat Bin Ghannam", hu: "Jazirat Bin Ghannam", ro: "Jazirat Bin Ghannam", en: "Jazirat Bin Ghannam"},
-    image: "/poi-images/qatar-jazirat-bin-ghannam-history-v2.webp",
     description: {
       de: "Auch als \"Purple Island\" bekannt, war dieser Ort im zweiten Jahrtausend v. Chr. ein wichtiges Zentrum der kassitischen Purpurfarbenproduktion.",
       hu: "A \"Bíbor-szigetként\" is ismert hely a Kr. e. 2. évezredben a kasszita bíborfesték-termelés fontos központja volt.",
@@ -1094,7 +1084,6 @@ export const poiExtraQatarHistoryV2: POI[] = [
     parent: "QA-MS",
     coords: [51.116, 26.033],
     name: { de: "Al-Thaqab-Fort", hu: "Al Thaqab Erőd", ro: "Fortul Al Thaqab", en: "Al Thaqab Fort"},
-    image: "/poi-images/qatar-al-thaqab-fort-history-v2.webp",
     description: {
       de: "Dieses historische Fort im Norden Katars diente den Dorfbewohnern als Zufluchtsort in Krisenzeiten und schützte den nahen, lebenswichtigen Brunnen.",
       hu: "Ez a történelmi erőd Katar északi részén menedékként szolgált a falusiak számára válságok idején, és védte a közeli létfontosságú kutat.",
@@ -1138,7 +1127,6 @@ export const poiExtraQatarHistoryV2: POI[] = [
     parent: "QA-DA",
     coords: [51.527, 25.286],
     name: { de: "Radwani-Haus", hu: "Radwani Ház", ro: "Casa Radwani", en: "Radwani House"},
-    image: "/poi-images/qatar-radwani-house-history-v2.webp",
     description: {
       de: "Ein authentisch restauriertes katarisches Familienhaus im Stadtteil Msheireb, das das häusliche Leben und die sozialen Strukturen der 1920er Jahre zeigt.",
       hu: "Egy hitelesen felújított katari családi ház a Msheireb negyedben, amely az 1920-as évek otthoni életét és társadalmi szerkezetét mutatja be.",
@@ -1299,7 +1287,6 @@ export const poiExtraQatarHistoryV2: POI[] = [
     parent: "QA-DA",
     coords: [51.528, 25.287],
     name: { de: "Company-Haus", hu: "Társaság Háza", ro: "Casa Companiei", en: "Company House"},
-    image: "/poi-images/qatar-company-house-history-v2.webp",
     description: {
       de: "Der ehemalige Sitz der ersten Ölgesellschaft in Katar dokumentiert die Geschichte der katarischen Ölpioniere, die den wirtschaftlichen Aufstieg begründeten.",
       hu: "Katar első olajtársaságának egykori székhelye a katari olajipari úttörők történetét dokumentálja, akik megalapozták az ország gazdasági fellendülését.",
@@ -1424,7 +1411,6 @@ export const poiExtraQatarHistoryV2: POI[] = [
     parent: "QA-DA",
     coords: [51.526, 25.286],
     name: { de: "Bin-Jelmood-Haus", hu: "Bin Jelmood Ház", ro: "Casa Bin Jelmood", en: "Bin Jelmood House"},
-    image: "/poi-images/qatar-bin-jelmood-house-history-v2.webp",
     description: {
       de: "Dieses bedeutende Museum thematisiert offen die historische Sklaverei und den Menschenhandel im Indischen Ozean sowie die Entwicklung der Menschenrechte.",
       hu: "Ez a fontos múzeum nyíltan foglalkozik az Indiai-óceán térségének történelmi rabszolgaságával és emberkereskedelmével, valamint az emberi jogok fejlődésével.",
@@ -1629,7 +1615,6 @@ export const poiExtraQatarHistoryV2: POI[] = [
     parent: "QA-DA",
     coords: [51.533, 25.289],
     name: { de: "Windturm-Haus", hu: "Széltornyos Ház", ro: "Casa Turnului de Vânt", en: "Wind Tower House"},
-    image: "/poi-images/qatar-wind-tower-house-history-v2.webp",
     description: {
       de: "Ein seltenes erhaltenes Beispiel traditioneller katarischer Kühlungsarchitektur, bei dem ein Windturm zur natürlichen Belüftung der Wohnräume genutzt wurde.",
       hu: "A hagyományos katari hűtési építészet egyik ritka fennmaradt példája, ahol a széltornyot a lakóterek természetes szellőztetésére használták.",
@@ -1673,7 +1658,6 @@ export const poiExtraQatarHistoryV2: POI[] = [
     parent: "QA-KH",
     coords: [51.272, 25.823],
     name: { de: "Al-Ghuwairiya-Fort", hu: "Al Ghuwairiya Erőd", ro: "Fortul Al Ghuwairiya", en: "Al Ghuwairiya Fort"},
-    image: "/poi-images/qatar-al-ghuwairiya-fort-history-v2.webp",
     description: {
       de: "Die Ruinen dieses kleinen Wüstenaußenpostens erinnern an die strategische Bedeutung der Binnenrouten und die Kontrolle der spärlichen Wasserressourcen.",
       hu: "Ennek a kis sivatagi előőrsnek a romjai a szárazföldi útvonalak stratégiai jelentőségére és a szűkös vízkészletek ellenőrzésére emlékeztetnek.",

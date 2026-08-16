@@ -12,7 +12,6 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: "Niani",
       ro: "Niani",
       en: "Niani"},
-    image: "/poi-images/niani-history-v2.webp",
     description: {
       de: "Niani war die antike Hauptstadt des Mali-Reiches während seiner Blütezeit im 13. und 14. Jahrhundert. Die Stadt war ein bedeutendes Zentrum für Handel und Kultur am Fluss Sankarani.",
       hu: "Niani a Mali Birodalom ősi fővárosa volt virágkorában, a 13. és 14. században. A Sankarani-folyó partján fekvő város fontos kereskedelmi és kulturális központként szolgált.",
@@ -59,7 +58,6 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: "Bissandougou",
       ro: "Bissandougou",
       en: "Bissandougou"},
-    image: "/poi-images/bissandougou-history-v2.webp",
     description: {
       de: "Bissandougou war im 19. Jahrhundert die Hauptstadt des Wassoulou-Reiches, das von Samory Touré gegründet wurde. Es war das Zentrum des Widerstands gegen die französische Kolonisation.",
       hu: "Bissandougou a 19. században a Samory Touré által alapított Wassoulou Birodalom fővárosa volt. A francia gyarmatosítás elleni ellenállás központjaként szolgált.",
@@ -106,7 +104,6 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: "Camayenne-mauzóleum",
       ro: "Mausoleul din Camayenne",
       en: "Camayenne Mausoleum"},
-    image: "/poi-images/mausoleum-camayenne-history-v2.webp",
     description: {
       de: "Das Mausoleum von Camayenne in Conakry ist die letzte Ruhestätte vieler guineischer Nationalhelden, darunter Samory Touré und Sekou Touré, der erste Präsident des unabhängigen Guinea.",
       hu: "A konakry-i Camayenne-mauzóleum számos guineai nemzeti hős végső nyughelye, köztük Samory Touréé és Sekou Touréé, a független Guinea első elnökéé.",
@@ -199,7 +196,6 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: "Almamy Yaya-sírhely",
       ro: "Mormântul lui Almamy Yaya",
       en: "Almamy Yaya Tomb"},
-    image: "/poi-images/almamy-yaya-tomb-history-v2.webp",
     description: {
       de: "In Labé befindet sich das Grab von Alfa Yaya Diallo (Almamy Yaya), einem bedeutenden Führer des Fouta Djallon, der für seinen Widerstand gegen die französische Expansion bekannt ist.",
       hu: "Labéban található Alfa Yaya Diallo (Almamy Yaya) sírja, aki Fouta Djallon jelentős vezetője volt, és a francia terjeszkedéssel szembeni ellenállásáról ismert.",
@@ -364,7 +360,6 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: "Bokéi Erőd Múzeum",
       ro: "Muzeul Fortăreței Boké",
       en: "Fort of Boké Museum"},
-    image: "/poi-images/fort-boke-museum-history-v2.webp",
     description: {
       de: "Das Museum ist in einem ehemaligen französischen Fort untergebracht, das 1878 erbaut wurde. Es dokumentiert die regionale Geschichte und die dunkle Ära des Sklavenhandels am Rio Nuñez.",
       hu: "A múzeum egy korábbi, 1878-ban épült francia erődben kapott helyet. Dokumentálja a régió történelmét és a rabszolga-kereskedelem sötét korszakát a Rio Nuñez mentén.",
@@ -505,7 +500,6 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: "Faran-Kama emlékmű",
       ro: "Monumentul Faran-Kama",
       en: "Faran-Kama Monument"},
-    image: "/poi-images/faran-kama-monument-history-v2.webp",
     description: {
       de: "Dieses Denkmal in Kankan erinnert an Faran Kama, den legendären Gründer der Stadt und einen bedeutenden Anführer der Mandinka, der die Basis für die heutige kulturelle Bedeutung Kankans legte.",
       hu: "Ez a kankani emlékmű Faran Kamának, a város legendás alapítójának és a mandinkák jelentős vezetőjének állít emléket, aki megalapozta Kankan mai kulturális jelentőségét.",
@@ -553,7 +547,6 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: "Camara Laye háza",
       ro: "Casa lui Camara Laye",
       en: "Camara Laye House"},
-    image: "/poi-images/camara-laye-house-history-v2.webp",
     description: {
       de: "Das Elternhaus des berühmten Schriftstellers Camara Laye in Kouroussa ist ein Ort von literarischer und historischer Bedeutung, der in seinem Klassiker 'Einer aus Guinea' (L'Enfant noir) verewigt wurde.",
       hu: "A híres író, Camara Laye szülőháza Kouroussában irodalmi és történelmi jelentőségű hely, amelyet klasszikus művében, a 'Fekete gyermek'-ben (L'Enfant noir) örökített meg.",
@@ -682,7 +675,6 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: "Sékou Touré-palota",
       ro: "Palatul Sékou Touré",
       en: "Sékou Touré Palace"},
-    image: "/poi-images/sekou-toure-palace-history-v2.webp",
     description: {
       de: "Der ehemalige Präsidentenpalast (Palais des Nations) in Conakry war das Machtzentrum während der Herrschaft von Ahmed Sékou Touré und ist ein markantes Beispiel für die Architektur der Unabhängigkeitsära.",
       hu: "A konakry-i egykori elnöki palota (Palais des Nations) volt a hatalom központja Ahmed Sékou Touré uralma alatt, és a függetlenségi korszak építészetének jellegzetes példája.",
@@ -730,7 +722,6 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: "Boffai missziós állomás",
       ro: "Misiunea din Boffa",
       en: "Boffa Mission Station"},
-    image: "/poi-images/boffa-mission-history-v2.webp",
     description: {
       de: "Gegründet im Jahr 1877, war die katholische Mission von Boffa die erste ihrer Art in Guinea. Die historischen Gebäude und die Kirche zeugen von der frühen europäischen Präsenz an der Küste.",
       hu: "Az 1877-ben alapított boffai katolikus misszió volt az első a maga nemében Guineában. A történelmi épületek és a templom a korai európai jelenlétről tanúskodnak a parton.",
@@ -778,7 +769,6 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: "Colombière-barlang",
       ro: "Grota Colombière",
       en: "Colombière Cave"},
-    image: "/poi-images/colombiere-cave-history-v2.webp",
     description: {
       de: "Diese archäologische Stätte bei Kindia enthält prähistorische Funde, die bis in die Steinzeit zurückreichen. Sie bietet wertvolle Einblicke in die frühe Besiedlung der Region.",
       hu: "Ez a Kindia közeli régészeti lelőhely a kőkorszakig visszanyúló őskori leleteket tartalmaz. Értékes betekintést nyújt a régió korai betelepülésébe.",
@@ -826,7 +816,6 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: "Koumi szakrális hely",
       ro: "Situl sacru Koumi",
       en: "Koumi Sacred Site"},
-    image: "/poi-images/koumi-sacred-site-history-v2.webp",
     description: {
       de: "Koumi ist eine alte heilige Stätte in der Waldregion Guineas, die für die rituellen Zeremonien und den Ahnenkult lokaler Stämme von großer historischer Bedeutung ist.",
       hu: "Koumi egy ősi szent hely Guinea erdős régiójában, amely a helyi törzsek rituális ceremóniái és őskultusza miatt nagy történelmi jelentőséggel bír.",
@@ -919,7 +908,6 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: "Timbói mecset",
       ro: "Moscheea din Timbo",
       en: "Timbo Mosque"},
-    image: "/poi-images/timbo-mosque-history-v2.webp",
     description: {
       de: "Timbo war die religiöse und politische Hauptstadt des Fouta Djallon Imamats. Die historische Moschee ist ein Symbol für die Ausbreitung des Islam und die Gelehrsamkeit in der Region.",
       hu: "Timbo a Fouta Djallon Imamátus vallási és politikai fővárosa volt. A történelmi mecset az iszlám terjedésének és a régió tudományosságának szimbóluma.",
@@ -967,7 +955,6 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: "Benty gyarmati kikötő",
       ro: "Portul colonial Benty",
       en: "Benty Colonial Port"},
-    image: "/poi-images/benty-port-history-v2.webp",
     description: {
       de: "Benty war ein bedeutender Hafen während der Kolonialzeit, der vor allem für den Export von Kautschuk und Bananen genutzt wurde. Heute sind noch Ruinen der alten Hafenanlagen zu sehen.",
       hu: "Benty a gyarmati korszak jelentős kikötője volt, amelyet főként gumi és banán exportjára használtak. Ma a régi kikötői létesítmények romjai láthatók.",
@@ -1015,7 +1002,6 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: "Kankan-Milo csatatér",
       ro: "Câmpul de luptă Kankan-Milo",
       en: "Kankan-Milo Battlefield"},
-    image: "/poi-images/kankan-milo-battlefield-history-v2.webp",
     description: {
       de: "Dieses Gebiet am Fluss Milo bei Kankan war Schauplatz entscheidender Kämpfe zwischen den Truppen Samory Tourés und den französischen Kolonialmächten Ende des 19. Jahrhunderts.",
       hu: "Ez a Kankan melletti Milo-folyó menti terület döntő csaták helyszíne volt Samory Touré csapatai és a francia gyarmati erők között a 19. század végén.",
@@ -1063,7 +1049,6 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: "Wassoulou Birodalom maradványai",
       ro: "Rămășițele Imperiului Wassoulou",
       en: "Wassoulou Empire Remains"},
-    image: "/poi-images/wassoulou-empire-remains-history-v2.webp",
     description: {
       de: "In der Region Kankan finden sich verstreute Ruinen und Befestigungsanlagen, die zum Wassoulou-Reich gehörten, einem der mächtigsten Staaten Westafrikas vor der Kolonialzeit.",
       hu: "Kankan régiójában szétszórt romok és erődítmények találhatók, amelyek a Wassoulou Birodalomhoz tartoztak, amely Nyugat-Afrika egyik leghatalmasabb állama volt a gyarmatosítás előtt.",
@@ -1159,7 +1144,6 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: "Tinkisso csatatér",
       ro: "Câmpul de luptă Tinkisso",
       en: "Tinkisso Battlefield"},
-    image: "/poi-images/tinkisso-battlefield-history-v2.webp",
     description: {
       de: "Das Gebiet um den Fluss Tinkisso war Schauplatz wichtiger Kämpfe während der islamischen Erneuerungsbewegungen und später beim Widerstand gegen die Kolonialmächte.",
       hu: "A Tinkisso-folyó környéke fontos csaták helyszíne volt az iszlám megújulási mozgalmak idején, majd később a gyarmati erők elleni ellenállás során.",

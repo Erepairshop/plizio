@@ -7,8 +7,6 @@ export const moldovaNatureV2: POI[] = [
     parent: "MD",
     type: "wildlife",
     name: { de: "Reservat Pădurea Domnească", hu: "Pădurea Domnească Rezervátum", ro: "Rezervația Pădurea Domnească", en: "Royal Forest Reserve"},
-    image: "/poi-images/moldova-padurea-domneasca-reserve-nature-v2.webp",
-    coords: [27.215, 47.608],
     coords: [27.215, 47.608],
     description: {
       de: "Das Reservat erstreckt sich entlang des Mittellaufs des Prut und ist bekannt für seine alten Eichenwälder und die Wisent-Population. Es umfasst auch einzigartige geologische Formationen wie die 'Hundert Hügel'.",
@@ -54,8 +52,6 @@ export const moldovaNatureV2: POI[] = [
     parent: "MD",
     type: "forest",
     name: { de: "Reservat Plaiul Fagului", hu: "Plaiul Fagului Rezervátum", ro: "Rezervația Plaiul Fagului", en: "Beech Land Reserve"},
-    image: "/poi-images/moldova-plaiul-fagului-reserve-nature-v2.webp",
-    coords: [28.016, 47.283],
     coords: [28.016, 47.283],
     description: {
       de: "Dieses Schutzgebiet im Bezirk Ungheni ist für seine ausgedehnten Buchenwälder bekannt, die für Moldawien eher untypisch sind. Die hügelige Landschaft bietet Lebensraum für Hirsche und Wildschweine.",
@@ -254,8 +250,6 @@ export const moldovaNatureV2: POI[] = [
     parent: "MD",
     type: "peak",
     name: { de: "Bălănești-Hügel", hu: "Bălănești-domb", ro: "Dealul Bălănești", en: "Balanesti Hill"},
-    image: "/poi-images/moldova-balanesti-hill-nature-v2.webp",
-    coords: [28.083, 47.216],
     coords: [28.083, 47.216],
     description: {
       de: "Der höchste Punkt Moldawiens erhebt sich im zentralen Teil des Landes nahe der Stadt Ungheni. Er ist Teil des zentralmoldauischen Plateaus und bietet weite Ausblicke über die umliegenden Wald- und Agrarlandschaften.",
@@ -302,7 +296,6 @@ export const moldovaNatureV2: POI[] = [
     type: "valley",
     name: { de: "Duruitoarea-Schlucht", hu: "Duruitoarea-szurdok", ro: "Defileul Duruitoarea", en: "Duruitoarea Gorge"},
     image: "/poi-images/moldova-duruitoarea-gorge-nature-v2.webp",
-    coords: [27.266, 47.883],
     coords: [27.266, 47.883],
     description: {
       de: "Eine spektakuläre Kalksteinschlucht, die vom kleinen Fluss Duruitoarea gegraben wurde. Die steilen Wände beherbergen eine berühmte Höhle, in der bedeutende paläontologische und archäologische Funde gemacht wurden.",
@@ -608,8 +601,6 @@ export const moldovaNatureV2: POI[] = [
     parent: "MD",
     type: "river",
     name: { de: "Fluss Dnjestr", hu: "Dnyeszter-folyó", ro: "Fluviul Nistru", en: "Dniester River"},
-    image: "/poi-images/moldova-nistru-river-nature-v2.webp",
-    coords: [29.1, 47.4],
     coords: [29.1, 47.4],
     description: {
       de: "Der Dnjestr ist die wichtigste Wasserstraße Moldawiens und prägt die östliche Landschaft des Landes. Er schlängelt sich durch tiefe Täler und bildet natürliche Mäander und fruchtbare Uferzonen.",
@@ -700,8 +691,6 @@ export const moldovaNatureV2: POI[] = [
     parent: "MD",
     type: "lake",
     name: { de: "Stausee Stînca-Costești", hu: "Stînca-Costești víztározó", ro: "Lacul de acumulare Stînca-Costești", en: "Stinca-Costesti Reservoir"},
-    image: "/poi-images/moldova-stinca-costesti-reservoir-nature-v2.webp",
-    coords: [27.216, 47.833],
     coords: [27.216, 47.833],
     description: {
       de: "Der größte Stausee am Fluss Prut wird oft als 'Meer Moldawiens' bezeichnet. Er entstand durch den Bau eines Wasserkraftwerks und ist heute ein bedeutendes Erholungsgebiet und wichtiger Wasserspeicher für die Landwirtschaft.",
@@ -749,7 +738,6 @@ export const moldovaNatureV2: POI[] = [
     name: { de: "Naslavcea-Hügel", hu: "Naslavcea-dombok", ro: "Dealurile Naslavcea", en: "Naslavcea Hills"},
     image: "/poi-images/moldova-naslavcea-hills-nature-v2.webp",
     coords: [27.583, 48.466],
-    coords: [27.583, 48.466],
     description: {
       de: "Die Naslavcea-Hügel markieren den nördlichsten Punkt Moldawiens. Die Landschaft ist geprägt von dramatischen Kreidefelsen und steilen Hängen über dem Dnjestr, die seltene geologische Schichten freilegen.",
       hu: "A Naslavcea-dombok Moldova legészakibb pontját jelölik. A tájat drámai kréta-sziklák és a Dnyeszter feletti meredek lejtők jellemzik, amelyek ritka geológiai rétegeket tárnak fel.",
@@ -793,8 +781,6 @@ export const moldovaNatureV2: POI[] = [
     parent: "MD",
     type: "lake",
     name: { de: "Dubăsari-Stausee", hu: "Dubăsari-víztározó", ro: "Lacul de acumulare Dubăsari", en: "Dubasari Reservoir"},
-    image: "/poi-images/moldova-dubasari-reservoir-nature-v2.webp",
-    coords: [29.133, 47.333],
     coords: [29.133, 47.333],
     description: {
       de: "Dieser Stausee am Dnjestr wurde in den 1950er Jahren für die Stromerzeugung angelegt. Er hat die umliegende Landschaft stark verändert und bildet heute ein großes Wasserreservoir, das von bewaldeten Hügeln gesäumt wird.",
@@ -840,8 +826,6 @@ export const moldovaNatureV2: POI[] = [
     parent: "MD",
     type: "valley",
     name: { de: "Schlucht von Trebujeni", hu: "Trebujeni-szurdok", ro: "Defileul Trebujeni", en: "Trebujeni Gorge"},
-    image: "/poi-images/moldova-trebujeni-gorge-nature-v2.webp",
-    coords: [28.966, 47.316],
     coords: [28.966, 47.316],
     description: {
       de: "Der Fluss Răut hat hier eine tiefe, halbkreisförmige Schlucht in den Kalkstein gegraben. Das Gebiet ist Teil des Orheiul-Vechi-Komplexes und beeindruckt durch seine steilen Felswände und die darin verborgenen Höhlensysteme.",
@@ -887,8 +871,6 @@ export const moldovaNatureV2: POI[] = [
     parent: "MD",
     type: "forest",
     name: { de: "Tigheci-Hügel", hu: "Tigheci-dombság", ro: "Codrii Tigheciului", en: "Tigheci Hills"},
-    image: "/poi-images/moldova-tigheci-hills-nature-v2.webp",
-    coords: [28.366, 46.416],
     coords: [28.366, 46.416],
     description: {
       de: "Dieses Hügelmassiv im Süden Moldawiens beherbergt eines der bedeutendsten Waldgebiete der Region. Die Tigheci-Hügel zeichnen sich durch ihre reiche Flora und die höchsten Erhebungen des südlichen Landesteils aus.",
@@ -934,8 +916,6 @@ export const moldovaNatureV2: POI[] = [
     parent: "MD",
     type: "landmark",
     name: { de: "Cobani-Riff", hu: "Cobani-zátony", ro: "Reciful Cobani", en: "Cobani Reef"},
-    image: "/poi-images/moldova-cobani-reef-nature-v2.webp",
-    coords: [27.24, 47.77],
     coords: [27.24, 47.77],
     description: {
       de: "Teil der sogenannten 'Prut-Toltry', ist dieses fossile Korallenriff ein beeindruckendes Zeugnis des urzeitlichen Meeres. Die markanten Kalksteinfelsen ragen steil aus der Ebene auf und beherbergen eine spezialisierte Flora.",
@@ -1134,8 +1114,6 @@ export const moldovaNatureV2: POI[] = [
     parent: "MD",
     type: "valley",
     name: { de: "Trinca-Schlucht", hu: "Trinca-szurdok", ro: "Defileul Trinca", en: "Trinca Gorge"},
-    image: "/poi-images/moldova-trinca-gorge-nature-v2.webp",
-    coords: [27.116, 48.216],
     coords: [27.116, 48.216],
     description: {
       de: "Die breiteste Schlucht Moldawiens wurde vom Fluss Draghiște in das Kalksteinplateau geschnitten. Die steilen Wände sind bis zu 100 Meter hoch und beherbergen zahlreiche Höhlen, die seit der Steinzeit genutzt wurden.",
@@ -1183,7 +1161,6 @@ export const moldovaNatureV2: POI[] = [
     name: { de: "Văratic-Schlucht", hu: "Văratic-szurdok", ro: "Defileul Văratic", en: "Varatic Gorge"},
     image: "/poi-images/moldova-varatic-gorge-nature-v2.webp",
     coords: [27.266, 47.916],
-    coords: [27.266, 47.916],
     description: {
       de: "Diese malerische Schlucht ist bekannt für ihren kaskadenartigen Wasserfall und die markanten Felsformationen. Der kleine Fluss Ciuhur hat sich hier tief in die sarmatischen Kalkriffe eingegraben.",
       hu: "Ez a festői szurdok vízeséséről és különleges sziklaalakzatairól ismert. A kis Ciuhur-folyó itt mélyen belevágta magát a szarmata mészkőzátonyokba.",
@@ -1227,8 +1204,6 @@ export const moldovaNatureV2: POI[] = [
     parent: "MD",
     type: "landmark",
     name: { de: "Molovata-Felsen", hu: "Molovata-sziklák", ro: "Stâncile de la Molovata", en: "Molovata Cliffs"},
-    image: "/poi-images/moldova-molovata-cliffs-nature-v2.webp",
-    coords: [29.116, 47.35],
     coords: [29.116, 47.35],
     description: {
       de: "Die Felsen von Molovata bieten einen spektakulären Blick auf den breitesten Teil des Dnjestr-Stausees. Die weißen Kalksteinformationen bilden einen scharfen Kontrast zum blauen Wasser des Flusses.",
@@ -1274,8 +1249,6 @@ export const moldovaNatureV2: POI[] = [
     parent: "MD",
     type: "river",
     name: { de: "Giurgiulești-Punkt", hu: "Giurgiulești-pont", ro: "Confluența Prut-Dunăre", en: "Giurgiulesti Confluence"},
-    image: "/poi-images/moldova-giurgiulesti-point-nature-v2.webp",
-    coords: [28.2, 45.466],
     coords: [28.2, 45.466],
     description: {
       de: "Der südlichste Punkt Moldawiens markiert die Mündung des Prut in die Donau. Dieser schmale Zugang zur Donau ist ökologisch wertvoll und bildet ein wichtiges Feuchtgebiet an der Dreiländerecke.",
@@ -1321,8 +1294,6 @@ export const moldovaNatureV2: POI[] = [
     parent: "MD",
     type: "river",
     name: { de: "Fluss Bîc", hu: "Bîc-folyó", ro: "Râul Bîc", en: "Bic River"},
-    image: "/poi-images/moldova-bic-river-nature-v2.webp",
-    coords: [28.8, 47.0],
     coords: [28.8, 47.0],
     description: {
       de: "Der Bîc ist ein zentraler Fluss Moldawiens, der durch die Hauptstadt Chișinău fließt. Trotz menschlicher Eingriffe beherbergt sein Oberlauf in den Codrii-Wäldern noch naturnahe Abschnitte.",
@@ -1368,8 +1339,6 @@ export const moldovaNatureV2: POI[] = [
     parent: "MD",
     type: "river",
     name: { de: "Fluss Cogîlnic", hu: "Cogîlnic-folyó", ro: "Râul Cogîlnic", en: "Cogilnic River"},
-    image: "/poi-images/moldova-cogilnic-river-nature-v2.webp",
-    coords: [28.7, 46.5],
     coords: [28.7, 46.5],
     description: {
       de: "Der Cogîlnic entwässert den südlichen Teil des moldauischen Plateaus. Er fließt durch Steppenlandschaften und ist ein typischer Fluss der trockeneren Regionen Moldawiens, der im Sommer oft wenig Wasser führt.",
@@ -1415,8 +1384,6 @@ export const moldovaNatureV2: POI[] = [
     parent: "MD",
     type: "river",
     name: { de: "Fluss Ichel", hu: "Ichel-folyó", ro: "Râul Ichel", en: "Ichel River"},
-    image: "/poi-images/moldova-ichel-river-nature-v2.webp",
-    coords: [28.866, 47.166],
     coords: [28.866, 47.166],
     description: {
       de: "Ein kleinerer Nebenfluss des Dnjestr, der für seine malerischen Täler im Zentrum Moldawiens bekannt ist. Er hat sich tief in die Kalksteinschichten eingegraben und bildet kleine Schluchten und Kaskaden.",
@@ -1509,7 +1476,6 @@ export const moldovaNatureV2: POI[] = [
     name: { de: "Fluss Botna", hu: "Botna-folyó", ro: "Râul Botna", en: "Botna River"},
     image: "/poi-images/moldova-botna-river-nature-v2.webp",
     coords: [28.9, 46.8],
-    coords: [28.9, 46.8],
     description: {
       de: "Dieser Fluss durchfließt den zentralen und südöstlichen Teil Moldawiens. Sein Tal ist von sanften Hügeln und Weinbergen geprägt, wobei er ein wichtiges Element des Hydrosystems der Codrii-Region darstellt.",
       hu: "Ez a folyó Moldova középső és délkeleti részén folyik keresztül. Völgyét lankás dombok és szőlőültetvények jellemzik, fontos része a Codrii-régió vízrendszerének.",
@@ -1555,7 +1521,6 @@ export const moldovaNatureV2: POI[] = [
     name: { de: "Telenești-Wald", hu: "Telenești-erdő", ro: "Pădurea Telenești", en: "Telenesti Forest"},
     image: "/poi-images/moldova-telenesti-forest-nature-v2.webp",
     coords: [28.4, 47.5],
-    coords: [28.4, 47.5],
     description: {
       de: "Ein bedeutendes Waldmassiv im Zentrum Moldawiens, das für seine alten Eichenbestände bekannt ist. Es bildet eine natürliche Brücke zwischen den Codrii und den nördlichen Steppenregionen.",
       hu: "Jelentős erdőtömb Közép-Moldovában, amely ősi tölgyeseiről ismert. Természetes hidat képez a Codrii és az északi sztyeppei régiók között.",
@@ -1600,7 +1565,6 @@ export const moldovaNatureV2: POI[] = [
     type: "forest",
     name: { de: "Hîncești-Wald", hu: "Hîncești-erdő", ro: "Pădurea Hîncești", en: "Hincesti Forest"},
     image: "/poi-images/moldova-hincesti-forest-nature-v2.webp",
-    coords: [28.55, 46.85],
     coords: [28.55, 46.85],
     description: {
       de: "Dieses Waldgebiet südwestlich der Hauptstadt ist Teil des südlichen Codrii-Gürtels. Es zeichnet sich durch seine hügelige Topographie und eine Mischung aus Wald- und Wiesengesellschaften aus.",
@@ -1691,7 +1655,6 @@ export const moldovaNatureV2: POI[] = [
     parent: "MD",
     type: "lake",
     name: { de: "Ghidighici-Stausee", hu: "Ghidighici-víztározó", ro: "Lacul Ghidighici", en: "Ghidighici Reservoir"},
-    image: "/poi-images/moldova-ghidighici-lake-nature-v2.webp",
     coords: [28.7186, 47.0911],
     description: {
       de: "Der Ghidighici-Stausee nordwestlich von Chișinău ist eines der größten künstlichen Gewässer des Landes. Er wurde in den 1960er Jahren am Fluss Bîc angelegt und dient heute als wichtiges Naherholungsgebiet für die Hauptstadt.",
@@ -1737,7 +1700,6 @@ export const moldovaNatureV2: POI[] = [
     parent: "MD",
     type: "forest",
     name: { de: "Silberwald", hu: "Ezüsterdő", ro: "Pădurea de Argint", en: "Silver Forest"},
-    image: "/poi-images/moldova-silver-forest-nature-v2.webp",
     coords: [27.2722, 47.7944],
     description: {
       de: "Die Pădurea de Argint ist ein geschütztes Waldgebiet in der Flussaue des Prut im Rajon Glodeni. Der Name leitet sich von den dort dominierenden Silber-Pappeln ab, deren helle Rinde dem Wald ein silbriges Aussehen verleiht.",
@@ -1783,7 +1745,6 @@ export const moldovaNatureV2: POI[] = [
     parent: "MD",
     type: "river",
     name: { de: "Ialpug", hu: "Ialpug", ro: "Râul Ialpug", en: "Ialpug River"},
-    image: "/poi-images/moldova-ialpug-river-nature-v2.webp",
     coords: [28.6042, 46.3083],
     description: {
       de: "Der Ialpug ist der wichtigste Fluss im Süden der Republik Moldau und durchquert die autonome Region Gagausien. Er entspringt im moldauischen Zentralhochland und fließt in südlicher Richtung zum Ialpug-See in der Ukraine.",
@@ -1829,7 +1790,6 @@ export const moldovaNatureV2: POI[] = [
     parent: "MD",
     type: "landmark",
     name: { de: "Paläontologische Stätte Cimișlia", hu: "Cimișliai őslénytani lelőhely", ro: "Situl paleontologic Cimișlia", en: "Cimișlia Paleontological Site"},
-    image: "/poi-images/moldova-cimislia-paleontological-nature-v2.webp",
     coords: [28.7583, 46.5222],
     description: {
       de: "Diese international bedeutende Fossilienstätte bei Cimișlia enthält Ablagerungen aus dem späten Miozän. Sie ist weltberühmt für die Entdeckung zahlreicher Skelette prähistorischer Hipparion-Pferde und anderer Urzeitsäuger.",
@@ -1875,7 +1835,6 @@ export const moldovaNatureV2: POI[] = [
     parent: "MD",
     type: "valley",
     name: { de: "Cuconeștii Vechi Schlucht", hu: "Cuconeștii Vechi szurdok", ro: "Defileul Cuconeștii Vechi", en: "Cuconeștii Vechi Gorge"},
-    image: "/poi-images/moldova-cuconestii-vechi-gorge-nature-v2.webp",
     coords: [27.0583, 48.125],
     description: {
       de: "Die Cuconeștii Vechi Schlucht am Ufer des Prut zeichnet sich durch imposante Kalksteinfelsen aus dem Miozän aus. Sie gehört zu den Prut-Toltry, einem fossilen Korallenriffsystem, das die Landschaft im Norden Moldaus prägt.",

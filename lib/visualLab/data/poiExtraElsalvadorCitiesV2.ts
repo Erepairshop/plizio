@@ -125,7 +125,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SS",
     coords: [-89.148, 13.708],
     name: { de: "Soyapango", hu: "Soyapango", ro: "Soyapango", en: "Soyapango"},
-    image: "/poi-images/soyapango-cities-v2.webp",
     description: { de: "Soyapango ist eine pulsierende Industriestadt in der Metropolregion San Salvador und gilt als eines der wichtigsten Wirtschaftszentren des Landes.", hu: "San Salvador agglomerációjának legnépesebb városa, amely az ország egyik legfontosabb ipari és kereskedelmi központja.", ro: "Soyapango este un oraș dens populat situat în zona metropolitană a capitalei San Salvador. Este recunoscut ca un centru industrial și comercial major al țării.", en: "Soyapango is a major industrial and commercial hub within the San Salvador Metropolitan Area, recognized as one of the most densely populated cities in Central America." , es: "Soyapango es una vibrante ciudad industrial en el área metropolitana de San Salvador y es considerada uno de los centros económicos más importantes del país.", pt: "Soyapango é uma vibrante cidade industrial na área metropolitana de San Salvador e é considerada um dos centros económicos mais importantes do país.", fr: "Soyapango est une ville industrielle dynamique de la zone métropolitaine de San Salvador et est considérée comme l'un des centres économiques les plus importants du pays."},
     facts: {
       de: ["Eine der am dichtesten besiedelten Städte El Salvadors.", "Bedeutendes Zentrum für Industrie und Handel.", "Teil des Ballungsraums der Hauptstadt San Salvador.", "Wichtiger Knotenpunkt für den nationalen Warenverkehr."],
@@ -163,7 +162,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-US",
     coords: [-88.433, 13.35],
     name: { de: "Usulután", hu: "Usulután", ro: "Usulután", en: "Usulután"},
-    image: "/poi-images/usulutan-cities-v2.webp",
     description: { de: "Hauptstadt des Departements Usulután, in einer reichen landwirtschaftlichen Region gelegen.", hu: "Usulután megye fővárosa, gazdag mezőgazdasági régióban található.", ro: "Capitala departamentului Usulután, situată într-o regiune agricolă bogată.", en: "Capital of the Usulután department, located in a rich agricultural region." , es: "Capital del departamento de Usulután, situada en una rica región agrícola.", pt: "Capital do departamento de Usulután, situada numa rica região agrícola.", fr: "Capitale du département d'Usulután, située dans une riche région agricole."},
     
     
@@ -196,7 +194,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-CU",
     coords: [-88.933, 13.716],
     name: { de: "Cojutepeque", hu: "Cojutepeque", ro: "Cojutepeque", en: "Cojutepeque"},
-    image: "/poi-images/cojutepeque-cities-v2.webp",
     description: { de: "Hauptstadt des Departements Cuscatlán, bekannt für ihre Wurstwaren und den Cerro de las Pavas.", hu: "Cuscatlán megye székhelye, amely festői elhelyezkedéséről és hagyományos gasztronómiájáról, különösen kolbászairól ismert.", ro: "Capitala departamentului Cuscatlán, cunoscută pentru cârnații săi și Cerro de las Pavas.", en: "Capital of the Cuscatlán department, known for its sausages and the Cerro de las Pavas hill." , es: "Capital del departamento de Cuscatlán, conocida por sus embutidos y el Cerro de las Pavas.", pt: "Capital do departamento de Cuscatlán, conhecida pelos seus enchidos e pelo Cerro de las Pavas.", fr: "Capitale du département de Cuscatlán, connue pour sa charcuterie et le Cerro de las Pavas."},
     
     facts: {
@@ -228,7 +225,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-LU",
     coords: [-87.843, 13.336],
     name: { de: "La Unión", hu: "La Unión", ro: "La Unión", en: "La Unión"},
-    image: "/poi-images/la-union-cities-v2.webp",
     description: { de: "Hauptstadt des Departements La Unión und wichtiger Hafen am Golf von Fonseca.", hu: "La Unión megye fővárosa és fontos kikötő a Fonseca-öbölben.", ro: "Capitala departamentului La Unión și un port important în Golful Fonseca.", en: "Capital of the La Unión department and an important port on the Gulf of Fonseca." , es: "Capital del departamento de La Unión e importante puerto en el Golfo de Fonseca.", pt: "Capital do departamento de La Unión e importante porto no Golfo de Fonseca.", fr: "Capitale du département de La Unión et port important sur le golfe de Fonseca."},
     
     facts: {
@@ -260,7 +256,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-CA",
     coords: [-88.633, 13.866],
     name: { de: "Sensuntepeque", hu: "Sensuntepeque", ro: "Sensuntepeque", en: "Sensuntepeque"},
-    image: "/poi-images/sensuntepeque-cities-v2.webp",
     description: { de: "Hauptstadt des Departements Cabañas, bekannt für Töpferei.", hu: "Cabañas megye fővárosa, a fazekasságáról ismert.", ro: "Capitala departamentului Cabañas, cunoscută pentru olărit.", en: "Capital of the Cabañas department, known for pottery." , es: "Capital del departamento de Cabañas, conocida por su alfarería.", pt: "Capital do departamento de Cabañas, conhecida pela sua olaria.", fr: "Capitale du département de Cabañas, connue pour sa poterie."},
     
     facts: {
@@ -292,7 +287,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SV",
     coords: [-88.8, 13.633],
     name: { de: "San Vicente", hu: "San Vicente", ro: "San Vicente", en: "San Vicente"},
-    image: "/poi-images/san-vicente-cities-v2.webp",
     description: { de: "Hauptstadt des Departements San Vicente, am Fuße des Vulkans Chichontepec.", hu: "San Vicente megye fővárosa, a Chichontepec vulkán lábánál.", ro: "Capitala departamentului San Vicente, la poalele vulcanului Chichontepec.", en: "Capital of the San Vicente department, at the foot of the Chichontepec volcano." , es: "Capital del departamento de San Vicente, al pie del volcán Chichontepec.", pt: "Capital do departamento de San Vicente, ao pé do vulcão Chichontepec.", fr: "Capitale du département de San Vicente, au pied du volcan Chichontepec."},
     
     facts: {
@@ -324,7 +318,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-MO",
     coords: [-88.083, 13.7],
     name: { de: "San Francisco Gotera", hu: "San Francisco Gotera", ro: "San Francisco Gotera", en: "San Francisco Gotera"},
-    image: "/poi-images/gotera-cities-v2.webp",
     description: { de: "Hauptstadt des Departements Morazán, mit einer Geschichte des Bürgerkriegs.", hu: "Morazán megye fővárosa, a polgárháború történetével.", ro: "Capitala departamentului Morazán, cu o istorie a războiului civil.", en: "Capital of the Morazán department, with a history related to the civil war." , es: "Capital del departamento de Morazán, con una historia vinculada a la guerra civil.", pt: "Capital do departamento de Morazán, com uma história ligada à guerra civil.", fr: "Capitale du département de Morazán, avec une histoire marquée par la guerre civile."},
     
     facts: {
@@ -401,7 +394,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-LI",
     coords: [-89.35, 13.733],
     name: { de: "Colón", hu: "Colón", ro: "Colón", en: "Colón"},
-    image: "/poi-images/colon-city-cities-v2.webp",
     description: { de: "Eine wachsende Stadt im Departement La Libertad, westlich von Santa Tecla.", hu: "Növekvő város La Libertad megyében, Santa Teclától nyugatra.", ro: "Un oraș în creștere în departamentul La Libertad, la vest de Santa Tecla.", en: "A growing city in the La Libertad department, west of Santa Tecla." , es: "Una ciudad en crecimiento en el departamento de La Libertad, al oeste de Santa Tecla.", pt: "Uma cidade em crescimento no departamento de La Libertad, a oeste de Santa Tecla.", fr: "Une ville en pleine croissance dans le département de La Libertad, à l'ouest de Santa Tecla."},
     
     facts: {
@@ -520,7 +512,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SO",
     coords: [-89.833, 13.583],
     name: { de: "Acajutla", hu: "Acajutla", ro: "Acajutla", en: "Acajutla"},
-    image: "/poi-images/acajutla-cities-v2.webp",
     description: { de: "El Salvadors wichtigste Hafenstadt für den internationalen Seehandel.", hu: "El Salvador legfontosabb kikötővárosa a nemzetközi tengeri kereskedelemben.", ro: "Cel mai important oraș portuar din El Salvador pentru comerțul maritim internațional.", en: "El Salvador's main port city for international maritime trade." , es: "La ciudad portuaria más importante de El Salvador para el comercio marítimo internacional.", pt: "A cidade portuária mais importante de El Salvador para o comércio marítimo internacional.", fr: "La ville portuaire la plus importante d'El Salvador pour le commerce maritime international."},
     
     facts: {
@@ -639,7 +630,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SS",
     coords: [-89.133, 13.716],
     name: { de: "San Sebastián Salitrillo", hu: "San Sebastián Salitrillo", ro: "San Sebastián Salitrillo", en: "San Sebastián Salitrillo"},
-    image: "/poi-images/iztapán-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Santa Ana, nahe der Grenze zu Guatemala.", hu: "Város Santa Ana megyében, közel a guatemalai határhoz.", ro: "Un oraș în departamentul Santa Ana, aproape de granița cu Guatemala.", en: "A city in the Santa Ana department, near the border with Guatemala." , es: "Una ciudad en el departamento de Santa Ana, cerca de la frontera con Guatemala.", pt: "Uma cidade no departamento de Santa Ana, perto da fronteira com a Guatemala.", fr: "Une ville du département de Santa Ana, proche de la frontière avec le Guatemala."},
     
     facts: {
@@ -902,7 +892,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SA",
     coords: [-89.683, 13.983],
     name: { de: "Chalchuapa", hu: "Chalchuapa", ro: "Chalchuapa", en: "Chalchuapa"},
-    image: "/poi-images/chalchuapa-cities-v2.webp",
     description: { de: "Eine historisch bedeutende Stadt mit wichtigen präkolumbianischen Ruinen wie Tazumal.", hu: "Történelmileg jelentős város, ahol olyan fontos prekolumbián romok találhatók, mint a Tazumal.", ro: "Un oraș important din punct de vedere istoric, cu ruine precolumbiene importante, cum ar fi Tazumal.", en: "A historically significant city with important pre-Columbian ruins like Tazumal." , es: "Una ciudad de gran importancia histórica con importantes ruinas precolombinas como Tazumal.", pt: "Uma cidade de grande importância histórica com importantes ruínas pré-colombianas como Tazumal.", fr: "Une ville d'une grande importance historique abritant des ruines précolombiennes majeures comme Tazumal."},
     
     facts: {
@@ -940,7 +929,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-LI",
     coords: [-89.26, 13.83],
     name: { de: "Quezaltepeque", hu: "Quezaltepeque", ro: "Quezaltepeque", en: "Quezaltepeque"},
-    image: "/poi-images/quezaltepeque-city-cities-v2.webp",
     description: { de: "Eine Stadt im Departement La Libertad, bekannt für ihre Landwirtschaft und Viehzucht.", hu: "Város La Libertad megyében, mezőgazdaságáról és állattenyésztéséről ismert.", ro: "Un oraș în departamentul La Libertad, cunoscut pentru agricultură și creșterea animalelor.", en: "A city in the La Libertad department, known for its agriculture and livestock." , es: "Una ciudad en el departamento de La Libertad, conocida por su agricultura y ganadería.", pt: "Uma cidade no departamento de La Libertad, conhecida pela sua agricultura e pecuária.", fr: "Une ville du département de La Libertad, connue pour son agriculture et son élevage."},
     
     facts: {
@@ -1851,7 +1839,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-LI",
     coords: [-89.245, 13.685],
     name: { de: "Antiguo Cuscatlán", hu: "Antiguo Cuscatlán", ro: "Antiguo Cuscatlán", en: "Antiguo Cuscatlán"},
-    image: "/poi-images/antiguo-cuscatlan-cities-v2.webp",
     description: { de: "Eine wohlhabende Stadt, die Teil der Metropolregion San Salvador ist und viele Botschaften beherbergt.", hu: "Jómódú város, amely San Salvador nagyvárosi területének része, és számos nagykövetségnek ad otthont.", ro: "Un oraș prosper, parte a zonei metropolitane San Salvador, care găzduiește multe ambasade.", en: "An affluent city, part of the San Salvador metropolitan area, housing many embassies." , es: "Una ciudad próspera que forma parte del área metropolitana de San Salvador y alberga muchas embajadas.", pt: "Uma cidade próspera que faz parte da área metropolitana de San Salvador e abriga muitas embaixadas.", fr: "Une ville prospère faisant partie de l'aire métropolitaine de San Salvador et abritant de nombreuses ambassades."},
     
     facts: {
@@ -2006,7 +1993,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SO",
     coords: [-89.516, 13.783],
     name: { de: "Armenia", hu: "Armenia", ro: "Armenia", en: "Armenia"},
-    image: "/poi-images/armenien-city-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Sonsonate, umgeben von Kaffeeplantagen.", hu: "Város Sonsonate megyében, kávéültetvényekkel körülvéve.", ro: "Un oraș în departamentul Sonsonate, înconjurat de plantații de cafea.", en: "A city in the Sonsonate department, surrounded by coffee plantations." , es: "Una ciudad en el departamento de Sonsonate, rodeada de plantaciones de café.", pt: "Uma cidade no departamento de Sonsonate, rodeada por plantações de café.", fr: "Une ville du département de Sonsonate, entourée de plantations de café."},
     
     
@@ -2090,7 +2076,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SS",
     coords: [-89.05, 13.733],
     name: { de: "San Martín", hu: "San Martín", ro: "San Martín", en: "San Martín"},
-    image: "/poi-images/san-martin-cities-v2.webp",
     description: { de: "Eine Stadt östlich von San Salvador, bekannt für ihre Möbelherstellung.", hu: "San Salvadortól keletre fekvő város, bútorgyártásáról ismert.", ro: "Un oraș la est de San Salvador, cunoscut pentru producția de mobilă.", en: "A city east of San Salvador, known for its furniture manufacturing." , es: "Una ciudad al este de San Salvador, conocida por su fabricación de muebles.", pt: "Uma cidade a leste de San Salvador, conhecida pela sua fabricação de móveis.", fr: "Une ville à l'est de San Salvador, connue pour sa fabrication de meubles."},
     
     facts: {
@@ -2173,7 +2158,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SO",
     coords: [-89.65, 13.8],
     name: { de: "Izalco", hu: "Izalco", ro: "Izalco", en: "Izalco"},
-    image: "/poi-images/izalko-city-cities-v2.webp",
     description: { de: "Eine historische Stadt am Fuße des gleichnamigen Vulkans mit indigener Geschichte.", hu: "Történelmi város az azonos nevű vulkán lábánál, őslakos történelemmel.", ro: "Un oraș istoric la poalele vulcanului omonim, cu o istorie indigenă.", en: "A historic city at the foot of the volcano of the same name, with an indigenous history." , es: "Una ciudad histórica al pie del volcán del mismo nombre con historia indígena.", pt: "Uma cidade histórica no sopé do vulcão com o mesmo nome com história indígena.", fr: "Une ville historique au pied du volcan du même nom, dotée d'une histoire indigène."},
     
     facts: {
@@ -2211,7 +2195,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-PA",
     coords: [-88.98, 13.52],
     name: { de: "El Rosario", hu: "El Rosario", ro: "El Rosario", en: "El Rosario"},
-    image: "/poi-images/la-paz-center-cities-v2.webp",
     description: { de: "Eine Stadt im Departement La Paz, nahe der Pazifikküste.", hu: "Város La Paz megyében, a Csendes-óceán partjának közelében.", ro: "Un oraș în departamentul La Paz, aproape de coasta Pacificului.", en: "A city in the department of La Paz, near the Pacific coast." , es: "Una ciudad en el departamento de La Paz, cerca de la costa del Pacífico.", pt: "Uma cidade no departamento de La Paz, perto da costa do Pacífico.", fr: "Une ville du département de La Paz, proche de la côte Pacifique."},
     
     facts: {
@@ -2294,7 +2277,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-US",
     coords: [-88.566, 13.316],
     name: { de: "Jiquilisco", hu: "Jiquilisco", ro: "Jiquilisco", en: "Jiquilisco"},
-    image: "/poi-images/jiquilisco-cities-v2.webp",
     description: { de: "Eine Stadt nahe der Jiquilisco-Bucht, einem wichtigen Biosphärenreservat.", hu: "Város a Jiquilisco-öböl közelében, amely fontos bioszféra-rezervátum.", ro: "Un oraș aproape de Golful Jiquilisco, o importantă rezervație a biosferei.", en: "A city near Jiquilisco Bay, an important biosphere reserve." , es: "Una ciudad cerca de la Bahía de Jiquilisco, una importante reserva de la biosfera.", pt: "Uma cidade perto da Baía de Jiquilisco, uma importante reserva da biosfera.", fr: "Une ville proche de la baie de Jiquilisco, une importante réserve de biosphère."},
     
     facts: {
@@ -2332,7 +2314,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-US",
     coords: [-88.533, 13.5],
     name: { de: "Berlín", hu: "Berlín", ro: "Berlín", en: "Berlín"},
-    image: "/poi-images/berlin-sv-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Usulután, bekannt für ihre Kaffeeplantagen und deutsche Einwanderer.", hu: "Város Usulután megyében, kávéültetvényeiről és német bevándorlóiról ismert.", ro: "Un oraș în departamentul Usulután, cunoscut pentru plantațiile de cafea și imigranții germani.", en: "A city in the Usulután department, known for its coffee plantations and German immigrants." , es: "Una ciudad en el departamento de Usulután, conocida por sus plantaciones de café e inmigrantes alemanes.", pt: "Uma cidade no departamento de Usulután, conhecida pelas suas plantações de café e imigrantes alemães.", fr: "Une ville du département d'Usulután, connue pour ses plantations de café et ses immigrants allemands."},
     
     facts: {
@@ -2370,7 +2351,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-US",
     coords: [-88.38, 13.37],
     name: { de: "Concepción Batres", hu: "Concepción Batres", ro: "Concepción Batres", en: "Concepción Batres"},
-    image: "/poi-images/concepcion-batres-cities-v2.webp",
     description: { de: "Eine kleine Stadt im Departement Usulután.", hu: "Usulután megyében található település, amelynek gazdasága elsősorban a mezőgazdaságra és az állattenyésztésre épül.", ro: "Un mic oraș în departamentul Usulután.", en: "A small city in the Usulután department." , es: "Una pequeña ciudad en el departamento de Usulután.", pt: "Uma pequena cidade no departamento de Usulután.", fr: "Une petite ville du département d'Usulután."},
     
     facts: {
@@ -2788,7 +2768,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-CU",
     coords: [-89.016, 13.933],
     name: { de: "Suchitoto", hu: "Suchitoto", ro: "Suchitoto", en: "Suchitoto"},
-    image: "/poi-images/suchitoto-cities-v2.webp",
     description: { de: "Eine gut erhaltene Kolonialstadt am Ufer des Cerrón Grande Stausees.", hu: "Jól megőrzött gyarmati város a Cerrón Grande víztározó partján.", ro: "Un oraș colonial bine conservat pe malul lacului Cerrón Grande.", en: "A well-preserved colonial town on the shores of the Cerrón Grande Reservoir." , es: "Una ciudad colonial bien conservada a orillas del embalse Cerrón Grande.", pt: "Uma cidade colonial bem preservada nas margens da albufeira de Cerrón Grande.", fr: "Une ville coloniale bien préservée sur les rives du réservoir de Cerrón Grande."},
     
     
@@ -2872,7 +2851,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-AH",
     coords: [-89.816, 13.85],
     name: { de: "Apaneca", hu: "Apaneca", ro: "Apaneca", en: "Apaneca"},
-    image: "/poi-images/apaneca-cities-v2.webp",
     description: { de: "Eine Stadt an der Ruta de las Flores, die für ihr kühles Klima und ihre Kaffeeplantagen bekannt ist.", hu: "Város a Ruta de las Flores mentén, hűvös éghajlatáról és kávéültetvényeiről ismert.", ro: "Un oraș pe Ruta de las Flores, cunoscut pentru clima sa răcoroasă și plantațiile de cafea.", en: "A town on the Ruta de las Flores, known for its cool climate and coffee plantations." , es: "Una ciudad en la Ruta de las Flores, conocida por su clima fresco y sus plantaciones de café.", pt: "Uma cidade na Ruta de las Flores, conhecida pelo seu clima fresco e pelas suas plantações de café.", fr: "Une ville sur la Ruta de las Flores, réputée pour son climat frais et ses plantations de café."},
     
     
@@ -3064,7 +3042,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-AH",
     coords: [-89.85, 13.866],
     name: { de: "Concepción de Ataco", hu: "Concepción de Ataco", ro: "Concepción de Ataco", en: "Concepción de Ataco"},
-    image: "/poi-images/ataco-cities-v2.webp",
     description: { de: "Ein farbenfrohes Dorf an der Ruta de las Flores, berühmt für seine Wandmalereien.", hu: "Színes falu a Ruta de las Flores mentén, falfestményeiről híres.", ro: "Un sat colorat pe Ruta de las Flores, renumit pentru picturile sale murale.", en: "A colorful village on the Ruta de las Flores, famous for its murals." , es: "Un colorido pueblo en la Ruta de las Flores, famoso por sus murales.", pt: "Uma aldeia colorida na Ruta de las Flores, famosa pelos seus murais.", fr: "Un village coloré sur la Ruta de las Flores, célèbre pour ses peintures murales."},
     
     
@@ -3220,7 +3197,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SO",
     coords: [-89.75, 13.85],
     name: { de: "Juayúa", hu: "Juayúa", ro: "Juayúa", en: "Juayúa"},
-    image: "/poi-images/juayua-cities-v2.webp",
     description: { de: "Eine Stadt an der Ruta de las Flores, berühmt für ihr wöchentliches Gastronomiefestival.", hu: "Város a Ruta de las Flores mentén, híres a heti gasztronómiai fesztiváljáról.", ro: "Un oraș pe Ruta de las Flores, renumit pentru festivalul său gastronomic săptămânal.", en: "A city on the Ruta de las Flores, famous for its weekly food festival." , es: "Una ciudad en la Ruta de las Flores, famosa por su festival gastronómico semanal.", pt: "Uma cidade na Rota das Flores, famosa pelo seu festival gastronómico semanal.", fr: "Une ville sur la Ruta de las Flores, célèbre pour son festival gastronomique hebdomadaire."},
     
     
@@ -3304,7 +3280,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SO",
     coords: [-89.716, 13.783],
     name: { de: "Nahuizalco", hu: "Nahuizalco", ro: "Nahuizalco", en: "Nahuizalco"},
-    image: "/poi-images/najuizalco-cities-v2.webp",
     description: { de: "Eine Stadt mit starkem indigenem Erbe, bekannt für ihre Korbflechterei und den Nachtmarkt.", hu: "Erős őslakos örökséggel rendelkező város, kosárfonásáról és éjszakai piacáról ismert.", ro: "Un oraș cu o puternică moștenire indigenă, cunoscut pentru împletiturile sale și piața de noapte.", en: "A town with a strong indigenous heritage, known for its basket weaving and night market." , es: "Una ciudad con fuerte herencia indígena, conocida por su cestería y su mercado nocturno.", pt: "Uma cidade com forte herança indígena, conhecida pela sua cestaria e pelo mercado noturno.", fr: "Une ville au fort héritage indigène, connue pour sa vannerie et son marché nocturne."},
     
     
@@ -3543,7 +3518,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-LU",
     coords: [-87.86, 13.28],
     name: { de: "Conchagua", hu: "Conchagua", ro: "Conchagua", en: "Conchagua"},
-    image: "/poi-images/conchagua-cities-v2.webp",
     description: { de: "Eine Stadt am Fuße des Conchagua-Vulkans mit Blick auf den Golf von Fonseca.", hu: "Város a Conchagua vulkán lábánál, kilátással a Fonseca-öbölre.", ro: "Un oraș la poalele vulcanului Conchagua, cu vedere la Golful Fonseca.", en: "A town at the foot of the Conchagua Volcano with views of the Gulf of Fonseca." , es: "Una ciudad al pie del volcán Conchagua con vistas al Golfo de Fonseca.", pt: "Uma cidade no sopé do vulcão Conchagua com vista para o Golfo de Fonseca.", fr: "Une ville au pied du volcan Conchagua avec vue sur le golfe de Fonseca."},
     
     
@@ -3807,7 +3781,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-MO",
     coords: [-88.15, 13.96],
     name: { de: "Perquín", hu: "Perquín", ro: "Perquín", en: "Perquín"},
-    image: "/poi-images/perquin-cities-v2.webp",
     description: { de: "Ein Bergdorf im Departement Morazán, das als Guerilla-Hauptstadt während des Bürgerkriegs bekannt ist.", hu: "Hegyi falu Morazán megyében, amely a polgárháború alatti gerilla fővárosként ismert.", ro: "Un sat montan în departamentul Morazán, cunoscut ca fiind capitala gherilei în timpul războiului civil.", en: "A mountain town in Morazán department, known as the guerrilla capital during the civil war." , es: "Un pueblo de montaña en el departamento de Morazán, conocido como la capital de la guerrilla durante la guerra civil.", pt: "Uma aldeia de montanha no departamento de Morazán, conhecida como capital da guerrilha durante a guerra civil.", fr: "Un village de montagne dans le département de Morazán, connu comme la capitale de la guérilla pendant la guerre civile."},
     
     
@@ -3846,7 +3819,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-LU",
     coords: [-87.89, 13.62],
     name: { de: "Santa Rosa de Lima", hu: "Santa Rosa de Lima", ro: "Santa Rosa de Lima", en: "Santa Rosa de Lima"},
-    image: "/poi-images/santa-rosa-lima-cities-v2.webp",
     description: { de: "Eine Handelsstadt im Departement La Unión, nahe der Grenze zu Honduras.", hu: "Kereskedelmi város La Unión megyében, közel a hondurasi határhoz.", ro: "Un oraș comercial în departamentul La Unión, aproape de granița cu Honduras.", en: "A commercial city in the La Unión department, near the border with Honduras." , es: "Una ciudad comercial en el departamento de La Unión, cerca de la frontera con Honduras.", pt: "Uma cidade comercial no departamento de La União, perto da fronteira com Honduras.", fr: "Une ville commerciale du département de La Unión, proche de la frontière avec le Honduras."},
     
     facts: {
@@ -4001,7 +3973,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SA",
     coords: [-89.45, 14.333],
     name: { de: "Metapán", hu: "Metapán", ro: "Metapán", en: "Metapán"},
-    image: "/poi-images/metapan-cities-v2.webp",
     description: { de: "Eine Stadt im Nordwesten, bekannt für den Güija-See und ihre Kolonialkirche.", hu: "Város északnyugaton, a Güija-tóról és gyarmati templomáról ismert.", ro: "Un oraș în nord-vest, cunoscut pentru Lacul Güija și biserica sa colonială.", en: "A city in the northwest, known for Lake Güija and its colonial church." , es: "Una ciudad en el noroeste, conocida por el lago de Güija y su iglesia colonial.", pt: "Uma cidade no noroeste, conhecida pelo Lago Güija e pela sua igreja colonial.", fr: "Une ville du nord-ouest, connue pour le lac Güija et son église coloniale."},
     
     
@@ -4124,7 +4095,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-MO",
     coords: [-88.08, 13.62],
     name: { de: "Jocoro", hu: "Jocoro", ro: "Jocoro", en: "Jocoro"},
-    image: "/poi-images/jocoro-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Morazán.", hu: "Morazán megye déli részén fekvő város, amely fontos kereskedelmi kapocs San Miguel és az ország északi területei között.", ro: "Un oraș în departamentul Morazán.", en: "A city in the Morazán department." , es: "Una ciudad en el departamento de Morazán.", pt: "Uma cidade no departamento de Morazán.", fr: "Une ville du département de Morazán."},
     
     
@@ -4163,7 +4133,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-MO",
     coords: [-88.05, 13.88],
     name: { de: "Corinto", hu: "Corinto", ro: "Corinto", en: "Corinto"},
-    image: "/poi-images/corinto-cities-v2.webp",
     description: { de: "Eine kleine Stadt im Departement Morazán, bekannt für die Gruta del Espíritu Santo.", hu: "Kisváros Morazán megyében, a Gruta del Espíritu Santo barlangról ismert.", ro: "Un mic oraș în departamentul Morazán, cunoscut pentru Gruta del Espíritu Santo.", en: "A small town in the Morazán department, known for the Gruta del Espíritu Santo." , es: "Un pequeño pueblo en el departamento de Morazán, conocido por la Gruta del Espíritu Santo.", pt: "Uma pequena cidade no departamento de Morazán, conhecida pela Gruta del Espíritu Santo.", fr: "Une petite ville du département de Morazán, célèbre pour la Gruta del Espíritu Santo."},
     
     
@@ -4202,7 +4171,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-CU",
     coords: [-88.85, 13.78],
     name: { de: "El Carmen", hu: "El Carmen", ro: "El Carmen", en: "El Carmen"},
-    image: "/poi-images/el-carmen-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Cuscatlán.", hu: "La Unión megyei település a hondurasi határ közelében, amely stratégiai elhelyezkedése miatt fontos kereskedelmi pont.", ro: "Un oraș în departamentul Cuscatlán.", en: "A city in the department of Cuscatlán." },
     
     
@@ -4277,7 +4245,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-AH",
     coords: [-89.86, 13.79],
     name: { de: "Jujutla", hu: "Jujutla", ro: "Jujutla", en: "Jujutla"},
-    image: "/poi-images/jujutla-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Ahuachapán, nahe der Pazifikküste.", hu: "Város Ahuachapán megyében, a Csendes-óceán partjának közelében.", ro: "Un oraș în departamentul Ahuachapán, aproape de coasta Pacificului.", en: "A city in the Ahuachapán department, near the Pacific coast." , es: "Una ciudad en el departamento de Ahuachapán, cerca de la costa del Pacífico.", pt: "Uma cidade no departamento de Ahuachapán, perto da costa do Pacífico.", fr: "Une ville du département d'Ahuachapán, proche de la côte Pacifique."},
     
     
@@ -4361,7 +4328,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-AH",
     coords: [-89.85, 13.75],
     name: { de: "Guaymango", hu: "Guaymango", ro: "Guaymango", en: "Guaymango"},
-    image: "/poi-images/guaymango-cities-v2.webp",
     description: { de: "Eine indigene Gemeinde im Departement Ahuachapán.", hu: "Ahuachapán megye hegyvidéki területén fekvő város, ahol a kávétermesztés és a hagyományos kézművesség dominál.", ro: "O comunitate indigenă în departamentul Ahuachapán.", en: "An indigenous community in the Ahuachapán department." , es: "Un municipio indígena en el departamento de Ahuachapán.", pt: "Um município indígena no departamento de Ahuachapán.", fr: "Une commune indigène du département d'Ahuachapán."},
     
     
@@ -4481,7 +4447,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SO",
     coords: [-89.58, 13.78],
     name: { de: "San Julián", hu: "San Julián", ro: "San Julián", en: "San Julián"},
-    image: "/poi-images/san-julian-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Sonsonate, bekannt für ihre Balsam-Produktion.", hu: "Sonsonate megye egyik különleges települése, amely a 'balzsampart' részeként a természetes balzsamgyanta kinyeréséről híres.", ro: "Un oraș în departamentul Sonsonate, cunoscut pentru producția sa de balsam.", en: "A city in the Sonsonate department, known for its balsam production." , es: "Una ciudad en el departamento de Sonsonate, conocida por su producción de bálsamo.", pt: "Uma cidade no departamento de Sonsonate, conhecida pela sua produção de bálsamo.", fr: "Une ville dans le département de Sonsonate, connue pour sa production de baume."},
     
     
@@ -4565,7 +4530,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-PA",
     coords: [-89.05, 13.56],
     name: { de: "San Pedro Masahuat", hu: "San Pedro Masahuat", ro: "San Pedro Masahuat", en: "San Pedro Masahuat"},
-    image: "/poi-images/san-pedro-masahuat-cities-v2.webp",
     description: { de: "Eine Stadt im Departement La Paz.", hu: "La Paz megyében található város, amely a tengerparti síkság és a hegyek találkozásánál fekszik, gazdag mezőgazdasági adottságokkal.", ro: "Un oraș în departamentul La Paz.", en: "A city in the department of La Paz." , es: "Una ciudad en el departamento de La Paz.", pt: "Uma cidade no departamento de La Paz.", fr: "Une ville du département de La Paz."},
     
     
@@ -4649,7 +4613,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SM",
     coords: [-88.28, 13.43],
     name: { de: "San Rafael Oriente", hu: "San Rafael Oriente", ro: "San Rafael Oriente", en: "San Rafael Oriente"},
-    image: "/poi-images/san-rafael-oriente-cities-v2.webp",
     description: { de: "Eine kleine Stadt im Departement San Miguel.", hu: "Kisváros San Miguel megyében.", ro: "Un mic oraș în departamentul San Miguel.", en: "A small city in the San Miguel department." , es: "Un pequeño pueblo en el departamento de San Miguel.", pt: "Uma pequena cidade no departamento de San Miguel.", fr: "Une petite ville du département de San Miguel."},
     
     
@@ -4688,7 +4651,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-LU",
     coords: [-87.75, 13.48],
     name: { de: "Concepción de Oriente", hu: "Concepción de Oriente", ro: "Concepción de Oriente", en: "Concepción de Oriente"},
-    image: "/poi-images/concepcion-de-oriente-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement La Unión, nahe der Grenze zu Honduras.", hu: "El Salvador legkeletibb városa La Unión megyében, amely közvetlenül a hondurasi határon és a Goascorán-folyó partján fekszik.", ro: "O municipalitate în departamentul La Unión, aproape de granița cu Honduras.", en: "A municipality in the department of La Unión, near the border with Honduras." , es: "Un municipio en el departamento de La Unión, cerca de la frontera con Honduras.", pt: "Um município no departamento de La Unión, perto da fronteira com as Honduras.", fr: "Une commune du département de La Unión, à proximité de la frontière avec le Honduras."},
     
     
@@ -4734,7 +4696,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SO",
     coords: [-89.78, 13.78],
     name: { de: "Santo Domingo de Guzmán", hu: "Santo Domingo de Guzmán", ro: "Santo Domingo de Guzmán", en: "Santo Domingo de Guzmán"},
-    image: "/poi-images/santo-domingo-guzman-cities-v2.webp",
     description: { de: "Eine der letzten Gemeinden, in denen noch Nahuat gesprochen wird.", hu: "Sonsonate megyei falu, amely az egyik utolsó bástyája a nawat (pipil) nyelvnek és a hagyományos vörös agyagedények készítésének.", ro: "Una dintre ultimele municipalități unde se mai vorbește nahuatl.", en: "One of the last municipalities where Nahuat is still spoken." , es: "Uno de los últimos municipios donde todavía se habla náhuat.", pt: "Um dos últimos municípios onde o nahuat ainda é falado.", fr: "L'une des dernières communes où le nahuat est encore parlé."},
     
     
@@ -5394,7 +5355,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SS",
     coords: [-89.18, 13.62],
     name: { de: "Panchimalco", hu: "Panchimalco", ro: "Panchimalco", en: "Panchimalco"},
-    image: "/poi-images/panchimalco-cities-v2.webp",
     description: { de: "Eine Stadt mit reichem indigenem Erbe und einer der ältesten Kirchen des Landes.", hu: "Gazdag őslakos örökséggel rendelkező város, az ország egyik legrégebbi templomával.", ro: "Un oraș cu o bogată moștenire indigenă și una dintre cele mai vechi biserici din țară.", en: "A town with a rich indigenous heritage and one of the oldest churches in the country." , es: "Una ciudad con un rico patrimonio indígena y una de las iglesias más antiguas del país.", pt: "Uma cidade com um rico património indígena e uma das igrejas mais antigas do país.", fr: "Une ville au riche patrimoine indigène et l'une des plus anciennes églises du pays."},
     
     
@@ -5478,7 +5438,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-CU",
     coords: [-89.0, 13.73],
     name: { de: "San Pedro Perulapán", hu: "San Pedro Perulapán", ro: "San Pedro Perulapán", en: "San Pedro Perulapán"},
-    image: "/poi-images/san-pedro-perulapan-cities-v2.webp",
     description: { de: "Eine historisch bedeutsame Stadt im Departement Cuscatlán.", hu: "Történelmileg jelentős város Cuscatlán megyében.", ro: "Un oraș important din punct de vedere istoric în departamentul Cuscatlán.", en: "A historically significant city in the Cuscatlán department." , es: "Una ciudad de gran importancia histórica en el departamento de Cuscatlán.", pt: "Uma cidade historicamente significativa no departamento de Cuscatlán.", fr: "Une ville d'importance historique dans le département de Cuscatlán."},
     
     
@@ -5562,7 +5521,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SM",
     coords: [-88.35, 13.5],
     name: { de: "Chinameca", hu: "Chinameca", ro: "Chinameca", en: "Chinameca"},
-    image: "/poi-images/chinameca-cities-v2.webp",
     description: { de: "Eine Stadt im Departement San Miguel, am Fuße des Chinameca-Vulkans.", hu: "A Chinameca-vulkán lábánál fekvő város San Miguel megyében, amely jelentős kávétermelő vidék és élénk kereskedelmi központ.", ro: "Un oraș în departamentul San Miguel, la poalele vulcanului Chinameca.", en: "A city in the San Miguel department, at the foot of the Chinameca Volcano." , es: "Una ciudad en el departamento de San Miguel, al pie del volcán Chinameca.", pt: "Uma cidade no departamento de San Miguel, ao pé do vulcão Chinameca.", fr: "Une ville du département de San Miguel, au pied du volcan Chinameca."},
     
     
@@ -5601,7 +5559,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SM",
     coords: [-88.26, 13.76],
     name: { de: "Ciudad Barrios", hu: "Ciudad Barrios", ro: "Ciudad Barrios", en: "Ciudad Barrios"},
-    image: "/poi-images/ciudad-barrios-cities-v2.webp",
     description: { de: "Geburtsort des Heiligen Óscar Romero, im Departement San Miguel.", hu: "Szent Óscar Romero szülőhelye, San Miguel megyében.", ro: "Locul de naștere al Sfântului Óscar Romero, în departamentul San Miguel.", en: "Birthplace of Saint Óscar Romero, in the department of San Miguel." , es: "Lugar de nacimiento de San Óscar Romero, en el departamento de San Miguel.", pt: "Local de nascimento de São Óscar Romero, no departamento de San Miguel.", fr: "Lieu de naissance de Saint Óscar Romero, dans le département de San Miguel."},
     
     
@@ -5678,7 +5635,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-LU",
     coords: [-87.98, 13.52],
     name: { de: "El Sauce", hu: "El Sauce", ro: "El Sauce", en: "El Sauce"},
-    image: "/poi-images/el-sauce-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement La Unión.", hu: "La Unión megyei település, amely híres vallási turizmusáról és a Fekete Krisztus tiszteletére rendezett éves ünnepségeiről.", ro: "O municipalitate în departamentul La Unión.", en: "A municipality in the department of La Unión." , es: "Un municipio en el departamento de La Unión.", pt: "Um município no departamento de La Unión.", fr: "Une commune du département de La Unión."},
     
     facts: {
@@ -5800,7 +5756,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-CH",
     coords: [-89.15, 14.31],
     name: { de: "La Palma", hu: "La Palma", ro: "La Palma", en: "La Palma"},
-    image: "/poi-images/la-palma-cities-v2.webp",
     description: { de: "Ein Bergdorf, berühmt für seine 'Naif'-Kunst, die von Fernando Llort initiiert wurde.", hu: "Hegyi falu, híres a Fernando Llort által kezdeményezett 'naiv' művészetről.", ro: "Un sat montan renumit pentru arta sa \"naivă\", inițiată de Fernando Llort.", en: "A mountain town famous for its 'Naïf' art, initiated by Fernando Llort." , es: "Un pueblo de montaña, famoso por su arte 'Naif', iniciado por Fernando Llort.", pt: "Uma aldeia de montanha, famosa pela sua arte 'Naif', iniciada por Fernando Llort.", fr: "Un village de montagne, célèbre pour son art 'naïf', initié par Fernando Llort."},
     
     
@@ -5922,7 +5877,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-MO",
     coords: [-88.15, 13.8],
     name: { de: "Osicala", hu: "Osicala", ro: "Osicala", en: "Osicala"},
-    image: "/poi-images/osicala-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Morazán mit Lenca-Ursprüngen.", hu: "Város Morazán megyében, lenca eredettel.", ro: "Un oraș în departamentul Morazán, cu origini lenca.", en: "A city in the Morazán department with Lenca origins." , es: "Una ciudad en el departamento de Morazán con orígenes lencas.", pt: "Uma cidade no departamento de Morazán com origens Lenca.", fr: "Une ville du département de Morazán aux origines lencas."},
     
     
@@ -5999,7 +5953,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-CH",
     coords: [-89.11, 14.33],
     name: { de: "San Ignacio", hu: "San Ignacio", ro: "San Ignacio", en: "San Ignacio"},
-    image: "/poi-images/san-ignacio-cities-v2.webp",
     description: { de: "Ein touristisches Bergdorf nahe der honduranischen Grenze, beliebt für sein kühles Klima.", hu: "Turisztikai hegyi falu a hondurasi határ közelében, népszerű a hűvös éghajlata miatt.", ro: "Un sat montan turistic aproape de granița cu Honduras, popular pentru clima sa răcoroasă.", en: "A tourist mountain town near the Honduran border, popular for its cool climate." , es: "Un pueblo de montaña turístico cerca de la frontera con Honduras, popular por su clima fresco.", pt: "Uma aldeia de montanha turística perto da fronteira com as Honduras, popular pelo seu clima fresco.", fr: "Un village de montagne touristique près de la frontière hondurienne, prisé pour son climat frais."},
     
     
@@ -6038,7 +5991,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-US",
     coords: [-88.46, 13.48],
     name: { de: "Santiago de María", hu: "Santiago de María", ro: "Santiago de María", en: "Santiago de María"},
-    image: "/poi-images/santiago-de-maria-cities-v2.webp",
     description: { de: "Eine Stadt in einer Kaffeeanbauregion im Departement Usulután.", hu: "Város egy kávétermesztő régióban Usulután megyében.", ro: "Un oraș într-o regiune de cultivare a cafelei în departamentul Usulután.", en: "A city in a coffee-growing region in the Usulután department." , es: "Una ciudad en una región cafetalera del departamento de Usulután.", pt: "Uma cidade numa região produtora de café no departamento de Usulután.", fr: "Une ville située dans une région caféière du département d'Usulután."},
     
     facts: {
@@ -6193,7 +6145,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-US",
     coords: [-88.48, 13.5],
     name: { de: "Alegría", hu: "Alegría", ro: "Alegría", en: "Alegría"},
-    image: "/poi-images/alegria-cities-v2.webp",
     description: { de: "Ein malerisches Bergdorf, bekannt für seinen Kratersee, die Laguna de Alegría.", hu: "Festői hegyi falu, a Laguna de Alegría krátertaváról ismert.", ro: "Un sat montan pitoresc, cunoscut pentru lacul său de crater, Laguna de Alegría.", en: "A picturesque mountain town known for its crater lake, Laguna de Alegría." , es: "Un pintoresco pueblo de montaña conocido por su lago de cráter, la Laguna de Alegría.", pt: "Uma pitoresca aldeia de montanha, conhecida pelo seu lago de cratera, a Laguna de Alegría.", fr: "Un village de montagne pittoresque, célèbre pour son lac de cratère, la Laguna de Alegría."},
     
     
@@ -6277,7 +6228,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-PA",
     coords: [-88.9, 13.51],
     name: { de: "San Juan Nonualco", hu: "San Juan Nonualco", ro: "San Juan Nonualco", en: "San Juan Nonualco"},
-    image: "/poi-images/san-juan-nonualco-cities-v2.webp",
     description: { de: "Eine Stadt in der Region der Nonualcos im Departement La Paz.", hu: "Város a nonualco-i régióban, La Paz megyében.", ro: "Un oraș în regiunea Nonualcos, în departamentul La Paz.", en: "A city in the region of the Nonualcos in the La Paz department." , es: "Una ciudad en la región de los Nonualcos en el departamento de La Paz.", pt: "Uma cidade na região dos Nonualcos no departamento de La Paz.", fr: "Une ville dans la région des Nonualcos dans le département de La Paz."},
     
     
@@ -6316,7 +6266,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SV",
     coords: [-88.76, 13.51],
     name: { de: "Tecoluca", hu: "Tecoluca", ro: "Tecoluca", en: "Tecoluca"},
-    image: "/poi-images/tecoluca-cities-v2.webp",
     description: { de: "Eine große Gemeinde im Departement San Vicente, nahe dem Fluss Lempa.", hu: "Nagy község San Vicente megyében, a nemzetközi repülőtér közelében.", ro: "O municipalitate mare în departamentul San Vicente, aproape de râul Lempa.", en: "A large municipality in the San Vicente department, near the Lempa River." , es: "Un gran municipio del departamento de San Vicente, cerca del río Lempa.", pt: "Um grande município do departamento de San Vicente, perto do rio Lempa.", fr: "Une grande municipalité du département de San Vicente, près du fleuve Lempa."},
     
     
@@ -6355,7 +6304,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SS",
     coords: [-89.13, 13.65],
     name: { de: "Santiago Texacuangos", hu: "Santiago Texacuangos", ro: "Santiago Texacuangos", en: "Santiago Texacuangos"},
-    image: "/poi-images/santiago-texacuangos-cities-v2.webp",
     description: { de: "Eine Stadt mit Blick auf den Ilopango-See.", hu: "Város, amely az Ilopango-tóra néz.", ro: "Un oraș cu vedere la lacul Ilopango.", en: "A city overlooking Lake Ilopango." , es: "Una ciudad con vistas al lago de Ilopango.", pt: "Uma cidade com vista para o lago Ilopango.", fr: "Une ville avec vue sur le lac Ilopango."},
     
     
@@ -6440,7 +6388,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-AH",
     coords: [-89.93, 13.9],
     name: { de: "Tacuba", hu: "Tacuba", ro: "Tacuba", en: "Tacuba"},
-    image: "/poi-images/tacuba-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Ahuachapán, die als Tor zum Nationalpark El Imposible dient.", hu: "Város Ahuachapán megyében, amely kapuként szolgál az El Imposible Nemzeti Parkhoz.", ro: "Un oraș în departamentul Ahuachapán, care servește drept poartă de acces la Parcul Național El Imposible.", en: "A city in the Ahuachapán department that serves as a gateway to El Imposible National Park." , es: "Una ciudad del departamento de Ahuachapán que sirve de puerta de entrada al Parque Nacional El Imposible.", pt: "Uma cidade do departamento de Ahuachapán que serve de porta de entrada para o Parque Nacional El Imposible.", fr: "Une ville du département d'Ahuachapán qui sert de porte d'entrée au parc national El Imposible."},
     
     
@@ -6480,7 +6427,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SS",
     coords: [-89.2, 13.96],
     name: { de: "El Paisnal", hu: "El Paisnal", ro: "El Paisnal", en: "El Paisnal"},
-    image: "/poi-images/el-paisnal-cities-v2.webp",
     description: { de: "Geburtsort von Pater Rutilio Grande, einem Jesuitenmärtyrer.", hu: "San Salvador megye északi részén található város, amely történelmi jelentőségét a polgárháború előtti társadalmi mozgalmaknak köszönheti.", ro: "Locul de naștere al părintelui Rutilio Grande, un martir iezuit.", en: "Birthplace of Father Rutilio Grande, a Jesuit martyr." , es: "Lugar de nacimiento del Padre Rutilio Grande, un mártir jesuita.", pt: "Local de nascimento do Padre Rutilio Grande, um mártir jesuíta.", fr: "Lieu de naissance du père Rutilio Grande, un martyr jésuite."},
     
     facts: {
@@ -6518,7 +6464,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-PA",
     coords: [-89.1, 13.5],
     name: { de: "San Luis Talpa", hu: "San Luis Talpa", ro: "San Luis Talpa", en: "San Luis Talpa"},
-    image: "/poi-images/san-luis-talpa-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement La Paz, nahe dem internationalen Flughafen.", hu: "Község La Paz megyében, a nemzetközi repülőtér közelében.", ro: "O municipalitate în departamentul La Paz, aproape de aeroportul internațional.", en: "A municipality in the department of La Paz, near the international airport." , es: "Un municipio en el departamento de La Paz, cerca del aeropuerto internacional.", pt: "Um município no departamento de La Paz, perto do aeroporto internacional.", fr: "Une commune du département de La Paz, à proximité de l'aéroport international."},
     
     facts: {
@@ -6556,7 +6501,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-MO",
     coords: [-88.13, 13.73],
     name: { de: "Chilanga", hu: "Chilanga", ro: "Chilanga", en: "Chilanga"},
-    image: "/poi-images/chilanga-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Morazán mit Lenca-Erbe.", hu: "Morazán megyei település, ahol a lencka indián örökség és a hagyományos kézművesség, például a kötélverés máig él.", ro: "Un oraș în departamentul Morazán, cu moștenire lenca.", en: "A city in the Morazán department with Lenca heritage." , es: "Una ciudad en el departamento de Morazán con herencia Lenca.", pt: "Uma cidade no departamento de Morazán com herança Lenca.", fr: "Une ville du département de Morazán à l'héritage Lenca."},
     
     facts: {
@@ -6594,7 +6538,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-CU",
     coords: [-88.9, 13.8],
     name: { de: "San Rafael Cedros", hu: "San Rafael Cedros", ro: "San Rafael Cedros", en: "San Rafael Cedros"},
-    image: "/poi-images/san-rafael-cedros-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Cuscatlán, an der Panamericana gelegen.", hu: "Város Cuscatlán megyében, a Panamericana mentén.", ro: "Un oraș în departamentul Cuscatlán, situat pe autostrada Panamericană.", en: "A city in the Cuscatlán department, located on the Pan-American Highway." , es: "Una ciudad en el departamento de Cuscatlán, situada en la carretera Panamericana.", pt: "Uma cidade no departamento de Cuscatlán, localizada na rodovia Pan-americana.", fr: "Une ville du département de Cuscatlán, située sur la Panaméricaine."},
     
     facts: {
@@ -6632,7 +6575,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SV",
     coords: [-88.83, 13.73],
     name: { de: "San Sebastián", hu: "San Sebastián", ro: "San Sebastián", en: "San Sebastián"},
-    image: "/poi-images/san-sebastian-sv-cities-v2.webp",
     description: { de: "Eine Stadt, die für ihre Textilherstellung, insbesondere Hängematten, bekannt ist.", hu: "San Vicente megyei város, amely világhírű a hagyományos fa szövőszékeken készített textiltermékeiről, különösen az ágytakarókról.", ro: "Un oraș cunoscut pentru producția sa de textile, în special hamace.", en: "A city known for its textile production, especially hammocks." , es: "Una ciudad conocida por su producción textil, especialmente hamacas.", pt: "Uma cidade conhecida pela sua produção têxtil, especialmente redes de descanso.", fr: "Une ville connue pour sa production textile, en particulier les hamacs."},
     
     facts: {
@@ -6752,7 +6694,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-CH",
     coords: [-89.23, 14.21],
     name: { de: "Tejutla", hu: "Tejutla", ro: "Tejutla", en: "Tejutla"},
-    image: "/poi-images/tejutla-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Chalatenango.", hu: "Chalatenango megye egyik legrégebbi városa, amely megőrizte gyarmati báját és fontos mezőgazdasági szerepét a régióban.", ro: "Un oraș în departamentul Chalatenango.", en: "A city in the Chalatenango department." , es: "Una ciudad en el departamento de Chalatenango.", pt: "Uma cidade no departamento de Chalatenango.", fr: "Une ville du département de Chalatenango."},
     
     facts: {
@@ -6790,7 +6731,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-CA",
     coords: [-88.95, 13.91],
     name: { de: "Cinquera", hu: "Cinquera", ro: "Cinquera", en: "Cinquera"},
-    image: "/poi-images/cinquera-cities-v2.webp",
     description: { de: "Ein Dorf, das während des Bürgerkriegs zerstört und wieder aufgebaut wurde, heute ein Zentrum für Ökotourismus.", hu: "Falu, amelyet a polgárháború alatt elpusztítottak és újjáépítettek, ma az ökoturizmus központja.", ro: "Un sat distrus și reconstruit în timpul războiului civil, acum un centru de ecoturism.", en: "A village destroyed and rebuilt during the civil war, now a center for ecotourism." , es: "Un pueblo destruido y reconstruido durante la guerra civil, hoy un centro de ecoturismo.", pt: "Uma aldeia destruída e reconstruída durante a guerra civil, hoje um centro de ecoturismo.", fr: "Un village détruit puis reconstruit pendant la guerre civile, aujourd'hui centre d'écotourisme."},
     
     facts: {
@@ -6828,7 +6768,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SO",
     coords: [-89.65, 13.71],
     name: { de: "Caluco", hu: "Caluco", ro: "Caluco", en: "Caluco"},
-    image: "/poi-images/caluco-cities-v2.webp",
     description: { de: "Eine historische Stadt im Departement Sonsonate mit indigener Vergangenheit.", hu: "Történelmi város Sonsonate megyében, őslakos múlttal.", ro: "Un oraș istoric în departamentul Sonsonate, cu un trecut indigen.", en: "A historic city in the Sonsonate department with an indigenous past." , es: "Una ciudad histórica en el departamento de Sonsonate con un pasado indígena.", pt: "Uma cidade histórica no departamento de Sonsonate com um passado indígena.", fr: "Une ville historique du département de Sonsonate au passé indigène."},
     
     facts: {
@@ -6866,7 +6805,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-PA",
     coords: [-88.93, 13.5],
     name: { de: "Santiago Nonualco", hu: "Santiago Nonualco", ro: "Santiago Nonualco", en: "Santiago Nonualco"},
-    image: "/poi-images/san-julian-nonualco-cities-v2.webp",
     description: { de: "Eine Stadt in der Region der Nonualcos.", hu: "Város a nonualco-i régióban.", ro: "Un oraș în regiunea Nonualcos.", en: "A city in the region of the Nonualcos." , es: "Una ciudad en la región de los Nonualcos.", pt: "Uma cidade na região dos Nonualcos.", fr: "Une ville dans la région des Nonualcos."},
     
     facts: {
@@ -6985,7 +6923,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-LI",
     coords: [-89.45, 13.75],
     name: { de: "Sacacoyo", hu: "Sacacoyo", ro: "Sacacoyo", en: "Sacacoyo"},
-    image: "/poi-images/sacacoyo-cities-v2.webp",
     description: { de: "Eine kleine Stadt im Departement La Libertad.", hu: "La Libertad megyében fekvő település, amely a vulkáni láncolat lábánál helyezkedik el, kávé- és cukornádültetvények között.", ro: "Un mic oraș în departamentul La Libertad.", en: "A small city in the La Libertad department." , es: "Una pequeña ciudad en el departamento de La Libertad.", pt: "Uma pequena cidade no departamento de La Libertad.", fr: "Une petite ville du département de La Libertad."},
     
     facts: {
@@ -7023,7 +6960,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-LI",
     coords: [-89.46, 13.56],
     name: { de: "Teotepeque", hu: "Teotepeque", ro: "Teotepeque", en: "Teotepeque"},
-    image: "/poi-images/teotepeque-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement La Libertad, an der Balsam-Küste gelegen.", hu: "A Csendes-óceán partja és a parti hegység között fekvő település La Libertad megyében, gyönyörű természeti környezetben.", ro: "O municipalitate în departamentul La Libertad, situată pe Coasta Balsamului.", en: "A municipality in the department of La Libertad, located on the Balsam Coast." , es: "Un municipio del departamento de La Libertad, situado en la Costa del Bálsamo.", pt: "Um município do departamento de La Libertad, situado na Costa do Bálsamo.", fr: "Une municipalité du département de La Libertad, située sur la côte du Baume."},
     
     facts: {
@@ -7106,7 +7042,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SA",
     coords: [-89.55, 14.28],
     name: { de: "San Antonio Pajonal", hu: "San Antonio Pajonal", ro: "San Antonio Pajonal", en: "San Antonio Pajonal"},
-    image: "/poi-images/san-antonio-pajonal-cities-v2.webp",
     description: { de: "Eine Grenzstadt im Departement Santa Ana, an der Grenze zu Guatemala.", hu: "Santa Ana megye északnyugati részén, a guatemalai határ mentén fekvő falu, amely csendes, vidéki hangulatáról ismert.", ro: "Un oraș de frontieră în departamentul Santa Ana, la granița cu Guatemala.", en: "A border town in the Santa Ana department, on the border with Guatemala." , es: "Una ciudad fronteriza en el departamento de Santa Ana, en la frontera con Guatemala.", pt: "Uma cidade fronteiriça no departamento de Santa Ana, na fronteira com a Guatemala.", fr: "Une ville frontalière dans le département de Santa Ana, à la frontière avec le Guatemala."},
     
     facts: {
@@ -7144,7 +7079,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-CU",
     coords: [-89.03, 13.9],
     name: { de: "El Coyolito", hu: "El Coyolito", ro: "El Coyolito", en: "El Coyolito"},
-    image: "/poi-images/el-coyolito-cities-v2.webp",
     description: { de: "Ein Kanton in der Gemeinde Suchitoto.", hu: "Chalatenango megyei közösség a Cerrón Grande-víztározó közelében, amely fontos közlekedési és halászati pont.", ro: "Un canton în municipalitatea Suchitoto.", en: "A canton in the municipality of Suchitoto." , es: "Un cantón en el municipio de Suchitoto.", pt: "Um cantão no município de Suchitoto.", fr: "Un canton de la commune de Suchitoto."},
     
     facts: {
@@ -7182,7 +7116,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-LI",
     coords: [-89.33, 14.03],
     name: { de: "San Pablo Tacachico", hu: "San Pablo Tacachico", ro: "San Pablo Tacachico", en: "San Pablo Tacachico"},
-    image: "/poi-images/san-pablo-tacachico-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement La Libertad.", hu: "La Libertad megyei város, amely az ország egyik legfontosabb állattenyésztő és tejtermelő vidékén található.", ro: "O municipalitate în departamentul La Libertad.", en: "A municipality in the department of La Libertad." , es: "Un municipio en el departamento de La Libertad.", pt: "Um município no departamento de La Libertad.", fr: "Une commune dans le département de La Libertad."},
     
     facts: {
@@ -7220,7 +7153,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-CU",
     coords: [-88.9, 13.85],
     name: { de: "Tenancingo", hu: "Tenancingo", ro: "Tenancingo", en: "Tenancingo"},
-    image: "/poi-images/tenancingo-cities-v2.webp",
     description: { de: "Eine Stadt, die während des Bürgerkriegs verlassen und später wiederbesiedelt wurde.", hu: "Cuscatlán megyei település, amely hagyományos szalmakalapjairól és a polgárháború alatti történelmi szerepéről ismert.", ro: "Un oraș abandonat în timpul războiului civil și repopulat ulterior.", en: "A town abandoned during the civil war and later repopulated." , es: "Una ciudad que fue abandonada durante la guerra civil y posteriormente repoblada.", pt: "Uma cidade que foi abandonada durante a guerra civil e posteriormente repovoada.", fr: "Une ville qui a été abandonnée pendant la guerre civile et repeuplée plus tard."},
     
     facts: {
@@ -7258,7 +7190,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SV",
     coords: [-88.75, 13.66],
     name: { de: "Santa Clara", hu: "Santa Clara", ro: "Santa Clara", en: "Santa Clara"},
-    image: "/poi-images/santa-clara-cities-v2.webp",
     description: { de: "Eine kleine Stadt im Departement San Vicente.", hu: "San Vicente megyében található kisváros, amely a San Vicente-vulkán árnyékában, termékeny völgyben fekszik.", ro: "Un mic oraș în departamentul San Vicente.", en: "A small city in the San Vicente department." },
     
     facts: {

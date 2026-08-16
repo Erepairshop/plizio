@@ -53,7 +53,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-BGO",
     coords: [13.1497, -9.3561],
     name: { de: "Kwanza", hu: "Kwanza", ro: "Kwanza", en: "Kwanza"},
-    image: "/poi-images/rio-kwanza-nature-v2.webp",
     description: { de: "Längster Fluss, der vollständig in Angola fließt.", hu: "Angola leghosszabb folyója.", ro: "Cel mai lung râu din Angola.", en: "The longest river entirely within Angola." , es: "El río más largo que fluye íntegramente por Angola.", pt: "O rio mais longo que corre inteiramente em Angola.", fr: "Le plus long fleuve coulant entièrement en Angola."},
     facts: {
       de: ["Entspringt im Hochland von Bié.", "Mündet in den Atlantik."],
@@ -88,7 +87,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-CNN",
     coords: [12.2, -17.2],
     name: { de: "Cunene", hu: "Cunene", ro: "Cunene", en: "Cunene"},
-    image: "/poi-images/rio-cunene-nature-v2.webp",
     description: { de: "Grenzfluss zwischen Angola und Namibia.", hu: "Határfolyó Angola és Namíbia között.", ro: "Râu de frontieră între Angola și Namibia.", en: "Border river between Angola and Namibia." , es: "Río fronterizo entre Angola y Namibia.", pt: "Rio fronteiriço entre Angola e a Namíbia.", fr: "Fleuve frontalier entre l'Angola et la Namibie."},
     facts: {
       de: ["Bekannt für die Ruacana-Fälle.", "Bildet das Kaokoveld-Delta."],
@@ -123,7 +121,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-CCU",
     coords: [17.5, -18.2],
     name: { de: "Kubango", hu: "Kubango", ro: "Kubango", en: "Kubango"},
-    image: "/poi-images/rio-kubango-nature-v2.webp",
     description: { de: "Fluss, der im Okavango-Delta endet.", hu: "Az Okavango-deltában végződő folyó.", ro: "Râu ce se termină în Delta Okavango.", en: "River ending in the Okavango Delta." , es: "Río que termina en el delta del Okavango.", pt: "Rio que termina no delta do Okavango.", fr: "Rivière se terminant dans le delta de l'Okavango."},
     facts: {
       de: ["Fließt durch das südliche Angola.", "Wichtiger Wasserlieferant."],
@@ -158,7 +155,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-CUS",
     coords: [13.98, -11.12],
     name: { de: "Queve", hu: "Queve", ro: "Queve", en: "Queve"},
-    image: "/poi-images/rio-queve-nature-v2.webp",
     description: { de: "Fluss, der im westlichen Angola fließt.", hu: "Nyugat-angolai folyó.", ro: "Un râu major care traversează peisajul angolez, contribuind semnificativ la irigarea regiunilor agricole din jur.", en: "River in western Angola." , es: "Río que fluye en el oeste de Angola.", pt: "Rio que corre no oeste de Angola.", fr: "Fleuve coulant dans l'ouest de l'Angola."},
     facts: {
       de: ["Speist zahlreiche Wasserfälle.", "Wichtige Lebensader."],
@@ -193,7 +189,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-HUA",
     coords: [15.19, -12.47],
     name: { de: "Moco", hu: "Moco", ro: "Moco", en: "Moco"},
-    image: "/poi-images/monte-moco-nature-v2.webp",
     description: { de: "Höchster Berg Angolas.", hu: "Angola legmagasabb hegye.", ro: "Cel mai înalt munte din Angola.", en: "The highest mountain in Angola." , es: "La montaña más alta de Angola.", pt: "A montanha mais alta de Angola.", fr: "Le plus haut sommet de l'Angola."},
     facts: {
       de: ["Liegt in der Provinz Huambo.", "Höhe ca. 2620 Meter."],
@@ -228,7 +223,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-NAM",
     coords: [13.5, -15.2],
     name: { de: "Serra da Chela", hu: "Serra da Chela", ro: "Serra da Chela", en: "Serra da Chela"},
-    image: "/poi-images/serra-da-chela-nature-v2.webp",
     description: { de: "Gebirgskette im Südwesten Angolas.", hu: "Hegyvonulat Délnyugat-Angolában.", ro: "Lanț muntos în sud-vestul Angolei.", en: "Mountain range in southwest Angola." , es: "Cordillera en el suroeste de Angola.", pt: "Cadeia montanhosa no sudoeste de Angola.", fr: "Chaîne de montagnes au sud-ouest de l'Angola."},
     facts: {
       de: ["Steiler Abfall zum Küstentiefland.", "Geologische Formation."],
@@ -300,7 +294,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-LUA",
     coords: [13.2, -8.8],
     name: { de: "Ilha do Cabo", hu: "Ilha do Cabo", ro: "Ilha do Cabo", en: "Ilha do Cabo"},
-    image: "/poi-images/ilha-do-cabo-nature-v2.webp",
     description: { de: "Sandbank vor Luanda.", hu: "Homokpad Luanda előtt.", ro: "Banc de nisip în fața Luandei.", en: "Sandbar off Luanda." , es: "Banco de arena frente a Luanda.", pt: "Banco de areia em frente a Luanda.", fr: "Banc de sable au large de Luanda."},
     facts: {
       de: ["Beliebtes Erholungsgebiet.", "Trennt die Bucht vom Atlantik."],
@@ -335,7 +328,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-CAB",
     coords: [12.8, -4.8],
     name: { de: "Mayombe", hu: "Mayombe", ro: "Mayombe", en: "Mayombe"},
-    image: "/poi-images/floresta-do-mayombe-nature-v2.webp",
     description: { de: "Tropischer Regenwald in der Exklave Cabinda.", hu: "Trópusi esőerdő Cabinda exklávéban.", ro: "Pădure tropicală în enclava Cabinda.", en: "Tropical rainforest in Cabinda exclave." , es: "Selva tropical en el enclave de Cabinda.", pt: "Floresta tropical no enclave de Cabinda.", fr: "Forêt tropicale humide dans l'enclave de Cabinda."},
     facts: {
       de: ["Hohe Biodiversität.", "Dichter Baumbestand."],
@@ -370,7 +362,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-BGO",
     coords: [12.0, -10.0],
     name: { de: "Atlantik", hu: "Atlanti-óceán", ro: "Oceanul Atlantic", en: "Atlantic Ocean"},
-    image: "/poi-images/oceano-atlantico-nature-v2.webp",
     description: { de: "Angolas Westküste am Atlantik.", hu: "Angola nyugati partvidéke az Atlanti-óceánon.", ro: "Coasta de vest a Angolei la Atlantic.", en: "Angola's west coast at the Atlantic." , es: "Costa occidental de Angola en el Atlántico.", pt: "Costa ocidental de Angola no Atlântico.", fr: "Côte ouest de l'Angola sur l'Atlantique."},
     facts: {
       de: ["Wichtige Fischgründe.", "Beeinflusst das Klima."],
@@ -405,7 +396,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-UIG",
     coords: [13.25, -7.85],
     name: { de: "Loge", hu: "Loge", ro: "Loge", en: "Loge"},
-    image: "/poi-images/rio-loge-nature-v2.webp",
     description: { de: "Fluss im Norden Angolas.", hu: "Észak-angolai folyó.", ro: "Râu în nordul Angolei.", en: "River in northern Angola." , es: "Río en el norte de Angola.", pt: "Rio no norte de Angola.", fr: "Rivière au nord de l'Angola."},
     facts: {
       de: ["Dient der Bewässerung.", "Natürliche Grenze."],
@@ -440,7 +430,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-UIG",
     coords: [14.5, -6.8],
     name: { de: "Zaza", hu: "Zaza", ro: "Zaza", en: "Zaza"},
-    image: "/poi-images/rio-zaza-nature-v2.webp",
     description: { de: "Kleinerer Fluss im Norden.", hu: "Kisebb északi folyó.", ro: "Râu mai mic în nord.", en: "Smaller river in the north." , es: "Río menor en el norte.", pt: "Rio menor no norte.", fr: "Petite rivière au nord."},
     facts: {
       de: ["In der Provinz Uíge.", "Saisonal wasserreich."],
@@ -475,7 +464,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-MOX",
     coords: [22.0, -11.5],
     name: { de: "Dilolo", hu: "Dilolo", ro: "Dilolo", en: "Dilolo"},
-    image: "/poi-images/lago-dilolo-nature-v2.webp",
     description: { de: "Größter natürlicher See Angolas.", hu: "Angola legnagyobb természetes tava.", ro: "Cel mai mare lac natural din Angola.", en: "Angola's largest natural lake." , es: "El lago natural más grande de Angola.", pt: "A maior lagoa natural de Angola.", fr: "Le plus grand lac naturel d'Angola."},
     facts: {
       de: ["Liegt in der Provinz Moxico.", "Touristenattraktion."],
@@ -547,7 +535,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-HUI",
     coords: [13.2, -15.0],
     name: { de: "Serra da Leba", hu: "Serra da Leba", ro: "Serra da Leba", en: "Serra da Leba"},
-    image: "/poi-images/monte-serra-da-leba-nature-v2.webp",
     description: { de: "Berühmter Gebirgspass in Huíla.", hu: "Híres hegyi hágó Huílában.", ro: "Celebră trecătoare montană în Huíla.", en: "A spectacular mountain pass area known for its winding roads and dramatic landscape views." , es: "Famoso paso de montaña en Huíla.", pt: "Famoso passo de montanha na Huíla.", fr: "Célèbre col de montagne à Huíla."},
     facts: {
       de: ["Spektakuläre Serpentinen.", "Berühmte Aussicht."],
@@ -582,7 +569,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-CUS",
     coords: [14.0, -11.0],
     name: { de: "Cuvo", hu: "Cuvo", ro: "Cuvo", en: "Cuvo"},
-    image: "/poi-images/rio-cuvo-nature-v2.webp",
     description: { de: "Fluss im zentralen Westen.", hu: "Folyó középen-nyugaton.", ro: "Râu în centru-vest.", en: "A vital riverine environment supporting diverse flora and fauna along its course." , es: "Río en el centro-oeste.", pt: "Rio no centro-oeste.", fr: "Fleuve dans le centre-ouest."},
     facts: {
       de: ["Fließt zum Atlantik.", "Schluchtenbildung."],
@@ -654,7 +640,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-BIE",
     coords: [17.0, -12.0],
     name: { de: "Mungue", hu: "Mungue", ro: "Mungue", en: "Mungue"},
-    image: "/poi-images/lago-mungue-nature-v2.webp",
     description: { de: "Kleinerer See in Bié.", hu: "Kisebb tó Biében.", ro: "Un lac liniștit situat într-o regiune pitorească, oferind un habitat important pentru fauna aviară locală.", en: "A serene lake environment known for its natural beauty and local aquatic wildlife." , es: "Lago menor en Bié.", pt: "Lagoa menor no Bié.", fr: "Petit lac à Bié."},
     facts: {
       de: ["Ruhiges Gewässer.", "In Hochlandlage."],
@@ -734,7 +719,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-LUA",
     coords: [13.25, -8.75],
     name: { de: "Ilha de Luanda", hu: "Ilha de Luanda", ro: "Ilha de Luanda", en: "Ilha de Luanda"},
-    image: "/poi-images/ilha-luanda-nature-v2.webp",
     description: { de: "Touristische Insel vor der Hauptstadt.", hu: "Turisztikai sziget a főváros előtt.", ro: "O peninsulă iconică ce delimitează golful Luanda de Oceanul Atlantic, fiind un centru de agrement și natură.", en: "A narrow coastal island separating the Luanda Bay from the Atlantic Ocean." , es: "Isla turística frente a la capital.", pt: "Ilha turística em frente à capital.", fr: "Île touristique au large de la capitale."},
     facts: {
       de: ["Sehr belebt.", "Strände vorhanden."],
@@ -922,7 +906,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-BGO",
     coords: [13.4, -8.45],
     name: { de: "Dande", hu: "Dande", ro: "Dande", en: "Dande"},
-    image: "/poi-images/rio-dande-nature-v2.webp",
     description: { de: "Fluss nördlich von Luanda.", hu: "Luandától északra fekvő folyó.", ro: "Râu la nord de Luanda.", en: "River north of Luanda." , es: "Río situado al norte de Luanda.", pt: "Rio situado a norte de Luanda.", fr: "Fleuve situé au nord de Luanda."},
     facts: {
       de: ["Mündet in den Atlantik.", "Landwirtschaftlich genutzt."],
@@ -957,7 +940,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-BIE",
     coords: [17.5, -13.0],
     name: { de: "Bue", hu: "Bue", ro: "Bue", en: "Bue"},
-    image: "/poi-images/monte-bue-nature-v2.webp",
     description: { de: "Erhebung im Zentrum.", hu: "Emelkedő a központban.", ro: "Un munte proeminent care domină peisajul regiunii sale, oferind puncte de panoramă spectaculoase asupra zonei.", en: "A highland mountain peak offering panoramic views of the surrounding natural landscape." , es: "Elevación en el centro.", pt: "Elevação no centro.", fr: "Élévation au centre."},
     facts: {
       de: ["Im Hochland.", "Sanfte Hänge."],
@@ -992,7 +974,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-LUA",
     coords: [13.3, -8.85],
     name: { de: "Kifangondo", hu: "Kifangondo", ro: "Kifangondo", en: "Kifangondo"},
-    image: "/poi-images/lago-kifangondo-nature-v2.webp",
     description: { de: "See bei Luanda.", hu: "Tó Luanda közelében.", ro: "Lac lângă Luanda.", en: "Lake near Luanda." , es: "Lago cerca de Luanda.", pt: "Lagoa perto de Luanda.", fr: "Lac près de Luanda."},
     facts: {
       de: ["Historisch wichtig.", "Gute Fischgründe."],
@@ -1027,7 +1008,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-LNO",
     coords: [18.0, -7.0],
     name: { de: "Kwango", hu: "Kwango", ro: "Kwango", en: "Kwango"},
-    image: "/poi-images/rio-kwango-nature-v2.webp",
     description: { de: "Fluss an der Nordostgrenze.", hu: "Folyó az északkeleti határon.", ro: "Râu la granița de nord-est.", en: "An important river forming a natural boundary and supporting significant river basin life." , es: "Río en la frontera noreste.", pt: "Rio na fronteira nordeste.", fr: "Rivière à la frontière nord-est."},
     facts: {
       de: ["Grenzfluss.", "Wichtiges Einzugsgebiet."],
@@ -1107,7 +1087,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-HUA",
     coords: [15.2, -12.5],
     name: { de: "Boco", hu: "Boco", ro: "Boco", en: "Boco"},
-    image: "/poi-images/monte-boco-nature-v2.webp",
     description: { de: "Gipfel im Huambo-Gebiet.", hu: "Csúcs a Huambo régióban.", ro: "O înălțime muntoasă caracteristică terenului variat al Angolei, cu o floră și faună specifică zonelor de altitudine.", en: "A prominent mountain feature contributing to the diverse topography of the region." , es: "Cima en la zona de Huambo.", pt: "Cume na zona do Huambo.", fr: "Sommet dans la région de Huambo."},
     facts: {
       de: ["Steiniges Gelände.", "Schöne Aussicht."],
@@ -1142,7 +1121,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-BGO",
     coords: [14.0, -9.5],
     name: { de: "Cuanza-See", hu: "Cuanza-tó", ro: "Lacul Cuanza", en: "Cuanza Lake"},
-    image: "/poi-images/lago-cuanza-nature-v2.webp",
     description: { de: "Stausee am Cuanza-Fluss.", hu: "Víztározó a Cuanza folyón.", ro: "Lac de acumulare pe râul Cuanza.", en: "Reservoir on the Cuanza river." , es: "Embalse en el río Cuanza.", pt: "Albufeira no rio Cuanza.", fr: "Lac de barrage sur le fleuve Cuanza."},
     facts: {
       de: ["Große Wasserfläche.", "Energieerzeugung."],
@@ -1177,7 +1155,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-LSU",
     coords: [17.8, -9.0],
     name: { de: "Cuango", hu: "Cuango", ro: "Cuango", en: "Cuango"},
-    image: "/poi-images/rio-cuango-nature-v2.webp",
     description: { de: "Fluss durch die Provinz Lunda Sul.", hu: "Folyó Lunda Sul tartományon keresztül.", ro: "Râu prin provincia Lunda Sul.", en: "A significant waterway flowing through the north, essential for local biodiversity." , es: "Río que atraviesa la provincia de Lunda Sul.", pt: "Rio que atravessa a província da Lunda Sul.", fr: "Fleuve traversant la province de Lunda Sul."},
     facts: {
       de: ["Diamantengebiet.", "Saisonal hoch."],
@@ -1257,7 +1234,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-NAM",
     coords: [11.8, -16.6],
     name: { de: "Ilha dos Tigres", hu: "Ilha dos Tigres", ro: "Ilha dos Tigres", en: "Ilha dos Tigres"},
-    image: "/poi-images/ilha-tigre-nature-v2.webp",
     description: { de: "Ehemalige Insel, jetzt Halbinsel.", hu: "Volt sziget, ma félsziget.", ro: "O insulă fascinantă în sudul Angolei, cunoscută pentru izolarea sa și peisajele deșertice care se întâlnesc cu oceanul.", en: "A remote coastal island area known for its stark desert landscape and history." , es: "Antigua isla, ahora península.", pt: "Antiga ilha, agora península.", fr: "Ancienne île, aujourd'hui péninsule."},
     facts: {
       de: ["Trockenes Klima.", "Einstige Siedlung."],
@@ -1292,7 +1268,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-LNO",
     coords: [21.5, -7.5],
     name: { de: "Kassai", hu: "Kassai", ro: "Kassai", en: "Kassai"},
-    image: "/poi-images/rio-kassai-nature-v2.webp",
     description: { de: "Großer Grenzfluss im Nordosten.", hu: "Nagy határfolyó északkeleten.", ro: "Mare râu de frontieră în nord-est.", en: "A major river contributing to the extensive hydrographic network of northern Angola." , es: "Gran río fronterizo en el noreste.", pt: "Grande rio fronteiriço no nordeste.", fr: "Grand fleuve frontalier au nord-est."},
     facts: {
       de: ["Nebenfluss des Kongo.", "Dschungelregion."],
@@ -1327,7 +1302,6 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-BGU",
     coords: [13.5, -12.4],
     name: { de: "Catumbela", hu: "Catumbela", ro: "Catumbela", en: "Catumbela"},
-    image: "/poi-images/rio-catumbela-nature-v2.webp",
     description: { de: "Fluss in der Provinz Benguela.", hu: "Folyó Benguela tartományban.", ro: "Râu în provincia Benguela.", en: "River in Benguela province." , es: "Río en la provincia de Benguela.", pt: "Rio na província de Benguela.", fr: "Fleuve dans la province de Benguela."},
     facts: {
       de: ["Mündung bei Lobito.", "Wichtig für die Region."],

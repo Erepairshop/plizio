@@ -12,7 +12,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "Conakry-i nagy mecset",
       ro: "Marea Moschee din Conakry",
       en: "Conakry Grand Mosque"},
-    image: "/poi-images/conakry-grand-mosque-landmarks-v2.webp",
     description: {
       de: "Die Große Moschee von Conakry ist die viertgrößte Moschee Afrikas und das bedeutendste religiöse Bauwerk Guineas. Sie wurde 1982 eröffnet und bietet Platz für über 12.000 Gläubige.",
       hu: "A Conakry-i nagy mecset Afrika negyedik legnagyobb mecsete és Guinea legjelentősebb vallási épülete. 1982-ben nyitották meg, és több mint 12 000 hívő befogadására alkalmas.",
@@ -79,7 +78,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "Szent Mária-székesegyház",
       ro: "Catedrala Sfânta Maria",
       en: "Sainte-Marie Cathedral"},
-    image: "/poi-images/conakry-cathedral-landmarks-v2.webp",
     description: {
       de: "Die Kathedrale Sainte-Marie ist das wichtigste katholische Gotteshaus in Conakry. Das in der Kolonialzeit errichtete gelb-rote Gebäude ist ein markantes Beispiel für die Architektur des frühen 20. Jahrhunderts in Westafrika.",
       hu: "A Szent Mária-székesegyház Conakry legfontosabb katolikus temploma. A gyarmati időkben épült sárga-vörös épület a 20. század eleji nyugat-afrikai építészet jellegzetes példája.",
@@ -335,7 +333,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "1970. november 22. emlékmű",
       ro: "Monumentul din 22 noiembrie 1970",
       en: "Monument of November 22, 1970"},
-    image: "/poi-images/monument-22-november-landmarks-v2.webp",
     description: {
       de: "Dieses Monument erinnert an den Sieg Guineas über die portugiesische Invasion im Jahr 1970. Es ist ein Symbol des nationalen Widerstands und der Souveränität des Landes.",
       hu: "Ez az emlékmű Guinea 1970-es, a portugál invázió felett aratott győzelmének állít emléket. A nemzeti ellenállás és az ország szuverenitásának szimbóluma.",
@@ -402,7 +399,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "Nép palotája",
       ro: "Palatul Poporului",
       en: "Palais du Peuple"},
-    image: "/poi-images/palais-du-peuple-landmarks-v2.webp",
     description: {
       de: "Der Palais du Peuple ist ein großes Kongress- und Kulturzentrum in Conakry. Er ist der Ort für wichtige politische Versammlungen, Konzerte und nationale Feierlichkeiten.",
       hu: "A Palais du Peuple egy hatalmas kongresszusi és kulturális központ Conakryban. Fontos politikai gyűlések, koncertek és nemzeti ünnepségek helyszíne.",
@@ -457,7 +453,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "Szeptember 28. Stadion",
       ro: "Stadionul 28 Septembrie",
       en: "Stade du 28 Septembre"},
-    image: "/poi-images/stade-28-septembre-landmarks-v2.webp",
     description: {
       de: "Das Stadion des 28. September ist eine der wichtigsten Sportstätten Guineas. Es wurde nach dem Datum benannt, an dem Guinea für die Unabhängigkeit von Frankreich stimmte.",
       hu: "A Szeptember 28. Stadion Guinea egyik legfontosabb sportlétesítménye. Nevét arról a dátumról kapta, amikor Guinea a Franciaországtól való függetlenségre szavazott.",
@@ -673,7 +668,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "V. Mohamed palota",
       ro: "Palatul Mohammed V",
       en: "Palais Mohammed V"},
-    image: "/poi-images/palais-mohammed-v-landmarks-v2.webp",
     description: {
       de: "Der Palais Mohammed V ist ein historisches Regierungsgebäude in Conakry. Er diente verschiedenen staatlichen Funktionen und ist ein Symbol der guineischen Staatsmacht.",
       hu: "Az V. Mohamed palota egy történelmi kormányzati épület Conakryban. Különböző állami funkciókat látott el, és a guineai államhatalom szimbóluma.",
@@ -740,7 +734,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "Guinea Nemzeti Múzeuma",
       ro: "Muzeul Național al Guineei",
       en: "National Museum of Guinea"},
-    image: "/poi-images/national-museum-guinea-landmarks-v2.webp",
     description: {
       de: "Das Nationalmuseum in Conakry beherbergt eine umfangreiche Sammlung guineischer Kunst, Masken und historischer Artefakte, die die kulturelle Vielfalt des Landes widerspiegeln.",
       hu: "A Conakry-ban található Nemzeti Múzeum gazdag gyűjteménnyel rendelkezik guineai művészeti alkotásokból, maszkokból és történelmi tárgyakból, amelyek az ország kulturális sokszínűségét tükrözik.",
@@ -888,7 +881,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "Boulbinet-világítótorony",
       ro: "Farul din Boulbinet",
       en: "Boulbinet Lighthouse"},
-    image: "/poi-images/boulbinet-lighthouse-landmarks-v2.webp",
     description: {
       de: "Der Leuchtturm von Boulbinet steht an der Südspitze der Halbinsel Kaloum. Er ist ein historischer Orientierungspunkt für die Seefahrt vor Conakry.",
       hu: "A Boulbinet-világítótorony a Kaloum-félsziget déli csücskén áll. Történelmi tájékozódási pont a hajózás számára Conakry partjainál.",
@@ -955,7 +947,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "Conakry kikötője",
       ro: "Portul din Conakry",
       en: "Port of Conakry"},
-    image: "/poi-images/port-of-conakry-landmarks-v2.webp",
     description: {
       de: "Der Autonome Hafen von Conakry ist die wichtigste wirtschaftliche Drehscheibe Guineas. Er ist das Tor für den Außenhandel, insbesondere für den Export von Bauxit.",
       hu: "Conakry autonóm kikötője Guinea legfontosabb gazdasági csomópontja. Ez a külkereskedelem kapuja, különösen a bauxit exportja számára.",
@@ -1022,7 +1013,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "Labéi nagy mecset",
       ro: "Marea Moschee din Labé",
       en: "Labé Grand Mosque"},
-    image: "/poi-images/labe-grand-mosque-landmarks-v2.webp",
     description: {
       de: "Die Große Moschee von Labé ist das geistige Zentrum des Fouta Djallon. Sie ist ein bedeutendes religiöses und kulturelles Wahrzeichen der Fula-Bevölkerung.",
       hu: "A Labéi nagy mecset a Fouta Djallon szellemi központja. A fula lakosság jelentős vallási és kulturális jelképe.",
@@ -1089,7 +1079,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "Gamal Abdel Nasszer Egyetem",
       ro: "Universitatea Gamal Abdel Nasser",
       en: "Gamal Abdel Nasser University"},
-    image: "/poi-images/university-gamal-nasser-landmarks-v2.webp",
     description: {
       de: "Die Universität Gamal Abdel Nasser von Conakry ist die älteste und größte Universität Guineas. Sie wurde 1962 gegründet und ist ein Zentrum für höhere Bildung und Forschung.",
       hu: "A Conakry-i Gamal Abdel Nasszer Egyetem Guinea legrégebbi és legnagyobb egyeteme. 1962-ben alapították, és a felsőoktatás és kutatás központja.",
@@ -1156,7 +1145,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "Sékoutoureya palota",
       ro: "Palatul Sékoutoureya",
       en: "Sékoutoureya Palace"},
-    image: "/poi-images/sekoutoureya-palace-landmarks-v2.webp",
     description: {
       de: "Der Palais Sékoutoureya ist der offizielle Amtssitz des Präsidenten von Guinea. Er befindet sich im Stadtteil Kaloum und ist ein Zentrum der politischen Macht.",
       hu: "A Sékoutoureya palota Guinea elnökének hivatalos székhelye. A Kaloum negyedben található, és a politikai hatalom központja.",
@@ -1223,7 +1211,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "Függetlenségi emlékmű",
       ro: "Monumentul Independenței",
       en: "Independence Monument"},
-    image: "/poi-images/independence-monument-conakry-landmarks-v2.webp",
     description: {
       de: "Dieses Denkmal im Zentrum von Conakry erinnert an die Erlangung der Unabhängigkeit Guineas im Jahr 1958. Es ist ein Ort des Stolzes und der nationalen Identität.",
       hu: "Ez a Conakry központjában található emlékmű Guinea 1958-as függetlenné válásának állít emléket. A büszkeség és a nemzeti identitás helyszíne.",
@@ -1290,7 +1277,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "Conakry-i igazságügyi palota",
       ro: "Palatul de Justiție din Conakry",
       en: "Palais de Justice (Conakry)"},
-    image: "/poi-images/palais-de-justice-conakry-landmarks-v2.webp",
     description: {
       de: "Der Justizpalast ist der Sitz der wichtigsten juristischen Institutionen Guineas. Das Gebäude im Stadtteil Kaloum repräsentiert die dritte Gewalt des Staates.",
       hu: "Az igazságügyi palota Guinea legfontosabb jogi intézményeinek székhelye. A Kaloum negyedben található épület az állam harmadik hatalmi ágát képviseli.",
@@ -1357,7 +1343,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "Guinea Központi Bankja",
       ro: "Banca Centrală a Guineei",
       en: "Central Bank of the Republic of Guinea"},
-    image: "/poi-images/central-bank-guinea-landmarks-v2.webp",
     description: {
       de: "Die Zentralbank ist das finanzielle Herz des Landes. Das imposante Gebäude in Conakry ist für die Währungspolitik und die Stabilität des Guineischen Franc verantwortlich.",
       hu: "A Központi Bank az ország pénzügyi szíve. Az impozáns conakry-i épület felelős a monetáris politikáért és a guineai frank stabilitásáért.",
@@ -1424,7 +1409,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "Kankani székesegyház",
       ro: "Catedrala din Kankan",
       en: "Kankan Cathedral"},
-    image: "/poi-images/kankan-cathedral-landmarks-v2.webp",
     description: {
       de: "Die Kathedrale Notre-Dame des Victoires et de la Paix in Kankan ist das wichtigste katholische Gotteshaus der Region. Sie zeugt von der religiösen Vielfalt in der Stadt.",
       hu: "A kankani Notre-Dame des Victoires et de la Paix székesegyház a régió legfontosabb katolikus temploma. A város vallási sokszínűségéről tanúskodik.",
@@ -1608,7 +1592,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "Madina piac",
       ro: "Piața Madina",
       en: "Madina Market"},
-    image: "/poi-images/madina-market-landmarks-v2.webp",
     description: {
       de: "Der Madina-Markt in Conakry ist einer der größten Märkte Westafrikas. Er ist ein pulsierendes Labyrinth aus Handelsständen, in dem fast alles verkauft wird.",
       hu: "A Conakry-i Madina piac Nyugat-Afrika egyik legnagyobb piaca. Kereskedelmi standok lüktető útvesztője, ahol szinte minden kapható.",
@@ -1675,7 +1658,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "Kouroussai Niger-híd",
       ro: "Podul peste Niger din Kouroussa",
       en: "Kouroussa Niger Bridge"},
-    image: "/poi-images/kouroussa-niger-bridge-landmarks-v2.webp",
     description: {
       de: "Diese wichtige Brücke überquert den Fluss Niger bei Kouroussa. Sie ist ein entscheidendes Glied in der Verkehrsinfrastruktur, die den Osten des Landes verbindet.",
       hu: "Ez a fontos híd Kouroussa közelében szeli át a Niger-folyót. Az ország keleti részét összekötő közlekedési infrastruktúra meghatározó eleme.",
@@ -1823,7 +1805,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "Franco-Guineai Kulturális Központ",
       ro: "Centrul Cultural Franco-Guineean",
       en: "Franco-Guinean Cultural Center"},
-    image: "/poi-images/conakry-cultural-center-landmarks-v2.webp",
     description: {
       de: "Das Centre Culturel Franco-Guinéen ist ein wichtiger Ort für Kunst und Austausch in Conakry. Es bietet Bibliotheken, Ausstellungsräume und Theateraufführungen.",
       hu: "A Franco-Guineai Kulturális Központ a művészet és a párbeszéd fontos helyszíne Conakryban. Könyvtárakkal, kiállítótermekkel és színházi előadásokkal várja a látogatókat.",
@@ -2007,7 +1988,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "Conakry-i városháza",
       ro: "Primăria din Conakry",
       en: "Conakry City Hall"},
-    image: "/poi-images/conakry-city-hall-landmarks-v2.webp",
     description: {
       de: "Das Rathaus von Conakry ist der Sitz der Stadtverwaltung. Das Gebäude im historischen Kern der Stadt ist ein Beispiel für administrative Architektur.",
       hu: "Conakry városháza a városi közigazgatás székhelye. A város történelmi magjában található épület az adminisztratív építészet példája.",
@@ -2119,7 +2099,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "Donka-mecset",
       ro: "Moscheea din Donka",
       en: "Donka Mosque"},
-    image: "/poi-images/donka-mosque-landmarks-v2.webp",
     description: {
       de: "Die Moschee von Donka befindet sich in der Nähe des bekannten Donka-Krankenhauses. Sie ist ein wichtiger spiritueller Ort für die Bewohner dieses belebten Stadtteils.",
       hu: "A Donka-mecset a jól ismert Donka kórház közelében található. Fontos lelki központ e forgalmas városnegyed lakói számára.",
@@ -2267,7 +2246,6 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       hu: "Ahmed Sékou Touré nemzetközi repülőtér",
       ro: "Aeroportul Ahmed Sékou Touré",
       en: "Ahmed Sékou Touré International Airport"},
-    image: "/poi-images/conakry-airport-landmarks-v2.webp",
     description: {
       de: "Der internationale Flughafen von Conakry ist das wichtigste Luftverkehrsdrehkreuz des Landes. Er verbindet Guinea mit anderen afrikanischen Hauptstädten und Europa.",
       hu: "Conakry nemzetközi repülőtere az ország legfontosabb légiközlekedési csomópontja. Guineát köti össze más afrikai fővárosokkal és Európával.",

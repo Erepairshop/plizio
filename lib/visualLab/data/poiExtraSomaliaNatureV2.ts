@@ -8,7 +8,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-GS",
     coords: [42.6667, -0.15],
     name: { de: "Jubba", hu: "Jubba", ro: "Jubba", en: "Jubba"},
-    image: "/poi-images/jubba-river-nature-v2.webp",
     description: { de: "Der Jubba ist der bedeutendste Fluss in Somalia.", hu: "A Jubba Szomália legjelentősebb folyója.", ro: "Jubba este cel mai important râu din Somalia.", en: "The Jubba is the most important river in Somalia." , es: "El Jubba es el río más importante de Somalia.", pt: "O Jubba é o rio mais importante da Somália.", fr: "Le Jubba est le fleuve le plus important de Somalie."},
     facts: {
       de: ["Entspringt im äthiopischen Hochland", "Mündet in den Indischen Ozean", "Wichtig für die Landwirtschaft", "Länge ca. 1650 km"],
@@ -44,7 +43,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-GS",
     coords: [43.0, 1.0],
     name: { de: "Shabelle", hu: "Shabelle", ro: "Shabelle", en: "Shabelle"},
-    image: "/poi-images/shebelle-river-nature-v2.webp",
     description: { de: "Der Shabelle ist ein langer Fluss im südlichen Somalia.", hu: "A Shabelle egy hosszú folyó Dél-Szomáliában.", ro: "Shabelle este un râu lung în sudul Somaliei.", en: "The Shabelle is a long river in southern Somalia." , es: "El Shabelle es un río largo en el sur de Somalia.", pt: "O Shabelle é um rio longo no sul da Somália.", fr: "Le Shabelle est un long fleuve dans le sud de la Somalie."},
     facts: {
       de: ["Fließt durch das südliche Somalia", "Parallel zum Jubba", "Wichtige Wasserquelle", "Periodisch trockener Unterlauf"],
@@ -161,7 +159,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-SA",
     coords: [48.5, 11.0],
     name: { de: "Cal Madow", hu: "Cal Madow", ro: "Cal Madow", en: "Cal Madow"},
-    image: "/poi-images/cal-madow-mountains-nature-v2.webp",
     description: { de: "Die Cal Madow sind ein Gebirgszug im Norden Somalias.", hu: "A Cal Madow egy hegység Szomália északi részén.", ro: "Cal Madow este un lanț muntos în nordul Somaliei.", en: "The Cal Madow is a mountain range in northern Somalia." , es: "Cal Madow es una cordillera en el norte de Somalia.", pt: "Cal Madow é uma cordilheira no norte da Somália.", fr: "Cal Madow est une chaîne de montagnes dans le nord de la Somalie."},
     facts: {
       de: ["Höchster Teil Somalias", "Besteht aus Kalkstein", "Reiche Vegetation", "Steile Klippen"],
@@ -386,7 +383,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-WO",
     coords: [44.0, 9.8],
     name: { de: "Golis-Gebirge", hu: "Golis-hegység", ro: "Munții Golis", en: "Golis Mountains"},
-    image: "/poi-images/golis-mountains-nature-v2.webp",
     description: { de: "Das Golis-Gebirge ist ein wichtiger Höhenzug.", hu: "A Golis-hegység egy fontos hegyvonulat.", ro: "Munții Golis sunt un lanț muntos important.", en: "The Golis Mountains are an important range." , es: "Las montañas Golis son una cadena montañosa importante.", pt: "As montanhas Golis são uma cadeia montanhosa importante.", fr: "Les monts Golis constituent une chaîne de montagnes importante."},
     facts: {
       de: ["Nördlich von Hargeisa", "Wichtiges Ökosystem", "Trockene Region", "Wandergebiet"],
@@ -503,7 +499,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-SA",
     coords: [47.2, 10.7],
     name: { de: "Surud Cad", hu: "Surud Cad", ro: "Surud Cad", en: "Surud Cad"},
-    image: "/poi-images/surud-cad-nature-v2.webp",
     description: { de: "Surud Cad ist der höchste Berg in Somalia.", hu: "Surud Cad Szomália legmagasabb hegye.", ro: "Surud Cad este cel mai înalt munte din Somalia.", en: "Surud Cad is the highest mountain in Somalia." , es: "Surud Cad es la montaña más alta de Somalia.", pt: "Surud Cad é a montanha mais alta da Somália.", fr: "Surud Cad est la plus haute montagne de Somalie."},
     facts: {
       de: ["Höhe ca. 2416 Meter", "Teil des Cal Madow", "Im Norden gelegen", "Spektakuläre Aussicht"],
@@ -539,7 +534,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-SA",
     coords: [49.2, 11.5],
     name: { de: "Darin", hu: "Darin", ro: "Darin", en: "Darin"},
-    image: "/poi-images/darin-island-nature-v2.webp",
     description: { de: "Eine Insel vor der Nordküste Somalias.", hu: "Egy sziget Szomália északi partjainál.", ro: "O insulă în largul coastei de nord a Somaliei.", en: "An island off the northern coast of Somalia." , es: "Una isla frente a la costa norte de Somalia.", pt: "Uma ilha ao largo da costa norte da Somália.", fr: "Une île au large de la côte nord de la Somalie."},
     facts: {
       de: ["Im Golf von Aden", "Unbewohnt", "Riffnähe", "Felsig"],
@@ -575,7 +569,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-LB",
     coords: [42.0, -0.5],
     name: { de: "Bajuni-Inseln", hu: "Bajuni-szigetek", ro: "Insulele Bajuni", en: "Bajuni Islands"},
-    image: "/poi-images/bajuni-islands-nature-v2.webp",
     description: { de: "Eine Inselkette an der Südküste Somalias.", hu: "Egy szigetlánc Szomália déli partjainál.", ro: "Un lanț de insule pe coasta de sud a Somaliei.", en: "An island chain off the southern coast of Somalia." , es: "Una cadena de islas frente a la costa sur de Somalia.", pt: "Uma cadeia de ilhas na costa sul da Somália.", fr: "Une chaîne d'îles sur la côte sud de la Somalie."},
     facts: {
       de: ["Im Indischen Ozean", "Schöne Strände", "Korallenriffe", "Artenreich"],
@@ -611,7 +604,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-SA",
     coords: [47.2, 11.2],
     name: { de: "Küste von Maydh", hu: "Maydh partja", ro: "Coasta Maydh", en: "Maydh Coast"},
-    image: "/poi-images/maydh-coast-nature-v2.webp",
     description: { de: "Ein Küstenabschnitt am Golf von Aden.", hu: "Egy partszakasz az Ádeni-öbölnél.", ro: "O secțiune de coastă la Golful Aden.", en: "A coastal section on the Gulf of Aden." , es: "Un tramo de costa en el Golfo de Adén.", pt: "Um troço de costa no Golfo de Áden.", fr: "Un tronçon de côte sur le golfe d'Aden."},
     facts: {
       de: ["Fischreich", "Historischer Ort", "Sandige Strände", "Tiefes Wasser"],
@@ -647,7 +639,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-BR",
     coords: [51.2, 10.5],
     name: { de: "Hordio-Lagune", hu: "Hordio-lagúna", ro: "Laguna Hordio", en: "Hordio Lagoon"},
-    image: "/poi-images/hordio-lagoon-nature-v2.webp",
     description: { de: "Eine Lagune an der Spitze des Horns von Afrika.", hu: "Egy lagúna az Afrika szarvának csúcsánál.", ro: "O lagună la vârful Cornului Africii.", en: "A lagoon at the tip of the Horn of Africa." , es: "Una laguna en la punta del Cuerno de África.", pt: "Uma lagoa na ponta do Corno de África.", fr: "Une lagune à la pointe de la Corne de l'Afrique."},
     facts: {
       de: ["Salzhaltig", "Wichtige Vogelregion", "Vom Indischen Ozean getrennt", "Still"],
@@ -683,7 +674,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-BR",
     coords: [51.4, 11.8],
     name: { de: "Ras Casir", hu: "Ras Casir", ro: "Ras Casir", en: "Ras Casir"},
-    image: "/poi-images/ras-casir-nature-v2.webp",
     description: { de: "Ein Kap am Horn von Afrika.", hu: "Egy fok Afrika szarvánál.", ro: "Un cap la Cornul Africii.", en: "A cape at the Horn of Africa." , es: "Un cabo en el Cuerno de África.", pt: "Um cabo no Corno de África.", fr: "Un cap dans la Corne de l'Afrique."},
     facts: {
       de: ["Treffpunkt Golf von Aden und Indischer Ozean", "Windig", "Markanter Punkt", "Klarer Blick"],
@@ -764,7 +754,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-WO",
     coords: [44.1, 9.7],
     name: { de: "Ayaha-Tal", hu: "Ayaha-völgy", ro: "Valea Ayaha", en: "Ayaha Valley"},
-    image: "/poi-images/ayaha-valley-nature-v2.webp",
     description: { de: "Ein trockenes Flusstal in der Region Woqooyi Galbeed.", hu: "Egy száraz folyóvölgy Woqooyi Galbeed régióban.", ro: "O vale de râu uscată în regiunea Woqooyi Galbeed.", en: "A dry river valley in the Woqooyi Galbeed region." , es: "Un valle fluvial seco en la región de Woqooyi Galbeed.", pt: "Um vale fluvial seco na região de Woqooyi Galbeed.", fr: "Une vallée fluviale sèche dans la région de Woqooyi Galbeed."},
     facts: {
       de: ["Oft ausgetrocknet", "Nur nach Regen Wasser", "Wichtiges Bewässerungsgebiet", "Trockenlandschaft"],
@@ -989,7 +978,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-SA",
     coords: [47.5, 10.5],
     name: { de: "Xaysimo-Wald", hu: "Xaysimo-erdő", ro: "Pădurea Xaysimo", en: "Xaysimo Forest"},
-    image: "/poi-images/xaysimo-nature-v2.webp",
     description: { de: "Ein seltener Wald in Nord-Somalia.", hu: "Egy ritka erdő Észak-Szomáliában.", ro: "O pădure rară în nordul Somaliei.", en: "A rare forest in northern Somalia." , es: "Un bosque raro en el norte de Somalia.", pt: "Uma floresta rara no norte da Somália.", fr: "Une forêt rare dans le nord de la Somalie."},
     facts: {
       de: ["Wacholderwälder", "Sehr trockenes Klima", "Langsam wachsend", "Bedroht"],
@@ -1025,7 +1013,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-GS",
     coords: [42.7, -0.4],
     name: { de: "Juba-Delta", hu: "Juba-delta", ro: "Delta Juba", en: "Juba Delta"},
-    image: "/poi-images/juba-delta-nature-v2.webp",
     description: { de: "Die Mündung des Jubba-Flusses in den Ozean.", hu: "A Jubba-folyó torkolata az óceánba.", ro: "Vărsarea râului Jubba în ocean.", en: "The mouth of the Jubba river into the ocean." , es: "La desembocadura del río Jubba en el océano.", pt: "A foz do rio Jubba no oceano.", fr: "L'embouchure du fleuve Jubba dans l'océan."},
     facts: {
       de: ["Mangrovenwälder", "Reiches Vogelvorkommen", "Schlickig", "Gezeitenbeeinflusst"],
@@ -1097,7 +1084,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-GS",
     coords: [42.1, 0.2],
     name: { de: "Dadaab Buschland", hu: "Dadaab bozótos", ro: "Tufe Dadaab", en: "Dadaab bushland"},
-    image: "/poi-images/dadaab-bushland-nature-v2.webp",
     description: { de: "Weite Gebiete mit Dornbuschvegetation.", hu: "Hatalmas területek tüskés bozótos növényzettel.", ro: "Zone vaste cu vegetație de tufe spinoase.", en: "Vast areas with thorn bush vegetation." , es: "Vastas áreas con vegetación de matorral espinoso.", pt: "Vastas áreas com vegetação de matagal espinhoso.", fr: "Vastes zones avec une végétation de broussailles épineuses."},
     facts: {
       de: ["Trockensavanne", "Dornensträucher", "Sehr heiß", "Karge Böden"],
@@ -1133,7 +1119,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-MU",
     coords: [48.5, 5.3],
     name: { de: "Dünen von Hobyo", hu: "Hobyo dűnéi", ro: "Dunele Hobyo", en: "Hobyo Dunes"},
-    image: "/poi-images/hobyo-dunes-nature-v2.webp",
     description: { de: "Sanddünen an der Küste Somalias.", hu: "Homokdűnék Szomália partjainál.", ro: "Dune de nisip pe coasta Somaliei.", en: "Sand dunes on the coast of Somalia." , es: "Dunas de arena en la costa de Somalia.", pt: "Dunas de areia na costa da Somália.", fr: "Dunes de sable sur la côte somalienne."},
     facts: {
       de: ["Wanderdünen", "Weißer Sand", "Direkt am Indischen Ozean", "Stark windig"],
@@ -1205,7 +1190,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-LB",
     coords: [44.0, 1.1],
     name: { de: "Küste bei Barawa", hu: "Part Barawa mellett", ro: "Coasta lângă Barawa", en: "Coast near Barawa"},
-    image: "/poi-images/barawa-coast-nature-v2.webp",
     description: { de: "Eine Küstenregion südlich von Mogadischu.", hu: "Egy part menti régió Mogadishutól délre.", ro: "O regiune de coastă la sud de Mogadishu.", en: "A coastal region south of Mogadishu." , es: "Una región costera al sur de Mogadiscio.", pt: "Uma região costeira a sul de Mogadíscio.", fr: "Une région côtière au sud de Mogadiscio."},
     facts: {
       de: ["Korallenküste", "Klares Wasser", "Viele Buchten", "Wichtig für Schifffahrt"],
@@ -1322,7 +1306,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-SA",
     coords: [47.3, 10.6],
     name: { de: "Ceerigaabo Hochland", hu: "Ceerigaabo fennsík", ro: "Podișul Ceerigaabo", en: "Ceerigaabo Uplands"},
-    image: "/poi-images/ceerigaabo-uplands-nature-v2.webp",
     description: { de: "Ein Hochlandgebiet in der Region Sanaag.", hu: "Egy fennsíki terület Sanaag régióban.", ro: "O zonă de podiș în regiunea Sanaag.", en: "A highland area in the Sanaag region." , es: "Una zona de tierras altas en la región de Sanaag.", pt: "Uma zona de terras altas na região de Sanaag.", fr: "Une zone de hautes terres dans la région de Sanaag."},
     facts: {
       de: ["Kühleres Klima", "Weideland", "Bergig", "Trockenes Grasland"],
@@ -1394,7 +1377,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-MD",
     coords: [45.5, 2.8],
     name: { de: "Aue bei Jowhar", hu: "Ártér Jowhar közelében", ro: "Luncă lângă Jowhar", en: "Floodplain near Jowhar"},
-    image: "/poi-images/jowhar-floodplain-nature-v2.webp",
     description: { de: "Das Überschwemmungsgebiet des Shabelle-Flusses.", hu: "A Shabelle-folyó ártéri területe.", ro: "Zona inundabilă a râului Shabelle.", en: "The floodplain area of the Shabelle river." , es: "La llanura aluvial del río Shabelle.", pt: "A planície de inundação do rio Shabelle.", fr: "La plaine inondable du fleuve Shabelle."},
     facts: {
       de: ["Sehr fruchtbar", "Saisonal überschwemmt", "Landwirtschaftlich genutzt", "Schlick"],
@@ -1430,7 +1412,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-MU",
     coords: [47.5, 6.0],
     name: { de: "Mudug Savanne", hu: "Mudug szavanna", ro: "Savana Mudug", en: "Mudug savanna"},
-    image: "/poi-images/mudug-savanna-nature-v2.webp",
     description: { de: "Eine weite Savannenlandschaft in Mudug.", hu: "Hatalmas szavannatáj Mudugban.", ro: "Un vast peisaj de savană în Mudug.", en: "A vast savanna landscape in Mudug." , es: "Un vasto paisaje de sabana en Mudug.", pt: "Uma vasta paisagem de savana em Mudug.", fr: "Un vaste paysage de savane à Mudug."},
     facts: {
       de: ["Karge Vegetation", "Weite Flächen", "Nomadengebiet", "Trocken"],
@@ -1511,7 +1492,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-SA",
     coords: [48.7, 11.1],
     name: { de: "Cal Madow Wald", hu: "Cal Madow erdő", ro: "Pădurea Cal Madow", en: "Cal Madow forest"},
-    image: "/poi-images/cal-madow-forest-nature-v2.webp",
     description: { de: "Wälder in der Cal Madow Bergregion.", hu: "Erdők a Cal Madow hegyvidéken.", ro: "Păduri în regiunea montană Cal Madow.", en: "Forests in the Cal Madow mountain region." , es: "Bosques en la región montañosa de Cal Madow.", pt: "Florestas na região montanhosa de Cal Madow.", fr: "Forêts dans la région montagneuse de Cal Madow."},
     facts: {
       de: ["Immergrün", "Nebelwaldartige Zonen", "Artenreich", "Sehr abgelegen"],
@@ -1592,7 +1572,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-WO",
     coords: [44.5, 10.0],
     name: { de: "Nordhang des Golis-Gebirges", hu: "A Golis-hegység északi lejtője", ro: "Versantul nordic al munților Golis", en: "Northern slope of Golis Mountains"},
-    image: "/poi-images/golis-northern-slope-nature-v2.webp",
     description: { de: "Der zum Golf von Aden abfallende Hang.", hu: "Az Ádeni-öböl felé lejtő oldal.", ro: "Versantul care coboară spre Golful Aden.", en: "The slope falling towards the Gulf of Aden." , es: "La ladera que desciende hacia el Golfo de Adén.", pt: "A encosta que desce em direção ao Golfo de Áden.", fr: "Le versant descendant vers le golfe d'Aden."},
     facts: {
       de: ["Steil abfallend", "Gute Aussicht", "Vegetationszonen", "Felsig"],
@@ -1628,7 +1607,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-BR",
     coords: [49.5, 9.0],
     name: { de: "Karkar-Gebirge", hu: "Karkar-hegység", ro: "Munții Karkar", en: "Karkar Mountains"},
-    image: "/poi-images/karkar-mountains-nature-v2.webp",
     description: { de: "Ein Gebirgszug im Nordosten Somalias.", hu: "Egy hegyvonulat Szomália északkeleti részén.", ro: "Un lanț muntos în nord-estul Somaliei.", en: "A mountain range in northeastern Somalia." , es: "Una cadena montañosa en el noreste de Somalia.", pt: "Uma cadeia montanhosa no nordeste da Somália.", fr: "Une chaîne de montagnes dans le nord-est de la Somalie."},
     facts: {
       de: ["Trockenes Hochland", "Ausgedehnt", "Karge Landschaft", "Kalksteinplateaus"],
@@ -1709,7 +1687,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-BR",
     coords: [51.4, 10.4],
     name: { de: "Ras Xaafuun", hu: "Ras Xaafuun", ro: "Ras Xaafuun", en: "Ras Xaafuun"},
-    image: "/poi-images/ras-xaafuun-nature-v2.webp",
     description: { de: "Der östlichste Punkt Afrikas.", hu: "Afrika legkeletibb pontja.", ro: "Cel mai estic punct al Africii.", en: "The easternmost point of Africa." , es: "El punto más oriental de África.", pt: "O ponto mais oriental de África.", fr: "Le point le plus oriental de l'Afrique."},
     facts: {
       de: ["Windeinfluss", "Felsige Küste", "Starke Meeresströmungen", "Historischer Standort"],
@@ -1745,7 +1722,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-TO",
     coords: [45.5, 9.5],
     name: { de: "Burao-Tal", hu: "Burao-völgy", ro: "Valea Burao", en: "Burao Valley"},
-    image: "/poi-images/burao-valley-nature-v2.webp",
     description: { de: "Ein trockenes Flusstal in der Region Togdheer.", hu: "Egy száraz folyóvölgy Togdheer régióban.", ro: "O vale de râu uscată în regiunea Togdheer.", en: "A dry river valley in the Togdheer region." , es: "Un valle fluvial seco en la región de Togdheer.", pt: "Um vale fluvial seco na região de Togdheer.", fr: "Une vallée fluviale sèche dans la région de Togdheer."},
     facts: {
       de: ["Saisonales Wasser", "Wichtig für Nomaden", "Trockenlandschaft", "Oft staubig"],
@@ -1862,7 +1838,6 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     parent: "SO-BR",
     coords: [51.3, 11.7],
     name: { de: "Küste von Gardafui", hu: "Gardafui partja", ro: "Coasta Gardafui", en: "Gardafui Coast"},
-    image: "/poi-images/gardafui-coast-nature-v2.webp",
     description: { de: "Die zerklüftete Küste an der Spitze Somalias.", hu: "A sziklás part Szomália csúcsánál.", ro: "Coasta accidentată la vârful Somaliei.", en: "The rugged coast at the tip of Somalia." , es: "La escarpada costa en la punta de Somalia.", pt: "A costa escarpada na ponta da Somália.", fr: "La côte escarpée à la pointe de la Somalie."},
     facts: {
       de: ["Steilküste", "Tiefes Wasser", "Schiffahrtsroute", "Windig"],

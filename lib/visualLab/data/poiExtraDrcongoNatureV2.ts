@@ -53,7 +53,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [12.44, -6.08],
     name: { de: "Kongo", hu: "Kongó", ro: "Congo", en: "Congo River"},
-    image: "/poi-images/congo-river-nature-v2.webp",
     description: { de: "Der Kongo ist der tiefste Fluss der Welt.", hu: "Afrika második leghosszabb és a világ legmélyebb folyója, az ország élete e köré szerveződik.", ro: "Fluviul Congo este cel mai adânc din lume.", en: "The Congo River is the deepest river in the world." , es: "El Congo es el río más profundo del mundo.", pt: "O Congo é o rio mais profundo do mundo.", fr: "Le Congo est le fleuve le plus profond du monde."},
     facts: {
       de: ["Zweitlängster Fluss Afrikas", "Enormes Einzugsgebiet", "Sehr wasserreich", "Wichtige Verkehrsader"],
@@ -91,7 +90,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [29.50, -6.50],
     name: { de: "Tanganjikasee", hu: "Tanganyika-tó", ro: "Lacul Tanganyika", en: "Lake Tanganyika"},
-    image: "/poi-images/tanganyika-lake-nature-v2.webp",
     description: { de: "Der Tanganjikasee ist der zweittiefste und einer der ältesten Süßwasserseen der Welt und bildet die natürliche Grenze im Osten des Landes.", hu: "A világ leghosszabb édesvízi tava és a második legmélyebb a Bajkál-tó után.", ro: "Al doilea cel mai vechi și mai adânc lac din lume, adăpostind sute de specii de pești endemici.", en: "Lake Tanganyika is the world's longest freshwater lake and the second-deepest, forming the eastern border of the DR Congo." },
     facts: {
       de: ["Zweittiefster See der Welt", "Sehr artenreiche Fischwelt", "Teil des Großen Afrikanischen Grabenbruchs"],
@@ -118,7 +116,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [28.50, 1.50],
     name: { de: "Ituri-Wald", hu: "Ituri-erdő", ro: "Pădurea Ituri", en: "Ituri Forest"},
-    image: "/poi-images/ituri-forest-nature-v2.webp",
     description: { de: "Ein bedeutender tropischer Regenwald im Kongo-Becken.", hu: "Jelentős trópusi esőerdő a Kongó-medencében.", ro: "O pădure tropicală importantă în Bazinul Congo.", en: "A significant tropical rainforest in the Congo Basin." , es: "Una importante selva tropical en la cuenca del Congo.", pt: "Uma importante floresta tropical na Bacia do Congo.", fr: "Une importante forêt tropicale dans le bassin du Congo."},
     facts: {
       de: ["Tropischer Regenwald", "Heimat der Mbuti", "Große Artenvielfalt", "Teil des Kongobeckens"],
@@ -156,7 +153,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [26.00, 0.50],
     name: { de: "Maiko-Regenwald", hu: "Maiko-esőerdő", ro: "Pădurea Maiko", en: "Maiko Rainforest"},
-    image: "/poi-images/maiko-forest-nature-v2.webp",
     description: { de: "Der Maiko-Regenwald ist ein riesiges, unberührtes Waldgebiet, das eine enorme Artenvielfalt beherbergt und als grüne Lunge Zentralafrikas gilt.", hu: "Hatalmas, érintetlen esőerdei terület az ország keleti részén, gazdag élővilággal.", ro: "O vastă întindere de pădure tropicală virgină, situată într-una dintre cele mai izolate regiuni ale țării.", en: "The Maiko Forest is a vast and remote tropical rainforest in eastern DR Congo, providing a critical refuge for rare wildlife." , es: "La selva tropical de Maiko es una vasta zona forestal virgen que alberga una enorme biodiversidad y es considerada un pulmón verde de África Central.", pt: "A floresta tropical de Maiko é uma vasta área florestal intocada que abriga uma enorme biodiversidade e é considerada o pulmão verde da África Central.", fr: "La forêt tropicale de Maiko est une vaste zone forestière vierge qui abrite une biodiversité énorme et est considérée comme le poumon vert de l'Afrique centrale."},
     facts: {
       de: ["Unberührter Regenwald", "Sehr schwer zugänglich", "Bedeutende Artenvielfalt"],
@@ -232,7 +228,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [29.10, -2.00],
     name: { de: "Kivusee", hu: "Kivu-tó", ro: "Lacul Kivu", en: "Lake Kivu"},
-    image: "/poi-images/kivu-lake-nature-v2.webp",
     description: { de: "Der Kivusee besticht durch seine malerische Lage in den Bergen und ist bekannt für sein klares Wasser sowie seine tiefen Gasmethanvorkommen.", hu: "Az afrikai Nagy-tavak egyike, amely magas hegyek és vulkánok között fekszik.", ro: "Un lac montan superb la granița cu Rwanda, cunoscut pentru apele sale adânci și peisajul vulcanic.", en: "Lake Kivu is one of the African Great Lakes, known for its scenic beauty and unique dissolved methane and carbon dioxide." , es: "El lago Kivu destaca por su pintoresca ubicación en las montañas y es conocido por sus aguas cristalinas y sus profundos yacimientos de gas metano.", pt: "O Lago Kivu destaca-se pela sua localização pitoresca nas montanhas e é conhecido pelas suas águas claras e pelas suas profundas jazidas de gás metano.", fr: "Le lac Kivu séduit par son cadre pittoresque en montagne et est connu pour ses eaux claires ainsi que ses profonds gisements de gaz méthane."},
     facts: {
       de: ["Hochlandsee", "Keine Krokodile oder Nilpferde", "Große Methangasvorkommen am Grund"],
@@ -270,7 +265,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [20.00, -3.00],
     name: { de: "Kasai", hu: "Kasai folyó", ro: "Râul Kasai", en: "Kasai River"},
-    image: "/poi-images/kasai-river-nature-v2.webp",
     description: { de: "Der Kasai-Fluss ist einer der bedeutendsten Nebenflüsse des Kongos und entwässert die weiten Savannen und Wälder im Zentrum und Süden.", hu: "A Kongó-folyó egyik legnagyobb déli mellékfolyója, amely hatalmas területet csapol le.", ro: "Unul dintre cei mai mari afluenți ai fluviului Congo, drenând întinderi vaste de pădure și savană.", en: "The Kasai River is a major tributary of the Congo River, flowing through the central and southern regions of the country." , es: "El río Kasai es uno de los afluentes más importantes del Congo y drena las vastas sabanas y bosques del centro y sur.", pt: "O Rio Cassai é um dos afluentes mais importantes do Congo e drena as vastas savanas e florestas do centro e sul.", fr: "La rivière Kasaï est l'un des affluents les plus importants du Congo et draine les vastes savanes et forêts du centre et du sud."},
     facts: {
       de: ["Wichtiger Nebenfluss des Kongo", "Reich an Diamanten im Flussbett", "Bedeutender Handelsweg"],
@@ -308,7 +302,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [26.50, -8.50],
     name: { de: "Upemba-See", hu: "Upemba-tó", ro: "Lacul Upemba", en: "Lake Upemba"},
-    image: "/poi-images/upemba-lake-nature-v2.webp",
     description: { de: "Der Upemba-See liegt im Herzen des gleichnamigen Nationalparks und ist Teil eines weitläufigen Sumpf- und Seensystems.", hu: "Sekély tó Katanga tartományban, amely az azonos nevű nemzeti park szívében található.", ro: "Lac situat în inima unei depresiuni complexe, înconjurat de mlaștini și savane bogate în faună.", en: "Lake Upemba is a large shallow lake in the Katanga region, part of a vast wetland system within the Upemba National Park." , es: "El lago Upemba se encuentra en el corazón del parque nacional del mismo nombre y forma parte de un extenso sistema de pantanos y lagos.", pt: "O lago Upemba está localizado no coração do parque nacional com o mesmo nome e faz parte de um vasto sistema de pântanos e lagos.", fr: "Le lac Upemba est situé au cœur du parc national du même nom et fait partie d'un vaste système de marécages et de lacs."},
     facts: {
       de: ["Teil eines großen Seensystems", "Im Upemba-Nationalpark", "Reich an Wasservögeln"],
@@ -346,7 +339,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [29.80, 0.40],
     name: { de: "Ruwenzori-Gebirge", hu: "Ruwenzori-hegység", ro: "Munții Ruwenzori", en: "Ruwenzori Mountains"},
-    image: "/poi-images/ruwenzori-mountains-nature-v2.webp",
     description: { de: "Die Ruwenzori-Berge, auch bekannt als 'Mondberge', sind eines der höchsten Gebirgsmassive Afrikas und beherbergen ewiges Eis direkt am Äquator.", hu: "A „Hold hegységeként” is ismert hófödte hegylánc az ugandai határon.", ro: "Cunoscuți sub numele de 'Munții Lunii', acești munți adăpostesc singurii ghețari din zona ecuatorială a Africii.", en: "The Ruwenzori Mountains, or 'Mountains of the Moon', are a range of snow-capped peaks on the border with Uganda." , es: "Las montañas Ruwenzori, también conocidas como las 'Montañas de la Luna', son uno de los macizos más altos de África y albergan hielos perpetuos en pleno ecuador.", pt: "As montanhas Ruwenzori, também conhecidas como 'Montanhas da Lua', são um dos maciços mais altos da África e abrigam gelo eterno diretamente no equador.", fr: "Les monts Rwenzori, également connus sous le nom de « montagnes de la Lune », constituent l'un des massifs les plus élevés d'Afrique et abritent des neiges éternelles à l'équateur."},
     facts: {
       de: ["Höchstes Gebirge des Kongo", "Gletscher am Äquator", "UNESCO-Welterbe"],
@@ -382,7 +374,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [20.00, 0.00],
     name: { de: "Kongobecken", hu: "Kongó-medence", ro: "Bazinul Congo", en: "Congo Basin"},
-    image: "/poi-images/congo-basin-nature-v2.webp",
     description: { de: "Das weltweit zweitgrößte tropische Regenwaldgebiet.", hu: "A világ második legnagyobb összefüggő trópusi esőerdője, a Föld „második tüdeje”.", ro: "Al doilea cel mai mare bazin hidrografic din lume, acoperit de 'plămânul verde' al continentului african.", en: "The Congo Basin is the second-largest tropical rainforest in the world, playing a crucial role in global climate regulation." , es: "La segunda zona de selva tropical más grande del mundo.", pt: "A segunda maior área de floresta tropical do mundo.", fr: "La deuxième plus grande zone de forêt tropicale au monde."},
     facts: {
       de: ["Großer Regenwald", "Hohe Artenvielfalt", "Wichtiger Klimafaktor", "Riesiges Becken"],
@@ -418,7 +409,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [27.00, -5.80],
     name: { de: "Lukuga", hu: "Lukuga folyó", ro: "Râul Lukuga", en: "Lukuga River"},
-    image: "/poi-images/lukuga-river-nature-v2.webp",
     description: { de: "Der Lukuga-Fluss ist der einzige Abfluss des Tanganjikasees und mündet nach seinem Lauf durch den Osten des Landes in den Lualaba.", hu: "A Tanganyika-tó egyetlen lefolyása, amely a Lualaba-folyóba torkollik.", ro: "Singura ieșire a lacului Tanganyika.", en: "The Lukuga River is the only outlet of Lake Tanganyika, flowing west to join the Lualaba River." , es: "El río Lukuga es el único desagüe del lago Tanganica y desemboca en el Lualaba tras su recorrido por el este del país.", pt: "O rio Lukuga é o único escoadouro do lago Tanganica e desagua no Lualaba após o seu curso pelo leste do país.", fr: "La rivière Lukuga est le seul émissaire du lac Tanganyika et se jette dans le Lualaba après son cours à travers l'est du pays."},
     facts: {
       de: ["Einziger Abfluss des Tanganjikasees", "Nebenfluss des Lualaba", "Wichtige geografische Verbindung"],
@@ -454,7 +444,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [29.60, -0.20],
     name: { de: "Eduardsee", hu: "Edward-tó", ro: "Lacul Edward", en: "Lake Edward"},
-    image: "/poi-images/edward-lake-nature-v2.webp",
     description: { de: "Der Edwardsee liegt im Albert-Graben und ist bekannt für seinen Fischreichtum und die zahlreichen Nilpferde an seinen Ufern.", hu: "Az afrikai Nagy-tavak legkisebb tagja, amelyen az ország Ugandával osztozik.", ro: "Un lac tectonic situat în Marele Rift African, faimos pentru bogăția sa în pește și numeroșii hipopotami.", en: "Lake Edward is one of the African Great Lakes, located within the Virunga National Park and shared with Uganda." , es: "El lago Eduardo está situado en el Rift Alberto y es conocido por su riqueza pesquera y los numerosos hipopótamos en sus orillas.", pt: "O Lago Eduardo situa-se no Rift de Alberto e é conhecido pela sua riqueza de peixes e pelos numerosos hipopótamos nas suas margens.", fr: "Le lac Édouard est situé dans le rift Albertin et est connu pour sa richesse en poissons et les nombreux hippopotames sur ses rives."},
     facts: {
       de: ["Teil des Virunga-Nationalparks", "Grenzsee zu Uganda", "Bedeutendes Vogelschutzgebiet"],
@@ -490,7 +479,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [17.50, 0.50],
     name: { de: "Ubangi", hu: "Ubangi folyó", ro: "Râul Ubangi", en: "Ubangi River"},
-    image: "/poi-images/ubangi-river-nature-v2.webp",
     description: { de: "Der Ubangi ist der größte nördliche Nebenfluss des Kongos und bildet über weite Strecken die Grenze zur Zentralafrikanischen Republik.", hu: "A Kongó-folyó legnagyobb északi mellékfolyója, természetes határt képez több ország között.", ro: "Principalul afluent de pe partea dreaptă a fluviului Congo, formând granița de nord a țării.", en: "The Ubangi River is the largest right-bank tributary of the Congo River, forming the northern border with the CAR." },
     facts: {
       de: ["Wichtigster Nord-Nebenfluss", "Grenzfluss", "Bedeutende Wasserstraße"],
@@ -517,7 +505,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [13.00, -4.50],
     name: { de: "Niari", hu: "Niari folyó", ro: "Râul Niari", en: "Niari River"},
-    image: "/poi-images/niari-river-nature-v2.webp",
     description: { de: "Der Niari ist ein bedeutender Fluss im Westen des Kongobeckens, der durch fruchtbare Täler fließt.", hu: "Folyó a régióban, amely fontos szerepet játszik a helyi ökoszisztémák fenntartásában.", ro: "Râu important din vest, cunoscut sub numele de Kouilou în Republica Congo, drenând zone fertile.", en: "The Niari River, known as the Kouilou in the Republic of the Congo, flows through the western regions of the country." , es: "El Niari es un río importante en el oeste de la cuenca del Congo que fluye a través de valles fértiles.", pt: "O Niari é um rio importante no oeste da bacia do Congo, que flui através de vales férteis.", fr: "Le Niari est un fleuve important de l'ouest du bassin du Congo, coulant à travers des vallées fertiles."},
     facts: {
       de: ["Fluss im Westen", "Landwirtschaftlich wichtiges Tal", "Nebenfluss des Kouilou-Niari"],
@@ -553,7 +540,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [30.50, 1.50],
     name: { de: "Albertsee", hu: "Albert-tó", ro: "Lacul Albert", en: "Lake Albert"},
-    image: "/poi-images/albert-lake-nature-v2.webp",
     description: { de: "Der Albertsee ist der nördlichste der großen Seen im Ostafrikanischen Grabenbruch und ein Zentrum für Fischerei und Ölförderung.", hu: "Az afrikai Nagy-tavak egyike, amely az ország északkeleti határán fekszik.", ro: "Lac situat în nordul Riftului Albertin, un centru important pentru pescuit și resurse de petrol.", en: "Lake Albert is a large freshwater lake in the Albertine Rift, forming part of the border between the DR Congo and Uganda." , es: "El lago Alberto es el más septentrional de los grandes lagos del Gran Valle del Rift y un centro de pesca y extracción de petróleo.", pt: "O lago Alberto é o mais setentrional dos grandes lagos do Vale do Rift e um centro de pesca e extração de petróleo.", fr: "Le lac Albert est le plus septentrional des grands lacs de la vallée du Grand Rift et un centre pour la pêche et l'exploitation pétrolière."},
     facts: {
       de: ["Grenzsee zu Uganda", "Fischreich", "Bedeutende Erdölvorkommen"],
@@ -589,7 +575,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [24.50, -1.00],
     name: { de: "Lomami", hu: "Lomami folyó", ro: "Râul Lomami", en: "Lomami River"},
-    image: "/poi-images/lomami-river-nature-v2.webp",
     description: { de: "Der Lomami-Fluss schlängelt sich durch die dichten Regenwälder des Zentrums und ist Namensgeber für einen der jüngsten Nationalparks des Landes.", hu: "A Kongó-folyó egyik jelentős bal oldali mellékfolyója, amely észak felé tart a dzsungelen át.", ro: "Un afluent major de stânga al fluviului Congo, care curge aproape paralel cu fluviul principal prin junglă.", en: "The Lomami River is a major left-bank tributary of the Congo River, flowing north through the central part of the country." , es: "El río Lomami serpentea a través de las densas selvas del centro y da nombre a uno de los parques nacionales más recientes del país.", pt: "O Rio Lomami serpenteia através das densas florestas tropicais do centro e dá o nome a um dos parques nacionais mais recentes do país.", fr: "La rivière Lomami serpente à travers les denses forêts tropicales du centre et a donné son nom à l'un des parcs nationaux les plus récents du pays."},
     facts: {
       de: ["Langer Nebenfluss des Kongo", "Durchfließt dichten Regenwald", "Naturbelassener Lauf"],
@@ -625,7 +610,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [17.50, -4.50],
     name: { de: "Kwango", hu: "Kwango folyó", ro: "Râul Kwango", en: "Kwango River"},
-    image: "/poi-images/kwango-river-nature-v2.webp",
     description: { de: "Der Kwango ist ein bedeutender linker Nebenfluss des Kasai und entspringt im Hochland von Angola, bevor er die Grenze zum Kongo überquert.", hu: "Nagy határfolyó az ország és Angola között, a Kasaï-rendszer része.", ro: "Râu transfrontalier care izvorăște din Angola și traversează regiunile de sud-vest ale RDC.", en: "The Kwango River is a major tributary of the Kasai River, forming part of the international border with Angola." , es: "El Cuango es un importante afluente por la izquierda del Kasai y nace en las tierras altas de Angola antes de cruzar la frontera con el Congo.", pt: "O Cuango é um importante afluente pela esquerda do Cassai e nasce no planalto de Angola antes de cruzar a fronteira com o Congo.", fr: "Le Kwango est un affluent de rive gauche majeur du Kasaï et prend sa source dans les hauts plateaux de l'Angola avant de franchir la frontière avec le Congo."},
     facts: {
       de: ["Grenzfluss zu Angola", "Nebenfluss des Kasai", "Reich an spektakulären Wasserfällen"],
@@ -661,7 +645,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [19.00, -0.50],
     name: { de: "Tshuapa", hu: "Tshuapa folyó", ro: "Râul Tshuapa", en: "Tshuapa River"},
-    image: "/poi-images/tshuapa-river-nature-v2.webp",
     description: { de: "Der Tshuapa-Fluss fließt durch das Herz des zentralen Kongobeckens und ist eine lebenswichtige Wasserstraße für den Transport in abgelegene Waldgebiete.", hu: "Folyó a Kongó-medence szívében, amely kanyargós úton szeli át az esőerdőt.", ro: "Curs de apă care șerpuiește prin inima pădurii tropicale centrale, un afluent important al râului Ruki.", en: "The Tshuapa River flows through the heart of the central rainforest, serving as a primary transportation route for the region." , es: "El río Tshuapa fluye a través del corazón de la cuenca central del Congo y es una vía fluvial vital para el transporte hacia zonas forestales remotas.", pt: "O rio Tshuapa corre pelo coração da bacia central do Congo e é uma via fluvial vital para o transporte para áreas florestais remotas.", fr: "La rivière Tshuapa coule au cœur du bassin central du Congo et constitue une voie navigable vitale pour le transport vers les zones forestières reculées."},
     facts: {
       de: ["Wasserstraße im Regenwald", "In der Provinz Tshuapa", "Bedeutendes Ökosystem"],
@@ -697,7 +680,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [28.50, -9.00],
     name: { de: "Mwerusee", hu: "Mweru-tó", ro: "Lacul Mweru", en: "Lake Mweru"},
-    image: "/poi-images/mweru-lake-nature-v2.webp",
     description: { de: "Der Mwerusee liegt an der Grenze zu Sambia und ist bekannt für seine reichen Fischbestände, die die Bevölkerung der umliegenden Regionen versorgen.", hu: "Sekély édesvízi tó az ország délkeleti határán, amelyen Zambiával osztozik.", ro: "Lac situat la granița cu Zambia, alimentat de râul Luapula și cunoscut pentru satele sale de pescari.", en: "Lake Mweru is a large freshwater lake on the border with Zambia, known for its abundant fish and vibrant lakefront communities." , es: "El lago Mweru se encuentra en la frontera con Zambia y es conocido por sus ricas poblaciones de peces, que abastecen a la población de las regiones circundantes.", pt: "O lago Mweru situa-se na fronteira com a Zâmbia e é conhecido pelas suas ricas populações de peixe, que abastecem a população das regiões circundantes.", fr: "Le lac Moero est situé à la frontière avec la Zambie et est réputé pour ses ressources halieutiques abondantes qui nourrissent les populations des régions environnantes."},
     facts: {
       de: ["Grenzsee zu Sambia", "Bedeutendes Fischereigebiet", "Vom Luapula-Fluss gespeist"],
@@ -733,7 +715,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [23.50, -4.50],
     name: { de: "Sankuru", hu: "Sankuru folyó", ro: "Râul Sankuru", en: "Sankuru River"},
-    image: "/poi-images/sankuru-river-nature-v2.webp",
     description: { de: "Der Sankuru ist ein langer Nebenfluss des Kasai, der durch weite Wald- und Savannengebiete im Zentrum des Landes fließt.", hu: "A Kasaï-folyó leghosszabb mellékfolyója, amely az ország középső részén halad át.", ro: "Principalul afluent al râului Kasai, traversând regiuni cu păduri dense și plantații de bumbac.", en: "The Sankuru River is the longest tributary of the Kasai River, flowing through the dense forests and savannas of central DR Congo." , es: "El Sankuru es un largo afluente del Kasai que fluye a través de extensas zonas de bosque y sabana en el centro del país.", pt: "O Sankuru é um longo afluente do Kasai, que flui através de vastas áreas de floresta e savana no centro do país.", fr: "Le Sankuru est un long affluent du Kasai, coulant à travers de vastes zones de forêt et de savane au centre du pays."},
     facts: {
       de: ["Nebenfluss des Kasai", "Wichtig für die lokale Schifffahrt", "Namensgeber der Provinz Sankuru"],
@@ -769,7 +750,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [17.00, -3.50],
     name: { de: "Kwilu", hu: "Kwilu folyó", ro: "Râul Kwilu", en: "Kwilu River"},
-    image: "/poi-images/kwilu-river-nature-v2.webp",
     description: { de: "Der Kwilu-Fluss durchquert die gleichnamige Provinz im Südwesten und ist ein wichtiger Transportweg für landwirtschaftliche Erzeugnisse.", hu: "A Kwango-folyó mellékfolyója, amely az ország nyugati részén kanyarog.", ro: "Râu situat în vestul țării, traversând provincia cu același nume, esențial pentru transportul agricol.", en: "The Kwilu River is a major tributary in the western part of the country, flowing through the fertile Bandundu region." , es: "El río Kwilu atraviesa la provincia homónima en el suroeste y es una importante ruta de transporte para productos agrícolas.", pt: "O Rio Cuilo atravessa a província homónima no sudoeste e é uma importante rota de transporte para produtos agrícolas.", fr: "La rivière Kwilu traverse la province du même nom au sud-ouest et constitue une voie de transport majeure pour les produits agricoles."},
     facts: {
       de: ["Nebenfluss des Kwango", "Zentrum der Provinz Kwilu", "Bedeutender Transportweg"],
@@ -805,7 +785,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [16.00, 1.50],
     name: { de: "Sangha", hu: "Sangha folyó", ro: "Râul Sangha", en: "Sangha River"},
-    image: "/poi-images/sangha-river-nature-v2.webp",
     description: { de: "Der Sangha-Fluss bildet einen Teil der Grenze zwischen dem Kongo, Kamerun und der Zentralafrikanischen Republik und fließt durch unberührte Urwälder.", hu: "A Kongó-folyó mellékfolyója, amely három ország határvidékét érinti.", ro: "Un afluent major al fluviului Congo, formând un coridor de biodiversitate între RDC, Camerun și RCA.", en: "The Sangha River is a tributary of the Congo River that forms part of the international borders between the DR Congo, CAR, and Cameroon." },
     facts: {
       de: ["Grenzfluss im Dreiländereck", "Nebenfluss des Kongo", "Teil eines UNESCO-Weltnaturerbes"],
@@ -832,7 +811,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [28.00, 1.20],
     name: { de: "Ituri", hu: "Ituri folyó", ro: "Râul Ituri", en: "Ituri River"},
-    image: "/poi-images/ituri-river-nature-v2.webp",
     description: { de: "Der Ituri-Fluss ist berühmt für den ihn umgebenden Ituri-Regenwald, in dem das seltene Okapi beheimatet ist.", hu: "Az Ituri-esőerdő névadó folyója, amely az Aruwimi-folyó felső szakaszát alkotja.", ro: "Râu situat în nord-estul țării, traversând celebra pădure Ituri, habitatul populațiilor de pigmei Mbuti.", en: "The Ituri River flows through the famous Ituri Rainforest, known for its incredible biodiversity and indigenous cultures." , es: "El río Ituri es famoso por la selva de Ituri que lo rodea, donde habita el raro okapi.", pt: "O Rio Ituri é famoso pela floresta de Ituri que o rodeia, onde habita o raro ocapis.", fr: "La rivière Ituri est célèbre pour la forêt de l'Ituri qui l'entoure, où vit le rare okapi."},
     facts: {
       de: ["Fluss im Ituri-Regenwald", "Heimat des Okapis", "Oberlauf des Aruwimi-Flusses"],
@@ -868,7 +846,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [18.00, -5.00],
     name: { de: "Wamba", hu: "Wamba folyó", ro: "Râul Wamba", en: "Wamba River"},
-    image: "/poi-images/wamba-river-nature-v2.webp",
     description: { de: "Der Wamba-Fluss ist ein Nebenfluss des Kwango und fließt durch die hügelige Landschaft im Südwesten des Landes.", hu: "Folyó az ország nyugati részén, amely a Kwango-folyóba torkollik.", ro: "Râu în vestul RDC, afluent al Kwango, curgând prin zone de pădure tropicală și savană.", en: "The Wamba River is a tributary of the Kwango River, flowing through the southwestern savannas and forests." , es: "El río Wamba es un afluente del Kwango y fluye a través del paisaje montañoso del suroeste del país.", pt: "O rio Wamba é um afluente do Kwango e corre através da paisagem montanhosa no sudoeste do país.", fr: "La rivière Wamba est un affluent du Kwango et coule à travers le paysage vallonné du sud-ouest du pays."},
     facts: {
       de: ["Nebenfluss des Kwango", "In der Region Grand Bandundu", "Naturbelassener Flusslauf"],
@@ -904,7 +881,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [27.00, -9.00],
     name: { de: "Lufira", hu: "Lufira folyó", ro: "Râul Lufira", en: "Lufira River"},
-    image: "/poi-images/lufira-river-nature-v2.webp",
     description: { de: "Der Lufira ist ein bedeutender Fluss in der Provinz Haut-Katanga, dessen Wasser für die Stromerzeugung und den Bergbau genutzt wird.", hu: "A Lualaba-folyó mellékfolyója Katanga tartományban.", ro: "Râu din Katanga, faimos pentru biosfera sa unică și rolul în producerea energiei hidroelectrice.", en: "The Lufira River flows through the Katanga region and is notable for its role in hydroelectric power generation and mining." , es: "El Lufira es un río importante de la provincia de Alto Katanga, cuyas aguas se utilizan para la generación de electricidad y la minería.", pt: "O Lufira é um rio importante na província de Haut-Katanga, cujas águas são utilizadas para a geração de eletricidade e mineração.", fr: "La Lufira est une rivière importante de la province du Haut-Katanga, dont les eaux sont utilisées pour la production d'électricité et l'exploitation minière."},
     facts: {
       de: ["Nebenfluss des Lualaba", "Wichtig für Wasserkraft", "Durchfließt die Region Katanga"],
@@ -940,7 +916,6 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     parent: "CD-XX",
     coords: [28.90, -10.10],
     name: { de: "Luapula", hu: "Luapula folyó", ro: "Râul Luapula", en: "Luapula River"},
-    image: "/poi-images/luapula-river-2-nature-v2.webp",
     description: { de: "Dieser Abschnitt des Luapula-Flusses prägt die wasserreiche Landschaft an der Grenze zu Sambia und ist lebenswichtig für die lokale Fischerei.", hu: "A régió fontos vízi útja, amely hozzájárul a terület hidrológiai egyensúlyához.", ro: "Secțiune a râului Luapula cunoscută pentru mlaștinile sale vaste și ecosistemele de câmpie inundabilă.", en: "The lower Luapula River system continues to define the border and support local ecosystems before entering the Congo's main basin." , es: "Este tramo del río Luapula define el paisaje acuático en la frontera con Zambia y es vital para la pesca local.", pt: "Esta secção do rio Luapula molda a paisagem aquática na fronteira com a Zâmbia e é vital para a pesca local.", fr: "Cette section de la rivière Luapula façonne le paysage aquatique à la frontière avec la Zambie et est vitale pour la pêche locale."},
     facts: {
       de: ["Grenzflussregion", "Bedeutendes Feuchtgebiet", "Fischreiches Gewässer"],

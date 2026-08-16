@@ -12,7 +12,6 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: "Arul Mihu Navasakthi Vinayagar hindu templom",
       ro: "Templul Arul Mihu Navasakthi Vinayagar",
       en: "Arul Mihu Navasakthi Vinayagar Temple"},
-    image: "/poi-images/arul-mihu-temple-landmarks-v2.webp",
     description: {
       de: "Der einzige Hindutempel auf den Seychellen, bekannt für seinen farbenfrohen und kunstvoll verzierten Turm (Gopuram) im Herzen von Victoria.",
       hu: "A Seychelle-szigetek egyetlen hindu temploma, amely színes és művészien díszített tornyáról (Gopuram) ismert Victoria szívében.",
@@ -60,7 +59,6 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: "A Nemzeti Gyűlés épülete",
       ro: "Clădirea Adunării Naționale",
       en: "National Assembly Building"},
-    image: "/poi-images/national-assembly-landmarks-v2.webp",
     description: {
       de: "Das moderne Gebäude der Nationalversammlung der Seychellen auf der künstlichen Insel Ile du Port, das die Legislative des Landes beherbergt.",
       hu: "A Seychelle-szigetek Nemzeti Gyűlésének modern épülete az Ile du Port mesterséges szigeten, amely az ország törvényhozásának ad otthont.",
@@ -83,7 +81,6 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: "Igazságügyi Palota",
       ro: "Palatul de Justiție",
       en: "Palais de Justice"},
-    image: "/poi-images/palais-de-justice-landmarks-v2.webp",
     description: {
       de: "Der imposante Justizpalast auf Ile du Port beherbergt den Obersten Gerichtshof und das Berufungsgericht der Seychellen.",
       hu: "Az Ile du Port szigeten található impozáns Igazságügyi Palota ad otthont a Seychelle-szigetek Legfelsőbb Bíróságának és a Fellebbviteli Bíróságnak.",
@@ -131,7 +128,6 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: "Stade Linité nemzeti stadion",
       ro: "Stadionul Național Linité",
       en: "Stade Linité"},
-    image: "/poi-images/stade-linite-landmarks-v2.webp",
     description: {
       de: "Das Nationalstadion der Seychellen in Roche Caiman, das hauptsächlich für Fußballspiele und Leichtathletik genutzt wird.",
       hu: "A Seychelle-szigetek nemzeti stadionja Roche Caimanban, amelyet főként labdarúgó-mérkőzésekre és atlétikai versenyekre használnak.",
@@ -179,7 +175,6 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: "Eden Plaza",
       ro: "Eden Plaza",
       en: "Eden Plaza"},
-    image: "/poi-images/eden-plaza-landmarks-v2.webp",
     description: {
       de: "Das modernste Einkaufs- und Lifestyle-Zentrum der Seychellen auf Eden Island, bekannt für seine gehobene Architektur und den Blick auf den Yachthafen.",
       hu: "A Seychelle-szigetek legmodernebb bevásárló- és életmódközpontja az Eden-szigeten, amely igényes építészetéről és a jachtkikötőre nyíló kilátásáról ismert.",
@@ -275,7 +270,6 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: "Nemzetközi Konferencia-központ (ICCS)",
       ro: "Centrul Internațional de Conferințe (ICCS)",
       en: "International Conference Centre Seychelles (ICCS)"},
-    image: "/poi-images/iccs-victoria-landmarks-v2.webp",
     description: {
       de: "Das wichtigste Zentrum für nationale und internationale Veranstaltungen und Konferenzen in Victoria.",
       hu: "Victoria legfontosabb központja a nemzeti és nemzetközi események és konferenciák számára.",
@@ -371,7 +365,6 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: "Victoriai mecset",
       ro: "Moscheea din Victoria",
       en: "Victoria Mosque"},
-    image: "/poi-images/victoria-mosque-landmarks-v2.webp",
     description: {
       de: "Die einzige Moschee in Victoria, ein elegantes religiöses Bauwerk, das die religiöse Vielfalt der Seychellen widerspiegelt.",
       hu: "Victoria egyetlen mecsetje, egy elegáns vallási épület, amely a Seychelle-szigetek vallási sokszínűségét tükrözi.",
@@ -419,7 +412,6 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: "Függetlenség Háza",
       ro: "Independence House",
       en: "Independence House"},
-    image: "/poi-images/independence-house-landmarks-v2.webp",
     description: {
       de: "Ein bedeutendes Verwaltungsgebäude in Victoria, das verschiedene Regierungsabteilungen und Ministerien beherbergt.",
       hu: "Fontos közigazgatási épület Victoriában, amely számos kormányzati szervnek és minisztériumnak ad otthont.",
@@ -467,7 +459,6 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: "Maison Quéau de Quinssy",
       ro: "Maison Quéau de Quinssy",
       en: "Maison Quéau de Quinssy"},
-    image: "/poi-images/maison-queau-quinssy-landmarks-v2.webp",
     description: {
       de: "Das Gebäude des Außenministeriums der Seychellen, benannt nach dem letzten französischen Kommandanten der Inseln.",
       hu: "A Seychelle-szigetek Külügyminisztériumának épülete, amelyet a szigetek utolsó francia parancsnokáról neveztek el.",
@@ -515,7 +506,6 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: "Assisi Szent Ferenc-templom",
       ro: "Biserica Sfântul Francisc de Assisi",
       en: "St. Francis of Assisi Church"},
-    image: "/poi-images/st-francis-assisi-baie-lazare-landmarks-v2.webp",
     description: {
       de: "Eine markante katholische Kirche in Baie Lazare, bekannt für ihre gotisch anmutende Architektur und ihre Lage im Grünen.",
       hu: "Jellegzetes katolikus templom Baie Lazare-ban, amely gótikus hatású építészetéről és zöld környezetéről ismert.",
@@ -563,7 +553,6 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: "Szent József-templom (Praslin)",
       ro: "Biserica Sfântul Iosif (Praslin)",
       en: "St. Joseph's Church (Praslin)"},
-    image: "/poi-images/st-joseph-church-praslin-landmarks-v2.webp",
     description: {
       de: "Die katholische Hauptkirche in Grand Anse auf der Insel Praslin, ein zentraler Ort des Glaubens für die Inselbewohner.",
       hu: "Grand Anse fő katolikus temploma Praslin szigetén, a hitélet központi helyszíne a szigetlakók számára.",
@@ -611,7 +600,6 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: "Szent Mária-templom (La Digue)",
       ro: "Biserica Sfânta Maria (La Digue)",
       en: "St. Mary's Church (La Digue)"},
-    image: "/poi-images/st-mary-church-la-digue-landmarks-v2.webp",
     description: {
       de: "Die malerische katholische Kirche auf La Digue, die für ihre schlichte Schönheit und ihre Bedeutung für die lokale Gemeinschaft bekannt ist.",
       hu: "Festői katolikus templom La Digue szigetén, amely egyszerű szépségéről és a helyi közösség számára betöltött fontos szerepéről ismert.",
@@ -659,7 +647,6 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: "Denis-szigeti világítótorony",
       ro: "Farul de pe Insula Denis",
       en: "Denis Island Lighthouse"},
-    image: "/poi-images/denis-island-lighthouse-landmarks-v2.webp",
     description: {
       de: "Ein historischer Leuchtturm aus dem Jahr 1910, der Schiffen am nördlichen Rand der Seychellen-Bank als Orientierung dient.",
       hu: "1910-ből származó történelmi világítótorony, amely a hajók tájékozódását segíti a Seychelle-pad északi peremén.",
@@ -707,7 +694,6 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: "Victoriai tornacsarnok",
       ro: "Gimnaziul din Victoria",
       en: "Victoria Gymnasium"},
-    image: "/poi-images/victoria-gymnasium-landmarks-v2.webp",
     description: {
       de: "Eine zentrale Sportstätte in Victoria, die für Hallensportarten und verschiedene Gemeinschaftsveranstaltungen genutzt wird.",
       hu: "Központi sportlétesítmény Victoriában, amelyet teremsportokhoz és különféle közösségi eseményekhez használnak.",
@@ -755,7 +741,6 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: "Sportpalota (Palais des Sports)",
       ro: "Palais des Sports",
       en: "Palais des Sports"},
-    image: "/poi-images/palais-des-sports-landmarks-v2.webp",
     description: {
       de: "Die größte Sporthalle der Seychellen in Roche Caiman, Austragungsort für internationale Wettkämpfe und kulturelle Events.",
       hu: "A Seychelle-szigetek legnagyobb sportcsarnoka Roche Caimanban, nemzetközi versenyek és kulturális események helyszíne.",
@@ -851,7 +836,6 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: "Roche Caiman-i úszókomplexum",
       ro: "Complexul de natație Roche Caiman",
       en: "Roche Caiman Swimming Pool Complex"},
-    image: "/poi-images/roche-caiman-swimming-pool-landmarks-v2.webp",
     description: {
       de: "Der nationale Schwimmkomplex der Seychellen mit olympischen Becken für Training und Wettkämpfe.",
       hu: "A Seychelle-szigetek nemzeti úszókomplexuma olimpiai méretű medencékkel az edzésekhez és versenyekhez.",
@@ -899,7 +883,6 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: "Béke-emlékmű",
       ro: "Monumentul Păcii",
       en: "Peace Memorial"},
-    image: "/poi-images/peace-memorial-victoria-landmarks-v2.webp",
     description: {
       de: "Ein Denkmal in Victoria, das dem Frieden und der Einheit des seychellischen Volkes gewidmet ist.",
       hu: "Emlékmű Victoriában, amelyet a seychelle-szigeteki nép békéjének és egységének szenteltek.",
@@ -995,7 +978,6 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: "Marine Charter épület",
       ro: "Clădirea Marine Charter",
       en: "Marine Charter Building"},
-    image: "/poi-images/marine-charter-building-landmarks-v2.webp",
     description: {
       de: "Ein bekanntes Gebäude am Hafen von Victoria, das als Zentrum für Bootscharter und Hochseeangeln dient.",
       hu: "Ismert épület Victoria kikötőjében, amely a hajóbérlés és a mélytengeri horgászat központjaként szolgál.",
@@ -1043,7 +1025,6 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: "Szabadság tér (Freedom Square)",
       ro: "Piața Libertății (Freedom Square)",
       en: "Freedom Square"},
-    image: "/poi-images/freedom-square-victoria-landmarks-v2.webp",
     description: {
       de: "Ein zentraler öffentlicher Platz in Victoria, der oft für nationale Feierlichkeiten und Kundgebungen genutzt wird.",
       hu: "Központi nyilvános tér Victoriában, amelyet gyakran használnak nemzeti ünnepségek és gyűlések helyszíneként.",

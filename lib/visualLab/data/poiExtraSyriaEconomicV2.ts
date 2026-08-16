@@ -53,7 +53,6 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     parent: "SY-TA",
     coords: [35.95, 35.21],
     name: { de: "Raffinerie Baniyas", hu: "Banjász Finomító", ro: "Rafinăria Baniyas", en: "Baniyas Refinery"},
-    image: "/poi-images/baniyas-refinery-economic-v2.webp",
     description: { de: "Eine der größten Erdölraffinerien Syriens an der Mittelmeerküste, die für die Energieversorgung des Landes von zentraler Bedeutung ist.", hu: "Szíria egyik legnagyobb kőolajfinomítója a Földközi-tenger partján, amely központi jelentőségű az ország energiaellátásában.", ro: "Una dintre cele mai mari rafinării de petrol din Siria, pe coasta mediteraneană, cu o importanță centrală pentru aprovizionarea cu energie a țării.", en: "One of Syria's largest oil refineries on the Mediterranean coast, central to the country's energy supply." , es: "Una de las mayores refinerías de petróleo de Siria, situada en la costa mediterránea, crucial para el suministro energético del país.", pt: "Uma das maiores refinarias de petróleo da Síria, situada na costa mediterrânica, crucial para o abastecimento energético do país.", fr: "L'une des plus grandes raffineries de pétrole de Syrie, située sur la côte méditerranéenne, cruciale pour l'approvisionnement énergétique du pays."},
     facts: {
       de: ["Wurde 1964 in Betrieb genommen.", "Wichtiger Knotenpunkt für Rohölexporte.", "Befindet sich nördlich von Tartus.", "Verarbeitet sowohl lokales als auch importiertes Öl."],
@@ -422,7 +421,6 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     parent: "SY-HO",
     coords: [36.68, 34.72],
     name: { de: "Raffinerie Homs", hu: "Homsz Finomító", ro: "Rafinăria Homs", en: "Homs Refinery"},
-    image: "/poi-images/homs-refinery-economic-v2.webp",
     description: { de: "Die älteste Raffinerie Syriens, die im Zentrum des Landes liegt und hauptsächlich für den inländischen Kraftstoffbedarf produziert.", hu: "Szíria legrégebbi finomítója, amely az ország központjában fekszik, és főként a hazai üzemanyagigényt elégíti ki.", ro: "Cea mai veche rafinărie din Siria, situată în centrul țării, care produce în principal pentru necesarul intern de combustibil.", en: "Syria's oldest refinery, located in the center of the country, producing mainly for domestic fuel needs." , es: "La refinería más antigua de Siria, situada en el centro del país, que produce principalmente para satisfacer la demanda interna de combustible.", pt: "A refinaria mais antiga da Síria, localizada no centro do país, que produz principalmente para atender à demanda interna de combustível.", fr: "La plus ancienne raffinerie de Syrie, située au centre du pays, qui produit principalement pour répondre à la demande intérieure en carburant."},
     facts: {
       de: ["1959 erbaut und mehrfach erweitert.", "Versorgt die zentralen und südlichen Provinzen.", "Wurde während des Konflikts beschädigt.", "Verfügt über ein eigenes Kraftwerk."],
@@ -575,7 +573,6 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     parent: "SY-LA",
     coords: [35.77, 35.53],
     name: { de: "Hafen von Latakia", hu: "Latakia Kikötője", ro: "Portul Latakia", en: "Port of Latakia"},
-    image: "/poi-images/port-of-latakia-economic-v2.webp",
     description: { de: "Der größte und wichtigste Seehafen Syriens am Mittelmeer, der den Hauptteil des internationalen Handels des Landes abwickelt.", hu: "Szíria legnagyobb és legfontosabb tengeri kikötője a Földközi-tengeren, amely az ország nemzetközi kereskedelmének nagy részét bonyolítja.", ro: "Cel mai mare și mai important port maritim al Siriei la Marea Mediterană, care gestionează cea mai mare parte a comerțului internațional al țării.", en: "Syria's largest and most important seaport on the Mediterranean, handling the majority of the country's international trade." , es: "El puerto marítimo más grande e importante de Siria en el Mediterráneo, que gestiona la mayor parte del comercio internacional del país.", pt: "O maior e mais importante porto marítimo da Síria no Mediterrâneo, que processa a maior parte do comércio internacional do país.", fr: "Le port maritime le plus grand et le plus important de Syrie sur la Méditerranée, qui assure l'essentiel du commerce international du pays."},
     facts: {
       de: ["Besitzt ein großes Containerterminal.", "Wichtiges Tor für Importgüter.", "Direkt an das nationale Eisenbahnnetz angebunden.", "Wurde in den 1950er Jahren stark ausgebaut."],
@@ -728,7 +725,6 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     parent: "SY-RA",
     coords: [38.56, 35.83],
     name: { de: "Tabqa-Talsperre", hu: "Tabka-gát Erőműve", ro: "Barajul Tabqa", en: "Tabqa Dam Hydroelectric Plant"},
-    image: "/poi-images/tabqa-dam-hydroelectric-plant-economic-v2.webp",
     description: { de: "Der größte Staudamm Syriens am Euphrat, der den Assad-See staut und einen erheblichen Teil der elektrischen Energie des Landes erzeugt.", hu: "Szíria legnagyobb gátja az Eufráteszen, amely az Asszad-tavat duzzasztja, és az ország villamosenergiájának jelentős részét termeli.", ro: "Cel mai mare baraj din Siria pe Eufrat, care formează Lacul Assad și generează o parte semnificativă a energiei electrice a țării.", en: "Syria's largest dam on the Euphrates, which forms Lake Assad and generates a significant portion of the country's electrical energy." , es: "La presa más grande de Siria en el Éufrates, que embalsa el lago Assad y genera una parte considerable de la energía eléctrica del país.", pt: "A maior barragem da Síria no rio Eufrates, que represa o Lago Assad e gera uma parte significativa da energia elétrica do país.", fr: "Le plus grand barrage de Syrie sur l'Euphrate, qui retient le lac Assad et produit une part considérable de l'énergie électrique du pays."},
     facts: {
       de: ["Baubeginn war 1968, Fertigstellung 1973.", "Verfügt über acht Turbinen.", "Erzeugt bis zu 824 Megawatt Strom.", "Sichert auch die Bewässerung landwirtschaftlicher Flächen."],
@@ -917,7 +913,6 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     parent: "SY-HL",
     coords: [38.18, 36.38],
     name: { de: "Tischrin-Talsperre", hu: "Tisrin-gát Erőműve", ro: "Barajul Tishrin", en: "Tishrin Dam"},
-    image: "/poi-images/tishrin-dam-hydroelectric-plant-economic-v2.webp",
     description: { de: "Ein wichtiger Staudamm und Wasserkraftwerk am Euphrat, das sich nördlich der Tabqa-Talsperre in der Nähe von Manbidsch befindet.", hu: "Fontos gát és vízerőmű az Eufráteszen, amely a Tabka-gáttól északra, Manbidzs közelében található.", ro: "Un baraj și o hidrocentrală importantă pe Eufrat, situată la nord de Barajul Tabqa, lângă Manbij.", en: "An important dam and hydroelectric power plant on the Euphrates, located north of the Tabqa Dam near Manbij." , es: "Una importante presa y central hidroeléctrica en el Éufrates, situada al norte de la presa de Tabqa, cerca de Manbij.", pt: "Uma importante barragem e central hidroelétrica no rio Eufrates, localizada a norte da barragem de Tabqa, perto de Manbij.", fr: "Un barrage et une centrale hydroélectrique importants sur l'Euphrate, situés au nord du barrage de Tabqa, près de Manbij."},
     facts: {
       de: ["Wurde 1999 fertiggestellt.", "Besitzt eine Kapazität von 630 Megawatt.", "Der Stausee bedeckt über 160 Quadratkilometer.", "Wichtige Quelle für erneuerbare Energie in Nord-Syrien."],
@@ -1106,7 +1101,6 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     parent: "SY-RA",
     coords: [38.74, 35.86],
     name: { de: "Baath-Talsperre", hu: "Baasz-gát Erőműve", ro: "Barajul Baath", en: "Baath Dam"},
-    image: "/poi-images/baath-dam-economic-v2.webp",
     description: { de: "Eine Regulierungstalsperre am Euphrat unterhalb des Tabqa-Staudamms, die zur Stromerzeugung und zur Kontrolle des Wasserflusses dient.", hu: "Szabályozó gát az Eufráteszen a Tabka-gát alatt, amely áramtermelésre és a vízáramlás szabályozására szolgál.", ro: "Un baraj de reglare pe Eufrat, sub Barajul Tabqa, utilizat pentru generarea de energie și controlul debitului de apă.", en: "A regulating dam on the Euphrates below the Tabqa Dam, used for power generation and water flow control." , es: "Una represa reguladora en el Éufrates, situada debajo de la presa de Tabqa, que se utiliza para la generación eléctrica y el control del flujo de agua.", pt: "Uma barragem reguladora no Eufrates, situada abaixo da barragem de Tabqa, que é utilizada para a geração elétrica e o controlo do fluxo de água.", fr: "Un barrage régulateur sur l'Euphrate, situé en aval du barrage de Tabqa, utilisé pour la production d'électricité et le contrôle du débit d'eau."},
     facts: {
       de: ["Erzeugt 81 Megawatt Strom.", "Die Bauarbeiten endeten 1986.", "Verhindert Überschwemmungen stromabwärts.", "Unterstützt die lokale Landwirtschaft in Ar-Raqqa."],
@@ -1187,7 +1181,6 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     parent: "SY-DY",
     coords: [40.58, 35.03],
     name: { de: "Omar-Ölfeld", hu: "Omar Olajmező", ro: "Câmpul Petrolier Omar", en: "Omar Oil Field"},
-    image: "/poi-images/omar-oil-field-economic-v2.webp",
     description: { de: "Das größte und produktivste Ölfeld Syriens, gelegen im Gouvernement Deir ez-Zor in der Nähe der irakischen Grenze.", hu: "Szíria legnagyobb és legtermékenyebb olajmezője, amely a Deir ez-Zór kormányzóságban, az iraki határ közelében található.", ro: "Cel mai mare și mai productiv câmp petrolier din Siria, situat în guvernoratul Deir ez-Zor, aproape de granița cu Irakul.", en: "Syria's largest and most productive oil field, located in the Deir ez-Zor Governorate near the Iraqi border." , es: "El campo petrolífero más grande y productivo de Siria, situado en la gobernación de Deir ez-Zor, cerca de la frontera con Irak.", pt: "O campo petrolífero mais vasto e produtivo da Síria, localizado na província de Deir ez-Zor, perto da fronteira com o Iraque.", fr: "Le champ pétrolier le plus vaste et le plus productif de Syrie, situé dans le gouvernorat de Deir ez-Zor, près de la frontière avec l'Irak."},
     facts: {
       de: ["Wurde in den 1980er Jahren entdeckt.", "Hat eine strategische Bedeutung für die Wirtschaft.", "Verfügt über ein eigenes Gasverarbeitungswerk.", "Produzierte vor dem Krieg den Großteil des syrischen Öls."],
@@ -1223,7 +1216,6 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     parent: "SY-DY",
     coords: [40.35, 35.32],
     name: { de: "Conoco-Gasanlage", hu: "Conoco Gázüzem", ro: "Uzina de Gaze Conoco", en: "Conoco Gas Plant"},
-    image: "/poi-images/conoco-gas-plant-economic-v2.webp",
     description: { de: "Eine der größten Gasverarbeitungsanlagen Syriens, die im Osten des Landes liegt und Erdgas für die Stromerzeugung aufbereitet.", hu: "Szíria egyik legnagyobb gázfeldolgozó üzeme, amely az ország keleti részén található, és áramtermeléshez készít elő földgázt.", ro: "Una dintre cele mai mari uzine de procesare a gazelor din Siria, situată în estul țării, care pregătește gaze naturale pentru generarea de energie.", en: "One of Syria's largest gas processing plants, located in the east of the country, preparing natural gas for power generation." , es: "Una de las mayores plantas de procesamiento de gas en Siria, ubicada en el este del país, que prepara gas natural para la generación de energía.", pt: "Uma das maiores plantas de processamento de gás na Síria, localizada no leste do país, que prepara gás natural para a geração de energia.", fr: "L'une des plus grandes usines de traitement de gaz en Syrie, située dans l'est du pays, préparant le gaz naturel pour la production d'énergie."},
     facts: {
       de: ["Verarbeitet Gas aus den umliegenden Ölfeldern.", "Im Gouvernement Deir ez-Zor gelegen.", "Wurde von internationalen Energiekonzernen errichtet.", "Stellt Gas für syrische Kraftwerke bereit."],
@@ -1259,7 +1251,6 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     parent: "SY-HO",
     coords: [37.95, 34.82],
     name: { de: "Schaar-Gasfeld", hu: "Saar Gázmező", ro: "Câmpul de Gaze Shaer", en: "Shaer Gas Field"},
-    image: "/poi-images/shaer-gas-field-economic-v2.webp",
     description: { de: "Ein bedeutendes Erdgasfeld in der syrischen Wüste nahe Palmyra, das entscheidend für die Energieversorgung Westsyriens ist.", hu: "Jelentős földgázmező a Szíriai-sivatagban, Palmüra közelében, amely kulcsfontosságú Nyugat-Szíria energiaellátásában.", ro: "Un câmp important de gaze naturale în deșertul sirian, lângă Palmira, crucial pentru aprovizionarea cu energie a vestului Siriei.", en: "A major natural gas field in the Syrian Desert near Palmyra, crucial for the energy supply of western Syria." , es: "Un importante campo de gas natural en el desierto sirio cerca de Palmira, crucial para el suministro energético del oeste de Siria.", pt: "Um campo de gás natural importante no deserto sírio perto de Palmira, crucial para o abastecimento energético do oeste da Síria.", fr: "Un champ de gaz naturel important dans le désert syrien près de Palmyre, crucial pour l'approvisionnement énergétique de l'ouest de la Syrie."},
     facts: {
       de: ["Gehört zu den größten Gasreserven des Landes.", "Versorgt die Kraftwerke in Homs und Damaskus.", "War Schauplatz schwerer Kämpfe.", "Liegt in einer kargen Wüstenregion."],
@@ -1331,7 +1322,6 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     parent: "SY-HO",
     coords: [38.35, 34.33],
     name: { de: "Phosphatmine Al-Scharqiyeh", hu: "As-Sarkija Foszfátbánya", ro: "Mina de Fosfat Al-Sharqiyeh", en: "Al-Sharqiyeh Phosphate Mine"},
-    image: "/poi-images/al-sharqiyeh-phosphate-mine-economic-v2.webp",
     description: { de: "Ein riesiges Abbaugebiet für Phosphatgestein in der zentralen syrischen Wüste, eng angebunden an das Eisenbahnnetz.", hu: "Hatalmas foszfátkő-kitermelő terület a központi Szíriai-sivatagban, amely szorosan kapcsolódik a vasúthálózathoz.", ro: "O vastă zonă de extracție a rocii fosfatice în deșertul central sirian, strâns legată de rețeaua feroviară.", en: "A massive mining area for phosphate rock in the central Syrian desert, closely connected to the railway network." , es: "Una vasta área de extracción de roca fosfórica en el desierto central de Siria, estrechamente conectada con la red ferroviaria.", pt: "Uma vasta área de extração de rocha fosfórica no deserto central da Síria, estreitamente ligada à rede ferroviária.", fr: "Une vaste zone d'extraction de roche phosphatée dans le désert central syrien, étroitement reliée au réseau ferroviaire."},
     facts: {
       de: ["Zählt zu den größten Phosphatminen im Nahen Osten.", "Wurde durch russische Investitionen modernisiert.", "Liefert Rohstoffe für die globale Landwirtschaft.", "Die Mine ist im Tagebau erschlossen."],
@@ -1628,7 +1618,6 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     parent: "SY-RD",
     coords: [36.50, 33.62],
     name: { de: "Industriestadt Adra", hu: "Adra Ipari Város", ro: "Orașul Industrial Adra", en: "Adra Industrial City"},
-    image: "/poi-images/adra-industrial-city-economic-v2.webp",
     description: { de: "Ein riesiger Industriekomplex nordöstlich von Damaskus, der Tausende von Fabriken und Werkstätten aus verschiedenen Sektoren beherbergt.", hu: "Hatalmas ipari komplexum Damaszkusztól északkeletre, amely különböző ágazatokból származó gyárak és műhelyek ezreinek ad otthont.", ro: "Un complex industrial uriaș la nord-est de Damasc, care găzduiește mii de fabrici și ateliere din diverse sectoare.", en: "A massive industrial complex northeast of Damascus, housing thousands of factories and workshops from various sectors." , es: "Un enorme complejo industrial al noreste de Damasco, que alberga miles de fábricas y talleres de diversos sectores.", pt: "Um enorme complexo industrial a nordeste de Damasco, que alberga milhares de fábricas e oficinas de diversos setores.", fr: "Un immense complexe industriel au nord-est de Damas, abritant des milliers d'usines et d'ateliers de divers secteurs."},
     facts: {
       de: ["Eine der größten Industriezonen in Syrien.", "Schwerpunkt auf Textilien, Chemie und Lebensmittel.", "Bietet Arbeitsplätze für das Umland von Damaskus.", "Direkt an die Hauptverkehrsstraßen angebunden."],
@@ -1853,7 +1842,6 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     parent: "SY-HL",
     coords: [37.25, 36.28],
     name: { de: "Industriestadt Scheich Nadschar", hu: "Sejk Naddzsár Ipari Város", ro: "Orașul Industrial Sheikh Najjar", en: "Sheikh Najjar Industrial City"},
-    image: "/poi-images/sheikh-najjar-industrial-city-economic-v2.webp",
     description: { de: "Das industrielle Herz von Aleppo und eines der wichtigsten Wirtschaftszentren Syriens, bekannt für seine Textil- und Pharmaproduktion.", hu: "Aleppó ipari szíve és Szíria egyik legfontosabb gazdasági központja, amely textil- és gyógyszergyártásáról ismert.", ro: "Inima industrială a orașului Alep și unul dintre cele mai importante centre economice ale Siriei, cunoscut pentru producția sa textilă și farmaceutică.", en: "The industrial heart of Aleppo and one of Syria's most important economic centers, known for its textile and pharmaceutical production." , es: "El corazón industrial de Alepo y uno de los centros económicos más importantes de Siria, conocido por su producción textil y farmacéutica.", pt: "O coração industrial de Alepo e um dos centros económicos mais importantes da Síria, conhecido pela sua produção têxtil e farmacêutica.", fr: "Le cœur industriel d'Alep et l'un des centres économiques les plus importants de Syrie, connu pour sa production textile et pharmaceutique."},
     facts: {
       de: ["Umfasst Tausende von Produktionsstätten.", "Vor dem Krieg Motor der syrischen Exportwirtschaft.", "Ist in drei Hauptsektoren unterteilt.", "Besitzt eine moderne Infrastruktur."],
@@ -1970,7 +1958,6 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     parent: "SY-DY",
     coords: [40.06, 35.15],
     name: { de: "Al-Thaim-Ölfeld", hu: "Al-Thajm Olajmező", ro: "Câmpul Petrolier Al-Thaim", en: "Al-Thaim Oil Field"},
-    image: "/poi-images/al-thaim-oil-field-economic-v2.webp",
     description: { de: "Ein bedeutendes Ölfeld südlich von Deir ez-Zor, das einen wichtigen Beitrag zur syrischen Ölproduktion leistet.", hu: "Jelentős olajmező Deir ez-Zórtól délre, amely fontos szerepet játszik a szíriai olajtermelésben.", ro: "Un câmp petrolier important la sud de Deir ez-Zor, care aduce o contribuție semnificativă la producția de petrol sirian.", en: "An important oil field south of Deir ez-Zor, making a significant contribution to Syrian oil production." , es: "Un campo petrolífero significativo al sur de Deir ez-Zor que contribuye de manera importante a la producción petrolera siria.", pt: "Um campo petrolífero significativo a sul de Deir ez-Zor que contribui de forma importante para a produção petrolífera síria.", fr: "Un champ pétrolifère important au sud de Deir ez-Zor, contribuant significativement à la production pétrolière syrienne."},
     facts: {
       de: ["Das Feld ist seit den 1980er Jahren aktiv.", "Befindet sich in einer wüstenartigen Umgebung.", "Verfügt über Pipelines zur Raffinerie in Homs.", "Wichtiger Arbeitgeber in der Deir ez-Zor-Region."],
@@ -2051,7 +2038,6 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     parent: "SY-HI",
     coords: [40.67, 36.08],
     name: { de: "Jbissa-Gasfeld", hu: "Dzsbissza Gázmező", ro: "Câmpul de Gaze Jbissa", en: "Jbissa Gas Field"},
-    image: "/poi-images/jbissa-gas-field-economic-v2.webp",
     description: { de: "Eines der ältesten und größten Erdgasfelder Syriens im Gouvernement Al-Hasakah, das auch eine eigene Gasverarbeitungsanlage umfasst.", hu: "Szíria egyik legrégebbi és legnagyobb földgázmezője Al-Haszaka kormányzóságban, amely saját gázfeldolgozó üzemmel is rendelkezik.", ro: "Unul dintre cele mai vechi și mai mari câmpuri de gaze naturale din Siria, în guvernoratul Al-Hasakah, care include și o uzină proprie de procesare a gazelor.", en: "One of Syria's oldest and largest natural gas fields in the Al-Hasakah Governorate, which also includes its own gas processing plant." , es: "Uno de los campos de gas natural más antiguos y grandes de Siria, situado en la gobernación de Al-Hasakah, que también incluye su propia planta de procesamiento.", pt: "Um dos campos de gás natural mais antigos e maiores da Síria, localizado na província de Al-Hasakah, que também inclui uma unidade de processamento própria.", fr: "L'un des plus anciens et plus grands champs de gaz naturel de Syrie, situé dans le gouvernorat d'Al-Hasakah, qui comprend également sa propre unité de traitement."},
     facts: {
       de: ["Produziert hauptsächlich süßes Erdgas.", "Versorgt das nationale Pipelinenetz.", "Liegt nahe der Stadt Al-Schaddadi.", "Zentrale Säule der ostsyrischen Wirtschaft."],

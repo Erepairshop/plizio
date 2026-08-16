@@ -237,7 +237,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       hu: "Erdene Zú Kolostor",
       ro: "Mănăstirea Erdene Zuu",
       en: "Erdene Zuu Monastery"},
-    image: "/poi-images/mn-erdene-zuu-history-v2.webp",
     description: {
       de: "Das Erdene Dsuu Kloster ist das wohl älteste erhaltene buddhistische Kloster der Mongolei. Es wurde 1585 aus den Trümmern der alten Hauptstadt Karakorum errichtet und ist von einer beeindruckenden Stupa-Mauer umgeben.",
       hu: "Az Erdene Zú Mongólia legrégebbi fennmaradt buddhista kolostora, amelyet 1585-ben alapítottak. Építéséhez az egykori mongol főváros, Karakorum romjaiból származó köveket használták fel.",
@@ -455,7 +454,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       hu: "Karakorum Romjai",
       ro: "Ruinele din Karakorum",
       en: "Karakorum Ruins"},
-    image: "/poi-images/mn-karakorum-history-v2.webp",
     description: {
       de: "Karakorum war im 13. Jahrhundert die sagenumwobene Hauptstadt des Mongolischen Reiches unter Ögedei Khan. Heute zeugen nur noch wenige Steinmonumente, wie die berühmten steinernen Schildkröten, von ihrer einstigen Größe.",
       hu: "Karakorum a 13. században a hatalmas Mongol Birodalom fővárosa volt Ögödej kán uralkodása alatt. Mára csupán néhány kőemlék, köztük híres kőteknősök maradtak fenn egykori dicsőségéből.",
@@ -745,7 +743,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       hu: "Zaiszan Emlékmű",
       ro: "Monumentul Zaisan",
       en: "Zaisan Memorial"},
-    image: "/poi-images/mn-zaisan-history-v2.webp",
     description: {
       de: "Die Daisan-Gedenkstätte auf einem Hügel südlich von Ulaanbaatar ehrt die sowjetischen Soldaten, die im Zweiten Weltkrieg fielen. Ein riesiges Ringmosaik stellt Szenen der Freundschaft zwischen der UdSSR und der Mongolei dar.",
       hu: "A Zaiszan Emlékmű Ulánbátor déli részén egy dombtetőn áll, és a második világháborúban elesett szovjet katonáknak állít emléket. Egy hatalmas, gyűrű alakú mozaik ábrázolja a szovjet-mongol barátság jeleneteit.",
@@ -1641,7 +1638,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       hu: "Gandantegcsinlen Kolostor",
       ro: "Mănăstirea Gandantegchinlen",
       en: "Gandantegchinlen Monastery"},
-    image: "/poi-images/mn-gandantegchinlen-history-v2.webp",
     description: {
       de: "Das Gandantegtschinlen-Kloster ist das größte aktive buddhistische Zentrum in Ulaanbaatar. Es beheimatet eine 26 Meter hohe, mit Gold verkleidete Statue des Bodhisattva Avalokiteshvara, die die mongolische Unabhängigkeit symbolisiert.",
       hu: "A Gandantegcsinlen Kolostor Ulánbátor legnagyobb működő buddhista központja. Itt található Avalókitésvara bódhiszattva 26 méter magas, arannyal borított szobra, amely a mongol függetlenség szimbóluma.",
@@ -1712,7 +1708,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       hu: "Dzsingisz Kán Lovasszobra",
       ro: "Statuia Ecvestră a lui Ginghis Han",
       en: "Genghis Khan Equestrian Statue"},
-    image: "/poi-images/mn-genghis-khan-statue-history-v2.webp",
     description: {
       de: "Das Dschingis-Khan-Reiterstandbild in Tsonjin Boldog ist mit 40 Metern die größte Reiterstatue der Welt. Sie markiert der Legende nach den Ort, an dem der junge Temüdschin (Dschingis Khan) eine goldene Peitsche fand.",
       hu: "A Tszondzsin Boldogban található 40 méter magas alkotás a világ legnagyobb lovasszobra. A legenda szerint pontosan azon a helyen épült, ahol a fiatal Temüdzsin (a későbbi Dzsingisz kán) egy arany ostort talált.",
@@ -1936,7 +1931,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       hu: "Csojdzsin Láma Templom",
       ro: "Templul Choijin Lama",
       en: "Choijin Lama Temple"},
-    image: "/poi-images/mn-choijin-lama-history-v2.webp",
     description: {
       de: "Der Tschoidschin-Lama-Tempel ist ein faszinierender architektonischer Komplex im Zentrum von Ulaanbaatar. Er wurde Anfang des 20. Jahrhunderts für den Staatsorakel-Lama Luvsanhaidav, den Bruder des Bogd Khan, erbaut.",
       hu: "A Csojdzsin Láma Templom egy lenyűgöző épületegyüttes Ulánbátor szívében. A 20. század elején épült Luvszanhaidav, az állami orákulum számára, aki a nyolcadik Bogd kán fivére volt.",
@@ -2124,7 +2118,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       hu: "Kösöö Cajdam Emlékművek",
       ro: "Monumentele Khoshoo Tsaidam",
       en: "Khöshöö Tsaidam Monuments"},
-    image: "/poi-images/mn-khoshoo-tsaidam-history-v2.webp",
     description: {
       de: "Die Chöschöö-Tsaidam-Denkmäler im Orchon-Tal sind bedeutende Inschriftensteine aus dem 8. Jahrhundert. Sie wurden vom Göktürken-Reich zu Ehren der Herrscher Bilge Khagan und Kul Tigin in alttürkischer Runenschrift errichtet.",
       hu: "Az Orkhon-völgyben található Kösöö Cajdam emlékművek a 8. századi Türk Kaganátus legfontosabb kőfeliratai. Kül Tegin és Bilge kagán tiszteletére állították őket ón-türk rovásírással.",
@@ -2312,7 +2305,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       hu: "Mandzsusri Kolostor Romjai",
       ro: "Mănăstirea Manzushir",
       en: "Manzushir Monastery"},
-    image: "/poi-images/mn-manzushir-history-v2.webp",
     description: {
       de: "Die Ruinen des Mandschuschir-Klosters liegen eingebettet in den malerischen Bergen des Bogd Khan Uul. Einst war es ein florierendes Zentrum mit über 20 Tempeln, bevor es 1937 während stalinistischer Säuberungen zerstört wurde.",
       hu: "A Mandzsusri Kolostor romjai a Bogd Kán hegy festői völgyében fekszenek. Egykor nyüzsgő vallási központ volt több mint 20 templommal, amíg 1937-ben a sztálini tisztogatások során porig nem rombolták.",
@@ -2383,7 +2375,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       hu: "Ongi Kolostor Romjai",
       ro: "Ruinele Ongiin Khiid",
       en: "Ongi Monastery Ruins"},
-    image: "/poi-images/mn-ongi-history-v2.webp",
     description: {
       de: "Ongiin-Chiid war einst eines der größten Klöster in der Wüste Gobi, gelegen am Ufer des Flusses Ongi. Die weitläufigen Lehm- und Steinruinen zeugen von der brutalen Zerstörung von über 30 Tempeln im Jahr 1939.",
       hu: "Az Ongi Kolostor egykor a Góbi-sivatag egyik legnagyobb komplexuma volt az Ongi folyó partján. A hatalmas kiterjedésű vályog- és kőromok az 1939-es pusztításról árulkodnak, amikor 30 templomot tettek a földdel egyenlővé.",
@@ -2499,7 +2490,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       hu: "Baldan Bereeven Kolostor",
       ro: "Mănăstirea Baldan Bereeven",
       en: "Baldan Bereeven Monastery"},
-    image: "/poi-images/mn-baldan-bereeven-history-v2.webp",
     description: {
       de: "Das Baldan Brijun Kloster liegt versteckt in den bewaldeten Bergen der Khentii-Provinz. Vor seiner Zerstörung in den 1930er Jahren war es mit rund 8000 Mönchen eines der drei größten Klöster der Mongolei.",
       hu: "A Baldan Bereeven Kolostor a Khentii tartomány festői hegyei között bújik meg. Az 1930-as évekbeli lerombolása előtt Mongólia három legnagyobb kolostorának egyike volt, mintegy 8000 szerzetessel.",
@@ -2867,7 +2857,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       hu: "Khamar Kolostor (Sambhala Központ)",
       ro: "Mănăstirea Khamariin Khiid",
       en: "Khamariin Khiid Monastery"},
-    image: "/poi-images/mn-khamariin-khiid-history-v2.webp",
     description: {
       de: "Chamariin-Chiid ist ein bedeutendes buddhistisches Zentrum in der Wüste Gobi, das als spirituelles Energiezentrum ('Sambhala') gilt. Es wurde vom exzentrischen Dichter und Mönch Danzanravjaa im 19. Jahrhundert gegründet.",
       hu: "A Khamariin Khiid egy spirituális központ a Góbi-sivatagban, amelyet a mongolok a 'Sambhala' energiaközpontjának tartanak. A különc költő és láma, Danzanravdzsaa alapította a 19. században.",
@@ -3307,7 +3296,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       hu: "Halhin-Goli Csata Helyszíne",
       ro: "Câmpul de Luptă Khalkhin Gol",
       en: "Khalkh Gol Battlefield"},
-    image: "/poi-images/mn-khalkh-gol-history-v2.webp",
     description: {
       de: "Das Gebiet am Fluss Chalchin Gol war 1939 Schauplatz einer entscheidenden, aber wenig bekannten Schlacht. Hier besiegten sowjetisch-mongolische Truppen unter General Schukow die kaiserlich-japanische Armee und verhinderten die Expansion Japans nach Sibirien.",
       hu: "A Halhin-Gol folyó vidéke 1939-ben egy sorsdöntő, bár kevésbé ismert csata helyszíne volt. Zsukov tábornok vezetésével a szovjet-mongol erők itt mérték vereséget a japán császári hadseregre, megállítva a szibériai terjeszkedést.",
@@ -3567,7 +3555,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       hu: "Bogd Kán Palotamúzeum",
       ro: "Muzeul Palatului Bogd Khan",
       en: "Bogd Khan Palace Museum"},
-    image: "/poi-images/mn-bogd-khan-palace-history-v2.webp",
     description: {
       de: "Das Bogd-Khan-Palastmuseum in Ulaanbaatar war die Winterresidenz des achten Jebtsundamba Khutuktu, des letzten theokratischen Herrschers der Mongolei. Es ist einer der wenigen historischen Orte der Hauptstadt, die von den Kommunisten verschont blieben.",
       hu: "Az ulánbátori Bogd Kán Palotamúzeum a nyolcadik Dzsebcundamba Hutuktu, Mongólia utolsó teokratikus uralkodójának téli rezidenciája volt. Azon ritka történelmi emlékek egyike a fővárosban, amit a kommunisták nem romboltak le.",
@@ -3719,7 +3706,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       hu: "Tövhön Kolostor",
       ro: "Mănăstirea Tovkhon",
       en: "Tövkhön Monastery"},
-    image: "/poi-images/mn-tovkhon-history-v2.webp",
     description: {
       de: "Das Töwchön-Kloster thront spektakulär auf einem Berggipfel, umgeben von dichten Wäldern. Es wurde 1654 von Zanabazar als persönlicher Rückzugsort zum Meditieren und Schaffen von Kunstwerken gegründet.",
       hu: "A Tövhön Kolostor lenyűgöző helyen, egy szikla peremén, sűrű erdőkkel ölelve helyezkedik el. Dzanabadzar alapította 1654-ben, hogy ide vonuljon vissza meditálni és műalkotásokat készíteni.",
@@ -4114,7 +4100,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       hu: "Szangín Herem Erőd",
       ro: "Cetatea Sangiin Kherem",
       en: "Sangiin Kherem Fortress Ruins"},
-    image: "/poi-images/mn-sangiin-kherem-history-v2.webp",
     description: {
       de: "Die Ruinen der Festung Sangiin Kherem befinden sich im Norden der Stadt Chowd. Sie wurde im 18. Jahrhundert von der Mandschu-Qing-Dynastie aus Lehmziegeln errichtet, um die westlichen Gebiete der Mongolei zu kontrollieren.",
       hu: "A Szangín Herem erőd romjai Hovd városának északi részén találhatók. A 18. században építette a mandzsu Csing-dinasztia agyagtéglákból, hogy innen ellenőrizzék Nyugat-Mongóliát.",
@@ -4302,7 +4287,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       hu: "Uusgijn Uvur Szarvaskövei",
       ro: "Pietrele Cerbului de la Uushigiin Uvur",
       en: "Deer Stones of Uushigiin Uvur"},
-    image: "/poi-images/mn-uushigiin-uvur-history-v2.webp",
     description: {
       de: "Der Komplex von Uuschigiin Uwur in der Provinz Chöwsgöl beherbergt einige der besterhaltenen bronzezeitlichen Hirschsteine Eurasiens. Die Megalithen sind mit fliegenden, stilisierten Hirschen verziert, die in den Himmel galoppieren.",
       hu: "A Khövsgöl tartományban található Uusgijn Uvur az eurázsiai sztyeppe legjobb állapotban fennmaradt bronzkori szarvasköveit rejti. A megalitokat repülő, stilizált szarvasok díszítik, amint az ég felé vágtatnak.",
@@ -4373,7 +4357,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       hu: "A Mongol-Altaj Sziklarajzai",
       ro: "Petroglifele din Altaiul Mongol",
       en: "Petroglyphs of the Mongolian Altai"},
-    image: "/poi-images/mn-altai-petroglyphs-history-v2.webp",
     description: {
       de: "Die Petroglyphen im mongolischen Altai bilden ein gewaltiges Freilichtmuseum prähistorischer Kunst. Zehntausende von Felsbildern dokumentieren die Entwicklung menschlicher Kultur über einen Zeitraum von 12.000 Jahren.",
       hu: "A Mongol-Altaj hegyei között elterülő sziklarajzok egy hatalmas, szabadtéri őskori múzeumot alkotnak. A több tízezer kőkarcolat 12 000 év emberi történelmét és életmódváltozását dokumentálja.",
@@ -4444,7 +4427,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       hu: "Demcsig Kolostor",
       ro: "Mănăstirea Demchig",
       en: "Demchig Monastery"},
-    image: "/poi-images/mn-demchig-history-v2.webp",
     description: {
       de: "Die Ruinen des Demtschig-Klosters liegen in der Provinz Ömnö-Gobi, umgeben von bizarren roten Granitfelsen. Es wurde im 19. Jahrhundert von Danzanravjaa erbaut und bestach durch eine ungewöhnliche, lotosförmige Architektur.",
       hu: "A Demcsig Kolostor romjai Ömnö-Góbi tartományban, különleges vörös gránitsziklák között fekszenek. A 19. században Danzanravdzsaa építtette lótuszvirágot mintázó, szokatlan építészeti stílusban.",

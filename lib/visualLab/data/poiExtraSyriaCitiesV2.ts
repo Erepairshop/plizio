@@ -8,7 +8,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-DI",
     coords: [36.2913, 33.5138],
     name: { de: "Damaskus", hu: "Damaszkusz", ro: "Damasc", en: "Damascus"},
-    image: "/poi-images/damascus-cities-v2.webp",
     description: { de: "Damaskus ist die Hauptstadt von Syrien und eine der ältesten kontinuierlich bewohnten Städte der Welt.", hu: "Damaszkusz Szíria fővárosa és a világ egyik legrégebb óta folyamatosan lakott városa.", ro: "Damasc este capitala Siriei și una dintre cele mai vechi orașe locuite continuu din lume.", en: "Damascus is the capital of Syria and one of the oldest continuously inhabited cities in the world." , es: "Damasco es la capital de Siria y una de las ciudades continuamente habitadas más antiguas del mundo.", pt: "Damasco é a capital da Síria e uma das cidades continuamente habitadas mais antigas do mundo.", fr: "Damas est la capitale de la Syrie et l'une des plus anciennes villes continuellement habitées au monde."},
     facts: {
       de: ["Liegt am Fluss Barada.", "Zentrum der syrischen Politik.", "Bekannt für die Umayyaden-Moschee.", "Über 4000 Jahre alte Geschichte."],
@@ -191,7 +190,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-HL",
     coords: [37.1343, 36.2021],
     name: { de: "Aleppo", hu: "Aleppó", ro: "Alep", en: "Aleppo"},
-    image: "/poi-images/aleppo-cities-v2.webp",
     description: { de: "Aleppo war vor dem Krieg die bevölkerungsreichste Stadt Syriens und ist ein wichtiges Handelszentrum im Norden.", hu: "Aleppó a háború előtt Szíria legnépesebb városa volt, és Észak-Szíria fontos kereskedelmi központja.", ro: "Alep era cel mai populat oraș din Siria înainte de război și un centru comercial important în nord.", en: "Aleppo was the most populous city in Syria before the war and is a major commercial center in the north." , es: "Alepo fue la ciudad más poblada de Siria antes de la guerra y es un importante centro comercial en el norte.", pt: "Alepo foi a cidade mais populosa da Síria antes da guerra e é um importante centro comercial no norte.", fr: "Alep était la ville la plus peuplée de Syrie avant la guerre et est un important centre commercial dans le nord."},
     facts: {
       de: ["Bekannt für die historische Zitadelle.", "Wichtiges Zentrum der Textilindustrie.", "Gehört zum UNESCO-Weltkulturerbe.", "Einst ein Knotenpunkt der Seidenstraße."],
@@ -1200,7 +1198,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-HI",
     coords: [36.7118, 34.7304],
     name: { de: "Homs", hu: "Homsz", ro: "Homs", en: "Homs"},
-    image: "/poi-images/homs-cities-v2.webp",
     description: { de: "Homs liegt im Westen Syriens und fungiert als zentraler Verkehrsknotenpunkt zwischen der Küste und dem Landesinneren.", hu: "Homsz Nyugat-Szíriában található, és központi közlekedési csomópontként szolgál a tengerpart és a belső területek között.", ro: "Homs este situat în vestul Siriei și servește ca un nod central de transport între coastă și interior.", en: "Homs is located in western Syria and serves as a central transport hub between the coast and the interior." , es: "Homs se encuentra en el oeste de Siria y actúa como un nodo central de transporte entre la costa y el interior del país.", pt: "Homs situa-se no oeste da Síria e funciona como um nó central de transporte entre a costa e o interior do país.", fr: "Homs se trouve dans l'ouest de la Syrie et sert de nœud central de transport entre la côte et l'intérieur du pays."},
     facts: {
       de: ["Liegt am Fluss Orontes.", "Wichtiges Industriezentrum.", "Historisch als Emesa bekannt.", "Zentraler Eisenbahnknotenpunkt."],
@@ -1525,7 +1522,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-HM",
     coords: [36.7570, 35.1318],
     name: { de: "Hama", hu: "Hamá", ro: "Hama", en: "Hama"},
-    image: "/poi-images/hama-cities-v2.webp",
     description: { de: "Hama ist berühmt für seine alten Wasserräder am Orontes, die als Norias bekannt sind.", hu: "Hamá az Orontész folyón lévő régi vízikerekeiről, a noriákról híres.", ro: "Hama este faimoasă pentru vechile sale roți de apă de pe râul Orontes, cunoscute sub numele de noria.", en: "Hama is famous for its ancient water wheels on the Orontes River, known as norias." , es: "Hama es famosa por sus antiguas ruedas hidráulicas en el Orontes, conocidas como norias.", pt: "Hama é famosa pelas suas antigas rodas hidráulicas no Orontes, conhecidas como norias.", fr: "Hama est célèbre pour ses anciennes roues à aubes sur l'Oronte, connues sous le nom de norias."},
     facts: {
       de: ["Die Norias sind das Wahrzeichen der Stadt.", "Liegt im Zentrum von Syrien.", "Wichtiges landwirtschaftliches Zentrum.", "Eine der am längsten bewohnten Städte."],
@@ -1553,7 +1549,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-LA",
     coords: [35.8686, 35.5317],
     name: { de: "Latakia", hu: "Latakia", ro: "Latakia", en: "Lattakia"},
-    image: "/poi-images/lattakia-cities-v2.webp",
     description: { de: "Latakia ist die wichtigste Hafenstadt Syriens am Mittelmeer und ein bedeutendes Handels- und Wirtschaftszentrum.", hu: "Latakia Szíria legfontosabb kikötővárosa a Földközi-tenger partján, jelentős kereskedelmi és gazdasági központ.", ro: "Latakia este principalul oraș-port al Siriei la Marea Mediterană și un important centru comercial și economic.", en: "Lattakia is the main port city of Syria on the Mediterranean Sea and a major commercial and economic center." , es: "Latakia es la ciudad portuaria más importante de Siria en el Mediterráneo y un importante centro comercial y económico.", pt: "Latakia é a cidade portuária mais importante da Síria no Mediterrâneo e um importante centro comercial e económico.", fr: "Lattaquié est la ville portuaire la plus importante de Syrie sur la Méditerranée et un centre commercial et économique majeur."},
     facts: {
       de: ["Der größte Seehafen Syriens.", "Hauptstadt des gleichnamigen Gouvernements.", "Heimat vieler Strände und Resorts.", "Wichtiger Exportpunkt für Öl und Agrargüter."],
@@ -2382,7 +2377,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-DY",
     coords: [40.1390, 35.3353],
     name: { de: "Deir ez-Zor", hu: "Deir ez-Zór", ro: "Deir ez-Zor", en: "Deir ez-Zor"},
-    image: "/poi-images/deir-ez-zor-cities-v2.webp",
     description: { de: "Deir ez-Zor ist die größte Stadt im Osten Syriens und liegt an den Ufern des Flusses Euphrat.", hu: "Deir ez-Zór Kelet-Szíria legnagyobb városa, amely az Eufrátesz folyó partján fekszik.", ro: "Deir ez-Zor este cel mai mare oraș din estul Siriei și se află pe malurile fluviului Eufrat.", en: "Deir ez-Zor is the largest city in eastern Syria and is located on the banks of the Euphrates River." , es: "Deir ez-Zor es la ciudad más grande del este de Siria y se encuentra a orillas del río Éufrates.", pt: "Deir ez-Zor é a maior cidade no leste da Síria e situa-se nas margens do rio Eufrates.", fr: "Deir ez-Zor est la plus grande ville de l'est de la Syrie et se trouve sur les rives du fleuve Euphrate."},
     facts: {
       de: ["Wichtig für die syrische Ölindustrie.", "Liegt in einer Wüstenregion.", "Der Euphrat teilt die Stadt.", "Bedeutendes Zentrum für die Landwirtschaft."],
@@ -2563,7 +2557,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-RA",
     coords: [39.0151, 35.9528],
     name: { de: "Raqqa", hu: "Rakka", ro: "Raqqa", en: "Ar-Raqqah"},
-    image: "/poi-images/ar-raqqah-cities-v2.webp",
     description: { de: "Raqqa liegt am Nordufer des Euphrat und war historisch ein wichtiges Zentrum der abbasidischen Kalifen.", hu: "Rakka az Eufrátesz északi partján fekszik, és történelmileg az Abbászida kalifák fontos központja volt.", ro: "Raqqa este situat pe malul nordic al Eufratului și a fost istoric un centru important al califilor abasizi.", en: "Ar-Raqqah is located on the north bank of the Euphrates and was historically a major center of the Abbasid caliphs." , es: "Raqqa se encuentra en la orilla norte del Éufrates y fue históricamente un importante centro de los califas abasíes.", pt: "Raqqa situa-se na margem norte do Eufrates e foi historicamente um importante centro dos califas abássidas.", fr: "Raqqa se trouve sur la rive nord de l'Euphrate et était historiquement un centre important des califes abbassides."},
     facts: {
       de: ["Wichtiger Knotenpunkt für die Landwirtschaft.", "Liegt in der Nähe des Assad-Stausees.", "Hat eine reiche islamische Geschichte.", "Zentrum der Baumwollproduktion."],
@@ -2636,7 +2629,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-HA",
     coords: [40.7479, 36.5024],
     name: { de: "Al-Hasaka", hu: "Al-Haszaka", ro: "Al-Hasakah", en: "Al-Hasakah"},
-    image: "/poi-images/al-hasakah-cities-v2.webp",
     description: { de: "Al-Hasaka ist das Verwaltungszentrum im äußersten Nordosten Syriens, einer Region, die vom Fluss Chabur durchquert wird.", hu: "Al-Haszaka Szíria északkeleti részének közigazgatási központja, egy olyan régióban, amelyet a Habur folyó szel át.", ro: "Al-Hasakah este centrul administrativ din nord-estul extrem al Siriei, o regiune traversată de râul Khabur.", en: "Al-Hasakah is the administrative center in the far northeast of Syria, a region crossed by the Khabur River." , es: "Al-Hasaka es el centro administrativo en el extremo noreste de Siria, una región atravesada por el río Khabur.", pt: "Al-Hasaka é o centro administrativo no extremo nordeste da Síria, uma região atravessada pelo rio Khabur.", fr: "Al-Hasaka est le centre administratif à l'extrême nord-est de la Syrie, une région traversée par la rivière Khabour."},
     facts: {
       de: ["Bekannt für ethnische Vielfalt.", "Wichtige Region für den Weizenanbau.", "Liegt am Fluss Chabur.", "Das Gouvernement hat große Ölreserven."],
@@ -2745,7 +2737,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-TA",
     coords: [35.8866, 34.8890],
     name: { de: "Tartus", hu: "Tartúsz", ro: "Tartus", en: "Tartus"},
-    image: "/poi-images/tartus-cities-v2.webp",
     description: { de: "Tartus ist die zweitwichtigste Hafenstadt Syriens und ein bedeutendes Zentrum für Handel und Tourismus an der Mittelmeerküste.", hu: "Tartúsz Szíria második legfontosabb kikötővárosa, és a Földközi-tenger partjának jelentős kereskedelmi és turisztikai központja.", ro: "Tartus este al doilea cel mai important oraș-port din Siria și un centru major pentru comerț și turism pe coasta mediteraneană.", en: "Tartus is the second most important port city of Syria and a major center for trade and tourism on the Mediterranean coast." , es: "Tartus es la segunda ciudad portuaria más importante de Siria y un centro clave para el comercio y el turismo en la costa mediterránea.", pt: "Tartus é a segunda cidade portuária mais importante da Síria e um centro fundamental para o comércio e turismo na costa do Mediterrâneo.", fr: "Tartous est la deuxième ville portuaire la plus importante de Syrie et un centre majeur pour le commerce et le tourisme sur la côte méditerranéenne."},
     facts: {
       de: ["Besitzt eine historische Altstadt.", "Wichtiger russischer Marinestützpunkt.", "Gegenüber der Insel Aruad gelegen.", "Beliebtes Sommerreiseziel."],
@@ -4078,7 +4069,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-ID",
     coords: [36.6339, 35.9306],
     name: { de: "Idlib", hu: "Idlib", ro: "Idlib", en: "Idlib"},
-    image: "/poi-images/idlib-cities-v2.webp",
     description: { de: "Idlib liegt im Nordwesten Syriens in einer fruchtbaren landwirtschaftlichen Region, die besonders für ihren Olivenanbau bekannt ist.", hu: "Idlib Szíria északnyugati részén, egy termékeny mezőgazdasági régióban fekszik, amely különösen olívatermesztéséről ismert.", ro: "Idlib este situat în nord-vestul Siriei, într-o regiune agricolă fertilă, cunoscută mai ales pentru cultivarea măslinelor.", en: "Idlib is located in northwestern Syria in a fertile agricultural region known especially for its olive cultivation." , es: "Idlib se encuentra en el noroeste de Siria, en una fértil región agrícola, especialmente conocida por su cultivo de olivos.", pt: "Idlib situa-se no noroeste da Síria, numa fértil região agrícola, especialmente conhecida pelo seu cultivo de oliveiras.", fr: "Idlib est située dans le nord-ouest de la Syrie, dans une région agricole fertile, particulièrement connue pour sa culture des oliviers."},
     facts: {
       de: ["Zentrum der Olivenölproduktion.", "Nahe der türkischen Grenze.", "Umgeben von Obstgärten.", "Wichtiger regionaler Markt."],
@@ -4259,7 +4249,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-DR",
     coords: [36.1051, 32.6186],
     name: { de: "Daraa", hu: "Daraa", ro: "Daraa", en: "Daraa"},
-    image: "/poi-images/daraa-cities-v2.webp",
     description: { de: "Daraa liegt im Süden Syriens nahe der jordanischen Grenze und ist ein historisch bedeutendes landwirtschaftliches Zentrum.", hu: "Daraa Szíria déli részén, a jordán határ közelében fekszik, és történelmileg jelentős mezőgazdasági központ.", ro: "Daraa este situat în sudul Siriei, aproape de granița cu Iordania, și este un centru agricol semnificativ din punct de vedere istoric.", en: "Daraa is located in southern Syria near the Jordanian border and is a historically significant agricultural center." , es: "Daraa se encuentra en el sur de Siria, cerca de la frontera jordana, y es un centro agrícola históricamente significativo.", pt: "Daraa situa-se no sul da Síria, perto da fronteira jordana, e é um centro agrícola historicamente significativo.", fr: "Daraa est située dans le sud de la Syrie, près de la frontière jordanienne, et est un centre agricole historiquement important."},
     facts: {
       de: ["Bekannt als die Wiege der Revolution 2011.", "Hat historische römische Ruinen.", "Wichtig für die Getreideproduktion.", "Zentraler Grenzübergang nach Jordanien."],
@@ -4548,7 +4537,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-SU",
     coords: [36.5684, 32.7090],
     name: { de: "As-Suwaida", hu: "Asz-Szuwajda", ro: "As-Suwayda", en: "As-Suwayda"},
-    image: "/poi-images/as-suwayda-cities-v2.webp",
     description: { de: "As-Suwaida ist die Hauptstadt des gleichnamigen Gouvernements im Süden Syriens und das Zentrum der Drusen-Gemeinschaft.", hu: "Asz-Szuwajda az azonos nevű kormányzóság fővárosa Dél-Szíriában, és a drúz közösség központja.", ro: "As-Suwayda este capitala guvernoratului cu același nume din sudul Siriei și centrul comunității druze.", en: "As-Suwayda is the capital of the governorate of the same name in southern Syria and the center of the Druze community." , es: "As-Suwayda es la capital de la gobernación homónima en el sur de Siria y el centro de la comunidad drusa.", pt: "As-Suwayda é a capital da província homónima no sul da Síria e o centro da comunidade drusa.", fr: "As-Suwayda est la capitale du gouvernorat du même nom dans le sud de la Syrie et le centre de la communauté druze."},
     facts: {
       de: ["Zentrum der drusischen Kultur.", "Bekannt für den Weinanbau.", "Liegt in einer vulkanischen Region.", "Berühmt für Basaltsteinbauten."],
@@ -4765,7 +4753,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-HA",
     coords: [41.2262, 37.0505],
     name: { de: "Qamischli", hu: "Kamisli", ro: "Qamishli", en: "Qamishli"},
-    image: "/poi-images/qamishli-cities-v2.webp",
     description: { de: "Qamischli ist eine wichtige Stadt im Nordosten Syriens an der Grenze zur Türkei und ein Zentrum der syrischen Kurden.", hu: "Kamisli fontos város Észak-Szíriában, a török határon, és a szíriai kurdok központja.", ro: "Qamishli este un oraș important în nord-estul Siriei, la granița cu Turcia, și un centru al kurzilor sirieni.", en: "Qamishli is an important city in northeastern Syria on the border with Turkey and a center of the Syrian Kurds." , es: "Qamischli es una ciudad importante en el noreste de Siria en la frontera con Turquía y un centro de los kurdos sirios.", pt: "Qamischli é uma cidade importante no nordeste da Síria na fronteira com a Turquia e um centro dos curdos sírios.", fr: "Qamischli est une ville importante du nord-est de la Syrie à la frontière avec la Turquie et un centre des Kurdes syriens."},
     facts: {
       de: ["Liegt direkt an der türkischen Grenze.", "Verfügt über einen internationalen Flughafen.", "Zentrum der assyrischen und kurdischen Kultur.", "Wichtiges landwirtschaftliches Gebiet."],
@@ -4947,7 +4934,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-HL",
     coords: [37.9547, 36.5278],
     name: { de: "Manbidsch", hu: "Manbidzs", ro: "Manbij", en: "Manbij"},
-    image: "/poi-images/manbij-cities-v2.webp",
     description: { de: "Manbidsch ist eine antike Stadt im Norden Syriens, die sich in der Nähe des Flusses Euphrat befindet und eine strategische Lage einnimmt.", hu: "Manbidzs egy ősi város Észak-Szíriában, amely az Eufrátesz folyó közelében található, és stratégiai elhelyezkedésű.", ro: "Manbij este un oraș antic din nordul Siriei, situat aproape de fluviul Eufrat, ocupând o poziție strategică.", en: "Manbij is an ancient city in northern Syria, located near the Euphrates River and holding a strategic position." , es: "Manbidsch es una antigua ciudad en el norte de Siria, situada cerca del río Éufrates, que ocupa una posición estratégica.", pt: "Manbij é uma antiga cidade no norte da Síria, situada perto do rio Eufrates, que ocupa uma posição estratégica.", fr: "Manbij est une ville antique du nord de la Syrie, située près du fleuve Euphrate, qui occupe une position stratégique."},
     facts: {
       de: ["Wichtiger Handelsplatz im Norden.", "Historisch als Hierapolis bekannt.", "Befindet sich nahe der türkischen Grenze.", "Zentrum der Agrarwirtschaft."],
@@ -5272,7 +5258,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-HL",
     coords: [37.5144, 36.3688],
     name: { de: "Al-Bab", hu: "Al-Báb", ro: "Al-Bab", en: "Al-Bab"},
-    image: "/poi-images/al-bab-cities-v2.webp",
     description: { de: "Al-Bab ist eine Stadt in der Nähe von Aleppo und ein historisches Zentrum für Landwirtschaft und Handel in der Region.", hu: "Al-Báb egy Aleppóhoz közeli város, a régió mezőgazdaságának és kereskedelmének történelmi központja.", ro: "Al-Bab este un oraș lângă Alep și un centru istoric pentru agricultură și comerț în regiune.", en: "Al-Bab is a city near Aleppo and a historic center for agriculture and trade in the region." , es: "Al-Bab es una ciudad cerca de Alepo y un centro histórico para la agricultura y el comercio en la región.", pt: "Al-Bab é uma cidade perto de Alepo e um centro histórico para a agricultura e comércio na região.", fr: "Al-Bab est une ville proche d'Alep et un centre historique pour l'agriculture et le commerce dans la région."},
     facts: {
       de: ["Bekannt für die Herstellung von Milchprodukten.", "Der Name bedeutet Das Tor.", "Wichtiger Verkehrsknotenpunkt.", "Hat eine sunnitisch-arabische Mehrheit."],
@@ -5381,7 +5366,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-HL",
     coords: [38.3497, 36.8894],
     name: { de: "Kobane", hu: "Kobanî", ro: "Kobani", en: "Kobanî"},
-    image: "/poi-images/kobani-cities-v2.webp",
     description: { de: "Kobanî, auch als Ain al-Arab bekannt, ist eine wichtige Stadt im Norden Syriens nahe der türkischen Grenze, die weltweit Bekanntheit erlangte.", hu: "Kobanî, más néven Ayn al-Arab, egy fontos észak-szíriai város a török határ közelében, amely világszerte ismertté vált.", ro: "Kobanî, cunoscut și sub numele de Ayn al-Arab, este un oraș important din nordul Siriei, aproape de granița cu Turcia, care a câștigat faimă mondială.", en: "Kobanî, also known as Ayn al-Arab, is an important city in northern Syria near the Turkish border that gained worldwide fame." , es: "Kobanî, también conocida como Ain al-Arab, es una ciudad importante en el norte de Siria cerca de la frontera turca, que ganó fama mundial.", pt: "Kobanî, também conhecida como Ain al-Arab, é uma cidade importante no norte da Síria, perto da fronteira turca, que ganhou fama mundial.", fr: "Kobanî, également connue sous le nom d'Ain al-Arab, est une ville importante du nord de la Syrie près de la frontière turque, qui a acquis une renommée mondiale."},
     facts: {
       de: ["Wurde im Bürgerkrieg stark umkämpft.", "Symbol des kurdischen Widerstands.", "Liegt direkt an der Grenze.", "Wird weitgehend wiederaufgebaut."],
@@ -5454,7 +5438,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-RD",
     coords: [36.6575, 33.9691],
     name: { de: "Yabrud", hu: "Jabrúd", ro: "Yabroud", en: "Yabroud"},
-    image: "/poi-images/yabroud-cities-v2.webp",
     description: { de: "Yabrud ist eine Stadt in den Qalamoun-Bergen, die für ihre historischen Stätten und als Sommerfrische bekannt ist.", hu: "Jabrúd a Qalamoun-hegységben található város, amely történelmi helyszíneiről és nyaralóhelyként ismert.", ro: "Yabroud este un oraș din munții Qalamoun, cunoscut pentru siturile sale istorice și ca o stațiune de vară.", en: "Yabroud is a city in the Qalamoun Mountains known for its historical sites and as a summer resort." , es: "Yabrud es una ciudad situada en las montañas Qalamoun, conocida por sus sitios históricos y su clima fresco en verano.", pt: "Yabrud é uma cidade situada nas montanhas Qalamoun, conhecida pelos seus locais históricos e clima fresco no verão.", fr: "Yabroud est une ville située dans les montagnes de Qalamoun, réputée pour ses sites historiques et son climat estival frais."},
     facts: {
       de: ["Liegt auf etwa 1550 Metern Höhe.", "Hat viele antike Höhlen.", "Berühmt für die Ishtar-Quelle.", "Wichtiges Zentrum der frühgeschichtlichen Funde."],
@@ -5482,7 +5465,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-RD",
     coords: [36.0967, 33.7250],
     name: { de: "Zabadani", hu: "Zabadáni", ro: "Zabadani", en: "Zabadani"},
-    image: "/poi-images/zabadani-cities-v2.webp",
     description: { de: "Zabadani ist ein malerischer Ferienort im Anti-Libanon-Gebirge und traditionell ein beliebtes Ziel für Touristen aus den Golfstaaten.", hu: "Zabadáni egy festői üdülőhely az Antilibanon-hegységben, amely hagyományosan az öböl menti államok turistáinak népszerű célpontja.", ro: "Zabadani este o stațiune pitorească în Munții Anti-Liban și, în mod tradițional, o destinație populară pentru turiștii din statele Golfului.", en: "Zabadani is a picturesque resort town in the Anti-Lebanon Mountains and traditionally a popular destination for tourists from the Gulf States." , es: "Zabadani es un pintoresco centro vacacional en las montañas del Antilíbano, tradicionalmente popular entre los turistas de los estados del Golfo.", pt: "Zabadani é um pitoresco centro de férias nas montanhas do Antilíbano, tradicionalmente popular entre os turistas dos estados do Golfo.", fr: "Zabadani est une station balnéaire pittoresque dans les montagnes de l'Anti-Liban, traditionnellement appréciée des touristes des pays du Golfe."},
     facts: {
       de: ["Beliebter Ort für Sommerurlaube.", "Bekannt für mildes Klima.", "Zentrum des syrischen Apfelanbaus.", "Nahe der Grenze zum Libanon."],
@@ -5510,7 +5492,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-HI",
     coords: [36.5786, 34.5097],
     name: { de: "Al-Qusair", hu: "Al-Kuszair", ro: "Al-Qusayr", en: "Al-Qusayr"},
-    image: "/poi-images/al-qusayr-cities-v2.webp",
     description: { de: "Al-Qusair ist eine landwirtschaftliche Stadt in der Nähe von Homs, die aufgrund ihrer Nähe zum Libanon eine wichtige strategische Bedeutung hat.", hu: "Al-Kuszair egy Homszhoz közeli mezőgazdasági város, amely a Libanonhoz való közelsége miatt fontos stratégiai jelentőséggel bír.", ro: "Al-Qusayr este un oraș agricol de lângă Homs, care are o importanță strategică majoră datorită apropierii sale de Liban.", en: "Al-Qusayr is an agricultural city near Homs that has important strategic significance due to its proximity to Lebanon." , es: "Al-Qusair es una ciudad agrícola cerca de Homs, que tiene una importante importancia estratégica debido a su proximidad al Líbano.", pt: "Al-Qusair é uma cidade agrícola perto de Homs, que tem uma importante relevância estratégica devido à sua proximidade com o Líbano.", fr: "Al-Qusair est une ville agricole proche de Homs, qui revêt une importance stratégique en raison de sa proximité avec le Liban."},
     facts: {
       de: ["Liegt in einer fruchtbaren Ebene.", "Wichtiger Ort für Obst- und Gemüseanbau.", "Nahe der Orontes-Schlucht.", "Hat eine gemischte Bevölkerungsstruktur."],
@@ -6231,7 +6212,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-HI",
     coords: [38.2711, 34.5610],
     name: { de: "Palmyra", hu: "Palmüra", ro: "Palmyra", en: "Palmyra"},
-    image: "/poi-images/palmyra-cities-v2.webp",
     description: { de: "Palmyra, auch als Tadmur bekannt, ist eine moderne Stadt nahe den berühmten antiken Ruinen der Oasenstadt in der syrischen Wüste.", hu: "Palmüra, más néven Tadmur, egy modern város a szíriai sivatagban található oázis híres ókori romjai közelében.", ro: "Palmyra, cunoscută și sub numele de Tadmur, este un oraș modern aproape de faimoasele ruine antice ale orașului oază din deșertul sirian.", en: "Palmyra, also known as Tadmur, is a modern city near the famous ancient ruins of the oasis city in the Syrian desert." , es: "Palmira, también conocida como Tadmur, es una ciudad moderna cerca de las famosas ruinas antiguas de la ciudad oasis en el desierto sirio.", pt: "Palmira, também conhecida como Tadmur, é uma cidade moderna perto das famosas ruínas antigas da cidade oásis no deserto sírio.", fr: "Palmyre, également connue sous le nom de Tadmur, est une ville moderne proche des célèbres ruines antiques de la ville oasis dans le désert syrien."},
     facts: {
       de: ["Benachbart zu den antiken UNESCO-Ruinen.", "Liegt in einer Oase der syrischen Wüste.", "Historisch als Braut der Wüste bekannt.", "Wichtig für den regionalen Dattelanbau."],
@@ -6376,7 +6356,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-TA",
     coords: [36.1203, 34.8194],
     name: { de: "Safita", hu: "Szafita", ro: "Safita", en: "Safita"},
-    image: "/poi-images/safita-cities-v2.webp",
     description: { de: "Safita ist eine Stadt im Gouvernement Tartus, die auf drei Hügeln erbaut wurde und für ihre Kreuzritterfestung bekannt ist.", hu: "Szafita Tartúsz kormányzóság egyik városa, amely három dombra épült, és keresztes lovagváráról híres.", ro: "Safita este un oraș din guvernoratul Tartus, construit pe trei dealuri și cunoscut pentru cetatea sa cruciată.", en: "Safita is a city in the Tartus Governorate built on three hills and known for its Crusader fortress." , es: "Safita es una ciudad en la gobernación de Tartus, construida sobre tres colinas y conocida por su fortaleza cruzada.", pt: "Safita é uma cidade na província de Tartus, construída sobre três colinas e conhecida pela sua fortaleza cruzada.", fr: "Safita est une ville du gouvernorat de Tartous, construite sur trois collines et connue pour sa forteresse croisée."},
     facts: {
       de: ["Heimat des Chastel Blanc (Weißer Turm).", "Liegt in den Küstengebirgen.", "Hat eine große christliche Gemeinschaft.", "Bietet Ausblicke bis zum Mittelmeer."],
@@ -6404,7 +6383,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-TA",
     coords: [35.9450, 35.1814],
     name: { de: "Baniyas", hu: "Banijász", ro: "Baniyas", en: "Baniyas"},
-    image: "/poi-images/baniyas-cities-v2.webp",
     description: { de: "Baniyas ist eine Hafenstadt am Mittelmeer, die südlich von Latakia liegt und durch ihre Ölraffinerien eine große wirtschaftliche Bedeutung hat.", hu: "Banijász a Földközi-tenger egyik kikötővárosa, amely Latakiától délre fekszik, és olajfinomítói miatt nagy gazdasági jelentőséggel bír.", ro: "Baniyas este un oraș-port la Marea Mediterană, situat la sud de Latakia, care are o mare importanță economică datorită rafinăriilor sale de petrol.", en: "Baniyas is a port city on the Mediterranean Sea, located south of Lattakia, and has great economic importance due to its oil refineries." , es: "Baniyas es una ciudad portuaria en el Mediterráneo, al sur de Latakia, con una gran importancia económica debido a sus refinerías de petróleo.", pt: "Baniyas é uma cidade portuária no Mediterrâneo, a sul de Latakia, com grande importância económica devido às suas refinarias de petróleo.", fr: "Baniyas est une ville portuaire sur la Méditerranée, située au sud de Latakia, qui revêt une grande importance économique grâce à ses raffineries de pétrole."},
     facts: {
       de: ["Standort der größten Ölraffinerie Syriens.", "Endpunkt wichtiger Ölpipelines.", "Hat eine kleine, historische Altstadt.", "Die Zitadelle von Margat liegt in der Nähe."],
@@ -6585,7 +6563,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-LA",
     coords: [35.9256, 35.3619],
     name: { de: "Dschabla", hu: "Dzsabla", ro: "Jableh", en: "Jableh"},
-    image: "/poi-images/jableh-cities-v2.webp",
     description: { de: "Dschabla ist eine Küstenstadt, die südlich von Latakia liegt und eine lange Geschichte aufweist, die bis in die phönizische Zeit zurückreicht.", hu: "Dzsabla egy tengerparti város, amely Latakiától délre található, és hosszú története a föníciai időkig nyúlik vissza.", ro: "Jableh este un oraș de coastă situat la sud de Latakia, cu o istorie lungă care datează din epoca feniciană.", en: "Jableh is a coastal city located south of Lattakia, with a long history dating back to Phoenician times." , es: "Jableh es una ciudad costera situada al sur de Latakia, con una larga historia que se remonta a la época fenicia.", pt: "Jableh é uma cidade costeira situada a sul de Latakia, com uma longa história que remonta ao período fenício.", fr: "Jableh est une ville côtière située au sud de Lattaquié, dotée d'une longue histoire remontant à l'époque phénicienne."},
     facts: {
       de: ["Beherbergt ein römisches Amphitheater.", "Traditionelles Zentrum des Fischfangs.", "Liegt in einer wichtigen landwirtschaftlichen Ebene.", "Ist der Geburtsort bekannter syrischer Dichter."],
@@ -6766,7 +6743,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-HA",
     coords: [42.1438, 37.1764],
     name: { de: "Al-Malikiya", hu: "Al-Malikija", ro: "Al-Malikiyah", en: "Al-Malikiyah"},
-    image: "/poi-images/al-malikiyah-cities-v2.webp",
     description: { de: "Al-Malikiya ist die nordöstlichste Stadt Syriens und bildet das Zentrum eines wichtigen landwirtschaftlichen Gebiets im Gouvernement al-Hasaka.", hu: "Al-Malikija Szíria legészakkeletibb városa, és Al-Haszaka kormányzóság egyik fontos mezőgazdasági területének központja.", ro: "Al-Malikiyah este cel mai nord-estic oraș din Siria și centrul unei zone agricole importante din guvernoratul Al-Hasakah.", en: "Al-Malikiyah is the northeasternmost city in Syria and the center of an important agricultural area in the Al-Hasakah Governorate." , es: "Al-Malikiya es la ciudad más al noreste de Siria y es el centro de una importante zona agrícola en la gobernación de al-Hasaka.", pt: "Al-Malikiya é a cidade mais a nordeste da Síria e é o centro de uma importante zona agrícola na província de al-Hasaka.", fr: "Al-Malikiya est la ville la plus au nord-est de la Syrie et est le centre d'une importante zone agricole dans le gouvernorat d'al-Hasaka."},
     facts: {
       de: ["Liegt nahe der Grenze zu Irak und Türkei.", "Teil der syrischen Ölförderregion.", "Hoher Anteil an kurdischer Bevölkerung.", "Bekannt für den Weizenanbau."],
@@ -6839,7 +6815,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-HA",
     coords: [40.0753, 36.8483],
     name: { de: "Ras al-Ain", hu: "Rász el-Ain", ro: "Ras al-Ayn", en: "Ras al-Ayn"},
-    image: "/poi-images/ras-al-ayn-cities-v2.webp",
     description: { de: "Ras al-Ain ist eine syrische Grenzstadt gegenüber der türkischen Stadt Ceylanpınar und für ihre mehr als einhundert natürlichen Quellen bekannt.", hu: "Rász el-Ain egy szíriai határváros a törökországi Ceylanpınarral szemben, amely több mint száz természetes forrásáról ismert.", ro: "Ras al-Ayn este un oraș de frontieră sirian vizavi de orașul turcesc Ceylanpınar, cunoscut pentru cele peste o sută de izvoare naturale.", en: "Ras al-Ayn is a Syrian border city opposite the Turkish city of Ceylanpınar, known for its more than one hundred natural springs." , es: "Ras al-Ain es una ciudad fronteriza siria frente a la ciudad turca de Ceylanpınar y es conocida por sus más de cien fuentes naturales.", pt: "Ras al-Ain é uma cidade fronteiriça síria em frente à cidade turca de Ceylanpınar e é conhecida pelas suas mais de cem nascentes naturais.", fr: "Ras al-Ain est une ville frontalière syrienne face à la ville turque de Ceylanpınar et est connue pour ses plus de cent sources naturelles."},
     facts: {
       de: ["Der Name bedeutet Kopf der Quelle.", "Wichtige Station auf historischen Handelswegen.", "Besitzt eine reiche landwirtschaftliche Umgebung.", "Zentrum der Baumwollproduktion."],
@@ -6940,7 +6915,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     parent: "SY-RA",
     coords: [38.5392, 35.8361],
     name: { de: "At-Taura", hu: "Tabka", ro: "Al-Thawrah", en: "Al-Thawrah"},
-    image: "/poi-images/al-thawrah-cities-v2.webp",
     description: { de: "At-Taura, auch Tabka genannt, ist eine moderne Stadt am Euphrat, die in den 1960er Jahren im Zuge des Baus der Tabqa-Talsperre gegründet wurde.", hu: "A Tabka néven is ismert At-Taura egy modern város az Eufrátesz mentén, amelyet a 60-as években alapítottak a Tabka-gát építése során.", ro: "Al-Thawrah, cunoscut și sub numele de Tabqa, este un oraș modern de pe Eufrat, fondat în anii 1960 odată cu construcția Barajului Tabqa.", en: "Al-Thawrah, also known as Tabqa, is a modern city on the Euphrates, founded in the 1960s during the construction of the Tabqa Dam." , es: "At-Taura, también llamada Tabka, es una ciudad moderna en el Éufrates, fundada en la década de 1960 durante la construcción de la presa de Tabqa.", pt: "At-Taura, também chamada Tabka, é uma cidade moderna no Eufrates, fundada na década de 1960 durante a construção da barragem de Tabqa.", fr: "At-Taura, également appelée Tabka, est une ville moderne sur l'Euphrate, fondée dans les années 1960 lors de la construction du barrage de Tabqa."},
     facts: {
       de: ["Der Name bedeutet Die Revolution.", "Liegt am Rande des Assad-Stausees.", "Wichtig für die syrische Stromerzeugung.", "Künstlich angelegte Planstadt."],

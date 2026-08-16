@@ -521,7 +521,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
     parent: "LK-33",
     coords: [81.516, 6.368],
     name: { de: "Yala-Nationalpark", hu: "Yala Nemzeti Park", ro: "Parcul Național Yala", en: "Yala National Park"},
-    image: "/poi-images/yala-national-park-nature-v2.webp",
     description: { de: "Sri Lankas berühmtester Nationalpark, bekannt für seine hohe Dichte an Leoparden und vielfältigen Ökosystemen.", hu: "Srí Lanka leghíresebb nemzeti parkja, amely a magas leopárdpopulációjáról és változatos ökoszisztémájáról ismert.", ro: "Cel mai faimos parc național din Sri Lanka, renumit pentru densitatea mare de leoparzi și ecosistemele sale diverse.", en: "Sri Lanka's most famous national park, renowned for its high density of leopards and diverse ecosystems." , es: "El parque nacional más famoso de Sri Lanka, conocido por su alta densidad de leopardos y diversos ecosistemas.", pt: "O parque nacional mais famoso do Sri Lanka, conhecido pela sua alta densidade de leopardos e diversos ecossistemas.", fr: "Le parc national le plus célèbre du Sri Lanka, connu pour sa forte densité de léopards et ses écosystèmes variés."},
     facts: {
       de: ["Höchste Leopardendichte der Welt", "Gegründet im Jahr 1938"],
@@ -746,7 +745,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
     parent: "LK-91",
     coords: [80.888, 6.438],
     name: { de: "Udawalawe-Nationalpark", hu: "Udawalawe Nemzeti Park", ro: "Parcul Național Udawalawe", en: "Udawalawe National Park"},
-    image: "/poi-images/udawalawe-national-park-nature-v2.webp",
     description: { de: "Ein bedeutender Nationalpark, der als Schutzgebiet für Wildtiere geschaffen wurde, die durch den Bau des Udawalawe-Stausees vertrieben wurden.", hu: "Jelentős nemzeti park, amelyet az Udawalawe-víztározó építése miatt kiszorított vadon élő állatok menedékeként hoztak létre.", ro: "Un parc național important creat pentru a oferi un sanctuar animalelor sălbatice strămutate de construcția lacului de acumulare Udawalawe.", en: "A prominent national park created to provide a sanctuary for wild animals displaced by the construction of the Udawalawe Reservoir." , es: "Un importante parque nacional creado como reserva para los animales salvajes desplazados por la construcción del embalse de Udawalawe.", pt: "Um importante parque nacional criado como reserva para os animais selvagens deslocados pela construção da barragem de Udawalawe.", fr: "Un parc national important créé comme réserve pour les animaux sauvages déplacés par la construction du barrage d'Udawalawe."},
     facts: {
       de: ["Berühmt für große Elefantenherden", "Umkreist den Udawalawe-Stausee"],
@@ -827,7 +825,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
     parent: "LK-23",
     coords: [80.806, 6.804],
     name: { de: "Horton-Plains-Nationalpark", hu: "Horton Plains Nemzeti Park", ro: "Parcul Național Horton Plains", en: "Horton Plains National Park"},
-    image: "/poi-images/horton-plains-national-park-nature-v2.webp",
     description: { de: "Ein Schutzgebiet im zentralen Hochland von Sri Lanka, das von Bergland und Nebelwald bedeckt ist.", hu: "Védett terület Srí Lanka középső fennsíkján, amelyet hegyi füves puszták és köderdők borítanak.", ro: "O arie protejată din zonele muntoase centrale ale Sri Lankăi, acoperită de pajiști montane și păduri tropicale.", en: "A protected area in the central highlands of Sri Lanka, covered by montane grassland and cloud forest." , es: "Área protegida en las tierras altas centrales de Sri Lanka, cubierta de montañas y bosques nubosos.", pt: "Área protegida nas terras altas centrais do Sri Lanka, coberta por montanhas e florestas nubladas.", fr: "Zone protégée dans les hautes terres centrales du Sri Lanka, couverte de montagnes et de forêts de nuages."},
     facts: {
       de: ["Über 2.100 Meter hoch", "Heimat endemischer Arten"],
@@ -1304,7 +1301,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
     parent: "LK-91",
     coords: [80.416, 6.416],
     name: { de: "Sinharaja-Waldreservat", hu: "Sinharaja Erdőrezervátum", ro: "Rezervația Forestieră Sinharaja", en: "Sinharaja Forest Reserve"},
-    image: "/poi-images/sinharaja-forest-reserve-nature-v2.webp",
     description: { de: "Ein Nationalpark und Biodiversitäts-Hotspot in Sri Lanka, der als UNESCO-Weltkulturerbe anerkannt ist.", hu: "Nemzeti park és biodiverzitási központ Srí Lankán, amelyet az UNESCO a Világörökség részévé nyilvánított.", ro: "Un parc național și un punct fierbinte de biodiversitate în Sri Lanka, recunoscut ca sit al Patrimoniului Mondial UNESCO.", en: "A national park and a biodiversity hotspot in Sri Lanka, recognized as a UNESCO World Heritage Site." , es: "Parque nacional y punto de biodiversidad en Sri Lanka, reconocido como Patrimonio de la Humanidad por la UNESCO.", pt: "Parque nacional e ponto de biodiversidade no Sri Lanka, reconhecido como Património da Humanidade pela UNESCO.", fr: "Parc national et haut lieu de la biodiversité au Sri Lanka, reconnu comme site du patrimoine mondial de l'UNESCO."},
     facts: {
       de: ["UNESCO-Weltkulturerbe", "Letztes intaktes primäres Regenwaldgebiet im Land"],
@@ -1457,7 +1453,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
     parent: "LK-71",
     coords: [79.995, 8.435],
     name: { de: "Wilpattu-Nationalpark", hu: "Wilpattu Nemzeti Park", ro: "Parcul Național Wilpattu", en: "Wilpattu National Park"},
-    image: "/poi-images/wilpattu-national-park-nature-v2.webp",
     description: { de: "Der größte und einer der ältesten Nationalparks in Sri Lanka, bekannt für seine natürlichen Seen (Willus).", hu: "Srí Lanka legnagyobb és egyik legrégebbi nemzeti parkja, amely természetes tavairól (willus) ismert.", ro: "Cel mai mare și unul dintre cele mai vechi parcuri naționale din Sri Lanka, cunoscut pentru lacurile sale naturale (willus).", en: "The largest and one of the oldest national parks in Sri Lanka, known for its natural lakes (willus)." , es: "El parque nacional más grande y uno de los más antiguos de Sri Lanka, conocido por sus lagos naturales (Willus).", pt: "O maior e um dos mais antigos parques nacionais do Sri Lanka, conhecido pelos seus lagos naturais (Willus).", fr: "Le plus grand et l'un des plus anciens parcs nationaux du Sri Lanka, connu pour ses lacs naturels (Willus)."},
     facts: {
       de: ["Größter Nationalpark in Sri Lanka", "Berühmt für seine 'Willu' (natürliche Seen)"],
@@ -1790,7 +1785,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
     parent: "LK-72",
     coords: [80.833, 8.033],
     name: { de: "Minneriya-Nationalpark", hu: "Minneriya Nemzeti Park", ro: "Parcul Național Minneriya", en: "Minneriya National Park"},
-    image: "/poi-images/minneriya-national-park-nature-v2.webp",
     description: { de: "Ein Nationalpark in der Nord-Zentral-Provinz von Sri Lanka, bekannt für die große Elefantenversammlung während der Trockenzeit.", hu: "Srí Lanka Észak-Közép tartományában található nemzeti park, amely a száraz évszakban összegyűlő hatalmas elefántcsordákról híres.", ro: "Un parc național din provincia North Central din Sri Lanka, renumit pentru marea adunare a elefanților în timpul sezonului uscat.", en: "A national park in North Central Province of Sri Lanka, renowned for the great elephant gathering during the dry season." , es: "Parque nacional en la Provincia Centro-Norte de Sri Lanka, famoso por la gran congregación de elefantes durante la temporada seca.", pt: "Parque nacional na Província Centro-Norte do Sri Lanka, conhecido pela grande concentração de elefantes durante a época seca.", fr: "Parc national situé dans la province du Centre-Nord du Sri Lanka, célèbre pour le grand rassemblement d'éléphants durant la saison sèche."},
     facts: {
       de: ["Beherbergt 'The Gathering' von Elefanten", "Zentriert um den Minneriya-Stausee"],
@@ -1943,7 +1937,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
     parent: "LK-72",
     coords: [80.900, 8.150],
     name: { de: "Kaudulla-Nationalpark", hu: "Kaudulla Nemzeti Park", ro: "Parcul Național Kaudulla", en: "Kaudulla National Park"},
-    image: "/poi-images/kaudulla-national-park-nature-v2.webp",
     description: { de: "Ein wichtiger Elefantenkorridor, der die Nationalparks Minneriya und Somawathie verbindet, zentriert auf dem Kaudulla-Stausee.", hu: "Fontos elefántfolyosó, amely összeköti a Minneriya és a Somawathie nemzeti parkokat a Kaudulla-víztározó környékén.", ro: "Un important coridor pentru elefanți care leagă parcurile naționale Minneriya și Somawathie, centrat pe lacul Kaudulla.", en: "An important elephant corridor connecting Minneriya and Somawathie national parks, centered on the Kaudulla tank." , es: "Un importante corredor de elefantes que conecta los parques nacionales Minneriya y Somawathie, centrado en el embalse de Kaudulla.", pt: "Um importante corredor de elefantes que liga os parques nacionais Minneriya e Somawathie, centrado na albufeira de Kaudulla.", fr: "Un important corridor pour les éléphants reliant les parcs nationaux de Minneriya et de Somawathie, centré sur le réservoir de Kaudulla."},
     facts: {
       de: ["Wichtiger Elefantenkorridor", "2002 zum Nationalpark erklärt"],
@@ -2132,7 +2125,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
     parent: "LK-22",
     coords: [80.983, 7.716],
     name: { de: "Wasgamuwa-Nationalpark", hu: "Wasgamuwa Nemzeti Park", ro: "Parcul Național Wasgamuwa", en: "Wasgamuwa National Park"},
-    image: "/poi-images/wasgamuwa-national-park-nature-v2.webp",
     description: { de: "Ein Naturschutzgebiet in Sri Lanka, das für seine großen Populationen von sri-lankischen Elefanten und Lippenbären berühmt ist.", hu: "Srí Lanka-i természetvédelmi terület, amely a hatalmas Srí Lanka-i elefánt- és ajakosmedve-populációjáról híres.", ro: "O rezervație naturală din Sri Lanka, renumită pentru populațiile mari de elefanți din Sri Lanka și urși buzați.", en: "A nature reserve in Sri Lanka that is famous for its large populations of Sri Lankan elephants and sloth bears." , es: "Reserva natural en Sri Lanka, famosa por sus grandes poblaciones de elefantes de Sri Lanka y osos bezudos.", pt: "Reserva natural no Sri Lanka, famosa pelas suas grandes populações de elefantes do Sri Lanka e ursos-beiçudos.", fr: "Réserve naturelle au Sri Lanka, célèbre pour ses grandes populations d'éléphants du Sri Lanka et d'ours lippus."},
     facts: {
       de: ["Heimat vieler Lippenbären", "Begrenzt vom Mahaweli-Fluss"],
@@ -2321,7 +2313,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
     parent: "LK-33",
     coords: [81.233, 6.183],
     name: { de: "Bundala-Nationalpark", hu: "Bundala Nemzeti Park", ro: "Parcul Național Bundala", en: "Bundala National Park"},
-    image: "/poi-images/bundala-national-park-nature-v2.webp",
     description: { de: "Ein international wichtiges Überwinterungsgebiet für Zugvögel in Sri Lanka, berühmt für große Flamingoschwärme.", hu: "Nemzetközileg jelentős telelőhely a vándormadarak számára Srí Lankán, amely híres hatalmas flamingócsapatairól.", ro: "O zonă de iernare de importanță internațională pentru păsările de apă migratoare din Sri Lanka, faimoasă pentru stolurile mari de flamingo.", en: "An internationally important wintering ground for migratory water birds in Sri Lanka, famous for large flocks of flamingos." , es: "Un área de invernada de importancia internacional para aves migratorias en Sri Lanka, famosa por sus grandes bandadas de flamencos.", pt: "Uma área de invernada de importância internacional para aves migratórias no Sri Lanka, famosa pelos seus grandes bandos de flamingos.", fr: "Une zone d'hivernage d'importance internationale pour les oiseaux migrateurs au Sri Lanka, célèbre pour ses grands groupes de flamants roses."},
     facts: {
       de: ["Erstes Ramsar-Feuchtgebiet in Sri Lanka", "Wichtig für Zugvögel"],
@@ -2582,7 +2573,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
     parent: "LK-52",
     coords: [81.483, 7.216],
     name: { de: "Gal-Oya-Nationalpark", hu: "Gal Oya Nemzeti Park", ro: "Parcul Național Gal Oya", en: "Gal Oya National Park"},
-    image: "/poi-images/gal-oya-national-park-nature-v2.webp",
     description: { de: "Es wurde als Einzugsgebiet für das Senanayake Samudraya gegründet und ist bekannt für seine schwimmenden Elefanten.", hu: "A Senanayake Samudraya víztározó vízgyűjtő területeként hozták létre, és a vízben úszó elefántjairól ismert.", ro: "Înființat pentru a servi ca bazin hidrografic pentru Senanayake Samudraya, este cunoscut pentru elefanții săi înotători.", en: "Established to serve as a catchment area for the Senanayake Samudraya, it is known for its swimming elephants." , es: "Establecido como área de captación para el embalse Senanayake Samudraya, es famoso por sus elefantes nadadores.", pt: "Fundado como área de captação para a albufeira de Senanayake Samudraya, é conhecido pelos seus elefantes nadadores.", fr: "Établi comme zone de chalandise pour le réservoir de Senanayake Samudraya, il est célèbre pour ses éléphants nageurs."},
     facts: {
       de: ["Heimat von schwimmenden Elefanten", "Umkreist den Senanayake-Samudraya-Stausee"],
@@ -3275,7 +3265,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
     parent: "LK-53",
     coords: [81.233, 8.450],
     name: { de: "Mahaweli-Fluss", hu: "Mahaweli folyó", ro: "Râul Mahaweli", en: "Mahaweli River"},
-    image: "/poi-images/mahaweli-river-nature-v2.webp",
     description: { de: "Der längste Fluss Sri Lankas, der tiefe Schluchten und fruchtbare Täler durchquert und einen erheblichen Teil der Wasserkraft des Landes erzeugt.", hu: "Srí Lanka leghosszabb folyója, amely mély szurdokokon és termékeny völgyeken halad keresztül, valamint az ország vízenergiájának jelentős részét adja.", ro: "Cel mai lung râu din Sri Lanka, care trece prin defilee adânci, văi fertile și generează o cantitate semnificativă de energie hidroelectrică a țării.", en: "The longest river in Sri Lanka, passing through deep gorges, fertile valleys, and generating a significant amount of the country's hydroelectricity." , es: "El río más largo de Sri Lanka, que atraviesa profundos cañones y valles fértiles, generando una parte importante de la energía hidroeléctrica del país.", pt: "O rio mais longo do Sri Lanka, que atravessa desfiladeiros profundos e vales férteis, gerando uma parte significativa da energia hidroelétrica do país.", fr: "La plus longue rivière du Sri Lanka, qui traverse des canyons profonds et des vallées fertiles, générant une part importante de l'énergie hydroélectrique du pays."},
     facts: {
       de: ["Längster Fluss in Sri Lanka (335 km)", "Liefert über 40% der Elektrizität"],
@@ -4436,7 +4425,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
     parent: "LK-11",
     coords: [79.866, 6.983],
     name: { de: "Kelani-Fluss", hu: "Kelani folyó", ro: "Râul Kelani", en: "Kelani River"},
-    image: "/poi-images/kelani-river-nature-v2.webp",
     description: { de: "Ein großer Fluss in Sri Lanka, der vom Sri Pada-Gebirge nach Colombo fließt und für die Wasserversorgung der Stadt von entscheidender Bedeutung ist.", hu: "Srí Lanka egyik fő folyója, amely a Sri Pada-hegységből Colombo felé folyik, és létfontosságú a város vízellátásában.", ro: "Un râu major din Sri Lanka, care curge din lanțul muntos Sri Pada până la Colombo, vital pentru alimentarea cu apă a orașului.", en: "A major river in Sri Lanka that flows from the Sri Pada Mountain Range to Colombo, vital for the city's water supply." , es: "Un gran río en Sri Lanka que fluye desde las montañas Sri Pada hasta Colombo y es crucial para el suministro de agua de la ciudad.", pt: "Um grande rio no Sri Lanka que flui das montanhas Sri Pada até Colombo e é crucial para o abastecimento de água da cidade.", fr: "Une grande rivière au Sri Lanka qui coule des montagnes du Sri Pada jusqu'à Colombo et est cruciale pour l'approvisionnement en eau de la ville."},
     facts: {
       de: ["Liefert 80% des Wassers für Colombo", "Beliebt für Wildwasser-Rafting"],
@@ -5489,7 +5477,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
     parent: "LK-13",
     coords: [79.966, 6.583],
     name: { de: "Kalu-Fluss", hu: "Kalu folyó", ro: "Râul Kalu", en: "Kalu Ganga"},
-    image: "/poi-images/kalu-river-nature-v2.webp",
     description: { de: "Dieser Fluss entspringt dem Adams Peak und fließt an die Westküste, wo er in der Vergangenheit für den Edelsteinabbau und den Transport genutzt wurde.", hu: "Az Adams-csúcsról eredve a nyugati part felé folyik, és történelmileg drágakőbányászatra, valamint szállításra használták.", ro: "Pornind de la Adams Peak, acest râu curge spre coasta de vest, fiind folosit istoric pentru extragerea pietrelor prețioase și transport.", en: "Starting from Adams Peak, this river flows to the western coast, historically used for gem mining and transportation." , es: "Este río nace en el Pico de Adán y fluye hacia la costa oeste, donde históricamente se utilizó para la minería de gemas y el transporte.", pt: "Este rio nasce no Pico de Adão e flui para a costa oeste, onde historicamente foi utilizado para a exploração de gemas e transporte.", fr: "Cette rivière prend sa source au Pic d'Adam et coule vers la côte ouest, où elle était historiquement utilisée pour l'extraction de pierres précieuses et le transport."},
     facts: {
       de: ["Der Name bedeutet 'Schwarzer Fluss'", "129 km lang"],
@@ -5894,7 +5881,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
     parent: "LK-33",
     coords: [81.016, 6.100],
     name: { de: "Walawe-Fluss", hu: "Walawe folyó", ro: "Râul Walawe", en: "Walawe River"},
-    image: "/poi-images/walawe-river-nature-v2.webp",
     description: { de: "Ein großer Fluss, der durch den Süden Sri Lankas fließt und mehrere Nationalparks und wichtige Bewässerungssysteme versorgt.", hu: "Srí Lanka déli részén áthaladó fő folyó, amely számos nemzeti parkot és létfontosságú öntözőrendszert lát el.", ro: "Un râu major care curge prin sudul Sri Lankăi, susținând mai multe parcuri naționale și sisteme vitale de irigații.", en: "A major river flowing through the south of Sri Lanka, sustaining several national parks and vital irrigation systems." , es: "Gran río que fluye por el sur de Sri Lanka, alimentando varios parques nacionales y sistemas de riego importantes.", pt: "Grande rio que flui pelo sul do Sri Lanka, alimentando vários parques nacionais e sistemas de irrigação importantes.", fr: "Grande rivière coulant dans le sud du Sri Lanka, alimentant plusieurs parcs nationaux et systèmes d'irrigation importants."},
     facts: {
       de: ["Liefert Wasser für den Udawalawe-Nationalpark", "138 km lang"],
@@ -6191,7 +6177,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
     parent: "LK-23",
     coords: [80.773, 7.000],
     name: { de: "Pidurutalagala", hu: "Pidurutalagala", ro: "Pidurutalagala", en: "Pidurutalagala"},
-    image: "/poi-images/pidurutalagala-nature-v2.webp",
     description: { de: "Der höchste Berg in Sri Lanka, der 2.524 Meter hoch ist und in erster Linie eine Hochsicherheitszone mit wichtigen Kommunikationsanlagen darstellt.", hu: "Srí Lanka legmagasabb hegye (2524 méter), amely elsősorban egy szigorúan őrzött övezet, fontos távközlési berendezésekkel.", ro: "Cel mai înalt munte din Sri Lanka, cu o înălțime de 2.524 de metri, fiind în primul rând o zonă de înaltă securitate cu echipamente de comunicații vitale.", en: "The highest mountain in Sri Lanka, standing at 2,524 meters, primarily a high-security zone containing vital communications equipment." , es: "La montaña más alta de Sri Lanka, con 2.524 metros, que funciona principalmente como zona de alta seguridad con instalaciones de comunicación.", pt: "A montanha mais alta do Sri Lanka, com 2.524 metros, que funciona principalmente como uma zona de alta segurança com instalações de comunicação.", fr: "La plus haute montagne du Sri Lanka, culminant à 2 524 mètres, qui sert principalement de zone de haute sécurité avec des installations de communication."},
     facts: {
       de: ["Höchster Gipfel in Sri Lanka (2.524 m)", "Streng geschütztes Militärgebiet"],
@@ -6488,7 +6473,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
     parent: "LK-11",
     coords: [79.851, 6.927],
     name: { de: "Beira-See", hu: "Beira-tó", ro: "Lacul Beira", en: "Beira Lake"},
-    image: "/poi-images/lake-beira-nature-v2.webp",
     description: { de: "Ein großer See im Zentrum der Stadt Colombo, der früher für den Transport innerhalb der Stadt und der umliegenden Städte genutzt wurde.", hu: "Nagy tó Colombo városközpontjában, amelyet egykor a város és a környező települések közötti áruszállításra használtak.", ro: "Un lac mare în centrul orașului Colombo, folosit odată pentru transport în interiorul orașului și a orașelor înconjurătoare.", en: "A large lake in the center of the city of Colombo, once used for transport within the city and surrounding towns." , es: "Un gran lago en el centro de la ciudad de Colombo, que anteriormente se utilizaba para el transporte dentro de la ciudad y las ciudades circundantes.", pt: "Um grande lago no centro da cidade de Colombo, que anteriormente era utilizado para o transporte dentro da cidade e cidades circundantes.", fr: "Un grand lac au centre de la ville de Colombo, qui était autrefois utilisé pour le transport à l'intérieur de la ville et des villes environnantes."},
     facts: {
       de: ["Das Hotel liegt im Zentrum von Colombo", "Heimat eines berühmten buddhistischen Tempels"],
@@ -7973,7 +7957,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
     parent: "LK-31",
     coords: [80.052, 6.273],
     name: { de: "Madu-Fluss", hu: "Madu folyó", ro: "Râul Madu", en: "Madu Ganga"},
-    image: "/poi-images/madu-river-nature-v2.webp",
     description: { de: "Ein komplexes Küstenfeuchtgebiets-Ökosystem, umgeben von Mangrovenwäldern und zahlreichen kleinen Inseln, beliebt für Bootssafaris.", hu: "Kiterjedt part menti vizes élőhely-ökoszisztéma, amelyet mangroveerdők és számos apró sziget vesz körül; nagyon népszerű csónakszafarik helyszíne.", ro: "Un ecosistem complex de zone umede de coastă, înconjurat de păduri de mangrove și numeroase insule mici, popular pentru safari-uri cu barca.", en: "A complex coastal wetland ecosystem surrounded by mangrove forests and numerous small islands, popular for boat safaris." , es: "Un complejo ecosistema de humedales costeros, rodeado de bosques de manglares y numerosas pequeñas islas, popular para safaris en barco.", pt: "Um complexo ecossistema de zonas húmidas costeiras, rodeado por florestas de mangais e numerosas pequenas ilhas, popular para safaris de barco.", fr: "Un écosystème complexe de zones humides côtières, entouré de mangroves et de nombreuses petites îles, populaire pour les safaris en bateau."},
     facts: {
       de: ["Berühmt für Mangroven-Bootssafaris", "Enthält über 60 Inseln"],
@@ -8234,7 +8217,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
     parent: "LK-52",
     coords: [81.683, 6.550],
     name: { de: "Kumana-Nationalpark", hu: "Kumana Nemzeti Park", ro: "Parcul Național Kumana", en: "Kumana National Park"},
-    image: "/poi-images/kumana-national-park-nature-v2.webp",
     description: { de: "Dieser Park ist bekannt für seine riesigen Schwärme von Zug- und Watvögeln und ein Paradies für Vogelbeobachter.", hu: "A vonuló vízimadarak és gázlómadarak hatalmas csapatainak köszönhetően ez a park a madármegfigyelők igazi paradicsoma.", ro: "Cunoscut pentru stolurile sale masive de păsări migratoare de apă și păsări de țărm, acest parc este un paradis pentru iubitorii de păsări.", en: "Known for its massive flocks of migratory waterfowl and wading birds, this park is a paradise for bird watchers." , es: "Este parque es famoso por sus enormes bandadas de aves migratorias y zancudas, y es un paraíso para los observadores de aves.", pt: "Este parque é famoso pelos seus enormes bandos de aves migratórias e pernaltas, e é um paraíso para os observadores de aves.", fr: "Ce parc est célèbre pour ses énormes nuées d'oiseaux migrateurs et d'échassiers, et est un paradis pour les observateurs d'oiseaux."},
     facts: {
       de: ["Top-Ziel für Vogelbeobachtungen", "Begrenzt durch den Fluss Kumbukkan Oya"],

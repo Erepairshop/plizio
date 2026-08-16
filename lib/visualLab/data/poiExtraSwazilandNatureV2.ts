@@ -197,7 +197,6 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     parent: "SZ-HH",
     coords: [31.1167, -25.9167],
     name: { de: "Emlembe", hu: "Emlembe", ro: "Emlembe", en: "Emlembe"},
-    image: "/poi-images/emlembe-nature-v2.webp",
     description: {
       de: "Emlembe ist der höchste Gipfel in Eswatini und bietet einen spektakulären Blick über die Drakensberge.",
       hu: "Emlembe Eswatini legmagasabb csúcsa, amely látványos kilátást nyújt a Drakensberg-hegységre.",
@@ -358,7 +357,6 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     parent: "SZ-HH",
     coords: [31.1667, -26.25],
     name: { de: "Sibebe-Fels", hu: "Sibebe-szikla", ro: "Stânca Sibebe", en: "Sibebe Rock"},
-    image: "/poi-images/sibebe-rock-nature-v2.webp",
     description: {
       de: "Der Sibebe Rock ist der weltweit größte Granit-Pluton und ein beeindruckendes geologisches Wunder in der Nähe von Mbabane.",
       hu: "A Sibebe-szikla a világ legnagyobb gránitplutonja, és lenyűgöző geológiai csoda Mbabane közelében.",
@@ -402,7 +400,6 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     parent: "SZ-MA",
     coords: [31.5, -26.7],
     name: { de: "Lusutfu-Fluss", hu: "Lusutfu-folyó", ro: "Râul Lusutfu", en: "Lusutfu River"},
-    image: "/poi-images/lusutfu-river-nature-v2.webp",
     description: {
       de: "Der Lusutfu, auch als Großer Usutu bekannt, ist der längste Fluss des Landes und berühmt für Wildwasser-Rafting.",
       hu: "A Lusutfu, más néven Nagy-Usutu, az ország leghosszabb folyója, és híres a vadvízi evezésről.",
@@ -527,7 +524,6 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     parent: "SZ-HH",
     coords: [31.3, -26.0],
     name: { de: "Komati-Fluss", hu: "Komati-folyó", ro: "Râul Komati", en: "Komati River"},
-    image: "/poi-images/komati-river-nature-v2.webp",
     description: {
       de: "Ein bedeutender Fluss, der durch das nördliche Hochland fließt und die Grundlage für wichtige Bewässerungsprojekte bildet.",
       hu: "Jelentős folyó, amely az északi felföldön folyik keresztül, és fontos öntözési projektek alapját képezi.",
@@ -571,7 +567,6 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     parent: "SZ-LU",
     coords: [31.8, -26.2],
     name: { de: "Mbuluzi-Fluss", hu: "Mbuluzi-folyó", ro: "Râul Mbuluzi", en: "Mbuluzi River"},
-    image: "/poi-images/mbuluzi-river-nature-v2.webp",
     description: {
       de: "Der Mbuluzi ist eine lebenswichtige Wasserquelle im Nordosten und unterstützt sowohl die Landwirtschaft als auch die Tierwelt.",
       hu: "A Mbuluzi létfontosságú vízforrás északkeleten, amely mind a mezőgazdaságot, mind a vadvilágot támogatja.",
@@ -660,7 +655,6 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     parent: "SZ-MA",
     coords: [31.2, -26.7],
     name: { de: "Ngwempisi-Fluss", hu: "Ngwempisi-folyó", ro: "Râul Ngwempisi", en: "Ngwempisi River"},
-    image: "/poi-images/ngwempisi-river-nature-v2.webp",
     description: {
       de: "Bekannt für seine dramatische Schlucht und malerischen Wanderwege, bietet der Ngwempisi eine wilde Naturerfahrung.",
       hu: "Dramatikus szurdokáról és festői túraútvonalairól ismert Ngwempisi vad természeti élményt nyújt.",
@@ -704,7 +698,6 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     parent: "SZ-SH",
     coords: [31.2, -26.9],
     name: { de: "Mkondo-Fluss", hu: "Mkondo-folyó", ro: "Râul Mkondo", en: "Mkondo River"},
-    image: "/poi-images/mkondo-river-nature-v2.webp",
     description: {
       de: "Ein bedeutender Fluss im Süden, der ein Nebenfluss des Großen Usutu ist und die Region Shiselweni prägt.",
       hu: "Jelentős folyó délen, amely a Nagy-Usutu mellékfolyója, és meghatározza a Shiselweni régiót.",
@@ -836,7 +829,6 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     parent: "SZ-HH",
     coords: [31.1, -26.4],
     name: { de: "Luphohlo-Stausee", hu: "Luphohlo-víztározó", ro: "Barajul Luphohlo", en: "Luphohlo Dam"},
-    image: "/poi-images/luphohlo-dam-nature-v2.webp",
     description: {
       de: "Ein malerischer Stausee in der Nähe von Mbabane, der sowohl zur Stromerzeugung als auch zur Erholung genutzt wird.",
       hu: "Festői víztározó Mbabane közelében, amelyet áramtermelésre és kikapcsolódásra egyaránt használnak.",
@@ -925,7 +917,6 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     parent: "SZ-LU",
     coords: [31.8, -25.9],
     name: { de: "Sand-River-Stausee", hu: "Sand River-víztározó", ro: "Barajul Sand River", en: "Sand River Dam"},
-    image: "/poi-images/sand-river-dam-nature-v2.webp",
     description: {
       de: "Dieser Stausee im Nordosten versorgt die großen Zitrus- und Zuckerplantagen der Region mit dem nötigen Wasser.",
       hu: "Ez az északkeleti víztározó látja el a régió nagy citrus- és cukorültetvényeit a szükséges vízzel.",
@@ -969,7 +960,6 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     parent: "SZ-LU",
     coords: [31.95, -26.5],
     name: { de: "Lubombo-Berge", hu: "Lubombo-hegység", ro: "Munții Lubombo", en: "Lubombo Mountains"},
-    image: "/poi-images/lubombo-mountains-nature-v2.webp",
     description: {
       de: "Ein schmaler Gebirgszug, der die östliche Grenze Eswatinis bildet und für seine einzigartige Geologie bekannt ist.",
       hu: "Keskeny hegylánc, amely Eswatini keleti határát alkotja, és egyedülálló geológiájáról ismert.",
@@ -1058,7 +1048,6 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     parent: "SZ-LU",
     coords: [31.98, -26.1],
     name: { de: "Shewula-Wald", hu: "Shewula-erdő", ro: "Pădurea Shewula", en: "Shewula Forest"},
-    image: "/poi-images/shewula-forest-nature-v2.webp",
     description: {
       de: "Ein gemeinschaftlich geführtes Reservat mit unberührten Trockenwäldern auf dem hohen Lubombo-Plateau.",
       hu: "Közösségi kezelésű rezervátum érintetlen száraz erdőkkel a magas Lubombo-fennsíkon.",
@@ -1219,7 +1208,6 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     parent: "SZ-HH",
     coords: [31.1, -26.1],
     name: { de: "Malolotja-Berge", hu: "Malolotja-hegység", ro: "Munții Malolotja", en: "Malolotja Mountains"},
-    image: "/poi-images/malolotja-mountains-nature-v2.webp",
     description: {
       de: "In den Malolotja-Bergen finden sich einige der ältesten Gesteinsformationen der Erde und eine vielfältige Flora.",
       hu: "A Malolotja-hegységben találhatók a Föld legősibb kőzetképződményei és változatos flórája.",
@@ -1307,7 +1295,6 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     parent: "SZ-LU",
     coords: [32.0, -26.2],
     name: { de: "Mlawula-Wald", hu: "Mlawula-erdő", ro: "Pădurea Mlawula", en: "Mlawula Forest"},
-    image: "/poi-images/mlawula-forest-nature-v2.webp",
     description: {
       de: "An der Kreuzung von Trockenwald und Flussvegetation gelegen, bietet dieser Wald eine reiche Artenvielfalt.",
       hu: "A száraz erdő és a folyóparti vegetáció találkozásánál fekvő erdő gazdag biológiai sokféleséget kínál.",
@@ -1548,7 +1535,6 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     parent: "SZ-HH",
     coords: [31.25, -25.9],
     name: { de: "Phophonyane-Wasserfall", hu: "Phophonyane-vízesés", ro: "Cascada Phophonyane", en: "Phophonyane Falls"},
-    image: "/poi-images/phophonyane-falls-nature-v2.webp",
     description: {
       de: "Ein dramatischer Wasserfall in einem üppigen Wald in der Nähe von Piggs Peak, umgeben von uralten Gesteinen.",
       hu: "Dramatikus vízesés egy dús erdőben Piggs Peak közelében, ősi kőzetekkel körülvéve.",
@@ -1592,7 +1578,6 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     parent: "SZ-HH",
     coords: [31.13, -26.15],
     name: { de: "Malolotja-Wasserfall", hu: "Malolotja-vízesés", ro: "Cascada Malolotja", en: "Malolotja Falls"},
-    image: "/poi-images/malolotja-falls-nature-v2.webp",
     description: {
       de: "Der höchste Wasserfall Eswatinis stürzt in eine tiefe Gebirgsschlucht und bietet einen atemberaubenden Anblick.",
       hu: "Eswatini legmagasabb vízesése egy mély hegyi szurdokba zúdul le, lélegzetelállító látványt nyújtva.",
@@ -1636,7 +1621,6 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     parent: "SZ-MA",
     coords: [31.1, -26.5],
     name: { de: "Usutu-Wald", hu: "Usutu-erdő", ro: "Pădurea Usutu", en: "Usutu Forest"},
-    image: "/poi-images/usutu-forest-nature-v2.webp",
     description: {
       de: "Einer der größten künstlich angelegten Pinienwälder der südlichen Hemisphäre, der eine wichtige wirtschaftliche Rolle spielt.",
       hu: "A déli félteke egyik legnagyobb mesterségesen telepített fenyőerdője, amely fontos gazdasági szerepet játszik.",
@@ -1725,7 +1709,6 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     parent: "SZ-HH",
     coords: [31.2, -25.8],
     name: { de: "Mlumati-Fluss", hu: "Mlumati-folyó", ro: "Râul Mlumati", en: "Mlumati River"},
-    image: "/poi-images/mlumati-river-nature-v2.webp",
     description: {
       de: "Ein wichtiger Fluss im Norden, der ein Nebenfluss des Komati ist und durch malerische Landschaften fließt.",
       hu: "Fontos északi folyó, amely a Komati mellékfolyója, és festői tájakon keresztül folyik.",
@@ -1850,7 +1833,6 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     parent: "SZ-SH",
     coords: [31.8, -27.3],
     name: { de: "Pongola-Fluss", hu: "Pongola-folyó", ro: "Râul Pongola", en: "Pongola River"},
-    image: "/poi-images/pongola-river-nature-v2.webp",
     description: {
       de: "Bildet einen Teil der südlichen Grenze zwischen Eswatini und Südafrika und ist bekannt für seine Fischvorkommen.",
       hu: "Eswatini és Dél-Afrika déli határának egy részét alkotja, és bőséges halállományáról ismert.",
@@ -1939,7 +1921,6 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     parent: "SZ-HH",
     coords: [31.02, -26.2],
     name: { de: "Ngwenya-Berg", hu: "Ngwenya-hegy", ro: "Muntele Ngwenya", en: "Ngwenya Mountain"},
-    image: "/poi-images/ngwenya-mountain-nature-v2.webp",
     description: {
       de: "Dieser uralte Berg beherbergt die älteste bekannte Mine der Welt und bietet eine beeindruckende Aussicht.",
       hu: "Ez az ősi hegy ad otthont a világ legrégebbi ismert bányájának, és lenyűgöző kilátást nyújt.",
@@ -1983,7 +1964,6 @@ export const poiExtraSwazilandNatureV2: POI[] = [
     parent: "SZ-HH",
     coords: [31.18, -26.48],
     name: { de: "Mlilwane-Wald", hu: "Mlilwane-erdő", ro: "Pădurea Mlilwane", en: "Mlilwane Forest"},
-    image: "/poi-images/mlilwane-forest-nature-v2.webp",
     description: {
       de: "Ein Pioniergebiet für den Naturschutz mit vielfältigen Waldstücken und offenen Ebenen im Ezulwini-Tal.",
       hu: "Természetvédelmi úttörő terület változatos erdőfoltokkal és nyílt síkságokkal az Ezulwini-völgyben.",

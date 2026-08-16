@@ -161,7 +161,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-03",
     coords: [-1.5339, 12.3686],
     name: { de: "Ouagadougou", hu: "Ouagadougou", ro: "Ouagadougou", en: "Ouagadougou"},
-    image: "/poi-images/ouagadougou-cities-v2.webp",
     description: { de: "Die Hauptstadt und größte Stadt von Burkina Faso, das administrative und kulturelle Zentrum des Landes.", hu: "Burkina Faso fővárosa és legnagyobb városa, az ország közigazgatási és kulturális központja.", ro: "Capitala și cel mai mare oraș al statului Burkina Faso, centrul administrativ și cultural al țării.", en: "The capital and largest city of Burkina Faso, serving as the administrative and cultural center of the country." , es: "La capital y ciudad más grande de Burkina Faso, el centro administrativo y cultural del país.", pt: "A capital e maior cidade de Burkina Faso, o centro administrativo e cultural do país.", fr: "La capitale et la plus grande ville du Burkina Faso, le centre administratif et culturel du pays."},
     facts: {
       de: ["Zentrum des Mossi-Reiches.", "Austragungsort des FESPACO-Filmfestivals."],
@@ -235,7 +234,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-09",
     coords: [-4.2975, 11.1771],
     name: { de: "Bobo-Dioulasso", hu: "Bobo-Dioulasso", ro: "Bobo-Dioulasso", en: "Bobo-Dioulasso"},
-    image: "/poi-images/bobo-dioulasso-cities-v2.webp",
     description: { de: "Die zweitgrößte Stadt des Landes, bekannt für ihre Musik und ihre charakteristische Große Moschee.", hu: "Az ország második legnagyobb városa, amely a zenéjéről és jellegzetes Nagymecsetjéről híres.", ro: "Al doilea oraș ca mărime din țară, cunoscut pentru muzica sa și pentru Marea Moschee distinctivă.", en: "The second largest city in the country, known for its music and its distinctive Great Mosque." , es: "La segunda ciudad más grande del país, conocida por su música y su emblemática Gran Mezquita.", pt: "A segunda maior cidade do país, conhecida pela sua música e pela sua emblemática Grande Mesquita.", fr: "La deuxième ville du pays, connue pour sa musique et sa Grande Mosquée caractéristique."},
     facts: {
       de: ["Wirtschaftliches Zentrum im Westen.", "Bekannt für traditionelle Architektur."],
@@ -387,7 +385,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-06",
     coords: [-2.3628, 12.2526],
     name: { de: "Koudougou", hu: "Koudougou", ro: "Koudougou", en: "Koudougou"},
-    image: "/poi-images/koudougou-cities-v2.webp",
     description: { de: "Die drittgrößte Stadt, ein wichtiger Handelsknotenpunkt in der Region Centre-Ouest.", hu: "A harmadik legnagyobb város, fontos kereskedelmi csomópont a Centre-Ouest régióban.", ro: "Al treilea oraș ca mărime, un important nod comercial în regiunea Centre-Ouest.", en: "The third largest city, an important commercial hub in the Centre-Ouest region." , es: "La tercera ciudad más grande, un importante nudo comercial en la región de Centre-Ouest.", pt: "A terceira maior cidade, um importante centro comercial na região Centre-Ouest.", fr: "La troisième ville du pays, un nœud commercial important dans la région du Centre-Ouest."},
     facts: {
       de: ["Bekannt für die Textilindustrie.", "Heimat vieler Mossi-Gemeinschaften."],
@@ -422,7 +419,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-10",
     coords: [-2.4215, 13.5827],
     name: { de: "Ouahigouya", hu: "Ouahigouya", ro: "Ouahigouya", en: "Ouahigouya"},
-    image: "/poi-images/ouahigouya-cities-v2.webp",
     description: { de: "Eine bedeutende Stadt im Norden, historisch das Zentrum des Yatenga-Reiches.", hu: "Jelentős északi város, történelmileg a Yatenga Királyság központja.", ro: "Un oraș important din nord, istoric centrul Regatului Yatenga.", en: "A major city in the north, historically the center of the Yatenga Kingdom." , es: "Una ciudad importante en el norte, históricamente el centro del Reino de Yatenga.", pt: "Uma cidade importante no norte, historicamente o centro do Reino de Yatenga.", fr: "Une ville importante du nord, historiquement le centre du royaume du Yatenga."},
     facts: {
       de: ["Wichtiges Zentrum der Landwirtschaft.", "Gegründet im 18. Jahrhundert."],
@@ -502,7 +498,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-02",
     coords: [-4.755, 10.6333],
     name: { de: "Banfora", hu: "Banfora", ro: "Banfora", en: "Banfora"},
-    image: "/poi-images/banfora-cities-v2.webp",
     description: { de: "Eine malerische Stadt im Südwesten, umgeben von Wasserfällen und Zuckerrohrplantagen.", hu: "Festői délnyugati város, amelyet vízesések és cukornádültetvények vesznek körül.", ro: "Un oraș pitoresc din sud-vest, înconjurat de cascade și plantații de trestie de zahăr.", en: "A picturesque city in the southwest, surrounded by waterfalls and sugar cane plantations." , es: "Una pintoresca ciudad en el suroeste, rodeada de cascadas y plantaciones de caña de azúcar.", pt: "Uma cidade pitoresca no sudoeste, cercada por cascatas e plantações de cana-de-açúcar.", fr: "Une ville pittoresque du sud-ouest, entourée de cascades et de plantations de canne à sucre."},
     facts: {
       de: ["Bekannt für die Karfiguéla-Wasserfälle.", "Zentrum der Zuckerproduktion."],
@@ -537,7 +532,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-01",
     coords: [-3.4616, 12.4633],
     name: { de: "Dédougou", hu: "Dédougou", ro: "Dédougou", en: "Dédougou"},
-    image: "/poi-images/dedougou-cities-v2.webp",
     description: { de: "Die Hauptstadt der Region Boucle du Mouhoun, berühmt für ihr Maskenfest.", hu: "A Boucle du Mouhoun régió fővárosa, amely a maszkfesztiváljáról híres.", ro: "Capitala regiunii Boucle du Mouhoun, faimoasă pentru festivalul său de măști.", en: "The capital of the Boucle du Mouhoun region, famous for its mask festival." , es: "La capital de la región Boucle du Mouhoun, famosa por su festival de máscaras.", pt: "A capital da região de Boucle du Mouhoun, famosa pelo seu festival de máscaras.", fr: "La capitale de la région de la Boucle du Mouhoun, célèbre pour son festival des masques."},
     facts: {
       de: ["Ausrichter des FESTIMA-Festivals.", "Bedeutendes Handelszentrum."],
@@ -617,7 +611,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-05",
     coords: [-1.0844, 13.0916],
     name: { de: "Kaya", hu: "Kaya", ro: "Kaya", en: "Kaya"},
-    image: "/poi-images/kaya-cities-v2.webp",
     description: { de: "Eine Stadt nördlich der Hauptstadt, ein wichtiges Zentrum für Lederverarbeitung und Handwerk.", hu: "A fővárostól északra fekvő város, a bőrfeldolgozás és a kézművesség fontos központja.", ro: "Un oraș la nord de capitală, un centru important pentru prelucrarea pielii și meșteșuguri.", en: "A city north of the capital, an important center for leather working and crafts." , es: "Una ciudad al norte de la capital, un importante centro de artesanía y procesamiento de cuero.", pt: "Uma cidade ao norte da capital, um importante centro de processamento de couro e artesanato.", fr: "Une ville au nord de la capitale, un centre important pour le travail du cuir et l'artisanat."},
     facts: {
       de: ["Berühmt für hochwertige Lederwaren.", "Hauptstadt der Region Centre-Nord."],
@@ -697,7 +690,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-12",
     coords: [-0.0345, 14.0327],
     name: { de: "Dori", hu: "Dori", ro: "Dori", en: "Dori"},
-    image: "/poi-images/dori-cities-v2.webp",
     description: { de: "Eine wichtige Stadt in der Sahel-Region, geprägt von Nomadenkulturen und Viehzucht.", hu: "Fontos város a Száhel-övezetben, amelyet a nomád kultúrák és az állattenyésztés jellemez.", ro: "Un oraș important din regiunea Sahel, caracterizat de culturi nomade și creșterea animalelor.", en: "An important city in the Sahel region, characterized by nomadic cultures and livestock farming." , es: "Una ciudad clave en la región del Sahel, caracterizada por las culturas nómadas y la ganadería.", pt: "Uma cidade importante na região do Sahel, caracterizada por culturas nômades e pecuária.", fr: "Une ville importante de la région du Sahel, caractérisée par les cultures nomades et l'élevage."},
     facts: {
       de: ["Bekannt für seinen großen Viehmarkt.", "Treffpunkt verschiedener ethnischer Gruppen."],
@@ -813,7 +805,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-04",
     coords: [-0.3666, 11.7799],
     name: { de: "Tenkodogo", hu: "Tenkodogo", ro: "Tenkodogo", en: "Tenkodogo"},
-    image: "/poi-images/tenkodogo-cities-v2.webp",
     description: { de: "Das historische Zentrum der Mossi-Kultur und Hauptstadt der Region Centre-Est.", hu: "A mosszi kultúra történelmi központja és a Centre-Est régió fővárosa.", ro: "Centrul istoric al culturii Mossi și capitala regiunii Centre-Est.", en: "The historical center of Mossi culture and capital of the Centre-Est region." , es: "El centro histórico de la cultura Mossi y capital de la región Centre-Est.", pt: "O centro histórico da cultura Mossi e capital da região Centre-Est.", fr: "Le centre historique de la culture Mossi et capitale de la région Centre-Est."},
     facts: {
       de: ["Gegründet im 12. Jahrhundert.", "Eine der ältesten Städte des Landes."],
@@ -848,7 +839,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-08",
     coords: [0.3584, 12.0622],
     name: { de: "Fada N'Gourma", hu: "Fada N'Gourma", ro: "Fada N'Gourma", en: "Fada N'Gourma"},
-    image: "/poi-images/fada-ngourma-cities-v2.webp",
     description: { de: "Die wichtigste Stadt im Osten des Landes, bekannt für ihre Honigproduktion.", hu: "Az ország keleti részének legfontosabb városa, amely méztermeléséről ismert.", ro: "Cel mai important oraș din estul țării, cunoscut pentru producția sa de miere.", en: "The most important city in the east of the country, known for its honey production." , es: "La ciudad más importante del este del país, conocida por su producción de miel.", pt: "A cidade mais importante no leste do país, conhecida pela sua produção de mel.", fr: "La ville la plus importante de l'est du pays, réputée pour sa production de miel."},
     facts: {
       de: ["Historisches Zentrum des Gourma-Reiches.", "Ein wichtiger Verkehrsknotenpunkt."],
@@ -883,7 +873,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-13",
     coords: [-3.1511, 10.3291],
     name: { de: "Gaoua", hu: "Gaoua", ro: "Gaoua", en: "Gaoua"},
-    image: "/poi-images/gaoua-cities-v2.webp",
     description: { de: "Eine Stadt im Südwesten, die als kulturelles Zentrum des Lobi-Volkes gilt.", hu: "Délnyugati város, amely a lobi nép kulturális központjának számít.", ro: "Un oraș din sud-vest, considerat centrul cultural al poporului Lobi.", en: "A city in the southwest, considered the cultural center of the Lobi people." , es: "Una ciudad en el suroeste que se considera el centro cultural del pueblo Lobi.", pt: "Uma cidade no sudoeste que é considerada o centro cultural do povo Lobi.", fr: "Une ville du sud-ouest considérée comme le centre culturel du peuple Lobi."},
     facts: {
       de: ["Bekannt für traditionelle Lobi-Architektur.", "Heimat eines wichtigen Regionalmuseums."],
@@ -918,7 +907,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-07",
     coords: [-1.073, 11.6636],
     name: { de: "Manga", hu: "Manga", ro: "Manga", en: "Manga"},
-    image: "/poi-images/manga-cities-v2.webp",
     description: { de: "Die Hauptstadt der Region Centre-Sud, umgeben von landwirtschaftlichen Gebieten.", hu: "A Centre-Sud régió fővárosa, amelyet mezőgazdasági területek vesznek körül.", ro: "Capitala regiunii Centre-Sud, înconjurată de zone agricole.", en: "The capital of the Centre-Sud region, surrounded by agricultural areas." , es: "La capital de la región de Centre-Sud, rodeada de zonas agrícolas.", pt: "A capital da região Centre-Sud, rodeada por áreas agrícolas.", fr: "La capitale de la région du Centre-Sud, entourée de zones agricoles."},
     facts: {
       de: ["Wichtiges Zentrum für den Anbau von Getreide.", "Ein wachsender Handelsknotenpunkt."],
@@ -953,7 +941,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-11",
     coords: [-1.2983, 12.5822],
     name: { de: "Ziniaré", hu: "Ziniaré", ro: "Ziniaré", en: "Ziniaré"},
-    image: "/poi-images/ziniare-cities-v2.webp",
     description: { de: "Die Hauptstadt der Region Plateau-Central, nicht weit von der Hauptstadt Ouagadougou entfernt.", hu: "A Plateau-Central régió fővárosa, nem messze a fővárostól, Ouagadougoutól.", ro: "Capitala regiunii Plateau-Central, nu departe de capitala Ouagadougou.", en: "The capital of the Plateau-Central region, not far from the capital Ouagadougou." , es: "La capital de la región Plateau-Central, situada a poca distancia de la capital, Uagadugú.", pt: "A capital da região de Plateau-Central, não muito longe da capital Ouagadougou.", fr: "La capitale de la région du Plateau-Central, située non loin de la capitale Ouagadougou."},
     facts: {
       de: ["Geburtsort des ehemaligen Präsidenten Blaise Compaoré.", "Bekannt für seinen Tierpark."],
@@ -988,7 +975,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-04",
     coords: [-0.3547, 12.1794],
     name: { de: "Koupéla", hu: "Koupéla", ro: "Koupéla", en: "Koupéla"},
-    image: "/poi-images/koupela-cities-v2.webp",
     description: { de: "Eine Stadt in der Region Centre-Est, die ein wichtiger Verkehrsknotenpunkt ist.", hu: "A Centre-Est régió egyik városa, amely fontos közlekedési csomópont.", ro: "Un oraș în regiunea Centre-Est, care este un important nod de transport.", en: "A city in the Centre-Est region, which is an important transport hub." , es: "Una ciudad en la región de Centre-Est que es un importante nudo de comunicaciones.", pt: "Uma cidade na região Centre-Est que é um importante centro de transportes.", fr: "Une ville de la région du Centre-Est qui constitue un nœud de communication important."},
     facts: {
       de: ["Liegt an der Kreuzung wichtiger Nationalstraßen.", "Zentrum für den lokalen Handel."],
@@ -1140,7 +1126,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-09",
     coords: [-3.5186, 11.4981],
     name: { de: "Houndé", hu: "Houndé", ro: "Houndé", en: "Houndé"},
-    image: "/poi-images/hounde-cities-v2.webp",
     description: { de: "Eine Stadt an der Hauptstraße zwischen Ouagadougou und Bobo-Dioulasso mit wachsendem Bergbau.", hu: "Város a Ouagadougou és Bobo-Dioulasso közötti főúton, növekvő bányászattal.", ro: "Un oraș pe drumul principal între Ouagadougou și Bobo-Dioulasso, cu un sector minier în creștere.", en: "A city on the main road between Ouagadougou and Bobo-Dioulasso, with a growing mining sector." , es: "Una ciudad en la carretera principal entre Uagadugú y Bobo-Dioulasso con una actividad minera creciente.", pt: "Uma cidade na estrada principal entre Ouagadougou e Bobo-Dioulasso com uma atividade mineira crescente.", fr: "Une ville située sur la route principale entre Ouagadougou et Bobo-Dioulasso, avec une activité minière en pleine expansion."},
     facts: {
       de: ["Wichtiger Goldabbau in der Nähe.", "Strategischer Zwischenstopp für Reisende."],
@@ -1175,7 +1160,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-12",
     coords: [-1.6255, 14.0994],
     name: { de: "Djibo", hu: "Djibo", ro: "Djibo", en: "Djibo"},
-    image: "/poi-images/djibo-cities-v2.webp",
     description: { de: "Eine wichtige Marktstadt im Norden, traditionell ein Zentrum für den Viehhandel.", hu: "Fontos északi piacváros, hagyományosan az állatkereskedelem központja.", ro: "Un important oraș-piață din nord, în mod tradițional un centru pentru comerțul cu animale.", en: "An important market town in the north, traditionally a center for livestock trade." , es: "Una importante ciudad comercial en el norte, tradicionalmente un centro para el comercio de ganado.", pt: "Uma importante cidade comercial no norte, tradicionalmente um centro para o comércio de gado.", fr: "Une ville marchande importante dans le nord, traditionnellement un centre pour le commerce du bétail."},
     facts: {
       de: ["Liegt in der Sahelzone.", "Bedeutender Markt für Nomaden und Bauern."],
@@ -1210,7 +1194,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-06",
     coords: [-2.1065, 11.1003],
     name: { de: "Léo", hu: "Léo", ro: "Léo", en: "Léo"},
-    image: "/poi-images/leo-cities-v2.webp",
     description: { de: "Eine südliche Grenzstadt nahe Ghana, bekannt für ihren lebhaften grenzüberschreitenden Handel.", hu: "Déli határváros Ghána közelében, amely nyüzsgő, határon átnyúló kereskedelméről ismert.", ro: "Un oraș de graniță din sud, lângă Ghana, cunoscut pentru comerțul său transfrontalier plin de viață.", en: "A southern border town near Ghana, known for its bustling cross-border trade." , es: "Una ciudad fronteriza del sur, cerca de Ghana, conocida por su animado comercio transfronterizo.", pt: "Uma cidade fronteiriça do sul, perto do Gana, conhecida pelo seu animado comércio transfronteiriço.", fr: "Une ville frontalière du sud, proche du Ghana, connue pour son commerce transfrontalier animé."},
     facts: {
       de: ["Wichtiges Zentrum der Landwirtschaft.", "Ein beliebter Ort für Transitreisende."],
@@ -1281,7 +1264,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-09",
     coords: [-4.9142, 10.9786],
     name: { de: "Orodara", hu: "Orodara", ro: "Orodara", en: "Orodara"},
-    image: "/poi-images/orodara-cities-v2.webp",
     description: { de: "Bekannt als das Obstgarten-Zentrum von Burkina Faso, mit zahlreichen Mango- und Zitrusplantagen.", hu: "Burkina Faso gyümölcsöskert-központjaként ismert, számos mangó- és citrusültetvénnyel.", ro: "Cunoscut ca centrul livezilor din Burkina Faso, cu numeroase plantații de mango și citrice.", en: "Known as the orchard center of Burkina Faso, with numerous mango and citrus plantations." , es: "Conocida como el centro de los huertos de Burkina Faso, con numerosas plantaciones de mango y cítricos.", pt: "Conhecida como o centro de pomares de Burkina Faso, com inúmeras plantações de manga e citrinos.", fr: "Connue comme le centre fruitier du Burkina Faso, avec de nombreuses plantations de mangues et d'agrumes."},
     facts: {
       de: ["Berühmt für die Fruchtproduktion.", "Wichtige Verarbeitungsindustrie vor Ort."],
@@ -1316,7 +1298,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-07",
     coords: [-1.145, 11.1697],
     name: { de: "Pô", hu: "Pô", ro: "Pô", en: "Pô"},
-    image: "/poi-images/po-cities-v2.webp",
     description: { de: "Eine Stadt nahe der Grenze zu Ghana und ein wichtiger Zugangspunkt zum Nazinga-Wildreservat.", hu: "Város a ghánai határ közelében, és fontos belépési pont a Nazinga Vadrezervátumhoz.", ro: "Un oraș lângă granița cu Ghana și un punct important de acces la Rezervația de Faună Nazinga.", en: "A town near the border with Ghana and an important access point to the Nazinga Game Reserve." , es: "Una ciudad cerca de la frontera con Ghana y un punto de acceso clave a la Reserva de Vida Silvestre de Nazinga.", pt: "Uma cidade perto da fronteira com o Gana e um ponto de acesso fundamental para a Reserva de Vida Selvagem de Nazinga.", fr: "Une ville proche de la frontière avec le Ghana et un point d'accès important pour la réserve de gibier de Nazinga."},
     facts: {
       de: ["Basis des ersten Militärstützpunkts der Revolution.", "Tor zum Elefantenreservat."],
@@ -1396,7 +1377,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-10",
     coords: [-2.3556, 13.2104],
     name: { de: "Gourcy", hu: "Gourcy", ro: "Gourcy", en: "Gourcy"},
-    image: "/poi-images/gourcy-cities-v2.webp",
     description: { de: "Eine kleine, aber strategisch gelegene Stadt in der Region Nord, bekannt für ihre traditionellen Feste.", hu: "Egy kicsi, de stratégiai fekvésű város az Északi régióban, amely a hagyományos fesztiváljairól ismert.", ro: "Un oraș mic, dar situat strategic în regiunea Nord, cunoscut pentru festivalurile sale tradiționale.", en: "A small but strategically located city in the Nord region, known for its traditional festivals." , es: "Una ciudad pequeña pero estratégicamente situada en la región Norte, conocida por sus fiestas tradicionales.", pt: "Uma cidade pequena mas estrategicamente localizada na região Norte, conhecida pelos seus festivais tradicionais.", fr: "Une petite ville stratégiquement située dans la région du Nord, connue pour ses fêtes traditionnelles."},
     facts: {
       de: ["Ein historisches Zentrum der Moagha-Kultur.", "Bedeutende Baumwollproduktion."],
@@ -1431,7 +1411,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-11",
     coords: [-1.8944, 12.6592],
     name: { de: "Boussé", hu: "Boussé", ro: "Boussé", en: "Boussé"},
-    image: "/poi-images/bousse-cities-v2.webp",
     description: { de: "Eine Stadt in der Region Plateau-Central, umgeben von trockener Savanne und kleinen landwirtschaftlichen Betrieben.", hu: "Város a Plateau-Central régióban, száraz szavannával és kisgazdaságokkal körülvéve.", ro: "Un oraș în regiunea Plateau-Central, înconjurat de savană uscată și ferme mici.", en: "A town in the Plateau-Central region, surrounded by dry savanna and small farms." , es: "Una ciudad en la región de Plateau-Central, rodeada de sabana seca y pequeñas granjas.", pt: "Uma cidade na região de Plateau-Central, cercada por savana seca e pequenas fazendas.", fr: "Une ville de la région du Plateau-Central, entourée de savane sèche et de petites exploitations agricoles."},
     facts: {
       de: ["Ein wichtiges Zentrum für traditionelle Kunsthandwerke.", "Großer Wochenmarkt."],
@@ -1511,7 +1490,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-02",
     coords: [-5.1667, 10.65],
     name: { de: "Sindou", hu: "Sindou", ro: "Sindou", en: "Sindou"},
-    image: "/poi-images/sindou-cities-v2.webp",
     description: { de: "Eine Stadt im Südwesten, berühmt für die markanten Sindou-Felsformationen, die sich in der Nähe befinden.", hu: "Délnyugati város, amely a közelben található jellegzetes Sindou-sziklaalakzatokról híres.", ro: "Un oraș din sud-vest, renumit pentru formațiunile stâncoase izbitoare Sindou aflate în apropiere.", en: "A town in the southwest, famous for the striking Sindou rock formations located nearby." , es: "Una ciudad del suroeste, famosa por las impresionantes formaciones rocosas de Sindou que se encuentran en sus cercanías.", pt: "Uma cidade do sudoeste, famosa pelas marcantes formações rochosas de Sindou, situadas nas proximidades.", fr: "Une ville du sud-ouest, célèbre pour les formations rocheuses de Sindou situées à proximité."},
     facts: {
       de: ["Ein beliebtes Ziel für Ökotourismus.", "Zentrum der Senoufo-Kultur."],
@@ -1546,7 +1524,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-13",
     coords: [-3.2497, 10.962],
     name: { de: "Diébougou", hu: "Diébougou", ro: "Diébougou", en: "Diébougou"},
-    image: "/poi-images/diebougou-cities-v2.webp",
     description: { de: "Bekannt für seine Krokodilhöhlen und traditionelle Töpferei im Südwesten des Landes.", hu: "Az ország délnyugati részén fekvő krokodilbarlangjairól és hagyományos fazekasságáról ismert.", ro: "Cunoscut pentru peșterile sale cu crocodili și ceramica tradițională în sud-vestul țării.", en: "Known for its crocodile caves and traditional pottery in the southwest of the country." , es: "Conocida por sus cuevas de cocodrilos y su alfarería tradicional en el suroeste del país.", pt: "Conhecida pelas suas grutas de crocodilos e olaria tradicional no sudoeste do país.", fr: "Connue pour ses grottes aux crocodiles et sa poterie traditionnelle dans le sud-ouest du pays."},
     facts: {
       de: ["Historische französische Kolonialarchitektur.", "Bedeutender Marktort."],
@@ -1626,7 +1603,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-01",
     coords: [-3.8631, 12.7333],
     name: { de: "Nouna", hu: "Nouna", ro: "Nouna", en: "Nouna"},
-    image: "/poi-images/nouna-cities-v2.webp",
     description: { de: "Eine Handelsstadt im Westen, die als Brücke zwischen städtischen und ländlichen Kulturen dient.", hu: "Nyugati kereskedőváros, amely hídként szolgál a városi és a vidéki kultúrák között.", ro: "Un oraș comercial din vest, servind drept punte între culturile urbane și cele rurale.", en: "A trading town in the west, serving as a bridge between urban and rural cultures." , es: "Una ciudad comercial en el oeste que sirve de puente entre las culturas urbana y rural.", pt: "Uma cidade comercial no oeste que serve de ponte entre as culturas urbana e rural.", fr: "Une ville commerçante de l'ouest qui sert de pont entre les cultures urbaine et rurale."},
     facts: {
       de: ["Standort eines bedeutenden medizinischen Forschungszentrums.", "Landwirtschaftliches Herz der Region."],
@@ -1742,7 +1718,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-01",
     coords: [-2.8992, 12.7611],
     name: { de: "Toma", hu: "Toma", ro: "Toma", en: "Toma"},
-    image: "/poi-images/toma-cities-v2.webp",
     description: { de: "Eine kleine Stadt, die für ihre Schmiedekunst und traditionelle Ringkämpfe bekannt ist.", hu: "Kisváros, amely kovácsmesterségéről és hagyományos birkózásáról ismert.", ro: "Un mic oraș cunoscut pentru măiestria fierarilor și luptele tradiționale.", en: "A small town known for its blacksmithing and traditional wrestling." , es: "Una pequeña ciudad conocida por su herrería y sus luchas tradicionales.", pt: "Uma pequena cidade conhecida pela sua ferraria e lutas tradicionais.", fr: "Une petite ville connue pour sa ferronnerie et ses luttes traditionnelles."},
     facts: {
       de: ["Kulturelles Zentrum der Samo.", "Bekannt für das jährliche Ringerfestival."],
@@ -1777,7 +1752,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-11",
     coords: [-0.6153, 12.2483],
     name: { de: "Zorgho", hu: "Zorgho", ro: "Zorgho", en: "Zorgho"},
-    image: "/poi-images/zorgho-cities-v2.webp",
     description: { de: "Eine wachsende Stadt östlich von Ouagadougou, bekannt für ihr lebendiges Gemeinschaftsleben.", hu: "Ouagadougoutól keletre fekvő növekvő város, amely pezsgő közösségi életéről ismert.", ro: "Un oraș în creștere la est de Ouagadougou, cunoscut pentru viața comunitară vibrantă.", en: "A growing town east of Ouagadougou, known for its vibrant community life." , es: "Una ciudad en crecimiento al este de Uagadugú, conocida por su vibrante vida comunitaria.", pt: "Uma cidade em crescimento a leste de Ouagadougou, conhecida pela sua vibrante vida comunitária.", fr: "Une ville en pleine expansion à l'est de Ouagadougou, connue pour sa vie communautaire dynamique."},
     facts: {
       de: ["Ausrichter des Nabiga-Fests.", "Wichtiger landwirtschaftlicher Umschlagplatz."],
@@ -1812,7 +1786,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-08",
     coords: [0.7075, 11.2497],
     name: { de: "Pama", hu: "Pama", ro: "Pama", en: "Pama"},
-    image: "/poi-images/pama-cities-v2.webp",
     description: { de: "Eine abgelegene Stadt im Südosten, die als Tor zu den Nationalparks W und Arli dient.", hu: "Egy távoli délkeleti város, amely a W és az Arli nemzeti parkok kapujaként szolgál.", ro: "Un oraș îndepărtat din sud-est, care servește drept poartă către parcurile naționale W și Arli.", en: "A remote town in the southeast, serving as a gateway to the W and Arli national parks." , es: "Una ciudad remota en el sureste que sirve como puerta de entrada a los parques nacionales W y Arli.", pt: "Uma cidade remota no sudeste que serve como porta de entrada para os parques nacionais W e Arli.", fr: "Une ville isolée du sud-est qui sert de porte d'entrée aux parcs nationaux W et de l'Arli."},
     facts: {
       de: ["Beliebt bei Safari-Touristen.", "Umgeben von dichten Wäldern und Savannen."],
@@ -1847,7 +1820,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-08",
     coords: [-0.1436, 12.9714],
     name: { de: "Bogandé", hu: "Bogandé", ro: "Bogandé", en: "Bogandé"},
-    image: "/poi-images/bogande-cities-v2.webp",
     description: { de: "Eine Verwaltungsstadt in der Region Est, die eine bedeutende Rolle im lokalen Handel spielt.", hu: "Közigazgatási város a Keleti régióban, amely jelentős szerepet játszik a helyi kereskedelemben.", ro: "Un oraș administrativ din regiunea Est, jucând un rol important în comerțul local.", en: "An administrative town in the Est region, playing a significant role in local trade." , es: "Una ciudad administrativa en la región Est que desempeña un papel importante en el comercio local.", pt: "Uma cidade administrativa na região Est que desempenha um papel importante no comércio local.", fr: "Une ville administrative de la région Est, jouant un rôle important dans le commerce local."},
     facts: {
       de: ["Zentrum der Gnagna-Provinz.", "Wichtig für die Landwirtschaft im Osten."],
@@ -1882,7 +1854,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-10",
     coords: [-2.2611, 12.9675],
     name: { de: "Yako", hu: "Yako", ro: "Yako", en: "Yako"},
-    image: "/poi-images/yako-cities-v2.webp",
     description: { de: "Eine Stadt nordwestlich der Hauptstadt, mit einer starken landwirtschaftlichen Gemeinschaft.", hu: "A fővárostól északnyugatra fekvő város, erős mezőgazdasági közösséggel.", ro: "Un oraș la nord-vest de capitală, cu o comunitate agricolă puternică.", en: "A town northwest of the capital, with a strong agricultural community." , es: "Una ciudad al noroeste de la capital con una fuerte comunidad agrícola.", pt: "Uma cidade a noroeste da capital, com uma forte comunidade agrícola.", fr: "Une ville au nord-ouest de la capitale, dotée d'une forte communauté agricole."},
     facts: {
       de: ["Bekannt für den Anbau von Hirse und Sorghum.", "Heimat einer großen Moschee."],
@@ -1917,7 +1888,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-07",
     coords: [-1.7736, 11.5544],
     name: { de: "Sapouy", hu: "Sapouy", ro: "Sapouy", en: "Sapouy"},
-    image: "/poi-images/sapouy-cities-v2.webp",
     description: { de: "Eine Stadt, die an der Hauptverkehrsstraße nach Ghana liegt und für ihre Holzschnitzereien bekannt ist.", hu: "A Ghánába vezető főúton fekvő város, amely fafaragásairól ismert.", ro: "Un oraș situat pe ruta principală spre Ghana, cunoscut pentru sculpturile în lemn.", en: "A town located on the main road to Ghana, known for its wood carvings." , es: "Una ciudad situada en la carretera principal hacia Ghana y conocida por sus tallas de madera.", pt: "Uma cidade situada na estrada principal para o Gana e conhecida pelos seus entalhes em madeira.", fr: "Une ville située sur la route principale menant au Ghana et connue pour ses sculptures sur bois."},
     facts: {
       de: ["Wichtige Station für Fernfahrer.", "Zentrum der Ziro-Provinz."],
@@ -1952,7 +1922,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-13",
     coords: [-2.9167, 9.8833],
     name: { de: "Batié", hu: "Batié", ro: "Batié", en: "Batié"},
-    image: "/poi-images/batie-cities-v2.webp",
     description: { de: "Eine Hügelstadt im äußersten Süden von Burkina Faso, mit einem kühleren Mikroklima.", hu: "Egy dombvidéki város Burkina Faso legdélebbi részén, hűvösebb mikroklímával.", ro: "Un oraș colinar în sudul extrem al Burkina Faso, cu un microclimat mai răcoros.", en: "A hill town in the extreme south of Burkina Faso, with a cooler microclimate." , es: "Una ciudad en las colinas del extremo sur de Burkina Faso, con un microclima más fresco.", pt: "Uma cidade nas colinas do extremo sul de Burkina Faso, com um microclima mais fresco.", fr: "Une ville de collines à l'extrême sud du Burkina Faso, dotée d'un microclimat plus frais."},
     facts: {
       de: ["Nahe der Grenze zur Elfenbeinküste.", "Reich an Bauxit-Vorkommen."],
@@ -1987,7 +1956,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-05",
     coords: [-1.5347, 13.3258],
     name: { de: "Kongoussi", hu: "Kongoussi", ro: "Kongoussi", en: "Kongoussi"},
-    image: "/poi-images/kongoussi-cities-v2.webp",
     description: { de: "Gelegen am Ufer des Bam-Sees, ist diese Stadt ein Zentrum für Bewässerungslandwirtschaft und Fischerei.", hu: "A Bam-tó partján fekvő város az öntözéses mezőgazdaság és a halászat központja.", ro: "Situat pe malul lacului Bam, acest oraș este un centru pentru agricultura irigată și pescuit.", en: "Located on the shores of Lake Bam, this town is a center for irrigated agriculture and fishing." , es: "Situada a orillas del lago Bam, esta ciudad es un centro de agricultura de regadío y pesca.", pt: "Situada às margens do Lago Bam, esta cidade é um centro de agricultura irrigada e pesca.", fr: "Située sur les rives du lac Bam, cette ville est un centre d'agriculture irriguée et de pêche."},
     facts: {
       de: ["Bekannt für frische grüne Bohnen.", "Der Bam-See ist ein wichtiges Feuchtgebiet."],
@@ -2058,7 +2026,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-10",
     coords: [-2.0667, 13.7667],
     name: { de: "Titao", hu: "Titao", ro: "Titao", en: "Titao"},
-    image: "/poi-images/titao-cities-v2.webp",
     description: { de: "Eine Stadt im Norden, die für ihre traditionelle Medizin und Töpferei bekannt ist.", hu: "Északi város, amely a hagyományos orvoslásról és a fazekasságáról ismert.", ro: "Un oraș din nord, cunoscut pentru medicina tradițională și olărit.", en: "A town in the north, known for its traditional medicine and pottery." , es: "Una ciudad del norte conocida por su medicina tradicional y su alfarería.", pt: "Uma cidade do norte conhecida pela sua medicina tradicional e olaria.", fr: "Une ville du nord connue pour sa médecine traditionnelle et sa poterie."},
     facts: {
       de: ["Zentrum der Loroum-Provinz.", "Wichtig für die lokale Nahrungsmittelversorgung."],
@@ -2093,7 +2060,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-01",
     coords: [-2.93, 11.75],
     name: { de: "Boromo", hu: "Boromo", ro: "Boromo", en: "Boromo"},
-    image: "/poi-images/boromo-cities-v2.webp",
     description: { de: "Eine Stadt, die als Tor zum Nationalpark Deux Balés dient und von Elefanten besucht wird.", hu: "Egy város, amely a Deux Balés Nemzeti Park kapujaként szolgál, és elefántok látogatják.", ro: "Un oraș care servește drept poartă către Parcul Național Deux Balés și este vizitat de elefanți.", en: "A town that serves as a gateway to the Deux Balés National Park and is visited by elephants." , es: "Una ciudad que sirve de puerta de entrada al Parque Nacional Deux Balés y es frecuentada por elefantes.", pt: "Uma cidade que serve como porta de entrada para o Parque Nacional Deux Balés e é visitada por elefantes.", fr: "Une ville qui sert de porte d'entrée au parc national des Deux Balés et qui est fréquentée par les éléphants."},
     facts: {
       de: ["Bekannt für die Sichtung wilder Elefanten.", "Wichtiger Goldabbau in der Region."],
@@ -2173,7 +2139,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-13",
     coords: [-3.0578, 11.1444],
     name: { de: "Dano", hu: "Dano", ro: "Dano", en: "Dano"},
-    image: "/poi-images/dano-cities-v2.webp",
     description: { de: "Eine Stadt im Südwesten, bekannt für ihre Dagara-Kultur und farbenfrohen Märkte.", hu: "Délnyugati város, amely a Dagara kultúrájáról és színes piacairól ismert.", ro: "Un oraș din sud-vest, cunoscut pentru cultura sa Dagara și piețele colorate.", en: "A town in the southwest, known for its Dagara culture and colorful markets." , es: "Una ciudad del suroeste conocida por su cultura Dagara y sus coloridos mercados.", pt: "Uma cidade no sudoeste, conhecida pela sua cultura Dagara e mercados coloridos.", fr: "Une ville du sud-ouest connue pour sa culture Dagara et ses marchés colorés."},
     facts: {
       de: ["Viele Häuser sind in traditioneller Lehmbauweise errichtet.", "Zentrum der Ioba-Provinz."],
@@ -2244,7 +2209,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-12",
     coords: [0.5283, 13.4358],
     name: { de: "Sebba", hu: "Sebba", ro: "Sebba", en: "Sebba"},
-    image: "/poi-images/sebba-cities-v2.webp",
     description: { de: "Eine Oasenstadt im Nordosten, umgeben von der trockenen Sahel-Landschaft.", hu: "Egy oázisváros északkeleten, amelyet a száraz Száhel-táj vesz körül.", ro: "Un oraș-oază în nord-est, înconjurat de peisajul uscat din Sahel.", en: "An oasis town in the northeast, surrounded by the dry Sahel landscape." , es: "Una ciudad oasis en el noreste, rodeada por el árido paisaje del Sahel.", pt: "Uma cidade oásis no nordeste, rodeada pela paisagem árida do Sahel.", fr: "Une ville oasis dans le nord-est, entourée par le paysage aride du Sahel."},
     facts: {
       de: ["Bekannt für Kamel- und Rindermärkte.", "Ein wichtiges Zentrum für nomadische Stämme."],
@@ -2279,7 +2243,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-04",
     coords: [0.0544, 11.5039],
     name: { de: "Ouargaye", hu: "Ouargaye", ro: "Ouargaye", en: "Ouargaye"},
-    image: "/poi-images/ouargaye-cities-v2.webp",
     description: { de: "Eine Stadt in der Nähe der Grenze zu Togo, die als Handelszentrum für ländliche Gebiete fungiert.", hu: "Togó határának közelében fekvő város, amely a vidéki területek kereskedelmi központjaként működik.", ro: "Un oraș din apropierea graniței cu Togo, care servește drept centru comercial pentru zonele rurale.", en: "A town near the border with Togo, serving as a commercial center for rural areas." , es: "Una ciudad cerca de la frontera con Togo que funciona como centro comercial para las zonas rurales.", pt: "Uma cidade perto da fronteira com o Togo que funciona como centro comercial para as zonas rurais.", fr: "Une ville proche de la frontière avec le Togo, qui fait office de centre commercial pour les zones rurales."},
     facts: {
       de: ["Hauptstadt der Koulpélogo-Provinz.", "Wichtig für die Landwirtschaft in der Grenzregion."],
@@ -2314,7 +2277,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-06",
     coords: [-2.47, 12.3183],
     name: { de: "Réo", hu: "Réo", ro: "Réo", en: "Réo"},
-    image: "/poi-images/reo-cities-v2.webp",
     description: { de: "Eine ruhige Stadt in der Region Centre-Ouest, bekannt für ihre traditionellen Feste der Gurunsi.", hu: "Csendes város a Centre-Ouest régióban, amely a gurunsi nép hagyományos fesztiváljairól ismert.", ro: "Un oraș liniștit în regiunea Centre-Ouest, cunoscut pentru festivalurile tradiționale ale populației Gurunsi.", en: "A quiet town in the Centre-Ouest region, known for its traditional festivals of the Gurunsi people." , es: "Una ciudad tranquila en la región Centre-Ouest, conocida por sus fiestas tradicionales de los Gurunsi.", pt: "Uma cidade tranquila na região Centre-Ouest, conhecida pelas suas festas tradicionais dos Gurunsi.", fr: "Une ville paisible de la région du Centre-Ouest, connue pour ses fêtes traditionnelles des Gurunsi."},
     facts: {
       de: ["Zentrum der Sanguié-Provinz.", "Berühmt für die typischen Gurunsi-Lehmhäuser."],
@@ -2430,7 +2392,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-07",
     coords: [-1.3361, 12.0658],
     name: { de: "Kombissiri", hu: "Kombissiri", ro: "Kombissiri", en: "Kombissiri"},
-    image: "/poi-images/kombissiri-cities-v2.webp",
     description: { de: "Eine Stadt südlich von Ouagadougou, die eine bedeutende Rolle im Süßkartoffelanbau spielt.", hu: "Ouagadougoutól délre fekvő város, amely jelentős szerepet játszik az édesburgonya termesztésében.", ro: "Un oraș la sud de Ouagadougou, care joacă un rol important în cultivarea cartofilor dulci.", en: "A town south of Ouagadougou, playing a significant role in sweet potato cultivation." , es: "Una ciudad al sur de Uagadugú que desempeña un papel importante en el cultivo de batatas.", pt: "Uma cidade ao sul de Ouagadougou que desempenha um papel importante no cultivo de batata-doce.", fr: "Une ville au sud d'Ouagadougou qui joue un rôle important dans la culture de la patate douce."},
     facts: {
       de: ["Bekannt als Hauptstadt der Süßkartoffeln.", "Nahe dem Hauptstadtflughafen gelegen."],
@@ -2501,7 +2462,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-07",
     coords: [-1.2583, 11.5317],
     name: { de: "Béré", hu: "Béré", ro: "Béré", en: "Béré"},
-    image: "/poi-images/bere-cities-v2.webp",
     description: { de: "Eine kleine ländliche Gemeinde in der Zoundwéogo-Provinz.", hu: "Kis vidéki község a Zoundwéogo tartományban.", ro: "O mică comunitate rurală în provincia Zoundwéogo.", en: "A small rural community in the Zoundwéogo province." , es: "Una pequeña comunidad rural en la provincia de Zoundwéogo.", pt: "Uma pequena comunidade rural na província de Zoundwéogo.", fr: "Une petite commune rurale de la province du Zoundwéogo."},
     facts: {
       de: ["Hauptsächlich agrarisch geprägt.", "Wöchentlicher Markt zieht viele Händler an."],
@@ -2536,7 +2496,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-09",
     coords: [-4.4333, 11.3833],
     name: { de: "Bama", hu: "Bama", ro: "Bama", en: "Bama"},
-    image: "/poi-images/bama-cities-v2.webp",
     description: { de: "Eine Stadt, die für ihre Stauseen und landwirtschaftliche Bedeutung bekannt ist.", hu: "Víztározóiról és mezőgazdasági jelentőségéről ismert város.", ro: "Un oraș cunoscut pentru rezervoarele sale și importanța agricolă.", en: "A town known for its reservoirs and agricultural importance." , es: "Una ciudad conocida por sus embalses y su importancia agrícola.", pt: "Uma cidade conhecida pelas suas albufeiras e importância agrícola.", fr: "Une ville connue pour ses barrages et son importance agricole."},
     facts: {
       de: ["Bekannt für den Reisanbau.", "Wichtiges Wasserreservoir in der Nähe."],
@@ -2571,7 +2530,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-02",
     coords: [-4.7231, 10.7681],
     name: { de: "Bérégadougou", hu: "Bérégadougou", ro: "Bérégadougou", en: "Bérégadougou"},
-    image: "/poi-images/beregadougou-cities-v2.webp",
     description: { de: "Eine malerische Stadt in der Comoé-Provinz in der Nähe zahlreicher Wasserfälle.", hu: "Egy festői város a Comoé tartományban, számos vízesés közelében.", ro: "Un oraș pitoresc din provincia Comoé, lângă numeroase cascade.", en: "A picturesque town in the Comoé province near numerous waterfalls." , es: "Una pintoresca ciudad en la provincia de Comoé, cerca de numerosas cascadas.", pt: "Uma cidade pitoresca na província de Comoé, perto de inúmeras cascatas.", fr: "Une ville pittoresque de la province de la Comoé, à proximité de nombreuses cascades."},
     facts: {
       de: ["Bedeutendes Zentrum für Zuckerrohr.", "Ein wichtiger Industriestandort der Region."],
@@ -2606,7 +2564,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-11",
     coords: [-1.7483, 12.2858],
     name: { de: "Bingo", hu: "Bingo", ro: "Bingo", en: "Bingo"},
-    image: "/poi-images/bingo-cities-v2.webp",
     description: { de: "Eine ländliche Gemeinde in Zentral-Burkina Faso.", hu: "Vidéki község Közép-Burkina Fasóban.", ro: "O comunitate rurală în Burkina Faso centrală.", en: "A rural community in central Burkina Faso." , es: "Una comunidad rural en el centro de Burkina Faso.", pt: "Uma comunidade rural no centro de Burkina Faso.", fr: "Une commune rurale du centre du Burkina Faso."},
     facts: {
       de: ["Traditionelle Viehzucht.", "Gelegen an der Route nach Koudougou."],
@@ -2641,7 +2598,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-04",
     coords: [-0.3061, 11.2464],
     name: { de: "Bittou", hu: "Bittou", ro: "Bittou", en: "Bittou"},
-    image: "/poi-images/bittou-cities-v2.webp",
     description: { de: "Eine Grenzstadt zu Togo, die vom Transit- und Großhandel lebt.", hu: "Egy togói határváros, amely a tranzit- és a nagykereskedelemből él.", ro: "Un oraș de graniță cu Togo, care trăiește din tranzit și comerț en-gros.", en: "A border town with Togo that thrives on transit and wholesale trade." , es: "Una ciudad fronteriza con Togo que vive del tránsito y el comercio mayorista.", pt: "Uma cidade fronteiriça com o Togo que vive do trânsito e do comércio grossista.", fr: "Une ville frontalière du Togo, vivant du transit et du commerce de gros."},
     facts: {
       de: ["Wichtige Zollstation.", "Lebhafter grenzüberschreitender Verkehr."],
@@ -2676,7 +2632,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-09",
     coords: [-3.5358, 11.6022],
     name: { de: "Boni", hu: "Boni", ro: "Boni", en: "Boni"},
-    image: "/poi-images/boni-cities-v2.webp",
     description: { de: "Eine Siedlung an der wichtigen Fernstraße nach Bobo-Dioulasso.", hu: "Település a Bobo-Dioulasso felé vezető fontos autópályán.", ro: "O așezare pe autostrada importantă spre Bobo-Dioulasso.", en: "A settlement on the important highway to Bobo-Dioulasso." , es: "Un asentamiento en la importante carretera principal hacia Bobo-Dioulasso.", pt: "Um assentamento na importante estrada principal para Bobo-Dioulasso.", fr: "Un établissement situé sur l'importante route nationale menant à Bobo-Dioulasso."},
     facts: {
       de: ["Landwirtschaftliche Produktion.", "Rasches Bevölkerungswachstum."],
@@ -2756,7 +2711,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-05",
     coords: [-0.5767, 12.6583],
     name: { de: "Boulsa", hu: "Boulsa", ro: "Boulsa", en: "Boulsa"},
-    image: "/poi-images/boulsa-cities-v2.webp",
     description: { de: "Eine historische Stadt der Namentenga-Provinz mit starker handwerklicher Tradition.", hu: "A Namentenga tartomány történelmi városa, erős kézműves hagyományokkal.", ro: "Un oraș istoric din provincia Namentenga, cu o puternică tradiție artizanală.", en: "A historic town in the Namentenga province with a strong artisanal tradition." , es: "Una ciudad histórica de la provincia de Namentenga con una fuerte tradición artesanal.", pt: "Uma cidade histórica na província de Namentenga com uma forte tradição artesanal.", fr: "Une ville historique de la province du Namentenga dotée d'une forte tradition artisanale."},
     facts: {
       de: ["Berühmt für lokale Töpferwaren.", "Wichtiges kulturelles Zentrum."],
@@ -2791,7 +2745,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-07",
     coords: [-1.0964, 11.0264],
     name: { de: "Dakola", hu: "Dakola", ro: "Dakola", en: "Dakola"},
-    image: "/poi-images/dakola-cities-v2.webp",
     description: { de: "Eine kleine Grenzstadt zu Ghana, die den formellen Warentransport überwacht.", hu: "Kis határváros Ghánával, amely a formális áruszállítást felügyeli.", ro: "Un mic oraș de graniță cu Ghana, care monitorizează transportul formal de mărfuri.", en: "A small border town with Ghana that monitors the formal transport of goods." , es: "Una pequeña ciudad fronteriza con Ghana que supervisa el transporte formal de mercancías.", pt: "Uma pequena cidade fronteiriça com o Gana que supervisiona o transporte formal de mercadorias.", fr: "Une petite ville frontalière avec le Ghana qui supervise le transport formel de marchandises."},
     facts: {
       de: ["Offizieller Grenzübergang.", "Ständig wachsende Infrastruktur."],
@@ -2826,7 +2779,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-11",
     coords: [-1.4394, 12.6358],
     name: { de: "Dapélogo", hu: "Dapélogo", ro: "Dapélogo", en: "Dapélogo"},
-    image: "/poi-images/dapelogo-cities-v2.webp",
     description: { de: "Eine landwirtschaftliche Gemeinde nahe der Hauptstadt, die zur Versorgung der Metropole beiträgt.", hu: "Mezőgazdasági közösség a főváros közelében, amely hozzájárul a metropolisz ellátásához.", ro: "O comunitate agricolă în apropierea capitalei, contribuind la aprovizionarea metropolei.", en: "An agricultural community near the capital, contributing to the supply of the metropolis." , es: "Una comunidad agrícola cercana a la capital que contribuye al abastecimiento de la metrópoli.", pt: "Uma comunidade agrícola perto da capital que contribui para o abastecimento da metrópole.", fr: "Une commune agricole proche de la capitale qui contribue au ravitaillement de la métropole."},
     facts: {
       de: ["Bekannt für den Anbau von Gemüse.", "Teil der Metropolregion Ouagadougou."],
@@ -2861,7 +2813,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-08",
     coords: [-0.165, 12.0122],
     name: { de: "Diabo", hu: "Diabo", ro: "Diabo", en: "Diabo"},
-    image: "/poi-images/diabo-cities-v2.webp",
     description: { de: "Eine ländliche Stadt in der Gourma-Provinz mit starken traditionellen Strukturen.", hu: "Vidéki város a Gourma tartományban, erős hagyományos struktúrákkal.", ro: "Un oraș rural din provincia Gourma, cu structuri tradiționale puternice.", en: "A rural town in the Gourma province with strong traditional structures." , es: "Una ciudad rural de la provincia de Gourma con fuertes estructuras tradicionales.", pt: "Uma cidade rural na província de Gourma com fortes estruturas tradicionais.", fr: "Une ville rurale de la province du Gourma dotée de structures traditionnelles fortes."},
     facts: {
       de: ["Bedeutendes Anbaugebiet für Sorghum.", "Lebendige traditionelle Häuptlingschaft."],
@@ -2941,7 +2892,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-08",
     coords: [1.7883, 12.0728],
     name: { de: "Diapaga", hu: "Diapaga", ro: "Diapaga", en: "Diapaga"},
-    image: "/poi-images/diapaga-cities-v2.webp",
     description: { de: "Eine weit östlich gelegene Stadt und das Haupttor zum Arli-Nationalpark.", hu: "Egy távol-keleti város, amely az Arli Nemzeti Park fő kapuja.", ro: "Un oraș din estul îndepărtat, și principala poartă de acces către Parcul Național Arli.", en: "A far eastern town, and the main gateway to the Arli National Park." , es: "Una ciudad situada en el extremo oriental y la puerta principal al Parque Nacional de Arli.", pt: "Uma cidade localizada no extremo leste e a principal porta de entrada para o Parque Nacional de Arli.", fr: "Une ville située loin à l'est et la principale porte d'entrée du parc national d'Arli."},
     facts: {
       de: ["Hauptstadt der Tapoa-Provinz.", "Ausgangspunkt für Wildbeobachtungen."],
@@ -3012,7 +2962,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-12",
     coords: [-0.2347, 14.4447],
     name: { de: "Gorom-Gorom", hu: "Gorom-Gorom", ro: "Gorom-Gorom", en: "Gorom-Gorom"},
-    image: "/poi-images/gorom-gorom-cities-v2.webp",
     description: { de: "Bekannt für seinen farbenfrohen und ethnisch vielfältigen Markt in der Sahelzone.", hu: "A Száhel-övezetben található színes és etnikailag sokszínű piacáról ismert.", ro: "Cunoscut pentru piața sa colorată și diversă din punct de vedere etnic din regiunea Sahel.", en: "Known for its colorful and ethnically diverse market in the Sahel region." , es: "Conocida por su mercado colorido y étnicamente diverso en la zona del Sahel.", pt: "Conhecida pelo seu mercado colorido e etnicamente diverso na zona do Sahel.", fr: "Connue pour son marché coloré et ethniquement diversifié dans la zone sahélienne."},
     facts: {
       de: ["Großer Markt mit Tuareg-Handwerk.", "Geprägt von Goldminen in der Umgebung."],
@@ -3047,7 +2996,6 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
     parent: "BF-09",
     coords: [-4.6853, 11.4589],
     name: { de: "Kayan", hu: "Kayan", ro: "Kayan", en: "Kayan"},
-    image: "/poi-images/kayan-cities-v2.webp",
     description: { de: "Ein kleines Dorf im Westen von Burkina Faso, typisch für die bäuerlichen Strukturen der Region.", hu: "Kayan egy kisebb település Burkina Faso nyugati részén, ahol a mezőgazdaság és a helyi piacok adják a mindennapok alapját. A falu a vidéki Hauts-Bassins térség tipikus példája.", ro: "Un sat mic din vestul Burkina Faso, tipic pentru structurile rurale ale regiunii.", en: "A small village in western Burkina Faso, typical of the region's rural structures." , es: "Un pequeño pueblo en el oeste de Burkina Faso, típico de las estructuras agrarias de la región.", pt: "Uma pequena aldeia no oeste de Burkina Faso, típica das estruturas agrárias da região.", fr: "Un petit village dans l'ouest du Burkina Faso, typique des structures paysannes de la région."},
     facts: {
       de: ["Agrargemeinschaft.", "Traditionelle Lebensweise."],

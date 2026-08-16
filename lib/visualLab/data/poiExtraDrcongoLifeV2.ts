@@ -8,7 +8,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-NK",
     coords: [29.5, -0.75],
     name: { de: "Virunga-Nationalpark", hu: "Virunga Nemzeti Park", ro: "Parcul Național Virunga", en: "Virunga National Park"},
-    image: "/poi-images/virunga-national-park-life-v2.webp",
     description: { de: "Der Virunga-Nationalpark ist der älteste Nationalpark Afrikas und weltberühmt für seine Berggorillas und aktiven Vulkane.", hu: "Afrika legrégebbi nemzeti parkja, híres hegyi gorilláiról.", ro: "Cel mai vechi parc național din Africa, faimos pentru gorilele de munte și vulcanii săi activi.", en: "Virunga National Park is Africa's oldest national park and a UNESCO World Heritage site, famous for its mountain gorillas and active volcanoes." , es: "El Parque Nacional Virunga es el más antiguo de África y mundialmente famoso por sus gorilas de montaña y volcanes activos.", pt: "O Parque Nacional de Virunga é o mais antigo de África e mundialmente famoso pelos seus gorilas-das-montanhas e vulcões ativos.", fr: "Le parc national des Virunga est le plus ancien parc d'Afrique et est mondialement célèbre pour ses gorilles de montagne et ses volcans actifs."},
     facts: {
       de: ["UNESCO-Welterbe", "Heimat von Berggorillas", "Gegründet 1925"],
@@ -44,7 +43,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-SK",
     coords: [28.75, -2.25],
     name: { de: "Kahuzi-Biega-Nationalpark", hu: "Kahuzi-Biega Nemzeti Park", ro: "Parcul Național Kahuzi-Biega", en: "Kahuzi-Biega National Park"},
-    image: "/poi-images/kahuzi-biega-national-park-life-v2.webp",
     description: { de: "Der Kahuzi-Biega-Nationalpark bietet Schutz für die seltenen Östlichen Flachlandgorillas in den Bergen von Sud-Kivu.", hu: "Az UNESCO világörökség részét képező nemzeti park, amely a keleti síkvidéki gorillák egyik utolsó menedéke.", ro: "Parc național situat în estul țării, creat pentru protejarea gorilelor de câmpie estice (Grauer).", en: "Kahuzi-Biega National Park is a protected area near Bukavu, established to protect the Eastern Lowland gorillas." , es: "El Parque Nacional Kahuzi-Biega ofrece protección a los raros gorilas de llanura oriental en las montañas de Kivu del Sur.", pt: "O Parque Nacional de Kahuzi-Biega oferece proteção aos raros gorilas das planícies orientais nas montanhas de Kivu do Sul.", fr: "Le parc national de Kahuzi-Biega protège les rares gorilles de plaine de l'Est dans les montagnes du Sud-Kivu."},
     facts: {
       de: ["Schutzgebiet für Flachlandgorillas", "UNESCO-Welterbe", "In der Provinz Sud-Kivu"],
@@ -80,7 +78,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-IT",
     coords: [28.5, 1.5],
     name: { de: "Okapi-Wildreservat", hu: "Okapi Vadrezervátum", ro: "Rezervația de animale Okapi", en: "Okapi Wildlife Reserve"},
-    image: "/poi-images/okapi-wildlife-reserve-life-v2.webp",
     description: { de: "Ein Schutzgebiet für Okapis im Ituri-Regenwald.", hu: "Az Ituri-esőerdőben található vadrezervátum, amelyet kifejezetten az okapi védelmére hoztak létre.", ro: "O rezervație pentru protejarea okapi-lor în pădurea tropicală Ituri.", en: "A reserve dedicated to protecting okapis in the Ituri Rainforest." , es: "Un área protegida para los okapis en la selva tropical de Ituri.", pt: "Uma área protegida para ocapis na floresta tropical de Ituri.", fr: "Une zone protégée pour les okapis dans la forêt tropicale de l'Ituri."},
     facts: {
       de: ["Okapi-Schutzgebiet", "Ituri-Regenwald", "Große Artenvielfalt", "UNESCO-Welterbe"],
@@ -116,7 +113,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-EQ",
     coords: [21.0, -2.0],
     name: { de: "Salonga-Nationalpark", hu: "Salonga Nemzeti Park", ro: "Parcul Național Salonga", en: "Salonga National Park"},
-    image: "/poi-images/salonga-national-park-life-v2.webp",
     description: { de: "Der Salonga-Nationalpark ist das größte tropische Regenwaldschutzgebiet Afrikas und nur per Boot oder Flugzeug erreichbar.", hu: "Afrika legnagyobb trópusi esőerdei rezervátuma a Kongó-medence szívében.", ro: "Cea mai mare rezervație de pădure tropicală din Africa, accesibilă aproape exclusiv pe apă.", en: "Salonga National Park is Africa's largest tropical rainforest reserve, accessible only by water and home to many endemic species." , es: "El Parque Nacional Salonga es el área protegida de selva tropical más grande de África y solo es accesible en barco o avión.", pt: "O Parque Nacional da Salonga é a maior área protegida de floresta tropical em África e só é acessível por barco ou avião.", fr: "Le parc national de la Salonga est la plus grande réserve de forêt tropicale d'Afrique et n'est accessible que par bateau ou par avion."},
     facts: {
       de: ["Größtes tropisches Waldreservat", "Heimat der Bonobos", "UNESCO-Welterbe"],
@@ -152,7 +148,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-HU",
     coords: [29.5, 4.0],
     name: { de: "Garamba-Nationalpark", hu: "Garamba Nemzeti Park", ro: "Parcul Național Garamba", en: "Garamba National Park"},
-    image: "/poi-images/garamba-national-park-life-v2.webp",
     description: { de: "Der Garamba-Nationalpark im Nordosten ist bekannt für seine weiten Savannen und als Rückzugsort für Elefanten und Giraffen.", hu: "Az ország északkeleti részén fekvő nemzeti park, amely szavannáiról és hatalmas emlőseiről híres.", ro: "Parc național în nord-est, cunoscut pentru savanele sale întinse și eforturile de conservare a rinocerilor.", en: "Garamba National Park is located in the northeastern DR Congo and is one of Africa's oldest national parks." , es: "El Parque Nacional de Garamba, en el noreste, es conocido por sus vastas sabanas y como refugio para elefantes y jirafas.", pt: "O Parque Nacional de Garamba, no nordeste, é conhecido pelas suas vastas savanas e como refúgio para elefantes e girafas.", fr: "Le parc national de la Garamba, dans le nord-est, est réputé pour ses vastes savanes et comme refuge pour les éléphants et les girafes."},
     facts: {
       de: ["UNESCO-Welterbe", "Savannenlandschaft", "Gegründet 1938"],
@@ -188,7 +183,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-HK",
     coords: [26.5, -9.0],
     name: { de: "Upemba-Nationalpark", hu: "Upemba Nemzeti Park", ro: "Parcul Național Upemba", en: "Upemba National Park"},
-    image: "/poi-images/upemba-national-park-life-v2.webp",
     description: { de: "Der Upemba-Nationalpark besticht durch seine vielfältige Landschaft aus Grasland, Bergen und dem ausgedehnten Upemba-See.", hu: "Változatos tájakkal rendelkező nemzeti park Katanga régióban, ahol tavak és füves puszták váltják egymást.", ro: "Parc național situat în Katanga, cuprinzând un mozaic complex de lacuri, mlaștini și savane montane.", en: "Upemba National Park in Katanga is a vast area of lakes, marshes, and high plateaus with diverse wildlife." , es: "El Parque Nacional Upemba impresiona por su paisaje diverso de pastizales, montañas y el extenso lago Upemba.", pt: "O Parque Nacional da Upemba impressiona pela sua paisagem diversificada de pastagens, montanhas e o extenso lago Upemba.", fr: "Le parc national de l'Upemba séduit par la diversité de ses paysages de savanes, de montagnes et par l'immense lac Upemba."},
     facts: {
       de: ["Vielfältige Ökosysteme", "In der Provinz Haut-Lomami", "Vorkommen von Zebras"],
@@ -224,7 +218,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-HK",
     coords: [27.5, -10.5],
     name: { de: "Kundelungu-Nationalpark", hu: "Kundelungu Nemzeti Park", ro: "Parcul Național Kundelungu", en: "Kundelungu National Park"},
-    image: "/poi-images/kundelungu-national-park-life-v2.webp",
     description: { de: "Der Kundelungu-Nationalpark ist berühmt für die Lofoi-Fälle, die zu den höchsten Wasserfällen Afrikas zählen.", hu: "Magaslati fennsíkon elhelyezkedő nemzeti park, amely lenyűgöző panorámájáról nevezetes.", ro: "Parc situat pe un platou înalt în Katanga, faimos pentru Cascada Lofoi, cea mai înaltă din Africa.", en: "Kundelungu National Park is known for its dramatic landscapes and the spectacular Lofoi Falls, the highest in Africa." , es: "El Parque Nacional de Kundelungu es famoso por las cataratas Lofoi, que figuran entre las cataratas más altas de África.", pt: "O Parque Nacional de Kundelungu é famoso pelas quedas de Lofoi, que estão entre as quedas de água mais altas de África.", fr: "Le parc national de Kundelungu est célèbre pour les chutes de la Lofoi, qui comptent parmi les plus hautes cascades d'Afrique."},
     facts: {
       de: ["Spektakuläre Wasserfälle", "In der Provinz Haut-Katanga", "Hochplateau-Landschaft"],
@@ -260,7 +253,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-TU",
     coords: [24.5, -2.5],
     name: { de: "Lomami-Nationalpark", hu: "Lomami Nemzeti Park", ro: "Parcul Național Lomami", en: "Lomami National Park"},
-    image: "/poi-images/lomami-national-park-life-v2.webp",
     description: { de: "Der Lomami-Nationalpark ist eines der jüngsten Schutzgebiete des Landes und Heimat der erst 2007 entdeckten Lesula-Meerkatze.", hu: "A 2016-ban alapított nemzeti park a Lomami-folyó mentén, amely érintetlen esőerdőket védelmez.", ro: "Cel mai nou parc național al țării, înființat în 2016 pentru a proteja specii rare precum maimuța Lesula.", en: "Lomami National Park is the country's newest national park, established to protect the unique biodiversity of the central basin." , es: "El Parque Nacional de Lomami es una de las áreas protegidas más recientes del país y hogar del mono lesula, descubierto recién en 2007.", pt: "O Parque Nacional de Lomami é uma das áreas protegidas mais recentes do país e lar do macaco-lesula, descoberto apenas em 2007.", fr: "Le parc national de la Lomami est l'une des zones protégées les plus récentes du pays et abrite le cercopithèque lesula, découvert seulement en 2007."},
     facts: {
       de: ["Heimat der Lesula-Affen", "Gegründet 2016", "Unberührter Regenwald"],
@@ -296,7 +288,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-MN",
     coords: [26.0, 0.5],
     name: { de: "Maiko-Nationalpark", hu: "Maiko Nemzeti Park", ro: "Parcul Național Maiko", en: "Maiko National Park"},
-    image: "/poi-images/maiko-national-park-life-v2.webp",
     description: { de: "Der Maiko-Nationalpark liegt in einer extrem abgelegenen Region und bietet Schutz für Gorillas, Okapis und den Kongo-Pfau.", hu: "Távoli és nehezen megközelíthető nemzeti park az ország keleti esőerdőiben.", ro: "Parc național situat într-una dintre cele mai izolate zone forestiere, habitat pentru okapi și gorile.", en: "Maiko National Park is a remote and densely forested park that provides a vital refuge for gorillas, okapi, and Congo peacocks." , es: "El Parque Nacional Maiko se encuentra en una región extremadamente remota y ofrece protección a gorilas, okapis y al pavo real del Congo.", pt: "O Parque Nacional Maiko está localizado numa região extremamente remota e oferece proteção para gorilas, ocapis e o pavão-do-congo.", fr: "Le parc national de la Maiko est situé dans une région extrêmement reculée et protège les gorilles, les okapis et le paon du Congo."},
     facts: {
       de: ["Sehr abgelegenes Schutzgebiet", "Heimat des Kongo-Pfaus", "Bedeutende Artenvielfalt"],
@@ -332,7 +323,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-BC",
     coords: [12.5, -6.0],
     name: { de: "Mangroven-Nationalpark", hu: "Mangrove Nemzeti Park", ro: "Parcul Național al Mangrovelor", en: "Mangroves National Park"},
-    image: "/poi-images/mangroves-national-park-life-v2.webp",
     description: { de: "Der Mangroven-Nationalpark an der Kongo-Mündung schützt die einzigartigen Küstenökosysteme und die dort lebenden Seekühe.", hu: "Az ország egyetlen tengerparti nemzeti parkja a Kongó-folyó torkolatánál.", ro: "O rezervație marină unică la gura de vărsare a fluviului Congo în Atlantic, protejând pădurile de mangrove.", en: "Mangroves National Park is a marine and coastal park located at the mouth of the Congo River, protecting vital wetland ecosystems." , es: "El Parque Nacional de los Manglares, en la desembocadura del Congo, protege los ecosistemas costeros únicos y los manatíes que allí habitan.", pt: "O Parque Nacional dos Manguezais, na foz do Congo, protege os ecossistemas costeiros únicos e os peixes-boi que lá vivem.", fr: "Le parc national des Mangroves, à l'embouchure du Congo, protège les écosystèmes côtiers uniques et les lamantins qui y vivent."},
     facts: {
       de: ["Schutz von Mangrovenwäldern", "An der Atlantikküste", "Vorkommen von Manatis"],
@@ -368,7 +358,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-EQ",
     coords: [20.0, -1.0],
     name: { de: "Kongo-Kakaoplantage", hu: "Kongói kakaóültetvény", ro: "Plantație de cacao Congo", en: "Congo Cocoa Plantation"},
-    image: "/poi-images/kongo-kakaoplantage-v2.webp",
     description: { de: "Die Kakaoplantagen im Osten des Kongo produzieren hochwertige Bohnen, die für ihre feinen Aromen in der Schokoladenindustrie geschätzt werden.", hu: "Hatalmas kakaóültetvény, ahol a világszerte kedvelt csokoládé alapanyagát termesztik.", ro: "Plantație de cacao în regiunea fertilă a bazinului Congo, producând boabe de înaltă calitate pentru export.", en: "Cocoa plantations in the DR Congo are a major source of high-quality beans for the international chocolate industry." , es: "Las plantaciones de cacao en el este del Congo producen granos de alta calidad, apreciados por sus finos aromas en la industria del chocolate.", pt: "As plantações de cacau no leste do Congo produzem grãos de alta qualidade, apreciados pelos seus aromas finos na indústria do chocolate.", fr: "Les plantations de cacao dans l'est du Congo produisent des fèves de haute qualité, appréciées pour leurs arômes fins dans l'industrie chocolatière."},
     facts: {
       de: ["Hochwertiger Kakaoanbau", "Exportgut", "In der Region Nord-Kivu"],
@@ -404,7 +393,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-KN",
     coords: [15.3, -4.3],
     name: { de: "Kinshasa Kinderpark", hu: "Kinshasa Gyermekpark", ro: "Parcul pentru copii Kinshasa", en: "Kinshasa Children's Park"},
-    image: "/poi-images/kinshasa-kinderpark-v2.webp",
     description: { de: "In Kinshasa bieten verschiedene Freizeitparks und Grünanlagen Raum für Erholung und Spiel inmitten der Millionenmetropole.", hu: "Modern játszótér és szabadidőpark a fővárosban, amely a családok kedvelt pihenőhelye.", ro: "Parc de distracții modern în Kinshasa, oferind spații de joacă și recreere securizate pentru familii.", en: "Children's parks in Kinshasa provide vibrant spaces for recreation and family gatherings in the heart of the capital." , es: "En Kinshasa, diversos parques de ocio y zonas verdes ofrecen espacios para el descanso y el juego en medio de la megaciudad.", pt: "Em Kinshasa, diversos parques de lazer e espaços verdes oferecem áreas para descanso e diversão no meio da megacidade.", fr: "À Kinshasa, divers parcs de loisirs et espaces verts offrent des lieux de détente et de jeu au cœur de la mégapole."},
     facts: {
       de: ["Freizeiteinrichtung in der Hauptstadt", "Ort für Familien", "Grüne Oase"],
@@ -440,7 +428,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-NK",
     coords: [29.0, -0.5],
     name: { de: "Kongo-Kaffeeplantage", hu: "Kongói kávéültetvény", ro: "Plantație de cafea Congo", en: "Congo Coffee Plantation"},
-    image: "/poi-images/kongo-kaffeeplantage-v2.webp",
     description: { de: "Die fruchtbaren vulkanischen Böden im Osten bieten ideale Bedingungen für den Anbau von exzellentem Arabica- und Robusta-Kaffee.", hu: "Kávéültetvény a magasabban fekvő területeken, ahol kiváló minőségű kávébabot termelnek.", ro: "Plantație de cafea situată pe versanții muntoși din est, cunoscută pentru soiurile Arabica și Robusta.", en: "Coffee plantations in the DR Congo produce both Arabica and Robusta beans, renowned for their rich and complex flavor profiles." , es: "Los fértiles suelos volcánicos del este ofrecen condiciones ideales para el cultivo de excelente café Arábica y Robusta.", pt: "Os solos vulcânicos férteis do leste oferecem condições ideais para o cultivo de excelente café Arábica e Robusta.", fr: "Les sols volcaniques fertiles de l'est offrent des conditions idéales pour la culture d'un excellent café Arabica et Robusta."},
     facts: {
       de: ["Traditioneller Kaffeeanbau", "Vulkanische Böden", "Wichtiges Agrarprodukt"],
@@ -476,7 +463,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-MN",
     coords: [25.0, 0.0],
     name: { de: "Kongo-Palmölplantage", hu: "Kongói pálmaolaj-ültetvény", ro: "Plantație de ulei de palmier Congo", en: "Congo Palm Oil Plantation"},
-    image: "/poi-images/kongo-palmoelplantage-v2.webp",
     description: { de: "Ölpalmenplantagen sind ein fester Bestandteil der kongolesischen Landwirtschaft und liefern die Basis für Speiseöl und Seifenprodukte.", hu: "Kiterjedt olajpálma-ültetvény, amely az egyik legfontosabb élelmiszeripari alapanyag forrása.", ro: "Vastă plantație de palmieri de ulei, esențială pentru industria alimentară și cosmetică locală.", en: "Palm oil plantations are widespread across the central basin, serving as a staple of both local diets and national industry." , es: "Las plantaciones de palma aceitera son una parte integral de la agricultura congoleña y proporcionan la base para el aceite de cocina y productos de jabón.", pt: "As plantações de dendezeiros são uma parte integrante da agricultura congolesa e fornecem a base para o óleo de cozinha e produtos de sabão.", fr: "Les plantations de palmiers à huile font partie intégrante de l'agriculture congolaise et fournissent la base de l'huile alimentaire et des produits de savonnerie."},
     facts: {
       de: ["Bedeutende Palmölproduktion", "Großflächiger Anbau", "Wichtig für die lokale Industrie"],
@@ -557,7 +543,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-HK",
     coords: [27.4, -11.6],
     name: { de: "Lubumbashi Kinderpark", hu: "Lubumbashi Gyermekpark", ro: "Parcul pentru copii Lubumbashi", en: "Lubumbashi Children's Park"},
-    image: "/poi-images/lubumbashi-kinderpark-v2.webp",
     description: { de: "Lubumbashi verfügt über gepflegte Parks und Spielbereiche, die beliebte Treffpunkte für Familien in der Bergbaumetropole sind.", hu: "Népszerű szabadidőpark Lubumbashiban, amely kikapcsolódást nyújt a városi családoknak.", ro: "Zonă de recreere pentru copii în Lubumbashi, dotată cu echipamente de joacă și spații verzi.", en: "Children's parks in Lubumbashi offer safe and fun environments for the city's youth to play and socialize." , es: "Lubumbashi cuenta con parques y áreas de juego bien mantenidos que son puntos de encuentro populares para las familias en esta metrópoli minera.", pt: "Lubumbashi possui parques e áreas de lazer bem cuidados, que são pontos de encontro populares para famílias na metrópole mineira.", fr: "Lubumbashi dispose de parcs et d'aires de jeux bien entretenus, qui sont des points de rencontre populaires pour les familles dans cette métropole minière."},
     facts: {
       de: ["Freizeitort in Lubumbashi", "Spielmöglichkeiten für Kinder", "Städtische Erholungsfläche"],
@@ -593,7 +578,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-TU",
     coords: [24.0, -3.0],
     name: { de: "Kongo-Erdnussfeld", hu: "Kongói földimogyoró-föld", ro: "Câmp de arahide Congo", en: "Congo Peanut Field"},
-    image: "/poi-images/kongo-erdnussfeld-v2.webp",
     description: { de: "Erdnüsse werden im ganzen Land auf kleinen Feldern angebaut und sind ein unverzichtbarer Bestandteil der täglichen kongolesischen Ernährung.", hu: "Hagyományos földműveléssel gondozott földimogyoró-mező a vidéki tájon.", ro: "Câmp de arahide cultivat de comunitățile locale, o sursă de bază de proteine în dieta congoleză.", en: "Peanut fields are a common sight in the savannas of the DR Congo, providing a vital source of protein and income." , es: "Los cacahuetes se cultivan en todo el país en pequeñas parcelas y son una parte indispensable de la dieta diaria congoleña.", pt: "Os amendoins são cultivados em todo o país em pequenas parcelas e são uma parte indispensável da dieta diária congolesa.", fr: "Les arachides sont cultivées dans tout le pays sur de petites parcelles et constituent un élément indispensable de l'alimentation quotidienne congolaise."},
     facts: {
       de: ["Wichtiges Grundnahrungsmittel", "Kleinbäuerlicher Anbau", "Basis für viele Soßen"],
@@ -629,7 +613,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-KN",
     coords: [15.5, -4.5],
     name: { de: "Kongo-Zuckerrohrplantage", hu: "Kongói cukornád-ültetvény", ro: "Plantație de trestie de zahăr Congo", en: "Congo Sugarcane Plantation"},
-    image: "/poi-images/kongo-zuckerrohrplantage-v2.webp",
     description: { de: "Zuckerrohr wird großflächig angebaut, insbesondere in der Provinz Kongo Central, um die lokale Zuckerindustrie zu versorgen.", hu: "Napsütötte cukornádültetvény, ahol az édes szálakat a cukorgyártáshoz termesztik.", ro: "Câmpuri întinse de trestie de zahăr în valea fluviului Congo, alimentând fabricile de zahăr din țară.", en: "Sugar cane plantations are a significant part of the agricultural landscape in the Kongo Central province, supplying local refineries." , es: "La caña de azúcar se cultiva a gran escala, especialmente en la provincia de Congo Central, para abastecer a la industria azucarera local.", pt: "A cana-de-açúcar é cultivada em larga escala, especialmente na província de Congo Central, para abastecer a indústria açucareira local.", fr: "La canne à sucre est cultivée à grande échelle, notamment dans la province du Kongo-Central, pour approvisionner l'industrie sucrière locale."},
     facts: {
       de: ["Bedeutende Zuckerproduktion", "Anbau im Westen des Landes", "Wichtiger Rohstoff"],
@@ -710,7 +693,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-NK",
     coords: [29.2, -1.6],
     name: { de: "Goma Kinderpark", hu: "Goma Gyermekpark", ro: "Parcul pentru copii Goma", en: "Goma Children's Park"},
-    image: "/poi-images/goma-kinderpark-v2.webp",
     description: { de: "In Goma gibt es speziell gestaltete Parkanlagen, die Kindern sichere Spielmöglichkeiten mit Blick auf den Kivusee bieten.", hu: "Barátságos gyermeksarok és pihenőpark Goma városában, a Kivu-tó közelében.", ro: "Parc tematic pentru copii în Goma, oferind o priveliște superbă spre lacul Kivu.", en: "Children's parks in Goma provide much-needed spaces for play and community healing in the city's unique volcanic landscape." , es: "En Goma existen parques especialmente diseñados que ofrecen a los niños zonas de juego seguras con vistas al lago Kivu.", pt: "Em Goma, existem parques especialmente concebidos que oferecem às crianças áreas de lazer seguras com vista para o Lago Kivu.", fr: "À Goma, des parcs spécialement aménagés offrent aux enfants des espaces de jeux sécurisés avec vue sur le lac Kivu."},
     facts: {
       de: ["Spielplatz in Goma", "Erholungsraum für Kinder", "Nahe dem Seeufer"],
@@ -746,7 +728,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-KN",
     coords: [15.0, -4.0],
     name: { de: "Kongo-Bananenplantage", hu: "Kongói banánültetvény", ro: "Plantație de banane Congo", en: "Congo Banana Plantation"},
-    image: "/poi-images/kongo-bananenplantage-v2.webp",
     description: { de: "Bananen und Kochbananen sind ein zentrales Element der kongolesischen Landwirtschaft und ein wichtiges Grundnahrungsmittel.", hu: "Trópusi banánültetvény, ahol az ország egyik legfontosabb néptáplálékát termesztik.", ro: "Plantație de banane și pătlagină (plantain), un aliment esențial în bucătăria națională congoleză.", en: "Banana plantations are ubiquitous throughout the tropical regions of the DR Congo, producing a vital food staple and export." , es: "Los plátanos y las bananas son un elemento central de la agricultura congoleña y un alimento básico importante.", pt: "As bananas e as bananas-da-terra são um elemento central da agricultura congolesa e um alimento básico importante.", fr: "Les bananes et les bananes plantains sont un élément central de l'agriculture congolaise et une denrée alimentaire de base."},
     facts: {
       de: ["Vielfältige Bananensorten", "Grundnahrungsmittel", "Überall im Land verbreitet"],
@@ -863,7 +844,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-TU",
     coords: [25.2, 0.5],
     name: { de: "Kisangani Kinderpark", hu: "Kisangani Gyermekpark", ro: "Parcul pentru copii Kisangani", en: "Kisangani Children's Park"},
-    image: "/poi-images/kisangani-kinderpark-v2.webp",
     description: { de: "Die Kinderparks in Kisangani sind beliebte Orte für Familienfeste und bieten Schatten unter großen tropischen Bäumen.", hu: "Kisangani városának egyik kedvelt parkja, ahol a legkisebbek számára építettek játszóteret.", ro: "Spațiu de joacă dedicat copiilor din Kisangani, situat într-o zonă umbrită de arbori tropicali.", en: "Children's parks in Kisangani offer recreational opportunities for families along the banks of the majestic Congo River." , es: "Los parques infantiles de Kisangani son lugares populares para celebraciones familiares y ofrecen sombra bajo grandes árboles tropicales.", pt: "Os parques infantis de Kisangani são locais populares para festas familiares e oferecem sombra sob grandes árvores tropicais.", fr: "Les parcs pour enfants de Kisangani sont des lieux prisés pour les fêtes de famille et offrent de l'ombre sous de grands arbres tropicaux."},
     facts: {
       de: ["Freizeitbereich in Kisangani", "Ort für Familien", "Unter tropischer Vegetation"],
@@ -899,7 +879,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-KN",
     coords: [15.2, -4.2],
     name: { de: "Kongo-Reisfeld", hu: "Kongói rizsföld", ro: "Orezărie Congo", en: "Congo Rice Field"},
-    image: "/poi-images/kongo-reisfeld-v2.webp",
     description: { de: "Reis wird vor allem in den feuchten Niederungen des Kongobeckens angebaut und stellt eine wichtige Nahrungsquelle dar.", hu: "Vizes élőhelyeken kialakított rizsföld, ahol az ország egyik alapvető gabonáját nevelik.", ro: "Câmp de orez inundat în zonele joase ale fluviului, asigurând securitatea alimentară regională.", en: "Rice fields are a critical part of agriculture in the river valleys and swampy regions of the DR Congo, ensuring food security." , es: "El arroz se cultiva principalmente en las tierras bajas húmedas de la cuenca del Congo y representa una importante fuente de alimento.", pt: "O arroz é cultivado principalmente nas terras baixas húmidas da bacia do Congo e representa uma importante fonte de alimento.", fr: "Le riz est principalement cultivé dans les plaines humides du bassin du Congo et constitue une source de nourriture importante."},
     facts: {
       de: ["Anbau in Feuchtgebieten", "Wichtiges Getreide", "Zentrum in der Provinz Tshopo"],
@@ -980,7 +959,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-SK",
     coords: [28.8, -2.5],
     name: { de: "Bukavu Kinderpark", hu: "Bukavu Gyermekpark", ro: "Parcul pentru copii Bukavu", en: "Bukavu Children's Park"},
-    image: "/poi-images/bukavu-kinderpark-v2.webp",
     description: { de: "In der hügeligen Stadt Bukavu bieten kleine Parks Kindern die Möglichkeit, sich im Freien zu bewegen und zu spielen.", hu: "Bukavu dombos vidékén kialakított családi park és játszótér.", ro: "Parc de joacă în Bukavu, oferind activități recreative într-o zonă montană pitorească.", en: "Children's parks in Bukavu provide scenic and safe spaces for play overlooking the beautiful shores of Lake Kivu." , es: "En la montañosa ciudad de Bukavu, pequeños parques ofrecen a los niños la oportunidad de moverse y jugar al aire libre.", pt: "Na cidade montanhosa de Bukavu, pequenos parques oferecem às crianças a oportunidade de se movimentarem e brincarem ao ar livre.", fr: "Dans la ville vallonnée de Bukavu, de petits parcs offrent aux enfants la possibilité de bouger et de jouer en plein air."},
     facts: {
       de: ["Spielmöglichkeiten in Bukavu", "Kindgerechte Grünanlagen", "Inmitten der hügeligen Stadt"],
@@ -1016,7 +994,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-TU",
     coords: [25.0, 0.2],
     name: { de: "Kongo-Maniokfeld", hu: "Kongói maniókamező", ro: "Câmp de manioc Congo", en: "Congo Cassava Field"},
-    image: "/poi-images/kongo-manjokfeld-v2.webp",
     description: { de: "Maniok ist das mit Abstand wichtigste Grundnahrungsmittel im Kongo; sowohl die Wurzeln als auch die Blätter werden verzehrt.", hu: "Kiterjedt maniókaültetvény, amely a kongói étrend legfontosabb alapanyagát adja.", ro: "Câmp de manioc (cassava), cea mai importantă cultură de subzistență din Republica Democrată Congo.", en: "Cassava (manioc) fields are the most widespread agricultural feature in the DR Congo, as it is the nation's primary food staple." , es: "La mandioca es, con diferencia, el alimento básico más importante del Congo; se consumen tanto las raíces como las hojas.", pt: "A mandioca é, de longe, o alimento básico mais importante no Congo; tanto as raízes quanto as folhas são consumidas.", fr: "Le manioc est de loin le principal aliment de base au Congo ; les racines comme les feuilles sont consommées."},
     facts: {
       de: ["Hauptnahrungsmittel des Landes", "Anspruchslose Kulturpflanze", "Basis für Fufu und Pondu"],
@@ -1052,7 +1029,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-NK",
     coords: [29.1, -0.6],
     name: { de: "Kongo-Teeanbau", hu: "Kongói teatermesztés", ro: "Cultivarea ceaiului Congo", en: "Congo Tea Cultivation"},
-    image: "/poi-images/kongo-teebau-v2.webp",
     description: { de: "In den kühleren Hochlagen des Kivus wird Tee von hoher Qualität angebaut, der auch in den Export geht.", hu: "Hűvös hegyvidéki teacserje-ültetvény az ország keleti részén.", ro: "Plantație de ceai situată la altitudini mari în est, oferind peisaje verzi și ordonate.", en: "Tea cultivation is a specialized industry in the high-altitude regions of the eastern DR Congo, known for its premium quality." , es: "En las tierras altas más frescas de Kivu se cultiva té de alta calidad, que también se exporta.", pt: "Nas terras altas mais frescas de Kivu, cultiva-se chá de elevada qualidade, que também é exportado.", fr: "Dans les hautes terres plus fraîches du Kivu, on cultive un thé de haute qualité qui est également exporté."},
     facts: {
       de: ["Anbau in Höhenlagen", "Hervorragende Qualität", "In der Region Kivu"],
@@ -1088,7 +1064,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-BC",
     coords: [13.4, -5.8],
     name: { de: "Matadi Kinderpark", hu: "Matadi Gyermekpark", ro: "Parcul pentru copii Matadi", en: "Matadi Children's Park"},
-    image: "/poi-images/matadi-kinderpark-v2.webp",
     description: { de: "Trotz des geschäftigen Hafenbetriebs finden sich in Matadi kleine Parkanlagen, die Kindern Raum zum Spielen bieten.", hu: "A kikötőváros, Matadi egyik gondozott parkja, ahol a gyerekek szabadon játszhatnak.", ro: "Zonă de joacă urbană în orașul portuar Matadi, oferind un refugiu recreativ pentru copii.", en: "Children's parks in Matadi provide essential recreational space for the youth of the country's main port city." , es: "A pesar de la ajetreada actividad portuaria, en Matadi se encuentran pequeñas zonas verdes que ofrecen a los niños espacio para jugar.", pt: "Apesar da movimentada operação portuária, existem pequenas áreas verdes em Matadi que oferecem às crianças espaço para brincar.", fr: "Malgré l'activité portuaire intense, Matadi abrite de petits parcs qui offrent aux enfants un espace de jeu."},
     facts: {
       de: ["Städtischer Spielplatz", "In der Hafenstadt Matadi", "Treffpunkt für Familien"],
@@ -1124,7 +1099,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-KN",
     coords: [15.1, -4.1],
     name: { de: "Kongo-Ananasplantage", hu: "Kongói ananászültetvény", ro: "Plantație de ananas Congo", en: "Congo Pineapple Plantation"},
-    image: "/poi-images/kongo-ananasplantage-v2.webp",
     description: { de: "Ananas gedeihen prächtig im tropischen Klima des Kongo und werden auf lokalen Märkten als süße Erfrischung geschätzt.", hu: "Trópusi ananászültetvény, ahol az édes és lédús gyümölcsök érnek a napon.", ro: "Plantație de ananas în regiunea tropicală, producând fructe dulci și suculente pentru piețele locale și regionale.", en: "Pineapple plantations thrive in the tropical climate of the DR Congo, producing sweet and vibrant fruit for local markets." , es: "Las piñas crecen magníficamente en el clima tropical del Congo y son apreciadas en los mercados locales como un dulce refresco.", pt: "Os abacaxis crescem magnificamente no clima tropical do Congo e são apreciados nos mercados locais como um refresco doce.", fr: "Les ananas prospèrent dans le climat tropical du Congo et sont appréciés sur les marchés locaux comme un rafraîchissement sucré."},
     facts: {
       de: ["Anbau tropischer Früchte", "Sehr süße Sorten", "Wichtig für lokale Märkte"],
@@ -1160,7 +1134,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-EQ",
     coords: [18.2, 0.0],
     name: { de: "Mbandaka Kinderpark", hu: "Mbandaka Gyermekpark", ro: "Parcul pentru copii Mbandaka", en: "Mbandaka Children's Park"},
-    image: "/poi-images/mbandaka-kinderpark-v2.webp",
     description: { de: "In der Äquatorstadt Mbandaka bieten Parkanlagen eine willkommene Abwechslung und Spielraum im dichten Grün der Stadt.", hu: "Mbandaka folyóparti városában található játszótér és pihenőövezet.", ro: "Parc de recreere în Mbandaka, situat pe Ecuator, oferind un spațiu de relaxare pentru copiii din oraș.", en: "Children's parks in Mbandaka offer family-friendly environments in the heart of the equatorial rainforest city." , es: "En la ciudad ecuatorial de Mbandaka, las zonas verdes ofrecen un cambio agradable y espacio para jugar en medio de la densa vegetación urbana.", pt: "Na cidade equatorial de Mbandaka, os parques oferecem uma mudança bem-vinda e espaço para brincar no verde denso da cidade.", fr: "Dans la ville équatoriale de Mbandaka, les parcs offrent un changement bienvenu et un espace de jeu au milieu de la verdure urbaine dense."},
     facts: {
       de: ["Grüner Spielpark", "In der Stadt am Äquator", "Ort der Begegnung"],
@@ -1196,7 +1169,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-TU",
     coords: [24.2, 0.4],
     name: { de: "Kongo-Maisfeld", hu: "Kongói kukoricaföld", ro: "Câmp de porumb Congo", en: "Congo Corn Field"},
-    image: "/poi-images/kongo-mais-feld-v2.webp",
     description: { de: "Mais ist ein wesentliches Getreide in der kongolesischen Landwirtschaft und dient sowohl der menschlichen Ernährung als auch als Futtermittel.", hu: "Kukoricatábla, ahol az egyik legfontosabb takarmány- és élelmiszernövényt termesztik.", ro: "Câmp de porumb, o cultură agricolă vitală care asigură hrana de bază pentru milioane de congolezi.", en: "Maize fields are a dominant agricultural feature in the southern savannas of the DR Congo, providing a vital food source." , es: "El maíz es un cereal esencial en la agricultura congoleña y sirve tanto para la alimentación humana como para forraje.", pt: "O milho é um cereal essencial na agricultura congolesa e serve tanto para a alimentação humana como para ração animal.", fr: "Le maïs est une céréale essentielle de l'agriculture congolaise, servant aussi bien à l'alimentation humaine qu'au bétail."},
     facts: {
       de: ["Bedeutendes Getreide", "Vielseitige Verwendung", "Anbau in vielen Provinzen"],
@@ -1232,7 +1204,6 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     parent: "CD-EQ",
     coords: [19.0, -0.5],
     name: { de: "Kongo-Kautschukplantage", hu: "Kongói gumifa-ültetvény", ro: "Plantație de arbore de cauciuc Congo", en: "Congo Rubber Plantation"},
-    image: "/poi-images/kongo-gummibaumplantage-v2.webp",
     description: { de: "Gummibaumplantagen haben eine lange Geschichte im Kongo und liefern bis heute Naturkautschuk für die industrielle Verarbeitung.", hu: "Kaucsukfa-ültetvény, amely a természetes gumi előállításának forrása.", ro: "Plantație de arbori de cauciuc (Hevea), o resursă industrială istorică a Republicii Democrate Congo.", en: "Rubber tree plantations are found in the equatorial forests of the DR Congo, continuing a long history of natural rubber production." , es: "Las plantaciones de árboles de caucho tienen una larga historia en el Congo y siguen suministrando caucho natural para el procesamiento industrial.", pt: "As plantações de árvores de borracha têm uma longa história no Congo e continuam a fornecer borracha natural para o processamento industrial.", fr: "Les plantations d'hévéas ont une longue histoire au Congo et fournissent encore aujourd'hui du caoutchouc naturel pour la transformation industrielle."},
     facts: {
       de: ["Produktion von Naturkautschuk", "Historisch bedeutsam", "Industrieller Nutzwald"],

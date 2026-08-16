@@ -202,7 +202,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Domuyo-vulkán",
       ro: "Vulcanul Domuyo",
       en: "Domuyo Volcano"},
-    image: "/poi-images/volcan-domuyo-relief-v2.webp",
     description: {
       de: "Der höchste Gipfel Patagoniens, oft als Dach Patagoniens bezeichnet, bekannt für seine geothermische Aktivität.",
       hu: "Patagónia legmagasabb csúcsa, amelyet gyakran Patagónia tetejének neveznek geotermális aktivitása miatt.",
@@ -367,7 +366,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Cerro Mercedario",
       ro: "Cerro Mercedario",
       en: "Cerro Mercedario"},
-    image: "/poi-images/cerro-mercedario-relief-v2.webp",
     description: {
       de: "Einer der höchsten Berge der Anden, gelegen in der Provinz San Juan, der bei Bergsteigern sehr beliebt ist.",
       hu: "Az Andok egyik legmagasabb hegye, San Juan tartományban található, és nagyon népszerű a hegymászók körében.",
@@ -496,7 +494,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Maipo-vulkán",
       ro: "Vulcanul Maipo",
       en: "Maipo Volcano"},
-    image: "/poi-images/volcan-maipo-relief-v2.webp",
     description: {
       de: "Ein beeindruckender Stratovulkan an der Grenze zwischen Argentinien und Chile, berühmt für seine perfekte konische Form.",
       hu: "Egy lenyűgöző rétegvulkán az argentin-chilei határon, amely híres tökéletes kúp alakjáról.",
@@ -625,7 +622,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Cerro Bonete",
       ro: "Cerro Bonete",
       en: "Cerro Bonete"},
-    image: "/poi-images/cerro-bonete-chico-relief-v2.webp",
     description: {
       de: "Ein massiver, erloschener Vulkan in der Provinz La Rioja und einer der höchsten Gipfel auf der südlichen Hemisphäre.",
       hu: "Egy hatalmas, kialudt vulkán La Rioja tartományban, és a déli félteke egyik legmagasabb csúcsa.",
@@ -718,7 +714,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Tupungato",
       ro: "Tupungato",
       en: "Tupungato"},
-    image: "/poi-images/tupungato-relief-v2.webp",
     description: {
       de: "Einer der höchsten Vulkane der Erde, der die Landschaft der zentralen Anden dominiert und eine Eiskappe trägt.",
       hu: "A Föld egyik legmagasabb vulkánja, amely uralja a Középső-Andok táját, és jégsapkát visel.",
@@ -811,7 +806,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Nevado de Incahuasi",
       ro: "Nevado de Incahuasi",
       en: "Nevado de Incahuasi"},
-    image: "/poi-images/incahuasi-relief-v2.webp",
     description: {
       de: "Ein riesiger Stratovulkan in den Anden, auf dessen Gipfel alte Inka-Ruinen gefunden wurden.",
       hu: "Egy hatalmas rétegvulkán az Andokban, amelynek csúcsán ősi inka romokat találtak.",
@@ -904,7 +898,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Cerro Galán",
       ro: "Cerro Galán",
       en: "Cerro Galán"},
-    image: "/poi-images/cerro-galan-relief-v2.webp",
     description: {
       de: "Ein riesiger Vulkankrater in der argentinischen Puna, dessen Caldera zu den größten der Welt zählt.",
       hu: "Egy hatalmas vulkáni kráter az argentin Punában, amelynek kalderája a világ egyik legnagyobbika.",
@@ -952,7 +945,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Nevado Tres Cruces",
       ro: "Nevado Tres Cruces",
       en: "Nevado Tres Cruces"},
-    image: "/poi-images/cerro-tres-cruces-relief-v2.webp",
     description: {
       de: "Ein bedeutendes vulkanisches Massiv, das aus drei Hauptgipfeln besteht und eine weite Wüstenlandschaft überblickt.",
       hu: "Egy jelentős vulkáni masszívum, amely három fő csúcsból áll, és egy kiterjedt sivatagi tájra néz.",
@@ -1153,7 +1145,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Sierras de Córdoba",
       ro: "Sierras de Córdoba",
       en: "Sierras de Córdoba"},
-    image: "/poi-images/sierras-de-cordoba-relief-v2.webp",
     description: {
       de: "Ein altes Mittelgebirge im Zentrum Argentiniens, das eine reiche Flora und Fauna sowie tiefe Täler beherbergt.",
       hu: "Egy régi középhegység Argentína központjában, amely gazdag növény- és állatvilágnak, valamint mély völgyeknek ad otthont.",
@@ -1894,7 +1885,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Sierras de la Ventana",
       ro: "Sierras de la Ventana",
       en: "Sierras de la Ventana"},
-    image: "/poi-images/sierras-de-la-ventana-relief-v2.webp",
     description: {
       de: "Ein kleines, aber markantes Gebirgsmassiv in der Pampa-Ebene, bekannt für eine charakteristische Felsformation, die wie ein Fenster aussieht.",
       hu: "Egy kis, de feltűnő hegység a pampákon, amely egy jellegzetes, ablakra emlékeztető sziklaalakzatról ismert.",
@@ -3052,7 +3042,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Quebrada de Humahuaca",
       ro: "Quebrada de Humahuaca",
       en: "Quebrada de Humahuaca"},
-    image: "/poi-images/quebrada-de-humahuaca-relief-v2.webp",
     description: {
       de: "Ein schmales, farbenprächtiges Gebirgstal im Nordwesten Argentiniens, das jahrtausendelang als wichtige Handelsroute diente.",
       hu: "Egy szűk, színpompás hegyi völgy Északnyugat-Argentínában, amely évezredeken át fontos kereskedelmi útvonalként szolgált.",
@@ -3145,7 +3134,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Valles Calchaquíes",
       ro: "Valles Calchaquíes",
       en: "Calchaquí Valleys"},
-    image: "/poi-images/valles-calchaquies-relief-v2.webp",
     description: {
       de: "Ein ausgedehntes System von Tälern und Bergen, berühmt für seine kontrastreichen Landschaften aus roten Felsen und grünen Oasen.",
       hu: "Völgyek és hegyek kiterjedt rendszere, amely híres a vörös sziklák és zöld oázisok kontrasztos tájairól.",
@@ -3193,7 +3181,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Patagóniai-fennsík",
       ro: "Podișul Patagoniei",
       en: "Patagonian Meseta"},
-    image: "/poi-images/meseta-patagonica-relief-v2.webp",
     description: {
       de: "Eine weite, steppenartige Hochebene, die sich über den südlichen Teil Argentiniens erstreckt und von starken Winden geprägt ist.",
       hu: "Egy kiterjedt, sztyeppeszerű fennsík, amely Argentína déli részén húzódik, és erős szelek formálják.",
@@ -3559,7 +3546,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Talampaya-kanyon",
       ro: "Canionul Talampaya",
       en: "Talampaya Canyon"},
-    image: "/poi-images/canon-de-talampaya-relief-v2.webp",
     description: {
       de: "Eine spektakuläre Schlucht mit hoch aufragenden roten Sandsteinwänden, die durch Wassererosion über Jahrtausende entstanden ist.",
       hu: "Egy látványos szurdok, magasba nyúló vörös homokkő falakkal, amely évezredes vízerózió révén alakult ki.",
@@ -3688,7 +3674,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Yungas",
       ro: "Yungas",
       en: "Yungas"},
-    image: "/poi-images/yungas-relief-v2.webp",
     description: {
       de: "Ein feuchter, subtropischer Bergwald an den Osthängen der Anden, der für seine dichten Nebel und hohe Biodiversität bekannt ist.",
       hu: "Nedves, szubtrópusi hegyi erdő az Andok keleti lejtőin, amely sűrű ködéről és nagy biodiverzitásáról ismert.",
@@ -3736,7 +3721,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "El Impenetrable",
       ro: "El Impenetrable",
       en: "El Impenetrable"},
-    image: "/poi-images/el-impenetrable-relief-v2.webp",
     description: {
       de: "Ein riesiges, dicht bewachsenes Trockenwaldgebiet im Gran Chaco, dessen Name sich auf seine fast undurchdringliche Vegetation bezieht.",
       hu: "Hatalmas, sűrűn benőtt száraz erdő a Gran Chacóban, amelynek neve szinte áthatolhatatlan növényzetére utal.",
@@ -3937,7 +3921,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Quebrada de las Conchas",
       ro: "Quebrada de las Conchas",
       en: "Quebrada de las Conchas"},
-    image: "/poi-images/quebrada-de-las-conchas-relief-v2.webp",
     description: {
       de: "Ein tiefes Flusstal mit beeindruckenden, vom Wind geformten rostroten Felsformationen, wie dem Amphitheater und dem Teufelsschlund.",
       hu: "Mély folyóvölgy lenyűgöző, szél által formált rozsdavörös sziklaalakzatokkal, mint például az Amfiteátrum és az Ördögtorok.",
@@ -4282,7 +4265,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Cuesta del Obispo",
       ro: "Cuesta del Obispo",
       en: "Cuesta del Obispo"},
-    image: "/poi-images/cuesta-del-obispo-relief-v2.webp",
     description: {
       de: "Eine gewundene, steile Passstraße, die durch grüne, wolkenverhangene Berge führt und spektakuläre Aussichten auf tiefe Schluchten bietet.",
       hu: "Egy kanyargós, meredek hágóút, amely zöld, felhőbe burkolózó hegyeken vezet át, és látványos kilátást nyújt a mély szurdokokra.",
@@ -4330,7 +4312,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Somuncurá-fennsík",
       ro: "Podișul Somuncurá",
       en: "Somuncurá Plateau"},
-    image: "/poi-images/meseta-de-somuncura-relief-v2.webp",
     description: {
       de: "Ein ausgedehntes vulkanisches Plateau in Nordpatagonien, geprägt von isolierten Lagunen, Basaltfelsen und einer einzigartigen endemischen Tierwelt.",
       hu: "Kiterjedt vulkáni fennsík Észak-Patagóniában, amelyet elszigetelt lagúnák, bazaltsziklák és egyedülálló, endemikus állatvilág jellemez.",
@@ -5719,7 +5700,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Cerro Campanario",
       ro: "Cerro Campanario",
       en: "Cerro Campanario"},
-    image: "/poi-images/cerro-campanario-relief-v2.webp",
     description: {
       de: "Ein markanter Hügel in Bariloche, der für seinen Panoramablick auf tiefe Seen und schneebedeckte Andengipfel weltberühmt ist.",
       hu: "Egy feltűnő domb Barilochéban, amely világhírű a mély tavakra és hósapkás andoki csúcsokra nyíló panorámájáról.",
@@ -6568,7 +6548,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Cerro Catedral",
       ro: "Cerro Catedral",
       en: "Cerro Catedral"},
-    image: "/poi-images/cerro-catedral-relief-v2.webp",
     description: {
       de: "Ein berühmter Berg in Patagonien, dessen spitze, nadelartige Gipfel an die gotischen Türme einer mittelalterlichen Kathedrale erinnern.",
       hu: "Egy híres hegy Patagóniában, amelynek hegyes, tűszerű csúcsai egy középkori katedrális gótikus tornyaira emlékeztetnek.",
@@ -6616,7 +6595,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
       hu: "Monte San Lorenzo",
       ro: "Monte San Lorenzo",
       en: "Monte San Lorenzo"},
-    image: "/poi-images/monte-san-lorenzo-relief-v2.webp",
     description: {
       de: "Ein gewaltiger, vergletscherter Berg an der südlichen Grenze zu Chile, der das Landschaftsbild der patagonischen Anden dominiert.",
       hu: "Egy hatalmas, eljegesedett hegy a déli chilei határon, amely uralja a patagóniai Andok tájképét.",

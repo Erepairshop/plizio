@@ -57,7 +57,6 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: "Brarudi Sörgyár",
       ro: "Berăria Brarudi",
       en: "Brarudi Brewery"},
-    image: "/poi-images/brarudi-brauerei-economic-v2.webp",
     descriptionAdvanced: {
       de: "Brarudi (Brasseries et Limonaderies du Burundi) ist das größte und bedeutendste Industrieunternehmen Burundis mit Sitz in der Hauptstadt Bujumbura. Die Brauerei wurde im Jahr 1955 gegründet und ist heute eine Tochtergesellschaft der internationalen Heineken-Gruppe. Sie produziert eine breite Palette von Getränken, darunter das berühmte Primus-Bier, das als nationales Symbol gilt, sowie Amstel und verschiedene Erfrischungsgetränke von Coca-Cola. Brarudi ist der größte Steuerzahler des Landes und spielt eine entscheidende Rolle für die nationale Wirtschaft und Beschäftigung. Die Produktionsstätte nutzt moderne Brautechnologien und ist eng mit der lokalen Landwirtschaft verbunden, da sie teilweise einheimisches Getreide für die Produktion verwendet. Trotz wirtschaftlicher Herausforderungen bleibt Brarudi ein stabiler Pfeiler der burundischen Industrie und ein Beispiel für erfolgreiche internationale Zusammenarbeit im verarbeitenden Sektor Ostafrikas.",
       hu: "A Brarudi (Brasseries et Limonaderies du Burundi) Burundi legnagyobb és legjelentősebb ipari vállalata, amelynek székhelye a fővárosban, Bujumburában található. A sörfőzdét 1955-ben alapították, és ma a nemzetközi Heineken-csoport leányvállalataként működik. Italok széles választékát gyártja, többek között a híres Primus sört, amely nemzeti szimbólumnak számít, valamint Amstelt és különféle Coca-Cola üdítőitalokat. A Brarudi az ország legnagyobb adófizetője, és meghatározó szerepet játszik a nemzeti gazdaságban és a foglalkoztatásban. A gyár modern sörfőzési technológiákat alkalmaz, és szoros kapcsolatban áll a helyi mezőgazdasággal, mivel a termeléshez részben hazai gabonát is felhasználnak. A gazdasági kihívások ellenére a Brarudi a burundi ipar stabil bástyája marad, és a Kelet-Afrikában zajló sikeres nemzetközi együttműködés mintaképe a feldolgozóiparban.",
@@ -150,7 +149,6 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: "SOSUMO Cukorgyár",
       ro: "Fabrica de Zahăr SOSUMO",
       en: "SOSUMO Sugar Factory"},
-    image: "/poi-images/sosumo-zuckerfabrik-economic-v2.webp",
     descriptionAdvanced: {
       de: "Die SOSUMO (Société Sucrière du Moso) ist die einzige Zuckerfabrik Burundis und befindet sich in der Provinz Rutana im Südosten des Landes. Das Unternehmen wurde 1982 gegründet und nahm 1988 den Betrieb auf, um die nationale Abhängigkeit von Zuckerimporten zu verringern. Die Fabrik liegt in der Moso-Ebene, deren heißes Klima und fruchtbare Böden ideal für den großflächigen Anbau von Zuckerrohr sind. SOSUMO ist ein staatlich kontrolliertes Unternehmen, das Tausende von Menschen direkt und indirekt beschäftigt und ein wichtiger Motor für die regionale Entwicklung in einer sonst strukturschwachen Region ist. Neben der Zuckerproduktion erzeugt das Werk auch Melasse als Nebenprodukt, das für die lokale Industrie wichtig ist. In den letzten Jahren wurden Anstrengungen unternommen, die Fabrik zu modernisieren und die Anbauflächen zu erweitern, um den steigenden Inlandsbedarf zu decken. Die SOSUMO bleibt ein strategisch unverzichtbarer Bestandteil der burundischen Agrarindustrie.",
       hu: "A SOSUMO (Société Sucrière du Moso) Burundi egyetlen cukorgyára, amely az ország délkeleti részén, Rutana tartományban található. A vállalatot 1982-ben alapították, és 1988-ban kezdte meg működését azzal a céllal, hogy csökkentse az ország függőségét a cukorimporttól. A gyár a Moso-síkságon fekszik, amelynek forró éghajlata és termékeny talaja ideális a cukornád nagyüzemi termesztéséhez. A SOSUMO állami ellenőrzés alatt álló vállalat, amely közvetlenül és közvetve több ezer embert foglalkoztat, és fontos motorja a regionális fejlődésnek egy egyébként hátrányos helyzetű térségben. A cukorgyártás mellett az üzem melléktermékként melaszt is előállít, amely fontos a helyi ipar számára. Az elmúlt években erőfeszítéseket tettek a gyár modernizálására és a termőterületek bővítésére, hogy kielégítsék a növekvő belföldi igényeket. A SOSUMO stratégiailag nélkülözhetetlen része a burundi agrárvonzatú iparnak.",
@@ -243,7 +241,6 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: "BUCECO Cementgyár",
       ro: "Fabrica de Ciment BUCECO",
       en: "BUCECO Cement Plant"},
-    image: "/poi-images/buceco-zementwerk-economic-v2.webp",
     description: {
       de: "Das erste moderne Zementwerk Burundis, das den Bedarf für die Bauindustrie deckt.",
       hu: "Burundi első modern cementgyára, amely az építőipar igényeit szolgálja ki.",
@@ -372,7 +369,6 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: "Afritextile Textilgyár",
       ro: "Fabrica Afritextile",
       en: "Afritextile Factory"},
-    image: "/poi-images/afritextile-fabrik-economic-v2.webp",
     description: {
       de: "Eine große Textilfabrik in Bujumbura, die lokal angebaute Baumwolle verarbeitet.",
       hu: "Egy nagy textilgyár Bujumburában, amely a helyben termesztett pamutot dolgozza fel.",
@@ -420,7 +416,6 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: "Savonor Szappangyár",
       ro: "Fabrica de Săpun Savonor",
       en: "Savonor Soap Factory"},
-    image: "/poi-images/savonor-seifenfabrik-economic-v2.webp",
     description: {
       de: "Ein führender Hersteller von Seifen und Speiseölen in der Hauptstadt Bujumbura.",
       hu: "Szappanok és étolajok vezető gyártója a fővárosban, Bujumburában.",
@@ -468,7 +463,6 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: "Musongati Nikkelbánya",
       ro: "Mina de Nichel Musongati",
       en: "Musongati Nickel Mine"},
-    image: "/poi-images/musongati-nickelmine-economic-v2.webp",
     description: {
       de: "Eine der weltweit größten unerschlossenen Nickelreserven im Osten Burundis.",
       hu: "A világ egyik legnagyobb feltáratlan nikkelkészlete Burundi keleti részén.",
@@ -516,7 +510,6 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: "Gakara Ritkaföldfém-bányák",
       ro: "Minele de Pământuri Rare Gakara",
       en: "Gakara Rare Earth Mines"},
-    image: "/poi-images/gakara-seltenerdminen-economic-v2.webp",
     description: {
       de: "Bedeutende Minen für Seltenerdmetalle, die für moderne Technologien essenziell sind.",
       hu: "Jelentős ritkaföldfém-bányák, amelyek elengedhetetlenek a modern technológiákhoz.",
@@ -564,7 +557,6 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: "OTB Mabayi Teagyár",
       ro: "Fabrica de Ceai OTB Mabayi",
       en: "OTB Mabayi Tea Factory"},
-    image: "/poi-images/otb-teefabrik-mabayi-economic-v2.webp",
     description: {
       de: "Eine Verarbeitungsanlage für hochwertigen Tee im gebirgigen Nordwesten des Landes.",
       hu: "Az ország északnyugati részén működő teafeldolgozó üzem, amely a környező hegyek ültetvényeinek termését dolgozza fel.",
@@ -612,7 +604,6 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: "OTB Teza Teagyár",
       ro: "Fabrica de Ceai OTB Teza",
       en: "OTB Teza Tea Factory"},
-    image: "/poi-images/otb-teefabrik-teza-economic-v2.webp",
     description: {
       de: "Eine traditionsreiche Teefabrik in den kühlen Hochlagen von Muramvya.",
       hu: "Nagy múltú teagyár Muramvya hűvös magaslati tájain.",
@@ -660,7 +651,6 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: "OTB Tora Teagyár",
       ro: "Fabrica de Ceai OTB Tora",
       en: "OTB Tora Tea Factory"},
-    image: "/poi-images/otb-teefabrik-tora-economic-v2.webp",
     description: {
       de: "Wichtige Teeverarbeitungsstation in der südlichen Hochlandregion Bururis.",
       hu: "Fontos teafeldolgozó állomás Bururi déli felföldi régiójában.",
@@ -708,7 +698,6 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: "Musenyi Tőzegbánya",
       ro: "Mina de Turbă Musenyi",
       en: "Musenyi Peat Mine"},
-    image: "/poi-images/musenyi-torfmine-economic-v2.webp",
     description: {
       de: "Ein Abbaugebiet für Torf, das als alternative Energiequelle für das Land genutzt wird.",
       hu: "Tőzegbánya, amelyet alternatív energiaforrásként használnak az országban.",
@@ -756,7 +745,6 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: "Songa Kávéfeldolgozó Üzem",
       ro: "Unitatea de Procesare a Cafelei Songa",
       en: "Songa Coffee Curing Plant"},
-    image: "/poi-images/kaffee-veredelungswerk-songa-economic-v2.webp",
     description: {
       de: "Ein zentrales Werk zur Veredelung von Kaffeebohnen vor dem internationalen Export.",
       hu: "Központi üzem a kávébabok nemesítésére a nemzetközi export előtt.",
@@ -804,7 +792,6 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: "Minoloc Gabonamalom",
       ro: "Moara de Cereale Minoloc",
       en: "Minoloc Flour Mill"},
-    image: "/poi-images/minoloc-getreidemuehle-economic-v2.webp",
     description: {
       de: "Eine bedeutende Mühle in Bujumbura zur Herstellung von Mehl aus lokalem Getreide.",
       hu: "Bujumbura egyik jelentős malma, amely helyi gabonából készít lisztet.",
@@ -852,7 +839,6 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: "Nyanza-Lac kikötője",
       ro: "Portul Nyanza-Lac",
       en: "Port of Nyanza-Lac"},
-    image: "/poi-images/hafen-von-nyanza-lac-economic-v2.webp",
     description: {
       de: "Der Hafen von Nyanza-Lac liegt am südlichen Tanganjikasee und dient dem Handel mit Tansania. Er ist zugleich ein wichtiger Punkt für Fischerei und lokale Versorgung.",
       hu: "A Tanganyika-tó partján fekvő fontos kereskedelmi kikötő, amely összeköti Burundit Tanzániával.",
@@ -900,7 +886,6 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: "Rumonge kikötője",
       ro: "Portul Rumonge",
       en: "Port of Rumonge"},
-    image: "/poi-images/hafen-von-rumonge-economic-v2.webp",
     description: {
       de: "Der Hafen von Rumonge liegt am Seeufer und unterstützt den Handel der Stadt mit dem südlichen Umland. Besonders der Umschlag von Fisch und Palmöl spielt hier eine Rolle.",
       hu: "Burundi egyik legforgalmasabb tavi kikötője, amely a pálmaolaj- és halkereskedelem központja.",
@@ -948,7 +933,6 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: "Gitaza kikötője",
       ro: "Portul Gitaza",
       en: "Port of Gitaza"},
-    image: "/poi-images/hafen-von-gitaza-economic-v2.webp",
     description: {
       de: "Ein lokaler Hafen südlich von Bujumbura, der als Anlegestelle für den Warentransport dient.",
       hu: "Bujumburától délre fekvő helyi kikötő, amely az áruszállítás kikötőhelyeként szolgál.",
@@ -996,7 +980,6 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: "Kabarore Aranybánya",
       ro: "Mina de Aur Kabarore",
       en: "Kabarore Gold Mine"},
-    image: "/poi-images/kabarore-goldmine-economic-v2.webp",
     description: {
       de: "Eine Bergbaustätte im Norden des Landes, wo Gold in handwerklicher Tradition gewonnen wird.",
       hu: "Bányászati terület az ország északi részén, ahol hagyományos módon aranyat bányásznak.",
@@ -1044,7 +1027,6 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: "Rwegura Vízierőmű",
       ro: "Hidrocentrala Rwegura",
       en: "Rwegura Hydroelectric Power Plant"},
-    image: "/poi-images/rwegura-wasserkraftwerk-economic-v2.webp",
     description: {
       de: "Das wichtigste Wasserkraftwerk Burundis, das einen Großteil des nationalen Stroms liefert.",
       hu: "Burundi legfontosabb vízierőműve, amely a nemzeti áramszükséglet nagy részét biztosítja.",
@@ -1092,7 +1074,6 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: "Jiji-Mulembwe Vízierőmű",
       ro: "Hidrocentrala Jiji-Mulembwe",
       en: "Jiji-Mulembwe Hydroelectric Power Plant"},
-    image: "/poi-images/jiji-mulembwe-wasserkraftwerk-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Energieprojekt im Süden, das zur Elektrifizierung des ländlichen Raums beiträgt.",
       hu: "Jelentős energetikai projekt délen, amely hozzájárul a vidéki területek villamosításához.",

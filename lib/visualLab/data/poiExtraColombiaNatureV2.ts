@@ -485,7 +485,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-VID",
     coords: [-67.8105, 5.0667],
     name: { de: "Orinoco", hu: "Orinoco", ro: "Fluviul Orinoco", en: "Orinoco River"},
-    image: "/poi-images/orinoco-river-colombia-nature-v2.webp",
     description: { de: "Einer der längsten Flüsse Südamerikas, der einen Teil der Grenze zwischen Kolumbien und Venezuela bildet.", hu: "Dél-Amerika egyik leghosszabb folyója, mely részben határt képez Kolumbia és Venezuela között.", ro: "Unul dintre cele mai lungi fluvii din America de Sud, formând o parte din granița dintre Columbia și Venezuela.", en: "One of the longest rivers in South America, forming part of the border between Colombia and Venezuela." , es: "Uno de los ríos más largos de Sudamérica, que forma parte de la frontera entre Colombia y Venezuela.", pt: "Um dos rios mais longos da América do Sul, que forma parte da fronteira entre a Colômbia e a Venezuela.", fr: "L'un des plus longs fleuves d'Amérique du Sud, formant une partie de la frontière entre la Colombie et le Venezuela."},
     facts: {
       de: ["Länge: ca. 2.140 km.", "Wichtiges Ökosystem für Piranhas."],
@@ -568,7 +567,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-MAG",
     coords: [-74.8333, 11.1],
     name: { de: "Río Magdalena", hu: "Magdalena folyó", ro: "Râul Magdalena", en: "Magdalena River"},
-    image: "/poi-images/magdalena-river-nature-v2.webp",
     description: { de: "Der wichtigste Strom Kolumbiens, der das Land von Süden nach Norden durchquert.", hu: "Kolumbia legfontosabb folyója, amely délről északra szeli át az országot.", ro: "Cel mai important râu al Columbiei, care traversează țara de la sud la nord.", en: "The principal river of Colombia, crossing the country from south to north." , es: "El río más importante de Colombia, que atraviesa el país de sur a norte.", pt: "O rio mais importante da Colômbia, que atravessa o país de sul a norte.", fr: "Le fleuve le plus important de Colombie, traversant le pays du sud au nord."},
     facts: {
       de: ["Länge: 1.528 km.", "Mündet ins Karibische Meer."],
@@ -651,7 +649,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-VAC",
     coords: [-74.6756, 8.8833],
     name: { de: "Río Cauca", hu: "Cauca folyó", ro: "Râul Cauca", en: "Cauca River"},
-    image: "/poi-images/cauca-river-nature-v2.webp",
     description: { de: "Der zweitwichtigste Fluss Kolumbiens, eingebettet zwischen der West- und Zentralkordillere.", hu: "Kolumbia második legfontosabb folyója a Nyugati- és a Középső-Kordillerák között.", ro: "Al doilea cel mai important râu din Columbia, situat între Cordiliera Centrală și cea de Vest.", en: "The second most important river in Colombia, located between the Western and Central ranges." , es: "El segundo río más importante de Colombia, encajado entre la Cordillera Occidental y la Central.", pt: "O segundo rio mais importante da Colômbia, encravado entre as cordilheiras ocidental e central.", fr: "Le deuxième fleuve le plus important de Colombie, niché entre les cordillères occidentale et centrale."},
     facts: {
       de: ["Fließt in den Río Magdalena.", "Länge: 1.350 km."],
@@ -734,7 +731,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-CHO",
     coords: [-76.8167, 8.0167],
     name: { de: "Río Atrato", hu: "Atrato folyó", ro: "Râul Atrato", en: "Atrato River"},
-    image: "/poi-images/atrato-river-nature-v2.webp",
     description: { de: "Ein wasserreicher Fluss im Westen Kolumbiens, der im Chocó-Gebiet fließt.", hu: "Bővizű folyó Kolumbia nyugati részén, amely a Chocó régióban folyik.", ro: "Un râu cu debit mare din vestul Columbiei, curgând prin regiunea Chocó.", en: "A high-volume river in western Colombia, flowing through the Chocó region." , es: "Un río caudaloso en el oeste de Colombia que fluye por la región del Chocó.", pt: "Um rio caudaloso no oeste da Colômbia que flui pela região do Chocó.", fr: "Un fleuve puissant dans l'ouest de la Colombie, qui coule dans la région du Chocó."},
     facts: {
       de: ["Mündet in den Golf von Urabá.", "Eines der feuchtesten Gebiete der Erde."],
@@ -772,7 +768,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-GUV",
     coords: [-67.8, 4.05],
     name: { de: "Río Guaviare", hu: "Guaviare folyó", ro: "Râul Guaviare", en: "Guaviare River"},
-    image: "/poi-images/guaviare-river-nature-v2.webp",
     description: { de: "Ein bedeutender Nebenfluss des Orinoco, der die Grenze zwischen Savanne und Amazonas-Regenwald markiert.", hu: "Az Orinoco egyik jelentős mellékfolyója, mely a szavanna és az amazonasi esőerdő határát jelzi.", ro: "Un afluent major al râului Orinoco, marcând granița dintre savană și pădurea amazoniană.", en: "A major tributary of the Orinoco, marking the boundary between the savanna and the Amazon rainforest." , es: "Un importante afluente del Orinoco que marca la frontera entre la sabana y la selva amazónica.", pt: "Um importante afluente do Orinoco que marca a fronteira entre a savana e a floresta amazónica.", fr: "Un affluent majeur de l'Orénoque qui marque la frontière entre la savane et la forêt amazonienne."},
     facts: {
       de: ["Länge: 1.497 km.", "Entsteht durch den Zusammenfluss von Ariari und Guayabero."],
@@ -855,7 +850,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-MET",
     coords: [-67.7917, 6.1953],
     name: { de: "Río Meta", hu: "Meta folyó", ro: "Râul Meta", en: "Meta River"},
-    image: "/poi-images/meta-river-nature-v2.webp",
     description: { de: "Ein großer Fluss in den kolumbianischen Ebenen (Llanos), der in den Orinoco mündet.", hu: "Nagy folyó a kolumbiai síkságokon (Llanos), amely az Orinocóba ömlik.", ro: "Un mare râu din câmpiile columbiene (Llanos) care se varsă în Orinoco.", en: "A large river in the Colombian plains (Llanos) that flows into the Orinoco." , es: "Un gran río en las llanuras colombianas (Llanos) que desemboca en el Orinoco.", pt: "Um grande rio nas planícies colombianas (Llanos) que desagua no Orinoco.", fr: "Un grand fleuve des plaines colombiennes (Llanos) qui se jette dans l'Orénoque."},
     facts: {
       de: ["Wichtige Transportroute in Ostkolumbien.", "Bildet streckenweise die Grenze zu Venezuela."],
@@ -893,7 +887,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-PUT",
     coords: [-68.8753, -2.8533],
     name: { de: "Río Putumayo", hu: "Putumayo folyó", ro: "Râul Putumayo", en: "Putumayo River"},
-    image: "/poi-images/putumayo-river-nature-v2.webp",
     description: { de: "Ein Fluss im Amazonasbecken, der größtenteils die südliche Grenze Kolumbiens bildet.", hu: "Folyó az Amazonas-medencében, amely jórészt Kolumbia déli határát alkotja.", ro: "Un râu din bazinul Amazonului, care formează o mare parte din granița sudică a Columbiei.", en: "A river in the Amazon basin that forms much of Colombia's southern border." , es: "Un río en la cuenca del Amazonas que forma gran parte de la frontera sur de Colombia.", pt: "Um rio na bacia amazônica que forma grande parte da fronteira sul da Colômbia.", fr: "Une rivière du bassin amazonien qui forme la majeure partie de la frontière sud de la Colombie."},
     facts: {
       de: ["Trennt Kolumbien von Peru und Ecuador.", "Fließt in den Amazonas."],
@@ -976,7 +969,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-CAQ",
     coords: [-69.6542, -1.2333],
     name: { de: "Río Caquetá", hu: "Caquetá folyó", ro: "Râul Caquetá", en: "Caquetá River"},
-    image: "/poi-images/caqueta-river-nature-v2.webp",
     description: { de: "Ein gewaltiger Amazonas-Nebenfluss, der in Brasilien als Japurá bekannt ist.", hu: "Egy hatalmas amazonasi mellékfolyó, amelyet Brazíliában Japurá néven ismernek.", ro: "Un afluent major al Amazonului, cunoscut sub numele de Japurá în Brazilia.", en: "A massive Amazon tributary, known in Brazil as the Japurá River." , es: "Un inmenso afluente del Amazonas, conocido en Brasil como Japurá.", pt: "Um enorme afluente do Amazonas, conhecido no Brasil como Japurá.", fr: "Un immense affluent de l'Amazone, connu au Brésil sous le nom de Japurá."},
     facts: {
       de: ["Entspringt in den kolumbianischen Anden.", "Durchquert dichten tropischen Regenwald."],
@@ -1095,7 +1087,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-MAG",
     coords: [-73.6872, 10.8383],
     name: { de: "Pico Cristóbal Colón", hu: "Pico Cristóbal Colón", ro: "Pico Cristóbal Colón", en: "Pico Cristóbal Colón"},
-    image: "/poi-images/pico-cristobal-colon-nature-v2.webp",
     description: { de: "Der höchste Berg Kolumbiens, gelegen in der Sierra Nevada de Santa Marta nahe der Karibikküste.", hu: "Kolumbia legmagasabb hegye, mely a Karib-tenger partjánál fekvő Sierra Nevada de Santa Marta hegységben található.", ro: "Cel mai înalt munte din Columbia, situat în Sierra Nevada de Santa Marta, aproape de coasta Caraibelor.", en: "The highest mountain in Colombia, located in the Sierra Nevada de Santa Marta near the Caribbean coast." , es: "La montaña más alta de Colombia, ubicada en la Sierra Nevada de Santa Marta cerca de la costa del Caribe.", pt: "A montanha mais alta da Colômbia, localizada na Sierra Nevada de Santa Marta, perto da costa do Caribe.", fr: "Le plus haut sommet de Colombie, situé dans la Sierra Nevada de Santa Marta près de la côte caraïbe."},
     facts: {
       de: ["Höhe: ca. 5.700 Meter.", "Benannt nach Christoph Kolumbus."],
@@ -1178,7 +1169,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-MAG",
     coords: [-73.6847, 10.8353],
     name: { de: "Pico Simón Bolívar", hu: "Pico Simón Bolívar", ro: "Pico Simón Bolívar", en: "Pico Simón Bolívar"},
-    image: "/poi-images/pico-simon-bolivar-nature-v2.webp",
     description: { de: "Der Zwillingsgipfel des Pico Cristóbal Colón in der Sierra Nevada de Santa Marta.", hu: "A Pico Cristóbal Colón ikercsúcsa a Sierra Nevada de Santa Marta hegységben.", ro: "Vârful geamăn al lui Pico Cristóbal Colón din Sierra Nevada de Santa Marta.", en: "The twin peak of Pico Cristóbal Colón in the Sierra Nevada de Santa Marta." , es: "El pico gemelo del Pico Cristóbal Colón en la Sierra Nevada de Santa Marta.", pt: "O pico gêmeo do Pico Cristóbal Colón na Sierra Nevada de Santa Marta.", fr: "Le sommet jumeau du Pico Cristóbal Colón dans la Sierra Nevada de Santa Marta."},
     facts: {
       de: ["Höhe: fast identisch mit Pico Cristóbal Colón.", "Benannt nach dem Freiheitskämpfer Simón Bolívar."],
@@ -1405,7 +1395,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-TOL",
     coords: [-75.3228, 4.8953],
     name: { de: "Nevado del Ruiz", hu: "Nevado del Ruiz", ro: "Nevado del Ruiz", en: "Nevado del Ruiz"},
-    image: "/poi-images/nevado-del-ruiz-nature-v2.webp",
     description: { de: "Ein aktiver Stratovulkan im Nationalpark Los Nevados, der von einer Eiskappe bedeckt ist.", hu: "Aktív rétegvulkán a Los Nevados Nemzeti Parkban, melyet jégsapka borít.", ro: "Un stratovulcan activ situat în Parcul Național Los Nevados, acoperit de un strat de gheață.", en: "An active stratovolcano in the Los Nevados National Park, covered by an ice cap." , es: "Un estratovolcán activo en el Parque Nacional Natural Los Nevados, cubierto por un casquete de hielo.", pt: "Um estratovulcão ativo no Parque Nacional Natural Los Nevados, coberto por uma calota de gelo.", fr: "Un stratovolcan actif dans le parc national de Los Nevados, recouvert d'une calotte glaciaire."},
     facts: {
       de: ["Höhe: 5.321 Meter.", "Bekannt für den Ausbruch von 1985 (Armero-Tragödie)."],
@@ -1524,7 +1513,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-HUI",
     coords: [-75.9933, 2.9242],
     name: { de: "Nevado del Huila", hu: "Nevado del Huila", ro: "Nevado del Huila", en: "Nevado del Huila"},
-    image: "/poi-images/nevado-del-huila-nature-v2.webp",
     description: { de: "Der höchste Vulkan Kolumbiens, gelegen in der Zentralkordillere der Anden.", hu: "Kolumbia legmagasabb vulkánja, amely az Andok Középső-Kordilleráiban található.", ro: "Cel mai înalt vulcan din Columbia, situat în Cordiliera Centrală a Anzilor.", en: "The highest volcano in Colombia, located in the Central Cordillera of the Andes." , es: "El volcán más alto de Colombia, situado en la Cordillera Central de los Andes.", pt: "O vulcão mais alto da Colômbia, localizado na Cordilheira Central dos Andes.", fr: "Le plus haut volcan de Colombie, situé dans la Cordillère Centrale des Andes."},
     facts: {
       de: ["Höhe: 5.364 Meter.", "Seine Gletscher schmelzen aufgrund des Klimawandels."],
@@ -1859,7 +1847,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-TOL",
     coords: [-75.3283, 4.6583],
     name: { de: "Nevado del Tolima", hu: "Nevado del Tolima", ro: "Nevado del Tolima", en: "Nevado del Tolima"},
-    image: "/poi-images/nevado-del-tolima-nature-v2.webp",
     description: { de: "Ein kegelförmiger Schichtvulkan im Los Nevados Nationalpark, ein beliebtes Ziel für Bergsteiger.", hu: "Kúp alakú rétegvulkán a Los Nevados Nemzeti Parkban, mely a hegymászók népszerű célpontja.", ro: "Un stratovulcan în formă de con din Parcul Național Los Nevados, popular printre alpiniști.", en: "A cone-shaped stratovolcano in the Los Nevados National Park, a popular destination for mountaineers." , es: "Un volcán en escudo de forma cónica en el Parque Nacional Natural Los Nevados, un destino popular para los montañistas.", pt: "Um vulcão em escudo de forma cónica no Parque Nacional Natural Los Nevados, um destino popular para montanhistas.", fr: "Un volcan stratovolcan de forme conique dans le parc national de Los Nevados, une destination prisée des alpinistes."},
     facts: {
       de: ["Höhe: 5.233 Meter.", "Die Kraterform ist nahezu perfekt steil."],
@@ -2014,7 +2001,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-BOY",
     coords: [-72.2967, 6.495],
     name: { de: "Ritacuba Blanco", hu: "Ritacuba Blanco", ro: "Ritacuba Blanco", en: "Ritacuba Blanco"},
-    image: "/poi-images/ritacuba-blanco-nature-v2.webp",
     description: { de: "Der höchste Gipfel der Ostkordillere der kolumbianischen Anden im Nationalpark El Cocuy.", hu: "A kolumbiai Andok Keleti-Kordilleráinak legmagasabb csúcsa, az El Cocuy Nemzeti Parkban.", ro: "Cel mai înalt vârf din Cordiliera Orientală a Anzilor columbieni, situat în Parcul Național El Cocuy.", en: "The highest peak in the Eastern Cordillera of the Colombian Andes, located in El Cocuy National Park." , es: "El pico más alto de la Cordillera Oriental de los Andes colombianos en el Parque Nacional Natural El Cocuy.", pt: "O pico mais alto da Cordilheira Oriental dos Andes colombianos no Parque Nacional Natural El Cocuy.", fr: "Le plus haut sommet de la Cordillère Orientale des Andes colombiennes, dans le parc national d'El Cocuy."},
     facts: {
       de: ["Höhe: 5.410 Meter.", "Stark vom Gletscherrückgang betroffen."],
@@ -2277,7 +2263,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-CAU",
     coords: [-76.3958, 2.3125],
     name: { de: "Vulkan Puracé", hu: "Puracé vulkán", ro: "Vulcanul Puracé", en: "Puracé Volcano"},
-    image: "/poi-images/purace-volcano-nature-v2.webp",
     description: { de: "Ein aktiver Vulkan nahe der Stadt Popayán, bekannt für heiße Thermalquellen.", hu: "Aktív vulkán Popayán városa közelében, mely hőforrásairól híres.", ro: "Un vulcan activ lângă orașul Popayán, renumit pentru izvoarele sale termale fierbinți.", en: "An active volcano near the city of Popayán, famous for its hot thermal springs." , es: "Un volcán activo cerca de la ciudad de Popayán, conocido por sus fuentes termales.", pt: "Um vulcão ativo perto da cidade de Popayán, conhecido por suas fontes termais.", fr: "Un volcan actif situé près de la ville de Popayán, réputé pour ses sources thermales."},
     facts: {
       de: ["Höhe: 4.646 Meter.", "Zentrum des Puracé-Nationalparks."],
@@ -2648,7 +2633,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-NAR",
     coords: [-77.3592, 1.2217],
     name: { de: "Galeras", hu: "Galeras", ro: "Galeras", en: "Galeras Volcano"},
-    image: "/poi-images/galeras-volcano-nature-v2.webp",
     description: { de: "Einer der aktivsten Vulkane Kolumbiens, in unmittelbarer Nähe zur Stadt Pasto gelegen.", hu: "Kolumbia egyik legaktívabb vulkánja, Pasto városának közvetlen közelében.", ro: "Unul dintre cei mai activi vulcani din Columbia, situat foarte aproape de orașul Pasto.", en: "One of Colombia's most active volcanoes, located very close to the city of Pasto." , es: "Uno de los volcanes más activos de Colombia, situado muy cerca de la ciudad de Pasto.", pt: "Um dos vulcões mais ativos da Colômbia, localizado nas imediações da cidade de Pasto.", fr: "L'un des volcans les plus actifs de Colombie, situé à proximité immédiate de la ville de Pasto."},
     facts: {
       de: ["Höhe: 4.276 Meter.", "Überwacht wegen seiner konstanten Aktivität."],
@@ -3343,7 +3327,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-BOY",
     coords: [-72.925, 5.55],
     name: { de: "Totasee", hu: "Tota-tó", ro: "Lacul Tota", en: "Lake Tota"},
-    image: "/poi-images/lake-tota-nature-v2.webp",
     description: { de: "Der größte See Kolumbiens, ein Hochgebirgssee in den Anden von Boyacá.", hu: "Kolumbia legnagyobb tava, egy magashegyi tó a boyacái Andokban.", ro: "Cel mai mare lac din Columbia, un lac de mare altitudine din Anzii din Boyacá.", en: "The largest lake in Colombia, a high-altitude lake in the Andes of Boyacá." , es: "El lago más grande de Colombia, un lago de alta montaña en los Andes de Boyacá.", pt: "O maior lago da Colômbia, um lago de alta montanha nos Andes de Boyacá.", fr: "Le plus grand lac de Colombie, un lac de haute montagne dans les Andes de Boyacá."},
     facts: {
       de: ["Liegt auf über 3.000 Metern Höhe.", "Bekannt für den weißen Sandstrand Playa Blanca."],
@@ -3822,7 +3805,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-CUN",
     coords: [-73.8167, 4.975],
     name: { de: "Guatavitasee", hu: "Guatavita-tó", ro: "Lacul Guatavita", en: "Lake Guatavita"},
-    image: "/poi-images/lake-guatavita-nature-v2.webp",
     description: { de: "Ein fast kreisrunder Kratersee, der als Ursprung der El-Dorado-Legende gilt.", hu: "Egy majdnem tökéletesen kerek krátertó, melyet az El Dorado-legenda forrásának tartanak.", ro: "Un lac de crater aproape circular, considerat originea legendei El Dorado.", en: "A nearly circular crater lake, widely considered the origin of the El Dorado legend." , es: "Un lago de cráter casi circular considerado el origen de la leyenda de El Dorado.", pt: "Uma lagoa de cratera quase circular considerada a origem da lenda de El Dorado.", fr: "Un lac de cratère presque circulaire considéré comme l'origine de la légende d'El Dorado."},
     facts: {
       de: ["Heilig für das indigene Volk der Muisca.", "Durchmesser: ca. 700 Meter."],
@@ -3905,7 +3887,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-VAC",
     coords: [-76.4947, 3.8864],
     name: { de: "Calimasee", hu: "Calima-tó", ro: "Lacul Calima", en: "Lake Calima"},
-    image: "/poi-images/lake-calima-nature-v2.webp",
     description: { de: "Ein künstlicher Stausee, berühmt für seine starken Winde und Wassersportaktivitäten.", hu: "Mesterséges víztározó, amely erős szeleiről és vízisport-lehetőségeiről híres.", ro: "Un lac de acumulare artificial, faimos pentru vânturile puternice și sporturile nautice.", en: "An artificial reservoir, famous for its strong winds and water sports activities." , es: "Un embalse artificial famoso por sus fuertes vientos y actividades de deportes acuáticos.", pt: "Uma albufeira artificial famosa pelos seus ventos fortes e atividades de desportos náuticos.", fr: "Un réservoir artificiel célèbre pour ses vents forts et ses activités nautiques."},
     facts: {
       de: ["Beliebt für Windsurfen und Kitesurfen.", "Der größte künstliche See Kolumbiens."],
@@ -4393,7 +4374,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-VAC",
     coords: [-81.6033, 4.0028],
     name: { de: "Insel Malpelo", hu: "Malpelo-sziget", ro: "Insula Malpelo", en: "Malpelo Island"},
-    image: "/poi-images/malpelo-island-nature-v2.webp",
     description: { de: "Eine raue Felseninsel im Pazifischen Ozean, bekannt als Weltklasse-Tauchrevier für Haie.", hu: "Zord sziklás sziget a Csendes-óceánban, amely cápáiról ismert világszínvonalú merülőhely.", ro: "O insulă stâncoasă accidentată din Oceanul Pacific, renumită ca destinație de scufundări de top pentru rechini.", en: "A rugged rocky island in the Pacific Ocean, renowned as a world-class shark diving destination." , es: "Una isla rocosa escarpada en el océano Pacífico, conocida como lugar de buceo de clase mundial con tiburones.", pt: "Uma ilha rochosa escarpada no Oceano Pacífico, conhecida como local de mergulho de classe mundial com tubarões.", fr: "Une île rocheuse escarpée de l'océan Pacifique, réputée mondialement pour la plongée avec les requins."},
     facts: {
       de: ["UNESCO-Weltnaturerbe seit 2006.", "Riesige Schulen von Hammerhaien leben hier."],
@@ -4548,7 +4528,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-CAU",
     coords: [-78.1931, 2.9647],
     name: { de: "Gorgona", hu: "Gorgona-sziget", ro: "Insula Gorgona", en: "Gorgona Island"},
-    image: "/poi-images/gorgona-island-nature-v2.webp",
     description: { de: "Eine Insel im Pazifik, die früher ein Hochsicherheitsgefängnis war und heute ein Nationalpark ist.", hu: "Csendes-óceáni sziget, amely egykor szigorított fegyház volt, ma pedig nemzeti park.", ro: "O insulă din Pacific, fostă închisoare de maximă securitate, transformată acum într-un parc național.", en: "A Pacific island that was formerly a maximum-security prison and is now a national park." , es: "Una isla en el Pacífico que antes era una prisión de alta seguridad y hoy es un parque nacional.", pt: "Uma ilha no Pacífico que costumava ser uma prisão de segurança máxima e hoje é um parque nacional.", fr: "Une île dans le Pacifique qui était autrefois une prison de haute sécurité et qui est aujourd'hui un parc national."},
     facts: {
       de: ["Wichtiger Ort für Buckelwale zur Fortpflanzung.", "Überwuchert von dichtem Regenwald."],
@@ -5495,7 +5474,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-SAP",
     coords: [-81.7006, 12.5511],
     name: { de: "San Andrés", hu: "San Andrés-sziget", ro: "Insula San Andrés", en: "San Andrés Island"},
-    image: "/poi-images/san-andres-island-nature-v2.webp",
     description: { de: "Die größte Insel eines Archipels im Karibischen Meer, berühmt für ihr Meer der sieben Farben.", hu: "Egy karibi szigetcsoport legnagyobb szigete, mely a Hét Szín Tengeréről híres.", ro: "Cea mai mare insulă dintr-un arhipelag caraibian, faimoasă pentru marea sa cu șapte culori.", en: "The largest island of a Caribbean archipelago, famous for its Sea of Seven Colors." , es: "La isla más grande de un archipiélago en el Mar Caribe, famosa por su mar de los siete colores.", pt: "A maior ilha de um arquipélago no Mar do Caribe, famosa pelo seu mar de sete cores.", fr: "La plus grande île d'un archipel de la mer des Caraïbes, célèbre pour sa mer aux sept couleurs."},
     facts: {
       de: ["Gehört geografisch eher zu Zentralamerika.", "Korallenriffe umgeben die gesamte Insel."],
@@ -5533,7 +5511,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-SAP",
     coords: [-81.3736, 13.3517],
     name: { de: "Providencia", hu: "Providencia-sziget", ro: "Insula Providencia", en: "Providencia Island"},
-    image: "/poi-images/providencia-island-nature-v2.webp",
     description: { de: "Eine kleinere, bergige Karibikinsel, die im Vergleich zu San Andrés ruhiger und naturbelassener ist.", hu: "Kisebb, hegyvidéki karibi sziget, amely San Andrésnél sokkal nyugodtabb és érintetlenebb.", ro: "O insulă caraibiană montană mai mică, mai liniștită și mai sălbatică decât San Andrés.", en: "A smaller, mountainous Caribbean island that is quieter and more pristine than San Andrés." , es: "Una pequeña isla caribeña montañosa, más tranquila y natural en comparación con San Andrés.", pt: "Uma pequena ilha caribenha montanhosa, mais tranquila e natural em comparação com San Andrés.", fr: "Une petite île montagneuse des Caraïbes, plus calme et plus sauvage que San Andrés."},
     facts: {
       de: ["Teil des UNESCO-Biosphärenreservats Seaflower.", "Verfügt über einen der längsten Barriereriffe Amerikas."],
@@ -5571,7 +5548,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-AMA",
     coords: [-71.5, -1.5],
     name: { de: "Amazonas-Regenwald (Kolumbien)", hu: "Amazonasi esőerdő (Kolumbia)", ro: "Pădurea Amazoniană (Columbia)", en: "Amazon Rainforest (Colombia)"},
-    image: "/poi-images/amazon-rainforest-colombia-nature-v2.webp",
     description: { de: "Das größte und artenreichste Tropenwaldgebiet der Erde, dessen nordwestlicher Teil in Kolumbien liegt.", hu: "A Föld legnagyobb és legfajgazdagabb trópusi erdeje, melynek északnyugati része Kolumbiához tartozik.", ro: "Cea mai mare și mai diversă pădure tropicală de pe Pământ, partea sa nord-vestică aflându-se în Columbia.", en: "The largest and most biodiverse tropical rainforest on Earth, with its northwestern part in Colombia." , es: "La zona de bosque tropical más grande y con mayor biodiversidad de la Tierra, cuya parte noroccidental se encuentra en Colombia.", pt: "A maior e mais biodiversa área de floresta tropical do mundo, cuja parte noroeste está localizada na Colômbia.", fr: "La zone de forêt tropicale la plus vaste et la plus riche en biodiversité de la planète, dont la partie nord-ouest se trouve en Colombie."},
     facts: {
       de: ["Bedeckt etwa 35% der Fläche Kolumbiens.", "Heimat zahlreicher indigener Stämme."],
@@ -5834,7 +5810,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-MAG",
     coords: [-73.9667, 11.2833],
     name: { de: "Nationalpark Tayrona", hu: "Tayrona Nemzeti Park", ro: "Parcul Național Tayrona", en: "Tayrona National Natural Park"},
-    image: "/poi-images/tayrona-national-park-nature-v2.webp",
     description: { de: "Ein Schutzgebiet, in dem dichter Tropenwald direkt auf atemberaubende Karibikstrände trifft.", hu: "Védett terület, ahol a sűrű trópusi erdő közvetlenül találkozik a lélegzetelállító karibi strandokkal.", ro: "O arie protejată unde pădurea tropicală densă întâlnește plajele uimitoare ale Caraibelor.", en: "A protected area where dense tropical forest directly meets breathtaking Caribbean beaches." , es: "Un área protegida donde la densa selva tropical se encuentra directamente mit playas caribeñas de ensueño.", pt: "Uma área protegida onde a densa floresta tropical encontra diretamente praias caribenhas deslumbrantes.", fr: "Une zone protégée où la forêt tropicale dense rencontre directement des plages caribéennes à couper le souffle."},
     facts: {
       de: ["Heimat des Brüllaffen und des Jaguar.", "Bedeutende präkolumbianische Ruinen (Pueblito)."],
@@ -5872,7 +5847,6 @@ export const poiExtraColombiaNatureV2: POI[] = [
     parent: "CO-ATL",
     coords: [-74.5, 11.5],
     name: { de: "Karibisches Meer (Kolumbien)", hu: "Karib-tenger (Kolumbia)", ro: "Marea Caraibelor (Columbia)", en: "Caribbean Sea (Colombia)"},
-    image: "/poi-images/caribbean-sea-colombia-nature-v2.webp",
     description: { de: "Die nördliche Küstenregion Kolumbiens, geprägt von warmen Gewässern und Korallenriffen.", hu: "Kolumbia északi partvidéke, amelyet meleg vizek és korallzátonyok jellemeznek.", ro: "Regiunea de coastă nordică a Columbiei, caracterizată prin ape calde și recife de corali.", en: "The northern coastal region of Colombia, characterized by warm waters and coral reefs." , es: "La región costera del norte de Colombia, caracterizada por aguas cálidas y arrecifes de coral.", pt: "A região costeira do norte da Colômbia, caracterizada por águas quentes e recifes de coral.", fr: "La région côtière du nord de la Colombie, caractérisée par des eaux chaudes et des récifs coralliens."},
     facts: {
       de: ["Lange Sandstrände und koloniale Hafenstädte.", "Wichtig für den Tourismus und die Fischerei."],

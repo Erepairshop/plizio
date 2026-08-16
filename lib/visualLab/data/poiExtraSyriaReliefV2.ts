@@ -8,7 +8,6 @@ export const poiExtraSyriaReliefV2: POI[] = [
     parent: "SY-DY",
     coords: [38.5, 33.5],
     name: { de: "Syrische Wüste", hu: "Szíriai-sivatag", ro: "Deșertul Sirian", en: "Syrian Desert"},
-    image: "/poi-images/syrian-desert-relief-v2.webp",
     description: { de: "Die Syrische Wüste ist eine weite, trockene Steppenlandschaft, die einen großen Teil der Landesfläche bedeckt und von Beduinen bewohnt wird.", hu: "A Szíriai-sivatag egy kiterjedt, száraz sztyeppevidék, amely az ország területének nagy részét lefedi, és beduinok lakják.", ro: "Deșertul Sirian este un peisaj vast de stepă aridă care acoperă o mare parte din suprafața țării și este locuit de beduini.", en: "The Syrian Desert is a vast, arid steppe landscape that covers a large part of the country's land area and is inhabited by Bedouins." },
     facts: {
       de: ["Deckt etwa 500.000 Quadratkilometer ab", "Erstreckt sich über mehrere Länder", "Traditionelle Heimat der Beduinen"],
@@ -154,7 +153,6 @@ export const poiExtraSyriaReliefV2: POI[] = [
     parent: "SY-LA",
     coords: [35.966667, 35.95],
     name: { de: "Dschebel al-Akra", hu: "Dzsebel al-Akra", ro: "Muntele Kel", en: "Mount Casius"},
-    image: "/poi-images/jabal-al-akra-relief-v2.webp",
     description: { de: "Der Dschebel al-Akra, auch bekannt als Berg Casius, ist ein steiler Kalksteinberg nahe der türkischen Grenze, der steil ins Mittelmeer abfällt.", hu: "A Dzsebel al-Akra, más néven Casius-hegy, egy meredek mészkőhegy a török határ közelében, amely meredeken zuhan a Földközi-tengerbe.", ro: "Jabal al-Akra, cunoscut și sub numele de Muntele Casius, este un munte abrupt de calcar, situat lângă granița turcă, care coboară abrupt în Marea Mediterană.", en: "Jabal al-Akra, also known as Mount Casius, is a steep limestone mountain near the Turkish border that drops sharply into the Mediterranean Sea." , es: "Jabal al-Akra, también conocida como Monte Casius, es una empinada montaña de piedra caliza cerca de la frontera turca que cae abruptamente hacia el Mediterráneo.", pt: "Jabal al-Akra, também conhecida como Monte Casius, é uma íngreme montanha de calcário perto da fronteira turca que cai abruptamente em direção ao Mediterrâneo.", fr: "Jabal al-Akra, également connue sous le nom de mont Casius, est une montagne calcaire abrupte près de la frontière turque qui tombe brusquement dans la Méditerranée."},
     facts: {
       de: ["Höhe von 1.709 Metern", "In der Antike als heiliger Berg verehrt", "Liegt direkt an der Küste"],
@@ -190,7 +188,6 @@ export const poiExtraSyriaReliefV2: POI[] = [
     parent: "SY-HM",
     coords: [36.333333, 35.5],
     name: { de: "Al-Ghab-Ebene", hu: "Al-Gáb-síkság", ro: "Câmpia Al-Ghab", en: "Al-Ghab Plain"},
-    image: "/poi-images/al-ghab-plain-relief-v2.webp",
     description: { de: "Die Al-Ghab-Ebene ist ein fruchtbares Grabenbruch-Tal am Fluss Orontes, das in der Mitte des 20. Jahrhunderts entwässert wurde, um Ackerland zu gewinnen.", hu: "Az Al-Gáb-síkság egy termékeny hasadékvölgy az Orontész folyó mentén, amelyet a 20. század közepén csapoltak le termőföld nyerése céljából.", ro: "Câmpia Al-Ghab este o vale de rift fertilă pe râul Orontes, care a fost drenată la mijlocul secolului al XX-lea pentru a crea teren arabil.", en: "The Al-Ghab Plain is a fertile rift valley on the Orontes River that was drained in the mid-20th century to reclaim agricultural land." , es: "La llanura de Al-Ghab es un valle de falla fértil en el río Orontes, que fue drenado a mediados del siglo XX para ganar tierras cultivables.", pt: "A planície de Al-Ghab é um vale de falha fértil no rio Orontes, que foi drenado em meados do século XX para obter terras aráveis.", fr: "La plaine d'Al-Ghab est une vallée de rift fertile sur le fleuve Oronte, asséchée au milieu du XXe siècle pour gagner des terres arables."},
     facts: {
       de: ["Ursprünglich ein großes Sumpfgebiet", "Über 80 Kilometer lang", "Wichtig für die Landwirtschaft"],
@@ -271,7 +268,6 @@ export const poiExtraSyriaReliefV2: POI[] = [
     parent: "SY-HL",
     coords: [36.75, 36.666667],
     name: { de: "Kurd Dagh", hu: "Kurd-hegység", ro: "Munții Kurd", en: "Kurd Mountains"},
-    image: "/poi-images/kurd-dagh-relief-v2.webp",
     description: { de: "Der Kurd Dagh ist ein bergiges Hochland im Nordwesten Syriens, das durch seine dichten Olivenhaine und reiche kulturelle Geschichte geprägt ist.", hu: "A Kurd-hegység egy hegyvidéki terület Északnyugat-Szíriában, amelyet sűrű olajfaligetek és gazdag kulturális történelem jellemez.", ro: "Munții Kurd sunt un ținut muntos în nord-vestul Siriei, caracterizat prin plantații dense de măslini și o bogată istorie culturală.", en: "Kurd Dagh is a mountainous highland in northwestern Syria, characterized by its dense olive groves and rich cultural history." , es: "Kurd Dagh es una meseta montañosa en el noroeste de Siria, caracterizada por sus densos olivares y su rica historia cultural.", pt: "Kurd Dagh é um planalto montanhoso no noroeste da Síria, caracterizado pelos seus densos olivais e rica história cultural.", fr: "Le Kurd Dagh est un haut plateau montagneux dans le nord-ouest de la Syrie, caractérisé par ses denses oliveraies et sa riche histoire culturelle."},
     facts: {
       de: ["Bekannt für den Olivenanbau", "Teil des Taurusgebirges", "Heimat vieler antiker Ruinen"],
@@ -352,7 +348,6 @@ export const poiExtraSyriaReliefV2: POI[] = [
     parent: "SY-HL",
     coords: [36.833333, 36.333333],
     name: { de: "Dschebel Samaan", hu: "Simeon-hegy", ro: "Muntele Simeon", en: "Mount Simeon"},
-    image: "/poi-images/jabal-samaan-relief-v2.webp",
     description: { de: "Der Dschebel Samaan ist ein Kalksteinmassiv, das für die Ruinen des Simeonsklosters und die umliegenden berühmten Toten Städte bekannt ist.", hu: "A Simeon-hegy egy mészkőmasszívum, amely a Szent Simeon-kolostor romjairól és a környező híres Holt városokról ismert.", ro: "Muntele Simeon este un masiv de calcar cunoscut pentru ruinele Mănăstirii Sfântului Simeon și pentru faimoasele Orașe Moarte din jur.", en: "Mount Simeon is a limestone massif known for the ruins of the Church of Saint Simeon Stylites and the surrounding famous Dead Cities." , es: "Jabal Samaan es un macizo de caliza conocido por las ruinas del monasterio de San Simeón y las famosas ciudades muertas circundantes.", pt: "Jabal Samaan é um maciço calcário conhecido pelas ruínas do mosteiro de São Simeão e pelas famosas cidades mortas circundantes.", fr: "Le Jabal Samaan est un massif calcaire connu pour les ruines du monastère Saint-Siméon et les célèbres villes mortes environnantes."},
     facts: {
       de: ["Höchster Punkt erreicht über 800 Meter", "Heimat byzantinischer Ruinenstätten", "Geologisch von Kalkstein geprägt"],
@@ -433,7 +428,6 @@ export const poiExtraSyriaReliefV2: POI[] = [
     parent: "SY-DR",
     coords: [36.166667, 32.75],
     name: { de: "Hauran-Plateau", hu: "Haurán-fennsík", ro: "Platoul Hauran", en: "Hauran Plateau"},
-    image: "/poi-images/hauran-plateau-relief-v2.webp",
     description: { de: "Das Hauran-Plateau im Süden Syriens ist eine vulkanische Hochebene, die für ihre fruchtbare rote Erde und historische Bedeutung bekannt ist.", hu: "A dél-szíriai Haurán-fennsík egy vulkanikus fennsík, amely termékeny vörös talajáról és történelmi jelentőségéről ismert.", ro: "Platoul Hauran din sudul Siriei este un platou vulcanic cunoscut pentru solul său roșu fertil și importanța istorică.", en: "The Hauran Plateau in southern Syria is a volcanic plateau known for its fertile red soil and historical significance." , es: "El Plateau de Hauran en el sur de Siria es una meseta volcánica conocida por su fértil tierra roja y su importancia histórica.", pt: "O Planalto de Hauran no sul da Síria é um planalto vulcânico conhecido pela sua terra vermelha fértil e importância histórica.", fr: "Le plateau du Hauran dans le sud de la Syrie est un plateau volcanique connu pour sa terre rouge fertile et son importance historique."},
     facts: {
       de: ["Vulkanischen Ursprungs", "Ehemalige römische Provinz", "Reich an Basaltgestein"],
@@ -550,7 +544,6 @@ export const poiExtraSyriaReliefV2: POI[] = [
     parent: "SY-SU",
     coords: [37.25, 33.083333],
     name: { de: "Al-Safa", hu: "Al-Szafa", ro: "Al-Safa", en: "Al-Safa"},
-    image: "/poi-images/al-safa-relief-v2.webp",
     description: { de: "Al-Safa ist ein zerklüftetes vulkanisches Lavafeld südöstlich von Damaskus, das durch seine schwarze, mondähnliche Landschaft besticht.", hu: "Az Al-Szafa egy zord, vulkanikus lávamező Damaszkusztól délkeletre, amely fekete, holdszerű tájával nyűgöz le.", ro: "Al-Safa este un câmp accidentat de lavă vulcanică, situat la sud-est de Damasc, care impresionează prin peisajul său negru, asemănător lunii.", en: "Al-Safa is a rugged volcanic lava field southeast of Damascus, striking for its black, moon-like landscape." , es: "Al-Safa es un campo de lava volcánica accidentado al sureste de Damasco que impresiona por su paisaje negro similar al de la luna.", pt: "Al-Safa é um campo de lava vulcânica acidentado a sudeste de Damasco que impressiona pela sua paisagem negra semelhante à da lua.", fr: "Al-Safa est un champ de lave volcanique accidenté au sud-est de Damas qui impressionne par son paysage noir rappelant celui de la Lune."},
     facts: {
       de: ["Gilt als unwegsames Gelände", "Besteht aus erstarrten Lavaströmen", "Wenig Vegetation vorhanden"],
@@ -775,7 +768,6 @@ export const poiExtraSyriaReliefV2: POI[] = [
     parent: "SY-SU",
     coords: [36.333333, 32.916667],
     name: { de: "Al-Ladscha", hu: "Al-Ladzsa", ro: "Al-Lajat", en: "Al-Lajat"},
-    image: "/poi-images/al-lajat-relief-v2.webp",
     description: { de: "Al-Ladscha, auch als Lejah bekannt, ist ein stark zerklüftetes Basaltplateau, das in der Antike als Zufluchtsort für Banditen und Rebellen diente.", hu: "Az Al-Ladzsa egy erősen tagolt bazaltfennsík, amely az ókorban banditák és lázadók menedékhelyéül szolgált.", ro: "Al-Lajat este un platou bazaltic extrem de accidentat care a servit ca refugiu pentru bandiți și rebeli în antichitate.", en: "Al-Lajat, also known as Lejah, is a highly rugged basalt plateau that served as a refuge for bandits and rebels in antiquity." , es: "Al-Lajat, también conocida como Lejah, es una meseta de basalto fuertemente accidentada que sirvió en la antigüedad como refugio para bandidos y rebeldes.", pt: "Al-Lajat, também conhecida como Lejah, é um planalto basáltico fortemente acidentado que serviu na antiguidade como refúgio para bandidos e rebeldes.", fr: "Al-Lajat, également connue sous le nom de Lejah, est un plateau basaltique très accidenté qui servait dans l'Antiquité de refuge aux bandits et aux rebelles."},
     facts: {
       de: ["Schwer zugängliches Gebiet", "Historisch als Trachonitis bekannt", "Geologische Barriere im Süden"],
@@ -856,7 +848,6 @@ export const poiExtraSyriaReliefV2: POI[] = [
     parent: "SY-HO",
     coords: [38.5, 35.0],
     name: { de: "Dschebel Abu Rudschmain", hu: "Dzsebel Abu Ruzsmajn", ro: "Jabal Abu Rujmayn", en: "Jabal Abu Rujmayn"},
-    image: "/poi-images/jabal-abu-rujmayn-relief-v2.webp",
     description: { de: "Der Dschebel Abu Rudschmain ist eine langgestreckte Bergkette inmitten der syrischen Wüste, die wichtige archäologische Stätten birgt.", hu: "A Dzsebel Abu Ruzsmajn egy hosszan elnyúló hegylánc a Szíriai-sivatag közepén, amely fontos régészeti lelőhelyeket rejt.", ro: "Jabal Abu Rujmayn este un lanț muntos alungit în mijlocul Deșertului Sirian, care ascunde situri arheologice importante.", en: "Jabal Abu Rujmayn is an elongated mountain range in the middle of the Syrian Desert, harboring important archaeological sites." , es: "Jabal Abu Rujmayn es una cadena montañosa alargada en medio del desierto sirio que alberga importantes sitios arqueológicos.", pt: "Jabal Abu Rujmayn é uma cadeia montanhosa alongada no meio do deserto sírio que alberga importantes sítios arqueológicos.", fr: "Jabal Abu Rujmayn est une chaîne de montagnes allongée au milieu du désert syrien qui abrite d'importants sites archéologiques."},
     facts: {
       de: ["Nördlich von Palmyra gelegen", "Wüstengebirge", "Erreicht Höhen um 1.100 Meter"],
@@ -892,7 +883,6 @@ export const poiExtraSyriaReliefV2: POI[] = [
     parent: "SY-HM",
     coords: [37.5, 34.916667],
     name: { de: "Dschebel al-Balaas", hu: "Dzsebel al-Balász", ro: "Jabal al-Bilas", en: "Jabal al-Bilas"},
-    image: "/poi-images/jabal-al-bilas-relief-v2.webp",
     description: { de: "Der Dschebel al-Balaas ist ein trockenes Bergland im zentralen Syrien, das von nomadischen Stämmen für die Weidewirtschaft genutzt wird.", hu: "A Dzsebel al-Balász egy száraz hegyvidék Közép-Szíriában, amelyet a nomád törzsek legeltetésre használnak.", ro: "Jabal al-Bilas este un ținut muntos arid în centrul Siriei, folosit de triburile nomade pentru pășunat.", en: "Jabal al-Bilas is an arid mountainous region in central Syria, used by nomadic tribes for grazing." , es: "Jabal al-Bilaas es una región montañosa seca en el centro de Siria, utilizada por tribus nómadas para el pastoreo.", pt: "Jabal al-Bilaas é uma região montanhosa seca no centro da Síria, utilizada por tribos nómadas para o pastoreio.", fr: "Jabal al-Bilaas est une région montagneuse sèche dans le centre de la Syrie, utilisée par des tribus nomades pour le pâturage."},
     facts: {
       de: ["Zentral in Syrien gelegen", "Klima ist arid bis semi-arid", "Wichtiges Weideland"],
@@ -973,7 +963,6 @@ export const poiExtraSyriaReliefV2: POI[] = [
     parent: "SY-ID",
     coords: [36.416667, 35.916667],
     name: { de: "Roudsch-Ebene", hu: "Rúdzs-síkság", ro: "Câmpia Rouj", en: "Rouj Basin"},
-    image: "/poi-images/rouj-valley-relief-v2.webp",
     description: { de: "Die Roudsch-Ebene ist eine fruchtbare geologische Senke in der Provinz Idlib, die intensiv landwirtschaftlich genutzt wird.", hu: "A Rúdzs-síkság egy termékeny geológiai medence Idlib tartományban, amelyet intenzíven mezőgazdasági célokra használnak.", ro: "Câmpia Rouj este o depresiune geologică fertilă în provincia Idlib, care este utilizată intens în scopuri agricole.", en: "The Rouj Basin is a fertile geological depression in the Idlib province that is intensively used for agriculture." , es: "La llanura de Rouj es una fértil depresión geológica en la provincia de Idlib que se utiliza intensamente para la agricultura.", pt: "A planície de Rouj é uma fértil depressão geológica na província de Idlib que é intensamente utilizada para a agricultura.", fr: "La plaine de Rouj est une dépression géologique fertile dans la province d'Idlib, intensivement utilisée pour l'agriculture."},
     facts: {
       de: ["Westlich der Stadt Idlib", "Sehr fruchtbare Böden", "Dicht besiedeltes Agrargebiet"],
@@ -1054,7 +1043,6 @@ export const poiExtraSyriaReliefV2: POI[] = [
     parent: "SY-RD",
     coords: [36.666667, 33.916667],
     name: { de: "Qalamun-Berge", hu: "Kalamún-hegység", ro: "Munții Qalamoun", en: "Qalamoun Mountains"},
-    image: "/poi-images/qalamoun-mountains-relief-v2.webp",
     description: { de: "Die Qalamun-Berge sind der nordöstliche Ausläufer des Anti-Libanon-Gebirges und eine strategisch wichtige Gebirgsregion in Syrien.", hu: "A Kalamún-hegység az Antilibanon-hegység északkeleti nyúlványa, és stratégiailag fontos hegyvidéki régió Szíriában.", ro: "Munții Qalamoun reprezintă prelungirea nord-estică a lanțului muntos Anti-Liban și o regiune muntoasă de importanță strategică în Siria.", en: "The Qalamoun Mountains are the northeastern extension of the Anti-Lebanon mountain range and a strategically important mountainous region in Syria." , es: "Las montañas Qalamun son la estribación noreste de la cordillera del Antilíbano y una región montañosa estratégicamente importante en Siria.", pt: "As montanhas Qalamun são o contraforte nordeste da cordilheira do Antilíbano e uma região montanhosa estrategicamente importante na Síria.", fr: "Les monts Qalamoun sont le contrefort nord-est de la chaîne de l'Anti-Liban et une région montagneuse stratégiquement importante en Syrie."},
     facts: {
       de: ["Höchste Erhebung über 2.000 Meter", "Verbindet Damaskus mit Zentralsyrien", "Raue winterliche Bedingungen"],
@@ -1288,7 +1276,6 @@ export const poiExtraSyriaReliefV2: POI[] = [
     parent: "SY-LA",
     coords: [36.216667, 35.583333],
     name: { de: "Dschebel al-Nabi Yunis", hu: "Dzsebel an-Nabi Júnisz", ro: "Jabal al-Nabi Yunis", en: "Mount Nabi Yunis"},
-    image: "/poi-images/jabal-al-nabi-yunis-relief-v2.webp",
     description: { de: "Der Dschebel al-Nabi Yunis ist mit über 1.500 Metern der höchste Gipfel der syrischen Küstengebirgskette und bietet weite Ausblicke.", hu: "A több mint 1500 méter magas Dzsebel an-Nabi Júnisz a szíriai partvidéki hegylánc legmagasabb csúcsa, amely széles kilátást nyújt.", ro: "La peste 1.500 de metri, Jabal al-Nabi Yunis este cel mai înalt vârf din lanțul muntos de coastă sirian și oferă vederi panoramice.", en: "At over 1,500 meters, Mount Nabi Yunis is the highest peak of the Syrian coastal mountain range and offers sweeping views." , es: "Con más de 1.500 metros, Jabal al-Nabi Yunis es el pico más alto de la cordillera costera siria y ofrece vistas panorámicas.", pt: "Com mais de 1.500 metros, Jabal al-Nabi Yunis é o pico mais alto da cordilheira costeira síria e oferece amplas vistas.", fr: "Culminant à plus de 1 500 mètres, le Jabal al-Nabi Yunis est le plus haut sommet de la chaîne côtière syrienne et offre de vastes panoramas."},
     facts: {
       de: ["Höchster Punkt der Ansarija-Berge", "Höhe von 1.562 Metern", "Oft im Winter schneebedeckt"],
@@ -1369,7 +1356,6 @@ export const poiExtraSyriaReliefV2: POI[] = [
     parent: "SY-HM",
     coords: [36.666667, 34.916667],
     name: { de: "Orontes-Tal", hu: "Orontész-völgy", ro: "Valea Orontes", en: "Orontes Valley"},
-    image: "/poi-images/orontes-valley-relief-v2.webp",
     description: { de: "Das Orontes-Tal durchschneidet den Westen Syriens und bildet seit Jahrtausenden eine wichtige landwirtschaftliche und kulturelle Lebensader.", hu: "Az Orontész-völgy átszeli Nyugat-Szíriát, és évezredek óta fontos mezőgazdasági és kulturális ütőérként szolgál.", ro: "Valea Orontes străbate vestul Siriei și de milenii formează o linie de viață agricolă și culturală esențială.", en: "The Orontes Valley cuts through western Syria and has formed an essential agricultural and cultural lifeline for millennia." , es: "El valle del Orontes atraviesa el oeste de Siria y ha sido una importante arteria agrícola y cultural durante milenios.", pt: "O vale do Orontes atravessa o oeste da Síria e tem sido uma importante artéria agrícola e cultural durante milênios.", fr: "La vallée de l'Oronte traverse l'ouest de la Syrie et constitue une artère agricole et culturelle majeure depuis des millénaires."},
     facts: {
       de: ["Wichtiges Bewässerungsgebiet", "Reichtum an archäologischen Stätten", "Prägt Städte wie Homs und Hama"],
@@ -1702,7 +1688,6 @@ export const poiExtraSyriaReliefV2: POI[] = [
     parent: "SY-RD",
     coords: [36.1, 33.616667],
     name: { de: "Wadi Barada", hu: "Vádi Barada", ro: "Wadi Barada", en: "Wadi Barada"},
-    image: "/poi-images/wadi-barada-relief-v2.webp",
     description: { de: "Das Wadi Barada ist ein malerisches Gebirgstal, durch das der Fluss Barada fließt, um die Hauptstadt Damaskus mit Wasser zu versorgen.", hu: "A Vádi Barada egy festői hegyi völgy, amelyen a Barada folyó folyik keresztül, hogy ellássa vízzel a fővárost, Damaszkuszt.", ro: "Wadi Barada este o vale montană pitorească prin care curge râul Barada pentru a furniza apă capitalei Damasc.", en: "Wadi Barada is a picturesque mountain valley through which the Barada River flows to supply water to the capital, Damascus." , es: "Wadi Barada es un pintoresco valle montañoso a través del cual fluye el río Barada para abastecer de agua a la capital, Damasco.", pt: "Wadi Barada é um pitoresco vale montanhoso através do qual flui o rio Barada para abastecer de água a capital, Damasco.", fr: "Wadi Barada est une vallée montagneuse pittoresque à travers laquelle coule la rivière Barada pour alimenter en eau la capitale, Damas."},
     facts: {
       de: ["Wichtigste Wasserquelle für Damaskus", "Liegt im Anti-Libanon-Gebirge", "Von steilen Klippen umgeben"],
@@ -1738,7 +1723,6 @@ export const poiExtraSyriaReliefV2: POI[] = [
     parent: "SY-HO",
     coords: [37.333333, 34.75],
     name: { de: "Dschebel al-Schumarija", hu: "Dzsebel as-Sumarijja", ro: "Jabal al-Shumariyah", en: "Jabal al-Shumariyah"},
-    image: "/poi-images/jabal-al-shumariyah-relief-v2.webp",
     description: { de: "Der Dschebel al-Schumarija ist ein Gebirgszug im Gouvernement Homs, der den Übergang von fruchtbaren Ebenen zur Wüste markiert.", hu: "A Dzsebel as-Sumarijja egy hegylánc Homsz tartományban, amely a termékeny síkságok és a sivatag közötti átmenetet jelöli.", ro: "Jabal al-Shumariyah este un lanț muntos în guvernoratul Homs care marchează tranziția de la câmpiile fertile la deșert.", en: "Jabal al-Shumariyah is a mountain range in the Homs Governorate that marks the transition from fertile plains to the desert." , es: "Jabal al-Shumariyah es una cadena montañosa en la gobernación de Homs que marca la transición de las llanuras fértiles al desierto.", pt: "Jabal al-Shumariyah é uma cordilheira na província de Homs que marca a transição de planícies férteis para o deserto.", fr: "Le Jabal al-Shumariyah est une chaîne de montagnes dans le gouvernorat de Homs qui marque la transition entre les plaines fertiles et le désert."},
     facts: {
       de: ["Östlich von Homs gelegen", "Trockenes Klima", "Dünn besiedelte Region"],

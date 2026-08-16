@@ -521,7 +521,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     parent: "AZ-BA",
     coords: [49.8267, 40.3597],
     name: { de: "Flame Towers", hu: "Lángtornyok", ro: "Turnurile de Foc", en: "Flame Towers"},
-    image: "/poi-images/flame-towers-landmarks-v2.webp",
     description: { de: "Ein markantes Trio von Wolkenkratzern in Baku, deren Form an flackernde Flammen erinnert.", hu: "Három lángnyelvet formázó felhőkarcoló, amelyek Baku modern szimbólumai.", ro: "Un trio de zgârie-nori în Baku, având o formă distinctivă care imită flăcările.", en: "A striking trio of skyscrapers in Baku, shaped like flickering flames." , es: "Un llamativo trío de rascacielos en Bakú cuya forma recuerda a llamas oscilantes.", pt: "Um trio impressionante de arranha-céus em Baku, cuja forma lembra chamas cintilantes.", fr: "Un trio remarquable de gratte-ciel à Bakou, dont la forme évoque des flammes vacillantes."},
     facts: {
       de: ["Höhe bis zu 182 Meter.", "Eröffnet im Jahr 2012.", "Beleuchtet durch LED-Fassaden."],
@@ -1393,7 +1392,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     parent: "AZ-BA",
     coords: [49.8373, 40.3662],
     name: { de: "Jungfrauenturm", hu: "Szűz-torony", ro: "Turnul Fecioarei", en: "Maiden Tower"},
-    image: "/poi-images/maiden-tower-landmarks-v2.webp",
     description: { de: "Ein historisches Monument in der Altstadt von Baku, das aus dem 12. Jahrhundert stammt und zum UNESCO-Welterbe gehört.", hu: "Történelmi műemlék Baku óvárosában, amely a 12. századból származik és az UNESCO Világörökség része.", ro: "Un monument istoric în Orașul Vechi din Baku, datând din secolul al XII-lea, inclus în Patrimoniul Mondial UNESCO.", en: "A historical monument in the Old City of Baku, dating back to the 12th century and a UNESCO World Heritage site." , es: "Un monumento histórico en el casco antiguo de Bakú que data del siglo XII y es Patrimonio de la Humanidad por la UNESCO.", pt: "Um monumento histórico na Cidade Velha de Baku, que remonta ao século XII e é Património Mundial da UNESCO.", fr: "Un monument historique de la vieille ville de Bakou, datant du XIIe siècle et classé au patrimoine mondial de l'UNESCO."},
     facts: {
       de: ["UNESCO-Welterbe seit 2000.", "Höhe von 29,5 Metern.", "Dicke der Wände bis zu 5 Meter."],
@@ -1428,7 +1426,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     parent: "AZ-BA",
     coords: [49.8336, 40.3660],
     name: { de: "Schirwanschah-Palast", hu: "Sirvánsahok palotája", ro: "Palatul Șirvanșah", en: "Palace of the Shirvanshahs"},
-    image: "/poi-images/shirvanshahs-palace-landmarks-v2.webp",
     description: { de: "Eine herausragende architektonische Anlage aus dem 15. Jahrhundert, die als Perle der aserbaidschanischen Baukunst gilt.", hu: "Kiemelkedő 15. századi épületegyüttes, amelyet az azerbajdzsáni építészet gyöngyszemének tartanak.", ro: "Un complex arhitectural remarcabil din secolul al XV-lea, considerat o perlă a arhitecturii azere.", en: "An outstanding 15th-century architectural complex, considered a pearl of Azerbaijani architecture." , es: "Un destacado complejo arquitectónico del siglo XV, considerado la perla de la arquitectura azerbaiyana.", pt: "Um complexo arquitetónico excecional do século XV, considerado a pérola da arquitetura do Azerbaijão.", fr: "Un complexe architectural exceptionnel du XVe siècle, considéré comme la perle de l'architecture azerbaïdjanaise."},
     facts: {
       de: ["Erbaut im 15. Jahrhundert.", "Teil des UNESCO-Welterbes.", "Umfasst eine Moschee und ein Mausoleum."],
@@ -2084,7 +2081,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     parent: "AZ-BA",
     coords: [49.8671, 40.3953],
     name: { de: "Heydər-Əliyev-Zentrum", hu: "Heydər Əliyev Központ", ro: "Centrul Heydar Aliyev", en: "Heydar Aliyev Center"},
-    image: "/poi-images/heydar-aliyev-center-landmarks-v2.webp",
     description: { de: "Ein weltberühmtes Kulturzentrum, das von Zaha Hadid entworfen wurde und für seine fließende, wellenartige Architektur bekannt ist.", hu: "Világhírű kulturális központ, amelyet Zaha Hadid tervezett, és hullámzó, futurisztikus építészetéről ismert.", ro: "Un centru cultural de renume mondial, proiectat de Zaha Hadid, cunoscut pentru arhitectura sa fluidă și curbată.", en: "A world-renowned cultural center designed by Zaha Hadid, famous for its flowing, wave-like architecture." , es: "Un centro cultural de fama mundial diseñado por Zaha Hadid, conocido por su arquitectura fluida y ondulada.", pt: "Um centro cultural de renome mundial desenhado por Zaha Hadid, conhecido pela sua arquitetura fluida e ondulada.", fr: "Un centre culturel de renommée mondiale conçu par Zaha Hadid, connu pour son architecture fluide et ondulée."},
     facts: {
       de: ["Entworfen von Zaha Hadid.", "Eröffnet im Jahr 2012.", "Gewinner des Design of the Year 2014."],
@@ -2236,7 +2232,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     parent: "AZ-QOB",
     coords: [49.3833, 40.1167],
     name: { de: "Qobustan-Nationalpark", hu: "Qobustáni sziklarajzok", ro: "Arta rupestră din Gobustan", en: "Gobustan Rock Art"},
-    image: "/poi-images/gobustan-rock-art-landmarks-v2.webp",
     description: { de: "Eine archäologische Stätte, die für ihre Tausende von prähistorischen Felszeichnungen berühmt ist.", hu: "Régészeti lelőhely, amely több ezer történelem előtti sziklarajzáról híres.", ro: "Un sit arheologic faimos pentru miile sale de petroglife preistorice.", en: "An archaeological site famous for its thousands of prehistoric rock carvings." , es: "Un sitio arqueológico famoso por sus miles de petroglifos prehistóricos que datan de hace milenios.", pt: "Um sítio arqueológico famoso pelas suas milhares de pinturas rupestres pré-históricas.", fr: "Un site archéologique célèbre pour ses milliers de gravures rupestres préhistoriques."},
     facts: {
       de: ["Über 6.000 Felszeichnungen.", "Alter bis zu 40.000 Jahre.", "UNESCO-Welterbe seit 2007."],
@@ -2496,7 +2491,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     parent: "AZ-QOB",
     coords: [49.4000, 39.9500],
     name: { de: "Schlammvulkane", hu: "Qobustáni iszapvulkánok", ro: "Vulcanii noroioși", en: "Gobustan Mud Volcanoes"},
-    image: "/poi-images/gobustan-mud-volcanoes-landmarks-v2.webp",
     description: { de: "Aserbaidschan beherbergt fast die Hälfte aller Schlammvulkane der Welt, die kühlen Schlamm ausstoßen.", hu: "Azerbajdzsán ad otthont a világ iszapvulkánjai közel felének, amelyek hűvös, szürkés iszapot lövellnek ki.", ro: "Azerbaidjanul găzduiește aproape jumătate din vulcanii noroioși din lume, care emană noroi rece.", en: "Azerbaijan is home to almost half of the world's mud volcanoes, which erupt with cool mud." , es: "Azerbaiyán alberga casi la mitad de los volcanes de lodo del mundo, que expulsan lodo frío de las profundidades.", pt: "O Azerbaijão abriga quase metade dos vulcões de lama do mundo, que expelem lama fria das profundezas.", fr: "L'Azerbaïdjan abrite près de la moitié des volcans de boue du monde, qui expulsent de la boue froide des profondeurs."},
     facts: {
       de: ["Mehr als 350 Schlammvulkane im Land.", "Oft in der Nähe von Erdgasfeldern.", "Der Schlamm ist kalt."],
@@ -2531,7 +2525,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     parent: "AZ-BA",
     coords: [50.0058, 40.4154],
     name: { de: "Ateschgah", hu: "Atesgah tűztemplom", ro: "Ateșgah din Baku", en: "Ateshgah of Baku"},
-    image: "/poi-images/ateshgah-baku-landmarks-v2.webp",
     description: { de: "Ein historischer Tempel der Feueranbeter, der von Hindus, Sikhs und Zoroastriern genutzt wurde.", hu: "Történelmi tűztemplom, amelyet egykor hinduk, szikhek és zoroasztriánusok használtak.", ro: "Un templu istoric al adoratorilor focului, folosit de hinduși, sikh și zoroastrieni.", en: "A historical temple of fire worshipers, used by Hindus, Sikhs, and Zoroastrians." , es: "Un templo histórico de los adoradores del fuego, utilizado por hindúes, sijs y zoroastrianos.", pt: "Um templo histórico de adoradores do fogo, utilizado por hindus, sikhs e zoroastrianos.", fr: "Un temple historique des adorateurs du feu, utilisé par les hindous, les sikhs et les zoroastriens."},
     facts: {
       de: ["Im 17. und 18. Jahrhundert erbaut.", "Brennt dank natürlichem Erdgas.", "Aufgebaut wie eine Karawanserei."],
@@ -3763,7 +3756,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     parent: "AZ-ABS",
     coords: [49.8913, 40.5018],
     name: { de: "Yanar Dağ", hu: "Yanar Dag (Égő hegy)", ro: "Yanar Dag (Muntele de Foc)", en: "Yanar Dag"},
-    image: "/poi-images/yanar-dag-landmarks-v2.webp",
     description: { de: "Ein Erdgasfeuer, das kontinuierlich an einem Hügelhang auf der Abşeron-Halbinsel brennt.", hu: "Folyamatosan égő természeti tűz egy domboldalon az Absheron-félszigeten, amelyet földgáz táplál.", ro: "Un foc de gaze naturale care arde continuu pe un deal din Peninsula Abșeron.", en: "A natural gas fire which blazes continuously on a hillside on the Absheron Peninsula." , es: "Un fuego de gas natural que arde continuamente en la ladera de una colina en la península de Absheron.", pt: "Um fogo de gás natural que arde continuamente na encosta de uma colina na península de Absheron.", fr: "Un feu de gaz naturel qui brûle continuellement sur le flanc d'une colline de la péninsule d'Abchéron."},
     facts: {
       de: ["Brennt ununterbrochen seit der Antike.", "Die Flammen werden bis zu 3 Meter hoch.", "Brennt unabhängig vom Wetter."],
@@ -4419,7 +4411,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     parent: "AZ-BA",
     coords: [49.8197, 40.3083],
     name: { de: "Bibi-Heybat-Moschee", hu: "Bibi-Heybat mecset", ro: "Moscheea Bibi-Heybat", en: "Bibi-Heybat Mosque"},
-    image: "/poi-images/bibi-heybat-mosque-landmarks-v2.webp",
     description: { de: "Eine beeindruckende Moschee, die in den 1990er Jahren originalgetreu rekonstruiert wurde, nachdem sie 1936 zerstört worden war.", hu: "Lenyűgöző mecset, amelyet az 1990-es években építettek újjá, miután 1936-ban lerombolták.", ro: "O moschee impresionantă reconstruită în anii 1990, după ce a fost distrusă în 1936.", en: "An impressive mosque that was reconstructed in the 1990s after being destroyed in 1936." , es: "Una impresionante mezquita reconstruida fielmente en la década de 1990 tras haber sido destruida en 1936.", pt: "Uma mesquita impressionante, reconstruída fielmente na década de 1990 após ter sido destruída em 1936.", fr: "Une mosquée impressionnante, reconstruite à l'identique dans les années 1990 après avoir été détruite en 1936."},
     facts: {
       de: ["Originalmoschee stammte aus dem 13. Jahrhundert.", "Enthält das Grab einer Nachfahrin des Propheten Mohammed.", "Zerstört während der Sowjetzeit."],
@@ -4454,7 +4445,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     parent: "AZ-SAK",
     coords: [47.1977, 41.2052],
     name: { de: "Palast der Schəki-Chane", hu: "Şəki kánok palotája", ro: "Palatul Hanilor din Șaki", en: "Palace of Shaki Khans"},
-    image: "/poi-images/shaki-khans-palace-landmarks-v2.webp",
     description: { de: "Ein historischer Sommerpalast, berühmt für seine prächtigen Buntglasfenster und detailreichen Fresken.", hu: "Történelmi nyári palota, amely csodálatos ólomüveg ablakairól és részletgazdag freskóiról híres.", ro: "Un palat de vară istoric, renumit pentru ferestrele sale magnifice cu vitralii și frescele detaliate.", en: "A historical summer palace renowned for its magnificent stained glass windows and detailed frescoes." , es: "Un palacio de verano histórico, famoso por sus magníficas vidrieras y frescos detallados.", pt: "Um palácio de verão histórico, famoso pelos seus magníficos vitrais e frescos detalhados.", fr: "Un palais d'été historique, célèbre pour ses magnifiques vitraux et ses fresques détaillées."},
     facts: {
       de: ["Erbaut im Jahr 1797.", "Verwendet die traditionelle Shebeke-Technik.", "Teil des UNESCO-Welterbes seit 2019."],
@@ -4930,7 +4920,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     parent: "AZ-SAK",
     coords: [47.1931, 41.2483],
     name: { de: "Kirche von Kisch", hu: "Kişi templom", ro: "Biserica din Kiș", en: "Church of Kish"},
-    image: "/poi-images/church-of-kish-landmarks-v2.webp",
     description: { de: "Eine kaukasisch-albanische Kirche in der Nähe von Şəki, eine der ältesten christlichen Stätten im Kaukasus.", hu: "Kaukázusi albán templom Şəki közelében, a Kaukázus egyik legrégebbi keresztény emlékhelye.", ro: "O biserică caucaziano-albaneză lângă Șaki, unul dintre cele mai vechi situri creștine din Caucaz.", en: "A Caucasian Albanian church near Shaki, one of the oldest Christian sites in the Caucasus." , es: "Una iglesia albanesa del Cáucaso cerca de Shaki, uno de los lugares cristianos más antiguos del Cáucaso.", pt: "Uma igreja albanesa caucasiana perto de Shaki, um dos locais cristãos mais antigos do Cáucaso.", fr: "Une église albanaise du Caucase située près de Shaki, l'un des plus anciens sites chrétiens du Caucase."},
     facts: {
       de: ["Wurde im 12. Jahrhundert in der heutigen Form erbaut.", "Ursprünge reichen ins 1. Jahrhundert zurück.", "Dient heute als Museum."],
@@ -5262,7 +5251,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     parent: "AZ-NX",
     coords: [45.4058, 39.2065],
     name: { de: "Möminə-Xatun-Mausoleum", hu: "Möminə Xatun mauzóleum", ro: "Mausoleul Momine Khatun", en: "Momine Khatun Mausoleum"},
-    image: "/poi-images/momine-khatun-mausoleum-landmarks-v2.webp",
     description: { de: "Ein meisterhaftes Baudenkmal aus dem 12. Jahrhundert in Nachitschewan, das die Architektur der Seldschuken-Ära widerspiegelt.", hu: "Mesterien megalkotott 12. századi műemlék Nahicsevánban, amely a szeldzsuk kori építészetet tükrözi.", ro: "Un monument arhitectural magistral din secolul al XII-lea în Nahicevan, reflectând arhitectura epocii selgiucizilor.", en: "A masterful 12th-century monument in Nakhchivan reflecting Seljuk-era architecture." , es: "Un magistral monumento arquitectónico del siglo XII en Najicheván que refleja la arquitectura de la era selyúcida.", pt: "Um monumento arquitetónico magistral do século XII em Nakhchivan, que reflete a arquitetura da era seljúcida.", fr: "Un monument architectural magistral du XIIe siècle à Nakhitchevan, reflétant l'architecture de l'ère seldjoukide."},
     facts: {
       de: ["Entworfen vom Architekten Ajami Nakhchivani.", "Erreicht eine Höhe von etwa 26 Metern.", "Erbaut im Jahr 1186."],
@@ -5414,7 +5402,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     parent: "AZ-NX",
     coords: [45.6942, 39.1933],
     name: { de: "Alindscha-Burg", hu: "Alinja vár", ro: "Castelul Alinja", en: "Alinja Castle"},
-    image: "/poi-images/alinja-castle-landmarks-v2.webp",
     description: { de: "Eine spektakuläre Festung auf einem steilen Berggipfel, oft als das 'Machu Picchu Aserbaidschans' bezeichnet.", hu: "Látványos erődítmény egy meredek hegycsúcson, amelyet gyakran 'Azerbajdzsán Machu Picchujának' neveznek.", ro: "O fortăreață spectaculoasă pe vârful unui munte abrupt, adesea numită 'Machu Picchu al Azerbaidjanului'.", en: "A spectacular fortress on a steep mountaintop, often called the 'Machu Picchu of Azerbaijan'." , es: "Una espectacular fortaleza en la cima de una montaña escarpada, a menudo llamada el 'Machu Picchu de Azerbaiyán'.", pt: "Uma fortaleza espetacular no topo de uma montanha íngreme, frequentemente chamada de o 'Machu Picchu do Azerbaijão'.", fr: "Une forteresse spectaculaire sur un sommet escarpé, souvent surnommée le 'Machu Picchu de l'Azerbaïdjan'."},
     facts: {
       de: ["Zählt über 1.500 Stufen zum Gipfel.", "Diente Timur als Festung.", "Bietet einen weiten Blick über die Region."],
@@ -5854,7 +5841,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     parent: "AZ-GA",
     coords: [46.3314, 40.6711],
     name: { de: "Nisami-Mausoleum", hu: "Nizami mauzóleum", ro: "Mausoleul lui Nizami", en: "Nizami Mausoleum"},
-    image: "/poi-images/nizami-mausoleum-landmarks-v2.webp",
     description: { de: "Ein Denkmal in Gandscha, das dem berühmten persischen Dichter Nizami Ganjavi aus dem 12. Jahrhundert gewidmet ist.", hu: "Emlékmű Ganjában, amelyet a híres 12. századi perzsa költőnek, Nizámi Gandzsavínak szenteltek.", ro: "Un monument în Ganja dedicat celebrului poet persan din secolul al XII-lea, Nizami Ganjavi.", en: "A monument in Ganja dedicated to the famous 12th-century Persian poet Nizami Ganjavi." , es: "Un monumento en Ganja dedicado al famoso poeta persa del siglo XII Nizami Ganjavi.", pt: "Um monumento em Ganja dedicado ao famoso poeta persa do século XII, Nizami Ganjavi.", fr: "Un monument à Gandja dédié au célèbre poète persan du XIIe siècle Nizami Ganjavi."},
     facts: {
       de: ["Ursprünglich im 12. Jahrhundert erbaut.", "Derzeitige Struktur stammt aus dem Jahr 1991.", "Umgeben von einem großen Park."],
@@ -6294,7 +6280,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     parent: "AZ-SMI",
     coords: [48.9408, 40.5317],
     name: { de: "Diri-Baba-Mausoleum", hu: "Diri Baba mauzóleum", ro: "Mausoleul Diri Baba", en: "Diri Baba Mausoleum"},
-    image: "/poi-images/diri-baba-mausoleum-landmarks-v2.webp",
     description: { de: "Ein faszinierendes zweistöckiges Mausoleum, das im 15. Jahrhundert direkt in eine Felswand gebaut wurde.", hu: "Lenyűgöző kétszintes mauzóleum, amelyet a 15. században egyenesen a sziklafalba építettek.", ro: "Un mausoleu fascinant pe două niveluri, construit direct într-o stâncă în secolul al XV-lea.", en: "A fascinating two-story mausoleum built directly into a cliff face in the 15th century." , es: "Un fascinante mausoleo de dos plantas construido en el siglo XV directamente en la pared de una roca.", pt: "Um mausoléu fascinante de dois andares, construído no século XV diretamente numa parede rochosa.", fr: "Un fascinant mausolée à deux étages, construit au XVe siècle directement dans la paroi d'une falaise."},
     facts: {
       de: ["Erbaut im Jahr 1402.", "Ein wichtiger Pilgerort.", "Die Architektur harmoniert perfekt mit der Natur."],
@@ -7022,7 +7007,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     parent: "AZ-SMI",
     coords: [48.6406, 40.6272],
     name: { de: "Dschuma-Moschee von Şamaxı", hu: "Şamaxı Juma mecset", ro: "Moscheea Juma din Șamahî", en: "Juma Mosque, Shamakhi"},
-    image: "/poi-images/juma-mosque-shamakhi-landmarks-v2.webp",
     description: { de: "Eine der ältesten und größten Moscheen im Kaukasus, die trotz mehrerer Erdbeben erhalten blieb und restauriert wurde.", hu: "A Kaukázus egyik legrégebbi és legnagyobb mecsete, amely számos földrengést túlélt és újjáépült.", ro: "Una dintre cele mai vechi și mari moschei din Caucaz, care a supraviețuit și a fost restaurată după mai multe cutremure.", en: "One of the oldest and largest mosques in the Caucasus, which survived and was restored after several earthquakes." , es: "Una de las mezquitas más antiguas y grandes del Cáucaso, que ha sido preservada y restaurada a pesar de varios terremotos.", pt: "Uma das mesquitas mais antigas e maiores do Cáucaso, que sobreviveu e foi restaurada apesar de vários terramotos.", fr: "L'une des plus anciennes et des plus grandes mosquées du Caucase, qui a survécu et a été restaurée malgré plusieurs tremblements de terre."},
     facts: {
       de: ["Ursprünglich im Jahr 743 erbaut.", "Wurde 2013 umfassend restauriert.", "Überstand viele verheerende Erdbeben."],
@@ -7390,7 +7374,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     parent: "AZ-BA",
     coords: [49.8450, 40.3444],
     name: { de: "Baku Crystal Hall", hu: "Baku Kristálycsarnok", ro: "Baku Crystal Hall", en: "Baku Crystal Hall"},
-    image: "/poi-images/baku-crystal-hall-landmarks-v2.webp",
     description: { de: "Eine Mehrzweckhalle an der Küste des Kaspischen Meeres, bekannt für die Ausrichtung des Eurovision Song Contest 2012.", hu: "Többcélú aréna a Kaszpi-tenger partján, amely arról ismert, hogy 2012-ben a Eurovíziós Dalfesztivál házigazdája volt.", ro: "O arenă multifuncțională pe coasta Mării Caspice, cunoscută pentru găzduirea Eurovision Song Contest în 2012.", en: "A multi-purpose indoor arena on the coast of the Caspian Sea, known for hosting the 2012 Eurovision Song Contest." , es: "Un pabellón multiusos en la costa del mar Caspio, conocido por albergar el Festival de la Canción de Eurovisión 2012.", pt: "Uma arena multiusos na costa do Mar Cáspio, conhecida por acolher o Festival Eurovisão da Canção 2012.", fr: "Une salle polyvalente sur la côte de la mer Caspienne, connue pour avoir accueilli le Concours Eurovision de la chanson 2012."},
     facts: {
       de: ["Bietet Platz für bis zu 25.000 Zuschauer.", "In nur acht Monaten erbaut.", "Fassade ist mit LED-Lichtern ausgestattet."],
@@ -7614,7 +7597,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     parent: "AZ-BA",
     coords: [49.8364, 40.3594],
     name: { de: "Aserbaidschanisches Teppichmuseum", hu: "Azerbajdzsáni Szőnyegmúzeum", ro: "Muzeul Covorului din Azerbaidjan", en: "Azerbaijan Carpet Museum"},
-    image: "/poi-images/azerbaijan-carpet-museum-landmarks-v2.webp",
     description: { de: "Ein einzigartiges Museum in Form eines aufgerollten Teppichs, das die größte Sammlung aserbaidschanischer Teppiche beherbergt.", hu: "Egyedülálló, feltekert szőnyeget formázó múzeum, amely az azerbajdzsáni szőnyegek legnagyobb gyűjteményének ad otthont.", ro: "Un muzeu unic în formă de covor rulat, care găzduiește cea mai mare colecție de covoare azere.", en: "A unique museum shaped like a rolled carpet, housing the largest collection of Azerbaijani carpets." , es: "Un museo único en forma de alfombra enrollada que alberga la mayor colección de alfombras azerbaiyanas.", pt: "Um museu único em forma de tapete enrolado, que abriga a maior coleção de tapetes azeris.", fr: "Un musée unique en forme de tapis roulé, abritant la plus grande collection de tapis azerbaïdjanais."},
     facts: {
       de: ["Gebäude wurde von Franz Janz entworfen.", "Eröffnet im aktuellen Gebäude 2014.", "Beherbergt über 10.000 Ausstellungsstücke."],
@@ -8558,7 +8540,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
     parent: "AZ-SAK",
     coords: [47.1975, 41.2044],
     name: { de: "Karawanserei von Şəki", hu: "Şəki karavánszeráj", ro: "Caravanseraiul din Șaki", en: "Shaki Caravanserai"},
-    image: "/poi-images/shaki-caravanserai-landmarks-v2.webp",
     description: { de: "Ein historisches Gasthaus aus dem 18. Jahrhundert an der Seidenstraße, das Händlern und Reisenden Unterschlupf bot.", hu: "18. századi történelmi fogadó a Selyemúton, amely egykor kereskedőknek és utazóknak nyújtott menedéket.", ro: "Un han istoric din secolul al XVIII-lea de pe Drumul Mătăsii, care oferea adăpost negustorilor și călătorilor.", en: "An 18th-century historical inn on the Silk Road that provided shelter for merchants and travelers." , es: "Una posada histórica del siglo XVIII en la Ruta de la Seda que ofrecía refugio a comerciantes y viajeros.", pt: "Uma estalagem histórica do século XVIII na Rota da Seda, que oferecia abrigo a mercadores e viajantes.", fr: "Une auberge historique du XVIIIe siècle sur la Route de la Soie, qui offrait un abri aux marchands et aux voyageurs."},
     facts: {
       de: ["Eine der größten Karawansereien im Kaukasus.", "Wird heute teilweise als Hotel genutzt.", "Verfügt über prächtige Torbögen."],

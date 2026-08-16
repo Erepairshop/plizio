@@ -8,7 +8,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     parent: "BD-47",
     coords: [89.5333, 21.9333],
     name: { de: "Sundarbans", hu: "Sundarbans-erdő", ro: "Pădurea Sundarbans", en: "Sundarbans"},
-    image: "/poi-images/bd-sundarbans-nature-v2.webp",
     description: {
       de: "Der größte Mangrovenwald der Erde und Heimat des Bengalischen Tigers.",
       hu: "A Föld legnagyobb mangróveerdeje, és a bengáli tigris otthona.",
@@ -781,7 +780,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     parent: "BD-13",
     coords: [89.9167, 23.2500],
     name: { de: "Padma", hu: "Padma folyó", ro: "Râul Padma", en: "Padma River"},
-    image: "/poi-images/bd-padma-river-nature-v2.webp",
     description: {
       de: "Der Hauptarm des Ganges in Bangladesch, bekannt für seine ständige Verlagerung der Flussufer.",
       hu: "A Gangesz fő ága Bangladesben, amely állandóan változó medréről ismert.",
@@ -1374,7 +1372,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     parent: "BD-13",
     coords: [90.6667, 22.8333],
     name: { de: "Meghna", hu: "Meghna folyó", ro: "Râul Meghna", en: "Meghna River"},
-    image: "/poi-images/bd-meghna-river-nature-v2.webp",
     description: {
       de: "Einer der wichtigsten Flüsse Bangladeschs, der das gewaltige Ganges-Brahmaputra-Delta formt.",
       hu: "Banglades egyik legfontosabb folyója, amely a hatalmas Gangesz-Brahmaputra deltát alkotja.",
@@ -2327,7 +2324,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     parent: "BD-54",
     coords: [89.6667, 24.0000],
     name: { de: "Jamuna", hu: "Jamuna folyó", ro: "Râul Jamuna", en: "Jamuna River"},
-    image: "/poi-images/bd-jamuna-river-nature-v2.webp",
     description: {
       de: "Der untere Lauf des Brahmaputra in Bangladesch, charakterisiert durch viele Sandbänke.",
       hu: "A Brahmaputra alsó szakasza Bangladesben, melyet számos homokpad jellemez.",
@@ -3064,7 +3060,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     parent: "BD-10",
     coords: [91.8333, 22.2333],
     name: { de: "Karnaphuli", hu: "Karnaphuli folyó", ro: "Râul Karnaphuli", en: "Karnaphuli River"},
-    image: "/poi-images/bd-karnaphuli-river-nature-v2.webp",
     description: {
       de: "Der größte Fluss im Distrikt Chittagong, an dessen Ufer sich der größte Seehafen des Landes befindet.",
       hu: "Chittagong régió legnagyobb folyója, amelynek partján fekszik az ország legnagyobb tengeri kikötője.",
@@ -4305,7 +4300,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     parent: "BD-55",
     coords: [89.0000, 25.7500],
     name: { de: "Teesta", hu: "Teesta folyó", ro: "Râul Teesta", en: "Teesta River"},
-    image: "/poi-images/bd-teesta-river-nature-v2.webp",
     description: {
       de: "Ein wichtiger Zufluss des Brahmaputra, der durch den Norden Bangladeschs fließt.",
       hu: "A Brahmaputra egyik fontos mellékfolyója, amely Észak-Bangladesen folyik keresztül.",
@@ -5186,7 +5180,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     parent: "BD-60",
     coords: [91.8667, 24.8833],
     name: { de: "Surma", hu: "Surma folyó", ro: "Râul Surma", en: "Surma River"},
-    image: "/poi-images/bd-surma-river-nature-v2.webp",
     description: {
       de: "Ein Hauptfluss im Osten Bangladeschs, der oft in der Regenzeit über die Ufer tritt.",
       hu: "Kelet-Banglades egyik fő folyója, amely az esős évszakban gyakran kilép a medréből.",
@@ -6535,7 +6528,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     parent: "BD-10",
     coords: [92.0500, 22.0667],
     name: { de: "Sangu", hu: "Sangu folyó", ro: "Râul Sangu", en: "Sangu River"},
-    image: "/poi-images/bd-sangu-river-nature-v2.webp",
     description: {
       de: "Ein Fluss in den Chittagong Hill Tracts, bekannt für seine landschaftlich reizvolle Route durch die Berge.",
       hu: "A Chittagong-hegyvidék egyik folyója, amely a hegyek közötti festői útvonaláról ismert.",
@@ -6624,7 +6616,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     parent: "BD-10",
     coords: [92.5972, 21.7850],
     name: { de: "Saka Haphong", hu: "Saka Haphong", ro: "Saka Haphong", en: "Saka Haphong"},
-    image: "/poi-images/bd-saka-haphong-nature-v2.webp",
     description: {
       de: "Der höchste inoffizielle Gipfel in Bangladesch, gelegen an der Grenze zu Myanmar.",
       hu: "Banglades legmagasabb nem hivatalos hegycsúcsa, amely a mianmari határon található.",
@@ -6749,7 +6740,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     parent: "BD-10",
     coords: [92.5181, 21.9547],
     name: { de: "Keokradong", hu: "Keokradong", ro: "Keokradong", en: "Keokradong"},
-    image: "/poi-images/bd-keokradong-nature-v2.webp",
     description: {
       de: "Einer der bekanntesten und am häufigsten besuchten Berggipfel in Bangladesch.",
       hu: "Banglades egyik legismertebb és leggyakrabban látogatott hegycsúcsa.",
@@ -6793,7 +6783,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     parent: "BD-10",
     coords: [92.5292, 21.9744],
     name: { de: "Boga-See", hu: "Boga-tó", ro: "Lacul Boga", en: "Boga Lake"},
-    image: "/poi-images/bd-boga-lake-nature-v2.webp",
     description: {
       de: "Ein hoch gelegener, natürlicher See in den Chittagong Hill Tracts, umgeben von dichten Wäldern.",
       hu: "Egy magasan fekvő, természetes tó a Chittagong-hegyvidéken, sűrű erdőkkel övezve.",
@@ -6837,7 +6826,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     parent: "BD-10",
     coords: [92.1461, 22.7561],
     name: { de: "Kaptai-See", hu: "Kaptai-tó", ro: "Lacul Kaptai", en: "Kaptai Lake"},
-    image: "/poi-images/bd-kaptai-lake-nature-v2.webp",
     description: {
       de: "Der größte künstliche See in Bangladesch, entstanden durch den Bau der Kaptai-Talsperre.",
       hu: "Banglades legnagyobb mesterséges tava, amely a Kaptai-gát építésével jött létre.",
@@ -7250,7 +7238,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     parent: "BD-60",
     coords: [91.0667, 25.1333],
     name: { de: "Tanguar Haor", hu: "Tanguar Haor", ro: "Tanguar Haor", en: "Tanguar Haor"},
-    image: "/poi-images/bd-tanguar-haor-nature-v2.webp",
     description: {
       de: "Ein einzigartiges Feuchtgebietssystem im Nordosten Bangladeschs, das vielen Zugvögeln Schutz bietet.",
       hu: "Különleges vizesélőhely-rendszer Északkelet-Bangladesben, amely számos vándormadárnak ad menedéket.",
@@ -7411,7 +7398,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     parent: "BD-60",
     coords: [92.0500, 24.6667],
     name: { de: "Hakaluki Haor", hu: "Hakaluki Haor", ro: "Hakaluki Haor", en: "Hakaluki Haor"},
-    image: "/poi-images/bd-hakaluki-haor-nature-v2.webp",
     description: {
       de: "Eines der größten und bedeutendsten Binnengewässer im asiatischen Raum.",
       hu: "Ázsia egyik legnagyobb és legjelentősebb belvízi vizesélőhelye.",
@@ -7788,7 +7774,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     parent: "BD-60",
     coords: [91.7833, 24.3333],
     name: { de: "Lawachara-Nationalpark", hu: "Lawachara Nemzeti Park", ro: "Parcul Național Lawachara", en: "Lawachara National Park"},
-    image: "/poi-images/bd-lawachara-national-park-nature-v2.webp",
     description: {
       de: "Ein wichtiger tropischer Regenwald in Bangladesch, bekannt für seine Artenvielfalt an Primaten.",
       hu: "Banglades egyik fontos trópusi esőerdeje, amely főemlőseinek gazdagságáról ismert.",
@@ -9101,7 +9086,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     parent: "BD-13",
     coords: [90.4000, 24.1167],
     name: { de: "Bhawal-Nationalpark", hu: "Bhawal Nemzeti Park", ro: "Parcul Național Bhawal", en: "Bhawal National Park"},
-    image: "/poi-images/bd-bhawal-national-park-nature-v2.webp",
     description: {
       de: "Ein bedeutendes Naturschutzgebiet nördlich von Dhaka, dominiert von Salbaum-Wäldern.",
       hu: "Dakkától északra fekvő jelentős természetvédelmi terület, amelyet szálerdők borítanak.",
@@ -9766,7 +9750,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     parent: "BD-10",
     coords: [91.0000, 22.0500],
     name: { de: "Nijhum-Dwip-Nationalpark", hu: "Nijhum Dwip Nemzeti Park", ro: "Parcul Național Nijhum Dwip", en: "Nijhum Dwip National Park"},
-    image: "/poi-images/bd-nijhum-dwip-national-park-nature-v2.webp",
     description: {
       de: "Ein mariner und terrestrischer Park auf einer abgelegenen Insel im Golf von Bengalen.",
       hu: "Tengeri és szárazföldi park egy elszigetelt szigeten a Bengáli-öbölben.",
@@ -10872,7 +10855,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     parent: "BD-55",
     coords: [88.6333, 25.5500],
     name: { de: "Ramsagar-Nationalpark", hu: "Ramsagar Nemzeti Park", ro: "Parcul Național Ramsagar", en: "Ramsagar National Park"},
-    image: "/poi-images/bd-ramsagar-national-park-nature-v2.webp",
     description: {
       de: "Dieser Park umschließt einen historischen, von Menschenhand geschaffenen See im Norden des Landes.",
       hu: "A park egy történelmi, ember által alkotott tavat ölel körül az ország északi részén.",
@@ -11573,7 +11555,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     parent: "BD-60",
     coords: [91.9667, 25.0000],
     name: { de: "Ratargul-Sumpfwald", hu: "Ratargul mocsárerdő", ro: "Pădurea de mlaștină Ratargul", en: "Ratargul Swamp Forest"},
-    image: "/poi-images/bd-ratargul-swamp-forest-nature-v2.webp",
     description: {
       de: "Der einzige Süßwasser-Sumpfwald in Bangladesch, der in der Regenzeit tief überflutet ist.",
       hu: "Banglades egyetlen édesvízi mocsárerdeje, amely az esős évszakban mélyen víz alá kerül.",

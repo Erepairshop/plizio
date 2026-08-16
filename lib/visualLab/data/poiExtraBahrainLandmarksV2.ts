@@ -93,7 +93,6 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
       hu: "Bahreini Világkereskedelmi Központ",
       ro: "Centrul de Comerț Mondial din Bahrain",
       en: "Bahrain World Trade Center"},
-    image: "/poi-images/bh-world-trade-center-landmarks-v2.webp",
     description: {
       de: "Ein 240 Meter hoher Doppelturmkomplex in Manama, der für die Integration von Windkraftanlagen in sein Design bekannt ist.",
       hu: "Egy 240 méter magas ikertorony Manamában, amely a dizájnjába épített szélturbináiról híres.",
@@ -618,7 +617,6 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
       hu: "Bahreini erőd",
       ro: "Fortul Bahrain",
       en: "Qal'at al-Bahrain"},
-    image: "/poi-images/bh-qalat-al-bahrain-landmarks-v2.webp",
     description: {
       de: "Eine archäologische Stätte und UNESCO-Weltkulturerbe, die die antike Hauptstadt des Dilmun-Reiches repräsentiert.",
       hu: "Régészeti lelőhely és UNESCO Világörökség, amely a Dilmun birodalom egykori fővárosát jelképezi.",
@@ -819,7 +817,6 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
       hu: "Al Fateh Nagymecset",
       ro: "Marea Moschee Al Fateh",
       en: "Al Fateh Grand Mosque"},
-    image: "/poi-images/bh-al-fateh-grand-mosque-landmarks-v2.webp",
     description: {
       de: "Eine der größten Moscheen der Welt, die mehr als 7.000 Gläubigen gleichzeitig Platz bietet.",
       hu: "A világ egyik legnagyobb mecsete, amely több mint 7000 hívő befogadására alkalmas egyszerre.",
@@ -912,7 +909,6 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
       hu: "Élet fája",
       ro: "Copacul Vieții",
       en: "Tree of Life"},
-    image: "/poi-images/bh-tree-of-life-landmarks-v2.webp",
     description: {
       de: "Ein 400 Jahre alter Mesquite-Baum, der allein in der Wüste steht und trotz des Fehlens einer sichtbaren Wasserquelle gedeiht.",
       hu: "Egy 400 éves meszkitófa, amely egyedül áll a sivatagban, és látható vízforrás hiányában is virágzik.",
@@ -960,7 +956,6 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
       hu: "Fahd király híd",
       ro: "Podul Regele Fahd",
       en: "King Fahd Causeway"},
-    image: "/poi-images/bh-king-fahd-causeway-landmarks-v2.webp",
     description: {
       de: "Eine 25 Kilometer lange Reihe von Brücken und Dämmen, die das Königreich Bahrain mit Saudi-Arabien verbindet.",
       hu: "Egy 25 kilométer hosszú híd- és gátrendszer, amely összeköti a Bahreini Királyságot Szaúd-Arábiával.",
@@ -1185,7 +1180,6 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
       hu: "Riffa erőd",
       ro: "Fortul Riffa",
       en: "Riffa Fort"},
-    image: "/poi-images/bh-riffa-fort-landmarks-v2.webp",
     description: {
       de: "Auch bekannt als Sheikh Salman bin Ahmed Fort, bietet es einen großartigen Blick über das Hunanaiya-Tal.",
       hu: "A Sheikh Salman bin Ahmed erődjeként is ismert építmény lenyűgöző kilátást nyújt a Hunanaiya-völgyre.",
@@ -1479,7 +1473,6 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
       hu: "Bahrain International Circuit",
       ro: "Circuitul Internațional Bahrain",
       en: "Bahrain International Circuit"},
-    image: "/poi-images/bh-international-circuit-landmarks-v2.webp",
     description: {
       de: "Eine High-Tech-Motorsportstätte in Sakhir, in der jährlich der Formel-1-Grand-Prix von Bahrain stattfindet.",
       hu: "Egy csúcstechnológiás motorsport helyszín Sakhirban, amely az éves Formula–1 bahreini nagydíjnak ad otthont.",
@@ -1575,7 +1568,6 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
       hu: "Bu Maher erőd",
       ro: "Fortul Bu Maher",
       en: "Bu Maher Fort"},
-    image: "/poi-images/bh-bu-maher-fort-landmarks-v2.webp",
     description: {
       de: "Eine historische Festung aus dem Jahr 1840, die eng mit Bahrains reicher Perlentauchergeschichte verbunden ist.",
       hu: "Egy történelmi, 1840-ben épült erőd, amely szorosan kapcsolódik Bahrein gazdag gyöngyhalászati történelméhez.",
@@ -1623,7 +1615,6 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
       hu: "Al Khamis mecset",
       ro: "Moscheea Al Khamis",
       en: "Al Khamis Mosque"},
-    image: "/poi-images/bh-al-khamis-mosque-landmarks-v2.webp",
     description: {
       de: "Gilt als die erste Moschee in Bahrain und zeichnet sich durch zwei markante Zwillingsminarette aus.",
       hu: "Vélhetően Bahrein első mecsete, amelynek két jellegzetes ikerminaretje messziről is jól látható.",

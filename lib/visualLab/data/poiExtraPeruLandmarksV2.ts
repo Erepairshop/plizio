@@ -845,7 +845,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-CUS",
     coords: [-72.5449, -13.1631],
     name: { de: "Machu Picchu", hu: "Machu Picchu", ro: "Machu Picchu", en: "Machu Picchu"},
-    image: "/poi-images/machu-picchu-landmarks-v2.webp",
     description: {
       de: "Die berühmte Inka-Zitadelle hoch in den Anden, ein UNESCO-Weltkulturerbe und Weltwunder.",
       hu: "A híres inka fellegvár magasan az Andokban, UNESCO világörökségi helyszín és a világ egyik csodája.",
@@ -1547,7 +1546,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-CUS",
     coords: [-71.9816, -13.5097],
     name: { de: "Sacsayhuamán", hu: "Sacsayhuamán", ro: "Sacsayhuamán", en: "Sacsayhuamán"},
-    image: "/poi-images/sacsayhuaman-landmarks-v2.webp",
     description: {
       de: "Eine riesige Inka-Festung bei Cusco, bekannt für ihre massiven, fugenlos zusammengefügten Steinblöcke.",
       hu: "Hatalmas inka erőd Cusco közelében, amely a kötőanyag nélkül illeszkedő, masszív kőtömbjeiről híres.",
@@ -1592,7 +1590,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-CUS",
     coords: [-71.9752, -13.5202],
     name: { de: "Coricancha", hu: "Coricancha", ro: "Coricancha", en: "Coricancha"},
-    image: "/poi-images/coricancha-landmarks-v2.webp",
     description: {
       de: "Der wichtigste Sonnentempel des Inka-Reiches in Cusco, auf dessen Ruinen die Spanier die Kirche Santo Domingo erbauten.",
       hu: "Az inka birodalom legfontosabb naptemploma Cuscóban, amelynek romjaira a spanyolok építették a Santo Domingo-templomot.",
@@ -3050,7 +3047,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-CUS",
     coords: [-72.2633, -13.2575],
     name: { de: "Ollantaytambo", hu: "Ollantaytambo", ro: "Ollantaytambo", en: "Ollantaytambo"},
-    image: "/poi-images/ollantaytambo-landmarks-v2.webp",
     description: {
       de: "Eine der am besten erhaltenen Inka-Städte mit einer beeindruckenden Festung, die sich im Heiligen Tal befindet.",
       hu: "Az egyik legjobb állapotban fennmaradt inka város egy lenyűgöző erőddel, a Szent Völgyben.",
@@ -4328,7 +4324,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-LAL",
     coords: [-79.0747, -8.1069],
     name: { de: "Chan Chan", hu: "Chan Chan", ro: "Chan Chan", en: "Chan Chan"},
-    image: "/poi-images/chan-chan-landmarks-v2.webp",
     description: {
       de: "Die größte präkolumbische Stadt in Südamerika und die ehemalige Hauptstadt des Chimú-Reiches, komplett aus Lehmziegeln erbaut.",
       hu: "Dél-Amerika legnagyobb prekolumbián városa, a Chimú Birodalom egykori fővárosa, amelyet teljesen vályogtéglából építettek.",
@@ -4742,7 +4737,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-AMA",
     coords: [-77.9252, -6.4230],
     name: { de: "Kuélap", hu: "Kuélap", ro: "Kuélap", en: "Kuélap"},
-    image: "/poi-images/kuelap-landmarks-v2.webp",
     description: {
       de: "Eine riesige Festungsanlage der Chachapoya-Kultur hoch in den Anden, oft als 'Machu Picchu des Nordens' bezeichnet.",
       hu: "A Chachapoya kultúra hatalmas erődítménye magasan az Andokban, gyakran 'észak Machu Picchujának' nevezik.",
@@ -5120,7 +5114,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-LAM",
     coords: [-79.6015, -6.8016],
     name: { de: "Huaca Rajada", hu: "Huaca Rajada", ro: "Huaca Rajada", en: "Huaca Rajada"},
-    image: "/poi-images/huaca-rajada-landmarks-v2.webp",
     description: {
       de: "Die archäologische Stätte in Nordperu, an der die berühmten Gräber des Herrn von Sipán entdeckt wurden.",
       hu: "Régészeti lelőhely Észak-Peruban, ahol Sipán urának híres sírjait felfedezték.",
@@ -5786,7 +5779,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-LAL",
     coords: [-78.9880, -8.1341],
     name: { de: "Huaca del Sol y de la Luna", hu: "Huaca del Sol és de la Luna", ro: "Huaca del Sol și de la Luna", en: "Huaca del Sol and Huaca de la Luna"},
-    image: "/poi-images/huacas-moche-landmarks-v2.webp",
     description: {
       de: "Zwei massive Pyramiden der Moche-Kultur bei Trujillo, bekannt für ihre bunten Wandmalereien und Reliefs.",
       hu: "A Moche kultúra két hatalmas piramisa Trujillo közelében, amelyek színes falfestményeikről és domborműveikről ismertek.",
@@ -7100,7 +7092,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-ICA",
     coords: [-75.1136, -14.6938],
     name: { de: "Nazca-Linien", hu: "Nazca-vonalak", ro: "Liniile Nazca", en: "Nazca Lines"},
-    image: "/poi-images/nazca-linien-landmarks-v2.webp",
     description: {
       de: "Riesige Geoglyphen in der Wüste von Peru, die geometrische Figuren und Tiere darstellen und am besten aus der Luft zu sehen sind.",
       hu: "Hatalmas geoglifák Peru sivatagában, amelyek geometriai alakzatokat és állatokat ábrázolnak, és a levegőből láthatók a legjobban.",
@@ -9187,7 +9178,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-LMA",
     coords: [-77.0274, -12.0453],
     name: { de: "Kloster San Francisco", hu: "San Francisco Kolostor", ro: "Mănăstirea San Francisco", en: "Monastery of San Francisco"},
-    image: "/poi-images/kloster-san-francisco-landmarks-v2.webp",
     description: {
       de: "Eine beeindruckende barocke Kirche und Klosteranlage in Lima, besonders berühmt für ihre unterirdischen Katakomben.",
       hu: "Lenyűgöző barokk templom és kolostoregyüttes Limában, amely különösen híres földalatti katakombáiról.",
@@ -10321,7 +10311,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-CAL",
     coords: [-77.1472, -12.0624],
     name: { de: "Fortaleza del Real Felipe", hu: "Real Felipe Erőd", ro: "Fortăreața Real Felipe", en: "Real Felipe Fortress"},
-    image: "/poi-images/fortaleza-real-felipe-landmarks-v2.webp",
     description: {
       de: "Eine massive historische Festung in Callao, die im 18. Jahrhundert zum Schutz vor Piraten und Freibeutern erbaut wurde.",
       hu: "Egy hatalmas történelmi erőd Callaóban, amelyet a 18. században építettek a kalózok elleni védelemként.",
@@ -11671,7 +11660,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-ARE",
     coords: [-71.5369, -16.3952],
     name: { de: "Kloster Santa Catalina", hu: "Santa Catalina Kolostor", ro: "Mănăstirea Santa Catalina", en: "Santa Catalina Monastery"},
-    image: "/poi-images/kloster-santa-catalina-landmarks-v2.webp",
     description: {
       de: "Ein farbenfrohes, historisches Kloster in Arequipa, das wie eine eigene kleine Stadt mit Straßen und Plätzen wirkt.",
       hu: "Színes, történelmi kolostor Arequipában, amely utcáival és tereivel úgy néz ki, mint egy kis önálló város.",
@@ -12553,7 +12541,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-ARE",
     coords: [-71.5367, -16.3986],
     name: { de: "Kathedrale von Arequipa", hu: "Arequipa Katedrális", ro: "Catedrala din Arequipa", en: "Basilica Cathedral of Arequipa"},
-    image: "/poi-images/kathedrale-arequipa-landmarks-v2.webp",
     description: {
       de: "Die wichtigste katholische Kirche in Arequipa, berühmt für ihre weiße Fassade aus vulkanischem Sillar-Stein.",
       hu: "Arequipa legfontosabb katolikus temploma, amely híres vulkáni sillar kőből készült fehér homlokzatáról.",
@@ -13075,7 +13062,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-ANC",
     coords: [-77.1777, -9.5872],
     name: { de: "Chavín de Huántar", hu: "Chavín de Huántar", ro: "Chavín de Huántar", en: "Chavín de Huántar"},
-    image: "/poi-images/chavin-huantar-landmarks-v2.webp",
     description: {
       de: "Eine archäologische Stätte und ein wichtiges religiöses Zentrum der prähispanischen Chavín-Kultur in den peruanischen Anden.",
       hu: "Régészeti lelőhely és a hispán előtti Chavín kultúra fontos vallási központja a perui Andokban.",
@@ -13669,7 +13655,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-LMA",
     coords: [-77.5218, -10.8926],
     name: { de: "Heilige Stadt Caral", hu: "Caral Szent Városa", ro: "Orașul Sacru Caral", en: "Sacred City of Caral"},
-    image: "/poi-images/caral-landmarks-v2.webp",
     description: {
       de: "Die älteste bekannte Stadt auf dem amerikanischen Kontinent mit monumentaler Architektur und beeindruckenden Pyramiden.",
       hu: "Az amerikai kontinens legrégebbi ismert városa monumentális építészettel és lenyűgöző piramisokkal.",
@@ -15019,7 +15004,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-LMA",
     coords: [-77.0336, -12.1102],
     name: { de: "Huaca Pucllana", hu: "Huaca Pucllana", ro: "Huaca Pucllana", en: "Huaca Pucllana"},
-    image: "/poi-images/huaca-pucllana-landmarks-v2.webp",
     description: {
       de: "Eine riesige Lehmpyramide der Lima-Kultur, die heute ein faszinierendes Relikt inmitten des modernen Stadtteils Miraflores ist.",
       hu: "A Lima kultúra hatalmas vályogpiramisa, amely ma lenyűgöző emlék a modern Miraflores negyed közepén.",
@@ -16422,7 +16406,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-CUS",
     coords: [-71.8415, -13.4147],
     name: { de: "Pisac-Ruinen", hu: "Pisac Romjai", ro: "Ruinele Pisac", en: "Pisac Ruins"},
-    image: "/poi-images/pisac-ruinen-landmarks-v2.webp",
     description: {
       de: "Eine weitläufige Inka-Stätte im Heiligen Tal, bekannt für ihre riesigen landwirtschaftlichen Terrassen und zeremoniellen Zentren.",
       hu: "Kiterjedt inka lelőhely a Szent Völgyben, amely hatalmas mezőgazdasági teraszairól és ceremoniális központjairól ismert.",
@@ -17268,7 +17251,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-CUS",
     coords: [-72.8730, -13.3942],
     name: { de: "Choquequirao", hu: "Choquequirao", ro: "Choquequirao", en: "Choquequirao"},
-    image: "/poi-images/choquequirao-landmarks-v2.webp",
     description: {
       de: "Eine beeindruckende Inka-Stadt in Südperu, die architektonisch stark an Machu Picchu erinnert, aber weitaus abgelegener ist.",
       hu: "Lenyűgöző inka város Dél-Peruban, amely építészetileg nagyon hasonlít Machu Picchura, de sokkal elszigeteltebb.",
@@ -18510,7 +18492,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-LMA",
     coords: [-76.9042, -12.2577],
     name: { de: "Pachacámac", hu: "Pachacámac", ro: "Pachacámac", en: "Pachacamac"},
-    image: "/poi-images/pachacamac-landmarks-v2.webp",
     description: {
       de: "Eine riesige archäologische Stätte an der Küste südlich von Lima, die lange vor den Inkas ein wichtiges religiöses Zentrum war.",
       hu: "Hatalmas régészeti lelőhely a partvidéken, Limától délre, amely már jóval az inkák előtt fontos vallási központ volt.",
@@ -18780,7 +18761,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-CUS",
     coords: [-71.9760, -13.5110],
     name: { de: "Cristo Blanco", hu: "Cristo Blanco", ro: "Cristo Blanco", en: "Cristo Blanco"},
-    image: "/poi-images/cristo-blanco-landmarks-v2.webp",
     description: {
       de: "Eine große, weiße Jesusstatue auf dem Pukamoqo-Hügel, die mit ausgebreiteten Armen über die Stadt Cusco wacht.",
       hu: "Egy nagy fehér Jézus-szobor a Pukamoqo-hegyen, amely kitárt karokkal őrködik Cusco városa felett.",
@@ -20058,7 +20038,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-LMA",
     coords: [-77.0336, -12.0673],
     name: { de: "Estadio Nacional del Perú", hu: "Estadio Nacional del Perú", ro: "Estadio Nacional del Perú", en: "National Stadium of Peru"},
-    image: "/poi-images/estadio-nacional-peru-landmarks-v2.webp",
     description: {
       de: "Das größte und wichtigste Mehrzweckstadion in Lima, das hauptsächlich für die Spiele der peruanischen Fußballnationalmannschaft genutzt wird.",
       hu: "Lima legnagyobb és legfontosabb többcélú stadionja, amelyet főleg a perui labdarúgó-válogatott mérkőzéseihez használnak.",
@@ -21228,7 +21207,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-LMA",
     coords: [-77.0216, -12.1492],
     name: { de: "Puente de los Suspiros", hu: "Puente de los Suspiros", ro: "Puente de los Suspiros", en: "Bridge of Sighs"},
-    image: "/poi-images/puente-de-los-suspiros-landmarks-v2.webp",
     description: {
       de: "Eine malerische Holzbrücke im böhmischen Viertel Barranco in Lima, die viele Künstler, Musiker und Verliebte inspiriert hat.",
       hu: "Festői fahíd Lima bohém negyedében, Barrancóban, amely számos művészt, zenészt és szerelmest megihletett.",
@@ -21966,7 +21944,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-CUS",
     coords: [-71.9781, -13.5165],
     name: { de: "Kathedrale von Cusco", hu: "Cuscói Katedrális", ro: "Catedrala din Cusco", en: "Cusco Cathedral"},
-    image: "/poi-images/kathedrale-cusco-landmarks-v2.webp",
     description: {
       de: "Die prächtige Hauptkirche an der Plaza de Armas in Cusco, erbaut auf den Fundamenten eines alten Inkapalastes.",
       hu: "A pompás főtemplom a cuscói Plaza de Armason, amelyet egy régi inka palota alapjaira építettek.",
@@ -23208,7 +23185,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-LMA",
     coords: [-77.0709, -12.0716],
     name: { de: "Museo Larco", hu: "Museo Larco", ro: "Muzeul Larco", en: "Larco Museum"},
-    image: "/poi-images/museo-larco-landmarks-v2.webp",
     description: {
       de: "Ein privat geführtes Museum für präkolumbische Kunst in Lima, das in einem wunderschönen Gebäude aus dem 18. Jahrhundert untergebracht ist.",
       hu: "Magánkézben lévő prekolumbián művészeti múzeum Limában, amely egy gyönyörű, 18. századi épületben kapott helyet.",
@@ -23334,7 +23310,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-PUN",
     coords: [-70.1583, -15.7214],
     name: { de: "Sillustani", hu: "Sillustani", ro: "Sillustani", en: "Sillustani"},
-    image: "/poi-images/sillustani-landmarks-v2.webp",
     description: {
       de: "Ein prähispanischer Friedhof am Ufer des Umayo-Sees in Puno, berühmt für seine zylindrischen Steingräber, die Chullpas.",
       hu: "Hispán előtti temető Puno tartományban, az Umayo-tó partján, amely hengeres kősírjairól, a Chullpákról híres.",
@@ -23712,7 +23687,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-CUS",
     coords: [-71.9658, -13.4791],
     name: { de: "Tambomachay", hu: "Tambomachay", ro: "Tambomachay", en: "Tambomachay"},
-    image: "/poi-images/tambomachay-landmarks-v2.webp",
     description: {
       de: "Eine archäologische Stätte der Inka, die als dem Wasser geweihtes Heiligtum oder Bäder des Inka diente.",
       hu: "Inka régészeti lelőhely, amely a víznek szentelt szentélyként vagy az inka fürdőjeként szolgált.",
@@ -24198,7 +24172,6 @@ export const poiExtraPeruLandmarksV2: POI[] = [
     parent: "PE-CUS",
     coords: [-71.9704, -13.5049],
     name: { de: "Q'enqo", hu: "Q'enqo", ro: "Q'enqo", en: "Q'enqo"},
-    image: "/poi-images/qenqo-landmarks-v2.webp",
     description: {
       de: "Eines der größten Heiligtümer der Inka-Region Cusco, bekannt für seine in den Kalksteinfelsen gehauenen Kanäle und Altäre.",
       hu: "A cuscói régió egyik legnagyobb inka szentélye, amely a mészkősziklába vájt csatornáiról és oltárairól ismert.",

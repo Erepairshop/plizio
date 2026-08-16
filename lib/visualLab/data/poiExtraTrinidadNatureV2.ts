@@ -44,7 +44,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT",
     coords: [-61.6667, 10.4167],
     name: { de: "Golf von Paria", hu: "Paria-öböl", ro: "Golful Paria", en: "Gulf of Paria"},
-    image: "/poi-images/tt-gulf-of-paria-nature-v2.webp",
     description: { de: "Ein großes, relativ flaches Binnenmeer zwischen Trinidad und dem venezolanischen Festland.", hu: "Nagy, viszonylag sekély beltenger Trinidad és a venezuelai szárazföld között.", ro: "O mare interioară mare, relativ puțin adâncă, între Trinidad și continentul venezuelean.", en: "A large, relatively shallow inland sea between Trinidad and the Venezuelan mainland." , es: "Un mar interior grande y relativamente plano entre Trinidad y el continente venezolano.", pt: "Um mar interior grande e relativamente plano entre Trinidad e o continente venezuelano.", fr: "Une grande mer intérieure relativement plate entre Trinité et le continent vénézuélien."},
     facts: {
       de: ["Geringer Salzgehalt durch Flussmündungen", "Wichtiger Lebensraum für Meereslebewesen", "Ruhigere Gewässer als der Atlantik"],
@@ -80,7 +79,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-SIP",
     coords: [-61.9, 10.07],
     name: { de: "Soldado Rock", hu: "Soldado Rock", ro: "Stânca Soldado", en: "Soldado Rock"},
-    image: "/poi-images/tt-soldado-rock-nature-v2.webp",
     description: { de: "Eine kleine Felseninsel im Golf von Paria, ein wichtiger Nistplatz für Seevögel.", hu: "Kis sziklasziget a Paria-öbölben, fontos fészkelőhely a tengeri madarak számára.", ro: "O mică insulă stâncoasă în Golful Paria, un important loc de cuibărit pentru păsările marine.", en: "A small rocky island in the Gulf of Paria, an important nesting site for seabirds." , es: "Una pequeña isla rocosa en el Golfo de Paria, un importante lugar de anidación para aves marinas.", pt: "Uma pequena ilha rochosa no Golfo de Paria, um importante local de nidificação para aves marinhas.", fr: "Une petite île rocheuse dans le golfe de Paria, un important lieu de nidification pour les oiseaux marins."},
     facts: {
       de: ["Vogelschutzgebiet", "Felsige, karge Landschaft", "Strategisch im Columbus Channel gelegen"],
@@ -116,7 +114,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.81, 11.17],
     name: { de: "Buccoo Marschland", hu: "Buccoo mocsárvidék", ro: "Mlaștina Buccoo", en: "Buccoo Marsh"},
-    image: "/poi-images/tt-buccoo-marsh-nature-v2.webp",
     description: { de: "Ein Mangrovenwald und Feuchtgebiet, das an das Buccoo Riff in Tobago angrenzt.", hu: "Mangroveerdő és vizes élőhely a tobagói Buccoo-zátony mellett.", ro: "O pădure de mangrove și o zonă umedă adiacentă recifului Buccoo din Tobago.", en: "A mangrove forest and wetland area adjacent to the Buccoo Reef in Tobago." , es: "Un bosque de manglares y humedal que linda con el arrecife Buccoo en Tobago.", pt: "Um bosque de mangais e zona húmida que faz fronteira com o recife de Buccoo em Tobago.", fr: "Une forêt de mangroves et zone humide bordant le récif de Buccoo à Tobago."},
     facts: {
       de: ["Teil des Buccoo Reef Marine Park", "Wichtige Kinderstube für Fische", "Filtert das Wasser, das zum Riff fließt"],
@@ -152,7 +149,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-DMN",
     coords: [-61.6, 10.67],
     name: { de: "Gasparee-Höhlen", hu: "Gasparee-barlangok", ro: "Peșterile Gasparee", en: "Gasparee Caves"},
-    image: "/poi-images/tt-gasparee-caves-nature-v2.webp",
     description: { de: "Ein Kalksteinhöhlensystem auf der Insel Gaspar Grande mit einem unterirdischen Pool.", hu: "Mészkőbarlangrendszer Gaspar Grande szigetén, egy földalatti medencével.", ro: "Un sistem de peșteri de calcar pe insula Gaspar Grande, cu o piscină subterană.", en: "A limestone cave system on Gaspar Grande island, featuring an underground pool." , es: "Un sistema de cuevas de piedra caliza en la isla de Gaspar Grande con una piscina subterránea.", pt: "Um sistema de cavernas de calcário na ilha de Gaspar Grande com uma piscina subterrânea.", fr: "Un système de grottes en calcaire sur l'île de Gaspar Grande doté d'une piscine souterraine."},
     facts: {
       de: ["Stalaktiten und Stalagmiten", "Klarer unterirdischer Gezeitenpool", "Auf einer der Bocas-Inseln gelegen"],
@@ -188,7 +184,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.6667, 11.25],
     name: { de: "Main Ridge Waldreservat", hu: "Main Ridge Erdőrezervátum", ro: "Rezervația forestieră Main Ridge", en: "Main Ridge Forest Reserve"},
-    image: "/poi-images/tt-main-ridge-forest-reserve-nature-v2.webp",
     description: { de: "Das älteste gesetzlich geschützte Waldreservat der westlichen Hemisphäre auf Tobago.", hu: "A nyugati félteke legrégebbi, törvény által védett erdőrezervátuma Tobagón.", ro: "Cea mai veche rezervație forestieră protejată legal din emisfera vestică, în Tobago.", en: "The oldest legally protected forest reserve in the Western Hemisphere, located on Tobago." , es: "La reserva forestal protegida legalmente más antigua del hemisferio occidental en Tobago.", pt: "A reserva florestal protegida legalmente mais antiga do hemisfério ocidental em Tobago.", fr: "La plus ancienne réserve forestière protégée légalement de l'hémisphère occidental, située à Tobago."},
     facts: {
       de: ["1776 unter Schutz gestellt", "Wichtiger Lebensraum für Vögel", "Das Rückgrat der Insel Tobago"],
@@ -224,7 +219,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-SGE",
     coords: [-61.1, 10.75],
     name: { de: "Oropouche-Fluss (Nord)", hu: "Oropouche-folyó (Észak)", ro: "Râul Oropouche (Nord)", en: "Oropouche River (North)"},
-    image: "/poi-images/tt-oropouche-river-nature-v2.webp",
     description: { de: "Ein Fluss im Nordosten von Trinidad, der bei Valencia entspringt und in den Atlantik mündet.", hu: "Folyó Trinidad északkeleti részén, amely Valencia közelében ered és az Atlanti-óceánba ömlik.", ro: "Un râu în nord-estul Trinidadului, care izvorăște lângă Valencia și se varsă în Atlantic.", en: "A river in northeastern Trinidad, rising near Valencia and flowing into the Atlantic." , es: "Un río en el noreste de Trinidad que nace cerca de Valencia y desemboca en el Atlántico.", pt: "Um rio no nordeste de Trinidad que nasce perto de Valencia e desagua no Atlântico.", fr: "Une rivière dans le nord-est de Trinidad qui prend sa source près de Valencia et se jette dans l'Atlantique."},
     facts: {
       de: ["Nicht zu verwechseln mit dem südlichen Oropouche", "Wichtige Entwässerung für die Region", "Fließt durch landwirtschaftliche Gebiete"],
@@ -260,7 +254,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-DMN",
     coords: [-61.75, 10.67],
     name: { de: "Chacachacare Insel", hu: "Chacachacare-sziget", ro: "Insula Chacachacare", en: "Chacachacare Island"},
-    image: "/poi-images/tt-chacachacare-island-nature-v2.webp",
     description: { de: "Die westlichste der Bocas-Inseln, einst eine Leprakolonie, heute unbewohnt.", hu: "A Bocas-szigetek legnyugatibb tagja, egykor lepratelep volt, ma lakatlan.", ro: "Cea mai vestică dintre insulele Bocas, odată o colonie de leproși, acum nelocuită.", en: "The westernmost of the Bocas Islands, once a leper colony, now uninhabited." , es: "La más occidental de las islas Bocas, una vez colonia de leprosos, hoy deshabitada.", pt: "A mais ocidental das ilhas Bocas, outrora uma colónia de leprosos, hoje desabitada.", fr: "La plus occidentale des îles Bocas, autrefois colonie de lépreux, aujourd'hui inhabitée."},
     facts: {
       de: ["Trockenwald-Ökosystem", "Historische Ruinen und Leuchtturm", "Salzwassersee (Sulphur Bay)"],
@@ -296,7 +289,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-SGE",
     coords: [-61.1, 10.72],
     name: { de: "Morne Catherine", hu: "Morne Catherine", ro: "Morne Catherine", en: "Morne Catherine"},
-    image: "/poi-images/tt-morne-catherine-nature-v2.webp",
     description: { de: "Ein bemerkenswerter Gipfel im östlichen Teil der Northern Range.", hu: "Jelentős csúcs az Északi-hegység keleti részén.", ro: "Un vârf notabil în partea de est a Northern Range.", en: "A notable peak in the eastern part of the Northern Range." , es: "Un pico notable en la parte oriental de la Northern Range.", pt: "Um pico notável na parte oriental da Northern Range.", fr: "Un sommet remarquable dans la partie orientale de la Northern Range."},
     facts: {
       de: ["Auch als Prizgar-Gipfel bekannt", "Bietet Ausblicke auf die Ostküste", "Teil eines ausgedehnten Waldgebiets"],
@@ -332,7 +324,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-SIP",
     coords: [-61.85, 10.06],
     name: { de: "Columbus-Bucht", hu: "Kolumbusz-öböl", ro: "Golful Columb", en: "Columbus Bay"},
-    image: "/poi-images/tt-columbus-bay-nature-v2.webp",
     description: { de: "Eine Bucht an der Südwestspitze von Trinidad, wo Christoph Kolumbus 1498 gelandet sein soll.", hu: "Öböl Trinidad délnyugati csücskénél, ahol állítólag Kolumbusz Kristóf partra szállt 1498-ban.", ro: "Un golf la vârful de sud-vest al Trinidadului, unde se spune că a debarcat Cristofor Columb în 1498.", en: "A bay on the southwestern tip of Trinidad, where Christopher Columbus is said to have landed in 1498." , es: "Una bahía en el extremo suroeste de Trinidad, donde se dice que desembarcó Cristóbal Colón en 1498.", pt: "Uma baía no extremo sudoeste de Trinidad, onde se diz que Cristóvão Colombo desembarcou em 1498.", fr: "Une baie à la pointe sud-ouest de Trinidad, où Christophe Colomb aurait débarqué en 1498."},
     facts: {
       de: ["Historischer Landeplatz", "Sandstrände und Kokospalmen", "Blick auf den Columbus Channel"],
@@ -368,7 +359,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-TUP",
     coords: [-61.26, 10.67],
     name: { de: "Hollis-Stausee", hu: "Hollis-víztározó", ro: "Rezervorul Hollis", en: "Hollis Reservoir"},
-    image: "/poi-images/tt-hollis-reservoir-nature-v2.webp",
     description: { de: "Trinidads ältester Stausee, umgeben von Wald in der Northern Range.", hu: "Trinidad legrégebbi víztározója, amelyet erdő vesz körül az Északi-hegységben.", ro: "Cel mai vechi rezervor din Trinidad, înconjurat de pădure în Northern Range.", en: "Trinidad's oldest reservoir, surrounded by forest in the Northern Range." , es: "El embalse más antiguo de Trinidad, rodeado de bosque en la Northern Range.", pt: "O reservatório mais antigo de Trinidad, rodeado por floresta na Northern Range.", fr: "Le plus ancien réservoir de Trinité, entouré de forêt dans la Northern Range."},
     facts: {
       de: ["1936 erbaut", "Wichtige Wasserquelle", "Beliebtes Angel- und Wandergebiet"],
@@ -404,7 +394,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-PRT",
     coords: [-61.16, 10.08],
     name: { de: "Trinity Hills Wildschutzgebiet", hu: "Trinity Hills Vadvédelmi Terület", ro: "Sanctuarul de faună sălbatică Trinity Hills", en: "Trinity Hills Wildlife Sanctuary"},
-    image: "/poi-images/tt-trinity-hills-wildlife-sanctuary-nature-v2.webp",
     description: { de: "Ein großes, hügeliges Waldschutzgebiet im Südosten Trinidads.", hu: "Nagy, dombos erdővédelmi terület Trinidad délkeleti részén.", ro: "O mare rezervație forestieră deluroasă în sud-estul Trinidadului.", en: "A large, hilly forested sanctuary in southeastern Trinidad." , es: "Una gran reserva forestal montañosa en el sureste de Trinidad.", pt: "Uma grande reserva florestal montanhosa no sudeste de Trinidad.", fr: "Une grande réserve forestière vallonnée dans le sud-est de Trinidad."},
     facts: {
       de: ["Schützt eine vielfältige Fauna, einschließlich Ozelots", "Wichtige Wasserscheide", "Hügeliges Gelände"],
@@ -440,7 +429,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-PED",
     coords: [-61.5, 10.22],
     name: { de: "Godineau-Fluss", hu: "Godineau-folyó", ro: "Râul Godineau", en: "Godineau River"},
-    image: "/poi-images/tt-godineau-river-nature-v2.webp",
     description: { de: "Ein Fluss im Südwesten Trinidads, der durch die Oropouche-Lagune fließt.", hu: "Folyó Trinidad délnyugati részén, amely az Oropouche-lagúnán keresztül folyik.", ro: "Un râu în sud-vestul Trinidadului, care curge prin laguna Oropouche.", en: "A river in southwestern Trinidad that flows through the Oropouche Lagoon." , es: "Un río en el suroeste de Trinidad que fluye a través de la laguna Oropouche.", pt: "Um rio no sudoeste de Trinidad que flui através da lagoa Oropouche.", fr: "Une rivière dans le sud-ouest de Trinité qui traverse la lagune d'Oropouche."},
     facts: {
       de: ["Mündet in den Golf von Paria", "Wichtig für die Entwässerung des Tieflandes", "Unterstützt Mangroven-Ökosysteme"],
@@ -474,7 +462,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-SIP",
     coords: [-61.55, 10.22],
     name: { de: "Aripero-Savannen", hu: "Aripero-szavannák", ro: "Savanele Aripero", en: "Aripero Savannas"},
-    image: "/poi-images/tt-aripero-savannas-nature-v2.webp",
     description: { de: "Ein einzigartiges Savannen-Ökosystem auf weißen Sandböden in Süd-Trinidad.", hu: "Egyedülálló szavanna ökoszisztéma fehér homokos talajon Dél-Trinidadban.", ro: "Un ecosistem unic de savană pe soluri de nisip alb în sudul Trinidadului.", en: "A unique savanna ecosystem on white sand soils in southern Trinidad." , es: "Un ecosistema de sabana único sobre suelos de arena blanca en el sur de Trinidad.", pt: "Um ecossistema de savana único em solos de areia branca no sul de Trinidad.", fr: "Un écosystème de savane unique sur des sols de sable blanc dans le sud de Trinidad."},
     facts: {
       de: ["Wissenschaftlich interessantes Gebiet", "Seltene Pflanzenarten", "Gefährdeter Lebensraum"],
@@ -546,7 +533,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-SGE",
     coords: [-61.22, 10.5],
     name: { de: "Tamana Berg", hu: "Tamana-hegy", ro: "Muntele Tamana", en: "Tamana Mountain"},
-    image: "/poi-images/tt-tamana-mountain-nature-v2.webp",
     description: { de: "Ein Berg in der Central Range, berühmt für seine Fledermaushöhlen.", hu: "Hegy a Központi-hegységben, amely denevérbarlangjairól híres.", ro: "Un munte în Central Range, renumit pentru peșterile sale cu lilieci.", en: "A mountain in the Central Range famous for its bat caves." , es: "Una montaña en la Cordillera Central, famosa por sus cuevas de murciélagos.", pt: "Uma montanha na Cordilheira Central, famosa pelas suas cavernas de morcegos.", fr: "Une montagne dans la chaîne centrale, célèbre pour ses grottes à chauves-souris."},
     facts: {
       de: ["Größte Fledermauskolonie in Trinidad", "Beherbergt Millionen von Fledermäusen", "Spektakulärer Ausflug der Fledermäuse bei Dämmerung"],
@@ -618,7 +604,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-SGE",
     coords: [-61.07, 10.6],
     name: { de: "Fishing Pond", hu: "Fishing Pond", ro: "Balta de pescuit", en: "Fishing Pond"},
-    image: "/poi-images/tt-fishing-pond-nature-v2.webp",
     description: { de: "Ein Süßwasser-Feuchtgebiet und Lagunensystem im Nordosten Trinidads.", hu: "Édesvízi vizes élőhely és lagúnarendszer Trinidad északkeleti részén.", ro: "O zonă umedă de apă dulce și un sistem lagunar în nord-estul Trinidadului.", en: "A freshwater wetland and lagoon system in northeastern Trinidad." , es: "Un humedal de agua dulce y sistema de lagunas en el noreste de Trinidad.", pt: "Uma zona húmida de água doce e sistema de lagoas no nordeste de Trinidad.", fr: "Une zone humide d'eau douce et système de lagunes dans le nord-est de Trinidad."},
     facts: {
       de: ["Wichtiger Lebensraum für Wasservögel", "Mischung aus Sumpf und Lagune", "Unterstützt eine vielfältige Aquafauna"],
@@ -654,7 +639,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.52, 11.35],
     name: { de: "St. Giles Inseln", hu: "St. Giles-szigetek", ro: "Insulele St. Giles", en: "St. Giles Islands"},
-    image: "/poi-images/tt-st-giles-islands-nature-v2.webp",
     description: { de: "Eine Gruppe kleiner, felsiger Inseln vor der Nordostspitze von Tobago.", hu: "Kis, sziklás szigetek csoportja Tobago északkeleti csücskénél.", ro: "Un grup de insule mici și stâncoase în largul vârfului de nord-est al Tobago.", en: "A group of small, rocky islands off the northeastern tip of Tobago." , es: "Un grupo de pequeñas islas rocosas frente a la punta noreste de Tobago.", pt: "Um grupo de pequenas ilhas rochosas ao largo da ponta nordeste de Tobago.", fr: "Un groupe de petites îles rocheuses au large de la pointe nord-est de Tobago."},
     facts: {
       de: ["Wichtiger Nistplatz für Seevögel", "Dramatische Felsformationen", "Starke Meeresströmungen umgeben die Inseln"],
@@ -690,7 +674,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-CTT",
     coords: [-61.42, 10.48],
     name: { de: "Caparo-Fluss", hu: "Caparo-folyó", ro: "Râul Caparo", en: "Caparo River"},
-    image: "/poi-images/tt-caparo-river-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss in Zentral-Trinidad, der in den Golf von Paria mündet.", hu: "Jelentős folyó Közép-Trinidadban, amely a Paria-öbölbe ömlik.", ro: "Un râu semnificativ în centrul Trinidadului, care se varsă în Golful Paria.", en: "A significant river in central Trinidad, flowing into the Gulf of Paria." , es: "Un importante río en el centro de Trinidad que desemboca en el Golfo de Paria.", pt: "Um rio importante no centro de Trinidad que desagua no Golfo de Paria.", fr: "Une rivière importante dans le centre de Trinidad qui se jette dans le golfe de Paria."},
     facts: {
       de: ["Fließt durch landwirtschaftliche Gebiete", "Beeinflusst durch Gezeiten in seinem Unterlauf", "Wichtig für die lokale Entwässerung"],
@@ -726,7 +709,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-DMN",
     coords: [-61.6, 10.66],
     name: { de: "Cronstadt Insel", hu: "Cronstadt-sziget", ro: "Insula Cronstadt", en: "Cronstadt Island"},
-    image: "/poi-images/tt-cronstadt-island-nature-v2.webp",
     description: { de: "Eine der Bocas-Inseln in der Nähe von Chaguaramas, auch bekannt als Begorrat Island.", hu: "A Bocas-szigetek egyike Chaguaramas közelében, más néven Begorrat-sziget.", ro: "Una dintre Insulele Bocas, lângă Chaguaramas, cunoscută și sub numele de Insula Begorrat.", en: "One of the Bocas Islands near Chaguaramas, also known as Begorrat Island." , es: "Una de las islas Bocas cerca de Chaguaramas, también conocida como Isla Begorrat.", pt: "Uma das ilhas Bocas perto de Chaguaramas, também conhecida como Ilha Begorrat.", fr: "L'une des îles Bocas près de Chaguaramas, également connue sous le nom d'île Begorrat."},
     facts: {
       de: ["Historisch als Quarantänestation genutzt", "Trockenwaldvegetation", "Private Residenzen"],
@@ -798,7 +780,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-PRT",
     coords: [-61.28, 10.08],
     name: { de: "Moruga-Fluss", hu: "Moruga-folyó", ro: "Râul Moruga", en: "Moruga River"},
-    image: "/poi-images/tt-moruga-river-nature-v2.webp",
     description: { de: "Ein Fluss an der Südküste Trinidads, der bei dem historischen Dorf Moruga ins Meer mündet.", hu: "Folyó Trinidad déli partján, amely a történelmi Moruga falu közelében ömlik a tengerbe.", ro: "Un râu pe coasta de sud a Trinidadului, care se varsă în mare lângă satul istoric Moruga.", en: "A river on the south coast of Trinidad, emptying into the sea near the historic village of Moruga." , es: "Un río en la costa sur de Trinidad que desemboca en el mar en el histórico pueblo de Moruga.", pt: "Um rio na costa sul de Trinidad que desagua no mar na histórica vila de Moruga.", fr: "Une rivière sur la côte sud de Trinité qui se jette dans la mer au niveau du village historique de Moruga."},
     facts: {
       de: ["Mündet in den Columbus Channel", "Unterstützt lokale Fischergemeinden", "Entwässert Teile der Southern Range"],
@@ -834,7 +815,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-SJL",
     coords: [-61.1, 10.79],
     name: { de: "Paria-Wasserfälle", hu: "Paria-vízesés", ro: "Cascada Paria", en: "Paria Falls"},
-    image: "/poi-images/tt-paria-falls-nature-v2.webp",
     description: { de: "Ein abgelegener Wasserfall und ein tiefes Becken am Ende einer Wanderung entlang der Nordküste.", hu: "Félreeső vízesés és mély medence egy túra végén az északi part mentén.", ro: "O cascadă izolată și o piscină adâncă la capătul unei drumeții pe coasta de nord.", en: "A secluded waterfall and deep plunge pool at the end of a hike along the north coast." , es: "Una cascada remota y una cuenca profunda al final de una caminata a lo largo de la costa norte.", pt: "Uma cascata remota e uma bacia profunda no final de uma caminhada ao longo da costa norte.", fr: "Une cascade isolée et un bassin profond au bout d'une randonnée le long de la côte nord."},
     facts: {
       de: ["Erreichbar über einen Küstenwanderweg", "Mündet in die Paria Bay", "Umgeben von unberührtem Regenwald"],
@@ -870,7 +850,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-PTF",
     coords: [-61.65, 10.2],
     name: { de: "Guapo-Bucht", hu: "Guapo-öböl", ro: "Golful Guapo", en: "Guapo Bay"},
-    image: "/poi-images/tt-guapo-bay-nature-v2.webp",
     description: { de: "Eine Bucht im Südwesten Trinidads, die an das Ölfeld von Point Fortin angrenzt.", hu: "Öböl Trinidad délnyugati részén, a Point Fortin-i olajmező mellett.", ro: "Un golf în sud-vestul Trinidadului, adiacent câmpului petrolier Point Fortin.", en: "A bay in southwestern Trinidad, adjacent to the Point Fortin oilfield." , es: "Una bahía en el suroeste de Trinidad que limita con el campo petrolífero de Point Fortin.", pt: "Uma baía no sudoeste de Trinidad que faz fronteira com o campo petrolífero de Point Fortin.", fr: "Une baie dans le sud-ouest de Trinité qui borde le champ pétrolifère de Point Fortin."},
     facts: {
       de: ["Küste der Ölindustrie", "Blick auf Offshore-Plattformen", "Mischung aus Industrie und Natur"],
@@ -906,7 +885,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-CTT",
     coords: [-61.26, 10.37],
     name: { de: "Navet-Damm", hu: "Navet-gát", ro: "Barajul Navet", en: "Navet Dam"},
-    image: "/poi-images/tt-navet-dam-nature-v2.webp",
     description: { de: "Ein großer Stausee in Zentral-Trinidad, eine wichtige Wasserquelle für die Region.", hu: "Nagy víztározó Közép-Trinidadban, fontos vízforrás a régió számára.", ro: "Un mare rezervor în centrul Trinidadului, o sursă importantă de apă pentru regiune.", en: "A large reservoir in central Trinidad, an important water source for the region." , es: "Un gran embalse en el centro de Trinidad, una fuente de agua importante para la región.", pt: "Uma grande barragem no centro de Trinidad, uma importante fonte de água para a região.", fr: "Un grand réservoir dans le centre de Trinidad, une source d'eau importante pour la région."},
     facts: {
       de: ["Einer der größten Stauseen des Landes", "Umgeben von Wald und landwirtschaftlichen Flächen", "Versorgt einen großen Teil von Trinidad mit Wasser"],
@@ -942,7 +920,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-SGE",
     coords: [-61.02, 10.82],
     name: { de: "Sans Souci Bucht", hu: "Sans Souci-öböl", ro: "Golful Sans Souci", en: "Sans Souci Bay"},
-    image: "/poi-images/tt-sans-souci-bay-nature-v2.webp",
     description: { de: "Eine malerische Bucht an der Nordküste, die bei Surfern beliebt ist.", hu: "Festői öböl az északi parton, amely népszerű a szörfösök körében.", ro: "Un golf pitoresc pe coasta de nord, popular printre surferi.", en: "A picturesque bay on the north coast, popular with surfers." , es: "Una bahía pintoresca en la costa norte, popular entre los surfistas.", pt: "Uma baía pitoresca na costa norte, popular entre os surfistas.", fr: "Une baie pittoresque sur la côte nord, appréciée des surfeurs."},
     facts: {
       de: ["Bekannt für gute Surfbedingungen", "Felsige Landzungen und Sandstrand", "Abgelegenes Dorf an der Küste"],
@@ -978,7 +955,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT",
     coords: [-60.75, 10.95],
     name: { de: "Galleons Passage", hu: "Galleons-átjáró", ro: "Pasajul Galleons", en: "Galleons Passage"},
-    image: "/poi-images/tt-galleons-passage-nature-v2.webp",
     description: { de: "Die Meerespassage, die die Inseln Trinidad und Tobago trennt.", hu: "A tengeri átjáró, amely elválasztja Trinidad és Tobago szigetét.", ro: "Pasajul maritim care separă insulele Trinidad și Tobago.", en: "The channel of sea that separates the islands of Trinidad and Tobago." , es: "El pasaje marítimo que separa las islas de Trinidad y Tobago.", pt: "A passagem marítima que separa as ilhas de Trinidad e Tobago.", fr: "Le passage maritime qui sépare les îles de Trinidad et Tobago."},
     facts: {
       de: ["Ungefähr 30 km breit", "Kann raue Seebedingungen haben", "Wichtige Schifffahrtsroute"],
@@ -1014,7 +990,6 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     parent: "TT-DMN",
     coords: [-61.55, 10.77],
     name: { de: "Saut d'Eau Insel", hu: "Saut d'Eau-sziget", ro: "Insula Saut d'Eau", en: "Saut d'Eau Island"},
-    image: "/poi-images/tt-saut-d-eau-island-nature-v2.webp",
     description: { de: "Eine kleine, bewaldete Insel vor der Nordküste Trinidads, ein Wildschutzgebiet.", hu: "Kis, erdős sziget Trinidad északi partjainál, vadvédelmi terület.", ro: "O mică insulă împădurită în largul coastei de nord a Trinidadului, un sanctuar pentru animale sălbatice.", en: "A small, forested island off the north coast of Trinidad, a wildlife sanctuary." , es: "Una pequeña isla boscosa frente a la costa norte de Trinidad, una reserva natural.", pt: "Uma pequena ilha arborizada ao largo da costa norte de Trinidad, uma reserva natural.", fr: "Une petite île boisée au large de la côte nord de Trinidad, une réserve naturelle."},
     facts: {
       de: ["Schutzgebiet für Pelikane und andere Seevögel", "Unbewohnt", "Bedeutet 'Wasserfall' auf Französisch"],

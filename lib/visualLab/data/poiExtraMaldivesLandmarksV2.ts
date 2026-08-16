@@ -8,7 +8,6 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     parent: "MV-XX",
     coords: [73.5119, 4.1772],
     name: { de: "Freitagsmoschee von Malé", hu: "Malé Péntek-mecset", ro: "Moscheea de Vineri din Malé", en: "Malé Friday Mosque"},
-    image: "/poi-images/male-friday-mosque-landmarks-v2.webp",
     description: { de: "Die älteste Moschee der Malediven, aus Korallenstein mit kunstvollen Schnitzereien erbaut.", hu: "A Maldív-szigetek legrégebbi mecsete, amelyet korallkőből építettek, és bonyolult faragások díszítik.", ro: "Cea mai veche moschee din Maldive, construită din piatră de coral cu sculpturi complicate.", en: "The oldest mosque in the Maldives, built from coral stone with intricate carvings." , es: "La mezquita más antigua de las Maldivas, construida en piedra de coral con tallas artísticas.", pt: "A mesquita mais antiga das Maldivas, construída em pedra de coral com esculturas artísticas.", fr: "La plus ancienne mosquée des Maldives, construite en pierre de corail avec des sculptures élaborées."},
     facts: {
       de: ["Erbaut im Jahr 1658.", "Steht auf der UNESCO-Welterbe-Vorschlagsliste."],
@@ -89,7 +88,6 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     parent: "MV-XX",
     coords: [73.5118, 4.1774],
     name: { de: "Muleeaage", hu: "Muleeaage", ro: "Muleeaage", en: "Muleeaage"},
-    image: "/poi-images/muleeaage-landmarks-v2.webp",
     description: { de: "Der offizielle Wohnsitz des Präsidenten der Malediven, bekannt für seine koloniale Architektur im Zentrum von Malé.", hu: "A Maldív-szigetek elnökének hivatalos rezidenciája, amely gyarmati stílusú építészetéről ismert Malé központjában.", ro: "Reședința oficială a președintelui Maldivelor, cunoscută pentru arhitectura sa colonială din centrul orașului Malé.", en: "The official residence of the President of the Maldives, known for its colonial architecture in the center of Malé." , es: "La residencia oficial del presidente de las Maldivas, conocida por su arquitectura colonial en el centro de Malé.", pt: "A residência oficial do presidente das Maldivas, conhecida pela sua arquitetura colonial no centro de Malé.", fr: "La résidence officielle du président des Maldives, connue pour son architecture coloniale au centre de Malé."},
     facts: {
       de: ["Erbaut im frühen 20. Jahrhundert.", "Diente ursprünglich als Palast für den Sultan."],
@@ -170,7 +168,6 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     parent: "MV-XX",
     coords: [73.5097, 4.1778],
     name: { de: "Nationalmuseum der Malediven", hu: "Maldív-szigeteki Nemzeti Múzeum", ro: "Muzeul Național al Maldivelor", en: "Maldives National Museum"},
-    image: "/poi-images/maldives-national-museum-landmarks-v2.webp",
     description: { de: "Ein Museum, das die reiche Geschichte des Inselstaates mit königlichen Antiquitäten und buddhistischen Artefakten bewahrt.", hu: "A szigetország gazdag történelmét bemutató múzeum, amely királyi régiségeket és buddhista leleteket is őriz.", ro: "Un muzeu care păstrează istoria bogată a națiunii insulare, expunând antichități regale și artefacte budiste.", en: "A museum preserving the rich history of the island nation, featuring royal antiquities and Buddhist artifacts." , es: "Un museo que preserva la rica historia de la nación insular con antigüedades reales y artefactos budistas.", pt: "Um museu que preserva a rica história da nação insular com antiguidades reais e artefactos budistas.", fr: "Un musée qui préserve la riche histoire de l'État insulaire avec des antiquités royales et des objets bouddhistes."},
     facts: {
       de: ["Wurde 1952 eröffnet.", "Befindet sich im ehemaligen Sultan-Park."],
@@ -287,7 +284,6 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     parent: "MV-XX",
     coords: [73.5050, 4.1717],
     name: { de: "Tsunami-Denkmal", hu: "Cunami-emlékmű", ro: "Monumentul Tsunami", en: "Tsunami Monument"},
-    image: "/poi-images/tsunami-monument-landmarks-v2.webp",
     description: { de: "Ein Gedenkbauwerk in Malé zu Ehren der Opfer des verheerenden Erdbebens und Tsunamis im Indischen Ozean von 2004.", hu: "Emlékmű Malé városában, amelyet a 2004-es pusztító indiai-óceáni földrengés és szökőár áldozatainak tiszteletére emeltek.", ro: "Un monument în Malé dedicat victimelor cutremurului și tsunamiului devastator din Oceanul Indian din 2004.", en: "A memorial structure in Malé honoring the victims of the devastating 2004 Indian Ocean earthquake and tsunami." , es: "Una estructura conmemorativa en Malé en honor a las víctimas del devastador terremoto y tsunami del océano Índico de 2004.", pt: "Uma estrutura memorial em Malé em honra das vítimas do devastador terramoto e tsunami do Oceano Índico de 2004.", fr: "Un monument commémoratif à Malé en l'honneur des victimes du tremblement de terre et du tsunami dévastateurs de l'océan Indien en 2004."},
     facts: {
       de: ["Die Stahlkugeln repräsentieren die betroffenen Atolle.", "Das Design symbolisiert die aufsteigenden Wellen."],
@@ -368,7 +364,6 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     parent: "MV-XX",
     coords: [73.5235, 4.1751],
     name: { de: "Sinamalé-Brücke", hu: "Sinamalé híd", ro: "Podul Sinamalé", en: "Sinamalé Bridge"},
-    image: "/poi-images/sinamale-bridge-landmarks-v2.webp",
     description: { de: "Eine ikonische Brücke, die die Hauptstadt Malé mit der Flughafeninsel Hulhulé verbindet und als Wunderwerk der Ingenieurskunst gilt.", hu: "Egy ikonikus híd, amely összeköti a fővárost, Malét a repülőtér szigetével, Hulhuléval, és mérnöki csodának számít.", ro: "Un pod iconic care leagă capitala Malé de insula aeroportului Hulhulé, fiind considerat o minune inginerească.", en: "An iconic bridge connecting the capital Malé to the airport island of Hulhulé, considered an engineering marvel." , es: "Un puente icónico que conecta la capital, Malé, con la isla del aeropuerto, Hulhulé, y se considera una maravilla de la ingeniería.", pt: "Uma ponte icónica que liga a capital Malé à ilha do aeroporto Hulhulé e é considerada uma maravilha da engenharia.", fr: "Un pont emblématique qui relie la capitale Malé à l'île de l'aéroport Hulhulé, considéré comme une merveille d'ingénierie."},
     facts: {
       de: ["Wurde im Jahr 2018 eröffnet.", "Sie ist zwei Kilometer lang."],
@@ -404,7 +399,6 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     parent: "MV-XX",
     coords: [73.5103, 4.1780],
     name: { de: "Freitagsmoschee (Islamisches Zentrum)", hu: "Nagymecset (Iszlám Központ)", ro: "Marea Moschee de Vineri", en: "Grand Friday Mosque"},
-    image: "/poi-images/grand-friday-mosque-landmarks-v2.webp",
     description: { de: "Das markanteste architektonische Wahrzeichen der Stadt mit einer goldenen Kuppel, die die Skyline von Malé dominiert.", hu: "A város legszembetűnőbb építészeti nevezetessége, amelynek aranykupolája uralja Malé látképét.", ro: "Cel mai proeminent reper arhitectural al orașului, având o cupolă aurie care domină orizontul din Malé.", en: "The city's most prominent architectural landmark, featuring a golden dome that dominates the Malé skyline." , es: "El hito arquitectónico más distintivo de la ciudad, con una cúpula dorada que domina el horizonte de Malé.", pt: "O marco arquitetónico mais marcante da cidade, com uma cúpula dourada que domina o horizonte de Malé.", fr: "Le monument architectural le plus emblématique de la ville, avec un dôme doré qui domine l'horizon de Malé."},
     facts: {
       de: ["Die Moschee fasst über 5000 Gläubige.", "Wurde 1984 eingeweiht."],
@@ -485,7 +479,6 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     parent: "MV-XX",
     coords: [73.5101, 4.1779],
     name: { de: "Siegesdenkmal von Malé", hu: "Győzelem emlékmű", ro: "Monumentul Victoriei", en: "Victory Monument"},
-    image: "/poi-images/victory-monument-landmarks-v2.webp",
     description: { de: "Ein bedeutendes Denkmal, das an den Sieg über ausländische Söldner beim Putschversuch von 1988 erinnert.", hu: "Jelentős emlékmű, amely az 1988-as puccskísérlet során a külföldi zsoldosok felett aratott győzelemnek állít emléket.", ro: "Un monument semnificativ care comemorează victoria asupra mercenarilor străini în timpul încercării de lovitură de stat din 1988.", en: "A significant monument commemorating the victory over foreign mercenaries during the 1988 coup attempt." , es: "Un monumento significativo que conmemora la victoria sobre mercenarios extranjeros durante el intento de golpe de estado de 1988.", pt: "Um monumento significativo que comemora a vitória sobre mercenários estrangeiros na tentativa de golpe de 1988.", fr: "Un monument important commémorant la victoire contre des mercenaires étrangers lors de la tentative de coup d'État de 1988."},
     facts: {
       de: ["Die weiße Farbe symbolisiert Frieden.", "Befindet sich in der Nähe des Republikplatzes."],
@@ -683,7 +676,6 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     parent: "MV-XX",
     coords: [73.5100, 4.1775],
     name: { de: "Sultan-Park (Rasrani Bageecha)", hu: "Szultán Park (Rasrani Bageecha)", ro: "Parcul Sultanului", en: "Sultan Park"},
-    image: "/poi-images/sultan-park-landmarks-v2.webp",
     description: { de: "Ein üppiger grüner Park im Herzen von Malé, der auf dem Gelände des ehemaligen königlichen Palastes errichtet wurde.", hu: "Egy buja zöld park Malé szívében, amelyet a korábbi királyi palota területén hoztak létre.", ro: "Un parc verde luxuriant în inima orașului Malé, construit pe fosta locație a palatului regal.", en: "A lush green park in the heart of Malé, built on the grounds of the former royal palace." , es: "Un exuberante parque verde en el corazón de Malé, construido en el recinto del antiguo palacio real.", pt: "Um exuberante parque verde no coração de Malé, construído no terreno do antigo palácio real.", fr: "Un parc verdoyant luxuriant au cœur de Malé, aménagé sur le site de l'ancien palais royal."},
     facts: {
       de: ["Kürzlich in Rasrani Bageecha umbenannt.", "Beherbergt viele tropische Baumarten."],
@@ -881,7 +873,6 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     parent: "MV-XX",
     coords: [73.5117, 4.1773],
     name: { de: "Medhu Ziyaaraiy-Schrein", hu: "Medhu Ziyaaraiy szentély", ro: "Altarul Medhu Ziyaaraiy", en: "Medhu Ziyaaraiy Shrine"},
-    image: "/poi-images/medhu-ziyaaraiy-landmarks-v2.webp",
     description: { de: "Das Grab des marokkanischen Gelehrten, der im Jahr 1153 den Islam auf die Malediven brachte.", hu: "Annak a marokkói tudósnak a sírja, aki 1153-ban elhozta az iszlám vallást a Maldív-szigetekre.", ro: "Mormântul eruditului marocan care a adus islamul în Maldive în anul 1153.", en: "The tomb of the Moroccan scholar who introduced Islam to the Maldives in the year 1153." , es: "La tumba del erudito marroquí que trajo el Islam a las Maldivas en el año 1153.", pt: "O túmulo do estudioso marroquino que trouxe o Islão para as Maldivas no ano de 1153.", fr: "Le tombeau de l'érudit marocain qui a apporté l'islam aux Maldives en l'an 1153."},
     facts: {
       de: ["Ein wichtiger Wallfahrtsort in Malé.", "Liegt in der Nähe der alten Freitagsmoschee."],
@@ -1286,7 +1277,6 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     parent: "MV-XX",
     coords: [73.1119, 5.1706],
     name: { de: "Hanifaru-Bucht", hu: "Hanifaru-öböl", ro: "Golful Hanifaru", en: "Hanifaru Bay"},
-    image: "/poi-images/hanifaru-bay-landmarks-v2.webp",
     description: { de: "Ein legendäres Meeresschutzgebiet, das für riesige Ansammlungen von Mantarochen und Walhaien weltberühmt ist.", hu: "Legendás tengeri védett terület, amely világszerte híres a hatalmas ördögrája- és cetcápa-csapatokról.", ro: "O arie marină protejată legendară, renumită la nivel mondial pentru aglomerările masive de diavoli de mare și rechini-balenă.", en: "A legendary marine protected area world-famous for massive gatherings of manta rays and whale sharks." , es: "Una legendaria área marina protegida, mundialmente famosa por las enormes concentraciones de mantarrayas y tiburones ballena.", pt: "Uma lendária área marinha protegida, mundialmente famosa pelas enormes concentrações de raias-manta e tubarões-baleia.", fr: "Une zone marine protégée légendaire, mondialement connue pour ses énormes rassemblements de raies manta et de requins-baleines."},
     facts: {
       de: ["Teil eines UNESCO-Biosphärenreservats.", "Die beste Besuchszeit ist von Mai bis November."],
@@ -1709,7 +1699,6 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     parent: "MV-XX",
     coords: [72.7161, 3.6175],
     name: { de: "Ithaa Unterwasser-Restaurant", hu: "Ithaa Vízalatti Étterem", ro: "Restaurantul Subacvatic Ithaa", en: "Ithaa Undersea Restaurant"},
-    image: "/poi-images/ithaa-undersea-restaurant-landmarks-v2.webp",
     description: { de: "Das erste vollständig verglaste Unterwasser-Restaurant der Welt, das einen Panoramablick auf die farbenfrohe Meereswelt bietet.", hu: "A világ első, teljesen üvegezett vízalatti étterme, amely panorámás kilátást nyújt a színes tengeri élővilágra.", ro: "Primul restaurant subacvatic complet vitrat din lume, oferind o vedere panoramică asupra vieții marine colorate.", en: "The world's first all-glass undersea restaurant, offering panoramic views of vibrant marine life." , es: "El primer restaurante submarino del mundo totalmente acristalado, que ofrece una vista panorámica del colorido mundo marino.", pt: "O primeiro restaurante subaquático totalmente envidraçado do mundo, que oferece uma vista panorâmica do colorido mundo marinho.", fr: "Le premier restaurant sous-marin au monde entièrement vitré, offrant une vue panoramique sur le monde marin coloré."},
     facts: {
       de: ["Liegt fünf Meter unter dem Meeresspiegel.", "Wurde auf der Insel Rangali gebaut."],
@@ -1970,7 +1959,6 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     parent: "MV-XX",
     coords: [73.5606, 4.3006],
     name: { de: "HP Reef", hu: "HP Zátony (HP Reef)", ro: "Reciful HP", en: "HP Reef"},
-    image: "/poi-images/hp-reef-landmarks-v2.webp",
     description: { de: "Ein spektakulärer Meerespark im Nord-Malé-Atoll, der für seine weichen, leuchtenden Korallen und extrem starken Strömungen berühmt ist.", hu: "Egy látványos tengeri park az Észak-Malé atollban, amely lágy, élénk színű koralljairól és rendkívül erős áramlatairól ismert.", ro: "Un parc marin spectaculos în Atolul Malé Nord, faimos pentru coralii săi moi și strălucitori și pentru curenții extrem de puternici.", en: "A spectacular marine park in the North Malé Atoll, famous for its soft, vividly colored corals and extremely strong currents." , es: "Un espectacular parque marino en el atolón Malé Norte, famoso por sus corales blandos y brillantes y corrientes extremadamente fuertes.", pt: "Um espetacular parque marinho no Atol Malé Norte, famoso pelos seus corais macios e brilhantes e correntes extremamente fortes.", fr: "Un parc marin spectaculaire dans l'atoll de Malé Nord, célèbre pour ses coraux mous et lumineux et ses courants extrêmement forts."},
     facts: {
       de: ["Wird wegen seiner Farben auch „Rainbow Reef“ genannt.", "Ein Paradies für erfahrene Taucher."],
@@ -2195,7 +2183,6 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     parent: "MV-XX",
     coords: [73.4883, 3.9439],
     name: { de: "Bikini Beach (Maafushi)", hu: "Bikini Beach (Maafushi)", ro: "Plaja Bikini (Maafushi)", en: "Bikini Beach (Maafushi)"},
-    image: "/poi-images/bikini-beach-maafushi-landmarks-v2.webp",
     description: { de: "Einer der berühmtesten öffentlichen Strände der Malediven, an dem Touristen in Bademode entspannen dürfen, was auf lokalen Inseln selten ist.", hu: "A Maldív-szigetek egyik leghíresebb nyilvános strandja, ahol a turisták fürdőruhában pihenhetnek, ami a lakott szigeteken ritkaság.", ro: "Una dintre cele mai faimoase plaje publice din Maldive unde turiștii se pot relaxa în costume de baie, lucru rar pe insulele locale.", en: "One of the most famous public beaches in the Maldives where tourists are allowed to relax in swimwear, a rarity on local islands." , es: "Una de las playas públicas más famosas de las Maldivas, donde se permite a los turistas relajarse en traje de baño, algo poco común en las islas locales.", pt: "Uma das praias públicas mais famosas das Maldivas, onde os turistas podem relaxar em trajes de banho, o que é raro nas ilhas locais.", fr: "L'une des plages publiques les plus célèbres des Maldives, où les touristes sont autorisés à se détendre en maillot de bain, ce qui est rare sur les îles locales."},
     facts: {
       de: ["Die Insel Maafushi ist ein Zentrum des lokalen Tourismus.", "Bietet feinen weißen Sand und kristallklares Wasser."],
@@ -2348,7 +2335,6 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     parent: "MV-XX",
     coords: [73.5188, 4.1738],
     name: { de: "Künstlicher Strand (Malé)", hu: "Mesterséges Strand (Malé)", ro: "Plaja Artificială (Malé)", en: "Artificial Beach (Malé)"},
-    image: "/poi-images/artificial-beach-landmarks-v2.webp",
     description: { de: "Ein beliebter, von Menschenhand geschaffener Strand an der Ostküste von Malé, der Erholung im dicht besiedelten Hauptstadtbereich bietet.", hu: "Egy népszerű, ember alkotta strand Malé keleti partján, amely kikapcsolódást nyújt a sűrűn lakott fővárosban.", ro: "O plajă populară creată de om pe coasta de est din Malé, care oferă recreere în zona dens populată a capitalei.", en: "A popular man-made beach on the east coast of Malé, offering recreation in the densely populated capital area." , es: "Una popular playa artificial en la costa este de Malé que ofrece recreación en la densamente poblada zona de la capital.", pt: "Uma praia artificial popular na costa leste de Malé, que oferece lazer na densamente povoada área da capital.", fr: "Une plage artificielle populaire sur la côte est de Malé, offrant un espace de détente dans la zone densément peuplée de la capitale."},
     facts: {
       de: ["Oft Veranstaltungsort für Live-Musik und Feste.", "Besonders bei Einheimischen sehr beliebt."],

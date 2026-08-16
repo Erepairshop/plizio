@@ -57,7 +57,6 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: "Musée Vivant (Élő Múzeum)",
       ro: "Musée Vivant",
       en: "Musée Vivant"},
-    image: "/poi-images/musee-vivant-life-v2.webp",
     descriptionAdvanced: {
       de: "Das Musée Vivant in Bujumbura ist ein einzigartiges Freilichtmuseum, das im Jahr 1977 gegründet wurde, um das kulturelle und natürliche Erbe Burundis zu bewahren. Auf einer Fläche von mehreren Hektar bietet es Besuchern die Möglichkeit, traditionelle burundische 'Rugos' (Hüttenanlagen) in Originalgröße zu erkunden, die Einblicke in die historische Lebensweise der Bevölkerung geben. Neben den ethnografischen Ausstellungen beherbergt das Museum einen kleinen Zoo mit Reptilien wie Krokodilen und Schlangen sowie Primaten und Greifvögeln. Das Museum fungiert auch als Zentrum für traditionelles Handwerk, wo lokale Künstler Korbwaren, Holzschnitzereien und Töpfereien herstellen und verkaufen. In der Mitte des Geländes befindet sich oft ein Bereich für traditionelle Trommelvorführungen, die zum UNESCO-Weltkulturerbe gehören. Das Musée Vivant ist ein wichtiger Ort für die Umwelterziehung und den Kulturerhalt in der größten Stadt des Landes und bietet eine ruhige, grüne Oase unweit des Tanganjikasees.",
       hu: "A Bujumburában található Musée Vivant egy egyedülálló szabadtéri múzeum, amelyet 1977-ben alapítottak Burundi kulturális és természeti örökségének megőrzésére. Több hektáros területén a látogatóknak lehetőségük van megismerni a hagyományos burundi 'rugo'-kat (kunyhórendszereket) eredeti méretben, amelyek betekintést nyújtanak a lakosság történelmi életmódjába. A néprajzi kiállítások mellett a múzeum egy kis állatkertnek is otthont ad, ahol hüllőket, például krokodilokat és kígyókat, valamint főemlősöket és ragadozó madarakat láthatunk. A múzeum a hagyományos kézművesség központjaként is működik, ahol helyi művészek kosárfonással, fafaragással és fazekassággal foglalkoznak. A terület közepén gyakran tartanak hagyományos dobos bemutatókat, amelyek az UNESCO szellemi világörökségének részét képezik. A Musée Vivant fontos helyszín a környezeti nevelés és a kulturális megőrzés szempontjából az ország legnagyobb városában, nyugodt, zöld oázist kínálva a Tanganyika-tó közelében.",
@@ -150,7 +149,6 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: "Rusizi-delta",
       ro: "Delta Rusizi",
       en: "Rusizi Delta"},
-    image: "/poi-images/rusizi-delta-life-v2.webp",
     descriptionAdvanced: {
       de: "Das Rusizi-Delta liegt an der Mündung des Rusizi-Flusses in den Tanganjikasee, etwa 15 Kilometer nördlich der burundischen Stadt Bujumbura. Es bildet den Kern des 1980 gegründeten Rusizi-Nationalparks und umfasst eine Fläche von etwa 90 Quadratkilometern. Die Landschaft ist geprägt von weiten Papyrussümpfen, Schilfgürteln und Akazienwäldern, die regelmäßig durch den schwankenden Wasserspiegel des Sees überschwemmt werden. Dieses Ökosystem stellt einen der wichtigsten Rückzugsorte für Flusspferde und Nilkrokodile in der Region dar. Zudem dient das Delta als kritischer Zwischenstopp für über 200 Arten von Zugvögeln, die den afrikanischen Grabenbruch passieren. Geologisch gesehen befindet sich das Gebiet in einer Senke des Ostafrikanischen Grabens, was zu einer hohen Ablagerung von fruchtbaren Sedimenten führt. Die Erhaltung dieses Feuchtbiotops ist entscheidend für die lokale Fischerei und den Hochwasserschutz der angrenzenden Siedlungen.",
       hu: "A Rusizi-delta a Rusizi-folyó és a Tanganyika-tó találkozásánál fekszik, mintegy 15 kilométerre északra Bujumburától. Ez a terület a Rusizi Nemzeti Park szívét alkotja, amelyet 1980-ban alapítottak meg az egyedülálló ökoszisztéma védelme érdekében. A delta tájképét kiterjedt papiruszmocsarak, nádszegélyek és szezonálisan elárasztott síkságok dominálják, amelyek 90 négyzetkilométeren terülnek el. A vidék különösen híres népes víziló- és nílusi krokodilpopulációjáról, amelyek a folyó torkolatvidékén találnak menedéket. Madártani szempontból is kiemelkedő, hiszen több mint 200 madárfaj, köztük számos Európából érkező vándormadár fontos pihenőhelye. A terület geológiai értelemben az Kelet-afrikai árokrendszer legalacsonyabb pontjainak egyike Burundiban, ahol a folyó által lerakott hordalék rendkívül termékeny talajt hoz létre. A delta védelme alapvető fontosságú a biológiai sokféleség fenntartása és a tó vízháztartásának szabályozása szempontjából.",
@@ -198,7 +196,6 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: "Az Imbo-síkság rizstermesztő vidéke",
       ro: "Regiunea orezului din Câmpia Imbo",
       en: "Imbo Plain Rice Region"},
-    image: "/poi-images/imbo-plain-rice-life-v2.webp",
     descriptionAdvanced: {
       de: "Die Imbo-Ebene erstreckt sich als schmaler Tieflandstreifen entlang des Nordwestens von Burundi und grenzt an den Tanganjikasee sowie den Rusizi-Fluss. Aufgrund ihrer geringen Höhe von etwa 800 Metern und des tropischen Klimas ist sie das wichtigste Reisanbaugebiet des Landes. Die fruchtbaren Alluvialböden, die durch Sedimentablagerungen der aus den Bergen herabfließenden Flüsse entstanden sind, bieten ideale Bedingungen für eine intensive Landwirtschaft. Großflächige Bewässerungssysteme wurden ab den 1960er Jahren entwickelt, um die ganzjährige Produktion zu ermöglichen und die Ernährungssicherheit der wachsenden Bevölkerung zu gewährleisten. Neben Reis werden in der Ebene auch Baumwolle und Zuckerrohr kultiviert, was sie zu einem wirtschaftlichen Zentrum Burundis macht. Die Region ist jedoch auch ökologisch sensibel, da sie einen Übergang zwischen der aquatischen Zone des Sees und den bewaldeten Ausläufern des Hochlandes bildet. Die Modernisierung der Reismühlen in Orten wie Gihanga hat die Wertschöpfungskette in den letzten Jahrzehnten erheblich gestärkt.",
       hu: "Az Imbo-síkság Burundi északnyugati részén húzódik, egy keskeny síksági sávot alkotva a Tanganyika-tó és a Rusizi-folyó mentén. Alacsony tengerszint feletti magassága – amely átlagosan 800 méter – és trópusi klímája az ország első számú rizstermelő vidékévé tette. A hegységből lefutó folyók által szállított és lerakott öntéstalaj rendkívül gazdag tápanyagokban, ami lehetővé teszi az intenzív mezőgazdasági művelést. Az 1960-as évektől kezdődően kiterjedt öntözőrendszereket építettek ki, hogy a rizstermelést függetleníthessék a csapadék ingadozásaitól. Ez a régió stratégiai jelentőségű Burundi élelmezésbiztonsága szempontjából, mivel itt termelik meg az ország rizsszükségletének jelentős részét. A rizsföldek mellett a síkságon gyapotot és cukornádat is termesztenek, hozzájárulva a helyi gazdaság diverzifikálásához. Az olyan központok, mint Gihanga, a rizsfeldolgozás és a logisztika meghatározó csomópontjaivá váltak az elmúlt évtizedekben.",
@@ -246,7 +243,6 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: "Mugamba teáskertjei",
       ro: "Grădinile de ceai din Mugamba",
       en: "Mugamba Tea Gardens"},
-    image: "/poi-images/mugamba-tea-life-v2.webp",
     descriptionAdvanced: {
       de: "Die Mugamba-Region liegt im burundischen Hochland auf einer Höhe von über 2.000 Metern und ist für ihr kühles, feuchtes Klima bekannt. Diese klimatischen Bedingungen, kombiniert mit den sauren, vulkanischen Böden des Kongo-Nil-Rückens, sind ideal für den Anbau von hochwertigem Tee. Seit der Einführung des kommerziellen Teeanbaus in den 1960er Jahren hat sich die Region zu einem der wichtigsten Exportzentren Burundis entwickelt. Die Landschaft ist von endlosen, akkurat gestutzten Teegärten geprägt, die sich über die sanften Hügel erstrecken. Das Pflücken der Teeblätter erfolgt überwiegend in Handarbeit, was eine selektive Ernte der besten Knospen garantiert. In Fabriken wie Teza wird der Tee unmittelbar nach der Ernte verarbeitet, um das frische Aroma zu bewahren. Tee ist nach Kaffee das zweitwichtigste Exportgut des Landes und sichert den Lebensunterhalt tausender Kleinbauern in Mugamba. Die Region ist oft in Nebel gehüllt, was die langsame Reifung der Teeblätter begünstigt und zu einem feineren Geschmacksprofil führt.",
       hu: "A Mugamba-régió Burundi magasföldjein, 2000 méter feletti magasságban terül el, ahol a hűvös és csapadékos klíma uralkodik. Ezek a környezeti adottságok, kiegészülve a Kongó-Nílus vízválasztó savas, vulkanikus talajával, tökéletes feltételeket biztosítanak a kiváló minőségű teatermesztéshez. A kereskedelmi célú teatermesztés az 1960-as években vette kezdetét, és mára Mugamba az ország egyik legfontosabb exportközpontjává vált. A tájat végtelen, gondosan gondozott teaültetvények alkotják, amelyek zöld szőnyegként borítják be a hullámzó dombokat. A tealevelek szüretelése ma is főként kézzel történik, biztosítva, hogy csak a legzsengébb hajtások kerüljenek feldolgozásra. A Teza és hasonló feldolgozóüzemek közvetlenül az ültetvények mellett találhatók, hogy a levelek frissességét megőrizzék a szárítás és fermentálás során. A tea Burundi második legfontosabb exportterméke, amely közvetlenül hozzájárul a helyi gazdálkodók jólétéhez és az ország devizabevételeihez.",
@@ -294,7 +290,6 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: "Kayanza kávéültetvényei",
       ro: "Plantațiile de cafea din Kayanza",
       en: "Kayanza Coffee Estates"},
-    image: "/poi-images/kayanza-coffee-life-v2.webp",
     descriptionAdvanced: {
       de: "Kayanza ist eine Provinz im Norden Burundis, die weltweit für die Produktion einiger der besten Arabica-Kaffees bekannt ist. Die Region zeichnet sich durch vulkanische Böden und eine Höhenlage zwischen 1.700 und 2.000 Metern aus, was den Kaffeekirschen eine langsame Reifung und ein komplexes Aromaprofil ermöglicht. Kaffee ist das wichtigste Exportgut Burundis und Kayanza steht oft an der Spitze nationaler Qualitätswettbewerbe wie dem 'Cup of Excellence'. Die meisten Kaffeebauern sind Kleinproduzenten, die ihre Ernte zu zentralen Waschstationen bringen, wo die Bohnen nass aufbereitet werden. Dieser Prozess ist entscheidend für die charakteristische Säure und die fruchtigen Noten des Kaffees aus Kayanza. Während der Erntesaison zwischen April und Juli sind die Hügel belebt von Bauern, die die roten Kirschen sorgfältig von Hand pflücken. Die Kaffeekultur ist tief in der sozialen Struktur der Region verwurzelt und stellt die primäre Einkommensquelle für zehntausende Familien dar. Nachhaltigkeitsprogramme zielen zunehmend darauf ab, die Erträge zu steigern und gleichzeitig die Biodiversität der Schattenplantagen zu erhalten.",
       hu: "Kayanza tartomány Burundi északi részén található, és világszerte elismert a kiváló minőségű Arabica kávéjáról. A régió vulkanikus talaja és az 1700–2000 méter közötti tengerszint feletti magasság lehetővé teszi a kávészemek lassú érését, ami komplex aroma- és ízvilágot eredményez. A kávé Burundi legfontosabb exportterméke, és Kayanza rendszeresen az első helyen végez a rangos 'Cup of Excellence' minőségi versenyeken. A termelés nagy részét kistermelők végzik, akik a szüretelt kávécseresznyéket központi mosóállomásokra szállítják, ahol nedves eljárással dolgozzák fel azokat. Ez a technológia kulcsfontosságú a Kayanzára jellemző élénk savasság és gyümölcsös jegyek kialakításában. Az áprilistól júliusig tartó szüreti időszakban a domboldalak megtelnek élettel, ahogy a gazdák kézzel válogatják le az érett, piros szemeket. A kávétermesztés nem csupán munka, hanem a helyi közösségek társadalmi szövetének alapköve és legfontosabb megélhetési forrása.",
@@ -342,7 +337,6 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: "Rumonge olajpálma-ültetvényei",
       ro: "Plantațiile de palmieri de ulei din Rumonge",
       en: "Rumonge Palm Oil Estates"},
-    image: "/poi-images/rumonge-palm-life-v2.webp",
     description: {
       de: "Die tropische Küstenregion am Tanganjikasee ist das Herz der burundischen Palmölproduktion.",
       hu: "A Tanganyika-tó menti trópusi partvidék a burundi pálmaolaj-termelés szíve.",
@@ -390,7 +384,6 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: "Malagarasi-mocsárvidék",
       ro: "Mlaștinile Malagarasi",
       en: "Malagarasi Swamps"},
-    image: "/poi-images/malagarasi-shoebill-life-v2.webp",
     description: {
       de: "Ein ausgedehntes Feuchtgebiet im Osten, bekannt als einer der wenigen Orte, an denen man den Schuhschnabel sehen kann.",
       hu: "Kiterjedt vizes élőhely keleten, azon kevés helyek egyike, ahol papucscsőrű madár látható.",
@@ -438,7 +431,6 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: "Kirundo cirokföldjei",
       ro: "Câmpurile de sorg din Kirundo",
       en: "Kirundo Sorghum Fields"},
-    image: "/poi-images/kirundo-sorghum-life-v2.webp",
     description: {
       de: "Im wasserreichen Norden Burundis ist Sorghum eine der wichtigsten Anbaupflanzen für Nahrung und Getränke.",
       hu: "Burundi vízben gazdag északi részén a cirok az egyik legfontosabb növény élelemnek és italnak.",
@@ -531,7 +523,6 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: "Zuckerrohr-ültetvények a Mosso-völgyben",
       ro: "Câmpurile de trestie de zahăr din Valea Mosso",
       en: "Mosso Valley Sugarcane Fields"},
-    image: "/poi-images/mosso-sugar-life-v2.webp",
     description: {
       de: "Das tiefer gelegene Mosso-Tal im Osten bietet ideale Bedingungen für den großflächigen Zuckerrohranbau.",
       hu: "A keleten fekvő mélyebben elhelyezkedő Mosso-völgy ideális feltételeket kínál a nagyüzemi cukornádtermesztéshez.",
@@ -624,7 +615,6 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: "Bujumbura nyilvános strandja",
       ro: "Plaja publică din Bujumbura",
       en: "Bujumbura Public Beach"},
-    image: "/poi-images/bujumbura-beach-life-v2.webp",
     description: {
       de: "Ein beliebter Ort für Familien am Tanganjikasee mit Sandstränden und Erholungsmöglichkeiten.",
       hu: "Népszerű hely családok számára a Tanganyika-tónál, homokos strandokkal és kikapcsolódási lehetőségekkel.",
@@ -717,7 +707,6 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: "Gishorai gyermektrombitás iskola",
       ro: "Școala de tobe pentru copii din Gishora",
       en: "Gishora Kids Drumming School"},
-    image: "/poi-images/gitega-drums-kids-life-v2.webp",
     description: {
       de: "Ein Bildungszentrum, in dem Kinder die Kunst des traditionellen burundischen Trommelns erlernen.",
       hu: "Oktatási központ, ahol a gyerekek megtanulják a hagyományos burundi dobolás művészetét.",
@@ -765,7 +754,6 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: "Buyogoma állattenyésztő vidékei",
       ro: "Zonele de creștere a animalelor din Buyogoma",
       en: "Buyogoma Cattle Grazing Lands"},
-    image: "/poi-images/buyogoma-cattle-life-v2.webp",
     description: {
       de: "Die östlichen Plateaus von Buyogoma sind das traditionelle Herzland der Rinderzucht in Burundi.",
       hu: "Buyogoma keleti fennsíkjai a burundi állattenyésztés hagyományos központi területei.",
@@ -813,7 +801,6 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: "Mumirwa kávélejtői",
       ro: "Pantele de cafea din Mumirwa",
       en: "Mumirwa Coffee Slopes"},
-    image: "/poi-images/mumirwa-coffee-life-v2.webp",
     description: {
       de: "An den Hängen der Mumirwa-Berge wird Kaffee in kleinen Familienbetrieben angebaut.",
       hu: "A Mumirwa-hegység lejtőin kis családi gazdaságokban termesztik a kávét.",
@@ -861,7 +848,6 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: "Ngozi teagyár",
       ro: "Fabrica de ceai din Ngozi",
       en: "Ngozi Tea Factory"},
-    image: "/poi-images/ngozi-tea-factory-life-v2.webp",
     description: {
       de: "Eine der größten Teeverarbeitungsanlagen im Norden, umgeben von weitläufigen Teeplantagen.",
       hu: "Az északi rész egyik legnagyobb teafeldolgozó üzeme, amelyet hatalmas teaültetvények vesznek körül.",
@@ -909,7 +895,6 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: "Bubanza rizsföldjei",
       ro: "Câmpurile de orez din Bubanza",
       en: "Bubanza Rice Paddies"},
-    image: "/poi-images/bubanza-rice-life-v2.webp",
     description: {
       de: "In der Provinz Bubanza prägen grüne Reisfelder das Landschaftsbild und sichern die Nahrungsmittelversorgung.",
       hu: "Bubanza tartományban zöld rizsföldek határozzák meg a tájat és biztosítják az élelmiszerellátást.",
@@ -957,7 +942,6 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: "Cibitoke gyapotföldjei",
       ro: "Câmpurile de bumbac din Cibitoke",
       en: "Cibitoke Cotton Fields"},
-    image: "/poi-images/cibitoke-cotton-life-v2.webp",
     description: {
       de: "Die heiße Ruzizi-Ebene in Cibitoke ist ideal für den Anbau von Baumwolle für die Textilindustrie.",
       hu: "A forró Ruzizi-síkság Cibitoke tartományban ideális a textilipar számára termesztett gyapot számára.",
@@ -1005,7 +989,6 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: "Muyinga banánerdői",
       ro: "Livezile de banani din Muyinga",
       en: "Muyinga Banana Groves"},
-    image: "/poi-images/muyinga-banana-life-v2.webp",
     description: {
       de: "Die region Muyinga ist berühmt für ihre dichten Bananenpflanzungen, die das Grundnahrungsmittel liefern.",
       hu: "Muyinga régiója híres sűrű banánültetvényeiről, amelyek az alapvető élelmiszert biztosítják.",
@@ -1053,7 +1036,6 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: "Rutana szarvasmarha-legelői",
       ro: "Pășunile de vite din Rutana",
       en: "Rutana Cattle Pastures"},
-    image: "/poi-images/rutana-cattle-life-v2.webp",
     description: {
       de: "Weite Graslandschaften in Rutana dienen als wichtige Weideflächen für die burundischen Rinderherden.",
       hu: "Rutana tágas füves területei fontos legelőként szolgálnak a burundi szarvasmarha-csordák számára.",
@@ -1101,7 +1083,6 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: "Makamba kukoricaföldjei",
       ro: "Câmpurile de porumb din Makamba",
       en: "Makamba Maize Fields"},
-    image: "/poi-images/makamba-maize-life-v2.webp",
     description: {
       de: "Die fruchtbaren Böden im Süden von Makamba sind ein Zentrum für den Mais- und Bohnenanbau.",
       hu: "Dél-Burundi termékeny földjei, ahol a kukoricatermesztés a helyi gazdálkodás alapját képezi.",

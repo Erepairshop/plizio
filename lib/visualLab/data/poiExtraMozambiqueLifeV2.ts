@@ -53,7 +53,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-SO",
     coords: [34.45, -18.98],
     name: { de: "Gorongosa-Nationalpark", hu: "Gorongosa Nemzeti Park", ro: "Parcul Național Gorongosa", en: "Gorongosa National Park"},
-    image: "/poi-images/gorongosa-national-park-life-v2.webp",
     description: { de: "Ein vielfältiges Ökosystem mit Löwen und Elefanten.", hu: "Változatos ökoszisztéma oroszlánokkal és elefántokkal.", ro: "Un ecosistem divers cu lei și elefanți.", en: "A diverse ecosystem with lions and elephants." , es: "Un ecosistema diverso con leones y elefantes.", pt: "Um ecossistema diverso com leões e elefantes.", fr: "Un écosystème diversifié avec des lions et des éléphants."},
     facts: {
       de: ["Heimat von Löwen", "Bekannt für Elefanten", "Ökosystem-Restaurierung"],
@@ -89,7 +88,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-GZ",
     coords: [32.33, -23.71],
     name: { de: "Limpopo-Nationalpark", hu: "Limpopo Nemzeti Park", ro: "Parcul Național Limpopo", en: "Limpopo National Park"},
-    image: "/poi-images/limpopo-national-park-life-v2.webp",
     description: { de: "Teil eines grenzüberschreitenden Schutzgebietes mit reicher Tierwelt.", hu: "Egy határokon átnyúló védett terület része, gazdag állatvilággal.", ro: "Parte a unei zone protejate transfrontaliere cu o faună bogată.", en: "Part of a transfrontier conservation area with rich wildlife." , es: "Parte de un área protegida transfronteriza con una rica fauna.", pt: "Parte de uma área de conservação transfronteiriça com uma fauna rica.", fr: "Fait partie d'une zone protégée transfrontalière dotée d'une faune riche."},
     facts: {
       de: ["Grenzüberschreitend", "Reiche Tierwelt", "Große Elefantenherden"],
@@ -125,7 +123,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-IS",
     coords: [35.45, -21.68],
     name: { de: "Bazaruto-Archipel", hu: "Bazaruto-szigetvilág", ro: "Arhipelagul Bazaruto", en: "Bazaruto Archipelago"},
-    image: "/poi-images/bazaruto-archipelago-life-v2.webp",
     description: { de: "Ein mariner Nationalpark mit Dugongs und Korallenriffen.", hu: "Tengeri nemzeti park dugongokkal és korallzátonyokkal.", ro: "Un parc național marin cu dugongi și recife de corali.", en: "A marine national park with dugongs and coral reefs." , es: "Un parque nacional marino con dugongos y arrecifes de coral.", pt: "Um parque nacional marinho com dugongos e recifes de coral.", fr: "Un parc national marin avec des dugongs et des récifs coralliens."},
     facts: {
       de: ["Dugong-Lebensraum", "Korallenriffe", "Meeresschutzgebiet"],
@@ -161,7 +158,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-CD",
     coords: [40.58, -12.25],
     name: { de: "Quirimbas-Archipel", hu: "Quirimbas-szigetvilág", ro: "Arhipelagul Quirimbas", en: "Quirimbas Archipelago"},
-    image: "/poi-images/quirimba-archipelago-life-v2.webp",
     description: { de: "Ein tropisches Paradies mit vielfältiger Unterwasserwelt.", hu: "Trópusi paradicsom változatos víz alatti világgal.", ro: "Un paradis tropical cu o lume subacvatică diversă.", en: "A tropical paradise with diverse underwater life." , es: "Un paraíso tropical con un mundo submarino diverso.", pt: "Um paraíso tropical com um mundo subaquático diversificado.", fr: "Un paradis tropical avec un monde sous-marin diversifié."},
     facts: {
       de: ["Tropisches Archipel", "Meereslebewesen", "Schutzgebiet"],
@@ -197,7 +193,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-MP",
     coords: [32.65, -26.35],
     name: { de: "Maputo-Spezialreservat", hu: "Maputo Különleges Rezervátum", ro: "Rezervația Specială Maputo", en: "Maputo Special Reserve"},
-    image: "/poi-images/maputo-special-reserve-life-v2.webp",
     description: { de: "Bekannt für Elefanten und Küstenlebensräume.", hu: "Elefántjairól és parti élőhelyeiről ismert.", ro: "Cunoscută pentru elefanți și habitate de coastă.", en: "Known for elephants and coastal habitats." , es: "Conocida por sus elefantes y hábitats costeros.", pt: "Conhecida pelos seus elefantes e habitats costeiros.", fr: "Connue pour ses éléphants et ses habitats côtiers."},
     facts: {
       de: ["Elefanten-Schutz", "Küstenökosystem", "Wandernde Tiere"],
@@ -233,7 +228,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-IN",
     coords: [33.78, -21.58],
     name: { de: "Zinave-Nationalpark", hu: "Zinave Nemzeti Park", ro: "Parcul Național Zinave", en: "Zinave National Park"},
-    image: "/poi-images/zinave-national-park-life-v2.webp",
     description: { de: "Wiederaufbaugebiet für Wildtiere im Inland.", hu: "Vadvilág-helyreállítási terület a szárazföld belsejében.", ro: "Zonă de restaurare a faunei sălbatice în interior.", en: "Wildlife restoration area in the interior." , es: "Área de recuperación de vida silvestre en el interior.", pt: "Área de recuperação de vida selvagem no interior.", fr: "Zone de restauration de la faune sauvage à l'intérieur des terres."},
     facts: {
       de: ["Wildtier-Restaurierung", "Trockenwälder", "Biodiversität"],
@@ -269,7 +263,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-GZ",
     coords: [32.85, -23.05],
     name: { de: "Banhine-Nationalpark", hu: "Banhine Nemzeti Park", ro: "Parcul Național Banhine", en: "Banhine National Park"},
-    image: "/poi-images/banhine-national-park-life-v2.webp",
     description: { de: "Ein Sumpf- und Graslandgebiet mit vielen Vogelarten.", hu: "Mocsaras és füves terület, sok madárfajjal.", ro: "O zonă de mlaștini și pajiști cu multe specii de păsări.", en: "A swamp and grassland area with many bird species." , es: "Una zona de humedales y pastizales con muchas especies de aves.", pt: "Uma área de pântanos e pastagens com muitas espécies de aves.", fr: "Une zone de marais et de prairies abritant de nombreuses espèces d'oiseaux."},
     facts: {
       de: ["Feuchtgebiete", "Vogelbeobachtung", "Graslandschaften"],
@@ -305,7 +298,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-IN",
     coords: [35.58, -22.95],
     name: { de: "Pomene-Reservat", hu: "Pomene Rezervátum", ro: "Rezervația Pomene", en: "Pomene Reserve"},
-    image: "/poi-images/pomene-reserve-life-v2.webp",
     description: { de: "Eine malerische Lagune mit reicher Meeresfauna.", hu: "Festői lagúna gazdag tengeri állatvilággal.", ro: "O lagună pitorească cu o faună marină bogată.", en: "A picturesque lagoon with rich marine life." , es: "Una laguna pintoresca con una rica fauna marina.", pt: "Uma lagoa pitoresca com uma rica fauna marinha.", fr: "Une lagune pittoresque dotée d'une riche faune marine."},
     facts: {
       de: ["Lagune", "Meeresbiologie", "Schöne Küste"],
@@ -341,7 +333,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-NA",
     coords: [39.26, -15.11],
     name: { de: "Nampula Agrarregion", hu: "Nampula mezőgazdasági régió", ro: "Regiunea agricolă Nampula", en: "Nampula agricultural region"},
-    image: "/poi-images/nampula-agriculture-life-v2.webp",
     description: { de: "Ein Zentrum für den Anbau von Baumwolle und Cashew-Nüssen.", hu: "A gyapot- és kesudiótermesztés központja.", ro: "Un centru pentru cultivarea bumbacului și a nucilor caju.", en: "A center for cotton and cashew nut cultivation." , es: "Un centro para el cultivo de algodón y anacardos.", pt: "Um centro para o cultivo de algodão e castanha de caju.", fr: "Un centre pour la culture du coton et des noix de cajou."},
     facts: {
       de: ["Baumwollanbau", "Cashew-Nüsse", "Landwirtschaft"],
@@ -377,7 +368,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-ZA",
     coords: [37.15, -17.25],
     name: { de: "Zambezia Zuckerrohr-Region", hu: "Zambézia cukornád-régió", ro: "Regiunea trestiei de zahăr Zambezia", en: "Zambezia sugarcane region"},
-    image: "/poi-images/zambezia-sugar-life-v2.webp",
     description: { de: "Fruchtbares Gebiet an der Mündung, bekannt für Zuckerrohr.", hu: "Termékeny torkolatvidék, ismert cukornádtermesztésről.", ro: "Regiune fertilă la estuar, cunoscută pentru trestia de zahăr.", en: "Fertile region at the estuary, known for sugarcane." , es: "Zona fértil en la desembocadura, conocida por la caña de azúcar.", pt: "Zona fértil na foz, conhecida pela cana-de-açúcar.", fr: "Zone fertile à l'embouchure, connue pour la canne à sucre."},
     facts: {
       de: ["Zuckerrohranbau", "Fruchtbarer Boden", "Flussmündungsland"],
@@ -440,7 +430,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-NI",
     coords: [36.75, -13.25],
     name: { de: "Niassa Tabak-Region", hu: "Niassa dohánytermesztő régió", ro: "Regiunea de cultivare a tutunului Niassa", en: "Niassa tobacco region"},
-    image: "/poi-images/niassa-tobacco-life-v2.webp",
     description: { de: "Ein bedeutendes Gebiet für den Anbau von Tabak.", hu: "Fontos terület a dohánytermesztés számára.", ro: "O zonă importantă pentru cultivarea tutunului.", en: "An important area for tobacco cultivation." , es: "Una zona importante para el cultivo de tabaco.", pt: "Uma área importante para o cultivo de tabaco.", fr: "Une zone importante pour la culture du tabac."},
     facts: {
       de: ["Tabakanbau", "Landwirtschaftliches Zentrum", "Ländlich"],
@@ -593,7 +582,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-MP",
     coords: [32.57, -25.96],
     name: { de: "Botanischer Garten Maputo", hu: "Maputo Botanikus Kert", ro: "Grădina Botanică Maputo", en: "Maputo Botanical Garden"},
-    image: "/poi-images/maputo-garden-life-v2.webp",
     description: { de: "Ein schöner Park zum Entspannen für Kinder.", hu: "Gyönyörű park kikapcsolódáshoz gyerekeknek.", ro: "O grădină frumoasă pentru relaxare pentru copii.", en: "A beautiful garden for children to relax." , es: "Un hermoso parque para que los niños se relajen.", pt: "Um belo parque para as crianças relaxarem.", fr: "Un beau parc pour la détente des enfants."},
     facts: {
       de: ["Pflanzenwelt", "Spielplatz", "Erholung"],
@@ -629,7 +617,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-SO",
     coords: [34.85, -19.82],
     name: { de: "Beira Meeres-Park", hu: "Beira tengeri park", ro: "Parcul marin Beira", en: "Beira Marine Park"},
-    image: "/poi-images/beira-marine-park-life-v2.webp",
     description: { de: "Ein Park mit Unterhaltung für Kinder in Beira.", hu: "Park szórakozási lehetőséggel gyerekeknek Beirában.", ro: "Un parc cu divertisment pentru copii în Beira.", en: "A park with entertainment for children in Beira." , es: "Un parque con entretenimiento para niños en Beira.", pt: "Um parque com entretenimento para crianças na Beira.", fr: "Un parc avec des divertissements pour enfants à Beira."},
     facts: {
       de: ["Spielbereiche", "Küstennähe", "Unterhaltung"],
@@ -665,7 +652,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-NP",
     coords: [40.73, -15.03],
     name: { de: "Ilha de Moçambique Geschichte", hu: "Ilha de Moçambique történelem", ro: "Istoria Ilha de Moçambique", en: "Ilha de Moçambique history"},
-    image: "/poi-images/ilhade-mocambique-kid-life-v2.webp",
     description: { de: "Ein geschichtsträchtiger Ort für junge Entdecker.", hu: "Történelmi hely fiatal felfedezőknek.", ro: "Un loc istoric pentru tinerii exploratori.", en: "A historical place for young explorers." , es: "Un lugar cargado de historia para jóvenes exploradores.", pt: "Um local carregado de história para jovens exploradores.", fr: "Un lieu chargé d'histoire pour les jeunes explorateurs."},
     facts: {
       de: ["Weltkulturerbe", "Alte Gebäude", "Entdeckungsreise"],
@@ -854,7 +840,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-IN",
     coords: [35.53, -23.85],
     name: { de: "Tofo Strand-Abenteuer", hu: "Tofo strand-kaland", ro: "Aventura pe plaja Tofo", en: "Tofo beach adventure"},
-    image: "/poi-images/tofo-beach-kid-life-v2.webp",
     description: { de: "Ein wunderbarer Ort für Kinder zum Schwimmen.", hu: "Csodálatos hely a gyerekeknek úszáshoz.", ro: "Un loc minunat pentru înot pentru copii.", en: "A wonderful place for kids to swim." , es: "Un lugar maravilloso para que los niños naden.", pt: "Um lugar maravilhoso para as crianças nadarem.", fr: "Un endroit merveilleux pour que les enfants puissent nager."},
     facts: {
       de: ["Sandstrand", "Sicheres Schwimmen", "Spielspaß"],
@@ -890,7 +875,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-GZ",
     coords: [32.00, -24.00],
     name: { de: "Limpopo Wildtierschule", hu: "Limpopo vadvilág-iskola", ro: "Școala faunei sălbatice Limpopo", en: "Limpopo wildlife school"},
-    image: "/poi-images/limpopo-kids-zoo-life-v2.webp",
     description: { de: "Lerne die Tiere der Region hautnah kennen.", hu: "Ismerd meg testközelből a régió állatait.", ro: "Află mai multe despre animalele din regiune.", en: "Get to know the region's animals up close." , es: "Conoce de cerca a los animales de la región.", pt: "Conheça de perto os animais da região.", fr: "Apprenez à connaître les animaux de la région de près."},
     facts: {
       de: ["Lernen", "Tierbegegnungen", "Interaktiv"],
@@ -926,7 +910,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-MP",
     coords: [32.58, -25.97],
     name: { de: "Naturkundemuseum Maputo", hu: "Maputo Természettudományi Múzeum", ro: "Muzeul de Istorie Naturală Maputo", en: "Natural History Museum Maputo"},
-    image: "/poi-images/maputo-natural-history-kid-life-v2.webp",
     description: { de: "Spannende Ausstellungen über Tiere für Kinder.", hu: "Izgalmas állattani kiállítások gyerekeknek.", ro: "Expoziții fascinante despre animale pentru copii.", en: "Exciting animal exhibits for kids." , es: "Emocionantes exposiciones sobre animales para niños.", pt: "Exposições emocionantes sobre animais para crianças.", fr: "Des expositions passionnantes sur les animaux pour les enfants."},
     facts: {
       de: ["Skelette", "Tierpräparate", "Bildung"],
@@ -962,7 +945,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-MA",
     coords: [33.50, -19.00],
     name: { de: "Gondola Spielplatz", hu: "Gondola játszótér", ro: "Loc de joacă Gondola", en: "Gondola playground"},
-    image: "/poi-images/gondola-kids-fun-life-v2.webp",
     description: { de: "Ein lokaler Park für Spiel und Spaß.", hu: "Helyi park játékhoz és szórakozáshoz.", ro: "Un parc local pentru joacă și distracție.", en: "A local park for fun and play." , es: "Un parque local para juegos y diversión.", pt: "Um parque local para jogos e diversão.", fr: "Un parc local pour le jeu et le divertissement."},
     facts: {
       de: ["Outdoor", "Sport", "Spiel"],
@@ -998,7 +980,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-CD",
     coords: [40.50, -12.98],
     name: { de: "Pemba Strandspiel", hu: "Pemba strandjáték", ro: "Joacă pe plaja Pemba", en: "Pemba beach play"},
-    image: "/poi-images/pemba-kids-beach-life-v2.webp",
     description: { de: "Sicherer Strand für Familien und Kinder.", hu: "Biztonságos strand családoknak és gyerekeknek.", ro: "Plajă sigură pentru familii și copii.", en: "Safe beach for families and kids." , es: "Playa segura para familias y niños.", pt: "Praia segura para famílias e crianças.", fr: "Plage sécurisée pour les familles et les enfants."},
     facts: {
       de: ["Sandburgen", "Sonne", "Erfrischung"],
@@ -1034,7 +1015,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-NI",
     coords: [36.00, -13.00],
     name: { de: "Niassa Safari-Erlebnis", hu: "Niassa szafari-élmény", ro: "Experiența safari Niassa", en: "Niassa safari experience"},
-    image: "/poi-images/niassa-safari-kid-life-v2.webp",
     description: { de: "Geführte Safari für Kinder in der Natur.", hu: "Vezetett szafari gyerekeknek a természetben.", ro: "Safari ghidat pentru copii în natură.", en: "Guided safari for kids in nature." , es: "Safari guiado para niños en la naturaleza.", pt: "Safari guiado para crianças na natureza.", fr: "Safari guidé pour enfants en pleine nature."},
     facts: {
       de: ["Naturerleben", "Tiere beobachten", "Geführt"],
@@ -1070,7 +1050,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-ZA",
     coords: [36.50, -17.50],
     name: { de: "Zambezia Fluss-Spaß", hu: "Zambézia folyami móka", ro: "Distracție pe râul Zambezia", en: "Zambezia river fun"},
-    image: "/poi-images/zambezia-river-kid-life-v2.webp",
     description: { de: "Ein friedlicher Platz für Picknicks und Spiel.", hu: "Békés hely piknikhez és játékhoz.", ro: "Un loc liniștit pentru picnicuri și joacă.", en: "A peaceful place for picnics and play." , es: "Un lugar tranquilo para picnics y juegos.", pt: "Um lugar tranquilo para piqueniques e jogos.", fr: "Un endroit paisible pour les pique-niques et les jeux."},
     facts: {
       de: ["Picknick", "Natur", "Ruhe"],
@@ -1106,7 +1085,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-TE",
     coords: [33.58, -16.16],
     name: { de: "Tete Gemeinschaftspark", hu: "Tete közösségi park", ro: "Parcul comunitar Tete", en: "Tete community park"},
-    image: "/poi-images/tete-community-park-life-v2.webp",
     description: { de: "Ein Treffpunkt für lokale Familien und Kinder.", hu: "Találkozóhely helyi családoknak és gyerekeknek.", ro: "Un punct de întâlnire pentru familiile și copiii locali.", en: "A meeting place for local families and kids." , es: "Un lugar de encuentro para familias y niños locales.", pt: "Um local de encontro para famílias e crianças locais.", fr: "Un lieu de rencontre pour les familles et les enfants locaux."},
     facts: {
       de: ["Treffpunkt", "Freizeit", "Spielgeräte"],
@@ -1142,7 +1120,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-MA",
     coords: [33.80, -19.30],
     name: { de: "Inchope Wildtierrefugium", hu: "Inchope vadvilág-menedék", ro: "Refugiul pentru animale sălbatice Inchope", en: "Inchope wildlife refuge"},
-    image: "/poi-images/inchope-animal-habitat-life-v2.webp",
     description: { de: "Ein wichtiges Habitat für lokale Wildtiere.", hu: "Fontos élőhely a helyi vadvilág számára.", ro: "Un habitat important pentru animalele sălbatice locale.", en: "An important habitat for local wildlife." , es: "Un hábitat importante para la fauna local.", pt: "Um habitat importante para a fauna local.", fr: "Un habitat important pour la faune locale."},
     facts: {
       de: ["Tierschutz", "Biodiversität", "Flora"],
@@ -1223,7 +1200,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-MA",
     coords: [33.48, -19.12],
     name: { de: "Chimoio Grünpark", hu: "Chimoio zöld park", ro: "Parcul verde Chimoio", en: "Chimoio green park"},
-    image: "/poi-images/chimoio-kids-green-life-v2.webp",
     description: { de: "Ein grüner Spielbereich im Herzen der Stadt.", hu: "Zöld játszótér a város szívében.", ro: "O zonă de joacă verde în inima orașului.", en: "A green play area in the city center." , es: "Un área de juegos verde en el corazón de la ciudad.", pt: "Uma área de lazer verde no coração da cidade.", fr: "Une aire de jeux verdoyante au cœur de la ville."},
     facts: {
       de: ["Grünfläche", "Kinderbereich", "Stadtleben"],
@@ -1264,7 +1240,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-IN",
     coords: [35.32, -21.99],
     name: { de: "Vilankulo Küstenspaß", hu: "Vilankulo part menti móka", ro: "Distracție pe coastă Vilankulo", en: "Vilankulo coastal fun"},
-    image: "/poi-images/vilankulo-marine-kid-life-v2.webp",
     description: { de: "Strandaktivitäten für Kinder in Vilankulo.", hu: "Strandi tevékenységek gyerekeknek Vilankulóban.", ro: "Activități pe plajă pentru copii în Vilankulo.", en: "Beach activities for children in Vilankulo." , es: "Actividades de playa para niños en Vilankulo.", pt: "Atividades de praia para crianças em Vilankulo.", fr: "Activités de plage pour les enfants à Vilankulo."},
     facts: {
       de: ["Strand", "Wasserspaß", "Sonne"],
@@ -1345,7 +1320,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-IN",
     coords: [35.38, -23.86],
     name: { de: "Inhambane Entdecker-Park", hu: "Inhambane felfedező-park", ro: "Parcul explorator Inhambane", en: "Inhambane explorer park"},
-    image: "/poi-images/inhambane-kid-discovery-life-v2.webp",
     description: { de: "Ein Park, in dem Kinder die Natur erkunden können.", hu: "Park, ahol a gyerekek felfedezhetik a természetet.", ro: "Un parc unde copiii pot explora natura.", en: "A park where children can explore nature." , es: "Un parque donde los niños pueden explorar la naturaleza.", pt: "Um parque onde as crianças podem explorar a natureza.", fr: "Un parc où les enfants peuvent explorer la nature."},
     facts: {
       de: ["Naturpfade", "Spiel", "Lernen"],
@@ -1381,7 +1355,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-GZ",
     coords: [32.50, -24.50],
     name: { de: "Gaza Lehrbauernhof", hu: "Gaza tan-gazdaság", ro: "Ferma educativă Gaza", en: "Gaza educational farm"},
-    image: "/poi-images/gaza-farm-kids-life-v2.webp",
     description: { de: "Erlebe Landwirtschaft hautnah.", hu: "Ismerd meg testközelből a mezőgazdaságot.", ro: "Experimentează agricultura de aproape.", en: "Experience agriculture up close." , es: "Experimenta la agricultura de cerca.", pt: "Experimente a agricultura de perto.", fr: "Découvrez l'agriculture de près."},
     facts: {
       de: ["Tiere", "Pflanzen", "Bildung"],
@@ -1417,7 +1390,6 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     parent: "MZ-CD",
     coords: [40.00, -12.00],
     name: { de: "Cabo Delgado Mango-Hain", hu: "Cabo Delgado mangó-liget", ro: "Livada de mango Cabo Delgado", en: "Cabo Delgado mango grove"},
-    image: "/poi-images/cabodelgado-mango-life-v2.webp",
     description: { de: "Ein fruchtbarer Ort für den Anbau tropischer Früchte.", hu: "Termékeny hely trópusi gyümölcsök termesztéséhez.", ro: "Un loc fertil pentru cultivarea fructelor tropicale.", en: "A fertile place for growing tropical fruits." , es: "Un lugar fértil para el cultivo de frutas tropicales.", pt: "Um local fértil para o cultivo de frutas tropicais.", fr: "Un lieu fertile pour la culture de fruits tropicaux."},
     facts: {
       de: ["Mangoanbau", "Landwirtschaft", "Ernte"],

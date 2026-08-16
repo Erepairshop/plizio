@@ -8,7 +8,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     parent: "KG-Y",
     coords: [78.1833, 41.8667],
     name: { de: "Kumtor-Goldmine", hu: "Kumtor aranybánya", ro: "Mina de aur Kumtor", en: "Kumtor Gold Mine"},
-    image: "/poi-images/kumtor-gold-mine-economic-v2.webp",
     description: { de: "Eine der höchstgelegenen Goldminen der Welt im Tian-Shan-Gebirge.", hu: "A világ egyik legmagasabban fekvő aranybányája a Tien-san hegységben.", ro: "Una dintre minele de aur situate la cea mai mare altitudine din lume, în Munții Tian-Șan.", en: "One of the highest gold mines in the world, located in the Tian Shan mountains." , es: "Una de las minas de oro más altas del mundo, situada en las montañas de Tian Shan.", pt: "Uma das minas de ouro mais elevadas do mundo, localizada nas montanhas de Tian Shan.", fr: "L'une des mines d'or les plus hautes du monde, située dans les montagnes du Tian Shan."},
     facts: {
       de: ["Liegt auf über 4.000 Metern Höhe.", "Produziert einen Großteil der kirgisischen Exporte."],
@@ -44,7 +43,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     parent: "KG-J",
     coords: [74.0167, 41.2000],
     name: { de: "Makmal-Goldmine", hu: "Makmal aranybánya", ro: "Mina de aur Makmal", en: "Makmal Gold Mine"},
-    image: "/poi-images/makmal-gold-mine-economic-v2.webp",
     description: { de: "Ein bedeutender Goldbergbaukomplex in der Region Dschalal-Abad.", hu: "Jelentős aranybányászati komplexum Dzsalal-Abad tartományban.", ro: "Un complex important de extracție a aurului în regiunea Jalal-Abad.", en: "A significant gold mining complex in the Jalal-Abad Region." , es: "Un importante complejo minero de oro en la región de Jalal-Abad.", pt: "Um importante complexo de mineração de ouro na região de Jalal-Abad.", fr: "Un important complexe d'extraction d'or dans la région de Jalal-Abad."},
     facts: {
       de: ["Wichtiger Arbeitgeber der Region.", "Trägt zur nationalen Goldproduktion bei."],
@@ -80,7 +78,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     parent: "KG-J",
     coords: [72.8767, 41.7708],
     name: { de: "Toktogul-Wasserkraftwerk", hu: "Toktoguli vízerőmű", ro: "Hidrocentrala Toktogul", en: "Toktogul Hydroelectric Power Station"},
-    image: "/poi-images/toktogul-hpp-economic-v2.webp",
     description: { de: "Das größte Wasserkraftwerk des Landes, das am Fluss Naryn liegt.", hu: "Az ország legnagyobb vízerőműve, amely a Narin folyón található.", ro: "Cea mai mare hidrocentrală din țară, situată pe râul Naryn.", en: "The largest hydroelectric power station in the country, located on the Naryn River." , es: "La mayor central hidroeléctrica del país, situada en el río Naryn.", pt: "A maior central hidroelétrica do país, situada no rio Naryn.", fr: "La plus grande centrale hydroélectrique du pays, située sur la rivière Naryn."},
     facts: {
       de: ["Hat eine Kapazität von 1.200 Megawatt.", "Sichert einen Großteil der Stromversorgung Kirgisistans."],
@@ -116,7 +113,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     parent: "KG-J",
     coords: [72.3364, 41.5975],
     name: { de: "Kurpsai-Wasserkraftwerk", hu: "Kurpszaj vízerőmű", ro: "Hidrocentrala Kurpsai", en: "Kurpsai Hydroelectric Power Station"},
-    image: "/poi-images/kurpsai-hpp-economic-v2.webp",
     description: { de: "Ein großes Wasserkraftwerk am Fluss Naryn in Kirgisistan.", hu: "Egy nagy vízerőmű Kirgizisztánban, a Narin folyón.", ro: "O mare hidrocentrală pe râul Naryn din Kârgâzstan.", en: "A large hydroelectric power station on the Naryn River in Kyrgyzstan." , es: "Una gran central hidroeléctrica en el río Naryn en Kirguistán.", pt: "Uma grande central hidroelétrica no rio Naryn, no Quirguistão.", fr: "Une grande centrale hydroélectrique sur la rivière Naryn au Kirghizistan."},
     facts: {
       de: ["Zweitgrößtes Kraftwerk der Naryn-Kaskade.", "Wurde 1981 in Betrieb genommen."],
@@ -233,7 +229,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     parent: "KG-J",
     coords: [72.2222, 41.3411],
     name: { de: "Tasch-Kümür-Wasserkraftwerk", hu: "Tas-Kümür vízerőmű", ro: "Hidrocentrala Tash-Kumyr", en: "Tash-Kumyr Hydroelectric Power Station"},
-    image: "/poi-images/tash-kumyr-hpp-economic-v2.webp",
     description: { de: "Wasserkraftwerk am Naryn, das zur Energiegewinnung der Region beiträgt.", hu: "Vízerőmű a Narin folyón, amely hozzájárul a régió energiatermeléséhez.", ro: "Hidrocentrală pe râul Naryn, care contribuie la producția de energie a regiunii.", en: "Hydroelectric power plant on the Naryn River, contributing to the region's energy production." , es: "Central hidroeléctrica en el Naryn que contribuye a la obtención de energía de la región.", pt: "Central hidroelétrica no rio Naryn que contribui para a produção de energia da região.", fr: "Centrale hydroélectrique sur la Naryn, contribuant à la production d'énergie de la région."},
     facts: {
       de: ["Teil der Naryn-Wasserkraftkaskade.", "Die Anlage hat drei Turbinen."],
@@ -350,7 +345,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     parent: "KG-J",
     coords: [72.1750, 41.1969],
     name: { de: "Schamaldy-Sai-Wasserkraftwerk", hu: "Samaldi-Szaj vízerőmű", ro: "Hidrocentrala Shamaldy-Say", en: "Shamaldy-Say Hydroelectric Power Station"},
-    image: "/poi-images/shamaldy-say-hpp-economic-v2.webp",
     description: { de: "Ein weiteres Kraftwerk der Naryn-Kaskade in Kirgisistan.", hu: "Egy újabb erőmű a kirgizisztáni Narin-kaszkádban.", ro: "O altă centrală din cascada Naryn din Kârgâzstan.", en: "Another power plant of the Naryn cascade in Kyrgyzstan." , es: "Otra central eléctrica de la cascada del Naryn en Kirguistán.", pt: "Mais uma central elétrica da cascata de Naryn no Quirguistão.", fr: "Une autre centrale électrique de la cascade de Naryn au Kirghizistan."},
     facts: {
       de: ["Befindet sich flussabwärts von Tasch-Kümür.", "Produziert erneuerbare Energie."],
@@ -683,7 +677,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     parent: "KG-J",
     coords: [72.1333, 41.1667],
     name: { de: "Utsch-Kurgan-Wasserkraftwerk", hu: "Ucs-Kurgan vízerőmű", ro: "Hidrocentrala Uch-Kurgan", en: "Uch-Kurgan Hydroelectric Power Station"},
-    image: "/poi-images/uch-kurgan-hpp-economic-v2.webp",
     description: { de: "Das erste gebaute Kraftwerk der Naryn-Kaskade nahe der usbekischen Grenze.", hu: "A Narin-kaszkád elsőként épült erőműve az üzbég határ közelében.", ro: "Prima centrală construită din cascada Naryn, aproape de granița cu Uzbekistanul.", en: "The first built power plant of the Naryn cascade near the Uzbek border." , es: "La primera central construida de la cascada del Naryn, cerca de la frontera uzbeka.", pt: "A primeira central construída da cascata de Naryn, perto da fronteira com o Uzbequistão.", fr: "La première centrale construite sur la cascade de Naryn, près de la frontière ouzbèke."},
     facts: {
       de: ["Eröffnet im Jahr 1961.", "Spielt eine wichtige Rolle bei der Bewässerung und Stromerzeugung."],
@@ -719,7 +712,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     parent: "KG-J",
     coords: [73.0800, 41.8317],
     name: { de: "Kambar-Ata-2-Wasserkraftwerk", hu: "Kambar-Ata-2 vízerőmű", ro: "Hidrocentrala Kambar-Ata-2", en: "Kambar-Ata-2 Hydroelectric Power Station"},
-    image: "/poi-images/kambar-ata-2-hpp-economic-v2.webp",
     description: { de: "Ein modernes Wasserkraftprojekt zur Steigerung der Energiekapazität Kirgisistans.", hu: "Modern vízerőműprojekt Kirgizisztán energiakapacitásának növelésére.", ro: "Un proiect hidroenergetic modern pentru creșterea capacității energetice a Kârgâzstanului.", en: "A modern hydroelectric project to increase Kyrgyzstan's energy capacity." , es: "Un moderno proyecto hidroeléctrico para aumentar la capacidad energética de Kirguistán.", pt: "Um moderno projeto hidroelétrico para aumentar a capacidade energética do Quirguistão.", fr: "Un projet hydroélectrique moderne visant à accroître la capacité énergétique du Kirghizistan."},
     facts: {
       de: ["Der erste Block ging 2010 in Betrieb.", "Wurde teilweise mit einer kontrollierten Sprengung gebaut."],
@@ -1016,7 +1008,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     parent: "KG-GB",
     coords: [74.6542, 42.8778],
     name: { de: "Heizkraftwerk Bischkek", hu: "Biskek hőerőmű", ro: "CET Bishkek", en: "Bishkek Thermal Power Plant"},
-    image: "/poi-images/bishkek-tpp-economic-v2.webp",
     description: { de: "Das größte Wärmekraftwerk des Landes, das die Hauptstadt mit Strom und Wärme versorgt.", hu: "Az ország legnagyobb hőerőműve, amely a fővárost látja el árammal és távhővel.", ro: "Cea mai mare centrală termoelectrică din țară, furnizând energie și căldură capitalei.", en: "The largest thermal power plant in the country, providing electricity and heat to the capital." , es: "La mayor central térmica del país, que abastece a la capital con electricidad y calefacción.", pt: "A maior central térmica do país, que abastece a capital com eletricidade e calor.", fr: "La plus grande centrale thermique du pays, qui alimente la capitale en électricité et en chaleur."},
     facts: {
       de: ["Nutzt vorwiegend Kohle als Brennstoff.", "Wurde in den letzten Jahren umfassend modernisiert."],
@@ -1421,7 +1412,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     parent: "KG-GB",
     coords: [74.6214, 42.9231],
     name: { de: "Dordoi-Basar", hu: "Dordoj piac", ro: "Bazarul Dordoi", en: "Dordoi Bazaar"},
-    image: "/poi-images/dordoi-bazaar-economic-v2.webp",
     description: { de: "Einer der größten Großhandelsmärkte in Zentralasien für Konsumgüter.", hu: "Közép-Ázsia egyik legnagyobb fogyasztásicikk-nagykereskedelmi piaca.", ro: "Unul dintre cele mai mari piețe en-gros din Asia Centrală pentru bunuri de consum.", en: "One of the largest wholesale markets in Central Asia for consumer goods." , es: "Uno de los mayores mercados mayoristas de bienes de consumo en Asia Central.", pt: "Um dos maiores mercados grossistas de bens de consumo na Ásia Central.", fr: "L'un des plus grands marchés de gros d'Asie centrale pour les biens de consommation."},
     facts: {
       de: ["Ein riesiger Umschlagplatz für Waren aus China.", "Bietet Zehntausenden Menschen Beschäftigung."],
@@ -2006,7 +1996,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     parent: "KG-O",
     coords: [72.8531, 40.7078],
     name: { de: "Kara-Suu-Basar", hu: "Kara-Szuu piac", ro: "Bazarul Kara-Suu", en: "Kara-Suu Bazaar"},
-    image: "/poi-images/kara-suu-bazaar-economic-v2.webp",
     description: { de: "Wichtiger Markt im Ferghanatal, nahe der Grenze zu Usbekistan.", hu: "Fontos piac a Fergana-völgyben, az üzbég határ közelében.", ro: "Piață importantă în Valea Fergana, aproape de granița cu Uzbekistan.", en: "Important market in the Fergana Valley, near the border with Uzbekistan." , es: "Importante mercado en el valle de Fergana, cerca de la frontera con Uzbekistán.", pt: "Importante mercado no vale de Fergana, perto da fronteira com o Uzbequistão.", fr: "Marché important dans la vallée de Ferghana, près de la frontière avec l'Ouzbékistan."},
     facts: {
       de: ["Spielt eine zentrale Rolle im grenzüberschreitenden Handel.", "Ist einer der größten Märkte in Süd-Kirgisistan."],
@@ -2339,7 +2328,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     parent: "KG-C",
     coords: [73.8472, 42.8250],
     name: { de: "Urananreicherungsanlage Kara-Balta", hu: "Kara-Balta urándúsító üzem", ro: "Fabrica de minerit Kara-Balta", en: "Kara-Balta Mining Plant"},
-    image: "/poi-images/kara-balta-mining-plant-economic-v2.webp",
     description: { de: "Ein bedeutender Industriekomplex zur Verarbeitung von Uranerz.", hu: "Jelentős ipari komplexum az uránérc feldolgozására.", ro: "Un complex industrial important pentru prelucrarea minereului de uraniu.", en: "A significant industrial complex for processing uranium ore." , es: "Un importante complejo industrial para el procesamiento de mineral de uranio.", pt: "Um importante complexo industrial para o processamento de minério de urânio.", fr: "Un important complexe industriel pour le traitement du minerai d'uranium."},
     facts: {
       de: ["Ursprünglich in der Sowjetzeit gegründet.", "Eines der größten Werke seiner Art in der Region."],
@@ -2420,7 +2408,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     parent: "KG-B",
     coords: [71.3411, 39.9481],
     name: { de: "Quecksilberwerk Chaidarkan", hu: "Hajdarkan higanyüzem", ro: "Fabrica de mercur Khaidarkan", en: "Khaidarkan Mercury Plant"},
-    image: "/poi-images/khaidarkan-mercury-plant-economic-v2.webp",
     description: { de: "Einer der wenigen weltweit verbliebenen primären Quecksilberproduzenten.", hu: "A világ kevés fennmaradó elsődleges higanytermelőinek egyike.", ro: "Unul dintre puținii producători primari de mercur rămași în lume.", en: "One of the few remaining primary mercury producers in the world." , es: "Uno de los pocos productores primarios de mercurio que quedan en el mundo.", pt: "Um dos poucos produtores primários de mercúrio que restam no mundo.", fr: "L'un des rares producteurs primaires de mercure encore en activité dans le monde."},
     facts: {
       de: ["Wurde während des Zweiten Weltkriegs eröffnet.", "Exportierte Quecksilber weltweit."],
@@ -2609,7 +2596,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     parent: "KG-B",
     coords: [71.7258, 40.1278],
     name: { de: "Antimonwerk Kadamdschai", hu: "Kadamdzsaj antimonüzem", ro: "Fabrica de antimoniu Kadamjay", en: "Kadamjay Antimony Plant"},
-    image: "/poi-images/kadamjay-antimony-plant-economic-v2.webp",
     description: { de: "Ein großes metallurgisches Werk zur Herstellung von Antimon.", hu: "Egy nagy kohászati üzem antimon előállítására.", ro: "O mare fabrică metalurgică pentru producția de antimoniu.", en: "A large metallurgical plant for the production of antimony." , es: "Una gran planta metalúrgica para la producción de antimonio.", pt: "Uma grande unidade metalúrgica para a produção de antimónio.", fr: "Une grande usine métallurgique pour la production d'antimoine."},
     facts: {
       de: ["Das hier produzierte Antimon galt als Standard in der Sowjetunion.", "Ein zentraler Wirtschaftsmotor der Region Batken."],
@@ -2762,7 +2748,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     parent: "KG-B",
     coords: [69.5708, 39.9372],
     name: { de: "Kohlemine Sülüktü", hu: "Szülüktü szénbánya", ro: "Mina de cărbune Sulukta", en: "Sulukta Coal Mine"},
-    image: "/poi-images/sulukta-coal-mine-economic-v2.webp",
     description: { de: "Ein historisches Zentrum des Kohlebergbaus im extremen Südwesten Kirgisistans.", hu: "A szénbányászat történelmi központja Kirgizisztán legdélnyugatibb részén.", ro: "Un centru istoric al mineritului de cărbune în sud-vestul extrem al Kârgâzstanului.", en: "A historical center of coal mining in the extreme southwest of Kyrgyzstan." , es: "Un centro histórico de la minería del carbón en el extremo suroeste de Kirguistán.", pt: "Um centro histórico da mineração de carvão no extremo sudoeste do Quirguistão.", fr: "Un centre historique d'extraction de charbon à l'extrême sud-ouest du Kirghizistan."},
     facts: {
       de: ["Eines der ältesten Kohlezentren Zentralasiens.", "Die Kohle wird hauptsächlich lokal verbraucht."],
@@ -3095,7 +3080,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     parent: "KG-C",
     coords: [74.8467, 42.8872],
     name: { de: "Zementfabrik Kant", hu: "Kant cementgyár", ro: "Fabrica de ciment Kant", en: "Kant Cement Plant"},
-    image: "/poi-images/kant-cement-plant-economic-v2.webp",
     description: { de: "Ein bedeutender Hersteller von Baustoffen in der Tschüi-Ebene.", hu: "Jelentős építőanyag-gyártó a Csüj-síkságon.", ro: "Un important producător de materiale de construcție din Câmpia Chui.", en: "A major manufacturer of building materials in the Chuy Valley." , es: "Un importante fabricante de materiales de construcción en el valle del Chuy.", pt: "Um importante fabricante de materiais de construção no vale de Chuy.", fr: "Un important fabricant de matériaux de construction dans la plaine de Tchouï."},
     facts: {
       de: ["Produziert Zement für den heimischen Markt und Export.", "Wichtig für die Bauindustrie Kirgisistans."],
@@ -3176,7 +3160,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     parent: "KG-J",
     coords: [72.4578, 41.2597],
     name: { de: "Glühlampenwerk Mailuu-Suu", hu: "Majluu-Szuu izzógyár", ro: "Fabrica de becuri Mailuu-Suu", en: "Mailuu-Suu Lightbulb Factory"},
-    image: "/poi-images/mailuu-suu-lightbulb-factory-economic-v2.webp",
     description: { de: "Eine der größten Fabriken für Glühlampen in Zentralasien.", hu: "Közép-Ázsia egyik legnagyobb izzólámpa gyára.", ro: "Una dintre cele mai mari fabrici de becuri din Asia Centrală.", en: "One of the largest lightbulb factories in Central Asia." , es: "Una de las mayores fábricas de bombillas en Asia Central.", pt: "Uma das maiores fábricas de lâmpadas na Ásia Central.", fr: "L'une des plus grandes usines d'ampoules électriques d'Asie centrale."},
     facts: {
       de: ["Gegründet, um die lokale Industrie nach dem Uranbergbau zu stärken.", "Produziert Millionen von Glühbirnen jährlich."],

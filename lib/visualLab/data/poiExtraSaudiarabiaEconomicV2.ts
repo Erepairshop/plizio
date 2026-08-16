@@ -233,7 +233,6 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     parent: "SA-02",
     coords: [39.0945, 22.5186],
     name: { de: "König-Abdullah-Hafen", hu: "Abdullah Király Kikötő", ro: "Portul Regele Abdullah", en: "King Abdullah Port"},
-    image: "/poi-images/king-abdullah-port-economic-v2.webp",
     description: { de: "Der König-Abdullah-Hafen ist der erste in privater Hand befindliche Seehafen Saudi-Arabiens und verzeichnet ein enormes Wachstum.", hu: "Az Abdullah Király Kikötő Szaúd-Arábia első magántulajdonban lévő tengeri kikötője, amely hatalmas növekedést mutat.", ro: "Portul Regele Abdullah este primul port maritim deținut privat din Arabia Saudită, înregistrând o creștere masivă.", en: "King Abdullah Port is Saudi Arabia's first privately owned seaport, experiencing tremendous growth." , es: "El Puerto Rey Abdullah es el primer puerto marítimo de propiedad privada de Arabia Saudita y está experimentando un crecimiento enorme.", pt: "O Porto Rei Abdullah é o primeiro porto marítimo privado da Arábia Saudita e regista um crescimento enorme.", fr: "Le port du roi Abdullah est le premier port maritime privé d'Arabie saoudite et connaît une croissance énorme."},
     facts: {
       de: ["Schnellstwachsender Hafen der Welt.", "Liegt an der Küste des Roten Meeres."],
@@ -314,7 +313,6 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     parent: "SA-04",
     coords: [49.5658, 27.0116],
     name: { de: "Industriestadt Dschubail", hu: "Dzsubail Ipari Város", ro: "Orașul Industrial Jubail", en: "Jubail Industrial City"},
-    image: "/poi-images/jubail-industrial-city-economic-v2.webp",
     description: { de: "Die Industriestadt Dschubail ist das größte zivile Ingenieurprojekt der Welt und ein globales Zentrum für Petrochemie.", hu: "A Dzsubail Ipari Város a világ legnagyobb civil mérnöki projektje és a petrolkémia egyik globális központja.", ro: "Orașul Industrial Jubail este cel mai mare proiect de inginerie civilă din lume și un centru global pentru petrochimie.", en: "Jubail Industrial City is the largest civil engineering project in the world and a global hub for petrochemicals." , es: "La Ciudad Industrial de Jubail es el proyecto de ingeniería civil más grande del mundo y un centro global para la petroquímica.", pt: "A Cidade Industrial de Jubail é o maior projeto de engenharia civil do mundo e um centro global para a petroquímica.", fr: "La cité industrielle de Jubail est le plus grand projet de génie civil au monde et un centre mondial pour la pétrochimie."},
     facts: {
       de: ["Größtes Industrieprojekt der Welt.", "Zentrum für Petrochemie.", "Liegt am Persischen Golf."],
@@ -350,7 +348,6 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     parent: "SA-03",
     coords: [38.0622, 24.0891],
     name: { de: "Industriestadt Yanbu", hu: "Janbu Ipari Város", ro: "Orașul Industrial Yanbu", en: "Yanbu Industrial City"},
-    image: "/poi-images/yanbu-industrial-city-economic-v2.webp",
     description: { de: "Die Industriestadt Yanbu am Roten Meer dient als wichtiger Exportpunkt für saudisches Öl und Gas in die westliche Welt.", hu: "A Vörös-tenger partján fekvő Janbu Ipari Város fontos exportpontja a szaúdi olajnak és gáznak a nyugati világ felé.", ro: "Orașul Industrial Yanbu de pe Marea Roșie servește drept punct major de export pentru petrolul și gazele saudite către occident.", en: "Yanbu Industrial City on the Red Sea serves as a major export point for Saudi oil and gas to the western world." , es: "La ciudad industrial de Yanbu, en el Mar Rojo, sirve como punto de exportación clave para el petróleo y gas saudí hacia el mundo occidental.", pt: "A cidade industrial de Yanbu, no Mar Vermelho, serve como um ponto de exportação chave para o petróleo e gás saudita para o mundo ocidental.", fr: "La ville industrielle de Yanbu, sur la mer Rouge, sert de point d'exportation clé pour le pétrole et le gaz saoudiens vers le monde occidental."},
     facts: {
       de: ["Wichtiges Zentrum für Öl und Gas.", "Zweitgrößter Industriehafen am Roten Meer."],
@@ -539,7 +536,6 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     parent: "SA-04",
     coords: [50.1506, 26.5028],
     name: { de: "König-Abdulaziz-Hafen Dammam", hu: "Abdulaziz Király Kikötő Dammám", ro: "Portul Regele Abdulaziz Dammam", en: "King Abdulaziz Port Dammam"},
-    image: "/poi-images/king-abdulaziz-port-dammam-economic-v2.webp",
     description: { de: "Der König-Abdulaziz-Hafen in Dammam ist der größte Hafen am Persischen Golf und das Tor zur Ostprovinz.", hu: "A dammámi Abdulaziz Király Kikötő a Perzsa-öböl legnagyobb kikötője és a Keleti tartomány kapuja.", ro: "Portul Regele Abdulaziz din Dammam este cel mai mare port din Golful Persic și poarta de intrare în Provincia de Est.", en: "King Abdulaziz Port in Dammam is the largest port on the Arabian Gulf and the gateway to the Eastern Province." , es: "El Puerto Rey Abdulaziz en Dammam es el puerto más grande del Golfo Pérsico y la puerta de entrada a la Provincia Oriental.", pt: "O Porto Rei Abdulaziz em Dammam é o maior porto do Golfo Pérsico e a porta de entrada para a Província Oriental.", fr: "Le port du roi Abdulaziz à Dammam est le plus grand port du golfe Persique et la porte d'entrée de la province orientale."},
     facts: {
       de: ["Größter Hafen am Persischen Golf.", "Zentraler Umschlagplatz für den Export."],
@@ -575,7 +571,6 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     parent: "SA-03",
     coords: [40.8752, 23.4981],
     name: { de: "Goldmine Mahd adh-Dhahab", hu: "Mahd adh-Dhahab aranybánya", ro: "Mina de aur Mahd adh Dhahab", en: "Mahd adh Dhahab Mine"},
-    image: "/poi-images/mahd-adh-dhahab-mine-economic-v2.webp",
     description: { de: "Die Mine Mahd adh-Dhahab, auch als 'Wiege des Goldes' bekannt, ist die wichtigste Goldmine in Saudi-Arabien.", hu: "A Mahd adh-Dhahab bánya, amelyet az 'Arany bölcsőjeként' is ismernek, Szaúd-Arábia legfontosabb aranybányája.", ro: "Mina Mahd adh Dhahab, cunoscută și sub numele de 'Leagănul Aurului', este cea mai importantă mină de aur din Arabia Saudită.", en: "Mahd adh Dhahab Mine, also known as the 'Cradle of Gold', is the most important gold mine in Saudi Arabia." , es: "La mina de Mahd adh-Dhahab, también conocida como la 'Cuna del Oro', es la mina de oro más importante de Arabia Saudita.", pt: "A mina de Mahd adh-Dhahab, também conhecida como a 'Berço do Ouro', é a mina de ouro mais importante da Arábia Saudita.", fr: "La mine de Mahd adh-Dhahab, également connue sous le nom de 'Berceau de l'Or', est la mine d'or la plus importante d'Arabie saoudite."},
     facts: {
       de: ["Bedeutendste Goldmine des Landes.", "Bereits in der Antike genutzt."],
@@ -611,7 +606,6 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     parent: "SA-04",
     coords: [49.5000, 25.4333],
     name: { de: "Ghawar-Ölfeld", hu: "Gavar olajmező", ro: "Câmpul petrolier Ghawar", en: "Ghawar Oil Field"},
-    image: "/poi-images/ghawar-oil-field-economic-v2.webp",
     description: { de: "Das Ghawar-Ölfeld ist das bei weitem größte konventionelle Ölfeld der Welt und bildet das Rückgrat der saudischen Ölproduktion.", hu: "A Gavar olajmező messze a világ legnagyobb hagyományos olajmezője, amely a szaúdi olajkitermelés gerincét adja.", ro: "Câmpul petrolier Ghawar este de departe cel mai mare câmp petrolier convențional din lume, formând coloana vertebrală a producției saudite.", en: "The Ghawar Oil Field is by far the largest conventional oil field in the world and forms the backbone of Saudi oil production." , es: "El campo petrolífero de Ghawar es, con diferencia, el mayor campo petrolífero convencional del mundo y constituye la columna vertebral de la producción petrolera saudí.", pt: "O campo petrolífero de Ghawar é de longe o maior campo petrolífero convencional do mundo e forma a espinha dorsal da produção petrolífera saudita.", fr: "Le champ pétrolifère de Ghawar est de loin le plus grand champ pétrolifère conventionnel au monde et constitue l'épine dorsale de la production pétrolière saoudienne."},
     facts: {
       de: ["Das größte Onshore-Ölfeld der Welt.", "Entdeckt im Jahr 1948."],
@@ -647,7 +641,6 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     parent: "SA-04",
     coords: [48.7500, 28.1667],
     name: { de: "Safaniya-Ölfeld", hu: "Szafanija olajmező", ro: "Câmpul petrolier Safaniya", en: "Safaniya Oil Field"},
-    image: "/poi-images/safaniya-oil-field-economic-v2.webp",
     description: { de: "Das Safaniya-Ölfeld im Persischen Golf ist das größte Offshore-Ölfeld der Welt und fördert schweres Rohöl.", hu: "A Perzsa-öbölben található Szafanija olajmező a világ legnagyobb tengeri olajmezője, ahonnan nehéz kőolajat termelnek ki.", ro: "Câmpul petrolier Safaniya din Golful Persic este cel mai mare câmp petrolier offshore din lume, extrăgând țiței greu.", en: "The Safaniya Oil Field in the Arabian Gulf is the largest offshore oil field in the world, producing heavy crude oil." , es: "El campo petrolífero de Safaniya, en el Golfo Pérsico, es el mayor campo petrolífero offshore del mundo y produce crudo pesado.", pt: "O campo de petróleo de Safaniya, no Golfo Pérsico, é o maior campo de petróleo offshore do mundo e produz petróleo bruto pesado.", fr: "Le champ pétrolifère de Safaniya, dans le golfe Persique, est le plus grand champ pétrolifère offshore au monde et produit du pétrole brut lourd."},
     facts: {
       de: ["Das größte Offshore-Ölfeld der Welt.", "Wird von Saudi Aramco betrieben."],
@@ -944,7 +937,6 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     parent: "SA-01",
     coords: [46.7563, 24.6465],
     name: { de: "Trockenhafen Riad", hu: "Rijád Szárazkikötő", ro: "Portul uscat Riyadh", en: "Riyadh Dry Port"},
-    image: "/poi-images/riyadh-dry-port-economic-v2.webp",
     description: { de: "Der Trockenhafen Riad ist ein zentraler Logistikknotenpunkt, der über das Eisenbahnnetz mit dem Hafen in Dammam verbunden ist.", hu: "A Rijád Szárazkikötő egy központi logisztikai csomópont, amely vasúton kapcsolódik a dammámi kikötőhöz.", ro: "Portul uscat din Riyadh este un nod logistic central, conectat prin calea ferată la portul din Dammam.", en: "The Riyadh Dry Port is a central logistics hub connected by the railway network to the port in Dammam." , es: "El puerto seco de Riad es un centro logístico central conectado a la red ferroviaria con el puerto de Dammam.", pt: "O porto seco de Riade é um centro logístico central conectado à rede ferroviária com o porto de Dammam.", fr: "Le port sec de Riyad est un centre logistique central relié au réseau ferroviaire avec le port de Dammam."},
     facts: {
       de: ["Der größte Binnenhafen des Landes.", "Verbindet Riad mit Dammam."],
@@ -1088,7 +1080,6 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     parent: "SA-09",
     coords: [42.3333, 17.0667],
     name: { de: "Wirtschaftsstadt Dschasan", hu: "Dzsízán Gazdasági Város", ro: "Orașul Economic Jazan", en: "Jazan Economic City"},
-    image: "/poi-images/jazan-economic-city-economic-v2.webp",
     description: { de: "Die Wirtschaftsstadt Dschasan soll die Entwicklung in der südwestlichen Region durch Schwer- und Leichtindustrie vorantreiben.", hu: "A Dzsízán Gazdasági Város célja, hogy nehéz- és könnyűipari beruházásokkal fellendítse a délnyugati régió fejlődését.", ro: "Orașul Economic Jazan este menit să stimuleze dezvoltarea în regiunea de sud-vest prin industrii grele și ușoare.", en: "Jazan Economic City aims to drive development in the southwestern region through heavy and light industries." , es: "La Ciudad Económica de Jazan pretende impulsar el desarrollo en la región suroeste mediante la industria pesada y ligera.", pt: "A Cidade Económica de Jazan visa promover o desenvolvimento na região sudoeste através da indústria pesada e ligeira.", fr: "La cité économique de Jazan vise à stimuler le développement de la région sud-ouest grâce à l'industrie lourde et légère."},
     facts: {
       de: ["Soll nicht-ölbasierte Industrien fördern.", "Liegt nahe der jemenitischen Grenze."],
@@ -1124,7 +1115,6 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     parent: "SA-08",
     coords: [38.5667, 31.5500],
     name: { de: "Wa'ad al-Shamal", hu: "Wa'ad Al Shamal", ro: "Wa'ad Al Shamal", en: "Wa'ad Al Shamal"},
-    image: "/poi-images/waad-al-shamal-economic-v2.webp",
     description: { de: "Wa'ad al-Shamal ist ein riesiges Industrieprojekt im Norden des Landes, das sich auf den Abbau und die Produktion von Phosphat konzentriert.", hu: "A Wa'ad Al Shamal egy hatalmas ipari projekt az ország északi részén, amely a foszfát bányászatára és feldolgozására fókuszál.", ro: "Wa'ad Al Shamal este un proiect industrial masiv în nordul țării, concentrat pe extracția și producția de fosfați.", en: "Wa'ad Al Shamal is a massive industrial project in the north of the country focused on phosphate mining and production." , es: "Wa'ad al-Shamal es un enorme proyecto industrial en el norte del país, centrado en la extracción y producción de fosfato.", pt: "Wa'ad al-Shamal é um enorme projeto industrial no norte do país, focado na extração e produção de fosfato.", fr: "Wa'ad al-Shamal est un immense projet industriel dans le nord du pays, axé sur l'extraction et la production de phosphate."},
     facts: {
       de: ["Zentrum für Phosphatabbau.", "Stärkt die Wirtschaft im Norden."],
@@ -1160,7 +1150,6 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     parent: "SA-02",
     coords: [39.0500, 20.6667],
     name: { de: "Kraftwerk Shoaiba", hu: "Shoaiba Erőmű", ro: "Centrala Electrică Shoaiba", en: "Shoaiba Power Plant"},
-    image: "/poi-images/shoaiba-power-plant-economic-v2.webp",
     description: { de: "Das Kraftwerk Shoaiba ist ein riesiger Komplex, der sowohl große Mengen Strom erzeugt als auch eine der weltweit größten Meerwasserentsalzungsanlagen betreibt.", hu: "A Shoaiba Erőmű egy hatalmas komplexum, amely amellett, hogy jelentős mennyiségű áramot termel, a világ egyik legnagyobb vízsótalanító üzemét is magában foglalja.", ro: "Centrala Electrică Shoaiba este un complex masiv care generează cantități mari de energie și operează una dintre cele mai mari stații de desalinizare din lume.", en: "The Shoaiba Power Plant is a massive complex that generates large amounts of electricity while operating one of the world's largest desalination plants." , es: "La central eléctrica de Shoaiba es un complejo inmenso que genera gran cantidad de electricidad y opera una de las plantas desalinizadoras de agua de mar más grandes del mundo.", pt: "A central elétrica de Shoaiba é um complexo imenso que gera grandes quantidades de eletricidade e opera uma das maiores plantas de dessalinização de água do mar do mundo.", fr: "La centrale électrique de Shoaiba est un complexe immense qui produit de grandes quantités d'électricité et exploite l'une des plus grandes usines de dessalement d'eau de mer au monde."},
     facts: {
       de: ["Eines der größten Kraftwerke der Welt.", "Kombiniert Strom und Entsalzung."],
@@ -1241,7 +1230,6 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     parent: "SA-02",
     coords: [39.0000, 22.7500],
     name: { de: "Petro Rabigh", hu: "Petro Rabigh", ro: "Petro Rabigh", en: "Petro Rabigh"},
-    image: "/poi-images/petro-rabigh-economic-v2.webp",
     description: { de: "Petro Rabigh ist eine der größten integrierten Raffinerie- und Petrochemieanlagen der Welt und befindet sich an der Westküste Saudi-Arabiens.", hu: "A Petro Rabigh a világ egyik legnagyobb integrált finomító és petrolkémiai üzeme, amely Szaúd-Arábia nyugati partján található.", ro: "Petro Rabigh este una dintre cele mai mari facilități integrate de rafinare și petrochimie din lume, situată pe coasta de vest a Arabiei Saudite.", en: "Petro Rabigh is one of the world's largest integrated refinery and petrochemical facilities, located on the west coast of Saudi Arabia." , es: "Petro Rabigh es una de las instalaciones integradas de refinería y petroquímica más grandes del mundo y se encuentra en la costa oeste de Arabia Saudita.", pt: "A Petro Rabigh é uma das maiores instalações integradas de refinaria e petroquímica do mundo e está situada na costa oeste da Arábia Saudita.", fr: "Petro Rabigh est l'une des plus grandes installations intégrées de raffinage et de pétrochimie au monde et est située sur la côte ouest de l'Arabie saoudite."},
     facts: {
       de: ["Großer Raffinerie- und Petrochemiekomplex.", "Joint Venture mit Sumitomo Chemical."],
@@ -1277,7 +1265,6 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     parent: "SA-04",
     coords: [53.9500, 22.5333],
     name: { de: "Shaybah-Ölfeld", hu: "Sajba olajmező", ro: "Câmpul petrolier Shaybah", en: "Shaybah Oil Field"},
-    image: "/poi-images/shaybah-oil-field-economic-v2.webp",
     description: { de: "Das Shaybah-Ölfeld liegt abgelegen in der Wüste Rub al-Chali und ist ein Meisterwerk der Technik, um in dieser rauen Umgebung Öl zu fördern.", hu: "A Rub al-Háli sivatagban elszigetelten fekvő Sajba olajmező a mérnöki tudományok mesterműve, amely ebben a zord környezetben teszi lehetővé az olajkitermelést.", ro: "Câmpul petrolier Shaybah, situat izolat în deșertul Rub al-Khali, este o capodoperă a ingineriei pentru extracția petrolului în acest mediu dur.", en: "Located remotely in the Rub al-Khali desert, the Shaybah Oil Field is an engineering masterpiece for extracting oil in such a harsh environment." , es: "El campo petrolífero de Shaybah está situado en el remoto desierto de Rub al-Jali y es una obra maestra de la ingeniería para extraer petróleo en este entorno hostil.", pt: "O campo de petróleo de Shaybah está localizado no remoto deserto de Rub al-Khali e é uma obra-prima da engenharia para extrair petróleo neste ambiente hostil.", fr: "Le champ pétrolifère de Shaybah est situé dans le désert reculé de Rub al-Khali et constitue un chef-d'œuvre d'ingénierie pour extraire du pétrole dans cet environnement hostile."},
     facts: {
       de: ["Liegt tief in der Rub al-Chali Wüste.", "Produziert hochwertiges Rohöl."],

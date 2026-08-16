@@ -273,7 +273,6 @@ export const poiExtraLaosNatureV2: POI[] = [
       hu: "Nam Khan folyó",
       ro: "Râul Nam Khan",
       en: "Nam Khan River"},
-    image: "/poi-images/nam-khan-river-nature-v2.webp",
     description: {
       de: "Ein bedeutender Nebenfluss des Mekong im Norden von Laos, der in der historischen Stadt Luang Prabang in den Hauptstrom mündet.",
       hu: "A Mekong egyik fontos mellékfolyója Laosz északi részén, amely a történelmi Luang Prabang városánál ömlik a fő folyóba.",
@@ -746,7 +745,6 @@ export const poiExtraLaosNatureV2: POI[] = [
       hu: "Nam Song folyó",
       ro: "Râul Nam Song",
       en: "Nam Song River"},
-    image: "/poi-images/nam-song-river-nature-v2.webp",
     description: {
       de: "Ein malerischer Fluss in Laos, der durch die atemberaubende Karstlandschaft rund um die Stadt Vang Vieng fließt und Touristen anzieht.",
       hu: "Egy festői laoszi folyó, amely a Vang Vieng várost körülvevő lenyűgöző karsztvidéken kanyarog, és vonzza a turistákat.",
@@ -1179,7 +1177,6 @@ export const poiExtraLaosNatureV2: POI[] = [
       hu: "Nong Fa tó",
       ro: "Lacul Nong Fa",
       en: "Nong Fa Lake"},
-    image: "/poi-images/nong-fa-lake-nature-v2.webp",
     description: {
       de: "Ein tiefblauer Vulkankratersee im abgelegenen Südosten von Laos, umgeben von dichten Wäldern und lokalen Legenden über Berggeister.",
       hu: "Egy mélykék vulkáni krátertó Laosz elszigetelt délkeleti részén, sűrű erdőkkel és hegyi szellemekről szóló helyi legendákkal övezve.",
@@ -1247,7 +1244,6 @@ export const poiExtraLaosNatureV2: POI[] = [
       hu: "Bokeo Természetvédelmi Terület",
       ro: "Rezervația Naturală Bokeo",
       en: "Bokeo Nature Reserve"},
-    image: "/poi-images/bokeo-nature-reserve-nature-v2.webp",
     description: {
       de: "Ein geschütztes Waldgebiet im Nordwesten von Laos, das speziell zum Schutz des extrem seltenen laotischen Schwarzschopfgibbons gegründet wurde.",
       hu: "Egy védett erdőterület Laosz északnyugati részén, amelyet kifejezetten a rendkívül ritka laoszi feketesapkás gibbon védelmére hoztak létre.",
@@ -1315,7 +1311,6 @@ export const poiExtraLaosNatureV2: POI[] = [
       hu: "Phou Hin Poun Nemzeti Park",
       ro: "Parcul Național Phou Hin Poun",
       en: "Phou Hin Poun National Park"},
-    image: "/poi-images/phou-hin-poun-park-nature-v2.webp",
     description: {
       de: "Ein beeindruckendes Naturschutzgebiet mit steilen Kalksteinbergen, tiefen Höhlen und unberührten Wäldern in der Provinz Khammouane.",
       hu: "Lenyűgöző természetvédelmi terület meredek mészkőhegyekkel, mély barlangokkal és érintetlen erdőkkel Khammouane tartományban.",
@@ -1383,7 +1378,6 @@ export const poiExtraLaosNatureV2: POI[] = [
       hu: "Dong Amphan Nemzeti Park",
       ro: "Parcul Național Dong Amphan",
       en: "Dong Amphan National Park"},
-    image: "/poi-images/dong-amphan-park-nature-v2.webp",
     description: {
       de: "Eines der abgelegensten und am wenigsten erforschten Schutzgebiete im Südosten von Laos, das dichte Wälder und reiche Wildtiervorkommen birgt.",
       hu: "Laosz délkeleti részének egyik legelzártabb és legkevésbé kutatott védett területe, amely sűrű erdőket és gazdag vadvilágot rejt.",
@@ -1451,7 +1445,6 @@ export const poiExtraLaosNatureV2: POI[] = [
       hu: "Dong Hua Sao Nemzeti Park",
       ro: "Parcul Național Dong Hua Sao",
       en: "Dong Hua Sao National Park"},
-    image: "/poi-images/dong-hua-sao-park-nature-v2.webp",
     description: {
       de: "Ein Schutzgebiet, das von den kühlen Höhen des Bolaven-Plateaus bis hinunter in die heißen Tiefebenen des Mekong-Tals abfällt.",
       hu: "Védett terület, amely a Bolaven-fennsík hűvös magaslataitól a Mekong-völgy forró alföldjéig ereszkedik le.",
@@ -1587,7 +1580,6 @@ export const poiExtraLaosNatureV2: POI[] = [
       hu: "Nakai-Nam Theun Nemzeti Park",
       ro: "Parcul Național Nakai-Nam Theun",
       en: "Nakai-Nam Theun National Park"},
-    image: "/poi-images/nakai-nam-theun-park-nature-v2.webp",
     description: {
       de: "Eines der größten und artenreichsten Naturschutzgebiete von Laos im Annamitengebirge, bekannt für bahnbrechende Wildtierentdeckungen.",
       hu: "Laosz egyik legnagyobb és legfajgazdagabb természetvédelmi területe az Annamita-hegységben, amely úttörő vadvilági felfedezésekről ismert.",
@@ -1772,7 +1764,6 @@ export const poiExtraLaosNatureV2: POI[] = [
       hu: "Phou Khao Khouay Nemzeti Park",
       ro: "Parcul Național Phou Khao Khouay",
       en: "Phou Khao Khouay National Park"},
-    image: "/poi-images/phou-khao-khouay-park-nature-v2.webp",
     description: {
       de: "Bedeutete übersetzt Berg des Büffelhorns, liegt dieser Park sehr nah an Vientiane und bietet eine Mischung aus Sandsteinbergen und Orchideenwäldern.",
       hu: "Lefordítva Bivalyszarv hegy, ez a park nagyon közel fekszik Vientiánéhoz, és a homokkő hegyek és orchideaerdők keverékét kínálja.",
@@ -1885,7 +1876,6 @@ export const poiExtraLaosNatureV2: POI[] = [
       hu: "Xe Pian Nemzeti Park",
       ro: "Parcul Național Xe Pian",
       en: "Xe Pian National Park"},
-    image: "/poi-images/xe-pian-park-nature-v2.webp",
     description: {
       de: "Ein weitläufiges Schutzgebiet im äußersten Süden, das weite Feuchtgebiete und dichte Wälder umfasst und an Kambodscha grenzt.",
       hu: "Kiterjedt védett terület a legdélibb részen, amely széles vizes élőhelyeket és sűrű erdőket foglal magában, és Kambodzsával határos.",
@@ -1953,7 +1943,6 @@ export const poiExtraLaosNatureV2: POI[] = [
       hu: "Dong Phou Vieng Nemzeti Park",
       ro: "Parcul Național Dong Phou Vieng",
       en: "Dong Phou Vieng National Park"},
-    image: "/poi-images/dong-phou-vieng-park-nature-v2.webp",
     description: {
       de: "Bekannt als der Wald der heiligen Geister, schützt dieser Park unberührte Natur und die traditionellen Lebensweisen lokaler ethnischer Minderheiten.",
       hu: "A szent szellemek erdejeként ismert park az érintetlen természetet és a helyi etnikai kisebbségek hagyományos életmódját védi.",
@@ -2021,7 +2010,6 @@ export const poiExtraLaosNatureV2: POI[] = [
       hu: "Phou Xang He Nemzeti Park",
       ro: "Parcul Național Phou Xang He",
       en: "Phou Xang He National Park"},
-    image: "/poi-images/phou-xang-he-park-nature-v2.webp",
     description: {
       de: "Ein markantes Bergmassiv und Naturreservat in Zentrallaos, das sich steil aus der umliegenden flachen Savannakhet-Ebene erhebt.",
       hu: "Markáns hegytömb és természetvédelmi terület Közép-Laoszban, amely meredeken emelkedik ki a környező lapos Savannakhet-síkságból.",
@@ -2134,7 +2122,6 @@ export const poiExtraLaosNatureV2: POI[] = [
       hu: "Nam Kading Nemzeti Park",
       ro: "Parcul Național Nam Kading",
       en: "Nam Kading National Park"},
-    image: "/poi-images/nam-kading-park-nature-v2.webp",
     description: {
       de: "Dieses Schutzgebiet wird vom wilden Fluss Nam Kading durchschnitten und schützt eines der intaktesten Trockenwaldökosysteme des Landes.",
       hu: "Ezt a védett területet a vad Nam Kading folyó szeli át, és az ország egyik leginkább érintetlen száraz erdei ökoszisztémáját védi.",
@@ -2202,7 +2189,6 @@ export const poiExtraLaosNatureV2: POI[] = [
       hu: "Xe Sap Nemzeti Park",
       ro: "Parcul Național Xe Sap",
       en: "Xe Sap National Park"},
-    image: "/poi-images/xe-sap-park-nature-v2.webp",
     description: {
       de: "Ein entlegener Park im Annamitengebirge in der Provinz Salavan, geprägt von dichten immergrünen Wäldern und extrem steilem Terrain.",
       hu: "Egy eldugott park az Annamita-hegységben Salavan tartományban, amelyet sűrű örökzöld erdők és rendkívül meredek terep jellemez.",
@@ -2338,7 +2324,6 @@ export const poiExtraLaosNatureV2: POI[] = [
       hu: "Phou Si hegy",
       ro: "Muntele Phou Si",
       en: "Mount Phou Si"},
-    image: "/poi-images/mount-phou-si-nature-v2.webp",
     description: {
       de: "Ein kleiner, aber markanter bewaldeter Hügel im Zentrum von Luang Prabang, der fantastische Panoramablicke auf den Mekong und die Stadt bietet.",
       hu: "Egy kicsi, de feltűnő erdős domb Luang Prabang központjában, amely fantasztikus panorámát kínál a Mekongra és a városra.",
@@ -2451,7 +2436,6 @@ export const poiExtraLaosNatureV2: POI[] = [
       hu: "Xe Bang Fai folyó",
       ro: "Râul Xe Bang Fai",
       en: "Xe Bang Fai River"},
-    image: "/poi-images/xe-bang-fai-river-nature-v2.webp",
     description: {
       de: "Dieser Fluss in Zentrallaos ist berühmt dafür, sich durch eines der größten Flusshöhlensysteme der Welt gebohrt zu haben.",
       hu: "Ez a Közép-Laoszban található folyó arról híres, hogy a világ egyik legnagyobb folyami barlangrendszerén fúrta keresztül magát.",

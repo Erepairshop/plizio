@@ -413,7 +413,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     parent: "UZ-SA",
     coords: [66.9748, 39.6547],
     name: { de: "Registan", hu: "Regisztán", ro: "Registan", en: "Registan"},
-    image: "/poi-images/registan-samarkand-history-v2.webp",
     description: { de: "Der Registan war das Herz der antiken Stadt Samarkand, umgeben von drei prächtigen Medresen.", hu: "A Regisztán az ősi Szamarkand központja volt, amelyet három lenyűgöző medresze vesz körül.", ro: "Registan a fost inima anticului oraș Samarkand, înconjurat de trei madrase magnifice.", en: "The Registan was the heart of the ancient city of Samarkand, surrounded by three magnificent madrasahs." , es: "El Registán era el corazón de la antigua ciudad de Samarcanda, rodeado por tres magníficas madrazas.", pt: "O Registan era o coração da antiga cidade de Samarcanda, rodeado por três magníficas madraças.", fr: "Le Registan était le cœur de l'ancienne cité de Samarcande, entouré de trois magnifiques médersas."},
     facts: {
       de: ["Im 15. bis 17. Jahrhundert erbaut", "Teil des UNESCO-Welterbes", "Zentrum der Timuriden-Dynastie"],
@@ -782,7 +781,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     parent: "UZ-SA",
     coords: [66.9698, 39.6483],
     name: { de: "Gur-Emir-Mausoleum", hu: "Gur-e-Amír mauzóleum", ro: "Mausoleul Gur-e-Amir", en: "Gur-e-Amir Mausoleum"},
-    image: "/poi-images/gur-e-amir-samarkand-history-v2.webp",
     description: { de: "Das Mausoleum von Timur ist ein architektonisches Meisterwerk und Vorbild für das Taj Mahal.", hu: "Timur mauzóleuma egy építészeti remekmű és a Tádzs Mahal előképe.", ro: "Mausoleul lui Timur este o capodoperă arhitecturală și un model pentru Taj Mahal.", en: "The mausoleum of Timur is an architectural masterpiece and a model for the Taj Mahal." , es: "El mausoleo de Tamerlán es una obra maestra de la arquitectura y sirvió de modelo para el Taj Mahal.", pt: "O mausoléu de Timur é uma obra-prima arquitetónica e serviu de modelo para o Taj Mahal.", fr: "Le mausolée de Tamerlan est un chef-d'œuvre architectural et a servi de modèle au Taj Mahal."},
     facts: {
       de: ["Im Jahr 1404 fertiggestellt", "Berühmt für die azurblaue Kuppel", "Grabstätte des Eroberers Timur"],
@@ -1115,7 +1113,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     parent: "UZ-SA",
     coords: [66.9877, 39.6631],
     name: { de: "Schah-i-Sinda", hu: "Sáh-i-Zinda", ro: "Shah-i-Zinda", en: "Shah-i-Zinda"},
-    image: "/poi-images/shah-i-zinda-samarkand-history-v2.webp",
     description: { de: "Diese Nekropole in Samarkand besteht aus faszinierenden blauen Mausoleen, die über Jahrhunderte erbaut wurden.", hu: "Ez a szamarkandi nekropolisz lenyűgöző kék mauzóleumokból áll, amelyek évszázadok alatt épültek.", ro: "Această necropolă din Samarkand este formată din mausolee albastre fascinante, construite de-a lungul secolelor.", en: "This necropolis in Samarkand consists of fascinating blue mausoleums built over centuries." , es: "Esta necrópolis en Samarcanda está compuesta por fascinantes mausoleos azules construidos a lo largo de los siglos.", pt: "Esta necrópole em Samarcanda é composta por fascinantes mausoléus azuis construídos ao longo de séculos.", fr: "Cette nécropole de Samarcande est composée de fascinants mausolées bleus édifiés au fil des siècles."},
     facts: {
       de: ["Bedeutet Der lebende König", "Erbaut vom 11. bis 19. Jahrhundert", "Wichtige islamische Pilgerstätte"],
@@ -1196,7 +1193,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     parent: "UZ-XO",
     coords: [60.3594, 41.3775],
     name: { de: "Itschan-Kala", hu: "Icsan Kala", ro: "Ichan Kala", en: "Ichan Kala"},
-    image: "/poi-images/ichan-kala-khiva-history-v2.webp",
     description: { de: "Die ummauerte Innenstadt von Chiwa ist ein riesiges Freilichtmuseum voller alter Moscheen und Paläste.", hu: "Híva fallal körülvett belső városa egy hatalmas szabadtéri múzeum, tele régi mecsetekkel és palotákkal.", ro: "Orașul interior fortificat din Khiva este un imens muzeu în aer liber, plin de moschei și palate vechi.", en: "The walled inner city of Khiva is a massive open-air museum full of old mosques and palaces." , es: "El casco antiguo amurallado de Jiva es un enorme museo al aire libre repleto de antiguas mezquitas y palacios.", pt: "A cidade velha murada de Khiva é um enorme museu ao ar livre repleto de antigas mesquitas e palácios.", fr: "La vieille ville fortifiée de Khiva est un immense musée à ciel ouvert regorgeant d'anciennes mosquées et de palais."},
     facts: {
       de: ["Umgeben von einer 10 Meter hohen Lehmmauer", "Besitzt über 50 historische Monumente", "Seit 1990 UNESCO-Welterbe"],
@@ -1529,7 +1525,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     parent: "UZ-BU",
     coords: [64.4109, 39.7780],
     name: { de: "Zitadelle Ark", hu: "Buharai bárka", ro: "Citadela Ark", en: "Ark of Bukhara"},
-    image: "/poi-images/ark-of-bukhara-history-v2.webp",
     description: { de: "Diese massive Festung war jahrhundertelang die Residenz der Emire von Buchara.", hu: "Ez a hatalmas erődítmény évszázadokon át a buharai emírek rezidenciája volt.", ro: "Această fortăreață masivă a fost reședința emirilor din Bukhara timp de secole.", en: "This massive fortress was the residence of the Emirs of Bukhara for centuries." , es: "Esta enorme fortaleza fue durante siglos la residencia de los emires de Bujará.", pt: "Esta enorme fortaleza foi, durante séculos, a residência dos emires de Bukhara.", fr: "Cette forteresse massive fut pendant des siècles la résidence des émirs de Boukhara."},
     facts: {
       de: ["Ursprünglich im 5. Jahrhundert erbaut", "Im Jahr 1920 stark beschädigt", "Beherbergte einst eine berühmte Bibliothek"],
@@ -1934,7 +1929,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     parent: "UZ-BU",
     coords: [64.4147, 39.7758],
     name: { de: "Poi-Kalyan", hu: "Po-i-Kalján", ro: "Po-i-Kalyan", en: "Po-i-Kalyan"},
-    image: "/poi-images/po-i-kalyan-bukhara-history-v2.webp",
     description: { de: "Ein architektonischer Komplex im Zentrum von Buchara, berühmt für sein beeindruckendes Minarett, das sogar Dschingis Khan verschonte.", hu: "Egy építészeti komplexum Buhara központjában, híres lenyűgöző minaretjéről, amelyet még Dzsingisz kán is megkímélt.", ro: "Un complex arhitectural în centrul orașului Bukhara, faimos pentru minaretul său impresionant, cruțat chiar și de Ginghis Han.", en: "An architectural complex in the center of Bukhara, famous for its impressive minaret that even Genghis Khan spared." , es: "Un complejo arquitectónico en el centro de Bujará, famoso por su impresionante minarete que incluso Gengis Kan perdonó.", pt: "Um complexo arquitetónico no centro de Bucara, famoso pelo seu impressionante minarete que até Gengis Khan poupou.", fr: "Un complexe architectural au centre de Boukhara, célèbre pour son minaret impressionnant que même Gengis Khan a épargné."},
     facts: {
       de: ["Kalyan-Minarett ist 45 Meter hoch", "Erbaut im Jahr 1127", "Das Zentrum des islamischen Buchara"],
@@ -2699,7 +2693,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     parent: "UZ-BU",
     coords: [64.4275, 39.7744],
     name: { de: "Chor Minor", hu: "Csor Minor", ro: "Chor Minor", en: "Chor Minor"},
-    image: "/poi-images/chor-minor-bukhara-history-v2.webp",
     description: { de: "Ein charmantes und ungewöhnliches Torgebäude in Buchara, das für seine vier markanten Kuppeln mit blauen Kacheln bekannt ist.", hu: "Buhara egy bájos és szokatlan kapuépülete, amely négy jellegzetes kék csempés kupolájáról ismert.", ro: "O poartă fermecătoare și neobișnuită din Bukhara, cunoscută pentru cele patru cupole distinctive acoperite cu faianță albastră.", en: "A charming and unusual gatehouse in Bukhara, known for its four distinctive blue-tiled domes." , es: "Un encantador e inusual edificio de entrada en Bujará, conocido por sus cuatro distintivas cúpulas con azulejos azules.", pt: "Um encantador e invulgar edifício de entrada em Bukhara, conhecido pelas suas quatro cúpulas distintivas com azulejos azuis.", fr: "Un bâtiment d'entrée charmant et insolite à Boukhara, connu pour ses quatre coupoles distinctives aux carreaux bleus."},
     facts: {
       de: ["Erbaut im Jahr 1807", "Der Name bedeutet Vier Minarette", "Jedes Minarett hat ein einzigartiges Design"],
@@ -3140,7 +3133,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     parent: "UZ-SA",
     coords: [66.9796, 39.6607],
     name: { de: "Bibi-Chanum-Moschee", hu: "Bibi-Hanim mecset", ro: "Moscheea Bibi-Khanym", en: "Bibi-Khanym Mosque"},
-    image: "/poi-images/bibi-khanym-mosque-history-v2.webp",
     description: { de: "Diese Moschee wurde im 15. Jahrhundert als eine der größten der islamischen Welt errichtet und nach Timurs Lieblingsfrau benannt.", hu: "Ezt a mecsetet a 15. században építették az iszlám világ egyik legnagyobbjaként, és Timur kedvenc feleségéről nevezték el.", ro: "Această moschee a fost construită în secolul al XV-lea ca fiind una dintre cele mai mari din lumea islamică, denumită după soția preferată a lui Timur.", en: "This mosque was built in the 15th century as one of the largest in the Islamic world, named after Timur's favorite wife." , es: "Esta mezquita fue erigida en el siglo XV como una de las más grandes del mundo islámico y nombrada en honor a la esposa favorita de Tamerlán.", pt: "Esta mesquita foi erguida no século XV como uma das maiores do mundo islâmico e baptizada em honra da esposa favorita de Timur.", fr: "Cette mosquée fut érigée au XVe siècle comme l'une des plus grandes du monde islamique et nommée d'après l'épouse préférée de Tamerlan."},
     facts: {
       de: ["Bauzeit von 1399 bis 1404", "Teilweise durch Erdbeben zerstört", "Das Hauptportal ist 35 Meter hoch"],
@@ -3581,7 +3573,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     parent: "UZ-SA",
     coords: [67.0055, 39.6745],
     name: { de: "Ulugbek-Observatorium", hu: "Ulugbek Obszervatórium", ro: "Observatorul Ulugh Beg", en: "Ulugh Beg Observatory"},
-    image: "/poi-images/ulugh-beg-observatory-history-v2.webp",
     description: { de: "Ein Meisterwerk der mittelalterlichen Astronomie, in dem im 15. Jahrhundert der genaueste Sternenkatalog seiner Zeit erstellt wurde.", hu: "A középkori csillagászat remekműve, ahol a 15. században elkészítették korának legpontosabb csillagkatalógusát.", ro: "O capodoperă a astronomiei medievale, unde a fost creat în secolul al XV-lea cel mai precis catalog de stele al vremii sale.", en: "A masterpiece of medieval astronomy, where the most accurate star catalog of its time was created in the 15th century." , es: "Una obra maestra de la astronomía medieval, donde en el siglo XV se creó el catálogo estelar más preciso de su época.", pt: "Uma obra-prima da astronomia medieval, onde no século XV foi criado o catálogo estelar mais preciso da sua época.", fr: "Un chef-d'œuvre de l'astronomie médiévale où fut dressé au XVe siècle le catalogue d'étoiles le plus précis de son temps."},
     facts: {
       de: ["In den 1420er Jahren erbaut", "Sextant-Radius von 40 Metern", "1908 von Archäologen wiederentdeckt"],
@@ -3806,7 +3797,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     parent: "UZ-QR",
     coords: [61.0286, 42.0133],
     name: { de: "Ayaz Kala", hu: "Ajaz Kala", ro: "Ayaz Kala", en: "Ayaz Kala"},
-    image: "/poi-images/ayaz-kala-history-v2.webp",
     description: { de: "Eine faszinierende archäologische Stätte am Rand der Kysylkum-Wüste, bestehend aus den Ruinen alter choresmischer Festungen.", hu: "Lenyűgöző régészeti lelőhely a Kizil-kum sivatag szélén, amely ősi horezmi erődök romjaiból áll.", ro: "Un sit arheologic fascinant la marginea deșertului Kyzylkum, constând în ruinele unor vechi fortărețe khorezmiene.", en: "A fascinating archaeological site on the edge of the Kyzylkum desert, consisting of the ruins of ancient Khorezmian fortresses." , es: "Un fascinante yacimiento arqueológico al borde del desierto de Kyzyl Kum, compuesto por las ruinas de antiguas fortalezas corasmias.", pt: "Um sítio arqueológico fascinante na orla do deserto de Kyzyl Kum, composto pelas ruínas de antigas fortalezas de Khorezm.", fr: "Un site archéologique fascinant en bordure du désert du Kyzylkoum, composé des ruines d'anciennes forteresses du Khorezm."},
     facts: {
       de: ["Entstand im 4. Jahrhundert v. Chr.", "Drei Festungsanlagen erhalten", "Verlassen um das 7. Jahrhundert"],
@@ -4139,7 +4129,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     parent: "UZ-QR",
     coords: [60.8222, 41.9269],
     name: { de: "Toprak Kala", hu: "Toprak Kala", ro: "Toprak Kala", en: "Toprak Kala"},
-    image: "/poi-images/toprak-kala-history-v2.webp",
     description: { de: "Die Ruinen der antiken Hauptstadt von Choresmien, die einen riesigen Palast und eine komplexe Stadtstruktur offenbaren.", hu: "Az ősi Horezm fővárosának romjai, amelyek egy hatalmas palotát és bonyolult városszerkezetet tárnak fel.", ro: "Ruinele capitalei antice a Khorezmului, care dezvăluie un palat uriaș și o structură urbană complexă.", en: "The ruins of the ancient capital of Khorezm, which reveal a huge palace and a complex city structure." , es: "Las ruinas de la antigua capital de Corasmia, que revelan un enorme palacio y una compleja estructura urbana.", pt: "As ruínas da antiga capital da Corasmia, que revelam um enorme palácio e uma estrutura urbana complexa.", fr: "Les ruines de l'ancienne capitale de Chorasmie, révélant un palais immense et une structure urbaine complexe."},
     facts: {
       de: ["Blütezeit im 2. und 3. Jahrhundert", "Ausgrabungen begannen 1938", "Bekannt für seine alten Fresken"],
@@ -5300,7 +5289,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     parent: "UZ-TK",
     coords: [69.2394, 41.3364],
     name: { de: "Hazrati-Imam-Komplex", hu: "Huszrati Imám komplexum", ro: "Complexul Khazrati Imam", en: "Khazrati Imam Complex"},
-    image: "/poi-images/khazrati-imam-tashkent-history-v2.webp",
     description: { de: "Das religiöse Herz von Taschkent, das Moscheen, Mausoleen und eine Bibliothek mit dem ältesten Koran der Welt beherbergt.", hu: "Taskent vallási központja, amely mecseteket, mauzóleumokat és egy könyvtárat foglal magában a világ legrégebbi Koránjával.", ro: "Inima religioasă a Tașkentului, care găzduiește moschei, mausolee și o bibliotecă cu cel mai vechi Coran din lume.", en: "The religious heart of Tashkent, which houses mosques, mausoleums, and a library with the oldest Quran in the world." , es: "El corazón religioso de Taskent, que alberga mezquitas, mausoleos y una biblioteca con el Corán más antiguo del mundo.", pt: "O coração religioso de Tashkent, que abriga mesquitas, mausoléus e uma biblioteca com o Alcorão mais antigo do mundo.", fr: "Le cœur religieux de Tachkent, abritant des mosquées, des mausolées et une bibliothèque contenant le plus vieux Coran au monde."},
     facts: {
       de: ["Heimat des Uthman-Korans aus dem 8. Jahrhundert", "Gewidmet dem ersten Imam Taschkents", "Nach einem Erdbeben im 16. Jahrhundert umgebaut"],
@@ -6569,7 +6557,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     parent: "UZ-FA",
     coords: [70.9385, 40.5394],
     name: { de: "Palast von Khudayar Khan", hu: "Hudajar kán palotája", ro: "Palatul lui Khudayar Khan", en: "Palace of Khudayar Khan"},
-    image: "/poi-images/palace-of-khudayar-khan-history-v2.webp",
     description: { de: "Die prächtige Residenz des letzten Herrschers von Kokand, bekannt für ihre reich verzierten Kacheln und Holzschnitzereien.", hu: "A kokandi utolsó uralkodó pompás rezidenciája, amely gazdagon díszített csempéiről és fafaragásairól ismert.", ro: "Reședința magnifică a ultimului conducător al Kokandului, cunoscută pentru faianța sa bogat decorată și sculpturile în lemn.", en: "The magnificent residence of the last ruler of Kokand, known for its richly decorated tiles and wood carvings." , es: "La magnífica residencia del último gobernante de Kokand, conocida por sus azulejos ricamente decorados y sus tallas en madera.", pt: "A magnífica residência do último governante de Kokand, conhecida pelos seus azulejos ricamente decorados e entalhes em madeira.", fr: "La magnifique résidence du dernier souverain de Kokand, réputée pour ses carreaux richement ornés et ses sculptures sur bois."},
     facts: {
       de: ["Erbaut zwischen 1863 und 1874", "Ursprünglich mit 119 Zimmern ausgestattet", "Heute ein Museum für lokale Geschichte"],
@@ -7370,7 +7357,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     parent: "UZ-BU",
     coords: [64.4005, 39.7768],
     name: { de: "Samaniden-Mausoleum", hu: "Számánida mauzóleum", ro: "Mausoleul Samanid", en: "Samanid Mausoleum"},
-    image: "/poi-images/samanid-mausoleum-history-v2.webp",
     description: { de: "Ein architektonisches Juwel in Buchara, das als eines der ältesten und bedeutendsten Gebäude der zentralasiatischen Baukunst gilt.", hu: "Egy építészeti ékszer Buharában, amelyet a közép-ázsiai építészet egyik legrégebbi és legjelentősebb épületének tartanak.", ro: "O bijuterie arhitecturală în Bukhara, considerată una dintre cele mai vechi și importante clădiri din arhitectura central-asiatică.", en: "An architectural jewel in Bukhara, considered one of the oldest and most important buildings in Central Asian architecture." , es: "Una joya arquitectónica en Bujará, considerada uno de los edificios más antiguos y significativos del arte constructivo centroasiático.", pt: "Uma joia arquitetónica em Bucara, considerada um dos edifícios mais antigos e significativos da arte construtiva da Ásia Central.", fr: "Un joyau architectural à Boukhara, considéré comme l'un des édifices les plus anciens et les plus importants de l'architecture d'Asie centrale."},
     facts: {
       de: ["Erbaut im 9. oder 10. Jahrhundert", "Aus gebrannten Ziegeln gefertigt", "Überstand Jahrhunderte unter Sand verborgen"],
@@ -7919,7 +7905,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     parent: "UZ-SU",
     coords: [67.2458, 37.2831],
     name: { de: "Fayaz-Tepe", hu: "Fajaz Tepe", ro: "Fayaz Tepe", en: "Fayaz Tepe"},
-    image: "/poi-images/fayaz-tepe-history-v2.webp",
     description: { de: "Eine bedeutende buddhistische Klosteranlage nahe Termiz, die den kulturellen Austausch entlang der alten Seidenstraße bezeugt.", hu: "Egy jelentős buddhista kolostorkomplexum Termez közelében, amely az ősi Selyemút menti kulturális cseréről tanúskodik.", ro: "Un important complex de mănăstire budistă lângă Termez, care mărturisește schimbul cultural de-a lungul vechiului Drum al Mătăsii.", en: "An important Buddhist monastery complex near Termez, which testifies to the cultural exchange along the ancient Silk Road." , es: "Un importante complejo monástico budista cerca de Termez, que atestigua el intercambio cultural a lo largo de la antigua Ruta de la Seda.", pt: "Um importante complexo monástico budista perto de Termez, que testemunha o intercâmbio cultural ao longo da antiga Rota da Seda.", fr: "Un important complexe monastique bouddhiste près de Termez, qui témoigne des échanges culturels le long de l'ancienne Route de la Soie."},
     facts: {
       de: ["Stammt aus dem 1. bis 3. Jahrhundert", "Zeigt Wandmalereien und Stupas", "Entdeckt im Jahr 1968"],
@@ -8144,7 +8129,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     parent: "UZ-SU",
     coords: [67.1492, 37.4267],
     name: { de: "Kampyr-Tepe", hu: "Kampir Tepe", ro: "Kampyr Tepe", en: "Kampyr Tepe"},
-    image: "/poi-images/kampyr-tepe-history-v2.webp",
     description: { de: "Die Überreste einer antiken hellenistischen Festung am Amu-Darja-Fluss, die einst den Handelsweg nach Indien sicherte.", hu: "Egy ősi hellenisztikus erőd maradványai az Amu-darja folyónál, amely egykor az Indiába vezető kereskedelmi utat biztosította.", ro: "Rămășițele unei vechi fortărețe elenistice de pe râul Amu Daria, care a asigurat cândva ruta comercială spre India.", en: "The remains of an ancient Hellenistic fortress on the Amu Darya river, which once secured the trade route to India." , es: "Los restos de una antigua fortaleza helenística a orillas del río Amu Daria, que en su día protegía la ruta comercial hacia la India.", pt: "Os restos de uma antiga fortaleza helenística nas margens do rio Amu Daria, que outrora protegia a rota comercial para a Índia.", fr: "Les vestiges d'une ancienne forteresse hellénistique sur le fleuve Amou-Daria, qui protégeait autrefois la route commerciale vers l'Inde."},
     facts: {
       de: ["Gegründet von Alexander dem Großen", "Florierte bis zum 2. Jahrhundert", "Ausgrabungen zeigen griechischen Einfluss"],
@@ -8333,7 +8317,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     parent: "UZ-SU",
     coords: [67.2025, 37.2281],
     name: { de: "Mausoleum von Hakim at-Tirmidhi", hu: "Hakim at-Tirmidhi mauzóleum", ro: "Mausoleul lui Hakim al-Termezi", en: "Hakim al-Termezi Mausoleum"},
-    image: "/poi-images/hakim-al-termezi-mausoleum-history-v2.webp",
     description: { de: "Das Grab eines berühmten Sufi-Gelehrten in Termiz, das im Laufe der Jahrhunderte zu einem beeindruckenden Architekturkomplex heranwuchs.", hu: "Egy híres szúfi tudós sírja Termezben, amely az évszázadok során lenyűgöző építészeti komplexummá nőtt.", ro: "Mormântul unui faimos savant sufit din Termez, care de-a lungul secolelor a devenit un impresionant complex arhitectural.", en: "The tomb of a famous Sufi scholar in Termez, which over the centuries grew into an impressive architectural complex." , es: "La tumba de un famoso erudito sufí en Termez, que a lo largo de los siglos se convirtió en un impresionante complejo arquitectónico.", pt: "O túmulo de um famoso estudioso sufi em Termez, que ao longo dos séculos cresceu para se tornar um complexo arquitetónico impressionante.", fr: "Le tombeau d'un célèbre savant soufi à Termez, qui est devenu au fil des siècles un impressionnant complexe architectural."},
     facts: {
       de: ["Grabstätte aus dem 9. Jahrhundert", "Pilgerziel für viele Muslime", "Bekannt für seine detaillierten Stuckarbeiten"],
@@ -8846,7 +8829,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     parent: "UZ-QA",
     coords: [66.8286, 39.0608],
     name: { de: "Ak-Saray-Palast", hu: "Ak-Szaráj palota", ro: "Palatul Ak-Saray", en: "Ak-Saray Palace"},
-    image: "/poi-images/ak-saray-palace-shahrisabz-history-v2.webp",
     description: { de: "Die monumentalen Ruinen des Weißen Palastes von Timur in seiner Heimatstadt, berühmt für die enormen Dimensionen seiner Tore.", hu: "Timur Fehér Palotájának monumentális romjai szülővárosában, amely híres kapuinak hatalmas méreteiről.", ro: "Ruinele monumentale ale Palatului Alb al lui Timur din orașul său natal, faimos pentru dimensiunile enorme ale porților sale.", en: "The monumental ruins of Timur's White Palace in his hometown, famous for the enormous dimensions of its gates." , es: "Las ruinas monumentales del Palacio Blanco de Tamerlán en su ciudad natal, famosas por las enormes dimensiones de sus puertas.", pt: "As ruínas monumentais do Palácio Branco de Timur na sua cidade natal, famosas pelas enormes dimensões dos seus portais.", fr: "Les ruines monumentales du Palais Blanc de Tamerlan dans sa ville natale, célèbre pour les dimensions énormes de ses portes."},
     facts: {
       de: ["Bau begann im Jahr 1380", "Das Eingangsportal war über 65 Meter hoch", "Der Name bedeutet Weißer Palast"],
@@ -8963,7 +8945,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     parent: "UZ-XO",
     coords: [60.3592, 41.3772],
     name: { de: "Dschuma-Moschee von Chiwa", hu: "Hívai Dzsuma mecset", ro: "Moscheea Juma din Khiva", en: "Juma Mosque of Khiva"},
-    image: "/poi-images/juma-mosque-khiva-history-v2.webp",
     description: { de: "Diese einzigartige Moschee zeichnet sich durch über zweihundert handgeschnitzte Holzsäulen aus, die ihr flaches Dach tragen.", hu: "Ezt az egyedülálló mecsetet több mint kétszáz kézzel faragott faoszlop jellemzi, amelyek a lapos tetőt tartják.", ro: "Această moschee unică este caracterizată de peste două sute de stâlpi de lemn sculptați manual care susțin acoperișul plat.", en: "This unique mosque is characterized by over two hundred hand-carved wooden pillars that support its flat roof." , es: "Esta mezquita única se distingue por sus más de doscientas columnas de madera talladas a mano que sostienen su techo plano.", pt: "Esta mesquita única distingue-se pelas suas mais de duzentas colunas de madeira esculpidas à mão que sustentam o seu telhado plano.", fr: "Cette mosquée unique se distingue par ses plus de deux cents colonnes en bois sculptées à la main qui soutiennent son toit plat."},
     facts: {
       de: ["Ursprünglich im 10. Jahrhundert erbaut", "Heutiger Bau stammt von 1788", "Einige Säulen sind über 1000 Jahre alt"],

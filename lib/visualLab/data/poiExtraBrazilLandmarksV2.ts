@@ -1245,7 +1245,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "A Megváltó Krisztus szobra",
       ro: "Cristos Mântuitorul",
       en: "Christ the Redeemer"},
-    image: "/poi-images/br-rj-cristo-redentor-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Die Statue Cristo Redentor (Christus der Erlöser) thront auf dem 710 Meter hohen Gipfel des Corcovado-Berges in Rio de Janeiro. Eingeweiht am 12. Oktober 1931, wurde das Monument zum 100. Jahrestag der Unabhängigkeit Brasiliens geplant. Die Statue ist 30 Meter hoch, steht auf einem 8 Meter hohen Sockel und hat eine Spannweite von 28 Metern. Entworfen wurde sie vom brasilianischen Ingenieur Heitor da Silva Costa und dem französischen Bildhauer Paul Landowski. Die Konstruktion besteht aus Stahlbeton, der mit einer Mosaikschicht aus Speckstein (Soapstone) überzogen ist, um den Witterungseinflüssen standzuhalten. Im Jahr 2007 wurde das Monument zu einem der neuen sieben Weltwunder gewählt. Es dient nicht nur als religiöses Symbol, sondern auch als globales Erkennungsmerkmal Brasiliens. Der Panoramablick vom Gipfel umfasst Wahrzeichen wie den Zuckerhut, das Maracanã-Stadion und die Copacabana. Es ist einer der meistbesuchten Orte der Welt und ein Meisterwerk des Art-déco-Stils.",
       hu: "A Cristo Redentor (Megváltó Krisztus) szobra a Rio de Janeiró-i Corcovado-hegy 710 méter magas csúcsán trónol. Az 1931. október 12-én felavatott emlékművet Brazília függetlenségének 100. évfordulójára tervezték. A szobor 30 méter magas, egy 8 méteres talpazaton áll, karnyújtása pedig 28 méter. Az alkotást Heitor da Silva Costa brazil mérnök és Paul Landowski francia szobrász tervezte. A szerkezet vasbetonból készült, amelyet zsírkő (soapstone) mozaikréteggel vontak be, hogy ellenálljon az időjárás viszontagságainak. 2007-ben az emlékművet a világ hét új csodájának egyikévé választották. Nemcsak vallási szimbólumként, hanem Brazília globális azonosítójaként is szolgál. A csúcsról nyíló panoráma olyan látnivalókat foglal magában, mint a Cukorsüveg-hegy, a Maracanã Stadion és a Copacabana. A világ egyik leglátogatottabb helyszíne és az art déco stílus remekműve.",
@@ -2669,7 +2668,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "Maracanã Stadion",
       ro: "Stadionul Maracanã",
       en: "Maracanã Stadium"},
-    image: "/poi-images/br-rj-maracana-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Estádio do Maracanã in Rio de Janeiro, offiziell Estádio Jornalista Mário Filho, wurde für die Fußball-Weltmeisterschaft 1950 erbaut. Bei seiner Eröffnung war es das größte Stadion der Welt und verzeichnete beim entscheidenden Spiel zwischen Brasilien und Uruguay eine Rekordzuschauerzahl von fast 200.000 Menschen. Im Laufe der Jahre wurde das Stadion mehrfach modernisiert, insbesondere für die Weltmeisterschaft 2014 und die Olympischen Sommerspiele 2016. Die aktuelle Kapazität liegt bei etwa 78.000 Sitzplätzen, wobei die Sicherheit und der Komfort nach internationalen Standards verbessert wurden. Es ist die Heimspielstätte der großen Rio-Clubs Flamengo und Fluminense und Schauplatz zahlreicher historischer Fußballmomente. Neben Sportveranstaltungen dient das Maracanã auch als Bühne für Mega-Konzerte weltberühmter Künstler. Die Architektur mit ihrer kreisförmigen Struktur und dem modernen Membrandach ist ein Symbol für die brasilianische Leidenschaft für den Fußball. Das Stadion beherbergt zudem ein Museum, das die glorreiche Geschichte des brasilianischen Sports dokumentiert.",
       hu: "A Rio de Janeiró-i Maracanã Stadion, hivatalos nevén Estádio Jornalista Mário Filho, az 1950-es labdarúgó-világbajnokságra épült. Megnyitásakor a világ legnagyobb stadionja volt, és a Brazília–Uruguay döntő mérkőzésen csaknem 200 000 nézővel állított fel rekordot. Az évek során a stadiont többször modernizálták, különösen a 2014-es világbajnokságra és a 2016-os nyári olimpiára. A jelenlegi befogadóképessége körülbelül 78 000 fő, a biztonságot és a kényelmet a nemzetközi szabványoknak megfelelően javították. Ez a nagy Rio-i klubok, a Flamengo és a Fluminense hazai pályája, és számos történelmi futballpillanat helyszíne. A sportesemények mellett a Maracanã világhírű művészek óriáskoncertjeinek is otthont ad. Kör alakú szerkezete és modern membránteteje a brazíliai futballszenvedély szimbóluma. A stadionban egy múzeum is található, amely a brazil sport dicsőséges történetét mutatja be.",
@@ -3446,7 +3444,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "Brazíliavárosi katedrális",
       ro: "Catedrala din Brasília",
       en: "Cathedral of Brasília"},
-    image: "/poi-images/br-df-catedral-brasilia-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Die Kathedrale von Brasília, offiziell Catedral Metropolitana Nossa Senhora Aparecida, ist ein Meisterwerk des Architekten Oscar Niemeyer. Eingeweiht am 31. Mai 1970, zeichnet sich das Bauwerk durch seine hyperbolische Struktur aus, die aus 16 geschwungenen Betonpfeilern besteht. Diese Pfeiler wiegen jeweils 90 Tonnen und sollen zum Himmel emporgestreckte Hände symbolisieren. Das Kirchenschiff liegt unter der Erde, was dem Innenraum durch die riesigen Glasmalereien von Marianne Peretti eine einzigartige Lichtstimmung verleiht. Im Inneren schweben drei Engelsstatuen von Alfredo Ceschiatti, die dem Raum eine ätherische Atmosphäre verleihen. Die Kathedrale ist eines der bekanntesten Symbole der modernistischen Architektur in Brasília und wurde 1990 zum nationalen historischen Erbe erklärt. Trotz ihrer modernen Form bewahrt sie die spirituelle Ruhe einer traditionellen Kathedrale. Die harmonische Verbindung von Glas, Beton und Licht macht sie zu einem der meistfotografierten Gebäude der brasilianischen Hauptstadt.",
       hu: "A Brazíliavárosi székesegyház, hivatalos nevén Catedral Metropolitana Nossa Senhora Aparecida, Oscar Niemeyer építész remekműve. Az 1970. május 31-én felavatott épületet hiperbolikus szerkezete jellemzi, amely 16 hajlított betonpillérből áll. Ezek a pillérek egyenként 90 tonnát nyomnak, és az ég felé nyúló kezeket szimbolizálják. A templomhajó a föld alatt található, ami a Marianne Peretti által készített hatalmas üvegablakokon keresztül egyedi fényhatást kölcsönöz a belső térnek. Belül három, Alfredo Ceschiatti által készített angyalszobor lebeg, amelyek éteri hangulatot árasztanak. A katedrális Brazíliaváros modernista építészetének egyik legismertebb szimbóluma, és 1990-ben nemzeti történelmi örökséggé nyilvánították. Modern formája ellenére megőrzi a hagyományos székesegyházak spirituális nyugalmát. Az üveg, a beton és a fény harmonikus kapcsolata a brazil főváros egyik legtöbbet fényképezett épületévé teszi.",
@@ -4418,7 +4415,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "Brazil Nemzeti Kongresszus",
       ro: "Congresul Național al Braziliei",
       en: "National Congress of Brazil"},
-    image: "/poi-images/br-df-congresso-nacional-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Der Nationalkongress von Brasilien ist das architektonische Zentrum der Hauptstadt Brasília und wurde vom Architekten Oscar Niemeyer entworfen. Das 1960 eingeweihte Gebäudeensemble befindet sich an der Praça dos Três Poderes und ist ein herausragendes Beispiel der brasilianischen Moderne. Es besteht aus zwei vertikalen Türmen und zwei Halbkugeln, die die Abgeordnetenkammer und den Senat beherbergen. Die nach oben offene Schale symbolisiert die Offenheit gegenüber dem Volk, während die geschlossene Kuppel den Senat als Ort der Reflexion darstellt. Die Innenausstattung umfasst bedeutende Kunstwerke von Athos Bulcão und Marianne Peretti. Seit 1987 gehört das gesamte Ensemble als Teil des Pilotplans von Brasília zum UNESCO-Welterbe. Das Bauwerk spiegelt die Vision einer modernen, demokratischen Nation wider und ist eines der meistfotografierten Wahrzeichen des Landes.",
       hu: "A Brazil Nemzeti Kongresszus épületegyüttese Brazíliaváros legjelentősebb építészeti alkotása, amelyet Oscar Niemeyer tervezett és 1960-ban adtak át. Az épület a Praça dos Três Poderes (Három Hatalmi Ág Tere) mentén helyezkedik el, és a modernista építészet világszerte elismert példája. Két párhuzamos toronyból és két nagy félgömbből áll, amelyek a Képviselőházat és a Szenátust foglalják magukban. Az ég felé nyitott kehely a nép felé való nyitottságot jelképezi, míg a lefelé fordított dóm a Szenátus megfontoltságát szimbolizálja. Az épület belső tereit olyan neves művészek alkotásai díszítik, mint Athos Bulcão és Marianne Peretti. 1987 óta az építmény az UNESCO Világörökség részét képezi Brasília városközpontjával együtt. Ez a monumentális struktúra a modern brazil államiság és a demokratikus értékek egyik legfontosabb vizuális szimbóluma.",
@@ -5839,7 +5835,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "Octávio Frias de Oliveira híd",
       ro: "Podul Octávio Frias de Oliveira",
       en: "Octávio Frias de Oliveira Bridge"},
-    image: "/poi-images/br-sp-ponte-estaiada-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Die Octávio Frias de Oliveira Brücke, im Volksmund als Ponte Estaiada bekannt, ist ein markantes Wahrzeichen der Metropole São Paulo. Die 2008 eröffnete Schrägseilbrücke überquert den Fluss Pinheiros und verbindet die Marginal Pinheiros mit der Avenida Jornalista Roberto Marinho. Das Besondere an der Architektur ist der X-förmige Pylon, der 138 Meter in die Höhe ragt und zwei übereinander liegende, kurvenförmige Fahrbahnen trägt. Diese weltweit einzigartige Konstruktion wird von 144 Stahlseilen gehalten, die nachts durch ein modernes LED-System farbig illuminiert werden. Die Brücke wurde nach einem einflussreichen brasilianischen Medienunternehmer benannt und hat sich schnell zu einem Symbol für das moderne, geschäftige São Paulo entwickelt. Trotz ihrer funktionalen Bedeutung als Verkehrsknotenpunkt wird sie aufgrund ihrer ästhetischen Form häufig in Filmen und Werbespots verwendet.",
       hu: "Az Octávio Frias de Oliveira híd, közismertebb nevén a Ponte Estaiada, São Paulo modern városképének egyik legmeghatározóbb jelképe. A 2008-ban átadott ferdekábeles híd a Pinheiros-folyó felett ível át, összekötve a város forgalmas útvonalait. Különlegessége az egyedülálló X-alakú tartóoszlop, amely 138 méter magas, és két, egymást keresztező kanyargós útpályát tart meg. Ez az egyetlen olyan híd a világon, ahol két ívelt pálya ugyanahhoz az X-alakú pilonhoz csatlakozik. A szerkezetet 144 acélkábel rögzíti, amelyeket éjszakánként változtatható színű LED-rendszerrel világítanak meg, lenyűgöző látványt nyújtva. A híd egy befolyásos brazil médiavállalkozóról kapta a nevét, és mára São Paulo gazdasági fejlődésének és technológiai haladásának szimbólumává vált. Esztétikai értéke miatt gyakran látható televíziós produkciókban és turisztikai kiadványokban.",
@@ -7117,7 +7112,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "São Paulo-i Művészeti Múzeum",
       ro: "Muzeul de Artă din São Paulo",
       en: "São Paulo Museum of Art"},
-    image: "/poi-images/br-sp-masp-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Kunstmuseum von São Paulo (MASP) ist eines der bedeutendsten Museen Lateinamerikas und ein Meilenstein der brasilianischen Architektur. Das von der Architektin Lina Bo Bardi entworfene und 1968 eingeweihte Gebäude an der Avenida Paulista besticht durch seine radikale, brutalistische Form. Der Hauptkörper des Museums schwebt über einer 74 Meter langen, stützenfreien Fläche und wird von zwei monumentalen, rot lackierten Betonträgern gehalten. Dieser freie Raum unter dem Museum, bekannt als 'Vão Livre', dient als öffentlicher Platz für kulturelle Veranstaltungen und Proteste. Die Sammlung des MASP umfasst die wichtigste Sammlung europäischer Kunst in der südlichen Hemisphäre, mit Werken von Rembrandt, Botticelli und Picasso. Einzigartig ist auch die Präsentation der Gemälde auf Kristallständern, die dem Betrachter das Gefühl geben, die Kunstwerke würden im Raum schweben. Das Museum ist nicht nur eine kulturelle Institution, sondern auch ein Symbol für die Urbanität und den sozialen Geist São Paulos.",
       hu: "A São Paulo-i Művészeti Múzeum (MASP) Latin-Amerika egyik legfontosabb kulturális intézménye és a brazil modernista építészet ikonikus alkotása. A Lina Bo Bardi által tervezett, 1968-ban felavatott épület az Avenida Paulista sugárúton található, és radikális brutalista stílusával tűnik ki. A múzeum fő tömbje egy 74 méter hosszú, alátámasztás nélküli tér felett lebeg, amelyet két monumentális, pirosra festett betongerenda tart. Ez az alsó nyitott tér, a 'Vão Livre', a város egyik legfontosabb közösségi találkozóhelyévé vált, ahol koncerteket és politikai demonstrációkat is tartanak. A MASP gyűjteménye a déli félteke legjelentősebb európai művészeti anyagát őrzi, többek között Rembrandt, Botticelli és Picasso műveivel. A belső térben a festményeket különleges kristályállványokon mutatják be, ami azt az illúziót kelti, mintha a képek a levegőben lebegnének. Az épület 2003 óta nemzeti műemléki védelem alatt áll.",
@@ -7999,7 +7993,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "Lacerda felvonó",
       ro: "Ascensorul Lacerda",
       en: "Lacerda Elevator"},
-    image: "/poi-images/br-ba-elevador-lacerda-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Der Lacerda-Aufzug ist eine der bekanntesten Sehenswürdigkeiten von Salvador da Bahia und verbindet die Unterstadt (Cidade Baixa) mit der Oberstadt (Cidade Alta). Das 1873 eröffnete Bauwerk war der erste öffentliche Aufzug der Welt und stellte eine bedeutende ingenieurtechnische Leistung dar. Ursprünglich mit zwei Kabinen ausgestattet, wurde er im Jahr 1930 umfassend im Art-Déco-Stil renoviert und um zwei weitere Schächte erweitert. Mit einer Höhe von 72 Metern überwindet er den steilen Hang der Stadt in nur wenigen Sekunden und bietet Passagieren einen Panoramablick auf die Allerheiligenbucht. Täglich nutzen Tausende von Pendlern und Touristen dieses historische Verkehrsmittel, das die Viertel Comércio und Pelourinho miteinander verbindet. Der Aufzug ist nicht nur ein funktionales Element der städtischen Infrastruktur, sondern auch ein Symbol für die koloniale Geschichte und die architektonische Entwicklung Bahias. Er steht unter dem Schutz des IPHAN als nationales Kulturerbe.",
       hu: "A Lacerda-felvonó Salvador da Bahia városának egyik legjellegzetesebb építménye, amely összeköti az Alsóvárost (Cidade Baixa) a Felsővárossal (Cidade Alta). Az 1873-ban átadott szerkezet volt a világ első közforgalmú közlekedési liftje, ami a maga korában mérnöki bravúrnak számított. Eredetileg két kabinnal működött, majd 1930-ban egy nagyszabású felújítás során Art Deco stílust kapott, és két további lifttel bővítették. A 72 méter magas torony alig néhány másodperc alatt küzdi le a szintkülönbséget, miközben a kilátóteraszról lenyűgöző panoráma nyílik a Mindenszentek-öbölre. Naponta több tízezer ingázó és turista használja ezt a történelmi közlekedési eszközt, amely kulcsfontosságú kapocs a Comércio és a Pelourinho negyedek között. A felvonó nemcsak közlekedési eszköz, hanem Bahia gazdag történelmének és modernizációjának szimbóluma is, 2006 óta pedig nemzeti örökségnek számít.",
@@ -9132,7 +9125,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "Canelai Kőkatedrális",
       ro: "Catedrala de Piatră din Canela",
       en: "Cathedral of Stone in Canela"},
-    image: "/poi-images/br-rs-catedral-pedra-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Die Kathedrale von Canela, offiziell Catedral Nossa Senhora de Lourdes, ist ein beeindruckendes Beispiel der neugotischen Architektur im Süden Brasiliens. Das Bauwerk, das aufgrund seiner markanten Fassade aus Basaltgestein als 'Kathedrale aus Stein' bekannt ist, wurde ab 1953 errichtet. Mit ihrem 65 Meter hohen Glockenturm dominiert sie das Stadtbild der charmanten Stadt Canela in der Sierra Gaúcha. Im Inneren beherbergt die Kirche drei Glocken, die aus Bronze in Deutschland gegossen wurden, sowie wertvolle Schnitzereien des flämischen Künstlers Guilherme Alfonsus. Die Kathedrale ist von einem weitläufigen Garten umgeben und nachts durch eine spektakuläre Lichtshow illuminiert, die Besucher aus der ganzen Region anzieht. Als spirituelles Zentrum und touristisches Highlight spiegelt das Gebäude die europäischen Einflüsse in der Kultur von Rio Grande do Sul wider. Die massiven Steinmauern und die feinen Buntglasfenster schaffen eine Atmosphäre von Beständigkeit und Eleganz.",
       hu: "A canelai Kőtemplom, hivatalos nevén a Lourdes-i Miasszonyunk székesegyház, Dél-Brazília egyik leglátványosabb neogótikus építménye. Az 1953-ban megkezdett építkezés során a templom falait hatalmas bazaltkövekből emelték, ami egyedi, robusztus megjelenést kölcsönöz neki. A 65 méter magas központi torony Canela városának szinte minden pontjáról látható, és a Serra Gaúcha régió egyik jelképévé vált. A templom belsejében tizenkét bronzharang található, amelyeket Németországban öntöttek, valamint Guilherme Alfonsus flamand művész által készített vallási fafaragások díszítik. Éjszakánként a templom külső homlokzatát váltakozó színű fényekkel világítják meg, ami különleges vizuális élményt nyújt a látogatóknak. A katedrális nemcsak vallási központ, hanem a környék legfontosabb turisztikai célpontja is, amely hűen tükrözi a térség európai kulturális gyökereit és építészeti hagyományait.",
@@ -9689,7 +9681,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "A Holnap Múzeuma",
       ro: "Muzeul Mâinelor",
       en: "Museum of Tomorrow"},
-    image: "/poi-images/br-rj-museu-amanha-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Museum von Morgen (Museu do Amanhã) in Rio de Janeiro ist ein zukunftsweisendes Wissenschaftsmuseum, das sich mit Nachhaltigkeit und der Zukunft der Menschheit befasst. Entworfen von dem spanischen Architekten Santiago Calatrava, wurde es 2015 im Rahmen der Sanierung des Hafengebiets Porto Maravilha eröffnet. Die Architektur ist neofuturistisch und erinnert an eine schwebende weiße Struktur mit beweglichen Solarpaneelen, die sich wie Flügel nach der Sonne ausrichten. Das Museum setzt auf interaktive Ausstellungen und digitale Inhalte, um globale Themen wie den Klimawandel und das Bevölkerungswachstum zu veranschaulichen. Ein besonderes Merkmal ist der Einsatz von Regenwasser für die Kühlung und die Integration von reflektierenden Wasserbecken, die das Gebäude optisch vergrößern. Es befindet sich auf dem Pier Mauá und bietet einen weiten Blick über die Guanabara-Bucht. Das Museum gilt als eines der umweltfreundlichsten Gebäude Brasiliens und wurde mehrfach für sein Design und seine Nachhaltigkeit ausgezeichnet.",
       hu: "A Holnap Múzeuma (Museu do Amanhã) Rio de Janeiro egyik legmodernebb kulturális intézménye, amely a fenntarthatóságra és az emberiség jövőjére összpontosít. A világhírű spanyol építész, Santiago Calatrava által tervezett épületet 2015-ben adták át a Porto Maravilha kikötői rehabilitációs projekt részeként. A neofuturista stílusú építmény egy hatalmas fehér szárnyra emlékeztet, amelynek mozgatható napelemes panelei a nap mozgását követik. A múzeum belső tereiben interaktív és digitális kiállítások várják a látogatókat, bemutatva a klímaváltozás, a népességnövekedés és a technológiai fejlődés hatásait. Az ökológiai lábnyom minimalizálása érdekében az épület a Guanabara-öböl vizét használja hűtésre, és újrahasznosítja az esővizet is. A Pier Mauá területén elhelyezkedő múzeum nemcsak tudományos központ, hanem a város modern megújulásának látványos jelképe is. Számos nemzetközi díjat nyert innovatív építészeti megoldásaiért és környezettudatos szemléletéért.",
@@ -10894,7 +10885,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "Aparecidai Miasszonyunk Nemzeti Szentélye",
       ro: "Sanctuarul Național al Maicii Domnului din Aparecida",
       en: "National Sanctuary of Our Lady of Aparecida"},
-    image: "/poi-images/br-sp-santuario-aparecida-landmarks-v2.webp",
     description: {
       de: "Die zweitgrößte katholische Kirche der Welt und das wichtigste Pilgerziel in Brasilien.",
       hu: "A világ második legnagyobb katolikus temploma és a legfontosabb zarándokhely Brazíliában.",
@@ -12174,7 +12164,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "Hercílio Luz híd",
       ro: "Podul Hercílio Luz",
       en: "Hercílio Luz Bridge"},
-    image: "/poi-images/br-sc-ponte-hercilio-luz-landmarks-v2.webp",
     description: {
       de: "Die älteste Hängebrücke Brasiliens, die die Insel Santa Catarina mit dem Festland verbindet.",
       hu: "Brazília legrégebbi függőhídja, amely Santa Catarina szigetét köti össze a szárazfölddel.",
@@ -15512,7 +15501,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "Santa Marta világítótorony",
       ro: "Farul din Santa Marta",
       en: "Santa Marta Lighthouse"},
-    image: "/poi-images/br-sc-farol-santa-marta-landmarks-v2.webp",
     description: {
       de: "Ein malerischer Leuchtturm in Laguna, einer der leistungsstärksten in ganz Südamerika.",
       hu: "Festői világítótorony Lagunában, amely az egyik legerősebb egész Dél-Amerikában.",
@@ -16576,7 +16564,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "A Bandeirantek emlékműve",
       ro: "Monumentul Bandeirantes",
       en: "Monument to the Bandeiras"},
-    image: "/poi-images/br-sp-monumento-bandeiras-landmarks-v2.webp",
     description: {
       de: "Eine riesige Granitskulptur im Ibirapuera-Park, die an die Expeditionen ins Innere Brasiliens erinnert.",
       hu: "Hatalmas gránitszobor az Ibirapuera parkban, amely a Brazília belsejébe indított expedícióknak állít emléket.",
@@ -17820,7 +17807,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "Botanikus kert üvegháza",
       ro: "Sera Grădinii Botanice din Curitiba",
       en: "Greenhouse of the Botanical Garden"},
-    image: "/poi-images/br-pr-estufa-curitiba-landmarks-v2.webp",
     description: {
       de: "Ein wunderschönes Gewächshaus im Art-nouveau-Stil, das zum architektonischen Symbol von Curitiba wurde.",
       hu: "Gyönyörű art nouveau stílusú üvegház, amely Curitiba építészeti szimbólumává vált.",
@@ -20906,7 +20892,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "Rio de Janeiro-i Városi Színház",
       ro: "Teatrul Municipal din Rio de Janeiro",
       en: "Municipal Theater of Rio de Janeiro"},
-    image: "/poi-images/br-rj-theatro-municipal-landmarks-v2.webp",
     description: {
       de: "Eines der schönsten Opernhäuser Brasiliens im eklektischen Stil nahe dem Zentrum von Rio.",
       hu: "Brazília egyik legszebb, eklektikus stílusú operaháza Rio központjának közelében.",
@@ -21934,7 +21919,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "Carioca vízvezeték (Arcos da Lapa)",
       ro: "Apeductul Carioca (Arcos da Lapa)",
       en: "Carioca Aqueduct (Arcos da Lapa)"},
-    image: "/poi-images/br-rj-arcos-lapa-landmarks-v2.webp",
     description: {
       de: "Ein riesiges historisches Aquädukt im Kolonialstil, das heute als Straßenbahnbrücke im Viertel Lapa dient.",
       hu: "Hatalmas, gyarmati stílusú történelmi vízvezeték, amely ma villamoshídként szolgál a Lapa negyedben.",
@@ -23214,7 +23198,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "Mineirão Stadion",
       ro: "Stadionul Mineirão",
       en: "Mineirão Stadium"},
-    image: "/poi-images/br-mg-mineirao-landmarks-v2.webp",
     description: {
       de: "Das größte Fußballstadion im Bundesstaat Minas Gerais und einer der wichtigsten Sporttempel Brasiliens.",
       hu: "Minas Gerais állam legnagyobb labdarúgó-stadionja és Brazília egyik legfontosabb sportközpontja.",
@@ -24566,7 +24549,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "Brazíliavárosi TV-torony",
       ro: "Turnul de Televiziune din Brasília",
       en: "Brasília TV Tower"},
-    image: "/poi-images/br-df-torre-tv-landmarks-v2.webp",
     description: {
       de: "Ein markanter Sendeturm, der einen der besten Panoramablicke über die geometrisch geplante Hauptstadt bietet.",
       hu: "Karakteres adótorony, amely az egyik legjobb panorámát nyújtja a geometrikusan tervezett fővárosra.",
@@ -25774,7 +25756,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "Cabo Branco világítótorony",
       ro: "Farul de pe Cabo Branco",
       en: "Cabo Branco Lighthouse"},
-    image: "/poi-images/br-pb-farol-cabo-branco-landmarks-v2.webp",
     description: {
       de: "Ein einzigartiger dreieckiger Leuchtturm, der den östlichsten Punkt des amerikanischen Festlandes markiert.",
       hu: "Egyedülálló háromszög alakú világítótorony, amely az amerikai kontinens szárazföldjének legkeletibb pontját jelöli.",
@@ -27054,7 +27035,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "Dom Bosco Szentély",
       ro: "Sanctuarul Dom Bosco",
       en: "Sanctuary of Dom Bosco"},
-    image: "/poi-images/br-df-santuario-dom-bosco-landmarks-v2.webp",
     description: {
       de: "Eine beeindruckende Kirche in Brasília, berühmt für ihre riesigen blauen Buntglasfenster, die eine mystische Atmosphäre schaffen.",
       hu: "Látványos templom Brazíliavárosban, amely hatalmas kék ólomüveg ablakairól és azok misztikus hangulatáról híres.",
@@ -28262,7 +28242,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "Luz pályaudvar",
       ro: "Gara Luz",
       en: "Luz Station"},
-    image: "/poi-images/br-sp-estacao-luz-landmarks-v2.webp",
     description: {
       de: "Ein prachtvoller historischer Bahnhof, der aus in Großbritannien vorgefertigten Teilen zusammengesetzt wurde.",
       hu: "Pompás történelmi pályaudvar, amelyet Nagy-Britanniában előre gyártott elemekből állítottak össze.",
@@ -29326,7 +29305,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "Drót-opera",
       ro: "Opera de Sârmă",
       en: "Wire Opera House"},
-    image: "/poi-images/br-pr-opera-arame-landmarks-v2.webp",
     description: {
       de: "Ein einzigartiges Rundtheater aus Stahlrohren und Polycarbonat, erbaut inmitten eines ehemaligen Steinbruchs.",
       hu: "Egyedi körszínház, amely acélcsövekből és polikarbonátból épült egykori kőbánya területén.",
@@ -30498,7 +30476,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "Quitandinha Palota",
       ro: "Palatul Quitandinha",
       en: "Quitandinha Palace"},
-    image: "/poi-images/br-rj-palacio-quitandinha-landmarks-v2.webp",
     description: {
       de: "Ein riesiges ehemaliges Luxushotel und Casino im normannisch-französischen Stil in der Bergstadt Petrópolis.",
       hu: "Egykori hatalmas luxusszálloda és kaszinó normann-francia stílusban a hegyvidéki Petrópolis városában.",
@@ -31742,7 +31719,6 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: "A Jóistent dicsőítő bazilika",
       ro: "Bazilica Domnului Bonfim",
       en: "Basilica of Nosso Senhor do Bonfim"},
-    image: "/poi-images/br-ba-basilica-bonfim-landmarks-v2.webp",
     description: {
       de: "Die berühmteste katholische Kirche in Salvador da Bahia, bekannt für das Fest der rituellen Treppenwaschung.",
       hu: "Salvador da Bahia leghíresebb katolikus temploma, amely rituális lépcsőmosási ünnepéről ismert.",

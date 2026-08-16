@@ -12,7 +12,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "Montevideo Kikötője",
       ro: "Portul Montevideo",
       en: "Port of Montevideo"},
-    image: "/poi-images/port-of-montevideo-economic-v2.webp",
     description: {
       de: "Der größte Seehafen Uruguays, durch den der Großteil des Außenhandels fließt.",
       hu: "Uruguay legnagyobb tengeri kikötője, amelyen a külkereskedelem nagy része áthalad.",
@@ -319,7 +318,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "Nueva Palmira Kikötője",
       ro: "Portul Nueva Palmira",
       en: "Port of Nueva Palmira"},
-    image: "/poi-images/port-of-nueva-palmira-economic-v2.webp",
     description: {
       de: "Zweitgrößter Hafen Uruguays, spezialisiert auf den Export von Getreide und Zellstoff.",
       hu: "Uruguay második legnagyobb kikötője, amely gabona- és cellulózexportra specializálódott.",
@@ -446,7 +444,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "UPM Fray Bentos Cellulózgyár",
       ro: "Fabrica de celuloză UPM Fray Bentos",
       en: "UPM Fray Bentos Pulp Mill"},
-    image: "/poi-images/upm-fray-bentos-economic-v2.webp",
     description: {
       de: "Eine der größten Zellstofffabriken der Welt am Ufer des Uruguay-Flusses.",
       hu: "A világ egyik legnagyobb cellulózgyára az Uruguay folyó partján.",
@@ -492,7 +489,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "Montes del Plata Cellulózgyár",
       ro: "Fabrica de celuloză Montes del Plata",
       en: "Montes del Plata Pulp Mill"},
-    image: "/poi-images/montes-del-plata-mill-economic-v2.webp",
     description: {
       de: "Großes Joint-Venture-Zellstoffwerk, das erheblich zum BIP und Export Uruguays beiträgt.",
       hu: "Nagy vegyesvállalati cellulózgyár, amely jelentősen hozzájárul Uruguay GDP-jéhez és exportjához.",
@@ -583,7 +579,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "UPM Paso de los Toros Gyár",
       ro: "Fabrica UPM Paso de los Toros",
       en: "UPM Paso de los Toros Mill"},
-    image: "/poi-images/upm-paso-de-los-toros-economic-v2.webp",
     description: {
       de: "Eine moderne Zellstofffabrik im Zentrum von Uruguay, die die nationale Wirtschaftsentwicklung vorantreibt.",
       hu: "Modern cellulózgyár Közép-Uruguayban, amely fellendíti a nemzeti gazdasági fejlődést.",
@@ -1682,7 +1677,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "ANCAP La Teja Finomító",
       ro: "Rafinăria ANCAP La Teja",
       en: "ANCAP La Teja Refinery"},
-    image: "/poi-images/ancap-la-teja-refinery-economic-v2.webp",
     description: {
       de: "Die einzige Erdölraffinerie in Uruguay, die den gesamten Kraftstoffbedarf des Landes deckt.",
       hu: "Az egyetlen olajfinomító Uruguayban, amely az ország teljes üzemanyag-szükségletét fedezi.",
@@ -1728,7 +1722,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "Salto Grande Vízerőmű",
       ro: "Centrala Hidroelectrică Salto Grande",
       en: "Salto Grande Dam"},
-    image: "/poi-images/salto-grande-dam-economic-v2.webp",
     description: {
       de: "Ein binationales Wasserkraftwerk am Fluss Uruguay, das eine Hauptenergiequelle für Uruguay und Argentinien darstellt.",
       hu: "Kétnemzetiségű vízerőmű az Uruguay folyón, amely Uruguay és Argentína fő áramforrása.",
@@ -1812,7 +1805,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "Zonamerica",
       ro: "Zonamerica",
       en: "Zonamerica"},
-    image: "/poi-images/zonamerica-economic-v2.webp",
     description: {
       de: "Ein führender Technologie- und Wirtschaftspark, der als Freihandelszone fungiert.",
       hu: "Vezető technológiai és üzleti park, amely szabadkereskedelmi övezetként működik.",
@@ -2407,7 +2399,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "Conaprole Florida Tejüzem",
       ro: "Fabrica de lactate Conaprole Florida",
       en: "Conaprole Florida Dairy Plant"},
-    image: "/poi-images/conaprole-plant-florida-economic-v2.webp",
     description: {
       de: "Eine der Hauptproduktionsstätten der größten Molkereigenossenschaft Uruguays.",
       hu: "Uruguay legnagyobb tejipari szövetkezetének egyik fő termelési üzeme.",
@@ -2606,7 +2597,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "Colonia Kikötője",
       ro: "Portul Colonia",
       en: "Port of Colonia"},
-    image: "/poi-images/port-of-colonia-economic-v2.webp",
     description: {
       de: "Der wichtigste Passagierhafen des Landes, der Colonia del Sacramento mit Buenos Aires verbindet.",
       hu: "Az ország fő utasforgalmi kikötője, amely Colonia del Sacramentót Buenos Airesszel köti össze.",
@@ -3129,7 +3119,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "Marfrig Tacuarembó Vágóhíd",
       ro: "Abatorul Marfrig Tacuarembó",
       en: "Marfrig Tacuarembó Slaughterhouse"},
-    image: "/poi-images/marfrig-tacuarembo-economic-v2.webp",
     description: {
       de: "Ein großer fleischverarbeitender Betrieb, der hochwertiges uruguayisches Rindfleisch für globale Märkte produziert.",
       hu: "Nagy húsfeldolgozó üzem, amely kiváló minőségű uruguayi marhahúst állít elő a globális piacokra.",
@@ -3472,7 +3461,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "Fray Bentos Kikötője",
       ro: "Portul Fray Bentos",
       en: "Port of Fray Bentos"},
-    image: "/poi-images/port-of-fray-bentos-economic-v2.webp",
     description: {
       de: "Ein Flusshafen mit Tiefwasserzugang, der den Export von landwirtschaftlichen Gütern und Holzprodukten unterstützt.",
       hu: "Folyami kikötő mélyvízi hozzáféréssel, amely támogatja a mezőgazdasági termékek és faipari termékek exportját.",
@@ -4016,7 +4004,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "Salus Palackozóüzem",
       ro: "Fabrica de îmbuteliere Salus",
       en: "Salus Bottling Plant"},
-    image: "/poi-images/salus-water-plant-economic-v2.webp",
     description: {
       de: "Die Hauptproduktionsstätte für Uruguays bekannteste Mineralwassermarke in den Sierras de Minas.",
       hu: "Uruguay leghíresebb ásványvíz márkájának fő termelési üzeme a Sierras de Minasban.",
@@ -5928,7 +5915,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "Boreal Kenderfeldolgozó Üzem",
       ro: "Fabrica de procesare a cânepei Boreal",
       en: "Boreal Hemp Processing Facility"},
-    image: "/poi-images/boreal-hemp-facility-economic-v2.webp",
     description: {
       de: "Einst die größte Anlage zur Verarbeitung von medizinischem Cannabis in Lateinamerika.",
       hu: "Egykor Latin-Amerika legnagyobb orvosi kannabisz feldolgozó létesítménye volt.",
@@ -6724,7 +6710,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "Megal PB-gáz Palackozóüzem",
       ro: "Fabrica de îmbuteliere GPL Megal",
       en: "Megal LPG Bottling Plant"},
-    image: "/poi-images/megal-lpg-plant-economic-v2.webp",
     description: {
       de: "Eine wichtige Anlage zur Abfüllung und Verteilung von Flüssiggas (LPG) für den Hausgebrauch.",
       hu: "A háztartási célú cseppfolyósított propán-bután gáz (PB-gáz) palackozására és elosztására szolgáló fontos létesítmény.",
@@ -6887,7 +6872,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "Bouza Pincészet",
       ro: "Crama Bouza",
       en: "Bodega Bouza"},
-    image: "/poi-images/tannat-winery-bouza-economic-v2.webp",
     description: {
       de: "Eine führende Weinkellerei in der Nähe von Montevideo, berühmt für die Produktion von Premium-Tannat-Weinen.",
       hu: "Vezető borászat Montevideo közelében, amely a prémium Tannat borok termeléséről híres.",
@@ -6933,7 +6917,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "Fanapel Papírgyár",
       ro: "Fabrica de hârtie Fanapel",
       en: "Fanapel Paper Mill"},
-    image: "/poi-images/fanapel-paper-mill-juan-lacaze-economic-v2.webp",
     description: {
       de: "Eine historische Papierfabrik in Juan Lacaze, einst der industrielle Kern der Stadt.",
       hu: "Történelmi papírgyár Juan Lacaze-ban, amely egykor a város ipari központja volt.",
@@ -7585,7 +7568,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "ISUSA Műtrágyagyár",
       ro: "Fabrica de îngrășăminte ISUSA",
       en: "ISUSA Fertilizer Plant"},
-    image: "/poi-images/isusa-fertilizer-plant-economic-v2.webp",
     description: {
       de: "Ein wichtiges Chemieunternehmen, das landwirtschaftliche Düngemittel zur Unterstützung des uruguayischen Agrarsektors herstellt.",
       hu: "Fontos vegyipari vállalat, amely mezőgazdasági műtrágyákat gyárt az uruguayi agrárszektor támogatására.",
@@ -7832,7 +7814,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "Minerva Foods Canelones Vágóhíd",
       ro: "Abatorul Minerva Foods Canelones",
       en: "Minerva Foods Canelones Meat Plant"},
-    image: "/poi-images/frigorifico-canelones-economic-v2.webp",
     description: {
       de: "Eine der größten Fleischverpackungsanlagen in Uruguay, die Rindfleischprodukte für internationale Märkte exportiert.",
       hu: "Uruguay egyik legnagyobb húsfeldolgozó üzeme, amely marhahústermékeket exportál a nemzetközi piacokra.",
@@ -8823,7 +8804,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "Bodegas Carrau",
       ro: "Bodegas Carrau",
       en: "Bodegas Carrau"},
-    image: "/poi-images/carrau-winery-colon-economic-v2.webp",
     description: {
       de: "Eine historische Weinkellerei mit langer tradition in der Herstellung uruguayischer Qualitätsweine.",
       hu: "Történelmi pincészet, amely nagy hagyományokkal rendelkezik a minőségi uruguayi borok készítésében.",
@@ -9280,7 +9260,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "Parque de las Ciencias",
       ro: "Parque de las Ciencias",
       en: "Parque de las Ciencias"},
-    image: "/poi-images/parque-de-las-ciencias-economic-v2.webp",
     description: {
       de: "Eine Freihandelszone in der Nähe des Flughafens Carrasco, spezialisiert auf die pharmazeutische Industrie.",
       hu: "Szabadkereskedelmi övezet a Carrasco repülőtér közelében, amely a gyógyszeriparra specializálódott.",
@@ -9371,7 +9350,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       hu: "UPM Guichón Faiskola",
       ro: "Pepiniera UPM Guichón",
       en: "UPM Guichón Nursery"},
-    image: "/poi-images/botnia-upm-nursery-guichon-economic-v2.webp",
     description: {
       de: "Eine Hightech-Baumschule, die Millionen von Eukalyptussetzlingen für Uruguays Forstindustrie produziert.",
       hu: "Csúcstechnológiás faiskola, amely több millió eukaliptusz palántát állít elő az uruguayi faipar számára.",

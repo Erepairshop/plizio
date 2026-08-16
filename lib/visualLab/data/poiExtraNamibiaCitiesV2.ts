@@ -89,7 +89,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-KH",
     coords: [17.0836, -22.5594],
     name: { de: "Windhoek", hu: "Windhoek", ro: "Windhoek", en: "Windhoek"},
-    image: "/poi-images/windhoek-cities-v2.webp",
     description: {
       de: "Die Hauptstadt und größte Stadt Namibias, gelegen im zentralen Hochland.",
       hu: "Namíbia fővárosa és legnagyobb városa, amely a központi felföldön helyezkedik el.",
@@ -126,7 +125,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-KE",
     coords: [19.7667, -17.9333],
     name: { de: "Rundu", hu: "Rundu", ro: "Rundu", en: "Rundu"},
-    image: "/poi-images/rundu-cities-v2.webp",
     description: {
       de: "Eine lebhafte Stadt am Ufer des Okavango, bekannt für ihre geschäftigen Holzschnitzmärkte.",
       hu: "Nyüzsgő város az Okavango folyó partján, amely híres a fafaragó piacairól.",
@@ -250,7 +248,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-ER",
     coords: [14.5053, -22.9575],
     name: { de: "Walvis Bay", hu: "Walvis Bay", ro: "Walvis Bay", en: "Walvis Bay"},
-    image: "/poi-images/walvis-bay-cities-v2.webp",
     description: {
       de: "Namibias wichtigster Tiefseehafen, bekannt für seine große natürliche Lagune und Salzpfannen.",
       hu: "Namíbia legfontosabb mélyvízi kikötője, amely hatalmas természetes lagúnájáról és sólepárlóiról ismert.",
@@ -485,7 +482,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-ER",
     coords: [14.5333, -22.6833],
     name: { de: "Swakopmund", hu: "Swakopmund", ro: "Swakopmund", en: "Swakopmund"},
-    image: "/poi-images/swakopmund-cities-v2.webp",
     description: {
       de: "Ein erstklassiger Küstenort, der sich durch seine gut erhaltene deutsche Kolonialarchitektur auszeichnet.",
       hu: "Kiemelkedő tengerparti üdülőváros, amelyet jól megőrzött német gyarmati építészete jellemez.",
@@ -576,7 +572,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-ON",
     coords: [15.7, -17.7833],
     name: { de: "Oshakati", hu: "Oshakati", ro: "Oshakati", en: "Oshakati"},
-    image: "/poi-images/oshakati-cities-v2.webp",
     description: {
       de: "Das größte Handelszentrum im Norden Namibias, das als Wirtschaftsmotor für die Region fungiert.",
       hu: "Észak-Namíbia legnagyobb kereskedelmi központja, amely a régió gazdasági motorjaként működik.",
@@ -775,7 +770,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-HA",
     coords: [17.0833, -23.3167],
     name: { de: "Rehoboth", hu: "Rehoboth", ro: "Rehoboth", en: "Rehoboth"},
-    image: "/poi-images/rehoboth-cities-v2.webp",
     description: {
       de: "Eine historische Stadt südlich von Windhoek, die als traditionelle Heimat der Baster-Gemeinschaft dient.",
       hu: "Windhoektól délre fekvő történelmi város, amely a Baster közösség hagyományos otthonául szolgál.",
@@ -866,7 +860,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-CA",
     coords: [24.2667, -17.5],
     name: { de: "Katima Mulilo", hu: "Katima Mulilo", ro: "Katima Mulilo", en: "Katima Mulilo"},
-    image: "/poi-images/katima-mulilo-cities-v2.webp",
     description: {
       de: "Eine tropische Grenzstadt am südlichen Ufer des Sambesi.",
       hu: "A Zambézi folyó déli partján fekvő trópusi határváros.",
@@ -912,7 +905,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-ON",
     coords: [15.9667, -17.9167],
     name: { de: "Ondangwa", hu: "Ondangwa", ro: "Ondangwa", en: "Ondangwa"},
-    image: "/poi-images/ondangwa-cities-v2.webp",
     description: {
       de: "Ein wichtiges Handels- und Verwaltungszentrum im Norden mit einem wichtigen Regionalflughafen.",
       hu: "Jelentős északi kereskedelmi és közigazgatási központ, amely fontos regionális repülőtérrel rendelkezik.",
@@ -1111,7 +1103,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-OD",
     coords: [16.9167, -21.9833],
     name: { de: "Okahandja", hu: "Okahandja", ro: "Okahandja", en: "Okahandja"},
-    image: "/poi-images/okahandja-cities-v2.webp",
     description: {
       de: "Oft als Gartenstadt Namibias bezeichnet und dient als traditionelles Zentrum der Herero.",
       hu: "Gyakran Namíbia kertvárosaként emlegetik, és a herero nép hagyományos központjaként működik.",
@@ -1202,7 +1193,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-KA",
     coords: [18.1333, -26.5833],
     name: { de: "Keetmanshoop", hu: "Keetmanshoop", ro: "Keetmanshoop", en: "Keetmanshoop"},
-    image: "/poi-images/keetmanshoop-cities-v2.webp",
     description: {
       de: "Die größte Siedlung und Verwaltungshauptstadt der südafrikanischen Karas-Region.",
       hu: "A dél-namíbiai Karas régió legnagyobb települése és közigazgatási központja.",
@@ -1329,7 +1319,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-OS",
     coords: [17.7167, -19.2333],
     name: { de: "Tsumeb", hu: "Tsumeb", ro: "Tsumeb", en: "Tsumeb"},
-    image: "/poi-images/tsumeb-cities-v2.webp",
     description: {
       de: "Bekannt als Namibias wichtigste historische Bergbaustadt, berühmt für ihre seltenen Mineralien.",
       hu: "Namíbia legfontosabb történelmi bányászvárosaként ismert, amely ritka ásványairól híres.",
@@ -1456,7 +1445,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-OH",
     coords: [18.9667, -22.45],
     name: { de: "Gobabis", hu: "Gobabis", ro: "Gobabis", en: "Gobabis"},
-    image: "/poi-images/gobabis-cities-v2.webp",
     description: {
       de: "Ein wichtiges Rinderzuchtzentrum im Osten Namibias, liebevoll 'Hauptstadt des Ostens' genannt.",
       hu: "A szarvasmarha-tenyésztés egyik fő központja Kelet-Namíbiában, amelyet szeretettel 'Kelet Fővárosának' hívnak.",
@@ -1547,7 +1535,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-OD",
     coords: [18.1167, -19.5667],
     name: { de: "Grootfontein", hu: "Grootfontein", ro: "Grootfontein", en: "Grootfontein"},
-    image: "/poi-images/grootfontein-cities-v2.webp",
     description: {
       de: "Eine üppige, grüne Stadt im fruchtbaren zentral-nördlichen Bereich, Heimat eines großen Militärstützpunkts.",
       hu: "Buja, zöld város a termékeny közép-északi területen, ahol egy nagy katonai bázis is található.",
@@ -1710,7 +1697,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-KA",
     coords: [15.15, -26.65],
     name: { de: "Lüderitz", hu: "Lüderitz", ro: "Lüderitz", en: "Lüderitz"},
-    image: "/poi-images/luderitz-cities-v2.webp",
     description: {
       de: "Eine isolierte Küstenstadt, auf Felsen erbaut, bekannt für ihr reiches Diamantenabbauerbe und ihre Jugendstilgebäude.",
       hu: "Sziklákra épült elszigetelt tengerparti város, amely gazdag gyémántbányászati örökségéről és szecessziós épületeiről ismert.",
@@ -1756,7 +1742,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-HA",
     coords: [17.9667, -24.6333],
     name: { de: "Mariental", hu: "Mariental", ro: "Mariental", en: "Mariental"},
-    image: "/poi-images/mariental-cities-v2.webp",
     description: {
       de: "Das Handelszentrum der Hardap-Region, das sich stark auf die Schaf- und Straußenzucht konzentriert.",
       hu: "A Hardap régió kereskedelmi központja, amely erősen a juh- és strucctenyésztésre fókuszál.",
@@ -1883,7 +1868,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-KU",
     coords: [16.15, -20.1167],
     name: { de: "Outjo", hu: "Outjo", ro: "Outjo", en: "Outjo"},
-    image: "/poi-images/outjo-cities-v2.webp",
     description: {
       de: "Oft als südliches Tor zum spektakulären Etosha-Nationalpark angesehen.",
       hu: "Gyakran a lenyűgöző Etosha Nemzeti Park déli kapujának tekintik.",
@@ -1929,7 +1913,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-KA",
     coords: [18.75, -28.0167],
     name: { de: "Karasburg", hu: "Karasburg", ro: "Karasburg", en: "Karasburg"},
-    image: "/poi-images/karasburg-cities-v2.webp",
     description: {
       de: "Das Hauptverwaltungszentrum für den tiefen Süden, entscheidend für die regionale Karakul-Schafzucht.",
       hu: "A távoli dél fő közigazgatási központja, amely kulcsfontosságú a regionális karakul juhászat számára.",
@@ -2020,7 +2003,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-ER",
     coords: [15.8333, -21.9333],
     name: { de: "Karibib", hu: "Karibib", ro: "Karibib", en: "Karibib"},
-    image: "/poi-images/karibib-cities-v2.webp",
     description: {
       de: "Eine historische Eisenbahnstadt, die weltweit für den außergewöhnlich hochwertigen Marmor bekannt ist, der in der Nähe abgebaut wird.",
       hu: "Történelmi vasútváros, amely világszerte híres a közelében kitermelt kivételesen magas minőségű márványról.",
@@ -2183,7 +2165,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-ER",
     coords: [15.95, -21.4167],
     name: { de: "Omaruru", hu: "Omaruru", ro: "Omaruru", en: "Omaruru"},
-    image: "/poi-images/omaruru-cities-v2.webp",
     description: {
       de: "Eine malerische Stadt am Fuße des Erongogebirges, bekannt für ihre blühende Künstlergemeinde und ein Weingut.",
       hu: "Festői város az Erongo-hegység lábánál, amely virágzó művészközösségéről és pincészetéről ismert.",
@@ -2346,7 +2327,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-OD",
     coords: [16.65, -20.4667],
     name: { de: "Otjiwarongo", hu: "Otjiwarongo", ro: "Otjiwarongo", en: "Otjiwarongo"},
-    image: "/poi-images/otjiwarongo-cities-v2.webp",
     description: {
       de: "Ein geschäftiges städtisches Zentrum, das als wichtigster Knotenpunkt für Gepardenschutzbemühungen im Land dient.",
       hu: "Nyüzsgő városközpont, amely a nemzeti gepárdvédelmi erőfeszítések elsődleges központjaként szolgál.",
@@ -2437,7 +2417,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-OW",
     coords: [16.3333, -17.4833],
     name: { de: "Eenhana", hu: "Eenhana", ro: "Eenhana", en: "Eenhana"},
-    image: "/poi-images/eenhana-cities-v2.webp",
     description: {
       de: "Das Verwaltungszentrum der Ohangwena-Region, umgeben von dichten Wäldern nahe der angolanischen Grenze.",
       hu: "Az Ohangwena régió közigazgatási központja, amelyet sűrű erdők vesznek körül az angolai határ közelében.",
@@ -2528,7 +2507,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-KU",
     coords: [13.8333, -18.0667],
     name: { de: "Opuwo", hu: "Opuwo", ro: "Opuwo", en: "Opuwo"},
-    image: "/poi-images/opuwo-cities-v2.webp",
     description: {
       de: "Die raue Hauptstadt der Kunene-Region, die als Hauptknotenpunkt für Begegnungen mit der Himba-Kultur dient.",
       hu: "A Kunene régió zord fővárosa, amely a Himba kulturális találkozások elsődleges központjaként működik.",
@@ -2619,7 +2597,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-ON",
     coords: [15.7667, -17.7833],
     name: { de: "Ongwediva", hu: "Ongwediva", ro: "Ongwediva", en: "Ongwediva"},
-    image: "/poi-images/ongwediva-cities-v2.webp",
     description: {
       de: "Eine schnell wachsende Stadt, bekannt für die Ausrichtung der jährlichen Ongwediva Annual Trade Fair.",
       hu: "Gyorsan fejlődő város, amely az éves Ongwediva Kereskedelmi Vásár megrendezéséről híres.",
@@ -2746,7 +2723,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-KA",
     coords: [16.4333, -28.55],
     name: { de: "Oranjemund", hu: "Oranjemund", ro: "Oranjemund", en: "Oranjemund"},
-    image: "/poi-images/oranjemund-cities-v2.webp",
     description: {
       de: "Eine Stadt an der Mündung des Oranje, historisch verwaltet als private Diamantenabbau-Enklave.",
       hu: "Az Orange-folyó torkolatánál fekvő város, amelyet történelmileg egy privát gyémántbányászati enklávéként kezeltek.",
@@ -2792,7 +2768,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-ER",
     coords: [15.6, -22.0],
     name: { de: "Usakos", hu: "Usakos", ro: "Usakos", en: "Usakos"},
-    image: "/poi-images/usakos-cities-v2.webp",
     description: {
       de: "Eine historische Siedlung, die als natürliches Tor zu den dramatischen Spitzkoppe-Granitgipfeln dient.",
       hu: "Történelmi település, amely a drámai Spitzkoppe gránitcsúcsok természetes kapujaként szolgál.",
@@ -2883,7 +2858,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-OS",
     coords: [14.9833, -17.5],
     name: { de: "Outapi", hu: "Outapi", ro: "Outapi", en: "Outapi"},
-    image: "/poi-images/outapi-cities-v2.webp",
     description: {
       de: "Die lebhafte Hauptstadt der Region Omusati, tief verbunden mit den nördlichen landwirtschaftlichen Ebenen.",
       hu: "Az Omusati régió nyüzsgő fővárosa, amely szorosan kapcsolódik az északi mezőgazdasági síkságokhoz.",
@@ -3068,7 +3042,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-ER",
     coords: [14.2833, -22.1167],
     name: { de: "Henties Bay", hu: "Henties Bay", ro: "Henties Bay", en: "Henties Bay"},
-    image: "/poi-images/henties-bay-cities-v2.webp",
     description: {
       de: "Ein beliebtes Küstenurlaubsziel, berühmt bei Anglern und Offroad-Enthusiasten.",
       hu: "Népszerű tengerparti nyaralóhely, amely a horgászok és a terepjárózás szerelmesei körében is híres.",
@@ -3114,7 +3087,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-ER",
     coords: [14.9667, -22.4167],
     name: { de: "Arandis", hu: "Arandis", ro: "Arandis", en: "Arandis"},
-    image: "/poi-images/arandis-cities-v2.webp",
     description: {
       de: "Eine Wüstenstadt, die ursprünglich gegründet wurde, um die massiven Arbeitskräfte der Rössing-Uranmine zu unterstützen.",
       hu: "Egy sivatagi város, amelyet eredetileg a hatalmas Rössing uránbánya munkaerejének támogatására hoztak létre.",
@@ -3160,7 +3132,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-OD",
     coords: [17.3333, -19.6333],
     name: { de: "Otavi", hu: "Otavi", ro: "Otavi", en: "Otavi"},
-    image: "/poi-images/otavi-cities-v2.webp",
     description: {
       de: "Eine grüne landwirtschaftliche Stadt, die eine Ecke des hochproduktiven 'Maisdreiecks' bildet.",
       hu: "Zöldellő mezőgazdasági város, amely a rendkívül termékeny 'Kukoricaháromszög' egyik sarkát alkotja.",
@@ -3251,7 +3222,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-KA",
     coords: [17.15, -26.5],
     name: { de: "Bethanie", hu: "Bethanie", ro: "Bethanie", en: "Bethanie"},
-    image: "/poi-images/bethanie-cities-v2.webp",
     description: {
       de: "Eine der ältesten dokumentierten Siedlungen im Land, reich an vorkolonialer und Missionsgeschichte.",
       hu: "Az ország egyik legrégebbi dokumentált települése, amely gazdag gyarmatosítás előtti és missziós történelemben.",
@@ -3297,7 +3267,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-OS",
     coords: [14.2833, -17.4333],
     name: { de: "Ruacana", hu: "Ruacana", ro: "Ruacana", en: "Ruacana"},
-    image: "/poi-images/ruacana-cities-v2.webp",
     description: {
       de: "Eine Siedlung in der Nähe eines großen Wasserkraftwerks und majestätischer Wasserfälle am Kunene.",
       hu: "A Kunene folyó fenséges vízesései és egy nagy vízerőmű közelében fekvő település.",
@@ -3424,7 +3393,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-HA",
     coords: [16.9833, -24.8333],
     name: { de: "Maltahöhe", hu: "Maltahöhe", ro: "Maltahöhe", en: "Maltahöhe"},
-    image: "/poi-images/maltahohe-cities-v2.webp",
     description: {
       de: "Ein kleiner Wüstenaußenposten, der hauptsächlich als wichtiger Zwischenstopp für Touristen in Richtung Sossusvlei dient.",
       hu: "Kis sivatagi előőrs, amely elsősorban a Sossusvlei felé tartó turisták kulcsfontosságú megállójaként szolgál.",
@@ -3470,7 +3438,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-KU",
     coords: [14.9667, -20.3667],
     name: { de: "Khorixas", hu: "Khorixas", ro: "Khorixas", en: "Khorixas"},
-    image: "/poi-images/khorixas-cities-v2.webp",
     description: {
       de: "Die ehemalige Verwaltungshauptstadt des Damaralandes bietet Zugang zu zahlreichen geologischen Wundern.",
       hu: "Damaraland egykori közigazgatási fővárosa, amely számos geológiai csodához kínál hozzáférést.",
@@ -3516,7 +3483,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-KU",
     coords: [14.8333, -19.6333],
     name: { de: "Kamanjab", hu: "Kamanjab", ro: "Kamanjab", en: "Kamanjab"},
-    image: "/poi-images/kamanjab-cities-v2.webp",
     description: {
       de: "Eine kleine Siedlung, die die zentralen landwirtschaftlichen Bezirke mit der rauen nordwestlichen Wildnis verbindet.",
       hu: "Kis település, amely összeköti a központi mezőgazdasági negyedeket a zord északnyugati vadonnal.",
@@ -3609,7 +3575,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-HA",
     coords: [19.1167, -24.1333],
     name: { de: "Aranos", hu: "Aranos", ro: "Aranos", en: "Aranos"},
-    image: "/poi-images/aranos-cities-v2.webp",
     description: {
       de: "Eine friedliche Wüstensiedlung entlang des trockenen Nossob-Flusses, die von Grundwasser lebt.",
       hu: "A kiszáradt Nossob folyó mentén épült békés sivatagi település, amely a felszín alatti vizekből él.",
@@ -3655,7 +3620,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-HA",
     coords: [18.4, -24.3333],
     name: { de: "Stampriet", hu: "Stampriet", ro: "Stampriet", en: "Stampriet"},
-    image: "/poi-images/stampriet-cities-v2.webp",
     description: {
       de: "Eine Oasenstadt, die für ihre artesischen Quellen bekannt ist, die überraschend grüne Landwirtschaft in der Wüste unterstützen.",
       hu: "Oázisváros, amely artézi forrásairól ismert, melyek meglepően zöld mezőgazdaságot tartanak fenn a sivatagban.",
@@ -3701,7 +3665,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-HA",
     coords: [17.75, -25.1333],
     name: { de: "Gibeon", hu: "Gibeon", ro: "Gibeon", en: "Gibeon"},
-    image: "/poi-images/gibeon-cities-v2.webp",
     description: {
       de: "Ein historisches Dorf, das weltweit für einen massiven prähistorischen Schauer aus Eisenmeteoriten berühmt ist.",
       hu: "Történelmi falu, amely egy hatalmas történelem előtti vasmeteorit-záporról híres világszerte.",
@@ -3747,7 +3710,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-KA",
     coords: [19.65, -26.7833],
     name: { de: "Aroab", hu: "Aroab", ro: "Aroab", en: "Aroab"},
-    image: "/poi-images/aroab-cities-v2.webp",
     description: {
       de: "Ein ruhiger Außenposten am Rande der Kalahari-Wüste, der als Grenzübergangsstelle fungiert.",
       hu: "Csendes előőrs a Kalahári-sivatag szélén, amely határátkelőhelyként funkcionál.",
@@ -3793,7 +3755,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-KA",
     coords: [19.1167, -25.95],
     name: { de: "Koës", hu: "Koës", ro: "Koës", en: "Koës"},
-    image: "/poi-images/koes-cities-v2.webp",
     description: {
       de: "Eine kleine Siedlung, die von ausgedehnten trockenen Pfannen geprägt ist, in denen manchmal Offroad-Rennen stattfinden.",
       hu: "Kis település, amelyet kiterjedt száraz serpenyők jellemeznek, amelyek néha terepjáró versenyeknek adnak otthont.",
@@ -3884,7 +3845,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-KA",
     coords: [18.7333, -28.45],
     name: { de: "Warmbad", hu: "Warmbad", ro: "Warmbad", en: "Warmbad"},
-    image: "/poi-images/warmbad-cities-v2.webp",
     description: {
       de: "Eine alte Siedlung im äußersten Süden, zentriert um beruhigende natürliche Thermalquellen.",
       hu: "Ősi település a legdélebbi részen, amely nyugtató természetes hőforrásokra épült.",
@@ -3930,7 +3890,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-KA",
     coords: [16.7667, -27.9667],
     name: { de: "Rosh Pinah", hu: "Rosh Pinah", ro: "Rosh Pinah", en: "Rosh Pinah"},
-    image: "/poi-images/rosh-pinah-cities-v2.webp",
     description: {
       de: "Eine Unternehmensbergbaustadt, die vollständig durch den Abbau von Zink und Blei erhalten wird.",
       hu: "Vállalati bányászváros, amelyet teljes egészében a cink- és ólomkitermelés tart fenn.",
@@ -3976,7 +3935,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-KA",
     coords: [17.6, -28.7167],
     name: { de: "Noordoewer", hu: "Noordoewer", ro: "Noordoewer", en: "Noordoewer"},
-    image: "/poi-images/noordoewer-cities-v2.webp",
     description: {
       de: "Der wichtigste Grenzposten, der Namibia mit Südafrika entlang des majestätischen Oranje verbindet.",
       hu: "A Namíbiát Dél-Afrikával összekötő elsődleges határállomás a fenséges Orange folyó mentén.",
@@ -4022,7 +3980,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-KA",
     coords: [17.4333, -28.4],
     name: { de: "Aussenkehr", hu: "Aussenkehr", ro: "Aussenkehr", en: "Aussenkehr"},
-    image: "/poi-images/aussenkehr-cities-v2.webp",
     description: {
       de: "Ein riesiges Agrarprojekt an den Ufern, bekannt als einer der größten Traubenexporteure der Südhalbkugel.",
       hu: "Hatalmas mezőgazdasági projekt a folyóparton, amelyet a déli félteke egyik legnagyobb szőlőexportőreként tartanak számon.",
@@ -4149,7 +4106,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-KA",
     coords: [16.2667, -26.6667],
     name: { de: "Aus", hu: "Aus", ro: "Aus", en: "Aus"},
-    image: "/poi-images/aus-cities-v2.webp",
     description: {
       de: "Ein kleines Dorf in den felsigen Hügeln, wo das trockene innere Plateau in die raue Namib-Wüste übergeht.",
       hu: "Apró falu a sziklás dombok között, ahol a száraz belső fennsík átadja helyét a zord Namib-sivatagnak.",
@@ -4195,7 +4151,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-ER",
     coords: [14.8667, -21.2167],
     name: { de: "Uis", hu: "Uis", ro: "Uis", en: "Uis"},
-    image: "/poi-images/uis-cities-v2.webp",
     description: {
       de: "Eine abgelegene Bergbausiedlung im Schatten des imposanten Brandbergmassivs.",
       hu: "Távoli bányásztelepülés, amely az impozáns Brandberg-hegység árnyékában él.",
@@ -4241,7 +4196,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-ER",
     coords: [15.3833, -21.3667],
     name: { de: "Okombahe", hu: "Okombahe", ro: "Okombahe", en: "Okombahe"},
-    image: "/poi-images/okombahe-cities-v2.webp",
     description: {
       de: "Eine kulturell reiche Siedlung am Omaruru, die als traditioneller Sitz der Damara-Führung fungiert.",
       hu: "Kulturálisan gazdag település az Omaruru folyó mentén, amely a Damara vezetés hagyományos székhelyeként működik.",
@@ -4334,7 +4288,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-OD",
     coords: [16.1833, -20.8833],
     name: { de: "Kalkfeld", hu: "Kalkfeld", ro: "Kalkfeld", en: "Kalkfeld"},
-    image: "/poi-images/kalkfeld-cities-v2.webp",
     description: {
       de: "Eine langsam verblassende Eisenbahnhaltestelle, die eine ausgeprägte Geisterstadt-Atmosphäre entlang der Straße nach Outjo besitzt.",
       hu: "Egy lassan elhalványuló vasúti megállóhely, amely egyedi szellemvárosi hangulattal bír az Outjo felé vezető úton.",
@@ -4380,7 +4333,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-OD",
     coords: [17.85, -21.4833],
     name: { de: "Hochfeld", hu: "Hochfeld", ro: "Hochfeld", en: "Hochfeld"},
-    image: "/poi-images/hochfeld-cities-v2.webp",
     description: {
       de: "Ein winziger ländlicher Knotenpunkt, der als wichtiger Treffpunkt für die verstreute Bauerngemeinde in den zentralen Ebenen dient.",
       hu: "Apró vidéki csomópont, amely létfontosságú találkozóhelyként szolgál a szétszórt mezőgazdasági közösség számára a központi síkságokon.",
@@ -4426,7 +4378,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-OH",
     coords: [18.4833, -22.4],
     name: { de: "Witvlei", hu: "Witvlei", ro: "Witvlei", en: "Witvlei"},
-    image: "/poi-images/witvlei-cities-v2.webp",
     description: {
       de: "Eine Siedlung, bekannt für ihre robuste fleischverarbeitende Industrie und ihre historische Bedeutung während der Herero-Konflikte.",
       hu: "Település, amely a robusztus húsfeldolgozó iparáról és a herero konfliktusok idején betöltött történelmi jelentőségéről ismert.",
@@ -4472,7 +4423,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-OH",
     coords: [18.8, -23.5],
     name: { de: "Leonardville", hu: "Leonardville", ro: "Leonardville", en: "Leonardville"},
-    image: "/poi-images/leonardville-cities-v2.webp",
     description: {
       de: "Ein ruhiges Dorf tief in den rinderreichen Landschaften der Omaheke-Region.",
       hu: "Csendes falu, amely mélyen az Omaheke régió szarvasmarhában gazdag tájain fekszik.",
@@ -4518,7 +4468,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-OH",
     coords: [19.1667, -21.6833],
     name: { de: "Epukiro", hu: "Epukiro", ro: "Epukiro", en: "Epukiro"},
-    image: "/poi-images/epukiro-cities-v2.webp",
     description: {
       de: "Eine abgelegene östliche Siedlung, die als kulturelle Hochburg für die Mbanderu-Gemeinschaft anerkannt ist.",
       hu: "Elszigetelt keleti település, amelyet az Mbanderu közösség kulturális bástyájaként tartanak számon.",
@@ -4564,7 +4513,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-OH",
     coords: [19.3667, -23.65],
     name: { de: "Aminuis", hu: "Aminuis", ro: "Aminuis", en: "Aminuis"},
-    image: "/poi-images/aminuis-cities-v2.webp",
     description: {
       de: "Ein kommunales landwirtschaftliches Gebiet, übersät mit leuchtend weißen Salzpfannen, tief verwurzelt in der Herero-Geschichte.",
       hu: "Közösségi mezőgazdasági terület, amelyet ragyogóan fehér sós serpenyők tarkítanak, és mélyen gyökerezik a herero történelemben.",
@@ -4657,7 +4605,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-OS",
     coords: [15.0667, -17.8833],
     name: { de: "Okahao", hu: "Okahao", ro: "Okahao", en: "Okahao"},
-    image: "/poi-images/okahao-cities-v2.webp",
     description: {
       de: "Eine stolze Siedlung, bekannt als das Herz des Ongandjera-Königreichs und Geburtsort von Namibias Gründungspolizisten.",
       hu: "Büszke település, amely az Ongandjera királyság szíveként és Namíbia alapító elnökének szülőhelyeként ismert.",
@@ -4703,7 +4650,6 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     parent: "NA-OS",
     coords: [14.8833, -17.75],
     name: { de: "Tsandi", hu: "Tsandi", ro: "Tsandi", en: "Tsandi"},
-    image: "/poi-images/tsandi-cities-v2.webp",
     description: {
       de: "Ein tief traditionelles Dorf, in dem das prächtige königliche Gehöft des Uukwaluudhi-Königs steht.",
       hu: "Mélyen hagyományőrző falu, ahol az Uukwaluudhi király grandiózus királyi tanyája található.",

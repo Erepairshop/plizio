@@ -458,7 +458,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Mirpur Khas é uma cidade na província de Sindh e é conhecida como a 'cidade das mangas'.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Mirpur Khas est une ville de la province du Sind, connue comme la « ville des mangues ».", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/mirpur-khas-cities-v2.webp",
     description: {
       de: "Mirpur Khas ist eine Stadt in der Provinz Sindh und bekannt als 'Stadt der Mangos'.",
       hu: "Mirpur Khas egy város Szindh tartományban, a 'mangók városaként' ismert.",
@@ -960,7 +959,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Hafizabad é uma cidade na província de Punjab e outro centro importante de produção de arroz.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Hafizabad est une ville de la province du Pendjab et un autre centre majeur de production de riz.", "Se situe sur le territoire de la République islamique du Pakistan.", "Est sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/hafizabad-cities-v2.webp",
     description: {
       de: "Hafizabad ist eine Stadt in der Provinz Punjab und ein weiteres wichtiges Zentrum für die Reisproduktion.",
       hu: "Hafizabad egy város Pandzsáb tartományban, és a rizstermelés másik fontos központja.",
@@ -1377,7 +1375,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Kohat é uma cidade em Khyber Pakhtunkhwa, conhecida pela sua localização estratégica e produção de goiabas.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Kohat est une ville du Khyber Pakhtunkhwa, réputée pour sa situation stratégique et sa production de goyaves.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/kohat-cities-v2.webp",
     description: {
       de: "Kohat ist eine Stadt in Khyber Pakhtunkhwa, die für ihre strategische Lage und ihre Guavenproduktion bekannt ist.",
       hu: "Kohat egy város Khyber Pakhtunkhwa tartományban, stratégiai fekvéséről és guava termesztéséről ismert.",
@@ -1650,7 +1647,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["A cidade de Jhelum está localizada nas margens do rio Jhelum, em Punjab, e é conhecida pela sua grande comunidade de emigrantes.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["La ville de Jhelum est située sur les rives de la rivière Jhelum au Pendjab et est connue pour son importante communauté d'expatriés.", "Se situe sur le territoire de la République islamique du Pakistan.", "Est sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/jhelum-city-cities-v2.webp",
     description: {
       de: "Die Stadt Jhelum liegt am Ufer des Jhelum-Flusses in Punjab und ist für ihre große Auswanderergemeinschaft bekannt.",
       hu: "Jhelum városa a Jhelum folyó partján fekszik Pandzsábban, és nagy kivándorló közösségéről ismert.",
@@ -1743,7 +1739,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Sahiwal é uma cidade no Punjab, conhecida por sua raça de gado Sahiwal e sua indústria de algodão.", "Localizada no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Sahiwal est une ville du Pendjab réputée pour sa race bovine Sahiwal et son industrie du coton.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Reconnue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/sahiwal-cities-v2.webp",
     description: {
       de: "Sahiwal ist eine Stadt in Punjab, die für ihre Rinderrasse Sahiwal und ihre Baumwollindustrie bekannt ist.",
       hu: "Sahiwal egy város Pandzsábban, amely Sahiwal szarvasmarha-fajtájáról és pamutiparáról ismert.",
@@ -1836,7 +1831,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Khanewal é uma cidade na província de Punjab e um importante entroncamento ferroviário.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Khanewal est une ville de la province du Pendjab et un nœud ferroviaire important.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/khanewal-cities-v2.webp",
     description: {
       de: "Khanewal ist eine Stadt in der Provinz Punjab und ein wichtiger Eisenbahnknotenpunkt.",
       hu: "Khanewal egy város Pandzsáb tartományban és fontos vasúti csomópont.",
@@ -1929,7 +1923,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Gojra é uma cidade no distrito de Toba Tek Singh, em Punjab, e um centro de cultivo de cereais e cana-de-açúcar.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Gojra est une ville du district de Toba Tek Singh, au Pendjab, et un centre de culture de céréales et de canne à sucre.", "Se situe sur le territoire de la République islamique du Pakistan.", "Est sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/gojra-cities-v2.webp",
     description: {
       de: "Gojra ist eine Stadt im Distrikt Toba Tek Singh in Punjab und ein Zentrum für den Anbau von Getreide und Zuckerrohr.",
       hu: "Gojra egy város a Toba Tek Singh kerületben, Pandzsábban, és a gabona- és cukornádtermesztés központja.",
@@ -2022,7 +2015,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Mandi Bahauddin é uma cidade na província de Punjab, conhecida pelos seus solos férteis e produção agrícola.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Mandi Bahauddin est une ville de la province du Pendjab, réputée pour ses sols fertiles et sa production agricole.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/mandi-bahauddin-cities-v2.webp",
     description: {
       de: "Mandi Bahauddin ist eine Stadt in der Provinz Punjab, die für ihre fruchtbaren Böden und ihre landwirtschaftliche Produktion bekannt ist.",
       hu: "Mandi Bahauddin egy város Pandzsáb tartományban, termékeny talajáról és mezőgazdasági termeléséről ismert.",
@@ -2259,7 +2251,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Muridke é uma cidade perto de Lahore, em Punjab, que é um centro industrial e comercial em rápido crescimento.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Muridke est une ville située près de Lahore, au Pendjab, qui constitue un centre industriel et commercial en pleine expansion.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/muridke-cities-v2.webp",
     description: {
       de: "Muridke ist eine Stadt in der Nähe von Lahore in Punjab, die ein schnell wachsendes Industrie- und Handelszentrum ist.",
       hu: "Muridke egy város Lahore közelében, Pandzsábban, amely gyorsan növekvő ipari és kereskedelmi központ.",
@@ -2784,7 +2775,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Tando Adam é uma cidade na província de Sindh, que é um importante centro para as indústrias têxtil e açucareira.", "Localizada no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Tando Adam est une ville de la province du Sind, constituant un centre majeur pour les industries du textile et du sucre.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Reconnue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/tando-adam-cities-v2.webp",
     description: {
       de: "Tando Adam ist eine Stadt in der Provinz Sindh, die ein wichtiges Zentrum für die Textil- und Zuckerindustrie ist.",
       hu: "Tando Adam egy város Szindh tartományban, a textil- és cukoripar fontos központja.",
@@ -3309,7 +3299,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Tando Allahyar é uma cidade em Sindh, conhecida por sua produção de manga e cana-de-açúcar.", "Localizada no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Tando Allahyar est une ville du Sind réputée pour sa production de mangues et de canne à sucre.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Reconnue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/tando-allahyar-cities-v2.webp",
     description: {
       de: "Tando Allahyar ist eine Stadt in Sindh, die für ihre Mango- und Zuckerrohrproduktion bekannt ist.",
       hu: "Tando Allahyar egy város Szindhben, mangó- és cukornádtermesztéséről ismert.",
@@ -3582,7 +3571,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Chiniot é uma cidade no Punjab, conhecida pela sua requintada fabricação de móveis de madeira.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Chiniot est une ville du Pendjab, célèbre pour sa fabrication de meubles en bois exquis.", "Se situe sur le territoire de la République islamique du Pakistan.", "Est sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/chiniot-cities-v2.webp",
     description: {
       de: "Chiniot ist eine Stadt in Punjab, die für ihre exquisite Holzmöbelherstellung bekannt ist.",
       hu: "Chiniot egy város Pandzsábban, amely kiváló minőségű fabútor-gyártásáról ismert.",
@@ -3783,7 +3771,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Khuzdar é uma cidade no Baluchistão que serve como uma paragem importante no caminho de Quetta para Carachi.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Khuzdar est une ville du Baloutchistan qui sert d'escale importante sur la route reliant Quetta à Karachi.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/khuzdar-cities-v2.webp",
     description: {
       de: "Khuzdar ist eine Stadt in Belutschistan, die als wichtige Zwischenstation auf dem Weg von Quetta nach Karatschi dient.",
       hu: "Khuzdar egy város Beludzsisztánban, amely fontos megállóhely a Quettából Karacsiba vezető úton.",
@@ -4092,7 +4079,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Vehari é uma cidade no Punjab e o centro de uma importante área de cultivo de algodão.", "Localizada no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Vehari est une ville du Pendjab et le centre d'une importante zone de culture du coton.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Reconnue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/vehari-cities-v2.webp",
     description: {
       de: "Vehari ist eine Stadt in Punjab und das Zentrum eines wichtigen Baumwollanbaugebiets.",
       hu: "Vehari egy város Pandzsábban és egy fontos gyapottermesztő terület központja.",
@@ -4293,7 +4279,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Daska é uma cidade industrial no distrito de Sialkot, conhecida pela sua fabricação de máquinas agrícolas.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Daska est une ville industrielle du district de Sialkot, connue pour sa fabrication de machines agricoles.", "Se situe sur le territoire de la République islamique du Pakistan.", "Est sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/daska-cities-v2.webp",
     description: {
       de: "Daska ist eine Industriestadt im Distrikt Sialkot, die für ihre Herstellung von Landmaschinen bekannt ist.",
       hu: "Daska egy ipari város a Sialkot kerületben, amely mezőgazdasági gépek gyártásáról ismert.",
@@ -4422,7 +4407,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Mansehra é uma cidade em Khyber Pakhtunkhwa que serve como porta de entrada para áreas do norte, como o Vale de Kaghan.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Mansehra est une ville du Khyber Pakhtunkhwa qui sert de porte d'entrée vers les régions du nord, comme la vallée de Kaghan.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/mansehra-cities-v2.webp",
     description: {
       de: "Mansehra ist eine Stadt in Khyber Pakhtunkhwa, die als Tor zu den nördlichen Gebieten wie dem Kaghan-Tal dient.",
       hu: "Mansehra egy város Khyber Pakhtunkhwa tartományban, amely kapuként szolgál az északi területekhez, mint például a Kaghan-völgy.",
@@ -4551,7 +4535,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Toba Tek Singh é uma cidade no Punjab que foi imortalizada por um famoso conto de Saadat Hasan Manto.", "Localizada no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Toba Tek Singh est une ville du Pendjab, immortalisée par une célèbre nouvelle de Saadat Hasan Manto.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Reconnue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/toba-tek-singh-cities-v2.webp",
     description: {
       de: "Toba Tek Singh ist eine Stadt in Punjab, die durch eine berühmte Kurzgeschichte von Saadat Hasan Manto unsterblich gemacht wurde.",
       hu: "Toba Tek Singh egy város Pandzsábban, amelyet Saadat Hasan Manto híres novellája tett halhatatlanná.",
@@ -4644,7 +4627,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Shikarpur é uma cidade histórica em Sindh, outrora conhecida pelo seu comércio e finanças.", "Localizada no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Shikarpur est une ville historique du Sind, autrefois réputée pour son commerce et ses finances.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Reconnue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/shikarpur-cities-v2.webp",
     description: {
       de: "Shikarpur ist eine historische Stadt in Sindh, die einst für ihren Handel und ihre Finanzen bekannt war.",
       hu: "Shikarpur egy történelmi város Szindhben, amely egykor kereskedelméről és pénzügyeiről volt ismert.",
@@ -4809,7 +4791,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Jacobabad é uma cidade em Sindh, conhecida como um dos lugares mais quentes do mundo.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Jacobabad est une ville du Sindh, connue pour être l'un des endroits les plus chauds au monde.", "Se situe sur le territoire de la République islamique du Pakistan.", "Est sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/jacobabad-cities-v2.webp",
     description: {
       de: "Jacobabad ist eine Stadt in Sindh, die als einer der heißesten Orte der Welt bekannt ist.",
       hu: "Jacobabad egy város Szindhben, amely a világ egyik legforróbb helyeként ismert.",
@@ -4974,7 +4955,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Khairpur foi a capital do antigo estado principesco de Khairpur em Sindh e é conhecida pela sua produção de tâmaras.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Khairpur était la capitale de l'ancien État princier de Khairpur dans le Sindh et est réputée pour sa production de dattes.", "Se situe sur le territoire de la République islamique du Pakistan.", "Est sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/khairpur-cities-v2.webp",
     description: {
       de: "Khairpur war die Hauptstadt des ehemaligen Fürstenstaates Khairpur in Sindh und ist für seine Dattelproduktion bekannt.",
       hu: "Khairpur az egykori Khairpur hercegi állam fővárosa volt Szindhben, és datolyatermesztéséről ismert.",
@@ -5103,7 +5083,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Burewala é uma cidade no distrito de Vehari no Punjab e um importante centro agrícola.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Burewala est une ville du district de Vehari au Pendjab, centre agricole majeur.", "Située sur le territoire de la République islamique du Pakistan.", "Soumise à l'influence climatique entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle central dans l'identité locale de la région.", "Réputée pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/burewala-cities-v2.webp",
     description: {
       de: "Burewala ist eine Stadt im Distrikt Vehari in Punjab und ein wichtiges landwirtschaftliches Zentrum.",
       hu: "Burewala egy város a Vehari kerületben, Pandzsábban, és fontos mezőgazdasági központ.",
@@ -5196,7 +5175,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Pakpattan é uma cidade antiga no Punjab, conhecida como o lar do santuário do santo sufi Baba Farid.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Pakpattan est une ville ancienne du Pendjab, connue pour abriter le sanctuaire du saint soufi Baba Farid.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/pakpattan-cities-v2.webp",
     description: {
       de: "Pakpattan ist eine alte Stadt in Punjab, die als Heimat des Schreins des Sufi-Heiligen Baba Farid bekannt ist.",
       hu: "Pakpattan egy ősi város Pandzsábban, amely Baba Farid szúfi szent szentélyének otthonaként ismert.",
@@ -5505,7 +5483,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Charsadda é uma cidade em Khyber Pakhtunkhwa, localizada perto da antiga capital de Gandhara, Pushkalavati.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Charsadda est une ville du Khyber Pakhtunkhwa, située à proximité de l'ancienne capitale du Gandhara, Pushkalavati.", "Se situe sur le territoire de la République islamique du Pakistan.", "Est sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/charsadda-cities-v2.webp",
     description: {
       de: "Charsadda ist eine Stadt in Khyber Pakhtunkhwa, die in der Nähe der antiken Hauptstadt von Gandhara, Pushkalavati, liegt.",
       hu: "Charsadda egy város Khyber Pakhtunkhwa tartományban, Gandhara ősi fővárosának, Pushkalavatinak a közelében található.",
@@ -5634,7 +5611,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Wazirabad é uma cidade industrial no Punjab, conhecida pela sua produção de talheres e facas.", "Localizada no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Wazirabad est une ville industrielle du Pendjab, réputée pour sa fabrication de coutellerie et de couteaux.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Reconnue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/wazirabad-cities-v2.webp",
     description: {
       de: "Wazirabad ist eine Industriestadt in Punjab, bekannt für ihre Besteck- und Messerherstellung.",
       hu: "Wazirabad egy ipari város Pandzsábban, evőeszköz- és késgyártásáról ismert.",
@@ -5799,7 +5775,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Nowshera é uma cidade no rio Cabul, em Khyber Pakhtunkhwa, e um importante centro industrial e de comunicações.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Nowshera est une ville située sur la rivière Kaboul, dans le Khyber Pakhtunkhwa, et constitue un important carrefour industriel et de communication.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/nowshera-cities-v2.webp",
     description: {
       de: "Nowshera ist eine Stadt am Kabul-Fluss in Khyber Pakhtunkhwa und ein wichtiger Industrie- und Kommunikationsknotenpunkt.",
       hu: "Nowshera egy város a Kabul folyó mentén Khyber Pakhtunkhwa tartományban, és fontos ipari és kommunikációs csomópont.",
@@ -6036,7 +6011,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Mingora é a maior cidade do Vale de Swat, em Khyber Pakhtunkhwa, uma área conhecida pela sua beleza natural e locais arqueológicos.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Mingora est la plus grande ville de la vallée de Swat au Khyber Pakhtunkhwa, une région réputée pour sa beauté naturelle et ses sites archéologiques.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/mingora-cities-v2.webp",
     description: {
       de: "Mingora ist die größte Stadt im Swat-Tal in Khyber Pakhtunkhwa, einem Gebiet, das für seine natürliche Schönheit und archäologischen Stätten bekannt ist.",
       hu: "Mingora a Swat-völgy legnagyobb városa Khyber Pakhtunkhwa tartományban, egy olyan területen, amely természeti szépségéről és régészeti lelőhelyeiről ismert.",
@@ -6084,7 +6058,6 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       pt: ["Turbat é uma cidade no sul do Baluchistão e um centro económico em crescimento na região de Makran.", "Localizada no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Turbat est une ville du sud du Baloutchistan et un pôle économique en pleine croissance dans la région du Makran.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Reconnue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/turbat-cities-v2.webp",
     description: {
       de: "Turbat ist eine Stadt im Süden von Belutschistan und ein wachsendes wirtschaftliches Zentrum in der Region Makran.",
       hu: "Turbat egy város Dél-Beludzsisztánban és a Makran régió növekvő gazdasági központja.",

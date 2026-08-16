@@ -8,7 +8,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-SIN",
     coords: [-107.5, 25.5],
     name: { de: "Sierra Madre Occidental", hu: "Sierra Madre Occidental", ro: "Sierra Madre Occidental", en: "Sierra Madre Occidental"},
-    image: "/poi-images/sierra-madre-occidental-relief-v2.webp",
     description: { de: "Ein ausgedehntes Gebirgssystem im Westen Mexikos, bekannt für seine tiefen Canyons.", hu: "Kiterjedt hegységrendszer Mexikó nyugati részén, mély kanyonjairól ismert.", ro: "Un sistem montan extins în vestul Mexicului, cunoscut pentru canioanele sale adânci.", en: "An extensive mountain system in western Mexico, known for its deep canyons." , es: "Un extenso sistema montañoso en el oeste de México, conocido por sus profundos cañones.", pt: "Um vasto sistema montanhoso no oeste do México, conhecido por seus desfiladeiros profundos.", fr: "Un vaste système montagneux dans l'ouest du Mexique, célèbre pour ses canyons profonds."},
     facts: {
       de: ["Erstreckt sich über 1.500 km.", "Enthält die Kupferschlucht."],
@@ -100,7 +99,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-NLE",
     coords: [-100.0, 24.0],
     name: { de: "Sierra Madre Oriental", hu: "Sierra Madre Oriental", ro: "Sierra Madre Oriental", en: "Sierra Madre Oriental"},
-    image: "/poi-images/sierra-madre-oriental-relief-v2.webp",
     description: { de: "Ein Gebirgszug, der parallel zum Golf von Mexiko verläuft.", hu: "A Mexikói-öböllel párhuzamosan futó hegység.", ro: "Un lanț muntos care rulează paralel cu Golful Mexicului.", en: "A mountain range running parallel to the Gulf of Mexico." , es: "Una cadena montañosa que corre paralela al Golfo de México.", pt: "Uma cadeia de montanhas que corre paralela ao Golfo do México.", fr: "Une chaîne de montagnes qui s'étend parallèlement au golfe du Mexique."},
     facts: {
       de: ["Reiche Biodiversität.", "Viele Kalksteinformationen."],
@@ -145,7 +143,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-CHP",
     coords: [-92.1, 15.1],
     name: { de: "Vulkan Tacaná", hu: "Tacaná vulkán", ro: "Vulcanul Tacaná", en: "Tacaná Volcano"},
-    image: "/poi-images/volcan-tacan-relief-v2.webp",
     description: { de: "Ein aktiver Schichtvulkan an der Grenze zwischen Mexiko und Guatemala.", hu: "Aktív rétegvulkán Mexikó és Guatemala határán.", ro: "Un stratovulcan activ la granița dintre Mexic și Guatemala.", en: "An active stratovolcano on the border between Mexico and Guatemala." , es: "Un estratovolcán activo en la frontera entre México y Guatemala.", pt: "Um estratovulcão ativo na fronteira entre o México e a Guatemala.", fr: "Un stratovolcan actif à la frontière entre le Mexique et le Guatemala."},
     facts: {
       de: ["Höhe ca. 4.060 m.", "Teil der Sierra Madre de Chiapas."],
@@ -180,7 +177,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-MEX",
     coords: [-100.0, 19.5],
     name: { de: "Transmexikanisches Vulkangürtel", hu: "Transz-mexikói vulkáni öv", ro: "Centura Vulcanică Trans-Mexicană", en: "Trans-Mexican Volcanic Belt"},
-    image: "/poi-images/sierra-volcanica-transversal-relief-v2.webp",
     description: { de: "Eine vulkanisch aktive Region, die Mexiko von Küste zu Küste durchquert.", hu: "Vulkáni tevékenységű régió, amely parttól partig keresztezi Mexikót.", ro: "O regiune activă vulcanic care traversează Mexicul de la coastă la coastă.", en: "A volcanically active region traversing Mexico from coast to coast." , es: "Una región volcánicamente activa que cruza México de costa a costa.", pt: "Uma região vulcanicamente ativa que atravessa o México de costa a costa.", fr: "Une région volcanique active qui traverse le Mexique d'une côte à l'autre."},
     facts: {
       de: ["Beinhaltet den Popocatépetl.", "Hohe vulkanische Aktivität."],
@@ -215,7 +211,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-BCN",
     coords: [-115.8, 31.8],
     name: { de: "Sierra de Juárez", hu: "Sierra de Juárez", ro: "Sierra de Juárez", en: "Sierra de Juárez"},
-    image: "/poi-images/sierra-de-juarez-relief-v2.webp",
     description: { de: "Ein Gebirgszug im Norden von Niederkalifornien.", hu: "Hegység Alsó-Kalifornia északi részén.", ro: "Un lanț muntos în nordul Californiei de Jos.", en: "A mountain range in the north of Baja California." , es: "Una cordillera en las tierras altas de Oaxaca.", pt: "Uma cordilheira nas terras altas de Oaxaca.", fr: "Une chaîne de montagnes dans les hautes terres d'Oaxaca."},
     facts: {
       de: ["Trockenes Klima.", "Teil der Peninsular Ranges."],
@@ -403,7 +398,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-BCN",
     coords: [-115.4, 31.0],
     name: { de: "Sierra de San Pedro Mártir", hu: "Sierra de San Pedro Mártir", ro: "Sierra de San Pedro Mártir", en: "Sierra de San Pedro Mártir"},
-    image: "/poi-images/sierra-san-pedro-martir-relief-v2.webp",
     description: { de: "Das höchste Gebirge der Halbinsel Niederkalifornien.", hu: "Alsó-Kalifornia legmagasabb hegysége.", ro: "Cel mai înalt lanț muntos din Peninsula California de Jos.", en: "The highest mountain range in the Baja California peninsula." , es: "La montaña más alta de la península de Baja California.", pt: "A montanha mais alta da península da Baixa Califórnia.", fr: "Le massif le plus élevé de la péninsule de Basse-Californie."},
     facts: {
       de: ["Picacho del Diablo ist der höchste Gipfel.", "Berühmt für sein Observatorium."],
@@ -519,7 +513,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-VER",
     coords: [-97.0, 20.0],
     name: { de: "Golfküstenebene", hu: "Mexikói-öböl parti síksága", ro: "Câmpia de coastă a Golfului", en: "Gulf Coastal Plain"},
-    image: "/poi-images/llanura-costera-del-golfo-relief-v2.webp",
     description: { de: "Ein flaches Tiefland entlang des Golfs von Mexiko.", hu: "Alacsonyan fekvő síkság a Mexikói-öböl mentén.", ro: "O câmpie joasă de-a lungul Golfului Mexicului.", en: "A flat lowland along the Gulf of Mexico." , es: "Una llanura baja a lo largo del Golfo de México.", pt: "Uma planície baixa ao longo do Golfo do México.", fr: "Une plaine de basse terre le long du golfe du Mexique."},
     facts: {
       de: ["Sehr fruchtbar.", "Wichtig für die Landwirtschaft."],
@@ -554,7 +547,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-ZAC",
     coords: [-103.0, 23.0],
     name: { de: "Zentralplateau", hu: "Központi fennsík", ro: "Podișul Central", en: "Central Plateau"},
-    image: "/poi-images/meseta-central-relief-v2.webp",
     description: { de: "Ein weites Hochplateau im Zentrum Mexikos.", hu: "Széles fennsík Mexikó közepén.", ro: "Un platou înalt vast în centrul Mexicului.", en: "A vast high plateau in the center of Mexico." , es: "Un vasto altiplano en el centro de México.", pt: "Um vasto planalto no centro do México.", fr: "Un vaste plateau d'altitude au centre du Mexique."},
     facts: {
       de: ["Umgeben von Gebirgen.", "Hier lebt die Mehrheit der Bevölkerung."],
@@ -589,7 +581,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-GRO",
     coords: [-99.0, 17.5],
     name: { de: "Sierra Madre del Sur", hu: "Sierra Madre del Sur", ro: "Sierra Madre del Sur", en: "Sierra Madre del Sur"},
-    image: "/poi-images/sierra-madre-del-sur-relief-v2.webp",
     description: { de: "Ein Gebirgszug im Süden Mexikos, der den Pazifik überblickt.", hu: "Hegység Mexikó déli részén, a Csendes-óceán felett.", ro: "Un lanț muntos în sudul Mexicului, cu vedere la Pacific.", en: "A mountain range in southern Mexico, overlooking the Pacific." , es: "Una cadena montañosa en el sur de México que domina el Océano Pacífico.", pt: "Uma cadeia de montanhas no sul do México que domina o Oceano Pacífico.", fr: "Une chaîne de montagnes du sud du Mexique qui surplombe l'océan Pacifique."},
     facts: {
       de: ["Schwer zugängliches Gelände.", "Hohe Biodiversität."],
@@ -634,7 +625,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-CHP",
     coords: [-91.2, 16.7],
     name: { de: "Lacandon-Regenwald", hu: "Lacandon esőerdő", ro: "Pădurea tropicală Lacandon", en: "Lacandon Rainforest"},
-    image: "/poi-images/selva-lacandona-relief-v2.webp",
     description: { de: "Einer der letzten großen tropischen Regenwälder Mexikos.", hu: "Mexikó egyik utolsó nagy trópusi esőerdeje.", ro: "Una dintre ultimele mari păduri tropicale din Mexic.", en: "One of the last large tropical rainforests in Mexico." , es: "Una de las últimas grandes selvas tropicales de México.", pt: "Uma das últimas grandes florestas tropicais do México.", fr: "L'une des dernières grandes forêts tropicales du Mexique."},
     facts: {
       de: ["Enthält antike Maya-Ruinen.", "Gefährdetes Ökosystem."],
@@ -1182,7 +1172,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-OAX",
     coords: [-96.5, 17.0],
     name: { de: "Sierra Madre de Oaxaca", hu: "Sierra Madre de Oaxaca", ro: "Sierra Madre de Oaxaca", en: "Sierra Madre de Oaxaca"},
-    image: "/poi-images/sierra-de-gijon-relief-v2.webp",
     description: { de: "Ein Gebirgszug im Bundesstaat Oaxaca.", hu: "Hegység Oaxaca államban.", ro: "Un lanț muntos în statul Oaxaca.", en: "A mountain range in the state of Oaxaca." , es: "Una cordillera en el estado de Oaxaca.", pt: "Uma cordilheira no estado de Oaxaca.", fr: "Une chaîne de montagnes dans l'État d'Oaxaca."},
     facts: {
       de: ["Sehr zerklüftetes Gelände.", "Heimat vieler indigener Völker."],
@@ -1217,7 +1206,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-YUC",
     coords: [-89.0, 20.5],
     name: { de: "Halbinsel Yucatán", hu: "Yucatán-félsziget", ro: "Peninsula Yucatán", en: "Peninsula Yucatán"},
-    image: "/poi-images/peninsula-de-yucatan-relief-v2.webp",
     description: { de: "Eine flache Kalksteinhalbinsel, die für ihre Abwesenheit von oberirdischen Flüssen und ihre Cenoten bekannt ist.", hu: "Lapos mészkőfennsík az Öböl és a Karib-tenger között.", ro: "Un platou de calcar plat între Golf și Caraibe.", en: "A flat limestone plateau between the Gulf and the Caribbean." , es: "Una península de piedra caliza plana, conocida por la ausencia de ríos superficiales y sus cenotes.", pt: "Uma península de calcário plana, conhecida pela ausência de rios superficiais e pelos seus cenotes.", fr: "Une péninsule calcaire plate, connue pour l'absence de rivières de surface et ses cénotes."},
     facts: {
       de: ["Großes unterirdisches Wassersystem", "Zentrum der Maya-Kultur", "Flache, dschungelbedeckte Ebene"],
@@ -1297,7 +1285,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-BCS",
     coords: [-111.3, 26.0],
     name: { de: "Sierra de la Giganta", hu: "Sierra de la Giganta", ro: "Sierra de la Giganta", en: "Sierra de la Giganta"},
-    image: "/poi-images/sierra-de-la-giganta-relief-v2.webp",
     description: { de: "Ein Gebirge entlang der Ostküste von Niederkalifornien Sur.", hu: "Hegység Alsó-Kalifornia Sur keleti partja mentén.", ro: "Un lanț muntos de-a lungul coastei de est a Californiei de Jos de Sud.", en: "A mountain range along the east coast of Baja California Sur." , es: "Una cadena montañosa a lo largo de la costa este de Baja California Sur.", pt: "Uma cordilheira ao longo da costa leste da Baja California Sur.", fr: "Une chaîne de montagnes le long de la côte est de la Basse-Californie du Sud."},
     facts: {
       de: ["Vulkanischen Ursprungs.", "Trockene Landschaft."],
@@ -1332,7 +1319,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-CHH",
     coords: [-107.0, 27.5],
     name: { de: "Sierra Tarahumara", hu: "Sierra Tarahumara", ro: "Sierra Tarahumara", en: "Sierra Tarahumara"},
-    image: "/poi-images/sierra-tarahumara-relief-v2.webp",
     description: { de: "Ein Gebirgssystem, das Teil der Sierra Madre Occidental ist.", hu: "Hegységrendszer, a Sierra Madre Occidental része.", ro: "Un sistem montan care face parte din Sierra Madre Occidental.", en: "A mountain system that is part of the Sierra Madre Occidental." , es: "Un sistema montañoso que forma parte de la Sierra Madre Occidental.", pt: "Um sistema montanhoso que faz parte da Sierra Madre Ocidental.", fr: "Un système montagneux faisant partie de la Sierra Madre Occidentale."},
     facts: {
       de: ["Kupferschlucht-Region.", "Heimat der Rarámuri."],
@@ -1412,7 +1398,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-CHP",
     coords: [-92.5, 15.5],
     name: { de: "Sierra Madre de Chiapas", hu: "Sierra Madre de Chiapas", ro: "Sierra Madre de Chiapas", en: "Sierra Madre de Chiapas"},
-    image: "/poi-images/sierra-madre-de-chiapas-relief-v2.webp",
     description: { de: "Ein Gebirgszug, der parallel zur Pazifikküste im Süden verlauf.", hu: "Hegység, amely párhuzamosan fut a csendes-óceáni partdal délen.", ro: "Un lanț muntos care rulează paralel cu coasta Pacificului în sud.", en: "A mountain range running parallel to the Pacific coast in the south." , es: "Una cordillera que corre paralela a la costa del Pacífico en el sur.", pt: "Uma cordilheira que corre paralela à costa do Pacífico, no sul.", fr: "Une chaîne de montagnes qui s'étend parallèlement à la côte Pacifique dans le sud."},
     facts: {
       de: ["Vulkanische Gipfel.", "Tropisches Klima in den Tälern."],
@@ -1447,7 +1432,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-TAB",
     coords: [-92.0, 18.0],
     name: { de: "Tabasco-Tiefland", hu: "Tabasco-alföld", ro: "Câmpia Tabasco", en: "Tabasco Lowland"},
-    image: "/poi-images/llanura-de-tabasco-relief-v2.webp",
     description: { de: "Ein flaches, wasserreiches Gebiet am Golf von Mexiko.", hu: "Lapos, vízben gazdag terület a Mexikói-öböl mentén.", ro: "O zonă plată, bogată în apă, de-a lungul Golfului Mexicului.", en: "A flat, water-rich area along the Gulf of Mexico." , es: "Un área plana y rica en agua junto al Golfo de México.", pt: "Uma área plana e rica em água no Golfo do México.", fr: "Une zone plate et riche en eau au bord du golfe du Mexique."},
     facts: {
       de: ["Viele Feuchtgebiete.", "Wichtiges Ölfördergebiet."],
@@ -1563,7 +1547,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-SLP",
     coords: [-101.0, 23.7],
     name: { de: "Sierra de Catorce", hu: "Sierra de Catorce", ro: "Sierra de Catorce", en: "Sierra de Catorce"},
-    image: "/poi-images/sierra-de-catorce-relief-v2.webp",
     description: { de: "Ein Bergsystem in San Luis Potosí, berühmt für seine Geschichte.", hu: "Hegységrendszer San Luis Potosíban, történetéről híres.", ro: "Un sistem montan în San Luis Potosí, faimos pentru istoria sa.", en: "A mountain system in San Luis Potosí, famous for its history." , es: "Un sistema montañoso en San Luis Potosí, famoso por su historia.", pt: "Um sistema montanhoso em San Luis Potosí, famoso pela sua história.", fr: "Un massif montagneux dans l'État de San Luis Potosí, célèbre pour son histoire."},
     facts: {
       de: ["Einstiges Silberbergbauzentrum.", "Spirituelle Bedeutung für Huichol."],
@@ -2111,7 +2094,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-MEX",
     coords: [-99.1, 19.4],
     name: { de: "Tal von Mexiko", hu: "Mexikói-völgy", ro: "Valea Mexicului", en: "Valley of Mexico"},
-    image: "/poi-images/valle-de-mexico-relief-v2.webp",
     description: { de: "Ein hochgelegenes Becken, in dem sich Mexiko-Stadt befindet.", hu: "Magasföldi medence, ahol Mexikóváros található.", ro: "Un bazin înalt unde se află Mexico City.", en: "A high-elevation basin where Mexico City is located." , es: "Una cuenca de gran altitud donde se encuentra la Ciudad de México.", pt: "Uma bacia de grande altitude onde se localiza a Cidade do México.", fr: "Un bassin d'altitude où se situe la ville de Mexico."},
     facts: {
       de: ["Umgeben von Vulkanen.", "Ehemaliges Seensystem."],
@@ -2146,7 +2128,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-SON",
     coords: [-109.0, 30.0],
     name: { de: "Sierra Madre de Sonora", hu: "Sierra Madre de Sonora", ro: "Sierra Madre de Sonora", en: "Sierra Madre de Sonora"},
-    image: "/poi-images/sierra-madre-de-sonora-relief-v2.webp",
     description: { de: "Die zerklüfteten Gebirgszüge im Norden von Sonora, die die Grenze zur Wüste bilden.", hu: "Sivatagi és hegyvidéki terület Sonora államban.", ro: "O zonă deșertică și montană în statul Sonora.", en: "A desert and mountain area in the state of Sonora." , es: "Las escarpadas cadenas montañosas del norte de Sonora, que forman la frontera con el desierto.", pt: "As cadeias de montanhas escarpadas no norte de Sonora, que formam a fronteira com o deserto.", fr: "Les chaînes de montagnes escarpées du nord de Sonora, qui marquent la limite avec le désert."},
     facts: {
       de: ["Reich an Mineralvorkommen", "Extreme Temperaturunterschiede", "Teil der Sierra Madre Occidental"],
@@ -2442,7 +2423,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-QRO",
     coords: [-99.5, 21.2],
     name: { de: "Sierra Gorda", hu: "Sierra Gorda", ro: "Sierra Gorda", en: "Sierra Gorda"},
-    image: "/poi-images/sierra-de-queretaro-relief-v2.webp",
     description: { de: "Ein bergiges Biosphärenreservat in Querétaro.", hu: "Hegyvidéki bioszféra-rezervátum Querétaróban.", ro: "O rezervație a biosferei montane în Querétaro.", en: "A mountainous biosphere reserve in Querétaro." , es: "Una reserva de la biosfera montañosa en Querétaro.", pt: "Uma reserva da biosfera montanhosa em Querétaro.", fr: "Une réserve de biosphère montagneuse à Querétaro."},
     facts: {
       de: ["UNESCO-Welterbe-Missionen.", "Große topografische Vielfalt."],
@@ -2477,7 +2457,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-PUE",
     coords: [-97.8, 20.2],
     name: { de: "Sierra Norte de Puebla", hu: "Sierra Norte de Puebla", ro: "Sierra Norte de Puebla", en: "Sierra Norte de Puebla"},
-    image: "/poi-images/sierra-de-puebla-relief-v2.webp",
     description: { de: "Eine grüne, nebelverhangene Bergregion im Norden von Puebla mit vielen 'Pueblos Mágicos'.", hu: "A Sierra Madre Oriental hegyvidéki nyúlványa.", ro: "O extensie muntoasă a Sierra Madre Oriental.", en: "A mountainous extension of the Sierra Madre Oriental." , es: "Una región montañosa verde y neblinosa al norte de Puebla con muchos 'Pueblos Mágicos'.", pt: "Uma região montanhosa verde e envolta em névoa no norte de Puebla, com muitos 'Pueblos Mágicos'.", fr: "Une région de montagne verte et brumeuse au nord de Puebla, abritant de nombreux 'Pueblos Mágicos'."},
     facts: {
       de: ["Feuchtes Bergklima", "Zentrum des Kaffeeanbaus", "Heimat indigener Gemeinschaften"],
@@ -2512,7 +2491,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-ZAC",
     coords: [-103.5, 22.5],
     name: { de: "Sierra de Zacatecas", hu: "Sierra de Zacatecas", ro: "Sierra de Zacatecas", en: "Sierra de Zacatecas"},
-    image: "/poi-images/sierra-de-las-minas-mexico-relief-v2.webp",
     description: { de: "Ein Gebirgszug im Zentrum des Landes.", hu: "Hegység az ország központjában.", ro: "Un lanț muntos în centrul țării.", en: "A mountain range in the center of the country." , es: "Una cadena montañosa en el centro del país.", pt: "Uma cordilheira no centro do país.", fr: "Une chaîne de montagnes au centre du pays."},
     facts: {
       de: ["Reich an Mineralien.", "Trockenes Hochland."],
@@ -2676,7 +2654,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-PUE",
     coords: [-97.5, 18.5],
     name: { de: "Tal von Tehuacán", hu: "Tehuacán-völgy", ro: "Valea Tehuacán", en: "Tehuacán Valley"},
-    image: "/poi-images/valle-de-tehuacan-relief-v2.webp",
     description: { de: "Ein arides Tal, berühmt für seine frühe Domestizierung von Pflanzen.", hu: "Száraz völgy, amely a növények korai háziasításáról híres.", ro: "O vale aridă, celebră pentru domesticirea timpurie a plantelor.", en: "An arid valley, famous for the early domestication of plants." , es: "Un valle árido, famoso por su temprana domesticación de plantas.", pt: "Um vale árido, famoso pela domesticação precoce de plantas.", fr: "Une vallée aride, célèbre pour la domestication précoce des plantes."},
     facts: {
       de: ["Biosphärenreservat.", "Wichtig für die Archäobotanik."],

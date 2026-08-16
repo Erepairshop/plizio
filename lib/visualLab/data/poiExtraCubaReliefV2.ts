@@ -8,7 +8,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-12",
     coords: [-76.85, 19.98],
     name: { de: "Sierra Maestra Zentral", hu: "Sierra Maestra Központi", ro: "Sierra Maestra Central", en: "Central Sierra Maestra"},
-    image: "/poi-images/sierra-maestra-central-relief-v2.webp",
     description: { de: "Das höchste Gebirgssystem Kubas mit steilen Hängen und tiefen Tälern.", hu: "Kuba legmagasabb hegységrendszere meredek lejtőkkel és mély völgyekkel.", ro: "Cel mai înalt sistem muntos din Cuba, cu pante abrupte și văi adânci.", en: "The highest mountain system in Cuba with steep slopes and deep valleys." , es: "El sistema montañoso más alto de Cuba, con laderas empinadas y valles profundos.", pt: "O sistema montanhoso mais alto de Cuba, com encostas íngremes e vales profundos.", fr: "Le système montagneux le plus élevé de Cuba, avec des pentes raides et des vallées profondes."},
     facts: {
       de: ["Höchster Gebirgszug Kubas", "Bedeutende geologische Formation"],
@@ -44,7 +43,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-10",
     coords: [-82.9, 22.75],
     name: { de: "Sierra del Rosario Gebirge", hu: "Sierra del Rosario hegység", ro: "Munții Sierra del Rosario", en: "Sierra del Rosario Mountains"},
-    image: "/poi-images/sierra-del-rosario-relief-v2.webp",
     description: { de: "Ein bedeutendes Gebirge im Westen Kubas, bekannt für seine Artenvielfalt.", hu: "Jelentős hegység Kuba nyugati részén, ismert biodiverzitásáról.", ro: "Un lanț muntos important în vestul Cubei, cunoscut pentru biodiversitatea sa.", en: "A major mountain range in western Cuba, known for its biodiversity." , es: "Una importante cordillera en el oeste de Cuba, conocida por su biodiversidad.", pt: "Uma importante cordilheira no oeste de Cuba, conhecida pela sua biodiversidade.", fr: "Un massif montagneux important de l'ouest de Cuba, réputé pour sa biodiversité."},
     facts: {
       de: ["UNESCO-Biosphärenreservat", "Westliche Bergregion"],
@@ -80,7 +78,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-03",
     coords: [-82.1, 22.8],
     name: { de: "Alturas de Bejucal-Madruga", hu: "Alturas de Bejucal-Madruga", ro: "Alturas de Bejucal-Madruga", en: "Alturas de Bejucal-Madruga"},
-    image: "/poi-images/alturas-de-bejucal-madruga-relief-v2.webp",
     description: { de: "Eine hügelige Landschaft im westlichen Teil des Inselinneren.", hu: "Bejucal és Madruga között húzódó dombvidék Nyugat-Kuba belső részén.", ro: "Un peisaj deluros în partea de vest a interiorului Cubei. Este o formațiune geologică tipică pentru zona centrală a insulei.", en: "A hilly landscape in the western part of the island's interior." , es: "Un paisaje de colinas en la parte occidental del interior de la isla.", pt: "Uma paisagem montanhosa na parte ocidental do interior da ilha.", fr: "Un paysage de collines dans la partie occidentale de l'intérieur de l'île."},
     facts: {
       de: ["Hügellandschaft", "Geologische Formation"],
@@ -116,7 +113,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-12",
     coords: [-76.4, 19.9],
     name: { de: "Loma del Gato", hu: "Loma del Gato", ro: "Loma del Gato", en: "Loma del Gato"},
-    image: "/poi-images/loma-del-gato-relief-v2.webp",
     description: { de: "Die Loma del Gato ist ein markanter Gipfel in der Sierra Maestra. Der Berg ist ein typischer Punkt der östlichen Küstengebirge.", hu: "A Loma del Gato a Sierra Maestra keleti részéhez kötődő hegy.", ro: "Un vârf proeminent în Sierra Maestra.", en: "A hillside peak in the Sierra Maestra area of eastern Cuba." , es: "La Loma del Gato es un pico prominente en la Sierra Maestra. La montaña es un punto típico de las cordilleras costeras orientales.", pt: "A Loma del Gato é um pico proeminente na Sierra Maestra. A montanha é um ponto típico das cordilheiras costeiras orientais.", fr: "La Loma del Gato est un sommet saillant de la Sierra Maestra. La montagne est un point typique des chaînes côtières orientales."},
     facts: {
       de: ["In der Sierra Maestra", "Markanter Gipfel", "Beliebtes Wanderziel"],
@@ -152,7 +148,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-09",
     coords: [-84.4, 21.8],
     name: { de: "Guanahacabibes Halbinsel", hu: "Guanahacabibes-félsziget", ro: "Peninsula Guanahacabibes", en: "Guanahacabibes Peninsula"},
-    image: "/poi-images/peninsula-de-guanahacabibes-relief-v2.webp",
     description: { de: "Die Halbinsel Guanahacabibes ist ein weitgehend bewaldetes Schutzgebiet im äußersten Westen Kubas. Sie ist als Nationalpark bekannt.", hu: "A Guanahacabibes-félsziget Kuba legnyugatibb természeti vidékei közé tartozik.", ro: "O rezervație naturală în mare parte împădurită în extremul vest al Cubei. Zona este cunoscută ca parc național.", en: "The westernmost peninsula of Cuba, known for its protected natural areas." , es: "La península de Guanahacabibes es un área protegida mayormente boscosa en el extremo oeste de Cuba. Es conocida como parque nacional.", pt: "A península de Guanahacabibes é uma área protegida maioritariamente arborizada no extremo oeste de Cuba. É conhecida como parque nacional.", fr: "La péninsule de Guanahacabibes est une zone protégée largement boisée située à l'extrême ouest de Cuba. Elle est connue comme parc national."},
     facts: {
       de: ["Im äußersten Westen Kubas", "Nationalpark", "Dicht bewaldetes Schutzgebiet"],
@@ -188,7 +183,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-08",
     coords: [-77.7, 21.6],
     name: { de: "Sierra de Cubitas", hu: "Sierra de Cubitas", ro: "Sierra de Cubitas", en: "Sierra de Cubitas"},
-    image: "/poi-images/sierra-de-cubitas-relief-v2.webp",
     description: { de: "Die Sierra de Cubitas ist ein isolierter Gebirgszug in Zentralkuba mit Kalksteinformen. Das Gebiet ist ein typisches Ziel für Wanderungen.", hu: "A Sierra de Cubitas mészkőhegysége Camagüey tartomány egyik ismert domborzati eleme.", ro: "Un lanț muntos izolat în centrul Cubei cu formațiuni stâncoase interesante.", en: "An isolated mountain range in the center of Cuba with interesting rock formations." , es: "La Sierra de Cubitas es una cordillera aislada en el centro de Cuba con formas de piedra caliza. El área es un destino típico para excursiones.", pt: "A Sierra de Cubitas é uma cordilheira isolada no centro de Cuba com formas de calcário. A área é um destino típico para caminhadas.", fr: "La Sierra de Cubitas est une chaîne de montagnes isolée du centre de Cuba présentant des formes calcaires. La région est une destination classique pour la randonnée."},
     facts: {
       de: ["In Zentralkuba", "Kalksteingebirge", "Wanderziel"],
@@ -224,7 +218,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-12",
     coords: [-76.2, 19.8],
     name: { de: "Loma la Taberna", hu: "Loma la Taberna", ro: "Loma la Taberna", en: "Loma la Taberna"},
-    image: "/poi-images/loma-la-taberna-relief-v2.webp",
     description: { de: "Eine sanfte Erhebung im östlichen Teil Kubas.", hu: "A Loma La Taberna egy dombos természetes táj Kuba középső részén.", ro: "O colină ușoară în partea de est a Cubei. Este un peisaj natural simplu, specific zonelor deluroase.", en: "A hilly relief feature in eastern Cuba." , es: "Una suave elevación en la parte oriental de Cuba.", pt: "Uma suave elevação na parte oriental de Cuba.", fr: "Une élévation douce dans la partie orientale de Cuba."},
     facts: {
       de: ["Hügelige Region", "Naturlandschaft"],
@@ -260,7 +253,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-14",
     coords: [-74.9, 20.3],
     name: { de: "Cuchillas del Toa", hu: "Cuchillas del Toa", ro: "Cuchillas del Toa", en: "Cuchillas del Toa"},
-    image: "/poi-images/cuchillas-del-toa-relief-v2.webp",
     description: { de: "Ein zerklüftetes Berggebiet mit einer hohen Artenvielfalt.", hu: "Tagolt hegyvidék magas biodiverzitással.", ro: "O zonă montană accidentată cu o mare biodiversitate.", en: "A rugged mountain area in far eastern Cuba with rich biodiversity." , es: "Una zona montañosa accidentada con una alta biodiversidad.", pt: "Uma zona montanhosa acidentada com uma elevada biodiversidade.", fr: "Une zone montagneuse escarpée dotée d'une grande biodiversité."},
     facts: {
       de: ["Biosphärenreservat", "Steile Gebirgskämme"],
@@ -296,7 +288,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-11",
     coords: [-75.5, 20.5],
     name: { de: "Pico Cristal", hu: "Pico Cristal", ro: "Pico Cristal", en: "Pico Cristal"},
-    image: "/poi-images/pico-cristal-relief-v2.webp",
     description: { de: "Der Pico Cristal ist ein bedeutender Gipfel im Osten Kubas. Er gehört zur Bergregion von Holguín und zu den höheren Punkten der Insel.", hu: "A Pico Cristal a Holguín térségéhez kötődő hegyvidéki pont.", ro: "Un vârf important în estul Cubei, din regiunea montană Holguín. Face parte dintr-un spațiu natural protejat.", en: "A prominent peak in the Sierra del Cristal mountain range." , es: "El Pico Cristal es una cumbre importante en el este de Cuba. Pertenece a la región montañosa de Holguín y es uno de los puntos más altos de la isla.", pt: "O Pico Cristal é um cume importante no leste de Cuba. Pertence à região montanhosa de Holguín e é um dos pontos mais altos da ilha.", fr: "Le Pico Cristal est un sommet important de l'est de Cuba. Il appartient à la région montagneuse d'Holguín et compte parmi les points les plus élevés de l'île."},
     facts: {
       de: ["Im Osten Kubas", "Bergregion von Holguín", "Nationalparkgebiet"],
@@ -332,7 +323,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-11",
     coords: [-75.6, 20.5],
     name: { de: "Sierra del Cristal", hu: "Sierra del Cristal", ro: "Sierra del Cristal", en: "Sierra del Cristal"},
-    image: "/poi-images/sierra-del-cristal-relief-v2.webp",
     description: { de: "Die Sierra del Cristal ist ein unberührtes Gebirgsmassiv mit dichten Wäldern. Sie liegt im östlichen Teil der Insel und wirkt sehr abgelegen.", hu: "A Sierra del Cristal sűrű erdőkkel borított hegyvidéki tömb Kuba keleti részén.", ro: "Un lanț muntos din estul Cubei, cunoscut pentru relieful său accidentat. Are zone protejate și peisaje de pădure.", en: "A mountain range in eastern Cuba with forested slopes and protected habitats." , es: "La Sierra del Cristal es un macizo montañoso virgen con bosques densos. Se encuentra en la parte oriental de la isla y parece muy remota.", pt: "A Sierra del Cristal é um maciço montanhoso intocado com florestas densas. Situa-se na parte oriental da ilha e parece muito remota.", fr: "La Sierra del Cristal est un massif montagneux préservé aux forêts denses. Elle se situe dans la partie orientale de l'île et semble très isolée."},
     facts: {
       de: ["Im Osten Kubas", "Dichte Wälder", "Gebirgsmassiv"],
@@ -368,7 +358,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-05",
     coords: [-80.5, 22.0],
     name: { de: "Loma del Cuchillo", hu: "Loma del Cuchillo", ro: "Loma del Cuchillo", en: "Loma del Cuchillo"},
-    image: "/poi-images/loma-del-cuchillo-relief-v2.webp",
     description: { de: "Die Loma del Cuchillo ist eine markante Geländestufe nahe Cienfuegos. Sie gehört zu den kleineren, aber auffälligen Reliefstrukturen der Region.", hu: "A Loma del Cuchillo egy geológiai eredetű dombvonulat Kuba keleti térségében.", ro: "O ridicare deluroasă din estul insulei, într-un peisaj natural puțin populat. Este tipică pentru relieful local al Cubei.", en: "A hill area in eastern Cuba with a rural mountain profile." , es: "La Loma del Cuchillo es un escalón de terreno prominente cerca de Cienfuegos. Pertenece a las estructuras de relieve pequeñas pero llamativas de la región.", pt: "A Loma del Cuchillo é um degrau de terreno proeminente perto de Cienfuegos. Pertence às estruturas de relevo pequenas, mas marcantes da região.", fr: "La Loma del Cuchillo est un escarpement de terrain saillant près de Cienfuegos. Elle fait partie des structures de relief petites mais remarquables de la région."},
     facts: {
       de: ["Nahe Cienfuegos", "Geländestufe", "Hügelzug"],
@@ -404,7 +393,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-12",
     coords: [-76.3, 19.9],
     name: { de: "Sierra Maestra Oriental", hu: "Sierra Maestra Keleti", ro: "Sierra Maestra Orientală", en: "Eastern Sierra Maestra"},
-    image: "/poi-images/sierra-maestra-oriental-relief-v2.webp",
     description: { de: "Der östliche Teil der Sierra Maestra ist von steilen Hängen und Berglandschaften geprägt. Er bildet einen wichtigen Abschnitt des größten kubanischen Gebirges.", hu: "A Sierra Maestra keleti szakasza meredek hegyoldalairól ismert.", ro: "Partea estică a celui mai important lanț muntos din Cuba. Este marcată de pante abrupte și peisaj montan.", en: "The eastern section of the Sierra Maestra, Cuba's best-known mountain chain." , es: "La parte oriental de la Sierra Maestra se caracteriza por laderas empinadas y paisajes montañosos, formando una sección vital de la cordillera más grande de Cuba.", pt: "A parte oriental da Sierra Maestra é caracterizada por encostas íngremes e paisagens montanhosas, formando uma seção vital da maior cordilheira de Cuba.", fr: "La partie orientale de la Sierra Maestra se caractérise par des pentes abruptes et des paysages montagneux, formant une section vitale de la plus grande chaîne de montagnes de Cuba."},
     facts: {
       de: ["Östlicher Sierra-Maestra-Teil", "Steile Hänge", "Berglandschaft"],
@@ -440,7 +428,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-11",
     coords: [-76.2, 21.1],
     name: { de: "Loma de la Cruz", hu: "Loma de la Cruz", ro: "Loma de la Cruz", en: "Loma de la Cruz"},
-    image: "/poi-images/loma-de-la-cruz-relief-v2.webp",
     description: { de: "Die Loma de la Cruz ist ein bekannter Aussichtshügel in Holguín. Der Ort verbindet Stadtnähe mit einem guten Blick über die Umgebung.", hu: "A Loma de la Cruz egy jellegzetes holguíni domb és kilátópont.", ro: "Un deal de belvedere binecunoscut în Holguín. Este apreciat pentru priveliștea asupra orașului și a împrejurimilor.", en: "A hill in Holguin that serves as a city viewpoint and local symbol." , es: "La Loma de la Cruz es una colina mirador conocida en Holguín. El lugar combina la cercanía a la ciudad con una buena vista de los alrededores.", pt: "A Loma de la Cruz é uma colina mirante conhecida em Holguín. O local combina a proximidade da cidade com uma boa vista dos arredores.", fr: "La Loma de la Cruz est une colline panoramique célèbre à Holguín. Le lieu allie proximité de la ville et vue imprenable sur les environs."},
     facts: {
       de: ["In Holguín", "Aussichtspunkt", "Bekannter Hügel"],
@@ -476,7 +463,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-04",
     coords: [-81.2, 22.3],
     name: { de: "Zapata Halbinsel", hu: "Zapata-félsziget", ro: "Peninsula Zapata", en: "Zapata Peninsula"},
-    image: "/poi-images/peninsula-de-zapata-relief-v2.webp",
     description: { de: "Die Zapata-Halbinsel ist ein riesiges Feuchtgebiet mit ausgedehnten Waldflächen. Sie zählt zu den wichtigsten Naturräumen im Süden Kubas.", hu: "A Zapata-félsziget Kuba egyik legfontosabb mocsaras és természetvédelmi vidéke.", ro: "O zonă umedă imensă cu zone forestiere extinse în sudul Cubei. Este una dintre cele mai importante arii naturale ale insulei.", en: "A low-lying southern peninsula known for its wetlands and swamp landscape." , es: "La península de Zapata es un enorme humedal con extensas áreas forestales. Es uno de los espacios naturales más importantes del sur de Cuba.", pt: "A península de Zapata é um enorme pântano com extensas áreas florestais. É uma das áreas naturais mais importantes do sul de Cuba.", fr: "La péninsule de Zapata est une immense zone humide avec de vastes zones forestières. C'est l'un des espaces naturels les plus importants du sud de Cuba."},
     facts: {
       de: ["Im Süden Kubas", "Nationalpark und Feuchtgebiet", "Ausgedehnte Waldflächen"],
@@ -512,7 +498,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-09",
     coords: [-83.7, 22.6],
     name: { de: "Mogotes von Viñales", hu: "Viñales mogotéi", ro: "Mogotele din Viñales", en: "Viñales Mogotes"},
-    image: "/poi-images/mogotes-de-viniales-relief-v2.webp",
     description: { de: "Die Mogotes von Viñales sind die typischen kegelförmigen Karstberge in Pinar del Río. Sie prägen eine der bekanntesten Landschaften Kubas.", hu: "A viñalesi mogoték a kubai karsztvidék legismertebb kúphegyei közé tartoznak.", ro: "Munți carstici conici unici din provincia Pinar del Río. Ei definesc peisajul celebru al Văii Viñales.", en: "The famous limestone mogotes of the Viñales Valley in western Cuba." , es: "Los Mogotes de Viñales son las típicas montañas cársticas en forma de cono de Pinar del Río. Definen uno de los paisajes más conocidos de Cuba.", pt: "Os Mogotes de Viñales são as típicas montanhas cársticas em forma de cone em Pinar del Río. Caracterizam uma das paisagens mais conhecidas de Cuba.", fr: "Les Mogotes de Viñales sont les montagnes karstiques coniques typiques de Pinar del Río. Ils façonnent l'un des paysages les plus célèbres de Cuba."},
     facts: {
       de: ["In Pinar del Río", "Kegelförmige Karstberge", "Viñales-Landschaft"],
@@ -548,7 +533,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-07",
     coords: [-79.9, 21.8],
     name: { de: "Südliches Escambray-Gebirge", hu: "Déli Escambray-hegység", ro: "Munții Escambray Sudici", en: "Southern Escambray Mountains"},
-    image: "/poi-images/sierra-del-esccambray-sur-relief-v2.webp",
     description: { de: "Die südlichen Ausläufer des Escambray-Gebirges reichen zum Meer hinab. Steile Hänge prägen diese Küstenlandschaft.", hu: "Az Escambray déli hegyvidéke a közép-kubai táj markáns része.", ro: "Ramificațiile sudice ale munților Escambray spre mare. Zonă cu pante abrupte și peisaj montan.", en: "The southern part of the Escambray mountain range in central Cuba." , es: "Las estribaciones del sur de las montañas del Escambray descienden hacia el mar. Las laderas empinadas definen este paisaje costero.", pt: "As encostas sul das montanhas de Escambray descem em direção ao mar. Encostas íngremes moldam esta paisagem costeira.", fr: "Les contreforts sud du massif de l'Escambray descendent vers la mer. Des pentes escarpées marquent ce paysage côtier."},
     facts: {
       de: ["Südlicher Escambray", "Steile Hänge", "Berglandschaft"],
@@ -584,7 +568,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-05",
     coords: [-80.2, 22.1],
     name: { de: "Loma del Gallo", hu: "Loma del Gallo", ro: "Loma del Gallo", en: "Loma del Gallo"},
-    image: "/poi-images/loma-del-gallo-relief-v2.webp",
     description: { de: "Die Loma del Gallo ist eine Erhebung nahe der Küste im Zentrum Kubas. Sie gehört zu den markanten Hügelformen der Region.", hu: "A Loma del Gallo egy helyi domb és természetes kilátópont.", ro: "O colină lângă coastă, în centrul Cubei. Este o formă de relief simplă, dar vizibilă în peisaj.", en: "A hill feature in eastern Cuba with local scenic value." , es: "La Loma del Gallo es una elevación cerca de la costa en el centro de Cuba. Pertenece a las formas de colinas prominentes de la región.", pt: "A Loma del Gallo é uma elevação perto da costa no centro de Cuba. Pertence às formas de colinas proeminentes da região.", fr: "La Loma del Gallo est une élévation proche de la côte au centre de Cuba. Elle fait partie des formes de collines marquantes de la région."},
     facts: {
       de: ["Im Zentrum Kubas", "Küstennahe Erhebung", "Hügelige Landschaft"],
@@ -620,7 +603,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-14",
     coords: [-74.6, 20.4],
     name: { de: "Cuchillas de Baracoa", hu: "Cuchillas de Baracoa", ro: "Cuchillas de Baracoa", en: "Cuchillas de Baracoa"},
-    image: "/poi-images/cuchillas-de-baracoa-relief-v2.webp",
     description: { de: "Die Cuchillas de Baracoa bilden ein zerklüftetes Berggebiet nahe Baracoa. Dichte Wälder und schmale Bergkämme bestimmen das Bild.", hu: "A Cuchillas de Baracoa hegygerincei a keleti kubai domborzat jellegzetes vonulatai.", ro: "O zonă montană accidentată lângă Baracoa. Crestele muntoase și pădurea densă îi dau un aspect sălbatic.", en: "A rugged mountain chain around Baracoa in eastern Cuba." , es: "Las Cuchillas de Baracoa forman una zona montañosa accidentada cerca de Baracoa. Los bosques densos y las crestas estrechas definen el paisaje.", pt: "As Cuchillas de Baracoa formam uma área montanhosa acidentada perto de Baracoa. Florestas densas e cristas estreitas definem a paisagem.", fr: "Les Cuchillas de Baracoa forment une zone montagneuse accidentée près de Baracoa. Des forêts denses et des crêtes étroites définissent le paysage."},
     facts: {
       de: ["Nahe Baracoa", "Dichte Wälder", "Bergkämme"],
@@ -656,7 +638,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-14",
     coords: [-74.1, 20.2],
     name: { de: "Maisí-Hochebene", hu: "Maisí-fennsík", ro: "Platoul Maisí", en: "Maisí Plateau"},
-    image: "/poi-images/meseta-de-maisí-relief-v2.webp",
     description: { de: "Die Meseta de Maisí ist eine markante Hochebene am östlichsten Punkt Kubas. Die Lage an der Küste macht sie geographisch besonders auffällig.", hu: "A Maisí-fennsík Kuba legkeletibb magasföldi területei közé tartozik.", ro: "Un platou proeminent în cel mai estic punct al Cubei. Poziția sa costieră îl face ușor de recunoscut.", en: "A high plateau at the far eastern tip of Cuba." , es: "La Meseta de Maisí es una meseta prominente en el punto más oriental de Cuba. Su ubicación costera la hace geográficamente muy llamativa.", pt: "A Meseta de Maisí é um planalto proeminente no ponto mais oriental de Cuba. A sua localização costeira torna-a geograficamente muito marcante.", fr: "La Meseta de Maisí est un plateau proéminent situé à l'extrémité orientale de Cuba. Sa situation côtière la rend géographiquement très frappante."},
     facts: {
       de: ["Östlichster Punkt Kubas", "Hochebene", "Küstenlage"],
@@ -692,7 +673,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-07",
     coords: [-79.9, 21.7],
     name: { de: "Loma la Vigía", hu: "Loma la Vigía", ro: "Loma la Vigía", en: "Loma la Vigía"},
-    image: "/poi-images/loma-la-vigia-relief-v2.webp",
     description: { de: "Die Loma la Vigía ist ein Aussichtshügel bei Trinidad. Von hier aus öffnet sich der Blick über die umliegende Landschaft.", hu: "A Loma La Vigía egy jellegzetes domb és kilátópont Kuba egyik táján.", ro: "Un deal de belvedere lângă Trinidad. Oferă o perspectivă bună asupra împrejurimilor.", en: "A hill known for its lookout position in eastern Cuba." , es: "La Loma la Vigía es una colina mirador cerca de Trinidad. Desde aquí se abre la vista sobre el paisaje circundante.", pt: "A Loma la Vigía é uma colina mirante perto de Trinidad. Daqui se abre a vista sobre a paisagem circundante.", fr: "La Loma la Vigía est une colline panoramique près de Trinidad. De là, la vue s'ouvre sur le paysage environnant."},
     facts: {
       de: ["Bei Trinidad", "Aussichtshügel", "Blick über die Umgebung"],
@@ -764,7 +744,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-08",
     coords: [-77.6, 21.5],
     name: { de: "Loma de la Gloria", hu: "Loma de la Gloria", ro: "Loma de la Gloria", en: "Loma de la Gloria"},
-    image: "/poi-images/loma-de-la-gloria-relief-v2.webp",
     description: { de: "Die Loma de la Gloria ist eine Erhebung in der Camagüey-Region. Sie gehört zu den typischen kleineren Hügeln der Ebene.", hu: "A Loma de la Gloria egy ismert kubai domb és természetes kilátóhely.", ro: "O colină în regiunea Camagüey. Este un punct simplu de relief, vizibil în câmpia locală.", en: "A hill feature in eastern Cuba with a strong local profile." , es: "La Loma de la Gloria es una elevación en la región de Camagüey. Pertenece a las colinas menores típicas de la llanura.", pt: "A Loma de la Gloria é uma elevação na região de Camagüey. Pertence às colinas menores típicas da planície.", fr: "La Loma de la Gloria est une élévation dans la région de Camagüey. Elle fait partie des petites collines typiques de la plaine."},
     facts: {
       de: ["In der Camagüey-Region", "Erhebung", "Typische Hügelform"],
@@ -800,7 +779,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-07",
     coords: [-80.1, 21.9],
     name: { de: "Loma del Taburete", hu: "Loma del Taburete", ro: "Loma del Taburete", en: "Loma del Taburete"},
-    image: "/poi-images/loma-del-taburete-relief-v2.webp",
     description: { de: "Die Loma del Taburete ist ein Berg im Herzen der Escambray-Region. Er steht für die bergige Natur des Zentrums der Insel.", hu: "A Loma del Taburete egy kisebb hegy vagy domb Kuba természetes domborzatában.", ro: "Un munte în inima regiunii Escambray. Face parte din relieful montan al Cubei centrale.", en: "A small hill in Cuba's eastern interior." , es: "La Loma del Taburete es una montaña en el corazón de la región de Escambray. Representa la naturaleza montañosa del centro de la isla.", pt: "A Loma del Taburete é uma montanha no coração da região de Escambray. Representa a natureza montanhosa do centro da ilha.", fr: "La Loma del Taburete est une montagne au cœur de la région d'Escambray. Elle incarne la nature montagneuse du centre de l'île."},
     facts: {
       de: ["In der Escambray-Region", "Berg", "Zentralkubanische Natur"],
@@ -836,7 +814,6 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-07",
     coords: [-80.0, 21.9],
     name: { de: "Pico San Juan", hu: "Pico San Juan", ro: "Vârful San Juan", en: "Pico San Juan"},
-    image: "/poi-images/pico-san-juan-relief-v2.webp",
     description: { de: "Der Pico San Juan ist der höchste Punkt im Escambray-Gebirge. Er markiert den wichtigsten Höhenpunkt dieser Bergregion.", hu: "A Pico San Juan az Escambray legmagasabb csúcsai közé tartozik.", ro: "Cel mai înalt punct din munții Escambray. Este un reper important al regiunii montane centrale.", en: "A peak in the Escambray mountains of central Cuba." , es: "El Pico San Juan es el punto más alto de las montañas del Escambray. Marca el punto de elevación más importante de esta región montañosa.", pt: "O Pico San Juan é o ponto mais alto das montanhas de Escambray. Marca o ponto de altitude mais importante desta região montanhosa.", fr: "Le Pico San Juan est le point culminant du massif de l'Escambray. Il marque le sommet le plus important de cette région montagneuse."},
     facts: {
       de: ["Im Escambray-Gebirge", "Höchster Punkt", "Wichtiger Gipfel"],

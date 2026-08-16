@@ -665,7 +665,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-WO",
     coords: [44.0535, 9.5623],
     name: { de: "Hargeisa Zoo", hu: "Hargeisai Állatkert", ro: "Grădina Zoologică Hargeisa", en: "Hargeisa Zoo"},
-    image: "/poi-images/hargeisa-zoo-life-v2.webp",
     description: { de: "Ein kleiner Zoo in der Stadt, der lokale Tierarten zeigt.", hu: "Egy kis állatkert a városban, ahol helyi állatfajokat mutatnak be.", ro: "O grădină zoologică mică în oraș, care găzduiește specii locale de animale.", en: "A small zoo in the city showcasing local animal species." , es: "Un pequeño zoológico en la ciudad que exhibe especies animales locales.", pt: "Um pequeno zoológico na cidade que exibe espécies animais locais.", fr: "Un petit zoo dans la ville qui présente des espèces animales locales."},
     facts: {
       de: ["Beliebter Ort für Familien.", "Zeigt afrikanische Wildtiere."],
@@ -701,7 +700,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-JD",
     coords: [42.5333, 0.3667],
     name: { de: "Jubba-Tal Agrarzone", hu: "Jubba-völgy Mezőgazdasági Zóna", ro: "Zona Agricolă Valea Jubba", en: "Jubba Valley Agricultural Zone"},
-    image: "/poi-images/jubba-agriculture-life-v2.webp",
     description: { de: "Fruchtbares Gebiet entlang des Jubba-Flusses, bekannt für den Anbau von Bananen.", hu: "Termékeny terület a Jubba folyó mentén, amely a banántermesztésről ismert.", ro: "Zonă fertilă de-a lungul râului Jubba, cunoscută pentru cultivarea bananelor.", en: "Fertile region along the Jubba River, known for banana cultivation." , es: "Zona fértil a lo largo del río Jubba, conocida por el cultivo de plátanos.", pt: "Zona fértil ao longo do rio Jubba, conhecida pelo cultivo de bananas.", fr: "Zone fertile le long de la rivière Jubba, connue pour la culture des bananes."},
     facts: {
       de: ["Wichtigstes Anbaugebiet Somalias.", "Reich an alluvialen Böden."],
@@ -773,7 +771,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-BA",
     coords: [43.0000, 3.5000],
     name: { de: "Somalischer Strauß Lebensraum", hu: "Szomáliai strucc élőhely", ro: "Habitatul struțului somalez", en: "Somali Ostrich Habitat"},
-    image: "/poi-images/somali-ostrich-habitat-life-v2.webp",
     description: { de: "Natürlicher Lebensraum für die seltene Somalische Straußenart in den Savannen.", hu: "Természetes élőhely a ritka szomáliai strucc számára a szavannákon.", ro: "Habitat natural pentru specia rară de struț somalez în savane.", en: "Natural habitat for the rare Somali Ostrich in the savannas." , es: "Hábitat natural para la rara especie de avestruz somalí en las sabanas.", pt: "Habitat natural para a rara espécie de avestruz somali nas savanas.", fr: "Habitat naturel pour la rare espèce d'autruche somalienne dans les savanes."},
     facts: {
       de: ["Die Strauße sind perfekt an Hitze angepasst.", "Große, offene Savannenlandschaft."],
@@ -854,7 +851,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-BN",
     coords: [45.3333, 2.0400],
     name: { de: "Mogadischu Kinderpark", hu: "Mogadishui Gyermekpark", ro: "Parc pentru Copii Mogadishu", en: "Mogadishu Children's Park"},
-    image: "/poi-images/mogadishu-child-park-life-v2.webp",
     description: { de: "Ein öffentlicher Park in Mogadischu, der Familien und Kindern Erholung bietet.", hu: "Egy nyilvános park Mogadishuban, amely kikapcsolódást nyújt a családoknak és gyerekeknek.", ro: "Un parc public din Mogadishu care oferă recreere pentru familii și copii.", en: "A public park in Mogadishu offering recreation for families and children." , es: "Un parque público en Mogadiscio que ofrece recreación para familias y niños.", pt: "Um parque público em Mogadíscio que oferece lazer para famílias e crianças.", fr: "Un parc public à Mogadiscio qui offre des loisirs aux familles et aux enfants."},
     facts: {
       de: ["Beliebt für Wochenendausflüge.", "Hat einen kleinen Spielplatz."],
@@ -890,7 +886,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-MU",
     coords: [47.4333, 6.7667],
     name: { de: "Galkayo Viehmarkt", hu: "Galkayoi Állatpiac", ro: "Piața de Vite Galkayo", en: "Galkayo Cattle Market"},
-    image: "/poi-images/galkayo-cattle-market-life-v2.webp",
     description: { de: "Ein bedeutender Markt für die regionale Viehwirtschaft und Zucht.", hu: "Jelentős piac a regionális állattenyésztés és tenyésztés számára.", ro: "O piață importantă pentru creșterea regională a animalelor.", en: "A major market for regional livestock and animal husbandry." , es: "Un mercado importante para la ganadería y cría regional.", pt: "Um mercado importante para a pecuária e criação regional.", fr: "Un marché majeur pour l'élevage et la reproduction régionale."},
     facts: {
       de: ["Zentraler Handelsort für Kamele.", "Wichtig für die nomadische Wirtschaft."],
@@ -971,7 +966,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-SA",
     coords: [45.0167, 10.4333],
     name: { de: "Berbera Fischereizone", hu: "Berberai Halászati Zóna", ro: "Zona de Pescuit Berbera", en: "Berbera Fishing Zone"},
-    image: "/poi-images/berbera-fishing-life-v2.webp",
     description: { de: "Küstengebiet bei Berbera, das für seine maritime Landwirtschaft bekannt ist.", hu: "Part menti terület Berbera közelében, amely tengeri mezőgazdaságáról ismert.", ro: "Zonă de coastă lângă Berbera, cunoscută pentru agricultura marină.", en: "Coastal area near Berbera known for its maritime farming." , es: "Zona costera cerca de Berbera, conocida por su agricultura marítima.", pt: "Zona costeira perto de Berbera, conhecida pela sua agricultura marítima.", fr: "Zone côtière près de Berbera, connue pour son agriculture maritime."},
     facts: {
       de: ["Frischer Fisch für lokale Märkte.", "Wichtiger Hafenstandort."],
@@ -1088,7 +1082,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-LB",
     coords: [42.5450, -0.3540],
     name: { de: "Kismayo Obstplantagen", hu: "Kismayoi Gyümölcsösök", ro: "Livezi de Fructe Kismayo", en: "Kismayo Fruit Orchards"},
-    image: "/poi-images/kismayo-fruit-orchards-life-v2.webp",
     description: { de: "Plantagen nahe Kismayo, auf denen tropische Früchte angebaut werden.", hu: "Ültetvények Kismayo közelében, ahol trópusi gyümölcsöket termesztenek.", ro: "Plantații lângă Kismayo, unde se cultivă fructe tropicale.", en: "Orchards near Kismayo cultivating tropical fruits." , es: "Plantaciones cerca de Kismayo donde se cultivan frutas tropicales.", pt: "Plantações perto de Kismayo, onde se cultivam frutas tropicais.", fr: "Plantations près de Kismayo où l'on cultive des fruits tropicaux."},
     facts: {
       de: ["Bekannt für Mangos.", "Profitieren vom feuchten Klima."],
@@ -1124,7 +1117,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-PU",
     coords: [49.0000, 8.0000],
     name: { de: "Puntland Weidegebiete", hu: "Puntlandi Legelők", ro: "Pășuni Puntland", en: "Puntland Pasturelands"},
-    image: "/poi-images/puntland-pasture-life-v2.webp",
     description: { de: "Weite Gebiete, in denen Ziegen und Kamele weiden.", hu: "Hatalmas területek, ahol kecskék és tevék legelésznek.", ro: "Zone vaste unde pasc caprele și cămilele.", en: "Vast areas where goats and camels graze." , es: "Vastas áreas donde pastan cabras y camellos.", pt: "Vastas áreas onde pastam cabras e camelos.", fr: "Vastes zones où paissent les chèvres et les chameaux."},
     facts: {
       de: ["Lebensgrundlage vieler Nomaden.", "Trockene Savannenvegetation."],
@@ -1205,7 +1197,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-BY",
     coords: [43.6500, 3.1167],
     name: { de: "Baidoa Farm", hu: "Baidoai Farm", ro: "Fermă Baidoa", en: "Baidoa Farm"},
-    image: "/poi-images/baidoa-farm-life-v2.webp",
     description: { de: "Landwirtschaftlicher Betrieb in der fruchtbaren Region Baidoa.", hu: "Mezőgazdasági üzem a termékeny Baidoa régióban.", ro: "Exploatație agricolă în regiunea fertilă Baidoa.", en: "Agricultural operation in the fertile Baidoa region." , es: "Explotación agrícola en la fértil región de Baidoa.", pt: "Exploração agrícola na fértil região de Baidoa.", fr: "Exploitation agricole dans la région fertile de Baidoa."},
     facts: {
       de: ["Hauptanbau von Hirse.", "Regionale Lebensmittelversorgung."],
@@ -1241,7 +1232,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-GS",
     coords: [44.5300, 0.4500],
     name: { de: "Dadaab Tierreservat", hu: "Dadaabi Állatrezervátum", ro: "Rezervație de Animale Dadaab", en: "Dadaab Animal Sanctuary"},
-    image: "/poi-images/dadaab-animal-sanctuary-life-v2.webp",
     description: { de: "Ein Schutzgebiet für lokale Wildtiere in der Grenzregion.", hu: "Védett terület a helyi vadállatok számára a határvidéken.", ro: "O zonă protejată pentru animalele sălbatice locale din regiunea de frontieră.", en: "A protected area for local wildlife in the border region." , es: "Un área protegida para la vida silvestre local en la región fronteriza.", pt: "Uma área protegida para a vida selvagem local na região fronteiriça.", fr: "Une zone protégée pour la faune locale dans la région frontalière."},
     facts: {
       de: ["Schützt bedrohte Arten.", "Einzigartiges Ökosystem."],
@@ -1277,7 +1267,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-MU",
     coords: [48.5333, 5.3500],
     name: { de: "Hobyo Küstenfarm", hu: "Hobyo-i Parti Gazdaság", ro: "Fermă de Coastă Hobyo", en: "Hobyo Coastal Farm"},
-    image: "/poi-images/hobyo-coastal-farm-life-v2.webp",
     description: { de: "Farm an der Küste des Indischen Ozeans, die maritime Ressourcen nutzt.", hu: "Gazdaság az Indiai-óceán partján, amely a tengeri erőforrásokat hasznosítja.", ro: "Fermă pe coasta Oceanului Indian care utilizează resursele marine.", en: "Farm on the Indian Ocean coast utilizing maritime resources." , es: "Granja en la costa del Océano Índico que utiliza recursos marítimos.", pt: "Fazenda na costa do Oceano Índico que utiliza recursos marítimos.", fr: "Ferme sur la côte de l'océan Indien utilisant les ressources maritimes."},
     facts: {
       de: ["Integration von Land- und Seewirtschaft.", "Wichtiger Exportstandort."],
@@ -1313,7 +1302,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-SH",
     coords: [45.5000, 2.7667],
     name: { de: "Jowhar Zuckerplantage", hu: "Jowhari Cukornádültetvény", ro: "Plantație de Zahăr Jowhar", en: "Jowhar Sugar Plantation"},
-    image: "/poi-images/jowhar-sugar-plantation-life-v2.webp",
     description: { de: "Große Plantage für die Zuckerproduktion nahe Jowhar.", hu: "Nagy ültetvény cukortermelésre Jowhar közelében.", ro: "Plantație mare pentru producția de zahăr lângă Jowhar.", en: "Large plantation for sugar production near Jowhar." , es: "Gran plantación para la producción de azúcar cerca de Jowhar.", pt: "Grande plantação para a produção de açúcar perto de Jowhar.", fr: "Grande plantation pour la production de sucre près de Jowhar."},
     facts: {
       de: ["Historisch bedeutende Industrie.", "Nutzt Shebelle-Wasser."],
@@ -1349,7 +1337,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-BK",
     coords: [43.8833, 4.1167],
     name: { de: "Xuddur Ziegenfarm", hu: "Xudduri Kecskefarm", ro: "Fermă de Capre Xuddur", en: "Xuddur Goat Farm"},
-    image: "/poi-images/xuddur-goat-farm-life-v2.webp",
     description: { de: "Eine spezialisierte Ziegenfarm in der Region Bakool.", hu: "Szakosodott kecskefarm a Bakool régióban.", ro: "O fermă specializată de capre în regiunea Bakool.", en: "A specialized goat farm in the Bakool region." , es: "Una granja de cabras especializada en la región de Bakool.", pt: "Uma quinta de cabras especializada na região de Bakool.", fr: "Une ferme caprine spécialisée dans la région de Bakool."},
     facts: {
       de: ["Wichtig für die lokale Milchversorgung.", "Trockenheitsresistente Tiere."],
@@ -1385,7 +1372,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-SO",
     coords: [47.3667, 8.4667],
     name: { de: "Las Anod Naturpark", hu: "Las Anod-i Természetpark", ro: "Parc Natural Las Anod", en: "Las Anod Nature Park"},
-    image: "/poi-images/las-anod-nature-park-life-v2.webp",
     description: { de: "Ein Gebiet zum Schutz der lokalen Flora und Fauna.", hu: "Terület a helyi növény- és állatvilág védelmére.", ro: "O zonă pentru protejarea florei și faunei locale.", en: "An area for the protection of local flora and fauna." , es: "Un área para la protección de la flora y fauna local.", pt: "Uma área para a proteção da flora e fauna locais.", fr: "Une zone destinée à la protection de la flore et de la faune locales."},
     facts: {
       de: ["Schutzgebiet für Greifvögel.", "Landschaft mit Felsformationen."],
@@ -1718,7 +1704,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-SA",
     coords: [47.3667, 10.6167],
     name: { de: "Ceerigaabo Obstgarten", hu: "Ceerigaaboi Gyümölcsös", ro: "Livezi Ceerigaabo", en: "Ceerigaabo Orchards"},
-    image: "/poi-images/ceerigaabo-orchard-life-v2.webp",
     description: { de: "Obstgärten in den kühleren Bergregionen von Somaliland.", hu: "Gyümölcsösök a hűvösebb hegyi régiókban Somalilandban.", ro: "Livezi în regiunile muntoase mai răcoroase din Somaliland.", en: "Orchards in the cooler mountain regions of Somaliland." , es: "Huertos en las regiones montañosas más frescas de Somalilandia.", pt: "Pomares nas regiões montanhosas mais frescas da Somalilândia.", fr: "Vergers dans les régions montagneuses plus fraîches du Somaliland."},
     facts: {
       de: ["Baut Äpfel und Trauben an.", "Höhenlage begünstigt Anbau."],
@@ -1754,7 +1739,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-SH",
     coords: [45.4000, 2.3667],
     name: { de: "Balcad Reservat", hu: "Balcad-i Rezervátum", ro: "Rezervație Balcad", en: "Balcad Wildlife Sanctuary"},
-    image: "/poi-images/balcad-wildlife-sanctuary-life-v2.webp",
     description: { de: "Ein bedeutendes Schutzgebiet für Wildtiere entlang des Shebelle-Flusses.", hu: "Jelentős védett terület a vadállatok számára a Shebelle folyó mentén.", ro: "O zonă protejată importantă pentru animalele sălbatice de-a lungul râului Shebelle.", en: "An important sanctuary for wildlife along the Shebelle River." , es: "Un importante área protegida para la vida silvestre a lo largo del río Shebelle.", pt: "Uma importante área protegida para a vida selvagem ao longo do rio Shebelle.", fr: "Une zone protégée importante pour la faune le long du fleuve Shebelle."},
     facts: {
       de: ["Wichtiges Schutzgebiet für Antilopen.", "Grüner Rückzugsort."],
@@ -1826,7 +1810,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-TO",
     coords: [46.3333, 8.2167],
     name: { de: "Buuhoodle Viehfarm", hu: "Buuhoodle-i Állatgazdaság", ro: "Fermă de Vite Buuhoodle", en: "Buuhoodle Livestock Farm"},
-    image: "/poi-images/buuhoodle-livestock-life-v2.webp",
     description: { de: "Landwirtschaftlicher Betrieb in der Region Togdheer für Viehzucht.", hu: "Mezőgazdasági üzem a Togdheer régióban állattenyésztésre.", ro: "Exploatație agricolă în regiunea Togdheer pentru creșterea animalelor.", en: "Agricultural operation in the Togdheer region for livestock." , es: "Explotación agrícola en la región de Togdheer dedicada a la ganadería.", pt: "Exploração agrícola na região de Togdheer dedicada à pecuária.", fr: "Exploitation agricole dans la région de Togdheer dédiée à l'élevage."},
     facts: {
       de: ["Schwerpunkt auf Kamelzucht.", "Wichtig für lokale Nomaden."],
@@ -2411,7 +2394,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-TO",
     coords: [45.5333, 9.5167],
     name: { de: "Burao Weideflächen", hu: "Buraoi Legelők", ro: "Pășuni Burao", en: "Burao Pasturelands"},
-    image: "/poi-images/burao-pasture-life-v2.webp",
     description: { de: "Weite Gebiete rund um Burao, die für die traditionelle Weidewirtschaft genutzt werden.", hu: "Hatalmas területek Burao körül, amelyeket hagyományos legeltetésre használnak.", ro: "Zone vaste în jurul orașului Burao folosite pentru pășunatul tradițional.", en: "Vast areas around Burao used for traditional grazing." , es: "Vastas áreas alrededor de Burao, utilizadas para el pastoreo tradicional.", pt: "Vastas áreas ao redor de Burao, usadas para o pastoreio tradicional.", fr: "Vastes zones autour de Burao, utilisées pour le pâturage traditionnel."},
     facts: {
       de: ["Regionale Weidewirtschaft.", "Wichtig für Schafzucht."],
@@ -2447,7 +2429,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-PU",
     coords: [49.1833, 11.2833],
     name: { de: "Bossaso Fischerei", hu: "Bossaso-i Halászat", ro: "Pescuit Bossaso", en: "Bossaso Fishing"},
-    image: "/poi-images/bossaso-fishing-life-v2.webp",
     description: { de: "Ein bedeutendes Zentrum für die Fischerei am Golf von Aden.", hu: "Jelentős központ a halászat számára az Ádeni-öbölben.", ro: "Un centru important pentru pescuit în Golful Aden.", en: "A significant center for fishing on the Gulf of Aden." , es: "Un importante centro pesquero en el Golfo de Adén.", pt: "Um importante centro de pesca no Golfo de Áden.", fr: "Un centre de pêche important dans le golfe d'Aden."},
     facts: {
       de: ["Wichtiger Hafen für Fisch-Export.", "Moderne Fischereimethoden."],
@@ -2483,7 +2464,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-GD",
     coords: [42.2833, 2.3333],
     name: { de: "Bardera Farm", hu: "Bardera-i Gazdaság", ro: "Fermă Bardera", en: "Bardera Farm"},
-    image: "/poi-images/bardera-farm-life-v2.webp",
     description: { de: "Eine landwirtschaftlich produktive Zone am Jubba-Fluss.", hu: "Mezőgazdaságilag termékeny zóna a Jubba folyó mentén.", ro: "O zonă agricolă productivă de-a lungul râului Jubba.", en: "An agriculturally productive zone along the Jubba River." , es: "Una zona agrícola productiva a orillas del río Jubba.", pt: "Uma zona agrícola produtiva ao longo do rio Jubba.", fr: "Une zone agricole productive le long du fleuve Jubba."},
     facts: {
       de: ["Günstiges Klima für Bewässerungsfeldbau.", "Wichtiger regionaler Lieferant."],
@@ -2555,7 +2535,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-BK",
     coords: [43.7333, 3.8667],
     name: { de: "El Barde Farm", hu: "El Barde-i Gazdaság", ro: "Fermă El Barde", en: "El Barde Farm"},
-    image: "/poi-images/el-barde-farm-life-v2.webp",
     description: { de: "Kleinbäuerliche Region in der Bakool-Provinz.", hu: "Kistermelői régió a Bakool tartományban.", ro: "Regiune de micii fermieri în provincia Bakool.", en: "Small-scale farming region in the Bakool province." , es: "Región agrícola de pequeña escala en la provincia de Bakool.", pt: "Região agrícola de pequena escala na província de Bakool.", fr: "Région agricole à petite échelle dans la province de Bakool."},
     facts: {
       de: ["Anbau von Nahrungsmitteln für den Eigenbedarf.", "Traditionelle Methoden."],
@@ -2591,7 +2570,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-SH",
     coords: [45.1000, 1.9500],
     name: { de: "Marcadere Obstzone", hu: "Marcadere Gyümölcszóna", ro: "Zonă de Fructe Marcadere", en: "Marcadere Fruit Zone"},
-    image: "/poi-images/marcadere-fruit-life-v2.webp",
     description: { de: "Ein Gebiet bekannt für seine reiche Vielfalt an tropischen Früchten.", hu: "Terület, amely gazdag trópusi gyümölcsválasztékáról ismert.", ro: "Zonă cunoscută pentru bogata varietate de fructe tropicale.", en: "An area known for its rich variety of tropical fruits." , es: "Una zona conocida por su rica variedad de frutas tropicales.", pt: "Uma área conhecida pela sua rica variedade de frutas tropicais.", fr: "Une zone connue pour sa riche variété de fruits tropicaux."},
     facts: {
       de: ["Hohe Erträge durch gute Bodenqualität.", "Exportiert auf nationale Märkte."],
@@ -2627,7 +2605,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-WO",
     coords: [44.0600, 9.5500],
     name: { de: "Hargeisa Stadtpark", hu: "Hargeisai Városliget", ro: "Parcul Orașului Hargeisa", en: "Hargeisa City Park"},
-    image: "/poi-images/hargeisa-park-life-v2.webp",
     description: { de: "Ein zentraler Ort in Hargeisa mit Grünflächen für Kinder.", hu: "Központi hely Hargeisában zöldövezettel a gyerekeknek.", ro: "Un loc central în Hargeisa cu spații verzi pentru copii.", en: "A central spot in Hargeisa with green areas for children." , es: "Un lugar céntrico en Hargeisa con áreas verdes para niños.", pt: "Um local central em Hargeisa com áreas verdes para crianças.", fr: "Un lieu central à Hargeisa avec des espaces verts pour les enfants."},
     facts: {
       de: ["Spiel- und Freizeitmöglichkeiten.", "Wichtigster Park für Stadtkinder."],
@@ -2663,7 +2640,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-MU",
     coords: [47.4500, 6.7800],
     name: { de: "Galkayo Spielpark", hu: "Galkayoi Játszópark", ro: "Parc de Joacă Galkayo", en: "Galkayo Play Park"},
-    image: "/poi-images/galkayo-park-life-v2.webp",
     description: { de: "Ein kleiner, aber beliebter Park für Familien in Galkayo.", hu: "Egy kis, de népszerű park családok számára Galkayóban.", ro: "Un parc mic, dar popular pentru familii în Galkayo.", en: "A small but popular park for families in Galkayo." , es: "Un parque pequeño pero popular para familias en Galkayo.", pt: "Um parque pequeno, mas popular para famílias em Galkayo.", fr: "Un parc petit mais populaire pour les familles à Galkayo."},
     facts: {
       de: ["Sicherer Bereich für Kinder zum Spielen.", "Gepflegte Anlage."],
@@ -2699,7 +2675,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-HI",
     coords: [45.5833, 3.7500],
     name: { de: "Buuloburde Agrarland", hu: "Buuloburdei Mezőgazdasági Terület", ro: "Teren Agricol Buuloburde", en: "Buuloburde Farmland"},
-    image: "/poi-images/buuloburde-agriculture-life-v2.webp",
     description: { de: "Landwirtschaftliche Flächen in der Hiiraan-Provinz.", hu: "Mezőgazdasági földek a Hiiraan tartományban.", ro: "Terenuri agricole în provincia Hiiraan.", en: "Agricultural lands in the Hiiraan province." , es: "Tierras agrícolas en la provincia de Hiiraan.", pt: "Terras agrícolas na província de Hiiraan.", fr: "Terres agricoles dans la province de Hiiraan."},
     facts: {
       de: ["Hauptanbau: Sorghum.", "Nutzt lokale Bewässerungssysteme."],
@@ -2735,7 +2710,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     parent: "SO-SO",
     coords: [47.3833, 8.4833],
     name: { de: "Las Anod Farm", hu: "Las Anod-i Gazdaság", ro: "Fermă Las Anod", en: "Las Anod Farm"},
-    image: "/poi-images/las-anod-farm-life-v2.webp",
     description: { de: "Kleine landwirtschaftliche Einheiten in der Region Sool.", hu: "Kisebb mezőgazdasági egységek a Sool régióban.", ro: "Mici unități agricole în regiunea Sool.", en: "Small agricultural units in the Sool region." , es: "Pequeñas unidades agrícolas en la región de Sool.", pt: "Pequenas unidades agrícolas na região de Sool.", fr: "Petites unités agricoles dans la région de Sool."},
     facts: {
       de: ["Versorgt die lokale Gemeinschaft.", "Fokus auf resistente Pflanzen."],

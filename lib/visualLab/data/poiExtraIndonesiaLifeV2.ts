@@ -1461,7 +1461,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
       hu: "Ragunan Állatkert",
       ro: "Grădina Zoologică Ragunan",
       en: "Ragunan Zoo"},
-    image: "/poi-images/ragunan-zoo-life-v2.webp",
     description: {
       de: "Ein 140 Hektar großer Zoo im Süden von Jakarta, der eine Vielzahl von Tieren und das Schmutzer Primatenzentrum beherbergt.",
       hu: "Egy 140 hektáros állatkert Dél-Jakartában, amely számos állatnak és a Schmutzer Főemlősközpontnak ad otthont.",
@@ -2526,7 +2525,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
       hu: "Taman Mini Indonesia Indah",
       ro: "Taman Mini Indonesia Indah",
       en: "Taman Mini Indonesia Indah"},
-    image: "/poi-images/taman-mini-indonesia-indah-life-v2.webp",
     description: {
       de: "Ein Kulturpark in Ost-Jakarta, der die Vielfalt Indonesiens in Miniaturform mit Pavillons für jede Provinz und verschiedenen Museen darstellt.",
       hu: "Kulturális park Kelet-Jakartában, amely Indonézia sokszínűségét mutatja be miniatűr formában, minden tartománynak külön pavilonnal és különféle múzeumokkal.",
@@ -3879,7 +3877,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
       hu: "Bali Madárpark",
       ro: "Parcul de Păsări Bali",
       en: "Bali Bird Park"},
-    image: "/poi-images/bali-bird-park-life-v2.webp",
     description: {
       de: "Ein Touristenpark in Bali, der fast 1000 Vögel von 250 verschiedenen Arten in einem üppigen, tropischen Gehege beherbergt.",
       hu: "Turisztikai park Balin, amely közel 1000 madárnak ad otthont 250 különböző fajból egy buja, trópusi környezetben.",
@@ -5052,7 +5049,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
       hu: "Jatiluwih rizsföldek",
       ro: "Orezăriile Jatiluwih",
       en: "Jatiluwih Rice Fields"},
-    image: "/poi-images/jatiluwih-rice-fields-agriculture-v2.webp",
     description: {
       de: "Eine weitläufige Fläche von Reisterrassen in Bali, die das traditionelle Bewässerungssystem 'Subak' zeigt, ein UNESCO-Weltkulturerbe.",
       hu: "Hatalmas rizsteraszok Balin, amelyek bemutatják a hagyományos 'Subak' öntözőrendszert, amely az UNESCO Világörökség része.",
@@ -5649,7 +5645,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
       hu: "Gayo kávéültetvények",
       ro: "Plantațiile de cafea Gayo",
       en: "Gayo Coffee Plantations"},
-    image: "/poi-images/gayo-coffee-plantations-agriculture-v2.webp",
     description: {
       de: "Das Gayo-Hochland in Aceh ist weltberühmt für seinen hochwertigen Arabica-Kaffee, der von lokalen Kooperativen angebaut wird.",
       hu: "Az Acehi Gayo-fennsík világhírű a kiváló minőségű arabica kávéjáról, amelyet helyi szövetkezetek termesztenek.",
@@ -6822,7 +6817,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
       hu: "Bogori Botanikus Kert",
       ro: "Grădinile Botanice din Bogor",
       en: "Bogor Botanical Gardens"},
-    image: "/poi-images/bogor-botanical-gardens-life-v2.webp",
     description: {
       de: "Ein riesiger tropischer botanischer Garten im Zentrum von Bogor, der Tausende von Pflanzenarten beherbergt.",
       hu: "Hatalmas trópusi botanikus kert Bogor központjában, amely több ezer növényfajnak ad otthont.",
@@ -7779,7 +7773,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
       hu: "Cibodasi Botanikus Kert",
       ro: "Grădinile Botanice Cibodas",
       en: "Cibodas Botanical Gardens"},
-    image: "/poi-images/cibodas-botanical-gardens-life-v2.webp",
     description: {
       de: "Ein botanischer Garten in der Nähe des Mount Gede, der sich auf subtropische und Bergflora spezialisiert hat.",
       hu: "Botanikus kert a Gede-hegy közelében, amely a szubtrópusi és hegyvidéki növényvilágra specializálódott.",
@@ -8988,7 +8981,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
       hu: "Ubudi Majomerdő",
       ro: "Pădurea Maimuțelor din Ubud",
       en: "Ubud Monkey Forest"},
-    image: "/poi-images/monkey-forest-ubud-life-v2.webp",
     description: {
       de: "Ein Naturreservat und Hindu-Tempelkomplex in Ubud, Bali, der von Hunderten von Langschwanzmakaken bewohnt wird.",
       hu: "Természetvédelmi terület és hindu templomkomplexum Ubudban, Balin, amelyet több száz hosszúfarkú makákó lakik.",
@@ -11730,7 +11722,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
       hu: "Sea World Ancol",
       ro: "Sea World Ancol",
       en: "Sea World Ancol"},
-    image: "/poi-images/sea-world-ancol-life-v2.webp",
     description: {
       de: "Ein großes Meeresaquarium im Ancol Dreamland Komplex in Jakarta, das eine Vielzahl von Meereslebewesen aus Indonesien und der ganzen Welt zeigt.",
       hu: "Nagy tengeri akvárium a jakartai Ancol Dreamland komplexumban, amely Indonézia és a világ minden tájáról származó tengeri élőlényeket mutat be.",
@@ -12183,7 +12174,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
       hu: "Bukit Lawang Orángután Központ",
       ro: "Centrul de Urangutani Bukit Lawang",
       en: "Bukit Lawang Orangutan Centre"},
-    image: "/poi-images/bukit-lawang-orangutan-life-v2.webp",
     description: {
       de: "Ein Dorf am Rande des Gunung Leuser Nationalparks, bekannt für sein Orang-Utan-Rehabilitationszentrum und Dschungeltrekking.",
       hu: "Falu a Gunung Leuser Nemzeti Park szélén, amely orángután-rehabilitációs központjáról és dzsungeltúráiról ismert.",
@@ -14565,7 +14555,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
       hu: "Bandungi teaültetvények",
       ro: "Plantațiile de ceai din Bandung",
       en: "Bandung Tea Plantations"},
-    image: "/poi-images/bandung-tea-plantations-agriculture-v2.webp",
     description: {
       de: "Die kühlen Hochebenen um Bandung sind mit weitläufigen Teeplantagen bedeckt, die eine malerische Landschaft und frische Luft bieten.",
       hu: "A Bandung körüli hűvös fennsíkokat hatalmas teaültetvények borítják, festői tájat és friss levegőt kínálva.",
@@ -15054,7 +15043,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
       hu: "Lomboki gyöngyfarmok",
       ro: "Fermele de perle din Lombok",
       en: "Lombok Pearl Farms"},
-    image: "/poi-images/lombok-pearl-farms-agriculture-v2.webp",
     description: {
       de: "Die Küstengewässer um Lombok und Sumbawa sind bekannt für die Zucht von Südseeperlen höchster Qualität.",
       hu: "A Lombok és Sumbawa körüli part menti vizek a legkiválóbb minőségű déltengeri gyöngyök tenyésztéséről ismertek.",
@@ -16407,7 +16395,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
       hu: "Waterbom Bali",
       ro: "Waterbom Bali",
       en: "Waterbom Bali"},
-    image: "/poi-images/waterbom-bali-life-v2.webp",
     description: {
       de: "Ein Weltklasse-Wasserpark in Kuta, Bali, mit einer Vielzahl von aufregenden Wasserrutschen und Attraktionen für alle Altersgruppen.",
       hu: "Világszínvonalú vízi park Kutában, Balin, amely izgalmas vízicsúszdák és látnivalók sokaságát kínálja minden korosztály számára.",
@@ -17724,7 +17711,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
       hu: "Munduki szegfűszeg-ültetvények",
       ro: "Plantațiile de cuișoare din Munduk",
       en: "Munduk Clove Plantations"},
-    image: "/poi-images/munduk-clove-plantations-agriculture-v2.webp",
     description: {
       de: "Das Bergdorf Munduk in Nord-Bali ist von Plantagen umgeben, die Nelken, Kaffee und andere Gewürze anbauen und der Luft einen duftenden Duft verleihen.",
       hu: "Az észak-balinéz Munduk hegyi falut szegfűszeget, kávét és más fűszereket termesztő ültetvények veszik körül, amelyek illatos aromát kölcsönöznek a levegőnek.",
@@ -19005,7 +18991,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
       hu: "Lembangi úszó piac",
       ro: "Piața Plutitoare Lembang",
       en: "Lembang Floating Market"},
-    image: "/poi-images/lembang-floating-market-life-v2.webp",
     description: {
       de: "Eine künstliche Touristenattraktion in der Nähe von Bandung, wo Verkäufer traditionelle Speisen und Snacks von Booten aus auf einem See verkaufen.",
       hu: "Mesterséges turisztikai látványosság Bandung közelében, ahol az árusok csónakokból árulnak hagyományos ételeket és rágcsálnivalókat egy tavon.",
@@ -19782,7 +19767,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
       hu: "Bali Lepkepark",
       ro: "Parcul de Fluturi Bali",
       en: "Bali Butterfly Park"},
-    image: "/poi-images/bali-butterfly-park-life-v2.webp",
     description: {
       de: "Ein kleiner, aber bezaubernder Park, der Hunderte von Schmetterlingen aus ganz Indonesien beherbergt.",
       hu: "Kicsi, de varázslatos park, amely több száz pillangónak ad otthont Indonézia minden tájáról.",
@@ -20703,7 +20687,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
       hu: "Nyugat-Bali Nemzeti Park",
       ro: "Parcul Național Bali de Vest",
       en: "West Bali National Park"},
-    image: "/poi-images/west-bali-national-park-wildlife-v2.webp",
     description: {
       de: "Ein Schutzgebiet an der Westspitze von Bali, das eine Vielzahl von Lebensräumen umfasst, darunter Savanne, Mangroven und Bergwald.",
       hu: "Védett terület Bali nyugati csücskén, amely számos élőhelyet foglal magában, beleértve a szavannát, a mangroveerdőket és a hegyvidéki erdőket.",

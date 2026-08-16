@@ -53,7 +53,6 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     parent: "AF-LOG",
     coords: [69.25, 34.40],
     name: { de: "Kupfermine Mes Aynak", hu: "Mesz Ajnak rézbánya", ro: "Mina de cupru Mes Aynak", en: "Mes Aynak Copper Mine"},
-    image: "/poi-images/mes-aynak-mine-economic-v2.webp",
     description: {
       de: "Mes Aynak ist eine der größten unerschlossenen Kupferlagerstätten der Welt, die sich in der Provinz Logar befindet.",
       hu: "Mesz Ajnak a világ egyik legnagyobb feltáratlan rézlelőhelye, amely Logar tartományban található.",
@@ -142,7 +141,6 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     parent: "AF-BAM",
     coords: [68.06, 34.66],
     name: { de: "Eisenerzmine Hajigak", hu: "Hadzsigak vasércbánya", ro: "Mina de fier Hajigak", en: "Hajigak Iron Mine"},
-    image: "/poi-images/hajigak-mine-economic-v2.webp",
     description: {
       de: "Die Hajigak-Mine in der Provinz Bamiyan ist die größte Eisenerzlagerstätte in Afghanistan und der Region.",
       hu: "A Bámiján tartományban található Hadzsigak-bánya Afganisztán és a régió legnagyobb vasérclelőhelye.",
@@ -186,7 +184,6 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     parent: "AF-KDZ",
     coords: [68.58, 37.18],
     name: { de: "Grenzhafen Sher Khan Bandar", hu: "Ser Hán Bandar határkikötő", ro: "Portul de frontieră Sher Khan Bandar", en: "Sher Khan Bandar Dry Port"},
-    image: "/poi-images/sher-khan-bandar-economic-v2.webp",
     description: {
       de: "Sher Khan Bandar ist ein wichtiger Trockenhafen und Grenzübergang zwischen Afghanistan und Tadschikistan am Amudarja.",
       hu: "Ser Hán Bandar egy fontos szárazföldi kikötő és határátkelő Afganisztán és Tádzsikisztán között az Amu-darja partján.",
@@ -275,7 +272,6 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     parent: "AF-BAL",
     coords: [67.43, 37.23],
     name: { de: "Grenzhafen Hairatan", hu: "Hairatan határállomás", ro: "Portul de frontieră Hairatan", en: "Hairatan Border Port"},
-    image: "/poi-images/hairatan-port-economic-v2.webp",
     description: {
       de: "Hairatan ist ein zentraler Grenzhafen in der Provinz Balch und der wichtigste Handelsweg nach Usbekistan.",
       hu: "Hairatan egy központi határállomás Balh tartományban, és a legfontosabb kereskedelmi útvonal Üzbegisztán felé.",
@@ -454,7 +450,6 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     parent: "AF-KAN",
     coords: [66.39, 31.01],
     name: { de: "Grenzübergang Spin Boldak", hu: "Szpin Boldak határátkelő", ro: "Punctul de trecere Spin Boldak", en: "Spin Boldak Border Crossing"},
-    image: "/poi-images/spin-boldak-hub-economic-v2.webp",
     description: {
       de: "Spin Boldak ist ein bedeutender Handelsknotenpunkt im Süden Afghanistans und verbindet die Region Kandahar mit Pakistan.",
       hu: "Szpin Boldak egy jelentős kereskedelmi csomópont Dél-Afganisztánban, amely a kandahári régiót köti össze Pakisztánnal.",
@@ -543,7 +538,6 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     parent: "AF-NAN",
     coords: [71.08, 34.11],
     name: { de: "Grenzübergang Torkham", hu: "Torkham határátkelő", ro: "Punctul de trecere Torkham", en: "Torkham Border Crossing"},
-    image: "/poi-images/torkham-hub-economic-v2.webp",
     description: {
       de: "Torkham ist der verkehrsreichste Grenzübergang zwischen Afghanistan und Pakistan und führt über den historischen Khyber-Pass.",
       hu: "Torkham a legforgalmasabb határátkelő Afganisztán és Pakisztán között, amely a történelmi Haibár-hágón vezet át.",
@@ -632,7 +626,6 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     parent: "AF-HEL",
     coords: [65.04, 32.32],
     name: { de: "Wasserkraftwerk Kajaki", hu: "Kajaki vízerőmű", ro: "Hidrocentrala Kajaki", en: "Kajaki Hydroelectric Plant"},
-    image: "/poi-images/kajaki-hydro-economic-v2.webp",
     description: {
       de: "Das Wasserkraftwerk Kajaki am Helmand-Fluss liefert entscheidenden Strom für den Süden Afghanistans.",
       hu: "A Helmand folyón lévő Kajaki vízerőmű létfontosságú villamos energiát szolgáltat Dél-Afganisztán számára.",
@@ -676,7 +669,6 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     parent: "AF-KAB",
     coords: [69.72, 34.63],
     name: { de: "Wasserkraftwerk Naghlu", hu: "Naghlu vízerőmű", ro: "Hidrocentrala Naghlu", en: "Naghlu Hydropower Plant"},
-    image: "/poi-images/naghlou-hydro-economic-v2.webp",
     description: {
       de: "Die Naghlu-Talsperre ist das größte Wasserkraftwerk Afghanistans und versorgt vor allem die Hauptstadt Kabul mit Strom.",
       hu: "A Naghlu-gát Afganisztán legnagyobb vízerőműve, amely elsősorban a fővárost, Kabult látja el árammal.",
@@ -720,7 +712,6 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     parent: "AF-HER",
     coords: [63.81, 34.33],
     name: { de: "Wasserkraftwerk Salma", hu: "Szalma vízerőmű", ro: "Hidrocentrala Salma", en: "Salma Hydropower Plant"},
-    image: "/poi-images/salma-dam-economic-v2.webp",
     description: {
       de: "Das Wasserkraftwerk Salma, auch afghanisch-indischer Freundschaftsdamm genannt, produziert Energie am Hari-Rud-Fluss.",
       hu: "A Szalma vízerőmű, más néven afgán-indiai barátság-gát a Hari Rud folyón termel energiát.",
@@ -926,7 +917,6 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     parent: "AF-HER",
     coords: [62.28, 35.25],
     name: { de: "Grenzhafen Torghundi", hu: "Torgundi határkikötő", ro: "Portul de frontieră Torghundi", en: "Torghundi Dry Port"},
-    image: "/poi-images/torghundi-port-economic-v2.webp",
     description: {
       de: "Torghundi ist der zweite große Grenzübergang zu Turkmenistan und wichtig für den Warenaustausch im Nordwesten.",
       hu: "Torgundi a második legnagyobb határátkelő Türkmenisztán felé, és fontos az északnyugati árucsere szempontjából.",
@@ -970,7 +960,6 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     parent: "AF-JOW",
     coords: [65.73, 36.66],
     name: { de: "Gasfelder von Schiberghan", hu: "Sibirgáni gázmezők", ro: "Câmpurile de gaze Sheberghan", en: "Sheberghan Gas Fields"},
-    image: "/poi-images/sheberghan-gas-economic-v2.webp",
     description: {
       de: "Die Gasfelder rund um Schiberghan sind das Zentrum der Erdgasförderung in Afghanistan.",
       hu: "A Sibirgán körüli gázmezők az afganisztáni földgázkitermelés központját alkotják.",
@@ -1059,7 +1048,6 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     parent: "AF-SAR",
     coords: [65.93, 36.22],
     name: { de: "Ölfelder im Amudarja-Becken", hu: "Amu-darja-medence olajmezői", ro: "Câmpurile petroliere din bazinul Amu Daria", en: "Amu Darya Basin Oil Fields"},
-    image: "/poi-images/amu-darya-oil-economic-v2.webp",
     description: {
       de: "Das Amudarja-Becken beherbergt die wichtigsten kommerziell nutzbaren Erdölvorkommen des Landes.",
       hu: "Az Amu-darja-medence ad otthont az ország legfontosabb kereskedelmileg kitermelhető kőolajlelőhelyeinek.",
@@ -1148,7 +1136,6 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     parent: "AF-KAB",
     coords: [69.17, 34.50],
     name: { de: "Industriekomplex Dschangalak", hu: "Dzsangalak ipari komplexum", ro: "Complexul industrial Jangalak", en: "Jangalak Industrial Complex"},
-    image: "/poi-images/jangalak-complex-economic-v2.webp",
     description: {
       de: "Der Industriekomplex Dschangalak in Kabul war einst das größte industrielle Produktionszentrum Afghanistans.",
       hu: "A kabuli Dzsangalak ipari komplexum egykor Afganisztán legnagyobb ipari termelési központja volt.",
@@ -1282,7 +1269,6 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     parent: "AF-BGL",
     coords: [68.70, 35.95],
     name: { de: "Zementfabrik Ghori", hu: "Ghori cementgyár", ro: "Fabrica de ciment Ghori", en: "Ghori Cement Factory"},
-    image: "/poi-images/ghori-cement-economic-v2.webp",
     description: {
       de: "Die Zementfabrik Ghori in Pol-e Chomri ist eine der wenigen produzierenden Zementanlagen in Afghanistan.",
       hu: "A Puli-Humriban található Ghori cementgyár Afganisztán kevés működő cementüzemeinek egyike.",
@@ -1326,7 +1312,6 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     parent: "AF-PAR",
     coords: [69.23, 35.13],
     name: { de: "Zementfabrik Jabal al-Siraj", hu: "Dzsabal asz-Szíradzs cementgyár", ro: "Fabrica de ciment Jabal al-Siraj", en: "Jabal al-Siraj Cement Plant"},
-    image: "/poi-images/jabal-siraj-cement-economic-v2.webp",
     description: {
       de: "Die Anlage in Jabal al-Siraj war die erste Zementfabrik Afghanistans und hat historischen Stellenwert.",
       hu: "A Dzsabal asz-Szíradzsban működő üzem Afganisztán első cementgyára volt, és történelmi jelentőséggel bír.",
@@ -1415,7 +1400,6 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     parent: "AF-KAB",
     coords: [69.26, 34.50],
     name: { de: "Industriepark Bagrami", hu: "Bagrami ipari park", ro: "Parcul industrial Bagrami", en: "Bagrami Industrial Park"},
-    image: "/poi-images/bagrami-park-economic-v2.webp",
     description: {
       de: "Der Industriepark Bagrami in Kabul beherbergt eine Vielzahl von Produktionsstätten und Fabriken.",
       hu: "A kabuli Bagrami ipari park számos gyártóüzemnek és gyárnak ad otthont.",

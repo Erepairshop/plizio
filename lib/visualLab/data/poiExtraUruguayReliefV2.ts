@@ -8,7 +8,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-FL",
     coords: [-55.0, -33.5],
     name: { de: "Cuchilla Grande", hu: "Cuchilla Grande", ro: "Cuchilla Grande", en: "Cuchilla Grande"},
-    image: "/poi-images/cuchilla-grande-relief-v2.webp",
     description: { de: "Eine Hügelkette, die den östlichen Teil Uruguays durchzieht.", hu: "Uruguay keleti részén húzódó dombvidék.", ro: "Un lanț de dealuri care traversează partea de est a Uruguayului.", en: "A range of hills that crosses the eastern part of Uruguay." , es: "Una cadena de colinas que atraviesa la parte oriental de Uruguay.", pt: "Uma cadeia de colinas que atravessa a parte oriental do Uruguai.", fr: "Une chaîne de collines qui traverse la partie orientale de l'Uruguay."},
     
     facts: {
@@ -44,7 +43,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-TA",
     coords: [-56.5, -31.5],
     name: { de: "Cuchilla de Haedo", hu: "Cuchilla de Haedo", ro: "Cuchilla de Haedo", en: "Cuchilla de Haedo"},
-    image: "/poi-images/cuchilla-de-haedo-relief-v2.webp",
     description: { de: "Ein wichtiges Hügelsystem im Nordwesten Uruguays.", hu: "Egy fontos dombvidék Uruguay északnyugati részén.", ro: "Un sistem important de dealuri în nord-vestul Uruguayului.", en: "An important hill system in northwestern Uruguay." , es: "Un importante sistema de colinas en el noroeste de Uruguay.", pt: "Um importante sistema de colinas no noroeste do Uruguai.", fr: "Un important système de collines dans le nord-ouest de l'Uruguay."},
     
     facts: {
@@ -233,7 +231,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-MA",
     coords: [-55.3333, -34.75],
     name: { de: "Sierra de las Ánimas", hu: "Sierra de las Ánimas", ro: "Sierra de las Ánimas", en: "Sierra de las Ánimas"},
-    image: "/poi-images/sierra-de-las-animas-relief-v2.webp",
     description: { de: "Ein Höhenzug vulkanischen Ursprungs mit vielfältiger Flora und Fauna.", hu: "Vulkáni eredetű hegylánc változatos növény- és állatvilággal.", ro: "Un lanț muntos de origine vulcanică cu floră și faună diversă.", en: "A mountain range of volcanic origin with diverse flora and fauna." , es: "Una cadena de colinas de origen volcánico con una flora y fauna diversa.", pt: "Uma cadeia de colinas de origem vulcânica com uma flora e fauna diversificadas.", fr: "Une chaîne de collines d'origine volcanique dotée d'une flore et d'une faune diversifiées."},
     
     facts: {
@@ -269,7 +266,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-SJ",
     coords: [-56.8833, -34.05],
     name: { de: "Sierra de Mahoma", hu: "Sierra de Mahoma", ro: "Sierra de Mahoma", en: "Sierra de Mahoma"},
-    image: "/poi-images/sierra-de-mahoma-relief-v2.webp",
     description: { de: "Eine beeindruckende felsige Landschaft, bekannt als das Steinmeer.", hu: "Lenyűgöző sziklás táj, amelyet kőtengernek is neveznek.", ro: "Un peisaj stâncos impresionant, cunoscut sub numele de Marea de Piatră.", en: "An impressive rocky landscape known as the Sea of Stone." , es: "Un impresionante paisaje rocoso, conocido como el Mar de Piedra.", pt: "Uma paisagem rochosa impressionante, conhecida como o Mar de Pedra.", fr: "Un paysage rocheux impressionnant, connu sous le nom de Mer de Pierres."},
     
     facts: {
@@ -566,7 +562,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-MA",
     coords: [-54.9167, -34.6167],
     name: { de: "Sierra de los Caracoles", hu: "Sierra de los Caracoles", ro: "Sierra de los Caracoles", en: "Sierra de los Caracoles"},
-    image: "/poi-images/sierra-de-los-caracoles-relief-v2.webp",
     description: { de: "Eine Hügelkette im Departamento Maldonado, bekannt für ihre Windparks.", hu: "Hegylánc Maldonado megyében, amely szélerőműveiről ismert.", ro: "Un lanț muntos în departamentul Maldonado, cunoscut pentru parcurile eoliene.", en: "A hill range in the Maldonado department known for its wind farms." , es: "Una cadena de colinas en el departamento de Maldonado, conocida por sus parques eólicos.", pt: "Uma cadeia de colinas no departamento de Maldonado, conhecida pelos seus parques eólicos.", fr: "Une chaîne de collines dans le département de Maldonado, connue pour ses parcs éoliens."},
     
     facts: {
@@ -602,7 +597,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-RV",
     coords: [-55.5167, -31.3333],
     name: { de: "Sierra de la Aurora", hu: "Sierra de la Aurora", ro: "Sierra de la Aurora", en: "Sierra de la Aurora"},
-    image: "/poi-images/sierra-de-la-aurora-relief-v2.webp",
     description: { de: "Ein Hügelzug im Norden Uruguays, nahe der brasilianischen Grenze.", hu: "Hegylánc Uruguay északi részén, a brazil határ közelében.", ro: "Un lanț deluros în nordul Uruguayului, lângă granița cu Brazilia.", en: "A range of hills in northern Uruguay, near the Brazilian border." , es: "Una cadena de colinas en el norte de Uruguay, cerca de la frontera con Brasil.", pt: "Uma cadeia de colinas no norte do Uruguai, perto da fronteira com o Brasil.", fr: "Une chaîne de collines au nord de l'Uruguay, près de la frontière brésilienne."},
     
     facts: {
@@ -1187,7 +1181,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-CA",
     coords: [-55.5, -34.7833],
     name: { de: "Cuchilla Alta", hu: "Cuchilla Alta", ro: "Cuchilla Alta", en: "Cuchilla Alta"},
-    image: "/poi-images/cuchilla-de-cuchilla-alta-relief-v2.webp",
     description: { de: "Eine kleine Erhebung, die sich bis zur Küste von Canelones erstreckt.", hu: "Egy kis kiemelkedés, amely a Canelones partvidékéig húzódik.", ro: "O mică înălțime care se extinde până pe coasta Canelones.", en: "A small elevation extending to the coast of Canelones." , es: "Una pequeña elevación que se extiende hasta la costa de Canelones.", pt: "Uma pequena elevação que se estende até a costa de Canelones.", fr: "Une petite élévation qui s'étend jusqu'à la côte de Canelones."},
     
     facts: {
@@ -1340,7 +1333,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-MA",
     coords: [-54.7667, -34.3667],
     name: { de: "Sierra Carapé", hu: "Sierra Carapé", ro: "Sierra Carapé", en: "Sierra Carapé"},
-    image: "/poi-images/sierra-carape-relief-v2.webp",
     description: { de: "Der Gebirgszug, in dem sich der Cerro Catedral, Uruguays höchster Punkt, befindet.", hu: "Hegylánc, amelyben a Cerro Catedral, Uruguay legmagasabb pontja található.", ro: "Lanțul muntos în care se află Cerro Catedral, cel mai înalt punct din Uruguay.", en: "The mountain range containing Cerro Catedral, Uruguay's highest point." , es: "La cadena montañosa donde se encuentra el Cerro Catedral, el punto más alto de Uruguay.", pt: "A cadeia de montanhas onde se localiza o Cerro Catedral, o ponto mais alto do Uruguai.", fr: "La chaîne de montagnes où se trouve le Cerro Catedral, le point culminant de l'Uruguay."},
     
     facts: {
@@ -1376,7 +1368,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-TA",
     coords: [-55.8833, -31.7667],
     name: { de: "Cerro Blanco", hu: "Cerro Blanco", ro: "Cerro Blanco", en: "Cerro Blanco"},
-    image: "/poi-images/cerro-blanco-relief-v2.webp",
     description: { de: "Eine markante Erhebung in der Nähe von Valle Edén.", hu: "Jelentős kiemelkedés a Valle Edén közelében.", ro: "O înălțime proeminentă lângă Valle Edén.", en: "A prominent elevation near Valle Edén." , es: "Una elevación prominente cerca de Valle Edén.", pt: "Uma elevação proeminente perto de Valle Edén.", fr: "Une élévation marquante près de Valle Edén."},
     
     facts: {
@@ -1412,7 +1403,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-MA",
     coords: [-55.2833, -34.7833],
     name: { de: "Cerro Betete", hu: "Cerro Betete", ro: "Cerro Betete", en: "Cerro Betete"},
-    image: "/poi-images/cerro-betete-relief-v2.webp",
     description: { de: "Eine felsige Erhebung im Süden Uruguays, die bei Wanderern beliebt ist.", hu: "Sziklás kiemelkedés Uruguay déli részén, amelyet a túrázók kedvelnek.", ro: "O înălțime stâncoasă în sudul Uruguayului, populară printre drumeți.", en: "A rocky elevation in southern Uruguay, popular among hikers." , es: "Una elevación rocosa en el sur de Uruguay, popular entre los excursionistas.", pt: "Uma elevação rochosa no sul do Uruguai, popular entre os caminhantes.", fr: "Une élévation rocheuse dans le sud de l'Uruguay, populaire auprès des randonneurs."},
     
     facts: {
@@ -1493,7 +1483,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-RO",
     coords: [-53.9333, -34.3833],
     name: { de: "Cerro de la Buena Vista", hu: "Cerro de la Buena Vista", ro: "Cerro de la Buena Vista", en: "Cerro de la Buena Vista"},
-    image: "/poi-images/cerro-de-la-buena-vista-relief-v2.webp",
     description: { de: "Ein großer Sandhügel, der einen herrlichen Blick über Cabo Polonio bietet.", hu: "Nagy homokdomb, amely csodálatos kilátást nyújt Cabo Polonióra.", ro: "Un mare deal de nisip care oferă o vedere magnifică asupra Cabo Polonio.", en: "A large sand dune offering a magnificent view over Cabo Polonio." , es: "Una gran colina de arena que ofrece una vista magnífica de Cabo Polonio.", pt: "Uma grande colina de areia que oferece uma vista magnífica sobre Cabo Polonio.", fr: "Une grande colline de sable offrant une vue magnifique sur Cabo Polonio."},
     
     facts: {
@@ -1529,7 +1518,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-FL",
     coords: [-55.5333, -33.8667],
     name: { de: "Cerro Colorado", hu: "Cerro Colorado", ro: "Cerro Colorado", en: "Cerro Colorado"},
-    image: "/poi-images/cerro-colorado-relief-v2.webp",
     description: { de: "Ein auffälliger Hügel im Herzen von Florida, Uruguay.", hu: "Feltűnő domb a floridai megye szívében, Uruguayban.", ro: "Un deal izbitor în inima departamentului Florida, Uruguay.", en: "A striking hill in the heart of Florida, Uruguay." , es: "Una colina llamativa en el corazón de Florida, Uruguay.", pt: "Uma colina chamativa no coração de Florida, Uruguai.", fr: "Une colline remarquable au cœur de Florida, Uruguay."},
     
     facts: {
@@ -1565,7 +1553,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-PA",
     coords: [-57.5, -32.25],
     name: { de: "Cuchilla del Fuego", hu: "Cuchilla del Fuego", ro: "Cuchilla del Fuego", en: "Cuchilla del Fuego"},
-    image: "/poi-images/cuchilla-del-fuego-relief-v2.webp",
     description: { de: "Eine langgestreckte Erhebung im Departamento Paysandú.", hu: "Hosszan elnyúló kiemelkedés Paysandú megyében.", ro: "O înălțime alungită în departamentul Paysandú.", en: "An elongated elevation in the Paysandú department." , es: "Una elevación alargada en el departamento de Paysandú.", pt: "Uma elevação alongada no departamento de Paysandú.", fr: "Une élévation allongée dans le département de Paysandú."},
     
     facts: {
@@ -1601,7 +1588,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-SO",
     coords: [-57.6667, -33.5833],
     name: { de: "Cuchilla del Bizcocho", hu: "Cuchilla del Bizcocho", ro: "Cuchilla del Bizcocho", en: "Cuchilla del Bizcocho"},
-    image: "/poi-images/cuchilla-del-bizcocho-relief-v2.webp",
     description: { de: "Ein hügeliger Landstrich im südwestlichen Uruguay.", hu: "Dombos vidék Délnyugat-Uruguayban.", ro: "O regiune deluroasă în sud-vestul Uruguayului.", en: "A hilly tract of land in southwestern Uruguay." , es: "Una zona de colinas en el suroeste de Uruguay.", pt: "Uma região montanhosa no sudoeste do Uruguai.", fr: "Une zone de collines dans le sud-ouest de l'Uruguay."},
     
     facts: {
@@ -1637,7 +1623,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-TA",
     coords: [-55.8333, -31.9167],
     name: { de: "Cerro de la Sepultura", hu: "Cerro de la Sepultura", ro: "Cerro de la Sepultura", en: "Cerro de la Sepultura"},
-    image: "/poi-images/cerro-de-la-sepultura-relief-v2.webp",
     description: { de: "Ein Hügel mit einem markanten Profil in der Region Tacuarembó.", hu: "Karakteres profilú domb Tacuarembó régiójában.", ro: "Un deal cu un profil izbitor în regiunea Tacuarembó.", en: "A hill with a striking profile in the Tacuarembó region." , es: "Una colina con un perfil distintivo en la región de Tacuarembó.", pt: "Uma colina com um perfil distinto na região de Tacuarembó.", fr: "Une colline au profil marqué dans la région de Tacuarembó."},
     
     facts: {
@@ -1791,7 +1776,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-PA",
     coords: [-57.8333, -32.1667],
     name: { de: "Cuchilla de los Tres Cerros", hu: "Cuchilla de los Tres Cerros", ro: "Cuchilla de los Tres Cerros", en: "Cuchilla de los Tres Cerros"},
-    image: "/poi-images/cuchilla-de-los-tres-cerros-relief-v2.webp",
     description: { de: "Eine Hügelkette, die sich durch drei markante Erhebungen auszeichnet.", hu: "Hegylánc, amelyet három feltűnő kiemelkedés jellemez.", ro: "Un lanț de dealuri caracterizat prin trei înălțimi proeminente.", en: "A hill range characterized by three prominent elevations." , es: "Una cadena de colinas que se caracteriza por tres elevaciones prominentes.", pt: "Uma cadeia de colinas caracterizada por três elevações proeminentes.", fr: "Une chaîne de collines caractérisée par trois élévations marquantes."},
     
     facts: {
@@ -2052,7 +2036,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-MA",
     coords: [-55.3333, -34.8],
     name: { de: "Cerro del Cuervo", hu: "Cerro del Cuervo", ro: "Cerro del Cuervo", en: "Cerro del Cuervo"},
-    image: "/poi-images/cerro-del-cuervo-relief-v2.webp",
     description: { de: "Eine kleine Bergformation in der Nähe von Piriápolis.", hu: "Kis hegyképződmény Piriápolis közelében.", ro: "O mică formațiune muntoasă lângă Piriápolis.", en: "A small mountain formation near Piriápolis." , es: "Una pequeña formación montañosa cerca de Piriápolis.", pt: "Uma pequena formação montanhosa perto de Piriápolis.", fr: "Une petite formation montagneuse près de Piriápolis."},
     
     facts: {
@@ -2088,7 +2071,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-RN",
     coords: [-57.5, -33.0],
     name: { de: "Bosque del Río Negro", hu: "Río Negro erdeje", ro: "Pădurea Río Negro", en: "Río Negro Forest"},
-    image: "/poi-images/bosque-del-rio-negro-relief-v2.webp",
     description: { de: "Galeriewälder entlang des Río Negro mit reicher Artenvielfalt.", hu: "Galériaerdők a Río Negro mentén gazdag biodiverzitással.", ro: "Păduri-galerie de-a lungul Río Negro cu o bogată biodiversitate.", en: "Gallery forests along the Río Negro with rich biodiversity." , es: "Bosques de galería a lo largo del Río Negro con una rica biodiversidad.", pt: "Florestas de galeria ao longo do Rio Negro com rica biodiversidade.", fr: "Forêts galeries le long du Río Negro avec une riche biodiversité."},
     
     facts: {
@@ -2124,7 +2106,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-TT",
     coords: [-53.9167, -33.3167],
     name: { de: "Montes del Río Cebollatí", hu: "Montes del Río Cebollatí", ro: "Pădurile Río Cebollatí", en: "Montes del Río Cebollatí"},
-    image: "/poi-images/montes-del-rio-cebollati-relief-v2.webp",
     description: { de: "Dichte Wälder entlang eines der wichtigsten Flüsse im Osten Uruguays.", hu: "Sűrű erdők Uruguay keleti részének egyik legfontosabb folyója mentén.", ro: "Păduri dese de-a lungul unuia dintre cele mai importante râuri din estul Uruguayului.", en: "Dense forests along one of the most important rivers in eastern Uruguay." , es: "Bosques densos a lo largo de uno de los ríos más importantes del este de Uruguay.", pt: "Florestas densas ao longo de um dos rios mais importantes do leste do Uruguai.", fr: "Forêts denses le long de l'un des fleuves les plus importants de l'est de l'Uruguay."},
     
     facts: {
@@ -2493,7 +2474,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-LA",
     coords: [-55.2, -34.25],
     name: { de: "Cerro Áspero", hu: "Cerro Áspero", ro: "Cerro Áspero", en: "Cerro Áspero"},
-    image: "/poi-images/cerro-aspero-relief-v2.webp",
     description: { de: "Ein rauer, felsiger Hügel in der Nähe der Stadt Minas.", hu: "Egy zord, sziklás domb Minas városának közelében.", ro: "Un deal aspru și stâncos lângă orașul Minas.", en: "A rough, rocky hill near the city of Minas." , es: "Una colina áspera y rocosa cerca de la ciudad de Minas.", pt: "Uma colina áspera e rochosa perto da cidade de Minas.", fr: "Une colline rugueuse et rocheuse près de la ville de Minas."},
     
     facts: {
@@ -2574,7 +2554,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-RV",
     coords: [-55.6667, -31.0],
     name: { de: "Cuchilla Negra", hu: "Cuchilla Negra", ro: "Cuchilla Negra", en: "Cuchilla Negra"},
-    image: "/poi-images/cuchilla-negra-relief-v2.webp",
     description: { de: "Eine Hügelkette an der Grenze zu Brasilien, benannt nach dunklem Gestein.", hu: "Hegylánc a brazil határon, sötét kőzetéről elnevezve.", ro: "Un lanț de dealuri la granița cu Brazilia, numit după roca închisă la culoare.", en: "A hill range on the border with Brazil, named after its dark rock." , es: "Una cadena de colinas en la frontera con Brasil, llamada así por su roca oscura.", pt: "Uma cadeia de colinas na fronteira com o Brasil, batizada em razão de suas rochas escuras.", fr: "Une chaîne de collines à la frontière avec le Brésil, nommée d'après sa roche sombre."},
     
     facts: {
@@ -2610,7 +2589,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-MA",
     coords: [-54.8333, -34.5],
     name: { de: "Sierra de las Cañas", hu: "Sierra de las Cañas", ro: "Sierra de las Cañas", en: "Sierra de las Cañas"},
-    image: "/poi-images/sierra-de-las-canas-relief-v2.webp",
     description: { de: "Eine kleinere Hügelkette im südöstlichen Teil des Landes.", hu: "Kisebb hegylánc az ország délkeleti részén.", ro: "Un lanț muntos mai mic în partea de sud-est a țării.", en: "A smaller hill range in the southeastern part of the country." , es: "Una cadena de colinas más pequeña en la parte sureste del país.", pt: "Uma cadeia de colinas menor na parte sudeste do país.", fr: "Une petite chaîne de collines dans la partie sud-est du pays."},
     
     facts: {
@@ -2691,7 +2669,6 @@ export const poiExtraUruguayReliefV2: POI[] = [
     parent: "UY-TA",
     coords: [-56.3333, -32.5],
     name: { de: "Cuchilla de Peralta", hu: "Cuchilla de Peralta", ro: "Cuchilla de Peralta", en: "Cuchilla de Peralta"},
-    image: "/poi-images/cuchilla-de-peralta-relief-v2.webp",
     description: { de: "Erstreckt sich über das Zentrum von Uruguay mit sanften Steigungen.", hu: "Uruguay központján húzódik enyhe lejtőkkel.", ro: "Se întinde peste centrul Uruguayului cu pante blânde.", en: "Extends across the center of Uruguay with gentle slopes." , es: "Se extiende por el centro de Uruguay con pendientes suaves.", pt: "Estende-se pelo centro do Uruguai com declives suaves.", fr: "S'étend sur le centre de l'Uruguay avec des pentes douces."},
     
     facts: {

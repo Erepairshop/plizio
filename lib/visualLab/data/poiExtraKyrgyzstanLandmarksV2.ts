@@ -237,7 +237,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
       hu: "Burana-torony",
       ro: "Turnul Burana",
       en: "Burana Tower"},
-    image: "/poi-images/burana-tower-landmarks-v2.webp",
     description: {
       de: "Ein 25 Meter hohes Minarett aus dem 11. Jahrhundert, das als Überrest der antiken Stadt Balasagun im Tschüi-Tal erhalten geblieben ist.",
       hu: "Egy 25 méter magas, 11. századi minaret, amely a Csüi-völgyben fekvő egykori Balaszagun városának egyik utolsó fennmaradt emléke.",
@@ -378,7 +377,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
       hu: "Tash Rabat karavánszeráj",
       ro: "Caravanseraiul Tash Rabat",
       en: "Tash Rabat Caravanserai"},
-    image: "/poi-images/tash-rabat-landmarks-v2.webp",
     description: {
       de: "Eine gut erhaltene Karawanserei aus Stein aus dem 15. Jahrhundert, die auf über 3000 Metern Höhe an der alten Seidenstraße liegt.",
       hu: "Egy jól karbantartott, 15. századi kő karavánszeráj, amely több mint 3000 méteres magasságban fekszik az ősi Selyemút mentén.",
@@ -1203,7 +1201,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
       hu: "Szulajman-hegy",
       ro: "Muntele Sacru Sulaiman-Too",
       en: "Sulaiman-Too Sacred Mountain"},
-    image: "/poi-images/sulaiman-too-landmarks-v2.webp",
     description: {
       de: "Ein markanter Kalksteinfelsen im Zentrum von Osch, der seit über einem Jahrtausend ein wichtiger muslimischer Wallfahrtsort ist.",
       hu: "Egy jellegzetes mészkőszikla Os városának központjában, amely több mint egy évezrede fontos muszlim zarándokhely.",
@@ -1380,7 +1377,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
       hu: "Hét Bika-szikla",
       ro: "Stâncile Jeti-Ögüz",
       en: "Jeti-Ögüz Rocks"},
-    image: "/poi-images/jeti-oguz-rocks-landmarks-v2.webp",
     description: {
       de: "Eine beeindruckende geologische Formation aus roten Sandsteinfelsen, die der Legende nach sieben versteinerten Stieren ähnelt.",
       hu: "Látványos, vörös homokkőből álló geológiai képződmény, amely a legenda szerint hét kővé vált bikára hasonlít.",
@@ -1521,7 +1517,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
       hu: "Mesekanyon",
       ro: "Canionul Skazka",
       en: "Skazka Canyon"},
-    image: "/poi-images/skazka-canyon-landmarks-v2.webp",
     description: {
       de: "Eine farbenfrohe Schlucht am Südufer des Yssykköl-Sees, deren bizarre Gesteinsformationen an Burgen und Tiere erinnern.",
       hu: "Színpompás kanyon az Iszik-köl tó déli partján, amelynek bizarr sziklaalakzatai várakra és állatokra emlékeztetnek.",
@@ -1986,7 +1981,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
       hu: "Ruh Ordo Kulturális Központ",
       ro: "Centrul Cultural Rukh Ordo",
       en: "Rukh Ordo Cultural Center"},
-    image: "/poi-images/rukh-ordo-landmarks-v2.webp",
     description: {
       de: "Ein spirituelles und architektonisches Zentrum in Tscholponata, das den fünf großen Weltreligionen gewidmet ist.",
       hu: "Egy spirituális és építészeti komplexum Csolpon-Atában, amelyet az öt nagy világvallásnak szenteltek.",
@@ -2415,7 +2409,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
       hu: "Szentháromság-székesegyház",
       ro: "Catedrala Sfânta Treime",
       en: "Holy Trinity Cathedral"},
-    image: "/poi-images/holy-trinity-karakol-landmarks-v2.webp",
     description: {
       de: "Eine wunderschöne orthodoxe Holzkirche in Karakol, die 1895 ohne einen einzigen Eisennagel erbaut wurde.",
       hu: "Egy gyönyörű ortodox fatemplom Karakolban, amelyet 1895-ben építettek fel egyetlen vasszög felhasználása nélkül.",
@@ -2796,7 +2789,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
       hu: "Manasz Ordo Komplexum",
       ro: "Complexul Manas Ordo",
       en: "Manas Ordo Complex"},
-    image: "/poi-images/manas-ordo-landmarks-v2.webp",
     description: {
       de: "Eine Gedenkstätte in der Region Talas, die dem legendären kirgisischen Nationalhelden Manas gewidmet ist.",
       hu: "Egy emlékhely a Talasz régióban, amelyet a legendás kirgiz nemzeti hősnek, Manasznak szenteltek.",
@@ -2856,7 +2848,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
       hu: "Ala-Too tér",
       ro: "Piața Ala-Too",
       en: "Ala-Too Square"},
-    image: "/poi-images/ala-too-square-landmarks-v2.webp",
     description: {
       de: "Der zentrale Hauptplatz von Bischkek, bekannt für das Manas-Denkmal und offizielle nationale Feierlichkeiten.",
       hu: "Biskek központi főtere, amely a Manasz-emlékműről és a hivatalos nemzeti ünnepségekről ismert.",
@@ -3033,7 +3024,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
       hu: "Állami Történeti Múzeum",
       ro: "Muzeul Național de Istorie",
       en: "State History Museum"},
-    image: "/poi-images/state-history-museum-landmarks-v2.webp",
     description: {
       de: "Das wichtigste Museum Kirgisistans am Ala-Too-Platz, das Artefakte von der Antike bis zur Sowjetzeit beherbergt.",
       hu: "Kirgizisztán legfontosabb múzeuma az Ala-Too téren, amely az ókortól a szovjet korszakig őriz műtárgyakat.",
@@ -3534,7 +3524,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
       hu: "Győzelem tér",
       ro: "Piața Victoriei",
       en: "Victory Square"},
-    image: "/poi-images/victory-square-bishkek-landmarks-v2.webp",
     description: {
       de: "Ein monumentaler Platz in Bischkek mit einer großen, jurtenförmigen Struktur zum Gedenken an den Zweiten Weltkrieg.",
       hu: "Egy monumentális tér Biskekben, egy hatalmas, jurta alakú építménnyel, amely a második világháború áldozatainak állít emléket.",
@@ -3891,7 +3880,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
       hu: "Os bazár",
       ro: "Bazarul Osh",
       en: "Osh Bazaar"},
-    image: "/poi-images/osh-bazaar-landmarks-v2.webp",
     description: {
       de: "Der größte und lebhafteste Markt in Bischkek, wo man traditionelle Kleidung, Gewürze und lokale Speisen findet.",
       hu: "Biskek legnagyobb és legnyüzsgőbb piaca, ahol hagyományos ruhákat, fűszereket és helyi ételeket lehet találni.",
@@ -4104,7 +4092,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
       hu: "Özgön minaret",
       ro: "Minaretul Uzgen",
       en: "Uzgen Minaret"},
-    image: "/poi-images/uzgen-minaret-landmarks-v2.webp",
     description: {
       de: "Ein hervorragend erhaltener Ziegelturm aus dem 11. Jahrhundert in der antiken Stadt Ösgön der Karachaniden.",
       hu: "Egy kiválóan megőrzött, 11. századi téglatorony Özgön ősi karahánida városában.",
@@ -4389,7 +4376,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
       hu: "Csolpon-Ata sziklarajzai",
       ro: "Petroglifele din Cholpon-Ata",
       en: "Petroglyphs of Cholpon-Ata"},
-    image: "/poi-images/cholpon-ata-petroglyphs-landmarks-v2.webp",
     description: {
       de: "Ein riesiges Freilichtmuseum mit Tausenden von alten Felszeichnungen, die Jagdszenen und Tiere darstellen.",
       hu: "Hatalmas szabadtéri múzeum, amely több ezer ősi, vadászjeleneteket és állatokat ábrázoló sziklarajzot rejt.",
@@ -4494,7 +4480,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
       hu: "Szajmalú-Tas",
       ro: "Saimaluu Tash",
       en: "Saimaluu Tash"},
-    image: "/poi-images/saimaluu-tash-landmarks-v2.webp",
     description: {
       de: "Eine abgelegene Bergstätte, die über 10.000 Felszeichnungen aus der Bronze- und Eisenzeit beherbergt.",
       hu: "Egy elzárt hegyi lelőhely, amely több mint 10 000, a bronz- és vaskorból származó sziklarajznak ad otthont.",
@@ -4635,7 +4620,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
       hu: "Kurmandzsan Datka-emlékmű",
       ro: "Monumentul Kurmanjan Datka",
       en: "Kurmanjan Datka Monument"},
-    image: "/poi-images/kurmanjan-datka-monument-landmarks-v2.webp",
     description: {
       de: "Eine Bronzestatue in Bischkek zu Ehren der berühmten kirgisischen Anführerin, bekannt als die Königin des Südens.",
       hu: "Egy bronzszobor Biskekben, amely a híres kirgiz vezetőnek, a Dél Királynőjének állít emléket.",
@@ -5280,7 +5264,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
       hu: "Os Lenin-szobra",
       ro: "Statuia lui Lenin din Osh",
       en: "Osh Lenin Statue"},
-    image: "/poi-images/osh-lenin-statue-landmarks-v2.webp",
     description: {
       de: "Eine der größten und noch immer stehenden Lenin-Statuen in Zentralasien, gelegen im Zentrum von Osch.",
       hu: "Közép-Ázsia egyik legnagyobb, máig álló Lenin-szobra, amely Os központjában található.",
@@ -5493,7 +5476,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
       hu: "Ata-Bejit Emlékkomplexum",
       ro: "Complexul Memorial Ata-Beyit",
       en: "Ata-Beyit Memorial Complex"},
-    image: "/poi-images/ata-beyit-landmarks-v2.webp",
     description: {
       de: "Ein ergreifender Friedhof und eine Gedenkstätte südlich von Bischkek für die Opfer der stalinistischen Säuberungen.",
       hu: "Egy megrázó temető és emlékhely Biskek tőszomszédságában a sztálini tisztogatások áldozatainak tiszteletére.",

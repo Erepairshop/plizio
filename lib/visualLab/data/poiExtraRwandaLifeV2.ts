@@ -8,7 +8,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-04",
     coords: [30.0619, -1.9441],
     name: { de: "Kigali Kinderpark", hu: "Kigali Gyermekpark", ro: "Parcul Copiilor din Kigali", en: "Kigali Children's Park"},
-    image: "/poi-images/kigali-childrens-park-life-v2.webp",
     description: { de: "Ein beliebter Park in der Hauptstadt, der speziell für Familien und Kinder gestaltet wurde.", hu: "Népszerű park a fővárosban, amelyet kifejezetten családok és gyerekek számára terveztek.", ro: "Un parc popular în capitală, conceput special pentru familii și copii.", en: "A popular park in the capital designed especially for families and children." , es: "Un parque popular en la capital, diseñado especialmente para familias y niños.", pt: "Um parque popular na capital, desenhado especialmente para famílias e crianças.", fr: "Un parc populaire de la capitale, spécialement conçu pour les familles et les enfants."},
     facts: {
       de: ["Spielplätze und Grünflächen.", "Zentral gelegen."],
@@ -45,7 +44,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-04",
     coords: [30.1012, -1.9324],
     name: { de: "Nyarutarama See Spielplatz", hu: "Nyarutarama-tavi játszótér", ro: "Loc de joacă Lacul Nyarutarama", en: "Nyarutarama Lake Playground"},
-    image: "/poi-images/nyarutarama-lake-kid-life-v2.webp",
     description: { de: "Ein kinderfreundliches Erholungsgebiet am Rande des Nyarutarama-Sees.", hu: "Gyerekbarát rekreációs terület a Nyarutarama-tó szélén.", ro: "Zonă de recreere potrivită pentru copii la marginea lacului Nyarutarama.", en: "A child-friendly recreation area at the edge of Nyarutarama Lake." , es: "Una zona de recreo adaptada para niños a orillas del lago Nyarutarama.", pt: "Uma área de lazer para crianças nas margens do Lago Nyarutarama.", fr: "Une zone de loisirs adaptée aux enfants au bord du lac Nyarutarama."},
     facts: {
       de: ["Sichere Umgebung für Kinder.", "Beliebt bei Familien."],
@@ -81,7 +79,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-01",
     coords: [29.63, -1.50],
     name: { de: "Musanze Gemeinschafts-Farm", hu: "Musanze Közösségi Farm", ro: "Fermă Comunitară Musanze", en: "Musanze Community Farm"},
-    image: "/poi-images/musanze-community-farm-life-v2.webp",
     description: { de: "Ein landwirtschaftliches Bildungsprojekt, das nachhaltige Anbaumethoden lehrt.", hu: "Mezőgazdasági oktatási projekt, amely fenntartható termesztési módszereket tanít.", ro: "Un proiect educațional agricol care predă metode de cultivare sustenabile.", en: "An agricultural education project that teaches sustainable farming methods." , es: "Un proyecto educativo agrícola que enseña métodos de cultivo sostenibles.", pt: "Um projeto educativo agrícola que ensina métodos de cultivo sustentáveis.", fr: "Un projet d'éducation agricole qui enseigne des méthodes de culture durables."},
     facts: {
       de: ["Fokus auf Gemüsebau.", "Bildung für die Region."],
@@ -117,7 +114,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-03",
     coords: [30.75, -1.85],
     name: { de: "Elefanten-Habitat Akagera", hu: "Akagera elefántélőhely", ro: "Habitatul Elefanților Akagera", en: "Akagera Elephant Habitat"},
-    image: "/poi-images/akagera-elephant-habitat-life-v2.webp",
     description: { de: "Ein geschützter Bereich innerhalb des Akagera-Nationalparks, der Elefanten eine sichere Umgebung bietet.", hu: "Védett terület az Akagera Nemzeti Parkon belül, amely biztonságos környezetet nyújt az elefántoknak.", ro: "O zonă protejată în cadrul Parcului Național Akagera, care oferă elefanților un mediu sigur.", en: "A protected area within Akagera National Park that provides a safe environment for elephants." , es: "Un área protegida dentro del Parque Nacional Akagera que ofrece un entorno seguro para los elefantes.", pt: "Uma área protegida dentro do Parque Nacional de Akagera que oferece um ambiente seguro para os elefantes.", fr: "Une zone protégée au sein du parc national de l'Akagera offrant un environnement sûr pour les éléphants."},
     facts: {
       de: ["Große Elefantenherden.", "Regelmäßige Beobachtungsmöglichkeit."],
@@ -153,7 +149,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-01",
     coords: [29.25, -1.70],
     name: { de: "Rubavu Kaffeegarten", hu: "Rubavu Kávékert", ro: "Grădina de Cafea Rubavu", en: "Rubavu Coffee Garden"},
-    image: "/poi-images/rubavu-coffee-garden-life-v2.webp",
     description: { de: "Eine kleine, familiengeführte Kaffeeplantage, die Einblicke in den Anbau bietet.", hu: "Kicsi, családi vezetésű kávéültetvény, amely bepillantást nyújt a termesztésbe.", ro: "O mică plantație de cafea administrată de familie, care oferă perspective asupra cultivării.", en: "A small, family-run coffee plantation that offers insights into cultivation." , es: "Una pequeña plantación de café de gestión familiar que ofrece una visión del cultivo.", pt: "Uma pequena plantação de café familiar que oferece uma visão sobre o cultivo.", fr: "Une petite plantation de café familiale offrant un aperçu de la culture."},
     facts: {
       de: ["Traditionelle Methoden.", "Besucher willkommen."],
@@ -189,7 +184,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-04",
     coords: [30.07, -1.97],
     name: { de: "Kigali Botanischer Garten", hu: "Kigali Botanikus Kert", ro: "Grădina Botanică din Kigali", en: "Kigali Botanical Garden"},
-    image: "/poi-images/kigali-botanical-garden-life-v2.webp",
     description: { de: "Ein Garten mit einheimischen Pflanzen, perfekt für Familienausflüge.", hu: "Kert őshonos növényekkel, tökéletes családi kirándulásokhoz.", ro: "O grădină cu plante native, perfectă pentru excursii de familie.", en: "A garden featuring native plants, perfect for family outings." , es: "Un jardín con plantas nativas, perfecto para excursiones familiares.", pt: "Um jardim com plantas nativas, perfeito para passeios em família.", fr: "Un jardin de plantes indigènes, parfait pour les sorties en famille."},
     facts: {
       de: ["Lehrpfade für Kinder.", "Vielfältige Pflanzenwelt."],
@@ -225,7 +219,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-01",
     coords: [29.62, -1.50],
     name: { de: "Gorilla Bildungszentrum", hu: "Gorilla Oktatási Központ", ro: "Centrul Educațional Gorile", en: "Gorilla Education Center"},
-    image: "/poi-images/musanze-gorilla-education-center-life-v2.webp",
     description: { de: "Ein Zentrum, das Kindern Wissen über Gorillas und Naturschutz vermittelt.", hu: "Központ, amely tudást ad át a gyerekeknek a gorillákról és a természetvédelemről.", ro: "Un centru care oferă copiilor cunoștințe despre gorile și conservarea naturii.", en: "A center that provides children with knowledge about gorillas and nature conservation." , es: "Un centro que transmite conocimientos a los niños sobre los gorilas y la conservación.", pt: "Um centro que transmite conhecimentos às crianças sobre gorilas e conservação.", fr: "Un centre qui transmet aux enfants des connaissances sur les gorilles et la conservation."},
     facts: {
       de: ["Interaktive Ausstellungen.", "Fokus auf Schutz."],
@@ -261,7 +254,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-05",
     coords: [29.73, -2.60],
     name: { de: "Huye Obstfarm", hu: "Huye Gyümölcsfarm", ro: "Fermă de Fructe Huye", en: "Huye Fruit Farm"},
-    image: "/poi-images/huye-fruit-farm-life-v2.webp",
     description: { de: "Eine Plantage, die lokale Früchte anbaut und an Schulen liefert.", hu: "Ültetvény, amely helyi gyümölcsöket termeszt és iskolákba szállít.", ro: "O plantație care cultivă fructe locale și livrează către școli.", en: "A plantation that grows local fruits and supplies schools." , es: "Una plantación que cultiva frutas locales y las suministra a las escuelas.", pt: "Uma plantação que cultiva frutas locais e as fornece às escolas.", fr: "Une plantation qui cultive des fruits locaux et approvisionne les écoles."},
     facts: {
       de: ["Bio-Anbau.", "Fördert gesunde Ernährung."],
@@ -297,7 +289,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-03",
     coords: [30.70, -1.95],
     name: { de: "Akagera Vogelschutzgebiet", hu: "Akagera Madárrezervátum", ro: "Rezervația de Păsări Akagera", en: "Akagera Bird Sanctuary"},
-    image: "/poi-images/akagera-bird-sanctuary-life-v2.webp",
     description: { de: "Ein Lebensraum für zahlreiche Vogelarten am Rande des Akagera-Parks.", hu: "Számos madárfaj élőhelye az Akagera-park szélén.", ro: "Un habitat pentru numeroase specii de păsări la marginea parcului Akagera.", en: "A habitat for numerous bird species at the edge of Akagera Park." , es: "Un hábitat para numerosas especies de aves en la periferia del Parque Akagera.", pt: "Um habitat para inúmeras espécies de aves na periferia do Parque Akagera.", fr: "Un habitat pour de nombreuses espèces d'oiseaux en bordure du parc de l'Akagera."},
     facts: {
       de: ["Wichtiges Brutgebiet.", "Beobachtungsplattformen."],
@@ -333,7 +324,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-01",
     coords: [29.35, -2.07],
     name: { de: "Karongi Bienenhaltung", hu: "Karongi Méhészet", ro: "Apicultură Karongi", en: "Karongi Beekeeping"},
-    image: "/poi-images/karongi-bee-keeping-life-v2.webp",
     description: { de: "Ein kleines Projekt zur Honiggewinnung, das lokale Imker unterstützt.", hu: "Kis méztermelő projekt, amely támogatja a helyi méhészeket.", ro: "Un mic proiect de producere a mierii care sprijină apicultorii locali.", en: "A small honey production project that supports local beekeepers." , es: "Un pequeño proyecto de producción de miel que apoya a los apicultores locales.", pt: "Um pequeno projeto de produção de mel que apoia os apicultores locais.", fr: "Un petit projet de production de miel qui soutient les apiculteurs locaux."},
     facts: {
       de: ["Nachhaltiger Honig.", "Traditionelle Imkerei."],
@@ -486,7 +476,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-04",
     coords: [30.08, -1.93],
     name: { de: "Kigali Gemeinschaftsgarten", hu: "Kigali Közösségi Kert", ro: "Grădina Comunitară Kigali", en: "Kigali Community Garden"},
-    image: "/poi-images/kigali-community-garden-life-v2.webp",
     description: { de: "Ein urbaner Garten, der frisches Gemüse für die Stadtgemeinschaft produziert.", hu: "Városi kert, amely friss zöldséget termel a városi közösség számára.", ro: "O grădină urbană care produce legume proaspete pentru comunitatea orașului.", en: "An urban garden that produces fresh vegetables for the city community." , es: "Un huerto urbano que produce verduras frescas para la comunidad local.", pt: "Uma horta urbana que produz vegetais frescos para a comunidade local.", fr: "Un jardin urbain qui produit des légumes frais pour la communauté de la ville."},
     facts: {
       de: ["Stadtbegrünung.", "Nachbarschaftshilfe."],
@@ -522,7 +511,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-03",
     coords: [30.70, -1.90],
     name: { de: "Akagera Flusspferd-Becken", hu: "Akagera Víziló-medence", ro: "Bazinul Hipopotamilor Akagera", en: "Akagera Hippo Pool"},
-    image: "/poi-images/akagera-hippo-pool-life-v2.webp",
     description: { de: "Ein geschützter Wasserbereich im Akagera-Nationalpark für Flusspferde.", hu: "Védett vízfelület az Akagera Nemzeti Parkban a vízilovak számára.", ro: "O zonă de apă protejată în Parcul Național Akagera pentru hipopotami.", en: "A protected water area in Akagera National Park for hippos." , es: "Una zona de agua protegida en el Parque Nacional Akagera para hipopótamos.", pt: "Uma área de água protegida no Parque Nacional Akagera para hipopótamos.", fr: "Une zone d'eau protégée dans le parc national de l'Akagera pour les hippopotames."},
     facts: {
       de: ["Häufige Sichtungen.", "Ruhezone für Tiere."],
@@ -720,7 +708,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-05",
     coords: [29.25, -2.45],
     name: { de: "Nyungwe Affenhabitat", hu: "Nyungwe Majomélőhely", ro: "Habitatul Maimuțelor Nyungwe", en: "Nyungwe Monkey Habitat"},
-    image: "/poi-images/nyungwe-monkey-habitat-life-v2.webp",
     description: { de: "Ein geschützter Lebensraum im Nyungwe-Regenwald für verschiedene Affenarten.", hu: "Védett élőhely a Nyungwe-esőerdőben különböző majomfajok számára.", ro: "Un habitat protejat în pădurea tropicală Nyungwe pentru diverse specii de maimuțe.", en: "A protected habitat in Nyungwe Rainforest for various monkey species." , es: "Un hábitat protegido en la selva tropical de Nyungwe para diversas especies de monos.", pt: "Um habitat protegido na floresta tropical de Nyungwe para várias espécies de macacos.", fr: "Un habitat protégé dans la forêt tropicale de Nyungwe pour diverses espèces de singes."},
     facts: {
       de: ["Vielfältige Primatenarten.", "Wanderwege durch den Wald."],
@@ -792,7 +779,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-01",
     coords: [29.27, -1.68],
     name: { de: "Rubavu Vogelpark", hu: "Rubavu Madárpark", ro: "Parcul Păsărilor Rubavu", en: "Rubavu Bird Park"},
-    image: "/poi-images/rubavu-bird-park-life-v2.webp",
     description: { de: "Ein kleiner Park bei Rubavu, der einheimische Vogelarten schützt.", hu: "Kis park Rubavu közelében, amely védi az őshonos madárfajokat.", ro: "Un mic parc lângă Rubavu care protejează speciile de păsări native.", en: "A small park near Rubavu that protects native bird species." , es: "Un pequeño parque cerca de Rubavu que protege especies de aves autóctonas.", pt: "Um pequeno parque perto de Rubavu que protege espécies de aves nativas.", fr: "Un petit parc près de Rubavu qui protège les espèces d'oiseaux locales."},
     facts: {
       de: ["Gute Beobachtungsmöglichkeiten.", "Nahe dem Kivusee."],
@@ -909,7 +895,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-03",
     coords: [30.72, -1.88],
     name: { de: "Akagera Zebra-Savanne", hu: "Akagera Zebra-szavanna", ro: "Savana Zebrelor Akagera", en: "Akagera Zebra Savanna"},
-    image: "/poi-images/akagera-zebra-savanna-life-v2.webp",
     description: { de: "Ein Savannengebiet im Park, das oft von Zebras bewohnt wird.", hu: "Savannaterület a parkban, amelyet gyakran zebrák laknak.", ro: "O zonă de savană din parc, locuită adesea de zebre.", en: "A savanna area in the park often inhabited by zebras." , es: "Una zona de sabana en el parque a menudo habitada por cebras.", pt: "Uma área de savana no parque frequentemente habitada por zebras.", fr: "Une zone de savane dans le parc souvent habitée par des zèbres."},
     facts: {
       de: ["Große Zebraherden.", "Offene Landschaft."],
@@ -945,7 +930,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-01",
     coords: [29.61, -1.52],
     name: { de: "Musanze Blumengarten", hu: "Musanze Virágoskert", ro: "Grădina de Flori Musanze", en: "Musanze Flower Garden"},
-    image: "/poi-images/musanze-flower-garden-life-v2.webp",
     description: { de: "Ein farbenfroher Garten, der oft für Familienbesuche genutzt wird.", hu: "Színpompás kert, amelyet gyakran használnak családi látogatásokhoz.", ro: "O grădină colorată, folosită adesea pentru vizite de familie.", en: "A colorful garden often used for family visits." , es: "Un jardín colorido que suele utilizarse para visitas familiares.", pt: "Um jardim colorido que é frequentemente utilizado para visitas familiares.", fr: "Un jardin coloré souvent utilisé pour les visites en famille."},
     facts: {
       de: ["Viele einheimische Blumen.", "Schöne Fotomöglichkeiten."],
@@ -981,7 +965,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-05",
     coords: [29.75, -2.60],
     name: { de: "Huye Milchfarm", hu: "Huye Tejfarm", ro: "Fermă de Lactate Huye", en: "Huye Dairy Farm"},
-    image: "/poi-images/huye-dairy-farm-life-v2.webp",
     description: { de: "Eine moderne Molkerei, die Schulungen für lokale Bauern anbietet.", hu: "Modern tejüzem, amely képzéseket kínál a helyi gazdáknak.", ro: "O fermă modernă de lactate care oferă instruire pentru fermierii locali.", en: "A modern dairy farm that offers training for local farmers." , es: "Una lechería moderna que ofrece formación a los agricultores locales.", pt: "Uma leitaria moderna que oferece formação aos agricultores locais.", fr: "Une laiterie moderne qui propose des formations aux agriculteurs locaux."},
     facts: {
       de: ["Nachhaltige Milchwirtschaft.", "Qualitätssicherung."],
@@ -1017,7 +1000,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-03",
     coords: [30.29, -2.33],
     name: { de: "Rweru Fischerlebnis für Kinder", hu: "Rweru halászati élmény gyerekeknek", ro: "Experiența de pescuit Rweru pentru copii", en: "Rweru Fishing Experience for Kids"},
-    image: "/poi-images/rweru-fishing-kids-life-v2.webp",
     description: { de: "Ein Ort am Rweru-See, an dem Kinder die Grundlagen des Fischens lernen können.", hu: "Helyszín a Rweru-tónál, ahol a gyerekek megtanulhatják a halászat alapjait.", ro: "Un loc la lacul Rweru unde copiii pot învăța bazele pescuitului.", en: "A place at Lake Rweru where kids can learn the basics of fishing." , es: "Un lugar en el lago Rweru donde los niños pueden aprender los conceptos básicos de la pesca.", pt: "Um local no Lago Rweru onde as crianças podem aprender as bases da pesca.", fr: "Un site au bord du lac Rweru où les enfants peuvent apprendre les bases de la pêche."},
     facts: {
       de: ["Lehrreiches Fischerlebnis.", "Sicherer Uferzugang."],
@@ -1053,7 +1035,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-04",
     coords: [30.08, -1.96],
     name: { de: "Kigali Ponyclub", hu: "Kigali Póniklub", ro: "Club de Ponei Kigali", en: "Kigali Pony Club"},
-    image: "/poi-images/kigali-pony-club-life-v2.webp",
     description: { de: "Eine Freizeiteinrichtung für Kinder, die Reiten lernen möchten.", hu: "Szabadidős létesítmény gyerekeknek, akik meg szeretnének tanulni lovagolni.", ro: "O facilitate de agrement pentru copiii care doresc să învețe să călărească.", en: "A recreational facility for kids who want to learn to ride." , es: "Una instalación recreativa para niños que desean aprender a montar a caballo.", pt: "Uma instalação de lazer para crianças que desejam aprender a andar a cavalo.", fr: "Une installation de loisirs pour les enfants qui souhaitent apprendre à monter à cheval."},
     facts: {
       de: ["Ponyreiten.", "Tierpflege-Unterricht."],
@@ -1089,7 +1070,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-01",
     coords: [29.62, -1.51],
     name: { de: "Musanze Gewächshaus", hu: "Musanze Üvegház", ro: "Seră Musanze", en: "Musanze Green House"},
-    image: "/poi-images/musanze-green-house-life-v2.webp",
     description: { de: "Ein modernes Gewächshausprojekt, das den Anbau exotischer Gemüsesorten zeigt.", hu: "Modern üvegházprojekt, amely bemutatja az egzotikus zöldségfajták termesztését.", ro: "Un proiect modern de seră care demonstrează cultivarea legumelor exotice.", en: "A modern greenhouse project showcasing the cultivation of exotic vegetables." , es: "Un moderno proyecto de invernaderos que muestra el cultivo de variedades exóticas de verduras.", pt: "Um moderno projeto de estufas que mostra o cultivo de variedades exóticas de vegetais.", fr: "Un projet de serre moderne présentant la culture de variétés de légumes exotiques."},
     facts: {
       de: ["Effiziente Anbaumethoden.", "Ganzjährige Produktion."],
@@ -1125,7 +1105,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-03",
     coords: [30.73, -1.86],
     name: { de: "Akagera Giraffen-Savanne", hu: "Akagera Zsiráf-szavanna", ro: "Savana Girafelor Akagera", en: "Akagera Giraffe Savanna"},
-    image: "/poi-images/akagera-giraffe-savanna-life-v2.webp",
     description: { de: "Ein Savannengebiet, das für seine Giraffenpopulation bekannt ist.", hu: "Szavannaterület, amely híres zsiráfpopulációjáról.", ro: "O zonă de savană, cunoscută pentru populația sa de girafe.", en: "A savanna area known for its giraffe population." , es: "Una zona de sabana conocida por su población de jirafas.", pt: "Uma área de savana conhecida pela sua população de girafas.", fr: "Une zone de sabane connue pour sa population de girafes."},
     facts: {
       de: ["Häufige Giraffensichtungen.", "Weite Ausblicke."],
@@ -1161,7 +1140,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-05",
     coords: [29.75, -2.63],
     name: { de: "Huye Geflügelfarm", hu: "Huye Baromfifarm", ro: "Fermă de Păsări Huye", en: "Huye Poultry Farm"},
-    image: "/poi-images/huye-poultry-farm-life-v2.webp",
     description: { de: "Eine Farm, die sich auf die Hühnerhaltung spezialisiert hat und lokale Märkte beliefert.", hu: "Farm, amely a baromfitenyésztésre szakosodott és helyi piacokat lát el.", ro: "O fermă specializată în creșterea păsărilor care aprovizionează piețele locale.", en: "A farm specializing in poultry farming and supplying local markets." , es: "Una granja especializada en la cría de pollos que abastece a los mercados locales.", pt: "Uma fazenda especializada na criação de galinhas que abastece os mercados locais.", fr: "Une ferme spécialisée dans l'élevage de poulets qui approvisionne les marchés locaux."},
     facts: {
       de: ["Freilandhaltung.", "Frische Eier."],
@@ -1197,7 +1175,6 @@ export const poiExtraRwandaLifeV2: POI[] = [
     parent: "RW-01",
     coords: [29.26, -1.72],
     name: { de: "Rubavu Familienstrand", hu: "Rubavu Családi Strand", ro: "Plaja Familiei Rubavu", en: "Rubavu Family Beach"},
-    image: "/poi-images/rubavu-family-beach-life-v2.webp",
     description: { de: "Ein sicherer Abschnitt am Kivu-See, beliebt bei Familien zum Baden.", hu: "Biztonságos szakasz a Kivu-tónál, népszerű a családok körében fürdésre.", ro: "O secțiune sigură la lacul Kivu, populară printre familii pentru înot.", en: "A safe section at Lake Kivu, popular with families for swimming." , es: "Un tramo seguro del lago Kivu, popular entre las familias para nadar.", pt: "Um trecho seguro do Lago Kivu, popular entre as famílias para nadar.", fr: "Une section sûre du lac Kivu, appréciée des familles pour la baignade."},
     facts: {
       de: ["Ruhiges Wasser.", "Sandstrand."],

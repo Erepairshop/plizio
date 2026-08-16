@@ -112,7 +112,6 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       pt: ["O rio mais longo da Guiana Francesa com 612 km.", "A bacia abrange cerca de 68.000 quilómetros quadrados.", "Afluentes importantes são o Tapanahoni e o Lawa.", "A foz forma um grande estuário vital para tartarugas marinhas.", "Famoso por rápidos perigosos como o Saut Hermina.", "Serve como artéria vital para a cidade de Saint-Laurent-du-Maroni."],
       fr: ["Plus long fleuve de Guyane française avec 612 km.", "Le bassin versant couvre environ 68 000 kilomètres carrés.", "Les affluents majeurs sont le Tapanahoni et la Lawa.", "L'embouchure forme un immense estuaire important pour les tortues marines.", "Réputé pour ses rapides dangereux comme le Saut Hermina.", "Sert d'artère vitale pour la ville de Saint-Laurent-du-Maroni."],
     }, },
-    image: "/poi-images/maroni-river-nature-v2.webp",
     description: {
       de: "Der Maroni ist der längste Fluss Französisch-Guayanas und bildet die Grenze zu Suriname.",
       hu: "A Maroni Francia Guyana leghosszabb folyója, amely Suriname-mal alkot természetes határt.",
@@ -207,7 +206,6 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       pt: ["Forma toda a fronteira leste da Guiana Francesa com o Brasil.", "A ponte sobre o Oiapoque tem 378 metros de comprimento e foi aberta ao tráfego em 2017.", "O rio nasce no Parque Amazônico da Guiana.", "Corredeiras famosas são o 'Saut Maripa', perto de Saint-Georges.", "A foz forma uma baía enorme, a Baía do Oiapoque.", "É o segundo rio fronteiriço mais longo do departamento."],
       fr: ["Forme toute la frontière est de la Guyane française avec le Brésil.", "Le pont sur l'Oyapock mesure 378 mètres de long et a ouvert au trafic en 2017.", "Le fleuve prend sa source dans le Parc Amazonien de Guyane.", "Les sauts célèbres incluent le 'Saut Maripa' près de Saint-Georges.", "L'embouchure forme une immense baie, la baie de l'Oyapock.", "C'est le deuxième plus long fleuve frontalier du département."],
     }, },
-    image: "/poi-images/oyapock-river-nature-v2.webp",
     description: {
       de: "Der Oyapock bildet die natürliche Grenze zwischen Französisch-Guayana und Brasilien.",
       hu: "Az Oyapock folyó alkotja a természetes határt Francia Guyana és Brazília között.",
@@ -446,7 +444,6 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       pt: ["Desagua no Atlântico entre Caiena e a fronteira brasileira.", "O 'Grand Machicou' é um dos maiores rápidos do departamento.", "O rio passa pela aldeia de Régina, porta de entrada para o leste da Guiana.", "Alberga a reserva natural de Nouragues na sua bacia.", "Historicamente importante para o transporte de madeiras preciosas e ouro.", "A velocidade do fluxo pode aumentar drasticamente na época das chuvas."],
       fr: ["Se jette dans l'Atlantique entre Cayenne et la frontière brésilienne.", "Le 'Grand Machicou' est l'un des plus grands sauts du département.", "Le fleuve traverse le village de Régina, porte d'entrée de l'est guyanais.", "Abrite la réserve naturelle des Nouragues dans son bassin versant.", "Historiquement important pour le transport de bois précieux et d'or.", "Le débit peut augmenter considérablement pendant la saison des pluies."],
     }, },
-    image: "/poi-images/approuague-river-nature-v2.webp",
     description: {
       de: "Der Approuague ist bekannt für seine Stromschnellen und war historisch bedeutsam für die Goldsuche.",
       hu: "Az Approuague zuhatagairól ismert, és történelmileg fontos volt az aranyásók számára.",
@@ -577,7 +574,6 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       pt: ["A albufeira cobre uma área de aprox. 36.500 hectares.", "A central hidroelétrica tem uma potência instalada de 114 MW.", "Milhares de hectares de floresta primária ficaram submersos.", "O lago situa-se no rio Sinnamary, no interior.", "Importante área de investigação sobre emissões de metano em albufeiras.", "A navegação é extremamente perigosa devido aos troncos submersos."],
       fr: ["Le réservoir couvre une superficie d'environ 36 500 hectares.", "La centrale hydroélectrique a une puissance installée de 114 MW.", "Des milliers d'hectares de forêt primaire ont été submergés.", "Le lac est situé sur le fleuve Sinnamary, à l'intérieur des terres.", "C'est une zone de recherche importante pour les émissions de méthane.", "La navigation est extrêmement dangereuse à cause des troncs d'arbres."],
     }, },
-    image: "/poi-images/lac-de-petit-saut-nature-v2.webp",
     description: {
       de: "Der Lac de Petit-Saut ist ein großer Stausee, der zur Stromerzeugung für Französisch-Guayana dient.",
       hu: "A Petit-Saut-tó egy hatalmas víztározó, amely Francia Guyana áramellátását biztosítja.",
@@ -912,7 +908,6 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       pt: ["Localizada a apenas 15 quilômetros a oeste da cidade de Kourou.", "O trilho circular tem cerca de 4 quilômetros de comprimento.", "O nome refere-se aos frequentes avistamentos de bugios.", "Do cume é possível ver as plataformas de lançamento de foguetes da ESA.", "A floresta abriga mais de 100 espécies de árvores diferentes por hectare.", "Um local popular para observação de aves, especialmente tucanos."],
       fr: ["Située à seulement environ 15 kilomètres à l'ouest de Kourou.", "Le sentier en boucle mesure environ 4 kilomètres de long.", "Le nom fait référence aux observations fréquentes de singes hurleurs.", "Depuis le sommet, on peut voir les sites de lancement de fusées de l'ESA.", "La forêt abrite plus de 100 espèces d'arbres différentes par hectare.", "Un lieu prisé pour l'observation des oiseaux, notamment des toucans."],
     }, },
-    image: "/poi-images/montagne-des-singes-nature-v2.webp",
     description: {
       de: "Die Montagne des Singes in der Nähe von Kourou bietet Wanderwege und eine gute Aussicht auf den Weltraumbahnhof.",
       hu: "A Kourou közelében található Montagne des Singes túraútvonalakat és kiváló kilátást kínál az űrközpontra.",
@@ -1007,7 +1002,6 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       pt: ["O ponto mais alto da Montanha de Kaw fica a cerca de 330 metros.", "A reserva natural adjacente foi criada oficialmente em 1998.", "Abrange uma área protegida de 94.700 hectares.", "A região regista chuvas anuais de mais de 4.000 milímetros.", "Mais de 500 espécies de aves foram documentadas na zona.", "Alberga uma das maiores populações de caimão negro."],
       fr: ["Le point culminant de la montagne de Kaw se situe à environ 330 mètres.", "La réserve naturelle adjacente a été officiellement créée le 13 mars 1998.", "Elle s'étend sur une zone protégée de 94 700 hectares au total.", "La région enregistre des précipitations annuelles de plus de 4 000 millimètres.", "Plus de 500 espèces d'oiseaux différentes ont été documentées dans la zone.", "La montagne de Kaw abrite l'une des plus grandes populations de caïmans noirs."],
     }, },
-    image: "/poi-images/montagne-de-kaw-nature-v2.webp",
     description: {
       de: "Die Montagne de Kaw ist Teil eines großen Naturschutzgebiets und bekannt für ihre Sumpfgebiete.",
       hu: "A Montagne de Kaw egy hatalmas természetvédelmi terület része, és mocsaras vidékeiről ismert.",
@@ -1057,7 +1051,6 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       pt: ["O Sommet Tabulaire atinge uma altura máxima de cerca de 830 metros.", "Geologicamente pertence às formações rochosas mais antigas da Terra.", "A forma do cume assemelha-se às montanhas de mesa (tepuis) da América do Sul.", "A temperatura média no planalto é cerca de 5 graus inferior à da costa.", "Situa-se dentro do Parque Amazônico da Guiana (Parc Amazonien de Guyane).", "Várias espécies raras de orquídeas foram descobertas no topo."],
       fr: ["Le Sommet Tabulaire atteint une altitude maximale d'environ 830 mètres.", "Il appartient géologiquement aux formations rocheuses les plus anciennes de la Terre.", "La forme du sommet rappelle les montagnes tabulaires (tepuys) d'Amérique du Sud.", "La température moyenne sur le plateau est environ 5 degrés plus basse que sur la côte.", "Il est situé au sein du Parc Amazonien de Guyane.", "Plusieurs espèces d'orchidées rares ont été découvertes au sommet."],
     }, },
-    image: "/poi-images/sommet-tabulaire-nature-v2.webp",
     description: {
       de: "Der Sommet Tabulaire ist ein markanter Tafelberg im Zentrum von Französisch-Guayana.",
       hu: "A Sommet Tabulaire egy jellegzetes táblahegy Francia Guyana központjában.",

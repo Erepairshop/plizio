@@ -8,7 +8,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-ER",
     coords: [15.0, -24.5],
     name: { de: "Namibwüste", hu: "Namib-sivatag", ro: "Deșertul Namib", en: "Namib Desert"},
-    image: "/poi-images/na-namib-desert-nature-v2.webp",
     description: { de: "Die älteste Wüste der Welt entlang der Küste.", hu: "A világ legrégebbi sivataga a tengerpart mentén.", ro: "Cel mai vechi deșert din lume de-a lungul coastei.", en: "The oldest desert in the world along the coast." , es: "El desierto más antiguo del mundo a lo largo de la costa.", pt: "O deserto mais antigo do mundo ao longo da costa.", fr: "Le plus vieux désert du monde le long de la côte."},
     facts: {
       de: ["Älteste Wüste der Welt", "Erstreckt sich entlang der Atlantikküste", "Bekannt für riesige Sanddünen", "Gehört zum UNESCO-Welterbe"],
@@ -49,7 +48,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-OH",
     coords: [20.0, -23.0],
     name: { de: "Kalahari-Wüste", hu: "Kalahári-sivatag", ro: "Deșertul Kalahari", en: "Kalahari Desert"},
-    image: "/poi-images/na-kalahari-desert-nature-v2.webp",
     description: { de: "Ein riesiges semi-arides Becken im Inneren Namibias.", hu: "Hatalmas félszáraz medence Namíbia belsejében.", ro: "Un bazin vast semiarid în interiorul Namibiei.", en: "A vast semi-arid basin in the interior of Namibia." , es: "Una vasta cuenca semiárida en el interior de Namibia.", pt: "Uma vasta bacia semiárida no interior da Namíbia.", fr: "Un vaste bassin semi-aride à l'intérieur de la Namibie."},
     facts: {
       de: ["Bedeckt große Teile Namibias", "Semi-arides Becken", "Bekannt für seine rote Erde", "Heimat zahlreicher Tierarten"],
@@ -90,7 +88,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-OS",
     coords: [16.5, -18.8],
     name: { de: "Etosha-Pfanne", hu: "Etosha-medence", ro: "Depresiunea Etosha", en: "Etosha Pan"},
-    image: "/poi-images/na-etosha-pan-nature-v2.webp",
     description: { de: "Eine riesige Salzpfanne im Etosha-Nationalpark.", hu: "Hatalmas sómedence az Etosha Nemzeti Parkban.", ro: "O vastă depresiune salină în Parcul Național Etosha.", en: "A vast salt pan in Etosha National Park." , es: "Una enorme cuenca de sal en el Parque Nacional Etosha.", pt: "Uma enorme salina no Parque Nacional de Etosha.", fr: "Une immense cuvette saline dans le parc national d'Etosha."},
     facts: {
       de: ["Riesige Salzpfanne", "Zentrum des Etosha-Nationalparks", "Sichtbar aus dem Weltraum", "Lebensraum für viele Tiere"],
@@ -131,7 +128,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-KA",
     coords: [17.0, -28.5],
     name: { de: "Oranje-Fluss", hu: "Oranje folyó", ro: "Râul Oranje", en: "Orange River"},
-    image: "/poi-images/na-orange-river-nature-v2.webp",
     description: { de: "Der längste Fluss Südafrikas, der die Grenze bildet.", hu: "Dél-Afrika leghosszabb folyója, amely a határt alkotja.", ro: "Cel mai lung râu din Africa de Sud, care formează granița.", en: "The longest river in South Africa, forming the border." , es: "El río más largo de Sudáfrica, que forma la frontera.", pt: "O rio mais longo da África do Sul, que forma a fronteira.", fr: "Le plus long fleuve d'Afrique du Sud, qui forme la frontière."},
     facts: {
       de: ["Grenzfluss zu Südafrika", "Längster Fluss Südafrikas", "Wichtig für die Landwirtschaft", "Entspringt in den Drakensbergen"],
@@ -172,7 +168,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-KU",
     coords: [12.5, -17.2],
     name: { de: "Kunene-Fluss", hu: "Kunene folyó", ro: "Râul Kunene", en: "Kunene River"},
-    image: "/poi-images/na-kunene-river-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss an der Grenze zu Angola.", hu: "Jelentős folyó az angolai határon.", ro: "Un râu semnificativ la granița cu Angola.", en: "A significant river on the border with Angola." , es: "Un río importante en la frontera con Angola.", pt: "Um rio importante na fronteira com Angola.", fr: "Un fleuve important à la frontière avec l'Angola."},
     facts: {
       de: ["Grenzfluss zu Angola", "Speist die Epupa-Fälle", "Lebensader im Norden", "Biodiverses Flussökosystem"],
@@ -258,7 +253,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-ER",
     coords: [14.5, -21.1],
     name: { de: "Brandberg", hu: "Brandberg-hegy", ro: "Muntele Brandberg", en: "Brandberg Mountain"},
-    image: "/poi-images/na-brandberg-mountain-nature-v2.webp",
     description: { de: "Der höchste Berg Namibias.", hu: "Namíbia legmagasabb hegye.", ro: "Cel mai înalt munte din Namibia.", en: "The highest mountain in Namibia." , es: "La montaña más alta de Namibia.", pt: "A montanha mais alta da Namíbia.", fr: "La plus haute montagne de Namibie."},
     facts: {
       de: ["Höchster Berg Namibias", "Königstein ist der höchste Gipfel", "Berühmt für Felsmalereien", "Granitmassiv in der Wüste"],
@@ -344,7 +338,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-ER",
     coords: [15.1, -21.8],
     name: { de: "Spitzkoppe", hu: "Spitzkoppe", ro: "Spitzkoppe", en: "Spitzkoppe"},
-    image: "/poi-images/na-spitzkoppe-nature-v2.webp",
     description: { de: "Eine markante Gruppe von Granitgipfeln.", hu: "Markáns gránitcsúcs-csoport.", ro: "Un grup distinctiv de vârfuri de granit.", en: "A striking group of granite peaks." , es: "Un grupo prominente de picos de granito.", pt: "Um grupo proeminente de picos de granito.", fr: "Un groupe imposant de sommets granitiques."},
     facts: {
       de: ["Bekannt als 'Matterhorn Namibias'", "Markante Granitfelsen", "Beliebt bei Kletterern", "Spektakuläre Felsformationen"],
@@ -385,7 +378,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-OT",
     coords: [17.2, -20.5],
     name: { de: "Waterberg", hu: "Waterberg-fennsík", ro: "Platoul Waterberg", en: "Waterberg Plateau"},
-    image: "/poi-images/na-waterberg-nature-v2.webp",
     description: { de: "Ein bedeutendes Plateau-Schutzgebiet.", hu: "Jelentős fennsík-természetvédelmi terület.", ro: "O importantă rezervație naturală pe platou.", en: "An important plateau nature reserve." , es: "Una importante reserva en una meseta.", pt: "Uma importante reserva num planalto.", fr: "Une réserve importante située sur un plateau."},
     facts: {
       de: ["Sandsteinplateau", "Schutzgebiet für seltene Arten", "Grüne Oase", "Historischer Ort"],
@@ -426,7 +418,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-ER",
     coords: [13.5, -20.0],
     name: { de: "Skelettküste", hu: "Csontvázpart", ro: "Coasta Scheletelor", en: "Skeleton Coast"},
-    image: "/poi-images/na-skeletons-coast-nature-v2.webp",
     description: { de: "Ein wilder Küstenabschnitt am Atlantik.", hu: "Vad partszakasz az Atlanti-óceán mentén.", ro: "O secțiune de coastă sălbatică la Atlantic.", en: "A wild coastal section on the Atlantic." , es: "Un tramo de costa salvaje en el Atlántico.", pt: "Um trecho de costa selvagem no Atlântico.", fr: "Une section de côte sauvage au bord de l'Atlantique."},
     facts: {
       de: ["Bekannt für Schiffswracks", "Neblige Atlantikküste", "Einsame Wüstenlandschaft", "Namensgebend sind Walknochen"],
@@ -467,7 +458,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-ER",
     coords: [14.4, -21.7],
     name: { de: "Cape Cross", hu: "Cape Cross", ro: "Cape Cross", en: "Cape Cross"},
-    image: "/poi-images/na-cape-cross-nature-v2.webp",
     description: { de: "Ein bekanntes Robbenreservat.", hu: "Jelentős fókarezervátum.", ro: "O cunoscută rezervație de foci.", en: "A well-known seal reserve." , es: "Una conocida reserva de focas.", pt: "Uma reserva de focas bem conhecida.", fr: "Une réserve d'otaries renommée."},
     facts: {
       de: ["Größte Robbenkolonie Namibias", "Historischer Landeplatz", "Teil eines Schutzgebiets", "Sehenswerte Küste"],
@@ -508,7 +498,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-ER",
     coords: [15.3, -24.7],
     name: { de: "Sossusvlei", hu: "Sossusvlei", ro: "Sossusvlei", en: "Sossusvlei"},
-    image: "/poi-images/na-dunes-sossusvlei-nature-v2.webp",
     description: { de: "Eine Salz- und Tonpfanne umgeben von hohen Dünen.", hu: "Sós-agyagos medence, magas dűnékkel körülvéve.", ro: "O depresiune de sare și argilă înconjurată de dune înalte.", en: "A salt and clay pan surrounded by high dunes." , es: "Una cuenca de sal y arcilla rodeada de dunas altas.", pt: "Uma bacia de sal e argila rodeada por dunas altas.", fr: "Une cuvette de sel et d'argile entourée de hautes dunes."},
     facts: {
       de: ["Berühmte Sanddünen", "Fotografen-Hotspot", "Teil der Namibwüste", "Hohe rote Dünen"],
@@ -549,7 +538,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-ER",
     coords: [15.3, -24.7],
     name: { de: "Deadvlei", hu: "Deadvlei", ro: "Deadvlei", en: "Deadvlei"},
-    image: "/poi-images/na-dead-vlei-nature-v2.webp",
     description: { de: "Eine weiße Pfanne mit abgestorbenen Kameldornbäumen.", hu: "Fehér medence elhalt teveakác fákkal.", ro: "O depresiune albă cu copaci morți de acacia.", en: "A white pan with dead camel thorn trees." , es: "Una cuenca blanca con acacias muertas.", pt: "Uma bacia branca com acácias mortas.", fr: "Une cuvette blanche parsemée d'acacias brûlés."},
     facts: {
       de: ["Bekannt für die toten Bäume", "Kontrastreiche Landschaft", "Weiße Salzpfanne", "Symbol der Wüste"],
@@ -590,7 +578,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-ER",
     coords: [15.0, -23.5],
     name: { de: "Kuiseb-Fluss", hu: "Kuiseb folyó", ro: "Râul Kuiseb", en: "Kuiseb River"},
-    image: "/poi-images/na-kuiseb-river-nature-v2.webp",
     description: { de: "Ein saisonaler Fluss, der den Namib-Sand begrenzt.", hu: "Időszakos folyó, amely határolja a Namib-homokot.", ro: "Un râu sezonier care delimitează nisipurile din Namib.", en: "A seasonal river that delimits the Namib sands." , es: "Un río estacional que limita las arenas del Namib.", pt: "Um rio sazonal que delimita as areias do Namibe.", fr: "Une rivière saisonnière qui délimite les sables du Namib."},
     facts: {
       de: ["Trockenflussbett", "Begrenzt die Dünen", "Wichtiger Lebensraum", "Interessante Geologie"],
@@ -631,7 +618,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-ER",
     coords: [14.6, -22.7],
     name: { de: "Swakop-Fluss", hu: "Swakop folyó", ro: "Râul Swakop", en: "Swakop River"},
-    image: "/poi-images/na-swakop-river-nature-v2.webp",
     description: { de: "Ein bedeutender Wüstenfluss bei Swakopmund.", hu: "Jelentős sivatagi folyó Swakopmund közelében.", ro: "Un râu important de deșert lângă Swakopmund.", en: "A significant desert river near Swakopmund." , es: "Un río importante del desierto cerca de Swakopmund.", pt: "Um rio importante do deserto perto de Swakopmund.", fr: "Un fleuve désertique important près de Swakopmund."},
     facts: {
       de: ["Wüstenfluss", "Endet am Atlantik", "Wichtige Wasserquelle", "Schluchtenlandschaften"],
@@ -672,7 +658,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-ER",
     coords: [15.5, -24.5],
     name: { de: "Tsauchab-Fluss", hu: "Tsauchab folyó", ro: "Râul Tsauchab", en: "Tsauchab River"},
-    image: "/poi-images/na-tsauchab-river-nature-v2.webp",
     description: { de: "Ein saisonaler Fluss, der Sossusvlei speist.", hu: "Időszakos folyó, amely táplálja a Sossusvleit.", ro: "Un râu sezonier care alimentează Sossusvlei.", en: "A seasonal river that feeds Sossusvlei." , es: "Un río estacional que alimenta Sossusvlei.", pt: "Um rio sazonal que alimenta Sossusvlei.", fr: "Une rivière saisonnière qui alimente Sossusvlei."},
     facts: {
       de: ["Speist die Salzpfanne", "Fließt durch die Wüste", "Trockenes Flussbett meistens", "Wichtige Wasserader"],
@@ -758,7 +743,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-KU",
     coords: [12.6, -18.6],
     name: { de: "Hoarusib-Fluss", hu: "Hoarusib folyó", ro: "Râul Hoarusib", en: "Hoarusib River"},
-    image: "/poi-images/na-hoarusib-river-nature-v2.webp",
     description: { de: "Ein ephemerer Fluss im Kaokoveld.", hu: "Efemer folyó a Kaokoveld-ben.", ro: "Un râu efemer în Kaokoveld.", en: "An ephemeral river in the Kaokoveld." , es: "Un río efímero en Kaokoveld.", pt: "Um rio efêmero no Kaokoveld.", fr: "Une rivière éphémère dans le Kaokoveld."},
     facts: {
       de: ["Wüstenfluss", "Lebensraum der Wüstenelefanten", "Kaokoveld Region", "Trockenes Flussbett"],
@@ -799,7 +783,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-KU",
     coords: [12.7, -19.1],
     name: { de: "Hoanib-Fluss", hu: "Hoanib folyó", ro: "Râul Hoanib", en: "Hoanib River"},
-    image: "/poi-images/na-hoanib-river-nature-v2.webp",
     description: { de: "Ein bekannter Wüstenfluss im Nordwesten.", hu: "Ismert sivatagi folyó északnyugaton.", ro: "Un râu de deșert bine cunoscut în nord-vest.", en: "A well-known desert river in the northwest." , es: "Un conocido río del desierto en el noroeste.", pt: "Um conhecido rio do deserto no noroeste.", fr: "Une célèbre rivière du désert dans le nord-ouest."},
     facts: {
       de: ["Trockenflussbett", "Wildtierkorridor", "Wüstenelefanten", "Namib-Wüste"],
@@ -840,7 +823,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-ER",
     coords: [14.0, -21.0],
     name: { de: "Ugab-Fluss", hu: "Ugab folyó", ro: "Râul Ugab", en: "Ugab River"},
-    image: "/poi-images/na-ugab-river-nature-v2.webp",
     description: { de: "Ein Fluss, der die Skelettküste begrenzt.", hu: "Folyó, amely határolja a Csontvázpartot.", ro: "Un râu care delimitează Coasta Scheletelor.", en: "A river that delimits the Skeleton Coast." , es: "Un río que delimita la Costa de los Esqueletos.", pt: "Um rio que delimita a Costa dos Esqueletos.", fr: "Une rivière qui borde la Côte des Squelettes."},
     facts: {
       de: ["Wüstenfluss", "Lebensraum", "Grenze Skelettküste", "Landschaftsbildend"],
@@ -881,7 +863,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-KA",
     coords: [17.5, -26.0],
     name: { de: "Fischfluss", hu: "Hal-folyó", ro: "Râul Fish", en: "Fish River"},
-    image: "/poi-images/na-fish-river-nature-v2.webp",
     description: { de: "Der längste namibische Fluss im Inland.", hu: "Namíbia leghosszabb belföldi folyója.", ro: "Cel mai lung râu interior din Namibia.", en: "The longest inland Namibian river." , es: "El río interior más largo de Namibia.", pt: "O rio interior mais longo da Namíbia.", fr: "Le plus long fleuve intérieur de Namibie."},
     facts: {
       de: ["Längster Binnenfluss", "Speist Hardap-Damm", "Spektakulärer Canyon", "Wüstenfluss"],
@@ -967,7 +948,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-HA",
     coords: [17.8, -24.5],
     name: { de: "Hardap-Damm", hu: "Hardap-gát", ro: "Barajul Hardap", en: "Hardap Dam"},
-    image: "/poi-images/na-hardap-dam-nature-v2.webp",
     description: { de: "Der größte Stausee Namibias.", hu: "Namíbia legnagyobb víztározója.", ro: "Cel mai mare lac de acumulare din Namibia.", en: "The largest reservoir in Namibia." , es: "El embalse más grande de Namibia.", pt: "A maior albufeira da Namíbia.", fr: "Le plus grand réservoir de Namibie."},
     facts: {
       de: ["Größter Stausee", "Wichtig für Bewässerung", "Freizeitgebiet", "Vogelparadies"],
@@ -1053,7 +1033,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-OS",
     coords: [17.5, -19.2],
     name: { de: "Otjikoto-See", hu: "Otjikoto-tó", ro: "Lacul Otjikoto", en: "Otjikoto Lake"},
-    image: "/poi-images/na-otjikoto-lake-nature-v2.webp",
     description: { de: "Ein kleiner, tiefer Karstsee.", hu: "Egy kicsi, mély karszttó.", ro: "Un mic lac carstic, adânc.", en: "A small, deep karst lake." , es: "Un pequeño y profundo lago kárstico.", pt: "Um pequeno e profundo lago cárstico.", fr: "Un petit lac karstique profond."},
     facts: {
       de: ["Karstsee", "Historische Bedeutung", "Tiefes Wasser", "Besucherattraktion"],
@@ -1094,7 +1073,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-OS",
     coords: [17.3, -19.2],
     name: { de: "Guinas-See", hu: "Guinas-tó", ro: "Lacul Guinas", en: "Guinas Lake"},
-    image: "/poi-images/na-guinas-lake-nature-v2.webp",
     description: { de: "Ein weiterer bekannter Karstsee.", hu: "Egy másik ismert karszttó.", ro: "Un alt lac carstic cunoscut.", en: "Another well-known karst lake." , es: "Otro conocido lago cárstico.", pt: "Outro conhecido lago cárstico.", fr: "Un autre lac karstique bien connu."},
     facts: {
       de: ["Karstsee", "Klares Wasser", "Sehr tief", "Naturschönheit"],
@@ -1135,7 +1113,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-ER",
     coords: [14.0, -21.0],
     name: { de: "Nylon Pool (Namibia)", hu: "Nylon-medence", ro: "Piscina Nylon", en: "Nylon Pool"},
-    image: "/poi-images/na-nylon-pool-nature-v2.webp",
     description: { de: "Ein kristallklares, flaches Naturschwimmbecken.", hu: "Kristálytiszta, sekély természetes úszómedence.", ro: "O piscină naturală cristalină și puțin adâncă.", en: "A crystal-clear, shallow natural swimming pool." , es: "Una piscina natural de aguas cristalinas y poca profundidad.", pt: "Uma piscina natural rasa de águas cristalinas.", fr: "Une piscine naturelle peu profonde aux eaux cristallines."},
     facts: {
       de: ["Flaches Wasser", "Sehr klar", "Naturschönheit", "Entspannungsort"],
@@ -1176,7 +1153,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-ZA",
     coords: [24.0, -17.5],
     name: { de: "Caprivi-Auen", hu: "Caprivi-ártér", ro: "Luncile inundabile Caprivi", en: "Caprivi Floodplains"},
-    image: "/poi-images/na-caprivi-floodplains-nature-v2.webp",
     description: { de: "Überschwemmungsgebiete am Sambesi-Fluss.", hu: "Ártéri területek a Zambézi folyó mentén.", ro: "Zone inundabile de-a lungul râului Zambezi.", en: "Floodplains along the Zambezi River." , es: "Llanuras aluviales junto al río Zambeze.", pt: "Planícies de inundação junto ao rio Zambeze.", fr: "Plaines inondables au bord du fleuve Zambèze."},
     facts: {
       de: ["Überschwemmungsgebiet", "Sambesi-Nähe", "Biodiversität", "Feuchtgebiet"],
@@ -1217,7 +1193,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-ZA",
     coords: [24.5, -17.8],
     name: { de: "Chobe-Fluss", hu: "Chobe folyó", ro: "Râul Chobe", en: "Chobe River"},
-    image: "/poi-images/na-chobe-river-nature-v2.webp",
     description: { de: "Ein bedeutender Nebenfluss in der Caprivi-Region.", hu: "Jelentős mellékfolyó a Caprivi régióban.", ro: "Un afluent semnificativ în regiunea Caprivi.", en: "A significant tributary in the Caprivi region." , es: "Un importante afluente en la región de Caprivi.", pt: "Um importante afluente na região de Caprivi.", fr: "Un affluent majeur dans la région de Caprivi."},
     facts: {
       de: ["Reich an Wildtieren", "Grenznah", "Flussökosystem", "Schutzgebiet"],
@@ -1303,7 +1278,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-ZA",
     coords: [23.5, -18.0],
     name: { de: "Kwando-Fluss", hu: "Kwando folyó", ro: "Râul Kwando", en: "Kwando River"},
-    image: "/poi-images/na-kwando-river-nature-v2.webp",
     description: { de: "Ein Flusslauf im Nordosten Namibias.", hu: "Folyófolyam Namíbia északkeleti részén.", ro: "Un curs de râu în nord-estul Namibiei.", en: "A river course in northeastern Namibia." , es: "Un curso de agua en el noreste de Namibia.", pt: "Um curso de água no nordeste da Namíbia.", fr: "Un cours d'eau dans le nord-est de la Namibie."},
     facts: {
       de: ["Flusslauf", "Caprivi-Region", "Wildtierreich", "Ökosystem"],
@@ -1344,7 +1318,6 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     parent: "NA-ZA",
     coords: [24.3, -17.7],
     name: { de: "Sambesi-Fluss", hu: "Zambézi folyó", ro: "Râul Zambezi", en: "Zambezi River"},
-    image: "/poi-images/na-zambezi-river-nature-v2.webp",
     description: { de: "Ein bedeutender afrikanischer Fluss.", hu: "Jelentős afrikai folyó.", ro: "Un râu african semnificativ.", en: "A significant African river." , es: "Un río africano importante.", pt: "Um rio africano importante.", fr: "Un fleuve africain majeur."},
     facts: {
       de: ["Großer afrikanischer Fluss", "Caprivi-Grenze", "Biodivers", "Wichtig"],

@@ -57,7 +57,6 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: "Hlane Királyi Nemzeti Park",
       ro: "Parcul Național Regal Hlane",
       en: "Hlane Royal National Park"},
-    image: "/poi-images/hlane-national-park-life-v2.webp",
     description: {
       de: "Eswatinis größtes Schutzgebiet beheimatet Löwen, Elefanten und Nashörner in einer weiten Savannenlandschaft.",
       hu: "Eswatini legnagyobb védett területe oroszlánoknak, elefántoknak és orrszarvúknak ad otthont a szavannán.",
@@ -105,7 +104,6 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: "Mkhaya Vadvédelmi Rezervátum",
       ro: "Rezervația de animale Mkhaya",
       en: "Mkhaya Game Reserve"},
-    image: "/poi-images/mkhaya-game-reserve-life-v2.webp",
     description: {
       de: "Ein Zufluchtsort für bedrohte Tierarten, besonders berühmt für seine Population von schwarzen und weißen Nashörnern.",
       hu: "Veszélyeztetett fajok menedékhelye, különösen híres fekete és fehér orrszarvú állományáról.",
@@ -234,7 +232,6 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: "Mlilwane Vadvédelmi Terület",
       ro: "Sanctuarul de animale Mlilwane",
       en: "Mlilwane Wildlife Sanctuary"},
-    image: "/poi-images/mlilwane-sanctuary-life-v2.webp",
     description: {
       de: "Das erste Naturschutzgebiet in Eswatini, wo Besucher zwischen Zebras und verschiedenen Antilopenarten wandern können.",
       hu: "Eswatini első természetvédelmi területe, ahol a látogatók zebrák és antilopok között sétálhatnak.",
@@ -327,7 +324,6 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: "Mbuluzi Vadvédelmi Terület",
       ro: "Rezervația de animale Mbuluzi",
       en: "Mbuluzi Game Reserve"},
-    image: "/poi-images/mbuluzi-game-reserve-life-v2.webp",
     description: {
       de: "Ein privates Reservat am Mbuluzi-Fluss, das für seine vielfältige Vogelwelt und Giraffen bekannt ist.",
       hu: "Egy magánkézben lévő rezervátum a Mbuluzi-folyó mentén, amely gazdag madárvilágáról és zsiráfjairól ismert.",
@@ -375,7 +371,6 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: "Mlawula Természetvédelmi Terület",
       ro: "Rezervația Naturală Mlawula",
       en: "Mlawula Nature Reserve"},
-    image: "/poi-images/mlawula-reserve-life-v2.webp",
     description: {
       de: "Ein zerklüftetes Gebiet am Fuße der Lubombo-Berge, das seltene Pflanzenarten und vielfältige Reptilien schützt.",
       hu: "Sziklás terület a Lubombo-hegység lábánál, amely ritka növényfajokat és hüllőket óv.",
@@ -423,7 +418,6 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: "Nisela Szafari",
       ro: "Nisela Safaris",
       en: "Nisela Safaris"},
-    image: "/poi-images/nisela-safaris-life-v2.webp",
     description: {
       de: "Ein beliebtes Wildtiergebiet im Lowveld, wo Besucher Krokodile und Flusspferde in ihrem natürlichen Lebensraum beobachten können.",
       hu: "Népszerű vadvilági terület a Lowveld-en, ahol a látogatók krokodilokat és vízilovakat láthatnak.",
@@ -516,7 +510,6 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: "Royal Jozini Rezervátum",
       ro: "Rezervația Royal Jozini",
       en: "Royal Jozini Reserve"},
-    image: "/poi-images/royal-jozini-reserve-life-v2.webp",
     description: {
       de: "Ein großes Schutzgebiet am Jozini-Stausee, das Elefanten beherbergt und einen wichtigen Korridor für Wildtiere bietet.",
       hu: "Hatalmas védett terület a Jozini-víztározónál, amely elefántoknak ad otthont és fontos folyosót biztosít.",
@@ -681,7 +674,6 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: "Malolotja madárélőhely",
       ro: "Habitatul de păsări Malolotja",
       en: "Malolotja Bird Habitat"},
-    image: "/poi-images/malolotja-birds-life-v2.webp",
     description: {
       de: "Hochland-Grasland, das einen Zufluchtsort für seltene Vögel wie die Blauschwalbe und den Waldrapp bietet.",
       hu: "Magaslati füves puszták, amelyek menedéket nyújtanak olyan ritka madaraknak, mint a kék fecske.",
@@ -777,7 +769,6 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: "Swazi Candles Kézműves Központ",
       ro: "Centrul de meșteșuguri Swazi Candles",
       en: "Swazi Candles Craft Centre"},
-    image: "/poi-images/swazi-candles-life-v2.webp",
     description: {
       de: "Eine lebendige Werkstatt, in der Kinder beobachten können, wie Kunsthandwerker bunte Tierfiguren aus Wachs von Hand formen.",
       hu: "Élénk műhely, ahol a gyerekek megnézhetik, hogyan formáznak az iparművészek színes állatfigurákat viaszból.",
@@ -830,7 +821,6 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: "Ngwenya Üveggyár",
       ro: "Fabrica de sticlă Ngwenya",
       en: "Ngwenya Glass Factory"},
-    image: "/poi-images/ngwenya-glass-life-v2.webp",
     description: {
       de: "Ein Bildungsort, an dem Kinder sehen können, wie recyceltes Glas zu filigranen Skulpturen und Ornamenten geblasen wird.",
       hu: "Oktatási helyszín, ahol a gyerekek láthatják, hogyan fújnak újrahasznosított üvegből szobrokat és dísztárgyakat.",
@@ -1079,7 +1069,6 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: "Malkerns ananászföldek",
       ro: "Câmpurile de ananas din Malkerns",
       en: "Malkerns Pineapple Fields"},
-    image: "/poi-images/malkerns-pineapples-life-v2.webp",
     description: {
       de: "Große Plantagen im fruchtbaren Malkerns-Tal, die hochwertige Ananas für den Export produzieren.",
       hu: "Hatalmas ültetvények a termékeny Malkerns-völgyben, amelyek kiváló minőségű ananászt termelnek exportra.",
@@ -1127,7 +1116,6 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: "Big Bend cukornádmezők",
       ro: "Câmpurile de trestie de zahăr din Big Bend",
       en: "Big Bend Sugar Cane Fields"},
-    image: "/poi-images/big-bend-sugar-life-v2.webp",
     description: {
       de: "Umfangreiche Zuckerrohrplantagen am Lusutfu-Fluss, die das wirtschaftliche Rückgrat der Region bilden.",
       hu: "Kiterjedt cukornádültetvények a Lusutfu-folyó mentén, amelyek a régió gazdasági gerincét alkotják.",
@@ -1175,7 +1163,6 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: "Simunye cukorültetvény",
       ro: "Plantația de zahăr Simunye",
       en: "Simunye Sugar Estate"},
-    image: "/poi-images/simunye-estate-life-v2.webp",
     description: {
       de: "Eine der größten landwirtschaftlichen Entwicklungen des Landes, spezialisiert auf die großflächige Zuckerproduktion.",
       hu: "Az ország egyik legnagyobb mezőgazdasági fejlesztése, amely a nagyüzemi cukortermelésre specializálódott.",
@@ -1316,7 +1303,6 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: "Vuvulane Közösségi Farmok",
       ro: "Fermele comunitare Vuvulane",
       en: "Vuvulane Community Farms"},
-    image: "/poi-images/vuvulane-farms-life-v2.webp",
     description: {
       de: "Ein erfolgreiches Bewässerungsprojekt für Kleinbauern, die eine Vielzahl von Gemüse und Zuckerrohr anbauen.",
       hu: "Sikeres kistermelői öntözési projekt, ahol különféle zöldségeket és cukornádat termesztenek.",
@@ -1364,7 +1350,6 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: "Tambankulu citrusültetvények",
       ro: "Plantațiile de citrice Tambankulu",
       en: "Tambankulu Citrus Estates"},
-    image: "/poi-images/tambankulu-citrus-life-v2.webp",
     description: {
       de: "Große Obstplantagen im Lowveld, die Zitrusfrüchte wie Orangen und Grapefruits für internationale Märkte produzieren.",
       hu: "Hatalmas gyümölcsösök a Lowveld-en, amelyek narancsot és grapefruitot termelnek a világpiacra.",
@@ -1457,7 +1442,6 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: "Ubombo cukorültetvény",
       ro: "Plantația de zahăr Ubombo",
       en: "Ubombo Sugar Plantation"},
-    image: "/poi-images/ubombo-sugar-life-v2.webp",
     description: {
       de: "Ein historischer landwirtschaftlicher Standort in der Nähe von Big Bend, der für Eswatinis Status als Zuckerproduzent zentral ist.",
       hu: "Történelmi mezőgazdasági helyszín Big Bend közelében, amely központi szerepet játszik az ország cukorexportjában.",

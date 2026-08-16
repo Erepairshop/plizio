@@ -28,7 +28,6 @@ export const poiExtraCongoEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/pointe-noire-port-economic-v2.webp",
     description: {
       de: "Der wichtigste Seehafen Zentralafrikas und das Tor für den internationalen Handel der Republik Kongo.",
       hu: "Közép-Afrika legfontosabb tengeri kikötője és a Kongói Köztársaság nemzetközi kereskedelmének kapuja.",
@@ -85,7 +84,6 @@ export const poiExtraCongoEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/brazzaville-port-economic-v2.webp",
     description: {
       de: "Ein strategischer Binnenhafen am Kongo-Fluss, der die Hauptstadt mit dem Landesinneren verbindet.",
       hu: "Stratégiai jelentőségű folyami kikötő a Kongó folyón, amely összeköti a fővárost az ország belsejével.",
@@ -187,7 +185,6 @@ export const poiExtraCongoEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/djeno-oil-terminal-economic-v2.webp",
     description: {
       de: "Das größte Erdölterminal der Republik Kongo, südlich von Pointe-Noire am Atlantik gelegen.",
       hu: "A Kongói Köztársaság legnagyobb kőolajterminálja, Pointe-Noire-tól délre, az Atlanti-óceán partján.",
@@ -244,7 +241,6 @@ export const poiExtraCongoEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/nkayi-sugar-refinery-economic-v2.webp",
     description: {
       de: "Das Zentrum der kongolesischen Zuckerindustrie, betrieben von SARIS-Congo in der fruchtbaren Bouenza-Region.",
       hu: "A kongói cukoripar központja, amelyet a SARIS-Congo üzemeltet a termékeny Bouenza régióban.",
@@ -301,7 +297,6 @@ export const poiExtraCongoEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/loutete-cement-plant-economic-v2.webp",
     description: {
       de: "Eine bedeutende Produktionsstätte für Baustoffe, die für die Infrastrukturentwicklung des Landes entscheidend ist.",
       hu: "Jelentős építőanyag-gyártó létesítmény, amely kulcsfontosságú az ország infrastruktúrájának fejlesztéséhez.",
@@ -763,7 +758,6 @@ export const poiExtraCongoEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/coraf-oil-refinery-economic-v2.webp",
     description: {
       de: "Die nationale Erdölraffinerie in Pointe-Noire, die für die lokale Kraftstoffversorgung verantwortlich ist.",
       hu: "Pointe-Noire nemzeti kőolajfinomítója, amely a helyi üzemanyag-ellátásért felelős.",
@@ -820,7 +814,6 @@ export const poiExtraCongoEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/mindouli-copper-mine-economic-v2.webp",
     description: {
       de: "Eine historische Bergbaustätte in der Pool-Region, die für ihre hochwertigen Kupfererze bekannt ist.",
       hu: "Történelmi bányászati terület a Pool régióban, amely kiváló minőségű rézércéről ismert.",
@@ -877,7 +870,6 @@ export const poiExtraCongoEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/zanaga-iron-ore-project-economic-v2.webp",
     description: {
       de: "Eines der größten unerschlossenen Eisenerzvorkommen der Welt, gelegen in der Lékoumou-Region.",
       hu: "A világ egyik legnagyobb feltáratlan vasérckészlete a Lékoumou régióban.",
@@ -934,7 +926,6 @@ export const poiExtraCongoEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/ouesso-port-economic-v2.webp",
     description: {
       de: "Ein wichtiger Binnenhafen am Sangha-Fluss im Norden des Landes, zentral für den Holzexport.",
       hu: "Fontos folyami kikötő a Sangha folyón az ország északi részén, a faexport központja.",
@@ -991,7 +982,6 @@ export const poiExtraCongoEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/mossaka-port-economic-v2.webp",
     description: {
       de: "Ein strategisch gelegener Hafen am Zusammenfluss von Kongo und Sangha, bekannt für den Fischhandel.",
       hu: "Stratégiailag előnyös helyen fekvő kikötő a Kongó és a Sangha találkozásánál, a halkereskedelemről ismert.",
@@ -1092,7 +1082,6 @@ export const poiExtraCongoEconomicV2: POI[] = [
       hu: "SOTEXCO textilgyár",
       ro: "Fabrica de textile SOTEXCO",
       en: "SOTEXCO Textile Factory"},
-    image: "/poi-images/sotexco-textile-factory-economic-v2.webp",
     description: {
       de: "Eine traditionsreiche Textilfabrik in Brazzaville, die für die Verarbeitung lokaler Baumwolle bekannt ist.",
       hu: "Hagyományos textilgyár Brazzaville-ben, amely a helyi gyapot feldolgozásáról ismert.",
@@ -1257,7 +1246,6 @@ export const poiExtraCongoEconomicV2: POI[] = [
       hu: "Mengo kálibánya",
       ro: "Mina de potasă din Mengo",
       en: "Mengo Potash Mine"},
-    image: "/poi-images/mengo-potash-mine-economic-v2.webp",
     description: {
       de: "Eine große Lagerstätte für Kalisalze in der Küstenregion, die für die globale Düngemittelproduktion erschlossen wird.",
       hu: "Hatalmas kálisó-lelőhely a parti régióban, amelyet a globális műtrágyagyártás számára tárnak fel.",
@@ -1317,7 +1305,6 @@ export const poiExtraCongoEconomicV2: POI[] = [
       hu: "Mayoko vasércbánya",
       ro: "Mina de minereu de fier din Mayoko",
       en: "Mayoko Iron Ore Mine"},
-    image: "/poi-images/mayoko-iron-ore-mine-economic-v2.webp",
     description: {
       de: "Ein Bergbauzentrum im Nordwesten der Niari-Region, das hochwertiges Eisenerz für den Weltmarkt fördert.",
       hu: "Bányászati központ a Niari régió északnyugati részén, amely kiváló minőségű vasércet termel a világpiacra.",
@@ -1377,7 +1364,6 @@ export const poiExtraCongoEconomicV2: POI[] = [
       hu: "Makotipoko folyami kikötő",
       ro: "Portul fluvial Makotipoko",
       en: "River Port of Makotipoko"},
-    image: "/poi-images/makotipoko-port-economic-v2.webp",
     description: {
       de: "Ein wichtiger Knotenpunkt für den Warenverkehr auf dem Kongo-Fluss in der Plateaux-Region.",
       hu: "Fontos csomópont a Kongó folyó áruforgalmában a Plateaux régióban.",
@@ -1437,7 +1423,6 @@ export const poiExtraCongoEconomicV2: POI[] = [
       hu: "Imboulou vízerőmű",
       ro: "Hidrocentrala Imboulou",
       en: "Imboulou Hydroelectric Plant"},
-    image: "/poi-images/imboulou-hydroelectric-plant-economic-v2.webp",
     description: {
       de: "Eines der größten Wasserkraftwerke des Landes, das einen wesentlichen Teil der Stromversorgung von Brazzaville sichert.",
       hu: "Az ország egyik legnagyobb vízerőműve, amely Brazzaville áramellátásának jelentős részét biztosítja.",
@@ -1497,7 +1482,6 @@ export const poiExtraCongoEconomicV2: POI[] = [
       hu: "Sangha fafeldolgozó üzem",
       ro: "Unitatea de prelucrare a lemnului din Sangha",
       en: "Sangha Timber Processing Plant"},
-    image: "/poi-images/sangha-timber-processing-economic-v2.webp",
     description: {
       de: "Ein großer Industriekomplex im Norden, der tropische Edelhölzer für den Export verarbeitet.",
       hu: "Nagy ipari komplexum északon, amely trópusi nemesfákat dolgoz fel exportra.",
@@ -1557,7 +1541,6 @@ export const poiExtraCongoEconomicV2: POI[] = [
       hu: "Dolisie vasúti javítóműhelyek",
       ro: "Atelierele feroviare din Dolisie",
       en: "Dolisie Railway Workshops"},
-    image: "/poi-images/dolisie-railway-workshops-economic-v2.webp",
     description: {
       de: "Zentrale Wartungs- und Reparaturanlage der Kongo-Ozean-Bahn (CFCO) in der drittgrößten Stadt des Landes.",
       hu: "A Kongó-Óceán Vasút (CFCO) központi karbantartó és javító létesítménye az ország harmadik legnagyobb városában.",

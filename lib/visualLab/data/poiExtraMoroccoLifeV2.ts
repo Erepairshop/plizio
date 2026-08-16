@@ -53,7 +53,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-01",
     coords: [-9.6, 30.2],
     name: { de: "Nationalpark Souss-Massa", hu: "Souss-Massa Nemzeti Park", ro: "Parcul Național Souss-Massa", en: "Souss-Massa National Park"},
-    image: "/poi-images/souss-massa-national-park-life-v2.webp",
     description: { de: "Ein bedeutendes Schutzgebiet für den Waldrapp.", hu: "Fontos védett terület a tarajos íbisz számára.", ro: "O zonă protejată importantă pentru ibisul chel.", en: "An important protected area for the northern bald ibis." , es: "Una zona protegida importante para el ibis eremita.", pt: "Uma área protegida importante para o íbis-eremita.", fr: "Une zone protégée importante pour l'ibis chauve."},
     facts: {
       de: ["Heimat des seltenen Waldrapps.", "Küstennahes Feuchtgebiet."],
@@ -88,7 +87,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-02",
     coords: [-4.1, 34.0],
     name: { de: "Nationalpark Tazekka", hu: "Tazekka Nemzeti Park", ro: "Parcul Național Tazekka", en: "Tazekka National Park"},
-    image: "/poi-images/tazekka-national-park-life-v2.webp",
     description: { de: "Schutzgebiet mit Zedernwäldern und vielfältiger Fauna.", hu: "Védett terület cédruserdőkkel és változatos faunával.", ro: "Arie protejată cu păduri de cedru și faună diversă.", en: "Protected area with cedar forests and diverse fauna." , es: "Área protegida con bosques de cedros y fauna diversa.", pt: "Área protegida com florestas de cedros e fauna diversificada.", fr: "Zone protégée avec des forêts de cèdres et une faune diversifiée."},
     facts: {
       de: ["Bekannt für seine Zedern.", "Lebensraum für Berberaffen."],
@@ -168,7 +166,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-03",
     coords: [-5.2, 35.1],
     name: { de: "Nationalpark Talassemtane", hu: "Talassemtane Nemzeti Park", ro: "Parcul Național Talassemtane", en: "Talassemtane National Park"},
-    image: "/poi-images/talassemtane-national-park-life-v2.webp",
     description: { de: "Gebirgiger Nationalpark mit Tannenwäldern.", hu: "Hegyvidéki nemzeti park jegenyefenyvesekkel.", ro: "Parc național montan cu păduri de brad.", en: "Mountainous national park with fir forests." , es: "Parque nacional montañoso con bosques de abetos.", pt: "Parque nacional montanhoso com florestas de abetos.", fr: "Parc national montagneux avec des forêts de sapins."},
     facts: {
       de: ["Schutz der Tannenwälder.", "Wichtige Region für Biodiversität."],
@@ -203,7 +200,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-04",
     coords: [-6.5, 32.3],
     name: { de: "Region Tadla", hu: "Tadla régió", ro: "Regiunea Tadla", en: "Tadla Region"},
-    image: "/poi-images/tadla-agriculture-life-v2.webp",
     description: { de: "Ein wichtiges landwirtschaftliches Anbaugebiet für Getreide und Zuckerrüben.", hu: "Fontos mezőgazdasági termőterület gabonafélék és cukorrépa számára.", ro: "O regiune agricolă importantă pentru cereale și sfeclă de zahăr.", en: "An important agricultural area for cereals and sugar beets." , es: "Una importante zona agrícola para el cultivo de cereales y remolacha azucarera.", pt: "Uma importante zona agrícola para o cultivo de cereais e beterraba sacarina.", fr: "Une zone agricole importante pour la culture des céréales et de la betterave sucrière."},
     facts: {
       de: ["Zentrum der Zuckerproduktion.", "Fruchtbare Böden durch Oum Er-Rbia."],
@@ -238,7 +234,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-05",
     coords: [-6.0, 34.5],
     name: { de: "Gharb-Ebene", hu: "Gharb-síkság", ro: "Câmpia Gharb", en: "Gharb Plain"},
-    image: "/poi-images/gharbi-citrus-agriculture-life-v2.webp",
     description: { de: "Hauptanbaugebiet für Zitrusfrüchte in Marokko.", hu: "Marokkó fő citrusgyümölcs-termőterülete.", ro: "Principalul areal de cultivare a citricelor din Maroc.", en: "Main cultivation area for citrus fruits in Morocco." , es: "Principal zona de cultivo de cítricos en Marruecos.", pt: "Principal zona de cultivo de citrinos em Marrocos.", fr: "Principale zone de culture d'agrumes au Maroc."},
     facts: {
       de: ["Berühmt für Orangen.", "Intensive Bewässerung."],
@@ -354,7 +349,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-06",
     coords: [-2.5, 34.8],
     name: { de: "Moulouya-Tal", hu: "Muluja-völgy", ro: "Valea Moulouya", en: "Moulouya Valley"},
-    image: "/poi-images/moulouya-valley-agriculture-life-v2.webp",
     description: { de: "Ein fruchtbares Tal, das stark für den Obstbau genutzt wird.", hu: "Termékeny völgy, amelyet erősen hasznosítanak gyümölcstermesztésre.", ro: "O vale fertilă utilizată intensiv pentru pomicultură.", en: "A fertile valley heavily used for fruit farming." , es: "Un valle fértil muy utilizado para la fruticultura.", pt: "Um vale fértil fortemente utilizado para a fruticultura.", fr: "Une vallée fertile largement utilisée pour l'arboriculture fruitière."},
     facts: {
       de: ["Anbau von Pfirsichen und Äpfeln.", "Wichtige regionale Wirtschaftsquelle."],
@@ -506,7 +500,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-07",
     coords: [-7.6, 33.6],
     name: { de: "Zoologischer Garten Ain Sebaa", hu: "Ain Sebaa Állatkert", ro: "Grădina Zoologică Ain Sebaa", en: "Ain Sebaa Zoo"},
-    image: "/poi-images/casablanca-zoo-kid-landmark-life-v2.webp",
     description: { de: "Beliebter Ort für Familien in Casablanca.", hu: "Népszerű hely családok számára Casablancában.", ro: "Loc popular pentru familii în Casablanca.", en: "Popular place for families in Casablanca." , es: "Lugar popular para familias en Casablanca.", pt: "Local popular para famílias em Casablanca.", fr: "Lieu prisé des familles à Casablanca."},
     facts: {
       de: ["Viele exotische Tiere.", "Spielplätze für Kinder."],
@@ -586,7 +579,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-08",
     coords: [-6.8, 33.9],
     name: { de: "Zoologischer Garten Rabat", hu: "Rabati Állatkert", ro: "Grădina Zoologică Rabat", en: "Rabat Zoo"},
-    image: "/poi-images/rabat-zoo-kid-landmark-life-v2.webp",
     description: { de: "Ein moderner Zoo, der heimische und afrikanische Tiere zeigt.", hu: "Modern állatkert, amely hazai és afrikai állatokat mutat be.", ro: "O grădină zoologică modernă care expune animale locale și africane.", en: "A modern zoo displaying local and African animals." , es: "Un zoológico moderno que muestra animales autóctonos y africanos.", pt: "Um jardim zoológico moderno que exibe animais nativos e africanos.", fr: "Un zoo moderne présentant des animaux locaux et africains."},
     facts: {
       de: ["Löwen und Elefanten.", "Bildungsangebote für Kinder."],
@@ -621,7 +613,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-09",
     coords: [-7.9, 31.6],
     name: { de: "Palmenhain von Marrakesch", hu: "Marrakesi Pálmaliget", ro: "Palmeraie din Marrakech", en: "Marrakech Palm Grove"},
-    image: "/poi-images/marrakech-palmeraie-kid-landmark-life-v2.webp",
     description: { de: "Ein riesiger Palmenhain mit Aktivitäten für Kinder.", hu: "Hatalmas pálmaliget tevékenységekkel gyerekeknek.", ro: "O imensă livadă de palmieri cu activități pentru copii.", en: "A huge palm grove with activities for children." , es: "Un enorme palmeral con actividades para niños.", pt: "Um palmeiral enorme com atividades para crianças.", fr: "Une immense palmeraie avec des activités pour enfants."},
     facts: {
       de: ["Kamelausflüge.", "Fahrradtouren durch Palmen."],
@@ -872,7 +863,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-10",
     coords: [-5.1, 33.5],
     name: { de: "Ifrane Löwenstatue", hu: "Ifrane Oroszlánszobor", ro: "Statuia Leului din Ifrane", en: "Ifrane Lion Statue"},
-    image: "/poi-images/ifrane-lion-kid-landmark-life-v2.webp",
     description: { de: "Eine berühmte Statue in der Stadt Ifrane.", hu: "Híres szobor Ifrane városában.", ro: "O statuie celebră în orașul Ifrane.", en: "A famous statue in the city of Ifrane." , es: "Una estatua famosa en la ciudad de Ifrane.", pt: "Uma estátua famosa na cidade de Ifrane.", fr: "Une statue célèbre dans la ville d'Ifrane."},
     facts: {
       de: ["Beliebtes Fotomotiv.", "Park für Kinder zum Spielen."],
@@ -952,7 +942,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-11",
     coords: [-15.9, 23.7],
     name: { de: "Dakhla-Bucht", hu: "Dakhla-öböl", ro: "Golful Dakhla", en: "Dakhla Bay"},
-    image: "/poi-images/dakhla-bird-habitat-life-v2.webp",
     description: { de: "Ein wichtiges Habitat für Zugvögel in der Westsahara.", hu: "Fontos élőhely a költöző madarak számára Nyugat-Szaharában.", ro: "Habitat important pentru păsările migratoare în Sahara Occidentală.", en: "An important habitat for migratory birds in Western Sahara." , es: "Un hábitat importante para aves migratorias en el Sáhara Occidental.", pt: "Um habitat importante para aves migratórias no Saara Ocidental.", fr: "Un habitat important pour les oiseaux migrateurs au Sahara Occidental."},
     facts: {
       de: ["Heimat für Flamingos.", "Vogelbeobachtung."],
@@ -1032,7 +1021,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-12",
     coords: [-12.2, 28.0],
     name: { de: "Nationalpark Khenifiss", hu: "Khenifiss Nemzeti Park", ro: "Parcul Național Khenifiss", en: "Khenifiss National Park"},
-    image: "/poi-images/khenifiss-national-park-life-v2.webp",
     description: { de: "Nationalpark mit Lagunen und Wüstenlandschaft.", hu: "Nemzeti park lagúnákkal és sivatagi tájjal.", ro: "Parc național cu lagune și peisaj deșertic.", en: "National park with lagoons and desert landscape." , es: "Parque nacional con lagunas y paisajes desérticos.", pt: "Parque nacional com lagoas e paisagens desérticas.", fr: "Parc national avec des lagunes et des paysages désertiques."},
     facts: {
       de: ["Schutz von Meeresvögeln.", "Lagunen-Ökosystem."],
@@ -1067,7 +1055,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-13",
     coords: [-2.2, 34.9],
     name: { de: "Region Berkane", hu: "Berkane régió", ro: "Regiunea Berkane", en: "Berkane Region"},
-    image: "/poi-images/berkane-fruit-agriculture-life-v2.webp",
     description: { de: "Bekannt für den Anbau von Klementinen.", hu: "Híres a klementin termesztéséről.", ro: "Cunoscută pentru cultivarea clementinelor.", en: "Known for the cultivation of clementines." , es: "Conocida por el cultivo de clementinas.", pt: "Conhecida pelo cultivo de clementinas.", fr: "Connue pour la culture des clémentines."},
     facts: {
       de: ["Hauptproduzent von Klementinen.", "Exportregion."],
@@ -1102,7 +1089,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-14",
     coords: [-8.4, 32.5],
     name: { de: "Region Doukkala", hu: "Doukkala régió", ro: "Regiunea Doukkala", en: "Doukkala Region"},
-    image: "/poi-images/doukkala-wheat-agriculture-life-v2.webp",
     description: { de: "Eine bedeutende Region für den Getreideanbau.", hu: "Jelentős régió a gabonatermesztés számára.", ro: "O regiune importantă pentru cultivarea cerealelor.", en: "An important region for cereal farming." , es: "Una región importante para el cultivo de cereales.", pt: "Uma região importante para o cultivo de cereais.", fr: "Une région importante pour la culture céréalière."},
     facts: {
       de: ["Große Weizenfelder.", "Traditionelle Landwirtschaft."],
@@ -1182,7 +1168,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-15",
     coords: [-10.5, 29.0],
     name: { de: "Oued Noun Region", hu: "Oued Noun régió", ro: "Regiunea Oued Noun", en: "Oued Noun Region"},
-    image: "/poi-images/oued-noun-agriculture-life-v2.webp",
     description: { de: "Landwirtschaftliches Gebiet im Süden Marokkos.", hu: "Mezőgazdasági terület Marokkó déli részén.", ro: "Zonă agricolă în sudul Marocului.", en: "Agricultural area in the south of Morocco." , es: "Zona agrícola en el sur de Marruecos.", pt: "Área agrícola no sul de Marrocos.", fr: "Zone agricole dans le sud du Maroc."},
     facts: {
       de: ["Dattelpalmenanbau.", "Oasenwirtschaft."],
@@ -1217,7 +1202,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-16",
     coords: [-5.8, 35.7],
     name: { de: "Ion Perdicaris Park", hu: "Ion Perdicaris Park", ro: "Parcul Ion Perdicaris", en: "Ion Perdicaris Park"},
-    image: "/poi-images/tangier-park-kid-landmark-life-v2.webp",
     description: { de: "Ein grüner Waldpark mit vielen Spielmöglichkeiten.", hu: "Zöld erdőpark sok játéklehetőséggel.", ro: "Un parc forestier verde cu multe posibilități de joacă.", en: "A green forest park with many play opportunities." , es: "Un parque forestal verde con muchas opciones de juego.", pt: "Um parque florestal verde com muitas opções de lazer.", fr: "Un parc forestier verdoyant avec de nombreuses aires de jeux."},
     facts: {
       de: ["Wanderwege für Familien.", "Naturbeobachtung."],
@@ -1252,7 +1236,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-17",
     coords: [-5.5, 33.8],
     name: { de: "Meknes Tierpark", hu: "Meknes Állatkert", ro: "Grădina Zoologică Meknes", en: "Meknes Zoo"},
-    image: "/poi-images/meknes-zoo-kid-landmark-life-v2.webp",
     description: { de: "Ein kleiner, aber feiner Tierpark in Meknes.", hu: "Kicsi, de szép állatkert Meknesben.", ro: "O grădină zoologică mică, dar drăguță în Meknes.", en: "A small but nice zoo in Meknes." , es: "Un pequeño pero agradable parque zoológico en Meknès.", pt: "Um pequeno mas agradável jardim zoológico em Meknès.", fr: "Un petit mais charmant parc animalier à Meknès."},
     facts: {
       de: ["Heimische Arten.", "Pädagogischer Fokus."],
@@ -1440,7 +1423,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-18",
     coords: [-9.6, 30.4],
     name: { de: "Vogeltal Agadir", hu: "Madárvölgy Agadir", ro: "Valea Păsărilor Agadir", en: "Agadir Bird Valley"},
-    image: "/poi-images/agadir-bird-valley-kid-landmark-life-v2.webp",
     description: { de: "Ein Zoo mitten in Agadir, spezialisiert auf Vögel und kleine Tiere.", hu: "Állatkert Agadir közepén, amely madarakra és kisállatokra specializálódott.", ro: "O grădină zoologică în centrul orașului Agadir, specializată în păsări și animale mici.", en: "A zoo in the middle of Agadir, specializing in birds and small animals." , es: "Un zoológico en el centro de Agadir, especializado en aves y animales pequeños.", pt: "Um jardim zoológico no centro de Agadir, especializado em aves e pequenos animais.", fr: "Un zoo au cœur d'Agadir, spécialisé dans les oiseaux et les petits animaux."},
     facts: {
       de: ["Zentral gelegen.", "Sehr familienfreundlich."],
@@ -1475,7 +1457,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-19",
     coords: [-5.0, 29.0],
     name: { de: "Sahara Kamelhabitat", hu: "Szahara teve-élőhely", ro: "Habitat de cămile din Sahara", en: "Sahara Camel Habitat"},
-    image: "/poi-images/sahara-camel-habitat-life-v2.webp",
     description: { de: "Ein Gebiet, in dem Kamele traditionell leben.", hu: "Olyan terület, ahol a tevék hagyományosan élnek.", ro: "O zonă unde cămilele trăiesc în mod tradițional.", en: "An area where camels traditionally live." , es: "Un área donde tradicionalmente viven los camellos.", pt: "Uma área onde os camelos vivem tradicionalmente.", fr: "Une zone où les chameaux vivent traditionnellement."},
     facts: {
       de: ["Dromedare.", "Anpassung an die Wüste."],
@@ -1510,7 +1491,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-20",
     coords: [-6.5, 29.5],
     name: { de: "Oued Draa Feuchtgebiet", hu: "Oued Draa vizes élőhely", ro: "Zonă umedă Oued Draa", en: "Oued Draa Wetland"},
-    image: "/poi-images/oued-draa-wetland-life-v2.webp",
     description: { de: "Ein wichtiges Feuchtgebiet entlang des Flusses Draa.", hu: "Fontos vizes élőhely a Draa folyó mentén.", ro: "O zonă umedă importantă de-a lungul râului Draa.", en: "An important wetland along the Draa river." , es: "Un importante humedal a lo largo del río Draa.", pt: "Uma zona húmida importante ao longo do rio Draa.", fr: "Une zone humide importante le long du fleuve Draa."},
     facts: {
       de: ["Lebensraum für Amphibien.", "Grüne Oase."],
@@ -1545,7 +1525,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-21",
     coords: [-5.5, 34.3],
     name: { de: "Sebou-Becken", hu: "Sebou-medence", ro: "Bazinul Sebou", en: "Sebou Basin"},
-    image: "/poi-images/sebou-river-basin-agriculture-life-v2.webp",
     description: { de: "Das wichtigste landwirtschaftliche Becken in Marokko.", hu: "Marokkó legfontosabb mezőgazdasági medencéje.", ro: "Cel mai important bazin agricol din Maroc.", en: "The most important agricultural basin in Morocco." , es: "La cuenca agrícola más importante de Marruecos.", pt: "A bacia agrícola mais importante de Marrocos.", fr: "Le bassin agricole le plus important du Maroc."},
     facts: {
       de: ["Getreide und Oliven.", "Sehr fruchtbar."],
@@ -1733,7 +1712,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-22",
     coords: [-5.5, 34.8],
     name: { de: "Region Ouazzane", hu: "Ouazzane régió", ro: "Regiunea Ouazzane", en: "Ouazzane Region"},
-    image: "/poi-images/ouazzane-olive-agriculture-life-v2.webp",
     description: { de: "Bekannt für den Anbau von Oliven.", hu: "Híres az olajbogyó-termesztéséről.", ro: "Cunoscută pentru cultivarea măslinelor.", en: "Known for the cultivation of olives." , es: "Conocida por el cultivo de aceitunas.", pt: "Conhecida pelo cultivo de azeitonas.", fr: "Connue pour la culture des olives."},
     facts: {
       de: ["Hochwertiges Olivenöl.", "Traditionelle Obstgärten."],
@@ -1768,7 +1746,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-23",
     coords: [-5.2, 35.1],
     name: { de: "Chefchaouen Ziegenhabitat", hu: "Chefchaouen kecske-élőhely", ro: "Habitat de capre Chefchaouen", en: "Chefchaouen Goat Habitat"},
-    image: "/poi-images/chefchaouen-goat-habitat-life-v2.webp",
     description: { de: "Gebirgsregion, in der Ziegen traditionell gehalten werden.", hu: "Hegyvidéki régió, ahol hagyományosan kecskéket tartanak.", ro: "Regiune montană unde caprele sunt crescute tradițional.", en: "Mountain region where goats are traditionally kept." , es: "Región montañosa donde se crían cabras de forma tradicional.", pt: "Região montanhosa onde as cabras são criadas tradicionalmente.", fr: "Région montagneuse où les chèvres sont traditionnellement élevées."},
     facts: {
       de: ["Freilandhaltung.", "Berühmter Ziegenkäse."],
@@ -1956,7 +1933,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-24",
     coords: [-5.0, 34.0],
     name: { de: "Region Fes", hu: "Fes régió", ro: "Regiunea Fes", en: "Fes Region"},
-    image: "/poi-images/fes-region-agriculture-life-v2.webp",
     description: { de: "Ein zentrales landwirtschaftliches Gebiet für Obst und Gemüse.", hu: "Központi mezőgazdasági terület gyümölcsök és zöldségek számára.", ro: "O zonă agricolă centrală pentru fructe și legume.", en: "A central agricultural area for fruits and vegetables." , es: "Una zona agrícola central para frutas y verduras.", pt: "Uma zona agrícola central para frutas e legumes.", fr: "Une zone agricole centrale pour les fruits et légumes."},
     facts: {
       de: ["Wichtige Märkte.", "Vielfältige Erzeugnisse."],
@@ -1996,7 +1972,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-25",
     coords: [-4.7, 32.6],
     name: { de: "Midelt Apfelregion", hu: "Midelt alma-régió", ro: "Regiunea merelor Midelt", en: "Midelt Apple Region"},
-    image: "/poi-images/midelt-apple-agriculture-life-v2.webp",
     description: { de: "Bekannt für ihre hochwertigen Äpfel.", hu: "Híres a kiváló minőségű almáiról.", ro: "Cunoscută pentru merele sale de înaltă calitate.", en: "Known for its high-quality apples." , es: "Conocida por sus manzanas de alta calidad.", pt: "Conhecida pelas suas maçãs de alta qualidade.", fr: "Connue pour ses pommes de haute qualité."},
     facts: {
       de: ["Apfelhauptstadt.", "Jährliches Apfelfest."],
@@ -2076,7 +2051,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-26",
     coords: [-9.7, 29.7],
     name: { de: "Region Tiznit", hu: "Tiznit régió", ro: "Regiunea Tiznit", en: "Tiznit Region"},
-    image: "/poi-images/tiznit-agriculture-life-v2.webp",
     description: { de: "Landwirtschaftliche Region im Anti-Atlas.", hu: "Mezőgazdasági régió az Anti-Atlaszban.", ro: "Regiune agricolă în Anti-Atlas.", en: "Agricultural region in the Anti-Atlas." , es: "Región agrícola en el Anti-Atlas.", pt: "Região agrícola no Anti-Atlas.", fr: "Région agricole dans l'Anti-Atlas."},
     facts: {
       de: ["Trockenlandwirtschaft.", "Arganbäume."],
@@ -2192,7 +2166,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-27",
     coords: [-9.5, 30.4],
     name: { de: "Agadir Hafenregion", hu: "Agadir kikötő-régió", ro: "Regiunea portuară Agadir", en: "Agadir Port Region"},
-    image: "/poi-images/agadir-fish-market-agriculture-life-v2.webp",
     description: { de: "Das Zentrum der marokkanischen Fischereiindustrie.", hu: "A marokkói halászati ipar központja.", ro: "Centrul industriei pescuitului din Maroc.", en: "The center of the Moroccan fishing industry." , es: "El centro de la industria pesquera marroquí.", pt: "O centro da indústria pesqueira marroquina.", fr: "Le centre de l'industrie de la pêche marocaine."},
     facts: {
       de: ["Fischverarbeitung.", "Wichtiger Export."],
@@ -2272,7 +2245,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-28",
     coords: [-6.9, 30.9],
     name: { de: "Ouarzazate Dattelregion", hu: "Ouarzazate datolya-régió", ro: "Regiunea curmalelor Ouarzazate", en: "Ouarzazate Date Region"},
-    image: "/poi-images/ouarzazate-date-agriculture-life-v2.webp",
     description: { de: "Ein Zentrum für den Anbau von Datteln.", hu: "A datolyatermesztés központja.", ro: "Un centru pentru cultivarea curmalelor.", en: "A center for the cultivation of dates." , es: "Un centro para el cultivo de dátiles.", pt: "Um centro para o cultivo de tâmaras.", fr: "Un centre pour la culture des dattes."},
     facts: {
       de: ["Dattelernte.", "Oasen-Landwirtschaft."],
@@ -2388,7 +2360,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     parent: "MA-29",
     coords: [-4.0, 31.1],
     name: { de: "Merzouga Abenteuerpark", hu: "Merzouga kalandpark", ro: "Parc de aventură Merzouga", en: "Merzouga Adventure Park"},
-    image: "/poi-images/merzouga-kid-landmark-life-v2.webp",
     description: { de: "Ein Park, der Kindern Wüstenerlebnisse spielerisch vermittelt.", hu: "Olyan park, amely játékosan közvetíti a gyerekeknek a sivatagi élményeket.", ro: "Un parc care oferă copiilor experiențe în deșert în mod ludic.", en: "A park that playfully provides children with desert experiences." , es: "Un parque que enseña a los niños experiencias en el desierto a través del juego.", pt: "Um parque que ensina às crianças experiências no deserto através do brincar.", fr: "Un parc qui permet aux enfants de découvrir le désert par le jeu."},
     facts: {
       de: ["Sandboarding.", "Kamelreiten für Kinder."],

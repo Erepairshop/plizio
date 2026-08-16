@@ -345,7 +345,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
       hu: "Salmaniya Kert",
       ro: "Grădina Salmaniya",
       en: "Salmaniya Garden"},
-    image: "/poi-images/salmaniya-garden-life-v2.webp",
     description: {
       de: "Ein grüner Rückzugsort im Herzen von Manama, der von Einheimischen für morgendliche Spaziergänge genutzt wird.",
       hu: "Zöld menedék Manama szívében, amelyet a helyiek gyakran használnak reggeli sétákhoz.",
@@ -510,7 +509,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
       hu: "Water Garden City Park",
       ro: "Water Garden City Park",
       en: "Water Garden City Park"},
-    image: "/poi-images/water-garden-city-park-life-v2.webp",
     description: {
       de: "Ein moderner Park an der Küste von Seef mit herrlichem Meerblick und Freizeiteinrichtungen.",
       hu: "Modern part menti park Seef területén, lenyűgöző tengeri kilátással és szabadidős létesítményekkel.",
@@ -819,7 +817,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
       hu: "Zallaq Források",
       ro: "Izvoarele Zallaq",
       en: "Zallaq Springs"},
-    image: "/poi-images/zallaq-springs-life-v2.webp",
     description: {
       de: "Ein einzigartiges Natur- und Freizeitzentrum, das botanische Gärten mit Wasserläufen verbindet.",
       hu: "Különleges természeti és szabadidős központ, amely botanikus kerteket és vízi utakat ötvöz.",
@@ -867,7 +864,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
       hu: "Hunnainiyah Park",
       ro: "Parcul Hunnainiyah",
       en: "Hunnainiyah Park"},
-    image: "/poi-images/hunnainiyah-park-life-v2.webp",
     description: {
       de: "Ein traditionsreicher Park in Riffa, bekannt für seine historischen Süßwasserquellen und üppige Vegetation.",
       hu: "Hagyományos park Riffában, amely történelmi édesvizű forrásairól és buja növényzetéről ismert.",
@@ -1032,7 +1028,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
       hu: "Umm Al Hassam Kert",
       ro: "Grădina Umm Al Hassam",
       en: "Umm Al Hassam Garden"},
-    image: "/poi-images/umm-al-hassam-garden-life-v2.webp",
     description: {
       de: "Ein kleiner, gut gepflegter Nachbarschaftspark im südlichen Teil von Manama.",
       hu: "Egy kis, jól karbantartott szomszédsági park Manama déli részén.",
@@ -1601,7 +1596,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
       hu: "Saar Park",
       ro: "Parcul Saar",
       en: "Saar Park"},
-    image: "/poi-images/saar-park-life-v2.webp",
     description: {
       de: "Ein grüner Gemeinschaftspark im gehobenen Wohnviertel von Saar, beliebt bei Expatriates und Einheimischen.",
       hu: "Zöld közösségi park Saar előkelő lakónegyedében, népszerű a külföldiek és a helyiek körében.",
@@ -1649,7 +1643,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
       hu: "Malkiya Parti Park",
       ro: "Parcul de coastă Malkiya",
       en: "Malkiya Beach Park"},
-    image: "/poi-images/malkiya-beach-park-life-v2.webp",
     description: {
       de: "Ein Küstengebiet, das sich ideal zur Vogelbeobachtung und für ruhige Spaziergänge am Meer eignet.",
       hu: "Part menti terület, amely ideális madármegfigyeléshez és csendes tengerparti sétákhoz.",
@@ -1697,7 +1690,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
       hu: "Askar Parti Park",
       ro: "Parcul de coastă Askar",
       en: "Askar Coast Park"},
-    image: "/poi-images/askar-coast-park-life-v2.webp",
     description: {
       de: "Ein ruhiger Park entlang der Ostküste, der eine entspannte Atmosphäre abseits der geschäftigen Städte bietet.",
       hu: "Egy csendes park a keleti part mentén, amely nyugodt légkört kínál a nyüzsgő városoktól távol.",
@@ -2028,7 +2020,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
       hu: "Segaya Kert",
       ro: "Grădina Segaya",
       en: "Segaya Garden"},
-    image: "/poi-images/segaya-garden-life-v2.webp",
     description: {
       de: "Ein gemütlicher Park in Manama, der für seine Blumenbeete und familienfreundliche Atmosphäre geschätzt wird.",
       hu: "Egy hangulatos park Manamában, amelyet virágágyásai és családbarát légköre miatt értékelnek.",
@@ -2076,7 +2067,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
       hu: "Adliya Kert",
       ro: "Grădina Adliya",
       en: "Adliya Garden"},
-    image: "/poi-images/adliya-garden-life-v2.webp",
     description: {
       de: "Ein kleiner, aber feiner Park im künstlerischen Viertel von Adliya, oft umgeben von Kunstinstallationen.",
       hu: "Egy kicsi, de szép park Adliya művészeti negyedében, gyakran művészeti installációkkal körülvéve.",
@@ -2124,7 +2114,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
       hu: "Isa Town Park",
       ro: "Parcul Isa Town",
       en: "Isa Town Park"},
-    image: "/poi-images/isa-town-traditional-park-life-v2.webp",
     description: {
       de: "Ein weitläufiger Park, der den Bewohnern von Isa Town eine wichtige grüne Lunge und Erholungsfläche bietet.",
       hu: "Egy tágas park, amely fontos zöld tüdőt és rekreációs területet biztosít Isa Town lakosainak.",
@@ -2325,7 +2314,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
       hu: "Jid Ali Sétány",
       ro: "Promenada Jid Ali",
       en: "Jid Ali Walkway"},
-    image: "/poi-images/jid-ali-walkway-life-v2.webp",
     description: {
       de: "Eine gepflasterte Promenade, die ideal für Abendspaziergänge und Jogging entlang der ruhigen Nachbarschaft ist.",
       hu: "Kövezett sétány, amely ideális esti sétákhoz és kocogáshoz a csendes környéken.",
@@ -2373,7 +2361,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
       hu: "Estiqlal Sétány",
       ro: "Promenada Estiqlal",
       en: "Estiqlal Walkway"},
-    image: "/poi-images/estiqlal-walkway-life-v2.webp",
     description: {
       de: "Einer der beliebtesten Fußgängerwege in Riffa, der Sportbegeisterte und Spaziergänger anzieht.",
       hu: "Riffa egyik legnépszerűbb sétánya, amely vonzza a sport szerelmeseit és a sétálókat.",
@@ -2466,7 +2453,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
       hu: "Al Sayh Sétány",
       ro: "Promenada Al Sayh",
       en: "Al Sayh Walkway"},
-    image: "/poi-images/al-sayh-walkway-life-v2.webp",
     description: {
       de: "Der Al-Sayh-Walkway ist eine beliebte Uferpromenade in Muharraq, die für Spaziergänge und Erholung am Meer geschätzt wird. Er bietet einen Blick auf die Skyline.",
       hu: "Festői út Busaiteen partja mentén, amely tökéletes a késő délutáni családi kirándulásokhoz.",
@@ -2631,7 +2617,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
       hu: "Ain Raya Park",
       ro: "Parcul Ain Raya",
       en: "Ain Raya Park"},
-    image: "/poi-images/ain-raya-park-life-v2.webp",
     description: {
       de: "Ein historisch geprägter Park, der um eine alte Süßwasserquelle herum angelegt wurde und die Geschichte der Wasserversorgung Bahrains ehrt.",
       hu: "Egy helyi park, amely zöldfelületet biztosít a családok számára a mindennapi kikapcsolódáshoz. A park jól felszerelt pihenőhelyekkel és játszóterekkel várja a látogatókat.",
@@ -2940,7 +2925,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
       hu: "Karbabad Strandpark",
       ro: "Parcul pe plajă Karbabad",
       en: "Karbabad Beach Park"},
-    image: "/poi-images/karbabad-beach-park-life-v2.webp",
     description: {
       de: "Ein familienfreundlicher Strandabschnitt, der Spielplätze mit einem herrlichen Blick auf das Meer kombiniert.",
       hu: "Karbabad tengerparti része, amely nyilvános parkként szolgál a tengeri kikapcsolódást keresőknek. Kedvelt helyszín a sétákhoz és a tengerparti szabadidős tevékenységekhez.",

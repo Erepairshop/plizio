@@ -201,7 +201,6 @@ export const poiExtraChinaNatureV2: POI[] = [
       hu: "Jiuzhaigou-völgy",
       ro: "Valea Jiuzhaigou",
       en: "Jiuzhaigou Valley"},
-    image: "/poi-images/jiuzhaigou-valley-nature-v2.webp",
     description: {
       de: "Ein Naturschutzgebiet und Nationalpark in der Provinz Sichuan, bekannt für seine mehrstufigen Wasserfälle, bunten Seen und schneebedeckten Gipfel.",
       hu: "Természetvédelmi terület és nemzeti park Szecsuán tartományban, amely többszintű vízeséseiről, színes tavairól és hófedte csúcsairól ismert.",
@@ -330,7 +329,6 @@ export const poiExtraChinaNatureV2: POI[] = [
       hu: "Zhangjiajie Nemzeti Erdőpark",
       ro: "Parcul Național Forestier Zhangjiajie",
       en: "Zhangjiajie National Forest Park"},
-    image: "/poi-images/zhangjiajie-national-forest-park-nature-v2.webp",
     description: {
       de: "Bekannt für seine hoch aufragenden, säulenartigen Felsformationen aus Quarzsandstein, die als Inspiration für die 'Halleluja-Berge' im Film Avatar dienten.",
       hu: "Híres a magasba törő, oszlopszerű kvarc-homokkő sziklaalakzatairól, amelyek az Avatar című film 'Hallelujah-hegyei'-nek ihletői voltak.",
@@ -747,7 +745,6 @@ export const poiExtraChinaNatureV2: POI[] = [
       hu: "Jangce",
       ro: "Fluviul Yangtze",
       en: "Yangtze River"},
-    image: "/poi-images/yangtze-river-nature-v2.webp",
     description: {
       de: "Der längste Fluss in Asien und der drittlängste der Welt, der eine entscheidende Rolle in der Geschichte, Kultur und Wirtschaft Chinas spielt.",
       hu: "Ázsia leghosszabb és a világ harmadik leghosszabb folyója, amely döntő szerepet játszik Kína történelmében, kultúrájában és gazdaságában.",
@@ -840,7 +837,6 @@ export const poiExtraChinaNatureV2: POI[] = [
       hu: "Sárga-folyó",
       ro: "Fluviul Galben",
       en: "Yellow River"},
-    image: "/poi-images/yellow-river-nature-v2.webp",
     description: {
       de: "Der zweitlängste Fluss Chinas, oft als 'Wiege der chinesischen Zivilisation' bezeichnet. Sein Name kommt vom Löss-Sediment, das ihm eine gelbliche Farbe verleiht.",
       hu: "Kína második leghosszabb folyója, amelyet gyakran a 'kínai civilizáció bölcsőjének' neveznek. Nevét a löszös üledékről kapta, amely sárgás színt kölcsönöz neki.",
@@ -1077,7 +1073,6 @@ export const poiExtraChinaNatureV2: POI[] = [
       hu: "Mount Everest",
       ro: "Muntele Everest",
       en: "Mount Everest"},
-    image: "/poi-images/mount-everest-nature-v2.webp",
     description: {
       de: "Der höchste Berg der Erde über dem Meeresspiegel, an der Grenze zwischen Nepal und der Autonomen Region Tibet in China gelegen.",
       hu: "A Föld legmagasabb hegye a tengerszint felett, Nepál és a kínai Tibeti Autonóm Terület határán található.",
@@ -2250,7 +2245,6 @@ export const poiExtraChinaNatureV2: POI[] = [
       hu: "Nyugati-tó",
       ro: "Lacul de Vest",
       en: "West Lake"},
-    image: "/poi-images/west-lake-nature-v2.webp",
     description: {
       de: "Ein berühmter Süßwassersee in Hangzhou, der für seine natürliche Schönheit und historischen Relikte bekannt ist und Dichter und Maler seit Jahrhunderten inspiriert.",
       hu: "Egy híres édesvízi tó Hangcsouban, amely természeti szépségéről és történelmi emlékeiről ismert, és évszázadok óta inspirál költőket és festőket.",
@@ -3423,7 +3417,6 @@ export const poiExtraChinaNatureV2: POI[] = [
       hu: "Li-folyó",
       ro: "Râul Li",
       en: "Li River"},
-    image: "/poi-images/li-river-nature-v2.webp",
     description: {
       de: "Ein Fluss in der Autonomen Region Guangxi Zhuang, berühmt für seine Landschaft aus Karsthügeln, die auf der 20-Yuan-Banknote abgebildet ist.",
       hu: "Egy folyó a Kuanghszi-Csuang Autonóm Területen, amely a karszthegyekkel tarkított tájáról híres, és a 20 jüanos bankjegyen is szerepel.",
@@ -3471,7 +3464,6 @@ export const poiExtraChinaNatureV2: POI[] = [
       hu: "Huangshan-hegység",
       ro: "Munții Huangshan",
       en: "Huangshan Mountains"},
-    image: "/poi-images/huangshan-mountains-nature-v2.webp",
     description: {
       de: "Eine Gebirgskette in der Provinz Anhui, bekannt für ihre einzigartig geformten Granitgipfel, heißen Quellen und das Wolkenmeer aus dem die Gipfel ragen.",
       hu: "Hegylánc Anhui tartományban, amely egyedi formájú gránitcsúcsairól, forró forrásairól és a csúcsok fölé emelkedő felhőtengerről ismert.",
@@ -3519,7 +3511,6 @@ export const poiExtraChinaNatureV2: POI[] = [
       hu: "Csinghaj-tó",
       ro: "Lacul Qinghai",
       en: "Qinghai Lake"},
-    image: "/poi-images/qinghai-lake-nature-v2.webp",
     description: {
       de: "Der größte See Chinas, ein alkalischer und salzhaltiger See in der Provinz Qinghai. Er liegt auf dem tibetischen Plateau und ist ein wichtiger Rastplatz für Zugvögel.",
       hu: "Kína legnagyobb tava, egy lúgos és sós tó Csinghaj tartományban. A Tibeti-fennsíkon fekszik, és fontos pihenőhely a vándormadarak számára.",
@@ -3567,7 +3558,6 @@ export const poiExtraChinaNatureV2: POI[] = [
       hu: "Pudacuo Nemzeti Park",
       ro: "Parcul Național Pudacuo",
       en: "Pudacuo National Park"},
-    image: "/poi-images/pudacuo-national-park-nature-v2.webp",
     description: {
       de: "Der erste Nationalpark in China, der die internationalen Standards der IUCN erfüllt. Er liegt in der Provinz Yunnan und ist bekannt für seine unberührten Seen und Wälder.",
       hu: "Az első nemzeti park Kínában, amely megfelel az IUCN nemzetközi szabványainak. Jünnan tartományban található, és érintetlen tavairól és erdőiről ismert.",
@@ -3615,7 +3605,6 @@ export const poiExtraChinaNatureV2: POI[] = [
       hu: "Namtso-tó",
       ro: "Lacul Namtso",
       en: "Namtso Lake"},
-    image: "/poi-images/namtso-lake-nature-v2.webp",
     description: {
       de: "Ein Bergsee auf dem tibetischen Plateau, der als einer der schönsten Orte Tibets gilt. Sein Name bedeutet 'Himmlischer See' auf Tibetisch.",
       hu: "Hegyi tó a Tibeti-fennsíkon, amelyet Tibet egyik legszebb helyének tartanak. Neve tibetiül 'Mennyei Tó'-t jelent.",
@@ -4032,7 +4021,6 @@ export const poiExtraChinaNatureV2: POI[] = [
       hu: "Kő-erdő",
       ro: "Pădurea de Piatră",
       en: "Stone Forest"},
-    image: "/poi-images/stone-forest-nature-v2.webp",
     description: {
       de: "Eine bemerkenswerte Ansammlung von Kalksteinformationen in der Provinz Yunnan. Die hohen Felsen scheinen wie versteinerte Bäume aus dem Boden zu ragen.",
       hu: "Figyelemre méltó mészkőalakzatok csoportja Jünnan tartományban. A magas sziklák mintha megkövesedett fákként emelkednének ki a földből.",
@@ -4665,7 +4653,6 @@ export const poiExtraChinaNatureV2: POI[] = [
       hu: "Wulingyuan",
       ro: "Wulingyuan",
       en: "Wulingyuan"},
-    image: "/poi-images/wulingyuan-nature-v2.webp",
     description: {
       de: "Ein landschaftlich reizvolles Gebiet in der Provinz Hunan, berühmt für seine über 3.000 schmalen Quarzsandsteinpfeiler und -gipfel.",
       hu: "Festői terület Hunan tartományban, híres több mint 3000 keskeny kvarc-homokkő oszlopáról és csúcsáról.",
@@ -4713,7 +4700,6 @@ export const poiExtraChinaNatureV2: POI[] = [
       hu: "Góbi-sivatag",
       ro: "Deșertul Gobi",
       en: "Gobi Desert"},
-    image: "/poi-images/gobi-desert-nature-v2.webp",
     description: {
       de: "Eine große Wüsten- und Halbwüstenregion in Ostasien, die Teile Nord- und Nordwestchinas sowie der südlichen Mongolei umfasst.",
       hu: "Nagy sivatagi és félsivatagi régió Kelet-Ázsiában, amely Kína északi és északnyugati részét, valamint Dél-Mongóliát foglalja magában.",
@@ -4842,7 +4828,6 @@ export const poiExtraChinaNatureV2: POI[] = [
       hu: "K2",
       ro: "K2",
       en: "K2"},
-    image: "/poi-images/k2-mountain-nature-v2.webp",
     description: {
       de: "Der zweithöchste Berg der Welt, an der Grenze zwischen Pakistan und China gelegen. Bekannt als der 'Wilde Berg' aufgrund der extremen Schwierigkeit seiner Besteigung.",
       hu: "A világ második legmagasabb hegye, Pakisztán és Kína határán. A 'Vad Hegy'-ként ismert a megmászásának rendkívüli nehézsége miatt.",
@@ -5007,7 +4992,6 @@ export const poiExtraChinaNatureV2: POI[] = [
       hu: "Tigrisugrás-szurdok",
       ro: "Cheile Saltului Tigrului",
       en: "Tiger Leaping Gorge"},
-    image: "/poi-images/tiger-leaping-gorge-nature-v2.webp",
     description: {
       de: "Eine der tiefsten und spektakulärsten Flussschluchten der Welt. Der Jinsha-Fluss, ein Nebenfluss des Jangtse, fließt durch diese malerische Schlucht.",
       hu: "A világ egyik legmélyebb és leglátványosabb folyószurdoka. A Jinsha folyó, a Jangce mellékfolyója, folyik át ezen a festői szurdokon.",
@@ -5055,7 +5039,6 @@ export const poiExtraChinaNatureV2: POI[] = [
       hu: "Yarlung Tsangpo Grand Canyon",
       ro: "Marele Canion Yarlung Tsangpo",
       en: "Yarlung Tsangpo Grand Canyon"},
-    image: "/poi-images/yarlung-tsangpo-grand-canyon-nature-v2.webp",
     description: {
       de: "Gilt als die tiefste Schlucht der Welt und etwas länger als der Grand Canyon in den Vereinigten Staaten. Der Yarlung Tsangpo Fluss fließt durch sie hindurch.",
       hu: "A világ legmélyebb szurdokának tartják, és valamivel hosszabb, mint az Egyesült Államokbeli Grand Canyon. A Yarlung Tsangpo folyó folyik át rajta.",
@@ -5292,7 +5275,6 @@ export const poiExtraChinaNatureV2: POI[] = [
       hu: "Lugu-tó",
       ro: "Lacul Lugu",
       en: "Lugu Lake"},
-    image: "/poi-images/lugu-lake-nature-v2.webp",
     description: {
       de: "Ein alpiner See an der Grenze zwischen den Provinzen Sichuan und Yunnan. Er ist bekannt für seine einzigartige Mosuo-Kultur, eine kleine ethnische Gruppe in China.",
       hu: "Alpesi tó Szecsuán és Jünnan tartományok határán. Egyedülálló mosuo kultúrájáról ismert, amely egy kis etnikai csoport Kínában.",
@@ -5601,7 +5583,6 @@ export const poiExtraChinaNatureV2: POI[] = [
       hu: "Hua Shan",
       ro: "Muntele Hua",
       en: "Mount Hua"},
-    image: "/poi-images/mount-hua-nature-v2.webp",
     description: {
       de: "Einer der Fünf Großen Berge Chinas, bekannt für seine steilen Klippen und den 'Plankenweg in den Himmel', der als einer der gefährlichsten Wanderwege der Welt gilt.",
       hu: "Kína Öt Nagy Hegyének egyike, meredek szikláiról és a 'Hidak az Ég felé' ösvényről ismert, amelyet a világ egyik legveszélyesebb túraútvonalának tartanak.",

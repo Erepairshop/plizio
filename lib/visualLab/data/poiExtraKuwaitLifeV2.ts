@@ -165,7 +165,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
       hu: "Dzsahra-tavak Természetvédelmi Terület",
       ro: "Rezervația Naturală Bălțile Jahra",
       en: "Jahra Pools Nature Reserve"},
-    image: "/poi-images/jahra-pools-nature-reserve-life-v2.webp",
     description: {
       de: "Ein wichtiges Feuchtgebiet in Kuwait, das ein bedeutender Rastplatz für Zugvögel ist.",
       hu: "Fontos vizes élőhely Kuvaitban, amely a költöző madarak jelentős pihenőhelye.",
@@ -301,7 +300,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
       hu: "Wafra Farmok",
       ro: "Fermele Wafra",
       en: "Wafra Farms"},
-    image: "/poi-images/wafra-farms-life-v2.webp",
     description: {
       de: "Ein bedeutendes landwirtschaftliches Gebiet im Süden Kuwaits, bekannt für den Anbau von frischem Gemüse und Datteln.",
       hu: "Kuvait déli részének jelentős mezőgazdasági területe, amely friss zöldségek és datolya termesztéséről ismert.",
@@ -369,7 +367,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
       hu: "Abdali Farmok",
       ro: "Fermele Abdali",
       en: "Abdali Farms"},
-    image: "/poi-images/abdali-farms-life-v2.webp",
     description: {
       de: "Eine riesige landwirtschaftliche Zone im Norden des Landes, die stark zur Nahrungsmittelsicherheit Kuwaits beiträgt.",
       hu: "Hatalmas mezőgazdasági övezet az ország északi részén, amely jelentősen hozzájárul Kuvait élelmezésbiztonságához.",
@@ -1063,7 +1060,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
       hu: "Mishref Park",
       ro: "Parcul Mishref",
       en: "Mishref Park"},
-    image: "/poi-images/mishref-park-life-v2.webp",
     description: {
       de: "Ein weitläufiger Stadtpark mit schattigen Spazierwegen, Sportanlagen und Spielplätzen für Familien.",
       hu: "Kiterjedt városi park árnyékos sétányokkal, sportlétesítményekkel és játszóterekkel a családok számára.",
@@ -2580,7 +2576,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
       hu: "Egaila Strandpark",
       ro: "Parcul de Coastă Egaila",
       en: "Egaila Beach Park"},
-    image: "/poi-images/egaila-beach-park-life-v2.webp",
     description: {
       de: "Ein landschaftlich gestalteter Park direkt an der Küste, der Grünflächen mit Sandstrand und Grillplätzen verbindet.",
       hu: "A tengerparton kialakított park, amely a zöldfelületeket homokos parttal és grillezőhelyekkel ötvözi.",
@@ -2945,7 +2940,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
       hu: "KidZania Kuvait",
       ro: "KidZania Kuweit",
       en: "KidZania Kuwait"},
-    image: "/poi-images/kidzania-kuwait-life-v2.webp",
     description: {
       de: "Ein interaktives Edutainment-Zentrum, in dem Kinder durch Rollenspiele verschiedene Berufe in einer Miniaturstadt ausprobieren können.",
       hu: "Interaktív szórakoztató-oktató központ, ahol a gyerekek szerepjátékokon keresztül próbálhatnak ki különböző szakmákat egy miniatűr városban.",
@@ -3202,7 +3196,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
       hu: "Boulevard Park",
       ro: "Parcul Boulevard",
       en: "Boulevard Park"},
-    image: "/poi-images/boulevard-park-life-v2.webp",
     description: {
       de: "Ein großer Erholungskomplex in Salmiya mit botanischen Gärten, einem See, Sportanlagen und zahlreichen Restaurants.",
       hu: "Nagy rekreációs komplexum Szálmijában, botanikus kertekkel, tóval, sportlétesítményekkel és számos étteremmel.",
@@ -4179,7 +4172,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
       hu: "Sulaibikhat-öböl Természetvédelmi Terület",
       ro: "Rezervația Golfului Sulaibikhat",
       en: "Sulaibikhat Bay Nature Reserve"},
-    image: "/poi-images/sulaibikhat-bay-nature-reserve-life-v2.webp",
     description: {
       de: "Ein wichtiger Küstenabschnitt, an dem Flamingos und andere Wasservögel während ihrer Migration Zuflucht finden.",
       hu: "Fontos partszakasz, ahol a flamingók és más vízimadarak menedéket találnak vonulásuk során.",
@@ -5562,7 +5554,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
       hu: "Magic Planet Kuvait",
       ro: "Magic Planet Kuweit",
       en: "Magic Planet Kuwait"},
-    image: "/poi-images/magic-planet-kuwait-life-v2.webp",
     description: {
       de: "Ein beliebtes Indoor-Familienunterhaltungszentrum mit Fahrgeschäften, Arcade-Spielen und Attraktionen für alle Altersgruppen.",
       hu: "Népszerű beltéri családi szórakoztató központ, körhintákkal, játéktermi játékokkal és minden korosztálynak szóló attrakciókkal.",
@@ -6611,7 +6602,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
       hu: "Dzsamál Abdan-Nászer Park",
       ro: "Parcul Jamal Abdulnasser",
       en: "Jamal Abdulnasser Park"},
-    image: "/poi-images/jamal-abdulnasser-park-life-v2.webp",
     description: {
       de: "Ein ruhiger Park in Kuwait-Stadt, benannt nach dem ehemaligen ägyptischen Präsidenten, beliebt bei Familien.",
       hu: "Csendes park Kuvaitvárosban, amelyet a volt egyiptomi elnökről neveztek el, a családok kedvelt helye.",
@@ -6679,7 +6669,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
       hu: "Failaka-sziget Természetvédelmi Terület",
       ro: "Rezervația Insulei Failaka",
       en: "Failaka Island Wildlife Reserve"},
-    image: "/poi-images/failaka-island-wildlife-reserve-life-v2.webp",
     description: {
       de: "Ein geschützter Bereich auf der Insel Failaka, der die maritime Umgebung und einheimische Vogelarten schützt.",
       hu: "Védett terület a Failaka-szigeten, amely a tengeri környezetet és az őshonos madárfajokat védi.",
@@ -7224,7 +7213,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
       hu: "Szálva Park",
       ro: "Parcul Salwa",
       en: "Salwa Park"},
-    image: "/poi-images/salwa-park-life-v2.webp",
     description: {
       de: "Ein gemütlicher Nachbarschaftspark im Stadtteil Salwa, der Grünflächen und Freizeitmöglichkeiten bietet.",
       hu: "Hangulatos környékbeli park a Szálva negyedben, amely zöldfelületeket és szabadidős lehetőségeket kínál.",
@@ -8705,7 +8693,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
       hu: "Fahaheel Park",
       ro: "Parcul Fahaheel",
       en: "Fahaheel Park"},
-    image: "/poi-images/fahaheel-park-life-v2.webp",
     description: {
       de: "Ein belebter Park im Süden des Landes, der von Familien für abendliche Spaziergänge genutzt wird.",
       hu: "Nyüzsgő park az ország déli részén, amelyet a családok esti sétákhoz használnak.",
@@ -9610,7 +9597,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
       hu: "Sulaybiya Mezőgazdasági Terület",
       ro: "Zona Agricolă Sulaybiya",
       en: "Sulaybiya Agricultural Area"},
-    image: "/poi-images/sulaybiya-agricultural-area-life-v2.webp",
     description: {
       de: "Ein Schlüsselgebiet für die Milchproduktion und landwirtschaftliche Forschung in Kuwait.",
       hu: "Kuvait tejtermelésének és mezőgazdasági kutatásának egyik kulcsfontosságú területe.",
@@ -9939,7 +9925,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
       hu: "Hawally Vidámpark",
       ro: "Parcul de Distracții Hawally",
       en: "Hawally Amusement Park"},
-    image: "/poi-images/hawally-amusement-park-life-v2.webp",
     description: {
       de: "Ein familienfreundlicher Freizeitpark im Herzen des Hawally-Viertels mit Fahrgeschäften und Spielen.",
       hu: "Családbarát vidámpark a Hawally negyed szívében, körhintákkal és játékokkal.",

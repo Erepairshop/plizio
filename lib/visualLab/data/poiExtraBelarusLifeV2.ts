@@ -90,7 +90,6 @@ export const belarusLifeV2: POI[] = [
     name: { de: "Nationalpark Belaweschskaja Puschtscha", hu: "Belavezsszkaja Puscsa Nemzeti Park", ro: "Parcul Național Belovezhskaya Pushcha", en: "Belovezhskaya Pushcha National Park"},
     image: "/poi-images/belarus-belovezhskaya-pushcha-life-v2.webp",
     coords: [23.866, 52.73],
-    coords: [23.866, 52.73],
     description: {
       de: "Einer der letzten und größten verbliebenen Teile des riesigen Urwaldes, der einst die europäische Tiefebene bedeckte. Er beherbergt die weltweit größte Population des europäischen Wisents.",
       hu: "Európa egyik utolsó és legnagyobb érintetlen síkvidéki őserdeje, amely egykor az egész európai síkságot beborította. Itt található a világ legnagyobb európai bölény populációja.",
@@ -251,8 +250,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "wildlife",
     name: { de: "Biosphärenreservat Beresinski", hu: "Berezinszkij Bioszféra-rezervátum", ro: "Rezervația Biosferei Berezinski", en: "Berezinsky Biosphere Reserve"},
-    image: "/poi-images/belarus-berezinsky-reserve-life-v2.webp",
-    coords: [28.316, 54.733],
     coords: [28.316, 54.733],
     description: {
       de: "Ein 1925 gegründetes Schutzgebiet, das alle fünf in Europa heimischen großen Raubtierarten beherbergt. Es schützt insbesondere die Population des europäischen Bibers.",
@@ -296,8 +293,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "wildlife",
     name: { de: "Nationalpark Pripjazki", hu: "Pripjaty Nemzeti Park", ro: "Parcul Național Pripyatsky", en: "Pripyatsky National Park"},
-    image: "/poi-images/belarus-pripyatsky-national-park-life-v2.webp",
-    coords: [28.116, 52.05],
     coords: [28.116, 52.05],
     description: {
       de: "Dieses Gebiet im Süden von Belarus wird oft als das 'Amazonas von Polesien' bezeichnet. Es umfasst weite Auenlandschaften und Sümpfe entlang des Flusses Pripjat.",
@@ -494,8 +489,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "lake",
     name: { de: "Nationalpark Narotschanski", hu: "Narocsanszkij Nemzeti Park", ro: "Parcul Național Narochansky", en: "Narochansky National Park"},
-    image: "/poi-images/belarus-narochansky-national-park-life-v2.webp",
-    coords: [26.733, 54.85],
     coords: [26.733, 54.85],
     description: {
       de: "Ein Nationalpark im Nordwesten von Belarus, der das größte Seegebiet des Landes umfasst. Er ist bekannt für seine Vielfalt an Wasserpflanzen und seltenen Fischarten.",
@@ -539,8 +532,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "lake",
     name: { de: "Nationalpark Braslauer Seen", hu: "Braszlavi-tavak Nemzeti Park", ro: "Parcul Național Lacurile Braslav", en: "Braslav Lakes National Park"},
-    image: "/poi-images/belarus-braslav-lakes-national-park-life-v2.webp",
-    coords: [27.05, 55.616],
     coords: [27.05, 55.616],
     description: {
       de: "Eine eiszeitlich geprägte Seenlandschaft mit über 300 Seen und zahlreichen Inseln. Das Gebiet bietet Lebensraum für viele geschützte Vogelarten wie den Schwarzstorch.",
@@ -584,8 +575,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "wildlife",
     name: { de: "Landschaftsschutzgebiet Jelnja", hu: "Jelnya Tájvédelmi Körzet", ro: "Rezervația Peisagistică Yelnya", en: "Yelnya Landscape Reserve"},
-    image: "/poi-images/belarus-yelnya-reserve-life-v2.webp",
-    coords: [27.8, 55.55],
     coords: [27.8, 55.55],
     description: {
       de: "Eines der größten Hochmoore Weißrusslands und ganz Europas. Es ist ein wichtiger Rastplatz für Kraniche während ihres herbstlichen Zugs nach Süden.",
@@ -629,8 +618,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "wildlife",
     name: { de: "Olman-Sümpfe", hu: "Olman-mocsarak", ro: "Mlaștinile Olman", en: "Olman Mires"},
-    image: "/poi-images/belarus-olman-mires-life-v2.webp",
-    coords: [27.116, 51.816],
     coords: [27.116, 51.816],
     description: {
       de: "Das größte zusammenhängende Übergangsmoorgebiet Europas im Süden von Belarus. Es dient als bedeutender Rückzugsort für den weltweit bedrohten Schelladler.",
@@ -674,8 +661,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "forest",
     name: { de: "Nalibokskaja Puschtscha", hu: "Nalibokszkaja Puscsa", ro: "Pădurea Naliboki", en: "Nalibokskaya Pushcha"},
-    image: "/poi-images/belarus-nalibokskaya-pushcha-life-v2.webp",
-    coords: [26.5, 53.95],
     coords: [26.5, 53.95],
     description: {
       de: "Ein riesiges Waldgebiet im Zentrum von Belarus, bekannt für die Wiedereinführung von Wildpferden. Es ist eines der größten Waldmassive in ganz Europa.",
@@ -719,8 +704,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "wildlife",
     name: { de: "Biologisches Reservat Sporowski", hu: "Szporovszkij Biológiai Rezervátum", ro: "Rezervația Biologică Sporovsky", en: "Sporovsky Biological Reserve"},
-    image: "/poi-images/belarus-sporovsky-reserve-life-v2.webp",
-    coords: [25.316, 52.416],
     coords: [25.316, 52.416],
     description: {
       de: "Dieses Reservat beherbergt die weltweit größte Population des Seggenrohrsängers. Es besteht hauptsächlich aus den Auen des Flusses Jasselda und dem Sporowski-See.",
@@ -764,8 +747,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "wildlife",
     name: { de: "Biologisches Reservat Swanetz", hu: "Zvanec Biológiai Rezervátum", ro: "Rezervația Biologică Zvanets", en: "Zvanets Biological Reserve"},
-    image: "/poi-images/belarus-zvanets-reserve-life-v2.webp",
-    coords: [24.833, 52.083],
     coords: [24.833, 52.083],
     description: {
       de: "Das größte Niedermoor Europas mit einer charakteristischen Vegetation aus Seggen. Es ist ein kritischer Lebensraum für bedrohte Wasservögel und seltene Sumpfpflanzen.",
@@ -809,8 +790,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "wildlife",
     name: { de: "Landschaftsschutzgebiet Mittlerer Pripjat", hu: "Közép-Pripjaty Tájvédelmi Körzet", ro: "Rezervația Peisagistică Pripyat Mijlociu", en: "Mid-Pripyat Landscape Reserve"},
-    image: "/poi-images/belarus-mid-pripyat-reserve-life-v2.webp",
-    coords: [27.0, 52.133],
     coords: [27.0, 52.133],
     description: {
       de: "Dieses Reservat schützt die größte Flussauenlandschaft im Zentrum von Polesien. Es umfasst zahlreiche Altarme, Kanäle und Feuchtwiesen entlang des Flusses Pripjat.",
@@ -1007,8 +986,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "wildlife",
     name: { de: "Landschaftsschutzgebiet Osweiski", hu: "Oszvejszkij Tájvédelmi Körzet", ro: "Rezervația Peisagistică Osveysky", en: "Osveysky Landscape Reserve"},
-    image: "/poi-images/belarus-osveysky-reserve-life-v2.webp",
-    coords: [28.116, 56.033],
     coords: [28.116, 56.033],
     description: {
       de: "Ein Schutzgebiet im Norden von Belarus rund um den Osweiskoje-See. Es ist bekannt für seine schwimmenden Inseln und dichten Röhrichtbestände.",
@@ -1052,8 +1029,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "wildlife",
     name: { de: "Landschaftsschutzgebiet Wygonoschtschanskoje", hu: "Vigonoscsanszkoje Tájvédelmi Körzet", ro: "Rezervația Peisagistică Vygonoshchanskoye", en: "Vygonoshchanskoye Landscape Reserve"},
-    image: "/poi-images/belarus-vygonoshchanskoye-reserve-life-v2.webp",
-    coords: [25.833, 52.683],
     coords: [25.833, 52.683],
     description: {
       de: "Ein weitläufiges Sumpf- und Waldgebiet, das das Einzugsgebiet der Flüsse Schtschara und Jasselda umfasst. Es beherbergt eine bedeutende Population des Bartkauzes.",
@@ -1097,8 +1072,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "forest",
     name: { de: "Landschaftsschutzgebiet Krasny Bor", hu: "Krasznij Bor Tájvédelmi Körzet", ro: "Rezervația Peisagistică Krasny Bor", en: "Krasny Bor Landscape Reserve"},
-    image: "/poi-images/belarus-krasny-bor-reserve-life-v2.webp",
-    coords: [28.533, 55.933],
     coords: [28.533, 55.933],
     description: {
       de: "Ein unberührtes Waldgebiet im Norden von Belarus, das durch boreale Nadelwälder geprägt ist. Es ist bekannt für seine hohe Dichte an Elchen und Auerhühnern.",
@@ -1259,8 +1232,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "wildlife",
     name: { de: "Biologisches Reservat Kosjanski", hu: "Kozjanszkij Biológiai Rezervátum", ro: "Rezervația Biologică Kozyansky", en: "Kozyansky Biological Reserve"},
-    image: "/poi-images/belarus-kozyansky-reserve-life-v2.webp",
-    coords: [29.233, 55.35],
     coords: [29.233, 55.35],
     description: {
       de: "Ein Mosaik aus Hochmooren, Seen und Mineralinseln im Norden von Belarus. Das Gebiet ist ein wichtiger Lebensraum für den Steinadler und das Moorschneehuhn.",
@@ -1304,8 +1275,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "forest",
     name: { de: "Lipitschanskaja Puschtscha", hu: "Lipicsanszkaja Puscsa", ro: "Pădurea Lipichanskaya", en: "Lipichanskaya Pushcha"},
-    image: "/poi-images/belarus-lipichanskaya-pushcha-life-v2.webp",
-    coords: [24.666, 53.45],
     coords: [24.666, 53.45],
     description: {
       de: "Ein bedeutendes Waldgebiet am Zusammenfluss der Memel und der Schtschara. Es ist bekannt für seine alten Eichenwälder und eine vielfältige Flora mit über 700 Pflanzenarten.",
@@ -1349,8 +1318,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "forest",
     name: { de: "Grodnenskaja Puschtscha", hu: "Grodnyenszkaja Puscsa", ro: "Pădurea Grodno", en: "Grodnenskaya Pushcha"},
-    image: "/poi-images/belarus-grodnenskaya-pushcha-life-v2.webp",
-    coords: [23.75, 53.75],
     coords: [23.75, 53.75],
     description: {
       de: "Ein Waldgebiet im äußersten Westen von Belarus, das an Polen und Litauen grenzt. Es ist Teil eines großen grenzüberschreitenden Waldökosystems.",
@@ -1396,7 +1363,6 @@ export const belarusLifeV2: POI[] = [
     name: { de: "Zentraler Botanischer Garten Minsk", hu: "Minszki Központi Botanikus Kert", ro: "Grădina Botanică Centrală din Minsk", en: "Central Botanical Garden of Minsk"},
     image: "/poi-images/belarus-minsk-botanical-garden-life-v2.webp",
     coords: [27.6, 53.916],
-    coords: [27.6, 53.916],
     description: {
       de: "Einer der größten botanischen Gärten Europas nach Fläche. Er beherbergt eine umfangreiche Sammlung von lebenden Pflanzen aus verschiedenen Klimazonen der Welt.",
       hu: "Európa egyik legnagyobb területű botanikus kertje. Világszerte különböző éghajlati övezetekből származó élő növények gazdag gyűjteményének ad otthont.",
@@ -1440,8 +1406,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "park",
     name: { de: "Minsker Zoo", hu: "Minszki Állatkert", ro: "Grădina Zoologică din Minsk", en: "Minsk Zoo"},
-    image: "/poi-images/belarus-minsk-zoo-life-v2.webp",
-    coords: [27.633, 53.85],
     coords: [27.633, 53.85],
     description: {
       de: "Ein moderner Zoo im Südosten der Hauptstadt, der direkt am Fluss Swislotsch liegt. Er umfasst ein großes Exotarium und ein Delphinarium.",
@@ -1487,7 +1451,6 @@ export const belarusLifeV2: POI[] = [
     name: { de: "Grodnoer Zoo", hu: "Grodnói Állatkert", ro: "Grădina Zoologică din Grodno", en: "Grodno Zoo"},
     image: "/poi-images/belarus-grodno-zoo-life-v2.webp",
     coords: [23.833, 53.683],
-    coords: [23.833, 53.683],
     description: {
       de: "Der älteste Zoo in Belarus, gegründet in den 1920er Jahren. Er beherbergt eine bedeutende Sammlung von Tieren der einheimischen Fauna sowie exotische Arten.",
       hu: "Fehéroroszország legrégebbi állatkertje, amelyet az 1920-as években alapítottak. Jelentős gyűjteménnyel rendelkezik a hazai fauna és egzotikus fajok tekintetében.",
@@ -1531,8 +1494,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "park",
     name: { de: "Witebsker Zoo", hu: "Vitebszki Állatkert", ro: "Grădina Zoologică din Vitebsk", en: "Vitebsk Zoo"},
-    image: "/poi-images/belarus-vitebsk-zoo-life-v2.webp",
-    coords: [30.2, 55.183],
     coords: [30.2, 55.183],
     description: {
       de: "Ein kleinerer, aber traditionsreicher Zoo im Zentrum von Witebsk. Er ist besonders bei Familien beliebt und konzentriert sich auf die Pflege verletzter Wildtiere.",
@@ -1576,8 +1537,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "park",
     name: { de: "Botanischer Garten der Universität Witebsk", hu: "Vitebszki Egyetemi Botanikus Kert", ro: "Grădina Botanică a Universității din Vitebsk", en: "Botanical Garden of Vitebsk State University"},
-    image: "/poi-images/belarus-vitebsk-botanical-garden-life-v2.webp",
-    coords: [30.216, 55.166],
     coords: [30.216, 55.166],
     description: {
       de: "Ein wissenschaftlich geführter Garten, der eine wichtige Rolle beim Schutz seltener Pflanzen des belarussischen Nordens spielt. Er verfügt über ein bedeutendes Herbarium.",
@@ -1621,8 +1580,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "park",
     name: { de: "Mogiljower Zoo-Garten", hu: "Mogiljovi Állatkert", ro: "Grădina Zoologică din Mogilev", en: "Mogilev Zoo-Garden"},
-    image: "/poi-images/belarus-mogilev-zoo-life-v2.webp",
-    coords: [30.25, 53.916],
     coords: [30.25, 53.916],
     description: {
       de: "Ein einzigartiger Zoo-Garten, in dem Tiere in weitläufigen Gehegen leben, die ihrer natürlichen Umgebung nachempfunden sind. Er ist bekannt für seine Wisent-Safari.",
@@ -1666,8 +1623,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "park",
     name: { de: "Loshiza-Park", hu: "Losicai Park", ro: "Parcul Loshitsa", en: "Loshitsa Park"},
-    image: "/poi-images/belarus-loshitsa-park-life-v2.webp",
-    coords: [27.583, 53.85],
     coords: [27.583, 53.85],
     description: {
       de: "Ein historischer Park in Minsk mit uralten Obstgärten und seltenen Baumarten. Er ist ein wichtiges ökologisches Refugium innerhalb der Stadtgrenzen.",
@@ -1756,8 +1711,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "wildlife",
     name: { de: "Polesskij-Reservat", hu: "Polesszkij Állami Sugárökológiai Rezervátum", ro: "Rezervația Radioecologică de Stat Polessky", en: "Polessky State Radioecological Reserve"},
-    image: "/poi-images/belarus-polessky-reserve-life-v2.webp",
-    coords: [29.95, 51.65],
     coords: [29.95, 51.65],
     description: {
       de: "Das größte Naturschutzgebiet des Landes, das nach der Nuklearkatastrophe von Tschernobyl eingerichtet wurde. In Abwesenheit von Menschen hat sich hier eine unberührte Wildnis entwickelt.",
@@ -1801,8 +1754,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "wildlife",
     name: { de: "Landschaftsschutzgebiet Kotra", hu: "Kotra Tájvédelmi Körzet", ro: "Rezervația Peisagistică Kotra", en: "Kotra Landscape Reserve"},
-    image: "/poi-images/belarus-kotra-reserve-life-v2.webp",
-    coords: [24.55, 53.966],
     coords: [24.55, 53.966],
     description: {
       de: "Ein grenzüberschreitendes Schutzgebiet an der Grenze zu Litauen, das die unberührten Auen des Flusses Kotra schützt. Es umfasst weite Übergangsmoore und alte Wälder.",
@@ -1846,8 +1797,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "wildlife",
     name: { de: "Reservat Swislotsch-Beresina", hu: "Szviszlocs-Berezina Rezervátum", ro: "Rezervația Svisloch-Berezina", en: "Svisloch-Berezina Reserve"},
-    image: "/poi-images/belarus-svisloch-berezina-reserve-life-v2.webp",
-    coords: [28.983, 53.533],
     coords: [28.983, 53.533],
     description: {
       de: "Ein bedeutendes Feuchtgebiet am Zusammenfluss der Flüsse Swislotsch und Beresina. Es ist ein wichtiger Brutplatz für Wasservögel und beherbergt zahlreiche Fischarten.",
@@ -1892,8 +1841,6 @@ export const belarusLifeV2: POI[] = [
     parent: "BY",
     type: "wildlife",
     name: { de: "Landschaftsschutzgebiet Sinscha", hu: "Szinsa Tájvédelmi Körzet", ro: "Rezervația Peisagistică Sinsha", en: "Sinsha Landscape Reserve"},
-    image: "/poi-images/belarus-sinsha-reserve-life-v2.webp",
-    coords: [29.166, 55.95],
     coords: [29.166, 55.95],
     description: {
       de: "Ein seenreiches Waldgebiet im Norden von Belarus, das durch eine hügelige Endmoränenlandschaft geprägt ist. Es beherbergt seltene boreale Pflanzenarten.",
@@ -1938,7 +1885,6 @@ export const belarusLifeV2: POI[] = [
     type: "wildlife",
     name: { de: "Reservat Stary Schaden", hu: "Sztarij Zsaden Rezervátum", ro: "Rezervația Stary Zhaden", en: "Stary Zhaden Reserve"},
     image: "/poi-images/belarus-stary-zhaden-reserve-life-v2.webp",
-    coords: [27.466, 51.916],
     coords: [27.466, 51.916],
     description: {
       de: "Ein abgelegenes Sumpfgebiet in Polesien, das eines der am wenigsten gestörten Ökosysteme des Landes darstellt. Es ist ein Paradies für herpetologische Forschungen.",

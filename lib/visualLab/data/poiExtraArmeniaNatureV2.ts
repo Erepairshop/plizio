@@ -8,7 +8,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
     parent: "AM-GR",
     coords: [45.3400, 40.3160],
     name: { de: "Sewansee", hu: "Szeván-tó", ro: "Lacul Sevan", en: "Lake Sevan"},
-    image: "/poi-images/lake-sevan-nature-v2.webp",
     description: { de: "Der Sewansee ist der größte See in Armenien und einer der größten Hochgebirgsseen der Welt.", hu: "A Szeván-tó Örményország legnagyobb tava és a világ egyik legnagyobb magashegyi tava.", ro: "Lacul Sevan este cel mai mare lac din Armenia și unul dintre cele mai mari lacuri alpine din lume.", en: "Lake Sevan is the largest lake in Armenia and one of the largest high-altitude lakes in the world." , es: "El lago Seván es el lago más grande de Armenia y uno de los lagos alpinos más grandes del mundo.", pt: "O Lago Sevan é o maior lago da Arménia e um dos maiores lagos de alta montanha do mundo.", fr: "Le lac Sevan est le plus grand lac d'Arménie et l'un des plus grands lacs de haute altitude au monde."},
     facts: {
       de: ["Fläche von etwa 1.242 km².", "Liegt auf 1.900 Metern Höhe."],
@@ -125,7 +124,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
     parent: "AM-AG",
     coords: [44.1963, 40.5230],
     name: { de: "Aragaz", hu: "Aragac", ro: "Muntele Aragaț", en: "Mount Aragats"},
-    image: "/poi-images/mount-aragats-nature-v2.webp",
     description: { de: "Der Aragaz ist der höchste Berg in Armenien und ein erloschener Schichtvulkan.", hu: "Az Aragac Örményország legmagasabb hegye, egy kialudt rétegvulkán.", ro: "Muntele Aragaț este cel mai înalt munte din Armenia, fiind un stratovulcan stins.", en: "Mount Aragats is the highest mountain in Armenia, an extinct stratovolcano." , es: "El Aragats es la montaña más alta de Armenia y un volcán compuesto extinguido.", pt: "O Aragats é a montanha mais alta da Arménia e um vulcão composto extinto.", fr: "L'Aragats est le point culminant de l'Arménie et un volcan composite éteint."},
     facts: {
       de: ["Höchster Gipfel: 4.090 Meter.", "Besteht aus vier Gipfeln."],
@@ -485,7 +483,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
     parent: "AM-TV",
     coords: [44.9786, 40.7291],
     name: { de: "Nationalpark Dilidschan", hu: "Dilizsan Nemzeti Park", ro: "Parcul Național Dilijan", en: "Dilijan National Park"},
-    image: "/poi-images/dilijan-national-park-nature-v2.webp",
     description: { de: "Der Nationalpark Dilidschan ist bekannt für seine dichten Wälder, Seen und reiche Artenvielfalt.", hu: "A Dilizsan Nemzeti Park sűrű erdeiről, tavairól és gazdag biodiverzitásáról híres.", ro: "Parcul Național Dilijan este renumit pentru pădurile sale dese, lacurile și biodiversitatea bogată.", en: "Dilijan National Park is known for its dense forests, lakes, and rich biodiversity." , es: "El Parque Nacional de Dilijan es conocido por sus densos bosques, lagos y rica biodiversidad.", pt: "O Parque Nacional Dilijan é conhecido pelas suas florestas densas, lagos e rica biodiversidade.", fr: "Le parc national de Dilidjan est célèbre pour ses forêts denses, ses lacs et sa riche biodiversité."},
     facts: {
       de: ["Gegründet im Jahr 2002.", "Umfasst eine Fläche von 240 km²."],
@@ -1070,7 +1067,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
     parent: "AM-AR",
     coords: [44.8988, 40.0166],
     name: { de: "Chosrow-Wald", hu: "Hoszrov-erdő", ro: "Pădurea Khosrov", en: "Khosrov Forest"},
-    image: "/poi-images/khosrov-forest-nature-v2.webp",
     description: { de: "Das staatliche Schutzgebiet Chosrow-Wald ist eines der ältesten Naturschutzgebiete der Welt.", hu: "A Hoszrov-erdő Állami Rezervátum a világ egyik legrégebbi természetvédelmi területe.", ro: "Rezervația de stat Pădurea Khosrov este una dintre cele mai vechi arii naturale protejate din lume.", en: "Khosrov Forest State Reserve is one of the oldest protected nature areas in the world." , es: "La Reserva Estatal del Bosque de Khosrov es una de las áreas protegidas más antiguas del mundo.", pt: "A Reserva Estatal da Floresta de Khosrov é uma das reservas naturais mais antigas do mundo.", fr: "La réserve d'État de la forêt de Khosrov est l'une des plus anciennes réserves naturelles au monde."},
     facts: {
       de: ["Gegründet im 4. Jahrhundert.", "Schützt seltene kaukasische Leoparden."],
@@ -1295,7 +1291,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
     parent: "AM-SU",
     coords: [46.4667, 39.0500],
     name: { de: "Schikahogh-Reservat", hu: "Sikahogh-rezervátum", ro: "Rezervația Shikahogh", en: "Shikahogh State Reserve"},
-    image: "/poi-images/shikahogh-reserve-nature-v2.webp",
     description: { de: "Das Schikahogh-Reservat schützt dichte Eichen- und Hainbuchenwälder im Süden Armeniens.", hu: "A Sikahogh-rezervátum sűrű tölgy- és gyertyánerdőket véd Örményország déli részén.", ro: "Rezervația Shikahogh protejează păduri dese de stejar și carpen în sudul Armeniei.", en: "Shikahogh State Reserve protects dense oak and hornbeam forests in southern Armenia." , es: "La Reserva de Shikahogh protege densos bosques de robles y carpes en el sur de Armenia.", pt: "A Reserva de Shikahogh protege florestas densas de carvalho e carpe no sul da Arménia.", fr: "La réserve de Shikahogh protège des forêts denses de chênes et de charmes dans le sud de l'Arménie."},
     facts: {
       de: ["Liegt in der Provinz Sjunik.", "Lebensraum für Bären und Wölfe."],
@@ -1331,7 +1326,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
     parent: "AM-SU",
     coords: [46.0333, 39.1667],
     name: { de: "Kaputdschugh", hu: "Kaputdzsugh", ro: "Muntele Kaputjugh", en: "Mount Kaputjugh"},
-    image: "/poi-images/mount-kaputjugh-nature-v2.webp",
     description: { de: "Der Kaputdschugh ist der zweithöchste Berg in Armenien und bildet die Grenze zu Nachitschewan.", hu: "A Kaputdzsugh Örményország második legmagasabb hegye, mely határt képez Nahicsevánnal.", ro: "Muntele Kaputjugh este al doilea cel mai înalt munte din Armenia, formând granița cu Nahicevan.", en: "Mount Kaputjugh is the second highest mountain in Armenia, forming the border with Nakhchivan." , es: "El Kaputjugh es la segunda montaña más alta de Armenia y forma la frontera con Najicheván.", pt: "O Kaputjugh é a segunda montanha mais alta da Arménia e forma a fronteira com Nakhchivan.", fr: "Le Kaputjugh est la deuxième plus haute montagne d'Arménie et marque la frontière avec le Nakhitchevan."},
     facts: {
       de: ["Höhe von 3.905 Metern.", "Teil des Sangesur-Gebirges."],
@@ -1664,7 +1658,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
     parent: "AM-KT",
     coords: [44.5208, 40.1792],
     name: { de: "Hrasdan", hu: "Hrazdan", ro: "Râul Hrazdan", en: "Hrazdan River"},
-    image: "/poi-images/hrazdan-river-nature-v2.webp",
     description: { de: "Der Hrasdan ist ein bedeutender Fluss in Armenien, der aus dem Sewansee fließt und Eriwan durchquert.", hu: "A Hrazdan egy jelentős folyó Örményországban, amely a Szeván-tóból ered és átszeli Jerevánt.", ro: "Râul Hrazdan este un râu important din Armenia, care izvorăște din Lacul Sevan și traversează Erevanul.", en: "The Hrazdan is a major river in Armenia, flowing from Lake Sevan and passing through Yerevan." , es: "El Hrazdan es un río importante de Armenia que fluye desde el lago Seván y atraviesa Ereván.", pt: "O Hrazdan é um rio importante na Arménia que flui do Lago Sevan e atravessa Erevan.", fr: "Le Hrazdan est un fleuve majeur d'Arménie qui s'écoule du lac Sevan et traverse Erevan."},
     facts: {
       de: ["Länge von 141 Kilometern.", "Mündet in den Aras."],
@@ -1844,7 +1837,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
     parent: "AM-AR",
     coords: [44.7500, 39.8167],
     name: { de: "Aras", hu: "Araksz", ro: "Râul Aras", en: "Aras River"},
-    image: "/poi-images/aras-river-nature-v2.webp",
     description: { de: "Der Aras markiert die südliche Grenze Armeniens und spielt eine wichtige Rolle in der Geschichte der Region.", hu: "Az Araksz Örményország déli határát jelöli, és fontos szerepet játszik a régió történelmében.", ro: "Râul Aras marchează granița de sud a Armeniei și joacă un rol important în istoria regiunii.", en: "The Aras marks the southern border of Armenia and plays an important role in the region's history." , es: "El Aras marca la frontera sur de Armenia y desempeña un papel importante en la historia de la región.", pt: "O Aras marca a fronteira sul da Arménia e desempenha um papel importante na história da região.", fr: "L'Araxe marque la frontière sud de l'Arménie et joue un rôle important dans l'histoire de la région."},
     facts: {
       de: ["Gesamtlänge von über 1.000 km.", "Fließt ins Kaspische Meer."],
@@ -1997,7 +1989,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
     parent: "AM-SH",
     coords: [43.6167, 41.0500],
     name: { de: "Arpisee", hu: "Arpi-tó", ro: "Lacul Arpi", en: "Lake Arpi"},
-    image: "/poi-images/lake-arpi-nature-v2.webp",
     description: { de: "Der Arpisee liegt im Nordwesten Armeniens und ist das Zentrum des gleichnamigen Nationalparks.", hu: "Az Arpi-tó Örményország északnyugati részén található, az azonos nevű nemzeti park központja.", ro: "Lacul Arpi este situat în nord-vestul Armeniei și reprezintă centrul parcului național omonim.", en: "Lake Arpi is located in northwestern Armenia and is the center of the national park of the same name." , es: "El lago Arpi se encuentra en el noroeste de Armenia y es el centro del parque nacional del mismo nombre.", pt: "O Lago Arpi situa-se no noroeste da Arménia e é o centro do parque nacional com o mesmo nome.", fr: "Le lac Arpi est situé au nord-ouest de l'Arménie et constitue le cœur du parc national du même nom."},
     facts: {
       de: ["Auf 2.025 Metern Höhe.", "Wichtiger Rastplatz für Zugvögel."],
@@ -2366,7 +2357,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
     parent: "AM-SU",
     coords: [46.2000, 38.9667],
     name: { de: "Nationalpark Arewik", hu: "Arevik Nemzeti Park", ro: "Parcul Național Arevik", en: "Arevik National Park"},
-    image: "/poi-images/arevik-national-park-nature-v2.webp",
     description: { de: "Der Nationalpark Arewik im äußersten Süden Armeniens schützt seltene Tierarten und bergige Landschaften.", hu: "Az Örményország legdélebbi részén fekvő Arevik Nemzeti Park ritka állatfajokat és hegyvidéki tájakat véd.", ro: "Parcul Național Arevik din extremitatea sudică a Armeniei protejează specii rare de animale și peisaje montane.", en: "Arevik National Park in the extreme south of Armenia protects rare animal species and mountainous landscapes." , es: "El Parque Nacional Arevik, en el extremo sur de Armenia, protege especies animales raras y paisajes montañosos.", pt: "O Parque Nacional Arevik, no extremo sul da Arménia, protege espécies animais raras e paisagens montanhosas.", fr: "Le parc national d'Arevik, situé à l'extrême sud de l'Arménie, protège des espèces animales rares et des paysages montagneux."},
     facts: {
       de: ["Gegründet im Jahr 2009.", "Fläche von über 344 km²."],
@@ -2555,7 +2545,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
     parent: "AM-GR",
     coords: [44.9458, 40.2264],
     name: { de: "Aschdahak", hu: "Azhdahak", ro: "Muntele Azhdahak", en: "Mount Azhdahak"},
-    image: "/poi-images/mount-azhdahak-nature-v2.webp",
     description: { de: "Der Aschdahak ist der höchste Punkt des Geghama-Gebirges und hat einen Kratersee auf dem Gipfel.", hu: "Az Azhdahak a Gegama-hegység legmagasabb pontja, csúcsán egy krátertóval.", ro: "Muntele Azhdahak este cel mai înalt punct al Munților Geghama, având un lac de crater pe vârf.", en: "Azhdahak is the highest point of the Geghama Mountains, featuring a crater lake at its summit." , es: "El Azhdahak es el punto más alto de las montañas Geghama y tiene un lago de cráter en la cima.", pt: "O Azhdahak é o ponto mais alto das montanhas Geghama e possui um lago de cratera no cume.", fr: "L'Azhdahak est le point culminant des monts Geghama et possède un lac de cratère à son sommet."},
     facts: {
       de: ["Höhe von 3.597 Metern.", "Bekannt für alte Petroglyphen."],
@@ -3176,7 +3165,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
     parent: "AM-SU",
     coords: [46.3333, 39.4000],
     name: { de: "Worotan", hu: "Vorotan", ro: "Râul Vorotan", en: "Vorotan River"},
-    image: "/poi-images/vorotan-river-nature-v2.webp",
     description: { de: "Der Worotan gräbt sich durch eine tiefe Schlucht in Südarmenien, die für ihre landschaftliche Schönheit bekannt ist.", hu: "A Vorotan folyó mély szurdokot vájt Dél-Örményországban, amely természeti szépségéről híres.", ro: "Râul Vorotan sapă un defileu adânc în sudul Armeniei, renumit pentru frumusețea sa peisagistică.", en: "The Vorotan River carves a deep gorge in southern Armenia, known for its scenic beauty." , es: "El Vorotan se abre paso a través de un profundo cañón en el sur de Armenia, conocido por su belleza paisajística.", pt: "O Vorotan abre caminho através de um desfiladeiro profundo no sul da Arménia, conhecido pela sua beleza paisagística.", fr: "Le Vorotan serpente à travers une gorge profonde dans le sud de l'Arménie, réputée pour sa beauté spectaculaire."},
     facts: {
       de: ["Länge von 178 Kilometern.", "Fließt durch die Provinz Sjunik."],
@@ -3437,7 +3425,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
     parent: "AM-AG",
     coords: [44.1814, 40.4725],
     name: { de: "Karisee", hu: "Kari-tó", ro: "Lacul Kari", en: "Lake Kari"},
-    image: "/poi-images/lake-kari-nature-v2.webp",
     description: { de: "Der Karisee ist ein hochgelegener Bergsee am Fuße des Berges Aragaz, der größtenteils aus Schmelzwasser besteht.", hu: "A Kari-tó egy magasan fekvő hegyi tó az Aragac-hegy lábánál, amelyet nagyrészt olvadékvíz táplál.", ro: "Lacul Kari este un lac alpin situat la poalele Muntelui Aragaț, format în mare parte din apă de topire.", en: "Lake Kari is a high-altitude mountain lake at the foot of Mount Aragats, formed mostly by meltwater." , es: "El lago Kari es un lago de alta montaña a los pies del monte Aragats, formado principalmente por agua de deshielo.", pt: "O Lago Kari é um lago de alta montanha no sopé do Monte Aragats, consistindo principalmente em água de degelo.", fr: "Le lac Kari est un lac de haute montagne au pied du mont Aragats, principalement alimenté par la fonte des neiges."},
     facts: {
       de: ["Auf 3.185 Metern Höhe.", "Wird von Schnee gespeist."],
@@ -3473,7 +3460,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
     parent: "AM-AG",
     coords: [44.3833, 40.2833],
     name: { de: "Kassagh", hu: "Kaszagh", ro: "Râul Kasagh", en: "Kasagh River"},
-    image: "/poi-images/kasagh-river-nature-v2.webp",
     description: { de: "Der Kassagh fließt durch den Westen Armeniens und hat eine tiefe Schlucht geschaffen, an der viele Klöster liegen.", hu: "A Kaszagh folyó Örményország nyugati részén folyik, mély szurdokot vájva, melynek mentén számos kolostor található.", ro: "Râul Kasagh curge prin vestul Armeniei și a creat un defileu adânc de-a lungul căruia se află multe mănăstiri.", en: "The Kasagh flows through western Armenia, creating a deep gorge along which many monasteries are located." , es: "El Kasagh fluye por el oeste de Armenia y ha creado un profundo cañón donde se encuentran muchos monasterios.", pt: "O Kasagh flui através do oeste da Arménia e criou um desfiladeiro profundo onde se situam muitos mosteiros.", fr: "Le Kasagh traverse l'ouest de l'Arménie et a creusé un canyon profond bordé de nombreux monastères."},
     facts: {
       de: ["Länge von 89 Kilometern.", "Schneidet durch vulkanisches Gestein."],
@@ -3770,7 +3756,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
     parent: "AM-KT",
     coords: [44.9222, 40.2800],
     name: { de: "Aknasee", hu: "Akna-tó", ro: "Lacul Akna", en: "Lake Akna"},
-    image: "/poi-images/lake-akna-nature-v2.webp",
     description: { de: "Der Aknasee ist ein malerischer Kratersee im Geghama-Gebirge, umgeben von alpinen Wiesen.", hu: "Az Akna-tó egy festői krátertó a Gegama-hegységben, alpesi rétekkel övezve.", ro: "Lacul Akna este un lac de crater pitoresc din Munții Geghama, înconjurat de pajiști alpine.", en: "Lake Akna is a picturesque crater lake in the Geghama Mountains, surrounded by alpine meadows." , es: "El lago Akna es un pintoresco lago de cráter en las montañas de Geghama, rodeado de prados alpinos.", pt: "O Lago Akna é um pitoresco lago de cratera nas montanhas Geghama, rodeado por prados alpinos.", fr: "Le lac Akna est un pittoresque lac de cratère dans les monts Geghama, entouré de prairies alpines."},
     facts: {
       de: ["Auf 3.030 Metern Höhe.", "Fläche von nur 0,8 km²."],
@@ -3923,7 +3908,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
     parent: "AM-LO",
     coords: [44.8167, 41.2500],
     name: { de: "Debed", hu: "Debed", ro: "Râul Debed", en: "Debed River"},
-    image: "/poi-images/debed-river-nature-v2.webp",
     description: { de: "Der Debed fließt durch tiefe, bewaldete Schluchten im Norden Armeniens in Richtung Georgien.", hu: "A Debed Észak-Örményország mély, erdős szurdokaiban folyik Grúzia felé.", ro: "Râul Debed curge prin defileuri adânci și împădurite în nordul Armeniei, îndreptându-se spre Georgia.", en: "The Debed flows through deep, forested gorges in northern Armenia towards Georgia." , es: "El río Debed fluye a través de profundos cañones boscosos en el norte de Armenia hacia Georgia.", pt: "O rio Debed flui através de desfiladeiros profundos e florestados no norte da Arménia em direção à Geórgia.", fr: "Le Debed coule à travers de profonds canyons boisés dans le nord de l'Arménie en direction de la Géorgie."},
     facts: {
       de: ["Länge von 176 Kilometern.", "Teil des Kura-Beckens."],
@@ -5048,7 +5032,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
     parent: "AM-TV",
     coords: [44.9625, 40.7516],
     name: { de: "Parz-See", hu: "Parz-tó", ro: "Lacul Parz", en: "Lake Parz"},
-    image: "/poi-images/lake-parz-nature-v2.webp",
     description: { de: "Der Parz-See ist ein kleiner Waldsee im Nationalpark Dilidschan, der für sein kristallklares Wasser bekannt ist.", hu: "A Parz-tó egy kis erdei tó a Dilizsan Nemzeti Parkban, amely kristálytiszta vizéről ismert.", ro: "Lacul Parz este un mic lac de pădure în Parcul Național Dilijan, renumit pentru apele sale cristaline.", en: "Lake Parz is a small forest lake in Dilijan National Park, known for its crystal-clear water." , es: "El lago Parz es un pequeño lago forestal en el Parque Nacional de Dilijan, conocido por sus aguas cristalinas.", pt: "O Lago Parz é um pequeno lago florestal no Parque Nacional Dilijan, conhecido pelas suas águas cristalinas.", fr: "Le lac Parz est un petit lac forestier du parc national de Dilidjan, réputé pour ses eaux cristallines."},
     facts: {
       de: ["Name bedeutet „klarer See“.", "Beliebtes Ziel für Wanderer."],
@@ -5399,7 +5382,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
     parent: "AM-SU",
     coords: [46.3314, 39.1361],
     name: { de: "Chustup", hu: "Husztup", ro: "Muntele Khustup", en: "Mount Khustup"},
-    image: "/poi-images/mount-khustup-nature-v2.webp",
     description: { de: "Der Chustup ist ein prominenter Berg in Südarmenien, dessen Hänge mit dichten Wäldern und Alpenwiesen bedeckt sind.", hu: "A Husztup egy kiemelkedő hegy Dél-Örményországban, amelynek lejtőit sűrű erdők és alpesi rétek borítják.", ro: "Muntele Khustup este un munte proeminent în sudul Armeniei, cu versanți acoperiți de păduri dese și pajiști alpine.", en: "Khustup is a prominent mountain in southern Armenia, with slopes covered in dense forests and alpine meadows." , es: "El Khustup es una montaña prominente en el sur de Armenia, cuyas laderas están cubiertas de densos bosques y praderas alpinas.", pt: "O Khustup é uma montanha proeminente no sul da Arménia, cujas encostas estão cobertas por florestas densas e prados alpinos.", fr: "Le Khustup est une montagne emblématique du sud de l'Arménie, dont les flancs sont couverts de forêts denses et de prairies alpines."},
     facts: {
       de: ["Höhe von 3.201 Metern.", "Heiliger Ort in der armenischen Kultur."],
@@ -5480,7 +5462,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
     parent: "AM-GR",
     coords: [45.3000, 40.3500],
     name: { de: "Nationalpark Sewan", hu: "Szeván Nemzeti Park", ro: "Parcul Național Sevan", en: "Sevan National Park"},
-    image: "/poi-images/sevan-national-park-nature-v2.webp",
     description: { de: "Der Nationalpark Sewan wurde gegründet, um das empfindliche Ökosystem des Sewansees und seiner Umgebung zu schützen.", hu: "A Szeván Nemzeti Parkot a Szeván-tó és környezetének érzékeny ökoszisztémájának védelme érdekében hozták létre.", ro: "Parcul Național Sevan a fost înființat pentru a proteja ecosistemul fragil al Lacului Sevan și al împrejurimilor sale.", en: "Sevan National Park was established to protect the fragile ecosystem of Lake Sevan and its surroundings." , es: "El Parque Nacional Sevan fue fundado para proteger el delicado ecosistema del lago Sevan y sus alrededores.", pt: "O Parque Nacional Sevan foi fundado para proteger o ecossistema sensível do lago Sevan e arredores.", fr: "Le Parc National de Sevan a été créé pour protéger l'écosystème fragile du lac Sevan et de ses environs."},
     facts: {
       de: ["Gegründet im Jahr 1978.", "Schützt endemische Fischarten."],

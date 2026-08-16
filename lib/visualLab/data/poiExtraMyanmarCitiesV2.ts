@@ -125,7 +125,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-06",
     coords: [96.1561, 16.8053],
     name: { de: "Rangun", hu: "Jangon", ro: "Yangon", en: "Yangon"},
-    image: "/poi-images/yangon-cities-v2.webp",
     description: {
       de: "Die größte Stadt Myanmars und das ehemalige wirtschaftliche und kulturelle Zentrum.",
       hu: "Mianmar legnagyobb városa, egykori fővárosa és legfontosabb gazdasági központja.",
@@ -1467,7 +1466,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-04",
     coords: [96.0836, 21.9750],
     name: { de: "Mandalay", hu: "Mandalay", ro: "Mandalay", en: "Mandalay"},
-    image: "/poi-images/mandalay-cities-v2.webp",
     description: {
       de: "Die zweitgrößte Stadt des Landes, bekannt für ihre reiche Geschichte und Kultur.",
       hu: "Az ország második legnagyobb városa, amely gazdag történelméről és kultúrájáról ismert.",
@@ -2449,7 +2447,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-18",
     coords: [96.1292, 19.7450],
     name: { de: "Naypyidaw", hu: "Nepjida", ro: "Naypyidaw", en: "Naypyidaw"},
-    image: "/poi-images/naypyidaw-cities-v2.webp",
     description: {
       de: "Die moderne Hauptstadt von Myanmar, die für ihre weitläufigen und ruhigen Straßen bekannt ist.",
       hu: "Mianmar modern fővárosa, amely széles és csendes utcáiról ismert.",
@@ -3611,7 +3608,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-15",
     coords: [97.6256, 16.4833],
     name: { de: "Mawlamyaing", hu: "Mawlamjine", ro: "Mawlamyine", en: "Mawlamyine"},
-    image: "/poi-images/mawlamyine-cities-v2.webp",
     description: {
       de: "Die viertgrößte Stadt von Myanmar, gelegen am Ufer des Flusses Thanlwin.",
       hu: "Mianmar negyedik legnagyobb városa, a Szalven folyó partján fekszik.",
@@ -4845,7 +4841,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-02",
     coords: [96.4833, 17.3333],
     name: { de: "Bago", hu: "Bago", ro: "Bago", en: "Bago"},
-    image: "/poi-images/bago-cities-v2.webp",
     description: {
       de: "Eine historische Stadt, die früher als Pegu bekannt war und viele buddhistische Denkmäler beherbergt.",
       hu: "Történelmi város, amelyet korábban Pegu néven ismertek, és sok buddhista műemléknek ad otthont.",
@@ -5431,7 +5426,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-07",
     coords: [94.7333, 16.7833],
     name: { de: "Pathein", hu: "Pathein", ro: "Pathein", en: "Pathein"},
-    image: "/poi-images/pathein-cities-v2.webp",
     description: {
       de: "Eine Hafenstadt im Irrawaddy-Delta, berühmt für die Herstellung traditioneller Sonnenschirme.",
       hu: "Kikötőváros az Irrawaddy deltájában, amely hagyományos napernyőinek készítéséről híres.",
@@ -5513,7 +5507,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-01",
     coords: [95.1333, 22.1167],
     name: { de: "Monywa", hu: "Monjva", ro: "Monywa", en: "Monywa"},
-    image: "/poi-images/monywa-cities-v2.webp",
     description: {
       de: "Eine große Handelsstadt am Fluss Chindwin, bekannt für ihre riesigen Buddha-Statuen.",
       hu: "Nagy kereskedőváros a Chindwin folyó mentén, hatalmas Buddha-szobrairól ismert.",
@@ -6053,7 +6046,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-16",
     coords: [92.9000, 20.1500],
     name: { de: "Sittwe", hu: "Sittwe", ro: "Sittwe", en: "Sittwe"},
-    image: "/poi-images/sittwe-cities-v2.webp",
     description: {
       de: "Eine Hafenstadt am Golf von Bengalen und die Hauptstadt des Rakhaing-Staates.",
       hu: "Kikötőváros a Bengáli-öbölben és a Rakhine állam fővárosa.",
@@ -6315,7 +6307,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-04",
     coords: [95.8667, 20.8833],
     name: { de: "Meiktila", hu: "Meiktila", ro: "Meiktila", en: "Meiktila"},
-    image: "/poi-images/meiktila-cities-v2.webp",
     description: {
       de: "Eine strategisch wichtige Stadt im Zentrum von Myanmar, am Ufer des Meiktila-Sees.",
       hu: "Stratégiai fontosságú város Mianmar központjában, a Meiktila-tó partján.",
@@ -7035,7 +7026,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-17",
     coords: [97.0333, 20.7833],
     name: { de: "Taunggyi", hu: "Taunggyi", ro: "Taunggyi", en: "Taunggyi"},
-    image: "/poi-images/taunggyi-cities-v2.webp",
     description: {
       de: "Die Hauptstadt des Shan-Staates, auf einem Bergrücken gelegen und für ihr kühles Klima bekannt.",
       hu: "A Shan állam fővárosa, amely egy hegygerincen fekszik és hűvös klímájáról ismert.",
@@ -7621,7 +7611,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-04",
     coords: [95.3833, 21.4500],
     name: { de: "Myingyan", hu: "Mjindzsan", ro: "Myingyan", en: "Myingyan"},
-    image: "/poi-images/myingyan-cities-v2.webp",
     description: {
       de: "Eine Industriestadt im Tal des Irrawaddy-Flusses, die für ihren Baumwollanbau bekannt ist.",
       hu: "Ipari város az Irrawaddy folyó völgyében, amely gyapottermesztéséről ismert.",
@@ -8953,7 +8942,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-05",
     coords: [98.2000, 14.0833],
     name: { de: "Dawei", hu: "Dawei", ro: "Dawei", en: "Dawei"},
-    image: "/poi-images/dawei-cities-v2.webp",
     description: {
       de: "Eine Küstenstadt im Süden Myanmars, bekannt für ihre tropischen Strände und Gummiplantagen.",
       hu: "Tengerparti város Mianmar déli részén, trópusi strandjairól és gumiültetvényeiről ismert.",
@@ -9071,7 +9059,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-02",
     coords: [95.2167, 18.8167],
     name: { de: "Pyay", hu: "Pjé", ro: "Pyay", en: "Pyay"},
-    image: "/poi-images/pyay-cities-v2.webp",
     description: {
       de: "Eine wichtige Handelsstadt am Irrawaddy-Fluss mit alten historischen Ruinen in der Nähe.",
       hu: "Fontos kereskedőváros az Irrawaddy folyón, közelében ősi történelmi romokkal.",
@@ -9143,7 +9130,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-07",
     coords: [95.4500, 17.6500],
     name: { de: "Hinthada", hu: "Hinthada", ro: "Hinthada", en: "Hinthada"},
-    image: "/poi-images/hinthada-cities-v2.webp",
     description: {
       de: "Eine geschäftige Stadt in der Ayeyarwady-Region, berühmt für ihren Reisanbau.",
       hu: "Nyüzsgő város az Ayeyarwady régióban, rizstermesztéséről híres.",
@@ -10295,7 +10281,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-01",
     coords: [95.9833, 21.8833],
     name: { de: "Sagaing", hu: "Szageng", ro: "Sagaing", en: "Sagaing"},
-    image: "/poi-images/sagaing-cities-v2.webp",
     description: {
       de: "Die Hauptstadt der Sagaing-Region, berühmt für ihre vielen buddhistischen Klöster auf den Hügeln.",
       hu: "A Szageng régió fővárosa, amely dombjain található sok buddhista kolostoráról híres.",
@@ -11421,7 +11406,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-03",
     coords: [94.9167, 20.1500],
     name: { de: "Magwe", hu: "Magwe", ro: "Magway", en: "Magway"},
-    image: "/poi-images/magway-cities-v2.webp",
     description: {
       de: "Die Hauptstadt der Magway-Region, bekannt für die Produktion von Speiseöl und Sesam.",
       hu: "A Magway régió fővárosa, amely étolaj és szezám termeléséről ismert.",
@@ -12682,7 +12666,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-04",
     coords: [94.9000, 21.1833],
     name: { de: "Nyaung U", hu: "Nyaung-U", ro: "Nyaung-U", en: "Nyaung-U"},
-    image: "/poi-images/nyaung-u-cities-v2.webp",
     description: {
       de: "Eine Stadt am Irrawaddy-Fluss, die als Hauptzugangspunkt zu den antiken Tempeln von Bagan dient.",
       hu: "Város az Irrawaddy folyón, amely a pagodákról híres Bagan ősi templomainak fő belépési pontja.",
@@ -13069,7 +13052,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-04",
     coords: [96.4667, 22.0333],
     name: { de: "Pyin U Lwin", hu: "Pjin U Lvin", ro: "Pyin Oo Lwin", en: "Pyin Oo Lwin"},
-    image: "/poi-images/pyin-oo-lwin-cities-v2.webp",
     description: {
       de: "Ein malerischer Ferienort in den Bergen in der Nähe von Mandalay, der für sein angenehmes Klima bekannt ist.",
       hu: "Festői hegyi üdülőváros Mandalay közelében, amely kellemes klímájáról ismert.",
@@ -13717,7 +13699,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-17",
     coords: [97.7500, 22.9333],
     name: { de: "Lashio", hu: "Lasio", ro: "Lashio", en: "Lashio"},
-    image: "/poi-images/lashio-cities-v2.webp",
     description: {
       de: "Die größte Stadt im nördlichen Shan-Staat und ein wichtiges Handelszentrum nahe der chinesischen Grenze.",
       hu: "Az északi Shan állam legnagyobb városa és fontos kereskedelmi központ a kínai határ közelében.",
@@ -14905,7 +14886,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-05",
     coords: [98.6000, 12.4333],
     name: { de: "Myeik", hu: "Mjeik", ro: "Myeik", en: "Myeik"},
-    image: "/poi-images/myeik-cities-v2.webp",
     description: {
       de: "Eine Hafenstadt im Süden Myanmars, berühmt für den Handel mit Meeresprodukten und Perlen.",
       hu: "Dél-Mianmari kikötőváros, amely tengeri termékeiről és gyöngykereskedelméről híres.",
@@ -15409,7 +15389,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-03",
     coords: [95.1000, 21.3333],
     name: { de: "Pakokku", hu: "Pakokku", ro: "Pakokku", en: "Pakokku"},
-    image: "/poi-images/pakokku-cities-v2.webp",
     description: {
       de: "Eine geschäftige Stadt am Irrawaddy-Fluss, die für den Handel mit Tabak und Baumwolle bekannt ist.",
       hu: "Nyüzsgő város az Irrawaddy folyón, amely dohány- és pamutkereskedelméről ismert.",
@@ -15949,7 +15928,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-13",
     coords: [97.6333, 16.8833],
     name: { de: "Hpa-an", hu: "Hpa-an", ro: "Hpa-An", en: "Hpa-An"},
-    image: "/poi-images/hpa-an-cities-v2.webp",
     description: {
       de: "Die Hauptstadt des Kayin-Staates, umgeben von markanten Karstbergen und tiefen Höhlen.",
       hu: "A Kayin állam fővárosa, amelyet jellegzetes karszthegyek és mély barlangok vesznek körül.",
@@ -17219,7 +17197,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-11",
     coords: [97.4000, 25.3833],
     name: { de: "Myitkyina", hu: "Mjitcsina", ro: "Myitkyina", en: "Myitkyina"},
-    image: "/poi-images/myitkyina-cities-v2.webp",
     description: {
       de: "Die nördlichste Hauptstadt in Myanmar, ein wichtiges Handelszentrum für Jade und Edelsteine.",
       hu: "Mianmar legészakibb fővárosa, a jáde és drágakövek fontos kereskedelmi központja.",
@@ -17301,7 +17278,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-02",
     coords: [96.4333, 18.9333],
     name: { de: "Taungoo", hu: "Taungoo", ro: "Taungoo", en: "Taungoo"},
-    image: "/poi-images/taungoo-cities-v2.webp",
     description: {
       de: "Eine historische Stadt in der Bago-Region, die für ihre Forstwirtschaft und Teakholzproduktion bekannt ist.",
       hu: "Történelmi város a Bago régióban, amely erdészetéről és teakfa termeléséről ismert.",
@@ -17373,7 +17349,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-14",
     coords: [93.6000, 22.6333],
     name: { de: "Hakha", hu: "Hakha", ro: "Hakha", en: "Hakha"},
-    image: "/poi-images/hakha-cities-v2.webp",
     description: {
       de: "Die Hauptstadt des Chin-Staates, hoch in den Bergen gelegen mit spektakulären Ausblicken.",
       hu: "A Chin állam fővárosa, magasan a hegyekben fekszik, látványos kilátással a völgyekre.",
@@ -17410,7 +17385,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-12",
     coords: [97.2000, 19.6667],
     name: { de: "Loikaw", hu: "Lojkau", ro: "Loikaw", en: "Loikaw"},
-    image: "/poi-images/loikaw-cities-v2.webp",
     description: {
       de: "Die Hauptstadt des Kayah-Staates, bekannt für die malerische Taung-Kwe-Pagode auf einem Kalksteinhügel.",
       hu: "A Kayah állam fővárosa, amely egy mészkődombon álló festői Taung Kwe pagodáról ismert.",
@@ -17492,7 +17466,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-16",
     coords: [94.3833, 18.4667],
     name: { de: "Thandwe", hu: "Thandwe", ro: "Thandwe", en: "Thandwe"},
-    image: "/poi-images/thandwe-cities-v2.webp",
     description: {
       de: "Eine Küstenstadt im Rakhine-Staat, die als Tor zum berühmten Ngapali-Strand dient.",
       hu: "Tengerparti város a Rakhine államban, amely a híres Ngapali strand kapujaként szolgál.",
@@ -17636,7 +17609,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-17",
     coords: [99.6000, 21.2833],
     name: { de: "Kengtung", hu: "Kengtung", ro: "Kengtung", en: "Kengtung"},
-    image: "/poi-images/kengtung-cities-v2.webp",
     description: {
       de: "Eine malerische Stadt im östlichen Shan-Staat, bekannt für ihre traditionelle Architektur und ethnische Vielfalt.",
       hu: "Festői város a keleti Shan államban, amely hagyományos építészetéről és etnikai sokszínűségéről ismert.",
@@ -17960,7 +17932,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     parent: "MM-17",
     coords: [97.8833, 23.9833],
     name: { de: "Muse", hu: "Musze", ro: "Muse", en: "Muse"},
-    image: "/poi-images/muse-cities-v2.webp",
     description: {
       de: "Eine wichtige Grenzstadt im nördlichen Shan-Staat, die durch starken Handel mit China geprägt ist.",
       hu: "Fontos határváros az északi Shan államban, amelyet a Kínával folytatott erős kereskedelem jellemez.",

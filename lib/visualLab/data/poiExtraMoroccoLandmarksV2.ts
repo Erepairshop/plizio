@@ -345,7 +345,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "II. Hasszán mecset",
       ro: "Moscheea Hassan al II-lea",
       en: "Hassan II Mosque"},
-    image: "/poi-images/ma-casablanca-hassan-ii-mosque-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Die Hassan-II.-Moschee in Casablanca ist ein monumentales Bauwerk und eine der größten Moscheen weltweit. Sie wurde anlässlich des 60. Geburtstages von König Hassan II. erbaut und 1993 nach sechsjähriger Bauzeit fertiggestellt. Das Bauwerk ist einzigartig, da ein Teil des Fundaments direkt über dem Atlantik liegt, was die Koransure symbolisiert, dass Gottes Thron auf dem Wasser errichtet wurde. Das Minarett ist mit 210 Metern eines der höchsten der Welt und verfügt über einen Laserstrahl, der nachts in Richtung Mekka weist. Die Architektur verbindet islamische Tradition mit modernster Technik, wie einem beheizbaren Boden und einem ferngesteuerten Schiebedach, das die Gebetshalle in wenigen Minuten öffnen kann. Über 10.000 Handwerker waren an der Gestaltung der feinen Marmorarbeiten, Gipsstuckaturen und Holzschnitzereien beteiligt. Als eine der wenigen Moscheen in Marokko, die auch Nicht-Muslimen zugänglich ist, stellt sie ein wichtiges kulturelles Bindeglied dar.",
       hu: "A casablancai II. Haszan-mecset monumentális épület, a világ egyik legnagyobb mecsetje. II. Haszan király 60. születésnapja alkalmából épült, és 1993-ban, hat évnyi építkezés után fejezték be. Az építmény egyedülálló, mivel az alapzat egy része közvetlenül az Atlanti-óceán felett fekszik, szimbolizálva a Korán azon versét, miszerint Isten trónusa a vizeken nyugszik. A 210 méteres minaret a világ egyik legmagasabbja, és lézersugárral rendelkezik, amely éjszaka Mekka felé mutat. Az építészet ötvözi az iszlám hagyományokat a legmodernebb technológiával, például fűthető padlóval és távirányítású eltolható tetővel, amely percek alatt megnyitja az imacsarnokot. Több mint 10 000 kézműves vett részt a finom márványmunkák, gipszstukkók és fafaragások elkészítésében. Azon kevés marokkói mecsetek egyikeként, amely nem muszlimok számára is látogatható, fontos kulturális összekötő kapocs.",
@@ -924,7 +923,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Casablancai katedrális",
       ro: "Catedrala din Casablanca",
       en: "Casablanca Cathedral"},
-    image: "/poi-images/ma-casablanca-cathedral-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Die Kathedrale Sacré-Cœur in Casablanca, auch bekannt als die Kathedrale von Casablanca, ist ein markantes Beispiel für die neo-gotische Architektur mit starken Art-déco-Einflüssen. Sie wurde 1930 vom französischen Architekten Paul Tournon entworfen und während der Zeit des französischen Protektorats erbaut. Das strahlend weiße Gebäude zeichnet sich durch seine monumentale Größe und die zwei markanten Türme aus, die das Stadtbild dominieren. Trotz ihres christlichen Ursprungs integriert das Design marokkanische Stilelemente, wie die Form der Fenster und die Verwendung von Sichtbeton. Nach der Unabhängigkeit Marokkos im Jahr 1956 verlor die Kathedrale ihre religiöse Funktion als katholisches Gotteshaus. Heute dient der imposante Innenraum als Kulturzentrum für Ausstellungen, Konzerte und Messen. Die Kathedrale bleibt ein wichtiges Zeugnis der kolonialen Geschichte Casablancas und der architektonischen Vielfalt, die die moderne Identität der Stadt prägt.",
       hu: "A casablancai Sacré-Cœur-székesegyház, más néven Casablancai Katedrális, a neogótikus építészet jellegzetes példája, erős art deco hatásokkal. 1930-ban tervezte Paul Tournon francia építész, és a francia protektorátus ideje alatt épült. A ragyogó fehér épületet monumentális mérete és a városképet meghatározó két jellegzetes tornya jellemzi. Keresztény eredete ellenére a dizájn marokkói stíluselemeket is integrál, például az ablakok formáját és a látszóbeton használatát. Marokkó 1956-os függetlenné válása után a székesegyház elvesztette katolikus templomként betöltött vallási funkcióját. Ma az impozáns belső tér kulturális központként szolgál kiállítások, koncertek és vásárok számára. A székesegyház továbbra is fontos tanúja Casablanca gyarmati történelmének és annak az építészeti sokszínűségnek, amely a város modern identitását alakítja.",
@@ -1791,7 +1789,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Pasa palotája",
       ro: "Palatul Pașei",
       en: "Mahkama du Pacha"},
-    image: "/poi-images/ma-casablanca-mahkama-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Die Mahkama du Pacha in Casablanca ist ein beeindruckender Gebäudekomplex, der als Gerichtsgebäude und Residenz des Paschas diente. Erbaut zwischen 1941 und 1952 während der französischen Mandatszeit, ist es ein herausragendes Beispiel für den maurischen Revival-Stil. Das Gebäude zeichnet sich durch seine außergewöhnliche Handwerkskunst aus, bei der traditionelle Techniken wie Zellige-Mosaike, kunstvolle Gipsstuckaturen und handgeschnitzte Zedernholzdecken verwendet wurden. Der Komplex verfügt über mehr als 60 Säle und mehrere prachtvolle Innenhöfe, die an die Architektur der Alhambra in Granada erinnern. Ursprünglich wurde es auf dem Gelände eines ehemaligen Militärhospitals errichtet, um die wachsende Verwaltung der Stadt zu beherbergen. Heute fungiert es als Sitz der Präfektur des Bezirks Mechouar und beherbergt weiterhin gerichtliche Institutionen. Die Mahkama du Pacha gilt als eines der verborgenen architektonischen Juwelen Casablancas und spiegelt die Eleganz der marokkanischen Kunstfertigkeit des 20. Jahrhunderts wider.",
       hu: "A casablancai Mahkama du Pacha egy lenyűgöző épületegyüttes, amely a pasa bíróságaként és rezidenciájaként szolgált. 1941 és 1952 között épült a francia mandátum ideje alatt, és a mór újjászületési stílus kiemelkedő példája. Az épületet kivételes kézműves munka jellemzi, amely során olyan hagyományos technikákat alkalmaztak, mint a zellige mozaikok, a művészi gipszstukkók és a kézzel faragott cédrusfa mennyezetek. A komplexum több mint 60 teremmel és több pompás belső udvarral rendelkezik, amelyek a granadai Alhambra építészetére emlékeztetnek. Eredetileg egy korábbi katonai kórház területén épült, hogy helyet adjon a város növekvő közigazgatásának. Ma a Mechouar kerületi prefektúra székhelyeként működik, és továbbra is bírósági intézményeknek ad otthont. A Mahkama du Pachát Casablanca egyik rejtett építészeti ékszerének tekintik, amely a 20. századi marokkói művészet eleganciáját tükrözi.",
@@ -2082,7 +2079,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "V. Mohammed tér",
       ro: "Piața Mohammed al V-lea",
       en: "Mohammed V Square"},
-    image: "/poi-images/ma-casablanca-mohammed-v-square-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Der Platz Mohammed V. ist das pulsierende Herz von Casablanca und das administrative Zentrum der Stadt. Er wurde 1920 unter dem französischen Protektorat als Teil der städtebaulichen Vision von Henri Prost angelegt. Der Platz ist umgeben von beeindruckenden monumentalen Gebäuden, die den 'Mauresque'-Stil verkörpern – eine Synthese aus traditioneller marokkanischer Architektur und französischer Moderne. Zu den markantesten Bauwerken gehören der Justizpalast, das Rathaus (Wilaya) mit seinem markanten Glockenturm und das Hauptpostamt. Ein zentraler Punkt des Platzes ist der große Springbrunnen, der besonders abends durch Lichteffekte und Musikdarbietungen Besucher anzieht. Der Platz Mohammed V. ist nicht nur ein Knotenpunkt für den Verkehr und die Verwaltung, sondern auch ein beliebter Treffpunkt für Einheimische und Touristen. Seine Gestaltung spiegelt den Übergang Casablancas von einer kleinen Hafenstadt zu einer modernen Metropole im frühen 20. Jahrhundert wider.",
       hu: "Az V. Mohammed tér Casablanca lüktető szíve és a város adminisztratív központja. 1920-ban alakították ki a francia protektorátus alatt, Henri Prost várostervezési víziójának részeként. A teret lenyűgöző monumentális épületek veszik körül, amelyek a 'maureszk' stílust képviselik – a hagyományos marokkói építészet és a francia modernizmus szintézisét. A legjelentősebb épületek közé tartozik az Igazságügyi Palota, a városháza (Wilaya) a jellegzetes óratornyával és a Főposta. A tér központi pontja a nagy szökőkút, amely különösen este, fényeffektusokkal és zenei előadásokkal vonzza a látogatókat. Az V. Mohammed tér nemcsak a közlekedés és a közigazgatás csomópontja, hanem a helyiek és a turisták kedvelt találkozóhelye is. Kialakítása tükrözi Casablanca átalakulását egy kis kikötővárosból modern világvárossá a 20. század elején.",
@@ -2553,7 +2549,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Tangeri Nagymecset",
       ro: "Marea Moschee din Tanger",
       en: "Grand Mosque of Tangier"},
-    image: "/poi-images/ma-tangier-grand-mosque-landmarks-v2.webp",
     description: {
       de: "Die Große Moschee von Tanger ist ein bedeutendes religiöses Gebäude im Herzen der Medina. Sie hat eine reiche Geschichte und wurde im Laufe der Jahrhunderte von einer römischen Tempelanlage zu einer christlichen Kirche und schließlich zu einer Moschee umgewandelt.",
       hu: "A Tangeri Nagymecset egy jelentős vallási épület a medina szívében. Gazdag történelme során a hely egy római templomtól kezdve keresztény templomon át végül mecsetté alakult.",
@@ -3238,7 +3233,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Dar el Bacha",
       ro: "Dar el Bacha",
       en: "Dar el Bacha"},
-    image: "/poi-images/ma-marrakech-dar-el-bacha-landmarks-v2.webp",
     description: {
       de: "Dar el Bacha, auch als Palast des Paschas bekannt, ist einer der schönsten Paläste in Marrakesch. Er ist berühmt für seine exquisiten Zellige-Mosaike, kunstvoll geschnitzten Zedernholzdecken und die beeindruckenden Innenhöfe mit andalusischen Einflüssen.",
       hu: "A Dar el Bacha, más néven a Pasa Palotája, Marrákes egyik legszebb palotája. Híres a gyönyörű zellige mozaikokról, a művészien faragott cédrusfa mennyezetekről és a lenyűgöző andalúziai hatású belső udvarokról.",
@@ -3563,7 +3557,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Menara-kertek pavilonja",
       ro: "Pavilionul Grădinilor Menara",
       en: "Menara Gardens Pavilion"},
-    image: "/poi-images/ma-marrakech-menara-pavilion-landmarks-v2.webp",
     description: {
       de: "Der Pavillon der Menara-Gärten in Marrakesch ist ein elegantes Gebäude aus dem 16. Jahrhundert, das am Rand eines großen Wasserbeckens liegt. Mit dem Atlasgebirge im Hintergrund ist es eines der am meisten fotografierten Wahrzeichen der Stadt.",
       hu: "A marrákesi Menara-kertek pavilonja egy elegáns, 16. századi épület, amely egy nagy vízmedence partján áll. Az Atlasz-hegységgel a háttérben a város egyik legtöbbet fotózott nevezetessége.",
@@ -3708,7 +3701,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Dar el-Hana pavilon",
       ro: "Pavilionul Dar el-Hana",
       en: "Dar el-Hana Pavilion"},
-    image: "/poi-images/ma-marrakech-agdal-pavilion-landmarks-v2.webp",
     description: {
       de: "Der Dar el-Hana Pavillon liegt in den weitläufigen Agdal-Gärten südlich der Medina von Marrakesch. Dieses historische Gebäude überblickt das größte Wasserbecken der Gärten und diente den Sultanen einst als Rückzugsort und Aussichtspunkt.",
       hu: "A Dar el-Hana pavilon a kiterjedt Agdal-kertekben található, Marrákes medinájától délre. Ez a történelmi épület a kertek legnagyobb vízmedencéjére néz, és egykor a szultánok menedékeként és kilátójaként szolgált.",
@@ -3853,7 +3845,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Marrákesi Királyi Palota",
       ro: "Palatul Regal din Marrakech",
       en: "Royal Palace of Marrakech"},
-    image: "/poi-images/ma-marrakech-royal-palace-landmarks-v2.webp",
     description: {
       de: "Der Königspalast von Marrakesch, auch als Dar el-Makhzen bekannt, ist die offizielle Residenz des marokkanischen Königs in der Stadt. Die riesige Palastanlage umfasst zahlreiche Höfe, Gärten und prächtig verzierte Tore, bleibt jedoch für die Öffentlichkeit geschlossen.",
       hu: "A marrákesi Királyi Palota, más néven Dar el-Makhzen, a marokkói király hivatalos rezidenciája a városban. A hatalmas palotakomplexum számos udvart, kertet és díszes kaput foglal magába, bár a nagyközönség számára zárva tart.",
@@ -3998,7 +3989,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Dar Si Said",
       ro: "Dar Si Said",
       en: "Dar Si Said"},
-    image: "/poi-images/ma-marrakech-dar-si-said-landmarks-v2.webp",
     description: {
       de: "Dar Si Said ist ein prächtiger Palast aus dem späten 19. Jahrhundert in Marrakesch, der heute das Museum für marokkanische Holzkunst beherbergt. Seine aufwendige andalusisch-marokkanische Architektur und die friedlichen Innenhöfe machen ihn zu einem herausragenden Denkmal.",
       hu: "A Dar Si Said egy 19. század végi lenyűgöző palota Marrákesben, amely ma a marokkói faművészet múzeumának ad otthont. Kidolgozott andalúz-marokkói építészete és békés belső udvarai kiemelkedő műemlékké teszik.",
@@ -4143,7 +4133,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Fès-i Királyi Palota",
       ro: "Palatul Regal din Fes",
       en: "Royal Palace of Fez"},
-    image: "/poi-images/ma-fez-royal-palace-landmarks-v2.webp",
     description: {
       de: "Der Königspalast von Fès (Dar el-Makhzen) liegt im Viertel Fès el-Jdid und ist berühmt für seine sieben massiven Messingtore. Obwohl der Palastkomplex für Besucher geschlossen ist, ist die majestätische Fassade mit kunstvollen Zellige-Kacheln und geschnitztem Holz ein beliebtes Fotomotiv.",
       hu: "A Fès-i Királyi Palota (Dar el-Makhzen) a Fès el-Jdid negyedben található, és híres hét hatalmas sárgaréz kapujáról. Bár a palotakomplexum a látogatók előtt zárva van, a díszes zellige csempékkel és faragott fával díszített homlokzat népszerű fotótéma.",
@@ -4207,7 +4196,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Bab Bou Jeloud (Kék kapu)",
       ro: "Bab Bou Jeloud (Poarta Albastră)",
       en: "Bab Bou Jeloud (Blue Gate)"},
-    image: "/poi-images/ma-fez-bab-bou-jeloud-landmarks-v2.webp",
     description: {
       de: "Bab Bou Jeloud, bekannt als das Blaue Tor, ist der monumentale Haupteingang zur mittelalterlichen Medina von Fès. Die äußere Fassade ist mit blauen Fès-Kacheln verziert, während die nach innen gerichtete Seite in der islamischen Farbe Grün gehalten ist.",
       hu: "A Bab Bou Jeloud, más néven a Kék kapu, Fès középkori medinájának monumentális főbejárata. A külső homlokzatot kék fès-i csempék díszítik, míg a befelé néző oldal az iszlám zöld színében pompázik.",
@@ -4604,7 +4592,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Aben Danan zsinagóga",
       ro: "Sinagoga Aben Danan",
       en: "Aben Danan Synagogue"},
-    image: "/poi-images/ma-fez-aben-danan-synagogue-landmarks-v2.webp",
     description: {
       de: "Die Aben-Danan-Synagoge ist eine historische Synagoge im jüdischen Viertel (Mellah) von Fès. Sie ist eine der ältesten und wichtigsten erhaltenen Synagogen in Marokko und spiegelt das reiche jüdische Erbe der Stadt mit ihren wunderschönen Holzverzierungen und andalusischen Kacheln wider.",
       hu: "Az Aben Danan zsinagóga egy történelmi zsinagóga Fès zsidó negyedében (Mellah). Ez Marokkó egyik legrégebbi és legfontosabb fennmaradt zsinagógája, amely gyönyörű fafaragásaival és andalúz csempéivel tükrözi a város gazdag zsidó örökségét.",
@@ -4668,7 +4655,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Al Attarine medresze",
       ro: "Madrasa Al-Attarine",
       en: "Al Attarine Madrasa"},
-    image: "/poi-images/ma-fez-al-attarine-madrasa-landmarks-v2.webp",
     description: {
       de: "Die Al-Attarine-Madrasa in Fès ist eine ehemalige islamische Hochschule und ein Meisterwerk der Meriniden-Architektur. Sie ist berühmt für ihren harmonischen Innenhof, der mit filigranen Stuckarbeiten, Zellige-Mosaiken und elegant geschnitztem Zedernholz reich verziert ist.",
       hu: "A fès-i Al Attarine medresze egy egykori iszlám főiskola és a Merinida építészet remekműve. Híres harmonikus belső udvaráról, amelyet finom stukkómunkák, zellige mozaikok és elegánsan faragott cédrusfa díszít.",
@@ -4957,7 +4943,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Sahrij medresze",
       ro: "Madrasa Sahrij",
       en: "Sahrij Madrasa"},
-    image: "/poi-images/ma-fez-sahrij-madrasa-landmarks-v2.webp",
     description: {
       de: "Die Sahrij-Madrasa befindet sich im Viertel Andalus in Fès und ist bekannt für ihr markantes zentrales Wasserbecken, dem sie ihren Namen verdankt. Dieses elegante historische Gebäude ist ein herausragendes Beispiel andalusisch geprägter Meriniden-Kunst.",
       hu: "A Sahrij medresze Fès andalúz negyedében található, és híres feltűnő központi vízmedencéjéről, amelyről a nevét is kapta. Ez az elegáns történelmi épület az andalúziai hatású Merinida művészet kiemelkedő példája.",
@@ -5021,7 +5006,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "VI. Mohammed híd",
       ro: "Podul Mohammed al VI-lea",
       en: "Mohammed VI Bridge"},
-    image: "/poi-images/ma-rabat-mohammed-vi-bridge-landmarks-v2.webp",
     description: {
       de: "Die Mohammed-VI.-Brücke nahe Rabat ist eine majestätische Schrägseilbrücke, die das Bou-Regreg-Tal überspannt. Mit ihrer beeindruckenden Architektur und der dynamischen LED-Beleuchtung in der Nacht ist sie ein Symbol für das moderne Marokko.",
       hu: "A Rabat melletti VI. Mohammed híd egy fenséges ferdekábeles híd, amely a Bou-Regreg völgyét íveli át. Lenyűgöző építészetével és éjszakai dinamikus LED-világításával a modern Marokkó szimbóluma.",
@@ -5166,7 +5150,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Rabati Nagymecset",
       ro: "Marea Moschee din Rabat",
       en: "Rabat Grand Mosque"},
-    image: "/poi-images/ma-rabat-grand-mosque-landmarks-v2.webp",
     description: {
       de: "Die Große Moschee von Rabat, auch bekannt als Jamaa el-Kebir, befindet sich im Herzen der andalusischen Medina. Sie zeichnet sich durch ihr elegantes, von traditionellen Ornamenten geprägtes Minarett und ihre tief verwurzelte spirituelle Bedeutung für die Stadt aus.",
       hu: "A Rabati Nagymecset, más néven Jamaa el-Kebir, az andalúz medina szívében található. Elegáns, hagyományos díszítésű minaretje és a város számára betöltött mély spirituális jelentősége teszi különlegessé.",
@@ -5779,7 +5762,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Szent Péter katedrális",
       ro: "Catedrala Sfântul Petru",
       en: "Saint-Pierre Cathedral"},
-    image: "/poi-images/ma-rabat-saint-pierre-cathedral-landmarks-v2.webp",
     description: {
       de: "Die Sankt-Peter-Kathedrale (Cathédrale Saint-Pierre) in Rabat ist ein markantes Bauwerk im Art-déco-Stil auf dem Golan-Platz. Mit ihren leuchtend weißen Wänden und den beiden symmetrischen, geometrischen Türmen ist sie der Sitz des Erzbistums Rabat.",
       hu: "A rabati Szent Péter katedrális (Cathédrale Saint-Pierre) egy feltűnő art deco stílusú épület a Golan téren. Ragyogó fehér falaival és két szimmetrikus, geometrikus tornyával a rabati érsekség székhelye.",
@@ -5924,7 +5906,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Tazai Nagymecset",
       ro: "Marea Moschee din Taza",
       en: "Grand Mosque of Taza"},
-    image: "/poi-images/ma-taza-grand-mosque-landmarks-v2.webp",
     description: {
       de: "Die Große Moschee von Taza ist eines der ältesten erhaltenen Bauwerke der Almohaden-Architektur. Sie zeichnet sich durch ihre gewaltige Größe, wunderschöne Stuckarbeiten und einen berühmten riesigen Bronze-Kronleuchter aus.",
       hu: "A Tazai Nagymecset az Almohád építészet egyik legrégebbi fennmaradt építménye. Hatalmas mérete, gyönyörű stukkómunkái és egy híres óriási bronz csillár jellemzi.",
@@ -5988,7 +5969,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Borj Sud",
       ro: "Borj Sud",
       en: "Borj Sud"},
-    image: "/poi-images/ma-fez-borj-sud-landmarks-v2.webp",
     description: {
       de: "Borj Sud ist eine alte Festungsanlage, die auf den Hügeln südlich der Medina von Fès thront. Sie bietet einen der spektakulärsten Panoramablicke über die alte Stadt, besonders zum Sonnenuntergang, wenn die Dächer in ein goldenes Licht getaucht sind.",
       hu: "A Borj Sud egy régi erődítmény, amely a Fès medinájától délre fekvő dombokon tornyosul. Az egyik leglátványosabb panorámát nyújtja az óvárosra, különösen naplementekor, amikor a háztetők arany fényben fürdenek.",
@@ -6565,7 +6545,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Spanyol mecset",
       ro: "Moscheea Spaniolă",
       en: "Spanish Mosque"},
-    image: "/poi-images/ma-chefchaouen-spanish-mosque-landmarks-v2.webp",
     description: {
       de: "Die Spanische Moschee thront auf einem Hügel über der blauen Stadt Chefchaouen. Das Gebäude wurde in den 1920er Jahren von den Spaniern erbaut, jedoch nie als religiöse Stätte genutzt und ist heute ein beliebter Aussichtspunkt.",
       hu: "A Spanyol mecset egy dombon áll a kék város, Chefchaouen felett. Az épületet a spanyolok emelték az 1920-as években, de soha nem használták vallási célokra, ma pedig népszerű kilátóként szolgál.",
@@ -6710,7 +6689,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Taroudant városfalai",
       ro: "Zidurile orașului Taroudant",
       en: "Taroudant City Walls"},
-    image: "/poi-images/ma-taroudant-city-walls-landmarks-v2.webp",
     description: {
       de: "Die Stadtmauern von Taroudant gehören zu den am besten erhaltenen Befestigungsanlagen Marokkos. Die massiven Lehm- und Stampferdemauern umgeben die gesamte Medina und verleihen der Stadt den Spitznamen 'Klein-Marrakesch'.",
       hu: "Taroudant városfalai Marokkó legjobb állapotban fennmaradt erődítményei közé tartoznak. A masszív agyag- és döngölt földfalak körülölelik az egész medinát, és a városnak a 'Kis-Marrákes' becenevet adják.",
@@ -7071,7 +7049,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Skala de la Ville (Essaouira fellegvára)",
       ro: "Skala de la Ville (Citadela din Essaouira)",
       en: "Skala de la Ville (Essaouira Citadel)"},
-    image: "/poi-images/ma-essaouira-skala-de-la-ville-landmarks-v2.webp",
     description: {
       de: "Die Skala de la Ville ist die historische Meeresbastion von Essaouira, ausgestattet mit beeindruckenden andalusischen Bronzekanonen. Sie bot einst Schutz vor Angriffen von See und ist heute für ihre spektakuläre Aussicht auf den Atlantik bekannt.",
       hu: "A Skala de la Ville Essaouira történelmi tengeri bástyája, amely lenyűgöző andalúz bronzágyúkkal van felszerelve. Egykor védelmet nyújtott a tengeri támadások ellen, ma pedig látványos atlanti-óceáni kilátásáról ismert.",
@@ -7396,7 +7373,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Bab Marrakech",
       ro: "Bab Marrakech",
       en: "Bab Marrakech"},
-    image: "/poi-images/ma-essaouira-bab-marrakech-landmarks-v2.webp",
     description: {
       de: "Bab Marrakech ist eines der beeindruckendsten historischen Stadttore von Essaouira. Diese massive runde Bastion aus Stein zeugt von der militärischen Bedeutung der Stadt im 18. Jahrhundert und fungiert heute als Galerie und Ausstellungsraum.",
       hu: "A Bab Marrakech Essaouira egyik leglenyűgözőbb történelmi városkapuja. Ez a masszív, kerek kőbástya a város 18. századi katonai jelentőségéről tanúskodik, ma pedig galériaként és kiállítótérként működik.",
@@ -7613,7 +7589,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Loubnan mecset (Agadiri Nagymecset)",
       ro: "Moscheea Loubnan (Marea Moschee din Agadir)",
       en: "Mosquée Loubnan (Agadir Grand Mosque)"},
-    image: "/poi-images/ma-agadir-grand-mosque-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "Az Agadiri Nagymecset, más néven a Loubnan (Libanon) mecset, a város modern újjáépítésének egyik szimbóluma az 1960-as pusztító földrengés után. Az épület a nemzetközi szolidaritás jelképe, építését részben Libanon állam finanszírozta, innen ered a neve is. Építészetileg a modernista stílust ötvözi a hagyományos marokkói elemekkel. A mecsetet Jean-François Zevaco francia építész tervezte, aki fontos szerepet játszott Agadir újjáépítésében. A mecset elegáns, díszes minaretje a modern városkép egyik meghatározó eleme. A Loubnan mecset nemcsak Agadir fő vallási központja, hanem az újjászületés és a város ellenálló képességének fontos szimbóluma is.",
       ro: "Marea Moschee din Agadir, cunoscută și ca Moscheea Loubnane (Liban), este un exemplu remarcabil de arhitectură islamică modernă. Situată în cartierul Talborjt, a fost construită după cutremurul din 1960 și se distinge prin designul său inovator, care îmbină elemente tradiționale cu o estetică contemporană. Spre deosebire de moscheile clasice, aceasta nu are un minaret tradițional, ci un turn pătrat, masiv, care servește acestui scop. Fațadele sunt decorate cu motive geometrice complexe și caligrafie, iar interiorul este spațios și luminos. Moscheea este un centru spiritual important pentru comunitatea locală și un monument arhitectural care reflectă renașterea orașului Agadir.",
@@ -7826,7 +7801,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "II. Moulay Idrisz mauzóleuma",
       ro: "Mausoleul lui Moulay Idris al II-lea",
       en: "Mausoleum of Moulay Idris II"},
-    image: "/poi-images/ma-fez-moulay-idriss-ii-landmarks-v2.webp",
     description: {
       de: "Das Mausoleum von Moulay Idris II in Fès ist eine der heiligsten Stätten Marokkos. Es beherbergt das Grab des Schutzpatrons und Gründers der Stadt und ist ein bedeutendes Pilgerziel, das durch seine prächtige architektonische Ausgestaltung beeindruckt.",
       hu: "A fès-i II. Moulay Idrisz mauzóleuma Marokkó egyik legszentebb helye. A város védőszentjének és alapítójának sírját őrzi, és egy jelentős zarándokhely, amely pompás építészeti kialakításával lenyűgöző.",
@@ -8043,7 +8017,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "I. Moulay Idrisz záwijája",
       ro: "Zawiya lui Moulay Idris I",
       en: "Zawiya of Moulay Idris I"},
-    image: "/poi-images/ma-moulay-idriss-zerhoun-landmarks-v2.webp",
     description: {
       de: "Die Zawiya in der heiligen Stadt Moulay Idriss Zerhoun ist dem Begründer der Idrisiden-Dynastie gewidmet. Der Gebäudekomplex mit seinem markanten zylindrischen Minarett ist ein zentrales Zentrum islamischer Spiritualität in Nordafrika.",
       hu: "A szent városban, Moulay Idriss Zerhounban található záwija az Idriszida-dinasztia alapítójának van szentelve. A jellegzetes hengeres minarettel rendelkező épületegyüttes az iszlám spiritualitás központi központja Észak-Afrikában.",
@@ -8224,7 +8197,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Cherratine medresze",
       ro: "Madrasa Cherratine",
       en: "Cherratine Madrasa"},
-    image: "/poi-images/ma-fez-cherratine-madrasa-landmarks-v2.webp",
     description: {
       de: "Die Cherratine-Madrasa ist ein historisches islamisches College in der Medina von Fès. Im Gegensatz zu den reich verzierten Meriniden-Madrasas zeichnet sie sich durch ihre funktionale und robustere Alaouiten-Architektur aus, die Platz für Hunderte von Studenten bot.",
       hu: "A Cherratine medresze egy történelmi iszlám kollégium Fès medinájában. A gazdagon díszített Merinida medreszékkel ellentétben a funkcionálisabb és robusztusabb Alavita építészet jellemzi, amely diákok százainak biztosított helyet.",
@@ -8513,7 +8485,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       hu: "Dar Jamai Múzeum",
       ro: "Muzeul Dar Jamai",
       en: "Dar Jamai Museum"},
-    image: "/poi-images/ma-meknes-dar-jamai-landmarks-v2.webp",
     description: {
       de: "Der Palast Dar Jamai in Meknès ist ein exquisites Beispiel für die Architektur marokkanischer Adelssitze aus dem 19. Jahrhundert. Heute beherbergt das Gebäude ein Museum für marokkanische Kunst und fasziniert Besucher mit seinen prächtigen Gärten und Innenräumen.",
       hu: "A meknès-i Dar Jamai palota a 19. századi marokkói nemesi rezidenciák építészetének kiváló példája. Ma az épület a marokkói művészet múzeumának ad otthont, és pompás kertjeivel és belső tereivel lenyűgözi a látogatókat.",

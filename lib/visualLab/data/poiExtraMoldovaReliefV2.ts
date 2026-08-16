@@ -88,8 +88,6 @@ export const moldovaReliefV2: POI[] = [
     parent: "MD",
     type: "landmark",
     name: { de: "Codru-Hochland", hu: "Codru-hátság", ro: "Podișul Codrilor", en: "Codru Highlands"},
-    image: "/poi-images/moldova-codru-highlands-relief-v2.webp",
-    coords: [28.3, 47.15],
     coords: [28.3, 47.15],
     description: {
       de: "Das Codru-Hochland bildet das geografische Zentrum Moldaus und ist durch stark zerklüftete Hügel und tiefe Täler gekennzeichnet. Es beherbergt die bedeutendsten Waldgebiete des Landes.",
@@ -180,8 +178,6 @@ export const moldovaReliefV2: POI[] = [
     parent: "MD",
     type: "landmark",
     name: { de: "Dnestr-Plateau", hu: "Dnyeszter-menti-hátság", ro: "Podișul Nistrului", en: "Dniester Plateau"},
-    image: "/poi-images/moldova-dniester-plateau-relief-v2.webp",
-    coords: [28.5, 47.8],
     coords: [28.5, 47.8],
     description: {
       de: "Das Dnestr-Plateau erstreckt sich entlang des rechten Ufers des Dnestr im Norden und Osten Moldaus. Es ist bekannt für seine steilen Kalksteinufer und tief eingeschnittenen Flusstäler.",
@@ -227,8 +223,6 @@ export const moldovaReliefV2: POI[] = [
     parent: "MD",
     type: "landmark",
     name: { de: "Bălți-Steppe", hu: "Bălți-sztyeppe", ro: "Stepa Bălțului", en: "Bălți Steppe"},
-    image: "/poi-images/moldova-balti-steppe-relief-v2.webp",
-    coords: [27.9, 47.75],
     coords: [27.9, 47.75],
     description: {
       de: "Die Bălți-Steppe ist eine hügelige Ebene im Norden Moldaus, die für ihre fruchtbaren Schwarzerdeböden bekannt ist. Sie bildet eine weite, leicht wellige Landschaft mit wenigen Wäldern.",
@@ -274,8 +268,6 @@ export const moldovaReliefV2: POI[] = [
     parent: "MD",
     type: "landmark",
     name: { de: "Südmoldauische Ebene", hu: "Dél-Moldovai-alföld", ro: "Câmpia Moldovei de Sud", en: "South Moldavian Plain"},
-    image: "/poi-images/moldova-south-moldavian-plain-relief-v2.webp",
-    coords: [28.5, 46.2],
     coords: [28.5, 46.2],
     description: {
       de: "Die Südmoldauische Ebene ist die trockenste Region des Landes und erstreckt sich bis zur Grenze zur Ukraine. Sie ist durch weite, offene Landschaften und Steppenelemente geprägt.",
@@ -321,8 +313,6 @@ export const moldovaReliefV2: POI[] = [
     parent: "MD",
     type: "peak",
     name: { de: "Măgura-Hügel", hu: "Măgura-domb", ro: "Dealul Măgura", en: "Măgura Hill"},
-    image: "/poi-images/moldova-magura-hill-relief-v2.webp",
-    coords: [27.95, 47.5],
     coords: [27.95, 47.5],
     description: {
       de: "Der Măgura-Hügel ist eine markante Erhebung im Norden des Zentralmoldauischen Plateaus. Er bietet einen weiten Panoramablick über die Bălți-Steppe.",
@@ -368,8 +358,6 @@ export const moldovaReliefV2: POI[] = [
     parent: "MD",
     type: "landmark",
     name: { de: "Die Hundert Hügel", hu: "Száz halom", ro: "Suta de Movile", en: "The Hundred Hills"},
-    image: "/poi-images/moldova-hundred-hills-relief-v2.webp",
-    coords: [27.2333, 47.8167],
     coords: [27.2333, 47.8167],
     description: {
       de: "Suta de Movile ist ein einzigartiges geologisches Phänomen am Ufer des Prut. Es besteht aus über 3.500 Erdhügeln unterschiedlicher Größe auf einem schmalen Streifen Land.",
@@ -678,7 +666,6 @@ export const moldovaReliefV2: POI[] = [
     name: { de: "Prut-Toltry", hu: "Pruti-toltrék", ro: "Toltrele Prutului", en: "Prut Toltry"},
     image: "/poi-images/moldova-prut-toltry-relief-v2.webp",
     coords: [27.2, 48.1],
-    coords: [27.2, 48.1],
     description: {
       de: "Die Prut-Toltry sind eine Kette von Kalksteinhügeln im Nordwesten Moldaus, die vor Millionen von Jahren als Korallenriffe entstanden sind. Sie ragen markant aus der umliegenden Ebene hervor.",
       hu: "A Pruti-toltrék mészkődombok láncolata Moldova északnyugati részén, amelyek évmilliókkal ezelőtt korallzátonyokként jöttek létre. Markánsan kiemelkednek a környező síkságból.",
@@ -727,8 +714,6 @@ export const moldovaReliefV2: POI[] = [
     parent: "MD",
     type: "landmark",
     name: { de: "Moldauische Schweiz (Fetești)", hu: "Moldáv Svájc (Fetești)", ro: "Elveția Moldovenească (Fetești)", en: "Moldavian Switzerland (Fetești)"},
-    image: "/poi-images/moldova-fetesti-switzerland-relief-v2.webp",
-    coords: [27.1, 48.1667],
     coords: [27.1, 48.1667],
     description: {
       de: "Das Gebiet um Fetești wird aufgrund seiner dramatischen Kalksteinformationen und tiefen Täler oft als 'Moldauische Schweiz' bezeichnet. Es bietet eine außergewöhnliche Hügellandschaft.",
@@ -821,7 +806,6 @@ export const moldovaReliefV2: POI[] = [
     name: { de: "Vădeni-Hügel", hu: "Vădeni-domb", ro: "Dealul Vădeni", en: "Vădeni Hill"},
     image: "/poi-images/moldova-vaden-hill-relief-v2.webp",
     coords: [28.2333, 48.0],
-    coords: [28.2333, 48.0],
     description: {
       de: "Der Vădeni-Hügel im Norden Moldaus ist eine der höchsten Erhebungen außerhalb des Codru-Zentrums. Er bietet einen Blick auf die umliegenden Agrarflächen des Soroca-Plateaus.",
       hu: "A Vădeni-domb Moldova északi részén az egyik legmagasabb pont a Codru-hátságon kívül. Kilátást nyújt a Soroca-fennsík mezőgazdasági területeire.",
@@ -865,8 +849,6 @@ export const moldovaReliefV2: POI[] = [
     parent: "MD",
     type: "valley",
     name: { de: "Bechir-Schlucht", hu: "Bechir-szurdok", ro: "Râpa lui Bechir", en: "Bechir Ravine"},
-    image: "/poi-images/moldova-bechir-ravine-relief-v2.webp",
-    coords: [28.3, 48.1333],
     coords: [28.3, 48.1333],
     description: {
       de: "Die Bechir-Schlucht bei Soroca ist ein tief eingeschnittenes Tal mit steilen Kalksteinfelsen. Sie ist bekannt für eine in den Fels gehauene Einsiedelei aus dem Mittelalter.",
@@ -912,8 +894,6 @@ export const moldovaReliefV2: POI[] = [
     parent: "MD",
     type: "valley",
     name: { de: "Răut-Flusscanyon", hu: "Răut-folyó kanyonja", ro: "Defileul râului Răut", en: "Răut River Canyon"},
-    image: "/poi-images/moldova-raut-river-canyon-relief-v2.webp",
-    coords: [28.9667, 47.3],
     coords: [28.9667, 47.3],
     description: {
       de: "Der Răut-Canyon bei Orheiul Vechi ist eine spektakuläre Mäanderschleife, die sich tief in den Kalkstein des Dnestr-Plateaus eingegraben hat. Er bildet das Herzstück der historischen Landschaft.",
@@ -959,8 +939,6 @@ export const moldovaReliefV2: POI[] = [
     parent: "MD",
     type: "valley",
     name: { de: "Saharna-Schluchten", hu: "Saharna-szurdokok", ro: "Defileele Saharna", en: "Saharna Ravines"},
-    image: "/poi-images/moldova-saharna-ravines-relief-v2.webp",
-    coords: [28.9667, 47.7],
     coords: [28.9667, 47.7],
     description: {
       de: "Die Schluchten von Saharna sind für ihre zerklüfteten Kalksteinwände und Wasserfälle bekannt. Sie wurden durch einen kleinen Nebenfluss des Dnestr über Jahrtausende geformt.",
@@ -1051,8 +1029,6 @@ export const moldovaReliefV2: POI[] = [
     parent: "MD",
     type: "landmark",
     name: { de: "Țipova-Klippen", hu: "Țipova-sziklák", ro: "Falezele Țipova", en: "Țipova Cliffs"},
-    image: "/poi-images/moldova-tipova-cliffs-relief-v2.webp",
-    coords: [28.9833, 47.6],
     coords: [28.9833, 47.6],
     description: {
       de: "Die Țipova-Klippen ragen majestätisch über dem Dnestr auf und bilden eine der beeindruckendsten Felslandschaften Moldaus. Die Kalksteinfelsen beherbergen eines der größten Felsenklöster Osteuropas.",
@@ -1098,8 +1074,6 @@ export const moldovaReliefV2: POI[] = [
     parent: "MD",
     type: "landmark",
     name: { de: "Lăpușna-Hügel", hu: "Lăpușna-dombság", ro: "Dealurile Lăpușnei", en: "Lăpușna Hills"},
-    image: "/poi-images/moldova-lapusna-hills-relief-v2.webp",
-    coords: [28.3, 46.9],
     coords: [28.3, 46.9],
     description: {
       de: "Die Lăpușna-Hügel sind Teil des südwestlichen Codru-Hochlands. Die Region ist durch sanfte Erhebungen und fruchtbare Täler geprägt, die ideal für den Obstbau sind.",
@@ -1145,8 +1119,6 @@ export const moldovaReliefV2: POI[] = [
     parent: "MD",
     type: "landmark",
     name: { de: "Cogâlnic-Ebene", hu: "Cogâlnic-síkság", ro: "Câmpia Cogâlnicului", en: "Cogâlnic Plain"},
-    image: "/poi-images/moldova-cogalnic-plain-relief-v2.webp",
-    coords: [28.7, 46.5],
     coords: [28.7, 46.5],
     description: {
       de: "Die Cogâlnic-Ebene erstreckt sich im südlichen Zentrum Moldaus. Sie ist eine weite, offene Steppenlandschaft, die durch das Tal des gleichnamigen Flusses geteilt wird.",
@@ -1192,8 +1164,6 @@ export const moldovaReliefV2: POI[] = [
     parent: "MD",
     type: "landmark",
     name: { de: "Mittlere Prut-Ebene", hu: "Középső-Prut-síkság", ro: "Câmpia Prutului de Mijloc", en: "Middle Prut Plain"},
-    image: "/poi-images/moldova-middle-prut-plain-relief-v2.webp",
-    coords: [27.3, 47.6],
     coords: [27.3, 47.6],
     description: {
       de: "Die Mittlere Prut-Ebene liegt im Nordwesten Moldaus entlang des Flusses Prut. Sie zeichnet sich durch breite Terrassen und Schwemmlandböden aus.",
@@ -1239,8 +1209,6 @@ export const moldovaReliefV2: POI[] = [
     parent: "MD",
     type: "valley",
     name: { de: "Ialpug-Tal", hu: "Ialpug-völgy", ro: "Valea Ialpugului", en: "Ialpug Valley"},
-    image: "/poi-images/moldova-ialpug-valley-relief-v2.webp",
-    coords: [28.6, 46.1],
     coords: [28.6, 46.1],
     description: {
       de: "Das Ialpug-Tal ist eine der längsten Senken im Süden Moldaus. Es erstreckt sich durch die trockene Steppe und endet im Ialpug-See an der Grenze zur Ukraine.",
@@ -1286,8 +1254,6 @@ export const moldovaReliefV2: POI[] = [
     parent: "MD",
     type: "valley",
     name: { de: "Bîc-Tal", hu: "Bîc-völgy", ro: "Valea Bîcului", en: "Bîc Valley"},
-    image: "/poi-images/moldova-bic-river-valley-relief-v2.webp",
-    coords: [28.8, 47.0],
     coords: [28.8, 47.0],
     description: {
       de: "Das Bîc-Tal durchschneidet das zentrale Hochland Moldaus von West nach Ost. In diesem Tal liegt die Hauptstadt Chișinău.",
@@ -1335,7 +1301,6 @@ export const moldovaReliefV2: POI[] = [
     name: { de: "Ciuluc-Hügel", hu: "Ciuluc-dombság", ro: "Podișul Ciuluc-Soloneț", en: "Ciuluc-Soloneț Hills"},
     image: "/poi-images/moldova-ciuluc-hills-relief-v2.webp",
     coords: [28.4, 47.6],
-    coords: [28.4, 47.6],
     description: {
       de: "Das Ciuluc-Soloneț-Hügelland liegt zwischen der Bălți-Steppe und dem Dnestr-Plateau. Es ist durch eine wellige Landschaft mit vielen kleinen Bachtälern gekennzeichnet.",
       hu: "A Ciuluc-Soloneț dombság a Bălți-sztyeppe és a Dnyeszter-menti-hátság között fekszik. Hullámos táj jellemzi, sok kis patakvölgyel.",
@@ -1381,7 +1346,6 @@ export const moldovaReliefV2: POI[] = [
     name: { de: "Edineț-Toltry", hu: "Edineți-toltrék", ro: "Toltrele Edinețului", en: "Edineț Toltry"},
     image: "/poi-images/moldova-edinet-toltry-relief-v2.webp",
     coords: [27.25, 48.1167],
-    coords: [27.25, 48.1167],
     description: {
       de: "Die Edineț-Toltry sind Kalksteinriffe bei der Stadt Edineț, die eine spektakuläre Hügellandschaft bilden. Diese Formationen stammen aus dem Miozän und sind reich an Fossilien.",
       hu: "Az edineți toltrék Edineț városa melletti mészkőszirtek, amelyek látványos dombságot alkotnak. Ezek a miocén kori képződmények gazdagok fosszíliákban.",
@@ -1425,8 +1389,6 @@ export const moldovaReliefV2: POI[] = [
     parent: "MD",
     type: "valley",
     name: { de: "Schlucht von Butești", hu: "Butești-szurdok", ro: "Defileul Butești", en: "Butești Gorge"},
-    image: "/poi-images/moldova-butesti-gorge-relief-v2.webp",
-    coords: [27.3333, 47.7833],
     coords: [27.3333, 47.7833],
     description: {
       de: "Die Schlucht von Butești wird durch den Fluss Camenca gebildet, der sich durch ein antikes Kalksteinriff geschnitten hat. Es ist ein Naturdenkmal mit beeindruckenden Felswänden.",
@@ -1472,8 +1434,6 @@ export const moldovaReliefV2: POI[] = [
     parent: "MD",
     type: "valley",
     name: { de: "Botna-Tal", hu: "Botna-völgy", ro: "Valea Botnei", en: "Botna Valley"},
-    image: "/poi-images/moldova-botna-valley-relief-v2.webp",
-    coords: [28.7, 46.8],
     coords: [28.7, 46.8],
     description: {
       de: "Das Botna-Tal liegt im Südosten des Codru-Hochlands. Der Fluss Botna hat hier ein breites Tal mit sanften Hängen geschaffen, das für den Weinbau berühmt ist.",
@@ -1636,8 +1596,6 @@ export const moldovaReliefV2: POI[] = [
     parent: "MD",
     type: "landmark",
     name: { de: "Untere Prut-Ebene", hu: "Alsó-Prut-síkság", ro: "Câmpia Prutului de Jos", en: "Lower Prut Plain"},
-    image: "/poi-images/moldova-lower-prut-plain-relief-v2.webp",
-    coords: [28.2, 45.7],
     coords: [28.2, 45.7],
     description: {
       de: "Die Untere Prut-Ebene ist der südlichste Teil Moldaus. Sie ist durch flache Landschaften, Seen und Sumpfgebiete in der Nähe der Donaumündung geprägt.",
@@ -1683,8 +1641,6 @@ export const moldovaReliefV2: POI[] = [
     parent: "MD",
     type: "landmark",
     name: { de: "Nordmoldauisches Plateau", hu: "Észak-Moldovai-fennsík", ro: "Podișul Moldovei de Nord", en: "Northern Moldavian Plateau"},
-    image: "/poi-images/moldova-northern-plateau-relief-v2.webp",
-    coords: [27.5, 48.3],
     coords: [27.5, 48.3],
     description: {
       de: "Das Nordmoldauische Plateau ist eine sanft gewellte Hochfläche mit einer durchschnittlichen Höhe von 250 Metern. Es ist eine der ältesten geologischen Regionen des Landes.",
@@ -1731,7 +1687,6 @@ export const moldovaReliefV2: POI[] = [
     type: "peak",
     name: { de: "Nisporeni-Hügel", hu: "Nisporeni-dombság", ro: "Dealurile Nisporeniului", en: "Nisporeni Hills"},
     image: "/poi-images/moldova-nisporeni-hills-relief-v2.webp",
-    coords: [28.1, 47.1],
     coords: [28.1, 47.1],
     description: {
       de: "Die Nisporeni-Hügel beherbergen die höchsten Punkte Moldaus innerhalb des Codru-Massivs. Die Landschaft ist durch steile Hänge und dichte Laubwälder geprägt.",

@@ -305,7 +305,6 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
     parent: "KZ-ALM",
     coords: [79.0833, 43.3500],
     name: { de: "Scharyn-Canyon", hu: "Sarin-kanyon", ro: "Canionul Charyn", en: "Charyn Canyon"},
-    image: "/poi-images/charyn-canyon-relief-v2.webp",
     description: { de: "Der Scharyn-Canyon ist eine tiefe Schlucht am Scharyn-Fluss, oft als kleiner Bruder des Grand Canyon bezeichnet.", hu: "A Sarin-kanyon a Sarin-folyó mély szurdoka, amelyet gyakran a Grand Canyon kistestvérének neveznek.", ro: "Canionul Charyn este un defileu adânc pe râul Charyn, adesea numit fratele mai mic al Marelui Canion.", en: "Charyn Canyon is a deep gorge on the Charyn River, often referred to as the little brother of the Grand Canyon." , es: "El cañón de Charyn es un profundo desfiladero en el río Charyn, a menudo llamado el hermano pequeño del Gran Cañón.", pt: "O cânion de Charyn é um desfiladeiro profundo no rio Charyn, muitas vezes chamado de irmão mais novo do Grand Canyon.", fr: "Le canyon de Charyn est une gorge profonde sur la rivière Charyn, souvent surnommée le petit frère du Grand Canyon."},
     facts: {
       de: ["Etwa 90 Kilometer lang.", "Berühmt für das Tal der Schlösser."],
@@ -341,7 +340,6 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
     parent: "KZ-MAN",
     coords: [54.0000, 43.0000],
     name: { de: "Ustjurt-Plateau", hu: "Ustyurt-fennsík", ro: "Podișul Ustyurt", en: "Ustyurt Plateau"},
-    image: "/poi-images/ustyurt-plateau-relief-v2.webp",
     description: { de: "Das Ustjurt-Plateau ist eine riesige, wüstenartige Hochebene zwischen dem Kaspischen Meer und dem Aralsee.", hu: "Az Ustyurt-fennsík egy hatalmas, sivatagos fennsík a Kaszpi-tenger és az Aral-tó között.", ro: "Podișul Ustyurt este un vast platou deșertic situat între Marea Caspică și Marea Aral.", en: "The Ustyurt Plateau is a vast, desert-like plateau located between the Caspian and Aral seas." , es: "La meseta de Ust-Urt es una vasta meseta desértica entre el mar Caspio y el mar de Aral.", pt: "O planalto de Ustyurt é um vasto planalto desértico entre o Mar Cáspio e o Mar de Aral.", fr: "Le plateau d'Oust-Ourt est un vaste plateau désertique situé entre la mer Caspienne et la mer d'Aral."},
     facts: {
       de: ["Umfasst etwa 200.000 Quadratkilometer.", "Bekannt für seine steilen Klippen (Chinks)."],
@@ -377,7 +375,6 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
     parent: "KZ-KZY",
     coords: [63.0000, 44.0000],
     name: { de: "Kysylkum", hu: "Kizil-kum", ro: "Deșertul Kyzylkum", en: "Kyzylkum Desert"},
-    image: "/poi-images/kyzylkum-desert-relief-v2.webp",
     description: { de: "Die Kysylkum ist eine der größten Wüsten Zentralasiens und erstreckt sich über Kasachstan, Usbekistan und Turkmenistan.", hu: "A Kizil-kum Közép-Ázsia egyik legnagyobb sivataga, amely Kazahsztán, Üzbegisztán és Türkmenisztán területén fekszik.", ro: "Kyzylkum este unul dintre cele mai mari deșerturi din Asia Centrală, întinzându-se în Kazahstan, Uzbekistan și Turkmenistan.", en: "The Kyzylkum is one of the largest deserts in Central Asia, stretching across Kazakhstan, Uzbekistan, and Turkmenistan." , es: "El Kyzyl Kum es uno de los desiertos más grandes de Asia Central y se extiende por Kazajistán, Uzbekistán y Turkmenistán.", pt: "O Kyzyl Kum é um dos maiores desertos da Ásia Central e estende-se pelo Cazaquistão, Uzbequistão e Turquemenistão.", fr: "Le Kyzyl Kum est l'un des plus grands déserts d'Asie centrale et s'étend sur le Kazakhstan, l'Ouzbékistan et le Turkménistan."},
     facts: {
       de: ["Der Name bedeutet Roter Sand.", "Eine kalte Wüste mit extremen Temperaturunterschieden."],
@@ -458,7 +455,6 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
     parent: "KZ-MAN",
     coords: [51.5000, 44.5000],
     name: { de: "Küste des Kaspischen Meeres", hu: "Kaszpi-tenger partvidéke", ro: "Coasta Mării Caspice", en: "Caspian Sea Coast"},
-    image: "/poi-images/caspian-sea-coast-kz-relief-v2.webp",
     description: { de: "Die kasachische Küste des Kaspischen Meeres ist reich an Erdöl und bietet bedeutende Lebensräume für Wildtiere.", hu: "A Kaszpi-tenger kazahsztáni partvidéke kőolajban gazdag, és fontos élőhelyet biztosít a vadvilág számára.", ro: "Coasta kazahă a Mării Caspice este bogată în petrol și oferă habitate importante pentru fauna sălbatică.", en: "The Kazakh coast of the Caspian Sea is rich in oil and provides important habitats for wildlife." , es: "La costa kazaja del mar Caspio es rica en petróleo y ofrece importantes hábitats para la vida silvestre.", pt: "A costa cazaque do mar Cáspio é rica em petróleo e oferece habitats importantes para a vida selvagem.", fr: "La côte kazakhe de la mer Caspienne est riche en pétrole et offre des habitats importants pour la faune sauvage."},
     facts: {
       de: ["Der größte See der Erde.", "Die Küstenlinie Kasachstans ist über 1800 km lang."],
@@ -494,7 +490,6 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
     parent: "KZ-MAN",
     coords: [51.9333, 43.4000],
     name: { de: "Karagije-Senke", hu: "Karagije-mélyföld", ro: "Depresiunea Karagiye", en: "Karagiye Depression"},
-    image: "/poi-images/karagiye-depression-relief-v2.webp",
     description: { de: "Die Karagije-Senke ist eine der tiefsten trockenen Senken der Welt und der tiefste Punkt Kasachstans.", hu: "A Karagije-mélyföld a világ egyik legmélyebb szárazföldi mélyedése, és Kazahsztán legmélyebb pontja.", ro: "Depresiunea Karagiye este una dintre cele mai adânci depresiuni uscate din lume și cel mai jos punct din Kazahstan.", en: "The Karagiye Depression is one of the deepest dry depressions in the world and the lowest point in Kazakhstan." , es: "La depresión de Karagiye es una de las depresiones secas más profundas del mundo y el punto más bajo de Kazajistán.", pt: "A depressão de Karagiye é uma das depressões secas mais profundas do mundo e o ponto mais baixo do Cazaquistão.", fr: "La dépression de Karagiye est l'une des dépressions sèches les plus profondes au monde et le point le plus bas du Kazakhstan."},
     facts: {
       de: ["Liegt 132 Meter unter dem Meeresspiegel.", "Befindet sich auf der Mangyschlack-Halbinsel."],
@@ -530,7 +525,6 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
     parent: "KZ-KAR",
     coords: [70.0000, 46.0000],
     name: { de: "Betpak-Dala", hu: "Betpak-Dala", ro: "Betpak-Dala", en: "Betpak-Dala"},
-    image: "/poi-images/betpak-dala-relief-v2.webp",
     description: { de: "Die Betpak-Dala ist eine flache, halbwüstenartige Region in Zentral-Kasachstan, bekannt als die Hungersteppe.", hu: "A Betpak-Dala egy sík, félsivatagos régió Közép-Kazahsztánban, amelyet Éhség-sztyeppének is neveznek.", ro: "Betpak-Dala este o regiune plată, semideșertică din centrul Kazahstanului, cunoscută sub numele de Stepa Foamei.", en: "Betpak-Dala is a flat, semi-desert region in central Kazakhstan, known as the Hunger Steppe." , es: "Betpak-Dala es una región llana y semidesértica del centro de Kazajistán, conocida como la Estepa del Hambre.", pt: "Betpak-Dala é uma região plana e semidesértica no centro do Cazaquistão, conhecida como a Estepe da Fome.", fr: "Betpak-Dala est une région plate et semi-désertique du Kazakhstan central, connue sous le nom de Steppe de la Faim."},
     facts: {
       de: ["Fläche von etwa 75.000 Quadratkilometern.", "Heimat der stark bedrohten Saiga-Antilopen."],
@@ -1007,7 +1001,6 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
     parent: "KZ-ALM",
     coords: [77.0000, 43.1000],
     name: { de: "Transili-Alatau", hu: "Zailijszkij Alatau", ro: "Zailiysky Alatau", en: "Trans-Ili Alatau"},
-    image: "/poi-images/zailiysky-alatau-relief-v2.webp",
     description: { de: "Der Transili-Alatau ist ein Gebirgszug im nördlichen Tian Shan, der sich südlich der Stadt Almaty erhebt.", hu: "A Zailijszkij Alatau az északi Tien-san hegylánca, amely Almati városától délre emelkedik.", ro: "Zailiysky Alatau este un lanț muntos din nordul Tian Shan, situat la sud de orașul Almatî.", en: "The Trans-Ili Alatau is a mountain range in the northern Tian Shan, rising south of the city of Almaty." , es: "El Alatau Trans-Ilí es una cadena montañosa en el norte de Tian Shan que se eleva al sur de la ciudad de Almaty.", pt: "O Trans-Ili Alatau é uma cordilheira no norte de Tian Shan, que se ergue ao sul da cidade de Almaty.", fr: "Le Trans-Ili Alatau est une chaîne de montagnes du nord du Tian Shan, qui s'élève au sud de la ville d'Almaty."},
     facts: {
       de: ["Der Pik Talgar ist mit 4979 Metern der höchste Gipfel.", "Ein beliebtes Gebiet für Wintersport."],
@@ -1043,7 +1036,6 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
     parent: "KZ-ZHA",
     coords: [71.0000, 44.0000],
     name: { de: "Mujunkum-Wüste", hu: "Mujunkum", ro: "Deșertul Muyunkum", en: "Muyunkum Desert"},
-    image: "/poi-images/muyunkum-desert-relief-v2.webp",
     description: { de: "Die Mujunkum ist eine Sandwüste im Süden Kasachstans, die durch extreme Temperaturen gekennzeichnet ist.", hu: "A Mujunkum egy homoksivatag Dél-Kazahsztánban, amelyet szélsőséges hőmérséklet jellemez.", ro: "Muyunkum este un deșert de nisip în sudul Kazahstanului, caracterizat de temperaturi extreme.", en: "Muyunkum is a sand desert in southern Kazakhstan characterized by extreme temperatures." , es: "El Muyunkum es un desierto de arena en el sur de Kazajistán, caracterizado por temperaturas extremas.", pt: "O Muyunkum é um deserto de areia no sul do Cazaquistão, caracterizado por temperaturas extremas.", fr: "Le Muyunkum est un désert de sable au sud du Kazakhstan, caractérisé par des températures extrêmes."},
     facts: {
       de: ["Begrenzt durch den Fluss Tschüi im Norden.", "Beherbergt angepasste Wüstenflora und -fauna."],
@@ -1079,7 +1071,6 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
     parent: "KZ-KAR",
     coords: [71.0000, 48.0000],
     name: { de: "Saryarka", hu: "Szariarka", ro: "Saryarka", en: "Saryarka"},
-    image: "/poi-images/saryarka-steppe-relief-v2.webp",
     description: { de: "Saryarka, auch als Kasachische Schwelle bekannt, ist ein großes, sanft gewelltes Hochland in Zentral-Kasachstan.", hu: "A Szariarka, más néven Kazah-hátság egy hatalmas, enyhén hullámzó fennsík Közép-Kazahsztánban.", ro: "Saryarka, cunoscută și sub numele de Înălțimile kazahe, este o zonă de podiș vastă și ușor ondulată din centrul Kazahstanului.", en: "Saryarka, also known as the Kazakh Uplands, is a large, gently rolling highland in central Kazakhstan." , es: "Saryarka, también conocido como el umbral kazajo, es una gran zona de tierras altas suavemente onduladas en el centro de Kazajistán.", pt: "Saryarka, também conhecido como o limiar cazaque, é um grande planalto suavemente ondulado no centro do Cazaquistão.", fr: "Saryarka, également connue sous le nom de hautes terres du Kazakhstan, est un vaste plateau doucement vallonné au centre du Kazakhstan."},
     facts: {
       de: ["Teil des UNESCO-Weltnaturerbes.", "Reich an Mineralien und Bodenschätzen."],
@@ -1115,7 +1106,6 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
     parent: "KZ-MAN",
     coords: [52.0000, 44.0000],
     name: { de: "Mangyschlack", hu: "Mangislak-félsziget", ro: "Peninsula Mangyshlak", en: "Mangyshlak Peninsula"},
-    image: "/poi-images/mangyshlak-peninsula-relief-v2.webp",
     description: { de: "Die Halbinsel Mangyschlack ist ein raues Plateau am Kaspischen Meer mit einzigartigen geologischen Formationen.", hu: "A Mangislak-félsziget egy zord fennsík a Kaszpi-tengernél, egyedi geológiai képződményekkel.", ro: "Peninsula Mangyshlak este un platou accidentat la Marea Caspică, cu formațiuni geologice unice.", en: "The Mangyshlak Peninsula is a rugged plateau by the Caspian Sea with unique geological formations." , es: "La península de Mangyshlak es una meseta escarpada en el mar Caspio con formaciones geológicas únicas.", pt: "A península de Mangyshlak é um planalto escarpado no Mar Cáspio com formações geológicas únicas.", fr: "La péninsule de Mangyshlak est un plateau accidenté au bord de la mer Caspienne, doté de formations géologiques uniques."},
     facts: {
       de: ["Reich an Erdöl- und Erdgasvorkommen.", "Bekannt für seine wüstenartigen Landschaften."],
@@ -1232,7 +1222,6 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
     parent: "KZ-KZY",
     coords: [60.0000, 45.5000],
     name: { de: "Küste des Aralsees", hu: "Aral-tó partvidéke", ro: "Coasta Mării Aral", en: "Aral Sea Coast"},
-    image: "/poi-images/aral-sea-coast-kz-relief-v2.webp",
     description: { de: "Die Küste des Aralsees in Kasachstan zeugt von einer der größten Umweltkatastrophen, aber auch von Bemühungen zur Wiederherstellung des nördlichen Teils.", hu: "Az Aral-tó kazahsztáni partvidéke az egyik legnagyobb környezeti katasztrófáról, de az északi rész helyreállítására tett erőfeszítésekről is tanúskodik.", ro: "Coasta Mării Aral din Kazahstan mărturisește una dintre cele mai mari catastrofe ecologice, dar și eforturile de refacere a părții nordice.", en: "The Aral Sea coast in Kazakhstan bears witness to one of the greatest environmental disasters, but also to efforts to restore the northern part." , es: "La costa del mar de Aral en Kazajistán es testigo de uno de los mayores desastres medioambientales, pero también de los esfuerzos por restaurar la parte norte.", pt: "A costa do mar de Aral no Cazaquistão testemunha um dos maiores desastres ambientais, mas também os esforços para restaurar a parte norte.", fr: "La côte de la mer d'Aral au Kazakhstan témoigne de l'une des plus grandes catastrophes environnementales, mais aussi des efforts de restauration de la partie nord."},
     facts: {
       de: ["Der Nördliche Aralsee stabilisiert sich langsam wieder.", "Ehemals einer der vier größten Seen der Welt."],
@@ -1268,7 +1257,6 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
     parent: "KZ-JET",
     coords: [80.0000, 45.0000],
     name: { de: "Dsungarischer Alatau", hu: "Dzsungár-Alatau", ro: "Dzungarian Alatau", en: "Dzungarian Alatau"},
-    image: "/poi-images/dzungarian-alatau-relief-v2.webp",
     description: { de: "Der Dsungarische Alatau ist ein Gebirgssystem an der Grenze zwischen Kasachstan und China, bekannt für seine vielfältige Flora.", hu: "A Dzsungár-Alatau egy hegységrendszer Kazahsztán és Kína határán, amely változatos növényvilágáról ismert.", ro: "Dzungarian Alatau este un sistem muntos la granița dintre Kazahstan și China, cunoscut pentru flora sa diversă.", en: "The Dzungarian Alatau is a mountain system on the border between Kazakhstan and China, known for its diverse flora." , es: "El Alatau de Zungaria es un sistema montañoso en la frontera entre Kazajistán y China, conocido por su flora diversa.", pt: "O Alatau de Dzungarian é um sistema montanhoso na fronteira entre o Cazaquistão e a China, conhecido pela sua flora diversificada.", fr: "L'Alataou de Dzoungarie est un massif montagneux à la frontière entre le Kazakhstan et la Chine, réputé pour sa flore diversifiée."},
     facts: {
       de: ["Höchster Punkt ist der Pik Semjonow-Tjan-Schanski.", "Ein wichtiger Lebensraum für den Schneeleoparden."],
@@ -1304,7 +1292,6 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
     parent: "KZ-KAR",
     coords: [75.4000, 49.4000],
     name: { de: "Karkaraly-Gebirge", hu: "Karkarali-hegység", ro: "Munții Karkaraly", en: "Karkaraly Mountains"},
-    image: "/poi-images/karkaraly-mountains-relief-v2.webp",
     description: { de: "Das Karkaraly-Gebirge ist ein dicht bewaldetes Bergmassiv inmitten der kasachischen Steppe.", hu: "A Karkarali-hegység egy sűrű erdővel borított hegytömb a kazah sztyeppe közepén.", ro: "Munții Karkaraly reprezintă un masiv muntos dens împădurit în mijlocul stepei kazahe.", en: "The Karkaraly Mountains are a densely forested mountain massif in the middle of the Kazakh steppe." , es: "Las montañas Karkaraly son un macizo montañoso densamente arbolado en medio de la estepa kazaja.", pt: "As montanhas Karkaraly são um maciço montanhoso densamente florestado no meio da estepe cazaque.", fr: "Les montagnes Karkaraly sont un massif montagneux densément boisé au milieu de la steppe kazakhe."},
     facts: {
       de: ["Teil des Karkaraly-Nationalparks.", "Berühmt für malerische Seen und Kiefernwälder."],
@@ -1340,7 +1327,6 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
     parent: "KZ-VOS",
     coords: [82.0000, 47.0000],
     name: { de: "Tarbagatai-Gebirge", hu: "Tarbagataj-hegység", ro: "Munții Tarbagatai", en: "Tarbagatai Mountains"},
-    image: "/poi-images/tarbagatai-mountains-relief-v2.webp",
     description: { de: "Das Tarbagatai-Gebirge ist ein Gebirgszug, der die Grenze zwischen Kasachstan und der chinesischen Region Xinjiang bildet.", hu: "A Tarbagataj-hegység Kazahsztán és a kínai Hszincsiang régió határát képező hegylánc.", ro: "Munții Tarbagatai sunt un lanț muntos care formează granița dintre Kazahstan și regiunea chineză Xinjiang.", en: "The Tarbagatai Mountains are a mountain range forming the border between Kazakhstan and China's Xinjiang region." , es: "Las montañas Tarbagatai son una cordillera que forma la frontera entre Kazajistán y la región china de Xinjiang.", pt: "As montanhas Tarbagatai são uma cordilheira que forma a fronteira entre o Cazaquistão e a região chinesa de Xinjiang.", fr: "Les montagnes Tarbagataï sont une chaîne de montagnes qui forme la frontière entre le Kazakhstan et la région chinoise du Xinjiang."},
     facts: {
       de: ["Der Name bedeutet Ort der Murmeltiere.", "Höchster Berg ist der Tastau mit fast 3000 Metern."],
@@ -1376,7 +1362,6 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
     parent: "KZ-KZY",
     coords: [60.0000, 44.5000],
     name: { de: "Aralkum", hu: "Aralkum", ro: "Deșertul Aralkum", en: "Aralkum Desert"},
-    image: "/poi-images/aralkum-desert-relief-v2.webp",
     description: { de: "Die Aralkum ist eine neue Wüste, die auf dem ausgetrockneten Grund des ehemaligen Aralsees entstanden ist.", hu: "Az Aralkum egy új sivatag, amely az egykori Aral-tó kiszáradt medrében jött létre.", ro: "Aralkum este un deșert nou format pe fundul secat al fostei Mări Aral.", en: "The Aralkum is a new desert that has formed on the dried-up seabed of the former Aral Sea." , es: "El Aralkum es un nuevo desierto que se ha formado en el lecho seco del antiguo mar de Aral.", pt: "O Aralkum é um novo deserto que surgiu no leito seco do antigo mar de Aral.", fr: "L'Aralkum est un nouveau désert apparu sur le fond asséché de l'ancienne mer d'Aral."},
     facts: {
       de: ["Entstand in der zweiten Hälfte des 20. Jahrhunderts.", "Bedeckt eine Fläche von über 60.000 Quadratkilometern."],
@@ -1412,7 +1397,6 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
     parent: "KZ-VOS",
     coords: [85.0000, 49.0000],
     name: { de: "Altai-Gebirge", hu: "Altaj hegység", ro: "Munții Altai", en: "Altai Mountains"},
-    image: "/poi-images/altai-mountains-kz-relief-v2.webp",
     description: { de: "Der kasachische Teil des Altai-Gebirges ist bekannt für seine unberührten Landschaften und reiche Biodiversität.", hu: "Az Altaj hegység kazahsztáni része érintetlen tájairól és gazdag biológiai sokféleségéről ismert.", ro: "Partea kazahă a Munților Altai este cunoscută pentru peisajele sale virgine și biodiversitatea bogată.", en: "The Kazakh part of the Altai Mountains is known for its pristine landscapes and rich biodiversity." , es: "La parte kazaja de las montañas de Altái es conocida por sus paisajes vírgenes y su rica biodiversidad.", pt: "A parte cazaque das montanhas Altai é conhecida pelas suas paisagens intocadas e rica biodiversidade.", fr: "La partie kazakhe des montagnes de l'Altaï est réputée pour ses paysages préservés et sa riche biodiversité."},
     facts: {
       de: ["Weltnaturerbe der UNESCO.", "Heimat zahlreicher seltener Tierarten."],

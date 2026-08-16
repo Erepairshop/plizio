@@ -112,7 +112,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       pt: ["O Reventador fica a cerca de 90 quilómetros a leste de Quito.", "A grande erupção em novembro de 2002 começou de forma totalmente inesperada.", "A caldeira em forma de ferradura tem cerca de 4 quilómetros de largura.", "O nome 'Reventador' significa 'Explodidor' em espanhol.", "O vulcão situa-se a uma altitude de 3.562 metros acima do mar.", "Desde 2002, é registada atividade vulcânica quase diariamente."],
       fr: ["Le Reventador est situé à environ 90 kilomètres à l'est de Quito.", "La grande éruption de novembre 2002 a commencé de manière totalement inattendue.", "La caldeira en fer à cheval mesure environ 4 kilomètres de large.", "Le nom 'Reventador' signifie 'Exploseur' ou 'Celui qui éclate' en espagnol.", "Le volcan culmine à 3 562 mètres au-dessus du niveau de la mer.", "Une activité volcanique est enregistrée presque quotidiennement depuis 2002."],
     }, },
-    image: "/poi-images/ecuador-reventador-relief-v2.webp",
     description: {
       de: "Ein hochaktiver Stratovulkan in den östlichen Anden, der häufig Asche und Lava ausstößt.",
       hu: "A keleti Andokban található rendkívül aktív rétegvulkán, amely gyakran lövell ki hamut és lávát.",
@@ -313,7 +312,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       pt: ["O Carihuairazo está localizado a cerca de 150 km a sudoeste de Quito.", "O nome deriva de 'Cari' (homem) e 'Huairazo' (vento/neve).", "Os cientistas prevêem que os seus glaciares desaparecerão até 2030.", "A montanha tem três cumes principais: Josefina, Central e Mocha.", "A primeira subida documentada ocorreu no ano de 1880.", "O vulcão está inativo desde antes da chegada dos espanhóis."],
       fr: ["Le Carihuairazo est situé à environ 150 km au sud-ouest de Quito.", "Le nom dérive de « Cari » (homme) et « Huairazo » (vent/neige).", "Les scientifiques prévoient que ses glaciers disparaîtront d'ici 2030.", "La montagne possède trois sommets principaux : Josefina, Central et Mocha.", "La première ascension documentée a eu lieu en 1880.", "Le volcan est inactif depuis l'époque précédant l'arrivée des Espagnols."],
     }, },
-    image: "/poi-images/ecuador-carihuairazo-relief-v2.webp",
     description: {
       de: "Eine stark erodierte vulkanische Caldera in unmittelbarer Nähe des mächtigen Chimborazo.",
       hu: "Egy erősen erodált vulkáni kaldera a hatalmas Chimborazo közvetlen szomszédságában.",
@@ -442,7 +440,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       pt: ["O Sincholagua fica a apenas 17 quilómetros a norte do Cotopaxi.", "A última Idade do Gelo moldou as paredes rochosas íngremes visíveis hoje.", "A montanha perdeu a sua última calota de gelo permanente nos anos 90.", "O Rio Pita nasce nas encostas sul do vulcão.", "Sincholagua é a décima segunda montanha mais alta do Equador.", "A primeira ascensão por europeus ocorreu em 1880."],
       fr: ["Le Sincholagua est situé à seulement 17 kilomètres au nord du Cotopaxi.", "La dernière période glaciaire a façonné les parois rocheuses abruptes visibles aujourd'hui.", "La montagne a perdu sa dernière calotte glaciaire permanente dans les années 1990.", "Le Rio Pita prend sa source sur les pentes sud du volcan.", "Le Sincholagua est la douzième plus haute montagne de l'Équateur.", "La première ascension par des Européens a eu lieu en 1880."],
     }, },
-    image: "/poi-images/ecuador-sincholagua-relief-v2.webp",
     description: {
       de: "Ein inaktiver Vulkan südöstlich von Quito mit einem markanten, felsigen und steilen Gipfel.",
       hu: "Egy inaktív vulkán Quitótól délkeletre, jellegzetes és meredek sziklás csúccsal.",
@@ -967,7 +964,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       pt: ["O Corazón está inativo desde o fim da última era glacial.", "O nome 'Corazón' significa 'coração' em espanhol.", "A subida demora normalmente entre 4 a 6 horas.", "Nas encostas encontram-se ruínas conhecidas como 'Pucaras'.", "A montanha situa-se na Reserva Ecológica Los Ilinizas.", "O Corazón foi escalado pela primeira vez em 1880 por Edward Whymper."],
       fr: ["Le Corazón est inactif depuis la fin de la dernière période glaciaire.", "Le nom 'Corazón' signifie 'cœur' en espagnol.", "L'ascension dure normalement 4 à 6 heures.", "Sur les pentes se trouvent des ruines connues sous le nom de 'Pucaras'.", "La montagne est située dans la réserve écologique Los Ilinizas.", "Le Corazón a été gravi pour la première fois en 1880 par Edward Whymper."],
     }, },
-    image: "/poi-images/ecuador-corazon-relief-v2.webp",
     description: {
       de: "Ein ruhender Vulkan, der seinen Namen von seinem herzförmigen Profil bei Betrachtung aus dem Westen hat.",
       hu: "Egy alvó vulkán, amely nyugatról nézve szív alakú profiljáról kapta a nevét.",
@@ -1276,7 +1272,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       pt: ["O pico mais alto do Rumiñahui é o pico Norte (4.721 m).", "A montanha situa-se diretamente em frente à lagoa Limpiopungo.", "Diz-se que o general inca Rumiñahui escondeu aqui o tesouro inca.", "A subida ao pico Norte requer escalada ligeira.", "O vulcão está inativo há milhares de anos.", "O Rumiñahui serve frequentemente de teste para a aclimatação à altitude."],
       fr: ["Le point culminant du Rumiñahui est le pic Nord (4 721 m).", "La montagne est située juste en face de la lagune Limpiopungo.", "Le général inca Rumiñahui y aurait caché le trésor inca.", "L'ascension du pic Nord nécessite une escalade légère.", "Le volcan est inactif depuis des milliers d'années.", "Le Rumiñahui sert souvent de test pour l'acclimatation à l'altitude."],
     }, },
-    image: "/poi-images/ecuador-ruminahui-relief-v2.webp",
     description: {
       de: "Ein stark erodierter, ruhender Stratovulkan, der sich majestätisch im Cotopaxi-Nationalpark erhebt.",
       hu: "Egy erősen erodált, alvó rétegvulkán, amely fenségesen magasodik a Cotopaxi Nemzeti Parkban.",
@@ -2070,7 +2065,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Imbabura vulkán",
       ro: "Vulcanul Imbabura",
       en: "Imbabura Volcano"},
-    image: "/poi-images/ecuador-imbabura-relief-v2.webp",
     description: {
       de: "Ein ruhender Stratovulkan, der majestätisch über dem San-Pablo-See in den nördlichen Anden thront.",
       hu: "Egy alvó rétegvulkán, amely fenségesen tornyosul a San Pablo-tó fölé az északi Andokban.",
@@ -2451,7 +2445,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Pasochoa",
       ro: "Pasochoa",
       en: "Pasochoa"},
-    image: "/poi-images/ecuador-pasochoa-relief-v2.webp",
     description: {
       de: "Ein erloschener Vulkan mit einer eingestürzten Caldera, die einen gut erhaltenen Anden-Nebelwald birgt.",
       hu: "Egy kihalt vulkán, melynek beszakadt kalderája egy remekül megőrzött andoki köderdőt rejt.",
@@ -2499,7 +2492,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Chiles vulkán",
       ro: "Vulcanul Chiles",
       en: "Chiles Volcano"},
-    image: "/poi-images/ecuador-chiles-relief-v2.webp",
     description: {
       de: "Ein beeindruckender Grenzvulkan zwischen Ecuador und Kolumbien, der für die heißen Quellen an seiner Basis bekannt ist.",
       hu: "Egy lenyűgöző határvulkán Ecuador és Kolumbia között, amely a lábánál fekvő hőforrásokról ismert.",
@@ -2772,7 +2764,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Mojanda vulkánkomplexum",
       ro: "Complexul Mojanda",
       en: "Mojanda Complex"},
-    image: "/poi-images/ecuador-mojanda-relief-v2.webp",
     description: {
       de: "Ein inaktives Stratovulkansystem in den nördlichen Anden, das durch drei wunderschöne hochgelegene Kraterseen besticht.",
       hu: "Inaktív rétegvulkánrendszer az északi Andokban, amelyet három gyönyörű, magasan fekvő krátertó tesz lenyűgözővé.",
@@ -3261,7 +3252,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Atacazo vulkán",
       ro: "Vulcanul Atacazo",
       en: "Atacazo Volcano"},
-    image: "/poi-images/ecuador-atacazo-relief-v2.webp",
     description: {
       de: "Ein Stratovulkan mit einer massiven Caldera, der sich südwestlich der Hauptstadt Quito erhebt.",
       hu: "Rétegvulkán egy masszív kalderával, amely a fővárostól, Quitótól délnyugatra magasodik.",
@@ -3309,7 +3299,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Wolf-vulkán",
       ro: "Vulcanul Wolf",
       en: "Wolf Volcano"},
-    image: "/poi-images/ecuador-wolf-relief-v2.webp",
     description: {
       de: "Der höchste Gipfel der Galapagos-Inseln, der sich direkt auf der Äquatorlinie auf der Insel Isabela befindet.",
       hu: "A Galápagos-szigetek legmagasabb csúcsa, amely közvetlenül az egyenlítő vonalán fekszik Isabela szigetén.",
@@ -3357,7 +3346,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Sierra Negra",
       ro: "Sierra Negra",
       en: "Sierra Negra"},
-    image: "/poi-images/ecuador-sierra-negra-relief-v2.webp",
     description: {
       de: "Ein riesiger Schildvulkan auf der Insel Isabela mit einer der größten Vulkancalderen der Welt.",
       hu: "Hatalmas pajzsvulkán Isabela szigetén, a világ egyik legnagyobb vulkáni kalderájával.",
@@ -3405,7 +3393,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Alcedo-vulkán",
       ro: "Vulcanul Alcedo",
       en: "Alcedo Volcano"},
-    image: "/poi-images/ecuador-alcedo-relief-v2.webp",
     description: {
       de: "Ein abgelegener Schildvulkan im Zentrum der Insel Isabela, der für seine große Population an Riesenschildkröten bekannt ist.",
       hu: "Isabela szigetének közepén fekvő elszigetelt pajzsvulkán, amely az óriásteknősök nagy populációjáról ismert.",
@@ -3453,7 +3440,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Cerro Azul",
       ro: "Cerro Azul",
       en: "Cerro Azul Volcano"},
-    image: "/poi-images/ecuador-cerro-azul-relief-v2.webp",
     description: {
       de: "Ein sehr aktiver Schildvulkan, der die südwestliche Spitze der Insel Isabela im Galapagos-Archipel bildet.",
       hu: "Rendkívül aktív pajzsvulkán, amely a Galápagos-szigetcsoporthoz tartozó Isabela sziget délnyugati csücskét alkotja.",
@@ -3501,7 +3487,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Darwin-vulkán",
       ro: "Vulcanul Darwin",
       en: "Darwin Volcano"},
-    image: "/poi-images/ecuador-darwin-relief-v2.webp",
     description: {
       de: "Ein nahezu perfekt symmetrischer Schildvulkan auf Galapagos, der nach dem berühmten Naturforscher benannt wurde.",
       hu: "Szinte tökéletesen szimmetrikus pajzsvulkán a Galápagos-szigeteken, amelyet a híres természettudósról neveztek el.",
@@ -4026,7 +4011,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Pululahua-kráter",
       ro: "Craterul Pululahua",
       en: "Pululahua Crater"},
-    image: "/poi-images/ecuador-pululahua-relief-v2.webp",
     description: {
       de: "Eine der wenigen Vulkancalderen weltweit, deren fruchtbarer Boden von Landwirten bewirtschaftet und bewohnt wird.",
       hu: "Azon kevés vulkáni kalderák egyike a világon, amelynek termékeny talaját gazdák művelik és lakják.",
@@ -4074,7 +4058,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Cordillera del Cóndor",
       ro: "Cordillera del Cóndor",
       en: "Cordillera del Cóndor"},
-    image: "/poi-images/ecuador-condor-relief-v2.webp",
     description: {
       de: "Eine abgelegene Gebirgskette an der peruanischen Grenze, die für ihre extrem hohe Biodiversität bekannt ist.",
       hu: "Egy elszigetelt hegylánc a perui határon, amely rendkívül magas biodiverzitásáról ismert.",
@@ -4122,7 +4105,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Cordillera de Kutukú",
       ro: "Cordillera de Kutukú",
       en: "Cordillera de Kutukú"},
-    image: "/poi-images/ecuador-kutuku-relief-v2.webp",
     description: {
       de: "Eine isolierte Gebirgskette im Amazonasbecken, die geografisch von der Hauptkette der Anden getrennt ist.",
       hu: "Elszigetelt hegylánc az Amazonas-medencében, amely földrajzilag elkülönül a fő Andok láncolatától.",
@@ -4755,7 +4737,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Chongón-Colonche-hegység",
       ro: "Munții Chongón-Colonche",
       en: "Chongón-Colonche Mountain Range"},
-    image: "/poi-images/ecuador-chongon-colonche-relief-v2.webp",
     description: {
       de: "Eine langgestreckte Küstenbergkette, welche die trockene Westküste von den feuchteren Inlandsregionen trennt.",
       hu: "Hosszúkás parti hegylánc, amely elválasztja a száraz nyugati partot a nedvesebb szárazföldi régióktól.",
@@ -5100,7 +5081,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Puyango megkövesedett erdeje",
       ro: "Pădurea Pietrificată Puyango",
       en: "Puyango Petrified Forest"},
-    image: "/poi-images/ecuador-puyango-relief-v2.webp",
     description: {
       de: "Eine weltbekannte paläontologische Stätte mit massiven versteinerten Baumstämmen und alten Fossilien.",
       hu: "Világhírű őslénytani lelőhely hatalmas megkövesedett fatörzsekkel és ősi fosszíliákkal.",
@@ -5148,7 +5128,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Awá esőerdő",
       ro: "Pădurea Tropicală Awá",
       en: "Awá Rainforest"},
-    image: "/poi-images/ecuador-awa-relief-v2.webp",
     description: {
       de: "Ein dichter tropischer Wald im Nordwesten Ecuadors, der als wichtiges Schutzgebiet für das indigene Awá-Volk dient.",
       hu: "Sűrű trópusi erdő Északnyugat-Ecuadorban, amely a bennszülött Awá nép fontos menedékhelyéül szolgál.",
@@ -5889,7 +5868,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Jatun Sacha Rezervátum",
       ro: "Rezervația Jatun Sacha",
       en: "Jatun Sacha Reserve"},
-    image: "/poi-images/ecuador-jatun-sacha-relief-v2.webp",
     description: {
       de: "Eine hochgradig biologische Forschungsstation und ein Tropenwaldreservat im oberen Amazonasbecken.",
       hu: "Jelentős biológiai kutatóállomás és trópusi erdei rezervátum a felső Amazonas-medencében.",
@@ -6306,7 +6284,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Pacoche-erdő",
       ro: "Pădurea Pacoche",
       en: "Pacoche Forest"},
-    image: "/poi-images/ecuador-pacoche-relief-v2.webp",
     description: {
       de: "Ein Wildtierschutzgebiet an der Küste mit einem einzigartigen Mikroklima, das einen üppigen Wald in einer trockenen Region erhält.",
       hu: "Tengerparti vadvédelmi terület egyedülálló mikroklímával, amely egy buja erdőt tart fenn egy egyébként száraz régióban.",
@@ -6435,7 +6412,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: "Chocó-esőerdő",
       ro: "Pădurea Tropicală Chocó",
       en: "Chocó Rainforest"},
-    image: "/poi-images/ecuador-choco-relief-v2.webp",
     description: {
       de: "Einer der feuchtesten und biologisch vielfältigsten Tiefland-Regenwälder auf dem gesamten Planeten.",
       hu: "Az egész bolygó egyik legnedvesebb és biológiailag legváltozatosabb síkvidéki esőerdeje.",

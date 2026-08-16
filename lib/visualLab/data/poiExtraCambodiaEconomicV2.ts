@@ -921,7 +921,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: "Sihanoukville Autonóm Kikötő",
       ro: "Portul Autonom Sihanoukville",
       en: "Sihanoukville Autonomous Port"},
-    image: "/poi-images/sihanoukville-autonomous-port-economic-v2.webp",
     description: {
       de: "Der wichtigste Tiefseehafen Kambodschas, der den Großteil des internationalen Seehandels des Landes abwickelt.",
       hu: "Kambodzsa legfontosabb mélyvízi kikötője, amely az ország nemzetközi tengeri kereskedelmének nagy részét bonyolítja le.",
@@ -2274,7 +2273,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: "Phnompen Autonóm Kikötő",
       ro: "Portul Autonom Phnom Penh",
       en: "Phnom Penh Autonomous Port"},
-    image: "/poi-images/phnom-penh-autonomous-port-economic-v2.webp",
     description: {
       de: "Ein wichtiger Binnenhafen am Mekong, der die Hauptstadt mit internationalen Handelsrouten verbindet.",
       hu: "Fontos folyami kikötő a Mekongon, amely a fővárost köti össze a nemzetközi kereskedelmi útvonalakkal.",
@@ -3699,7 +3697,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: "Phnompen Különleges Gazdasági Övezet",
       ro: "Zona Economică Specială Phnom Penh",
       en: "Phnom Penh Special Economic Zone"},
-    image: "/poi-images/phnom-penh-sez-economic-v2.webp",
     description: {
       de: "Eine der größten Sonderwirtschaftszonen Kambodschas, die zahlreiche internationale Produktionsstätten beherbergt.",
       hu: "Kambodzsa egyik legnagyobb különleges gazdasági övezete, amely számos nemzetközi gyártóüzemnek ad otthont.",
@@ -3792,7 +3789,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: "Sihanoukville Különleges Gazdasági Övezet",
       ro: "Zona Economică Specială Sihanoukville",
       en: "Sihanoukville Special Economic Zone"},
-    image: "/poi-images/sihanoukville-sez-economic-v2.webp",
     description: {
       de: "Eine strategisch wichtige Industriezone, die stark von chinesischen Investitionen im Rahmen der Neuen Seidenstraße profitiert.",
       hu: "Stratégiailag fontos ipari övezet, amely jelentős mértékben profitál a kínai Egy Övezet Egy Út kezdeményezés befektetéseiből.",
@@ -4209,7 +4205,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: "Manhattan Különleges Gazdasági Övezet",
       ro: "Zona Economică Specială Manhattan",
       en: "Manhattan Special Economic Zone"},
-    image: "/poi-images/manhattan-sez-bavet-economic-v2.webp",
     description: {
       de: "Die erste Sonderwirtschaftszone Kambodschas, gelegen an der vietnamesischen Grenze in Bavet.",
       hu: "Kambodzsa első különleges gazdasági övezete, amely a vietnámi határnál, Bavetben található.",
@@ -4509,7 +4504,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: "Koh Kong Különleges Gazdasági Övezet",
       ro: "Zona Economică Specială Koh Kong",
       en: "Koh Kong Special Economic Zone"},
-    image: "/poi-images/koh-kong-sez-economic-v2.webp",
     description: {
       de: "Ein aufstrebendes Industriegebiet an der thailändischen Grenze, das den grenzüberschreitenden Handel fördert.",
       hu: "Feltörekvő ipari terület a thai határnál, amely elősegíti a határon átnyúló kereskedelmet.",
@@ -4854,7 +4848,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: "Neak Loeung Kikötő",
       ro: "Portul Neak Loeung",
       en: "Neak Loeung Port"},
-    image: "/poi-images/neak-loeung-port-economic-v2.webp",
     description: {
       de: "Ein wichtiger Binnenhafen, der den Güterverkehr auf dem Mekong zwischen Phnom Penh und Vietnam erleichtert.",
       hu: "Fontos folyami kikötő, amely megkönnyíti a teherforgalmat a Mekongon Phnompen és Vietnám között.",
@@ -4902,7 +4895,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: "Alsó-Sesan-2 Gát",
       ro: "Barajul Sesan 2 Inferior",
       en: "Lower Sesan 2 Dam"},
-    image: "/poi-images/lower-sesan-2-dam-economic-v2.webp",
     description: {
       de: "Ein massives Wasserkraftwerksprojekt, das einen erheblichen Teil des kambodschanischen Strombedarfs deckt.",
       hu: "Hatalmas vízerőmű projekt, amely a kambodzsai villamosenergia-igény jelentős részét fedezi.",
@@ -5175,7 +5167,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: "Kamchay Gát",
       ro: "Barajul Kamchay",
       en: "Kamchay Dam"},
-    image: "/poi-images/kamchay-dam-economic-v2.webp",
     description: {
       de: "Das erste große Wasserkraftwerk des Landes, finanziert durch chinesische Investitionen, im Kampot-Gebiet.",
       hu: "Az ország első nagy vízerőműve, amelyet kínai befektetésekből finanszíroztak Kampot térségében.",
@@ -5268,7 +5259,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: "Kirirom 1 Vízerőmű",
       ro: "Hidrocentrala Kirirom 1",
       en: "Kirirom 1 Hydropower Plant"},
-    image: "/poi-images/kirirom-1-hydropower-economic-v2.webp",
     description: {
       de: "Ein kleineres, aber historisch wichtiges Wasserkraftwerk in den Kardamombergen, das Phnom Penh mit Strom versorgt.",
       hu: "Kisebb, de történelmileg fontos vízerőmű a Kardamom-hegységben, amely Phnompent látja el árammal.",
@@ -5316,7 +5306,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: "Tatay Vízerőmű",
       ro: "Hidrocentrala Tatay",
       en: "Tatay Hydropower Plant"},
-    image: "/poi-images/tatay-hydropower-economic-v2.webp",
     description: {
       de: "Ein modernes Wasserkraftprojekt am Tatay-Fluss in der Provinz Koh Kong, das zur nationalen Energiesicherheit beiträgt.",
       hu: "Modern vízerőmű projekt a Tatay folyón, Koh Kong tartományban, amely hozzájárul a nemzeti energiabiztonsághoz.",
@@ -5364,7 +5353,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: "Stung Atay Vízerőmű",
       ro: "Hidrocentrala Stung Atay",
       en: "Stung Atay Hydropower Plant"},
-    image: "/poi-images/stung-atay-hydropower-economic-v2.webp",
     description: {
       de: "Eine weitere wichtige Anlage zur Stromerzeugung in den unzugänglichen Gebieten der Pursat-Provinz.",
       hu: "Egy másik fontos áramtermelő létesítmény Pursat tartomány nehezen megközelíthető részein.",
@@ -5412,7 +5400,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: "Okvau Aranybánya",
       ro: "Mina de Aur Okvau",
       en: "Okvau Gold Mine"},
-    image: "/poi-images/okvau-gold-mine-economic-v2.webp",
     description: {
       de: "Kambodschas erste moderne, im kommerziellen Maßstab betriebene Goldmine in der Provinz Mondulkiri.",
       hu: "Kambodzsa első modern, kereskedelmi léptékű aranybányája Mondulkiri tartományban.",
@@ -5505,7 +5492,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: "Phnom Dek Vasércbánya",
       ro: "Mina de Fier Phnom Dek",
       en: "Phnom Dek Iron Mine"},
-    image: "/poi-images/phnom-dek-iron-mine-economic-v2.webp",
     description: {
       de: "Eine der größten bekannten Eisenerzlagerstätten des Landes, deren Abbau die Schwerindustrie unterstützen soll.",
       hu: "Az ország egyik legnagyobb ismert vasérclelőhelye, amelynek kitermelése a nehézipart hivatott támogatni.",
@@ -5706,7 +5692,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: "Kampot Cementgyár",
       ro: "Fabrica de Ciment Kampot",
       en: "Kampot Cement Plant"},
-    image: "/poi-images/kampot-cement-plant-economic-v2.webp",
     description: {
       de: "Ein großes Zementwerk, das den Bauboom im Land mit lokal produzierten Baumaterialien versorgt.",
       hu: "Nagy cementgyár, amely helyben gyártott építőanyagokkal látja el az ország építőipari fellendülését.",
@@ -6087,7 +6072,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: "Bavet Határmenti Kereskedelmi Központ",
       ro: "Centrul Comercial de Frontieră Bavet",
       en: "Bavet Border Trade Hub"},
-    image: "/poi-images/bavet-border-trade-hub-economic-v2.webp",
     description: {
       de: "Ein geschäftiges Handelszentrum an der Grenze zu Vietnam, berühmt für Casinos und grenzüberschreitenden Warenaustausch.",
       hu: "Forgalmas kereskedelmi központ a vietnámi határnál, amely kaszinóiról és a határon átnyúló árucseréről híres.",
@@ -6504,7 +6488,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: "Poipet Határmenti Kereskedelmi Központ",
       ro: "Centrul Comercial de Frontieră Poipet",
       en: "Poipet Border Trade Hub"},
-    image: "/poi-images/poipet-border-trade-hub-economic-v2.webp",
     description: {
       de: "Der wichtigste Grenzübergang nach Thailand, ein Zentrum für Handel, Logistik und Unterhaltung.",
       hu: "A legfontosabb határátkelő Thaiföld felé, a kereskedelem, logisztika és szórakoztatás központja.",
@@ -6705,7 +6688,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: "Chakrey Ting Cementgyár",
       ro: "Fabrica de Ciment Chakrey Ting",
       en: "Chakrey Ting Cement Factory"},
-    image: "/poi-images/chakrey-ting-cement-factory-economic-v2.webp",
     description: {
       de: "Eine der ältesten und größten Zementfabriken in Kambodscha, maßgeblich an der Infrastrukturentwicklung beteiligt.",
       hu: "Kambodzsa egyik legrégebbi és legnagyobb cementgyára, amely jelentős szerepet játszik az infrastruktúra fejlesztésében.",
@@ -6906,7 +6888,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: "Kampot Tengeri Kikötő",
       ro: "Portul Maritim Kampot",
       en: "Kampot Seaport"},
-    image: "/poi-images/kampot-seaport-economic-v2.webp",
     description: {
       de: "Ein neuerer Seehafen, der entworfen wurde, um den wachsenden maritimen Handel im Süden des Landes zu unterstützen.",
       hu: "Egy újabb tengeri kikötő, amelyet az ország déli részén növekvő tengeri kereskedelem támogatására terveztek.",

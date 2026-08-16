@@ -8,7 +8,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-G",
     coords: [43.2551, -11.7172],
     name: { de: "Moroni", hu: "Moroni", ro: "Moroni", en: "Moroni"},
-    image: "/poi-images/moroni-cities-v2.webp",
     description: {
       de: "Moroni ist die Hauptstadt der Komoren und liegt am Fuße des Vulkans Karthala auf der Insel Grande Comore.",
       hu: "Moroni a Comore-szigetek fővárosa, amely a Karthala-vulkán lábánál fekszik Grande Comore szigetén.",
@@ -49,7 +48,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-A",
     coords: [44.4036, -12.1719],
     name: { de: "Mutsamudu", hu: "Mutsamudu", ro: "Mutsamudu", en: "Mutsamudu"},
-    image: "/poi-images/mutsamudu-cities-v2.webp",
     description: {
       de: "Mutsamudu ist die zweitgrößte Stadt der Komoren und die Hauptstadt der Insel Anjouan.",
       hu: "Mutsamudu a Comore-szigetek második legnagyobb városa és Anjouan szigetének székhelye.",
@@ -90,7 +88,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-M",
     coords: [43.7425, -12.2803],
     name: { de: "Fomboni", hu: "Fomboni", ro: "Fomboni", en: "Fomboni"},
-    image: "/poi-images/fomboni-cities-v2.webp",
     description: {
       de: "Fomboni ist die Hauptstadt der Insel Mohéli und die drittgrößte Stadt des Landes.",
       hu: "Fomboni Mohéli szigetének fővárosa és az ország harmadik legnagyobb városa.",
@@ -131,7 +128,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-A",
     coords: [44.5319, -12.2569],
     name: { de: "Domoni", hu: "Domoni", ro: "Domoni", en: "Domoni"},
-    image: "/poi-images/domoni-cities-v2.webp",
     description: {
       de: "Domoni ist eine historische Stadt an der Ostküste der Insel Anjouan.",
       hu: "Domoni egy történelmi város Anjouan szigetének keleti partján.",
@@ -259,7 +255,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-G",
     coords: [43.2925, -11.3853],
     name: { de: "Mitsamiouli", hu: "Mitsamiouli", ro: "Mitsamiouli", en: "Mitsamiouli"},
-    image: "/poi-images/mitsamiouli-cities-v2.webp",
     description: {
       de: "Mitsamiouli ist eine Küstenstadt im Norden von Grande Comore, bekannt für ihre schönen Strände.",
       hu: "Mitsamiouli egy kikötőváros Grande Comore északi részén, amely szép strandjairól ismert.",
@@ -455,7 +450,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-G",
     coords: [43.2403, -11.7417],
     name: { de: "Iconi", hu: "Iconi", ro: "Iconi", en: "Iconi"},
-    image: "/poi-images/iconi-cities-v2.webp",
     description: {
       de: "Iconi ist eine der ältesten Städte der Komoren und liegt südlich von Moroni.",
       hu: "Iconi a Comore-szigetek egyik legrégebbi városa, Moronitól délre fekszik.",
@@ -502,7 +496,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-M",
     coords: [43.7231, -12.3858],
     name: { de: "Nioumachoua", hu: "Nioumachoua", ro: "Nioumachoua", en: "Nioumachoua"},
-    image: "/poi-images/nioumachoua-cities-v2.webp",
     description: {
       de: "Nioumachoua ist die zweitgrößte Stadt auf Mohéli und liegt an der Südküste.",
       hu: "Nioumachoua Mohéli második legnagyobb városa, a déli parton fekszik.",
@@ -549,7 +542,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-A",
     coords: [44.2831, -12.1983],
     name: { de: "Sima", hu: "Sima", ro: "Sima", en: "Sima"},
-    image: "/poi-images/sima-cities-v2.webp",
     description: {
       de: "Sima ist eine wichtige Stadt im Westen der Insel Anjouan.",
       hu: "Sima egy fontos város Anjouan szigetének nyugati részén.",
@@ -592,7 +584,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-A",
     coords: [44.4417, -12.2106],
     name: { de: "Tsembehou", hu: "Tsembehou", ro: "Tsembehou", en: "Tsembehou"},
-    image: "/poi-images/tsembehou-cities-v2.webp",
     description: {
       de: "Tsembehou liegt im Hochland von Anjouan und ist ein Ausgangspunkt f?r Wege ins Inselinnere. Das mildere Klima pr?gt den Ort st?rker als die K?ste.",
       hu: "Tsembehou Anjouan belső, dombos részén fekvő település. A hűvösebb magaslati klíma miatt itt a kertgazdálkodás és a gyalogos utak fontosak.",
@@ -767,7 +758,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-A",
     coords: [44.5125, -12.2536],
     name: { de: "Adda-Douéni", hu: "Adda-Douéni", ro: "Adda-Douéni", en: "Adda-Douéni"},
-    image: "/poi-images/adda-doueni-cities-v2.webp",
     description: {
       de: "Adda-Douéni ist eine dicht besiedelte Stadt im Osten von Anjouan.",
       hu: "Adda-Doueni Anjouan egyik kisebb települése, ahol a tengerpart és a helyi gazdálkodás találkozik. A környék nyugodt, falusias karakterű.",
@@ -809,7 +799,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-A",
     coords: [44.4331, -12.3169],
     name: { de: "Moya", hu: "Moya", ro: "Moya", en: "Moya"},
-    image: "/poi-images/moya-cities-v2.webp",
     description: {
       de: "Moya ist ein K?stenort im S?den von Anjouan mit offenem Blick auf Strand und Meer. Der Ort ist eng mit Fischerei und kleinen Ausfl?gen verbunden.",
       hu: "Moya Anjouan déli partján fekszik, és strandjai miatt ismert. A környéken a halászat és a tengerparti pihenés a meghatározó.",
@@ -982,7 +971,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-M",
     coords: [43.7831, -12.2625],
     name: { de: "Wanani", hu: "Wanani", ro: "Wanani", en: "Wanani"},
-    image: "/poi-images/wanani-cities-v2.webp",
     description: {
       de: "Wanani liegt an der Nordk?ste von Moh?li und lebt von Fischerei und kleinen G?steh?usern. Die N?he zu Fomboni macht den Ort gut erreichbar.",
       hu: "Wanani Mohéli északi partján található, nem messze Fombonitól. A település kis kikötői és part menti élete miatt emelkedik ki.",
@@ -1024,7 +1012,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-M",
     coords: [43.7314, -12.2647],
     name: { de: "Hoani", hu: "Hoani", ro: "Hoani", en: "Hoani"},
-    image: "/poi-images/hoani-cities-v2.webp",
     description: {
       de: "Hoani liegt ebenfalls an der Nordk?ste von Moh?li und grenzt an die gr?ne Inselmitte an. Der Ort verbindet K?stenleben mit der N?he zum Nationalpark.",
       hu: "Hoani Mohéli északi részén, a part és a sziget belseje között helyezkedik el. A környéket kókuszpálmák, kis kertek és halászat jellemzi.",
@@ -1065,7 +1052,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-M",
     coords: [43.7553, -12.2903],
     name: { de: "Djoyezi", hu: "Djoyezi", ro: "Djoyezi", en: "Djoyezi"},
-    image: "/poi-images/djoyezi-cities-v2.webp",
     description: {
       de: "Djoyezi ist eine kleine K?stensiedlung auf Moh?li mit gesch?tzter Bucht. Die Einwohner leben vor allem vom Meer und vom kleinen Anbau.",
       hu: "Djoyezi közvetlenül a főváros, Fomboni közelében fekszik Mohéli szigetén.",
@@ -1235,7 +1221,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-M",
     coords: [43.6831, -12.3331],
     name: { de: "Mbatsé", hu: "Mbatsé", ro: "Mbatsé", en: "Mbatsé"},
-    image: "/poi-images/mbatse-cities-v2.webp",
     description: {
       de: "Mbats? liegt im Inneren von Moh?li in h?geligem Gel?nde. Der Ort steht f?r kleine Bergsiedlungen mit Selbstversorgung.",
       hu: "Mbatsé Mohéli belső, dombos részén fekvő kisebb település. A mindennapokat itt a mezőgazdaság és a csendes szigeti élet határozza meg.",
@@ -1276,7 +1261,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-M",
     coords: [43.8667, -12.3167],
     name: { de: "Itsamia", hu: "Itsamia", ro: "Itsamia", en: "Itsamia"},
-    image: "/poi-images/itsamia-cities-v2.webp",
     description: {
       de: "Itsamia ist ein Dorf im Osten von Mohéli, berühmt für seine Meeresschildkröten.",
       hu: "Itsamia egy falu Mohéli keleti részén, híres tengeri teknőseiről.",
@@ -1398,7 +1382,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-M",
     coords: [43.6667, -12.35],
     name: { de: "Ouallah", hu: "Ouallah", ro: "Ouallah", en: "Ouallah"},
-    image: "/poi-images/ouallah-cities-v2.webp",
     description: {
       de: "Ouallah liegt an der S?dwestk?ste von Moh?li in einer gesch?tzten Bucht. Der Ort ist bekannt f?r Walbeobachtung und K?stenfischerei.",
       hu: "Ouallah Mohéli délnyugati partján, védett öböl közelében fekszik. A település a tengeri élővilág és a halászat miatt ismert.",
@@ -1523,7 +1506,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-G",
     coords: [43.3667, -11.8333],
     name: { de: "Dembéni", hu: "Dembéni", ro: "Dembéni", en: "Dembéni"},
-    image: "/poi-images/dembeni-cities-v2.webp",
     description: {
       de: "Dembéni ist eine Stadt im Südosten von Grande Comore.",
       hu: "Dembéni egy város Grande Comore délkeleti részén.",
@@ -1699,7 +1681,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-G",
     coords: [43.3167, -11.7667],
     name: { de: "Hambou", hu: "Hambou", ro: "Hambou", en: "Hambou"},
-    image: "/poi-images/hambou-cities-v2.webp",
     description: {
       de: "Hambou ist ein Verwaltungsbezirk s?dlich von Moroni und umfasst mehrere K?stensiedlungen. Kokospalmenhaine und kleine Fischerboote pr?gen die Region.",
       hu: "Hambou Moronitól délre elterülő igazgatási térség, több part menti falvakkal. A kókuszpálmák és a kis halászhajók gyakori látványok.",
@@ -1968,7 +1949,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-G",
     coords: [43.275, -11.7167],
     name: { de: "Mvouni", hu: "Mvouni", ro: "Mvouni", en: "Mvouni"},
-    image: "/poi-images/mvouni-cities-v2.webp",
     description: {
       de: "Mvouni liegt am Hang des Karthala nahe Moroni und ist ein wichtiges religi?ses Bildungszentrum. Der Ort verbindet Vorstadtleben mit alter islamischer Tradition.",
       hu: "Mvouni Moroni közelében, a Karthala lejtőin fekszik. A település vallási oktatási központként és elővárosi lakóhelyként ismert.",
@@ -2017,7 +1997,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-G",
     coords: [43.2833, -11.75],
     name: { de: "Selea", hu: "Selea", ro: "Selea", en: "Selea"},
-    image: "/poi-images/selea-cities-v2.webp",
     description: {
       de: "Selea liegt s?dlich von Moroni an der Westk?ste von Grande Comore. Ein historischer Friedhof macht den Ort besonders bekannt.",
       hu: "Selea Grande Comore nyugati partján, Moronitól délre található. A településhez egy régi temető és a part menti halászat emléke kapcsolódik.",
@@ -2061,7 +2040,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-G",
     coords: [43.3167, -11.85],
     name: { de: "Singani", hu: "Singani", ro: "Singani", en: "Singani"},
-    image: "/poi-images/singani-cities-v2.webp",
     description: {
       de: "Singani liegt an der Westk?ste von Grande Comore und besitzt einen alten Hafencharakter. Fischerei und Strandleben bestimmen den Alltag.",
       hu: "Singani Grande Comore nyugati partjának egyik régi kikötőfalva. A mindennapok itt is a tengerhez és a kis léptékű halászathoz kötődnek.",
@@ -2198,7 +2176,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-A",
     coords: [44.4167, -12.2833],
     name: { de: "Pomoni", hu: "Pomoni", ro: "Pomoni", en: "Pomoni"},
-    image: "/poi-images/pomoni-cities-v2.webp",
     description: {
       de: "Pomoni liegt an der Westk?ste von Anjouan und hat eine Geschichte als Plantagenort. Heute erinnern Ruinen an die Zuckerrohrzeit.",
       hu: "Pomoni Anjouan nyugati partján fekvő, régi ültetvénytelepülés. A helyi romok és az egykori cukornádgazdálkodás ma is látható nyomot hagytak.",
@@ -2242,7 +2219,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-A",
     coords: [44.45, -12.1833],
     name: { de: "Barakani", hu: "Barakani", ro: "Barakani", en: "Barakani"},
-    image: "/poi-images/barakani-cities-v2.webp",
     description: {
       de: "Barakani liegt zwischen Mutsamudu und Ouani auf Anjouan und w?chst mit der Hafenregion zusammen. Die gute Anbindung macht den Ort attraktiv f?r Pendler.",
       hu: "Barakani Mutsamudu és Ouani között helyezkedik el Anjouanon. A jó közúti kapcsolat miatt egyre inkább ingázó településként működik.",
@@ -2552,7 +2528,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-G",
     coords: [43.4833, -11.8],
     name: { de: "Pidjani", hu: "Pidjani", ro: "Pidjani", en: "Pidjani"},
-    image: "/poi-images/pidjani-cities-v2.webp",
     description: {
       de: "Pidjani liegt im S?dosten von Grande Comore an der K?ste. Fischerei und Riffe bestimmen hier das Umfeld.",
       hu: "Pidjani egy kikötőváros Grande Comore délkeleti részén.",
@@ -2596,7 +2571,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     parent: "KM-G",
     coords: [43.25, -11.6333],
     name: { de: "Tsidjé", hu: "Tsidjé", ro: "Tsidjé", en: "Tsidjé"},
-    image: "/poi-images/tsidje-cities-v2.webp",
     description: {
       de: "Tsidje liegt am Rand von Moroni und geh?rt zum erweiterten Vorstadtg?rtel. Viele Bewohner pendeln t?glich in die Hauptstadt.",
       hu: "Tsidje Moroni szélén fekvő elővárosi település. Sok lakó naponta a fővárosba jár dolgozni vagy tanulni.",

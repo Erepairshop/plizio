@@ -12,7 +12,6 @@ export const poiExtraSurinameNatureV2: POI[] = [
       hu: "Közép-Suriname Természetvédelmi Terület",
       ro: "Rezervația Naturală Centrală Surinam",
       en: "Central Suriname Nature Reserve"},
-    image: "/poi-images/sr-central-suriname-nature-v2.webp",
     description: {
       de: "Eines der größten und ursprünglichsten tropischen Regenwaldgebiete der Welt, UNESCO-Welterbe.",
       hu: "A világ egyik legnagyobb és legérintetlenebb trópusi esőerdeje, UNESCO Világörökség.",
@@ -59,7 +58,6 @@ export const poiExtraSurinameNatureV2: POI[] = [
       hu: "Galibi Természetvédelmi Terület",
       ro: "Rezervația Naturală Galibi",
       en: "Galibi Nature Reserve"},
-    image: "/poi-images/sr-galibi-nature-v2.webp",
     description: {
       de: "Wichtiges Nistgebiet für seltene Meeresschildkröten an der Mündung des Marowijne-Flusses.",
       hu: "Fontos fészkelőhely a ritka tengeri teknősök számára a Marowijne-folyó torkolatánál.",
@@ -151,7 +149,6 @@ export const poiExtraSurinameNatureV2: POI[] = [
       hu: "Bigi Pan Természetvédelmi Terület",
       ro: "Rezervația Naturală Bigi Pan",
       en: "Bigi Pan Nature Reserve"},
-    image: "/poi-images/sr-bigi-pan-nature-v2.webp",
     description: {
       de: "Ein weitläufiges Lagunensystem mit einer enormen Vielfalt an Vogelarten, ideal für Bootstouren.",
       hu: "Kiterjedt lagúna-rendszer hatalmas madárfaj-sokszínűséggel, ideális csónaktúrákhoz.",
@@ -243,7 +240,6 @@ export const poiExtraSurinameNatureV2: POI[] = [
       hu: "Brownsberg Természetvédelmi Terület",
       ro: "Rezervația Naturală Brownsberg",
       en: "Brownsberg Nature Reserve"},
-    image: "/poi-images/sr-brownsberg-nature-v2.webp",
     description: {
       de: "Ein Bergplateau mit Blick auf den Brokopondo-Stausee, reich an Wasserfällen und Regenwald-Flora.",
       hu: "Hegyfennsík kilátással a Brokopondo-víztározóra, vízesésekben és esőerdei növényvilágban gazdag.",
@@ -290,7 +286,6 @@ export const poiExtraSurinameNatureV2: POI[] = [
       hu: "Voltzberg",
       ro: "Voltzberg",
       en: "Voltzberg"},
-    image: "/poi-images/sr-voltzberg-nature-v2.webp",
     description: {
       de: "Ein markanter Granitberg, der aus dem Regenwald ragt und einen atemberaubenden Blick über die Baumwipfel bietet.",
       hu: "Egy jellegzetes gránithegy, amely kiemelkedik az esőerdőből, és lélegzetelállító kilátást nyújt a lombkoronák fölött.",
@@ -337,7 +332,6 @@ export const poiExtraSurinameNatureV2: POI[] = [
       hu: "Coppename Folyó",
       ro: "Râul Coppename",
       en: "Coppename River"},
-    image: "/poi-images/sr-coppename-natur-v2.webp",
     description: {
       de: "Ein wichtiger Fluss, bekannt für seine unberührte Natur und die beeindruckenden Wasserfälle.",
       hu: "Fontos folyó, amely az érintetlen természetéről és lenyűgöző vízeséseiről ismert.",

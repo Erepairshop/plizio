@@ -736,7 +736,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-UT",
     coords: [-58.37, 6.95],
     name: { de: "Essequibo (Fluss)", hu: "Essequibo-folyó", ro: "Râul Essequibo", en: "Essequibo River"},
-    image: "/poi-images/guyana-essequibo-river-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Essequibo ist mit einer Länge von etwa 1010 Kilometern der größte Fluss in Guyana und einer der bedeutendsten Wasserwege Südamerikas. Er entspringt in den Acarai-Bergen an der Grenze zu Brasilien und fließt in nördlicher Richtung durch dichten Regenwald und Savannen, bevor er in den Atlantischen Ozean mündet. Das Einzugsgebiet des Essequibo umfasst über 150.000 Quadratkilometer und beherbergt eine unglaubliche Vielfalt an Flora und Fauna. Die Flussmündung ist etwa 32 Kilometer breit und enthält zahlreiche große Inseln, darunter Hog Island, Leguan und Wakenaam. Historisch gesehen war der Fluss die Lebensader für die Kolonialmächte und die indigenen Völker, die seine Ufer seit Jahrtausenden besiedeln. Er spielt heute eine zentrale Rolle in der Wirtschaft des Landes, insbesondere für den Transport von Rohstoffen und den aufstrebenden Ökotourismus. Entlang seines Verlaufs finden sich spektakuläre Wasserfälle und Stromschnellen, die den Fluss zu einer Herausforderung für die Schifffahrt machen. Der Essequibo ist zudem ein Symbol für die unberührte Wildnis und den natürlichen Reichtum Guyanas.",
       hu: "Az Essequibo mintegy 1010 kilométeres hosszával Guyana legnagyobb folyója és Dél-Amerika egyik legjelentősebb vízi útja. Az Acarai-hegységben ered, a brazil határ közelében, majd északi irányba folyik keresztül sűrű esőerdőkön és szavannákon, mielőtt az Atlanti-óceánba torkollna. Vízgyűjtő területe több mint 150 000 négyzetkilométert tesz ki, amely elképesztő biológiai sokféleségnek ad otthont. A folyó torkolata körülbelül 32 kilométer széles, és számos nagy szigetet foglal magában, mint például a Hog-sziget, Leguan és Wakenaam. Történelmileg a folyó létfontosságú volt a gyarmatosító hatalmak és az őslakos népek számára, akik évezredek óta lakják partjait. Napjainkban központi szerepet játszik az ország gazdaságában, különösen a nyersanyagszállítás és a fejlődő ökoturizmus szempontjából. Futása mentén látványos vízesések és zúgók találhatók, amelyek komoly kihívást jelentenek a hajózás számára. Az Essequibo Guyana érintetlen vadonjának és természeti gazdagságának egyik legfontosabb jelképe.",
@@ -923,7 +922,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-UD",
     coords: [-58.17, 6.8],
     name: { de: "Demerara (Fluss)", hu: "Demerara-folyó", ro: "Râul Demerara", en: "Demerara River"},
-    image: "/poi-images/guyana-demerara-river-nature-v2.webp",
     description: { de: "Ein historisch und wirtschaftlich bedeutender Fluss in Guyana, bekannt für den Transport von Bauxit.", hu: "Történelmileg és gazdaságilag jelentős folyó Guyanában, a bauxitszállításról ismert.", ro: "Un râu semnificativ din punct de vedere istoric și economic în Guyana, cunoscut pentru transportul bauxitei.", en: "A historically and economically significant river in Guyana, known for bauxite transport." , es: "Un río histórica y económicamente significativo en Guyana, conocido por el transporte de bauxita.", pt: "Um rio histórica e economicamente significativo na Guiana, conhecido pelo transporte de bauxita.", fr: "Un fleuve historiquement et économiquement important au Guyana, connu pour le transport de la bauxite."},
     facts: {
       de: ["Georgetown liegt an seiner Mündung.", "Gibt dem Demerara-Zucker seinen Namen."],
@@ -1399,7 +1397,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-EB",
     coords: [-57.53, 6.27],
     name: { de: "Berbice (Fluss)", hu: "Berbice-folyó", ro: "Râul Berbice", en: "Berbice River"},
-    image: "/poi-images/guyana-berbice-river-nature-v2.webp",
     description: { de: "Einer der Hauptflüsse Guyanas, der durch bedeutende landwirtschaftliche Regionen fließt.", hu: "Guyana egyik fő folyója, amely jelentős mezőgazdasági régiókon folyik keresztül.", ro: "Unul dintre râurile principale din Guyana, care curge prin regiuni agricole semnificative.", en: "One of the major rivers of Guyana, flowing through significant agricultural regions." , es: "Uno de los principales ríos de Guyana, que fluye a través de importantes regiones agrícolas.", pt: "Um dos principais rios da Guiana, fluindo através de importantes regiões agrícolas.", fr: "L'un des principaux fleuves du Guyana, traversant d'importantes régions agricoles."},
     facts: {
       de: ["Überquert von der Berbice-Brücke.", "New Amsterdam liegt an der Mündung."],
@@ -1947,7 +1944,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-EB",
     coords: [-57.14, 5.95],
     name: { de: "Corantijn (Fluss)", hu: "Corentyne-folyó", ro: "Râul Corentyne", en: "Corentyne River"},
-    image: "/poi-images/guyana-corentyne-river-nature-v2.webp",
     description: { de: "Dieser Fluss bildet die natürliche Grenze zwischen Guyana und Suriname.", hu: "Ez a folyó alkotja a természetes határt Guyana és Suriname között.", ro: "Acest râu formează granița naturală dintre Guyana și Surinam.", en: "This river forms the natural border between Guyana and Suriname." , es: "Este río forma la frontera natural entre Guyana y Surinam.", pt: "Este rio forma a fronteira natural entre a Guiana e o Suriname.", fr: "Cette rivière forme la frontière naturelle entre le Guyana et le Suriname."},
     facts: {
       de: ["Über 700 km lang.", "Schiffbar im Unterlauf."],
@@ -1982,7 +1978,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-CU",
     coords: [-58.98, 6.38],
     name: { de: "Cuyuni (Fluss)", hu: "Cuyuni-folyó", ro: "Râul Cuyuni", en: "Cuyuni River"},
-    image: "/poi-images/guyana-cuyuni-river-nature-v2.webp",
     description: { de: "Ein wichtiger Nebenfluss des Essequibo, der aus dem venezolanischen Hochland kommt.", hu: "Az Essequibo fontos mellékfolyója, amely a venezuelai felföldről ered.", ro: "Un afluent important al râului Essequibo, originar din zonele muntoase venezuelene.", en: "An important tributary of the Essequibo River, originating in the Venezuelan highlands." , es: "Un importante afluente del Esequibo que proviene de las tierras altas de Venezuela.", pt: "Um importante afluente do Essequibo que vem das terras altas da Venezuela.", fr: "Un affluent important de l'Essequibo, provenant des hauts plateaux vénézuéliens."},
     facts: {
       de: ["Fließt durch goldreiche Gebiete.", "Mündet in den Mazaruni."],
@@ -2017,7 +2012,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-CU",
     coords: [-58.63, 6.4],
     name: { de: "Mazaruni (Fluss)", hu: "Mazaruni-folyó", ro: "Râul Mazaruni", en: "Mazaruni River"},
-    image: "/poi-images/guyana-mazaruni-river-nature-v2.webp",
     description: { de: "Ein wasserreicher Fluss, der durch die Regenwälder und Savannen von Guyana fließt.", hu: "Bővizű folyó, amely Guyana esőerdein és szavannáin folyik keresztül.", ro: "Un râu cu un debit mare care curge prin pădurile tropicale și savanele din Guyana.", en: "A voluminous river flowing through the rainforests and savannahs of Guyana." , es: "Un río caudaloso que fluye a través de las selvas y sabanas de Guyana.", pt: "Um rio caudaloso que corre através das florestas tropicais e sabanas da Guiana.", fr: "Une rivière abondante qui coule à travers les forêts tropicales et les savanes du Guyana."},
     facts: {
       de: ["Bekannt für Diamantenabbau.", "Vereinigt sich mit dem Cuyuni."],
@@ -2052,7 +2046,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-UT",
     coords: [-58.65, 4.05],
     name: { de: "Rupununi (Fluss)", hu: "Rupununi-folyó", ro: "Râul Rupununi", en: "Rupununi River"},
-    image: "/poi-images/guyana-rupununi-river-nature-v2.webp",
     description: { de: "Ein Fluss, der durch die weiten Rupununi-Savannen im Südwesten Guyanas fließt.", hu: "Folyó, amely a kiterjedt Rupununi-szavannákon folyik keresztül Guyana délnyugati részén.", ro: "Un râu care curge prin vastele savane Rupununi din sud-vestul Guyanei.", en: "A river flowing through the vast Rupununi savannahs in southwestern Guyana." , es: "Un río que fluye a través de las vastas sabanas de Rupununi en el suroeste de Guyana.", pt: "Um rio que corre através das vastas savanas do Rupununi, no sudoeste da Guiana.", fr: "Une rivière qui traverse les vastes savanes du Rupununi dans le sud-ouest du Guyana."},
     facts: {
       de: ["Lebensraum des Schwarzen Kaimans.", "Trocknet in der Trockenzeit stark aus."],
@@ -2087,7 +2080,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-PT",
     coords: [-58.9, 5.36],
     name: { de: "Potaro (Fluss)", hu: "Potaro-folyó", ro: "Râul Potaro", en: "Potaro River"},
-    image: "/poi-images/guyana-potaro-river-nature-v2.webp",
     description: { de: "Dieser Fluss ist berühmt für die spektakulären Kaieteur-Fälle entlang seines Laufs.", hu: "Ez a folyó a folyása mentén található látványos Kaieteur-vízesésről híres.", ro: "Acest râu este renumit pentru spectaculoasa cascadă Kaieteur de-a lungul cursului său.", en: "This river is famous for the spectacular Kaieteur Falls along its course." , es: "Este río es famoso por las espectaculares cataratas Kaieteur a lo largo de su curso.", pt: "Este rio é famoso pelas espetaculares quedas de água Kaieteur ao longo do seu curso.", fr: "Cette rivière est célèbre pour les spectaculaires chutes de Kaieteur le long de son cours."},
     facts: {
       de: ["Fließt durch den Kaieteur-Nationalpark.", "Beliebt für Goldsuche in der Vergangenheit."],
@@ -2122,7 +2114,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-BA",
     coords: [-59.78, 8.25],
     name: { de: "Barima (Fluss)", hu: "Barima-folyó", ro: "Râul Barima", en: "Barima River"},
-    image: "/poi-images/guyana-barima-river-nature-v2.webp",
     description: { de: "Ein Fluss im Nordwesten Guyanas, der nahe der venezolanischen Grenze in den Atlantik mündet.", hu: "Folyó Guyana északnyugati részén, amely a venezuelai határ közelében torkollik az Atlanti-óceánba.", ro: "Un râu în nord-vestul Guyanei care se varsă în Oceanul Atlantic aproape de granița cu Venezuela.", en: "A river in northwestern Guyana that flows into the Atlantic Ocean near the Venezuelan border." , es: "Un río en el noroeste de Guyana que desemboca en el Atlántico cerca de la frontera con Venezuela.", pt: "Um rio no noroeste da Guiana que deságua no Atlântico perto da fronteira com a Venezuela.", fr: "Une rivière du nord-ouest du Guyana, qui se jette dans l'Atlantique près de la frontière vénézuélienne."},
     facts: {
       de: ["Wichtig für lokale indigene Gemeinschaften.", "Verbindet sich teilweise mit dem Amakura-Fluss."],
@@ -2238,7 +2229,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-PM",
     coords: [-58.74, 7.61],
     name: { de: "Pomeroon (Fluss)", hu: "Pomeroon-folyó", ro: "Râul Pomeroon", en: "Pomeroon River"},
-    image: "/poi-images/guyana-pomeroon-river-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss für die Landwirtschaft, an dessen Ufern viel Kokosnuss angebaut wird.", hu: "Jelentős mezőgazdasági folyó, melynek partján sok kókuszt termesztenek.", ro: "Un râu agricol semnificativ, pe malurile căruia se cultivă o cantitate mare de nuci de cocos.", en: "A significant agricultural river on whose banks large quantities of coconuts are grown." , es: "Un río importante para la agricultura, en cuyas orillas se cultiva mucho coco.", pt: "Um rio importante para a agricultura, em cujas margens se cultiva muito coco.", fr: "Un fleuve important pour l'agriculture, sur les rives duquel on cultive beaucoup de noix de coco."},
     facts: {
       de: ["Charity liegt an diesem Fluss.", "Zentrum der Kokosnussindustrie Guyanas."],
@@ -2273,7 +2263,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-CU",
     coords: [-60.73, 5.2],
     name: { de: "Roraima-Tepui", hu: "Roraima-hegy", ro: "Muntele Roraima", en: "Mount Roraima"},
-    image: "/poi-images/guyana-mount-roraima-nature-v2.webp",
     description: { de: "Der höchste Tafelberg in der Region, dessen Plateau das Dreiländereck von Guyana, Venezuela und Brasilien bildet.", hu: "A régió legmagasabb táblahegye, amelynek fennsíkja Guyana, Venezuela és Brazília hármashatárát alkotja.", ro: "Cel mai înalt munte tepui din regiune, al cărui platou formează tripla graniță dintre Guyana, Venezuela și Brazilia.", en: "The highest tepui mountain in the region, whose plateau forms the tripoint of Guyana, Venezuela, and Brazil." , es: "La montaña de mesa más alta de la región, cuya meseta forma el punto de encuentro de las fronteras de Guyana, Venezuela y Brasil.", pt: "O monte tabular mais alto da região, cujo planalto forma a tríplice fronteira entre a Guiana, a Venezuela e o Brasil.", fr: "Le plus haut tepuy de la région, dont le plateau forme le tripoint frontalier entre le Guyana, le Venezuela et le Brésil."},
     facts: {
       de: ["2.810 Meter hoch.", "Inspirierte Arthur Conan Doyles 'Die vergessene Welt'."],
@@ -2308,7 +2297,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-UT",
     coords: [-59.4, 3.16],
     name: { de: "Kanuku-Berge", hu: "Kanuku-hegység", ro: "Munții Kanuku", en: "Kanuku Mountains"},
-    image: "/poi-images/guyana-kanuku-mountains-nature-v2.webp",
     description: { de: "Eine Bergkette, die die Rupununi-Savanne in nördliche und südliche Regionen teilt und reich an Biodiversität ist.", hu: "Hegylánc, amely a Rupununi-szavannát északi és déli régiókra osztja, és gazdag biodiverzitásáról ismert.", ro: "Un lanț muntos care împarte savana Rupununi în regiuni nordice și sudice și este bogat în biodiversitate.", en: "A mountain range dividing the Rupununi savannah into northern and southern regions, rich in biodiversity." , es: "Una cadena montañosa que divide la sabana de Rupununi en regiones norte y sur, rica en biodiversidad.", pt: "Uma cordilheira que divide a savana de Rupununi em regiões norte e sul e é rica em biodiversidade.", fr: "Une chaîne de montagnes qui divise la savane du Rupununi en régions nord et sud, riche en biodiversité."},
     facts: {
       de: ["Heimat der Harpyie.", "Geschütztes Naturschutzgebiet."],
@@ -2343,7 +2331,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-PT",
     coords: [-60.1, 5.5],
     name: { de: "Pacaraima-Berge", hu: "Pakaraima-hegység", ro: "Munții Pacaraima", en: "Pakaraima Mountains"},
-    image: "/poi-images/guyana-pakaraima-mountains-nature-v2.webp",
     description: { de: "Ein bewaldetes Sandsteingebirge in Guyana und Brasilien, aus dem zahlreiche Flüsse entspringen.", hu: "Erdős homokkőhegység Guyanában és Brazíliában, amelyből számos folyó ered.", ro: "Un lanț muntos împădurit din gresie în Guyana și Brazilia, din care izvorăsc numeroase râuri.", en: "A forested sandstone mountain range in Guyana and Brazil from which numerous rivers originate." , es: "Una cordillera boscosa de arenisca en Guyana y Brasil, de donde nacen numerosos ríos.", pt: "Uma cordilheira florestada de arenito na Guiana e no Brasil, onde nascem numerosos rios.", fr: "Une chaîne de montagnes de grès boisée au Guyana et au Brésil, d'où prennent source de nombreux fleuves."},
     facts: {
       de: ["Bildet die Wasserscheide zwischen Orinoco und Amazonas.", "Quellgebiet vieler Flüsse."],
@@ -2378,7 +2365,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-UT",
     coords: [-58.5, 1.4],
     name: { de: "Acarai-Berge", hu: "Acarai-hegység", ro: "Munții Acarai", en: "Acarai Mountains"},
-    image: "/poi-images/guyana-acarai-mountains-nature-v2.webp",
     description: { de: "Eine Gebirgskette im tiefen Süden Guyanas, die die Grenze zu Brasilien markiert.", hu: "Hegylánc Guyana déli részén, amely a Brazíliával közös határt jelöli.", ro: "Un lanț muntos în sudul extrem al Guyanei care marchează granița cu Brazilia.", en: "A mountain range in the deep south of Guyana that marks the border with Brazil." , es: "Una cadena montañosa en el extremo sur de Guyana que marca la frontera con Brasil.", pt: "Uma cordilheira no extremo sul da Guiana que marca a fronteira com o Brasil.", fr: "Une chaîne de montagnes dans le sud profond du Guyana, qui marque la frontière avec le Brésil."},
     facts: {
       de: ["Heimat des Wai-Wai-Stammes.", "Quellgebiet des Essequibo-Flusses."],
@@ -2413,7 +2399,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-PT",
     coords: [-58.8, 4.3],
     name: { de: "Iwokrama-Regenwald", hu: "Iwokrama-esőerdő", ro: "Pădurea Tropicală Iwokrama", en: "Iwokrama Forest"},
-    image: "/poi-images/guyana-iwokrama-forest-nature-v2.webp",
     description: { de: "Eines der letzten großen und unberührten tropischen Regenwaldgebiete der Welt im Herzen Guyanas.", hu: "A világ egyik utolsó nagy és érintetlen trópusi esőerdeje Guyana szívében.", ro: "Una dintre ultimele păduri tropicale mari și intacte din lume, în inima Guyanei.", en: "One of the last large and intact tropical rainforest areas in the world, in the heart of Guyana." , es: "Una de las últimas grandes áreas de selva tropical virgen del mundo en el corazón de Guyana.", pt: "Uma das últimas grandes áreas de floresta tropical intocada do mundo no coração da Guiana.", fr: "L'une des dernières grandes zones de forêt tropicale humide vierge au monde, au cœur du Guyana."},
     facts: {
       de: ["Umfasst 3.700 Quadratkilometer.", "Fokus auf nachhaltige Waldbewirtschaftung."],
@@ -2493,7 +2478,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-CU",
     coords: [-58.61, 6.38],
     name: { de: "Sloth Island", hu: "Lajhár-sziget", ro: "Insula Leneșilor", en: "Sloth Island"},
-    image: "/poi-images/guyana-sloth-island-nature-v2.webp",
     description: { de: "Eine unberührte Insel im Essequibo-Fluss, die für ihre reiche Vogelwelt und natürlich die namensgebenden Faultiere bekannt ist.", hu: "Érintetlen sziget az Essequibo-folyóban, amely gazdag madárvilágáról és a névadó lajhárokról ismert.", ro: "O insulă virgină din râul Essequibo, cunoscută pentru viața sa bogată de păsări și pentru leneșii care îi dau numele.", en: "A pristine island in the Essequibo River known for its rich birdlife and, of course, the sloths it is named after." , es: "Una isla virgen en el río Esequibo, conocida por su rica avifauna y, por supuesto, por los perezosos que le dan nombre.", pt: "Uma ilha intocada no Rio Essequibo, conhecida pela sua rica avifauna e, claro, pelas preguiças que lhe dão o nome.", fr: "Une île vierge sur le fleuve Essequibo, réputée pour sa riche avifaune et, bien sûr, pour les paresseux qui lui donnent son nom."},
     facts: {
       de: ["Beliebtes Ziel für Ökotourismus.", "Liegt nahe der Stadt Bartica."],
@@ -2573,7 +2557,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-ES",
     coords: [-58.46, 6.8],
     name: { de: "Hogg Island", hu: "Hogg-sziget", ro: "Insula Hogg", en: "Hogg Island"},
-    image: "/poi-images/guyana-hogg-island-nature-v2.webp",
     description: { de: "Die größte der zahlreichen Inseln im Essequibo-Delta, bekannt für Landwirtschaft und Reisanbau.", hu: "Az Essequibo-delta számos szigete közül a legnagyobb, amely mezőgazdaságáról és rizstermesztéséről ismert.", ro: "Cea mai mare dintre numeroasele insule din delta Essequibo, cunoscută pentru agricultură și cultivarea orezului.", en: "The largest of the numerous islands in the Essequibo delta, known for agriculture and rice farming." , es: "La mayor de las numerosas islas del delta del Essequibo, conocida por la agricultura y el cultivo de arroz.", pt: "A maior das numerosas ilhas do delta do Essequibo, conhecida pela agricultura e pelo cultivo de arroz.", fr: "La plus grande des nombreuses îles du delta de l'Essequibo, connue pour l'agriculture et la culture du riz."},
     facts: {
       de: ["Größer als viele Karibikinseln.", "Hat eine sehr geringe Bevölkerungsdichte."],
@@ -2725,7 +2708,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-ES",
     coords: [-58.48, 6.95],
     name: { de: "Wakenaam", hu: "Wakenaam-sziget", ro: "Insula Wakenaam", en: "Wakenaam Island"},
-    image: "/poi-images/guyana-wakenaam-island-nature-v2.webp",
     description: { de: "Eine friedliche Agrarinsel an der Mündung des Essequibo-Flusses mit historischen niederländischen Einflüssen.", hu: "Békés mezőgazdasági sziget az Essequibo-folyó torkolatánál, történelmi holland hatásokkal.", ro: "O insulă agricolă pașnică la gura râului Essequibo, cu influențe istorice olandeze.", en: "A peaceful agricultural island at the mouth of the Essequibo River with historical Dutch influences." , es: "una isla agrícola pacífica en la desembocadura del río Esequibo con influencias históricas holandesas.", pt: "Uma ilha agrícola pacífica na foz do rio Essequibo com influências históricas holandesas.", fr: "Une île agricole paisible à l'embouchure de l'Essequibo, avec des influences historiques néerlandaises."},
     facts: {
       de: ["Name bedeutet 'Warten auf einen Namen'.", "Hauptsächlich auf Reis- und Kokosnussanbau fokussiert."],
@@ -3021,7 +3003,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-ES",
     coords: [-58.26, 6.82],
     name: { de: "Leguan", hu: "Leguan-sziget", ro: "Insula Leguan", en: "Leguan Island"},
-    image: "/poi-images/guyana-leguan-island-nature-v2.webp",
     description: { de: "Eine kleine Insel im Delta des Essequibo-Flusses, die ihren Namen von den vielen dort lebenden Leguanen hat.", hu: "Kis sziget az Essequibo-folyó deltájában, amely nevét az ott élő sok leguánról kapta.", ro: "O mică insulă în delta râului Essequibo, care își ia numele de la numeroasele iguane care trăiesc acolo.", en: "A small island in the Essequibo River delta, which takes its name from the many iguanas living there." , es: "Una pequeña isla en el delta del río Essequibo que recibe su nombre de las numerosas iguanas que viven allí.", pt: "Uma pequena ilha no delta do rio Essequibo, que recebeu o seu nome devido às muitas iguanas que lá vivem.", fr: "Une petite île dans le delta du fleuve Essequibo, qui tire son nom des nombreux iguanes qui y vivent."},
     facts: {
       de: ["Ursprünglich von den Niederländern besiedelt.", "Heimat einer großen Hindu-Gemeinde."],
@@ -3101,7 +3082,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-BA",
     coords: [-59.4, 8.2],
     name: { de: "Shell Beach", hu: "Kagyló-part", ro: "Shell Beach", en: "Shell Beach"},
-    image: "/poi-images/guyana-shell-beach-nature-v2.webp",
     description: { de: "Ein 145 Kilometer langer Küstenabschnitt am Atlantischen Ozean, bekannt als Brutplatz für bedrohte Meeresschildkröten.", hu: "Egy 145 kilométer hosszú partszakasz az Atlanti-óceán mentén, amely veszélyeztetett tengeri teknősök fészkelőhelyeként ismert.", ro: "O porțiune de coastă de 145 de kilometri de-a lungul Oceanului Atlantic, cunoscută ca loc de cuibărit pentru țestoasele marine pe cale de dispariție.", en: "A 145-kilometer stretch of coastline along the Atlantic Ocean, known as a nesting site for endangered sea turtles." , es: "Un tramo de costa de 145 kilómetros en el océano Atlántico, conocido como lugar de anidación de tortugas marinas en peligro de extinción.", pt: "Um trecho de costa de 145 quilómetros no Oceano Atlântico, conhecido como local de desova de tartarugas marinhas ameaçadas.", fr: "Un tronçon côtier de 145 kilomètres sur l'océan Atlantique, réputé comme lieu de nidification pour les tortues marines menacées."},
     facts: {
       de: ["Vier Arten von Meeresschildkröten nisten hier.", "Besteht hauptsächlich aus zerkleinerten Muscheln."],
@@ -3181,7 +3161,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-PT",
     coords: [-59.9, 5.38],
     name: { de: "Mount Ayanganna", hu: "Ayanganna-hegy", ro: "Muntele Ayanganna", en: "Mount Ayanganna"},
-    image: "/poi-images/guyana-mount-ayanganna-nature-v2.webp",
     description: { de: "Ein isolierter Berg aus Sandstein in den Pacaraima-Bergen Guyanas, vollständig von dichten Wäldern umgeben.", hu: "Elszigetelt homokkő hegy a guyanai Pakaraima-hegységben, amelyet sűrű erdők vesznek körül.", ro: "Un munte izolat de gresie din Munții Pacaraima din Guyana, complet înconjurat de păduri dense.", en: "An isolated sandstone mountain in the Pakaraima Mountains of Guyana, completely surrounded by dense forests." , es: "Una montaña aislada de arenisca en los montes Pacaraima de Guyana, rodeada completamente por densos bosques.", pt: "Uma montanha de arenito isolada nas montanhas Pacaraima da Guiana, completamente cercada por florestas densas.", fr: "Une montagne de grès isolée dans les monts Pacaraima au Guyana, entièrement entourée de forêts denses."},
     facts: {
       de: ["2.041 Meter hoch.", "Gilt als der höchste Berg vollständig innerhalb Guyanas."],
@@ -3216,7 +3195,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-PT",
     coords: [-59.85, 5.08],
     name: { de: "Mount Wokomung", hu: "Wokomung-hegy", ro: "Muntele Wokomung", en: "Mount Wokomung"},
-    image: "/poi-images/guyana-mount-wokomung-nature-v2.webp",
     description: { de: "Ein beeindruckendes Tepui-Massiv im westlichen zentralen Teil Guyanas, das seltene Pflanzenarten beherbergt.", hu: "Lenyűgöző tepui masszívum Guyana nyugati-középső részén, amely ritka növényfajoknak ad otthont.", ro: "Un masiv tepui impresionant în partea central-vestică a Guyanei, care adăpostește specii de plante rare.", en: "An impressive tepui massif in the west-central part of Guyana that is home to rare plant species." , es: "Un impresionante macizo de tepuy en la parte centro-occidental de Guyana, que alberga especies de plantas raras.", pt: "Um impressionante maciço de tepui na parte centro-ocidental da Guiana, que abriga espécies de plantas raras.", fr: "Un impressionnant massif de tepuy dans la partie centre-ouest du Guyana, abritant des espèces végétales rares."},
     facts: {
       de: ["Über 1.600 Meter hoch.", "Teil des Guayana-Schildes."],
@@ -3251,7 +3229,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-UT",
     coords: [-58.68, 3.88],
     name: { de: "Rewa (Fluss)", hu: "Rewa-folyó", ro: "Râul Rewa", en: "Rewa River"},
-    image: "/poi-images/guyana-rewa-river-nature-v2.webp",
     description: { de: "Ein malerischer Fluss in unberührter Dschungelumgebung, der für die dortige Rewa Eco-Lodge bekannt ist.", hu: "Festői folyó érintetlen dzsungelkörnyezetben, amely az ottani Rewa Eco-Lodge-ról ismert.", ro: "Un râu pitoresc într-un mediu de junglă curată, cunoscut pentru Rewa Eco-Lodge de acolo.", en: "A picturesque river in a pristine jungle environment, known for the Rewa Eco-Lodge located there." , es: "Un río pintoresco en un entorno de selva virgen, conocido por el Rewa Eco-Lodge local.", pt: "Um rio pitoresco num ambiente de selva intocada, conhecido pelo Rewa Eco-Lodge local.", fr: "Une rivière pittoresque dans un environnement de jungle vierge, connue pour son Rewa Eco-Lodge."},
     facts: {
       de: ["Beliebt für Sportfischen.", "Ein Nebenfluss des Rupununi."],
@@ -4303,7 +4280,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-UT",
     coords: [-59.8, 3.38],
     name: { de: "Takutu (Fluss)", hu: "Takutu-folyó", ro: "Râul Takutu", en: "Takutu River"},
-    image: "/poi-images/guyana-takutu-river-nature-v2.webp",
     description: { de: "Ein Grenzfluss zwischen Guyana und Brasilien im Süden des Landes, der in den Rio Branco fließt.", hu: "Határfolyó Guyana és Brazília között az ország déli részén, amely a Rio Branco-ba folyik.", ro: "Un râu de graniță între Guyana și Brazilia în sudul țării, care se varsă în Rio Branco.", en: "A border river between Guyana and Brazil in the south of the country, flowing into the Rio Branco." , es: "Un río fronterizo entre Guyana y Brasil en el sur del país, que desemboca en el Río Branco.", pt: "Um rio fronteiriço entre a Guiana e o Brasil no sul do país, que desagua no Rio Branco.", fr: "Une rivière frontalière entre le Guyana et le Brésil dans le sud du pays, qui se jette dans le Rio Branco."},
     facts: {
       de: ["Von der Takutu-Brücke überquert.", "Verbindet Lethem und Bonfim."],
@@ -4419,7 +4395,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-PT",
     coords: [-59.82, 3.9],
     name: { de: "Ireng (Fluss)", hu: "Ireng-folyó", ro: "Râul Ireng", en: "Ireng River"},
-    image: "/poi-images/guyana-ireng-river-nature-v2.webp",
     description: { de: "Ein weiterer Fluss, der einen großen Teil der Grenze zwischen Guyana und Brasilien bildet.", hu: "Egy másik folyó, amely Guyana és Brazília határának nagy részét képezi.", ro: "Un alt râu care formează o mare parte a graniței dintre Guyana și Brazilia.", en: "Another river forming a large part of the border between Guyana and Brazil." , es: "Otro río que forma gran parte de la frontera entre Guyana y Brasil.", pt: "Outro rio que forma uma grande parte da fronteira entre a Guiana e o Brasil.", fr: "Une autre rivière qui forme une grande partie de la frontière entre le Guyana et le Brésil."},
     facts: {
       de: ["Fließt aus den Pakaraima-Bergen.", "Bekannt für seine Stromschnellen und Wasserfälle."],
@@ -4454,7 +4429,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-MA",
     coords: [-57.92, 6.7],
     name: { de: "Mahaica (Fluss)", hu: "Mahaica-folyó", ro: "Râul Mahaica", en: "Mahaica River"},
-    image: "/poi-images/guyana-mahaica-river-nature-v2.webp",
     description: { de: "Ein kleinerer, aber wirtschaftlich wichtiger Fluss in der Küstenebene Guyanas.", hu: "Egy kisebb, de gazdaságilag fontos folyó Guyana partvidéki síkságán.", ro: "Un râu mai mic, dar important din punct de vedere economic, pe câmpia de coastă a Guyanei.", en: "A smaller but economically important river on the coastal plain of Guyana." , es: "Un río más pequeño pero económicamente importante en la llanura costera de Guyana.", pt: "Um rio mais pequeno, mas economicamente importante, na planície costeira da Guiana.", fr: "Une rivière plus petite mais économiquement importante dans la plaine côtière du Guyana."},
     facts: {
       de: ["Bietet Lebensraum für Hoatzins (Canje-Fasan).", "Wichtig für die Bewässerung von Reisfeldern."],
@@ -4489,7 +4463,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-BA",
     coords: [-59.6, 8.1],
     name: { de: "Waini (Fluss)", hu: "Waini-folyó", ro: "Râul Waini", en: "Waini River"},
-    image: "/poi-images/guyana-waini-river-nature-v2.webp",
     description: { de: "Ein Fluss in der Region Barima-Waini, der in den Atlantischen Ozean mündet.", hu: "Folyó a Barima-Waini régióban, amely az Atlanti-óceánba torkollik.", ro: "Un râu din regiunea Barima-Waini care se varsă în Oceanul Atlantic.", en: "A river in the Barima-Waini region that flows into the Atlantic Ocean." , es: "Un río en la región de Barima-Waini que desemboca en el océano Atlántico.", pt: "Um rio na região de Barima-Waini que desagua no oceano Atlântico.", fr: "Un fleuve de la région de Barima-Waini qui se jette dans l'océan Atlantique."},
     facts: {
       de: ["Fließt durch ausgedehnte Mangrovenwälder.", "Mündet nahe Shell Beach in den Ozean."],
@@ -4524,7 +4497,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-CU",
     coords: [-60.6, 5.86],
     name: { de: "Kamarang (Fluss)", hu: "Kamarang-folyó", ro: "Râul Kamarang", en: "Kamarang River"},
-    image: "/poi-images/guyana-kamarang-river-nature-v2.webp",
     description: { de: "Ein hochgelegener Fluss in den Pakaraima-Bergen, der den berühmten Kamarang Great Falls bildet.", hu: "Magasan fekvő folyó a Pakaraima-hegységben, amely a híres Kamarang Great Falls vízesést alkotja.", ro: "Un râu situat la mare altitudine în Munții Pakaraima, care formează faimoasa cascadă Kamarang Great Falls.", en: "A high-altitude river in the Pakaraima Mountains that forms the famous Kamarang Great Falls." , es: "Un río de gran altitud en los montes Pakaraima que forma las famosas Kamarang Great Falls.", pt: "Um rio de altitude nas montanhas Pakaraima, que forma as famosas Kamarang Great Falls.", fr: "Une rivière d'altitude dans les monts Pakaraima, qui forme les célèbres chutes Kamarang Great Falls."},
     facts: {
       de: ["Nebenfluss des Mazaruni-Flusses.", "Fließt durch abgelegenes indigenes Gebiet."],
@@ -4559,7 +4531,6 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
     parent: "GY-BA",
     coords: [-60.05, 8.22],
     name: { de: "Amakura (Fluss)", hu: "Amakura-folyó", ro: "Râul Amakura", en: "Amakura River"},
-    image: "/poi-images/guyana-amakura-river-nature-v2.webp",
     description: { de: "Ein Fluss im extremen Nordwesten Guyanas, der einen Teil der Grenze zu Venezuela markiert.", hu: "Folyó Guyana legészaknyugatibb részén, amely a venezuelai határ egy részét jelöli.", ro: "Un râu în nord-vestul extrem al Guyanei care marchează o parte a graniței cu Venezuela.", en: "A river in the extreme northwest of Guyana that marks part of the border with Venezuela." , es: "Un río en el extremo noroeste de Guyana que marca parte de la frontera con Venezuela.", pt: "Um rio no extremo noroeste da Guiana, que marca parte da fronteira com a Venezuela.", fr: "Une rivière à l'extrême nord-ouest du Guyana, qui marque une partie de la frontière avec le Venezuela."},
     facts: {
       de: ["Fließt durch dicht bewaldetes Tiefland.", "Ein traditioneller Verkehrsweg für lokale Stämme."],

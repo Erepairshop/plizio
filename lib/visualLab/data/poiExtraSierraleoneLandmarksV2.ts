@@ -12,7 +12,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "Siaka Stevens Stadion",
       ro: "Stadionul Siaka Stevens",
       en: "Siaka Stevens Stadium"},
-    image: "/poi-images/siaka-stevens-stadium-landmarks-v2.webp",
     description: {
       de: "Das Siaka-Stevens-Stadion ist das Nationalstadion von Sierra Leone und der wichtigste Ort für sportliche Großveranstaltungen in Freetown.",
       hu: "A Siaka Stevens Stadion Sierra Leone nemzeti stadionja, és Freetown legfontosabb helyszíne a jelentős sporteseményeknek.",
@@ -76,7 +75,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "Sierra Leone-i Nemzeti Múzeum",
       ro: "Muzeul Național al Sierra Leone",
       en: "National Museum of Sierra Leone"},
-    image: "/poi-images/national-museum-sl-landmarks-v2.webp",
     description: {
       de: "Das Nationalmuseum im Zentrum von Freetown bewahrt das reiche kulturelle und historische Erbe des Landes.",
       hu: "A Freetown központjában található Nemzeti Múzeum őrzi az ország gazdag kulturális és történelmi örökségét.",
@@ -285,7 +283,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "Szent Szív-székesegyház",
       ro: "Catedrala Inima Sacră",
       en: "Sacred Heart Cathedral"},
-    image: "/poi-images/sacred-heart-cathedral-landmarks-v2.webp",
     description: {
       de: "Die Herz-Jesu-Kathedrale ist die Hauptkirche der römisch-katholischen Erzdiözese Freetown.",
       hu: "A Szent Szív-székesegyház a Freetowni Római Katolikus Érsekség főtemploma.",
@@ -394,7 +391,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "Freetowni Központi Mecset",
       ro: "Moscheea Centrală din Freetown",
       en: "Freetown Central Mosque"},
-    image: "/poi-images/freetown-central-mosque-landmarks-v2.webp",
     description: {
       de: "Die Zentralmoschee von Freetown ist eines der größten und bedeutendsten islamischen Gotteshäuser des Landes.",
       hu: "A freetowni központi mecset az ország egyik legnagyobb és legjelentősebb iszlám vallási épülete.",
@@ -503,7 +499,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "Guma-völgyi gát",
       ro: "Barajul Guma Valley",
       en: "Guma Valley Dam"},
-    image: "/poi-images/guma-valley-dam-landmarks-v2.webp",
     description: {
       de: "Der Guma-Valley-Staudamm ist die wichtigste Quelle für die Wasserversorgung der Stadt Freetown.",
       hu: "A Guma-völgyi gát Freetown város vízellátásának legfontosabb forrása.",
@@ -567,7 +562,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "II. Erzsébet királynő rakpart",
       ro: "Cheiul Regina Elisabeta a II-a",
       en: "Queen Elizabeth II Quay"},
-    image: "/poi-images/qe-ii-quay-landmarks-v2.webp",
     description: {
       de: "Der Queen-Elizabeth-II-Kai ist der wichtigste Seehafen von Sierra Leone und ein Motor der nationalen Wirtschaft.",
       hu: "A II. Erzsébet királynő rakpart Sierra Leone legfontosabb tengeri kikötője és a nemzeti gazdaság motorja.",
@@ -712,7 +706,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "Aberdeeni világítótorony",
       ro: "Farul Aberdeen",
       en: "Aberdeen Lighthouse"},
-    image: "/poi-images/aberdeen-lighthouse-landmarks-v2.webp",
     description: {
       de: "Der Aberdeen-Leuchtturm an der Spitze der Aberdeen-Halbinsel leitet Schiffe sicher in den Hafen von Freetown.",
       hu: "Az Aberdeen-félsziget csúcsán található világítótorony segíti a hajók biztonságos bejutását Freetown kikötőjébe.",
@@ -776,7 +769,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "Freetowni bíróság épülete",
       ro: "Clădirea Tribunalului din Freetown",
       en: "Law Courts Building"},
-    image: "/poi-images/law-courts-building-landmarks-v2.webp",
     description: {
       de: "Das Gebäude der Law Courts ist ein historisches Bauwerk in Freetown, das die Judikative des Landes beherbergt.",
       hu: "A bíróság épülete egy történelmi építmény Freetownban, amely az ország igazságszolgáltatásának ad otthont.",
@@ -840,7 +832,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "Freetowni városháza",
       ro: "Primăria din Freetown",
       en: "Freetown City Hall"},
-    image: "/poi-images/city-hall-freetown-landmarks-v2.webp",
     description: {
       de: "Das Rathaus von Freetown ist ein modernes Mehrzweckgebäude und der Verwaltungssitz der Hauptstadt.",
       hu: "A freetowni városháza egy modern, többcélú épület és a főváros közigazgatási székhelye.",
@@ -985,7 +976,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "King Jimmy híd",
       ro: "Podul King Jimmy",
       en: "King Jimmy Bridge"},
-    image: "/poi-images/king-jimmy-bridge-landmarks-v2.webp",
     description: {
       de: "Die King-Jimmy-Brücke ist ein historischer Übergang in der Nähe des berühmten King-Jimmy-Marktes.",
       hu: "A King Jimmy híd egy történelmi átkelő a híres King Jimmy piac közelében.",
@@ -1094,7 +1084,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "Sierra Leone-i Béke Múzeum",
       ro: "Muzeul Păcii din Sierra Leone",
       en: "Sierra Leone Peace Museum"},
-    image: "/poi-images/peace-museum-sl-landmarks-v2.webp",
     description: {
       de: "Das Friedensmuseum erinnert an den Bürgerkrieg und dokumentiert den Prozess der Versöhnung im Land.",
       hu: "A Béke Múzeum a polgárháborúra emlékeztet, és dokumentálja az ország békülési folyamatát.",
@@ -1158,7 +1147,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "Lungi nemzetközi repülőtér",
       ro: "Aeroportul Internațional Lungi",
       en: "Lungi International Airport"},
-    image: "/poi-images/lungi-airport-landmarks-v2.webp",
     description: {
       de: "Lungi ist der einzige internationale Flughafen von Sierra Leone und das wichtigste Tor zum Rest der Welt.",
       hu: "A Lungi Sierra Leone egyetlen nemzetközi repülőtere, és a legfontosabb kapu a világ felé.",
@@ -1339,7 +1327,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "Youyi épület",
       ro: "Clădirea Youyi",
       en: "Youyi Building"},
-    image: "/poi-images/youyi-building-landmarks-v2.webp",
     description: {
       de: "Das Youyi-Gebäude ist ein großer Bürokomplex in Freetown, der zahlreiche Ministerien und Regierungsbehörden beherbergt.",
       hu: "A Youyi épület egy nagy irodakomplexum Freetownban, amely számos minisztériumnak és kormányzati szervnek ad otthont.",
@@ -1403,7 +1390,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "Sam Bangura torony",
       ro: "Turnul Sam Bangura",
       en: "Sam Bangura Tower"},
-    image: "/poi-images/sam-bangura-tower-landmarks-v2.webp",
     description: {
       de: "Der Sam-Bangura-Turm beherbergt die Bank von Sierra Leone und ist eines der höchsten Gebäude in Freetown.",
       hu: "A Sam Bangura torony a Sierra Leone-i Bank székhelye, és Freetown egyik legmagasabb épülete.",
@@ -1576,7 +1562,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "Bo Stadion",
       ro: "Stadionul Bo",
       en: "Bo Stadium"},
-    image: "/poi-images/bo-stadium-landmarks-v2.webp",
     description: {
       de: "Das Bo-Stadion ist eine wichtige Sportstätte im Süden von Sierra Leone und ein Zentrum für Fußball und Leichtathletik.",
       hu: "A Bo Stadion jelentős sportlétesítmény Sierra Leone déli részén, a labdarúgás és az atlétika központja.",
@@ -1685,7 +1670,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "Makenii óratorony",
       ro: "Turnul cu ceas din Makeni",
       en: "Makeni Clock Tower"},
-    image: "/poi-images/makeni-clock-tower-landmarks-v2.webp",
     description: {
       de: "Der Uhrturm von Makeni ist ein zentrales Wahrzeichen und ein wichtiger Orientierungspunkt in der größten Stadt des Nordens.",
       hu: "A makenii óratorony központi jelkép és fontos tájékozódási pont az északi tartomány legnagyobb városában.",
@@ -1754,7 +1738,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "Szeplőtelen Fogantatás székesegyház",
       ro: "Catedrala Imaculata Concepție",
       en: "Our Lady of the Immaculate Conception Cathedral"},
-    image: "/poi-images/immaculate-conception-cathedral-bo-landmarks-v2.webp",
     description: {
       de: "Die Kathedrale in Bo ist der Sitz des katholischen Bischofs von Bo und ein bedeutendes religiöses Zentrum im Süden.",
       hu: "A boi székesegyház a Boi Katolikus Püspökség székhelye és jelentős vallási központ délen.",
@@ -1863,7 +1846,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "Wesley Metodista Templom",
       ro: "Biserica Metodistă Wesley",
       en: "Wesley Methodist Church"},
-    image: "/poi-images/wesley-methodist-church-makeni-landmarks-v2.webp",
     description: {
       de: "Die Wesley-Methodistenkirche in Makeni ist ein wichtiges religiöses und historisches Gebäude der methodistischen Gemeinschaft.",
       hu: "A makenii Wesley Metodista Templom a metodista közösség fontos vallási és történelmi épülete.",
@@ -1927,7 +1909,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "Wallace Johnson emlékmű",
       ro: "Monumentul Wallace Johnson",
       en: "Wallace Johnson Memorial"},
-    image: "/poi-images/wallace-johnson-memorial-landmarks-v2.webp",
     description: {
       de: "Das Denkmal ehrt I.T.A. Wallace-Johnson, einen bedeutenden panafrikanischen Aktivisten und Journalisten.",
       hu: "Az emlékmű I.T.A. Wallace-Johnsonnak, a jelentős pánafrikai aktivistának és újságírónak állít emléket.",
@@ -1991,7 +1972,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "Sengbe Pieh emlékmű",
       ro: "Monumentul Sengbe Pieh",
       en: "Sengbe Pieh Memorial"},
-    image: "/poi-images/sengbe-pieh-memorial-landmarks-v2.webp",
     description: {
       de: "Dieses Denkmal ist Sengbe Pieh gewidmet, der die Revolte auf dem Sklavenschiff Amistad anführte.",
       hu: "Ez az emlékmű Sengbe Piehnek van szentelve, aki az Amistad rabszolgahajón kitört lázadást vezette.",
@@ -2055,7 +2035,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       hu: "Sierra Leone-i Vasúti Múzeum",
       ro: "Muzeul Căilor Ferate din Sierra Leone",
       en: "Sierra Leone Railway Museum"},
-    image: "/poi-images/railway-museum-sl-landmarks-v2.webp",
     description: {
       de: "Das Eisenbahnmuseum in Cline Town bewahrt die Geschichte der ehemaligen Schmalspurbahn des Landes.",
       hu: "A Cline Townban található Vasúti Múzeum az ország egykori keskeny nyomtávú vasútjának történetét őrzi.",

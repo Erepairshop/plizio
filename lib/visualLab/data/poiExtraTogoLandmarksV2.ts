@@ -12,7 +12,6 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: "Új elnöki palota",
       ro: "Noul Palat Prezidențial",
       en: "New Presidential Palace"},
-    image: "/poi-images/palais-presidence-lome-landmarks-v2.webp",
     description: {
       de: "Dieses moderne architektonische Meisterwerk in Lomé dient als offizieller Amtssitz des Präsidenten von Togo und beeindruckt durch seine monumentale Fassade.",
       hu: "Ez a modern építészeti remekmű Loméban Togo elnökének hivatalos rezidenciájaként szolgál, és monumentális homlokzatával nyűgöz le.",
@@ -357,7 +356,6 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: "Stade de Kégué",
       ro: "Stade de Kégué",
       en: "Stade de Kégué"},
-    image: "/poi-images/stade-kegue-lome-landmarks-v2.webp",
     description: {
       de: "Das größte Stadion Togos in Lomé ist der Schauplatz für nationale Fußballspiele und bedeutende Leichtathletik-Wettbewerbe.",
       hu: "Togo legnagyobb stadionja Loméban, amely nemzeti futballmérkőzések és jelentős atlétikai versenyek helyszíne.",
@@ -558,7 +556,6 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: "Hôtel du 2 Février",
       ro: "Hôtel du 2 Février",
       en: "Hôtel du 2 Février"},
-    image: "/poi-images/hotel-2-fevrier-lome-landmarks-v2.webp",
     description: {
       de: "Dieses markante Hochhaus ist das höchste Gebäude Togos und ein Symbol für die moderne Skyline der Hauptstadt Lomé.",
       hu: "Ez a jellegzetes felhőkarcoló Togo legmagasabb épülete, és a főváros, Lomé modern sziluettjének szimbóluma.",
@@ -723,7 +720,6 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: "Loméi kikötő",
       ro: "Portul din Lomé",
       en: "Port of Lomé"},
-    image: "/poi-images/port-autonome-lome-landmarks-v2.webp",
     description: {
       de: "Der einzige Tiefseehafen in Westafrika, der das ganze Jahr über schiffbar ist, ist ein gigantischer Landmark der industriellen Entwicklung Togos.",
       hu: "Nyugat-Afrika egyetlen egész évben hajózható mélytengeri kikötője, amely Togo ipari fejlődésének óriási mérföldköve.",
@@ -816,7 +812,6 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: "Szent Lélek-székesegyház",
       ro: "Catedrala Sfântul Duh",
       en: "Saint-Esprit Cathedral"},
-    image: "/poi-images/cathedrale-saint-esprit-kpalime-landmarks-v2.webp",
     description: {
       de: "Die imposante Kathedrale von Kpalimé ist ein architektonisches Juwel, das das Stadtbild am Fuße des Mount Agou prägt.",
       hu: "Kpalimé impozáns székesegyháza építészeti gyöngyszem, amely meghatározza az Agou-hegy lábánál fekvő városképet.",
@@ -945,7 +940,6 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: "Sokodéi nagymecset",
       ro: "Marea Moschee din Sokodé",
       en: "Grand Mosque of Sokodé"},
-    image: "/poi-images/grande-mosquee-sokode-landmarks-v2.webp",
     description: {
       de: "Dieses prächtige religiöse Bauwerk ist das spirituelle Herz von Sokodé und ein Zeugnis der tief verwurzelten islamischen Kultur in Zentraltogo.",
       hu: "Ez a pompás vallási épület Sokodé szellemi szíve, és a közép-togói mélyen gyökerező iszlám kultúra tanúja.",
@@ -1263,7 +1257,6 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: "BCEAO-székház",
       ro: "Sediul BCEAO",
       en: "BCEAO Building"},
-    image: "/poi-images/siege-bceao-lome-landmarks-v2.webp",
     description: {
       de: "Der Hauptsitz der Zentralbank der westafrikanischen Staaten in Lomé ist ein imposantes Gebäude, das die finanzielle Stabilität der Region verkörpert.",
       hu: "A Nyugat-afrikai Államok Központi Bankjának loméi székháza impozáns épület, amely a régió pénzügyi stabilitását testesíti meg.",
@@ -1356,7 +1349,6 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: "Szent Teréz-székesegyház",
       ro: "Catedrala Sfânta Tereza",
       en: "Saint Therese Cathedral"},
-    image: "/poi-images/cathedrale-sainte-therese-aneho-landmarks-v2.webp",
     description: {
       de: "Die prächtige Kathedrale von Aného ist ein Wahrzeichen der ehemaligen Hauptstadt und ein bedeutendes Zentrum des katholischen Glaubens an der Küste.",
       hu: "Aného pompás székesegyháza az egykori főváros jelképe és a tengerparti katolikus hitélet jelentős központja.",
@@ -1404,7 +1396,6 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: "Karai nagymecset",
       ro: "Marea Moschee din Kara",
       en: "Grand Mosque of Kara"},
-    image: "/poi-images/grande-mosquee-kara-landmarks-v2.webp",
     description: {
       de: "Ein markantes religiöses Zentrum in der Stadt Kara, das mit seiner traditionellen Architektur und den Minaretten das Stadtbild im Norden prägt.",
       hu: "Karai jellegzetes vallási központ, amely hagyományos építészetével és minaretjeivel meghatározza az északi városképet.",
@@ -1545,7 +1536,6 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: "Gnassingbé Eyadéma repülőtéri terminál",
       ro: "Terminalul Aeroportului Gnassingbé Eyadéma",
       en: "Gnassingbé Eyadéma Airport Terminal"},
-    image: "/poi-images/aeroport-terminal-lome-landmarks-v2.webp",
     description: {
       de: "Das moderne Terminal des internationalen Flughafens von Lomé ist ein beeindruckendes Beispiel für die moderne Infrastruktur Togos.",
       hu: "A loméi nemzetközi repülőtér modern terminálja Togo modern infrastruktúrájának lenyűgöző példája.",
@@ -1593,7 +1583,6 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: "Nemzeti Egység Emlékműve",
       ro: "Monumentul Unității Naționale",
       en: "National Unity Monument"},
-    image: "/poi-images/monument-unite-nationale-lome-landmarks-v2.webp",
     description: {
       de: "Dieses Denkmal in Lomé symbolisiert den Zusammenhalt der verschiedenen Volksgruppen Togos und den gemeinsamen Aufbau der Nation.",
       hu: "Ez a loméi emlékmű Togo különböző népcsoportjainak összetartozását és a nemzet közös építését jelképezi.",
@@ -1686,7 +1675,6 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: "Théâtre de la Verdure",
       ro: "Théâtre de la Verdure",
       en: "Théâtre de la Verdure"},
-    image: "/poi-images/theatre-verdure-lome-landmarks-v2.webp",
     description: {
       de: "Ein markantes Freilufttheater in Lomé, das als Zentrum für kulturelle Darbietungen, Musik und Theateraufführungen dient.",
       hu: "Jellegzetes loméi szabadtéri színház, amely kulturális előadások, zenei és színházi produkciók központja.",
@@ -1911,7 +1899,6 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: "Karai stadion",
       ro: "Stadionul din Kara",
       en: "Kara Stadium"},
-    image: "/poi-images/stade-municipal-kara-landmarks-v2.webp",
     description: {
       de: "Ein zentrales Sportstadion im Norden Togos, das als Austragungsort für Fußballspiele und regionale Sportveranstaltungen dient.",
       hu: "Központi sportstadion Észak-Togóban, amely futballmérkőzések és regionális sportesemények helyszíne.",
@@ -2169,7 +2156,6 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: "Karai vásárcsarnok",
       ro: "Piața Centrală din Kara",
       en: "Kara Central Market Building"},
-    image: "/poi-images/marche-central-kara-landmarks-v2.webp",
     description: {
       de: "Das markante Gebäude des Zentralkomplexes des Marktes von Kara ist das wirtschaftliche Herzstück der Stadt und ein wichtiger Landmark.",
       hu: "Kara központi piacának jellegzetes épületegyüttese a város gazdasági szíve és fontos tájékozódási pont.",
@@ -2730,7 +2716,6 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: "Loméi Egyetemi Könyvtár",
       ro: "Biblioteca Universității din Lomé",
       en: "University of Lomé Library"},
-    image: "/poi-images/bibliotheque-universitaire-lome-landmarks-v2.webp",
     description: {
       de: "Die moderne Bibliothek der Universität von Lomé ist ein akademisches Landmark und das Wissenszentrum für Studenten des Landes.",
       hu: "A Loméi Egyetem modern könyvtára tudományos mérföldkő és az ország hallgatóinak tudásközpontja.",
@@ -2895,7 +2880,6 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: "Kara-híd",
       ro: "Podul peste râul Kara",
       en: "Kara Bridge"},
-    image: "/poi-images/pont-kara-landmarks-v2.webp",
     description: {
       de: "Diese wichtige Brücke überquert den Fluss Kara und ist ein entscheidendes Landmark der Verkehrsinfrastruktur im Norden Togos.",
       hu: "Ez a fontos híd ível át a Kara-folyó felett, és Észak-Togo közlekedési infrastruktúrájának meghatározó eleme.",
@@ -2988,7 +2972,6 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: "Galamb-emlékmű",
       ro: "Monumentul Porumbelului",
       en: "Dove Monument"},
-    image: "/poi-images/monument-colombe-lome-landmarks-v2.webp",
     description: {
       de: "Das Monument de la Colombe ist ein friedvolles Wahrzeichen in Lomé, das die Hoffnung auf nationale Eintracht und Stabilität darstellt.",
       hu: "A Monument de la Colombe (Galamb-emlékmű) a béke jelképe Loméban, amely a nemzeti egység és stabilitás reményét fejezi ki.",

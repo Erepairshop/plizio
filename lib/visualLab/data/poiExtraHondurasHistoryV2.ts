@@ -12,7 +12,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "San Fernando de Omoa erőd",
       ro: "Cetatea San Fernando de Omoa",
       en: "San Fernando de Omoa Fortress"},
-    image: "/poi-images/fuerte-san-fernando-omoa-history-v2.webp",
     description: {
       de: "Eine der wichtigsten spanischen Kolonialfestungen in Mittelamerika, erbaut im 18. Jahrhundert zum Schutz vor Piraten.",
       hu: "Közép-Amerika egyik legfontosabb spanyol gyarmati erődje, amely a 18. században épült a kalózok elleni védekezésül.",
@@ -60,7 +59,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "Cerro Palenque régészeti lelőhely",
       ro: "Situl arheologic Cerro Palenque",
       en: "Cerro Palenque Archaeological Site"},
-    image: "/poi-images/cerro-palenque-archaeology-history-v2.webp",
     description: {
       de: "Eine große präkolumbianische Siedlung am Zusammenfluss der Flüsse Ulúa und Comayagua, die bis zur späten Klassik bewohnt war.",
       hu: "Nagy prekolumbián település az Ulúa és Comayagua folyók találkozásánál, amely a késő klasszikus korig lakott volt.",
@@ -108,7 +106,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "Óriás-barlang",
       ro: "Peștera Gigantului",
       en: "Cueva del Gigante"},
-    image: "/poi-images/cueva-del-gigante-marcala-history-v2.webp",
     description: {
       de: "Eine der ältesten archäologischen Stätten in Mittelamerika mit Siedlungsspuren, die über 10.000 Jahre zurückreichen.",
       hu: "Közép-Amerika egyik legrégebbi régészeti lelőhelye, több mint 10 000 évre visszanyúló településnyomokkal.",
@@ -156,7 +153,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "Szent Márk-templom (Gracias)",
       ro: "Biserica San Marcos (Gracias)",
       en: "San Marcos Church (Gracias)"},
-    image: "/poi-images/kirche-san-marcos-gracias-history-v2.webp",
     description: {
       de: "Eine historische Kirche aus dem 18. Jahrhundert im Zentrum von Gracias, bekannt für ihre koloniale Architektur.",
       hu: "18. századi történelmi templom Gracias központjában, amely gyarmati építészetéről ismert.",
@@ -252,7 +248,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "Istenes Szent János-templom",
       ro: "Biserica San Juan de Dios",
       en: "San Juan de Dios Church"},
-    image: "/poi-images/kirche-san-juan-de-dios-history-v2.webp",
     description: {
       de: "Eine koloniale Kirche in Comayagua, die im 16. Jahrhundert als Teil eines Krankenhauses für die Armen gegründet wurde.",
       hu: "Gyarmati templom Comayaguában, amelyet a 16. században alapítottak egy szegényházi kórház részeként.",
@@ -300,7 +295,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "Szent Ferenc-kolostor (Comayagua)",
       ro: "Mănăstirea San Francisco (Comayagua)",
       en: "San Francisco Convent (Comayagua)"},
-    image: "/poi-images/kloster-san-francisco-comayagua-history-v2.webp",
     description: {
       de: "Ein bedeutender religiöser Komplex aus dem 16. Jahrhundert, der eine zentrale Rolle in der Geschichte der Stadt spielte.",
       hu: "Jelentős 16. századi vallási komplexum, amely központi szerepet játszott a város történelmében.",
@@ -348,7 +342,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "Régi Pénzverde (Tegucigalpa)",
       ro: "Vechea Monetărie (Tegucigalpa)",
       en: "Old Mint (Tegucigalpa)"},
-    image: "/poi-images/casa-de-la-moneda-tegucigalpa-history-v2.webp",
     description: {
       de: "Ein historisches Gebäude in der Hauptstadt, in dem während der Kolonialzeit und des frühen 19. Jahrhunderts Münzen geprägt wurden.",
       hu: "Történelmi épület a fővárosban, ahol a gyarmati korszakban és a 19. század elején érméket vertek.",
@@ -396,7 +389,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "Szent Ferenc-templom (Tegucigalpa)",
       ro: "Biserica San Francisco (Tegucigalpa)",
       en: "San Francisco Church (Tegucigalpa)"},
-    image: "/poi-images/kirche-san-francisco-tegucigalpa-history-v2.webp",
     description: {
       de: "Die älteste Kirche in Tegucigalpa, ursprünglich im 16. Jahrhundert von franziskanischen Mönchen erbaut.",
       hu: "Tegucigalpa legrégebbi temploma, amelyet eredetileg a 16. században építettek ferences szerzetesek.",
@@ -444,7 +436,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "Minisztériumok Palotája",
       ro: "Palatul Ministerelor",
       en: "Palace of the Ministries"},
-    image: "/poi-images/palast-der-ministerien-tegucigalpa-history-v2.webp",
     description: {
       de: "Ein elegantes neoklassizistisches Gebäude im historischen Zentrum von Tegucigalpa, das einst Regierungsbüros beherbergte.",
       hu: "Elegáns neoklasszicista épület Tegucigalpa történelmi központjában, amely egykor kormányzati irodáknak adott otthont.",
@@ -540,7 +531,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "Carías híd",
       ro: "Podul Carías",
       en: "Carías Bridge"},
-    image: "/poi-images/carias-bruecke-tegucigalpa-history-v2.webp",
     description: {
       de: "Eine markante Steinbrücke über den Fluss Choluteca, erbaut während der Präsidentschaft von Tiburcio Carías Andino.",
       hu: "Jellegzetes kőhíd a Choluteca folyó felett, amely Tiburcio Carías Andino elnöksége alatt épült.",
@@ -588,7 +578,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "Szeplőtelen Fogantatás templom (Danlí)",
       ro: "Biserica Imaculatei Concepții (Danlí)",
       en: "Church of the Immaculate Conception (Danlí)"},
-    image: "/poi-images/kirche-unbefleckte-empfaengnis-danli-history-v2.webp",
     description: {
       de: "Eine wunderschöne Kolonialkirche in Danlí, die für ihre weiße Fassade und ihre religiöse Bedeutung bekannt ist.",
       hu: "Gyönyörű gyarmati templom Danlíban, amely fehér homlokzatáról és vallási jelentőségéről ismert.",
@@ -684,7 +673,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "Gualjoquito régészeti lelőhely",
       ro: "Situl arheologic Gualjoquito",
       en: "Gualjoquito Archaeological Site"},
-    image: "/poi-images/gualjoquito-archaeology-history-v2.webp",
     description: {
       de: "Eine bedeutende archäologische Fundstätte im Ulúa-Tal mit Überresten aus der Formativ- und Klassikzeit.",
       hu: "Jelentős régészeti lelőhely az Ulúa-völgyben, a formatív és a klasszikus korból származó maradványokkal.",
@@ -732,7 +720,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "Travesía régészeti lelőhely",
       ro: "Situl arheologic Travesía",
       en: "Travesía Archaeological Site"},
-    image: "/poi-images/travesia-archaeology-history-v2.webp",
     description: {
       de: "Ein zeremonielles Zentrum der Ulúa-Kultur, das für seine monumentale Architektur und reiche Funde bekannt ist.",
       hu: "Az Ulúa-kultúra ceremoniális központja, amely monumentális építészetéről és gazdag leleteiről ismert.",
@@ -780,7 +767,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "Szent Jeromos-templom",
       ro: "Biserica San Jeronimo",
       en: "San Jeronimo Church"},
-    image: "/poi-images/kirche-san-jeronimo-comayagua-history-v2.webp",
     description: {
       de: "Eine historische Kirche in der Nähe von Comayagua, die den ländlichen kolonialen Stil der Region repräsentiert.",
       hu: "Történelmi templom Comayagua közelében, amely a régió vidéki gyarmati stílusát képviseli.",
@@ -828,7 +814,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "Santa Bárbara-i történelmi híd",
       ro: "Podul istoric din Santa Barbara",
       en: "Historical Bridge of Santa Barbara"},
-    image: "/poi-images/historische-bruecke-santa-barbara-history-v2.webp",
     description: {
       de: "Eine alte Steinbrücke in Santa Bárbara, die als Zeugnis der Infrastruktur aus vergangenen Jahrhunderten dient.",
       hu: "Régi kőhíd Santa Bárbarában, amely az elmúlt évszázadok infrastruktúrájának tanúja.",
@@ -876,7 +861,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "Masca-barlangok",
       ro: "Peșterile din Masca",
       en: "Caves of Masca"},
-    image: "/poi-images/hoehlen-von-masca-history-v2.webp",
     description: {
       de: "Küstenhöhlen in der Nähe von Omoa, die vermutlich von indigenen Völkern und später von Piraten genutzt wurden.",
       hu: "Omoa közeli tengerparti barlangok, amelyeket vélhetően őslakos népek, később pedig kalózok használtak.",
@@ -924,7 +908,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "El Rincón del Buey romjai",
       ro: "Ruinele din El Rincón del Buey",
       en: "Ruins of El Rincón del Buey"},
-    image: "/poi-images/ruinen-rincon-del-buey-history-v2.webp",
     description: {
       de: "Wenig erforschte archäologische Überreste im Süden von Honduras, die auf eine bedeutende Siedlung hinweisen.",
       hu: "Kevéssé kutatott régészeti maradványok Honduras déli részén, amelyek jelentős településre utalnak.",
@@ -972,7 +955,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "Szent Anna-templom (Yuscarán)",
       ro: "Biserica Santa Ana din Yuscarán",
       en: "Santa Ana Church of Yuscarán"},
-    image: "/poi-images/kirche-santa-ana-yuscaran-history-v2.webp",
     description: {
       de: "Eine koloniale Kirche in der malerischen Bergbaustadt Yuscarán, bekannt für ihre religiösen Feste.",
       hu: "Gyarmati templom a festői bányászvárosban, Yuscaránban, amely vallási ünnepeiről ismert.",
@@ -1068,7 +1050,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "Casa Fortín",
       ro: "Casa Fortín",
       en: "Casa Fortín"},
-    image: "/poi-images/casa-fortin-yuscaran-history-v2.webp",
     description: {
       de: "Ein historisches Wohnhaus in Yuscarán, das heute ein Museum beherbergt und das Leben im 19. Jahrhundert zeigt.",
       hu: "Történelmi lakóház Yuscaránban, amely ma múzeumnak ad otthont, és a 19. századi életet mutatja be.",
@@ -1212,7 +1193,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "Talangüitai petroglifák",
       ro: "Petroglifele din Talangüita",
       en: "Petroglyphs of Talangüita"},
-    image: "/poi-images/petroglyphen-talanguita-history-v2.webp",
     description: {
       de: "Eindrucksvolle Felsritzungen in Olancho, die von den frühen Bewohnern der Region hinterlassen wurden.",
       hu: "Lenyűgöző sziklavésetek Olanchóban, amelyeket a régió korai lakói hagytak hátra.",
@@ -1308,7 +1288,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "Egykori Központi Börtön",
       ro: "Fosta Închisoare Centrală",
       en: "Former Central Penitentiary"},
-    image: "/poi-images/ehemaliges-zentralgefaengnis-history-v2.webp",
     description: {
       de: "Die Überreste des alten Hauptgefängnisses von Honduras, das heute als Zeugnis der Justizgeschichte dient.",
       hu: "Honduras egykori főbörtönének maradványai, amely ma az igazságszolgáltatás történetének tanújaként szolgál.",
@@ -1356,7 +1335,6 @@ export const poiExtraHondurasHistoryV2: POI[] = [
       hu: "Ojojonai templom",
       ro: "Biserica din Ojojona",
       en: "Church of Ojojona"},
-    image: "/poi-images/kirche-san-juan-ojojona-history-v2.webp",
     description: {
       de: "Eine charmante Kolonialkirche in dem für sein Kunsthandwerk bekannten Dorf Ojojona.",
       hu: "Bájos gyarmati templom a kézművességéről ismert Ojojona faluban.",

@@ -31,7 +31,6 @@ export const poiExtraGabonEconomicV2: POI[] = [
       pt: ["O terminal iniciou oficialmente as suas operações no ano de 1967.", "É operado maioritariamente pela empresa Shell Gabon.", "A instalação é o ponto final do oleoduto proveniente do campo Rabi-Kounga.", "As capacidades de armazenamento comportam vários milhões de barris de petróleo bruto.", "O carregamento é feito através de boias SBM (Single Buoy Mooring) no mar.", "O terminal situa-se na orla do ecologicamente sensível Parque Loango."],
       fr: ["Le terminal a officiellement débuté son exploitation en 1967.", "Il est principalement exploité par la société Shell Gabon.", "L'installation est le point d'arrivée du pipeline venant du champ Rabi-Kounga.", "Les capacités de stockage peuvent accueillir plusieurs millions de barils de brut.", "Le chargement s'effectue via des bouées SBM (Single Buoy Mooring) en mer.", "Le terminal est situé en bordure du parc de Loango, zone écologiquement sensible."],
     }, },
-    image: "/poi-images/gamba-oil-terminal-economic-v2.webp",
     description: {
       de: "Ein wichtiger Knotenpunkt für den Export von Rohöl im Süden Gabuns.",
       hu: "Fontos nyersolaj-exportőr csomópont Gabon déli részén.",
@@ -107,7 +106,6 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: "Nkok különleges gazdasági övezet",
       ro: "Zona Economică Specială Nkok",
       en: "Nkok Special Economic Zone"},
-    image: "/poi-images/nkok-sez-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Industriegebiet nahe Libreville, spezialisiert auf Holzverarbeitung.",
       hu: "Libreville közelében fekvő jelentős ipari terület, amely fafeldolgozásra szakosodott.",
@@ -154,7 +152,6 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: "Rabi-Kounga olajmező",
       ro: "Câmpul petrolier Rabi-Kounga",
       en: "Rabi-Kounga Oil Field"},
-    image: "/poi-images/rabi-kounga-oilfield-economic-v2.webp",
     description: {
       de: "Eines der größten Onshore-Ölfelder in Gabun, gelegen im dichten Regenwald.",
       hu: "Gabon egyik legnagyobb szárazföldi olajmezője a sűrű esőerdőben.",
@@ -266,7 +263,6 @@ export const poiExtraGabonEconomicV2: POI[] = [
       pt: ["Capacidade de armazenamento de cerca de 600.000 m³ de petróleo bruto", "Ponto mais ocidental do continente gabonês", "Transferência de operação para a Perenco no ano de 2021", "Ligação a mais de 20 campos petrolíferos onshore e offshore", "O porto pode receber petroleiros de até 300.000 DWT", "As primeiras exportações de petróleo começaram por volta de 1957"],
       fr: ["Capacité de stockage d'environ 600 000 m³ de pétrole brut", "Point le plus à l'ouest du Gabon continental", "Reprise de l'exploitation par Perenco en 2021", "Raccordé à plus de 20 champs pétroliers onshore et offshore", "Le port peut accueillir des pétroliers allant jusqu'à 300 000 DWT", "Les premières exportations de pétrole ont débuté vers 1957"],
     }, },
-    image: "/poi-images/cap-lopez-terminal-economic-v2.webp",
     description: {
       de: "Ein wichtiges Exportterminal für Erdöl an der Spitze der Halbinsel Mandji.",
       hu: "Fontos kőolaj-exportterminál a Mandji-félsziget csúcsán.",
@@ -340,7 +336,6 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: "SOGARA olajfinomító",
       ro: "Rafinăria SOGARA",
       en: "SOGARA Oil Refinery"},
-    image: "/poi-images/sogara-refinery-economic-v2.webp",
     description: {
       de: "Die einzige Erdölraffinerie Gabuns, die den lokalen Markt mit Treibstoffen versorgt.",
       hu: "Gabon egyetlen olajfinomítója, amely üzemanyaggal látja el a helyi piacot.",
@@ -407,7 +402,6 @@ export const poiExtraGabonEconomicV2: POI[] = [
       pt: ["Reservas estimadas em mais de 1 mil milhão de toneladas", "O teor de ferro do minério é superior a 60%", "Descoberta da jazida no ano de 1955", "Parceria com o Fortescue Metals Group (Austrália)", "Localiza-se na província do nordeste de Ogooué-Ivindo", "Necessidade de uma extensão ferroviária de cerca de 400 km"],
       fr: ["Réserves estimées à plus d'un milliard de tonnes", "La teneur en fer du minerai dépasse 60 %", "Découverte du gisement en 1955", "Partenariat avec Fortescue Metals Group (Australie)", "Situé dans la province du nord-est de l'Ogooué-Ivindo", "Nécessité d'une extension ferroviaire d'environ 400 km"],
     }, },
-    image: "/poi-images/belinga-mine-economic-v2.webp",
     description: {
       de: "Eines der weltweit größten unerschlossenen Eisenerzvorkommen im Nordosten Gabuns.",
       hu: "A világ egyik legnagyobb feltáratlan vasérckészlete Gabon északkeleti részén.",
@@ -455,7 +449,6 @@ export const poiExtraGabonEconomicV2: POI[] = [
       pt: ["Principal jazida de nióbio e fosfatos", "Exploração pela Maboumine, subsidiária da Eramet", "Localizado a cerca de 40 km a leste de Lambaréné", "O nióbio é essencial para a indústria de aços especiais", "A jazida contém também tântalo e terras raras", "Várias décadas de vida útil estimada para a mina"],
       fr: ["Principal gisement de niobium et de phosphates", "Exploitation par Maboumine, filiale d'Eramet", "Situé à environ 40 km à l'est de Lambaréné", "Le niobium est essentiel pour l'industrie des aciers spéciaux", "Le gisement contient également du tantale et des terres rares", "Plusieurs décennies de durée de vie estimée pour la mine"],
     }, },
-    image: "/poi-images/mabounie-mine-economic-v2.webp",
     description: {
       de: "Ein Bergbauprojekt zur Gewinnung von Niob und Seltenen Erden nahe Lambaréné.",
       hu: "Bányászati projekt niobiom és ritkaföldfémek kitermelésére Lambaréné közelében.",
@@ -484,7 +477,6 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: "Tchimbele vízerőmű",
       ro: "Centrala hidroelectrică Tchimbele",
       en: "Tchimbele Hydroelectric Power Station"},
-    image: "/poi-images/tchimbele-power-station-economic-v2.webp",
     description: {
       de: "Ein wichtiges Wasserkraftwerk in den Kristallbergen, das Libreville mit Strom versorgt.",
       hu: "Fontos vízerőmű a Kristály-hegységben, amely Libreville-t látja el árammal.",
@@ -551,7 +543,6 @@ export const poiExtraGabonEconomicV2: POI[] = [
       pt: ["Primeira grande central hidroelétrica do Gabão, construída em 1973", "Localizada nas Montanhas de Cristal (Monts de Cristal)", "Utilização da energia hídrica do rio Mbei", "A potência instalada é de cerca de 58 megawatts (MW)", "Parte do projeto de expansão 'Kinguélé Aval'", "Importante para a descarbonização da rede elétrica gabonesa"],
       fr: ["Première grande centrale hydroélectrique du Gabon, construite en 1973", "Située dans les Monts de Cristal", "Utilisation de l'énergie hydraulique de la rivière Mbei", "La puissance installée est d'environ 58 mégawatts (MW)", "Fait partie du projet d'extension « Kinguélé Aval »", "Important pour la décarbonisation du réseau électrique gabonais"],
     }, },
-    image: "/poi-images/kinguele-power-station-economic-v2.webp",
     description: {
       de: "Ein weiteres bedeutendes Kraftwerk im System der Kristallberge zur Energieerzeugung.",
       hu: "A Kristály-hegység rendszerének egy másik jelentős erőműve az energiatermeléshez.",
@@ -680,7 +671,6 @@ export const poiExtraGabonEconomicV2: POI[] = [
       pt: ["Localizado na província de Nyanga, no sul do Gabão", "Porto de águas profundas planeado para a exportação de minério e madeira", "Proximidade estratégica à fronteira com a República do Congo", "Projeto associado para a exploração de minas de barita", "Importância para a descentralização económica regional", "Proximidade da área de proteção mais importante para as tartarugas-de-couro"],
       fr: ["Situé dans la province de la Nyanga au sud du Gabon", "Port en eaux profondes prévu pour l'exportation de minerai et de bois", "Proximité stratégique de la frontière avec la République du Congo", "Projet rattaché pour l'exploitation de mines de barytine", "Importance pour la décentralisation économique régionale", "Proximité de la zone de protection la plus importante pour les tortues luth"],
     }, },
-    image: "/poi-images/mayumba-port-economic-v2.webp",
     description: {
       de: "Ein strategischer Hafen im Süden, der für den Export von Holz und Mineralien ausgebaut wird.",
       hu: "Stratégiai kikötő délen, amelyet fa és ásványi anyagok exportjára fejlesztenek.",
@@ -709,7 +699,6 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: "Libreville-i Port Mole",
       ro: "Port Mole Libreville",
       en: "Port Mole Libreville"},
-    image: "/poi-images/port-mole-libreville-economic-v2.webp",
     description: {
       de: "Der historische Handels- und Passagierhafen im Herzen der Hauptstadt Libreville.",
       hu: "Történelmi kereskedelmi és utaskikötő Libreville szívében.",
@@ -950,7 +939,6 @@ export const poiExtraGabonEconomicV2: POI[] = [
       pt: ["Parte da segunda maior jazida de manganês do mundo", "Operada pela COMILOG (maioria da Eramet)", "Extração em céu aberto com elevado grau de pureza", "Transporte através do Caminho de Ferro Transgabonês (Transgabonais)", "O Gabão cobre cerca de 15% da procura mundial de manganês", "O manganês é utilizado principalmente para o refinamento do aço"],
       fr: ["Fait partie du deuxième plus grand gisement de manganèse au monde", "Exploitée par la COMILOG (majorité Eramet)", "Extraction à ciel ouvert avec un haut degré de pureté", "Transport via le chemin de fer Transgabonais", "Le Gabon couvre environ 15 % des besoins mondiaux en manganèse", "Le manganèse est principalement utilisé pour l'affinage de l'acier"],
     }, },
-    image: "/poi-images/biniomi-manganese-economic-v2.webp",
     description: {
       de: "Eine neue Abbaustätte für Mangan zur Erweiterung der Kapazitäten in der Region Moanda.",
       hu: "Új mangánbánya a kapacitások bővítésére Moanda régióban.",
@@ -979,7 +967,6 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: "Okondjai mangánbánya",
       ro: "Mina de mangan din Okondja",
       en: "Okondja Manganese Mine"},
-    image: "/poi-images/okondja-manganese-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Mangan-Bergbauprojekt im Osten Gabuns zur Diversifizierung der Standorte.",
       hu: "Jelentős mangánbányászati projekt Kelet-Gabonban a helyszínek diverzifikálására.",
@@ -1027,7 +1014,6 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: "Port-Gentil kereskedelmi kikötője",
       ro: "Portul comercial Port-Gentil",
       en: "Port-Gentil Commercial Port"},
-    image: "/poi-images/port-gentil-commercial-port-economic-v2.webp",
     description: {
       de: "Der zentrale Handelshafen der wirtschaftlichen Hauptstadt, wichtig für den Import von Gütern.",
       hu: "A gazdasági főváros központi kereskedelmi kikötője, fontos az áruimport számára.",
@@ -1075,7 +1061,6 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: "Owendói fakikötő",
       ro: "Portul de cherestea Owendo",
       en: "Owendo Timber Port"},
-    image: "/poi-images/owendo-timber-port-economic-v2.webp",
     description: {
       de: "Spezialisierte Hafenanlagen in Owendo für den weltweiten Export von gabunischen Hölzern.",
       hu: "Speciális kikötői létesítmények Owendóban a gaboni fa világméretű exportjához.",
@@ -1142,7 +1127,6 @@ export const poiExtraGabonEconomicV2: POI[] = [
       pt: ["Localizado ao largo da costa da província de Nyanga, no sul do Gabão", "Utilização de uma unidade flutuante de armazenamento e descarga (FSO)", "Operado principalmente pela empresa petrolífera Perenco", "Ponto central de recolha de petróleo bruto dos campos offshore do sul", "Permite o carregamento de superpetroleiros em alto mar", "Fator importante para o desenvolvimento económico da região de Mayumba"],
       fr: ["Situé au large des côtes de la province de la Nyanga au sud du Gabon", "Utilisation d'une unité flottante de stockage et de déchargement (FSO)", "Principalement exploité par la compagnie pétrolière Perenco", "Point de collecte central pour le pétrole des champs offshore du sud", "Permet le chargement de superpétroliers en haute mer", "Facteur important pour le développement économique de la région de Mayumba"],
     }, },
-    image: "/poi-images/lucina-oil-terminal-economic-v2.webp",
     description: {
       de: "Ein Offshore-Terminal für die Verladung von Rohöl aus den küstennahen Ölfeldern.",
       hu: "Offshore terminál a part menti olajmezőkről származó nyersolaj berakodására.",
@@ -1171,7 +1155,6 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: "Oguendjo olajterminál",
       ro: "Terminalul petrolier Oguendjo",
       en: "Oguendjo Oil Terminal"},
-    image: "/poi-images/oguendjo-oil-terminal-economic-v2.webp",
     description: {
       de: "Ein weiteres wichtiges Verladeterminal für die Ölindustrie im Golf von Guinea.",
       hu: "Egy másik fontos berakodási terminál az olajipar számára a Guineai-öbölben.",
@@ -1238,7 +1221,6 @@ export const poiExtraGabonEconomicV2: POI[] = [
       pt: ["Importante entroncamento ferroviário na linha Trans-Gabon", "Centro para o processamento de madeiras de Okoumé e folhosas", "Acolhe serrações modernas e unidades de produção de folheados", "Ponto estratégico para a implementação da proibição de exportação de madeira em bruto", "Oferece ligações logísticas diretas ao porto de Owendo", "Grande empregador na província de Ogooué-Lolo"],
       fr: ["Nœud ferroviaire important sur la ligne du Transgabonais", "Centre de transformation de l'Okoumé et des bois durs", "Abrite des scieries modernes et des unités de production de placages", "Point stratégique pour la mise en œuvre de l'interdiction d'exportation des grumes", "Offre des liaisons logistiques directes vers le port d'Owendo", "Grand employeur dans la province de l'Ogooué-Lolo"],
     }, },
-    image: "/poi-images/lastoursville-timber-hub-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Zentrum im Landesinneren für die erste Verarbeitung von Baumstämmen.",
       hu: "Jelentős belföldi központ a rönkök elsődleges feldolgozására.",

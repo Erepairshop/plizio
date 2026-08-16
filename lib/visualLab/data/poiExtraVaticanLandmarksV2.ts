@@ -7,8 +7,6 @@ export const vaticanLandmarksV2: POI[] = [
     parent: "VA",
     type: "church",
     name: { de: "Santo Stefano degli Abissini", hu: "Santo Stefano degli Abissini", ro: "Santo Stefano degli Abissini", en: "Church of Saint Stephen of the Abyssinians"},
-    image: "/poi-images/vatican-santo-stefano-abissini-landmarks-v2.webp",
-    coords: [12.45182, 41.90152],
     coords: [12.45182, 41.90152],
     description: {
       de: "Die Kirche Santo Stefano degli Abissini ist das älteste erhaltene Gotteshaus in der Vatikanstadt. Sie wurde im 5. Jahrhundert auf den Ruinen eines antiken Tempels errichtet.",
@@ -54,8 +52,6 @@ export const vaticanLandmarksV2: POI[] = [
     parent: "VA",
     type: "church",
     name: { de: "Sant'Anna dei Palafrenieri", hu: "Sant'Anna dei Palafrenieri", ro: "Sant'Anna dei Palafrenieri", en: "Church of Sant'Anna dei Palafrenieri"},
-    image: "/poi-images/vatican-sant-anna-palafrenieri-landmarks-v2.webp",
-    coords: [12.45522, 41.90422],
     coords: [12.45522, 41.90422],
     description: {
       de: "Sant'Anna dei Palafrenieri ist die Pfarrkirche der Vatikanstadt und ein bedeutendes Beispiel des Barock. Sie befindet sich direkt neben dem St.-Anna-Tor der Enklave.",
@@ -101,8 +97,6 @@ export const vaticanLandmarksV2: POI[] = [
     parent: "VA",
     type: "landmark",
     name: { de: "Palazzo del Tribunale", hu: "Palazzo del Tribunale", ro: "Palazzo del Tribunale", en: "Tribunal Palace"},
-    image: "/poi-images/vatican-palazzo-tribunale-landmarks-v2.webp",
-    coords: [12.4527, 41.9013],
     coords: [12.4527, 41.9013],
     description: {
       de: "Der Palazzo del Tribunale beherbergt das Gerichtswesen der Vatikanstadt. Das Gebäude liegt südlich des Petersdoms und ist der Sitz der richterlichen Gewalt der Enklave.",
@@ -148,8 +142,6 @@ export const vaticanLandmarksV2: POI[] = [
     parent: "VA",
     type: "landmark",
     name: { de: "Radio Vatikan", hu: "Vatikáni Rádió", ro: "Radio Vatican", en: "Vatican Radio"},
-    image: "/poi-images/vatican-radio-landmarks-v2.webp",
-    coords: [12.4489, 41.9032],
     coords: [12.4489, 41.9032],
     description: {
       de: "Radio Vatikan ist der offizielle Rundfunkdienst des Heiligen Stuhls, gegründet 1931 von Guglielmo Marconi. Der Sender verbreitet Nachrichten in über vierzig Sprachen weltweit.",
@@ -195,8 +187,6 @@ export const vaticanLandmarksV2: POI[] = [
     parent: "VA",
     type: "monument",
     name: { de: "Lourdes-Grotte", hu: "Lourdes-i barlang", ro: "Grota Lourdes", en: "Lourdes Grotto"},
-    image: "/poi-images/vatican-lourdes-grotto-landmarks-v2.webp",
-    coords: [12.4503, 41.9031],
     coords: [12.4503, 41.9031],
     description: {
       de: "Die Lourdes-Grotte in den Vatikanischen Gärten ist eine originalgetreue Nachbildung der berühmten französischen Gebetsstätte. Sie dient den Päpsten als Ort der Andacht.",
@@ -243,7 +233,6 @@ export const vaticanLandmarksV2: POI[] = [
     type: "church",
     name: { de: "San Pellegrino", hu: "San Pellegrino templom", ro: "Biserica San Pellegrino", en: "Church of San Pellegrino"},
     image: "/poi-images/vatican-san-pellegrino-landmarks-v2.webp",
-    coords: [12.45562, 41.90442],
     coords: [12.45562, 41.90442],
     description: {
       de: "Die Kirche San Pellegrino ist eine der ältesten des Vatikans und dem heiligen Peregrinus gewidmet. Heute dient sie als Kapelle für die Päpstliche Schweizergarde.",

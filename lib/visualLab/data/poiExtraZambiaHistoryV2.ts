@@ -12,7 +12,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Munwa Stream Sziklarajzok",
       ro: "Gravurile Rupestre Munwa Stream",
       en: "Munwa Stream Rock Engravings"},
-    image: "/poi-images/munwa-stream-rock-engravings-history-v2.webp",
     description: {
       de: "Geometrische Felsgravuren, die von den Ureinwohnern entlang des Munwa Stream geschaffen wurden.",
       hu: "Geometriai sziklarajzok, amelyeket az ősi lakosok készítettek a Munwa Stream mentén.",
@@ -105,7 +104,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Sebanzi Hill Vaskori Lelőhely",
       ro: "Situl din Epoca Fierului Sebanzi Hill",
       en: "Sebanzi Hill Iron Age Site"},
-    image: "/poi-images/sebanzi-hill-iron-age-site-history-v2.webp",
     description: {
       de: "Eine archäologische Stätte am Rande der Kafue Flats, die eine jahrhundertelange Besiedlung aufweist.",
       hu: "A Kafue-síkság szélén található régészeti lelőhely, amely évszázadokig tartó betelepülést mutat.",
@@ -435,7 +433,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Mukuni Királyi Falu",
       ro: "Satul Regal Mukuni",
       en: "Mukuni Village"},
-    image: "/poi-images/mukuni-village-history-v2.webp",
     description: {
       de: "Ein historisches Dorf des Leya-Volkes, das vor der Ankunft europäischer Entdecker gegründet wurde.",
       hu: "A leya nép történelmi faluja, amelyet az európai felfedezők érkezése előtt alapítottak.",
@@ -672,7 +669,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Maramba Erőd",
       ro: "Fortul Maramba",
       en: "Maramba Fort"},
-    image: "/poi-images/maramba-fort-history-v2.webp",
     description: {
       de: "Ein früher kolonialer Polizeiposten in Livingstone, der eine Rolle bei der Gründung Nordrhodesiens spielte.",
       hu: "Korai gyarmati rendőrőrs Livingstone-ban, amely szerepet játszott Észak-Rodézia megalapításában.",
@@ -720,7 +716,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Lundazi Kastélyszálló",
       ro: "Castelul Lundazi",
       en: "Lundazi Castle Hotel"},
-    image: "/poi-images/lundazi-castle-hotel-history-v2.webp",
     description: {
       de: "Eine Burg im normannischen Stil, die in den 1940er Jahren von einem britischen Distriktkommissar erbaut wurde.",
       hu: "Egy normann stílusú kastély, amelyet az 1940-es években egy brit kerületi biztos építtetett.",
@@ -768,7 +763,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Mwata Kazembe Palota",
       ro: "Palatul Mwata Kazembe",
       en: "Mwata Kazembe Palace"},
-    image: "/poi-images/mwata-kazembe-palace-history-v2.webp",
     description: {
       de: "Der traditionelle Sitz des Lunda-Königreichs in Mwansabombwe.",
       hu: "A Lunda Királyság hagyományos székhelye Mwansabombwében.",
@@ -816,7 +810,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Chitimukulu Palota",
       ro: "Palatul Chitimukulu",
       en: "Chitimukulu Palace"},
-    image: "/poi-images/chitimukulu-palace-history-v2.webp",
     description: {
       de: "Das historische und spirituelle Hauptquartier des höchsten Häuptlings der Bemba.",
       hu: "A legfőbb Bemba törzsfőnök történelmi és spirituális központja.",
@@ -861,7 +854,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Lealui Királyi Falu",
       ro: "Satul Regal Lealui",
       en: "Lealui Royal Village"},
-    image: "/poi-images/lealui-royal-village-history-v2.webp",
     description: {
       de: "Die traditionelle Sommerhauptstadt des Litunga, des höchsten Häuptlings des Lozi-Volkes.",
       hu: "A Litunga, a lozi nép legfőbb vezetőjének hagyományos nyári fővárosa.",
@@ -909,7 +901,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Limulunga Királyi Falu",
       ro: "Satul Regal Limulunga",
       en: "Limulunga Royal Village"},
-    image: "/poi-images/limulunga-royal-village-history-v2.webp",
     description: {
       de: "Die Winterhauptstadt auf höherem Grund, in die der Lozi-König während der Kuomboka-Zeremonie umzieht.",
       hu: "A magasabban fekvő téli főváros, ahová a Lozi király a Kuomboka ceremónia során átköltözik.",
@@ -957,7 +948,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Sefula Misszió",
       ro: "Misiunea Sefula",
       en: "Sefula Mission"},
-    image: "/poi-images/sefula-mission-history-v2.webp",
     description: {
       de: "Von François Coillard im späten 19. Jahrhundert gegründet, war es die erste Mission in Barotseland.",
       hu: "A François Coillard által a 19. század végén alapított misszió Barotseland első küldetése volt.",
@@ -1005,7 +995,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Kawimbe Misszió",
       ro: "Misiunea Kawimbe",
       en: "Kawimbe Mission"},
-    image: "/poi-images/kawimbe-mission-history-v2.webp",
     description: {
       de: "Eine der frühesten Stationen der London Missionary Society, die in den 1880er Jahren in der Nähe von Mbala gegründet wurde.",
       hu: "A Londoni Missziós Társaság egyik legkorábbi állomása, amelyet az 1880-as években Mbala közelében alapítottak.",
@@ -1053,7 +1042,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Lubwa Misszió",
       ro: "Misiunea Lubwa",
       en: "Lubwa Mission"},
-    image: "/poi-images/lubwa-mission-history-v2.webp",
     description: {
       de: "Eine 1905 von David Kaunda, dem Vater von Sambias erstem Präsidenten, gegründete Mission.",
       hu: "David Kaunda, Zambia első elnökének apja által 1905-ben alapított misszió.",
@@ -1149,7 +1137,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Fort Elwes Erőd",
       ro: "Fortul Elwes",
       en: "Fort Elwes"},
-    image: "/poi-images/fort-elwes-history-v2.webp",
     description: {
       de: "Ein 1896 von europäischen Prospektoren erbautes Steinfort zur Verteidigung gegen das Ngoni-Volk.",
       hu: "Az 1900-as évek elején épült erődítmény a tanzániai határ közelében, amely a brit gyarmati terjeszkedés egyik történelmi emléke.",
@@ -1293,7 +1280,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Chambeshi Emlékmű",
       ro: "Monumentul Chambeshi",
       en: "Chambeshi Monument"},
-    image: "/poi-images/chambeshi-monument-history-v2.webp",
     description: {
       de: "Markiert den Ort, an dem der deutsche General von Lettow-Vorbeck 1918 kapitulierte und den Ersten Weltkrieg in Afrika beendete.",
       hu: "Az a hely, ahol von Lettow-Vorbeck német tábornok 1918-ban megadta magát, lezárva az első világháborút Afrikában.",
@@ -1338,7 +1324,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Kilwa-szigeti Arab Település",
       ro: "Așezarea Arabă de pe Insula Kilwa",
       en: "Kilwa Island Arab Settlement"},
-    image: "/poi-images/kilwa-island-arab-settlement-history-v2.webp",
     description: {
       de: "Eine historische Insel im Mwerusee, die im 19. Jahrhundert als Basis für swahili-arabische Sklavenhändler diente.",
       hu: "Történelmi sziget a Mweru-tavon, amely a 19. században szuahéli-arab rabszolgakereskedők bázisaként szolgált.",
@@ -1431,7 +1416,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Leopard's Hill Barlang",
       ro: "Peștera Leopard's Hill",
       en: "Leopard's Hill Cave"},
-    image: "/poi-images/leopards-hill-cave-history-v2.webp",
     description: {
       de: "Eine bedeutende archäologische Stätte in der Nähe von Lusaka, die Beweise für die Besiedlung in der mittleren und späten Steinzeit liefert.",
       hu: "Lusakához közeli jelentős régészeti lelőhely, amely a középső és késő kőkori megtelepedés bizonyítékait rejti.",
@@ -1479,7 +1463,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Twin Rivers Kopje",
       ro: "Twin Rivers Kopje",
       en: "Twin Rivers Kopje"},
-    image: "/poi-images/twin-rivers-kopje-history-v2.webp",
     description: {
       de: "Eine archäologische Stätte auf einem Hügel mit Artefakten aus der mittleren Steinzeit und frühen Beweisen für die Verwendung von Pigmenten.",
       hu: "Régészeti lelőhely egy dombon, amely középső kőkori leleteket és a pigmenthasználat korai bizonyítékait tartalmazza.",
@@ -1527,7 +1510,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Kansanshi Ősi Bánya",
       ro: "Mina Istorică Kansanshi",
       en: "Kansanshi Ancient Mine"},
-    image: "/poi-images/kansanshi-ancient-mine-history-v2.webp",
     description: {
       de: "Eine Stätte, die umfangreiche vorkoloniale Kupferbergbauaktivitäten in der Nähe von Solwezi zeigt.",
       hu: "Kiterjedt gyarmatosítás előtti rézbányászati tevékenységet bemutató lelőhely Solwezi közelében.",
@@ -1575,7 +1557,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Roan Antelope Lelőhely",
       ro: "Situl de Descoperire Roan Antelope",
       en: "Roan Antelope Discovery Site"},
-    image: "/poi-images/roan-antelope-discovery-site-history-v2.webp",
     description: {
       de: "Der Ort in Luanshya, an dem William Collier im Jahr 1902 bekanntermaßen Kupfervorkommen entdeckte.",
       hu: "A hely Luanshyában, ahol William Collier 1902-ben híres módon rézlerakatokat fedezett fel.",
@@ -1671,7 +1652,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Kalomói Kormányzói Ház",
       ro: "Casa Administratorului din Kalomo",
       en: "Kalomo Administrator's House"},
-    image: "/poi-images/kalomo-administrators-house-history-v2.webp",
     description: {
       de: "Die Residenz des Kolonialverwalters, als Kalomo die Hauptstadt von Nordwest-Rhodesien war.",
       hu: "A gyarmati kormányzó rezidenciája, amikor Kalomo Északnyugat-Rodézia fővárosa volt.",
@@ -1719,7 +1699,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Zambezi Csónakklub",
       ro: "Clubul de Bărci Zambezi",
       en: "Zambezi Boat Club (1905)"},
-    image: "/poi-images/zambezi-boat-club-1905-history-v2.webp",
     description: {
       de: "Einer der ältesten Freizeitclubs in Sambia, gegründet an den Ufern des Sambesi.",
       hu: "Zambia egyik legrégebbi szabadidős klubja, amelyet a Zambézi partján alapítottak.",
@@ -1767,7 +1746,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Cairo Road Történelmi Negyed",
       ro: "Cartierul Istoric Cairo Road",
       en: "Cairo Road Commercial Heritage"},
-    image: "/poi-images/cairo-road-commercial-heritage-history-v2.webp",
     description: {
       de: "Die historische Hauptverkehrsader von Lusaka, benannt als Teil von Cecil Rhodes' Vision einer Kap-Kairo-Route.",
       hu: "Lusaka történelmi főútvonala, amelyet Cecil Rhodes Fokvárostól Kairóig tartó útvonaláról neveztek el.",
@@ -1812,7 +1790,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Chikabola Csatahely",
       ro: "Câmpul de Bătălie Chikabola",
       en: "Chikabola Battlefield"},
-    image: "/poi-images/chikabola-battlefield-history-v2.webp",
     description: {
       de: "Der Ort eines historischen Zusammenstoßes zwischen den Ngoni-Kriegern und dem Bemba-Volk im späten 19. Jahrhundert.",
       hu: "A ngoni harcosok és a bemba nép közötti történelmi összecsapás helyszíne a 19. század végén.",
@@ -1857,7 +1834,6 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: "Marrapodi Történelmi Település",
       ro: "Așezarea Istorică Marrapodi",
       en: "Marrapodi Settlement"},
-    image: "/poi-images/marrapodi-settlement-history-v2.webp",
     description: {
       de: "Eine der ältesten inoffiziellen Siedlungen Lusakas, gegründet von frühen italienischen Bauunternehmern und später afrikanischen Arbeitern.",
       hu: "Lusaka egyik legrégebbi nem hivatalos települése, amelyet korai olasz vállalkozók és később afrikai munkások alapítottak.",

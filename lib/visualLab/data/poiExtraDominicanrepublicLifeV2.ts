@@ -12,7 +12,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Los Haitises tengeri teknős fészkelőhelyek",
       ro: "Cuiburi de broaște țestoase marine Los Haitises",
       en: "Los Haitises Sea Turtle Nesting Sites"},
-    image: "/poi-images/do-los-haitises-sea-turtles-life-v2.webp",
     description: {
       de: "Abgelegene Strände im Nationalpark Los Haitises, die als Nistplätze für verschiedene Arten von Meeresschildkröten dienen.",
       hu: "Elhagyatott strandok a Los Haitises Nemzeti Parkban, amelyek különböző tengeri teknősfajok fészkelőhelyéül szolgálnak.",
@@ -60,7 +59,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Jaragua orrszarvú leguán élőhely",
       ro: "Habitatul iguanei rinocer Jaragua",
       en: "Jaragua Rhinoceros Iguana Habitat"},
-    image: "/poi-images/do-jaragua-iguana-habitat-life-v2.webp",
     description: {
       de: "Der trockene Wald des Jaragua-Nationalparks ist einer der Hauptlebensräume des bedrohten Nashornleguans.",
       hu: "A Jaragua Nemzeti Park száraz erdője a veszélyeztetett orrszarvú leguán egyik fő élőhelye.",
@@ -108,7 +106,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Sierra de Bahoruco madárparadicsom",
       ro: "Paradisul păsărilor din Sierra de Bahoruco",
       en: "Sierra de Bahoruco Bird Sanctuary"},
-    image: "/poi-images/do-sierra-de-bahoruco-birds-life-v2.webp",
     description: {
       de: "Dieser Nationalpark ist ein Hotspot für Vogelbeobachter und beherbergt Dutzende endemischer Vogelarten der Insel.",
       hu: "Ez a nemzeti park a madármegfigyelők egyik kedvenc helye, ahol a sziget több tucat endemikus madárfaja él.",
@@ -156,7 +153,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Dohánytermesztés a Cibao-völgyben",
       ro: "Cultivarea tutunului în Valea Cibao",
       en: "Cibao Valley Tobacco Farming"},
-    image: "/poi-images/do-cibao-valley-tobacco-life-v2.webp",
     description: {
       de: "Das Cibao-Tal ist das Herz der dominikanischen Landwirtschaft und weltberühmt für den Anbau von hochwertigem Tabak für Zigarren.",
       hu: "A Cibao-völgy a dominikai mezőgazdaság szíve, világhírű a minőségi szivardohány termesztéséről.",
@@ -204,7 +200,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Baní mangófarmok",
       ro: "Ferme de mango din Baní",
       en: "Baní Mango Farms"},
-    image: "/poi-images/do-bani-mango-farms-life-v2.webp",
     description: {
       de: "Die Region um Baní ist bekannt als die 'Hauptstadt der Mangos' und feiert jährlich ein Festival zu Ehren der Frucht.",
       hu: "A Baní körüli régió a 'mangó fővárosaként' ismert, és évente fesztivált rendeznek a gyümölcs tiszteletére.",
@@ -252,7 +247,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Zöldségtermesztés Constanzában",
       ro: "Cultivarea legumelor în Constanza",
       en: "Vegetable Farming in Constanza"},
-    image: "/poi-images/do-constanza-vegetables-life-v2.webp",
     description: {
       de: "Das hochgelegene Tal von Constanza ist der 'Gemüsegarten' der Dominikanischen Republik, wo aufgrund des kühleren Klimas eine Vielzahl von Gemüsesorten angebaut wird.",
       hu: "A magasan fekvő Constanza-völgy a Dominikai Köztársaság 'zöldségeskertje', ahol a hűvösebb éghajlatnak köszönhetően sokféle zöldséget termesztenek.",
@@ -300,7 +294,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Barahona kávéültetvények",
       ro: "Plantații de cafea din Barahona",
       en: "Barahona Coffee Plantations"},
-    image: "/poi-images/do-barahona-coffee-life-v2.webp",
     description: {
       de: "Die Berge um Barahona sind bekannt für ihren hochwertigen Arabica-Kaffee, der im Schatten von Pinienwäldern angebaut wird.",
       hu: "A Barahona körüli hegyek híresek a minőségi arabica kávéjukról, amelyet fenyőerdők árnyékában termesztenek.",
@@ -348,7 +341,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Szarvasmarha-tenyésztés Higüey-ben",
       ro: "Creșterea vitelor în Higüey",
       en: "Cattle Ranching in Higüey"},
-    image: "/poi-images/do-higuey-cattle-ranching-life-v2.webp",
     description: {
       de: "Die weiten Ebenen im Osten der Dominikanischen Republik, insbesondere um Higüey, sind das Zentrum der Rinderzucht für Fleisch und Milchprodukte.",
       hu: "A Dominikai Köztársaság keleti részén elterülő síkságok, különösen Higüey környékén, a hús- és tejtermelő szarvasmarha-tenyésztés központjai.",
@@ -396,7 +388,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Mundo King Művészeti Múzeum",
       ro: "Muzeul de Artă Mundo King",
       en: "Mundo King Art Museum"},
-    image: "/poi-images/do-mundo-king-art-museum-life-v2.webp",
     description: {
       de: "Ein unkonventionelles und surreales Schloss in Sosúa, gefüllt mit haitianischer Kunst und exzentrischen Skulpturen, das auch ältere Kinder fasziniert.",
       hu: "Egy nem mindennapi és szürreális kastély Sosúában, tele haiti művészettel és különc szobrokkal, amely az idősebb gyerekeket is lenyűgözi.",
@@ -492,7 +483,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Sirenis Aquagames Punta Cana",
       ro: "Sirenis Aquagames Punta Cana",
       en: "Sirenis Aquagames Punta Cana"},
-    image: "/poi-images/do-sirenis-aquagames-punta-cana-life-v2.webp",
     description: {
       de: "Ein großer Wasserpark in Punta Cana mit zahlreichen Rutschen, Pools und Spielbereichen für alle Altersgruppen.",
       hu: "Egy nagy vízipark Punta Canában, számos csúszdával, medencével és játszóterülettel minden korosztály számára.",
@@ -540,7 +530,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Manatí Park Bávaro",
       ro: "Parcul Manatí Bávaro",
       en: "Manatí Park Bávaro"},
-    image: "/poi-images/do-manati-park-bavaro-life-v2.webp",
     description: {
       de: "Ein Themenpark, der die Taino-Kultur mit der Flora und Fauna der Dominikanischen Republik verbindet, einschließlich Tiershows.",
       hu: "Egy témapark, amely ötvözi a Taino kultúrát a Dominikai Köztársaság növény- és állatvilágával, beleértve az állatbemutatókat is.",
@@ -588,7 +577,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Nemzeti Akvárium Santo Domingo",
       ro: "Acvariul Național Santo Domingo",
       en: "National Aquarium Santo Domingo"},
-    image: "/poi-images/do-acuario-nacional-santo-domingo-life-v2.webp",
     description: {
       de: "Das nationale Aquarium zeigt die vielfältige Unterwasserwelt der Karibik, einschließlich eines Unterwassertunnels.",
       hu: "A nemzeti akvárium bemutatja a Karib-tenger változatos vízi élővilágát, beleértve egy víz alatti alagutat is.",
@@ -636,7 +624,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Nemzeti Botanikus Kert Santo Domingo",
       ro: "Grădina Botanică Națională Santo Domingo",
       en: "National Botanical Garden Santo Domingo"},
-    image: "/poi-images/do-jardin-botanico-santo-domingo-life-v2.webp",
     description: {
       de: "Eine riesige grüne Oase in der Stadt mit einem japanischen Garten, einem Blumenuhren und einem Zug, der durch den Park fährt.",
       hu: "Hatalmas zöld oázis a városban, japánkerttel, virágórával és a parkon áthaladó vonattal.",
@@ -684,7 +671,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "ChocoMuseo Csokoládémúzeum Punta Cana",
       ro: "ChocoMuseo Punta Cana",
       en: "ChocoMuseo Punta Cana"},
-    image: "/poi-images/do-chocolate-museum-punta-cana-life-v2.webp",
     description: {
       de: "Ein Museum, in dem Besucher alles über den Prozess der Schokoladenherstellung lernen und ihre eigene Schokolade herstellen können.",
       hu: "Egy múzeum, ahol a látogatók mindent megtudhatnak a csokoládékészítés folyamatáról, és elkészíthetik saját csokoládéjukat.",
@@ -732,7 +718,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "La Isabela Történelmi Nemzeti Park",
       ro: "Parcul Național Istoric La Isabela",
       en: "La Isabela Historical National Park"},
-    image: "/poi-images/do-isabela-historic-park-life-v2.webp",
     description: {
       de: "Die Ruinen der ersten von Europäern gegründeten Stadt in Amerika, ein Ort, an dem Kinder Geschichte hautnah erleben können.",
       hu: "Az első európaiak által alapított amerikai város romjai, egy hely, ahol a gyerekek testközelből élhetik át a történelmet.",
@@ -780,7 +765,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Monkeyland Punta Cana",
       ro: "Monkeyland Punta Cana",
       en: "Monkeyland Punta Cana"},
-    image: "/poi-images/do-monkeyland-punta-cana-life-v2.webp",
     description: {
       de: "Ein Schutzgebiet, in dem Besucher mit freundlichen Totenkopfäffchen in einer natürlichen Umgebung interagieren können.",
       hu: "Egy menedékhely, ahol a látogatók barátságos mókusmajmokkal léphetnek kapcsolatba természetes környezetben.",
@@ -828,7 +812,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Scape Park Cap Cana",
       ro: "Scape Park Cap Cana",
       en: "Scape Park Cap Cana"},
-    image: "/poi-images/do-scape-park-cap-cana-life-v2.webp",
     description: {
       de: "Ein Natur-Themenpark mit Seilrutschen, Höhlenexpeditionen und dem berühmten blauen Cenote 'Hoyo Azul'.",
       hu: "Egy természeti élménypark drótkötélpályákkal, barlangexpedíciókkal és a híres kék vizű 'Hoyo Azul' cenotéval.",
@@ -876,7 +859,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Ojos Indígenas Ökológiai Park",
       ro: "Parcul Ecologic Ojos Indígenas",
       en: "Indigenous Eyes Ecological Park"},
-    image: "/poi-images/do-indigenous-eyes-park-life-v2.webp",
     description: {
       de: "Ein privates Schutzgebiet mit einem Netz von Pfaden, die zu 12 Süßwasserlagunen führen, in denen man schwimmen kann.",
       hu: "Egy magán természetvédelmi terület ösvényhálózattal, amely 12 édesvizű lagúnához vezet, ahol úszni is lehet.",
@@ -972,7 +954,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Hosszúszárnyú bálnák a Samaná-öbölben",
       ro: "Balenele cu cocoașă din Golful Samaná",
       en: "Samaná Bay Humpback Whales"},
-    image: "/poi-images/do-samaná-bay-whales-life-v2.webp",
     description: {
       de: "Jedes Jahr von Januar bis März versammeln sich Tausende von Buckelwalen in der Bucht von Samaná, um sich zu paaren und ihre Kälber zur Welt zu bringen.",
       hu: "Minden évben januártól márciusig több ezer hosszúszárnyú bálna gyűlik össze a Samaná-öbölben, hogy párosodjon és világra hozza borjait.",
@@ -1020,7 +1001,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Flamingók a Laguna de Oviedóban",
       ro: "Flamingii din Laguna de Oviedo",
       en: "Flamingos at Laguna de Oviedo"},
-    image: "/poi-images/do-laguna-de-oviedo-flamingos-life-v2.webp",
     description: {
       de: "Diese große Salzwasserlagune im Jaragua-Nationalpark ist ein wichtiger Futterplatz für eine große Kolonie von Rosaflamingos.",
       hu: "Ez a nagy, sós vizű lagúna a Jaragua Nemzeti Parkban egy nagy rózsás flamingó kolónia fontos táplálkozóhelye.",
@@ -1068,7 +1048,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Hegyesorrú krokodilok az Isla Cabritos szigeten",
       ro: "Crocodilii americani de pe Insula Cabritos",
       en: "American Crocodiles on Isla Cabritos"},
-    image: "/poi-images/do-isla-cabritos-crocodiles-life-v2.webp",
     description: {
       de: "Die Isla Cabritos im Enriquillo-See beherbergt eine der größten Populationen des Amerikanischen Spitzkrokodils in freier Wildbahn.",
       hu: "Az Enriquillo-tóban található Isla Cabritos ad otthont a hegyesorrú krokodil egyik legnagyobb vadon élő populációjának.",
@@ -1116,7 +1095,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Cukornádültetvények keleten",
       ro: "Plantații de trestie de zahăr în est",
       en: "Sugarcane Plantations in the East"},
-    image: "/poi-images/do-sugarcane-plantations-east-life-v2.webp",
     description: {
       de: "Die östlichen Ebenen, insbesondere um San Pedro de Macorís und La Romana, sind historisch das Zentrum des Zuckerrohranbaus, der die Wirtschaft des Landes geprägt hat.",
       hu: "A keleti síkságok, különösen San Pedro de Macorís és La Romana környékén, történelmileg a cukornádtermesztés központjai, amely meghatározta az ország gazdaságát.",
@@ -1164,7 +1142,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Duarte tartomány kakaóültetvényei",
       ro: "Plantațiile de cacao din provincia Duarte",
       en: "Duarte Province Cacao Plantations"},
-    image: "/poi-images/do-cacao-plantations-duarte-life-v2.webp",
     description: {
       de: "Die Provinz Duarte, insbesondere die Gegend um San Francisco de Macorís, ist führend im Anbau von Bio-Kakao, der zu hochwertiger Schokolade verarbeitet wird.",
       hu: "Duarte tartomány, különösen San Francisco de Macorís környéke, élen jár a bio kakaó termesztésében, amelyből kiváló minőségű csokoládét készítenek.",
@@ -1212,7 +1189,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Ocean World Kalandpark",
       ro: "Parcul de Aventuri Ocean World",
       en: "Ocean World Adventure Park"},
-    image: "/poi-images/do-ocean-world-adventure-park-life-v2.webp",
     description: {
       de: "Ein Meeres-Abenteuerpark in Puerto Plata, der Interaktionen mit Delfinen, Seelöwen und Haien in einer sicheren Umgebung ermöglicht.",
       hu: "Egy tengeri kalandpark Puerto Platában, amely lehetővé teszi a delfinekkel, oroszlánfókákkal és cápákkal való interakciót biztonságos környezetben.",
@@ -1260,7 +1236,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Trampolin Gyermekmúzeum",
       ro: "Muzeul Copiilor Trampolin",
       en: "Trampoline Children's Museum"},
-    image: "/poi-images/do-childrens-trampoline-museum-life-v2.webp",
     description: {
       de: "Ein interaktives Museum in der Zona Colonial von Santo Domingo, das speziell für Kinder konzipiert ist, um spielerisch zu lernen.",
       hu: "Egy interaktív múzeum Santo Domingo koloniális negyedében, amelyet kifejezetten gyerekeknek terveztek, hogy játékosan tanuljanak.",
@@ -1308,7 +1283,6 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: "Los Delfines Vízipark",
       ro: "Parcul Acvatic Los Delfines",
       en: "Los Delfines Water Park"},
-    image: "/poi-images/do-los-delfines-water-park-life-v2.webp",
     description: {
       de: "Ein Wasserpark in der Nähe von Juan Dolio mit Rutschen und Pools, der eine unterhaltsame Abwechslung zum Strand bietet.",
       hu: "Egy vízipark Juan Dolio közelében csúszdákkal és medencékkel, amely szórakoztató alternatívát kínál a strandoláshoz.",

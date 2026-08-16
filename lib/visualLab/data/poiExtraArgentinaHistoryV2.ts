@@ -49,7 +49,6 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
             }
       ]
 },
-    parent: "AR",
     description: { en: "An ancient cave featuring prehistoric paintings of hands, dating back thousands of years.",
       hu: "Világhírű régészeti lelőhely Santa Cruz tartományban, a Pinturas-folyó kanyonjában. A barlang falait több ezer éves, vadászó közösségek által készített festmények díszítik.",
       ro: "Cueva de las Manos este un sit arheologic spectaculos în Patagonia, celebru pentru picturile sale rupestre străvechi ce reprezintă mâini umane.",
@@ -650,7 +649,6 @@ image: "/poi-images/ar-cueva-de-las-manos-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "The ruins of a Jesuit reduction, reflecting the historical missionary efforts in the Misiones region.",
       hu: "Jezsuita misszió romjai Misiones tartományban. Az egykori redukció a guarani indiánok megtérítésére és védelmére jött létre a gyarmati időszakban.",
       ro: "Misiunea Nuestra Señora de Santa Ana este una dintre numeroasele reduceri iezuite stabilite pentru a evangheliza populația Guarani.",
@@ -891,7 +889,6 @@ image: "/poi-images/ar-nuestra-senora-de-santa-ana-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "A former Jesuit reduction site, significant for its historical influence on the indigenous population.",
       hu: "Egy másik jelentős jezsuita misszió maradványai Argentína északkeleti részén. A település fontos kulturális és vallási központ volt a 17-18. században.",
       ro: "Nuestra Señora de Loreto a fost un important centru de tipărire și producție culturală în cadrul misiunilor iezuite din regiune.",
@@ -1312,7 +1309,6 @@ image: "/poi-images/ar-nuestra-senora-de-loreto-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "One of the Jesuit missions in the Misiones region, showcasing historical architecture and cultural preservation.",
       hu: "A jezsuita-guarani missziók sorába tartozó település romjai. Az egykori gazdasági és oktatási központ ma fontos történelmi emlékhely Misionesben.",
       ro: "Misiunea Santa María la Mayor este un sit istoric ce păstrează vestigiile unei comunități iezuite-guarani odinioară prospere.",
@@ -2633,7 +2629,6 @@ image: "/poi-images/ar-santa-maria-la-mayor-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "The site where the Argentine Declaration of Independence was signed in 1816.",
       hu: "Történelmi épület San Miguel de Tucumánban, ahol 1816. július 9-én kikiáltották Argentína függetlenségét a spanyol koronától.",
       ro: "Casa Istorică din Tucumán este locul simbolic unde a fost proclamată independența Argentinei față de coroana spaniolă.",
@@ -3882,7 +3877,6 @@ image: "/poi-images/ar-casa-historica-de-tucuman-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "A historical block in Córdoba featuring buildings from the Jesuit period, including the oldest university in Argentina.",
       hu: "Córdoba szívében található történelmi negyed, amely a jezsuiták egykori oktatási és vallási központja volt. Itt található Argentína legrégebbi egyeteme.",
       ro: "Manzana Jesuítica din Córdoba este un ansamblu arhitectural excepțional care a servit drept centru al activității iezuite în America de Sud.",
@@ -5239,7 +5233,6 @@ image: "/poi-images/ar-manzana-jesuitica-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "A historic Jesuit estancia in Córdoba, reflecting colonial agricultural and cultural practices.",
       hu: "Az egykori jezsuita gazdasági birtok (estancia) Córdoba tartományban. A komplexum ma múzeumként működik, bemutatva a missziók mezőgazdasági rendszerét.",
       ro: "Estancia Alta Gracia a fost un important centru agricol și textil administrat de iezuiți în provincia Córdoba.",
@@ -5732,7 +5725,6 @@ image: "/poi-images/ar-estancia-alta-gracia-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "An important Jesuit estate, known for its well-preserved colonial structure and winemaking history.",
       hu: "A jezsuita missziók bortermelő központja volt Córdoba tartományban. A gyönyörű gyarmati stílusú épületek ma a jezsuita múlt emlékét őrzik.",
       ro: "Estancia Jesús María a fost renumită în perioada colonială pentru producția sa de vin, administrată de ordinul iezuit.",
@@ -5865,7 +5857,6 @@ image: "/poi-images/ar-estancia-jesus-maria-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "A former Jesuit ranch, representative of the religious order's historical economic impact in the region.",
       hu: "A legnagyobb a Córdoba környéki jezsuita estanciák közül, monumentális templomáról és gazdag állattenyésztési múltjáról ismert.",
       ro: "Estancia Santa Catalina a fost cea mai mare și mai prosperă dintre fermele iezuite din regiunea Córdoba.",
@@ -6250,7 +6241,6 @@ image: "/poi-images/ar-estancia-santa-catalina-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "A historic Jesuit estancia famous for its role in colonial economy and architecture.",
       hu: "A jezsuiták első nagy gazdasági egysége volt a régióban. Később a függetlenségi háború idején fegyvergyárként és katonai pihenőhelyként is szolgált.",
       ro: "Estancia Caroya a fost prima fermă stabilită de iezuiți în zonă, servind ulterior ca fabrică de arme și școală.",
@@ -6419,7 +6409,6 @@ image: "/poi-images/ar-estancia-caroya-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "A remote Jesuit estate located in the mountains of Córdoba, historic for its rural colonial life.",
       hu: "Az Andok-hegység lábánál fekvő jezsuita birtok, amely elszigetelt fekvése miatt különleges hangulatot áraszt. Fő profilja az öszvértenyésztés volt.",
       ro: "Estancia La Candelaria este cea mai izolată dintre fermele iezuite din Córdoba, situată într-o zonă muntoasă retrasă.",
@@ -7632,7 +7621,6 @@ image: "/poi-images/ar-estancia-la-candelaria-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "A major monument in Rosario, dedicated to the creation of the Argentine flag by Manuel Belgrano.",
       hu: "Impozáns emlékmű Rosario városában, azon a helyen, ahol Manuel Belgrano először vonta fel az argentin nemzeti zászlót 1812-ben.",
       ro: "Monumentul Național al Steagului din Rosario comemorează prima arborare a drapelului argentinian pe malul râului Paraná.",
@@ -8017,7 +8005,6 @@ image: "/poi-images/ar-monumento-bandera-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "The archaeological site of the first city of Santa Fe, destroyed and then abandoned.",
       hu: "Santa Fe városának eredeti helyszíne, ahol a 16. századi település romjai maradtak fenn. Fontos régészeti park, amely bemutatja a korai spanyol gyarmatosítást.",
       ro: "Ruinele din Cayastá marchează locul primei întemeieri a orașului Santa Fe de către exploratorul Juan de Garay.",
@@ -8186,7 +8173,6 @@ image: "/poi-images/ar-cayasta-ruins-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "An significant archaeological site showcasing Inca architecture and influence in Catamarca.",
       hu: "Fontos inka adminisztratív központ Catamarca tartományban. Az Inka Birodalom déli végvára volt, amelynek romjai ma is látványosak.",
       ro: "Shincal de Quimivil este un important centru administrativ incaș situat în provincia Catamarca, un punct cheie pe Drumul Incașilor.",
@@ -8499,7 +8485,6 @@ image: "/poi-images/ar-shincal-quimivil-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "A pre-Columbian city in the Salta region, representing indigenous urban planning before the colonial period.",
       hu: "Pre-inka kori település romjai Salta tartományban, a Lerma-völgyben. Az egykori nagyváros az andoki civilizáció egyik legfontosabb központja volt.",
       ro: "Ruinele din Tastil reprezintă una dintre cele mai mari așezări pre-incașe din Argentina, situată la mare altitudine în Salta.",
@@ -8632,7 +8617,6 @@ image: "/poi-images/ar-tastil-ruins-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "A historical site reflecting early indigenous settlements in the Salta region.",
       hu: "Inka kori régészeti lelőhely a Calchaquí-völgyben. Stratégiai helyszín volt a hegyek és völgyek közötti kereskedelem ellenőrzésére.",
       de: "Eine bedeutende Inka-Siedlung im Calchaquí-Tal, die als administratives Zentrum diente.",
@@ -8837,7 +8821,6 @@ image: "/poi-images/ar-potrero-payogasta-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "A historic colonial post station where key independence figures met during the war.",
       hu: "Történelmi postaállomás Salta tartományban, ahol az argentin függetlenségi háború nagy tábornokai, Belgrano és San Martín találkoztak.",
       de: "Ein historisches Landgut, in dem sich wichtige Anführer des argentinischen Unabhängigkeitskampfes trafen.",
@@ -9078,7 +9061,6 @@ image: "/poi-images/ar-posta-yatasto-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "A unique colonial church in Yavi, significant for its architectural and historical value in Jujuy.",
       hu: "Lenyűgöző 17. századi templom Jujuy tartomány északi részén, Yavi faluban. Híres aranyozott oltáráról és gazdag barokk díszítéséről.",
       de: "Eine prächtige koloniale Kirche in der abgelegenen Puna-Region, bekannt für ihren vergoldeten Altar.",
@@ -9175,7 +9157,6 @@ image: "/poi-images/ar-iglesia-yavi-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "A historic chapel famous for its religious and cultural significance in the Jujuy highlands.",
       hu: "A 'Puna Katedrálisa' néven ismert hatalmas templom egy apró hegyi faluban. Híres a minden évben megrendezett bikaviadal-ünnepéről.",
       de: "Eine historische Kapelle in der Puna, berühmt für das traditionelle Stierkampffest zu Ehren der Jungfrau.",
@@ -10388,7 +10369,6 @@ image: "/poi-images/ar-capilla-casabindo-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "The site of a historical fort that played a crucial role in the defense and expansion of the Patagonia region.",
       hu: "A legdélebbi spanyol erődítmény a 18. század végén. A Negro-folyó partján álló erőd megvédte a régiót a tengeri támadásoktól.",
       de: "Die Überreste einer Verteidigungsanlage, die eine entscheidende Rolle im Schutz Südpatagoniens spielte.",
@@ -10773,7 +10753,6 @@ image: "/poi-images/ar-fuerte-patagones-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "The historical residence of Justo José de Urquiza, a key figure in Argentina's constitutional development.",
       hu: "Justo José de Urquiza tábornok egykori fényűző rezidenciája Entre Ríos tartományban. A palota a 19. századi argentin politikai élet egyik legfontosabb helyszíne volt.",
       de: "Die ehemalige Residenz von Justo José de Urquiza, ein beeindruckendes Beispiel für Architektur des 19. Jahrhunderts.",
@@ -11734,7 +11713,6 @@ image: "/poi-images/ar-palacio-san-jose-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "A historic colonial house associated with Viceroy Santiago de Liniers, reflecting colonial history.",
       hu: "Az utolsó spanyol alkirályok egyikének rezidenciája Buenos Airesben. Az épület a gyarmati építészet kiváló példája, és fontos szerepet játszott az 1806-os angol invázió idején.",
       de: "Eines der ältesten Häuser in Buenos Aires, das dem letzten Vizekönig des Río de la Plata gehörte.",
@@ -12947,7 +12925,6 @@ image: "/poi-images/ar-casa-virrey-liniers-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "The birthplace and historical home of Domingo Faustino Sarmiento, a former Argentine president.",
       hu: "Domingo Faustino Sarmiento, a nagy argentin elnök és tanító szülőháza San Juanban. A ház ma múzeum, amely az államférfi életét és munkásságát mutatja be.",
       de: "Das Geburtshaus von Domingo Faustino Sarmiento, einem der wichtigsten Förderer der Bildung in Argentinien.",
@@ -13944,7 +13921,6 @@ image: "/poi-images/ar-casa-sarmiento-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "A well-preserved colonial building that functioned as the administrative center in Salta.",
       hu: "Salta városának egykori városháza, az ország legjobban megőrzött ilyen típusú épülete. Ma az Északnyugati Történelmi Múzeumnak ad otthont.",
       de: "Das besterhaltene Cabildo (Rathaus) Argentiniens, das heute als historisches Museum dient.",
@@ -15085,7 +15061,6 @@ image: "/poi-images/ar-cabildo-salta-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "A historic convent in Salta, showcasing impressive colonial architecture and religious heritage.",
       hu: "Salta egyik legrégebbi épülete, amely eredetileg kórházként, majd apácakolostorként működött. Híres faragott cédrusfa kapujáról.",
       de: "Ein wunderschönes Kloster in Salta, bekannt für sein beeindruckendes barockes Schnitzwerk.",
@@ -15137,7 +15112,6 @@ image: "/poi-images/ar-convento-san-bernardo-history-v2.webp",
     }, image: "/poi-images/ar-convento-san-bernardo-history-v2.webp"},
   {
     id: "ar-ruinas-tolombon-history-v2",
-    parent: "AR",
     description: { en: "Archaeological ruins in the Salta region, reflecting the lifestyle of indigenous cultures.",
       hu: "Az egykori paccioca nép fővárosának romjai a Calchaquí-völgyben. A település fontos ellenállási pont volt a spanyol hódítás idején.",
       de: "Die Überreste einer alten präkolumbianischen Stadt der Diaguita-Kultur im Calchaquí-Tal.",
@@ -15342,7 +15316,6 @@ image: "/poi-images/ar-ruinas-tolombon-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "A mountain fortress demonstrating advanced indigenous engineering in the Catamarca region.",
       hu: "Catamarca tartományban található inka erődítmény, amely az birodalom keleti határait védte. A romok magasan a tengerszint felett fekszenek.",
       de: "Eine beeindruckende Inka-Festung in den Bergen, die zur Grenzsicherung des Reiches diente.",
@@ -15799,7 +15772,6 @@ image: "/poi-images/ar-pucara-aconquija-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "A collection of ancient carved stones, significant for its pre-colonial cultural and artistic value.",
       hu: "Több tucat faragott gránitoszlop (menhir) Tucumán tartományban, a Tafí-völgyben. A több ezer éves alkotások az ősi Tafí-kultúra emlékei.",
       de: "Ein archäologischer Park mit riesigen monolithischen Steinen der Tafí-Kultur.",
@@ -17012,7 +16984,6 @@ image: "/poi-images/ar-los-menhires-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "A historic chapel with religious and community importance, reflecting colonial social structures.",
       hu: "Egy elhagyatott jezsuita kápolna Córdoba tartományban, amely egykor egy árvaotthonhoz tartozott. A romok magányosan állnak a pampák szélén.",
       de: "Eine historische Kapelle in Córdoba, die ursprünglich zur Unterstützung von Waisenkindern errichtet wurde.",
@@ -17397,7 +17368,6 @@ image: "/poi-images/ar-capilla-huerfanos-history-v2.webp",
             }
       ]
 },
-    parent: "AR",
     description: { en: "The birthplace of General José de San Martín, a site of immense historical pride for Argentina.",
       hu: "A híres jezsuita misszió maradványai Corrientes tartományban, San Martín tábornok szülőhelyén. A település fontos spirituális és kulturális bázis volt.",
       de: "Die Ruinen einer Jesuitenmission, die als Geburtsort des Nationalhelden José de San Martín bekannt ist.",

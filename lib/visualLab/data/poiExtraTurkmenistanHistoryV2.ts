@@ -345,7 +345,6 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: "Nisza pártus erődítményei",
       ro: "Cetățile parte din Nisa",
       en: "Parthian Fortresses of Nisa"},
-    image: "/poi-images/nisa-ruins-history-v2.webp",
     description: {
       de: "Ehemalige Hauptstadt des Partherreiches mit Überresten von Palästen und Tempeln.",
       hu: "A Pártus Birodalom egykori fővárosa, paloták és templomok romjaival.",
@@ -441,7 +440,6 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: "Köneurgench (Ó-Urgencs)",
       ro: "Köneürgenç",
       en: "Kunya-Urgench"},
-    image: "/poi-images/kunya-urgench-history-v2.webp",
     description: {
       de: "Die antike Hauptstadt von Choresmien, die prachtvolle Monumente aus dem 11. bis 16. Jahrhundert beherbergt.",
       hu: "Horezm ókori fővárosa, amely a 11-16. századból származó csodálatos műemlékeknek ad otthont.",
@@ -489,7 +487,6 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: "Gonur Depe",
       ro: "Gonur Depe",
       en: "Gonur Depe"},
-    image: "/poi-images/gonur-depe-history-v2.webp",
     description: {
       de: "Eine große bronzezeitliche Siedlung, die das Zentrum der antiken Margiana-Zivilisation darstellte.",
       hu: "Nagy bronzkori település, amely az ókori Margiana civilizáció központját alkotta.",
@@ -870,7 +867,6 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: "Anau mecset romjai",
       ro: "Ruinele moscheii Anau",
       en: "Anau Mosque Ruins"},
-    image: "/poi-images/anau-mosque-ruins-history-v2.webp",
     description: {
       de: "Überreste einer Moschee aus dem 15. Jahrhundert, die bei einem Erdbeben 1948 fast vollständig zerstört wurde.",
       hu: "Egy 15. századi mecset maradványai, amely szinte teljesen elpusztult egy 1948-as földrengésben.",
@@ -918,7 +914,6 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: "Geok-Tepe erőd",
       ro: "Cetatea Geok-Tepe",
       en: "Geok Tepe Fortress"},
-    image: "/poi-images/geok-tepe-fortress-history-v2.webp",
     description: {
       de: "Der Ort einer großen Schlacht im Jahr 1881, bei der sich turkmenische Streitkräfte gegen die russische Armee verteidigten.",
       hu: "Egy nagy 1881-es csata helyszíne, ahol a türkmén erők védték magukat az orosz hadsereg ellen.",
@@ -1083,7 +1078,6 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: "Szandzsar szultán mauzóleuma",
       ro: "Mausoleul Sultanului Sanjar",
       en: "Sultan Sanjar Mausoleum"},
-    image: "/poi-images/sultan-sanjar-mausoleum-history-v2.webp",
     description: {
       de: "Ein prächtiges Grabmal aus dem 12. Jahrhundert, das für den seldschukischen Herrscher erbaut wurde.",
       hu: "Egy csodálatos 12. századi síremlék, amelyet a szeldzsuk uralkodó számára építettek.",
@@ -1212,7 +1206,6 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: "Törebeg Hanym mauzóleum",
       ro: "Mausoleul Törebeg Hanym",
       en: "Törebeg Hanym Mausoleum"},
-    image: "/poi-images/torebeg-hanym-mausoleum-history-v2.webp",
     description: {
       de: "Ein exquisites Denkmal aus dem 14. Jahrhundert mit einer atemberaubenden inneren Mosaikkuppel.",
       hu: "Egy remek 14. századi műemlék lenyűgöző belső mozaikkupolával.",
@@ -1305,7 +1298,6 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: "Dehisztán romjai",
       ro: "Ruinele Dekhistan",
       en: "Dekhistan Ruins"},
-    image: "/poi-images/dekhistan-ruins-history-v2.webp",
     description: {
       de: "Die Überreste einer mittelalterlichen Stadt in der Misrian-Oase, die einst ein wichtiges Handelszentrum war.",
       hu: "Egy középkori város maradványai a Misrian-oázisban, amely egykor fontos kereskedelmi központ volt.",
@@ -1353,7 +1345,6 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: "Abiverd romjai",
       ro: "Ruinele Abiverd",
       en: "Abiverd Ruins"},
-    image: "/poi-images/abiverd-ruins-history-v2.webp",
     description: {
       de: "Eine der bedeutendsten Städte Nordchorasans, die nach mehrfachen zerstörerischen Invasionen verlassen wurde.",
       hu: "Észak-Horászán egyik legfontosabb városa, amelyet többszöri pusztító invázió után hagytak el.",
@@ -1401,7 +1392,6 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: "Altin Depe",
       ro: "Altyn Depe",
       en: "Altyn Depe"},
-    image: "/poi-images/altyn-depe-history-v2.webp",
     description: {
       de: "Eine bedeutende archäologische Stätte aus der Kupfer- und Bronzezeit, deren Name auf einen goldenen Hügel verweist.",
       hu: "Jelentős réz- és bronzkori régészeti lelőhely, amelynek neve egy arany dombra utal.",
@@ -1449,7 +1439,6 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: "Dayakhatyn karavánszeráj",
       ro: "Caravanseraiul Dayakhatyn",
       en: "Dayakhatyn Caravanserai"},
-    image: "/poi-images/dayakhatyn-caravanserai-history-v2.webp",
     description: {
       de: "Eine außergewöhnlich gut erhaltene Karawanserei aus dem 11. Jahrhundert an der historischen Seidenstraße.",
       hu: "Kivételesen jó állapotban fennmaradt 11. századi karavánszeráj a történelmi Selyemúton.",
@@ -1578,7 +1567,6 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: "Il-Arszlán mauzóleuma",
       ro: "Mausoleul lui Il-Arslan",
       en: "Il-Arslan Mausoleum"},
-    image: "/poi-images/il-arslan-mausoleum-history-v2.webp",
     description: {
       de: "Ein kegelförmig überdachtes Denkmal zu Ehren des Schahs von Choresmien aus dem 12. Jahrhundert.",
       hu: "Egy kúp alakú, tetővel ellátott műemlék a Horezm sah 12. századi tiszteletére.",
@@ -1800,7 +1788,6 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: "Nadir Shah erődje",
       ro: "Cetatea lui Nadir Shah",
       en: "Nadir Shah Fortress"},
-    image: "/poi-images/nadir-shah-fortress-history-v2.webp",
     description: {
       de: "Eine militärische Festung aus dem 18. Jahrhundert, die vom persischen Herrscher Nadir Schah erbaut wurde.",
       hu: "Egy 18. századi katonai erőd, amelyet a perzsa uralkodó, Nadir Shah építtetett.",
@@ -1848,7 +1835,6 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: "Asztana-Baba mauzóleum",
       ro: "Mausoleul Astana-Baba",
       en: "Astana-Baba Mausoleum"},
-    image: "/poi-images/astana-baba-mausoleum-history-v2.webp",
     description: {
       de: "Ein Komplex aus miteinander verbundenen religiösen Denkmälern, der über mehrere Jahrhunderte errichtet wurde.",
       hu: "Egymáshoz kapcsolódó vallási műemlékek komplexuma, amely több évszázad alatt épült.",
@@ -2301,7 +2287,6 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: "Gyz Gala erőd",
       ro: "Cetatea Gyz Gala",
       en: "Gyz Gala Fortress"},
-    image: "/poi-images/gyz-gala-fortress-history-v2.webp",
     description: {
       de: "Eine beeindruckende Lehmfestung aus dem 7. Jahrhundert, die für ihre markanten gewellten Wände bekannt ist.",
       hu: "Egy lenyűgöző 7. századi vályogerőd, amely jellegzetes hullámos falairól ismert.",
@@ -2394,7 +2379,6 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: "Sir Kabir mecset és mauzóleum",
       ro: "Mausoleul Shir Kabir",
       en: "Shir Kabir Mosque and Mausoleum"},
-    image: "/poi-images/shir-kabir-mosque-history-v2.webp",
     description: {
       de: "Die älteste erhaltene Moschee des Landes, die in der Nähe der antiken Stadt Dekhistan liegt.",
       hu: "Az ország legrégebbi fennmaradt mecsete, amely az ókori Dehisztán városának közelében található.",

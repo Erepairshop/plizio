@@ -89,7 +89,6 @@ export const poiExtraUaeReliefV2: POI[] = [
     parent: "AE-FU",
     coords: [56.1000, 25.3000],
     name: { de: "Hadschar-Gebirge", hu: "Hadzsar-hegység", ro: "Munții Hajar", en: "Al Hajar Mountains"},
-    image: "/poi-images/al-hajar-mountains-relief-v2.webp",
     description: { de: "Das höchste Gebirge auf der Arabischen Halbinsel, das sich durch die östlichen VAE zieht.", hu: "Az Arab-félsziget legmagasabb hegysége, amely az EAE keleti részén húzódik végig.", ro: "Cel mai înalt lanț muntos din Peninsula Arabică, traversând estul EAU.", en: "The highest mountain range in the Arabian Peninsula, stretching through the eastern UAE." , es: "La cadena montañosa más alta de la Península Arábiga, que atraviesa la parte oriental de los EAU.", pt: "A cordilheira mais alta da Península Arábica, que atravessa a parte oriental dos EAU.", fr: "La plus haute chaîne de montagnes de la péninsule arabique, s'étendant à travers l'est des EAU."},
     facts: {
       de: ["Höchstes Gebirge in den VAE.", "Besteht hauptsächlich aus Kalkstein.", "Beliebt für Wandern und Klettern.", "Reich an Wadis."],
@@ -125,7 +124,6 @@ export const poiExtraUaeReliefV2: POI[] = [
     parent: "AE-AZ",
     coords: [53.0000, 23.0000],
     name: { de: "Rub al-Chali", hu: "Rub al-Háli", ro: "Rub' al Khali", en: "Rub' al Khali"},
-    image: "/poi-images/rub-al-khali-relief-v2.webp",
     description: { de: "Eine der größten zusammenhängenden Sandwüsten der Welt, die sich über den Süden der VAE erstreckt.", hu: "A világ egyik legnagyobb egybefüggő homoksivataga, amely az EAE déli részén terül el.", ro: "Unul dintre cele mai mari deșerturi de nisip continuu din lume, care se întinde în sudul EAU.", en: "One of the largest contiguous sand deserts in the world, stretching across the southern UAE." , es: "Uno de los desiertos de arena continuos más grandes del mundo, que se extiende por el sur de los EAU.", pt: "Um dos maiores desertos de areia contínuos do mundo, que se estende pelo sul dos EAU.", fr: "L'un des plus grands déserts de sable continus au monde, s'étendant à travers le sud des EAU."},
     facts: {
       de: ["Eine der größten Sandwüsten der Welt.", "Deckt große Teile von Abu Dhabi ab.", "Bekannt für seine massiven roten Dünen.", "Wird als Leeres Viertel bezeichnet."],
@@ -161,7 +159,6 @@ export const poiExtraUaeReliefV2: POI[] = [
     parent: "AE-RK",
     coords: [56.0833, 25.9167],
     name: { de: "Wadi Ghalilah", hu: "Vadi Ghalilah", ro: "Wadi Ghalilah", en: "Wadi Ghalilah"},
-    image: "/poi-images/wadi-ghalilah-relief-v2.webp",
     description: { de: "Ein spektakuläres Tal im Norden, berühmt für seine extrem steilen Felswände und anspruchsvollen Wanderrouten.", hu: "Egy látványos völgy északon, amely rendkívül meredek sziklafalairól és kihívást jelentő túraútvonalairól híres.", ro: "O vale spectaculoasă în nord, faimoasă pentru stâncile sale extrem de abrupte și traseele provocatoare de drumeții.", en: "A spectacular valley in the north, famous for its extremely steep cliffs and challenging hiking routes." , es: "Un valle espectacular en el norte, famoso por sus paredes rocosas extremadamente empinadas y rutas de senderismo exigentes.", pt: "Um vale espetacular no norte, famoso pelas suas paredes rochosas extremamente íngremes e trilhos exigentes.", fr: "Une vallée spectaculaire dans le nord, célèbre pour ses parois rocheuses extrêmement escarpées et ses sentiers de randonnée exigeants."},
     facts: {
       de: ["Bekannt für die steile Treppe zum Himmel.", "Eines der anspruchsvollsten Wandergebiete.", "Liegt im Hadschar-Gebirge.", "Führt nach starken Regenfällen Wasser."],
@@ -350,7 +347,6 @@ export const poiExtraUaeReliefV2: POI[] = [
     parent: "AE-FU",
     coords: [56.1264, 25.6425],
     name: { de: "Dschabal Mebrah", hu: "Dzsebel Mebrah", ro: "Jebel Mebrah", en: "Jebel Mebrah"},
-    image: "/poi-images/jebel-mebrah-relief-v2.webp",
     description: { de: "Einer der höchsten Berggipfel in den VAE, der einen atemberaubenden Blick auf die umliegende raue Landschaft bietet.", hu: "Az EAE egyik legmagasabb hegycsúcsa, amely lélegzetelállító kilátást nyújt a környező zord tájra.", ro: "Unul dintre cele mai înalte vârfuri muntoase din EAU, oferind o priveliște uluitoare asupra peisajului accidentat din jur.", en: "One of the highest mountain peaks in the UAE, offering breathtaking views of the surrounding rugged landscape." , es: "Uno de los picos montañosos más altos de los EAU, que ofrece una vista impresionante del paisaje accidentado circundante.", pt: "Um dos picos montanhosos mais altos dos EAU, oferecendo uma vista deslumbrante da paisagem acidentada circundante.", fr: "L'un des plus hauts sommets des EAU, offrant une vue imprenable sur le paysage accidenté environnant."},
     facts: {
       de: ["Einer der höchsten Gipfel der VAE.", "Beliebtes Ziel für erfahrene Kletterer.", "Bietet spektakuläre Aussichten auf die Täler.", "Teil des Hadschar-Gebirges."],
@@ -656,7 +652,6 @@ export const poiExtraUaeReliefV2: POI[] = [
     parent: "AE-AZ",
     coords: [53.7667, 23.1333],
     name: { de: "Liwa-Wüste", hu: "Liva-sivatag", ro: "Deșertul Liwa", en: "Liwa Desert"},
-    image: "/poi-images/liwa-desert-relief-v2.webp",
     description: { de: "Eine riesige Wüstenlandschaft, bekannt für die höchsten Sanddünen der Region und historische Oasensiedlungen.", hu: "Hatalmas sivatagi táj, amely a régió legmagasabb homokdűnéiről és történelmi oázistelepüléseiről ismert.", ro: "Un peisaj deșertic imens, cunoscut pentru cele mai înalte dune de nisip din regiune și așezări de oaze istorice.", en: "A vast desert landscape known for the region's highest sand dunes and historical oasis settlements." , es: "Un vasto paisaje desértico, conocido por las dunas de arena más altas de la región y asentamientos históricos de oasis.", pt: "Uma vasta paisagem desértica, conhecida pelas dunas de areia mais altas da região e pelos assentamentos históricos de oásis.", fr: "Un vaste paysage désertique, connu pour les plus hautes dunes de sable de la région et les établissements d'oasis historiques."},
     facts: {
       de: ["Heimat der gewaltigen Moreeb-Düne.", "Berühmt für ausgedehnte Palmenhaine.", "Traditionelles Zentrum der Beduinenkultur.", "Teil des Rub al-Chali."],
@@ -773,7 +768,6 @@ export const poiExtraUaeReliefV2: POI[] = [
     parent: "AE-AZ",
     coords: [52.6000, 24.3000],
     name: { de: "Küste von Sir Bani Yas", hu: "Sir Bani Yas partvidéke", ro: "Coasta Sir Bani Yas", en: "Sir Bani Yas Coast"},
-    image: "/poi-images/sir-bani-yas-coast-relief-v2.webp",
     description: { de: "Eine geschützte Küstenlinie mit unberührten Stränden, die ein wichtiger Lebensraum für die maritime Tierwelt ist.", hu: "Érintetlen strandokkal rendelkező védett partvonal, amely fontos élőhelye a tengeri vadvilágnak.", ro: "O linie de coastă protejată cu plaje curate, un habitat important pentru fauna marină.", en: "A protected coastline with pristine beaches that serves as an important habitat for marine wildlife." , es: "Una línea costera protegida con playas vírgenes, que constituye un hábitat fundamental para la vida marina.", pt: "Uma linha costeira protegida com praias imaculadas, que é um habitat importante para a vida marinha.", fr: "Un littoral protégé aux plages immaculées, constituant un habitat important pour la faune marine."},
     facts: {
       de: ["Verfügt über unberührte Sandstrände.", "Umgeben von klarem, flachem Wasser.", "Heimat vieler Meeresbewohner wie Dugongs.", "Beliebt für Wassersport und Entspannung."],
@@ -962,7 +956,6 @@ export const poiExtraUaeReliefV2: POI[] = [
     parent: "AE-SH",
     coords: [56.2000, 24.9667],
     name: { de: "Wadi Al Helo", hu: "Vadi Al Helo", ro: "Wadi Al Helo", en: "Wadi Al Helo"},
-    image: "/poi-images/wadi-al-helo-relief-v2.webp",
     description: { de: "Das 'Süße Tal' ist ein ganzjährig fruchtbares Gebiet, umgeben von schroffen Bergen und alten islamischen Festungen.", hu: "Az Édes Völgy egy egész évben termékeny terület, amelyet zord hegyek és régi iszlám erődítmények vesznek körül.", ro: "Valea Dulce este o zonă fertilă tot anul, înconjurată de munți stâncoși și vechi fortărețe islamice.", en: "The 'Sweet Valley' is a year-round fertile area surrounded by rugged mountains and old Islamic forts." , es: "El 'Valle Dulce' es un área fértil durante todo el año, rodeada de montañas escarpadas y antiguas fortalezas islámicas.", pt: "O 'Vale Doce' é uma área fértil durante todo o ano, rodeada por montanhas escarpadas e antigas fortalezas islâmicas.", fr: "La 'Vallée Douce' est une zone fertile toute l'année, entourée de montagnes escarpées et d'anciennes forteresses islamiques."},
     facts: {
       de: ["Bedeutet auf Arabisch 'Süßes Tal'.", "Bekannt für seine archäologischen Ruinen.", "Hat ganzjährig ein wenig Wasser.", "Ein geschütztes Gebiet für einheimische Flora."],
@@ -1034,7 +1027,6 @@ export const poiExtraUaeReliefV2: POI[] = [
     parent: "AE-AZ",
     coords: [52.6167, 24.1833],
     name: { de: "Dschabal Dhanna", hu: "Dzsebel Dhanna", ro: "Jebel Dhanna", en: "Jebel Dhanna"},
-    image: "/poi-images/jebel-dhanna-relief-v2.webp",
     description: { de: "Eine markante Erhebung an der Küste von Abu Dhabi, die historische Bedeutung für Seefahrer und die Ölindustrie hat.", hu: "Feltűnő kiemelkedés Abu-Dzabi partvidékén, amely történelmi jelentőséggel bír a tengerészek és az olajipar számára.", ro: "O altitudine proeminentă pe coasta Abu Dhabi, cu importanță istorică pentru navigatori și industria petrolieră.", en: "A prominent elevation on the coast of Abu Dhabi with historical significance for seafarers and the oil industry." , es: "Una llamativa elevación en la costa de Abu Dabi, con importancia histórica para los navegantes y la industria petrolera.", pt: "Uma elevação notável na costa de Abu Dhabi, com importância histórica para navegadores e para a indústria petrolífera.", fr: "Une élévation frappante sur la côte d'Abou Dabi, avec une importance historique pour les navigateurs et l'industrie pétrolière."},
     facts: {
       de: ["Ein markanter Hügel an der Westküste.", "Bietet Panoramablick auf den Persischen Golf.", "Wichtiges Zentrum für die lokale Ölindustrie.", "Ausgangspunkt für Fahrten nach Sir Bani Yas."],
@@ -1223,7 +1215,6 @@ export const poiExtraUaeReliefV2: POI[] = [
     parent: "AE-RK",
     coords: [56.0694, 25.7142],
     name: { de: "Wadi Naqab", hu: "Vadi Nakab", ro: "Wadi Naqab", en: "Wadi Naqab"},
-    image: "/poi-images/wadi-naqab-relief-v2.webp",
     description: { de: "Ein trockenes, schroffes Flusstal, das für seine steilen Klippen und tiefen, versteckten Höhlen bekannt ist.", hu: "Száraz, zord folyóvölgy, amely meredek szikláiról és mély, rejtett barlangjairól ismert.", ro: "O vale de râu uscată, accidentată, cunoscută pentru stâncile abrupte și peșterile adânci ascunse.", en: "A dry, rugged river valley known for its steep cliffs and deep, hidden caves." , es: "Un valle fluvial seco y escarpado, conocido por sus empinados acantilados y cuevas profundas y ocultas.", pt: "Um vale fluvial seco e escarpado, conhecido pelos seus penhascos íngremes e cavernas profundas e ocultas.", fr: "Une vallée fluviale sèche et escarpée, connue pour ses falaises abruptes et ses grottes profondes et cachées."},
     facts: {
       de: ["Bietet dramatische, steile Schluchten.", "Berühmt für das Fledermaushöhlen-Trekking.", "Nur für sehr erfahrene Wanderer geeignet.", "Stark beeinflusst von Sturzfluten."],
@@ -1412,7 +1403,6 @@ export const poiExtraUaeReliefV2: POI[] = [
     parent: "AE-DU",
     coords: [56.1333, 24.8167],
     name: { de: "Hatta-Berge", hu: "Hatta-hegység", ro: "Munții Hatta", en: "Hatta Mountains"},
-    image: "/poi-images/hatta-mountains-relief-v2.webp",
     description: { de: "Ein raues Berggebiet am Rand von Dubai, das natürliche Pools, Stauseen und kühleres Wetter bietet.", hu: "Zord hegyvidéki terület Dubaj szélén, amely természetes medencéket, víztározókat és hűvösebb időjárást kínál.", ro: "O zonă montană accidentată la marginea Dubaiului, oferind piscine naturale, lacuri de acumulare și vreme mai răcoroasă.", en: "A rugged mountain area on the edge of Dubai, offering natural pools, reservoirs, and cooler weather." , es: "Una escarpada región montañosa en el borde de Dubái que ofrece piscinas naturales, embalses y un clima más fresco.", pt: "Uma região montanhosa acidentada nos arredores do Dubai que oferece piscinas naturais, albufeiras e um clima mais fresco.", fr: "Une région montagneuse accidentée en bordure de Dubaï qui offre des piscines naturelles, des réservoirs et un temps plus frais."},
     facts: {
       de: ["Beliebtes Ziel für Mountainbiker.", "Bietet kühlere Temperaturen als die Küste.", "Beherbergt den bekannten Hatta-Stausee.", "Gehört administrativ zu Dubai."],
@@ -1493,7 +1483,6 @@ export const poiExtraUaeReliefV2: POI[] = [
     parent: "AE-SH",
     coords: [55.7266, 24.9542],
     name: { de: "Al Badayer Wüste", hu: "Al Badajer-sivatag", ro: "Deșertul Al Badayer", en: "Al Badayer Desert"},
-    image: "/poi-images/al-badayer-desert-relief-v2.webp",
     description: { de: "Eine Wüstenregion in Sharjah, die für ihre markanten feuerroten Sanddünen und aufregenden Safari-Erlebnisse geschätzt wird.", hu: "Sharjah sivatagi régiója, amelyet jellegzetes tűzpiros homokdűnéi és izgalmas szafari élményei miatt kedvelnek.", ro: "O regiune deșertică din Sharjah, apreciată pentru dunele sale de nisip roșu aprins și experiențele captivante de safari.", en: "A desert region in Sharjah, appreciated for its striking fire-red sand dunes and exciting safari experiences." , es: "Una región desértica en Sharjah, apreciada por sus llamativas dunas de arena roja de fuego y experiencias de safari emocionantes.", pt: "Uma região desértica em Sharjah, apreciada por suas impressionantes dunas de areia vermelha de fogo e experiências de safári emocionantes.", fr: "Une région désertique à Sharjah, appréciée pour ses dunes de sable rouge feu saisissantes et ses expériences de safari palpitantes."},
     facts: {
       de: ["Berühmt für seine riesigen roten Sanddünen.", "Ein Zentrum für Wüstencamping und Offroading.", "Die 'Big Red' Düne ist eine Hauptattraktion.", "Liegt an der Straße zwischen Dubai und Hatta."],
@@ -1871,7 +1860,6 @@ export const poiExtraUaeReliefV2: POI[] = [
     parent: "AE-RK",
     coords: [56.1628, 24.9814],
     name: { de: "Wadi Qor", hu: "Vadi Kor", ro: "Wadi Qor", en: "Wadi Qor"},
-    image: "/poi-images/wadi-qor-relief-v2.webp",
     description: { de: "Ein historisches Flusstal, das einst eine wichtige Verbindung für Handelskarawanen zwischen den Küsten bildete.", hu: "Egy történelmi folyóvölgy, amely egykor fontos összeköttetést jelentett a partvidékek közötti kereskedelmi karavánok számára.", ro: "O vale istorică de râu care a format odată o legătură importantă pentru caravanele comerciale între coaste.", en: "A historic river valley that once formed an important link for trade caravans between the coasts." , es: "Un valle fluvial histórico que alguna vez formó una conexión importante para las caravanas comerciales entre las costas.", pt: "Um vale fluvial histórico que outrora formou uma conexão importante para caravanas comerciais entre as costas.", fr: "Une vallée fluviale historique qui formait autrefois une connexion importante pour les caravanes commerciales entre les côtes."},
     facts: {
       de: ["Historisch wichtiger Durchgang im Gebirge.", "Wurde von alten Karawanen genutzt.", "Besitzt verstreute archäologische Stätten.", "Heute eine ruhige Route für Naturliebhaber."],
@@ -2060,7 +2048,6 @@ export const poiExtraUaeReliefV2: POI[] = [
     parent: "AE-SH",
     coords: [55.8286, 25.1432],
     name: { de: "Fossil Rock", hu: "Fosszília-szikla", ro: "Fossil Rock", en: "Fossil Rock"},
-    image: "/poi-images/fossil-rock-relief-v2.webp",
     description: { de: "Ein markanter Kalksteinfelsen inmitten der Wüste, in dem man Abdrücke uralter Meereslebewesen finden kann.", hu: "Jellegzetes mészkőszikla a sivatag közepén, amelyben ősi tengeri élőlények lenyomatai találhatók.", ro: "O stâncă de calcar izbitoare în mijlocul deșertului, unde se pot găsi amprente ale creaturilor marine antice.", en: "A striking limestone rock in the middle of the desert where one can find imprints of ancient marine life." , es: "Una llamativa formación rocosa de piedra caliza en medio del desierto, donde se pueden encontrar huellas de antiguas criaturas marinas.", pt: "Uma notável formação rochosa de calcário no meio do deserto, onde se podem encontrar marcas de antigas criaturas marinhas.", fr: "Une formation rocheuse calcaire frappante au milieu du désert, où l'on peut trouver des empreintes d'anciennes créatures marines."},
     facts: {
       de: ["Bekannt als Jebel Maleihah.", "Enthält Millionen Jahre alte Meeresfossilien.", "Ein Beweis dafür, dass die Wüste einst ein Meer war.", "Ein beliebtes Ziel für Wanderungen bei Sonnenuntergang."],
@@ -2942,7 +2929,6 @@ export const poiExtraUaeReliefV2: POI[] = [
     parent: "AE-SH",
     coords: [56.3500, 25.3333],
     name: { de: "Küste von Khor Fakkan", hu: "Khor Fakkan partvidéke", ro: "Coasta Khor Fakkan", en: "Khor Fakkan Coast"},
-    image: "/poi-images/khor-fakkan-coast-relief-v2.webp",
     description: { de: "Eine malerische, hufeisenförmige Bucht am Golf von Oman, die für ihr klares Wasser und ihre Tauchplätze berühmt ist.", hu: "Festői, patkó alakú öböl az Ománi-öbölnél, amely tiszta vizéről és merülőhelyeiről híres.", ro: "Un golf pitoresc în formă de potcoavă în Golful Oman, renumit pentru apele sale limpezi și siturile de scufundări.", en: "A picturesque, horseshoe-shaped bay on the Gulf of Oman, famous for its clear waters and dive sites." , es: "Una pintoresca bahía en forma de herradura en el Golfo de Omán, famosa por sus aguas cristalinas y sitios de buceo.", pt: "Uma pitoresca baía em forma de ferradura no Golfo de Omã, famosa pelas suas águas cristalinas e locais de mergulho.", fr: "Une baie pittoresque en forme de fer à cheval sur le golfe d'Oman, célèbre pour ses eaux cristallines et ses sites de plongée."},
     facts: {
       de: ["Einer der schönsten Küstenabschnitte der VAE.", "Bietet Korallenriffe, die ideal zum Tauchen sind.", "Von rauen Bergen im Hintergrund umgeben.", "Liegt an der Ostküste zum Golf von Oman."],
@@ -3023,7 +3009,6 @@ export const poiExtraUaeReliefV2: POI[] = [
     parent: "AE-RK",
     coords: [56.1000, 25.8167],
     name: { de: "Wadi Bih-Plateau", hu: "Vadi Bih-fennsík", ro: "Platoul Wadi Bih", en: "Wadi Al Bih Plateau"},
-    image: "/poi-images/wadi-al-bih-plateau-relief-v2.webp",
     description: { de: "Ein weites, unberührtes Hochplateau, das sich tief in die Berge schneidet und ein dramatisches Landschaftsbild bietet.", hu: "Hatalmas, érintetlen magasföld, amely mélyen a hegyekbe vág, és drámai tájképet kínál.", ro: "Un platou înalt vast, neatins, care taie adânc în munți și oferă un peisaj dramatic.", en: "A vast, pristine high plateau cutting deep into the mountains and offering a dramatic landscape." , es: "Una vasta y virgen meseta elevada que se adentra profundamente en las montañas, ofreciendo un paisaje espectacular.", pt: "Um vasto e imaculado planalto elevado que se estende profundamente pelas montanhas, oferecendo uma paisagem dramática.", fr: "Un vaste plateau vierge qui s'enfonce profondément dans les montagnes, offrant un paysage spectaculaire."},
     facts: {
       de: ["Wird oft als der Grand Canyon der VAE bezeichnet.", "Erreicht Höhen von über 1000 Metern.", "Beeindruckt mit tiefen Schluchten und Klippen.", "Eine der spektakulärsten Straßen der Region."],

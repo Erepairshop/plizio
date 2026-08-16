@@ -88,8 +88,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Białowieża-Nationalpark", hu: "Białowieża Nemzeti Park", ro: "Parcul Național Białowieża", en: "Białowieża National Park"},
-    image: "/poi-images/poland-bialowieza-national-park-life-v2.webp",
-    coords: [23.8667, 52.7333],
     coords: [23.8667, 52.7333],
     description: {
       de: "Dieses Schutzgebiet bewahrt den letzten Tiefland-Urwald Europas an der Grenze zu Belarus. Es ist bekannt für die weltweit größte freilebende Population des Europäischen Wisents.",
@@ -134,7 +132,6 @@ export const polandLifeV2: POI[] = [
     type: "wildlife",
     name: { de: "Nationalpark Tatra", hu: "Tátra Nemzeti Park", ro: "Parcul Național Tatra", en: "Tatra National Park"},
     image: "/poi-images/poland-tatra-national-park-life-v2.webp",
-    coords: [19.9833, 49.25],
     coords: [19.9833, 49.25],
     description: {
       de: "Der Park schützt die alpine Flora und Fauna des einzigen Hochgebirges Polens. Hier leben seltene Tierarten wie die Tatra-Gämse, der Braunbär und der Steinadler.",
@@ -296,8 +293,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Biebrza-Nationalpark", hu: "Biebrza Nemzeti Park", ro: "Parcul Național Biebrza", en: "Biebrza National Park"},
-    image: "/poi-images/poland-biebrza-national-park-life-v2.webp",
-    coords: [22.8, 53.6],
     coords: [22.8, 53.6],
     description: {
       de: "Dies ist der größte Nationalpark Polens, der weite Sumpf- und Torfgebiete entlang des Flusses Biebrza umfasst. Er ist ein bedeutendes Refugium für Elche und seltene Sumpfvögel.",
@@ -386,8 +381,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Slowinzischer Nationalpark", hu: "Slowinski Nemzeti Park", ro: "Parcul Național Słowiński", en: "Słowiński National Park"},
-    image: "/poi-images/poland-slowinski-national-park-life-v2.webp",
-    coords: [17.4, 54.7],
     coords: [17.4, 54.7],
     description: {
       de: "Bekannt für seine Wanderdünen an der Ostseeküste, schützt dieser Park auch Flachwasserseen und Küstenwälder. Er ist ein wichtiger Rastplatz für Zugvögel.",
@@ -656,8 +649,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Nationalpark Bieszczady", hu: "Bieszczady Nemzeti Park", ro: "Parcul Național Bieszczady", en: "Bieszczady National Park"},
-    image: "/poi-images/poland-bieszczady-national-park-life-v2.webp",
-    coords: [22.6, 49.1],
     coords: [22.6, 49.1],
     description: {
       de: "Der Park schützt die Bergwiesen und Buchenwälder der Ostkarpaten. Er beherbergt die größten Populationen von Braunbären, Wölfen und Luchsen in Polen.",
@@ -890,8 +881,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Nationalpark Kampinos", hu: "Kampinos Nemzeti Park", ro: "Parcul Național Kampinos", en: "Kampinos National Park"},
-    image: "/poi-images/poland-kampinos-national-park-life-v2.webp",
-    coords: [20.5833, 52.3167],
     coords: [20.5833, 52.3167],
     description: {
       de: "Direkt vor den Toren Warschaus gelegen, umfasst dieser Park Binnendünen und Sumpfgebiete. Er ist bekannt für die erfolgreiche Wiederansiedlung des Elches.",
@@ -916,7 +905,6 @@ export const polandLifeV2: POI[] = [
       de: "Der Kampinos-Nationalpark bietet ein bemerkenswertes Naturphänomen: Ein riesiges, unberührtes Wald- und Sumpfgebiet, das sich direkt an die nordwestliche Stadtgrenze der Millionenmetropole Warschau anschließt. Er ist einer der ganz wenigen Nationalparks weltweit, die unmittelbar an eine europäische Hauptstadt grenzen. Die Landschaft ist geprägt von einem einzigartigen Wechselspiel aus trockenen, eiszeitlichen Binnendünen, die mit dichten Kiefernwäldern bewachsen sind, und ausgedehnten, schwer zugänglichen Niedermooren in den Senken. Diese ökologischen Gegensätze schaffen einen Lebensraum für eine immense Vielfalt an Pflanzen und Tieren. Berühmt ist der Park für sein äußerst erfolgreiches Wiederansiedlungsprogramm des Europäischen Elches, der heute das unangefochtene Symbol des Schutzgebietes ist und oft beim Äsen in den Sumpfgebieten beobachtet werden kann. Zudem bietet das über 350 Kilometer lange Netz an Wander- und Radwegen den Hauptstädtern ein unverzichtbares Erholungsgebiet.",
       hu: "A Kampinos Nemzeti Park figyelemre méltó természeti jelenséget kínál: egy hatalmas, érintetlen erdő- és mocsárvidéket, amely közvetlenül csatlakozik az egymilliós metropolisz, Varsó északnyugati városhatárához. Ez egyike azon kevés nemzeti parkoknak a világon, amelyek közvetlenül határosak egy európai fővárossal. A tájat a száraz, jégkorszaki belső dűnék (amelyeket sűrű fenyvesek borítanak) és a mélyedésekben húzódó, nehezen megközelíthető, kiterjedt síklápok egyedülálló váltakozása jellemzi. Ezek az ökológiai ellentétek hatalmas növény- és állatvilág számára teremtenek élőhelyet. A park híres a rendkívül sikeres európai jávorszarvas-visszatelepítési programjáról; az állat ma a védett terület vitathatatlan jelképe, és gyakran megfigyelhető, amint a mocsaras területeken legelészik. Ezenkívül a több mint 350 kilométeres túra- és kerékpárút-hálózat nélkülözhetetlen kikapcsolódási lehetőséget kínál a fővárosiaknak.",
       ro: "Parcul Național Kampinos oferă un fenomen natural remarcabil: o zonă vastă și neatinsă de păduri și mlaștini care se învecinează direct cu granița de nord-vest a metropolei Varșovia. Este unul dintre puținele parcuri naționale din lume situate imediat lângă o capitală europeană. Peisajul se caracterizează printr-o alternanță unică de dune continentale uscate din era glaciară, acoperite de păduri dense de pini, și mlaștini joase extinse și greu accesibile în depresiuni. Aceste contraste ecologice creează un habitat pentru o diversitate imensă de plante și animale. Parcul este faimos pentru programul său extrem de reușit de reintroducere a elanului european, care este astăzi simbolul incontestabil al zonei protejate și poate fi adesea observat păscând în zonele mlăștinoase. În plus, rețeaua de peste 350 de kilometri de trasee de drumeții și ciclism oferă locuitorilor capitalei o zonă de recreere indispensabilă.",
-      en: "",
       en: "Kampinos National Park presents a remarkable natural phenomenon: a vast, unspoiled tract of forest and marshland directly adjoining the northwestern city limits of the metropolis of Warsaw. It is one of the very few national parks worldwide located immediately adjacent to a European capital. The landscape is characterized by a unique interplay of dry, glacial inland dunes covered with dense pine forests, and extensive, difficult-to-access fens in the depressions. These ecological contrasts create a habitat for an immense variety of flora and fauna. The park is famous for its highly successful reintroduction program of the European elk (moose), which is today the undisputed symbol of the protected area and can often be observed browsing in the marshlands. Furthermore, the network of over 350 kilometers of hiking and cycling trails provides an indispensable recreation area for the city's residents.",
       es: "El Parque Nacional de Kampinos ofrece un fenómeno natural notable: una vasta zona virgen de bosques y pantanos que se une directamente al límite noroeste de la metrópoli de Varsovia. Es uno de los poquísimos parques nacionales del mundo que lindan directamente con una capital europea. El paisaje está marcado por una interacción única de dunas interiores secas de la edad de hielo, cubiertas de densos bosques de pinos, y extensos pantanos de difícil acceso en las depresiones. Estos contrastes ecológicos crean un hábitat para una inmensa diversidad de plantas y animales. El parque es famoso por su programa de reintroducción del alce europeo, que hoy es el símbolo indiscutible de la zona protegida y a menudo se le puede observar alimentándose en los pantanos. Además, la red de más de 350 kilómetros de senderos y rutas ciclistas ofrece a los habitantes de la capital una zona de recreo indispensable.",
       pt: "O Parque Nacional de Kampinos oferece um fenómeno natural notável: uma vasta área de floresta e pântano intocada que faz fronteira direta com a metrópole de Varsóvia. É um dos poucos parques nacionais do mundo que confina diretamente com uma capital europeia. A paisagem é marcada pela interação entre dunas interiores secas da Idade do Gelo e extensos pântanos de difícil acesso. Estes contrastes ecológicos criam um habitat para uma imensa diversidade de fauna e flora. O parque é famoso pelo seu programa de reintrodução do alce europeu, que é hoje o símbolo da área protegida. Além disso, a rede de mais de 350 quilómetros de trilhos oferece aos habitantes da capital uma zona de lazer indispensável.",
@@ -936,8 +924,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Zoo Breslau", hu: "Wrocławi Állatkert", ro: "Grădina Zoologică din Wrocław", en: "Wrocław Zoo"},
-    image: "/poi-images/poland-wroclaw-zoo-life-v2.webp",
-    coords: [17.075, 51.105],
     coords: [17.075, 51.105],
     description: {
       de: "Dies ist der älteste und artenreichste Zoo Polens. Eine Hauptattraktion ist das Afrykarium, ein riesiger Komplex, der den Ökosystemen Afrikas gewidmet ist.",
@@ -1026,8 +1012,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Zoo Warschau", hu: "Varsói Állatkert", ro: "Grădina Zoologică din Varșovia", en: "Warsaw Zoo"},
-    image: "/poi-images/poland-warsaw-zoo-life-v2.webp",
-    coords: [21.0222, 52.2583],
     coords: [21.0222, 52.2583],
     description: {
       de: "Der Zoo am Ufer der Weichsel ist bekannt für seine historische Bedeutung im Zweiten Weltkrieg und beherbergt heute über 5.000 Tiere aus aller Welt.",
@@ -1188,8 +1172,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Pieninen-Nationalpark", hu: "Pieniny Nemzeti Park", ro: "Parcul Național Pieniny", en: "Pieniny National Park"},
-    image: "/poi-images/poland-pieniny-national-park-life-v2.webp",
-    coords: [20.3833, 49.4167],
     coords: [20.3833, 49.4167],
     description: {
       de: "Der Park umfasst die Pieninen-Berge und den spektakulären Dunajec-Durchbruch. Er ist berühmt für seine endemischen Pflanzen wie den Pieninen-Löwenzahn.",
@@ -1314,8 +1296,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Nationalpark Wigry", hu: "Wigry Nemzeti Park", ro: "Parcul Național Wigry", en: "Wigry National Park"},
-    image: "/poi-images/poland-wigry-national-park-life-v2.webp",
-    coords: [23.0833, 54.0167],
     coords: [23.0833, 54.0167],
     description: {
       de: "Dieser Park im Nordosten Polens schützt den Wigry-See und umliegende Urwälder. Er ist ein bedeutendes Habitat für Biber, die sogar das Logo des Parks zieren.",
@@ -1548,8 +1528,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Nationalpark Karkonosze", hu: "Karkonosze Nemzeti Park", ro: "Parcul Național Karkonosze", en: "Karkonosze National Park"},
-    image: "/poi-images/poland-karkonosze-national-park-life-v2.webp",
-    coords: [15.6333, 50.75],
     coords: [15.6333, 50.75],
     description: {
       de: "Das Schutzgebiet im Riesengebirge bewahrt subalpine Ökosysteme und Moore. Es ist bekannt für seine eiszeitlichen Reliktpflanzen und markanten Granitfelsen.",
@@ -1962,8 +1940,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Nationalpark Wolin", hu: "Wolin Nemzeti Park", ro: "Parcul Național Wolin", en: "Wolin National Park"},
-    image: "/poi-images/poland-wolinski-national-park-life-v2.webp",
-    coords: [14.5, 53.9333],
     coords: [14.5, 53.9333],
     description: {
       de: "Auf der Insel Wolin gelegen, schützt dieser Park Steilküsten an der Ostsee und Buchenwälder. Er beherbergt ein Wisent-Schaugehege und ist Lebensraum für Seeadler.",
@@ -2196,8 +2172,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Nationalpark Babia Góra", hu: "Babia Góra Nemzeti Park", ro: "Parcul Național Babia Góra", en: "Babia Góra National Park"},
-    image: "/poi-images/poland-babia-gora-national-park-life-v2.webp",
-    coords: [19.5333, 49.5833],
     coords: [19.5333, 49.5833],
     description: {
       de: "Der Park um den Berg Babia Góra ist ein Biosphärenreservat mit einer ausgeprägten vertikalen Vegetationsschichtung, von Buchenwäldern bis hin zur alpinen Stufe.",
@@ -2502,8 +2476,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Nationalpark Roztocze", hu: "Roztocze Nemzeti Park", ro: "Parcul Național Roztocze", en: "Roztocze National Park"},
-    image: "/poi-images/poland-roztocze-national-park-life-v2.webp",
-    coords: [23.0, 50.6],
     coords: [23.0, 50.6],
     description: {
       de: "In den Hügeln Südostpolens gelegen, schützt dieser Park wertvolle Tannen- und Buchenwälder. Er ist berühmt für die Zucht des Polnischen Konik, einer Wildpferderasse.",
@@ -2736,8 +2708,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Nationalpark Heuscheuergebirge", hu: "Tábla-hegység Nemzeti Park", ro: "Parcul Național Munții Stołowe", en: "Stołowe Mountains National Park"},
-    image: "/poi-images/poland-stolowe-mountains-life-v2.webp",
-    coords: [16.3333, 50.45],
     coords: [16.3333, 50.45],
     description: {
       de: "Der Park schützt die einzige Tafelberg-Landschaft Polens mit bizarren Felsformationen. Er bietet einzigartige Lebensräume für Flechten, Moose und Farne.",
@@ -2934,8 +2904,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Nationalpark Polesie", hu: "Polesie Nemzeti Park", ro: "Parcul Național Polesie", en: "Polesie National Park"},
-    image: "/poi-images/poland-polesie-national-park-life-v2.webp",
-    coords: [23.1833, 51.45],
     coords: [23.1833, 51.45],
     description: {
       de: "Dieser Park schützt eine einzigartige Tundra- und Waldtundra-Landschaft mit zahlreichen Seen und Mooren. Er ist eines der wichtigsten Habitate der Europäischen Sumpfschildkröte.",
@@ -3132,8 +3100,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Nationalpark Warthemündung", hu: "Warta-torkolat Nemzeti Park", ro: "Parcul Național Ujście Warty", en: "Ujście Warty National Park"},
-    image: "/poi-images/poland-ujscie-warty-national-park-life-v2.webp",
-    coords: [14.7167, 52.6],
     coords: [14.7167, 52.6],
     description: {
       de: "An der Mündung der Warthe in die Oder gelegen, schützt dieser Park wertvolle Feuchtwiesen und Überschwemmungsgebiete. Er ist ein Paradies für Wasservögel.",
@@ -3294,8 +3260,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Nationalpark Ojców", hu: "Ojcówi Nemzeti Park", ro: "Parcul Național Ojców", en: "Ojców National Park"},
-    image: "/poi-images/poland-ojcow-national-park-life-v2.webp",
-    coords: [19.8333, 50.2167],
     coords: [19.8333, 50.2167],
     description: {
       de: "Trotz seiner geringen Größe bietet der Park spektakuläre Kalksteinfelsen und zahlreiche Höhlen. Er ist bekannt für seine reiche Fledermausfauna.",
@@ -3456,8 +3420,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Heiligkreuz-Nationalpark", hu: "Szentkereszt Nemzeti Park", ro: "Parcul Național Świętokrzyski", en: "Świętokrzyski National Park"},
-    image: "/poi-images/poland-swietokrzyski-national-park-life-v2.webp",
-    coords: [20.9667, 50.8833],
     coords: [20.9667, 50.8833],
     description: {
       de: "Der Park schützt den zentralen Teil des Heiligkreuzgebirges mit seinen charakteristischen Blockhalden und alten Tannenwäldern. Er bewahrt eine Flora mit alpinen Elementen.",
@@ -3726,8 +3688,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Nationalpark Tucheler Heide", hu: "Tuchola-erdő Nemzeti Park", ro: "Parcul Național Bory Tucholskie", en: "Bory Tucholskie National Park"},
-    image: "/poi-images/poland-bory-tucholskie-national-park-life-v2.webp",
-    coords: [17.5167, 53.85],
     coords: [17.5167, 53.85],
     description: {
       de: "Dieser Park schützt einen Teil eines der größten Waldgebiete Polens. Er ist geprägt durch Sanderflächen, Kiefernwälder und zahlreiche kristallklare Seen.",
@@ -3771,8 +3731,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Zoo Lodz", hu: "Łódźi Állatkert", ro: "Grădina Zoologică din Łódź", en: "Łódź Zoo"},
-    image: "/poi-images/poland-lodz-zoo-life-v2.webp",
-    coords: [19.4111, 51.7639],
     coords: [19.4111, 51.7639],
     description: {
       de: "Dieser moderne Zoo ist vor allem für sein Orientarium bekannt, ein riesiges Gebäude, das der Fauna und Flora Südostasiens gewidmet ist.",
@@ -3933,8 +3891,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Botanischer Garten Krakau", hu: "Krakkói Botanikus Kert", ro: "Grădina Botanică din Cracovia", en: "Kraków Botanical Garden"},
-    image: "/poi-images/poland-krakow-botanical-garden-life-v2.webp",
-    coords: [19.9578, 50.0617],
     coords: [19.9578, 50.0617],
     description: {
       de: "Der Garten der Jagiellonen-Universität ist der älteste botanische Garten Polens. Er beherbergt wertvolle Sammlungen tropischer Pflanzen und historischer Palmen.",
@@ -3978,8 +3934,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Zoo Danzig", hu: "Gdański Állatkert", ro: "Grădina Zoologică din Gdańsk", en: "Gdańsk Zoo"},
-    image: "/poi-images/poland-gdansk-zoo-life-v2.webp",
-    coords: [18.5397, 54.4072],
     coords: [18.5397, 54.4072],
     description: {
       de: "Der Zoo in Danzig-Oliwa liegt in einem malerischen Tal und ist flächenmäßig einer der größten Zoos Polens. Er ist bekannt für seine Zuchterfolge bei Kondoren.",
@@ -4023,8 +3977,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Botanischer Garten Breslau", hu: "Wrocławi Botanikus Kert", ro: "Grădina Botanică din Wrocław", en: "Wrocław Botanical Garden"},
-    image: "/poi-images/poland-wroclaw-botanical-life-v2.webp",
-    coords: [17.0469, 51.1164],
     coords: [17.0469, 51.1164],
     description: {
       de: "Auf der Dominsel gelegen, bietet dieser Garten eine reiche Sammlung von Wasser- und Sumpfpflanzen sowie ein Alpinum. Er ist eine grüne Oase im Stadtzentrum.",
@@ -4068,8 +4020,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Neuer Zoo Posen", hu: "Poznańi Új Állatkert", ro: "Grădina Zoologică Nouă din Poznań", en: "Poznań New Zoo"},
-    image: "/poi-images/poland-poznan-new-zoo-life-v2.webp",
-    coords: [17.0, 52.4],
     coords: [17.0, 52.4],
     description: {
       de: "Dieser weitläufige Waldzoo ist bekannt für seine naturnahen Gehege und die Rettungsstation für Bären. Er beherbergt auch seltene Sibirische Tiger.",
@@ -4338,8 +4288,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Nationalpark Magura", hu: "Magura Nemzeti Park", ro: "Parcul Național Magura", en: "Magura National Park"},
-    image: "/poi-images/poland-magura-national-park-life-v2.webp",
-    coords: [21.5, 49.5167],
     coords: [21.5, 49.5167],
     description: {
       de: "Der Park im Herzen der Niederen Beskiden schützt wertvolle Buchen- und Tannenwälder. Er ist ein wichtiges Refugium für Greifvögel wie den Schreiadler.",
@@ -4536,8 +4484,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Narwiański-Nationalpark", hu: "Narew Nemzeti Park", ro: "Parcul Național Narwiański", en: "Narwiański National Park"},
-    image: "/poi-images/poland-narwianski-national-park-life-v2.webp",
-    coords: [22.8333, 53.1167],
     coords: [22.8333, 53.1167],
     description: {
       de: "Der Park schützt das anastomosierende Flusssystem der Narew, das auch als 'Polnischer Amazonas' bezeichnet wird. Er ist geprägt von ausgedehnten Schilfflächen.",
@@ -4770,8 +4716,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Nationalpark Gorce", hu: "Gorce Nemzeti Park", ro: "Parcul Național Gorce", en: "Gorce National Park"},
-    image: "/poi-images/poland-gorce-national-park-life-v2.webp",
-    coords: [20.15, 49.5833],
     coords: [20.15, 49.5833],
     description: {
       de: "Dieser Park in den Westkarpaten schützt dichte Nadelwälder und Bergwiesen. Er ist bekannt für seine Vorkommen des Feuersalamanders, der auch das Parklogo ziert.",
@@ -4896,8 +4840,6 @@ export const polandLifeV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Nationalpark Drawa", hu: "Drawa Nemzeti Park", ro: "Parcul Național Drawieński", en: "Drawieński National Park"},
-    image: "/poi-images/poland-drawienski-national-park-life-v2.webp",
-    coords: [15.95, 53.15],
     coords: [15.95, 53.15],
     description: {
       de: "Der Park schützt das unberührte Tal des Flusses Drawa und weite Waldgebiete. Er ist ein wichtiger Lebensraum für Fischotter und den seltenen Eisvogel.",
@@ -4942,7 +4884,6 @@ export const polandLifeV2: POI[] = [
     type: "wildlife",
     name: { de: "Alpiner Botanischer Garten Zakopane", hu: "Zakopanei Alpesi Botanikus Kert", ro: "Grădina Botanică Alpină din Zakopane", en: "Zakopane Alpine Botanical Garden"},
     image: "/poi-images/poland-zakopane-botanical-life-v2.webp",
-    coords: [19.9575, 49.2889],
     coords: [19.9575, 49.2889],
     description: {
       de: "Dieser Garten ist spezialisiert auf die Flora der Tatra und anderer polnischer Gebirge. Er bewahrt seltene alpine Pflanzenarten in ihrer natürlichen Umgebung.",

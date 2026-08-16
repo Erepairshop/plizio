@@ -8,7 +8,6 @@ export const poiExtraCameroonReliefV2: POI[] = [
     parent: "CM-AD",
     coords: [13.0, 7.0],
     name: { de: "Adamaua-Plateau", hu: "Adamaua-fennsík", ro: "Podișul Adamawa", en: "Adamawa Plateau"},
-    image: "/poi-images/adamaoua-plateau-relief-v2.webp",
     description: { de: "Ein großes Hochplateau, das den Norden vom Süden Kameruns trennt.", hu: "Az Adamaoua-fennsík Kamerun középső részének magas, hullámos térszíne. A szavanna és az erdős öv közötti átmeneti zóna.", ro: "Un podiș înalt care separă nordul de sudul Camerunului.", en: "A large high plateau that separates the north from the south of Cameroon." , es: "Una gran meseta que separa el norte del sur de Camerún.", pt: "Um grande planalto que separa o norte do sul dos Camarões.", fr: "Un grand plateau qui sépare le nord du sud du Cameroun."},
     facts: {
       de: ["Durchschnittshöhe: 1000 m", "Wichtige Wasserscheide", "Savannenlandschaft"],
@@ -43,7 +42,6 @@ export const poiExtraCameroonReliefV2: POI[] = [
     parent: "CM-EN",
     coords: [13.8, 10.8],
     name: { de: "Mandara-Gebirge", hu: "Mandara-hegység", ro: "Munții Mandara", en: "Mandara Mountains"},
-    image: "/poi-images/mandara-mountains-relief-v2.webp",
     description: { de: "Die Mandara-Berge bilden eine raue Höhenzone im Norden Kameruns. Ihr zerfurchtes Gelände prägt die Landschaft an der Grenze zu Nigeria.", hu: "A Mandara-hegység az északi határvidék tagolt vonulata. A dombos, vulkanikus táj sok helyen meredek.", ro: "Un lanț muntos vulcanic la granița cu Nigeria.", en: "The Mandara Mountains are a dramatic volcanic range in the Far North, known for their rugged beauty and unique terrace farming." , es: "Los Montes Mandara forman una zona de tierras altas escarpadas en el norte de Camerún. Su terreno accidentado define el paisaje en la frontera con Nigeria.", pt: "Os Montes Mandara formam uma zona de terras altas escarpadas no norte dos Camarões. O seu terreno acidentado define a paisagem na fronteira com a Nigéria.", fr: "Les Monts Mandara forment une zone de hautes terres escarpées dans le nord du Cameroun. Leur terrain accidenté définit le paysage à la frontière avec le Nigeria."},
     facts: {
       de: ["Gebirge im Norden", "Grenzraum zu Nigeria", "zerklüftetes Relief"],
@@ -393,7 +391,6 @@ export const poiExtraCameroonReliefV2: POI[] = [
     parent: "CM-SW",
     coords: [9.2, 4.5],
     name: { de: "Mount Oissa", hu: "Oissa-hegy", ro: "Muntele Oissa", en: "Mount Oissa"},
-    image: "/poi-images/mount-oissa-relief-v2.webp",
     description: { de: "Der Mount Ossa liegt im Küstenraum Kameruns und gehört zu den lokalen Höhenzügen. Er formt ein eher sanftes, aber klares Reliefprofil.", hu: "Az Oissa-hegy kisebb, tagolt magaslati tömb a középső kameruni dombvidéken. A környező lefolyási rendszert is befolyásolja.", ro: "Muntele Oissa este o ridicare de relief din zona centrală a Camerunului. Culoarea verde a versanților arată un mediu tropical dens.", en: "Mount Oissa is a notable elevation in central Cameroon, contributing to the varied and hilly topography of the region." , es: "El monte Oissa se encuentra en la zona costera de Camerún y pertenece a las crestas locales. Forma un perfil de relieve más bien suave pero claro.", pt: "O monte Oissa está localizado na zona costeira dos Camarões e pertence às cristas locais. Forma um perfil de relevo suave, mas claro.", fr: "Le mont Oissa est situé dans la zone côtière du Cameroun et fait partie des massifs locaux. Il dessine un profil de relief plutôt doux mais net."},
     facts: {
       de: ["im Küstenraum", "lokaler Höhenzug", "prägt die Umgebung"],
@@ -474,7 +471,6 @@ export const poiExtraCameroonReliefV2: POI[] = [
     parent: "CM-LT",
     coords: [9.9, 4.9],
     name: { de: "Nlonako-Gebirge", hu: "Nlonako-hegység", ro: "Munții Nlonako", en: "Nlonako Mountains"},
-    image: "/poi-images/nlonako-mountains-relief-v2.webp",
     description: { de: "Die Nlonako-Berge gehören zu den Hügel- und Bergformen des westkamerunischen Küstenhinterlands. Sie sind Teil eines abwechslungsreichen Reliefs.", hu: "A Nlonako-hegység a nyugati vulkáni domborzathoz tartozik. Hegyvidéki erdők és meredek lejtők jellemzik.", ro: "Un lanț muntos în ținuturile înalte de vest.", en: "The Nlonako Mountains are part of Cameroon's western volcanic line, featuring dense forests and significant biodiversity." , es: "Las montañas Nlonako pertenecen a las formas de colinas y montañas del interior costero del oeste de Camerún. Son parte de un relieve variado.", pt: "As montanhas Nlonako pertencem às formas de colinas e montanhas do interior costeiro do oeste dos Camarões. Fazem parte de um relevo variado.", fr: "Les montagnes Nlonako font partie des collines et massifs de l'arrière-pays côtier de l'ouest du Cameroun. Elles s'intègrent dans un relief varié."},
     facts: {
       de: ["im Westen Kameruns", "Hügel- und Bergland", "Teil des Küstenhinterlands"],
@@ -1455,7 +1451,6 @@ export const poiExtraCameroonReliefV2: POI[] = [
     parent: "CM-AD",
     coords: [11.8, 7.3],
     name: { de: "Tchabal Mbabo", hu: "Tchabal Mbabo-hegy", ro: "Muntele Tchabal Mbabo", en: "Tchabal Mbabo"},
-    image: "/poi-images/mount-tchabal-mbabo-relief-v2.webp",
     description: { de: "Der Tchabal-Mbabo ist ein hohes Bergmassiv im Norden des Landes. Er gehört zu den wichtigsten Höhenzügen an der Grenze zu Nigeria.", hu: "Magas csúcs az Adamaua-fennsíkon.", ro: "Un vârf înalt pe podișul Adamawa.", en: "Mount Tchabal Mbabo is one of the highest peaks in the Adamawa Region, offering rugged terrain and panoramic views of the plateau." , es: "El Tchabal Mbabo es un macizo montañoso elevado en el norte del país. Pertenece a las crestas más importantes en la frontera con Nigeria.", pt: "O Tchabal Mbabo é um maciço montanhoso elevado no norte do país. Pertence às cristas mais importantes na fronteira com a Nigéria.", fr: "Le Tchabal Mbabo est un massif montagneux élevé situé dans le nord du pays. Il fait partie des chaînes les plus importantes à la frontière avec le Nigeria."},
     facts: {
       de: ["hohes Bergmassiv", "im Norden Kameruns", "Grenzraum zu Nigeria"],
@@ -1491,7 +1486,6 @@ export const poiExtraCameroonReliefV2: POI[] = [
     parent: "CM-NW",
     coords: [10.3, 6.2],
     name: { de: "Mount Oko", hu: "Oko-hegy", ro: "Muntele Oko", en: "Mount Oko"},
-    image: "/poi-images/mount-oko-relief-v2.webp",
     description: { de: "Der Berg Oku liegt im Nordwesten Kameruns und ist Teil der vulkanischen Hochländer. Er bildet eine markante Erhebung in der Region.", hu: "Az Oku-hegy a Bamenda-fennsík magas vulkáni tömbje. A környező krátertavakhoz is kapcsolódik.", ro: "Un vârf important în ținuturile Bamenda.", en: "A significant peak in the Bamenda Highlands." , es: "El monte Oko se encuentra en el noroeste de Camerún y forma parte de las tierras altas volcánicas. Constituye una elevación prominente en la región.", pt: "O monte Oko situa-se no noroeste dos Camarões e faz parte do planalto vulcânico. Constitui uma elevação proeminente na região.", fr: "Le mont Oko est situé dans le nord-ouest du Cameroun et fait partie des hauts plateaux volcaniques. Il constitue une élévation marquante dans la région."},
     facts: {
       de: ["im Nordwesten", "vulkanische Hochländer", "markante Erhebung"],
@@ -1527,7 +1521,6 @@ export const poiExtraCameroonReliefV2: POI[] = [
     parent: "CM-NW",
     coords: [10.5, 6.2],
     name: { de: "Mount Oku", hu: "Oku-hegy", ro: "Muntele Oku", en: "Mount Oku"},
-    image: "/poi-images/mount-o-ku-relief-v2.webp",
     description: { de: "Der O-Ku-Berg gehört zu den lokalen Höhenformen im Westen Kameruns. Er ergänzt das Relief der umliegenden Hochland- und Waldgebiete.", hu: "Az O-Ku-hegy a közép-nyugati hegyvidéki térség egyik magas pontja. Az erdős vulkáni táj része.", ro: "Al doilea cel mai înalt munte din ținuturile înalte de vest.", en: "Mount Oku is a high mountain in northwest Cameroon. It belongs to the volcanic chain that shapes the Bamenda highlands." , es: "El monte Oku pertenece a las formaciones de altura locales en el oeste de Camerún. Complementa el relieve de las tierras altas y áreas boscosas circundantes.", pt: "O monte Oku pertence às formações de altitude locais no oeste dos Camarões. Complementa o relevo das terras altas e áreas florestais circundantes.", fr: "Le mont Oku fait partie des formations d'altitude locales de l'ouest du Cameroun. Il complète le relief des hauts plateaux et des zones forestières environnantes."},
     facts: {
       de: ["lokaler Berg", "im Westen Kameruns", "Teil des Hochlands"],
@@ -1563,7 +1556,6 @@ export const poiExtraCameroonReliefV2: POI[] = [
     parent: "CM-SW",
     coords: [9.1, 4.8],
     name: { de: "Rumpi-Hills", hu: "Rumpi-dombság", ro: "Dealurile Rumpi", en: "Rumpi Hills"},
-    image: "/poi-images/mount-rumpi-relief-v2.webp",
     description: { de: "Die Rumpi-Berge liegen im Südwesten Kameruns und steigen aus dem Küstenraum auf. Ihr steiles Relief trennt Küste und Hinterland.", hu: "A Rumpi-hegység a délnyugati partvidék fölé magasodik. Erdős lejtők és meredek terep jellemzi.", ro: "Masivul Rumpi se află în sud-vestul Camerunului și domină zona de coastă. Relieful său abrupt face tranziția spre pădurea tropicală.", en: "The Rumpi Hills are a volcanic mountain range in the Southwest Region, known for their steep slopes and dense tropical forests." , es: "Las colinas Rumpi se encuentran en el suroeste de Camerún y se elevan desde la zona costera. Su relieve escarpado separa la costa del interior.", pt: "As colinas Rumpi situam-se no sudoeste dos Camarões e elevam-se da zona costeira. O seu relevo íngreme separa a costa do interior.", fr: "Les collines de Rumpi sont situées au sud-ouest du Cameroun et s'élèvent depuis la zone côtière. Leur relief escarpé sépare la côte de l'arrière-pays."},
     facts: {
       de: ["im Südwesten", "steiles Küstenrelief", "Übergang zum Hinterland"],
@@ -1599,7 +1591,6 @@ export const poiExtraCameroonReliefV2: POI[] = [
     parent: "CM-SW",
     coords: [9.7, 4.9],
     name: { de: "Bakossi-Berge", hu: "Bakossi-hegység", ro: "Munții Bakossi", en: "Bakossi Mountains"},
-    image: "/poi-images/mount-bakossi-relief-v2.webp",
     description: { de: "Die Bakossi-Berge bilden ein bewaldetes Höhengebiet im Westen des Landes. Sie sind durch stark gegliedertes Relief und feuchte Hänge geprägt.", hu: "A Bakossi-hegység a délnyugati magasvidék része. Erdős lejtők és tagolt vulkáni forma jellemzi.", ro: "O zonă muntoasă importantă pentru conservarea naturii.", en: "The Bakossi Mountains form a forested highland in western Cameroon. They are known for steep slopes and a wet mountain climate." , es: "Los Montes Bakossi forman una zona montañosa boscosa en el oeste del país. Se caracterizan por un relieve muy articulado y laderas húmedas.", pt: "Os Montes Bakossi formam uma zona montanhosa arborizada no oeste do país. Caracterizam-se por um relevo muito articulado e encostas húmidas.", fr: "Les monts Bakossi forment une zone montagneuse boisée dans l'ouest du pays. Ils se caractérisent par un relief très articulé et des versants humides."},
     facts: {
       de: ["bewaldetes Höhengebiet", "im Westen Kameruns", "feuchte Berghänge"],
@@ -1671,7 +1662,6 @@ export const poiExtraCameroonReliefV2: POI[] = [
     parent: "CM-SU",
     coords: [11.0, 2.5],
     name: { de: "Ntem-Hügelland", hu: "Ntem-dombság", ro: "Dealurile Ntem", en: "Ntem Hills"},
-    image: "/poi-images/mount-ntem-relief-v2.webp",
     description: { de: "Der Ntem-Raum im Süden Kameruns besteht aus tieferen, wasserreichen Landschaften. Flüsse und Wald prägen dort das Relief deutlich.", hu: "Az Ntem vidéke enyhén hullámos, erdős felszínű délies táj. A folyóvölgyek formálják.", ro: "Relieful Ntem aparține sudului camerunez și se leagă de bazinul aceluiași râu. Zona are forme domoale, acoperite de vegetație densă.", en: "Mount Ntem is a prominent elevation in the South Region, characterized by its dense rainforest cover and rolling hills." , es: "El área del Ntem, en el sur de Camerún, consta de paisajes bajos y ricos en agua. Los ríos y el bosque marcan allí claramente el relieve.", pt: "A zona do Ntem, no sul dos Camarões, consiste em paisagens baixas e ricas em água. Rios e florestas definem claramente o relevo local.", fr: "La zone du Ntem, au sud du Cameroun, se compose de paysages bas et riches en eau. Les rivières et la forêt y marquent nettement le relief."},
     facts: {
       de: ["südlicher Flussraum", "wasserreiche Landschaft", "von Wald geprägt"],
@@ -1707,7 +1697,6 @@ export const poiExtraCameroonReliefV2: POI[] = [
     parent: "CM-SU",
     coords: [13.0, 3.0],
     name: { de: "Dja-Becken", hu: "Dja-medence", ro: "Bazinul Dja", en: "Dja Basin"},
-    image: "/poi-images/mount-dja-relief-v2.webp",
     description: { de: "Der Dja-Raum gehört zu den weitläufigen Wald- und Flusslandschaften im Südosten Kameruns. Das Relief ist dort eher sanft und stark bewaldet.", hu: "A Dja térsége alacsony dombok és erdős fennsíkok vidéke. A középső-déli átmeneti öv része.", ro: "Un bazin de câmpie plat, dar puternic împădurit.", en: "The Dja area in southeastern Cameroon is made up of low hills and dense forest terrain. It belongs to the country's southern upland zone." , es: "El área del Dja pertenece a los extensos paisajes de bosques y ríos del sureste de Camerún. El relieve allí es más bien suave y densamente boscoso.", pt: "A área do Dja pertence às extensas paisagens de florestas e rios do sudeste dos Camarões. O relevo ali é suave e densamente arborizado.", fr: "La zone du Dja fait partie des vastes paysages de forêts et de rivières du sud-est du Cameroun. Le relief y est plutôt doux et fortement boisé."},
     facts: {
       de: ["im Südosten Kameruns", "sanftes Relief", "dichter Waldraum"],
@@ -1779,7 +1768,6 @@ export const poiExtraCameroonReliefV2: POI[] = [
     parent: "CM-NO",
     coords: [14.0, 8.5],
     name: { de: "Bouba-Ndjidda-Hochland", hu: "Bouba-Ndjidda-fennsík", ro: "Podișul Bouba-Ndjidda", en: "Bouba-Ndjidda Plateau"},
-    image: "/poi-images/mount-bouba-relief-v2.webp",
     description: { de: "Der Bouba-Raum im Norden gehört zu den offenen Savannen- und Ebenenlandschaften Kameruns. Er ist Teil des trockeneren Reliefs im nördlichen Landesteil.", hu: "A Bouba térsége az északi száraz szavannás síkságokhoz tartozik. A lapos felszín dominál.", ro: "Relieful Bouba este asociat cu nordul Camerunului și cu zone mai deschise de savană. Formele sale sunt mai line decât în zona montană din vest.", en: "Mount Bouba is a significant relief feature in the northern plains, rising above the surrounding savanna landscape." , es: "El área de Bouba, en el norte, forma parte de los paisajes de sabana abierta y llanura de Camerún. Pertenece al relieve más seco de la parte septentrional del país.", pt: "A área de Bouba, no norte, faz parte das paisagens de savana aberta e planície dos Camarões. Pertence ao relevo mais seco da parte setentrional do país.", fr: "La zone de Bouba, dans le nord, fait partie des paysages de savanes ouvertes et de plaines du Cameroun. Elle appartient au relief plus sec de la partie septentrionale du pays."},
     facts: {
       de: ["nördliche Savannenlandschaft", "weite Ebenen", "trockenes Relief"],
@@ -2004,7 +1992,6 @@ export const poiExtraCameroonReliefV2: POI[] = [
     parent: "CM-EN",
     coords: [15.2, 12.0],
     name: { de: "Logone-Tal", hu: "Logone-völgy", ro: "Valea Logone", en: "Logone Valley"},
-    image: "/poi-images/mount-logone-relief-v2.webp",
     description: { de: "Das Logone-Gebiet liegt in einer tiefen Fluss- und Schwemmebene im Norden Kameruns. Wasserläufe und saisonale Überflutung bestimmen das Relief.", hu: "A Logone vidéke folyókkal tagolt alföld. A határ menti sík táj egyik fő példája.", ro: "Relieful Logone este legat de câmpiile și luncile din nordul extrem al Camerunului. Apa și sedimentul modelează aici peisajul de joasă altitudine.", en: "The Mount Logone area features unique geological formations and elevations along the river basin in the Far North Region." , es: "El área de Logone se encuentra en una llanura fluvial y aluvial profunda en el norte de Camerún. Los cursos de agua y las inundaciones estacionales determinan el relieve.", pt: "A área de Logone situa-se numa planície fluvial e aluvial profunda no norte dos Camarões. Os cursos de água e as inundações sazonais determinam o relevo.", fr: "La zone du Logone se situe dans une plaine fluviale et alluviale profonde du nord du Cameroun. Les cours d'eau et les inondations saisonnières déterminent le relief."},
     facts: {
       de: ["Fluss- und Schwemmebene", "im Norden Kameruns", "zeitweise Überschwemmungen"],
@@ -2076,7 +2063,6 @@ export const poiExtraCameroonReliefV2: POI[] = [
     parent: "CM-CE",
     coords: [11.0, 3.5],
     name: { de: "Nyong-Tiefland", hu: "Nyong-alföld", ro: "Câmpia Nyong", en: "Nyong Lowland"},
-    image: "/poi-images/mount-nyong-relief-v2.webp",
     description: { de: "Das Nyong-Gebiet gehört zu den feuchten Flusslandschaften im Süden des Landes. Es ist durch breite Täler und dichten Wald gekennzeichnet.", hu: "A Nyong vidéke erdős, alacsony dombokból áll. A középső és déli Kamerun átmeneti tája.", ro: "Relieful Nyong urmărește valea unui râu important din centrul-sud al țării. Forma terenului este domoală și puternic legată de pădure.", en: "The Nyong area is a forested river landscape in southern Cameroon. Its relief is shaped by humid lowlands and drainage basins." , es: "La zona del Nyong pertenece a los paisajes fluviales húmedos del sur del país. Se caracteriza por valles anchos y bosques densos.", pt: "A área do Nyong pertence às paisagens fluviais húmidas do sul do país. Caracteriza-se por vales largos e florestas densas.", fr: "La zone du Nyong fait partie des paysages fluviaux humides du sud du pays. Elle se caractérise par de larges vallées et une forêt dense."},
     facts: {
       de: ["südlicher Flussraum", "breite Täler", "dichter Wald"],

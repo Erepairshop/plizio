@@ -9,7 +9,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Alte Brücke von Mostar", hu: "Öreg híd", ro: "Podul Vechi din Mostar", en: "Old Bridge of Mostar"},
     image: "/poi-images/bosniaherzegovina-stari-most-history-v2.webp",
     coords: [17.815, 43.3372],
-    coords: [17.815, 43.3372],
     description: {
       de: "Dieses osmanische Meisterwerk aus dem 16. Jahrhundert verbindet die beiden Teile von Mostar über die Neretva. Nach der Zerstörung 1993 wurde sie originalgetreu wieder aufgebaut.",
       hu: "A 16. századi oszmán remekmű Mostar két partját köti össze a Neretva felett. Az 1993-as pusztulás után hűen az eredeti tervek alapján építették újjá.",
@@ -53,8 +52,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     parent: "BA",
     type: "bridge",
     name: { de: "Lateinerbrücke", hu: "Latin híd", ro: "Podul Latin", en: "Latin Bridge"},
-    image: "/poi-images/bosniaherzegovina-latin-bridge-history-v2.webp",
-    coords: [18.4289, 43.8575],
     coords: [18.4289, 43.8575],
     description: {
       de: "Diese historische osmanische Brücke in Sarajevo ist als Ort des Attentats auf Erzherzog Franz Ferdinand bekannt. Das Ereignis im Jahr 1914 löste den Ersten Weltkrieg aus.",
@@ -100,8 +97,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     parent: "BA",
     type: "castle",
     name: { de: "Festung Bobovac", hu: "Bobovác vára", ro: "Cetatea Bobovac", en: "Bobovac Fortress"},
-    image: "/poi-images/bosniaherzegovina-bobovac-history-v2.webp",
-    coords: [18.2131, 44.1111],
     coords: [18.2131, 44.1111],
     description: {
       de: "Bobovac war die Residenz der bosnischen Könige und Sitz des Staatsarchivs im Mittelalter. Die Festung galt lange Zeit als uneinnehmbares Zentrum des bosnischen Reiches.",
@@ -147,8 +142,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     parent: "BA",
     type: "castle",
     name: { de: "Festung Jajce", hu: "Jajcei vár", ro: "Cetatea Jajce", en: "Jajce Fortress"},
-    image: "/poi-images/bosniaherzegovina-jajce-fortress-history-v2.webp",
-    coords: [17.2703, 44.3411],
     coords: [17.2703, 44.3411],
     description: {
       de: "Die Festung von Jajce thront über der Stadt und war die letzte Residenz des bosnischen Königreichs. Sie zeugt von der Verteidigungsarchitektur gegen die osmanische Expansion.",
@@ -194,8 +187,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     parent: "BA",
     type: "ruins",
     name: { de: "Daorson", hu: "Daorson", ro: "Daorson", en: "Daorson"},
-    image: "/poi-images/bosniaherzegovina-daorson-history-v2.webp",
-    coords: [17.9472, 43.0978],
     coords: [17.9472, 43.0978],
     description: {
       de: "Daorson war die Hauptstadt des hellenisierten illyrischen Stammes der Daorsi. Die megalithischen Mauern aus riesigen Steinblöcken ähneln mykenischen Bauwerken.",
@@ -241,8 +232,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     parent: "BA",
     type: "ruins",
     name: { de: "Mogorjelo", hu: "Mogorjelo", ro: "Mogorjelo", en: "Mogorjelo"},
-    image: "/poi-images/bosniaherzegovina-mogorjelo-history-v2.webp",
-    coords: [17.6983, 43.0675],
     coords: [17.6983, 43.0675],
     description: {
       de: "Mogorjelo ist eine bedeutende römische villa rustica aus dem 4. Jahrhundert. Die Anlage diente sowohl als landwirtschaftlicher Betrieb als auch als befestigte Residenz.",
@@ -290,7 +279,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Historisches Dorf Počitelj", hu: "Počitelj óvárosa", ro: "Satul istoric Počitelj", en: "Historic Village of Počitelj"},
     image: "/poi-images/bosniaherzegovina-pocitelj-history-v2.webp",
     coords: [17.7314, 43.1344],
-    coords: [17.7314, 43.1344],
     description: {
       de: "Počitelj ist eine mittelalterliche und osmanische Stadtanlage am Ufer der Neretva. Die Architektur kombiniert orientalische Einflüsse mit mediterranem Steinbau.",
       hu: "Počitelj egy középkori és oszmán városi település a Neretva partján. Építészete az orientális hatásokat ötvözi a mediterrán kőépítkezéssel.",
@@ -334,8 +322,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     parent: "BA",
     type: "monument",
     name: { de: "Nekropole Radimlja", hu: "Radimlja nekropolisz", ro: "Necropola Radimlja", en: "Radimlja Necropolis"},
-    image: "/poi-images/bosniaherzegovina-radimlja-history-v2.webp",
-    coords: [17.9258, 43.0847],
     coords: [17.9258, 43.0847],
     description: {
       de: "Radimlja ist die bekannteste Fundstätte von Stećci, den charakteristischen mittelalterlichen Grabsteinen der Region. Die Verzierungen zeigen Jagdszenen und religiöse Symbole.",
@@ -383,7 +369,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Archäologische Stätte Butmir", hu: "Butmiri régészeti lelőhely", ro: "Situl arheologic Butmir", en: "Butmir Archaeological Site"},
     image: "/poi-images/bosniaherzegovina-butmir-history-v2.webp",
     coords: [18.3308, 43.8189],
-    coords: [18.3308, 43.8189],
     description: {
       de: "Butmir ist eine prähistorische Fundstätte nahe Sarajevo, die namensgebend für eine bedeutende neolithische Kultur war. Sie ist berühmt für ihre einzigartige Keramik und Tonfiguren.",
       hu: "Butmir egy Szarajevó melletti őskori lelőhely, amely egy jelentős neolitikus kultúra névadója volt. Egyedülálló kerámiáiról és agyagfiguráiról híres.",
@@ -428,7 +413,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "castle",
     name: { de: "Burg Ostrožac", hu: "Ostrožac vára", ro: "Castelul Ostrožac", en: "Ostrožac Castle"},
     image: "/poi-images/bosniaherzegovina-ostrozac-history-v2.webp",
-    coords: [15.9369, 44.9039],
     coords: [15.9369, 44.9039],
     description: {
       de: "Diese außergewöhnliche Burg vereint verschiedene Baustile vom Mittelalter bis zum 20. Jahrhundert. Sie thront über dem Tal der Una und beherbergt einen Skulpturenpark.",
@@ -475,7 +459,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Festung Tešanj", hu: "Tesanj vára", ro: "Cetatea Tešanj", en: "Tešanj Fortress"},
     image: "/poi-images/bosniaherzegovina-tesanj-history-v2.webp",
     coords: [17.9861, 44.6119],
-    coords: [17.9861, 44.6119],
     description: {
       de: "Die Festung Tešanj ist eine der größten und bedeutendsten Burganlagen des Landes. Sie kontrollierte wichtige Handelswege und hat eine markante achteckige Turmform.",
       hu: "A tesanji vár az ország egyik legnagyobb és legjelentősebb vára. Fontos kereskedelmi utakat ellenőrzött, és jellegzetes nyolcszögletű toronnyal rendelkezik.",
@@ -520,7 +503,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "castle",
     name: { de: "Festung Doboj", hu: "Doboji vár", ro: "Cetatea Doboj", en: "Doboj Fortress"},
     image: "/poi-images/bosniaherzegovina-doboj-fortress-history-v2.webp",
-    coords: [18.0903, 44.7381],
     coords: [18.0903, 44.7381],
     description: {
       de: "Die Festung Doboj, auch Gradina genannt, ist eine mittelalterliche Burg im Norden Bosniens. Sie war Schauplatz zahlreicher Schlachten zwischen dem Osmanischen Reich und Ungarn.",
@@ -567,7 +549,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Altstadt Visoki", hu: "Visoki óvárosa", ro: "Orașul vechi Visoki", en: "Old Town Visoki"},
     image: "/poi-images/bosniaherzegovina-old-town-visoki-history-v2.webp",
     coords: [18.175, 43.9844],
-    coords: [18.175, 43.9844],
     description: {
       de: "Visoki war ein königliches Schloss und die Hauptstadt des mittelalterlichen bosnischen Staates. Es liegt auf dem Gipfel des Hügels Visočica oberhalb der heutigen Stadt Visoko.",
       hu: "Visoki királyi vár és a középkori bosnyák állam fővárosa volt. A Visočica-domb tetején található, a mai Visoko városa felett.",
@@ -611,8 +592,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     parent: "BA",
     type: "castle",
     name: { de: "Festung Kastel", hu: "Kastel vár", ro: "Cetatea Kastel", en: "Kastel Fortress"},
-    image: "/poi-images/bosniaherzegovina-kastel-fortress-history-v2.webp",
-    coords: [17.1894, 44.7664],
     coords: [17.1894, 44.7664],
     description: {
       de: "Kastel ist das älteste historische Denkmal in Banja Luka. Die Festung liegt am Ufer der Vrbas und zeigt Spuren von der Römerzeit bis zur osmanischen Ära.",
@@ -658,8 +637,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     parent: "BA",
     type: "castle",
     name: { de: "Festung Vidoški", hu: "Vidoški vára", ro: "Cetatea Vidoški", en: "Vidoški Fortress"},
-    image: "/poi-images/bosniaherzegovina-vidoski-fortress-history-v2.webp",
-    coords: [17.9622, 43.0844],
     coords: [17.9622, 43.0844],
     description: {
       de: "Vidoški ist eine große Festungsanlage oberhalb der Stadt Stolac. Sie umfasst Strukturen aus dem Mittelalter und der osmanischen Zeit mit massiven Mauern und elf Türmen.",
@@ -706,7 +683,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "monument",
     name: { de: "Kloster Kraljeva Sutjeska", hu: "Kraljeva Sutjeska-i kolostor", ro: "Mănăstirea Kraljeva Sutjeska", en: "Kraljeva Sutjeska Monastery"},
     image: "/poi-images/bosniaherzegovina-kraljeva-sutjeska-history-v2.webp",
-    coords: [18.2008, 44.1206],
     coords: [18.2008, 44.1206],
     description: {
       de: "Das Franziskanerkloster von Kraljeva Sutjeska war eng mit den bosnischen Königen verbunden. Es bewahrt eine der wertvollsten Bibliotheken und Sammlungen des Landes auf.",
@@ -834,7 +810,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Altstadt Bužim", hu: "Bužim óvárosa", ro: "Orașul vechi Bužim", en: "Bužim Old Town"},
     image: "/poi-images/bosniaherzegovina-buzim-old-town-history-v2.webp",
     coords: [16.0308, 45.0519],
-    coords: [16.0308, 45.0519],
     description: {
       de: "Die Festung Bužim im Nordwesten Bosniens zeichnet sich durch ihre ungewöhnliche Architektur aus. Sie diente als wichtige Grenzfestung gegen die Habsburgermonarchie.",
       hu: "Az Északnyugat-Boszniában található Bužim vára szokatlan építészetével tűnik ki. Fontos határerőd volt a Habsburg Birodalom ellen.",
@@ -959,8 +934,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     parent: "BA",
     type: "castle",
     name: { de: "Festung Ključ", hu: "Kulcs vára", ro: "Cetatea Ključ", en: "Ključ Fortress"},
-    image: "/poi-images/bosniaherzegovina-kljuc-fortress-history-v2.webp",
-    coords: [16.7761, 44.5322],
     coords: [16.7761, 44.5322],
     description: {
       de: "Die Festung Ključ ist geschichtlich bedeutsam als der Ort, an dem der letzte bosnische König, Stjepan Tomašević, gefangen genommen wurde. Sie liegt strategisch über dem Fluss Sana.",
@@ -1006,8 +979,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     parent: "BA",
     type: "castle",
     name: { de: "Festung Sokolac", hu: "Sokolac vára", ro: "Cetatea Sokolac", en: "Sokolac Fortress"},
-    image: "/poi-images/bosniaherzegovina-sokolac-fortress-history-v2.webp",
-    coords: [15.8944, 44.7867],
     coords: [15.8944, 44.7867],
     description: {
       de: "Die Festung Sokolac thront über der Stadt Bihać auf einem Kalksteinhügel. Sie war Teil eines Verteidigungssystems gegen das Osmanische Reich und ist heute ein Wahrzeichen der Region.",
@@ -1053,8 +1024,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     parent: "BA",
     type: "monument",
     name: { de: "Gedenkpark Vraca", hu: "Vraca emlékpark", ro: "Parcul Memorial Vraca", en: "Vraca Memorial Park"},
-    image: "/poi-images/bosniaherzegovina-vraca-memorial-history-v2.webp",
-    coords: [18.3972, 43.8444],
     coords: [18.3972, 43.8444],
     description: {
       de: "Vraca ist eine Gedenkstätte für die Opfer des Zweiten Weltkriegs in Sarajevo. Die Anlage wurde in einer ehemaligen österreichisch-ungarischen Festung aus dem 19. Jahrhundert errichtet.",
@@ -1145,8 +1114,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     parent: "BA",
     type: "monument",
     name: { de: "Denkmal von Kozara", hu: "Kozara-emlékmű", ro: "Monumentul de la Kozara", en: "Kozara Memorial"},
-    image: "/poi-images/bosniaherzegovina-kozara-memorial-history-v2.webp",
-    coords: [16.9111, 45.0139],
     coords: [16.9111, 45.0139],
     description: {
       de: "Dieses monumentale Werk auf dem Berg Mrakovica erinnert an die Partisanen und Zivilisten, die 1942 in der Schlacht von Kozara gefallen sind. Es ist ein Hauptwerk des jugoslawischen Modernismus.",
@@ -1194,7 +1161,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Denkmal von Tjentište", hu: "Tjentište emlékmű", ro: "Monumentul de la Tjentište", en: "Tjentište Memorial"},
     image: "/poi-images/bosniaherzegovina-tjentiste-history-v2.webp",
     coords: [18.6864, 43.3467],
-    coords: [18.6864, 43.3467],
     description: {
       de: "Das Denkmal im Tal der Helden erinnert an die Schlacht an der Sutjeska im Jahr 1943. Es besteht aus zwei gigantischen, abstrakten Betonflügeln, die den Durchbruch der Partisanen symbolisieren.",
       hu: "A Hősök völgyében található emlékmű az 1943-as sutjeskai csatára emlékeztet. Két óriási, absztrakt beton szárnyból áll, amelyek a partizánok áttörését jelképezik.",
@@ -1238,8 +1204,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     parent: "BA",
     type: "museum",
     name: { de: "Tunnel der Hoffnung", hu: "A Remény alagútja", ro: "Tunelul Speranței", en: "Tunnel of Hope"},
-    image: "/poi-images/bosniaherzegovina-sarajevo-tunnel-history-v2.webp",
-    coords: [18.3375, 43.8244],
     coords: [18.3375, 43.8244],
     description: {
       de: "Dieser 800 Meter lange Tunnel war während der Belagerung von Sarajevo die einzige Verbindung der Stadt zur Außenwelt. Er diente zum Transport von Lebensmitteln, Waffen und Verwundeten.",
@@ -1285,8 +1249,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     parent: "BA",
     type: "ruins",
     name: { de: "Weiße Bastion", hu: "Fehér bástya", ro: "Bastionul Alb", en: "White Fortress"},
-    image: "/poi-images/bosniaherzegovina-bijela-tabija-history-v2.webp",
-    coords: [18.4444, 43.8617],
     coords: [18.4444, 43.8617],
     description: {
       de: "Die Weiße Bastion ist eine historische Festung am östlichen Rand von Sarajevo. Sie bietet einen der spektakulärsten Ausblicke auf die Stadt und die umliegenden Berge.",
@@ -1333,7 +1295,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     name: { de: "Gelbe Bastion", hu: "Sárga bástya", ro: "Bastionul Galben", en: "Yellow Fortress"},
     image: "/poi-images/bosniaherzegovina-zuta-tabija-history-v2.webp",
-    coords: [18.4389, 43.8603],
     coords: [18.4389, 43.8603],
     description: {
       de: "Die Gelbe Bastion war Teil der Verteidigungsanlagen von Vratnik. Heute ist sie ein beliebter Treffpunkt für Einheimische, besonders während des Ramadans zum Fastenbrechen.",

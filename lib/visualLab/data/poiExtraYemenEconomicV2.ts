@@ -341,7 +341,6 @@ export const poiExtraYemenEconomicV2: POI[] = [
     parent: "YE-AD",
     coords: [44.97, 12.79],
     name: { de: "Hafen von Aden", hu: "Ádeni kikötő", ro: "Portul Aden", en: "Port of Aden"},
-    image: "/poi-images/aden-port-economic-v2.webp",
     description: { de: "Einer der wichtigsten natürlichen Tiefseehäfen der Welt, gelegen an den globalen Schifffahrtsrouten.", hu: "A világ egyik legfontosabb természetes mélyvízi kikötője, amely a globális hajózási útvonalakon fekszik.", ro: "Unul dintre cele mai importante porturi naturale de mare adâncime din lume, situat pe rutele maritime globale.", en: "One of the most important natural deep-water ports in the world, located on global shipping routes." , es: "Uno de los puertos naturales de aguas profundas más importantes del mundo, situado en las rutas marítimas globales.", pt: "Um dos portos naturais de águas profundas mais importantes do mundo, situado nas rotas marítimas globais.", fr: "L'un des ports naturels en eau profonde les plus importants au monde, situé sur les routes maritimes mondiales."},
     facts: {
       de: ["Strategische Lage am Roten Meer", "Historisches Handelszentrum"],
@@ -422,7 +421,6 @@ export const poiExtraYemenEconomicV2: POI[] = [
     parent: "YE-HU",
     coords: [42.93, 14.83],
     name: { de: "Hafen von Al-Hudaida", hu: "Al-Hudajda kikötője", ro: "Portul Al Hudaydah", en: "Port of Hodeidah"},
-    image: "/poi-images/hodeidah-port-economic-v2.webp",
     description: { de: "Der wichtigste Hafen am Roten Meer im Jemen, entscheidend für Lebensmittelimporte.", hu: "Jemen legfontosabb vörös-tengeri kikötője, amely létfontosságú az élelmiszer-import szempontjából.", ro: "Principalul port la Marea Roșie din Yemen, crucial pentru importurile de alimente.", en: "Yemen's main port on the Red Sea, crucial for food imports." , es: "El puerto más importante del mar Rojo en Yemen, crucial para las importaciones de alimentos.", pt: "O porto mais importante do Mar Vermelho no Iémen, crucial para as importações de alimentos.", fr: "Le port le plus important du Yémen sur la mer Rouge, crucial pour les importations alimentaires."},
     facts: {
       de: ["Wichtigstes Importzentrum des Jemen", "Befindet sich am Roten Meer"],
@@ -719,7 +717,6 @@ export const poiExtraYemenEconomicV2: POI[] = [
     parent: "YE-HD",
     coords: [49.15, 14.53],
     name: { de: "Hafen von Mukalla", hu: "Mukalla kikötője", ro: "Portul Mukalla", en: "Port of Mukalla"},
-    image: "/poi-images/mukalla-port-economic-v2.webp",
     description: { de: "Ein bedeutender Seehafen in der Region Hadramaut, der dem Fischfang und dem regionalen Handel dient.", hu: "Jelentős tengeri kikötő a Hadramaut régióban, amely a halászatot és a regionális kereskedelmet szolgálja.", ro: "Un port maritim major în regiunea Hadhramaut, deservind pescuitul și comerțul regional.", en: "Mukalla Port is a major maritime gateway in Yemen, situated on the Arabian Sea. It plays a crucial role in regional trade and imports." , es: "Un importante puerto marítimo en la región de Hadramaut que sirve para la pesca y el comercio regional.", pt: "Um importante porto marítimo na região de Hadramaut, que serve a pesca e o comércio regional.", fr: "Un port maritime majeur dans la région de l'Hadramaout, utilisé pour la pêche et le commerce régional."},
     facts: {
       de: ["Zentrum für Fischerei", "Wichtig für Hadramaut"],
@@ -800,7 +797,6 @@ export const poiExtraYemenEconomicV2: POI[] = [
     parent: "YE-SH",
     coords: [48.18, 13.98],
     name: { de: "LNG-Terminal Balhaf", hu: "Balhaf LNG-terminál", ro: "Terminalul GNL Balhaf", en: "Balhaf LNG Terminal"},
-    image: "/poi-images/balhaf-lng-terminal-economic-v2.webp",
     description: { de: "Die größte Industrieanlage des Landes, die für den Export von Flüssigerdgas gebaut wurde.", hu: "Az ország legnagyobb ipari létesítménye, amelyet cseppfolyósított földgáz exportjára építettek.", ro: "Cea mai mare instalație industrială din țară, construită pentru exportul de gaze naturale lichefiate.", en: "The country's largest industrial facility, built for the export of liquefied natural gas." , es: "La mayor instalación industrial del país, construida para la exportación de gas natural licuado.", pt: "A maior instalação industrial do país, construída para a exportação de gás natural liquefeito.", fr: "La plus grande installation industrielle du pays, construite pour l'exportation de gaz naturel liquéfié."},
     facts: {
       de: ["Größte Investition im Jemen", "Exportiert Erdgas"],
@@ -917,7 +913,6 @@ export const poiExtraYemenEconomicV2: POI[] = [
     parent: "YE-MA",
     coords: [45.33, 15.47],
     name: { de: "Raffinerie Marib", hu: "Máribi olajfinomító", ro: "Rafinăria Marib", en: "Marib Refinery"},
-    image: "/poi-images/marib-refinery-economic-v2.webp",
     description: { de: "Eine inländische Erdölraffinerie, die Rohöl aus den nahegelegenen Ölfeldern von Marib verarbeitet.", hu: "Belföldi olajfinomító, amely a közeli máribi olajmezőkről származó nyersolajat dolgozza fel.", ro: "O rafinărie de petrol internă care procesează țiței din câmpurile petroliere din apropiere, Marib.", en: "A domestic oil refinery that processes crude oil from the nearby Marib oil fields." , es: "Una refinería de petróleo nacional que procesa crudo de los yacimientos cercanos de Marib.", pt: "Uma refinaria de petróleo nacional que processa petróleo bruto dos campos petrolíferos próximos de Marib.", fr: "Une raffinerie de pétrole nationale qui traite le pétrole brut des champs pétrolifères voisins de Marib."},
     facts: {
       de: ["Verarbeitet lokales Rohöl", "Wichtig für die Inlandsversorgung"],
@@ -2330,7 +2325,6 @@ export const poiExtraYemenEconomicV2: POI[] = [
     parent: "YE-HD",
     coords: [49.58, 14.75],
     name: { de: "Ölterminal Ash Shihr", hu: "As-Sihr olajterminál", ro: "Terminalul petrolier Ash Shihr", en: "Ash Shihr Oil Terminal"},
-    image: "/poi-images/ash-shihr-oil-terminal-economic-v2.webp",
     description: { de: "Das wichtigste Ölexportterminal im Süden des Jemen, das Öl aus den Feldern von Masila verschifft.", hu: "Jemen déli részének legfontosabb olajexportáló terminálja, amely a Maszila-mezőkről származó olajat szállítja.", ro: "Principalul terminal de export de petrol din sudul Yemenului, care expediază petrol din câmpurile Masila.", en: "The main oil export terminal in southern Yemen, shipping oil from the Masila fields." , es: "La terminal de exportación de petróleo más importante del sur de Yemen, que embarca el petróleo de los yacimientos de Masila.", pt: "O terminal de exportação de petróleo mais importante do sul do Iémen, que expede petróleo dos campos de Masila.", fr: "Le plus important terminal d'exportation de pétrole du sud du Yémen, expédiant le pétrole des champs de Masila."},
     facts: {
       de: ["Exportiert Masila-Öl", "Befindet sich am Arabischen Meer"],
@@ -2483,7 +2477,6 @@ export const poiExtraYemenEconomicV2: POI[] = [
     parent: "YE-TA",
     coords: [43.24, 13.32],
     name: { de: "Hafen von Mokka", hu: "Mokka kikötője", ro: "Portul Mocha", en: "Port of Mocha"},
-    image: "/poi-images/mocha-port-economic-v2.webp",
     description: { de: "Ein historischer Hafen am Roten Meer, der einst das globale Zentrum des Kaffeehandels war.", hu: "Történelmi vörös-tengeri kikötő, amely egykor a kávékereskedelem globális központja volt.", ro: "Un port istoric la Marea Roșie care a fost odată centrul global al comerțului cu cafea.", en: "A historic Red Sea port that was once the global center of the coffee trade." , es: "Un puerto histórico en el Mar Rojo que antaño fue el centro mundial del comercio de café.", pt: "Um porto histórico no Mar Vermelho que outrora foi o centro global do comércio de café.", fr: "Un port historique de la mer Rouge qui fut autrefois le centre mondial du commerce du café."},
     facts: {
       de: ["Berühmt für Kaffeeexport", "Historische Bedeutung"],
@@ -2519,7 +2512,6 @@ export const poiExtraYemenEconomicV2: POI[] = [
     parent: "YE-HU",
     coords: [42.67, 15.30],
     name: { de: "Hafen von Salif", hu: "Szalif kikötője", ro: "Portul Salif", en: "Port of Salif"},
-    image: "/poi-images/salif-port-economic-v2.webp",
     description: { de: "Ein Tiefseehafen nördlich von Al-Hudaida, der für Massengüter und Salzexporte genutzt wird.", hu: "Jelentős mélyvízi kikötő Al-Hudajdától északra, amely alkalmas a legnagyobb teherhajók fogadására is. Elsősorban ömlesztett áruk és bányászott kősó kivitelére specializálódott.", ro: "Un port de mare adâncime la nord de Al Hudaydah, utilizat pentru mărfuri în vrac și exportul de sare.", en: "A deep-water port north of Hodeidah, used for bulk cargo and salt exports." , es: "Un puerto de aguas profundas al norte de Al Hudaydah utilizado para carga a granel y exportaciones de sal.", pt: "Um porto de águas profundas a norte de Hodeidah, utilizado para carga a granel e exportação de sal.", fr: "Un port en eau profonde au nord d'Al-Hudaida, utilisé pour les marchandises en vrac et les exportations de sel."},
     facts: {
       de: ["Natürlicher Tiefseehafen", "Exportiert Steinsalz"],
@@ -2600,7 +2592,6 @@ export const poiExtraYemenEconomicV2: POI[] = [
     parent: "YE-HD",
     coords: [49.30, 15.60],
     name: { de: "Ölfeld Masila", hu: "Maszila olajmező", ro: "Câmpul petrolier Masila", en: "Masila Oil Field"},
-    image: "/poi-images/masila-oil-field-economic-v2.webp",
     description: { de: "Eines der größten Ölfelder des Jemen, gelegen in der östlichen Region Hadramaut.", hu: "Jemen egyik legnagyobb olajmezője, amely a keleti Hadramaut régióban található.", ro: "Unul dintre cele mai mari câmpuri petroliere din Yemen, situat în regiunea estică Hadhramaut.", en: "One of Yemen's largest oil fields, located in the eastern Hadhramaut region." , es: "Uno de los mayores campos petrolíferos de Yemen, situado en la región oriental de Hadramaut.", pt: "Um dos maiores campos petrolíferos do Iémen, localizado na região leste de Hadramaut.", fr: "L'un des plus grands champs pétrolifères du Yémen, situé dans la région orientale de l'Hadramaout."},
     facts: {
       de: ["Größter Ölproduzent", "Entdeckt in den 1990er Jahren"],
@@ -2672,7 +2663,6 @@ export const poiExtraYemenEconomicV2: POI[] = [
     parent: "YE-MA",
     coords: [45.45, 15.60],
     name: { de: "Gasfeld Marib", hu: "Márib gázmező", ro: "Câmpul de gaze Marib", en: "Marib Gas Field"},
-    image: "/poi-images/marib-gas-field-economic-v2.webp",
     description: { de: "Ein bedeutendes Erdgasfeld, das sowohl den Inlandsverbrauch deckt als auch Gas für den Export liefert.", hu: "Jelentős földgázmező, amely mind a belföldi fogyasztást fedezi, mind pedig gázt biztosít exportra.", ro: "Un zăcământ major de gaze naturale care acoperă atât consumul intern, cât și exportul.", en: "A major natural gas field that covers both domestic consumption and supplies gas for export." , es: "Un importante yacimiento de gas natural que cubre tanto el consumo nacional como el suministro de gas para la exportación.", pt: "Um importante campo de gás natural que cobre tanto o consumo interno como o fornecimento de gás para exportação.", fr: "Un champ de gaz naturel majeur qui couvre la consommation intérieure et fournit du gaz pour l'exportation."},
     facts: {
       de: ["Versorgt Balhaf LNG", "Wichtig für die Stromerzeugung"],
@@ -3158,7 +3148,6 @@ export const poiExtraYemenEconomicV2: POI[] = [
     parent: "YE-HU",
     coords: [43.28, 15.06],
     name: { de: "Zementfabrik Bajil", hu: "Badzsil cementgyár", ro: "Fabrica de ciment Bajil", en: "Bajil Cement Factory"},
-    image: "/poi-images/bajil-cement-factory-economic-v2.webp",
     description: { de: "Eine wichtige Industrieanlage in der Tihama-Ebene, die den jemenitischen Bausektor unterstützt.", hu: "Fontos ipari létesítmény a Tiháma-síkságon, amely a jemeni építőipart támogatja.", ro: "O instalație industrială importantă în câmpia Tihama, susținând sectorul construcțiilor yemenit.", en: "An important industrial facility in the Tihama Plain supporting the Yemeni construction sector." , es: "Una importante instalación industrial en la llanura de Tihama que apoya al sector de la construcción yemení.", pt: "Uma importante instalação industrial na planície de Tihama que apoia o setor da construção iemenita.", fr: "Une installation industrielle majeure dans la plaine de Tihama qui soutient le secteur de la construction yéménite."},
     facts: {
       de: ["Gelegen in der Tihama-Ebene", "Unterstützt lokale Bauwirtschaft"],
@@ -3194,7 +3183,6 @@ export const poiExtraYemenEconomicV2: POI[] = [
     parent: "YE-MR",
     coords: [52.20, 15.82],
     name: { de: "Hafen von Nishtun", hu: "Nistún kikötője", ro: "Portul Nishtun", en: "Port of Nishtun"},
-    image: "/poi-images/nishtun-port-economic-v2.webp",
     description: { de: "Ein Seehafen im Gouvernement Al-Mahra im äußersten Osten des Landes, am Arabischen Meer.", hu: "Tengeri kikötő az Al-Mahra kormányzóságban, az ország legkeletibb részén, az Arab-tengernél.", ro: "Un port maritim în guvernoratul Al-Mahra din extremul est al țării, la Marea Arabiei.", en: "A seaport in the Al-Mahra Governorate in the far east of the country on the Arabian Sea." , es: "Un puerto marítimo en la gobernación de Al Mahra, en el extremo oriental del país, en el Mar Arábigo.", pt: "Um porto marítimo na província de Al Mahra, no extremo leste do país, no Mar Arábico.", fr: "Un port maritime dans le gouvernorat d'Al-Mahra, à l'extrême est du pays, sur la mer d'Arabie."},
     facts: {
       de: ["Östlichster Hafen des Jemen", "Dient dem Gouvernement Al-Mahra"],
@@ -3230,7 +3218,6 @@ export const poiExtraYemenEconomicV2: POI[] = [
     parent: "YE-HD",
     coords: [48.80, 14.70],
     name: { de: "Goldmine Medden", hu: "Medden aranybánya", ro: "Mina de aur Medden", en: "Medden Gold Mine"},
-    image: "/poi-images/medden-gold-mine-economic-v2.webp",
     description: { de: "Eine der wenigen bekannten Goldlagerstätten im Jemen, gelegen in der Region Hadramaut.", hu: "Egyike a kevés ismert aranylelőhelynek Jemenben, amely a Hadramaut régióban található.", ro: "Unul dintre puținele zăcăminte de aur cunoscute din Yemen, situat în regiunea Hadhramaut.", en: "One of the few known gold deposits in Yemen, located in the Hadhramaut region." , es: "Uno de los pocos yacimientos de oro conocidos en Yemen, situado en la región de Hadramaut.", pt: "Uma das poucas jazidas de ouro conhecidas no Iémen, localizada na região de Hadramaut.", fr: "L'un des rares gisements d'or connus au Yémen, situé dans la région de l'Hadramaout."},
     facts: {
       de: ["Potenzielle Mineralienquelle", "Befindet sich im Tal Wadi Medden"],
@@ -3563,7 +3550,6 @@ export const poiExtraYemenEconomicV2: POI[] = [
     parent: "YE-TA",
     coords: [44.02, 13.60],
     name: { de: "Industriegebiet Taiz", hu: "Taiz ipari övezet", ro: "Zona Industrială Taiz", en: "Taiz Industrial Zone"},
-    image: "/poi-images/taiz-industrial-zone-economic-v2.webp",
     description: { de: "Ein bedeutendes Produktions- und Handelszentrum, das Taiz zu einer Wirtschaftshauptstadt machte.", hu: "Jelentős termelési és kereskedelmi központ, amely Taizt gazdasági fővárossá tette.", ro: "Un important centru de producție și comerț care a făcut din Taiz o capitală economică.", en: "A major manufacturing and trade center that made Taiz an economic capital." , es: "Un importante centro de producción y comercio que convirtió a Taiz en una capital económica.", pt: "Um importante centro de produção e comércio que tornou Taiz numa capital económica.", fr: "Un centre de production et de commerce majeur qui a fait de Taïz une capitale économique."},
     facts: {
       de: ["Zentrum der verarbeitenden Industrie", "Wichtiger Wirtschaftsmotor"],
@@ -3599,7 +3585,6 @@ export const poiExtraYemenEconomicV2: POI[] = [
     parent: "YE-AD",
     coords: [44.93, 12.83],
     name: { de: "Kraftwerk Hiswa", hu: "Hiszva erőmű", ro: "Centrala electrică Hiswa", en: "Hiswa Power Station"},
-    image: "/poi-images/hiswa-power-station-economic-v2.webp",
     description: { de: "Das Hiswa-Kraftwerk ist eine wichtige Energieanlage in der Nähe von Aden im Jemen. Es spielt eine zentrale Rolle bei der Stromversorgung der südlichen Regionen des Landes.", hu: "Áden városának egyik legfontosabb villamosenergia-forrása, amely a déli régiók áramellátásáért felelős. A hőerőmű létfontosságú infrastruktúra a helyi lakosság számára.", ro: "Centrala electrică Hiswa", en: "Hiswa Power Station" , es: "La central eléctrica de Hiswa es una instalación energética clave cerca de Adén, en Yemen. Desempeña un papel central en el suministro eléctrico de las regiones del sur del país.", pt: "A central elétrica de Hiswa é uma instalação de energia importante perto de Áden, no Iémen. Desempenha um papel central no fornecimento de eletricidade às regiões sul do país.", fr: "La centrale électrique d'Hiswa est une installation énergétique majeure située près d'Aden au Yémen. Elle joue un rôle central dans l'approvisionnement en électricité des régions du sud du pays."},
     facts: {
       de: ["Befindet sich nahe der Stadt Aden.", "Wesentliche Quelle der Stromversorgung.", "Trägt zur Energieinfrastruktur des Jemen bei."],

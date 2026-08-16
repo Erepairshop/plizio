@@ -12,7 +12,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "Állami Ház Lusaka",
       ro: "Casa de Stat Lusaka",
       en: "State House Lusaka"},
-    image: "/poi-images/state-house-lusaka-landmarks-v2.webp",
     description: {
       de: "Die offizielle Residenz und das Büro des Präsidenten von Sambia in der Hauptstadt Lusaka.",
       hu: "Zambia elnökének hivatalos rezidenciája és irodája a fővárosban, Lusakában.",
@@ -102,7 +101,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "Mulungushi Nemzetközi Konferenciaközpont",
       ro: "Centrul Internațional de Conferințe Mulungushi",
       en: "Mulungushi International Conference Centre"},
-    image: "/poi-images/mulungushi-international-conference-centre-landmarks-v2.webp",
     description: {
       de: "Eines der größten und wichtigsten Veranstaltungszentren für nationale und internationale Konferenzen in Sambia.",
       hu: "Zambia egyik legnagyobb és legfontosabb rendezvényközpontja nemzeti és nemzetközi konferenciák számára.",
@@ -150,7 +148,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "Nkana Stadion",
       ro: "Stadionul Nkana",
       en: "Nkana Stadium"},
-    image: "/poi-images/nkana-stadium-landmarks-v2.webp",
     description: {
       de: "Ein traditionsreiches Fußballstadion in Kitwe, das die Heimat des Nkana FC ist.",
       hu: "Nagy múltú labdarúgó-stadion Kitwében, amely az Nkana FC otthona.",
@@ -198,7 +195,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "Arthur Davies Stadion",
       ro: "Stadionul Arthur Davies",
       en: "Arthur Davies Stadium"},
-    image: "/poi-images/arthur-davies-stadium-landmarks-v2.webp",
     description: {
       de: "Ein weiteres bedeutendes Sportstadion in Kitwe, benannt nach einem Förderer des sambischen Sports.",
       hu: "Egy másik jelentős sportstadion Kitwében, amelyet a zambiai sport egyik támogatójáról neveztek el.",
@@ -291,7 +287,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "Luangwa-híd",
       ro: "Podul Luangwa",
       en: "Luangwa Bridge"},
-    image: "/poi-images/luangwa-bridge-landmarks-v2.webp",
     description: {
       de: "Die Luangwa-Brücke ist eine strategisch wichtige Hängebrücke, die den Luangwa-Fluss an der Great East Road überspannt.",
       hu: "Feltűnő függőhíd a Great East Roadon, amely a Luangwa folyó mély szurdokát íveli át.",
@@ -339,7 +334,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "Harry Mwaanga Nkumbula Repülőtér",
       ro: "Aeroportul Harry Mwaanga Nkumbula",
       en: "Harry Mwaanga Nkumbula Airport"},
-    image: "/poi-images/harry-mwaanga-nkumbula-airport-landmarks-v2.webp",
     description: {
       de: "Der internationale Flughafen in Livingstone, der als Tor zu den berühmten Victoriafällen dient.",
       hu: "Livingstone nemzetközi repülőtere, amely kapuként szolgál a híres Viktória-vízeséshez.",
@@ -387,7 +381,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "Mukuba Bevásárlóközpont",
       ro: "Mall-ul Mukuba",
       en: "Mukuba Mall"},
-    image: "/poi-images/mukuba-mall-landmarks-v2.webp",
     description: {
       de: "Eines der größten und modernsten Einkaufszentren in Ndola und der gesamten Copperbelt-Provinz.",
       hu: "Ndola egyik legmodernebb bevásárlóközpontja, amely a város kereskedelmi és közösségi életének központja.",
@@ -894,7 +887,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "Zambiai Egyetem",
       ro: "Universitatea din Zambia",
       en: "University of Zambia"},
-    image: "/poi-images/university-of-zambia-landmarks-v2.webp",
     description: {
       de: "Die University of Zambia (UNZA) in Lusaka ist die größte und älteste Universität des Landes.",
       hu: "Az ország legrégebbi és legnagyobb állami egyeteme, amelynek fő campusa a Great East Roadon található Lusakában.",
@@ -939,7 +931,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "Mulungushi A Tekintély Sziklája",
       ro: "Stânca Autorității Mulungushi",
       en: "Mulungushi Rock of Authority"},
-    image: "/poi-images/mulungushi-rock-of-authority-landmarks-v2.webp",
     description: {
       de: "Ein historischer Freiluftplatz in der Nähe von Kabwe, bekannt als der Geburtsort der sambischen Unabhängigkeitsbewegung.",
       hu: "Történelmi szabadtéri helyszín Kabwe közelében, amely a zambiai függetlenségi mozgalom szülőhelyeként ismert.",
@@ -1032,7 +1023,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "Kariba-gát",
       ro: "Barajul Kariba",
       en: "Kariba Dam Wall"},
-    image: "/poi-images/kariba-dam-wall-landmarks-v2.webp",
     description: {
       de: "Die Kariba-Talsperre ist eine der größten Talsperren der Welt und staut den Sambesi-Fluss zur Stromerzeugung auf.",
       hu: "A Kariba-tavat feltartóztató monumentális völgyzárógát, amely a világ egyik legnagyobb mesterséges tavát hozta létre.",
@@ -1077,7 +1067,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "Itezhi-Tezhi-gát",
       ro: "Barajul Itezhi-Tezhi",
       en: "Itezhi-Tezhi Dam"},
-    image: "/poi-images/itezhi-tezhi-dam-landmarks-v2.webp",
     description: {
       de: "Ein wichtiger Staudamm am Kafue-Fluss, der zur Wasserstandsregulierung für das Kafue-Schlucht-Kraftwerk dient.",
       hu: "Fontos gát a Kafue folyón, amely a Kafue-szurdok erőművének vízszintszabályozását szolgálja.",
@@ -1242,7 +1231,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "Big Tree Nemzeti Emlékmű",
       ro: "Monumentul Național Big Tree",
       en: "The Big Tree National Monument"},
-    image: "/poi-images/big-tree-national-monument-landmarks-v2.webp",
     description: {
       de: "Der 'Big Tree' ist ein riesiger, jahrhundertealter Baobab-Baum in der Nähe der Victoriafälle.",
       hu: "Egy hatalmas és ősi fügefa Kabwe központjában, amelyet történelmileg gyülekezési helyként használtak.",
@@ -1332,7 +1320,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "Chilenje-ház 394",
       ro: "Casa Chilenje 394",
       en: "Chilenje House 394"},
-    image: "/poi-images/chilenje-house-394-landmarks-v2.webp",
     description: {
       de: "Das ehemalige Wohnhaus des ersten Präsidenten Kenneth Kaunda in Lusaka, das heute ein nationales Denkmal ist.",
       hu: "Az első elnök, Kenneth Kaunda egykori lakóháza Lusakában, amely ma nemzeti emlékmű.",
@@ -1377,7 +1364,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "Livingstone Emlékmű Chitambo",
       ro: "Memorialul Livingstone Chitambo",
       en: "Livingstone Memorial Chitambo"},
-    image: "/poi-images/livingstone-memorial-landmarks-v2.webp",
     description: {
       de: "Ein Denkmal an der Stelle, an der das Herz des berühmten Forschers David Livingstone begraben wurde.",
       hu: "Emlékmű azon a helyen, ahol a híres felfedező, David Livingstone szívét eltemették.",
@@ -1506,7 +1492,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "Nchanga Stadion",
       ro: "Stadionul Nchanga",
       en: "Nchanga Stadium"},
-    image: "/poi-images/nchanga-stadium-landmarks-v2.webp",
     description: {
       de: "Ein vielseitiges Stadion in Chingola, das hauptsächlich von den Nchanga Rangers als Heimspielstätte genutzt wird.",
       hu: "Sokoldalú stadion Chingolában, amelyet főként az Nchanga Rangers használ hazai pályaként.",
@@ -1599,7 +1584,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "Sunset Stadion",
       ro: "Stadionul Sunset",
       en: "Sunset Stadium"},
-    image: "/poi-images/sunset-stadium-landmarks-v2.webp",
     description: {
       de: "Ein bekanntes Fußballstadion in Lusaka, das die Heimat des Zanaco Football Club ist.",
       hu: "Jól ismert labdarúgó-stadion Lusakában, amely a Zanaco Football Club otthona.",
@@ -1740,7 +1724,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "Evelyn Hone Főiskola",
       ro: "Colegiul Evelyn Hone",
       en: "Evelyn Hone College"},
-    image: "/poi-images/evelyn-hone-college-landmarks-v2.webp",
     description: {
       de: "Eine der größten Institutionen für technische und berufliche Ausbildung in Sambia mit einem markanten Campus im Zentrum von Lusaka.",
       hu: "Zambia egyik legnagyobb műszaki és szakképző intézménye, amelynek jellegzetes campusa Lusaka központjában van.",
@@ -1926,7 +1909,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "Cosmopolitan Bevásárlóközpont",
       ro: "Mall-ul Cosmopolitan",
       en: "Cosmopolitan Mall"},
-    image: "/poi-images/cosmopolitan-mall-landmarks-v2.webp",
     description: {
       de: "Ein weitläufiges Einkaufszentrum im südlichen Teil von Lusaka, das eine Vielzahl von Dienstleistungen und Geschäften anbietet.",
       hu: "Tágas bevásárlóközpont Lusaka déli részén, amely számos szolgáltatást és üzletet kínál.",
@@ -2055,7 +2037,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "Viktória-vízesés Erőmű",
       ro: "Centrala Electrică Victoria Falls",
       en: "Victoria Falls Power Station"},
-    image: "/poi-images/victoria-falls-power-station-landmarks-v2.webp",
     description: {
       de: "Ein historisches Wasserkraftwerk an den Wasserfällen, das Strom für die Region erzeugt.",
       hu: "Történelmi vízerőmű a vízesésnél, amely áramot termel a régiónak.",
@@ -2103,7 +2084,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "A Zambézi Folyó Hatóság Épülete",
       ro: "Clădirea Autorității Râului Zambezi",
       en: "Zambezi River Authority Building"},
-    image: "/poi-images/zambezi-river-authority-building-landmarks-v2.webp",
     description: {
       de: "Dieses Verwaltungsgebäude in Lusaka ist der Sitz der Organisation, die die Wasserressourcen des Sambesi-Flusses verwaltet.",
       hu: "A szervezet központja, amely a Zambézi vizét kezeli Zambia és Zimbabwe között.",
@@ -2244,7 +2224,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "Lusaka Playhouse",
       ro: "Lusaka Playhouse",
       en: "Lusaka Playhouse"},
-    image: "/poi-images/lusaka-playhouse-landmarks-v2.webp",
     description: {
       de: "Das führende Theaterhaus in der Hauptstadt, in dem viele nationale Theater- und Kunstproduktionen stattfinden.",
       hu: "A főváros vezető színháza, amely számos nemzeti színházi és művészeti produkciónak ad otthont.",
@@ -2292,7 +2271,6 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: "TAZARA Vasútállomás Kapiri Mposhi",
       ro: "Gara TAZARA Kapiri Mposhi",
       en: "TAZARA Railway Terminal Kapiri Mposhi"},
-    image: "/poi-images/tazara-railway-terminal-kapiri-landmarks-v2.webp",
     description: {
       de: "Der imposante Endbahnhof der TAZARA-Eisenbahnstrecke, die Sambia mit dem Hafen von Daressalam in Tansania verbindet.",
       hu: "A TAZARA vasútvonal impozáns végállomása, amely Zambiát köti össze a tanzániai Dar es-Salaam kikötőjével.",

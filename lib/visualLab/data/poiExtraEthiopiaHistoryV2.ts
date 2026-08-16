@@ -184,7 +184,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       pt: ["Fundação pelo Imperador Fasilides em 1636", "Inclusão no Património Mundial da UNESCO em 1979", "Capital do império etíope até 1855", "Inclui o palácio de Fasilides e Iyasu I.", "Estilo arquitetónico com influências indianas e barrocas", "Rodeado por uma muralha de 900 metros com 12 portões"],
       fr: ["Fondation par l'empereur Fasilides en 1636", "Inscription au patrimoine mondial de l'UNESCO en 1979", "Capitale de l'empire éthiopien jusqu'en 1855", "Comprend le palais de Fasilides et celui d'Iyasu Ier", "Style architectural aux influences indiennes et baroques", "Entouré d'un mur de 900 mètres percé de 12 portes"],
     }, },
-    image: "/poi-images/fasil-ghebbi-history-v2.webp",
     description: {
       de: "Die befestigte Stadt Fasil Ghebbi war im 16. und 17. Jahrhundert die Residenz des äthiopischen Kaisers Fasilides und seiner Nachfolger. Die Anlage ist von einer 900 Meter langen Mauer umgeben.",
       hu: "A megerősített Fasil Ghebbi város a 16. és 17. században Fasilides etióp császár és utódainak rezidenciája volt. A komplexumot egy 900 méter hosszú fal veszi körül.",
@@ -351,7 +350,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       pt: ["Construção nos séculos XII e XIII sob o reinado do rei Lalibela", "Inclusão no Património Mundial da UNESCO em 1978", "Um total de 11 igrejas monolíticas escavadas na rocha", "A igreja mais famosa é a Beta Giyorgis (São Jorge)", "Esculpidas na rocha vulcânica maciça", "Cada edifício é um bloco monolítico"],
       fr: ["Construction aux XIIe et XIIIe siècles sous le roi Lalibela", "Inscription au patrimoine mondial de l'UNESCO en 1978", "Un total de 11 églises rupestres monolithiques", "L'église la plus célèbre est Beta Giyorgis (Saint-Georges)", "Taillées dans le tuf volcanique massif", "Chaque bâtiment est un bloc monolithique"],
     }, },
-    image: "/poi-images/lalibela-churches-history-v2.webp",
     description: {
       de: "Elf mittelalterliche, monolithische Höhlenkirchen, die im 13. Jahrhundert aus dem Fels gehauen wurden. Sie sind ein wichtiges Zentrum des äthiopischen Christentums und ein bedeutender Wallfahrtsort.",
       hu: "Tizenegy középkori, monolitikus barlangtemplom, amelyeket a 13. században vájtak ki a sziklából. Az etióp kereszténység és a zarándoklatok fontos központja.",
@@ -554,7 +552,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       pt: ["Construção no século IV d.C.", "Inclusão no Património Mundial da UNESCO em 1980.", "A maior estela em pé é a de Ezana (23 m).", "Regresso do obelisco de Roma em 2005.", "Esculpidos em granito maciço de pedreiras locais.", "Representação de casas de vários andares nos relevos."],
       fr: ["Construction au IVe siècle après J.-C.", "Inscription au patrimoine mondial de l'UNESCO en 1980.", "La plus grande stèle debout est celle d'Ezana (23 m).", "Retour de l'obélisque de Rome en 2005.", "Taillés dans du granit massif provenant de carrières locales.", "Représentation de maisons à étages dans les reliefs."],
     }, },
-    image: "/poi-images/axum-obelisks-history-v2.webp",
     description: {
       de: "Massive Stelen und Obelisken aus dem antiken Reich von Aksum, das vom 1. bis zum 8. Jahrhundert n. Chr. eine der mächtigsten Zivilisationen der Welt war.",
       hu: "Masszív sztélék és obeliszkek Akszum ősi birodalmából, amely az i. sz. 1. és 8. század között a világ egyik legerősebb civilizációja volt.",
@@ -602,7 +599,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       pt: ["Harar é considerada a quarta cidade mais sagrada do Islão, depois de Meca, Medina e Jerusalém.", "A muralha da cidade 'Jugol' foi erguida entre os séculos XIII e XVI.", "No interior das muralhas existem no total 82 mesquitas e 102 santuários.", "A cidade possui cinco portões históricos que correspondiam a diferentes rotas comerciais.", "O Património Mundial da UNESCO abrange uma área de cerca de 48 hectares.", "A cidade foi a capital do importante Sultanato de Adal no século XVI."],
       fr: ["Harar est considérée comme la quatrième ville sainte de l'islam après La Mecque, Médine et Jérusalem.", "Le mur d'enceinte 'Jugol' a été érigé entre le XIIIe et le XVIe siècle.", "L'intérieur des murs compte un total de 82 mosquées et 102 sanctuaires.", "La ville dispose de cinq portes historiques correspondant à différentes routes commerciales.", "Le site du patrimoine mondial de l'UNESCO couvre environ 48 hectares.", "La ville fut la capitale de l'important sultanat d'Adal au XVIe siècle."],
     }, },
-    image: "/poi-images/harar-jugol-history-v2.webp",
     description: {
       de: "Die historische befestigte Stadt Harar liegt im Osten Äthiopiens und gilt als die viertheiligste Stadt des Islam. Sie beherbergt 82 Moscheen, von denen drei aus dem 10. Jahrhundert stammen.",
       hu: "A történelmi erődített város, Harar Kelet-Etiópiában található, és az iszlám negyedik legszentebb városának tartják. 82 mecsetnek ad otthont, amelyek közül három a 10. századból származik.",
@@ -650,7 +646,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       pt: ["O sítio inclui um total de 36 pedras erguidas (estelas).", "32 das estelas estão decoradas com relevos e símbolos complexos.", "Os monumentos datam do período entre os séculos XII e XIV.", "Sob as estelas foram encontrados túmulos de pessoas com idades entre 18 e 30 anos.", "O símbolo mais comum nas pedras é a espada, muitas vezes representada múltiplas vezes.", "Tiya foi incluída na lista do Património Mundial da UNESCO em 1980."],
       fr: ["Le site comprend un total de 36 pierres dressées (stèles).", "32 des stèles sont ornées de reliefs et de symboles complexes.", "Les monuments datent de la période comprise entre le XIIe et le XIVe siècle.", "Des tombes de personnes âgées de 18 à 30 ans ont été découvertes sous les stèles.", "Le symbole le plus fréquent sur les pierres est l'épée, souvent représentée plusieurs fois.", "Tiya a été inscrite sur la liste du patrimoine mondial de l'UNESCO dès 1980."],
     }, },
-    image: "/poi-images/tiya-megalithic-history-v2.webp",
     description: {
       de: "Eine archäologische Stätte mit 36 Monumenten, darunter 32 geschnitzte Stelen. Die mysteriösen Gravuren, meist Schwerter, geben Hinweise auf eine alte äthiopische Kultur.",
       hu: "Régészeti lelőhely 36 műemlékkel, köztük 32 faragott sztélével. A titokzatos, többnyire kardokat ábrázoló gravírozások egy ősi etióp kultúrára utalnak.",
@@ -679,7 +674,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Az Awash alsó völgye",
       ro: "Valea inferioară a râului Awash",
       en: "Lower Valley of the Awash"},
-    image: "/poi-images/awash-lower-valley-history-v2.webp",
     description: {
       de: "Eines der wichtigsten paläontologischen Gebiete Afrikas, in dem 1974 das berühmte 3,2 Millionen Jahre alte Hominidenfossil 'Lucy' entdeckt wurde.",
       hu: "Afrika egyik legfontosabb őslénytani területe, ahol 1974-ben felfedezték a híres, 3,2 millió éves 'Lucy' hominida kövületet.",
@@ -727,7 +721,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Omo alsó völgye",
       ro: "Valea inferioară a râului Omo",
       en: "Lower Valley of the Omo"},
-    image: "/poi-images/omo-lower-valley-history-v2.webp",
     description: {
       de: "Eine prähistorische Stätte im Südwesten Äthiopiens. Fossilien aus dieser Region lieferten wichtige Erkenntnisse über die frühe menschliche Entwicklung, darunter Überreste von Homo gracilis.",
       hu: "Történelem előtti lelőhely Délnyugat-Etiópiában. Az innen származó kövületek fontos betekintést nyújtottak a korai emberi fejlődésbe, köztük a Homo gracilis maradványaiba.",
@@ -794,7 +787,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       pt: ["Os socalcos de pedra dos Konso foram construídos ao longo de mais de 400 anos.", "Algumas das muralhas de proteção em redor das aldeias (paletas) têm até 5 metros de altura.", "As estátuas de madeira (wakas) são erguidas para recordar guerreiros importantes.", "No centro das aldeias existe frequentemente um 'mora', uma casa comunitária ritual.", "Marcadores de gerações em forma de colunas de pedra ('olahita') documentam a história.", "A paisagem cultural de Konso foi incluída no Património Mundial da UNESCO em 2011."],
       fr: ["Les terrasses de pierre des Konso ont été construites sur une période de plus de 400 ans.", "Certains murs de protection entourant les villages (paletas) mesurent jusqu'à 5 mètres de haut.", "Les statues en bois (wakas) sont érigées en mémoire de guerriers illustres.", "Au centre des villages se trouve souvent un 'mora', une maison communautaire rituelle.", "Des marqueurs de génération sous forme de stèles de pierre ('olahita') documentent l'histoire.", "Le paysage culturel Konso a été inscrit au patrimoine mondial de l'UNESCO en 2011."],
     }, },
-    image: "/poi-images/konso-cultural-landscape-history-v2.webp",
     description: {
       de: "Eine 55 Quadratkilometer große Fläche mit terrassierten Feldern und befestigten Siedlungen, die von den Konso seit über 400 Jahren bewohnt und bewirtschaftet wird.",
       hu: "Egy 55 négyzetkilométeres terület teraszos mezőkkel és erődített településekkel, amelyet a Konso nép több mint 400 éve lakik és művel.",
@@ -823,7 +815,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Yeha nagy temploma",
       ro: "Marele Templu din Yeha",
       en: "Great Temple of Yeha"},
-    image: "/poi-images/yeha-temple-history-v2.webp",
     description: {
       de: "Das älteste erhaltene Gebäude Äthiopiens, ein Turm aus der Zeit um 700 v. Chr. Es zeugt von der sabäischen Zivilisation, die dem Aksumitischen Reich vorausging.",
       hu: "Etiópia legrégebbi fennmaradt épülete, egy torony i. e. 700 körülről. A szabeus civilizációról tanúskodik, amely az Akszumi Birodalmat előzte meg.",
@@ -871,7 +862,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Debre Damo kolostor",
       ro: "Mănăstirea Debre Damo",
       en: "Debre Damo Monastery"},
-    image: "/poi-images/debre-damo-history-v2.webp",
     description: {
       de: "Ein im 6. Jahrhundert gegründetes Kloster, das auf einem steilen Tafelberg liegt. Es ist nur durch das Klettern an einem 15 Meter langen Lederseil erreichbar.",
       hu: "Egy 6. században alapított kolostor, amely egy meredek táblahegyen található. Csak egy 15 méteres bőrkötélen mászva közelíthető meg.",
@@ -1180,7 +1170,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "II. Menelik császári palotája",
       ro: "Palatul Imperial al lui Menelik al II-lea",
       en: "Menelik II's Imperial Palace"},
-    image: "/poi-images/menelik-palace-history-v2.webp",
     description: {
       de: "Der Ende des 19. Jahrhunderts erbaute Palastkomplex in Addis Abeba war der Sitz der äthiopischen Kaiser. Heute beherbergt er den Unity Park, der die Geschichte der Nation feiert.",
       hu: "A 19. század végén épült Addisz-Abebában található palotakomplexum az etióp császárok székhelye volt. Ma itt található a nemzet történelmét ünneplő Unity Park.",
@@ -1273,7 +1262,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Lalibelai Szent György-templom",
       ro: "Biserica Sfântul Gheorghe din Lalibela",
       en: "Church of St. George (Bete Giyorgis)"},
-    image: "/poi-images/bete-giyorgis-history-v2.webp",
     description: {
       de: "Die bekannteste der Kirchen von Lalibela ist kreuzförmig in den vulkanischen Tuffstein gemeißelt. Sie ist das architektonische Meisterwerk der Anlage.",
       hu: "Lalibela templomai közül a legismertebb vulkáni tufába van vájva kereszt alakban. A komplexum építészeti remekműve.",
@@ -1366,7 +1354,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Fasilides fürdője",
       ro: "Baia lui Fasilides",
       en: "Fasilides' Bath"},
-    image: "/poi-images/fasilides-bath-history-v2.webp",
     description: {
       de: "Ein historisches königliches Bad in Gondar. Das zweistöckige Gebäude steht in einem großen, von Mauern umgebenen Becken, das auch heute noch zum Timkat-Fest mit Wasser gefüllt wird.",
       hu: "Történelmi királyi fürdő Gondarban. A kétszintes épület egy nagy, fallal körülvett medencében áll, amelyet ma is megtöltenek vízzel a Timkat fesztivál idején.",
@@ -1495,7 +1482,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Quskuam komplexum",
       ro: "Complexul Quskuam",
       en: "Quskuam Complex"},
-    image: "/poi-images/quskuam-complex-history-v2.webp",
     description: {
       de: "Eine königliche Anlage und Kirche auf einem Hügel außerhalb von Gondar. Sie wurde im 18. Jahrhundert von Kaiserin Mentewab als ihr Exilpalast erbaut.",
       hu: "Királyi komplexum és templom egy Gondar melletti dombon. A 18. században építtette Mentewab császárnő, mint száműzetési palotáját.",
@@ -1624,7 +1610,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Kaleb király sírja",
       ro: "Mormântul Regelui Kaleb",
       en: "Tomb of King Kaleb"},
-    image: "/poi-images/tomb-of-kaleb-history-v2.webp",
     description: {
       de: "Zwei benachbarte unterirdische Grüfte in Aksum, die dem König Kaleb aus dem 6. Jahrhundert und seinem Sohn Gebre Meskel zugeschrieben werden. Beeindruckendes aksumitisches Mauerwerk ohne Mörtel.",
       hu: "Két szomszédos földalatti sírbolt Akszumban, amelyeket a 6. századi Kaleb királynak és fiának, Gebre Meskelnek tulajdonítanak. Lenyűgöző akszumi falazat habarcs nélkül.",
@@ -1825,7 +1810,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Dungur-palota",
       ro: "Palatul Dungur",
       en: "Dungur Palace"},
-    image: "/poi-images/dungur-palace-history-v2.webp",
     description: {
       de: "Die Ruinen einer großen palastartigen Residenz in Aksum, lokal als 'Palast der Königin von Saba' bekannt, obwohl Archäologen ihn auf das 6. Jahrhundert datieren.",
       hu: "Egy hatalmas, palotaszerű rezidencia romjai Akszumban, helyi nevén 'Sába királynőjének palotája', bár a régészek a 6. századra datálják.",
@@ -1954,7 +1938,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Szent György-székesegyház (Addisz-Abeba)",
       ro: "Catedrala Sfântul Gheorghe (Addis Abeba)",
       en: "St. George's Cathedral (Addis Ababa)"},
-    image: "/poi-images/st-georges-cathedral-history-v2.webp",
     description: {
       de: "Eine oktogonale Kirche, die 1896 von Kaiser Menelik II. zum Gedenken an den Sieg bei Adwa gegen die Italiener in Auftrag gegeben wurde.",
       hu: "Nyolcszögletű templom, amelyet II. Menelik császár rendelt el 1896-ban az olaszok felett aratott adwai győzelem emlékére.",
@@ -2155,7 +2138,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Melka Kunture paleolitikus lelőhely",
       ro: "Situl paleolitic Melka Kunture",
       en: "Melka Kunture Paleolithic Site"},
-    image: "/poi-images/melka-kunture-history-v2.webp",
     description: {
       de: "Eine bedeutende Ansammlung steinzeitlicher Stätten am Awash-Fluss, die über 1,5 Millionen Jahre alte hominide Besiedlungen, Werkzeuge und Fossilien dokumentieren.",
       hu: "Jelentős kőkorszaki lelőhelyek csoportja az Awash folyó partján, amelyek több mint 1,5 millió éves hominida településeket, eszközöket és kövületeket dokumentálnak.",
@@ -2203,7 +2185,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Jimma Abba Jifar palotája",
       ro: "Palatul Jimma Abba Jifar",
       en: "Jimma Abba Jifar Palace"},
-    image: "/poi-images/jimma-abba-jifar-history-v2.webp",
     description: {
       de: "Der im späten 19. Jahrhundert aus Holz errichtete Palast war der Sitz von Abba Jifar II., dem letzten Herrscher des unabhängigen Königreichs Jimma im Südwesten Äthiopiens.",
       hu: "A 19. század végén fából épült palota volt II. Abba Jifar, a független délnyugat-etiópiai Jimma királyság utolsó uralkodójának székhelye.",
@@ -2512,7 +2493,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Debre Libanos kolostor",
       ro: "Mănăstirea Debre Libanos",
       en: "Debre Libanos Monastery"},
-    image: "/poi-images/debre-libanos-history-v2.webp",
     description: {
       de: "Eines der wichtigsten Klöster Äthiopiens, gegründet im 13. Jahrhundert vom Heiligen Tekle Haymanot. Es ist ein Zentrum religiöser Lehre und ein Pilgerort.",
       hu: "Etiópia egyik legfontosabb kolostora, amelyet a 13. században alapított Szent Tekle Haymanot. Vallási tanítási központ és zarándokhely.",
@@ -2560,7 +2540,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Guzara kastély",
       ro: "Castelul Guzara",
       en: "Guzara Castle"},
-    image: "/poi-images/guzara-castle-history-v2.webp",
     description: {
       de: "Eine Palastruine auf einem Hügel nahe dem Tana-See, erbaut von Kaiser Sarsa Dengel im 16. Jahrhundert. Sie gilt als architektonischer Vorläufer der Burgen in Gondar.",
       hu: "Egy dombon fekvő palotarom a Tana-tó közelében, amelyet Sarsa Dengel császár építtetett a 16. században. A gondari kastélyok építészeti előfutárának tartják.",
@@ -2608,7 +2587,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Ura Kidane Mehret",
       ro: "Ura Kidane Mehret",
       en: "Ura Kidane Mehret"},
-    image: "/poi-images/ura-kidane-mehret-history-v2.webp",
     description: {
       de: "Eine kreisförmige orthodoxe Kirche auf der Halbinsel Zege im Tana-See aus dem 14. Jahrhundert. Sie ist berühmt für ihre spektakulären bunten Fresken von biblischen Szenen.",
       hu: "A Tana-tó Zege-félszigetén található kör alakú ortodox templom a 14. századból származik. Híres a bibliai jeleneteket ábrázoló látványos színes freskóiról.",
@@ -2656,7 +2634,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Al-Nejashi mecset",
       ro: "Moscheea Al-Nejashi",
       en: "Al Nejashi Mosque"},
-    image: "/poi-images/al-nejashi-mosque-history-v2.webp",
     description: {
       de: "Eine der ältesten Moscheen in Afrika, die im 7. Jahrhundert gegründet wurde. Sie ehrt den christlichen König Armah, der den frühen muslimischen Flüchtlingen Zuflucht gewährte.",
       hu: "Afrika egyik legrégebbi mecsete, amelyet a 7. században alapítottak. Armah keresztény királyt tiszteli, aki menedéket nyújtott a korai muszlim menekülteknek.",
@@ -2804,7 +2781,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       pt: ["Batalha vencida em 1 de março de 1896.", "Liderada pelo Imperador Menelik II e Taytu Betul.", "Impediu a colonização italiana da Etiópia.", "Primeira vitória de um exército africano sobre uma potência europeia.", "Inspirou o movimento pan-africano em todo o mundo.", "As montanhas de Adwa ofereceram vantagens estratégicas."],
       fr: ["Bataille remportée le 1er mars 1896.", "Menée par l'empereur Menelik II et Taytu Betul.", "A empêché la colonisation italienne de l'Éthiopie.", "Première victoire d'une armée africaine sur une puissance européenne.", "A inspiré le mouvement panafricain dans le monde entier.", "Les montagnes d'Adwa offraient des avantages stratégiques."],
     }, },
-    image: "/poi-images/adwa-battlefield-history-v2.webp",
     description: {
       de: "Der Ort der historischen Schlacht von Adwa im Jahr 1896, bei der äthiopische Streitkräfte die italienische Armee besiegten und so die Unabhängigkeit Äthiopiens bewahrten.",
       hu: "Az 1896-os történelmi adwai csata helyszíne, ahol az etióp erők legyőzték az olasz hadsereget, ezzel megőrizve Etiópia függetlenségét.",
@@ -2833,7 +2809,6 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: "Sheikh Hussein szentélye",
       ro: "Altarul lui Sheikh Hussein",
       en: "Sheikh Hussein Shrine"},
-    image: "/poi-images/sheikh-hussein-history-v2.webp",
     description: {
       de: "Ein wichtiger islamischer Wallfahrtsort im Südosten Äthiopiens. Der Schrein stammt aus dem 13. Jahrhundert und ist dem heiligen Mann Sheikh Hussein gewidmet, der den Islam in der Region verbreitete.",
       hu: "Fontos iszlám zarándokhely Délkelet-Etiópiában. A 13. századból származó szentélyt Sheikh Hussein szent embernek szentelték, aki az iszlámot terjesztette a régióban.",

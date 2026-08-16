@@ -8,7 +8,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-SO",
     coords: [34.56, -18.48],
     name: { de: "Serra da Gorongosa", hu: "Gorongosa-hegység", ro: "Munții Gorongosa", en: "Gorongosa Mountains"},
-    image: "/poi-images/serra-gorongosa-relief-v2.webp",
     description: { de: "Ein bedeutendes Bergmassiv mit einer Höhe von über 1800 Metern.", hu: "Jelentős, 1800 méternél magasabb hegység.", ro: "Un masiv muntos important cu o altitudine de peste 1800 de metri.", en: "A significant mountain massif with an elevation of over 1800 meters." , es: "Un macizo montañoso importante con una altitud superior a los 1800 metros.", pt: "Um maciço montanhoso importante com uma altitude superior a 1800 metros.", fr: "Un massif montagneux important s'élevant à plus de 1 800 mètres."},
     facts: {
       de: ["Höchster Punkt ist der Gogogo.", "Reiche endemische Flora."],
@@ -44,7 +43,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-MP",
     coords: [32.00, -26.00],
     name: { de: "Lebombo-Berge", hu: "Lebombo-hegység", ro: "Munții Lebombo", en: "Lebombo Mountains"},
-    image: "/poi-images/lebombo-berge-relief-v2.webp",
     description: { de: "Eine lange, schmale Gebirgskette im Grenzgebiet zu Südafrika.", hu: "Hosszú, keskeny hegység a Dél-afrikai határ mentén.", ro: "Un lanț muntos lung și îngust la granița cu Africa de Sud.", en: "A long, narrow mountain range along the border with South Africa." , es: "Una cordillera larga y estrecha en la frontera con Sudáfrica.", pt: "Uma cordilheira longa e estreita na fronteira com a África do Sul.", fr: "Une longue et étroite chaîne de montagnes à la frontière avec l'Afrique du Sud."},
     facts: {
       de: ["Erstrecken sich über 800 km.", "Vulkanisches Gestein."],
@@ -80,7 +78,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-NI",
     coords: [36.50, -13.00],
     name: { de: "Zungu-Plateau", hu: "Zungu-fennsík", ro: "Podișul Zungu", en: "Zungu Plateau"},
-    image: "/poi-images/zungu-plateau-relief-v2.webp",
     description: { de: "Ein ausgedehntes Hochplateau im Norden von Mosambik.", hu: "Kiterjedt magas fennsík Mozambik északi részén.", ro: "Un podiș înalt extins în nordul Mozambicului.", en: "An extensive high plateau in northern Mozambique." , es: "Una extensa meseta elevada en el norte de Mozambique.", pt: "Um vasto planalto no norte de Moçambique.", fr: "Un vaste haut plateau au nord du Mozambique."},
     facts: {
       de: ["Präsentiert hügelige Landschaften.", "Wichtige Wasserscheide."],
@@ -116,7 +113,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-MA",
     coords: [33.00, -19.00],
     name: { de: "Manica-Hochland", hu: "Manica-felföld", ro: "Podișul Manica", en: "Manica Highlands"},
-    image: "/poi-images/manica-hochland-relief-v2.webp",
     description: { de: "Eine hügelige Bergregion an der Grenze zu Simbabwe.", hu: "Dombos hegyvidék a Zimbabwei határ mentén.", ro: "Regiune muntoasă deluroasă la granița cu Zimbabwe.", en: "Hilly mountain region along the Zimbabwe border." , es: "Una región montañosa en la frontera con Zimbabue.", pt: "Uma região montanhosa na fronteira com o Zimbabué.", fr: "Une région montagneuse à la frontière avec le Zimbabwe."},
     facts: {
       de: ["Günstiges Klima für Landwirtschaft.", "Hohe Niederschlagsmengen."],
@@ -197,7 +193,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-ZA",
     coords: [36.00, -18.50],
     name: { de: "Sambesi-Delta", hu: "Zambézi-delta", ro: "Delta Zambezi", en: "Zambezi Delta"},
-    image: "/poi-images/zambesi-delta-relief-v2.webp",
     description: { de: "Ein riesiges Feuchtgebiet an der Mündung des Sambesi.", hu: "Hatalmas vizes élőhely a Zambézi torkolatánál.", ro: "O zonă umedă imensă la gura de vărsare a Zambezi.", en: "A massive wetland area at the mouth of the Zambezi." , es: "Un enorme humedal en la desembocadura del río Zambeze.", pt: "Uma vasta zona húmida na foz do rio Zambeze.", fr: "Une vaste zone humide à l'embouchure du fleuve Zambèze."},
     facts: {
       de: ["Sehr fruchtbarer Boden.", "Wichtiger Lebensraum für Vögel."],
@@ -233,7 +228,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-CD",
     coords: [40.30, -12.00],
     name: { de: "Cabo Delgado Küste", hu: "Cabo Delgado-partvidék", ro: "Coasta Cabo Delgado", en: "Cabo Delgado Coast"},
-    image: "/poi-images/cabo-delgado-kuesten-relief-v2.webp",
     description: { de: "Ein flaches Küstengebiet mit vorgelagerten Inseln.", hu: "Lapos partvidék szigetekkel.", ro: "Zonă de coastă joasă cu insule în larg.", en: "Low-lying coastal area with offshore islands." , es: "Una zona costera baja con islas periféricas.", pt: "Uma zona costeira baixa com ilhas adjacentes.", fr: "Une zone côtière basse avec des îles au large."},
     facts: {
       de: ["Sandige Strände.", "Korallenformationen."],
@@ -269,7 +263,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-TE",
     coords: [33.50, -15.50],
     name: { de: "Tete-Tiefland", hu: "Tete-alföld", ro: "Câmpia Tete", en: "Tete Lowland"},
-    image: "/poi-images/tite-tiefland-relief-v2.webp",
     description: { de: "Ein trockenes Becken entlang des Sambesi.", hu: "Száraz medence a Zambézi mentén.", ro: "Bazin arid de-a lungul Zambezi.", en: "An arid basin along the Zambezi." , es: "Una cuenca seca a lo largo del Zambeze.", pt: "Uma bacia seca ao longo do Zambeze.", fr: "Un bassin sec le long du Zambèze."},
     facts: {
       de: ["Heißes Klima.", "Savannenvegetation."],
@@ -305,7 +298,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-GA",
     coords: [33.00, -24.00],
     name: { de: "Gaza-Ebene", hu: "Gaza-síkság", ro: "Câmpia Gaza", en: "Gaza Plain"},
-    image: "/poi-images/gaza-ebene-relief-v2.webp",
     description: { de: "Ein weites Flachland im südlichen Mosambik.", hu: "Széles síkság Mozambik déli részén.", ro: "O câmpie întinsă în sudul Mozambicului.", en: "A vast flatland in southern Mozambique." , es: "Una vasta llanura en el sur de Mozambique.", pt: "Uma vasta planície no sul de Moçambique.", fr: "Une vaste plaine dans le sud du Mozambique."},
     facts: {
       de: ["Überwiegend sandig.", "Landwirtschaftlich genutzt."],
@@ -341,7 +333,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-NI",
     coords: [37.00, -12.50],
     name: { de: "Niassa-Waldgebiet", hu: "Niassa-erdőség", ro: "Pădurile Niassa", en: "Niassa Forest"},
-    image: "/poi-images/niassa-waldgebiet-relief-v2.webp",
     description: { de: "Große Miombo-Waldflächen im Norden.", hu: "Nagy Miombo-erdők északon.", ro: "Păduri mari de Miombo în nord.", en: "Large Miombo forest areas in the north." , es: "Grandes áreas de bosque de Miombo en el norte.", pt: "Grandes áreas de floresta de Miombo no norte.", fr: "Vastes étendues de forêt de Miombo dans le nord."},
     facts: {
       de: ["Typische Miombo-Vegetation.", "Heimat für viele Großtiere."],
@@ -377,7 +368,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-NA",
     coords: [39.00, -15.00],
     name: { de: "Nampula-Hochland", hu: "Nampula-felföld", ro: "Podișul Nampula", en: "Nampula Plateau"},
-    image: "/poi-images/nampula-hollan-relief-v2.webp",
     description: { de: "Ein hügeliges Plateau im Nordosten.", hu: "Dombos fennsík északkeleten.", ro: "Podiș deluros în nord-est.", en: "A hilly plateau in the northeast." , es: "Una meseta ondulada en el noreste.", pt: "Um planalto ondulado no nordeste.", fr: "Un plateau vallonné dans le nord-est."},
     facts: {
       de: ["Fruchtbare Region.", "Granitfelsen."],
@@ -458,7 +448,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-ZA",
     coords: [37.05, -15.42],
     name: { de: "Mount Namuli", hu: "Namuli-hegy", ro: "Muntele Namuli", en: "Mount Namuli"},
-    image: "/poi-images/mount-namuli-relief-v2.webp",
     description: { de: "Der zweithöchste Berg Mosambiks.", hu: "Mozambik második legmagasabb hegye.", ro: "Al doilea cel mai înalt munte din Mozambic.", en: "The second-highest mountain in Mozambique." , es: "La segunda montaña más alta de Mozambique.", pt: "A segunda montanha mais alta de Moçambique.", fr: "La deuxième plus haute montagne du Mozambique."},
     facts: {
       de: ["Höhe ca. 2419 m.", "Wichtiger Hotspot für Biodiversität."],
@@ -494,7 +483,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-MA",
     coords: [32.76, -19.98],
     name: { de: "Mount Binga", hu: "Binga-hegy", ro: "Muntele Binga", en: "Mount Binga"},
-    image: "/poi-images/mount-binga-relief-v2.webp",
     description: { de: "Der höchste Berg Mosambiks an der Grenze zu Simbabwe.", hu: "Mozambik legmagasabb hegye a Zimbabwei határnál.", ro: "Cel mai înalt munte din Mozambic la granița cu Zimbabwe.", en: "The highest mountain in Mozambique on the Zimbabwe border." , es: "La montaña más alta de Mozambique, situada en la frontera con Zimbabue.", pt: "A montanha mais alta de Moçambique, na fronteira com o Zimbabué.", fr: "La plus haute montagne du Mozambique, à la frontière avec le Zimbabwe."},
     facts: {
       de: ["Höhe 2436 m.", "Beliebt bei Bergsteigern."],
@@ -683,7 +671,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-CD",
     coords: [40.50, -12.90],
     name: { de: "Pemba-Bucht", hu: "Pemba-öböl", ro: "Golful Pemba", en: "Pemba Bay"},
-    image: "/poi-images/pemba-bucht-relief-v2.webp",
     description: { de: "Eine tiefe, geschützte Bucht im Norden.", hu: "Mély, védett öböl északon.", ro: "Un golf adânc și protejat în nord.", en: "A deep, sheltered bay in the north." , es: "Una bahía profunda y protegida en el norte.", pt: "Uma baía profunda e protegida no norte.", fr: "Une baie profonde et protégée dans le nord."},
     facts: {
       de: ["Idealer Naturhafen.", "Klares Wasser."],
@@ -719,7 +706,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-TE",
     coords: [33.70, -17.50],
     name: { de: "Lupata-Massiv", hu: "Lupata-hegység", ro: "Masivul Lupata", en: "Lupata Massif"},
-    image: "/poi-images/lupata-massiv-relief-v2.webp",
     description: { de: "Ein felsiges Massiv nahe dem Sambesi.", hu: "Sziklás hegyvonulat a Zambézi közelében.", ro: "Masiv stâncos lângă Zambezi.", en: "A rocky massif near the Zambezi." , es: "Un macizo rocoso cerca del Zambeze.", pt: "Um maciço rochoso perto do Zambeze.", fr: "Un massif rocheux près du Zambèze."},
     facts: {
       de: ["Schroffe Felsen.", "Schluchtenbildung."],
@@ -791,7 +777,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-TE",
     coords: [34.00, -14.50],
     name: { de: "Tete-Hochland", hu: "Tete-felföld", ro: "Podișul Tete", en: "Tete Highlands"},
-    image: "/poi-images/tite-hochland-relief-v2.webp",
     description: { de: "Ein bergiges Gebiet im Nordwesten von Tete.", hu: "Hegyvidéki terület Tete északnyugati részén.", ro: "Zonă muntoasă în nord-vestul provinciei Tete.", en: "A mountainous area in the northwest of Tete." , es: "Una zona montañosa en el noroeste de Tete.", pt: "Uma zona montanhosa no noroeste de Tete.", fr: "Une zone montagneuse dans le nord-ouest de Tete."},
     facts: {
       de: ["Trockene Bergwälder.", "Felsige Böden."],
@@ -827,7 +812,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-MP",
     coords: [32.50, -25.20],
     name: { de: "Incomati-Tal", hu: "Incomati-völgy", ro: "Valea Incomati", en: "Incomati Valley"},
-    image: "/poi-images/incomati-tal-relief-v2.webp",
     description: { de: "Ein fruchtbares Tal in der Provinz Maputo.", hu: "Termékeny völgy Maputo tartományban.", ro: "Vale fertilă în provincia Maputo.", en: "A fertile valley in the Maputo province." , es: "Un valle fértil en la provincia de Maputo.", pt: "Um vale fértil na província de Maputo.", fr: "Une vallée fertile dans la province de Maputo."},
     facts: {
       de: ["Wichtiges Anbaugebiet.", "Flusslandschaft."],
@@ -863,7 +847,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-IN",
     coords: [35.40, -21.70],
     name: { de: "Bazaruto-Dünen", hu: "Bazaruto-dűnék", ro: "Dunele Bazaruto", en: "Bazaruto Dunes"},
-    image: "/poi-images/bazaruto-duenen-relief-v2.webp",
     description: { de: "Hohe Sanddünen auf der Insel Bazaruto.", hu: "Magas homokdűnék a Bazaruto-szigeten.", ro: "Dune înalte de nisip pe insula Bazaruto.", en: "High sand dunes on Bazaruto Island." , es: "Altas dunas de arena en la isla de Bazaruto.", pt: "Dunas de areia altas na ilha de Bazaruto.", fr: "Hautes dunes de sable sur l'île de Bazaruto."},
     facts: {
       de: ["Feiner weißer Sand.", "Wandernde Dünen."],
@@ -899,7 +882,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-GA",
     coords: [33.70, -25.10],
     name: { de: "Limpopo-Delta", hu: "Limpopo-delta", ro: "Delta Limpopo", en: "Limpopo Delta"},
-    image: "/poi-images/limpopo-delta-relief-v2.webp",
     description: { de: "Die Mündungsregion des Limpopo-Flusses.", hu: "A Limpopo folyó torkolati régiója.", ro: "Regiunea de vărsare a fluviului Limpopo.", en: "The delta region of the Limpopo River." , es: "La región de la desembocadura del río Limpopo.", pt: "A região da foz do rio Limpopo.", fr: "La région de l'embouchure du fleuve Limpopo."},
     facts: {
       de: ["Schlammige Böden.", "Reich an Sedimenten."],
@@ -935,7 +917,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-ZA",
     coords: [37.50, -16.20],
     name: { de: "Gilé-Massiv", hu: "Gilé-hegység", ro: "Masivul Gilé", en: "Gilé Massif"},
-    image: "/poi-images/gile-massiv-relief-v2.webp",
     description: { de: "Ein hügeliges Massiv in der Gilé-Region.", hu: "Dombos hegység a Gilé régióban.", ro: "Masiv deluros în regiunea Gilé.", en: "A hilly massif in the Gilé region." , es: "Un macizo colinoso en la región de Gilé.", pt: "Um maciço montanhoso na região de Gilé.", fr: "Un massif vallonné dans la région de Gilé."},
     facts: {
       de: ["Bewaldete Hänge.", "Granitfelsen."],
@@ -971,7 +952,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-TE",
     coords: [32.70, -15.60],
     name: { de: "Cahora-Bassa-Schlucht", hu: "Cahora Bassa-szurdok", ro: "Cheile Cahora Bassa", en: "Cahora Bassa Gorge"},
-    image: "/poi-images/cahora-bassa-schlucht-relief-v2.webp",
     description: { de: "Eine spektakuläre Schlucht am Sambesi.", hu: "Látványos szurdok a Zambézi folyón.", ro: "Un defileu spectaculos pe Zambezi.", en: "A spectacular gorge on the Zambezi." , es: "Una garganta espectacular en el río Zambeze.", pt: "Uma garganta espetacular no rio Zambeze.", fr: "Une gorge spectaculaire sur le fleuve Zambèze."},
     facts: {
       de: ["Sehr steile Wände.", "Enge Flussführung."],
@@ -1007,7 +987,6 @@ export const poiExtraMozambiqueReliefV2: POI[] = [
     parent: "MZ-NI",
     coords: [35.50, -12.50],
     name: { de: "Niassa-Hochland", hu: "Niassa-felföld", ro: "Podișul Niassa", en: "Niassa Highlands"},
-    image: "/poi-images/niassa-hochland-relief-v2.webp",
     description: { de: "Ein Hochplateau nahe dem Malawisee.", hu: "Magas fennsík a Malawi-tó közelében.", ro: "Podiș înalt lângă Lacul Malawi.", en: "A high plateau near Lake Malawi." , es: "Una alta meseta cerca del lago Malawi.", pt: "Um alto planalto perto do Lago Niassa.", fr: "Un haut plateau près du lac Malawi."},
     facts: {
       de: ["Kühles Bergklima.", "Tolle Fernsicht."],

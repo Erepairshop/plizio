@@ -12,7 +12,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: "Banjuli kikötő",
       ro: "Portul din Banjul",
       en: "Port of Banjul"},
-    image: "/poi-images/banjul-sea-port-economic-v2.webp",
     description: {
       de: "Der Haupthafen Gambias und das wirtschaftliche Herz des Landes, über den fast der gesamte Außenhandel abgewickelt wird.",
       hu: "Gambia fő kikötője és az ország gazdasági szíve, amelyen keresztül szinte a teljes külkereskedelem bonyolódik.",
@@ -62,7 +61,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: "Banjuli halászati móló",
       ro: "Mollul de pescuit din Banjul",
       en: "Banjul Fisheries Jetty"},
-    image: "/poi-images/banjul-fisheries-jetty-economic-v2.webp",
     description: {
       de: "Ein spezialisierter Hafenbereich in der Hauptstadt, der ausschließlich für die kommerzielle Fischereiflotte und die Fischverarbeitung dient.",
       hu: "A főváros speciális kikötői területe, amely kizárólag a kereskedelmi halászflotta és a halfeldolgozás céljait szolgálja.",
@@ -112,7 +110,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: "Sarro földimogyoró-feldolgozó üzem",
       ro: "Fabrica de procesare a arahidelor Sarro",
       en: "Sarro Groundnut Processing Plant"},
-    image: "/poi-images/sarro-groundnut-plant-economic-v2.webp",
     description: {
       de: "Die größte Anlage der Gambia Groundnut Corporation zur Verarbeitung und Lagerung von Erdnüssen für den Export.",
       hu: "A Gambia Groundnut Corporation legnagyobb üzeme a földimogyoró feldolgozására és exportra történő tárolására.",
@@ -205,7 +202,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: "Banjuli Sörgyár (JulBrew)",
       ro: "Berăria din Banjul (JulBrew)",
       en: "Banjul Breweries (JulBrew)"},
-    image: "/poi-images/banjul-breweries-economic-v2.webp",
     description: {
       de: "Die einzige Brauerei Gambias, die das berühmte nationale Bier JulBrew sowie verschiedene Erfrischungsgetränke produziert.",
       hu: "Gambia egyetlen sörgyára, amely a híres nemzeti sört, a JulBrew-t, valamint különféle üdítőitalokat gyárt.",
@@ -253,7 +249,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: "Gambia Milling Corporation",
       ro: "Gambia Milling Corporation",
       en: "Gambia Milling Corporation"},
-    image: "/poi-images/gambia-milling-corp-economic-v2.webp",
     description: {
       de: "Eine moderne Weizenmühle im Hafengebiet von Banjul, die einen Großteil des im Land benötigten Mehls produziert.",
       hu: "Egy modern búzamalom Banjul kikötői területén, amely az országban szükségelt liszt nagy részét előállítja.",
@@ -301,7 +296,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: "Brikamai erőmű",
       ro: "Centrala electrică din Brikama",
       en: "Brikama Power Station"},
-    image: "/poi-images/brikama-power-station-economic-v2.webp",
     description: {
       de: "Das wichtigste thermische Kraftwerk des Landes, das einen bedeutenden Teil der Stromversorgung für den Großraum Banjul liefert.",
       hu: "Az ország legfontosabb hőerőműve, amely Banjul térségének áramellátásának jelentős részét biztosítja.",
@@ -394,7 +388,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: "Gunjuri hallisztgyár",
       ro: "Fabrica de făină de pește din Gunjur",
       en: "Gunjur Fish Meal Factory"},
-    image: "/poi-images/gunjur-fish-meal-factory-economic-v2.webp",
     description: {
       de: "Eine industrielle Anlage an der Küste, die Fischabfälle und Kleinfische zu Fischmehl für den internationalen Export verarbeitet.",
       hu: "Ipari létesítmény a tengerparton, amely a halmaradékokat és kishalakat hallisztté dolgozza fel nemzetközi exportra.",
@@ -490,7 +483,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: "Kauri földimogyoró-depó",
       ro: "Depozitul de arahide din Kaur",
       en: "Kaur Groundnut Depot"},
-    image: "/poi-images/kaur-groundnut-depot-economic-v2.webp",
     description: {
       de: "Ein historisch bedeutender Flusshafen und Sammelstelle für Erdnüsse, die hier auf Lastkähne für den Transport nach Banjul verladen werden.",
       hu: "Történelmileg jelentős folyami kikötő és földimogyoró-gyűjtőhely, ahol az árut uszályokra rakják a Banjulba történő szállításhoz.",
@@ -583,7 +575,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: "Kuntauri földimogyoró-depó",
       ro: "Depozitul de arahide din Kuntaur",
       en: "Kuntaur Groundnut Depot"},
-    image: "/poi-images/kuntaur-groundnut-depot-economic-v2.webp",
     description: {
       de: "Ein wichtiger logistischer Knotenpunkt am Oberlauf des Flusses für den Abtransport der landwirtschaftlichen Erzeugnisse der Region.",
       hu: "Fontos logisztikai csomópont a folyó felső szakaszán a régió mezőgazdasági termékeinek elszállítására.",
@@ -631,7 +622,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: "Barrai kompterminál",
       ro: "Terminalul de feribot din Barra",
       en: "Barra Ferry Terminal"},
-    image: "/poi-images/barra-ferry-terminal-economic-v2.webp",
     description: {
       de: "Die entscheidende Verbindungseinrichtung am Nordufer, die den Personen- und Güterverkehr zwischen Banjul und dem Senegal ermöglicht.",
       hu: "A döntő fontosságú összeköttetés az északi parton, amely lehetővé teszi a személy- és áruforgalmat Banjul és Szenegál között.",
@@ -679,7 +669,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: "Bakaui halászati rakodóhely",
       ro: "Punctul de debarcare a peștelui din Bakau",
       en: "Bakau Fish Landing Site"},
-    image: "/poi-images/bakau-fish-landing-economic-v2.webp",
     description: {
       de: "Ein wichtiger lokaler Hafen für die handwerkliche Fischerei, der die umliegenden Märkte mit frischem Fisch versorgt.",
       hu: "Fontos helyi kikötő a kézműves halászat számára, amely friss hallal látja el a környező piacokat.",
@@ -727,7 +716,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: "Brufuti halászati rakodóhely",
       ro: "Punctul de debarcare a peștelui din Brufut",
       en: "Brufut Fish Landing Site"},
-    image: "/poi-images/brufut-fish-landing-economic-v2.webp",
     description: {
       de: "Ein bedeutender Umschlagplatz für den Fang an der Küste, bekannt für die anschließende Verarbeitung und Trocknung von Fisch.",
       hu: "Jelentős rakodóhely a tengerparti fogások számára, amely a halak feldolgozásáról és szárításáról ismert.",
@@ -820,7 +808,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: "Sanyangi halászati rakodóhely",
       ro: "Punctul de debarcare a peștelui din Sanyang",
       en: "Sanyang Fish Landing Site"},
-    image: "/poi-images/sanyang-fish-landing-economic-v2.webp",
     description: {
       de: "Ein geschäftiger Fischereiknotenpunkt an der Atlantikküste, der eine zentrale Rolle in der Wirtschaft der West Coast Region spielt.",
       hu: "Nyüzsgő halászati csomópont az Atlanti-óceán partján, amely központi szerepet játszik a Nyugati Part régió gazdaságában.",
@@ -868,7 +855,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: "Kartongi homokbánya",
       ro: "Zonă de extracție a nisipului din Kartong",
       en: "Kartong Sand Mining Site"},
-    image: "/poi-images/kartong-sand-mining-economic-v2.webp",
     description: {
       de: "Ein bedeutender Standort für die Gewinnung von Bausand und Mineralien, der für die nationale Bauindustrie von großer Bedeutung ist.",
       hu: "Az építési homok és ásványi kincsek kitermelésének jelentős helyszíne, amely nagy fontossággal bír a nemzeti építőipar számára.",
@@ -964,7 +950,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: "Fatotoi folyami kikötő",
       ro: "Debarcaderul fluvial din Fatoto",
       en: "Fatoto River Wharf"},
-    image: "/poi-images/fatoto-river-wharf-economic-v2.webp",
     description: {
       de: "Der östlichste Flusshafen des Landes, ein wichtiger Endpunkt für den Warentransport per Schiff in das ferne Hinterland.",
       hu: "Az ország legkeletibb folyami kikötője, a hajón történő áruszállítás fontos végpontja a távoli szárazföldi területek felé.",
@@ -1057,7 +1042,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: "Bansangi kikötőhely",
       ro: "Debarcaderul din Bansang",
       en: "Bansang River Wharf"},
-    image: "/poi-images/bansang-river-wharf-economic-v2.webp",
     description: {
       de: "Ein wichtiger regionaler Hafen am Südufer des Gambia-Flusses, der für den Transport von Agrarprodukten und Gütern des täglichen Bedarfs genutzt wird.",
       hu: "Fontos regionális kikötő a Gambia-folyó déli partján, amelyet mezőgazdasági termékek és napi szükségleti cikkek szállítására használnak.",
@@ -1150,7 +1134,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: "Kerewani halászati rakodóhely",
       ro: "Punctul de debarcare a peștelui din Kerewan",
       en: "Kerewan Fish Landing Site"},
-    image: "/poi-images/kerewan-fish-landing-economic-v2.webp",
     description: {
       de: "Ein strategischer Punkt für die Fischerei am North Bank, gelegen an einem tiefen Seitenarm des Gambia-Flusses.",
       hu: "Stratégiai halászati pont az északi parton, a Gambia-folyó egyik mély mellékága mentén.",

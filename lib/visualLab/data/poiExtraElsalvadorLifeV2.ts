@@ -8,7 +8,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-LI",
     coords: [-89.266, 13.673],
     name: { de: "Jardin Botanico La Laguna", hu: "La Laguna Botanikus Kert", ro: "Jardin Botanico La Laguna", en: "Jardin Botanico La Laguna"},
-    image: "/poi-images/jardin-botanico-la-laguna-life-v2.webp",
     description: { de: "A volcanic-crater botanical garden near San Salvador.", hu: "Egy kialudt vulkáni kráter mélyén fekvő botanikus kert San Salvador közelében.", ro: "A volcanic-crater botanical garden near San Salvador.", en: "A volcanic-crater botanical garden near San Salvador." , es: "Un jardín botánico en un cráter volcánico cerca de San Salvador.", pt: "Um jardim botânico em uma cratera vulcânica perto de San Salvador.", fr: "Un jardin botanique dans un cratère volcanique près de San Salvador."},
     facts: {
       de: ["Set inside an ancient crater.", "Known for tropical plants.", "A calm urban escape."],
@@ -46,7 +45,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-SS",
     coords: [-89.246, 13.676],
     name: { de: "Parque Natural Balboa", hu: "Balboa Természeti Park", ro: "Parque Natural Balboa", en: "Parque Natural Balboa"},
-    image: "/poi-images/parque-natural-balboa-life-v2.webp",
     description: { de: "A green city park with flora, fauna, and family spaces.", hu: "Zöld városi park gazdag növényvilággal és családi kikapcsolódási lehetőségekkel.", ro: "A green city park with flora, fauna, and family spaces.", en: "A green city park with flora, fauna, and family spaces." , es: "Un parque urbano verde con flora, fauna y espacios para toda la familia.", pt: "Um parque urbano verde com flora, fauna e espaços familiares.", fr: "Un parc urbain verdoyant avec une flore, une faune et des espaces familiaux."},
     facts: {
       de: ["Close to the capital.", "Popular for walks.", "Rich in birds and shade."],
@@ -84,7 +82,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-SS",
     coords: [-89.245, 13.687],
     name: { de: "Parque Bicentenario", hu: "Bicentenario Park", ro: "Parque Bicentenario", en: "Parque Bicentenario"},
-    image: "/poi-images/parque-bicentenario-el-espino-life-v2.webp",
     description: { de: "A protected green park between San Salvador and Antiguo Cuscatlan.", hu: "Védett zöld terület San Salvador és Antiguo Cuscatlán határán.", ro: "A protected green park between San Salvador and Antiguo Cuscatlan.", en: "A protected green park between San Salvador and Antiguo Cuscatlan." , es: "Un parque verde protegido entre San Salvador y Antiguo Cuscatlán.", pt: "Um parque verde protegido entre San Salvador e Antiguo Cuscatlán.", fr: "Un parc vert protégé entre San Salvador et Antiguo Cuscatlán."},
     facts: {
       de: ["Part of El Espino.", "Strong urban biodiversity.", "Good for biking and walks."],
@@ -122,7 +119,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-SS",
     coords: [-89.290, 13.668],
     name: { de: "Parque Nacional El Boqueron", hu: "El Boquerón Nemzeti Park", ro: "Parque Nacional El Boqueron", en: "Parque Nacional El Boqueron"},
-    image: "/poi-images/parque-nacional-el-boqueron-life-v2.webp",
     description: { de: "A crater park with cool air, cloud forest, and volcanic scenery.", hu: "Kráterpark hűvös levegővel, köderdővel és vulkanikus tájjal.", ro: "A crater park with cool air, cloud forest, and volcanic scenery.", en: "A crater park with cool air, cloud forest, and volcanic scenery." , es: "Un parque en un cráter con aire fresco, bosque nuboso y paisajes volcánicos.", pt: "Um parque numa cratera com ar fresco, floresta nublada e paisagens vulcânicas.", fr: "Un parc dans un cratère avec de l'air frais, une forêt de nuages et des paysages volcaniques."},
     facts: {
       de: ["Centered on the San Salvador volcano.", "Popular hiking viewpoint.", "Home to birds and forest life."],
@@ -160,7 +156,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-SS",
     coords: [-89.286, 13.671],
     name: { de: "Brews Coffee By Finca El Boqueron", hu: "Brews Coffee Finca El Boquerón", ro: "Brews Coffee By Finca El Boqueron", en: "Brews Coffee By Finca El Boqueron"},
-    image: "/poi-images/brews-coffee-finca-el-boqueron-life-v2.webp",
     description: { de: "A coffee stop built around the volcanic highlands of San Salvador.", hu: "Kávézó a San Salvador-vulkán felföldjén, saját ültetvénnyel.", ro: "A coffee stop built around the volcanic highlands of San Salvador.", en: "A coffee stop built around the volcanic highlands of San Salvador." , es: "Una parada de café construida alrededor de las tierras altas volcánicas de San Salvador.", pt: "Uma parada de café construída em torno das terras altas vulcânicas de San Salvador.", fr: "Une étape café construite autour des hauts plateaux volcaniques de San Salvador."},
     facts: {
       de: ["Coffee-focused stop.", "Cool highland setting.", "Linked to local farms."],
@@ -270,7 +265,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-LI",
     coords: [-89.430, 13.575],
     name: { de: "Tamanique Waterfalls", hu: "Tamanique-vízesések", ro: "Tamanique Waterfalls", en: "Tamanique Waterfalls"},
-    image: "/poi-images/tamanique-waterfalls-life-v2.webp",
     description: { de: "A river canyon hike with pools, falls, and lush vegetation.", hu: "Folyó kanyon túra medencékkel, vízesésekkel és buja növényzettel.", ro: "A river canyon hike with pools, falls, and lush vegetation.", en: "A river canyon hike with pools, falls, and lush vegetation." , es: "Una caminata por un cañón de río con pozas, cascadas y vegetación exuberante.", pt: "Uma caminhada num canyon de rio com piscinas, cascatas e vegetação luxuriante.", fr: "Une randonnée dans un canyon de rivière avec des bassins, des cascades et une végétation luxuriante."},
     facts: {
       de: ["Popular day hike.", "Cool water pools.", "Surrounded by green slopes."],
@@ -308,7 +302,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-LI",
     coords: [-89.347, 13.422],
     name: { de: "San Diego Beach", hu: "San Diego-part", ro: "San Diego Beach", en: "San Diego Beach"},
-    image: "/poi-images/san-diego-beach-life-v2.webp",
     description: { de: "A quiet Pacific beach with dunes, birds, and coastal life.", hu: "Csendes csendes-óceáni strand dűnékkel, madarakkal és part menti élővilággal.", ro: "A quiet Pacific beach with dunes, birds, and coastal life.", en: "A quiet Pacific beach with dunes, birds, and coastal life." , es: "Una tranquila playa del Pacífico con dunas, aves y vida costera.", pt: "Uma praia tranquila do Pacífico com dunas, aves e vida costeira.", fr: "Une plage paisible du Pacifique avec des dunes, des oiseaux et une vie côtière."},
     facts: {
       de: ["Coastal habitat.", "Good for birdwatching.", "Known for calm shoreline."],
@@ -346,7 +339,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-US",
     coords: [-88.520, 13.313],
     name: { de: "El Espino Beach", hu: "El Espino-part", ro: "El Espino Beach", en: "El Espino Beach"},
-    image: "/poi-images/el-espino-beach-life-v2.webp",
     description: { de: "A coastal habitat in the Jiquilisco Bay area.", hu: "Parti élőhely a Jiquilisco-öböl területén.", ro: "A coastal habitat in the Jiquilisco Bay area.", en: "A coastal habitat in the Jiquilisco Bay area." , es: "Un hábitat costero en el área de la Bahía de Jiquilisco.", pt: "Um habitat costeiro na área da Baía de Jiquilisco.", fr: "Un habitat côtier dans la zone de la baie de Jiquilisco."},
     facts: {
       de: ["Part of the bay ecosystem.", "Good for turtles and birds.", "Quiet Pacific shoreline."],
@@ -384,7 +376,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-US",
     coords: [-88.535, 13.245],
     name: { de: "Bahia de Jiquilisco", hu: "Jiquilisco-öböl", ro: "Bahia de Jiquilisco", en: "Bahia de Jiquilisco"},
-    image: "/poi-images/bahia-de-jiquilisco-life-v2.webp",
     description: { de: "The largest mangrove area in El Salvador and a bird refuge.", hu: "El Salvador legnagyobb mangrove-területe és madárrezervátuma.", ro: "The largest mangrove area in El Salvador and a bird refuge.", en: "The largest mangrove area in El Salvador and a bird refuge." , es: "La mayor zona de manglares de El Salvador y un refugio de aves.", pt: "A maior área de mangue de El Salvador e um refúgio de aves.", fr: "La plus grande zone de mangroves d'El Salvador et un refuge pour oiseaux."},
     facts: {
       de: ["Major seabird habitat.", "Mangrove channels and islets.", "Important nesting coast."],
@@ -458,7 +449,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-US",
     coords: [-88.665, 13.315],
     name: { de: "Chaguantique Reserve", hu: "Chaguantique Rezervátum", ro: "Chaguantique Reserve", en: "Chaguantique Reserve"},
-    image: "/poi-images/chaguantique-reserve-life-v2.webp",
     description: { de: "A protected wetland area near the lower Lempa basin.", hu: "Védett vizes élőhely az alsó Lempa-medence közelében.", ro: "A protected wetland area near the lower Lempa basin.", en: "A protected wetland area near the lower Lempa basin." , es: "Un área de humedales protegidos cerca de la cuenca baja del Lempa.", pt: "Uma área de áreas úmidas protegidas perto da bacia inferior do Lempa.", fr: "Une zone humide protégée près du bassin inférieur du Lempa."},
     facts: {
       de: ["Wetland wildlife zone.", "Birdwatching destination.", "Supports local conservation."],
@@ -496,7 +486,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-SM",
     coords: [-88.365, 13.359],
     name: { de: "Laguna El Jocotal", hu: "El Jocotal-lagúna", ro: "Laguna El Jocotal", en: "Laguna El Jocotal"},
-    image: "/poi-images/laguna-el-jocotal-life-v2.webp",
     description: { de: "A lagoon and bird reserve east of San Miguel.", hu: "Lagúna és madárrezervátum San Migueltől keletre.", ro: "A lagoon and bird reserve east of San Miguel.", en: "A lagoon and bird reserve east of San Miguel." , es: "Una laguna y reserva de aves al este de San Miguel.", pt: "Uma lagoa e reserva de aves a leste de San Miguel.", fr: "Une lagune et une réserve d'oiseaux à l'est de San Miguel."},
     facts: {
       de: ["Important for migratory birds.", "Shallow wetland water.", "Classic eastern habitat."],
@@ -534,7 +523,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-SM",
     coords: [-88.040, 13.306],
     name: { de: "Laguna de Olomega", hu: "Olomega-lagúna", ro: "Laguna de Olomega", en: "Laguna de Olomega"},
-    image: "/poi-images/laguna-de-olomega-life-v2.webp",
     description: { de: "A large eastern lagoon known for birds and fishing communities.", hu: "Nagy keleti lagúna, madárvilágáról és halászközösségeiről ismert.", ro: "A large eastern lagoon known for birds and fishing communities.", en: "A large eastern lagoon known for birds and fishing communities." , es: "Una gran laguna oriental conocida por sus aves y comunidades de pescadores.", pt: "Uma grande lagoa oriental conhecida pelas aves e comunidades de pescadores.", fr: "Une grande lagune orientale connue pour ses oiseaux et ses communautés de pêcheurs."},
     facts: {
       de: ["Wetland ecosystem.", "Local fishing life.", "Strong bird presence."],
@@ -572,7 +560,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-SA",
     coords: [-89.396, 14.368],
     name: { de: "Parque Nacional Montecristo", hu: "Montecristo Nemzeti Park", ro: "Parque Nacional Montecristo", en: "Parque Nacional Montecristo"},
-    image: "/poi-images/parque-nacional-montecristo-life-v2.webp",
     description: { de: "A cloud forest reserve on El Salvador's western highlands.", hu: "Köderdő rezervátum El Salvador nyugati felföldjén.", ro: "A cloud forest reserve on El Salvador's western highlands.", en: "A cloud forest reserve on El Salvador's western highlands." , es: "Una reserva de bosque nuboso en las tierras altas del occidente de El Salvador.", pt: "Uma reserva de floresta nublada nas terras altas do oeste de El Salvador.", fr: "Une réserve de forêt de nuages dans les hautes terres occidentales d'El Salvador."},
     facts: {
       de: ["Cool mountain climate.", "Rare forest plants.", "Shared border mountains."],
@@ -610,7 +597,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-SA",
     coords: [-89.55, 13.814],
     name: { de: "Cerro Verde National Park", hu: "Cerro Verde Nemzeti Park", ro: "Cerro Verde National Park", en: "Cerro Verde National Park"},
-    image: "/poi-images/cerro-verde-national-park-life-v2.webp",
     description: { de: "A volcanic highland park with birds, forests, and crater views.", hu: "Vulkanikus felföldi park madarakkal, erdőkkel és kráterkilátással.", ro: "A volcanic highland park with birds, forests, and crater views.", en: "A volcanic highland park with birds, forests, and crater views." , es: "Un parque volcánico de tierras altas con aves, bosques y vistas al cráter.", pt: "Um parque vulcânico de terras altas com aves, florestas e vistas da cratera.", fr: "Un parc volcanique d'altitude avec des oiseaux, des forêts et des vues sur le cratère."},
     facts: {
       de: ["Viewpoint over Izalco.", "Cool and misty forest.", "Popular for short hikes."],
@@ -648,7 +634,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-SA",
     coords: [-89.545, 14.266],
     name: { de: "Lago de Guija", hu: "Güija-tó", ro: "Lago de Guija", en: "Lake Guija"},
-    image: "/poi-images/lago-de-guija-life-v2.webp",
     description: { de: "A border lake with strong birdlife and wetland habitats.", hu: "Határmenti tó gazdag madárvilággal és vizes élőhelyekkel.", ro: "A border lake with strong birdlife and wetland habitats.", en: "A border lake with strong birdlife and wetland habitats." , es: "Un lago fronterizo con una gran vida aviar y hábitats de humedales.", pt: "Um lago de fronteira com uma vida de aves ativa e habitats de zonas húmidas.", fr: "Un lac frontalier avec une vie aviaire riche et des habitats de zones humides."},
     facts: {
       de: ["Shared with Guatemala.", "Good for waterbirds.", "Volcanic landscape around it."],
@@ -686,7 +671,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-SA",
     coords: [-89.55, 13.867],
     name: { de: "Lago de Coatepeque", hu: "Coatepeque-tó", ro: "Lago de Coatepeque", en: "Lake Coatepeque"},
-    image: "/poi-images/lago-de-coatepeque-life-v2.webp",
     description: { de: "A caldera lake with clear water and lakeside biodiversity.", hu: "Kalderató tiszta vízzel és gazdag part menti biodiverzitással.", ro: "A caldera lake with clear water and lakeside biodiversity.", en: "A caldera lake with clear water and lakeside biodiversity." , es: "Un lago de caldera con aguas cristalinas y biodiversidad a orillas del lago.", pt: "Um lago de caldeira com águas cristalinas e biodiversidade à beira do lago.", fr: "Un lac de caldeira aux eaux cristallines et à la biodiversité riveraine."},
     facts: {
       de: ["Inside an ancient caldera.", "Popular for swimming and boating.", "Birds around the shoreline."],
@@ -724,7 +708,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-AH",
     coords: [-89.820, 13.871],
     name: { de: "Coffee Farms Ruta de las Flores", hu: "Ruta de las Flores kávéültetvények", ro: "Coffee Farms Ruta de las Flores", en: "Coffee Farms Ruta de las Flores"},
-    image: "/poi-images/coffee-farms-ruta-de-las-flores-life-v2.webp",
     description: { de: "Coffee farms in the flower route highlands.", hu: "Kávéültetvények a virágok útjának felföldjén.", ro: "Coffee Farms Ruta de las Flores", en: "Coffee Farms Ruta de las Flores" , es: "Granjas de café en las tierras altas de la ruta de las flores.", pt: "Fazendas de café nas terras altas da rota das flores.", fr: "Fermes de café sur les hauts plateaux de la route des fleurs."},
     facts: {
       de: ["Highland coffee country.", "Birdwatching-friendly slopes.", "Part of local tourism."],
@@ -762,7 +745,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-AH",
     coords: [-89.844, 13.871],
     name: { de: "Concepcion de Ataco Coffee Hills", hu: "Concepción de Ataco kávédombok", ro: "Concepcion de Ataco Coffee Hills", en: "Concepcion de Ataco Coffee Hills"},
-    image: "/poi-images/concepcion-de-ataco-coffee-hills-life-v2.webp",
     description: { de: "Coffee-covered hills above the colorful town of Ataco.", hu: "Kávéval borított dombok a színes Ataco városa felett.", ro: "Coffee-covered hills above the colorful town of Ataco.", en: "Coffee-covered hills above the colorful town of Ataco." , es: "Colinas cubiertas de café sobre el colorido pueblo de Ataco.", pt: "Colinas cobertas de café acima da colorida cidade de Ataco.", fr: "Collines couvertes de café surplombant la ville colorée d'Ataco."},
     facts: {
       de: ["Cool mountain climate.", "Coffee tour country.", "Strong birdwatching scene."],
@@ -800,7 +782,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-AH",
     coords: [-89.758, 13.833],
     name: { de: "Laguna Verde", hu: "Laguna Verde (Zöld-lagúna)", ro: "Laguna Verde", en: "Laguna Verde"},
-    image: "/poi-images/apaneca-laguna-verde-life-v2.webp",
     description: { de: "A scenic highland lagoon near Apaneca.", hu: "Festői hegyi lagúna Apaneca közelében.", ro: "A scenic highland lagoon near Apaneca.", en: "A scenic highland lagoon near Apaneca." , es: "Una pintoresca laguna de montaña cerca de Apaneca.", pt: "Uma lagoa cénica nas terras altas perto de Apaneca.", fr: "Une lagune d'altitude pittoresque près d'Apaneca."},
     facts: {
       de: ["Cool and misty setting.", "Great for short walks.", "Forest and lagoon habitat."],
@@ -838,7 +819,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-AH",
     coords: [-89.754, 13.841],
     name: { de: "Laguna Las Ninfas", hu: "Laguna Las Ninfas", ro: "Laguna Las Ninfas", en: "Laguna Las Ninfas"},
-    image: "/poi-images/apaneca-laguna-las-ninfas-life-v2.webp",
     description: { de: "A small lagoon area with birds and forest edges.", hu: "Kis lagúna terület madarakkal és erdőszélekkel.", ro: "A small lagoon area with birds and forest edges.", en: "A small lagoon area with birds and forest edges." , es: "Una pequeña zona de laguna con aves y bordes de bosque.", pt: "Uma pequena zona de lagoa com aves e margens de floresta.", fr: "Une petite zone lagunaire avec des oiseaux et des lisières de forêt."},
     facts: {
       de: ["Quiet nature stop.", "Good for birdwatching.", "Part of Apaneca ecotourism."],
@@ -876,7 +856,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-AH",
     coords: [-89.801, 13.860],
     name: { de: "Laberinto de Albania", hu: "Laberinto de Albania (Albania-útvesztő)", ro: "Laberinto de Albania", en: "Laberinto de Albania"},
-    image: "/poi-images/laberinto-de-albania-life-v2.webp",
     description: { de: "A large eco-labyrinth and family attraction in Apaneca.", hu: "Hatalmas öko-útvesztő és családi látványosság Apanecában.", ro: "A large eco-labyrinth and family attraction in Apaneca.", en: "A large eco-labyrinth and family attraction in Apaneca." , es: "Un gran eco-laberinto y atracción familiar en Apaneca.", pt: "Um grande eco-labirinto e atração familiar em Apaneca.", fr: "Un grand éco-labyrinthe et une attraction familiale à Apaneca."},
     facts: {
       de: ["Eco-friendly attraction.", "Family favorite.", "Set in cool highlands."],
@@ -914,7 +893,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-AH",
     coords: [-89.900, 13.880],
     name: { de: "Parque Nacional El Imposible", hu: "El Imposible Nemzeti Park", ro: "Parque Nacional El Imposible", en: "El Imposible National Park"},
-    image: "/poi-images/parque-nacional-el-imposible-life-v2.webp",
     description: { de: "A rugged protected forest with deep canyons and wildlife.", hu: "Tagolt védett erdő mély kanyonokkal és vadvilággal.", ro: "A rugged protected forest with deep canyons and wildlife.", en: "A rugged protected forest with deep canyons and wildlife." , es: "Un bosque protegido y escarpado con cañones profundos y vida silvestre.", pt: "Uma floresta protegida acidentada com desfiladeiros profundos e vida selvagem.", fr: "Une forêt protégée escarpée avec des canyons profonds et une faune variée."},
     facts: {
       de: ["One of the country's best parks.", "Strong biodiversity.", "Popular with hikers."],
@@ -952,7 +930,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-AH",
     coords: [-89.833, 13.658],
     name: { de: "Barra de Santiago Mangroves", hu: "Barra de Santiago mangrove-erdők", ro: "Barra de Santiago Mangroves", en: "Barra de Santiago Mangroves"},
-    image: "/poi-images/barra-de-santiago-mangroves-life-v2.webp",
     description: { de: "An estuary and mangrove zone on the Ahuachapan coast.", hu: "Torkolat és mangrove-zóna Ahuachapán partjainál.", ro: "An estuary and mangrove zone on the Ahuachapan coast.", en: "An estuary and mangrove zone on the Ahuachapan coast." , es: "Una zona de estuario y manglares en la costa de Ahuachapán.", pt: "Uma zona de estuário e mangais na costa de Ahuachapán.", fr: "Une zone d'estuaire et de mangrove sur la côte d'Ahuachapán."},
     facts: {
       de: ["Birds and crocodiles.", "Boat tours in the estuary.", "Important coastal habitat."],
@@ -990,7 +967,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-CA",
     coords: [-88.945, 13.875],
     name: { de: "Bosque Cinquera", hu: "Cinquera-erdő", ro: "Bosque Cinquera", en: "Bosque Cinquera"},
-    image: "/poi-images/bosque-cinquera-life-v2.webp",
     description: { de: "A reforested forest reserve with a strong conservation story.", hu: "Újratelepített erdőrezervátum erős természetvédelmi történettel.", ro: "A reforested forest reserve with a strong conservation story.", en: "A reforested forest reserve with a strong conservation story." , es: "Una reserva forestal reforestada con una sólida historia de conservación.", pt: "Uma reserva florestal reflorestada com uma forte história de conservação.", fr: "Une réserve forestière reboisée avec une forte histoire de conservation."},
     facts: {
       de: ["Recovered after war damage.", "Good for trail walks.", "Home to local wildlife."],
@@ -1028,7 +1004,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-LU",
     coords: [-87.700, 13.220],
     name: { de: "Meanguera Island", hu: "Meanguera-sziget", ro: "Meanguera Island", en: "Meanguera Island"},
-    image: "/poi-images/meanguera-island-life-v2.webp",
     description: { de: "An inhabited volcanic island with beaches and fishing life.", hu: "Lakott vulkáni sziget strandokkal és halászélettel.", ro: "An inhabited volcanic island with beaches and fishing life.", en: "An inhabited volcanic island with beaches and fishing life." , es: "Una isla volcánica habitada con playas y vida pesquera.", pt: "Uma ilha vulcânica habitada com praias e vida de pesca.", fr: "Une île volcanique habitée avec des plages et une vie de pêcheur."},
     facts: {
       de: ["In the Gulf of Fonseca.", "Fishing is part of daily life.", "Volcanic island landscape."],
@@ -1066,7 +1041,6 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     parent: "SV-LU",
     coords: [-87.870, 13.303],
     name: { de: "Conchagua Volcano Wildlife", hu: "Conchagua-vulkán vadvilága", ro: "Conchagua Volcano Wildlife", en: "Conchagua Volcano Wildlife"},
-    image: "/poi-images/conchagua-volcano-wildlife-life-v2.webp",
     description: { de: "A forested volcanic area with broad views over the gulf.", hu: "Erdős vulkáni terület széles kilátással az öbölre.", ro: "A forested volcanic area with broad views over the gulf.", en: "A forested volcanic area with broad views over the gulf." , es: "Una zona volcánica boscosa con amplias vistas sobre el golfo.", pt: "Uma área vulcânica arborizada com amplas vistas sobre o golfo.", fr: "Une zone volcanique boisée offrant de larges vues sur le golfe."},
     facts: {
       de: ["Forest and ridge habitat.", "Views of three countries.", "Popular hiking route."],

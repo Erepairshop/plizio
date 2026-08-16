@@ -161,7 +161,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-G",
     coords: [-79.8778, -2.1906],
     name: { de: "Malecón 2000", hu: "Malecón 2000", ro: "Malecón 2000", en: "Malecón 2000"},
-    image: "/poi-images/malecon-2000-landmarks-v2.webp",
     description: {
       de: "Eine berühmte Uferpromenade am Fluss Guayas, die das moderne und historische Gesicht von Guayaquil prägt.",
       hu: "A Guayas folyó partján húzódó híres sétány, amely Guayaquil modern és történelmi arcát egyaránt bemutatja.",
@@ -1438,7 +1437,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-P",
     coords: [-78.5186, -0.2286],
     name: { de: "Virgen de El Panecillo", hu: "El Panecillo Szűz Mária", ro: "Fecioara din El Panecillo", en: "Virgin of El Panecillo"},
-    image: "/poi-images/virgen-de-el-panecillo-landmarks-v2.webp",
     description: {
       de: "Eine riesige Aluminiumstatue auf einem Hügel, die über die gesamte Stadt Quito wacht.",
       hu: "Hatalmas alumíniumszobor egy domb tetején, amely egész Quito városa fölé magasodik.",
@@ -1563,7 +1561,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-G",
     coords: [-79.8731, -2.1793],
     name: { de: "Faro del Cerro Santa Ana", hu: "Santa Ana-domb világítótornya", ro: "Farul Cerro Santa Ana", en: "Cerro Santa Ana Lighthouse"},
-    image: "/poi-images/faro-del-cerro-santa-ana-landmarks-v2.webp",
     description: {
       de: "Ein malerischer Leuchtturm auf dem Gipfel des Cerro Santa Ana, der nach 444 Stufen erreicht wird.",
       hu: "Festői világítótorony a Santa Ana-domb tetején, amely 444 lépcsőfok megmászása után érhető el.",
@@ -2408,7 +2405,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-P",
     coords: [-78.5182, -0.1818],
     name: { de: "Teleférico de Quito", hu: "Quito felvonó", ro: "Telecabina din Quito", en: "Quito Cable Car"},
-    image: "/poi-images/teleferico-de-quito-landmarks-v2.webp",
     description: {
       de: "Eine der höchsten Seilbahnen der Welt, die Besucher vom Stadtzentrum bis an die Hänge des Vulkans Pichincha bringt.",
       hu: "A világ egyik legmagasabban fekvő drótkötélpályája, amely a városközpontból a Pichincha vulkán lejtőire szállítja a látogatókat.",
@@ -2821,7 +2817,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-G",
     coords: [-79.8554, -2.1462],
     name: { de: "Puente de la Unidad Nacional", hu: "Nemzeti Egység híd", ro: "Podul Unității Naționale", en: "National Unity Bridge"},
-    image: "/poi-images/puente-de-la-unidad-nacional-landmarks-v2.webp",
     description: {
       de: "Ein wichtiger Brückenkomplex, der Guayaquil mit den Nachbarstädten Durán und Samborondón über die Flüsse Babahoyo und Daule verbindet.",
       hu: "Fontos hídkomplexum, amely Guayaquilt köti össze a szomszédos Durán és Samborondón városokkal a Babahoyo és a Daule folyókon keresztül.",
@@ -3990,7 +3985,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-G",
     coords: [-79.9254, -2.1852],
     name: { de: "Estadio Monumental", hu: "Monumental Stadion", ro: "Stadionul Monumental", en: "Monumental Stadium"},
-    image: "/poi-images/estadio-monumental-isidro-romero-carbo-landmarks-v2.webp",
     description: {
       de: "Das größte Fußballstadion Ecuadors und die Heimat des bekannten Vereins Barcelona Sporting Club in Guayaquil.",
       hu: "Ecuador legnagyobb labdarúgó-stadionja és a híres Barcelona Sporting Club otthona Guayaquilban.",
@@ -5375,7 +5369,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-P",
     coords: [-78.4891, -0.1077],
     name: { de: "Estadio Rodrigo Paz Delgado", hu: "Rodrigo Paz Delgado Stadion", ro: "Stadionul Rodrigo Paz Delgado", en: "Rodrigo Paz Delgado Stadium"},
-    image: "/poi-images/estadio-rodrigo-paz-delgado-landmarks-v2.webp",
     description: {
       de: "Dieses moderne Stadion, umgangssprachlich Casa Blanca genannt, ist die Heimat der LDU Quito und oft Spielort der Nationalmannschaft.",
       hu: "Ez a modern stadion, amelyet Casa Blanca néven is ismernek, az LDU Quito otthona, és gyakran ad helyet a válogatott mérkőzéseinek.",
@@ -6544,7 +6537,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-T",
     coords: [-78.4231, -1.3963],
     name: { de: "Santuario de la Virgen de Agua Santa", hu: "Agua Santa Szűz Mária-kegyhely", ro: "Sanctuarul Fecioarei de Agua Santa", en: "Sanctuary of the Virgin of Holy Water"},
-    image: "/poi-images/santuario-de-la-virgen-de-agua-santa-landmarks-v2.webp",
     description: {
       de: "Eine neugotische katholische Basilika im Kurort Baños, die Pilger aus ganz Südamerika anzieht.",
       hu: "Neogótikus katolikus bazilika Baños fürdővárosában, amely Dél-Amerika minden részéről vonzza a zarándokokat.",
@@ -7173,7 +7165,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-T",
     coords: [-78.4312, -1.4124],
     name: { de: "La Casa del Árbol", hu: "A Lombház", ro: "Casa din Copac", en: "The Treehouse"},
-    image: "/poi-images/la-casa-del-arbol-landmarks-v2.webp",
     description: {
       de: "Eine berühmte hölzerne Aussichtsplattform mit einer Schaukel, die über einer tiefen Schlucht in der Nähe des Vulkans Tungurahua baumelt.",
       hu: "Híres fa kilátó egy hintával, amely egy mély szakadék fölé lóg a Tungurahua vulkán közelében.",
@@ -7334,7 +7325,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-P",
     coords: [-78.5126, -0.2198],
     name: { de: "Monumento a la Independencia", hu: "Függetlenségi emlékmű", ro: "Monumentul Independenței", en: "Independence Monument"},
-    image: "/poi-images/monumento-a-la-independencia-landmarks-v2.webp",
     description: {
       de: "Ein historisches Säulenmonument im Herzen der Plaza Grande in Quito, das den ersten Schrei nach Unabhängigkeit ehrt.",
       hu: "Történelmi oszlopemlékmű a quitói Plaza Grande szívében, amely az első függetlenségi kiáltásnak állít emléket.",
@@ -7567,7 +7557,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-G",
     coords: [-79.8795, -2.1993],
     name: { de: "Palacio de Cristal", hu: "Kristálypalota", ro: "Palatul de Cristal", en: "Crystal Palace"},
-    image: "/poi-images/palacio-de-cristal-landmarks-v2.webp",
     description: {
       de: "Ein markantes Gebäude aus Eisen und Glas in Guayaquil, das einst als Markt diente und heute Kunstausstellungen beherbergt.",
       hu: "Egy feltűnő, vasból és üvegből készült épület Guayaquilban, amely egykor piacként működött, ma pedig művészeti kiállításoknak ad otthont.",
@@ -7800,7 +7789,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-G",
     coords: [-79.8824, -2.1932],
     name: { de: "Glorieta del Parque Seminario", hu: "Seminario park pavilonja", ro: "Foișorul din Parcul Seminario", en: "Gazebo of Seminario Park"},
-    image: "/poi-images/glorieta-del-parque-seminario-landmarks-v2.webp",
     description: {
       de: "Ein reich verzierter Schmiedeeisenpavillon im Leguanpark von Guayaquil, der als eleganter Mittelpunkt des Platzes fungiert.",
       hu: "Egy gazdagon díszített kovácsoltvas pavilon Guayaquil Leguán-parkjában, amely a tér elegáns központjaként funkcionál.",
@@ -7844,7 +7832,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-P",
     coords: [-78.5127, -0.2201],
     name: { de: "Catedral Metropolitana de Quito", hu: "Quitói Metropolita Katedrális", ro: "Catedrala Metropolitană din Quito", en: "Metropolitan Cathedral of Quito"},
-    image: "/poi-images/catedral-metropolitana-de-quito-landmarks-v2.webp",
     description: {
       de: "Die katholische Hauptkirche von Quito an der Plaza Grande, berühmt für ihre weiße Fassade und koloniale Kunst.",
       hu: "Quito fő katolikus temploma a Plaza Grandén, amely fehér homlokzatáról és gyarmati művészetéről híres.",
@@ -8041,7 +8028,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-L",
     coords: [-79.4262, -3.8543],
     name: { de: "Santuario de la Virgen del Cisne", hu: "El Cisne-i Szűz Mária-kegyhely", ro: "Sanctuarul Fecioarei din El Cisne", en: "Sanctuary of the Virgin of El Cisne"},
-    image: "/poi-images/santuario-de-la-virgen-del-cisne-landmarks-v2.webp",
     description: {
       de: "Eine monumentale gotische Kirche in der Bergstadt El Cisne, das Zentrum einer der größten Pilgerreisen Ecuadors.",
       hu: "Monumentális gótikus templom El Cisne hegyi városában, amely Ecuador egyik legnagyobb zarándoklatának központja.",
@@ -8346,7 +8332,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-P",
     coords: [-78.5085, -0.2185],
     name: { de: "Teatro Nacional Sucre", hu: "Sucre Nemzeti Színház", ro: "Teatrul Național Sucre", en: "Sucre National Theater"},
-    image: "/poi-images/teatro-nacional-sucre-landmarks-v2.webp",
     description: {
       de: "Das älteste und prestigeträchtigste Opernhaus in Quito, das in einem prächtigen neoklassizistischen Gebäude untergebracht ist.",
       hu: "Quito legrégebbi és legrangosabb operaháza, amely egy csodálatos neoklasszicista épületben kapott helyet.",
@@ -9443,7 +9428,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-P",
     coords: [-78.4965, -0.2017],
     name: { de: "Mercado Artesanal La Mariscal", hu: "La Mariscal kézműves piac", ro: "Piața de Artizanat La Mariscal", en: "La Mariscal Artisanal Market"},
-    image: "/poi-images/mercado-artesanal-la-mariscal-landmarks-v2.webp",
     description: {
       de: "Ein lebhafter Markt in Quito, auf dem lokale Kunsthandwerker farbenfrohe Textilien, Schmuck und traditionelle Souvenirs verkaufen.",
       hu: "Élénk piac Quitóban, ahol a helyi kézművesek színes textíliákat, ékszereket és hagyományos ajándéktárgyakat árulnak.",
@@ -9856,7 +9840,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-G",
     coords: [-79.8831, -2.1927],
     name: { de: "Catedral Metropolitana de Guayaquil", hu: "Guayaquili Metropolita Katedrális", ro: "Catedrala Metropolitană din Guayaquil", en: "Metropolitan Cathedral of Guayaquil"},
-    image: "/poi-images/catedral-metropolitana-de-guayaquil-landmarks-v2.webp",
     description: {
       de: "Eine neugotische Kathedrale gegenüber dem Leguanpark, gekennzeichnet durch ihre eindrucksvollen Zwillingstürme.",
       hu: "Neogótikus katedrális a Leguán-parkkal szemben, amelyet látványos ikertornyai tesznek jellegzetessé.",
@@ -10917,7 +10900,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-P",
     coords: [-78.3586, -0.1132],
     name: { de: "Aeropuerto Mariscal Sucre", hu: "Mariscal Sucre repülőtér", ro: "Aeroportul Mariscal Sucre", en: "Mariscal Sucre Airport"},
-    image: "/poi-images/aeropuerto-internacional-mariscal-sucre-landmarks-v2.webp",
     description: {
       de: "Der modernste internationale Flughafen Ecuadors, gelegen in der Hochebene von Tababela außerhalb von Quito.",
       hu: "Ecuador legmodernebb nemzetközi repülőtere, amely Tababela fennsíkján, Quitón kívül helyezkedik el.",
@@ -11078,7 +11060,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-G",
     coords: [-79.8762, -2.1843],
     name: { de: "La Perla", hu: "A Gyöngy óriáskerék", ro: "Roata panoramică La Perla", en: "La Perla Ferris Wheel"},
-    image: "/poi-images/la-perla-landmarks-v2.webp",
     description: {
       de: "Ein massives Riesenrad am Malecón 2000, das spektakuläre Ausblicke über den Guayas-Fluss und Guayaquil bietet.",
       hu: "Hatalmas óriáskerék a Malecón 2000 sétányon, amely látványos kilátást nyújt a Guayas folyóra és Guayaquilra.",
@@ -11122,7 +11103,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-G",
     coords: [-79.8761, -2.1814],
     name: { de: "MAAC Guayaquil", hu: "MAAC Múzeum", ro: "Muzeul MAAC", en: "MAAC Museum"},
-    image: "/poi-images/museo-maac-landmarks-v2.webp",
     description: {
       de: "Das anthropologische und zeitgenössische Kunstmuseum von Guayaquil, bekannt für sein segelartiges architektonisches Design.",
       hu: "Guayaquil antropológiai és kortárs művészeti múzeuma, amely vitorlaszerű építészeti kialakításáról ismert.",
@@ -11895,7 +11875,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-P",
     coords: [-78.4485, -0.0039],
     name: { de: "Edificio de la Unasur", hu: "UNASUR székház", ro: "Clădirea Unasur", en: "Unasur Building"},
-    image: "/poi-images/edificio-unasur-landmarks-v2.webp",
     description: {
       de: "Ein futuristisches Gebäude in der Nähe des Äquators, das als Sitz der Union Südamerikanischer Nationen erbaut wurde.",
       hu: "Futurisztikus épület az Egyenlítő közelében, amely a Dél-amerikai Nemzetek Uniójának székhelyeként épült.",
@@ -13064,7 +13043,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-P",
     coords: [-78.4716, -0.1765],
     name: { de: "Monumento al Ciclista", hu: "Kerékpáros emlékmű", ro: "Monumentul Biciclistului", en: "Cyclist Monument"},
-    image: "/poi-images/monumento-al-ciclista-landmarks-v2.webp",
     description: {
       de: "Eine stilisierte Skulptur an einer verkehrsreichen Kreuzung in Quito, die dem umweltfreundlichen Transport gewidmet ist.",
       hu: "Stilizált szobor Quito egyik forgalmas útkereszteződésében, amelyet a környezetbarát közlekedésnek szenteltek.",
@@ -14521,7 +14499,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-F",
     coords: [-78.8954, -2.7101],
     name: { de: "Santuario de Nuestra Señora del Rocío", hu: "Rocío-i Miasszonyunk kegyhely", ro: "Sanctuarul Maicii Domnului din Rocío", en: "Sanctuary of Our Lady of the Dew"},
-    image: "/poi-images/santuario-de-nuestra-senora-del-rocio-landmarks-v2.webp",
     description: {
       de: "Eine spektakuläre Kirche, die direkt in die steilen Felswände oberhalb der Kleinstadt Biblián gebaut wurde.",
       hu: "Látványos templom, amelyet közvetlenül a Biblián kisváros fölé magasodó meredek sziklafalakba építettek.",
@@ -15798,7 +15775,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-P",
     coords: [-78.5303, -0.2294],
     name: { de: "Templo de la Patria", hu: "A Haza Temploma", ro: "Templul Patriei", en: "Temple of the Fatherland"},
-    image: "/poi-images/templo-de-la-patria-landmarks-v2.webp",
     description: {
       de: "Ein massives Museum und Denkmal am Hang des Pichincha, wo die entscheidende Schlacht für Ecuadors Unabhängigkeit stattfand.",
       hu: "Masszív múzeum és emlékmű a Pichincha lejtőjén, ahol Ecuador függetlenségének döntő csatája zajlott.",
@@ -17147,7 +17123,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-P",
     coords: [-78.4116, -0.2522],
     name: { de: "Cruz del Ilaló", hu: "Ilaló-kereszt", ro: "Crucea din Ilaló", en: "Cross of Ilaló"},
-    image: "/poi-images/cruz-del-ilalo-landmarks-v2.webp",
     description: {
       de: "Ein monumentales Eisenkreuz auf dem erloschenen Vulkan Ilaló, das nachts beleuchtet wird und von den Tälern Tumbaco und Los Chillos sichtbar ist.",
       hu: "Monumentális vaskereszt a kialudt Ilaló vulkánon, amelyet éjszaka kivilágítanak, és a Tumbaco- és Los Chillos-völgyből is látható.",
@@ -17452,7 +17427,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-G",
     coords: [-79.8681, -2.1402],
     name: { de: "Parque Histórico Guayaquil", hu: "Guayaquil Történelmi Park", ro: "Parcul Istoric Guayaquil", en: "Guayaquil Historical Park"},
-    image: "/poi-images/parque-historico-guayaquil-landmarks-v2.webp",
     description: {
       de: "Ein Themenpark, der historische Architektur, die traditionelle Lebensweise und die einheimische Tierwelt der Küstenregion vereint.",
       hu: "Egy vidámpark, amely egyesíti a történelmi építészetet, a hagyományos életmódot és a tengerparti régió őshonos vadvilágát.",
@@ -17496,7 +17470,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-G",
     coords: [-79.8732, -2.1751],
     name: { de: "Edificio The Point", hu: "The Point felhőkarcoló", ro: "Clădirea The Point", en: "The Point Building"},
-    image: "/poi-images/edificio-the-point-landmarks-v2.webp",
     description: {
       de: "Ein ikonischer, spiralförmiger Wolkenkratzer am Ufer des Guayas, der das Symbol des modernen Guayaquil darstellt.",
       hu: "Ikonikus, spirál alakú felhőkarcoló a Guayas folyó partján, amely a modern Guayaquil szimbóluma.",
@@ -18089,7 +18062,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-P",
     coords: [-78.3312, -0.1098],
     name: { de: "Basílica de la Virgen del Quinche", hu: "El Quinche-i Szűz Mária-bazilika", ro: "Bazilica Fecioarei din El Quinche", en: "Basilica of the Virgin of El Quinche"},
-    image: "/poi-images/basilica-de-la-virgen-del-quinche-landmarks-v2.webp",
     description: {
       de: "Ein monumentales katholisches Heiligtum, in dem die wundersame Holzstatue der Schutzpatronin Ecuadors verehrt wird.",
       hu: "Monumentális katolikus szentély, ahol Ecuador védőszentjének csodatévő faszobrát tisztelik.",
@@ -19294,7 +19266,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
     parent: "EC-P",
     coords: [-78.4777, -0.1772],
     name: { de: "Estadio Olímpico Atahualpa", hu: "Atahualpa Olimpiai Stadion", ro: "Stadionul Olimpic Atahualpa", en: "Atahualpa Olympic Stadium"},
-    image: "/poi-images/estadio-olimpico-atahualpa-landmarks-v2.webp",
     description: {
       de: "Das traditionsreiche Sportstadion im Herzen von Quito, das historische Triumphe der ecuadorianischen Fußballnationalmannschaft erlebte.",
       hu: "Nagy hagyományokkal rendelkező sportstadion Quito szívében, amely az ecuadori labdarúgó-válogatott történelmi diadalainak volt tanúja.",

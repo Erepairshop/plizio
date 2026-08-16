@@ -8,7 +8,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.8953, 18.4735],
     name: { de: "Nationalpalast", hu: "Nemzeti Palota", ro: "Palatul Național", en: "National Palace"},
-    image: "/poi-images/palacio-nacional-landmarks-v2.webp",
     description: { de: "Der Sitz der dominikanischen Regierung, ein imposantes neoklassizistisches Gebäude.", hu: "A dominikai kormány székhelye, egy impozáns neoklasszikus épület.", ro: "Sediul guvernului dominican, o clădire neoclasică impunătoare.", en: "The seat of the Dominican government, an imposing neoclassical building." , es: "La sede del gobierno dominicano, un imponente edificio neoclásico.", pt: "A sede do governo dominicano, um imponente edifício neoclássico.", fr: "Le siège du gouvernement dominicain, un imposant bâtiment néoclassique."},
     facts: {
       de: ["Erbaut im Jahr 1944.", "Entworfen vom italienischen Architekten Guido D'Alessandro.", "Beherbergt die Büros des Präsidenten."],
@@ -44,7 +43,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.8897, 18.4633],
     name: { de: "Obelisco Macho", hu: "Obelisco Macho", ro: "Obelisco Macho", en: "Obelisco Macho"},
-    image: "/poi-images/obelisco-macho-landmarks-v2.webp",
     description: { de: "Ein 40 Meter hoher Obelisk am Malecón von Santo Domingo.", hu: "Egy 40 méter magas obeliszk Santo Domingo Malecónján.", ro: "Un obelisc înalt de 40 de metri pe Malecón din Santo Domingo.", en: "A 40-meter-high obelisk located on the Malecón of Santo Domingo." , es: "Un obelisco de 40 metros de altura en el Malecón de Santo Domingo.", pt: "Um obelisco de 40 metros de altura no Malecón de Santo Domingo.", fr: "Un obélisque de 40 mètres de haut sur le Malecón de Saint-Domingue."},
     facts: {
       de: ["Erbaut im Jahr 1936.", "Ursprünglich 'Obelisco de Trujillo' genannt.", "Heute ein Wahrzeichen der Küstenstraße."],
@@ -80,7 +78,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.8966, 18.4611],
     name: { de: "Obelisco Hembra", hu: "Obelisco Hembra", ro: "Obelisco Hembra", en: "Obelisco Hembra"},
-    image: "/poi-images/obelisco-hembra-landmarks-v2.webp",
     description: { de: "Ein Denkmal bestehend aus zwei vertikalen Strukturen am Malecón.", hu: "Két függőleges struktúrából álló emlékmű a Malecónon.", ro: "Un monument format din două structuri verticale pe Malecón.", en: "A monument consisting of two distinct vertical structures on the Malecón." , es: "Un monumento compuesto por dos estructuras verticales en el Malecón.", pt: "Um monumento composto por duas estruturas verticais no Malecón.", fr: "Un monument composé de deux structures verticales sur le Malecón."},
     facts: {
       de: ["Erbaut zur Erinnerung an die Rückzahlung der Auslandsschulden.", "Populär als das 'weibliche' Pendant bekannt.", "Ein markanter Treffpunkt in der Stadt."],
@@ -116,7 +113,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.9631, 18.4508],
     name: { de: "Plaza de la Bandera", hu: "Plaza de la Bandera", ro: "Plaza de la Bandera", en: "Flag Square"},
-    image: "/poi-images/plaza-de-la-bandera-landmarks-v2.webp",
     description: { de: "Ein großer Denkmalkomplex zu Ehren der dominikanischen Flagge und Identität.", hu: "Egy nagy emlékmű-komplexum a dominikai zászló és identitás tiszteletére.", ro: "Un mare complex monumental în onoarea drapelului și identității dominicane.", en: "A major monument complex honoring the Dominican flag and national identity." , es: "Un gran complejo monumental en honor a la bandera e identidad dominicanas.", pt: "Um grande complexo monumental em honra da bandeira e identidade dominicanas.", fr: "Un grand complexe monumental en l'honneur du drapeau et de l'identité dominicaine."},
     facts: {
       de: ["Verfügt über eine massive Bogenstruktur.", "Hier befindet sich das Grab des Unbekannten Soldaten.", "Papst Johannes Paul II. zelebrierte hier 1979 eine Messe."],
@@ -152,7 +148,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.8789, 18.4900],
     name: { de: "Juan-Bosch-Brücke", hu: "Juan Bosch híd", ro: "Podul Juan Bosch", en: "Juan Bosch Bridge"},
-    image: "/poi-images/puente-juan-bosch-landmarks-v2.webp",
     description: { de: "Eine moderne Schrägseilbrücke über den Fluss Ozama in der Hauptstadt.", hu: "Modern ferdekábeles híd az Ozama folyó felett a fővárosban.", ro: "Un pod modern hobanat peste râul Ozama din capitală.", en: "A modern cable-stayed bridge spanning the Ozama River in the capital." , es: "Un moderno puente atirantado sobre el río Ozama en la capital.", pt: "Uma moderna ponte estaiada sobre o rio Ozama na capital.", fr: "Un pont à haubans moderne sur la rivière Ozama dans la capitale."},
     facts: {
       de: ["Eröffnet im Jahr 2001.", "Benannt nach dem ehemaligen Präsidenten Juan Bosch.", "Entlastet den Verkehr zwischen dem Zentrum und Santo Domingo Este."],
@@ -188,7 +183,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-23",
     coords: [-69.3142, 18.4733],
     name: { de: "Mauricio-Báez-Brücke", hu: "Mauricio Báez híd", ro: "Podul Mauricio Báez", en: "Mauricio Báez Bridge"},
-    image: "/poi-images/puente-mauricio-baez-landmarks-v2.webp",
     description: { de: "Eine beeindruckende Schrägseilbrücke über den Fluss Higuamo in San Pedro de Macorís.", hu: "Látványos ferdekábeles híd a Higuamo folyó felett San Pedro de Macorísban.", ro: "Un pod hobanat impresionant peste râul Higuamo în San Pedro de Macorís.", en: "An impressive cable-stayed bridge crossing the Higuamo River in San Pedro de Macorís." , es: "Un impresionante puente atirantado sobre el río Higuamo en San Pedro de Macorís.", pt: "Uma impressionante ponte estaiada sobre o rio Higuamo em San Pedro de Macorís.", fr: "Un impressionnant pont à haubans sur le fleuve Higuamo à San Pedro de Macorís."},
     facts: {
       de: ["Eröffnet im Jahr 2007.", "Eine der längsten Brücken in der Karibik.", "Verkürzte die Fahrzeit in die östlichen Touristengebiete erheblich."],
@@ -224,7 +218,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.9458, 18.4497],
     name: { de: "Torre Caney", hu: "Torre Caney", ro: "Turnul Caney", en: "Caney Tower"},
-    image: "/poi-images/torre-caney-landmarks-v2.webp",
     description: { de: "Einer der höchsten Wohnwolkenkratzer der Karibik, gelegen in Santo Domingo.", hu: "A Karib-térség egyik legmagasabb lakófelhőkarcolója Santo Domingóban.", ro: "Unul dintre cei mai înalți zgârie-nori rezidențiali din Caraibe, situat în Santo Domingo.", en: "One of the tallest residential skyscrapers in the Caribbean, located in Santo Domingo." , es: "Uno de los rascacielos residenciales más altos del Caribe, ubicado en Santo Domingo.", pt: "Um dos arranha-céus residenciais mais altos das Caraíbas, localizado em Santo Domingo.", fr: "L'un des plus hauts gratte-ciel résidentiels des Caraïbes, situé à Saint-Domingue."},
     facts: {
       de: ["Fertiggestellt im Jahr 2008.", "Erreicht eine Höhe von 150 Metern.", "Bietet luxuriöse Apartments mit Panoramablick auf das Meer."],
@@ -260,7 +253,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.9392, 18.4697],
     name: { de: "Acrópolis Center", hu: "Acrópolis Center", ro: "Centrul Acrópolis", en: "Acrópolis Center"},
-    image: "/poi-images/acropolis-center-landmarks-v2.webp",
     description: { de: "Ein markanter Handels- und Firmenturmkomplex im Herzen von Santo Domingo.", hu: "Jelentős kereskedelmi és vállalati toronykomplexum Santo Domingo szívében.", ro: "Un complex comercial și de birouri proeminent în inima orașului Santo Domingo.", en: "A prominent commercial and corporate tower complex in the heart of Santo Domingo." , es: "Un destacado complejo comercial y de oficinas en el corazón de Santo Domingo.", pt: "Um proeminente complexo comercial e de escritórios no coração de Santo Domingo.", fr: "Un complexe commercial et de bureaux remarquable au cœur de Saint-Domingue."},
     facts: {
       de: ["Verfügt über eine unverwechselbare Glasfassade.", "Umfasst ein Einkaufszentrum und Büros.", "Ein wichtiger Knotenpunkt für internationales Geschäft."],
@@ -296,7 +288,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-25",
     coords: [-70.6953, 19.4628],
     name: { de: "Gran Teatro del Cibao", hu: "Gran Teatro del Cibao", ro: "Marele Teatru din Cibao", en: "Grand Theater of Cibao"},
-    image: "/poi-images/gran-teatro-del-cibao-landmarks-v2.webp",
     description: { de: "Die wichtigste Bühne für darstellende Künste in Santiago de los Caballeros.", hu: "Santiago de los Caballeros legfontosabb előadóművészeti központja.", ro: "Principalul loc de desfășurare a artelor spectacolului din Santiago de los Caballeros.", en: "The premier performing arts venue in Santiago de los Caballeros." , es: "El escenario de artes escénicas más importante de Santiago de los Caballeros.", pt: "O palco de artes cênicas mais importante de Santiago de los Caballeros.", fr: "La scène des arts de la scène la plus importante de Santiago de los Caballeros."},
     facts: {
       de: ["Eingeweiht im Jahr 1995.", "Entworfen vom Architekten Teófilo Carbonell.", "Ausrichtungsort für große nationale Kulturveranstaltungen."],
@@ -332,7 +323,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.9142, 18.4731],
     name: { de: "Nationaltheater Eduardo Brito", hu: "Eduardo Brito Nemzeti Színház", ro: "Teatrul Național Eduardo Brito", en: "Eduardo Brito National Theater"},
-    image: "/poi-images/teatro-nacional-eduardo-brito-landmarks-v2.webp",
     description: { de: "Das Haupttheater der Dominikanischen Republik, gelegen an der Plaza de la Cultura.", hu: "A Dominikai Köztársaság fő színháza a Plaza de la Cultura területén.", ro: "Teatrul principal din Republica Dominicană, situat în Plaza de la Cultura.", en: "The main theater of the Dominican Republic, located in the Plaza de la Cultura." , es: "El teatro principal de la República Dominicana, ubicado en la Plaza de la Cultura.", pt: "O principal teatro da República Dominicana, localizado na Plaza de la Cultura.", fr: "Le théâtre principal de la République dominicaine, situé sur la Plaza de la Cultura."},
     facts: {
       de: ["Eröffnet im Jahr 1973.", "Benannt nach einem berühmten dominikanischen Bariton.", "Verfügt über drei Hauptsäle."],
@@ -368,7 +358,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.9239, 18.4908],
     name: { de: "Estadio Quisqueya Juan Marichal", hu: "Quisqueya Juan Marichal Stadion", ro: "Stadionul Quisqueya Juan Marichal", en: "Quisqueya Juan Marichal Stadium"},
-    image: "/poi-images/estadio-quisqueya-landmarks-v2.webp",
     description: { de: "Das wichtigste Baseballstadion in Santo Domingo, Heimat von zwei Profiteams.", hu: "Santo Domingo legfontosabb baseball stadionja, két profi csapat otthona.", ro: "Principalul stadion de baseball din Santo Domingo, casa a două echipe profesioniste.", en: "The primary baseball stadium in Santo Domingo, hosting two professional teams." , es: "El estadio de béisbol más importante de Santo Domingo, sede de dos equipos profesionales.", pt: "O estádio de beisebol mais importante de Santo Domingo, sede de duas equipes profissionais.", fr: "Le stade de baseball le plus important de Saint-Domingue, résidence de deux équipes professionnelles."},
     facts: {
       de: ["Erbaut im Jahr 1955.", "Benannt nach dem Hall-of-Fame-Pitcher Juan Marichal.", "Fasst rund 14.465 Zuschauer."],
@@ -404,7 +393,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-25",
     coords: [-70.7061, 19.4678],
     name: { de: "Estadio Cibao", hu: "Cibao Stadion", ro: "Stadionul Cibao", en: "Cibao Stadium"},
-    image: "/poi-images/estadio-cibao-landmarks-v2.webp",
     description: { de: "Das Heimstadion der Baseballmannschaft Aguilas Cibaeñas in Santiago.", hu: "Az Aguilas Cibaeñas baseballcsapat hazai stadionja Santiagóban.", ro: "Stadionul de origine al echipei de baseball Aguilas Cibaeñas din Santiago.", en: "The home stadium of the Aguilas Cibaeñas baseball team in Santiago." , es: "El estadio sede del equipo de béisbol Águilas Cibaeñas en Santiago.", pt: "O estádio sede da equipe de beisebol Águilas Cibaeñas em Santiago.", fr: "Le stade de résidence de l'équipe de baseball Águilas Cibaeñas à Santiago."},
     facts: {
       de: ["Bekannt als 'Tal des Todes' bei gegnerischen Teams.", "Das größte Baseballstadion des Landes.", "Eröffnet im Jahr 1958."],
@@ -440,7 +428,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-23",
     coords: [-69.2947, 18.4558],
     name: { de: "Estadio Tetelo Vargas", hu: "Tetelo Vargas Stadion", ro: "Stadionul Tetelo Vargas", en: "Tetelo Vargas Stadium"},
-    image: "/poi-images/estadio-tetelo-vargas-landmarks-v2.webp",
     description: { de: "Ein Mehrzweckstadion in San Pedro de Macorís, das hauptsächlich für Baseball genutzt wird.", hu: "Többcélú stadion San Pedro de Macorísban, melyet főleg baseballra használnak.", ro: "Un stadion multifuncțional în San Pedro de Macorís, utilizat în principal pentru baseball.", en: "A multi-use stadium in San Pedro de Macorís, primarily used for baseball." , es: "Un estadio multiusos en San Pedro de Macorís, utilizado principalmente para béisbol.", pt: "Um estádio multiuso em San Pedro de Macorís, usado principalmente para beisebol.", fr: "Un stade polyvalent à San Pedro de Macorís, principalement utilisé pour le baseball."},
     facts: {
       de: ["Heimat der Mannschaft Estrellas Orientales.", "Benannt nach dem Baseballspieler Juan Esteban Vargas Marcano.", "Eröffnet im Jahr 1959."],
@@ -476,7 +463,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-12",
     coords: [-68.9744, 18.4319],
     name: { de: "Estadio Francisco Micheli", hu: "Francisco Micheli Stadion", ro: "Stadionul Francisco Micheli", en: "Francisco Micheli Stadium"},
-    image: "/poi-images/estadio-francisco-micheli-landmarks-v2.webp",
     description: { de: "Ein professionelles Baseballstadion in La Romana.", hu: "Egy professzionális baseball stadion La Romanában.", ro: "Un stadion profesionist de baseball în La Romana.", en: "A professional baseball stadium in La Romana." , es: "Un estadio de béisbol profesional en La Romana.", pt: "Um estádio de beisebol profissional em La Romana.", fr: "Un stade de baseball professionnel à La Romana."},
     facts: {
       de: ["Heimatplatz der Toros del Este.", "Eingeweiht im Jahr 1979.", "Finanziert von der Central Romana Corporation."],
@@ -512,7 +498,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.9189, 18.4772],
     name: { de: "Olympiazentrum Juan Pablo Duarte", hu: "Juan Pablo Duarte Olimpiai Központ", ro: "Centrul Olimpic Juan Pablo Duarte", en: "Juan Pablo Duarte Olympic Center"},
-    image: "/poi-images/centro-olimpico-juan-pablo-duarte-landmarks-v2.webp",
     description: { de: "Ein massiver Sportkomplex im Zentrum von Santo Domingo.", hu: "Hatalmas sportkomplexum Santo Domingo központjában.", ro: "Un complex sportiv masiv în centrul orașului Santo Domingo.", en: "A massive sports complex in the center of Santo Domingo." , es: "Un enorme complejo deportivo en el centro de Santo Domingo.", pt: "Um complexo desportivo maciço no centro de Santo Domingo.", fr: "Un immense complexe sportif au centre de Saint-Domingue."},
     facts: {
       de: ["Gebaut für die XII. Zentralamerika- und Karibikspiele 1974.", "Umfasst Anlagen für Leichtathletik und Schwimmen.", "Haupttrainingsgelände für nationale Athleten."],
@@ -548,7 +533,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.8822, 18.4681],
     name: { de: "Montesinos-Denkmal", hu: "Montesinos-emlékmű", ro: "Monumentul Montesinos", en: "Montesinos Monument"},
-    image: "/poi-images/monumento-montesinos-landmarks-v2.webp",
     description: { de: "Eine kolossale Statue zu Ehren des Mönchs, der gegen den Missbrauch der Ureinwohner predigte.", hu: "Kolosszális szobor annak a szerzetesnek a tiszteletére, aki az őslakosok bántalmazása ellen prédikált.", ro: "O statuie colosală în onoarea călugărului care a predicat împotriva abuzului asupra populației indigene.", en: "A colossal statue honoring the friar who preached against the abuse of indigenous people." , es: "Una estatua colosal en honor al monje que predicó contra el abuso de los indígenas.", pt: "Uma estátua colossal em honra ao monge que pregou contra o abuso dos indígenas.", fr: "Une statue colossale en l'honneur du moine qui a prêché contre les abus envers les autochtones."},
     facts: {
       de: ["Gesperndet von der mexikanischen Regierung 1982.", "Steht am Eingang des Hafens von Santo Domingo.", "Erinnert an die berühmte Predigt von 1511."],
@@ -584,7 +568,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.8872, 18.4658],
     name: { de: "Fort San Gil", hu: "San Gil erőd", ro: "Fortul San Gil", en: "San Gil Fort"},
-    image: "/poi-images/fuerte-de-san-gil-landmarks-v2.webp",
     description: { de: "Eine rekonstruierte Küstenverteidigungsanlage am Anfang des Malecón.", hu: "Rekonstruált partvédelmi erődítmény a Malecón elején.", ro: "O structură de apărare de coastă reconstruită la începutul Malecón-ului.", en: "A reconstructed coastal defense structure at the beginning of the Malecón." , es: "Una instalación de defensa costera reconstruida al inicio del Malecón.", pt: "Uma instalação de defesa costeira reconstruída no início do Malecón.", fr: "Une installation de défense côtière reconstruite au début du Malecón."},
     facts: {
       de: ["Ursprünglich im 16. Jahrhundert erbaut.", "Diente dem Schutz vor Piratenangriffen vom Meer aus.", "In den 1990er Jahren restauriert."],
@@ -620,7 +603,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.8825, 18.4689],
     name: { de: "Fort San José", hu: "San José erőd", ro: "Fortul San José", en: "San José Fort"},
-    image: "/poi-images/fuerte-de-san-jose-landmarks-v2.webp",
     description: { de: "Eine historische militärische Bastion entlang der kolonialen Verteidigungsmauer.", hu: "Történelmi katonai bástya a gyarmati védőfal mentén.", ro: "Un bastion militar istoric de-a lungul zidului de apărare colonial.", en: "A historic military bastion located along the colonial defensive wall." , es: "Un bastión militar histórico a lo largo de la muralla defensiva colonial.", pt: "Um bastião militar histórico ao longo da muralha defensiva colonial.", fr: "Un bastion militaire historique le long des remparts défensifs coloniaux."},
     facts: {
       de: ["Erbaut zur Verstärkung der südlichen Verteidigung von Santo Domingo.", "Bietet hervorragende Ausblicke auf das Karibische Meer.", "Teil des UNESCO-Weltkulturerbes."],
@@ -656,7 +638,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.8864, 18.4764],
     name: { de: "Fort Santa Bárbara", hu: "Santa Bárbara erőd", ro: "Fortul Santa Bárbara", en: "Santa Bárbara Fort"},
-    image: "/poi-images/fuerte-santa-barbara-landmarks-v2.webp",
     description: { de: "Ein Fort aus der Kolonialzeit, das den nördlichen Zugang zur Altstadt bewachte.", hu: "Gyarmati időkből származó erőd, amely az óváros északi bejáratát védte.", ro: "Un fort din epoca colonială care păzea accesul nordic în orașul vechi.", en: "A colonial-era fort that guarded the northern access to the old city." , es: "Un fuerte de la época colonial que vigilaba el acceso norte al casco antiguo.", pt: "Um forte da época colonial que vigiava o acesso norte à cidade antiga.", fr: "Un fort de l'époque coloniale qui gardait l'accès nord de la vieille ville."},
     facts: {
       de: ["Integriert in das Verteidigungssystem der Kolonialzone.", "Überblickt den Fluss Ozama.", "Aus lokalem Korallenkalkstein erbaut."],
@@ -692,7 +673,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.8875, 18.4739],
     name: { de: "Kirche Las Mercedes", hu: "Las Mercedes templom", ro: "Biserica Las Mercedes", en: "Church of Las Mercedes"},
-    image: "/poi-images/iglesia-las-mercedes-landmarks-v2.webp",
     description: { de: "Eine markante historische Kirche, die der Schutzpatronin der Dominikanischen Republik gewidmet ist.", hu: "Jelentős történelmi templom, melyet a Dominikai Köztársaság védőszentjének szenteltek.", ro: "O biserică istorică proeminentă dedicată sfântului patron al Republicii Dominicane.", en: "A prominent historic church dedicated to the patron saint of the Dominican Republic." , es: "Una destacada iglesia histórica dedicada a la patrona de la República Dominicana.", pt: "Uma proeminente igreja histórica dedicada à padroeira da República Dominicana.", fr: "Une église historique remarquable dédiée à la sainte patronne de la République Dominicaine."},
     facts: {
       de: ["Erbaut zwischen 1527 und 1555.", "Überstand mehrere Erdbeben und Piratenangriffe.", "Verfügt über eine markante Rippengewölbedecke."],
@@ -728,7 +708,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.8867, 18.4719],
     name: { de: "Kirche El Carmen", hu: "El Carmen templom", ro: "Biserica El Carmen", en: "Church of El Carmen"},
-    image: "/poi-images/iglesia-del-carmen-landmarks-v2.webp",
     description: { de: "Eine kleine, kulturell bedeutsame Kolonialkirche in Santo Domingo.", hu: "Egy kicsi, de kulturálisan jelentős koloniális templom Santo Domingóban.", ro: "O mică biserică colonială semnificativă cultural din Santo Domingo.", en: "A small, culturally significant colonial church in Santo Domingo." , es: "Una pequeña iglesia colonial de gran importancia cultural en Santo Domingo.", pt: "Uma pequena igreja colonial de grande importância cultural em Santo Domingo.", fr: "Une petite église coloniale d'une grande importance culturelle à Saint-Domingue."},
     facts: {
       de: ["Im 17. Jahrhundert erbaut.", "Heimat einer berühmten Figur des Jesus Nazareno.", "Zeigt eine einfache Fassade."],
@@ -764,7 +743,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.8861, 18.4697],
     name: { de: "Kirche Regina Angelorum", hu: "Regina Angelorum templom", ro: "Biserica Regina Angelorum", en: "Church of Regina Angelorum"},
-    image: "/poi-images/iglesia-regina-angelorum-landmarks-v2.webp",
     description: { de: "Ein wunderschönes Beispiel kolonialer Sakralarchitektur im historischen Zentrum.", hu: "A gyarmati vallási építészet gyönyörű példája a történelmi központban.", ro: "Un exemplu frumos de arhitectură religioasă colonială în centrul istoric.", en: "A beautiful example of colonial religious architecture in the historic center." , es: "Un hermoso ejemplo de arquitectura sacra colonial en el centro histórico.", pt: "Um belo exemplo de arquitetura sacra colonial no centro histórico.", fr: "Un bel exemple d'architecture sacrée coloniale dans le centre historique."},
     facts: {
       de: ["Ursprünglich Teil des ersten Nonnenklosters auf dem amerikanischen Kontinent.", "Bau begann im Jahr 1564.", "Bekannt für seinen aufwendigen Silberaltar."],
@@ -800,7 +778,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-25",
     coords: [-70.6692, 19.4497],
     name: { de: "Kathedrale von Santiago Apóstol", hu: "Santiago Apóstol Katedrális", ro: "Catedrala Santiago Apóstol", en: "Cathedral of Santiago Apóstol"},
-    image: "/poi-images/catedral-santiago-apostol-landmarks-v2.webp",
     description: { de: "Die katholische Hauptkathedrale von Santiago de los Caballeros, die neoklassische und gotische Stile mischt.", hu: "Santiago de los Caballeros katolikus főszékesegyháza, amely neoklasszikus és gótikus stílusokat ötvöz.", ro: "Principala catedrală catolică din Santiago de los Caballeros, îmbinând stilurile neoclasic și gotic.", en: "The main Catholic cathedral of Santiago de los Caballeros, mixing neoclassical and gothic styles." , es: "La principal catedral católica de Santiago de los Caballeros, que mezcla estilos neoclásicos y góticos.", pt: "A principal catedral católica de Santiago de los Caballeros, que mistura estilos neoclássicos e góticos.", fr: "La principale cathédrale catholique de Santiago de los Caballeros, mêlant les styles néoclassique et gothique."},
     facts: {
       de: ["Bau des aktuellen Gebäudes begann 1868.", "Beherbergt die Überreste mehrerer Nationalhelden.", "Verfügt über exquisite Buntglasfenster."],
@@ -836,7 +813,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.9078, 18.4633],
     name: { de: "Palast der Schönen Künste", hu: "Szépművészeti Palota", ro: "Palatul Artelor Frumoase", en: "Palace of Fine Arts"},
-    image: "/poi-images/palacio-bellas-artes-landmarks-v2.webp",
     description: { de: "Ein majestätisches neoklassizistisches Gebäude, das der Förderung der visuellen und darstellenden Künste gewidmet ist.", hu: "Fenséges neoklasszikus épület, mely a vizuális és előadóművészetek támogatásának van szentelve.", ro: "O clădire neoclasică maiestuoasă dedicată promovării artelor vizuale și spectacolului.", en: "A majestic neoclassical building dedicated to the promotion of visual and performing arts." , es: "Un majestuoso edificio neoclásico dedicado al fomento de las artes visuales y escénicas.", pt: "Um majestoso edifício neoclássico dedicado à promoção das artes visuais e performativas.", fr: "Un majestueux bâtiment néoclassique dédié à la promotion des arts visuels et de la scène."},
     facts: {
       de: ["Eingeweiht im Jahr 1956.", "Vollständig restauriert im Jahr 2008.", "Heimat des Nationalen Sinfonieorchesters."],
@@ -872,7 +848,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.9197, 18.4489],
     name: { de: "Nationalkongress", hu: "Nemzeti Kongresszus", ro: "Congresul Național", en: "National Congress"},
-    image: "/poi-images/congreso-nacional-landmarks-v2.webp",
     description: { de: "Der moderne Architekturkomplex, der die legislative Zweigstelle der Regierung beherbergt.", hu: "Modern építészeti komplexum, amely a kormány törvényhozó hatalmának ad otthont.", ro: "Complexul arhitectural modern care găzduiește puterea legislativă a guvernului.", en: "The modern architectural complex housing the legislative branch of the government." , es: "El complejo arquitectónico moderno que alberga la rama legislativa del gobierno.", pt: "O moderno complexo arquitetônico que abriga o poder legislativo do governo.", fr: "Le complexe architectural moderne qui abrite la branche législative du gouvernement."},
     facts: {
       de: ["Gelegen im Gebiet Centro de los Héroes.", "Besteht aus dem Senat und der Abgeordnetenkammer.", "Zeigt große Wandgemälde zur Geschichte der Nation."],
@@ -908,7 +883,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.8753, 18.4983],
     name: { de: "Francisco-del-Rosario-Sánchez-Brücke", hu: "Francisco del Rosario Sánchez híd", ro: "Podul Francisco del Rosario Sánchez", en: "Francisco del Rosario Sánchez Bridge"},
-    image: "/poi-images/puente-francisco-rosario-sanchez-landmarks-v2.webp",
     description: { de: "Allgemein bekannt als die 'Brücke der 17.', die die nördlichen Teile der Hauptstadt verbindet.", hu: "Közismert nevén a '17-es híd', amely a főváros északi részeit köti össze.", ro: "Cunoscut popular ca 'Podul de pe 17', care leagă părțile nordice ale capitalei.", en: "Popularly known as the 'Bridge of the 17th', connecting the northern parts of the capital." , es: "Conocido comúnmente como el 'Puente de la 17', conecta las zonas norte de la capital.", pt: "Comumente conhecido como a 'Ponte da 17', ligando as partes norte da capital.", fr: "Communément appelé le 'Pont du 17', il relie les quartiers nord de la capitale."},
     facts: {
       de: ["Überquert den Fluss Ozama.", "Eine wichtige Verkehrsader für den öffentlichen Nahverkehr.", "Benannt nach einem der Gründerväter der Nation."],
@@ -944,7 +918,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.9406, 18.4719],
     name: { de: "Blue Mall Tower", hu: "Blue Mall Tower", ro: "Turnul Blue Mall", en: "Blue Mall Tower"},
-    image: "/poi-images/blue-mall-tower-landmarks-v2.webp",
     description: { de: "Ein luxuriöser Handels- und Hotelwolkenkratzer, der als modernes Wahrzeichen steht.", hu: "Luxus kereskedelmi és szállodai felhőkarcoló, amely modern látványosságként szolgál.", ro: "Un zgârie-nori comercial și hotelier de lux, reprezentând un reper modern.", en: "A luxurious commercial and hotel skyscraper standing as a modern landmark." , es: "Un lujoso rascacielos comercial y hotelero que se erige como un hito moderno.", pt: "Um luxuoso arranha-céus comercial e hoteleiro que se ergue como um marco moderno.", fr: "Un gratte-ciel commercial et hôtelier de luxe qui constitue un monument moderne."},
     facts: {
       de: ["Beherbergt ein gehobenes Einkaufszentrum.", "Beinhaltet das JW Marriott Hotel.", "Verfügt über eine markante geschwungene Glasarchitektur."],
@@ -980,7 +953,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-25",
     coords: [-70.6667, 19.4608],
     name: { de: "Centro León", hu: "Centro León", ro: "Centrul León", en: "Centro León"},
-    image: "/poi-images/centro-leon-landmarks-v2.webp",
     description: { de: "Ein erstklassiges Kulturzentrum in Santiago, das sich auf karibische Kunst und Identität konzentriert.", hu: "Világszínvonalú kulturális központ Santiagóban, amely a karibi művészetre és identitásra fókuszál.", ro: "Un centru cultural de talie mondială în Santiago, axat pe arta și identitatea din Caraibe.", en: "A world-class cultural center and museum in Santiago focusing on Caribbean art and identity." , es: "Un centro cultural de clase mundial en Santiago que se centra en el arte y la identidad caribeños.", pt: "Um centro cultural de classe mundial em Santiago que se centra na arte e identidade caribenhas.", fr: "Un centre culturel de premier plan à Santiago, axé sur l'art et l'identité des Caraïbes."},
     facts: {
       de: ["Eröffnet im Jahr 2003.", "Finanziert von der Familie León Jimenes.", "Stellt umfangreiche Sammlungen der dominikanischen Folklore aus."],
@@ -1016,7 +988,6 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     parent: "DO-DN",
     coords: [-69.8833, 18.4711],
     name: { de: "Kloster Santa Clara", hu: "Santa Clara Kolostor", ro: "Mănăstirea Santa Clara", en: "Santa Clara Monastery"},
-    image: "/poi-images/monasterio-santa-clara-landmarks-v2.webp",
     description: { de: "Die Ruinen und restaurierten Bereiche eines der ersten Nonnenklöster in Amerika.", hu: "Amerika egyik első apácakolostorának romjai és restaurált területei.", ro: "Ruinele și zonele restaurate ale uneia dintre primele mănăstiri de maici din America.", en: "The ruins and restored areas of one of the earliest nunneries in the Americas." , es: "Las ruinas y áreas restauradas de uno de los primeros conventos de monjas en América.", pt: "As ruínas e áreas restauradas de um dos primeiros conventos de freiras na América.", fr: "Les ruines et les zones restaurées de l'un des premiers couvents de nonnes en Amérique."},
     facts: {
       de: ["Gegründet im Jahr 1552.", "Erlitt schwere Schäden während der Invasion von Francis Drake.", "Bietet heute einen friedlichen Innenhof."],

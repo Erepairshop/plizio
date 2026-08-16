@@ -1353,7 +1353,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Ahmedábád",
       ro: "Ahmedabad",
       en: "Ahmedabad"},
-    image: "/poi-images/ahmedabad-cities-v2.webp",
     description: {
       de: "Eine der am schnellsten wachsenden Städte Indiens und ein wichtiges Wirtschafts- und Industriezentrum.",
       hu: "India egyik leggyorsabban növekvő városa, fontos gazdasági és ipari központ.",
@@ -1482,7 +1481,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Szúrat",
       ro: "Surat",
       en: "Surat"},
-    image: "/poi-images/surat-cities-v2.webp",
     description: {
       de: "Bekannt als das Diamantenzentrum der Welt, ist es eine große Hafenstadt.",
       hu: "A világ gyémántközpontjaként ismert, nagy kikötőváros.",
@@ -2727,7 +2725,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Dzsajpur",
       ro: "Jaipur",
       en: "Jaipur"},
-    image: "/poi-images/jaipur-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Rajasthan, bekannt als die 'Pink City' wegen ihrer markanten rosafarbenen Gebäude.",
       hu: "Rádzsasztán fővárosa, a jellegzetes rózsaszín épületei miatt a 'Rózsaszín Város'-ként ismert.",
@@ -3858,7 +3855,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Lakhnau",
       ro: "Lucknow",
       en: "Lucknow"},
-    image: "/poi-images/lucknow-cities-v2.webp",
     description: {
       de: "Die 'Stadt der Nawabs', bekannt für ihre reiche Geschichte, Kultur und Küche.",
       hu: "A 'Navábok városa', gazdag történelméről, kultúrájáról és konyhájáról híres.",
@@ -4269,7 +4265,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Kánpur",
       ro: "Kanpur",
       en: "Kanpur"},
-    image: "/poi-images/kanpur-cities-v2.webp",
     description: {
       de: "Ein großes Industriezentrum in Nordindien, bekannt für seine Leder- und Textilindustrie.",
       hu: "Fontos ipari központ Észak-Indiában, a bőr- és textiliparáról ismert.",
@@ -5550,7 +5545,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Nágpur",
       ro: "Nagpur",
       en: "Nagpur"},
-    image: "/poi-images/nagpur-cities-v2.webp",
     description: {
       de: "Die 'Orangenstadt', bekannt für den Anbau von Orangen, und der geografische Mittelpunkt Indiens.",
       hu: "A 'Narancs város', a narancstermesztésről és India földrajzi középpontjáról ismert.",
@@ -6579,7 +6573,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Indaur",
       ro: "Indore",
       en: "Indore"},
-    image: "/poi-images/indore-cities-v2.webp",
     description: {
       de: "Die größte Stadt in Madhya Pradesh und gilt als das Bildungszentrum des Bundesstaates.",
       hu: "Madhja Prades legnagyobb városa, az állam oktatási központjának számít.",
@@ -6960,7 +6953,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Tháné",
       ro: "Thane",
       en: "Thane"},
-    image: "/poi-images/thane-cities-v2.webp",
     description: {
       de: "Eine große Metropolregion in der Nähe von Mumbai, bekannt für ihre vielen Seen.",
       hu: "Mumbai közelében fekvő nagyvárosi terület, számos taváról ismert.",
@@ -8313,7 +8305,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Bhópál",
       ro: "Bhopal",
       en: "Bhopal"},
-    image: "/poi-images/bhopal-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Madhya Pradesh, bekannt für ihre zwei Hauptseen, den Upper Lake und den Lower Lake.",
       hu: "Madhja Prades fővárosa, két fő taváról, a Felső-tóról és az Alsó-tóról ismert.",
@@ -9012,7 +9003,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Visákhapatnam",
       ro: "Visakhapatnam",
       en: "Visakhapatnam"},
-    image: "/poi-images/visakhapatnam-cities-v2.webp",
     description: {
       de: "Eine Hafenstadt und Industriezentrum, oft als 'Juwel der Ostküste' bezeichnet.",
       hu: "Kikötőváros és ipari központ, gyakran a 'Keleti part ékköve'-ként emlegetik.",
@@ -10329,7 +10319,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Patna",
       ro: "Patna",
       en: "Patna"},
-    image: "/poi-images/patna-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Bihar und eine der ältesten ununterbrochen bewohnten Städte der Welt.",
       hu: "Bihár fővárosa, és a világ egyik legrégebbi, folyamatosan lakott városa.",
@@ -10668,7 +10657,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Vadodara",
       ro: "Vadodara",
       en: "Vadodara"},
-    image: "/poi-images/vadodara-cities-v2.webp",
     description: {
       de: "Bekannt als die Kulturhauptstadt von Gujarat, Heimat des prächtigen Laxmi Vilas Palace.",
       hu: "Gudzsarát kulturális fővárosaként ismert, a csodálatos Laxmi Vilas palota otthona.",
@@ -11841,7 +11829,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Ludhiána",
       ro: "Ludhiana",
       en: "Ludhiana"},
-    image: "/poi-images/ludhiana-cities-v2.webp",
     description: {
       de: "Ein großes Industriezentrum in Nordindien, oft als 'Manchester Indiens' bezeichnet.",
       hu: "Észak-India egyik nagy ipari központja, gyakran 'India Manchestereként' emlegetik.",
@@ -12762,7 +12749,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Ágra",
       ro: "Agra",
       en: "Agra"},
-    image: "/poi-images/agra-cities-v2.webp",
     description: {
       de: "Weltberühmt als Heimat des Taj Mahal, eines der Sieben Weltwunder der Moderne.",
       hu: "Világhírű a Tádzs Mahalról, a modern világ hét csodájának egyikéről.",
@@ -13791,7 +13777,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Násik",
       ro: "Nashik",
       en: "Nashik"},
-    image: "/poi-images/nashik-cities-v2.webp",
     description: {
       de: "Bekannt als die 'Weinhauptstadt Indiens', eine wichtige hinduistische Pilgerstätte.",
       hu: "'India borfővárosaként' ismert, fontos hindu zarándokhely.",
@@ -14028,7 +14013,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Faridábád",
       ro: "Faridabad",
       en: "Faridabad"},
-    image: "/poi-images/faridabad-cities-v2.webp",
     description: {
       de: "Die größte Stadt in Haryana und ein großes Industriezentrum in der National Capital Region.",
       hu: "Harjána legnagyobb városa és a Nemzeti Fővárosi Régió egyik fő ipari központja.",
@@ -14157,7 +14141,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Mérath",
       ro: "Meerut",
       en: "Meerut"},
-    image: "/poi-images/meerut-cities-v2.webp",
     description: {
       de: "Eine antike Stadt in Uttar Pradesh, bekannt als die 'Sportstadt Indiens'.",
       hu: "Ősi város Uttar Pradesben, 'India sportvárosa'-ként ismert.",
@@ -14610,7 +14593,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Rádzskot",
       ro: "Rajkot",
       en: "Rajkot"},
-    image: "/poi-images/rajkot-cities-v2.webp",
     description: {
       de: "Eine wichtige Stadt in Gujarat, einst die Hauptstadt des Bundesstaates Saurashtra.",
       hu: "Fontos város Gudzsarátban, egykor Szaurástra állam fővárosa volt.",
@@ -14775,7 +14757,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Kalján-Dombivli",
       ro: "Kalyan-Dombivli",
       en: "Kalyan-Dombivli"},
-    image: "/poi-images/kalyan-dombivli-cities-v2.webp",
     description: {
       de: "Eine Zwillingsstadt und ein wichtiger Vorort von Mumbai im Distrikt Thane.",
       hu: "Ikerváros és Mumbai fontos elővárosa a Tháné kerületben.",
@@ -14940,7 +14921,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Vaszai-Virár",
       ro: "Vasai-Virar",
       en: "Vasai-Virar"},
-    image: "/poi-images/vasai-virar-cities-v2.webp",
     description: {
       de: "Eine städtische Agglomeration nördlich von Mumbai, die sich schnell entwickelt.",
       hu: "Mumbaitól északra fekvő, gyorsan fejlődő városi agglomeráció.",
@@ -16041,7 +16021,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Váránaszi",
       ro: "Varanasi",
       en: "Varanasi"},
-    image: "/poi-images/varanasi-cities-v2.webp",
     description: {
       de: "Eine der heiligsten Städte des Hinduismus, die am Ufer des Ganges liegt.",
       hu: "A hinduizmus egyik legszentebb városa, a Gangesz partján fekszik.",
@@ -17394,7 +17373,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Szrinagar",
       ro: "Srinagar",
       en: "Srinagar"},
-    image: "/poi-images/srinagar-cities-v2.webp",
     description: {
       de: "Die Sommerhauptstadt von Jammu und Kaschmir, bekannt für ihre Seen, Gärten und Hausboote.",
       hu: "Dzsammu és Kasmír nyári fővárosa, tavairól, kertjeiről és lakóhajóiról ismert.",
@@ -17517,7 +17495,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Dhanbad",
       ro: "Dhanbad",
       en: "Dhanbad"},
-    image: "/poi-images/dhanbad-cities-v2.webp",
     description: {
       de: "Bekannt als die 'Kohlehauptstadt Indiens', eine der am schnellsten wachsenden Städte des Landes.",
       hu: "'India szénfővárosaként' ismert, az ország egyik leggyorsabban növekvő városa.",
@@ -17646,7 +17623,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Dzsódhpur",
       ro: "Jodhpur",
       en: "Jodhpur"},
-    image: "/poi-images/jodhpur-cities-v2.webp",
     description: {
       de: "Die 'Blaue Stadt' von Rajasthan, berühmt für das mächtige Mehrangarh Fort, das die Stadt überragt.",
       hu: "Rádzsasztán 'Kék városa', híres a város fölé magasodó hatalmas Mehrangarh erődről.",
@@ -17946,7 +17922,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Amritszár",
       ro: "Amritsar",
       en: "Amritsar"},
-    image: "/poi-images/amritsar-cities-v2.webp",
     description: {
       de: "Die spirituelle Hauptstadt der Sikhs und Heimat des Goldenen Tempels, des heiligsten Schreins des Sikhismus.",
       hu: "A szikhek spirituális fővárosa, a szikhizmus legszentebb szentélyének, az Aranytemplomnak az otthona.",
@@ -19155,7 +19130,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Rájpur",
       ro: "Raipur",
       en: "Raipur"},
-    image: "/poi-images/raipur-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Chhattisgarh, ein wichtiges Geschäfts- und Industriezentrum in Zentralindien.",
       hu: "Cshattíszgarh fővárosa, fontos üzleti és ipari központ Közép-Indiában.",
@@ -20286,7 +20260,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Prajágrádzs (Allahábád)",
       ro: "Prayagraj (Allahabad)",
       en: "Prayagraj (Allahabad)"},
-    image: "/poi-images/allahabad-prayagraj-cities-v2.webp",
     description: {
       de: "Eine heilige Stadt am Zusammenfluss der Flüsse Ganges, Yamuna und Saraswati.",
       hu: "Szent város a Gangesz, Jamuna és Szaraszvati folyók összefolyásánál.",
@@ -21099,7 +21072,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Gválijar",
       ro: "Gwalior",
       en: "Gwalior"},
-    image: "/poi-images/gwalior-cities-v2.webp",
     description: {
       de: "Eine historische Stadt in Madhya Pradesh, dominiert von der imposanten Gwalior-Festung.",
       hu: "Történelmi város Madhja Pradesben, a lenyűgöző Gválijari erőd uralja.",
@@ -21192,7 +21164,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Dzsabalpur",
       ro: "Jabalpur",
       en: "Jabalpur"},
-    image: "/poi-images/jabalpur-cities-v2.webp",
     description: {
       de: "Bekannt für die Dhuandhar-Wasserfälle und die Marmorfelsen am Narmada-Fluss.",
       hu: "A Dhuandhar-vízesésről és a Narmada folyó márványszikláiról ismert.",
@@ -22329,7 +22300,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
       hu: "Vidzsajavádá",
       ro: "Vijayawada",
       en: "Vijayawada"},
-    image: "/poi-images/vijayawada-cities-v2.webp",
     description: {
       de: "Ein großes Geschäftszentrum in Andhra Pradesh am Ufer des Krishna-Flusses.",
       hu: "Fontos üzleti központ Andhra Pradesben, a Krisna folyó partján.",

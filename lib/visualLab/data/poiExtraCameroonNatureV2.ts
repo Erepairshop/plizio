@@ -8,7 +8,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-LT",
     coords: [10.0333, 3.5167],
     name: { de: "Sanaga-Fluss", hu: "Sanaga folyó", ro: "Râul Sanaga", en: "Sanaga River"},
-    image: "/poi-images/sanaga-river-nature-v2.webp",
     description: { de: "Der längste Fluss in Kamerun, der in den Atlantischen Ozean mündet.", hu: "Kamerun leghosszabb folyója, amely az Atlanti-óceánba torkollik.", ro: "Cel mai lung râu din Camerun, care se varsă în Oceanul Atlantic.", en: "The longest river in Cameroon, flowing into the Atlantic Ocean." , es: "El río más largo de Camerún, que desemboca en el océano Atlántico.", pt: "O rio mais longo dos Camarões, que desagua no Oceano Atlântico.", fr: "Le plus long fleuve du Cameroun, qui se jette dans l'océan Atlantique."},
     facts: {
       de: ["Entspringt im Hochland von Adamaua.", "Länge von über 900 km.", "Wichtige Wasserstraße.", "Erzeugt viel Elektrizität."],
@@ -88,7 +87,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-SW",
     coords: [9.1667, 4.2167],
     name: { de: "Kamerunberg", hu: "Kamerun-hegy", ro: "Muntele Camerun", en: "Mount Cameroon"},
-    image: "/poi-images/mount-cameroon-nature-v2.webp",
     description: { de: "Ein aktiver Vulkan und der höchste Gipfel im westlichen Zentralafrika.", hu: "Aktív vulkán, Nyugat-Közép-Afrika legmagasabb csúcsa.", ro: "Un vulcan activ și cel mai înalt vârf din vestul Africii Centrale.", en: "Mount Cameroon, an active volcano and the highest peak in West Africa, is a majestic natural wonder with diverse ecological zones." , es: "Un volcán activo y la cima más alta de África central occidental.", pt: "Um vulcão ativo e o pico mais alto da África central ocidental.", fr: "Un volcan actif et le plus haut sommet d'Afrique centrale occidentale."},
     facts: {
       de: ["Höhe ca. 4040 Meter.", "Bekannt als Fako.", "Häufige Eruptionen.", "Reiche Flora am Fuß."],
@@ -123,7 +121,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-NW",
     coords: [10.3, 6.4333],
     name: { de: "Nyos-See", hu: "Nyos-tó", ro: "Lacul Nyos", en: "Lake Nyos"},
-    image: "/poi-images/lake-nyos-nature-v2.webp",
     description: { de: "Ein Kratersee, der für seinen CO2-Ausstoß bekannt ist.", hu: "A Nyos-tó vulkáni eredetű krátertó Kamerun északnyugati részén. Különleges természeti formája miatt ismert.", ro: "Un lac de crater cunoscut pentru emisiile sale de CO2.", en: "A crater lake known for its CO2 emissions." , es: "Un lago de cráter conocido por sus emisiones de CO2.", pt: "Um lago de cratera conhecido pelas suas emissões de CO2.", fr: "Un lac de cratère connu pour ses émissions de CO2."},
     facts: {
       de: ["Vulkanischer Ursprung.", "Liegt im Oku-Vulkanfeld.", "Tödlicher Vorfall 1986.", "Tiefer Kratersee."],
@@ -158,7 +155,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-EN",
     coords: [15.1, 10.5],
     name: { de: "Logone-Fluss", hu: "Logone folyó", ro: "Râul Logone", en: "Logone River"},
-    image: "/poi-images/logone-river-nature-v2.webp",
     description: { de: "Ein wichtiger Nebenfluss des Schari-Flusses an der Grenze zum Tschad.", hu: "A Schari folyó fontos mellékfolyója a Csáddal határos területen.", ro: "Un afluent important al râului Chari, la granița cu Ciadul.", en: "An important tributary of the Chari River on the border with Chad." , es: "Un importante afluente del río Chari en la frontera con Chad.", pt: "Um importante afluente do rio Chari na fronteira com o Chade.", fr: "Un affluent important de la rivière Chari à la frontière avec le Tchad."},
     facts: {
       de: ["Bildet die Grenze zum Tschad.", "Reiches Feuchtgebiet.", "Saisonaler Wasserfluss.", "Fischreiches Gewässer."],
@@ -193,7 +189,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-LT",
     coords: [9.9333, 4.45],
     name: { de: "Nkam-Fluss", hu: "Nkam folyó", ro: "Râul Nkam", en: "Nkam River"},
-    image: "/poi-images/nkam-river-nature-v2.webp",
     description: { de: "Bekannt für die Ekom-Wasserfälle.", hu: "Az Nkam folyó a nyugati esőerdős területek vízrendszeréhez tartozik. Fontos mellékfolyója a kameruni vízhálózatnak.", ro: "Cunoscut pentru cascadele Ekom.", en: "Known for the Ekom waterfalls." , es: "Conocido por las cataratas de Ekom.", pt: "Conhecido pelas quedas de Ekom.", fr: "Connu pour les chutes d'Ekom."},
     facts: {
       de: ["Speist beeindruckende Fälle.", "Fließt durch tropische Wälder.", "Landschaftlich reizvoll.", "Wichtiger Nebenfluss."],
@@ -228,7 +223,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-NO",
     coords: [12.6, 9.3],
     name: { de: "Benue-Fluss", hu: "Benue folyó", ro: "Râul Benue", en: "Benue River"},
-    image: "/poi-images/benue-river-nature-v2.webp",
     description: { de: "Der größte Nebenfluss des Niger, der durch den Norden Kameruns fließt.", hu: "A Niger folyó legnagyobb mellékfolyója, amely Kamerun északi részén folyik át.", ro: "Cel mai mare afluent al Nigerului, care curge prin nordul Camerunului.", en: "The largest tributary of the Niger, flowing through northern Cameroon." , es: "El mayor afluente del Níger, que fluye por el norte de Camerún.", pt: "O maior afluente do Níger, que corre pelo norte dos Camarões.", fr: "Le plus grand affluent du Niger, qui traverse le nord du Cameroun."},
     facts: {
       de: ["Hauptschlagader des Nordens.", "Versorgt die Savanne.", "Internationale Wasserstraße.", "Saisonal schiffbar."],
@@ -263,7 +257,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-EN",
     coords: [13.5, 13.0],
     name: { de: "Tschadsee", hu: "Csád-tó", ro: "Lacul Ciad", en: "Lake Chad"},
-    image: "/poi-images/lake-chad-nature-v2.webp",
     description: { de: "Der Tschadsee liegt im äußersten Norden Kameruns und prägt das Leben am Rand der Sahelzone. Er ist ein wichtiger Wasser- und Lebensraum für viele Menschen und Tiere.", hu: "A Csád-tó Kamerun északi peremének fontos vízfelülete. A száraz és fél-száraz térség életét támogatja.", ro: "Un lac important în nordul Camerunului, care este în scădere.", en: "Lake Chad lies on Cameroon's far northern edge. It is a vital water source for communities, fishing, and grazing." , es: "El lago Chad se encuentra en el extremo norte de Camerún y marca la vida en el borde del Sahel. Es un espacio vital y acuático importante para muchas personas y animales.", pt: "O lago Chade situa-se no extremo norte dos Camarões e molda a vida na periferia da zona do Sahel. É um habitat e reservatório de água fundamental para muitas pessoas e animais.", fr: "Le lac Tchad est situé à l'extrême nord du Cameroun et façonne la vie en bordure du Sahel. C'est un milieu aquatique et un espace de vie crucial pour de nombreuses personnes et animaux."},
     facts: {
       de: ["im Norden Kameruns", "Grenzraum zur Sahelzone", "wichtiger Lebensraum"],
@@ -298,7 +291,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-SU",
     coords: [13.0, 3.0],
     name: { de: "Dja-Fluss", hu: "Dja folyó", ro: "Râul Dja", en: "Dja River"},
-    image: "/poi-images/dja-river-nature-v2.webp",
     description: { de: "Ein Fluss, der das Dja-Fauna-Reservat umschließt.", hu: "A Dja Állatrezervátumot körülvevő folyó.", ro: "Un râu care înconjoară Rezervația de Faună Dja.", en: "A river that surrounds the Dja Faunal Reserve." , es: "Un río que rodea la Reserva de Fauna del Dja.", pt: "Um rio que circunda a Reserva de Fauna de Dja.", fr: "Une rivière qui entoure la réserve de faune du Dja."},
     facts: {
       de: ["Natürliche Grenze.", "Fließt durch Regenwald.", "Reiche Biodiversität.", "Kaum besiedeltes Ufer."],
@@ -333,7 +325,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-LT",
     coords: [9.95, 4.47],
     name: { de: "Ekom-Wasserfälle", hu: "Ekom-vízesés", ro: "Cascada Ekom", en: "Ekom Falls"},
-    image: "/poi-images/nkam-falls-nature-v2.webp",
     description: { de: "Die Nkam-Fälle liegen an einem wasserreichen Flussabschnitt im Westen Kameruns. Sie gehören zu den markanten Naturstellen der Region.", hu: "Fenséges vízesés az Nkam folyón.", ro: "O cascadă maiestuoasă pe râul Nkam.", en: "The Nkam Falls are part of the river landscape in western Cameroon. They add strong water flow and scenic relief to the region." , es: "Las cataratas de Ekom se encuentran en un tramo de río caudaloso en el oeste de Camerún. Son uno de los lugares naturales más destacados de la región.", pt: "As quedas de Ekom situam-se num troço de rio caudaloso no oeste dos Camarões. Fazem parte dos locais naturais mais marcantes da região.", fr: "Les chutes d'Ekom sont situées sur un tronçon de rivière abondant dans l'ouest du Cameroun. Elles font partie des sites naturels marquants de la région."},
     facts: {
       de: ["Wasserfälle im Westen", "am Nkam-Fluss", "bekannte Naturstelle"],
@@ -449,7 +440,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-SU",
     coords: [9.9, 2.9],
     name: { de: "Kribi-Küste", hu: "Kribi partvidék", ro: "Coasta Kribi", en: "Kribi Coast"},
-    image: "/poi-images/kribi-sea-nature-v2.webp",
     description: { de: "Die malerische Atlantikküste bei Kribi.", hu: "Kribi tengerpartja az Atlanti-óceán kameruni partszakasza. A homokos partok és a halászat jellemzik.", ro: "Coasta pitorească a Atlanticului la Kribi.", en: "The picturesque Atlantic coast near Kribi." , es: "La pintoresca costa atlántica cerca de Kribi.", pt: "A pitoresca costa atlântica perto de Kribi.", fr: "La pittoresque côte atlantique près de Kribi."},
     facts: {
       de: ["Weiße Sandstrände.", "Atlantischer Ozean.", "Beliebtes Touristenziel.", "Tropische Atmosphäre."],
@@ -484,7 +474,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-SU",
     coords: [9.91, 2.92],
     name: { de: "Lobé-Wasserfälle", hu: "Lobé-vízesés", ro: "Cascada Lobé", en: "Lobé Falls"},
-    image: "/poi-images/lobe-falls-nature-v2.webp",
     description: { de: "Ein einzigartiger Wasserfall, der direkt in den Ozean mündet.", hu: "Egyedülálló vízesés, amely közvetlenül az óceánba ömlik.", ro: "O cascadă unică ce se varsă direct în ocean.", en: "A unique waterfall that flows directly into the ocean." , es: "Una cascada única que desemboca directamente en el océano.", pt: "Uma queda de água única que desagua diretamente no oceano.", fr: "Une chute d'eau unique qui se jette directement dans l'océan."},
     facts: {
       de: ["Mündet in den Atlantik.", "Touristenattraktion.", "Einzigartig in Afrika.", "Schöner Strandbereich."],
@@ -520,7 +509,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-SW",
     coords: [9.5, 4.0],
     name: { de: "Mungo-Fluss", hu: "Mungo folyó", ro: "Râul Mungo", en: "Mungo River"},
-    image: "/poi-images/mungo-river-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss im Südwesten, der in das Kamerun-Ästuar fließt.", hu: "A Mungo folyó a délnyugati és nyugati régiók fontos vízfolyása. Termékeny völgyeket és mezőgazdasági területeket táplál.", ro: "Râul Mungo traversează vestul Camerunului și alimentează zonele joase din apropierea coastei. Cursul său este legat de agricultură și de peisaje umede.", en: "A major river in the southwest, flowing into the Cameroon Estuary." , es: "Un río importante en el suroeste que fluye hacia el estuario de Camerún.", pt: "Um rio importante no sudoeste que corre para o estuário dos Camarões.", fr: "Un fleuve important dans le sud-ouest qui se jette dans l'estuaire du Cameroun."},
     facts: {
       de: ["Wichtig für die Region.", "Dschungellandschaft.", "Hohes Wasseraufkommen.", "Landwirtschaftlich genutzt."],
@@ -601,7 +589,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-NW",
     coords: [10.45, 6.25],
     name: { de: "Oku-See", hu: "Oku-tó", ro: "Lacul Oku", en: "Lake Oku"},
-    image: "/poi-images/lake-oku-nature-v2.webp",
     description: { de: "Der Lake Oku ist ein hochgelegener Kratersee im Nordwesten Kameruns. Seine Lage macht ihn zu einem besonderen Gewässer in den Oku-Bergen.", hu: "Az Oku-tó egy magasföldi krátertó a Bamenda-fennsíkon. Környezete gazdag élővilágáról ismert.", ro: "Un lac de crater idilic în munți.", en: "Lake Oku is a serene crater lake nestled in the Kilum-Ijim Forest, known for its unique biodiversity and sacred status among local people." , es: "El Lake Oku es un lago de cráter situado a gran altitud en el noroeste de Camerún. Su ubicación lo convierte en un cuerpo de agua especial en las montañas Oku.", pt: "O Lake Oku é um lago de cratera de grande altitude no noroeste dos Camarões. A sua localização torna-o um corpo de água especial nas montanhas Oku.", fr: "Le Lake Oku est un lac de cratère d'altitude situé dans le nord-ouest du Cameroun. Son emplacement en fait un plan d'eau particulier dans les monts Oku."},
     facts: {
       de: ["Kratersee im Hochland", "im Nordwesten Kameruns", "hoch gelegener See"],
@@ -637,7 +624,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-LT",
     coords: [9.7, 4.05],
     name: { de: "Wouri-Fluss", hu: "Wouri folyó", ro: "Râul Wouri", en: "Wouri River"},
-    image: "/poi-images/wouri-river-nature-v2.webp",
     description: { de: "Der Fluss, an dem die Stadt Douala liegt.", hu: "A folyó, amely mellett Douala városa fekszik.", ro: "Râul pe lângă care se află orașul Douala.", en: "The river on which the city of Douala is located." , es: "El río donde se encuentra la ciudad de Duala.", pt: "O rio onde se situa a cidade de Duala.", fr: "Le fleuve sur lequel se trouve la ville de Douala."},
     facts: {
       de: ["Bedeutendes Ästuar.", "Hauptverkehrsweg.", "Viele Mangroven.", "Wirtschaftlich wichtig."],
@@ -718,7 +704,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-SW",
     coords: [9.2, 4.15],
     name: { de: "Buea-Gebirge", hu: "Buea-hegység", ro: "Munții Buea", en: "Buea Mountains"},
-    image: "/poi-images/buea-mountain-nature-v2.webp",
     description: { de: "Der Berg bei Buea gehört zum Vulkanmassiv des Mount Cameroon. Das Gelände ist steil, feucht und stark von Vulkanismus geprägt.", hu: "A Buea-hegy a Mount Cameroon déli lejtőinek része. A várost a vulkáni táj fölé emeli.", ro: "Muntele de lângă Buea este parte din masivul vulcanic al Muntelui Camerun. Versanții lui oferă un peisaj abrupt, verde și schimbător.", en: "The mountainous terrain surrounding Buea offers breathtaking views and a cool highland climate on the lower slopes of Mount Cameroon." , es: "La montaña cerca de Buea forma parte del macizo volcánico del Monte Camerún. El terreno es escarpado, húmedo y está fuertemente marcado por el vulcanismo.", pt: "A montanha perto de Buea faz parte do maciço vulcânico do Monte Camarões. O terreno é íngreme, húmido e fortemente marcado pelo vulcanismo.", fr: "La montagne près de Buea fait partie du massif volcanique du Mont Cameroun. Le terrain est escarpé, humide et fortement marqué par le volcanisme."},
     facts: {
       de: ["am Mount Cameroon", "vulkanisches Gelände", "nahe Buea"],
@@ -754,7 +739,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-LT",
     coords: [9.8, 5.0],
     name: { de: "Manengouba-Gebirge", hu: "Manengouba-hegység", ro: "Munții Manengouba", en: "Manengouba Mountains"},
-    image: "/poi-images/manengouba-mountain-nature-v2.webp",
     description: { de: "Der Mount Manengouba ist ein markantes Vulkanmassiv im Westen Kameruns. Seine Kraterlandschaft ist für Wanderungen und Naturbeobachtung bekannt.", hu: "A Manengouba-hegység Kamerun nyugati magashegységi tája. Két vulkáni tó és erdős lejtők kapcsolódnak hozzá.", ro: "Un masiv muntos impresionant cu lacuri de crater.", en: "Mount Manengouba is a majestic extinct volcano featuring unique twin crater lakes known as the 'Male' and 'Female' lakes." , es: "El Mount Manengouba es un prominente macizo volcánico en el oeste de Camerún. Su paisaje de cráter es conocido por el senderismo y la observación de la naturaleza.", pt: "O Mount Manengouba é um maciço vulcânico proeminente no oeste dos Camarões. A sua paisagem de cratera é conhecida pelas caminhadas e observação da natureza.", fr: "Le Mount Manengouba est un massif volcanique proéminent dans l'ouest du Cameroun. Son paysage de cratère est réputé pour la randonnée et l'observation de la nature."},
     facts: {
       de: ["Vulkanmassiv im Westen", "Kraterlandschaft", "beliebtes Wandergebiet"],
@@ -790,7 +774,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-LT",
     coords: [10.0, 4.5],
     name: { de: "Nkam-Becken", hu: "Nkam-medence", ro: "Bazinul Nkam", en: "Nkam Basin"},
-    image: "/poi-images/nkam-basin-nature-v2.webp",
     description: { de: "Das Nkam-Becken gehört zu den feuchten Flusslandschaften Westkameruns. Es prägt Landwirtschaft, Vegetation und Wasserhaushalt der Region.", hu: "Az Nkam-medence a nyugati Kamerun egyik fontos vízgyűjtője. A dús csapadékú térségek lefolyását gyűjti össze.", ro: "O zonă forestieră densă în bazinul Nkam.", en: "The Nkam Basin is a fertile valley and river system known for its lush vegetation and rich agricultural potential in the Littoral Region." , es: "La cuenca del Nkam forma parte de los paisajes fluviales húmedos del oeste de Camerún. Influye en la agricultura, la vegetación y el equilibrio hídrico de la región.", pt: "A bacia do Nkam faz parte das paisagens fluviais húmidas do oeste dos Camarões. Molda a agricultura, a vegetação e o regime hídrico da região.", fr: "Le bassin du Nkam fait partie des paysages fluviaux humides de l'ouest du Cameroun. Il façonne l'agriculture, la végétation et le bilan hydrique de la région."},
     facts: {
       de: ["Flussbecken im Westen", "feuchtes Tiefland", "wichtig für Landwirtschaft"],
@@ -826,7 +809,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-SU",
     coords: [10.0, 2.95],
     name: { de: "Kribi-Küstenwald", hu: "Kribi parti erdő", ro: "Pădurea de coastă Kribi", en: "Kribi Coastal Forest"},
-    image: "/poi-images/kribi-forest-nature-v2.webp",
     description: { de: "Die Wälder bei Kribi reichen bis an die Atlantikküste und sind Teil des südlichen Regenwaldgürtels. Sie bilden einen wichtigen Lebensraum für Pflanzen und Tiere.", hu: "Kribi környékén parti esőerdők húzódnak. A tenger és az erdő találkozása jellemzi a tájat.", ro: "Pădurea din zona Kribi este o pădure tropicală de coastă. Mediul este umed și susține o vegetație bogată, apropiată de ocean.", en: "The coastal forests of Kribi are a lush tropical paradise where the jungle meets the sandy shores of the Atlantic Ocean." , es: "Los bosques cerca de Kribi llegan hasta la costa atlántica y forman parte del cinturón de selva tropical del sur. Son un hábitat importante para plantas y animales.", pt: "As florestas perto de Kribi estendem-se até à costa atlântica e fazem parte da cintura de floresta tropical do sul. Formam um habitat importante para plantas e animais.", fr: "Les forêts près de Kribi s'étendent jusqu'à la côte atlantique et font partie de la ceinture de forêt tropicale du sud. Elles constituent un habitat important pour les plantes et les animaux."},
     facts: {
       de: ["Regenwald an der Küste", "bei Kribi", "artenreicher Lebensraum"],
@@ -862,7 +844,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-LT",
     coords: [9.6, 3.5],
     name: { de: "Sanaga-Delta", hu: "Sanaga-delta", ro: "Delta Sanaga", en: "Sanaga Delta"},
-    image: "/poi-images/sanaga-delta-nature-v2.webp",
     description: { de: "Das Mündungsgebiet des Sanaga-Flusses in den Atlantik.", hu: "A Sanaga-delta a folyó torkolatvidékének vizes élőhelye. Mocsarak és árterek jellemzik.", ro: "Zona de vărsare a râului Sanaga în Atlantic.", en: "The Sanaga delta spreads into mangroves and estuary waters on the coast. It is an important wetland zone for fish and birds." , es: "La zona de la desembocadura del río Sanaga en el Atlántico.", pt: "A zona da foz do rio Sanaga no Atlântico.", fr: "La zone de l'embouchure du fleuve Sanaga dans l'Atlantique."},
     facts: {
       de: ["Mangrovenwälder.", "Reiche Fischgründe.", "Sehr fruchtbar.", "Komplexes Ökosystem."],
@@ -898,7 +879,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-SU",
     coords: [13.2, 3.1],
     name: { de: "Dja-Regenwald", hu: "Dja esőerdő", ro: "Pădurea tropicală Dja", en: "Dja Rainforest"},
-    image: "/poi-images/dja-forest-nature-v2.webp",
     description: { de: "Ein Teil des großen Regenwaldes in Süd-Kamerun.", hu: "A dél-kameruni nagy esőerdő része.", ro: "O parte a marii păduri tropicale din sudul Camerunului.", en: "A part of the large rainforest in southern Cameroon." , es: "Parte de la gran selva tropical en el sur de Camerún.", pt: "Parte da grande floresta tropical no sul dos Camarões.", fr: "Une partie de la grande forêt tropicale du sud du Cameroun."},
     facts: {
       de: ["Unberührte Natur.", "Große Artenvielfalt.", "Wichtiges Schutzgebiet.", "Dichtes Unterholz."],
@@ -979,7 +959,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-SW",
     coords: [9.55, 4.1],
     name: { de: "Mungo-Delta", hu: "Mungo-delta", ro: "Delta Mungo", en: "Mungo Delta"},
-    image: "/poi-images/mungo-delta-nature-v2.webp",
     description: { de: "Das Mündungsgebiet des Mungo-Flusses.", hu: "A Mungo folyó torkolatvidéke.", ro: "Zona de vărsare a râului Mungo.", en: "The mouth of the Mungo river." , es: "La zona de la desembocadura del río Mungo.", pt: "A zona da foz do rio Mungo.", fr: "La zone de l'embouchure du fleuve Mungo."},
     facts: {
       de: ["Reiche Mangroven.", "Wichtig für Wasserqualität.", "Lebensraum vieler Arten.", "Saisonal beeinflusst."],
@@ -1015,7 +994,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-SW",
     coords: [9.25, 4.2],
     name: { de: "Buea-Bergwald", hu: "Buea hegyi erdő", ro: "Pădurea montană Buea", en: "Buea Mountain Forest"},
-    image: "/poi-images/buea-forest-nature-v2.webp",
     description: { de: "Die Wälder um Buea wachsen an den Hängen des Mount Cameroon. Das feuchte Bergklima sorgt dort für dichte Vegetation.", hu: "Buea környékén felhőerdők és hegyvidéki erdők húzódnak. A Mount Cameroon lejtőinek zöld öve.", ro: "Pădurea din jurul orașului Buea urcă pe pantele Muntelui Camerun. Este un habitat montan cu vegetație densă și temperaturi mai răcoroase.", en: "The montane forests surrounding Buea are part of the Mount Cameroon ecosystem, home to rare plants and a variety of bird species." , es: "Los bosques que rodean Buea crecen en las laderas del Monte Camerún. El clima de montaña húmedo asegura allí una vegetación densa.", pt: "As florestas ao redor de Buea crescem nas encostas do Monte Camarões. O clima de montanha húmido proporciona ali uma vegetação densa.", fr: "Les forêts autour de Buea poussent sur les pentes du Mont Cameroun. Le climat de montagne humide y assure une végétation dense."},
     facts: {
       de: ["Wald am Vulkanhang", "um Buea", "feuchtes Bergklima"],
@@ -1087,7 +1065,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-LT",
     coords: [10.05, 4.55],
     name: { de: "Nkam-Tieflandwald", hu: "Nkam alföldi erdő", ro: "Pădurea de câmpie Nkam", en: "Nkam Lowland Forest"},
-    image: "/poi-images/nkam-forest-nature-v2.webp",
     description: { de: "Die Nkam-Wälder liegen in einem feuchten Landschaftsraum mit dichter Vegetation. Sie sind Teil des natürlichen Waldgürtels im Westen Kameruns.", hu: "Az Nkam vízrendszerének környékén sűrű erdőségek vannak. A folyó menti élőhelyek fontosak a biodiverzitásnak.", ro: "Pădure tropicală de câmpie în valea Nkam.", en: "Forest in the Nkam area covers humid lowland terrain in western Cameroon. It is part of the country's dense inland forest belt." , es: "Los bosques de Nkam se encuentran en un área paisajística húmeda con vegetación densa. Forman parte del cinturón forestal natural del oeste de Camerún.", pt: "As florestas de Nkam situam-se numa área de paisagem húmida com vegetação densa. Fazem parte da cintura florestal natural do oeste dos Camarões.", fr: "Les forêts du Nkam sont situées dans un espace paysager humide à la végétation dense. Elles font partie de la ceinture forestière naturelle de l'ouest du Cameroun."},
     facts: {
       de: ["feuchter Waldraum", "im Westen Kameruns", "Teil des Waldgürtels"],
@@ -1123,7 +1100,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-LT",
     coords: [10.1, 3.6],
     name: { de: "Sanaga-Uferwald", hu: "Sanaga menti erdő", ro: "Pădurea de pe malul Sanaga", en: "Sanaga Riparian Forest"},
-    image: "/poi-images/sanaga-forest-nature-v2.webp",
     description: { de: "Ein Uferwald entlang des Sanaga-Flusses.", hu: "A Sanaga menti erdők Kamerun középső és déli tájain húzódnak. A folyóhoz kötődő ökológiai folyosót alkotnak.", ro: "O pădure riverană de-a lungul râului Sanaga.", en: "A riparian forest along the Sanaga River." , es: "Un bosque ribereño a lo largo del río Sanaga.", pt: "Uma floresta ribeirinha ao longo do rio Sanaga.", fr: "Une forêt riveraine le long du fleuve Sanaga."},
     facts: {
       de: ["Wichtig gegen Erosion.", "Lebensraum am Wasser.", "Üppige Vegetation.", "Regelmäßige Überflutung."],
@@ -1159,7 +1135,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-SU",
     coords: [9.95, 2.85],
     name: { de: "Kribi-Sumpfgebiet", hu: "Kribi mocsárvidék", ro: "Zona mlăștinoasă Kribi", en: "Kribi Marshland"},
-    image: "/poi-images/kribi-marsh-nature-v2.webp",
     description: { de: "Die Sümpfe bei Kribi liegen im feuchten Küstenraum Kameruns. Sie gehören zu den wasserreichen Landschaften an der Atlantikküste.", hu: "Kribi környékén parti mocsarak és lagúnás vizes területek is előfordulnak. Ezek a partvidék élőhelyei közé tartoznak.", ro: "O zonă mlăștinoasă lângă Kribi, în apropierea coastei.", en: "The marshlands around Kribi are important coastal wetlands that support a variety of aquatic life and migratory bird species." , es: "Los pantanos cerca de Kribi se encuentran en la zona costera húmeda de Camerún. Forman parte de los paisajes ricos en agua en la costa atlántica.", pt: "Os pântanos perto de Kribi situam-se na zona costeira húmida dos Camarões. Fazem parte das paisagens ricas em água na costa atlântica.", fr: "Les marais près de Kribi sont situés dans la zone côtière humide du Cameroun. Ils font partie des paysages riches en eau de la côte atlantique."},
     facts: {
       de: ["feuchte Küstenzone", "bei Kribi", "wasserreiches Gelände"],
@@ -1231,7 +1206,6 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-SW",
     coords: [9.45, 4.05],
     name: { de: "Mungo-Sumpf", hu: "Mungo-mocsár", ro: "Mlaștina Mungo", en: "Mungo Marsh"},
-    image: "/poi-images/mungo-marsh-nature-v2.webp",
     description: { de: "Die Feuchtgebiete am Mungo-Fluss sind Teil eines grünen, sumpfigen Landschaftsraums im Westen Kameruns. Sie sind wichtig für Wasser, Landwirtschaft und Tierwelt.", hu: "A Mungo folyó alacsonyabb szakaszain vizes, lápos területek is kialakulnak. Ezek fontos természetes élőhelyek.", ro: "Zonele mlăștinoase din bazinul Mungo sunt formate de ape lente și soluri saturate. Acest tip de habitat susține păsări, pești și vegetație de baltă.", en: "The Mungo marshes are expansive wetlands in the Littoral Region, providing a critical habitat for diverse flora and fauna." , es: "Los humedales del río Mungo forman parte de un paisaje verde y pantanoso en el oeste de Camerún. Son importantes para el agua, la agricultura y la vida silvestre.", pt: "As zonas húmidas no rio Mungo fazem parte de uma paisagem verde e pantanosa no oeste dos Camarões. São importantes para a água, a agricultura e a vida selvagem.", fr: "Les zones humides sur le fleuve Mungo font partie d'un paysage verdoyant et marécageux dans l'ouest du Cameroun. Elles sont importantes pour l'eau, l'agriculture et la faune."},
     facts: {
       de: ["Sumpfgebiet im Westen", "am Mungo-Fluss", "wichtig für Ökosysteme"],

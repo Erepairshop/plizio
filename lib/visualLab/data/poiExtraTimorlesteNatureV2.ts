@@ -8,7 +8,6 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     parent: "TL-AN",
     coords: [125.4950, -8.9056],
     name: { de: "Tatamailau (Ramelau)", hu: "Tatamailau (Ramelau)", ro: "Tatamailau (Ramelau)", en: "Tatamailau (Ramelau)"},
-    image: "/poi-images/tatamailau-nature-v2.webp",
     description: { de: "Der Tatamailau ist mit 2963 Metern der höchste Berg in Osttimor und der gesamten Insel Timor. Der Gipfel bietet einen weiten Blick über das gebirgige Land.", hu: "A Tatamailau 2963 méterrel Kelet-Timor és az egész Timor-sziget legmagasabb hegye. A csúcsról messzire ellátni a hegyvidéki ország felett.", ro: "Tatamailau, cu cei 2963 de metri ai săi, este cel mai înalt munte din Timorul de Est și de pe întreaga insulă Timor. Vârful oferă o vedere largă asupra țării muntoase.", en: "Tatamailau is the highest mountain in East Timor and the entire island of Timor at 2,963 metres. The summit offers a sweeping view across the mountainous country." , es: "El Tatamailau, con 2963 metros, es la montaña más alta de Timor Oriental y de toda la isla de Timor. La cumbre ofrece una amplia vista sobre el montañoso país.", pt: "O Tatamailau é, com 2963 metros, a montanha mais alta de Timor-Leste e de toda a ilha de Timor. O cume oferece uma vasta vista sobre o país montanhoso.", fr: "Le Tatamailau, culminant à 2 963 mètres, est la plus haute montagne du Timor oriental et de toute l'île de Timor. Le sommet offre une vue étendue sur le pays montagneux."},
     facts: {
       de: ["2963 Meter hoch.", "Höchster Berg Osttimors.", "Statue der Jungfrau Maria am Gipfel."],
@@ -89,7 +88,6 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     parent: "TL-LA",
     coords: [127.1840, -8.4111],
     name: { de: "Nationalpark Nino Konis Santana", hu: "Nino Konis Santana Nemzeti Park", ro: "Parcul Național Nino Konis Santana", en: "Nino Konis Santana National Park"},
-    image: "/poi-images/nino-konis-santana-national-park-nature-v2.webp",
     description: { de: "Dieser erste Nationalpark Osttimors schützt wichtige Tropenwälder, Korallenriffe und die größte Karstlandschaft der Insel. Er ist ein Paradies für viele seltene Vogelarten.", hu: "Kelet-Timor első nemzeti parkja fontos trópusi erdőket, korallzátonyokat és a sziget legnagyobb karsztvidékét védi. Számos ritka madárfaj paradicsoma.", ro: "Acest prim parc național din Timorul de Est protejează păduri tropicale importante, recife de corali și cel mai mare peisaj carstic de pe insulă. Este un paradis pentru păsări rare.", en: "East Timor's first national park protects important tropical forests, coral reefs, and the island's largest karst landscape. It is a paradise for many rare bird species." , es: "Este primer parque nacional de Timor Oriental protege importantes bosques tropicales, arrecifes de coral y el paisaje kárstico más grande de la isla. Es un paraíso para muchas especies de aves raras.", pt: "Este primeiro parque nacional de Timor-Leste protege importantes florestas tropicais, recifes de coral e a maior paisagem cársica da ilha. É um paraíso para muitas espécies de aves raras.", fr: "Ce premier parc national du Timor oriental protège d'importantes forêts tropicales, des récifs coralliens et le plus grand paysage karstique de l'île. C'est un paradis pour de nombreuses espèces d'oiseaux rares."},
     facts: {
       de: ["Erster Nationalpark des Landes.", "Gegründet im Jahr 2007.", "Schützt Land- und Meeresflächen."],
@@ -125,7 +123,6 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     parent: "TL-LA",
     coords: [127.1350, -8.4722],
     name: { de: "Ira-Lalaro-See", hu: "Ira Lalaro-tó", ro: "Lacul Ira Lalaro", en: "Lake Ira Lalaro"},
-    image: "/poi-images/lake-ira-lalaro-nature-v2.webp",
     description: { de: "Der Ira Lalaro ist der größte See Osttimors und liegt im Nino-Konis-Santana-Nationalpark. Er ist bekannt für seine Population von Leistenkrokodilen.", hu: "Az Ira Lalaro Kelet-Timor legnagyobb tava, amely a Nino Konis Santana Nemzeti Parkban található. Ismert a bordáskrokodil-populációjáról.", ro: "Ira Lalaro este cel mai mare lac din Timorul de Est și se află în Parcul Național Nino Konis Santana. Este cunoscut pentru populația sa de crocodili de apă sărată.", en: "Ira Lalaro is the largest lake in East Timor and is located in the Nino Konis Santana National Park. It is known for its saltwater crocodile population." , es: "El Ira Lalaro es el lago más grande de Timor Oriental y se encuentra en el Parque Nacional Nino Konis Santana. Es conocido por su población de cocodrilos de agua salada.", pt: "O Ira Lalaro é o maior lago de Timor-Leste e situa-se no Parque Nacional Nino Konis Santana. É conhecido pela sua população de crocodilos-de-água-salgada.", fr: "L'Ira Lalaro est le plus grand lac du Timor oriental et se trouve dans le parc national Nino Konis Santana. Il est connu pour sa population de crocodiles marins."},
     facts: {
       de: ["Größter See des Landes.", "Heimat von Leistenkrokodilen.", "Liegt in einer Polje (Karstsenke)."],
@@ -206,7 +203,6 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     parent: "TL-BA",
     coords: [126.5910, -8.6253],
     name: { de: "Matebian", hu: "Matebian", ro: "Matebian", en: "Mount Matebian"},
-    image: "/poi-images/mount-matebian-nature-v2.webp",
     description: { de: "Der Matebian ist einer der höchsten Berge des Landes und wird als der „Berg der Toten“ bezeichnet. Er spielte eine wichtige Rolle als Zufluchtsort während der indonesischen Besatzung.", hu: "A Matebian az ország egyik legmagasabb hegye, melyet a „Holtak hegyének” is neveznek. Fontos menedékhelyként szolgált az indonéz megszállás alatt.", ro: "Matebian este unul dintre cei mai înalți munți din țară și este numit „Muntele Morților”. A jucat un rol important ca refugiu în timpul ocupației indoneziene.", en: "Matebian is one of the highest mountains in the country and is known as the \"Mountain of the Dead\". It played an important role as a refuge during the Indonesian occupation." , es: "El Matebian es una de las montañas más altas del país y se conoce como la \"Montaña de los Muertos\". Desempeñó un papel importante como refugio durante la ocupación indonesia.", pt: "O Matebian é uma das montanhas mais altas do país e é conhecida como a \"Montanha dos Mortos\". Desempenhou um papel importante como refúgio durante a ocupação indonésia.", fr: "Le Matebian est l'une des plus hautes montagnes du pays et est appelée la \"Montagne des Morts\". Elle a joué un rôle important en tant que refuge pendant l'occupation indonésienne."},
     facts: {
       de: ["2316 Meter hoch.", "Übersetzt „Berg der Toten“.", "Bedeutende historische Stätte."],
@@ -242,7 +238,6 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     parent: "TL-BO",
     coords: [125.1380, -8.6575],
     name: { de: "Rio Lóis", hu: "Lóis-folyó", ro: "Râul Lóis", en: "Lóis River"},
-    image: "/poi-images/lois-river-nature-v2.webp",
     description: { de: "Der Rio Lóis ist das längste Flusssystem in Osttimor, das das ganze Jahr über Wasser führt. Er fließt durch ein breites Tal in die Sawusee.", hu: "A Lóis-folyó Kelet-Timor leghosszabb vízrendszere, amely egész évben vizet szállít. Egy széles völgyön keresztül folyik a Savu-tengerbe.", ro: "Râul Lóis este cel mai lung sistem fluvial din Timorul de Est, cu apă pe tot parcursul anului. Curge printr-o vale largă în Marea Savu.", en: "The Lóis River is the longest river system in East Timor that carries water year-round. It flows through a broad valley into the Savu Sea." , es: "El río Lóis es el sistema fluvial más largo de Timor Oriental que lleva agua durante todo el año. Fluye a través de un valle ancho hasta desembocar en el mar de Savu.", pt: "O rio Lóis é o sistema fluvial mais longo de Timor-Leste que transporta água durante todo o ano. Flui através de um vale largo até desaguar no mar de Savu.", fr: "La rivière Lóis est le plus long réseau fluvial du Timor oriental qui coule toute l'année. Elle traverse une large vallée avant de se jeter dans la mer de Savu."},
     facts: {
       de: ["Längster ständiger Fluss Osttimors.", "Mündet in die Sawusee.", "Wichtig für die Landwirtschaft."],
@@ -278,7 +273,6 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     parent: "TL-MF",
     coords: [125.5680, -9.0225],
     name: { de: "Kablaki", hu: "Kablaki", ro: "Kablaki", en: "Mount Kablaki"},
-    image: "/poi-images/mount-kablaki-nature-v2.webp",
     description: { de: "Der Kablaki ist ein markanter Kalksteinberg im Bezirk Manufahi. Seine steilen Hänge und dichten Wälder sind ein Rückzugsort für die lokale Tierwelt.", hu: "A Kablaki egy feltűnő mészkőhegy Manufahi körzetében. Meredek lejtői és sűrű erdői a helyi vadvilág menedékei.", ro: "Kablaki este un munte de calcar impresionant în districtul Manufahi. Pantele sale abrupte și pădurile dense sunt un refugiu pentru fauna locală.", en: "Kablaki is a prominent limestone mountain in the Manufahi district. Its steep slopes and dense forests provide a refuge for local wildlife." , es: "El Kablaki es una llamativa montaña de piedra caliza en el distrito de Manufahi. Sus laderas empinadas y bosques densos son un refugio para la fauna local.", pt: "O Kablaki é uma impressionante montanha de calcário no distrito de Manufahi. As suas encostas íngremes e florestas densas são um refúgio para a fauna local.", fr: "Le Kablaki est une montagne calcaire saisissante dans le district de Manufahi. Ses pentes raides et ses forêts denses sont un refuge pour la faune locale."},
     facts: {
       de: ["Über 2000 Meter hoch.", "Wichtiger Kalksteinberg.", "Dicht bewaldete Hänge."],
@@ -575,7 +569,6 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     parent: "TL-AL",
     coords: [125.5510, -8.6558],
     name: { de: "Seloi-See", hu: "Seloi-tó", ro: "Lacul Seloi", en: "Lake Seloi"},
-    image: "/poi-images/lake-seloi-nature-v2.webp",
     description: { de: "Der Seloi-See im Distrikt Aileu füllt sich besonders während der Regenzeit. Er ist ein wichtiges Feuchtgebiet für Wasservögel und die lokale Landwirtschaft.", hu: "Az Aileu körzetben található Seloi-tó különösen az esős évszakban telik meg vízzel. Fontos vizes élőhely a vízimadarak és a helyi mezőgazdaság számára.", ro: "Lacul Seloi din districtul Aileu se umple în special în timpul sezonului ploios. Este o zonă umedă importantă pentru păsările de apă și agricultura locală.", en: "Lake Seloi in the Aileu district fills up especially during the rainy season. It is an important wetland for waterbirds and local agriculture." , es: "El lago Seloi en el distrito de Aileu se llena especialmente durante la temporada de lluvias. Es un humedal importante para las aves acuáticas y la agricultura local.", pt: "O Lago Seloi no distrito de Aileu enche-se especialmente durante a estação das chuvas. É uma zona húmida importante para as aves aquáticas e a agricultura local.", fr: "Le lac Seloi, dans le district d'Aileu, se remplit surtout pendant la saison des pluies. C'est une zone humide importante pour les oiseaux aquatiques et l'agriculture locale."},
     facts: {
       de: ["Saisonaler See.", "Wichtiges Feuchtgebiet.", "Liegt im Distrikt Aileu."],
@@ -728,7 +721,6 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     parent: "TL-VI",
     coords: [126.3540, -8.7408],
     name: { de: "Mundo Perdido", hu: "Mundo Perdido", ro: "Mundo Perdido", en: "Mount Mundo Perdido"},
-    image: "/poi-images/mount-mundo-perdido-nature-v2.webp",
     description: { de: "Der „Verlorene Welt“-Berg (Mundo Perdido) ist ein wichtiges Schutzgebiet in Viqueque. Die dichten Bergwälder beherbergen zahlreiche endemische Orchideen und Vögel.", hu: "Az „Elveszett világ” (Mundo Perdido) nevű hegy fontos védett terület Viqueque-ben. Sűrű hegyi erdői számos endemikus orchideának és madárnak adnak otthont.", ro: "Muntele „Lumea Pierdută” (Mundo Perdido) este o arie protejată importantă în Viqueque. Pădurile montane dese adăpostesc numeroase orhidee și păsări endemice.", en: "The \"Lost World\" mountain (Mundo Perdido) is an important protected area in Viqueque. Its dense mountain forests host numerous endemic orchids and birds." , es: "La montaña del \"Mundo Perdido\" (Mundo Perdido) es una importante reserva natural en Viqueque. Los densos bosques de montaña albergan numerosas orquídeas y aves endémicas.", pt: "A montanha do \"Mundo Perdido\" (Mundo Perdido) é uma importante reserva natural em Viqueque. As densas florestas de montanha abrigam numerosas orquídeas e aves endémicas.", fr: "La montagne du \"Monde Perdu\" (Mundo Perdido) est une réserve naturelle importante à Viqueque. Les forêts de montagne denses abritent de nombreuses orchidées et oiseaux endémiques."},
     facts: {
       de: ["Schutzgebiet für Biodiversität.", "Übersetzt „Verlorene Welt“.", "Heimat endemischer Vögel."],
@@ -1025,7 +1017,6 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     parent: "TL-BA",
     coords: [126.5650, -8.4411],
     name: { de: "Seiçal-Fluss", hu: "Seiçal-folyó", ro: "Râul Seiçal", en: "Seiçal River"},
-    image: "/poi-images/seical-river-nature-v2.webp",
     description: { de: "Der Seiçal-Fluss entspringt im gebirgigen Landesinneren und mündet bei Baucau ins Meer. Seine Flussaue ist eines der fruchtbarsten Gebiete Osttimors.", hu: "A Seiçal-folyó a hegyvidéki belső területekről ered, és Baucau közelében torkollik a tengerbe. Ártere Kelet-Timor egyik legtermékenyebb vidéke.", ro: "Râul Seiçal izvorăște în interiorul muntos și se varsă în mare lângă Baucau. Lunca sa inundabilă este una dintre cele mai fertile zone din Timorul de Est.", en: "The Seiçal River originates in the mountainous interior and flows into the sea near Baucau. Its floodplain is one of the most fertile areas in East Timor." , es: "El río Seiçal nace en el interior montañoso y desemboca en el mar cerca de Baucau. Su llanura aluvial es una de las zonas más fértiles de Timor Oriental.", pt: "O rio Seiçal nasce no interior montanhoso e desagua no mar perto de Baucau. A sua planície aluvial é uma das áreas mais férteis de Timor-Leste.", fr: "La rivière Seiçal prend sa source dans l'intérieur montagneux et se jette dans la mer près de Baucau. Sa plaine inondable est l'une des zones les plus fertiles du Timor oriental."},
     facts: {
       de: ["Fließt durch den Distrikt Baucau.", "Schafft fruchtbare Reisfelder.", "Mündet in die Straße von Wetar."],
@@ -1178,7 +1169,6 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     parent: "TL-OE",
     coords: [124.3160, -9.2638],
     name: { de: "Tono (Noel Besi)", hu: "Tono (Noel Besi)", ro: "Râul Tono", en: "Tono River"},
-    image: "/poi-images/tono-river-nature-v2.webp",
     description: { de: "Der Tono ist der Hauptfluss der Exklave Oecusse. Er sammelt das Wasser aus den Bergen und schafft eine breite, landwirtschaftlich genutzte Ebene vor der Küste.", hu: "A Tono az Oecusse exklávé fő folyója. Összegyűjti a hegyekből lezúduló vizet, és egy széles, mezőgazdaságilag művelt síkságot hoz létre a part előtt.", ro: "Tono este râul principal din exclava Oecusse. Colectează apa din munți și creează o câmpie lată, folosită pentru agricultură, în apropierea coastei.", en: "The Tono is the main river in the Oecusse exclave. It collects water from the mountains and creates a broad, agriculturally used plain near the coast." , es: "El Tono es el río principal del enclave de Oecusse. Recoge el agua de las montañas y crea una amplia llanura agrícola antes de la costa.", pt: "O Tono é o rio principal do enclave de Oecusse. Recolhe a água das montanhas e cria uma ampla planície agrícola antes da costa.", fr: "Le Tono est la principale rivière de l'enclave d'Oecusse. Il recueille l'eau des montagnes et crée une large plaine agricole avant la côte."},
     facts: {
       de: ["Hauptfluss in Oecusse.", "Wichtig für lokale Bewässerung.", "Mündet in die Sawusee."],
@@ -1475,7 +1465,6 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     parent: "TL-CO",
     coords: [125.1270, -9.2133],
     name: { de: "Taroman", hu: "Taroman", ro: "Taroman", en: "Mount Taroman"},
-    image: "/poi-images/mount-taroman-nature-v2.webp",
     description: { de: "Der Mount Taroman im Distrikt Covalima ist bekannt für seine steilen, bewaldeten Flanken. Die abgelegene Region ist reich an ursprünglicher Natur und Wildtieren.", hu: "A Covalima körzetben található Taroman-hegy meredek, erdős lejtőiről ismert. A távoli régió gazdag érintetlen természetben és vadvilágban.", ro: "Muntele Taroman din districtul Covalima este cunoscut pentru pantele sale abrupte și împădurite. Regiunea izolată este bogată în natură virgină și viață sălbatică.", en: "Mount Taroman in the Covalima district is known for its steep, forested flanks. The remote region is rich in pristine nature and wildlife." , es: "El Mount Taroman en el distrito de Covalima es conocido por sus laderas escarpadas y boscosas. La región remota es rica en naturaleza virgen y vida silvestre.", pt: "O Mount Taroman no distrito de Covalima é conhecido pelas suas encostas escarpadas e florestadas. A região remota é rica em natureza virgem e vida selvagem.", fr: "Le Mount Taroman dans le district de Covalima est connu pour ses pentes escarpées et boisées. La région isolée est riche en nature vierge et en faune."},
     facts: {
       de: ["Über 1700 Meter hoch.", "Liegt in Covalima.", "Dichte Tropenwälder."],
@@ -1511,7 +1500,6 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     parent: "TL-MF",
     coords: [125.6880, -9.1555],
     name: { de: "Caraulun-Fluss", hu: "Caraulun-folyó", ro: "Râul Caraulun", en: "Caraulun River"},
-    image: "/poi-images/caraulun-river-nature-v2.webp",
     description: { de: "Der Caraulun durchschneidet den Distrikt Manufahi und prägt eine malerische Landschaft. In der Regenzeit schwillt er stark an und transportiert Sedimente zur Südküste.", hu: "A Caraulun átszeli a Manufahi körzetet, és festői tájat formál. Az esős évszakban erősen megduzzad, és hordalékot szállít a déli partvidékre.", ro: "Caraulun traversează districtul Manufahi și formează un peisaj pitoresc. În sezonul ploios, crește puternic și transportă sedimente spre coasta de sud.", en: "The Caraulun cuts through the Manufahi district, shaping a picturesque landscape. In the rainy season, it swells significantly and transports sediments to the south coast." , es: "El Caraulun atraviesa el distrito de Manufahi y conforma un paisaje pintoresco. En la temporada de lluvias, crece significativamente y transporta sedimentos a la costa sur.", pt: "O Caraulun atravessa o distrito de Manufahi e forma uma paisagem pitoresca. Na estação das chuvas, cresce significativamente e transporta sedimentos para a costa sul.", fr: "La Caraulun traverse le district de Manufahi et forme un paysage pittoresque. Durant la saison des pluies, elle gonfle considérablement et transporte des sédiments vers la côte sud."},
     facts: {
       de: ["Fließt zur Timorsee.", "Starke saisonale Schwankungen.", "Prägt den Distrikt Manufahi."],
@@ -1628,7 +1616,6 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     parent: "TL-MT",
     coords: [126.0140, -8.5133],
     name: { de: "Nördlicher Lacló", hu: "Északi Lacló", ro: "Râul Lacló de Nord", en: "North Laclo River"},
-    image: "/poi-images/north-laclo-river-nature-v2.webp",
     description: { de: "Der Nördliche Lacló ist einer der wichtigsten Flüsse Osttimors und mündet bei Manatuto ins Meer. Er ist berühmt für die Salinen an seinem flachen Delta.", hu: "Az Északi-Lacló Kelet-Timor egyik legfontosabb folyója, amely Manatuto közelében éri el a tengert. Híres a lapos deltájánál található sólepárlókról.", ro: "Lacló de Nord este unul dintre cele mai importante râuri din Timorul de Est și se varsă în mare lângă Manatuto. Este faimos pentru salinele din delta sa plană.", en: "The North Laclo is one of the most important rivers in East Timor and flows into the sea near Manatuto. It is famous for the salt pans at its flat delta." , es: "El Nördlicher Lacló (Lacló del Norte) es uno de los ríos más importantes de Timor Oriental y desemboca en el mar cerca de Manatuto. Es famoso por las salinas de su delta plano.", pt: "O Nördlicher Lacló (Lacló do Norte) é um dos rios mais importantes de Timor-Leste e desagua no mar perto de Manatuto. É famoso pelas salinas no seu delta plano.", fr: "Le Nördlicher Lacló (Lacló du Nord) est l'un des fleuves les plus importants du Timor oriental et se jette dans la mer près de Manatuto. Il est célèbre pour les marais salants de son delta plat."},
     facts: {
       de: ["Einer der längsten Flüsse.", "Salzgewinnung im Delta.", "Mündet in die Straße von Wetar."],
@@ -1853,7 +1840,6 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     parent: "TL-MF",
     coords: [125.9610, -9.0000],
     name: { de: "Südlicher Lacló", hu: "Déli Lacló", ro: "Râul Lacló de Sud", en: "South Laclo River"},
-    image: "/poi-images/south-laclo-river-nature-v2.webp",
     description: { de: "Der Südliche Lacló entwässert Teile des südlichen Hochlandes in die Timorsee. Seine Ufergebiete sind durch traditionellen Ackerbau und dichte Vegetation geprägt.", hu: "A Déli-Lacló a déli felvidék egy részének vizét vezeti el a Timor-tengerbe. Partmenti területeit a hagyományos mezőgazdaság és a sűrű növényzet jellemzi.", ro: "Lacló de Sud drenează părți din zonele înalte sudice în Marea Timor. Zonele sale riverane sunt caracterizate de agricultura tradițională și vegetația densă.", en: "The South Laclo drains parts of the southern highlands into the Timor Sea. Its riparian zones are characterized by traditional agriculture and dense vegetation." , es: "El Lacló del Sur drena partes de las tierras altas del sur hacia el mar de Timor. Sus riberas se caracterizan por la agricultura tradicional y una vegetación densa.", pt: "O Lacló do Sul drena partes das terras altas do sul para o Mar de Timor. As suas margens são marcadas pela agricultura tradicional e vegetação densa.", fr: "Le Lacló du Sud draine une partie des hautes terres du sud vers la mer de Timor. Ses rives sont caractérisées par une agriculture traditionnelle et une végétation dense."},
     facts: {
       de: ["Entwässert in den Süden.", "Wichtige Lebensader der Region.", "Umgeben von tropischer Flora."],
@@ -2222,7 +2208,6 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     parent: "TL-MT",
     coords: [125.9390, -8.4878],
     name: { de: "Curi", hu: "Curi", ro: "Curi", en: "Mount Curi"},
-    image: "/poi-images/mount-curi-nature-v2.webp",
     description: { de: "Der Mount Curi ist ein felsiges Bergmassiv nahe der Nordküste. Das Gebiet zeichnet sich durch Trockenwälder und eine einzigartige Biodiversität aus.", hu: "A Curi-hegy egy sziklás hegytömb az északi part közelében. A területet száraz erdők és egyedülálló biológiai sokféleség jellemzi.", ro: "Muntele Curi este un masiv stâncos în apropiere de coasta de nord. Zona se remarcă prin păduri uscate și o biodiversitate unică.", en: "Mount Curi is a rocky mountain massif near the north coast. The area is characterized by dry forests and unique biodiversity." , es: "El Mount Curi es un macizo montañoso rocoso cerca de la costa norte. La zona se caracteriza por bosques secos y una biodiversidad única.", pt: "O Mount Curi é um maciço montanhoso rochoso perto da costa norte. A área caracteriza-se por florestas secas e uma biodiversidade única.", fr: "Le Mount Curi est un massif montagneux rocheux près de la côte nord. La zone se caractérise par des forêts sèches et une biodiversité unique."},
     facts: {
       de: ["Rund 1300 Meter hoch.", "Trockenwälder prägen die Hänge.", "Wichtig für Vogelbeobachtung."],
@@ -2456,7 +2441,6 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     parent: "TL-LI",
     coords: [125.1970, -8.6111],
     name: { de: "Maubara-See", hu: "Maubara-tó", ro: "Lacul Maubara", en: "Lake Maubara"},
-    image: "/poi-images/lake-maubara-nature-v2.webp",
     description: { de: "Der Maubara-See ist ein Küstensee westlich von Dili. Er ist von dichtem Wald umgeben und ein beliebter Nistplatz für unzählige Wasservögel.", hu: "A Maubara-tó egy partmenti tó Dilitől nyugatra. Sűrű erdő veszi körül, és számtalan vízimadár kedvelt fészkelőhelye.", ro: "Lacul Maubara este un lac de coastă la vest de Dili. Este înconjurat de păduri dense și este un loc popular de cuibărit pentru nenumărate păsări de apă.", en: "Lake Maubara is a coastal lake west of Dili. It is surrounded by dense forest and is a popular nesting site for countless waterbirds." , es: "El lago Maubara es un lago costero al oeste de Dili. Está rodeado de densos bosques y es un lugar de anidación popular para innumerables aves acuáticas.", pt: "O Lago Maubara é um lago costeiro a oeste de Díli. Está rodeado de densas florestas e é um local de nidificação popular para inúmeras aves aquáticas.", fr: "Le lac Maubara est un lac côtier à l'ouest de Dili. Il est entouré de forêts denses et est un lieu de nidification populaire pour d'innombrables oiseaux aquatiques."},
     facts: {
       de: ["Bedeutendes Vogelschutzgebiet.", "Küstensee bei Maubara.", "Umgeben von tropischer Vegetation."],
@@ -2609,7 +2593,6 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     parent: "TL-BO",
     coords: [125.0450, -8.8572],
     name: { de: "Be-Malae-See", hu: "Be Malae-tó", ro: "Lacul Be Malae", en: "Be Malae Lake"},
-    image: "/poi-images/be-malae-lake-nature-v2.webp",
     description: { de: "Der Be-Malae-See ist ein heiliger See im Distrikt Bobonaro. Lokale Legenden ranken sich um dieses stehende Gewässer, das kulturell von hoher Bedeutung ist.", hu: "A Be Malae-tó egy szent tó Bobonaro körzetben. Helyi legendák fonódnak e kulturálisan nagy jelentőségű állóvíz köré.", ro: "Lacul Be Malae este un lac sacru în districtul Bobonaro. Legende locale înconjoară acest corp de apă, care este de mare importanță culturală.", en: "Be Malae Lake is a sacred lake in the Bobonaro district. Local legends surround this body of water, which is of great cultural importance." , es: "El lago Be Malae es un lago sagrado en el distrito de Bobonaro. Leyendas locales rodean este cuerpo de agua estancada, que tiene una gran importancia cultural.", pt: "O Lago Be Malae é um lago sagrado no distrito de Bobonaro. Lendas locais rodeiam este corpo de água, que tem uma grande importância cultural.", fr: "Le lac Be Malae est un lac sacré situé dans le district de Bobonaro. Des légendes locales entourent ce plan d'eau, qui revêt une grande importance culturelle."},
     facts: {
       de: ["Gilt als heiliger See.", "Liegt im Distrikt Bobonaro.", "Wichtig für traditionelle Riten."],
@@ -2690,7 +2673,6 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     parent: "TL-AN",
     coords: [125.5160, -9.1833],
     name: { de: "Belulik", hu: "Belulik", ro: "Râul Belulik", en: "Belulik River"},
-    image: "/poi-images/belulik-river-nature-v2.webp",
     description: { de: "Der Fluss Belulik entwässert das zentrale Hochland in Richtung Timorsee. In der Trockenzeit ist sein steiniges Bett oft sichtbar, während er im Monsun mächtig anschwillt.", hu: "A Belulik-folyó a központi hegyvidék vizét szállítja a Timor-tenger felé. Száraz évszakban gyakran látható a köves medre, míg a monszun idején hatalmasra duzzad.", ro: "Râul Belulik drenează zonele înalte centrale spre Marea Timor. În sezonul uscat, albia sa pietroasă este adesea vizibilă, în timp ce în muson crește masiv.", en: "The Belulik River drains the central highlands towards the Timor Sea. In the dry season, its stony bed is often visible, while it swells massively during the monsoon." , es: "El río Belulik drena las tierras altas centrales hacia el Mar de Timor. En la estación seca, su lecho rocoso es a menudo visible, mientras que en el monzón crece poderosamente.", pt: "O Rio Belulik drena as terras altas centrais em direção ao Mar de Timor. Na estação seca, o seu leito rochoso é frequentemente visível, enquanto que no monção cresce poderosamente.", fr: "La rivière Belulik draine les hautes terres centrales vers la mer de Timor. En saison sèche, son lit rocheux est souvent visible, tandis qu'elle gonfle puissamment lors de la mousson."},
     facts: {
       de: ["Fließt an der Südküste ins Meer.", "Typischer Monsunfluss.", "Breites, steiniges Flussbett."],

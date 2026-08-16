@@ -125,7 +125,6 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     parent: "MV-MLE",
     coords: [73.5041, 4.1755],
     name: { de: "Malé Handelshafen", hu: "Malé Kereskedelmi Kikötő", ro: "Portul Comercial Malé", en: "Malé Commercial Harbour"},
-    image: "/poi-images/male-commercial-harbour-economic-v2.webp",
     description: { de: "Der Haupthafen der Malediven, der den Großteil der Importe und Exporte des Landes abwickelt.", hu: "A Maldív-szigetek fő kikötője, amely az ország import- és exportforgalmának nagy részét bonyolítja.", ro: "Portul principal al Maldivelor, care gestionează majoritatea importurilor și exporturilor țării.", en: "The main port of the Maldives, handling the vast majority of the country's imports and exports." , es: "El puerto principal de las Maldivas, que gestiona la mayor parte de las importaciones y exportaciones del país.", pt: "O porto principal das Maldivas, que gere a maior parte das importações e exportações do país.", fr: "Le port principal des Maldives, traitant la majeure partie des importations et exportations du pays."},
     facts: {
       de: ["Wichtigstes Tor für internationale Fracht.", "Wird von den Maldives Ports Limited betrieben."],
@@ -161,7 +160,6 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     parent: "MV-03",
     coords: [73.3490, 5.4411],
     name: { de: "MIFCO Fischverarbeitungsfabrik Felivaru", hu: "MIFCO Felivaru Halfeldolgozó Üzem", ro: "Fabrica de Procesare a Peștelui MIFCO Felivaru", en: "MIFCO Felivaru Fish Processing Plant"},
-    image: "/poi-images/mifco-felivaru-economic-v2.webp",
     description: { de: "Eine der größten staatlichen Fischverarbeitungs- und Konservenfabriken, die eine Schlüsselrolle in der lokalen Wirtschaft spielt.", hu: "Az egyik legnagyobb állami halfeldolgozó és konzervgyár, amely kulcsszerepet játszik a helyi gazdaságban.", ro: "Una dintre cele mai mari fabrici de stat pentru procesarea și conservarea peștelui, având un rol cheie în economia locală.", en: "One of the largest state-owned fish processing and canning factories, playing a key role in the local economy." , es: "Una de las mayores fábricas estatales de procesamiento y conserva de pescado, que desempeña un papel clave en la economía local.", pt: "Uma das maiores fábricas estatais de processamento e conservas de peixe, que desempenha um papel fundamental na economia local.", fr: "L'une des plus grandes usines d'État de transformation et de mise en conserve du poisson, jouant un rôle clé dans l'économie locale."},
     facts: {
       de: ["Produziert Thunfischkonserven für den Export.", "Gegründet in den 1970er Jahren."],
@@ -197,7 +195,6 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     parent: "MV-MLE",
     coords: [73.5350, 4.2155],
     name: { de: "Hulhumalé Kraftwerk", hu: "Hulhumalé Erőmű", ro: "Centrala Electrică Hulhumalé", en: "Hulhumalé Power Station"},
-    image: "/poi-images/hulhumale-power-station-economic-v2.webp",
     description: { de: "Ein modernes Kraftwerk, das die schnell wachsende künstliche Insel Hulhumalé und umliegende Gebiete mit Strom versorgt.", hu: "Egy modern erőmű, amely a gyorsan növekvő mesterséges szigetet, Hulhumalét és a környező területeket látja el árammal.", ro: "O centrală electrică modernă care furnizează energie insulei artificiale în creștere rapidă Hulhumalé și zonelor înconjurătoare.", en: "A modern power plant providing electricity to the rapidly growing artificial island of Hulhumalé and surrounding areas." , es: "Una moderna central eléctrica que suministra energía a la isla artificial de Hulhumalé, en rápido crecimiento, y a las zonas circundantes.", pt: "Uma moderna central elétrica que fornece energia à ilha artificial de Hulhumalé, em rápido crescimento, e às áreas circundantes.", fr: "Une centrale électrique moderne qui alimente l'île artificielle d'Hulhumalé, en pleine croissance, et les zones environnantes."},
     facts: {
       de: ["Erweitert mit neuen Dieselgeneratoren.", "Teil des Netzes der Greater Malé Region."],
@@ -278,7 +275,6 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     parent: "MV-MLE",
     coords: [73.4355, 4.1833],
     name: { de: "Thilafushi Industriegebiet", hu: "Thilafushi Ipari Zóna", ro: "Zona Industrială Thilafushi", en: "Thilafushi Industrial Zone"},
-    image: "/poi-images/thilafushi-industrial-zone-economic-v2.webp",
     description: { de: "Eine künstliche Insel, die als Abfallentsorgungs- und Industriezentrum dient, mit Lagerhäusern und Produktionsstätten.", hu: "Egy mesterséges sziget, amely hulladékkezelési és ipari központként szolgál raktárakkal és gyártóüzemekkel.", ro: "O insulă artificială care servește ca centru de gestionare a deșeurilor și industrial, având depozite și unități de producție.", en: "An artificial island serving as a waste management and industrial hub, with warehouses and manufacturing facilities." , es: "Una isla artificial que sirve como centro industrial y de gestión de residuos, con almacenes e instalaciones de producción.", pt: "Uma ilha artificial que serve como centro industrial e de gestão de resíduos, com armazéns e instalações de produção.", fr: "Une île artificielle servant de centre de gestion des déchets et d'industrie, avec des entrepôts et des sites de production."},
     facts: {
       de: ["Wurde ursprünglich als Mülldeponie angelegt.", "Beherbergt Zementverpackung und Bootsbau."],
@@ -548,7 +544,6 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     parent: "MV-MLE",
     coords: [73.5070, 4.1720],
     name: { de: "STELCO Kraftwerk Malé", hu: "STELCO Malé Erőmű", ro: "Centrala Electrică STELCO Malé", en: "STELCO Malé Power Plant"},
-    image: "/poi-images/stelco-male-power-plant-economic-v2.webp",
     description: { de: "Das zentrale Dieselkraftwerk der State Electric Company, das die Hauptstadt Malé mit lebensnotwendigem Strom versorgt.", hu: "Az Állami Elektromos Művek központi dízelerőműve, amely a fővárost, Malét látja el létfontosságú árammal.", ro: "Centrala principală pe motorină a Companiei Electrice de Stat, care furnizează electricitate vitală capitalei Malé.", en: "The central diesel power plant of the State Electric Company, providing vital electricity to the capital city of Malé." , es: "La central diésel de la State Electric Company, que suministra electricidad vital a la capital, Malé.", pt: "A central a diesel central da State Electric Company, que fornece eletricidade vital à capital, Malé.", fr: "La centrale diesel centrale de la State Electric Company, qui fournit l'électricité vitale à la capitale, Malé."},
     facts: {
       de: ["Größter Stromerzeuger der Hauptstadt.", "Nutzt große Dieselgeneratoren."],
@@ -620,7 +615,6 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     parent: "MV-05",
     coords: [73.2333, 1.8833],
     name: { de: "Maandhoo Fischereikomplex", hu: "Maandhoo Halászati Komplexum", ro: "Complexul Piscicol Maandhoo", en: "Maandhoo Fisheries Complex"},
-    image: "/poi-images/maandhoo-fisheries-complex-economic-v2.webp",
     description: { de: "Eine große Fischverarbeitungsanlage im Laamu-Atoll, die für die Verarbeitung von Thunfisch aus der Region zuständig ist.", hu: "Egy nagy halfeldolgozó üzem a Laamu-atollon, amely a régióból származó tonhal feldolgozásáért felelős.", ro: "O mare unitate de procesare a peștelui din atolul Laamu, responsabilă de procesarea tonului din regiune.", en: "A large fish processing facility in the Laamu Atoll, responsible for processing tuna from the region." , es: "Una gran planta de procesamiento de pescado en el atolón de Laamu, encargada de procesar el atún de la región.", pt: "Uma grande instalação de processamento de peixe no Atol de Laamu, responsável pelo processamento de atum da região.", fr: "Une grande usine de transformation du poisson dans l'atoll de Laamu, chargée de transformer le thon de la région."},
     facts: {
       de: ["Betrieben von Horizon Fisheries.", "Produziert auch Fischmehl."],
@@ -656,7 +650,6 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     parent: "MV-01",
     coords: [73.1555, -0.6933],
     name: { de: "Hafen am Flughafen Gan", hu: "Gan Repülőtéri Kikötő", ro: "Portul Aeroportului Gan", en: "Gan International Airport Port"},
-    image: "/poi-images/gan-airport-port-economic-v2.webp",
     description: { de: "Ein wichtiger regionaler Hafen im Addu-Atoll, der den internationalen Flughafen Gan und den südlichen Handel bedient.", hu: "Fontos regionális kikötő az Addu-atollon, amely a Gan nemzetközi repülőteret és a déli kereskedelmet szolgálja ki.", ro: "Un port regional important în Atolul Addu, deservind aeroportul internațional Gan și comerțul sudic.", en: "An important regional port in the Addu Atoll, serving Gan International Airport and southern trade." , es: "Un puerto regional importante en el atolón Addu que presta servicio al Aeropuerto Internacional de Gan y al comercio del sur.", pt: "Um porto regional importante no Atol Addu que serve o Aeroporto Internacional de Gan e o comércio do sul.", fr: "Un port régional important dans l'atoll d'Addu, desservant l'aéroport international de Gan et le commerce du sud."},
     facts: {
       de: ["Liegt im südlichsten Atoll.", "Wichtig für die Logistik der südlichen Resorts."],
@@ -1097,7 +1090,6 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     parent: "MV-01",
     coords: [73.1000, -0.6333],
     name: { de: "Addu Stadt Fischereikomplex", hu: "Addu Városi Halászati Komplexum", ro: "Complexul Piscicol din Addu", en: "Addu City Fisheries Complex"},
-    image: "/poi-images/addu-city-fisheries-economic-v2.webp",
     description: { de: "Ein bedeutendes Zentrum für die Fischverarbeitung und Kühllagerung im Addu-Atoll zur Stärkung der südlichen Fischereiindustrie.", hu: "Az Addu-atoll jelentős halfeldolgozó és hűtőtároló központja, amely a déli halászati ipart erősíti.", ro: "Un centru important pentru procesarea peștelui și depozitarea la rece în Atolul Addu pentru a consolida industria pescuitului din sud.", en: "A major center for fish processing and cold storage in the Addu Atoll to strengthen the southern fishing industry." , es: "Un importante centro para el procesamiento de pescado y almacenamiento en frío en el atolón Addu para fortalecer la industria pesquera del sur.", pt: "Um importante centro de processamento de peixe e armazenamento a frio no Atol Addu para fortalecer a indústria pesqueira do sul.", fr: "Un centre important pour la transformation du poisson et le stockage frigorifique dans l'atoll d'Addu afin de renforcer l'industrie de la pêche du sud."},
     facts: {
       de: ["Erhöht die Wertschöpfung des lokalen Fangs.", "Schafft wichtige Arbeitsplätze im Süden."],
@@ -1214,7 +1206,6 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     parent: "MV-MLE",
     coords: [73.5065, 4.1760],
     name: { de: "STO Handelszentrum Malé", hu: "STO Kereskedelmi Központ Malé", ro: "Centrul Comercial STO Malé", en: "STO Trade Center Malé"},
-    image: "/poi-images/sto-trade-center-male-economic-v2.webp",
     description: { de: "Das Hauptquartier der State Trading Organization, ein zentraler Knotenpunkt für den Handel mit Lebensmitteln, Baumaterialien und Treibstoff.", hu: "Az Állami Kereskedelmi Szervezet központja, az élelmiszer-, építőanyag- és üzemanyag-kereskedelem központi csomópontja.", ro: "Sediul Organizației Comerciale de Stat, un punct central pentru comerțul cu alimente, materiale de construcții și combustibil.", en: "The headquarters of the State Trading Organization, a central hub for trade in food, building materials, and fuel." , es: "La sede de la State Trading Organization, un centro neurálgico para el comercio de alimentos, materiales de construcción y combustible.", pt: "A sede da State Trading Organization, um centro nevrálgico para o comércio de alimentos, materiais de construção e combustível.", fr: "Le siège de la State Trading Organization, un centre névralgique pour le commerce de denrées alimentaires, de matériaux de construction et de carburant."},
     facts: {
       de: ["Kontrolliert einen Großteil der Importe.", "Umfasst den größten Supermarkt des Landes."],
@@ -1403,7 +1394,6 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     parent: "MV-MLE",
     coords: [73.5380, 4.2180],
     name: { de: "Hulhumalé Yachthafen", hu: "Hulhumalé Jachtkikötő", ro: "Portul de Iahturi Hulhumalé", en: "Hulhumalé Yacht Marina"},
-    image: "/poi-images/hulhumale-yacht-marina-economic-v2.webp",
     description: { de: "Ein moderner Yachthafen auf der künstlichen Insel Hulhumalé, der Safari-Boote und internationale Yachten beherbergt und den Luxustourismus fördert.", hu: "Modern jachtkikötő a mesterséges Hulhumalé szigeten, amely szafari hajókat és nemzetközi jachtokat fogad, támogatva a luxusturizmust.", ro: "Un port modern de iahturi pe insula artificială Hulhumalé, care găzduiește bărci de safari și iahturi internaționale, promovând turismul de lux.", en: "A modern yacht marina on the artificial island of Hulhumalé, hosting safari boats and international yachts, promoting luxury tourism." , es: "Un moderno puerto deportivo en la isla artificial de Hulhumalé que alberga barcos de safari y yates internacionales, fomentando el turismo de lujo.", pt: "Uma moderna marina na ilha artificial de Hulhumalé que acolhe barcos de safari e iates internacionais, promovendo o turismo de luxo.", fr: "Un port de plaisance moderne sur l'île artificielle d'Hulhumalé, accueillant des bateaux de safari et des yachts internationaux pour promouvoir le tourisme de luxe."},
     facts: {
       de: ["Bietet Liegeplätze für über 300 Boote.", "Verfügt über Wartungseinrichtungen für Yachten."],
@@ -1439,7 +1429,6 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     parent: "MV-05",
     coords: [73.2350, 1.8840],
     name: { de: "Horizon Fischverarbeitungsanlage", hu: "Horizon Halfeldolgozó Üzem", ro: "Unitatea de Procesare a Peștelui Horizon", en: "Horizon Fisheries Processing Plant"},
-    image: "/poi-images/horizon-fisheries-processing-economic-v2.webp",
     description: { de: "Eine der fortschrittlichsten privaten Fischverarbeitungsanlagen auf den Malediven, spezialisiert auf nachhaltig gefangenen Thunfisch.", hu: "A Maldív-szigetek egyik legkorszerűbb magán halfeldolgozó üzeme, amely a fenntarthatóan fogott tonhalra specializálódott.", ro: "Una dintre cele mai avansate fabrici private de procesare a peștelui din Maldive, specializată în tonul prins în mod sustenabil.", en: "One of the most advanced private fish processing plants in the Maldives, specializing in sustainably caught tuna." , es: "Una de las instalaciones privadas de procesamiento de pescado más avanzadas de las Maldivas, especializada en atún capturado de forma sostenible.", pt: "Uma das instalações privadas de processamento de peixe mais avançadas das Maldivas, especializada em atum capturado de forma sustentável.", fr: "L'une des installations privées de transformation du poisson les plus avancées des Maldives, spécialisée dans le thon pêché de manière durable."},
     facts: {
       de: ["Exportiert nach Europa und Asien.", "Fördert MSC-zertifizierten Fischfang."],
@@ -1475,7 +1464,6 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     parent: "MV-MLE",
     coords: [73.5048, 4.1780],
     name: { de: "Fischmarkt von Malé", hu: "Malé Halpiac", ro: "Piața de Pește din Malé", en: "Malé Fish Market"},
-    image: "/poi-images/male-fish-market-economic-v2.webp",
     description: { de: "Das pulsierende kommerzielle Herz des lokalen Fischhandels, wo Fischer ihren täglichen Fang direkt an Groß- und Einzelhändler verkaufen.", hu: "A helyi halkereskedelem lüktető kereskedelmi szíve, ahol a halászok napi fogásukat közvetlenül a nagy- és kiskereskedőknek adják el.", ro: "Inima comercială vibrantă a comerțului local cu pește, unde pescarii își vând captura zilnică direct angrosiștilor și retailerilor.", en: "The pulsating commercial heart of the local fish trade, where fishermen sell their daily catch directly to wholesalers and retailers." , es: "El vibrante corazón comercial del comercio pesquero local, donde los pescadores venden su captura diaria directamente a mayoristas y minoristas.", pt: "O vibrante coração comercial do comércio de peixe local, onde os pescadores vendem a sua captura diária diretamente a grossistas e retalhistas.", fr: "Le cœur commercial vibrant du commerce local de la pêche, où les pêcheurs vendent leurs prises quotidiennes directement aux grossistes et détaillants."},
     facts: {
       de: ["Handelszentrum für Gelbflossenthunfisch.", "Täglich Hunderte von Transaktionen."],
@@ -1592,7 +1580,6 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     parent: "MV-05",
     coords: [73.2000, 1.8667],
     name: { de: "Regionalhafen Kadhdhoo", hu: "Kadhdhoo Regionális Kikötő", ro: "Portul Regional Kadhdhoo", en: "Kadhdhoo Regional Port"},
-    image: "/poi-images/kadhdhoo-regional-port-economic-v2.webp",
     description: { de: "Ein wichtiger regionaler Hafen im Laamu-Atoll, der den Warenverkehr und die lokale Wirtschaftszone in Süd-Zentral-Malediven unterstützt.", hu: "Fontos regionális kikötő a Laamu-atollon, amely az áruforgalmat és a helyi gazdasági övezetet támogatja a dél-középső Maldív-szigeteken.", ro: "Un port regional important din Atolul Laamu, care susține traficul de mărfuri și zona economică locală din regiunea central-sudică a Maldivelor.", en: "An important regional port in the Laamu Atoll supporting freight traffic and the local economic zone in the South Central Maldives." , es: "Un importante puerto regional en el atolón de Laamu que apoya el tráfico de mercancías y la zona económica local en el centro-sur de las Maldivas.", pt: "Um importante porto regional no Atol de Laamu que apoia o tráfego de mercadorias e a zona económica local no centro-sul das Maldivas.", fr: "Un port régional important dans l'atoll de Laamu, soutenant le trafic de marchandises et la zone économique locale du centre-sud des Maldives."},
     facts: {
       de: ["Verbindet die Atolle mit der Hauptstadt.", "Umschlagplatz für landwirtschaftliche Güter."],
@@ -1673,7 +1660,6 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     parent: "MV-02",
     coords: [73.0000, 0.5333],
     name: { de: "FENAKA Zentralkraftwerk Thinadhoo", hu: "FENAKA Thinadhoo Központi Erőmű", ro: "Centrala Electrică FENAKA Thinadhoo", en: "FENAKA Central Power Station Thinadhoo"},
-    image: "/poi-images/fenaka-thinadhoo-power-economic-v2.webp",
     description: { de: "Das Hauptkraftwerk für das Gaafu Dhaalu Atoll, das von der staatlichen Versorgungsgesellschaft FENAKA betrieben wird und die wirtschaftliche Entwicklung antreibt.", hu: "A Gaafu Dhaalu atoll fő erőműve, amelyet a FENAKA állami közműszolgáltató üzemeltet, és a gazdasági fejlődést mozdítja elő.", ro: "Principala centrală electrică pentru atolul Gaafu Dhaalu, operată de compania publică de utilități FENAKA, care stimulează dezvoltarea economică.", en: "The main power plant for the Gaafu Dhaalu Atoll, operated by the state utility company FENAKA, driving economic development." , es: "La central eléctrica principal del atolón Gaafu Dhaalu, operada por la empresa estatal FENAKA, que impulsa el desarrollo económico.", pt: "A principal central elétrica do Atol Gaafu Dhaalu, operada pela empresa estatal FENAKA, que impulsiona o desenvolvimento económico.", fr: "La centrale électrique principale de l'atoll de Gaafu Dhaalu, exploitée par la société d'État FENAKA, qui stimule le développement économique."},
     facts: {
       de: ["Wurde kürzlich mit neuen Generatoren modernisiert.", "Versorgt über zehntausend Einwohner."],
@@ -1826,7 +1812,6 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     parent: "MV-MLE",
     coords: [73.5355, 4.2120],
     name: { de: "Ensis Fischverarbeitungsfabrik", hu: "Ensis Halfeldolgozó Gyár", ro: "Fabrica de Procesare a Peștelui Ensis", en: "Ensis Fisheries Processing Plant"},
-    image: "/poi-images/ensis-fisheries-processing-economic-v2.webp",
     description: { de: "Eine große, hochmoderne Verarbeitungsanlage in Hulhumalé, die frischen Thunfisch für internationale Märkte verpackt und verarbeitet.", hu: "Egy nagy, ultramodern feldolgozóüzem Hulhumalén, amely friss tonhalat csomagol és dolgoz fel a nemzetközi piacok számára.", ro: "O fabrică de procesare mare și ultramodernă din Hulhumalé, care ambalează și procesează ton proaspăt pentru piețele internaționale.", en: "A large, ultra-modern processing plant in Hulhumalé, packaging and processing fresh tuna for international markets." , es: "Una gran planta de procesamiento de vanguardia en Hulhumalé que envasa y procesa atún fresco para mercados internacionales.", pt: "Uma grande unidade de processamento de última geração em Hulhumalé que embala e processa atum fresco para os mercados internacionais.", fr: "Une grande usine de transformation ultra-moderne à Hulhumalé, qui emballe et transforme le thon frais pour les marchés internationaux."},
     facts: {
       de: ["Einer der größten Fisch-Exporteure des Landes.", "Besitzt eigene Flotte von Kühlfahrzeugen."],
@@ -2051,7 +2036,6 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     parent: "MV-02",
     coords: [73.0667, 6.6222],
     name: { de: "Regionalhafen Kulhudhuffushi", hu: "Kulhudhuffushi Regionális Kikötő", ro: "Portul Regional Kulhudhuffushi", en: "Kulhudhuffushi Regional Port"},
-    image: "/poi-images/kulhudhuffushi-regional-port-economic-v2.webp",
     description: { de: "Der wichtigste Seehafen im Norden der Malediven, der als primäres Verteilzentrum für die nördlichen Atolle fungiert.", hu: "A Maldív-szigetek északi részének legfontosabb tengeri kikötője, amely az északi atollok elsődleges elosztóközpontjaként működik.", ro: "Cel mai important port maritim din nordul Maldivelor, acționând ca centru primar de distribuție pentru atolii din nord.", en: "The most important seaport in the northern Maldives, acting as the primary distribution center for the northern atolls." , es: "El puerto marítimo más importante del norte de las Maldivas, que funciona como principal centro de distribución para los atolones septentrionales.", pt: "O porto marítimo mais importante no norte das Maldivas, que funciona como principal centro de distribuição para os atóis do norte.", fr: "Le port maritime le plus important du nord des Maldives, servant de principal centre de distribution pour les atolls septentrionaux."},
     facts: {
       de: ["Reduziert die Transportkosten für den Norden.", "Wird kontinuierlich ausgebaut."],

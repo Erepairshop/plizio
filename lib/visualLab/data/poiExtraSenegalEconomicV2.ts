@@ -12,7 +12,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Dakar Kikötője",
       ro: "Portul Dakar",
       en: "Port of Dakar"},
-    image: "/poi-images/port-autonome-de-dakar-economic-v2.webp",
     description: {
       de: "Der autonome Hafen von Dakar ist der wichtigste Seehafen des Senegals.",
       hu: "Dakar autonóm kikötője Szenegál legfontosabb tengeri kikötője.",
@@ -72,7 +71,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Sabodala Aranybánya",
       ro: "Mina de Aur Sabodala",
       en: "Sabodala Gold Mine"},
-    image: "/poi-images/sabodala-gold-mine-economic-v2.webp",
     description: {
       de: "Die Sabodala-Goldmine ist das größte produzierende Goldbergwerk im Senegal.",
       hu: "A Sabodala aranybánya Szenegál legnagyobb termelő aranybányája.",
@@ -132,7 +130,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Ziguinchor Kikötő",
       ro: "Portul Ziguinchor",
       en: "Port of Ziguinchor"},
-    image: "/poi-images/port-ziguinchor-economic-v2.webp",
     description: {
       de: "Ein wichtiger Handelshafen am Casamance-Fluss im Süden des Senegals.",
       hu: "Fontos kereskedelmi kikötő a Casamance folyón, Szenegál déli részén.",
@@ -192,7 +189,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Kaolack Kikötő",
       ro: "Portul Kaolack",
       en: "Port of Kaolack"},
-    image: "/poi-images/port-kaolack-economic-v2.webp",
     description: {
       de: "Der Hafen von Kaolack liegt am Fluss Saloum und ist bekannt für den Erdnussexport.",
       hu: "A Kaolack kikötő a Saloum folyón található, és a földimogyoró exportjáról ismert.",
@@ -252,7 +248,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Diogo Ásványi Homokbánya",
       ro: "Mina de Nisip Mineral Diogo",
       en: "Diogo Mineral Sand Mine"},
-    image: "/poi-images/gco-diogo-mine-economic-v2.webp",
     description: {
       de: "Die Anlage der Grande Côte Operations in Diogo fördert Zirkon und Ilmenit.",
       hu: "A Grande Côte Operations diogói létesítménye cirkont és ilmenitet bányász.",
@@ -312,7 +307,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "SOCOCIM Cementgyár",
       ro: "Fabrica de Ciment SOCOCIM",
       en: "SOCOCIM Cement Factory"},
-    image: "/poi-images/sococim-rufisque-economic-v2.webp",
     description: {
       de: "Das SOCOCIM-Werk in Rufisque ist einer der größten Zementproduzenten in Westafrika.",
       hu: "A rufisque-i SOCOCIM gyár Nyugat-Afrika egyik legnagyobb cementtermelője.",
@@ -372,7 +366,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Darou Khoudoss Foszfátgyár",
       ro: "Uzina de Fosfat Darou Khoudoss",
       en: "Darou Khoudoss Phosphate Plant"},
-    image: "/poi-images/ics-darou-khoudoss-economic-v2.webp",
     description: {
       de: "Die Industries Chimiques du Sénégal betreiben hier eine große Phosphatanlage.",
       hu: "Az Industries Chimiques du Sénégal nagy foszfátüzemet működtet itt.",
@@ -432,7 +425,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Kirène Cementgyár",
       ro: "Fabrica de Ciment Kirène",
       en: "Kirène Cement Plant"},
-    image: "/poi-images/ciments-du-sahel-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Zementwerk der Ciments du Sahel in Kirène, Region Thiès.",
       hu: "A Ciments du Sahel jelentős cementgyára a Thiès régióbeli Kirène-ben.",
@@ -492,7 +484,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Dangote Cementgyár Pout",
       ro: "Fabrica de Ciment Dangote Pout",
       en: "Dangote Cement Factory Pout"},
-    image: "/poi-images/dangote-cement-pout-economic-v2.webp",
     description: {
       de: "Die Dangote-Zementfabrik in Pout ist Teil des expandierenden Bausektors im Senegal.",
       hu: "A pout-i Dangote cementgyár a bővülő szenegáli építőipari ágazat része.",
@@ -633,7 +624,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Mbao Olajfinomító",
       ro: "Rafinăria de Petrol Mbao",
       en: "Mbao Oil Refinery"},
-    image: "/poi-images/sar-refinery-mbao-economic-v2.webp",
     description: {
       de: "Die Société Africaine de Raffinage in Mbao ist die einzige Ölraffinerie des Landes.",
       hu: "A Société Africaine de Raffinage Mbao-ban az ország egyetlen olajfinomítója.",
@@ -753,7 +743,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Cap des Biches Erőmű",
       ro: "Centrala Electrică Cap des Biches",
       en: "Cap des Biches Power Station"},
-    image: "/poi-images/cap-des-biches-power-station-economic-v2.webp",
     description: {
       de: "Das Wärmekraftwerk Cap des Biches in Rufisque ist eine wichtige Stromquelle für Dakar.",
       hu: "A rufisque-i Cap des Biches hőerőmű fontos áramforrás Dakar számára.",
@@ -813,7 +802,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Richard Toll Cukorgyár",
       ro: "Fabrica de Zahăr Richard Toll",
       en: "Richard Toll Sugar Factory"},
-    image: "/poi-images/css-richard-toll-economic-v2.webp",
     description: {
       de: "Die Compagnie Sucrière Sénégalaise (CSS) betreibt diese große Zuckerrohrplantage und Fabrik.",
       hu: "A Compagnie Sucrière Sénégalaise (CSS) üzemelteti ezt a nagy cukornádültetvényt és gyárat.",
@@ -1026,7 +1014,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Saint-Louis Kikötő",
       ro: "Portul Saint-Louis",
       en: "Port of Saint-Louis"},
-    image: "/poi-images/port-saint-louis-economic-v2.webp",
     description: {
       de: "Ein historischer Hafen an der Mündung des Senegal-Flusses, der hauptsächlich für die Fischerei genutzt wird.",
       hu: "Történelmi kikötő a Szenegál-folyó torkolatánál, amelyet főleg halászatra használnak.",
@@ -1086,7 +1073,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Diamniadio Ipari Park",
       ro: "Parcul Industrial Diamniadio",
       en: "Diamniadio Industrial Park"},
-    image: "/poi-images/diamniadio-industrial-park-economic-v2.webp",
     description: {
       de: "Eine Sonderwirtschaftszone, die Investoren anziehen und die Industrialisierung fördern soll.",
       hu: "Különleges gazdasági övezet, amelynek célja a befektetők vonzása és az iparosítás elősegítése.",
@@ -1191,7 +1177,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Matam Foszfátbánya",
       ro: "Mina de Fosfat Matam",
       en: "Matam Phosphate Mine"},
-    image: "/poi-images/matam-phosphates-economic-v2.webp",
     description: {
       de: "Ein großes Phosphatabbaugebiet in der Region Matam zur Herstellung von Düngemitteln.",
       hu: "Nagy foszfátbányászati terület a Matam régióban műtrágya előállítására.",
@@ -1251,7 +1236,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Bokhol Naperőmű",
       ro: "Parcul Solar Bokhol",
       en: "Bokhol Solar Plant"},
-    image: "/poi-images/bokhol-solar-plant-economic-v2.webp",
     description: {
       de: "Das Senergy 2-Projekt in Bokhol war eine der ersten großen Solaranlagen im Senegal.",
       hu: "A bokholi Senergy 2 projekt Szenegál egyik első nagy naperőműve volt.",
@@ -1512,7 +1496,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Sonacos Földimogyoróolaj-gyár",
       ro: "Fabrica de Ulei de Arahide Sonacos",
       en: "Sonacos Peanut Oil Factory"},
-    image: "/poi-images/sonacos-kaolack-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Verarbeitungszentrum für die senegalesische Erdnussernte in Kaolack.",
       hu: "A szenegáli földimogyoró-termés jelentős feldolgozó központja Kaolackban.",
@@ -1572,7 +1555,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Ndakhonga Kikötő",
       ro: "Portul Ndakhonga",
       en: "Port of Ndakhonga"},
-    image: "/poi-images/port-ndakhonga-economic-v2.webp",
     description: {
       de: "Ein Flusshafen in der Nähe von Foundiougne, der die maritime Infrastruktur im Zentrum des Landes stärkt.",
       hu: "Folyami kikötő Foundiougne közelében, amely erősíti az ország központjának tengeri infrastruktúráját.",
@@ -1692,7 +1674,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Santhiou Mékhé Naperőmű",
       ro: "Centrala Solară Santhiou Mékhé",
       en: "Santhiou Mékhé Solar Plant"},
-    image: "/poi-images/santhiou-mekhe-solar-economic-v2.webp",
     description: {
       de: "Die Anlage Ten Merina in Santhiou Mékhé ist ein großer Photovoltaikpark in der Region Thiès.",
       hu: "A Santhiou Mékhé-i Ten Merina létesítmény egy nagy fotovoltaikus park a Thiès régióban.",
@@ -1797,7 +1778,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Tobène Erőmű",
       ro: "Centrala Electrică Tobène",
       en: "Tobène Power Plant"},
-    image: "/poi-images/tobene-power-plant-economic-v2.webp",
     description: {
       de: "Ein unabhängiges Kraftwerksprojekt, das Schweröl zur Stabilisierung des senegalesischen Stromnetzes verwendet.",
       hu: "Független erőműprojekt, amely nehézolajat használ a szenegáli villamosenergia-hálózat stabilizálására.",
@@ -2037,7 +2017,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Rufisque Kikötő",
       ro: "Portul Rufisque",
       en: "Port of Rufisque"},
-    image: "/poi-images/port-rufisque-economic-v2.webp",
     description: {
       de: "Ein historischer Hafen, der einst das Zentrum des senegalesischen Erdnussexports war, bevor Dakar an Bedeutung gewann.",
       hu: "Történelmi kikötő, amely egykor a szenegáli földimogyoró-export központja volt, mielőtt Dakar jelentősége megnőtt.",
@@ -2097,7 +2076,6 @@ export const poiExtraSenegalEconomicV2: POI[] = [
       hu: "Mboro Foszfátbánya",
       ro: "Mina de Fosfat Mboro",
       en: "Mboro Phosphate Mine"},
-    image: "/poi-images/mboro-phosphate-mine-economic-v2.webp",
     description: {
       de: "Ein wichtiges Abbaugebiet für Kalziumphosphate, das zur senegalesischen Düngemittelproduktion beiträgt.",
       hu: "A kalcium-foszfátok fontos bányászati területe, amely hozzájárul a szenegáli műtrágyagyártáshoz.",

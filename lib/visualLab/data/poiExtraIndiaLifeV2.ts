@@ -165,7 +165,6 @@ export const poiExtraIndiaLifeV2: POI[] = [
       hu: "Bandipur Nemzeti Park",
       ro: "Parcul Național Bandipur",
       en: "Bandipur National Park"},
-    image: "/poi-images/bandipur-national-park-life-v2.webp",
     description: {
       de: "Ein Tigerreservat im Bundesstaat Karnataka, bekannt für seine reiche Artenvielfalt, einschließlich indischer Elefanten, Gaure, Tiger und Faultiere.",
       hu: "Egy tigriseknek otthont adó rezervátum Karnataka államban, amely gazdag biológiai sokféleségéről ismert, beleértve az indiai elefántokat, gaurokat, tigriseket és lajhárokat.",
@@ -213,7 +212,6 @@ export const poiExtraIndiaLifeV2: POI[] = [
       hu: "Manas Nemzeti Park",
       ro: "Parcul Național Manas",
       en: "Manas National Park"},
-    image: "/poi-images/manas-national-park-life-v2.webp",
     description: {
       de: "Ein UNESCO-Weltnaturerbe in Assam, bekannt für seine seltene und gefährdete endemische Tierwelt wie das Zwergwildschwein und den Goldlangur.",
       hu: "Az UNESCO Világörökség része Assamban, ritka és veszélyeztetett endemikus vadvilágáról ismert, mint például a törpedisznó és az aranylangur.",
@@ -1614,7 +1612,6 @@ export const poiExtraIndiaLifeV2: POI[] = [
       hu: "Rizsföldek a Kerala holtágaknál",
       ro: "Câmpurile de orez din Kerala Backwaters",
       en: "Kerala Backwaters Paddy Fields"},
-    image: "/poi-images/kerala-backwaters-paddy-fields-life-v2.webp",
     description: {
       de: "Die Reisfelder in den Backwaters von Kerala, insbesondere in Kuttanad, sind einzigartig, da sie unter dem Meeresspiegel liegen.",
       hu: "A Kerala holtágak rizsföldjei, különösen Kuttanadban, egyedülállóak, mivel a tengerszint alatt helyezkednek el.",
@@ -2967,7 +2964,6 @@ export const poiExtraIndiaLifeV2: POI[] = [
       hu: "Lumbini Park, Haidarábád",
       ro: "Parcul Lumbini, Hyderabad",
       en: "Lumbini Park, Hyderabad"},
-    image: "/poi-images/lumbini-park-hyderabad-life-v2.webp",
     description: {
       de: "Ein städtischer Park in Hyderabad am Ufer des Hussain Sagar. Er verfügt über eine musikalische Fontäne und eine riesige Buddha-Statue in der Nähe.",
       hu: "Városi park Haidarábádban a Hussain Sagar partján. Zenélő szökőkúttal és egy hatalmas Buddha-szoborral rendelkezik a közelben.",
@@ -4392,7 +4388,6 @@ export const poiExtraIndiaLifeV2: POI[] = [
       hu: "Nehru Állatkert",
       ro: "Parcul Zoologic Nehru",
       en: "Nehru Zoological Park"},
-    image: "/poi-images/nehru-zoological-park-life-v2.webp",
     description: {
       de: "Einer der größten Zoos in Indien, in Hyderabad gelegen. Er beherbergt eine Vielzahl von Tieren, Vögeln und Reptilien in Gehegen, die ihren natürlichen Lebensräumen ähneln.",
       hu: "India egyik legnagyobb állatkertje, Haidarábádban található. Számos állatnak, madárnak és hüllőnek ad otthont a természetes élőhelyükhöz hasonló kifutókban.",
@@ -4953,7 +4948,6 @@ export const poiExtraIndiaLifeV2: POI[] = [
       hu: "Ramoji Filmváros",
       ro: "Ramoji Film City",
       en: "Ramoji Film City"},
-    image: "/poi-images/ramoji-film-city-life-v2.webp",
     description: {
       de: "Der größte integrierte Filmstudiokomplex der Welt. Er ist auch ein beliebter Freizeit- und Erholungsort mit Attraktionen für alle Altersgruppen.",
       hu: "A világ legnagyobb integrált filmstúdió-komplexuma. Emellett népszerű szabadidős és rekreációs központ, amely minden korosztály számára kínál látnivalókat.",
@@ -5370,7 +5364,6 @@ export const poiExtraIndiaLifeV2: POI[] = [
       hu: "Keoladeo Nemzeti Park",
       ro: "Parcul Național Keoladeo",
       en: "Keoladeo National Park"},
-    image: "/poi-images/keoladeo-national-park-life-v2.webp",
     description: {
       de: "Ein berühmtes Vogelschutzgebiet in Rajasthan, das Tausende von Vögeln beherbergt, besonders während der Wintersaison. Früher bekannt als Bharatpur Vogelschutzgebiet.",
       hu: "Egy híres madárrezervátum Rádzsasztánban, amely madarak ezreinek ad otthont, különösen a téli időszakban. Korábban Bharatpur Madárrezervátum néven volt ismert.",
@@ -6543,7 +6536,6 @@ export const poiExtraIndiaLifeV2: POI[] = [
       hu: "Dardzsilingi teaültetvények",
       ro: "Plantațiile de ceai din Darjeeling",
       en: "Darjeeling Tea Gardens"},
-    image: "/poi-images/darjeeling-tea-gardens-life-v2.webp",
     description: {
       de: "Weltberühmt für den Darjeeling-Tee, sind die sanften Hänge mit üppig grünen Teeplantagen bedeckt, die eine malerische Landschaft bieten.",
       hu: "Világhírű a dardzsilingi teáról, a lankás domboldalakat buja zöld teaültetvények borítják, festői tájat kínálva.",
@@ -7788,7 +7780,6 @@ export const poiExtraIndiaLifeV2: POI[] = [
       hu: "Bannerghatta Biológiai Park",
       ro: "Parcul Biologic Bannerghatta",
       en: "Bannerghatta Biological Park"},
-    image: "/poi-images/bannerghatta-biological-park-life-v2.webp",
     description: {
       de: "Ein einzigartiger biologischer Park in der Nähe von Bangalore, der einen Zoo, einen Schmetterlingspark, ein Tierschutzzentrum und einen Safaripark umfasst.",
       hu: "Egyedülálló biológiai park Bengaluru közelében, amely állatkertet, pillangóparkot, állatmenhelyet és szafariparkot foglal magában.",
@@ -9558,7 +9549,6 @@ export const poiExtraIndiaLifeV2: POI[] = [
       hu: "Lodhi Kert, Delhi",
       ro: "Grădina Lodhi, Delhi",
       en: "Lodhi Garden, Delhi"},
-    image: "/poi-images/lodhi-garden-delhi-life-v2.webp",
     description: {
       de: "Ein Stadtpark in Neu-Delhi, der Grabmäler aus dem 15. Jahrhundert der Lodhi-Dynastie enthält. Ein beliebter Ort für Morgenspaziergänge und Picknicks.",
       hu: "Városi park Újdelhiben, amely a 15. századi Lodhi-dinasztia sírjait tartalmazza. Népszerű hely a reggeli sétákhoz és piknikekhez.",
@@ -10911,7 +10901,6 @@ export const poiExtraIndiaLifeV2: POI[] = [
       hu: "Tudományos Város, Kalkutta",
       ro: "Orașul Științei, Kolkata",
       en: "Science City, Kolkata"},
-    image: "/poi-images/science-city-kolkata-life-v2.webp",
     description: {
       de: "Ein großes Wissenschaftszentrum und eine der wichtigsten Touristenattraktionen in Kolkata. Es bietet interaktive Ausstellungen, ein 3D-Theater und einen Weltraumpavillon.",
       hu: "Nagy tudományos központ és Kalkutta egyik fő turisztikai látványossága. Interaktív kiállításokat, 3D-s színházat és egy űrpavilont kínál.",
@@ -12156,7 +12145,6 @@ export const poiExtraIndiaLifeV2: POI[] = [
       hu: "Munnari fűszerkertek",
       ro: "Grădinile de mirodenii din Munnar",
       en: "Munnar Spice Gardens"},
-    image: "/poi-images/munnar-spice-gardens-life-v2.webp",
     description: {
       de: "Munnar ist berühmt für seine Gewürzplantagen, auf denen Kardamom, Pfeffer, Nelken und Zimt angebaut werden. Viele Gärten bieten Führungen an.",
       hu: "Munnar híres fűszerültetvényeiről, ahol kardamomot, borsot, szegfűszeget és fahéjat termesztenek. Számos kert kínál vezetett túrákat.",
@@ -12753,7 +12741,6 @@ export const poiExtraIndiaLifeV2: POI[] = [
       hu: "Coorgi kávéültetvények",
       ro: "Plantațiile de cafea din Coorg",
       en: "Coorg Coffee Plantations"},
-    image: "/poi-images/coorg-coffee-plantations-life-v2.webp",
     description: {
       de: "Coorg, auch bekannt als Kodagu, ist eine wichtige kaffeeproduzierende Region in Karnataka. Die Plantagen liegen inmitten grüner Hügel.",
       hu: "Coorg, más néven Kodagu, egy fontos kávétermelő régió Karnatakában. Az ültetvények zöldellő dombok között helyezkednek el.",
@@ -14106,7 +14093,6 @@ export const poiExtraIndiaLifeV2: POI[] = [
       hu: "Cubbon Park, Bengaluru",
       ro: "Parcul Cubbon, Bangalore",
       en: "Cubbon Park, Bangalore"},
-    image: "/poi-images/cubbon-park-bangalore-life-v2.webp",
     description: {
       de: "Eine grüne Oase im Herzen von Bangalore. Der Park beherbergt eine reiche Vielfalt an Flora und Fauna sowie historische Gebäude.",
       hu: "Zöld oázis Bengaluru szívében. A park gazdag növény- és állatvilágnak, valamint történelmi épületeknek ad otthont.",
@@ -15315,7 +15301,6 @@ export const poiExtraIndiaLifeV2: POI[] = [
       hu: "Appu Ghar, Gurgaon",
       ro: "Appu Ghar, Gurgaon",
       en: "Appu Ghar, Gurgaon"},
-    image: "/poi-images/appu-ghar-gurgaon-life-v2.webp",
     description: {
       de: "Ein bekannter Vergnügungspark in Gurgaon, der eine Vielzahl von Fahrgeschäften und Attraktionen für Familien und Kinder bietet.",
       hu: "Egy jól ismert vidámpark Gurgaonban, amely számos attrakciót és szórakozási lehetőséget kínál családoknak és gyerekeknek.",
@@ -15588,7 +15573,6 @@ export const poiExtraIndiaLifeV2: POI[] = [
       hu: "Ranthambore Nemzeti Park",
       ro: "Parcul Național Ranthambore",
       en: "Ranthambore National Park"},
-    image: "/poi-images/ranthambore-national-park-life-v2.webp",
     description: {
       de: "Einer der größten und bekanntesten Nationalparks in Nordindien. Berühmt für seine Tiger, die oft am helllichten Tag gesichtet werden.",
       hu: "Észak-India egyik legnagyobb és legismertebb nemzeti parkja. Híres a tigriseiről, amelyeket gyakran fényes nappal is meg lehet figyelni.",
@@ -16761,7 +16745,6 @@ export const poiExtraIndiaLifeV2: POI[] = [
       hu: "Kasmíri sáfrányföldek",
       ro: "Câmpurile de șofran din Kashmir",
       en: "Saffron Fields of Kashmir"},
-    image: "/poi-images/safranfelder-kashmir-life-v2.webp",
     description: {
       de: "Die Felder von Pampore in Kaschmir sind berühmt für den Anbau von Safran, einem der teuersten Gewürze der Welt. Im Herbst färben sich die Felder lila.",
       hu: "A kasmíri Pampore mezei a sáfránytermesztésről híresek, amely a világ egyik legdrágább fűszere. Ősszel a mezők lilává válnak.",

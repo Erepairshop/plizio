@@ -12,7 +12,6 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: "Fasoda",
       ro: "Fashoda",
       en: "Fashoda"},
-    image: "/poi-images/fashoda-history-v2.webp",
     description: {
       de: "Der Ort der Faschoda-Krise von 1898, ein diplomatischer Wendepunkt zwischen Frankreich und Großbritannien.",
       hu: "Az 1898-as fasodai válság helyszíne, amely diplomáciai fordulópont volt Franciaország és Nagy-Britannia között.",
@@ -225,7 +224,6 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: "Lado-enklávé",
       ro: "Enclava Lado",
       en: "Lado Enclave"},
-    image: "/poi-images/lado-enclave-history-v2.webp",
     description: {
       de: "Ein ehemaliges Territorium des Kongo-Freistaates, das am westlichen Ufer des Weißen Nils lag.",
       hu: "A Kongói Szabadállam egykori területe, amely a Fehér-Nílus nyugati partján feküdt.",
@@ -354,7 +352,6 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: "Gondokoro kereskedelmi állomás",
       ro: "Postul comercial Gondokoro",
       en: "Gondokoro Trading Post"},
-    image: "/poi-images/gondokoro-trading-post-history-v2.webp",
     description: {
       de: "Ein bedeutender Handels- und Expeditionsstützpunkt des 19. Jahrhunderts für Nil-Entdecker.",
       hu: "Jelentős 19. századi kereskedelmi és expedíciós bázis a Nílus felfedezői számára.",
@@ -402,7 +399,6 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: "Dufile-erőd",
       ro: "Fortăreața Dufile",
       en: "Dufile Fort"},
-    image: "/poi-images/dufile-fort-history-v2.webp",
     description: {
       de: "Die Ruinen einer von Emin Pascha in den 1870er Jahren erbauten Festung zur Kontrolle des Obernils.",
       hu: "Emin pasa által az 1870-es években épített erőd romjai a Felső-Nílus ellenőrzésére.",
@@ -567,7 +563,6 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: "Berkeley-erőd",
       ro: "Fortul Berkeley",
       en: "Fort Berkeley"},
-    image: "/poi-images/fort-berkeley-history-v2.webp",
     description: {
       de: "Ein britischer Kolonialposten am Nil, der zur Sicherung der Region gegen Mahdisten errichtet wurde.",
       hu: "Brit gyarmati őrhely a Nílus mentén, amelyet a régió mahdisták elleni biztosítására hoztak létre.",
@@ -615,7 +610,6 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: "Doleib Hill misszió",
       ro: "Misiunea Doleib Hill",
       en: "Doleib Hill Mission"},
-    image: "/poi-images/doleib-hill-mission-history-v2.webp",
     description: {
       de: "Eine der ersten amerikanischen Missionen im Südsudan, gegründet zu Beginn des 20. Jahrhunderts.",
       hu: "Az egyik első amerikai misszió Dél-Szudánban, a 20. század elején alapították.",
@@ -663,7 +657,6 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: "Lul misszió",
       ro: "Misiunea Lul",
       en: "Lul Mission"},
-    image: "/poi-images/lul-mission-history-v2.webp",
     description: {
       de: "Eine frühe katholische Missionsstation im Shilluk-Gebiet, bekannt für ihre Landwirtschaftsschulen.",
       hu: "Korai katolikus missziós állomás a Shilluk területen, mezőgazdasági iskoláiról ismert.",
@@ -711,7 +704,6 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: "Taufikia",
       ro: "Taufikia",
       en: "Taufikia"},
-    image: "/poi-images/taufikia-military-history-v2.webp",
     description: {
       de: "Eine historische Militärstation, die von Samuel Baker im Jahr 1870 am Weißen Nil gegründet wurde.",
       hu: "Történelmi katonai állomás, amelyet Samuel Baker alapított 1870-ben a Fehér-Nílus mentén.",
@@ -860,7 +852,6 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: "Gelo-folyó örökségi helyszín",
       ro: "Sit de patrimoniu Râul Gelo",
       en: "Gelo River Heritage Site"},
-    image: "/poi-images/gelo-river-heritage-history-v2.webp",
     description: {
       de: "Das historische Kernland des Anyuak-Königreichs entlang des Gelo-Flusses.",
       hu: "Az Anyuak királyság történelmi magterülete a Gelo-folyó mentén.",
@@ -908,7 +899,6 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: "Gbudwe királyi udvara",
       ro: "Curtea regală a lui Gbudwe",
       en: "Royal Court of Gbudwe"},
-    image: "/poi-images/gbudwe-court-history-v2.webp",
     description: {
       de: "Der historische Sitz von König Gbudwe, dem bedeutendsten Herrscher des Azande-Volkes.",
       hu: "Gbudwe király, az azande nép legjelentősebb uralkodójának történelmi székhelye.",
@@ -956,7 +946,6 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: "Kaka nílusi kikötő",
       ro: "Portul Kaka pe Nil",
       en: "Kaka Nile Port"},
-    image: "/poi-images/kaka-nile-port-history-v2.webp",
     description: {
       de: "Ein ehemals wichtiger Flusshafen am Weißen Nil, der im 19. Jahrhundert als Handelsstation diente.",
       hu: "Egykor fontos folyami kikötő a Fehér-Nílus mentén, amely a 19. században kereskedelmi állomásként szolgált.",
@@ -1004,7 +993,6 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: "Tonga",
       ro: "Tonga",
       en: "Tonga"},
-    image: "/poi-images/tonga-historical-village-history-v2.webp",
     description: {
       de: "Eine historisch bedeutende Siedlung am Zusammenfluss von Nil und Sobat.",
       hu: "Történelmileg jelentős település a Nílus és a Sobat folyók találkozásánál.",
@@ -1100,7 +1088,6 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: "Malek misszió",
       ro: "Misiunea Malek",
       en: "Malek Mission"},
-    image: "/poi-images/malek-cms-mission-history-v2.webp",
     description: {
       de: "Die erste Station der Church Missionary Society im Südsudan, gegründet im Jahr 1906.",
       hu: "A Church Missionary Society első állomása Dél-Szudánban, 1906-ban alapították.",
@@ -1148,7 +1135,6 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: "Mongalla",
       ro: "Mongalla",
       en: "Mongalla"},
-    image: "/poi-images/mongalla-provincial-capital-history-v2.webp",
     description: {
       de: "Die ehemalige Provinzhauptstadt während der anglo-ägyptischen Herrschaft am Weißen Nil.",
       hu: "Egykori tartományi főváros az angol-egyiptomi uralom alatt a Fehér-Nílus mentén.",

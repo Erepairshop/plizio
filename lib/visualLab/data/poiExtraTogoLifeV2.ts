@@ -57,7 +57,6 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: "Sarakawa vadaspark",
       ro: "Rezervația de animale Sarakawa",
       en: "Sarakawa Wildlife Reserve"},
-    image: "/poi-images/sarakawa-wildtierreservat-life-v2.webp",
     description: {
       de: "Dieses Reservat beherbergt eine Vielzahl von Wildtieren wie Zebras, Antilopen und Büffel in einer geschützten Savannenlandschaft.",
       hu: "Ez a rezervátum számos vadon élő állatnak, például zebráknak, antilopoknak és bivalyoknak ad otthont egy védett szavannai tájon.",
@@ -105,7 +104,6 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: "Kpalimé kávéültetvényei",
       ro: "Plantațiile de cafea din Kpalimé",
       en: "Kpalimé Coffee Plantations"},
-    image: "/poi-images/kpalime-kaffeeplantagen-life-v2.webp",
     description: {
       de: "Die Region um Kpalimé ist bekannt für ihren fruchtbaren Boden, auf dem hochwertiger Kaffee und Kakao unter dem Blätterdach hoher Bäume gedeihen.",
       hu: "Kpalimé környéke termékeny talajáról ismert, ahol kiváló minőségű kávé és kakaó terem a magas fák lombkoronája alatt.",
@@ -153,7 +151,6 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: "A Középső régió rizsföldjei",
       ro: "Câmpurile de orez din regiunea Centrală",
       en: "Central Region Rice Fields"},
-    image: "/poi-images/centrale-reisfelder-life-v2.webp",
     description: {
       de: "In den feuchten Ebenen der Centrale-Region erstrecken sich weite Reisfelder, die eine lebenswichtige Grundlage für die Ernährung der Bevölkerung bilden.",
       hu: "A Középső régió nedves síkságain széles rizsföldek húzódnak, amelyek létfontosságú alapját képezik a lakosság élelmezésének.",
@@ -459,7 +456,6 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: "Atakpamé pamutmezői",
       ro: "Câmpurile de bumbac din Atakpamé",
       en: "Atakpamé Cotton Fields"},
-    image: "/poi-images/atakpame-baumwollfelder-life-v2.webp",
     description: {
       de: "Die sonnigen Ebenen bei Atakpamé sind ideal für den Baumwollanbau, der ein wichtiger Exportzweig der togoischen Landwirtschaft ist.",
       hu: "Az Atakpamé melletti napos síkságok ideálisak a pamuttermeléshez, amely a togói mezőgazdaság fontos exportága.",
@@ -507,7 +503,6 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: "Bé szent erdő",
       ro: "Pădurea sacră din Bé",
       en: "Sacred Forest of Bé"},
-    image: "/poi-images/be-heiliger-wald-life-v2.webp",
     description: {
       de: "Mitten in der Hauptstadt Lomé gelegen, ist dieser heilige Wald ein Rückzugsort für kleine Säugetiere, Vögel und seltene Pflanzenarten.",
       hu: "A főváros, Lomé közepén található szent erdő kisemlősök, madarak és ritka növényfajok menedékhelye.",
@@ -792,7 +787,6 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: "Galangashie vadrezervátum",
       ro: "Rezervația de faună Galangashie",
       en: "Galangashie Fauna Reserve"},
-    image: "/poi-images/galangashie-fauna-reservat-life-v2.webp",
     description: {
       de: "Im trockenen Norden gelegen, ist dieses Reservat ein wichtiger Zufluchtsort für Gazellen und verschiedene Nagetierarten der Savanne.",
       hu: "A száraz északon található rezervátum fontos menedékhelye a gazelláknak és a szavanna különböző rágcsálófajainak.",
@@ -840,7 +834,6 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: "Lomé vidámpark",
       ro: "Parcul de distracții Lomé",
       en: "Lomé Amusement Park"},
-    image: "/poi-images/lome-vergnuegungspark-life-v2.webp",
     description: {
       de: "Ein beliebter Ort für Familien in der Hauptstadt, der verschiedene Fahrgeschäfte und Spielplätze für Kinder aller Altersgruppen bietet.",
       hu: "A főváros családjai körében népszerű hely, amely különböző játékokat és játszótereket kínál minden korosztályú gyermek számára.",
@@ -933,7 +926,6 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: "Agbodrafo teknősvédelmi központ",
       ro: "Centrul de protecție a țestoaselor Agbodrafo",
       en: "Agbodrafo Turtle Conservation Center"},
-    image: "/poi-images/agbodrafo-schildkroetenzentrum-life-v2.webp",
     description: {
       de: "An den Stränden von Agbodrafo werden Meeresschildkröten geschützt, die hierher kommen, um ihre Eier im warmen Sand abzulegen.",
       hu: "Agbodrafo strandjain tengeri teknősöket védenek, amelyek azért jönnek ide, hogy tojásaikat a meleg homokba rakják.",
@@ -981,7 +973,6 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: "Mandouri vadvilági folyosó",
       ro: "Coridorul de animale sălbatice Mandouri",
       en: "Mandouri Wildlife Corridor"},
-    image: "/poi-images/mandouri-wildtierkorridor-life-v2.webp",
     description: {
       de: "Dieser Korridor ermöglicht es Tieren wie Elefanten, zwischen den Schutzgebieten in Togo, Benin und Burkina Faso zu wandern.",
       hu: "Ez a folyosó lehetővé teszi az állatok, például az elefántok számára a vándorlást Togo, Benin és Burkina Faso védett területei között.",
@@ -1029,7 +1020,6 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: "A Plateaux régió kakaóskertjei",
       ro: "Grădinile de cacao din regiunea Plateaux",
       en: "Plateaux Region Cocoa Gardens"},
-    image: "/poi-images/plateaux-kakao-gaerten-life-v2.webp",
     description: {
       de: "Unter dem schattigen Blätterdach des Plateaus wachsen Kakaobäume, deren Bohnen zu den besten des Landes zählen und weltweit exportiert werden.",
       hu: "A fennsík árnyas lombkoronája alatt kakaófák nőnek, amelyek babjai az ország legjobbjai közé tartoznak, és világszerte exportálják őket.",
@@ -1077,7 +1067,6 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: "A Savanes régió legelői",
       ro: "Pășunile de animale din regiunea Savanes",
       en: "Savanes Region Cattle Pastures"},
-    image: "/poi-images/savanes-viehweiden-life-v2.webp",
     description: {
       de: "Die weiten Graslandschaften im Norden Togos bieten ideale Bedingungen für die Rinderzucht, die die Haupteinnahmequelle vieler Familien ist.",
       hu: "Togo északi részének tágas füves területei ideális feltételeket biztosítanak a szarvasmarha-tenyésztéshez, amely sok család fő bevételi forrása.",
@@ -1125,7 +1114,6 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: "Barátság park Lomé",
       ro: "Parcul Prieteniei Lomé",
       en: "Friendship Park Lomé"},
-    image: "/poi-images/lome-amitie-park-life-v2.webp",
     description: {
       de: "Eine grüne Oase im Herzen der Stadt, die mit gepflegten Wegen und schattigen Plätzen zum Spielen und Entspannen einlädt.",
       hu: "Zöld oázis a város szívében, amely gondozott ösvényeivel és árnyas helyeivel játékra és kikapcsolódásra hívogat.",
@@ -1173,7 +1161,6 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: "Víziló-medence a Mono-folyón",
       ro: "Piscina hipopotamilor de pe râul Mono",
       en: "Mono River Hippo Pool"},
-    image: "/poi-images/mono-nilpferd-pool-life-v2.webp",
     description: {
       de: "An bestimmten Stellen des Mono-Flusses lassen sich Gruppen von Nilpferden beobachten, die den Tag im kühlen Wasser verbringen.",
       hu: "A Mono-folyó bizonyos pontjain vízilócsoportok figyelhetők meg, amint a napot a hűvös vízben töltik.",
@@ -1221,7 +1208,6 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: "Oti elefántrezervátum",
       ro: "Rezervația de elefanți Oti",
       en: "Oti Elephant Reserve"},
-    image: "/poi-images/oti-elefantenreservat-life-v2.webp",
     description: {
       de: "Dieses Reservat im Norden Togos ist einer der letzten Orte im Land, an dem man freilebende Elefantenherden in ihrer natürlichen Umgebung sehen kann.",
       hu: "Ez az észak-togói rezervátum az egyik utolsó hely az országban, ahol szabadon élő elefántcsordákat láthatunk természetes környezetükben.",
@@ -1269,7 +1255,6 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: "Kandé kölesmezői",
       ro: "Câmpurile de mei din Kandé",
       en: "Kandé Millet Fields"},
-    image: "/poi-images/kande-hirsefelder-life-v2.webp",
     description: {
       de: "Hirse ist das wichtigste Getreide im Norden Togos und wird auf den weiten Feldern rund um Kandé für den täglichen Bedarf angebaut.",
       hu: "A köles Észak-Togo legfontosabb gabonája, amelyet Kandé környéki tágas földeken termesztenek a napi szükségletek kielégítésére.",
@@ -1317,7 +1302,6 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: "Aného lagúna hajótúra",
       ro: "Tur cu barca pe laguna Aného",
       en: "Aného Lagoon Boat Trip"},
-    image: "/poi-images/aneho-lagunen-bootstour-life-v2.webp",
     description: {
       de: "Eine sanfte Bootsfahrt auf der Lagune von Aného bietet Kindern die Möglichkeit, Mangroven und bunte Vögel aus nächster Nähe zu entdecken.",
       hu: "Egy gyengéd hajókázás az Aného-lagúnán lehetőséget nyújt a gyerekeknek a mangroveerdők és a színes madarak közeli felfedezésére.",

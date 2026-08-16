@@ -665,7 +665,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     parent: "LK-21",
     coords: [80.7597, 7.9570],
     name: { de: "Sigiriya Felsenfestung", hu: "Sigiriya sziklaerőd", ro: "Fortăreața de piatră Sigiriya", en: "Sigiriya Rock Fortress"},
-    image: "/poi-images/sigiriya-history-v2.webp",
     description: { de: "Eine alte Felsenfestung und Palastruine, die für ihre Fresken berühmt ist.", hu: "Egy ősi sziklaerőd és palotarom, amely a freskóiról híres.", ro: "O veche fortăreață stâncoasă și ruine de palat, faimoasă pentru frescele sale.", en: "An ancient rock fortress and palace ruin renowned for its frescoes." , es: "Una antigua fortaleza rocosa y ruina de palacio, famosa por sus frescos.", pt: "Uma antiga fortaleza rochosa e ruína de palácio, famosa pelos seus frescos.", fr: "Une ancienne forteresse rocheuse et ruine de palais, célèbre pour ses fresques."},
     facts: {
       de: ["Im 5. Jahrhundert erbaut.", "UNESCO-Weltkulturerbe."],
@@ -1214,7 +1213,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     parent: "LK-71",
     coords: [81.0028, 7.9403],
     name: { de: "Antike Stadt Polonnaruwa", hu: "Polonnaruwa ősi városa", ro: "Orașul antic Polonnaruwa", en: "Ancient City of Polonnaruwa"},
-    image: "/poi-images/polonnaruwa-history-v2.webp",
     description: { de: "Die zweitälteste aller srilankischen Königsstädte mit zahlreichen Tempelruinen.", hu: "Srí Lanka második legrégebbi királyi városa számos templomrommal.", ro: "Al doilea cel mai vechi dintre regatele srilankeze, cu numeroase ruine de temple.", en: "The second most ancient of Sri Lanka's kingdoms with numerous temple ruins." , es: "La segunda ciudad real más antigua de Sri Lanka, con numerosas ruinas de templos.", pt: "A segunda cidade real mais antiga do Sri Lanka, com inúmeras ruínas de templos.", fr: "La deuxième plus ancienne ville royale du Sri Lanka, avec de nombreuses ruines de temples."},
     facts: {
       de: ["Blütezeit im 12. Jahrhundert.", "Bekannt für den Gal Vihara."],
@@ -1871,7 +1869,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     parent: "LK-71",
     coords: [80.3956, 8.3114],
     name: { de: "Heilige Stadt Anuradhapura", hu: "Anuradhapura szent városa", ro: "Orașul sacru Anuradhapura", en: "Sacred City of Anuradhapura"},
-    image: "/poi-images/anuradhapura-history-v2.webp",
     description: { de: "Eine der alten Hauptstädte Sri Lankas, berühmt für ihre gut erhaltenen Ruinen.", hu: "Srí Lanka egyik ősi fővárosa, amely jól karbantartott romjairól híres.", ro: "Una dintre vechile capitale ale Sri Lankăi, faimoasă pentru ruinele sale bine conservate.", en: "One of the ancient capitals of Sri Lanka, famous for its well-preserved ruins." , es: "Una de las antiguas capitales de Sri Lanka, famosa por sus ruinas bien conservadas.", pt: "Uma das antigas capitais do Sri Lanka, famosa pelas suas ruínas bem preservadas.", fr: "L'une des anciennes capitales du Sri Lanka, célèbre pour ses ruines bien conservées."},
     facts: {
       de: ["Gegründet im 4. Jahrhundert v. Chr.", "Heimat des Sri Maha Bodhi Baumes."],
@@ -2888,7 +2885,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     parent: "LK-21",
     coords: [80.6415, 7.2936],
     name: { de: "Zahntempel", hu: "Szent Fog Temploma", ro: "Templul Dintelui Sacru", en: "Temple of the Sacred Tooth Relic"},
-    image: "/poi-images/tooth-relic-temple-history-v2.webp",
     description: { de: "Ein buddhistischer Tempel in Kandy, der die Reliquie des Zahns Buddhas beherbergt.", hu: "Buddhista templom Kandyben, amely Buddha fogereklyéjét őrzi.", ro: "Un templu budist din Kandy care adăpostește relicva dintelui lui Buddha.", en: "A Buddhist temple in Kandy housing the relic of the tooth of the Buddha." , es: "Un templo budista en Kandy que alberga la reliquia del diente de Buda.", pt: "Um templo budista em Kandy que abriga a relíquia do dente de Buda.", fr: "Un temple bouddhiste à Kandy qui abrite la relique de la dent de Bouddha."},
     facts: {
       de: ["Befindet sich im königlichen Palastkomplex.", "Wichtiger Pilgerort."],
@@ -3401,7 +3397,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     parent: "LK-21",
     coords: [80.6485, 7.8566],
     name: { de: "Höhlentempel von Dambulla", hu: "Dambulla barlangtemplom", ro: "Templul Peșterii Dambulla", en: "Dambulla Cave Temple"},
-    image: "/poi-images/dambulla-cave-history-v2.webp",
     description: { de: "Die größte und am besten erhaltene Höhlentempelanlage in Sri Lanka.", hu: "Srí Lanka legnagyobb és legjobb állapotban fennmaradt barlangtemplom-együttese.", ro: "Cel mai mare și cel mai bine conservat complex de temple în peșteră din Sri Lanka.", en: "The largest and best-preserved cave temple complex in Sri Lanka." , es: "El complejo de templos en cuevas más grande y mejor conservado de Sri Lanka.", pt: "O maior e mais bem preservado complexo de templos em cavernas no Sri Lanka.", fr: "Le plus grand et le mieux préservé des complexes de temples troglodytes du Sri Lanka."},
     facts: {
       de: ["Beinhaltet über 150 Buddha-Statuen.", "Wird seit über 22 Jahrhunderten genutzt."],
@@ -3878,7 +3873,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     parent: "LK-11",
     coords: [80.2170, 6.0258],
     name: { de: "Galle Fort", hu: "Galle erőd", ro: "Fortul Galle", en: "Galle Fort"},
-    image: "/poi-images/galle-fort-history-v2.webp",
     description: { de: "Eine Festung, die zuerst von den Portugiesen erbaut und später von den Niederländern erweitert wurde.", hu: "Egy erődítmény, amelyet először a portugálok építettek, majd a hollandok bővítettek ki.", ro: "O fortăreață construită inițial de portughezi și extinsă ulterior de olandezi.", en: "A fort first built by the Portuguese and later extensively fortified by the Dutch." , es: "Una fortaleza construida primero por los portugueses y luego ampliada por los holandeses.", pt: "Uma fortaleza construída primeiro pelos portugueses e mais tarde ampliada pelos holandeses.", fr: "Une forteresse construite d'abord par les Portugais puis agrandie par les Hollandais."},
     facts: {
       de: ["Im Jahr 1588 erbaut.", "Zeigt europäische architektonische Einflüsse."],
@@ -4715,7 +4709,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     parent: "LK-71",
     coords: [80.3965, 8.3500],
     name: { de: "Ruwanwelisaya Stupa", hu: "Ruwanwelisaya sztúpa", ro: "Stupa Ruwanwelisaya", en: "Ruwanwelisaya"},
-    image: "/poi-images/ruwanwelisaya-history-v2.webp",
     description: { de: "Eine halbkugelförmige Struktur mit Reliquien, eines der höchsten Bauwerke der antiken Welt.", hu: "Egy félgömb alakú, ereklyéket őrző építmény, az ókori világ egyik legmagasabb épülete.", ro: "O structură emisferică ce conține relicve, una dintre cele mai înalte clădiri din lumea antică.", en: "A hemispherical structure containing relics, one of the tallest ancient monuments." , es: "Una estructura semiesférica con reliquias, uno de los edificios más altos del mundo antiguo.", pt: "Uma estrutura semiesférica com relíquias, um dos edifícios mais altos do mundo antigo.", fr: "Une structure hémisphérique avec des reliques, l'un des plus hauts bâtiments du monde antique."},
     facts: {
       de: ["Erbaut von König Dutugemunu.", "Ist 103 Meter hoch."],
@@ -5120,7 +5113,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     parent: "LK-71",
     coords: [80.4036, 8.3516],
     name: { de: "Jetavanaramaya", hu: "Jetavanaramaya sztúpa", ro: "Jetavanaramaya", en: "Jetavanaramaya"},
-    image: "/poi-images/jetavanaramaya-history-v2.webp",
     description: { de: "Die Ruinen einer massiven Stupa in Anuradhapura, die einst eines der höchsten Bauwerke der Welt war.", hu: "Egy hatalmas anuradhapurai sztúpa romjai, amely egykor a világ egyik legmagasabb építménye volt.", ro: "Ruinele unei stupe masive din Anuradhapura, odată una dintre cele mai înalte structuri din lume.", en: "The ruins of a massive stupa in Anuradhapura, once one of the tallest structures in the world." , es: "Las ruinas de una enorme estupa en Anuradhapura, que una vez fue uno de los edificios más altos del mundo.", pt: "As ruínas de uma enorme estupa em Anuradhapura, que outrora foi um dos edifícios mais altos do mundo.", fr: "Les ruines d'un immense stupa à Anuradhapura, qui fut autrefois l'un des plus hauts bâtiments du monde."},
     facts: {
       de: ["Ursprünglich 122 Meter hoch.", "Im 3. Jahrhundert erbaut."],
@@ -5741,7 +5733,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     parent: "LK-31",
     coords: [80.3013, 7.7667],
     name: { de: "Yapahuwa Felsenfestung", hu: "Yapahuwa sziklaerőd", ro: "Fortăreața stâncoasă Yapahuwa", en: "Yapahuwa Rock Fortress"},
-    image: "/poi-images/yapahuwa-history-v2.webp",
     description: { de: "Eine majestätische Festung, die im 13. Jahrhundert kurzzeitig als Hauptstadt Sri Lankas diente.", hu: "Fenséges erőd, amely a 13. században rövid ideig Srí Lanka fővárosaként szolgált.", ro: "O fortăreață maiestuoasă care a servit scurt timp ca și capitală a Sri Lankăi în secolul al XIII-lea.", en: "A majestic fortress that briefly served as the capital of Sri Lanka in the 13th century." , es: "Una majestuosa fortaleza que sirvió brevemente como capital de Sri Lanka en el siglo XIII.", pt: "Uma majestosa fortaleza que serviu brevemente como capital do Sri Lanka no século XIII.", fr: "Une majestueuse forteresse qui a brièvement servi de capitale au Sri Lanka au XIIIe siècle."},
     facts: {
       de: ["Berühmt für ihre steile Ziertreppe.", "Errichtet von König Bhuvenakabahu I."],
@@ -6722,7 +6713,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     parent: "LK-71",
     coords: [80.5168, 8.3516],
     name: { de: "Mihintale", hu: "Mihintale hegy", ro: "Vârful Mihintale", en: "Mihintale"},
-    image: "/poi-images/mihintale-history-v2.webp",
     description: { de: "Ein Berggipfel, der als der Ort gilt, an dem der Buddhismus in Sri Lanka eingeführt wurde.", hu: "Egy hegycsúcs, amely arról nevezetes, hogy itt vezették be a buddhizmust Srí Lankán.", ro: "Un vârf de munte considerat a fi locul unde a fost introdus budismul în Sri Lanka.", en: "A mountain peak believed to be the site where Buddhism was introduced to Sri Lanka." , es: "Un pico montañoso considerado el lugar donde se introdujo el budismo en Sri Lanka.", pt: "Um pico montanhoso considerado o local onde o budismo foi introduzido no Sri Lanka.", fr: "Un sommet montagneux considéré comme le lieu où le bouddhisme a été introduit au Sri Lanka."},
     facts: {
       de: ["Besteht aus mehreren Tempeln und Schreinen.", "Verfügt über 1840 Granitstufen."],
@@ -7883,7 +7873,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     parent: "LK-11",
     coords: [79.8679, 6.9042],
     name: { de: "Unabhängigkeitsdenkmal", hu: "Függetlenségi Emlékcsarnok", ro: "Sala Memorială a Independenței", en: "Independence Memorial Hall"},
-    image: "/poi-images/independence-memorial-history-v2.webp",
     description: { de: "Ein nationales Denkmal in Colombo, das zur Erinnerung an die Unabhängigkeit Sri Lankas erbaut wurde.", hu: "Egy nemzeti emlékmű Colombóban, amelyet Srí Lanka függetlenségének emlékére építettek.", ro: "Un monument național în Colombo, construit pentru a comemora independența Sri Lankăi.", en: "A national monument in Colombo built for commemoration of the independence of Sri Lanka." , es: "Un monumento nacional en Colombo construido en memoria de la independencia de Sri Lanka.", pt: "Um monumento nacional em Colombo construído em memória da independência do Sri Lanka.", fr: "Un monument national à Colombo construit en mémoire de l'indépendance du Sri Lanka."},
     facts: {
       de: ["Unabhängigkeit von den Briten 1948.", "Architektur basiert auf dem Königlichen Publikums-Saal."],
@@ -9260,7 +9249,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     parent: "LK-81",
     coords: [80.7410, 6.0967],
     name: { de: "Mulkirigala Felsentempel", hu: "Mulkirigala sziklatemplom", ro: "Templul de piatră Mulkirigala", en: "Mulkirigala Raja Maha Vihara"},
-    image: "/poi-images/mulkirigala-history-v2.webp",
     description: { de: "Ein alter buddhistischer Tempel, der auf einem riesigen Felsen im Süden Sri Lankas erbaut wurde.", hu: "Egy ősi buddhista templom, amelyet egy hatalmas sziklára építettek Srí Lanka déli részén.", ro: "Un vechi templu budist construit pe o stâncă masivă în sudul Sri Lankăi.", en: "An ancient Buddhist temple built on a massive rock in southern Sri Lanka." , es: "Un antiguo templo budista construido sobre una enorme roca en el sur de Sri Lanka.", pt: "Um antigo templo budista construído sobre uma enorme rocha no sul do Sri Lanka.", fr: "Un ancien temple bouddhiste construit sur un énorme rocher dans le sud du Sri Lanka."},
     facts: {
       de: ["Verfügt über sieben Höhlentempel.", "Stammt aus dem 3. Jahrhundert."],
@@ -10097,7 +10085,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     parent: "LK-71",
     coords: [80.3956, 8.3664],
     name: { de: "Abhayagiri Vihara", hu: "Abhayagiri Vihara", ro: "Abhayagiri Vihara", en: "Abhayagiri Vihara"},
-    image: "/poi-images/abhayagiri-vihara-history-v2.webp",
     description: { de: "Die Ruinen eines der größten buddhistischen Klöster der antiken Welt in Anuradhapura.", hu: "Az ókori világ egyik legnagyobb buddhista kolostorának romjai Anuradhapurában.", ro: "Ruinele uneia dintre cele mai mari mănăstiri budiste din lumea antică în Anuradhapura.", en: "The ruins of one of the largest Buddhist monasteries of the ancient world in Anuradhapura." , es: "Las ruinas de uno de los monasterios budistas más grandes del mundo antiguo en Anuradhapura.", pt: "As ruínas de um dos maiores mosteiros budistas do mundo antigo em Anuradhapura.", fr: "Les ruines de l'un des plus grands monastères bouddhistes du monde antique à Anuradhapura."},
     facts: {
       de: ["Gegründet im 2. Jahrhundert v. Chr.", "War ein wichtiges spirituelles Zentrum."],
@@ -12347,7 +12334,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     parent: "LK-11",
     coords: [79.9167, 6.9536],
     name: { de: "Kelaniya Raja Maha Vihara", hu: "Kelaniya Raja Maha Vihara", ro: "Kelaniya Raja Maha Vihara", en: "Kelaniya Raja Maha Vihara"},
-    image: "/poi-images/kelaniya-vihara-history-v2.webp",
     description: { de: "Ein bedeutender buddhistischer Tempel nahe Colombo, der angeblich von Buddha selbst besucht wurde.", hu: "Egy jelentős buddhista templom Colombo közelében, amelyet a legenda szerint maga Buddha is meglátogatott.", ro: "Un important templu budist lângă Colombo, despre care se spune că a fost vizitat de însuși Buddha.", en: "A significant Buddhist temple near Colombo, believed to have been visited by Buddha himself." , es: "Un importante templo budista cerca de Colombo que supuestamente fue visitado por el propio Buda.", pt: "Um importante templo budista perto de Colombo que terá sido visitado pelo próprio Buda.", fr: "Un important temple bouddhiste près de Colombo qui aurait été visité par le Bouddha lui-même."},
     facts: {
       de: ["Berühmt für seine detaillierten Skulpturen.", "Besitzt wunderschöne Wandmalereien."],
@@ -13472,7 +13458,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     parent: "LK-41",
     coords: [80.0074, 9.6615],
     name: { de: "Festung von Jaffna", hu: "Jaffna erőd", ro: "Fortul Jaffna", en: "Jaffna Fort"},
-    image: "/poi-images/jaffna-fort-history-v2.webp",
     description: { de: "Eine alte Festung im Norden Sri Lankas, die von portugiesischen und holländischen Kolonisten erbaut wurde.", hu: "Egy ősi erődítmény Srí Lanka északi részén, amelyet portugál és holland gyarmatosítók építettek.", ro: "O veche fortăreață din nordul Sri Lankăi construită de coloniștii portughezi și olandezi.", en: "An old fortress in northern Sri Lanka built by Portuguese and Dutch colonists." , es: "Una antigua fortaleza en el norte de Sri Lanka construida por colonos portugueses y holandeses.", pt: "Uma antiga fortaleza no norte do Sri Lanka construída por colonos portugueses e holandeses.", fr: "Une ancienne forteresse dans le nord du Sri Lanka construite par des colons portugais et hollandais."},
     facts: {
       de: ["Ursprünglich 1618 erbaut.", "Wurde im Bürgerkrieg stark beschädigt."],
@@ -13769,7 +13754,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     parent: "LK-71",
     coords: [81.1294, 7.8592],
     name: { de: "Dimbulagala Raja Maha Vihara", hu: "Dimbulagala kolostor", ro: "Mănăstirea Dimbulagala", en: "Dimbulagala Raja Maha Vihara"},
-    image: "/poi-images/dimbulagala-history-v2.webp",
     description: { de: "Ein antikes Waldkloster, das einst ein bedeutendes Zentrum für das Studium des Buddhismus war.", hu: "Egy ősi erdei kolostor, amely egykor a buddhizmus tanulmányozásának jelentős központja volt.", ro: "O veche mănăstire în pădure care a fost cândva un centru major de studiu al budismului.", en: "An ancient forest monastery that was once a major center of Buddhist learning." , es: "Un antiguo monasterio forestal que fue un centro importante para el estudio del budismo.", pt: "Um antigo mosteiro florestal que foi um centro importante para o estudo do budismo.", fr: "Un ancien monastère forestier qui était un centre important pour l'étude du bouddhisme."},
     facts: {
       de: ["Gegründet um 300 v. Chr.", "Heimat vieler Höhlen und Inschriften."],
@@ -15182,7 +15166,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     parent: "LK-21",
     coords: [80.5670, 7.2181],
     name: { de: "Embekka Devalaya", hu: "Embekka Devalaya", ro: "Embekka Devalaya", en: "Embekka Devalaya"},
-    image: "/poi-images/embekka-devalaya-history-v2.webp",
     description: { de: "Ein Tempel, der für seine herausragenden Holzschnitzereien aus dem 14. Jahrhundert bekannt ist.", hu: "Egy templom, amely a 14. századi kiemelkedő fafaragásairól ismert.", ro: "Un templu faimos pentru sculpturile sale excepționale în lemn din secolul al XIV-lea.", en: "A temple renowned for its outstanding wooden carvings dating back to the 14th century." , es: "Un templo conocido por sus destacadas tallas en madera del siglo XIV.", pt: "Um templo conhecido pelas suas notáveis esculturas em madeira do século XIV.", fr: "Un temple connu pour ses remarquables sculptures sur bois du XIVe siècle."},
     facts: {
       de: ["Erbaut von König Vikramabahu III.", "Verfügt über komplexe Holzsäulen."],
@@ -16631,7 +16614,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     parent: "LK-41",
     coords: [80.0298, 9.6744],
     name: { de: "Nallur Kandaswamy Tempel", hu: "Nallur Kandaswamy templom", ro: "Templul Nallur Kandaswamy", en: "Nallur Kandaswamy temple"},
-    image: "/poi-images/nallur-kandaswamy-history-v2.webp",
     description: { de: "Einer der bedeutendsten Hindu-Tempel in Sri Lanka, gelegen in Jaffna.", hu: "Srí Lanka egyik legjelentősebb hindu temploma Jaffnában.", ro: "Unul dintre cele mai importante temple hinduse din Sri Lanka, situat în Jaffna.", en: "One of the most significant Hindu temples in Sri Lanka, located in Jaffna." , es: "Uno de los templos hindúes más importantes de Sri Lanka, situado en Jaffna.", pt: "Um dos templos hindus mais importantes do Sri Lanka, situado em Jaffna.", fr: "L'un des temples hindous les plus importants du Sri Lanka, situé à Jaffna."},
     facts: {
       de: ["Der ursprüngliche Tempel wurde 948 erbaut.", "Oft umgebaut und verlegt."],

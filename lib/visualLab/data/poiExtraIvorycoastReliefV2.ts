@@ -53,7 +53,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-11",
     coords: [-8.4556, 7.625],
     name: { de: "Mont Nimba", hu: "Nimba-hegy", ro: "Muntele Nimba", en: "Mount Nimba"},
-    image: "/poi-images/mont-nimba-relief-v2.webp",
     description: { de: "Der höchste Gipfel der Elfenbeinküste liegt im Nimba-Massiv an der Grenze zu Guinea und Liberia.", hu: "Elefántcsontpart és a régió legmagasabb pontja, egy szigorúan védett bioszféra-rezervátum a guineai és libériai határon.", ro: "Cel mai înalt munte din Coasta de Fildeș la granița cu Guineea și Liberia.", en: "Mount Nimba is the highest point in Ivory Coast, shared with Guinea and Liberia. This strict nature reserve is famous for its unique mountain grasslands and diverse fauna." , es: "El pico más alto de Costa de Marfil se encuentra en el macizo de Nimba, en la frontera con Guinea y Liberia.", pt: "O pico mais alto da Costa do Marfim situa-se no maciço de Nimba, na fronteira com a Guiné e a Libéria.", fr: "Le plus haut sommet de Côte d'Ivoire se trouve dans le massif du Nimba, à la frontière avec la Guinée et le Liberia."},
     facts: {
       de: ["Höhe 1.752 Meter", "UNESCO-Welterbe", "Reich an Eisenerz"],
@@ -88,7 +87,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-06",
     coords: [-5.5, 7.5],
     name: { de: "Baoulé-Plateau", hu: "Baoulé-fennsík", ro: "Podișul Baoulé", en: "Baoulé Plateau"},
-    image: "/poi-images/plateau-baoule-relief-v2.webp",
     description: { de: "Ein ausgedehntes Hochplateau in der Mitte des Landes, geprägt durch Savannen.", hu: "Kiterjedt fennsík az ország közepén, szavannákkal borítva.", ro: "Podișul Baoulé ocupă centrul Coastei de Fildeș, fiind o regiune vastă de savană situată la o altitudine medie de 300 de metri.", en: "An extensive high plateau in the center of the country, characterized by savannas." , es: "Una extensa meseta elevada en el centro del país, caracterizada por sabanas.", pt: "Um extenso planalto elevado no centro do país, caracterizado por savanas.", fr: "Un vaste plateau d'altitude au centre du pays, caractérisé par des savanes."},
     facts: {
       de: ["Typische Savannenlandschaft", "Zentrales Hochland", "Wichtiges Ackerbaugebiet", "Sanft gewellte Oberfläche"],
@@ -168,7 +166,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-09",
     coords: [-4.2, 5.25],
     name: { de: "Ébrié-Lagune", hu: "Ébrié-lagúna", ro: "Laguna Ébrié", en: "Ébrié Lagoon"},
-    image: "/poi-images/lagune-ebrie-relief-v2.webp",
     description: { de: "Eine große Lagune entlang der Küste bei Abidjan.", hu: "Nagy lagúna a tengerpart mentén, Abidjan közelében.", ro: "O lagună mare de-a lungul coastei, lângă Abidjan.", en: "A large lagoon along the coast near Abidjan." , es: "Una gran laguna a lo largo de la costa cerca de Abiyán.", pt: "Uma grande lagoa ao longo da costa perto de Abidjan.", fr: "Une grande lagune le long de la côte près d'Abidjan."},
     facts: {
       de: ["Küstennahes Gewässer", "Wichtiger Verkehrsweg", "Fischreiches Ökosystem", "Trennung vom Atlantik"],
@@ -203,7 +200,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-01",
     coords: [-5.2, 9.5],
     name: { de: "Nord-Savanne", hu: "Északi-szavanna", ro: "Savana de Nord", en: "Northern Savanna"},
-    image: "/poi-images/savanne-nord-relief-v2.webp",
     description: { de: "Die weiten Ebenen im Norden des Landes sind durch eine typische Sudansavanne und trockenes Klima geprägt.", hu: "Az ország északi részét uraló kiterjedt szavannás vidék, amelyre a szárazabb éghajlat és a ritkásabb növényzet jellemző.", ro: "Savana de Nord reprezintă o zonă de câmpii întinse cu vegetație de tip sudanez, marcată de un sezon uscat prelungit.", en: "The northern savanna relief consists of vast, gently undulating plains that extend toward the border with Mali and Burkina Faso. It is characterized by scattered trees and tall grasses." , es: "Las vastas llanuras del norte del país están caracterizadas por una sabana sudanesa típica y un clima seco.", pt: "As vastas planícies do norte do país são caracterizadas por uma savana sudanesa típica e um clima seco.", fr: "Les vastes plaines du nord du pays sont caractérisées par une savane soudanienne typique et un climat sec."},
     facts: {
       de: ["Nördliches Tiefland", "Sudansavanne", "Trockenzeit von Nov bis März"],
@@ -239,7 +235,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-11",
     coords: [-7.6, 7.3],
     name: { de: "Dan-Massiv", hu: "Dan-hegyvidék", ro: "Masivul Dan", en: "Dan Massif"},
-    image: "/poi-images/massif-dan-relief-v2.webp",
     description: { de: "Ein zerklüftetes Gebirgsmassiv im Westen des Landes, das für seine steilen Hänge und dichten Wälder bekannt ist.", hu: "A nyugati országrész látványos hegyvidéke, amely meredek lejtőiről, vízeséseiről és hűvösebb klímájáról ismert.", ro: "Masivul Dan este o regiune muntoasă accidentată din vestul țării, renumită pentru crestele sale stâncoase și pădurile tropicale dense.", en: "The Dan Massif is a rugged mountainous region in the west, characterized by steep valleys and high granite peaks. It is the traditional homeland of the Dan people." , es: "Un macizo montañoso accidentado en el oeste del país, conocido por sus laderas empinadas y bosques densos.", pt: "Um maciço montanhoso acidentado no oeste do país, conhecido pelas suas encostas íngremes e florestas densas.", fr: "Un massif montagneux accidenté dans l'ouest du pays, connu pour ses pentes escarpées et ses forêts denses."},
     facts: {
       de: ["Region Man", "Teil der Guinea-Berge", "Hohe Niederschlagsmengen"],
@@ -275,7 +270,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-09",
     coords: [-4.5, 5.3],
     name: { de: "Ébrié-Küstenebene", hu: "Ébrié-parti síkság", ro: "Câmpia de coastă Ébrié", en: "Ébrié Coastal Plain"},
-    image: "/poi-images/ebrie-kuestenebene-relief-v2.webp",
     description: { de: "Das flache Land entlang der Atlantikküste.", hu: "Az Ébrié-lagúna mentén húzódó alacsonyan fekvő partvidéki síkság, ahol az ország gazdasági központja, Abidjan található.", ro: "Câmpia de coastă Ébrié este o fâșie joasă și fertilă de-a lungul Atlanticului, unde se află numeroase lagune și cel mai mare oraș, Abidjan.", en: "The Ebrie coastal plain is a low-lying sandy region dominated by the large lagoon of the same name. It forms the geographical base for the metropolis of Abidjan." , es: "Tierras bajas a lo largo de la costa atlántica.", pt: "Terras baixas ao longo da costa atlântica.", fr: "Terres plates le long de la côte atlantique."},
     facts: {
       de: ["Flaches Terrain", "Sandige Strände", "Mangrovenvegetation", "Tropisches Klima"],
@@ -311,7 +305,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-03",
     coords: [-6.1, 6.5],
     name: { de: "Sassandra-Becken", hu: "Sassandra-medence", ro: "Bazinul Sassandra", en: "Sassandra Basin"},
-    image: "/poi-images/sassandra-becken-relief-v2.webp",
     description: { de: "Das Einzugsgebiet des Sassandra-Flusses umfasst weite Teile des Westens und ist von großer ökologischer Bedeutung.", hu: "A Sassandra-folyó vízgyűjtő területe a nyugati részen, amely fontos ökológiai folyosót alkot az esőerdő és a partvidék között.", ro: "Bazinul Sassandra cuprinde valea fertilă a râului cu același nume, fiind o zonă crucială pentru biodiversitate și hidroenergie în vest.", en: "The Sassandra basin is a large drainage area in the southwest defined by the course of the Sassandra River. The relief consists of rolling hills and dense evergreen forests." , es: "La cuenca del río Sassandra abarca gran parte del oeste y es de gran importancia ecológica.", pt: "A bacia do rio Sassandra abrange grande parte do oeste e é de grande importância ecológica.", fr: "Le bassin du fleuve Sassandra couvre une grande partie de l'ouest et revêt une importance écologique majeure."},
     facts: {
       de: ["Wichtiges Flusssystem", "Hydroelektrisches Potenzial", "Fruchtbare Täler"],
@@ -347,7 +340,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-06",
     coords: [-5.0, 7.0],
     name: { de: "Bandama-Tal", hu: "Bandama-völgy", ro: "Valea Bandama", en: "Bandama Valley"},
-    image: "/poi-images/bandama-tal-relief-v2.webp",
     description: { de: "Das Tal des Bandama-Flusses bildet die zentrale Nord-Süd-Achse des Landes und teilt es in zwei Hälften.", hu: "Az ország leghosszabb folyója, a Bandama által vájt völgy, amely észak-déli irányban szeli át Elefántcsontpartot.", ro: "Valea Bandama traversează centrul țării de la nord la sud, formând o axă geografică și economică vitală pentru Coasta de Fildeș.", en: "The Bandama valley cuts through the center of Ivory Coast, creating a broad depression between the eastern and western plateaus. It is the country's longest internal river system." , es: "El valle del río Bandama forma el eje central norte-sur del país y lo divide en dos mitades.", pt: "O vale do rio Bandama forma o eixo central norte-sul do país e divide-o em duas metades.", fr: "La vallée du fleuve Bandama forme l'axe central nord-sud du pays et le divise en deux moitiés."},
     facts: {
       de: ["Zentrale Elfenbeinküste", "Längster Fluss des Landes", "Landwirtschaftliche Nutzung"],
@@ -383,7 +375,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-01",
     coords: [-3.8, 8.0],
     name: { de: "Comoé-Ebene", hu: "Comoé-síkság", ro: "Câmpia Comoé", en: "Comoé Plain"},
-    image: "/poi-images/komoe-ebene-relief-v2.webp",
     description: { de: "Eine weite Ebene im Osten, durch die der Comoé-Fluss fließt.", hu: "Az északkeleti síkság, amelyen keresztül a Komoé-folyó kanyarog, otthont adva Nyugat-Afrika egyik legnagyobb nemzeti parkjának.", ro: "Câmpia Comoé este o regiune întinsă în estul țării, dominată de cursul râului Comoé și de peisaje de savană arbustivă protejate.", en: "The Komoe plain is a wide, flat region in the northeast through which the Komoe River flows. It encompasses much of the largest national park in West Africa." , es: "Una vasta llanura en el este, por la que fluye el río Comoé.", pt: "Uma vasta planície no leste, através da qual corre o rio Comoé.", fr: "Une vaste plaine à l'est, traversée par le fleuve Comoé."},
     facts: {
       de: ["Oestliches Tiefland", "Buschlandschaft", "Nationalparkgebiet", "Geringe Erhebung"],
@@ -419,7 +410,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-03",
     coords: [-7.3, 5.8],
     name: { de: "Taï-Wald", hu: "Taï-erdő", ro: "Pădurea Taï", en: "Taï Forest"},
-    image: "/poi-images/forest-taii-relief-v2.webp",
     description: { de: "Das Relief im Bereich des Taï-Waldes ist von sanften Hügeln und tief eingeschnittenen Flussläufen geprägt.", hu: "A Taï-erdő dombos vidéke az egyik utolsó érintetlen őserdő a térségben, hatalmas fákkal és sűrű aljnövényzettel.", ro: "Relieful pădurii Taï constă întrun peisaj colinar de joasă altitudine, acoperit de una dintre ultimele păduri primare din Africa de Vest.", en: "The Tai forest relief represents one of the last major remnants of primary tropical rainforest in West Africa. The terrain is characterized by ancient soils and dense canopy cover." , es: "El relieve en la zona del bosque de Taï está caracterizado por suaves colinas y cauces de ríos profundamente encajonados.", pt: "O relevo na zona da floresta de Taï é caracterizado por colinas suaves e cursos de rios profundamente encaixados.", fr: "Le relief de la zone de la forêt de Taï est caractérisé par des collines douces et des cours d'eau profondément encaissés."},
     facts: {
       de: ["Regenwald-Relief", "Höhen bis 600 Meter", "Dichtes Gewässernetz"],
@@ -455,7 +445,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-11",
     coords: [-7.5, 9.5],
     name: { de: "Odienné-Plateau", hu: "Odienné-fennsík", ro: "Podișul Odienné", en: "Odienné Plateau"},
-    image: "/poi-images/plateau-odienne-relief-v2.webp",
     description: { de: "Ein erhöhtes Plateau im Nordwesten des Landes, das einen Übergang zum guineischen Hochland bildet.", hu: "Az északnyugati Odienné városa körüli magasföld, amely kiemelkedik a környező szavannák közül.", ro: "Podișul Odienné este o zonă înaltă din nord-vest, cu soluri lateritice și un relief marcat de martori de eroziune izolați.", en: "The Odienne plateau is a high-altitude region in the northwest corner of the country. It is marked by a drier climate and transitional vegetation between savanna and forest." , es: "Una meseta elevada en el noroeste del país que forma una transición a las tierras altas de Guinea.", pt: "Um planalto elevado no noroeste do país, que forma uma transição para as terras altas da Guiné.", fr: "Un plateau surélevé dans le nord-ouest du pays, formant une transition vers les hauts plateaux guinéens."},
     facts: {
       de: ["Region Kabadougou", "Durchschnittlich 400m hoch", "Lateritische Böden"],
@@ -491,7 +480,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-09",
     coords: [-5.0, 5.2],
     name: { de: "Grand-Lahou-Lagune", hu: "Grand-Lahou-lagúna", ro: "Laguna Grand-Lahou", en: "Grand-Lahou Lagoon"},
-    image: "/poi-images/lagune-grand-lahou-relief-v2.webp",
     description: { de: "Ein komplexes Lagunensystem an der Mündung des Bandama, das durch Sandbänke vom Meer getrennt wird.", hu: "Egy különleges tengerparti terület, ahol a Bandama-folyó torkolata és a lagúnarendszer találkozik az óceánnal.", ro: "Sistemul lagunar de la Grand-Lahou este o zonă de relief costier dinamic, unde apele râului Bandama se întâlnesc cu Oceanul Atlantic.", en: "The Grand-Lahou lagoon relief is a dynamic coastal environment where the Bandama River enters the Atlantic. It is characterized by shifting sandbars and mangrove forests." , es: "Un complejo sistema de lagunas en la desembocadura del Bandama, separado del mar por bancos de arena.", pt: "Um sistema lagunar complexo na foz do Bandama, separado do mar por bancos de areia.", fr: "Un système lagunaire complexe à l'embouchure du Bandama, séparé de la mer par des bancs de sable."},
     facts: {
       de: ["Küstenzone", "Mündung des Bandama", "Bedroht durch Küstenerosion"],
@@ -527,7 +515,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-11",
     coords: [-7.6, 7.7],
     name: { de: "Biankouma-Massiv", hu: "Biankouma-hegyvidék", ro: "Masivul Biankouma", en: "Biankouma Massif"},
-    image: "/poi-images/massif-biankouma-relief-v2.webp",
     description: { de: "Teil des westlichen Hochlandes mit markanten Granitformationen und tiefen Tälern.", hu: "A Biankouma környéki hegycsoport, amely a nyugati hegyvidék részét képezi, egyedi sziklaformációkkal.", ro: "Masivul Biankouma este o prelungire a zonelor înalte din vest, caracterizată prin formațiuni granitice spectaculoase și văi adânci.", en: "The Biankouma Massif is a rugged highland area in western Ivory Coast, part of the larger Guinea Highlands. It is known for its steep slopes and traditional Yacouba mountain villages." , es: "Parte de las tierras altas occidentales con formaciones graníticas prominentes y valles profundos.", pt: "Parte das terras altas ocidentais, com formações graníticas proeminentes e vales profundos.", fr: "Partie des hauts plateaux de l'ouest avec des formations granitiques marquantes et des vallées profondes."},
     facts: {
       de: ["Westliche Elfenbeinküste", "Granitische Massive", "Kühleres Bergklima"],
@@ -644,7 +631,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-06",
     coords: [-5.0, 7.7],
     name: { de: "Bouaké-Becken", hu: "Bouaké-medence", ro: "Bazinul Bouaké", en: "Bouaké Basin"},
-    image: "/poi-images/becken-von-bouake-relief-v2.webp",
     description: { de: "Eine weitläufige Senke im Zentrum des Landes, die das wirtschaftliche Herz der Inlandsregion bildet.", hu: "Az ország szívében elhelyezkedő Bouaké-medence egy enyhén hullámos síkság, amely fontos kereskedelmi útvonalak metszéspontja.", ro: "Bazinul Bouaké este o depresiune largă în centrul țării, înconjurată de dealuri joase, servind ca nod major de transport și comerț.", en: "The Bouake basin is a broad topographic depression in central Ivory Coast. It serves as a transitional zone between the northern savanna and the southern forest regions." , es: "Una vasta depresión en el centro del país que forma el corazón económico de la región interior.", pt: "Uma vasta depressão no centro do país que forma o coração económico da região interior.", fr: "Une vaste dépression au centre du pays qui constitue le cœur économique de la région intérieure."},
     facts: {
       de: ["Zentralplateau", "Region Gbêkê", "Verkehrsknotenpunkt"],
@@ -680,7 +666,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-03",
     coords: [-6.6, 4.7],
     name: { de: "San-Pedro-Küstenebene", hu: "San-Pedro-parti síkság", ro: "Câmpia de coastă San Pedro", en: "San Pedro Coastal Plain"},
-    image: "/poi-images/kuestenebene-san-pedro-relief-v2.webp",
     description: { de: "Ein schmaler Küstenstreifen im Südwesten, der durch felsige Buchten und bedeutende Hafenanlagen geprägt ist.", hu: "A délnyugati partvidék síksága, amely az ország második legfontosabb kikötővárosának, San Pedrónak ad otthont.", ro: "Câmpia de coastă San Pedro se întinde în sud-vestul extrem, fiind marcată de un relief plat, păduri tropicale și un sistem portuar vital.", en: "The San-Pedro coastal plain is a narrow strip of low-lying land in the southwest. It is defined by its rocky headlands, sandy bays, and proximity to the country's second-largest port." , es: "Una estrecha franja costera en el suroeste, caracterizada por bahías rocosas e importantes instalaciones portuarias.", pt: "Uma estreita faixa costeira no sudoeste, caracterizada por baías rochosas e importantes instalações portuárias.", fr: "Une étroite bande côtière au sud-ouest, caractérisée par des baies rocheuses et d'importantes installations portuaires."},
     facts: {
       de: ["Südwestküste", "Wichtige Hafenregion", "Felsige Küstenabschnitte"],
@@ -716,7 +701,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-01",
     coords: [-4.5, 9.2],
     name: { de: "Ferké-Savanne", hu: "Ferké-szavanna", ro: "Savana Ferké", en: "Ferké Savanna"},
-    image: "/poi-images/savanne-fere-relief-v2.webp",
     description: { de: "Eine weitläufige Savannenlandschaft im Nordosten, die durch isolierte Granitfelsen und Trockenvegetation geprägt ist.", hu: "Az északi Ferké régió száraz szavannája, amelyre a hatalmas nyílt terek és az állattenyésztés jellemző.", ro: "Savana Ferké din nordul îndepărtat este o câmpie plată și aridă, renumită pentru culturile sale de trestie de zahăr și creșterea vitelor.", en: "The Fere savanna relief consists of open plains in the north-central part of the country. It is dominated by lateritic plateaus and seasonal watercourses known as marigots." , es: "Un extenso paisaje de sabana en el noreste, caracterizado por rocas de granito aisladas y vegetación seca.", pt: "Uma vasta paisagem de savana no nordeste, caracterizada por rochas de granito isoladas e vegetação seca.", fr: "Un vaste paysage de savane au nord-est, caractérisé par des rochers granitiques isolés et une végétation sèche."},
     facts: {
       de: ["Region Bounkani", "Nähe zum Comoé-Nationalpark", "Sudano-Sahel-Klima"],
@@ -752,7 +736,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-09",
     coords: [-4.8, 5.2],
     name: { de: "Tiagba-Lagune", hu: "Tiagba-lagúna", ro: "Laguna Tiagba", en: "Tiagba Lagoon"},
-    image: "/poi-images/lagune-tiagba-relief-v2.webp",
     description: { de: "Eine malerische Lagune im Süden, bekannt für das auf Pfahlbauten errichtete Fischerdorf Tiagba.", hu: "A Tiagba falu körüli vizes élőhely, amely híres a cölöpökre épült hagyományos lakóházairól.", ro: "Laguna Tiagba face parte din sistemul lagunar sudic, fiind un mediu acvatic liniștit, protejat de bariere de nisip și mangrovi.", en: "The Tiagba lagoon relief is a scenic section of the Ebrie lagoon system. It is famous for the village of Tiagba, where traditional houses are built on stilts above the water." , es: "Una pintoresca laguna en el sur, conocida por el pueblo de pescadores de Tiagba, construido sobre pilotes.", pt: "Uma lagoa pitoresca no sul, conhecida pela aldeia piscatória de Tiagba, construída sobre estacas.", fr: "Une lagune pittoresque au sud, connue pour le village de pêcheurs de Tiagba construit sur pilotis."},
     facts: {
       de: ["Teil des Ebrié-Systems", "Bekannt für Pfahlbauten", "Ökotourismus-Ziel"],
@@ -905,7 +888,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-11",
     coords: [-7.5, 7.4],
     name: { de: "Man-Gebirge", hu: "Man-hegység", ro: "Munții Man", en: "Man Mountains"},
-    image: "/poi-images/massif-man-relief-v2.webp",
     description: { de: "Die Bergregion um die Stadt Man ist berühmt für ihre markanten Gipfel, Wasserfälle und üppige Vegetation.", hu: "Az 'ezer domb városa', Man környékén emelkedő hegyvonulat, amely Elefántcsontpart leglátványosabb magaslatait foglalja magában.", ro: "Munții Man reprezintă cel mai spectaculos relief muntos al țării, cu vârfuri ce depășesc 1000 de metri și cascade impresionante.", en: "The Man Massif is the most prominent mountain range in western Ivory Coast, containing several peaks over 1,000 meters. The relief is marked by deep canyons and dramatic waterfalls." , es: "La región montañosa alrededor de la ciudad de Man es famosa por sus picos prominentes, cascadas y vegetación exuberante.", pt: "A região montanhosa em redor da cidade de Man é famosa pelos seus picos proeminentes, quedas de água e vegetação luxuriante.", fr: "La région montagneuse autour de la ville de Man est célèbre pour ses pics marquants, ses cascades et sa végétation luxuriante."},
     facts: {
       de: ["Westliche Elfenbeinküste", "Zentrum des Tourismus", "Zahlreiche Wasserfälle"],
@@ -941,7 +923,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-09",
     coords: [-4.1, 5.8],
     name: { de: "Yapo-Wald", hu: "Yapo-erdő", ro: "Pădurea Yapo", en: "Yapo Forest"},
-    image: "/poi-images/wald-von-yapo-relief-v2.webp",
     description: { de: "Ein bedeutendes Waldreservat im Süden, das wertvolle Reste des ursprünglichen tropischen Regenwaldes bewahrt.", hu: "A délkeleti országrész egyik jelentős erdős területe, amely Agboville közelében őrizte meg természetes állapotát.", ro: "Pădurea Yapo este o rezervație forestieră crucială în sud, protejând un relief colinar acoperit de păduri tropicale secundare bogate.", en: "The Yapo forest relief is a protected rainforest area situated on a low plateau near Agboville. It serves as a vital green lung and biodiversity corridor in the south." , es: "Una importante reserva forestal en el sur que conserva valiosos restos de la selva tropical original.", pt: "Uma importante reserva florestal no sul que conserva restos valiosos da floresta tropical original.", fr: "Une importante réserve forestière dans le sud, qui préserve des vestiges précieux de la forêt tropicale humide originelle."},
     facts: {
       de: ["Region Agnéby-Tiassa", "Nahe Agboville", "Hohe Artenvielfalt"],
@@ -977,7 +958,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-07",
     coords: [-2.8, 8.0],
     name: { de: "Bondoukou-Ebene", hu: "Bondoukou-síkság", ro: "Câmpia Bondoukou", en: "Bondoukou Plain"},
-    image: "/poi-images/ebene-von-bondoukou-relief-v2.webp",
     description: { de: "Eine Übergangszone im Nordosten nahe der Grenze zu Ghana, die durch Hügelketten und Savannen charakterisiert ist.", hu: "A ghánai határ mentén fekvő Bondoukou-síkság, amely az ország keleti kapujaként és kulturális kereszteződéseként ismert.", ro: "Câmpia Bondoukou din est este o zonă de tranziție deluroasă spre Ghana, caracterizată prin savane arboricole și soluri bogate.", en: "The Bondoukou plain is a flat to gently undulating landscape in the east, near the border with Ghana. It is characterized by dry forest and savanna-parkland vegetation." , es: "Una zona de transición en el noreste, cerca de la frontera con Ghana, caracterizada por cadenas de colinas y sabanas.", pt: "Uma zona de transição no nordeste, perto da fronteira com o Gana, caracterizada por cadeias de colinas e savanas.", fr: "Une zone de transition au nord-est, près de la frontière avec le Ghana, caractérisée par des chaînes de collines et des savanes."},
     facts: {
       de: ["Region Gontougo", "Grenznähe zu Ghana", "Anbau von Cashewnüssen"],
@@ -1238,7 +1218,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-09",
     coords: [-4.0, 5.3],
     name: { de: "Abidjan-Lagune", hu: "Abidjan-lagúna", ro: "Laguna Abidjan", en: "Abidjan Lagoon"},
-    image: "/poi-images/lagune-abidjan-relief-v2.webp",
     description: { de: "Das Herzstück des Ebrié-Lagunensystems, das die Metropole Abidjan umschließt und wirtschaftlich prägt.", hu: "Az Abidjan városát körbeölelő Ébrié-lagúna központi része, amely meghatározza a metropolisz arculatát és közlekedését.", ro: "Laguna Abidjan reprezintă inima hidrografică a metropolei, un braț vast al lagunei Ébrié care susține activitatea portuară și urbană.", en: "The Abidjan lagoon relief comprises the central part of the Ebrie Lagoon, which splits the city into northern and southern sectors. It is the defining geographical feature of the capital." , es: "La pieza central del sistema de lagunas de Ébrié, que rodea y define económicamente a la metrópoli de Abiyán.", pt: "A peça central do sistema de lagoas de Ébrié, que rodeia e define economicamente a metrópole de Abidjan.", fr: "Le cœur du système lagunaire Ébrié, qui entoure la métropole d'Abidjan et façonne son économie."},
     facts: {
       de: ["Ebrié-Lagune", "Wirtschaftliches Zentrum", "Verbindung zum Atlantik"],
@@ -1274,7 +1253,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-08",
     coords: [-5.6, 9.4],
     name: { de: "Korhogo-Hochland", hu: "Korhogo-felföld", ro: "Podișul Korhogo", en: "Korhogo Highlands"},
-    image: "/poi-images/hochland-von-khorogo-relief-v2.webp",
     description: { de: "Die Savannenlandschaft um Korhogo ist durch markante Inselberge aus Granit gekennzeichnet.", hu: "Az északi Korhogo környéki magasföld, amely a Szenufo nép szellemi és kulturális központja a szavanna szívében.", ro: "Podișul Korhogo este o regiune înaltă și aridă din nord, presărată cu inselberguri granitice și savane tipice poporului Senufo.", en: "The Korhogo highlands form a series of low-rising plateaus and granite hills in the northern Senufo region. The relief is dotted with iconic inselbergs rising from the plains." , es: "El paisaje de sabana alrededor de Korhogo se caracteriza por llamativos inselbergs de granito.", pt: "A paisagem de savana em redor de Korhogo é caracterizada por inselbergs de granito marcantes.", fr: "Le paysage de savane autour de Korhogo est caractérisé par des inselbergs de granit remarquables."},
     facts: {
       de: ["Nördliche Elfenbeinküste", "Granit-Inselberge", "Zentrum der Senufo-Kultur"],
@@ -1310,7 +1288,6 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
     parent: "CI-06",
     coords: [-4.5, 6.5],
     name: { de: "Nzi-Tal", hu: "Nzi-völgy", ro: "Valea Nzi", en: "Nzi Valley"},
-    image: "/poi-images/flusstal-nzi-relief-v2.webp",
     description: { de: "Das Tal des N'Zi-Flusses erstreckt sich durch das Zentrum des Landes und ist ein wichtiger Zufluss des Bandama.", hu: "A N'zi-folyó völgye, amely fontos mezőgazdasági területeken halad keresztül, mielőtt a Bandamába torkollna.", ro: "Valea râului Nzi formează un culoar fertil în centrul țării, fiind o câmpie aluvionară esențială pentru agricultură în sezonul ploios.", en: "The N'zi river valley is a long, narrow depression that runs through central Ivory Coast. It is known for its fertile soils and seasonal flooding patterns that support agriculture." , es: "El valle del río N'Zi se extiende por el centro del país y es un importante afluente del Bandama.", pt: "O vale do rio N'Zi estende-se pelo centro do país e é um importante afluente do Bandama.", fr: "La vallée du fleuve N'Zi s'étend à travers le centre du pays et constitue un affluent majeur du Bandama."},
     facts: {
       de: ["Zentralregion", "Nebenfluss des Bandama", "Wichtiger Wasserlieferant"],

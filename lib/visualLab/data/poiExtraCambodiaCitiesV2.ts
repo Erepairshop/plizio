@@ -89,7 +89,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-12",
     coords: [104.9282, 11.5564],
     name: { de: "Phnom Penh", hu: "Phnompen", ro: "Phnom Penh", en: "Phnom Penh"},
-    image: "/poi-images/cambodia-phnom-penh-cities-v2.webp",
     description: {
       de: "Kambodschas geschäftige Hauptstadt liegt am Zusammenfluss von Mekong und Tonle Sap und ist das politische und wirtschaftliche Zentrum des Landes.",
       hu: "Kambodzsa nyüzsgő fővárosa a Mekong és a Tonle Sap folyók találkozásánál fekszik, és az ország politikai és gazdasági központja.",
@@ -855,7 +854,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-02",
     coords: [103.1978, 13.0957],
     name: { de: "Battambang", hu: "Battambang", ro: "Battambang", en: "Battambang"},
-    image: "/poi-images/cambodia-battambang-cities-v2.webp",
     description: {
       de: "Die zweitgrößte Stadt Kambodschas ist berühmt für ihre gut erhaltene französische Kolonialarchitektur und die umliegende fruchtbare Landschaft.",
       hu: "Kambodzsa második legnagyobb városa jól megőrzött francia gyarmati építészetéről és a környező termékeny vidékről híres.",
@@ -2059,7 +2057,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-17",
     coords: [103.8606, 13.3615],
     name: { de: "Siem Reap", hu: "Sziemreap", ro: "Siem Reap", en: "Siem Reap"},
-    image: "/poi-images/cambodia-siem-reap-cities-v2.webp",
     description: {
       de: "Als Tor zu den majestätischen Ruinen von Angkor ist diese Stadt das wichtigste touristische Zentrum des Landes mit einer lebendigen Kulturszene.",
       hu: "Angkor fenséges romjainak kapujaként ez a város az ország legfontosabb turisztikai központja, amely élénk kulturális élettel rendelkezik.",
@@ -2444,7 +2441,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-18",
     coords: [103.5234, 10.6253],
     name: { de: "Sihanoukville", hu: "Sihanoukville", ro: "Sihanoukville", en: "Sihanoukville"},
-    image: "/poi-images/cambodia-sihanoukville-cities-v2.webp",
     description: {
       de: "Diese Küstenstadt am Golf von Thailand ist der einzige Tiefseehafen Kambodschas und ein schnell wachsendes Wirtschaftszentrum.",
       hu: "Ez a Thaiföldi-öböl partján fekvő város Kambodzsa egyetlen mélyvízi kikötője és gyorsan növekvő gazdasági központja.",
@@ -2522,7 +2518,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-01",
     coords: [102.5625, 13.6583],
     name: { de: "Poipet", hu: "Poipet", ro: "Poipet", en: "Poipet"},
-    image: "/poi-images/cambodia-poipet-cities-v2.webp",
     description: {
       de: "Als wichtiger Grenzübergang zwischen Kambodscha und Thailand ist diese Stadt ein geschäftiger Knotenpunkt für Handel und Transport.",
       hu: "A Kambodzsa és Thaiföld közötti fontos határátkelőhelyként ez a város a kereskedelem és a közlekedés forgalmas csomópontja.",
@@ -3042,7 +3037,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-08",
     coords: [104.9483, 11.4831],
     name: { de: "Ta Khmau", hu: "Ta Khmau", ro: "Ta Khmau", en: "Ta Khmau"},
-    image: "/poi-images/cambodia-ta-khmau-cities-v2.webp",
     description: {
       de: "Die Hauptstadt der Provinz Kandal liegt südlich von Phnom Penh und ist stark in die Metropolregion der Hauptstadt integriert.",
       hu: "Kandal tartomány fővárosa Phnompentől délre fekszik, és szorosan integrálódott a fővárosi nagyvárosi régióba.",
@@ -3310,7 +3304,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-03",
     coords: [105.4525, 11.9933],
     name: { de: "Kampong Cham", hu: "Kampongcham", ro: "Kampong Cham", en: "Kampong Cham"},
-    image: "/poi-images/cambodia-kampong-cham-cities-v2.webp",
     description: {
       de: "Diese friedliche Stadt liegt am Ufer des Mekong und versprüht noch immer den Charme der französischen Kolonialzeit in einem ländlichen Umfeld.",
       hu: "Ez a békés város a Mekong partján fekszik, és még mindig a francia gyarmati időszak báját árasztja vidéki környezetben.",
@@ -3686,7 +3679,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-15",
     coords: [103.9192, 12.5387],
     name: { de: "Pursat", hu: "Pursat", ro: "Pursat", en: "Pursat"},
-    image: "/poi-images/cambodia-pursat-cities-v2.webp",
     description: {
       de: "Eingebettet zwischen dem Tonle Sap See und den Kardamom-Bergen, ist Pursat ein ruhiges landwirtschaftliches Zentrum, das für seine Marmorschnitzereien bekannt ist.",
       hu: "A Tonle Sap tó és a Kardamom-hegység között fekvő Pursat egy csendes mezőgazdasági központ, amely márványfaragásairól ismert.",
@@ -3882,7 +3874,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-05",
     coords: [104.5222, 11.4533],
     name: { de: "Kampong Speu", hu: "Kampong Speu", ro: "Kampong Speu", en: "Kampong Speu"},
-    image: "/poi-images/cambodia-kampong-speu-cities-v2.webp",
     description: {
       de: "Diese Provinzstadt liegt westlich der Hauptstadt und ist berühmt für die Produktion von Palmzucker, einem traditionellen kambodschanischen Süßungsmittel.",
       hu: "A fővárostól nyugatra fekvő tartományi város a pálmacukor – egy hagyományos kambodzsai édesítőszer – előállításáról híres.",
@@ -4006,7 +3997,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-21",
     coords: [104.7472, 10.9908],
     name: { de: "Takeo", hu: "Takeo", ro: "Takeo", en: "Takeo"},
-    image: "/poi-images/cambodia-takeo-cities-v2.webp",
     description: {
       de: "Takeo gilt als die Wiege der kambodschanischen Zivilisation, mit uralten Fundstätten und einer starken Tradition in der Seidenweberei.",
       hu: "Takeo-t a kambodzsai civilizáció bölcsőjének tartják, ahol ősi régészeti lelőhelyek és erős selyemszövési hagyományok találhatók.",
@@ -4130,7 +4120,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-09",
     coords: [102.9804, 11.6155],
     name: { de: "Koh Kong", hu: "Koh Kong", ro: "Koh Kong", en: "Koh Kong"},
-    image: "/poi-images/cambodia-koh-kong-cities-v2.webp",
     description: {
       de: "In der Nähe der thailändischen Grenze gelegen, ist Koh Kong das Tor zu ausgedehnten Mangrovenwäldern und dem unberührten Kardamom-Gebirge.",
       hu: "A thai határ közelében fekvő Koh Kong a hatalmas mangroveerdők és az érintetlen Kardamom-hegység kapuja.",
@@ -4362,7 +4351,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-23",
     coords: [104.3167, 10.4833],
     name: { de: "Kep", hu: "Kep", ro: "Kep", en: "Kep"},
-    image: "/poi-images/cambodia-kep-cities-v2.webp",
     description: {
       de: "Kep, einst der mondänste Badeort Kambodschas für die Elite, ist heute berühmt für seine entspannte Atmosphäre und den legendären Krabbenmarkt.",
       hu: "A korábban az elit legdivatosabb kambodzsai tengerparti üdülőhelyeként ismert Kep ma nyugodt légköréről és legendás rákpiacáról híres.",
@@ -5062,7 +5050,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-07",
     coords: [104.1833, 10.6167],
     name: { de: "Kampot", hu: "Kampot", ro: "Kampot", en: "Kampot"},
-    image: "/poi-images/cambodia-kampot-cities-v2.webp",
     description: {
       de: "Kampot liegt malerisch an einem Fluss nahe der Küste und ist weltberühmt für seinen erstklassigen Pfeffer sowie seine entspannte Atmosphäre.",
       hu: "Kampot festői környezetben fekszik egy folyó mentén a part közelében, és világszerte híres első osztályú borsáról, valamint nyugodt légköréről.",
@@ -5150,7 +5137,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-24",
     coords: [102.6083, 12.8488],
     name: { de: "Pailin", hu: "Pailin", ro: "Pailin", en: "Pailin"},
-    image: "/poi-images/cambodia-pailin-cities-v2.webp",
     description: {
       de: "Pailin, nahe der thailändischen Grenze in den Ausläufern des Kardamom-Gebirges gelegen, hat eine reiche Geschichte im Edelsteinabbau.",
       hu: "A thai határ közelében, a Kardamom-hegység lábánál fekvő Pailin gazdag múltra tekint vissza a drágakőbányászat terén.",
@@ -5238,7 +5224,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-10",
     coords: [106.0167, 12.4833],
     name: { de: "Kratie", hu: "Kratié", ro: "Kratie", en: "Kratie"},
-    image: "/poi-images/cambodia-kratie-cities-v2.webp",
     description: {
       de: "Diese entspannte Stadt am Ufer des Mekong ist das beste Reiseziel in Kambodscha, um die seltenen Irrawaddy-Delfine in freier Wildbahn zu beobachten.",
       hu: "Ez a nyugodt város a Mekong partján a legjobb célpont Kambodzsában, ha szabadon szeretnénk megfigyelni a ritka kúposfejű delfineket.",
@@ -5398,7 +5383,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-19",
     coords: [105.9667, 13.5167],
     name: { de: "Stung Treng", hu: "Stung Treng", ro: "Stung Treng", en: "Stung Treng"},
-    image: "/poi-images/cambodia-stung-treng-cities-v2.webp",
     description: {
       de: "Nahe der Grenze zu Laos gelegen, ist diese nördliche Stadt ein wichtiger Verkehrsknotenpunkt, wo die Flüsse Sekong, Sesan und Mekong zusammenfließen.",
       hu: "A laoszi határ közelében fekvő északi város fontos közlekedési csomópont, ahol a Sekong, a Sesan és a Mekong folyók találkoznak.",
@@ -5446,7 +5430,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-16",
     coords: [107.0000, 13.7333],
     name: { de: "Banlung", hu: "Banlung", ro: "Banlung", en: "Banlung"},
-    image: "/poi-images/cambodia-banlung-cities-v2.webp",
     description: {
       de: "Eingebettet in das rote Land der Ratanakiri-Provinz, ist Banlung ein Zentrum für Ökotourismus, umgeben von Wasserfällen und indigenen Dörfern.",
       hu: "A Ratanakiri tartomány vörös földjébe ágyazott Banlung az ökoturizmus központja, melyet vízesések és őslakos falvak vesznek körül.",
@@ -5570,7 +5553,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-11",
     coords: [107.1833, 12.4500],
     name: { de: "Sen Monorom", hu: "Sen Monorom", ro: "Sen Monorom", en: "Sen Monorom"},
-    image: "/poi-images/cambodia-sen-monorom-cities-v2.webp",
     description: {
       de: "In den sanften Hügeln von Mondulkiri gelegen, ist diese kühle Bergstadt berühmt für Elefantenschutzprojekte und weite Kiefernwälder.",
       hu: "A Mondulkiri lágy dombjai között fekvő hűvös hegyvidéki város elefántvédelmi projektjeiről és kiterjedt fenyőerdeiről híres.",
@@ -5658,7 +5640,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-13",
     coords: [104.9833, 13.8000],
     name: { de: "Preah Vihear (Tbeng Meanchey)", hu: "Preah Vihear", ro: "Preah Vihear", en: "Preah Vihear"},
-    image: "/poi-images/cambodia-preah-vihear-cities-v2.webp",
     description: {
       de: "Diese abgelegene nördliche Stadt dient als wichtigste Basis für Besucher des spektakulären Tempels Prasat Preah Vihear an der Klippe.",
       hu: "Ez a távoli északi város a sziklaszirtre épült látványos Prasat Preah Vihear templomba látogatók fő bázisaként szolgál.",
@@ -5818,7 +5799,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-06",
     coords: [104.8833, 12.7167],
     name: { de: "Kampong Thom", hu: "Kampong Thom", ro: "Kampong Thom", en: "Kampong Thom"},
-    image: "/poi-images/cambodia-kampong-thom-cities-v2.webp",
     description: {
       de: "Kampong Thom ist eine entspannte Provinzstadt am Fluss Stueng Saen und Ausgangspunkt zur faszinierenden alten Tempelanlage Sambor Prei Kuk.",
       hu: "Kampong Thom egy nyugodt tartományi város a Stueng Saen folyó mentén, és a lenyűgöző Sambor Prei Kuk ősi templomkomplexum kiindulópontja.",
@@ -5942,7 +5922,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-01",
     coords: [102.9736, 13.5858],
     name: { de: "Sisophon", hu: "Sisophon", ro: "Sisophon", en: "Sisophon"},
-    image: "/poi-images/cambodia-sisophon-cities-v2.webp",
     description: {
       de: "Als Hauptstadt der Provinz Banteay Meanchey ist Sisophon ein wichtiger Verkehrsknotenpunkt, der Routen in den Nordwesten verbindet.",
       hu: "Banteay Meanchey tartomány fővárosaként Sisophon fontos közlekedési csomópont, amely az északnyugati útvonalakat köti össze.",
@@ -6390,7 +6369,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-14",
     coords: [105.3253, 11.4868],
     name: { de: "Prey Veng", hu: "Prey Veng", ro: "Prey Veng", en: "Prey Veng"},
-    image: "/poi-images/cambodia-prey-veng-cities-v2.webp",
     description: {
       de: "Diese ruhige Stadt liegt im landwirtschaftlichen Herzen Kambodschas und spielt eine Schlüsselrolle in der Reisproduktion des Landes.",
       hu: "Ez a csendes város Kambodzsa mezőgazdasági szívében fekszik, és kulcsszerepet játszik az ország rizstermelésében.",
@@ -6514,7 +6492,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-20",
     coords: [105.8000, 11.0833],
     name: { de: "Svay Rieng", hu: "Svay Rieng", ro: "Svay Rieng", en: "Svay Rieng"},
-    image: "/poi-images/cambodia-svay-rieng-cities-v2.webp",
     description: {
       de: "Gelegen an der sogenannten 'Papageienschnabel'-Grenze zu Vietnam, ist Svay Rieng eine friedliche Stadt am gewundenen Waiko-Fluss.",
       hu: "A Vietnammal közös, úgynevezett 'Papagájcsőr' határszakaszon fekvő Svay Rieng egy békés város a kanyargós Waiko-folyó mentén.",
@@ -6557,7 +6534,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-25",
     coords: [105.5458, 11.9567],
     name: { de: "Suong", hu: "Suong", ro: "Suong", en: "Suong"},
-    image: "/poi-images/cambodia-suong-cities-v2.webp",
     description: {
       de: "Als Hauptstadt der relativ neu geschaffenen Provinz Tboung Khmum wächst Suong rasant und fungiert als vitales Handelszentrum für landwirtschaftliche Güter.",
       hu: "A viszonylag újonnan létrehozott Tboung Khmum tartomány fővárosaként Suong gyorsan növekszik, és létfontosságú kereskedelmi központként működik.",
@@ -6645,7 +6621,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-22",
     coords: [103.5167, 14.1833],
     name: { de: "Samraong", hu: "Samraong", ro: "Samraong", en: "Samraong"},
-    image: "/poi-images/cambodia-samraong-cities-v2.webp",
     description: {
       de: "Dieser abgelegene Vorposten im rauen Norden dient als administratives Zentrum von Oddar Meanchey und Zugang zur O'Smach Grenzregion.",
       hu: "Ez a távoli előretolt helyőrség a zord északi vidéken Oddar Meanchey közigazgatási központjaként és az O'Smach határvidék kapujaként szolgál.",
@@ -6877,7 +6852,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-04",
     coords: [104.6667, 12.2500],
     name: { de: "Kampong Chhnang", hu: "Kampong Chhnang", ro: "Kampong Chhnang", en: "Kampong Chhnang"},
-    image: "/poi-images/cambodia-kampong-chhnang-cities-v2.webp",
     description: {
       de: "Bekannt als der 'Töpferhafen', ist diese Stadt am Tonle Sap See berühmt für die Herstellung traditioneller kambodschanischer Tonwaren.",
       hu: "A 'Fazekasok kikötőjeként' ismert Tonle Sap tó menti város a hagyományos kambodzsai agyagedények készítéséről híres.",
@@ -6965,7 +6939,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-20",
     coords: [106.1333, 11.0833],
     name: { de: "Bavet", hu: "Bavet", ro: "Bavet", en: "Bavet"},
-    image: "/poi-images/cambodia-bavet-cities-v2.webp",
     description: {
       de: "Bavet ist die größte Grenzstadt zu Vietnam auf der direkten Route von Phnom Penh nach Ho-Chi-Minh-Stadt und ist durch Sonderwirtschaftszonen stark gewachsen.",
       hu: "Bavet a legnagyobb vietnami határváros a Phnompen és Ho Si Minh-város közötti közvetlen útvonalon, és a különleges gazdasági övezeteknek köszönhetően gyorsan növekszik.",
@@ -7269,7 +7242,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     parent: "KH-14",
     coords: [105.2833, 11.2667],
     name: { de: "Neak Loeung", hu: "Neak Loeung", ro: "Neak Loeung", en: "Neak Loeung"},
-    image: "/poi-images/cambodia-neak-loeung-cities-v2.webp",
     description: {
       de: "Einst bekannt für seine vielbeschäftigten Fähren, verbindet diese wichtige Handelsstadt am Mekong heute die Ufer durch die längste Brücke des Landes.",
       hu: "Az egykor forgalmas kompjairól ismert, fontos mekongi kereskedőváros ma az ország leghosszabb hídján keresztül köti össze a partokat.",

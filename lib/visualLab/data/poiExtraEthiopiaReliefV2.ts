@@ -53,7 +53,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-AM",
     coords: [38.37, 13.23],
     name: { de: "Ras Daschän", hu: "Ras Dashen", ro: "Ras Dashen", en: "Ras Dashen"},
-    image: "/poi-images/ras-dashen-relief-v2.webp",
     description: {
       de: "Der höchste Berg Äthiopiens und der zeithöchste Afrikas.",
       hu: "Etiópia legmagasabb hegye, Afrika tizedik legmagasabb pontja.",
@@ -100,7 +99,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-OR",
     coords: [39.82, 7.01],
     name: { de: "Tulu Dimtu", hu: "Tulu Dimtu", ro: "Tulu Dimtu", en: "Tulu Dimtu"},
-    image: "/poi-images/tulu-dimtu-relief-v2.webp",
     description: {
       de: "Der zweithöchste Berg Äthiopiens im Bale-Gebirge.",
       hu: "Etiópia második legmagasabb hegye a Bale-hegységben.",
@@ -190,7 +188,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-AF",
     coords: [40.5, 13.5],
     name: { de: "Danakil-Senke", hu: "Danakil-mélyföld", ro: "Depresiunea Danakil", en: "Danakil Depression"},
-    image: "/poi-images/danakil-depresion-relief-v2.webp",
     description: {
       de: "Einer der heißesten und tiefsten Orte der Erde.",
       hu: "A Föld egyik legforróbb és legalacsonyabban fekvő pontja.",
@@ -235,7 +232,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-AF",
     coords: [40.66, 13.6],
     name: { de: "Erta Ale", hu: "Erta Ale", ro: "Erta Ale", en: "Erta Ale"},
-    image: "/poi-images/er-ta-ale-relief-v2.webp",
     description: {
       de: "Ein ständig aktiver Schildvulkan in der Danakil-Senke.",
       hu: "Folyamatosan aktív pajzsvulkán a Danakil-mélyföldön.",
@@ -325,7 +321,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-OR",
     coords: [39.1, 8.5],
     name: { de: "Berg Abu", hu: "Abu-hegy", ro: "Muntele Abu", en: "Mount Abu"},
-    image: "/poi-images/mount-abu-relief-v2.webp",
     description: {
       de: "Ein markanter Gipfel im äthiopischen Hochland.",
       hu: "Jellegzetes csúcs az etióp felföldön.",
@@ -369,7 +364,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-AM",
     coords: [38.5, 11.2],
     name: { de: "Berg Amara", hu: "Amara-hegy", ro: "Muntele Amara", en: "Mount Amara"},
-    image: "/poi-images/mount-amara-relief-v2.webp",
     description: {
       de: "Ein wichtiger Gipfel im historischen Amhara-Gebiet.",
       hu: "Fontos csúcs a történelmi Amhara régióban.",
@@ -413,7 +407,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-OR",
     coords: [37.5, 8.2],
     name: { de: "Gibe-Tal", hu: "Gibe-völgy", ro: "Valea Gibe", en: "Gibe Valley"},
-    image: "/poi-images/gibe-valley-relief-v2.webp",
     description: {
       de: "Ein tief eingeschnittenes Tal im Südwesten Äthiopiens.",
       hu: "Mélyen bevágott völgy Etiópia délnyugati részén.",
@@ -458,7 +451,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-OR",
     coords: [39.7, 7.1],
     name: { de: "Berg Batu", hu: "Batu-hegy", ro: "Muntele Batu", en: "Mount Batu"},
-    image: "/poi-images/mount-batu-relief-v2.webp",
     description: {
       de: "Ein hoher Gipfel im Bale-Gebirge.",
       hu: "Magas csúcs a Bale-hegységben.",
@@ -502,7 +494,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-SN",
     coords: [37.2, 6.5],
     name: { de: "Berg Kulu", hu: "Kulu-hegy", ro: "Muntele Kulu", en: "Mount Kulu"},
-    image: "/poi-images/mount-kulu-relief-v2.webp",
     description: {
       de: "Ein markanter Berg im Süden des Landes.",
       hu: "Jellegzetes hegy az ország déli részén.",
@@ -546,7 +537,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-OR",
     coords: [40.3, 8.2],
     name: { de: "Berg Gugu", hu: "Gugu-hegy", ro: "Muntele Gugu", en: "Mount Gugu"},
-    image: "/poi-images/mount-gugu-relief-v2.webp",
     description: {
       de: "Ein Berg im Arsi-Gebirge.",
       hu: "Hegy az Arsi-hegységben.",
@@ -590,7 +580,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-OR",
     coords: [39.9, 8.9],
     name: { de: "Berg Fentale", hu: "Fentale-hegy", ro: "Muntele Fentale", en: "Mount Fentale"},
-    image: "/poi-images/mount-fentale-relief-v2.webp",
     description: {
       de: "Ein vulkanischer Berg in der Nähe des Awash-Nationalparks.",
       hu: "Vulkáni hegy az Awash Nemzeti Park közelében.",
@@ -787,7 +776,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-SN",
     coords: [37.5, 6.2],
     name: { de: "Berg Kono", hu: "Kono-hegy", ro: "Muntele Kono", en: "Mount Kono"},
-    image: "/poi-images/mount-kono-relief-v2.webp",
     description: {
       de: "Ein Gipfel im südwestlichen Hochland.",
       hu: "Csúcs a délnyugati felföldön.",
@@ -831,7 +819,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-AF",
     coords: [40.0, 11.5],
     name: { de: "Berg Ebro", hu: "Ebro-hegy", ro: "Muntele Ebro", en: "Mount Ebro"},
-    image: "/poi-images/mount-ebro-relief-v2.webp",
     description: {
       de: "Ein isolierter Gipfel im Afar-Gebiet.",
       hu: "Izolált csúcs az Afar régióban.",
@@ -875,7 +862,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-AF",
     coords: [40.2, 11.8],
     name: { de: "Berg Tut", hu: "Tut-hegy", ro: "Muntele Tut", en: "Mount Tut"},
-    image: "/poi-images/mount-tut-relief-v2.webp",
     description: {
       de: "Ein kleinerer Gipfel nahe der Grenze.",
       hu: "Kisebb csúcs a határ közelében.",
@@ -919,7 +905,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-SN",
     coords: [37.8, 6.8],
     name: { de: "Berg Culu", hu: "Culu-hegy", ro: "Muntele Culu", en: "Mount Culu"},
-    image: "/poi-images/mount-culu-relief-v2.webp",
     description: {
       de: "Ein Berg im dicht bewaldeten Süden.",
       hu: "Hegy a sűrűn erdős délen.",
@@ -963,7 +948,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-OR",
     coords: [39.7, 6.6],
     name: { de: "Harenna-Wald", hu: "Harenna-erdő", ro: "Pădurea Harenna", en: "Harenna Forest"},
-    image: "/poi-images/harenna-forest-relief-v2.webp",
     description: {
       de: "Einer der größten verbliebenen Naturwälder Äthiopiens.",
       hu: "Etiópia egyik legnagyobb fennmaradt természetes erdeje.",
@@ -1007,7 +991,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-SN",
     coords: [36.2, 7.3],
     name: { de: "Bonga-Wald", hu: "Bonga-erdő", ro: "Pădurea Bonga", en: "Bonga Forest"},
-    image: "/poi-images/bonga-forest-relief-v2.webp",
     description: {
       de: "Ein Biosphärenreservat im Südwesten.",
       hu: "Bioszféra-rezervátum délnyugaton.",
@@ -1051,7 +1034,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-SN",
     coords: [35.5, 7.5],
     name: { de: "Sheka-Wald", hu: "Sheka-erdő", ro: "Pădurea Sheka", en: "Sheka Forest"},
-    image: "/poi-images/sheka-forest-relief-v2.webp",
     description: {
       de: "Ein wichtiges Waldgebiet mit hoher Artenvielfalt.",
       hu: "Fontos erdős terület nagy fajgazdagsággal.",
@@ -1095,7 +1077,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-SN",
     coords: [36.0, 7.5],
     name: { de: "Kefa-Wald", hu: "Kefa-erdő", ro: "Pădurea Kefa", en: "Kefa Forest"},
-    image: "/poi-images/kefa-forest-relief-v2.webp",
     description: {
       de: "Die Region, in der der Arabica-Kaffee entdeckt wurde.",
       hu: "A régió, ahol az arabica kávét felfedezték.",
@@ -1139,7 +1120,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-AM",
     coords: [37.8, 10.7],
     name: { de: "Berg Choke", hu: "Choke-hegy", ro: "Muntele Choke", en: "Mount Choke"},
-    image: "/poi-images/mount-choke-relief-v2.webp",
     description: {
       de: "Ein Gebirgsmassiv im Zentrum des Hochlands.",
       hu: "Hegymasszívum a felföld közepén.",
@@ -1183,7 +1163,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-AM",
     coords: [38.2, 11.7],
     name: { de: "Berg Guna", hu: "Guna-hegy", ro: "Muntele Guna", en: "Mount Guna"},
-    image: "/poi-images/mount-guna-relief-v2.webp",
     description: {
       de: "Ein hoher Gipfel in der Region Amhara.",
       hu: "Magas csúcs Amhara régióban.",
@@ -1227,7 +1206,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-OR",
     coords: [35.2, 9.2],
     name: { de: "Berg Welel", hu: "Welel-hegy", ro: "Muntele Welel", en: "Mount Welel"},
-    image: "/poi-images/mount-welel-relief-v2.webp",
     description: {
       de: "Ein markanter Gipfel im westlichen Oromia.",
       hu: "Jellegzetes csúcs nyugat-Oromiában.",
@@ -1271,7 +1249,6 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     parent: "ET-OR",
     coords: [40.1, 8.5],
     name: { de: "Berg Dino", hu: "Dino-hegy", ro: "Muntele Dino", en: "Mount Dino"},
-    image: "/poi-images/mount-dino-relief-v2.webp",
     description: {
       de: "Ein Gipfel im östlichen Hochland.",
       hu: "Csúcs a keleti felföldön.",

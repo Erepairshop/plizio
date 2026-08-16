@@ -57,7 +57,6 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: "Ras Laffan Ipari Város",
       ro: "Orașul Industrial Ras Laffan",
       en: "Ras Laffan Industrial City"},
-    image: "/poi-images/ras-laffan-industrial-city-economic-v2.webp",
     description: {
       de: "Eines der größten Exportzentren für verflüssigtes Erdgas (LNG) weltweit.",
       hu: "A világ egyik legnagyobb cseppfolyósított földgáz (LNG) exportközpontja.",
@@ -198,7 +197,6 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: "Mesaieed Ipari Város",
       ro: "Orașul Industrial Mesaieed",
       en: "Mesaieed Industrial City"},
-    image: "/poi-images/mesaieed-industrial-city-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Zentrum für Petrochemie, Düngemittelproduktion und Stahlherstellung.",
       hu: "A petrolkémia, a műtrágyagyártás és az acélgyártás jelentős központja.",
@@ -291,7 +289,6 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: "Dukhan Olajmező",
       ro: "Câmpul Petrolier Dukhan",
       en: "Dukhan Oil Field"},
-    image: "/poi-images/dukhan-oil-field-economic-v2.webp",
     description: {
       de: "Das älteste und wichtigste Onshore-Ölfeld in Katar, das die moderne Wirtschaft des Landes begründete.",
       hu: "Katar legrégebbi és legfontosabb szárazföldi olajmezője, amely megalapozta az ország modern gazdaságát.",
@@ -339,7 +336,6 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: "Északi Mező",
       ro: "Câmpul Nord",
       en: "North Field"},
-    image: "/poi-images/north-field-economic-v2.webp",
     description: {
       de: "Das weltweit größte ungebundene Erdgasfeld, das Katar zu einem globalen Energie-Giganten macht.",
       hu: "A világ legnagyobb független földgázmezője, amely Katart globális energia-óriássá teszi.",
@@ -504,7 +500,6 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: "Katar Tudományos és Technológiai Park",
       ro: "Parcul de Știință și Tehnologie Qatar",
       en: "Qatar Science & Technology Park"},
-    image: "/poi-images/qatar-science-and-technology-park-economic-v2.webp",
     description: {
       de: "Ein Zentrum für angewandte Forschung, technologische Innovation und Unternehmertum in Doha.",
       hu: "Az alkalmazott kutatás, a technológiai innováció és a vállalkozói szellem központja Dohában.",
@@ -552,7 +547,6 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: "Al Ruwais Kikötő",
       ro: "Portul Al Ruwais",
       en: "Al Ruwais Port"},
-    image: "/poi-images/al-ruwais-port-economic-v2.webp",
     description: {
       de: "Ein wichtiger Hafen im Norden Katars, der den Handel mit benachbarten Golfstaaten erleichtert.",
       hu: "Fontos kikötő Katar északi részén, amely megkönnyíti a kereskedelmet a szomszédos öböl menti országokkal.",
@@ -741,7 +735,6 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: "Qatalum Alumíniummű",
       ro: "Uzina de Aluminiu Qatalum",
       en: "Qatalum Aluminum Plant"},
-    image: "/poi-images/qatalum-aluminum-plant-economic-v2.webp",
     description: {
       de: "Eine der effizientesten und umweltfreundlichsten Aluminiumhütten der Welt.",
       hu: "A világ egyik leghatékonyabb és leginkább környezetbarát alumíniumkohója.",
@@ -789,7 +782,6 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: "Pearl GTL Üzem",
       ro: "Uzina Pearl GTL",
       en: "Pearl GTL Plant"},
-    image: "/poi-images/pearl-gtl-plant-economic-v2.webp",
     description: {
       de: "Die weltweit größte Anlage zur Umwandlung von Erdgas in flüssige Kraftstoffe (Gas-to-Liquids).",
       hu: "A világ legnagyobb létesítménye a földgáz folyékony üzemanyaggá történő átalakítására (Gas-to-Liquids).",
@@ -837,7 +829,6 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: "Halul-sziget Olajterminál",
       ro: "Terminalul Petrolier Insula Halul",
       en: "Halul Island Oil Terminal"},
-    image: "/poi-images/halul-island-oil-terminal-economic-v2.webp",
     description: {
       de: "Das wichtigste Offshore-Zentrum zur Lagerung und Verladung von Rohöl in Katar.",
       hu: "A nyersolaj tárolásának és berakodásának legfontosabb tengeri központja Katarban.",
@@ -930,7 +921,6 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: "Barzan Gázprojekt",
       ro: "Proiectul de Gaze Barzan",
       en: "Barzan Gas Project"},
-    image: "/poi-images/barzan-gas-project-economic-v2.webp",
     description: {
       de: "Ein gigantisches Projekt, das den wachsenden inländischen Energiebedarf Katars decken soll.",
       hu: "Gigantikus projekt, amelynek célja Katar növekvő hazai energiaigényének kielégítése.",
@@ -1095,7 +1085,6 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: "Doha Kikötő",
       ro: "Portul Doha",
       en: "Doha Port"},
-    image: "/poi-images/doha-port-economic-v2.webp",
     description: {
       de: "Einst der Haupthafen des Landes, heute umstrukturiert für Kreuzfahrtschiffe und Tourismus.",
       hu: "Egykor az ország fő kikötője, ma luxushajók és a turizmus számára átalakítva.",
@@ -1143,7 +1132,6 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: "Umm Bab Cementgyár",
       ro: "Fabrica de Ciment Umm Bab",
       en: "Umm Bab Cement Plant"},
-    image: "/poi-images/umm-bab-cement-plant-economic-v2.webp",
     description: {
       de: "Eine entscheidende Anlage für die Herstellung von Zement, der das rasante Bauwachstum in Katar unterstützt.",
       hu: "Döntő fontosságú létesítmény a cementgyártásban, amely támogatja Katar gyors építőipari növekedését.",
@@ -1524,7 +1512,6 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: "Ras Bufontas Szabadkereskedelmi Övezet",
       ro: "Zona Liberă Ras Bufontas",
       en: "Ras Bufontas Free Zone"},
-    image: "/poi-images/ras-bufontas-free-zone-economic-v2.webp",
     description: {
       de: "Ein hochmodernes Geschäfts- und Logistikzentrum in der Nähe des internationalen Flughafens Hamad.",
       hu: "Korszerű üzleti és logisztikai központ a Hamad Nemzetközi Repülőtér közelében.",
@@ -1617,7 +1604,6 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: "Umm Al Houl Erőmű",
       ro: "Centrala Electrică Umm Al Houl",
       en: "Umm Al Houl Power Plant"},
-    image: "/poi-images/umm-al-houl-power-plant-economic-v2.webp",
     description: {
       de: "Eines der größten Anlagen für Stromerzeugung und Wasserentsalzung im Nahen Osten.",
       hu: "A Közel-Kelet egyik legnagyobb áramtermelő és vízsótalanító létesítménye.",
@@ -1938,7 +1924,6 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: "QAFCO Műtrágyagyár",
       ro: "Fabrica de Îngrășăminte QAFCO",
       en: "QAFCO Fertilizer Plant"},
-    image: "/poi-images/qafco-fertilizer-plant-economic-v2.webp",
     description: {
       de: "Katars führendes Unternehmen für die Produktion von Ammoniak und Harnstoff für die globale Landwirtschaft.",
       hu: "Katar vezető vállalata az ammónia és a karbamid gyártásában a globális mezőgazdaság számára.",

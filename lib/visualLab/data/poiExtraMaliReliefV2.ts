@@ -12,7 +12,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Manding-hegység",
       ro: "Munții Manding",
       en: "Manding Mountains"},
-    image: "/poi-images/manding-hegyseg-relief-v2.webp",
     description: {
       de: "Ein zerklüftetes Sandsteinhochland im Südwesten Malis, das für seine zahlreichen Höhlen und Wasserfälle bekannt ist.",
       hu: "Délnyugat-Mali tagolt homokkő-fennsíkja, amely számos barlangjáról és vízeséséről ismert.",
@@ -60,7 +59,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Gondo-síkság",
       ro: "Câmpia Gondo",
       en: "Gondo Plain"},
-    image: "/poi-images/gondo-ebene-relief-v2.webp",
     description: {
       de: "Eine weite, sandige Ebene östlich des Bandiagara-Steilhangs, die einen markanten Kontrast zum angrenzenden Hochland bildet.",
       hu: "Kiterjedt, homokos síkság a Bandiagara-sziklafaltól keletre, amely éles kontrasztot alkot a szomszédos felfölddel.",
@@ -108,7 +106,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Tilemsi-völgy",
       ro: "Valea Tilemsi",
       en: "Tilemsi Valley"},
-    image: "/poi-images/tilemsi-tal-relief-v2.webp",
     description: {
       de: "Ein trockenes, fossiles Flusstal, das sich vom Adrar des Ifoghas nach Süden zum Niger-Fluss erstreckt.",
       hu: "Száraz, fosszilis folyóvölgy, amely az Adrar des Ifoghas-tól délre, a Niger-folyó felé húzódik.",
@@ -156,7 +153,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Hodh-mélyedés",
       ro: "Depresiunea Hodh",
       en: "Hodh Depression"},
-    image: "/poi-images/hodh-senke-relief-v2.webp",
     description: {
       de: "Eine flache Senke an der Grenze zwischen Mali und Mauretanien, die durch sandige Ebenen und Dünen geprägt ist.",
       hu: "Lapos mélyedés Mali és Mauritánia határán, amelyet homokos síkságok és dűnék jellemeznek.",
@@ -204,7 +200,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Erg Chech",
       ro: "Erg Chech",
       en: "Erg Chech"},
-    image: "/poi-images/erg-chech-relief-v2.webp",
     description: {
       de: "Ein riesiges Sandmeer in der Sahara, das sich über den Norden Malis erstreckt und für seine massiven Wanderdünen bekannt ist.",
       hu: "Hatalmas homoktenger a Szaharában, amely Észak-Mali felett terül el, és hatalmas vándordűnéiről ismert.",
@@ -252,7 +247,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Azaouad-síkság",
       ro: "Câmpia Azaouad",
       en: "Azaouad Plain"},
-    image: "/poi-images/azaouad-ebene-relief-v2.webp",
     description: {
       de: "Eine weite, aride Ebene im Norden Malis, die das Herzland der nomadischen Tuareg-Kultur darstellt.",
       hu: "Kiterjedt, száraz síkság Észak-Maliban, amely a nomád tuareg kultúra központi területe.",
@@ -300,7 +294,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Tambaoura-sziklafal",
       ro: "Versantul Tambaoura",
       en: "Tambaoura Escarpment"},
-    image: "/poi-images/tambaoura-steilwand-relief-v2.webp",
     description: {
       de: "Ein markanter Felsabbruch in der Kayes-Region, der die Grenze zwischen verschiedenen geologischen Formationen markiert.",
       hu: "Jellegzetes sziklafal Kayes régióban, amely határt képez a különböző geológiai formációk között.",
@@ -348,7 +341,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Kita-hegység",
       ro: "Munții Kita",
       en: "Kita Mountains"},
-    image: "/poi-images/kita-hegyseg-relief-v2.webp",
     description: {
       de: "Ein isoliertes Bergmassiv nahe der Stadt Kita, das aus harten Gesteinsschichten besteht und steile Hänge aufweist.",
       hu: "Szigetszerű hegység Kita városa közelében, amely kemény kőzetrétegekből áll és meredek lejtői vannak.",
@@ -396,7 +388,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Kígyó-völgy",
       ro: "Valea Șarpelui",
       en: "Serpent Valley"},
-    image: "/poi-images/serpent-tal-relief-v2.webp",
     description: {
       de: "Ein langgestrecktes Tal in der Nähe von Nara, dessen gewundener Verlauf an eine Schlange erinnert.",
       hu: "Hosszúkás völgy Nara közelében, amelynek kanyargós vonalvezetése egy kígyóra emlékeztet.",
@@ -449,7 +440,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Koulouba-sziklafal",
       ro: "Versantul Koulouba",
       en: "Koulouba Escarpment"},
-    image: "/poi-images/koulouba-szikla-relief-v2.webp",
     description: {
       de: "Ein markantes Hügelrelief über Bamako, auf dessen Plateau sich wichtige Regierungsgebäude befinden.",
       hu: "Jellegzetes domborzati forma Bamako felett, amelynek fennsíkján fontos kormányzati épületek találhatók.",
@@ -497,7 +487,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Birgo-hegység",
       ro: "Munții Birgo",
       en: "Birgo Mountains"},
-    image: "/poi-images/birgo-hegyseg-relief-v2.webp",
     description: {
       de: "Ein bewaldetes Berggebiet im Südwesten Malis, das einen Teil der Grenze zum benachbarten Guinea bildet.",
       hu: "Erdős hegyvidék Mali délnyugati részén, amely a szomszédos Guineával közös határ egy részét alkotja.",
@@ -545,7 +534,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Bandiagara-fennsík",
       ro: "Podișul Bandiagara",
       en: "Bandiagara Plateau"},
-    image: "/poi-images/bandiagara-fennsik-relief-v2.webp",
     description: {
       de: "Das weitläufige Sandsteinplateau oberhalb des berühmten Steilhangs, geprägt durch tiefe Schluchten und Felsformationen.",
       hu: "A híres sziklafal feletti kiterjedt homokkő-fennsík, amelyet mély szurdokok és sziklaformációk jellemeznek.",
@@ -593,7 +581,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Koutiala-fennsík",
       ro: "Podișul Koutiala",
       en: "Koutiala Plateau"},
-    image: "/poi-images/koutiala-fennsik-relief-v2.webp",
     description: {
       de: "Ein fruchtbares Plateau im Süden Malis, das eine wichtige landwirtschaftliche Zone für den Baumwollanbau darstellt.",
       hu: "Termékeny fennsík Dél-Maliban, amely a gyapottermesztés fontos mezőgazdasági övezete.",
@@ -641,7 +628,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "M'Péba-dűnék",
       ro: "Dunele M'Péba",
       en: "M'Péba Dunes"},
-    image: "/poi-images/mpeba-dunek-relief-v2.webp",
     description: {
       de: "Große Sanddünen in der Region Ségou, die einen Vorposten der saharischen Wüstenlandschaft im fruchtbaren Becken bilden.",
       hu: "Hatalmas homokdűnék Ségou régióban, amelyek a szaharai sivatagi táj előörsei a termékeny medencében.",
@@ -689,7 +675,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Banamba-dombok",
       ro: "Dealurile Banamba",
       en: "Banamba Hills"},
-    image: "/poi-images/banamba-dombok-relief-v2.webp",
     description: {
       de: "Eine Kette sanfter Erhebungen um die Stadt Banamba, die durch Erosion aus der umliegenden Ebene entstanden sind.",
       hu: "Szelíd emelkedők láncolata Banamba városa körül, amelyek az erózió révén jöttek létre a környező síkságból.",
@@ -737,7 +722,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Koulikoro-dombság",
       ro: "Dealurile Koulikoro",
       en: "Koulikoro Hills"},
-    image: "/poi-images/koulikoro-dombsag-relief-v2.webp",
     description: {
       de: "Eine markante Hügellandschaft am Ufer des Niger, die für ihre bizarren Felsformationen und Aussichtspunkte bekannt ist.",
       hu: "Jellegzetes dombos táj a Niger partján, amely bizarr sziklaformációiról és kilátópontjairól ismert.",
@@ -785,7 +769,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Kaarta-fennsík",
       ro: "Podișul Kaarta",
       en: "Kaarta Plateau"},
-    image: "/poi-images/kaarta-fennsik-relief-v2.webp",
     description: {
       de: "Ein historisch bedeutsames Hochplateau im Westen Malis, das einst das Zentrum des Kaarta-Bambara-Reiches war.",
       hu: "Történelmileg jelentős fennsík Nyugat-Maliban, amely valaha a Kaarta Bambara Birodalom központja volt.",
@@ -833,7 +816,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Kéniéba-fennsík",
       ro: "Podișul Kéniéba",
       en: "Kéniéba Plateau"},
-    image: "/poi-images/kenieba-fennsik-relief-v2.webp",
     description: {
       de: "Ein ressourcenreiches Plateau im äußersten Westen Malis, das für seine bedeutenden Goldvorkommen bekannt ist.",
       hu: "Erőforrásokban gazdag fennsík Mali legnyugatibb részén, amely jelentős aranylelőhelyeiről ismert.",
@@ -881,7 +863,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Bélédougou-fennsík",
       ro: "Podișul Bélédougou",
       en: "Bélédougou Plateau"},
-    image: "/poi-images/beledougou-fennsik-relief-v2.webp",
     description: {
       de: "Ein ausgedehntes Hochland nördlich von Bamako, das durch karge Böden und eine traditionsreiche Kultur geprägt ist.",
       hu: "Kiterjedt felföld Bamakótól északra, amelyet szegényes talaj és hagyományokban gazdag kultúra jellemez.",
@@ -929,7 +910,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Gao-síkság",
       ro: "Câmpia Gao",
       en: "Gao Plain"},
-    image: "/poi-images/gao-siksag-relief-v2.webp",
     description: {
       de: "Eine weite, flache Schwemmebene entlang des Niger-Flusses bei Gao, die durch saisonale Überflutungen geprägt ist.",
       hu: "Széles, lapos ártéri síkság a Niger mentén Gao közelében, amelyet szezonális áradások jellemeznek.",
@@ -977,7 +957,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Kandjoura-völgy",
       ro: "Valea Kandjoura",
       en: "Kandjoura Valley"},
-    image: "/poi-images/kandjoura-tal-relief-v2.webp",
     description: {
       de: "Ein markantes Tal im Westen Malis, geformt durch die Erosion eines Nebenflusses des Senegal.",
       hu: "Jellegzetes völgy Nyugat-Maliban, amelyet a Szenegál egyik mellékfolyójának eróziója formált.",
@@ -1025,7 +1004,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Yatenga-dombság",
       ro: "Poalele Yatenga",
       en: "Yatenga Foothills"},
-    image: "/poi-images/yatenga-dombsag-relief-v2.webp",
     description: {
       de: "Sanfte Hügelausläufer im Osten Malis, die sich bis nach Burkina Faso erstrecken.",
       hu: "Szelíd dombságok Mali keleti részén, amelyek átnyúlnak Burkina Fasóba.",
@@ -1073,7 +1051,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Sourou-mélyedés",
       ro: "Depresiunea Sourou",
       en: "Sourou Depression"},
-    image: "/poi-images/sourou-senke-relief-v2.webp",
     description: {
       de: "Eine wasserreiche Senke im Grenzgebiet zu Burkina Faso, die durch den Sourou-Fluss bewässert wird.",
       hu: "Vízben gazdag mélyedés a Burkina Fasó-i határvidéken, amelyet a Sourou-folyó öntöz.",
@@ -1121,7 +1098,6 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: "Baoulé-erdő",
       ro: "Pădurea Baoulé",
       en: "Baoulé Forest"},
-    image: "/poi-images/baoule-erdo-relief-v2.webp",
     description: {
       de: "Ein ausgedehntes Wald- und Savannengebiet im westlichen Mali, das als Schutzraum für bedrohte Tierarten dient.",
       hu: "Kiterjedt erdő- és szavannaterület Nyugat-Maliban, amely veszélyeztetett állatfajok menedékeként szolgál.",

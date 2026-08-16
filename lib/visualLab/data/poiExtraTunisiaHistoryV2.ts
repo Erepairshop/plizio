@@ -309,7 +309,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Karthágó romjai",
       ro: "Ruinele Cartaginei",
       en: "Ruins of Carthage"},
-    image: "/poi-images/carthage-ruins-history-v2.webp",
     description: {
       de: "Die antiken Ruinen einer der mächtigsten Städte des Mittelmeerraums, die in den Punischen Kriegen gegen Rom kämpfte.",
       hu: "A Földközi-tenger egyik leghatalmasabb városának ókori romjai, amely a pun háborúkban Róma ellen harcolt.",
@@ -618,7 +617,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "El Dzsem-i amfiteátrum",
       ro: "Amfiteatrul din El Djem",
       en: "Amphitheatre of El Jem"},
-    image: "/poi-images/el-djem-amphitheatre-history-v2.webp",
     description: {
       de: "Ein monumentales römisches Amphitheater, das drittgrößte der antiken Welt, welches für Gladiatorenkämpfe genutzt wurde.",
       hu: "Egy monumentális római amfiteátrum, az ókori világ harmadik legnagyobbika, amelyet gladiátorharcokra használtak.",
@@ -1359,7 +1357,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Dougga régészeti lelőhelye",
       ro: "Situl arheologic Dougga",
       en: "Dougga Archaeological Site"},
-    image: "/poi-images/dougga-archaeological-history-v2.webp",
     description: {
       de: "Eine der am besten erhaltenen römischen Kleinstädte Nordafrikas, gelegen auf einem Hügel mit Blick auf ein fruchtbares Tal.",
       hu: "Észak-Afrika egyik legjobb állapotban fennmaradt római kisvárosa, amely egy termékeny völgyre néző dombon fekszik.",
@@ -1560,7 +1557,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Kairouani nagymecset",
       ro: "Marea Moschee din Kairouan",
       en: "Great Mosque of Kairouan"},
-    image: "/poi-images/great-mosque-kairouan-history-v2.webp",
     description: {
       de: "Eine der ältesten und bedeutendsten islamischen Kultstätten Nordafrikas, die im Jahr 670 gegründet wurde.",
       hu: "Észak-Afrika egyik legrégebbi és legfontosabb iszlám istentiszteleti helye, amelyet 670-ben alapítottak.",
@@ -1686,7 +1682,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Tunisz medinája",
       ro: "Medina din Tunis",
       en: "Medina of Tunis"},
-    image: "/poi-images/medina-of-tunis-history-v2.webp",
     description: {
       de: "Das historische Herz der tunesischen Hauptstadt, bekannt für sein Labyrinth aus engen Gassen, Moscheen und farbenfrohen Märkten.",
       hu: "A tunéziai főváros történelmi szíve, amely szűk sikátorainak, mecseteinek és színes piacainak útvesztőjéről ismert.",
@@ -1731,7 +1726,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Sousse medinája",
       ro: "Medina din Sousse",
       en: "Medina of Sousse"},
-    image: "/poi-images/medina-of-sousse-history-v2.webp",
     description: {
       de: "Ein herausragendes Beispiel der arabisch-muslimischen Architektur und Stadtplanung der ersten Jahrhunderte des Islam.",
       hu: "Az iszlám első évszázadainak arab-muszlim építészetének és várostervezésének kiemelkedő példája.",
@@ -2853,7 +2847,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Bulla Regia régészeti lelőhelye",
       ro: "Situl arheologic Bulla Regia",
       en: "Bulla Regia Archaeological Site"},
-    image: "/poi-images/bulla-regia-history-v2.webp",
     description: {
       de: "Eine römische Stadt, die für ihre einzigartigen unterirdischen Villen bekannt ist, die als Schutz vor der Sommerhitze gebaut wurden.",
       hu: "Egy római város, amely egyedülálló földalatti villáiról ismert, amelyeket a nyári hőség elleni védekezésül építettek.",
@@ -3090,7 +3083,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Thuburbo Majus",
       ro: "Thuburbo Majus",
       en: "Thuburbo Majus"},
-    image: "/poi-images/thuburbo-majus-history-v2.webp",
     description: {
       de: "Eine große römische Ausgrabungsstätte, die die Überreste eines prächtigen Kapitols und weitläufiger Badeanlagen beherbergt.",
       hu: "Egy hatalmas római régészeti lelőhely, amely egy csodálatos Capitolium és kiterjedt fürdőkomplexumok maradványainak ad otthont.",
@@ -3471,7 +3463,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Makthar régészeti lelőhely",
       ro: "Situl arheologic Makthar",
       en: "Maktaris Archaeological Site"},
-    image: "/poi-images/maktaris-archaeological-history-v2.webp",
     description: {
       de: "Eine antike numidische und römische Siedlung, bekannt für ihren monumentalen Trajansbogen und das Forum.",
       hu: "Egy ókori numídiai és római település, amely monumentális Traianus-diadalívéről és fórumáról ismert.",
@@ -3672,7 +3663,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Oudna régészeti lelőhely",
       ro: "Situl arheologic Oudna",
       en: "Oudna Archaeological Site"},
-    image: "/poi-images/oudna-archaeological-history-v2.webp",
     description: {
       de: "Die antike Stadt Uthina, berühmt für ihr halb in den Boden gegrabenes römisches Amphitheater und beeindruckende Villenmosaike.",
       hu: "Az ókori Uthina városa, amely félig a földbe süllyesztett római amfiteátrumáról és lenyűgöző villamozaikjairól híres.",
@@ -3801,7 +3791,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Kerkouane pun városa",
       ro: "Orașul punic Kerkouane",
       en: "Punic Town of Kerkouane"},
-    image: "/poi-images/kerkouane-punic-town-history-v2.webp",
     description: {
       de: "Eine der am besten erhaltenen punischen Städte, die von den Römern zerstört und nie wieder aufgebaut wurde.",
       hu: "Az egyik legjobban megőrzött pun város, amelyet a rómaiak elpusztítottak, és soha nem építettek újjá.",
@@ -4542,7 +4531,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Chemtou régészeti lelőhelye",
       ro: "Situl arheologic Chemtou",
       en: "Chemtou Archaeological Site"},
-    image: "/poi-images/chemtou-archaeological-history-v2.webp",
     description: {
       de: "Die antike numidische Stadt Simitthus, berühmt für ihre Steinbrüche mit gelbem und rosa Marmor, der im gesamten römischen Reich begehrt war.",
       hu: "Simitthus ősi numídiai városa, amely a Római Birodalom-szerte keresett sárga és rózsaszín márvány kőbányáiról híres.",
@@ -5391,7 +5379,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Matmata barlangfalu",
       ro: "Satul troglodit Matmata",
       en: "Matmata Troglodyte Village"},
-    image: "/poi-images/matmata-troglodyte-history-v2.webp",
     description: {
       de: "Ein historisches Berberdorf, das für seine unterirdischen Höhlenwohnungen bekannt ist, die vor extremen Wüstenklimabedingungen schützen.",
       hu: "Egy történelmi berber falu, amely földalatti barlanglakásairól ismert, amelyek védelmet nyújtanak az extrém sivatagi éghajlattal szemben.",
@@ -5484,7 +5471,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Monasztiri Ribat",
       ro: "Ribatul din Monastir",
       en: "Ribat of Monastir"},
-    image: "/poi-images/ribat-of-monastir-history-v2.webp",
     description: {
       de: "Eine mächtige islamische Verteidigungsfestung am Meer, die im 8. Jahrhundert zum Schutz vor byzantinischen Flottenangriffen erbaut wurde.",
       hu: "Egy hatalmas, tengerparti iszlám védelmi erődítmény, amelyet a 8. században építettek a bizánci flotta támadásai elleni védekezésül.",
@@ -5757,7 +5743,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Al-Zaytuna mecset",
       ro: "Moscheea Al-Zaytuna",
       en: "Al-Zaytuna Mosque"},
-    image: "/poi-images/al-zaytuna-mosque-history-v2.webp",
     description: {
       de: "Die größte und älteste Moschee in der Hauptstadt Tunis, bekannt für ihre Säulenhalle mit wiederverwendeten römischen Säulen.",
       hu: "A főváros, Tunisz legnagyobb és legrégebbi mecsete, amely újrahasznosított római oszlopokkal díszített oszlopcsarnokáról ismert.",
@@ -5994,7 +5979,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Bardo Nemzeti Múzeum",
       ro: "Muzeul Național Bardo",
       en: "Bardo National Museum"},
-    image: "/poi-images/bardo-national-museum-history-v2.webp",
     description: {
       de: "Ein historischer Palast, der heute die weltweit größte Sammlung römischer Mosaike sowie punische und islamische Kunstwerke beherbergt.",
       hu: "Egy történelmi palota, amely ma a világ legnagyobb római mozaikgyűjteményének, valamint pun és iszlám műalkotásoknak ad otthont.",
@@ -6042,7 +6026,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Zaghouani vízvezeték",
       ro: "Apeductul din Zaghouan",
       en: "Zaghouan Aqueduct"},
-    image: "/poi-images/zaghouan-aqueduct-history-v2.webp",
     description: {
       de: "Ein massives römisches Wasserbausystem, das im 2. Jahrhundert erbaut wurde, um Karthago mit frischem Quellwasser zu versorgen.",
       hu: "Egy hatalmas római vízépítési rendszer, amelyet a 2. században építettek, hogy Karthágót friss forrásvízzel lássák el.",
@@ -6255,7 +6238,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Utica régészeti lelőhelye",
       ro: "Situl arheologic Utica",
       en: "Utica Archaeological Site"},
-    image: "/poi-images/utica-archaeological-history-v2.webp",
     description: {
       de: "Die traditionell als älteste phönizische Siedlung in Nordafrika geltende Stadt, die später eine wichtige römische Kolonie wurde.",
       hu: "A hagyományosan Észak-Afrika legrégebbi föníciai településének tartott város, amely később fontos római coloniává vált.",
@@ -6528,7 +6510,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Neapolis régészeti lelőhelye",
       ro: "Situl arheologic Neapolis",
       en: "Neapolis Archaeological Site"},
-    image: "/poi-images/neapolis-nabeul-history-v2.webp",
     description: {
       de: "Die Ruinen der antiken Stadt Neapolis, die ein bedeutendes Zentrum für die Herstellung des römischen Fischgewürzes Garum war.",
       hu: "Neapolis ókori város romjai, amely a garum nevű római fűszeres halszósz előállításának fontos központja volt.",
@@ -8010,7 +7991,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Salacta katakombái",
       ro: "Catacombele din Salacta",
       en: "Salacta Catacombs"},
-    image: "/poi-images/salacta-catacombs-history-v2.webp",
     description: {
       de: "Ein historisches christliches Katakombensystem nahe der Küste, das Teil der antiken Hafenstadt Sullecthum war.",
       hu: "Történelmi keresztény katakombarendszer a part közelében, amely az ókori Sullecthum kikötőváros része volt.",
@@ -8139,7 +8119,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Haidra régészeti lelőhelye",
       ro: "Situl arheologic Haidra",
       en: "Haidra Archaeological Site"},
-    image: "/poi-images/haidra-ammaedara-history-v2.webp",
     description: {
       de: "Die antike römische Festungsstadt Ammaedara, die eines der größten byzantinischen Kastelle in Nordafrika beherbergt.",
       hu: "Ammaedara ókori római erődvárosa, amely Észak-Afrika egyik legnagyobb bizánci várának ad otthont.",
@@ -8232,7 +8211,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Sfax medinája",
       ro: "Medina din Sfax",
       en: "Medina of Sfax"},
-    image: "/poi-images/medina-of-sfax-history-v2.webp",
     description: {
       de: "Eine der am besten erhaltenen mittelalterlichen islamischen Altstädte, umgeben von massiven Stadtmauern aus dem 9. Jahrhundert.",
       hu: "Az egyik legjobban megőrzött középkori iszlám óváros, amelyet a 9. századból származó hatalmas városfalak vesznek körül.",
@@ -8541,7 +8519,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Musti régészeti lelőhelye",
       ro: "Situl arheologic Musti",
       en: "Musti Archaeological Site"},
-    image: "/poi-images/musti-archaeological-history-v2.webp",
     description: {
       de: "Eine dicht besiedelte römische Stadt an der Straße zwischen Karthago und Tébessa, bekannt für ihre Triumphtore und Zisternen.",
       hu: "Egy sűrűn lakott római város a Karthágó és Tébessa közötti úton, amely diadalíveiről és ciszternáiról ismert.",
@@ -8634,7 +8611,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Gigthis régészeti lelőhelye",
       ro: "Situl arheologic Gigthis",
       en: "Gigthis Archaeological Site"},
-    image: "/poi-images/gigthis-archaeological-history-v2.webp",
     description: {
       de: "Die Ruinen einer antiken punischen und später römischen Hafenstadt am Golf von Boughrara.",
       hu: "Egy ókori pun, majd később római kikötőváros romjai a Boughrara-öbölben.",
@@ -8871,7 +8847,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Tozeur medinája",
       ro: "Medina din Tozeur",
       en: "Medina of Tozeur"},
-    image: "/poi-images/medina-tozeur-history-v2.webp",
     description: {
       de: "Das historische Viertel Ouled El Hadef, berühmt für seine einzigartige Architektur aus traditionellen hellen Lehmziegeln mit geometrischen Mustern.",
       hu: "A történelmi Ouled El Hadef negyed, amely egyedülálló, geometriai mintázatú, hagyományos világos vályogtéglákból épült építészetéről híres.",
@@ -9432,7 +9407,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: "Skifa el Kahla",
       ro: "Skifa el Kahla",
       en: "Skifa el Kahla"},
-    image: "/poi-images/skifa-el-kahla-history-v2.webp",
     description: {
       de: "Ein massives befestigtes Tor, auch das 'Dunkle Tor' genannt, das einst der einzige Landzugang zur fatimidischen Hauptstadt Mahdia war.",
       hu: "Egy hatalmas erődített kapu, más néven a \"Sötét kapu\", amely egykor a Fátimida főváros, Mahdia egyetlen szárazföldi bejárata volt.",

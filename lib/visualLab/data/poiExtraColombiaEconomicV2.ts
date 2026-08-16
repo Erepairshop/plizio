@@ -161,7 +161,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-VAC",
     coords: [-77.0270, 3.8824],
     name: { de: "Hafen von Buenaventura", hu: "Buenaventura kikötője", ro: "Portul Buenaventura", en: "Port of Buenaventura"},
-    image: "/poi-images/port-buenaventura-economic-v2.webp",
     description: { de: "Der wichtigste Seehafen Kolumbiens an der Pazifikküste, über den der Großteil des kolumbianischen Außenhandels abgewickelt wird.", hu: "Kolumbia legfontosabb csendes-óceáni tengeri kikötője, amelyen keresztül a kolumbiai külkereskedelem nagy része bonyolódik.", ro: "Cel mai important port maritim al Columbiei pe coasta Pacificului, prin care trece mare parte din comerțul exterior columbian.", en: "Colombia's most important seaport on the Pacific coast, handling the majority of the country's foreign trade." , es: "El puerto marítimo más importante de Colombia en la costa del Pacífico, a través del cual se realiza la mayor parte del comercio exterior colombiano.", pt: "O porto marítimo mais importante da Colômbia na costa do Pacífico, através do qual é realizada a maior parte do comércio exterior colombiano.", fr: "Le port maritime le plus important de Colombie sur la côte Pacifique, par lequel transite la majeure partie du commerce extérieur colombien."},
     facts: {
       de: ["Größter Pazifikhafen des Landes.", "Wichtig für Kaffee- und Zuckerexport."],
@@ -1434,7 +1433,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-BOL",
     coords: [-75.5186, 10.3756],
     name: { de: "Hafen von Cartagena", hu: "Cartagena kikötője", ro: "Portul Cartagena", en: "Port of Cartagena"},
-    image: "/poi-images/port-cartagena-economic-v2.webp",
     description: { de: "Einer der wichtigsten Häfen der Karibik, zentral für Containerfracht und den Export von Industriegütern und Erdölprodukten.", hu: "A Karib-térség egyik legfontosabb kikötője, központi szerepet játszik a konténerszállításban, valamint az ipari és kőolajtermékek exportjában.", ro: "Unul dintre cele mai importante porturi din Caraibe, esențial pentru traficul de containere și exportul de produse industriale și petroliere.", en: "One of the most important ports in the Caribbean, central to container freight and the export of industrial and petroleum products." , es: "Uno de los puertos más importantes del Caribe, central para la carga de contenedores y la exportación de productos industriales y derivados del petróleo.", pt: "Um dos portos mais importantes do Caribe, central para o transporte de contentores e a exportação de produtos industriais e derivados de petróleo.", fr: "L'un des ports les plus importants des Caraïbes, central pour le fret par conteneurs et l'exportation de produits industriels et pétroliers."},
     facts: {
       de: ["Führender Containerhafen in Kolumbien.", "Starker Fokus auf Petrochemie."],
@@ -3706,7 +3704,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-SAN",
     coords: [-73.8643, 7.0544],
     name: { de: "Raffinerie Barrancabermeja", hu: "Barrancabermeja Finomító", ro: "Rafinăria Barrancabermeja", en: "Barrancabermeja Refinery"},
-    image: "/poi-images/refinery-barrancabermeja-economic-v2.webp",
     description: { de: "Die größte und wichtigste Erdölraffinerie Kolumbiens, die den größten Teil des inländischen Treibstoffbedarfs deckt.", hu: "Kolumbia legnagyobb és legfontosabb kőolajfinomítója, amely a hazai üzemanyagigény nagy részét fedezi.", ro: "Cea mai mare și importantă rafinărie de petrol din Columbia, acoperind cea mai mare parte a cererii interne de combustibil.", en: "The largest and most important oil refinery in Colombia, covering most of the domestic fuel demand." , es: "La refinería de petróleo más grande e importante de Colombia, que cubre la mayor parte de la demanda nacional de combustible.", pt: "A maior e mais importante refinaria de petróleo da Colômbia, que supre a maior parte da procura interna de combustível.", fr: "La raffinerie de pétrole la plus grande et la plus importante de Colombie, qui couvre la majeure partie des besoins nationaux en carburant."},
     facts: {
       de: ["Größte Raffinerie Kolumbiens.", "Verarbeitet Rohöl aus den Llanos-Becken."],
@@ -3744,7 +3741,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-LAG",
     coords: [-72.6366, 11.0872],
     name: { de: "Kohlemine El Cerrejón", hu: "El Cerrejón Szénbánya", ro: "Mina de Cărbune El Cerrejón", en: "El Cerrejón Coal Mine"},
-    image: "/poi-images/cerrejon-coal-mine-economic-v2.webp",
     description: { de: "Einer der größten Steinkohletagebaue der Welt, von enormer wirtschaftlicher Bedeutung für die Exportwirtschaft Kolumbiens.", hu: "A világ egyik legnagyobb külszíni kőszénbányája, amely óriási gazdasági jelentőséggel bír Kolumbia exportgazdasága számára.", ro: "Una dintre cele mai mari mine de cărbune la suprafață din lume, de o importanță economică enormă pentru economia de export a Columbiei.", en: "One of the world's largest open-pit hard coal mines, of enormous economic importance for Colombia's export economy." , es: "Una de las minas de carbón a cielo abierto más grandes del mundo, de enorme importancia económica para la economía de exportación de Colombia.", pt: "Uma das maiores minas de carvão a céu aberto do mundo, de enorme importância económica para a economia de exportação da Colômbia.", fr: "L'une des plus grandes mines de charbon à ciel ouvert au monde, d'une importance économique énorme pour l'économie d'exportation de la Colombie."},
     facts: {
       de: ["Größter Kohletagebau Lateinamerikas.", "Verfügt über eine eigene Eisenbahnlinie."],
@@ -3827,7 +3823,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-CES",
     coords: [-73.5796, 9.6106],
     name: { de: "Kohlemine La Loma", hu: "La Loma Szénbánya", ro: "Mina de Cărbune La Loma", en: "La Loma Coal Mine"},
-    image: "/poi-images/la-loma-drummond-mine-economic-v2.webp",
     description: { de: "Ein bedeutender Steinkohletagebau im Departamento Cesar, betrieben vom multinationalen Unternehmen Drummond.", hu: "Jelentős külszíni kőszénbánya Cesar megyében, amelyet a Drummond multinacionális vállalat üzemeltet.", ro: "O mină importantă de cărbune la suprafață în departamentul Cesar, operată de compania multinațională Drummond.", en: "A major open-pit hard coal mine in the Cesar Department, operated by the multinational company Drummond." , es: "Una importante mina de carbón a cielo abierto en el departamento del Cesar, operada por la multinacional Drummond.", pt: "Uma importante mina de carvão a céu aberto no departamento de Cesar, operada pela multinacional Drummond.", fr: "Une importante mine de charbon à ciel ouvert dans le département de Cesar, exploitée par la multinationale Drummond."},
     facts: {
       de: ["Zweitgrößter Kohleproduzent des Landes.", "Exportiert hauptsächlich nach Europa und Asien."],
@@ -5611,7 +5606,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-DC",
     coords: [-74.1481, 4.6732],
     name: { de: "Freihandelszone Bogotá", hu: "Bogotá Szabadkereskedelmi Övezet", ro: "Zona Liberă Bogotá", en: "Bogotá Free Trade Zone"},
-    image: "/poi-images/free-zone-bogota-economic-v2.webp",
     description: { de: "Ein riesiger Industriepark, der Logistik, Technologie und Fertigung vereint und steuerliche Vorteile bietet.", hu: "Hatalmas ipari park, amely egyesíti a logisztikát, a technológiát és a gyártást, valamint adókedvezményeket kínál.", ro: "Un imens parc industrial care combină logistica, tehnologia și producția, oferind beneficii fiscale.", en: "A massive industrial park combining logistics, technology, and manufacturing, offering tax benefits." , es: "Un enorme parque industrial que combina logística, tecnología y fabricación, ofreciendo beneficios fiscales.", pt: "Um enorme parque industrial que combina logística, tecnologia e fabricação, oferecendo benefícios fiscais.", fr: "Un immense parc industriel alliant logistique, technologie et fabrication, offrant des avantages fiscaux."},
     facts: {
       de: ["Einer der größten Industrieparks im Inland.", "Fokus auf BPO, Technologie und Logistik."],
@@ -5730,7 +5724,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-VAC",
     coords: [-76.4526, 3.5356],
     name: { de: "Freihandelszone Pacífico", hu: "Pacífico Szabadkereskedelmi Övezet", ro: "Zona Liberă Pacífico", en: "Pacific Free Trade Zone"},
-    image: "/poi-images/free-zone-pacifico-economic-v2.webp",
     description: { de: "Eine strategisch in Palmira gelegene Wirtschaftszone, die sich auf Logistik und Außenhandel für die Pazifikregion konzentriert.", hu: "Stratégiailag Palmirában elhelyezkedő gazdasági övezet, amely a csendes-óceáni régió logisztikájára és külkereskedelmére összpontosít.", ro: "O zonă economică situată strategic în Palmira, axată pe logistică și comerț exterior pentru regiunea Pacificului.", en: "A strategically located economic zone in Palmira, focusing on logistics and foreign trade for the Pacific region." , es: "Una zona económica estratégicamente ubicada en Palmira, enfocada en logística y comercio exterior para la región del Pacífico.", pt: "Uma zona económica estrategicamente localizada em Palmira, focada na logística e no comércio externo para a região do Pacífico.", fr: "Une zone économique stratégiquement située à Palmira, axée sur la logistique et le commerce extérieur pour la région du Pacifique."},
     facts: {
       de: ["Nähe zum internationalen Flughafen Cali.", "Wichtig für Exporte Richtung Asien."],
@@ -6317,7 +6310,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-MAG",
     coords: [-74.1956, 11.1685],
     name: { de: "Freihandelszone Tayrona", hu: "Tayrona Szabadkereskedelmi Övezet", ro: "Zona Liberă Tayrona", en: "Tayrona Free Trade Zone"},
-    image: "/poi-images/free-zone-tayrona-economic-v2.webp",
     description: { de: "Ein bedeutender Industriepark in Santa Marta, der Unternehmen im Bereich Logistik und Export bedient.", hu: "Jelentős ipari park Santa Martában, amely logisztikai és exporttevékenységet folytató vállalatokat szolgál ki.", ro: "Un parc industrial major în Santa Marta, care deservește companii din domeniul logisticii și exportului.", en: "A major industrial park in Santa Marta, serving companies in logistics and export." , es: "Un importante parque industrial en Santa Marta que atiende a empresas de logística y exportación.", pt: "Um importante parque industrial em Santa Marta que atende empresas de logística e exportação.", fr: "Un parc industriel majeur à Santa Marta desservant les entreprises de logistique et d'exportation."},
     facts: {
       de: ["Fördert die Industrialisierung der Karibikküste.", "Vorteile durch Nähe zum Seehafen."],
@@ -6544,7 +6536,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-SAN",
     coords: [-73.1539, 7.0427],
     name: { de: "Freihandelszone Santander", hu: "Santander Szabadkereskedelmi Övezet", ro: "Zona Liberă Santander", en: "Santander Free Trade Zone"},
-    image: "/poi-images/free-zone-santander-economic-v2.webp",
     description: { de: "Eine wachsende Industrie- und Dienstleistungszone nahe Bucaramanga, die besonders den BPO- und Gesundheitssektor anzieht.", hu: "Növekvő ipari és szolgáltatási övezet Bucaramanga közelében, amely különösen a BPO és az egészségügyi ágazatot vonzza.", ro: "O zonă industrială și de servicii în creștere lângă Bucaramanga, care atrage în special sectoarele BPO și de sănătate.", en: "A growing industrial and service zone near Bucaramanga, particularly attracting the BPO and healthcare sectors." , es: "Una zona industrial y de servicios en crecimiento cerca de Bucaramanga, que atrae especialmente a los sectores de BPO y salud.", pt: "Uma zona industrial e de serviços em crescimento perto de Bucaramanga, que atrai especialmente os setores de BPO e saúde.", fr: "Une zone industrielle et de services en pleine croissance près de Bucaramanga, qui attire particulièrement les secteurs du BPO et de la santé."},
     facts: {
       de: ["Fokus auf Dienstleistungsexporte.", "Global agierende Unternehmen ansässig."],
@@ -6771,7 +6762,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-LAG",
     coords: [-71.9791, 12.2530],
     name: { de: "Puerto Bolívar (Kohlehafen)", hu: "Puerto Bolívar (Szénkikötő)", ro: "Puerto Bolívar (Port de Cărbune)", en: "Puerto Bolívar (Coal Port)"},
-    image: "/poi-images/puerto-bolivar-economic-v2.webp",
     description: { de: "Der größte Kohleexporthafen Lateinamerikas, betrieben exklusiv für den Abtransport der Kohle aus El Cerrejón.", hu: "Latin-Amerika legnagyobb szénexportáló kikötője, amelyet kizárólag az El Cerrejónból származó szén elszállítására üzemeltetnek.", ro: "Cel mai mare port de export de cărbune din America Latină, operat exclusiv pentru transportul cărbunelui de la El Cerrejón.", en: "Latin America's largest coal export port, operated exclusively for the transport of coal from El Cerrejón." , es: "El puerto de exportación de carbón más grande de América Latina, operado exclusivamente para el transporte de carbón de El Cerrejón.", pt: "O maior porto de exportação de carvão da América Latina, operado exclusivamente para o transporte de carvão de El Cerrejón.", fr: "Le plus grand port d'exportation de charbon d'Amérique latine, exploité exclusivement pour l'évacuation du charbon d'El Cerrejón."},
     facts: {
       de: ["Kann Kap-Klasse-Schiffe abfertigen.", "Zentraler Knotenpunkt für den globalen Kohlehandel."],
@@ -7142,7 +7132,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-MAG",
     coords: [-74.2272, 10.9926],
     name: { de: "Puerto Nuevo (Kohlehafen)", hu: "Puerto Nuevo (Szénkikötő)", ro: "Puerto Nuevo (Port de Cărbune)", en: "Puerto Nuevo (Coal Port)"},
-    image: "/poi-images/puerto-nuevo-economic-v2.webp",
     description: { de: "Ein moderner Exporthafen für Steinkohle mit einem Direktverladesystem, das Umweltbelastungen minimiert.", hu: "Modern kőszénexportáló kikötő közvetlen rakodási rendszerrel, amely minimalizálja a környezetterhelést.", ro: "Un port modern de export pentru cărbune, cu un sistem de încărcare directă care minimizează impactul asupra mediului.", en: "A modern hard coal export port with a direct loading system that minimizes environmental impact." , es: "Un moderno puerto de exportación de hulla con un sistema de carga directa que minimiza el impacto ambiental.", pt: "Um moderno porto de exportação de carvão mineral com um sistema de carregamento direto que minimiza o impacto ambiental.", fr: "Un port d'exportation moderne pour la houille, doté d'un système de chargement direct qui minimise l'impact sur l'environnement."},
     facts: {
       de: ["Modernes Direktverladesystem.", "Reduziert Kohlenstaub in der Karibik."],
@@ -7180,7 +7169,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-ANT",
     coords: [-75.6703, 7.1352],
     name: { de: "Wasserkraftwerk Ituango", hu: "Ituango Vízerőmű", ro: "Hidrocentrala Ituango", en: "Ituango Hydroelectric Dam"},
-    image: "/poi-images/hidroituango-dam-economic-v2.webp",
     description: { de: "Das größte Wasserkraftprojekt Kolumbiens, entworfen um einen wesentlichen Teil des nationalen Strombedarfs zu decken.", hu: "Kolumbia legnagyobb vízenergia-projektje, amelyet úgy terveztek, hogy a nemzeti villamosenergia-igény jelentős részét fedezze.", ro: "Cel mai mare proiect hidroelectric din Columbia, conceput pentru a acoperi o parte semnificativă a cererii naționale de energie electrică.", en: "Colombia's largest hydroelectric project, designed to cover a significant part of the national electricity demand." , es: "El proyecto hidroeléctrico más grande de Colombia, diseñado para cubrir una parte sustancial de la demanda eléctrica nacional.", pt: "O maior projeto hidrelétrico da Colômbia, concebido para satisfazer uma parte substancial da procura nacional de eletricidade.", fr: "Le plus grand projet hydroélectrique de Colombie, conçu pour répondre à une part substantielle de la demande électrique nationale."},
     facts: {
       de: ["Größtes Infrastrukturprojekt des Landes.", "Nutzt das Wasser des Río Cauca."],
@@ -7371,7 +7359,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-BOY",
     coords: [-73.2383, 4.8812],
     name: { de: "Wasserkraftwerk Chivor", hu: "Chivor Vízerőmű", ro: "Hidrocentrala Chivor", en: "Chivor Hydroelectric Plant"},
-    image: "/poi-images/chivor-hydro-economic-v2.webp",
     description: { de: "Eine der wichtigsten Stauanlagen in Kolumbien, die wesentlich zur Energieproduktion im Zentrum des Landes beiträgt.", hu: "Kolumbia egyik legfontosabb duzzasztógátja, amely jelentősen hozzájárul az ország középső részének energiatermeléséhez.", ro: "Unul dintre cele mai importante baraje din Columbia, care contribuie semnificativ la producția de energie în centrul țării.", en: "One of the most important dam facilities in Colombia, contributing significantly to energy production in the center of the country." , es: "Una de las centrales hidroeléctricas más importantes de Colombia, que contribuye significativamente a la producción de energía en el centro del país.", pt: "Uma das centrais hidroelétricas mais importantes da Colômbia, que contribui significativamente para a produção de energia no centro do país.", fr: "L'une des centrales hydroélectriques les plus importantes de Colombie, qui contribue de manière significative à la production d'énergie dans le centre du pays."},
     facts: {
       de: ["Erzeugt Strom für das Stromnetz Zentralkolumbiens.", "Ein beeindruckender Staudamm in den Anden."],
@@ -7409,7 +7396,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-CUN",
     coords: [-73.3050, 4.7214],
     name: { de: "Wasserkraftwerk Guavio", hu: "Guavio Vízerőmű", ro: "Hidrocentrala Guavio", en: "Guavio Hydroelectric Dam"},
-    image: "/poi-images/guavio-hydro-economic-v2.webp",
     description: { de: "Ein bedeutendes Wasserkraftwerk, das die Wasserressourcen der Ostkordillere zur sauberen Stromerzeugung nutzt.", hu: "Jelentős vízerőmű, amely a Keleti-Kordillerák vízkészleteit használja fel tiszta áramtermelésre.", ro: "O hidrocentrală importantă care utilizează resursele de apă ale Cordilierei Orientale pentru producerea de energie curată.", en: "A major hydroelectric plant that utilizes the water resources of the Eastern Ranges for clean power generation." , es: "Una importante central hidroeléctrica que utiliza los recursos hídricos de la Cordillera Oriental para la generación de energía limpia.", pt: "Uma importante central hidroelétrica que utiliza os recursos hídricos da Cordilheira Oriental para a geração de energia limpa.", fr: "Une importante centrale hydroélectrique utilisant les ressources en eau de la Cordillère orientale pour la production d'énergie propre."},
     facts: {
       de: ["Wichtiger Beitrag zur nationalen Energieversorgung.", "Betrieben durch das Unternehmen Emgesa."],
@@ -7492,7 +7478,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-COR",
     coords: [-75.6698, 7.9547],
     name: { de: "Ferronickelmine Cerro Matoso", hu: "Cerro Matoso Ferronikkel-bánya", ro: "Mina de Feronichel Cerro Matoso", en: "Cerro Matoso Ferronickel Mine"},
-    image: "/poi-images/cerro-matoso-mine-economic-v2.webp",
     description: { de: "Einer der weltgrößten Produzenten von Ferronickel, der das Metall in offener Grube abbaut und verarbeitet.", hu: "A világ egyik legnagyobb ferronikkel termelője, amely külszíni fejtéssel bányássza és dolgozza fel a fémet.", ro: "Unul dintre cei mai mari producători mondiali de feronichel, care extrage și procesează metalul în carieră deschisă.", en: "One of the world's largest producers of ferronickel, mining and processing the metal in an open pit." , es: "Uno de los mayores productores mundiales de ferroníquel, que extrae y procesa el metal en una mina a cielo abierto.", pt: "Um dos maiores produtores mundiais de ferroníquel, que extrai e processa o metal numa mina a céu aberto.", fr: "L'un des plus grands producteurs mondiaux de ferronickel, qui extrait et traite le métal dans une mine à ciel ouvert."},
     facts: {
       de: ["Größte Nickelmine Südamerikas.", "Wichtiges Exportgut für die Edelstahlindustrie."],
@@ -8403,7 +8388,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-VAC",
     coords: [-76.2829, 3.5792],
     name: { de: "Zuckerfabrik Manuelita", hu: "Manuelita Cukorgyár", ro: "Fabrica de Zahăr Manuelita", en: "Manuelita Sugar Mill"},
-    image: "/poi-images/ingenio-manuelita-economic-v2.webp",
     description: { de: "Einer der ältesten und größten Zuckerproduzenten Kolumbiens, der auch Bioethanol und erneuerbare Energie erzeugt.", hu: "Kolumbia egyik legrégebbi és legnagyobb cukortermelője, amely bioetanolt és megújuló energiát is előállít.", ro: "Unul dintre cei mai vechi și mai mari producători de zahăr din Columbia, care produce și bioetanol și energie regenerabilă.", en: "One of Colombia's oldest and largest sugar producers, which also produces bioethanol and renewable energy." , es: "Uno de los productores de azúcar más antiguos y grandes de Colombia, que también produce bioetanol y energía renovable.", pt: "Um dos mais antigos e maiores produtores de açúcar da Colômbia, que também produz bioetanol e energia renovável.", fr: "L'un des plus anciens et des plus grands producteurs de sucre de Colombie, produisant également du bioéthanol et de l'énergie renouvelable."},
     facts: {
       de: ["Gegründet im 19. Jahrhundert.", "Pionier bei der Bioethanol-Produktion."],
@@ -8738,7 +8722,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-VAC",
     coords: [-76.3571, 3.6190],
     name: { de: "Zuckerfabrik Providencia", hu: "Providencia Cukorgyár", ro: "Fabrica de Zahăr Providencia", en: "Providencia Sugar Mill"},
-    image: "/poi-images/ingenio-providencia-economic-v2.webp",
     description: { de: "Ein bedeutender agroindustrieller Komplex im Valle del Cauca, der sich der nachhaltigen Zucker- und Energieproduktion widmet.", hu: "Jelentős agráripari komplexum Valle del Caucában, amely a fenntartható cukor- és energiatermelésnek szenteli magát.", ro: "Un complex agroindustrial major în Valle del Cauca, dedicat producției sustenabile de zahăr și energie.", en: "A major agro-industrial complex in Valle del Cauca, dedicated to sustainable sugar and energy production." , es: "Un importante complejo agroindustrial en el Valle del Cauca dedicado a la producción sostenible de azúcar y energía.", pt: "Um importante complexo agroindustrial no Valle del Cauca dedicado à produção sustentável de açúcar e energia.", fr: "Un complexe agro-industriel majeur dans le Valle del Cauca dédié à la production durable de sucre et d'énergie."},
     facts: {
       de: ["Fokus auf ökologischen Anbau.", "Produziert grünen Strom aus Bagasse."],
@@ -9325,7 +9308,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-CUN",
     coords: [-73.9213, 4.9604],
     name: { de: "Brauerei Bavaria Tocancipá", hu: "Bavaria Sörgyár Tocancipá", ro: "Berăria Bavaria Tocancipá", en: "Bavaria Brewery Tocancipá"},
-    image: "/poi-images/bavaria-brewery-tocancipa-economic-v2.webp",
     description: { de: "Eine der größten und modernsten Brauereien Lateinamerikas, die die bekanntesten kolumbianischen Biermarken herstellt.", hu: "Latin-Amerika egyik legnagyobb és legmodernebb sörfőzdéje, amely a legismertebb kolumbiai sörmárkákat gyártja.", ro: "Una dintre cele mai mari și mai moderne berării din America Latină, care produce cele mai cunoscute mărci de bere columbiene.", en: "One of the largest and most modern breweries in Latin America, producing the most famous Colombian beer brands." , es: "Una de las cervecerías más grandes y modernas de América Latina, que produce las marcas de cerveza colombianas más conocidas.", pt: "Uma das maiores e mais modernas cervejarias da América Latina, que produz as marcas de cerveja colombianas mais conhecidas.", fr: "L'une des brasseries les plus grandes et les plus modernes d'Amérique latine, produisant les marques de bière colombiennes les plus connues."},
     facts: {
       de: ["Gehört zum weltweiten AB InBev-Konzern.", "Höchste Produktionskapazität des Landes."],
@@ -10974,7 +10956,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-ANT",
     coords: [-75.8974, 6.7303],
     name: { de: "Goldmine Buriticá", hu: "Buriticá Aranybánya", ro: "Mina de Aur Buriticá", en: "Buriticá Gold Mine"},
-    image: "/poi-images/buritica-gold-mine-economic-v2.webp",
     description: { de: "Eine der größten und modernsten untertägigen Goldminen Kolumbiens, die hohe Standards für Umweltschutz und Sicherheit setzt.", hu: "Kolumbia egyik legnagyobb és legmodernebb felszín alatti aranybányája, amely magas környezetvédelmi és biztonsági normákat támaszt.", ro: "Una dintre cele mai mari și mai moderne mine de aur subterane din Columbia, care stabilește standarde înalte de mediu și siguranță.", en: "One of the largest and most modern underground gold mines in Colombia, setting high standards for environmental protection and safety." , es: "Una de las minas de oro subterráneas más grandes y modernas de Colombia, que establece altos estándares de protección ambiental y seguridad.", pt: "Uma das maiores e mais modernas minas de ouro subterrâneas da Colômbia, que estabelece elevados padrões de proteção ambiental e segurança.", fr: "L'une des mines d'or souterraines les plus grandes et les plus modernes de Colombie, établissant des normes élevées en matière de protection de l'environnement et de sécurité."},
     facts: {
       de: ["Bedeutendes Projekt für den formalen Bergbau.", "Betrieben von internationalen Investoren."],
@@ -11741,7 +11722,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-VAC",
     coords: [-76.5161, 3.5855],
     name: { de: "Zementwerk Argos Yumbo", hu: "Argos Yumbo Cementgyár", ro: "Fabrica de Ciment Argos Yumbo", en: "Argos Yumbo Cement Plant"},
-    image: "/poi-images/cementos-argos-yumbo-economic-v2.webp",
     description: { de: "Eine große Zement- und Betonfabrik des kolumbianischen multinationalen Konzerns Argos, wichtig für den Bausektor im Südwesten.", hu: "A kolumbiai multinacionális Argos konszern nagy cement- és betongyára, amely fontos a délnyugati építőipari ágazat számára.", ro: "O fabrică mare de ciment și beton aparținând multinaționalei columbiene Argos, importantă pentru sectorul construcțiilor din sud-vest.", en: "A large cement and concrete factory belonging to the Colombian multinational Argos, important for the construction sector in the southwest." , es: "Una gran fábrica de cemento y hormigón de la multinacional colombiana Argos, importante para el sector de la construcción en el suroeste.", pt: "Uma grande fábrica de cimento e betão da multinacional colombiana Argos, importante para o setor da construção no sudoeste.", fr: "Une grande cimenterie et usine de béton de la multinationale colombienne Argos, importante pour le secteur de la construction dans le sud-ouest."},
     facts: {
       de: ["Versorgt Großbauprojekte in der Region.", "Implementiert CO2-reduzierende Technologien."],
@@ -11824,7 +11804,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-BOL",
     coords: [-75.5101, 10.3175],
     name: { de: "Industriekomplex Mamonal", hu: "Mamonal Ipari Komplexum", ro: "Complexul Industrial Mamonal", en: "Mamonal Industrial Complex"},
-    image: "/poi-images/mamonal-industrial-complex-economic-v2.webp",
     description: { de: "Ein riesiges Industriegebiet bei Cartagena, das Petrochemie, Kunststoffherstellung und energieintensive Industrien bündelt.", hu: "Hatalmas ipari terület Cartagena közelében, amely egyesíti a petrolkémiát, a műanyaggyártást és az energiaintenzív iparágakat.", ro: "O zonă industrială imensă lângă Cartagena, care grupează petrochimia, producția de mase plastice și industriile energointensive.", en: "A massive industrial area near Cartagena, grouping petrochemicals, plastics manufacturing, and energy-intensive industries." , es: "Una enorme zona industrial cerca de Cartagena que concentra la petroquímica, la fabricación de plásticos e industrias de alto consumo energético.", pt: "Uma enorme zona industrial perto de Cartagena que concentra a petroquímica, o fabrico de plásticos e indústrias de alto consumo energético.", fr: "Une vaste zone industrielle près de Carthagène regroupant la pétrochimie, la fabrication de plastiques et des industries énergivores."},
     facts: {
       de: ["Wichtigstes petrochemisches Zentrum des Landes.", "Hoher Synergieeffekt zwischen den Fabriken."],
@@ -12951,7 +12930,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-ANT",
     coords: [-75.5458, 6.3435],
     name: { de: "Getränkewerk Postobón Bello", hu: "Postobón Bello Italgyár", ro: "Fabrica de Băuturi Postobón Bello", en: "Postobón Bello Beverage Plant"},
-    image: "/poi-images/postobon-bello-plant-economic-v2.webp",
     description: { de: "Eine der größten Produktionsanlagen für Erfrischungsgetränke des führenden nationalen Getränkeherstellers Kolumbiens.", hu: "Kolumbia vezető hazai italgyártójának egyik legnagyobb üdítőital-gyártó üzeme.", ro: "Una dintre cele mai mari facilități de producție de băuturi răcoritoare ale principalului producător național de băuturi din Columbia.", en: "One of the largest soft drink production facilities of Colombia's leading national beverage manufacturer." , es: "Una de las mayores plantas de producción de bebidas refrescantes del principal fabricante nacional de bebidas en Colombia.", pt: "Uma das maiores unidades de produção de refrigerantes do principal fabricante nacional de bebidas da Colômbia.", fr: "L'une des plus grandes usines de production de boissons rafraîchissantes du principal fabricant national de boissons en Colombie."},
     facts: {
       de: ["Produziert für den gesamten Markt von Antioquia.", "Modernste Abfüllanlagen."],
@@ -13286,7 +13264,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     parent: "CO-VAC",
     coords: [-76.5273, 3.5593],
     name: { de: "Industriegebiet Arroyohondo", hu: "Arroyohondo Ipartelep", ro: "Zona Industrială Arroyohondo", en: "Arroyohondo Industrial Zone"},
-    image: "/poi-images/arroyohondo-industrial-zone-economic-v2.webp",
     description: { de: "Ein bedeutender industrieller Korridor in Yumbo bei Cali, der als wichtigstes Produktionszentrum im Westen Kolumbiens gilt.", hu: "Jelentős ipari folyosó a Cali melletti Yumbóban, amely Nyugat-Kolumbia legfontosabb termelési központjának számít.", ro: "Un coridor industrial major în Yumbo lângă Cali, considerat a fi principalul centru de producție din vestul Columbiei.", en: "A major industrial corridor in Yumbo near Cali, considered the main production center in western Colombia." , es: "Un importante corredor industrial en Yumbo, cerca de Cali, considerado el centro de producción más importante del occidente de Colombia.", pt: "Um importante corredor industrial em Yumbo, perto de Cali, considerado o centro de produção mais importante do oeste da Colômbia.", fr: "Un important corridor industriel à Yumbo, près de Cali, considéré comme le centre de production le plus important de l'ouest de la Colombie."},
     facts: {
       de: ["Yumbo wird oft als 'Industriehauptstadt' bezeichnet.", "Hunderte von Fabriken ansässig."],

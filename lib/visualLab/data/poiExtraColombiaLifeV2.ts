@@ -885,7 +885,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Parque Explora",
       ro: "Parque Explora",
       en: "Parque Explora"},
-    image: "/poi-images/parque-explora-life-v2.webp",
     description: {
       de: "Ein interaktives Wissenschaftsmuseum in Medellín mit Aquarium, Vivarium und Mitmachbereichen.",
       hu: "Interaktív tudományos múzeum Medellínben, hatalmas akváriummal és terráriummal.",
@@ -1771,7 +1770,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Parque del Café",
       ro: "Parque del Café",
       en: "Parque del Café"},
-    image: "/poi-images/parque-del-cafe-life-v2.webp",
     description: {
       de: "Ein Freizeitpark in Quindío, der der kolumbianischen Kaffeekultur gewidmet ist.",
       hu: "Quindío régió vidámparkja, amelyet a kolumbiai kávékultúrának szenteltek.",
@@ -2261,7 +2259,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Hacienda Nápoles",
       ro: "Hacienda Nápoles",
       en: "Hacienda Nápoles"},
-    image: "/poi-images/hacienda-napoles-life-v2.webp",
     description: {
       de: "Ein großer Themenpark und Zoo, der auf dem ehemaligen Anwesen von Pablo Escobar errichtet wurde.",
       hu: "Hatalmas élménypark és állatkert, amely Pablo Escobar egykori birtokán épült.",
@@ -3147,7 +3144,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Parque Jaime Duque",
       ro: "Parque Jaime Duque",
       en: "Parque Jaime Duque"},
-    image: "/poi-images/parque-jaime-duque-life-v2.webp",
     description: {
       de: "Ein Familien-Freizeitpark in der Nähe von Bogotá mit Nachbildungen von Weltwundern und einem Zoo.",
       hu: "Családi vidámpark Bogotá közelében, a világcsodák másolataival és állatkerttel.",
@@ -3745,7 +3741,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Maloka Interaktív Múzeum",
       ro: "Muzeul Interactiv Maloka",
       en: "Maloka Interactive Museum"},
-    image: "/poi-images/maloka-museo-interactivo-life-v2.webp",
     description: {
       de: "Ein interaktives Wissenschafts- und Technikzentrum in Bogotá für Kinder und Jugendliche.",
       hu: "Interaktív tudományos és technológiai központ Bogotában gyermekek és fiatalok számára.",
@@ -4991,7 +4986,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Salitre Mágico",
       ro: "Salitre Mágico",
       en: "Salitre Mágico"},
-    image: "/poi-images/salitre-magico-life-v2.webp",
     description: {
       de: "Einer der wichtigsten Vergnügungsparks in Bogotá mit zahlreichen Achterbahnen und Fahrgeschäften.",
       hu: "Bogotá egyik legfontosabb vidámparkja, számos hullámvasúttal és attrakcióval.",
@@ -6057,7 +6051,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Mundo Aventura",
       ro: "Mundo Aventura",
       en: "Mundo Aventura"},
-    image: "/poi-images/mundo-aventura-life-v2.webp",
     description: {
       de: "Ein großer Freizeitpark in Bogotá, der Familien und Kindern eine Vielzahl von Attraktionen bietet.",
       hu: "Nagy vidámpark Bogotában, amely számos attrakciót kínál a családok és gyerekek számára.",
@@ -6871,7 +6864,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Piscilago",
       ro: "Piscilago",
       en: "Piscilago"},
-    image: "/poi-images/piscilago-life-v2.webp",
     description: {
       de: "Ein riesiger Wasser- und Freizeitpark mit einem integrierten Zoo in der Region Cundinamarca.",
       hu: "Hatalmas vízi- és vidámpark integrált állatkerttel Cundinamarca régióban.",
@@ -7253,7 +7245,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Parque Panaca",
       ro: "Parque Panaca",
       en: "Parque Panaca"},
-    image: "/poi-images/parque-panaca-life-v2.webp",
     description: {
       de: "Der erste landwirtschaftliche Themenpark der Welt, in dem Besucher mit Nutztieren interagieren können.",
       hu: "A világ első mezőgazdasági tematikus parkja, ahol a látogatók haszonállatokkal találkozhatnak.",
@@ -7779,7 +7770,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Ukumarí Biopark",
       ro: "Bioparcul Ukumarí",
       en: "Ukumarí Biopark"},
-    image: "/poi-images/bioparque-ukumari-life-v2.webp",
     description: {
       de: "Ein moderner Tierpark in Pereira, der sich der Erhaltung und Rettung von Wildtieren widmet.",
       hu: "Modern állatkert Pereirában, amely a vadon élő állatok védelmének és megmentésének szenteli magát.",
@@ -8413,7 +8403,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Cali Állatkert",
       ro: "Grădina Zoologică din Cali",
       en: "Cali Zoo"},
-    image: "/poi-images/zoologico-de-cali-life-v2.webp",
     description: {
       de: "Ein renommierter Zoo in Cali, der für seine Erhaltungs- und Forschungsprogramme bekannt ist.",
       hu: "Híres állatkert Caliban, amely védelmi és kutatási programjairól ismert.",
@@ -8723,7 +8712,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Kolumbiai Nemzeti Madárpark",
       ro: "Aviariul Național din Columbia",
       en: "National Aviary of Colombia"},
-    image: "/poi-images/aviario-nacional-colombia-life-v2.webp",
     description: {
       de: "Ein großes Vogelschutzgebiet nahe Cartagena, das die reiche kolumbianische Vogelvielfalt präsentiert.",
       hu: "Hatalmas madárvédelmi terület Cartagena közelében, amely bemutatja Kolumbia gazdag madárvilágát.",
@@ -9321,7 +9309,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Rodadero Akvárium",
       ro: "Acvariul din Rodadero",
       en: "Rodadero Aquarium"},
-    image: "/poi-images/acuario-del-rodadero-life-v2.webp",
     description: {
       de: "Ein Meeresaquarium in Santa Marta, das sich auf die lokale karibische Meeresfauna konzentriert.",
       hu: "Tengeri akvárium Santa Martában, amely a helyi karibi tengeri élővilágra összpontosít.",
@@ -9739,7 +9726,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Rosario-szigetek Oceanárium",
       ro: "Oceanariul Insulelor Rosario",
       en: "Rosario Islands Oceanarium"},
-    image: "/poi-images/oceanario-islas-del-rosario-life-v2.webp",
     description: {
       de: "Ein Aquarium auf einer island im Rosario-Archipel, das dem Schutz des marinen Ökosystems dient.",
       hu: "Akvárium a Rosario-szigetcsoport egyik szigetén, amely a tengeri ökoszisztéma védelmét szolgálja.",
@@ -9941,7 +9927,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Los Flamencos Menedék",
       ro: "Sanctuarul Los Flamencos",
       en: "Los Flamencos Sanctuary"},
-    image: "/poi-images/santuario-los-flamencos-life-v2.webp",
     description: {
       de: "Ein Naturschutzgebiet in La Guajira, das als wichtiger Lebensraum für große Populationen rosafarbener Flamingos dient.",
       hu: "Természetvédelmi terület La Guajira-ban, amely a rózsaszín flamingók nagy populációjának fontos élőhelye.",
@@ -10179,7 +10164,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Los Ocarros Biopark",
       ro: "Bioparcul Los Ocarros",
       en: "Los Ocarros Biopark"},
-    image: "/poi-images/bioparque-los-ocarros-life-v2.webp",
     description: {
       de: "Ein Tierpark in Villavicencio, der ausschließlich der Flora und Fauna der kolumbianischen Orinoco-Region gewidmet ist.",
       hu: "Állatkert Villavicencióban, amelyet kizárólag a kolumbiai Orinoco régió növény- és állatvilágának szenteltek.",
@@ -11461,7 +11445,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Barranquilla Állatkert",
       ro: "Grădina Zoologică din Barranquilla",
       en: "Barranquilla Zoo"},
-    image: "/poi-images/zoologico-de-barranquilla-life-v2.webp",
     description: {
       de: "Ein historischer Zoo an der Karibikküste Kolumbiens, der sich auf den Erhalt bedrohter Arten konzentriert.",
       hu: "Történelmi állatkert Kolumbia karibi partvidékén, amely a veszélyeztetett fajok megőrzésére összpontosít.",
@@ -11771,7 +11754,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Otún Quimbaya",
       ro: "Otún Quimbaya",
       en: "Otún Quimbaya"},
-    image: "/poi-images/otun-quimbaya-life-v2.webp",
     description: {
       de: "Ein Schutzgebiet in der Kaffeeachse, das als Lebensraum für Brüllaffen und viele endemische Vögel dient.",
       hu: "Védett terület a Kávétengelyen, amely bőgőmajmok és számos őshonos madár élőhelye.",
@@ -11820,7 +11802,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Cueva de los Guácharos",
       ro: "Cueva de los Guácharos",
       en: "Cueva de los Guácharos"},
-    image: "/poi-images/cueva-de-los-guacharos-life-v2.webp",
     description: {
       de: "Der älteste Nationalpark Kolumbiens, bekannt für die Fettschwalme (Guácharos), die in den tiefen Höhlen leben.",
       hu: "Kolumbia legrégebbi nemzeti parkja, amely a mély barlangokban élő zsírfecskékről (Guácharos) ismert.",
@@ -11914,7 +11895,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Amacayacu Nemzeti Park",
       ro: "PN Amacayacu",
       en: "Amacayacu National Park"},
-    image: "/poi-images/pnn-amacayacu-life-v2.webp",
     description: {
       de: "Ein riesiges Schutzgebiet im Amazonasgebiet, Heimat von rosa Flussdelfinen und unzähligen Primatenarten.",
       hu: "Hatalmas védett terület az Amazonas-medencében, rózsaszín folyami delfinek és számtalan főemlős otthona.",
@@ -12152,7 +12132,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Utría Nemzeti Park",
       ro: "PN Utría",
       en: "Utría National Park"},
-    image: "/poi-images/pnn-utria-life-v2.webp",
     description: {
       de: "Ein Nationalpark an der unberührten Pazifikküste, der als wichtige Kinderstube für ziehende Buckelwale dient.",
       hu: "Nemzeti park az érintetlen csendes-óceáni partvidéken, amely a vonuló hosszúszárnyú bálnák fontos szaporodóhelye.",
@@ -12282,7 +12261,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Chingaza Nemzeti Park",
       ro: "PN Chingaza",
       en: "Chingaza National Park"},
-    image: "/poi-images/pnn-chingaza-life-v2.webp",
     description: {
       de: "Ein hochgelegener Páramo-Nationalpark, der den gefährdeten Brillenbären und Andenkondoren lebenswichtigen Schutz bietet.",
       hu: "Magasan fekvő Páramo nemzeti park, amely létfontosságú védelmet nyújt a veszélyeztetett pápaszemes medvének és az andoki kondornak.",
@@ -13636,7 +13614,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Santacruz Állatkert",
       ro: "Grădina Zoologică Santacruz",
       en: "Santacruz Zoo"},
-    image: "/poi-images/zoologico-santacruz-life-v2.webp",
     description: {
       de: "Ein Zoo in Cundinamarca, der durch die liebevolle Rettung von Tieren aus dem illegalen Handel entstanden ist.",
       hu: "Cundinamarca állatkertje, amely az illegális kereskedelemből kimentett állatok megmentésére jött létre.",
@@ -14209,7 +14186,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Finca Recuca",
       ro: "Finca Recuca",
       en: "Finca Recuca"},
-    image: "/poi-images/finca-recuca-life-v2.webp",
     description: {
       de: "Eine interaktive Kaffeefarm im Quindío, die Besuchern den gesamten Prozess des Kaffeeanbaus lebhaft zeigt.",
       hu: "Interaktív kávéfarm Quindíóban, amely élénken bemutatja a látogatóknak a kávétermesztés teljes folyamatát.",
@@ -15527,7 +15503,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Finca El Ocaso",
       ro: "Finca El Ocaso",
       en: "Finca El Ocaso"},
-    image: "/poi-images/finca-el-ocaso-life-v2.webp",
     description: {
       de: "Eine traditionelle Kaffeefarm in Salento, die nachhaltigen Anbau und sehr authentische Touren anbietet.",
       hu: "Hagyományos kávéfarm Salentóban, amely fenntartható gazdálkodást és nagyon autentikus túrákat kínál.",
@@ -16397,7 +16372,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Hacienda Venecia",
       ro: "Hacienda Venecia",
       en: "Hacienda Venecia"},
-    image: "/poi-images/hacienda-venecia-life-v2.webp",
     description: {
       de: "Eine funktionierende Kaffeefarm in Manizales, die tiefe Einblicke in die Produktion und Röstung gibt.",
       hu: "Működő kávéfarm Manizalesben, amely mély bepillantást enged a kávétermelésbe és -pörkölésbe.",
@@ -17391,7 +17365,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
       hu: "Quindío Botanikus Kert",
       ro: "Grădina Botanică din Quindío",
       en: "Quindío Botanical Garden"},
-    image: "/poi-images/jardin-botanico-quindio-life-v2.webp",
     description: {
       de: "Ein dichter botanischer Garten mit einem riesigen Schmetterlingshaus, das hunderte einheimische Arten beherbergt.",
       hu: "Sűrű botanikus kert hatalmas lepkeházzal, amely több száz őshonos fajnak ad otthont.",

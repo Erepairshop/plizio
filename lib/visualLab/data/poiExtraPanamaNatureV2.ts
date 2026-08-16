@@ -8,7 +8,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-5",
     coords: [-77.7, 8.2],
     name: { de: "Tuira Fluss", hu: "Tuira-folyó", ro: "Râul Tuira", en: "Tuira River"},
-    image: "/poi-images/rio-tuira-nature-v2.webp",
     description: { de: "Der längste und wasserreichste Fluss Panamas, der durch die Provinz Darién fließt.", hu: "Panama leghosszabb és legbővizűbb folyója, amely Darién tartományon halad keresztül.", ro: "Cel mai lung și voluminos râu din Panama, care traversează provincia Darién.", en: "The longest and most voluminous river in Panama, flowing through the Darién province." , es: "El río más largo y caudaloso de Panamá, que fluye a través de la provincia de Darién.", pt: "O rio mais longo e volumoso do Panamá, que atravessa a província de Darién.", fr: "Le fleuve le plus long et le plus abondant du Panama, traversant la province de Darién."},
     facts: {
       de: ["Längster Fluss Panamas.", "Mündet in den Golf von San Miguel.", "Wichtige Verkehrsader im Darién.", "Reiche Biodiversität an seinen Ufern."],
@@ -45,7 +44,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-5",
     coords: [-77.8, 8.4],
     name: { de: "Chucunaque Fluss", hu: "Chucunaque-folyó", ro: "Râul Chucunaque", en: "Chucunaque River"},
-    image: "/poi-images/rio-chucunaque-nature-v2.webp",
     description: { de: "Ein Hauptzufluss des Tuira-Flusses und der zweitlängste Fluss Panamas.", hu: "A Tuira-folyó egyik fő mellékfolyója és Panama második leghosszabb folyója.", ro: "Un afluent principal al râului Tuira și al doilea cel mai lung râu din Panama.", en: "A main tributary of the Tuira River and the second longest river in Panama." , es: "Un afluente principal del río Tuira y el segundo río más largo de Panamá.", pt: "Um principal afluente do rio Tuira e o segundo rio mais longo do Panamá.", fr: "Un affluent principal du fleuve Tuira et le deuxième plus long fleuve du Panama."},
     facts: {
       de: ["Zweitlängster Fluss Panamas.", "Fließt durch die Provinz Darién.", "Wichtig für indigene Gemeinschaften.", "Navigierbar auf langen Strecken."],
@@ -82,7 +80,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-8",
     coords: [-78.8, 9.1],
     name: { de: "Bayano-See", hu: "Bayano-tó", ro: "Lacul Bayano", en: "Bayano Lake"},
-    image: "/poi-images/lago-bayano-nature-v2.webp",
     description: { de: "Ein großer Stausee in der Provinz Panamá, der durch den Bayano-Damm entstanden ist.", hu: "Nagy víztározó Panamá tartományban, amelyet a Bayano-gát hozott létre.", ro: "Un mare lac de acumulare în provincia Panamá, creat de barajul Bayano.", en: "A large reservoir in the Panamá province, created by the Bayano Dam." , es: "Un gran embalse en la provincia de Panamá, creado por la represa de Bayano.", pt: "Uma grande albufeira na província do Panamá, criada pela barragem de Bayano.", fr: "Un grand lac de barrage dans la province de Panama, créé par le barrage de Bayano."},
     facts: {
       de: ["Zweitgrößter See Panamas.", "Wichtig für die Stromerzeugung.", "Bekannt für seine Höhlen am Ufer.", "Beherbergt eine vielfältige Tierwelt."],
@@ -119,7 +116,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-1",
     coords: [-82.25, 9.38],
     name: { de: "Isla Colón", hu: "Colón-sziget", ro: "Insula Colón", en: "Colón Island"},
-    image: "/poi-images/isla-colon-nature-v2.webp",
     description: { de: "Die Hauptinsel des Bocas del Toro Archipels mit der gleichnamigen Stadt.", hu: "A Bocas del Toro szigetcsoport fő szigete az azonos nevű várossal.", ro: "Insula principală a arhipelagului Bocas del Toro, cu orașul omonim.", en: "The main island of the Bocas del Toro Archipelago, featuring the town of the same name." , es: "La isla principal del archipiélago de Bocas del Toro con la ciudad del mismo nombre.", pt: "A ilha principal do arquipélago de Bocas del Toro com a cidade do mesmo nome.", fr: "L'île principale de l'archipel de Bocas del Toro avec la ville du même nom."},
     facts: {
       de: ["Größte Insel in Bocas del Toro.", "Zentrum des Tourismus in der Region.", "Bekannt für Playa Estrella (Seestern-Strand).", "Lebhaftes karibisches Flair."],
@@ -156,7 +152,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-1",
     coords: [-82.13, 9.28],
     name: { de: "Isla Bastimentos", hu: "Bastimentos-sziget", ro: "Insula Bastimentos", en: "Bastimentos Island"},
-    image: "/poi-images/isla-bastimentos-nature-v2.webp",
     description: { de: "Eine große Insel in Bocas del Toro mit einem Meeresnationalpark und berühmten roten Fröschen.", hu: "Nagy sziget Bocas del Toróban, tengeri nemzeti parkkal és híres vörös békákkal.", ro: "O insulă mare în Bocas del Toro, cu un parc național marin și faimoasele broaște roșii.", en: "A large island in Bocas del Toro with a marine national park and famous red frogs." , es: "Una gran isla en Bocas del Toro con un parque nacional marino y famosas ranas rojas.", pt: "Uma grande ilha em Bocas del Toro com um parque nacional marinho e famosas rãs vermelhas.", fr: "Une grande île à Bocas del Toro avec un parc national marin et de célèbres grenouilles rouges."},
     facts: {
       de: ["Teil eines Meeresnationalparks.", "Heimat der 'Red Frog Beach'.", "Keine Straßen, nur Fußwege.", "Mangrovenwälder und Korallenriffe."],
@@ -229,7 +224,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-8",
     coords: [-78.9, 8.35],
     name: { de: "Isla del Rey", hu: "Isla del Rey", ro: "Isla del Rey", en: "Isla del Rey"},
-    image: "/poi-images/isla-del-rey-nature-v2.webp",
     description: { de: "Die größte Insel des Perlenarchipels im Golf von Panama.", hu: "A Gyöngy-szigetek legnagyobb szigete a Panamai-öbölben.", ro: "Cea mai mare insulă din Arhipelagul Perlelor, în Golful Panama.", en: "The largest island in the Pearl Archipelago, in the Gulf of Panama." , es: "La isla más grande del archipiélago de las Perlas en el golfo de Panamá.", pt: "A maior ilha do arquipélago das Pérolas no golfo do Panamá.", fr: "La plus grande île de l'archipel des Perles dans le golfe du Panama."},
     facts: {
       de: ["Größte der Perleninseln.", "Hat mehrere kleine Dörfer.", "Wichtige Fischereigebiete.", "Hügelige Landschaft mit Wäldern."],
@@ -266,7 +260,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-8",
     coords: [-79.03, 8.63],
     name: { de: "Isla Contadora", hu: "Contadora-sziget", ro: "Insula Contadora", en: "Contadora Island"},
-    image: "/poi-images/isla-contadora-nature-v2.webp",
     description: { de: "Die bekannteste und am weitesten entwickelte Insel der Perleninseln.", hu: "A Gyöngy-szigetek legismertebb és legfejlettebb szigete.", ro: "Cea mai cunoscută și dezvoltată insulă din Arhipelagul Perlelor.", en: "The most famous and developed island in the Pearl Islands." , es: "La isla más conocida y desarrollada de las Islas de las Perlas.", pt: "A ilha mais conhecida e desenvolvida das Ilhas das Pérolas.", fr: "L'île la plus connue et la plus développée de l'archipel des Perles."},
     facts: {
       de: ["Tourismuszentrum der Perleninseln.", "Exklusive Resorts und Strände.", "Einst Zufluchtsort des Schahs von Persien.", "Kleine Landebahn für Flugzeuge."],
@@ -303,7 +296,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-4",
     coords: [-82.0, 8.0],
     name: { de: "Golf von Chiriquí", hu: "Chiriquí-öböl", ro: "Golful Chiriquí", en: "Gulf of Chiriquí"},
-    image: "/poi-images/golfo-de-chiriqui-nature-v2.webp",
     description: { de: "Ein Meeresgebiet an der Pazifikküste mit einem Nationalpark und zahlreichen Inseln.", hu: "Tengeri terület a csendes-óceáni parton, nemzeti parkkal és számos szigettel.", ro: "O zonă marină pe coasta Pacificului cu un parc național și numeroase insule.", en: "A marine area on the Pacific coast with a national park and numerous islands." , es: "Un área marina en la costa del Pacífico con un parque nacional y numerosas islas.", pt: "Uma área marinha na costa do Pacífico com um parque nacional e inúmeras ilhas.", fr: "Une zone marine sur la côte Pacifique avec un parc national et de nombreuses îles."},
     facts: {
       de: ["Beherbergt den Coiba Nationalpark.", "Wichtig für Walbeobachtung.", "Vielfältige Korallenriffe.", "Beliebt zum Sportfischen."],
@@ -340,7 +332,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-5",
     coords: [-78.3, 8.5],
     name: { de: "Golf von San Miguel", hu: "San Miguel-öböl", ro: "Golful San Miguel", en: "Gulf of San Miguel"},
-    image: "/poi-images/golfo-de-san-miguel-nature-v2.webp",
     description: { de: "Ein großer Golf an der Pazifikküste in der Provinz Darién.", hu: "Nagy öböl a csendes-óceáni parton, Darién tartományban.", ro: "Un golf mare pe coasta Pacificului, în provincia Darién.", en: "A large gulf on the Pacific coast in the Darién province." , es: "Un gran golfo en la costa del Pacífico en la provincia de Darién.", pt: "Um grande golfo na costa do Pacífico, na província de Darién.", fr: "Un grand golfe sur la côte pacifique dans la province de Darién."},
     facts: {
       de: ["Hier entdeckte Balboa den Pazifik.", "Mündungsgebiet des Tuira-Flusses.", "Große Mangrovenwälder.", "Wichtig für die lokale Fischerei."],
@@ -485,7 +476,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-5",
     coords: [-77.9, 8.3],
     name: { de: "Balsas Fluss", hu: "Balsas-folyó", ro: "Râul Balsas", en: "Balsas River"},
-    image: "/poi-images/rio-balsas-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss im Darién, der in den Tuira mündet.", hu: "Jelentős folyó Dariénben, amely a Tuirába torkollik.", ro: "Un râu important în Darién care se varsă în Tuira.", en: "A significant river in Darién that flows into the Tuira." , es: "Un importante río en el Darién que desemboca en el Tuira.", pt: "Um rio importante no Darién que desagua no Tuira.", fr: "Une rivière importante dans le Darién qui se jette dans le Tuira."},
     facts: {
       de: ["Wichtiger Nebenfluss des Tuira.", "Fließt durch unberührten Regenwald.", "Wichtig für den Transport in der Region.", "Reich an Süßwasserfischen."],
@@ -522,7 +512,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-NB",
     coords: [-81.56, 9.09],
     name: { de: "Isla Escudo de Veraguas", hu: "Isla Escudo de Veraguas", ro: "Isla Escudo de Veraguas", en: "Isla Escudo de Veraguas"},
-    image: "/poi-images/isla-escudo-de-veraguas-nature-v2.webp",
     description: { de: "Eine abgelegene Insel in der Karibik mit einzigartigen endemischen Arten.", hu: "Távoli karibi sziget egyedülálló, őshonos fajokkal.", ro: "O insulă izolată în Caraibe, cu specii endemice unice.", en: "A remote Caribbean island with unique endemic species." , es: "Una isla remota en el Caribe con especies endémicas únicas.", pt: "Uma ilha remota no Caribe com espécies endémicas únicas.", fr: "Une île isolée des Caraïbes avec des espèces endémiques uniques."},
     facts: {
       de: ["Heimat des endemischen Dreifinger-Faultiers.", "Isoliert vom Festland seit 9000 Jahren.", "Mangroven und Korallenriffe.", "Unbewohnte Insel."],
@@ -559,7 +548,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-9",
     coords: [-81.1, 8.55],
     name: { de: "Santa Fé Nationalpark", hu: "Santa Fé Nemzeti Park", ro: "Parcul Național Santa Fé", en: "Santa Fé National Park"},
-    image: "/poi-images/parque-nacional-santa-fe-forest-v2.webp",
     description: { de: "Ein gebirgiger Nationalpark in Veraguas, reich an Flüssen und Wasserfällen.", hu: "Hegyvidéki nemzeti park Veraguasban, folyókban és vízesésekben gazdag.", ro: "Un parc național muntos în Veraguas, bogat în râuri și cascade.", en: "A mountainous national park in Veraguas, rich in rivers and waterfalls." , es: "Un parque nacional montañoso en Veraguas, rico en ríos y cascadas.", pt: "Um parque nacional montanhoso em Veraguas, rico em rios e cascatas.", fr: "Un parc national montagneux à Veraguas, riche en rivières et en cascades."},
     facts: {
       de: ["Schützt die kontinentale Wasserscheide.", "Über 300 Vogelarten.", "Viele Wanderwege und Wasserfälle.", "Wichtiger Quellort für Flüsse."],
@@ -595,7 +583,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-2",
     coords: [-80.12, 8.61],
     name: { de: "Cerro Gaital", hu: "Cerro Gaital", ro: "Cerro Gaital", en: "Cerro Gaital"},
-    image: "/poi-images/cerro-gaital-mountain-v2.webp",
     description: { de: "Ein Berg im Valle de Antón, der Teil eines Naturdenkmals ist.", hu: "Hegy El Valle de Antónban, amely egy természeti emlékhely része.", ro: "Un munte în El Valle de Antón, parte a unui monument natural.", en: "A mountain in El Valle de Antón that is part of a natural monument." , es: "Una montaña en el Valle de Antón que forma parte de un monumento natural.", pt: "Uma montanha no Vale de Antón que faz parte de um monumento natural.", fr: "Une montagne dans la vallée d'Antón qui fait partie d'un monument naturel."},
     facts: {
       de: ["Teil des Kraterrandes.", "Schützt den Nebelwald.", "Wichtiger Lebensraum für den Goldfrosch.", "Bietet tolle Aussicht auf das Tal."],
@@ -631,7 +618,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-9",
     coords: [-81.45, 7.55],
     name: { de: "Isla Cébaco", hu: "Cébaco-sziget", ro: "Insula Cébaco", en: "Cébaco Island"},
-    image: "/poi-images/isla-cebaco-nature-v2.webp",
     description: { de: "Eine große, dünn besiedelte Insel im Golf von Montijo.", hu: "Nagy, gyéren lakott sziget a Montijo-öbölben.", ro: "O insulă mare, puțin populată, în Golful Montijo.", en: "A large, sparsely populated island in the Gulf of Montijo." , es: "Una isla grande y poco poblada en el Golfo de Montijo.", pt: "Uma ilha grande e pouco povoada no Golfo de Montijo.", fr: "Une grande île peu peuplée dans le golfe de Montijo."},
     facts: {
       de: ["Zweitgrößte Insel Panamas.", "Bekannt für unberührte Strände.", "Beliebt bei Surfern.", "Reiches Meeresleben."],
@@ -668,7 +654,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-8",
     coords: [-79.3, 9.05],
     name: { de: "Pacora Fluss", hu: "Pacora-folyó", ro: "Râul Pacora", en: "Pacora River"},
-    image: "/poi-images/rio-pacora-nature-v2.webp",
     description: { de: "Ein Fluss östlich von Panama-Stadt, beliebt für Rafting.", hu: "Panamavárostól keletre fekvő folyó, amely népszerű a vadvízi evezéshez.", ro: "Un râu la est de Ciudad de Panama, popular pentru rafting.", en: "A river east of Panama City, popular for rafting." , es: "Un río al este de la Ciudad de Panamá, popular para el rafting.", pt: "Um rio a leste da Cidade do Panamá, popular para o rafting.", fr: "Une rivière à l'est de la ville de Panama, populaire pour le rafting."},
     facts: {
       de: ["Beliebt für Wildwasser-Rafting.", "Fließt durch üppige Landschaften.", "Mündet in den Pazifischen Ozean.", "Wichtig für die lokale Landwirtschaft."],
@@ -704,7 +689,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-8",
     coords: [-79.4, 8.9],
     name: { de: "Bucht von Panama", hu: "Panamai-öböl", ro: "Golful Panama", en: "Bay of Panama"},
-    image: "/poi-images/bahia-de-panama-sea-v2.webp",
     description: { de: "Große Bucht am Pazifikeingang des Panamakanals.", hu: "Nagy öböl a Panama-csatorna csendes-óceáni bejáratánál.", ro: "Golf mare la intrarea în Pacific a Canalului Panama.", en: "Large bay at the Pacific entrance of the Panama Canal." , es: "Gran bahía en la entrada del Pacífico del Canal de Panamá.", pt: "Grande baía na entrada do Pacífico do Canal do Panamá.", fr: "Grande baie à l'entrée Pacifique du canal du Panama."},
     facts: {
       de: ["Standort von Panama-Stadt.", "Wichtiger Ankerplatz für Schiffe.", "Beinhaltet Inseln wie Taboga.", "Hohe Gezeitenunterschiede."],
@@ -740,7 +724,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-4",
     coords: [-82.85, 8.05],
     name: { de: "Punta Burica", hu: "Punta Burica", ro: "Punta Burica", en: "Punta Burica"},
-    image: "/poi-images/punta-burica-mountain-v2.webp",
     description: { de: "Eine Halbinsel, die die Grenze zwischen Panama und Costa Rica markiert.", hu: "Félsziget, amely a panamai-costa ricai határt jelöli.", ro: "O peninsulă care marchează granița dintre Panama și Costa Rica.", en: "A peninsula that marks the border between Panama and Costa Rica." , es: "Una península que marca la frontera entre Panamá y Costa Rica.", pt: "Uma península que marca a fronteira entre o Panamá e a Costa Rica.", fr: "Une péninsule qui marque la frontière entre le Panama et le Costa Rica."},
     facts: {
       de: ["Südlichster Punkt von Costa Rica.", "Geteilt zwischen Panama und Costa Rica.", "Abgelegene Strände und Surfspots.", "Wichtige tektonische Zone."],
@@ -776,7 +759,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-9",
     coords: [-80.7, 8.0],
     name: { de: "Santa María Fluss", hu: "Santa María-folyó", ro: "Râul Santa María", en: "Santa María River"},
-    image: "/poi-images/rio-santa-maria-nature-v2.webp",
     description: { de: "Ein wichtiger Fluss, der die Provinzen Veraguas und Herrera durchquert.", hu: "Fontos folyó, amely átszeli Veraguas és Herrera tartományokat.", ro: "Un râu important care traversează provinciile Veraguas și Herrera.", en: "An important river that crosses the provinces of Veraguas and Herrera." , es: "Un río importante que atraviesa las provincias de Veraguas y Herrera.", pt: "Um importante rio que atravessa as províncias de Veraguas e Herrera.", fr: "Un fleuve important qui traverse les provinces de Veraguas et de Herrera."},
     facts: {
       de: ["Wichtig für die Landwirtschaft der Region.", "Mündet in den Golf von Parita.", "Bildet eine fruchtbare Flussebene.", "Historisch bedeutsam."],
@@ -812,7 +794,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-1",
     coords: [-82.2, 9.4],
     name: { de: "Isla de los Pájaros", hu: "Madarak szigete", ro: "Insula Păsărilor", en: "Bird Island"},
-    image: "/poi-images/isla-de-las-aves-nature-v2.webp",
     description: { de: "Ein Felsen im Meer bei Bocas del Toro, der ein wichtiges Vogelschutzgebiet ist.", hu: "Szikla a tengerben Bocas del Toro közelében, amely fontos madárrezervátum.", ro: "O stâncă în mare lângă Bocas del Toro, care este un important sanctuar de păsări.", en: "A rock in the sea near Bocas del Toro that is an important bird sanctuary." , es: "Una roca en el mar cerca de Bocas del Toro que es una importante reserva de aves.", pt: "Um rochedo no mar perto de Bocas del Toro que é uma importante reserva de aves.", fr: "Un rocher en mer près de Bocas del Toro qui est une importante réserve ornithologique."},
     facts: {
       de: ["Auch bekannt als 'Swan's Cay'.", "Brutplatz für Seevögel.", "Kein Anlegen an der Insel erlaubt.", "Beliebtes Ziel für Bootstouren."],
@@ -848,7 +829,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-10",
     coords: [-79.92, 8.68],
     name: { de: "Nationalpark Altos de Campana", hu: "Altos de Campana Nemzeti Park", ro: "Parcul Național Altos de Campana", en: "Altos de Campana National Park"},
-    image: "/poi-images/parque-nacional-altos-de-campana-forest-v2.webp",
     description: { de: "Der erste Nationalpark Panamas, bekannt für seine Nebelwälder.", hu: "Panama első nemzeti parkja, köderdőiről ismert.", ro: "Primul parc național din Panama, cunoscut pentru pădurile sale de nori.", en: "The first national park created in Panama, known for its cloud forests." , es: "El primer parque nacional de Panamá, conocido por sus bosques nubosos.", pt: "O primeiro parque nacional do Panamá, conhecido pelas suas florestas nubladas.", fr: "Le premier parc national du Panama, connu pour ses forêts de nuages."},
     facts: {
       de: ["Gegründet 1966.", "Schützt einen Teil der kontinentalen Wasserscheide.", "Einzigartige geologische Formationen.", "Panoramablick auf den Pazifik."],
@@ -884,7 +864,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-10",
     coords: [-79.8, 8.6],
     name: { de: "Bucht von Chame", hu: "Chame-öböl", ro: "Golful Chame", en: "Chame Bay"},
-    image: "/poi-images/bahia-de-chame-sea-v2.webp",
     description: { de: "Eine Bucht am Pazifik, die für Kitesurfen und Mangroven bekannt ist.", hu: "Csendes-óceáni öböl, amely a sárkányszörfözésről és a mangroveerdőkről ismert.", ro: "Un golf la Pacific, cunoscut pentru kitesurfing și mangrove.", en: "A bay on the Pacific known for kitesurfing and mangroves." , es: "Una bahía en el Pacífico conocida por el kitesurf y los manglares.", pt: "Uma baía no Pacífico conhecida pelo kitesurf e manguezais.", fr: "Une baie sur le Pacifique connue pour le kitesurf et les mangroves."},
     facts: {
       de: ["Beinhaltet die Halbinsel Punta Chame.", "Wichtiger Lebensraum für Zugvögel.", "Flaches Wasser, ideal für Wassersport.", "Bedeutende Mangrovengebiete."],
@@ -920,7 +899,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-4",
     coords: [-82.4, 8.7],
     name: { de: "Caldera Fluss", hu: "Caldera-folyó", ro: "Râul Caldera", en: "Caldera River"},
-    image: "/poi-images/rio-calderas-nature-v2.webp",
     description: { de: "Ein Fluss, der durch die Stadt Boquete fließt.", hu: "Folyó, amely áthalad Boquete városán.", ro: "Un râu care trece prin orașul Boquete.", en: "A river that flows through the town of Boquete." , es: "Un río que fluye a través de la ciudad de Boquete.", pt: "Um rio que atravessa a cidade de Boquete.", fr: "Une rivière qui traverse la ville de Boquete."},
     facts: {
       de: ["Fließt durch das Tal von Boquete.", "Wird für 'Mini-Rafting' genutzt.", "Wichtig für die lokale Wasserversorgung.", "Hat in der Vergangenheit Überschwemmungen verursacht."],
@@ -956,7 +934,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-7",
     coords: [-80.7, 7.3],
     name: { de: "Nationalpark Cerro Hoya", hu: "Cerro Hoya Nemzeti Park", ro: "Parcul Național Cerro Hoya", en: "Cerro Hoya National Park"},
-    image: "/poi-images/parque-nacional-cerro-hoya-forest-v2.webp",
     description: { de: "Ein abgelegener Nationalpark, der die höchsten Gipfel der Azuero-Halbinsel schützt.", hu: "Elzárt nemzeti park, amely az Azuero-félsziget legmagasabb csúcsait védi.", ro: "Un parc național izolat care protejează cele mai înalte vârfuri ale Peninsulei Azuero.", en: "A remote national park protecting the highest peaks of the Azuero Peninsula." , es: "Un parque nacional remoto que protege las cumbres más altas de la península de Azuero.", pt: "Um parque nacional remoto que protege os picos mais altos da península de Azuero.", fr: "Un parc national isolé protégeant les plus hauts sommets de la péninsule d'Azuero."},
     facts: {
       de: ["Schützt die Quellgebiete von 10 Flüssen.", "Letzter verbliebener Regenwald auf Azuero.", "Hoher Grad an Endemismus.", "Sehr abgelegen und schwer zugänglich."],
@@ -992,7 +969,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-9",
     coords: [-81.1, 7.8],
     name: { de: "Golf von Montijo", hu: "Montijo-öböl", ro: "Golful Montijo", en: "Gulf of Montijo"},
-    image: "/poi-images/golfo-de-montijo-sea-v2.webp",
     description: { de: "Ein großes, als Ramsar-Gebiet ausgewiesenes Feuchtgebiet an der Pazifikküste.", hu: "Nagy, Ramsari területté nyilvánított vizes élőhely a Csendes-óceán partján.", ro: "O zonă umedă mare, desemnată sit Ramsar, pe coasta Pacificului.", en: "A large wetland designated as a Ramsar site on the Pacific coast." , es: "Un gran humedal designado como sitio Ramsar en la costa del Pacífico.", pt: "Uma grande zona húmida designada como sítio Ramsar na costa do Pacífico.", fr: "Une vaste zone humide désignée comme site Ramsar sur la côte Pacifique."},
     facts: {
       de: ["Wichtiges Ramsar-Feuchtgebiet.", "Umfasst Mangroven, Mündungen und Inseln.", "Hohe Biodiversität.", "Lebensraum für Krokodile und Vögel."],
@@ -1028,7 +1004,6 @@ export const poiExtraPanamaNatureV2: POI[] = [
     parent: "PA-7",
     coords: [-79.99, 7.63],
     name: { de: "Isla Iguana Wildschutzgebiet", hu: "Isla Iguana Vadvédelmi Terület", ro: "Refugiul de viață sălbatică Isla Iguana", en: "Isla Iguana Wildlife Refuge"},
-    image: "/poi-images/isla-iguana-nature-v2.webp",
     description: { de: "Eine kleine Insel vor der Küste von Pedasí, bekannt für ihr Korallenriff.", hu: "Kis sziget Pedasí partjainál, korallzátonyáról ismert.", ro: "O mică insulă în largul coastei Pedasí, cunoscută pentru reciful său de corali.", en: "A small island off the coast of Pedasí known for its coral reef." , es: "Una pequeña isla frente a la costa de Pedasí, conocida por su arrecife de coral.", pt: "Uma pequena ilha ao largo da costa de Pedasí, conhecida pelo seu recife de coral.", fr: "Une petite île au large de Pedasí, connue pour son récif de corail."},
     facts: {
       de: ["Wichtiges Korallenriff an der Pazifikküste.", "Brutplatz für Fregattvögel.", "Weiße Sandstrände.", "Beliebt zum Schnorcheln."],

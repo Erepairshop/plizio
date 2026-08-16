@@ -129,7 +129,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Djenné nagymecsetje",
       ro: "Marea Moschee din Djenné",
       en: "Great Mosque of Djenné"},
-    image: "/poi-images/mali-great-mosque-djenne-history-v2.webp",
     description: {
       de: "Das größte aus Lehmziegeln errichtete Gebäude der Welt und ein Meisterwerk der sudanesisch-sahelischen Architektur.",
       hu: "A világ legnagyobb vályogtéglából épült épülete és a szudáni-szaheli építészet remekműve.",
@@ -291,7 +290,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Sankoré-mecset",
       ro: "Moscheea Sankoré",
       en: "Sankore Mosque"},
-    image: "/poi-images/mali-sankore-mosque-history-v2.webp",
     description: {
       de: "Eines der drei alten Lernzentren in Timbuktu, das während der Blütezeit des Mali-Reiches eine renommierte Universität beherbergte.",
       hu: "Timbuktu három ősi oktatási központjának egyike, amely a Mali Birodalom virágzása idején híres egyetemnek adott otthont.",
@@ -417,7 +415,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Djinguereber-mecset",
       ro: "Moscheea Djinguereber",
       en: "Djinguereber Mosque"},
-    image: "/poi-images/mali-djinguereber-mosque-history-v2.webp",
     description: {
       de: "Eine der ältesten Moscheen Westafrikas und ein herausragendes Beispiel der Lehmbaukunst in der Wüstenstadt Timbuktu.",
       hu: "Nyugat-Afrika egyik legrégebbi mecsetje és a vályogépítészet kiemelkedő példája a sivatagi Timbuktu városában.",
@@ -507,7 +504,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Sidi Yahya-mecset",
       ro: "Moscheea Sidi Yahya",
       en: "Sidi Yahya Mosque"},
-    image: "/poi-images/mali-sidi-yahya-history-v2.webp",
     description: {
       de: "Eine historische Moschee und Madrasa in Timbuktu, die 1440 fertiggestellt wurde und für ihre verschlossenen Türen berühmt war.",
       hu: "Történelmi mecset és medresze Timbuktuban, amely 1440-ben készült el, és legendás zárt ajtóiról volt híres.",
@@ -669,7 +665,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Askia sírja",
       ro: "Mormântul lui Askia",
       en: "Tomb of Askia"},
-    image: "/poi-images/mali-tomb-of-askia-history-v2.webp",
     description: {
       de: "Eine beeindruckende 17 Meter hohe Pyramidenstruktur aus Lehm in Gao, die als Ruhestätte für den Kaiser Askia Mohammad I. dient.",
       hu: "Gao lenyűgöző, 17 méter magas vályogpiramisa, amely I. Askia Mohammad császár nyughelyeként szolgál.",
@@ -759,7 +754,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Kouroukan Fouga",
       ro: "Kouroukan Fouga",
       en: "Kouroukan Fouga"},
-    image: "/poi-images/mali-kouroukan-fouga-history-v2.webp",
     description: {
       de: "Der historische Ort nahe Kangaba, an dem im 13. Jahrhundert die Verfassung des Mali-Reiches proklamiert wurde.",
       hu: "Kangaba közelében található történelmi helyszín, ahol a 13. században kihirdették a Mali Birodalom alkotmányát.",
@@ -804,7 +798,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Essouk romjai",
       ro: "Ruinele din Essouk",
       en: "Ruins of Essouk"},
-    image: "/poi-images/mali-essouk-ruins-history-v2.webp",
     description: {
       de: "Die archäologischen Überreste der mittelalterlichen Karawanenstadt Tadmakka, einem wichtigen Knotenpunkt des Transsaharahandels.",
       hu: "Tadmakka középkori karavánvárosának régészeti maradványai, amely a transzszaharai kereskedelem fontos csomópontja volt.",
@@ -930,7 +923,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Médine erőd",
       ro: "Fortul Médine",
       en: "Fort of Médine"},
-    image: "/poi-images/mali-fort-medine-history-v2.webp",
     description: {
       de: "Ein ehemaliger französischer Militärposten aus dem Jahr 1855, der eine Schlüsselrolle in der Kolonialisierung Westafrikas spielte.",
       hu: "Egy 1855-ből származó volt francia katonai előőrs, amely kulcsszerepet játszott Nyugat-Afrika gyarmatosításában.",
@@ -1110,7 +1102,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Hamdallahi romjai",
       ro: "Ruinele din Hamdallahi",
       en: "Ruins of Hamdallahi"},
-    image: "/poi-images/mali-hamdallahi-ruins-history-v2.webp",
     description: {
       de: "Die verlassene Hauptstadt des Fulbe-Reiches von Macina, die im 19. Jahrhundert eine wichtige Rolle in der islamischen Geschichte der Region spielte.",
       hu: "A Macina Fula Birodalom elhagyott fővárosa, amely a 19. században fontos szerepet játszott a régió iszlám történelmében.",
@@ -1160,7 +1151,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Kamablon Kangabában",
       ro: "Kamablon din Kangaba",
       en: "Kamablon in Kangaba"},
-    image: "/poi-images/mali-kamablon-kangaba-history-v2.webp",
     description: {
       de: "Eine heilige Rundhütte der Mandinka in Kangaba, die eng mit der Gründungsgeschichte und den Traditionen des Mali-Reiches verbunden ist.",
       hu: "A mandinkák szent kerek kunyhója Kangabában, amely szorosan kapcsolódik a Mali Birodalom alapítási történetéhez és hagyományaihoz.",
@@ -1210,7 +1200,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Tondidarou megalitjai",
       ro: "Megalitii din Tondidarou",
       en: "Megaliths of Tondidarou"},
-    image: "/poi-images/mali-tondidarou-megaliths-history-v2.webp",
     description: {
       de: "Eine beeindruckende Ansammlung prähistorischer Steinstelen in der Region der Niafunké-Seen, deren genauer Ursprung noch Rätsel aufgibt.",
       hu: "Történelem előtti kősztélék lenyűgöző gyűjteménye a Niafunké-tavak régiójában, amelyek pontos eredete még mindig rejtély.",
@@ -1255,7 +1244,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Nioro du Sahel Tatája",
       ro: "Tata din Nioro du Sahel",
       en: "Tata of Nioro du Sahel"},
-    image: "/poi-images/mali-tata-nioro-history-v2.webp",
     description: {
       de: "Eine historische Festung im Nordwesten Malis, erbaut von El Hadj Umar Tall zur Kontrolle der Region Kaarta.",
       hu: "Történelmi erőd Mali északnyugati részén, amelyet El Hadj Umar Tall építtetett a Kaarta régió ellenőrzésére.",
@@ -1381,7 +1369,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Djenné-Djenno",
       ro: "Djenné-Djenno",
       en: "Djenné-Djenno"},
-    image: "/poi-images/mali-djenne-djenno-history-v2.webp",
     description: {
       de: "Eine der ältesten bekannten Städte in Subsahara-Afrika, deren Ruinen von einer hoch entwickelten eisenzeitlichen Kultur zeugen.",
       hu: "Fekete-Afrika egyik legrégebbi ismert városa, amelynek romjai egy fejlett vaskori kultúráról tanúskodnak.",
@@ -1426,7 +1413,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "A kirinai csata helyszíne",
       ro: "Câmpul de bătălie de la Kirina",
       en: "Kirina Battlefield"},
-    image: "/poi-images/mali-kirina-battlefield-history-v2.webp",
     description: {
       de: "Der historische Ort der epischen Schlacht von Kirina um 1235, bei der Sunjata Keita das Sosso-Reich besiegte.",
       hu: "Az 1235 körüli kirinai csata történelmi helyszíne, ahol Szundiata Keita legyőzte a Sosso Birodalmat.",
@@ -1471,7 +1457,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Mopti nagymecsetje",
       ro: "Marea Moschee din Mopti",
       en: "Grand Mosque of Mopti"},
-    image: "/poi-images/mali-mopti-mosque-history-v2.webp",
     description: {
       de: "Ein beeindruckendes Beispiel der sudanesisch-sahelischen Lehmarchitektur, das das Stadtbild von Mopti dominiert.",
       hu: "A szudáni-szaheli vályogépítészet lenyűgöző példája, amely Mopti városképét uralja.",
@@ -1633,7 +1618,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Ségou-Koro",
       ro: "Ségou-Koro",
       en: "Ségou-Koro"},
-    image: "/poi-images/mali-segou-koro-history-v2.webp",
     description: {
       de: "Die alte historische Stadt und erste Hauptstadt des Bambara-Reiches, gelegen am malerischen Ufer des Niger.",
       hu: "A Bambara Birodalom ősi történelmi városa és első fővárosa, a Niger folyó festői partján.",
@@ -1723,7 +1707,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Gao-Saney",
       ro: "Gao-Saney",
       en: "Gao-Saney"},
-    image: "/poi-images/mali-gao-saney-history-v2.webp",
     description: {
       de: "Eine bedeutende archäologische Stätte östlich von Gao, die wertvolle Einblicke in die frühen islamischen Herrscher von Westafrika bietet.",
       hu: "Jelentős régészeti lelőhely Gaotól keletre, amely értékes betekintést nyújt Nyugat-Afrika korai iszlám uralkodóiba.",
@@ -1813,7 +1796,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Markala-gát",
       ro: "Barajul Markala",
       en: "Markala Dam"},
-    image: "/poi-images/mali-markala-dam-history-v2.webp",
     description: {
       de: "Ein monumentales Bauwerk der französischen Kolonialzeit am Niger, das für das großangelegte Office du Niger-Bewässerungsprojekt errichtet wurde.",
       hu: "A francia gyarmati időszak monumentális építménye a Niger folyón, amelyet a nagyszabású Office du Niger öntözési projekthez építettek.",
@@ -1858,7 +1840,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Kita gyarmati erődje",
       ro: "Fortul colonial din Kita",
       en: "Colonial Fort of Kita"},
-    image: "/poi-images/mali-fort-kita-history-v2.webp",
     description: {
       de: "Überreste einer französischen Festung aus dem 19. Jahrhundert, die als strategischer Stützpunkt bei der Expansion nach Französisch-Sudan diente.",
       hu: "Egy 19. századi francia erőd romjai, amely stratégiai támaszpontként szolgált a Francia Szudánba történő terjeszkedés során.",
@@ -1903,7 +1884,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Bandiagara Tellem-barlangjai",
       ro: "Peșterile Tellem din Bandiagara",
       en: "Tellem Caves of Bandiagara"},
-    image: "/poi-images/mali-tellem-caves-history-v2.webp",
     description: {
       de: "Alte Behausungen und Gräber hoch oben in der Felswand von Bandiagara, erbaut von dem geheimnisvollen Volk der Tellem vor Ankunft der Dogon.",
       hu: "Bandiagara sziklafalában magasan található ősi lakóhelyek és sírok, amelyeket a titokzatos tellem nép épített a dogonok érkezése előtt.",
@@ -1993,7 +1973,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Modibo Keita Emlékmű",
       ro: "Memorialul Modibo Keïta",
       en: "Modibo Keita Memorial"},
-    image: "/poi-images/mali-modibo-keita-memorial-history-v2.webp",
     description: {
       de: "Ein markantes Denkmal in Bamako, das dem ersten Präsidenten von Mali gewidmet ist und die Geschichte der Unabhängigkeit des Landes ehrt.",
       hu: "Jelentős emlékmű Bamakóban, amelyet Mali első elnökének szenteltek, és tiszteleg az ország függetlenségének története előtt.",
@@ -2083,7 +2062,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Bamako Függetlenségi Emlékműve",
       ro: "Monumentul Independenței din Bamako",
       en: "Independence Monument Bamako"},
-    image: "/poi-images/mali-independence-monument-history-v2.webp",
     description: {
       de: "Ein wichtiges Wahrzeichen in der Hauptstadt, das 1960 die Befreiung Malis von der französischen Kolonialherrschaft markierte.",
       hu: "A főváros fontos nevezetessége, amely az 1960-as francia gyarmati uralom alóli felszabadulást jelzi.",
@@ -2128,7 +2106,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Niamina történelmi központja",
       ro: "Centrul istoric Niamina",
       en: "Historic Center of Niamina"},
-    image: "/poi-images/mali-niamina-historic-center-history-v2.webp",
     description: {
       de: "Ein ehemals wichtiger Flusshafen und Handelsplatz am Niger, der während der Blütezeit der Reiche von Ségou und Macina florierte.",
       hu: "Egykor fontos folyami kikötő és kereskedelmi központ a Niger folyón, amely a Ségou és Macina birodalmak virágzása idején élte fénykorát.",
@@ -2178,7 +2155,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Gyarmati épületek Bougouniban",
       ro: "Clădiri coloniale în Bougouni",
       en: "Colonial Buildings of Bougouni"},
-    image: "/poi-images/mali-bougouni-colonial-buildings-history-v2.webp",
     description: {
       de: "Architektonische Überreste aus der Zeit, als Bougouni ein wichtiges französisches Verwaltungszentrum in der südlichen Baumwollregion war.",
       hu: "Építészeti maradványok abból az időből, amikor Bougouni fontos francia adminisztratív központ volt a déli gyapottermő régióban.",
@@ -2228,7 +2204,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Ségou régi városfala",
       ro: "Vechile ziduri din Ségou",
       en: "Old Walls of Ségou"},
-    image: "/poi-images/mali-segou-old-walls-history-v2.webp",
     description: {
       de: "Die historischen Befestigungsreste der Stadt, die einst das Machtzentrum der Bambara-Könige vor Invasionen schützten.",
       hu: "A város történelmi erődítményeinek maradványai, amelyek egykor a bambara királyok hatalmi központját védték az invázióktól.",
@@ -2318,7 +2293,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Bamako Kézműves Háza",
       ro: "Casa Artizanilor din Bamako",
       en: "Artisan House Bamako"},
-    image: "/poi-images/mali-bamako-artisan-house-history-v2.webp",
     description: {
       de: "Ein historisches Gebäude im Zentrum Bamakos, das 1933 gegründet wurde, um traditionelles malisches Kunsthandwerk zu fördern.",
       hu: "Egy történelmi épület Bamako központjában, amelyet 1933-ban alapítottak a hagyományos mali kézművesség népszerűsítésére.",
@@ -2363,7 +2337,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Koulikoro történelmi kompjárata",
       ro: "Stația istorică de feribot din Koulikoro",
       en: "Koulikoro Historic Ferry Station"},
-    image: "/poi-images/mali-koulikoro-ferry-history-v2.webp",
     description: {
       de: "Der Endpunkt der alten Dakar-Niger-Eisenbahn, wo Güter auf den Fluss umgeschlagen wurden und die Region wirtschaftlich prägten.",
       hu: "A régi Dakar-Niger vasútvonal végállomása, ahol az árukat a folyóra rakodták át, ami gazdaságilag meghatározta a régiót.",
@@ -2453,7 +2426,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: "Mopti régi kikötője",
       ro: "Vechiul port din Mopti",
       en: "Old Port of Mopti"},
-    image: "/poi-images/mali-old-port-mopti-history-v2.webp",
     description: {
       de: "Ein lebendiger historischer Handelshafen, bekannt als das 'Venedig Malis', wo Bozo-Fischer und Händler seit Generationen zusammenkommen.",
       hu: "Nyüzsgő történelmi kereskedelmi kikötő, amelyet 'Mali Velencéjeként' is ismernek, ahol a bozo halászok és kereskedők generációk óta találkoznak.",

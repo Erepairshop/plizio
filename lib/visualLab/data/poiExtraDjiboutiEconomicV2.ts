@@ -125,7 +125,6 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
       pt: ["Dispõe de importantes reservas estratégicas de petróleo para a região.", "Possui uma capacidade de armazenamento de várias centenas de milhares de metros cúbicos.", "Cumpre as mais elevadas normas internacionais de segurança e ambiente.", "Um dos distribuidores de combustível mais importantes do Corno de África.", "Estreitamente interligado com a restante infraestrutura portuária de Doraleh.", "Indispensável para a produção industrial e para o setor dos transportes."],
       fr: ["Dispose d'importantes réserves pétrolières stratégiques pour la région.", "Possède une capacité de stockage de plusieurs centaines de milliers de mètres cubes.", "Répond aux normes internationales de sécurité et d'environnement les plus strictes.", "L'un des plus importants distributeurs de carburant de la Corne de l'Afrique.", "Étroitement lié au reste de l'infrastructure portuaire de Doraleh.", "Indispensable pour la production industrielle et le secteur des transports."],
     }, },
-    image: "/poi-images/horizon-djibouti-terminals-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Terminal für die Lagerung und den Umschlag von Erdölprodukten, das die Energieversorgung der gesamten Region sicherstellt.",
       hu: "Kőolajtermékek tárolására és átrakodására szolgáló jelentős terminál, amely az egész régió energiaellátását biztosítja.",
@@ -290,7 +289,6 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
       pt: ["Terminal especializado para a movimentação de produtos mineiros.", "Estrategicamente localizado no Golfo de Ghoubbet.", "Possui um moderno sistema de correias transportadoras para carregamento.", "Utilizado principalmente para a exportação de perlita e sal.", "Garante contratos de longo prazo com empresas mineiras internacionais.", "Construído seguindo rigorosas diretrizes de proteção ambiental."],
       fr: ["Terminal spécialisé pour le transbordement de produits miniers.", "Idéalement situé sur le golfe du Ghoubbet-el-Kharab.", "Dispose d'un système de convoyeurs à bande moderne pour le chargement.", "Utilisé principalement pour l'exportation de perlite et de sel.", "Garantit des contrats à long terme avec des sociétés minières internationales.", "Construit dans le respect de normes environnementales strictes."],
     }, },
-    image: "/poi-images/ghoubbet-mineral-port-economic-v2.webp",
     description: {
       de: "Dieser spezialisierte Hafen wurde für den Export von Bodenschätzen wie Salz und Perlit aus den umliegenden Minen konzipiert.",
       hu: "Ezt a speciális kikötőt olyan ásványkincsek exportjára tervezték, mint a só és a perlit a környező bányákból.",
@@ -527,7 +525,6 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
       pt: ["Complexo portuário especializado na exportação de gado vivo.", "Possui estações de quarentena modernas para exames de saúde.", "Movimenta centenas de milhares de animais por ano com segurança.", "Plataforma central para o comércio regional de gado no Corno de África.", "Sujeito aos mais rigorosos protocolos e controlos veterinários.", "Aumenta as receitas de exportação do país através de uma logística eficiente."],
       fr: ["Complexe portuaire spécialisé dans l'exportation de bétail vivant.", "Dispose de stations de quarantaine modernes pour les contrôles sanitaires.", "Traite chaque année plusieurs centaines de milliers d'animaux en toute sécurité.", "Plaque tournante centrale pour le commerce régional du bétail dans la Corne de l'Afrique.", "Soumis aux protocoles et contrôles vétérinaires les plus stricts.", "Augmente les revenus d'exportation du pays grâce à une logistique efficace."],
     }, },
-    image: "/poi-images/damerjog-livestock-port-economic-v2.webp",
     description: {
       de: "Ein moderner Hafenkomplex, der auf den Export von Vieh spezialisiert ist und strenge Quarantäne- und Gesundheitsstandards erfüllt.",
       hu: "Modern kikötőkomplexum, amely élőállat-exportra szakosodott, és szigorú karantén- és egészségügyi szabványoknak felel meg.",
@@ -836,7 +833,6 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
       pt: ["A entrada em funcionamento do porto ocorreu em junho de 2017.", "Os custos de construção ascenderam a cerca de 160 milhões de dólares.", "Capacidade anual de movimentação de 4 milhões de toneladas de potássio.", "Dispõe de dois postos de atracagem com uma profundidade de 15 metros.", "Ligação direta à Etiópia através de uma autoestrada de 120 km.", "Pode receber navios graneleiros até 65.000 DWT."],
       fr: ["La mise en service du port a eu lieu en juin 2017.", "Les coûts de construction se sont élevés à environ 160 millions de dollars.", "Capacité de manutention annuelle de 4 millions de tonnes de potasse.", "Dispose de deux postes d'amarrage d'une profondeur de 15 mètres.", "Liaison directe avec l'Éthiopie via une autoroute de 120 km.", "Peut accueillir des vraquiers jusqu'à 65 000 DWT."],
     }, },
-    image: "/poi-images/tadjourah-potash-port-economic-v2.webp",
     description: {
       de: "Ein spezialisierter Exporthafen im Norden, der hauptsächlich für die Verschiffung von Kali aus äthiopischen Minen genutzt wird.",
       hu: "Speciális északi exportkikötő, amelyet főként az etióp bányákból származó kálium szállítására használnak.",
@@ -1563,7 +1559,6 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
       pt: ["Capacidade de produção anual de cerca de 200.000 toneladas de cimento.", "Construção com o apoio de investimentos chineses.", "Utiliza jazigos locais de calcário da região de Ali Sabieh.", "Fornecedor fundamental para a expansão de portos e caminhos-de-ferro.", "O maior empregador industrial no sul do Djibuti.", "Ligação direta à linha ferroviária para Adis Abeba."],
       fr: ["Capacité de production annuelle d'environ 200 000 tonnes de ciment.", "Construction avec le soutien d'investissements chinois.", "Exploite les gisements locaux de calcaire de la région d'Ali Sabieh.", "Fournisseur majeur pour l'extension des ports et des chemins de fer.", "Plus grand employeur industriel du sud de Djibouti.", "Liaison directe avec la ligne de chemin de fer vers Addis-Abeba."],
     }, },
-    image: "/poi-images/ali-sabieh-cement-industry-economic-v2.webp",
     description: {
       de: "Ein wichtiges Industriewerk im Süden, das den Baustoffbedarf für die massiven Infrastrukturprojekte des Landes deckt.",
       hu: "Fontos déli ipari létesítmény, amely az ország hatalmas infrastrukturális projektjeinek építőanyag-igényét elégíti ki.",
@@ -2218,7 +2213,6 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
       pt: ["Primeiro parque eólico do Djibuti com uma capacidade de 60 MW.", "Composto por 17 turbinas eólicas Siemens Gamesa SG 3.4-132.", "Entrada oficial em funcionamento no ano de 2023.", "Financiamento pela Africa Finance Corporation (AFC) e FMO.", "Poupança esperada de CO2 de 250.000 toneladas por ano.", "Abastece cerca de 120.000 pessoas com eletricidade."],
       fr: ["Premier parc éolien de Djibouti avec une capacité de 60 MW.", "Composé de 17 éoliennes Siemens Gamesa SG 3.4-132.", "Mise en service officielle en 2023.", "Financement par l'Africa Finance Corporation (AFC) et la FMO.", "Économie de CO2 prévue de 250 000 tonnes par an.", "Alimente environ 120 000 personnes en électricité."],
     }, },
-    image: "/poi-images/goubet-wind-farm-industry-economic-v2.webp",
     description: {
       de: "Dschibutis erster Windpark nutzt die starken Winde an der Küste, um sauberen Strom für das nationale Stromnetz zu erzeugen.",
       hu: "Dzsibuti első szélerőműparkja a tengerparti erős szeleket használja fel tiszta áram előállítására a nemzeti hálózat számára.",
@@ -2266,7 +2260,6 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
       pt: ["Localiza-se a 12 quilómetros do centro da cidade do Djibuti.", "Localização estratégica na estrada nacional N1 para a Etiópia.", "Alberga mais de 50 empresas internacionais de logística e indústria.", "Proximidade direta ao Doraleh Multi-Purpose Port (DMP).", "Foco no armazenamento, embalagem e montagem ligeira.", "Ponto importante para o tráfego de trânsito de camiões no Corno de África."],
       fr: ["Situé à 12 kilomètres du centre de la ville de Djibouti.", "Emplacement stratégique sur la route nationale N1 vers l'Éthiopie.", "Abrite plus de 50 entreprises logistiques et industrielles internationales.", "Proximité directe du Doraleh Multi-Purpose Port (DMP).", "Axé sur le stockage, l'emballage et l'assemblage léger.", "Point important pour le trafic de transit des camions dans la Corne de l'Afrique."],
     }, },
-    image: "/poi-images/pk12-industrial-zone-economic-v2.webp",
     description: {
       de: "Die Industriezone PK12 bei Djibouti-Stadt ist ein zentraler Umschlagplatz für Handel und Produktion.",
       hu: "Gyorsan növekvő ipari terület a főváros szélén, amely számos gyárnak és logisztikai cégnek ad otthont.",
@@ -2493,7 +2486,6 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
       pt: ["Primeiro centro de dados com certificação Tier III na África Oriental.", "Oferece acesso a mais de 12 sistemas internacionais de cabos submarinos.", "Nó estratégico para SEA-ME-WE, EIG e AAE-1.", "Acolhe o Djibouti Internet Exchange (DjIX).", "Permite ligações diretas à Europa, Ásia e África.", "Disponibilidade garantida de 99,982% por ano."],
       fr: ["Premier centre de données certifié Tier III en Afrique de l'Est.", "Offre un accès à plus de 12 systèmes de câbles sous-marins internationaux.", "Nœud stratégique pour SEA-ME-WE, EIG et AAE-1.", "Héberge le Djibouti Internet Exchange (DjIX).", "Permet des connexions directes vers l'Europe, l'Asie et l'Afrique.", "Disponibilité garantie de 99,982 % par an."],
     }, },
-    image: "/poi-images/djibouti-data-center-economic-v2.webp",
     description: {
       de: "Ein neutrales Rechenzentrum, das Dschibuti als digitalen Knotenpunkt zwischen Afrika, dem Nahen Osten und Europa positioniert.",
       hu: "Semleges adatközpont, amely Dzsibutit digitális csomópontként pozicionálja Afrika, a Közel-Kelet és Európa között.",
@@ -2707,7 +2699,6 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
       pt: ["Entrada em funcionamento da primeira fase de construção em 2021, após início em 2020.", "O cais estende-se por um comprimento total de 675 metros.", "A capacidade de manuseamento anual é estimada em cerca de 13 milhões de toneladas.", "A capacidade de armazenamento dos tanques ligados é de 150.000 metros cúbicos.", "O volume de investimento para o complexo portuário foi de cerca de 190 milhões de dólares.", "Parte do projeto maior Djibouti Damerjog Industrial Park (DDIP)."],
       fr: ["Mise en service de la première phase en 2021 après un début de travaux en 2020.", "L'embarcadère s'étend sur une longueur totale de 675 mètres.", "La capacité annuelle de manutention est estimée à environ 13 millions de tonnes.", "La capacité de stockage des réservoirs reliés est de 150 000 mètres cubes.", "Le volume d'investissement pour le complexe portuaire s'est élevé à environ 190 millions USD.", "Fait partie du projet plus vaste du parc industriel Djibouti Damerjog (DDIP)."],
     }, },
-    image: "/poi-images/damerjog-liquid-bulk-port-economic-v2.webp",
     description: {
       de: "Der Hafen von Damerjog ist auf den Umschlag von Flüssiggütern wie Öl spezialisiert.",
       hu: "Speciális kikötő a folyékony gáz és más vegyipari termékek importjára és exportjára.",
@@ -2980,7 +2971,6 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
       pt: ["A extração industrial de perlita no local começou oficialmente em 2017.", "A capacidade de produção anual da mina é de cerca de 50.000 toneladas.", "As reservas estimadas de perlita na região somam vários milhões de toneladas.", "A unidade é operada pela empresa East Africa Perlite Industries.", "A perlita é uma rocha vulcânica formada pelo arrefecimento rápido da lava.", "A mina está estrategicamente localizada perto do golfo Ghoubbet-al-Kharab."],
       fr: ["L'exploitation industrielle de la perlite a débuté officiellement en 2017.", "La capacité de production annuelle de la mine est d'environ 50 000 tonnes.", "Les réserves de perlite sont estimées à plusieurs millions de tonnes.", "L'installation est exploitée par la société East Africa Perlite Industries.", "La perlite est une roche volcanique issue du refroidissement rapide de la lave.", "La mine est idéalement située à proximité du golfe du Ghoubbet-el-Kharab."],
     }, },
-    image: "/poi-images/ghoubbet-perlite-mine-economic-v2.webp",
     description: {
       de: "In der Ghoubbet-Region wird Perlit abgebaut, ein wertvolles vulkanisches Glas für industrielle Zwecke.",
       hu: "Perlit bányászata, amely egy vulkáni kőzet, és világszerte használják az építőiparban és a kertészetben.",
@@ -3145,7 +3135,6 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
       pt: ["As perfurações de exploração para o projeto Fiale começaram em 2018.", "As perfurações atingem profundidades de cerca de 2.500 metros.", "Temperaturas de até 270 °C foram medidas nos reservatórios geotérmicos.", "A capacidade planeada para a primeira fase é de 15 a 50 MW.", "O projeto é financiado pelo Banco Mundial e pelo Banco Africano de Desenvolvimento.", "O objetivo é a transição da matriz energética nacional para 100% renováveis."],
       fr: ["Les forages d'exploration pour le projet Fiale ont débuté en 2018.", "Les forages atteignent des profondeurs d'environ 2 500 mètres.", "Des températures allant jusqu'à 270 °C ont été mesurées dans les réservoirs.", "La capacité prévue pour la première étape est de 15 à 50 MW.", "Le projet est soutenu par la Banque mondiale et la Banque africaine de développement.", "L'objectif est de passer à un approvisionnement énergétique 100 % renouvelable."],
     }, },
-    image: "/poi-images/fiale-geothermal-industry-economic-v2.webp",
     description: {
       de: "Nutzung der enormen Erdwärme in der geologisch aktiven Assal-Region zur nachhaltigen Stromerzeugung.",
       hu: "A geológiailag aktív Assal-régió hatalmas födhőjének hasznosítása fenntartható áramtermelésre.",

@@ -12,7 +12,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "Elnöki Palota",
       ro: "Palatul Prezidențial",
       en: "Presidential Palace"},
-    image: "/poi-images/palacio-presidencial-st-landmarks-v2.webp",
     description: {
       de: "Der Präsidentenpalast ist ein elegantes Gebäude aus der Kolonialzeit im Herzen der Hauptstadt, das als offizieller Amtssitz des Staatsoberhauptes dient. Mit seiner rosafarbenen Fassade und den gepflegten Gärten ist er eines der meistfotografierten Gebäude des Landes und ein Symbol der nationalen Souveränität.",
       hu: "Az Elnöki Palota egy elegáns, gyarmati kori épület a főváros szívében, amely az államfő hivatalos rezidenciájaként szolgál. Rózsaszín homlokzatával és gondozott kertjeivel az ország egyik legtöbbet fényképezett épülete és a nemzeti szuverenitás jelképe.",
@@ -80,7 +79,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "Városi Piac",
       ro: "Piața Municipală",
       en: "Municipal Market"},
-    image: "/poi-images/mercado-municipal-st-landmarks-v2.webp",
     description: {
       de: "Der Mercado Municipal ist das pulsierende Herz des Handels in der Hauptstadt, wo die Farben und Düfte des Archipels aufeinandertreffen. In dem historischen Gebäude und den umliegenden Straßen bieten Händler alles an, von frischem Fisch und exotischen Früchten bis hin zu handgewebten Körben und lokalen Gewürzen.",
       hu: "A Városi Piac a kereskedelem lüktető szíve a fővárosban, ahol a szigetcsoport színei és illatai találkoznak. A történelmi épületben és a környező utcákban az árusok a friss haltól és az egzotikus gyümölcsöktől kezdve a kézzel szőtt kosarakig és helyi fűszerekig mindent kínálnak.",
@@ -148,7 +146,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "Július 12. Nemzeti Stadion",
       ro: "Stadionul Național 12 Iulie",
       en: "National Stadium July 12"},
-    image: "/poi-images/estadio-nacional-st-landmarks-v2.webp",
     description: {
       de: "Das Estádio Nacional 12 de Julho ist die wichtigste Sportstätte des Landes und Austragungsort für internationale Fußballspiele sowie nationale Feierlichkeiten. Benannt nach dem Tag der Unabhängigkeit, ist es ein Symbol für den nationalen Stolz und die Leidenschaft der Santomeer für den Fußball.",
       hu: "Az Estádio Nacional 12 de Julho az ország legfontosabb sportlétesítménye, nemzetközi labdarúgó-mérkőzések és nemzeti ünnepségek helyszíne. A függetlenség napjáról elnevezett stadion a nemzeti büszkeség és a São Tomé-iak futball iránti szenvedélyének jelképe.",
@@ -261,7 +258,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "Nemzeti Könyvtár",
       ro: "Biblioteca Națională",
       en: "National Library"},
-    image: "/poi-images/biblioteca-nacional-st-landmarks-v2.webp",
     description: {
       de: "Die Nationalbibliothek von São Tomé und Príncipe ist der wichtigste Ort für die Bewahrung des literarischen Erbes des Landes. In ihren Hallen werden historische Dokumente, seltene Bücher und Zeitzeugnisse gesammelt, die die reiche Geschichte und Kultur des Archipels dokumentieren.",
       hu: "A São Tomé és Príncipe-i Nemzeti Könyvtár az ország irodalmi örökségének megőrzésének legfontosabb helyszíne. Csarnokaiban történelmi dokumentumokat, ritka könyveket és kordokumentumokat őriznek, amelyek a szigetcsoport gazdag történelmét és kultúráját dokumentálják.",
@@ -329,7 +325,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "Nemzetgyűlés",
       ro: "Adunarea Națională",
       en: "National Assembly"},
-    image: "/poi-images/assembleia-nacional-st-landmarks-v2.webp",
     description: {
       de: "Die Nationalversammlung ist das parlamentarische Zentrum des Landes, in dem die demokratischen Entscheidungen für die Zukunft von São Tomé und Príncipe getroffen werden. Das Gebäude liegt markant in der Nähe der Küste und spiegelt die moderne politische Architektur des Inselstaates wider.",
       hu: "A Nemzetgyűlés az ország parlamenti központja, ahol a São Tomé és Príncipe jövőjét meghatározó demokratikus döntések születnek. Az épület jellegzetesen a tengerpart közelében található, tükrözve a szigetország modern politikai építészetét.",
@@ -397,7 +392,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "Központi Bank",
       ro: "Banca Centrală",
       en: "Central Bank"},
-    image: "/poi-images/banco-central-st-landmarks-v2.webp",
     description: {
       de: "Die Zentralbank ist die oberste Währungsbehörde des Landes und ein architektonisch markantes Gebäude im Stadtzentrum. Sie ist verantwortlich für die Stabilität der nationalen Währung, der Dobra, und spielt eine entscheidende Rolle in der wirtschaftlichen Entwicklung des Archipels.",
       hu: "A Központi Bank az ország legfőbb monetáris hatósága, egy építészetileg jellegzetes épület a városközpontban. Felelős a nemzeti valuta, a dobra stabilitásáért, és döntő szerepet játszik a szigetcsoport gazdasági fejlődésében.",
@@ -465,7 +459,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "Imperador Mozi és Színház",
       ro: "Cine-Teatrul Imperador",
       en: "Cine-Teatro Imperador"},
-    image: "/poi-images/cine-teatro-imperador-st-landmarks-v2.webp",
     description: {
       de: "Das Cine-Teatro Imperador ist ein prächtiges Gebäude im Art-déco-Stil, das an die kulturelle Blütezeit der Hauptstadt erinnert. Als wichtigstes Zentrum für Film und darstellende Kunst ist es ein Ort der Begegnung und des kreativen Austauschs, der die nostalgische Eleganz der Vergangenheit mit modernem Leben verbindet.",
       hu: "A Cine-Teatro Imperador egy pompás art déco stílusú épület, amely a főváros kulturális virágkorára emlékeztet. A film és az előadóművészet legfontosabb központjaként a találkozások és a kreatív eszmecsere helyszíne, amely ötvözi a múlt nosztalgikus eleganciáját a modern élettel.",
@@ -578,7 +571,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "Függetlenség tere",
       ro: "Piața Independenței",
       en: "Independence Square"},
-    image: "/poi-images/praca-independencia-st-landmarks-v2.webp",
     description: {
       de: "Die Praça da Independência ist der zentrale Platz der Hauptstadt und der Ort, an dem die Freiheit des Landes offiziell proklamiert wurde. Umgeben von historischen Gebäuden und schattigen Bäumen, ist der Platz ein Treffpunkt für Bürger und ein Schauplatz für nationale Zeremonien.",
       hu: "A Praça da Independência a főváros központi tere, az a hely, ahol hivatalosan kikiáltották az ország szabadságát. Történelmi épületekkel és árnyas fákkal körülvéve a tér a polgárok találkozóhelye és a nemzeti ünnepségek színhelye.",
@@ -646,7 +638,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "Szeplőtelen Fogantatás templom",
       ro: "Biserica Maicii Domnului a Zămislirii",
       en: "Church of Our Lady of Conception"},
-    image: "/poi-images/igreja-nossa-senhora-conceicao-st-landmarks-v2.webp",
     description: {
       de: "Diese charmante Kirche im Stadtzentrum ist ein feines Beispiel für die sakrale Architektur der Kolonialzeit. Mit ihrer leuchtend roten Fassade und den kunstvollen Details ist sie ein Ort der Ruhe und Besinnung inmitten des geschäftigen Treibens der Hauptstadt.",
       hu: "Ez a városközpontban található bájos templom a gyarmati korszak szakrális építészetének szép példája. Ragyogó vörös homlokzatával és művészi részleteivel a nyugalom és az elmélyülés helye a főváros nyüzsgése közepette.",
@@ -714,7 +705,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "São Tomé-i kikötő",
       ro: "Portul São Tomé",
       en: "Port of São Tomé"},
-    image: "/poi-images/porto-sao-tome-landmarks-v2.webp",
     description: {
       de: "Der Hafen von São Tomé ist das maritime Tor des Archipels zur Welt, wo Schiffe aus fernen Ländern anlegen und die Waren für den Export verladen werden. Die geschäftige Atmosphäre am Kai, das Rufen der Hafenarbeiter und der Blick auf die Bucht machen ihn zu einem Ort von strategischer und wirtschaftlicher Bedeutung.",
       hu: "A São Tomé-i kikötő a szigetcsoport tengeri kapuja a világ felé, ahol távoli országokból érkező hajók kötnek ki, és ahol az exportra szánt árukat rakodják. A rakpart nyüzsgő hangulata, a kikötői munkások kiáltásai és az öbölre nyíló kilátás stratégiai és gazdasági jelentőségű hellyé teszik.",
@@ -782,7 +772,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "São Tomé Nemzetközi Repülőtér",
       ro: "Aeroportul Internațional São Tomé",
       en: "São Tomé International Airport"},
-    image: "/poi-images/aeroporto-st-landmarks-v2.webp",
     description: {
       de: "Der internationale Flughafen ist die wichtigste Verbindung des Inselstaates mit dem afrikanischen Festland und Europa. Mit seiner Lage direkt an der Küste bietet er ankommenden Reisenden einen ersten spektakulären Blick auf die üppige Vegetation und das tiefblaue Meer des Archipels.",
       hu: "A nemzetközi repülőtér a szigetország legfontosabb kapcsolata az afrikai kontinenssel és Európával. Közvetlenül a tengerparton fekvő elhelyezkedése az érkező utazóknak elsőként kínál látványos kilátást a szigetcsoport dús növényzetére és mélykék tengerére.",
@@ -918,7 +907,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "Santo António-i piac",
       ro: "Piața din Santo António",
       en: "Santo António Market"},
-    image: "/poi-images/mercado-santo-antonio-landmarks-v2.webp",
     description: {
       de: "Der Markt von Santo António auf der Insel Príncipe ist ein farbenfroher Ort der Begegnung, an dem die lokalen Produkte des Regenwaldes und des Meeres angeboten werden. Die entspannte Atmosphäre und die Freundlichkeit der Händler machen den Besuch zu einem authentischen Erlebnis der Inselkultur.",
       hu: "A Príncipe-szigeti Santo António-i piac egy színes találkozóhely, ahol az esőerdő és a tenger helyi termékeit kínálják. A nyugodt hangulat és az árusok barátságossága a látogatást a szigeti kultúra hiteles élményévé teszi.",
@@ -986,7 +974,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "Santo António-i kikötő",
       ro: "Portul Santo António",
       en: "Port of Santo António"},
-    image: "/poi-images/porto-santo-antonio-landmarks-v2.webp",
     description: {
       de: "Der kleine, aber lebenswichtige Hafen von Santo António ist das logistische Rückgrat der Insel Príncipe. Hier kommen die Versorgungsschiffe aus São Tomé an, und Fischerboote kehren mit ihrem täglichen Fang zurück, während der Blick auf die bewaldeten Berge eine malerische Kulisse bietet.",
       hu: "Santo António kicsi, de létfontosságú kikötője Príncipe szigetének logisztikai gerince. Itt kötnek ki a São Toméból érkező ellátóhajók, és ide térnek vissza a halászcsónakok a napi fogással, miközben az erdős hegyekre nyíló kilátás festői hátteret biztosít.",
@@ -1054,7 +1041,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "Eddington-emlékmű",
       ro: "Monumentul Eddington",
       en: "Eddington Monument"},
-    image: "/poi-images/monumento-eddington-landmarks-v2.webp",
     description: {
       de: "Das Eddington-Denkmal bei der Roça Sundy erinnert an die wissenschaftliche Expedition von 1919, bei der Sir Arthur Eddington während einer Sonnenfinsternis Einsteins Relativitätstheorie bewies. Es markiert einen der bedeutendsten Orte der modernen Wissenschaftsgeschichte inmitten der tropischen Natur.",
       hu: "A Roça Sundy közelében található Eddington-emlékmű az 1919-es tudományos expedíciónak állít emléket, melynek során Sir Arthur Eddington egy napfogyatkozás alkalmával bebizonyította Einstein relativitáselméletét. A modern tudománytörténet egyik legfontosabb helyszínét jelöli a trópusi természet lágy ölén.",
@@ -1122,7 +1108,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "Rózsafüzér Királynője templom",
       ro: "Biserica Maicii Domnului a Rozariului",
       en: "Church of Our Lady of the Rosary"},
-    image: "/poi-images/igreja-nossa-senhora-rosario-principe-landmarks-v2.webp",
     description: {
       de: "Die Kirche Nossa Senhora do Rosário ist das religiöse Wahrzeichen von Santo António auf Príncipe. Mit ihrer klassischen kolonialen Architektur und ihrer zentralen Lage ist sie ein Ort des gemeinschaftlichen Lebens und der Spiritualität für die Bewohner der Insel.",
       hu: "A Nossa Senhora do Rosário templom a Príncipe-szigeti Santo António vallási jelképe. Klasszikus gyarmati építészetével és központi elhelyezkedésével a közösségi élet és a spiritualitás helyszíne a sziget lakói számára.",
@@ -1190,7 +1175,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "Legfelsőbb Bíróság",
       ro: "Curtea Supremă de Justiție",
       en: "Supreme Court of Justice"},
-    image: "/poi-images/tribunal-supremo-justica-st-landmarks-v2.webp",
     description: {
       de: "Der Oberste Gerichtshof ist die höchste richterliche Instanz des Landes und in einem architektonisch bedeutenden Gebäude untergebracht. Er ist das Symbol für die Rechtsstaatlichkeit und die Unabhängigkeit der Justiz in São Tomé und Príncipe.",
       hu: "A Legfelsőbb Bíróság az ország legmagasabb bírói fóruma, amely egy építészetileg jelentős épületben kapott helyet. A jogállamiság és az igazságszolgáltatás függetlenségének jelképe São Tomé és Príncipén.",
@@ -1303,7 +1287,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "Lagoa Azul világítótorony",
       ro: "Farul din Lagoa Azul",
       en: "Lagoa Azul Lighthouse"},
-    image: "/poi-images/farol-lagoa-azul-landmarks-v2.webp",
     description: {
       de: "Der Leuchtturm von Lagoa Azul thront auf einem Hügel über der berühmten blauen Lagune und weist den Seefahrern an der Nordküste den Weg. Von seinem Standort aus bietet sich ein spektakulärer Panoramablick auf den Atlantik und die charakteristischen Baobab-Bäume der Region.",
       hu: "A Lagoa Azul világítótorony a híres kék öböl feletti dombon trónol, utat mutatva a tengerészeknek az északi parton. Elhelyezkedése lenyűgöző panorámát nyújt az Atlanti-óceánra és a régió jellegzetes majomkenyérfáira.",
@@ -1371,7 +1354,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "Ponta da Mina világítótorony",
       ro: "Farul Ponta da Mina",
       en: "Ponta da Mina Lighthouse"},
-    image: "/poi-images/farol-ponta-mina-landmarks-v2.webp",
     description: {
       de: "Der Leuchtturm Ponta da Mina liegt an der östlichen Spitze der Bucht von Santo António auf Príncipe. Inmitten der Ruinen eines alten Forts gelegen, ist er ein Zeuge der maritimen Geschichte und bietet einen weiten Blick auf den Ozean und die üppigen Wälder der Insel.",
       hu: "A Ponta da Mina világítótorony Príncipe szigetén, a Santo António-öböl keleti csücskén található. Egy régi erőd romjai között állva a tengerészeti történelem tanúja, és széles kilátást nyújt az óceánra, valamint a sziget dús erdőire.",
@@ -1507,7 +1489,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "Batepá-emlékmű",
       ro: "Memorialul Batepá",
       en: "Batepá Memorial"},
-    image: "/poi-images/monumento-batepa-landmarks-v2.webp",
     description: {
       de: "Das Mahnmal von Batepá in Fernão Dias erinnert an die Opfer des Massakers von 1953, ein Wendepunkt im nationalen Bewusstsein und im Streben nach Unabhängigkeit. Es ist ein Ort des Gedenkens und des Respekts vor denen, die für die Freiheit des Archipels kämpften.",
       hu: "A Fernão Dias-i Batepá-emlékmű az 1953-as mészárlás áldozatainak állít emléket, amely fordulópont volt a nemzeti öntudatra ébredésben és a függetlenségért vívott küzdelemben. Az emlékezés és a szigetcsoport szabadságáért küzdők előtti tiszteletadás helyszíne.",
@@ -1643,7 +1624,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "Água Grande-folyó hídja",
       ro: "Podul peste râul Água Grande",
       en: "Bridge over the Rio Água Grande"},
-    image: "/poi-images/ponte-rio-agua-grande-landmarks-v2.webp",
     description: {
       de: "Die Brücke über den Rio Água Grande ist ein funktionales und historisches Wahrzeichen im Zentrum von São Tomé. Sie verbindet die verschiedenen Stadtteile über den wichtigsten Fluss der Hauptstadt und ist ein lebendiger Ort des täglichen Verkehrs und Austauschs.",
       hu: "Az Água Grande-folyó feletti híd egy funkcionális és történelmi jelentőségű építmény São Tomé központjában. Összeköti a különböző városrészeket a főváros legfontosabb folyója felett, a mindennapi forgalom és érintkezés élénk helyszíne.",
@@ -1711,7 +1691,6 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
       hu: "Tengerparti sétány",
       ro: "Faleza (Marginal)",
       en: "Waterfront Promenade"},
-    image: "/poi-images/esplanada-maritima-st-landmarks-v2.webp",
     description: {
       de: "Die Esplanada Marítima, lokal als Marginal bekannt, ist die beliebteste Flaniermeile der Hauptstadt. Sie erstreckt sich entlang der Bucht von Ana Chaves und bietet Bewohnern und Besuchern einen Ort zum Entspannen, Spazierengehen und Genießen der Meeresbrise unter dem weiten Himmel.",
       hu: "Az Esplanada Marítima, helyi nevén Marginal, a főváros legnépszerűbb sétatere. Az Ana Chaves-öböl mentén húzódik, lehetőséget nyújtva a lakóknak és a látogatóknak a pihenésre, sétára és a tengeri szellő élvezetére a tágas ég alatt.",

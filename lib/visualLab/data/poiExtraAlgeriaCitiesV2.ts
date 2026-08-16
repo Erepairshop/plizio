@@ -917,7 +917,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-16",
     coords: [3.0588, 36.7538],
     name: { de: "Algier", hu: "Algír", ro: "Alger", en: "Algiers"},
-    image: "/poi-images/algiers-cities-v2.webp",
     description: { de: "Algier ist die Hauptstadt und größte Stadt Algeriens, gelegen an der Mittelmeerküste.", hu: "Algír Algéria fővárosa és legnagyobb városa, a Földközi-tenger partján fekszik.", ro: "Alger este capitala și cel mai mare oraș al Algeriei, situat pe coasta Mării Mediterane.", en: "Algiers is the capital and largest city of Algeria, located on the Mediterranean coast." , es: "Argel es la capital y la ciudad más grande de Argelia, situada en la costa mediterránea.", pt: "Argel é a capital e a maior cidade da Argélia, situada na costa mediterrânica.", fr: "Alger est la capitale et la plus grande ville d'Algérie, située sur la côte méditerranéenne."},
     facts: {
       de: ["Politisches und wirtschaftliches Zentrum", "Bekannt als 'Alger la Blanche' (Algier die Weiße)"],
@@ -1243,7 +1242,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-31",
     coords: [-0.6331, 35.6911],
     name: { de: "Oran", hu: "Orán", ro: "Oran", en: "Oran"},
-    image: "/poi-images/oran-cities-v2.webp",
     description: { de: "Oran ist die zweitgrößte Stadt Algeriens und ein wichtiges wirtschaftliches und kulturelles Zentrum.", hu: "Orán Algéria második legnagyobb városa, fontos gazdasági és kulturális központ.", ro: "Oran este al doilea oraș ca mărime din Algeria și un important centru economic și cultural.", en: "Oran is the second-largest city in Algeria and a major economic and cultural center." , es: "Orán es la segunda ciudad más grande de Argelia y un importante centro económico y cultural.", pt: "Orã é a segunda maior cidade da Argélia e um importante centro económico e cultural.", fr: "Oran est la deuxième plus grande ville d'Algérie et un centre économique et culturel majeur."},
     facts: {
       de: ["Zweitgrößte Stadt Algeriens", "Geburtsort der Raï-Musik"],
@@ -1539,7 +1537,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-25",
     coords: [6.6147, 36.365],
     name: { de: "Constantine", hu: "Kaszentína", ro: "Constantine", en: "Constantine"},
-    image: "/poi-images/constantine-cities-v2.webp",
     description: { de: "Constantine ist bekannt als die 'Stadt der Brücken' und liegt in Nordost-Algerien.", hu: "Kaszentína a 'hidak városa' néven ismert, Északkelet-Algériában található.", ro: "Constantine este cunoscut ca 'Orașul Podurilor' și este situat în nord-estul Algeriei.", en: "Constantine is known as the 'City of Bridges' and is located in north-eastern Algeria." , es: "Constantina es conocida como la 'Ciudad de los Puentes' y se encuentra en el noreste de Argelia.", pt: "Constantina é conhecida como a 'Cidade das Pontes' e situa-se no nordeste da Argélia.", fr: "Constantine est célèbre comme la 'Ville des ponts' et se situe au nord-est de l'Algérie."},
     facts: {
       de: ["Stadt der Hängebrücken", "Wichtige historische Stadt"],
@@ -1979,7 +1976,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-23",
     coords: [7.7667, 36.9],
     name: { de: "Annaba", hu: "Annába", ro: "Annaba", en: "Annaba"},
-    image: "/poi-images/annaba-cities-v2.webp",
     description: { de: "Annaba ist eine bedeutende Hafenstadt im Nordosten Algeriens nahe der Grenze zu Tunesien.", hu: "Annába egy jelentős kikötőváros Északkelet-Algériában, a tunéziai határ közelében.", ro: "Annaba este un important oraș-port din nord-estul Algeriei, aproape de granița cu Tunisia.", en: "Annaba is a major port city in northeastern Algeria near the border with Tunisia." , es: "Annaba es una importante ciudad portuaria en el noreste de Argelia, cerca de la frontera con Túnez.", pt: "Annaba é uma cidade portuária importante no nordeste da Argélia, perto da fronteira com a Tunísia.", fr: "Annaba est une importante ville portuaire du nord-est de l'Algérie, située près de la frontière tunisienne."},
     facts: {
       de: ["Wichtige Hafenstadt", "Ruinen der antiken Stadt Hippo Regius"],
@@ -2095,7 +2091,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-09",
     coords: [2.8277, 36.47],
     name: { de: "Blida", hu: "Blida", ro: "Blida", en: "Blida"},
-    image: "/poi-images/blida-cities-v2.webp",
     description: { de: "Blida ist eine Stadt südwestlich von Algier, bekannt als die 'Stadt der Rosen'.", hu: "Blida Algírtól délnyugatra fekvő város, amelyet a 'rózsák városa' néven is ismernek.", ro: "Blida este un oraș situat la sud-vest de Alger, cunoscut sub numele de 'Orașul Trandafirilor'.", en: "Blida is a city southwest of Algiers, known as the 'City of Roses'." , es: "Blida es una ciudad al suroeste de Argel, conocida como la \"Ciudad de las Rosas\".", pt: "Blida é uma cidade a sudoeste de Argel, conhecida como a \"Cidade das Rosas\".", fr: "Blida est une ville au sud-ouest d'Alger, connue sous le nom de \"Ville des Roses\"."},
     facts: {
       de: ["Stadt der Rosen", "Liegt am Fuß des Tellatlas"],
@@ -2445,7 +2440,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-05",
     coords: [6.1741, 35.5559],
     name: { de: "Batna", hu: "Batna", ro: "Batna", en: "Batna"},
-    image: "/poi-images/batna-cities-v2.webp",
     description: { de: "Batna ist die fünftgrößte Stadt Algeriens und die wichtigste Stadt in der Aurès-Region.", hu: "Batna Algéria ötödik legnagyobb városa és az Aurès régió legfontosabb városa.", ro: "Batna este al cincilea oraș ca mărime din Algeria și principalul oraș din regiunea Aurès.", en: "Batna is the fifth largest city in Algeria and the main city in the Aurès region." , es: "Batna es la quinta ciudad más grande de Argelia y la localidad más importante de la región de Aurés.", pt: "Batna é a quinta maior cidade da Argélia e a cidade mais importante da região de Aurés.", fr: "Batna est la cinquième ville d'Algérie et la cité la plus importante de la région des Aurès."},
     facts: {
       de: ["Hauptstadt der Aurès-Region", "Nahe den römischen Ruinen von Timgad"],
@@ -2741,7 +2735,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-17",
     coords: [3.25, 34.6667],
     name: { de: "Djelfa", hu: "Dzselfa", ro: "Djelfa", en: "Djelfa"},
-    image: "/poi-images/djelfa-cities-v2.webp",
     description: { de: "Djelfa ist eine wichtige Stadt im Übergangsbereich zwischen Tellatlas und Sahara.", hu: "Dzselfa egy fontos város a Tell-Atlasz és a Szahara közötti átmeneti zónában.", ro: "Djelfa este un oraș important în zona de tranziție între Atlasul Tellian și Sahara.", en: "Djelfa is a major city in the transition zone between the Tell Atlas and the Sahara." , es: "Djelfa es una ciudad importante en la zona de transición entre el Atlas telliano y el Sáhara.", pt: "Djelfa é uma cidade importante na zona de transição entre o Atlas Telliano e o Saara.", fr: "Djelfa est une ville importante dans la zone de transition entre l'Atlas tellien et le Sahara."},
     facts: {
       de: ["Wichtiger Viehmarkt", "Zentrum der Steppenregion"],
@@ -3217,7 +3210,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-19",
     coords: [5.4109, 36.1911],
     name: { de: "Sétif", hu: "Sétif", ro: "Sétif", en: "Sétif"},
-    image: "/poi-images/setif-cities-v2.webp",
     description: { de: "Sétif ist eine Stadt auf den Hochebenen im Nordosten Algeriens mit reicher Geschichte.", hu: "Sétif Északkelet-Algéria magasföldjein fekvő, gazdag történelmű város.", ro: "Sétif este un oraș situat pe platourile înalte din nord-estul Algeriei, cu o istorie bogată.", en: "Sétif is a city on the high plains of northeastern Algeria with a rich history." , es: "Sétif es una ciudad en las tierras altas del noreste de Argelia con una rica historia.", pt: "Sétif é uma cidade nos planaltos do nordeste da Argélia com uma rica história.", fr: "Sétif est une ville des hauts plateaux du nord-est de l'Algérie, dotée d'une riche histoire."},
     facts: {
       de: ["Wichtiges Wirtschaftszentrum", "Nahe den Ruinen von Djémila"],
@@ -3513,7 +3505,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-22",
     coords: [-0.6333, 35.2],
     name: { de: "Sidi Bel Abbès", hu: "Szídi Bel-Abbesz", ro: "Sidi Bel Abbès", en: "Sidi Bel Abbès"},
-    image: "/poi-images/sidi-bel-abbes-cities-v2.webp",
     description: { de: "Sidi Bel Abbès ist das kommerzielle Zentrum einer landwirtschaftlich geprägten Region.", hu: "Szídi Bel-Abbesz egy mezőgazdasági régió kereskedelmi központja.", ro: "Sidi Bel Abbès este centrul comercial al unei regiuni agricole.", en: "Sidi Bel Abbès is the commercial center of an agricultural region." , es: "Sidi Bel Abbès es el centro comercial de una región predominantemente agrícola.", pt: "Sidi Bel Abbès é o centro comercial de uma região predominantemente agrícola.", fr: "Sidi Bel Abbès est le centre commercial d'une région à vocation agricole."},
     facts: {
       de: ["Zentrum der Landwirtschaft", "Historische Basis der Fremdenlegion"],
@@ -3701,7 +3692,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-07",
     coords: [5.7275, 34.85],
     name: { de: "Biskra", hu: "Biszákra", ro: "Biskra", en: "Biskra"},
-    image: "/poi-images/biskra-cities-v2.webp",
     description: { de: "Biskra ist als \"Tor zur Sahara\" bekannt und ein bedeutendes Zentrum für den Dattelanbau in der Ziban-Region.", hu: "Biszákrát gyakran a 'Szahara kapujaként' emlegetik, és híres a datolyájáról.", ro: "Biskra este un oraș important situat la poarta deșertului Sahara, cunoscut pentru oazele sale de curmali.", en: "Biskra is often referred to as the 'Gateway to the Sahara' and is famous for its dates." , es: "Biskra es conocida como la \"Puerta del Sahara\" y es un centro crucial para el cultivo de dátiles en la región de Ziban.", pt: "Biskra é conhecida como a \"Porta do Saara\" e é um importante centro para o cultivo de tâmaras na região de Ziban.", fr: "Biskra est connue comme la \"Porte du Sahara\" et constitue un centre important pour la culture des dattes dans la région des Zibans."},
     facts: {
       de: ["Zentrum des Dattelanbaus", "Tor zur Sahara-Wüste", "Historische Oasenstadt"],
@@ -3853,7 +3843,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-12",
     coords: [8.1228, 35.4042],
     name: { de: "Tébessa", hu: "Tébessa", ro: "Tébessa", en: "Tébessa"},
-    image: "/poi-images/tebessa-cities-v2.webp",
     description: { de: "Tébessa ist eine Stadt nahe der tunesischen Grenze, die für ihre gut erhaltenen römischen Ruinen bekannt ist.", hu: "Tébessa a tunéziai határ közelében fekvő város, amely jól megőrzött római kori romjairól ismert.", ro: "Tébessa este un oraș aproape de granița cu Tunisia, cunoscut pentru ruinele romane bine conservate.", en: "Tébessa is a city near the Tunisian border known for its well-preserved Roman ruins." , es: "Tébessa es una ciudad cerca de la frontera con Túnez, conocida por sus ruinas romanas bien conservadas.", pt: "Tébessa é uma cidade perto da fronteira com a Tunísia, conhecida pelas suas ruínas romanas bem preservadas.", fr: "Tébessa est une ville proche de la frontière tunisienne, connue pour ses ruines romaines bien conservées."},
     facts: {
       de: ["Nahe der tunesischen Grenze", "Zahlreiche römische Monumente"],
@@ -4185,7 +4174,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-39",
     coords: [6.8675, 33.3683],
     name: { de: "El Oued", hu: "El Oued", ro: "El Oued", en: "El Oued"},
-    image: "/poi-images/el-oued-cities-v2.webp",
     description: { de: "El Oued, die 'Stadt der tausend Kuppeln', ist eine Oasenstadt in der algerischen Sahara.", hu: "El Oued, az 'ezer kupola városa', egy oázisváros az algériai Szaharában.", ro: "El Oued, 'orașul celor o mie de domuri', este un oraș oază din Sahara algeriană.", en: "El Oued, the 'City of a Thousand Domes', is an oasis city in the Algerian Sahara." , es: "El Oued, la 'ciudad de las mil cúpulas', es una ciudad oasis en el Sáhara argelino.", pt: "El Oued, a 'cidade das mil cúpulas', é uma cidade oásis no Saara argelino.", fr: "El Oued, la 'ville aux mille coupoles', est une ville oasis dans le Sahara algérien."},
     facts: {
       de: ["Stadt der tausend Kuppeln", "Lokalisiert in einer Wüstenoase"],
@@ -4373,7 +4361,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-21",
     coords: [6.9083, 36.8778],
     name: { de: "Skikda", hu: "Szkikda", ro: "Skikda", en: "Skikda"},
-    image: "/poi-images/skikda-cities-v2.webp",
     description: { de: "Skikda ist eine bedeutende Hafenstadt am Mittelmeer, wichtig für den Export von Petrochemikalien.", hu: "Szkikda jelentős földközi-tengeri kikötőváros, amely fontos a petrolkémiai termékek exportjában.", ro: "Skikda este un important oraș-port la Marea Mediterană, crucial pentru exportul de produse petrochimice.", en: "Skikda is a major Mediterranean port city, important for the export of petrochemicals." , es: "Skikda es una destacada ciudad portuaria en el Mediterráneo, clave para la exportación de petroquímicos.", pt: "Skikda é uma importante cidade portuária no Mediterrâneo, fundamental para a exportação de petroquímicos.", fr: "Skikda est une importante ville portuaire de la Méditerranée, stratégique pour l'exportation des produits pétrochimiques."},
     facts: {
       de: ["Wichtiger Exporthafen", "Zentrum der petrochemischen Industrie"],
@@ -4741,7 +4728,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-14",
     coords: [1.32, 35.37],
     name: { de: "Tiaret", hu: "Tiaret", ro: "Tiaret", en: "Tiaret"},
-    image: "/poi-images/tiaret-cities-v2.webp",
     description: { de: "Tiaret liegt im Nordwesten Algeriens auf einem Hochplateau und ist ein wichtiges landwirtschaftliches Zentrum.", hu: "Tiaret Algéria északnyugati részén, egy fennsíkon fekszik, és fontos mezőgazdasági központ.", ro: "Tiaret este situat în nord-vestul Algeriei pe un platou înalt și este un important centru agricol.", en: "Tiaret is located in northwestern Algeria on a high plateau and is a major agricultural center." , es: "Tiaret se encuentra en el noroeste de Argelia, en una meseta alta, y es un importante centro agrícola.", pt: "Tiaret situa-se no noroeste da Argélia, num planalto elevado, e é um importante centro agrícola.", fr: "Tiaret est située dans le nord-ouest de l'Algérie sur un haut plateau et constitue un centre agricole important."},
     facts: {
       de: ["Bedeutendes Agrarzentrum", "Historische Berberstadt"],
@@ -5037,7 +5023,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-06",
     coords: [5.0847, 36.7511],
     name: { de: "Béjaïa", hu: "Béjaïa", ro: "Béjaïa", en: "Béjaïa"},
-    image: "/poi-images/bejaia-cities-v2.webp",
     description: { de: "Béjaïa ist die größte Stadt in der Kabylei-Region und besitzt einen der wichtigsten Häfen des Landes.", hu: "Béjaïa a Kabilia régió legnagyobb városa, és az ország egyik legfontosabb kikötőjével rendelkezik.", ro: "Béjaïa este cel mai mare oraș din regiunea Kabylia și are unul dintre cele mai importante porturi din țară.", en: "Béjaïa is the largest city in the Kabylia region and has one of the country's most important ports." , es: "Béjaïa es la ciudad más grande de la región de Cabilia y posee uno de los puertos más importantes del país.", pt: "Béjaïa é a maior cidade da região de Cabília e possui um dos portos mais importantes do país.", fr: "Béjaïa est la plus grande ville de Kabylie et possède l'un des ports les plus importants du pays."},
     facts: {
       de: ["Hauptstadt der Kabylei", "Bedeutender Ölverladehafen"],
@@ -5117,7 +5102,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-13",
     coords: [-1.3167, 34.8833],
     name: { de: "Tlemcen", hu: "Tlemcen", ro: "Tlemcen", en: "Tlemcen"},
-    image: "/poi-images/tlemcen-cities-v2.webp",
     description: { de: "Tlemcen ist reich an andalusischer Geschichte und Kultur, gelegen nahe der marokkanischen Grenze.", hu: "Tlemcen gazdag andalúz történelemmel és kultúrával rendelkezik, a marokkói határ közelében fekszik.", ro: "Tlemcen este bogat în istorie și cultură andaluză, situat aproape de granița cu Marocul.", en: "Tlemcen is rich in Andalusian history and culture, located near the Moroccan border." , es: "Tlemcen es rica en historia y cultura andalusí, situada cerca de la frontera con Marruecos.", pt: "Tlemcen é rica em história e cultura andaluza, situada perto da fronteira com Marrocos.", fr: "Tlemcen est riche d'histoire et de culture andalouses, située près de la frontière marocaine."},
     facts: {
       de: ["Bekannt für maurische Architektur", "Nahe der Grenze zu Marokko"],
@@ -5476,7 +5460,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-30",
     coords: [5.325, 31.95],
     name: { de: "Ouargla", hu: "Ouargla", ro: "Ouargla", en: "Ouargla"},
-    image: "/poi-images/ouargla-cities-v2.webp",
     description: { de: "Ouargla ist eine wohlhabende Stadt in der Sahara, das Zentrum der algerischen Erdölindustrie.", hu: "Ouargla egy gazdag város a Szaharában, az algériai kőolajipar központja.", ro: "Ouargla este centrul unei regiuni petroliere majore, situată într-o oază vastă din deșertul algerian.", en: "Ouargla is a wealthy city in the Sahara, the center of the Algerian oil industry." , es: "Ouargla es una próspera ciudad del Sahara, centro de la industria petrolera argelina.", pt: "Ouargla é uma cidade próspera no Saara, o centro da indústria petrolífera argelina.", fr: "Ouargla est une ville prospère du Sahara, centre de l'industrie pétrolière algérienne."},
     facts: {
       de: ["Zentrum der Erdölindustrie", "Große Oasenstadt"],
@@ -5700,7 +5683,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-08",
     coords: [-2.2167, 31.6167],
     name: { de: "Béchar", hu: "Béchar", ro: "Béchar", en: "Béchar"},
-    image: "/poi-images/bechar-cities-v2.webp",
     description: { de: "Bechar ist eine strategisch wichtige Stadt im Südwesten Algeriens, die als administratives und wirtschaftliches Zentrum der Saoura-Region dient.", hu: "Béchar a Saoura régió fővárosa Délnyugat-Algériában, a marokkói határ közelében.", ro: "Béchar este capitala regiunii Saoura din sud-vestul Algeriei, aproape de granița cu Marocul.", en: "Béchar is the capital of the Saoura region in southwestern Algeria near the Moroccan border." , es: "Béchar es una ciudad estratégica en el suroeste de Argelia, centro administrativo y económico de la región de Saoura.", pt: "Béchar é uma cidade estratégica no sudoeste da Argélia, servindo como centro administrativo e económico da região de Saoura.", fr: "Béchar est une ville stratégique du sud-ouest de l'Algérie, centre administratif et économique de la région de la Saoura."},
     facts: {
       de: ["Zentrum der Saoura-Region", "Wichtiger Militärstützpunkt", "Tor zur westlichen Sahara"],
@@ -6176,7 +6158,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-27",
     coords: [0.0894, 35.9311],
     name: { de: "Mostaganem", hu: "Mosztaganem", ro: "Mostaganem", en: "Mostaganem"},
-    image: "/poi-images/mostaganem-cities-v2.webp",
     description: { de: "Mostaganem ist eine charmante Hafenstadt am Mittelmeer, die für ihre kulturelle Bedeutung und ihre schönen Sandstrände bekannt ist.", hu: "A Földközi-tenger partján fekvő kikötőváros, amely fontos mezőgazdasági és kereskedelmi központ a régióban.", ro: "Mostaganem este un oraș portuar la Marea Mediterană, cu o istorie bogată și plaje frumoase.", en: "Mostaganem is a port city on the Gulf of Arzew with beaches and historical architecture." , es: "Mostaganem es una encantadora ciudad portuaria del Mediterráneo, conocida por su importancia cultural y sus hermosas playas de arena.", pt: "Mostaganem é uma encantadora cidade portuária no Mediterrâneo, conhecida pela sua importância cultural e belas praias de areia.", fr: "Mostaganem est une charmante ville portuaire de la Méditerranée, connue pour son importance culturelle et ses belles plages de sable."},
     facts: {
       de: ["Bedeutende Hafenstadt", "Kulturelles Zentrum", "Beliebtes Touristenziel"],
@@ -6400,7 +6381,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-34",
     coords: [4.7611, 36.0686],
     name: { de: "Bordj Bou Arréridj", hu: "Bordzs Bú Arreridzs", ro: "Bordj Bou Arréridj", en: "Bordj Bou Arréridj"},
-    image: "/poi-images/bordj-bou-arreridj-cities-v2.webp",
     description: { de: "Bordj Bou Arreridj ist ein aufstrebendes industrielles Zentrum in den Hochebenen Algeriens, besonders bekannt für die Elektronikfertigung.", hu: "Az Atlasz-hegység lábánál fekvő város, amelyet gyakran az ország elektronikai iparának fővárosaként emlegetnek.", ro: "Bordj Bou Arréridj este un oraș industrial în creștere rapidă din nordul Algeriei.", en: "Bordj Bou Arréridj is a fast-growing industrial city in northern Algeria." , es: "Bordj Bou Arreridj es un centro industrial emergente en las tierras altas de Argelia, especialmente conocido por la fabricación de electrónica.", pt: "Bordj Bou Arreridj é um centro industrial emergente nos planaltos da Argélia, especialmente conhecido pela fabricação de eletrónica.", fr: "Bordj Bou Arreridj est un centre industriel dynamique des hauts plateaux algériens, réputé pour sa production électronique."},
     facts: {
       de: ["Industrielles Zentrum", "Elektronik-Hauptstadt", "Knotenpunkt in den Highlands"],
@@ -6625,7 +6605,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-02",
     coords: [1.3314, 36.1647],
     name: { de: "Chlef", hu: "Chlef", ro: "Chlef", en: "Chlef"},
-    image: "/poi-images/chlef-cities-v2.webp",
     description: { de: "Chlef, früher El Asnam, ist die wichtigste Stadt im Tal des Flusses Chelif.", hu: "Chlef, korábbi nevén El Asnam, a Chelif folyó völgyének legfontosabb városa.", ro: "Chlef, fosta El Asnam, este cel mai important oraș din valea râului Chelif.", en: "Chlef, formerly El Asnam, is the most important city in the valley of the Chelif river." , es: "Chlef, antiguamente El Asnam, es la ciudad más importante del valle del río Chelif.", pt: "Chlef, anteriormente El Asnam, é a cidade mais importante do vale do rio Chelif.", fr: "Chlef, anciennement El Asnam, est la ville principale de la vallée de l'oued Chelif."},
     facts: {
       de: ["Agrarzentrum im Chelif-Tal", "Wurde 1980 durch ein Erdbeben schwer zerstört"],
@@ -6741,7 +6720,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-41",
     coords: [7.9511, 36.2864],
     name: { de: "Souk Ahras", hu: "Szúk Ahrász", ro: "Souk Ahras", en: "Souk Ahras"},
-    image: "/poi-images/souk-ahras-cities-v2.webp",
     description: { de: "Souk Ahras, in der Antike Thagaste, war der Geburtsort des Heiligen Augustinus.", hu: "Szúk Ahrász, az ókorban Thagaste, Szent Ágoston szülőhelye volt.", ro: "Souk Ahras, în antichitate Thagaste, a fost locul de naștere al Sfântului Augustin.", en: "Souk Ahras, ancient Thagaste, was the birthplace of Saint Augustine." , es: "Souk Ahras, la antigua Thagaste, fue el lugar de nacimiento de San Agustín.", pt: "Souk Ahras, a antiga Thagaste, foi o local de nascimento de Santo Agostinho.", fr: "Souk Ahras, l'antique Thagaste, est le lieu de naissance de Saint Augustin."},
     facts: {
       de: ["Geburtsort von Augustinus", "Grenzstadt zu Tunesien"],
@@ -7037,7 +7015,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-26",
     coords: [2.7667, 36.2667],
     name: { de: "Médéa", hu: "Médéa", ro: "Médéa", en: "Médéa"},
-    image: "/poi-images/medea-cities-v2.webp",
     description: { de: "Médéa ist eine von Bergen umgebene Stadt südlich von Algier, bekannt für ihren Weinanbau.", hu: "Médéa egy hegyekkel körülvett város Algírtól délre, amely borászatáról ismert.", ro: "Médéa este un oraș înconjurat de munți la sud de Alger, cunoscut pentru viticultura sa.", en: "Médéa is a city surrounded by mountains south of Algiers, known for its viticulture." , es: "Médéa es una ciudad rodeada de montañas al sur de Argel, conocida por su viticultura.", pt: "Médéa é uma cidade rodeada por montanhas ao sul de Argel, conhecida pela sua viticultura.", fr: "Médéa est une ville entourée de montagnes au sud d'Alger, connue pour sa viticulture."},
     facts: {
       de: ["Zentrum des Weinanbaus", "Historische Hauptstadt des Titteri"],
@@ -7261,7 +7238,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-19",
     coords: [5.6833, 36.15],
     name: { de: "El Eulma", hu: "El Eulma", ro: "El Eulma", en: "El Eulma"},
-    image: "/poi-images/el-eulma-cities-v2.webp",
     description: { de: "El Eulma ist eine bedeutende Handelsstadt in der Nähe von Sétif, früher als Saint Arnaud bekannt.", hu: "El Eulma jelentős kereskedelmi város Sétif közelében, korábban Saint Arnaud néven volt ismert.", ro: "El Eulma este un important oraș comercial din apropiere de Sétif, cunoscut anterior sub numele de Saint Arnaud.", en: "El Eulma is a major commercial city near Sétif, formerly known as Saint Arnaud." , es: "El Eulma es una importante ciudad comercial cerca de Sétif, anteriormente conocida como Saint Arnaud.", pt: "El Eulma é uma importante cidade comercial perto de Sétif, anteriormente conhecida como Saint Arnaud.", fr: "El Eulma est une ville commerciale importante près de Sétif, autrefois connue sous le nom de Saint Arnaud."},
     facts: {
       de: ["Zweithöchste Bevölkerungsdichte der Region", "Starkes Handelszentrum"],
@@ -7449,7 +7425,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-55",
     coords: [6.0667, 33.1],
     name: { de: "Touggourt", hu: "Tuggurt", ro: "Touggourt", en: "Touggourt"},
-    image: "/poi-images/touggourt-cities-v2.webp",
     description: { de: "Touggourt ist eine traditionelle Wüstenoasenstadt in der algerischen Sahara.", hu: "Tuggurt egy hagyományos sivatagi oázisváros az algériai Szaharában.", ro: "Touggourt este un oraș oază tradițional din deșertul din Sahara algeriană.", en: "Touggourt is a traditional desert oasis city in the Algerian Sahara." , es: "Touggourt es una ciudad oasis tradicional del desierto en el Sahara argelino.", pt: "Touggourt é uma cidade oásis tradicional do deserto no Saara argelino.", fr: "Touggourt est une ville oasis traditionnelle du Sahara algérien."},
     facts: {
       de: ["Große Palmenhaine", "Wichtiges Zentrum im Wadi Righ"],
@@ -7565,7 +7540,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-47",
     coords: [3.6736, 32.4909],
     name: { de: "Ghardaia", hu: "Gardája", ro: "Ghardaïa", en: "Ghardaia"},
-    image: "/poi-images/ghardaia-cities-v2.webp",
     description: { de: "Ghardaia ist die Haupt-Oasenstadt des M'zab-Tals mit einzigartiger Architektur und UNESCO-Weltkulturerbe.", hu: "Gardája a M'zab-völgy fő oázisvárosa egyedülálló építészettel és UNESCO világörökséggel.", ro: "Ghardaïa este principalul oraș-oază din valea M'zab, cu o arhitectură unică și un sit al Patrimoniului Mondial UNESCO.", en: "Ghardaia is the main oasis city of the M'zab Valley with unique architecture and UNESCO World Heritage." , es: "Ghardaia es la principal ciudad oasis del valle de M'zab, con una arquitectura única y Patrimonio de la Humanidad.", pt: "Ghardaia é a principal cidade oásis do Vale do M'zab, com arquitetura única e Património Mundial da UNESCO.", fr: "Ghardaïa est la principale ville oasis de la vallée du M'zab, dotée d'une architecture unique et classée au patrimoine mondial de l'UNESCO."},
     facts: {
       de: ["UNESCO-Weltkulturerbe", "Zentrum der Mozabiten"],
@@ -7681,7 +7655,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-20",
     coords: [0.1517, 34.8303],
     name: { de: "Saïda", hu: "Saïda", ro: "Saïda", en: "Saïda"},
-    image: "/poi-images/saida-cities-v2.webp",
     description: { de: "Saïda ist eine Stadt in den Bergen des Tellatlas, bekannt für ihre Thermalquellen.", hu: "Saïda a Tell-Atlasz hegyeiben fekvő város, amely termálforrásairól ismert.", ro: "Saïda este un oraș în munții Atlasului Tellian, cunoscut pentru izvoarele sale termale.", en: "Saïda is a city in the mountains of the Tell Atlas, known for its thermal springs." , es: "Saïda es una ciudad en las montañas del Atlas del Tell, conocida por sus fuentes termales.", pt: "Saïda é uma cidade nas montanhas do Atlas do Tell, conhecida pelas suas fontes termais.", fr: "Saïda est une ville des montagnes de l'Atlas tellien, réputée pour ses sources thermales."},
     facts: {
       de: ["Berühmt für Mineralwasser", "Gelegen in den Bergen"],
@@ -7941,7 +7914,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-03",
     coords: [2.8651, 33.8],
     name: { de: "Laghouat", hu: "Laghvát", ro: "Laghouat", en: "Laghouat"},
-    image: "/poi-images/laghouat-cities-v2.webp",
     description: { de: "Laghouat ist ein regionales Zentrum im Sahara-Atlas und dient als Tor zum Süden.", hu: "Laghvát a Szaharai-Atlasz regionális központja, amely dél felé nyújt kaput.", ro: "Laghouat este un centru regional în Atlasul Saharian și servește drept poartă spre sud.", en: "Laghouat is a regional center in the Saharan Atlas and serves as a gateway to the south." , es: "Laghouat es un centro regional en el Atlas sahariano y sirve como puerta de entrada al sur.", pt: "Laghouat é um centro regional no Atlas Saariano e serve de porta de entrada para o sul.", fr: "Laghouat est un centre régional de l'Atlas saharien qui sert de porte d'entrée vers le sud."},
     facts: {
       de: ["Oase am Fuß des Sahara-Atlas", "Erdgaszentrum Hassi R'Mel in der Nähe"],
@@ -8129,7 +8101,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-28",
     coords: [4.5419, 35.7058],
     name: { de: "M'Sila", hu: "M'Sila", ro: "M'Sila", en: "M'Sila"},
-    image: "/poi-images/msila-cities-v2.webp",
     description: { de: "M'Sila ist eine wachsende Stadt in der Region der Chotts, bekannt für ihre Universität.", hu: "M'Sila egy növekvő város a Chott-ok régiójában, egyeteméről is ismert.", ro: "M'Sila este un oraș în creștere în regiunea Chotts, cunoscut pentru universitatea sa.", en: "M'Sila is a growing city in the Chotts region, known for its university." , es: "M'Sila es una ciudad en crecimiento en la región de los Chotts, conocida por su universidad.", pt: "M'Sila é uma cidade em crescimento na região dos Chotts, conhecida pela sua universidade.", fr: "M'Sila est une ville en pleine croissance dans la région des Chotts, connue pour son université."},
     facts: {
       de: ["Wichtige Universitätsstadt", "Zentrum der Hodna-Region"],
@@ -8785,7 +8756,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-18",
     coords: [5.7667, 36.8206],
     name: { de: "Jijel", hu: "Dzsídzsel", ro: "Jijel", en: "Jijel"},
-    image: "/poi-images/jijel-cities-v2.webp",
     description: { de: "Jijel ist eine Küstenstadt, die von dichten Korkeichenwäldern und Bergen umgeben ist.", hu: "Dzsídzsel tengerparti város, amelyet sűrű paratölgyerdők és hegyek vesznek körül.", ro: "Jijel este un oraș de coastă înconjurat de păduri dese de stejar de plută și munți.", en: "Jijel is a coastal city surrounded by dense cork oak forests and mountains." , es: "Jijel es una ciudad costera rodeada de densos bosques de alcornoques y montañas.", pt: "Jijel é uma cidade costeira rodeada por densas florestas de sobreiros e montanhas.", fr: "Jijel est une ville côtière entourée de denses forêts de chênes-lièges et de montagnes."},
     facts: {
       de: ["Küste mit schönen Stränden", "Wichtiger Korkproduzent"],
@@ -9081,7 +9051,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-48",
     coords: [0.5558, 35.7372],
     name: { de: "Relizane", hu: "Relizane", ro: "Relizane", en: "Relizane"},
-    image: "/poi-images/relizane-cities-v2.webp",
     description: { de: "Relizane liegt in einer fruchtbaren landwirtschaftlichen Region und ist ein wichtiger Verkehrsknotenpunkt im Nordwesten des Landes.", hu: "A Cheliff-völgyben elterülő település, amely gazdag történelmi múlttal és jelentős mezőgazdasági területekkel rendelkezik.", ro: "Relizane este situat în valea râului Cheliff, o zonă agricolă fertilă și importantă pentru regiune.", en: "Relizane is an agricultural and commercial center in the Cheliff Valley." , es: "Relizane se encuentra en una fértil región agrícola y es un importante nudo de comunicaciones en el noroeste del país.", pt: "Relizane está localizada numa fértil região agrícola e é um importante centro de transportes no noroeste do país.", fr: "Relizane est située dans une région agricole fertile et constitue un carrefour de transport majeur dans le nord-ouest du pays."},
     facts: {
       de: ["Landwirtschaftliches Zentrum", "Wichtiger Verkehrsknotenpunkt", "Hauptstadt der Provinz Relizane"],
@@ -9305,7 +9274,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-24",
     coords: [7.4286, 36.4622],
     name: { de: "Guelma", hu: "Guelma", ro: "Guelma", en: "Guelma"},
-    image: "/poi-images/guelma-cities-v2.webp",
     description: { de: "Guelma liegt im Nordosten Algeriens und ist berühmt für sein römisches Theater und Thermalquellen.", hu: "Guelma Északkelet-Algériában található, és híres római színházáról, valamint termálforrásairól.", ro: "Guelma este situat în nord-estul Algeriei și este renumit pentru teatrul său roman și izvoarele termale.", en: "Guelma is located in northeastern Algeria and is famous for its Roman theater and thermal springs." , es: "Guelma se encuentra en el noreste de Argelia y es famosa por su teatro romano y sus fuentes termales.", pt: "Guelma situa-se no nordeste da Argélia e é famosa pelo seu teatro romano e fontes termais.", fr: "Guelma est située dans le nord-est de l'Algérie et est célèbre pour son théâtre romain et ses sources thermales."},
     facts: {
       de: ["Gut erhaltenes römisches Theater", "Berühmte Thermalquelle Hammam Debagh"],
@@ -9340,7 +9308,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-04",
     coords: [7.1436, 35.7964],
     name: { de: "Aïn Beïda", hu: "Ain Beïda", ro: "Aïn Beïda", en: "Aïn Beïda"},
-    image: "/poi-images/ain-beida-cities-v2.webp",
     description: { de: "Aïn Beïda ist eine wichtige Stadt in der Provinz Oum El Bouaghi mit industrieller Basis.", hu: "Ain Beïda fontos ipari bázissal rendelkező város Oum El Bouaghi tartományban.", ro: "Aïn Beïda este un oraș important din provincia Oum El Bouaghi, cu o bază industrială.", en: "Aïn Beïda is an important city in the Oum El Bouaghi province with an industrial base." , es: "Aïn Beïda es una ciudad importante en la provincia de Oum El Bouaghi con una base industrial.", pt: "Aïn Beïda é uma cidade importante na província de Oum El Bouaghi com uma base industrial.", fr: "Aïn Beïda est une ville importante de la province d'Oum El Bouaghi dotée d'une base industrielle."},
     facts: {
       de: ["Industrielles Zentrum der Region", "Historischer Handelsknotenpunkt"],
@@ -9528,7 +9495,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-40",
     coords: [7.1433, 35.4358],
     name: { de: "Khenchela", hu: "Khenchela", ro: "Khenchela", en: "Khenchela"},
-    image: "/poi-images/khenchela-cities-v2.webp",
     description: { de: "Khenchela liegt im Aurès-Gebirge und ist bekannt für seine Teppichproduktion und raue Landschaft.", hu: "Khenchela az Aurès-hegységben található, szőnyeggyártásáról és zord tájairól ismert.", ro: "Khenchela este situat în munții Aurès și este cunoscut pentru producția sa de covoare și peisajul accidentat.", en: "Khenchela is located in the Aurès Mountains and is known for its carpet production and rugged landscape." , es: "Khenchela se encuentra en las montañas del Aurés y es conocida por su producción de alfombras y su paisaje accidentado.", pt: "Khenchela situa-se nas montanhas do Aurès e é conhecida pela sua produção de tapetes e paisagem acidentada.", fr: "Khenchela est située dans les montagnes de l'Aurès et est connue pour sa production de tapis et son paysage accidenté."},
     facts: {
       de: ["Zentrum im Aurès-Massiv", "Bekannt für traditionelle Berberteppiche"],
@@ -9680,7 +9646,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-28",
     coords: [4.1833, 35.2167],
     name: { de: "Bou Saâda", hu: "Bou Saâda", ro: "Bou Saâda", en: "Bou Saâda"},
-    image: "/poi-images/bousaada-cities-v2.webp",
     description: { de: "Bou Saâda ist als 'Stadt der Fröhlichkeit' bekannt und eine Oase, die viele Maler anzog.", hu: "Bou Saâda a 'boldogság városa' néven ismert, olyan oázis, amely számos festőt vonzott.", ro: "Bou Saâda este cunoscută ca 'orașul fericirii' și este o oază care a atras mulți pictori.", en: "Bou Saâda is known as the 'City of Happiness' and is an oasis that attracted many painters." , es: "Bou Saâda es conocida como la 'Ciudad de la Alegría' y es un oasis que atrajo a muchos pintores.", pt: "Bou Saâda é conhecida como a 'Cidade da Alegria' e é um oásis que atraiu muitos pintores.", fr: "Bou Saâda, surnommée la 'Cité du Bonheur', est une oasis qui a séduit de nombreux peintres."},
     facts: {
       de: ["Oasenstadt für Künstler", "Nahe dem Chott el Hodna"],
@@ -10048,7 +10013,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-29",
     coords: [0.1403, 35.3969],
     name: { de: "Mascara", hu: "Mascara", ro: "Mascara", en: "Mascara"},
-    image: "/poi-images/mascara-cities-v2.webp",
     description: { de: "Mascara war die historische Hauptstadt von Emir Abdelkader und ist ein bedeutendes Weinbaugebiet.", hu: "Mascara Abdelkader emír történelmi fővárosa volt, és jelentős borvidék.", ro: "Mascara a fost capitala istorică a emirului Abdelkader și este o zonă viticolă majoră.", en: "Mascara was the historic capital of Emir Abdelkader and is a major wine-growing region." , es: "Mascara fue la capital histórica del emir Abdelkader y es una importante región vitivinícola.", pt: "Mascara foi a capital histórica do emir Abdelkader e é uma importante região vinícola.", fr: "Mascara était la capitale historique de l'émir Abdelkader et constitue une importante région viticole."},
     facts: {
       de: ["Historische Hauptstadt Abdelkaders", "Bekannt für seine Weinproduktion"],
@@ -10083,7 +10047,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-37",
     coords: [-8.1478, 27.6711],
     name: { de: "Tindouf", hu: "Tindouf", ro: "Tindouf", en: "Tindouf"},
-    image: "/poi-images/tindouf-cities-v2.webp",
     description: { de: "Tindouf ist eine abgelegene Oasenstadt im äußersten Südwesten Algeriens nahe Mauretanien und Marokko.", hu: "Tindouf egy távoli oázisváros Algéria legdélnyugatibb részén, Mauritánia és Marokkó közelében.", ro: "Tindouf este un oraș oază îndepărtat, în sud-vestul extrem al Algeriei, aproape de Mauritania și Maroc.", en: "Tindouf is a remote oasis city in the extreme southwest of Algeria near Mauritania and Morocco." , es: "Tindouf es una remota ciudad oasis en el extremo suroeste de Argelia, cerca de Mauritania y Marruecos.", pt: "Tindouf é uma cidade oásis remota no extremo sudoeste da Argélia, perto da Mauritânia e de Marrocos.", fr: "Tindouf est une ville oasis isolée de l'extrême sud-ouest de l'Algérie, près de la Mauritanie et du Maroc."},
     facts: {
       de: ["Strategische Militärbasis", "Zahlreiche Flüchtlingslager"],
@@ -10163,7 +10126,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-01",
     coords: [-0.2939, 27.8742],
     name: { de: "Adrar", hu: "Adrar", ro: "Adrar", en: "Adrar"},
-    image: "/poi-images/adrar-cities-v2.webp",
     description: { de: "Adrar ist das Zentrum der Touat-Oasenregion in der Sahara, bekannt für traditionelle Bewässerungssysteme.", hu: "Adrar a szaharai Touat oázisrégió központja, amely a hagyományos öntözőrendszerekről ismert.", ro: "Adrar este centrul regiunii oazelor Touat din Sahara, cunoscută pentru sistemele tradiționale de irigații.", en: "Adrar is the center of the Touat oasis region in the Sahara, known for traditional irrigation systems." , es: "Adrar es el centro de la región de oasis de Touat en el Sáhara, conocida por sus sistemas de riego tradicionales.", pt: "Adrar é o centro da região de oásis de Touat no Saara, conhecida pelos seus sistemas de irrigação tradicionais.", fr: "Adrar est le centre de la région des oasis du Touat dans le Sahara, célèbre pour ses systèmes d'irrigation traditionnels."},
     facts: {
       de: ["Zentrum der Touat-Region", "Bekannt für rote Lehmsiedlungen"],
@@ -10351,7 +10313,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-11",
     coords: [5.5228, 22.785],
     name: { de: "Tamanrasset", hu: "Tamanrasset", ro: "Tamanrasset", en: "Tamanrasset"},
-    image: "/poi-images/tamanrasset-cities-v2.webp",
     description: { de: "Tamanrasset ist die wichtigste Tuareg-Stadt im Hoggar-Gebirge im tiefen Süden Algeriens.", hu: "Tamanrasset a legfontosabb tuareg város az Ahaggar-hegységben, Algéria mély déli részén.", ro: "Tamanrasset este principalul oraș tuareg din munții Hoggar, în sudul profund al Algeriei.", en: "Tamanrasset is the most important Tuareg city in the Hoggar Mountains in the deep south of Algeria." , es: "Tamanrasset es la ciudad tuareg más importante de las montañas de Hoggar, en el profundo sur de Argelia.", pt: "Tamanrasset é a cidade tuaregue mais importante nas montanhas de Hoggar, no extremo sul da Argélia.", fr: "Tamanrasset est la ville touarègue la plus importante du massif du Hoggar, dans l'extrême sud de l'Algérie."},
     facts: {
       de: ["Zentrum der Tuareg-Kultur", "Wichtiger Handelsknoten in der Sahara"],
@@ -10647,7 +10608,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-10",
     coords: [3.9, 36.3833],
     name: { de: "Bouira", hu: "Bouira", ro: "Bouira", en: "Bouira"},
-    image: "/poi-images/bouira-cities-v2.webp",
     description: { de: "Bouira liegt südöstlich von Algier und ist eine wichtige landwirtschaftliche Region, umgeben von Bergen.", hu: "Bouira Algírtól délkeletre fekszik, és fontos mezőgazdasági régió, hegyekkel körülvéve.", ro: "Bouira este situat la sud-est de Alger și este o regiune agricolă importantă, înconjurată de munți.", en: "Bouira is located southeast of Algiers and is an important agricultural region surrounded by mountains." , es: "Bouira se encuentra al sureste de Argel y es una región agrícola importante rodeada de montañas.", pt: "Bouira situa-se a sudeste de Argel e é uma importante região agrícola rodeada por montanhas.", fr: "Bouira, située au sud-est d'Alger, est une région agricole majeure entourée de montagnes."},
     facts: {
       de: ["Nahe dem Djurdjura-Nationalpark", "Bedeutende Agrarstadt"],
@@ -10763,7 +10723,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-38",
     coords: [1.8106, 35.6072],
     name: { de: "Tissemsilt", hu: "Tissemsilt", ro: "Tissemsilt", en: "Tissemsilt"},
-    image: "/poi-images/tissemsilt-cities-v2.webp",
     description: { de: "Tissemsilt ist eine Bergstadt nahe dem Ouarsenis-Gebirge und dem Nationalpark Théniet El Had.", hu: "Tissemsilt egy hegyvidéki város az Ouarsenis-hegység és a Théniet El Had Nemzeti Park közelében.", ro: "Tissemsilt este un oraș de munte din apropierea masivului Ouarsenis și a Parcului Național Théniet El Had.", en: "Tissemsilt is a mountain city near the Ouarsenis Mountains and the Théniet El Had National Park." , es: "Tissemsilt es una ciudad de montaña cerca del macizo de Ouarsenis y del Parque Nacional de Théniet El Had.", pt: "Tissemsilt é uma cidade de montanha perto das montanhas Ouarsenis e do Parque Nacional de Théniet El Had.", fr: "Tissemsilt est une ville de montagne située près du massif de l'Ouarsenis et du parc national de Théniet El Had."},
     facts: {
       de: ["Tor zum Ouarsenis-Gebirge", "Umgeben von Zedernwäldern"],
@@ -10879,7 +10838,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-45",
     coords: [-0.3144, 33.2667],
     name: { de: "Naâma", hu: "Naâma", ro: "Naâma", en: "Naâma"},
-    image: "/poi-images/naama-cities-v2.webp",
     description: { de: "Naâma liegt in den Hochebenen des Westens und ist bekannt für extensive Schafzucht.", hu: "Naâma a nyugati magasföldeken található, és kiterjedt juhtenyésztéséről ismert.", ro: "Naâma este situat pe platourile înalte din vest și este cunoscut pentru creșterea extensivă a oilor.", en: "Naâma is located on the high plains of the west and is known for extensive sheep farming." , es: "Naâma se encuentra en las mesetas del oeste y es conocida por la cría extensiva de ovejas.", pt: "Naâma situa-se nos planaltos ocidentais e é conhecida pela criação extensiva de ovinos.", fr: "Naâma est située sur les hauts plateaux de l'ouest et est connue pour l'élevage extensif de moutons."},
     facts: {
       de: ["Zentrum der Steppenregion", "Berühmt für Tierhaltung"],
@@ -11103,7 +11061,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-32",
     coords: [1.0283, 33.6833],
     name: { de: "El Bayadh", hu: "El Bayadh", ro: "El Bayadh", en: "El Bayadh"},
-    image: "/poi-images/el-bayadh-cities-v2.webp",
     description: { de: "El Bayadh ist eine Stadt im Sahara-Atlas, die historisch als Géryville bekannt war.", hu: "El Bayadh a Szaharai-Atlasz egyik városa, történelmileg Géryville néven volt ismert.", ro: "El Bayadh este un oraș din Atlasul Saharian, cunoscut istoric sub numele de Géryville.", en: "El Bayadh is a city in the Saharan Atlas, historically known as Géryville." , es: "El Bayadh es una ciudad del Atlas sahariano, conocida históricamente como Géryville.", pt: "El Bayadh é uma cidade no Atlas Saariano, historicamente conhecida como Géryville.", fr: "El Bayadh est une ville de l'Atlas saharien, historiquement connue sous le nom de Géryville."},
     facts: {
       de: ["Zentrum der Wolle- und Schafzucht", "Liegt auf einer Hochebene"],
@@ -11363,7 +11320,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-15",
     coords: [4.0456, 36.7119],
     name: { de: "Tizi Ouzou", hu: "Tizi Ouzou", ro: "Tizi Ouzou", en: "Tizi Ouzou"},
-    image: "/poi-images/tizi-ouzou-cities-v2.webp",
     description: { de: "Tizi Ouzou ist eine große Stadt in der Kabylei-Region, umgeben von Bergen und Olivenhainen.", hu: "Tizi Ouzou egy nagy város a Kabilia régióban, hegyekkel és olajfaligetekkel körülvéve.", ro: "Tizi Ouzou este un oraș mare din regiunea Kabylia, înconjurat de munți și livezi de măslini.", en: "Tizi Ouzou is a large city in the Kabylia region, surrounded by mountains and olive groves." , es: "Tizi Ouzou es una gran ciudad en la región de la Cabilia, rodeada de montañas y olivares.", pt: "Tizi Ouzou é uma grande cidade na região da Cabília, rodeada por montanhas e olivais.", fr: "Tizi Ouzou est une grande ville de la région de Kabylie, entourée de montagnes et d'oliveraies."},
     facts: {
       de: ["Kulturelles Zentrum der Kabylei", "Bedeutende Universitätsstadt"],
@@ -11551,7 +11507,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-44",
     coords: [1.9678, 36.2658],
     name: { de: "Aïn Defla", hu: "Ain Defla", ro: "Aïn Defla", en: "Aïn Defla"},
-    image: "/poi-images/ain-defla-cities-v2.webp",
     description: { de: "Aïn Defla liegt im fruchtbaren Cheliff-Tal und ist ein bedeutendes landwirtschaftliches Produktionsgebiet.", hu: "Ain Defla a termékeny Cheliff völgyben fekszik, és jelentős mezőgazdasági termőterület.", ro: "Aïn Defla este situat în valea fertilă Cheliff și este o importantă zonă de producție agricolă.", en: "Aïn Defla is located in the fertile Cheliff Valley and is a major agricultural production area." , es: "Aïn Defla se encuentra en el fértil valle del Cheliff y es una zona de producción agrícola muy significativa.", pt: "Aïn Defla situa-se no fértil vale do Cheliff e é uma zona de produção agrícola significativa.", fr: "Aïn Defla est située dans la vallée fertile du Cheliff et constitue une zone de production agricole majeure."},
     facts: {
       de: ["Wichtiges Zentrum für Kartoffelanbau", "Antike römische Stadt Oppidum Novum"],
@@ -11739,7 +11694,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-42",
     coords: [2.46, 36.5897],
     name: { de: "Tipaza", hu: "Tipaza", ro: "Tipaza", en: "Tipaza"},
-    image: "/poi-images/tipaza-cities-v2.webp",
     description: { de: "Tipaza ist eine Küstenstadt, die für ihre spektakulären römischen Ruinen am Meer bekannt ist.", hu: "Tipaza egy tengerparti város, amely a tenger melletti látványos római romjairól ismert.", ro: "Tipaza este un oraș de coastă cunoscut pentru ruinele sale romane spectaculoase de la malul mării.", en: "Tipaza is a coastal city known for its spectacular Roman ruins by the sea." , es: "Tipaza es una ciudad costera conocida por sus espectaculares ruinas romanas junto al mar.", pt: "Tipaza é uma cidade costeira conhecida pelas suas espetaculares ruínas romanas junto ao mar.", fr: "Tipaza est une ville côtière célèbre pour ses spectaculaires ruines romaines au bord de la mer."},
     facts: {
       de: ["UNESCO-Weltkulturerbe", "Inspiriert Albert Camus"],
@@ -11999,7 +11953,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-43",
     coords: [6.2644, 36.4503],
     name: { de: "Mila", hu: "Mila", ro: "Mila", en: "Mila"},
-    image: "/poi-images/mila-cities-v2.webp",
     description: { de: "Mila ist eine der ältesten Städte Algeriens mit einer erhaltenen Altstadt und byzantinischer Mauer.", hu: "Mila Algéria egyik legrégebbi városa, fennmaradt óvárossal és bizánci falakkal.", ro: "Mila este unul dintre cele mai vechi orașe din Algeria, cu un oraș vechi conservat și un zid bizantin.", en: "Mila is one of the oldest cities in Algeria with a preserved old town and Byzantine wall." , es: "Mila es una de las ciudades más antiguas de Argelia, con un casco antiguo conservado y una muralla bizantina.", pt: "Mila é uma das cidades mais antigas da Argélia, com um centro histórico preservado e uma muralha bizantina.", fr: "Mila est l'une des plus anciennes villes d'Algérie, avec une vieille ville préservée et un mur byzantin."},
     facts: {
       de: ["Besitzt eine der ältesten Moscheen Nordafrikas", "Umgrenzt von alten byzantinischen Mauern"],
@@ -12151,7 +12104,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-36",
     coords: [8.3136, 36.7672],
     name: { de: "El Tarf", hu: "El Tarf", ro: "El Tarf", en: "El Tarf"},
-    image: "/poi-images/el-tarf-cities-v2.webp",
     description: { de: "El Tarf liegt im äußersten Nordosten Algeriens in einer Region, die reich an Wäldern und Seen ist.", hu: "El Tarf Algéria legészakkeletibb részén fekszik, erdőkben és tavakban gazdag régióban.", ro: "El Tarf este situat în extremitatea nord-estică a Algeriei, într-o regiune bogată în păduri și lacuri.", en: "El Tarf is located in the extreme northeast of Algeria in a region rich in forests and lakes." , es: "El Tarf se encuentra en el extremo noreste de Argelia, en una región rica en bosques y lagos.", pt: "El Tarf situa-se no extremo nordeste da Argélia, numa região rica em florestas e lagos.", fr: "El Tarf est situé à l'extrême nord-est de l'Algérie, dans une région riche en forêts et en lacs."},
     facts: {
       de: ["Heimat des El-Kala-Nationalparks", "Nahe der tunesischen Grenze"],
@@ -12411,7 +12363,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-04",
     coords: [7.1167, 35.8667],
     name: { de: "Oum El Bouaghi", hu: "Oum El Bouaghi", ro: "Oum El Bouaghi", en: "Oum El Bouaghi"},
-    image: "/poi-images/oum-el-bouaghi-cities-v2.webp",
     description: { de: "Oum El Bouaghi ist eine schnell wachsende Stadt im Landesinneren und ein administratives Zentrum.", hu: "Oum El Bouaghi egy gyorsan növekvő város a szárazföld belsejében, adminisztratív központ.", ro: "Oum El Bouaghi este un oraș cu creștere rapidă în interior, un centru administrativ.", en: "Oum El Bouaghi is a fast-growing inland city and an administrative center." , es: "Oum El Bouaghi es una ciudad de rápido crecimiento en el interior y un centro administrativo.", pt: "Oum El Bouaghi é uma cidade em rápido crescimento no interior e um centro administrativo.", fr: "Oum El Bouaghi est une ville de l'intérieur en pleine croissance et un centre administratif."},
     facts: {
       de: ["Zentrum im Nordosten", "Agrarisch geprägte Region"],
@@ -12671,7 +12622,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-46",
     coords: [-1.14, 35.2975],
     name: { de: "Aïn Témouchent", hu: "Aïn Témouchent", ro: "Aïn Témouchent", en: "Aïn Témouchent"},
-    image: "/poi-images/ain-temouchent-cities-v2.webp",
     description: { de: "Aïn Témouchent liegt nahe der westlichen Küste und ist bekannt für Weinbau und Strände.", hu: "Nyugat-Algéria egyik városa, amely híres a környékén található termékeny talajról és szőlőültetvényekről.", ro: "Aïn Témouchent este situat în apropierea coastei de vest și este cunoscut pentru viticultură și plaje.", en: "Aïn Témouchent is located near the western coast and is known for viticulture and beaches." , es: "Aïn Témouchent se sitúa cerca de la costa occidental y es famosa por su viticultura y sus playas.", pt: "Aïn Témouchent situa-se perto da costa ocidental e é famosa pela sua viticultura e praias.", fr: "Aïn Témouchent est située près de la côte ouest et est réputée pour sa viticulture et ses plages."},
     facts: {
       de: ["Großes Weinbaugebiet", "Bedeutende römische und spanische Einflüsse"],
@@ -13075,7 +13025,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-35",
     coords: [3.4731, 36.7628],
     name: { de: "Boumerdès", hu: "Boumerdès", ro: "Boumerdès", en: "Boumerdès"},
-    image: "/poi-images/boumerdes-cities-v2.webp",
     description: { de: "Boumerdès ist eine Küstenstadt nahe Algier, bekannt für ihre Universität und Forschungsinstitute.", hu: "Boumerdès egy tengerparti város Algír közelében, egyeteméről és kutatóintézeteiről ismert.", ro: "Boumerdès este un oraș de coastă aproape de Alger, cunoscut pentru universitatea și institutele sale de cercetare.", en: "Boumerdès is a coastal city near Algiers, known for its university and research institutes." , es: "Boumerdès es una ciudad costera cerca de Argel, conocida por su universidad e institutos de investigación.", pt: "Boumerdès é uma cidade costeira perto de Argel, conhecida pela sua universidade e institutos de investigação.", fr: "Boumerdès est une ville côtière proche d'Alger, réputée pour son université et ses instituts de recherche."},
     facts: {
       de: ["Zentrum für wissenschaftliche Forschung", "Wurde 2003 von einem Erdbeben getroffen"],
@@ -13110,7 +13059,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-50",
     coords: [0.9633, 21.3283],
     name: { de: "Bordj Badji Mokhtar", hu: "Bordzs Badzsi Mokhtar", ro: "Bordj Badji Mokhtar", en: "Bordj Badji Mokhtar"},
-    image: "/poi-images/bordj-badji-mokhtar-cities-v2.webp",
     description: { de: "Bordj Badji Mokhtar ist eine abgelegene Wüstenstadt an der Grenze zu Mali in der Sahara.", hu: "Bordzs Badzsi Mokhtar egy távoli sivatagi város Mali határán a Szaharában.", ro: "Bordj Badji Mokhtar este un oraș deșertic izolat la granița cu Mali în Sahara.", en: "Bordj Badji Mokhtar is a remote desert town on the border with Mali in the Sahara." , es: "Bordj Badji Mokhtar es una remota ciudad desértica en la frontera con Malí, en el Sahara.", pt: "Bordj Badji Mokhtar é uma remota cidade desértica na fronteira com o Mali, no Saara.", fr: "Bordj Badji Mokhtar est une ville saharienne isolée située à la frontière avec le Mali."},
     facts: {
       de: ["Grenzposten zu Mali", "Extrem heißes Wüstenklima"],
@@ -13226,7 +13174,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-53",
     coords: [2.4733, 27.1944],
     name: { de: "In Salah", hu: "In Salah", ro: "In Salah", en: "In Salah"},
-    image: "/poi-images/in-salah-cities-v2.webp",
     description: { de: "In Salah ist eine Oasenstadt in der zentralen Sahara, berühmt für extreme Sommerhitze.", hu: "In Salah oázisváros a központi Szaharában, szélsőséges nyári hőségéről ismert.", ro: "In Salah este un oraș oază din centrul Saharei, faimos pentru căldura extremă din timpul verii.", en: "In Salah is an oasis city in the central Sahara, famous for extreme summer heat." , es: "In Salah es una ciudad oasis en el Sáhara central, famosa por su calor extremo en verano.", pt: "In Salah é uma cidade oásis no Saara central, famosa pelo calor extremo no verão.", fr: "In Salah est une ville oasis du Sahara central, célèbre pour sa chaleur estivale extrême."},
     facts: {
       de: ["Einer der heißesten Orte Algeriens", "Bedeutende Erdgasförderung"],
@@ -13261,7 +13208,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-54",
     coords: [5.7722, 19.5714],
     name: { de: "In Guezzam", hu: "In Guezzam", ro: "In Guezzam", en: "In Guezzam"},
-    image: "/poi-images/in-guezzam-cities-v2.webp",
     description: { de: "In Guezzam ist der südlichste Grenzort Algeriens und ein wichtiger Transitpunkt in den Niger.", hu: "Dél-Algéria elszigetelt települése a Szahara szívében, amely fontos határállomás a szomszédos Niger felé.", ro: "In Guezzam este cel mai sudic punct de frontieră al Algeriei și un important punct de tranzit către Niger.", en: "In Guezzam is the southernmost border crossing of Algeria and an important transit point into Niger." , es: "In Guezzam es el punto fronterizo más meridional de Argelia y un importante punto de tránsito hacia Níger.", pt: "In Guezzam é o ponto fronteiriço mais meridional da Argélia e um importante ponto de trânsito para o Níger.", fr: "In Guezzam est la localité frontalière la plus au sud de l'Algérie et un point de transit important vers le Niger."},
     facts: {
       de: ["Südlichste Siedlung Algeriens", "Grenze zum Niger"],
@@ -13485,7 +13431,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-56",
     coords: [9.4833, 24.55],
     name: { de: "Djanet", hu: "Dzsanet", ro: "Djanet", en: "Djanet"},
-    image: "/poi-images/djanet-cities-v2.webp",
     description: { de: "Djanet ist eine Oasenstadt im Südosten Algeriens, umgeben von der faszinierenden Tassili-Hochebene.", hu: "Dzsanet oázisváros Délkelet-Algériában, a lenyűgöző Tassili-fennsík veszi körül.", ro: "Djanet este un oraș oază din sud-estul Algeriei, înconjurat de fascinantul platou Tassili.", en: "Djanet is an oasis city in southeastern Algeria, surrounded by the fascinating Tassili plateau." , es: "Djanet es una ciudad oasis en el sureste de Argelia, rodeada por la fascinante meseta del Tassili.", pt: "Djanet é uma cidade oásis no sudeste da Argélia, rodeada pelo fascinante planalto de Tassili.", fr: "Djanet est une ville oasis du sud-est de l'Algérie, entourée par le fascinant plateau du Tassili."},
     facts: {
       de: ["Tor zum Tassili n'Ajjer Nationalpark", "Wichtiges Tourismuszentrum im Süden"],
@@ -13709,7 +13654,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-58",
     coords: [2.8667, 30.5833],
     name: { de: "El Menia", hu: "El Menia", ro: "El Menia", en: "El Menia"},
-    image: "/poi-images/el-menia-cities-v2.webp",
     description: { de: "El Menia, ehemals El Golea, ist eine schöne Oasenstadt in Zentralalgerien, die für ihr Wasser bekannt ist.", hu: "El Menia, korábban El Golea, egy gyönyörű oázisváros Közép-Algériában, amely vizéről ismert.", ro: "El Menia, fosta El Golea, este un oraș frumos oază din centrul Algeriei, cunoscut pentru apa sa.", en: "El Menia, formerly El Golea, is a beautiful oasis city in central Algeria, known for its water." , es: "El Menia, anteriormente El Golea, es una hermosa ciudad oasis en el centro de Argelia, conocida por su agua.", pt: "El Menia, anteriormente El Golea, é uma bela cidade oásis no centro da Argélia, conhecida pela sua água.", fr: "El Menia, anciennement El Golea, est une belle ville oasis du centre de l'Algérie, réputée pour son eau."},
     facts: {
       de: ["Bekannt als 'Perle des Südens'", "Grabstätte von Charles de Foucauld"],
@@ -13897,7 +13841,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-49",
     coords: [0.2333, 29.2667],
     name: { de: "Timimoun", hu: "Timimoun", ro: "Timimoun", en: "Timimoun"},
-    image: "/poi-images/timimoun-cities-v2.webp",
     description: { de: "Timimoun ist eine Oase am Rande des Grand Erg Occidental, bekannt für ihre rote Lehmarchitektur.", hu: "Timimoun egy oázis a Grand Erg Occidental szélén, amely vörös agyag építészetéről ismert.", ro: "Timimoun este o oază la marginea Marelui Erg Occidental, cunoscută pentru arhitectura sa din lut roșu.", en: "Timimoun is an oasis on the edge of the Grand Erg Occidental, known for its red clay architecture." , es: "Timimoun es un oasis en el borde del Grand Erg Occidental, conocido por su arquitectura de arcilla roja.", pt: "Timimoun é um oásis na extremidade do Grand Erg Occidental, conhecido pela sua arquitetura de argila vermelha.", fr: "Timimoun est une oasis en bordure du Grand Erg Occidental, connue pour son architecture en terre rouge."},
     facts: {
       de: ["Rote Oasenstadt", "Bekannt für das S'bou-Fest"],
@@ -14049,7 +13992,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-52",
     coords: [-2.1667, 30.1333],
     name: { de: "Béni Abbès", hu: "Béni Abbès", ro: "Béni Abbès", en: "Béni Abbès"},
-    image: "/poi-images/beni-abbes-cities-v2.webp",
     description: { de: "Béni Abbès, die 'weiße Oase', liegt am Saoura-Tal und bietet einen Blick auf Sanddünen.", hu: "Béni Abbès, a 'fehér oázis', a Saoura-völgyben található, és kilátást nyújt a homokdűnékre.", ro: "Béni Abbès, 'oaza albă', este situată pe Valea Saoura și oferă o vedere asupra dunelor de nisip.", en: "Béni Abbès, the 'white oasis', is located in the Saoura Valley and offers a view of sand dunes." , es: "Béni Abbès, el \"oasis blanco\", se sitúa en el valle de Saoura y ofrece vistas a las dunas de arena.", pt: "Béni Abbès, o \"oásis branco\", situa-se no vale de Saoura e oferece vistas para as dunas de areia.", fr: "Béni Abbès, l'\"oasis blanche\", est située dans la vallée de la Saoura et offre une vue imprenable sur les dunes."},
     facts: {
       de: ["Die 'weiße Oase' der Saoura", "Verfügt über ein kleines Museum"],
@@ -14165,7 +14107,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-51",
     coords: [5.0667, 34.4167],
     name: { de: "Ouled Djellal", hu: "Ouled Djellal", ro: "Ouled Djellal", en: "Ouled Djellal"},
-    image: "/poi-images/ouled-djellal-cities-v2.webp",
     description: { de: "Ouled Djellal ist eine Stadt südwestlich von Biskra, bekannt für eine spezifische Schafrasse.", hu: "Ouled Djellal egy város Biskrától délnyugatra, amely egy jellegzetes juhfajtáról ismert.", ro: "Ouled Djellal este un oraș la sud-vest de Biskra, cunoscut pentru o rasă specifică de oi.", en: "Ouled Djellal is a city southwest of Biskra, known for a specific breed of sheep." , es: "Ouled Djellal es una ciudad al suroeste de Biskra, famosa por una raza específica de ovejas.", pt: "Ouled Djellal é uma cidade a sudoeste de Biskra, conhecida por uma raça específica de ovelhas.", fr: "Ouled Djellal est une ville située au sud-ouest de Biskra, célèbre pour une race ovine spécifique."},
     facts: {
       de: ["Heimat der Ouled-Djellal-Schafrasse", "Agrarisch geprägt"],

@@ -76,7 +76,6 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/paektu-mountain-nature-v2.webp",
     description: {
       de: "Ein aktiver Vulkan an der Grenze zu China und der höchste Berg der koreanischen Halbinsel. Er gilt als heiliger Ort der Revolution.",
       hu: "Aktív vulkán Kína határán, a Koreai-félsziget legmagasabb hegye. A forradalom szent helyének tartják.",
@@ -124,7 +123,6 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/myohyang-mountains-nature-v2.webp",
     description: {
       de: "Ein Gebirge, das für seine mystische Schönheit und als einer der heiligsten Orte Koreas bekannt ist. Es ist ein UNESCO-Biosphärenreservat.",
       hu: "Misztikus szépségéről és Korea egyik legszentebb helyeként ismert hegység. Az UNESCO bioszféra-rezervátuma.",
@@ -172,7 +170,6 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/kumgang-mountains-nature-v2.webp",
     description: {
       de: "Auch bekannt als Diamantgebirge, berühmt für seine malerischen Felsformationen, Wasserfälle und Teiche.",
       hu: "Gyémánt-hegységként is ismert, festői sziklaalakzatairól, vízeséseiről és tavairól híres.",
@@ -301,7 +298,6 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/taedong-river-nature-v2.webp",
     description: {
       de: "Der zweitlängste Fluss Nordkoreas, der durch die Hauptstadt Pjöngjang fließt.",
       hu: "Észak-Korea második leghosszabb folyója, amely áthalad a fővároson, Phenjanon.",
@@ -349,7 +345,6 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/yalu-river-nature-v2.webp",
     description: {
       de: "Bildet die Grenze zwischen Nordkorea und China. Auf Koreanisch wird er Amnok genannt.",
       hu: "Észak-Korea és Kína határát képezi. Koreai neve Amnok.",
@@ -550,7 +545,6 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/tumen-river-nature-v2.webp",
     description: {
       de: "Ein Fluss, der als Grenze zu China und Russland dient und im Japanischen Meer mündet.",
       hu: "Folyó, amely határfolyó Kínával és Oroszországgal, és a Japán-tengerbe ömlik.",
@@ -598,7 +592,6 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/chongchon-river-nature-v2.webp",
     description: {
       de: "Ein bedeutender Fluss im Westen Nordkoreas, der ins Gelbe Meer mündet.",
       hu: "Jelentős folyó Észak-Korea nyugati részén, amely a Sárga-tengerbe ömlik.",
@@ -763,7 +756,6 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/heaven-lake-nature-v2.webp",
     description: {
       de: "Ein Kratersee auf dem Gipfel des Paektu-Berges an der Grenze zwischen Nordkorea und China.",
       hu: "Krátertó a Pektu-hegy csúcsán, Észak-Korea és Kína határán.",
@@ -811,7 +803,6 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/sijung-lake-nature-v2.webp",
     description: {
       de: "Eine Küstenlagune in der Provinz Kangwon, bekannt für ihren therapeutischen Schlamm.",
       hu: "Tengerparti lagúna Kangvon tartományban, gyógyiszapjáról ismert.",
@@ -859,7 +850,6 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/rangrim-mountains-nature-v2.webp",
     description: {
       de: "Eine große Gebirgskette im zentralen und nördlichen Teil Nordkoreas.",
       hu: "Nagy hegylánc Észak-Korea középső és északi részén.",
@@ -907,7 +897,6 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/mantap-san-nature-v2.webp",
     description: {
       de: "Ein Berg in der Provinz Nord-Hamgyong, bekannt als Standort des Kernwaffentestgeländes Punggye-ri.",
       hu: "Hegy Észak-Hamgjong tartományban, a Phungje-ri nukleáris kísérleti telep helyszíneként ismert.",
@@ -955,7 +944,6 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/jangja-river-nature-v2.webp",
     description: {
       de: "Ein Nebenfluss des Yalu-Flusses in der Provinz Chagang, bekannt für seine Wasserkraftwerke.",
       hu: "A Jalu folyó mellékfolyója Csagang tartományban, vízerőműveiről ismert.",
@@ -1335,7 +1323,6 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/ohyon-ri-laarch-forest-nature-v2.webp",
     description: {
       de: "Ein Schutzgebiet in der Provinz Ryanggang, das für seine ausgedehnten und alten Lärchenwälder bekannt ist.",
       hu: "Védett terület Rjanggang tartományban, kiterjedt és öreg vörösfenyőerdeiről ismert.",
@@ -1383,7 +1370,6 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/ryongnim-virgin-forest-nature-v2.webp",
     description: {
       de: "Ein großes Gebiet unberührter Wälder im Rangrim-Gebirge, das eine reiche Artenvielfalt beherbergt.",
       hu: "Nagy kiterjedésű érintetlen erdőterület a Rangrim-hegységben, amely gazdag biológiai sokféleségnek ad otthont.",
@@ -1431,7 +1417,6 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/anam-bay-tidal-flat-nature-v2.webp",
     description: {
       de: "Ein wichtiges Feuchtgebiet an der Nordostküste, das als wichtiger Rastplatz für Zugvögel dient.",
       hu: "Fontos vizes élőhely az északkeleti parton, amely a vonuló madarak fontos pihenőhelye.",
@@ -1479,7 +1464,6 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/kwail-county-forests-nature-v2.webp",
     description: {
       de: "Ein Gebiet in der Provinz Süd-Hwanghae, dessen Name 'Frucht' bedeutet und das für seine ausgedehnten Obstgärten und Wälder bekannt ist.",
       hu: "Terület Dél-Hvanghe tartományban, melynek neve 'Gyümölcs'-öt jelent, és kiterjedt gyümölcsöseiről és erdőiről ismert.",
@@ -1572,7 +1556,6 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/manphung-lake-nature-v2.webp",
     description: {
       de: "Ein künstlicher See nordöstlich von Pjöngjang, der zur Erholung und Fischerei genutzt wird.",
       hu: "Mesterséges tó Phenjantól északkeletre, amelyet pihenésre és horgászatra használnak.",

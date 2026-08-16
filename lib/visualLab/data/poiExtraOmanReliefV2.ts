@@ -129,7 +129,6 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: "Hadzsar-hegység",
       ro: "Munții Al Hajar",
       en: "Al Hajar Mountains"},
-    image: "/poi-images/oman-al-hadschar-relief-v2.webp",
     description: {
       de: "Das Al-Hadschar-Gebirge ist das höchste Gebirge der östlichen Arabischen Halbinsel und trennt die Küstenebene vom Wüsteninneren.",
       hu: "A Hadzsar-hegység az Arab-félsziget keleti részének legmagasabb hegylánca, amely elválasztja a tengerpartot a sivatagi belső területektől.",
@@ -177,7 +176,6 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: "Rub al-Háli",
       ro: "Rub al-Khali",
       en: "Rub' al Khali"},
-    image: "/poi-images/oman-rub-al-chali-relief-v2.webp",
     description: {
       de: "Die Rub al-Chali ist die größte zusammenhängende Sandwüste der Erde und bedeckt einen großen Teil des südlichen Omans.",
       hu: "A Rub al-Háli a Föld legnagyobb egybefüggő homoksivataga, amely Omán déli részének jelentős területét borítja.",
@@ -225,7 +223,6 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: "Dzsebel-Szamhán",
       ro: "Jebel Samhan",
       en: "Jebel Samhan"},
-    image: "/poi-images/oman-jebel-samhan-relief-v2.webp",
     description: {
       de: "Der Dschebel Samhan ist ein bedeutender Gebirgszug in der Region Dhofar, der steil zur Küstenebene abfällt und ein wichtiges Naturschutzgebiet darstellt.",
       hu: "A Dzsebel-Szamhán a Dhofar régió egyik legfontosabb hegylánca, amely meredeken ereszkedik a part menti síkság felé, és fontos természetvédelmi terület.",
@@ -318,7 +315,6 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: "Dzsebel-Kamar",
       ro: "Jebel Qamar",
       en: "Jebel Qamar"},
-    image: "/poi-images/oman-jebel-qamar-relief-v2.webp",
     description: {
       de: "Der 'Mondberg' ist ein markanter Gebirgszug im westlichen Dhofar, der direkt in den Indischen Ozean stürzt und spektakuläre Klippen bildet.",
       hu: "A 'Hold-hegység' egy látványos hegylánc Nyugat-Dhofarban, amely közvetlenül az Indiai-óceánba zuhan, drámai sziklafalakat alkotva.",
@@ -864,7 +860,6 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: "Wádi-Tiwi",
       ro: "Wadi Tiwi",
       en: "Wadi Tiwi"},
-    image: "/poi-images/oman-wadi-tiwi-relief-v2.webp",
     description: {
       de: "Das Wadi Tiwi ist ein tiefes Flusstal, das für seine üppigen Bananen- und Dattelplantagen sowie steile Felswände bekannt ist.",
       hu: "A Wádi-Tiwi egy mély folyóvölgy, amely buja banán- és datolyaültetvényeiről, valamint meredek sziklafalairól híres.",
@@ -1005,7 +1000,6 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: "Wádi-Dajka",
       ro: "Wadi Dayqah",
       en: "Wadi Dayqah"},
-    image: "/poi-images/oman-wadi-dayqah-relief-v2.webp",
     description: {
       de: "Das Wadi Dayqah ist eines der wasserreichsten Täler im Oman und speist den größten Staudamm des Landes mit ganzjährig fließendem Wasser.",
       hu: "A Wádi-Dajka Omán egyik legbővizűbb völgye, amely az ország legnagyobb gátját táplálja egész évben folyó vízzel.",
@@ -1350,7 +1344,6 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: "Wádi Bani-Awf",
       ro: "Wadi Bani Awf",
       en: "Wadi Bani Awf"},
-    image: "/poi-images/oman-wadi-bani-awf-relief-v2.webp",
     description: {
       de: "Das Wadi Bani Awf ist ein spektakuläres, tief eingeschnittenes Tal im Hadschar-Gebirge, das für seine dramatischen Offroad-Strecken und die Schlangenschlucht bekannt ist.",
       hu: "A Wádi Bani-Awf egy látványos, mélyen bevágott völgy a Hadzsar-hegységben, amely drámai terepjárós útvonalairól és a Kígyó-szurdokról ismert.",
@@ -1443,7 +1436,6 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: "Dzsebel-Mist",
       ro: "Jebel Misht",
       en: "Jebel Misht"},
-    image: "/poi-images/oman-jebel-misht-relief-v2.webp",
     description: {
       de: "Der Dschebel Mischt ist ein gewaltiger Kalksteinblock, der wegen seiner beinahe vertikalen, bis zu 1.000 Meter hohen Südwand bei Kletterern weltweit berühmt ist.",
       hu: "A Dzsebel-Mist egy hatalmas mészkőtömb, amely közel függőleges, akár 1000 méter magas déli fala miatt világszerte híres a sziklamászók körében.",
@@ -1572,7 +1564,6 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: "Dzsebel-Kaur",
       ro: "Jebel Kawr",
       en: "Jebel Kawr"},
-    image: "/poi-images/oman-jebel-kawr-relief-v2.webp",
     description: {
       de: "Der Dschebel Kawr ist ein isoliertes Bergmassiv westlich des Dschebel Schams, bekannt für seine rauen Pfade und hochgelegenen verlassenen Dörfer.",
       hu: "A Dzsebel-Kaur egy elszigetelt hegymasszívum a Dzsebel-Samsztól nyugatra, amely zord ösvényeiről és magasan fekvő elhagyatott falvairól ismert.",
@@ -1620,7 +1611,6 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: "Wádi-Misztal",
       ro: "Wadi Mistal",
       en: "Wadi Mistal"},
-    image: "/poi-images/oman-wadi-mistal-relief-v2.webp",
     description: {
       de: "Das Wadi Mistal ist ein breites Tal, das in einem riesigen natürlichen Kessel endet, wo das hochgelegene Dorf Wakan an den Hängen thront.",
       hu: "A Wádi-Misztal egy széles völgy, amely egy hatalmas természetes katlanban végződik, ahol a magasan fekvő Wakan falu trónol a lejtőkön.",
@@ -1713,7 +1703,6 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: "Wádi-Damm",
       ro: "Wadi Damm",
       en: "Wadi Damm"},
-    image: "/poi-images/oman-wadi-damm-relief-v2.webp",
     description: {
       de: "Das Wadi Damm, auch Wadi Dhamm genannt, ist ein steiniges Tal in der Dhahirah-Region mit beeindruckenden Wasserbecken und glatten Felsformationen.",
       hu: "A Wádi-Damm, vagy Wádi-Dhamm, egy sziklás völgy a Dhahirah régióban, lenyűgöző vízmedencékkel és sima sziklaalakzatokkal.",
@@ -1890,7 +1879,6 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: "Barr al-Hikman",
       ro: "Barr al Hikman",
       en: "Barr Al Hikman"},
-    image: "/poi-images/oman-barr-al-hikman-relief-v2.webp",
     description: {
       de: "Barr al-Hikman ist eine riesige, flache Halbinsel und Sabcha (Salzpfanne) an der Ostküste Omans, die als wichtiges Vogelschutzgebiet dient.",
       hu: "Barr al-Hikman egy hatalmas, lapos félsziget és szabhá (sós mocsár) Omán keleti partján, amely fontos madárvédelmi területként szolgál.",
@@ -1938,7 +1926,6 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: "Rúsz al-Dzsibál",
       ro: "Ruus al-Jibal",
       en: "Ru'us al-Jibal"},
-    image: "/poi-images/oman-ruus-al-jibal-relief-v2.webp",
     description: {
       de: "Die Ruus al-Jibal ('Köpfe der Berge') bilden die schroffe Gebirgslandschaft der Musandam-Halbinsel, deren Fjordlandschaften steil ins Meer fallen.",
       hu: "A Rúsz al-Dzsibál ('Hegyek fejei') alkotják a Muszandam-félsziget zord hegyvidéki táját, amelynek fjordjai meredeken zuhannak a tengerbe.",
@@ -2031,7 +2018,6 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: "Ramlat Dzsadila",
       ro: "Ramlat Jadilah",
       en: "Ramlat Jadilah"},
-    image: "/poi-images/oman-ramlat-jadilah-relief-v2.webp",
     description: {
       de: "Ramlat Jadilah ist eine abgelegene Wüstenregion im Südwesten Omans, die einige der höchsten und steilsten Sanddünen des Landes aufweist.",
       hu: "A Ramlat Dzsadila egy eldugott sivatagi régió Omán délnyugati részén, ahol az ország néhány legmagasabb és legmeredekebb homokdűnéje található.",
@@ -2079,7 +2065,6 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: "Umm asz-Szamim",
       ro: "Umm al Samim",
       en: "Umm al Samim"},
-    image: "/poi-images/oman-umm-al-samim-relief-v2.webp",
     description: {
       de: "Umm al-Samim, die 'Mutter der Gifte', ist eine riesige, tückische Salzpfanne am östlichen Rand der Rub al-Chali, die extrem gefährlich zu durchqueren ist.",
       hu: "Umm asz-Szamim, a 'Mérgek anyja', egy hatalmas, alattomos sós mocsár a Rub al-Háli keleti szélén, amelynek átkelése rendkívül veszélyes.",
@@ -2316,7 +2301,6 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: "Wádi al-Haukain",
       ro: "Wadi al Hawqayn",
       en: "Wadi al Hawqayn"},
-    image: "/poi-images/oman-wadi-hawqayn-relief-v2.webp",
     description: {
       de: "Das Wadi al-Hawqayn ist bekannt für seine ganzjährigen Wasserläufe, markanten Wasserfälle und Thermalquellen in der Region Rustaq.",
       hu: "A Wádi al-Haukain az egész évben folyó vizeiről, látványos vízeséseiről és hőforrásairól ismert Ruszták régiójában.",

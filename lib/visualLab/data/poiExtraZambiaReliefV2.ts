@@ -8,7 +8,6 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-05",
     coords: [32.0, -13.5],
     name: { de: "Luangwa-Grabenbruch", hu: "Luangwa-árok", ro: "Valea Riftului Luangwa", en: "Luangwa Rift Valley"},
-    image: "/poi-images/luangwa-rift-valley-relief-v2.webp",
     description: { de: "Ein Teil des Ostafrikanischen Grabenbruchsystems mit steilen Hängen.", hu: "A Kelet-afrikai árokrendszer része meredek lejtőkkel.", ro: "Parte a sistemului de rift est-african cu versanți abrupți.", en: "Part of the East African Rift system with steep slopes." , es: "Parte del sistema del Gran Valle del Rift con laderas empinadas.", pt: "Parte do sistema do Vale do Rift da África Oriental com encostas íngremes.", fr: "Partie du système du Rift est-africain avec des versants escarpés."},
     facts: {
       de: ["Tiefer Graben mit einzigartiger Geologie.", "Grenzt an das Muchinga-Gebirge."],
@@ -44,7 +43,6 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-04",
     coords: [31.5, -11.0],
     name: { de: "Muchinga-Gebirge", hu: "Muchinga-hegység", ro: "Munții Muchinga", en: "Muchinga Mountains"},
-    image: "/poi-images/muchinga-mountains-relief-v2.webp",
     description: { de: "Ein bedeutendes Gebirge, das die Wasserscheide zwischen Sambesi und Kongo bildet.", hu: "Jelentős hegység, amely a vízválasztót képezi a Zambézi és a Kongó között.", ro: "Munți importanți care formează cumpăna apelor între Zambezi și Congo.", en: "Significant mountains forming the watershed between the Zambezi and Congo." , es: "Una cordillera importante que forma la divisoria de aguas entre el Zambeze y el Congo.", pt: "Uma cordilheira importante que forma a divisória de águas entre o Zambeze e o Congo.", fr: "Une chaîne de montagnes majeure formant la ligne de partage des eaux entre le Zambèze et le Congo."},
     facts: {
       de: ["Erstreckt sich über den Nordosten Sambias.", "Hohe Plateaus und tiefe Täler."],
@@ -197,7 +195,6 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-04",
     coords: [29.5, -11.0],
     name: { de: "Bangweulu-Becken", hu: "Bangweulu-medence", ro: "Bazinul Bangweulu", en: "Bangweulu Basin"},
-    image: "/poi-images/bangweulu-basin-relief-v2.webp",
     description: { de: "Ein großes flaches Becken, das den Bangweulusee beherbergt.", hu: "Nagy, lapos medence, amely a Bangweulu-tavat foglalja magában.", ro: "Un bazin plat mare care găzduiește Lacul Bangweulu.", en: "A large flat basin that hosts Lake Bangweulu." , es: "Una gran cuenca poco profunda que alberga el lago Bangweulu.", pt: "Uma grande bacia rasa que abriga o lago Bangweulu.", fr: "Un vaste bassin peu profond qui abrite le lac Bangweulu."},
     facts: {
       de: ["Sehr flache Uferlandschaften.", "Entstand durch tektonische Absenkung."],
@@ -233,7 +230,6 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-05",
     coords: [33.5, -10.5],
     name: { de: "Nyika-Plateau", hu: "Nyika-fennsík", ro: "Platoul Nyika", en: "Nyika Plateau"},
-    image: "/poi-images/nyika-plateau-relief-v2.webp",
     description: { de: "Ein hochgelegenes Grasland-Plateau mit kühlem Klima.", hu: "Magasan fekvő füves fennsík hűvös klímával.", ro: "Un platou cu pajiști la altitudine cu un climat răcoros.", en: "A high-altitude grassland plateau with cool climate." , es: "Una meseta de praderas altas con clima fresco.", pt: "Um planalto de pastagens elevadas com clima fresco.", fr: "Un plateau de prairies d'altitude au climat frais."},
     facts: {
       de: ["Grenzt an Malawi.", "Rolllandschaft mit sanften Hügeln."],
@@ -341,7 +337,6 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-06",
     coords: [25.0, -12.0],
     name: { de: "Nordwest-Hochland", hu: "Északnyugati felföld", ro: "Podișul de nord-vest", en: "Northwestern Highlands"},
-    image: "/poi-images/northwestern-highlands-relief-v2.webp",
     description: { de: "Hügeliges Gelände im Nordwesten Sambias.", hu: "Hilly terület Zambia északnyugati részén.", ro: "Podișul de Nord-Vest reprezintă o regiune înaltă a Zambiei, caracterizată prin soluri bogate și precipitații abundente.", en: "A high-altitude plateau area in north-western Zambia, influencing regional climate and drainage." , es: "Terreno accidentado en el noroeste de Zambia.", pt: "Terreno acidentado no noroeste da Zâmbia.", fr: "Terrain accidenté au nord-ouest de la Zambie."},
     facts: {
       de: ["Wichtiger Wasserspeicher für Flüsse.", "Sehr regenreich."],
@@ -413,7 +408,6 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-04",
     coords: [29.0, -10.0],
     name: { de: "Luapula-Tal", hu: "Luapula-völgy", ro: "Valea Luapula", en: "Luapula Valley"},
-    image: "/poi-images/luapula-valley-relief-v2.webp",
     description: { de: "Ein Tal, das dem Lauf des Luapula-Flusses folgt.", hu: "Völgy, amely követi a Luapula folyó útját.", ro: "O vale care urmează cursul râului Luapula.", en: "A valley following the course of the Luapula River." , es: "Un valle que sigue el curso del río Luapula.", pt: "Um vale que segue o curso do rio Luapula.", fr: "Une vallée qui suit le cours de la rivière Luapula."},
     facts: {
       de: ["Fruchtbare Böden entlang des Flusses.", "Wichtig für die Landwirtschaft."],
@@ -449,7 +443,6 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-08",
     coords: [30.0, -9.5],
     name: { de: "Mporokoso-Plateau", hu: "Mporokoso-fennsík", ro: "Platoul Mporokoso", en: "Mporokoso Plateau"},
-    image: "/poi-images/mporokoso-plateau-relief-v2.webp",
     description: { de: "Ein Plateau im Norden mit vielen Wasserfällen.", hu: "Fennsík az északi részen, sok vízeséssel.", ro: "Un platou în nord cu multe cascade.", en: "An elevated terrain region in the Northern province of Zambia." , es: "Una meseta en el norte con numerosas cascadas.", pt: "Um planalto no norte com numerosas cascatas.", fr: "Un plateau au nord avec de nombreuses chutes d'eau."},
     facts: {
       de: ["Hohe Niederschlagsmengen.", "Wasserreiches Gebiet."],
@@ -485,7 +478,6 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-04",
     coords: [30.5, -13.5],
     name: { de: "Serenje-Hügel", hu: "Serenje-dombság", ro: "Dealurile Serenje", en: "Serenje Hills"},
-    image: "/poi-images/serenje-hills-relief-v2.webp",
     description: { de: "Eine hügelige Landschaft im Herzen Sambias.", hu: "Hilly táj Zambia szívében.", ro: "Un peisaj deluros în inima Zambiei.", en: "A hilly landscape in the heart of Zambia." , es: "Un paisaje de colinas en el corazón de Zambia.", pt: "Uma paisagem de colinas no coração da Zâmbia.", fr: "Un paysage vallonné au cœur de la Zambie."},
     facts: {
       de: ["Gehört zum Muchinga-Gürtel.", "Ideal für Wanderungen."],
@@ -521,7 +513,6 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-04",
     coords: [31.0, -12.5],
     name: { de: "Mutinondo-Wildnis", hu: "Mutinondo vadon", ro: "Sălbăticia Mutinondo", en: "Mutinondo Wilderness"},
-    image: "/poi-images/mutinondo-wilderness-relief-v2.webp",
     description: { de: "Ein felsiges Gebiet mit markanten Granit-Inselbergen.", hu: "Sziklás terület feltűnő gránit-szigethegyekkel.", ro: "O zonă stâncoasă cu inselberguri de granit marcante.", en: "A rocky area with striking granite inselbergs." , es: "Una zona rocosa con distintivos inselbergs de granito.", pt: "Uma zona rochosa com distintivos inselbergs de granito.", fr: "Une zone rocheuse avec des inselbergs granitiques distinctifs."},
     facts: {
       de: ["Bekannt für geologische Formationen.", "Atemberaubende Aussichtspunkte."],
@@ -593,7 +584,6 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-05",
     coords: [31.5, -14.0],
     name: { de: "Luangwa-Steilabfall", hu: "Luangwa-lépcső", ro: "Povârnișul Luangwa", en: "Luangwa Escarpment"},
-    image: "/poi-images/luangwa-escarpment-relief-v2.webp",
     description: { de: "Eine dramatische Abbruchkante zum Luangwa-Tal.", hu: "Drámai perem a Luangwa-völgy felé.", ro: "Escarpamentul Luangwa este o barieră naturală abruptă care delimitează valea râului Luangwa spre vest.", en: "A dramatic cliff edge to the Luangwa Valley." , es: "Un espectacular borde de ruptura hacia el valle del Luangwa.", pt: "Uma escarpa dramática em direção ao vale do Luangwa.", fr: "Un rebord d'effondrement spectaculaire vers la vallée de la Luangwa."},
     facts: {
       de: ["Großer Höhenunterschied.", "Herausforderndes Gelände."],
@@ -629,7 +619,6 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-07",
     coords: [28.0, -14.0],
     name: { de: "Kabwe-Steilabfall", hu: "Kabwe-lépcső", ro: "Povârnișul Kabwe", en: "Kabwe Escarpment"},
-    image: "/poi-images/kabwe-escarpment-relief-v2.webp",
     description: { de: "Eine topographische Stufe, die das zentrale Plateau begrenzt.", hu: "Topográfiai lépcső, amely határolja a központi fennsíkot.", ro: "O treaptă topografică care limitează platoul central.", en: "A topographical step that limits the central plateau." , es: "Un escalón topográfico que limita la meseta central.", pt: "Um degrau topográfico que delimita o planalto central.", fr: "Un gradin topographique qui délimite le plateau central."},
     facts: {
       de: ["Natürliche Grenze zwischen Regionen.", "Auffällige Geländekante."],
@@ -665,7 +654,6 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-08",
     coords: [31.5, -9.5],
     name: { de: "Chola-Hügel", hu: "Chola-dombság", ro: "Dealurile Chola", en: "Chola Hills"},
-    image: "/poi-images/chola-hills-relief-v2.webp",
     description: { de: "Eine Bergkette im Nordosten.", hu: "Zambia északkeleti részén húzódó dombvidék, amely változatos domborzati formáival színesíti a fennsíkot.", ro: "Un lanț muntos în nord-est.", en: "A mountain range in the northeast." , es: "Una cadena montañosa en el noreste.", pt: "Uma cadeia de colinas no nordeste.", fr: "Une chaîne de collines dans le nord-est."},
     facts: {
       de: ["Bewaldete Hänge.", "Relativ abgelegen."],
@@ -701,7 +689,6 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-05",
     coords: [32.0, -13.5],
     name: { de: "Lupande-Becken", hu: "Lupande-medence", ro: "Bazinul Lupande", en: "Lupande Basin"},
-    image: "/poi-images/lupande-basin-relief-v2.webp",
     description: { de: "Ein Nebenflusstal des Luangwa.", hu: "Mellékfolyóvölgy a Luangwához.", ro: "O vale a unui afluent al Luangwa.", en: "A tributary valley of the Luangwa." , es: "Un valle afluente del Luangwa.", pt: "Um vale tributário do Luangwa.", fr: "Une vallée affluente de la Luangwa."},
     facts: {
       de: ["Saisonale Trockenflüsse.", "Wichtige Wildkorridore."],
@@ -737,7 +724,6 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-02",
     coords: [25.8, -17.9],
     name: { de: "Sambesi-Schlucht", hu: "Zambézi-szurdok", ro: "Cheile Zambezi", en: "Zambezi Gorge"},
-    image: "/poi-images/zambezi-gorge-relief-v2.webp",
     description: { de: "Die tiefe Schlucht unterhalb der Viktoriafälle.", hu: "A mély szurdok a Viktória-vízesés alatt.", ro: "Cheile adânci de sub Cascada Victoria.", en: "The deep gorge below Victoria Falls." , es: "La profunda garganta debajo de las cataratas Victoria.", pt: "A garganta profunda abaixo das Cataratas Vitória.", fr: "La gorge profonde en aval des chutes Victoria."},
     facts: {
       de: ["Tektonisch geformt.", "Spektakuläre Tiefe."],
@@ -773,7 +759,6 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-06",
     coords: [26.0, -11.0],
     name: { de: "Katanga-Plateau-Ausläufer", hu: "Katanga-fennsík nyúlványa", ro: "Prelungirea Platoului Katanga", en: "Katanga Plateau Extension"},
-    image: "/poi-images/katanga-plateau-extension-relief-v2.webp",
     description: { de: "Ein nördlicher Ausläufer des Katanga-Plateaus.", hu: "A közép-afrikai Katanga-fennsík Zambiába átnyúló része, amely ásványkincsekben rendkívül gazdag terület.", ro: "Extensia Podișului Katanga pătrunde în nordul Zambiei, fiind o regiune celebră pentru bogățiile sale minerale.", en: "An extension of the Katanga plateau into Zambian territory, defining local topography." , es: "Una estribación septentrional de la meseta de Katanga.", pt: "Uma extensão setentrional do planalto de Catanga.", fr: "Un contrefort septentrional du plateau du Katanga."},
     facts: {
       de: ["Reich an Mineralien.", "Hügeliges Gelände."],
@@ -809,7 +794,6 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-07",
     coords: [28.0, -14.8],
     name: { de: "Kabwe-Tiefland", hu: "Kabwe-alföld", ro: "Câmpia joasă Kabwe", en: "Kabwe Lowlands"},
-    image: "/poi-images/kabwe-lowlands-relief-v2.webp",
     description: { de: "Tiefer gelegene Flächen südlich des Plateaus.", hu: "Alacsonyabban fekvő területek a fennsíktól délre.", ro: "Zone de altitudine joasă la sud de platou.", en: "Lower lying areas south of the plateau." , es: "Áreas situadas a menor altitud al sur de la meseta.", pt: "Áreas situadas em altitudes inferiores ao sul do planalto.", fr: "Zones de basse altitude situées au sud du plateau."},
     facts: {
       de: ["Wärmeres Klima.", "Dichte Vegetation."],
@@ -845,7 +829,6 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-01",
     coords: [28.3, -15.4],
     name: { de: "Lusaka-Hügel", hu: "Lusaka-dombság", ro: "Dealurile Lusaka", en: "Lusaka Hills"},
-    image: "/poi-images/lusaka-hills-relief-v2.webp",
     description: { de: "Sanfte Erhebungen rund um die Hauptstadt.", hu: "Lágy kiemelkedések a főváros körül.", ro: "Elevații domoale în jurul capitalei.", en: "Gentle elevations around the capital." , es: "Colinas suaves que rodean la capital.", pt: "Colinas suaves que rodeiam a capital.", fr: "Douces collines entourant la capitale."},
     facts: {
       de: ["Prägen das Stadtbild.", "Ideal für kurze Ausflüge."],
@@ -881,7 +864,6 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-08",
     coords: [31.2, -8.8],
     name: { de: "Mbala-Hochland", hu: "Mbala-felföld", ro: "Podișul Mbala", en: "Mbala Highlands"},
-    image: "/poi-images/mbala-highlands-relief-v2.webp",
     description: { de: "Ein Hochlandgebiet nahe der Grenze zu Tansania.", hu: "Felföldi terület a Tanzániai határ közelében.", ro: "Zonă de podiș aproape de granița cu Tanzania.", en: "Highland area near the border with Tanzania." , es: "Una zona de tierras altas cerca de la frontera con Tanzania.", pt: "Uma zona de terras altas perto da fronteira com a Tanzânia.", fr: "Une zone de hauts-plateaux près de la frontière avec la Tanzanie."},
     facts: {
       de: ["Kühles, angenehmes Wetter.", "Landwirtschaftliches Zentrum."],

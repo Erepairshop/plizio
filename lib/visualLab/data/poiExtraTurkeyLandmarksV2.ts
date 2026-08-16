@@ -8,7 +8,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     parent: "TR-34",
     coords: [28.9801, 41.0082],
     name: { de: "Hagia Sophia", hu: "Hagia Szophia", ro: "Hagia Sofia", en: "Hagia Sophia"},
-    image: "/poi-images/hagia-sophia-landmarks-v2.webp",
     description: { de: "Ein architektonisches Meisterwerk in Istanbul, das im Laufe seiner langen Geschichte als Kirche und Moschee diente.", hu: "Egy építészeti remekmű Isztambulban, amely hosszú történelme során templomként és mecsetként is funkcionált.", ro: "O capodoperă arhitecturală în Istanbul, care a servit ca biserică și moschee de-a lungul istoriei sale lungi.", en: "An architectural masterpiece in Istanbul that served as both a church and a mosque throughout its long history." , es: "Una obra maestra arquitectónica en Estambul que sirvió como iglesia y mezquita a lo largo de su larga historia.", pt: "Uma obra-prima arquitetónica em Istambul que serviu como igreja e mesquita ao longo da sua longa história.", fr: "Un chef-d'œuvre architectural à Istanbul qui a servi d'église et de mosquée au cours de sa longue histoire."},
     facts: {
       de: ["Ursprünglich 537 als Kathedrale erbaut.", "Berühmt für ihre gewaltige Kuppel.", "War fast tausend Jahre lang die größte Kirche der Welt."],
@@ -44,7 +43,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     parent: "TR-34",
     coords: [28.9833, 41.0115],
     name: { de: "Topkapı-Palast", hu: "Topkapı palota", ro: "Palatul Topkapı", en: "Topkapı Palace"},
-    image: "/poi-images/topkapi-palace-landmarks-v2.webp",
     description: { de: "Einst die prächtige Hauptresidenz der osmanischen Sultane, beherbergt der Palast heute ein beeindruckendes Museum.", hu: "Az oszmán szultánok egykori pompás főrezidenciája, ma egy lenyűgöző múzeumnak ad otthont.", ro: "Cândva reședința principală magnifică a sultanilor otomani, palatul găzduiește astăzi un muzeu impresionant.", en: "Once the magnificent main residence of the Ottoman sultans, the palace now houses an impressive museum." , es: "Antaño la magnífica residencia principal de los sultanes otomanos, el palacio alberga hoy un impresionante museo.", pt: "Outrora a magnífica residência principal dos sultões otomanos, o palácio alberga hoje um museu impressionante.", fr: "Autrefois la somptueuse résidence principale des sultans ottomans, le palais abrite aujourd'hui un musée impressionnant."},
     facts: {
       de: ["Wurde im 15. Jahrhundert nach der Eroberung Istanbuls erbaut.", "Beherbergt den Harem und heilige Reliquien.", "Seit 1985 UNESCO-Weltkulturerbe."],
@@ -80,7 +78,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     parent: "TR-34",
     coords: [28.9768, 41.0054],
     name: { de: "Sultan-Ahmed-Moschee", hu: "Kék mecset", ro: "Moscheea Albastră", en: "Blue Mosque"},
-    image: "/poi-images/blue-mosque-landmarks-v2.webp",
     description: { de: "Eine historische Moschee, die für ihre auffälligen blauen İznik-Fliesen bekannt ist, die das Innere schmücken.", hu: "Egy történelmi mecset, amely a belsejét díszítő feltűnő kék izniki csempékről ismert.", ro: "O moschee istorică, cunoscută pentru plăcile sale izbitoare de faianță albastră de İznik care decorează interiorul.", en: "A historic mosque known for its striking blue İznik tiles that decorate the interior." , es: "Una mezquita histórica conocida por sus llamativos azulejos azules de İznik que decoran el interior.", pt: "Uma mesquita histórica conhecida pelos seus impressionantes azulejos azuis de İznik que decoram o interior.", fr: "Une mosquée historique connue pour ses remarquables carreaux bleus d'İznik qui décorent l'intérieur."},
     facts: {
       de: ["Verfügt über sechs markante Minarette.", "Erbaut zwischen 1609 und 1616 unter Sultan Ahmed I.", "Eines der Wahrzeichen von Istanbul."],
@@ -305,7 +302,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     parent: "TR-20",
     coords: [29.1193, 37.9253],
     name: { de: "Pamukkale", hu: "Pamukkale", ro: "Pamukkale", en: "Pamukkale"},
-    image: "/poi-images/pamukkale-landmarks-v2.webp",
     description: { de: "Ein beeindruckendes Naturwunder in der Westtürkei, bekannt für seine strahlend weißen Sinterterrassen und heißen Thermalquellen.", hu: "Lenyűgöző természeti csoda Törökország nyugati részén, amely ragyogóan fehér mésztufateraszairól és hőforrásairól ismert.", ro: "O minune naturală impresionantă în vestul Turciei, cunoscută pentru terasele sale de travertin alb strălucitor și izvoarele termale.", en: "An impressive natural wonder in western Turkey, known for its bright white travertine terraces and hot thermal springs." , es: "Una impresionante maravilla natural en el oeste de Turquía, famosa por sus terrazas de travertino blanco brillante y aguas termales.", pt: "Uma impressionante maravilha natural no oeste da Turquia, famosa pelas suas terraços de travertino branco brilhante e águas termais.", fr: "Une merveille naturelle impressionnante dans l'ouest de la Turquie, célèbre pour ses terrasses de travertin blanc éclatant et ses sources thermales."},
     facts: {
       de: ["Der Name bedeutet wörtlich \"Baumwollschloss\".", "Direkt neben der antiken römischen Stadt Hierapolis.", "Das Thermalwasser ist reich an Kalziumkarbonat."],
@@ -341,7 +337,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     parent: "TR-02",
     coords: [38.7613, 38.0326],
     name: { de: "Berg Nemrut", hu: "Nemrut-hegy", ro: "Muntele Nemrut", en: "Mount Nemrut"},
-    image: "/poi-images/mount-nemrut-landmarks-v2.webp",
     description: { de: "Ein bedeutender Berg im Südosten der Türkei, auf dessen Gipfel sich ein monumentales Heiligtum aus der hellenistischen Zeit befindet.", hu: "Egy jelentős hegy Törökország délkeleti részén, amelynek csúcsán egy hellenisztikus korból származó monumentális szentély található.", ro: "Un munte important în sud-estul Turciei, având un sanctuar monumental din perioada elenistică în vârf.", en: "A significant mountain in southeastern Turkey, featuring a monumental sanctuary from the Hellenistic period at its summit." , es: "Una montaña importante en el sureste de Turquía, en cuya cima se encuentra un santuario monumental del período helenístico.", pt: "Uma montanha importante no sudeste da Turquia, no topo da qual se encontra um santuário monumental do período helenístico.", fr: "Une montagne importante dans le sud-est de la Turquie, au sommet de laquelle se trouve un sanctuaire monumental de la période hellénistique."},
     facts: {
       de: ["Bekannt für die riesigen Steinköpfe antiker Götter.", "Das Grabheiligtum wurde von König Antiochos I. Theos erbaut.", "Ein beliebtes Ziel, um den Sonnenaufgang zu beobachten."],
@@ -674,7 +669,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     parent: "TR-50",
     coords: [34.8288, 38.6430],
     name: { de: "Nationalpark Göreme", hu: "Göreme Nemzeti Park", ro: "Parcul Național Göreme", en: "Göreme National Park"},
-    image: "/poi-images/goreme-national-park-landmarks-v2.webp",
     description: { de: "Eine spektakuläre Landschaft in Kappadokien, geformt durch Erosion und berühmt für ihre einzigartigen Feenkamine.", hu: "Kappadókia látványos tája, amelyet az erózió formált, és híres az egyedülálló tündérkéményeiről.", ro: "Un peisaj spectaculos în Capadocia, format prin eroziune și faimos pentru hornurile sale unice ale zânelor.", en: "A spectacular landscape in Cappadocia, shaped by erosion and famous for its unique fairy chimneys." , es: "Un paisaje espectacular en Capadocia, formado por la erosión y famoso por sus únicas chimeneas de hadas.", pt: "Uma paisagem espetacular na Capadócia, formada pela erosão e famosa pelas suas chaminés de fada únicas.", fr: "Un paysage spectaculaire en Cappadoce, façonné par l'érosion et célèbre pour ses cheminées de fées uniques."},
     facts: {
       de: ["Voller alter, in den weichen Stein gehauener Höhlenkirchen.", "Ein Weltzentrum für Heißluftballonfahrten.", "Die Felsformationen bestehen aus vulkanischem Tuffstein."],
@@ -791,7 +785,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     parent: "TR-61",
     coords: [39.6582, 40.6901],
     name: { de: "Sümela-Kloster", hu: "Sümela-kolostor", ro: "Mănăstirea Sumela", en: "Sumela Monastery"},
-    image: "/poi-images/sumela-monastery-landmarks-v2.webp",
     description: { de: "Ein griechisch-orthodoxes Kloster, das dramatisch in eine steile Klippe in der Schwarzmeerregion gebaut wurde.", hu: "Egy görög ortodox kolostor, amely drámai módon egy meredek sziklafalba épült a Fekete-tenger régiójában.", ro: "O mănăstire greco-ortodoxă, construită dramatic într-o stâncă abruptă din regiunea Mării Negre.", en: "A Greek Orthodox monastery dramatically built into a steep cliff in the Black Sea region." , es: "Un monasterio ortodoxo griego construido dramáticamente en un acantilado escarpado en la región del Mar Negro.", pt: "Um mosteiro ortodoxo grego construído dramaticamente num penhasco íngreme na região do Mar Negro.", fr: "Un monastère orthodoxe grec construit de façon spectaculaire sur une falaise abrupte dans la région de la mer Noire."},
     facts: {
       de: ["Gegründet im Jahr 386 nach Christus.", "Befindet sich auf einer Höhe von 1.200 Metern.", "Berühmt für seine gut erhaltenen Fresken."],
@@ -827,7 +820,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     parent: "TR-34",
     coords: [28.9731, 41.0256],
     name: { de: "Galataturm", hu: "Galata-torony", ro: "Turnul Galata", en: "Galata Tower"},
-    image: "/poi-images/galata-tower-landmarks-v2.webp",
     description: { de: "Ein historischer Steinturm im Viertel Beyoğlu, der einen weiten Panoramablick über das Goldene Horn von Istanbul bietet.", hu: "Egy történelmi kőtorony a Beyoğlu negyedben, amely széles panorámát nyújt az isztambuli Aranyszarv-öbölre.", ro: "Un turn istoric de piatră în districtul Beyoğlu, oferind vederi panoramice ample asupra Cornului de Aur din Istanbul.", en: "A historic stone tower in the Beyoğlu district, offering sweeping panoramic views of Istanbul's Golden Horn." , es: "Una torre de piedra histórica en el barrio de Beyoğlu que ofrece una vista panorámica del Cuerno de Oro de Estambul.", pt: "Uma torre histórica de pedra no bairro de Beyoğlu que oferece uma vista panorâmica do Corno de Ouro de Istambul.", fr: "Une tour en pierre historique dans le quartier de Beyoğlu qui offre une vue panoramique sur la Corne d'Or d'Istanbul."},
     facts: {
       de: ["Wurde 1348 von den Genuesen erbaut.", "Diente früher als Feuerwachturm.", "Ist heute eines der markantesten Wahrzeichen der Skyline."],
@@ -908,7 +900,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     parent: "TR-04",
     coords: [44.2980, 39.7020],
     name: { de: "Berg Ararat", hu: "Ararát-hegy", ro: "Muntele Ararat", en: "Mount Ararat"},
-    image: "/poi-images/mount-ararat-landmarks-v2.webp",
     description: { de: "Ein schneebedeckter, schlafender Vulkan ganz im Osten der Türkei, der eng mit der biblischen Geschichte der Arche Noah verbunden ist.", hu: "Egy hósipkás, szunnyadó vulkán Törökország legkeletibb részén, amely szorosan kapcsolódik Noé bárkájának bibliai történetéhez.", ro: "Un vulcan adormit, acoperit de zăpadă, în extremitatea estică a Turciei, strâns legat de povestea biblică a Arcei lui Noe.", en: "A snow-capped, dormant volcano in the far east of Turkey, closely associated with the biblical story of Noah's Ark." , es: "Un volcán inactivo cubierto de nieve en el extremo este de Turquía, estrechamente ligado a la historia bíblica del Arca de Noé.", pt: "Um vulcão adormecido coberto de neve no extremo leste da Turquia, estreitamente ligado à história bíblica da Arca de Noé.", fr: "Un volcan endormi recouvert de neige à l'extrême est de la Turquie, étroitement lié à l'histoire biblique de l'Arche de Noé."},
     facts: {
       de: ["Der höchste Berg der Türkei mit 5.137 Metern.", "Besitzt zwei Gipfel: Großer und Kleiner Ararat.", "Ein beliebtes, aber anspruchsvolles Ziel für Bergsteiger."],
@@ -944,7 +935,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     parent: "TR-34",
     coords: [28.9675, 41.0106],
     name: { de: "Großer Basar", hu: "Nagy Bazár", ro: "Marele Bazar", en: "Grand Bazaar"},
-    image: "/poi-images/grand-bazaar-landmarks-v2.webp",
     description: { de: "Einer der größten und ältesten überdachten Märkte der Welt, der sich im Herzen der Istanbuler Altstadt befindet.", hu: "A világ egyik legnagyobb és legrégebbi fedett piaca, amely Isztambul óvárosának szívében található.", ro: "Una dintre cele mai mari și mai vechi piețe acoperite din lume, situată în inima orașului vechi din Istanbul.", en: "One of the largest and oldest covered markets in the world, located in the heart of Istanbul's old city." , es: "Uno de los mercados cubiertos más grandes y antiguos del mundo, situado en el corazón del casco antiguo de Estambul.", pt: "Um dos maiores e mais antigos mercados cobertos do mundo, localizado no coração do centro histórico de Istambul.", fr: "L'un des marchés couverts les plus grands et les plus anciens du monde, situé au cœur de la vieille ville d'Istanbul."},
     facts: {
       de: ["Umfasst 61 überdachte Straßen und über 4.000 Geschäfte.", "Zieht täglich bis zu 400.000 Besucher an.", "Wurde kurz nach der osmanischen Eroberung von 1453 gegründet."],
@@ -980,7 +970,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     parent: "TR-34",
     coords: [28.9783, 41.0081],
     name: { de: "Cisterna Basilica", hu: "Elsüllyedt Palota", ro: "Cisterna Basilică", en: "Basilica Cistern"},
-    image: "/poi-images/basilica-cistern-landmarks-v2.webp",
     description: { de: "Ein riesiges unterirdisches Wasserreservoir aus der byzantinischen Zeit, bekannt für seine stimmungsvolle Beleuchtung und die Medusenhäupter.", hu: "Hatalmas bizánci kori föld alatti víztározó, amely hangulatos megvilágításáról és a Medusza-főkről ismert.", ro: "Un imens rezervor subteran de apă din perioada bizantină, cunoscut pentru iluminarea sa atmosferică și capetele Medusei.", en: "A massive subterranean water reservoir from the Byzantine era, known for its atmospheric lighting and Medusa heads." , es: "Un enorme depósito de agua subterráneo de la época bizantina, conocido por su iluminación atmosférica y las cabezas de Medusa.", pt: "Um enorme reservatório de água subterrâneo da época bizantina, conhecido pela sua iluminação atmosférica e pelas cabeças de Medusa.", fr: "Un immense réservoir d'eau souterrain de l'époque byzantine, connu pour son éclairage atmosphérique et ses têtes de Méduse."},
     facts: {
       de: ["Erbaut im 6. Jahrhundert unter Kaiser Justinian I.", "Wird von 336 Marmorsäulen getragen.", "Diente einst als Wasserversorgung für den großen Palast."],
@@ -1205,7 +1194,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     parent: "TR-07",
     coords: [31.1724, 36.9388],
     name: { de: "Theater von Aspendos", hu: "Aspendoszi Színház", ro: "Teatrul din Aspendos", en: "Aspendos Theater"},
-    image: "/poi-images/aspendos-theater-landmarks-v2.webp",
     description: { de: "Eines der besterhaltenen antiken römischen Theater der Welt, das noch heute für Aufführungen genutzt wird.", hu: "A világ egyik legjobb állapotban fennmaradt ókori római színháza, amelyet ma is használnak előadásokra.", ro: "Unul dintre cele mai bine conservate teatre romane antice din lume, fiind încă folosit pentru spectacole astăzi.", en: "One of the best-preserved ancient Roman theaters in the world, still used for performances today." , es: "Uno de los teatros romanos antiguos mejor conservados del mundo, que todavía se utiliza hoy para representaciones.", pt: "Um dos teatros romanos antigos mais bem preservados do mundo, ainda utilizado hoje para espetáculos.", fr: "L'un des théâtres romains antiques les mieux conservés au monde, toujours utilisé aujourd'hui pour des représentations."},
     facts: {
       de: ["Konnte einst bis zu 12.000 Zuschauer fassen.", "Bekannt für seine hervorragende Akustik.", "Erbaut im 2. Jahrhundert nach Christus."],
@@ -1241,7 +1229,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     parent: "TR-34",
     coords: [29.0343, 41.0435],
     name: { de: "Bosporus-Brücke", hu: "Boszporusz híd", ro: "Podul Bosfor", en: "Bosphorus Bridge"},
-    image: "/poi-images/bosphorus-bridge-landmarks-v2.webp",
     description: { de: "Eine ikonische Hängebrücke, die den europäischen und den asiatischen Teil Istanbuls miteinander verbindet.", hu: "Ikonikus függőhíd, amely Isztambul európai és ázsiai részét köti össze.", ro: "Un pod suspendat iconic care leagă părțile europene și asiatice ale Istanbulului.", en: "An iconic suspension bridge that connects the European and Asian parts of Istanbul." , es: "Un puente colgante icónico que conecta las partes europea y asiática de Estambul.", pt: "Uma icónica ponte suspensa que liga as partes europeia e asiática de Istambul.", fr: "Un pont suspendu emblématique reliant les parties européenne et asiatique d'Istanbul."},
     facts: {
       de: ["Wurde 1973 eröffnet.", "Ist über 1.500 Meter lang.", "Offiziell in Brücke der Märtyrer des 15. Juli umbenannt."],
@@ -1277,7 +1264,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     parent: "TR-34",
     coords: [29.0041, 41.0211],
     name: { de: "Leanderturm", hu: "Szűz tornya", ro: "Turnul Fecioarei", en: "Maiden's Tower"},
-    image: "/poi-images/maidens-tower-landmarks-v2.webp",
     description: { de: "Ein eleganter Turm auf einer kleinen Insel im Bosporus, der auf eine lange Legenden- und Mythengeschichte zurückblickt.", hu: "Elegáns torony egy kis szigeten a Boszporuszban, amely hosszú legendák és mítoszok sorát őrzi.", ro: "Un turn elegant pe o mică insulă în Bosfor, având o lungă istorie de legende și mituri.", en: "An elegant tower on a small island in the Bosphorus, boasting a long history of legends and myths." , es: "Una elegante torre en una pequeña isla en el Bósforo que tiene una larga historia de leyendas y mitos.", pt: "Uma torre elegante numa pequena ilha no Bósforo que tem uma longa história de lendas e mitos.", fr: "Une tour élégante sur une petite île du Bosphore qui possède une longue histoire de légendes et de mythes."},
     facts: {
       de: ["Diente einst als Leuchtturm und Zollstation.", "Bekannt als Kız Kulesi auf Türkisch.", "Ein beliebtes Fotomotiv bei Sonnenuntergang."],

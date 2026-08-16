@@ -1574,7 +1574,6 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
       pt: ["Uma mesquita emblemática da era mogol em Lahore, em frente ao Forte de Lahore.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Une mosquée emblématique de l'époque moghole à Lahore, face au fort de Lahore.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/badshahi-mosque-landmarks-v2.webp",
     description: {
       de: "Eine ikonische Moschee aus der Mogulzeit in Lahore, gegenüber der Festung von Lahore.",
       hu: "Ikonikus mogul-kori mecset Lahore-ban, a Lahore-i erőddel szemben.",
@@ -1667,7 +1666,6 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
       pt: ["Um sítio arqueológico que foi um dos maiores assentamentos da antiga cultura do Indo.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecido pela sua importância paisagística ou cultural."],
       fr: ["Un site archéologique qui fut l'un des plus grands établissements de l'ancienne civilisation de l'Indus.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/mohenjo-daro-landmarks-v2.webp",
     description: {
       de: "Eine archäologische Stätte, die eine der größten Siedlungen der alten Indus-Kultur war.",
       hu: "Régészeti lelőhely, amely az ősi Indus-völgyi civilizáció egyik legnagyobb települése volt.",
@@ -2084,7 +2082,6 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
       pt: ["Um complexo de sítios arqueológicos que mostra os vestígios de uma antiga cidade de Gandhara.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecido pela sua importância paisagística ou cultural."],
       fr: ["Un complexe de sites archéologiques présentant les vestiges d'une ancienne cité du Gandhara.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/taxila-ruins-landmarks-v2.webp",
     description: {
       de: "Ein Komplex von archäologischen Stätten, der die Überreste einer alten gandharischen Stadt zeigt.",
       hu: "Régészeti lelőhelyek komplexuma, amely egy ősi gandharai város maradványait mutatja be.",
@@ -2334,7 +2331,6 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
       pt: ["Uma grande fortaleza quadrada no deserto de Cholistan, visível de longe.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Une grande forteresse carrée dans le désert de Cholistan, visible de loin.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/derawar-fort-landmarks-v2.webp",
     description: {
       de: "Eine große quadratische Festung in der Cholistan-Wüste, die schon von weitem sichtbar ist.",
       hu: "Hatalmas négyzet alakú erőd a Cholistan-sivatagban, amely már messziről látható.",
@@ -2382,7 +2378,6 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
       pt: ["A segunda maior mina de sal do mundo e uma popular atração turística.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["La deuxième plus grande mine de sel au monde et une attraction touristique populaire.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/khewra-salt-mine-landmarks-v2.webp",
     description: {
       de: "Die zweitgrößte Salzmine der Welt und eine beliebte Touristenattraktion.",
       hu: "A világ második legnagyobb sóbányája és népszerű turisztikai látványosság.",
@@ -2547,7 +2542,6 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
       pt: ["Um complexo da era mogol em Sheikhupura, construído como reserva de vida selvagem.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Un complexe de l'époque moghole à Sheikhupura, construit comme réserve de faune sauvage.", "Situé sur le territorio de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/hiran-minar-landmarks-v2.webp",
     description: {
       de: "Ein Komplex aus der Mogulzeit in Sheikhupura, der als Wildreservat erbaut wurde.",
       hu: "Mogul-kori komplexum Sheikhupurában, amelyet vadrezervátumnak építettek.",
@@ -3936,7 +3930,6 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
       pt: ["O local de descanso final de Muhammad Ali Jinnah, o fundador do Paquistão, em Karachi.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecido pela sua importância paisagística ou cultural."],
       fr: ["Le dernier lieu de repos de Muhammad Ali Jinnah, le fondateur du Pakistan, à Karachi.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/mausoleum-of-quaid-e-azam-landmarks-v2.webp",
     description: {
       de: "Die letzte Ruhestätte von Muhammad Ali Jinnah, dem Gründer Pakistans, in Karatschi.",
       hu: "Muhammad Ali Dzsinnah, Pakisztán alapítójának végső nyughelye Karacsiban.",
@@ -5455,7 +5448,6 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
       pt: ["Um complexo de jardins persas da época mogol, conhecido pelos seus terraços e pavilhões de mármore.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecido pela sua importância paisagística ou cultural."],
       fr: ["Un complexe de jardins persans de l'époque moghole, connu pour ses terrasses et ses pavillons de marbre.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/shalimar-gardens-lahore-landmarks-v2.webp",
     description: {
       de: "Ein persischer Gartenkomplex aus der Mogulzeit, der für seine Terrassen und Marmorpavillons bekannt ist.",
       hu: "Mogul-kori perzsa kertkomplexum, amely teraszairól és márványpavilonjairól ismert.",
@@ -5503,7 +5495,6 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
       pt: ["As ruínas de um antigo mosteiro budista situado numa colina.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecido pela sua importância paisagística ou cultural."],
       fr: ["Les ruines d'un ancien monastère bouddhiste perché sur une colline.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/takht-i-bahi-landmarks-v2.webp",
     description: {
       de: "Die Ruinen eines alten buddhistischen Klosters, das auf einem Hügel thront.",
       hu: "Egy ősi buddhista kolostor romjai egy domb tetején.",
@@ -6964,7 +6955,6 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
       pt: ["Um edifício da era colonial britânica em Karachi que hoje serve como espaço de exposição e biblioteca.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
       fr: ["Un bâtiment de l'époque coloniale britannique à Karachi qui sert aujourd'hui d'espace d'exposition et de bibliothèque.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/frere-hall-landmarks-v2.webp",
     description: {
       de: "Ein Gebäude aus der britischen Kolonialzeit in Karatschi, das heute als Ausstellungsraum und Bibliothek dient.",
       hu: "Brit gyarmati korabeli épület Karacsiban, amely ma kiállítótérként és könyvtárként szolgál.",

@@ -31,7 +31,6 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       pt: ["Construída em estilo neogótico entre 1897 e 1916.", "As duas torres principais têm 40 metros de altura.", "Projetada pelo arquiteto espanhol Luis Segarra Llairadó.", "Situada na Plaza de la Independencia.", "Foi restaurada após um incêndio grave em janeiro de 2020.", "O local de culto católico mais importante da Guiné Equatorial."],
       fr: ["Construite en style néogothique entre 1897 et 1916.", "Les deux tours principales mesurent 40 mètres de haut.", "Conçue par l'architecte espagnol Luis Segarra Llairadó.", "Située sur la Plaza de la Independencia.", "A été restaurée après un grave incendie en janvier 2020.", "Lieu de culte catholique le plus important de Guinée équatoriale."],
     }, },
-    image: "/poi-images/catedral-santa-isabel-history-v2.webp",
     description: {
       de: "Eine beeindruckende neugotische Kathedrale in Malabo, die als eines der bedeutendsten architektonischen Erbe der Kolonialzeit gilt.",
       hu: "Lenyűgöző neogótikus székesegyház Malabóban, amely a gyarmati korszak egyik legjelentősebb építészeti öröksége.",
@@ -144,7 +143,6 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       pt: ["Exemplo notável de arquitetura colonial espanhola.", "Construído no início do século XX.", "Situado na marginal de Bata.", "Serviu como a mais importante estação de correios da região de Rio Muni.", "Conhecido pelos seus arcos redondos brancos característicos.", "Um dos edifícios administrativos mais antigos preservados na cidade."],
       fr: ["Exemple remarquable d'architecture coloniale espagnole.", "Construit au début du XXe siècle.", "Situé sur la promenade du front de mer de Bata.", "A servi de station de poste principale pour la région du Rio Muni.", "Connu pour ses arches en plein cintre blanches caractéristiques.", "L'un des plus anciens bâtiments administratifs préservés de la ville."],
     }, },
-    image: "/poi-images/casa-correos-bata-history-v2.webp",
     description: {
       de: "Ein markantes koloniales Gebäude in Bata, das die administrative Geschichte der Stadt während der spanischen Herrschaft widerspiegelt.",
       hu: "Jellegzetes gyarmati épület Batában, amely a város spanyol uralom alatti közigazgatási történelmét tükrözi.",
@@ -281,7 +279,6 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       pt: ["Segunda maior igreja católica de África.", "Inaugurada em dezembro de 2011.", "Inspirada na arquitetura da Basílica de São Pedro no Vaticano.", "Localizada em Mongomo, Wele-Nzas.", "A cúpula domina amplamente a paisagem.", "Pode acomodar até 6.000 fiéis."],
       fr: ["Deuxième plus grande église catholique d'Afrique.", "Inaugurée en décembre 2011.", "Inspirée par l'architecture de la basilique Saint-Pierre du Vatican.", "Située à Mongomo, Wele-Nzas.", "Le dôme domine largement le paysage environnant.", "Peut accueillir jusqu'à 6 000 fidèles."],
     }, },
-    image: "/poi-images/basilica-mongomo-history-v2.webp",
     description: {
       de: "Eine der größten christlichen Kirchen Afrikas, die im Stil des Petersdoms erbaut wurde und die Region Mongomo dominiert.",
       hu: "Afrika egyik legnagyobb keresztény temploma, amely a Szent Péter-bazilika stílusában épült és uralja a mongomói régiót.",
@@ -375,7 +372,6 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       hu: "Baneyi klaretinus misszió",
       ro: "Misiunea Claretiană din Baney",
       en: "Claretian Mission of Baney"},
-    image: "/poi-images/mision-claretiana-baney-history-v2.webp",
     description: {
       de: "Eine historische religiöse Siedlung auf der Insel Bioko, die eine Schlüsselrolle bei der Evangelisierung der Region spielte.",
       hu: "Történelmi vallási település Bioko szigetén, amely kulcsszerepet játszott a régió evangelizációjában.",
@@ -462,7 +458,6 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       pt: ["Anteriormente conhecida como Concepción de Bioko.", "Fundada por volta de 1778 por uma expedição espanhola.", "Marca um dos primeiros postos avançados espanhóis.", "Localiza-se na costa leste da ilha de Bioko.", "Restos de muros de pedra e alicerces coloniais.", "Foi em grande parte abandonada devido a doenças e isolamento."],
       fr: ["Anciennement connue sous le nom de Concepción de Bioko.", "Fondée vers 1778 par une expédition espagnole.", "Marque l'un des premiers avant-postes espagnols.", "Située sur la côte est de l'île de Bioko.", "Vestiges de murs en pierre et de fondations coloniales.", "A été largement abandonnée en raison des maladies et de l'isolement."],
     }, },
-    image: "/poi-images/ruinas-riaba-history-v2.webp",
     description: {
       de: "Die Überreste einer der ersten europäischen Siedlungen auf Bioko, früher als Concepción bekannt.",
       hu: "Bioko egyik első európai településének maradványai, amelyet korábban Concepción néven ismertek.",
@@ -603,7 +598,6 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       pt: ["Antigo centro administrativo regional de Rio Muni.", "Localizada numa pequena ilha no estuário do Rio Muni.", "Foi um importante mercado de borracha no século XIX.", "Hoje completamente desabitada e coberta pela selva.", "Vestígios de fábricas e casas coloniais são visíveis.", "O declínio começou com a ascensión de Bata como porto."],
       fr: ["Ancien centre administratif régional du Rio Muni.", "Située sur une petite île dans l'estuaire du Rio Muni.", "Était un important centre de commerce du caoutchouc au XIXe siècle.", "Aujourd'hui totalement inhabitée et recouverte par la jungle.", "Des vestiges d'usines et de maisons coloniales sont visibles.", "Le déclin a commencé avec l'essor de Bata en tant que port."],
     }, },
-    image: "/poi-images/elobey-chico-ruins-history-v2.webp",
     description: {
       de: "Einst die Hauptstadt des spanischen Territoriums Río Muni, heute eine unbewohnte Insel voller historischer Ruinen.",
       hu: "Valaha a spanyol Río Muni terület fővárosa, ma történelmi romokkal teli lakatlan sziget.",
@@ -733,7 +727,6 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       hu: "San Antonio de Palé temploma",
       ro: "Biserica din San Antonio de Palé",
       en: "Church of San Antonio de Palé"},
-    image: "/poi-images/iglesia-pale-history-v2.webp",
     description: {
       de: "Das historische religiöse Herz der Insel Annobón, Zeugnis der portugiesischen und spanischen Einflüsse.",
       hu: "Annobón szigetének történelmi vallási szíve, a portugál és spanyol hatások tanúja.",
@@ -801,7 +794,6 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       hu: "Malabói függetlenségi emlékmű",
       ro: "Monumentul Independenței din Malabo",
       en: "Independence Monument of Malabo"},
-    image: "/poi-images/monumento-independencia-malabo-history-v2.webp",
     description: {
       de: "Ein zentrales Denkmal in der Hauptstadt, das an die Erlangung der Souveränität von Spanien im Jahr 1968 erinnert.",
       hu: "A főváros központi emlékműve, amely a Spanyolországtól való 1968-as függetlenné válásra emlékeztet.",
@@ -869,7 +861,6 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       hu: "Evinayong történelmi központja",
       ro: "Centrul istoric din Evinayong",
       en: "Historical Center of Evinayong"},
-    image: "/poi-images/centro-historico-evinayong-history-v2.webp",
     description: {
       de: "Das Herz der Provinzhauptstadt Centro Sur, bekannt für seine kühlen Temperaturen und kolonialen Überreste.",
       hu: "Centro Sur tartományi székhelyének szíve, amely hűvös hőmérsékletéről és gyarmati maradványairól ismert.",
@@ -982,7 +973,6 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       hu: "Ebebiyíni székesegyház",
       ro: "Catedrala din Ebebiyín",
       en: "Cathedral of Ebebiyín"},
-    image: "/poi-images/cathedral-ebebiyin-history-v2.webp",
     description: {
       de: "Ein markantes religiöses Bauwerk im Nordosten des Landes, nahe der Grenze zu Gabun und Kamerun.",
       hu: "Jellegzetes vallási épület az ország északkeleti részén, a gaboni és kameruni határ közelében.",
@@ -1050,7 +1040,6 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       hu: "Niefangi misszió",
       ro: "Misiunea din Niefang",
       en: "Mission of Niefang"},
-    image: "/poi-images/mision-niefang-history-v2.webp",
     description: {
       de: "Eine historische katholische Mission in Niefang, strategisch am Übergang zum Landesinneren gelegen.",
       hu: "Történelmi katolikus misszió Niefangban, amely stratégiailag az ország belseje felé vezető úton fekszik.",
@@ -1186,7 +1175,6 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       hu: "Moca régi palotája",
       ro: "Vechiul Palat din Moca",
       en: "Old Palace of Moca"},
-    image: "/poi-images/palacio-moca-history-v2.webp",
     description: {
       de: "Ein historischer Rückzugsort in den Bergen von Bioko, der einst als Sommerresidenz kolonialer Gouverneure diente.",
       hu: "Történelmi menedékhely Bioko hegyeiben, amely egykor a gyarmati kormányzók nyári rezidenciájaként szolgált.",
@@ -1299,7 +1287,6 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       hu: "Punta Unidad világítótornya",
       ro: "Farul din Punta Unidad",
       en: "Lighthouse of Punta Unidad"},
-    image: "/poi-images/faro-punta-unidad-history-v2.webp",
     description: {
       de: "Ein historischer Leuchtturm im Norden des Landes, der seit der Kolonialzeit die Schifffahrt im Golf von Guinea leitet.",
       hu: "Történelmi világítótorony az ország északi részén, amely a gyarmati korszak óta segíti a hajózást a Guineai-öbölben.",
@@ -1367,7 +1354,6 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       hu: "Malabói Óra-tér",
       ro: "Piața Ceasului din Malabo",
       en: "Clock Square of Malabo"},
-    image: "/poi-images/plaza-reloj-malabo-history-v2.webp",
     description: {
       de: "Ein charmanter historischer Platz im Zentrum von Malabo, bekannt für seinen Turm mit der öffentlichen Uhr.",
       hu: "Bájos történelmi tér Malabo központjában, amely a nyilvános órával ellátott tornyáról ismert.",
@@ -1435,7 +1421,6 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
       hu: "Luba régi kikötője",
       ro: "Vechiul port din Luba",
       en: "Old Port of Luba"},
-    image: "/poi-images/antiguo-puerto-luba-history-v2.webp",
     description: {
       de: "Der historische Hafen der Stadt Luba, der während der Kolonialzeit ein bedeutendes Zentrum für den Holzexport war.",
       hu: "Luba városának történelmi kikötője, amely a gyarmati korszakban a faexport jelentős központja volt.",

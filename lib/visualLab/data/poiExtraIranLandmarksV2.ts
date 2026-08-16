@@ -309,7 +309,6 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: "Azadi-torony",
       ro: "Turnul Azadi",
       en: "Azadi Tower"},
-    image: "/poi-images/azadi-tower-landmarks-v2.webp",
     description: {
       de: "Der Freiheitsturm ist das ikonische Wahrzeichen von Teheran und markiert den westlichen Eingang zur Stadt. Seine Architektur verbindet meisterhaft islamische und präislamische Elemente.",
       hu: "Az Azadi-torony Teherán ikonikus jelképe, amely a város nyugati bejáratát jelzi. Építészete mesterien ötvözi az iszlám és az iszlám előtti elemeket.",
@@ -1013,7 +1012,6 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: "Milad-torony",
       ro: "Turnul Milad",
       en: "Milad Tower"},
-    image: "/poi-images/milad-tower-landmarks-v2.webp",
     description: {
       de: "Der Milad-Turm ist ein markantes Bauwerk in der Skyline von Teheran und bietet einen Panoramablick über die gesamte Metropole. Er ist ein Zentrum für Handel und Tourismus.",
       hu: "A Milad-torony Teherán látképének meghatározó építménye, ahonnan panorámás kilátás nyílik az egész metropoliszra. A kereskedelem és a turizmus központja.",
@@ -1645,7 +1643,6 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: "Khadschu-híd",
       ro: "Podul Khaju",
       en: "Khaju Bridge"},
-    image: "/poi-images/khaju-bridge-landmarks-v2.webp",
     description: {
       de: "Die Chadschu-Brücke ist eine der schönsten historischen Brücken in Isfahan. Sie diente nicht nur der Überquerung des Zayandeh Rud, sondern auch als sozialer Treffpunkt.",
       hu: "A Khadschu-híd Iszfahán egyik legszebb történelmi hídja. Nemcsak a Zájande-rud folyón való átkelésre szolgált, hanem társadalmi találkozóhelyként is funkcionált.",
@@ -1953,7 +1950,6 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: "Si-o-se-pol",
       ro: "Si-o-se-pol",
       en: "Si-o-se-pol"},
-    image: "/poi-images/si-o-se-pol-landmarks-v2.webp",
     description: {
       de: "Si-o-se-pol, die Brücke der 33 Bögen, ist ein architektonisches Meisterwerk der Safawidenzeit in Isfahan. Ihre majestätischen Bögen spiegeln sich wunderschön im Wasser wider.",
       hu: "A Si-o-se-pol, a 33 ív hídja, Iszfahán szafavida kori építészetének remekműve. Fenséges ívei gyönyörűen tükröződnek a víz felszínén.",
@@ -2585,7 +2581,6 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: "Naszír al-Mulk mecset",
       ro: "Moscheea Nasir al-Mulk",
       en: "Nasir al-Mulk Mosque"},
-    image: "/poi-images/nasir-al-mulk-mosque-landmarks-v2.webp",
     description: {
       de: "Die Nasir-ol-Molk-Moschee in Schiras ist weltberühmt für ihre farbenprächtigen Buntglasfenster. Am Morgen taucht das Sonnenlicht den Gebetsraum in ein faszinierendes Farbenmeer.",
       hu: "A sirázi Naszír al-Mulk mecset világszerte ismert színpompás ólomüveg ablakairól. Reggelente a napfény lenyűgöző színtengerbe öltözteti az imatermet.",
@@ -3397,7 +3392,6 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: "Eram-kert",
       ro: "Grădina Eram",
       en: "Eram Garden"},
-    image: "/poi-images/eram-garden-landmarks-v2.webp",
     description: {
       de: "Der Eram-Garten ist ein historisches persisches Gartenparadies in Schiras, berühmt für seine Zypressen und den eleganten Palast. Er ist eine Oase der Ruhe und Schönheit.",
       hu: "Az Eram-kert egy történelmi perzsa kertparadicsom Sirázban, amely ciprusfáiról és elegáns palotájáról híres. A nyugalom és a szépség oázisa.",
@@ -4569,7 +4563,6 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: "Vank-székesegyház",
       ro: "Catedrala Vank",
       en: "Vank Cathedral"},
-    image: "/poi-images/vank-cathedral-landmarks-v2.webp",
     description: {
       de: "Die Vank-Kathedrale in Isfahan vereint armenisch-christliche und persisch-islamische Architekturstile. Ihre reich verzierten Innenräume zeigen beeindruckende biblische Fresken.",
       hu: "Az iszfaháni Vank-székesegyház az örmény keresztény és a perzsa iszlám építészeti stílusokat ötvözi. Gazdagon díszített belső terei lenyűgöző bibliai freskókat rejtenek.",
@@ -5129,7 +5122,6 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: "Ali Qapu-palota",
       ro: "Palatul Ali Qapu",
       en: "Ali Qapu Palace"},
-    image: "/poi-images/ali-qapu-palace-landmarks-v2.webp",
     description: {
       de: "Der Ali-Qapu-Palast in Isfahan besticht durch seine filigranen Stuckarbeiten und den spektakulären Musiksaal. Von seiner Veranda aus überblickt man den gigantischen Meidan-e Emam.",
       hu: "Az iszfaháni Ali Qapu-palota lenyűgöző finom stukkóiról és látványos zeneterméről. Verandájáról az egész gigantikus Meidan-e Emam tér belátható.",
@@ -5653,7 +5645,6 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: "Csehel Szotun-palota",
       ro: "Palatul Chehel Sotoun",
       en: "Chehel Sotoun"},
-    image: "/poi-images/chehel-sotoun-landmarks-v2.webp",
     description: {
       de: "Der Palast Tschehel-Sotun in Isfahan liegt in einem bezaubernden Gartenpavillon. Die Spiegelung seiner zwanzig Holzsäulen im Wasserbecken erzeugt die Illusion von vierzig Säulen.",
       hu: "A Csehel Szotun-palota Iszfahánban egy varázslatos kerti pavilonban található. Húsz faoszlopának tükröződése a vízmedencében negyven oszlop illúzióját kelti.",
@@ -6249,7 +6240,6 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: "Tabiat-híd",
       ro: "Podul Tabiat",
       en: "Tabiat Bridge"},
-    image: "/poi-images/tabiat-bridge-landmarks-v2.webp",
     description: {
       de: "Die Tabiat-Brücke ist ein modernes Meisterwerk im Herzen von Teheran. Sie fügt sich harmonisch in die Natur ein und bietet Fußgängern eine grüne und entspannende Umgebung.",
       hu: "A Tabiat-híd egy modern remekmű Teherán szívében. Harmonikusan illeszkedik a természetbe, zöld és pihentető környezetet biztosítva a gyalogosok számára.",
@@ -6665,7 +6655,6 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: "Háfiz síremléke",
       ro: "Mormântul lui Hafez",
       en: "Tomb of Hafez"},
-    image: "/poi-images/hafez-tomb-landmarks-v2.webp",
     description: {
       de: "Das Hafez-Mausoleum in Schiras ist eine Pilgerstätte für Liebhaber der persischen Poesie. Der wunderschöne Pavillon ist von friedlichen Gärten und duftenden Orangenbäumen umgeben.",
       hu: "A Háfiz síremlék Sirázban a perzsa költészet szerelmeseinek zarándokhelye. A gyönyörű pavilont békés kertek és illatos narancsfák veszik körül.",
@@ -7153,7 +7142,6 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: "Szádi síremléke",
       ro: "Mormântul lui Saadi",
       en: "Tomb of Saadi"},
-    image: "/poi-images/saadi-tomb-landmarks-v2.webp",
     description: {
       de: "Das Saadi-Mausoleum in Schiras ehrt einen der größten Dichter des Iran. Die elegante Architektur mit ihren türkisfarbenen Kuppeln spiegelt die Tiefe seiner literarischen Werke wider.",
       hu: "A Szádi síremlék Sirázban Irán egyik legnagyobb költőjének állít emléket. Az elegáns építészet türkizkék kupoláival hűen tükrözi irodalmi műveinek mélységét.",
@@ -7533,7 +7521,6 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: "Dowlat Abad-kert",
       ro: "Grădina Dowlat Abad",
       en: "Dowlat Abad Garden"},
-    image: "/poi-images/dowlat-abad-garden-landmarks-v2.webp",
     description: {
       de: "Der Dowlat-Abad-Garten in Yazd ist ein klassisches Beispiel persischer Landschaftsarchitektur. Er ist besonders berühmt für seinen riesigen Windturm, der für natürliche Kühlung sorgt.",
       hu: "A jazdi Dowlat Abad-kert a perzsa tájépítészet klasszikus példája. Különösen híres hatalmas széltornyáról, amely természetes hűtést biztosít.",
@@ -8885,7 +8872,6 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: "Amir Csakmak-komplexum",
       ro: "Complexul Amir Chakhmaq",
       en: "Amir Chakhmaq Complex"},
-    image: "/poi-images/amir-chakhmaq-complex-landmarks-v2.webp",
     description: {
       de: "Der Amir-Tschachmaq-Komplex ist das markante Herzstück von Yazd. Mit seiner beeindruckenden dreistöckigen Fassade ist er ein architektonisches Highlight der Wüstenstadt.",
       hu: "Az Amir Csakmak-komplexum Jazd lenyűgöző központja. Impozáns háromszintes homlokzatával a sivatagi város egyik építészeti csúcspontja.",
@@ -10309,7 +10295,6 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: "Imám Reza-szentély",
       ro: "Altarul Imamului Reza",
       en: "Imam Reza Shrine"},
-    image: "/poi-images/imam-reza-shrine-landmarks-v2.webp",
     description: {
       de: "Der Imam-Reza-Schrein in Maschhad ist ein massiver und spirituell bedeutender Komplex. Seine kunstvollen Innenhöfe und goldenen Kuppeln ziehen gläubige Muslime aus der ganzen Welt an.",
       hu: "A meshedi Imám Reza-szentély egy hatalmas és spirituálisan jelentős komplexum. Művészi udvarai és aranykupolái a világ minden tájáról vonzzák a hívő muszlimokat.",
@@ -11265,7 +11250,6 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: "Sah Cserag-szentély",
       ro: "Shah Cheragh",
       en: "Shah Cheragh"},
-    image: "/poi-images/shah-cheragh-landmarks-v2.webp",
     description: {
       de: "Schah Tscheragh in Schiras ist eines der beeindruckendsten Heiligtümer des Iran. Sein Inneres gleicht einem Palast aus Tausenden von spiegelnden Glasstücken, die das Licht brechen.",
       hu: "A sirázi Sah Cserag-szentély Irán egyik leglenyűgözőbb zarándokhelye. Belseje olyan, mint egy palota, amelyet több ezer csillogó üvegdarab borít, megtörve a fényt.",
@@ -12566,7 +12550,6 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: "Niavaran-palotakomplexum",
       ro: "Complexul Niavaran",
       en: "Niavaran Complex"},
-    image: "/poi-images/niavaran-complex-landmarks-v2.webp",
     description: {
       de: "Der Niavaran-Palastkomplex in Teheran zeugt vom luxuriösen Lebensstil der letzten iranischen Herrscher. Er liegt in einer wunderschönen Parklandschaft am Fuß des Elburs-Gebirges.",
       hu: "A teheráni Niavaran-palotakomplexum az utolsó iráni uralkodók fényűző életmódjáról tanúskodik. Egy gyönyörű parkosított területen, az Elburz-hegység lábánál fekszik.",
@@ -13666,7 +13649,6 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: "Szaadabad-palotakomplexum",
       ro: "Complexul Sa'dabad",
       en: "Sa'dabad Complex"},
-    image: "/poi-images/sadabad-complex-landmarks-v2.webp",
     description: {
       de: "Der Saadabad-Palastkomplex war das royale Zentrum im Nordwesten Teherans. Die weitläufige Anlage beherbergt zahlreiche Museen, die historische Kunst und Kultur ausstellen.",
       hu: "A Szaadabad-palotakomplexum a királyi központ volt Teherán északnyugati részén. A kiterjedt területen számos múzeum található, amelyek történelmi művészetet és kultúrát állítanak ki.",

@@ -633,7 +633,6 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
       hu: "Taman Negara Nemzeti Park",
       ro: "Parcul Național Taman Negara",
       en: "Taman Negara National Park"},
-    image: "/poi-images/taman-negara-national-park-nature-v2.webp",
     description: {
       de: "Einer der ältesten tropischen Regenwälder der Welt, der eine unglaubliche Artenvielfalt an Flora und Fauna bietet.",
       hu: "A világ egyik legősibb trópusi esőerdeje, amely a növény- és állatvilág hihetetlen biológiai sokféleségét kínálja.",
@@ -681,7 +680,6 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
       hu: "Kinabalu Park",
       ro: "Parcul Kinabalu",
       en: "Kinabalu Park"},
-    image: "/poi-images/kinabalu-park-nature-v2.webp",
     description: {
       de: "Ein weiteres UNESCO-Weltkulturerbe, das den Mount Kinabalu, den höchsten Berg Malaysias, umgibt und eine außergewöhnliche botanische Vielfalt aufweist.",
       hu: "Egy másik UNESCO Világörökségi helyszín, amely Malajzia legmagasabb hegyét, a Kinabalu-hegyet öleli körül, és rendkívüli botanikai sokféleséggel rendelkezik.",
@@ -990,7 +988,6 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
       hu: "Kenyir-tó",
       ro: "Lacul Kenyir",
       en: "Lake Kenyir"},
-    image: "/poi-images/lake-kenyir-nature-v2.webp",
     description: {
       de: "Der größte künstliche See in Südostasien, umgeben von üppigem Regenwald und Heimat Hunderter Inseln.",
       hu: "Délkelet-Ázsia legnagyobb mesterséges tava, amelyet buja esőerdő vesz körül, és több száz szigetnek ad otthont.",
@@ -2091,7 +2088,6 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
       hu: "Beras Basah-sziget",
       ro: "Insula Beras Basah",
       en: "Beras Basah Island"},
-    image: "/poi-images/beras-basah-island-nature-v2.webp",
     description: {
       de: "Eine malerische Insel im Langkawi-Archipel mit weißen Sandstränden, klarem Wasser und üppiger Vegetation.",
       hu: "Egy festői sziget a Langkawi-szigetcsoportban, fehér homokos strandokkal, tiszta vízzel és buja növényzettel.",
@@ -2652,7 +2648,6 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
       hu: "Cameron-felföld erdői",
       ro: "Pădurile din Cameron Highlands",
       en: "Cameron Highlands Forests"},
-    image: "/poi-images/cameron-highlands-forest-nature-v2.webp",
     description: {
       de: "Ein Hochlandgebiet, das für seine ausgedehnten Teeplantagen und moosbewachsenen Wälder bekannt ist, die ein kühleres Klima als der Rest des Landes bieten.",
       hu: "Egy felföldi terület, amely kiterjedt teaültetvényeiről és mohás erdőiről ismert, hűvösebb éghajlatot kínálva, mint az ország többi része.",
@@ -2817,7 +2812,6 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
       hu: "Kinabatangan-folyó",
       ro: "Râul Kinabatangan",
       en: "Kinabatangan River"},
-    image: "/poi-images/kinabatangan-river-nature-v2.webp",
     description: {
       de: "Der zweitlängste Fluss Malaysias, dessen Ufer eine der reichsten Konzentrationen an Wildtieren in Südostasien aufweisen.",
       hu: "Malajzia második leghosszabb folyója, amelynek partjai Délkelet-Ázsia egyik leggazdagabb vadvilág-koncentrációjával rendelkeznek.",
@@ -2946,7 +2940,6 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
       hu: "Kinabalu-hegy",
       ro: "Muntele Kinabalu",
       en: "Mount Kinabalu"},
-    image: "/poi-images/mount-kinabalu-nature-v2.webp",
     description: {
       de: "Der höchste Berg in Malaysia und im Malaiischen Archipel. Er ist ein prominenter Teil des Kinabalu-Parks und ein beliebtes Ziel für Bergsteiger.",
       hu: "Malajzia és a Maláj-szigetvilág legmagasabb hegye. A Kinabalu Park kiemelkedő része, és a hegymászók kedvelt célpontja.",
@@ -3399,7 +3392,6 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
       hu: "Bako Nemzeti Park",
       ro: "Parcul Național Bako",
       en: "Bako National Park"},
-    image: "/poi-images/bako-national-park-nature-v2.webp",
     description: {
       de: "Der älteste Nationalpark in Sarawak, der für seine außergewöhnliche Vielfalt an Ökosystemen auf kleinem Raum bekannt ist, von Mangrovenwäldern bis zu Klippenvegetation.",
       hu: "Sarawak legrégebbi nemzeti parkja, amely kis területen található ökoszisztémáinak rendkívüli sokféleségéről ismert, a mangroveerdőktől a sziklanövényzetig.",
@@ -4284,7 +4276,6 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
       hu: "Tioman-sziget",
       ro: "Insula Tioman",
       en: "Tioman Island"},
-    image: "/poi-images/pulau-tioman-nature-v2.webp",
     description: {
       de: "Eine dicht bewaldete, dünn besiedelte Insel vor der Ostküste der malaiischen Halbinsel, die für ihre Korallenriffe, Wasserfälle und Strände bekannt ist.",
       hu: "Egy sűrűn erdős, ritkán lakott sziget a Maláj-félsziget keleti partjainál, amely korallzátonyairól, vízeséseiről és strandjairól ismert.",
@@ -4557,7 +4548,6 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
       hu: "Tasik Chini",
       ro: "Lacul Chini",
       en: "Lake Chini"},
-    image: "/poi-images/tasik-chini-nature-v2.webp",
     description: {
       de: "Ein System von zwölf miteinander verbundenen Seen in Pahang, bekannt für seine Lotosblumen und die Legende eines Drachen, der in seinen Tiefen leben soll.",
       hu: "Tizenkét összekapcsolt tóból álló rendszer Pahangban, amely lótuszvirágairól és a mélyén állítólag élő sárkány legendájáról ismert.",
@@ -4974,7 +4964,6 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
       hu: "Gunung Ledang Nemzeti Park",
       ro: "Parcul Național Gunung Ledang",
       en: "Gunung Ledang National Park"},
-    image: "/poi-images/gunung-ledang-national-park-nature-v2.webp",
     description: {
       de: "Dieser Park in Johor beherbergt den berühmten Mount Ophir (Gunung Ledang), einen der sagenumwobensten Berge Malaysias, der mit Mythen und Legenden verbunden ist.",
       hu: "Ez a johori park ad otthont a híres Ophir-hegynek (Gunung Ledang), Malajzia egyik leglegendásabb hegyének, amelyet mítoszok és legendák öveznek.",
@@ -5859,7 +5848,6 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
       hu: "Perhentian-szigetek",
       ro: "Insulele Perhentian",
       en: "Perhentian Islands"},
-    image: "/poi-images/perhentian-islands-nature-v2.webp",
     description: {
       de: "Eine Gruppe von korallenumsäumten Inseln vor der Küste von Terengganu, bekannt für ihre entspannte Atmosphäre, weißen Sandstrände und hervorragenden Tauch- und Schnorchelbedingungen.",
       hu: "Korallzátonyokkal szegélyezett szigetcsoport Terengganu partjainál, amely nyugodt légköréről, fehér homokos strandjairól és kiváló búvár- és sznorkelezési lehetőségeiről ismert.",
@@ -5907,7 +5895,6 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
       hu: "Belum-Temenggor Erdőrezervátum",
       ro: "Rezervația forestieră Belum-Temenggor",
       en: "Belum-Temenggor Forest Reserve"},
-    image: "/poi-images/belump-temenggor-forest-reserve-nature-v2.webp",
     description: {
       de: "Eines der größten zusammenhängenden Waldgebiete auf der malaiischen Halbinsel, älter als der Amazonas und Heimat einer erstaunlichen Vielfalt an Wildtieren.",
       hu: "A Maláj-félsziget egyik legnagyobb összefüggő erdőterülete, amely idősebb az Amazonas-medencénél, és elképesztő vadvilágnak ad otthont.",
@@ -6108,7 +6095,6 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
       hu: "Danum-völgy Védelmi Terület",
       ro: "Zona de conservare Valea Danum",
       en: "Danum Valley Conservation Area"},
-    image: "/poi-images/danum-valley-conservation-area-nature-v2.webp",
     description: {
       de: "Ein relativ unberührtes Tiefland-Dipterocarpaceen-Waldgebiet in Sabah, das als eines der am besten geschützten Regenwaldgebiete der Welt gilt.",
       hu: "Egy viszonylag érintetlen síkvidéki dipterokarpusz-erdőterület Sabahban, amelyet a világ egyik legjobban védett esőerdei területének tartanak.",
@@ -6201,7 +6187,6 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
       hu: "Semporna-szigetek Park",
       ro: "Parcul Insulelor Semporna",
       en: "Semporna Islands Park"},
-    image: "/poi-images/semporna-islands-park-nature-v2.webp",
     description: {
       de: "Ein Meerespark vor der Küste von Sabah, der für seine außergewöhnliche Unterwasserwelt und als eines der besten Tauchgebiete der Welt bekannt ist.",
       hu: "Egy tengeri park Sabah partjainál, amely kivételes tengeri élővilágáról és a világ egyik legjobb búvárhelyeként ismert.",
@@ -6654,7 +6639,6 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
       hu: "Pahang-folyó",
       ro: "Râul Pahang",
       en: "Pahang River"},
-    image: "/poi-images/pahang-river-nature-v2.webp",
     description: {
       de: "Der längste Fluss auf der malaiischen Halbinsel, der durch den Bundesstaat Pahang fließt und eine wichtige Wasserstraße für Transport und Landwirtschaft darstellt.",
       hu: "A Maláj-félsziget leghosszabb folyója, amely Pahang államon folyik keresztül, és fontos vízi út a közlekedés és a mezőgazdaság számára.",
@@ -6747,7 +6731,6 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
       hu: "Trusmadi-hegy",
       ro: "Muntele Trusmadi",
       en: "Mount Trusmadi"},
-    image: "/poi-images/mount-trusmadi-nature-v2.webp",
     description: {
       de: "Der zweithöchste Berg in Malaysia nach dem Mount Kinabalu, bekannt für seine reiche und einzigartige Flora, einschließlich endemischer Kannenpflanzenarten.",
       hu: "Malajzia második legmagasabb hegye a Kinabalu-hegy után, gazdag és egyedi növényvilágáról ismert, beleértve az endemikus kancsóka fajokat is.",
@@ -6779,7 +6762,6 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
       de: ["Der Gipfel des Mount Trusmadi liegt auf exakt 2.642 Metern Höhe.", "Er ist der zweithöchste Berg Malaysias, aber berüchtigt für seine steilen Pfade.", "Die seltene Hybrid-Kannenpflanze Nepenthes x trusmadiensis wächst nur auf diesem Berg.", "Der Berg liegt im Zentrum des 184.000 Hektar großen Trusmadi Forest Reserve.", "Bergsteiger benötigen für den schwierigen Auf- und Abstieg in der Regel drei Tage.", "Es gibt drei verschiedene Kletterrouten: Wayaan Kaingaran, Wayaan Mastan und Wayaan Mannan."],
       hu: ["A 2642 méter magas csúcs Malajzia második legmagasabb hegye a Kinabalu (4095 m) után.", "Geológiailag főként üledékes kőzetekből (homokkő és pala) épül fel, nem gránitból.", "Megmászása ('Jungle Trekking') a sűrű növényzet és a sáros ösvények miatt országosan a legnehezebbek közé tartozik.", "A hegy a kizárólag itt élő Nepenthes x trusmadiensis nevű húsevő növény (kancsóka) otthona.", "Csúcsáról derült időben tökéletes kilátás nyílik a szomszédos, hatalmas Kinabalu-hegyre.", "A terület a Crocker-hegység és a Trusmadi-hegység egyedi törésvonalában helyezkedik el."],
       ro: ["Al doilea cel mai înalt munte din Malaezia, după Muntele Kinabalu, renumit pentru flora sa bogată și unică, inclusiv specii endemice de plante carnivore.", "Se află pe teritoriul Federației Malaeziei.", "Este modelat de climatul musonic tropical din Asia de Sud-Est.", "Este legat de moștenirea Sultanatului Malacca și a perioadei coloniale britanice."],
-      en: ["The second highest mountain in Malaysia after Mount Kinabalu, known for its rich and unique flora, including endemic pitcher plant species.", "Located within the Federation of Malaysia.", "Shaped by the tropical monsoon climate of Southeast Asia.", "Linked to the heritage of the Malacca Sultanate and the British colonial era."],
       en: ["Mount Trusmadi is the second-highest mountain in Malaysia, at 2,642 meters.", "The mountain is located in the Trusmadi Forest Reserve, which covers 1,865 square kilometers.", "It is famous for its diversity of pitcher plants, including the endemic Nepenthes x trusmadiensis.", "There are three trails to the summit: Wayaan Kaingaran, Wayaan Mastan, and Wayaan Mannan.", "The climb is more challenging than Mount Kinabalu due to its rugged terrain and less-developed trails.", "The forest reserve is a Class 1 Forest Reserve, meaning it is protected for conservation purposes.", "The summit offers stunning views of Mount Kinabalu on a clear day.", "The mountain was first climbed in 1963 by a team of British and Malaysian surveyors."],
       es: ["La cima del Monte Trusmadi se encuentra exactamente a 2.642 metros de altura.", "Es la segunda montaña más alta de Malasia, pero es famosa por sus senderos empinados.", "La rara planta de jarra híbrida Nepenthes x trusmadiensis crece solo en esta montaña.", "La montaña se encuentra en el centro de la Reserva Forestal Trusmadi de 184.000 hectáreas.", "Los escaladores suelen necesitar tres días para el difícil ascenso y descenso.", "Hay tres rutas de escalada diferentes: Wayaan Kaingaran, Wayaan Mastan y Wayaan Mannan."],
       pt: ["O cume do Monte Trusmadi situa-se exatamente a 2.642 metros de altitude.", "É a segunda montanha mais alta da Malásia, mas é famosa pelos seus trilhos íngremes.", "A rara planta carnívora híbrida Nepenthes x trusmadiensis cresce apenas nesta montanha.", "A montanha situa-se no centro da Reserva Florestal de Trusmadi, com 184.000 hectares.", "Os alpinistas precisam geralmente de três dias para a difícil subida e descida.", "Existem três rotas de escalada diferentes: Wayaan Kaingaran, Wayaan Mastan e Wayaan Mannan."],
@@ -6913,7 +6895,6 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
       hu: "Tasik Bera",
       ro: "Lacul Bera",
       en: "Lake Bera"},
-    image: "/poi-images/tasik-bera-nature-v2.webp",
     description: {
       de: "Das größte natürliche Süßwassersee-System in Malaysia und ein Ramsar-Gebiet, das für seine reiche Biodiversität und die Heimat der Semelai-Ureinwohner bekannt ist.",
       hu: "Malajzia legnagyobb természetes édesvizű tórendszere és Ramsari-terület, amely gazdag biodiverzitásáról és a semelai őslakosok otthonaként ismert.",

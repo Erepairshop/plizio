@@ -12,7 +12,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Bissau",
       ro: "Bissau",
       en: "Bissau"},
-    image: "/poi-images/bissau-cities-v2.webp",
     description: {
       de: "Bissau ist die Hauptstadt und größte Stadt von Guinea-Bissau, gelegen an der Mündung des Geba-Flusses in den Atlantik.",
       hu: "Bissau Bissau-Guinea fővárosa és legnagyobb városa, a Geba-folyó torkolatánál, az Atlanti-óceán partján fekszik.",
@@ -69,7 +68,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Bafatá",
       ro: "Bafatá",
       en: "Bafatá"},
-    image: "/poi-images/bafata-cities-v2.webp",
     description: {
       de: "Bafatá ist eine wichtige Stadt im zentralen Guinea-Bissau, bekannt als Geburtsort des Unabhängigkeitshelden Amílcar Cabral.",
       hu: "Bafatá egy fontos város Közép-Bissau-Guineában, Amílcar Cabral függetlenségi hős szülőhelyeként ismert.",
@@ -197,7 +195,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Bissora",
       ro: "Bissora",
       en: "Bissora"},
-    image: "/poi-images/bissora-cities-v2.webp",
     description: {
       de: "Bissora ist eine Stadt in der Oio-Region, nördlich der Hauptstadt Bissau gelegen.",
       hu: "Bissora egy város az Oio régióban, a fővárostól, Bissautól északra helyezkedik el.",
@@ -378,7 +375,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Bolama",
       ro: "Bolama",
       en: "Bolama"},
-    image: "/poi-images/bolama-cities-v2.webp",
     description: {
       de: "Bolama ist die ehemalige Hauptstadt von Portugiesisch-Guinea und liegt auf der gleichnamigen Insel im Bijagós-Archipel.",
       hu: "Bolama Portugál-Guinea egykori fővárosa, a Bijagós-szigetcsoport azonos nevű szigetén fekszik.",
@@ -442,7 +438,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Cacheu",
       ro: "Cacheu",
       en: "Cacheu"},
-    image: "/poi-images/cacheu-cities-v2.webp",
     description: {
       de: "Cacheu ist eine historische Stadt am Ufer des Cacheu-Flusses und eine der ältesten europäischen Siedlungen in Subsahara-Afrika.",
       hu: "Cacheu egy történelmi város a Cacheu-folyó partján, és a szubszaharai Afrika egyik legrégebbi európai települése.",
@@ -506,7 +501,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Buba",
       ro: "Buba",
       en: "Buba"},
-    image: "/poi-images/buba-cities-v2.webp",
     description: {
       de: "Buba ist eine Hafenstadt im Süden Guinea-Bissaus, gelegen am Rio Grande de Buba.",
       hu: "Buba egy kikötőváros Bissau-Guinea déli részén, a Rio Grande de Buba partján.",
@@ -570,7 +564,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Catió",
       ro: "Catió",
       en: "Catió"},
-    image: "/poi-images/catio-cities-v2.webp",
     description: {
       de: "Catió ist die Hauptstadt der Tombali-Region im Südwesten von Guinea-Bissau.",
       hu: "Catió a délnyugat-bissau-guineai Tombali régió fővárosa.",
@@ -634,7 +627,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Farim",
       ro: "Farim",
       en: "Farim"},
-    image: "/poi-images/farim-cities-v2.webp",
     description: {
       de: "Farim ist eine Stadt im Norden Guinea-Bissaus am Ufer des Farim-Flusses.",
       hu: "Farim egy város Bissau-Guinea északi részén, a Farim-folyó partján.",
@@ -698,7 +690,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Quinhámel",
       ro: "Quinhámel",
       en: "Quinhámel"},
-    image: "/poi-images/quinhamel-cities-v2.webp",
     description: {
       de: "Quinhámel ist die Hauptstadt der Biombo-Region, westlich der Hauptstadt Bissau gelegen.",
       hu: "Quinhámel a Biombo régió fővárosa, a fővárostól, Bissautól nyugatra fekszik.",
@@ -762,7 +753,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Mansôa",
       ro: "Mansôa",
       en: "Mansôa"},
-    image: "/poi-images/mansoa-cities-v2.webp",
     description: {
       de: "Mansôa ist eine strategisch wichtige Stadt im Zentrum Guinea-Bissaus in der Oio-Region.",
       hu: "Mansôa egy stratégiailag fontos város Bissau-Guinea központjában, az Oio régióban.",
@@ -826,7 +816,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Bambadinca",
       ro: "Bambadinca",
       en: "Bambadinca"},
-    image: "/poi-images/bambadinca-cities-v2.webp",
     description: {
       de: "Bambadinca ist ein bedeutender Ort in der Bafatá-Region, gelegen am Geba-Fluss.",
       hu: "Bambadinca egy jelentős település a Bafatá régióban, a Geba-folyó partján.",
@@ -890,7 +879,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Canchungo",
       ro: "Canchungo",
       en: "Canchungo"},
-    image: "/poi-images/canchungo-cities-v2.webp",
     description: {
       de: "Canchungo ist eine Stadt in der Cacheu-Region im Nordwesten Guinea-Bissaus.",
       hu: "Canchungo egy város a Cacheu régióban, Bissau-Guinea északnyugati részén.",
@@ -954,7 +942,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Quebo",
       ro: "Quebo",
       en: "Quebo"},
-    image: "/poi-images/quebo-cities-v2.webp",
     description: {
       de: "Quebo ist eine Stadt in der Quínara-Region im Süden des Landes.",
       hu: "Quebo egy város az ország déli részén, a Quínara régióban.",
@@ -1018,7 +1005,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Bedanda",
       ro: "Bedanda",
       en: "Bedanda"},
-    image: "/poi-images/bedanda-cities-v2.webp",
     description: {
       de: "Bedanda ist ein Ort in der Tombali-Region im tiefen Süden Guinea-Bissaus.",
       hu: "Bedanda egy település a Tombali régióban, Bissau-Guinea távoli déli részén.",
@@ -1146,7 +1132,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Safim",
       ro: "Safim",
       en: "Safim"},
-    image: "/poi-images/safim-cities-v2.webp",
     description: {
       de: "Safim ist eine wachsende Stadt in der Biombo-Region, direkt vor den Toren der Hauptstadt Bissau.",
       hu: "Safim egy növekvő város a Biombo régióban, közvetlenül a főváros, Bissau kapujában.",
@@ -1210,7 +1195,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Bubaque",
       ro: "Bubaque",
       en: "Bubaque"},
-    image: "/poi-images/bubaque-cities-v2.webp",
     description: {
       de: "Bubaque ist die wichtigste Stadt auf den Bijagós-Inseln und ein Zentrum für Tourismus.",
       hu: "Bubaque a legfontosabb város a Bijagós-szigeteken, és a turizmus központja.",
@@ -1274,7 +1258,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Fulacunda",
       ro: "Fulacunda",
       en: "Fulacunda"},
-    image: "/poi-images/fulacunda-cities-v2.webp",
     description: {
       de: "Fulacunda ist eine Stadt in der Quínara-Region im Süden Guinea-Bissaus.",
       hu: "Fulacunda egy város a Quínara régióban, Bissau-Guinea déli részén.",
@@ -1338,7 +1321,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Bigene",
       ro: "Bigene",
       en: "Bigene"},
-    image: "/poi-images/bigene-cities-v2.webp",
     description: {
       de: "Bigene ist eine Stadt in der Cacheu-Region, nahe der Grenze zum Senegal.",
       hu: "Bigene egy város a Cacheu régióban, a szenegáli határ közelében.",
@@ -1466,7 +1448,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Pirada",
       ro: "Pirada",
       en: "Pirada"},
-    image: "/poi-images/pirada-cities-v2.webp",
     description: {
       de: "Pirada ist eine Grenzstadt im Nordosten Guinea-Bissaus in der Gabú-Region.",
       hu: "Pirada egy határváros Bissau-Guinea északkeleti részén, a Gabú régióban.",
@@ -1530,7 +1511,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Pitche",
       ro: "Pitche",
       en: "Pitche"},
-    image: "/poi-images/pitche-cities-v2.webp",
     description: {
       de: "Pitche ist eine Stadt im äußersten Osten Guinea-Bissaus, nahe der Grenze zur Republik Guinea.",
       hu: "Pitche egy város Bissau-Guinea legkeletibb részén, a Guineai Köztársaság határának közelében.",
@@ -1594,7 +1574,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Sonaco",
       ro: "Sonaco",
       en: "Sonaco"},
-    image: "/poi-images/sonaco-cities-v2.webp",
     description: {
       de: "Sonaco ist eine Stadt in der Gabú-Region im Osten von Guinea-Bissau.",
       hu: "Sonaco egy város a Gabú régióban, Bissau-Guinea keleti részén.",
@@ -1658,7 +1637,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Contuboel",
       ro: "Contuboel",
       en: "Contuboel"},
-    image: "/poi-images/contuboel-cities-v2.webp",
     description: {
       de: "Contuboel ist eine Stadt in der Bafatá-Region, gelegen am nördlichen Ufer des Geba-Flusses.",
       hu: "Contuboel egy város a Bafatá régióban, a Geba-folyó északi partján.",
@@ -1722,7 +1700,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Galomaro",
       ro: "Galomaro",
       en: "Galomaro"},
-    image: "/poi-images/galomaro-cities-v2.webp",
     description: {
       de: "Galomaro ist eine Stadt in der Bafatá-Region im Osten Guinea-Bissaus.",
       hu: "Galomaro egy város a Bafatá régióban, Bissau-Guinea keleti részén.",
@@ -1786,7 +1763,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Buruntuma",
       ro: "Buruntuma",
       en: "Buruntuma"},
-    image: "/poi-images/buruntuma-cities-v2.webp",
     description: {
       de: "Buruntuma ist ein Ort an der östlichsten Grenze von Guinea-Bissau zu Guinea.",
       hu: "Buruntuma egy település Bissau-Guinea legkeletibb határánál, Guinea szomszédságában.",
@@ -1850,7 +1826,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Madina do Boe",
       ro: "Madina do Boe",
       en: "Madina do Boe"},
-    image: "/poi-images/madina-do-boe-cities-v2.webp",
     description: {
       de: "Madina do Boe ist ein historisch bedeutsamer Ort im Südosten von Guinea-Bissau.",
       hu: "Madina do Boe egy történelmileg jelentős település Bissau-Guinea délkeleti részén.",
@@ -1914,7 +1889,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Empada",
       ro: "Empada",
       en: "Empada"},
-    image: "/poi-images/empada-cities-v2.webp",
     description: {
       de: "Empada ist eine Stadt in der Quínara-Region im Westen des Landes.",
       hu: "Empada egy város a Quínara régióban, az ország nyugati részén.",
@@ -2042,7 +2016,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Cacine",
       ro: "Cacine",
       en: "Cacine"},
-    image: "/poi-images/cacine-cities-v2.webp",
     description: {
       de: "Cacine ist eine Hafenstadt im tiefen Süden Guinea-Bissaus am Ufer des Cacine-Flusses.",
       hu: "Cacine egy kikötőváros Bissau-Guinea távoli déli részén, a Cacine-folyó partján.",
@@ -2106,7 +2079,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Jemberem",
       ro: "Jemberem",
       en: "Jemberem"},
-    image: "/poi-images/jemberem-cities-v2.webp",
     description: {
       de: "Jemberem ist ein Dorf in der Tombali-Region, bekannt als Tor zum Cantanhez-Wald-Nationalpark.",
       hu: "Jemberem egy falu a Tombali régióban, a Cantanhez-erdő Nemzeti Park kapujaként ismert.",
@@ -2170,7 +2142,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Tite",
       ro: "Tite",
       en: "Tite"},
-    image: "/poi-images/tite-cities-v2.webp",
     description: {
       de: "Tite ist eine Stadt in der Quínara-Region, am südlichen Ufer des Geba-Estuars gelegen.",
       hu: "Tite egy város a Quínara régióban, a Geba-torkolat déli partján fekszik.",
@@ -2234,7 +2205,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Encheia",
       ro: "Encheia",
       en: "Encheia"},
-    image: "/poi-images/encheia-cities-v2.webp",
     description: {
       de: "Encheia ist eine kleine Stadt in der Oio-Region im Norden Guinea-Bissaus.",
       hu: "Encheia egy kisváros az Oio régióban, Bissau-Guinea északi részén.",
@@ -2426,7 +2396,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Caió",
       ro: "Caió",
       en: "Caió"},
-    image: "/poi-images/caio-cities-v2.webp",
     description: {
       de: "Caió ist ein Küstenort in der Cacheu-Region, westlich von Canchungo gelegen.",
       hu: "Caió egy tengerparti település a Cacheu régióban, Canchungótól nyugatra fekszik.",
@@ -2490,7 +2459,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Bulula",
       ro: "Bulula",
       en: "Bulula"},
-    image: "/poi-images/bulula-cities-v2.webp",
     description: {
       de: "Bulula ist eine kleine Siedlung in der Quínara-Region im Süden des Landes.",
       hu: "Bulula egy kis település a Quínara régióban, az ország déli részén.",
@@ -2554,7 +2522,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Uno",
       ro: "Uno",
       en: "Uno"},
-    image: "/poi-images/uno-cities-v2.webp",
     description: {
       de: "Uno ist die Hauptsiedlung auf der Insel Uno im Bijagós-Archipel.",
       hu: "Uno az Uno-sziget legfontosabb települése a Bijagós-szigetcsoportban.",
@@ -2618,7 +2585,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Caravela",
       ro: "Caravela",
       en: "Caravela"},
-    image: "/poi-images/caravela-cities-v2.webp",
     description: {
       de: "Caravela ist eine Insel und Siedlung im nördlichen Teil des Bijagós-Archipels.",
       hu: "Caravela egy sziget és település a Bijagós-szigetcsoport északi részén.",
@@ -2682,7 +2648,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Formosa",
       ro: "Formosa",
       en: "Formosa"},
-    image: "/poi-images/formosa-cities-v2.webp",
     description: {
       de: "Formosa ist eine der größten Inseln des Bijagós-Archipels mit mehreren kleinen Siedlungen.",
       hu: "Formosa a Bijagós-szigetcsoport egyik legnagyobb szigete, több kisebb településsel.",
@@ -2746,7 +2711,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Eticoga",
       ro: "Eticoga",
       en: "Eticoga"},
-    image: "/poi-images/eticoga-cities-v2.webp",
     description: {
       de: "Eticoga ist die größte Siedlung auf der Insel Orango im Bijagós-Archipel.",
       hu: "Eticoga az Orango-sziget legnagyobb települése a Bijagós-szigetcsoportban.",
@@ -2810,7 +2774,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Abu",
       ro: "Abu",
       en: "Abu"},
-    image: "/poi-images/abu-cities-v2.webp",
     description: {
       de: "Abu ist ein kleiner Ort auf den nördlichen Bijagós-Inseln.",
       hu: "Abu egy kis település az északi Bijagós-szigeteken.",
@@ -2874,7 +2837,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Prabis",
       ro: "Prabis",
       en: "Prabis"},
-    image: "/poi-images/prabis-cities-v2.webp",
     description: {
       de: "Prabis ist eine Küstenstadt in der Biombo-Region, südwestlich von Bissau.",
       hu: "Prabis egy tengerparti város a Biombo régióban, Bissautól délnyugatra.",
@@ -2938,7 +2900,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Biombo",
       ro: "Biombo",
       en: "Biombo"},
-    image: "/poi-images/biombo-cities-v2.webp",
     description: {
       de: "Biombo ist ein historischer Ort in der gleichnamigen Region an der Atlantikküste.",
       hu: "Biombo egy történelmi település az azonos nevű régióban, az Atlanti-óceán partján.",
@@ -3002,7 +2963,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Cumura",
       ro: "Cumura",
       en: "Cumura"},
-    image: "/poi-images/cumura-cities-v2.webp",
     description: {
       de: "Cumura ist ein bekannter Ort in der Biombo-Region, nahe der Hauptstadt Bissau.",
       hu: "Cumura egy jól ismert település a Biombo régióban, a főváros, Bissau közelében.",
@@ -3066,7 +3026,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "São Domingos",
       ro: "São Domingos",
       en: "São Domingos"},
-    image: "/poi-images/sao-domingos-cities-v2.webp",
     description: {
       de: "São Domingos ist eine Stadt im Nordwesten von Guinea-Bissau, direkt an der Grenze zum Senegal.",
       hu: "São Domingos egy város Bissau-Guinea északnyugati részén, közvetlenül a szenegáli határon.",
@@ -3118,7 +3077,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Varela",
       ro: "Varela",
       en: "Varela"},
-    image: "/poi-images/varela-cities-v2.webp",
     description: {
       de: "Varela ist ein entlegener Küstenort im Nordwesten von Guinea-Bissau, nahe der senegalesischen Grenze.",
       hu: "Varela egy távoli tengerparti település Bissau-Guinea északnyugati részén, a szenegáli határ közelében.",
@@ -3182,7 +3140,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       hu: "Bula",
       ro: "Bula",
       en: "Bula"},
-    image: "/poi-images/bula-cities-v2.webp",
     description: {
       de: "Bula ist eine Stadt in der Cacheu-Region, gelegen an der Hauptstraße nördlich von Bissau.",
       hu: "Bula egy város a Cacheu régióban, a Bissautól északra vezető főút mentén fekszik.",

@@ -93,7 +93,6 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
       hu: "Claudio Corallo csokoládémanufaktúra",
       ro: "Manufactura de ciocolată Claudio Corallo",
       en: "Claudio Corallo Chocolate Factory"},
-    image: "/poi-images/schokoladenmanufaktur-corallo-economic-v2.webp",
     description: {
       de: "Diese weltberühmte Manufaktur in der Hauptstadt São Tomé verarbeitet den feinsten Kakao der Insel Príncipe zu preisgekrönten Schokoladenkreationen. Hier wird die Kunst der Schokoladenherstellung auf höchstem Niveau zelebriert, wobei der Fokus auf minimaler Verarbeitung und maximalem Aroma liegt. Besucher können den Weg von der Bohne bis zur fertigen Tafel verfolgen und die Reinheit des santomeischen Kakaos in seiner edelsten Form erleben.",
       hu: "Ez a világhírű manufaktúra São Tomé fővárosában a Príncipe-szigetről származó legfinomabb kakaót dolgozza fel díjnyertes csokoládékülönlegességekké. Itt a csokoládékészítés művészetét a legmagasabb szinten művelik, a hangsúlyt a minimális feldolgozásra és a maximális aromára helyezve. A látogatók végigkísérhetik a kakaóbab útját a kész tábláig, és megtapasztalhatják a São Tomé-i kakaó tisztaságát annak legnemesebb formájában.",
@@ -157,7 +156,6 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
       hu: "Rosema sörfőzde",
       ro: "Berăria Rosema",
       en: "Rosema Brewery"},
-    image: "/poi-images/brauerei-rosema-economic-v2.webp",
     description: {
       de: "Die Rosema-Brauerei in Neves ist die bedeutendste Produktionsstätte für Getränke auf São Tomé und ein Symbol für die nationale Industrie. Hier wird das beliebte Rosema-Bier gebraut, das auf dem gesamten Archipel für seine Erfrischung geschätzt wird. Die Fabrik ist ein wichtiger Arbeitgeber in der Region Lembá und nutzt moderne Abfüllanlagen, um den Durst der Inselbewohner und Touristen mit lokal produziertem Lagerbier zu stillen.",
       hu: "A nevesi Rosema sörfőzde São Tomé legjelentősebb italgyártó üzeme és a nemzeti ipar jelképe. Itt főzik a népszerű Rosema sört, amelyet az egész szigetcsoporton kedvelnek frissítő íze miatt. A gyár Lembá körzet fontos munkaadója, és modern palackozósorokat használ, hogy helyi gyártású világos sörrel oltsa a szigetlakók és a turisták szomját.",
@@ -394,7 +392,6 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
       hu: "Pantufoi halászkikötő",
       ro: "Portul de pescuit Pantufo",
       en: "Pantufo Fishing Port"},
-    image: "/poi-images/fischereihafen-pantufo-economic-v2.webp",
     description: {
       de: "Der Fischereihafen von Pantufo ist einer der aktivsten Umschlagplätze für Meeresfrüchte in der Nähe der Hauptstadt. Hier landen täglich hunderte kleiner Kanus und Motorboote ihren Fang an, der direkt am Kai sortiert und verkauft wird. Der Hafen ist nicht nur ein wirtschaftliches Zentrum für die lokale Fischergemeinschaft, sondern auch ein wichtiger Versorgungspunkt für die Märkte von São Tomé, wo Frische und Vielfalt an erster Stelle stehen.",
       hu: "A pantufoi halászkikötő a tenger gyümölcseinek egyik legaktívabb rakodóhelye a főváros közelében. Naponta több száz kis kenu és motorcsónak hozza ide fogását, amelyet közvetlenül a rakparton válogatnak szét és értékesítenek. A kikötő nemcsak a helyi halászközösség gazdasági központja, hanem São Tomé piacainak fontos ellátási pontja is, ahol a frissesség és a választék az elsődleges.",
@@ -458,7 +455,6 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
       hu: "Nevesi ipari kikötő",
       ro: "Portul industrial Neves",
       en: "Industrial Port of Neves"},
-    image: "/poi-images/hafen-neves-economic-v2.webp",
     description: {
       de: "Der Industriehafen von Neves im Nordwesten der Insel ist auf den Umschlag von Treibstoffen und industriellen Gütern spezialisiert. Mit seinen Ölanlegestellen und Lagerterminals ist er das logistische Rückgrat für die Energieversorgung von São Tomé. Im Gegensatz zum Haupthafen in der Hauptstadt dient dieser Hafen primär der schweren Logistik und dem Import von Betriebsmitteln für die nahegelegenen Fabriken und Kraftwerke.",
       hu: "A sziget északnyugati részén található nevesi ipari kikötő üzemanyagok és ipari javak rakodására specializálódott. Olajtermináljaival és raktáraival São Tomé energiaellátásának logisztikai gerincét alkotja. A fővárosi kikötővel ellentétben ez a kikötő elsősorban a nehézlogisztikát, valamint a közeli gyárak és erőművek számára szükséges üzemanyagok és alapanyagok importját szolgálja.",
@@ -522,7 +518,6 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
       hu: "São Tomé-i napelemfarm",
       ro: "Parcul solar din São Tomé",
       en: "São Tomé Solar Park"},
-    image: "/poi-images/solarpark-sao-tome-economic-v2.webp",
     description: {
       de: "Der Solarpark von São Tomé ist das erste große Projekt des Landes zur Nutzung der intensiven tropischen Sonneneinstrahlung für die Stromerzeugung. Tausende von Photovoltaik-Modulen erstrecken sich über die Ebene von Lobata und speisen saubere Energie in das nationale Netz ein. Dieses Projekt markiert den Beginn einer neuen Ära der nachhaltigen Energiewirtschaft auf dem Archipel und reduziert die Abhängigkeit von teuren importierten fossilen Brennstoffen.",
       hu: "A São Tomé-i napelemfarm az ország első nagy projektje, amely az intenzív trópusi napsugárzást használja fel villamosenergia-termelésre. Több ezer fotovoltaikus modul terül el Lobata síkságán, tiszta energiát táplálva a nemzeti hálózatba. Ez a projekt a fenntartható energiagazdálkodás új korszakának kezdetét jelzi a szigetcsoporton, csökkentve a drága, importált fosszilis tüzelőanyagoktól való függőséget.",
@@ -586,7 +581,6 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
       hu: "CECAB kakaógyár",
       ro: "Fabrica de cacao CECAB",
       en: "CECAB Cocoa Factory"},
-    image: "/poi-images/kakaofabrik-cecab-economic-v2.webp",
     description: {
       de: "Die CECAB-Fabrik ist das Herzstück der genossenschaftlichen Kakaoverarbeitung in São Tomé. Hier werden die Bohnen von tausenden Kleinbauern aus dem ganzen Land gesammelt, fermentiert und für den Export vorbereitet. Die Fabrik legt großen Wert auf Bio-Qualität und fairen Handel, wodurch der santomeische Kakao auf dem Weltmarkt eine Spitzenposition einnimmt. In den Hallen der Fabrik wird der Rohstoff veredelt, der die wirtschaftliche Lebensgrundlage für viele Familien des Archipels bildet.",
       hu: "A CECAB gyár a São Tomé-i szövetkezeti kakaófeldolgozás központja. Itt gyűjtik össze, fermentálják és készítik fel exportra az ország több ezer kisgazdájától származó kakaóbabot. A gyár nagy hangsúlyt fektet a biominőségre és a méltányos kereskedelemre, aminek köszönhetően a São Tomé-i kakaó vezető helyet foglal el a világpiacon. A gyárcsarnokokban nemesítik azt az alapanyagot, amely a szigetcsoport számos családja számára a gazdasági megélhetést biztosítja.",
@@ -650,7 +644,6 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
       hu: "Bago-Bago ásványvízüzem",
       ro: "Fabrica de apă minerală Bago-Bago",
       en: "Bago-Bago Mineral Water Plant"},
-    image: "/poi-images/mineralwasserwerk-bago-bago-economic-v2.webp",
     description: {
       de: "In den kühlen Höhenlagen von Mé-Zóchi nutzt das Mineralwasserwerk Bago-Bago die reinen Quellen des Gebirges, um hochwertiges Trinkwasser abzufüllen. Die moderne Anlage stellt sicher, dass das Wasser unter strengen hygienischen Bedingungen direkt von der Quelle in die Flaschen gelangt. Bago-Bago ist die bekannteste Wassermarke des Landes und ein wichtiges Beispiel für die Veredelung natürlicher Ressourcen auf dem Archipel.",
       hu: "Mé-Zóchi hűvös hegyvidékén a Bago-Bago ásványvízüzem a hegység tiszta forrásait használja fel kiváló minőségű ivóvíz palackozásához. A modern létesítmény biztosítja, hogy a víz szigorú higiéniai körülmények között, közvetlenül a forrástól kerüljön a palackokba. A Bago-Bago az ország legismertebb vízmárkája, és a szigetcsoport természetes erőforrásai hasznosításának fontos példája.",
@@ -714,7 +707,6 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
       hu: "Santana halászkikötő",
       ro: "Portul de pescuit Santana",
       en: "Santana Fishing Port"},
-    image: "/poi-images/fischereihafen-santana-economic-v2.webp",
     description: {
       de: "Der Fischereihafen von Santana ist der maritime Mittelpunkt des Bezirks Cantagalo. Hier kehren die Fischer mit ihren täglichen Fängen von den fischreichen Gewässern rund um die Ilhéu de Santana zurück. Der Hafen dient als wichtiger Handelsplatz, an dem der frische Fisch direkt nach der Anlandung an die Bewohner und Gastronomen der Region verkauft wird, was die lokale Wirtschaft und die Versorgung mit frischen Meeresfrüchten sichert.",
       hu: "A santanai halászkikötő Cantagalo körzet tengeri központja. Itt térnek vissza a halászok napi fogásukkal a Santana-sziget körüli halban gazdag vizekről. A kikötő fontos kereskedelmi helyszínként szolgál, ahol a friss halat a kikötés után közvetlenül a környék lakóinak és vendéglőseinek értékesítik, biztosítva a helyi gazdaságot és a friss tengeri gyümölcsökkel való ellátást.",
@@ -1003,7 +995,6 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
       hu: "Porto Alegre-i móló",
       ro: "Debarcaderul din Porto Alegre",
       en: "Porto Alegre Jetty"},
-    image: "/poi-images/anlegestelle-porto-alegre-economic-v2.webp",
     description: {
       de: "Die Anlegestelle von Porto Alegre im tiefen Süden ist der wichtigste logistische Punkt für die Versorgung der Ilhéu das Rolas. Von hier aus verkehren regelmäßig Boote, die Güter und Personen zur Äquatorinsel befördern. Die Anlegestelle spielt eine entscheidende Rolle für den Tourismus und die Versorgung der südlichsten Außenposten des Archipels und ist ein lebendiger Treffpunkt am Ende der südlichen Küstenstraße.",
       hu: "A mély délen fekvő Porto Alegre-i móló az Ilhéu das Rolas ellátásának legfontosabb logisztikai pontja. Innen indulnak a rendszeres hajójáratok, amelyek árut és utasokat szállítanak az Egyenlítő-szigetre. A móló döntő szerepet játszik a turizmusban és a szigetcsoport legdélibbi előőrseinek ellátásában, és élénk találkozóhely a déli parti út végén.",
@@ -1067,7 +1058,6 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
       hu: "Santo António-i logisztikai kikötő",
       ro: "Portul logistic Santo António",
       en: "Logistics Port of Santo António"},
-    image: "/poi-images/hafen-santo-antonio-economic-v2.webp",
     description: {
       de: "Der Logistikhafen von Santo António ist die einzige maritime Verbindung der Insel Príncipe zur Außenwelt. Hier legen die Versorgungsschiffe aus São Tomé an, die Lebensmittel, Baumaterialien und Treibstoffe für die gesamte Inselbevölkerung bringen. Der Hafen ist das wirtschaftliche Herz der autonomen Region und sorgt dafür, dass die isolierte Insel am globalen Handel teilhaben kann. Jede Ankunft eines Schiffes ist ein Ereignis, das die Lebensader von Príncipe sichert.",
       hu: "A Santo António-i logisztikai kikötő a Príncipe-sziget egyetlen tengeri kapcsolata a külvilággal. Itt kötnek ki a São Toméból érkező ellátóhajók, amelyek élelmiszert, építőanyagot és üzemanyagot hoznak a sziget teljes lakossága számára. A kikötő az autonóm régió gazdasági szíve, amely lehetővé teszi, hogy az elszigetelt sziget részt vegyen a globális kereskedelemben. Minden hajó érkezése esemény, amely biztosítja Príncipe éltető vonalát.",
@@ -1131,7 +1121,6 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
       hu: "Központi kikötői kakaóraktár",
       ro: "Depozitul de cacao din portul principal",
       en: "Main Port Cocoa Warehouse"},
-    image: "/poi-images/kakaolagerhaus-hafen-economic-v2.webp",
     description: {
       de: "Das Kakaolagerhaus am Haupthafen von São Tomé ist die letzte Station für die Bohnen, bevor sie die Reise auf den Weltmarkt antreten. In diesem weitläufigen Terminal werden die Säcke aus den verschiedenen Roças und Fabriken des Landes gesammelt und für die Verschiffung verladen. Die Anlage ist ein kritischer Punkt der nationalen Exportwirtschaft und gewährleistet die korrekte Lagerung und Logistik des wertvollsten Exportgutes des Archipels unter tropischen Bedingungen.",
       hu: "A São Tomé-i központi kikötő kakaóraktára a kakaóbab utolsó állomása, mielőtt elindulna a világpiacra. Ebben a hatalmas terminálban gyűjtik össze az ország különböző roça-iból és gyáraiból származó zsákokat, és készítik fel őket a hajózásra. A létesítmény a nemzeti exportgazdaság kritikus pontja, amely biztosítja a szigetcsoport legértékesebb exportcikkének megfelelő tárolását és logisztikáját trópusi körülmények között.",
@@ -1195,7 +1184,6 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
       hu: "São Tomé-i hajógyár",
       ro: "Șantierul naval din São Tomé",
       en: "São Tomé Shipyard"},
-    image: "/poi-images/werft-sao-tome-economic-v2.webp",
     description: {
       de: "Die Schiffswerft von São Tomé ist die zentrale Einrichtung für die Wartung und Reparatur der nationalen Flotte. Gelegen in der Nähe des Haupthafens, werden hier sowohl Fischerboote als auch kleinere Transportschiffe instand gehalten. Die Werft kombiniert traditionelles handwerkliches Können im Holzbootsbau mit modernen Reparaturtechniken für Metallschiffe und sichert damit die maritime Einsatzbereitschaft und Sicherheit auf den Gewässern des Archipels.",
       hu: "A São Tomé-i hajógyár a nemzeti flotta karbantartásának és javításának központi létesítménye. A fő kikötő közelében található helyszínen halászhajókat és kisebb szállítóhajókat egyaránt szervizelnek. A hajógyár ötvözi a hagyományos fahajó-építési mesterséget a fémhajók modern javítási technikáival, biztosítva a tengeri üzemképességet és a biztonságot a szigetcsoport vizein.",
@@ -1368,7 +1356,6 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
       hu: "Nevesi építőanyag-gyár",
       ro: "Fabrica de materiale de construcție Neves",
       en: "Neves Construction Materials Plant"},
-    image: "/poi-images/baustoffwerk-neves-economic-v2.webp",
     description: {
       de: "Das Baustoffwerk in Neves ist auf die Herstellung von Zementblöcken, Fertigteilen und anderen wichtigen Baumaterialien spezialisiert. Inmitten der Industriezone des Westens gelegen, versorgt es Baustellen im ganzen Land mit den notwendigen Elementen für den modernen Städtebau. Die Fabrik nutzt lokale Zuschlagstoffe und moderne Pressverfahren, um stabile und langlebige Produkte zu fertigen, die das Gesicht der wachsenden Städte auf dem Archipel prägen.",
       hu: "A nevesi építőanyag-gyár cementblokkok, előre gyártott elemek és más fontos építőanyagok gyártására specializálódott. A nyugati ipari zóna közepén elhelyezkedő üzem az egész ország építkezéseit ellátja a modern városhasználathoz szükséges elemekkel. A gyár helyi adalékanyagokat és modern préselési eljárásokat használ stabil és tartós termékek előállításához, amelyek meghatározzák a szigetcsoport növekvő városainak arculatát.",
@@ -1432,7 +1419,6 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
       hu: "São Tomé-i hőerőmű",
       ro: "Centrala termoelectrică din São Tomé",
       en: "São Tomé Thermal Power Plant"},
-    image: "/poi-images/waermekraftwerk-sao-tome-economic-v2.webp",
     description: {
       de: "Das Wärmekraftwerk von São Tomé ist die primäre Energiequelle für die Hauptstadt und die umliegenden Gebiete. Die Anlage arbeitet mit Dieselgeneratoren und sichert die Grundlast der Stromversorgung, wenn die Wasserkraft während der Trockenzeit nicht ausreicht. Es ist eine kritische Infrastruktur für das Funktionieren des täglichen Lebens, der Krankenhäuser und der Verwaltung im bevölkerungsreichsten Distrikt des Landes und wird ständig gewartet, um Ausfälle zu minimieren.",
       hu: "A São Tomé-i hőerőmű a főváros és a környező területek elsődleges energiaforrása. A létesítmény dízelgenerátorokkal működik, és biztosítja az áramellátás alapterhelését, amikor a száraz évszakban a vízerőművek teljesítménye nem elegendő. Ez a kritikus infrastruktúra elengedhetetlen a mindennapi élet, a kórházak és a közigazgatás működéséhez az ország legnépesebb körzetében, és folyamatos karbantartás alatt áll a kimaradások minimalizálása érdekében.",
@@ -1496,7 +1482,6 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
       hu: "Nevesi halfeldolgozó központ",
       ro: "Centrul de procesare a peștelui Neves",
       en: "Neves Fish Processing Center"},
-    image: "/poi-images/fischverarbeitungszentrum-neves-economic-v2.webp",
     description: {
       de: "Das Fischverarbeitungszentrum in Neves ist auf die Veredelung und Konservierung der Fangerträge der Westküste spezialisiert. Hier wird der Fisch tiefgefroren, gesalzen oder getrocknet, um ihn für den Transport in entlegenere Regionen oder den Export vorzubereiten. Das Zentrum nutzt moderne Kühlhäuser und Verarbeitungsstraßen, um die hohe Qualität der santomeischen Meeresfrüchte zu erhalten, und bietet den lokalen Fischern einen stabilen Abnehmer für ihre Produkte.",
       hu: "A nevesi halfeldolgozó központ a nyugati part halászati zsákmányának nemesítésére és tartósítására specializálódott. Itt a halat lefagyasztják, sózzák vagy szárítják, hogy felkészítsék a távolabbi régiókba való szállításra vagy exportra. A központ modern hűtőházakat és feldolgozósorokat használ a São Tomé-i tengeri gyümölcsök kiváló minőségének megőrzése érdekében, és stabil felvásárlót biztosít a helyi halászok termékei számára.",
@@ -1560,7 +1545,6 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
       hu: "Ilhéu das Rolas móló",
       ro: "Debarcaderul din Ilhéu das Rolas",
       en: "Ilhéu das Rolas Jetty"},
-    image: "/poi-images/anlegestelle-rolas-economic-v2.webp",
     description: {
       de: "Die Anlegestelle auf der kleinen Insel Ilhéu das Rolas ist die einzige Verbindung für den Austausch von Waren und Personen mit der Hauptinsel São Tomé. Als nördlicher Gegenpart zur Anlegestelle von Porto Alegre ist sie der logistische Knotenpunkt für die Bewohner und das Resort auf der Äquatorinsel. Hier werden alle notwendigen Güter für das tägliche Leben an Land gebracht, während sie gleichzeitig der Startpunkt für Bootsausflüge rund um den südlichsten Außenposten des Landes ist.",
       hu: "Az Ilhéu das Rolas kis szigetének mólója az egyetlen kapcsolat az áruk és személyek cseréjéhez a főszigettel, São Toméval. A Porto Alegre-i móló északi ellenpárjaként ez az Egyenlítő-sziget lakóinak és üdülőhelyének logisztikai csomópontja. Itt teszik partra a mindennapi élethez szükséges összes árut, ugyanakkor ez a kiindulópontja az ország legdélibbi előőrse körüli hajókirándulásoknak is.",

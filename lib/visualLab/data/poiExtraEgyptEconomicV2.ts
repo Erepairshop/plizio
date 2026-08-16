@@ -125,7 +125,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-ALX",
     coords: [29.8719, 31.1927],
     name: { de: "Hafen von Alexandria", hu: "Alexandria Kikötője", ro: "Portul Alexandria", en: "Port of Alexandria"},
-    image: "/poi-images/alexandria-port-economic-v2.webp",
     description: { de: "Der wichtigste Seehafen Ägyptens am Mittelmeer.", hu: "Egyiptom legfontosabb tengeri kikötője a Földközi-tengeren.", ro: "Cel mai important port maritim al Egiptului la Marea Mediterană.", en: "Egypt's main seaport on the Mediterranean Sea." , es: "El puerto marítimo más importante de Egipto en el Mediterráneo.", pt: "O porto marítimo mais importante do Egito no Mediterrâneo.", fr: "Le principal port maritime d'Égypte sur la Méditerranée."},
     facts: {
       de: ["Größter Hafen Ägyptens", "Wichtiger Handelsknotenpunkt"],
@@ -313,7 +312,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-SUZ",
     coords: [32.5598, 29.9668],
     name: { de: "Hafen von Suez", hu: "Szuezi Kikötő", ro: "Portul Suez", en: "Port of Suez"},
-    image: "/poi-images/suez-port-economic-v2.webp",
     description: { de: "Ein bedeutender Hafen am südlichen Eingang des Suezkanals.", hu: "Jelentős kikötő a Szuezi-csatorna déli bejáratánál.", ro: "Un port important la intrarea sudică a Canalului Suez.", en: "A major port at the southern entrance of the Suez Canal." , es: "Un puerto importante en la entrada sur del Canal de Suez.", pt: "Um importante porto na entrada sul do Canal de Suez.", fr: "Un port majeur situé à l'entrée sud du canal de Suez."},
     facts: {
       de: ["Liegt am Roten Meer", "Wichtig für den Öltransport"],
@@ -681,7 +679,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-PTS",
     coords: [32.3019, 31.2653],
     name: { de: "Hafen von Port Said", hu: "Port Szaíd-i Kikötő", ro: "Portul Port Said", en: "Port of Port Said"},
-    image: "/poi-images/port-said-economic-v2.webp",
     description: { de: "Ein Hafen am nördlichen Ende des Suezkanals.", hu: "Kikötő a Szuezi-csatorna északi végén.", ro: "Un port la capătul nordic al Canalului Suez.", en: "A port at the northern end of the Suez Canal." , es: "Un puerto en el extremo norte del Canal de Suez.", pt: "Um porto no extremo norte do Canal de Suez.", fr: "Un port à l'extrémité nord du canal de Suez."},
     facts: {
       de: ["Gegründet 1859", "Wichtiger Transitpunkt"],
@@ -977,7 +974,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-DT",
     coords: [31.7606, 31.4514],
     name: { de: "Hafen von Damietta", hu: "Damietta Kikötője", ro: "Portul Damietta", en: "Port of Damietta"},
-    image: "/poi-images/damietta-port-economic-v2.webp",
     description: { de: "Einer der ältesten Häfen Ägyptens am Nildelta.", hu: "Egyiptom egyik legrégebbi kikötője a Nílus-deltánál.", ro: "Unul dintre cele mai vechi porturi din Egipt, în Delta Nilului.", en: "One of the oldest ports in Egypt located on the Nile Delta." , es: "Uno de los puertos más antiguos de Egipto, situado en el delta del Nilo.", pt: "Um dos portos mais antigos do Egito, localizado no Delta do Nilo.", fr: "L'un des plus anciens ports d'Égypte, situé dans le delta du Nil."},
     facts: {
       de: ["Großes Containerterminal", "Exportiert Agrarprodukte"],
@@ -1093,7 +1089,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-BA",
     coords: [33.9389, 26.7469],
     name: { de: "Hafen von Safaga", hu: "Szafaga Kikötő", ro: "Portul Safaga", en: "Safaga Port"},
-    image: "/poi-images/safaga-port-economic-v2.webp",
     description: { de: "Ein wichtiger Hafen am Roten Meer, bekannt für den Phosphat-Export.", hu: "Fontos kikötő a Vörös-tengeren, a foszfátexportról ismert.", ro: "Un port important la Marea Roșie, cunoscut pentru exportul de fosfați.", en: "A major port on the Red Sea known for phosphate exports." , es: "Un puerto importante en el Mar Rojo, conocido por la exportación de fosfatos.", pt: "Um porto importante no Mar Vermelho, conhecido pela exportação de fosfatos.", fr: "Un port important sur la mer Rouge, réputé pour l'exportation de phosphate."},
     facts: {
       de: ["Phosphat-Exporteur", "Fährhafen nach Saudi-Arabien"],
@@ -1173,7 +1168,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-SUZ",
     coords: [32.3387, 29.6265],
     name: { de: "Hafen Ain Sokhna", hu: "Ain Sokhna Kikötő", ro: "Portul Ain Sokhna", en: "Ain Sokhna Port"},
-    image: "/poi-images/sokhna-port-economic-v2.webp",
     description: { de: "Ein moderner Tiefseehafen nahe dem Suezkanal.", hu: "Modern mélytengeri kikötő a Szuezi-csatorna közelében.", ro: "Un port modern de mare adâncime lângă Canalul Suez.", en: "A modern deep-sea port near the Suez Canal." , es: "Un moderno puerto de aguas profundas cerca del Canal de Suez.", pt: "Um moderno porto de águas profundas perto do Canal de Suez.", fr: "Un port moderne en eau profonde près du canal de Suez."},
     facts: {
       de: ["Wichtig für Asien-Europa-Handel", "Schnell wachsender Hafen"],
@@ -1397,7 +1391,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-C",
     coords: [31.3323, 29.8394],
     name: { de: "Helwan Stahlwerk", hu: "Helwan Acélmű", ro: "Uzina de Oțel Helwan", en: "Helwan Iron and Steel Works"},
-    image: "/poi-images/helwan-iron-steel-economic-v2.webp",
     description: { de: "Eines der größten Stahlwerke Ägyptens in Kairo.", hu: "Egyiptom egyik legnagyobb acélműve Kairóban.", ro: "Una dintre cele mai mari uzine siderurgice din Egipt, în Cairo.", en: "One of the largest steelworks in Egypt, located in Cairo." , es: "Una de las plantas siderúrgicas más grandes de Egipto, situada en El Cairo.", pt: "Uma das maiores siderurgias do Egito, localizada no Cairo.", fr: "L'une des plus grandes usines sidérurgiques d'Égypte au Caire."},
     facts: {
       de: ["Historisch bedeutend", "Produzierte für den Inlandsmarkt"],
@@ -1432,7 +1425,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-PTS",
     coords: [32.1158, 31.8491],
     name: { de: "Zohr-Erdgasfeld", hu: "Zohr Gázmező", ro: "Câmpul Gazeifer Zohr", en: "Zohr Gas Field"},
-    image: "/poi-images/zohr-gas-field-economic-v2.webp",
     description: { de: "Das größte Erdgasfeld im Mittelmeer vor der Küste Ägyptens.", hu: "A Földközi-tenger legnagyobb gázmezője Egyiptom partjainál.", ro: "Cel mai mare câmp de gaze naturale din Marea Mediterană, în largul coastei Egiptului.", en: "The largest natural gas field in the Mediterranean Sea, off the coast of Egypt." , es: "El mayor campo de gas natural en el Mediterráneo frente a la costa de Egipto.", pt: "O maior campo de gás natural no Mediterrâneo ao largo da costa do Egito.", fr: "Le plus grand champ de gaz naturel de la Méditerranée au large des côtes égyptiennes."},
     facts: {
       de: ["Entdeckt 2015", "Enorme Reserven"],
@@ -1467,7 +1459,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-BA",
     coords: [34.7291, 24.9546],
     name: { de: "Sukari-Goldmine", hu: "Sukari Aranybánya", ro: "Mina de Aur Sukari", en: "Sukari Gold Mine"},
-    image: "/poi-images/sukari-gold-mine-economic-v2.webp",
     description: { de: "Eine große Goldmine in der östlichen Wüste nahe dem Roten Meer.", hu: "Egy nagy aranybánya a keleti sivatagban a Vörös-tenger közelében.", ro: "O mare mină de aur în deșertul estic, lângă Marea Roșie.", en: "A large gold mine in the Eastern Desert near the Red Sea." , es: "Una gran mina de oro en el desierto oriental cerca del Mar Rojo.", pt: "Uma grande mina de ouro no deserto oriental, perto do Mar Vermelho.", fr: "Une vaste mine d'or située dans le désert oriental près de la mer Rouge."},
     facts: {
       de: ["Produziert seit 2009", "Erste moderne Goldmine in Ägypten"],
@@ -1583,7 +1574,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-ALX",
     coords: [29.8926, 31.1578],
     name: { de: "Erdölraffinerie Alexandria", hu: "Alexandriai Kőolajfinomító", ro: "Rafinăria de Petrol Alexandria", en: "Alexandria Petroleum Refinery"},
-    image: "/poi-images/alexandria-petroleum-economic-v2.webp",
     description: { de: "Eine der größten Erdölraffinerien in Ägypten.", hu: "Egyiptom egyik legnagyobb kőolajfinomítója.", ro: "Una dintre cele mai mari rafinării de petrol din Egipt.", en: "One of the largest petroleum refineries in Egypt." , es: "Una de las mayores refinerías de petróleo de Egipto.", pt: "Uma das maiores refinarias de petróleo do Egito.", fr: "L'une des plus grandes raffineries de pétrole d'Égypte."},
     facts: {
       de: ["Wichtig für die Treibstoffversorgung", "Nahe dem Hafen"],
@@ -1735,7 +1725,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-ALX",
     coords: [30.0638, 31.3167],
     name: { de: "Abu Qir Düngemittelwerk", hu: "Abu Qir Műtrágyagyár", ro: "Fabrica de Îngrășăminte Abu Qir", en: "Abu Qir Fertilizers Company"},
-    image: "/poi-images/abu-qir-fertilizer-economic-v2.webp",
     description: { de: "Ein führender Hersteller von Stickstoffdüngern in Ägypten.", hu: "Vezető nitrogénműtrágya-gyártó Egyiptomban.", ro: "Un producător de top de îngrășăminte cu azot din Egipt.", en: "A leading producer of nitrogen fertilizers in Egypt." , es: "Un fabricante líder de fertilizantes nitrogenados en Egipto.", pt: "Um produtor líder de fertilizantes azotados no Egito.", fr: "Un producteur de premier plan d'engrais azotés en Égypte."},
     facts: {
       de: ["Exportiert weltweit", "Wichtig für die Landwirtschaft"],
@@ -1851,7 +1840,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-ALX",
     coords: [29.575, 30.8753],
     name: { de: "Industriegebiet Borg El Arab", hu: "Borg El Arab Ipari Zóna", ro: "Zona Industrială Borg El Arab", en: "Borg El Arab Industrial Zone"},
-    image: "/poi-images/borg-el-arab-industrial-economic-v2.webp",
     description: { de: "Eine bedeutende Industriezone südwestlich von Alexandria.", hu: "Jelentős ipari övezet Alexandriától délnyugatra.", ro: "O zonă industrială majoră la sud-vest de Alexandria.", en: "A major industrial zone southwest of Alexandria." , es: "Una zona industrial importante al suroeste de Alejandría.", pt: "Uma zona industrial importante a sudoeste de Alexandria.", fr: "Une zone industrielle majeure située au sud-ouest d'Alexandrie."},
     facts: {
       de: ["Zentrum für Textilindustrie", "Viele internationale Firmen"],
@@ -1886,7 +1874,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-GH",
     coords: [31.1643, 30.9702],
     name: { de: "Misr Spinnerei und Weberei", hu: "Misr Fonó és Szövő", ro: "Filatura și Țesătoria Misr", en: "Misr Spinning and Weaving"},
-    image: "/poi-images/mahalla-textile-economic-v2.webp",
     description: { de: "Die größte Textilfabrik im Nahen Osten, in El Mahalla El Kubra.", hu: "A Közel-Kelet legnagyobb textilgyára, El Mahalla El Kubrában.", ro: "Cea mai mare fabrică de textile din Orientul Mijlociu, în El Mahalla El Kubra.", en: "The largest textile factory in the Middle East, located in El Mahalla El Kubra." , es: "La fábrica textil más grande de Oriente Medio, en El Mahalla El Kubra.", pt: "A maior fábrica têxtil do Médio Oriente, em El Mahalla El Kubra.", fr: "La plus grande usine textile du Moyen-Orient, à El Mahalla El Kubra."},
     facts: {
       de: ["Beschäftigt zehntausende Arbeiter", "Gegründet 1927"],
@@ -1921,7 +1908,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-ASN",
     coords: [32.8872, 23.9702],
     name: { de: "Wasserkraftwerk Assuan-Staudamm", hu: "Asszuáni-gát Vízerőmű", ro: "Hidrocentrala Barajul Aswan", en: "Aswan Dam Hydroelectric Plant"},
-    image: "/poi-images/aswan-dam-hydroelectric-economic-v2.webp",
     description: { de: "Ein massives Wasserkraftwerk am Assuan-Staudamm, das den Großteil des ägyptischen Stroms erzeugt.", hu: "Hatalmas vízerőmű az Asszuáni-gáton, amely Egyiptom áramának nagy részét termeli.", ro: "O hidrocentrală masivă la Barajul Aswan, care generează o mare parte din energia electrică a Egiptului.", en: "A massive hydroelectric plant at the Aswan Dam generating a large portion of Egypt's electricity." , es: "Una central hidroeléctrica masiva en la presa de Asuán que genera gran parte de la electricidad de Egipto.", pt: "Uma central hidroelétrica massiva na barragem de Assuão, que gera a maior parte da eletricidade do Egito.", fr: "Une centrale hydroélectrique massive située au haut barrage d'Assouan, produisant la majeure partie de l'électricité égyptienne."},
     facts: {
       de: ["Kapazität von 2100 MW", "In den 1970ern fertiggestellt"],
@@ -1956,7 +1942,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-ASN",
     coords: [32.7314, 24.4533],
     name: { de: "Benban Solarpark", hu: "Benban Napelempark", ro: "Parcul Solar Benban", en: "Benban Solar Park"},
-    image: "/poi-images/benban-solar-park-economic-v2.webp",
     description: { de: "Einer der größten Solarparks der Welt nahe Assuan.", hu: "A világ egyik legnagyobb napelemparkja Asszuán közelében.", ro: "Unul dintre cele mai mari parcuri solare din lume, lângă Aswan.", en: "One of the largest solar parks in the world, located near Aswan." , es: "Uno de los parques solares más grandes del mundo cerca de Asuán.", pt: "Um dos maiores parques solares do mundo perto de Assuão.", fr: "L'un des plus grands parcs solaires au monde, situé près d'Assouan."},
     facts: {
       de: ["Beinhaltet über 30 Solarkraftwerke", "Teil der erneuerbaren Energiewende"],
@@ -1991,7 +1976,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-BA",
     coords: [33.5658, 27.9158],
     name: { de: "Gabal el-Zait Windpark", hu: "Gabal el-Zait Szélerőmű", ro: "Parcul Eolian Gabal el-Zait", en: "Gabal el-Zait Wind Farm"},
-    image: "/poi-images/zait-wind-farm-economic-v2.webp",
     description: { de: "Einer der größten Windparks im Nahen Osten, gelegen am Golf von Suez.", hu: "A Közel-Kelet egyik legnagyobb szélerőműparkja, a Szuezi-öböl partján.", ro: "Unul dintre cele mai mari parcuri eoliene din Orientul Mijlociu, situat în Golful Suez.", en: "One of the largest wind farms in the Middle East, located on the Gulf of Suez." , es: "Uno de los parques eólicos más grandes de Oriente Medio, situado en el Golfo de Suez.", pt: "Um dos maiores parques eólicos do Médio Oriente, localizado no Golfo de Suez.", fr: "L'un des plus grands parcs éoliens du Moyen-Orient, situé sur le golfe de Suez."},
     facts: {
       de: ["Nutzt starke Küstenwinde", "Hunderte Windturbinen"],
@@ -2026,7 +2010,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-BH",
     coords: [30.2989, 31.3197],
     name: { de: "Idku LNG-Terminal", hu: "Idku LNG Terminál", ro: "Terminalul LNG Idku", en: "Idku LNG Terminal"},
-    image: "/poi-images/idku-lng-terminal-economic-v2.webp",
     description: { de: "Eine Anlage zur Verflüssigung von Erdgas an der Mittelmeerküste.", hu: "Földgáz cseppfolyósítására szolgáló létesítmény a Földközi-tenger partján.", ro: "O instalație pentru lichefierea gazelor naturale pe coasta mediteraneană.", en: "A facility for the liquefaction of natural gas on the Mediterranean coast." , es: "Una instalación para la licuefacción de gas natural en la costa mediterránea.", pt: "Uma instalação para a liquefação de gás natural na costa mediterrânica.", fr: "Une installation de liquéfaction de gaz naturel sur la côte méditerranéenne."},
     facts: {
       de: ["Wichtig für den Export", "Verarbeitet Gas aus dem Nildelta"],
@@ -2214,7 +2197,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-ALX",
     coords: [29.8058, 31.1397],
     name: { de: "Hafen von El-Dakheila", hu: "El-Dakheila Kikötő", ro: "Portul El-Dakheila", en: "El-Dakheila Port"},
-    image: "/poi-images/el-dakheila-port-economic-v2.webp",
     description: { de: "Eine natürliche Erweiterung des Hafens von Alexandria mit tiefem Wasser.", hu: "Az alexandriai kikötő természetes kiterjesztése, mély vízzel.", ro: "O extensie naturală a portului Alexandria cu apă adâncă.", en: "A natural extension of the Port of Alexandria with deep water." , es: "Una extensión natural del puerto de Alejandría con aguas profundas.", pt: "Uma extensão natural do porto de Alexandria com águas profundas.", fr: "Une extension naturelle du port d'Alexandrie avec des eaux profondes."},
     facts: {
       de: ["Spezialisiert auf Schüttgut", "Nahe dem Stahlwerk"],
@@ -2249,7 +2231,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-SHR",
     coords: [31.745, 30.3017],
     name: { de: "Industriegebiet 10. Ramadan", hu: "Ramadán 10. Ipari Zóna", ro: "Zona Industrială 10 Ramadan", en: "10th of Ramadan Industrial City"},
-    image: "/poi-images/10th-of-ramadan-industrial-economic-v2.webp",
     description: { de: "Eine der größten und ältesten neuen Industriestädte in Ägypten.", hu: "Egyiptom egyik legnagyobb és legrégebbi új iparvárosa.", ro: "Unul dintre cele mai mari și mai vechi noi orașe industriale din Egipt.", en: "One of the largest and oldest new industrial cities in Egypt." , es: "Una de las ciudades industriales nuevas más grandes y antiguas de Egipto.", pt: "Uma das maiores e mais antigas novas cidades industriais do Egipto.", fr: "L'une des plus grandes et des plus anciennes nouvelles villes industrielles d'Égypte."},
     facts: {
       de: ["Viele Fabriken ansässig", "Wichtiger Wirtschaftsstandort"],
@@ -2509,7 +2490,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-GZ",
     coords: [30.936, 29.932],
     name: { de: "Industriegebiet 6. Oktober", hu: "Október 6. Ipari Zóna", ro: "Zona Industrială 6 Octombrie", en: "6th of October Industrial City"},
-    image: "/poi-images/6th-of-october-industrial-economic-v2.webp",
     description: { de: "Ein wichtiger Industriestandort westlich von Kairo mit Lebensmittel- und Autoindustrie.", hu: "Fontos ipari központ Kairótól nyugatra, élelmiszer- és autóiparral.", ro: "O importantă zonă industrială la vest de Cairo, cu industrie alimentară și auto.", en: "A major industrial hub west of Cairo, featuring food and automotive industries." , es: "Un importante emplazamiento industrial al oeste de El Cairo con industria alimentaria y automotriz.", pt: "Um importante local industrial a oeste do Cairo com indústrias alimentares e automóveis.", fr: "Un site industriel majeur situé à l'ouest du Caire, regroupant des industries agroalimentaires et automobiles."},
     facts: {
       de: ["BMW-Montagewerk", "Lebensmittelverarbeitung"],
@@ -2544,7 +2524,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-JS",
     coords: [34.6653, 28.9819],
     name: { de: "Hafen von Nuweiba", hu: "Nuweiba Kikötő", ro: "Portul Nuweiba", en: "Port of Nuweiba"},
-    image: "/poi-images/nuweiba-port-economic-v2.webp",
     description: { de: "Ein wichtiger Fährhafen im Golf von Akaba zur Verbindung mit Jordanien.", hu: "Fontos kompkikötő az Akabai-öbölben a Jordániával való kapcsolathoz.", ro: "Un port de feribot important în Golful Aqaba pentru conectarea cu Iordania.", en: "An important ferry port in the Gulf of Aqaba for connection to Jordan." , es: "Un importante puerto de ferris en el Golfo de Áqaba para la conexión con Jordania.", pt: "Um importante porto de ferries no Golfo de Áqaba para a ligação com a Jordânia.", fr: "Un port de ferries important dans le golfe d'Aqaba pour la liaison avec la Jordanie."},
     facts: {
       de: ["Verbindet Ägypten und Akaba", "Wichtig für Pilger"],
@@ -3200,7 +3179,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-BA",
     coords: [33.8239, 27.2341],
     name: { de: "Hafen von Hurghada", hu: "Hurghada Kikötő", ro: "Portul Hurghada", en: "Port of Hurghada"},
-    image: "/poi-images/hurghada-port-economic-v2.webp",
     description: { de: "Neben dem Tourismus auch ein Hafen für Passagier- und Frachtverkehr am Roten Meer.", hu: "A turizmus mellett a Vörös-tenger utas- és teherforgalmának egyik kikötője is.", ro: "Pe lângă turism, un port pentru trafic de pasageri și mărfuri la Marea Roșie.", en: "Alongside tourism, also a port for passenger and freight traffic on the Red Sea." , es: "Además del turismo, un puerto para el tráfico de pasajeros y mercancías en el Mar Rojo.", pt: "Para além do turismo, um porto de passageiros e de carga no Mar Vermelho.", fr: "En plus du tourisme, un port pour le trafic de passagers et de marchandises sur la mer Rouge."},
     facts: {
       de: ["Zentrum des Tourismus", "Fährverbindungen nach Sharm El-Sheikh"],
@@ -3316,7 +3294,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-SIN",
     coords: [33.8119, 31.1394],
     name: { de: "Hafen von Al-Arisch", hu: "Al-Arish Kikötő", ro: "Portul Al-Arish", en: "Port of Arish"},
-    image: "/poi-images/arish-port-economic-v2.webp",
     description: { de: "Ein Hafen an der Mittelmeerküste der Sinai-Halbinsel.", hu: "Kikötő a Sínai-félsziget Földközi-tengeri partján.", ro: "Un port pe coasta mediteraneană a Peninsulei Sinai.", en: "A port on the Mediterranean coast of the Sinai Peninsula." , es: "Un puerto en la costa mediterránea de la península del Sinaí.", pt: "Um porto na costa mediterrânica da península do Sinai.", fr: "Un port situé sur la côte méditerranéenne de la péninsule du Sinaï."},
     facts: {
       de: ["Fischereihafen", "Wird derzeit ausgebaut"],
@@ -3351,7 +3328,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-SUZ",
     coords: [32.3789, 29.8731],
     name: { de: "Ezz Steel Suez", hu: "Ezz Acélmű Szuez", ro: "Ezz Steel Suez", en: "Ezz Steel Suez"},
-    image: "/poi-images/ezz-steel-suez-economic-v2.webp",
     description: { de: "Ein großes Stahlwerk eines der führenden Stahlproduzenten in der Region.", hu: "Egy nagy acélmű a régió egyik vezető acélgyártójától.", ro: "O mare uzină de oțel a unuia dintre cei mai importanți producători de oțel din regiune.", en: "A large steel plant of one of the leading steel producers in the region." , es: "Una gran planta siderúrgica de uno de los principales productores de acero de la región.", pt: "Uma grande siderurgia de um dos principais produtores de aço da região.", fr: "Une grande usine sidérurgique de l'un des principaux producteurs d'acier de la région."},
     facts: {
       de: ["Produziert Flachstahl", "Großer Exporteur"],
@@ -3386,7 +3362,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-ALX",
     coords: [29.9322, 31.0267],
     name: { de: "Al-Amiriya Erdölraffinerie", hu: "Al-Amiriya Kőolajfinomító", ro: "Rafinăria de Petrol Al-Amiriya", en: "Al-Amiriya Petroleum Refinery"},
-    image: "/poi-images/al-ameerya-petroleum-economic-v2.webp",
     description: { de: "Eine weitere bedeutende Raffinerie in der Region Alexandria.", hu: "Egy másik jelentős finomító Alexandria régiójában.", ro: "O altă rafinărie majoră în regiunea Alexandria.", en: "Another major refinery in the Alexandria region." , es: "Otra refinería importante en la región de Alejandría.", pt: "Outra refinaria importante na região de Alexandria.", fr: "Une autre raffinerie importante dans la région d'Alexandrie."},
     facts: {
       de: ["Hohe Verarbeitungskapazität", "Wichtig für petrochemische Industrie"],
@@ -3466,7 +3441,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-SUZ",
     coords: [32.5317, 29.9619],
     name: { de: "Suez Erdölraffinerie", hu: "Szuezi Kőolajfinomító", ro: "Rafinăria de Petrol Suez", en: "Suez Oil Processing Company"},
-    image: "/poi-images/suez-oil-processing-economic-v2.webp",
     description: { de: "Eines der ältesten und größten Erdölverarbeitungsunternehmen Ägyptens.", hu: "Egyiptom egyik legrégebbi és legnagyobb kőolaj-feldolgozó vállalata.", ro: "Una dintre cele mai vechi și mai mari companii de procesare a petrolului din Egipt.", en: "One of the oldest and largest oil processing companies in Egypt." , es: "Una de las empresas de procesamiento de petróleo más antiguas y grandes de Egipto.", pt: "Uma das empresas de processamento de petróleo mais antigas e maiores do Egito.", fr: "L'une des plus anciennes et des plus grandes entreprises de raffinage de pétrole en Égypte."},
     facts: {
       de: ["Liegt am Kanal", "Verarbeitet heimisches und importiertes Öl"],
@@ -3501,7 +3475,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-MNF",
     coords: [30.5056, 30.3803],
     name: { de: "Sadat-Stadt Industriezone", hu: "Sadat City Ipari Zóna", ro: "Zona Industrială Orașul Sadat", en: "Sadat City Industrial Zone"},
-    image: "/poi-images/sadat-city-industrial-economic-v2.webp",
     description: { de: "Eine wichtige Industriezone, fokussiert auf Schwer- und Leichtindustrie.", hu: "Fontos ipari zóna, amely a nehéz- és könnyűiparra összpontosít.", ro: "O zonă industrială importantă, axată pe industria grea și ușoară.", en: "An important industrial zone focused on heavy and light industry." , es: "Una importante zona industrial centrada en la industria pesada y ligera.", pt: "Uma importante zona industrial focada na indústria pesada e ligeira.", fr: "Une zone industrielle majeure axée sur l'industrie lourde et légère."},
     facts: {
       de: ["Viele Zement- und Keramikwerke", "Zwischen Kairo und Alexandria"],
@@ -4589,7 +4562,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-JS",
     coords: [34.2869, 27.8606],
     name: { de: "Hafen von Sharm El-Sheikh", hu: "Sharm El-Sheikh Kikötő", ro: "Portul Sharm El-Sheikh", en: "Port of Sharm El-Sheikh"},
-    image: "/poi-images/sharm-el-sheikh-port-economic-v2.webp",
     description: { de: "Ein Hafen, der hauptsächlich Yachten und Kreuzfahrtschiffe bedient.", hu: "Kikötő, amely főként jachtokat és tengerjáró hajókat szolgál ki.", ro: "Un port care deservește în principal iahturi și nave de croazieră.", en: "A port mainly serving yachts and cruise ships." , es: "Un puerto que atiende principalmente a yates y barcos de crucero.", pt: "Um porto que atende principalmente iates e navios de cruzeiro.", fr: "Un port qui dessert principalement les yachts et les navires de croisière."},
     facts: {
       de: ["Internationales Touristenziel", "Im Süden der Sinai-Halbinsel"],
@@ -4624,7 +4596,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
     parent: "EG-SIN",
     coords: [33.3667, 30.7],
     name: { de: "Maghara-Kohlemine", hu: "Maghara Szénbánya", ro: "Mina de Cărbune Maghara", en: "Maghara Coal Mine"},
-    image: "/poi-images/maghara-coal-mine-economic-v2.webp",
     description: { de: "Ein bedeutendes Kohlebergwerk auf der Sinai-Halbinsel.", hu: "Jelentős szénbánya a Sínai-félszigeten.", ro: "O mină importantă de cărbune în Peninsula Sinai.", en: "A significant coal mine on the Sinai Peninsula." , es: "Una importante mina de carbón en la península del Sinaí.", pt: "Uma importante mina de carvão na Península do Sinai.", fr: "Une mine de charbon importante sur la péninsule du Sinaï."},
     facts: {
       de: ["Wurde reaktiviert", "Liefert Kohle für die Industrie"],

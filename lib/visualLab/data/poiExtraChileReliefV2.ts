@@ -12,7 +12,6 @@ export const poiExtraChileReliefV2: POI[] = [
       hu: "Andok",
       ro: "Anzii",
       en: "Andes"},
-    image: "/poi-images/cordillera-de-los-andes-relief-v2.webp",
     descriptionAdvanced: {
       de: "Die Anden sind die längste Gebirgskette der Welt über dem Meeresspiegel und erstrecken sich über 7.000 Kilometer entlang der Westküste Südamerikas. Sie durchlaufen sieben Länder: Venezuela, Kolumbien, Ecuador, Peru, Bolivien, Chile und Argentinien. Diese gewaltige Barriere wurde durch die Subduktion der Nazca-Platte unter die Südamerikanische Platte geformt und erreicht ihre größte Breite mit etwa 700 Kilometern in den Zentralanden. Der höchste Gipfel ist der Aconcagua mit 6.961 Metern, der sich in Argentinien befindet. Die Anden sind ökologisch äußerst vielfältig und beherbergen Hochplateaus wie den Altiplano, aktive Vulkane und den Ursprung des Amazonas. Historisch gesehen waren sie das Herzstück des Inka-Reiches und spielen bis heute eine zentrale Rolle für das Klima des Kontinents, indem sie die Luftzirkulation beeinflussen. Die Gebirgskette ist zudem reich an Bodenschätzen wie Kupfer, Gold und Silber, was sie wirtschaftlich unverzichtbar macht.",
       hu: "Az Andok a Föld leghosszabb szárazföldi hegylánca, amely mintegy 7000 kilométer hosszan húzódik Dél-Amerika nyugati partjai mentén. Hét ország területét érinti: Venezuelát, Kolumbiát, Ecuadort, Perut, Bolíviát, Chilét és Argentínát. A hegységrendszer a Nazca-lemez és a Dél-amerikai-lemez ütközése, illetve az előbbi alábukása (szubdukciója) következtében alakult ki. Legmagasabb csúcsa az argentínai Aconcagua, amely 6961 méterével a nyugati félteke legmagasabb pontja. Az Andok változatos tájainak része a hatalmas kiterjedésű Altiplano-fennsík, számos aktív vulkán, valamint az Amazonas folyó forrásvidéke. Történelmileg az Inka Birodalom központjaként szolgált, napjainkban pedig meghatározó szerepet játszik a kontinens éghajlatának alakításában és a vízszabályozásban. Gazdag ásványkincs-lelőhelyei, különösen a réz- és ezüstbányák, alapvető fontosságúak a globális gazdaság számára.",
@@ -58,7 +57,6 @@ export const poiExtraChileReliefV2: POI[] = [
       hu: "Atacama-sivatag",
       ro: "Deșertul Atacama",
       en: "Atacama Desert"},
-    image: "/poi-images/desierto-de-atacama-relief-v2.webp",
     descriptionAdvanced: {
       de: "Die Atacama-Wüste erstreckt sich über mehr als 1.000 Kilometer entlang der Pazifikküste Chiles und gilt als die trockenste nicht-polare Wüste der Erde. Ihre extreme Aridität resultiert aus einer geographischen Doppelbarriere: Im Osten schirmt die Hochkordillere der Anden feuchte Luftmassen aus dem Amazonasbecken ab, während im Westen der kalte Humboldtstrom im Pazifik die Bildung von Regenwolken verhindert. Teile der Wüste haben seit Beginn der Aufzeichnungen keinen messbaren Niederschlag erhalten. Die Landschaft ist geprägt von salzgefüllten Senken, sogenannten Salaren, vulkanischen Gipfeln und bizarren geologischen Formationen wie dem Valle de la Luna. Trotz der lebensfeindlichen Bedingungen beherbergt die Region enorme Bodenschätze, insbesondere die weltweit größten Reserven an Lithium und bedeutende Kupfervorkommen. In den höheren Lagen des Altiplano finden sich Lagunen mit Flamingos und widerstandsfähige Pflanzen wie das Ichu-Gras. Die Atacama ist zudem ein weltweit bedeutender Standort für die Astronomie. Aufgrund der extrem geringen Luftfeuchtigkeit und der Abwesenheit von Lichtverschmutzung bieten Orte wie das Chajnantor-Plateau auf 5.000 Metern Höhe ideale Bedingungen für Radioteleskope wie ALMA. Historisch war die Wüste Siedlungsgebiet präkolumbianischer Kulturen wie der Atacameños, deren Bewässerungstechniken in Oasen wie San Pedro de Atacama bis heute bewundert werden. Ein faszinierendes Phänomen ist das „Desierto Florido“, bei dem nach seltenen Regenfällen die Wüste kurzzeitig in einem Meer aus Blumen erblüht. Die Region dient Wissenschaftlern auch als Modell für die Erforschung des Mars, da Bodenproben und klimatische Bedingungen eine verblüffende Ähnlichkeit mit der Marsoberfläche aufweisen.",
       hu: "Az Atacama-sivatag Dél-Amerika nyugati partvidékén, Chile északi részén terül el, és a Föld legszárazabb lakott vidékeként tartják számon. A sivatag különleges klímáját a domborzati viszonyok határozzák meg: a keleti oldalon az Andok hatalmas láncai gátolják meg a nedves légtömegek beáramlását, míg nyugaton a hideg Humboldt-áramlat akadályozza meg a csapadékképződést a tenger felett. Bizonyos területein évszázadok óta nem mértek esőt, a levegő páratartalma pedig sokszor az 5%-ot sem éri el. A táj rendkívül változatos: vöröses homokdűnék, éles sziklaperemek, hatalmas sólepények (salari) és hófödte tűzhányók váltják egymást. A sivatag egyik legismertebb pontja a Hold-völgy (Valle de la Luna), ahol a só és a szél eróziója holdbéli tájat formált a kőzetekből. Gazdasági szempontból a terület felbecsülhetetlen értékű, hiszen itt található a világ legnagyobb lítiumkészlete, amely a modern akkumulátorgyártás alapanyaga, valamint hatalmas rézbányák üzemelnek a térségben. A sivatag tiszta és száraz levegője miatt a csillagászat fellegvára; itt működik az Európai Déli Obszervatórium és az ALMA rádióteleszkóp-rendszer is. A sivatagi oázisok, mint San Pedro de Atacama, már évezredekkel ezelőtt lakottak voltak, az ősi atacameño kultúra nyomai ma is fellelhetők a romvárosokban és a sziklarajzokon. Bár a sivatag nagyrészt kopár, ritka csapadékos években bekövetkezik a „virágzó sivatag” jelensége, amikor több száz növényfaj bont szirmot egyszerre, lilára és rózsaszínre festve a homokot. A terület különleges körülményei miatt a NASA is gyakran használja teszthelyszínként a Mars-járók számára, mivel a talaj összetétele sokban hasonlít a vörös bolygóéhoz.",
@@ -95,7 +93,6 @@ export const poiExtraChileReliefV2: POI[] = [
       hu: "Központi-völgy",
       ro: "Valea Centrală",
       en: "Central Valley"},
-    image: "/poi-images/valle-central-relief-v2.webp",
     description: {
       de: "Die fruchtbare Senke zwischen den Anden und dem Küstengebirge, das landwirtschaftliche Herz Chiles.",
       hu: "Az Andok és a partmenti hegység közötti termékeny mélyedés, Chile mezőgazdasági szíve.",
@@ -166,7 +163,6 @@ export const poiExtraChileReliefV2: POI[] = [
       hu: "Húsvét-sziget (Rapa Nui)",
       ro: "Insula Paștelui (Rapa Nui)",
       en: "Easter Island (Rapa Nui)"},
-    image: "/poi-images/isla-de-pascua-relief-v2.webp",
     description: {
       de: "Eine abgelegene Vulkaninsel mitten im Pazifik, weltberühmt für ihre monumentalen Steinstatuen, die Moai.",
       hu: "Távoli vulkáni sziget a Csendes-óceán közepén, világhírű monumentális kőszobrairól, a moaikról.",
@@ -213,7 +209,6 @@ export const poiExtraChileReliefV2: POI[] = [
       hu: "Pampa del Tamarugal",
       ro: "Pampa del Tamarugal",
       en: "Pampa del Tamarugal"},
-    image: "/poi-images/pampa-del-tamargal-relief-v2.webp",
     description: {
       de: "Eine Hochlandwüste in Nordchile, bekannt für ihre Tamarugo-Bäume und archäologischen Schätze.",
       hu: "Magasföldi sivatag Észak-Chilében, amely a tamarugo fákról és régészeti kincseiről híres.",

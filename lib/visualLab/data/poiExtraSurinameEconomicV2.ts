@@ -12,7 +12,6 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       hu: "Dr. Jules Sedney Kikötő",
       ro: "Portul Dr. Jules Sedney",
       en: "Dr. Jules Sedney Port"},
-    image: "/poi-images/sr-dr-jules-sedney-haven-economic-v2.webp",
     description: {
       de: "Der wichtigste Frachthafen Surinames, benannt nach einem ehemaligen Premierminister. Er fertigt den Großteil der internationalen Seefracht des Landes ab.",
       hu: "Suriname legfontosabb teherkikötője, amelyet egy korábbi miniszterelnökről neveztek el. Az ország nemzetközi tengeri áruforgalmának nagy részét kezeli.",
@@ -155,7 +154,6 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       hu: "Staatsolie Tout Lui Faut Finomító",
       ro: "Rafinăria Staatsolie Tout Lui Faut",
       en: "Staatsolie Tout Lui Faut Refinery"},
-    image: "/poi-images/sr-tout-lui-faut-raffinerie-economic-v2.webp",
     description: {
       de: "Die einzige Erdölraffinerie in Suriname, betrieben vom staatlichen Ölkonzern Staatsolie. Sie produziert Kraftstoffe für den lokalen Markt und den Export.",
       hu: "Suriname egyetlen kőolajfinomítója, amelyet az állami Staatsolie olajtársaság üzemeltet. Üzemanyagokat állít elő a helyi piacra és exportra.",
@@ -319,7 +317,6 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       hu: "Tambaredjo Olajmező",
       ro: "Câmpul Petrolier Tambaredjo",
       en: "Tambaredjo Oil Field"},
-    image: "/poi-images/sr-tambaredjo-oelfeld-economic-v2.webp",
     description: {
       de: "Eines der ältesten und produktivsten Ölfelder von Staatsolie im Distrikt Saramacca. Das geförderte Rohöl wird direkt zur Raffinerie gepumpt.",
       hu: "A Staatsolie egyik legrégebbi és legtermékenyebb olajmezője a Saramacca kerületben. A kitermelt nyersolajat egyenesen a finomítóba szivattyúzzák.",
@@ -366,7 +363,6 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       hu: "Calcutta Olajmező",
       ro: "Câmpul Petrolier Calcutta",
       en: "Calcutta Oil Field"},
-    image: "/poi-images/sr-calcutta-oelfeld-economic-v2.webp",
     description: {
       de: "Ein wichtiges Onshore-Ölfeld im Distrikt Saramacca, das die landesweite Ölproduktion ergänzt. Es ist nach der nahegelegenen Siedlung benannt.",
       hu: "Fontos szárazföldi olajmező a Saramacca kerületben, amely kiegészíti az országos olajtermelést. A közeli településről kapta a nevét.",
@@ -1019,7 +1015,6 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       hu: "Nieuw Nickerie Kikötője",
       ro: "Portul Nieuw Nickerie",
       en: "Port of Nieuw Nickerie"},
-    image: "/poi-images/sr-hafen-nieuw-nickerie-economic-v2.webp",
     description: {
       de: "Ein regionaler Hafen im Nordwesten Surinames am Nickerie-Fluss. Er ist besonders wichtig für den Export von Reis und landwirtschaftlichen Produkten.",
       hu: "Regionális kikötő Suriname északnyugati részén a Nickerie-folyón. Különösen fontos a rizs és a mezőgazdasági termékek exportja szempontjából.",
@@ -1111,7 +1106,6 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       hu: "Moengo Kikötője",
       ro: "Portul Moengo",
       en: "Port of Moengo"},
-    image: "/poi-images/sr-hafen-moengo-economic-v2.webp",
     description: {
       de: "Ein Binnenhafen am Cottica-Fluss, der ursprünglich für die Verschiffung von Bauxit gebaut wurde. Er war ein Schlüssel für den Bergbauboom des 20. Jahrhunderts.",
       hu: "A Cottica-folyó menti belvízi kikötő, amelyet eredetileg a bauxit szállítására építettek. Kulcsfontosságú volt a 20. századi bányászati fellendülésben.",
@@ -1383,7 +1377,6 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       hu: "Surinaamse Sörfőzde",
       ro: "Berăria Surinaamse",
       en: "Surinaamse Brewery"},
-    image: "/poi-images/sr-surinaamse-brouwerij-economic-v2.webp",
     description: {
       de: "Die größte Brauerei des Landes und Hersteller des berühmten Parbo Biers. Sie ist ein fester Bestandteil der lokalen Getränkeindustrie.",
       hu: "Az ország legnagyobb sörfőzdéje és a híres Parbo sör gyártója. A helyi italipar szerves része.",
@@ -1583,7 +1576,6 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       hu: "Fernandes Palackozó",
       ro: "Compania de Îmbuteliere Fernandes",
       en: "Fernandes Bottling Company"},
-    image: "/poi-images/sr-fernandes-bottling-economic-v2.webp",
     description: {
       de: "Der offizielle Abfüller für Coca-Cola in Suriname und Produzent der beliebten Fernandes Softdrinks. Ein dominierender Akteur im Konsumgütersektor.",
       hu: "A Coca-Cola hivatalos suriname-i palackozója és a népszerű Fernandes üdítők gyártója. Domináns szereplő a fogyasztási cikkek szektorában.",
@@ -1675,7 +1667,6 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       hu: "SAB Rum Lepárló",
       ro: "Distileria de Rom SAB",
       en: "SAB Rum Distillery"},
-    image: "/poi-images/sr-sab-rum-destillerie-economic-v2.webp",
     description: {
       de: "Die Suriname Alcoholic Beverages N.V. (SAB) produziert den landesweit bekannten Borgoe Rum. Sie nutzt die lange Tradition des Zuckerrohranbaus in der Region.",
       hu: "A Suriname Alcoholic Beverages N.V. (SAB) gyártja az országosan ismert Borgoe rumot. A régió cukornádtermesztésének hosszú hagyományát használja ki.",
@@ -1767,7 +1758,6 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       hu: "SAIL Garnélaüzem",
       ro: "Fabrica de Creveți SAIL",
       en: "SAIL Shrimp Plant"},
-    image: "/poi-images/sr-sail-garnelenfabrik-economic-v2.webp",
     description: {
       de: "Ein wichtiger Verarbeitungsbetrieb für Meeresfrüchte in Paramaribo. Die Suriname American Industries Limited (SAIL) verarbeitet Garnelen für den Export.",
       hu: "Fontos tengeri élelmiszer-feldolgozó üzem Paramaribóban. A Suriname American Industries Limited (SAIL) exportra dolgozza fel a garnélarákot.",
@@ -1814,7 +1804,6 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       hu: "De Molen Malom",
       ro: "Moara de Cereale De Molen",
       en: "De Molen Flour Mill"},
-    image: "/poi-images/sr-de-molen-getreidemuehle-economic-v2.webp",
     description: {
       de: "Die Hauptmühle für Weizenmehl in Suriname. Sie spielt eine zentrale Rolle bei der Lebensmittelversorgung und der Belieferung lokaler Bäckereien.",
       hu: "Suriname fő búzalisztmalma. Központi szerepet játszik az élelmiszer-ellátásban és a helyi pékségek kiszolgálásában.",
@@ -1861,7 +1850,6 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       hu: "VSH Foods Margaringyár",
       ro: "Fabrica de Margarină VSH Foods",
       en: "VSH Foods Margarine Plant"},
-    image: "/poi-images/sr-vsh-foods-margarinefabrik-economic-v2.webp",
     description: {
       de: "Ein führender Hersteller von Margarine und Speisefetten in der Karibik. Das Unternehmen gehört zur VSH United Group und exportiert regional.",
       hu: "A margarin és étkezési zsírok vezető gyártója a Karib-térségben. A VSH United Group tagja, és regionálisan exportál.",
@@ -1989,7 +1977,6 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       hu: "Kuldipsingh Cementgyár",
       ro: "Fabrica de Ciment Kuldipsingh",
       en: "Kuldipsingh Cement Plant"},
-    image: "/poi-images/sr-kuldipsingh-zementwerk-economic-v2.webp",
     description: {
       de: "Eine hochmoderne Produktionsstätte für Zementprodukte und Baumaterialien. Sie unterstützt den landesweiten Bau- und Infrastruktursektor.",
       hu: "Korszerű cement- és építőanyaggyártó üzem. Támogatja az országos építőipari és infrastrukturális szektort.",
@@ -2132,7 +2119,6 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       hu: "Kuldipsingh Kikötő",
       ro: "Portul Kuldipsingh",
       en: "Kuldipsingh Port"},
-    image: "/poi-images/sr-kuldipsingh-hafen-economic-v2.webp",
     description: {
       de: "Ein privater Schwerlasthafen, der hauptsächlich für die Öl-, Gas- und Bauindustrie genutzt wird. Er bietet spezialisierte Umschlagplätze.",
       hu: "Magán nehézgép-kikötő, amelyet főként az olaj-, gáz- és építőipar számára használnak. Speciális rakodóhelyeket kínál.",
@@ -2224,7 +2210,6 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       hu: "Traymore Kikötőlétesítmény",
       ro: "Facilitatea Portuară Traymore",
       en: "Traymore Port Facility"},
-    image: "/poi-images/sr-traymore-hafen-economic-v2.webp",
     description: {
       de: "Eine Hafenanlage in Paramaribo, die den Handel mit Gütern des täglichen Bedarfs sowie Baustoffen erleichtert. Wichtig für die städtische Versorgung.",
       hu: "Kikötőlétesítmény Paramaribóban, amely megkönnyíti a napi szükségleti cikkek és építőanyagok kereskedelmét. Fontos a városi ellátásban.",

@@ -12,7 +12,6 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: "Ad Dimaniyat-szigetek Természetvédelmi Terület",
       ro: "Rezervația Naturală Insulele Ad Dimaniyat",
       en: "Ad Dimaniyat Islands Nature Reserve"},
-    image: "/poi-images/ad-dimaniyat-islands-life-v2.webp",
     description: {
       de: "Die Ad-Dimaniyat-Inseln sind ein Archipel aus neun Inseln, umgeben von unberührten Korallenriffen, und bieten einen wichtigen Nistplatz für Echte Karettschildkröten und verschiedene Seevögel.",
       hu: "Az Ad Dimaniyat-szigetek kilenc szigetből álló szigetcsoport, melyet érintetlen korallzátonyok öveznek. Fontos fészkelőhelye a cserepesteknősöknek és számos tengeri madárnak.",
@@ -105,7 +104,6 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: "Ras al-Jinz Teknősvédelmi Terület",
       ro: "Rezervația de Țestoase Ras Al Jinz",
       en: "Ras Al Jinz Turtle Reserve"},
-    image: "/poi-images/ras-al-jinz-turtle-reserve-life-v2.webp",
     description: {
       de: "Ras al-Dschinz ist ein bedeutender Nistplatz für die vom Aussterben bedrohte Grüne Meeresschildkröte, wo jährlich Tausende Weibchen zurückkehren, um an den Stränden ihre Eier abzulegen.",
       hu: "Ras al-Jinz egy kiemelkedő fészkelőhely a veszélyeztetett zöld teknős számára, ahol évente több ezer nőstény tér vissza a homokos partokra tojást rakni.",
@@ -234,7 +232,6 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: "Al Wusta Vadvédelmi Terület",
       ro: "Rezervația Naturală Al Wusta",
       en: "Al Wusta Wildlife Reserve"},
-    image: "/poi-images/al-wusta-wildlife-reserve-life-v2.webp",
     description: {
       de: "Dieses riesige Reservat wurde ursprünglich zum Schutz der Arabischen Oryxantilope gegründet und ist ein Zufluchtsort für wüstenangepasste Wildtiere wie Gazellen und Sandkatzen.",
       hu: "Az eredetileg az arab bejza védelmére létrehozott hatalmas rezervátum a sivatagi vadvilág, köztük gázellák, kőszáli kecskék és homoki macskák menedéke.",
@@ -687,7 +684,6 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: "Al Ansab Vizesélőhelyek",
       ro: "Zonele Umede Al Ansab",
       en: "Al Ansab Wetlands"},
-    image: "/poi-images/al-ansab-wetlands-life-v2.webp",
     description: {
       de: "Ein künstliches Ökosystem in Maskat, das aufbereitetes Abwasser nutzt, um einen üppigen Lebensraum zu schaffen, der fast dreihundert Vogelarten anzieht.",
       hu: "Mesterséges ökoszisztéma Maszkatban, amely tisztított szennyvizet használ dús élőhely kialakítására, közel háromszáz vándormadár- és állandó madárfajt vonzva.",
@@ -852,7 +848,6 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: "Qurum Természeti Park",
       ro: "Parcul Natural Qurum",
       en: "Qurum Natural Park"},
-    image: "/poi-images/qurum-natural-park-life-v2.webp",
     description: {
       de: "Der größte öffentliche Park in Maskat mit weitläufigen Rasenflächen, einem großen künstlichen See zum Bootfahren und einem schattigen Rosengarten, der als grüne Lunge der Stadt dient.",
       hu: "Maszkat legnagyobb közparkja hatalmas pázsitokkal, egy nagy mesterséges csónakázótóval és egy árnyas rózsakerttel, amely a város zöld tüdejeként szolgál.",
@@ -1425,7 +1420,6 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: "Riyam Park",
       ro: "Parcul Riyam",
       en: "Riyam Park"},
-    image: "/poi-images/riyam-park-life-v2.webp",
     description: {
       de: "Dieser Park liegt an einem Hang zwischen Muttrah und Alt-Maskat und ist leicht an seinem riesigen weißen Weihrauchbrenner-Monument zu erkennen, das den Hafen überblickt.",
       hu: "A Muttrah és Ó-Maszkat közötti domboldalon található park könnyen felismerhető a kikötőre néző, hatalmas, fehér tömjénfüstölő emlékművéről.",
@@ -1518,7 +1512,6 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: "Kalbuh Park",
       ro: "Parcul Kalbuh",
       en: "Kalbuh Park"},
-    image: "/poi-images/kalbuh-park-life-v2.webp",
     description: {
       de: "Ein Küstenpark, der sich entlang der Meeresfront zwischen Muttrah und Maskat erstreckt und einen malerischen Spazierweg, grasbewachsene Ruheplätze und einen schönen Meerblick bietet.",
       hu: "Egy tengerparti park, amely a Muttrah és Maszkat közötti partvonal mentén húzódik, festői sétányt, füves pihenőhelyeket és gyönyörű óceáni kilátást kínálva.",
@@ -1935,7 +1928,6 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: "Al Amerat Park",
       ro: "Parcul Al Amerat",
       en: "Al Amerat Park"},
-    image: "/poi-images/al-amerat-park-life-v2.webp",
     description: {
       de: "Ein großer Park im Bezirk Al Amerat, der weithin als Hauptaustragungsort des jährlichen Maskat-Festivals bekannt ist und kulturelle Ausstellungen und Unterhaltung bietet.",
       hu: "Egy jelentős park az Al Amerat kerületben, amely széles körben ismert az éves Maszkat Fesztivál fő helyszíneként, ahol kulturális kiállítások és szórakoztató műsorok várják a látogatókat.",
@@ -2136,7 +2128,6 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: "Ayn Sahalnawt Forrás",
       ro: "Izvorul Ayn Sahalnawt",
       en: "Ayn Sahalnawt Spring"},
-    image: "/poi-images/ayn-sahalnawt-life-v2.webp",
     description: {
       de: "Ein ruhiger natürlicher Quellenpark, umgeben von zerklüfteten Kalksteinbergen, wo eine ganzjährige Wasserquelle eine grüne Oase in der ansonsten trockenen Dhofar-Landschaft bildet.",
       hu: "Egy csendes természetes forráspark csipkézett mészkőhegyekkel körülvéve, ahol a folyamatos vizű forrás egy zöldellő oázist hoz létre a száraz Dhofar régióban.",
@@ -2574,7 +2565,6 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: "Wadi Dawkah Tömjénrezervátum",
       ro: "Rezervația de Tămâie Wadi Dawkah",
       en: "Wadi Dawkah Frankincense Reserve"},
-    image: "/poi-images/wadi-dawkah-frankincense-reserve-life-v2.webp",
     description: {
       de: "Eine UNESCO-Weltkulturerbestätte in einem großen, steinigen Tal, in dem Tausende natürlich wachsende Boswellia-sacra-Bäume stehen, die Quelle des wertvollen omanischen Weihrauchs.",
       hu: "Az UNESCO Világörökség része ez a nagy, köves völgy, amelyben több ezer természetesen növekvő tömjénfa (Boswellia sacra) található, az értékes ománi tömjén forrása.",
@@ -2991,7 +2981,6 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: "Saiq Rózsatetők",
       ro: "Terasele de Trandafiri Saiq",
       en: "Saiq Rose Terraces"},
-    image: "/poi-images/saiq-rose-terraces-life-v2.webp",
     description: {
       de: "Hoch im Dschebel-Achdar-Gebirge sind diese alten landwirtschaftlichen Terrassen mit Damaszener-Rosen bepflanzt, die jedes Frühjahr für die Herstellung von duftendem omanischen Rosenwasser geerntet werden.",
       hu: "A Jabal Akhdar hegység magaslataiban ezek az ősi mezőgazdasági teraszok damaszkuszi rózsával vannak beültetve, amelyeket minden tavasszal betakarítanak illatos ománi rózsavíz készítéséhez.",
@@ -3039,7 +3028,6 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: "Nakhal Datolyaültetvényei",
       ro: "Plantațiile de Curmali din Nakhal",
       en: "Nakhal Date Palm Plantations"},
-    image: "/poi-images/nakhal-date-palm-plantations-life-v2.webp",
     description: {
       de: "Diese riesige Oase, die das berühmte Fort Nakhal umgibt, ist ein dichtes Meer von Dattelpalmen, das von den heißen Mineralquellen der nahen Al-Thowarah-Quelle gespeist wird.",
       hu: "A híres Nakhal erődöt körülvevő hatalmas oázis a datolyapálmák sűrű tengere, amelyet a közeli Al Thowarah forrás meleg ásványvize táplál.",
@@ -3348,7 +3336,6 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: "Birkat Al Mouz Ültetvényei",
       ro: "Plantațiile din Birkat Al Mouz",
       en: "Birkat Al Mouz Plantations"},
-    image: "/poi-images/birkat-al-mouz-plantations-life-v2.webp",
     description: {
       de: "Ein malerisches Bauerndorf am Fuße des Dschebel Achdar, berühmt für seine üppigen Bananen- und Dattelplantagen, die durch einen alten, funktionierenden Faladsch-Wasserkanal geteilt werden.",
       hu: "Egy festői mezőgazdasági falu a Jabal Akhdar lábánál, amely buja banán- és datolyaültetvényeiről híres, amelyeket egy ősi, máig működő falaj vízcsatorna szel ketté.",
@@ -3657,7 +3644,6 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: "Al Numan Állatkert",
       ro: "Grădina Zoologică Al Numan",
       en: "Al Numan Zoo"},
-    image: "/poi-images/al-numan-zoo-life-v2.webp",
     description: {
       de: "Ein kleiner privater Zoo in Barka, der Kindern die Möglichkeit bietet, eine Vielzahl von exotischen Tieren und einheimischen omanischen Wildtieren aus der Nähe zu betrachten.",
       hu: "Egy kis magántulajdonban lévő állatkert Barkában, amely lehetőséget nyújt a gyermekek számára, hogy különféle egzotikus állatokat és őshonos ománi vadvilágot testközelből láthassanak.",
@@ -5319,7 +5305,6 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: "Marah Land Vidámpark",
       ro: "Parcul de Distracții Marah Land",
       en: "Marah Land Theme Park"},
-    image: "/poi-images/marah-land-life-v2.webp",
     description: {
       de: "Ein weitläufiger Vergnügungspark im Herzen von Maskat, der eine Vielzahl aufregender Fahrgeschäfte, ein großes Riesenrad und familienfreundliche Unterhaltungsbereiche bietet.",
       hu: "Egy kiterjedt vidámpark Maszkat szívében, amely számos izgalmas vidámparki játékot, egy nagy óriáskereket és családbarát szórakoztató zónákat kínál.",
@@ -5628,7 +5613,6 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: "Snow Oman",
       ro: "Snow Oman",
       en: "Snow Oman"},
-    image: "/poi-images/snow-oman-life-v2.webp",
     description: {
       de: "Omans erster Indoor-Schneepark in der Mall of Oman bietet Pinguinbegegnungen, Eislaufen und Schneefahrgeschäfte in einer Umgebung unter dem Gefrierpunkt.",
       hu: "Omán első fedett hóparkja, amely a Mall of Oman bevásárlóközpontban található, és pingvintalálkozókat, korcsolyázást és havas játékokat kínál fagypont alatti környezetben.",

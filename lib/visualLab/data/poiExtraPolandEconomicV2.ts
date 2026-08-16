@@ -7,8 +7,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "landmark",
     name: { de: "Warschauer Geschäftsviertel", hu: "Varsói üzleti negyed", ro: "Districtul de afaceri din Varșovia", en: "Warsaw Business District"},
-    image: "/poi-images/poland-warsaw-business-district-economic-v2.webp",
-    coords: [21.001, 52.231],
     coords: [21.001, 52.231],
     description: {
       de: "Das moderne Geschäftsviertel im Zentrum von Warschau ist das Finanzzentrum Polens. Es zeichnet sich durch eine dichte Konzentration von Wolkenkratzern und den Sitz der Wertpapierbörse aus.",
@@ -52,8 +50,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "port",
     name: { de: "Hafen von Danzig", hu: "Gdański kikötő", ro: "Portul Gdańsk", en: "Port of Gdańsk"},
-    image: "/poi-images/poland-port-of-gdansk-economic-v2.webp",
-    coords: [18.675, 54.394],
     coords: [18.675, 54.394],
     description: {
       de: "Der Hafen von Danzig ist der größte Seehafen Polens und einer der wichtigsten Umschlagplätze an der Ostsee. Er umfasst sowohl einen inneren Hafen als auch einen modernen Tiefwasserhafen.",
@@ -142,8 +138,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "industry",
     name: { de: "Kraftwerk Bełchatów", hu: "Bełchatówi erőmű", ro: "Centrala electrică Bełchatów", en: "Bełchatów Power Station"},
-    image: "/poi-images/poland-belchatow-power-station-economic-v2.webp",
-    coords: [19.332, 51.266],
     coords: [19.332, 51.266],
     description: {
       de: "Das Kraftwerk Bełchatów ist das größte Braunkohlekraftwerk Europas. Es spielt eine entscheidende Rolle für die Energiesicherheit Polens und nutzt Kohle aus dem benachbarten Tagebau.",
@@ -189,7 +183,6 @@ export const polandEconomicV2: POI[] = [
     name: { de: "PKN Orlen Raffinerie Płock", hu: "PKN Orlen Płocki Finomító", ro: "Rafinăria PKN Orlen Płock", en: "PKN Orlen Płock Refinery"},
     image: "/poi-images/poland-pkn-orlen-plock-economic-v2.webp",
     coords: [19.688, 52.583],
-    coords: [19.688, 52.583],
     description: {
       de: "Die Raffinerie in Płock ist die größte Erdölraffinerie Polens und eine der modernsten in Europa. Sie wird vom staatlichen Energiekonzern PKN Orlen betrieben und produziert Kraftstoffe und Kunststoffe.",
       hu: "A płocki finomító Lengyelország legnagyobb kőolajfinomítója és Európa egyik legmodernebb üzeme. A PKN Orlen működteti, üzemanyagokat és műanyagokat állít elő.",
@@ -233,8 +226,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "mine",
     name: { de: "KGHM Kupfermine Lubin", hu: "KGHM Lubini rézbánya", ro: "Mina de cupru KGHM Lubin", en: "KGHM Lubin Copper Mine"},
-    image: "/poi-images/poland-kghm-lubin-mine-economic-v2.webp",
-    coords: [16.191, 51.401],
     coords: [16.191, 51.401],
     description: {
       de: "Das Kupferbecken bei Lubin wird von KGHM Polska Miedź betrieben, einem der weltweit führenden Produzenten von Kupfer und Silber. Die Mine ist ein zentraler Pfeiler der polnischen Schwerindustrie.",
@@ -278,8 +269,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "factory",
     name: { de: "Stahlwerk Huta Katowice", hu: "Huta Katowice acélmű", ro: "Combinatul siderurgic Huta Katowice", en: "Huta Katowice Steelworks"},
-    image: "/poi-images/poland-huta-katowice-economic-v2.webp",
-    coords: [19.271, 50.342],
     coords: [19.271, 50.342],
     description: {
       de: "Huta Katowice in Dąbrowa Górnicza ist das größte Stahlwerk Polens. Es wurde in den 1970er Jahren erbaut und gehört heute zum internationalen Konzern ArcelorMittal.",
@@ -323,8 +312,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "port",
     name: { de: "Hafen von Gdingen", hu: "Gdyniai kikötő", ro: "Portul Gdynia", en: "Port of Gdynia"},
-    image: "/poi-images/poland-port-of-gdynia-economic-v2.webp",
-    coords: [18.552, 54.531],
     coords: [18.552, 54.531],
     description: {
       de: "Der Hafen von Gdynia wurde in der Zwischenkriegszeit als Tor Polens zur Welt errichtet. Heute ist er ein spezialisierter Container- und Logistikhafen mit bedeutendem Fährverkehr.",
@@ -368,8 +355,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "port",
     name: { de: "Hafen von Stettin", hu: "Szczecini kikötő", ro: "Portul Szczecin", en: "Port of Szczecin"},
-    image: "/poi-images/poland-port-of-szczecin-economic-v2.webp",
-    coords: [14.591, 53.432],
     coords: [14.591, 53.432],
     description: {
       de: "Der Hafen von Stettin liegt am Unterlauf der Oder und bildet zusammen mit Swinemünde einen der größten Hafenkomplexe an der Ostsee. Er ist ein wichtiges Zentrum für Schüttgutumschlag.",
@@ -818,8 +803,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "industry",
     name: { de: "LNG-Terminal Swinemünde", hu: "Świnoujściei LNG-terminál", ro: "Terminalul LNG Świnoujście", en: "Świnoujście LNG Terminal"},
-    image: "/poi-images/poland-swinoujscie-lng-terminal-economic-v2.webp",
-    coords: [14.295, 53.911],
     coords: [14.295, 53.911],
     description: {
       de: "Das LNG-Terminal in Swinemünde ist eine strategische Anlage zur Diversifizierung der Gasversorgung Polens. Es ermöglicht den Import von verflüssigtem Erdgas per Schiff aus aller Welt.",
@@ -863,8 +846,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "factory",
     name: { de: "Fiat-Werk Tychy", hu: "Tychyi Fiat autógyár", ro: "Fabrica Fiat Tychy", en: "Fiat Factory Tychy"},
-    image: "/poi-images/poland-fiat-factory-tychy-economic-v2.webp",
-    coords: [19.042, 50.111],
     coords: [19.042, 50.111],
     description: {
       de: "Das Stellantis-Werk in Tychy ist eine der größten Automobilfabriken Europas. Es blickt auf eine lange Tradition in der Produktion von Kleinwagen zurück, darunter der legendäre Fiat 500.",
@@ -909,7 +890,6 @@ export const polandEconomicV2: POI[] = [
     type: "factory",
     name: { de: "Stellantis-Werk Gleiwitz", hu: "Gliwicei Stellantis-gyár", ro: "Fabrica Stellantis Gliwice", en: "Stellantis Factory Gliwice"},
     image: "/poi-images/poland-stellantis-factory-gliwice-economic-v2.webp",
-    coords: [18.611, 50.352],
     coords: [18.611, 50.352],
     description: {
       de: "Das Werk in Gleiwitz war ursprünglich als Opel-Werk bekannt und ist heute ein wichtiger Standort von Stellantis. Es hat sich von der Pkw-Produktion auf die Herstellung von Nutzfahrzeugen spezialisiert.",
@@ -999,8 +979,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "landmark",
     name: { de: "Internationale Messe Posen", hu: "Poznańi Nemzetközi Vásár", ro: "Târgul Internațional Poznań", en: "Poznań International Fair"},
-    image: "/poi-images/poland-poznan-international-fair-economic-v2.webp",
-    coords: [16.911, 52.404],
     coords: [16.911, 52.404],
     description: {
       de: "Die Internationale Messe Posen ist das größte Messegelände in Polen und eines der bedeutendsten in Zentraleuropa. Sie ist seit 1921 ein Treffpunkt für Welthandel und Industrie.",
@@ -1044,8 +1022,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "mine",
     name: { de: "Salzbergwerk Wieliczka", hu: "Wieliczkai sóbánya", ro: "Salina Wieliczka", en: "Wieliczka Salt Mine"},
-    image: "/poi-images/poland-wieliczka-salt-mine-economic-v2.webp",
-    coords: [20.061, 49.983],
     coords: [20.061, 49.983],
     description: {
       de: "Das Salzbergwerk Wieliczka ist eines der ältesten der Welt und war jahrhundertelang die Quelle des wirtschaftlichen Reichtums der polnischen Könige. Heute ist es ein Weltkulturerbe.",
@@ -1089,8 +1065,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "factory",
     name: { de: "Stickstoffwerke Puławy", hu: "Puławyi Nitrogénművek", ro: "Combinatul chimic Puławy", en: "Puławy Nitrogen Works"},
-    image: "/poi-images/poland-pulawy-nitrogen-works-economic-v2.webp",
-    coords: [21.972, 51.451],
     coords: [21.972, 51.451],
     description: {
       de: "Die Stickstoffwerke in Puławy sind einer der größten Düngemittelproduzenten der Welt. Das Werk gehört zur Grupa Azoty und ist ein Schlüsselunternehmen der polnischen Chemieindustrie.",
@@ -1179,8 +1153,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "factory",
     name: { de: "Chemiewerk Police", hu: "Policei Vegyiművek", ro: "Combinatul chimic Police", en: "Police Chemical Plant"},
-    image: "/poi-images/poland-police-chemical-plant-economic-v2.webp",
-    coords: [14.531, 53.562],
     coords: [14.531, 53.562],
     description: {
       de: "Das Chemiewerk in Police bei Stettin ist auf die Produktion von Mehrnährstoffdüngern und Titandioxid spezialisiert. Es ist ein bedeutender Arbeitgeber in Westpommern.",
@@ -1224,8 +1196,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "factory",
     name: { de: "Huta Stalowa Wola", hu: "Huta Stalowa Wola", ro: "Combinatul Stalowa Wola", en: "Stalowa Wola Ironworks"},
-    image: "/poi-images/poland-stalowa-wola-ironworks-economic-v2.webp",
-    coords: [22.052, 50.551],
     coords: [22.052, 50.551],
     description: {
       de: "Huta Stalowa Wola (HSW) ist ein bedeutendes Unternehmen der polnischen Verteidigungsindustrie und des Maschinenbaus. Es wurde als Teil des Zentralen Industriebezirks (COP) in den 1930ern gegründet.",
@@ -1269,8 +1239,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "industry",
     name: { de: "Luftfahrtpark Mielec", hu: "Mieleci repülőgépgyár", ro: "Valea Aviației Mielec", en: "Mielec Aviation Valley"},
-    image: "/poi-images/poland-mielec-aviation-valley-economic-v2.webp",
-    coords: [21.462, 50.291],
     coords: [21.462, 50.291],
     description: {
       de: "Mielec ist das Zentrum des polnischen Luftfahrt-Clusters 'Aviation Valley'. Hier befindet sich das Werk von PZL Mielec, heute Teil von Lockheed Martin, das Flugzeuge und Hubschrauber produziert.",
@@ -1314,8 +1282,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "mine",
     name: { de: "Steinkohlebergwerk Bogdanka", hu: "Bogdankai kőszénbánya", ro: "Mina de cărbune Bogdanka", en: "Bogdanka Coal Mine"},
-    image: "/poi-images/poland-bogdanka-coal-mine-economic-v2.webp",
-    coords: [23.001, 51.331],
     coords: [23.001, 51.331],
     description: {
       de: "Das Bergwerk Bogdanka in der Region Lublin ist eines der effizientesten Steinkohlebergwerke Polens. Es ist das einzige aktive Bergwerk im Lubliner Kohlebecken.",
@@ -1359,8 +1325,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "mine",
     name: { de: "Tagebau Turów", hu: "Turówi külszíni fejtés", ro: "Mina de suprafață Turów", en: "Turów Lignite Mine"},
-    image: "/poi-images/poland-turow-lignite-mine-economic-v2.webp",
-    coords: [14.921, 50.912],
     coords: [14.921, 50.912],
     description: {
       de: "Der Tagebau Turów liegt im Dreiländereck von Polen, Tschechien und Deutschland. Er fördert Braunkohle für das benachbarte Kraftwerk Turów und ist ein bedeutender Wirtschaftsfaktor der Region.",
@@ -1449,8 +1413,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "industry",
     name: { de: "Kraftwerk Kozienice", hu: "Kozienicei erőmű", ro: "Centrala electrică Kozienice", en: "Kozienice Power Station"},
-    image: "/poi-images/poland-kozienice-power-station-economic-v2.webp",
-    coords: [21.462, 51.661],
     coords: [21.462, 51.661],
     description: {
       de: "Das Kraftwerk Kozienice ist das zweitgrößte Kraftwerk Polens und das größte Steinkohlekraftwerk des Landes. Es liegt an der Weichsel und ist entscheidend für die Stromversorgung von Warschau.",
@@ -1494,8 +1456,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "factory",
     name: { de: "Chemiewerk Tarnów", hu: "Tarnówi Vegyiművek", ro: "Combinatul chimic Tarnów", en: "Tarnów Chemical Plant"},
-    image: "/poi-images/poland-tarnow-chemical-plant-economic-v2.webp",
-    coords: [20.942, 50.011],
     coords: [20.942, 50.011],
     description: {
       de: "Das Chemiewerk in Tarnów ist der Hauptsitz der Grupa Azoty, des größten Chemieunternehmens Polens. Es wurde in den 1920er Jahren gegründet und ist auf Polymere und Düngemittel spezialisiert.",
@@ -1539,8 +1499,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "industry",
     name: { de: "Kraftwerk Jaworzno", hu: "Jaworznoi erőmű", ro: "Centrala electrică Jaworzno", en: "Jaworzno Power Station"},
-    image: "/poi-images/poland-jaworzno-power-station-economic-v2.webp",
-    coords: [19.202, 50.211],
     coords: [19.202, 50.211],
     description: {
       de: "Das Kraftwerk Jaworzno ist ein bedeutender Energieproduzent im schlesischen Industriegebiet. Es umfasst mehrere Kraftwerkskomplexe und versorgt die umliegende Industrie mit Strom.",
@@ -1629,8 +1587,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "factory",
     name: { de: "Kupferhütte Legnica", hu: "Legnicai rézkohó", ro: "Topitoria de cupru Legnica", en: "Legnica Copper Smelter"},
-    image: "/poi-images/poland-legnica-copper-smelter-economic-v2.webp",
-    coords: [16.142, 51.211],
     coords: [16.142, 51.211],
     description: {
       de: "Die Kupferhütte in Legnica ist Teil des KGHM-Komplexes und auf die Raffination von Kupfer spezialisiert. Sie produziert hochwertiges Elektrolytkupfer und gewinnt wertvolle Nebenprodukte.",
@@ -1674,8 +1630,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "factory",
     name: { de: "Turbinenfabrik Elbing", hu: "Elblągi turbinagyár", ro: "Fabrica de turbine Elbląg", en: "Elbląg Turbine Factory"},
-    image: "/poi-images/poland-elblag-turbine-factory-economic-v2.webp",
-    coords: [19.411, 54.162],
     coords: [19.411, 54.162],
     description: {
       de: "Das Werk in Elbląg ist ein weltweit führender Hersteller von Turbinen für Kraftwerke. Ursprünglich als Zamech bekannt, gehört es heute zu General Electric (GE) und exportiert High-Tech-Ausrüstung.",
@@ -1719,8 +1673,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "factory",
     name: { de: "Papierfabrik Kwidzyn", hu: "Kwidzyni papírgyár", ro: "Fabrica de hârtie Kwidzyn", en: "Kwidzyn Paper Mill"},
-    image: "/poi-images/poland-kwidzyn-paper-mill-economic-v2.webp",
-    coords: [18.911, 53.731],
     coords: [18.911, 53.731],
     description: {
       de: "Die Papierfabrik in Kwidzyn ist eine der größten Anlagen zur Herstellung von Zellstoff und Papier in Europa. Sie ist ein bedeutender Exporteur und verarbeitet Holz aus polnischen Wäldern.",
@@ -1809,8 +1761,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "factory",
     name: { de: "Zementwerk Opole", hu: "Opolei cementgyár", ro: "Fabrica de ciment Opole", en: "Opole Cement Works"},
-    image: "/poi-images/poland-opole-cement-works-economic-v2.webp",
-    coords: [17.922, 50.672],
     coords: [17.922, 50.672],
     description: {
       de: "Die Region um Opole ist das Herz der polnischen Zementindustrie. Dank reicher Kalksteinvorkommen befinden sich hier mehrere große Werke, die Baumaterial für ganz Polen liefern.",
@@ -1899,8 +1849,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "factory",
     name: { de: "Lkw-Werk Starachowice", hu: "Starachowicei teherautógyár", ro: "Fabrica de camioane Starachowice", en: "Starachowice Truck Plant"},
-    image: "/poi-images/poland-starachowice-truck-plant-economic-v2.webp",
-    coords: [21.072, 51.051],
     coords: [21.072, 51.051],
     description: {
       de: "Starachowice hat eine lange Tradition im Fahrzeugbau, einst Sitz der Marke Star. Heute ist es ein wichtiger Produktionsstandort für Busse des MAN-Konzerns.",
@@ -1946,7 +1894,6 @@ export const polandEconomicV2: POI[] = [
     name: { de: "Nitro-Chem Bromberg", hu: "Bydgoszczi Nitro-Chem", ro: "Nitro-Chem Bydgoszcz", en: "Bydgoszcz Nitro-Chem"},
     image: "/poi-images/poland-bydgoszcz-nitro-chem-economic-v2.webp",
     coords: [18.092, 53.071],
-    coords: [18.092, 53.071],
     description: {
       de: "Nitro-Chem in Bydgoszcz ist einer der weltweit führenden Hersteller von TNT und anderen Sprengstoffen. Das Unternehmen ist ein strategischer Lieferant für die NATO-Streitkräfte.",
       hu: "A bydgoszczi Nitro-Chem a világ egyik vezető TNT- és egyéb robbanóanyaggyártója. A vállalat a NATO-erők stratégiai beszállítója.",
@@ -1990,8 +1937,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "industry",
     name: { de: "Sonderwirtschaftszone Waldenburg", hu: "Wałbrzychi különleges gazdasági övezet", ro: "Zona economică specială Wałbrzych", en: "Wałbrzych Special Economic Zone"},
-    image: "/poi-images/poland-walbrzych-economic-zone-economic-v2.webp",
-    coords: [16.312, 50.801],
     coords: [16.312, 50.801],
     description: {
       de: "Die Sonderwirtschaftszone Wałbrzych 'Invest-Park' ist eine der größten in Polen. Sie hat den Strukturwandel der Region nach dem Ende des Kohlebergbaus durch Industrieansiedlungen ermöglicht.",
@@ -2035,8 +1980,6 @@ export const polandEconomicV2: POI[] = [
     parent: "PL",
     type: "landmark",
     name: { de: "Manufaktura Lodz", hu: "Łódźi Manufaktura", ro: "Manufaktura Łódź", en: "Manufaktura Łódź"},
-    image: "/poi-images/poland-lodz-manufaktura-economic-v2.webp",
-    coords: [19.442, 51.772],
     coords: [19.442, 51.772],
     description: {
       de: "Manufaktura ist ein Symbol für den wirtschaftlichen Wandel von Łódź. Die einstige Textilfabrik von Izrael Poznański wurde in ein riesiges Einkaufs-, Kultur- und Businesszentrum umgewandelt.",
@@ -4106,7 +4049,6 @@ export const polandEconomicV2: POI[] = [
     type: "city",
     name: { de: "Geschäftszentrum Kattowitz", hu: "Katowicei üzleti központ", ro: "Centrul de afaceri Katowice", en: "Katowice Business Center"},
     image: "/poi-images/poland-katowice-business-center-economic-v2.webp",
-    coords: [19.022, 50.261],
     coords: [19.022, 50.261],
     description: {
       de: "Katowice hat sich von einer Bergbaustadt zu einem modernen Dienstleistungszentrum gewandelt. Die Stadt beherbergt zahlreiche BPO-Zentren und moderne Bürokomplexe in der 'Kulturzone'.",

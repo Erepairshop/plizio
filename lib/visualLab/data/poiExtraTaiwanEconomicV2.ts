@@ -669,7 +669,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: "Hszincsu Tudományos Park",
       ro: "Parcul Științific Hsinchu",
       en: "Hsinchu Science Park"},
-    image: "/poi-images/hsinchu-science-park-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Zentrum für die taiwanesische Halbleiterindustrie.",
       hu: "A tajvani félvezetőipar és technológiai fejlesztés egyik legfontosabb központja.",
@@ -978,7 +977,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: "Kaohsziung kikötője",
       ro: "Portul Kaohsiung",
       en: "Port of Kaohsiung"},
-    image: "/poi-images/port-of-kaohsiung-economic-v2.webp",
     description: {
       de: "Der größte Hafen Taiwans und einer der verkehrsreichsten Containerhäfen der Welt.",
       hu: "Tajvan legnagyobb és a világ egyik legforgalmasabb konténerkikötője.",
@@ -2403,7 +2401,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: "Csilung kikötője",
       ro: "Portul Keelung",
       en: "Port of Keelung"},
-    image: "/poi-images/port-of-keelung-economic-v2.webp",
     description: {
       de: "Ein wichtiger Seehafen im Norden Taiwans, der eng mit Taipeh verbunden ist.",
       hu: "Jelentős északi tengeri kikötő, amely szorosan kapcsolódik Tajpej gazdaságához.",
@@ -2532,7 +2529,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: "Tajcsung Erőmű",
       ro: "Centrala Electrică Taichung",
       en: "Taichung Power Plant"},
-    image: "/poi-images/taichung-power-plant-economic-v2.webp",
     description: {
       de: "Eines der größten Kohlekraftwerke der Welt, das einen großen Teil der Energie Taiwans liefert.",
       hu: "A világ egyik legnagyobb szénerőműve, amely Tajvan energiaellátásának jelentős részét biztosítja.",
@@ -2862,7 +2858,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: "Tajcsung kikötője",
       ro: "Portul Taichung",
       en: "Port of Taichung"},
-    image: "/poi-images/port-of-taichung-economic-v2.webp",
     description: {
       de: "Ein künstlicher Hafen, der eine Schlüsselrolle im Industrieexport Zentraltaiwans spielt.",
       hu: "Mesterséges kikötő, amely kulcsszerepet játszik Közép-Tajvan ipari exportjában.",
@@ -5337,7 +5332,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: "Csinkuasi Aranybánya",
       ro: "Mina de Aur Jinguashi",
       en: "Jinguashi Gold Mine"},
-    image: "/poi-images/jinguashi-gold-mine-economic-v2.webp",
     description: {
       de: "Eine der größten Gold- und Kupferminen der japanischen Kolonialzeit in Asien.",
       hu: "Ázsia egyik legnagyobb arany- és rézbányája a japán gyarmati időszakból.",
@@ -5790,7 +5784,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: "Maansan Atomerőmű",
       ro: "Centrala Nucleară Maanshan",
       en: "Maanshan Nuclear Power Plant"},
-    image: "/poi-images/maanshan-nuclear-power-plant-economic-v2.webp",
     description: {
       de: "Das dritte Kernkraftwerk in Taiwan, gelegen an der südlichsten Spitze der Insel.",
       hu: "Tajvan harmadik atomerőműve, amely a sziget legdélebbi csücskén található.",
@@ -6099,7 +6092,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: "Tajpej kikötője",
       ro: "Portul Taipei",
       en: "Port of Taipei"},
-    image: "/poi-images/port-of-taipei-economic-v2.webp",
     description: {
       de: "Ein moderner Seehafen im Bezirk Bali, der den Hafen von Keelung entlasten soll.",
       hu: "Modern tengeri kikötő Bali kerületben, amelyet a csilungi kikötő tehermentesítésére hoztak létre.",
@@ -7596,7 +7588,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: "Pinghszi Szénbánya",
       ro: "Mina de Cărbune Pingxi",
       en: "Pingxi Coal Mine"},
-    image: "/poi-images/pingxi-coal-mine-economic-v2.webp",
     description: {
       de: "Ehemals Taiwans größtes Kohlebergwerk, das die industrielle Entwicklung der Region prägte.",
       hu: "Egykor Tajvan legnagyobb szénbányája, amely alapjaiban határozta meg a régió ipari fejlődését.",
@@ -9057,7 +9048,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: "Nangang Szoftverpark",
       ro: "Parcul de Software Nangang",
       en: "Nangang Software Park"},
-    image: "/poi-images/nangang-software-park-economic-v2.webp",
     description: {
       de: "Ein wichtiger Technologiepark in Taipeh, der sich auf Biotechnologie und Softwareentwicklung konzentriert.",
       hu: "Jelentős tajpeji technológiai park, amely a biotechnológiára és szoftverfejlesztésre fókuszál.",
@@ -9726,7 +9716,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: "Kaohsziung Szoftverpark",
       ro: "Parcul de Software Kaohsiung",
       en: "Kaohsiung Software Park"},
-    image: "/poi-images/kaohsiung-software-park-economic-v2.webp",
     description: {
       de: "Ein Innovationszentrum in Südtaiwan für digitale Inhalte und Cloud-Computing.",
       hu: "Dél-Tajvan innovációs központja, amely a digitális tartalomgyártásra és a felhőalapú számítástechnikára épül.",
@@ -9774,7 +9763,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: "Kuanjin Ipari Park",
       ro: "Parcul Industrial Guanyin",
       en: "Guanyin Industrial Park"},
-    image: "/poi-images/guanyin-industrial-park-economic-v2.webp",
     description: {
       de: "Ein großes Industriegebiet in Taoyuan mit Schwerpunkt auf verarbeitendem Gewerbe.",
       hu: "Nagy kiterjedésű ipari terület Taojüanban, amely a feldolgozóiparra összpontosít.",
@@ -9903,7 +9891,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: "Csanghua Parti Ipari Park",
       ro: "Parcul Industrial de Coastă Changhua",
       en: "Changhua Coastal Industrial Park"},
-    image: "/poi-images/changhua-coastal-industrial-park-economic-v2.webp",
     description: {
       de: "Ein riesiges, auf zurückgewonnenem Land erbautes Industriegebiet an der Westküste.",
       hu: "Hatalmas, tengertől elhódított területen épült ipari zóna a nyugati parton.",
@@ -10680,7 +10667,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: "Taojüan Szabadkereskedelmi Övezet",
       ro: "Zona de Liber Schimb Taoyuan",
       en: "Taoyuan Free Trade Zone"},
-    image: "/poi-images/taoyuan-free-trade-zone-economic-v2.webp",
     description: {
       de: "Das wichtigste Logistikzentrum in der Nähe von Taiwans größtem internationalen Flughafen.",
       hu: "Tajvan legnagyobb nemzetközi repülőtere melletti legfontosabb logisztikai központ.",
@@ -10809,7 +10795,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: "Linjüan Petrolkémiai Park",
       ro: "Parcul Petrochimic Linyuan",
       en: "Linyuan Petrochemical Park"},
-    image: "/poi-images/linyuan-petrochemical-park-economic-v2.webp",
     description: {
       de: "Eines der wichtigsten Zentren für die petrochemische Produktion im Süden Taiwans.",
       hu: "A dél-tajvani petrolkémiai termelés egyik legjelentősebb központja.",
@@ -11622,7 +11607,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: "Mingtan Szivattyús Tározós Erőmű",
       ro: "Centrala Hidroelectrică Mingtan",
       en: "Mingtan Pumped Storage Hydro Power Plant"},
-    image: "/poi-images/mingtan-pumped-storage-plant-economic-v2.webp",
     description: {
       de: "Eines der leistungsstärksten Pumpspeicherkraftwerke in Asien, wichtig für die Netzstabilität.",
       hu: "Ázsia egyik legnagyobb teljesítményű szivattyús tározós erőműve, amely az elektromos hálózat stabilitását biztosítja.",

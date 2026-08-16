@@ -8,7 +8,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-GB",
     coords: [37.58, 15.12],
     name: { de: "Gash-Barka Baumwollanbau", hu: "Gash-Barka gyapottermesztés", ro: "Cultivarea bumbacului Gash-Barka", en: "Gash-Barka cotton cultivation"},
-    image: "/poi-images/gash-barka-cotton-life-v2.webp",
     description: { de: "Große Baumwollfelder im Gash-Barka-Gebiet.", hu: "Kiterjedt gyapotföldek a Gash-Barka régióban.", ro: "Câmpuri vaste de bumbac în regiunea Gash-Barka.", en: "Extensive cotton fields in the Gash-Barka region." , es: "Grandes campos de algodón en el área de Gash-Barka.", pt: "Grandes campos de algodão na área de Gash-Barka.", fr: "Vastes champs de coton dans la région de Gash-Barka."},
     facts: {
       de: ["Wichtige Einnahmequelle", "Mechanisierte Bewässerung"],
@@ -160,7 +159,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-MA",
     coords: [38.93, 15.33],
     name: { de: "Asmara Kinder-Freizeitpark", hu: "Aszmara gyermek szabadidőpark", ro: "Parc de distracții pentru copii Asmara", en: "Asmara children's amusement park"},
-    image: "/poi-images/asmara-children-park-life-v2.webp",
     description: { de: "Ein beliebter Park für Familien mit Spielgeräten.", hu: "Népszerű családi park játékokkal.", ro: "Un parc popular pentru familii cu echipamente de joacă.", en: "A popular park for families with play equipment." , es: "Un parque popular para familias con juegos infantiles.", pt: "Um parque popular para famílias com equipamentos de recreio.", fr: "Un parc populaire pour les familles avec des équipements de jeux."},
     facts: {
       de: ["Zentral gelegen", "Grünflächen für Kinder"],
@@ -276,7 +274,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-SK",
     coords: [39.45, 15.60],
     name: { de: "Massaua Meeresschutzzentrum", hu: "Massawa tengeri védelmi központ", ro: "Centru de conservare marină Massawa", en: "Massawa marine conservation center"},
-    image: "/poi-images/massawa-marine-life-v2.webp",
     description: { de: "Schutzgebiet für Meereslebewesen in der Nähe von Massaua.", hu: "Tengeri élővilág védelmi terület Massawa közelében.", ro: "Arie protejată pentru fauna marină lângă Massawa.", en: "Protected area for marine life near Massawa." , es: "Área protegida para la vida marina cerca de Massaua.", pt: "Área protegida para vida marinha perto de Massaua.", fr: "Zone protégée pour la vie marine près de Massaua."},
     facts: {
       de: ["Korallenriff-Schutz", "Vielfältige Fischarten"],
@@ -393,7 +390,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-SK",
     coords: [39.08, 15.45],
     name: { de: "Ghinda Kaffeeplantagen", hu: "Ghinda kávéültetvények", ro: "Plantații de cafea Ghinda", en: "Ghinda coffee plantations"},
-    image: "/poi-images/ghinda-coffee-farms-life-v2.webp",
     description: { de: "Hochgelegene Kaffeeplantagen in der Region Ghinda.", hu: "Magasan fekvő kávéültetvények Ghinda régióban.", ro: "Plantații de cafea la altitudine în regiunea Ghinda.", en: "High-altitude coffee plantations in the Ghinda region." , es: "Plantaciones de café situadas a gran altitud en la región de Ghinda.", pt: "Plantações de café em altitude na região de Ghinda.", fr: "Plantations de café d'altitude dans la région de Ghinda."},
     facts: {
       de: ["Arabica-Kaffee", "Regenreiches Mikroklima"],
@@ -429,7 +425,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-AN",
     coords: [38.30, 15.90],
     name: { de: "Senhit Viehweiden", hu: "Senhit állatlegelő", ro: "Pășuni Senhit", en: "Senhit livestock pastures"},
-    image: "/poi-images/senhit-livestock-life-v2.webp",
     description: { de: "Weideflächen für Rinder und Ziegen.", hu: "Legelőterületek szarvasmarhák és kecskék számára.", ro: "Pășuni pentru bovine și caprine.", en: "Grazing areas for cattle and goats." , es: "Zonas de pastoreo para ganado vacuno y caprino.", pt: "Zonas de pastagens para gado bovino e caprino.", fr: "Zones de pâturage pour les bovins et les chèvres."},
     facts: {
       de: ["Traditionelle Viehhaltung", "Wanderweidewirtschaft"],
@@ -501,7 +496,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-GB",
     coords: [37.20, 15.20],
     name: { de: "Gash-Barka Vogelschutzgebiet", hu: "Gash-Barka madárvédelmi terület", ro: "Rezervație de păsări Gash-Barka", en: "Gash-Barka bird sanctuary"},
-    image: "/poi-images/gash-barka-bird-reserve-life-v2.webp",
     description: { de: "Ein Schutzgebiet für Zugvögel in der Gash-Barka-Region.", hu: "Vonuló madarak védelmi területe Gash-Barka régióban.", ro: "O arie protejată pentru păsările migratoare în regiunea Gash-Barka.", en: "A protected area for migratory birds in the Gash-Barka region." , es: "Una zona protegida para aves migratorias en la región de Gash-Barka.", pt: "Uma área protegida para aves migratórias na região de Gash-Barka.", fr: "Une zone protégée pour les oiseaux migrateurs dans la région de Gash-Barka."},
     facts: {
       de: ["Hotspot für Ornithologen", "Saisonale Feuchtgebiete"],
@@ -537,7 +531,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-GB",
     coords: [36.65, 15.10],
     name: { de: "Tessenei Hirse- und Baumwollfelder", hu: "Tessenei köles- és gyapotföldek", ro: "Câmpuri de mei și bumbac Tessenei", en: "Tessenei millet and cotton fields"},
-    image: "/poi-images/tessenei-crops-life-v2.webp",
     description: { de: "Wichtige landwirtschaftliche Anbauflächen nahe Tessenei.", hu: "Fontos mezőgazdasági területek Tessenei közelében.", ro: "Zone agricole importante lângă Tessenei.", en: "Important agricultural fields near Tessenei." , es: "Importantes áreas de cultivo agrícola cerca de Tessenei.", pt: "Importantes áreas de cultivo agrícola perto de Tessenei.", fr: "Importantes zones de culture agricole près de Tessenei."},
     facts: {
       de: ["Günstiges Bewässerungssystem", "Wirtschaftszentrum"],
@@ -573,7 +566,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-SK",
     coords: [39.48, 15.55],
     name: { de: "Arkiko Fischereizentrum", hu: "Arkiko halászati központ", ro: "Centru de pescuit Arkiko", en: "Arkiko fishery center"},
-    image: "/poi-images/arkiko-fishery-center-life-v2.webp",
     description: { de: "Zentrum für lokale Fischerei und Verarbeitung.", hu: "Helyi halászati és feldolgozó központ.", ro: "Centru pentru pescuit local și procesare.", en: "Center for local fishing and processing." , es: "Centro de pesca y procesamiento local.", pt: "Centro de pesca local e processamento.", fr: "Centre de pêche et de transformation locale."},
     facts: {
       de: ["Frischer Fang", "Traditionelle Fangmethoden"],
@@ -654,7 +646,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-SK",
     coords: [39.42, 15.65],
     name: { de: "Hargigo Gartenbauzone", hu: "Hargigo kertészeti zóna", ro: "Zonă horticolă Hargigo", en: "Hargigo horticultural zone"},
-    image: "/poi-images/hargigo-horticulture-life-v2.webp",
     description: { de: "Gemüse- und Gartenbau in der Nähe von Hargigo.", hu: "Zöldség- és kertészet Hargigo közelében.", ro: "Legumicultură și horticultură lângă Hargigo.", en: "Vegetable and horticultural farming near Hargigo." , es: "Horticultura y cultivos de hortalizas cerca de Hargigo.", pt: "Horticultura e cultivo de legumes perto de Hargigo.", fr: "Culture maraîchère et horticulture près de Hargigo."},
     facts: {
       de: ["Lokale Marktversorgung", "Gewächshäuser"],
@@ -690,7 +681,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-MA",
     coords: [38.90, 15.35],
     name: { de: "Asmara botanischer Forschungsgarten", hu: "Aszmara botanikai kutatókert", ro: "Grădină botanică de cercetare Asmara", en: "Asmara botanical research garden"},
-    image: "/poi-images/asmara-research-garden-life-v2.webp",
     description: { de: "Forschungseinrichtung für heimische Pflanzen.", hu: "Kutatóintézet őshonos növények számára.", ro: "Unitate de cercetare pentru plante native.", en: "Research facility for native plants." , es: "Centro de investigación para plantas autóctonas.", pt: "Instalação de investigação para plantas nativas.", fr: "Établissement de recherche sur les plantes indigènes."},
     facts: {
       de: ["Artenvielfalt", "Bildungszwecke"],
@@ -726,7 +716,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-GB",
     coords: [37.58, 15.11],
     name: { de: "Barentu Kinder-Erlebnispark", hu: "Barentu gyermek élménypark", ro: "Parc de aventură pentru copii Barentu", en: "Barentu children's adventure park"},
-    image: "/poi-images/barentu-children-park-life-v2.webp",
     description: { de: "Spielplatz in Barentu für alle Altersgruppen.", hu: "Játszótér Barentu-ban minden korosztálynak.", ro: "Loc de joacă în Barentu pentru toate vârstele.", en: "Playground in Barentu for all ages." , es: "Parque infantil en Barentu para todas las edades.", pt: "Parque infantil em Barentu para todas as idades.", fr: "Parc d'attractions pour enfants à Barentu pour tous les âges."},
     facts: {
       de: ["Beliebter Treffpunkt", "Bunte Spielgeräte"],
@@ -762,7 +751,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-SK",
     coords: [39.05, 15.48],
     name: { de: "Ginda Obstgarten", hu: "Ginda gyümölcsöskert", ro: "Livada Ginda", en: "Ginda orchard"},
-    image: "/poi-images/ginda-orchard-life-v2.webp",
     description: { de: "Obstgarten für den lokalen Bedarf.", hu: "Gyümölcsöskert helyi igényekre.", ro: "Livadă pentru necesitățile locale.", en: "Orchard for local needs." , es: "Huerto frutal para las necesidades locales.", pt: "Pomar para consumo local.", fr: "Verger pour les besoins locaux."},
     facts: {
       de: ["Zitrusfrüchte", "Saisonaler Anbau"],
@@ -798,7 +786,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-AN",
     coords: [38.35, 15.92],
     name: { de: "Senhit Weide-Schutzzone", hu: "Senhit legelővédelmi zóna", ro: "Zonă de protecție a pășunilor Senhit", en: "Senhit pasture protection zone"},
-    image: "/poi-images/senhit-pastures-life-v2.webp",
     description: { de: "Geschützte Weidefläche in Senhit.", hu: "Védett legelőterület Senhitben.", ro: "Zonă de pășunat protejată în Senhit.", en: "Protected grazing area in Senhit." , es: "Zona protegida de pastoreo en Senhit.", pt: "Zona de pastagem protegida em Senhit.", fr: "Zone de pâturage protégée à Senhit."},
     facts: {
       de: ["Nachhaltige Beweidung", "Bodenfruchtbarkeit"],
@@ -834,7 +821,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-SK",
     coords: [39.46, 15.62],
     name: { de: "Massaua Meer-Erlebnispark", hu: "Massawa tengeri élménypark", ro: "Parc marin Massawa", en: "Massawa marine theme park"},
-    image: "/poi-images/massawa-marine-park-life-v2.webp",
     description: { de: "Park mit Meeresbezug für Kinder.", hu: "Tengeri témájú park gyerekeknek.", ro: "Parc cu tematică marină pentru copii.", en: "Park with a marine theme for kids." , es: "Parque temático marino para niños.", pt: "Parque temático marinho para crianças.", fr: "Parc à thème marin pour les enfants."},
     facts: {
       de: ["Interaktive Stationen", "Strandzugang"],
@@ -870,7 +856,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-GB",
     coords: [37.30, 15.30],
     name: { de: "Gash-Barka Getreideanbau", hu: "Gash-Barka gabonatermesztés", ro: "Cultivarea cerealelor Gash-Barka", en: "Gash-Barka grain cultivation"},
-    image: "/poi-images/gash-barka-grain-life-v2.webp",
     description: { de: "Großflächiger Getreideanbau in Gash-Barka.", hu: "Nagy kiterjedésű gabonatermesztés Gash-Barka régióban.", ro: "Cultivare pe scară largă a cerealelor în Gash-Barka.", en: "Large-scale grain farming in Gash-Barka." , es: "Cultivo de cereales a gran escala en Gash-Barka.", pt: "Cultivo de cereais em larga escala em Gash-Barka.", fr: "Cultures céréalières à grande échelle à Gash-Barka."},
     facts: {
       de: ["Hauptanbaugebiet", "Moderne Landmaschinen"],
@@ -906,7 +891,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-DU",
     coords: [39.15, 15.05],
     name: { de: "Dekemhare Obstplantagen", hu: "Dekemhare gyümölcsösök", ro: "Livezi Dekemhare", en: "Dekemhare fruit orchards"},
-    image: "/poi-images/dekemhare-orchards-life-v2.webp",
     description: { de: "Obstplantagen in der Region Dekemhare.", hu: "Gyümölcsösök Dekemhare régióban.", ro: "Livezi în regiunea Dekemhare.", en: "Fruit orchards in the Dekemhare region." , es: "Plantaciones de frutales en la región de Dekemhare.", pt: "Plantações de árvores de fruto na região de Dekemhare.", fr: "Vergers dans la région de Dekemhare."},
     facts: {
       de: ["Qualitätsobst", "Lokaler Export"],
@@ -987,7 +971,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-MA",
     coords: [38.92, 15.32],
     name: { de: "Asmara Grüngürtel", hu: "Aszmara zöldövezet", ro: "Centura verde Asmara", en: "Asmara green belt"},
-    image: "/poi-images/asmara-green-belt-life-v2.webp",
     description: { de: "Eine grüne Zone um Asmara, die Lebensraum für lokale Vögel bietet.", hu: "Zöldövezet Aszmara körül, élőhely helyi madaraknak.", ro: "O zonă verde în jurul Asmara care oferă habitat pentru păsările locale.", en: "A green zone around Asmara providing habitat for local birds." , es: "Una zona verde alrededor de Asmara que ofrece hábitat para aves locales.", pt: "Uma zona verde em redor de Asmara que oferece habitat para aves locais.", fr: "Une zone verte autour d'Asmara offrant un habitat pour les oiseaux locaux."},
     facts: {
       de: ["Luftreinigung", "Urbaner Lebensraum"],
@@ -1068,7 +1051,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-SK",
     coords: [39.09, 15.46],
     name: { de: "Ghinda Gemeinschaftsgarten", hu: "Ghinda közösségi kert", ro: "Grădină comunitară Ghinda", en: "Ghinda community garden"},
-    image: "/poi-images/ghinda-community-garden-life-v2.webp",
     description: { de: "Ein Garten, der von der lokalen Gemeinschaft gepflegt wird.", hu: "Közösségi kert, amelyet a helyiek tartanak fenn.", ro: "O grădină îngrijită de comunitatea locală.", en: "A garden maintained by the local community." , es: "Un jardín mantenido por la comunidad local para el autoabastecimiento.", pt: "Um jardim mantido pela comunidade local para auto-subsistência.", fr: "Un jardin entretenu par la communauté locale pour l'autosuffisance."},
     facts: {
       de: ["Bildungsprojekt", "Bio-Produkte"],
@@ -1104,7 +1086,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-SK",
     coords: [39.44, 15.58],
     name: { de: "Massaua Dattelpalmenhain", hu: "Massawa datolyapálma liget", ro: "Crâng de curmali Massawa", en: "Massawa date palm grove"},
-    image: "/poi-images/massawa-palm-grove-life-v2.webp",
     description: { de: "Dattelpalmenanbau nahe der Küste.", hu: "Datolyapálma termesztés a part közelében.", ro: "Cultivarea palmierilor de curmale lângă coastă.", en: "Date palm farming near the coast." , es: "Cultivo de palmeras datileras cerca de la costa.", pt: "Cultivo de tamareiras perto da costa.", fr: "Culture de palmiers-dattiers près de la côte."},
     facts: {
       de: ["Traditionelle Ernte", "Schattenreiche Zone"],
@@ -1140,7 +1121,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-AN",
     coords: [38.32, 15.88],
     name: { de: "Senhit Agrarknotenpunkt", hu: "Senhit mezőgazdasági csomópont", ro: "Hub agricol Senhit", en: "Senhit agricultural hub"},
-    image: "/poi-images/senhit-agri-hub-life-v2.webp",
     description: { de: "Zentrale Sammelstelle für landwirtschaftliche Produkte.", hu: "Központi gyűjtőhely mezőgazdasági termékeknek.", ro: "Centru de colectare pentru produse agricole.", en: "Central collection point for agricultural products." , es: "Punto central de recogida de productos agrícolas.", pt: "Ponto central de coleta de produtos agrícolas.", fr: "Point de collecte central pour les produits agricoles."},
     facts: {
       de: ["Marktlogistik", "Qualitätskontrolle"],
@@ -1176,7 +1156,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-MA",
     coords: [38.95, 15.30],
     name: { de: "Asmara Naturpark", hu: "Aszmara natúrpark", ro: "Parc natural Asmara", en: "Asmara nature park"},
-    image: "/poi-images/asmara-nature-park-life-v2.webp",
     description: { de: "Ein Park, der den Schutz lokaler Arten fördert.", hu: "Park, amely segíti a helyi fajok védelmét.", ro: "Un parc care promovează protejarea speciilor locale.", en: "A park promoting the protection of local species." , es: "Un parque que promueve la protección de las especies locales.", pt: "Um parque que promove a proteção das espécies locais.", fr: "Un parc qui encourage la protection des espèces locales."},
     facts: {
       de: ["Wanderwege", "Beobachtungspunkte"],
@@ -1212,7 +1191,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-SK",
     coords: [39.07, 15.47],
     name: { de: "Ginda Abenteuerspielplatz", hu: "Ginda kalandjátszótér", ro: "Loc de joacă de aventură Ginda", en: "Ginda adventure playground"},
-    image: "/poi-images/ginda-playground-life-v2.webp",
     description: { de: "Spielplatz mit Abenteuerelementen für Kinder.", hu: "Kalandjátszótér gyerekeknek.", ro: "Loc de joacă cu elemente de aventură pentru copii.", en: "Playground with adventure elements for kids." , es: "Parque infantil con elementos de aventura para niños.", pt: "Parque infantil com elementos de aventura para crianças.", fr: "Aire de jeux avec des éléments d'aventure pour les enfants."},
     facts: {
       de: ["Beliebtes Ziel", "Sicheres Design"],
@@ -1248,7 +1226,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-GB",
     coords: [37.40, 15.15],
     name: { de: "Gash-Barka Weidegebiet", hu: "Gash-Barka legelővidék", ro: "Pășuni Gash-Barka", en: "Gash-Barka grazing area"},
-    image: "/poi-images/gash-barka-grazing-life-v2.webp",
     description: { de: "Weidefläche für nomadische Herden.", hu: "Legelőterület nomád állatcsordák számára.", ro: "Arie de pășunat pentru turme nomade.", en: "Grazing area for nomadic herds." , es: "Zona de pastoreo para rebaños nómadas.", pt: "Área de pastagem para rebanhos nómadas.", fr: "Zone de pâturage pour les troupeaux nomades."},
     facts: {
       de: ["Traditionelle Viehhaltung", "Wüstenrandzone"],
@@ -1284,7 +1261,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-GB",
     coords: [36.70, 15.08],
     name: { de: "Tessenei Obstplantagen", hu: "Tessenei gyümölcsösök", ro: "Livezi Tessenei", en: "Tessenei fruit orchards"},
-    image: "/poi-images/tessenei-orchards-life-v2.webp",
     description: { de: "Obstplantagen zur Versorgung des Marktes.", hu: "Gyümölcsösök a piac ellátására.", ro: "Livezi pentru aprovizionarea pieței.", en: "Fruit orchards to supply the market." , es: "Huertos frutales para abastecer al mercado.", pt: "Pomares de frutas para abastecer o mercado.", fr: "Vergers de fruits pour l'approvisionnement du marché."},
     facts: {
       de: ["Lokal gehandelt", "Saisonale Ernte"],
@@ -1365,7 +1341,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-MA",
     coords: [38.94, 15.34],
     name: { de: "Asmara Jugend- und Kinderzentrum", hu: "Aszmara Ifjúsági és Gyermekközpont", ro: "Centru de tineret și copii Asmara", en: "Asmara youth and children center"},
-    image: "/poi-images/asmara-children-center-life-v2.webp",
     description: { de: "Zentrum für kulturelle und sportliche Aktivitäten für Kinder.", hu: "Kulturális és sporttevékenységek központja gyerekeknek.", ro: "Centru pentru activități culturale și sportive pentru copii.", en: "Center for cultural and sports activities for children." , es: "Centro de actividades culturales y deportivas para niños.", pt: "Centro de atividades culturais e desportivas para crianças.", fr: "Centre d'activités culturelles et sportives pour les enfants."},
     facts: {
       de: ["Sportangebote", "Kreativ-Workshops"],
@@ -1401,7 +1376,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-AN",
     coords: [38.33, 15.95],
     name: { de: "Senhit Wildtierschutzgebiet", hu: "Senhit vadvédelmi terület", ro: "Rezervație pentru animale sălbatice Senhit", en: "Senhit wildlife sanctuary"},
-    image: "/poi-images/senhit-animal-sanctuary-life-v2.webp",
     description: { de: "Ein Schutzgebiet für einheimische Tierarten.", hu: "Védett terület őshonos állatoknak.", ro: "O rezervație pentru specii locale de animale.", en: "A protected area for local animal species." , es: "Un área protegida para especies animales nativas.", pt: "Uma área protegida para espécies animais nativas.", fr: "Une zone protégée pour les espèces animales indigènes."},
     facts: {
       de: ["Artenschutz", "Ökologische Bildung"],
@@ -1437,7 +1411,6 @@ export const poiExtraEritreaLifeV2: POI[] = [
     parent: "ER-SK",
     coords: [39.47, 15.61],
     name: { de: "Massaua Familien-Strandspielplatz", hu: "Massawa családi strand játszótér", ro: "Loc de joacă pe plaja familială Massawa", en: "Massawa family beach playground"},
-    image: "/poi-images/massawa-beach-playground-life-v2.webp",
     description: { de: "Strand mit Spielgeräten für Kinder.", hu: "Strand játszóeszközökkel gyerekeknek.", ro: "Plajă cu echipamente de joacă pentru copii.", en: "Beach with play equipment for kids." , es: "Playa con juegos infantiles para niños.", pt: "Praia com equipamentos lúdicos para crianças.", fr: "Plage avec des équipements de jeux pour les enfants."},
     facts: {
       de: ["Sicherer Schwimmbereich", "Sandspielzeug"],

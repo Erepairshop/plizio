@@ -8,7 +8,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-NI",
     coords: [-73.287, 19.801],
     name: { de: "Fort Delpesche", hu: "Delpesche erőd", ro: "Fortul Delpesche", en: "Fort Delpesche"},
-    image: "/poi-images/fort-delpesche-history-v2.webp",
     description: { de: "Ein koloniales Fort im Nordwesten von Haiti.", hu: "Gyarmati erőd Haiti északnyugati részén.", ro: "Un fort colonial în nord-vestul statului Haiti.", en: "A colonial fort in the northwest of Haiti." , es: "Un fuerte colonial en el noroeste de Haití.", pt: "Um forte colonial no noroeste do Haiti.", fr: "Un fort colonial dans le nord-ouest d'Haïti."},
     facts: {
       de: ["Erbaut im 18. Jahrhundert", "Diente der Küstenverteidigung"],
@@ -44,7 +43,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-AR",
     coords: [-72.481, 19.123],
     name: { de: "Habitation du Caille", hu: "Habitation du Caille ültetvény", ro: "Habitation du Caille", en: "Habitation du Caille"},
-    image: "/poi-images/habitation-du-caille-history-v2.webp",
     description: { de: "Eine ehemalige Zuckerrohrplantage aus der französischen Kolonialzeit.", hu: "Egykori cukornádültetvény a francia gyarmati korszakból.", ro: "O fostă plantație de trestie de zahăr din epoca colonială franceză.", en: "A former sugarcane plantation from the French colonial era." , es: "Una antigua plantación de caña de azúcar de la época colonial francesa.", pt: "Uma antiga plantação de cana-de-açúcar da época colonial francesa.", fr: "Une ancienne plantation de canne à sucre de l'époque coloniale française."},
     facts: {
       de: ["Historisches Zuckerzentrum", "Zeugnis der Plantagenwirtschaft"],
@@ -116,7 +114,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-AR",
     coords: [-72.355, 19.301],
     name: { de: "Ruinen von Saint-Michel", hu: "Saint-Michel romjai", ro: "Ruinele Saint-Michel", en: "Saint-Michel Ruins"},
-    image: "/poi-images/ruines-de-saint-michel-history-v2.webp",
     description: { de: "Überreste einer historischen Kirche und Siedlung.", hu: "Egy történelmi templom és település maradványai.", ro: "Rămășițele unei biserici și așezări istorice.", en: "Remains of a historical church and settlement." , es: "Restos de una iglesia y asentamiento históricos.", pt: "Restos de uma igreja e assentamento históricos.", fr: "Vestiges d'une église et d'un établissement historiques."},
     facts: {
       de: ["Koloniale Kirchenarchitektur", "Wichtige archäologische Stätte"],
@@ -152,7 +149,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-OU",
     coords: [-72.315, 18.498],
     name: { de: "Fort de la Rivière Froide", hu: "Rivière Froide erőd", ro: "Fortul de la Rivière Froide", en: "Fort de la Rivière Froide"},
-    image: "/poi-images/fort-de-la-riviere-froide-history-v2.webp",
     description: { de: "Ein Verteidigungsbauwerk entlang eines historischen Handelswegs.", hu: "Védelmi építmény egy történelmi kereskedelmi útvonal mentén.", ro: "O structură defensivă de-a lungul unei rute comerciale istorice.", en: "A defensive structure along a historical trade route." , es: "Un edificio de defensa a lo largo de una ruta comercial histórica.", pt: "Um edifício de defesa ao longo de uma rota comercial histórica.", fr: "Un ouvrage défensif le long d'une route commerciale historique."},
     facts: {
       de: ["Wachposten im Tal", "Überreste aus dem 19. Jahrhundert"],
@@ -188,7 +184,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-OU",
     coords: [-72.298, 18.521],
     name: { de: "Habitation Le Clerc", hu: "Habitation Le Clerc", ro: "Habitation Le Clerc", en: "Habitation Le Clerc"},
-    image: "/poi-images/habitation-le-clerc-history-v2.webp",
     description: { de: "Ehemaliger Sitz von Pauline Bonaparte.", hu: "Pauline Bonaparte egykori székhelye.", ro: "Fosta reședință a Paulinei Bonaparte.", en: "Former residence of Pauline Bonaparte." , es: "Antigua residencia de Paulina Bonaparte.", pt: "Antiga residência de Paulina Bonaparte.", fr: "Ancien siège de Pauline Bonaparte."},
     facts: {
       de: ["Napoleonische Ära in Haiti", "Historische Villa"],
@@ -224,7 +219,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-SU",
     coords: [-73.765, 18.255],
     name: { de: "Fort de la Presqu'île", hu: "Presqu'île erőd", ro: "Fortul de la Presqu'île", en: "Fort de la Presqu'île"},
-    image: "/poi-images/fort-de-la-presquile-sud-history-v2.webp",
     description: { de: "Küstenerdwerk zur Seeverteidigung.", hu: "Tengeri védelemre szolgáló parti erődítmény.", ro: "Fortificație costieră pentru apărarea maritimă.", en: "Coastal earthwork for maritime defense." , es: "Obra de tierra costera para la defensa marítima.", pt: "Obra de terra costeira para defesa marítima.", fr: "Ouvrage de terre côtier pour la défense maritime."},
     facts: {
       de: ["Strategische Küstenlage", "Schutz vor Piratenangriffen"],
@@ -260,7 +254,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-GA",
     coords: [-73.125, 19.231],
     name: { de: "Habitation des Lauriers", hu: "Habitation des Lauriers", ro: "Habitation des Lauriers", en: "Habitation des Lauriers"},
-    image: "/poi-images/habitation-des-lauriers-history-v2.webp",
     description: { de: "Historische Kaffeeplantage im Bergland.", hu: "Történelmi kávéültetvény a hegyvidéken.", ro: "Plantație istorică de cafea în zona montană.", en: "Historical coffee plantation in the mountains." , es: "Histórica plantación de café en las montañas.", pt: "Histórica plantação de café nas montanhas.", fr: "Habitation de café historique dans les montagnes."},
     facts: {
       de: ["Traditionelle Anbaumethoden", "Koloniale Architekturreste"],
@@ -296,7 +289,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-OU",
     coords: [-72.415, 18.611],
     name: { de: "Fort Drouet", hu: "Drouet erőd", ro: "Fortul Drouet", en: "Fort Drouet"},
-    image: "/poi-images/fort-drouet-v2-history-v2.webp",
     description: { de: "Ein bedeutendes Fort in den Matheux-Bergen.", hu: "Jelentős erőd a Matheux-hegységben.", ro: "Un fort semnificativ în munții Matheux.", en: "A significant fort in the Matheux Mountains." , es: "Un fuerte importante en las montañas Matheux.", pt: "Um forte importante nas montanhas Matheux.", fr: "Un fort important dans les montagnes des Matheux."},
     facts: {
       de: ["Teil des Verteidigungssystems", "Baujahr um 1802"],
@@ -368,7 +360,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-NI",
     coords: [-73.311, 19.822],
     name: { de: "Fort de la Poudrière", hu: "Poudrière erőd", ro: "Fortul de la Poudrière", en: "Fort de la Poudrière"},
-    image: "/poi-images/fort-de-la-poudriere-history-v2.webp",
     description: { de: "Historisches Pulvermagazin aus der Kolonialzeit.", hu: "Történelmi lőporraktár a gyarmati korszakból.", ro: "Depozit istoric de praf de pușcă din epoca colonială.", en: "Historical gunpowder magazine from the colonial era." , es: "Polvorín histórico de la época colonial.", pt: "Paiol de pólvora histórico do período colonial.", fr: "Poudrière historique de l'époque coloniale."},
     facts: {
       de: ["Wichtiger Militärstandort", "Stabile Steinarchitektur"],
@@ -404,7 +395,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-NO",
     coords: [-72.222, 19.755],
     name: { de: "Aquäduktruinen", hu: "Vízvezeték-romok", ro: "Ruinele apeductului", en: "Aqueduct Ruins"},
-    image: "/poi-images/ruines-de-l-aqueduc-history-v2.webp",
     description: { de: "Überreste eines Wasserversorgungssystems für Plantagen.", hu: "Ültetvényeket ellátó vízvezeték-rendszer maradványai.", ro: "Rămășițele unui sistem de alimentare cu apă pentru plantații.", en: "Remains of a water supply system for plantations." , es: "Restos de un sistema de suministro de agua para plantaciones.", pt: "Restos de um sistema de abastecimento de água para plantações.", fr: "Vestiges d'un système d'approvisionnement en eau pour les plantations."},
     facts: {
       de: ["Koloniale Ingenieurskunst", "Lange Kanäle"],
@@ -440,7 +430,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-NO",
     coords: [-72.245, 19.689],
     name: { de: "Fort de la Grand Rivière", hu: "Grand Rivière erőd", ro: "Fortul de la Grand Rivière", en: "Fort de la Grand Rivière"},
-    image: "/poi-images/fort-du-grand-riviere-history-v2.webp",
     description: { de: "Ehemaliges Bollwerk im Norden von Haiti.", hu: "Egykori bástya Haiti északi részén.", ro: "Fost bastion în nordul statului Haiti.", en: "Former bastion in the north of Haiti." , es: "Antiguo baluarte en el norte de Haití.", pt: "Antigo baluarte no norte do Haiti.", fr: "Ancien bastion dans le nord d'Haïti."},
     facts: {
       de: ["Historische Grenzfestung", "Strategische Lage"],
@@ -476,7 +465,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-GA",
     coords: [-73.155, 19.301],
     name: { de: "Habitation Sylvain", hu: "Habitation Sylvain", ro: "Habitation Sylvain", en: "Habitation Sylvain"},
-    image: "/poi-images/habitation-sylvain-history-v2.webp",
     description: { de: "Eine alte Plantage in den Bergen.", hu: "Régi ültetvény a hegyekben.", ro: "O veche plantație în munți.", en: "An old plantation in the mountains." , es: "Una antigua plantación en las montañas.", pt: "Uma antiga plantação nas montanhas.", fr: "Une ancienne plantation dans les montagnes."},
     facts: {
       de: ["Historische Kaffeeproduktion", "Wichtiger Kulturstandort"],
@@ -512,7 +500,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-NO",
     coords: [-72.188, 19.761],
     name: { de: "Fort Saint-Michel", hu: "Saint-Michel erőd", ro: "Fortul Saint-Michel", en: "Fort Saint-Michel"},
-    image: "/poi-images/fort-saint-michel-history-v2.webp",
     description: { de: "Ein Teil der Befestigungen um Cap-Haïtien.", hu: "Cap-Haïtien körüli erődítések része.", ro: "Parte a fortificațiilor din jurul orașului Cap-Haïtien.", en: "Part of the fortifications around Cap-Haïtien." , es: "Parte de las fortificaciones alrededor de Cabo Haitiano.", pt: "Parte das fortificações em redor de Cabo Haitiano.", fr: "Une partie des fortifications autour du Cap-Haïtien."},
     facts: {
       de: ["Verteidigung der Stadt", "Struktur aus dem späten 18. Jahrhundert"],
@@ -548,7 +535,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-OU",
     coords: [-72.311, 18.555],
     name: { de: "Habitation Mornay", hu: "Habitation Mornay", ro: "Habitation Mornay", en: "Habitation Mornay"},
-    image: "/poi-images/habitation-mornay-history-v2.webp",
     description: { de: "Ehemaliges Anwesen in der Nähe der Hauptstadt.", hu: "Egykori birtok a főváros közelében.", ro: "Fostă proprietate în apropierea capitalei.", en: "Former estate near the capital." , es: "Antigua finca cerca de la capital.", pt: "Antiga propriedade perto da capital.", fr: "Ancien domaine situé à proximité de la capitale."},
     facts: {
       de: ["Historischer Landsitz", "Koloniales Erbe"],
@@ -584,7 +570,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-SU",
     coords: [-73.911, 18.155],
     name: { de: "Fort des Anglais", hu: "Anglais erőd", ro: "Fortul des Anglais", en: "Fort des Anglais"},
-    image: "/poi-images/fort-des-anglais-history-v2.webp",
     description: { de: "Historische Befestigung im Südwesten.", hu: "Történelmi erődítés délnyugaton.", ro: "Fortificație istorică în sud-vest.", en: "Historical fortification in the southwest." , es: "Fortificación histórica en el suroeste.", pt: "Fortificação histórica no sudoeste.", fr: "Fortification historique dans le sud-ouest."},
     facts: {
       de: ["Schutz der Bucht", "Ruinenreste im Küstenbereich"],
@@ -620,7 +605,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-NO",
     coords: [-72.245, 19.577],
     name: { de: "Habitation La Ferrière", hu: "Habitation La Ferrière", ro: "Habitation La Ferrière", en: "Habitation La Ferrière"},
-    image: "/poi-images/habitation-la-ferriere-history-v2.webp",
     description: { de: "Historische Anlage unweit der Zitadelle.", hu: "Történelmi létesítmény nem messze a Citadellától.", ro: "Facilitate istorică nu departe de Citadela.", en: "Historical facility not far from the Citadel." , es: "Complejo histórico no lejos de la Ciudadela.", pt: "Complexo histórico não muito longe da Cidadela.", fr: "Site historique non loin de la Citadelle."},
     facts: {
       de: ["Wichtiger logistischer Stützpunkt", "Historisches Mauerwerk"],
@@ -656,7 +640,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-AR",
     coords: [-72.511, 19.155],
     name: { de: "Fort La Crête", hu: "La Crête erőd", ro: "Fortul La Crête", en: "Fort La Crête"},
-    image: "/poi-images/fort-la-crete-history-v2.webp",
     description: { de: "Bedeutendes historisches Verteidigungswerk.", hu: "Jelentős történelmi védmű.", ro: "Structură defensivă istorică semnificativă.", en: "Significant historical defensive structure." , es: "Importante obra de defensa histórica.", pt: "Importante obra de defesa histórica.", fr: "Ouvrage de défense historique important."},
     facts: {
       de: ["Schlüssel zur Verteidigung", "Im Unabhängigkeitskrieg genutzt"],
@@ -692,7 +675,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-GA",
     coords: [-73.055, 19.388],
     name: { de: "Habitation Bellevue", hu: "Habitation Bellevue", ro: "Habitation Bellevue", en: "Habitation Bellevue"},
-    image: "/poi-images/habitation-bellevue-history-v2.webp",
     description: { de: "Ehemalige Kaffeeplantage mit Panoramablick.", hu: "Egykori kávéültetvény panorámás kilátással.", ro: "Fostă plantație de cafea cu vedere panoramică.", en: "Former coffee plantation with panoramic view." , es: "Antigua plantación de café con vistas panorámicas.", pt: "Antiga plantação de café com vistas panorâmicas.", fr: "Ancienne plantation de café avec vue panoramique."},
     facts: {
       de: ["Historisches Haupthaus", "Viel Kaffeeanbau"],
@@ -728,7 +710,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-OU",
     coords: [-72.333, 18.577],
     name: { de: "Fort Moulin", hu: "Moulin erőd", ro: "Fortul Moulin", en: "Fort Moulin"},
-    image: "/poi-images/fort-moulin-history-v2.webp",
     description: { de: "Verteidigungsanlage nahe der Küste.", hu: "Partközeli védelmi létesítmény.", ro: "Instalație defensivă lângă coastă.", en: "Defensive structure near the coast." , es: "Instalación defensiva situada cerca de la costa.", pt: "Instalação defensiva situada perto da costa.", fr: "Installation défensive située près de la côte."},
     facts: {
       de: ["Historische Küstensicherung", "Bauweise aus Stein"],
@@ -764,7 +745,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-GA",
     coords: [-73.188, 19.255],
     name: { de: "Habitation des Laurier-Bas", hu: "Habitation des Laurier-Bas", ro: "Habitation des Laurier-Bas", en: "Habitation des Laurier-Bas"},
-    image: "/poi-images/habitation-des-laurier-bas-history-v2.webp",
     description: { de: "Ländlicher Landsitz aus dem 19. Jahrhundert.", hu: "19. századi vidéki birtok.", ro: "Reședință rurală din secolul al XIX-lea.", en: "Rural estate from the 19th century." , es: "Residencia rural del siglo XIX.", pt: "Residência rural do século XIX.", fr: "Maison de campagne rurale du XIXe siècle."},
     facts: {
       de: ["Historische landwirtschaftliche Nutzung", "Guterhaltene Grundmauern"],
@@ -836,7 +816,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-NI",
     coords: [-73.255, 19.788],
     name: { de: "Habitation Saint-Jean", hu: "Habitation Saint-Jean", ro: "Habitation Saint-Jean", en: "Habitation Saint-Jean"},
-    image: "/poi-images/habitation-saint-jean-history-v2.webp",
     description: { de: "Alte Zuckerrohrplantage im Norden.", hu: "Régi cukornádültetvény északon.", ro: "O veche plantație de trestie de zahăr în nord.", en: "Old sugarcane plantation in the north." , es: "Antigua plantación de caña de azúcar en el norte.", pt: "Antiga plantação de cana-de-açúcar no norte.", fr: "Ancienne plantation de canne à sucre dans le Nord."},
     facts: {
       de: ["Historische Produktionsstätte", "Kolonialer Charme"],
@@ -872,7 +851,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-GA",
     coords: [-73.111, 19.299],
     name: { de: "Fort Bambou", hu: "Bambou erőd", ro: "Fortul Bambou", en: "Fort Bambou"},
-    image: "/poi-images/fort-bambou-history-v2.webp",
     description: { de: "Ein kleines historisches Verteidigungsfort.", hu: "Egy kis történelmi védelmi erőd.", ro: "Un mic fort istoric de apărare.", en: "A small historical defensive fort." , es: "Un pequeño fuerte defensivo histórico.", pt: "Um pequeno forte defensivo histórico.", fr: "Un petit fort de défense historique."},
     facts: {
       de: ["Historischer Außenposten", "Versteckte Lage in den Bergen"],
@@ -908,7 +886,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-NO",
     coords: [-72.222, 19.799],
     name: { de: "Habitation du Nord", hu: "Habitation du Nord", ro: "Habitation du Nord", en: "Habitation du Nord"},
-    image: "/poi-images/habitation-du-nord-history-v2.webp",
     description: { de: "Großes kolonialzeitliches Anwesen.", hu: "Nagy gyarmati korszakbeli birtok.", ro: "Mare proprietate din epoca colonială.", en: "Large estate from the colonial era." , es: "Gran propiedad de la época colonial.", pt: "Grande propriedade da época colonial.", fr: "Grand domaine de l'époque coloniale."},
     facts: {
       de: ["Zentrum der Zuckerindustrie", "Historische Anlage"],
@@ -944,7 +921,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-NO",
     coords: [-72.055, 19.811],
     name: { de: "Fort des Trois Baies", hu: "Trois Baies erőd", ro: "Fortul des Trois Baies", en: "Fort des Trois Baies"},
-    image: "/poi-images/fort-des-trois-baies-history-v2.webp",
     description: { de: "Küstenfestung an der Nordküste.", hu: "Parti erőd az északi parton.", ro: "Fortăreață costieră pe coasta de nord.", en: "Coastal fortress on the north coast." , es: "Fortaleza costera en la costa norte.", pt: "Fortaleza costeira na costa norte.", fr: "Forteresse côtière sur la côte nord."},
     facts: {
       de: ["Schutz vor Übergriffen", "18. Jahrhundert"],
@@ -980,7 +956,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-AR",
     coords: [-72.488, 19.233],
     name: { de: "Habitation Le Vieux", hu: "Habitation Le Vieux", ro: "Habitation Le Vieux", en: "Habitation Le Vieux"},
-    image: "/poi-images/habitation-le-vieux-history-v2.webp",
     description: { de: "Historische Anlage aus der französischen Ära.", hu: "Történelmi létesítmény a francia korszakból.", ro: "Facilitate istorică din epoca franceză.", en: "Historical facility from the French era." , es: "Sitio histórico de la época colonial francesa.", pt: "Sítio histórico da era colonial francesa.", fr: "Site historique datant de l'époque française."},
     facts: {
       de: ["Historische landwirtschaftliche Nutzung", "Architektonisches Erbe"],
@@ -1016,7 +991,6 @@ export const poiExtraHaitiHistoryV2: POI[] = [
     parent: "HT-CE",
     coords: [-71.955, 19.122],
     name: { de: "Fort de la Presqu'île Est", hu: "Keleti Presqu'île erőd", ro: "Fortul de la Presqu'île Est", en: "Fort de la Presqu'île Est"},
-    image: "/poi-images/fort-de-la-presquile-est-history-v2.webp",
     description: { de: "Ostseitige Verteidigungsanlage.", hu: "Keleti védmű.", ro: "Structură defensivă pe partea estică.", en: "Defensive structure on the east side." , es: "Instalación defensiva en el lado este.", pt: "Instalação defensiva no lado leste.", fr: "Installation défensive du côté est."},
     facts: {
       de: ["Grenzsicherung", "Historische Militäranlage"],

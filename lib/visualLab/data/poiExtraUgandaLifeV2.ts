@@ -8,7 +8,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-TO",
     coords: [29.9333, -0.2167],
     name: { de: "Queen-Elizabeth-Nationalpark", hu: "Queen Elizabeth Nemzeti Park", ro: "Parcul Național Queen Elizabeth", en: "Queen Elizabeth National Park"},
-    image: "/poi-images/queen-elizabeth-park-life-v2.webp",
     description: { de: "Ein bedeutendes Wildtiergebiet mit Löwen und Elefanten.", hu: "Jelentős vadrezervátum oroszlánokkal és elefántokkal.", ro: "O arie protejată importantă cu lei și elefanți.", en: "A significant wildlife area with lions and elephants." , es: "Un importante territorio de vida silvestre con leones y elefantes.", pt: "Um importante território de vida selvagem com leões e elefantes.", fr: "Un important territoire de vie sauvage abritant des lions et des éléphants."},
     facts: {
       de: ["Heimat der berühmten kletternden Löwen.", "Bietet Bootsfahrten auf dem Kazinga-Kanal."],
@@ -161,7 +160,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-BU",
     coords: [31.6833, 2.275],
     name: { de: "Murchison-Falls-Nationalpark", hu: "Murchison-vízesés Nemzeti Park", ro: "Parcul Național Murchison Falls", en: "Murchison Falls National Park"},
-    image: "/poi-images/murchison-falls-life-v2.webp",
     description: { de: "Ugandas größter Nationalpark mit spektakulären Wasserfällen.", hu: "Uganda legnagyobb nemzeti parkja látványos vízesésekkel.", ro: "Cel mai mare parc național din Uganda cu cascade spectaculoase.", en: "Uganda's largest national park with spectacular waterfalls." , es: "El parque nacional más grande de Uganda con unas cascadas espectaculares.", pt: "O maior parque nacional de Uganda com cachoeiras espetaculares.", fr: "Le plus grand parc national d'Ouganda avec des chutes d'eau spectaculaires."},
     facts: {
       de: ["Der Nil zwängt sich hier durch eine enge Schlucht.", "Beheimatet viele Flusspferde und Krokodile."],
@@ -197,7 +195,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-KO",
     coords: [30.342, 0.491],
     name: { de: "Kibale-Forest-Nationalpark", hu: "Kibale Forest Nemzeti Park", ro: "Parcul Național Kibale Forest", en: "Kibale Forest National Park"},
-    image: "/poi-images/kibale-forest-life-v2.webp",
     description: { de: "Weltberühmt für die höchste Dichte an Primaten.", hu: "Világhírű a főemlősök legmagasabb sűrűségéről.", ro: "Faimos pentru cea mai mare densitate de primate.", en: "World-famous for having the highest density of primates." , es: "Famoso mundialmente por su alta densidad de primates.", pt: "Famoso mundialmente pela sua alta densidade de primatas.", fr: "Célèbre mondialement pour sa haute densité de primates."},
     facts: {
       de: ["Ein Hotspot für Schimpansen-Tracking.", "Mehr als 1.500 Schimpansen leben hier."],
@@ -233,7 +230,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-KS",
     coords: [29.6833, -1.0333],
     name: { de: "Bwindi-Impenetrable-Nationalpark", hu: "Bwindi Impenetrable Nemzeti Park", ro: "Parcul Național Bwindi Impenetrable", en: "Bwindi Impenetrable National Park"},
-    image: "/poi-images/bwindi-impenetrable-life-v2.webp",
     description: { de: "Ein UNESCO-Welterbe und Zufluchtsort für Berggorillas.", hu: "UNESCO világörökségi helyszín és a hegyi gorillák menedéke.", ro: "Un sit al patrimoniului UNESCO și refugiu pentru gorilele de munte.", en: "A UNESCO World Heritage site and sanctuary for mountain gorillas." , es: "Patrimonio de la Humanidad de la UNESCO y refugio de gorilas de montaña.", pt: "Património Mundial da UNESCO e refúgio de gorilas das montanhas.", fr: "Patrimoine mondial de l'UNESCO et refuge pour les gorilles de montagne."},
     facts: {
       de: ["Beherbergt etwa die Hälfte der weltweiten Berggorilla-Population.", "Extrem dichter Bergregenwald."],
@@ -530,7 +526,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-KI",
     coords: [30.9333, -0.6],
     name: { de: "Lake-Mburo-Nationalpark", hu: "Lake Mburo Nemzeti Park", ro: "Parcul Național Lake Mburo", en: "Lake Mburo National Park"},
-    image: "/poi-images/lake-mburo-life-v2.webp",
     description: { de: "Ein kleiner Park bekannt für seine vielen Antilopenarten.", hu: "Egy kisebb park, amely sok antilopfajáról ismert.", ro: "Un parc mai mic cunoscut pentru numeroasele specii de antilope.", en: "A smaller park known for its many antelope species." , es: "Un pequeño parque conocido por sus numerosas especies de antílopes.", pt: "Um pequeno parque conhecido pelas suas numerosas espécies de antílopes.", fr: "Un petit parc connu pour ses nombreuses espèces d'antilopes."},
     facts: {
       de: ["Einziger Park mit Zebras in großer Zahl im Südwesten.", "Bekannt für Walking-Safaris."],
@@ -647,7 +642,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-KA",
     coords: [33.7833, 3.7333],
     name: { de: "Kidepo-Valley-Nationalpark", hu: "Kidepo Valley Nemzeti Park", ro: "Parcul Național Kidepo Valley", en: "Kidepo Valley National Park"},
-    image: "/poi-images/kidepo-valley-life-v2.webp",
     description: { de: "Ein abgelegener und ursprünglicher Nationalpark.", hu: "Egy távoli és érintetlen nemzeti park.", ro: "Un parc național izolat și virgin.", en: "A remote and unspoiled national park." , es: "Un parque nacional remoto y virgen.", pt: "Um parque nacional remoto e intocado.", fr: "Un parc national éloigné et sauvage."},
     facts: {
       de: ["Wilde Landschaften mit vielen Geparden.", "Einer der besten Orte für die Tierbeobachtung."],
@@ -764,7 +758,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-KI",
     coords: [32.65, 0.05],
     name: { de: "Ngamba-Insel-Schimpansen-Reservat", hu: "Ngamba-szigeti Csimpánz Rezervátum", ro: "Rezervația de Cimpanzei de pe Insula Ngamba", en: "Ngamba Island Chimpanzee Sanctuary"},
-    image: "/poi-images/ngamba-island-life-v2.webp",
     description: { de: "Ein Schutzgebiet für gerettete Schimpansen.", hu: "Védett terület a megmentett csimpánzok számára.", ro: "O arie protejată pentru cimpanzeii salvați.", en: "A sanctuary for rescued chimpanzees." , es: "Un refugio para chimpancés rescatados.", pt: "Um refúgio para chimpanzés resgatados.", fr: "Un refuge pour les chimpanzés secourus."},
     facts: {
       de: ["Liegt im Victoriasee.", "Die Tiere werden hier rehabilitiert."],
@@ -800,7 +793,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-NA",
     coords: [32.06, 1.33],
     name: { de: "Ziwa-Nashorn-Schutzgebiet", hu: "Ziwa Orrszarvú Rezervátum", ro: "Rezervația de Rinoceri Ziwa", en: "Ziwa Rhino Sanctuary"},
-    image: "/poi-images/ziwa-rhino-life-v2.webp",
     description: { de: "Der einzige Ort in Uganda, wo Nashörner gezüchtet werden.", hu: "Az egyetlen hely Ugandában, ahol orrszarvúkat tenyésztenek.", ro: "Singurul loc din Uganda unde rinocerii sunt crescuți.", en: "The only place in Uganda where rhinos are bred." , es: "El único lugar en Uganda donde se crían rinocerontes.", pt: "O único lugar no Uganda onde se criam rinocerontes.", fr: "Le seul endroit en Ouganda où l'on élève des rhinocéros."},
     facts: {
       de: ["Erfolgreiche Wiedereinführung der Nashörner.", "Schutz vor Wilderei."],
@@ -1061,7 +1053,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-KA",
     coords: [29.8833, 0.3833],
     name: { de: "Rwenzori-Mountains-Nationalpark", hu: "Rwenzori-hegység Nemzeti Park", ro: "Parcul Național Munții Rwenzori", en: "Rwenzori Mountains National Park"},
-    image: "/poi-images/rwenzori-mountains-life-v2.webp",
     description: { de: "Bekannt als die 'Mondberge' mit einzigartiger Flora.", hu: "A 'Hold hegyeiként' ismert, egyedülálló növényvilággal.", ro: "Cunoscuți sub numele de 'Munții Lunii', cu o floră unică.", en: "Known as the 'Mountains of the Moon' with unique flora." , es: "Conocidas como las 'Montañas de la Luna' con una flora única.", pt: "Conhecidas como as 'Montanhas da Lua' com uma flora única.", fr: "Connues sous le nom de « Montagnes de la Lune » avec une flore unique."},
     facts: {
       de: ["Gletscherbedeckte Gipfel.", "Heimat seltener Bergtierarten."],
@@ -1178,7 +1169,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-BU",
     coords: [30.1333, 0.7833],
     name: { de: "Semuliki-Nationalpark", hu: "Semuliki Nemzeti Park", ro: "Parcul Național Semuliki", en: "Semuliki National Park"},
-    image: "/poi-images/semuliki-life-v2.webp",
     description: { de: "Ein Tieflandregenwald, der zentralafrikanische Arten beherbergt.", hu: "Alföldi esőerdő, amely közép-afrikai fajoknak ad otthont.", ro: "O pădure tropicală de câmpie care găzduiește specii central-africane.", en: "A lowland rainforest that hosts Central African species." , es: "Una selva tropical de tierras bajas que alberga especies de África central.", pt: "Uma floresta tropical de terras baixas que alberga espécies da África central.", fr: "Une forêt tropicale de plaine abritant des espèces d'Afrique centrale."},
     facts: {
       de: ["Bekannt für die heißen Quellen.", "Reiche Vogelwelt."],
@@ -1219,7 +1209,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-TO",
     coords: [34.18, 0.69],
     name: { de: "Tororo-Fels", hu: "Tororo-szikla", ro: "Stânca Tororo", en: "Tororo Rock"},
-    image: "/poi-images/tororo-rock-kid-life-v2.webp",
     description: { de: "Ein markanter Felsen, der bei Familien beliebt ist.", hu: "Egy markáns szikla, amely népszerű a családok körében.", ro: "O stâncă proeminentă, populară în rândul familiilor.", en: "A prominent rock popular with families." , es: "Una formación rocosa prominente, popular entre las familias.", pt: "Uma formação rochosa proeminente, popular entre as famílias.", fr: "Une formation rocheuse proéminente, populaire auprès des familles."},
     facts: {
       de: ["Herausfordernde Klettertour.", "Tolle Aussicht auf die Stadt."],
@@ -1255,7 +1244,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-KL",
     coords: [32.57, 0.3],
     name: { de: "Uganda-Wildlife-Bildungszentrum", hu: "Ugandai Vadvédelmi Oktatóközpont", ro: "Centrul Educațional de Faună din Uganda", en: "Uganda Wildlife Education Centre"},
-    image: "/poi-images/uganda-wildlife-edu-life-v2.webp",
     description: { de: "Ein Zoo in Entebbe für Bildungszwecke.", hu: "Egy állatkert Entebbében oktatási célokra.", ro: "O grădină zoologică în Entebbe pentru educație.", en: "A zoo in Entebbe for educational purposes." , es: "Un zoológico en Entebbe con fines educativos.", pt: "Um jardim zoológico em Entebbe para fins educativos.", fr: "Un zoo à Entebbe à des fins éducatives."},
     facts: {
       de: ["Ideal für Kinder.", "Viele Tiere können aus nächster Nähe gesehen werden."],
@@ -1336,7 +1324,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-MA",
     coords: [34.4, 1.1],
     name: { de: "Kaffeeregion-Mount-Elgon", hu: "Mount Elgon Kávévidék", ro: "Regiunea de cafea Mount Elgon", en: "Mount Elgon Coffee Region"},
-    image: "/poi-images/coffee-region-elgon-life-v2.webp",
     description: { de: "Berühmt für die Produktion von hochwertigem Arabica-Kaffee.", hu: "Híres a kiváló minőségű arabica kávé termeléséről.", ro: "Faimoasă pentru producția de cafea Arabica de înaltă calitate.", en: "Famous for producing high-quality Arabica coffee." , es: "Famosa por la producción de café arábica de alta calidad.", pt: "Famosa pela produção de café arábica de alta qualidade.", fr: "Célèbre pour sa production de café arabica de haute qualité."},
     facts: {
       de: ["Günstiges Klima durch hohe Lage.", "Besuch von Kaffeefarmen möglich."],
@@ -1417,7 +1404,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-TO",
     coords: [30.2, 0.6],
     name: { de: "Teeplantagen-Tooro", hu: "Tooro Teákültetvények", ro: "Plantațiile de ceai din Tooro", en: "Tooro Tea Plantations"},
-    image: "/poi-images/tea-plantations-tooro-life-v2.webp",
     description: { de: "Wunderschöne, grüne Teeplantagen in der Region Tooro.", hu: "Gyönyörű, zöld teákültetvények Tooro régióban.", ro: "Plantații de ceai verzi, frumoase în regiunea Tooro.", en: "Beautiful, green tea plantations in the Tooro region." , es: "Hermosas y verdes plantaciones de té en la región de Tooro.", pt: "Belas e verdes plantações de chá na região de Tooro.", fr: "Belles plantations de thé verdoyantes dans la région de Tooro."},
     facts: {
       de: ["Die Region ist berühmt für die Teeernte.", "Die Felder prägen das Landschaftsbild."],
@@ -1570,7 +1556,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-BU",
     coords: [33.2, 0.45],
     name: { de: "Zuckerrohrplantagen-Jinja", hu: "Jinja Cukornádültetvények", ro: "Plantațiile de trestie de zahăr din Jinja", en: "Jinja Sugar Cane Plantations"},
-    image: "/poi-images/sugar-plantations-jinja-life-v2.webp",
     description: { de: "Großflächige Zuckerrohrfelder in der Nähe von Jinja.", hu: "Nagy kiterjedésű cukornádmezők Jinja közelében.", ro: "Câmpuri vaste de trestie de zahăr lângă Jinja.", en: "Extensive sugar cane fields near Jinja." , es: "Campos de caña de azúcar a gran escala cerca de Jinja.", pt: "Campos de cana-de-açúcar em grande escala perto de Jinja.", fr: "Champs de canne à sucre à grande échelle près de Jinja."},
     facts: {
       de: ["Wichtiger Wirtschaftsfaktor der Region.", "Die Verarbeitung findet lokal statt."],
@@ -1687,7 +1672,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-BU",
     coords: [30.25, 0.8],
     name: { de: "Kakaoplantagen", hu: "Kakaóültetvények", ro: "Plantații de cacao", en: "Cocoa Plantations"},
-    image: "/poi-images/cocoa-plantations-life-v2.webp",
     description: { de: "Wachsendes Anbaugebiet für hochwertigen Kakao.", hu: "Növekvő termőterület kiváló minőségű kakaó számára.", ro: "Zonă de cultivare în creștere pentru cacao de înaltă calitate.", en: "Growing area for high-quality cocoa." , es: "Zona de cultivo creciente de cacao de alta calidad.", pt: "Zona de cultivo crescente de cacau de alta qualidade.", fr: "Zone de culture en pleine expansion pour un cacao de haute qualité."},
     facts: {
       de: ["Das feuchte Klima ist ideal.", "Ugandischer Kakao gewinnt an Bedeutung."],
@@ -1768,7 +1752,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-KI",
     coords: [32.8, 0.1],
     name: { de: "Aquakulturen-Viktoriasee", hu: "Viktória-tavi Haltenyészet", ro: "Avacultură în lacul Victoria", en: "Lake Victoria Fish Farming"},
-    image: "/poi-images/fish-farming-lake-life-v2.webp",
     description: { de: "Moderne Fischzuchtbetriebe am Rande des Victoriasees.", hu: "Modern haltenyésztő gazdaságok a Viktória-tó partján.", ro: "Ferme moderne de pește la marginea lacului Victoria.", en: "Modern fish farming operations on the edge of Lake Victoria." , es: "Modernas piscifactorías a orillas del lago Victoria.", pt: "Pisciculturas modernas nas margens do Lago Vitória.", fr: "Fermes aquacoles modernes au bord du lac Victoria."},
     facts: {
       de: ["Tilapia ist die wichtigste Art.", "Wichtige Proteinquelle für die Bevölkerung."],
@@ -1804,7 +1787,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-LU",
     coords: [32.4, 0.6],
     name: { de: "Ananasfarmen", hu: "Ananászfarmok", ro: "Plantații de ananas", en: "Pineapple Farms"},
-    image: "/poi-images/pineapple-farms-life-v2.webp",
     description: { de: "Große Ananasplantagen, die das ganze Jahr liefern.", hu: "Nagy ananászültetvények, amelyek egész évben szállítanak.", ro: "Plantații mari de ananas care aprovizionează tot anul.", en: "Large pineapple plantations that supply year-round." , es: "Grandes plantaciones de piña que ofrecen producción durante todo el año.", pt: "Grandes plantações de abacaxi que oferecem produção durante todo o ano.", fr: "Grandes plantations d'ananas offrant une production tout au long de l'année."},
     facts: {
       de: ["Bekannt für die Süße der Früchte.", "Export in andere Regionen."],
@@ -1840,7 +1822,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-MK",
     coords: [32.2, 0.4],
     name: { de: "Vanille-Farmen", hu: "Vaníliafarmok", ro: "Plantații de vanilie", en: "Vanilla Farms"},
-    image: "/poi-images/vanilla-farms-life-v2.webp",
     description: { de: "Uganda ist ein wichtiger Produzent von Vanille.", hu: "Uganda a vanília fontos termelője.", ro: "Uganda este un producător important de vanilie.", en: "Uganda is an important producer of vanilla." , es: "Uganda es un productor importante de vainilla.", pt: "O Uganda é um produtor importante de baunilha.", fr: "L'Ouganda est un producteur important de vanille."},
     facts: {
       de: ["Aufwendige Handbestäubung erforderlich.", "Sehr wertvolles Exportprodukt."],
@@ -1948,7 +1929,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-KI",
     coords: [32.3, 0.5],
     name: { de: "Maisfelder", hu: "Kukoricaföldek", ro: "Câmpuri de porumb", en: "Maize Fields"},
-    image: "/poi-images/maize-fields-life-v2.webp",
     description: { de: "Der am weitesten verbreitete Anbau von Mais.", hu: "A legelterjedtebb kukoricatermesztés.", ro: "Cea mai răspândită cultivare a porumbului.", en: "The most widespread cultivation of maize." , es: "El cultivo de maíz más extendido.", pt: "O cultivo de milho mais difundido.", fr: "La culture de maïs la plus répandue."},
     facts: {
       de: ["Hauptnahrungsmittel in vielen Haushalten.", "Zwei Ernten pro Jahr möglich."],
@@ -1984,7 +1964,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-KS",
     coords: [29.7, -1.0],
     name: { de: "Kartoffelfarmen-Hochland", hu: "Felföldi Krumplifarmok", ro: "Ferme de cartofi în zonele înalte", en: "Highland Potato Farms"},
-    image: "/poi-images/potato-farms-life-v2.webp",
     description: { de: "Anbau von Kartoffeln in den kühlen Hochlandregionen.", hu: "Burgonyatermesztés a hűvös felföldi régiókban.", ro: "Cultivarea cartofilor în regiunile montane răcoroase.", en: "Cultivation of potatoes in the cool highland regions." , es: "Cultivo de patatas en las frescas regiones de las tierras altas.", pt: "Cultivo de batatas nas frescas regiões das terras altas.", fr: "Culture de pommes de terre dans les régions fraîches des hautes terres."},
     facts: {
       de: ["Gedeihen besonders gut im Bwindi-Gebiet.", "Wichtige Einnahmequelle."],
@@ -2020,7 +1999,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-NA",
     coords: [33.1, 1.4],
     name: { de: "Sonnenblumenfelder", hu: "Napraforgómezők", ro: "Câmpuri de floarea-soarelui", en: "Sunflower Fields"},
-    image: "/poi-images/sunflower-farms-life-v2.webp",
     description: { de: "Anbau von Sonnenblumen für die Ölproduktion.", hu: "Napraforgótermesztés olajgyártáshoz.", ro: "Cultivarea florii-soarelui pentru producția de ulei.", en: "Cultivation of sunflowers for oil production." , es: "Cultivo de girasoles para la producción de aceite.", pt: "Cultivo de girassóis para a produção de óleo.", fr: "Culture de tournesols pour la production d'huile."},
     facts: {
       de: ["Sonnenblumenöl ist ein lokales Produkt.", "Bunte Felder im Sommer."],
@@ -2101,7 +2079,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-BU",
     coords: [33.3, 0.4],
     name: { de: "Wildtierreservat-Jinja", hu: "Jinja Vadvédelmi Terület", ro: "Rezervația Jinja", en: "Jinja Wildlife Sanctuary"},
-    image: "/poi-images/chikwawa-sanctuary-life-v2.webp",
     description: { de: "Ein kleines Schutzgebiet am Nilufer.", hu: "Egy kisebb védett terület a Nílus partján.", ro: "O arie protejată mică pe malul Nilului.", en: "A small sanctuary on the banks of the Nile." , es: "Una pequeña reserva natural a orillas del Nilo.", pt: "Uma pequena reserva natural nas margens do Nilo.", fr: "Une petite réserve naturelle sur les rives du Nil."},
     facts: {
       de: ["Schutz von Wasservögeln.", "Schöne Uferlandschaft."],
@@ -2218,7 +2195,6 @@ export const poiExtraUgandaLifeV2: POI[] = [
     parent: "UG-BU",
     coords: [31.5, 1.7],
     name: { de: "Budongo-Waldreservat", hu: "Budongo Erdőrezervátum", ro: "Rezervația forestieră Budongo", en: "Budongo Forest Reserve"},
-    image: "/poi-images/budongo-forest-life-v2.webp",
     description: { de: "Ein bedeutendes Waldgebiet mit hoher Artenvielfalt.", hu: "Jelentős erdőterület nagy biológiai sokféleséggel.", ro: "O zonă forestieră importantă cu biodiversitate ridicată.", en: "A significant forest area with high biodiversity." , es: "Una importante zona forestal con gran biodiversidad.", pt: "Uma importante área florestal com grande biodiversidade.", fr: "Une zone forestière importante avec une grande biodiversité."},
     facts: {
       de: ["Viele Schimpansen.", "Beheimatet seltene Mahagonibäume."],

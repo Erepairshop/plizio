@@ -345,7 +345,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: "Al Hamra Torony",
       ro: "Turnul Al Hamra",
       en: "Al Hamra Tower"},
-    image: "/poi-images/al-hamra-tower-landmarks-v2.webp",
     description: {
       de: "Der höchste Wolkenkratzer Kuwaits mit einer markanten, asymmetrischen Form, der Büros und ein Einkaufszentrum beherbergt.",
       hu: "Kuvait legmagasabb felhőkarcolója aszimmetrikus formával, amelyben irodák és egy bevásárlóközpont kapott helyet.",
@@ -510,7 +509,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: "Nagymecset",
       ro: "Marea Moschee",
       en: "Grand Mosque"},
-    image: "/poi-images/grand-mosque-landmarks-v2.webp",
     description: {
       de: "Die größte offizielle Moschee in Kuwait, berühmt für ihre islamische Architektur, die riesige Kuppel und die aufwendigen Verzierungen.",
       hu: "Kuvait legnagyobb hivatalos mecsete, amely híres iszlám építészetéről, hatalmas kupolájáról és díszítéseiről.",
@@ -819,7 +817,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: "Felszabadulás-torony",
       ro: "Turnul Eliberării",
       en: "Liberation Tower"},
-    image: "/poi-images/liberation-tower-landmarks-v2.webp",
     description: {
       de: "Ein bedeutender Fernmeldeturm und eines der höchsten Gebäude des Landes, das die Befreiung Kuwaits symbolisiert.",
       hu: "Egy jelentős távközlési torony és az ország egyik legmagasabb épülete, amely Kuvait felszabadulását szimbolizálja.",
@@ -984,7 +981,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: "Sheikh Jaber Al-Ahmad Kulturális Központ",
       ro: "Centrul Cultural Sheikh Jaber Al-Ahmad",
       en: "Sheikh Jaber Al-Ahmad Cultural Centre"},
-    image: "/poi-images/sheikh-jaber-cultural-centre-landmarks-v2.webp",
     description: {
       de: "Ein markanter Architekturkomplex, der auch als Opernhaus von Kuwait bekannt ist und verschiedene Theater und Konzertsäle umfasst.",
       hu: "Egy feltűnő építészeti komplexum, amelyet Kuvait Operaházának is neveznek, és számos színházat és koncerttermet foglal magában.",
@@ -1149,7 +1145,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: "Sheikh Abdullah Al Salem Kulturális Központ",
       ro: "Centrul Cultural Sheikh Abdullah Al Salem",
       en: "Sheikh Abdullah Al Salem Cultural Centre"},
-    image: "/poi-images/sheikh-abdullah-cultural-centre-landmarks-v2.webp",
     description: {
       de: "Eines der größten Museumskomplexe der Welt, das Wissenschaft, Raumfahrt, Naturgeschichte und islamische Geschichte präsentiert.",
       hu: "A világ egyik legnagyobb múzeumkomplexuma, amely a tudományt, az űrkutatást, a természetrajzot és az iszlám történelmet mutatja be.",
@@ -1350,7 +1345,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: "Souq Al Mubarakiya",
       ro: "Souq Al Mubarakiya",
       en: "Souq Al Mubarakiya"},
-    image: "/poi-images/souq-al-mubarakiya-landmarks-v2.webp",
     description: {
       de: "Einer der ältesten Märkte in Kuwait, der traditionelle arabische Waren, Gewürze, Parfums und köstliches lokales Essen bietet.",
       hu: "Kuvait egyik legrégebbi piaca, amely hagyományos arab árukat, fűszereket, parfümöket és ízletes helyi ételeket kínál.",
@@ -1443,7 +1437,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: "The Avenues",
       ro: "The Avenues",
       en: "The Avenues"},
-    image: "/poi-images/the-avenues-landmarks-v2.webp",
     description: {
       de: "Das größte Einkaufszentrum in Kuwait, bekannt für sein beeindruckendes architektonisches Design und Themenbereiche.",
       hu: "Kuvait legnagyobb bevásárlóközpontja, amely lenyűgöző építészeti dizájnjáról és tematikus zónáiról ismert.",
@@ -1608,7 +1601,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: "Kuvaiti Nemzeti Múzeum",
       ro: "Muzeul Național al Kuweitului",
       en: "Kuwait National Museum"},
-    image: "/poi-images/kuwait-national-museum-landmarks-v2.webp",
     description: {
       de: "Ein bedeutendes Museum, das die Geschichte, Kultur und das archäologische Erbe Kuwaits, einschließlich der Failaka-Ausgrabungen, zeigt.",
       hu: "Egy fontos múzeum, amely Kuvait történelmét, kultúráját és régészeti örökségét mutatja be, beleértve a Failaka-ásatásokat is.",
@@ -1917,7 +1909,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: "Tudományos Központ",
       ro: "Centrul Științific",
       en: "Scientific Center"},
-    image: "/poi-images/scientific-center-landmarks-v2.webp",
     description: {
       de: "Ein beliebtes Bildungs- und Unterhaltungszentrum an der Küste mit einem großen Aquarium und einem interaktiven Discovery Place.",
       hu: "Népszerű part menti oktatási és szórakoztató központ egy nagy akváriummal és egy interaktív felfedezőhellyel.",
@@ -2118,7 +2109,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: "Zöld Sziget",
       ro: "Insula Verde",
       en: "Green Island"},
-    image: "/poi-images/green-island-landmarks-v2.webp",
     description: {
       de: "Eine künstliche Insel in Kuwait, die als Freizeitpark dient und eine grüne Oase mit Amphitheater und Aussichtsturm bietet.",
       hu: "Kuvait mesterséges szigete, amely vidámparkként és zöld oázisként szolgál amfiteátrummal és kilátótoronnyal.",
@@ -2463,7 +2453,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: "Al Shaheed Park",
       ro: "Parcul Al Shaheed",
       en: "Al Shaheed Park"},
-    image: "/poi-images/al-shaheed-park-landmarks-v2.webp",
     description: {
       de: "Der größte städtische Park in Kuwait, der wunderschöne botanische Gärten, Museen, Seen und Gedenkstätten integriert.",
       hu: "Kuvait legnagyobb városi parkja, amely gyönyörű botanikus kerteket, múzeumokat, tavakat és emlékműveket foglal magába.",
@@ -2880,7 +2869,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: "Tareq Rajab Múzeum",
       ro: "Muzeul Tareq Rajab",
       en: "Tareq Rajab Museum"},
-    image: "/poi-images/tareq-rajab-museum-landmarks-v2.webp",
     description: {
       de: "Ein bedeutendes privates Museum, das eine außergewöhnliche Sammlung islamischer Kunst, Kalligrafie, Keramik und historischen Schmucks zeigt.",
       hu: "Jelentős magánmúzeum, amely az iszlám művészet, kalligráfia, kerámia és történelmi ékszerek kivételes gyűjteményét mutatja be.",
@@ -2928,7 +2916,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: "Sadu-ház",
       ro: "Casa Sadu",
       en: "Sadu House"},
-    image: "/poi-images/sadu-house-landmarks-v2.webp",
     description: {
       de: "Ein kulturelles Zentrum zur Erhaltung und Förderung der traditionellen Beduinen-Webkunst, bekannt als Al Sadu.",
       hu: "Kulturális központ, amely a hagyományos beduin szövőművészet, az Al Sadu megőrzésével és népszerűsítésével foglalkozik.",
@@ -3273,7 +3260,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: "Tükrök Háza",
       ro: "Casa Oglinzilor",
       en: "Mirror House"},
-    image: "/poi-images/mirror-house-landmarks-v2.webp",
     description: {
       de: "Ein einzigartiges privates Wohnhaus, das von der kuwaitischen Künstlerin Lidia Al Qattan vollständig mit Spiegelmosaiken verziert wurde.",
       hu: "Egyedülálló magánház, amelyet Lidia Al Qattan kuvaiti művész teljes egészében tükörmozaikokkal díszített.",
@@ -3510,7 +3496,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: "Kuvaiti Víztornyok",
       ro: "Turnurile de Apă din Kuweit",
       en: "Kuwait Water Towers"},
-    image: "/poi-images/kuwait-water-towers-landmarks-v2.webp",
     description: {
       de: "Eine Gruppe von markanten, pilzförmigen Wassertürmen, die über ganz Kuwait verteilt sind und ein wichtiges Wasserversorgungssystem bilden.",
       hu: "A gomba alakú, jellegzetes víztornyok csoportja Kuvait-szerte megtalálható, és fontos vízellátó rendszert alkotnak.",
@@ -3939,7 +3924,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: "Marina Crescent",
       ro: "Marina Crescent",
       en: "Marina Crescent"},
-    image: "/poi-images/marina-crescent-landmarks-v2.webp",
     description: {
       de: "Ein beliebter Küstenkomplex mit einem Yachthafen, zahlreichen Cafés, Restaurants und einer herrlichen Promenade.",
       hu: "Népszerű part menti komplexum kikötővel, számos kávézóval, étteremmel és egy gyönyörű sétánnyal.",
@@ -4464,7 +4448,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: "360 Mall",
       ro: "360 Mall",
       en: "360 Mall"},
-    image: "/poi-images/mall-360-landmarks-v2.webp",
     description: {
       de: "Ein luxuriöses Einkaufszentrum mit einem einzigartigen kreisförmigen Design, vertikalen Gärten und gehobenen Marken.",
       hu: "Luxus bevásárlóközpont egyedi, körkörös kialakítással, függőkertekkel és prémium márkákkal.",
@@ -5961,7 +5944,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: "Kuvaiti Állatkert",
       ro: "Grădina Zoologică din Kuweit",
       en: "Kuwait Zoo"},
-    image: "/poi-images/kuwait-zoo-landmarks-v2.webp",
     description: {
       de: "Der zentrale zoologische Garten in Kuwait, der eine große Vielfalt an Tieren aus aller Welt beherbergt und ein beliebtes Familienziel ist.",
       hu: "Kuvait központi állatkertje, amely a világ minden tájáról származó állatok széles választékának ad otthont, és népszerű családi úti cél.",

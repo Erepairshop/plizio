@@ -593,7 +593,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-16",
     coords: [3.0733, 36.7456],
     name: { de: "Makam Echahid", hu: "Mártírok emlékműve", ro: "Monumentul Martirilor", en: "Martyrs' Memorial"},
-    image: "/poi-images/makam-echahid-landmarks-v2.webp",
     description: {
       de: "Das Makam Echahid ist ein ikonisches Denkmal in Algier, das an den algerischen Unabhängigkeitskrieg erinnert.",
       hu: "Az algériai függetlenségi háború emlékműve Algírban, amely a nemzeti szabadság szimbóluma.",
@@ -1293,7 +1292,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-16",
     coords: [3.1408, 36.7336],
     name: { de: "Große Moschee von Algier", hu: "Algíri Nagy Mecset", ro: "Marea Moschee din Alger", en: "Great Mosque of Algiers"},
-    image: "/poi-images/djamaa-el-djazair-landmarks-v2.webp",
     description: {
       de: "Die Große Moschee von Algier verfügt über das höchste Minarett der Welt. Sie ist ein Meisterwerk der modernen islamischen Architektur und bietet Platz für über hunderttausend Gläubige.",
       hu: "Az Algíri Nagy Mecset a világ legmagasabb minaretjével rendelkezik. A modern iszlám építészet remekműve, amely több mint százezer hívő befogadására alkalmas.",
@@ -1561,7 +1559,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-16",
     coords: [3.0428, 36.8008],
     name: { de: "Notre-Dame d'Afrique", hu: "Notre-Dame d'Afrique", ro: "Notre-Dame d'Afrique", en: "Notre-Dame d'Afrique"},
-    image: "/poi-images/notre-dame-d-afrique-landmarks-v2.webp",
     description: {
       de: "Diese prächtige Basilika thront auf einer Klippe über der Bucht von Algier und ist ein Symbol des religiösen Zusammenlebens.",
       hu: "Ez a 19. században épült algíri katolikus bazilika neo-bizánci építészetéről ismert. A Földközi-tengerre néz, és a vallási toleranciát szimbolizálja.",
@@ -2153,7 +2150,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-16",
     coords: [3.0588, 36.7719],
     name: { de: "Hauptpostamt von Algier", hu: "Algíri Főposta", ro: "Poșta Centrală din Alger", en: "Grand Post Office of Algiers"},
-    image: "/poi-images/la-grande-poste-algiers-landmarks-v2.webp",
     description: {
       de: "Das Hauptpostamt von Algier ist ein architektonisches Meisterwerk im neomaurischen Stil im Herzen der Stadt.",
       hu: "Egy neomór stílusú épület Algír központjában, amely a város egyik legismertebb történelmi látnivalója.",
@@ -2385,7 +2381,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-16",
     coords: [3.0594, 36.7869],
     name: { de: "Palais des Raïs", hu: "Palais des Raïs", ro: "Palais des Raïs", en: "Palais des Raïs"},
-    image: "/poi-images/palais-des-rais-landmarks-v2.webp",
     description: {
       de: "Der Palais des Rais, auch bekannt als Bastion 23, ist einer der wichtigsten historischen Paläste in der Kasbah von Algier.",
       hu: "A Bastion 23 vagy Palais des Raïs az oszmán korból fennmaradt utolsó paloták egyike Algírban. Közvetlenül a Földközi-tenger partján található, és ma kulturális központ.",
@@ -2653,7 +2648,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-16",
     coords: [3.0617, 36.785],
     name: { de: "Ketchaoua-Moschee", hu: "Ketchaoua-mecset", ro: "Moscheea Ketchaoua", en: "Ketchaoua Mosque"},
-    image: "/poi-images/ketchaoua-mosque-landmarks-v2.webp",
     description: {
       de: "Die Ketchaoua-Moschee verbindet byzantinische und maurische Stile und ist ein bedeutendes religiöses Wahrzeichen in der Kasbah.",
       hu: "Az UNESCO Világörökség részét képező történelmi mecset Algír óvárosában, a Kasbah-ban.",
@@ -2696,7 +2690,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-25",
     coords: [6.6158, 36.3719],
     name: { de: "Sidi-M'Cid-Brücke", hu: "Sidi M'Cid-híd", ro: "Podul Sidi M'Cid", en: "Sidi M'Cid Bridge"},
-    image: "/poi-images/sidi-mcid-bridge-landmarks-v2.webp",
     description: {
       de: "Diese spektakuläre Hängebrücke in Constantine überspannt die Rhumel-Schlucht in schwindelerregender Höhe.",
       hu: "A Sidi M'Cid-híd egy látványos függőhíd, amely a Rhummel folyó szurdokát íveli át Constantine városában. Megnyitásakor a világ legmagasabb függőhídja volt.",
@@ -2820,7 +2813,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-25",
     coords: [6.6158, 36.3739],
     name: { de: "Gefallenendenkmal von Constantine", hu: "Constantine-i hősi halottak emlékműve", ro: "Monumentul Eroilor din Constantine", en: "Monument to the Dead of Constantine"},
-    image: "/poi-images/monument-aux-morts-constantine-landmarks-v2.webp",
     description: {
       de: "Das Gefallenendenkmal in Constantine ist ein markanter Triumphbogen, der an die im Ersten Weltkrieg gefallenen Soldaten erinnert. Es thront hoch auf einer Klippe über der Stadt.",
       hu: "A Constantine-i hősi halottak emlékműve egy feltűnő diadalív, amely az első világháborúban elesett katonáknak állít emléket. Magasan egy sziklán tornyosul a város felett.",
@@ -3124,7 +3116,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-25",
     coords: [6.6083, 36.3533],
     name: { de: "Emir-Abdelkader-Moschee", hu: "Emir Abdelkader-mecset", ro: "Moscheea Emir Abdelkader", en: "Emir Abdelkader Mosque"},
-    image: "/poi-images/emir-abdelkader-mosque-landmarks-v2.webp",
     description: {
       de: "Die Emir-Abdelkader-Moschee in Constantine ist eine der größten und prächtigsten Moscheen Algeriens.",
       hu: "A Constantine-i Emir Abdelkader-mecset Algéria egyik legnagyobb mecsete. Két karcsú minaretje és lenyűgöző építészete uralja a város látképét.",
@@ -3212,7 +3203,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-25",
     coords: [6.6133, 36.3667],
     name: { de: "Mellah-Slimane-Brücke", hu: "Mellah Slimane-híd", ro: "Podul Mellah Slimane", en: "Mellah Slimane Bridge"},
-    image: "/poi-images/mellah-slimane-bridge-landmarks-v2.webp",
     description: {
       de: "Eine weitere berühmte Brücke in Constantine, die für ihre elegante Konstruktion und die Aussicht auf die Altstadt bekannt ist.",
       hu: "A Mellah Slimane-híd egy keskeny gyalogos függőhíd, amely a szurdok felett vezet Constantine-ban. A tériszonnyal nem küzdőknek lélegzetelállító kilátást nyújt a mélyben futó folyóra.",
@@ -3480,7 +3470,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-31",
     coords: [-0.6631, 35.7094],
     name: { de: "Fort Santa Cruz", hu: "Santa Cruz-erőd", ro: "Fortul Santa Cruz", en: "Fort Santa Cruz"},
-    image: "/poi-images/fort-santa-cruz-landmarks-v2.webp",
     description: {
       de: "Das Fort Santa Cruz in Oran ist eine historische Festung, die von den Spaniern im 16. Jahrhundert auf dem Berg Murdjadjo erbaut wurde. Es bietet einen weiten Blick über die Stadt und das Meer.",
       hu: "Az oráni Santa Cruz-erőd egy történelmi erődítmény, amelyet a spanyolok építettek a 16. században a Murdjadjo-hegyen. Széles kilátást nyújt a városra és a tengerre.",
@@ -3568,7 +3557,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-31",
     coords: [-0.6625, 35.7083],
     name: { de: "Kapelle Santa Cruz", hu: "Santa Cruz-kápolna", ro: "Capela Santa Cruz", en: "Chapelle Santa Cruz"},
-    image: "/poi-images/chapelle-santa-cruz-landmarks-v2.webp",
     description: {
       de: "Die Kapelle Santa Cruz in Oran bietet einen atemberaubenden Panoramablick über die Stadt und das Mittelmeer.",
       hu: "Az Orán városa felett magasodó kápolna, ahonnan panorámás kilátás nyílik a tengerre.",
@@ -3980,7 +3968,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-31",
     coords: [-0.6508, 35.7058],
     name: { de: "Pascha-Moschee", hu: "Pasa-mecset", ro: "Moscheea Pașei", en: "Mosque of the Pasha"},
-    image: "/poi-images/mosque-of-the-pasha-landmarks-v2.webp",
     description: {
       de: "Die Pascha-Moschee in Oran ist ein wunderschönes Beispiel osmanischer Baukunst aus dem 18. Jahrhundert.",
       hu: "Orán egyik legfontosabb történelmi mecsete, amely híres az oszmán kori építészeti részleteiről.",
@@ -4104,7 +4091,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-13",
     coords: [-1.3147, 34.8808],
     name: { de: "El-Mechouar-Palast", hu: "El Mechouar-palota", ro: "Palatul El Mechouar", en: "El Mechouar Palace"},
-    image: "/poi-images/el-mechouar-palace-landmarks-v2.webp",
     description: {
       de: "Der El-Mechouar-Palast war die Residenz der zianidischen Sultane in Tlemcen. Die prächtige Anlage mit ihren wunderschönen Innenhöfen und Ziegelmauern spiegelt die reiche islamische Geschichte der Region wider.",
       hu: "Az El Mechouar-palota a zianida szultánok rezidenciája volt Tlemcenben. A pompás komplexum gyönyörű udvaraival és téglafalával a régió gazdag iszlám történelmét tükrözi.",
@@ -4444,7 +4430,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-13",
     coords: [-1.3392, 34.8694],
     name: { de: "Festung Mansourah", hu: "Mansourah-erőd", ro: "Fortăreața Mansourah", en: "Mansourah Fortress"},
-    image: "/poi-images/mansourah-fortress-landmarks-v2.webp",
     description: {
       de: "Die Ruinen von Mansourah in Tlemcen zeugen von einer ehemals massiven befestigten Stadt, die von den Meriniden während einer Belagerung erbaut wurde. Das imposante Minarett ist das auffälligste Überbleibsel.",
       hu: "Tlemcen történelmi erődítményének romjai, amely a középkori uralkodók idejéből maradt fenn.",
@@ -5072,7 +5057,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-13",
     coords: [-1.3103, 34.8828],
     name: { de: "Große Moschee von Tlemcen", hu: "Tlemceni Nagy Mecset", ro: "Marea Moschee din Tlemcen", en: "Great Mosque of Tlemcen"},
-    image: "/poi-images/great-mosque-of-tlemcen-landmarks-v2.webp",
     description: {
       de: "Die Große Moschee von Tlemcen ist eines der bedeutendsten Beispiele almoravidischer Architektur in Nordafrika.",
       hu: "Az ország egyik legrégebbi és legjelentősebb mecsete Tlemcenben, az Almoravidák idejéből.",
@@ -5268,7 +5252,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-42",
     coords: [2.5539, 36.5744],
     name: { de: "Mausoleum von Mauretanien", hu: "Mauretániai Királyi Mauzóleum", ro: "Mausoleul Regal al Mauretaniei", en: "Royal Mausoleum of Mauretania"},
-    image: "/poi-images/royal-mausoleum-of-mauretania-landmarks-v2.webp",
     description: {
       de: "Dieses beeindruckende kuppelförmige Grabmal in Tipaza wurde von den numidischen und mauretanischen Königen erbaut. Es ist ein faszinierendes prä-islamisches Denkmal an der Küste.",
       hu: "Ezt a lenyűgöző kupola alakú síremléket Tipazában a numidiai és mauretániai királyok építtették. Lenyűgöző iszlám előtti műemlék a tengerparton.",
@@ -5464,7 +5447,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-05",
     coords: [6.4686, 35.4842],
     name: { de: "Trajansbogen von Timgad", hu: "Timgadi Traianus-diadalív", ro: "Arcul lui Traian din Timgad", en: "Arch of Trajan of Timgad"},
-    image: "/poi-images/arch-of-trajan-timgad-landmarks-v2.webp",
     description: {
       de: "Der Trajansbogen ist das prächtige Eingangstor zur antiken römischen Stadt Timgad, einem UNESCO-Welterbe.",
       hu: "Egy kiválóan megőrzött római kori diadalív a Timgad romvárosban, az UNESCO Világörökség része.",
@@ -5624,7 +5606,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-05",
     coords: [6.2625, 35.7067],
     name: { de: "Medracen", hu: "Medracen", ro: "Medracen", en: "Medracen"},
-    image: "/poi-images/medracen-landmarks-v2.webp",
     description: {
       de: "Das Medracen ist ein monumentales numidisches Grabmal in der Provinz Batna, das vor der römischen Besatzung erbaut wurde.",
       hu: "A Medracen egy ókori numidiai kör alakú síremlék Batna közelében. Dór oszlopaival és impozáns szerkezetével Észak-Afrika egyik legrégebbi királyi sírja.",
@@ -6108,7 +6089,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-16",
     coords: [2.9367, 36.7425],
     name: { de: "Oper von Algier", hu: "Algíri Operaház", ro: "Opera din Alger", en: "Algiers Opera House"},
-    image: "/poi-images/opera-algiers-landmarks-v2.webp",
     description: {
       de: "Die Oper von Algier ist ein modernes kulturelles Wahrzeichen, das als Geschenk Chinas an das algerische Volk erbaut wurde.",
       hu: "Algír modern operaháza, amely kulturális események és koncertek központja.",
@@ -6232,7 +6212,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-16",
     coords: [3.1092, 36.6714],
     name: { de: "Nelson-Mandela-Stadion", hu: "Nelson Mandela Stadion", ro: "Stadionul Nelson Mandela", en: "Nelson Mandela Stadium"},
-    image: "/poi-images/nelson-mandela-stadium-landmarks-v2.webp",
     description: {
       de: "Dieses moderne Stadion in Baraki ist nach dem südafrikanischen Freiheitskämpfer benannt und ein Symbol des afrikanischen Sports.",
       hu: "Egy modern stadion Algírban, amelyet a híres dél-afrikai vezetőről neveztek el.",
@@ -6275,7 +6254,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-31",
     coords: [-0.5517, 35.7278],
     name: { de: "Miloud-Hadefi-Stadion", hu: "Miloud Hadefi Stadion", ro: "Stadionul Miloud Hadefi", en: "Miloud Hadefi Stadium"},
-    image: "/poi-images/miloud-hadefi-stadium-landmarks-v2.webp",
     description: {
       de: "Das Miloud-Hadefi-Stadion in Oran ist ein modernes Sportzentrum, das für internationale Wettbewerbe konzipiert wurde.",
       hu: "Orán egyik legújabb és legnagyobb sportlétesítménye, amelyet rangos eseményekre terveztek.",
@@ -6318,7 +6296,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-31",
     coords: [-0.6128, 35.7011],
     name: { de: "Bahia Center", hu: "Bahia Center", ro: "Bahia Center", en: "Bahia Center"},
-    image: "/poi-images/bahia-center-landmarks-v2.webp",
     description: {
       de: "Das Bahia Center ist ein markanter moderner Hochhauskomplex in Oran, der das Stadtbild am Meer prägt.",
       hu: "A Bahia Center egy feltűnő magasház-komplexum Oránban, amely modern lakó- és üzlethelyiségeket kínál. A négy egyforma torony uralja a város modern sziluettjét.",
@@ -6514,7 +6491,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-16",
     coords: [3.0614, 36.7844],
     name: { de: "Dar Hassan Pacha", hu: "Dar Hassan Pacha", ro: "Dar Hassan Pacha", en: "Dar Hassan Pacha"},
-    image: "/poi-images/dar-hassan-pacha-landmarks-v2.webp",
     description: {
       de: "Dar Hassan Pacha ist ein prachtvoller Stadtpalast in der Kasbah von Algier, der die Eleganz der osmanischen Oberschicht zeigt.",
       hu: "Történelmi palota Algírban, az oszmán korszak építészetének szép példája.",
@@ -6890,7 +6866,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-16",
     coords: [2.9492, 36.8122],
     name: { de: "Leuchtturm von Cap Caxine", hu: "Cap Caxine világítótorony", ro: "Farul de la Cap Caxine", en: "Lighthouse of Cap Caxine"},
-    image: "/poi-images/lighthouse-cap-caxine-landmarks-v2.webp",
     description: {
       de: "Der Leuchtturm am Cap Caxine sichert den Seeweg vor Algier und ist für seine strategische Lage bekannt.",
       hu: "Egy emblematikus világítótorony a tengerparton, amely segíti a hajózást a Földközi-tengeren.",
@@ -7302,7 +7277,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-05",
     coords: [6.1772, 35.5492],
     name: { de: "Moschee des 1. November 1954", hu: "1954. november 1. Nagy Mecset", ro: "Marea Moschee 1 Noiembrie 1954", en: "1st November 1954 Great Mosque"},
-    image: "/poi-images/first-november-1954-mosque-landmarks-v2.webp",
     description: {
       de: "Diese Moschee in Batna erinnert an den Beginn der algerischen Revolution und ist ein wichtiges religiöses Zentrum.",
       hu: "Batna városának egyik legnagyobb és legmodernebb mecsete, amely a nemzeti ünnepről kapta nevét.",
@@ -7462,7 +7436,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-13",
     coords: [-1.3267, 34.8833],
     name: { de: "Bab El Khemis", hu: "Bab El Khemis", ro: "Bab El Khemis", en: "Bab El Khemis"},
-    image: "/poi-images/bab-el-khemis-landmarks-v2.webp",
     description: {
       de: "Bab El Khemis ist ein antikes Stadttor in Tlemcen, das ursprünglich Teil der Stadtmauern war. Heute steht es als majestätischer Bogen und historisches Wahrzeichen für die marokkanisch-andalusische Architektur.",
       hu: "Egy történelmi városkapu Tlemcenben, amely a középkori védelmi rendszer része volt.",
@@ -7658,7 +7631,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-25",
     coords: [6.6111, 36.3639],
     name: { de: "Sidi-Rached-Brücke", hu: "Sidi Rached-híd", ro: "Podul Sidi Rached", en: "Sidi Rached Bridge"},
-    image: "/poi-images/sidi-rached-bridge-landmarks-v2.webp",
     description: {
       de: "Die Sidi-Rached-Brücke ist ein beeindruckendes Viadukt in Constantine, das zu den größten Steinbogenbrücken der Welt gehört.",
       hu: "Constantine ikonikus hídja, amely a város mély kanyonjai felett ível át.",
@@ -7818,7 +7790,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     parent: "DZ-16",
     coords: [3.0567, 36.7847],
     name: { de: "Kasbah von Algier", hu: "Algíri Kasbah", ro: "Casbah din Alger", en: "Casbah of Algiers"},
-    image: "/poi-images/casbah-of-algiers-landmarks-v2.webp",
     description: {
       de: "Die historische Kasbah von Algier ist eine verwinkelte Zitadelle mit alten Moscheen, osmanischen Palästen und traditionellen Häusern. Sie ist ein lebendiges Wahrzeichen der Geschichte der Stadt.",
       hu: "Az algíri történelmi Kasbah egy kanyargós citadella régi mecsetekkel, oszmán palotákkal és hagyományos házakkal. A város történelmének élő nevezetessége.",

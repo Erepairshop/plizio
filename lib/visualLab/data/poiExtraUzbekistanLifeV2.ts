@@ -953,7 +953,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     parent: "UZ-TK",
     coords: [69.3090, 41.3486],
     name: { de: "Zoo Taschkent", hu: "Taskenti Állatkert", ro: "Grădina Zoologică din Tașkent", en: "Tashkent Zoo"},
-    image: "/poi-images/uz-tashkent-zoo-life-v2.webp",
     description: {
       de: "Ein weitläufiger Zoo in der usbekischen Hauptstadt mit exotischen Tieren und großen Freigehegen.",
       hu: "Az üzbég főváros hatalmas állatkertje, amely egzotikus állatoknak és ritka madaraknak ad otthont.",
@@ -1906,7 +1905,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     parent: "UZ-TK",
     coords: [69.3094, 41.3435],
     name: { de: "Botanischer Garten Taschkent", hu: "Taskenti Botanikus Kert", ro: "Grădina Botanică din Tașkent", en: "Tashkent Botanical Garden"},
-    image: "/poi-images/uz-tashkent-botanical-garden-life-v2.webp",
     description: {
       de: "Einer der größten und ältesten botanischen Gärten in Zentralasien, der eine immense Vielfalt an Pflanzenarten bietet.",
       hu: "Közép-Ázsia egyik legnagyobb és legrégebbi botanikus kertje, amely hatalmas növényfaj-változatossággal büszkélkedhet.",
@@ -2948,7 +2946,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     parent: "UZ-TK",
     coords: [69.2974, 41.3094],
     name: { de: "Ökopark Taschkent", hu: "Taskenti Ökopark", ro: "Ecoparcul din Tașkent", en: "Tashkent Eco Park"},
-    image: "/poi-images/uz-eco-park-tashkent-life-v2.webp",
     description: {
       de: "Ein moderner, umweltfreundlicher Park ohne Fahrgeschäfte, der auf sportliche Aktivitäten und Spaziergänge in der Natur ausgerichtet ist.",
       hu: "Modern, környezetbarát park vidámparki elemek nélkül, amely a sportolásra és a természetjárásra összpontosít.",
@@ -4340,7 +4337,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     parent: "UZ-JI",
     coords: [68.0264, 40.8524],
     name: { de: "Vogelschutzgebiet Arnasay-Seen", hu: "Arnaszáj-tavak Madárrezervátum", ro: "Sanctuarul de Păsări Lacurile Arnasay", en: "Arnasay Lakes Bird Sanctuary"},
-    image: "/poi-images/uz-arnasay-bird-sanctuary-life-v2.webp",
     description: {
       de: "Ein bedeutendes Feuchtgebiet, das zahlreichen Zugvögeln auf ihrer Reise über Zentralasien als wichtiger Rastplatz dient.",
       hu: "Jelentős vizes élőhely, amely számos vándormadár fontos pihenőhelye a közép-ázsiai vonulásuk során.",
@@ -4825,7 +4821,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     parent: "UZ-SA",
     coords: [66.9733, 39.6270],
     name: { de: "Maulbeerplantagen von Samarkand", hu: "Szamarkandi eperfaültetvények", ro: "Plantațiile de duzi din Samarkand", en: "Samarkand Mulberry Plantations"},
-    image: "/poi-images/uz-samarkand-mulberry-plantations-life-v2.webp",
     description: {
       de: "Weitläufige Plantagen, die Maulbeerbäume anbauen, deren Blätter die Grundlage für die berühmte Seidenproduktion der Region.",
       hu: "Hatalmas ültetvények, ahol eperfákat termesztenek, amelyek levelei a régió híres selyemtermelésének alapját képezik.",
@@ -4950,7 +4945,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     parent: "UZ-TK",
     coords: [69.2847, 41.3402],
     name: { de: "Taschkentland", hu: "Taskentland Vidámpark", ro: "Parcul de distracții Tashkentland", en: "Tashkentland"},
-    image: "/poi-images/uz-tashkentland-life-v2.webp",
     description: {
       de: "Einer der bekanntesten Vergnügungsparks in Usbekistan mit Achterbahnen, Wasserrutschen und familiären Fahrgeschäften.",
       hu: "Üzbegisztán egyik legismertebb vidámparkja hullámvasutakkal, vízi csúszdákkal és családi attrakciókkal.",
@@ -5327,7 +5321,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     parent: "UZ-TK",
     coords: [69.2452, 41.3056],
     name: { de: "Magic City Park", hu: "Magic City Kalandpark", ro: "Parcul Tematic Magic City", en: "Magic City Park"},
-    image: "/poi-images/uz-magic-city-park-life-v2.webp",
     description: {
       de: "Ein brandneuer, gigantischer Familienpark in Taschkent mit Nachbauten weltberühmter Sehenswürdigkeiten und modernen Attraktionen.",
       hu: "Vadonatúj, gigantikus családi park Taskentben, amely világhírű nevezetességek másolataival és modern attrakciókkal várja a látogatókat.",
@@ -5740,7 +5733,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     parent: "UZ-SA",
     coords: [66.9602, 39.6457],
     name: { de: "Zentralpark Samarkand", hu: "Szamarkandi Központi Park", ro: "Parcul Central din Samarkand", en: "Samarkand Central Park"},
-    image: "/poi-images/uz-central-park-samarkand-life-v2.webp",
     description: {
       de: "Die grüne Lunge im Herzen der historischen Stadt, in der sich Einheimische unter schattigen Bäumen und an Springbrunnen erholen.",
       hu: "A történelmi város szívének zöld tüdeje, ahol a helyiek árnyas fák alatt és szökőkutak mellett pihenhetnek.",
@@ -6045,7 +6037,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     parent: "UZ-TK",
     coords: [69.2797, 41.3111],
     name: { de: "Amir-Timur-Platz", hu: "Amir Timur tér", ro: "Piața Amir Timur", en: "Amir Timur Square"},
-    image: "/poi-images/uz-amir-timur-square-life-v2.webp",
     description: {
       de: "Ein sternförmig angelegter Park und Platz im Zentrum von Taschkent, der eine berühmte Reiterstatue des Eroberers umgibt.",
       hu: "Csillag alakú park és tér Taskent központjában, amely a hódító híres lovas szobrát veszi körül.",
@@ -7025,7 +7016,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     parent: "UZ-XO",
     coords: [60.6247, 41.5202],
     name: { de: "Melonenfelder von Choresmien", hu: "Horezmi dinnyeföldek", ro: "Câmpurile de pepeni din Horezm", en: "Khorezm Melon Fields"},
-    image: "/poi-images/uz-khorezm-melon-fields-life-v2.webp",
     description: {
       de: "Landwirtschaftliche Flächen im Nordwesten des Landes, die für die süßesten und aromatischsten Wassermelonen Zentralasiens berühmt sind.",
       hu: "Az ország északnyugati részén fekvő mezőgazdasági területek, amelyek Közép-Ázsia legédesebb és legaromásabb görögdinnyéiről híresek.",
@@ -7294,7 +7284,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     parent: "UZ-SU",
     coords: [67.8938, 38.0016],
     name: { de: "Granatapfelgärten von Surchandarja", hu: "Szurhandarjai gránátalmaültetvények", ro: "Livezile de rodii din Surhandaria", en: "Surkhandarya Pomegranate Orchards"},
-    image: "/poi-images/uz-surkhandarya-pomegranates-life-v2.webp",
     description: {
       de: "Die wärmste Region Usbekistans beherbergt riesige Obstgärten, die tiefrote, saftige Granatäpfel von höchster Qualität hervorbringen.",
       hu: "Üzbegisztán legmelegebb régiója hatalmas gyümölcsösöknek ad otthont, amelyek kiváló minőségű, lédús gránátalmákat teremnek.",
@@ -8787,7 +8776,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     parent: "UZ-NG",
     coords: [71.6745, 41.0003],
     name: { de: "Blumenpark von Namangan", hu: "Namangani Virágpark", ro: "Parcul Florilor din Namangan", en: "Namangan Flower Park"},
-    image: "/poi-images/uz-namangan-flower-park-life-v2.webp",
     description: {
       de: "Ein spektakulärer Park im Ferghanatal, der jedes Frühjahr Millionen von Blumen für ein berühmtes Festival präsentiert.",
       hu: "Látványos park a Fergana-völgyben, amely minden tavasszal virágok millióit mutatja be egy híres fesztivál keretében.",
@@ -10064,7 +10052,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     parent: "UZ-TK",
     coords: [69.3072, 41.2977],
     name: { de: "Aşgabat-Park", hu: "Asgabat Park", ro: "Parcul Așgabat", en: "Ashgabat Park"},
-    image: "/poi-images/uz-ashgabat-park-life-v2.webp",
     description: {
       de: "Ein hochmoderner Erholungspark in Taschkent, der als Symbol der Freundschaft zwischen Usbekistan und Turkmenistan erbaut wurde.",
       hu: "Szupermodern pihenőpark Taskentben, amely Üzbegisztán és Türkmenisztán barátságának szimbólumaként épült.",
@@ -10621,7 +10608,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     parent: "UZ-TO",
     coords: [69.1555, 41.1963],
     name: { de: "Weinberge von Zangiota", hu: "Zangiota szőlőültetvényei", ro: "Podgoriile din Zangiota", en: "Zangiota Vineyards"},
-    image: "/poi-images/uz-zangiota-vineyards-life-v2.webp",
     description: {
       de: "Malerische Weinbaugebiete in der Region Taschkent, die Trauben für den frischen Verzehr sowie für Rosinen produzieren.",
       hu: "Festői borvidék a Taskent régióban, amely friss fogyasztásra és mazsolának való szőlőt termeszt.",
@@ -10782,7 +10768,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     parent: "UZ-TK",
     coords: [69.2882, 41.3411],
     name: { de: "Japanischer Garten Taschkent", hu: "Taskenti Japánkert", ro: "Grădina Japoneză din Tașkent", en: "Japanese Garden Tashkent"},
-    image: "/poi-images/uz-japanese-garden-tashkent-life-v2.webp",
     description: {
       de: "Ein friedlicher Rückzugsort mit traditioneller Landschaftsarchitektur, Koi-Teichen und einer echten Teezeremonie-Hütte.",
       hu: "Békés menedék hagyományos tájépítészettel, koi-tavakkal és egy igazi teaceremónia házzal.",
@@ -10826,7 +10811,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     parent: "UZ-BU",
     coords: [64.1833, 39.5500],
     name: { de: "Zuchtzentrum für Bucharahirsche", hu: "Buharai Szarvastenyésztő Központ", ro: "Centrul de reproducere a cerbilor de Buhara", en: "Bukhara Deer Breeding Center"},
-    image: "/poi-images/uz-bukhara-deer-center-life-v2.webp",
     description: {
       de: "Eine kritische Einrichtung zur Rettung des endemischen Bucharahirsches, der eng an das Ökosystem der Flussoasen gebunden ist.",
       hu: "Kritikus fontosságú létesítmény az endemikus buharai szarvas megmentésére, amely szorosan kötődik a folyami oázisok ökoszisztémájához.",

@@ -8,7 +8,6 @@ export const poiExtraEritreaNatureV2: POI[] = [
     parent: "ER-SK",
     coords: [40.0833, 15.75],
     name: { de: "Dahlak-Archipel", hu: "Dahlak-szigetek", ro: "Arhipelagul Dahlak", en: "Dahlak Archipelago"},
-    image: "/poi-images/dahlak-archipelago-nature-v2.webp",
     description: { de: "Eine Inselgruppe im Roten Meer vor der Küste Eritreas.", hu: "Szigetcsoport a Vörös-tengerben, Eritrea partjainál.", ro: "Un arhipelag în Marea Roșie, în largul coastei Eritreei.", en: "An archipelago in the Red Sea off the coast of Eritrea." , es: "Un archipiélago en el Mar Rojo frente a la costa de Eritrea.", pt: "Um arquipélago no Mar Vermelho, ao largo da costa da Eritreia.", fr: "Un archipel dans la mer Rouge au large des côtes de l'Érythrée."},
     facts: {
       de: ["Besteht aus über 200 Inseln.", "Bekannt für Korallenriffe.", "Reiche Meeresfauna."],
@@ -43,7 +42,6 @@ export const poiExtraEritreaNatureV2: POI[] = [
     parent: "ER-DU",
     coords: [36.4, 15.6],
     name: { de: "Gash", hu: "Gash folyó", ro: "Râul Gash", en: "Gash River"},
-    image: "/poi-images/gash-river-nature-v2.webp",
     description: { de: "Ein saisonaler Fluss, der im eritreischen Hochland entspringt.", hu: "Szezonális folyó, amely Eritrea felföldjén ered.", ro: "Un râu sezonier care izvorăște din munții Eritreei.", en: "A seasonal river originating in the highlands of Eritrea." , es: "Un río estacional que nace en las tierras altas de Eritrea.", pt: "Um rio sazonal que nasce no planalto da Eritreia.", fr: "Une rivière saisonnière qui prend sa source dans les hauts plateaux érythréens."},
     facts: {
       de: ["Fließt nach Sudan.", "Wichtig für die Landwirtschaft.", "Trocknet oft aus."],
@@ -123,7 +121,6 @@ export const poiExtraEritreaNatureV2: POI[] = [
     parent: "ER-DU",
     coords: [39.4667, 14.7333],
     name: { de: "Soira", hu: "Soira", ro: "Soira", en: "Soira"},
-    image: "/poi-images/soira-mountain-nature-v2.webp",
     description: { de: "Der höchste Berg Eritreas.", hu: "Eritrea legmagasabb hegye.", ro: "Cel mai înalt munte din Eritreea.", en: "The highest mountain in Eritrea." , es: "La montaña más alta de Eritrea.", pt: "A montanha mais alta da Eritreia.", fr: "La plus haute montagne d'Érythrée."},
     facts: {
       de: ["Höhe ca. 3018 Meter.", "Teil des Hochlandes.", "Spektakuläre Aussicht."],

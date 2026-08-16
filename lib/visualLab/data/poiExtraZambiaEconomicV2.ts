@@ -57,7 +57,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Mopani Rézbánya",
       ro: "Mina de Cupru Mopani",
       en: "Mopani Copper Mines"},
-    image: "/poi-images/zm-mopani-copper-mines-economic-v2.webp",
     description: {
       de: "Eine der größten Kupferminen in Afrika, gelegen in Mufulira.",
       hu: "Afrika egyik legnagyobb rézbányája Mufulirában.",
@@ -114,7 +113,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Konkola Rézbánya",
       ro: "Mina de Cupru Konkola",
       en: "Konkola Copper Mines"},
-    image: "/poi-images/zm-konkola-copper-mines-economic-v2.webp",
     description: {
       de: "Ein bedeutender Kupfer- und Kobaltproduzent im sambischen Kupfergürtel.",
       hu: "Jelentős réz- és kobalttermelő a zambiai rézövezetben.",
@@ -228,7 +226,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Lumwana Rézbánya",
       ro: "Mina de Cupru Lumwana",
       en: "Lumwana Copper Mine"},
-    image: "/poi-images/zm-lumwana-copper-mine-economic-v2.webp",
     description: {
       de: "Eine groß angelegte Tagebaumine für Kupfer in der Nordwestprovinz.",
       hu: "Nagy kiterjedésű külszíni rézbánya az Északnyugati tartományban.",
@@ -285,7 +282,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Lubambe Rézbánya",
       ro: "Mina de Cupru Lubambe",
       en: "Lubambe Copper Mine"},
-    image: "/poi-images/zm-lubambe-copper-mine-economic-v2.webp",
     description: {
       de: "Eine Untertagemine, die für die Gewinnung von hochwertigem Kupfererz bekannt ist.",
       hu: "Egy föld alatti bánya, amely kiváló minőségű rézérc kitermeléséről ismert.",
@@ -342,7 +338,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Chambishi Fémfinomító",
       ro: "Rafinăria de Metale Chambishi",
       en: "Chambishi Metals Refinery"},
-    image: "/poi-images/zm-chambishi-metals-economic-v2.webp",
     description: {
       de: "Ein bedeutendes metallurgisches Zentrum zur Raffination von Kobalt und Kupfer.",
       hu: "Jelentős kohászati központ kobalt és réz finomítására.",
@@ -404,7 +399,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Chibuluma Rézbánya",
       ro: "Mina de Cupru Chibuluma",
       en: "Chibuluma Copper Mine"},
-    image: "/poi-images/zm-chibuluma-copper-mine-economic-v2.webp",
     description: {
       de: "Die Chibuluma-Mine bei Kalulushi ist eines der ältesten und effizientesten Kupferbergwerke im Copperbelt.",
       hu: "Zambia egyik legrégebbi és legfontosabb rézbányája a Copperbelt tartományban, amely évtizedek óta hozzájárul az ország gazdaságához.",
@@ -455,7 +449,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Sentinel Rézbánya",
       ro: "Mina de Cupru Sentinel",
       en: "Sentinel Copper Mine"},
-    image: "/poi-images/zm-sentinel-copper-mine-economic-v2.webp",
     description: {
       de: "Eine der neuesten und modernsten Großminen für Kupfererz.",
       hu: "Az egyik legújabb és legkorszerűbb nagy rézércbánya.",
@@ -512,7 +505,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Ndola Mészkőgyár",
       ro: "Fabrica de Var Ndola",
       en: "Ndola Lime Company"},
-    image: "/poi-images/zm-ndola-lime-company-economic-v2.webp",
     description: {
       de: "Der größte Produzent von Branntkalk und Kalkstein in Sambia.",
       hu: "Zambia legnagyobb égetett mész és mészkő termelője.",
@@ -569,7 +561,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Dangote Cementgyár",
       ro: "Fabrica de Ciment Dangote",
       en: "Dangote Cement Plant"},
-    image: "/poi-images/zm-dangote-cement-plant-economic-v2.webp",
     description: {
       de: "Eine moderne Zementfabrik, die den Baumarkt in Sambia und den Nachbarländern versorgt.",
       hu: "Modern cementgyár, amely a zambiai és a szomszédos országok építőipari piacát látja el.",
@@ -743,7 +734,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Chilanga Cementgyár",
       ro: "Fabrica de Ciment Chilanga",
       en: "Chilanga Cement"},
-    image: "/poi-images/zm-chilanga-cement-economic-v2.webp",
     description: {
       de: "Sambias erstes Zementwerk, das eine Schlüsselrolle in der Infrastrukturentwicklung spielte.",
       hu: "Zambia első cementgyára, amely kulcsszerepet játszott az infrastruktúra fejlesztésében.",
@@ -803,7 +793,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Zambeef Húsfeldolgozó",
       ro: "Procesarea Cărnii Zambeef",
       en: "Zambeef Meat Processing"},
-    image: "/poi-images/zm-zambeef-products-economic-v2.webp",
     description: {
       de: "Eines der größten Agrar- und Lebensmittelunternehmen in der Region, spezialisiert auf Fleischprodukte.",
       hu: "A régió egyik legnagyobb agrár- és élelmiszeripari vállalata, amely húskészítményekre specializálódott.",
@@ -988,7 +977,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Kariba Északi-part Vízerőmű",
       ro: "Hidrocentrala Kariba North Bank",
       en: "Kariba North Bank Power Station"},
-    image: "/poi-images/zm-kariba-north-bank-power-station-economic-v2.webp",
     description: {
       de: "Das Wasserkraftwerk auf der sambischen Seite der riesigen Kariba-Talsperre.",
       hu: "Vízerőmű a hatalmas Kariba-gát zambiai oldalán.",
@@ -1048,7 +1036,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Itezhi-Tezhi Vízerőmű",
       ro: "Hidrocentrala Itezhi-Tezhi",
       en: "Itezhi-Tezhi Power Station"},
-    image: "/poi-images/zm-itezhi-tezhi-power-station-economic-v2.webp",
     description: {
       de: "Ein Kraftwerk am Itezhi-Tezhi-Staudamm, das zur nationalen Stromerzeugung beiträgt.",
       hu: "Erőmű az Itezhi-Tezhi gátnál, amely hozzájárul a nemzeti áramtermeléshez.",
@@ -1285,7 +1272,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Maamba Hőerőmű",
       ro: "Centrala Termică Maamba",
       en: "Maamba Thermal Power Plant"},
-    image: "/poi-images/zm-maamba-collieries-power-economic-v2.webp",
     description: {
       de: "Sambias einziges Kohlekraftwerk, das der Diversifizierung der Energieversorgung dient.",
       hu: "Zambia egyetlen széntüzelésű hőerőműve, amely az energiaellátás diverzifikálását szolgálja.",
@@ -1350,7 +1336,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Mpulungu Kikötő",
       ro: "Portul Mpulungu",
       en: "Mpulungu Harbour"},
-    image: "/poi-images/zm-mpulungu-harbour-economic-v2.webp",
     description: {
       de: "Der wichtigste internationale Binnenhafen Sambias am südlichen Ufer des Tanganjikasees.",
       hu: "Zambia legfontosabb nemzetközi belföldi kikötője a Tanganyika-tó déli partján.",
@@ -1410,7 +1395,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Trade Kings Gyár",
       ro: "Fabrica Trade Kings",
       en: "Trade Kings Manufacturing"},
-    image: "/poi-images/zm-trade-kings-manufacturing-economic-v2.webp",
     description: {
       de: "Ein bedeutender sambischer Hersteller von Reinigungsmitteln, Getränken und Süßwaren.",
       hu: "Jelentős zambiai tisztítószer-, ital- és édességgyártó.",
@@ -1470,7 +1454,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Zambiai Sörgyár",
       ro: "Berăria Zambiană",
       en: "Zambian Breweries Plant"},
-    image: "/poi-images/zm-zambian-breweries-economic-v2.webp",
     description: {
       de: "Die führende Brauerei in Sambia, die beliebte lokale und internationale Biermarken herstellt.",
       hu: "Zambia vezető sörfőzdéje, amely népszerű helyi és nemzetközi sörmárkákat gyárt.",
@@ -1530,7 +1513,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Parmalat Tejüzem",
       ro: "Fabrica de Lactate Parmalat",
       en: "Parmalat Dairy Plant"},
-    image: "/poi-images/zm-parmalat-zambia-economic-v2.webp",
     description: {
       de: "Ein zentrales Verarbeitungszentrum für Milch und Milchprodukte im Land.",
       hu: "A tej és tejtermékek központi feldolgozóközpontja az országban.",
@@ -1635,7 +1617,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Fekete Hegy Salaklerakó",
       ro: "Halda de Zgură Black Mountain",
       en: "Black Mountain Slag Dump"},
-    image: "/poi-images/zm-black-mountain-slag-dump-economic-v2.webp",
     description: {
       de: "Eine große Schlackenhalde aus alten Bergbauzeiten, aus der heute noch wertvolle Metalle gewonnen werden.",
       hu: "Egy nagy salaklerakó a régi bányászati időkből, amelyből még ma is értékes fémeket nyernek ki.",
@@ -1695,7 +1676,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Bwana Mkubwa Bánya",
       ro: "Mina Bwana Mkubwa",
       en: "Bwana Mkubwa Mine"},
-    image: "/poi-images/zm-bwana-mkubwa-mine-economic-v2.webp",
     description: {
       de: "Eine der ältesten Kupferminen Sambias, die heute hauptsächlich zur Erzverarbeitung dient.",
       hu: "Zambia egyik legrégebbi rézbányája, amely ma már főleg ércfeldolgozásra szolgál.",
@@ -1755,7 +1735,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Mamba Szénbánya",
       ro: "Mina de Cărbune Mamba",
       en: "Mamba Coal Mine"},
-    image: "/poi-images/zm-mamba-coal-mine-economic-v2.webp",
     description: {
       de: "Die wichtigste und größte Kohlemine in Sambia, im Süden des Landes gelegen.",
       hu: "Zambia legfontosabb és legnagyobb szénbányája az ország déli részén.",
@@ -1815,7 +1794,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Luanshya Rézbányák",
       ro: "Minele de Cupru Luanshya",
       en: "Luanshya Copper Mines"},
-    image: "/poi-images/zm-luanshya-copper-mines-economic-v2.webp",
     description: {
       de: "Ein Bergbaukomplex, der maßgeblich zur Entwicklung der Stadt Luanshya beigetragen hat.",
       hu: "Bányászati komplexum, amely nagyban hozzájárult Luanshya városának fejlődéséhez.",
@@ -1875,7 +1853,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Indeni Olajfinomító",
       ro: "Rafinăria de Petrol Indeni",
       en: "Indeni Petroleum Refinery"},
-    image: "/poi-images/zm-indeni-petroleum-refinery-economic-v2.webp",
     description: {
       de: "Sambias einzige Erdölraffinerie, die Rohöl für den nationalen Markt verarbeitet.",
       hu: "Zambia egyetlen olajfinomítója, amely a nemzeti piacra dolgoz fel kőolajat.",
@@ -1935,7 +1912,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Kaleya Cukornádültetvények",
       ro: "Plantațiile de Trestie de Zahăr Kaleya",
       en: "Kaleya Smallholders Sugar Estates"},
-    image: "/poi-images/zm-kaleya-smallholders-company-economic-v2.webp",
     description: {
       de: "Ein bedeutendes landwirtschaftliches Projekt zur Zuckerrohrproduktion für die nahegelegene Raffinerie.",
       hu: "Egy jelentős mezőgazdasági projekt cukornádtermelésre a közeli finomító számára.",
@@ -1995,7 +1971,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       hu: "Munali Nikkelbánya",
       ro: "Mina de Nichel Munali",
       en: "Munali Nickel Mine"},
-    image: "/poi-images/zm-munali-nickel-mine-economic-v2.webp",
     description: {
       de: "Eine der wenigen Minen in Sambia, die sich auf die Förderung von Nickel spezialisiert hat.",
       hu: "Zambia azon kevés bányáinak egyike, amely a nikkel kitermelésére specializálódott.",

@@ -341,7 +341,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-TR",
     coords: [13.18, 32.88],
     name: { de: "Tripoli Zoo", hu: "Tripoli Állatkert", ro: "Grădina Zoologică din Tripoli", en: "Tripoli Zoo"},
-    image: "/poi-images/tripoli-zoo-life-v2.webp",
     description: { de: "Ein bedeutender Park mit einer Vielfalt an Tieren.", hu: "Jelentős park állatok sokaságával.", ro: "O grădină importantă cu o varietate de animale.", en: "A significant park with a variety of animals." , es: "Un parque importante con una gran variedad de animales.", pt: "Um parque importante com uma grande variedade de animais.", fr: "Un parc important avec une grande variété d'animaux."},
     facts: {
       de: ["Beheimatet diverse einheimische Arten.", "Ein beliebtes Ausflugsziel für Familien."],
@@ -379,7 +378,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-BN",
     coords: [20.06, 32.11],
     name: { de: "Bengasi Zoo", hu: "Bengázi Állatkert", ro: "Grădina Zoologică din Benghazi", en: "Benghazi Zoo"},
-    image: "/poi-images/benghazi-zoo-life-v2.webp",
     description: { de: "Ein Zoo in der Küstenstadt Bengasi.", hu: "Állatkert a tengerparti Bengázi városában.", ro: "O grădină zoologică în orașul de coastă Benghazi.", en: "A zoo in the coastal city of Benghazi." , es: "Un zoológico en la ciudad costera de Bengasi.", pt: "Um zoológico na cidade costeira de Bengasi.", fr: "Un zoo dans la ville côtière de Benghazi."},
     facts: {
       de: ["Fokus auf lokale Tierwelt.", "Bildet ein wichtiges Zentrum für Naturschutz."],
@@ -678,7 +676,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-MI",
     coords: [15.09, 32.37],
     name: { de: "Misrata Stadtpark", hu: "Miszrata Városliget", ro: "Parcul Orașului Misrata", en: "Misrata City Park"},
-    image: "/poi-images/misrata-park-life-v2.webp",
     description: { de: "Ein großer Park für Erholung und Spiel.", hu: "Nagy park kikapcsolódásra és játékra.", ro: "Un parc mare pentru relaxare și joacă.", en: "A large park for relaxation and play." , es: "Un gran parque para el descanso y el juego.", pt: "Um grande parque para lazer e jogos.", fr: "Un grand parc pour la détente et le jeu."},
     facts: {
       de: ["Verfügt über moderne Spielplätze.", "Beliebter Treffpunkt für Einwohner."],
@@ -716,7 +713,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-NF",
     coords: [12.0, 31.8],
     name: { de: "Djebel Nafusa Olivenhaine", hu: "Dzsebel Nefusza olajfaligetek", ro: "Livezile de măslini Jebel Nafusa", en: "Jebel Nafusa Olive Groves"},
-    image: "/poi-images/djebel-nafusa-agri-life-v2.webp",
     description: { de: "Traditionelle Olivenanbauregion im Bergland.", hu: "Hagyományos olívatermesztő régió a hegyvidéken.", ro: "Regiune tradițională de cultivare a măslinelor în zona montană.", en: "Traditional olive growing region in the mountains." , es: "Región tradicional de cultivo de olivos en las montañas.", pt: "Região tradicional de cultivo de oliveiras nas montanhas.", fr: "Région oléicole traditionnelle dans les montagnes."},
     facts: {
       de: ["Bekannt für hochwertige Olivenölproduktion.", "Über Jahrhunderte gepflegte Anbaumethoden."],
@@ -754,7 +750,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-NL",
     coords: [9.5, 30.1],
     name: { de: "Gadamis Oase", hu: "Gadamis oázis", ro: "Oaza Ghadames", en: "Ghadames Oasis"},
-    image: "/poi-images/gadamis-oasis-life-v2.webp",
     description: { de: "Eine grüne Oase mit traditionellem Anbau.", hu: "Zöld oázis hagyományos termesztéssel.", ro: "O oază verde cu culturi tradiționale.", en: "A green oasis with traditional cultivation." , es: "Un oasis verde con agricultura tradicional.", pt: "Um oásis verde com agricultura tradicional.", fr: "Une oasis verdoyante avec culture traditionnelle."},
     facts: {
       de: ["Anbau von Datteln und Gemüse.", "Ein Symbol für Leben in der Wüste."],
@@ -792,7 +787,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-KF",
     coords: [23.3, 24.2],
     name: { de: "Kufra Obstgärten", hu: "Kufra gyümölcsöskertek", ro: "Livezile Kufra", en: "Kufra Orchards"},
-    image: "/poi-images/kufra-orchard-life-v2.webp",
     description: { de: "Bewässerte Gärten mitten in der Wüste.", hu: "Öntözött kertek a sivatag közepén.", ro: "Grădini irigate în mijlocul deșertului.", en: "Irrigated gardens in the middle of the desert." , es: "Huertos regados en medio del desierto.", pt: "Pomares irrigados no meio do deserto.", fr: "Vergers irrigués au milieu du désert."},
     facts: {
       de: ["Ermöglicht durch unterirdische Wasserreserven.", "Zentrum für lokale Obstversorgung."],
@@ -830,7 +824,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-ZA",
     coords: [12.7, 32.7],
     name: { de: "Zawia Agrarzone", hu: "Záviai mezőgazdasági övezet", ro: "Zona agricolă Zawia", en: "Zawia Agricultural Zone"},
-    image: "/poi-images/zawia-farm-life-v2.webp",
     description: { de: "Ein bedeutendes Gebiet für den Ackerbau.", hu: "Jelentős terület a növénytermesztés számára.", ro: "O zonă semnificativă pentru agricultură.", en: "A significant area for farming." , es: "Una zona importante para la agricultura.", pt: "Uma área importante para a agricultura.", fr: "Une zone importante pour l'agriculture."},
     facts: {
       de: ["Produziert Getreide und Futterpflanzen.", "Wirtschaftlicher Motor der Region."],
@@ -985,7 +978,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-GH",
     coords: [13.0, 32.1],
     name: { de: "Gharyan Gärtnerei", hu: "Garian kertészet", ro: "Grădina botanică Gharyan", en: "Gharyan Nursery"},
-    image: "/poi-images/gharyan-nursery-life-v2.webp",
     description: { de: "Ein Zentrum für Setzlinge und Pflanzen.", hu: "Palánták és növények központja.", ro: "Un centru pentru răsaduri și plante.", en: "A center for seedlings and plants." , es: "Un centro de plantones y vegetación.", pt: "Um centro de mudas e vegetação.", fr: "Un centre de semis et de plantes."},
     facts: {
       de: ["Unterstützt die lokale Landwirtschaft.", "Züchtet klimaresistente Pflanzen."],
@@ -1068,7 +1060,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-SB",
     coords: [14.4, 27.0],
     name: { de: "Sebha Familienpark", hu: "Szebha családi park", ro: "Parcul familial Sebha", en: "Sebha Family Park"},
-    image: "/poi-images/sebha-park-life-v2.webp",
     description: { de: "Ein Erholungspark für Familien in der Wüste.", hu: "Pihenőpark családoknak a sivatagban.", ro: "Un parc de recreere pentru familii în deșert.", en: "A recreation park for families in the desert." , es: "Un parque de recreo para familias en el desierto.", pt: "Um parque de lazer para famílias no deserto.", fr: "Un parc de loisirs pour les familles dans le désert."},
     facts: {
       de: ["Beliebter Ort für Sommerabende.", "Bietet schattige Sitzbereiche."],
@@ -1187,7 +1178,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-TB",
     coords: [23.9, 32.0],
     name: { de: "Tubruq Stadtgarten", hu: "Tubruki városkert", ro: "Grădina orașului Tobruk", en: "Tobruk City Garden"},
-    image: "/poi-images/tubruq-garden-life-v2.webp",
     description: { de: "Ein grüner Ruhepunkt in Tubruq.", hu: "Zöld nyugvópont Tubrukban.", ro: "Un punct de odihnă verde în Tobruk.", en: "A green resting point in Tobruk." , es: "Un tranquilo punto verde en Tobruk.", pt: "Um tranquilo ponto verde em Tobruque.", fr: "Un havre de paix verdoyant à Tobrouk."},
     facts: {
       de: ["Bietet Blick auf den Hafen.", "Gepflegte Blumenbeete."],
@@ -1225,7 +1215,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-BA",
     coords: [21.7, 32.7],
     name: { de: "Al-Baida Tierpark", hu: "El-Bajda állatpark", ro: "Parcul animalier Al-Baida", en: "Al-Baida Zoo"},
-    image: "/poi-images/al-baida-zoo-life-v2.webp",
     description: { de: "Ein kleiner Tierpark in der Kyrenaika.", hu: "Kis állatpark Kirenaikában.", ro: "O mică grădină zoologică în Cirenaica.", en: "A small zoo in Cyrenaica." , es: "Un pequeño parque zoológico en la Cirenaica.", pt: "Um pequeno parque zoológico na Cirenaica.", fr: "Un petit parc zoologique en Cyrénaïque."},
     facts: {
       de: ["Zeigt einheimische Wüstentiere.", "Bildungszentrum für Kinder."],
@@ -1263,7 +1252,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-BA",
     coords: [21.0, 32.5],
     name: { de: "Dschabal al-Achdar Obstbau", hu: "Dzsebel el-Ahdar gyümölcstermesztés", ro: "Pomicultură Jebel Akhdar", en: "Jebel Akhdar Fruit Farming"},
-    image: "/poi-images/djebel-akhdar-farm-life-v2.webp",
     description: { de: "Obstbaugebiet im grünen Gebirge.", hu: "Gyümölcstermesztő terület a zöld hegyekben.", ro: "Zonă pomicolă în munții verzi.", en: "Fruit farming area in the green mountains." , es: "Zona frutícola en las montañas verdes.", pt: "Zona frutícola nas montanhas verdes.", fr: "Zone arboricole dans la montagne verte."},
     facts: {
       de: ["Baut Äpfel und Birnen an.", "Mildes Klima ermöglicht Ernten."],
@@ -1346,7 +1334,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-BA",
     coords: [21.3, 32.6],
     name: { de: "Slonta Baumschule", hu: "Slonta faiskola", ro: "Pepiniere Slonta", en: "Slonta Nursery"},
-    image: "/poi-images/slonta-nursery-life-v2.webp",
     description: { de: "Wichtige Baumschule für die Region.", hu: "Fontos faiskola a régióban.", ro: "Pepinieră importantă pentru regiune.", en: "Important nursery for the region." , es: "Vivero importante para la región.", pt: "Viveiro importante para a região.", fr: "Pépinière importante pour la région."},
     facts: {
       de: ["Produziert Setzlinge für Wiederaufforstung.", "Fachwissen über lokale Flora."],
@@ -1384,7 +1371,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-JA",
     coords: [21.5, 29.0],
     name: { de: "Jalu Oasenanbau", hu: "Dzsalu oázistermesztés", ro: "Agricultura oazei Jalu", en: "Jalu Oasis Farming"},
-    image: "/poi-images/jalu-oasis-farm-life-v2.webp",
     description: { de: "Traditioneller Anbau in der Oase.", hu: "Hagyományos termesztés az oázisban.", ro: "Agricultură tradițională în oază.", en: "Traditional cultivation in the oasis." , es: "Cultivo tradicional en el oasis.", pt: "Cultivo tradicional no oásis.", fr: "Culture traditionnelle dans l'oasis."},
     facts: {
       de: ["Weltberühmt für Dattelsorten.", "Verbindet Tradition mit Bewässerungstechnik."],
@@ -1467,7 +1453,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-JA",
     coords: [21.3, 29.1],
     name: { de: "Awjila Dattelhain", hu: "Audzsila datolyaliget", ro: "Livezile de curmali Awjila", en: "Awjila Date Grove"},
-    image: "/poi-images/awjila-orchard-life-v2.webp",
     description: { de: "Historische Oase mit Dattelanbau.", hu: "Történelmi oázis datolyatermesztéssel.", ro: "Oază istorică cu cultivarea curmalelor.", en: "Historical oasis with date farming." , es: "Oasis histórico con cultivo de dátiles.", pt: "Oásis histórico com cultivo de tâmaras.", fr: "Oasis historique avec culture de dattes."},
     facts: {
       de: ["Seit Jahrhunderten bepflanzt.", "Ein Zentrum für lokale Kultur."],
@@ -1505,7 +1490,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-MI",
     coords: [14.8, 32.0],
     name: { de: "Tauergha Park", hu: "Tauerga park", ro: "Parcul Tauergha", en: "Tauergha Park"},
-    image: "/poi-images/tauergha-park-life-v2.webp",
     description: { de: "Ein Erholungsgebiet im Wiederaufbau.", hu: "Rekreációs terület az újjáépítésben.", ro: "O zonă de recreere în reconstrucție.", en: "A recreational area in reconstruction." , es: "Una zona recreativa en reconstrucción.", pt: "Uma zona de lazer em reconstrução.", fr: "Une zone de loisirs en reconstruction."},
     facts: {
       de: ["Entsteht neu für die Gemeinschaft.", "Mit kleinen Sportanlagen."],
@@ -1543,7 +1527,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-MI",
     coords: [14.3, 32.6],
     name: { de: "Homs Stadtpark", hu: "Homsz városliget", ro: "Parcul orașului Homs", en: "Homs City Park"},
-    image: "/poi-images/homsh-city-park-life-v2.webp",
     description: { de: "Ein schattiger Park nahe der Küste.", hu: "Árnyékos park a part közelében.", ro: "Un parc umbrit lângă coastă.", en: "A shaded park near the coast." , es: "Un parque sombreado cerca de la costa.", pt: "Um parque sombreado perto da costa.", fr: "Un parc ombragé près de la côte."},
     facts: {
       de: ["Bietet Spielbereiche für Kinder.", "Ein Ort der Entspannung."],
@@ -1581,7 +1564,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-SR",
     coords: [16.6, 31.2],
     name: { de: "Sirte Familienzentrum", hu: "Szirt családi központ", ro: "Centrul familial Sirte", en: "Sirte Family Center"},
-    image: "/poi-images/sirte-family-life-v2.webp",
     description: { de: "Ein Treffpunkt für Familien in Sirte.", hu: "Találkozóhely családoknak Szirtben.", ro: "Un loc de întâlnire pentru familii în Sirte.", en: "A meeting place for families in Sirte." , es: "Un punto de encuentro para familias en Sirte.", pt: "Um ponto de encontro para famílias em Sirte.", fr: "Un lieu de rencontre pour les familles à Syrte."},
     facts: {
       de: ["Veranstaltet Kinderfeste.", "Mit Innen- und Außenbereichen."],
@@ -1619,7 +1601,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-MU",
     coords: [13.9, 25.9],
     name: { de: "Murzuq Oase", hu: "Murzuk oázis", ro: "Oaza Murzuq", en: "Murzuq Oasis"},
-    image: "/poi-images/murzuq-oasis-life-v2.webp",
     description: { de: "Traditioneller Anbau in der Wüste.", hu: "Hagyományos termesztés a sivatagban.", ro: "Agricultură tradițională în deșert.", en: "Traditional farming in the desert." , es: "Cultivo tradicional en el desierto.", pt: "Cultivo tradicional no deserto.", fr: "Culture traditionnelle dans le désert."},
     facts: {
       de: ["Baut Gemüse für den Eigenbedarf an.", "Wichtiger Wasserpunkt."],
@@ -1662,7 +1643,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-GT",
     coords: [10.2, 24.9],
     name: { de: "Ghat Oasenanbau", hu: "Ghat oázistermesztés", ro: "Agricultura oazei Ghat", en: "Ghat Oasis Farming"},
-    image: "/poi-images/ghat-oasis-life-v2.webp",
     description: { de: "Landbau am Rande des Tassili n'Ajjer.", hu: "Gazdálkodás a Tassili n'Ajjer szélén.", ro: "Agricultură la marginea Tassili n'Ajjer.", en: "Farming at the edge of Tassili n'Ajjer." , es: "Agricultura en el borde del Tassili n'Ajjer.", pt: "Agricultura na borda do Tassili n'Ajjer.", fr: "Agriculture en bordure du Tassili n'Ajjer."},
     facts: {
       de: ["Gartenbau mit uralten Methoden.", "Symbol für Anpassung."],
@@ -1745,7 +1725,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-NQ",
     coords: [12.1, 32.9],
     name: { de: "Zwara Grüngürtel", hu: "Zvára zöldövezet", ro: "Centura verde Zwara", en: "Zwara Green Belt"},
-    image: "/poi-images/zwara-green-belt-life-v2.webp",
     description: { de: "Ein landwirtschaftliches Schutzgebiet.", hu: "Mezőgazdasági védterület.", ro: "O zonă agricolă protejată.", en: "An agricultural protected area." , es: "Una zona agrícola protegida.", pt: "Uma zona agrícola protegida.", fr: "Une zone agricole protégée."},
     facts: {
       de: ["Fördert nachhaltige Landwirtschaft.", "Schützt vor Wüstenbildung."],
@@ -1828,7 +1807,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-NL",
     coords: [10.5, 30.1],
     name: { de: "Darj Oasengärten", hu: "Dards oáziskertek", ro: "Grădinile oazei Darj", en: "Darj Oasis Gardens"},
-    image: "/poi-images/darj-oasis-life-v2.webp",
     description: { de: "Kleine Gärten in der libyschen Wüste.", hu: "Kis kertek a líbiai sivatagban.", ro: "Mici grădini în deșertul libian.", en: "Small gardens in the Libyan desert." , es: "Pequeños jardines en el desierto libio.", pt: "Pequenos jardins no deserto líbio.", fr: "Petits jardins dans le désert libyen."},
     facts: {
       de: ["Spezialisiert auf Kleingemüse.", "Oft familiengeführt."],
@@ -1911,7 +1889,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-NL",
     coords: [10.9, 31.9],
     name: { de: "Nalut Terrassenanbau", hu: "Nalut teraszos gazdálkodás", ro: "Agricultura în terase Nalut", en: "Nalut Terrace Farming"},
-    image: "/poi-images/nalut-terrace-life-v2.webp",
     description: { de: "Historische Terrassenfelder am Berg.", hu: "Történelmi teraszos földek a hegyen.", ro: "Câmpuri în terase istorice pe munte.", en: "Historical terrace fields on the mountain." , es: "Campos de terrazas históricas en la montaña.", pt: "Campos de terraços históricos na montanha.", fr: "Champs en terrasses historiques sur la montagne."},
     facts: {
       de: ["Sehr effiziente Wassernutzung.", "Kulturerbe der Region."],
@@ -1949,7 +1926,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-JU",
     coords: [16.0, 29.1],
     name: { de: "Jufra Palmenhaine", hu: "Dzsufra pálmaligetek", ro: "Livezile de palmieri Jufra", en: "Jufra Palm Groves"},
-    image: "/poi-images/jufra-orchard-life-v2.webp",
     description: { de: "Großflächiger Anbau von Dattelpalmen.", hu: "Datolyapálmák nagyméretű termesztése.", ro: "Cultivarea pe scară largă a palmierilor curmali.", en: "Large-scale cultivation of date palms." , es: "Cultivo extensivo de palmeras datileras.", pt: "Cultivo extensivo de tamareiras.", fr: "Culture extensive de palmiers-dattiers."},
     facts: {
       de: ["Zentrale Erwerbsquelle für Jufra.", "Landschaftsprägend."],
@@ -2032,7 +2008,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-TR",
     coords: [13.6, 32.4],
     name: { de: "Tarhuna Setzlingszentrum", hu: "Tarhuna palántaközpont", ro: "Centrul de răsaduri Tarhuna", en: "Tarhuna Seedling Center"},
-    image: "/poi-images/tarhuna-nursery-life-v2.webp",
     description: { de: "Ein Betrieb für junge Obstbäume.", hu: "Üzem fiatal gyümölcsfák számára.", ro: "O unitate pentru pomi fructiferi tineri.", en: "A facility for young fruit trees." , es: "Una empresa de árboles frutales jóvenes.", pt: "Uma empresa de árvores frutíferas jovens.", fr: "Une exploitation pour de jeunes arbres fruitiers."},
     facts: {
       de: ["Versorgt das Umland mit Bäumen.", "Fokus auf Oliven und Mandeln."],
@@ -2115,7 +2090,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-MI",
     coords: [14.0, 32.5],
     name: { de: "Msallata Olivenplantagen", hu: "Msallata olajfaültetvények", ro: "Plantații de măslini Msallata", en: "Msallata Olive Plantations"},
-    image: "/poi-images/msallata-olive-life-v2.webp",
     description: { de: "Bedeutende Olivenregion nahe der Küste.", hu: "Jelentős olíva régió a part közelében.", ro: "Regiune importantă de măsline lângă coastă.", en: "Important olive region near the coast." , es: "Importante región olivarera cerca de la costa.", pt: "Importante região olivícola perto da costa.", fr: "Importante région oléicole près de la côte."},
     facts: {
       de: ["Jahrhundertealte Bäume.", "Produziert erstklassiges Olivenöl."],
@@ -2153,7 +2127,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-GT",
     coords: [10.1, 24.9],
     name: { de: "Ghat Familienplatz", hu: "Ghat családi tér", ro: "Piața familială Ghat", en: "Ghat Family Square"},
-    image: "/poi-images/ghat-family-life-v2.webp",
     description: { de: "Ein zentraler Ort für Familien in Ghat.", hu: "Központi hely családoknak Ghatban.", ro: "Un loc central pentru familii în Ghat.", en: "A central place for families in Ghat." , es: "Un lugar central para las familias en Ghat.", pt: "Um local central para as famílias em Ghat.", fr: "Un lieu central pour les familles à Ghat."},
     facts: {
       de: ["Ort für lokale Märkte.", "Treffpunkt der Gemeinde."],
@@ -2191,7 +2164,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-SR",
     coords: [18.2, 30.5],
     name: { de: "Bin Jawad Freizeitpark", hu: "Bin Dzsavád élménypark", ro: "Parcul de agrement Bin Jawad", en: "Bin Jawad Leisure Park"},
-    image: "/poi-images/bin-jawad-park-life-v2.webp",
     description: { de: "Ein Park am Rande des Golfs.", hu: "Park az öböl szélén.", ro: "Un parc la marginea golfului.", en: "A park at the edge of the gulf." , es: "Un parque a orillas del golfo.", pt: "Um parque à beira do golfo.", fr: "Un parc au bord du golfe."},
     facts: {
       de: ["Mit Spielgeräten für Kinder.", "Beliebt für Picknicks."],
@@ -2274,7 +2246,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     parent: "LY-ZA",
     coords: [13.0, 32.5],
     name: { de: "Al-Azizia Ackerland", hu: "El-Azizija szántóföldek", ro: "Terenuri arabile Al-Azizia", en: "Al-Azizia Farmland"},
-    image: "/poi-images/al-azizia-agri-life-v2.webp",
     description: { de: "Fruchtbares Ackergebiet südlich von Tripolis.", hu: "Termékeny szántóföldek Tripolitól délre.", ro: "Zonă arabilă fertilă la sud de Tripoli.", en: "Fertile farmland south of Tripoli." , es: "Tierras de cultivo fértiles al sur de Trípoli.", pt: "Terras agrícolas férteis a sul de Trípoli.", fr: "Terres agricoles fertiles situées au sud de Tripoli."},
     facts: {
       de: ["Wichtig für die lokale Gemüseversorgung.", "Intensive Landwirtschaft."],

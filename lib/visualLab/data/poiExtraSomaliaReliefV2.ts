@@ -161,7 +161,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-SA",
     coords: [44.7, 10.1],
     name: { de: "Golis-Massiv", hu: "Golis-masszívum", ro: "Masivul Golis", en: "Golis Massif"},
-    image: "/poi-images/golis-range-relief-v2.webp",
     description: { de: "Ein bedeutendes Gebirgsmassiv im Norden Somalias.", hu: "Jelentős hegységmasszívum Szomália északi részén.", ro: "Un masiv muntos important în nordul Somaliei.", en: "A significant mountain range in northern Somalia." , es: "Un importante macizo montañoso en el norte de Somalia.", pt: "Um importante maciço montanhoso no norte da Somália.", fr: "Un massif montagneux important dans le nord de la Somalie."},
     facts: {
       de: ["Erreicht Höhen über 2000 Meter.", "Wichtige Wasserscheide in der Region."],
@@ -197,7 +196,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-GE",
     coords: [44.5, 6.0],
     name: { de: "Ogaden-Ebene", hu: "Ogaden-síkság", ro: "Câmpia Ogaden", en: "Ogaden Plain"},
-    image: "/poi-images/ogaden-plain-relief-v2.webp",
     description: { de: "Eine weite, aride Ebene im südöstlichen Somalia.", hu: "Hatalmas, száraz síkság Szomália délkeleti részén.", ro: "O câmpie aridă vastă în sud-estul Somaliei.", en: "A vast, arid plain in southeastern Somalia." , es: "Una vasta llanura árida en el sureste de Somalia.", pt: "Uma vasta planície árida no sudeste da Somália.", fr: "Une vaste plaine aride dans le sud-est de la Somalie."},
     facts: {
       de: ["Geprägt durch Dornbuschvegetation.", "Wichtiges Weideland für Nomaden."],
@@ -350,7 +348,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-SA",
     coords: [48.8, 10.9],
     name: { de: "Cal-Madow-Gipfel", hu: "Cal Madow-csúcsok", ro: "Vârfurile Cal Madow", en: "Cal Madow Peaks"},
-    image: "/poi-images/cal-madow-peaks-relief-v2.webp",
     description: { de: "Die höchsten Gipfel der Cal-Madow-Gebirgskette.", hu: "A Cal Madow hegység legmagasabb csúcsai.", ro: "Cele mai înalte vârfuri ale lanțului Cal Madow.", en: "The highest peaks of the Cal Madow mountain range." , es: "Los picos más altos de la cadena montañosa de Cal-Madow.", pt: "Os picos mais altos da cordilheira de Cal-Madow.", fr: "Les plus hauts sommets de la chaîne de montagnes Cal-Madow."},
     facts: {
       de: ["Beherbergt seltene Pflanzenarten.", "Steile Kalksteinformationen."],
@@ -386,7 +383,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-JD",
     coords: [42.6, 1.5],
     name: { de: "Jubba-Talbecken", hu: "Jubba-völgy medence", ro: "Bazinul Văii Jubba", en: "Jubba Valley Basin"},
-    image: "/poi-images/jubba-valley-relief-v2.webp",
     description: { de: "Ein fruchtbares Tieflandbecken entlang des Jubba-Flusses.", hu: "Termékeny alföldi medence a Jubba-folyó mentén.", ro: "Un bazin de câmpie fertil de-a lungul râului Jubba.", en: "A fertile lowland basin along the Jubba river." , es: "Una fértil cuenca de tierras bajas a lo largo del río Jubba.", pt: "Uma bacia fértil de terras baixas ao longo do rio Jubba.", fr: "Un bassin fertile de basses terres le long du fleuve Jubba."},
     facts: {
       de: ["Höchste landwirtschaftliche Produktivität.", "Regelmäßige saisonale Überschwemmungen."],
@@ -422,7 +418,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-BS",
     coords: [45.0, 4.0],
     name: { de: "Shabelle-Plateau", hu: "Shabelle-fennsík", ro: "Podișul Shabelle", en: "Shabelle Plateau"},
-    image: "/poi-images/shabelle-plateau-relief-v2.webp",
     description: { de: "Ein ausgedehntes Hochlandgebiet, das den Fluss Shabelle flankiert.", hu: "Kiterjedt fennsík a Shabelle-folyó mentén.", ro: "O zonă vastă de podiș care flanchează râul Shabelle.", en: "An extensive highland area flanking the Shabelle river." , es: "Una extensa zona de tierras altas que flanquea el río Shabelle.", pt: "Uma extensa zona de terras altas que flanqueia o rio Shabelle.", fr: "Une vaste zone de hautes terres qui flanque le fleuve Shabelle."},
     facts: {
       de: ["Besteht aus sedimentärem Gestein.", "Wichtige Ressource für Grundwasser."],
@@ -647,7 +642,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-SA",
     coords: [49.0, 11.0],
     name: { de: "Darin-Tal", hu: "Darin-völgy", ro: "Valea Darin", en: "Darin Valley"},
-    image: "/poi-images/darin-valley-relief-v2.webp",
     description: { de: "Ein tief eingeschnittenes Tal im nördlichen Bergland.", hu: "Mélyen bevágódott völgy az északi hegyvidéken.", ro: "O vale adânc tăiată în zona muntoasă din nord.", en: "A deeply incised valley in the northern highlands." , es: "Un valle profundamente cortado en las tierras altas del norte.", pt: "Um vale profundamente entalhado nas terras altas do norte.", fr: "Une vallée profondément encaissée dans les hautes terres du nord."},
     facts: {
       de: ["Schutz vor starken Winden.", "Mikroklima begünstigt Flora."],
@@ -683,7 +677,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-SA",
     coords: [44.8, 9.9],
     name: { de: "Gacan-Libaah-Gipfel", hu: "Gacan Libaah-csúcs", ro: "Vârful Gacan Libaah", en: "Gacan Libaah Summit"},
-    image: "/poi-images/gacan-libaah-summit-relief-v2.webp",
     description: { de: "Ein markanter Gipfel innerhalb der Golis-Gebirgskette.", hu: "Kiemelkedő csúcs a Golis-hegységben.", ro: "Un vârf proeminent în cadrul lanțului Golis.", en: "A prominent peak within the Golis mountain range." , es: "Un pico prominente dentro de la cordillera de Golis.", pt: "Um pico proeminente dentro da cordilheira de Golis.", fr: "Un sommet marquant au sein de la chaîne de montagnes de Golis."},
     facts: {
       de: ["Bekannt für ausgedehnte Wälder.", "Strategische Aussichtsplattform."],
@@ -764,7 +757,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-SA",
     coords: [46.5, 10.5],
     name: { de: "Xaysimo-Hochland", hu: "Xaysimo-fennsík", ro: "Podișul Xaysimo", en: "Xaysimo Highlands"},
-    image: "/poi-images/xaysimo-highlands-relief-v2.webp",
     description: { de: "Ein bewaldetes Hochlandgebiet im Norden.", hu: "Erdős fennsík az északi régióban.", ro: "O zonă împădurită de podiș în nord.", en: "A forested highland area in the north." , es: "Una zona de tierras altas boscosas en el norte.", pt: "Uma área de terras altas arborizadas no norte.", fr: "Une zone de hauts plateaux boisés dans le nord."},
     facts: {
       de: ["Hohe Biodiversität.", "Enthält seltene Wacholderbestände."],
@@ -800,7 +792,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-JD",
     coords: [43.5, 0.2],
     name: { de: "Juba-Delta-Ebenen", hu: "Juba-delta síkság", ro: "Câmpiile Deltei Juba", en: "Juba Delta Plains"},
-    image: "/poi-images/juba-delta-plains-relief-v2.webp",
     description: { de: "Flache, sedimentreiche Ebenen an der Mündung des Juba.", hu: "Lapos, üledékben gazdag síkság a Juba torkolatánál.", ro: "Câmpii plate, bogate în sedimente la gura de vărsare a râului Juba.", en: "Flat, sediment-rich plains at the mouth of the Juba." , es: "Llanuras planas y ricas en sedimentos en la desembocadura del Juba.", pt: "Planícies planas e ricas em sedimentos na foz do Juba.", fr: "Plaines plates et riches en sédiments à l'embouchure du Juba."},
     facts: {
       de: ["Komplexe Kanalstruktur.", "Ideale Bedingungen für Reisbau."],
@@ -881,7 +872,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-SA",
     coords: [47.5, 10.0],
     name: { de: "Karkar-Gebirge", hu: "Karkar-hegység", ro: "Munții Karkar", en: "Karkar Mountains"},
-    image: "/poi-images/karkar-mountains-relief-v2.webp",
     description: { de: "Eine trockene, bergige Region im Nordosten.", hu: "Száraz, hegyvidéki régió északkeleten.", ro: "O regiune aridă și muntoasă în nord-est.", en: "An arid, mountainous region in the northeast." , es: "Una región seca y montañosa en el noreste.", pt: "Uma região seca e montanhosa no nordeste.", fr: "Une région sèche et montagneuse dans le nord-est."},
     facts: {
       de: ["Geprägt von Erosion.", "Wenig menschliche Besiedlung."],
@@ -917,7 +907,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-MU",
     coords: [47.0, 6.0],
     name: { de: "Mudug-Savanne", hu: "Mudug-szavanna", ro: "Savana Mudug", en: "Mudug Savanna"},
-    image: "/poi-images/mudug-savanna-relief-v2.webp",
     description: { de: "Eine ausgedehnte Savannenlandschaft in Zentral-Somalia.", hu: "Kiterjedt szavannatájak Közép-Szomáliában.", ro: "Un peisaj vast de savană în centrul Somaliei.", en: "An expansive savanna landscape in central Somalia." , es: "Un extenso paisaje de sabana en el centro de Somalia.", pt: "Uma extensa paisagem de savana no centro da Somália.", fr: "Un vaste paysage de savane dans le centre de la Somalie."},
     facts: {
       de: ["Kurze Regenzeiten.", "Lebensraum für Wildtiere."],
@@ -1178,7 +1167,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-SA",
     coords: [51.2, 11.8],
     name: { de: "Gardafui-Steilküste", hu: "Gardafui-sziklafal", ro: "Stâncile coastei Gardafui", en: "Gardafui Coastal Cliffs"},
-    image: "/poi-images/gardafui-coast-cliffs-relief-v2.webp",
     description: { de: "Dramatische Steilklippen am Horn von Afrika.", hu: "Drámai sziklafalak Afrika szarvánál.", ro: "Stânci dramatice la Cornul Africii.", en: "Dramatic cliffs at the Horn of Africa." , es: "Dramáticos acantilados en el Cuerno de África.", pt: "Dramáticas falésias no Corno de África.", fr: "Dramatiques falaises sur la Corne de l'Afrique."},
     facts: {
       de: ["Starke Meeresströmungen.", "Wichtige Landmarke für Seefahrer."],
@@ -1250,7 +1238,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-SA",
     coords: [47.2, 10.7],
     name: { de: "Surud-Cad-Höhenzug", hu: "Surud Cad-vonulat", ro: "Înălțimile Surud Cad", en: "Surud Cad Heights"},
-    image: "/poi-images/surud-cad-heights-relief-v2.webp",
     description: { de: "Höchste Erhebung Somalias.", hu: "Szomália legmagasabb hegyvonulata.", ro: "Cea mai înaltă zonă din Somalia.", en: "Highest elevation area of Somalia." , es: "La elevación más alta de Somalia.", pt: "A elevação mais alta da Somália.", fr: "Le point culminant de la Somalie."},
     facts: {
       de: ["Teil des Golis-Gebirges.", "Alpine Klimabedingungen."],
@@ -1286,7 +1273,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-MU",
     coords: [48.5, 5.3],
     name: { de: "Hobyo-Dünen", hu: "Hobyo-dűnék", ro: "Dunele Hobyo", en: "Hobyo Dunes"},
-    image: "/poi-images/hobyo-dunes-relief-v2.webp",
     description: { de: "Ein ausgedehntes Wüstendünengebiet an der Küste.", hu: "Kiterjedt sivatagi dűnevidék a parton.", ro: "O zonă vastă de dune deșertice pe coastă.", en: "An extensive desert dune area on the coast." , es: "Una extensa zona de dunas desérticas en la costa.", pt: "Uma vasta área de dunas desérticas na costa.", fr: "Une vaste zone de dunes désertiques sur la côte."},
     facts: {
       de: ["Wanderdünen.", "Starke Winde formen die Landschaft."],
@@ -1322,7 +1308,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-BS",
     coords: [45.2, 3.5],
     name: { de: "Shabelle-Talbecken", hu: "Shabelle-völgy medence", ro: "Bazinul Văii Shabelle", en: "Shabelle Valley Basin"},
-    image: "/poi-images/shabelle-valley-relief-v2.webp",
     description: { de: "Das zentrale Becken des Shabelle-Flusssystems.", hu: "A Shabelle folyórendszer központi medencéje.", ro: "Bazinul central al sistemului fluvial Shabelle.", en: "The central basin of the Shabelle river system." , es: "La cuenca central del sistema fluvial Shabelle.", pt: "A bacia central do sistema fluvial Shabelle.", fr: "Le bassin central du système fluvial Shabelle."},
     facts: {
       de: ["Wichtig für die Bewässerung.", "Dichte Besiedlung entlang der Ufer."],
@@ -1358,7 +1343,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-NU",
     coords: [48.0, 8.0],
     name: { de: "Nugaal-Tal", hu: "Nugaal-völgy", ro: "Valea Nugaal", en: "Nugaal Valley"},
-    image: "/poi-images/nugaal-valley-relief-v2.webp",
     description: { de: "Ein trockenes Talbecken in Zentral-Somalia.", hu: "Száraz völgymedence Közép-Szomáliában.", ro: "Un bazin de vale arid în centrul Somaliei.", en: "An arid valley basin in central Somalia." , es: "Una cuenca de valle seco en el centro de Somalia.", pt: "Uma bacia de vale seco no centro da Somália.", fr: "Un bassin de vallée sèche dans le centre de la Somalie."},
     facts: {
       de: ["Saisonaler Flussverlauf.", "Weites, flaches Relief."],
@@ -1394,7 +1378,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-JD",
     coords: [42.0, -0.5],
     name: { de: "Bajuni-Küstenfelsen", hu: "Bajuni-parti sziklák", ro: "Stâncile coastei Bajuni", en: "Bajuni Coastal Cliffs"},
-    image: "/poi-images/bajuni-cliffs-relief-v2.webp",
     description: { de: "Felsige Küstenabschnitte bei den Bajuni-Inseln.", hu: "Sziklás partszakaszok a Bajuni-szigeteknél.", ro: "Secțiuni de coastă stâncoasă lângă insulele Bajuni.", en: "Rocky coastal sections near the Bajuni islands." , es: "Tramos de costa rocosa cerca de las islas Bajuni.", pt: "Trechos de costa rochosa perto das ilhas Bajuni.", fr: "Tronçons de côte rocheuse près des îles Bajuni."},
     facts: {
       de: ["Stark zerklüftete Küste.", "Korallenformationen unter Wasser."],
@@ -1430,7 +1413,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-SA",
     coords: [51.4, 10.4],
     name: { de: "Ras-Xaafuun-Halbinsel", hu: "Ras Xaafuun-félsziget", ro: "Peninsula Ras Xaafuun", en: "Ras Xaafuun Peninsula"},
-    image: "/poi-images/ras-xaafuun-peninsula-relief-v2.webp",
     description: { de: "Eine markante Halbinsel, die weit in den Indischen Ozean ragt.", hu: "Kiemelkedő félsziget, amely messzire nyúlik az Indiai-óceánba.", ro: "O peninsulă proeminentă care se întinde adânc în Oceanul Indian.", en: "A prominent peninsula extending far into the Indian Ocean." , es: "Una península prominente que se adentra profundamente en el Océano Índico.", pt: "Uma península proeminente que se estende profundamente no Oceano Índico.", fr: "Une péninsule proéminente qui s'enfonce loin dans l'océan Indien."},
     facts: {
       de: ["Östlichster Punkt Afrikas.", "Geologisch interessante Gesteinsschichten."],
@@ -1466,7 +1448,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-GE",
     coords: [44.3, 0.1],
     name: { de: "Dadaab-Tiefland", hu: "Dadaab-alföld", ro: "Câmpia joasă Dadaab", en: "Dadaab Lowlands"},
-    image: "/poi-images/dadaab-lowlands-relief-v2.webp",
     description: { de: "Weite, flache Niederungsgebiete im Grenzgebiet.", hu: "Széles, lapos alföldi területek a határ mentén.", ro: "Zone joase vaste și plate în zona de frontieră.", en: "Wide, flat low-lying areas in the border region." , es: "Vastas zonas bajas y llanas en la zona fronteriza.", pt: "Vastas áreas baixas e planas na zona fronteiriça.", fr: "Vastes zones basses et plates dans la zone frontalière."},
     facts: {
       de: ["Sandige Ebenen.", "Geringe Niederschläge."],
@@ -1502,7 +1483,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-BS",
     coords: [44.0, 1.1],
     name: { de: "Barawa-Küstenstreifen", hu: "Barawa-parti sáv", ro: "Fâșia de coastă Barawa", en: "Barawa Coastal Strip"},
-    image: "/poi-images/barawa-coastal-relief-v2.webp",
     description: { de: "Ein schmaler, sandiger Küstenstreifen.", hu: "Keskeny, homokos partszakasz.", ro: "O fâșie îngustă și nisipoasă de coastă.", en: "A narrow, sandy coastal strip." , es: "Una estrecha franja costera arenosa.", pt: "Uma estreita faixa costeira arenosa.", fr: "Une étroite bande côtière sablonneuse."},
     facts: {
       de: ["Dünengürtel.", "Wichtige Küstenerosion."],
@@ -1538,7 +1518,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-SA",
     coords: [47.4, 10.6],
     name: { de: "Ceerigaabo-Hochland", hu: "Ceerigaabo-fennsík", ro: "Podișul Ceerigaabo", en: "Ceerigaabo Uplands"},
-    image: "/poi-images/ceerigaabo-uplands-relief-v2.webp",
     description: { de: "Ein kühleres Hochlandgebiet.", hu: "Hűvösebb fennsíki terület.", ro: "O zonă mai răcoroasă de podiș.", en: "A cooler highland area." , es: "Una zona de tierras altas más fresca.", pt: "Uma zona de terras altas mais fresca.", fr: "Une zone de hautes terres plus fraîche."},
     facts: {
       de: ["Wacholderwälder.", "Höhere Niederschläge als im Tiefland."],
@@ -1574,7 +1553,6 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     parent: "SO-SA",
     coords: [51.0, 10.6],
     name: { de: "Hordio-Lagune", hu: "Hordio-lagúna", ro: "Laguna Hordio", en: "Hordio Lagoon"},
-    image: "/poi-images/hordio-lagoon-relief-v2.webp",
     description: { de: "Eine Küstenlagune im Nordosten.", hu: "Parti lagúna északkeleten.", ro: "O lagună de coastă în nord-est.", en: "A coastal lagoon in the northeast." , es: "Una laguna costera situada en el noreste.", pt: "Uma laguna costeira situada no nordeste.", fr: "Une lagune côtière située dans le nord-est."},
     facts: {
       de: ["Brackwasserökosystem.", "Wichtiger Rastplatz für Vögel."],

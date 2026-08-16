@@ -89,7 +89,6 @@ export const poiExtraIranReliefV2: POI[] = [
     parent: "IR-07",
     coords: [52.1108, 35.9511],
     name: { de: "Damavand", hu: "Damávand", ro: "Damavand", en: "Mount Damavand"},
-    image: "/poi-images/damavand-relief-v2.webp",
     description: {
       de: "Der Damavand ist ein ruhender Vulkan und der höchste Gipfel Irans sowie des gesamten Nahen Ostens.",
       hu: "A Damávand egy alvó vulkán, Irán és egyben a Közel-Kelet legmagasabb hegycsúcsa.",
@@ -148,7 +147,6 @@ export const poiExtraIranReliefV2: POI[] = [
     parent: "IR-20",
     coords: [54.0, 34.0],
     name: { de: "Dascht-e Kavir", hu: "Dast-e Kavir", ro: "Dasht-e Kavir", en: "Dasht-e Kavir"},
-    image: "/poi-images/dasht-e-kavir-relief-v2.webp",
     description: {
       de: "Die Große Salzwüste ist die größte Wüste Irans und besteht hauptsächlich aus weiten Salzsümpfen.",
       hu: "A Nagy-sós-sivatag Irán legnagyobb sivataga, amely hatalmas kiterjedésű sós mocsarakból áll.",
@@ -207,7 +205,6 @@ export const poiExtraIranReliefV2: POI[] = [
     parent: "IR-29",
     coords: [58.33, 30.54],
     name: { de: "Dascht-e Lut", hu: "Dast-e Lut", ro: "Deșertul Lut", en: "Lut Desert"},
-    image: "/poi-images/lut-desert-relief-v2.webp",
     description: {
       de: "Die Wüste Lut ist bekannt als einer der heißesten und trockensten Orte der Erde.",
       hu: "A Lut-sivatag a Föld egyik legforróbb és legszárazabb helyeként ismert.",
@@ -266,7 +263,6 @@ export const poiExtraIranReliefV2: POI[] = [
     parent: "IR-03",
     coords: [47.83, 38.25],
     name: { de: "Sabalan", hu: "Szabalán", ro: "Muntele Sabalan", en: "Mount Sabalan"},
-    image: "/poi-images/mount-sabalan-relief-v2.webp",
     description: {
       de: "Der Sabalan ist ein inaktiver Stratovulkan im Nordwesten Irans und beherbergt einen dauerhaften Kratersee.",
       hu: "A Szabalán egy inaktív rétegvulkán Északnyugat-Iránban, amelynek kráterében egy állandó tó található.",
@@ -325,7 +321,6 @@ export const poiExtraIranReliefV2: POI[] = [
     parent: "IR-01",
     coords: [46.5, 37.75],
     name: { de: "Sahand", hu: "Szahand", ro: "Muntele Sahand", en: "Mount Sahand"},
-    image: "/poi-images/mount-sahand-relief-v2.webp",
     description: {
       de: "Das Sahand-Gebirge ist ein massiver, stark erodierter Vulkan in der Provinz Ost-Aserbaidschan.",
       hu: "A Szahand egy masszív, erősen erodált vulkán Kelet-Azerbajdzsán tartományban.",
@@ -537,7 +532,6 @@ export const poiExtraIranReliefV2: POI[] = [
     parent: "IR-07",
     coords: [50.96, 36.37],
     name: { de: "Alam-Kuh", hu: "Alam-Kuh", ro: "Muntele Alam", en: "Alam-Kuh"},
-    image: "/poi-images/alam-kuh-relief-v2.webp",
     description: {
       de: "Der Alam-Kuh ist der zweithöchste Berg im Iran und berühmt für seine gewaltige Nordwand.",
       hu: "Az Alam-Kuh Irán második legmagasabb hegye, amely híres hatalmas északi faláról.",
@@ -641,7 +635,6 @@ export const poiExtraIranReliefV2: POI[] = [
     parent: "IR-08",
     coords: [50.06, 32.36],
     name: { de: "Zard-Kuh", hu: "Zard-Kuh", ro: "Zard-Kuh", en: "Zard-Kuh"},
-    image: "/poi-images/zard-kuh-relief-v2.webp",
     description: {
       de: "Der Zard-Kuh ist einer der höchsten Gipfel im zentralen Zagrosgebirge und eine wichtige Wasserquelle.",
       hu: "A Zard-Kuh a központi Zagrosz-hegység egyik legmagasabb csúcsa és fontos vízforrás.",
@@ -745,7 +738,6 @@ export const poiExtraIranReliefV2: POI[] = [
     parent: "IR-17",
     coords: [51.5, 30.95],
     name: { de: "Dena-Gebirge", hu: "Dena", ro: "Muntele Dena", en: "Mount Dena"},
-    image: "/poi-images/mount-dena-relief-v2.webp",
     description: {
       de: "Das Dena-Gebirge bildet einen markanten Gebirgszug innerhalb des größeren Zagros-Massivs.",
       hu: "A Dena egy kiemelkedő hegyláncot alkot a nagyobb Zagrosz-masszívumon belül.",
@@ -849,7 +841,6 @@ export const poiExtraIranReliefV2: POI[] = [
     parent: "IR-21",
     coords: [54.07, 31.6],
     name: { de: "Schir Kuh", hu: "Sir Kuh", ro: "Shir Kuh", en: "Shir Kuh"},
-    image: "/poi-images/shir-kuh-relief-v2.webp",
     description: {
       de: "Der Schir Kuh ist ein hochgelegener Berggipfel in Zentraliran, der der Wüstenstadt Yazd Wasser liefert.",
       hu: "A Sir Kuh egy magasan fekvő hegycsúcs Közép-Iránban, amely Yazd sivatagi városát látja el vízzel.",
@@ -908,7 +899,6 @@ export const poiExtraIranReliefV2: POI[] = [
     parent: "IR-15",
     coords: [50.0, 33.0],
     name: { de: "Zagrosgebirge", hu: "Zagrosz-hegység", ro: "Munții Zagros", en: "Zagros Mountains"},
-    image: "/poi-images/zagros-mountains-relief-v2.webp",
     description: {
       de: "Das Zagrosgebirge ist das längste Gebirge Irans und bildet eine natürliche Grenze im Westen des Landes.",
       hu: "A Zagrosz Irán leghosszabb hegysége, amely természetes határt képez az ország nyugati részén.",
@@ -1012,7 +1002,6 @@ export const poiExtraIranReliefV2: POI[] = [
     parent: "IR-07",
     coords: [51.0, 36.0],
     name: { de: "Elburs-Gebirge", hu: "Elburz", ro: "Munții Elburz", en: "Alborz Mountains"},
-    image: "/poi-images/alborz-mountains-relief-v2.webp",
     description: {
       de: "Das Elburs-Gebirge trennt das Kaspische Meer vom iranischen Hochland und prägt das Klima Nordirans.",
       hu: "Az Elburz hegység elválasztja a Kaszpi-tengert az Iráni-fennsíktól, és meghatározza Észak-Irán éghajlatát.",
@@ -1152,7 +1141,6 @@ export const poiExtraIranReliefV2: POI[] = [
     parent: "IR-13",
     coords: [61.13, 28.6],
     name: { de: "Taftan", hu: "Taftán", ro: "Vulcanul Taftan", en: "Taftan Volcano"},
-    image: "/poi-images/taftan-volcano-relief-v2.webp",
     description: {
       de: "Taftan ist ein aktiver Schichtvulkan in der südöstlichen Provinz Sistan und Belutschistan.",
       hu: "A Taftán egy aktív rétegvulkán a délkeleti Szisztán és Beludzsisztán tartományban.",
@@ -1211,7 +1199,6 @@ export const poiExtraIranReliefV2: POI[] = [
     parent: "IR-11",
     coords: [58.0, 37.5],
     name: { de: "Kopet-Dag", hu: "Kopet-dag", ro: "Munții Kopet Dag", en: "Kopet Dag"},
-    image: "/poi-images/kopet-dag-relief-v2.webp",
     description: {
       de: "Der Kopet-Dag ist ein Gebirgszug an der Grenze zwischen Iran und Turkmenistan.",
       hu: "A Kopet-dag egy hegylánc az iráni-türkmén határ mentén.",
@@ -1258,7 +1245,6 @@ export const poiExtraIranReliefV2: POI[] = [
     parent: "IR-13",
     coords: [60.0, 25.3],
     name: { de: "Makran-Küste", hu: "Makrán-part", ro: "Coasta Makran", en: "Makran Coast"},
-    image: "/poi-images/makran-coast-relief-v2.webp",
     description: {
       de: "Die Makran-Küste ist eine Halbwüsten-Küstenregion am Golf von Oman mit spektakulären Steilküsten.",
       hu: "A Makrán-part egy félsivatagi partvidék az Ománi-öböl mentén, látványos meredek sziklákkal.",
@@ -1362,7 +1348,6 @@ export const poiExtraIranReliefV2: POI[] = [
     parent: "IR-11",
     coords: [58.93, 36.27],
     name: { de: "Binalud-Gebirge", hu: "Binalud", ro: "Muntele Binalud", en: "Mount Binalud"},
-    image: "/poi-images/binalud-relief-v2.webp",
     description: {
       de: "Das Binalud-Gebirge erstreckt sich in der Provinz Khorasan und trennt die Ebenen von Nischapur und Maschhad.",
       hu: "A Binalud hegység Horászán tartományban húzódik, elválasztva Nisápur és Meshed síkságait.",
@@ -1421,7 +1406,6 @@ export const poiExtraIranReliefV2: POI[] = [
     parent: "IR-29",
     coords: [57.9, 30.4],
     name: { de: "Kaluts von Schahdad", hu: "Sahdad Kalutok", ro: "Deșertul Shahdad", en: "Shahdad Kaluts"},
-    image: "/poi-images/shahdad-kaluts-relief-v2.webp",
     description: {
       de: "Die Kaluts von Schahdad sind gigantische Sandburgen und Rillenstrukturen, die durch extreme Winderosion in der Lut-Wüste geformt wurden.",
       hu: "A Sahdad kalutjai gigantikus homokvárak és barázdált szerkezetek, amelyeket az extrém szélerózió formált a Lut-sivatagban.",
@@ -1525,7 +1509,6 @@ export const poiExtraIranReliefV2: POI[] = [
     parent: "IR-26",
     coords: [50.58, 36.39],
     name: { de: "Alamut-Tal", hu: "Alamut-völgy", ro: "Valea Alamut", en: "Alamut Valley"},
-    image: "/poi-images/alamut-valley-relief-v2.webp",
     description: {
       de: "Das Alamut-Tal ist eine malerische Bergregion im Elburs-Gebirge, die historische Bedeutung mit rauer Natur verbindet.",
       hu: "Az Alamut-völgy egy festői hegyvidéki régió az Elburz-hegységben, amely ötvözi a történelmi jelentőséget a zord természettel.",
@@ -1629,7 +1612,6 @@ export const poiExtraIranReliefV2: POI[] = [
     parent: "IR-04",
     coords: [51.8, 34.3],
     name: { de: "Maranjab-Wüste", hu: "Maranidzsáb-sivatag", ro: "Deșertul Maranjab", en: "Maranjab Desert"},
-    image: "/poi-images/maranjab-desert-relief-v2.webp",
     description: {
       de: "Die Maranjab-Wüste in Zentraliran ist berühmt für ihre goldenen Sanddünen und historischen Karawansereien.",
       hu: "A közép-iráni Maranidzsáb-sivatag híres aranyhomokos dűnéiről és történelmi karavánszerájairól.",
@@ -1805,7 +1787,6 @@ export const poiExtraIranReliefV2: POI[] = [
     parent: "IR-07",
     coords: [51.0, 36.7],
     name: { de: "Kaspische Küste", hu: "Kaszpi-tenger partvidéke", ro: "Coasta Caspică", en: "Caspian Coast"},
-    image: "/poi-images/caspian-coast-iran-relief-v2.webp",
     description: {
       de: "Die Küstenregion des Kaspischen Meeres im Iran ist im Gegensatz zum Rest des Landes üppig grün und niederschlagsreich.",
       hu: "Az iráni Kaszpi-tenger partvidéke az ország többi részével ellentétben buja zöld és csapadékos.",

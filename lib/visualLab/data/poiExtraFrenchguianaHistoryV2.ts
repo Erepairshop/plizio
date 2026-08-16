@@ -220,7 +220,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["Inaugurado em 1852 em Saint-Laurent-du-Maroni.", "Encerramento oficial do sistema penal em 1953.", "Local de chegada central para todos os condenados do ultramar.", "O recluso mais famoso foi Henri Charrière (Papillon).", "Classificado como monumento histórico francês.", "Alberga hoje o museu do sistema de degredo."],
       fr: ["Ouvert en 1852 à Saint-Laurent-du-Maroni.", "Fermeture officielle du système pénitentiaire en 1953.", "Point d'arrivée central pour tous les transportés d'outre-mer.", "Le détenu le plus célèbre fut Henri Charrière (Papillon).", "Classé au titre des monuments historiques français.", "Abrite aujourd'hui le Musée du Bagne."],
     }, },
-    image: "/poi-images/gf-camp-de-la-transportation-history-v2.webp",
     description: {
       de: "Die Hauptstrafkolonie-Einrichtung, in der Gefangene in Französisch-Guayana ankamen, bevor sie verteilt wurden.",
       hu: "A fő büntetőgyarmati létesítmény, ahol a foglyok megérkeztek Francia Guyanába, mielőtt szétosztották volna őket.",
@@ -387,7 +386,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["Localizam-se a 11 quilómetros da costa de Kourou.", "O grupo consiste em Royale, Saint-Joseph e Diable.", "Origem vulcânica de todo o arquipélago.", "Funcionamento como colónia penal de 1852 a 1953.", "Estação de monitorização para o Centro Espacial da Guiana.", "Área total de cerca de 62 hectares de terra."],
       fr: ["Situées à 11 kilomètres au large de Kourou.", "L'archipel se compose de Royale, Saint-Joseph et Diable.", "Origine volcanique de l'ensemble de l'archipel.", "Activité en tant que colonie pénitentiaire de 1852 à 1953.", "Station de surveillance pour le Centre Spatial Guyanais.", "Superficie totale d'environ 62 hectares de terre."],
     }, },
-    image: "/poi-images/gf-les-du-salut-history-v2.webp",
     description: {
       de: "Eine Gruppe kleiner Inseln, die für ihre berüchtigten Strafkolonien bekannt sind, einschließlich der Teufelsinsel.",
       hu: "Kis szigetek csoportja, amelyek hírhedt büntetőgyarmataikról, köztük az Ördög-szigetről ismertek.",
@@ -437,7 +435,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["A maior ilha do grupo com 28 hectares.", "Serviu como centro administrativo da colónia penal.", "Contém ruínas do hospital e da casa do diretor.", "Farol funcional do século XIX.", "Presença de uma igreja (Chapelle de l'Île Royale).", "Uso moderno de antigas casernas como alojamento turístico."],
       fr: ["La plus grande île du groupe avec 28 hectares.", "Servait de centre administratif à la colonie pénitentiaire.", "Contient les ruines de l'hôpital et de la maison du directeur.", "Phare fonctionnel datant du XIXe siècle.", "Présence d'une église (Chapelle de l'Île Royale).", "Utilisation moderne des anciennes casernes comme hébergement touristique."],
     }, },
-    image: "/poi-images/gf-le-royale-history-v2.webp",
     description: {
       de: "Die größte der Îles du Salut, die als Verwaltungszentrum für die Strafkolonie diente.",
       hu: "Az Üdvösség-szigetek legnagyobbika, amely a büntetőgyarmat közigazgatási központjaként szolgált.",
@@ -604,7 +601,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["Segunda maior ilha, com cerca de 20 hectares de área.", "Localização das celas de confinamento solitário (La Réclusion).", "Alcunha de 'A Ilha do Silêncio' devido à proibição de falar.", "Contém o cemitério para o pessoal da colónia.", "Os prisioneiros viviam em celas minúsculas e sem teto.", "Hoje coberta por uma densa floresta tropical secundária."],
       fr: ["Deuxième plus grande île, environ 20 hectares de superficie.", "Site des cellules de réclusion (La Réclusion).", "Surnommée l'île du silence en raison de la règle du silence absolu.", "Contient le cimetière du personnel de la colonie.", "Les prisonniers vivaient dans de minuscules cellules sans toit.", "Aujourd'hui recouverte d'une forêt tropicale secondaire dense."],
     }, },
-    image: "/poi-images/gf-le-saint-joseph-history-v2.webp",
     description: {
       de: "Die südlichste Insel der Gruppe, bekannt als die 'stille Insel', auf der Einzelhaft durchgesetzt wurde.",
       hu: "A csoport legdélibb szigete, amelyet 'csendes szigetként' ismertek, ahol a magánzárkát alkalmazták.",
@@ -654,7 +650,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["A menor ilha do grupo com 14 hectares.", "Local de cativeiro de Alfred Dreyfus (1895–1899).", "Sem acesso para visitantes devido às correntes perigosas.", "Cenário do famoso romance Papillon.", "Utilizada principalmente para prisioneiros políticos proeminentes.", "Administrada hoje como reserva natural pelo CNES."],
       fr: ["La plus petite île du groupe avec 14 hectares.", "Lieu de captivité d'Alfred Dreyfus (1895–1899).", "Aucun accès pour les visiteurs en raison des courants dangereux.", "Cadre du célèbre roman Papillon.", "Principalement utilisée pour les prisonniers politiques de haut rang.", "Gérée aujourd'hui comme réserve naturelle par le CNES."],
     }, },
-    image: "/poi-images/gf-le-du-diable-history-v2.webp",
     description: {
       de: "Berühmte Strafkolonie-Insel, auf der politische Gefangene wie Alfred Dreyfus festgehalten wurden.",
       hu: "Híres büntetőgyarmat-sziget, ahol olyan politikai foglyokat tartottak fogva, mint Alfred Dreyfus.",
@@ -704,7 +699,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["Construído em 1643 por Charles Poncet de Brétigny.", "Nomeado em honra do chefe indígena Galibi Cépérou.", "Localização estratégica numa colina sobre Caiena.", "Disputado repetidamente por tropas holandesas e portuguesas.", "Presença de uma torre sineira em estilo de pagode (século XIX).", "Oferece vistas panorâmicas sobre a foz do rio Cayenne."],
       fr: ["Érigé en 1643 par Charles Poncet de Brétigny.", "Nommé d'après le chef indigène Galibi Cépérou.", "Situation stratégique sur une colline surplombant Cayenne.", "Fréquemment disputé par les troupes néerlandaises et portugaises.", "Présence d'un clocher en forme de pagode (XIXe siècle).", "Offre des vues panoramiques sur l'embouchure de la rivière de Cayenne."],
     }, },
-    image: "/poi-images/gf-fort-c-p-rou-history-v2.webp",
     description: {
       de: "Historische Festungsruinen aus dem 17. Jahrhundert mit Blick auf die Stadt Cayenne.",
       hu: "A 17. századi történelmi erőd romjai, kilátással Cayenne városára.",
@@ -871,7 +865,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["Traçada no ano de 1821 pelo governador Pierre-Clément de Laussat.", "Famosa pelas suas palmeiras reais (Roystonea regia).", "Alberga uma estátua do político Félix Éboué.", "Localização do Monumento à República (1890).", "Ponto central para as celebrações do carnaval em Caiena.", "Rodeada por arquitetura colonial francesa clássica."],
       fr: ["Aménagée en 1821 par le gouverneur Pierre-Clément de Laussat.", "Célèbre pour ses palmiers royaux (Roystonea regia).", "Abrite une statue de l'homme politique Félix Éboué.", "Emplacement du monument de la République (1890).", "Nœud central des célébrations du carnaval de Cayenne.", "Entourée d'une architecture coloniale française classique."],
     }, },
-    image: "/poi-images/gf-place-des-palmistes-history-v2.webp",
     description: {
       de: "Der Hauptplatz in Cayenne, umgeben von historischen Kolonialgebäuden und hoch aufragenden Palmen.",
       hu: "Cayenne főtere, amelyet történelmi gyarmati épületek és tornyosuló pálmafák vesznek körül.",
@@ -921,7 +914,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["Início da construção em 1825 sob Nicolas Guiller.", "Conclusão oficial do edifício principal em 1833.", "Consagração como catedral a 9 de novembro de 1933.", "Construção da torre sineira entre 1952 e 1954.", "Classificação como Monumento Histórico a 29 de outubro de 1992.", "Contém um altar-mor em mármore de Carrara."],
       fr: ["Début de la construction en 1825 sous Nicolas Guiller.", "Achèvement officiel du bâtiment principal en 1833.", "Consécration en tant que cathédrale le 9 novembre 1933.", "Construction du clocher entre 1952 et 1954.", "Classement aux Monuments Historiques le 29 octobre 1992.", "Abrite un maître-autel en marbre de Carrare."],
     }, },
-    image: "/poi-images/gf-cath-drale-saint-sauveur-de-cayenne-history-v2.webp",
     description: {
       de: "Die primäre katholische Kathedrale von Französisch-Guayana, mit kolonialer Architektur.",
       hu: "Francia Guyana elsődleges katolikus katedrálisa, gyarmati építészettel.",
@@ -971,7 +963,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["Fundado a 15 de setembro de 1901.", "Nomeado em honra do filantropo Alexandre Franconie.", "Alojado num edifício do século XVIII.", "Alberga coleções sobre a história da colónia penal.", "Inclui importantes achados arqueológicos da região.", "Documenta a flora e fauna da Amazónia."],
       fr: ["Fondé le 15 septembre 1901.", "Nommé d'après le philanthrope Alexandre Franconie.", "Installé dans un bâtiment datant du XVIIIe siècle.", "Abrite des collections sur l'histoire du bagne.", "Comprend d'importantes découvertes archéologiques de la région.", "Documente la flore et la faune de l'Amazonie."],
     }, },
-    image: "/poi-images/gf-mus-e-d-partemental-alexandre-franconie-history-v2.webp",
     description: {
       de: "Ein Museum, das die Naturgeschichte, Archäologie und Ethnologie von Französisch-Guayana zeigt.",
       hu: "Francia Guyana természettörténetét, régészetét és néprajzát bemutató múzeum.",
@@ -1102,7 +1093,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["Casa natal de Félix Éboué (nascido em 1884).", "Arquitetura crioula clássica do século XIX.", "Éboué foi o primeiro governador negro de uma colónia.", "Adesão à França Livre a 18 de junho de 1940.", "Classificação como Monument Historique em 1999.", "Museu com objetos pessoais e documentos."],
       fr: ["Maison natale de Félix Éboué (né en 1884).", "Architecture créole classique du XIXe siècle.", "Éboué fut le premier gouverneur noir d'une colonie.", "Ralliement à la France Libre le 18 juin 1940.", "Classement au titre des Monuments Historiques en 1999.", "Musée regroupant objets personnels et documents."],
     }, },
-    image: "/poi-images/gf-maison-de-f-lix-bou-history-v2.webp",
     description: {
       de: "Das historische Geburtshaus von Félix Éboué, einem prominenten französisch-guayanischen Kolonialverwalter.",
       hu: "Félix Éboué, a kiemelkedő francia guyanai gyarmati adminisztrátor történelmi szülőháza.",
@@ -1305,7 +1295,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["Estabelecimento da colónia penal em 1930.", "Prisioneiros provenientes principalmente da Indochina (Vietname).", "Objetivo principal era o internamento de opositores políticos.", "Uso dos reclusos na construção de estradas (trabalhos forçados).", "Encerramento oficial do campo em 1945.", "Hoje faz parte de um trilho arqueológico educativo."],
       fr: ["Établissement de la colonie pénitentiaire en 1930.", "Prisonniers originaires principalement d'Indochine (Vietnam).", "Objectif principal : l'internement d'opposants politiques.", "Emploi des détenus à la construction de routes (travaux forcés).", "Fermeture officielle du camp en 1945.", "Aujourd'hui intégré à un sentier de découverte archéologique."],
     }, },
-    image: "/poi-images/gf-bagne-des-annamites-history-v2.webp",
     description: {
       de: "Ruinen einer ehemaligen Strafkolonie, die speziell für indochinesische Gefangene gebaut wurde.",
       hu: "Egykori büntetőgyarmat romjai, amelyet kifejezetten indokínai foglyok őrzésére építettek.",
@@ -1508,7 +1497,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["Mais de 200 petróglifos identificados em rochas de diorito.", "Datados entre os séculos V e X d.C.", "Representações de motivos antropomórficos e zoomórficos.", "Redescoberta no final do século XIX.", "Protegidos como Monument Historique desde 1993.", "Localizam-se no município de Kourou."],
       fr: ["Plus de 200 pétroglyphes identifiés sur des blocs de diorite.", "Datées entre le Ve et le Xe siècle après J.-C.", "Représentations de motifs anthropomorphes et zoomorphes.", "Redécouverte vers la fin du XIXe siècle.", "Classées au titre des Monuments Historiques depuis 1993.", "Situées sur la commune de Kourou."],
     }, },
-    image: "/poi-images/gf-roches-grav-es-de-la-carapa-history-v2.webp",
     description: {
       de: "Eine archäologische Stätte mit antiken präkolumbianischen Petroglyphen, die in Felsen gehauen sind.",
       hu: "Régészeti lelőhely, amely ősi kolumbusz előtti, sziklákba vésett petroglifákat tartalmaz.",
@@ -2359,7 +2347,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["Fundação da plantação por volta do ano 1668", "Maior propriedade jesuíta na Guiana no século XVIII", "Produção de açúcar, cacau, café e índigo", "Abandono do sítio após a expulsão dos jesuítas em 1763", "Redescoberta arqueológica na década de 1990", "Vestígios de uma capela e de um moinho de vento existentes"],
       fr: ["Fondation de la plantation vers l'an 1668", "Plus vaste domaine jésuite de Guyane au XVIIIe siècle", "Production de sucre, de cacao, de café et d'indigo", "Abandon du site après l'expulsion des jésuites en 1763", "Redécouverte archéologique dans les années 1990", "Présence de vestiges d'une chapelle et d'un moulin à vent"],
     }, },
-    image: "/poi-images/gf-habitation-loyola-history-v2.webp",
     description: {
       de: "Die Überreste einer massiven Jesuitenplantage aus dem 17. Jahrhundert, die für die lokale Wirtschaft von entscheidender Bedeutung war.",
       hu: "Egy hatalmas 17. századi jezsuita ültetvény maradványai, amely kulcsfontosságú volt a helyi gazdaság számára.",
@@ -2454,7 +2441,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["Período de construção da igreja entre 1887 e 1893", "Interior pintado pelo condenado Pierre Huguet", "Mais de 400 m² de frescos naif em paredes e teto", "Consagração da igreja em 6 de janeiro de 1893", "Classificação como Monument Historique em 1994", "Restauração abrangente concluída em 2023"],
       fr: ["Période de construction de l'église entre 1887 et 1893", "Intérieur peint par le bagnard Pierre Huguet", "Plus de 400 m² de fresques naïves sur les murs et le plafond", "Consécration de l'église le 6 janvier 1893", "Classement au titre des Monuments Historiques en 1994", "Restauration complète achevée en 2023"],
     }, },
-    image: "/poi-images/gf-glise-saint-joseph-d-iracoubo-history-v2.webp",
     description: {
       de: "Eine historische Kirche, die für ihre kunstvollen Innenfresken bekannt ist, die von einem Sträfling gemalt wurden.",
       hu: "Egy történelmi templom, amely híres az elítélt által festett bonyolult belső freskóiról.",
@@ -2693,7 +2679,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["Construído entre 1840 e 1849 para defesa costeira", "Planta em estrela da fortificação", "Vigilância da foz do rio Mahury", "Desarmamento oficial e abandono em 1895", "Utilização temporária como estação de quarentena", "Classificação como Monument Historique em 1980"],
       fr: ["Édifié entre 1840 et 1849 pour la défense côtière", "Plan en étoile de l'ouvrage de fortification", "Surveillance de l'embouchure du fleuve Mahury", "Désarmement officiel et abandon en 1895", "Utilisation temporaire comme station de quarantaine", "Classement au titre des Monuments Historiques en 1980"],
     }, },
-    image: "/poi-images/gf-fort-diamant-history-v2.webp",
     description: {
       de: "Eine Küstenbatterie aus dem 19. Jahrhundert, die zum Schutz der Einfahrt in den Mahury-Fluss gebaut wurde.",
       hu: "Egy 19. századi part menti üteg, amelyet a Mahury-folyó bejáratának védelmére építettek.",
@@ -2743,7 +2728,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["Construído em 1863 numa ilha rochosa.", "Localizado a 11 km da costa de Caiena.", "Serve para marcar a entrada do porto.", "Modernização do farol no ano de 1905.", "Atualmente em funcionamento totalmente automatizado.", "O nome traduz-se como 'A Criança Perdida'."],
       fr: ["Construit en 1863 sur un îlot rocheux.", "Situé à 11 km au large de Cayenne.", "Sert à baliser l'entrée du port.", "Modernisation de l'optique en 1905.", "Exploitation aujourd'hui entièrement automatisée.", "Son nom signifie l'enfant égaré."],
     }, },
-    image: "/poi-images/gf-phare-de-l-enfant-perdu-history-v2.webp",
     description: {
       de: "Ein historischer Leuchtturm auf einer kleinen Felseninsel vor der Küste von Macouria.",
       hu: "Történelmi világítótorony, amely Macouria partjainál, egy kis sziklás szigeten található.",
@@ -2793,7 +2777,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["Fundado na década de 1850 como colónia agrícola.", "Campo principal para reincidentes (Relégués).", "Localizado a 17 km de Saint-Laurent-du-Maroni.", "Foco em trabalhos forçados na agricultura e silvicultura.", "Encerramento definitivo do campo em 1946.", "Edifícios utilizados hoje parcialmente pelos militares (RSMA)."],
       fr: ["Fondé dans les années 1850 comme colonie agricole.", "Camp principal pour les récidivistes (Relégués).", "Situé à 17 km de Saint-Laurent-du-Maroni.", "Axé sur le travail forcé dans l'agriculture et la sylviculture.", "Fermeture définitive du camp en 1946.", "Bâtiments aujourd'hui partiellement utilisés par l'armée (RSMA)."],
     }, },
-    image: "/poi-images/gf-bagne-de-saint-jean-du-maroni-history-v2.webp",
     description: {
       de: "Auch bekannt als Camp de la Relégation, war es eine Strafkolonie für Wiederholungstäter.",
       hu: "A Camp de la Relégation néven is ismert létesítmény a visszaesők büntetőgyarmata volt.",
@@ -2924,7 +2907,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["O campo era utilizado para a extração de madeiras nobres na região de Montsinéry.", "Os prisioneiros tinham de transportar troncos pela Crique Anguille até ao mar.", "A taxa de mortalidade em campos florestais como este superava frequentemente os 20% ao ano.", "O campo fazia parte do 'Bagne de la Guyane', que existiu até 1953.", "Os prisioneiros viviam em cabanas de madeira provisórias, os chamados 'carbets'.", "Hoje o terreno é uma zona de interesse arqueológico protegida."],
       fr: ["Le camp servait à l'exploitation de bois précieux dans la région de Montsinéry.", "Les prisonniers devaient faire flotter les troncs sur la Crique Anguille vers la mer.", "Le taux de mortalité dans les camps forestiers dépassait souvent 20 % par an.", "Le camp faisait partie du bagne de la Guyane, qui exista jusqu'en 1953.", "Les détenus vivaient dans des abris en bois provisoires appelés « carbets ».", "Le site est aujourd'hui classé comme zone d'intérêt archéologique."],
     }, },
-    image: "/poi-images/gf-camp-crique-anguille-history-v2.webp",
     description: {
       de: "Ein in Tonnegrande gelegenes Strafgefangenenlager, bekannt für seine harten Arbeitsbedingungen im Dschungel.",
       hu: "Tonnegrande-ban található büntetőtábor, amely a dzsungelben végzett kemény munkakörülményekről ismert.",
@@ -2974,7 +2956,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["A corrida do ouro na Guiana Francesa começou oficialmente em 1855.", "Um 'Puits' (poço) podia atingir vários metros de profundidade no solo argiloso.", "Os garimpeiros usavam mercúrio para separar o ouro da rocha.", "As minas ficavam frequentemente a semanas de viagem em canoa de Cayenne.", "Por volta de 1900, o ouro era o principal produto de exportação da colónia.", "Hoje, muitos destes poços históricos estão cobertos pela floresta."],
       fr: ["La ruée vers l'or en Guyane a officiellement débuté en 1855.", "Un puits pouvait descendre à plusieurs mètres dans le sol argileux.", "Les chercheurs utilisaient du mercure pour amalgamer l'or.", "Les mines étaient souvent situées à des semaines de pirogue de Cayenne.", "Vers 1900, l'or était la principale ressource d'exportation de la colonie.", "Aujourd'hui, beaucoup de ces puits historiques sont envahis par la végétation."],
     }, },
-    image: "/poi-images/gf-puits-des-orpailleurs-history-v2.webp",
     description: {
       de: "Historische Goldbergbauschächte in Saint-Élie, die den Goldrausch der Region im 19. Jahrhundert widerspiegeln.",
       hu: "Történelmi aranybányászati aknák Saint-Élie-ben, amelyek a régió 19. századi aranylázát tükrözik.",
@@ -3249,7 +3230,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["O hospital foi construído por volta de 1860 no topo da Île Royale.", "Possuía alas separadas para guardas e para reclusos.", "As paredes são de pedra de lava extraída diretamente na ilha.", "O escorbuto era uma das causas de morte mais comuns entre os reclusos.", "O edifício foi concebido para que a brisa marítima soprasse por todas as salas.", "Hoje, a ruína pertence à zona protegida do centro espacial do CNES."],
       fr: ["L'hôpital a été érigé vers 1860 au sommet de l'Île Royale.", "Il disposait d'ailes séparées pour les gardiens et pour les détenus.", "Les murs sont en pierre de lave extraite directement sur l'île.", "Le scorbut était l'une des causes de décès les plus fréquentes chez les détenus.", "Le bâtiment a été conçu pour que la brise marine circule dans toutes les pièces.", "Aujourd'hui, la ruine fait partie de la zone protégée du port spatial du CNES."],
     }, },
-    image: "/poi-images/gf-h-pital-de-l-le-royale-history-v2.webp",
     description: {
       de: "Die Ruinen des Krankenhauses, das gebaut wurde, um das Personal der Strafkolonie und die Insassen auf der Île Royale zu versorgen.",
       hu: "A kórház romjai, amelyet a büntetőgyarmat személyzetének és foglyainak ellátására építettek az Île Royale-on.",
@@ -3344,7 +3324,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["A Poudrière foi concluída no ano de 1864 sob Napoleão III.", "Localiza-se na Pointe de l'Anse, no norte de Caiena.", "O edifício foi construído com um sistema de ventilação especial contra a humidade.", "No ano de 1989, a estrutura foi declarada oficialmente Monument Historique.", "A arquitetura é arredondada e maciça para absorver ondas de choque.", "Antigamente armazenava pólvora para os canhões do Fort Cépérou."],
       fr: ["La Poudrière a été achevée en 1864 sous Napoléon III.", "Elle se situe à la pointe de l'Anse, au nord de Cayenne.", "Le bâtiment a été construit avec un système de ventilation spécial contre l'humidité.", "L'édifice a été officiellement classé Monument Historique en 1989.", "L'architecture est massive et arrondie pour absorber les ondes de choc.", "Elle servait autrefois à stocker la poudre pour les canons du fort Cépérou."],
     }, },
-    image: "/poi-images/gf-poudri-re-de-cayenne-history-v2.webp",
     description: {
       de: "Ein Pulvermagazin aus dem 19. Jahrhundert, das vom französischen Militär zur Lagerung von Sprengstoff genutzt wurde.",
       hu: "19. századi lőporraktár, amelyet a francia hadsereg használt robbanóanyagok tárolására.",
@@ -3394,7 +3373,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["A lei da 'Relégation' foi aprovada em 27 de maio de 1885.", "Saint-Jean-du-Maroni era o campo principal para esta categoria de reclusos.", "Estima-se que mais de 2.000 homens repousem neste cemitério.", "A maioria das sepulturas já não tem nomes ou marcações.", "A mortalidade em Saint-Jean era muito elevada devido à má alimentação.", "O cemitério situa-se diretamente na margem do rio Maroni."],
       fr: ["La loi sur la relégation a été adoptée le 27 mai 1885.", "Saint-Jean-du-Maroni était le camp principal pour cette catégorie de détenus.", "On estime que plus de 2 000 hommes reposent dans ce cimetière.", "La plupart des tombes n'ont plus de nom ni de marquage aujourd'hui.", "La mortalité à Saint-Jean était très élevée en raison d'une mauvaise alimentation.", "Le cimetière est situé directement sur les rives du fleuve Maroni."],
     }, },
-    image: "/poi-images/gf-cimeti-re-des-rel-gu-s-history-v2.webp",
     description: {
       de: "Ein düsterer Friedhof in Saint-Jean-du-Maroni, auf dem viele verbannte Gefangene begraben wurden.",
       hu: "Egy komor temető Saint-Jean-du-Maroni-ban, ahová sok száműzött foglyot temettek el.",
@@ -3444,7 +3422,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["O rio Inini é conhecido pelos seus ricos achados pré-colombianos.", "Foram encontradas cerâmicas datadas de cerca de 1000 d.C.", "O sítio comprova relações comerciais até ao atual Brasil.", "Os arqueólogos encontraram aqui 'polissoirs' (polidores) para ferramentas de pedra.", "A área foi um território autónomo no século XX (Inini).", "Os achados estão frequentemente expostos nos museus de Caiena e Saint-Laurent."],
       fr: ["La rivière Inini est connue pour ses riches découvertes précolombiennes.", "Des céramiques datant d'environ 1000 apr. J.-C. y ont été trouvées.", "Le site atteste de relations commerciales s'étendant jusqu'à l'actuel Brésil.", "Les archéologues y ont trouvé des polissoirs pour outils en pierre.", "Le territoire fut une entité administrative distincte au XXe siècle (Inini).", "Les découvertes sont souvent exposées dans les musées de Cayenne et de Saint-Laurent."],
     }, },
-    image: "/poi-images/gf-gisement-arch-ologique-de-l-inini-history-v2.webp",
     description: {
       de: "Eine archäologische Stätte im Landesinneren, die Artefakte von präkolumbianischen indigenen Bevölkerungsgruppen offenbart.",
       hu: "Egy szárazföldi régészeti lelőhely, amely kolumbusz előtti őslakos populációk tárgyi emlékeit tárja fel.",
@@ -3575,7 +3552,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["A cidade foi fundada em 1677 e nomeada pelo seu fundador Jean Guisan.", "Guisanbourg foi pioneira no uso de polders nos trópicos.", "A igreja de Saint-Jean-Baptiste foi consagrada em 1842.", "Em 1848 viviam aqui mais de 2.000 pessoas, a maioria escravos em plantações.", "A cidade foi oficialmente abandonada no início do século XX.", "As ruínas só são acessíveis por barco através do rio Approuague."],
       fr: ["Ville fondée en 1677 et nommée d'après son fondateur Jean Guisan.", "Guisanbourg fut un site pionnier pour l'utilisation des polders en zone tropicale.", "L'église Saint-Jean-Baptiste a été consacrée en 1842.", "En 1848, plus de 2 000 personnes y vivaient, majoritairement des esclaves.", "La commune a été officiellement abandonnée au début du XXe siècle.", "Les ruinas ne sont accessibles qu'en pirogue par le fleuve Approuague."],
     }, },
-    image: "/poi-images/gf-vestiges-de-guisanbourg-history-v2.webp",
     description: {
       de: "Die verlassenen Überreste einer landwirtschaftlichen Stadt aus dem 19. Jahrhundert, die einst durch Zuckerrohr blühte.",
       hu: "Egy 19. századi mezőgazdasági város elhagyatott maradványai, amely egykor a cukornádtól virágzott.",
@@ -3742,7 +3718,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["A igreja foi construída quase inteiramente por condenados.", "Os tijolos utilizados foram fabricados na olaria da colónia penal.", "O edifício foi classificado como Monument Historique em 1995.", "Os frescos no interior provêm em parte de talentosos pintores reclusos.", "A igreja situa-se no centro do bairro da administração colonial.", "É um dos poucos edifícios de pedra da época da fundação da cidade."],
       fr: ["L'église a été construite presque entièrement par des bagnards.", "Les briques utilisées ont été fabriquées à la briqueterie du bagne.", "L'édifice a été classé Monument Historique en 1995.", "Les fresques intérieures ont été partiellement réalisées par des peintres bagnards doués.", "L'église se trouve au centre du quartier de l'administration coloniale.", "C'est l'un des rares bâtiments en pierre de la période de fondation de la ville."],
     }, },
-    image: "/poi-images/gf-glise-de-saint-laurent-du-maroni-history-v2.webp",
     description: {
       de: "Eine markante Kirche in der Grenzstadt, die Anfang des 20. Jahrhunderts von Sträflingen erbaut wurde.",
       hu: "Egy kiemelkedő templom a határvárosban, amelyet a 20. század elején építettek fegyencek.",
@@ -3792,7 +3767,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["A capela foi construída por reclusos a partir de pedra de lava da ilha.", "Situa-se no centro administrativo da Île Royale.", "As pinturas do teto foram restauradas por um recluso anónimo.", "A capela era o único local religioso nas três ilhas.", "No interior existem placas comemorativas para os guardas falecidos.", "O edifício é hoje utilizado para casamentos pelos habitantes locais."],
       fr: ["La chapelle a été construite par des bagnards en pierre de lave de l'île.", "Elle est située dans le centre administratif de l'Île Royale.", "Les peintures du plafond ont été restaurées par un détenu anonyme.", "La chapelle était le seul lieu religieux des trois îles.", "À l'intérieur, des plaques commémoratives pour les gardiens décédés sont apposées.", "Le bâtiment est aujourd'hui utilisé pour les mariages par les habitants."],
     }, },
-    image: "/poi-images/gf-chapelle-de-l-le-royale-history-v2.webp",
     description: {
       de: "Eine kleine restaurierte Kapelle auf der Île Royale, die von der Gefängnisverwaltung und gelegentlich von Gefangenen genutzt wurde.",
       hu: "Egy kis, felújított kápolna az Île Royale-on, amelyet a börtönigazgatóság és alkalmanként a foglyok használtak.",
@@ -3995,7 +3969,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["Mont Grand Matoury é o ponto mais alto perto de Cayenne, com 234 metros.", "As 'Montanhas Coroadas' são típicas da arquitetura pré-colombiana.", "Os aterros têm frequentemente um diâmetro de mais de 100 metros.", "Os arqueólogos encontraram aqui polidores (pedras de amolar) em lajes de rocha.", "Os assentamentos foram provavelmente abandonados antes da chegada dos europeus.", "O terreno está hoje protegido como reserva natural contra a construção."],
       fr: ["Le Mont Grand Matoury culmine à 234 mètres près de Cayenne.", "Les « montagnes couronnées » sont typiques de l'architecture précolombienne.", "Les fossés ont souvent un diamètre supérieur à 100 mètres.", "Des polissoirs sur dalles rocheuses y ont été identifiés par les archéologues.", "Les villages ont probablement été abandonnés avant l'arrivée des Européens.", "Le site est protégé au sein d'une réserve naturelle."],
     }, },
-    image: "/poi-images/gf-site-arch-ologique-de-mont-grand-matoury-history-v2.webp",
     description: {
       de: "Archäologische Stätte in einem Naturschutzgebiet, die Beweise für indianische Besiedlung vor der Kolonialisierung zeigt.",
       hu: "Természetvédelmi területen található régészeti lelőhely, amely a gyarmatosítás előtti indián települések nyomait mutatja.",
@@ -4126,7 +4099,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["Inauguração a 11 de novembro de 1925.", "Projetado pelo escultor Paul-François Berthola.", "Localizado na histórica Place du Coq.", "Lista de soldados locais da Primeira Guerra Mundial.", "Estátua de bronze de um soldado francês (Poilu).", "Estatuto de monumento desde o século XX."],
       fr: ["Inauguration le 11 novembre 1925.", "Conçu par le sculpteur Paul-François Berthola.", "Situé sur l'historique place du Coq.", "Liste les soldats locaux de la Première Guerre mondiale.", "Statue en bronze d'un fantassin français (Poilu).", "Inscrit au titre des monuments historiques."],
     }, },
-    image: "/poi-images/gf-monument-aux-morts-de-cayenne-history-v2.webp",
     description: {
       de: "Ein Gedenkmonument für die Soldaten aus Französisch-Guayana, die in den Weltkriegen gefallen sind.",
       hu: "Emlékmű a világháborúkban elesett francia guyanai katonák emlékére.",
@@ -4176,7 +4148,6 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       pt: ["Nomeada em honra dos garimpeiros (orpailleurs)", "Situada na estrada estratégica para Kaw", "Centro de ecoturismo e de estudo da floresta tropical", "Construção em madeira tropical local", "Testemunho da história da febre do ouro desde o século XIX", "Ponto de partida para expedições à reserva de Kaw"],
       fr: ["Nommée d'après les chercheurs d'or (orpailleurs)", "Située sur la route stratégique de Kaw", "Centre d'écotourisme et de connaissance de la forêt tropicale", "Mode de construction en bois tropical local", "Témoignage de l'histoire de la ruée vers l'or depuis le XIXe siècle", "Point de départ des expéditions dans la réserve de Kaw"],
     }, },
-    image: "/poi-images/gf-l-auberge-des-orpailleurs-history-v2.webp",
     description: {
       de: "Ein historisches Gasthaus in der Nähe von Roura, das Goldsuchern während der Goldräusche der Region diente.",
       hu: "Egy történelmi fogadó Roura közelében, amely az aranyásókat szolgálta ki a régió aranylázai idején.",

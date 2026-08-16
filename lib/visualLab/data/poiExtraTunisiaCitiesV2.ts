@@ -89,7 +89,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-11",
     coords: [10.1815, 36.8065],
     name: { de: "Tunis", hu: "Tunisz", ro: "Tunis", en: "Tunis"},
-    image: "/poi-images/tunis-cities-v2.webp",
     description: { de: "Die Hauptstadt und größte Stadt Tunesiens am Mittelmeer.", hu: "Tunézia fővárosa és legnagyobb városa a Földközi-tenger partján.", ro: "Capitala și cel mai mare oraș al Tunisiei pe Marea Mediterană.", en: "The capital and largest city of Tunisia on the Mediterranean Sea." , es: "La capital y ciudad más grande de Túnez, situada a orillas del mar Mediterráneo.", pt: "A capital e maior cidade da Tunísia, situada nas margens do Mar Mediterrâneo.", fr: "La capitale et la plus grande ville de Tunisie, située sur les rives de la mer Méditerranée."},
     facts: {
       de: ["Politisches Zentrum", "Über 1 Million Einwohner"],
@@ -379,7 +378,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-12",
     coords: [10.1933, 36.8625],
     name: { de: "Ariana", hu: "Ariana", ro: "Ariana", en: "Ariana"},
-    image: "/poi-images/ariana-cities-v2.webp",
     description: { de: "Eine wichtige Stadt im Großraum Tunis, bekannt für ihre Landwirtschaft und Rosen.", hu: "Jelentős város Tunisz agglomerációjában, amely mezőgazdaságáról és rózsáiról ismert.", ro: "Un oraș important din zona metropolitană Tunis, cunoscut pentru agricultură și trandafiri.", en: "An important city in the Tunis metropolitan area, known for its agriculture and roses." , es: "Una importante ciudad en el área metropolitana de Túnez, conocida por su agricultura y rosas.", pt: "Uma cidade importante na área metropolitana de Tunes, conhecida pela sua agricultura e rosas.", fr: "Une ville importante dans l'agglomération de Tunis, connue pour son agriculture et ses roses."},
     facts: {
       de: ["Teil der Hauptstadtregion", "Rosenstadt"],
@@ -561,7 +559,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-13",
     coords: [10.2189, 36.7531],
     name: { de: "Ben Arous", hu: "Ben Arous", ro: "Ben Arous", en: "Ben Arous"},
-    image: "/poi-images/ben-arous-cities-v2.webp",
     description: { de: "Eine der wichtigsten Industrie- und Handelsstädte im Vorortbereich von Tunis.", hu: "Tunisz egyik legfontosabb ipari és kereskedelmi külvárosa.", ro: "Unul dintre cele mai importante orașe industriale și comerciale din suburbiile Tunisului.", en: "One of the most important industrial and commercial suburban cities of Tunis." , es: "Una de las ciudades industriales y comerciales más importantes en el área suburbana de Túnez.", pt: "Uma das cidades industriais e comerciais mais importantes na área suburbana de Tunes.", fr: "L'une des villes industrielles et commerciales les plus importantes de la banlieue de Tunis."},
     facts: {
       de: ["Industriestandort", "Nahe Tunis"],
@@ -816,7 +813,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-14",
     coords: [10.0956, 36.8081],
     name: { de: "Manouba", hu: "Manouba", ro: "Manouba", en: "Manouba"},
-    image: "/poi-images/manouba-cities-v2.webp",
     description: { de: "Eine Stadt im Nordwesten des Großraums Tunis, bekannt für ihre Universität.", hu: "Város Tunisz vonzáskörzetének északnyugati részén, amely egyeteméről híres.", ro: "Un oraș din nord-vestul zonei metropolitane Tunis, cunoscut pentru universitatea sa.", en: "A city in the northwest of the Tunis metropolitan area, known for its university." , es: "Una ciudad en el noroeste del área metropolitana de Túnez, conocida por su universidad.", pt: "Uma cidade no noroeste da área metropolitana de Tunes, conhecida pela sua universidade.", fr: "Une ville du nord-ouest de l'agglomération de Tunis, connue pour son université."},
     facts: {
       de: ["Universitätsstadt", "Vorort von Tunis"],
@@ -999,7 +995,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-21",
     coords: [10.7358, 36.4561],
     name: { de: "Nabeul", hu: "Nabeul", ro: "Nabeul", en: "Nabeul"},
-    image: "/poi-images/nabeul-cities-v2.webp",
     description: { de: "Das Zentrum der Keramikproduktion und ein wichtiges Touristenziel in Tunesien.", hu: "A kerámiagyártás központja és jelentős turisztikai célpont Tunéziában.", ro: "Centrul producției de ceramică și o destinație turistică importantă din Tunisia.", en: "The center of pottery production and a major tourist destination in Tunisia." , es: "El centro de la producción de cerámica y un importante destino turístico en Túnez.", pt: "O centro da produção de cerâmica e um importante destino turístico na Tunísia.", fr: "Le centre de la production de céramique et une destination touristique importante en Tunisie."},
     facts: {
       de: ["Keramikzentrum", "Touristenstadt"],
@@ -1029,7 +1024,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-22",
     coords: [10.1425, 36.4011],
     name: { de: "Zaghouan", hu: "Zaghouan", ro: "Zaghouan", en: "Zaghouan"},
-    image: "/poi-images/zaghouan-cities-v2.webp",
     description: { de: "Bekannt für die andalusische Architektur und als Ausgangspunkt eines römischen Aquädukts.", hu: "Az andalúz építészetről és egy római vízvezeték kiindulópontjáról ismert.", ro: "Cunoscut pentru arhitectura andaluză și ca punct de plecare al unui apeduct roman.", en: "Known for its Andalusian architecture and as the starting point of a Roman aqueduct." , es: "Conocida por su arquitectura andaluza y como punto de partida de un acueducto romano.", pt: "Conhecida pela arquitetura andaluza e como ponto de partida de um aqueduto romano.", fr: "Connue pour son architecture andalouse et comme point de départ d'un aqueduc romain."},
     facts: {
       de: ["Römisches Aquädukt", "Andalusischer Einfluss"],
@@ -1104,7 +1098,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-23",
     coords: [9.8739, 37.2746],
     name: { de: "Bizerte", hu: "Bizerte", ro: "Bizerte", en: "Bizerte"},
-    image: "/poi-images/bizerte-cities-v2.webp",
     description: { de: "Die nördlichste Stadt Afrikas und ein wichtiger Hafen am Mittelmeer.", hu: "Afrika legészakibb városa és fontos kikötő a Földközi-tenger partján.", ro: "Cel mai nordic oraș din Africa și un port important la Marea Mediterană.", en: "The northernmost city in Africa and an important port on the Mediterranean Sea." , es: "La ciudad más al norte de África y un puerto importante en el Mediterráneo.", pt: "A cidade mais ao norte da África e um porto importante no Mediterrâneo.", fr: "La ville la plus au nord d'Afrique et un port important sur la Méditerranée."},
     facts: {
       de: ["Nördlichste Stadt", "Wichtiger Hafen"],
@@ -1215,7 +1208,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-31",
     coords: [9.1817, 36.7256],
     name: { de: "Béja", hu: "Béja", ro: "Béja", en: "Béja"},
-    image: "/poi-images/beja-cities-v2.webp",
     description: { de: "Ein landwirtschaftliches Zentrum im Nordwesten, das bereits in der Antike wichtig war.", hu: "Egy északnyugati mezőgazdasági központ, amely már az ókorban is jelentős volt.", ro: "Un centru agricol din nord-vest, care era important încă din antichitate.", en: "An agricultural center in the northwest that was already important in antiquity." , es: "Un centro agrícola en el noroeste, que ya era importante en la antigüedad.", pt: "Um centro agrícola no noroeste, que já era importante na antiguidade.", fr: "Un centre agricole dans le nord-ouest, déjà important dans l'Antiquité."},
     facts: {
       de: ["Agrarzentrum", "Historische Wurzeln"],
@@ -1245,7 +1237,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-32",
     coords: [8.7802, 36.5011],
     name: { de: "Jendouba", hu: "Jendouba", ro: "Jendouba", en: "Jendouba"},
-    image: "/poi-images/jendouba-cities-v2.webp",
     description: { de: "Eine bedeutende landwirtschaftliche Stadt nahe der Grenze zu Algerien.", hu: "Jelentős mezőgazdasági város az algériai határ közelében.", ro: "Un oraș agricol important aproape de granița cu Algeria.", en: "A significant agricultural city near the border with Algeria." , es: "Una importante ciudad agrícola cerca de la frontera con Argelia.", pt: "Uma importante cidade agrícola perto da fronteira com a Argélia.", fr: "Une ville agricole importante près de la frontière avec l'Algérie."},
     facts: {
       de: ["Grenzstadt", "Agrarregion"],
@@ -1500,7 +1491,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-33",
     coords: [8.7148, 36.1742],
     name: { de: "El Kef", hu: "El Kef", ro: "El Kef", en: "El Kef"},
-    image: "/poi-images/el-kef-cities-v2.webp",
     description: { de: "Eine historische Stadt im Nordwesten mit einer beeindruckenden byzantinischen Kasbah.", hu: "Történelmi város északnyugaton, egy lenyűgöző bizánci kasbával.", ro: "Un oraș istoric din nord-vest, cu o impresionantă kasbah bizantină.", en: "A historical city in the northwest with an impressive Byzantine kasbah." , es: "Una ciudad histórica en el noroeste con una impresionante kasbah bizantina.", pt: "Uma cidade histórica no noroeste com uma impressionante kasbah bizantina.", fr: "Une ville historique dans le nord-ouest avec une impressionnante kasbah byzantine."},
     facts: {
       de: ["Historische Festung", "Höhergelegene Stadt"],
@@ -1530,7 +1520,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-34",
     coords: [9.3642, 36.0849],
     name: { de: "Siliana", hu: "Siliana", ro: "Siliana", en: "Siliana"},
-    image: "/poi-images/siliana-cities-v2.webp",
     description: { de: "Ein regionales Zentrum für Landwirtschaft im zentralen Nordtunesien.", hu: "Egy regionális mezőgazdasági központ Tunézia északi-középső részén.", ro: "Un centru agricol regional în centrul-nordul Tunisiei.", en: "A regional agricultural center in central-northern Tunisia." , es: "Un centro regional para la agricultura en el centro norte de Túnez.", pt: "Um centro regional para a agricultura no centro-norte da Tunísia.", fr: "Un centre régional pour l'agriculture dans le centre-nord de la Tunisie."},
     facts: {
       de: ["Regionales Zentrum", "Binnenstadt"],
@@ -1641,7 +1630,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-41",
     coords: [10.0963, 35.6781],
     name: { de: "Kairouan", hu: "Kairouan", ro: "Kairouan", en: "Kairouan"},
-    image: "/poi-images/kairouan-cities-v2.webp",
     description: { de: "Eine der heiligsten Städte des Islam und UNESCO-Weltkulturerbe.", hu: "Az iszlám egyik legszentebb városa és UNESCO világörökségi helyszín.", ro: "Unul dintre cele mai sfinte orașe ale Islamului și un sit al Patrimoniului Mondial UNESCO.", en: "One of the holiest cities in Islam and a UNESCO World Heritage site." , es: "Una de las ciudades más sagradas del Islam y Patrimonio de la Humanidad por la UNESCO.", pt: "Uma das cidades mais sagradas do Islão e Património Mundial da UNESCO.", fr: "L'une des villes les plus sacrées de l'Islam et site du patrimoine mondial de l'UNESCO."},
     facts: {
       de: ["Heilige Stadt", "Große Moschee"],
@@ -1932,7 +1920,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-42",
     coords: [8.7997, 35.1676],
     name: { de: "Kasserine", hu: "Kasserine", ro: "Kasserine", en: "Kasserine"},
-    image: "/poi-images/kasserine-cities-v2.webp",
     description: { de: "Eine strategisch wichtige Stadt im westlichen Zentraltunesien nahe dem Bergland.", hu: "Stratégiailag fontos város Nyugat-Közép-Tunéziában, a hegyvidék közelében.", ro: "Un oraș important din punct de vedere strategic în centrul-vestul Tunisiei, aproape de munți.", en: "A strategically important city in western-central Tunisia near the mountainous region." , es: "Una ciudad estratégicamente importante en el centro-oeste de Túnez, cerca de las montañas.", pt: "Uma cidade estrategicamente importante no centro-oeste da Tunísia, perto das montanhas.", fr: "Une ville stratégiquement importante dans le centre-ouest de la Tunisie, près des montagnes."},
     facts: {
       de: ["Römische Ruinen", "Am Fuße der Berge"],
@@ -1962,7 +1949,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-43",
     coords: [9.4839, 35.0382],
     name: { de: "Sidi Bouzid", hu: "Sidi Bouzid", ro: "Sidi Bouzid", en: "Sidi Bouzid"},
-    image: "/poi-images/sidi-bouzid-cities-v2.webp",
     description: { de: "Der Geburtsort des Arabischen Frühlings im zentralen Tunesien.", hu: "Az arab tavasz szülőhelye Közép-Tunéziában.", ro: "Locul de naștere al Primăverii Arabe, în centrul Tunisiei.", en: "The birthplace of the Arab Spring in central Tunisia." , es: "El lugar de nacimiento de la Primavera Árabe en el centro de Túnez.", pt: "O berço da Primavera Árabe na região central da Tunísia.", fr: "Le berceau du Printemps arabe dans le centre de la Tunisie."},
     facts: {
       de: ["Historischer Ort", "Agrarregion"],
@@ -2325,7 +2311,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-51",
     coords: [10.6369, 35.8256],
     name: { de: "Sousse", hu: "Sousse", ro: "Sousse", en: "Sousse"},
-    image: "/poi-images/sousse-cities-v2.webp",
     description: { de: "Eine wichtige Hafenstadt und ein beliebtes Touristenzentrum am Mittelmeer.", hu: "Fontos kikötőváros és népszerű turisztikai központ a Földközi-tenger partján.", ro: "Un important oraș-port și un centru turistic popular la Marea Mediterană.", en: "An important port city and popular tourist center on the Mediterranean Sea." , es: "Una importante ciudad portuaria y un popular centro turístico en el Mediterráneo.", pt: "Uma importante cidade portuária e um popular centro turístico no Mediterrâneo.", fr: "Une ville portuaire importante et un centre touristique populaire sur la Méditerranée."},
     facts: {
       de: ["Touristenhochburg", "Bedeutende Medina"],
@@ -2355,7 +2340,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-52",
     coords: [10.8261, 35.7779],
     name: { de: "Monastir", hu: "Monastir", ro: "Monastir", en: "Monastir"},
-    image: "/poi-images/monastir-cities-v2.webp",
     description: { de: "Eine Küstenstadt mit einer beeindruckenden Festung (Ribat) und einem internationalen Flughafen.", hu: "Tengerparti város egy lenyűgöző erőddel (Ribat) és nemzetközi repülőtérrel.", ro: "Un oraș de coastă cu o fortăreață impresionantă (Ribat) și un aeroport internațional.", en: "A coastal city with an impressive fortress (Ribat) and an international airport." , es: "Una ciudad costera con una impresionante fortaleza (Ribat) y un aeropuerto internacional.", pt: "Uma cidade costeira com uma impressionante fortaleza (Ribat) e um aeroporto internacional.", fr: "Une ville côtière dotée d'une impressionnante forteresse (Ribat) et d'un aéroport international."},
     facts: {
       de: ["Historischer Ribat", "Flughafenstadt"],
@@ -2385,7 +2369,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-53",
     coords: [11.0622, 35.5047],
     name: { de: "Mahdia", hu: "Mahdia", ro: "Mahdia", en: "Mahdia"},
-    image: "/poi-images/mahdia-cities-v2.webp",
     description: { de: "Die ehemalige Hauptstadt der Fatimiden und heute ein ruhiger Küstenort.", hu: "A Fátimidák egykori fővárosa, ma nyugodt tengerparti település.", ro: "Fosta capitală a Fatimizilor și astăzi un oraș de coastă liniștit.", en: "The former capital of the Fatimids and today a quiet coastal town." },
     facts: {
       de: ["Ehemalige Hauptstadt", "Fischereihafen"],
@@ -2493,7 +2476,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-61",
     coords: [10.7602, 34.7405],
     name: { de: "Sfax", hu: "Sfax", ro: "Sfax", en: "Sfax"},
-    image: "/poi-images/sfax-cities-v2.webp",
     description: { de: "Das wichtigste Industrie- und Handelszentrum im Süden Tunesiens.", hu: "Dél-Tunézia legfontosabb ipari és kereskedelmi központja.", ro: "Cel mai important centru industrial și comercial din sudul Tunisiei.", en: "The most important industrial and commercial center in southern Tunisia." , es: "El centro industrial y comercial más importante en el sur de Túnez.", pt: "O centro industrial e comercial mais importante no sul da Tunísia.", fr: "Le centre industriel et commercial le plus important du sud de la Tunisie."},
     facts: {
       de: ["Wirtschaftszentrum", "Zweitgrößte Stadt"],
@@ -2568,7 +2550,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-71",
     coords: [8.7842, 34.425],
     name: { de: "Gafsa", hu: "Gafsa", ro: "Gafsa", en: "Gafsa"},
-    image: "/poi-images/gafsa-cities-v2.webp",
     description: { de: "Das Zentrum des Phosphatabbaus und eine historische Oasenstadt im Süden.", hu: "A foszfátbányászat központja és egy történelmi oázisváros délen.", ro: "Centrul extracției de fosfați și un oraș istoric oază în sud.", en: "The center of phosphate mining and a historical oasis city in the south." , es: "El centro de la extracción de fosfato y una histórica ciudad oasis en el sur.", pt: "O centro da extração de fosfato e uma histórica cidade oásis no sul.", fr: "Le centre de l'extraction de phosphate et une ville oasis historique dans le sud."},
     facts: {
       de: ["Phosphatabbau", "Historische Oase"],
@@ -2679,7 +2660,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-72",
     coords: [8.1335, 33.9196],
     name: { de: "Tozeur", hu: "Tozeur", ro: "Tozeur", en: "Tozeur"},
-    image: "/poi-images/tozeur-cities-v2.webp",
     description: { de: "Eine berühmte Wüstenstadt am Chott el Djerid, bekannt für ihre Datteln.", hu: "Híres sivatagi város a Chott el Djerid mellett, amely a datolyájáról ismert.", ro: "Un faimos oraș din deșert pe Chott el Djerid, cunoscut pentru curmalele sale.", en: "A famous desert city on the Chott el Djerid, known for its dates." , es: "Una famosa ciudad desértica en Chott el Djerid, conocida por sus dátiles.", pt: "Uma famosa cidade desértica em Chott el Djerid, conhecida pelas suas tâmaras.", fr: "Une célèbre ville du désert dans le Chott el Djerid, connue pour ses dattes."},
     facts: {
       de: ["Dattelproduktion", "Wüstenstadt"],
@@ -2826,7 +2806,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-73",
     coords: [8.9714, 33.7043],
     name: { de: "Kebili", hu: "Kebili", ro: "Kebili", en: "Kebili"},
-    image: "/poi-images/kebili-cities-v2.webp",
     description: { de: "Eine wichtige Oasenstadt am Rande der Sahara.", hu: "Fontos oázisváros a Szahara szélén.", ro: "Un oraș important oază la marginea Saharei.", en: "An important oasis city on the edge of the Sahara." },
     facts: {
       de: ["Oasenstadt", "Sahara-Rand"],
@@ -2853,7 +2832,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-81",
     coords: [10.1136, 33.8814],
     name: { de: "Gabès", hu: "Gabès", ro: "Gabès", en: "Gabès"},
-    image: "/poi-images/gabes-cities-v2.webp",
     description: { de: "Die einzige Küstenoase des Mittelmeers und ein bedeutender Industriestandort.", hu: "A Földközi-tenger egyetlen tengerparti oázisa és jelentős ipari központ.", ro: "Singura oază de coastă din Marea Mediterană și un centru industrial important.", en: "The only coastal oasis in the Mediterranean and a major industrial site." , es: "El único oasis costero del Mediterráneo y un importante emplazamiento industrial.", pt: "O único oásis costeiro do Mediterrâneo e um importante local industrial.", fr: "La seule oasis côtière de la Méditerranée et un site industriel important."},
     facts: {
       de: ["Küstenoase", "Chemieindustrie"],
@@ -3000,7 +2978,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-82",
     coords: [10.4958, 33.3549],
     name: { de: "Medenine", hu: "Medenine", ro: "Medenine", en: "Medenine"},
-    image: "/poi-images/medenine-cities-v2.webp",
     description: { de: "Eine Stadt im Südosten, bekannt für ihre traditionellen Getreidespeicher (Ksour).", hu: "Egy délkeleti város, amely a hagyományos magtárairól (Ksour) ismert.", ro: "Un oraș din sud-est, cunoscut pentru hambarele sale tradiționale (Ksour).", en: "A city in the southeast, known for its traditional granaries (Ksour)." , es: "Una ciudad en el sureste, conocida por sus tradicionales graneros (Ksour).", pt: "Uma cidade no sudeste, conhecida pelos seus celeiros tradicionais (Ksour).", fr: "Une ville du sud-est, connue pour ses greniers traditionnels (Ksour)."},
     facts: {
       de: ["Traditionelle Ksour", "Wüstenregion"],
@@ -4011,7 +3988,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-83",
     coords: [10.4517, 32.9296],
     name: { de: "Tataouine", hu: "Tataouine", ro: "Tataouine", en: "Tataouine"},
-    image: "/poi-images/tataouine-cities-v2.webp",
     description: { de: "Die südlichste Stadt Tunesiens, die durch den Film Star Wars berühmt wurde.", hu: "Tunézia legdélebbi városa, amelyet a Star Wars film tett híressé.", ro: "Cel mai sudic oraș din Tunisia, devenit faimos prin filmul Războiul Stelelor.", en: "The southernmost city in Tunisia, made famous by the Star Wars movie." , es: "La ciudad más austral de Túnez, que se hizo famosa gracias a la película Star Wars.", pt: "A cidade mais a sul da Tunísia, que se tornou famosa pelo filme Star Wars.", fr: "La ville la plus au sud de la Tunisie, rendue célèbre par le film Star Wars."},
     facts: {
       de: ["Star-Wars-Drehort", "Südlichste Großstadt"],
@@ -4158,7 +4134,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-82",
     coords: [10.8582, 33.8741],
     name: { de: "Houmt Souk", hu: "Houmt Souk", ro: "Houmt Souk", en: "Houmt Souk"},
-    image: "/poi-images/houmt-souk-cities-v2.webp",
     description: { de: "Die größte Stadt der Insel Djerba und ein farbenfrohes Touristenzentrum.", hu: "Dzserba szigetének legnagyobb városa és egy színes turisztikai központ.", ro: "Cel mai mare oraș de pe insula Djerba și un centru turistic colorat.", en: "The largest city on the island of Djerba and a colorful tourist center." , es: "La ciudad más grande de la isla de Djerba y un colorido centro turístico.", pt: "A maior cidade da ilha de Djerba e um colorido centro turístico.", fr: "La plus grande ville de l'île de Djerba et un centre touristique coloré."},
     facts: {
       de: ["Hauptstadt von Djerba", "Beliebter Markt"],
@@ -4452,7 +4427,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-82",
     coords: [10.9934, 33.8058],
     name: { de: "Midoun", hu: "Midoun", ro: "Midoun", en: "Midoun"},
-    image: "/poi-images/midoun-cities-v2.webp",
     description: { de: "Die zweitgrößte Stadt auf der Insel Djerba, bekannt für ihre lebhaften Märkte.", hu: "Dzserba szigetének második legnagyobb városa, amely a nyüzsgő piacairól ismert.", ro: "Al doilea oraș ca mărime de pe insula Djerba, cunoscut pentru piețele sale vibrante.", en: "The second largest city on the island of Djerba, known for its lively markets." , es: "La segunda ciudad más grande de la isla de Djerba, conocida por sus animados mercados.", pt: "A segunda maior cidade da ilha de Djerba, conhecida pelos seus mercados animados.", fr: "La deuxième plus grande ville de l'île de Djerba, connue pour ses marchés animés."},
     facts: {
       de: ["Zweitgrößte Djerba-Stadt", "Tourismus"],
@@ -4782,7 +4756,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-21",
     coords: [10.6122, 36.4011],
     name: { de: "Hammamet", hu: "Hammamet", ro: "Hammamet", en: "Hammamet"},
-    image: "/poi-images/hammamet-cities-v2.webp",
     description: { de: "Eines der bekanntesten Urlaubsziele Tunesiens mit einer charmanten Altstadt.", hu: "Tunézia egyik legismertebb nyaralóhelye, bájos óvárossal.", ro: "Una dintre cele mai faimoase destinații de vacanță din Tunisia, cu un oraș vechi fermecător.", en: "One of Tunisia's most famous holiday destinations with a charming old town." , es: "Uno de los destinos vacacionales más conocidos de Túnez, con un encantador casco antiguo.", pt: "Um dos destinos de férias mais conhecidos da Tunísia, com um centro histórico encantador.", fr: "L'une des destinations de vacances les plus connues de Tunisie, avec une charmante vieille ville."},
     facts: {
       de: ["Badeort", "Schöne Medina"],
@@ -4860,7 +4833,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-82",
     coords: [11.1121, 33.5039],
     name: { de: "Zarzis", hu: "Zarzis", ro: "Zarzis", en: "Zarzis"},
-    image: "/poi-images/zarzis-cities-v2.webp",
     description: { de: "Eine Küstenstadt im Süden, die über einen Damm mit der Insel Djerba verbunden ist.", hu: "Déli tengerparti város, amely egy gáton keresztül kapcsolódik Dzserba szigetéhez.", ro: "Un oraș de coastă din sud, conectat de insula Djerba printr-un dig.", en: "A coastal city in the south connected to the island of Djerba via a causeway." , es: "Ciudad costera en el sur, conectada a la isla de Djerba por un puente terrestre.", pt: "Cidade costeira no sul, conectada à ilha de Djerba por um aterro.", fr: "Ville côtière du sud, reliée à l'île de Djerba par une chaussée."},
     facts: {
       de: ["Touristenort", "Nahe Djerba"],
@@ -4974,7 +4946,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-73",
     coords: [9.0256, 33.4566],
     name: { de: "Douz", hu: "Douz", ro: "Douz", en: "Douz"},
-    image: "/poi-images/douz-cities-v2.webp",
     description: { de: "Bekannt als das Tor zur Sahara und ein wichtiger Ort für das Sahara-Festival.", hu: "A Szahara kapujaként ismert, és a Szahara-fesztivál fontos helyszíne.", ro: "Cunoscut ca poarta către Sahara și o locație importantă pentru Festivalul Saharei.", en: "Known as the gateway to the Sahara and an important site for the Sahara Festival." , es: "Conocida como la puerta del Sahara y un lugar importante para el Festival del Sahara.", pt: "Conhecida como a porta do Saara e um local importante para o Festival do Saara.", fr: "Connue comme la porte du Sahara et un lieu important pour le Festival du Sahara."},
     facts: {
       de: ["Tor zur Sahara", "Wüstenfestival"],
@@ -5268,7 +5239,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-42",
     coords: [9.1235, 35.2349],
     name: { de: "Sbeitla", hu: "Sbeitla", ro: "Sbeitla", en: "Sbeitla"},
-    image: "/poi-images/sbeitla-cities-v2.webp",
     description: { de: "Eine Stadt im zentralen Bergland, die für ihre gut erhaltenen römischen Ruinen bekannt ist.", hu: "Város a központi hegyvidéken, amely jó állapotban fennmaradt római romjairól ismert.", ro: "Un oraș din regiunea montană centrală, cunoscut pentru ruinele sale romane bine conservate.", en: "A city in the central highlands known for its well-preserved Roman ruins." , es: "Una ciudad en las montañas centrales, conocida por sus ruinas romanas bien conservadas.", pt: "Uma cidade nas montanhas centrais, conhecida pelas suas ruínas romanas bem preservadas.", fr: "Une ville dans les montagnes centrales, connue pour ses ruines romaines bien conservées."},
     facts: {
       de: ["Römisches Sufetula", "Zentraltunesien"],
@@ -5454,7 +5424,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-11",
     coords: [10.3228, 36.8529],
     name: { de: "Karthago", hu: "Karthágó", ro: "Cartagina", en: "Carthage"},
-    image: "/poi-images/carthage-cities-v2.webp",
     description: { de: "Eine Vorstadt von Tunis, die an der Stelle der antiken phönizischen Stadt erbaut wurde.", hu: "Tunisz egyik külvárosa, amely az ókori föníciai város helyén épült.", ro: "O suburbie a Tunisului, construită pe locul anticului oraș fenician.", en: "A suburb of Tunis, built on the site of the ancient Phoenician city." , es: "Un suburbio de Túnez construido en el sitio de la antigua ciudad fenicia.", pt: "Um subúrbio de Tunes construído no local da antiga cidade fenícia.", fr: "Une banlieue de Tunis construite sur le site de l'ancienne cité phénicienne."},
     facts: {
       de: ["Antike Ruinen", "Präsidentenpalast"],
@@ -5568,7 +5537,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-11",
     coords: [10.3444, 36.8711],
     name: { de: "Sidi Bou Said", hu: "Sidi Bou Said", ro: "Sidi Bou Said", en: "Sidi Bou Said"},
-    image: "/poi-images/sidi-bou-said-cities-v2.webp",
     description: { de: "Ein malerisches Dorf auf einer Klippe bei Tunis, berühmt für seine blauen und weißen Häuser.", hu: "Festői falu egy sziklán Tunisz mellett, amely kék és fehér házairól híres.", ro: "Un sat pitoresc pe o stâncă lângă Tunis, faimos pentru casele sale albastre și albe.", en: "A picturesque village on a cliff near Tunis, famous for its blue and white houses." , es: "Un pintoresco pueblo en un acantilado cerca de Túnez, famoso por sus casas azules y blancas.", pt: "Uma aldeia pitoresca num penhasco perto de Tunes, famosa pelas suas casas azuis e brancas.", fr: "Un village pittoresque sur une falaise près de Tunis, célèbre pour ses maisons bleues et blanches."},
     facts: {
       de: ["Blau-weiße Häuser", "Künstlerviertel"],
@@ -5646,7 +5614,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-13",
     coords: [10.2828, 36.7649],
     name: { de: "Radès", hu: "Radès", ro: "Radès", en: "Radès"},
-    image: "/poi-images/rads-cities-v2.webp",
     description: { de: "Ein bedeutender Hafen- und Industrieort sowie Zentrum des tunesischen Sports.", hu: "Jelentős kikötő és iparváros, valamint a tunéziai sport központja.", ro: "Un port și un oraș industrial important, precum și centrul sportului tunisian.", en: "An important port and industrial town as well as the center of Tunisian sport." , es: "Un importante lugar portuario e industrial, así como centro del deporte tunecino.", pt: "Um importante local portuário e industrial, bem como um centro do desporto tunisino.", fr: "Un important lieu portuaire et industriel, ainsi qu'un centre du sport tunisien."},
     facts: {
       de: ["Bedeutender Hafen", "Sportzentrum"],
@@ -5814,7 +5781,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-11",
     coords: [10.3019, 36.8142],
     name: { de: "La Goulette", hu: "La Goulette", ro: "La Goulette", en: "La Goulette"},
-    image: "/poi-images/la-goulette-cities-v2.webp",
     description: { de: "Der Haupthafen von Tunis, der für seinen maritimen Charakter und Fischrestaurants bekannt ist.", hu: "Tunisz fő kikötője, amely tengeri hangulatáról és haléttermeiről ismert.", ro: "Portul principal al Tunisului, cunoscut pentru caracterul său maritim și restaurantele pescărești.", en: "The main port of Tunis, known for its maritime character and seafood restaurants." , es: "El puerto principal de Túnez, conocido por su carácter marítimo y sus restaurantes de pescado.", pt: "O porto principal de Tunes, conhecido pelo seu caráter marítimo e restaurantes de peixe.", fr: "Le port principal de Tunis, connu pour son caractère maritime et ses restaurants de poissons."},
     facts: {
       de: ["Fährhafen", "Mittelmeerzugang"],
@@ -5928,7 +5894,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-13",
     coords: [10.3411, 36.7328],
     name: { de: "Hammam-Lif", hu: "Hammam-Lif", ro: "Hammam-Lif", en: "Hammam-Lif"},
-    image: "/poi-images/hammam-lif-cities-v2.webp",
     description: { de: "Eine Küstenstadt südlich von Tunis, die früher als Kurort der Beys von Tunis diente.", hu: "Tengerparti város Tunisztól délre, amely korábban a tuniszi beyek gyógyüdülőhelyeként szolgált.", ro: "Un oraș de coastă la sud de Tunis, care servea anterior ca stațiune balneară pentru bey-ii din Tunis.", en: "A coastal town south of Tunis that formerly served as a spa resort for the Beys of Tunis." , es: "Ciudad costera al sur de Túnez, que anteriormente servía como centro vacacional para los Beys de Túnez.", pt: "Cidade costeira a sul de Tunes, que servia anteriormente como estância termal para os Beys de Tunes.", fr: "Ville côtière au sud de Tunis, qui servait autrefois de station thermale pour les Beys de Tunis."},
     facts: {
       de: ["Ehemaliger Kurort", "Nahe Tunis"],
@@ -6258,7 +6223,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-32",
     coords: [8.7516, 36.9538],
     name: { de: "Tabarka", hu: "Tabarka", ro: "Tabarka", en: "Tabarka"},
-    image: "/poi-images/tabarka-cities-v2.webp",
     description: { de: "Eine Küstenstadt im Nordwesten, die für ihr Korallentauchen und Jazz-Festival bekannt ist.", hu: "Északnyugati tengerparti város, amely a korallbúvárkodásról és a jazzfesztiváljáról ismert.", ro: "Un oraș de coastă în nord-vest, cunoscut pentru scufundările în corali și festivalul de jazz.", en: "A coastal town in the northwest known for its coral diving and jazz festival." , es: "Una ciudad costera en el noroeste, famosa por su buceo de coral y su festival de jazz.", pt: "Uma cidade costeira no noroeste, conhecida pelo seu mergulho em coral e festival de jazz.", fr: "Une ville côtière du nord-ouest, connue pour sa plongée sous-marine autour des coraux et son festival de jazz."},
     facts: {
       de: ["Korallenriff", "Jazz-Festival"],
@@ -6294,7 +6258,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-21",
     coords: [11.0939, 36.8476],
     name: { de: "Kélibia", hu: "Kélibia", ro: "Kélibia", en: "Kélibia"},
-    image: "/poi-images/kelibia-cities-v2.webp",
     description: { de: "Eine Küstenstadt auf der Halbinsel Cap Bon, berühmt für ihre Festung und Weinherstellung.", hu: "Tengerparti város a Cap Bon-félszigeten, amely erődjéről és bortermeléséről híres.", ro: "Un oraș de coastă pe peninsula Cap Bon, faimos pentru fortăreața sa și producția de vin.", en: "A coastal city on the Cap Bon peninsula, famous for its fortress and wine production." , es: "Ciudad costera en la península de Cap Bon, famosa por su fortaleza y producción de vino.", pt: "Cidade costeira na península de Cap Bon, famosa pela sua fortaleza e produção de vinho.", fr: "Ville côtière sur la péninsule du Cap Bon, célèbre pour sa forteresse et sa production de vin."},
     facts: {
       de: ["Historische Festung", "Weinbau"],
@@ -6375,7 +6338,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-53",
     coords: [10.7105, 35.2959],
     name: { de: "El Djem", hu: "El Djem", ro: "El Djem", en: "El Djem"},
-    image: "/poi-images/el-djem-cities-v2.webp",
     description: { de: "Eine historische Stadt in der Sahelzone, in der sich eines der größten römischen Amphitheater befindet.", hu: "Történelmi város a Száhel-övezetben, ahol az egyik legnagyobb római amfiteátrum található.", ro: "Un oraș istoric în zona Sahel, care găzduiește unul dintre cele mai mari amfiteatre romane.", en: "A historical city in the Sahel region, home to one of the largest Roman amphitheatres." , es: "Ciudad histórica en la zona del Sahel, donde se encuentra uno de los anfiteatros romanos más grandes.", pt: "Cidade histórica na zona do Sahel, onde se encontra um dos maiores anfiteatros romanos.", fr: "Ville historique dans la zone du Sahel, où se trouve l'un des plus grands amphithéâtres romains."},
     facts: {
       de: ["Römisches Amphitheater", "UNESCO-Erbe"],
@@ -6492,7 +6454,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-52",
     coords: [10.8876, 35.6441],
     name: { de: "Ksar Hellal", hu: "Ksar Hellal", ro: "Ksar Hellal", en: "Ksar Hellal"},
-    image: "/poi-images/ksar-hellal-cities-v2.webp",
     description: { de: "Eine Industriestadt, die eine Schlüsselrolle im Unabhängigkeitskampf Tunesiens spielte.", hu: "Ipari város, amely kulcsszerepet játszott a tunéziai függetlenségi harcban.", ro: "Un oraș industrial care a jucat un rol cheie în lupta pentru independență a Tunisiei.", en: "An industrial city that played a key role in Tunisia's struggle for independence." , es: "Una ciudad industrial que desempeñó un papel clave en la lucha por la independencia de Túnez.", pt: "Uma cidade industrial que desempenhou um papel fundamental na luta pela independência da Tunísia.", fr: "Une ville industrielle qui a joué un rôle clé dans la lutte pour l'indépendance de la Tunisie."},
     facts: {
       de: ["Textilindustrie", "Historische Rolle"],
@@ -6528,7 +6489,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-52",
     coords: [10.9328, 35.6264],
     name: { de: "Moknine", hu: "Moknine", ro: "Moknine", en: "Moknine"},
-    image: "/poi-images/moknine-cities-v2.webp",
     description: { de: "Eine Stadt in der Küstenregion, die für ihre Töpferei und ihren traditionellen Schmuck bekannt ist.", hu: "Tengerparti régióban fekvő város, amely fazekasságáról és hagyományos ékszereiről ismert.", ro: "Un oraș din regiunea de coastă, cunoscut pentru olărit și bijuterii tradiționale.", en: "A town in the coastal region known for its pottery and traditional jewelry." , es: "Una ciudad en la región costera, conocida por su alfarería y sus joyas tradicionales.", pt: "Uma cidade na região costeira, conhecida pela sua olaria e pelas suas joias tradicionais.", fr: "Une ville de la région côtière, réputée pour sa poterie et ses bijoux traditionnels."},
     facts: {
       de: ["Töpferei", "Traditionelles Handwerk"],
@@ -6564,7 +6524,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-52",
     coords: [10.7589, 35.6372],
     name: { de: "Jemmal", hu: "Jemmal", ro: "Jemmal", en: "Jemmal"},
-    image: "/poi-images/jemmal-cities-v2.webp",
     description: { de: "Eine landwirtschaftlich geprägte Stadt, die für ihre Olivenölproduktion bekannt ist.", hu: "Mezőgazdasági jellegű város, amely az olívaolaj-termeléséről híres.", ro: "Un oraș agricol, cunoscut pentru producția sa de ulei de măsline.", en: "An agricultural town known for its olive oil production." , es: "Una ciudad de tradición agrícola, conocida por su producción de aceite de oliva.", pt: "Uma cidade de tradição agrícola, conhecida pela sua produção de azeite.", fr: "Une ville à tradition agricole, connue pour sa production d'huile d'olive."},
     facts: {
       de: ["Olivenölproduktion", "Regionales Zentrum"],
@@ -6645,7 +6604,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-23",
     coords: [9.7914, 37.1558],
     name: { de: "Menzel Bourguiba", hu: "Menzel Bourguiba", ro: "Menzel Bourguiba", en: "Menzel Bourguiba"},
-    image: "/poi-images/menzel-bourguiba-cities-v2.webp",
     description: { de: "Eine bedeutende Industriestadt nahe Bizerte, die früher als Ferryville bekannt war.", hu: "Jelentős iparváros Bizerte közelében, amelyet korábban Ferryville-ként ismertek.", ro: "Un oraș industrial important lângă Bizerte, cunoscut anterior sub numele de Ferryville.", en: "A major industrial city near Bizerte, formerly known as Ferryville." , es: "Una importante ciudad industrial cerca de Bizerte, anteriormente conocida como Ferryville.", pt: "Uma importante cidade industrial perto de Bizerte, anteriormente conhecida como Ferryville.", fr: "Une ville industrielle importante près de Bizerte, autrefois connue sous le nom de Ferryville."},
     facts: {
       de: ["Schwerindustrie", "Ehemals Ferryville"],
@@ -6681,7 +6639,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-21",
     coords: [10.9856, 36.7825],
     name: { de: "Menzel Temime", hu: "Menzel Temime", ro: "Menzel Temime", en: "Menzel Temime"},
-    image: "/poi-images/menzel-temime-cities-v2.webp",
     description: { de: "Eine Stadt auf der Halbinsel Cap Bon, die als Handelszentrum für lokale Agrarprodukte dient.", hu: "Város a Cap Bon-félszigeten, amely a helyi mezőgazdasági termékek kereskedelmi központjaként szolgál.", ro: "Un oraș pe peninsula Cap Bon, care servește drept centru comercial pentru produsele agricole locale.", en: "A city on the Cap Bon peninsula serving as a trading center for local agricultural products." , es: "Una ciudad en la península de Cap Bon, que sirve como centro comercial para productos agrícolas locales.", pt: "Uma cidade na península de Cap Bon, que serve como centro comercial para produtos agrícolas locais.", fr: "Une ville sur la péninsule du Cap Bon, qui sert de centre commercial pour les produits agricoles locaux."},
     facts: {
       de: ["Cap Bon Region", "Marktstadt"],
@@ -6762,7 +6719,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-21",
     coords: [10.8586, 36.5786],
     name: { de: "Korba", hu: "Korba", ro: "Korba", en: "Korba"},
-    image: "/poi-images/korba-cities-v2.webp",
     description: { de: "Eine kleine Küstenstadt, die für ihre Strände und die Landwirtschaft auf der Cap Bon-Halbinsel bekannt ist.", hu: "Kis tengerparti város, amely a Cap Bon-félszigeten fekvő strandjairól és mezőgazdaságáról ismert.", ro: "Un mic oraș de coastă, cunoscut pentru plajele și agricultura de pe peninsula Cap Bon.", en: "A small coastal town known for its beaches and agriculture on the Cap Bon peninsula." , es: "Una pequeña ciudad costera conocida por sus playas y la agricultura en la península de Cap Bon.", pt: "Uma pequena cidade costeira conhecida pelas suas praias e agricultura na península de Cap Bon.", fr: "Une petite ville côtière connue pour ses plages et son agriculture sur la péninsule du Cap Bon."},
     facts: {
       de: ["Agrarwirtschaft", "Sommerurlaub"],
@@ -6798,7 +6754,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-14",
     coords: [9.8436, 36.8317],
     name: { de: "Tebourba", hu: "Tebourba", ro: "Tebourba", en: "Tebourba"},
-    image: "/poi-images/tebourba-cities-v2.webp",
     description: { de: "Eine Stadt nordwestlich von Tunis, die auf eine lange römische und andalusische Geschichte zurückblickt.", hu: "Tunisztól északnyugatra fekvő város, amely hosszú római és andalúz történelemre tekint vissza.", ro: "Un oraș la nord-vest de Tunis, cu o lungă istorie romană și andaluză.", en: "A city northwest of Tunis with a long Roman and Andalusian history." , es: "Una ciudad al noroeste de Túnez que cuenta con una larga historia romana y andaluza.", pt: "Uma cidade a noroeste de Tunes que possui uma longa história romana e andaluza.", fr: "Une ville au nord-ouest de Tunis qui possède une longue histoire romaine et andalouse."},
     facts: {
       de: ["Historischer Ort", "Nahe Medjerda"],
@@ -6834,7 +6789,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-14",
     coords: [10.0397, 36.8378],
     name: { de: "Oued Ellil", hu: "Oued Ellil", ro: "Oued Ellil", en: "Oued Ellil"},
-    image: "/poi-images/oued-ellil-cities-v2.webp",
     description: { de: "Ein wichtiger Vorort von Tunis mit wachsender Industrie und Wohngebieten.", hu: "Tunisz fontos külvárosa növekvő iparral és lakóövezetekkel.", ro: "O suburbie importantă a Tunisului, cu o industrie și zone rezidențiale în creștere.", en: "An important suburb of Tunis with growing industry and residential areas." , es: "Un importante suburbio de Túnez con una creciente industria y zonas residenciales.", pt: "Um importante subúrbio de Tunes com indústria crescente e áreas residenciais.", fr: "Une importante banlieue de Tunis avec une industrie croissante et des zones résidentielles."},
     facts: {
       de: ["Vorort von Tunis", "Wachsende Industrie"],
@@ -6870,7 +6824,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-81",
     coords: [9.7967, 33.8864],
     name: { de: "El Hamma", hu: "El Hamma", ro: "El Hamma", en: "El Hamma"},
-    image: "/poi-images/el-hamma-cities-v2.webp",
     description: { de: "Eine Oasenstadt im Süden, die für ihre Thermalquellen berühmt ist.", hu: "Déli oázisváros, amely a termálforrásairól híres.", ro: "Un oraș oază din sud, faimos pentru izvoarele sale termale.", en: "An oasis town in the south famous for its thermal springs." , es: "Ciudad oasis en el sur, famosa por sus fuentes termales.", pt: "Cidade oásis no sul, famosa pelas suas fontes termais.", fr: "Ville oasis dans le sud, célèbre pour ses sources thermales."},
     facts: {
       de: ["Thermalquellen", "Oasenstadt"],
@@ -6906,7 +6859,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-72",
     coords: [7.8761, 33.8731],
     name: { de: "Nefta", hu: "Nefta", ro: "Nefta", en: "Nefta"},
-    image: "/poi-images/nefta-cities-v2.webp",
     description: { de: "Eine alte Wüstenstadt nahe der algerischen Grenze, bekannt als religiöses Zentrum des Sufismus.", hu: "Régi sivatagi város az algériai határ közelében, amely a szúfizmus vallási központjaként ismert.", ro: "Un vechi oraș deșertic lângă granița cu Algeria, cunoscut ca centru religios al sufismului.", en: "An ancient desert town near the Algerian border, known as a religious center of Sufism." , es: "Una antigua ciudad desértica cerca de la frontera argelina, conocida como centro religioso del sufismo.", pt: "Uma antiga cidade desértica perto da fronteira argelina, conhecida como centro religioso do sufismo.", fr: "Une ancienne ville désertique près de la frontière algérienne, connue comme centre religieux du soufisme."},
     facts: {
       de: ["Sufismus-Zentrum", "Oasenkultur"],
@@ -6942,7 +6894,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-71",
     coords: [8.4011, 34.3314],
     name: { de: "Métlaoui", hu: "Métlaoui", ro: "Métlaoui", en: "Métlaoui"},
-    image: "/poi-images/metlaoui-cities-v2.webp",
     description: { de: "Eine Stadt im südwestlichen Tunesien, die als Zentrum des Phosphatabbaus dient.", hu: "Délnyugat-Tunézia egyik városa, amely a foszfátbányászat központjaként szolgál.", ro: "Un oraș din sud-vestul Tunisiei, care servește ca centru al extracției de fosfați.", en: "A city in southwestern Tunisia serving as the center of phosphate mining." , es: "Una ciudad en el suroeste de Túnez que sirve como centro de extracción de fosfatos.", pt: "Uma cidade no sudoeste da Tunísia que serve como centro de extração de fosfatos.", fr: "Une ville dans le sud-ouest de la Tunisie qui sert de centre d'extraction de phosphates."},
     facts: {
       de: ["Phosphat-Zentrum", "Roter-Eidechse-Zug"],
@@ -7059,7 +7010,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-42",
     coords: [8.6728, 35.5681],
     name: { de: "Thala", hu: "Thala", ro: "Thala", en: "Thala"},
-    image: "/poi-images/thala-cities-v2.webp",
     description: { de: "Eine der höchstgelegenen Städte Tunesiens, die eine wichtige Rolle während der Revolution spielte.", hu: "Tunézia egyik legmagasabban fekvő városa, amely fontos szerepet játszott a forradalom alatt.", ro: "Unul dintre orașele situate la cea mai mare altitudine din Tunisia, care a jucat un rol important în timpul revoluției.", en: "One of the highest cities in Tunisia, which played an important role during the revolution." , es: "Una de las ciudades de mayor altitud de Túnez, que desempeñó un papel importante durante la revolución.", pt: "Uma das cidades de maior altitude da Tunísia, que desempenhou um papel importante durante a revolução.", fr: "L'une des villes les plus élevées de Tunisie, qui a joué un rôle important pendant la révolution."},
     facts: {
       de: ["Höhergelegene Stadt", "Kühles Klima"],
@@ -7212,7 +7162,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-34",
     coords: [9.2064, 35.8569],
     name: { de: "Makthar", hu: "Makthar", ro: "Makthar", en: "Makthar"},
-    image: "/poi-images/makthar-cities-v2.webp",
     description: { de: "Eine Bergstadt, die für ihre umfangreichen und gut erhaltenen römischen Ruinen bekannt ist.", hu: "Hegyi város, amely kiterjedt és jó állapotban fennmaradt római romjairól ismert.", ro: "Un oraș de munte, cunoscut pentru ruinele sale romane extinse și bine conservate.", en: "A mountain town known for its extensive and well-preserved Roman ruins." , es: "Una ciudad de montaña famosa por sus extensas y bien conservadas ruinas romanas.", pt: "Uma cidade de montanha conhecida pelas suas ruínas romanas extensas e bem conservadas.", fr: "Une ville de montagne connue pour ses ruines romaines étendues et bien conservées."},
     facts: {
       de: ["Römisches Mactaris", "Berglandschaft"],
@@ -7253,7 +7202,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-31",
     coords: [9.6103, 36.6492],
     name: { de: "Medjez el-Bab", hu: "Medjez el-Bab", ro: "Medjez el-Bab", en: "Medjez el-Bab"},
-    image: "/poi-images/medjez-el-bab-cities-v2.webp",
     description: { de: "Eine strategisch wichtige Stadt am Fluss Medjerda, oft ein Schlachtfeld im Zweiten Weltkrieg.", hu: "Stratégiailag fontos város a Medzserda folyó mellett, amely gyakran volt csatatér a második világháborúban.", ro: "Un oraș important strategic pe râul Medjerda, adesea câmp de luptă în al Doilea Război Mondial.", en: "A strategically important city on the Medjerda River, often a battlefield in World War II." , es: "Una ciudad estratégicamente importante en el río Medjerda, a menudo un campo de batalla en la Segunda Guerra Mundial.", pt: "Uma cidade estrategicamente importante no rio Medjerda, frequentemente um campo de batalha na Segunda Guerra Mundial.", fr: "Une ville stratégiquement importante sur la rivière Medjerda, souvent un champ de bataille pendant la Seconde Guerre mondiale."},
     facts: {
       de: ["Am Medjerda-Fluss", "WK2-Denkmäler"],
@@ -7334,7 +7282,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-31",
     coords: [9.2536, 36.4589],
     name: { de: "Téboursouk", hu: "Téboursouk", ro: "Téboursouk", en: "Téboursouk"},
-    image: "/poi-images/teboursouk-cities-v2.webp",
     description: { de: "Eine malerische Bergstadt in der Nähe der bedeutenden römischen Ausgrabungsstätte Dougga.", hu: "Festői hegyi város a jelentős római kori Dougga ásatás közelében.", ro: "Un oraș de munte pitoresc lângă importantul sit arheologic roman Dougga.", en: "A picturesque mountain town near the significant Roman archaeological site of Dougga." , es: "Una pintoresca ciudad de montaña cerca del importante sitio arqueológico romano de Dougga.", pt: "Uma pitoresca cidade de montanha perto do importante sítio arqueológico romano de Dougga.", fr: "Une ville de montagne pittoresque près du site archéologique romain important de Dougga."},
     facts: {
       de: ["Nähe zu Dougga", "Olivenproduktion"],
@@ -7370,7 +7317,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-31",
     coords: [9.4447, 36.5511],
     name: { de: "Testour", hu: "Testour", ro: "Testour", en: "Testour"},
-    image: "/poi-images/testour-cities-v2.webp",
     description: { de: "Eine der besterhaltenen andalusischen Städte in Tunesien, die für ihr Festival des Malouf bekannt ist.", hu: "Tunézia egyik legjobb állapotban fennmaradt andalúz városa, amely a Malouf fesztiváljáról ismert.", ro: "Unul dintre cele mai bine conservate orașe andaluze din Tunisia, cunoscut pentru festivalul său de Malouf.", en: "One of the best-preserved Andalusian cities in Tunisia, known for its festival of Malouf." , es: "Una de las ciudades andaluzas mejor conservadas de Túnez, conocida por su festival de Malouf.", pt: "Uma das cidades andaluzas mais bem preservadas da Tunísia, conhecida pelo seu festival de Malouf.", fr: "L'une des villes andalouses les mieux préservées de Tunisie, connue pour son festival de Malouf."},
     facts: {
       de: ["Andalusisches Erbe", "Einzigartige Moschee"],
@@ -7451,7 +7397,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-51",
     coords: [10.3808, 36.1342],
     name: { de: "Enfidha", hu: "Enfidha", ro: "Enfidha", en: "Enfidha"},
-    image: "/poi-images/enfidha-cities-v2.webp",
     description: { de: "Eine schnell wachsende Stadt, bekannt für ihren internationalen Flughafen und Industrieparks.", hu: "Gyorsan növekvő város, amely nemzetközi repülőteréről és ipari parkjairól ismert.", ro: "Un oraș în creștere rapidă, cunoscut pentru aeroportul său internațional și parcurile industriale.", en: "A rapidly growing city known for its international airport and industrial parks." , es: "Ciudad de rápido crecimiento, conocida por su aeropuerto internacional y parques industriales.", pt: "Cidade de rápido crescimento, conhecida pelo seu aeroporto internacional e parques industriais.", fr: "Ville en croissance rapide, connue pour son aéroport international et ses parcs industriels."},
     facts: {
       de: ["Internationaler Flughafen", "Industriezentrum"],
@@ -7487,7 +7432,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-53",
     coords: [10.9858, 35.4264],
     name: { de: "Ksour Essef", hu: "Ksour Essef", ro: "Ksour Essef", en: "Ksour Essef"},
-    image: "/poi-images/ksour-essef-cities-v2.webp",
     description: { de: "Eine Stadt in der Küstenebene, die auf landwirtschaftliche Produkte spezialisiert ist.", hu: "Város a parti síkságon, amely mezőgazdasági termékekre szakosodott.", ro: "Un oraș din câmpia de coastă, specializat în produse agricole.", en: "A town in the coastal plain specialized in agricultural products." , es: "Una ciudad en la llanura costera, especializada en productos agrícolas.", pt: "Uma cidade na planície costeira, especializada em produtos agrícolas.", fr: "Une ville de la plaine côtière, spécialisée dans les produits agricoles."},
     facts: {
       de: ["Agrarwirtschaft", "Römische Spuren"],
@@ -7568,7 +7512,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-21",
     coords: [10.7486, 36.4678],
     name: { de: "Dar Chaabane", hu: "Dar Chaabane", ro: "Dar Chaabane", en: "Dar Chaabane"},
-    image: "/poi-images/dar-chaabane-cities-v2.webp",
     description: { de: "Eine Stadt nahe Nabeul, die für ihre traditionelle Steinmetzkunst bekannt ist.", hu: "Város Nabeul közelében, amely a hagyományos kőfaragásáról ismert.", ro: "Un oraș lângă Nabeul, cunoscut pentru pietrăria sa tradițională.", en: "A town near Nabeul known for its traditional stonemasonry." , es: "Ciudad cercana a Nabeul, conocida por su artesanía tradicional en piedra.", pt: "Cidade perto de Nabeul, conhecida pelo seu trabalho artesanal em pedra.", fr: "Ville proche de Nabeul, connue pour son artisanat traditionnel de la pierre."},
     facts: {
       de: ["Steinmetzkunst", "Handwerkszentrum"],
@@ -7649,7 +7592,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     parent: "TN-32",
     coords: [8.9692, 36.6067],
     name: { de: "Bou Salem", hu: "Bou Salem", ro: "Bou Salem", en: "Bou Salem"},
-    image: "/poi-images/bou-salem-cities-v2.webp",
     description: { de: "Ein bedeutender Marktplatz und Zentrum für den Getreideanbau im Medjerda-Tal.", hu: "Jelentős piactér és a gabonatermesztés központja a Medzserda-völgyben.", ro: "O piață importantă și centru pentru cultivarea cerealelor în valea Medjerda.", en: "A major market town and center for cereal cultivation in the Medjerda valley." , es: "Un importante mercado y centro de cultivo de cereales en el valle de Medjerda.", pt: "Um importante mercado e centro de cultivo de cereais no vale de Medjerda.", fr: "Un important marché et centre de culture céréalière dans la vallée de la Medjerda."},
     facts: {
       de: ["Getreideanbau", "Agrarzentrum"],

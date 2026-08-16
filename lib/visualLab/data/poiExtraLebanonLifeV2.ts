@@ -377,7 +377,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     parent: "LB-JL",
     coords: [35.70, 33.68],
     name: { de: "Al-Shouf-Zedern-Naturreservat", hu: "Al-Shouf cédrus természetvédelmi terület", ro: "Rezervația naturală a cedrilor Al-Shouf", en: "Al Shouf Cedar Nature Reserve"},
-    image: "/poi-images/al-shouf-cedar-reserve-life-v2.webp",
     description: { de: "Das größte Naturreservat im Libanon schützt ausgedehnte Zedernwälder und zahlreiche bedrohte Tierarten.", hu: "Libanon legnagyobb természetvédelmi területe, amely hatalmas cédruserdőket és számos veszélyeztetett állatfajt véd.", ro: "Cea mai mare rezervație naturală din Liban protejează păduri întinse de cedri și numeroase specii de animale pe cale de dispariție.", en: "The largest nature reserve in Lebanon protects extensive cedar forests and numerous endangered animal species." , es: "La mayor reserva natural del Líbano protege extensos bosques de cedros y numerosas especies animales amenazadas.", pt: "A maior reserva natural do Líbano protege extensas florestas de cedros e numerosas espécies de animais ameaçadas.", fr: "La plus grande réserve naturelle du Liban protège de vastes forêts de cèdres et de nombreuses espèces animales menacées."},
     facts: {
       de: ["Umfasst etwa 5 % der Gesamtfläche des Landes.", "Heimat von Wölfen, Wildschweinen und Wildkatzen."],
@@ -638,7 +637,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     parent: "LB-AS",
     coords: [35.98, 34.30],
     name: { de: "Naturreservat Horsh Ehden", hu: "Horsh Ehden természetvédelmi terület", ro: "Rezervația naturală Horsh Ehden", en: "Horsh Ehden Nature Reserve"},
-    image: "/poi-images/horsh-ehden-reserve-life-v2.webp",
     description: { de: "Ein isoliertes Waldgebiet im Norden des Libanon, das für seine außergewöhnliche botanische Vielfalt bekannt ist.", hu: "Egy elszigetelt erdőterület Észak-Libanonban, amely kivételes botanikai sokféleségéről ismert.", ro: "O zonă forestieră izolată din nordul Libanului, cunoscută pentru diversitatea sa botanică excepțională.", en: "An isolated forest area in northern Lebanon known for its exceptional botanical diversity." , es: "Un área forestal aislada en el norte del Líbano, conocida por su extraordinaria diversidad botánica.", pt: "Uma área florestal isolada no norte do Líbano, conhecida pela sua extraordinária diversidade botânica.", fr: "Une zone forestière isolée au nord du Liban, connue pour son extraordinaire diversité botanique."},
     facts: {
       de: ["Beherbergt über 1000 Pflanzenarten.", "Wichtiger Zufluchtsort für seltene Schmetterlinge."],
@@ -674,7 +672,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     parent: "LB-AS",
     coords: [35.78, 34.49],
     name: { de: "Palmeninsel-Naturreservat", hu: "Pálma-szigetek természetvédelmi terület", ro: "Rezervația Insulelor Palmierilor", en: "Palm Islands Nature Reserve"},
-    image: "/poi-images/palm-islands-reserve-life-v2.webp",
     description: { de: "Eine kleine Inselgruppe vor der Küste von Tripolis, die als wichtiger Brutplatz für gefährdete Meeresschildkröten dient.", hu: "Egy kis szigetcsoport Tripoli partjainál, amely a veszélyeztetett tengeri teknősök fontos költőhelyeként szolgál.", ro: "Un mic grup de insule în largul coastei orașului Tripoli, care servește drept loc important de cuibărit pentru țestoasele marine pe cale de dispariție.", en: "A small group of islands off the coast of Tripoli that serves as an important nesting site for endangered sea turtles." , es: "Un pequeño archipiélago frente a la costa de Trípoli que sirve como importante lugar de cría para las tortugas marinas en peligro de extinción.", pt: "Um pequeno arquipélago ao largo da costa de Trípoli que serve como importante local de reprodução para tartarugas marinhas ameaçadas.", fr: "Un petit archipel au large de Tripoli qui sert de lieu de reproduction essentiel pour les tortues marines menacées."},
     facts: {
       de: ["Besteht aus drei flachen Kalksteininseln.", "Ein wichtiger Rastplatz für Zugvögel."],
@@ -710,7 +707,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     parent: "LB-JA",
     coords: [35.21, 33.25],
     name: { de: "Naturreservat Küste von Tyros", hu: "Türosz partvidéki természetvédelmi terület", ro: "Rezervația de coastă din Tir", en: "Tyre Coast Nature Reserve"},
-    image: "/poi-images/tyre-coast-reserve-life-v2.webp",
     description: { de: "Dieses Küstenreservat umfasst die schönsten Sandstrände des Libanon und wichtige Feuchtgebiete für Süßwassertiere.", hu: "Ez a partvidéki rezervátum magában foglalja Libanon legszebb homokos strandjait és az édesvízi állatok fontos vizes élőhelyeit.", ro: "Această rezervație de coastă include cele mai frumoase plaje cu nisip din Liban și zone umede importante pentru fauna de apă dulce.", en: "This coastal reserve includes Lebanon's most beautiful sandy beaches and important wetlands for freshwater animals." , es: "Esta reserva costera incluye las playas de arena más hermosas del Líbano e importantes humedales para animales de agua dulce.", pt: "Esta reserva costeira inclui as praias de areia mais bonitas do Líbano e zonas húmidas importantes para animais de água doce.", fr: "Cette réserve côtière comprend les plus belles plages de sable du Liban et d'importantes zones humides pour les animaux d'eau douce."},
     facts: {
       de: ["Nistplatz der Unechten Karettschildkröte.", "Enthält auch antike archäologische Überreste im Wasser."],
@@ -971,7 +967,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     parent: "LB-JL",
     coords: [35.76, 34.05],
     name: { de: "Biosphärenreservat Dschebel Mussa", hu: "Dzsebel Musza bioszféra-rezervátum", ro: "Rezervația biosferei Jabal Moussa", en: "Jabal Moussa Biosphere Reserve"},
-    image: "/poi-images/jabal-moussa-reserve-life-v2.webp",
     description: { de: "Ein UNESCO-Biosphärenreservat, das reiche Waldbestände, tiefe Täler und Spuren menschlicher Besiedlung aus der Römerzeit bewahrt.", hu: "Egy UNESCO bioszféra-rezervátum, amely gazdag erdőket, mély völgyeket és a római korból származó emberi települések nyomait őrzi.", ro: "O rezervație a biosferei UNESCO care păstrează păduri bogate, văi adânci și urme ale așezărilor umane din epoca romană.", en: "A UNESCO biosphere reserve that preserves rich forests, deep valleys, and traces of human settlement from the Roman era." , es: "Una Reserva de la Biosfera de la UNESCO que conserva ricos bosques, valles profundos y vestigios de asentamientos humanos de la época romana.", pt: "Uma Reserva da Biosfera da UNESCO que preserva ricas florestas, vales profundos e vestígios de povoamento humano da época romana.", fr: "Une réserve de biosphère de l'UNESCO qui préserve de riches massifs forestiers, des vallées profondes et des traces d'occupation humaine de l'époque romaine."},
     facts: {
       de: ["Beherbergt über 130 Vogelarten.", "Bekannt für seine alten römischen Treppen."],
@@ -1592,7 +1587,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     parent: "LB-BI",
     coords: [35.88, 33.83],
     name: { de: "Weingüter der Bekaa-Ebene", hu: "A Bekaa-völgy borászatai", ro: "Podgoriile din Valea Bekaa", en: "Bekaa Valley Vineyards"},
-    image: "/poi-images/bekaa-vineyards-life-v2.webp",
     description: { de: "Die historischen Weinanbaugebiete des Libanon, wo jahrhundertealte Traditionen auf moderne Weinbautechniken treffen.", hu: "Libanon történelmi bortermelő vidékei, ahol az évszázados hagyományok találkoznak a modern szőlészeti technikákkal.", ro: "Zonele istorice de cultivare a viței de vie din Liban, unde tradițiile seculare se întâlnesc cu tehnicile viticole moderne.", en: "The historic wine-growing regions of Lebanon, where centuries-old traditions meet modern viticultural techniques." , es: "Las históricas regiones vinícolas del Líbano, donde las tradiciones milenarias se encuentran con las técnicas modernas de viticultura.", pt: "As históricas regiões vinícolas do Líbano, onde tradições seculares se encontram com técnicas modernas de viticultura.", fr: "Les régions viticoles historiques du Liban, où les traditions séculaires rencontrent les techniques modernes de viticulture."},
     facts: {
       de: ["Produziert die meisten der libanesischen Weine.", "Die Anbauhöhe liegt bei über 1000 Metern."],
@@ -1673,7 +1667,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     parent: "LB-AS",
     coords: [35.93, 34.21],
     name: { de: "Zedernwald-Naturreservat Tannourine", hu: "Tannourine cédruserdő természetvédelmi terület", ro: "Rezervația pădurii de cedri din Tannourine", en: "Tannourine Cedar Forest Nature Reserve"},
-    image: "/poi-images/tannourine-cedar-life-v2.webp",
     description: { de: "Einer der dichtesten Zedernwälder des Landes, eingebettet in eine dramatische Felslandschaft mit tiefen Dolinen.", hu: "Az ország egyik legsűrűbb cédruserdeje, amely drámai sziklás tájba van beágyazva, mély víznyelőkkel.", ro: "Una dintre cele mai dense păduri de cedri din țară, amplasată într-un peisaj stâncos dramatic cu doline adânci.", en: "One of the densest cedar forests in the country, nestled in a dramatic rocky landscape with deep sinkholes." , es: "Uno de los bosques de cedros más densos del país, ubicado en un espectacular paisaje rocoso con profundas dolinas.", pt: "Uma das florestas de cedros mais densas do país, inserida numa paisagem rochosa dramática com dolinas profundas.", fr: "L'une des forêts de cèdres les plus denses du pays, nichée dans un paysage rocheux spectaculaire avec de profondes dolines."},
     facts: {
       de: ["Die Bäume wachsen auf extrem steilen Hängen.", "Ein beliebtes Gebiet für Kletterer und Wanderer."],
@@ -1709,7 +1702,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     parent: "LB-BI",
     coords: [36.01, 34.12],
     name: { de: "Naturreservat Jammoune", hu: "Yammoune természetvédelmi terület", ro: "Rezervația naturală Yammoune", en: "Yammouneh Nature Reserve"},
-    image: "/poi-images/yammouneh-reserve-life-v2.webp",
     description: { de: "Ein Bergtal mit reichem Wasservorkommen, das für seine einzigartigen endemischen Fischarten und geologischen Formationen bekannt ist.", hu: "Gazdag vízkészlettel rendelkező hegyvidéki völgy, amely egyedülálló endemikus halfajairól és geológiai képződményeiről ismert.", ro: "O vale de munte cu resurse bogate de apă, cunoscută pentru speciile sale endemice unice de pești și formațiunile geologice.", en: "A mountain valley with rich water resources, known for its unique endemic fish species and geological formations." , es: "Un valle montañoso con abundantes recursos hídricos, conocido por sus especies de peces endémicas únicas y sus formaciones geológicas.", pt: "Um vale montanhoso com recursos hídricos abundantes, conhecido pelas suas espécies de peixes endémicas únicas e formações geológicas.", fr: "Une vallée de montagne riche en eau, connue pour ses espèces de poissons endémiques uniques et ses formations géologiques."},
     facts: {
       de: ["Es gibt dort 84 natürliche Wasserquellen.", "Heimat einer speziellen Elritzenart (Phoxinellus libanicus)."],
@@ -1898,7 +1890,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     parent: "LB-JL",
     coords: [35.67, 34.13],
     name: { de: "Naturreservat Bentael", hu: "Bentael természetvédelmi terület", ro: "Rezervația naturală Bentael", en: "Bentael Nature Reserve"},
-    image: "/poi-images/bentael-reserve-life-v2.webp",
     description: { de: "Eines der ersten Naturschutzgebiete im Libanon, gegründet zum Schutz der mediterranen Pinienwälder und der lokalen Tierwelt.", hu: "Libanon egyik első természetvédelmi területe, amelyet a mediterrán fenyőerdők és a helyi vadvilág védelmére hoztak létre.", ro: "Una dintre primele arii protejate din Liban, înființată pentru a proteja pădurile de pini mediteraneeni și fauna locală.", en: "One of the first nature reserves in Lebanon, established to protect the Mediterranean pine forests and local wildlife." , es: "Una de las primeras reservas naturales del Líbano, creada para proteger los bosques de pinos mediterráneos y la fauna local.", pt: "Uma das primeiras reservas naturais do Líbano, criada para proteger os pinhais mediterrânicos e a vida selvagem local.", fr: "L'une des premières réserves naturelles du Liban, créée pour protéger les pinèdes méditerranéennes et la faune locale."},
     facts: {
       de: ["Wurde 1981 von den Dorfbewohnern selbst initiiert.", "Wichtige Station für den Vogelzug im Frühling."],
@@ -2735,7 +2726,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     parent: "LB-BA",
     coords: [35.49, 33.89],
     name: { de: "Rene-Moawad-Garten", hu: "René Moawad kert", ro: "Grădina René Moawad", en: "Rene Moawad Garden"},
-    image: "/poi-images/rene-moawad-garden-life-v2.webp",
     description: { de: "Einer der ältesten und bekanntesten öffentlichen Parks in Beirut, der eine grüne Oase inmitten der belebten Hauptstadt bietet.", hu: "Bejrút egyik legrégebbi és legismertebb nyilvános parkja, amely zöld oázist kínál a forgalmas főváros szívében.", ro: "Unul dintre cele mai vechi și mai cunoscute parcuri publice din Beirut, oferind o oază de verdeață în mijlocul capitalei aglomerate.", en: "One of the oldest and most well-known public parks in Beirut, offering a green oasis in the middle of the bustling capital." , es: "Uno de los parques públicos más antiguos y conocidos de Beirut, que ofrece un oasis verde en medio de la bulliciosa capital.", pt: "Um dos parques públicos mais antigos e conhecidos de Beirute, oferecendo um oásis verde no meio da movimentada capital.", fr: "L'un des plus anciens et des plus célèbres parcs publics de Beyrouth, offrant une oasis de verdure au cœur de la capitale animée."},
     facts: {
       de: ["Ursprünglich 1907 als Sanayeh-Garten eröffnet.", "Beliebter Treffpunkt für Familien und Spaziergänger."],
@@ -3464,7 +3454,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     parent: "LB-BA",
     coords: [35.50, 33.87],
     name: { de: "Horsh Beirut", hu: "Horsh Beirut", ro: "Horsh Beirut", en: "Horsh Beirut"},
-    image: "/poi-images/horsh-beirut-life-v2.webp",
     description: { de: "Der größte Park Beiruts, der aus einem dichten Pinienwald besteht und einen wesentlichen Beitrag zur städtischen Luftqualität leistet.", hu: "Bejrút legnagyobb parkja, amely sűrű fenyőerdőből áll, és jelentősen hozzájárul a város levegőminőségéhez.", ro: "Cel mai mare parc din Beirut, format dintr-o pădure deasă de pini, cu o contribuție semnificativă la calitatea aerului urban.", en: "Beirut's largest park, consisting of a dense pine forest and making a significant contribution to the city's air quality." , es: "El parque más grande de Beirut, que consiste en un denso bosque de pinos y contribuye significativamente a la calidad del aire urbano.", pt: "O maior parque de Beirute, composto por uma densa floresta de pinheiros e que contribui significativamente para a qualidade do ar urbano.", fr: "Le plus grand parc de Beyrouth, constitué d'une pinède dense, qui contribue de manière essentielle à la qualité de l'air urbain."},
     facts: {
       de: ["Der Wald hat eine Größe von etwa 300.000 Quadratmetern.", "Er wurde über viele Jahre wiederaufgeforstet."],
@@ -3653,7 +3642,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     parent: "LB-JL",
     coords: [35.61, 33.95],
     name: { de: "Animal City Libanon", hu: "Animal City Libanon", ro: "Animal City Liban", en: "Animal City Lebanon"},
-    image: "/poi-images/animal-city-lebanon-life-v2.webp",
     description: { de: "Ein familienfreundlicher Tierpark in Nahr el Kalb, der eine Vielzahl exotischer und einheimischer Tierarten beherbergt.", hu: "Egy családbarát állatkert Nahr el Kalbban, amely számos egzotikus és őshonos állatfajnak ad otthont.", ro: "Un parc zoologic prietenos cu familiile în Nahr el Kalb, care găzduiește o varietate de specii de animale exotice și native.", en: "A family-friendly animal park in Nahr el Kalb, home to a variety of exotic and native animal species." , es: "Un parque de animales ideal para familias en Nahr el Kalb, que alberga una gran variedad de especies exóticas y autóctonas.", pt: "Um parque de animais para toda a família em Nahr el Kalb, que abriga uma variedade de espécies exóticas e nativas.", fr: "Un parc animalier familial à Nahr el Kalb, abritant une grande variété d'espèces exotiques et indigènes."},
     facts: {
       de: ["Einer der größten Tierparks im Libanon.", "Bietet auch Bildungsführungen für Schulkinder an."],
@@ -4958,7 +4946,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     parent: "LB-JL",
     coords: [35.55, 33.85],
     name: { de: "Waves Aqua Park", hu: "Waves Aquapark", ro: "Waves Aqua Park", en: "Waves Aqua Park"},
-    image: "/poi-images/waves-aqua-park-life-v2.webp",
     description: { de: "Einer der größten Wasserparks der Region, auf einem mit Pinien bewachsenen Hügel gelegen, ideal für Familienausflüge.", hu: "A régió egyik legnagyobb vízi parkja, amely egy fenyőkkel borított dombon található, ideális családi kirándulásokhoz.", ro: "Unul dintre cele mai mari parcuri acvatice din regiune, situat pe un deal acoperit de pini, ideal pentru ieșiri în familie.", en: "One of the largest water parks in the region, situated on a pine-covered hill, ideal for family outings." , es: "Uno de los parques acuáticos más grandes de la región, situado en una colina cubierta de pinos, ideal para excursiones familiares.", pt: "Um dos maiores parques aquáticos da região, situado numa colina coberta de pinheiros, ideal para passeios em família.", fr: "L'un des plus grands parcs aquatiques de la région, situé sur une colline plantée de pins, idéal pour les sorties en famille."},
     facts: {
       de: ["Umfasst eine Fläche von 60.000 Quadratmetern.", "Verfügt über riesige Wellenbecken und Rutschen."],
@@ -5615,7 +5602,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     parent: "LB-JL",
     coords: [35.59, 33.94],
     name: { de: "WaterGate Aqua Park", hu: "WaterGate Aquapark", ro: "WaterGate Aqua Park", en: "WaterGate Aqua Park"},
-    image: "/poi-images/watergate-aqua-park-life-v2.webp",
     description: { de: "Ein beliebter Vergnügungs- und Wasserpark mit zahlreichen Attraktionen für Kinder und Erwachsene in Dbaye.", hu: "Egy népszerű vidám- és vízipark Dbaye-ben, számos látványossággal gyerekek és felnőttek számára.", ro: "Un popular parc de distracții și acvatic cu numeroase atracții pentru copii și adulți din Dbaye.", en: "A popular amusement and water park with numerous attractions for children and adults in Dbaye." , es: "Un popular parque de atracciones y acuático con numerosas atracciones para niños y adultos en Dbayeh.", pt: "Um popular parque de diversões e aquático com inúmeras atrações para crianças e adultos em Dbayeh.", fr: "Un parc d'attractions et aquatique populaire avec de nombreuses attractions pour enfants et adultes à Dbayeh."},
     facts: {
       de: ["Ist für seine kurvenreichen Hochgeschwindigkeitsrutschen bekannt.", "Besitzt einen eigenen Kinderbereich mit seichtem Wasser."],
@@ -5840,7 +5826,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     parent: "LB-JL",
     coords: [35.60, 33.95],
     name: { de: "Rio Lento Wasserpark", hu: "Rio Lento vízipark", ro: "Parcul Acvatic Rio Lento", en: "Rio Lento Water Park"},
-    image: "/poi-images/rio-lento-park-life-v2.webp",
     description: { de: "Ein familienorientierter Wasserpark, der besonders für seinen langen Strömungskanal (Lazy River) geschätzt wird.", hu: "Egy családközpontú vízipark, amelyet különösen a hosszú áramló csatornája (Lassú folyó) miatt értékelnek.", ro: "Un parc acvatic orientat spre familie, deosebit de apreciat pentru râul său lung și leneș.", en: "A family-oriented water park, particularly appreciated for its long lazy river." , es: "Un parque acuático orientado a las familias, especialmente valorado por su largo canal de corriente (río lento).", pt: "Um parque aquático orientado para famílias, especialmente apreciado pelo seu longo canal de corrente (rio lento).", fr: "Un parc aquatique axé sur les familles, particulièrement apprécié pour son long canal à courant (rivière lente)."},
     facts: {
       de: ["Der Name bedeutet 'Langsamer Fluss' auf Spanisch.", "Die Anlage ist von natürlichen Felswänden umgeben."],
@@ -6065,7 +6050,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     parent: "LB-JA",
     coords: [35.58, 33.53],
     name: { de: "Kiefernwald von Bkassine", hu: "Bkassine fenyőerdeje", ro: "Pădurea de pini Bkassine", en: "Bkassine Pine Forest"},
-    image: "/poi-images/bkassine-pine-forest-life-v2.webp",
     description: { de: "Der größte Pinienwald im Libanon und im gesamten Nahen Osten, ein malerischer Ort für Ökotourismus.", hu: "Libanon és az egész Közel-Kelet legnagyobb fenyőerdeje, amely az ökoturizmus festői helyszíne.", ro: "Cea mai mare pădure de pini din Liban și din întregul Orient Mijlociu, un loc pitoresc pentru ecoturism.", en: "The largest pine forest in Lebanon and the entire Middle East, a picturesque spot for ecotourism." , es: "El mayor bosque de pinos del Líbano y de todo Oriente Medio, un lugar pintoresco para el ecoturismo.", pt: "A maior floresta de pinheiros do Líbano e de todo o Médio Oriente, um local pitoresco para o ecoturismo.", fr: "La plus grande forêt de pins du Liban et de tout le Moyen-Orient, un lieu pittoresque pour l'écotourisme."},
     facts: {
       de: ["Wurde vom Dorf selbst geschützt und gepflegt.", "Bietet Hängebrücken und ausgedehnte Wanderwege."],
@@ -6146,7 +6130,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     parent: "LB-BI",
     coords: [35.75, 33.55],
     name: { de: "Landwirtschaftsgebiet Litani-Becken", hu: "Litáni-medence mezőgazdasági területe", ro: "Zona agricolă a bazinului Litani", en: "Litani Basin Agricultural Area"},
-    image: "/poi-images/litani-basin-agri-life-v2.webp",
     description: { de: "Das Flusstal des Litani bietet die fruchtbarsten Böden des Libanon und unterstützt eine intensive Landwirtschaft.", hu: "A Litáni folyó völgye Libanon legtermékenyebb talaját kínálja, és intenzív mezőgazdaságot tesz lehetővé.", ro: "Valea râului Litani oferă cele mai fertile soluri din Liban și sprijină agricultura intensivă.", en: "The Litani River valley offers the most fertile soils in Lebanon and supports intensive agriculture." , es: "El valle del río Litani ofrece los suelos más fértiles del Líbano y sustenta una agricultura intensiva.", pt: "O vale do rio Litani oferece os solos mais férteis do Líbano e sustenta uma agricultura intensiva.", fr: "La vallée de la rivière Litani offre les sols les plus fertiles du Liban et soutient une agriculture intensive."},
     facts: {
       de: ["Der Litani ist der längste Fluss, der vollständig im Libanon fließt.", "Ein wichtiges Zentrum für den Anbau von Getreide und Gemüse."],
@@ -6263,7 +6246,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     parent: "LB-JL",
     coords: [35.81, 33.99],
     name: { de: "Apfelgärten von Kfardebian", hu: "Kfardebian almaültetvényei", ro: "Livezile de meri din Kfardebian", en: "Kfardebian Apple Orchards"},
-    image: "/poi-images/kfardebian-orchards-life-v2.webp",
     description: { de: "Bekannt für ihre hochgelegenen Terrassenfelder, produzieren diese Obstgärten einige der knackigsten Äpfel des Nahen Ostens.", hu: "A magasan fekvő teraszos mezőikről ismert gyümölcsösök a Közel-Kelet legropogósabb almáit termelik.", ro: "Cunoscute pentru câmpurile lor în terase la mare altitudine, aceste livezi produc unele dintre cele mai crocante mere din Orientul Mijlociu.", en: "Known for their high-altitude terraced fields, these orchards produce some of the crispest apples in the Middle East." , es: "Conocidos por sus campos en terrazas de gran altitud, estos huertos producen algunas de las manzanas más crujientes de Oriente Medio.", pt: "Conhecidos pelos seus campos em socalcos de grande altitude, estes pomares produzem algumas das maçãs mais crocantes do Médio Oriente.", fr: "Réputés pour leurs cultures en terrasses d'altitude, ces vergers produisent certaines des pommes les plus croquantes du Moyen-Orient."},
     facts: {
       de: ["Die kühlen Nächte der Berge sind ideal für den Apfelanbau.", "Die Äpfel werden oft in den gesamten Golfraum exportiert."],
@@ -6380,7 +6362,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     parent: "LB-NA",
     coords: [35.68, 33.39],
     name: { de: "Olivenhaine von Hasbaya", hu: "Hasbaya olajfaligetei", ro: "Livezile de măslini din Hasbaya", en: "Hasbaya Olive Groves"},
-    image: "/poi-images/hasbaya-olives-life-v2.webp",
     description: { de: "Eine Region im Südlibanon, die für ihre uralten Olivenbäume und die traditionelle Herstellung von Olivenöl berühmt ist.", hu: "Egy dél-libanoni régió, amely ősi olajfáiról és hagyományos olívaolaj-termeléséről híres.", ro: "O regiune din sudul Libanului renumită pentru măslinii săi străvechi și producția tradițională de ulei de măsline.", en: "A region in southern Lebanon famous for its ancient olive trees and traditional olive oil production." , es: "Una región del sur del Líbano famosa por sus olivos milenarios y la producción tradicional de aceite de oliva.", pt: "Uma região no sul do Líbano famosa pelas suas oliveiras milenares e pela produção tradicional de azeite.", fr: "Une région du Sud-Liban célèbre pour ses oliviers millénaires et sa production traditionnelle d'huile d'olive."},
     facts: {
       de: ["Einige Olivenbäume in der Gegend sind über tausend Jahre alt.", "Die Olivenernte ist ein zentrales gesellschaftliches Ereignis."],

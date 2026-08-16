@@ -93,7 +93,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "Humberstone Salétromtelep",
       ro: "Salina Humberstone",
       en: "Humberstone Saltpeter Works"},
-    image: "/poi-images/humberstone-history-v2.webp",
     descriptionAdvanced: {
       de: "Das Salpeterwerk Humberstone, ursprünglich La Palma genannt, liegt in der Atacama-Wüste im Norden Chiles und ist eines der bedeutendsten Zeugnisse der industriellen Ära des Salpeterbooms. Gegründet im Jahr 1872, entwickelte sich das Werk zu einem geschäftigen Zentrum für die Gewinnung von Nitraten, die als Düngemittel und für Schießpulver weltweit gefragt waren. Das Werk und das benachbarte Santa Laura bildeten eine eigene Gemeinschaft mit Schulen, Theatern und Geschäften für die Arbeiter und ihre Familien. Nach dem Niedergang der Salpeterindustrie durch die Erfindung des synthetischen Stickstoffs wurde das Werk 1960 endgültig geschlossen. Heute ist es eine Geisterstadt, deren verlassene Gebäude aus Holz und Wellblech eine unheimliche, aber faszinierende Atmosphäre schaffen. Aufgrund seiner außergewöhnlichen historischen Bedeutung wurde Humberstone 2005 von der UNESCO zum Weltkulturerbe erklärt. Besucher können die gut erhaltenen Strukturen erkunden, die einen Einblick in das harte Leben der Pampa-Arbeiter, der sogenannten Pameros, bieten.",
       hu: "A Humberstone salétromművek, eredeti nevén La Palma, az Atacama-sivatagban található Észak-Chilében, és a salétromláz korszakának egyik legfontosabb ipari emléke. Az 1872-ben alapított üzem a nitrátbányászat nyüzsgő központjává vált, mivel a salétrom iránt világszerte óriási volt a kereslet műtrágya és puskapor alapanyagaként. A gyár és a szomszédos Santa Laura egy önálló közösséget alkotott saját iskolákkal, színházakkal és üzletekkel a munkások és családjaik számára. Miután a szintetikus nitrogén feltalálása miatt a természetes salétrom iránti kereslet összeomlott, az üzemet 1960-ban végleg bezárták. Ma egy kísértetváros, amelynek elhagyatott fa- és bádogépületei különös, mégis lenyűgöző hangulatot árasztanak. Rendkívüli történelmi jelentősége miatt a Humberstone-t 2005-ben az UNESCO a világörökség részévé nyilvánította. A látogatók bejárhatják a jól megőrzött épületeket, amelyek betekintést nyújtanak a pampák munkásai, az úgynevezett pamperók kemény mindennapjaiba.",
@@ -220,7 +219,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "Sewell Bányaváros",
       ro: "Orașul Minier Sewell",
       en: "Sewell Mining Town"},
-    image: "/poi-images/sewell-history-v2.webp",
     descriptionAdvanced: {
       de: "Sewell ist eine ehemalige Bergbaustadt in den chilenischen Anden, die für ihre einzigartige Architektur und ihre Lage an einem steilen Berghang bekannt ist. Gegründet im Jahr 1905 von der Braden Copper Company, diente sie als Wohnort für die Arbeiter der nahe gelegenen Mine El Teniente, dem größten unterirdischen Kupferbergwerk der Welt. Aufgrund des extremen Geländes wurde die Stadt ohne Straßen für Fahrzeuge konzipiert; stattdessen verbinden unzählige Treppen die verschiedenen Ebenen, was ihr den Beinamen Stadt der Treppen einbrachte. Die bunten Holzgebäude im amerikanischen Stil bilden einen markanten Kontrast zur rauen Hochgebirgslandschaft auf über 2.100 Metern Höhe. In ihrer Blütezeit beherbergte Sewell bis zu 15.000 Einwohner und verfügte über modernste Einrichtungen wie ein Krankenhaus und ein Kino. Nachdem die Bewohner in den 1970er Jahren nach Rancagua umgesiedelt wurden, blieb die Stadt als historisches Denkmal erhalten. Im Jahr 2006 wurde Sewell aufgrund seines universellen Wertes als Beispiel für eine geplante Industriestadt des 20. Jahrhunderts in die UNESCO-Welterbeliste aufgenommen.",
       hu: "Sewell egy egykori bányászváros a chilei Andokban, amely egyedülálló építészetéről és meredek hegyoldalba épült elhelyezkedéséről ismert. A Braden Copper Company alapította 1905-ben, hogy szállást biztosítson a közeli El Teniente bánya munkásainak, amely a világ legnagyobb földalatti rézbányája. A rendkívüli terepviszonyok miatt a várost autók számára alkalmas utak nélkül tervezték; helyettük számtalan lépcső köti össze a különböző szinteket, amiért a lépcsők városa nevet kapta. Az amerikai stílusú, színes faépületek markáns kontrasztot alkotnak a több mint 2100 méteres magasságban fekvő zord hegyi tájjal. Fénykorában Sewell akár 15 000 lakosnak is otthont adott, és olyan modern létesítményekkel rendelkezett, mint kórház, mozi és közösségi házak. Miután a lakókat az 1970-es években Rancaguába telepítették át, a város történelmi emlékként maradt fenn. 2006-ban az UNESCO a világörökség részévé nyilvánította, mint a 20. századi tervezett ipari városok kiemelkedő példáját.",
@@ -1139,7 +1137,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "Pukará de Quitor",
       ro: "Pukará de Quitor",
       en: "Pukará de Quitor"},
-    image: "/poi-images/pukara-de-quitor-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Pukará de Quitor ist eine beeindruckende präkolumbianische Festungsanlage im Valle de Quitor, unweit von San Pedro de Atacama im Norden Chiles. Sie wurde im 12. Jahrhundert vom Volk der Atacameños (Lickan Antay) aus Stein und Lehm direkt in einen steilen Felshang erbaut. Die Anlage diente als Verteidigungsposten und strategischer Aussichtspunkt über das fruchtbare Flusstal des San Pedro. Die terrassenförmig angeordneten Mauern und kreisförmigen Wohnstrukturen zeugen von einer hochentwickelten Baukunst und sozialen Organisation. Im Jahr 1536 war die Festung Schauplatz einer entscheidenden Schlacht, als spanische Konquistadoren unter Francisco de Aguirre sie nach erbittertem Widerstand der Einheimischen einnahmen. Dieser historische Moment markierte den Beginn der spanischen Vorherrschaft in der Region. Heute ist die Pukará ein nationales Denkmal und eine bedeutende archäologische Stätte, die Besuchern tiefe Einblicke in die vorkoloniale Geschichte der Atacama-Wüste bietet. Von den oberen Terrassen aus bietet sich ein weiter Blick über die karge Wüstenlandschaft und die umliegenden Oasen.",
       hu: "A Pukará de Quitor egy lenyűgöző kolumbusz előtti erődítmény a Quitor-völgyben, nem messze San Pedro de Atacamától, Észak-Chilében. A 12. században építette az atacameño nép (Lickan Antay) kőből és vályogból, közvetlenül egy meredek sziklafalra. A létesítmény védelmi bástyaként és stratégiai kilátópontként szolgált a San Pedro folyó termékeny völgye felett. A teraszos elrendezésű falak és a kör alakú lakóházak a magas szintű építészeti tudásról és társadalmi szervezettségről tanúskodnak. 1536-ban az erőd egy döntő csata helyszíne volt, amikor a Francisco de Aguirre vezette spanyol konkvisztádorok a helyiek heves ellenállása után elfoglalták. Ez a történelmi pillanat jelölte ki a spanyol uralom kezdetét a régióban. Ma a Pukará nemzeti emlékhely és jelentős régészeti lelőhely, amely mély betekintést nyújt az Atacama-sivatag gyarmatosítás előtti történelmébe. A felső teraszokról széles kilátás nyílik a kietlen sivatagi tájra és a környező oázisokra.",
@@ -1185,7 +1182,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "Rano Raraku",
       ro: "Rano Raraku",
       en: "Rano Raraku"},
-    image: "/poi-images/rano-raraku-history-v2.webp",
     description: {
       de: "Ein vulkanischer Krater auf der Osterinsel, der als Hauptsteinbruch für die berühmten Moai-Statuen diente.",
       hu: "Vulkáni kráter a Húsvét-szigeten, amely a híres Moai-szobrok fő kőbányájaként szolgált.",
@@ -1232,7 +1228,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "Ahu Tongariki",
       ro: "Ahu Tongariki",
       en: "Ahu Tongariki"},
-    image: "/poi-images/ahu-tongariki-history-v2.webp",
     description: {
       de: "Die größte zeremonielle Plattform auf der Osterinsel mit fünfzehn majestätischen Moai-Statuen, die auf den Ozean blicken.",
       hu: "A Húsvét-sziget legnagyobb szertartási platformja, tizenöt fenséges, az óceánra néző Moai-szoborral.",
@@ -1828,7 +1823,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "Bulnes Erőd",
       ro: "Fortul Bulnes",
       en: "Fort Bulnes"},
-    image: "/poi-images/fuerte-bulnes-history-v2.webp",
     description: {
       de: "Eine historische chilenische Festung an der Magellanstraße, die 1843 zur Sicherung territorialer Ansprüche errichtet wurde.",
       hu: "Történelmi chilei erőd a Magellán-szoros mentén, amelyet 1843-ban építettek a területi igények biztosítására.",
@@ -2388,7 +2382,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "Palacio de La Moneda",
       ro: "Palacio de La Moneda",
       en: "Palacio de La Moneda"},
-    image: "/poi-images/palacio-de-la-moneda-history-v2.webp",
     description: {
       de: "Der Sitz des Präsidenten der Republik Chile, ursprünglich als königliche Münzprägeanstalt im 18. Jahrhundert erbaut.",
       hu: "A chilei köztársasági elnök székhelye, amelyet eredetileg királyi pénzverdének építettek a 18. században.",
@@ -3164,7 +3157,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "Morro de Arica",
       ro: "Morro de Arica",
       en: "Morro de Arica"},
-    image: "/poi-images/morro-de-arica-history-v2.webp",
     description: {
       de: "Ein markanter Hügel an der Küste, der als Schauplatz einer entscheidenden Schlacht im Salpeterkrieg bekannt ist.",
       hu: "Kiemelkedő domb a parton, amely a salétromháború egyik döntő csatájának helyszíneként ismert.",
@@ -4105,7 +4097,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "Pukará de Lasana",
       ro: "Pukará de Lasana",
       en: "Pukará de Lasana"},
-    image: "/poi-images/pukara-de-lasana-history-v2.webp",
     description: {
       de: "Eine prähispanische Steinfestung in der Atacama-Wüste, die strategisch auf einem Hügel erbaut wurde, um das Tal zu kontrollieren.",
       hu: "Spanyol hódítás előtti kőerőd az Atacama-sivatagban, amelyet stratégiai okokból egy dombra építettek a völgy ellenőrzésére.",
@@ -5205,7 +5196,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "Niebla Erőd",
       ro: "Fortul Niebla",
       en: "Fort Niebla"},
-    image: "/poi-images/fuerte-niebla-history-v2.webp",
     description: {
       de: "Eine spanische Festung aus dem 17. Jahrhundert in Valdivia, die zur Abwehr von Piraten und ausländischen Flotten diente.",
       hu: "17. századi spanyol erőd Valdiviában, amely a kalózok és külföldi flották elleni védelmet szolgálta.",
@@ -5252,7 +5242,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "Orongo Falu",
       ro: "Satul Orongo",
       en: "Orongo Village"},
-    image: "/poi-images/orongo-history-v2.webp",
     description: {
       de: "Ein zeremonielles Steindorf am Rand des Rano Kau Kraters, das mit dem Vogelmann-Kult der Osterinsel verbunden ist.",
       hu: "Szertartási kőfalu a Rano Kau kráter szélén, amely a Húsvét-sziget madárember-kultuszához kapcsolódik.",
@@ -6769,7 +6758,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "San Francisco-templom",
       ro: "Biserica San Francisco",
       en: "San Francisco Church"},
-    image: "/poi-images/iglesia-san-francisco-history-v2.webp",
     description: {
       de: "Das älteste noch stehende architektonische Gebäude in Santiago, bekannt für seine roten Wände und die reiche koloniale Geschichte.",
       hu: "Santiago legrégebbi máig álló építészeti emléke, amely híres vörös falairól és gazdag gyarmati történetéről.",
@@ -7905,7 +7893,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "San Antonio Erőd",
       ro: "Fortul San Antonio",
       en: "Fort San Antonio"},
-    image: "/poi-images/fuerte-san-antonio-history-v2.webp",
     description: {
       de: "Eine alte spanische Festung in Ancud, die im späten 18. Jahrhundert zur Verteidigung der Insel Chiloé erbaut wurde.",
       hu: "Régi spanyol erőd Ancudban, amelyet a 18. század végén építettek a Chiloé-sziget védelmére.",
@@ -8285,7 +8272,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "Ahui Erőd",
       ro: "Fortul Ahui",
       en: "Fort Ahui"},
-    image: "/poi-images/fuerte-ahui-history-v2.webp",
     description: {
       de: "Eine historische militärische Befestigung auf der Halbinsel Lacuy, die den seeseitigen Zugang nach Chiloé kontrollierte.",
       hu: "Történelmi katonai erődítmény a Lacuy-félszigeten, amely a Chiloé felé vezető tengeri megközelítést ellenőrizte.",
@@ -9241,7 +9227,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "Huanchaca Romok",
       ro: "Ruinele Huanchaca",
       en: "Ruinele Huanchaca"},
-    image: "/poi-images/ruinas-de-huanchaca-history-v2.webp",
     description: {
       de: "Die massiven steinernen Überreste einer ehemaligen bolivianischen Silberschmelzanlage in Antofagasta, die im 19. Jahrhundert florierte.",
       hu: "Egy egykori bolíviai ezüstkohó masszív kőmaradványai Antofagastában, amely a 19. században virágzott.",
@@ -10449,7 +10434,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "A Hősök Panteonja",
       ro: "Panteonul Eroilor",
       en: "Pantheon of the Forefathers"},
-    image: "/poi-images/panteon-de-los-proceres-history-v2.webp",
     description: {
       de: "Eine Krypta unter der Plaza de la Ciudadanía in Santiago, in der die sterblichen Überreste wichtiger chilenischer Patrioten ruhen.",
       hu: "Kripta a santiago-i Plaza de la Ciudadanía alatt, ahol a fontos chilei hazafiak földi maradványai nyugszanak.",
@@ -11585,7 +11569,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "Maipú-i Fogadalmi Templom",
       ro: "Templul Votiv din Maipú",
       en: "Votive Temple of Maipú"},
-    image: "/poi-images/templo-votivo-de-maipu-history-v2.webp",
     description: {
       de: "Ein monumentales Heiligtum, das zur Feier des chilenischen Sieges in der Schlacht von Maipú errichtet wurde, welche die Unabhängigkeit sicherte.",
       hu: "Monumentális szentély, amelyet a függetlenséget biztosító maipú-i csatában aratott chilei győzelem emlékére emeltek.",
@@ -14002,7 +13985,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "Vörös Ház",
       ro: "Casa Roșie",
       en: "Casa Colorada"},
-    image: "/poi-images/casa-colorada-history-v2.webp",
     description: {
       de: "Ein klassisches Kolonialhaus im Herzen von Santiago, das einst Residenz eines Gouverneurs war und heute als historisches Museum dient.",
       hu: "Klasszikus gyarmati ház Santiago szívében, amely egykor egy kormányzó rezidenciája volt, ma pedig történelmi múzeum.",
@@ -14778,7 +14760,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "Cousiño-palota",
       ro: "Palatul Cousiño",
       en: "Cousiño Palace"},
-    image: "/poi-images/palacio-cousino-history-v2.webp",
     description: {
       de: "Ein opulentes Herrenhaus aus dem 19. Jahrhundert in Santiago, das den Reichtum der Elite während der Kohle- und Silberboom-Ära zeigt.",
       hu: "Pompás 19. századi kastély Santiagóban, amely a szén- és ezüstboom korszakának elitjének gazdagságát mutatja be.",
@@ -15443,7 +15424,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "Milodon-barlang",
       ro: "Peștera Milodon",
       en: "Milodon Cave"},
-    image: "/poi-images/cueva-del-milodon-history-v2.webp",
     description: {
       de: "Eine Naturhöhle in Patagonien, die berühmt ist für die Entdeckung von Überresten des ausgestorbenen Riesenfaultiers und früher menschlicher Besiedlung.",
       hu: "Természetes barlang Patagóniában, amely a kihalt óriáslajhár és a korai emberi települések maradványainak felfedezéséről híres.",
@@ -15679,7 +15659,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "Corral Erőd",
       ro: "Fortul Corral",
       en: "Fort Corral"},
-    image: "/poi-images/fuerte-corral-history-v2.webp",
     description: {
       de: "Die wichtigste spanische Festung der Valdivia-Mündung, die für den Schutz des südlichen Chiles im 17. Jahrhundert entscheidend war.",
       hu: "A Valdivia torkolat legfontosabb spanyol erődje, amely döntő szerepet játszott Dél-Chile védelmében a 17. században.",
@@ -16368,7 +16347,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "Achao Templom",
       ro: "Biserica din Achao",
       en: "Church of Achao"},
-    image: "/poi-images/iglesia-de-achao-history-v2.webp",
     description: {
       de: "Die älteste noch stehende Holzkirche des Chiloé-Archipels, die ein UNESCO-Weltkulturerbe ist.",
       hu: "A Chiloé-szigetcsoport legrégebben álló fatemploma, amely az UNESCO Világörökség része.",
@@ -16532,7 +16510,6 @@ export const poiExtraChileHistoryV2: POI[] = [
       hu: "Quinchao Templom",
       ro: "Biserica din Quinchao",
       en: "Church of Quinchao"},
-    image: "/poi-images/iglesia-de-quinchao-history-v2.webp",
     description: {
       de: "Die größte der historischen Holzkirchen von Chiloé, ein wunderschönes Beispiel für die einzigartige Inselarchitektur.",
       hu: "A legnagyobb a történelmi chiloéi fatemplomok közül, amely a sziget egyedülálló építészetének gyönyörű példája.",

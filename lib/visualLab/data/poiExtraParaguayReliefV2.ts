@@ -12,7 +12,6 @@ export const poiExtraParaguayReliefV2: POI[] = [
       hu: "Cerro Corá",
       ro: "Cerro Corá",
       en: "Cerro Corá"},
-    image: "/poi-images/cerro-cora-relief-v2.webp",
     description: {
       de: "Eine markante Hügelformation im Norden Paraguays, bekannt für ihre natürliche Schönheit und historische Bedeutung.",
       hu: "Jellegzetes dombképződmény Észak-Paraguayban, amely természeti szépségéről és történelmi jelentőségéről ismert.",
@@ -120,7 +119,6 @@ export const poiExtraParaguayReliefV2: POI[] = [
       hu: "Cerro Tres Kandú",
       ro: "Cerro Tres Kandú",
       en: "Cerro Tres Kandú"},
-    image: "/poi-images/cerro-tres-kandu-relief-v2.webp",
     description: {
       de: "Der höchste Punkt in der Republik Paraguay, ein bedeutendes Ziel für Abenteurer.",
       hu: "A Paraguayi Köztársaság legmagasabb pontja, a kalandvágyók jelentős célpontja.",
@@ -183,7 +181,6 @@ export const poiExtraParaguayReliefV2: POI[] = [
       hu: "Amambay-hegység",
       ro: "Munții Amambay",
       en: "Amambay Mountains"},
-    image: "/poi-images/cordillera-de-amambay-relief-v2.webp",
     description: {
       de: "Eine Gebirgskette im Nordosten Paraguays, die die Grenze zu Brasilien markiert.",
       hu: "Hegylánc Északkelet-Paraguayban, amely a Brazíliával közös határt jelöli.",
@@ -715,7 +712,6 @@ export const poiExtraParaguayReliefV2: POI[] = [
       hu: "Ybytyruzú-hegység",
       ro: "Munții Ybytyruzú",
       en: "Ybytyruzú Mountains"},
-    image: "/poi-images/cordillera-del-ybytyruzu-relief-v2.webp",
     description: {
       de: "Eine der markantesten Gebirgsketten Paraguays, Heimat der höchsten Gipfel des Landes.",
       hu: "Paraguay egyik legjellegzetesebb hegylánca, az ország legmagasabb csúcsainak otthona.",
@@ -2003,7 +1999,6 @@ export const poiExtraParaguayReliefV2: POI[] = [
       hu: "Cerro Lambaré",
       ro: "Cerro Lambaré",
       en: "Cerro Lambaré"},
-    image: "/poi-images/cerro-lambare-relief-v2.webp",
     description: {
       de: "Ein historisch bedeutsamer Hügel am Ufer des Río Paraguay, südlich von Asunción.",
       hu: "Történelmi jelentőségű domb a Paraguay folyó partján, Asuncióntól délre.",
@@ -2419,7 +2414,6 @@ export const poiExtraParaguayReliefV2: POI[] = [
       hu: "Altos-hegység",
       ro: "Munții Altos",
       en: "Altos Mountains"},
-    image: "/poi-images/cordillera-de-los-altos-relief-v2.webp",
     description: {
       de: "Ein Gebirgszug in der Nähe von Asunción, der den Übergang zur Cordillera-Region markiert.",
       hu: "Hegylánc Asunción közelében, amely a Cordillera régióba való átmenetet jelöli.",
@@ -2527,7 +2521,6 @@ export const poiExtraParaguayReliefV2: POI[] = [
       hu: "Cerro León",
       ro: "Cerro León",
       en: "Cerro León"},
-    image: "/poi-images/cerro-leon-relief-v2.webp",
     description: {
       de: "Ein Gebirgsmassiv im tiefen Chaco, ein wahrer Gigant in der flachen Savanne.",
       hu: "Hegymasszívum a Chaco mélyén, igazi óriás a sík szavannán.",
@@ -2635,7 +2628,6 @@ export const poiExtraParaguayReliefV2: POI[] = [
       hu: "Cerro Mbatoví",
       ro: "Cerro Mbatoví",
       en: "Cerro Mbatoví"},
-    image: "/poi-images/cerro-mbatovi-relief-v2.webp",
     description: {
       de: "Ein markanter Hügel in Paraguarí, bekannt for sein Öko-Abenteuer-Reservat.",
       hu: "Jellegzetes domb Paraguaríban, öko-kaland rezervátumáról ismert.",

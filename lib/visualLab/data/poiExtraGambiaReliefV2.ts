@@ -57,7 +57,6 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: "Red Rock (Legmagasabb pont)",
       ro: "Red Rock (Cel mai înalt punct)",
       en: "Red Rock (Highest Point)"},
-    image: "/poi-images/red-rock-relief-v2.webp",
     description: {
       de: "Der höchste Punkt Gambias liegt im Osten des Landes nahe der Grenze zum Senegal. Mit nur 53 Metern über dem Meeresspiegel ist es eine der niedrigsten Landeshöhen weltweit.",
       hu: "Gambia legmagasabb pontja az ország keleti részén, a szenegáli határ közelében található. Mindössze 53 méteres tengerszint feletti magasságával a világ egyik legalacsonyabb országcsúcsa.",
@@ -107,7 +106,6 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: "Fajara-sziklák",
       ro: "Stâncile Fajara",
       en: "Fajara Cliffs"},
-    image: "/poi-images/fajara-cliffs-relief-v2.webp",
     description: {
       de: "Markante Sandsteinklippen an der Atlantikküste bei Bakau, die einen weiten Blick über den Ozean bieten. Sie sind ein seltener Fall von vertikalem Relief an der ansonsten flachen gambischen Küste.",
       hu: "Jellegzetes homokkő sziklák az atlanti-óceáni parton Bakau közelében, amelyek széles kilátást nyújtanak az óceánra. Ritka példái a függőleges domborzatnak az egyébként lapos gambiai tengerparton.",
@@ -155,7 +153,6 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: "Bama-Kuno erdő",
       ro: "Pădurea Bama Kuno",
       en: "Bama Kuno Forest"},
-    image: "/poi-images/bama-kuno-forest-relief-v2.webp",
     description: {
       de: "Ein bedeutender Waldpark in der West Coast Region, der für seinen dichten Baumbestand und seine Rolle beim Schutz der lokalen Artenvielfalt bekannt ist. Er ist Teil des Netzwerks von Schutzgebieten im Landesinneren.",
       hu: "Jelentős erdőpark a West Coast régióban, amely sűrű faállományáról és a helyi biológiai sokféleség megőrzésében betöltött szerepéről ismert. A szárazföldi védett területek hálózatának része.",
@@ -248,7 +245,6 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: "Salagi-erdő",
       ro: "Pădurea Salagi",
       en: "Salagi Forest"},
-    image: "/poi-images/salagi-forest-relief-v2.webp",
     description: {
       de: "Ein Waldreservat in der Nähe der städtischen Gebiete von Kombo, das trotz der Urbanisierung erhalten geblieben ist. Er bietet einen wichtigen Rückzugsort für Vögel und kleine Säugetiere.",
       hu: "A Kombo városi területei közelében található erdőrezervátum, amely az urbanizáció ellenére megmaradt. Fontos menedéket nyújt a madarak és kisebb emlősök számára.",
@@ -377,7 +373,6 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: "Nyambai-erdő",
       ro: "Pădurea Nyambai",
       en: "Nyambai Forest"},
-    image: "/poi-images/nyambai-forest-relief-v2.webp",
     description: {
       de: "Ein Waldpark am Rande von Brikama, der für seine hohen Teakholz-Plantagen und die friedliche Atmosphäre bekannt ist. Er wird sowohl forstwirtschaftlich als auch als Erholungsraum genutzt.",
       hu: "Erdőpark Brikama szélén, amely magas teakfa-ültetvényeiről és békés hangulatáról ismert. Erdészeti célokra és pihenőhelyként egyaránt használják.",
@@ -425,7 +420,6 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: "Furuyar-erdő",
       ro: "Pădurea Furuyar",
       en: "Furuyar Forest"},
-    image: "/poi-images/furuyar-forest-relief-v2.webp",
     description: {
       de: "Ein abgelegener Waldpark im Süden der West Coast Region, der dichten tropischen Bewuchs aufweist. Er ist ein wichtiger Teil des ökologischen Korridors an der Grenze zum Senegal.",
       hu: "Egy félreeső erdőpark a West Coast régió déli részén, sűrű trópusi növényzettel. Fontos része a szenegáli határ menti ökológiai folyosónak.",
@@ -473,7 +467,6 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: "Kuntaur-felföld",
       ro: "Podișul Kuntaur",
       en: "Kuntaur Highlands"},
-    image: "/poi-images/kuntaur-highlands-relief-v2.webp",
     description: {
       de: "Eine der wenigen sanft ansteigenden Hügellandschaften Gambias, die sich über das Tal des Gambia-Flusses erhebt. Von den Anhöhen hat man einen Blick auf die weiten Reisfelder der Region.",
       hu: "Gambia kevés enyhén emelkedő dombos tájainak egyike, amely a Gambia-folyó völgye fölé magasodik. A dombtetőkről rálátni a régió kiterjedt rizsföldjeire.",
@@ -521,7 +514,6 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: "Basse-fennsík",
       ro: "Podișul Basse",
       en: "Basse Plateau"},
-    image: "/poi-images/basse-plateau-relief-v2.webp",
     description: {
       de: "Ein erhöhtes Plateau im äußersten Osten Gambias, das das Umland von Basse Santa Su dominiert. Es zeichnet sich durch trockene Savannenlandschaft und markante Felsformationen aus.",
       hu: "Megemelt fennsík Gambia legkeletibb részén, amely Basse Santa Su környékét uralja. Száraz szavannai táj és jellegzetes sziklaalakzatok jellemzik.",
@@ -650,7 +642,6 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: "Keneba-fennsík",
       ro: "Podișul Keneba",
       en: "Keneba Plateau"},
-    image: "/poi-images/keneba-plateau-relief-v2.webp",
     description: {
       de: "Eine erhöhte Ebene in der Lower River Region, die über den umliegenden Mangrovensümpfen liegt. Die Gegend ist bekannt für ihre landwirtschaftliche Nutzung auf dem festeren Boden der Hochebene.",
       hu: "Megemelt síkság a Lower River régióban, amely a környező mangrovemocsarak fölé magasodik. A terület a fennsík szilárdabb talaján folyó mezőgazdasági hasznosításáról ismert.",
@@ -743,7 +734,6 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: "Nianija-dombok",
       ro: "Dealurile Nianija",
       en: "Nianija Hills"},
-    image: "/poi-images/nianija-hills-relief-v2.webp",
     description: {
       de: "Eine Gruppe von niedrigen Hügeln im Norden der Central River Region, nahe der Grenze zum Senegal. Sie stellen eine der wenigen Erhebungen dar, die das ansonsten flache Relief Gambias unterbrechen.",
       hu: "Alacsony dombok csoportja a Central River régió északi részén, a szenegáli határ közelében. Azon kevés emelkedők egyike, amelyek megszakítják Gambia egyébként lapos domborzatát.",
@@ -791,7 +781,6 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: "Sami-fennsík",
       ro: "Podișul Sami",
       en: "Sami Plateau"},
-    image: "/poi-images/sami-plateau-relief-v2.webp",
     description: {
       de: "Ein weitläufiges, trockenes Plateau im Osten der Central River Region. Es ist geprägt durch offene Savannen und dient als wichtiges Weidegebiet für das Vieh der lokalen Gemeinschaften.",
       hu: "Kiterjedt, száraz fennsík a Central River régió keleti részén. Nyitott szavannák jellemzik, és fontos legelőterületként szolgál a helyi közösségek állatállománya számára.",
@@ -884,7 +873,6 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: "Tumani Tenda-sziklák",
       ro: "Stâncile Tumani Tenda",
       en: "Tumani Tenda Cliffs"},
-    image: "/poi-images/tumani-tenda-cliffs-relief-v2.webp",
     description: {
       de: "Erosionsklippen am Ufer des Gambia-Flusses bei Tumani Tenda, die den Übergang vom Hochland zu den Flussmarschen markieren. Sie bieten einen dramatischen Kontrast zur umgebenden Wasserlandschaft.",
       hu: "Eróziós sziklák a Gambia-folyó partján Tumani Tenda közelében, amelyek a felföld és a folyóparti mocsarak közötti átmenetet jelzik. Drámai kontrasztot mutatnak a környező vízi tájjal.",
@@ -1061,7 +1049,6 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: "Kiang-West-fennsík",
       ro: "Podișul Kiang West",
       en: "Kiang West Plateau"},
-    image: "/poi-images/kiang-west-plateau-relief-v2.webp",
     description: {
       de: "Ein ausgedehntes Hochplateau innerhalb des Kiang West Nationalparks, das sich deutlich über die Gezeitenkanäle des Flusses erhebt. Es beherbergt eine typische Trockensavannen-Vegetation.",
       hu: "Kiterjedt fennsík a Kiang West Nemzeti Parkon belül, amely jelentősen a folyó árapálycsatornái fölé emelkedik. Tipikus száraz szavannai növényzetnek ad otthont.",
@@ -1109,7 +1096,6 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: "Niumi-dűnék",
       ro: "Dunele Niumi",
       en: "Niumi Dunes"},
-    image: "/poi-images/niumi-dunes-relief-v2.webp",
     description: {
       de: "Küstendünen im Niumi Nationalpark, die den Strand von den landeinwärts gelegenen Feuchtgebieten trennen. Sie sind ein dynamisches Relief-Element, das ständig durch Wind und Gezeiten geformt wird.",
       hu: "Kparti dűnék a Niumi Nemzeti Parkban, amelyek elválasztják a strandot a szárazföldi vizes élőhelyektől. Dinamikus domborzati elemek, amelyeket a szél és az árapály folyamatosan formál.",
@@ -1157,7 +1143,6 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: "Kartong-sziklák",
       ro: "Stâncile Kartong",
       en: "Kartong Cliffs"},
-    image: "/poi-images/kartong-cliffs-relief-v2.webp",
     description: {
       de: "Niedrige Felsklippen am südlichsten Punkt der gambischen Küste. Sie markieren die Grenze zum benachbarten Senegal und bieten einen weiten Blick auf die Mündung des Allahein-Flusses.",
       hu: "Alacsony sziklák a gambiai tengerpart legdélibb pontján. Jelzik a szomszédos Szenegállal való határt, és széles kilátást nyújtanak az Allahein-folyó torkolatára.",
@@ -1205,7 +1190,6 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: "Jambanjali-erdő",
       ro: "Pădurea Jambanjali",
       en: "Jambanjali Forest"},
-    image: "/poi-images/jambanjali-forest-relief-v2.webp",
     description: {
       de: "Ein Küstenwaldpark, der sich durch eine Mischung aus Trockenwald und Savannenelementen auszeichnet. Er spielt eine wichtige Rolle als lokaler Klimaregulator und Schutzgebiet für Wildtiere.",
       hu: "Kparti erdőpark, amelyet száraz erdő és szavanna elemek keveréke jellemez. Fontos szerepet játszik helyi klímaszabályozóként és a vadon élő állatok védett területeként.",
@@ -1334,7 +1318,6 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: "Kabafita-erdő",
       ro: "Pădurea Kabafita",
       en: "Kabafita Forest"},
-    image: "/poi-images/kabafita-forest-relief-v2.webp",
     description: {
       de: "Ein Waldreservat südlich von Brikama, das für seine dichten Baumbestände bekannt ist. Es dient als Forschungsgebiet für nachhaltige Forstwirtschaft und zum Schutz einheimischer Hölzer.",
       hu: "Erdőrezervátum Brikamától délre, amely sűrű faállományáról ismert. A fenntartható erdőgazdálkodás és az őshonos fafajok védelmének kutatási területeként szolgál.",
@@ -1382,7 +1365,6 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: "Berending-erdő",
       ro: "Pădurea Berending",
       en: "Berending Forest"},
-    image: "/poi-images/berending-forest-relief-v2.webp",
     description: {
       de: "Ein Waldpark am Nordufer des Gambia-Flusses, der für seine reiche Vogelwelt und die Nähe zu historischen Stätten bekannt ist. Er bietet einen Einblick in die ursprüngliche Vegetation der North Bank Region.",
       hu: "Erdőpark a Gambia-folyó északi partján, amely gazdag madárvilágáról és történelmi helyszínekhez való közelségéről ismert. Betekintést nyújt a North Bank régió eredeti növényzetébe.",

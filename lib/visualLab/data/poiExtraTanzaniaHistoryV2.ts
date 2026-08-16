@@ -165,7 +165,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Olduvai-szurdok",
       ro: "Cheile Olduvai",
       en: "Olduvai Gorge"},
-    image: "/poi-images/tz-olduvai-gorge-history-v2.webp",
     description: {
       de: "Eine der wichtigsten paläoanthropologischen Stätten der Welt, die als 'Wiege der Menschheit' bekannt ist.",
       hu: "A világ egyik legfontosabb paleoantropológiai lelőhelye, amelyet 'az emberiség bölcsőjeként' ismernek.",
@@ -366,7 +365,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Stone Town (Zanzibár)",
       ro: "Stone Town (Zanzibar)",
       en: "Stone Town of Zanzibar"},
-    image: "/poi-images/tz-stone-town-history-v2.webp",
     description: {
       de: "Das historische Zentrum von Sansibar-Stadt, das für seine reiche Suaheli-Kultur und die einzigartige Architektur aus Korallenstein bekannt ist.",
       hu: "Zanzibár város történelmi központja, amely gazdag szuahéli kultúrájáról és egyedi korallkő építészetéről híres.",
@@ -603,7 +601,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Kilwa Kisiwani romjai",
       ro: "Ruinele din Kilwa Kisiwani",
       en: "Ruins of Kilwa Kisiwani"},
-    image: "/poi-images/tz-kilwa-kisiwani-history-v2.webp",
     description: {
       de: "Die Überreste einer bedeutenden islamischen Handelsstadt, die einst den Gold- und Elfenbeinhandel im Indischen Ozean dominierte.",
       hu: "Egy jelentős iszlám kereskedőváros maradványai, amely egykor dominálta az Indiai-óceán arany- és elefántcsont-kereskedelmét.",
@@ -732,7 +729,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Songo Mnara romjai",
       ro: "Ruinele Songo Mnara",
       en: "Ruins of Songo Mnara"},
-    image: "/poi-images/tz-songo-mnara-history-v2.webp",
     description: {
       de: "Die historischen Überreste einer Suaheli-Steinstadt auf der Insel Songo Mnara, die während des 14. und 15. Jahrhunderts florierte.",
       hu: "Egy szuahéli kőváros történelmi maradványai a Songo Mnara szigeten, amely a 14. és 15. században virágzott.",
@@ -1041,7 +1037,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Bagamoyo történelmi városa",
       ro: "Orașul istoric Bagamoyo",
       en: "Bagamoyo Historical Town"},
-    image: "/poi-images/tz-bagamoyo-history-v2.webp",
     description: {
       de: "Eine der ältesten Städte Tansanias und ein ehemaliger wichtiger Handelsposten für Sklaven und Elfenbein an der Suaheli-Küste.",
       hu: "Tanzánia egyik legrégebbi városa, és egykori fontos rabszolga- és elefántcsont-kereskedelmi állomás a szuahéli parton.",
@@ -1206,7 +1201,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Kaole romjai",
       ro: "Ruinele Kaole",
       en: "Kaole Ruins"},
-    image: "/poi-images/tz-kaole-ruins-history-v2.webp",
     description: {
       de: "Eine archäologische Stätte, die eine persische Siedlung aus dem 13. Jahrhundert beherbergt, einschließlich einer der ältesten Moscheen Ostafrikas.",
       hu: "Régészeti lelőhely, amely egy 13. századi perzsa települést foglal magában, köztük Kelet-Afrika egyik legrégebbi mecsetével.",
@@ -1299,7 +1293,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Kondoa sziklarajzai",
       ro: "Arta rupestră din Kondoa",
       en: "Kondoa Rock-Art Sites"},
-    image: "/poi-images/tz-kondoa-rock-art-history-v2.webp",
     description: {
       de: "Hunderte von Felsüberhängen mit alten Malereien, die das Leben der Jäger und Sammler über Jahrtausende hinweg dokumentieren.",
       hu: "Több száz sziklaeresz ősi festményekkel, amelyek évezredeken át dokumentálják a vadászó-gyűjtögetők életét.",
@@ -1428,7 +1421,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Isimila kőkorszaki lelőhely",
       ro: "Situl preistoric Isimila",
       en: "Isimila Stone Age Site"},
-    image: "/poi-images/tz-isimila-stone-age-history-v2.webp",
     description: {
       de: "Eine beeindruckende archäologische Stätte mit zahlreichen Faustkeilen aus der Steinzeit, umgeben von dramatischen Sandsteinsäulen.",
       hu: "Lenyűgöző régészeti lelőhely számos kőkorszaki szakócával, drámai homokkőoszlopokkal körülvéve.",
@@ -1593,7 +1585,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Engaruka romjai",
       ro: "Ruinele Engaruka",
       en: "Engaruka Ruins"},
-    image: "/poi-images/tz-engaruka-ruins-history-v2.webp",
     description: {
       de: "Die faszinierenden Überreste eines komplexen landwirtschaftlichen Systems und einer Siedlung aus der Eisenzeit im Ostafrikanischen Grabenbruch.",
       hu: "Egy összetett mezőgazdasági rendszer és vaskori település lenyűgöző maradványai a Kelet-afrikai árokban.",
@@ -1980,7 +1971,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Ujiji történelmi helyszín",
       ro: "Situl istoric Ujiji",
       en: "Ujiji Historical Site"},
-    image: "/poi-images/tz-ujiji-history-v2.webp",
     description: {
       de: "Eine der ältesten Städte im Westen Tansanias, bekannt als der Ort, an dem sich Henry Morton Stanley und David Livingstone trafen.",
       hu: "Tanzánia nyugati részének egyik legrégebbi városa, amely arról ismert, hogy Henry Morton Stanley és David Livingstone itt találkozott.",
@@ -2109,7 +2099,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Livingstone Tembe épülete",
       ro: "Clădirea Tembe a lui Livingstone",
       en: "Livingstone's Tembe"},
-    image: "/poi-images/tz-livingstones-tembe-history-v2.webp",
     description: {
       de: "Ein historisches arabisches Haus im Kwihara-Viertel von Tabora, das im 19. Jahrhundert Entdeckern wie Livingstone und Stanley als Stützpunkt diente.",
       hu: "Történelmi arab ház Tabora Kwihara negyedében, amely a 19. században olyan felfedezők támaszpontjaként szolgált, mint Livingstone és Stanley.",
@@ -2202,7 +2191,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Bismarck-szikla történelmi helyszín",
       ro: "Stânca istorică Bismarck",
       en: "Bismarck Rock Historical Site"},
-    image: "/poi-images/tz-bismarck-rock-history-v2.webp",
     description: {
       de: "Eine ikonische Felsformation im Victoriasee bei Mwanza, benannt nach dem deutschen Kanzler Otto von Bismarck während der Kolonialzeit.",
       hu: "Ikonikus sziklaképződmény a Viktória-tóban, Mwanza közelében, amelyet Otto von Bismarck német kancellárról neveztek el a gyarmati időkben.",
@@ -2367,7 +2355,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Mikindani történelmi városa",
       ro: "Orașul istoric Mikindani",
       en: "Mikindani Historical Town"},
-    image: "/poi-images/tz-mikindani-town-history-v2.webp",
     description: {
       de: "Eine charmante Küstenstadt im Süden Tansanias mit gut erhaltener kolonialer und omanisch-arabischer Architektur.",
       hu: "Bájos tengerparti város Tanzánia déli részén, jól megőrzött gyarmati és ománi-arab építészettel.",
@@ -2508,7 +2495,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Mkama Ndume romjai",
       ro: "Ruinele Mkama Ndume",
       en: "Mkama Ndume Ruins"},
-    image: "/poi-images/tz-mkama-ndume-history-v2.webp",
     description: {
       de: "Die Ruinen einer mächtigen Festung auf Pemba, die im 15. Jahrhundert erbaut wurde und von einer komplexen Herrschaftsgeschichte zeugt.",
       hu: "Egy erős erőd romjai Pembán, amely a 15. században épült, és az uralkodás összetett történetéről tanúskodik.",
@@ -2652,7 +2638,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Kua ősi romjai",
       ro: "Ruinele antice Kua",
       en: "Ancient Ruins of Kua"},
-    image: "/poi-images/tz-kua-ruins-history-v2.webp",
     description: {
       de: "Die Überreste einer mittelalterlichen Stadt auf der Insel Juani, die für ihre Paläste und Moscheen bekannt war.",
       hu: "Egy középkori város maradványai a Juani-szigeten, amely palotáiról és mecseteiről volt ismert.",
@@ -2865,7 +2850,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Maji-Maji emlékmű",
       ro: "Monumentul Maji Maji",
       en: "Maji Maji Rebellion Memorial"},
-    image: "/poi-images/tz-maji-maji-memorial-history-v2.webp",
     description: {
       de: "Eine Gedenkstätte und ein Museum in Songea, die den gefallenen Anführern des Maji-Maji-Aufstands gegen die deutsche Kolonialherrschaft gewidmet sind.",
       hu: "Emlékmű és múzeum Songea városában, amelyet a német gyarmati uralom elleni Maji-Maji felkelés elesett vezetőinek szenteltek.",
@@ -2958,7 +2942,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Askari emlékmű",
       ro: "Monumentul Askari",
       en: "Askari Monument"},
-    image: "/poi-images/tz-askari-monument-history-v2.webp",
     description: {
       de: "Eine Bronzestatue im Zentrum von Daressalam, die den afrikanischen Soldaten gewidmet ist, die im Ersten Weltkrieg auf Seiten der Briten kämpften.",
       hu: "Bronzszobor Dar es Salaam központjában, amelyet az első világháborúban a britek oldalán harcoló afrikai katonáknak szenteltek.",
@@ -3051,7 +3034,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Tanzánia Nemzeti Múzeuma",
       ro: "Muzeul Național al Tanzaniei",
       en: "National Museum of Tanzania"},
-    image: "/poi-images/tz-national-museum-history-v2.webp",
     description: {
       de: "Das größte Museum des Landes, das bedeutende fossile Funde der menschlichen Evolution sowie Zeugnisse der kolonialen und vorkolonialen Geschichte ausstellt.",
       hu: "Az ország legnagyobb múzeuma, amely az emberi evolúció jelentős fosszilis leleteit, valamint a gyarmati és a gyarmatosítás előtti történelem bizonyítékait állítja ki.",
@@ -3180,7 +3162,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Zanzibári Öreg Erőd",
       ro: "Vechiul Fort din Zanzibar",
       en: "Old Fort of Zanzibar"},
-    image: "/poi-images/tz-old-fort-zanzibar-history-v2.webp",
     description: {
       de: "Die älteste noch erhaltene Struktur in Stone Town, die von omanischen Arabern erbaut wurde, um sich gegen die Portugiesen zu verteidigen.",
       hu: "A legrégebbi fennmaradt építmény Stone Townban, amelyet az ománi arabok építettek a portugálok elleni védekezésül.",
@@ -3381,7 +3362,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Csodák Háza (Beit al-Ajaib)",
       ro: "Casa Minunilor (Beit al-Ajaib)",
       en: "House of Wonders (Beit al-Ajaib)"},
-    image: "/poi-images/tz-house-of-wonders-history-v2.webp",
     description: {
       de: "Ein ehemaliger Palast des Sultans in Sansibar, bekannt als das höchste Gebäude in Stone Town und das erste in Ostafrika mit Strom und Aufzug.",
       hu: "Egykori szultáni palota Zanzibárban, amely Stone Town legmagasabb épületeként, valamint Kelet-Afrika első villannyal és lifttel rendelkező épületeként ismert.",
@@ -3474,7 +3454,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Maruhubi palota romjai",
       ro: "Ruinele palatului Maruhubi",
       en: "Maruhubi Palace Ruins"},
-    image: "/poi-images/tz-maruhubi-palace-history-v2.webp",
     description: {
       de: "Die Überreste eines großen Palastes auf Sansibar, der für die Konkubinen des Sultans Barghash bin Said im 19. Jahrhundert erbaut wurde.",
       hu: "Egy nagy zanzibári palota maradványai, amelyet Barghash bin Said szultán ágyasai számára építettek a 19. században.",
@@ -3891,7 +3870,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Mtoni palota romjai",
       ro: "Ruinele palatului Mtoni",
       en: "Mtoni Palace Ruins"},
-    image: "/poi-images/tz-mtoni-palace-history-v2.webp",
     description: {
       de: "Die ältesten Palastruinen in Sansibar, erbaut in den 1820er Jahren für Sultan Seyyid Said und beschrieben in den Memoiren seiner Tochter, Prinzessin Salme.",
       hu: "Zanzibár legrégebbi palotaromjai, amelyek az 1820-as években épültek Seyyid Said szultán számára, és lánya, Salme hercegnő emlékirataiból ismertek.",
@@ -4128,7 +4106,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: "Kizimkazi történelmi mecset",
       ro: "Moscheea istorică Kizimkazi",
       en: "Kizimkazi Historical Mosque"},
-    image: "/poi-images/tz-kizimkazi-mosque-history-v2.webp",
     description: {
       de: "Eine der ältesten islamischen Stätten in Ostafrika, gelegen an der Südspitze von Sansibar, die noch heute genutzt wird.",
       hu: "Kelet-Afrika egyik legrégebbi iszlám szentélye, Zanzibár déli csücskén, amelyet még ma is használnak.",

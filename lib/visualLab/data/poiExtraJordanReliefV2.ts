@@ -53,7 +53,6 @@ export const poiExtraJordanReliefV2: POI[] = [
     parent: "JO-AQ",
     coords: [35.212, 30.222],
     name: { de: "Wadi Araba", hu: "Vádi Araba", ro: "Wadi Araba", en: "Wadi Araba"},
-    image: "/poi-images/wadi-araba-relief-v2.webp",
     description: { de: "Ein trockenes Tal, das das Tote Meer mit dem Golf von Akaba verbindet.", hu: "Száraz völgy, amely a Holt-tengert köti össze az Akabai-öböllel.", ro: "O vale aridă care leagă Marea Moartă de Golful Aqaba.", en: "An arid valley connecting the Dead Sea to the Gulf of Aqaba." , es: "Un valle árido que conecta el Mar Muerto con el Golfo de Aqaba.", pt: "Um vale árido que liga o Mar Morto ao Golfo de Aqaba.", fr: "Une vallée aride qui relie la mer Morte au golfe d'Aqaba."},
     facts: {
       de: ["Trennt Jordanien von Israel", "Teil des Großen Grabenbruchs", "Extrem trockenes und heißes Klima", "Historische Kupferminen"],
@@ -206,7 +205,6 @@ export const poiExtraJordanReliefV2: POI[] = [
     parent: "JO-KA",
     coords: [35.750, 31.183],
     name: { de: "Moab-Plateau", hu: "Moáb-fennsík", ro: "Platoul Moab", en: "Moab Plateau"},
-    image: "/poi-images/moab-plateau-relief-v2.webp",
     description: { de: "Eine historische Hochebene östlich des Toten Meeres, bekannt für ihre tiefen Schluchten.", hu: "Történelmi fennsík a Holt-tengertől keletre, amely mély szurdokairól ismert.", ro: "Un platou istoric la est de Marea Moartă, cunoscut pentru defileurile sale adânci.", en: "A historic high plateau east of the Dead Sea, known for its deep gorges." , es: "Una meseta histórica al este del Mar Muerto, conocida por sus profundos desfiladeros.", pt: "Um planalto histórico a leste do Mar Morto, conhecido pelos seus desfiladeiros profundos.", fr: "Un haut plateau historique à l'est de la mer Morte, connu pour ses gorges profondes."},
     facts: {
       de: ["Höhenlage bis zu 1000 Meter", "Biblische moabitische Region", "Tief eingeschnittene Canyons", "Wichtige landwirtschaftliche Flächen"],
@@ -287,7 +285,6 @@ export const poiExtraJordanReliefV2: POI[] = [
     parent: "JO-AT",
     coords: [35.600, 30.633],
     name: { de: "Edom-Gebirge", hu: "Edom-hegység", ro: "Munții Edom", en: "Edom Mountains"},
-    image: "/poi-images/edom-gebirge-relief-v2.webp",
     description: { de: "Ein zerklüfteter Gebirgszug im Süden Jordaniens, der durch rote Sandsteinformationen besticht.", hu: "Zord hegylánc Jordánia déli részén, amely vörös homokkő képződményeivel hódít.", ro: "Un lanț muntos accidentat în sudul Iordaniei, captivant prin formațiunile sale de gresie roșie.", en: "A rugged mountain range in southern Jordan, captivating with its red sandstone formations." , es: "Una cordillera accidentada en el sur de Jordania, que destaca por sus formaciones de arenisca roja.", pt: "Uma cadeia de montanhas escarpada no sul da Jordânia, que se destaca pelas suas formações de arenito vermelho.", fr: "Une chaîne de montagnes escarpée au sud de la Jordanie, qui séduit par ses formations de grès rouge."},
     facts: {
       de: ["Gipfel über 1600 Meter", "Heimat der Nabatäerstadt Petra", "Schroffe rote Sandsteinfelsen", "Kalte Winter mit gelegentlichem Schnee"],
@@ -368,7 +365,6 @@ export const poiExtraJordanReliefV2: POI[] = [
     parent: "JO-MA",
     coords: [37.333, 32.333],
     name: { de: "Schwarze Wüste", hu: "Fekete-sivatag", ro: "Deșertul Negru", en: "Black Desert"},
-    image: "/poi-images/schwarze-wueste-relief-v2.webp",
     description: { de: "Eine karge Wüstenlandschaft im Nordosten, bedeckt mit dunklem Basaltgestein vulkanischen Ursprungs.", hu: "Kietlen sivatagi táj északkeleten, amelyet vulkáni eredetű, sötét bazaltkőzet borít.", ro: "Un peisaj deșertic arid în nord-est, acoperit cu rocă bazaltică întunecată de origine vulcanică.", en: "A barren desert landscape in the northeast, covered with dark basalt rock of volcanic origin." , es: "Un paisaje desértico árido en el noreste, cubierto de roca basáltica oscura de origen volcánico.", pt: "Uma paisagem desértica árida no nordeste, coberta de rocha basáltica escura de origem vulcânica.", fr: "Un paysage désertique aride au nord-est, recouvert de roche basaltique sombre d'origine volcanique."},
     facts: {
       de: ["Ausgedehnte Basaltfelder", "Erstreckt sich bis nach Saudi-Arabien", "Prähistorische Steinbauten erhalten", "Spärliche Wüstenvegetation"],
@@ -404,7 +400,6 @@ export const poiExtraJordanReliefV2: POI[] = [
     parent: "JO-MA",
     coords: [38.000, 32.000],
     name: { de: "Badiya", hu: "Bádija", ro: "Badiya", en: "Badiya"},
-    image: "/poi-images/badiya-wueste-relief-v2.webp",
     description: { de: "Die weite östliche Wüste Jordaniens macht einen Großteil der Landesfläche aus und ist Heimat von Beduinen.", hu: "Jordánia kiterjedt keleti sivataga az ország területének nagy részét alkotja, és beduinok otthona.", ro: "Vastul deșert estic al Iordaniei reprezintă o mare parte din suprafața țării și este casa beduinilor.", en: "Jordan's vast eastern desert makes up a large part of the country's landmass and is home to Bedouins." , es: "El vasto desierto oriental de Jordania constituye gran parte de la superficie del país y es el hogar de los beduinos.", pt: "O vasto deserto oriental da Jordânia constitui grande parte da área do país e é o lar dos beduínos.", fr: "Le vaste désert oriental de Jordanie couvre une grande partie du territoire national et est la terre des Bédouins."},
     facts: {
       de: ["Macht ca. 75 % Jordaniens aus", "Sand- und Kieswüste", "Zentrum der Beduinenkultur", "Kaum Niederschlag im ganzen Jahr"],
@@ -809,7 +804,6 @@ export const poiExtraJordanReliefV2: POI[] = [
     parent: "JO-BA",
     coords: [35.733, 32.033],
     name: { de: "Belqa-Plateau", hu: "Belka-fennsík", ro: "Platoul Belqa", en: "Belqa Plateau"},
-    image: "/poi-images/belqa-plateau-relief-v2.webp",
     description: { de: "Eine fruchtbare Hochebene in Zentraljordanien, die für ihre Landwirtschaft und gemäßigtes Klima bekannt ist.", hu: "Termékeny fennsík Közép-Jordániában, amely mezőgazdaságáról és mérsékelt éghajlatáról ismert.", ro: "Un platou fertil în centrul Iordaniei, cunoscut pentru agricultura și clima sa temperată.", en: "A fertile plateau in central Jordan, known for its agriculture and temperate climate." , es: "Una meseta fértil en el centro de Jordania, conocida por su agricultura y clima templado.", pt: "Um planalto fértil no centro da Jordânia, conhecido pela sua agricultura e clima temperado.", fr: "Un plateau fertile au centre de la Jordanie, connu pour son agriculture et son climat tempéré."},
     facts: {
       de: ["Zentrum des historischen Gileads", "Mildes mediterranes Klima", "Reicher Oliven- und Weinanbau", "Stark besiedelte Region"],
@@ -1259,7 +1253,6 @@ export const poiExtraJordanReliefV2: POI[] = [
     parent: "JO-AJ",
     coords: [35.750, 32.350],
     name: { de: "Adschlun-Gebirge", hu: "Adzslún-hegység", ro: "Munții Ajloun", en: "Ajloun Mountains"},
-    image: "/poi-images/adschlun-gebirge-relief-v2.webp",
     description: { de: "Eine dicht bewaldete und grüne Bergregion im Norden, die einen starken Kontrast zur Wüste bildet.", hu: "Sűrűn erdősült és zöld hegyvidék északon, amely éles kontrasztot alkot a sivataggal.", ro: "O regiune muntoasă verde și dens împădurită în nord, formând un contrast puternic cu deșertul.", en: "A densely forested and green mountain region in the north, forming a stark contrast to the desert." , es: "Una región montañosa verde y densamente boscosa en el norte que forma un fuerte contraste con el desierto.", pt: "Uma região montanhosa verde e densamente arborizada no norte que forma um forte contraste com o deserto.", fr: "Une région montagneuse verdoyante et densément boisée au nord, qui offre un contraste saisissant avec le désert."},
     facts: {
       de: ["Grünste Region Jordaniens", "Wälder aus Aleppokiefern und Eichen", "Kühle Bergluft im Sommer", "Kalksteinformationen dominieren"],
@@ -1556,7 +1549,6 @@ export const poiExtraJordanReliefV2: POI[] = [
     parent: "JO-MN",
     coords: [35.405, 30.316],
     name: { de: "Dschabal Harun", hu: "Dzsebel Harún", ro: "Jabal Harun", en: "Jabal Harun"},
-    image: "/poi-images/dschabal-harun-relief-v2.webp",
     description: { de: "Der höchste Gipfel in der Region Petra, der traditionell als Grabstätte von Moses' Bruder Aaron gilt.", hu: "A Petra régió legmagasabb csúcsa, amelyet hagyományosan Mózes testvére, Áron sírhelyének tartanak.", ro: "Cel mai înalt vârf din regiunea Petra, considerat în mod tradițional locul de înmormântare al lui Aaron, fratele lui Moise.", en: "The highest peak in the Petra region, traditionally considered the burial site of Moses' brother Aaron." , es: "El pico más alto de la región de Petra, considerado tradicionalmente como el lugar de enterramiento de Aarón, hermano de Moisés.", pt: "O pico mais alto na região de Petra, tradicionalmente considerado como o local de sepultamento de Aarão, irmão de Moisés.", fr: "Le point culminant de la région de Pétra, traditionnellement considéré comme le lieu de sépulture d'Aaron, le frère de Moïse."},
     facts: {
       de: ["1350 Meter über dem Meeresspiegel", "Weißer Schrein auf dem Gipfel", "Heilige Stätte für drei Religionen", "Anspruchsvoller Aufstieg für Pilger"],
@@ -1592,7 +1584,6 @@ export const poiExtraJordanReliefV2: POI[] = [
     parent: "JO-AT",
     coords: [35.533, 30.583],
     name: { de: "Wadi Ghuweir", hu: "Vádi Guveir", ro: "Wadi Ghuweir", en: "Wadi Ghuweir"},
-    image: "/poi-images/wadi-ghuweir-relief-v2.webp",
     description: { de: "Ein spektakuläres Flusstal mit üppiger Vegetation, hängenden Gärten und dramatischen Sandsteinformationen.", hu: "Látványos folyóvölgy buja növényzettel, függőkertekkel és drámai homokkő képződményekkel.", ro: "O vale fluvială spectaculoasă cu vegetație luxuriantă, grădini suspendate și formațiuni dramatice de gresie.", en: "A spectacular river valley with lush vegetation, hanging gardens, and dramatic sandstone formations." , es: "Un espectacular valle fluvial con vegetación exuberante, jardines colgantes y espectaculares formaciones de arenisca.", pt: "Um espetacular vale fluvial com vegetação luxuriante, jardins suspensos e formações dramáticas de arenito.", fr: "Une vallée fluviale spectaculaire avec une végétation luxuriante, des jardins suspendus et des formations de grès spectaculaires."},
     facts: {
       de: ["Beliebtes Ziel für Canyoning", "Oase in einer trockenen Region", "Enge Felspassagen", "Ganzjährig fließendes Wasser"],
@@ -1781,7 +1772,6 @@ export const poiExtraJordanReliefV2: POI[] = [
     parent: "JO-KA",
     coords: [35.583, 31.183],
     name: { de: "Wadi al-Karak", hu: "Vádi al-Karak", ro: "Wadi al-Karak", en: "Wadi al-Karak"},
-    image: "/poi-images/wadi-al-karak-relief-v2.webp",
     description: { de: "Eine tiefe und gewundene Schlucht, die vom Moab-Plateau steil hinab zum Toten Meer führt.", hu: "Mély és kanyargós szurdok, amely a Moáb-fennsíkról meredeken ereszkedik le a Holt-tengerhez.", ro: "Un defileu adânc și sinuos care coboară abrupt de pe Platoul Moab spre Marea Moartă.", en: "A deep and winding gorge that drops steeply from the Moab Plateau down to the Dead Sea." , es: "Un cañón profundo y sinuoso que desciende abruptamente desde la meseta de Moab hacia el Mar Muerto.", pt: "Um desfiladeiro profundo e sinuoso que desce abruptamente do planalto de Moabe em direção ao Mar Morto.", fr: "Un canyon profond et sinueux qui descend abruptement du plateau de Moab vers la mer Morte."},
     facts: {
       de: ["Überwindet große Höhenunterschiede", "Führt zur historischen Burg Karak", "Zahlreiche Wasserfälle im Tal", "Dichte Vegetation am Flussbett"],
@@ -1862,7 +1852,6 @@ export const poiExtraJordanReliefV2: POI[] = [
     parent: "JO-BA",
     coords: [35.550, 32.000],
     name: { de: "Jordangraben", hu: "Jordán-árok", ro: "Valea de Rift a Iordanului", en: "Jordan Rift Valley"},
-    image: "/poi-images/jordangraben-relief-v2.webp",
     description: { de: "Diese bedeutende geologische Senke ist Teil des Großen Afrikanischen Grabenbruchs und sehr fruchtbar.", hu: "Ez a jelentős geológiai süllyedék a Nagy-hasadékvölgy része, és rendkívül termékeny.", ro: "Această depresiune geologică majoră face parte din Marele Rift African și este foarte fertilă.", en: "This significant geological depression is part of the Great Rift Valley and is very fertile." , es: "Esta importante depresión geológica forma parte del Gran Valle del Rift africano y es muy fértil.", pt: "Esta importante depressão geológica faz parte do Grande Vale do Rift africano e é muito fértil.", fr: "Cette importante dépression géologique fait partie de la vallée du Grand Rift africain et est très fertile."},
     facts: {
       de: ["Sinkt bis auf -430 Meter ab", "Aktivste tektonische Zone der Region", "Geothermische Quellen vorhanden", "Hauptader der jordanischen Landwirtschaft"],
@@ -2123,7 +2112,6 @@ export const poiExtraJordanReliefV2: POI[] = [
     parent: "JO-MN",
     coords: [35.446, 30.323],
     name: { de: "Dschabal al-Madhbah", hu: "Dzsebel al-Madbáh", ro: "Jabal al-Madhbah", en: "Jabal al-Madhbah"},
-    image: "/poi-images/dschabal-al-madhbah-relief-v2.webp",
     description: { de: "Ein bedeutender Berg in Petra, der von den Nabatäern als heiliger Opferplatz auf dem Gipfel genutzt wurde.", hu: "Jelentős hegy Petrában, amelyet a nabateusok szent áldozati helyként használtak a csúcson.", ro: "Un munte important din Petra, folosit de nabateeni ca loc sacru de sacrificiu pe vârf.", en: "A significant mountain in Petra, used by the Nabataeans as a sacred sacrificial site at the summit." , es: "Una montaña importante en Petra, utilizada por los nabateos como lugar sagrado de sacrificio en su cima.", pt: "Uma montanha importante em Petra, utilizada pelos nabateus como local sagrado de sacrifício no topo.", fr: "Une montagne importante à Pétra, utilisée par les Nabatéens comme lieu de sacrifice sacré sur son sommet."},
     facts: {
       de: ["Antiker Opferaltar auf der Spitze", "Nur über steile Treppen erreichbar", "Bietet Panoramablick über Petra", "Wird oft mit dem biblischen Berg Sinai gleichgesetzt"],
@@ -2528,7 +2516,6 @@ export const poiExtraJordanReliefV2: POI[] = [
     parent: "JO-AM",
     coords: [35.816, 31.950],
     name: { de: "Wadi as-Sir", hu: "Vádi as-Szír", ro: "Wadi as-Sir", en: "Wadi as-Sir"},
-    image: "/poi-images/wadi-as-sir-relief-v2.webp",
     description: { de: "Ein grünes und wasserreiches Tal am Stadtrand von Amman, umgeben von bewaldeten Hügeln.", hu: "Zöld és vízben gazdag völgy Ammán külvárosában, erdős dombokkal körülvéve.", ro: "O vale verde și bogată în apă la periferia Ammanului, înconjurată de dealuri împădurite.", en: "A green and water-rich valley on the outskirts of Amman, surrounded by wooded hills." , es: "Un valle verde y rico en agua en las afueras de Ammán, rodeado de colinas boscosas.", pt: "Um vale verde e rico em água na periferia de Amã, rodeado por colinas arborizadas.", fr: "Une vallée verte et riche en eau à la périphérie d'Amman, entourée de collines boisées."},
     facts: {
       de: ["Traditionelles Rückzugsgebiet für Ammaner", "Hellenistische Palastruine Qasr al-Abd", "Verzweigtes Höhlensystem vorhanden", "Fruchtbare Feigen- und Granatapfelgärten"],
@@ -2762,7 +2749,6 @@ export const poiExtraJordanReliefV2: POI[] = [
     parent: "JO-BA",
     coords: [35.583, 31.716],
     name: { de: "Küste des Toten Meeres", hu: "Holt-tenger partvidéke", ro: "Coasta Mării Moarte", en: "Dead Sea Coast"},
-    image: "/poi-images/totes-meer-kueste-relief-v2.webp",
     description: { de: "Die tiefstgelegene Küstenlinie der Erde, gesäumt von funkelnden Salzkristallen und mineralreichen Schlammstränden.", hu: "A Föld legmélyebb szárazföldi pontja, amelyet csillogó sókristályok és ásványi anyagokban gazdag iszapos strandok szegélyeznek.", ro: "Cea mai joasă coastă de pe Pământ, mărginită de cristale strălucitoare de sare și plaje cu noroi bogat în minerale.", en: "The lowest coastline on Earth, lined with sparkling salt crystals and mineral-rich mud beaches." , es: "La línea costera más baja de la Tierra, rodeada de brillantes cristales de sal y playas de lodo ricas en minerales.", pt: "A linha costeira mais baixa da Terra, ladeada por cristais de sal cintilantes e praias de lama ricas em minerais.", fr: "Le littoral le plus bas de la terre, bordé de cristaux de sel étincelants et de plages de boue riches en minéraux."},
     facts: {
       de: ["Tiefster Landpunkt der Erde", "Sehr hoher Salzgehalt im Wasser", "Heilschlamm zieht Touristen an", "Sinkender Wasserspiegel bedroht die Küste"],
@@ -2798,7 +2784,6 @@ export const poiExtraJordanReliefV2: POI[] = [
     parent: "JO-AQ",
     coords: [34.983, 29.466],
     name: { de: "Golf von Akaba Küste", hu: "Akabai-öböl partvidéke", ro: "Coasta Golfului Aqaba", en: "Gulf of Aqaba Coast"},
-    image: "/poi-images/akaba-kueste-relief-v2.webp",
     description: { de: "Jordaniens einziger Meereszugang im Süden, charakterisiert durch warme Sandstrände und das kristallklare Rote Meer.", hu: "Jordánia egyetlen tengeri kijárata délen, amelyet meleg homokos strandok és a kristálytiszta Vörös-tenger jellemez.", ro: "Singurul acces maritim al Iordaniei în sud, caracterizat de plaje cu nisip cald și Marea Roșie cristalină.", en: "Jordan's only maritime access in the south, characterized by warm sandy beaches and the crystal-clear Red Sea." , es: "El único acceso marítimo de Jordania al sur, caracterizado por cálidas playas de arena y el cristalino Mar Rojo.", pt: "O único acesso marítimo da Jordânia ao sul, caracterizado por praias de areia quente e o cristalino Mar Vermelho.", fr: "L'unique accès maritime de la Jordanie au sud, caractérisé par des plages de sable chaud et la mer Rouge cristalline."},
     facts: {
       de: ["Nur etwa 26 Kilometer lang", "Einziger Seehafen des Landes", "Reich an bunten Korallenriffen", "Beliebt bei Tauchern weltweit"],
@@ -2915,7 +2900,6 @@ export const poiExtraJordanReliefV2: POI[] = [
     parent: "JO-MD",
     coords: [35.650, 31.550],
     name: { de: "Dschabal Ataruz", hu: "Dzsebel Atarúz", ro: "Jabal Ataruz", en: "Jabal Ataruz"},
-    image: "/poi-images/dschabal-ataruz-relief-v2.webp",
     description: { de: "Ein isolierter und historisch bedeutsamer Berg im moabitischen Hochland mit weitem Blick über die Region.", hu: "Elszigetelt és történelmileg jelentős hegy a moábi felföldön, ahonnan messzire ellátni a régióban.", ro: "Un munte izolat și cu semnificație istorică din ținuturile înalte ale Moabului, cu vederi largi asupra regiunii.", en: "An isolated and historically significant mountain in the Moabite highlands, offering sweeping views of the region." , es: "Una montaña aislada e históricamente significativa en las tierras altas de Moab con amplias vistas de la región.", pt: "Uma montanha isolada e historicamente significativa nas terras altas de Moabe, com vistas amplas sobre a região.", fr: "Une montagne isolée et historiquement importante dans les hauts plateaux de Moab avec une vue imprenable sur la région."},
     facts: {
       de: ["Erwähnt in der Mescha-Stele", "Ehemalige Kultstätte der Moabiter", "Bietet freie Sicht bis Jerusalem", "Reste antiker Mauern erhalten"],
@@ -3284,7 +3268,6 @@ export const poiExtraJordanReliefV2: POI[] = [
     parent: "JO-MD",
     coords: [35.783, 31.566],
     name: { de: "Wadi al-Wala", hu: "Vádi al-Wala", ro: "Wadi al-Wala", en: "Wadi al-Wala"},
-    image: "/poi-images/wadi-al-wala-relief-v2.webp",
     description: { de: "Eine malerische Schlucht, durch die ein beständiger Bach fließt, gesäumt von dichten Oleanderbüschen.", hu: "Festői szurdok, amelyen egy állandó patak folyik keresztül, sűrű leanderbokrokkal szegélyezve.", ro: "Un defileu pitoresc prin care curge un pârâu permanent, mărginit de tufe dense de oleandru.", en: "A picturesque gorge with a constant stream flowing through it, lined with dense oleander bushes." , es: "Un cañón pintoresco recorrido por un arroyo constante, flanqueado por densos arbustos de adelfas.", pt: "Um desfiladeiro pitoresco por onde corre um riacho constante, ladeado por densos arbustos de oleandros.", fr: "Un canyon pittoresque traversé par un ruisseau permanent, bordé de buissons denses de lauriers-roses."},
     facts: {
       de: ["Mündet in das Mujib-Tal", "Wala-Staudamm staut das Wasser", "Natürliche Schwimmbecken im Sommer", "Wichtiger Wasserlieferant für Madaba"],

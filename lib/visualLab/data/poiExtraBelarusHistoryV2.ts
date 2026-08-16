@@ -232,8 +232,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "castle",
     name: { de: "Schloss Mir", hu: "Miri várkastély", ro: "Castelul Mir", en: "Mir Castle"},
-    image: "/poi-images/belarus-mir-castle-history-v2.webp",
-    coords: [26.4728, 53.4511],
     coords: [26.4728, 53.4511],
     description: {
       de: "Dieses UNESCO-Welterbe aus dem 16. Jahrhundert vereint Gotik, Renaissance und Barock. Es diente als Residenz für die Familien Radziwiłł und Wittigstein.",
@@ -277,8 +275,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "palace",
     name: { de: "Schloss Njaswisch", hu: "Njaszvizi kastély", ro: "Castelul Nesvizh", en: "Nesvizh Castle"},
-    image: "/poi-images/belarus-nesvizh-castle-history-v2.webp",
-    coords: [26.6917, 53.2228],
     coords: [26.6917, 53.2228],
     description: {
       de: "Die einstige Residenz der Familie Radziwiłł ist ein weitläufiger Palastkomplex mit Befestigungsanlagen. Die Anlage gilt als eines der bedeutendsten Kulturdenkmäler Osteuropas.",
@@ -322,8 +318,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "monument",
     name: { de: "Festung Brest", hu: "Breszti erőd", ro: "Cetatea Brest", en: "Brest Fortress"},
-    image: "/poi-images/belarus-brest-fortress-history-v2.webp",
-    coords: [23.6553, 52.0827],
     coords: [23.6553, 52.0827],
     description: {
       de: "Diese Festung aus dem 19. Jahrhundert wurde durch den heldenhaften Widerstand gegen die deutsche Wehrmacht im Jahr 1941 bekannt. Heute dient sie als monumentale Gedenkstätte.",
@@ -412,8 +406,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "monument",
     name: { de: "Gedenkstätte Chatyn", hu: "Hatinyi emlékhely", ro: "Complexul Memorial Khatyn", en: "Khatyn Memorial"},
-    image: "/poi-images/belarus-khatyn-memorial-history-v2.webp",
-    coords: [27.9436, 54.3353],
     coords: [27.9436, 54.3353],
     description: {
       de: "Die Gedenkstätte erinnert an das Dorf Chatyn, das 1943 von den Nationalsozialisten vernichtet wurde. Sie symbolisiert alle im Zweiten Weltkrieg zerstörten belarussischen Dörfer.",
@@ -459,7 +451,6 @@ export const belarusHistoryV2: POI[] = [
     name: { de: "Sophienkathedrale Polozk", hu: "Polocki Szent Szófia-székesegyház", ro: "Catedrala Sfânta Sofia din Polonțk", en: "Saint Sophia Cathedral in Polotsk"},
     image: "/poi-images/belarus-polotsk-st-sophia-history-v2.webp",
     coords: [28.7583, 55.4861],
-    coords: [28.7583, 55.4861],
     description: {
       de: "Ursprünglich im 11. Jahrhundert erbaut, ist dies eines der ältesten religiösen Gebäude von Belarus. Nach einer Explosion im Jahr 1710 wurde sie im Barockstil wiederaufgebaut.",
       hu: "Az eredetileg 11. században épült katedrális Fehéroroszország egyik legrégebbi egyházi épülete. Egy 1710-es robbanás után barokk stílusban építették újjá.",
@@ -503,8 +494,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "battlefield",
     name: { de: "Stalin-Linie", hu: "Sztálin-vonal", ro: "Linia Stalin", en: "Stalin Line"},
-    image: "/poi-images/belarus-stalin-line-history-v2.webp",
-    coords: [27.2944, 54.0583],
     coords: [27.2944, 54.0583],
     description: {
       de: "Dieser historische Komplex zeigt Befestigungsanlagen der ursprünglichen Verteidigungslinie der UdSSR aus den 1930er Jahren. Es umfasst Bunker, Gräben und militärische Ausrüstung.",
@@ -548,8 +537,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "castle",
     name: { de: "Altes Schloss Grodno", hu: "Grodnói régi vár", ro: "Castelul Vechi din Grodno", en: "Hrodna Old Castle"},
-    image: "/poi-images/belarus-hrodna-old-castle-history-v2.webp",
-    coords: [23.8236, 53.6769],
     coords: [23.8236, 53.6769],
     description: {
       de: "Das auf einem hohen Hügel am Memel-Ufer gelegene Schloss war eine wichtige Residenz der litauischen Großfürsten und polnischen Könige, wie etwa Stephan Báthory.",
@@ -594,7 +581,6 @@ export const belarusHistoryV2: POI[] = [
     type: "castle",
     name: { de: "Burg Lida", hu: "Lidai vár", ro: "Castelul Lida", en: "Lida Castle"},
     image: "/poi-images/belarus-lida-castle-history-v2.webp",
-    coords: [25.3025, 53.8872],
     coords: [25.3025, 53.8872],
     description: {
       de: "Gediminas, der Großfürst von Litauen, ließ diese quadratische Backsteinburg im 14. Jahrhundert zum Schutz gegen die Kreuzritter errichten. Sie ist ein klassisches Beispiel für Verteidigungsarchitektur.",
@@ -684,8 +670,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "ruins",
     name: { de: "Palast von Ruschany", hu: "Ruzsanyi palota", ro: "Palatul Ruzhany", en: "Ruzhany Palace"},
-    image: "/poi-images/belarus-ruzhany-palace-history-v2.webp",
-    coords: [24.8961, 52.8603],
     coords: [24.8961, 52.8603],
     description: {
       de: "Die einstige Residenz der Familie Sapieha wird oft als das belarussische Versailles bezeichnet. Heute sind die beeindruckenden Ruinen und das restaurierte Eingangstor zu sehen.",
@@ -729,8 +713,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "palace",
     name: { de: "Palast- und Parkensemble Gomel", hu: "Homeli palota és park", ro: "Complexul Palatului și Parcului Gomel", en: "Gomel Palace and Park Ensemble"},
-    image: "/poi-images/belarus-gomel-palace-history-v2.webp",
-    coords: [31.0164, 52.4225],
     coords: [31.0164, 52.4225],
     description: {
       de: "Dieses klassizistische Anwesen gehörte den Feldmarschällen Rumjanzew und Paskewitsch. Der Komplex umfasst einen prächtigen Palast, eine Kathedrale und einen weitläufigen Park am Sosch.",
@@ -774,8 +756,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "ruins",
     name: { de: "Antikes Turow", hu: "Ősi Turav", ro: "Turovul Antic", en: "Ancient Turov"},
-    image: "/poi-images/belarus-turov-ancient-history-v2.webp",
-    coords: [27.7333, 52.0667],
     coords: [27.7333, 52.0667],
     description: {
       de: "Turow war einst die Hauptstadt eines mächtigen Fürstentums und ein Zentrum der orthodoxen Kultur. Heute sind hier Fundamente einer Kathedrale aus dem 12. Jahrhundert und legendäre Steinkreuze zu finden.",
@@ -972,8 +952,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "ruins",
     name: { de: "Burgruine Krewo", hu: "Krevói várrom", ro: "Ruinele Castelului Krevo", en: "Krevo Castle Ruins"},
-    image: "/poi-images/belarus-krevo-castle-ruins-history-v2.webp",
-    coords: [26.2828, 54.3103],
     coords: [26.2828, 54.3103],
     description: {
       de: "In dieser Burg wurde 1385 die Union von Krewo unterzeichnet, die den Grundstein für das polnisch-litauische Commonwealth legte. Heute zeugen massive Mauern von der einstigen Größe.",
@@ -1018,7 +996,6 @@ export const belarusHistoryV2: POI[] = [
     type: "ruins",
     name: { de: "Burg Nowogrudok", hu: "Novogrúdeki vár", ro: "Castelul Novogrudok", en: "Novogrudok Castle"},
     image: "/poi-images/belarus-novogrudok-castle-history-v2.webp",
-    coords: [25.8272, 53.6017],
     coords: [25.8272, 53.6017],
     description: {
       de: "Nowogrudok war die erste Hauptstadt des Großfürstentums Litauen. Die Burg auf dem Schlossberg war einst eine der stärksten Befestigungen der Region mit sieben Türmen.",
@@ -1180,8 +1157,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "ruins",
     name: { de: "Schloss Holschany", hu: "Halsanyi vár", ro: "Castelul Halshany", en: "Halshany Castle"},
-    image: "/poi-images/belarus-halshany-castle-history-v2.webp",
-    coords: [26.0203, 54.2514],
     coords: [26.0203, 54.2514],
     description: {
       de: "Die einstige Residenz der Magnatenfamilie Sapieha ist heute eine malerische Ruine. Sie inspirierte zahlreiche Legenden und literarische Werke über Geister und verborgene Schätze.",
@@ -2352,7 +2327,6 @@ export const belarusHistoryV2: POI[] = [
     name: { de: "Minsker Oberstadt", hu: "Minszki felsőváros", ro: "Orașul de Sus din Minsk", en: "Minsk Upper Town"},
     image: "/poi-images/belarus-minsk-upper-town-history-v2.webp",
     coords: [27.5561, 53.9036],
-    coords: [27.5561, 53.9036],
     description: {
       de: "Die Oberstadt ist das historische Herz von Minsk, geprägt von Architektur des 16. bis 19. Jahrhunderts. Hier befinden sich das Rathaus und bedeutende sakrale Gebäude.",
       hu: "A Felsőváros Minszk történelmi szíve, amelyet 16-19. századi építészet jellemez. Itt található a városháza és jelentős egyházi épületek.",
@@ -2398,7 +2372,6 @@ export const belarusHistoryV2: POI[] = [
     name: { de: "Rathaus von Witebsk", hu: "Vityebszki városháza", ro: "Primăria din Vitebsk", en: "Vitebsk City Hall"},
     image: "/poi-images/belarus-vitebsk-ratusha-history-v2.webp",
     coords: [30.2058, 55.1953],
-    coords: [30.2058, 55.1953],
     description: {
       de: "Das Rathaus (Ratusha) ist ein Wahrzeichen von Witebsk und beherbergt heute das Heimatmuseum. Der barocke Turm bietet einen weiten Blick über die historische Altstadt.",
       hu: "A városháza (Ratusa) Vityebszk jelképe, ma helytörténeti múzeumnak ad otthont. A barokk toronyból pazar kilátás nyílik a történelmi óvárosra.",
@@ -2443,7 +2416,6 @@ export const belarusHistoryV2: POI[] = [
     type: "tower",
     name: { de: "Rathaus von Mogilew", hu: "Mohiljovi városháza", ro: "Primăria din Moghilău", en: "Mahilyou City Hall"},
     image: "/poi-images/belarus-mahilyou-city-hall-history-v2.webp",
-    coords: [30.3325, 53.8942],
     coords: [30.3325, 53.8942],
     description: {
       de: "Das im 17. Jahrhundert errichtete Rathaus war das Symbol städtischer Freiheit. Nach seiner Zerstörung 1957 wurde es 2008 originalgetreu an seinem historischen Platz am Dnjepr wiederaufgebaut.",
@@ -2533,8 +2505,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "church",
     name: { de: "Wehrkirche Synkawitschy", hu: "Szinkavicsi erődtemplom", ro: "Biserica fortificată Synkavichy", en: "Synkavichy Fortified Church"},
-    image: "/poi-images/belarus-synkavichy-church-history-v2.webp",
-    coords: [25.1553, 53.1233],
     coords: [25.1553, 53.1233],
     description: {
       de: "Diese Kirche aus dem 15. Jahrhundert ist ein seltenes Beispiel für sakrale Wehrarchitektur in Belarus. Mit ihren vier Ecktürmen erinnert sie eher an eine kleine Burg als an ein Gotteshaus.",
@@ -2578,8 +2548,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "battlefield",
     name: { de: "Festung Babrujsk", hu: "Babrujszki erőd", ro: "Cetatea Babruysk", en: "Babruysk Fortress"},
-    image: "/poi-images/belarus-babruysk-fortress-history-v2.webp",
-    coords: [29.2431, 53.1389],
     coords: [29.2431, 53.1389],
     description: {
       de: "Die im frühen 19. Jahrhundert errichtete Festung war Teil des russischen Verteidigungssystems gegen Napoleon. Die Anlage galt zu ihrer Zeit als uneinnehmbar und ist heute teilweise erhalten.",
@@ -2668,8 +2636,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "castle",
     name: { de: "Schloss Lubscha", hu: "Lubcsai vár", ro: "Castelul Lubcha", en: "Lubcha Castle"},
-    image: "/poi-images/belarus-luzhany-castle-history-v2.webp",
-    coords: [26.0592, 53.7522],
     coords: [26.0592, 53.7522],
     description: {
       de: "Direkt am Ufer der Memel gelegen, war diese Burg ein wichtiger strategischer Punkt. Heute wird sie von Freiwilligen restauriert, um den einstigen Glanz der Renaissance-Anlage wiederherzustellen.",
@@ -2713,8 +2679,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "ruins",
     name: { de: "Burg und Synagoge Bychau", hu: "Bihavi vár és zsinagóga", ro: "Castelul și sinagoga din Bykhaw", en: "Bykhaw Castle and Synagogue"},
-    image: "/poi-images/belarus-bykhaw-fortress-history-v2.webp",
-    coords: [30.2589, 53.5189],
     coords: [30.2589, 53.5189],
     description: {
       de: "Bychau war im 17. Jahrhundert eine der am besten befestigten Städte Osteuropas. Erhalten geblieben sind Ruinen des Chodkiewicz-Schlosses und eine einzigartige Wehrsynagoge.",
@@ -2758,8 +2722,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "ruins",
     name: { de: "Geschichtsmuseum Saslauje", hu: "Zaszlavjei Történelmi Múzeum", ro: "Muzeul de Istorie Zaslawye", en: "Zaslawye Historical Museum-Reserve"},
-    image: "/poi-images/belarus-zaslawye-museum-history-v2.webp",
-    coords: [27.2889, 54.0083],
     coords: [27.2889, 54.0083],
     description: {
       de: "Saslauje ist eine der ältesten Städte von Belarus, gegründet von Fürst Wladimir. Das Reservat umfasst eine Wallburg, die Erlöser-Verklärungs-Kirche und archäologische Fundstätten.",
@@ -2803,8 +2765,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "university",
     name: { de: "Jesuitenkolleg Pinsk", hu: "Pinszki jezsuita kollégium", ro: "Colegiul Iezuit din Pinsk", en: "Pinsk Jesuit Collegium"},
-    image: "/poi-images/belarus-pinsk-collegium-history-v2.webp",
-    coords: [26.1044, 52.1122],
     coords: [26.1044, 52.1122],
     description: {
       de: "Dieses prachtvolle Barockgebäude aus dem 17. Jahrhundert war einst ein bedeutendes Bildungszentrum Osteuropas. Es dominiert bis heute das Stadtbild von Pinsk am Ufer der Pina.",
@@ -2848,8 +2808,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "church",
     name: { de: "Wehrkirche Murawanka", hu: "Muravankai erődtemplom", ro: "Biserica fortificată Muravanka", en: "Muravanka Fortified Church"},
-    image: "/poi-images/belarus-muravanka-church-history-v2.webp",
-    coords: [24.7583, 53.6975],
     coords: [24.7583, 53.6975],
     description: {
       de: "Die im 16. Jahrhundert errichtete Kirche ist ein Meisterwerk der belarussischen Gotik und Wehrarchitektur. Ihre dicken Mauern und runden Türme boten Schutz bei kriegerischen Auseinandersetzungen.",
@@ -2893,8 +2851,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "battlefield",
     name: { de: "Schlachtfeld an der Beresina", hu: "Berezina-menti csatatér", ro: "Câmpul de luptă de la Berezina", en: "Berezina River Battlefield"},
-    image: "/poi-images/belarus-berezina-battlefield-history-v2.webp",
-    coords: [28.3517, 54.3217],
     coords: [28.3517, 54.3217],
     description: {
       de: "Hier fand 1812 der katastrophale Rückzug von Napoleons Großer Armee statt. Die Schlacht an der Beresina wurde zum Synonym für eine totale militärische Niederlage und menschliches Leid.",
@@ -3381,7 +3337,6 @@ export const belarusHistoryV2: POI[] = [
     name: { de: "Historisches Sluzk", hu: "Történelmi Szluck", ro: "Slutskul Istoric", en: "Historic Slutsk"},
     image: "/poi-images/belarus-slutsk-belts-history-v2.webp",
     coords: [27.5583, 53.0275],
-    coords: [27.5583, 53.0275],
     description: {
       de: "Sluzk war berühmt für seine Manufakturen, in denen die kostbaren Sluzker Gürtel gewebt wurden. Heute bewahrt ein Museum die Traditionen dieser einst bedeutenden Handwerksstadt.",
       hu: "Szluck híres volt manufaktúráiról, ahol az értékes szlucki öveket szőtték. Ma egy múzeum őrzi ezen egykor jelentős kézműves város hagyományait.",
@@ -3419,8 +3374,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "cathedral",
     name: { de: "Kloster Schirowitschi", hu: "Zsirovicsi kolostor", ro: "Mănăstirea Zhirovichi", en: "Zhirovichi Monastery"},
-    image: "/poi-images/belarus-zhirovichi-monastery-history-v2.webp",
-    coords: [25.3444, 53.0142],
     coords: [25.3444, 53.0142],
     description: {
       de: "Das Kloster ist eines der bedeutendsten geistlichen Zentren der Orthodoxie in Belarus. Es beherbergt die wundertätige Ikone der Muttergottes von Schirowitschi.",
@@ -3464,8 +3417,6 @@ export const belarusHistoryV2: POI[] = [
     parent: "BY",
     type: "ruins",
     name: { de: "Schlossberg Nowogrudok", hu: "Novogrúdeki várhegy", ro: "Dealul Castelului Novogrudok", en: "Novogrudok Castle Hill"},
-    image: "/poi-images/belarus-novogrudok-hill-history-v2.webp",
-    coords: [25.8272, 53.6017],
     coords: [25.8272, 53.6017],
     description: {
       de: "Der Schlossberg war das Machtzentrum des frühen Großfürstentums Litauen. Von der einst mächtigen Burg sind heute zwei beeindruckende Türme als Zeugen der Vergangenheit erhalten.",
@@ -3510,7 +3461,6 @@ export const belarusHistoryV2: POI[] = [
     type: "castle",
     name: { de: "Festung Lida", hu: "Lidai erőd", ro: "Cetatea Lida", en: "Lida Fortress"},
     image: "/poi-images/belarus-lida-fortress-history-v2.webp",
-    coords: [25.3025, 53.8872],
     coords: [25.3025, 53.8872],
     description: {
       de: "Dieses Bollwerk wurde zum Schutz gegen die ständigen Angriffe der Kreuzritter errichtet. Die gewaltigen Backsteinmauern bilden ein geschlossenes Viereck mit weiten Innenhöfen.",

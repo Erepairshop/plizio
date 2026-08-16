@@ -8,7 +8,6 @@ export const poiExtraIvorycoastLifeV2: POI[] = [
     parent: "CI-LAG",
     coords: [-4.276, 5.234],
     name: { de: "Azagny Nationalpark", hu: "Azagny Nemzeti Park", ro: "Parcul Național Azagny", en: "Azagny National Park"},
-    image: "/poi-images/parc-national-d-azagny-life-v2.webp",
     description: { de: "Ein bedeutendes Feuchtgebiet, Heimat von Elefanten und zahlreichen Vogelarten.", hu: "Jelentős vizes élőhely, elefántok és számos madárfaj otthona.", ro: "O zonă umedă importantă, habitat pentru elefanți și numeroase specii de păsări.", en: "An important wetland, home to elephants and numerous bird species." , es: "Un humedal importante, hogar de elefantes y numerosas especies de aves.", pt: "Uma zona húmida importante, lar de elefantes e inúmeras espécies de aves.", fr: "Une zone humide importante, abritant des éléphants et de nombreuses espèces d'oiseaux."},
     facts: {
       de: ["Besteht hauptsächlich aus Sumpfgebieten.", "Lebensraum für Waldelefanten."],
@@ -88,7 +87,6 @@ export const poiExtraIvorycoastLifeV2: POI[] = [
     parent: "CI-LAC",
     coords: [-5.276, 6.823],
     name: { de: "Kakaofarm Yamoussoukro", hu: "Yamoussoukro Kakaófarm", ro: "Fermă de cacao Yamoussoukro", en: "Yamoussoukro Cocoa Farm"},
-    image: "/poi-images/ferme-de-cacao-yamoussoukro-life-v2.webp",
     description: { de: "Traditionelle Kakaoplantage im Herzen der Elfenbeinküste.", hu: "Hagyományos kakaóültetvény Elefántcsontpart szívében.", ro: "Plantație tradițională de cacao în inima Coastei de Fildeș.", en: "Traditional cocoa plantation in the heart of Ivory Coast." , es: "Plantación de cacao tradicional en el corazón de Costa de Marfil.", pt: "Plantação de cacau tradicional no coração da Costa do Marfim.", fr: "Plantation de cacao traditionnelle au cœur de la Côte d'Ivoire."},
     facts: {
       de: ["Kakaobohnen sind ein wichtiges Exportgut.", "Ernte erfolgt oft von Hand."],
@@ -168,7 +166,6 @@ export const poiExtraIvorycoastLifeV2: POI[] = [
     parent: "CI-LAG",
     coords: [-4.024, 5.332],
     name: { de: "Kinderspielplatz Abidjan", hu: "Abidjani Játszótér", ro: "Parc pentru copii Abidjan", en: "Abidjan Children's Park"},
-    image: "/poi-images/parc-des-enfants-abidjan-life-v2.webp",
     description: { de: "Ein beliebter Park für Familien im Zentrum von Abidjan.", hu: "Népszerű családi park Abidjan központjában.", ro: "Un parc popular pentru familii în centrul Abidjanului.", en: "A popular family park in the center of Abidjan." , es: "Un parque popular para familias en el centro de Abiyán.", pt: "Um parque popular para famílias no centro de Abidjan.", fr: "Un parc populaire pour les familles au centre d'Abidjan."},
     facts: {
       de: ["Bietet verschiedene Spielbereiche.", "Idealer Ort für Wochenendausflüge."],
@@ -356,7 +353,6 @@ export const poiExtraIvorycoastLifeV2: POI[] = [
     parent: "CI-MTN",
     coords: [-8.423, 7.625],
     name: { de: "Nimba-Berge Naturschutzgebiet", hu: "Nimba-hegység Természetvédelmi Terület", ro: "Rezervația Naturală Muntele Nimba", en: "Mount Nimba Nature Reserve"},
-    image: "/poi-images/reserve-naturelle-mont-nimba-life-v2.webp",
     description: { de: "Einzigartige Artenvielfalt in einem bergigen Schutzgebiet.", hu: "Egyedülálló biodiverzitás egy hegyvidéki természetvédelmi területen.", ro: "Biodiversitate unică într-o rezervație montană.", en: "Unique biodiversity in a mountainous nature reserve." , es: "Biodiversidad única en una reserva protegida de montaña.", pt: "Biodiversidade única numa reserva protegida de montanha.", fr: "Une biodiversité unique dans une réserve de montagne protégée."},
     facts: {
       de: ["UNESCO-Welterbestätte.", "Heimat seltener Amphibien."],
@@ -652,7 +648,6 @@ export const poiExtraIvorycoastLifeV2: POI[] = [
     parent: "CI-MTN",
     coords: [-7.556, 7.412],
     name: { de: "Kaffeeplantage Man", hu: "Man Kávéültetvény", ro: "Plantație de cafea Man", en: "Man Coffee Plantation"},
-    image: "/poi-images/plantation-de-cafe-man-life-v2.webp",
     description: { de: "Hochwertiger Kaffeeanbau in der bergigen Region bei Man.", hu: "Kiváló minőségű kávétermesztés Man hegyvidéki régiójában.", ro: "Cultivarea cafelei de înaltă calitate în regiunea muntoasă de lângă Man.", en: "High-quality coffee cultivation in the mountainous region near Man." , es: "Cultivo de café de alta calidad en la región montañosa cerca de Man.", pt: "Cultivo de café de alta qualidade na região montanhosa perto de Man.", fr: "Culture de café de haute qualité dans la région montagneuse près de Man."},
     facts: {
       de: ["Robusta-Kaffee ist hier verbreitet.", "Das Klima ist ideal für Kaffeepflanzen."],
@@ -687,7 +682,6 @@ export const poiExtraIvorycoastLifeV2: POI[] = [
     parent: "CI-BS",
     coords: [-6.602, 5.776],
     name: { de: "Tierpark Soubré", hu: "Soubré Állatpark", ro: "Parc zoologic Soubré", en: "Soubré Animal Park"},
-    image: "/poi-images/parc-animalier-soubre-life-v2.webp",
     description: { de: "Ein kleiner Tierpark, der lokale Arten präsentiert.", hu: "Egy kis állatpark, amely a helyi fajokat mutatja be.", ro: "O grădină zoologică mică care prezintă specii locale.", en: "A small zoo showcasing local species." , es: "Un pequeño parque de animales que presenta especies locales.", pt: "Um pequeno parque de animais que apresenta espécies locais.", fr: "Un petit parc animalier présentant des espèces locales."},
     facts: {
       de: ["Fokus auf einheimische Fauna.", "Bildungsprogramme für Kinder."],

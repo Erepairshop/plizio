@@ -8,7 +8,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-AT",
     coords: [-86.8647, 15.5833],
     name: { de: "Pico Bonito Gebirgszug", hu: "Pico Bonito-hegység", ro: "Munții Pico Bonito", en: "Pico Bonito Range"},
-    image: "/poi-images/hn-montanas-de-pico-bonito-relief-v2.webp",
     description: { de: "Eine steile Bergkette, die das Küstenland von La Ceiba überragt.", hu: "Meredek hegylánc, amely La Ceiba tengerparti síksága fölé magasodik.", ro: "Un lanț muntos abrupt care domină câmpia de coastă a orașului La Ceiba.", en: "A steep mountain range overlooking the coastal plains of La Ceiba." , es: "Una cadena montañosa empinada que domina la costa de La Ceiba.", pt: "Uma cadeia de montanhas íngreme que domina a costa de La Ceiba.", fr: "Une chaîne de montagnes escarpée dominant la côte de La Ceiba."},
     facts: {
       de: ["Höhe bis 2435 m", "Teil der Cordillera Nombre de Dios", "Dichte Nebelwälder", "Steile Klippen"],
@@ -43,7 +42,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-CR",
     coords: [-88.3500, 15.4500],
     name: { de: "Merendón Gebirge", hu: "Merendón-hegység", ro: "Munții Merendón", en: "Merendón Mountains"},
-    image: "/poi-images/hn-cordillera-merendon-relief-v2.webp",
     description: { de: "Ein bedeutendes Gebirge an der Grenze zu Guatemala.", hu: "Jelentős hegység a guatemalai határ mentén.", ro: "Un lanț muntos semnificativ la granița cu Guatemala.", en: "A major mountain range located along the border with Guatemala." , es: "Una cordillera importante en la frontera con Guatemala.", pt: "Uma cordilheira importante na fronteira com a Guatemala.", fr: "Une chaîne de montagnes importante à la frontière avec le Guatemala."},
     facts: {
       de: ["Erstreckt sich bis nach Guatemala", "Bedeutendes Wassereinzugsgebiet", "Beheimatet viele Nebelwälder", "Kühle Temperaturen in der Höhe"],
@@ -78,7 +76,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-AT",
     coords: [-86.9500, 15.6500],
     name: { de: "Cordillera Nombre de Dios", hu: "Nombre de Dios-hegység", ro: "Cordillera Nombre de Dios", en: "Cordillera Nombre de Dios"},
-    image: "/poi-images/hn-cordillera-nombre-de-dios-relief-v2.webp",
     description: { de: "Eine spektakuläre Bergkette an der Nordküste.", hu: "Látványos hegylánc az északi parton.", ro: "Un lanț muntos spectaculos pe coasta de nord.", en: "A spectacular mountain range on the northern coast." , es: "Una espectacular cadena montañosa en la costa norte.", pt: "Uma espectacular cadeia montanhosa na costa norte.", fr: "Une chaîne de montagnes spectaculaire sur la côte nord."},
     facts: {
       de: ["Verläuft parallel zur Küste", "Beherbergt den Pico Bonito", "Sehr zerklüftetes Gelände", "Reich an Wildtieren"],
@@ -113,7 +110,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-CR",
     coords: [-87.9000, 15.4500],
     name: { de: "Sula Tal", hu: "Sula-völgy", ro: "Valea Sula", en: "Sula Valley"},
-    image: "/poi-images/hn-valle-de-sula-relief-v2.webp",
     description: { de: "Das wirtschaftlich wichtigste Tiefland in Honduras.", hu: "Honduras gazdaságilag legfontosabb alföldje.", ro: "Cea mai importantă zonă joasă din punct de vedere economic din Honduras.", en: "The most economically significant lowland region in Honduras." , es: "Las tierras bajas económicamente más importantes de Honduras.", pt: "As planícies economicamente mais importantes de Honduras.", fr: "Les terres basses les plus importantes du Honduras sur le plan économique."},
     facts: {
       de: ["Fruchtbare Böden", "Zentrum der Bananenproduktion", "Dicht besiedelt", "Fluss Ulúa durchquert es"],
@@ -148,7 +144,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-CR",
     coords: [-87.9000, 14.8500],
     name: { de: "Cerro Azul Meambar", hu: "Cerro Azul Meambar", ro: "Cerro Azul Meambar", en: "Cerro Azul Meambar"},
-    image: "/poi-images/hn-cerro-azul-meambar-relief-v2.webp",
     description: { de: "Ein geschütztes Bergmassiv in der Nähe des Yojoa-Sees.", hu: "Védett hegymasszívum a Yojoa-tó közelében.", ro: "Un masiv muntos protejat lângă Lacul Yojoa.", en: "A protected mountain massif near Lake Yojoa." , es: "Un macizo montañoso protegido situado cerca del lago de Yojoa.", pt: "Um maciço montanhoso protegido localizado perto do Lago de Yojoa.", fr: "Un massif montagneux protégé situé à proximité du lac de Yojoa."},
     facts: {
       de: ["Höhe bis 2047 m", "Reicher Nebelwald", "Wichtiger Wasserlieferant", "Dichter Urwald"],
@@ -183,7 +178,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-OL",
     coords: [-86.2000, 15.2000],
     name: { de: "Botaderos Gebirge", hu: "Botaderos-hegység", ro: "Munții Botaderos", en: "Botaderos Mountains"},
-    image: "/poi-images/hn-montana-de-botaderos-relief-v2.webp",
     description: { de: "Ein abgelegenes Gebirgsgebiet im Osten des Landes.", hu: "Távoli hegyvidéki terület az ország keleti részén.", ro: "O zonă muntoasă izolată în estul țării.", en: "A remote mountain area in the east of the country." , es: "Una zona montañosa remota en el este del país.", pt: "Uma área montanhosa remota no leste do país.", fr: "Une zone montagneuse isolée dans l'est du pays."},
     facts: {
       de: ["Hohe Biodiversität", "Kaum erschlossen", "Dichter Regenwald", "Wichtiger Lebensraum"],
@@ -218,7 +212,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-CR",
     coords: [-88.4000, 15.3500],
     name: { de: "Hoch Merendón", hu: "Magas-Merendón", ro: "Munții Merendón înalți", en: "High Merendón"},
-    image: "/poi-images/hn-cordillera-de-el-merendon-high-relief-v2.webp",
     description: { de: "Die höchsten Abschnitte der Merendón-Bergkette.", hu: "A Merendón-hegység legmagasabb szakaszai.", ro: "Cele mai înalte secțiuni ale lanțului Merendón.", en: "The highest reaches of the Merendón mountain range." , es: "Las secciones más elevadas de la cordillera de El Merendón.", pt: "As secções mais elevadas da cordilheira de El Merendón.", fr: "Les sections les plus élevées de la cordillère d'El Merendón."},
     facts: {
       de: ["Kaltes Klima", "Berühmte Wanderrouten", "Neblige Gipfel", "Steiles Gelände"],
@@ -253,7 +246,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-IN",
     coords: [-88.1000, 14.3000],
     name: { de: "La Esperanza Plateau", hu: "La Esperanza-fennsík", ro: "Platoul La Esperanza", en: "La Esperanza Plateau"},
-    image: "/poi-images/hn-meseta-de-la-esperanza-relief-v2.webp",
     description: { de: "Ein hochgelegenes Plateau, bekannt für sein kühleres Klima.", hu: "Magasan fekvő fennsík, amely hűvösebb éghajlatáról ismert.", ro: "Un platou înalt, cunoscut pentru clima sa mai răcoroasă.", en: "A high-altitude plateau known for its cooler climate." , es: "Una meseta elevada, conocida por su clima más fresco.", pt: "Um planalto elevado, conhecido pelo seu clima mais fresco.", fr: "Un haut plateau réputé pour son climat plus frais."},
     facts: {
       de: ["Höhe ca. 1600 m", "Kühles Hochlandklima", "Landwirtschaftliche Region", "Zentrum der Lenca"],
@@ -288,7 +280,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-PA",
     coords: [-88.0500, 14.1500],
     name: { de: "La Paz Gebirge", hu: "La Paz-hegység", ro: "Munții La Paz", en: "La Paz Mountains"},
-    image: "/poi-images/hn-cordillera-de-la-paz-relief-v2.webp",
     description: { de: "Eine bergige Region im südwestlichen Teil des Landes.", hu: "Hegyvidéki régió az ország délnyugati részén.", ro: "O regiune muntoasă în partea de sud-vest a țării.", en: "A mountainous region in the southwestern part of the country." , es: "Una región montañosa en la parte suroeste del país.", pt: "Uma região montanhosa na parte sudoeste do país.", fr: "Une région montagneuse dans la partie sud-ouest du pays."},
     facts: {
       de: ["Zerklüftetes Gelände", "Trockenere Gebiete", "Traditionelle Landwirtschaft", "Schöne Ausblicke"],
@@ -323,7 +314,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-CL",
     coords: [-85.5500, 15.6500],
     name: { de: "Capiro Gebirge", hu: "Capiro-hegység", ro: "Munții Capiro", en: "Capiro Mountains"},
-    image: "/poi-images/hn-montana-de-capiro-relief-v2.webp",
     description: { de: "Ein bewaldetes Bergmassiv nahe der Karibikküste.", hu: "Erdős hegymasszívum a karibi part közelében.", ro: "Un masiv muntos împădurit lângă coasta Caraibelor.", en: "A forested mountain massif near the Caribbean coast." , es: "Un macizo montañoso boscoso cerca de la costa del Caribe.", pt: "Um maciço montanhoso arborizado perto da costa das Caraíbas.", fr: "Un massif montagneux boisé près de la côte caraïbe."},
     facts: {
       de: ["Dichter Tropenwald", "Reiche Flora", "Abgelegene Lage", "Natürliche Barriere"],
@@ -358,7 +348,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-CM",
     coords: [-87.6500, 14.4500],
     name: { de: "Comayagua Tal", hu: "Comayagua-völgy", ro: "Valea Comayagua", en: "Comayagua Valley"},
-    image: "/poi-images/hn-valle-de-comayagua-relief-v2.webp",
     description: { de: "Ein fruchtbares Tal im Zentrum von Honduras.", hu: "Termékeny völgy Honduras központjában.", ro: "O vale fertilă în centrul Hondurasului.", en: "A fertile valley in the center of Honduras." , es: "Un valle fértil en el centro de Honduras.", pt: "Um vale fértil no centro de Honduras.", fr: "Une vallée fertile au centre du Honduras."},
     facts: {
       de: ["Historisches Zentrum", "Günstiges Klima", "Landwirtschaftliche Nutzung", "Umgeben von Bergen"],
@@ -393,7 +382,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-OL",
     coords: [-85.9000, 15.1500],
     name: { de: "Sierra de Agalta", hu: "Sierra de Agalta", ro: "Sierra de Agalta", en: "Sierra de Agalta"},
-    image: "/poi-images/hn-sierra-de-agalta-relief-v2.webp",
     description: { de: "Ein bedeutender Nebelwald-Nationalpark im östlichen Honduras.", hu: "Jelentős köderdő-nemzeti park Kelet-Hondurasban.", ro: "Un parc național important cu pădure de ceață în estul Hondurasului.", en: "A significant cloud forest national park in eastern Honduras." , es: "Un importante parque nacional de bosque nuboso en el este de Honduras.", pt: "Um importante parque nacional de floresta de nuvens no leste de Honduras.", fr: "Un parc national de forêt de nuages majeur dans l'est du Honduras."},
     facts: {
       de: ["Höhe bis 2354 m", "Schutzgebiet", "Sehr wasserreich", "Dichter Wald"],
@@ -428,7 +416,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-CL",
     coords: [-86.2000, 15.6500],
     name: { de: "Aguán Tal", hu: "Aguán-völgy", ro: "Valea Aguán", en: "Aguán Valley"},
-    image: "/poi-images/hn-valle-de-aguán-relief-v2.webp",
     description: { de: "Ein langes, fruchtbares Flusstal in Nordhonduras.", hu: "Hosszú, termékeny folyóvölgy Észak-Hondurasban.", ro: "O vale lungă și fertilă a unui râu în nordul Hondurasului.", en: "A long, fertile river valley in northern Honduras." , es: "Un valle fluvial largo y fértil en el norte de Honduras.", pt: "Um vale fluvial longo e fértil no norte de Honduras.", fr: "Une longue et fertile vallée fluviale dans le nord du Honduras."},
     facts: {
       de: ["Wichtige Bananenregion", "Langer Fluss", "Tropisches Klima", "Intensive Landwirtschaft"],
@@ -463,7 +450,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-YO",
     coords: [-87.3500, 15.3000],
     name: { de: "Yoro Berge", hu: "Yoro-hegység", ro: "Munții Yoro", en: "Yoro Mountains"},
-    image: "/poi-images/hn-montanas-de-yoro-relief-v2.webp",
     description: { de: "Eine bergige Region im Herzen des Departements Yoro.", hu: "Hegyvidéki régió Yoro megye szívében.", ro: "O regiune muntoasă în inima departamentului Yoro.", en: "A mountainous region in the heart of the Yoro department." , es: "Una región montañosa en el corazón del departamento de Yoro.", pt: "Uma região montanhosa no coração do departamento de Yoro.", fr: "Une région montagneuse au cœur du département de Yoro."},
     facts: {
       de: ["Zerklüftete Hügel", "Traditionelle Dörfer", "Nebelwald-Reste", "Wichtige Wasserscheide"],
@@ -498,7 +484,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-CR",
     coords: [-88.0000, 15.8000],
     name: { de: "Sierra de Omoa", hu: "Sierra de Omoa", ro: "Sierra de Omoa", en: "Sierra de Omoa"},
-    image: "/poi-images/hn-sierra-de-omao-relief-v2.webp",
     description: { de: "Ein Küstengebirge westlich von San Pedro Sula.", hu: "Partmenti hegység San Pedro Sulától nyugatra.", ro: "Un lanț muntos de coastă la vest de San Pedro Sula.", en: "A coastal mountain range west of San Pedro Sula." , es: "Una cordillera costera al oeste de San Pedro Sula.", pt: "Uma cordilheira costeira a oeste de San Pedro Sula.", fr: "Une chaîne de montagnes côtière à l'ouest de San Pedro Sula."},
     facts: {
       de: ["Direkt an der Küste", "Tropischer Regenwald", "Steile Hänge", "Reich an Flora"],
@@ -533,7 +518,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-CH",
     coords: [-87.1500, 13.3000],
     name: { de: "Choluteca Tal", hu: "Choluteca-völgy", ro: "Valea Choluteca", en: "Choluteca Valley"},
-    image: "/poi-images/hn-valle-de-choluteca-relief-v2.webp",
     description: { de: "Eine trockene Ebene im Süden des Landes.", hu: "Száraz síkság az ország déli részén.", ro: "O câmpie aridă în sudul țării.", en: "A dry plain in the south of the country." , es: "Una llanura árida situada en el sur del país.", pt: "Uma planície árida situada no sul do país.", fr: "Une plaine aride située dans le sud du pays."},
     facts: {
       de: ["Heißes Klima", "Trockenwald", "Hauptsächlich Viehzucht", "Trockenzeit-geprägt"],
@@ -568,7 +552,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-IN",
     coords: [-88.3500, 13.9000],
     name: { de: "Colomoncagua Berge", hu: "Colomoncagua-hegység", ro: "Munții Colomoncagua", en: "Colomoncagua Mountains"},
-    image: "/poi-images/hn-montanas-de-colomoncagua-relief-v2.webp",
     description: { de: "Eine bergige Gegend nahe der Grenze zu El Salvador.", hu: "Hegyvidéki környék az El Salvador-i határ közelében.", ro: "O zonă muntoasă lângă granița cu El Salvador.", en: "A mountainous area near the border with El Salvador." , es: "Una zona montañosa cerca de la frontera con El Salvador.", pt: "Uma área montanhosa perto da fronteira com El Salvador.", fr: "Une zone montagneuse proche de la frontière avec El Salvador."},
     facts: {
       de: ["Zerklüftet", "Ländlich", "Wichtige Kulturregion", "Schöne Ausblicke"],
@@ -603,7 +586,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-EL",
     coords: [-86.8500, 13.7500],
     name: { de: "Sierra de Dipilto", hu: "Sierra de Dipilto", ro: "Sierra de Dipilto", en: "Sierra de Dipilto"},
-    image: "/poi-images/hn-sierra-de-dipilto-relief-v2.webp",
     description: { de: "Eine Bergkette, die die Grenze zu Nicaragua markiert.", hu: "Hegylánc, amely a nicaraguai határt jelzi.", ro: "Un lanț muntos care marchează granița cu Nicaragua.", en: "A mountain range that marks the border with Nicaragua." , es: "Una cadena montañosa que marca la frontera con Nicaragua.", pt: "Uma cadeia de montanhas que marca a fronteira com a Nicarágua.", fr: "Une chaîne de montagnes marquant la frontière avec le Nicaragua."},
     facts: {
       de: ["Grenzgebirge", "Kühles Klima", "Pinienwälder", "Reiches Ökosystem"],
@@ -638,7 +620,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-YO",
     coords: [-87.3500, 14.9500],
     name: { de: "Sierra de Sulaco", hu: "Sierra de Sulaco", ro: "Sierra de Sulaco", en: "Sierra de Sulaco"},
-    image: "/poi-images/hn-montanas-de-la-sierra-de-sulaco-relief-v2.webp",
     description: { de: "Ein bedeutendes Bergmassiv in Zentral-Honduras.", hu: "Jelentős hegymasszívum Közép-Hondurasban.", ro: "Un masiv muntos semnificativ în centrul Hondurasului.", en: "A significant mountain massif in central Honduras." , es: "Un importante macizo montañoso en el centro de Honduras.", pt: "Um importante maciço montanhoso no centro de Honduras.", fr: "Un massif montagneux important au centre du Honduras."},
     facts: {
       de: ["Höhe über 2000 m", "Reicher Urwald", "Wichtige Wasserquelle", "Steil"],
@@ -673,7 +654,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-EL",
     coords: [-86.7500, 14.0500],
     name: { de: "Jamastrán Tal", hu: "Jamastrán-völgy", ro: "Valea Jamastrán", en: "Jamastrán Valley"},
-    image: "/poi-images/hn-valle-de-jamastran-relief-v2.webp",
     description: { de: "Ein großes, fruchtbares Tal im Departement El Paraíso.", hu: "Nagy, termékeny völgy El Paraíso megyében.", ro: "O vale mare și fertilă în departamentul El Paraíso.", en: "A large, fertile valley in the El Paraíso department." , es: "Un gran valle fértil en el departamento de El Paraíso.", pt: "Um grande vale fértil no departamento de El Paraíso.", fr: "Une grande vallée fertile dans le département d'El Paraíso."},
     facts: {
       de: ["Landwirtschaftliches Herz", "Tabakanbau", "Günstiges Klima", "Flaches Land"],
@@ -708,7 +688,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-IN",
     coords: [-88.2000, 14.5000],
     name: { de: "Sierra de la Esperanza", hu: "Sierra de la Esperanza", ro: "Sierra de la Esperanza", en: "Sierra de la Esperanza"},
-    image: "/poi-images/hn-cordillera-de-la-esperanza-relief-v2.webp",
     description: { de: "Eine Hochland-Gebirgskette.", hu: "Hegyvidéki hegylánc.", ro: "Un lanț muntos de altitudine.", en: "A highland mountain range." , es: "Una cadena montañosa de tierras altas.", pt: "Uma cadeia montanhosa de terras altas.", fr: "Une chaîne de montagnes des hauts plateaux."},
     facts: {
       de: ["Hohe Gipfel", "Nebelwald-Fragmente", "Landwirtschaft", "Kühl"],
@@ -743,7 +722,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-FM",
     coords: [-87.0500, 14.7000],
     name: { de: "Montaña de la Flor", hu: "Montaña de la Flor", ro: "Montaña de la Flor", en: "Montaña de la Flor"},
-    image: "/poi-images/hn-montana-de-flor-relief-v2.webp",
     description: { de: "Ein bedeutendes Berggebiet, Heimat der Tolupán-Indigenen.", hu: "Jelentős hegyvidéki terület, a tolupán őslakosok otthona.", ro: "O zonă muntoasă semnificativă, casa indigenilor Tolupán.", en: "A significant mountain area, home to the Tolupán indigenous people." , es: "Una zona montañosa importante, hogar de los indígenas Tolupán.", pt: "Uma área montanhosa importante, lar dos indígenas Tolupán.", fr: "Une zone montagneuse majeure, terre des indigènes Tolupán."},
     facts: {
       de: ["Kulturelles Zentrum", "Hohes Bergland", "Dichte Wälder", "Abgeschieden"],
@@ -778,7 +756,6 @@ export const poiExtraHondurasReliefV2: POI[] = [
     parent: "HN-CR",
     coords: [-88.1500, 15.1500],
     name: { de: "Sierra de Atá", hu: "Sierra de Atá", ro: "Sierra de Atá", en: "Sierra de Atá"},
-    image: "/poi-images/hn-sierra-de-ata-relief-v2.webp",
     description: { de: "Ein Bergzug im westlichen Honduras.", hu: "Hegylánc Nyugat-Hondurasban.", ro: "Un lanț muntos în vestul Hondurasului.", en: "A mountain range in western Honduras." , es: "Una cordillera en el oeste de Honduras.", pt: "Uma cordilheira no oeste de Honduras.", fr: "Une chaîne de montagnes dans l'ouest du Honduras."},
     facts: {
       de: ["Zerklüftet", "Tropische Vegetation", "Wichtiges Habitat", "Steil"],

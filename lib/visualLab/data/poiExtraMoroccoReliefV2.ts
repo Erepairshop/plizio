@@ -8,7 +8,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-01",
     coords: [-7.9, 31.0],
     name: { de: "Hoher Atlas", hu: "Magas-Atlasz", ro: "Atlasul Înalt", en: "High Atlas"},
-    image: "/poi-images/atlas-mountains-relief-v2.webp",
     description: { de: "Das höchste Gebirge Nordafrikas.", hu: "Észak-Afrika legmagasabb hegysége.", ro: "Cel mai înalt lanț muntos din Africa de Nord.", en: "The highest mountain range in North Africa." , es: "La cordillera más alta del norte de África.", pt: "A cordilheira mais alta do Norte de África.", fr: "La plus haute chaîne de montagnes d'Afrique du Nord."},
     facts: {
       de: ["Höchster Gipfel ist der Toubkal.", "Trennung von Sahara und Küste."],
@@ -43,7 +42,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-01",
     coords: [-7.91, 31.06],
     name: { de: "Jbel Toubkal", hu: "Dzsebel Tubkal", ro: "Jbel Toubkal", en: "Jbel Toubkal"},
-    image: "/poi-images/mount-toubkal-relief-v2.webp",
     description: { de: "Der höchste Berg Marokkos und Nordafrikas.", hu: "Marokkó és Észak-Afrika legmagasabb hegye.", ro: "Cel mai înalt munte din Maroc și Africa de Nord.", en: "The highest mountain in Morocco and North Africa." , es: "La montaña más alta de Marruecos y del norte de África.", pt: "A montanha mais alta de Marrocos e do Norte de África.", fr: "La plus haute montagne du Maroc et d'Afrique du Nord."},
     facts: {
       de: ["Höhe 4167 Meter.", "Beliebtes Ziel für Wanderer."],
@@ -123,7 +121,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-05",
     coords: [-8.5, 29.5],
     name: { de: "Anti-Atlas", hu: "Anti-Atlasz", ro: "Anti-Atlas", en: "Anti-Atlas"},
-    image: "/poi-images/anti-atlas-relief-v2.webp",
     description: { de: "Ein Gebirgszug im Süden Marokkos.", hu: "Hegységrendszer Marokkó déli részén.", ro: "Un lanț muntos în sudul Marocului.", en: "A mountain range in the south of Morocco." , es: "Una cordillera en el sur de Marruecos.", pt: "Uma cordilheira no sul de Marrocos.", fr: "Une chaîne de montagnes dans le sud du Maroc."},
     facts: {
       de: ["Dehnt sich bis zum Atlantik aus.", "Trockene klimatische Bedingungen."],
@@ -158,7 +155,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-06",
     coords: [-5.0, 33.5],
     name: { de: "Mittlerer Atlas", hu: "Középső-Atlasz", ro: "Atlasul Mijlociu", en: "Middle Atlas"},
-    image: "/poi-images/middle-atlas-relief-v2.webp",
     description: { de: "Gebirgsregion bekannt für Zedernwälder.", hu: "Cédruserdőiről ismert hegyvidéki régió.", ro: "Regiune muntoasă cunoscută pentru pădurile de cedru.", en: "Mountain region known for cedar forests." , es: "Región montañosa conocida por sus bosques de cedros.", pt: "Região montanhosa conhecida pelas florestas de cedros.", fr: "Région montagneuse connue pour ses forêts de cèdres."},
     facts: {
       de: ["Zahlreiche Seen und Bäche.", "Wichtig für die Wasserversorgung."],
@@ -193,7 +189,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-07",
     coords: [-4.5, 35.0],
     name: { de: "Rif-Gebirge", hu: "Rif-hegység", ro: "Munții Rif", en: "Rif Mountains"},
-    image: "/poi-images/rif-mountains-relief-v2.webp",
     description: { de: "Gebirgskette im Norden Marokkos.", hu: "Hegységrendszer Marokkó északi részén.", ro: "Lanț muntos în nordul Marocului.", en: "Mountain range in northern Morocco." , es: "Cadena montañosa en el norte de Marruecos.", pt: "Cadeia de montanhas no norte de Marrocos.", fr: "Chaîne de montagnes dans le nord du Maroc."},
     facts: {
       de: ["Nahe dem Mittelmeer.", "Steile Hänge und Schluchten."],
@@ -228,7 +223,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-08",
     coords: [-6.0, 30.5],
     name: { de: "Drâa-Tal", hu: "Draa-völgy", ro: "Valea Drâa", en: "Drâa Valley"},
-    image: "/poi-images/draa-valley-relief-v2.webp",
     description: { de: "Langes Flusstal am Rande der Sahara.", hu: "Hosszú folyóvölgy a Szahara szélén.", ro: "Valea lungă a râului la marginea Saharei.", en: "Long river valley at the edge of the Sahara." , es: "Largo valle fluvial al borde del Sahara.", pt: "Longo vale fluvial na orla do Saara.", fr: "Longue vallée fluviale en bordure du Sahara."},
     facts: {
       de: ["Bekannt für seine Palmenhaine.", "Oasenreiche Region."],
@@ -488,7 +482,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-09",
     coords: [-5.9, 31.4],
     name: { de: "Dadès-Tal", hu: "Dadès-völgy", ro: "Valea Dadès", en: "Dadès Valley"},
-    image: "/poi-images/dadès-valley-relief-v2.webp",
     description: { de: "Spektakuläre Schlucht im Hohen Atlas.", hu: "Látványos kanyon a Magas-Atlaszban.", ro: "Canion spectaculos în Atlasul Înalt.", en: "Spectacular gorge in the High Atlas." , es: "Espectacular desfiladero en el Gran Atlas.", pt: "Desfiladeiro espetacular no Alto Atlas.", fr: "Gorges spectaculaires dans le Haut Atlas."},
     facts: {
       de: ["Bekannt als 'Tal der tausend Kasbahs'.", "Beeindruckende Felsformationen."],
@@ -820,7 +813,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-09",
     coords: [-5.6, 31.5],
     name: { de: "Todra-Schlucht", hu: "Todra-kanyon", ro: "Cheile Todra", en: "Todra Gorge"},
-    image: "/poi-images/todra-gorge-relief-v2.webp",
     description: { de: "Eine tiefe Schlucht im östlichen Hohen Atlas.", hu: "Mély kanyon a keleti Magas-Atlaszban.", ro: "Un canion adânc în Atlasul Înalt estic.", en: "A deep gorge in the eastern High Atlas." , es: "Un desfiladero profundo en el Alto Atlas oriental.", pt: "Um desfiladeiro profundo no Alto Atlas oriental.", fr: "Une gorge profonde dans le Haut Atlas oriental."},
     facts: {
       de: ["Hohe Kalksteinwände.", "Beliebt bei Kletterern."],
@@ -855,7 +847,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-10",
     coords: [-4.0, 30.0],
     name: { de: "Sahara", hu: "Szahara", ro: "Sahara", en: "Sahara"},
-    image: "/poi-images/sahara-desert-relief-v2.webp",
     description: { de: "Die größte Trockenwüste der Erde.", hu: "A Föld legnagyobb száraz sivataga.", ro: "Cel mai mare deșert arid de pe Pământ.", en: "The largest hot desert in the world." , es: "El desierto cálido más grande del mundo.", pt: "O maior deserto quente da Terra.", fr: "Le plus grand désert chaud de la Terre."},
     facts: {
       de: ["Sanddünen in Merzouga.", "Extrem arides Klima."],
@@ -890,7 +881,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-10",
     coords: [-4.0, 31.1],
     name: { de: "Dünen von Merzouga", hu: "Merzouga-dűnék", ro: "Dunele din Merzouga", en: "Merzouga Dunes"},
-    image: "/poi-images/merzouga-dunes-relief-v2.webp",
     description: { de: "Bekanntes Dünengebiet Erg Chebbi.", hu: "Híres dűnevidék, Erg Chebbi.", ro: "Zonă dunară faimoasă, Erg Chebbi.", en: "Famous dune area Erg Chebbi." , es: "Famosa zona de dunas de Erg Chebbi.", pt: "Famosa área de dunas de Erg Chebbi.", fr: "Zone de dunes célèbre de l'Erg Chebbi."},
     facts: {
       de: ["Hohe goldene Sanddünen.", "Wichtiges Tourismusziel."],
@@ -925,7 +915,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-12",
     coords: [-6.5, 33.6],
     name: { de: "Zaer-Plateau", hu: "Zaer-fennsík", ro: "Podișul Zaer", en: "Zaer Plateau"},
-    image: "/poi-images/zaer-plateau-relief-v2.webp",
     description: { de: "Eine hügelige Hochebene.", hu: "Dombos fennsík.", ro: "Un podiș deluros.", en: "A hilly plateau." , es: "Una meseta ondulada.", pt: "Um planalto ondulado.", fr: "Un plateau vallonné."},
     facts: {
       de: ["Landwirtschaftlich genutzt.", "Sanfte Hügellandschaft."],
@@ -960,7 +949,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-01",
     coords: [-9.0, 30.5],
     name: { de: "Sous-Tal", hu: "Sous-völgy", ro: "Valea Sous", en: "Sous Valley"},
-    image: "/poi-images/sous-valley-relief-v2.webp",
     description: { de: "Fruchtbares Tal zwischen Atlas und Anti-Atlas.", hu: "Termékeny völgy az Atlasz és az Anti-Atlasz között.", ro: "Vale fertilă între Atlas și Anti-Atlas.", en: "Fertile valley between the Atlas and Anti-Atlas." , es: "Valle fértil entre el Atlas y el Anti-Atlas.", pt: "Vale fértil entre o Atlas e o Anti-Atlas.", fr: "Vallée fertile entre l'Atlas et l'Anti-Atlas."},
     facts: {
       de: ["Bekannt für Arganbäume.", "Wichtiges Anbaugebiet für Zitrusfrüchte."],
@@ -995,7 +983,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-02",
     coords: [-2.8, 35.1],
     name: { de: "Lagune von Nador", hu: "Nadori-lagúna", ro: "Laguna din Nador", en: "Nador Lagoon"},
-    image: "/poi-images/nador-lagoon-relief-v2.webp",
     description: { de: "Große Lagune an der Mittelmeerküste.", hu: "Nagy lagúna a Földközi-tenger partján.", ro: "Lagună mare la coasta Mării Mediterane.", en: "Large lagoon on the Mediterranean coast." , es: "Gran laguna en la costa mediterránea.", pt: "Grande lagoa na costa mediterrânica.", fr: "Grande lagune sur la côte méditerranéenne."},
     facts: {
       de: ["Wichtiges Feuchtgebiet.", "Lebensraum für Zugvögel."],
@@ -1219,7 +1206,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-05",
     coords: [-10.0, 29.0],
     name: { de: "Ebenen von Guelmim", hu: "Guelmimi-síkság", ro: "Câmpiile din Guelmim", en: "Guelmim Plains"},
-    image: "/poi-images/guelmim-plains-relief-v2.webp",
     description: { de: "Trockene Ebenen im Südwesten.", hu: "Száraz síkságok délnyugaton.", ro: "Câmpii aride în sud-vest.", en: "Dry plains in the southwest." , es: "Llanuras áridas en el suroeste.", pt: "Planícies áridas no sudoeste.", fr: "Plaines arides au sud-ouest."},
     facts: {
       de: ["Übergang zur Wüste.", "Nomadenkultur."],
@@ -1254,7 +1240,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-05",
     coords: [-10.5, 29.2],
     name: { de: "Oued Noun", hu: "Oued Noun", ro: "Oued Noun", en: "Oued Noun"},
-    image: "/poi-images/oued-noun-valley-relief-v2.webp",
     description: { de: "Ein bedeutendes Wadi im Südwesten.", hu: "Fontos vádi délnyugaton.", ro: "Un wadi important în sud-vest.", en: "An important wadi in the southwest." , es: "Un uadi importante en el suroeste.", pt: "Um uádi importante no sudoeste.", fr: "Un oued important dans le sud-ouest."},
     facts: {
       de: ["Trockenflussbett.", "Historische Handelsroute."],
@@ -1802,7 +1787,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-06",
     coords: [-1.2, 32.1],
     name: { de: "Oase Figuig", hu: "Figuig oázis", ro: "Oaza Figuig", en: "Figuig Oasis"},
-    image: "/poi-images/figuig-oasis-relief-v2.webp",
     description: { de: "Eine isolierte Oase im Osten.", hu: "Izolált oázis keleten.", ro: "Oază izolată în est.", en: "An isolated oasis in the east." , es: "Un oasis aislado en el este.", pt: "Um oásis isolado no leste.", fr: "Une oasis isolée à l'est."},
     facts: {
       de: ["Palmenhaine.", "Wüstengrenze."],
@@ -1837,7 +1821,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-04",
     coords: [-5.5, 34.0],
     name: { de: "Hügel bei Moulay Idriss", hu: "Moulay Idriss környéki dombok", ro: "Dealurile de lângă Moulay Idriss", en: "Hills near Moulay Idriss"},
-    image: "/poi-images/moulay-idriss-hills-relief-v2.webp",
     description: { de: "Hügelige Landschaft um die heilige Stadt.", hu: "Dombos táj a szent város körül.", ro: "Peisaj deluros în jurul orașului sfânt.", en: "Hilly landscape around the holy town." , es: "Paisaje de colinas alrededor de la ciudad sagrada.", pt: "Paisagem de colinas em redor da cidade sagrada.", fr: "Paysage vallonné autour de la ville sainte."},
     facts: {
       de: ["Grüne Hügel.", "Umgebung für Wanderungen."],
@@ -1872,7 +1855,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-07",
     coords: [-6.0, 34.3],
     name: { de: "Sebou-Tal", hu: "Sebou-völgy", ro: "Valea Sebou", en: "Sebou Valley"},
-    image: "/poi-images/oued-sebou-valley-relief-v2.webp",
     description: { de: "Großes Tal im Norden Marokkos.", hu: "Nagy völgy Marokkó északi részén.", ro: "Vale mare în nordul Marocului.", en: "Large valley in northern Morocco." , es: "Gran valle en el norte de Marruecos.", pt: "Grande vale no norte de Marrocos.", fr: "Grande vallée dans le nord du Maroc."},
     facts: {
       de: ["Fruchtbares Ackerland.", "Wichtigster Fluss im Norden."],
@@ -1907,7 +1889,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-07",
     coords: [-5.0, 35.5],
     name: { de: "Klippen des Rif", hu: "Rif-sziklák", ro: "Stâncile Rif", en: "Rif Cliffs"},
-    image: "/poi-images/rif-cliffs-relief-v2.webp",
     description: { de: "Steile Küstenklippen am Mittelmeer.", hu: "Meredek tengerparti sziklák a Földközi-tenger mellett.", ro: "Stânci de coastă abrupte la Marea Mediterană.", en: "Steep coastal cliffs on the Mediterranean." , es: "Acantilados costeros escarpados en el Mediterráneo.", pt: "Falésias costeiras íngremes no Mediterrâneo.", fr: "Falaises côtières escarpées de la Méditerranée."},
     facts: {
       de: ["Spektakuläre Aussicht.", "Schroffe Küstenlinie."],
@@ -1942,7 +1923,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-08",
     coords: [-7.0, 31.5],
     name: { de: "Atlas-Vorgebirge", hu: "Atlasz-előhegység", ro: "Piemontul Atlasului", en: "Atlas Foothills"},
-    image: "/poi-images/atlas-foothills-relief-v2.webp",
     description: { de: "Sanfte Hügel am Fuß des Hohen Atlas.", hu: "Szelíd dombok a Magas-Atlasz lábánál.", ro: "Dealuri blânde la poalele Atlasului Înalt.", en: "Gentle hills at the foot of the High Atlas." , es: "Colinas suaves al pie del Gran Atlas.", pt: "Colinas suaves no sopé do Alto Atlas.", fr: "Collines douces au pied du Haut Atlas."},
     facts: {
       de: ["Übergangszone.", "Traditionelle Dörfer."],
@@ -1977,7 +1957,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-05",
     coords: [-9.7, 29.7],
     name: { de: "Ebene von Tiznit", hu: "Tiznit-síkság", ro: "Câmpia Tiznit", en: "Tiznit Plain"},
-    image: "/poi-images/tiznit-plain-relief-v2.webp",
     description: { de: "Flache Ebene nahe der Atlantikküste.", hu: "Lapos síkság az Atlanti-óceán közelében.", ro: "Câmpie plană lângă coasta Atlanticului.", en: "Flat plain near the Atlantic coast." , es: "Llanura plana cerca de la costa atlántica.", pt: "Planície plana perto da costa atlântica.", fr: "Plaine plate près de la côte atlantique."},
     facts: {
       de: ["Günstiges Klima.", "Landwirtschaftliche Nutzung."],
@@ -2012,7 +1991,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-01",
     coords: [-9.0, 31.6],
     name: { de: "Tensift-Tal", hu: "Tensift-völgy", ro: "Valea Tensift", en: "Tensift Valley"},
-    image: "/poi-images/oued-tensift-valley-relief-v2.webp",
     description: { de: "Flusstal bei Marrakesch.", hu: "Folyóvölgy Marrákes közelében.", ro: "Valea râului lângă Marrakech.", en: "River valley near Marrakech." , es: "Valle fluvial cerca de Marrakech.", pt: "Vale fluvial perto de Marraquexe.", fr: "Vallée fluviale près de Marrakech."},
     facts: {
       de: ["Wasserquelle für die Region.", "Wadi-System."],
@@ -2047,7 +2025,6 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     parent: "MA-11",
     coords: [-3.0, 33.0],
     name: { de: "Hohe Plateaus", hu: "Magas-fennsíkok", ro: "Podișurile Înalte", en: "High Plateaus"},
-    image: "/poi-images/high-plateaus-relief-v2.webp",
     description: { de: "Trockene Hochebenen im Osten.", hu: "Száraz fennsíkok keleten.", ro: "Podișuri aride în est.", en: "Dry plateaus in the east." , es: "Mesetas áridas en el este.", pt: "Planaltos áridos no leste.", fr: "Hauts plateaux arides à l'est."},
     facts: {
       de: ["Halbwüstenklima.", "Große Flächen."],

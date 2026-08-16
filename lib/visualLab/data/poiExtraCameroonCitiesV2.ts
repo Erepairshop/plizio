@@ -38,7 +38,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-LT",
     coords: [9.7, 4.05],
     name: { de: "Douala", hu: "Douala", ro: "Douala", en: "Douala"},
-    image: "/poi-images/cameroon-douala-cities-v2.webp",
     description: { de: "Douala ist das wirtschaftliche Zentrum und die größte Stadt Kameruns, gelegen am Wouri-Fluss mit dem wichtigsten Hafen des Landes.", hu: "Douala Kamerun gazdasági központja és legnagyobb városa, amely a Wouri folyó partján fekszik az ország legfontosabb kikötőjével.", ro: "Douala este centrul economic și cel mai mare oraș din Camerun, situat pe râul Wouri, cu cel mai important port al țării.", en: "Douala is the economic hub and largest city of Cameroon, located on the Wouri River with the country's most important port." , es: "Douala es el centro económico y la ciudad más grande de Camerún, situada a orillas del río Wouri con el puerto más importante del país.", pt: "Douala é o centro económico e a maior cidade dos Camarões, situada no rio Wouri com o porto mais importante do país.", fr: "Douala est le centre économique et la plus grande ville du Cameroun, située sur le fleuve Wouri avec le port le plus important du pays."},
     facts: {
       de: ["Wichtigster Exporthafen Kameruns.", "Besitzt den geschäftigsten internationalen Flughafen."],
@@ -67,7 +66,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-NO",
     coords: [13.4, 9.3],
     name: { de: "Garoua", hu: "Garoua", ro: "Garoua", en: "Garoua"},
-    image: "/poi-images/cameroon-garoua-cities-v2.webp",
     description: { de: "Garoua ist eine bedeutende Stadt im Norden Kameruns, gelegen am Benue-Fluss und ein Zentrum für die Textilindustrie.", hu: "Garoua egy jelentős város Észak-Kamerunban, a Benue folyó partján, amely a textilipar egyik központja.", ro: "Garoua este un oraș important din nordul Camerunului, situat pe râul Benue, un centru al industriei textile.", en: "Garoua is a major city in northern Cameroon, located on the Benue River and a center for the textile industry." , es: "Garoua es una ciudad importante en el norte de Camerún, situada junto al río Benue y un centro para la industria textil.", pt: "Garoua é uma cidade importante no norte dos Camarões, situada no rio Benue e um centro para a indústria têxtil.", fr: "Garoua est une ville importante du Nord-Cameroun, située sur le fleuve Bénoué et un centre pour l'industrie textile."},
     facts: {
       de: ["Wichtiger Flusshafen.", "Zentrum der Baumwollverarbeitung."],
@@ -96,7 +94,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-NW",
     coords: [10.15, 5.95],
     name: { de: "Bamenda", hu: "Bamenda", ro: "Bamenda", en: "Bamenda"},
-    image: "/poi-images/cameroon-bamenda-cities-v2.webp",
     description: { de: "Bamenda ist die Hauptstadt der Nordwestregion, bekannt für ihr kühles Klima und ihre landschaftliche Schönheit im Hochland.", hu: "Bamenda az Északnyugati régió fővárosa, amely hűvös éghajlatáról és a hegyvidéki festői szépségéről ismert.", ro: "Bamenda este capitala regiunii Nord-Vest, cunoscută pentru clima sa răcoroasă și frumusețea peisajelor montane.", en: "Bamenda is the capital of the Northwest region, known for its cool climate and scenic beauty in the highlands." , es: "Bamenda es la capital de la región del Noroeste, conocida por su clima fresco y su belleza paisajística en las tierras altas.", pt: "Bamenda é a capital da região Noroeste, conhecida pelo seu clima fresco e beleza cénica no planalto.", fr: "Bamenda est le chef-lieu de la région du Nord-Ouest, connue pour son climat frais et la beauté de ses paysages sur les hauts plateaux."},
     facts: {
       de: ["Zentrum der englischsprachigen Region.", "Wichtiger Markt für landwirtschaftliche Produkte."],
@@ -206,7 +203,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-EN",
     coords: [14.3167, 10.5833],
     name: { de: "Maroua", hu: "Maroua", ro: "Maroua", en: "Maroua"},
-    image: "/poi-images/cameroon-maroua-cities-v2.webp",
     description: { de: "Maroua, die Hauptstadt der Region Extrême-Nord, ist berühmt für ihre traditionelle Architektur und den lebhaften Markt.", hu: "Maroua, a Távol-Észak régió fővárosa, híres hagyományos építészetéről és nyüzsgő piacáról.", ro: "Maroua, capitala regiunii Extrême-Nord, este renumită pentru arhitectura sa tradițională și piața plină de viață.", en: "Maroua, the capital of the Far North region, is famous for its traditional architecture and lively market." , es: "Maroua, la capital de la región del Extremo Norte, es famosa por su arquitectura tradicional y su animado mercado.", pt: "Maroua, a capital da região do Extremo Norte, é famosa pela sua arquitetura tradicional e pelo mercado animado.", fr: "Maroua, capitale de la région de l'Extrême-Nord, est célèbre pour son architecture traditionnelle et son marché animé."},
     facts: {
       de: ["Bekannt für Kunsthandwerk und Lederwaren.", "Wichtiger Knotenpunkt für den Handel mit den Nachbarländern."],
@@ -388,7 +384,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-OU",
     coords: [10.4167, 5.4667],
     name: { de: "Bafoussam", hu: "Bafoussam", ro: "Bafoussam", en: "Bafoussam"},
-    image: "/poi-images/cameroon-bafoussam-cities-v2.webp",
     description: { de: "Bafoussam ist eine wachsende Stadt im südlichen und zentralen Kamerun, umgeben von dichten Wäldern.", hu: "Bafoussam egy növekvő város Dél- és Közép-Kamerunban, amelyet sűrű erdők vesznek körül.", ro: "Bafoussam este un oraș în creștere în sudul și centrul Camerunului, înconjurat de păduri dense.", en: "Bafoussam is a growing city in southern and central Cameroon, surrounded by dense forests." , es: "Bafoussam es una ciudad en crecimiento en el sur y centro de Camerún, rodeada de densos bosques.", pt: "Bafoussam é uma cidade em crescimento no sul e centro dos Camarões, cercada por florestas densas.", fr: "Bafoussam est une ville en pleine croissance dans le sud et le centre du Cameroun, entourée de forêts denses."},
     facts: {
       de: ["Wichtig für die lokale Forst- und Landwirtschaft.", "Verbindet ländliche Gebiete mit den Großstädten."],
@@ -447,7 +442,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-ES",
     coords: [13.6833, 4.5833],
     name: { de: "Bertoua", hu: "Bertoua", ro: "Bertoua", en: "Bertoua"},
-    image: "/poi-images/cameroon-bertoua-cities-v2.webp",
     description: { de: "Bertoua ist eine wachsende Stadt im südlichen und zentralen Kamerun, umgeben von dichten Wäldern.", hu: "Bertoua egy növekvő város Dél- és Közép-Kamerunban, amelyet sűrű erdők vesznek körül.", ro: "Bertoua este un oraș în creștere în sudul și centrul Camerunului, înconjurat de păduri dense.", en: "Bertoua is a growing city in southern and central Cameroon, surrounded by dense forests." , es: "Bertoua es una ciudad en crecimiento en el sur y centro de Camerún, rodeada de densos bosques.", pt: "Bertoua é uma cidade em crescimento no sul e centro dos Camarões, rodeada por florestas densas.", fr: "Bertoua est une ville en pleine croissance dans le sud et le centre du Cameroun, entourée de forêts denses."},
     facts: {
       de: ["Wichtig für die lokale Forst- und Landwirtschaft.", "Verbindet ländliche Gebiete mit den Großstädten."],
@@ -476,7 +470,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-SU",
     coords: [11.15, 2.9],
     name: { de: "Ebolowa", hu: "Ebolowa", ro: "Ebolowa", en: "Ebolowa"},
-    image: "/poi-images/cameroon-ebolowa-cities-v2.webp",
     description: { de: "Ebolowa ist eine wachsende Stadt im südlichen und zentralen Kamerun, umgeben von dichten Wäldern.", hu: "Ebolowa egy növekvő város Dél- és Közép-Kamerunban, amelyet sűrű erdők vesznek körül.", ro: "Ebolowa este un oraș în creștere în sudul și centrul Camerunului, înconjurat de păduri dense.", en: "Ebolowa is a growing city in southern and central Cameroon, surrounded by dense forests." , es: "Ebolowa es una ciudad en crecimiento en el sur y centro de Camerún, rodeada de densos bosques.", pt: "Ebolowa é uma cidade em crescimento no sul e centro dos Camarões, rodeada por florestas densas.", fr: "Ebolowa est une ville en pleine croissance dans le sud et le centre du Cameroun, entourée de forêts denses."},
     facts: {
       de: ["Wichtig für die lokale Forst- und Landwirtschaft.", "Verbindet ländliche Gebiete mit den Großstädten."],
@@ -505,7 +498,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-SW",
     coords: [9.2333, 4.15],
     name: { de: "Buea", hu: "Buea", ro: "Buea", en: "Buea"},
-    image: "/poi-images/cameroon-buea-cities-v2.webp",
     description: { de: "Buea liegt in der fruchtbaren englischsprachigen Region und profitiert vom Anbau von Kaffee und Tee.", hu: "Buea a termékeny angol nyelvű régióban található, és a kávé- és teatermesztésből profitál.", ro: "Buea este situat în fertila regiune anglofonă și beneficiază de cultivarea cafelei și a ceaiului.", en: "Buea is located in the fertile English-speaking region and benefits from coffee and tea cultivation." , es: "Buea se encuentra en la fértil región de habla inglesa y se beneficia del cultivo de café y té.", pt: "Buea está localizada na fértil região de língua inglesa e beneficia do cultivo de café e chá.", fr: "Buea est située dans la fertile région anglophone et profite de la culture du café et du thé."},
     facts: {
       de: ["Umgeben von malerischen Hügeln.", "Teil des westlichen Hochlandes."],
@@ -648,7 +640,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-LT",
     coords: [9.7333, 4.7167],
     name: { de: "Loum", hu: "Loum", ro: "Loum", en: "Loum"},
-    image: "/poi-images/cameroon-loum-cities-v2.webp",
     description: { de: "Loum ist eine wachsende Stadt im südlichen und zentralen Kamerun, umgeben von dichten Wäldern.", hu: "Loum egy növekvő város Dél- és Közép-Kamerunban, amelyet sűrű erdők vesznek körül.", ro: "Loum este un oraș în creștere în sudul și centrul Camerunului, înconjurat de păduri dense.", en: "Loum is a growing city in southern and central Cameroon, surrounded by dense forests." , es: "Loum es una ciudad en crecimiento en el sur y centro de Camerún, rodeada de densos bosques.", pt: "Loum é uma cidade em crescimento no sul e centro dos Camarões, rodeada por florestas densas.", fr: "Loum est une ville en pleine croissance dans le sud et le centre du Cameroun, entourée de forêts denses."},
     facts: {
       de: ["Wichtig für die lokale Forst- und Landwirtschaft.", "Verbindet ländliche Gebiete mit den Großstädten."],
@@ -833,7 +824,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-SW",
     coords: [9.45, 4.6333],
     name: { de: "Kumba", hu: "Kumba", ro: "Kumba", en: "Kumba"},
-    image: "/poi-images/cameroon-kumba-cities-v2.webp",
     description: { de: "Kumba liegt in der fruchtbaren englischsprachigen Region und profitiert vom Anbau von Kaffee und Tee.", hu: "Kumba a termékeny angol nyelvű régióban található, és a kávé- és teatermesztésből profitál.", ro: "Kumba este situat în fertila regiune anglofonă și beneficiază de cultivarea cafelei și a ceaiului.", en: "Kumba is located in the fertile English-speaking region and benefits from coffee and tea cultivation." , es: "Kumba se encuentra en la fértil región de habla inglesa y se beneficia del cultivo de café y té.", pt: "Kumba situa-se na fértil região de língua inglesa e beneficia do cultivo de café e chá.", fr: "Kumba est située dans la fertile région anglophone et profite de la culture du café et du thé."},
     facts: {
       de: ["Umgeben von malerischen Hügeln.", "Teil des westlichen Hochlandes."],
@@ -943,7 +933,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-OU",
     coords: [10.9, 5.7167],
     name: { de: "Foumban", hu: "Foumban", ro: "Foumban", en: "Foumban"},
-    image: "/poi-images/cameroon-foumban-cities-v2.webp",
     description: { de: "Foumban ist eine wachsende Stadt im südlichen und zentralen Kamerun, umgeben von dichten Wäldern.", hu: "Foumban egy növekvő város Dél- és Közép-Kamerunban, amelyet sűrű erdők vesznek körül.", ro: "Foumban este un oraș în creștere în sudul și centrul Camerunului, înconjurat de păduri dense.", en: "Foumban is a growing city in southern and central Cameroon, surrounded by dense forests." , es: "Foumban es una ciudad en crecimiento en el sur y centro de Camerún, rodeada de densos bosques.", pt: "Foumban é uma cidade em crescimento no sul e centro dos Camarões, rodeada por florestas densas.", fr: "Foumban est une ville en pleine croissance dans le sud et le centre du Cameroun, entourée de forêts denses."},
     facts: {
       de: ["Wichtig für die lokale Forst- und Landwirtschaft.", "Verbindet ländliche Gebiete mit den Großstädten."],
@@ -1020,7 +1009,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-OU",
     coords: [10.25, 5.6333],
     name: { de: "Mbouda", hu: "Mbouda", ro: "Mbouda", en: "Mbouda"},
-    image: "/poi-images/cameroon-mbouda-cities-v2.webp",
     description: { de: "Mbouda ist eine wachsende Stadt im südlichen und zentralen Kamerun, umgeben von dichten Wäldern.", hu: "Mbouda egy növekvő város Dél- és Közép-Kamerunban, amelyet sűrű erdők vesznek körül.", ro: "Mbouda este un oraș în creștere în sudul și centrul Camerunului, înconjurat de păduri dense.", en: "Mbouda is a growing city in southern and central Cameroon, surrounded by dense forests." , es: "Mbouda es una ciudad en crecimiento en el sur y centro de Camerún, rodeada de densos bosques.", pt: "Mbouda é uma cidade em crescimento no sul e centro dos Camarões, rodeada por florestas densas.", fr: "Mbouda est une ville en pleine croissance dans le sud et le centre du Cameroun, entourée de forêts denses."},
     facts: {
       de: ["Wichtig für die lokale Forst- und Landwirtschaft.", "Verbindet ländliche Gebiete mit den Großstädten."],
@@ -1052,7 +1040,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-OU",
     coords: [10.05, 5.45],
     name: { de: "Dschang", hu: "Dschang", ro: "Dschang", en: "Dschang"},
-    image: "/poi-images/cameroon-dschang-cities-v2.webp",
     description: { de: "Dschang ist eine wachsende Stadt im südlichen und zentralen Kamerun, umgeben von dichten Wäldern.", hu: "Dschang egy növekvő város Dél- és Közép-Kamerunban, amelyet sűrű erdők vesznek körül.", ro: "Dschang este un oraș în creștere în sudul și centrul Camerunului, înconjurat de păduri dense.", en: "Dschang is a growing city in southern and central Cameroon, surrounded by dense forests." , es: "Dschang es una ciudad en crecimiento en el sur y centro de Camerún, rodeada de densos bosques.", pt: "Dschang é uma cidade em crescimento no sul e centro dos Camarões, rodeada por florestas densas.", fr: "Dschang est une ville en pleine croissance dans le sud et le centre du Cameroun, entourée de forêts denses."},
     facts: {
       de: ["Wichtig für die lokale Forst- und Landwirtschaft.", "Verbindet ländliche Gebiete mit den Großstädten."],
@@ -1165,7 +1152,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-LT",
     coords: [9.9333, 4.95],
     name: { de: "Nkongsamba", hu: "Nkongsamba", ro: "Nkongsamba", en: "Nkongsamba"},
-    image: "/poi-images/cameroon-nkongsamba-cities-v2.webp",
     description: { de: "Nkongsamba ist eine wachsende Stadt im südlichen und zentralen Kamerun, umgeben von dichten Wäldern.", hu: "Nkongsamba egy növekvő város Dél- és Közép-Kamerunban, amelyet sűrű erdők vesznek körül.", ro: "Nkongsamba este un oraș în creștere în sudul și centrul Camerunului, înconjurat de păduri dense.", en: "Nkongsamba is a growing city in southern and central Cameroon, surrounded by dense forests." , es: "Nkongsamba es una ciudad en crecimiento en el sur y centro de Camerún, rodeada de densos bosques.", pt: "Nkongsamba é uma cidade em crescimento no sul e centro dos Camarões, cercada por florestas densas.", fr: "Nkongsamba est une ville en pleine croissance dans le sud et le centre du Cameroun, entourée de forêts denses."},
     facts: {
       de: ["Wichtig für die lokale Forst- und Landwirtschaft.", "Verbindet ländliche Gebiete mit den Großstädten."],
@@ -1386,7 +1372,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-SU",
     coords: [9.9167, 2.95],
     name: { de: "Kribi", hu: "Kribi", ro: "Kribi", en: "Kribi"},
-    image: "/poi-images/cameroon-kribi-cities-v2.webp",
     description: { de: "Kribi ist ein beliebter Küstenort im Süden Kameruns, der für seine weißen Sandstrände und Wasserfälle direkt am Meer bekannt ist.", hu: "Kribi egy népszerű tengerparti város Dél-Kamerunban, amely fehér homokos strandjairól és a tengerbe ömlő vízesésekről ismert.", ro: "Kribi este o stațiune de coastă populară în sudul Camerunului, cunoscută pentru plajele sale cu nisip alb și cascadele direct la mare.", en: "Kribi is a popular coastal town in southern Cameroon, known for its white sandy beaches and waterfalls right by the sea." , es: "Kribi es una popular localidad costera del sur de Camerún, conocida por sus playas de arena blanca y cascadas junto al mar.", pt: "Kribi é uma estância costeira popular no sul dos Camarões, conhecida pelas suas praias de areia branca e cascatas junto ao mar.", fr: "Kribi est une station balnéaire populaire du sud du Cameroun, connue pour ses plages de sable blanc et ses chutes d'eau en bord de mer."},
     facts: {
       de: ["Verfügt über einen modernen Tiefseehafen.", "Ein wichtiges Ziel für den Tourismus."],
@@ -1640,7 +1625,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-CE",
     coords: [11.2333, 4.75],
     name: { de: "Bafia", hu: "Bafia", ro: "Bafia", en: "Bafia"},
-    image: "/poi-images/cameroon-bafia-cities-v2.webp",
     description: { de: "Bafia ist eine wachsende Stadt im südlichen und zentralen Kamerun, umgeben von dichten Wäldern.", hu: "Bafia egy növekvő város Dél- és Közép-Kamerunban, amelyet sűrű erdők vesznek körül.", ro: "Bafia este un oraș în creștere în sudul și centrul Camerunului, înconjurat de păduri dense.", en: "Bafia is a growing city in southern and central Cameroon, surrounded by dense forests." , es: "Bafia es una ciudad en crecimiento en el sur y centro de Camerún, rodeada de densos bosques.", pt: "Bafia é uma cidade em crescimento no sul e centro dos Camarões, cercada por florestas densas.", fr: "Bafia est une ville en pleine croissance dans le sud et le centre du Cameroun, entourée de forêts denses."},
     facts: {
       de: ["Wichtig für die lokale Forst- und Landwirtschaft.", "Verbindet ländliche Gebiete mit den Großstädten."],
@@ -1672,7 +1656,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-NO",
     coords: [13.9833, 9.9333],
     name: { de: "Guider", hu: "Guider", ro: "Guider", en: "Guider"},
-    image: "/poi-images/cameroon-guider-cities-v2.webp",
     description: { de: "Guider ist eine lebendige Stadt im trockeneren Norden, die als Handelszentrum für lokale Bauern dient.", hu: "Guider egy nyüzsgő város a szárazabb északi részen, amely a helyi gazdák kereskedelmi központjaként szolgál.", ro: "Guider este un oraș plin de viață în nordul mai uscat, servind ca centru comercial pentru fermierii locali.", en: "Guider is a vibrant city in the drier north, serving as a trade hub for local farmers." , es: "Guider es una ciudad vibrante en el norte más seco, que sirve como centro comercial para los agricultores locales.", pt: "Guider é uma cidade vibrante no norte mais seco, que serve como centro comercial para os agricultores locais.", fr: "Guider est une ville animée du Nord plus sec, qui sert de centre commercial pour les agriculteurs locaux."},
     facts: {
       de: ["Bekannt für traditionelle Märkte.", "Wichtiger Knotenpunkt für den Agrarhandel."],
@@ -1749,7 +1732,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-EN",
     coords: [15.2333, 10.3333],
     name: { de: "Yagoua", hu: "Yagoua", ro: "Yagoua", en: "Yagoua"},
-    image: "/poi-images/cameroon-yagoua-cities-v2.webp",
     description: { de: "Yagoua ist eine lebendige Stadt im trockeneren Norden, die als Handelszentrum für lokale Bauern dient.", hu: "Yagoua egy nyüzsgő város a szárazabb északi részen, amely a helyi gazdák kereskedelmi központjaként szolgál.", ro: "Yagoua este un oraș plin de viață în nordul mai uscat, servind ca centru comercial pentru fermierii locali.", en: "Yagoua is a vibrant city in the drier north, serving as a trade hub for local farmers." , es: "Yagoua es una ciudad vibrante en el norte más seco, que sirve como centro comercial para los agricultores locales.", pt: "Yagoua é uma cidade vibrante no norte mais seco, servindo como centro comercial para os agricultores locais.", fr: "Yagoua est une ville animée du nord plus sec, qui sert de centre commercial pour les agriculteurs locaux."},
     facts: {
       de: ["Bekannt für traditionelle Märkte.", "Wichtiger Knotenpunkt für den Agrarhandel."],
@@ -1781,7 +1763,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-EN",
     coords: [13.8, 10.7333],
     name: { de: "Mokolo", hu: "Mokolo", ro: "Mokolo", en: "Mokolo"},
-    image: "/poi-images/cameroon-mokolo-cities-v2.webp",
     description: { de: "Mokolo ist eine lebendige Stadt im trockeneren Norden, die als Handelszentrum für lokale Bauern dient.", hu: "Mokolo egy nyüzsgő város a szárazabb északi részen, amely a helyi gazdák kereskedelmi központjaként szolgál.", ro: "Mokolo este un oraș plin de viață în nordul mai uscat, servind ca centru comercial pentru fermierii locali.", en: "Mokolo is a vibrant city in the drier north, serving as a trade hub for local farmers." , es: "Mokolo es una ciudad vibrante en el norte más seco, que sirve como centro comercial para los agricultores locales.", pt: "Mokolo é uma cidade vibrante no norte mais seco, que serve como centro comercial para os agricultores locais.", fr: "Mokolo est une ville dynamique du nord plus sec, qui sert de centre commercial pour les agriculteurs locaux."},
     facts: {
       de: ["Bekannt für traditionelle Märkte.", "Wichtiger Knotenpunkt für den Agrarhandel."],
@@ -1813,7 +1794,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-AD",
     coords: [14.3, 6.5167],
     name: { de: "Meiganga", hu: "Meiganga", ro: "Meiganga", en: "Meiganga"},
-    image: "/poi-images/cameroon-meiganga-cities-v2.webp",
     description: { de: "Meiganga ist eine lebendige Stadt im trockeneren Norden, die als Handelszentrum für lokale Bauern dient.", hu: "Meiganga egy nyüzsgő város a szárazabb északi részen, amely a helyi gazdák kereskedelmi központjaként szolgál.", ro: "Meiganga este un oraș plin de viață în nordul mai uscat, servind ca centru comercial pentru fermierii locali.", en: "Meiganga is a vibrant city in the drier north, serving as a trade hub for local farmers." , es: "Meiganga es una ciudad vibrante en el norte más seco, que sirve como centro comercial para los agricultores locales.", pt: "Meiganga é uma cidade vibrante no norte mais seco, que serve como centro comercial para os agricultores locais.", fr: "Meiganga est une ville dynamique du nord plus sec, qui sert de centre commercial pour les agriculteurs locaux."},
     facts: {
       de: ["Bekannt für traditionelle Märkte.", "Wichtiger Knotenpunkt für den Agrarhandel."],
@@ -1845,7 +1825,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-AD",
     coords: [11.8167, 6.75],
     name: { de: "Banyo", hu: "Banyo", ro: "Banyo", en: "Banyo"},
-    image: "/poi-images/cameroon-banyo-cities-v2.webp",
     description: { de: "Banyo ist eine lebendige Stadt im trockeneren Norden, die als Handelszentrum für lokale Bauern dient.", hu: "Banyo egy nyüzsgő város a szárazabb északi részen, amely a helyi gazdák kereskedelmi központjaként szolgál.", ro: "Banyo este un oraș plin de viață în nordul mai uscat, servind ca centru comercial pentru fermierii locali.", en: "Banyo is a vibrant city in the drier north, serving as a trade hub for local farmers." , es: "Banyo es una ciudad vibrante en el norte más seco que sirve como centro comercial para los agricultores locales.", pt: "Banyo é uma cidade vibrante no norte mais seco que serve como centro comercial para os agricultores locais.", fr: "Banyo est une ville animée du nord plus sec qui sert de centre commercial pour les agriculteurs locaux."},
     facts: {
       de: ["Bekannt für traditionelle Märkte.", "Wichtiger Knotenpunkt für den Agrarhandel."],
@@ -1922,7 +1901,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-AD",
     coords: [12.6333, 6.4667],
     name: { de: "Tibati", hu: "Tibati", ro: "Tibati", en: "Tibati"},
-    image: "/poi-images/cameroon-tibati-cities-v2.webp",
     description: { de: "Tibati ist eine lebendige Stadt im trockeneren Norden, die als Handelszentrum für lokale Bauern dient.", hu: "Tibati egy nyüzsgő város a szárazabb északi részen, amely a helyi gazdák kereskedelmi központjaként szolgál.", ro: "Tibati este un oraș plin de viață în nordul mai uscat, servind ca centru comercial pentru fermierii locali.", en: "Tibati is a vibrant city in the drier north, serving as a trade hub for local farmers." , es: "Tibati es una ciudad vibrante en el norte más seco, que sirve como centro comercial para los agricultores locales.", pt: "Tibati é uma cidade vibrante no norte mais seco, servindo como centro comercial para os agricultores locais.", fr: "Tibati est une ville animée du nord plus sec, qui sert de centre commercial pour les agriculteurs locales."},
     facts: {
       de: ["Bekannt für traditionelle Märkte.", "Wichtiger Knotenpunkt für den Agrarhandel."],
@@ -2071,7 +2049,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-OU",
     coords: [10.1833, 5.15],
     name: { de: "Bafang", hu: "Bafang", ro: "Bafang", en: "Bafang"},
-    image: "/poi-images/cameroon-bafang-cities-v2.webp",
     description: { de: "Bafang ist eine wachsende Stadt im südlichen und zentralen Kamerun, umgeben von dichten Wäldern.", hu: "Bafang egy növekvő város Dél- és Közép-Kamerunban, amelyet sűrű erdők vesznek körül.", ro: "Bafang este un oraș în creștere în sudul și centrul Camerunului, înconjurat de păduri dense.", en: "Bafang is a growing city in southern and central Cameroon, surrounded by dense forests." , es: "Bafang es una ciudad en crecimiento en el sur y centro de Camerún, rodeada de densos bosques.", pt: "Bafang é uma cidade em crescimento no sul e centro dos Camarões, cercada por florestas densas.", fr: "Bafang est une ville en pleine croissance dans le sud et le centre du Cameroun, entourée de forêts denses."},
     facts: {
       de: ["Wichtig für die lokale Forst- und Landwirtschaft.", "Verbindet ländliche Gebiete mit den Großstädten."],
@@ -2181,7 +2158,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-CE",
     coords: [11.5333, 4.1667],
     name: { de: "Obala", hu: "Obala", ro: "Obala", en: "Obala"},
-    image: "/poi-images/cameroon-obala-cities-v2.webp",
     description: { de: "Obala ist eine wachsende Stadt im südlichen und zentralen Kamerun, umgeben von dichten Wäldern.", hu: "Obala egy növekvő város Dél- és Közép-Kamerunban, amelyet sűrű erdők vesznek körül.", ro: "Obala este un oraș în creștere în sudul și centrul Camerunului, înconjurat de păduri dense.", en: "Obala is a growing city in southern and central Cameroon, surrounded by dense forests." , es: "Obala es una ciudad en crecimiento en el sur y centro de Camerún, rodeada de densos bosques.", pt: "Obala é uma cidade em crescimento no sul e centro dos Camarões, cercada por florestas densas.", fr: "Obala est une ville en pleine croissance dans le sud et le centre du Cameroun, entourée de forêts denses."},
     facts: {
       de: ["Wichtig für die lokale Forst- und Landwirtschaft.", "Verbindet ländliche Gebiete mit den Großstädten."],
@@ -2213,7 +2189,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-CE",
     coords: [11.5, 3.5167],
     name: { de: "Mbalmayo", hu: "Mbalmayo", ro: "Mbalmayo", en: "Mbalmayo"},
-    image: "/poi-images/cameroon-mbalmayo-cities-v2.webp",
     description: { de: "Mbalmayo ist eine wachsende Stadt im südlichen und zentralen Kamerun, umgeben von dichten Wäldern.", hu: "Mbalmayo egy növekvő város Dél- és Közép-Kamerunban, amelyet sűrű erdők vesznek körül.", ro: "Mbalmayo este un oraș în creștere în sudul și centrul Camerunului, înconjurat de păduri dense.", en: "Mbalmayo is a growing city in southern and central Cameroon, surrounded by dense forests." , es: "Mbalmayo es una ciudad en crecimiento en el sur y centro de Camerún, rodeada de densos bosques.", pt: "Mbalmayo é uma cidade em crescimento no sul e centro dos Camarões, rodeada por florestas densas.", fr: "Mbalmayo est une ville en pleine croissance dans le sud et le centre du Cameroun, entourée de forêts denses."},
     facts: {
       de: ["Wichtig für die lokale Forst- und Landwirtschaft.", "Verbindet ländliche Gebiete mit den Großstädten."],
@@ -2245,7 +2220,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-SW",
     coords: [9.3667, 4.0667],
     name: { de: "Tiko", hu: "Tiko", ro: "Tiko", en: "Tiko"},
-    image: "/poi-images/cameroon-tiko-cities-v2.webp",
     description: { de: "Tiko liegt in der fruchtbaren englischsprachigen Region und profitiert vom Anbau von Kaffee und Tee.", hu: "Tiko a termékeny angol nyelvű régióban található, és a kávé- és teatermesztésből profitál.", ro: "Tiko este situat în fertila regiune anglofonă și beneficiază de cultivarea cafelei și a ceaiului.", en: "Tiko is located in the fertile English-speaking region and benefits from coffee and tea cultivation." , es: "Tiko se encuentra en la fértil región de habla inglesa y se beneficia del cultivo de café y té.", pt: "Tiko localiza-se na fértil região de língua inglesa e beneficia do cultivo de café e chá.", fr: "Tiko est située dans la fertile région anglophone et profite de la culture du café et du thé."},
     facts: {
       de: ["Umgeben von malerischen Hügeln.", "Teil des westlichen Hochlandes."],
@@ -2277,7 +2251,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-SW",
     coords: [9.3167, 4.1],
     name: { de: "Mutengene", hu: "Mutengene", ro: "Mutengene", en: "Mutengene"},
-    image: "/poi-images/cameroon-mutengene-cities-v2.webp",
     description: { de: "Mutengene liegt in der fruchtbaren englischsprachigen Region und profitiert vom Anbau von Kaffee und Tee.", hu: "Mutengene a termékeny angol nyelvű régióban található, és a kávé- és teatermesztésből profitál.", ro: "Mutengene este situat în fertila regiune anglofonă și beneficiază de cultivarea cafelei și a ceaiului.", en: "Mutengene is located in the fertile English-speaking region and benefits from coffee and tea cultivation." , es: "Mutengene se encuentra en la fértil región de habla inglesa y se beneficia del cultivo de café y té.", pt: "Mutengene situa-se na fértil região de língua inglesa e beneficia do cultivo de café e chá.", fr: "Mutengene est située dans la fertile région anglophone et bénéficie de la culture du café et du thé."},
     facts: {
       de: ["Umgeben von malerischen Hügeln.", "Teil des westlichen Hochlandes."],
@@ -2390,7 +2363,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-SW",
     coords: [9.2167, 4.0167],
     name: { de: "Limbe", hu: "Limbe", ro: "Limbe", en: "Limbe"},
-    image: "/poi-images/cameroon-limbe-cities-v2.webp",
     description: { de: "Limbe liegt am Fuß des Kamerunbergs und ist berühmt für seine schwarzen Vulkanstrände und den botanischen Garten.", hu: "Limbe a Kamerun-hegy lábánál fekszik, és híres fekete vulkáni strandjairól, valamint botanikus kertjéről.", ro: "Limbe este situat la poalele Muntelui Camerun și este renumit pentru plajele sale cu nisip vulcanic negru și grădina botanică.", en: "Limbe is located at the foot of Mount Cameroon and is famous for its black volcanic beaches and botanical garden." , es: "Limbe se encuentra al pie del monte Camerún y es famosa por sus playas de arena volcánica negra y su jardín botánico.", pt: "Limbe situa-se no sopé do Monte Camarões e é famosa pelas suas praias de areia vulcânica preta e pelo jardim botânico.", fr: "Limbe est située au pied du mont Cameroun et est célèbre pour ses plages de sable volcanique noir et son jardin botanique."},
     facts: {
       de: ["Zentrum der Ölindustrie Kameruns.", "Gegründet im 19. Jahrhundert von Missionaren."],
@@ -2536,7 +2508,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-NW",
     coords: [10.0667, 6.3833],
     name: { de: "Wum", hu: "Wum", ro: "Wum", en: "Wum"},
-    image: "/poi-images/cameroon-wum-cities-v2.webp",
     description: { de: "Wum liegt in der fruchtbaren englischsprachigen Region und profitiert vom Anbau von Kaffee und Tee.", hu: "Wum a termékeny angol nyelvű régióban található, és a kávé- és teatermesztésből profitál.", ro: "Wum este situat în fertila regiune anglofonă și beneficiază de cultivarea cafelei și a ceaiului.", en: "Wum is located in the fertile English-speaking region and benefits from coffee and tea cultivation." , es: "Wum se encuentra en la fértil región de habla inglesa y se beneficia del cultivo de café y té.", pt: "Wum localiza-se na fértil região de língua inglesa e beneficia do cultivo de café e chá.", fr: "Wum est située dans la fertile région anglophone et profite de la culture du café et du thé."},
     facts: {
       de: ["Umgeben von malerischen Hügeln.", "Teil des westlichen Hochlandes."],
@@ -2568,7 +2539,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-NW",
     coords: [10.6667, 6.2],
     name: { de: "Kumbo", hu: "Kumbo", ro: "Kumbo", en: "Kumbo"},
-    image: "/poi-images/cameroon-kumbo-cities-v2.webp",
     description: { de: "Kumbo liegt in der fruchtbaren englischsprachigen Region und profitiert vom Anbau von Kaffee und Tee.", hu: "Kumbo a termékeny angol nyelvű régióban található, és a kávé- és teatermesztésből profitál.", ro: "Kumbo este situat în fertila regiune anglofonă și beneficiază de cultivarea cafelei și a ceaiului.", en: "Kumbo is located in the fertile English-speaking region and benefits from coffee and tea cultivation." , es: "Kumbo se encuentra en la fértil región de habla inglesa y se beneficia del cultivo de café y té.", pt: "Kumbo situa-se na fértil região de língua inglesa e beneficia do cultivo de café e chá.", fr: "Kumbo est située dans la fertile région anglophone et profite de la culture du café et du thé."},
     facts: {
       de: ["Umgeben von malerischen Hügeln.", "Teil des westlichen Hochlandes."],
@@ -2600,7 +2570,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-NW",
     coords: [10.45, 6.0],
     name: { de: "Ndop", hu: "Ndop", ro: "Ndop", en: "Ndop"},
-    image: "/poi-images/cameroon-ndop-cities-v2.webp",
     description: { de: "Ndop liegt in der fruchtbaren englischsprachigen Region und profitiert vom Anbau von Kaffee und Tee.", hu: "Ndop a termékeny angol nyelvű régióban található, és a kávé- és teatermesztésből profitál.", ro: "Ndop este situat în fertila regiune anglofonă și beneficiază de cultivarea cafelei și a ceaiului.", en: "Ndop is located in the fertile English-speaking region and benefits from coffee and tea cultivation." , es: "Ndop se encuentra en la fértil región de habla inglesa y se beneficia del cultivo de café y té.", pt: "Ndop situa-se na fértil região de língua inglesa e beneficia do cultivo de café e chá.", fr: "Ndop est située dans la fertile région anglophone et bénéficie de la culture du café et du thé."},
     facts: {
       de: ["Umgeben von malerischen Hügeln.", "Teil des westlichen Hochlandes."],
@@ -2698,7 +2667,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-EN",
     coords: [14.1333, 11.05],
     name: { de: "Mora", hu: "Mora", ro: "Mora", en: "Mora"},
-    image: "/poi-images/cameroon-mora-cities-v2.webp",
     description: { de: "Mora ist eine lebendige Stadt im trockeneren Norden, die als Handelszentrum für lokale Bauern dient.", hu: "Mora egy nyüzsgő város a szárazabb északi részen, amely a helyi gazdák kereskedelmi központjaként szolgál.", ro: "Mora este un oraș plin de viață în nordul mai uscat, servind ca centru comercial pentru fermierii locali.", en: "Mora is a vibrant city in the drier north, serving as a trade hub for local farmers." , es: "Mora es una ciudad vibrante en el norte más seco, que sirve como centro comercial para los agricultores locales.", pt: "Mora é uma cidade vibrante no norte mais seco, que serve como centro comercial para os agricultores locais.", fr: "Mora est une ville dynamique du nord plus sec, qui sert de centre commercial pour les agriculteurs locaux."},
     facts: {
       de: ["Bekannt für traditionelle Märkte.", "Wichtiger Knotenpunkt für den Agrarhandel."],
@@ -2808,7 +2776,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-EN",
     coords: [14.6, 10.7333],
     name: { de: "Bogo", hu: "Bogo", ro: "Bogo", en: "Bogo"},
-    image: "/poi-images/cameroon-bogo-cities-v2.webp",
     description: { de: "Bogo ist eine lebendige Stadt im trockeneren Norden, die als Handelszentrum für lokale Bauern dient.", hu: "Bogo egy nyüzsgő város a szárazabb északi részen, amely a helyi gazdák kereskedelmi központjaként szolgál.", ro: "Bogo este un oraș plin de viață în nordul mai uscat, servind ca centru comercial pentru fermierii locali.", en: "Bogo is a vibrant city in the drier north, serving as a trade hub for local farmers." , es: "Bogo es una ciudad vibrante en el norte más seco que sirve como centro comercial para los agricultores locales.", pt: "Bogo é uma cidade vibrante no norte mais seco que serve como centro comercial para os agricultores locais.", fr: "Bogo est une ville animée du nord plus sec qui sert de centre commercial pour les agriculteurs locaux."},
     facts: {
       de: ["Bekannt für traditionelle Märkte.", "Wichtiger Knotenpunkt für den Agrarhandel."],
@@ -2880,7 +2847,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-NO",
     coords: [13.2333, 8.4667],
     name: { de: "Poli", hu: "Poli", ro: "Poli", en: "Poli"},
-    image: "/poi-images/cameroon-poli-cities-v2.webp",
     description: { de: "Poli ist eine lebendige Stadt im trockeneren Norden, die als Handelszentrum für lokale Bauern dient.", hu: "Poli egy nyüzsgő város a szárazabb északi részen, amely a helyi gazdák kereskedelmi központjaként szolgál.", ro: "Poli este un oraș plin de viață în nordul mai uscat, servind ca centru comercial pentru fermierii locali.", en: "Poli is a vibrant city in the drier north, serving as a trade hub for local farmers." , es: "Poli es una ciudad vibrante en el norte más seco, que sirve como centro comercial para los agricultores locales.", pt: "Poli é uma cidade vibrante no norte mais seco, servindo como centro comercial para os agricultores locais.", fr: "Poli est une ville animée du nord plus sec, qui sert de centre commercial pour les agriculteurs locaux."},
     facts: {
       de: ["Bekannt für traditionelle Märkte.", "Wichtiger Knotenpunkt für den Agrarhandel."],
@@ -2952,7 +2918,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-ES",
     coords: [13.1833, 3.9833],
     name: { de: "Abong-Mbang", hu: "Abong-Mbang", ro: "Abong-Mbang", en: "Abong-Mbang"},
-    image: "/poi-images/cameroon-abong-mbang-cities-v2.webp",
     description: { de: "Abong-Mbang ist eine wachsende Stadt im südlichen und zentralen Kamerun, umgeben von dichten Wäldern.", hu: "Abong-Mbang egy növekvő város Dél- és Közép-Kamerunban, amelyet sűrű erdők vesznek körül.", ro: "Abong-Mbang este un oraș în creștere în sudul și centrul Camerunului, înconjurat de păduri dense.", en: "Abong-Mbang is a growing city in southern and central Cameroon, surrounded by dense forests." , es: "Abong-Mbang es una ciudad en crecimiento en el sur y centro de Camerún, rodeada de densos bosques.", pt: "Abong-Mbang é uma cidade em crescimento no sul e centro dos Camarões, cercada por florestas densas.", fr: "Abong-Mbang est une ville en pleine croissance dans le sud et le centre du Cameroun, entourée de forêts denses."},
     facts: {
       de: ["Wichtig für die lokale Forst- und Landwirtschaft.", "Verbindet ländliche Gebiete mit den Großstädten."],
@@ -2988,7 +2953,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-ES",
     coords: [14.4333, 4.4333],
     name: { de: "Batouri", hu: "Batouri", ro: "Batouri", en: "Batouri"},
-    image: "/poi-images/cameroon-batouri-cities-v2.webp",
     description: { de: "Batouri ist eine wachsende Stadt im südlichen und zentralen Kamerun, umgeben von dichten Wäldern.", hu: "Batouri egy növekvő város Dél- és Közép-Kamerunban, amelyet sűrű erdők vesznek körül.", ro: "Batouri este un oraș în creștere în sudul și centrul Camerunului, înconjurat de păduri dense.", en: "Batouri is a growing city in southern and central Cameroon, surrounded by dense forests." , es: "Batouri es una ciudad en crecimiento en el sur y centro de Camerún, rodeada de densos bosques.", pt: "Batouri é uma cidade em crescimento no sul e centro dos Camarões, rodeada por florestas densas.", fr: "Batouri est une ville en pleine croissance dans le sud et le centre du Cameroun, entourée de forêts denses."},
     facts: {
       de: ["Wichtig für die lokale Forst- und Landwirtschaft.", "Verbindet ländliche Gebiete mit den Großstädten."],
@@ -3024,7 +2988,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-ES",
     coords: [15.05, 3.5167],
     name: { de: "Yokadouma", hu: "Yokadouma", ro: "Yokadouma", en: "Yokadouma"},
-    image: "/poi-images/cameroon-yokadouma-cities-v2.webp",
     description: { de: "Yokadouma ist eine wachsende Stadt im südlichen und zentralen Kamerun, umgeben von dichten Wäldern.", hu: "Yokadouma egy növekvő város Dél- és Közép-Kamerunban, amelyet sűrű erdők vesznek körül.", ro: "Yokadouma este un oraș în creștere în sudul și centrul Camerunului, înconjurat de păduri dense.", en: "Yokadouma is a growing city in southern and central Cameroon, surrounded by dense forests." , es: "Yokadouma es una ciudad en crecimiento en el sur y centro de Camerún, rodeada de densos bosques.", pt: "Yokadouma é uma cidade em crescimento no sul e centro dos Camarões, rodeada por florestas densas.", fr: "Yokadouma est une ville en pleine croissance dans le sud et le centre du Cameroun, entourée de forêts denses."},
     facts: {
       de: ["Wichtig für die lokale Forst- und Landwirtschaft.", "Verbindet ländliche Gebiete mit den Großstädten."],
@@ -3168,7 +3131,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-CE",
     coords: [12.3667, 4.6833],
     name: { de: "Nanga-Eboko", hu: "Nanga-Eboko", ro: "Nanga-Eboko", en: "Nanga-Eboko"},
-    image: "/poi-images/cameroon-nanga-eboko-cities-v2.webp",
     description: { de: "Nanga-Eboko ist eine wachsende Stadt im südlichen und zentralen Kamerun, umgeben von dichten Wäldern.", hu: "Nanga-Eboko egy növekvő város Dél- és Közép-Kamerunban, amelyet sűrű erdők vesznek körül.", ro: "Nanga-Eboko este un oraș în creștere în sudul și centrul Camerunului, înconjurat de păduri dense.", en: "Nanga-Eboko is a growing city in southern and central Cameroon, surrounded by dense forests." , es: "Nanga-Eboko es una ciudad en crecimiento en el sur y centro de Camerún, rodeada de densos bosques.", pt: "Nanga-Eboko é uma cidade em crescimento no sul e centro dos Camarões, rodeada por florestas densas.", fr: "Nanga-Eboko est une ville en pleine croissance du sud et du centre du Cameroun, entourée de forêts denses."},
     facts: {
       de: ["Wichtig für die lokale Forst- und Landwirtschaft.", "Verbindet ländliche Gebiete mit den Großstädten."],
@@ -3204,7 +3166,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-CE",
     coords: [10.7667, 3.65],
     name: { de: "Eseka", hu: "Eseka", ro: "Eseka", en: "Eseka"},
-    image: "/poi-images/cameroon-eseka-cities-v2.webp",
     description: { de: "Eseka ist eine wachsende Stadt im südlichen und zentralen Kamerun, umgeben von dichten Wäldern.", hu: "Eseka egy növekvő város Dél- és Közép-Kamerunban, amelyet sűrű erdők vesznek körül.", ro: "Eseka este un oraș în creștere în sudul și centrul Camerunului, înconjurat de păduri dense.", en: "Eseka is a growing city in southern and central Cameroon, surrounded by dense forests." , es: "Eseka es una ciudad en crecimiento en el sur y centro de Camerún, rodeada de densos bosques.", pt: "Eseka é uma cidade em crescimento no sul e centro dos Camarões, rodeada por florestas densas.", fr: "Eseka est une ville en pleine croissance dans le sud et le centre du Cameroun, entourée de forêts denses."},
     facts: {
       de: ["Wichtig für die lokale Forst- und Landwirtschaft.", "Verbindet ländliche Gebiete mit den Großstädten."],
@@ -3276,7 +3237,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-CE",
     coords: [11.3, 3.6],
     name: { de: "Ngoumou", hu: "Ngoumou", ro: "Ngoumou", en: "Ngoumou"},
-    image: "/poi-images/cameroon-ngoumou-cities-v2.webp",
     description: { de: "Ngoumou ist eine wachsende Stadt im südlichen und zentralen Kamerun, umgeben von dichten Wäldern.", hu: "Ngoumou egy növekvő város Dél- és Közép-Kamerunban, amelyet sűrű erdők vesznek körül.", ro: "Ngoumou este un oraș în creștere în sudul și centrul Camerunului, înconjurat de păduri dense.", en: "Ngoumou is a growing city in southern and central Cameroon, surrounded by dense forests." , es: "Ngoumou es una ciudad en crecimiento en el sur y centro de Camerún, rodeada de densos bosques.", pt: "Ngoumou é uma cidade em crescimento no sul e centro dos Camarões, cercada por florestas densas.", fr: "Ngoumou est une ville en pleine croissance dans le sud et le centre du Cameroun, entourée de forêts denses."},
     facts: {
       de: ["Wichtig für die lokale Forst- und Landwirtschaft.", "Verbindet ländliche Gebiete mit den Großstädten."],
@@ -3348,7 +3308,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-OU",
     coords: [10.6333, 5.5],
     name: { de: "Foumbot", hu: "Foumbot", ro: "Foumbot", en: "Foumbot"},
-    image: "/poi-images/cameroon-foumbot-cities-v2.webp",
     description: { de: "Foumbot ist eine wachsende Stadt im südlichen und zentralen Kamerun, umgeben von dichten Wäldern.", hu: "Foumbot egy növekvő város Dél- és Közép-Kamerunban, amelyet sűrű erdők vesznek körül.", ro: "Foumbot este un oraș în creștere în sudul și centrul Camerunului, înconjurat de păduri dense.", en: "Foumbot is a growing city in southern and central Cameroon, surrounded by dense forests." , es: "Foumbot es una ciudad en crecimiento en el sur y centro de Camerún, rodeada de densos bosques.", pt: "Foumbot é uma cidade em crescimento no sul e centro dos Camarões, rodeada por florestas densas.", fr: "Foumbot est une ville en pleine croissance dans le sud et le centre du Cameroun, entourée de forêts denses."},
     facts: {
       de: ["Wichtig für die lokale Forst- und Landwirtschaft.", "Verbindet ländliche Gebiete mit den Großstädten."],
@@ -3429,7 +3388,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     parent: "CM-OU",
     coords: [10.4167, 5.3667],
     name: { de: "Bandjoun", hu: "Bandjoun", ro: "Bandjoun", en: "Bandjoun"},
-    image: "/poi-images/cameroon-bandjoun-cities-v2.webp",
     description: { de: "Bandjoun ist eine wachsende Stadt im südlichen und zentralen Kamerun, umgeben von dichten Wäldern.", hu: "Bandjoun egy növekvő város Dél- és Közép-Kamerunban, amelyet sűrű erdők vesznek körül.", ro: "Bandjoun este un oraș în creștere în sudul și centrul Camerunului, înconjurat de păduri dense.", en: "Bandjoun is a growing city in southern and central Cameroon, surrounded by dense forests." , es: "Bandjoun es una ciudad en crecimiento en el sur y centro de Camerún, rodeada de densos bosques.", pt: "Bandjoun é uma cidade em crescimento no sul e centro dos Camarões, cercada por florestas densas.", fr: "Bandjoun est une ville en pleine croissance dans le sud et le centre du Cameroun, entourée de forêts denses."},
     facts: {
       de: ["Wichtig für die lokale Forst- und Landwirtschaft.", "Verbindet ländliche Gebiete mit den Großstädten."],

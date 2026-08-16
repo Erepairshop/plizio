@@ -377,7 +377,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-06",
     coords: [32.8597, 39.9334],
     name: { de: "Ankara", hu: "Ankara", ro: "Ankara", en: "Ankara"},
-    image: "/poi-images/ankara-cities-v2.webp",
     description: { de: "Ankara ist die Hauptstadt der Türkei und nach Istanbul die zweitgrößte Stadt des Landes.", hu: "Ankara Törökország fővárosa és Isztambul után az ország második legnagyobb városa.", ro: "Ankara este capitala Turciei și a doua recunoscută ca mărime a țării, după Istanbul.", en: "Ankara is the capital of Turkey and the country's second-largest city after Istanbul." , es: "Ankara es la capital de Turquía y la segunda ciudad más grande del país después de Estambul.", pt: "Ancara é a capital da Turquia e a segunda maior cidade do país, depois de Istambul.", fr: "Ankara est la capitale de la Turquie et la deuxième plus grande ville du pays après Istanbul."},
     facts: {
       de: ["Wurde 1923 zur Hauptstadt", "Beherbergt das Anıtkabir"],
@@ -776,7 +775,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-34",
     coords: [28.9784, 41.0082],
     name: { de: "Istanbul", hu: "Isztambul", ro: "Istanbul", en: "Istanbul"},
-    image: "/poi-images/istanbul-cities-v2.webp",
     description: { de: "Istanbul ist die größte Stadt der Türkei und erstreckt sich über zwei Kontinente, Europa und Asien.", hu: "Isztambul Törökország legnagyobb városa, amely két kontinensen, Európán és Ázsián ível át.", ro: "Istanbul este cel mai mare oraș din Turcia, întinzându-se pe două continente, Europa și Asia.", en: "Istanbul is the largest city in Turkey, spanning across two continents, Europe and Asia." , es: "Estambul es la ciudad más grande de Turquía y se extiende por dos continentes, Europa y Asia.", pt: "Istambul é a maior cidade da Turquia e estende-se por dois continentes, Europa e Ásia.", fr: "Istanbul est la plus grande ville de Turquie et s'étend sur deux continents, l'Europe et l'Asie."},
     facts: {
       de: ["Früher als Byzanz und Konstantinopel bekannt", "Der Bosporus teilt die Stadt"],
@@ -1145,7 +1143,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-35",
     coords: [27.1428, 38.4237],
     name: { de: "Izmir", hu: "İzmir", ro: "Izmir", en: "Izmir"},
-    image: "/poi-images/izmir-cities-v2.webp",
     description: { de: "Izmir ist eine Metropole an der Ägäisküste und besitzt den zweitgrößten Hafen der Türkei.", hu: "İzmir az Égei-tenger partján fekvő metropolisz, itt található Törökország második legnagyobb kikötője.", ro: "Izmir este o metropolă pe coasta Mării Egee și are al doilea port ca mărime din Turcia.", en: "Izmir is a metropolis on the Aegean coast, featuring Turkey's second-largest port." , es: "Esmirna es una metrópoli en la costa del Egeo y posee el segundo puerto más grande de Turquía.", pt: "Esmirna é uma metrópole na costa do Egeu e possui o segundo maior porto da Turquia.", fr: "Izmir est une métropole sur la côte égéenne et possède le deuxième plus grand port de Turquie."},
     facts: {
       de: ["In der Antike als Smyrna bekannt", "Der Uhrturm am Konak-Platz wurde 1901 erbaut"],
@@ -3134,7 +3131,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-16",
     coords: [29.0610, 40.1826],
     name: { de: "Bursa", hu: "Bursa", ro: "Bursa", en: "Bursa"},
-    image: "/poi-images/bursa-cities-v2.webp",
     description: { de: "Bursa war die erste große Hauptstadt des Osmanischen Reiches zwischen 1326 und 1365.", hu: "Bursa volt az Oszmán Birodalom első jelentős fővárosa 1326 és 1365 között.", ro: "Bursa a fost prima capitală majoră a Imperiului Otoman între anii 1326 și 1365.", en: "Bursa was the first major capital of the Ottoman Empire between 1326 and 1365." , es: "Bursa fue la primera gran capital del Imperio Otomano entre 1326 y 1365.", pt: "Bursa foi a primeira grande capital do Império Otomano entre 1326 e 1365.", fr: "Bursa fut la première grande capitale de l'Empire ottoman entre 1326 et 1365."},
     facts: {
       de: ["Wird wegen ihrer Parks oft als \"Grünes Bursa\" bezeichnet", "Liegt am Fuße des Berges Uludağ"],
@@ -4151,7 +4147,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-01",
     coords: [35.3213, 37.0000],
     name: { de: "Adana", hu: "Adana", ro: "Adana", en: "Adana"},
-    image: "/poi-images/adana-cities-v2.webp",
     description: { de: "Adana ist das landwirtschaftliche Zentrum der fruchtbaren Çukurova-Ebene im Süden der Türkei.", hu: "Adana a termékeny Çukurova-síkság mezőgazdasági központja Törökország déli részén.", ro: "Adana este centrul agricol al câmpiei fertile Çukurova din sudul Turciei.", en: "Adana is the agricultural center of the fertile Çukurova plain in southern Turkey." , es: "Adana es el centro agrícola de la fértil llanura de Çukurova en el sur de Turquía.", pt: "Adana é o centro agrícola da fértil planície de Çukurova, no sul da Turquia.", fr: "Adana est le centre agricole de la plaine fertile de Çukurova, dans le sud de la Turquie."},
     facts: {
       de: ["Die Taşköprü-Brücke stammt aus der Römerzeit", "Die Sabancı-Zentralmoschee bietet Platz für 28.500 Gläubige"],
@@ -5600,7 +5595,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-27",
     coords: [37.3833, 37.0662],
     name: { de: "Gaziantep", hu: "Gaziantep", ro: "Gaziantep", en: "Gaziantep"},
-    image: "/poi-images/gaziantep-cities-v2.webp",
     description: { de: "Gaziantep ist eine bedeutende Industriestadt und berühmt für die Produktion von Baklava und Pistazien.", hu: "Gaziantep jelentős iparváros, amely a baklava és a pisztácia termeléséről híres.", ro: "Gaziantep este un important oraș industrial, faimos pentru producția de baclava și fistic.", en: "Gaziantep is a major industrial city famous for the production of baklava and pistachios." , es: "Gaziantep es una importante ciudad industrial famosa por su producción de baklava y pistachos.", pt: "Gaziantep é uma importante cidade industrial famosa pela sua produção de baklava e pistácios.", fr: "Gaziantep est une ville industrielle majeure célèbre pour sa production de baklava et de pistaches."},
     facts: {
       de: ["Zählt zu den ältesten durchgehend bewohnten Städten", "Das Zeugma-Mosaik-Museum wurde 2011 eröffnet"],
@@ -6005,7 +5999,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-42",
     coords: [32.4833, 37.8667],
     name: { de: "Konya", hu: "Konya", ro: "Konya", en: "Konya"},
-    image: "/poi-images/konya-cities-v2.webp",
     description: { de: "Konya war die Hauptstadt des Sultanats der Rum-Seldschuken und ist das spirituelle Zentrum der Mevlevi-Derwische.", hu: "Konya a Rúm Szeldzsuk Szultanátus fővárosa volt, ma pedig a mevlevi dervisek spirituális központja.", ro: "Konya a fost capitala Sultanatului Selgiucid de Rum și este centrul spiritual al dervișilor Mevlevi.", en: "Konya was the capital of the Sultanate of Rum and is the spiritual center of the Mevlevi dervishes." , es: "Konya fue la capital del Sultanato de Rum (Selyúcida) y es el centro espiritual de los derviches Mevlevi.", pt: "Konya foi a capital do Sultanato de Rum (Seljúcida) e é o centro espiritual dos dervixes Mevlevi.", fr: "Konya fut la capitale du sultanat de Roum (seldjoukide) et est le centre spirituel des derviches Mevlevi."},
     facts: {
       de: ["Die Stadt liegt auf einer Höhe von über 1000 Metern", "Hier befindet sich das Grab des persischen Dichters Rumi"],
@@ -6338,7 +6331,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-07",
     coords: [30.7133, 36.8969],
     name: { de: "Antalya", hu: "Antalya", ro: "Antalya", en: "Antalya"},
-    image: "/poi-images/antalya-cities-v2.webp",
     description: { de: "Antalya ist ein Zentrum des Tourismus an der türkischen Riviera und verzeichnete 2019 über 13 Millionen Besucher.", hu: "Antalya a török Riviéra turisztikai központja, 2019-ben több mint 13 millió látogatót fogadott.", ro: "Antalya este un centru turistic pe Riviera Turcească, cu peste 13 milioane de vizitatori în 2019.", en: "Antalya is a tourism hub on the Turkish Riviera, receiving over 13 million visitors in 2019." , es: "Antalya es un centro de turismo en la Riviera turca y registró más de 13 millones de visitantes en 2019.", pt: "Antalya é um centro de turismo na Riviera Turca e registrou mais de 13 milhões de visitantes em 2019.", fr: "Antalya est un centre touristique sur la Riviera turque et a enregistré plus de 13 millions de visiteurs en 2019."},
     facts: {
       de: ["Das Hadrianstor wurde im Jahr 130 n. Chr. erbaut", "Die historische Altstadt heißt Kaleiçi"],
@@ -6743,7 +6735,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-38",
     coords: [35.4833, 38.7333],
     name: { de: "Kayseri", hu: "Kayseri", ro: "Kayseri", en: "Kayseri"},
-    image: "/poi-images/kayseri-cities-v2.webp",
     description: { de: "Kayseri liegt im Zentrum Anatoliens und hat eine starke Industriebasis, die ihr den Namen \"Anatolischer Tiger\" einbrachte.", hu: "Kayseri Anatólia központjában található, erős ipari bázisa miatt az \"anatóliai tigris\" nevet kapta.", ro: "Kayseri este situat în centrul Anatoliei și are o bază industrială puternică, supranumită \"Tigrul Anatolian\".", en: "Kayseri is located in central Anatolia and has a strong industrial base, earning the nickname \"Anatolian Tiger\"." , es: "Kayseri se encuentra en el centro de Anatolia y tiene una fuerte base industrial que le valió el apodo de \"Tigre de Anatolia\".", pt: "Kayseri encontra-se no centro da Anatólia e tem uma forte base industrial que lhe valeu o apelido de \"Tigre da Anatólia\".", fr: "Kayseri se situe au centre de l'Anatolie et possède une base industrielle solide qui lui a valu le surnom de \"Tigre d'Anatolie\"."},
     facts: {
       de: ["Die Stadt hieß in der Antike Caesarea Mazaca", "Der Vulkan Erciyes Dağı prägt die Landschaft"],
@@ -7400,7 +7391,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-33",
     coords: [34.6167, 36.8000],
     name: { de: "Mersin", hu: "Mersin", ro: "Mersin", en: "Mersin"},
-    image: "/poi-images/mersin-cities-v2.webp",
     description: { de: "Mersin beherbergt den größten Seehafen der Türkei und ist ein bedeutender Wirtschaftsknotenpunkt am Mittelmeer.", hu: "Mersin ad otthont Törökország legnagyobb tengeri kikötőjének, jelentős gazdasági csomópont a Földközi-tenger partján.", ro: "Mersin găzduiește cel mai mare port maritim din Turcia și este un centru economic major la Marea Mediterană.", en: "Mersin hosts Turkey's largest seaport and is a major economic hub on the Mediterranean coast." , es: "Mersin alberga el puerto marítimo más grande de Turquía y es un importante nodo económico en el Mediterráneo.", pt: "Mersin abriga o maior porto marítimo da Turquia e é um importante centro econômico no Mediterrâneo.", fr: "Mersin abrite le plus grand port maritime de Turquie et est un pôle économique majeur sur la Méditerranée."},
     facts: {
       de: ["Die Küstenlinie der Provinz ist 321 Kilometer lang", "Das 52-stöckige Mertim-Gebäude war lange das höchste des Landes"],
@@ -8237,7 +8227,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-26",
     coords: [30.5256, 39.7767],
     name: { de: "Eskişehir", hu: "Eskişehir", ro: "Eskişehir", en: "Eskişehir"},
-    image: "/poi-images/eskisehir-cities-v2.webp",
     description: { de: "Eskişehir ist eine Universitätsstadt, die am Fluss Porsuk liegt und für ihre Produktion von Meerschaumpfeifen bekannt ist.", hu: "Eskişehir a Porsuk folyó partján fekvő egyetemváros, amely a tajtékpipák gyártásáról ismert.", ro: "Eskişehir este un oraș universitar situat pe râul Porsuk, cunoscut pentru producția sa de pipe din spumă de mare.", en: "Eskişehir is a university city on the Porsuk River, known for its production of meerschaum pipes." , es: "Eskişehir es una ciudad universitaria situada a orillas del río Porsuk y conocida por la producción de pipas de espuma de mar.", pt: "Eskişehir é uma cidade universitária situada nas margens do rio Porsuk e conhecida pela produção de cachimbos de espuma de mar.", fr: "Eskişehir est une ville universitaire située sur la rivière Porsuk, connue pour la production de pipes en écume de mer."},
     facts: {
       de: ["Der Name der Stadt bedeutet wörtlich \"alte Stadt\"", "Hier befinden sich die Anadolu-Universität und die Osmangazi-Universität"],
@@ -9650,7 +9639,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-21",
     coords: [40.2306, 37.9144],
     name: { de: "Diyarbakır", hu: "Diyarbakır", ro: "Diyarbakır", en: "Diyarbakır"},
-    image: "/poi-images/diyarbakir-cities-v2.webp",
     description: { de: "Diyarbakır liegt am Ufer des Tigris und ist berühmt für seine aus schwarzem Basaltstein erbauten Stadtmauern.", hu: "Diyarbakır a Tigris folyó partján fekszik, fekete bazaltkőből épült városfalairól híres.", ro: "Diyarbakır este situat pe malurile râului Tigru și este faimos pentru zidurile orașului construite din bazalt negru.", en: "Diyarbakır is located on the banks of the Tigris River and is famous for its city walls built of black basalt." , es: "Diyarbakır se encuentra a orillas del río Tigris y es famosa por sus murallas construidas con piedra basáltica negra.", pt: "Diyarbakır fica nas margens do rio Tigre e é famosa pelas suas muralhas construídas em pedra basáltica preta.", fr: "Diyarbakır est située sur les rives du Tigre et est célèbre pour ses remparts construits en pierre basaltique noire."},
     facts: {
       de: ["Die Stadtmauern gehören zum UNESCO-Weltkulturerbe", "Die Festung hat eine Länge von 5,5 Kilometern"],
@@ -10379,7 +10367,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-55",
     coords: [36.3300, 41.2867],
     name: { de: "Samsun", hu: "Samsun", ro: "Samsun", en: "Samsun"},
-    image: "/poi-images/samsun-cities-v2.webp",
     description: { de: "Samsun ist eine der wichtigsten Hafenstädte an der türkischen Schwarzmeerküste.", hu: "Samsun a török Fekete-tenger partvidékének egyik legfontosabb kikötővárosa.", ro: "Samsun este unul dintre cele mai importante orașe-port de pe coasta Mării Negre din Turcia.", en: "Samsun is one of the most important port cities on the Turkish Black Sea coast." , es: "Samsun es una de las ciudades portuarias más importantes en la costa turca del Mar Negro.", pt: "Samsun é uma das cidades portuárias mais importantes na costa turca do Mar Negro.", fr: "Samsun est l'une des villes portuaires les plus importantes de la côte turque de la mer Noire."},
     facts: {
       de: ["Atatürk landete hier 1919, was den Beginn des Unabhängigkeitskrieges markiert", "In der Antike hieß die Siedlung Amisos"],
@@ -10784,7 +10771,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-20",
     coords: [29.0886, 37.7765],
     name: { de: "Denizli", hu: "Denizli", ro: "Denizli", en: "Denizli"},
-    image: "/poi-images/denizli-cities-v2.webp",
     description: { de: "Denizli ist ein Zentrum der Textilindustrie und liegt nahe der berühmten Thermalquellen von Pamukkale.", hu: "Denizli a textilipar központja, Pamukkale híres hőforrásainak közelében helyezkedik el.", ro: "Denizli este un centru al industriei textile și se află aproape de faimoasele izvoare termale din Pamukkale.", en: "Denizli is a center of the textile industry and is located near the famous thermal springs of Pamukkale." , es: "Denizli es un centro de la industria textil y se encuentra cerca de las famosas aguas termales de Pamukkale.", pt: "Denizli é um centro da indústria têxtil e fica perto das famosas fontes termais de Pamukkale.", fr: "Denizli est un centre de l'industrie textile situé près des célèbres sources thermales de Pamukkale."},
     facts: {
       de: ["Die antike Stadt Laodizea am Lykos liegt nur wenige Kilometer entfernt", "Der lokale Denizli-Hahn ist das Symbol der Stadt"],
@@ -12053,7 +12039,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-63",
     coords: [38.7969, 37.1674],
     name: { de: "Şanlıurfa", hu: "Şanlıurfa", ro: "Șanlıurfa", en: "Şanlıurfa"},
-    image: "/poi-images/sanliurfa-cities-v2.webp",
     description: { de: "Şanlıurfa, oft einfach Urfa genannt, ist eine historische Stadt im Südosten der Türkei mit einer 12.000-jährigen Besiedlungsgeschichte.", hu: "Şanlıurfa, amelyet gyakran egyszerűen Urfának hívnak, történelmi város Délkelet-Törökországban, 12 000 éves településtörténettel.", ro: "Șanlıurfa, adesea numită pur și simplu Urfa, este un oraș istoric din sud-estul Turciei cu o istorie de așezare de 12.000 de ani.", en: "Şanlıurfa, often simply called Urfa, is a historical city in southeastern Turkey with a 12,000-year history of settlement." , es: "Şanlıurfa, a menudo llamada simplemente Urfa, es una ciudad histórica en el sureste de Turquía con una historia de asentamiento de 12.000 años.", pt: "Şanlıurfa, muitas vezes chamada apenas de Urfa, é uma cidade histórica no sudeste da Turquia com uma história de assentamento de 12.000 anos.", fr: "Şanlıurfa, souvent simplement appelée Urfa, est une ville historique du sud-est de la Turquie avec une histoire de peuplement vieille de 12 000 ans."},
     facts: {
       de: ["In der Nähe befindet sich die archäologische Stätte Göbekli Tepe", "Nach islamischer Tradition gilt sie als Geburtsstadt des Propheten Abraham"],
@@ -12314,7 +12299,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-54",
     coords: [30.4056, 40.7811],
     name: { de: "Adapazarı", hu: "Adapazarı", ro: "Adapazarı", en: "Adapazarı"},
-    image: "/poi-images/adapazari-cities-v2.webp",
     description: { de: "Adapazarı, die Hauptstadt der Provinz Sakarya, ist ein bedeutender Industriestandort mit dem Fokus auf den Fahrzeugbau.", hu: "Adapazarı, Sakarya tartomány fővárosa egy jelentős ipari központ, amelynek fókuszában a járműgyártás áll.", ro: "Adapazarı, capitala provinciei Sakarya, este o locație industrială majoră axată pe fabricarea vehiculelor.", en: "Adapazarı, the capital of Sakarya province, is a major industrial location focused on vehicle manufacturing." , es: "Adapazarı, la capital de la provincia de Sakarya, es un importante centro industrial centrado en la construcción de vehículos.", pt: "Adapazarı, a capital da província de Sakarya, é um importante centro industrial focado na construção de veículos.", fr: "Adapazarı, la capitale de la province de Sakarya, est un centre industriel important axé sur la construction automobile."},
     facts: {
       de: ["Wurde beim Erdbeben von 1999 schwer beschädigt", "Hier befindet sich ein großes Werk von Toyota Europe"],
@@ -12647,7 +12631,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-44",
     coords: [38.3167, 38.3500],
     name: { de: "Malatya", hu: "Malatya", ro: "Malatya", en: "Malatya"},
-    image: "/poi-images/malatya-cities-v2.webp",
     description: { de: "Malatya ist weltweit bekannt als die Hauptstadt der Aprikosen, da sie bis zu 80 Prozent der getrockneten Aprikosen weltweit produziert.", hu: "Malatya világszerte a sárgabarack fővárosaként ismert, mivel a világ aszaltsárgabarack-termelésének akár 80 százalékát is adja.", ro: "Malatya este cunoscută la nivel mondial ca fiind capitala caiselor, producând până la 80% din caisele uscate din lume.", en: "Malatya is known globally as the capital of apricots, producing up to 80 percent of the world's dried apricots." , es: "Malatya es conocida mundialmente como la capital del albaricoque, ya que produce hasta el 80 por ciento de los albaricoques secos del mundo.", pt: "Malatya é conhecida mundialmente como a capital do alperce, já que produz até 80 por cento dos alperces secos do mundo.", fr: "Malatya est connue mondialement comme la capitale de l'abricot, car elle produit jusqu'à 80 % des abricots secs mondiaux."},
     facts: {
       de: ["Die römische Siedlung am gleichen Ort hieß Melitene", "Der Arslantepe-Hügel ist ein UNESCO-Weltkulturerbe"],
@@ -13520,7 +13503,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-46",
     coords: [36.9372, 37.5847],
     name: { de: "Kahramanmaraş", hu: "Kahramanmaraş", ro: "Kahramanmaraş", en: "Kahramanmaraş"},
-    image: "/poi-images/kahramanmaras-cities-v2.webp",
     description: { de: "Kahramanmaraş liegt am Rande der Taurusgebirge und ist besonders berühmt für ihr traditionelles Eis, das Maraş dondurması.", hu: "Kahramanmaraş a Torosz-hegység szélén fekszik, és különösen híres hagyományos fagylaltjáról, a Maraş dondurması-ról.", ro: "Kahramanmaraş se află la marginea Munților Taurus și este faimos în special pentru înghețata sa tradițională, Maraş dondurması.", en: "Kahramanmaraş is located on the edge of the Taurus Mountains and is especially famous for its traditional ice cream, Maraş dondurması." , es: "Kahramanmaraş se encuentra al borde de las montañas Tauro y es famosa por su helado tradicional, el Maraş dondurması.", pt: "Kahramanmaraş encontra-se na orla das montanhas Tauro e é famosa pelo seu gelado tradicional, o Maraş dondurması.", fr: "Kahramanmaraş se trouve en bordure des monts Taurus et est célèbre pour sa glace traditionnelle, la Maraş dondurması."},
     facts: {
       de: ["Die Stadt erhielt 1973 den Zusatztitel \"Kahraman\" (heldenhaft)", "Eines der Epizentren der Erdbeben von 2023"],
@@ -14717,7 +14699,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-25",
     coords: [41.2689, 39.9043],
     name: { de: "Erzurum", hu: "Erzurum", ro: "Erzurum", en: "Erzurum"},
-    image: "/poi-images/erzurum-cities-v2.webp",
     description: { de: "Erzurum ist mit über 1900 Metern über dem Meeresspiegel die höchstgelegene Großstadt der Türkei.", hu: "Erzurum a több mint 1900 méteres tengerszint feletti magasságával Törökország legmagasabban fekvő nagyvárosa.", ro: "La peste 1900 de metri deasupra nivelului mării, Erzurum este cel mai înalt oraș mare din Turcia.", en: "At over 1900 meters above sea level, Erzurum is the highest major city in Turkey." , es: "Erzurum es la gran ciudad más alta de Turquía, con más de 1900 metros sobre el nivel del mar.", pt: "Erzurum é a grande cidade mais alta da Turquia, a mais de 1900 metros acima do nível do mar.", fr: "Erzurum est la plus haute grande ville de Turquie, située à plus de 1900 mètres au-dessus du niveau de la mer."},
     facts: {
       de: ["Die Stadt veranstaltete die Winter-Universiade 2011", "Die Çifte-Minareli-Medrese ist ein Wahrzeichen der Stadt"],
@@ -15158,7 +15139,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-65",
     coords: [43.3764, 38.4946],
     name: { de: "Van", hu: "Van", ro: "Van", en: "Van"},
-    image: "/poi-images/van-cities-v2.webp",
     description: { de: "Die Stadt Van liegt am Ostufer des Vansees, dem größten See der Türkei, und blickt auf eine alte Geschichte zurück.", hu: "Van városa a Van-tó, Törökország legnagyobb tavának keleti partján fekszik, és ősi történelemmel büszkélkedhet.", ro: "Orașul Van se află pe malul estic al lacului Van, cel mai mare lac din Turcia, și se mândrește cu o istorie străveche.", en: "The city of Van is located on the eastern shore of Lake Van, Turkey's largest lake, and boasts an ancient history." , es: "La ciudad de Van se encuentra en la orilla oriental del Lago Van, el lago más grande de Turquía, y tiene una historia antigua.", pt: "A cidade de Van situa-se na margem oriental do Lago Van, o maior lago da Turquia, e tem uma história antiga.", fr: "La ville de Van est située sur la rive orientale du lac de Van, le plus grand lac de Turquie, et possède une histoire ancienne."},
     facts: {
       de: ["War unter dem Namen Tuschpa die Hauptstadt des Königreichs Urartu", "Die Van-Katze mit ihren verschiedenfarbigen Augen stammt von hier"],
@@ -15419,7 +15399,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-72",
     coords: [41.1322, 37.8812],
     name: { de: "Batman", hu: "Batman", ro: "Batman", en: "Batman"},
-    image: "/poi-images/batman-cities-v2.webp",
     description: { de: "Batman ist das wichtigste Ölförderungszentrum der Türkei und verzeichnete in den letzten Jahrzehnten ein starkes Wachstum.", hu: "Batman Törökország legfontosabb kőolaj-kitermelési központja, az elmúlt évtizedekben jelentős növekedést mutatott.", ro: "Batman este cel mai important centru de extracție a petrolului din Turcia și a înregistrat o creștere semnificativă în ultimele decenii.", en: "Batman is Turkey's most important oil production center and has experienced significant growth in recent decades." , es: "Batman es el centro de producción petrolera más importante de Turquía y ha experimentado un fuerte crecimiento en las últimas décadas.", pt: "Batman é o centro de produção de petróleo mais importante da Turquia e registrou um forte crescimento nas últimas décadas.", fr: "Batman est le plus important centre de production pétrolière de Turquie et a connu une forte croissance au cours des dernières décennies."},
     facts: {
       de: ["Wurde nach dem nahegelegenen Fluss Batman benannt", "Der Bau der ersten Ölraffinerie begann 1955"],
@@ -15680,7 +15659,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-23",
     coords: [39.2230, 38.6743],
     name: { de: "Elazığ", hu: "Elazığ", ro: "Elazığ", en: "Elazığ"},
-    image: "/poi-images/elazig-cities-v2.webp",
     description: { de: "Elazığ liegt im ostanatolischen Hochland nahe der Euphrat-Talsperre und entwickelte sich aus der historischen Siedlung Harput.", hu: "Elazığ a kelet-anatóliai felvidéken, az Eufrátesz-gát közelében fekszik, és a történelmi Harput településből alakult ki.", ro: "Elazığ se află pe podișul Anatoliei de Est, lângă barajul Eufrat, și s-a dezvoltat din așezarea istorică Harput.", en: "Elazığ is located in the Eastern Anatolian highland near the Euphrates dam and developed from the historical settlement of Harput." , es: "Elazığ se encuentra en las tierras altas del este de Anatolia, cerca de la presa del Éufrates, y se desarrolló a partir del asentamiento histórico de Harput.", pt: "Elazığ fica nas terras altas da Anatólia Oriental, perto da barragem do Eufrates, e desenvolveu-se a partir do assentamento histórico de Harput.", fr: "Elazığ est située dans les hautes terres de l'Anatolie orientale, près du barrage sur l'Euphrate, et s'est développée à partir du site historique de Harput."},
     facts: {
       de: ["Wurde 1834 unter osmanischer Herrschaft gegründet", "Der Keban-Staudamm liegt nordwestlich der Stadt"],
@@ -16049,7 +16027,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-41",
     coords: [29.9397, 40.7656],
     name: { de: "İzmit", hu: "İzmit", ro: "Izmit", en: "İzmit"},
-    image: "/poi-images/izmit-cities-v2.webp",
     description: { de: "İzmit ist ein stark industrialisiertes Zentrum am Marmarameer, das im römischen Reich als Nikomedia bekannt war.", hu: "İzmit egy erősen iparosodott központ a Márvány-tenger mellett, amelyet a Római Birodalomban Nikomédiaként ismertek.", ro: "Izmit este un centru puternic industrializat la Marea Marmara, cunoscut în Imperiul Roman ca Nicomedia.", en: "İzmit is a heavily industrialized center on the Sea of Marmara, known in the Roman Empire as Nicomedia." , es: "İzmit es un centro fuertemente industrializado en el mar de Mármara, conocido en el Imperio Romano como Nicomedia.", pt: "İzmit é um centro fortemente industrializado no mar de Mármara, conhecido no Império Romano como Nicomédia.", fr: "İzmit est un centre fortement industrialisé sur la mer de Marmara, connu sous le nom de Nicomédie dans l'Empire romain."},
     facts: {
       de: ["War 286 unter Diokletian die östliche Hauptstadt des Römischen Reiches", "Verfügt über eine der größten Papierfabriken der Türkei"],
@@ -16454,7 +16431,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-45",
     coords: [27.4269, 38.6140],
     name: { de: "Manisa", hu: "Manisa", ro: "Manisa", en: "Manisa"},
-    image: "/poi-images/manisa-cities-v2.webp",
     description: { de: "Manisa ist eine bedeutende Stadt in der Ägäisregion und traditionell als Ausbildungsort der osmanischen Prinzen bekannt.", hu: "Manisa jelentős város az égei-tengeri régióban, amely hagyományosan az oszmán hercegek képzési helyeként ismert.", ro: "Manisa este un oraș major în regiunea Mării Egee și cunoscut tradițional ca loc de antrenament pentru prinții otomani.", en: "Manisa is a major city in the Aegean region and traditionally known as a training ground for Ottoman princes." , es: "Manisa es una ciudad importante en la región del Egeo y tradicionalmente conocida como el lugar de formación de los príncipes otomanos.", pt: "Manisa é uma cidade importante na região do Egeu e tradicionalmente conhecida como o local de formação dos príncipes otomanos.", fr: "Manisa est une ville importante dans la région égéenne, traditionnellement connue comme lieu de formation des princes ottomans."},
     facts: {
       de: ["Die Stadt am Berg Spil hieß in der Antike Magnesia ad Sipylum", "Austragungsort des jährlichen Mesir-Macunu-Festivals"],
@@ -17039,7 +17015,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-58",
     coords: [37.0167, 39.7500],
     name: { de: "Sivas", hu: "Sivas", ro: "Sivas", en: "Sivas"},
-    image: "/poi-images/sivas-cities-v2.webp",
     description: { de: "Sivas ist ein historischer Verkehrsknotenpunkt in Zentralanatolien und berühmt für seine seldschukische Architektur aus dem 13. Jahrhundert.", hu: "Sivas egy történelmi közlekedési csomópont Közép-Anatóliában, és híres a 13. századi szeldzsuk építészetéről.", ro: "Sivas este un nod istoric de transport în Anatolia Centrală și este faimos pentru arhitectura sa selgiucidă din secolul al XIII-lea.", en: "Sivas is a historical transport hub in Central Anatolia and is famous for its 13th-century Seljuk architecture." , es: "Sivas es un nodo de transporte histórico en Anatolia Central y famoso por su arquitectura selyúcida del siglo XIII.", pt: "Sivas é um centro de transporte histórico na Anatólia Central e famoso pela sua arquitetura seljúcida do século XIII.", fr: "Sivas est un carrefour historique en Anatolie centrale et célèbre pour son architecture seldjoukide du XIIIe siècle."},
     facts: {
       de: ["Hieß in der Römerzeit Sebasteia", "Hier fand 1919 der wichtige Sivas-Kongress statt"],
@@ -18785,7 +18760,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-61",
     coords: [39.7167, 41.0000],
     name: { de: "Trabzon", hu: "Trabzon", ro: "Trabzon", en: "Trabzon"},
-    image: "/poi-images/trabzon-cities-v2.webp",
     description: { de: "Trabzon ist eine historische Küstenstadt am Schwarzen Meer und war das Zentrum des Kaiserreichs Trapezunt.", hu: "Trabzon egy történelmi tengerparti város a Fekete-tenger mentén, amely egykor a Trapezunti Császárság központja volt.", ro: "Trabzon este un oraș de coastă istoric la Marea Neagră și a fost centrul Imperiului din Trebizonda.", en: "Trabzon is a historic coastal city on the Black Sea and was the center of the Empire of Trebizond." , es: "Trabzon es una ciudad costera histórica en el Mar Negro y fue el centro del Imperio de Trebisonda.", pt: "Trabzon é uma cidade costeira histórica no Mar Negro e foi o centro do Império de Trebizonda.", fr: "Trabzon est une ville côtière historique sur la mer Noire et fut le centre de l'Empire de Trébizonde."},
     facts: {
       de: ["Das Sumela-Kloster liegt südlich der Stadt in den Bergen", "Berühmt für die Produktion von Haselnüssen"],
@@ -19190,7 +19164,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-59",
     coords: [27.5167, 40.9833],
     name: { de: "Tekirdağ", hu: "Tekirdağ", ro: "Tekirdağ", en: "Tekirdağ"},
-    image: "/poi-images/tekirdag-cities-v2.webp",
     description: { de: "Tekirdağ ist eine schnell wachsende Hafenstadt in Ostthrakien an der Nordküste des Marmarameeres.", hu: "Tekirdağ egy gyorsan növekvő kikötőváros Kelet-Trákiában, a Márvány-tenger északi partján.", ro: "Tekirdağ este un oraș portuar cu creștere rapidă în Tracia de Est, pe coasta de nord a Mării Marmara.", en: "Tekirdağ is a rapidly growing port city in East Thrace on the northern coast of the Sea of Marmara." , es: "Tekirdağ es una ciudad portuaria de rápido crecimiento en Tracia Oriental, en la costa norte del Mar de Mármara.", pt: "Tekirdağ é uma cidade portuária de rápido crescimento na Trácia Oriental, na costa norte do Mar de Mármara.", fr: "Tekirdağ est une ville portuaire en pleine croissance en Thrace orientale, sur la côte nord de la mer de Marmara."},
     facts: {
       de: ["Rákóczi Ferenc verbrachte hier seine letzten Jahre im Exil", "Bekannt für den lokalen Rakı, einen Anisschnaps"],
@@ -19451,7 +19424,6 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     parent: "TR-80",
     coords: [36.2500, 37.0667],
     name: { de: "Osmaniye", hu: "Osmaniye", ro: "Osmaniye", en: "Osmaniye"},
-    image: "/poi-images/osmaniye-cities-v2.webp",
     description: { de: "Osmaniye ist eine relativ neue Provinzstadt im Übergang von der Çukurova-Ebene zum Amanos-Gebirge.", hu: "Osmaniye egy viszonylag új tartományi város a Çukurova-síkság és az Amanos-hegység találkozásánál.", ro: "Osmaniye este un oraș de provincie relativ nou la trecerea de la câmpia Çukurova la Munții Amanus.", en: "Osmaniye is a relatively new provincial city at the transition from the Çukurova plain to the Amanus Mountains." , es: "Osmaniye es una ciudad provincial relativamente nueva en la transición de la llanura de Çukurova a las montañas Amanos.", pt: "Osmaniye é uma cidade provincial relativamente nova na transição da planície de Çukurova para as montanhas Amanos.", fr: "Osmaniye est une ville provinciale relativement nouvelle située à la transition entre la plaine de Çukurova et les montagnes Amanos."},
     facts: {
       de: ["Die Region produziert eine große Menge an Erdnüssen", "Das archäologische Freilichtmuseum Karatepe-Aslantaş liegt in der Nähe"],

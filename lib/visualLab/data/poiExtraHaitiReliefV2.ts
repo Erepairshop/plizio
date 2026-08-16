@@ -8,7 +8,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-OU",
     coords: [-72.5, 18.9],
     name: { de: "Chaîne des Matheux", hu: "Chaîne des Matheux hegység", ro: "Munții Chaîne des Matheux", en: "Chaîne des Matheux"},
-    image: "/poi-images/chaine-des-matheux-relief-v2.webp",
     description: {
       de: "Eine bedeutende Bergkette in West-Haiti, die sich parallel zur Küste des Golfs von Gonâve erstreckt.",
       hu: "Jelentős hegylánc Nyugat-Haitin, amely a Gonâve-öböl partjával párhuzamosan húzódik.",
@@ -56,7 +55,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-OU",
     coords: [-72.2, 18.6],
     name: { de: "Cul-de-Sac-Ebene", hu: "Cul-de-Sac-síkság", ro: "Câmpia Cul-de-Sac", en: "Cul-de-Sac Plain"},
-    image: "/poi-images/plaine-du-cul-de-sac-relief-v2.webp",
     description: {
       de: "Eine Tiefebene im Osten von Port-au-Prince, die sich bis zur Grenze der Dominikanischen Republik erstreckt.",
       hu: "Mélyföld Port-au-Prince-től keletre, amely a Dominikai Köztársaság határáig terjed.",
@@ -104,7 +102,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-SD",
     coords: [-73.85, 18.35],
     name: { de: "Morne Baptiste", hu: "Morne Baptiste", ro: "Muntele Baptiste", en: "Morne Baptiste"},
-    image: "/poi-images/morne-baptiste-relief-v2.webp",
     description: {
       de: "Ein Berg im Massif de la Hotte, der eine wichtige Rolle für die lokale Biodiversität spielt.",
       hu: "Hegy a Massif de la Hotte-ban, amely fontos szerepet játszik a helyi biodiverzitásban.",
@@ -152,7 +149,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-SE",
     coords: [-71.95, 18.3],
     name: { de: "Nationaler Kiefernwald", hu: "Nemzeti Fenyőerdő", ro: "Pădurea Națională de Pini", en: "National Pine Forest"},
-    image: "/poi-images/foret-nationale-de-pins-relief-v2.webp",
     description: {
       de: "Ein ausgedehnter Kiefernwald in der Bergregion von La Selle, entscheidend für den Wasserhaushalt des Landes.",
       hu: "Kiterjedt fenyőerdő La Selle hegyvidéki régiójában, amely döntő fontosságú az ország vízháztartása szempontjából.",
@@ -200,7 +196,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-OU",
     coords: [-72.6, 18.5],
     name: { de: "Léogâne-Ebene", hu: "Léogâne-síkság", ro: "Câmpia Léogâne", en: "Léogâne Plain"},
-    image: "/poi-images/plaine-de-leogane-relief-v2.webp",
     description: {
       de: "Eine fruchtbare Küstenebene westlich von Port-au-Prince, ein Zentrum des Zuckerrohranbaus.",
       hu: "Termékeny tengerparti síkság Port-au-Prince-től nyugatra, a cukornádtermesztés központja.",
@@ -294,7 +289,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-SE",
     coords: [-72.55, 18.3],
     name: { de: "Jacmel-Tal", hu: "Jacmel-völgy", ro: "Valea Jacmel", en: "Jacmel Valley"},
-    image: "/poi-images/vallee-de-jacmel-relief-v2.webp",
     description: {
       de: "Ein Tal, das die Stadt Jacmel umgibt und von Flüssen durchzogen wird, die in das Karibische Meer münden.",
       hu: "Egy völgy, amely Jacmel városát veszi körül, és amelyet a Karib-tengerbe ömlő folyók szelnek át.",
@@ -342,7 +336,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-ND",
     coords: [-73.1, 19.8],
     name: { de: "Nordwest-Halbinsel", hu: "Északnyugati-félsziget", ro: "Peninsula de Nord-Vest", en: "North-West Peninsula"},
-    image: "/poi-images/peninsule-du-nord-ouest-relief-v2.webp",
     description: {
       de: "Die trockenste und abgelegenste Region Haitis mit einer zerklüfteten Küstenlinie.",
       hu: "Haiti legszárazabb és legelzártabb régiója, tagolt partvonallal.",
@@ -390,7 +383,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-CE",
     coords: [-71.8, 18.75],
     name: { de: "Grands Bois Wald", hu: "Grands Bois erdő", ro: "Pădurea Grands Bois", en: "Grands Bois Forest"},
-    image: "/poi-images/foret-des-grands-bois-relief-v2.webp",
     description: {
       de: "Ein Restfeuchtwald nahe der dominikanischen Grenze, Heimat seltener Arten.",
       hu: "Maradvány nedves erdő a dominikai határ közelében, ritka fajok otthona.",
@@ -438,7 +430,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-OU",
     coords: [-72.0, 18.8],
     name: { de: "Montagnes du Trou d'Eau", hu: "Montagnes du Trou d'Eau", ro: "Munții Trou d'Eau", en: "Trou d'Eau Mountains"},
-    image: "/poi-images/montagnes-trou-deau-relief-v2.webp",
     description: {
       de: "Eine Gebirgskette, die die Cul-de-Sac-Ebene vom zentralen Plateau trennt.",
       hu: "Hegylánc, amely elválasztja a Cul-de-Sac-síkságot a központi fennsíktól.",
@@ -486,7 +477,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-SD",
     coords: [-73.8, 18.25],
     name: { de: "Les Cayes-Ebene", hu: "Les Cayes-síkság", ro: "Câmpia Les Cayes", en: "Les Cayes Plain"},
-    image: "/poi-images/plaine-des-cayes-relief-v2.webp",
     description: {
       de: "Eine fruchtbare Küstenebene im Süden Haitis, wichtig für die Landwirtschaft.",
       hu: "Termékeny tengerparti síkság Haiti déli részén, fontos a mezőgazdaság szempontjából.",
@@ -534,7 +524,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-GA",
     coords: [-73.85, 18.5],
     name: { de: "Pic de Bonhomme", hu: "Pic de Bonhomme", ro: "Vârful Bonhomme", en: "Pic de Bonhomme"},
-    image: "/poi-images/pic-de-bonhomme-relief-v2.webp",
     description: {
       de: "Ein Berg im Massif de la Hotte, der für seine reiche Flora und Fauna bekannt ist.",
       hu: "Hegy a Massif de la Hotte hegységben, amely gazdag növény- és állatvilágáról ismert.",
@@ -582,7 +571,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-AR",
     coords: [-72.6, 19.5],
     name: { de: "Savane Désolée", hu: "Savane Désolée", ro: "Savana Dezolată", en: "Desolate Savannah"},
-    image: "/poi-images/savane-desolee-relief-v2.webp",
     description: {
       de: "Eine trockene, savannenartige Ebene im Artibonite-Tal.",
       hu: "Száraz, szavannaszerű síkság az Artibonite-völgyben.",
@@ -628,7 +616,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-NO",
     coords: [-72.25, 19.58],
     name: { de: "Wald der Zitadelle", hu: "A Citadella erdeje", ro: "Pădurea Citadelei", en: "Citadelle Forest"},
-    image: "/poi-images/foret-de-la-citadelle-relief-v2.webp",
     description: {
       de: "Der Wald, der die Hänge rund um die Zitadelle Laferrière und den Sans-Souci-Palast bedeckt.",
       hu: "Az erdő, amely a Citadelle Laferrière és a Sans-Souci palota körüli lejtőket borítja.",
@@ -674,7 +661,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-SD",
     coords: [-73.9, 18.06],
     name: { de: "Halbinsel von Port-Salut", hu: "Port-Salut-félsziget", ro: "Peninsula Port-Salut", en: "Port-Salut Peninsula"},
-    image: "/poi-images/presquile-de-port-salut-relief-v2.webp",
     description: {
       de: "Eine kleine Halbinsel an der Südküste, bekannt für ihre wunderschönen Sandstrände.",
       hu: "Kis félsziget a déli parton, amely gyönyörű homokos strandjairól ismert.",
@@ -720,7 +706,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-SE",
     coords: [-72.33, 18.33],
     name: { de: "Morne La Visite", hu: "Morne La Visite", ro: "Muntele La Visite", en: "Morne La Visite"},
-    image: "/poi-images/morne-la-visite-relief-v2.webp",
     description: {
       de: "Ein hoher Gipfel im La Visite Nationalpark, Kernstück eines wichtigen Kiefernwald-Ökosystems.",
       hu: "Magas csúcs a La Visite Nemzeti Parkban, egy fontos fenyőerdő-ökoszisztéma központi eleme.",
@@ -766,7 +751,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-CE",
     coords: [-72.0, 19.0],
     name: { de: "Zentralplateau", hu: "Központi-fennsík", ro: "Platoul Central", en: "Central Plateau"},
-    image: "/poi-images/plateau-central-haiti-relief-v2.webp",
     description: {
       de: "Ein großes Binnenplateau, das einen erheblichen Teil des Zentrums von Haiti ausmacht.",
       hu: "Nagy belső fennsík, amely Haiti központi részének jelentős részét teszi ki.",
@@ -812,7 +796,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-OU",
     coords: [-72.3, 18.5],
     name: { de: "Morne Calvaire", hu: "Morne Calvaire", ro: "Muntele Calvaire", en: "Morne Calvaire"},
-    image: "/poi-images/morne-calvaire-relief-v2.webp",
     description: {
       de: "Ein Hügel, der Pétion-Ville überblickt und ein beliebter Ort für Wanderungen und Panoramablicke auf die Hauptstadt ist.",
       hu: "Egy domb, amely Pétion-Ville-re néz, és népszerű hely a túrázáshoz és a főváros panorámájának megtekintéséhez.",
@@ -858,7 +841,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-AR",
     coords: [-72.35, 19.1],
     name: { de: "Schluchten des Rivière Blanche", hu: "Rivière Blanche-szurdok", ro: "Cheile Râului Blanche", en: "Rivière Blanche Gorges"},
-    image: "/poi-images/gorges-de-la-riviere-blanche-relief-v2.webp",
     description: {
       de: "Eine Reihe von Schluchten, die vom Rivière Blanche in die Landschaft geschnitten wurden.",
       hu: "Szurdokok sorozata, amelyet a Rivière Blanche vájt a tájba.",
@@ -904,7 +886,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-GA",
     coords: [-74.05, 18.4],
     name: { de: "Macaya Nebelwald", hu: "Macaya köderdő", ro: "Pădurea de ceață Macaya", en: "Macaya Cloud Forest"},
-    image: "/poi-images/foret-macaya-cloud-forest-relief-v2.webp",
     description: {
       de: "Einer der letzten verbliebenen Nebelwälder in der Karibik, ein Hotspot der Biodiversität.",
       hu: "Az egyik utolsó megmaradt köderdő a Karib-térségben, a biodiverzitás egyik forró pontja.",
@@ -950,7 +931,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-OU",
     coords: [-73.1, 18.75],
     name: { de: "Pointe-à-Raquette", hu: "Pointe-à-Raquette", ro: "Pointe-à-Raquette", en: "Pointe-à-Raquette"},
-    image: "/poi-images/pointe-a-raquette-relief-v2.webp",
     description: {
       de: "Eine Gemeinde an der Südküste der Insel Gonâve.",
       hu: "Község a Gonâve-sziget déli partján.",
@@ -996,7 +976,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-OU",
     coords: [-72.35, 18.5],
     name: { de: "Morne l'Hôpital", hu: "Morne l'Hôpital", ro: "Muntele l'Hôpital", en: "Morne l'Hôpital"},
-    image: "/poi-images/morne-lhopital-relief-v2.webp",
     description: {
       de: "Ein Berg, der direkt südlich von Port-au-Prince aufsteigt und stark von Entwaldung betroffen ist.",
       hu: "Egy hegy, amely közvetlenül Port-au-Prince-től délre emelkedik, és súlyosan érinti az erdőirtás.",
@@ -1042,7 +1021,6 @@ export const poiExtraHaitiReliefV2: POI[] = [
     parent: "HT-AR",
     coords: [-72.9, 19.65],
     name: { de: "Salzebenen von Anse-Rouge", hu: "Anse-Rouge sóstavak", ro: "Salinele Anse-Rouge", en: "Anse-Rouge Salt Flats"},
-    image: "/poi-images/anse-rouge-salt-flats-relief-v2.webp",
     description: {
       de: "Eine Küstenregion im Artibonite, die für ihre traditionelle Meersalzgewinnung bekannt ist.",
       hu: "Tengerparti régió Artibonite-ban, amely a hagyományos tengeri sókitermeléséről ismert.",

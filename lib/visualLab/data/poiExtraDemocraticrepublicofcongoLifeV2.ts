@@ -12,7 +12,6 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
       hu: "Bombo-Lumene Nemzeti Park",
       ro: "Parcul Național Bombo-Lumene",
       en: "Bombo-Lumene National Park"},
-    image: "/poi-images/bombo-lumene-life-v2.webp",
     description: {
       de: "Ein Schutzgebiet in der Nähe von Kinshasa, bekannt für seine Savannenlandschaften und Flusstäler.",
       hu: "Kinshasa közelében található védett terület, amely szavannáiról és folyóvölgyeiről ismert.",
@@ -60,7 +59,6 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
       hu: "Kisimba-Ikobo Természetvédelmi Terület",
       ro: "Rezervația Naturală Kisimba-Ikobo",
       en: "Kisimba-Ikobo Nature Reserve"},
-    image: "/poi-images/kisimba-ikobo-life-v2.webp",
     description: {
       de: "Ein wichtiges Reservat in Nord-Kivu, das als Korridor für Wildtiere zwischen verschiedenen Nationalparks dient.",
       hu: "Fontos rezervátum Észak-Kivuban, amely vadvilági folyosóként szolgál a különböző nemzeti parkok között.",
@@ -108,7 +106,6 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
       hu: "Tayna Természetvédelmi Terület",
       ro: "Rezervația Naturală Tayna",
       en: "Tayna Nature Reserve"},
-    image: "/poi-images/tayna-life-v2.webp",
     description: {
       de: "Ein von der Gemeinde verwaltetes Reservat, das speziell dem Schutz der Grauergorillas gewidmet ist.",
       hu: "Közösségi kezelésű rezervátum, amelyet kifejezetten a keleti síkvidéki gorillák védelmének szenteltek.",
@@ -201,7 +198,6 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
       hu: "Lola ya Bonobo szentély",
       ro: "Sanctuarul Lola ya Bonobo",
       en: "Lola ya Bonobo Sanctuary"},
-    image: "/poi-images/lola-ya-bonobo-life-v2.webp",
     description: {
       de: "Das weltweit einzige Schutzgebiet für verwaiste Bonobos, gelegen in einem Waldstück südlich von Kinshasa.",
       hu: "A világ egyetlen árva bonobók számára létrehozott menedékhelye, egy Kinshasától délre fekvő erdőben.",
@@ -249,7 +245,6 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
       hu: "Kinshasai Állatkert",
       ro: "Grădina Zoologică din Kinshasa",
       en: "Kinshasa Zoo"},
-    image: "/poi-images/kinshasa-zoo-life-v2.webp",
     description: {
       de: "Ein historischer Zoo im Zentrum der Hauptstadt, der einheimische Tierarten zeigt und ein Ziel für Familien ist.",
       hu: "A főváros központjában található történelmi állatkert, amely őshonos fajokat mutat be és családok kedvelt célpontja.",
@@ -414,7 +409,6 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
       hu: "Kinshasai Botanikus Kert",
       ro: "Grădina Botanică din Kinshasa",
       en: "Kinshasa Botanical Garden"},
-    image: "/poi-images/kinshasa-botanical-garden-life-v2.webp",
     description: {
       de: "Eine grüne Oase im Herzen von Kinshasa mit einer beeindruckenden Sammlung tropischer Pflanzen und Bäume.",
       hu: "Zöld oázis Kinshasa szívében, trópusi növények és fák lenyűgöző gyűjteményével.",
@@ -543,7 +537,6 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
       hu: "Kisantui Botanikus Kert",
       ro: "Grădina Botanică din Kisantu",
       en: "Kisantu Botanical Garden"},
-    image: "/poi-images/kisantu-botanical-garden-life-v2.webp",
     description: {
       de: "Einer der ältesten botanischen Gärten Zentralafrikas, berühmt für seine Alleen und die Vielfalt der Flora.",
       hu: "Közép-Afrika egyik legrégebbi botanikus kertje, amely sétányairól és változatos flórájáról híres.",
@@ -636,7 +629,6 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
       hu: "Ma Vallée-tó",
       ro: "Lacul Ma Vallée",
       en: "Ma Vallée Lake"},
-    image: "/poi-images/ma-vallee-lake-life-v2.webp",
     description: {
       de: "Ein malerischer künstlicher See in einem bewaldeten Tal, ein beliebter Ort für Freizeitaktivitäten und Naturbeobachtungen.",
       hu: "Festői mesterséges tó egy erdős völgyben, népszerű hely a szabadidős tevékenységekhez és a természet megfigyeléséhez.",
@@ -684,7 +676,6 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
       hu: "Kaniama Kasese állami gazdaság",
       ro: "Ferma de stat Kaniama Kasese",
       en: "Kaniama Kasese State Farm"},
-    image: "/poi-images/kaniama-state-farm-life-v2.webp",
     description: {
       de: "Ein riesiger landwirtschaftlicher Komplex, der für die Nahrungsmittelproduktion und die Ausbildung von Arbeitskräften genutzt wird.",
       hu: "Hatalmas mezőgazdasági komplexum, amelyet élelmiszertermelésre és munkaerő-képzésre használnak.",
@@ -732,7 +723,6 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
       hu: "Gandajika mezőgazdasági kutatóközpont",
       ro: "Centrul de cercetare agricolă Gandajika",
       en: "Gandajika Agricultural Research Center"},
-    image: "/poi-images/gandajika-research-life-v2.webp",
     description: {
       de: "Eine bedeutende Station für landwirtschaftliche Forschung und Entwicklung in der Lomami-Region.",
       hu: "A mezőgazdasági kutatás és fejlesztés jelentős állomása a Lomami régióban.",
@@ -780,7 +770,6 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
       hu: "Maniema méztermelés",
       ro: "Producția de miere în Maniema",
       en: "Maniema Honey Production"},
-    image: "/poi-images/maniema-honey-life-v2.webp",
     description: {
       de: "Die Region Maniema ist bekannt für ihre traditionelle und ökologische Honigproduktion im dichten Wald.",
       hu: "Maniema régió a sűrű erdőben folytatott hagyományos és ökológiai méztermeléséről ismert.",
@@ -828,7 +817,6 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
       hu: "Lufira-völgyi állattenyésztés",
       ro: "Creșterea animalelor în Valea Lufira",
       en: "Lufira Valley Cattle Ranching"},
-    image: "/poi-images/lufira-cattle-life-v2.webp",
     description: {
       de: "Ein bedeutendes Gebiet für die Rinderzucht in Haut-Katanga, begünstigt durch weite Grasebenen.",
       hu: "A szarvasmarha-tenyésztés jelentős területe Haut-Katanga tartományban, melyet a tágas füves síkságok segítenek.",
@@ -876,7 +864,6 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
       hu: "Bas-Uele gyapotföldjei",
       ro: "Câmpurile de bumbac din Bas-Uele",
       en: "Bas-Uele Cotton Fields"},
-    image: "/poi-images/bas-uele-cotton-life-v2.webp",
     description: {
       de: "Ein historisches und wiederbelebtes Anbaugebiet für Baumwolle im Norden des Landes.",
       hu: "Történelmi és újjáélesztett gyapottermesztő terület az ország északi részén.",
@@ -924,7 +911,6 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
       hu: "Tshela kakaóültetvényei",
       ro: "Plantațiile de cacao din Tshela",
       en: "Tshela Cocoa Estates"},
-    image: "/poi-images/tshela-cocoa-life-v2.webp",
     description: {
       de: "Ein fruchtbares Gebiet in Kongo Central, das für seine hochwertigen Kakaobohnen bekannt ist.",
       hu: "Termékeny terület Kongo Central tartományban, amely kiváló minőségű kakaóbabjairól ismert.",
@@ -972,7 +958,6 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
       hu: "Inongo halászterületei",
       ro: "Zonă de pescuit Inongo",
       en: "Inongo Fishing Grounds"},
-    image: "/poi-images/inongo-fishing-life-v2.webp",
     description: {
       de: "Der fischreiche Mai-Ndombe-See bietet Lebensraum für zahlreiche Fischarten und sichert die Ernährung der Region.",
       hu: "A halban gazdag Mai-Ndombe-tó számos halfajnak ad otthont és biztosítja a régió élelmezését.",
@@ -1020,7 +1005,6 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
       hu: "Mezőgazdaság az Uele folyó mentén",
       ro: "Agricultura de-a lungul râului Uele",
       en: "Uele River Agriculture"},
-    image: "/poi-images/uele-agriculture-life-v2.webp",
     description: {
       de: "Die fruchtbaren Schwemmlandböden entlang des Uele-Flusses werden intensiv für den Anbau von Reis und Gemüse genutzt.",
       hu: "Az Uele folyó menti termékeny ártéri talajokat intenzíven használják rizs és zöldség termesztésére.",
@@ -1068,7 +1052,6 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
       hu: "Kwilu pálmaolaj-ligetei",
       ro: "Livezile de palmier din Kwilu",
       en: "Kwilu Palm Plantations"},
-    image: "/poi-images/kwilu-palm-life-v2.webp",
     description: {
       de: "Die Provinz Kwilu ist eine der Kernregionen für die Produktion von Palmöl im Kongo.",
       hu: "Kwilu tartomány a pálmaolaj-termelés egyik központi régiója Kongóban.",
@@ -1161,7 +1144,6 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
       hu: "Lubero hegyi gazdaságai",
       ro: "Fermele montane din Lubero",
       en: "Lubero Mountain Farms"},
-    image: "/poi-images/lubero-farms-life-v2.webp",
     description: {
       de: "Aufgrund der kühlen Höhenlage werden in Lubero europäische Gemüsesorten wie Kartoffeln und Kohl angebaut.",
       hu: "A hűvös hegyi klímának köszönhetően Luberóban európai zöldségféléket, például burgonyát és káposztát termesztenek.",
@@ -1209,7 +1191,6 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
       hu: "Bambesa kutatóállomás",
       ro: "Stația de cercetare Bambesa",
       en: "Bambesa Research Station"},
-    image: "/poi-images/bambesa-research-life-v2.webp",
     description: {
       de: "Ein historisches Zentrum für agronomische Forschung, spezialisiert auf die Anpassung von Nutzpflanzen an das Waldklima.",
       hu: "Mezőgazdasági kutatások történelmi központja, amely a haszonnövények erdei klímához való alkalmazkodására szakosodott.",

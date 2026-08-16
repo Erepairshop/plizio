@@ -237,7 +237,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Zöld-foki Nemzeti Stadion",
       ro: "Stadionul Național din Capul Verde",
       en: "National Stadium of Cape Verde"},
-    image: "/poi-images/estadio-nacional-landmarks-v2.webp",
     description: {
       de: "Das größte Fußballstadion des Landes, das als Symbol der sportlichen Ambitionen Kap Verdes gilt.",
       hu: "Az ország legnagyobb futballstadionja, amely a Zöld-foki-szigetek sportolási ambícióinak szimbóluma.",
@@ -402,7 +401,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Ponta Temerosa világítótorony",
       ro: "Farul din Ponta Temerosa",
       en: "Ponta Temerosa Lighthouse"},
-    image: "/poi-images/farol-ponta-temerosa-landmarks-v2.webp",
     description: {
       de: "Ein markanter Leuchtturm an der südlichen Spitze der Insel Santiago, der Schiffen den Weg zum Hafen von Praia weist.",
       hu: "Jellegzetes világítótorony Santiago szigetének déli csücskén, amely a Praia kikötőjébe tartó hajókat segíti.",
@@ -450,7 +448,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Diogo Gomes emlékmű",
       ro: "Monumentul lui Diogo Gomes",
       en: "Monument to Diogo Gomes"},
-    image: "/poi-images/monumento-diogo-gomes-landmarks-v2.webp",
     description: {
       de: "Eine Statue zu Ehren des portugiesischen Entdeckers, der als einer der Entdecker der Insel Santiago gilt.",
       hu: "Szobor a portugál felfedező tiszteletére, akit Santiago szigetének egyik felfedezőjeként tartanak számon.",
@@ -543,7 +540,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Praia városháza",
       ro: "Primăria din Praia",
       en: "Praia City Hall"},
-    image: "/poi-images/camara-municipal-praia-landmarks-v2.webp",
     description: {
       de: "Ein elegantes Gebäude am Hauptplatz von Praia, das den Sitz der Stadtverwaltung beherbergt.",
       hu: "Elegáns épület Praia főterén, amely a városi önkormányzat székhelyének ad otthont.",
@@ -591,7 +587,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Zöld-foki Nemzeti Gyűlés",
       ro: "Adunarea Națională a Capului Verde",
       en: "National Assembly of Cape Verde"},
-    image: "/poi-images/assembleia-nacional-landmarks-v2.webp",
     description: {
       de: "Das Gebäude des Parlaments von Kap Verde, ein modernes architektonisches Wahrzeichen in Praia.",
       hu: "A zöld-foki parlament épülete, Praia modern építészeti nevezetessége.",
@@ -614,7 +609,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Nossa Senhora da Graça templom (Praia)",
       ro: "Biserica Nossa Senhora da Graça (Praia)",
       en: "Church of Our Lady of Grace (Praia)"},
-    image: "/poi-images/igreja-nossa-senhora-graca-landmarks-v2.webp",
     description: {
       de: "Die Hauptkirche der Hauptstadt, gelegen am zentralen Praça Alexandre Albuquerque.",
       hu: "A főváros főtemploma, a központi Praça Alexandre Albuquerque téren található.",
@@ -815,7 +809,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Igazságügyi Palota (Praia)",
       ro: "Palatul de Justiție (Praia)",
       en: "Palace of Justice (Praia)"},
-    image: "/poi-images/palacio-justica-praia-landmarks-v2.webp",
     description: {
       de: "Ein monumentales Gebäude im Zentrum von Praia, das die höchsten Gerichte des Landes beherbergt.",
       hu: "Monumentális épület Praia központjában, amely az ország legfelsőbb bíróságainak ad otthont.",
@@ -944,7 +937,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Sucupira piac",
       ro: "Piața Sucupira",
       en: "Sucupira Market"},
-    image: "/poi-images/mercado-sucupira-landmarks-v2.webp",
     description: {
       de: "Der größte und lebhafteste Freiluftmarkt in Praia, bekannt für seine Vielfalt an Waren.",
       hu: "Praia legnagyobb és legélénkebb szabadtéri piaca, amely áruinak választékáról ismert.",
@@ -1145,7 +1137,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Zöld-foki Nemzeti Könyvtár",
       ro: "Biblioteca Națională a Capului Verde",
       en: "National Library of Cape Verde"},
-    image: "/poi-images/biblioteca-nacional-landmarks-v2.webp",
     description: {
       de: "Die wichtigste Bibliothek des Landes, die das literarische Erbe Kap Verdes bewahrt.",
       hu: "Az ország legfontosabb könyvtára, amely a Zöld-foki-szigetek irodalmi örökségét őrzi.",
@@ -1193,7 +1184,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Amílcar Cabral emlékmű (Praia)",
       ro: "Statuia lui Amílcar Cabral (Praia)",
       en: "Amílcar Cabral Statue (Praia)"},
-    image: "/poi-images/estatua-amilcar-cabral-landmarks-v2.webp",
     description: {
       de: "Ein Denkmal für den Nationalhelden Amílcar Cabral, der die Unabhängigkeitsbewegung anführte.",
       hu: "Emlékmű a nemzeti hős, Amílcar Cabral tiszteletére, aki a függetlenségi mozgalmat vezette.",
@@ -1241,7 +1231,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Pindjiguiti mártírok emlékműve",
       ro: "Monumentul Martirilor din Pindjiguiti",
       en: "Monument to the Martyrs of Pindjiguiti"},
-    image: "/poi-images/monumento-martires-pindjiguiti-landmarks-v2.webp",
     description: {
       de: "Ein Denkmal in Mindelo, das an die Opfer des Massakers am Hafen von Bissau erinnert.",
       hu: "Emlékmű Mindelóban, amely a bissaui kikötőben történt mészárlás áldozataira emlékeztet.",
@@ -1334,7 +1323,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Mindelo kormányzói palotája",
       ro: "Palatul Guvernatorului din Mindelo",
       en: "Governor's Palace of Mindelo"},
-    image: "/poi-images/palacio-governador-mindelo-landmarks-v2.webp",
     description: {
       de: "Ein prächtiges Gebäude im Kolonialstil, das einst als Residenz der portugiesischen Gouverneure diente.",
       hu: "Pompás gyarmati stílusú épület, amely egykor a portugál kormányzók rezidenciájaként szolgált.",
@@ -1382,7 +1370,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Mindelo városi piaca",
       ro: "Piața Municipală din Mindelo",
       en: "Municipal Market of Mindelo"},
-    image: "/poi-images/mercado-municipal-mindelo-landmarks-v2.webp",
     description: {
       de: "Ein lebhafter Markt im Herzen von Mindelo, bekannt für frischen Fisch und lokale Produkte.",
       hu: "Élénk piac Mindelo szívében, amely friss halairól és helyi termékeiről ismert.",
@@ -1475,7 +1462,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Nossa Senhora da Luz templom (Mindelo)",
       ro: "Biserica Nossa Senhora da Luz (Mindelo)",
       en: "Church of Our Lady of Light (Mindelo)"},
-    image: "/poi-images/igreja-nossa-senhora-luz-mindelo-landmarks-v2.webp",
     description: {
       de: "Die Hauptkirche von Mindelo, ein schlichtes, aber elegantes religiöses Wahrzeichen.",
       hu: "Mindelo főtemploma, egy egyszerű, de elegáns vallási nevezetesség.",
@@ -1523,7 +1509,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Ilhéu dos Pássaros világítótorony",
       ro: "Farul de pe Ilhéu dos Pássaros",
       en: "Ilhéu dos Pássaros Lighthouse"},
-    image: "/poi-images/farol-d-luis-landmarks-v2.webp",
     description: {
       de: "Ein Leuchtturm auf einer kleinen Insel vor Mindelo, der die Einfahrt zum Hafen markiert.",
       hu: "Világítótorony egy kis szigeten Mindelo előtt, amely a kikötő bejáratát jelzi.",
@@ -1616,7 +1601,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "São Vicente városháza",
       ro: "Primăria din São Vicente",
       en: "São Vicente City Hall"},
-    image: "/poi-images/camara-municipal-sv-landmarks-v2.webp",
     description: {
       de: "Das administrative Zentrum der Insel São Vicente, gelegen im Zentrum von Mindelo.",
       hu: "São Vicente szigetének adminisztratív központja Mindelo szívében.",
@@ -1709,7 +1693,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Gil Eanes Líceum (Mindelo)",
       ro: "Liceul Gil Eanes (Mindelo)",
       en: "Gil Eanes High School (Mindelo)"},
-    image: "/poi-images/liceu-gil-eanes-landmarks-v2.webp",
     description: {
       de: "Ein historisches Schulgebäude in Mindelo, das eine wichtige Rolle in der Bildung des Landes spielte.",
       hu: "Történelmi iskolaépület Mindelóban, amely fontos szerepet játszott az ország oktatásában.",
@@ -1850,7 +1833,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Adérito Sena Stadion",
       ro: "Stadionul Adérito Sena",
       en: "Adérito Sena Stadium"},
-    image: "/poi-images/estadio-aderito-sena-landmarks-v2.webp",
     description: {
       de: "Das wichtigste Fußballstadion der Insel São Vicente, Heimat lokaler Vereine.",
       hu: "São Vicente szigetének legfontosabb futballstadionja, a helyi klubok otthona.",
@@ -1898,7 +1880,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Amílcar Cabral nemzetközi repülőtér",
       ro: "Aeroportul Internațional Amílcar Cabral",
       en: "Amílcar Cabral International Airport"},
-    image: "/poi-images/aeroporto-amilcar-cabral-landmarks-v2.webp",
     description: {
       de: "Der Hauptflughafen der Insel Sal, der eine zentrale Rolle für den Tourismus in Kap Verde spielt.",
       hu: "Sal szigetének fő repülőtere, amely központi szerepet játszik a zöld-foki turizmusban.",
@@ -1946,7 +1927,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Nossa Senhora da Conceição templom (Fogo)",
       ro: "Biserica Nossa Senhora da Conceição (Fogo)",
       en: "Church of Our Lady of the Conception (Fogo)"},
-    image: "/poi-images/igreja-nossa-senhora-conceicao-landmarks-v2.webp",
     description: {
       de: "Die markante blaue Kirche in São Filipe, ein Symbol für das Erbe der Insel Fogo.",
       hu: "Jellegzetes kék templom São Filipében, Fogo szigetének örökségének szimbóluma.",
@@ -1994,7 +1974,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Ribeira Grande városháza",
       ro: "Primăria din Ribeira Grande",
       en: "Ribeira Grande City Hall"},
-    image: "/poi-images/camara-municipal-rg-landmarks-v2.webp",
     description: {
       de: "Das administrative Zentrum von Ribeira Grande auf der Insel Santo Antão.",
       hu: "Ribeira Grande adminisztratív központja Santo Antão szigetén.",
@@ -2042,7 +2021,6 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: "Fontainhas világítótorony",
       ro: "Farul din Fontainhas",
       en: "Fontainhas Lighthouse"},
-    image: "/poi-images/farol-fontainhas-landmarks-v2.webp",
     description: {
       de: "Ein entlegener Leuchtturm an der Nordküste von Santo Antão, nahe dem malerischen Dorf Fontainhas.",
       hu: "Távoli világítótorony Santo Antão északi partján, a festői Fontainhas falu közelében.",

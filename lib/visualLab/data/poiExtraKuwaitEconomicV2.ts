@@ -340,7 +340,6 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
       hu: "Shuaiba Kikötő",
       ro: "Portul Shuaiba",
       en: "Shuaiba Port"},
-    image: "/poi-images/shuaiba-port-economic-v2.webp",
     description: {
       de: "Einer der wichtigsten Industrie- und Handelshäfen Kuwaits, der hauptsächlich für den Export von Erdölprodukten genutzt wird.",
       hu: "Kuvait egyik legfontosabb ipari és kereskedelmi kikötője, amelyet főként kőolajtermékek exportjára használnak.",
@@ -449,7 +448,6 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
       hu: "Shuwaikh Kikötő",
       ro: "Portul Shuwaikh",
       en: "Shuwaikh Port"},
-    image: "/poi-images/shuwaikh-port-economic-v2.webp",
     description: {
       de: "Der wichtigste Handelshafen Kuwaits, der den Großteil der Importe des Landes, einschließlich Konsumgüter und Baumaterialien, abwickelt.",
       hu: "Kuvait fő kereskedelmi kikötője, amely az ország importjának nagy részét, beleértve a fogyasztási cikkeket és építőanyagokat is, kezeli.",
@@ -513,7 +511,6 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
       hu: "Doha Kikötő",
       ro: "Portul Doha",
       en: "Doha Port"},
-    image: "/poi-images/doha-port-kuwait-economic-v2.webp",
     description: {
       de: "Ein kleinerer Handelshafen in Kuwait, der traditionell von Dhaus und kleineren Küstenschiffen für den regionalen Handel genutzt wird.",
       hu: "Kisebb kereskedelmi kikötő Kuvaitban, amelyet hagyományosan dhow-k és kisebb part menti hajók használnak a regionális kereskedelemhez.",
@@ -577,7 +574,6 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
       hu: "Burgan Olajmező",
       ro: "Câmpul Petrolier Burgan",
       en: "Burgan Field"},
-    image: "/poi-images/burgan-field-economic-v2.webp",
     description: {
       de: "Eines der größten konventionellen Ölfelder der Welt und das wichtigste Zentrum der kuwaitischen Ölförderung.",
       hu: "A világ egyik legnagyobb hagyományos olajmezője és a kuvaiti olajtermelés legfontosabb központja.",
@@ -686,7 +682,6 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
       hu: "Raudhatain Olajmező",
       ro: "Câmpul Petrolier Raudhatain",
       en: "Raudhatain Field"},
-    image: "/poi-images/raudhatain-field-economic-v2.webp",
     description: {
       de: "Ein riesiges Ölfeld im Norden Kuwaits, das eine bedeutende Rolle in der nationalen Strategie zur Steigerung der Rohölproduktion spielt.",
       hu: "Egy hatalmas olajmező Észak-Kuvaitban, amely jelentős szerepet játszik a kőolajtermelés növelésére irányuló nemzeti stratégiában.",
@@ -750,7 +745,6 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
       hu: "Sabriya Olajmező",
       ro: "Câmpul Petrolier Sabriya",
       en: "Sabriya Field"},
-    image: "/poi-images/sabriya-field-economic-v2.webp",
     description: {
       de: "Ein weiteres wichtiges Ölfeld in der nördlichen Region Kuwaits, das für seine hochwertigen Erdölvorkommen bekannt ist.",
       hu: "Egy másik fontos olajmező Kuvait északi régiójában, amely kiváló minőségű kőolajkészleteiről ismert.",
@@ -814,7 +808,6 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
       hu: "Magwa Olajmező",
       ro: "Câmpul Petrolier Magwa",
       en: "Magwa Field"},
-    image: "/poi-images/magwa-field-economic-v2.webp",
     description: {
       de: "Teil des riesigen Greater-Burgan-Komplexes, der zu den produktivsten erdölführenden Formationen des Landes gehört.",
       hu: "A hatalmas Nagy-Burgan komplexum része, amely az ország legtermékenyebb kőolajhordozó képződményei közé tartozik.",
@@ -878,7 +871,6 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
       hu: "Minagish Olajmező",
       ro: "Câmpul Petrolier Minagish",
       en: "Minagish Field"},
-    image: "/poi-images/minagish-field-economic-v2.webp",
     description: {
       de: "Ein wichtiges Ölfeld im Westen Kuwaits, das für die Produktion von schwererem Rohöl bekannt ist.",
       hu: "Fontos olajmező Nyugat-Kuvaitban, amely nehezebb kőolaj kitermeléséről ismert.",
@@ -1052,7 +1044,6 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
       hu: "Subiya Erőmű",
       ro: "Centrala Electrică Subiya",
       en: "Subiya Power Plant"},
-    image: "/poi-images/subiya-power-plant-economic-v2.webp",
     description: {
       de: "Eine der wichtigsten Anlagen zur Strom- und Wasserversorgung im Norden Kuwaits, die fortschrittliche thermische Technologien nutzt.",
       hu: "Kuvait északi részének egyik legfontosabb áram- és vízellátó létesítménye, amely fejlett hőtechnológiákat alkalmaz.",
@@ -1779,7 +1770,6 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
       hu: "Amghara Ipari Övezet",
       ro: "Zona Industrială Amghara",
       en: "Amghara Industrial Area"},
-    image: "/poi-images/amghara-industrial-area-economic-v2.webp",
     description: {
       de: "Eine weitläufige Zone für Leicht- und Mittelindustrie, die für Schrottplätze, Baustoffhandel und Recyclingunternehmen bekannt ist.",
       hu: "Egy kiterjedt könnyű- és középipari övezet, amely roncstelepeiről, építőanyag-kereskedelméről és újrahasznosító vállalatairól ismert.",
@@ -1888,7 +1878,6 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
       hu: "Sabhan Ipari Övezet",
       ro: "Zona Industrială Sabhan",
       en: "Sabhan Industrial Area"},
-    image: "/poi-images/sabhan-industrial-area-economic-v2.webp",
     description: {
       de: "Ein stark diversifiziertes Industriegebiet nahe des internationalen Flughafens, das sich auf die Lebensmittelverarbeitung und Konsumgüterproduktion konzentriert.",
       hu: "Erősen diverzifikált ipari övezet a nemzetközi repülőtér közelében, amely az élelmiszer-feldolgozásra és a fogyasztási cikkek gyártására összpontosít.",
@@ -1952,7 +1941,6 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
       hu: "Equate Petrolkémiai Komplexum",
       ro: "Complexul Petrochimic Equate",
       en: "Equate Petrochemical Complex"},
-    image: "/poi-images/equate-petrochemical-complex-economic-v2.webp",
     description: {
       de: "Eines der weltweit führenden Unternehmen in der Herstellung von Polyethylen und Ethylenglykol, das in einer massiven Anlage in Kuwait operiert.",
       hu: "A világ egyik vezető polietilén és etilénglikol gyártója, amely egy hatalmas kuvaiti létesítményben működik.",
@@ -2016,7 +2004,6 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
       hu: "Wafra Olajmező",
       ro: "Câmpul Petrolier Wafra",
       en: "Wafra Oil Field"},
-    image: "/poi-images/wafra-oil-field-economic-v2.webp",
     description: {
       de: "Ein großes Onshore-Ölfeld in der ehemals neutralen Zone, das heute von Kuwait und Saudi-Arabien gemeinsam ausgebeutet wird.",
       hu: "Nagy szárazföldi olajmező az egykori semleges zónában, amelyet ma Kuvait és Szaúd-Arábia közösen termel ki.",

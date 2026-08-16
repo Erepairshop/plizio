@@ -8,7 +8,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-TA",
     coords: [11.23, 7.03],
     name: { de: "Mambilla-Plateau", hu: "Mambilla-fennsík", ro: "Platoul Mambilla", en: "Mambilla Plateau"},
-    image: "/poi-images/mambilla-plateau-relief-v2.webp",
     description: { de: "Das Mambilla-Plateau ist eine Hochlandregion im Osten Nigerias mit einer Durchschnittshöhe von über 1500 Metern.", hu: "A Mambilla-fennsík egy magasföld Nigéria keleti részén, átlagos magassága meghaladja az 1500 métert.", ro: "Platoul Mambilla este o regiune montană în estul Nigeriei, cu o altitudine medie de peste 1500 de metri.", en: "The Mambilla Plateau is a highland region in eastern Nigeria with an average elevation of over 1500 meters." , es: "La meseta de Mambilla es una región de tierras altas en el este de Nigeria con una altitud media de más de 1500 metros.", pt: "O planalto de Mambilla é uma região de terras altas no leste da Nigéria, com uma altitude média superior a 1500 metros.", fr: "Le plateau de Mambilla est une région de hautes terres dans l'est du Nigeria, avec une altitude moyenne de plus de 1500 mètres."},
     facts: {
       de: ["Höchster Punkt in Nigeria", "Ganzjährig kühles Klima", "Weideland und Teeplantagen"],
@@ -44,7 +43,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-TA",
     coords: [11.6, 7.3],
     name: { de: "Gashaka-Berge", hu: "Gashaka-hegyek", ro: "Munții Gashaka", en: "Gashaka Hills"},
-    image: "/poi-images/gashaka-hills-relief-v2.webp",
     description: { de: "Die Gashaka-Berge sind Teil des Gashaka-Gumti-Nationalparks und bieten eine raue Berglandschaft.", hu: "A Gashaka-hegyek a Gashaka-Gumti Nemzeti Park részei, zord hegyvidéki tájat kínálnak.", ro: "Munții Gashaka fac parte din Parcul Național Gashaka-Gumti și oferă un peisaj montan accidentat.", en: "The Gashaka Hills are part of the Gashaka-Gumti National Park and offer a rugged mountain landscape." , es: "Las montañas Gashaka forman parte del Parque Nacional Gashaka-Gumti y ofrecen un paisaje de montaña áspero.", pt: "As montanhas Gashaka fazem parte do Parque Nacional Gashaka-Gumti e oferecem uma paisagem de montanha áspera.", fr: "Les monts Gashaka font partie du parc national de Gashaka Gumti et offrent un paysage montagneux accidenté."},
     facts: {
       de: ["Teil des Nationalparks", "Schutzgebiet für Primaten", "Steile Berghänge"],
@@ -80,7 +78,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-CR",
     coords: [9.36, 6.4],
     name: { de: "Obudu-Berge (neu)", hu: "Obudu-hegyek (új)", ro: "Munții Obudu (nou)", en: "Obudu Mountains (new)"},
-    image: "/poi-images/obudu-mountains-relief-v2.webp",
     description: { de: "Eine spektakuläre Bergkette nahe der Grenze zu Kamerun, bekannt für ihre üppigen Graslandschaften.", hu: "Látványos hegyvonulat Kamerun határának közelében, dús füves területeiről ismert.", ro: "Un lanț muntos spectaculos aproape de granița cu Camerun, cunoscut pentru pajiștile sale luxuriante.", en: "A spectacular mountain range near the border with Cameroon, known for its lush grasslands." , es: "Una espectacular cadena montañosa cerca de la frontera con Camerún, conocida por sus exuberantes praderas.", pt: "Uma cordilheira espetacular perto da fronteira com os Camarões, conhecida pelas suas pastagens exuberantes.", fr: "Une chaîne de montagnes spectaculaire près de la frontière camerounaise, réputée pour ses prairies luxuriantes."},
     facts: {
       de: ["Beliebtes Touristenziel", "Neblige Bergkämme", "Reiches Ökosystem"],
@@ -152,7 +149,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-PL",
     coords: [8.9, 9.3],
     name: { de: "Jos-Hochebene (v2)", hu: "Jos-fennsík (v2)", ro: "Platoul Jos (v2)", en: "Jos Plateau (v2)"},
-    image: "/poi-images/plateau-jos-relief-v2.webp",
     description: { de: "Eine markante Hochlandregion im Zentrum Nigerias, die sich deutlich von ihrer Umgebung abhebt.", hu: "Kiemelkedő magasföld Nigéria központjában, amely jelentősen kiemelkedik a környezetéből.", ro: "O regiune montană distinctă în centrul Nigeriei, care se ridică semnificativ deasupra împrejurimilor sale.", en: "A prominent highland region in central Nigeria that rises significantly above its surroundings." , es: "Una destacada región montañosa en el centro de Nigeria que sobresale claramente de su entorno.", pt: "Uma região montanhosa proeminente no centro da Nigéria que se destaca claramente do seu entorno.", fr: "Une région de hautes terres marquante au centre du Nigeria, qui se détache nettement de son environnement."},
     facts: {
       de: ["Kühles Hochlandklima", "Zinnvorkommen in der Region", "Felsige Formationen"],
@@ -188,7 +184,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-NI",
     coords: [4.5, 10.3],
     name: { de: "Kainji-Becken", hu: "Kainji-medence", ro: "Bazinul Kainji", en: "Kainji Basin"},
-    image: "/poi-images/kainji-becken-relief-v2.webp",
     description: { de: "Ein durch den Kainji-Stausee geprägtes Becken, das eine wichtige ökologische Funktion hat.", hu: "A Kainji-víztározó által kialakított medence, amely fontos ökológiai funkcióval bír.", ro: "Un bazin modelat de lacul de acumulare Kainji, care are o funcție ecologică importantă.", en: "A basin shaped by the Kainji Reservoir, which has an important ecological function." , es: "Una cuenca marcada por el embalse de Kainji, que desempeña una función ecológica vital.", pt: "Uma bacia marcada pela represa de Kainji, que desempenha uma função ecológica vital.", fr: "Un bassin marqué par le réservoir de Kainji, qui remplit une fonction écologique majeure."},
     facts: {
       de: ["Künstlicher Stausee", "Fischreiches Gewässer", "Wichtige Energiequelle"],
@@ -224,7 +219,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-BY",
     coords: [6.0, 4.8],
     name: { de: "Niger-Delta (Relief)", hu: "Niger-delta (domborzat)", ro: "Delta Nigerului (relief)", en: "Niger Delta (relief)"},
-    image: "/poi-images/delta-niger-relief-v2.webp",
     description: { de: "Ein riesiges Marschland- und Deltagebiet an der Mündung des Niger in den Golf von Guinea.", hu: "Hatalmas mocsaras és deltavidék a Niger folyó torkolatánál, a Guineai-öbölben.", ro: "O zonă vastă de mlaștini și deltă la vărsarea fluviului Niger în Golful Guineei.", en: "A massive marshland and delta region at the mouth of the Niger River into the Gulf of Guinea." , es: "Una enorme zona de marismas y delta en la desembocadura del Níger en el Golfo de Guinea.", pt: "Uma enorme zona de pântanos e delta na foz do Níger no Golfo da Guiné.", fr: "Une vaste zone de marais et de delta à l'embouchure du Niger dans le golfe de Guinée."},
     facts: {
       de: ["Ölreiche Region", "Mangrovenwälder", "Komplexes Flussnetz"],
@@ -296,7 +290,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-AD",
     coords: [13.2, 10.9],
     name: { de: "Mandara-Berge (Relief)", hu: "Mandara-hegység (domborzat)", ro: "Munții Mandara (relief)", en: "Mandara Mountains (relief)"},
-    image: "/poi-images/mandara-berge-relief-v2.webp",
     description: { de: "Eine Bergkette, die die Grenze zwischen Nigeria und Kamerun bildet.", hu: "Hegyvonulat, amely Nigéria és Kamerun határát alkotja.", ro: "Un lanț muntos care formează granița dintre Nigeria și Camerun.", en: "A mountain range that forms the border between Nigeria and Cameroon." , es: "Una cadena montañosa que forma la frontera entre Nigeria y Camerún.", pt: "Uma cordilheira que forma a fronteira entre a Nigéria e os Camarões.", fr: "Une chaîne de montagnes qui forme la frontière entre le Nigeria et le Cameroun."},
     facts: {
       de: ["Grenzkamm", "Traditionelle Siedlungen", "Granitformationen"],
@@ -332,7 +325,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-AD",
     coords: [11.5, 8.5],
     name: { de: "Shebshi-Berge", hu: "Shebshi-hegység", ro: "Munții Shebshi", en: "Shebshi Mountains"},
-    image: "/poi-images/shebshi-berge-relief-v2.webp",
     description: { de: "Eine robuste Bergregion in Zentral-Ost-Nigeria.", hu: "Robusztus hegyvidéki régió Kelet-Közép-Nigériában.", ro: "O regiune muntoasă robustă în estul central al Nigeriei.", en: "A robust mountain region in east-central Nigeria." , es: "Una robusta región montañosa en el centro-este de Nigeria.", pt: "Uma região montanhosa robusta no centro-leste da Nigéria.", fr: "Une région montagneuse robuste dans le centre-est du Nigeria."},
     facts: {
       de: ["Unberührte Natur", "Hohe Reliefenergie", "Wichtige Wasserscheide"],
@@ -368,7 +360,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-AD",
     coords: [12.5, 8.9],
     name: { de: "Alantika-Berge", hu: "Alantika-hegység", ro: "Munții Alantika", en: "Alantika Mountains"},
-    image: "/poi-images/alantika-berge-relief-v2.webp",
     description: { de: "Diese Berge bilden einen wilden, abgelegenen Teil des Hochlands an der kamerunischen Grenze.", hu: "Ezek a hegyek a felföld vad, távoli részét képezik a kameruni határnál.", ro: "Acești munți formează o parte sălbatică și izolată a zonei înalte de la granița cu Camerun.", en: "These mountains form a wild, remote part of the highlands on the Cameroonian border." , es: "Estas montañas forman una parte salvaje y remota de las tierras altas en la frontera con Camerún.", pt: "Estas montanhas formam uma parte selvagem e remota das terras altas na fronteira com os Camarões.", fr: "Ces montagnes forment une partie sauvage et isolée des hauts plateaux à la frontière camerounaise."},
     facts: {
       de: ["Abgelegene Bergwelt", "Natürliche Barriere", "Steinige Pfade"],
@@ -404,7 +395,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-PL",
     coords: [9.0, 9.7],
     name: { de: "Shere Hills (Relief)", hu: "Shere-hegyek (domborzat)", ro: "Munții Shere (relief)", en: "Shere Hills (relief)"},
-    image: "/poi-images/shere-hills-relief-v2.webp",
     description: { de: "Eine spektakuläre, raue Berglandschaft, die für Wanderungen bekannt ist.", hu: "Látványos, zord hegyvidéki táj, amely túrázásról ismert.", ro: "Un peisaj montan spectaculos și accidentat, cunoscut pentru drumeții.", en: "A spectacular, rugged mountain landscape known for trekking." , es: "Un espectacular y abrupto paisaje montañoso conocido por sus rutas de senderismo.", pt: "Uma paisagem montanhosa espetacular e acidentada, conhecida por caminhadas.", fr: "Un paysage montagneux spectaculaire et accidenté, réputé pour la randonnée."},
     facts: {
       de: ["Herausforderndes Gelände", "Trekking-Ziel", "Felsige Klippen"],
@@ -476,7 +466,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-EK",
     coords: [5.2, 7.7],
     name: { de: "Ekiti-Hügelland", hu: "Ekiti-dombság", ro: "Dealurile Ekiti", en: "Ekiti Hills"},
-    image: "/poi-images/ekiti-hügel-relief-v2.webp",
     description: { de: "Eine malerische Hügelregion im Südwesten Nigerias.", hu: "Festői dombvidék Nigéria délnyugati részén.", ro: "O regiune pitorească de dealuri în sud-vestul Nigeriei.", en: "A picturesque hilly region in southwestern Nigeria." , es: "Una pintoresca región de colinas en el suroeste de Nigeria.", pt: "Uma pitoresca região de colinas no sudoeste da Nigéria.", fr: "Une région de collines pittoresque dans le sud-ouest du Nigeria."},
     facts: {
       de: ["Bewaldete Hänge", "Tropisches Klima", "Landwirtschaftliche Terrassen"],
@@ -512,7 +501,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-OS",
     coords: [4.6, 7.6],
     name: { de: "Osun-Landschaft", hu: "Osun-vidék", ro: "Peisajul Osun", en: "Osun Landscape"},
-    image: "/poi-images/osun-relief-relief-v2.webp",
     description: { de: "Eine von Flüssen durchzogene, leicht hügelige Landschaft.", hu: "Folyók által szabdalt, enyhén dombos vidék.", ro: "Un peisaj ușor deluros, străbătut de râuri.", en: "A slightly hilly landscape crisscrossed by rivers." , es: "Un paisaje ligeramente ondulado surcado por diversos ríos.", pt: "Uma paisagem ligeiramente ondulada atravessada por rios.", fr: "Un paysage légèrement vallonné, sillonné par des rivières."},
     facts: {
       de: ["Flusslandschaft", "Fruchtbar", "Waldreste"],
@@ -548,7 +536,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-CR",
     coords: [8.5, 5.5],
     name: { de: "Cross-River-Tal", hu: "Cross-folyó völgye", ro: "Valea râului Cross", en: "Cross River Valley"},
-    image: "/poi-images/cross-river-tal-relief-v2.webp",
     description: { de: "Ein tief eingeschnittenes Flusstal in der feuchten Waldzone im Südosten.", hu: "Mélyen bevágódott folyóvölgy a nedves erdőövezetben, délkeleten.", ro: "O vale fluvială adânc incizată în zona de pădure umedă din sud-est.", en: "A deeply incised river valley in the humid forest zone in the southeast." , es: "Un valle fluvial profundamente inciso en la zona de bosque húmedo en el sureste.", pt: "Um vale fluvial profundamente inciso na zona de floresta húmida no sudeste.", fr: "Une vallée fluviale encaissée dans la zone forestière humide du sud-est."},
     facts: {
       de: ["Feuchtklima", "Dichter Wald", "Tiefe Täler"],
@@ -584,7 +571,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-ON",
     coords: [5.1, 7.1],
     name: { de: "Ondo-Hügelland", hu: "Ondo-dombság", ro: "Dealurile Ondo", en: "Ondo Hills"},
-    image: "/poi-images/ondo-relief-relief-v2.webp",
     description: { de: "Eine Region aus sanften Hügeln, die typisch für den Südwesten ist.", hu: "Szelíd dombok régiója, amely jellemző a délnyugati részre.", ro: "O regiune de dealuri domoale, tipică pentru sud-vest.", en: "A region of rolling hills typical for the southwest." , es: "Una región de colinas suaves, típica del suroeste del país.", pt: "Uma região de colinas suaves, típica do sudoeste do país.", fr: "Une région de collines douces, typique du sud-ouest."},
     facts: {
       de: ["Waldgebiet", "Fruchtbar", "Sanftes Relief"],
@@ -620,7 +606,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-NA",
     coords: [8.2, 8.5],
     name: { de: "Nassarawa-Ebene", hu: "Nasarawa-síkság", ro: "Câmpia Nasarawa", en: "Nasarawa Plains"},
-    image: "/poi-images/nassarawa-relief-relief-v2.webp",
     description: { de: "Eine weite, flache bis leicht hügelige Ebene in Zentral-Nigeria.", hu: "Széles, sík vagy enyhén dombos síkság Közép-Nigériában.", ro: "O câmpie vastă, plată sau ușor deluroasă în centrul Nigeriei.", en: "A vast, flat to gently rolling plain in central Nigeria." , es: "Una llanura vasta, de plana a ligeramente ondulada, en el centro de Nigeria.", pt: "Uma planície vasta, de plana a ligeiramente ondulada, no centro da Nigéria.", fr: "Une vaste plaine, plate à légèrement vallonnée, dans le centre du Nigeria."},
     facts: {
       de: ["Savannenlandschaft", "Weitläufig", "Offenes Relief"],
@@ -656,7 +641,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-KD",
     coords: [7.5, 10.5],
     name: { de: "Kaduna-Tal", hu: "Kaduna-völgy", ro: "Valea Kaduna", en: "Kaduna Valley"},
-    image: "/poi-images/kaduna-tal-relief-v2.webp",
     description: { de: "Das Flusstal des Kaduna, das sich durch die nordnigerianische Savanne schlängelt.", hu: "A Kaduna folyó völgye, amely kígyózik az észak-nigériai szavannán.", ro: "Valea râului Kaduna, care șerpuiește prin savana din nordul Nigeriei.", en: "The valley of the Kaduna River, which meanders through the northern Nigerian savanna." , es: "El valle del río Kaduna, que serpentea a través de la sabana del norte de Nigeria.", pt: "O vale do rio Kaduna, que serpenteia pela savana do norte da Nigéria.", fr: "La vallée de la rivière Kaduna, qui serpente à travers la savane du nord du Nigeria."},
     facts: {
       de: ["Savannenfluss", "Fruchtbares Umland", "Meander-Landschaft"],
@@ -692,7 +676,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-YO",
     coords: [11.5, 12.5],
     name: { de: "Yobe-Tiefland", hu: "Yobe-alföld", ro: "Câmpia Yobe", en: "Yobe Lowlands"},
-    image: "/poi-images/yobe-becken-relief-v2.webp",
     description: { de: "Ein tief liegendes Becken im Nordosten Nigerias nahe dem Tschadbecken.", hu: "Alacsonyan fekvő medence Nigéria északkeleti részén, a Csád-medence közelében.", ro: "O depresiune joasă în nord-estul Nigeriei lângă Bazinul Ciadului.", en: "A low-lying basin in northeastern Nigeria near the Chad Basin." , es: "Una cuenca de baja altitud en el noreste de Nigeria, cerca de la cuenca del Chad.", pt: "Uma bacia de baixa altitude no nordeste da Nigéria, perto da bacia do Chade.", fr: "Un bassin de faible altitude au nord-est du Nigeria, près du bassin du Tchad."},
     facts: {
       de: ["Trockenes Klima", "Sandige Ebenen", "Wüstenrandlage"],
@@ -728,7 +711,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-SO",
     coords: [5.2, 13.0],
     name: { de: "Sokoto-Ebene", hu: "Sokoto-síkság", ro: "Câmpia Sokoto", en: "Sokoto Plains"},
-    image: "/poi-images/sokoto-ebene-relief-v2.webp",
     description: { de: "Eine ausgedehnte Ebene im äußersten Nordwesten Nigerias.", hu: "Kiterjedt síkság Nigéria legészaknyugatibb részén.", ro: "O câmpie extinsă în extremitatea nord-vestică a Nigeriei.", en: "An extensive plain in the far northwest of Nigeria." , es: "Una extensa llanura en el extremo noroeste de Nigeria.", pt: "Uma vasta planície no extremo noroeste da Nigéria.", fr: "Une vaste plaine à l'extrême nord-ouest du Nigeria."},
     facts: {
       de: ["Trocken", "Halbwüste", "Sandige Böden"],
@@ -764,7 +746,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-AD",
     coords: [12.0, 9.5],
     name: { de: "Adamawa-Hochland", hu: "Adamawa-felföld", ro: "Platoul Adamawa", en: "Adamawa Highlands"},
-    image: "/poi-images/adamawa-hochland-relief-v2.webp",
     description: { de: "Ein bedeutendes Hochland im Osten, das die Verbindung zum Kameruner Hochland bildet.", hu: "Jelentős felföld keleten, amely összeköttetést képez a Kameruni-felfölddel.", ro: "O zonă înaltă importantă în est, care formează legătura cu Platoul Camerun.", en: "A significant highland in the east that forms the link to the Cameroonian Highlands." , es: "Una meseta importante en el este, que forma la conexión con las tierras altas de Camerún.", pt: "Um planalto importante no leste, que forma a ligação com as terras altas dos Camarões.", fr: "Un haut plateau important à l'est, qui forme la jonction avec les hauts plateaux camerounais."},
     facts: {
       de: ["Hochplateau", "Bergklima", "Wildnis"],
@@ -800,7 +781,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-BE",
     coords: [9.0, 7.8],
     name: { de: "Benue-Tal (Relief)", hu: "Benue-völgy (domborzat)", ro: "Valea râului Benue (relief)", en: "Benue Valley (relief)"},
-    image: "/poi-images/benue-tal-relief-v2.webp",
     description: { de: "Ein bedeutendes, weitläufiges Flusstal in Zentral-Nigeria.", hu: "Jelentős, kiterjedt folyóvölgy Közép-Nigériában.", ro: "O vale fluvială semnificativă și vastă în centrul Nigeriei.", en: "A significant, vast river valley in central Nigeria." , es: "Un valle fluvial importante y extenso en el centro de Nigeria.", pt: "Um vale fluvial importante e extenso no centro da Nigéria.", fr: "Une vallée fluviale importante et vaste dans le centre du Nigeria."},
     facts: {
       de: ["Hauptzufluss Niger", "Breites Tal", "Überschwemmungsgebiet"],
@@ -836,7 +816,6 @@ export const poiExtraNigeriaReliefV2: POI[] = [
     parent: "NG-AD",
     coords: [11.8, 9.8],
     name: { de: "Gongola-Tal", hu: "Gongola-völgy", ro: "Valea Gongola", en: "Gongola Valley"},
-    image: "/poi-images/gongola-tal-relief-v2.webp",
     description: { de: "Eine Region im Becken des Gongola-Flusses im Nordosten.", hu: "A Gongola folyó medencéjének régiója északkeleten.", ro: "O regiune în bazinul râului Gongola în nord-est.", en: "A region in the basin of the Gongola River in the northeast." , es: "Una región en la cuenca del río Gongola, en el noreste del país.", pt: "Uma região na bacia do rio Gongola, no nordeste do país.", fr: "Une région située dans le bassin de la rivière Gongola, au nord-est."},
     facts: {
       de: ["Flusslandschaft", "Halbtrocken", "Savanne"],

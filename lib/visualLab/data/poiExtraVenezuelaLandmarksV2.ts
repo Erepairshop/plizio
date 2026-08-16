@@ -12,7 +12,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Nemzeti Panteon",
       ro: "Panteonul Național",
       en: "National Pantheon"},
-    image: "/poi-images/venezuela-panteon-nacional-landmark-v2.webp",
     description: {
       de: "Das Nationales Pantheon ist eines der bedeutendsten architektonischen und historischen Denkmäler in Caracas.",
       hu: "A Nemzeti Panteon Caracas egyik legjelentősebb építészeti és történelmi emléke.",
@@ -140,7 +139,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Szépművészeti Múzeum",
       ro: "Muzeul de Arte Frumoase",
       en: "Museum of Fine Arts"},
-    image: "/poi-images/venezuela-museo-bellas-artes-landmark-v2.webp",
     description: {
       de: "Das älteste Kunstmuseum Venezuelas beherbergt eine beeindruckende Sammlung internationaler und nationaler Kunst.",
       hu: "Venezuela legrégebbi művészeti múzeuma nemzetközi és hazai műalkotások lenyűgöző gyűjteményének ad otthont.",
@@ -448,7 +446,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Nemzeti Művészeti Galéria",
       ro: "Galeria de Artă Națională",
       en: "National Art Gallery"},
-    image: "/poi-images/venezuela-galeria-arte-nacional-landmark-v2.webp",
     description: {
       de: "Dieses Museum ist ausschließlich der Bewahrung und Ausstellung venezolanischer Kunst gewidmet.",
       hu: "Ez a múzeum kizárólag a venezuelai művészet megőrzésének és kiállításának szentelt.",
@@ -495,7 +492,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Természettudományi Múzeum",
       ro: "Muzeul de Științe",
       en: "Science Museum"},
-    image: "/poi-images/venezuela-museo-ciencias-landmark-v2.webp",
     description: {
       de: "Ein faszinierendes Museum, das Ausstellungen zur Naturgeschichte, Biodiversität und Archäologie bietet.",
       hu: "Lenyűgöző múzeum, amely természetrajzi, biodiverzitási és régészeti kiállításokat kínál.",
@@ -587,7 +583,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Kortárs Művészeti Múzeum",
       ro: "Muzeul de Artă Contemporană",
       en: "Museum of Contemporary Art"},
-    image: "/poi-images/venezuela-museo-arte-contemporaneo-landmark-v2.webp",
     description: {
       de: "Das Museum ist bekannt für seine herausragende Sammlung moderner Kunst, einschließlich Werken von Picasso.",
       hu: "A múzeum kiemelkedő modern művészeti gyűjteményéről ismert, többek között Picasso műveivel.",
@@ -895,7 +890,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Gyermekmúzeum",
       ro: "Muzeul Copiilor din Caracas",
       en: "Children's Museum of Caracas"},
-    image: "/poi-images/venezuela-museo-de-los-ninos-landmark-v2.webp",
     description: {
       de: "Ein interaktives Museum, das Kindern Wissenschaft, Technik und Kultur spielerisch näher bringt.",
       hu: "Interaktív múzeum, amely játékos formában ismerteti meg a gyerekeket a tudománnyal, a technikával és a kultúrával.",
@@ -1023,7 +1017,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Egyházművészeti Múzeum",
       ro: "Muzeul de Artă Sacră",
       en: "Museum of Sacred Art"},
-    image: "/poi-images/venezuela-museo-sacro-caracas-landmark-v2.webp",
     description: {
       de: "Das Museum beherbergt eine bedeutende Sammlung religiöser Kunst aus der Kolonialzeit.",
       hu: "A múzeum a gyarmati korból származó vallási művészet jelentős gyűjteményének ad otthont.",
@@ -1151,7 +1144,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Lira Művészeti Központ",
       ro: "Centrul de Artă Lira",
       en: "Lira Art Center"},
-    image: "/poi-images/venezuela-centro-de-arte-lira-landmark-v2.webp",
     description: {
       de: "Ein zeitgenössisches Kulturzentrum, das Raum für verschiedene Kunstformen und lokale Ausstellungen bietet.",
       hu: "Kortárs kulturális központ, amely teret ad különböző művészeti formáknak és helyi kiállításoknak.",
@@ -1198,7 +1190,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Teresa Carreño Színház",
       ro: "Teatrul Teresa Carreño",
       en: "Teresa Carreño Theater"},
-    image: "/poi-images/venezuela-teatro-teresa-carreno-landmark-v2.webp",
     description: {
       de: "Das bedeutendste Theater von Caracas und eines der modernsten Kulturzentren Südamerikas.",
       hu: "Caracas legjelentősebb színháza és Dél-Amerika egyik legmodernebb kulturális központja.",
@@ -1923,7 +1914,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Caracas-i Nemzeti Színház",
       ro: "Teatrul Național din Caracas",
       en: "National Theater of Caracas"},
-    image: "/poi-images/venezuela-teatro-nacional-caracas-landmark-v2.webp",
     description: {
       de: "Ein wunderschönes historisches Theater, das für seine Aufführungen von Zarzuela und Operetten bekannt ist.",
       hu: "Gyönyörű történelmi színház, amely zarzuela- és operett-előadásairól ismert.",
@@ -2663,7 +2653,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Baralt Színház",
       ro: "Teatrul Baralt",
       en: "Baralt Theater"},
-    image: "/poi-images/venezuela-teatro-baralt-maracaibo-landmark-v2.webp",
     description: {
       de: "Ein historisches Theater in Maracaibo, das als Wiege des venezolanischen Kinos gilt.",
       hu: "Történelmi színház Maracaibóban, amelyet a venezuelai filmművészet bölcsőjének tartanak.",
@@ -3763,7 +3752,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "A Kapituláció Háza",
       ro: "Casa Capitulării",
       en: "House of the Capitulation"},
-    image: "/poi-images/venezuela-casa-de-la-capitulacion-landmark-v2.webp",
     description: {
       de: "Dieses historische Haus in Maracaibo ist der Ort, an dem die spanische Kapitulation nach der Schlacht am Maracaibo-See unterzeichnet wurde.",
       hu: "Ez a maracaibói történelmi ház az a hely, ahol a Maracaibo-tavi csata után aláírták a spanyol kapitulációt.",
@@ -3810,7 +3798,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Akadémiák Palotája",
       ro: "Palatul Academiilor",
       en: "Palace of the Academies"},
-    image: "/poi-images/venezuela-palacio-de-las-academias-landmark-v2.webp",
     description: {
       de: "Ein prächtiges neogotisches Gebäude, das die nationalen Akademien Venezuelas beherbergt.",
       hu: "Pompás neogótikus épület, amely Venezuela nemzeti akadémiáinak ad otthont.",
@@ -3902,7 +3889,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Városháza",
       ro: "Palatul Municipal din Caracas",
       en: "Municipal Palace of Caracas"},
-    image: "/poi-images/venezuela-palacio-municipal-caracas-landmark-v2.webp",
     description: {
       de: "Ein historisches Regierungsgebäude am Plaza Bolívar, das die Stadtverwaltung von Caracas beherbergt.",
       hu: "Történelmi kormányzati épület a Plaza Bolívar téren, amely Caracas városvezetésének ad otthont.",
@@ -4066,7 +4052,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Carmelitas Postapalota",
       ro: "Poșta Carmelitas",
       en: "Carmelitas Post Office"},
-    image: "/poi-images/venezuela-correo-de-carmelitas-landmark-v2.webp",
     description: {
       de: "Ein markantes Gebäude in der Innenstadt von Caracas, das für seine elegante neoklassizistische Fassade bekannt ist.",
       hu: "Jellegzetes épület Caracas belvárosában, amely elegáns neoklasszicista homlokzatáról ismert.",
@@ -4791,7 +4776,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "El Silencio Tornyok",
       ro: "Turnurile El Silencio",
       en: "El Silencio Towers"},
-    image: "/poi-images/venezuela-torres-el-silencio-landmark-v2.webp",
     description: {
       de: "Zwei ikonische Zwillingstürme im Zentrum von Caracas, die die Modernisierung der Stadt im 20. Jahrhundert symbolisieren.",
       hu: "Két ikonikus ikertorony Caracas központjában, amelyek a város 20. századi modernizációját szimbolizálják.",
@@ -5075,7 +5059,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Confinanzas Pénzügyi Központ",
       ro: "Turnul lui David",
       en: "Tower of David (Torre de David)"},
-    image: "/poi-images/venezuela-centro-financiero-confinanzas-landmark-v2.webp",
     description: {
       de: "Ein unvollendeter Wolkenkratzer in Caracas, der weltweite Bekanntheit als Symbol für städtische Transformation erlangte.",
       hu: "Befejezetlen felhőkarcoló Caracasban, amely a városi átalakulás szimbólumaként vált világszerte ismertté.",
@@ -6247,7 +6230,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Mukumbarí Felvonó",
       ro: "Telecabina Mukumbarí",
       en: "Mukumbarí Cable Car"},
-    image: "/poi-images/venezuela-teleferico-mukumbari-landmark-v2.webp",
     description: {
       de: "Die höchste und längste Seilbahn der Welt, die von Mérida bis auf den Gipfel des Pico Espejo führt.",
       hu: "A világ legmagasabb és leghosszabb felhőfelvonója, amely Méridából a Pico Espejo csúcsára vezet.",
@@ -6627,7 +6609,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Warairarepano Felvonó",
       ro: "Telecabina Warairarepano",
       en: "Warairarepano Cable Car"},
-    image: "/poi-images/venezuela-teleferico-warairarepano-landmark-v2.webp",
     description: {
       de: "Eine Seilbahn in Caracas, die Besucher auf den Gipfel des El Ávila Berges bringt.",
       hu: "Caracasi felvonó, amely az El Ávila hegy csúcsára viszi a látogatókat.",
@@ -6935,7 +6916,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Rafael Urdaneta Híd",
       ro: "Podul General Rafael Urdaneta",
       en: "General Rafael Urdaneta Bridge"},
-    image: "/poi-images/venezuela-puente-rafael-urdaneta-landmark-v2.webp",
     description: {
       de: "Eine ikonische Schrägseilbrücke, die den Maracaibo-See überquert und eines der längsten Bauwerke ihrer Art weltweit ist.",
       hu: "Ikonikus ferdekábeles híd a Maracaibo-tó felett, amely a világ egyik leghosszabb ilyen jellegű építménye.",
@@ -7819,7 +7799,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Angostura Híd",
       ro: "Podul Angostura",
       en: "Angostura Bridge"},
-    image: "/poi-images/venezuela-puente-angostura-landmark-v2.webp",
     description: {
       de: "Die erste Hängebrücke über den Orinoco-Fluss, die Ciudad Bolívar mit dem Rest des Landes verbindet.",
       hu: "Az Orinoco folyó feletti első függőhíd, amely Ciudad Bolívart köti össze az ország többi részével.",
@@ -8019,7 +7998,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Orinokia Híd",
       ro: "Podul Orinokia",
       en: "Orinokia Bridge"},
-    image: "/poi-images/venezuela-puente-orinokia-landmark-v2.webp",
     description: {
       de: "Die zweite große Brücke über den Orinoco, die eine strategische Verbindung für die Schwerindustrie darstellt.",
       hu: "Az Orinoco feletti második nagy híd, amely stratégiai összeköttetést jelent a nehézipar számára.",
@@ -8579,7 +8557,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Simón Bolívar Monumentális Stadion",
       ro: "Stadionul Monumental Simón Bolívar",
       en: "Simón Bolívar Monumental Stadium"},
-    image: "/poi-images/venezuela-estadio-monumental-simon-bolivar-landmark-v2.webp",
     description: {
       de: "Eines der modernsten und größten Baseballstadien in Lateinamerika, gelegen im Süden von Caracas.",
       hu: "Latin-Amerika egyik legmodernebb és legnagyobb baseballstadionja, amely Caracas déli részén található.",
@@ -8923,7 +8900,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Caracas-i Poliedro",
       ro: "Poliedrul din Caracas",
       en: "Poliedro de Caracas"},
-    image: "/poi-images/venezuela-poliedro-de-caracas-landmark-v2.webp",
     description: {
       de: "Eine markante geodätische Kuppel, die als wichtigste Mehrzweckhalle für Konzerte und Sportveranstaltungen dient.",
       hu: "Jellegzetes geodéziai kupola, amely koncertek és sportesemények legfontosabb többfunkciós csarnokaként szolgál.",
@@ -9339,7 +9315,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Caracasi Egyetemváros",
       ro: "Orașul Universitar din Caracas",
       en: "University City of Caracas"},
-    image: "/poi-images/venezuela-ciudad-universitaria-caracas-landmark-v2.webp",
     description: {
       de: "Der Hauptcampus der Universität von Venezuela, ein UNESCO-Weltkulturerbe und Meisterwerk der modernen Architektur.",
       hu: "A Venezuelai Központi Egyetem fő kampusza, UNESCO Világörökségi helyszín és a modern építészet remekműve.",
@@ -9647,7 +9622,6 @@ export const poiExtraVenezuelaLandmarksV2: POI[] = [
       hu: "Aula Magna - UCV",
       ro: "Aula Magna - UCV",
       en: "Aula Magna - UCV"},
-    image: "/poi-images/venezuela-aula-magna-ucv-landmark-v2.webp",
     description: {
       de: "Das beeindruckende Auditorium der Universität von Venezuela, weltberühmt für seine akustischen 'Wolken' von Alexander Calder.",
       hu: "A Venezuelai Központi Egyetem lenyűgöző auditóriuma, amely Alexander Calder akusztikus 'felhőiről' világhírű.",

@@ -220,7 +220,6 @@ export const poiExtraPakistanNatureV2: POI[] = [
       pt: ["Um lago alpino deslumbrante no vale de Kaghan, cercado por picos nevados.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região.", "Conhecido por sua importância paisagística ou cultural."],
       fr: ["Un lac alpin époustouflant dans la vallée de Kaghan, entouré de sommets enneigés.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Oman.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, },
-    image: "/poi-images/saif-ul-maluk-lake-nature-v2.webp",
     description: {
       de: "Ein atemberaubender alpiner See im Kaghan-Tal, umgeben von schneebedeckten Gipfeln.",
       hu: "Lenyűgöző alpesi tó a Kaghan-völgyben, hófödte csúcsokkal körülvéve.",
@@ -260,7 +259,6 @@ export const poiExtraPakistanNatureV2: POI[] = [
       ro: ["Al doilea cel mai înalt munte din lume, având oficial 8.611 metri", "Cunoscut sub denumirea internațională temută de \"Muntele Sălbatic\"", "Are o rată de fatalitate mult mai ridicată pentru alpiniști decât Everestul", "Situat în lanțul muntos izolat Karakoram din Gilgit-Baltistan", "Are o formă piramidală izbitoare, complet lipsită de platouri sigure", "Zăpada abundentă și furtunile constante previn expedițiile frecvente"],
       de: ["Der zweithöchste Berg der Welt, bekannt für seine extreme Schwierigkeit und abgelegene Lage im Karakorum-Gebirge.", "Liegt im Gebiet der Islamischen Republik Pakistan.", "Steht unter dem Einfluss der Klimazonen zwischen Hindukusch, Indus-Ebene und Arabischem Meer.", "Spielt eine Rolle in der lokalen Identität der Region."],
       hu: ["A világ második legmagasabb hegye, amely extrém nehézségéről és a Karakorum-hegységben való eldugott elhelyezkedéséről ismert.", "A Pakisztáni Iszlám Köztársaság területén található.", "A Hindukus, az Indus-síkság és az Arab-tenger közötti éghajlati zónák hatása alatt áll.", "Szerepet játszik a régió helyi identitásában."] } },
-    image: "/poi-images/k2-mountain-nature-v2.webp",
     description: {
       de: "Der zweithöchste Berg der Welt, bekannt für seine extreme Schwierigkeit und abgelegene Lage im Karakorum-Gebirge.",
       hu: "A világ második legmagasabb hegye, amely extrém nehézségéről és a Karakorum-hegységben való eldugott elhelyezkedéséről ismert.",
@@ -419,7 +417,6 @@ export const poiExtraPakistanNatureV2: POI[] = [
       pt: ["A nona montanha mais alta do mundo, famosa por sua imensa e gelada face Rupal.", "Localizada no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["La neuvième plus haute montagne du monde, célèbre pour son immense paroi glacée de Rupal.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Oman.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/nanga-parbat-mountain-nature-v2.webp",
     description: {
       de: "Der neuntehöchste Berg der Welt, berüchtigt für seine gewaltige, eisige Rupalwand.",
       hu: "A világ kilencedik legmagasabb hegye, amely hatalmas, jeges Rupal-faláról hírhedt.",
@@ -606,7 +603,6 @@ export const poiExtraPakistanNatureV2: POI[] = [
       pt: ["Um planalto de grande altitude, conhecido como a 'Terra dos Gigantes', que serve de habitat para o urso pardo do Himalaia.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Un plateau d'altitude, connu sous le nom de « Terre des Géants », qui sert d'habitat à l'ours brun de l'Himalaya.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindu Kush, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/deosai-national-park-nature-v2.webp",
     description: {
       de: "Ein hochgelegenes Plateau, bekannt als 'Land der Riesen', das als Lebensraum für den Himalaya-Braunbären dient.",
       hu: "Magaslati fennsík, amelyet 'az óriások földjének' is neveznek, és a himalájai barnamedve élőhelye.",
@@ -654,7 +650,6 @@ export const poiExtraPakistanNatureV2: POI[] = [
       pt: ["Um dos rios mais longos da Ásia e a força vital do Paquistão, que atravessa o país de norte a sul.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["L'un des plus longs fleuves d'Asie et l'artère vitale du Pakistan, traversant le pays du nord au sud.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindu Kush, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/indus-river-nature-v2.webp",
     description: {
       de: "Einer der längsten Flüsse Asiens und die Lebensader Pakistans, der das Land von Norden nach Süden durchfließt.",
       hu: "Ázsia egyik leghosszabb folyója és Pakisztán életvonala, amely északról délre szeli át az országot.",
@@ -855,7 +850,6 @@ export const poiExtraPakistanNatureV2: POI[] = [
       pt: ["Um lago pitoresco perto de Skardu, que representa uma importante fonte de água para a cidade.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Un lac pittoresque près de Skardu, qui constitue une source d'eau importante pour la ville.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Oman.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/satpara-lake-nature-v2.webp",
     description: {
       de: "Ein malerischer See in der Nähe von Skardu, der eine wichtige Wasserquelle für die Stadt darstellt.",
       hu: "Festői tó Skardu közelében, amely a város fontos vízforrása.",
@@ -903,7 +897,6 @@ export const poiExtraPakistanNatureV2: POI[] = [
       pt: ["Um vale remoto e intocado perto de Skardu, famoso por suas dramáticas paredes rochosas e oportunidades de escalada.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Une vallée isolée et préservée près de Skardu, célèbre pour ses parois rocheuses spectaculaires et ses possibilités d'escalade.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Oman.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/nangma-valley-nature-v2.webp",
     description: {
       de: "Ein abgelegenes und unberührtes Tal in der Nähe von Skardu, berühmt für seine dramatischen Felswände und Klettermöglichkeiten.",
       hu: "Egy távoli és érintetlen völgy Skardu közelében, amely drámai sziklafalairól és hegymászási lehetőségeiről híres.",
@@ -996,7 +989,6 @@ export const poiExtraPakistanNatureV2: POI[] = [
       pt: ["O maior parque nacional do Paquistão, com diversos paisagens que incluem costas, desertos e formações rochosas.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Le plus grand parc national du Pakistan, avec des paysages variés comprenant des côtes, des déserts et des formations rocheuses.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindu Kush, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/hingol-national-park-nature-v2.webp",
     description: {
       de: "Der größte Nationalpark Pakistans mit vielfältigen Landschaften, darunter Küsten, Wüsten und Felsformationen.",
       hu: "Pakisztán legnagyobb nemzeti parkja, változatos tájakkal, beleértve partvidéket, sivatagot és sziklaképződményeket.",
@@ -1233,7 +1225,6 @@ export const poiExtraPakistanNatureV2: POI[] = [
       pt: ["Um lago no vale de Hunza, formado em 2010 após um deslizamento massivo", "Localizado no território da República Islâmica do Paquistão", "Sob influência climática entre o Hindu Kush, o Indo e o Mar Arábico", "Desempenha um papel na identidade local da região"],
       fr: ["Lac de la vallée de Hunza, formé en 2010 après un glissement de terrain massif", "Situé sur le territoire de la République islamique du Pakistan", "Influencé par les zones climatiques entre l'Hindu Kush, l'Indus et la mer d'Arabie", "Joue un rôle dans l'identité locale de la région"],
     }, },
-    image: "/poi-images/attabad-lake-nature-v2.webp",
     description: {
       de: "Ein See im Hunza-Tal, der 2010 nach einem massiven Erdrutsch entstand, der den Hunza-Fluss staute.",
       hu: "A Hunza-völgyben található tó, amely 2010-ben egy hatalmas földcsuszamlás következtében jött létre, amely elzárta a Hunza folyót.",
@@ -1281,7 +1272,6 @@ export const poiExtraPakistanNatureV2: POI[] = [
       pt: ["Um parque pitoresco perto da cidade de Chitral, conhecido pela proteção da cabra Markhor de Astor.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Un parc pittoresque situé près de la ville de Chitral, connu pour la protection de la chèvre Markhor d'Astor.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindu Kush, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/chitral-gol-national-park-nature-v2.webp",
     description: {
       de: "Ein malerischer Park in der Nähe von Chitral Town, der für den Schutz der Astor-Markhor-Ziege bekannt ist.",
       hu: "Festői park Chitral város közelében, amely az Astor markhor kecske védelméről ismert.",
@@ -1446,7 +1436,6 @@ export const poiExtraPakistanNatureV2: POI[] = [
       pt: ["Uma montanha majestosa na cordilheira do Karakoram, conhecida por sua subida ininterrupta desde o fundo do vale.", "Localizada no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Une montagne majestueuse de la chaîne du Karakoram, connue pour son ascension ininterrompue depuis le fond de la vallée.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Oman.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/rakaposhi-mountain-nature-v2.webp",
     description: {
       de: "Ein majestätischer Berg im Karakorum-Gebirge, der für seinen ununterbrochenen Anstieg vom Talboden bekannt ist.",
       hu: "Fenséges hegy a Karakorum-hegységben, amely a völgy aljától való megszakítás nélküli emelkedéséről ismert.",
@@ -1494,7 +1483,6 @@ export const poiExtraPakistanNatureV2: POI[] = [
       pt: ["Um rio importante que flui através da Caxemira e do Panjabe, conhecido pela sua beleza paisagística e importância histórica.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Une rivière importante qui traverse le Cachemire et le Pendjab, connue pour sa beauté paysagère et son importance historique.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindu Kush, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/jhelum-river-nature-v2.webp",
     description: {
       de: "Ein wichtiger Fluss, der durch Kaschmir und Punjab fließt und für seine landschaftliche Schönheit und historische Bedeutung bekannt ist.",
       hu: "Fontos folyó, amely Kasmíron és Pandzsábon folyik keresztül, és festői szépségéről és történelmi jelentőségéről ismert.",
@@ -1587,7 +1575,6 @@ export const poiExtraPakistanNatureV2: POI[] = [
       pt: ["Um grupo de picos montanhosos e um lago no vale de Kaghan, a fonte principal do rio Kunhar.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Un groupe de sommets montagneux et un lac dans la vallée de Kaghan, principale source de la rivière Kunhar.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindu Kush, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/lulusar-lake-nature-v2.webp",
     description: {
       de: "Eine Gruppe von Berggipfeln und einem See im Kaghan-Tal, die Hauptquelle des Kunhar-Flusses.",
       hu: "Hegycsúcsok csoportja és egy tó a Kaghan-völgyben, a Kunhar folyó fő forrása.",
@@ -1678,7 +1665,6 @@ export const poiExtraPakistanNatureV2: POI[] = [
       es: ["Uno de los parques nacionales más altos del mundo, situado en la frontera con China y hábitat de la oveja de Marco Polo.", "Situado en el territorio de la República Islámica de Pakistán.", "Bajo la influencia de las zonas climáticas entre el Hindu Kush, la llanura del Indo y el Mar Arábigo.", "Desempeña un papel en la identidad local de la región."],
       pt: ["Um dos parques nacionais mais altos do mundo, situado na fronteira com a China e habitat da ovelha de Marco Polo.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["L'un des parcs nationaux les plus élevés au monde, situé à la frontière avec la Chine et habitat du mouflon de Marco Polo.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindu Kush, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."], } },
-    image: "/poi-images/khunjerab-national-park-nature-v2.webp",
     description: {
       de: "Einer der höchstgelegenen Nationalparks der Welt, an der Grenze zu China gelegen und Lebensraum für das Marco-Polo-Schaf.",
       hu: "A világ egyik legmagasabban fekvő nemzeti parkja, a kínai határon található, és a Marco Polo juh élőhelye.",
@@ -1807,7 +1793,6 @@ export const poiExtraPakistanNatureV2: POI[] = [
       pt: ["Um lago pitoresco no Parque Nacional de Deosai, conhecido por suas águas azuis profundas e pelos prados circundantes.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Un lac pittoresque dans le parc national de Deosai, connu pour ses eaux d'un bleu profond et les prairies environnantes.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Oman.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/sheosar-lake-nature-v2.webp",
     description: {
       de: "Ein malerischer See im Deosai-Nationalpark, bekannt für sein tiefblaues Wasser und die umliegenden Wiesen.",
       hu: "Festői tó a Deosai Nemzeti Parkban, mélykék vizéről és a környező rétekről ismert.",
@@ -1900,7 +1885,6 @@ export const poiExtraPakistanNatureV2: POI[] = [
       pt: ["Um rio importante que flui através da Índia e do Paquistão e se junta ao Sutlej para formar o rio Panjnad.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Un fleuve important qui traverse l'Inde et le Pakistan et rejoint le Sutlej pour former le fleuve Panjnad.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindu Kush, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/chenab-river-nature-v2.webp",
     description: {
       de: "Ein bedeutender Fluss, der durch Indien und Pakistan fließt und sich mit dem Sutlej zum Panjnad-Fluss vereinigt.",
       hu: "Jelentős folyó, amely Indián és Pakisztánon folyik keresztül, és a Sutlej folyóval egyesülve a Panjnad folyót alkotja.",
@@ -1948,7 +1932,6 @@ export const poiExtraPakistanNatureV2: POI[] = [
       pt: ["O maior lago de água doce do Paquistão e um dos maiores da Ásia, conhecido por sua rica vida aviária.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Le plus grand lac d'eau douce du Pakistan et l'un des plus grands d'Asie, réputé pour sa riche avifaune.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Oman.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/manchar-lake-nature-v2.webp",
     description: {
       de: "Der größte Süßwassersee Pakistans und einer der größten in Asien, der für seine reiche Vogelwelt bekannt ist.",
       hu: "Pakisztán legnagyobb édesvizű tava és Ázsia egyik legnagyobbja, gazdag madárvilágáról ismert.",
@@ -2041,7 +2024,6 @@ export const poiExtraPakistanNatureV2: POI[] = [
       pt: ["Um planalto verde exuberante no sopé do Nanga Parbat, batizado por escaladores alemães.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Un plateau verdoyant au pied du Nanga Parbat, nommé ainsi par des alpinistes allemands.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindu Kush, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/fairy-meadows-nature-v2.webp",
     description: {
       de: "Ein üppiges grünes Plateau am Fuße des Nanga Parbat, das von deutschen Kletterern benannt wurde.",
       hu: "Buja zöld fennsík a Nanga Parbat lábánál, amelyet német hegymászók neveztek el.",

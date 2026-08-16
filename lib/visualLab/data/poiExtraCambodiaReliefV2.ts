@@ -8,7 +8,6 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     parent: "KH-15",
     coords: [103.2000, 12.0000],
     name: { de: "Kardamomberge", hu: "Kardamom-hegység", ro: "Munții Cardamom", en: "Cardamom Mountains"},
-    image: "/poi-images/cardamom-mountains-relief-v2.webp",
     description: { de: "Eine der größten noch intakten Waldregionen Südostasiens im Südwesten Kambodschas.", hu: "Délkelet-Ázsia egyik legnagyobb egybefüggő, érintetlen erdősége Kambodzsa délnyugati részén.", ro: "Una dintre cele mai mari zone forestiere intacte din Asia de Sud-Est, în sud-vestul Cambodgiei.", en: "One of the largest intact forest regions in Southeast Asia, located in southwestern Cambodia." , es: "Una de las regiones forestales intactas más grandes del sudeste asiático, situada en el suroeste de Camboya.", pt: "Uma das maiores regiões florestais ainda intactas do Sudeste Asiático, no sudoeste do Camboja.", fr: "L'une des plus grandes régions forestières encore intactes d'Asie du Sud-Est, au sud-ouest du Cambodge."},
     facts: {
       de: ["Höchster Punkt ist der Phnom Aural.", "Heimat seltener Tierarten wie dem Indochinesischen Tiger."],
@@ -782,7 +781,6 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     parent: "KH-13",
     coords: [104.0000, 14.3333],
     name: { de: "Dangrek-Gebirge", hu: "Dangrek-hegység", ro: "Munții Dangrek", en: "Dangrek Mountains"},
-    image: "/poi-images/dangrek-mountains-relief-v2.webp",
     description: { de: "Ein Sandsteingebirge, das die natürliche Grenze zwischen Kambodscha und Thailand bildet.", hu: "Kambodzsa és Thaiföld természetes határát alkotó homokkő hegység.", ro: "Un lanț muntos din gresie care formează granița naturală dintre Cambodgia și Thailanda.", en: "A sandstone mountain range forming the natural border between Cambodia and Thailand." , es: "Una cordillera de arenisca que forma la frontera natural entre Camboya y Tailandia.", pt: "Uma cadeia de montanhas de arenito que forma a fronteira natural entre o Camboja e a Tailândia.", fr: "Une chaîne de montagnes de grès qui forme la frontière naturelle entre le Cambodge et la Thaïlande."},
     facts: {
       de: ["Hier befindet sich der berühmte Preah-Vihear-Tempel.", "Die Durchschnittshöhe beträgt etwa 500 Meter."],
@@ -818,7 +816,6 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     parent: "KH-05",
     coords: [104.2889, 12.0319],
     name: { de: "Phnom Aural", hu: "Phnom Aural", ro: "Phnom Aural", en: "Phnom Aural"},
-    image: "/poi-images/phnom-aural-relief-v2.webp",
     description: { de: "Mit über 1800 Metern der höchste Berg Kambodschas, gelegen im östlichen Teil der Kardamomberge.", hu: "Több mint 1800 méteres magasságával Kambodzsa legmagasabb hegye, a Kardamom-hegység keleti részén.", ro: "Cu peste 1800 de metri, este cel mai înalt munte din Cambodgia, situat în partea de est a Munților Cardamom.", en: "At over 1800 meters, it is the highest mountain in Cambodia, located in the eastern Cardamom Mountains." , es: "Con más de 1800 metros, la montaña más alta de Camboya, situada en la parte oriental de los Montes Cardamomo.", pt: "Com mais de 1800 metros, a montanha mais alta do Camboja, situada na parte oriental das Montanhas Cardamomo.", fr: "Avec plus de 1800 mètres, la plus haute montagne du Cambodge, située dans la partie orientale des monts Cardamome."},
     facts: {
       de: ["Erreicht eine Höhe von 1813 Metern.", "Liegt in einem geschützten Wildtierreservat."],
@@ -926,7 +923,6 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     parent: "KH-23",
     coords: [104.3167, 10.4833],
     name: { de: "Küste von Kep", hu: "Kep partvidéke", ro: "Coasta Kep", en: "Kep Coast"},
-    image: "/poi-images/kep-coast-relief-v2.webp",
     description: { de: "Ein malerischer Küstenabschnitt am Golf von Thailand, berühmt für seine entspannte Atmosphäre.", hu: "Festői partvidék a Thai-öböl mentén, amely nyugodt légköréről híres.", ro: "O zonă de coastă pitorească la Golful Thailandei, faimoasă pentru atmosfera sa relaxată.", en: "A picturesque coastal stretch on the Gulf of Thailand, famous for its relaxed atmosphere." , es: "Un pintoresco tramo de costa en el golfo de Tailandia, famoso por su ambiente relajado.", pt: "Um trecho pitoresco de costa no Golfo da Tailândia, famoso pela sua atmosfera relaxada.", fr: "Un littoral pittoresque sur le golfe de Thaïlande, célèbre pour son atmosphère détendue."},
     facts: {
       de: ["Bekannt für den frischen Krabbenmarkt.", "Ehemaliger Rückzugsort der französischen Kolonialelite."],
@@ -1187,7 +1183,6 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     parent: "KH-18",
     coords: [103.2667, 10.7333],
     name: { de: "Küste von Koh Rong", hu: "Koh Rong partvidéke", ro: "Coasta Koh Rong", en: "Koh Rong Coast"},
-    image: "/poi-images/koh-rong-coast-relief-v2.webp",
     description: { de: "Die Strände und Küsten der Insel Koh Rong bieten weißen Sand und kristallklares Wasser.", hu: "Koh Rong szigetének strandjai és partjai fehér homokot és kristálytiszta vizet kínálnak.", ro: "Plajele și coastele insulei Koh Rong oferă nisip alb și ape cristaline.", en: "The beaches and coasts of Koh Rong island offer white sand and crystal-clear waters." , es: "Las playas y costas de la isla de Koh Rong ofrecen arena blanca y aguas cristalinas.", pt: "As praias e costas da ilha de Koh Rong oferecem areia branca e águas cristalinas.", fr: "Les plages et les côtes de l'île de Koh Rong offrent du sable blanc et des eaux cristallines."},
     facts: {
       de: ["Beliebt bei Tauchern und Schnorchlern.", "Verfügt über biolumineszentes Plankton bei Nacht."],
@@ -1412,7 +1407,6 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     parent: "KH-18",
     coords: [103.6500, 10.5333],
     name: { de: "Ream-Küste", hu: "Ream partvidék", ro: "Coasta Ream", en: "Ream Coast"},
-    image: "/poi-images/ream-coast-relief-v2.webp",
     description: { de: "Eine von Mangrovenwäldern und ruhigen Stränden geprägte Küstenlinie im Süden.", hu: "Mangroveerdőkkel és csendes strandokkal tarkított partvonal délen.", ro: "O linie de coastă caracterizată de păduri de mangrove și plaje liniștite în sud.", en: "A coastline characterized by mangrove forests and quiet beaches in the south." , es: "Una línea costera caracterizada por manglares y playas tranquilas en el sur.", pt: "Uma linha costeira caracterizada por manguezais e praias tranquilas no sul.", fr: "Un littoral caractérisé par des forêts de mangroves et des plages paisibles dans le sud."},
     facts: {
       de: ["Teil des Ream-Nationalparks.", "Ein wichtiger Lebensraum für Meeresvögel."],
@@ -1781,7 +1775,6 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     parent: "KH-16",
     coords: [106.5833, 14.1833],
     name: { de: "Virachey-Berge", hu: "Virachey-hegység", ro: "Munții Virachey", en: "Virachey Mountains"},
-    image: "/poi-images/virachey-mountains-relief-v2.webp",
     description: { de: "Eine unzugängliche Bergregion an der Grenze zu Laos und Vietnam.", hu: "Nehezen megközelíthető hegyvidéki régió a laoszi és vietnámi határ mentén.", ro: "O regiune muntoasă inaccesibilă la granița cu Laos și Vietnam.", en: "An inaccessible mountain region on the border with Laos and Vietnam." , es: "Una región montañosa inaccesible en la frontera con Laos y Vietnam.", pt: "Uma região montanhosa inacessível na fronteira com o Laos e o Vietname.", fr: "Une région montagneuse inaccessible à la frontière avec le Laos et le Vietnam."},
     facts: {
       de: ["Teil des riesigen Virachey-Nationalparks.", "Viele Gebiete sind noch immer unerforscht."],
@@ -1970,7 +1963,6 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     parent: "KH-06",
     coords: [105.0000, 12.7167],
     name: { de: "Phnom Santuk", hu: "Phnom Santuk", ro: "Phnom Santuk", en: "Phnom Santuk"},
-    image: "/poi-images/phnom-santuk-relief-v2.webp",
     description: { de: "Ein bewaldeter Hügel, der eine bedeutende religiöse Stätte in Zentralkambodscha darstellt.", hu: "Erdős domb, amely jelentős vallási helyszín Közép-Kambodzsában.", ro: "Un deal împădurit care reprezintă un sit religios important în centrul Cambodgiei.", en: "A wooded hill that represents a significant religious site in central Cambodia." , es: "Una colina boscosa que representa un importante lugar religioso en el centro de Camboya.", pt: "Uma colina arborizada que representa um importante local religioso no centro do Camboja.", fr: "Une colline boisée qui représente un site religieux majeur dans le centre du Cambodge."},
     facts: {
       de: ["Über 800 Stufen führen zum Gipfel.", "Berühmt für seine liegenden Buddha-Statuen."],
@@ -2123,7 +2115,6 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     parent: "KH-07",
     coords: [104.0167, 10.6167],
     name: { de: "Bokor-Berg", hu: "Bokor-hegy", ro: "Muntele Bokor", en: "Bokor Mountain"},
-    image: "/poi-images/bokor-mountain-relief-v2.webp",
     description: { de: "Ein prominenter Berg in den Elefantenbergen, bekannt für seine kühle Luft und historische Ruinen.", hu: "Az Elefánt-hegység kiemelkedő hegye, amely hűvös levegőjéről és történelmi romjairól ismert.", ro: "Un munte proeminent din Munții Elefant, cunoscut pentru aerul său rece și ruinele istorice.", en: "A prominent mountain in the Elephant Mountains, known for its cool air and historical ruins." , es: "Una montaña destacada en los Montes Elefante, conocida por su aire fresco y ruinas históricas.", pt: "Uma montanha proeminente nas Montanhas do Elefante, conhecida pelo seu ar fresco e ruínas históricas.", fr: "Une montagne importante des monts de l'Éléphant, connue pour son air frais et ses ruines historiques."},
     facts: {
       de: ["Erreicht eine Höhe von 1081 Metern.", "Einst ein luxuriöser französischer Rückzugsort in den 1920er Jahren."],
@@ -2159,7 +2150,6 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     parent: "KH-09",
     coords: [103.0000, 11.6167],
     name: { de: "Küste von Koh Kong", hu: "Koh Kong partvidéke", ro: "Coasta Koh Kong", en: "Koh Kong Coast"},
-    image: "/poi-images/koh-kong-coast-relief-v2.webp",
     description: { de: "Ein rauer und abgelegener Küstenabschnitt im Westen, reich an Mangroven und Inseln.", hu: "Vad és távoli partvidék nyugaton, amely gazdag mangrovékban és szigetekben.", ro: "O secțiune de coastă aspră și izolată în vest, bogată în mangrove și insule.", en: "A rugged and remote coastal stretch in the west, rich in mangroves and islands." , es: "Un tramo de costa escarpado y remoto en el oeste, rico en manglares e islas.", pt: "Um trecho de costa acidentado e remoto no oeste, rico em mangues e ilhas.", fr: "Une section côtière sauvage et isolée à l'ouest, riche en mangroves et en îles."},
     facts: {
       de: ["Besitzt einige der größten zusammenhängenden Mangrovenwälder Asiens.", "Wenig touristisch erschlossen im Vergleich zu anderen Regionen."],
@@ -2825,7 +2815,6 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     parent: "KH-21",
     coords: [104.7833, 11.1167],
     name: { de: "Phnom Chisor", hu: "Phnom Chisor", ro: "Phnom Chisor", en: "Phnom Chisor"},
-    image: "/poi-images/phnom-chisor-relief-v2.webp",
     description: { de: "Ein einsamer Berg in der Takeo-Ebene, gekrönt von einem alten Angkor-Tempel.", hu: "Magányos hegy a Takeo-síkságon, amelyet egy ősi angkori templom koronáz.", ro: "Un munte singuratic din câmpia Takeo, încununat de un vechi templu Angkor.", en: "A solitary mountain in the Takeo plain, crowned by an ancient Angkorian temple." , es: "Una montaña solitaria en la llanura de Takeo, coronada por un antiguo templo de Angkor.", pt: "Uma montanha solitária na planície de Takeo, coroada por um antigo templo de Angkor.", fr: "Une montagne isolée dans la plaine de Takeo, couronnée par un ancien temple d'Angkor."},
     facts: {
       de: ["Der Tempel stammt aus dem 11. Jahrhundert.", "Bietet einen weiten Blick über die flache Landschaft."],

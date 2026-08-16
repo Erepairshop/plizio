@@ -57,7 +57,6 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: "Gambia-folyó",
       ro: "Râul Gambia",
       en: "Gambia River"},
-    image: "/poi-images/gambia-river-nature-v2.webp",
     description: {
       de: "Der Gambia-Fluss ist die wichtigste Wasserstraße Westafrikas und verläuft durch das gesamte Land bis zum Atlantik.",
       hu: "A Gambia-folyó Nyugat-Afrika egyik legfontosabb víziútja, amely az egész országon végigkanyarog az Atlanti-óceánig.",
@@ -107,7 +106,6 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: "River Gambia Nemzeti Park",
       ro: "Parcul Național River Gambia",
       en: "River Gambia National Park"},
-    image: "/poi-images/river-gambia-national-park-nature-v2.webp",
     description: {
       de: "Dieser Park umfasst fünf Inseln im Fluss und ist bekannt für seine Schimpansen-Wiederansiedlungsprojekte.",
       hu: "Ez a park öt folyami szigetet foglal magában, és híres a csimpánzok visszatelepítését célzó projektjeiről.",
@@ -202,7 +200,6 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: "Kiang West Nemzeti Park",
       ro: "Parcul Național Kiang West",
       en: "Kiang West National Park"},
-    image: "/poi-images/kiang-west-national-park-nature-v2.webp",
     description: {
       de: "Einer der größten und wichtigsten Wildschutzgebiete Gambias mit einer vielfältigen Flora und Fauna.",
       hu: "Gambia egyik legnagyobb és legfontosabb vadrezervátuma, rendkívül gazdag növény- és állatvilággal.",
@@ -250,7 +247,6 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: "Bao Bolong mocsárvidék",
       ro: "Rezervația Bao Bolong",
       en: "Bao Bolong Wetland Reserve"},
-    image: "/poi-images/bao-bolong-wetland-nature-v2.webp",
     description: {
       de: "Ein riesiges Feuchtgebiet am Nordufer des Gambia-Flusses, das ein Paradies für Vogelbeobachter ist.",
       hu: "Hatalmas mocsárvidék a Gambia-folyó északi partján, amely a madármegfigyelők paradicsoma.",
@@ -298,7 +294,6 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: "Tanji Madárrezervátum",
       ro: "Rezervația de păsări Tanji",
       en: "Tanji Bird Reserve"},
-    image: "/poi-images/tanji-bird-reserve-nature-v2.webp",
     description: {
       de: "Ein Küstenschutzgebiet, das verschiedene Lebensräume wie Dünen, Lagunen und Trockenwälder umfasst.",
       hu: "Parti védett terület, amely különféle élőhelyeket, például dűnéket, lagúnákat és száraz erdőket foglal magában.",
@@ -391,7 +386,6 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: "Bijilo Erdőpark",
       ro: "Parcul Forestier Bijilo",
       en: "Bijilo Forest Park"},
-    image: "/poi-images/bijilo-forest-park-nature-v2.webp",
     description: {
       de: "Ein kleiner Waldpark an der Küste, der oft als 'Monkey Park' bezeichnet wird, da dort viele Affen leben.",
       hu: "Kicsi tengerparti erdőpark, amelyet gyakran 'Majomparknak' is neveznek a benne élő számos majom miatt.",
@@ -520,7 +514,6 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: "Abuko Természetvédelmi Terület",
       ro: "Rezervația Naturală Abuko",
       en: "Abuko Nature Reserve"},
-    image: "/poi-images/abuko-nature-reserve-nature-v2.webp",
     description: {
       de: "Gambias erstes Naturschutzgebiet beherbergt eine erstaunliche Vielfalt an Tieren in einem geschützten Waldgebiet.",
       hu: "Gambia első természetvédelmi területe, amely az állatok lenyűgöző változatosságának ad otthont egy védett erdőben.",
@@ -568,7 +561,6 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: "Janjanbureh-sziget",
       ro: "Insula Janjanbureh",
       en: "Janjanbureh Island"},
-    image: "/poi-images/janjanbureh-island-nature-v2.webp",
     description: {
       de: "Eine Insel im Gambia-Fluss, die für ihre historische Bedeutung und ihre natürliche Schönheit bekannt ist.",
       hu: "Sziget a Gambia-folyón, amely történelmi jelentőségéről és természeti szépségéről ismert.",
@@ -661,7 +653,6 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: "Kunta Kinteh-sziget",
       ro: "Insula Kunta Kinteh",
       en: "Kunta Kinteh Island"},
-    image: "/poi-images/kunta-kinteh-island-nature-v2.webp",
     description: {
       de: "Eine kleine Insel im Fluss, die aufgrund ihrer Rolle im Sklavenhandel zum UNESCO-Welterbe gehört.",
       hu: "Kicsi sziget a folyón, amely a rabszolga-kereskedelemben betöltött szerepe miatt az UNESCO Világörökség része.",
@@ -709,7 +700,6 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: "Pavián-szigetek",
       ro: "Insulele Pavianilor",
       en: "Baboon Islands"},
-    image: "/poi-images/baboon-islands-nature-v2.webp",
     description: {
       de: "Eine Gruppe von Inseln, auf denen Schimpansen in ihrer natürlichen Umgebung beobachtet werden können.",
       hu: "Szigetcsoport, ahol a csimpánzokat természetes környezetükben lehet megfigyelni.",
@@ -757,7 +747,6 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: "Jinack-sziget",
       ro: "Insula Jinack",
       en: "Jinack Island"},
-    image: "/poi-images/jinack-island-nature-v2.webp",
     description: {
       de: "Eine friedliche Insel an der Mündung des Gambia-Flusses mit unberührten Stränden und Mangroven.",
       hu: "Békés sziget a Gambia-folyó torkolatánál, érintetlen strandokkal és mangrovékkal.",
@@ -805,7 +794,6 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: "Szent Mária-sziget",
       ro: "Insula Sfânta Maria",
       en: "St. Mary's Island"},
-    image: "/poi-images/st-marys-island-nature-v2.webp",
     description: {
       de: "Die Insel an der Mündung des Gambia-Flusses, auf der sich die Hauptstadt Banjul befindet.",
       hu: "A Gambia-folyó torkolatánál fekvő sziget, amelyen a főváros, Banjul található.",
@@ -853,7 +841,6 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: "Kartong-part",
       ro: "Plaja Kartong",
       en: "Kartong Beach"},
-    image: "/poi-images/kartong-beach-nature-v2.webp",
     description: {
       de: "Ein ruhiger und abgelegener Strand im äußersten Süden Gambias, nahe der Grenze zum Senegal.",
       hu: "Csendes és elszigetelt strand Gambia legdélebbi részén, a szenegáli határ közelében.",
@@ -901,7 +888,6 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: "Sanyang-part",
       ro: "Plaja Sanyang",
       en: "Sanyang Beach"},
-    image: "/poi-images/sanyang-beach-nature-v2.webp",
     description: {
       de: "Bekannt als einer der schönsten Strände Gambias, bietet er goldenen Sand und klares Wasser.",
       hu: "Gambia egyik legszebb strandjaként ismert, aranyló homokkal és tiszta vízzel várja a látogatókat.",
@@ -1030,7 +1016,6 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: "Kotu-part",
       ro: "Plaja Kotu",
       en: "Kotu Beach"},
-    image: "/poi-images/kotu-beach-nature-v2.webp",
     description: {
       de: "Ein beliebter Strandabschnitt mit vielen Hotels, der auch gute Möglichkeiten zur Vogelbeobachtung bietet.",
       hu: "Népszerű tengerparti szakasz számos szállodával, amely kiváló lehetőségeket kínál madármegfigyelésre is.",
@@ -1207,7 +1192,6 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: "Cape Point",
       ro: "Cape Point",
       en: "Cape Point"},
-    image: "/poi-images/cape-point-nature-v2.webp",
     description: {
       de: "Ein markanter Punkt an der Küste, wo der Gambia-Fluss und der Atlantik aufeinandertreffen.",
       hu: "Jellegzetes pont a parton, ahol a Gambia-folyó és az Atlanti-óceán találkozik.",
@@ -1255,7 +1239,6 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: "Brufut-erdők",
       ro: "Pădurea Brufut",
       en: "Brufut Woods"},
-    image: "/poi-images/brufut-woods-nature-v2.webp",
     description: {
       de: "Ein wichtiges Waldgebiet für den Vogelschutz, das viele seltene Arten beherbergt.",
       hu: "Fontos erdőterület a madárvédelem szempontjából, amely számos ritka fajnak ad otthont.",
@@ -1351,7 +1334,6 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: "Niumi Nemzeti Park",
       ro: "Parcul Național Niumi",
       en: "Niumi National Park"},
-    image: "/poi-images/niumi-national-park-nature-v2.webp",
     description: {
       de: "Dieser Park an der Nordküste umfasst Mangroven, Sümpfe und Sanddünen.",
       hu: "Az északi parton fekvő park mangrovékat, mocsarakat és homokdűnéket foglal magában.",
@@ -1444,7 +1426,6 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: "Allahein-folyó",
       ro: "Râul Allahein",
       en: "Allahein River"},
-    image: "/poi-images/allahein-river-nature-v2.webp",
     description: {
       de: "Ein kleiner Fluss im Süden, der die natürliche Grenze zwischen Gambia und Senegal bildet.",
       hu: "Kicsi folyó délen, amely a természetes határt alkotja Gambia és Szenegál között.",
@@ -1492,7 +1473,6 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: "Bintang Bolong",
       ro: "Bintang Bolong",
       en: "Bintang Bolong"},
-    image: "/poi-images/bintang-bolong-nature-v2.webp",
     description: {
       de: "Der größte Nebenfluss des Gambia-Flusses, bekannt für seine weiten Mangrovenlandschaften.",
       hu: "A Gambia-folyó legnagyobb mellékfolyója, amely hatalmas mangrove-tájairól ismert.",

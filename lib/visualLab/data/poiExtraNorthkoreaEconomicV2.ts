@@ -220,7 +220,6 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/chongjin-steel-works-economic-v2.webp",
     description: {
       de: "Ein großes Stahlwerk in der Stadt Chongjin, das für die nordkoreanische Wirtschaft von entscheidender Bedeutung ist.",
       hu: "Nagy acélmű Cshongdzsin városában, amely kulcsfontosságú Észak-Korea gazdasága szempontjából.",
@@ -349,7 +348,6 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/hungnam-fertilizer-complex-economic-v2.webp",
     description: {
       de: "Ein riesiger Industriekomplex in Hungnam, der für die Produktion von Düngemitteln für die Landwirtschaft des Landes von entscheidender Bedeutung ist.",
       hu: "Hatalmas ipari komplexum Hungnamban, amely kulcsfontosságú az ország mezőgazdasága számára szükséges műtrágyák előállításában.",
@@ -442,7 +440,6 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/musan-iron-mine-economic-v2.webp",
     description: {
       de: "Eine der größten Eisenerzminen Asiens, die sich in Musan befindet und die nordkoreanische Stahlindustrie versorgt.",
       hu: "Ázsia egyik legnagyobb vasércbányája Muszanban, amely az észak-koreai acélipart látja el.",
@@ -571,7 +568,6 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/rason-port-economic-v2.webp",
     description: {
       de: "Ein strategisch wichtiger, eisfreier Hafen in der Sonderwirtschaftszone Rason, der den Handel mit China und Russland erleichtert.",
       hu: "Stratégiailag fontos, jégmentes kikötő a Raszoni Különleges Gazdasági Övezetben, amely megkönnyíti a Kínával és Oroszországgal folytatott kereskedelmet.",
@@ -805,7 +801,6 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       es: [],
       pt: [],
       fr: [], } },
-    image: "/poi-images/sinuiju-cosmetics-factory-economic-v2.webp",
     description: {
       de: "Eine bekannte Fabrik in Sinuiju, die eine Reihe von Kosmetika für den nordkoreanischen Markt herstellt.",
       hu: "Ismert gyár Sinidzsiban, amely kozmetikumok széles skáláját gyártja az észak-koreai piacra.",
@@ -853,7 +848,6 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/pukchang-thermal-power-plant-economic-v2.webp",
     description: {
       de: "Das größte Wärmekraftwerk in Nordkorea, das einen erheblichen Teil des Stroms des Landes erzeugt.",
       hu: "Észak-Korea legnagyobb hőerőműve, amely az ország villamos energiájának jelentős részét termeli.",
@@ -901,7 +895,6 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/supung-hydroelectric-plant-economic-v2.webp",
     description: {
       de: "Ein großes Wasserkraftwerk am Yalu-Fluss, das gemeinsam mit China betrieben wird und Strom für beide Länder liefert.",
       hu: "Nagy vízerőmű a Jalu folyón, amelyet Kínával közösen üzemeltetnek, és mindkét ország számára áramot termel.",
@@ -1079,7 +1072,6 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/tanchon-port-economic-v2.webp",
     description: {
       de: "Ein wichtiger Hafen an der Ostküste, der für den Export von Magnesit und anderen Mineralien aus den nahegelegenen Minen von Tanchon dient.",
       hu: "Fontos kikötő a keleti parton, amely a közeli tancshoni bányákból származó magnezit és más ásványok exportjára szolgál.",
@@ -1127,7 +1119,6 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/kumgol-zinc-mine-economic-v2.webp",
     description: {
       de: "Teil des Komdok-Bergbaukomplexes, einer der größten Produzenten von Blei und Zink in Asien.",
       hu: "A Komdoki Bányászati Komplexum része, Ázsia egyik legnagyobb ólom- és cinktermelője.",
@@ -1435,7 +1426,6 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/february-8-vinalon-complex-economic-v2.webp",
     description: {
       de: "Ein weiterer großer Vinalon-Produktionskomplex in der Nähe von Hamhung, der nach dem Gründungstag der Koreanischen Volksarmee benannt ist.",
       hu: "Egy másik nagy vinalongyártó komplexum Hamhung közelében, amelyet a Koreai Néphadsereg megalapításának napjáról neveztek el.",
@@ -1626,7 +1616,6 @@ image: "/poi-images/ryongsong-machine-complex-economic-v2.webp",
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/kim-chaek-iron-and-steel-works-economic-v2.webp",
     description: {
       de: "Ein weiteres großes Stahlwerk, gelegen in der Stadt Kimchaek. Es ist ein wichtiger Pfeiler der nordkoreanischen Schwerindustrie.",
       hu: "Egy másik nagy acélmű Kim Cshek városában. Az észak-koreai nehézipar fontos pillére.",
@@ -1853,7 +1842,6 @@ image: "/poi-images/ryongsong-machine-complex-economic-v2.webp",
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/pyongyang-east-thermal-power-plant-economic-v2.webp",
     description: {
       de: "Ein wichtiges Kraftwerk, das die Hauptstadt Pjöngjang mit Strom und Fernwärme versorgt.",
       hu: "Fontos erőmű, amely a fővárost, Phenjant látja el villamos energiával és távhővel.",

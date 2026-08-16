@@ -433,7 +433,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/yantian-port-economic-v2.webp",
     description: {
       de: "Einer der verkehrsreichsten Containerhäfen der Welt in Shenzhen, ein Schlüsselknotenpunkt für den globalen Handel.",
       hu: "A világ egyik legforgalmasabb konténerkikötője Sencsenben, a globális kereskedelem kulcsfontosságú csomópontja.",
@@ -481,7 +480,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/zhanjiang-port-economic-v2.webp",
     description: {
       de: "Ein strategischer Hafen in der Provinz Guangdong, der auf den Umschlag von Rohöl, Eisenerz und Kohle spezialisiert ist.",
       hu: "Stratégiai kikötő Guangdong tartományban, amely kőolaj, vasérc és szén kezelésére szakosodott.",
@@ -513,7 +511,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
       hu: "Shenhua Shendong szénbánya",
       ro: "Mina de cărbune Shenhua Shendong",
       en: "Shenhua Shendong Coal Mine"},
-    image: "/poi-images/shenhua-shendong-coal-mine-economic-v2.webp",
     description: {
       de: "Eines der größten und technologisch fortschrittlichsten Kohlebergwerke der Welt in der Inneren Mongolei und der Provinz Shaanxi.",
       hu: "A világ egyik legnagyobb és technológiailag legfejlettebb szénbányája Belső-Mongóliában és Shaanxi tartományban.",
@@ -1563,7 +1560,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
       hu: "Három-szurdok gát",
       ro: "Barajul de la cele Trei Defileuri",
       en: "Three Gorges Dam"},
-    image: "/poi-images/three-gorges-dam-economic-v2.webp",
     description: {
       de: "Das größte Wasserkraftwerk der Welt, das eine entscheidende Rolle bei der Stromerzeugung und beim Hochwasserschutz in China spielt.",
       hu: "A világ legnagyobb vízerőműve, amely kulcsfontosságú szerepet játszik Kína áramtermelésében és árvízvédelmében.",
@@ -1764,7 +1760,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
       hu: "Yiwu Nemzetközi Kereskedelmi Város",
       ro: "Orașul Comercial Internațional Yiwu",
       en: "Yiwu International Trade City"},
-    image: "/poi-images/yiwu-international-trade-city-economic-v2.webp",
     description: {
       de: "Ein riesiger Großhandelsmarkt in Yiwu, der auf Kleinwaren und Exporthandel ausgerichtet ist. Er gilt als wichtiger Knotenpunkt für den internationalen Warenfluss in Ostchina.",
       hu: "Yiwu hatalmas kisárunagypiaca Csöcsiang tartományban. Több tízezer standdal és óriási árukínálattal a nemzetközi exportkereskedelem fontos központja.",
@@ -3750,7 +3745,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
       hu: "Datong Szénipar",
       ro: "Industria Cărbunelui Datong",
       en: "Datong Coal Industry"},
-    image: "/poi-images/datong-coal-industry-economic-v2.webp",
     description: {
       de: "Eines der größten Kohleunternehmen in China mit Sitz in Datong, Provinz Shanxi, bekannt für seinen hochwertigen Dampfkohleabbau.",
       hu: "Kína egyik legnagyobb szénipari vállalata, amely Datongban, Shanxi tartományban található, és kiváló minőségű energetikai szénbányászatáról ismert.",
@@ -3915,7 +3909,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
       hu: "Sinopec Zhenhai Finomító",
       ro: "Rafinăria Sinopec Zhenhai",
       en: "Sinopec Zhenhai Refinery"},
-    image: "/poi-images/sinopec-zhenhai-refinery-economic-v2.webp",
     description: {
       de: "Eine der größten und modernsten Ölraffinerien der Welt, betrieben von Sinopec, in Ningbo.",
       hu: "A világ egyik legnagyobb és legmodernebb olajfinomítója, amelyet a Sinopec üzemeltet Ningbóban.",
@@ -3963,7 +3956,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
       hu: "Gansu szélerőműpark",
       ro: "Parcul Eolian Gansu",
       en: "Gansu Wind Farm"},
-    image: "/poi-images/gansu-wind-farm-economic-v2.webp",
     description: {
       de: "Einer der größten Windparks der Welt in der Provinz Gansu, ein Meilenstein für Chinas Engagement für erneuerbare Energien.",
       hu: "A világ egyik legnagyobb szélerőműparkja Gansu tartományban, mérföldkő Kína megújuló energia iránti elkötelezettségében.",
@@ -4011,7 +4003,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
       hu: "Jingtang kikötő terület",
       ro: "Zona Portuară Jingtang",
       en: "Jingtang Port Area"},
-    image: "/poi-images/jingtang-port-area-economic-v2.webp",
     description: {
       de: "Ein Teil des Hafens von Tangshan, ein wichtiger Seehafen für den Transport von Kohle, Stahl und Eisenerz in Nordchina.",
       hu: "A Tangshan kikötő része, Észak-Kína egyik fontos tengeri kikötője a szén, acél és vasérc szállítására.",
@@ -4752,7 +4743,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
       hu: "Foxconn Shenzhen Kampusz",
       ro: "Campusul Foxconn Shenzhen",
       en: "Foxconn Shenzhen Campus"},
-    image: "/poi-images/foxconn-shenzhen-campus-economic-v2.webp",
     description: {
       de: "Ein riesiger Produktionskomplex, bekannt für die Montage von Elektronikprodukten für große globale Marken wie Apple. Oft als \\\"Foxconn City\\\" bezeichnet.",
       hu: "Hatalmas gyártókomplexum, amely olyan nagy globális márkák, mint az Apple elektronikai termékeinek összeszereléséről ismert. Gyakran \\\"Foxconn City\\\"-nek is nevezik.",
@@ -4800,7 +4790,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
       hu: "Bayan Obo bánya",
       ro: "Mina Bayan Obo",
       en: "Bayan Obo Mine"},
-    image: "/poi-images/bayan-obo-mine-economic-v2.webp",
     description: {
       de: "Die weltweit größte bekannte Lagerstätte für Seltene Erden in der Inneren Mongolei, die für die globale High-Tech-Industrie von entscheidender Bedeutung ist.",
       hu: "A világ legnagyobb ismert ritkaföldfém-lelőhelye Belső-Mongóliában, amely kulcsfontosságú a globális high-tech ipar számára.",
@@ -6081,7 +6070,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
       hu: "Huaqiangbei elektronikai piac",
       ro: "Piața de Electronice Huaqiangbei",
       en: "Huaqiangbei Electronics Market"},
-    image: "/poi-images/huaqiangbei-electronics-market-economic-v2.webp",
     description: {
       de: "Ein weltberühmter Elektronik-Großhandelsmarkt in Shenzhen, der alles von Komponenten bis hin zu fertigen Geräten verkauft.",
       hu: "Világhírű elektronikai nagybani piac Sencsenben, ahol az alkatrészektől a kész eszközökig mindent árulnak.",
@@ -6246,7 +6234,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
       hu: "Tiencsini kikötő",
       ro: "Portul Tianjin",
       en: "Port of Tianjin"},
-    image: "/poi-images/tianjin-port-economic-v2.webp",
     description: {
       de: "Der größte Hafen in Nordchina und das maritime Tor zu Peking. Ein wichtiger Umschlagplatz für Container und Massengüter.",
       hu: "Észak-Kína legnagyobb kikötője és Peking tengeri kapuja. Fontos átrakodási pont konténerek és ömlesztett áruk számára.",
@@ -7635,7 +7622,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
       hu: "Haier Ipari Park, Csingtao",
       ro: "Parcul Industrial Haier Qingdao",
       en: "Haier Industrial Park Qingdao"},
-    image: "/poi-images/qingdao-haier-industrial-park-economic-v2.webp",
     description: {
       de: "Ein riesiger Industriepark des Haushaltsgeräteherstellers Haier, der Forschung, Entwicklung und Produktion integriert.",
       hu: "A Haier háztartásigép-gyártó óriásvállalat hatalmas ipari parkja, amely integrálja a kutatást, fejlesztést és gyártást.",
@@ -7683,7 +7669,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
       hu: "Jinchuan Csoport bánya",
       ro: "Mina Grupului Jinchuan",
       en: "Jinchuan Group Mine"},
-    image: "/poi-images/jinchuan-group-mine-economic-v2.webp",
     description: {
       de: "Eine der größten Nickel-, Kupfer- und Kobaltminen der Welt in der Provinz Gansu. Ein wichtiger Lieferant für die Batterie- und Legierungsindustrie.",
       hu: "A világ egyik legnagyobb nikkel-, réz- és kobaltbányája Gansu tartományban. Fontos beszállító az akkumulátor- és ötvözetipar számára.",
@@ -7731,7 +7716,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
       hu: "Yangshan mélyvízi kikötő",
       ro: "Portul de Apă Adâncă Yangshan",
       en: "Yangshan Deep-Water Port"},
-    image: "/poi-images/yangshan-deep-water-port-economic-v2.webp",
     description: {
       de: "Der größte automatisierte Containerterminal der Welt, Teil des Hafens von Shanghai, auf Inseln vor der Küste gebaut.",
       hu: "A világ legnagyobb automatizált konténerterminálja, a sanghaji kikötő része, a parttól távol eső szigeteken épült.",
@@ -7860,7 +7844,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
       hu: "CATL Ningde gyár",
       ro: "Uzina CATL Ningde",
       en: "CATL Ningde Plant"},
-    image: "/poi-images/catl-ningde-plant-economic-v2.webp",
     description: {
       de: "Der Hauptsitz und eine wichtige Produktionsstätte von Contemporary Amperex Technology Co. Limited (CATL), dem weltweit größten Hersteller von Batterien für Elektrofahrzeuge.",
       hu: "A Contemporary Amperex Technology Co. Limited (CATL), a világ legnagyobb elektromosjármű-akkumulátor gyártójának központja és fontos termelési bázisa.",

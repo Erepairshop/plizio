@@ -57,7 +57,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Függetlenségi emlékmű",
       ro: "Monumentul Independenței",
       en: "Independence Monument"},
-    image: "/poi-images/unabhaengigkeitsmonument-bujumbura-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Unabhängigkeitsmonument in Bujumbura ist eines der bedeutendsten nationalen Symbole Burundis und erinnert an das Ende der belgischen Kolonialherrschaft am 1. Juli 1962. Das Denkmal befindet sich im Herzen der Stadt auf dem Place de l'Indépendance und ist ein zentraler Ort für nationale Feierlichkeiten und staatliche Zeremonien. Die Architektur des Denkmals ist durch klare Linien und symbolische Elemente geprägt, die Souveränität und Freiheit darstellen. Es steht in engem Zusammenhang mit dem Erbe von Prince Louis Rwagasore, dem Nationalhelden und Anführer des Unabhängigkeitskampfes, der kurz vor der Erreichung der Autonomie ermordet wurde. Jedes Jahr ist der Platz Schauplatz großer Paraden und Gedenkveranstaltungen, die die nationale Identität stärken sollen. Die Umgebung des Denkmals mit ihren gepflegten Gärten und breiten Boulevards macht es zu einem markanten Orientierungspunkt im Stadtbild von Bujumbura.",
       hu: "A Bujumburában található Függetlenségi emlékmű Burundi egyik legfontosabb nemzeti jelképe, amely a belga gyarmati uralom 1962. július 1-jei végének állít emléket. Az emlékmű a város szívében, a Place de l'Indépendance téren található, és a nemzeti ünnepségek, valamint állami ceremóniák központi helyszíne. Az emlékmű építészetét letisztult vonalak és a szuverenitást, valamint a szabadságot jelképező szimbolikus elemek jellemzik. Szorosan kapcsolódik Louis Rwagasore herceg örökségéhez, aki a nemzeti hős és a függetlenségi harc vezetője volt, és akit röviddel az autonómia elérése előtt gyilkoltak meg. A tér minden évben nagy parádék és megemlékezések helyszíne, amelyek a nemzeti identitást erősítik. Az emlékmű környezete a gondozott kertekkel és széles sugárutakkal a városkép meghatározó tájékozódási pontjává teszi Bujumburát.",
@@ -150,7 +149,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Nemzeti Egység emlékműve",
       ro: "Monumentul Unității Naționale",
       en: "National Unity Monument"},
-    image: "/poi-images/denkmal-der-einheit-bujumbura-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Denkmal der Nationalen Einheit (Monument de l'Unité) thront auf dem Vugizo-Hügel über Bujumbura und ist ein kraftvolles Symbol für die Aussöhnung zwischen den ethnischen Gruppen Burundis. Eingeweiht im Jahr 1991 unter der Regierung von Präsident Pierre Buyoya, markiert es die Annahme der Charta der Nationalen Einheit durch das burundische Volk. Das architektonische Design besteht aus einer großen Steinstele, die mit Inschriften versehen ist, welche Frieden, Gerechtigkeit und Brüderlichkeit feiern. Von diesem Standort aus bietet sich ein beeindruckender Panoramablick über die Hauptstadt und den Tanganjikasee, was das Denkmal zu einem beliebten Ziel für Besucher macht. Es dient nicht nur als historisches Monument, sondern auch als lebendiger Ort für Reflexion und Versöhnungsarbeit in der post-konfliktären Gesellschaft. Die Anlage ist von symbolischer Bedeutung für den mühsamen Prozess der Staatsbildung und des inneren Friedens nach Jahrzehnten der Unruhen.",
       hu: "A Nemzeti Egység emlékműve (Monument de l'Unité) a Vugizo-dombon, Bujumbura felett magasodik, és a burundi etnikai csoportok közötti megbékélés erőteljes szimbóluma. Az 1991-ben, Pierre Buyoya elnök kormánya idején felavatott emlékmű a Nemzeti Egység Chartájának a burundi nép általi elfogadását jelzi. Az építészeti terv egy nagyméretű kősztéléből áll, amelyet a békét, igazságosságot és testvériséget hirdető feliratok díszítenek. Erről a helyszínről lenyűgöző panoráma nyílik a fővárosra és a Tanganyika-tóra, ami az emlékművet a látogatók kedvelt célpontjává teszi. Nemcsak történelmi emlékműként szolgál, hanem a reflexió és a megbékélési munka élőhelyeként is a konfliktus utáni társadalomban. A létesítmény jelképes jelentőséggel bír az államépítés és a belső béke fáradságos folyamatában a több évtizedes zavargások után.",
@@ -198,7 +196,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Prince Louis Rwagasore Stadion",
       ro: "Stadionul Prince Louis Rwagasore",
       en: "Prince Louis Rwagasore Stadium"},
-    image: "/poi-images/prince-louis-rwagasore-stadion-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Prince Louis Rwagasore Stadion ist das bedeutendste Sportzentrum in Bujumbura und nach dem burundischen Nationalhelden und Unabhängigkeitskämpfer benannt. Mit einer Kapazität von etwa 22.000 Zuschauern dient es als Hauptspielstätte für die burundische Fußballnationalmannschaft, die Intamba m'Urugamba. Das Stadion wurde in der Nachunabhängigkeitszeit modernisiert und ist das Herzstück des burundischen Fußballs, in dem auch die wichtigsten Vereine des Landes wie Vital'O FC und Inter Star ihre Heimspiele austragen. Neben Fußballspielen finden hier auch große Leichtathletikwettbewerbe, politische Kundgebungen und nationale Feierlichkeiten statt. Die Atmosphäre bei Länderspielen gilt als besonders intensiv und spiegelt die große Leidenschaft der Burundier für den Fußball wider. Das Stadion ist nicht nur eine Sportstätte, sondern auch ein Ort nationalen Stolzes, der eng mit der Geschichte der Souveränität Burundis verknüpft ist.",
       hu: "A Prince Louis Rwagasore Stadion Bujumbura legjelentősebb sportközpontja, amely nevét a burundi nemzeti hősről és függetlenségi harcosról kapta. A körülbelül 22 000 néző befogadására alkalmas létesítmény a burundi labdarúgó-válogatott, az Intamba m'Urugamba elsődleges otthona. A stadiont a függetlenség utáni időszakban modernizálták, és a burundi futball szívévé vált, ahol az ország legfontosabb klubjai, mint a Vital'O FC és az Inter Star is játsszák hazai mérkőzéseiket. A labdarúgás mellett nagy atlétikai versenyeknek, politikai gyűléseknek és nemzeti ünnepségeknek is helyet ad. A válogatott mérkőzések hangulata különösen intenzív, és hűen tükrözi a burundiak labdarúgás iránti szenvedélyét. A stadion nem csupán sportlétesítmény, hanem a nemzeti büszkeség helyszíne is, amely szorosan összefonódik Burundi szuverenitásának történetével.",
@@ -246,7 +243,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Intwari Stadion",
       ro: "Stadionul Intwari",
       en: "Intwari Stadium"},
-    image: "/poi-images/intwari-stadion-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Intwari-Stadion, früher bekannt als Stade de la Révolution, ist eine vielseitige Sportstätte in Bujumbura, die eine wichtige Rolle im gesellschaftlichen und sportlichen Leben der Hauptstadt spielt. Es wurde ursprünglich erbaut, um Platz für etwa 10.000 Zuschauer zu bieten, und dient heute als Austragungsort für verschiedene Sportarten, darunter Fußball und Leichtathletik. Die Umbenennung in 'Intwari', was in Kirundi 'Helden' bedeutet, spiegelt die Bemühungen wider, nationale Symbole im Einklang mit der modernen Geschichte Burundis zu gestalten. Neben regionalen Fußballspielen wird das Stadion häufig für öffentliche Veranstaltungen, Konzerte und religiöse Versammlungen genutzt. Es befindet sich in verkehrsgünstiger Lage nahe dem Stadtzentrum und ist ein wichtiger Treffpunkt für die lokale Jugend. Obwohl es kleiner als das Rwagasore-Stadion ist, bleibt es ein unverzichtbarer Teil der sportlichen Infrastruktur und trägt zur Förderung des Breitensports im Land bei.",
       hu: "Az Intwari Stadion, korábbi nevén Stade de la Révolution, Bujumbura sokoldalú sportlétesítménye, amely fontos szerepet játszik a főváros társadalmi és sportéletében. Eredetileg körülbelül 10 000 néző befogadására épült, és ma különféle sportágak, köztük a labdarúgás és az atlétika helyszínéül szolgál. Az 'Intwari' elnevezés, amely kirundi nyelven 'hősöket' jelent, az ország azon törekvését tükrözi, hogy a nemzeti szimbólumokat Burundi modern történelmével összhangban alakítsák át. A regionális futballmérkőzések mellett a stadiont gyakran használják nyilvános rendezvényekre, koncertekre és vallási összejövetelekre is. Kedvező elhelyezkedése a városközpont közelében a helyi fiatalok fontos találkozóhelyévé teszi. Bár kisebb a Rwagasore Stadionnál, továbbra is a sportinfrastruktúra elengedhetetlen része, és jelentősen hozzájárul a tömegsport népszerűsítéséhez az országban.",
@@ -291,7 +287,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Nemzet palotája",
       ro: "Palatul Națiunii",
       en: "Palace of the Nation"},
-    image: "/poi-images/palast-der-nation-bujumbura-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Der Palast der Nation (Palais de la Nation) in Bujumbura ist ein zentrales Symbol der staatlichen Souveränität Burundis und dient als offizieller Amtssitz für hochrangige Regierungsfunktionen. Das Gebäude zeichnet sich durch seine repräsentative Architektur aus, die Elemente der klassischen Moderne mit lokalen Einflüssen verbindet. Es wurde in der Ära nach der Unabhängigkeit errichtet, um den administrativen Anforderungen des jungen Staates gerecht zu werden. Der Palast ist Schauplatz für den Empfang ausländischer Staatsgäste, die Akkreditierung von Diplomaten und wichtige Kabinettssitzungen. Die umliegenden Gärten und die strenge Bewachung unterstreichen den Status des Gebäudes als eines der sichersten und wichtigsten Machtzentren des Landes. Im Laufe der Jahrzehnte war der Palast Zeuge zahlreicher historischer Momente, von friedlichen Machtwechseln bis hin zu entscheidenden politischen Verhandlungen, die die Zukunft Burundis prägten.",
       hu: "A bujumburai Nemzet Palotája (Palais de la Nation) Burundi állami szuverenitásának központi szimbóluma, amely magas szintű kormányzati funkciók hivatalos székhelyeként szolgál. Az épületet reprezentatív építészete jellemzi, amely a klasszikus modernizmus elemeit ötvözi a helyi hatásokkal. A függetlenség utáni korszakban épült, hogy megfeleljen az ifjú állam adminisztratív igényeinek. A palota külföldi állami vendégek fogadásának, diplomaták akkreditációjának és fontos kabinetüléseknek a helyszíne. A körülvevő kertek és a szigorú őrizet hangsúlyozzák az épület státuszát, mint az ország egyik legbiztonságosabb és legfontosabb hatalmi központját. Az évtizedek során a palota számos történelmi pillanat tanúja volt, a békés hatalomváltásoktól kezdve a Burundi jövőjét meghatározó sorsdöntő politikai tárgyalásokig.",
@@ -339,7 +334,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Bujumburai központi piac",
       ro: "Piața Centrală din Bujumbura",
       en: "Central Market of Bujumbura"},
-    image: "/poi-images/zentralmarkt-bujumbura-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Der Zentralmarkt von Bujumbura (Marché Central) war über Jahrzehnte das wirtschaftliche Herz der Hauptstadt und einer der größten Handelsplätze in Zentralafrika. Das markante kreisförmige Gebäude mit seinem charakteristischen Metalldach beherbergte Tausende von Händlern, die alles von Lebensmitteln bis zu Textilien anboten. Im Januar 2013 wurde der Markt durch einen verheerenden Großbrand fast vollständig zerstört, was eine tiefe wirtschaftliche Krise für viele Familien und den lokalen Handel auslöste. Vor dem Brand war der Markt nicht nur ein Ort des Austauschs, sondern auch ein soziales Zentrum, das Menschen aller ethnischen Gruppen und Schichten zusammenbrachte. Die Ruinen des Marktes stehen heute als mahnendes Symbol für die Verletzlichkeit der städtischen Infrastruktur. Bemühungen zum Wiederaufbau oder zur Umgestaltung des Geländes sind seit Jahren Thema politischer Debatten, während die Händler auf provisorische Märkte in der ganzen Stadt ausgewichen sind.",
       hu: "A bujumburai Központi Piac (Marché Central) évtizedeken át a főváros gazdasági szíve és Közép-Afrika egyik legnagyobb kereskedelmi központja volt. A jellegzetes fémcsarnokos, kör alakú épület több ezer kereskedőnek adott otthont, akik az élelmiszerektől a textíliákig mindent kínáltak. 2013 januárjában a piacot egy pusztító tűzvész szinte teljesen megsemmisítette, ami mély gazdasági válságot idézett elő számos család és a helyi kereskedelem számára. A tűz előtt a piac nemcsak a cserekereskedelem helyszíne volt, hanem társadalmi központ is, amely minden etnikai csoportot és társadalmi réteget összefogott. A piac romjai ma a városi infrastruktúra sebezhetőségének emlékeztetőiként állnak. Az újjáépítésre vagy a terület átalakítására irányuló törekvések évek óta politikai viták tárgyát képezik, miközben a kereskedők a város különböző pontjain kialakított ideiglenes piacokra kényszerültek.",
@@ -384,7 +378,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Melchior Ndadaye repülőtér",
       ro: "Aeroportul Melchior Ndadaye",
       en: "Melchior Ndadaye International Airport"},
-    image: "/poi-images/melchior-ndadaye-flughafen-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Der internationale Flughafen Melchior Ndadaye ist das wichtigste Luftverkehrsdrehkreuz Burundis und liegt etwa sechs Kilometer nordwestlich des Stadtzentrums von Bujumbura. Die Anlage wurde ursprünglich im Jahr 1952 während der belgischen Treuhandverwaltung eröffnet und hieß über Jahrzehnte hinweg schlicht Internationaler Flughafen Bujumbura. Im Juli 2019 erfolgte die offizielle Umbenennung zu Ehren von Melchior Ndadaye, dem ersten demokratisch gewählten Präsidenten des Landes, der 1993 einem Attentat zum Opfer fiel. Der Flughafen befindet sich auf einer strategisch günstigen Höhe von 787 Metern über dem Meeresspiegel, unmittelbar am nordöstlichen Ufer des Tanganjikasees. Er verfügt über eine einzige asphaltierte Start- und Landebahn mit einer Gesamtlänge von 3.600 Metern, was den Betrieb großer Verkehrsflugzeuge wie der Boeing 787 oder des Airbus A330 ermöglicht. Als lebenswichtige Schnittstelle für den Personen- und Frachtverkehr verbindet er den Binnenstaat Burundi mit regionalen Metropolen wie Nairobi, Addis Abeba und Entebbe sowie mit internationalen Zielen in Europa.",
       hu: "A Melchior Ndadaye nemzetközi repülőtér Burundi legfontosabb légiközlekedési csomópontja, amely Bujumbura városközpontjától mintegy hat kilométerre északnyugatra fekszik. A létesítményt eredetileg 1952-ben nyitották meg a belga gyámsági igazgatás idején, és évtizedekig egyszerűen Bujumbura nemzetközi repülőtérként ismerték. 2019 júliusában nevezték át hivatalosan Melchior Ndadaye, az ország első demokratikusan megválasztott elnökének tiszteletére, aki 1993-ban merénylet áldozata lett. A repülőtér stratégiailag kedvező helyen, 787 méteres tengerszint feletti magasságban, közvetlenül a Tanganyika-tó északkeleti partján található. Egyetlen aszfaltozott futópályával rendelkezik, amelynek hossza 3600 méter, ami lehetővé teszi a legnagyobb interkontinentális utasszállító repülőgépek fogadását is. Mint az ország egyetlen nemzetközi kapuja, létfontosságú szerepet tölt be az export és import lebonyolításában, összekötve a tengerparttal nem rendelkező Burundit olyan regionális központokkal, mint Nairobi, Addisz-Abeba és Entebbe.",
@@ -474,7 +467,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Bujumburai kikötő",
       ro: "Portul Bujumbura",
       en: "Port of Bujumbura"},
-    image: "/poi-images/hafen-von-bujumbura-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Der Hafen von Bujumbura ist der größte und wichtigste Binnenhafen Burundis und liegt am nördlichen Ende des Tanganjikasees. Seit seiner Errichtung in den 1950er Jahren dient er als zentrales logistisches Drehkreuz für den Außenhandel des Landes, da Burundi über keinen direkten Zugang zum Meer verfügt. Der Hafen ermöglicht den Transport von Gütern über den See zu den Häfen von Kigoma in Tansania, Mpulungu in Sambia und Kalemie in der Demokratischen Republik Kongo. Diese Wasserstraße ist Teil des zentralen Korridors, der Burundi mit dem Indischen Ozean über das Schienennetz Tansanias verbindet. Die Hafenanlagen umfassen mehrere Kais, Lagerhäuser und spezialisierte Terminals für Container sowie Erdölerzeugnisse. In den letzten Jahren wurden umfangreiche Modernisierungsprojekte gestartet, um die Kapazität des Hafens zu erhöhen und die Effizienz beim Umschlag von Kaffee, Tee und Bergbauprodukten zu verbessern. Aufgrund seiner geografischen Lage bleibt der Hafen ein unverzichtbarer Wirtschaftsfaktor für die Versorgung der Hauptstadt und des gesamten Hinterlandes.",
       hu: "Bujumbura kikötője Burundi legnagyobb és legfontosabb belvízi kikötője, amely a Tanganyika-tó északi végén található. Az 1950-es években történt kiépítése óta az ország külkereskedelmének központi logisztikai csomópontjaként szolgál, mivel Burundi nem rendelkezik közvetlen tengerparttal. A kikötő lehetővé teszi az áruk szállítását a tavon keresztül a tanzániai Kigoma, a zambiai Mpulungu és a Kongói Demokratikus Köztársaságbeli Kalemie kikötői felé. Ez a vízi út része annak a központi folyosónak, amely Burundit az Indiai-óceánnal köti össze a tanzániai vasúthálózaton keresztül. A kikötői létesítmények több rakpartot, raktárakat, valamint konténer- és kőolajtermék-terminálokat foglalnak magukban. Az elmúlt években jelentős modernizációs projektek indultak a kikötő kapacitásának növelésére és a kávé, tea, valamint bányászati termékek rakodási hatékonyságának javítására. Földrajzi fekvése miatt a kikötő nélkülözhetetlen gazdasági tényező a főváros és az egész ország ellátása szempontjából.",
@@ -522,7 +514,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Bujumburai világítótorony",
       ro: "Farul din Bujumbura",
       en: "Bujumbura Lighthouse"},
-    image: "/poi-images/leuchtturm-bujumbura-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Der Leuchtturm von Bujumbura ist ein markantes maritimes Denkmal am Ufer des Tanganjikasees, unweit des Hafens und des Cercle Nautique. Er dient als wichtiges Navigationszeichen für die Schifffahrt auf dem zweittiefsten See der Welt, der für seine plötzlichen Stürme und starken Wellengang bekannt ist. Die Architektur des Turms ist funktional und zugleich ästhetisch ansprechend, wobei er oft als Wahrzeichen für die maritime Identität der Stadt Bujumbura wahrgenommen wird. Der Standort bietet einen weiten Panoramablick über das schimmernde Wasser des Sees bis hin zu den Bergen der Demokratischen Republik Kongo am gegenüberliegenden Ufer. Historisch gesehen ist der Leuchtturm eng mit der Entwicklung des Hafens und der Erschließung der Handelswege auf dem Tanganjikasee im 20. Jahrhundert verknüpft. In den Abendstunden ist das Leuchtfeuer ein vertrauter Anblick für die Fischer und Transportkapitäne, die den Hafen ansteuern. Für Touristen und Einheimische stellt der Bereich um den Leuchtturm einen beliebten Ort für Spaziergänge dar, besonders während der spektakulären Sonnenuntergänge über dem See.",
       hu: "Bujumbura világítótornya egy jellegzetes tengerészeti emlékmű a Tanganyika-tó partján, nem messze a kikötőtől és a Cercle Nautique klubtól. Fontos navigációs jelzésként szolgál a világ második legmélyebb taván zajló hajózás számára, amely hirtelen viharairól és erős hullámzásáról ismert. A torony építészete egyszerre funkcionális és esztétikus, és gyakran Bujumbura város tengerészeti identitásának jelképeként tekintenek rá. A helyszín széles panorámát kínál a tó csillogó vizére, egészen a túlparton fekvő Kongói Demokratikus Köztársaság hegyeiig. Történelmileg a világítótorony szorosan kapcsolódik a kikötő fejlesztéséhez és a Tanganyika-tavon zajló kereskedelmi útvonalak 20. századi kiépítéséhez. Az esti órákban a jelzőfény ismerős látvány a kikötőbe érkező halászok és szállítóhajók kapitányai számára. A turisták és a helyiek számára a világítótorony környéke népszerű sétahelyszín, különösen a tó feletti látványos naplementék idején.",
@@ -567,7 +558,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Szent Teréz-székesegyház",
       ro: "Catedrala Sfânta Tereza",
       en: "St. Theresa Cathedral"},
-    image: "/poi-images/st-theresa-kathedrale-gitega-landmarks-v2.webp",
     description: {
       de: "Die imposante Hauptkathedrale von Gitega, ein bedeutendes religiöses Wahrzeichen in der neuen Hauptstadt.",
       hu: "Gitega impozáns főszékesegyháza, jelentős vallási jelkép az új fővárosban.",
@@ -615,7 +605,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Fátimai Szűzanya-székesegyház",
       ro: "Catedrala Maica Domnului din Fatima",
       en: "Our Lady of Fatima Cathedral"},
-    image: "/poi-images/fatima-kathedrale-muyinga-landmarks-v2.webp",
     description: {
       de: "Ein markantes Kirchengebäude in Muyinga, das für seine moderne Architektur und religiöse Bedeutung bekannt ist.",
       hu: "Jellegzetes templomépület Muyingában, amely modern építészetéről és vallási jelentőségéről ismert.",
@@ -663,7 +652,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Bujumburai nagymecset",
       ro: "Marea Moschee din Bujumbura",
       en: "Grand Mosque of Bujumbura"},
-    image: "/poi-images/grosse-moschee-bujumbura-landmarks-v2.webp",
     description: {
       de: "Das wichtigste islamische Gotteshaus in der Stadt, erkennbar an seinen markanten Minaretten.",
       hu: "A város legfontosabb iszlám imaháza, amely jellegzetes minaretjeiről ismerhető fel.",
@@ -711,7 +699,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Mutanga Campus",
       ro: "Campusul Mutanga",
       en: "Campus Mutanga"},
-    image: "/poi-images/campus-mutanga-landmarks-v2.webp",
     description: {
       de: "Der Hauptcampus der Universität von Burundi, ein Zentrum für Bildung und Kultur in Bujumbura.",
       hu: "A Burundi Egyetem fő campusa, az oktatás és kultúra központja Bujumburában.",
@@ -759,7 +746,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Bujumburai városháza",
       ro: "Primăria din Bujumbura",
       en: "Bujumbura City Hall"},
-    image: "/poi-images/rathaus-bujumbura-landmarks-v2.webp",
     description: {
       de: "Das Rathaus von Bujumbura ist das Verwaltungszentrum der Stadt. Das Gebäude steht für die kommunale Organisation der Hauptstadt.",
       hu: "Bujumbura város közigazgatási központja, funkcionális épület az üzleti negyed szívében.",
@@ -807,7 +793,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Prince Regent Charles Kórház",
       ro: "Spitalul Prince Régent Charles",
       en: "Hospital Prince Regent Charles"},
-    image: "/poi-images/krankenhaus-prince-regent-charles-landmarks-v2.webp",
     description: {
       de: "Eines der ältesten und bedeutendsten Krankenhäuser des Landes mit historischer Bausubstanz.",
       hu: "Az ország egyik legrégebbi és legjelentősebb kórháza, történelmi épületekkel.",
@@ -855,7 +840,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Bujumburai postapalota",
       ro: "Clădirea Poștei din Bujumbura",
       en: "Bujumbura Post Office Building"},
-    image: "/poi-images/postgebaeude-bujumbura-landmarks-v2.webp",
     description: {
       de: "Ein markantes öffentliches Gebäude im Zentrum, das den Sitz der nationalen Post beherbergt.",
       hu: "Jellegzetes középület a központban, amely a nemzeti posta székhelyének ad otthont.",
@@ -903,7 +887,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Ngozi-székesegyház",
       ro: "Catedrala din Ngozi",
       en: "Ngozi Cathedral"},
-    image: "/poi-images/kathedrale-ngozi-landmarks-v2.webp",
     description: {
       de: "Ein bedeutendes religiöses Wahrzeichen in Ngozi, der zweitgrößten Stadt des Landes.",
       hu: "Jelentős vallási jelkép Ngoziban, az ország második legnagyobb városában.",
@@ -951,7 +934,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Bururi székesegyház",
       ro: "Catedrala din Bururi",
       en: "Bururi Cathedral"},
-    image: "/poi-images/kathedrale-bururi-landmarks-v2.webp",
     description: {
       de: "Die Kathedrale von Bururi ist ein religiöses Wahrzeichen der Stadt. Sie prägt das Ortsbild und ist ein Bezugspunkt für die lokale Gemeinde.",
       hu: "Dél-Burundi egyik legfontosabb keresztény temploma, amely Bururi városának képét meghatározza.",
@@ -999,7 +981,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Rumongei központi mecset",
       ro: "Moscheea Centrală din Rumonge",
       en: "Central Mosque of Rumonge"},
-    image: "/poi-images/zentralmoschee-rumonge-landmarks-v2.webp",
     description: {
       de: "Ein markantes religiöses Gebäude in Rumonge, das die starke Präsenz der muslimischen Gemeinde am Seeufer zeigt.",
       hu: "Jellegzetes vallási épület Rumonge városában, amely a muszlim közösség erős jelenlétét mutatja a tóparton.",
@@ -1095,7 +1076,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Egyetértés hídja",
       ro: "Podul Concórdiei",
       en: "Concord Bridge"},
-    image: "/poi-images/bruecke-der-freundschaft-ruzizi-landmarks-v2.webp",
     description: {
       de: "Eine strategische Brücke über den Ruzizi-Fluss, die Burundi mit der Demokratischen Republik Kongo verbindet.",
       hu: "Stratégiai híd a Ruzizi-folyón, amely összeköti Burundit a Kongói Demokratikus Köztársasággal.",
@@ -1188,7 +1168,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Rwagasore-emlékmű Gitega",
       ro: "Monumentul Rwagasore din Gitega",
       en: "Rwagasore Monument Gitega"},
-    image: "/poi-images/rwagasore-monument-gitega-landmarks-v2.webp",
     description: {
       de: "Ein Denkmal zu Ehren von Prinz Louis Rwagasore in der politischen Hauptstadt Gitega.",
       hu: "Louis Rwagasore herceg tiszteletére emelt emlékmű Gitegában, a politikai fővárosban.",
@@ -1236,7 +1215,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Ruyigi székesegyház",
       ro: "Catedrala din Ruyigi",
       en: "Ruyigi Cathedral"},
-    image: "/poi-images/kathedrale-ruyigi-landmarks-v2.webp",
     description: {
       de: "Ein markantes religiöses Gebäude im Osten Burundis, das das Stadtbild von Ruyigi prägt.",
       hu: "Jellegzetes vallási épület Burundi keleti részén, amely meghatározza Ruyigi városképét.",
@@ -1284,7 +1262,6 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
       hu: "Bubanza székesegyház",
       ro: "Catedrala din Bubanza",
       en: "Bubanza Cathedral"},
-    image: "/poi-images/kathedrale-bubanza-landmarks-v2.webp",
     description: {
       de: "Das religiöse Zentrum von Bubanza, ein bedeutender Orientierungspunkt in der nordwestlichen Provinz.",
       hu: "Bubanza vallási központja, jelentős tájékozódási pont az északnyugati tartományban.",

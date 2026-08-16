@@ -1317,7 +1317,6 @@ export const poiExtraMalaysiaReliefV2: POI[] = [
       hu: "Jerai-hegy",
       ro: "Muntele Jerai",
       en: "Mount Jerai"},
-    image: "/poi-images/jerai-mountain-kedah-relief-v2.webp",
     description: {
       de: "Ein isolierter Berg in Kedah, der sich dramatisch von den umliegenden Reisfeldern erhebt und historisch als Navigationspunkt für Seefahrer diente.",
       hu: "Egy elszigetelt hegy Kedahban, amely drámaian emelkedik ki a környező rizsföldek közül, és történelmileg navigációs pontként szolgált a tengerészek számára.",
@@ -2058,7 +2057,6 @@ export const poiExtraMalaysiaReliefV2: POI[] = [
       hu: "Santubong-hegy",
       ro: "Muntele Santubong",
       en: "Mount Santubong"},
-    image: "/poi-images/santubong-mountain-sarawak-relief-v2.webp",
     description: {
       de: "Ein markanter Berg auf einer Halbinsel in der Nähe von Kuching, umgeben von Legenden einer himmlischen Prinzessin.",
       hu: "Egy jellegzetes hegy egy félszigeten Kuching közelében, amelyet egy égi hercegnő legendái öveznek.",
@@ -2187,7 +2185,6 @@ export const poiExtraMalaysiaReliefV2: POI[] = [
       hu: "Harau-völgy",
       ro: "Valea Harau",
       en: "Harau Valley"},
-    image: "/poi-images/harau-valley-pahang-relief-v2.webp",
     description: {
       de: "Ein malerisches Tal, das von steilen Klippen und üppigem Grün umgeben ist und oft mit Yosemite verglichen wird.",
       hu: "Festői völgy, amelyet meredek sziklák és buja zöld növényzet vesz körül, gyakran hasonlítják a Yosemite-völgyhöz.",
@@ -3432,7 +3429,6 @@ export const poiExtraMalaysiaReliefV2: POI[] = [
       hu: "Kapas-sziget partvidéke",
       ro: "Coasta Insulei Kapas",
       en: "Kapas Island Coast"},
-    image: "/poi-images/kapas-island-coast-relief-v2.webp",
     description: {
       de: "Die Küste einer kleinen Insel vor Terengganu, berühmt für ihre weißen Sandstrände und das kristallklare Wasser.",
       hu: "Egy kis sziget partvidéke Terengganu partjainál, híres fehér homokos strandjairól és kristálytiszta vizéről.",
@@ -4209,7 +4205,6 @@ export const poiExtraMalaysiaReliefV2: POI[] = [
       hu: "Fraser's Hill",
       ro: "Dealul Fraser",
       en: "Fraser's Hill"},
-    image: "/poi-images/fraser-hill-plateau-relief-v2.webp",
     description: {
       de: "Ein ruhiges Hochlandresort in den Titiwangsa-Bergen, das für sein kühles Klima und seine erhaltene Kolonialarchitektur bekannt ist.",
       hu: "Egy csendes hegyvidéki üdülőhely a Titiwangsa-hegységben, amely hűvös éghajlatáról és megőrzött gyarmati építészetéről ismert.",
@@ -4302,7 +4297,6 @@ export const poiExtraMalaysiaReliefV2: POI[] = [
       hu: "Murud-hegy",
       ro: "Muntele Murud",
       en: "Mount Murud"},
-    image: "/poi-images/murud-mountain-sarawak-relief-v2.webp",
     description: {
       de: "Der höchste Berg in Sarawak, gelegen im Kelabit-Hochland. Ein heiliger Berg für das Lun Bawang Volk.",
       hu: "Sarawak legmagasabb hegye, a Kelabit-felföldön található. A Lun Bawang nép szent hegye.",
@@ -4755,7 +4749,6 @@ export const poiExtraMalaysiaReliefV2: POI[] = [
       hu: "Teluk Cempedak partvidéke",
       ro: "Coasta Teluk Cempedak",
       en: "Teluk Cempedak Coast"},
-    image: "/poi-images/teluk-cempedak-coast-relief-v2.webp",
     description: {
       de: "Ein beliebter Strand in Kuantan, Pahang, bekannt für seine malerische Küste und die Promenade entlang der Felsen.",
       hu: "Népszerű strand Kuantanban, Pahangban, amely festői partjáról és a sziklák mentén húzódó sétányáról ismert.",
@@ -5208,7 +5201,6 @@ export const poiExtraMalaysiaReliefV2: POI[] = [
       hu: "Tambunan-völgy",
       ro: "Valea Tambunan",
       en: "Tambunan Valley"},
-    image: "/poi-images/tambunan-valley-sabah-relief-v2.webp",
     description: {
       de: "Ein fruchtbares Tal, das von der Crocker Range umgeben ist und als eines der schönsten Täler in Sabah gilt.",
       hu: "A Crocker-hegység által körülvett termékeny völgy, amelyet Sabah egyik legszebb völgyének tartanak.",
@@ -6201,7 +6193,6 @@ export const poiExtraMalaysiaReliefV2: POI[] = [
       hu: "Berembun-hegy",
       ro: "Muntele Berembun",
       en: "Mount Berembun"},
-    image: "/poi-images/berembun-mountain-pahang-relief-v2.webp",
     description: {
       de: "Ein Berg in den Cameron Highlands, bekannt für seine moosigen Wälder und die Überreste eines Flugzeugwracks aus dem Zweiten Weltkrieg.",
       hu: "Hegy a Cameron-felföldön, amely mohás erdőiről és egy második világháborús repülőgéproncs maradványairól ismert.",
@@ -6294,7 +6285,6 @@ export const poiExtraMalaysiaReliefV2: POI[] = [
       hu: "Kenong Rimba Park",
       ro: "Parcul Kenong Rimba",
       en: "Kenong Rimba Park"},
-    image: "/poi-images/kenong-rimba-park-coast-relief-v2.webp",
     description: {
       de: "Ein von Kalksteinhügeln und Höhlen durchzogenes Flusstal, das ein atemberaubendes Naturerlebnis bietet.",
       hu: "Mészkődombokkal és barlangokkal tarkított folyóvölgy, amely lélegzetelállító természeti élményt nyújt.",
@@ -7545,7 +7535,6 @@ export const poiExtraMalaysiaReliefV2: POI[] = [
       hu: "Cherating partvidéke",
       ro: "Coasta Cherating",
       en: "Cherating Coast"},
-    image: "/poi-images/cherating-coast-pahang-relief-v2.webp",
     description: {
       de: "Ein bekannter Strandort an der Ostküste Malaysias, berühmt für seine entspannte Atmosphäre und als Surfspot während der Monsunzeit.",
       hu: "Ismert tengerparti üdülőhely Malajzia keleti partján, amely nyugodt légköréről és a monszun idején szörfözési lehetőségeiről híres.",
@@ -9243,7 +9232,6 @@ export const poiExtraMalaysiaReliefV2: POI[] = [
       hu: "Korbu-hegy",
       ro: "Muntele Korbu",
       en: "Mount Korbu"},
-    image: "/poi-images/korbu-mountain-perak-relief-v2.webp",
     description: {
       de: "Der höchste Berg im Titiwangsa-Gebirge und der zweithöchste auf der malaiischen Halbinsel.",
       hu: "A Titiwangsa-hegység legmagasabb hegye és a Maláj-félsziget második legmagasabbja.",
@@ -9291,7 +9279,6 @@ export const poiExtraMalaysiaReliefV2: POI[] = [
       hu: "Sahabat Áttelepítési Fennsík",
       ro: "Platoul de Relocare Sahabat",
       en: "Sahabat Resettlement Plateau"},
-    image: "/poi-images/rancangan-penempatan-semula-sahabat-plateau-relief-v2.webp",
     description: {
       de: "Ein großes Landentwicklungsgebiet, das von FELDA verwaltet wird und sich auf den Anbau von Ölpalmen konzentriert.",
       hu: "A FELDA által kezelt nagy földfejlesztési terület, amely a pálmaolaj-termesztésre összpontosít.",
@@ -9816,7 +9803,6 @@ export const poiExtraMalaysiaReliefV2: POI[] = [
       hu: "Papar partvidéke",
       ro: "Coasta Papar",
       en: "Papar Coast"},
-    image: "/poi-images/papar-sabah-coast-relief-v2.webp",
     description: {
       de: "Eine Küstenregion in Sabah, bekannt für ihre langen Sandstrände und Sonnenuntergänge über dem Südchinesischen Meer.",
       hu: "Tengerparti régió Sabahban, amely hosszú homokos strandjairól és a Dél-kínai-tenger feletti naplementéiről ismert.",
@@ -11241,7 +11227,6 @@ export const poiExtraMalaysiaReliefV2: POI[] = [
       hu: "Seri Menanti-völgy",
       ro: "Valea Seri Menanti",
       en: "Seri Menanti Valley"},
-    image: "/poi-images/seri-menanti-valley-negeri-sembilan-relief-v2.webp",
     description: {
       de: "Das königliche Tal von Negeri Sembilan, Heimat des Istana Lama Seri Menanti, einem beeindruckenden Holzpalast.",
       hu: "Negeri Sembilan királyi völgye, otthona az Istana Lama Seri Menantinak, egy lenyűgöző fapalotának.",

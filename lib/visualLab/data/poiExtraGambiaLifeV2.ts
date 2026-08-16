@@ -12,7 +12,6 @@ export const poiExtraGambiaLifeV2: POI[] = [
       hu: "Makasutu Kulturális Erdő",
       ro: "Pădurea Culturală Makasutu",
       en: "Makasutu Cultural Forest"},
-    image: "/poi-images/makasutu-cultural-forest-life-v2.webp",
     description: {
       de: "Ein privates Öko-Reservat, das verschiedene Ökosysteme vereint und eine reiche Flora sowie Fauna, einschließlich vieler Paviane, beherbergt.",
       hu: "Magán öko-rezervátum, amely különféle ökoszisztémákat egyesít, és gazdag növény- és állatvilágnak, köztük számos paviánnak ad otthont.",
@@ -62,7 +61,6 @@ export const poiExtraGambiaLifeV2: POI[] = [
       hu: "Bakaui Botanikus Kert",
       ro: "Grădina Botanică Bakau",
       en: "Bakau Botanical Garden"},
-    image: "/poi-images/bakau-botanical-garden-life-v2.webp",
     description: {
       de: "Ein friedlicher Garten in der Nähe der Küste, der eine Sammlung tropischer Pflanzen und Bäume sowie viele Vogelarten beherbergt.",
       hu: "Békés kert a tengerpart közelében, amely trópusi növények és fák gyűjteményének, valamint számos madárfajnak ad otthont.",
@@ -337,7 +335,6 @@ export const poiExtraGambiaLifeV2: POI[] = [
       hu: "Kartongi hüllőfarm",
       ro: "Ferma de reptile Kartong",
       en: "Kartong Reptile Farm"},
-    image: "/poi-images/kartong-reptile-farm-life-v2.webp",
     description: {
       de: "Ein Bildungszentrum, das sich auf den Schutz und die Erforschung einheimischer Schlangen und Reptilien spezialisiert hat.",
       hu: "Oktatóközpont, amely a helyi kígyók és hüllők védelmére és kutatására szakosodott.",
@@ -387,7 +384,6 @@ export const poiExtraGambiaLifeV2: POI[] = [
       hu: "Brikamai fafaragó piac",
       ro: "Piața de sculptură în lemn Brikama",
       en: "Brikama Woodcarving Market"},
-    image: "/poi-images/brikama-woodcarving-market-life-v2.webp",
     description: {
       de: "Ein lebendiger Markt, auf dem Handwerker kunstvolle Masken, Statuen und Trommeln aus lokalem Holz schnitzen.",
       hu: "Élénk piac, ahol a kézművesek díszes maszkokat, szobrokat és dobokat faragnak helyi fából.",
@@ -435,7 +431,6 @@ export const poiExtraGambiaLifeV2: POI[] = [
       hu: "Tanji halászpart",
       ro: "Plaja de pescuit Tanji",
       en: "Tanji Fishing Beach"},
-    image: "/poi-images/tanji-fishing-village-life-v2.webp",
     description: {
       de: "Ein geschäftiges Zentrum der traditionellen Fischerei, wo hunderte bunte Pirogen täglich ihren Fang anlanden.",
       hu: "A hagyományos halászat nyüzsgő központja, ahol naponta több száz színes pirog rakodik ki.",
@@ -528,7 +523,6 @@ export const poiExtraGambiaLifeV2: POI[] = [
       hu: "Serekunda központi piac",
       ro: "Piața Centrală Serekunda",
       en: "Serekunda Central Market"},
-    image: "/poi-images/serekunda-central-market-life-v2.webp",
     description: {
       de: "Der größte und am stärksten besuchte Markt des Landes, ein Labyrinth aus Farben, Gerüchen und lokalem Handel.",
       hu: "Az ország legnagyobb és leglátogatottabb piaca, a színek, illatok és a helyi kereskedelem labirintusa.",
@@ -621,7 +615,6 @@ export const poiExtraGambiaLifeV2: POI[] = [
       hu: "Lamin Lodge és mangrovék",
       ro: "Lamin Lodge și mangrovele",
       en: "Lamin Lodge & Mangroves"},
-    image: "/poi-images/lamin-lodge-mangroves-life-v2.webp",
     description: {
       de: "Ein auf Stelzen erbautes Restaurant und Ausflugsziel, das tief in die Mangrovensümpfe des Tanbi-Feuchtgebiets führt.",
       hu: "Cölöpökre épült étterem és kirándulóhely, amely mélyen a Tanbi-mocsárvidék mangroveerdőibe vezet.",
@@ -669,7 +662,6 @@ export const poiExtraGambiaLifeV2: POI[] = [
       hu: "Gunjuri tengeriteknős-védelem",
       ro: "Conservarea țestoaselor marine Gunjur",
       en: "Gunjur Turtle Conservation"},
-    image: "/poi-images/gunjur-turtle-conservation-life-v2.webp",
     description: {
       de: "Ein gemeinschaftsbasiertes Projekt zum Schutz bedrohter Meeresschildkröten, die an den Stränden von Gunjur nisten.",
       hu: "Közösségi projekt a Gunjur strandjain fészkelő veszélyeztetett tengeri teknősök védelmére.",
@@ -858,7 +850,6 @@ export const poiExtraGambiaLifeV2: POI[] = [
       hu: "Sapu rizskutató állomás",
       ro: "Stația de cercetare a orezului Sapu",
       en: "Sapu Rice Research Station"},
-    image: "/poi-images/sapu-rice-station-life-v2.webp",
     description: {
       de: "Ein bedeutendes landwirtschaftliches Forschungszentrum, das sich auf die Verbesserung des Reisanbaus im Gambia-Flusstal konzentriert.",
       hu: "Jelentős mezőgazdasági kutatóközpont, amely a rizstermesztés javítására összpontosít a Gambia-folyó völgyében.",
@@ -906,7 +897,6 @@ export const poiExtraGambiaLifeV2: POI[] = [
       hu: "Kuntauri rizsmalom",
       ro: "Moara de orez Kuntaur",
       en: "Kuntaur Rice Mill"},
-    image: "/poi-images/kuntaur-rice-mill-life-v2.webp",
     description: {
       de: "Eine der größten Reismühlen des Landes, die für die Verarbeitung der Ernten aus den umliegenden Flussauen zentral ist.",
       hu: "Az ország egyik legnagyobb rizsmalma, amely központi szerepet játszik a környező árterek termésének feldolgozásában.",
@@ -954,7 +944,6 @@ export const poiExtraGambiaLifeV2: POI[] = [
       hu: "Bassei földimogyoró-rakodó",
       ro: "Stația de încărcare a arahidelor Basse",
       en: "Basse Groundnut Loading Bay"},
-    image: "/poi-images/basse-groundnut-bay-life-v2.webp",
     description: {
       de: "Ein wichtiger Flusshafen, an dem Erdnüsse auf Schiffe verladen werden, um flussabwärts transportiert zu werden.",
       hu: "Fontos folyami kikötő, ahol a földimogyorót hajókra rakják, hogy a folyón lefelé szállítsák.",
@@ -1083,7 +1072,6 @@ export const poiExtraGambiaLifeV2: POI[] = [
       hu: "Tanji falumúzeum",
       ro: "Muzeul satului Tanji",
       en: "Tanji Village Museum"},
-    image: "/poi-images/tanji-village-museum-life-v2.webp",
     description: {
       de: "Ein Freilichtmuseum, das die traditionelle gambische Lebensweise, Architektur und Handwerkskunst anschaulich darstellt.",
       hu: "Szabadtéri múzeum, amely szemléletesen mutatja be a hagyományos gambiai életmódot, építészetet és kézművességet.",
@@ -1131,7 +1119,6 @@ export const poiExtraGambiaLifeV2: POI[] = [
       hu: "Marakissa madártábor",
       ro: "Tabăra de păsări Marakissa",
       en: "Marakissa River Camp"},
-    image: "/poi-images/marakissa-river-camp-life-v2.webp",
     description: {
       de: "Ein Naturcamp am Ufer des Flusses, das für seine außergewöhnliche Vielfalt an Vögeln und seine ruhige Lage bekannt ist.",
       hu: "Természetvédelmi tábor a folyó partján, amely kivételes madárvilágáról és nyugodt elhelyezkedéséről ismert.",
@@ -1179,7 +1166,6 @@ export const poiExtraGambiaLifeV2: POI[] = [
       hu: "Pirangi garnélafarm",
       ro: "Ferma de creveți Pirang",
       en: "Pirang Shrimp Farm"},
-    image: "/poi-images/pirang-shrimp-farm-life-v2.webp",
     description: {
       de: "Eine der größten Aquakulturanlagen Gambias, die sich auf die nachhaltige Zucht von Garnelen spezialisiert hat.",
       hu: "Gambia egyik legnagyobb akvakultúra-létesítménye, amely a garnélarák fenntartható tenyésztésére szakosodott.",

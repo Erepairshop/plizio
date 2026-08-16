@@ -13,7 +13,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Hattyú-szigetek",
       ro: "Insulele Lebedei",
       en: "Swan Islands"},
-    image: "/poi-images/islas-del-cisne-nature-v2.webp",
     description: {
       de: "Eine abgelegene Inselgruppe in der Karibik, die für ihre unberührte Natur bekannt ist.",
       hu: "Egy távoli szigetcsoport a Karib-tengeren, érintetlen természetéről ismert.",
@@ -60,7 +59,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Chamelecón-folyó",
       ro: "Râul Chamelecón",
       en: "Chamelecón River"},
-    image: "/poi-images/rio-chamelecon-nature-v2.webp",
     description: {
       de: "Ein bedeutender Fluss im Nordwesten von Honduras, der durch das Sula-Tal fließt.",
       hu: "Jelentős folyó Honduras északnyugati részén, amely a Sula-völgyön folyik keresztül.",
@@ -107,7 +105,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Pico Cristal",
       ro: "Vârful Cristal",
       en: "Pico Cristal"},
-    image: "/poi-images/cerro-pico-cristal-nature-v2.webp",
     description: {
       de: "Ein markanter Gipfel in der Montaña de Celaque, der eine anspruchsvolle Wanderung bietet.",
       hu: "A Montaña de Celaque egyik jellegzetes csúcsa, amely kihívást jelentő túrát kínál.",
@@ -154,7 +151,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Caratasca-lagúna",
       ro: "Laguna Caratasca",
       en: "Caratasca Lagoon"},
-    image: "/poi-images/laguna-de-caratasca-nature-v2.webp",
     description: {
       de: "Eine riesige Küstenlagune in der Region La Mosquitia, die ein wichtiges Feuchtgebiet darstellt.",
       hu: "Hatalmas part menti lagúna La Mosquitia régióban, amely fontos vizes élőhely.",
@@ -201,7 +197,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Montaña de Comayagua Nemzeti Park",
       ro: "Parcul Național Montaña de Comayagua",
       en: "Montaña de Comayagua National Park"},
-    image: "/poi-images/montana-de-comayagua-np-nature-v2.webp",
     description: {
       de: "Ein Nationalpark, der einen großen Nebelwald schützt und als wichtige Wasserquelle dient.",
       hu: "Egy nemzeti park, amely egy nagy kiterjedésű köderdőt véd, és fontos vízforrásként szolgál.",
@@ -248,7 +243,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Karib-tenger (Honduras partvidéke)",
       ro: "Marea Caraibilor (Coasta Hondurasului)",
       en: "Caribbean Sea (Honduras Coast)"},
-    image: "/poi-images/karibisches-meer-honduras-nature-v2.webp",
     description: {
       de: "Die ausgedehnte Nordküste von Honduras, geprägt von Sandstränden, Lagunen und Korallenriffen.",
       hu: "Honduras kiterjedt északi partvidéke, amelyet homokos strandok, lagúnák és korallzátonyok jellemeznek.",
@@ -295,7 +289,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Ulúa-folyó",
       ro: "Râul Ulúa",
       en: "Ulúa River"},
-    image: "/poi-images/rio-ulua-nature-v2.webp",
     description: {
       de: "Einer der größten und wirtschaftlich wichtigsten Flüsse des Landes.",
       hu: "Az ország egyik legnagyobb és gazdaságilag legfontosabb folyója.",
@@ -342,7 +335,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Pico Pijol",
       ro: "Vârful Pijol",
       en: "Pico Pijol"},
-    image: "/poi-images/pico-pijol-nature-v2.webp",
     description: {
       de: "Der höchste Gipfel im Nationalpark Pico Pijol, bekannt für seinen unberührten Nebelwald.",
       hu: "A Pico Pijol Nemzeti Park legmagasabb csúcsa, érintetlen köderdőjéről ismert.",
@@ -389,7 +381,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Los Micos lagúna",
       ro: "Laguna Los Micos",
       en: "Los Micos Lagoon"},
-    image: "/poi-images/laguna-de-los-micos-nature-v2.webp",
     description: {
       de: "Eine Küstenlagune in der Nähe von Tela, die ein reiches Ökosystem für Wildtiere bietet.",
       hu: "Part menti lagúna Tela közelében, gazdag ökoszisztémát kínál a vadon élő állatok számára.",
@@ -436,7 +427,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Barbareta-sziget",
       ro: "Insula Barbareta",
       en: "Barbareta Island"},
-    image: "/poi-images/isla-barbareta-nature-v2.webp",
     description: {
       de: "Eine private Insel östlich von Roatán, die als Naturschutzgebiet erhalten wird.",
       hu: "Roatántól keletre fekvő magánsziget, amelyet természetvédelmi területként tartanak fenn.",
@@ -483,7 +473,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Tawahka Asangni Bioszféra-rezervátum",
       ro: "Rezervația Biosferei Tawahka Asangni",
       en: "Tawahka Asangni Biosphere Reserve"},
-    image: "/poi-images/tawahka-asagni-reservat-nature-v2.webp",
     description: {
       de: "Ein Schutzgebiet, das den traditionellen Lebensraum des indigenen Volkes der Tawahka umfasst.",
       hu: "Egy védett terület, amely a tawahka őslakos nép hagyományos élőhelyét foglalja magában.",
@@ -530,7 +519,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Fonseca-öböl",
       ro: "Golful Fonseca",
       en: "Gulf of Fonseca"},
-    image: "/poi-images/golf-von-fonseca-natur-v2.webp",
     description: {
       de: "Ein strategisch wichtiger Golf am Pazifik, den sich Honduras mit El Salvador und Nicaragua teilt.",
       hu: "Stratégiailag fontos öböl a Csendes-óceánon, amelyen Honduras El Salvadorral és Nicaraguával osztozik.",
@@ -577,7 +565,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Negro-folyó",
       ro: "Râul Negro",
       en: "Negro River"},
-    image: "/poi-images/rio-negro-nature-v2.webp",
     description: {
       de: "Ein Fluss im Süden von Honduras, der in den Golf von Fonseca mündet.",
       hu: "Honduras déli részén található folyó, amely a Fonseca-öbölbe ömlik.",
@@ -624,7 +611,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Montaña Verde",
       ro: "Muntele Verde",
       en: "Montaña Verde"},
-    image: "/poi-images/montana-verde-nature-v2.webp",
     description: {
       de: "Ein Berg mit reicher Vegetation und Nebelwald in der Nähe des Yojoa-Sees.",
       hu: "Gazdag növényzetű, köderdős hegy a Yojoa-tó közelében.",
@@ -671,7 +657,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Alvarado-lagúna",
       ro: "Laguna Alvarado",
       en: "Alvarado Lagoon"},
-    image: "/poi-images/laguna-de-alvarado-nature-v2.webp",
     description: {
       de: "Eine Küstenlagune, die die Stadt Puerto Cortés umgibt und mit der Karibik verbunden ist.",
       hu: "Part menti lagúna, amely Puerto Cortés városát veszi körül, és összeköttetésben áll a Karib-tengerrel.",
@@ -718,7 +703,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Zacate Grande-sziget",
       ro: "Insula Zacate Grande",
       en: "Zacate Grande Island"},
-    image: "/poi-images/isla-zacate-grande-nature-v2.webp",
     description: {
       de: "Eine große, vulkanische Insel im Golf von Fonseca, die durch eine Brücke mit dem Festland verbunden ist.",
       hu: "Nagy, vulkanikus sziget a Fonseca-öbölben, amelyet híd köt össze a szárazfölddel.",
@@ -765,7 +749,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "La Muralla Nemzeti Park",
       ro: "Parcul Național La Muralla",
       en: "La Muralla National Park"},
-    image: "/poi-images/la-muralla-nationalpark-nature-v2.webp",
     description: {
       de: "Ein Schutzgebiet im Departement Olancho, bekannt für seine Nebelwälder und reiche Tierwelt.",
       hu: "Védett terület Olancho megyében, köderdőiről és gazdag állatvilágáról ismert.",
@@ -812,7 +795,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Goascorán-folyó",
       ro: "Râul Goascorán",
       en: "Goascorán River"},
-    image: "/poi-images/rio-goascoran-nature-v2.webp",
     description: {
       de: "Ein Fluss, der einen großen Teil der Grenze zwischen Honduras und El Salvador bildet.",
       hu: "Egy folyó, amely a Honduras és El Salvador közötti határ nagy részét képezi.",
@@ -859,7 +841,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Cerro El Pital",
       ro: "Vârful El Pital",
       en: "Cerro El Pital"},
-    image: "/poi-images/cerro-el-pital-nature-v2.webp",
     description: {
       de: "Ein Berg an der Grenze zu El Salvador, dessen Gipfel der höchste Punkt in El Salvador ist.",
       hu: "Hegy az El Salvador-i határon, amelynek csúcsa El Salvador legmagasabb pontja.",
@@ -906,7 +887,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "El Tigre-sziget",
       ro: "Insula El Tigre",
       en: "El Tigre Island"},
-    image: "/poi-images/isla-el-tigre-nature-v2.webp",
     description: {
       de: "Eine kleine, konische Vulkaninsel im Golf von Fonseca, auf der sich der Hafen von Amapala befindet.",
       hu: "Kis, kúp alakú vulkanikus sziget a Fonseca-öbölben, amelyen Amapala kikötője található.",
@@ -953,7 +933,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Aguacatal Erdőrezervátum",
       ro: "Rezervația forestieră Aguacatal",
       en: "Aguacatal Forest Reserve"},
-    image: "/poi-images/aguacatal-waldreservat-nature-v2.webp",
     description: {
       de: "Ein Schutzgebiet mit tropischem Trockenwald in der Nähe der nicaraguanischen Grenze.",
       hu: "Védett terület trópusi száraz erdővel a nicaraguai határ közelében.",
@@ -1000,7 +979,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Sico Tinto folyó",
       ro: "Râul Sico Tinto",
       en: "Sico Tinto River"},
-    image: "/poi-images/rio-sico-tinto-nature-v2.webp",
     description: {
       de: "Ein Fluss in La Mosquitia, der durch dichten Regenwald fließt und in die Karibik mündet.",
       hu: "Folyó La Mosquitia régióban, amely sűrű esőerdőn halad át, és a Karib-tengerbe ömlik.",
@@ -1047,7 +1025,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Montaña de La Sierra",
       ro: "Muntele La Sierra",
       en: "Montaña de La Sierra"},
-    image: "/poi-images/montana-de-la-sierra-nature-v2.webp",
     description: {
       de: "Ein Bergmassiv im Departement Yoro, das Teil der größeren Sierra de Sulaco ist.",
       hu: "Hegymasszívum Yoro megyében, amely a nagyobb Sierra de Sulaco része.",
@@ -1094,7 +1071,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Öböl-szigetek zátonyrendszere",
       ro: "Sistemul de recife al Insulelor Golfului",
       en: "Bay Islands Reef System"},
-    image: "/poi-images/islas-de-la-bahia-riff-nature-v2.webp",
     description: {
       de: "Das Korallenriff, das die Inseln Roatán, Utila und Guanaja umgibt und Teil des Mesoamerikanischen Riffs ist.",
       hu: "A korallzátony, amely Roatán, Utila és Guanaja szigeteket veszi körül, és a Mezoamerikai Korallzátony része.",
@@ -1141,7 +1117,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Jeannette Kawas Nemzeti Park (Punta Sal)",
       ro: "Parcul Național Jeannette Kawas (Punta Sal)",
       en: "Jeannette Kawas National Park (Punta Sal)"},
-    image: "/poi-images/punta-sal-nationalpark-nature-v2.webp",
     description: {
       de: "Ein Küstennationalpark mit Stränden, Dschungel, Mangroven und einer reichen Tierwelt.",
       hu: "Part menti nemzeti park strandokkal, dzsungellel, mangrovéval és gazdag állatvilággal.",
@@ -1188,7 +1163,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Lempa-folyó felső szakasza",
       ro: "Cursul superior al râului Lempa",
       en: "Upper Lempa River"},
-    image: "/poi-images/rio-lempa-oberlauf-nature-v2.webp",
     description: {
       de: "Der Ursprung des längsten Flusses Zentralamerikas, der in den Bergen von Honduras entspringt.",
       hu: "Közép-Amerika leghosszabb folyójának eredete, amely Honduras hegyeiben fakad.",
@@ -1235,7 +1209,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Cerro El Carbón",
       ro: "Vârful El Carbón",
       en: "Cerro El Carbón"},
-    image: "/poi-images/el-carbon-berg-nature-v2.webp",
     description: {
       de: "Ein Berg im Biosphärenreservat Río Plátano, der für seine reiche und oft unberührte Natur bekannt ist.",
       hu: "Hegy a Río Plátano Bioszféra-rezervátumban, amely gazdag és gyakran érintetlen természetéről ismert.",
@@ -1282,7 +1255,6 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: "Cuchilla-lagúna",
       ro: "Laguna Cuchilla",
       en: "Cuchilla Lagoon"},
-    image: "/poi-images/laguna-cuchilla-nature-v2.webp",
     description: {
       de: "Eine Süßwasserlagune, die Teil des Cuero y Salado Wildschutzgebiets ist.",
       hu: "Édesvízi lagúna, amely a Cuero y Salado Vadvédelmi Terület része.",

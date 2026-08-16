@@ -1353,7 +1353,6 @@ export const poiExtraSouthkoreaNatureV2: POI[] = [
       hu: "Pukhanszan Nemzeti Park",
       ro: "Parcul Național Bukhansan",
       en: "Bukhansan National Park"},
-    image: "/poi-images/bukhansan-national-park-nature-v2.webp",
     description: {
       de: "Ein Nationalpark in der Metropolregion Seoul, der für seine Granitgipfel und die atemberaubende Aussicht auf die Stadt bekannt ist.",
       hu: "A szöuli nagyvárosi területen található nemzeti park, amely gránitcsúcsairól és a városra nyíló lélegzetelállító kilátásáról ismert.",
@@ -2094,7 +2093,6 @@ export const poiExtraSouthkoreaNatureV2: POI[] = [
       hu: "Hallasan Nemzeti Park",
       ro: "Parcul Național Hallasan",
       en: "Hallasan National Park"},
-    image: "/poi-images/hallasan-national-park-nature-v2.webp",
     description: {
       de: "Zentriert um den Hallasan, einen Schildvulkan und den höchsten Berg Südkoreas. Der Park auf der Insel Jeju ist ein UNESCO-Weltnaturerbe.",
       hu: "A Hallasan, egy pajzsvulkán és Dél-Korea legmagasabb hegye köré központosul. A Csedzsu-szigeten található park az UNESCO Világörökség része.",
@@ -2871,7 +2869,6 @@ export const poiExtraSouthkoreaNatureV2: POI[] = [
       hu: "Ciriszan Nemzeti Park",
       ro: "Parcul Național Jirisan",
       en: "Jirisan National Park"},
-    image: "/poi-images/jirisan-national-park-nature-v2.webp",
     description: {
       de: "Der größte und älteste Nationalpark in Südkorea, der sich über drei Provinzen erstreckt. Er ist bekannt für seine riesigen Landschaften und seine reiche Artenvielfalt.",
       hu: "Dél-Korea legnagyobb és legrégebbi nemzeti parkja, amely három tartományon átível. Hatalmas tájairól és gazdag biodiverzitásáról ismert.",
@@ -3468,7 +3465,6 @@ export const poiExtraSouthkoreaNatureV2: POI[] = [
       hu: "Thecshong-tó",
       ro: "Lacul Daecheong",
       en: "Daecheong Lake"},
-    image: "/poi-images/daecheong-lake-nature-v2.webp",
     description: {
       de: "Ein großer künstlicher See an der Grenze zwischen Daejeon und Chungcheongbuk-do, der als wichtige Wasserquelle für die Region dient.",
       hu: "Nagy mesterséges tó Daejeon és Chungcheongbuk-do határán, amely fontos vízforrás a régió számára.",
@@ -3561,7 +3557,6 @@ export const poiExtraSouthkoreaNatureV2: POI[] = [
       hu: "Thebek-hegység",
       ro: "Munții Taebaek",
       en: "Taebaek Mountains"},
-    image: "/poi-images/taebaek-mountains-nature-v2.webp",
     description: {
       de: "Die Hauptgebirgskette auf der koreanischen Halbinsel, die sich entlang der gesamten Ostküste erstreckt und oft als 'Rückgrat Koreas' bezeichnet wird.",
       hu: "A Koreai-félsziget fő hegyvonulata, amely végighúzódik a teljes keleti parton, és gyakran 'Korea gerincének' is nevezik.",
@@ -3906,7 +3901,6 @@ export const poiExtraSouthkoreaNatureV2: POI[] = [
       hu: "Han folyó",
       ro: "Râul Han",
       en: "Han River"},
-    image: "/poi-images/han-river-nature-v2.webp",
     description: {
       de: "Ein bedeutender Fluss in Südkorea, der durch das Herz von Seoul fließt und eine zentrale Rolle in der koreanischen Geschichte und im modernen Leben spielt.",
       hu: "Jelentős folyó Dél-Koreában, amely Szöul szívén folyik keresztül, és központi szerepet játszik a koreai történelemben és a modern életben.",
@@ -4179,7 +4173,6 @@ export const poiExtraSouthkoreaNatureV2: POI[] = [
       hu: "Nakdong folyó",
       ro: "Râul Nakdong",
       en: "Nakdong River"},
-    image: "/poi-images/nakdong-river-nature-v2.webp",
     description: {
       de: "Der längste Fluss in Südkorea, der durch die zentralen und südlichen Regionen des Landes fließt und in die Koreastraße mündet.",
       hu: "Dél-Korea leghosszabb folyója, amely az ország középső és déli vidékein folyik át, és a Koreai-szorosba ömlik.",
@@ -4380,7 +4373,6 @@ export const poiExtraSouthkoreaNatureV2: POI[] = [
       hu: "Nami-sziget",
       ro: "Insula Nami",
       en: "Nami Island"},
-    image: "/poi-images/nami-island-nature-v2.webp",
     description: {
       de: "Eine halbmondförmige Insel im Nord-Han-Fluss, die für ihre romantischen, von Bäumen gesäumten Wege berühmt ist, insbesondere nach dem Drama 'Winter Sonata'.",
       hu: "Félhold alakú sziget az Északi-Han folyóban, amely romantikus, fákkal szegélyezett útjairól híres, különösen a 'Téli szonáta' című dráma után.",
@@ -5358,7 +5350,6 @@ export const poiExtraSouthkoreaNatureV2: POI[] = [
       hu: "Szongniszan hegy",
       ro: "Muntele Songnisan",
       en: "Songnisan Mountain"},
-    image: "/poi-images/sogni-mountain-nature-v2.webp",
     description: {
       de: "Ein Berg im Songnisan-Nationalpark, dessen Name 'Berg, der die weltliche Welt verlässt' bedeutet. Bekannt für den Beopjusa-Tempel.",
       hu: "A Songnisan Nemzeti Parkban található hegy, amelynek neve 'a világi világból kilépő hegy'. A Beopjusa templomról ismert.",
@@ -6876,7 +6867,6 @@ export const poiExtraSouthkoreaNatureV2: POI[] = [
       hu: "Uldzsin Geopark",
       ro: "Geoparcul Uljin",
       en: "Uljin Geopark"},
-    image: "/poi-images/ujin-geopark-nature-v2.webp",
     description: {
       de: "Ein Geopark an der Ostküste, der geologische Stätten wie die Seongryu-Höhle, eine massive Kalksteinhöhle, präsentiert.",
       hu: "Egy geopark a keleti parton, amely geológiai helyszíneket mutat be, mint például a Seongryu-barlangot, egy hatalmas mészkőbarlangot.",
@@ -7365,7 +7355,6 @@ export const poiExtraSouthkoreaNatureV2: POI[] = [
       hu: "Nedzsangszan Nemzeti Park",
       ro: "Parcul Național Naejangsan",
       en: "Naejangsan National Park"},
-    image: "/poi-images/naejangsan-national-park-nature-v2.webp",
     description: {
       de: "Berühmt als einer der besten Orte in Korea, um das Herbstlaub zu sehen. Der Name bedeutet 'viele Geheimnisse im Berg'.",
       hu: "Korea egyik legjobb helyeként híres az őszi lombkorona megtekintésére. A neve azt jelenti, hogy 'sok titok a hegyben'.",
@@ -7818,7 +7807,6 @@ export const poiExtraSouthkoreaNatureV2: POI[] = [
       hu: "Kurjong-völgy",
       ro: "Valea Guryong",
       en: "Guryong Valley"},
-    image: "/poi-images/guryong-valley-nature-v2.webp",
     description: {
       de: "Ein malerisches Tal am Fuße des Jirisan-Berges, das für seine neun Wasserfälle und Teiche bekannt ist, die als 'Guryongpokpo' bekannt sind.",
       hu: "Festői völgy a Jirisan-hegy lábánál, amely kilenc vízeséséről és taváról ismert, amelyeket 'Guryongpokpo'-nak neveznek.",
@@ -7983,7 +7971,6 @@ export const poiExtraSouthkoreaNatureV2: POI[] = [
       hu: "Anmjon-sziget",
       ro: "Insula Anmyeon",
       en: "Anmyeon Island"},
-    image: "/poi-images/anmyeon-island-nature-v2.webp",
     description: {
       de: "Die sechstgrößte Insel Koreas, die durch eine Brücke mit dem Festland verbunden ist. Sie ist bekannt für ihre Kiefernwälder und Strände.",
       hu: "Korea hatodik legnagyobb szigete, amelyet híd köt össze a szárazfölddel. Fenyőerdeiről és strandjairól ismert.",
@@ -8313,7 +8300,6 @@ export const poiExtraSouthkoreaNatureV2: POI[] = [
       hu: "Szomdzsin folyó",
       ro: "Râul Seomjin",
       en: "Seomjin River"},
-    image: "/poi-images/seomjin-river-nature-v2.webp",
     description: {
       de: "Einer der saubersten großen Flüsse Südkoreas, der durch die Provinzen Jeolla und Gyeongsang fließt. Bekannt für seine malerische Schönheit.",
       hu: "Dél-Korea egyik legtisztább nagy folyója, amely Jeolla és Gyeongsang tartományokon folyik keresztül. Festői szépségéről ismert.",
@@ -8442,7 +8428,6 @@ export const poiExtraSouthkoreaNatureV2: POI[] = [
       hu: "Csuvangszan Nemzeti Park",
       ro: "Parcul Național Juwangsan",
       en: "Juwangsan National Park"},
-    image: "/poi-images/juwangsan-national-park-nature-v2.webp",
     description: {
       de: "Ein Nationalpark, der für seine einzigartigen Felsgipfel, tiefen Täler und Wasserfälle bekannt ist. Die Landschaft wurde durch vulkanische Aktivität geformt.",
       hu: "Nemzeti park, amely egyedi szikla-csúcsairól, mély völgyeiről és vízeséseiről ismert. A tájat vulkáni tevékenység alakította.",

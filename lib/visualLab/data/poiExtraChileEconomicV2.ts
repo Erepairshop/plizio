@@ -2573,7 +2573,6 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Coronel kikötő",
       ro: "Portul Coronel",
       en: "Port of Coronel"},
-    image: "/poi-images/puerto-coronel-economic-v2.webp",
     descriptionAdvanced: {
       de: "Der Hafen von Coronel ist der größte Hafenterminal in der Region Biobío und gilt als einer der bedeutendsten Exporthäfen für Forstprodukte in ganz Chile. Er liegt etwa 30 Kilometer südlich der Großstadt Concepción und blickt auf eine lange Tradition zurück, die ursprünglich fest in der Kohleförderung des 19. Jahrhunderts verwurzelt war. Nach dem Ende der Kohleära wandelte sich der Standort zu einem hochmodernen Mehrzweckterminal, der heute primär Zellstoff, Holzprodukte und landwirtschaftliche Erzeugnisse umschlägt. Die Anlage umfasst drei große Piers und spezialisierte Lagerbereiche für Container sowie moderne Kühlhäuser für den Export von hochwertigem Obst und Fisch. Dank seiner tiefen Gewässer können im Hafen von Coronel große Schiffe der Post-Panamax-Klasse sicher anlegen, was die Effizienz im internationalen Handel steigert. Die strategische Lage am Pazifik ermöglicht einen direkten und kostengünstigen Zugang zu den Wachstumsmärkten in Asien und Nordamerika. Zudem ist der Hafen ein unverzichtbarer Arbeitgeber für die lokale Gemeinde und fördert die industrielle Diversifizierung der gesamten Region.",
       hu: "Coronel kikötője a Biobío régió legnagyobb és legmodernebb terminálja, amely Chile erdészeti termékexportjának egyik legfontosabb központja. A Concepción városától mintegy 30 kilométerre délre található kikötő gazdag múltra tekint vissza, amely eredetileg az ország szénbányászati korszakához kapcsolódott. A szénbányák bezárása után a létesítmény egy sokoldalú, magánkézben lévő terminállá alakult, amely ma főként cellulózt, faárut és mezőgazdasági termékeket kezel. A kikötő három fő mólóval, speciális konténertárolókkal és kiterjedt hűtőházi kapacitással rendelkezik a gyümölcs- és tenger gyümölcsei exportjának támogatására. Mélyvízi adottságai lehetővé teszik a legnagyobb Post-Panamax típusú teherhajók kiszolgálását is, ami versenyelőnyt jelent a globális kereskedelemben. Stratégiai elhelyezkedése a Csendes-óceán partján közvetlen kapcsolatot biztosít az ázsiai és észak-amerikai piacokhoz. A kikötő nemcsak gazdasági motor, hanem a helyi közösség legnagyobb foglalkoztatója és a regionális fejlődés záloga.",
@@ -3720,7 +3719,6 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Lirquén kikötő",
       ro: "Portul Lirquén",
       en: "Port of Lirquén"},
-    image: "/poi-images/puerto-lirquen-economic-v2.webp",
     descriptionAdvanced: {
       de: "Der Hafen von Lirquén ist ein bedeutender privater Seehafen in der Bucht von Concepción, der vor allem für seine Spezialisierung auf den Umschlag von Forst- und Agrarprodukten bekannt ist. Gegründet in den 1950er Jahren für den Transport von Kohle, hat sich der Hafen zu einem der effizientesten Terminals Chiles für den Export von Zellstoff und Schnittholz entwickelt. Die geografische Lage innerhalb der geschützten Bucht bietet hervorragende natürliche Bedingungen für den Schiffsbetrieb, da sie weitgehend vor starken Meeresströmungen und Wellengang bewahrt bleibt. Der Hafen verfügt über moderne Verladeanlagen, die speziell auf den Umschlag von Papier, Zellulose und sogar großvolumigen Komponenten für Windkraftanlagen ausgerichtet sind. Ein besonderes Merkmal von Lirquén ist die hohe Kompetenz im Bereich Stückgut und schwere Lasten, was ihn zu einem flexiblen Partner für die Industrie macht. Die Anbindung an das nationale Schienennetz ermöglicht einen schnellen und umweltfreundlichen Abtransport der Waren ins Hinterland. Der Hafen ist ein entscheidender Faktor für die wirtschaftliche Entwicklung der Gemeinde Penco und der gesamten Region.",
       hu: "Lirquén kikötője egy jelentős magánkikötő a Concepción-öböl partján, amely Chile erdészeti és mezőgazdasági exportjának egyik meghatározó szereplője. Az 1950-es években alapították eredetileg a szénszállítás kiszolgálására, de azóta az ország egyik leghatékonyabb cellulóz- és faáru-termináljává nőtte ki magát. Földrajzi elhelyezkedése a védett öbölben kiváló természetes feltételeket biztosít a hajózási műveletekhez, mivel a mólók védve vannak a nyílt óceán erős áramlataitól. A kikötő modern daruival és rakodóberendezéseivel képes papír, cellulóz, sőt óriási szélkerék-alkatrészek biztonságos mozgatására is. Különlegessége az általános rakományok és az egyedi nehézgépek kezelésében rejlik, ami megkülönbözteti a tömegáru-kikötőktől. A közvetlen vasúti és közúti kapcsolatok révén az áruk gyorsan eljutnak az ország belső területeire és ipari központjaiba. Lirquén alapvető fontosságú Penco község és a tágabb Biobío régió gazdasági jóléte szempontjából.",
@@ -3967,7 +3965,6 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "San Vicente kikötő",
       ro: "Portul San Vicente",
       en: "Port of San Vicente"},
-    image: "/poi-images/puerto-san-vicente-economic-v2.webp",
     descriptionAdvanced: {
       de: "Der Hafen von San Vicente in Talcahuano ist einer der bedeutendsten Industriehäfen Chiles und ein zentraler Knotenpunkt für die Schwerindustrie und den Bergbau im Süden des Landes. Er wurde in den 1960er Jahren gezielt errichtet, um den angrenzenden Industriekomplex, insbesondere das Stahlwerk Huachipato, logistisch zu unterstützen und Rohstoffe zu importieren. Der Hafen verfügt über spezialisierte Terminals für den Umschlag von Stahlprodukten, Erdöl, Chemikalien sowie land- und forstwirtschaftlichen Gütern. Nach dem verheerenden Erdbeben und Tsunami von 2010 wurde San Vicente umfassend modernisiert und mit fortschrittlichen, erdbebensicheren Kaianlagen ausgestattet, die dem neuesten Stand der Technik entsprechen. Geografisch liegt er in einer hervorragend geschützten Bucht nördlich der Halbinsel Tumbes, was ihn zu einem der sichersten und wetterbeständigsten Häfen der Region macht. Die Infrastruktur umfasst zudem moderne Containerterminals und Anlagen für den Export von gefrorenem Fisch und Meeresfrüchten. Dank der engen Verknüpfung mit dem nationalen Schienennetz können schwere Lasten effizient in das industrielle Hinterland transportiert werden.",
       hu: "San Vicente kikötője Talcahuano városában található, és Chile déli részének egyik legfontosabb nehézipari és bányászati logisztikai bázisa. A kikötőt az 1960-as években hozták létre azzal az elsődleges céllal, hogy kiszolgálja a környező ipari övezetet, különösen a Huachipato acélmű nyersanyagigényét. A létesítmény ma már rendkívül diverzifikált, speciális terminálokkal rendelkezik acéltermékek, kőolaj, vegyi áruk, valamint erdészeti termékek kivitelére. A 2010-es pusztító földrengés után a kikötőt szinte teljesen újjáépítették, és modern, földrengésbiztos mólókkal látták el, amelyek fokozzák a működési biztonságot. Földrajzilag a Tumbes-félszigettől északra fekvő, mély és védett öbölben helyezkedik el, így a régió egyik legmegbízhatóbb kikötőhelyének számít minden évszakban. Az infrastruktúra részét képezik a konténerterminálok és a fagyasztott haltermékek tárolására alkalmas hűtőházak is. San Vicente szoros integrációja az országos vasúthálózattal lehetővé teszi a nehéz ipari rakományok költséghatékony és gyors mozgatását.",
@@ -4862,7 +4859,6 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Ventanas kikötő",
       ro: "Portul Ventanas",
       en: "Port of Ventanas"},
-    image: "/poi-images/puerto-ventanas-economic-v2.webp",
     descriptionAdvanced: {
       de: "Der Hafen von Ventanas ist der bedeutendste Massenguthafen in Mittelchile und ein zentraler Bestandteil des Energie- und Industriekomplexes in der Bucht von Quintero. Er wurde 1966 in Betrieb genommen und hat sich auf den hochspezialisierten Umschlag von Rohstoffen wie Kohle, Kupferkonzentrat, Schwefelsäure und Getreide konzentriert. Die Anlage gilt als technologisch führend und verfügt über geschlossene Förderbandsysteme, die speziell entwickelt wurden, um Staubemissionen beim Entladen von Schüttgut zu minimieren und die Umweltbelastung zu reduzieren. Geografisch liegt der Hafen in der Region Valparaíso und bietet durch seine modernen Pieranlagen Platz für massive Schiffe mit einer Kapazität von bis zu 75.000 Tonnen (DWT). Der Hafen ist direkt mit dem chilenischen Stromnetz und mehreren benachbarten Kraftwerken verbunden, die für die nationale Energieversorgung von entscheidender Bedeutung sind. Trotz seiner großen wirtschaftlichen Bedeutung steht die Region aufgrund der hohen industriellen Konzentration vor ökologischen Herausforderungen. Ventanas bleibt jedoch einer der effizientesten Terminals des Landes für den Import von Brennstoffen und chemischen Produkten.",
       hu: "Ventanas kikötője Közép-Chile legfontosabb ömlesztettáru-kikötője, amely a Quintero-öbölben található ipari és energetikai komplexum központi eleme. 1966-ban kezdték meg működését, és azóta olyan kritikus nyersanyagok kezelésére szakosodott, mint a kőszén, a rézkoncentrátum, a kénsav és a gabonafélék. A létesítmény technológiailag kiemelkedő, zárt szállítószalag-rendszerekkel rendelkezik az ömlesztett áruk pormentes és hatékony rakodása érdekében, védve a környező ökoszisztémát. Földrajzilag Valparaíso régióban helyezkedik el, és mólói akár 75 000 tonnás teherbírású hajók fogadására is alkalmasak. A kikötő közvetlen összeköttetésben áll a nemzeti elektromos hálózattal és több hőerőművel, amelyek elengedhetetlenek az ország energiabiztonsága szempontjából. Gazdasági jelentősége mellett a térség komoly környezetvédelmi viták kereszttüzében áll a nagyfokú ipari koncentráció miatt. Ventanas továbbra is Chile egyik leghatékonyabb terminálja az üzemanyagok és speciális vegyi termékek importja terén, kiszolgálva a központi régió igényeit.",
@@ -5037,7 +5033,6 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Angamos kikötő",
       ro: "Portul Angamos",
       en: "Port of Angamos"},
-    image: "/poi-images/puerto-angamos-economic-v2.webp",
     description: {
       de: "Ein modernes Mehrzweck-Hafenterminal in Mejillones, das der Bergbauindustrie dient.",
       hu: "Modern többcélú kikötői terminál Mejillones városában, amely a bányászatot szolgálja ki.",
@@ -5822,7 +5817,6 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Guacolda kikötő",
       ro: "Portul Guacolda",
       en: "Port of Guacolda"},
-    image: "/poi-images/puerto-guacolda-economic-v2.webp",
     description: {
       de: "Ein spezialisierter Hafen in der Region Atacama, der hauptsächlich Kohle und Bergbaumaterialien umschlägt.",
       hu: "Speciális kikötő az Atacama régióban, amely főként szenet és bányászati anyagokat kezel.",
@@ -10198,7 +10192,6 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Chuquicamata bánya",
       ro: "Mina Chuquicamata",
       en: "Chuquicamata Mine"},
-    image: "/poi-images/mina-chuquicamata-economic-v2.webp",
     description: {
       de: "Eine der größten Kupferminen der Welt im Tagebau, betrieben von Codelco.",
       hu: "A világ egyik legnagyobb külszíni rézbányája, amelyet a Codelco üzemeltet.",
@@ -10302,7 +10295,6 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Escondida bánya",
       ro: "Mina Escondida",
       en: "Escondida Mine"},
-    image: "/poi-images/mina-escondida-economic-v2.webp",
     description: {
       de: "Die Kupfermine mit der höchsten Produktion der Welt, gelegen in der Atacama-Wüste.",
       hu: "A világ legnagyobb termelésű rézbányája, amely az Atacama-sivatagban található.",
@@ -10478,7 +10470,6 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "El Teniente bánya",
       ro: "Mina El Teniente",
       en: "El Teniente Mine"},
-    image: "/poi-images/mina-el-teniente-economic-v2.webp",
     description: {
       de: "Die größte unterirdische Kupfermine der Welt, gelegen in den Anden.",
       hu: "A világ legnagyobb földalatti rézbányája az Andok hegységben.",
@@ -10537,7 +10528,6 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Los Pelambres bánya",
       ro: "Mina Los Pelambres",
       en: "Los Pelambres Mine"},
-    image: "/poi-images/mina-los-pelambres-economic-v2.webp",
     description: {
       de: "Eine große Kupfermine in der Region Coquimbo, die für ihre massiven Reserven bekannt ist.",
       hu: "Jelentős rézbánya a Coquimbo régióban, amely hatalmas tartalékairól ismert.",
@@ -10596,7 +10586,6 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Collahuasi bánya",
       ro: "Mina Collahuasi",
       en: "Collahuasi Mine"},
-    image: "/poi-images/mina-collahuasi-economic-v2.webp",
     description: {
       de: "Eine große Kupfermine in großer Höhe in der Region Tarapacá.",
       hu: "Egy nagy magasságban fekvő jelentős rézbánya a Tarapacá régióban.",
@@ -10655,7 +10644,6 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Radomiro Tomic bánya",
       ro: "Mina Radomiro Tomic",
       en: "Radomiro Tomic Mine"},
-    image: "/poi-images/mina-radomiro-tomic-economic-v2.webp",
     description: {
       de: "Eine bedeutende Kupfermine im Tagebau in der Nähe von Chuquicamata.",
       hu: "Jelentős külszíni rézbánya Chuquicamata közelében.",
@@ -11947,7 +11935,6 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Aconcagua finomító",
       ro: "Rafinăria Aconcagua",
       en: "Aconcagua Refinery"},
-    image: "/poi-images/refineria-aconcagua-economic-v2.webp",
     description: {
       de: "Eine große Ölraffinerie von ENAP, die Kraftstoff für die Zentralregion Chiles liefert.",
       hu: "Az ENAP jelentős olajfinomítója, amely Chile középső régióját látja el üzemanyaggal.",
@@ -13203,7 +13190,6 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Bío Bío finomító",
       ro: "Rafinăria Bío Bío",
       en: "Bío Bío Refinery"},
-    image: "/poi-images/refineria-bio-bio-economic-v2.webp",
     description: {
       de: "Eine der wichtigsten Erdölraffinerien des Landes in Hualpén.",
       hu: "Az ország egyik legfontosabb kőolajfinomítója, amely Hualpén városában található.",
@@ -13760,7 +13746,6 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Altonorte komplexum",
       ro: "Complexul Altonorte",
       en: "Altonorte Complex"},
-    image: "/poi-images/complejo-altonorte-economic-v2.webp",
     description: {
       de: "Eine große Kupferschmelze in der Nähe von Antofagasta.",
       hu: "Egy jelentős rézkohó Antofagasta közelében.",
@@ -14440,7 +14425,6 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Paipote kohó",
       ro: "Topitoria Paipote",
       en: "Paipote Smelter"},
-    image: "/poi-images/fundicion-paipote-economic-v2.webp",
     description: {
       de: "Die Schmelzhütte Hernán Videla Lira verarbeitet Kupfererze kleiner und mittlerer Bergbaubetriebe.",
       hu: "A Hernán Videla Lira kohó, amely a kis- és közepes bányák rézérceit dolgozza fel.",
@@ -14499,7 +14483,6 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Salar de Atacama lítiumüzem",
       ro: "Uzina de litiu Salar de Atacama",
       en: "Salar de Atacama Lithium Plant"},
-    image: "/poi-images/planta-litio-salar-atacama-economic-v2.webp",
     description: {
       de: "Eine massive Anlage zur Lithiumgewinnung in der Atacama-Salzwüste.",
       hu: "Egy hatalmas lítium-kitermelő létesítmény az Atacama sós sivatagban.",
@@ -14855,7 +14838,6 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Laja cellulózgyár",
       ro: "Fabrica de celuloză Laja",
       en: "Laja Cellulose Plant"},
-    image: "/poi-images/celulosa-laja-economic-v2.webp",
     description: {
       de: "Die erste in Chile gegründete Zellstofffabrik, die sich in der Stadt Laja befindet.",
       hu: "Az elsőként alapított chilei papíripari gyár, amely Laja városában található.",
@@ -16075,7 +16057,6 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Quintero-Puchuncaví ipari komplexum",
       ro: "Complexul industrial Quintero-Puchuncaví",
       en: "Quintero-Puchuncaví Industrial Complex"},
-    image: "/poi-images/complejo-quintero-puchuncavi-economic-v2.webp",
     description: {
       de: "Eine stark industrialisierte Zone mit Energie- und Kupferschmelzanlagen.",
       hu: "Erősen iparosodott övezet, amely energia- és rézkohászati létesítményeknek ad otthont.",
@@ -17760,7 +17741,6 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "ASMAR Talcahuano hajógyár",
       ro: "Șantierul naval ASMAR Talcahuano",
       en: "ASMAR Talcahuano Shipyard"},
-    image: "/poi-images/asmar-talcahuano-economic-v2.webp",
     description: {
       de: "Die wichtigste Schiffsbau- und Reparaturwerkstatt der chilenischen Marine.",
       hu: "A chilei haditengerészet legfőbb hajóépítő és -javító bázisa.",

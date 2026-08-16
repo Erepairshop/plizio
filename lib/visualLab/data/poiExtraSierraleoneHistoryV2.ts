@@ -12,7 +12,6 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
       hu: "Bunce-sziget",
       ro: "Insula Bunce",
       en: "Bunce Island"},
-    image: "/poi-images/bunce-island-history-v2.webp",
     description: {
       de: "Die Bunce-Insel war einer der bedeutendsten Sklavenhandelsstützpunkte an der westafrikanischen Küste.",
       hu: "A Bunce-sziget a nyugat-afrikai partvidék egyik legjelentősebb rabszolga-kereskedelmi központja volt.",
@@ -121,7 +120,6 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
       hu: "Régi Fourah Bay College",
       ro: "Vechiul Fourah Bay College",
       en: "Old Fourah Bay College"},
-    image: "/poi-images/old-fourah-bay-college-history-v2.webp",
     description: {
       de: "Das ursprüngliche Gebäude des Fourah Bay College in Cline Town ist ein Symbol für Bildung in Westafrika.",
       hu: "A Cline Town-ban található Fourah Bay College eredeti épülete a nyugat-afrikai oktatás szimbóluma.",
@@ -185,7 +183,6 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
       hu: "Szent György-székesegyház",
       ro: "Catedrala Sf. Gheorghe",
       en: "St. George's Cathedral"},
-    image: "/poi-images/st-georges-cathedral-history-v2.webp",
     description: {
       de: "Die St. George Kathedrale in Freetown ist eine der ältesten Kirchen Westafrikas.",
       hu: "A freetowni Szent György-székesegyház Nyugat-Afrika egyik legrégebbi temploma.",
@@ -237,7 +234,6 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
       hu: "Freetowni gyapotfa",
       ro: "Copacul de bumbac din Freetown",
       en: "Cotton Tree of Freetown"},
-    image: "/poi-images/cotton-tree-freetown-history-v2.webp",
     description: {
       de: "Der Cotton Tree ist das historische Wahrzeichen von Freetown und ein Symbol der Freiheit.",
       hu: "A gyapotfa Freetown történelmi jelképe és a szabadság szimbóluma.",
@@ -301,7 +297,6 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
       hu: "Martello-torony",
       ro: "Turnul Martello",
       en: "Martello Tower"},
-    image: "/poi-images/martello-tower-history-v2.webp",
     description: {
       de: "Der Martello-Turm auf dem Tower Hill wurde zur Verteidigung von Freetown gegen Angriffe gebaut.",
       hu: "A Tower Hill-en található Martello-torony Freetown védelmére épült a támadások ellen.",
@@ -365,7 +360,6 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
       hu: "Fort Thornton bástyái",
       ro: "Bastioanele Fortului Thornton",
       en: "Bastions of Fort Thornton"},
-    image: "/poi-images/fort-thornton-bastions-history-v2.webp",
     description: {
       de: "Die Bastionen von Fort Thornton sind Teil des Geländes des heutigen State House in Freetown.",
       hu: "A Fort Thornton bástyái a mai freetowni State House területének részét képezik.",
@@ -474,7 +468,6 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
       hu: "Király-kapu",
       ro: "Poarta Regelui",
       en: "King's Gate"},
-    image: "/poi-images/kings-gate-history-v2.webp",
     description: {
       de: "Das Königstor markierte den Eingang zum Gelände des Old Naval Hospital und ist ein Symbol für die Ankunft befreiter Afrikaner.",
       hu: "A Király-kapu a Régi Tengerészeti Kórház bejáratát jelölte, és a felszabadított afrikaiak érkezésének szimbóluma.",
@@ -728,7 +721,6 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
       hu: "Cline Town-i határjelző",
       ro: "Marcajul de hotar din Cline Town",
       en: "Boundary Marker of Cline Town"},
-    image: "/poi-images/boundary-marker-history-v2.webp",
     description: {
       de: "Dieser historische Grenzstein in Cline Town markierte einst die Grenze der Kolonie Freetown.",
       hu: "Ez a történelmi határkő Cline Townban egykor Freetown gyarmat határát jelölte.",
@@ -837,7 +829,6 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
       hu: "Regent-templom romjai",
       ro: "Ruinele bisericii din Regent",
       en: "Ruins of Regent Church"},
-    image: "/poi-images/regent-church-ruins-history-v2.webp",
     description: {
       de: "Die Ruinen der Kirche in Regent erinnern an eines der ersten christlichen Dörfer für befreite Afrikaner.",
       hu: "A regenti templom romjai a felszabadított afrikaiak egyik első keresztény falujára emlékeztetnek.",
@@ -946,7 +937,6 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
       hu: "Heddle's Farm",
       ro: "Ferma lui Heddle",
       en: "Heddle's Farm"},
-    image: "/poi-images/heddles-farm-history-v2.webp",
     description: {
       de: "Heddle's Farm ist ein historisches Anwesen in den Hügeln von Freetown, das einst Charles Heddle gehörte.",
       hu: "A Heddle's Farm egy történelmi birtok Freetown dombjai között, amely egykor Charles Heddle tulajdona volt.",
@@ -1055,7 +1045,6 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
       hu: "Bathurst történelmi falu",
       ro: "Satul istoric Bathurst",
       en: "Bathurst Historical Village"},
-    image: "/poi-images/bathurst-village-history-v2.webp",
     description: {
       de: "Bathurst ist eines der Dörfer, die im 19. Jahrhundert zur Ansiedlung befreiter Sklaven gegründet wurden.",
       hu: "Bathurst egyike azoknak a falvaknak, amelyeket a 19. században alapítottak a felszabadított rabszolgák letelepítésére.",
@@ -1119,7 +1108,6 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
       hu: "Charlotte történelmi falu",
       ro: "Satul istoric Charlotte",
       en: "Charlotte Historical Village"},
-    image: "/poi-images/charlotte-village-history-v2.webp",
     description: {
       de: "Charlotte ist ein charmantes Bergdorf mit einer reichen Geschichte als Siedlungsort für befreite Afrikaner.",
       hu: "Charlotte egy bájos hegyi falu, amely gazdag múlttal rendelkezik a felszabadított afrikaiak letelepedési helyeként.",
@@ -1183,7 +1171,6 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
       hu: "Bonthe gyarmati építészete",
       ro: "Arhitectura colonială din Bonthe",
       en: "Bonthe Colonial Architecture"},
-    image: "/poi-images/bonthe-colonial-architecture-history-v2.webp",
     description: {
       de: "Die Stadt Bonthe auf der Insel Sherbro ist bekannt für ihre gut erhaltenen Gebäude aus der Kolonialzeit.",
       hu: "A Sherbro-szigeten található Bonthe városa jól megőrzött gyarmati épületeiről ismert.",
@@ -1311,7 +1298,6 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
       hu: "Magbele történelmi kikötője",
       ro: "Portul istoric Magbele",
       en: "Magbele Historical Port"},
-    image: "/poi-images/magbele-historical-port-history-v2.webp",
     description: {
       de: "Magbele am Rokel River war im 19. Jahrhundert ein bedeutender Flusshafen für den Export von Holz.",
       hu: "A Rokel-folyó partján fekvő Magbele a 19. században jelentős folyami kikötő volt a faexport számára.",
@@ -1375,7 +1361,6 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
       hu: "Masimera örökségvédelmi helyszín",
       ro: "Situl de patrimoniu Masimera",
       en: "Masimera Heritage Site"},
-    image: "/poi-images/masimera-heritage-site-history-v2.webp",
     description: {
       de: "Masimera ist eine historische Stätte, die eng mit der Geschichte der Temne-Häuptlinge verbunden ist.",
       hu: "Masimera egy történelmi helyszín, amely szorosan kapcsolódik a temne törzsfők történetéhez.",
@@ -1503,7 +1488,6 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
       hu: "Bai Bureh emlékmű",
       ro: "Monumentul Bai Bureh",
       en: "Bai Bureh Memorial"},
-    image: "/poi-images/bai-bureh-memorial-history-v2.webp",
     description: {
       de: "Das Denkmal erinnert an Bai Bureh, einen Nationalhelden, der den Widerstand gegen die britische Hüttensteuer anführte.",
       hu: "Az emlékmű Bai Burehnek, a nemzeti hősnek állít emléket, aki a brit kunyhóadó elleni ellenállást vezette.",

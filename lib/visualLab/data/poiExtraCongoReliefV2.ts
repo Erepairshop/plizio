@@ -28,7 +28,6 @@ export const poiExtraCongoReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/mont-nabemba-relief-v2.webp",
     description: {
       de: "Der Mont Nabemba ist mit 1020 Metern der höchste Berg der Republik Kongo und liegt im abgelegenen Norden des Landes.",
       hu: "A Nabemba-hegy a Kongói Köztársaság legmagasabb pontja, amely 1020 méteres magasságával emelkedik ki az északi esőerdőkből.",
@@ -190,7 +189,6 @@ export const poiExtraCongoReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/gorges-de-diosso-relief-v2.webp",
     description: {
       de: "Spektakuläre rote Felsklippen und Erosionslandschaften nahe der Küste, die oft als der Grand Canyon des Kongo bezeichnet werden.",
       hu: "Látványos vörös sziklafalak és eróziós formák a tengerpart közelében, melyeket gyakran a Kongó Grand Canyonjaként emlegetnek.",
@@ -235,7 +233,6 @@ export const poiExtraCongoReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/massif-du-chaillu-relief-v2.webp",
     description: {
       de: "Ein Gebirgszug im Süden des Kongo und Gabun, der aus kristallinem Gestein besteht und eine wichtige Wasserscheide bildet.",
       hu: "Közép-afrikai hegység Kongó és Gabon határán, amely kristályos kőzetekből áll és fontos vízválasztó.",
@@ -325,7 +322,6 @@ export const poiExtraCongoReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/monts-de-cristal-relief-v2.webp",
     description: {
       de: "Ein zerklüfteter Gebirgszug parallel zur Atlantikküste, der für seine steilen Hänge und hohe Biodiversität bekannt ist.",
       hu: "Az Atlanti-óceán partjával párhuzamosan futó, meredek lejtőiről és gazdag élővilágáról híres hegylánc.",
@@ -370,7 +366,6 @@ export const poiExtraCongoReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/plateau-de-koukouya-relief-v2.webp",
     description: {
       de: "Ein fruchtbares Hochplateau in der Plateaux-Region, das durch vulkanische Böden und ein milderes Klima geprägt ist.",
       hu: "Termékeny felföld a Plateaux-régióban, amelyet vulkáni talaj és mérsékeltebb éghajlat jellemez.",
@@ -461,7 +456,6 @@ export const poiExtraCongoReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/bassin-du-niari-relief-v2.webp",
     description: {
       de: "Eine ausgedehnte tektonische Senke im Südwesten des Landes, die durch den Niari-Fluss entwässert wird.",
       hu: "Kiterjedt tektonikai süllyedék az ország délnyugati részén, melyet a Niari-folyó hálóz be.",
@@ -506,7 +500,6 @@ export const poiExtraCongoReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/mont-pangala-relief-v2.webp",
     description: {
       de: "Ein markanter Gipfel in der Pool-Region, der weite Ausblicke über die umliegenden Täler und Savannen bietet.",
       hu: "Jellegzetes csúcs a Pool-régióban, amely széles kilátást nyújt a környező völgyekre és szavannákra.",
@@ -551,7 +544,6 @@ export const poiExtraCongoReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/falaise-de-doulo-relief-v2.webp",
     description: {
       de: "Steile Sandsteinklippen am Rande des Niari-Tals, die durch dramatische Erosionsformen beeindrucken.",
       hu: "Meredek homokkő sziklák a Niari-völgy szélén, melyek drámai eróziós formáikkal nyűgözik le a látogatót.",
@@ -596,7 +588,6 @@ export const poiExtraCongoReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/mont-fouari-relief-v2.webp",
     description: {
       de: "Ein Berg im Südwesten an der Grenze zu Gabun, der Teil eines bedeutenden Naturschutzgebiets ist.",
       hu: "Hegy az ország délnyugati részén, a gaboni határnál, egy fontos természetvédelmi terület része.",
@@ -673,7 +664,6 @@ export const poiExtraCongoReliefV2: POI[] = [
       hu: "Bihoua-barlang",
       ro: "Peștera Bihoua",
       en: "Bihoua Cave"},
-    image: "/poi-images/grotte-de-bihoua-relief-v2.webp",
     description: {
       de: "Die Grotte de Bihoua ist eine Höhle im südlichen Kongo mit lokalem Naturwert. Sie ist ein kleines, aber markantes Zeugnis der Karstlandschaft der Region.",
       hu: "A Bihoua-barlang egy term?szetes ?reg a d?li Kong? dombvid?k?n. A k?pz?dm?ny a helyi k?zetek ?s az er?zi? nyom?t ?rzi.",
@@ -721,7 +711,6 @@ export const poiExtraCongoReliefV2: POI[] = [
       hu: "Cuvette-medence",
       ro: "Bazinul Cuvette",
       en: "Cuvette Basin"},
-    image: "/poi-images/bassin-de-la-cuvette-relief-v2.webp",
     description: {
       de: "Eine riesige, flache Senke im Zentrum des Landes, die fast vollständig von Sumpfwäldern und Flüssen bedeckt ist.",
       hu: "Hatalmas, lapos süllyedék az ország központjában, amelyet szinte teljesen mocsári erdők és folyók borítanak.",
@@ -817,7 +806,6 @@ export const poiExtraCongoReliefV2: POI[] = [
       hu: "Léfini-kanyon",
       ro: "Canyonul Léfini",
       en: "Léfini Canyon"},
-    image: "/poi-images/lefini-canyon-relief-v2.webp",
     description: {
       de: "Ein beeindruckender Canyon, den der Léfini-Fluss in die Sandsteinplateaus der Batéké-Region gegraben hat.",
       hu: "Látványos kanyon, amelyet a Léfini-folyó vájt a Batéké-régió homokkő fennsíkjaiba.",
@@ -865,7 +853,6 @@ export const poiExtraCongoReliefV2: POI[] = [
       hu: "Mvoula-hegy",
       ro: "Muntele Mvoula",
       en: "Mount Mvoula"},
-    image: "/poi-images/mont-mvoula-relief-v2.webp",
     description: {
       de: "Ein bedeutender Gipfel im Niari-Tal-System, der für seine geologische Zusammensetzung und sein Mikroklima bekannt ist.",
       hu: "Fontos csúcs a Niari-völgy rendszerében, mely geológiai felépítéséről és mikroklímájáról ismert.",
@@ -913,7 +900,6 @@ export const poiExtraCongoReliefV2: POI[] = [
       hu: "Ngouadi-hegy",
       ro: "Muntele Ngouadi",
       en: "Mount Ngouadi"},
-    image: "/poi-images/mont-ngouadi-relief-v2.webp",
     description: {
       de: "Ein Gipfel im hohen Norden des Kongo, nahe der Grenze zu Kamerun, der aus sehr altem präkambrischem Gestein besteht.",
       hu: "Észak-Kongó egyik csúcsa a kameruni határ közelében, amely ősi, prekambriumi kőzetekből épül fel.",
@@ -961,7 +947,6 @@ export const poiExtraCongoReliefV2: POI[] = [
       hu: "Lékoumou-hegy",
       ro: "Muntele Lékoumou",
       en: "Lékoumou Mountain"},
-    image: "/poi-images/mont-de-la-lekoumou-relief-v2.webp",
     description: {
       de: "Der zentrale Gebirgsstock der Lékoumou-Region, der das Klima und die Entwässerung des Gebiets maßgeblich beeinflusst.",
       hu: "A Lékoumou-régió központi hegytömbje, amely meghatározza a terület éghajlatát és vízrajzát.",
@@ -1009,7 +994,6 @@ export const poiExtraCongoReliefV2: POI[] = [
       hu: "Mouyondzi-dombság",
       ro: "Dealurile Mouyondzi",
       en: "Hills of Mouyondzi"},
-    image: "/poi-images/hugel-von-mouyondzi-relief-v2.webp",
     description: {
       de: "Eine malerische Hügellandschaft im Süden des Landes, bekannt für ihre terrassenartige Struktur und landwirtschaftliche Nutzung.",
       hu: "Festői dombvidék az ország déli részén, amely teraszos szerkezetéről és mezőgazdasági hasznosításáról ismert.",

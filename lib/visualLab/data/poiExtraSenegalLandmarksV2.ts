@@ -129,7 +129,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Dakar Katedrális",
       ro: "Catedrala din Dakar",
       en: "Dakar Cathedral"},
-    image: "/poi-images/sn-dakar-cathedral-landmarks-v2.webp",
     description: {
       de: "Die Cathédrale du Souvenir Africain ist eine monumentale Kirche in Dakar, die 1936 eingeweiht wurde.",
       hu: "A Cathédrale du Souvenir Africain Dakar monumentális temploma, amelyet 1936-ban szenteltek fel.",
@@ -177,7 +176,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Abdoulaye Wade Stadion",
       ro: "Stadionul Abdoulaye Wade",
       en: "Abdoulaye Wade Stadium"},
-    image: "/poi-images/sn-abdoulaye-wade-stadium-landmarks-v2.webp",
     description: {
       de: "Ein hochmodernes Sportstadion in Diamniadio, das 2022 eröffnet wurde und bis zu 50.000 Zuschauer fasst.",
       hu: "Egy ultramodern sportstadion Diamniadióban, amely 2022-ben nyílt meg, és 50 000 néző befogadására alkalmas.",
@@ -270,7 +268,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Léopold Sédar Senghor Stadion",
       ro: "Stadionul Léopold Sédar Senghor",
       en: "Léopold Sédar Senghor Stadium"},
-    image: "/poi-images/sn-leopold-sedar-senghor-stadium-landmarks-v2.webp",
     description: {
       de: "Ein großes Mehrzweckstadion in Dakar, das oft für Fußballspiele der senegalesischen Nationalmannschaft genutzt wird.",
       hu: "Egy nagy többcélú stadion Dakarban, amelyet gyakran használnak a szenegáli válogatott futballmérkőzéseire.",
@@ -318,7 +315,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Daniel Sorano Nemzeti Színház",
       ro: "Teatrul Național Daniel Sorano",
       en: "Daniel Sorano National Theatre"},
-    image: "/poi-images/sn-national-theatre-daniel-sorano-landmarks-v2.webp",
     description: {
       de: "Ein historisches Theater in Dakar, das 1965 eröffnet wurde und ein Zentrum für senegalesische darstellende Künste ist.",
       hu: "Egy történelmi színház Dakarban, amely 1965-ben nyílt meg, és a szenegáli előadóművészetek központja.",
@@ -483,7 +479,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Fekete Civilizációk Múzeuma",
       ro: "Muzeul Civilizațiilor Negre",
       en: "Museum of Black Civilisations"},
-    image: "/poi-images/sn-museum-black-civilisations-landmarks-v2.webp",
     description: {
       de: "Ein bedeutendes Museum in Dakar, das der afrikanischen Kunst und Kulturgeschichte weltweit gewidmet ist.",
       hu: "Egy jelentős múzeum Dakarban, amely az afrikai művészetnek és kultúrtörténetnek van szentelve világszerte.",
@@ -576,7 +571,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Nemzeti Grand Théâtre",
       ro: "Grand Théâtre Național",
       en: "National Grand Theatre"},
-    image: "/poi-images/sn-dakar-grand-theatre-landmarks-v2.webp",
     description: {
       de: "Das Grand Théâtre National Doudou Ndiaye Rose in Dakar ist eines der größten Kulturzentren in Westafrika.",
       hu: "A Grand Théâtre National Doudou Ndiaye Rose Dakarban Nyugat-Afrika egyik legnagyobb kulturális központja.",
@@ -798,7 +792,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "BCEAO Torony",
       ro: "Turnul BCEAO",
       en: "BCEAO Tower"},
-    image: "/poi-images/sn-bceao-tower-landmarks-v2.webp",
     description: {
       de: "Ein ikonischer Wolkenkratzer in Dakar, der die Zentrale der Zentralbank der westafrikanischen Staaten beherbergt.",
       hu: "Egy ikonikus felhőkarcoló Dakarban, amely a Nyugat-afrikai Államok Központi Bankjának székháza.",
@@ -1071,7 +1064,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Az Istenség Mecsetje",
       ro: "Moscheea Divinității",
       en: "Mosque of the Divinity"},
-    image: "/poi-images/sn-mosquee-divinite-landmarks-v2.webp",
     description: {
       de: "Eine beeindruckende Moschee in Ouakam an der Küste von Dakar, bekannt für ihre einzigartige Architektur und Lage am Ozean.",
       hu: "Lenyűgöző mecset Ouakamban, Dakar tengerpartján, amely egyedi építészetéről és óceánparti elhelyezkedéséről ismert.",
@@ -1167,7 +1159,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Dakar Aréna",
       ro: "Dakar Arena",
       en: "Dakar Arena"},
-    image: "/poi-images/sn-dakar-arena-landmarks-v2.webp",
     description: {
       de: "Eine multifunktionale Indoor-Arena in Diamniadio, die hauptsächlich für Basketball und andere große Veranstaltungen genutzt wird.",
       hu: "Multifunkcionális fedett aréna Diamniadióban, amelyet főként kosárlabdára és egyéb nagy eseményekre használnak.",
@@ -1215,7 +1206,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Keur Moussa Apátság",
       ro: "Abația Keur Moussa",
       en: "Keur Moussa Abbey"},
-    image: "/poi-images/sn-abbaye-keur-moussa-landmarks-v2.webp",
     description: {
       de: "Ein Benediktinerkloster in der Region Thiès, bekannt für seine spirituellen Gesänge, die afrikanische Instrumente mit gregorianischem Choral mischen.",
       hu: "Bencés kolostor a Thiès régióban, amely spirituális énekeiről ismert, amelyek afrikai hangszereket ötvöznek gregorián énekekkel.",
@@ -1668,7 +1658,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Popenguine Bazilika",
       ro: "Bazilica din Popenguine",
       en: "Basilica of Popenguine"},
-    image: "/poi-images/sn-basilique-popenguine-landmarks-v2.webp",
     description: {
       de: "Ein wichtiges katholisches Heiligtum in Popenguine, das jedes Jahr Tausende von Pilgern aus dem ganzen Land anzieht.",
       hu: "Fontos katolikus szentély Popenguine-ban, amely minden évben több ezer zarándokot vonz az egész országból.",
@@ -1761,7 +1750,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Saint-Louis Katedrális",
       ro: "Catedrala din Saint-Louis",
       en: "Saint-Louis Cathedral"},
-    image: "/poi-images/sn-saint-louis-cathedral-landmarks-v2.webp",
     description: {
       de: "Eine historische Kathedrale auf der Insel Saint-Louis, die als das älteste Kirchengebäude in Westafrika gilt.",
       hu: "Történelmi katedrális a Saint-Louis szigeten, amelyet Nyugat-Afrika legrégebbi templomépületének tartanak.",
@@ -1890,7 +1878,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "A Nemzet Tere",
       ro: "Piața Națiunii",
       en: "Place of the Nation"},
-    image: "/poi-images/sn-place-nation-obelisque-landmarks-v2.webp",
     description: {
       de: "Ein großer öffentlicher Platz in Dakar, bekannt für seinen zentralen Obelisken und als Ort für nationale Paraden.",
       hu: "Egy nagy nyilvános tér Dakarban, amely központi obeliszkjéről és a nemzeti felvonulások helyszíneként ismert.",
@@ -1938,7 +1925,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Dakar Városháza",
       ro: "Primăria din Dakar",
       en: "Dakar City Hall"},
-    image: "/poi-images/sn-hotel-de-ville-dakar-landmarks-v2.webp",
     description: {
       de: "Ein bemerkenswertes Gebäude aus der Kolonialzeit in Dakar, das als Sitz der Stadtverwaltung dient.",
       hu: "Dakar figyelemre méltó gyarmati korszakbeli épülete, amely az önkormányzat székhelyeként szolgál.",
@@ -2103,7 +2089,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Aline Sitoe Diatta Stadion",
       ro: "Stadionul Aline Sitoe Diatta",
       en: "Aline Sitoe Diatta Stadium"},
-    image: "/poi-images/sn-aline-sitoe-diatta-stadium-landmarks-v2.webp",
     description: {
       de: "Ein Mehrzweckstadion in Ziguinchor, das nach der berühmten senegalesischen Widerstandskämpferin benannt ist.",
       hu: "Többcélú stadion Ziguinchorban, amelyet a híres szenegáli ellenálló harcosról neveztek el.",
@@ -2376,7 +2361,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Tivaouane Nagymecset",
       ro: "Marea Moschee din Tivaouane",
       en: "Great Mosque of Tivaouane"},
-    image: "/poi-images/sn-grande-mosquee-tivaouane-landmarks-v2.webp",
     description: {
       de: "Das wichtigste religiöse Zentrum des Tidschānīya-Ordens im Senegal, das jedes Jahr beim Maouloud-Fest Tausende von Pilgern anzieht.",
       hu: "A Tidzsaníja rend legfontosabb vallási központja Szenegálban, amely évente több ezer zarándokot vonz a Maouloud fesztivál idején.",
@@ -2541,7 +2525,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Massalikoul Jinaan Mecset",
       ro: "Moscheea Massalikoul Jinaan",
       en: "Massalikoul Jinaan Mosque"},
-    image: "/poi-images/sn-massalikoul-jinaan-mosque-landmarks-v2.webp",
     description: {
       de: "Eine massive Moschee in Dakar, erbaut von der Mouriden-Bruderschaft, die als eine der größten in Westafrika gilt.",
       hu: "Egy hatalmas mecset Dakarban, amelyet a Muridita testvériség épített, és Nyugat-Afrika egyik legnagyobbjának tartják.",
@@ -2634,7 +2617,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Kermel Piac",
       ro: "Piața Kermel",
       en: "Kermel Market"},
-    image: "/poi-images/sn-marche-kermel-landmarks-v2.webp",
     description: {
       de: "Ein historischer Markt im Zentrum von Dakar, der in einem auffälligen runden Gebäude aus der Kolonialzeit untergebracht ist.",
       hu: "Egy történelmi piac Dakar központjában, amely egy feltűnő, gyarmati korabeli kerek épületben kapott helyet.",
@@ -2682,7 +2664,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Sandaga Piac",
       ro: "Piața Sandaga",
       en: "Sandaga Market"},
-    image: "/poi-images/sn-marche-sandaga-landmarks-v2.webp",
     description: {
       de: "Der größte und geschäftigste Markt in Dakar, bekannt für sein Gebäude im sudanesisch-sahelischen Baustil.",
       hu: "Dakar legnagyobb és legforgalmasabb piaca, amely a szudáni-száheli építészeti stílusban épült épületéről ismert.",
@@ -2730,7 +2711,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Saint-Louis Városháza",
       ro: "Primăria din Saint-Louis",
       en: "Saint-Louis City Hall"},
-    image: "/poi-images/sn-hotel-de-ville-saint-louis-landmarks-v2.webp",
     description: {
       de: "Ein bedeutendes administratives Gebäude in Saint-Louis, das die koloniale Geschichte und den Status der Stadt als ehemalige Hauptstadt widerspiegelt.",
       hu: "Egy jelentős közigazgatási épület Saint-Louis-ban, amely a gyarmati történelmet és a város korábbi fővárosi státuszát tükrözi.",
@@ -2778,7 +2758,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Kaolack Nagymecset",
       ro: "Marea Moschee din Kaolack",
       en: "Great Mosque of Kaolack"},
-    image: "/poi-images/sn-grande-mosquee-kaolack-landmarks-v2.webp",
     description: {
       de: "Eine beeindruckende Moschee in Kaolack, die als das spirituelle Zentrum der Niassène-Glaubensgemeinschaft dient.",
       hu: "Lenyűgöző mecset Kaolackban, amely a Niassène vallási közösség spirituális központjaként szolgál.",
@@ -2826,7 +2805,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Diamniadio Miniszteri Szférák",
       ro: "Sferele Ministeriale din Diamniadio",
       en: "Diamniadio Ministerial Spheres"},
-    image: "/poi-images/sn-spheres-ministerielles-diamniadio-landmarks-v2.webp",
     description: {
       de: "Ein moderner Regierungskomplex in der neuen Stadt Diamniadio, der mehrere senegalesische Ministerien in futuristischen Gebäuden beherbergt.",
       hu: "Egy modern kormányzati komplexum a feltörekvő Diamniadio városában, amely több szenegáli minisztériumnak ad otthont futurisztikus épületekben.",
@@ -2919,7 +2897,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Thiaroye Mártírjainak Emlékműve",
       ro: "Monumentul Martirilor din Thiaroye",
       en: "Memorial of the Martyrs of Thiaroye"},
-    image: "/poi-images/sn-camp-de-thiaroye-memorial-landmarks-v2.webp",
     description: {
       de: "Ein Mahnmal, das an das Massaker an westafrikanischen Tirailleurs durch französische Truppen im Jahr 1944 in Thiaroye erinnert.",
       hu: "Egy emlékmű, amely a nyugat-afrikai Tirailleur-ök 1944-es, francia csapatok általi lemészárlására emlékeztet Thiaroye-ban.",
@@ -3336,7 +3313,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Cheikh Anta Diop Egyetem Kapuja",
       ro: "Poarta Universității Cheikh Anta Diop",
       en: "Cheikh Anta Diop University Gate"},
-    image: "/poi-images/sn-ucad-university-gate-landmarks-v2.webp",
     description: {
       de: "Das symbolträchtige Eingangstor zur Universität Cheikh Anta Diop in Dakar, einer der ältesten und renommiertesten Universitäten Westafrikas.",
       hu: "A dakari Cheikh Anta Diop Egyetem, Nyugat-Afrika egyik legrégebbi és legrangosabb egyetemének szimbolikus bejárati kapuja.",
@@ -3384,7 +3360,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Cap Manuel Világítótorony",
       ro: "Farul Cap Manuel",
       en: "Cap Manuel Lighthouse"},
-    image: "/poi-images/sn-phare-cap-manuel-landmarks-v2.webp",
     description: {
       de: "Ein historischer Leuchtturm am südlichsten Punkt der Halbinsel Cap-Vert in Dakar, der Seefahrern seit über einem Jahrhundert den Weg weist.",
       hu: "Egy történelmi világítótorony a dakari Cap-Vert félsziget legdélibb pontján, amely több mint egy évszázada irányítja a tengerészeket.",
@@ -3669,7 +3644,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: "Iba Mar Diop Stadion",
       ro: "Stadionul Iba Mar Diop",
       en: "Iba Mar Diop Stadium"},
-    image: "/poi-images/sn-iba-mar-diop-stadium-landmarks-v2.webp",
     description: {
       de: "Ein wichtiges Leichtathletik- und Fußballstadion im Herzen von Dakar, das regelmäßig für lokale Turniere genutzt wird.",
       hu: "Egy fontos atlétikai és futballstadion Dakar szívében, amelyet rendszeresen használnak helyi tornákra.",

@@ -8,7 +8,6 @@ export const poiExtraIraqReliefV2: POI[] = [
     parent: "IQ-AN",
     coords: [39.0000, 33.0000],
     name: { de: "Syrische Wüste", hu: "Szíriai-sivatag", ro: "Deșertul Sirian", en: "Syrian Desert"},
-    image: "/poi-images/syrian-desert-relief-v2.webp",
     description: {
       de: "Diese ausgedehnte Wüstenlandschaft im Westen des Landes ist durch weite, trockene Ebenen und felsige Plateaus gekennzeichnet.",
       hu: "Ez a hatalmas sivatagi régió az ország nyugati részén terül el, amelyet száraz síkságok és sziklás fennsíkok jellemeznek.",
@@ -95,7 +94,6 @@ export const poiExtraIraqReliefV2: POI[] = [
     parent: "IQ-SD",
     coords: [43.5000, 34.5000],
     name: { de: "Hamrin-Berge", hu: "Hamrín-hegység", ro: "Munții Hamrin", en: "Hamrin Mountains"},
-    image: "/poi-images/hamrin-mountains-relief-v2.webp",
     description: {
       de: "Ein markanter Gebirgszug, der sich von der iranischen Grenze bis zum Tigris erstreckt und eine natürliche kulturelle Grenze bildet.",
       hu: "Egy jellegzetes hegyvonulat, amely az iráni határtól a Tigris folyóig húzódik, és természetes kulturális határt képez.",
@@ -615,7 +613,6 @@ export const poiExtraIraqReliefV2: POI[] = [
     parent: "IQ-AR",
     coords: [44.2000, 36.5700],
     name: { de: "Korek-Berg", hu: "Korek-hegy", ro: "Muntele Korek", en: "Mount Korek"},
-    image: "/poi-images/mount-korek-relief-v2.webp",
     description: {
       de: "Einer der bekanntesten Berge im irakischen Kurdistan, berühmt für sein Observatorium und als beliebtes Wintersportgebiet.",
       hu: "Iraki Kurdisztán egyik legismertebb hegye, amely híres a csillagvizsgálójáról és népszerű téli sportközpontként is szolgál.",
@@ -991,7 +988,6 @@ export const poiExtraIraqReliefV2: POI[] = [
     parent: "IQ-AR",
     coords: [44.3000, 36.8000],
     name: { de: "Bradost-Berg", hu: "Bradost-hegy", ro: "Muntele Bradost", en: "Mount Bradost"},
-    image: "/poi-images/mount-bradost-relief-v2.webp",
     description: {
       de: "Ein massives Gebirge in der Region Erbil, das für seine zerklüfteten Landschaften und tiefen Höhlensysteme, wie die Shanidar-Höhle, bekannt ist.",
       hu: "Egy masszív hegység az Erbíl régióban, amely zord tájairól és mély barlangrendszereiről, például a Sanidar-barlangról ismert.",
@@ -2123,7 +2119,6 @@ export const poiExtraIraqReliefV2: POI[] = [
     parent: "IQ-AR",
     coords: [44.3500, 36.4000],
     name: { de: "Safin-Berg", hu: "Szafin-hegy", ro: "Muntele Safin", en: "Mount Safin"},
-    image: "/poi-images/mount-safin-relief-v2.webp",
     description: {
       de: "Ein dicht bewaldeter Berg in der Nähe von Shaqlawa, der im Sommer ein beliebtes Ziel für Touristen ist, die der Hitze entfliehen möchten.",
       hu: "Egy sűrűn erdősült hegy Shaqlawa közelében, amely nyáron népszerű célpont a hőség elől menekülő turisták számára.",
@@ -2607,7 +2602,6 @@ export const poiExtraIraqReliefV2: POI[] = [
     parent: "IQ-DA",
     coords: [43.4000, 37.0000],
     name: { de: "Gara-Berg", hu: "Gara-hegy", ro: "Muntele Gara", en: "Mount Gara"},
-    image: "/poi-images/mount-gara-relief-v2.webp",
     description: {
       de: "Ein imposanter Berg in der Provinz Duhok, der für seine malerische Landschaft und historische Bedeutung in der Region bekannt ist.",
       hu: "Egy impozáns hegy a Duhok tartományban, amely festői tájairól és történelmi jelentőségéről ismert a régióban.",
@@ -2803,7 +2797,6 @@ export const poiExtraIraqReliefV2: POI[] = [
     parent: "IQ-SU",
     coords: [45.2300, 35.7500],
     name: { de: "Peramagroon-Berg", hu: "Pira Magrun-hegy", ro: "Muntele Pira Magrun", en: "Mount Pira Magrun"},
-    image: "/poi-images/mount-pira-magrun-relief-v2.webp",
     description: {
       de: "Ein markanter Gipfel im Zagros-Gebirge in der Nähe von Sulaimaniyya, der oft tief in Wolken und Schnee gehüllt ist.",
       hu: "Egy kiemelkedő csúcs a Zagrosz-hegységben Szulejmánijja közelében, amelyet gyakran mélyen felhők és hó borítanak.",
@@ -2846,7 +2839,6 @@ export const poiExtraIraqReliefV2: POI[] = [
     parent: "IQ-SD",
     coords: [43.2000, 35.1000],
     name: { de: "Makhoul-Berge", hu: "Mahul-hegység", ro: "Munții Makhoul", en: "Makhoul Mountains"},
-    image: "/poi-images/makhoul-mountains-relief-v2.webp",
     description: {
       de: "Eine Hügel- und Bergkette am westlichen Ufer des Tigris, die eine Fortsetzung der Hamrin-Berge nach Nordwesten darstellt.",
       hu: "Egy domb- és hegyvonulat a Tigris nyugati partján, amely a Hamrín-hegység északnyugati folytatását képezi.",
@@ -2934,7 +2926,6 @@ export const poiExtraIraqReliefV2: POI[] = [
     parent: "IQ-BA",
     coords: [48.4700, 29.9300],
     name: { de: "Al-Faw-Küste", hu: "Fao-partvidék", ro: "Coasta Al-Faw", en: "Al-Faw Coast"},
-    image: "/poi-images/al-faw-coast-relief-v2.webp",
     description: {
       de: "Die einzige Küstenlinie des Irak am Persischen Golf, geprägt von Schlammflächen und wichtigen Hafenzugängen.",
       hu: "Irak egyetlen partvonala a Perzsa-öbölnél, amelyet iszapos síkságok és fontos kikötői bejáratok jellemeznek.",
@@ -3606,7 +3597,6 @@ export const poiExtraIraqReliefV2: POI[] = [
     parent: "IQ-SU",
     coords: [45.4500, 35.6000],
     name: { de: "Azmar-Berg", hu: "Azmar-hegy", ro: "Muntele Azmar", en: "Mount Azmar"},
-    image: "/poi-images/mount-azmar-relief-v2.webp",
     description: {
       de: "Ein Bergzug direkt am Rande der Stadt Sulaimaniyya, der einen herrlichen Blick über die gesamte städtische Metropole bietet.",
       hu: "Egy hegyvonulat közvetlenül Szulejmánijja városának szélén, amely csodálatos kilátást nyújt az egész metropoliszra.",
@@ -4522,7 +4512,6 @@ export const poiExtraIraqReliefV2: POI[] = [
     parent: "IQ-SU",
     coords: [45.4400, 35.5800],
     name: { de: "Goizha-Berg", hu: "Gojzsa-hegy", ro: "Muntele Goizha", en: "Mount Goizha"},
-    image: "/poi-images/mount-goizha-relief-v2.webp",
     description: {
       de: "Gemeinsam mit dem Azmar-Berg umschließt er Sulaimaniyya und ist ein zentrales Element der natürlichen Silhouette der Region.",
       hu: "Az Azmar-heggyel együtt körbeveszi Szulejmánijját, és a régió természetes sziluettjének központi eleme.",
@@ -4646,7 +4635,6 @@ export const poiExtraIraqReliefV2: POI[] = [
     parent: "IQ-DA",
     coords: [42.9500, 37.2300],
     name: { de: "Khantur-Berg", hu: "Hantur-hegy", ro: "Muntele Khantur", en: "Mount Khantur"},
-    image: "/poi-images/mount-khantur-relief-v2.webp",
     description: {
       de: "Ein markanter Berg in der Nähe von Zakho an der irakisch-türkischen Grenze, bekannt für seine steilen Klippen und raue Natur.",
       hu: "Egy jellegzetes hegy Záhó közelében, az iraki-török határon, amely meredek szikláiról és vad természetéről ismert.",
@@ -5418,7 +5406,6 @@ export const poiExtraIraqReliefV2: POI[] = [
     parent: "IQ-NI",
     coords: [43.4000, 36.4000],
     name: { de: "Maklub-Berg", hu: "Maklub-hegy", ro: "Muntele Maqlub", en: "Mount Maqlub"},
-    image: "/poi-images/mount-maqlub-relief-v2.webp",
     description: {
       de: "Ein Berg in der Ninive-Ebene nordöstlich von Mossul, der historische Bedeutung für die dort ansässigen christlichen Gemeinschaften hat.",
       hu: "Egy hegy a Ninive-síkságon Moszultól északkeletre, amely történelmi jelentőséggel bír az ott élő keresztény közösségek számára.",
@@ -7287,7 +7274,6 @@ export const poiExtraIraqReliefV2: POI[] = [
     parent: "IQ-AR",
     coords: [44.4000, 36.6300],
     name: { de: "Gali-Ali-Beg-Schlucht", hu: "Gali Ali Beg-kanyon", ro: "Defileul Gali Ali Beg", en: "Gali Ali Beg Canyon"},
-    image: "/poi-images/gali-ali-beg-canyon-relief-v2.webp",
     description: {
       de: "Eine tiefe und beeindruckende Schlucht im Norden, durch die sich Bergflüsse drängen und malerische Wasserfälle bilden.",
       hu: "Egy mély és lenyűgöző kanyon északon, amelyen hegyi folyók zúdulnak keresztül, festői vízeséseket alkotva.",
@@ -7375,7 +7361,6 @@ export const poiExtraIraqReliefV2: POI[] = [
     parent: "IQ-NA",
     coords: [44.3000, 31.9500],
     name: { de: "Bahr-al-Nadschaf-Senke", hu: "Bahr an-Nadzsaf-medence", ro: "Depresiunea Bahr al-Najaf", en: "Bahr al-Najaf Depression"},
-    image: "/poi-images/bahr-al-najaf-depression-relief-v2.webp",
     description: {
       de: "Eine große Senke in der Nähe der Stadt Nadschaf, die sich je nach Niederschlag in ein flaches Gewässer oder eine Salzpfanne verwandelt.",
       hu: "Egy nagy medence Nedzsef városa közelében, amely a csapadéktól függően sekély vízfelületté vagy sómezővé változik.",
@@ -8831,7 +8816,6 @@ export const poiExtraIraqReliefV2: POI[] = [
     parent: "IQ-AR",
     coords: [44.5300, 36.6500],
     name: { de: "Soran-Tal", hu: "Szorán-völgy", ro: "Valea Soran", en: "Soran Valley"},
-    image: "/poi-images/soran-valley-relief-v2.webp",
     description: {
       de: "Ein malerisches Tal im Gouvernement Erbil, umgeben von schneebedeckten Gipfeln und geprägt von Flüssen und grünen Wiesen.",
       hu: "Egy festői völgy Erbíl kormányzóságban, amelyet hófedte csúcsok vesznek körül, és folyók, valamint zöld rétek jellemeznek.",

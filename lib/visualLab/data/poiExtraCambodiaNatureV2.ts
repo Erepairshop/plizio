@@ -53,7 +53,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     parent: "KH-17",
     coords: [104.0500, 12.9667],
     name: { de: "Tonle-Sap-See", hu: "Tonlé Szap-tó", ro: "Lacul Tonle Sap", en: "Tonle Sap Lake"},
-    image: "/poi-images/tonle-sap-lake-nature-v2.webp",
     description: {
       de: "Der größte Süßwassersee Südostasiens, dessen Wasserspiegel im Monsun drastisch ansteigt und eine einzigartige Biodiversität beheimatet.",
       hu: "Délkelet-Ázsia legnagyobb édesvizű tava, amelynek vízszintje a monszun idején drasztikusan megemelkedik, és egyedülálló biodiverzitásnak ad otthont.",
@@ -286,7 +285,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     parent: "KH-17",
     coords: [104.1000, 13.6000],
     name: { de: "Phnom Kulen Nationalpark", hu: "Phnom Kulen Nemzeti Park", ro: "Parcul Național Phnom Kulen", en: "Phnom Kulen National Park"},
-    image: "/poi-images/phnom-kulen-national-park-nature-v2.webp",
     description: {
       de: "Der Phnom-Kulen-Nationalpark liegt auf einem heiligen Berg bei Siem Reap. Er verbindet Wald, Wasserfälle und frühe Khmer-Geschichte.",
       hu: "A Phnom Kulen Nemzeti Park szent hegyvidéke vízeséseiről és vallási helyszíneiről ismert. A terület fontos zarándokhely, és a khmer történelem korai emlékeihez kötődik.",
@@ -330,7 +328,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     parent: "KH-09",
     coords: [103.3333, 12.0000],
     name: { de: "Kardamom-Gebirge", hu: "Kardamom-hegység", ro: "Munții Cardamom", en: "Cardamom Mountains"},
-    image: "/poi-images/cardamom-mountains-nature-v2.webp",
     description: {
       de: "Eine der letzten unberührten Dschungelregionen Südostasiens, die eine immense Vielfalt an gefährdeten Pflanzen und Tieren schützt.",
       hu: "Délkelet-Ázsia egyik utolsó érintetlen dzsungelvidéke, amely veszélyeztetett növények és állatok hatalmas változatosságát védi.",
@@ -374,7 +371,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     parent: "KH-10",
     coords: [106.0167, 12.4833],
     name: { de: "Mekong in Kambodscha", hu: "A Mekong folyó Kambodzsában", ro: "Râul Mekong în Cambodgia", en: "Mekong River in Cambodia"},
-    image: "/poi-images/mekong-river-cambodia-nature-v2.webp",
     description: {
       de: "Die Lebensader des Landes durchquert Kambodscha auf einer Länge von rund 500 Kilometern und bietet Lebensraum für die seltenen Irrawaddy-Delfine.",
       hu: "Az ország ütőere mintegy 500 kilométer hosszan szeli át Kambodzsát, és élőhelyet biztosít a ritka kúposfejű delfineknek.",
@@ -418,7 +414,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     parent: "KH-16",
     coords: [106.8833, 14.1667],
     name: { de: "Virachey Nationalpark", hu: "Virachey Nemzeti Park", ro: "Parcul Național Virachey", en: "Virachey National Park"},
-    image: "/poi-images/virachey-national-park-nature-v2.webp",
     description: {
       de: "Ein tief im Dschungel gelegener Nationalpark im Nordosten Kambodschas, der für seine dichten Wälder und abgeschiedenen indigene Dörfer bekannt ist.",
       hu: "Egy dzsungel mélyén fekvő nemzeti park Kambodzsa északkeleti részén, amely sűrű erdeiről és elzárt őslakos falvairól ismert.",
@@ -867,7 +862,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     parent: "KH-18",
     coords: [103.6500, 10.5167],
     name: { de: "Ream Nationalpark", hu: "Ream Nemzeti Park", ro: "Parcul Național Ream", en: "Ream National Park"},
-    image: "/poi-images/ream-national-park-nature-v2.webp",
     description: {
       de: "Ein malerischer Küstennationalpark, der Mangrovenwälder, Sandstrände, Korallenriffe und geschützte Meereslebensräume umfasst.",
       hu: "Festői partvidéki nemzeti park, amely mangroveerdőket, homokos strandokat, korallzátonyokat és védett tengeri élőhelyeket foglal magába.",
@@ -956,7 +950,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     parent: "KH-16",
     coords: [107.0161, 13.7317],
     name: { de: "Yeak-Laom-See", hu: "Yeak Laom-tó", ro: "Lacul Yeak Laom", en: "Yeak Laom Lake"},
-    image: "/poi-images/yeak-laom-lake-nature-v2.webp",
     description: {
       de: "Ein nahezu perfekt runder Kratersee vulkanischen Ursprungs, umgeben von dichtem Wald, der von den lokalen Tampuan-Stämmen als heilig verehrt wird.",
       hu: "Egy szinte tökéletesen kerek, vulkáni eredetű krátertó, amelyet sűrű erdő vesz körül, és a helyi tampuan törzsek szentként tisztelnek.",
@@ -1297,7 +1290,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     parent: "KH-05",
     coords: [104.0500, 11.3167],
     name: { de: "Kirirom Nationalpark", hu: "Kirirom Nemzeti Park", ro: "Parcul Național Kirirom", en: "Kirirom National Park"},
-    image: "/poi-images/kirirom-national-park-nature-v2.webp",
     description: {
       de: "Der Kirirom-Nationalpark liegt auf einem kühlen Hochplateau im Süden Kambodschas. Kiefernwälder und Wasserläufe prägen das Gelände.",
       hu: "A Kirirom Nemzeti Park egy hűvösebb, magasabban fekvő terület, ahol fenyvesek és vízfolyások uralják a tájat. A kambodzsai alföldtől nagyon eltérő, nyugodtabb hegyvidéki környezetet mutat.",
@@ -2025,7 +2017,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     parent: "KH-23",
     coords: [104.3000, 10.4833],
     name: { de: "Kep Nationalpark", hu: "Kep Nemzeti Park", ro: "Parcul Național Kep", en: "Kep National Park"},
-    image: "/poi-images/kep-national-park-nature-v2.webp",
     description: {
       de: "Ein bewaldeter Hügelpark direkt an der Küste, der fantastische Panoramablicke auf den Golf von Thailand und das benachbarte Vietnam bietet.",
       hu: "Közvetlenül a tengerparton fekvő erdős dombvidéki park, amely fantasztikus panorámát nyújt a Thai-öbölre és a szomszédos Vietnámra.",
@@ -2294,7 +2285,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     parent: "KH-07",
     coords: [104.0333, 10.6500],
     name: { de: "Bokor Nationalpark", hu: "Bokor Nemzeti Park", ro: "Parcul Național Bokor", en: "Bokor National Park"},
-    image: "/poi-images/bokor-national-park-nature-v2.webp",
     description: {
       de: "Bekannt für sein kühles Hochlandklima, verlassene französische Kolonialgebäude und den schützenswerten Lebensraum asiatischer Elefanten.",
       hu: "Hűvös hegyvidéki klímájáról, elhagyatott francia gyarmati épületeiről és az ázsiai elefántok védett élőhelyéről ismert.",
@@ -2383,7 +2373,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     parent: "KH-05",
     coords: [104.1667, 12.0333],
     name: { de: "Phnom Aural", hu: "Phnom Aural", ro: "Phnom Aural", en: "Phnom Aural"},
-    image: "/poi-images/phnom-aural-nature-v2.webp",
     description: {
       de: "Der höchste Berg Kambodschas erhebt sich majestätisch im östlichen Teil des Kardamom-Gebirges und ist von dichten Regenwäldern umgeben.",
       hu: "Kambodzsa legmagasabb hegye, amely fenségesen magasodik a Kardamom-hegység keleti részén, és sűrű esőerdők veszik körül.",
@@ -2427,7 +2416,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     parent: "KH-19",
     coords: [106.1833, 13.5667],
     name: { de: "Tonle San", hu: "Tonlé San folyó", ro: "Râul Tonle San", en: "Tonle San River"},
-    image: "/poi-images/tonle-san-river-nature-v2.webp",
     description: {
       de: "Der Tonle-San-Fluss fließt durch Nordost-Kambodscha und ist ein wichtiger Nebenfluss des Mekong. Er prägt Fischfang und Wasserkraft in der Region.",
       hu: "A Tonlé San a Mekong egyik fontos mellékfolyója, amely Északkelet-Kambodzsa vízrendszerének meghatározó eleme. A környék halászatát és vízgazdálkodását is erősen befolyásolja.",
@@ -2471,7 +2459,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     parent: "KH-06",
     coords: [105.1000, 13.5000],
     name: { de: "Prey Lang Wald", hu: "Prey Lang erdő", ro: "Pădurea Prey Lang", en: "Prey Lang Forest"},
-    image: "/poi-images/prey-lang-forest-nature-v2.webp",
     description: {
       de: "Der Prey-Lang-Wald ist eines der größten zusammenhängenden Waldgebiete Kambodschas. Er liegt in mehreren Provinzen und ist für seine Artenvielfalt bekannt.",
       hu: "A Prey Lang erdő Kambodzsa egyik legnagyobb összefüggő síkvidéki erdősége. Az őslakos közösségek számára fontos terület, de az illegális fakitermelés miatt erős nyomás alatt áll.",
@@ -2596,7 +2583,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     parent: "KH-19",
     coords: [106.0167, 13.5500],
     name: { de: "Tonle Srepok", hu: "Tonlé Srepok", ro: "Râul Tonle Srepok", en: "Tonle Srepok"},
-    image: "/poi-images/tonle-srepok-nature-v2.webp",
     description: {
       de: "Ein mächtiger Fluss, der durch die abgelegene Provinz Mondulkiri fließt und dramatische Wasserfälle sowie tiefe Schluchten bildet.",
       hu: "Hatalmas folyó, amely az elszigetelt Mondulkiri tartományon folyik keresztül, és drámai vízeséseket, valamint mély szurdokokat hoz létre.",
@@ -2685,7 +2671,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     parent: "KH-11",
     coords: [106.8333, 12.1667],
     name: { de: "Keo-Seima-Schutzgebiet", hu: "Keo Seima Vadvédelmi Terület", ro: "Rezervația de animale sălbatice Keo Seima", en: "Keo Seima Wildlife Sanctuary"},
-    image: "/poi-images/keo-seima-wildlife-sanctuary-nature-v2.webp",
     description: {
       de: "Ein weitläufiges Schutzgebiet im Osten des Landes, das weltweit für seinen außergewöhnlich hohen Bestand an wilden asiatischen Elefanten und Primaten bekannt ist.",
       hu: "Kiterjedt védett terület az ország keleti részén, amely világszerte ismert a vadon élő ázsiai elefántok és főemlősök kivételesen magas állományáról.",
@@ -2774,7 +2759,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     parent: "KH-09",
     coords: [103.1167, 11.5500],
     name: { de: "Tatai-Fluss", hu: "Tatai folyó", ro: "Râul Tatai", en: "Tatai River"},
-    image: "/poi-images/tatai-river-nature-v2.webp",
     description: {
       de: "Ein malerischer, ruhiger Fluss im Kardamom-Gebirge, der durch dichten Dschungel und Mangrovenwälder bis zum Golf von Thailand fließt.",
       hu: "Festői, csendes folyó a Kardamom-hegységben, amely sűrű dzsungelen és mangroveerdőkön keresztül folyik a Thai-öbölig.",
@@ -2863,7 +2847,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     parent: "KH-15",
     coords: [103.0333, 12.1500],
     name: { de: "Phnom Samkos", hu: "Phnom Samkos", ro: "Phnom Samkos", en: "Phnom Samkos"},
-    image: "/poi-images/phnom-samkos-nature-v2.webp",
     description: {
       de: "Der zweithöchste Berg des Landes liegt tief im westlichen Teil des Kardamom-Gebirges und bildet ein extrem wichtiges ökologisches Rückzugsgebiet.",
       hu: "Az ország második legmagasabb hegye a Kardamom-hegység nyugati részén fekszik, és rendkívül fontos ökológiai menedéket alkot.",
@@ -2907,7 +2890,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     parent: "KH-09",
     coords: [103.4500, 11.8500],
     name: { de: "Areng-Tal", hu: "Areng-völgy", ro: "Valea Areng", en: "Areng Valley"},
-    image: "/poi-images/areng-valley-nature-v2.webp",
     description: {
       de: "Ein abgeschiedenes und naturbelassenes Flusstal im Herzen der Kardamom-Berge, das für seine kulturelle und biologische Einzigartigkeit gekämpft hat.",
       hu: "Félreeső és érintetlen folyóvölgy a Kardamom-hegység szívében, amely kulturális és biológiai egyedülállóságáért küzdött.",
@@ -2951,7 +2933,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     parent: "KH-16",
     coords: [106.6667, 13.3333],
     name: { de: "Lumphat-Schutzgebiet", hu: "Lumphat Vadvédelmi Terület", ro: "Rezervația de animale sălbatice Lumphat", en: "Lumphat Wildlife Sanctuary"},
-    image: "/poi-images/lumphat-wildlife-sanctuary-nature-v2.webp",
     description: {
       de: "Eine ausgedehnte Landschaft aus offenen Trockenwäldern und Feuchtgebieten, die einen idealen Lebensraum für große asiatische Säugetiere und Wasservögel bietet.",
       hu: "Nyitott száraz erdőkből és vizes élőhelyekből álló kiterjedt táj, amely ideális élőhelyet biztosít a nagy testű ázsiai emlősök és vízimadarak számára.",

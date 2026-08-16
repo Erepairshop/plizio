@@ -8,7 +8,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-OH",
     coords: [15.90, -18.80],
     name: { de: "Etosha Nationalpark", hu: "Etosha Nemzeti Park", ro: "Parcul Național Etosha", en: "Etosha National Park"},
-    image: "/poi-images/namibia-etosha-animal-habitat-life-v2.webp",
     description: { de: "Eines der bedeutendsten Schutzgebiete für Wildtiere in Namibia.", hu: "Namíbia egyik legjelentősebb vadvédelmi területe.", ro: "Una dintre cele mai importante zone protejate pentru animale sălbatice din Namibia.", en: "One of the most significant wildlife sanctuaries in Namibia." , es: "Una de las áreas protegidas de vida silvestre más importantes de Namibia.", pt: "Uma das áreas protegidas de vida selvagem mais importantes da Namíbia.", fr: "L'une des plus importantes réserves de faune sauvage de Namibie."},
     facts: {
       de: ["Bekannt für seine Salzpfanne", "Beheimatet Elefanten und Löwen", "Beste Beobachtung an Wasserlöchern", "Große Artenvielfalt"],
@@ -49,7 +48,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-ER",
     coords: [15.00, -24.00],
     name: { de: "Namib-Naukluft Park", hu: "Namib-Naukluft Park", ro: "Parcul Namib-Naukluft", en: "Namib-Naukluft Park"},
-    image: "/poi-images/namibia-namib-animal-habitat-life-v2.webp",
     description: { de: "Ein riesiges Schutzgebiet in der ältesten Wüste der Welt.", hu: "Hatalmas védett terület a világ legrégebbi sivatagában.", ro: "O vastă zonă protejată în cel mai vechi deșert din lume.", en: "A vast protected area in the world's oldest desert." , es: "Un área protegida enorme en el desierto más antiguo del mundo.", pt: "Uma área protegida enorme no deserto mais antigo do mundo.", fr: "Une immense zone protégée dans le plus vieux désert du monde."},
     facts: {
       de: ["Älteste Wüste der Erde", "Bekannt für Sossusvlei", "Heimat für angepasste Oryxantilopen", "Spektakuläre Sanddünen"],
@@ -207,7 +205,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-OH",
     coords: [17.25, -20.50],
     name: { de: "Waterberg Plateau Park", hu: "Waterberg-fennsík Park", ro: "Parcul Podișului Waterberg", en: "Waterberg Plateau Park"},
-    image: "/poi-images/namibia-waterberg-animal-habitat-life-v2.webp",
     description: { de: "Ein isoliertes Plateau mit reicher Flora und gefährdeten Tierarten.", hu: "Egy elszigetelt fennsík gazdag növényvilággal és veszélyeztetett fajokkal.", ro: "Un platou izolat cu floră bogată și specii de animale pe cale de dispariție.", en: "An isolated plateau with rich flora and endangered animal species." , es: "Una meseta aislada con una flora exuberante y especies animales en peligro de extinción.", pt: "Um planalto isolado com uma flora rica e espécies animais ameaçadas de extinção.", fr: "Un plateau isolé doté d'une flore riche et d'espèces animales en voie de disparition."},
     facts: {
       de: ["Schutz für Breitmaulnashörner", "Schutz für Geparden", "Historische Felsformationen", "Vielfältige Vogelwelt"],
@@ -248,7 +245,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-ER",
     coords: [14.45, -21.75],
     name: { de: "Cape Cross Robbenreservat", hu: "Cape Cross Fókarezervátum", ro: "Rezervația de foci Cape Cross", en: "Cape Cross Seal Reserve"},
-    image: "/poi-images/namibia-cape-cross-animal-habitat-life-v2.webp",
     description: { de: "Eine der weltweit größten Kolonien von Seebären.", hu: "A világ egyik legnagyobb medvefóka-kolóniája.", ro: "Una dintre cele mai mari colonii de foci cu blană din lume.", en: "One of the world's largest colonies of fur seals." , es: "Una de las colonias de lobos marinos más grandes del mundo.", pt: "Uma das maiores colónias de lobos-marinhos do mundo.", fr: "L'une des plus grandes colonies d'otaries à fourrure au monde."},
     facts: {
       de: ["Zehntausende Seebären", "Historisches Kreuz-Denkmal", "An der Skelettküste", "Herausforderndes Klima"],
@@ -289,7 +285,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-HA",
     coords: [17.85, -24.48],
     name: { de: "Hardap Staudamm Region", hu: "Hardap-gát Régió", ro: "Regiunea Barajului Hardap", en: "Hardap Dam Region"},
-    image: "/poi-images/namibia-hardap-agriculture-life-v2.webp",
     description: { de: "Ein wichtiges landwirtschaftliches Bewässerungsgebiet in Zentralnamibia.", hu: "Fontos mezőgazdasági öntözési terület Közép-Namíbiában.", ro: "O zonă importantă de irigații agricole din Namibia centrală.", en: "An important agricultural irrigation area in central Namibia." , es: "Una importante zona de riego agrícola en el centro de Namibia.", pt: "Uma importante zona de irrigação agrícola no centro da Namíbia.", fr: "Une importante zone d'irrigation agricole dans le centre de la Namibie."},
     facts: {
       de: ["Größter Staudamm Namibias", "Gemüseanbau in der Wüste", "Fischzucht", "Erholung am Wasser"],
@@ -335,7 +330,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-OS",
     coords: [17.72, -19.23],
     name: { de: "Tsumeb Farmregion", hu: "Tsumeb Mezőgazdasági Régió", ro: "Regiunea Agricolă Tsumeb", en: "Tsumeb Farm Region"},
-    image: "/poi-images/namibia-tsumeb-agriculture-life-v2.webp",
     description: { de: "Fruchtbare Region für Viehzucht und Ackerbau.", hu: "Termékeny régió állattenyésztéshez és szántóföldi gazdálkodáshoz.", ro: "Regiune fertilă pentru creșterea animalelor și agricultură.", en: "Fertile region for livestock farming and agriculture." , es: "Región fértil para la cría de ganado y el cultivo.", pt: "Região fértil para a pecuária e agricultura.", fr: "Région fertile pour l'élevage de bétail et les cultures."},
     facts: {
       de: ["Bekannt für Viehbetriebe", "Getreideanbau", "Relativ hohe Niederschläge", "Grüne Landschaft"],
@@ -381,7 +375,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-OH",
     coords: [19.00, -22.45],
     name: { de: "Gobabis Rinderregion", hu: "Gobabis Marhatenyésztő Régió", ro: "Regiunea creșterii bovinelor Gobabis", en: "Gobabis Cattle Region"},
-    image: "/poi-images/namibia-gobabis-agriculture-life-v2.webp",
     description: { de: "Das Zentrum der namibischen Rinderzucht.", hu: "A namíbiai marhatenyésztés központja.", ro: "Centrul creșterii bovinelor din Namibia.", en: "The center of Namibian cattle farming." , es: "El centro de la cría de ganado en Namibia.", pt: "O centro da criação de gado na Namíbia.", fr: "Le centre de l'élevage bovin en Namibie."},
     facts: {
       de: ["Hauptort der Rinderwirtschaft", "Große Weideflächen", "Export von Rindfleisch", "Sandige Böden"],
@@ -503,7 +496,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-KH",
     coords: [17.08, -22.56],
     name: { de: "Windhoek Kinderpark", hu: "Windhoek Gyermekpark", ro: "Parcul pentru copii Windhoek", en: "Windhoek Children's Park"},
-    image: "/poi-images/namibia-windhoek-kid-landmark-life-v2.webp",
     description: { de: "Ein beliebter Ort für Familien und Kinder in der Hauptstadt.", hu: "Népszerű hely családoknak és gyerekeknek a fővárosban.", ro: "Un loc popular pentru familii și copii în capitală.", en: "A popular place for families and children in the capital." , es: "Un lugar popular para familias y niños en la capital.", pt: "Um local popular para famílias e crianças na capital.", fr: "Un lieu prisé des familles et des enfants dans la capitale."},
     facts: {
       de: ["Spielplätze", "Picknickbereiche", "Sicherer Freizeitraum", "Zentral gelegen"],
@@ -589,7 +581,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-ER",
     coords: [14.53, -22.68],
     name: { de: "Swakopmund Aquarium", hu: "Swakopmund Akvárium", ro: "Acvariul din Swakopmund", en: "Swakopmund Aquarium"},
-    image: "/poi-images/namibia-swakopmund-kid-landmark-life-v2.webp",
     description: { de: "Ein spannendes Erlebnis für Kinder zur Entdeckung der Meereswelt.", hu: "Izgalmas élmény gyerekeknek a tengeri élővilág felfedezésére.", ro: "O experiență captivantă pentru copii de a descoperi lumea marină.", en: "An exciting experience for kids to discover marine life." , es: "Una experiencia emocionante para que los niños descubran el mundo marino.", pt: "Uma experiência emocionante para as crianças descobrirem o mundo marinho.", fr: "Une expérience passionnante pour faire découvrir le monde marin aux enfants."},
     facts: {
       de: ["Beobachtungstunnel", "Lokale Fischarten", "Bildungsprogramme", "Am Atlantik gelegen"],
@@ -711,7 +702,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-OH",
     coords: [16.92, -21.98],
     name: { de: "Okahandja Holzmarkt", hu: "Okahandja Fafaragó Piac", ro: "Piața de sculpturi în lemn Okahandja", en: "Okahandja Woodcarving Market"},
-    image: "/poi-images/namibia-okahandja-kid-landmark-life-v2.webp",
     description: { de: "Ein interessanter Ort, an dem Kinder traditionelles Handwerk bestaunen können.", hu: "Érdekes hely, ahol a gyerekek hagyományos kézművességet csodálhatnak meg.", ro: "Un loc interesant unde copiii pot admira artizanatul tradițional.", en: "An interesting place where children can admire traditional craftsmanship." , es: "Un lugar interesante donde los niños pueden admirar la artesanía tradicional.", pt: "Um lugar interessante onde as crianças podem admirar o artesanato tradicional.", fr: "Un lieu intéressant où les enfants peuvent admirer l'artisanat traditionnel."},
     facts: {
       de: ["Traditionelle Schnitzereien", "Souvenirs", "Einblick in Kunst", "Kulturelles Zentrum"],
@@ -752,7 +742,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-ZK",
     coords: [22.00, -18.00],
     name: { de: "Bwabwata Nationalpark", hu: "Bwabwata Nemzeti Park", ro: "Parcul Național Bwabwata", en: "Bwabwata National Park"},
-    image: "/poi-images/namibia-bwabwata-animal-habitat-life-v2.webp",
     description: { de: "Ein einzigartiges Gebiet mit Wildwechsel in der Sambesi-Region.", hu: "Egyedülálló terület vadvándorlással a Zambézi régióban.", ro: "O zonă unică cu migrația animalelor în regiunea Zambezi.", en: "A unique area with wildlife migration in the Zambezi region." , es: "Una zona única de paso de vida silvestre en la región del Zambeze.", pt: "Uma área única de passagem de vida selvagem na região do Zambeze.", fr: "Une zone unique de passage pour la faune sauvage dans la région du Zambèze."},
     facts: {
       de: ["Teil des KAZA-Parks", "Elefantenkorridor", "Reiche Vegetation", "Flusslandschaften"],
@@ -946,7 +935,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-ZK",
     coords: [23.40, -18.15],
     name: { de: "Mudumu Nationalpark", hu: "Mudumu Nemzeti Park", ro: "Parcul Național Mudumu", en: "Mudumu National Park"},
-    image: "/poi-images/namibia-mudumu-animal-habitat-life-v2.webp",
     description: { de: "Ein Sumpf- und Waldgebiet reich an Großwild.", hu: "Nagyvadban gazdag mocsaras és erdős terület.", ro: "O zonă mlăștinoasă și împădurită bogată în vânat mare.", en: "A swamp and forest area rich in big game." , es: "Un área de pantanos y bosques rica en caza mayor.", pt: "Uma área de pântanos e florestas rica em caça de grande porte.", fr: "Une zone de marais et de forêts riche en grand gibier."},
     facts: {
       de: ["Am Kwando-Fluss", "Elefanten und Büffel", "Seltene Antilopen", "Ökotourismus"],
@@ -1104,7 +1092,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-ER",
     coords: [14.60, -22.75],
     name: { de: "Dorob Nationalpark", hu: "Dorob Nemzeti Park", ro: "Parcul Național Dorob", en: "Dorob National Park"},
-    image: "/poi-images/namibia-dorob-animal-habitat-life-v2.webp",
     description: { de: "Ein Küstenpark, bekannt für seine Wüstenökologie.", hu: "Parti park, ismert a sivatagi ökológiájáról.", ro: "Un parc de coastă, cunoscut pentru ecologia sa deșertică.", en: "A coastal park, known for its desert ecology." , es: "Un parque costero conocido por su ecología del desierto.", pt: "Um parque costeiro conhecido pela sua ecologia do deserto.", fr: "Un parc côtier célèbre pour son écologie désertique."},
     facts: {
       de: ["Küsten-Dünenlandschaft", "Zugvögel", "Wüstenpflanzen", "Sportfischen"],
@@ -1145,7 +1132,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-KV",
     coords: [19.70, -18.00],
     name: { de: "Kavango Farmregion", hu: "Kavango Mezőgazdasági Régió", ro: "Regiunea Agricolă Kavango", en: "Kavango Farm Region"},
-    image: "/poi-images/namibia-kavango-agriculture-life-v2.webp",
     description: { de: "Landwirtschaftliche Siedlungen entlang des Kavango-Flusses.", hu: "Mezőgazdasági települések a Kavango folyó mentén.", ro: "Așezări agricole de-a lungul râului Kavango.", en: "Agricultural settlements along the Kavango river." , es: "Asentamientos agrícolas a lo largo del río Kavango.", pt: "Povoados agrícolas ao longo do rio Kavango.", fr: "Établissements agricoles le long du fleuve Kavango."},
     facts: {
       de: ["Subsistenzwirtschaft", "Mais- und Hirseanbau", "Fischfang", "Flussnahes Leben"],
@@ -1339,7 +1325,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-OS",
     coords: [16.65, -20.46],
     name: { de: "Otjiwarongo Viehregion", hu: "Otjiwarongo Állattartó Régió", ro: "Regiunea creșterii animalelor Otjiwarongo", en: "Otjiwarongo Cattle Region"},
-    image: "/poi-images/namibia-otjiwarongo-agriculture-life-v2.webp",
     description: { de: "Zentrum für Viehzucht und landwirtschaftliche Forschung.", hu: "Központ az állattenyésztéshez és mezőgazdasági kutatáshoz.", ro: "Centru pentru creșterea animalelor și cercetare agricolă.", en: "Center for cattle farming and agricultural research." , es: "Centro de cría de ganado e investigación agrícola.", pt: "Centro de pecuária e investigação agrícola.", fr: "Centre d'élevage de bétail et de recherche agricole."},
     facts: {
       de: ["Geparden-Schutz", "Großviehhaltung", "Wirtschaftliches Zentrum", "Gute Infrastruktur"],
@@ -1380,7 +1365,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-HA",
     coords: [19.50, -24.00],
     name: { de: "Kalahari Wüstenreservat", hu: "Kalahári Sivatagi Rezervátum", ro: "Rezervația deșertului Kalahari", en: "Kalahari Desert Reserve"},
-    image: "/poi-images/namibia-kalahari-animal-habitat-life-v2.webp",
     description: { de: "Ein Teil des Kalahari-Beckens mit spezialisierten Tierarten.", hu: "A Kalahári-medence része specializálódott állatfajokkal.", ro: "O parte a bazinului Kalahari cu specii de animale specializate.", en: "A part of the Kalahari basin with specialized animal species." , es: "Parte de la cuenca del Kalahari con especies animales especializadas.", pt: "Parte da bacia do Kalahari com espécies animais especializadas.", fr: "Partie du bassin du Kalahari abritant des espèces animales spécialisées."},
     facts: {
       de: ["Rote Sanddünen", "Springböcke", "Löwen und Erdmännchen", "Trockene Savanne"],
@@ -1502,7 +1486,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-KA",
     coords: [17.50, -27.50],
     name: { de: "Fish River Canyon Park", hu: "Fish River Kanyon Park", ro: "Parcul Fish River Canyon", en: "Fish River Canyon Park"},
-    image: "/poi-images/namibia-fish-river-animal-habitat-life-v2.webp",
     description: { de: "Ein gigantischer Canyon mit einzigartiger Tierwelt.", hu: "Gigantikus kanyon egyedülálló vadvilággal.", ro: "Un canion gigantic cu o faună unică.", en: "A gigantic canyon with unique wildlife." , es: "Un cañón gigantesco con una fauna única.", pt: "Um canhão gigantesco com uma vida selvagem única.", fr: "Un canyon gigantesque abritant une faune unique."},
     facts: {
       de: ["Zweitgrößter Canyon", "Wüstensteinböcke", "Raubvögel", "Spektakuläre Geologie"],
@@ -1543,7 +1526,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-HA",
     coords: [17.96, -24.63],
     name: { de: "Mariental Agrarzentrum", hu: "Mariental Agrárközpont", ro: "Centrul Agricol Mariental", en: "Mariental Agricultural Hub"},
-    image: "/poi-images/namibia-mariental-agriculture-life-v2.webp",
     description: { de: "Zentrum für Bewässerungsfeldbau und Viehwirtschaft.", hu: "Központ az öntözéses földműveléshez és állattenyésztéshez.", ro: "Centru pentru agricultura irigată și creșterea animalelor.", en: "Center for irrigation farming and livestock industry." , es: "Centro para la agricultura de riego y la ganadería.", pt: "Centro para a agricultura de irrigação e pecuária.", fr: "Centre de l'agriculture irriguée et de l'élevage."},
     facts: {
       de: ["Weinbauprojekte", "Schafzucht", "Heißes Wüstenklima", "Bewässerungssysteme"],
@@ -1589,7 +1571,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-OS",
     coords: [16.15, -20.12],
     name: { de: "Outjo Landwirtschaftsgebiet", hu: "Outjo Mezőgazdasági Terület", ro: "Zona Agricolă Outjo", en: "Outjo Farming Area"},
-    image: "/poi-images/namibia-outjo-agriculture-life-v2.webp",
     description: { de: "Wichtige Region für Viehhandel und Landwirtschaft.", hu: "Fontos régió állatkereskedelemhez és mezőgazdasághoz.", ro: "Regiune importantă pentru comerțul cu animale și agricultură.", en: "Important region for livestock trade and farming." , es: "Región importante para el comercio de ganado y la agricultura.", pt: "Região importante para o comércio de gado e agricultura.", fr: "Région importante pour le commerce du bétail et l'agriculture."},
     facts: {
       de: ["Viehmärkte", "Gemüse- und Obstbau", "Zugang zum Etosha-Park", "Landwirtschaftliche Messen"],
@@ -1630,7 +1611,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-KV",
     coords: [19.76, -17.92],
     name: { de: "Rundu Agrarregion", hu: "Rundu Agrárrégió", ro: "Regiunea Agricolă Rundu", en: "Rundu Agricultural Region"},
-    image: "/poi-images/namibia-rundu-agriculture-life-v2.webp",
     description: { de: "Landwirtschaftliche Nutzung am Kavango-Fluss.", hu: "Mezőgazdasági hasznosítás a Kavango folyó mentén.", ro: "Utilizare agricolă pe râul Kavango.", en: "Agricultural use along the Kavango river." , es: "Uso agrícola a orillas del río Kavango.", pt: "Uso agrícola nas margens do rio Kavango.", fr: "Exploitation agricole sur les rives de la rivière Kavango."},
     facts: {
       de: ["Gemüseanbau an Flussauen", "Fischereikooperativen", "Markthandel", "Tropisches Flair"],
@@ -1716,7 +1696,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-HA",
     coords: [15.79, -24.49],
     name: { de: "Sesriem Canyon Erlebnis", hu: "Sesriem Kanyon Élmény", ro: "Experiența Canionului Sesriem", en: "Sesriem Canyon Adventure"},
-    image: "/poi-images/namibia-sesriem-kid-landmark-life-v2.webp",
     description: { de: "Ein kindgerechter Ort zur Erkundung von Gesteinsschichten.", hu: "Gyermekbarát hely kőzetrétegek felfedezésére.", ro: "Un loc prietenos pentru copii pentru explorarea straturilor de rocă.", en: "A kid-friendly place to explore rock layers." , es: "Un lugar adecuado para niños para la exploración de capas rocosas.", pt: "Um local adequado para crianças para a exploração de camadas rochosas.", fr: "Un lieu adapté aux enfants pour explorer les couches rocheuses."},
     facts: {
       de: ["Wanderungen im Canyon", "Geologische Entdeckungen", "Kühlender Schatten", "Abenteuerpfade"],
@@ -1757,7 +1736,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-ER",
     coords: [14.50, -22.95],
     name: { de: "Walvis Bay Flamingopark", hu: "Walvis Bay Flamingópark", ro: "Parcul Flamingilor Walvis Bay", en: "Walvis Bay Flamingo Park"},
-    image: "/poi-images/namibia-walvis-bay-kid-landmark-life-v2.webp",
     description: { de: "Ein Lagunengebiet, berühmt für seine Flamingos.", hu: "Lagunaterület, híres a flamingóiról.", ro: "O zonă de lagună, faimoasă pentru flamingo.", en: "A lagoon area, famous for its flamingos." , es: "Un área de laguna famosa por sus flamencos.", pt: "Uma área de laguna famosa pelos seus flamingos.", fr: "Une zone lagunaire célèbre pour ses flamants roses."},
     facts: {
       de: ["Tausende Flamingos", "Beobachtungsplattformen", "Vogelwelt", "Lagunen-Ökosystem"],
@@ -1879,7 +1857,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-OT",
     coords: [20.50, -19.60],
     name: { de: "Tsumkwe San-Kulturzentrum", hu: "Tsumkwe San Kulturális Központ", ro: "Centrul Cultural San Tsumkwe", en: "Tsumkwe San Cultural Center"},
-    image: "/poi-images/namibia-tsumkwe-kid-landmark-life-v2.webp",
     description: { de: "Ein Ort zum Kennenlernen der Traditionen der San.", hu: "Hely a szan hagyományok megismerésére.", ro: "Un loc pentru a cunoaște tradițiile San.", en: "A place to learn about San traditions." , es: "Un lugar para conocer las tradiciones de los San.", pt: "Um local para conhecer as tradições dos San.", fr: "Un lieu pour découvrir les traditions des San."},
     facts: {
       de: ["Kultureller Austausch", "Traditionelle Spiele", "Spurensuche-Lernen", "Bildung"],
@@ -1920,7 +1897,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-KA",
     coords: [15.15, -26.65],
     name: { de: "Lüderitz Koloniale Geschichte", hu: "Lüderitz Gyarmati Történelem", ro: "Istorie Colonială Lüderitz", en: "Lüderitz Colonial History"},
-    image: "/poi-images/namibia-luderitz-kid-landmark-life-v2.webp",
     description: { de: "Eine Hafenstadt mit faszinierender Architektur für Kinder.", hu: "Kikötőváros lenyűgöző építészettel gyerekeknek.", ro: "Oraș portuar cu arhitectură fascinantă pentru copii.", en: "A port town with fascinating architecture for kids." , es: "Una ciudad portuaria con una arquitectura fascinante para los niños.", pt: "Uma cidade portuária com uma arquitetura fascinante para as crianças.", fr: "Une ville portuaire à l'architecture fascinante pour les enfants."},
     facts: {
       de: ["Historische Gebäude", "Hafenbesichtigung", "Küstenspaziergänge", "Wüstenstadt"],
@@ -1961,7 +1937,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-ZK",
     coords: [24.00, -17.50],
     name: { de: "Caprivi Wildtiergebiet", hu: "Caprivi Vadvédelmi Terület", ro: "Zona de faună sălbatică Caprivi", en: "Caprivi Wildlife Area"},
-    image: "/poi-images/namibia-caprivi-animal-habitat-life-v2.webp",
     description: { de: "Ein feuchtes Wildgebiet im Norden Namibias.", hu: "Nedves vadterület Namíbia északon.", ro: "O zonă umedă de faună în nordul Namibiei.", en: "A wet wildlife area in northern Namibia." , es: "Una zona de vida silvestre húmeda en el norte de Namibia.", pt: "Uma área de vida selvagem húmida no norte da Namíbia.", fr: "Une zone de vie sauvage humide dans le nord de la Namibie."},
     facts: {
       de: ["Flusslandschaften", "Großwild", "Reiche Flora", "Ökologische Vielfalt"],
@@ -2047,7 +2022,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-ER",
     coords: [14.50, -20.50],
     name: { de: "Damaraland Wüsten-Elefanten", hu: "Damaraland Sivatagi Elefántok", ro: "Elefanții de deșert din Damaraland", en: "Damaraland Desert Elephants"},
-    image: "/poi-images/namibia-damaraland-animal-habitat-life-v2.webp",
     description: { de: "Heimat der seltenen, an die Wüste angepassten Elefanten.", hu: "A ritka, sivataghoz alkalmazkodott elefántok otthona.", ro: "Casa rariilor elefanți adaptați la deșert.", en: "Home to the rare, desert-adapted elephants." , es: "Hogar de los raros elefantes adaptados al desierto.", pt: "Lar dos raros elefantes adaptados ao deserto.", fr: "Territoire des rares éléphants adaptés au désert."},
     facts: {
       de: ["Wüstenangepasste Elefanten", "Felszeichnungen", "Spektakuläre Berglandschaften", "Seltene Tierarten"],
@@ -2565,7 +2539,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-ER",
     coords: [15.17, -21.83],
     name: { de: "Spitzkoppe Abenteuerfels", hu: "Spitzkoppe Kaland-szikla", ro: "Stânca de aventură Spitzkoppe", en: "Spitzkoppe Adventure Rock"},
-    image: "/poi-images/namibia-spitzkoppe-kid-landmark-life-v2.webp",
     description: { de: "Ein Kletterparadies für Kinder und Familien.", hu: "Mászóparadicsom gyerekeknek és családoknak.", ro: "Un paradis al cățărării pentru copii și familii.", en: "A climbing paradise for kids and families." , es: "Un paraíso de escalada para niños y familias.", pt: "Um paraíso de escalada para crianças e famílias.", fr: "Un paradis de l'escalade pour les enfants et les familles."},
     facts: {
       de: ["Natürliche Felsbögen", "Einfache Kletterstellen", "Campingmöglichkeiten", "Wüstenfotografie"],
@@ -2606,7 +2579,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     parent: "NA-KV",
     coords: [20.00, -17.80],
     name: { de: "Okavango Delta-Nähe Region", hu: "Okavango-delta közeli Régió", ro: "Regiunea din apropierea Deltei Okavango", en: "Okavango Delta Proximity Region"},
-    image: "/poi-images/namibia-okavango-agriculture-life-v2.webp",
     description: { de: "Landwirtschaft an den Ausläufern des Okavango-Flusssystems.", hu: "Mezőgazdaság az Okavango-folyórendszer végződéseinél.", ro: "Agricultură la poalele sistemului fluvial Okavango.", en: "Farming at the foothills of the Okavango river system." , es: "Agricultura en las proximidades del sistema fluvial del Okavango.", pt: "Agricultura nas proximidades do sistema fluvial do Okavango.", fr: "Agriculture aux abords du système fluvial de l'Okavango."},
     facts: {
       de: ["Traditioneller Ackerbau", "Bewässerung durch den Fluss", "Gemüsegärten", "Ländliche Entwicklung"],

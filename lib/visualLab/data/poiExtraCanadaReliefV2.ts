@@ -89,7 +89,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-BC",
     coords: [-125.0, 54.0],
     name: { de: "Coast Mountains", hu: "Parti-hegység", ro: "Munții Coastei", en: "Coast Mountains"},
-    image: "/poi-images/coast-mountains-relief-v2.webp",
     description: { 
       de: "Die Coast Mountains erstrecken sich entlang der Pazifikküste Kanadas und bilden eine imposante Barriere aus Gipfeln und Fjorden.", 
       hu: "Brit Columbia nyugati partja mentén húzódik hatalmas hegylánc, amely sűrű erdőkkel és gleccserekkel tarkított.", 
@@ -213,7 +212,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-QC",
     coords: [-74.0, 47.0],
     name: { de: "Laurentinische Berge", hu: "Laurentides-hegység", ro: "Munții Laurentian", en: "Laurentian Mountains"},
-    image: "/poi-images/laurentian-mountains-relief-v2.webp",
     description: { 
       de: "Die Laurentinischen Berge in Québec gehören zu den ältesten Gebirgsketten der Welt und sind ein beliebtes Ganzjahres-Erholungsgebiet.", 
       hu: "Québec tartomány déli részén elhelyezkedő ősi hegység, amely népszerű üdülőövezet és síparadicsom.", 
@@ -409,7 +407,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-AB",
     coords: [-117.2, 52.1],
     name: { de: "Columbia-Eisfeld", hu: "Columbia-jégmező", ro: "Câmpul de gheață Columbia", en: "Columbia Icefield"},
-    image: "/poi-images/columbia-icefield-relief-v2.webp",
     description: { 
       de: "Das Columbia-Eisfeld ist die größte zusammenhängende Eismasse in den Rocky Mountains südlich des Polarkreises.", 
       hu: "A Sziklás-hegység legnagyobb jégmezője Alberta és Brit Columbia határán, amely hat jelentős gleccsert táplál.", 
@@ -452,7 +449,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-NT",
     coords: [-128.0, 63.5],
     name: { de: "Mackenzie-Gebirge", hu: "Mackenzie-hegység", ro: "Munții Mackenzie", en: "Mackenzie Mountains"},
-    image: "/poi-images/mackenzie-mountains-relief-v2.webp",
     description: { 
       de: "Diese wilden und abgelegenen Berge im Norden Kanadas bilden die Grenze zwischen Yukon und den Northwest Territories.", 
       hu: "Yukon és az Északnyugati területek határán húzódó vadregényes hegység, amely Kanada egyik legérintetlenebb vidéke.", 
@@ -612,7 +608,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-NL",
     coords: [-64.0, 59.0],
     name: { de: "Torngatberge", hu: "Torngat-hegység", ro: "Munții Torngat", en: "Torngat Mountains"},
-    image: "/poi-images/torngat-mountains-relief-v2.webp",
     description: { 
       de: "Die Torngat-Berge an der Küste von Labrador sind die höchsten Gipfel Kanadas östlich der Rocky Mountains.", 
       hu: "Labrador-félsziget északi részén található hegység, amely meredek fjordjairól és kopár, fenséges csúcsairól ismert.", 
@@ -1420,7 +1415,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-QC",
     coords: [-74.5, 46.2],
     name: { de: "Mont Tremblant", hu: "Mont Tremblant", ro: "Mont Tremblant", en: "Mont Tremblant"},
-    image: "/poi-images/mont-tremblant-relief-v2.webp",
     description: { 
       de: "Ein markanter Berg in den Laurentinischen Bergen, bekannt für sein großes Skiresort.", 
       hu: "Kiemelkedő hegy a Laurentides-hegységben, amely nagy síközpontjáról ismert.", 
@@ -1464,7 +1458,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-ON",
     coords: [-88.0, 52.0],
     name: { de: "Kanadischer Schild", hu: "Kanadai-pajzs", ro: "Scutul Canadian", en: "Canadian Shield"},
-    image: "/poi-images/canadian-shield-relief-v2.webp",
     description: { 
       de: "Eine riesige geologische Formation, die fast die Hälfte Kanadas bedeckt und extrem altes Gestein aufweist.", 
       hu: "Hatalmas geológiai képződmény, amely Kanada felét borítja, rendkívül ősi kőzetekkel.", 
@@ -2093,7 +2086,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-BC",
     coords: [-123.0, 49.8],
     name: { de: "Mount Garibaldi", hu: "Garibaldi-hegy", ro: "Muntele Garibaldi", en: "Mount Garibaldi"},
-    image: "/poi-images/mount-garibaldi-relief-v2.webp",
     description: { 
       de: "Ein potenziell aktiver Schichtvulkan in den Coast Mountains von British Columbia.", 
       hu: "Egy potenciálisan aktív rétegvulkán a kanadai Parti-hegységben.", 
@@ -2254,7 +2246,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-NU",
     coords: [-65.3, 66.5],
     name: { de: "Mount Thor", hu: "Thor-hegy", ro: "Muntele Thor", en: "Mount Thor"},
-    image: "/poi-images/mount-thor-relief-v2.webp",
     description: { 
       de: "Ein Berg auf der Baffininsel, berühmt für die höchste vertikale Felswand der Erde.", 
       hu: "Hegy a Baffin-szigeten, mely a Föld legmagasabb függőleges sziklafaláról híres.", 
@@ -2811,7 +2802,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-AB",
     coords: [-115.4, 51.1],
     name: { de: "Mount Rundle", hu: "Rundle-hegy", ro: "Muntele Rundle", en: "Mount Rundle"},
-    image: "/poi-images/mount-rundle-relief-v2.webp",
     description: { 
       de: "Ein ikonischer, keilförmiger Berg über Banff, der zu den meistfotografierten Gipfeln gehört.", 
       hu: "Egy ikonikus, ék alakú hegy Banff felett, amely a legtöbbet fotózott csúcsok közé tartozik.", 
@@ -3044,7 +3034,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-BC",
     coords: [-121.0, 49.5],
     name: { de: "Kaskadenkette (Kanada)", hu: "Kaszkád-hegység (Kanada)", ro: "Munții Cascadelor (Canada)", en: "Cascade Range (Canada)"},
-    image: "/poi-images/cascade-range-relief-v2.webp",
     description: { 
       de: "Der nördliche Ausläufer der Kaskadenkette reicht bis ins südliche British Columbia.", 
       hu: "A Kaszkád-hegység északi nyúlványa, amely kiterjed British Columbia déli részére.", 
@@ -3133,7 +3122,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-BC",
     coords: [-117.5, 50.5],
     name: { de: "Selkirk Mountains", hu: "Selkirk-hegység", ro: "Munții Selkirk", en: "Selkirk Mountains"},
-    image: "/poi-images/selkirk-mountains-relief-v2.webp",
     description: { 
       de: "Eine schroffe Gebirgskette in British Columbia, berühmt für tiefen Schnee und Heliskiing.", 
       hu: "Zord hegylánc British Columbiában, amely mély haváról és a helisízésről híres.", 
@@ -3177,7 +3165,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-YT",
     coords: [-139.0, 60.5],
     name: { de: "Elias-Kette", hu: "Szent Elias-hegység", ro: "Munții Saint Elias", en: "St. Elias Mountains"},
-    image: "/poi-images/st-elias-mountains-relief-v2.webp",
     description: { 
       de: "Das höchste Gebirge Kanadas im Yukon, geprägt von massiven Gletschern und Eisfeldern.", 
       hu: "Kanada legmagasabb hegysége Yukonban, hatalmas gleccserek és jégmezők borítják.", 
@@ -3266,7 +3253,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-AB",
     coords: [-112.5, 51.5],
     name: { de: "Alberta Badlands", hu: "Alberta Badlands", ro: "Badlands din Alberta", en: "Alberta Badlands"},
-    image: "/poi-images/alberta-badlands-relief-v2.webp",
     description: { 
       de: "Eine wüstenartige Landschaft voller Canyons und Schluchten, bekannt für reiche Dinosaurierfunde.", 
       hu: "Sivatagos, kanyonokkal szabdalt táj, amely gazdag dinoszaurusz-leleteiről ismert.", 
@@ -3310,7 +3296,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-BC",
     coords: [-116.5, 50.0],
     name: { de: "Purcell Mountains", hu: "Purcell-hegység", ro: "Munții Purcell", en: "Purcell Mountains"},
-    image: "/poi-images/purcell-mountains-relief-v2.webp",
     description: { 
       de: "Ein Gebirgszug westlich der Rocky Mountains, bekannt für malerische alpine Seen und Granitgipfel.", 
       hu: "Hegylánc a Sziklás-hegységtől nyugatra, festői alpesi tavakkal és gránitcsúcsokkal.", 
@@ -3507,7 +3492,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-BC",
     coords: [-118.5, 51.0],
     name: { de: "Monashee Mountains", hu: "Monashee-hegység", ro: "Munții Monashee", en: "Monashee Mountains"},
-    image: "/poi-images/monashee-mountains-relief-v2.webp",
     description: { 
       de: "Ein dicht bewaldetes Gebirge in British Columbia, bekannt für reiche Mineralvorkommen.", 
       hu: "Sűrűn erdősült hegység British Columbiában, gazdag ásványkincseiről ismert.", 
@@ -3848,7 +3832,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-SK",
     coords: [-109.9, 49.6],
     name: { de: "Cypress Hills", hu: "Cypress Hills", ro: "Colinele Cypress", en: "Cypress Hills"},
-    image: "/poi-images/cypress-hills-relief-v2.webp",
     description: { 
       de: "Ein markantes Hochplateau, das aus der umliegenden Prärie von Saskatchewan und Alberta herausragt.", 
       hu: "Kiemelkedő magasföld, amely kiemelkedik Saskatchewan és Alberta környező prérijéből.", 
@@ -3937,7 +3920,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-BC",
     coords: [-120.0, 53.0],
     name: { de: "Cariboo Mountains", hu: "Cariboo-hegység", ro: "Munții Cariboo", en: "Cariboo Mountains"},
-    image: "/poi-images/cariboo-mountains-relief-v2.webp",
     description: { 
       de: "Der nördlichste Teil der Columbia Mountains, bekannt für unberührte Wildnis und tiefe Täler.", 
       hu: "A Columbia-hegység legészakibb része, érintetlen vadonról és mély völgyeiről ismert.", 
@@ -3981,7 +3963,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-YT",
     coords: [-138.0, 64.5],
     name: { de: "Ogilvie Mountains", hu: "Ogilvie-hegység", ro: "Munții Ogilvie", en: "Ogilvie Mountains"},
-    image: "/poi-images/ogilvie-mountains-relief-v2.webp",
     description: { 
       de: "Ein Gebirge im Yukon nördlich von Dawson City, das vom Dempster Highway durchquert wird.", 
       hu: "Hegység Yukonban Dawson Citytől északra, a Dempster Highway szeli át.", 
@@ -4025,7 +4006,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-NU",
     coords: [-70.0, 69.0],
     name: { de: "Baffinberge", hu: "Baffin-hegység", ro: "Munții Baffin", en: "Baffin Mountains"},
-    image: "/poi-images/baffin-mountains-relief-v2.webp",
     description: { 
       de: "Ein eisbedeckter Gebirgszug auf der Baffininsel, der zur Arktischen Kordillere gehört.", 
       hu: "Jéggel borított hegylánc a Baffin-szigeten, az Északi-sarkvidéki Kordillerák része.", 
@@ -4330,7 +4310,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-QC",
     coords: [-66.0, 48.9],
     name: { de: "Chic-Choc-Berge", hu: "Chic-Chocs-hegység", ro: "Munții Chic-Chocs", en: "Chic-Choc Mountains"},
-    image: "/poi-images/chic-choc-mountains-relief-v2.webp",
     description: { 
       de: "Ein stark erodierter Gebirgszug auf der Gaspésie-Halbinsel, Teil der Appalachen.", 
       hu: "Erősen lepusztult hegylánc a Gaspé-félszigeten, az Appalache-hegység része.", 
@@ -4887,7 +4866,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-BC",
     coords: [-117.4, 51.3],
     name: { de: "Mount Sir Donald", hu: "Sir Donald-hegy", ro: "Muntele Sir Donald", en: "Mount Sir Donald"},
-    image: "/poi-images/mount-sir-donald-relief-v2.webp",
     description: { 
       de: "Ein markanter, pyramidenförmiger Gipfel im Glacier-Nationalpark in British Columbia.", 
       hu: "Egy kiemelkedő, piramis alakú csúcs a Glacier Nemzeti Parkban, British Columbiában.", 
@@ -5588,7 +5566,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-NL",
     coords: [-57.8, 49.6],
     name: { de: "Gros Morne Mountain", hu: "Gros Morne-hegy", ro: "Muntele Gros Morne", en: "Gros Morne Mountain"},
-    image: "/poi-images/gros-morne-mountain-relief-v2.webp",
     description: { 
       de: "Ein karger, flach abfallender Berg in Neufundland, der durch Gletschereis geformt wurde.", 
       hu: "Kopár, lapos hegy Új-Fundlandon, amelyet jégkorszaki gleccserek formáltak.", 
@@ -5929,7 +5906,6 @@ export const poiExtraCanadaReliefV2: POI[] = [
     parent: "CA-AB",
     coords: [-115.5, 51.2],
     name: { de: "Cascade Mountain", hu: "Cascade-hegy", ro: "Muntele Cascade", en: "Cascade Mountain"},
-    image: "/poi-images/cascade-mountain-relief-v2.webp",
     description: { 
       de: "Ein massiver Berg, der direkt über der Stadt Banff thront und ein klassisches Postkartenmotiv ist.", 
       hu: "Egy hatalmas hegy, amely közvetlenül Banff városa fölé magasodik; klasszikus képeslap-motívum.", 

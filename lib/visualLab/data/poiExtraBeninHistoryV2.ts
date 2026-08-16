@@ -409,14 +409,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
             }
       ]
 },
-    parent: "BJ",
-    description: "These UNESCO-listed earthen structures were built by the Fon people between 1625 and 1900. They served as the seat of the Kingdom of Dahomey.",
-    facts: [
-      "Built 1625-1900",
-      "UNESCO World Heritage site",
-      "Fon Kingdom capital",
-      "Made of clay and earth"
-],
     type: "historical",
     parent: "BJ-ZO",
     coords: [1.99, 7.18],
@@ -425,7 +417,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
       hu: "Abomey királyi palotái",
       ro: "Palatele regale din Abomey",
       en: "Royal Palaces of Abomey"},
-    image: "/poi-images/royal-palaces-abomey-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Königspaläste von Abomey bilden das historische Herz des ehemaligen Königreichs Dahomey, das zwischen 1625 und 1900 eines der mächtigsten Reiche Westafrikas war. Die weitläufige Anlage erstreckt sich über eine Fläche von etwa 47 Hektar und besteht aus zehn Palastkomplexen, die von den aufeinanderfolgenden Herrschern der Fon-Dynastie errichtet wurden. Diese Bauwerke wurden traditionell aus Lehmziegeln gefertigt und mit kunstvollen Basreliefs verziert, die militärische Siege und die Symbole der jeweiligen Könige darstellen. Im Jahr 1985 wurden die Paläste in die Liste des UNESCO-Weltkulturerbes aufgenommen, da sie ein außergewöhnliches Zeugnis einer organisierten Gesellschaft und einer verschwundenen Zivilisation darstellen. Trotz der teilweisen Zerstörung durch Feuer während der französischen Kolonialkriege im Jahr 1892 blieben wesentliche Strukturen erhalten. Heute beherbergt der Komplex ein bedeutendes historisches Museum, das Throne, Waffen und zeremonielle Gewänder ausstellt. Die Paläste fungieren weiterhin als spirituelle Zentren für die lokale Bevölkerung und bewahren die Traditionen des Ahnenkults.",
       hu: "Az abomey-i királyi paloták az egykori Dahomey Királyság történelmi központját alkotják, amely 1625 és 1900 között Nyugat-Afrika egyik legbefolyásosabb állama volt. A mintegy 47 hektáros területen elterülő komplexum tíz palotából áll, amelyeket a fon dinasztia egymást követő uralkodói építettek saját udvartartásuk számára. Az épületeket hagyományos vályogtéglából emelték, falaikat pedig színes domborművek díszítik, amelyek a királyok győzelmeit és hatalmi jelképeit örökítik meg. Az UNESCO 1985-ben vette fel a helyszínt a világörökségi listára, mint az eltűnt civilizáció és a szervezett társadalmi struktúra egyedülálló tanúságát. Bár a francia gyarmati harcok során 1892-ben a paloták egy része tűzvész áldozata lett, a legfontosabb szerkezetek fennmaradtak. Ma a terület történelmi múzeumnak ad otthont, ahol trónokat, fegyvereket és szertartási öltözékeket őriznek. A paloták napjainkban is fontos szakrális helyszínek, ahol a helyi közösségek továbbra is ápolják az ősi rituálékat és az ősök tiszteletét.",
@@ -654,14 +645,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
             }
       ]
 },
-    parent: "BJ",
-    description: "This memorial site in Ouidah commemorates the millions of enslaved people deported from the coast. It serves as a somber monument to human history.",
-    facts: [
-      "Located in Ouidah",
-      "Slave trade memorial",
-      "Symbol of forced departure",
-      "Historic coastal site"
-],
     type: "historical",
     parent: "BJ-AQ",
     coords: [2.091, 6.324],
@@ -670,7 +653,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
       hu: "A visszatérés nélküli kapu",
       ro: "Poarta fără întoarcere",
       en: "The Door of No Return"},
-    image: "/poi-images/door-no-return-ouidah-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Pforte ohne Wiederkehr (La Porte du Non-Retour) in Ouidah ist ein monumentales Denkmal, das an die Millionen von Afrikanern erinnert, die während des transatlantischen Sklavenhandels gewaltsam verschifft wurden. Das 1992 in Zusammenarbeit mit der UNESCO errichtete Bauwerk steht am Strand an der Stelle, von der aus die Sklavenschiffe in Richtung Amerika ablegten. Die Architektur des Bogens ist mit Bronzereliefs verziert, die angekettete Menschen zeigen, die zum Meer geführt werden, was die schmerzhafte Geschichte dieses Ortes visualisiert. Ouidah war zwischen dem 17. und 19. Jahrhundert einer der bedeutendsten Sklavenhäfen am Golf von Guinea, wobei schätzungsweise über eine Million Menschen von hier aus deportiert wurden. Das Denkmal bildet den Abschluss der Sklavenroute (Route des Esclaves), eines vier Kilometer langen Weges, der die letzten Stationen der Gefangenen auf afrikanischem Boden markiert. Jährlich finden hier Zeremonien statt, insbesondere am 10. Januar zum Nationalen Voodoo-Tag, um der Vorfahren zu gedenken. Die Stätte dient heute als Ort der Besinnung, der Versöhnung und der internationalen Bildungsarbeit über die Geschichte der Sklaverei.",
       hu: "A Visszatérés Kapuja (La Porte du Non-Retour) Ouidah városában egy monumentális emlékmű, amely annak a több millió afrikainak állít emléket, akiket a transzatlanti rabszolga-kereskedelem során erőszakkal elhurcoltak. Az 1992-ben az UNESCO-val együttműködésben emelt építmény azon a tengerparti szakaszon áll, ahonnan a rabszolgahajók kifutottak az Amerika felé tartó útra. Az íves kaput bronz domborművek díszítik, amelyek láncra vert, a tenger felé vonuló embereket ábrázolnak, érzékeltetve a helyszín tragikus múltját. Ouidah a 17. és 19. század között a Guineai-öböl egyik legfontosabb rabszolgakikötője volt, ahonnan becslések szerint több mint egymillió embert deportáltak. Az emlékmű a Rabszolgák Útja (Route des Esclaves) végpontja, amely egy négy kilométeres útvonal a foglyok utolsó afrikai állomásain keresztül. Minden évben ünnepélyes megemlékezéseket tartanak itt, különösen január 10-én, a nemzeti vudu napon, hogy adózzanak az ősök emlékének. A helyszín ma a reflexió, a megbékélés és a rabszolgaság történetével kapcsolatos nemzetközi oktatómunka fontos központja.",
@@ -743,14 +725,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
             }
       ]
 },
-    parent: "BJ",
-    description: "An important spiritual site in Ouidah where pythons are held sacred by the local religion. It attracts visitors interested in West African voodoo traditions.",
-    facts: [
-      "Sacred snake site",
-      "Ouidah spiritual landmark",
-      "Voodoo tradition link",
-      "Protected python sanctuary"
-],
     type: "historical",
     parent: "BJ-AQ",
     coords: [2.085, 6.362],
@@ -759,7 +733,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
       hu: "A pitonok temploma",
       ro: "Templul Pitonilor",
       en: "Temple of Pythons"},
-    image: "/poi-images/temple-pythons-ouidah-history-v2.webp",
     descriptionAdvanced: {
       de: "Der Python-Tempel in Ouidah ist eine der bedeutendsten religiösen Stätten Benins und ein zentrales Heiligtum des Voodoo-Glaubens. Er ist Dangbé gewidmet, der heiligen Python-Gottheit, die in der lokalen Tradition als Symbol für Fruchtbarkeit, Schutz und Weisheit verehrt wird. Der Legende nach geht der Kult auf das 18. Jahrhundert zurück, als ein lokaler Herrscher während eines Krieges Zuflucht in einem Wald suchte und von Pythons geschützt wurde. In der zentralen Kammer des Tempels leben etwa 50 bis 60 Königspythons, die von den Priestern gepflegt werden und sich frei auf dem Tempelgelände bewegen dürfen. Diese Schlangen gelten als harmlos und heilig; es ist streng verboten, sie zu verletzen oder zu töten. Einmal alle sieben Jahre findet eine große Reinigungszeremonie statt, bei der die Pythons rituell geehrt werden. Der Tempel steht direkt gegenüber der katholischen Basilika von Ouidah, was das friedliche Nebeneinander von traditionellem afrikanischem Glauben und dem Christentum in Benin verdeutlicht. Besucher können die Anlage besichtigen und mehr über die komplexe Symbolik und die jahrhundertealten Rituale erfahren, die bis heute praktiziert werden.",
       hu: "A ouidah-i Piton-templom Benin egyik legfontosabb vallási helyszíne és a vudu hit központi szentélye. A templomot Dangbének, a szent pitonistennek szentelték, aki a helyi hagyományban a termékenység, a védelem és a bölcsesség szimbóluma. A legenda szerint a kultusz a 18. századra nyúlik vissza, amikor egy helyi uralkodó a háború elől egy erdőbe menekült, ahol pitonok nyújtottak neki oltalmat. A templom központi kamrájában körülbelül 50-60 királypiton él, akiket a papok gondoznak, és szabadon mozoghatnak a szentély területén. Ezek a kígyók ártalmatlanok és szentnek számítanak; szigorúan tilos bántani vagy megölni őket. Hétévente egyszer nagyszabású tisztító szertartást tartanak, amelyen rituálisan hódolnak a pitonok előtt. A templom közvetlenül a ouidah-i katolikus bazilikával szemben található, ami jól szemlélteti a hagyományos afrikai hit és a kereszténység békés egymás mellett élését Beninben. A látogatók megismerhetik a pitonkultusz összetett szimbolikáját és azokat a több évszázados rituálékat, amelyeket a közösség a mai napig gyakorol.",
@@ -832,14 +805,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
             }
       ]
 },
-    parent: "BJ",
-    description: "Constructed in 1721, this fort was a significant base for the Portuguese slave trade in the region. It now functions as a historical museum.",
-    facts: [
-      "Built in 1721",
-      "Ouidah historic site",
-      "Former trading post",
-      "Museum of regional history"
-],
     type: "historical",
     parent: "BJ-AQ",
     coords: [2.084, 6.365],
@@ -848,7 +813,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
       hu: "Portugál erőd",
       ro: "Fortul Portughez",
       en: "Portuguese Fort"},
-    image: "/poi-images/portuguese-fort-ouidah-history-v2.webp",
     descriptionAdvanced: {
       de: "Das portugiesische Fort São João Baptista de Ajudá in Ouidah ist ein historisches Denkmal, das die koloniale Präsenz und den transatlantischen Sklavenhandel in Benin markiert. Errichtet im Jahr 1721, diente die Festung zunächst als Handelsstützpunkt für Gold und Elfenbein, entwickelte sich jedoch schnell zu einem der wichtigsten Zentren für die Verschiffung von Sklaven nach Brasilien. Mit einer Fläche von nur einem Hektar war es eines der kleinsten portugiesischen Überseegebiete und blieb kurioserweise bis 1961 unter portugiesischer Verwaltung, bevor es von der Regierung des unabhängigen Dahomey annektiert wurde. Die Architektur folgt dem klassischen Stil europäischer Festungen mit dicken Mauern und Bastionen. Heute beherbergt das Fort das Historische Museum von Ouidah, das eine umfangreiche Sammlung von Dokumenten, Karten und Artefakten zur Geschichte der Stadt und des Sklavenhandels zeigt. Die Ausstellungen beleuchten die kulturellen Verbindungen zwischen Benin und der afro-brasilianischen Gemeinschaft, die durch die Rückkehr ehemaliger Sklaven entstanden sind. Das Fort ist ein schmerzhaftes Zeugnis der Vergangenheit, dient aber heute als Ort der Bildung und des interkulturellen Dialogs.",
       hu: "A ouidah-i São João Baptista de Ajudá portugál erőd egy történelmi emlékhely, amely a gyarmati jelenlétet és a transzatlanti rabszolga-kereskedelem korszakát idézi Beninben. Az 1721-ben épült erőd eredetileg arany- és elefántcsont-kereskedelmi állomásként szolgált, de hamarosan a Brazíliába irányuló rabszolga-szállítások egyik fő központjává vált. Alig egy hektáros területével ez volt az egyik legkisebb portugál tengerentúli terület, amely különös módon egészen 1961-ig portugál igazgatás alatt maradt, mielőtt a független Dahomey kormánya annektálta volna. Az építészet követi az európai erődök klasszikus stílusát vastag falakkal és bástyákkal. Ma az erőd a Ouidah Történeti Múzeumnak ad otthont, amely dokumentumok, térképek és műtárgyak széles választékát mutatja be a város és a rabszolga-kereskedelem történetéről. A kiállítások megvilágítják a Benin és az afro-brazil közösség közötti kulturális kapcsolatokat is, amelyek a korábbi rabszolgák visszatérésével alakultak ki. Az erőd a múlt fájdalmas mementója, amely ma az oktatás és a kultúrák közötti párbeszéd helyszíneként szolgál.",
@@ -1065,14 +1029,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
             }
       ]
 },
-    parent: "BJ",
-    description: "This museum, located in the former residence of King Toffa, showcases the history and monarchy of Porto-Novo. It provides insight into local royalty.",
-    facts: [
-      "Former king residence",
-      "Porto-Novo landmark",
-      "Showcases monarchy history",
-      "Important cultural museum"
-],
     type: "historical",
     parent: "BJ-OU",
     coords: [2.622, 6.471],
@@ -1081,7 +1037,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
       hu: "Honmè Múzeum",
       ro: "Muzeul Honmè",
       en: "Musée Honmè"},
-    image: "/poi-images/musee-honme-porto-novo-history-v2.webp",
     descriptionAdvanced: {
       de: "Das Musée Honmè in Porto-Novo befindet sich im ehemaligen Palast der Könige von Hogbonou, der Hauptstadt des gleichnamigen Königreichs. Die Anlage wurde im 19. Jahrhundert erweitert, insbesondere unter der Herrschaft von König Toffa (1874–1908), der für seine diplomatische Zusammenarbeit mit Frankreich bekannt war. Der Name 'Honmè' bedeutet in der lokalen Sprache Gun 'Innerhalb der Pforte' und bezieht sich auf die geschlossene Struktur des Palastes. Das Museum besteht aus einer Reihe von miteinander verbundenen Höfen und Lehmgebäuden, die Einblicke in das tägliche Leben, die Regierungsführung und die sakralen Bräuche der Dynastie bieten. Seit 1988 fungiert der Palast als Nationalmuseum und zeigt Sammlungen von rituellen Masken, Musikinstrumenten, religiösen Relikten und Fotografien der königlichen Familie. Besonders bemerkenswert sind die Ahnenaltäre und die architektonischen Details, die den Übergang zwischen traditionellen afrikanischen Formen und kolonialen Einflüssen dokumentieren. Das Musée Honmè ist ein bedeutendes Zeugnis der Geschichte Süd-Benins und bewahrt das kulturelle Erbe des Volkes der Gun.",
       hu: "A Porto-Novóban található Musée Honmè az egykori Hogbonou Királyság uralkodóinak palotájában kapott helyet. A komplexumot a 19. században bővítették ki jelentősen, különösen Toffa király uralkodása alatt (1874–1908), aki a Franciaországgal való diplomáciai együttműködéséről volt ismert. A 'Honmè' név a helyi gun nyelven 'a kapun belül'-t jelent, utalva a palota zárt és védett szerkezetére. A múzeum egymáshoz kapcsolódó udvarok és vályogépületek sorozatából áll, amelyek betekintést nyújtanak a dinasztia mindennapi életébe, a kormányzásba és a vallási szokásokba. A palota 1988 óta működik nemzeti múzeumként, bemutatva rituális maszkokat, hangszereket, vallási ereklyéket és a királyi családról készült fotókat. Különösen figyelemre méltóak az ősöknek állított oltárok és az építészeti részletek, amelyek a hagyományos afrikai formák és a gyarmati hatások közötti átmenetet dokumentálják. A Musée Honmè Dél-Benin történelmének fontos tanúja, és a gun nép kulturális örökségének őrzője.",
@@ -1109,14 +1064,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
   },
   {
     id: "great-mosque-porto-novo-history-v2",
-    parent: "BJ",
-    description: "This striking mosque is known for its unique Afro-Brazilian architectural style in Porto-Novo. It is a prominent feature of the city's religious landscape.",
-    facts: [
-      "Afro-Brazilian architecture",
-      "Porto-Novo religious site",
-      "Notable historic building",
-      "Central city landmark"
-],
     type: "historical",
     parent: "BJ-OU",
     coords: [2.625, 6.483],
@@ -1125,7 +1072,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
       hu: "Porto-Novo-i nagy mecset",
       ro: "Marea Moschee din Porto-Novo",
       en: "Great Mosque of Porto-Novo"},
-    image: "/poi-images/great-mosque-porto-novo-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Große Moschee von Porto-Novo ist eines der architektonisch markantesten Gebäude Westafrikas und ein Symbol für den kulturellen Austausch zwischen Afrika und Amerika. Das zwischen 1912 und 1925 errichtete Bauwerk besticht durch seinen einzigartigen afro-brasilianischen Stil, der an die Kathedralen von Salvador de Bahia erinnert. Diese Architektur wurde von den 'Agudas', zurückgekehrten ehemaligen Sklaven aus Brasilien, eingeführt und geprägt. Die Fassade ist reich mit Stuckarbeiten, floralen Motiven und leuchtenden Farben verziert, was für islamische Sakralbauten ungewöhnlich ist. Anstelle von Minaretten im nahöstlichen Stil weist die Moschee einen zentralen Turm auf, der eher an einen Glockenturm erinnert. Das Innere ist mit Holzschnitzereien und gemalten Details geschmückt, die die handwerkliche Meisterschaft der Erbauer widerspiegeln. Die Moschee dient bis heute als wichtigstes Gebetshaus für die muslimische Gemeinschaft der Stadt und wurde 2011 zum Nationaldenkmal erklärt. Sie steht exemplarisch für die religiöse Toleranz und die vielschichtige Geschichte der beninischen Hauptstadt.",
       hu: "A Porto-Novó-i nagymecset Nyugat-Afrika egyik építészetileg legkülönlegesebb épülete, az Afrika és Amerika közötti kulturális csere jelképe. Az 1912 és 1925 között emelt építmény egyedülálló afro-brazil stílusával tűnik ki, amely a brazíliai Salvador de Bahia katedrálisaira emlékeztet. Ezt az építészeti stílust az úgynevezett 'Agudák', a Brazíliából hazatért korábbi rabszolgák honosították meg. A homlokzatot gazdag stukkódíszítés, virágmotívumok és élénk színek jellemzik, ami szokatlan az iszlám szakrális építészetben. A hagyományos közel-keleti stílusú minaretek helyett a mecset egy központi toronnyal rendelkezik, amely inkább egy harangtoronyra hasonlít. A belső teret fafaragások és festett részletek díszítik, amelyek az építők magas szintű kézműves tudását tükrözik. A mecset a mai napig a város muszlim közösségének legfontosabb imaházaként szolgál, 2011-ben pedig nemzeti műemlékké nyilvánították. Jól példázza a vallási toleranciát és a benini főváros sokrétű történelmét.",
@@ -1414,14 +1360,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
             }
       ]
 },
-    parent: "BJ",
-    description: "A complex network of underground dwellings near Bohicon, thought to have been used by ancient inhabitants. It is a rare archeological site in Benin.",
-    facts: [
-      "Located near Bohicon",
-      "Ancient underground structures",
-      "Unique archeological site",
-      "Historical dwelling complex"
-],
     type: "historical",
     parent: "BJ-ZO",
     coords: [2.105, 7.158],
@@ -1430,7 +1368,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
       hu: "Agongointo föld alatti város",
       ro: "Orașul subteran Agongointo",
       en: "Agongointo Underground Town"},
-    image: "/poi-images/agongointo-underground-history-v2.webp",
     descriptionAdvanced: {
       de: "Die unterirdische Stadt von Agongointo-Zoungoudo bei Bohicon ist eine faszinierende archäologische Stätte, die erst 1998 während Straßenbauarbeiten entdeckt wurde. Das Netzwerk besteht aus etwa 52 unterirdischen Kellern und Wohnräumen, die vermutlich im 16. oder 17. Jahrhundert während der Herrschaft von König Dakodonou angelegt wurden. Diese künstlichen Höhlen dienten den Kriegern und der Zivilbevölkerung als Verstecke vor Feinden sowie zur Lagerung von Lebensmitteln. Die Räume sind in den roten Lateritboden gegraben und zeichnen sich durch ein konstantes Mikroklima aus, das Schutz vor der Hitze bot. Architektonisch sind die Keller durch schmale Zugangsschächte und miteinander verbundene Kammern gekennzeichnet, die oft über Belüftungsöffnungen verfügen. Heute ist die Stätte als archäologischer Park gestaltet, der Besuchern einen Einblick in die genialen Verteidigungsstrategien des alten Dahomey bietet. Agongointo ist ein einzigartiges Beispiel für höhlenartige Architektur in Westafrika und ein bedeutender Ort für die Erforschung der vorkolonialen Militärgeschichte der Region.",
       hu: "Az Agongointo-Zoungoudo föld alatti város Bohicon közelében egy lenyűgöző régészeti lelőhely, amelyet csak 1998-ban fedeztek fel útépítési munkálatok során. A hálózat körülbelül 52 föld alatti pincéből és lakóhelyiségből áll, amelyeket vélhetően a 16. vagy 17. században, Dakodonou király uralkodása alatt alakítottak ki. Ezek a mesterséges barlangok a harcosok és a civil lakosság számára szolgáltak rejtekhelyül az ellenség elől, valamint élelmiszer tárolására használták őket. A helyiségeket a vörös laterit talajba vájták, és állandó mikroklímájuk révén védelmet nyújtottak a hőség ellen. Építészetileg a pincéket szűk bejárati aknák és egymással összekapcsolt kamrák jellemzik, amelyek gyakran szellőzőnyílásokkal is rendelkeznek. Ma a helyszín régészeti parkként működik, amely betekintést nyújt a régi Dahomey zseniális védelmi stratégiáiba. Agongointo Nyugat-Afrika barlanglakásos építészetének egyedülálló példája és a régió gyarmatosítás előtti hadtörténetének fontos kutatási helyszíne.",
@@ -1575,14 +1512,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
             }
       ]
 },
-    parent: "BJ",
-    description: "The center of the Bariba kingdom's traditional authority, where the Gani festival is held annually. It remains a key cultural site in northern Benin.",
-    facts: [
-      "Bariba kingdom center",
-      "Located in Nikki",
-      "Home of Gani festival",
-      "Traditional power base"
-],
     type: "historical",
     parent: "BJ-BO",
     coords: [3.212, 9.931],
@@ -1591,7 +1520,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
       hu: "Nikki királyának palotája",
       ro: "Palatul Regelui din Nikki",
       en: "Palace of the King of Nikki"},
-    image: "/poi-images/palace-king-nikki-history-v2.webp",
     descriptionAdvanced: {
       de: "Der Palast des Königs von Nikki ist das geistige und politische Zentrum des Bariba-Volkes und der Sitz des mächtigen Königreichs Nikki im Nordosten Benins. Nikki ist historisch als eine der bedeutendsten Teilstreitkräfte der Wassangari-Dynastie bekannt, die eine komplexe soziale Hierarchie und Rittertradition pflegte. Der Palastkomplex ist der Ort, an dem jährlich das Gaani-Festival stattfindet, ein großes Fest der Kavallerie, der Treue und der kulturellen Identität. Während dieser Feierlichkeiten demonstrieren die Reiter des Königs ihre Geschicklichkeit, und lokale Herrscher huldigen dem Kaiser von Nikki (dem Sinaboko). Die Architektur des Palastes ist traditionell und funktional gestaltet, wobei offene Plätze für Versammlungen und Audienzen im Vordergrund stehen. Der Sinaboko gilt als moralische Autorität für die gesamte Bariba-Region, die über die Grenzen Benins bis nach Nigeria reicht. Besucher des Palastes müssen strenge Protokolle beachten, was die anhaltende Bedeutung der traditionellen Machtstrukturen unterstreicht. Die Stätte ist ein lebendiges Denkmal für die Widerstandsfähigkeit und den Stolz der nordbeninischen Kulturen.",
       hu: "A nikki királyi palota a bariba nép szellemi és politikai központja, az északkelet-benini hatalmas Nikki Királyság székhelye. Nikki történelmileg a Wassangari dinasztia egyik legjelentősebb ágaként ismert, amely összetett társadalmi hierarchiát és lovagi hagyományokat ápolt. A palotakomplexum ad otthont az évente megrendezett Gaani fesztiválnak, amely a lovasság, a hűség és a kulturális identitás nagyszabású ünnepe. Ezen ünnepségek során a király lovasai bemutatják ügyességüket, a helyi vezetők pedig hódolatukat fejezik ki Nikki császárának (a Sinabokónak). A palota építészete hagyományos és funkcionális, ahol a gyülekezésre és kihallgatásokra szolgáló nyitott terek dominálnak. A Sinaboko erkölcsi tekintély az egész bariba régióban, amely Benin határain túl Nigériába is átnyúlik. A palota látogatóinak szigorú protokollokat kell betartaniuk, ami hangsúlyozza a hagyományos hatalmi struktúrák tartós jelentőségét. A helyszín az észak-benini kultúrák ellenálló képességének és büszkeségének élő emlékműve.",
@@ -1916,14 +1844,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
             }
       ]
 },
-    parent: "BJ",
-    description: "Known as the legendary gate to the ancient city of Ketou, marking the traditional defense. It represents the history of the Yoruba culture in the area.",
-    facts: [
-      "Historic Ketou gate",
-      "Yoruba cultural landmark",
-      "Traditional city defense",
-      "Ancient gateway structure"
-],
     type: "historical",
     parent: "BJ-PL",
     coords: [2.599, 7.363],
@@ -2077,14 +1997,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
             }
       ]
 },
-    parent: "BJ",
-    description: "These distinctive, fortified mud-brick towers are unique to the Batammariba people in the Atakora mountains. They are recognized for their traditional defensive architecture.",
-    facts: [
-      "Batammariba tradition",
-      "Atakora region landmark",
-      "Fortified mud-brick design",
-      "UNESCO cultural heritage"
-],
     type: "historical",
     parent: "BJ-AK",
     coords: [1.383, 10.301],
@@ -2093,7 +2005,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
       hu: "Tata Somba házak",
       ro: "Casele Tata Somba",
       en: "Tata Somba Houses"},
-    image: "/poi-images/tata-somba-houses-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Tata Somba Häuser im Atakora-Gebirge im Norden Benins sind architektonische Meisterwerke des Somba-Volkes (auch bekannt als Ditammari). Diese zweistöckigen, burgähnlichen Lehmbauten, die lokal als 'Takienta' bezeichnet werden, dienten historisch sowohl als Wohnraum als auch als Verteidigungsanlage gegen Sklavenjäger und wilde Tiere. Das Erdgeschoss wird traditionell für die Unterbringung von Vieh und die Küche genutzt, während das Obergeschoss Wohnräume und Getreidespeicher beherbergt. Die charakteristischen Türme und die dicken Mauern aus Laterit und Stroh sorgen für eine hervorragende thermische Isolierung. Die Außenwände sind oft mit geometrischen Ritzmustern verziert, die eine tiefere spirituelle und soziale Bedeutung haben. Die Koutammakou-Region, in der diese Häuser stehen, wurde von der UNESCO zum Weltkulturerbe erklärt, da sie eine außergewöhnliche Harmonie zwischen Mensch und Natur darstellt. Die Tata Somba sind ein lebendiges Symbol für die kulturelle Eigenständigkeit und die handwerkliche Tradition Nordbenins.",
       hu: "Az észak-benini Atakora-hegységben található Tata Somba házak a somba nép (más néven ditammari) építészeti remekművei. Ezek a kétszintes, várszerű vályogépületek, amelyeket helyi nyelven 'Takienta'-nak neveznek, történelmileg lakóhelyként és védelmi bástyaként is szolgáltak a rabszolgavadászok és vadállatok ellen. A földszintet hagyományosan az állatok elszállásolására és konyhaként használják, míg az emeleten találhatók a lakószobák és a magtárak. A jellegzetes tornyok, valamint a lateritból és szalmából készült vastag falak kiváló hőszigetelést biztosítanak. A külső falakat gyakran geometrikus karcolt minták díszítik, amelyek mély spirituális és társadalmi jelentéssel bírnak. A Koutammakou régiót, ahol ezek a házak állnak, az UNESCO a világörökség részévé nyilvánította, mivel az ember és a természet közötti kivételes harmóniát reprezentálja. A Tata Somba házak Észak-Benin kulturális önállóságának és kézműves hagyományainak élő szimbólumai.",
@@ -2258,7 +2169,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
       hu: "Zomachi emlékmű",
       ro: "Monumentul Zomachi",
       en: "Zomachi Monument"},
-    image: "/poi-images/zomachi-monument-ouidah-history-v2.webp",
     description: {
       de: "Ein Denkmal in Ouidah, das Versöhnung und die ewige Flamme der Erinnerung an den Sklavenhandel symbolisiert.",
       hu: "Ouidah-ban található emlékmű, amely a megbékélést és a rabszolga-kereskedelemre való emlékezés örök lángját jelképezi.",
@@ -2350,7 +2260,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
       hu: "Rabszolgák útja",
       ro: "Ruta Sclavilor",
       en: "Slave Route"},
-    image: "/poi-images/slave-route-ouidah-history-v2.webp",
     description: {
       de: "Ein 4 km langer historischer Pfad in Ouidah, den Gefangene zurücklegen mussten, bevor sie nach Amerika verschifft wurden.",
       hu: "Ouidah-ban található 4 km hosszú történelmi útvonal, amelyet a foglyoknak meg kellett tenniük, mielőtt Amerikába hajózták őket.",
@@ -2550,7 +2459,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
       hu: "Toussaint Louverture emlékmű",
       ro: "Monumentul Toussaint Louverture",
       en: "Toussaint Louverture Monument"},
-    image: "/poi-images/toussaint-louverture-allada-history-v2.webp",
     description: {
       de: "Ein Denkmal zu Ehren des haitianischen Revolutionsführers Toussaint Louverture, dessen Wurzeln in der Region Allada liegen.",
       hu: "Emlékmű a haiti forradalmi vezető, Toussaint Louverture tiszteletére, akinek gyökerei Allada régiójába nyúlnak vissza.",
@@ -2786,7 +2694,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
       hu: "Dahomey amazonok emlékműve",
       ro: "Monumentul Amazonelor din Dahomey",
       en: "Dahomey Amazon Monument"},
-    image: "/poi-images/dahomey-amazon-monument-history-v2.webp",
     description: {
       de: "Dieses Denkmal in Cotonou ehrt die tapferen Kriegerinnen des Königreichs Dahomey, bekannt als die Mino oder Dahomey-Amazonen.",
       hu: "Hatalmas szobor Cotonouban, amely a Dahomey Királyság legendás női harcosai előtt tiszteleg.",
@@ -2821,7 +2728,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
       hu: "Szeplőtelen Fogantatás bazilika",
       ro: "Bazilica Neprihănitei Zămisliri",
       en: "Basilica of the Immaculate Conception"},
-    image: "/poi-images/basilica-immaculate-ouidah-history-v2.webp",
     description: {
       de: "Die erste katholische Basilika Westafrikas, ein bedeutendes religiöses und historisches Bauwerk in Ouidah.",
       hu: "Nyugat-Afrika első katolikus bazilikája, jelentős vallási és történelmi épület Ouidah-ban.",
@@ -2973,7 +2879,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
       hu: "Porto-Novo-i Néprajzi Múzeum",
       ro: "Muzeul de Etnografie din Porto-Novo",
       en: "Ethnographic Museum of Porto-Novo"},
-    image: "/poi-images/ethnographic-museum-porto-novo-history-v2.webp",
     description: {
       de: "Ein Museum, das eine reiche Sammlung an Masken, Waffen und Alltagsgegenständen der verschiedenen ethnischen Gruppen Benins zeigt.",
       hu: "Múzeum, amely Benin különböző etnikai csoportjainak maszkjait, fegyvereit és mindennapi tárgyait mutatja be gazdag gyűjteményében.",
@@ -3008,7 +2913,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
       hu: "Da Silva Múzeum",
       ro: "Muzeul Da Silva",
       en: "Da Silva Museum"},
-    image: "/poi-images/da-silva-museum-porto-novo-history-v2.webp",
     description: {
       de: "Ein privates Museum in einem historischen brasilianischen Herrenhaus, das die Geschichte der afro-brasilianischen Gemeinschaft in Benin dokumentiert.",
       hu: "Egy történelmi brazil kúriában található magánmúzeum, amely a benini afro-brazil közösség történetét dokumentálja.",
@@ -3091,7 +2995,6 @@ export const poiExtraBeninHistoryV2: POI[] = [
       hu: "Tanéka falvak",
       ro: "Satele Tanéka",
       en: "Tanéka Villages"},
-    image: "/poi-images/taneka-villages-history-v2.webp",
     description: {
       de: "Historische Dörfer an den Hängen des Atakora-Gebirges, bekannt für ihre Bewahrung uralter Traditionen und Lebensweisen.",
       hu: "Történelmi falvak az Atakora-hegység lejtőin, amelyek ősi hagyományaik és életmódjuk megőrzéséről ismertek.",

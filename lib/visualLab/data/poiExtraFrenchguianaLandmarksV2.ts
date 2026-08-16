@@ -31,7 +31,6 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       pt: ["Fundado em 1964 pelo CNES.", "Local de lançamento para Ariane, Vega e Soyuz.", "A localização a 5° Norte permite um impulso de eficiência.", "O primeiro lançamento (Véronique) ocorreu em 1968.", "Abrange uma área de 700 km².", "Segurança garantida pela Legião Estrangeira."],
       fr: ["Créé en 1964 par le CNES.", "Base de lancement pour Ariane, Vega et Soyouz.", "Sa latitude à 5° Nord offre un gain de performance majeur.", "Le premier lancement (fusée Véronique) eut lieu en 1968.", "Le site couvre une superficie de 700 km².", "La sécurité est assurée par la Légion étrangère."],
     }, },
-    image: "/poi-images/gf-landmark-csg.webp",
     description: {
       de: "Das Centre Spatial Guyanais ist der wichtigste europäische Weltraumbahnhof, der in Kourou aufgrund seiner Nähe zum Äquator errichtet wurde.",
       hu: "A Centre Spatial Guyanais az európai űrügynökség legfontosabb űrközpontja Kourouban, az egyenlítő közelsége miatt ideális kilövőhely.",
@@ -81,7 +80,6 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       pt: ["Construída entre 1825 e 1833.", "Torre do sino adicionada no ano de 1954.", "Sede do bispo católico romano.", "Estatuto de monumento desde outubro de 1992.", "O altar-mor data do século XIX.", "O maior edifício religioso da Guiana."],
       fr: ["Édifiée entre 1825 et 1833.", "Clocher ajouté en 1954.", "Siège de l'évêché catholique de Cayenne.", "Classée monument historique depuis octobre 1992.", "Maître-autel datant du XIXe siècle.", "Plus grand édifice religieux de Guyane."],
     }, },
-    image: "/poi-images/gf-landmark-cathedrale-saint-sauveur.webp",
     description: {
       de: "Die im Kolonialstil erbaute Hauptkirche von Cayenne ist ein bemerkenswertes historisches Monument im Zentrum der Hauptstadt.",
       hu: "Cayenne gyarmati stílusban épült főtemploma figyelemre méltó történelmi műemlék a főváros központjában.",
@@ -176,7 +174,6 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       pt: ["Tempo de construção de 1989 a 1994", "Potência instalada de 116 MW", "A área da albufeira é de cerca de 365 km²", "Abastece o Centro Espacial de Kourou", "Rio: Sinnamary", "A Operação Faune salvou milhares de animais"],
       fr: ["Période de construction de 1989 à 1994", "Puissance installée de 116 MW", "Surface du lac d'environ 365 km²", "Alimente le Centre Spatial Guyanais", "Fleuve : Sinnamary", "L'opération Faune a sauvé des milliers d'animaux"],
     }, },
-    image: "/poi-images/gf-landmark-petit-saut-dam.webp",
     description: {
       de: "Ein riesiger Wasserkraftdamm am Fluss Sinnamary, der einen erheblichen Teil der Elektrizität für Französisch-Guayana liefert.",
       hu: "Egy hatalmas vízerőmű gátja a Sinnamary folyón, amely Francia Guyana villamosenergia-ellátásának jelentős részét biztosítja.",
@@ -343,7 +340,6 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       pt: ["Comprimento da ponte: 378 metros", "Liga a França/UE ao Brasil", "Conclusão das obras em 2011, abertura em 2017", "Tipo: Ponte estaiada", "Atravessa o rio fronteiriço Oiapoque", "Substitui o transporte por balsa"],
       fr: ["Longueur du pont : 378 mètres", "Relie la France/UE au Brésil", "Fin des travaux en 2011, ouverture en 2017", "Type : Pont à haubans", "Enjambe le fleuve frontalier Oyapock", "Remplace le transport par bac"],
     }, },
-    image: "/poi-images/gf-landmark-pont-oyapock.webp",
     description: {
       de: "Eine internationale Schrägseilbrücke über den Fluss Oyapock, die Saint-Georges in Französisch-Guayana mit Oiapoque in Brasilien verbindet.",
       hu: "Egy nemzetközi ferdekábeles híd az Oyapock folyó felett, amely a francia guyanai Saint-Georgest köti össze a brazíliai Oiapoque-kal.",
@@ -393,7 +389,6 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       pt: ["Fundado no ano de 1901", "Batizado em honra de Alexandre Franconie", "Localizado numa casa do século XIX", "Coleções sobre a colónia penal e etnografia", "Situado diretamente na Place des Palmistes", "Inclui história natural e arqueologia"],
       fr: ["Fondé en 1901", "Nommé d'après Alexandre Franconie", "Abrité dans une demeure du XIXe siècle", "Collections sur le bagne et l'ethnographie", "Situé directement sur la place des Palmistes", "Comprend l'histoire naturelle et l'archéologie"],
     }, },
-    image: "/poi-images/gf-landmark-musee-alexandre-franconie.webp",
     description: {
       de: "Das wichtigste Museum in Cayenne, das die Geschichte, Kultur und Naturkunde von Französisch-Guayana in einem traditionellen kreolischen Haus zeigt.",
       hu: "Cayenne legfontosabb múzeuma, amely Francia Guyana történelmét, kultúráját és természetrajzát mutatja be egy hagyományos kreol házban.",
@@ -596,7 +591,6 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       pt: ["Construída no século XIX.", "Serviu como estação de telégrafo ótico.", "Comunicação com as Îles du Salut.", "Construída com tijolos e pedra local.", "Nomeada em honra do prisioneiro Alfred Dreyfus.", "Localiza-se na Pointe des Roches."],
       fr: ["Édifiée au XIXe siècle.", "Servait de station de télégraphie optique.", "Permettait la communication avec les Îles du Salut.", "Construite en briques et pierres locales.", "Porte le nom du déporté Alfred Dreyfus.", "Située à la Pointe des Roches."],
     }, },
-    image: "/poi-images/gf-landmark-chateau-de-kourou.webp",
     description: {
       de: "Ein alter Signalturm in Kourou, der einst zur Kommunikation mit der nahe gelegenen Teufelsinsel während der Strafkolonie-Ära diente.",
       hu: "Egy régi jelzőtorony Kourouban, amely egykor a közeli Ördög-szigettel való kommunikációra szolgált a büntetőgyarmati korszakban.",
@@ -727,7 +721,6 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       pt: ["Interior pintado pelo condenado Pierre Huguet.", "A pintura abrange mais de 600 m² de área.", "Criada entre 1892 e 1898.", "Estilo: Arte naif com motivos religiosos.", "Estatuto de monumento desde junho de 1978.", "Alcunha: Capela Sistina da selva."],
       fr: ["Intérieur peint par le relégué Pierre Huguet.", "Le décor couvre une surface de plus de 600 m².", "Fresques réalisées entre 1892 et 1898.", "Style : Art naïf avec motifs religieux.", "Classée monument historique depuis juin 1978.", "Surnommée la « Chapelle Sixtine de la forêt »."],
     }, },
-    image: "/poi-images/gf-landmark-eglise-saint-joseph.webp",
     description: {
       de: "Eine farbenfrohe und aufwendig dekorierte Holzkirche in Iracoubo, die vollständig im Inneren von einem ehemaligen Sträfling bemalt wurde.",
       hu: "Egy színes és díszes fatemplom Iracouboban, amelynek belsejét egy egykori elítélt festette ki teljesen.",
@@ -858,7 +851,6 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       pt: ["Félix Éboué nasceu nesta casa em 26 de dezembro de 1884.", "O edifício foi classificado oficialmente como Monument Historique em 13 de julho de 1993.", "Localiza-se na Rue Félix Éboué 2, no centro de Caiena.", "Éboué foi o primeiro governador do Chade a juntar-se a de Gaulle em 1940.", "Os seus restos mortais foram trasladados para o Panteão de Paris em 1949.", "A casa é uma construção de madeira de dois andares com elementos tradicionais guianenses."],
       fr: ["Félix Éboué est né dans cette maison le 26 décembre 1884.", "L'édifice a été classé officiellement Monument Historique le 13 juillet 1993.", "Elle se situe au 2 rue Félix Éboué, dans le centre de Cayenne.", "Éboué fut le premier gouverneur du Tchad à se rallier à de Gaulle en 1940.", "Ses cendres ont été transférées au Panthéon à Paris en 1949.", "La maison est une bâtisse en bois à deux étages aux éléments traditionnels guyanais."],
     }, },
-    image: "/poi-images/gf-landmark-maison-felix-eboue.webp",
     description: {
       de: "Das historische Geburtshaus des berühmten Politikers Félix Éboué, das heute ein kleines Museum für die Geschichte Guayanas ist.",
       hu: "Félix Éboué híres politikus történelmi szülőháza, amely ma egy kis múzeum Guyana történelmének bemutatására.",
@@ -908,7 +900,6 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       pt: ["O pavilhão de mercado atual foi concluído no ano de 1907.", "O mercado situa-se na Place du Marché, perto do porto.", "Os principais dias de mercado são quarta, sexta e sábado, das 04h00 às 14h00.", "Os agricultores Hmong de Cacao fornecem grande parte dos legumes frescos.", "Nas bancas de comida é frequentemente servida a sopa tradicional 'Bouillon d'Awara'.", "O mercado inclui tanto um pavilhão coberto como áreas exteriores."],
       fr: ["La halle actuelle a été achevée en 1907.", "Le marché se situe place du Marché, à proximité du port.", "Les jours de marché principaux sont le mercredi, vendredi et samedi de 4h00 à 14h00.", "Les agriculteurs Hmong de Cacao fournissent une grande partie des légumes frais.", "On y déguste souvent le traditionnel 'Bouillon d'Awara' aux stands de restauration.", "Le marché comprend une partie couverte et des zones en extérieur."],
     }, },
-    image: "/poi-images/gf-landmark-marche-de-cayenne.webp",
     description: {
       de: "Der lebhafte Zentralmarkt von Cayenne, untergebracht in einer ikonischen Stahlkonstruktion und berühmt für lokale Gewürze.",
       hu: "Cayenne nyüzsgő központi piaca, amely egy ikonikus acélszerkezetes épületben kapott helyet, és helyi fűszereiről híres.",
@@ -1003,7 +994,6 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       pt: ["O farol entrou em funcionamento no ano de 1863.", "Localiza-se no Islet de l'Enfant Perdu, no Atlântico.", "A torre tem uma altura de cerca de 12 metros acima do nível do mar.", "A automatização do farol ocorreu já em 1905.", "O alcance da luz é de aproximadamente 15 milhas náuticas.", "O acesso à ilha é muito difícil devido às fortes correntes e rochas."],
       fr: ["Le phare a été mis en service en 1863.", "Il se trouve sur l'îlet de l'Enfant Perdu dans l'Atlantique.", "La tour s'élève à environ 12 mètres au-dessus du niveau de la mer.", "L'automatisation du feu a eu lieu dès 1905.", "La portée de la lumière est d'environ 15 milles nautiques.", "L'accès à l'îlot est très difficile en raison des courants forts et des récifs."],
     }, },
-    image: "/poi-images/gf-landmark-phare-de-lenfant-perdu.webp",
     description: {
       de: "Ein einsamer Leuchtturm auf einer kleinen Felseninsel vor der Küste, der den Seefahrern bei der Einfahrt nach Cayenne den Weg weist.",
       hu: "Egy magányos világítótorony egy kis sziklás szigeten a partok előtt, amely a Cayenne-be érkező tengerészeket irányítja.",
@@ -1053,7 +1043,6 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       pt: ["O campo foi inaugurado em 1887 em Saint-Jean-du-Maroni.", "Foi o principal centro para a 'Relégation' na Guiana Francesa.", "Mais de 17.000 homens passaram por este campo ao longo do tempo.", "O encerramento oficial do sistema penal ocorreu após a Segunda Guerra Mundial.", "Os prisioneiros tiveram de construir uma linha ferroviária de via estreita através da selva.", "Os vestígios da capela são hoje um dos edifícios mais bem preservados."],
       fr: ["Le camp a été ouvert en 1887 à Saint-Jean-du-Maroni.", "C'était le centre principal de la relégation en Guyane française.", "Plus de 17 000 hommes ont transité par ce camp au fil du temps.", "La fermeture officielle du bagne n'est intervenue qu'après la Seconde Guerre mondiale.", "Les détenus devaient construire une voie ferrée étroite à travers la jungle.", "Les vestiges de la chapelle comptent parmi les structures les mieux conservées."],
     }, },
-    image: "/poi-images/gf-landmark-camp-relegation.webp",
     description: {
       de: "Die verlassenen Überreste des Lagers der Relegation, in dem früher Wiederholungstäter der französischen Justiz untergebracht waren.",
       hu: "A Relegation-tábor elhagyatott romjai, ahol egykor a francia igazságszolgáltatás visszaeső bűnözőit helyezték el.",
@@ -1364,7 +1353,6 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       pt: ["O edifício situa-se no local de um antigo mosteiro jesuíta do século XVIII.", "A atual câmara municipal foi profundamente remodelada na década de 1890.", "Localiza-se na Rue de Remire, em pleno centro histórico da cidade.", "A fachada apresenta elementos típicos da arquitetura crioula em madeira.", "No interior existem salas representativas para casamentos e receções oficiais.", "O edifício faz parte do património arquitetónico protegido de Caiena."],
       fr: ["Le bâtiment s'élève sur le site d'un ancien couvent de Jésuites du XVIIIe siècle.", "L'actuelle mairie a été largement transformée dans les années 1890.", "Elle est située rue de Remire, en plein centre-ville historique.", "La façade présente des éléments typiques de l'architecture créole en bois.", "L'intérieur abrite des salles d'apparat pour les mariages et réceptions officielles.", "L'édifice fait partie du patrimoine architectural protégé de Cayenne."],
     }, },
-    image: "/poi-images/gf-landmark-mairie-de-cayenne.webp",
     description: {
       de: "Das wunderschöne Verwaltungsgebäude der Stadt Cayenne, entworfen im klassischen Kolonialstil mit auffälligen gelben Fassaden.",
       hu: "Cayenne város gyönyörű közigazgatási épülete, klasszikus gyarmati stílusban, feltűnő sárga homlokzatokkal.",
@@ -1414,7 +1402,6 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       pt: ["A estátua foi solenemente inaugurada em 1896.", "Victor Schœlcher foi um político e jornalista francês.", "O monumento foi criado pelo escultor Ernest-Eugène Chrétien.", "Encontra-se no centro da Place Victor Schœlcher em Caiena.", "A escravatura foi oficialmente abolida na Guiana Francesa em 10 de junho de 1848.", "Os restos mortais de Schœlcher repousam no Panteão, em Paris, desde 1949."],
       fr: ["La statue a été inaugurée solennellement en 1896.", "Victor Schœlcher était un homme politique et journaliste français.", "Le monument a été créé par le sculpteur Ernest-Eugène Chrétien.", "Il se dresse au centre de la place Victor Schœlcher à Cayenne.", "L'esclavage a été officiellement aboli en Guyane française le 10 juin 1848.", "Les restes de Schœlcher reposent au Panthéon à Paris depuis 1949."],
     }, },
-    image: "/poi-images/gf-landmark-statue-victor-schoelcher.webp",
     description: {
       de: "Ein bedeutendes Denkmal für Victor Schœlcher, der entscheidend zur Abschaffung der Sklaverei in den französischen Kolonien beigetragen hat.",
       hu: "Egy jelentős emlékmű Victor Schœlcher számára, aki döntő szerepet játszott a rabszolgaság eltörlésében a francia gyarmatokon.",
@@ -1653,7 +1640,6 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       pt: ["As origens do hospital remontam ao ano de 1750.", "O conjunto de edifícios foi classificado como Monument Historique em 13 de julho de 1993.", "Localiza-se na Avenue Léopold Héder, no coração de Caiena.", "Jean Martial foi um renomado médico guianense do século XX.", "Na década de 1990, iniciaram-se amplas obras de restauro no complexo.", "Atualmente, o local acolhe os arquivos departamentais da Guiana Francesa."],
       fr: ["Les origines de l'hôpital remontent à l'année 1750.", "L'ensemble architectural a été classé Monument Historique le 13 juillet 1993.", "Il se situe sur l'avenue Léopold Héder, au cœur de Cayenne.", "Jean Martial était un médecin guyanais renommé du XXe siècle.", "De vastes travaux de restauration ont débuté sur le complexe dans les années 1990.", "Le site abrite aujourd'hui les archives départementales de la Guyane française."],
     }, },
-    image: "/poi-images/gf-landmark-hopital-jean-martial.webp",
     description: {
       de: "Ein imposantes ehemaliges koloniales Krankenhausgebäude in Cayenne, das für seine klassische kreolische Architektur bekannt ist.",
       hu: "Egy impozáns volt gyarmati kórházépület Cayenne-ben, amely klasszikus kreol építészetéről ismert.",
@@ -2072,7 +2058,6 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       pt: ["A ponte atravessa o rio Comté no município de Roura.", "Cacao foi fundada oficialmente em 1977 por refugiados Hmong.", "A distância da ponte até Caiena é de cerca de 75 quilómetros.", "O mercado de domingo em Cacao é um dos mais conhecidos da região.", "A ponte está projetada para o transporte pesado de produtos agrícolas.", "Na estação seca, o nível da água do Comté sob a ponte é significativamente mais baixo."],
       fr: ["Le pont enjambe la rivière Comté sur la commune de Roura.", "Cacao a été fondé officiellement en 1977 par des réfugiés Hmong.", "La distance entre le pont et Cayenne est d'environ 75 kilomètres.", "Le marché dominical de Cacao est l'un des plus célèbres de la région.", "Le pont est conçu pour le transport lourd de marchandises agricoles.", "En saison sèche, le niveau de la Comté sous le pont est nettement plus bas."],
     }, },
-    image: "/poi-images/gf-landmark-pont-cacao.webp",
     description: {
       de: "Eine markante Brücke, die den Zugang zur Gemeinde Cacao ermöglicht, wo viele Hmong-Flüchtlinge eine neue Heimat fanden.",
       hu: "Egy jellegzetes híd, amely hozzáférést biztosít Cacao községhez, ahol sok Hmong menekült talált új otthonra.",
@@ -2383,7 +2368,6 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       pt: ["A igreja foi classificada como Monument Historique em 1993.", "A construção durou um total de dez anos, de 1952 a 1962.", "Localiza-se no centro do município de Saül, no coração da selva.", "As torres estão cobertas com telhas de madeira local (Wapa).", "Saül só é acessível através do aeroporto de Saül (XAU).", "A igreja é dedicada a Santo António de Pádua."],
       fr: ["Église classée monument historique en 1993.", "Le chantier dura dix ans, de 1952 à 1962.", "Située au centre du bourg de Saül, en pleine forêt.", "Les tours sont couvertes de bardeaux de bois local (Wapa).", "Saül n'est accessible que par l'aérodrome de Saül (XAU).", "L'église est dédiée à Saint Antoine de Padoue."],
     }, },
-    image: "/poi-images/gf-landmark-eglise-saint-antoine-de-padoue.webp",
     description: {
       de: "Eine charmante Holzkirche mitten im Amazonas-Regenwald in der abgelegenen Gemeinde Saül, einem Zentrum für Ökotourismus.",
       hu: "Bájos fatemplom az amazóniai esőerdő közepén, a félreeső Saül községben, amely az ökoturizmus egyik központja.",
@@ -3018,7 +3002,6 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       pt: ["O estádio foi originalmente inaugurado em 1914 como Stade de Baduel.", "A renomeação oficial para Stade Georges-Chaumet ocorreu em 2014.", "Está equipado com um relvado sintético de última geração.", "O complexo inclui também uma pista de atletismo com oito faixas.", "A capacidade é de exatamente 7.000 lugares sentados para jogos de futebol.", "Localiza-se na Route de Baduel, no nordeste de Caiena."],
       fr: ["Le stade a été inauguré à l'origine en 1914 sous le nom de stade de Baduel.", "Le changement de nom officiel en stade Georges-Chaumet a eu lieu en 2014.", "Il est équipé d'une pelouse synthétique de dernière génération.", "L'installation comprend également une piste d'athlétisme de huit couloirs.", "La capacité est de précisément 7 000 places assises pour les matchs de football.", "Il se situe sur la route de Baduel, au nord-est de Cayenne."],
     }, },
-    image: "/poi-images/gf-landmark-stade-georges-chaumet.webp",
     description: {
       de: "Das größte Mehrzweckstadion in Cayenne, das regelmäßig für wichtige Fußballspiele und Leichtathletikveranstaltungen genutzt wird.",
       hu: "Cayenne legnagyobb többcélú stadionja, amelyet rendszeresen használnak fontos labdarúgó-mérkőzések és atlétikai rendezvények helyszíneként.",
@@ -3068,7 +3051,6 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       pt: ["Ano de construção da estrutura metálica: 1863", "Localização na colina do Fort Cépérou", "A altura total da torre é de 11 metros", "Substituição de uma torre de madeira anterior", "Hoje protegido como monumento histórico", "Ponto de referência para a foz de Caiena"],
       fr: ["Année de construction de la structure métallique : 1863", "Emplacement sur la colline du Fort Cépérou", "La hauteur totale de la tour est de 11 mètres", "Remplacement d'une tour antérieure en bois", "Aujourd'hui protégé au titre des monuments historiques", "Point de repère pour l'embouchure de Cayenne"],
     }, },
-    image: "/poi-images/gf-landmark-phare-de-cayenne.webp",
     description: {
       de: "Ein historischer Leuchtturm am Fort Cépérou, der ein weiteres wichtiges Orientierungszeichen für die Schifffahrt vor der Küste war.",
       hu: "Történelmi világítótorony a Fort Cépérou mellett, amely egy másik fontos tájékozódási pont volt a part menti hajózás számára.",
@@ -3118,7 +3100,6 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       pt: ["Período de construção de 1749 a 1752", "Utilização original como convento jesuíta", "Localizado na Place de Grenoble", "Arquitetura colonial francesa clássica", "Sede oficial do Prefeito da Guiana", "Edifício administrativo mais antigo da cidade"],
       fr: ["Construction de 1749 à 1752", "Utilisation d'origine comme couvent jésuite", "Emplacement sur la place de Grenoble", "Architecture coloniale française classique", "Siège officiel du Préfet de Guyane", "Plus ancien bâtiment administratif de la ville"],
     }, },
-    image: "/poi-images/gf-landmark-prefecture-de-la-guyane.webp",
     description: {
       de: "Der offizielle Sitz des Präfekten und ein hervorragendes Beispiel französischer Kolonialverwaltung in der Karibik und Südamerika.",
       hu: "A prefektus hivatalos székhelye és a francia gyarmati közigazgatás kiváló példája a Karib-térségben és Dél-Amerikában.",

@@ -8,7 +8,6 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     parent: "KG-I",
     coords: [78.4, 42.0],
     name: { de: "Sary-Chat-Ertash-Naturreservat", hu: "Szari-Csat-Ertas Természetvédelmi Terület", ro: "Rezervația Sary-Chat-Ertash", en: "Sary-Chat-Ertash Nature Reserve"},
-    image: "/poi-images/sary-chat-ertash-reserve-life-v2.webp",
     description: {
       de: "Dieses hochgelegene Reservat im östlichen Tian Shan schützt eines der wichtigsten Rückzugsgebiete für den seltenen Schneeleoparden. Die karge, windgepeitschte Hochebene bietet auch Argali-Schafen und Sibirischen Steinböcken einen sicheren Lebensraum.",
       hu: "A keleti Tien-sanban található magaslati rezervátum a ritka hópárduc egyik legfontosabb menedékhelye. A zord, szélfútta fennsík argali juhoknak és szibériai kőszáli kecskéknek is biztonságos élőhelyet kínál.",
@@ -141,7 +140,6 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     parent: "KG-J",
     coords: [70.4, 41.6],
     name: { de: "Besch-Aral-Naturreservat", hu: "Bes-Aral Természetvédelmi Terület", ro: "Rezervația Besh-Aral", en: "Besh-Aral State Nature Reserve"},
-    image: "/poi-images/besh-aral-reserve-life-v2.webp",
     description: {
       de: "Im äußersten Westen Kirgisistans bewahrt dieses abgelegene Reservat unberührte Landschaften des Chatkal-Tals. Es ist ein entscheidendes Zufluchtsgebiet für den bedrohten Menzbier-Murmeltier und andere seltene Tierarten der Region.",
       hu: "Kirgizisztán legnyugatibb részén ez a távoli rezervátum a Csatkal-völgy érintetlen tájait őrzi. Döntő fontosságú menedékhelye a veszélyeztetett Menzbier-mormotának és a régió más ritka állatfajainak.",
@@ -185,7 +183,6 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     parent: "KG-J",
     coords: [71.7, 41.7],
     name: { de: "Padyscha-Ata-Naturreservat", hu: "Padisa-Ata Természetvédelmi Terület", ro: "Rezervația Padysha-Ata", en: "Padysha-Ata State Nature Reserve"},
-    image: "/poi-images/padysha-ata-reserve-life-v2.webp",
     description: {
       de: "Dieses Schutzgebiet bewahrt einzigartige Tannenwälder und seltene Wacholderbestände in den malerischen Bergen von Dschalalabat. Es schützt nicht nur die lokale Artenvielfalt, sondern auch wichtige Wasserquellen für das fruchtbare Ferganatal.",
       hu: "Ez a védett terület egyedülálló jegenyefenyő-erdőket és ritka borókaállományokat őriz Dzsalalabad festői hegyeiben. Nemcsak a helyi biodiverzitást védi, hanem a termékeny Fergana-völgy fontos vízforrásait is.",
@@ -229,7 +226,6 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     parent: "KG-N",
     coords: [75.5, 41.6],
     name: { de: "Karatal-Dschapyryk-Naturreservat", hu: "Karatal-Dzsapirik Természetvédelmi Terület", ro: "Rezervația Karatal-Japyryk", en: "Karatal-Japyryk State Nature Reserve"},
-    image: "/poi-images/karatal-japyryk-reserve-life-v2.webp",
     description: {
       de: "Hoch im inneren Tian Shan gelegen, umfasst dieses Reservat alpine Weiden, klare Bergseen und karge Hochebenen. Es dient als kritischer Lebensraum für bedrohte Tierarten, darunter Zugvögel und seltene Raubtiere der Hochgebirgswüste.",
       hu: "A belső Tien-sanban magasan fekvő rezervátum alpesi legelőket, tiszta hegyi tavakat és zord fennsíkokat foglal magában. Kritikus élőhelyként szolgál a veszélyeztetett állatfajok, köztük a vándormadarak és a magashegyi sivatag ritka ragadozói számára.",
@@ -273,7 +269,6 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     parent: "KG-O",
     coords: [73.9, 40.5],
     name: { de: "Kulun-Ata-Naturreservat", hu: "Kulun-Ata Természetvédelmi Terület", ro: "Rezervația Kulun-Ata", en: "Kulun-Ata State Nature Reserve"},
-    image: "/poi-images/kulun-ata-reserve-life-v2.webp",
     description: {
       de: "Dieses Schutzgebiet im Fergana-Gebirge ist bekannt für seine unberührten Landschaften und den wunderschönen alpinen Kulun-See. Das Gebiet bewahrt jahrhundertealte Wacholderwälder und bietet einen sicheren Hafen für eine Vielzahl endemischer Pflanzen.",
       hu: "Ez a Fergana-hegységben található védett terület érintetlen tájairól és a gyönyörű alpesi Kulun-tóról ismert. A terület évszázados borókaerdőket őriz, és számos endemikus növénynek nyújt menedéket.",
@@ -317,7 +312,6 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     parent: "KG-B",
     coords: [71.3, 39.8],
     name: { de: "Surma-Tasch-Naturreservat", hu: "Szurma-Tas Természetvédelmi Terület", ro: "Rezervația Surma-Tash", en: "Surma-Tash State Nature Reserve"},
-    image: "/poi-images/surma-tash-reserve-life-v2.webp",
     description: {
       de: "In der rauen Umgebung der Region Batken schützt dieses Reservat hochalpine Ökosysteme und Gletschertäler. Es spielt eine wichtige Rolle bei der Erhaltung der lokalen Populationen von Schneeleoparden und asiatischen Braunbären.",
       hu: "Batken régió zord környezetében ez a rezervátum magashegyi ökoszisztémákat és gleccservölgyeket véd. Fontos szerepet játszik a hópárducok és az ázsiai barnamedvék helyi populációinak megőrzésében.",
@@ -361,7 +355,6 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     parent: "KG-J",
     coords: [72.9, 41.3],
     name: { de: "Daschman-Naturreservat", hu: "Dasman Természetvédelmi Terület", ro: "Rezervația Dashman", en: "Dashman State Nature Reserve"},
-    image: "/poi-images/dashman-reserve-life-v2.webp",
     description: {
       de: "Das Reservat ist berühmt für seine uralten und weitläufigen Walnusswälder, die als die größten der Welt gelten. Es kombiniert dichten Wald, tosende Bergbäche und eine reiche Vogelwelt in einer atemberaubenden Landschaft.",
       hu: "A rezervátum híres ősi és kiterjedt dióerdőiről, amelyeket a világ legnagyobbjainak tartanak. Sűrű erdőt, zúgó hegyi patakokat és gazdag madárvilágot ötvöz egy lélegzetelállító tájban.",
@@ -494,7 +487,6 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     parent: "KG-O",
     coords: [73.8, 40.7],
     name: { de: "Kara-Schoro-Nationalpark", hu: "Kara-Soro Nemzeti Park", ro: "Parcul Național Kara-Shoro", en: "Kara-Shoro National Park"},
-    image: "/poi-images/kara-shoro-national-park-life-v2.webp",
     description: {
       de: "Berühmt für seine heilenden Mineralquellen, ist der Kara-Schoro-Nationalpark ein wichtiges Erholungsgebiet und Naturschutzgebiet. Die dichten Wälder und frischen Bergbäche machen ihn zu einem idealen Ort für Naturliebhaber und Camper.",
       hu: "A gyógyító ásványvízforrásairól híres Kara-Soro Nemzeti Park fontos üdülőterület és természetvédelmi terület. A sűrű erdők és a friss hegyi patakok ideális helyszínné teszik a természetkedvelők és kempingezők számára.",
@@ -538,7 +530,6 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     parent: "KG-B",
     coords: [69.8, 39.9],
     name: { de: "Sarkent-Nationalpark", hu: "Szarkent Nemzeti Park", ro: "Parcul Național Sarkent", en: "Sarkent National Park"},
-    image: "/poi-images/sarkent-national-park-life-v2.webp",
     description: {
       de: "In der entlegenen Region Batken bietet dieser Park raue, felsige Landschaften und unberührte alpine Ökosysteme. Er ist ein Paradies für Abenteurer und schützt gleichzeitig die seltene Flora und Fauna der turkestanischen Bergkette.",
       hu: "A távoli Batken régióban található park zord, sziklás tájakat és érintetlen alpesi ökoszisztémákat kínál. A kalandorok paradicsoma, amely egyben védi a turkesztáni hegylánc ritka növény- és állatvilágát.",
@@ -582,7 +573,6 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     parent: "KG-J",
     coords: [73.8, 41.3],
     name: { de: "Saimaluu-Tasch-Naturpark", hu: "Szajmaluu-Tas Nemzeti Park", ro: "Parcul Natural Saimaluu-Tash", en: "Saimaluu-Tash State Nature Park"},
-    image: "/poi-images/saimaluu-tash-park-life-v2.webp",
     description: {
       de: "Dieser Park ist weltberühmt für seine Zehntausenden von Felszeichnungen (Petroglyphen), die hoch oben in den Bergen verstreut sind. Neben seinem historischen Wert bietet er eine spektakuläre alpine Umgebung, die nur in den Sommermonaten zugänglich ist.",
       hu: "Ez a park világhírű a magasan a hegyekben szétszórt több tízezer sziklarajzról (petroglifákról). Történelmi értéke mellett látványos alpesi környezetet kínál, amely csak a nyári hónapokban látogatható.",
@@ -671,7 +661,6 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     parent: "KG-GB",
     coords: [74.597, 42.877],
     name: { de: "Panfilow-Park", hu: "Panfilov Park", ro: "Parcul Panfilov", en: "Panfilov Park"},
-    image: "/poi-images/panfilov-park-bishkek-life-v2.webp",
     description: {
       de: "Der zentralste und belebteste Park in Bischkek ist ein beliebter Treffpunkt für Familien und Einheimische. Benannt nach einem Helden des Zweiten Weltkriegs, bietet er schattige Alleen, ein Riesenrad und zahlreiche Vergnügungsfahrgeschäfte.",
       hu: "Biskek legközpontibb és legforgalmasabb parkja népszerű találkozóhely a családok és a helyiek számára. Egy második világháborús hősről nevezték el; árnyas sétányokat, óriáskereket és számos vidámparki attrakciót kínál.",
@@ -1300,7 +1289,6 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     parent: "KG-GB",
     coords: [74.619, 42.842],
     name: { de: "Botanischer Garten Bischkek", hu: "Biskeki Botanikus Kert", ro: "Grădina Botanică din Bișkek", en: "Bishkek Botanical Garden"},
-    image: "/poi-images/bishkek-botanical-garden-life-v2.webp",
     description: {
       de: "Als grüne Lunge der Hauptstadt beheimatet dieser weitläufige Garten Tausende von Pflanzenarten aus Zentralasien und der ganzen Welt. Er ist ein friedlicher Ort für Spaziergänge und dient gleichzeitig als wichtiges Forschungszentrum für Botanik.",
       hu: "A főváros zöld tüdejeként ez a kiterjedt kert Közép-Ázsiából és a világ minden tájáról származó növényfajok ezreinek ad otthont. Békés hely sétákhoz, és egyben a botanika fontos kutatóközpontjaként is szolgál.",
@@ -1344,7 +1332,6 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     parent: "KG-B",
     coords: [70.8, 40.0],
     name: { de: "Aprikosengärten von Batken", hu: "Batkeni sárgabarackosok", ro: "Livezile de caiși din Batken", en: "Batken Apricot Orchards"},
-    image: "/poi-images/batken-apricot-orchards-life-v2.webp",
     description: {
       de: "Die südliche Region Batken ist im ganzen Land für ihre endlosen Aprikosenplantagen bekannt. Im Frühling verwandelt die Aprikosenblüte die Täler in ein weiß-rosa Meer, während im Sommer die süßen Früchte geerntet und sonnengetrocknet werden.",
       hu: "A déli Batken régió országszerte ismert végtelen sárgabarack-ültetvényeiről. Tavasszal a sárgabarackvirágzás fehér-rózsaszín tengerré varázsolja a völgyeket, míg nyáron az édes gyümölcsöket szüretelik és napon szárítják.",
@@ -1577,7 +1564,6 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     parent: "KG-C",
     coords: [74.6, 42.9],
     name: { de: "Agrarland des Tschüi-Tals", hu: "Csüj-völgyi mezőgazdasági terület", ro: "Terenurile agricole din Valea Chui", en: "Chui Valley Farmlands"},
-    image: "/poi-images/chui-valley-agriculture-life-v2.webp",
     description: {
       de: "Das breite und fruchtbare Tschüi-Tal ist die Kornkammer Kirgisistans. Hier wechseln sich ausgedehnte Felder mit Weizen, Mais und Sonnenblumen ab, die dank eines komplexen Bewässerungssystems in der sonst trockenen Steppe gedeihen.",
       hu: "A széles és termékeny Csüj-völgy Kirgizisztán magtára. Itt kiterjedt búza-, kukorica- és napraforgómezők váltakoznak, amelyek egy összetett öntözőrendszernek köszönhetően virágoznak az egyébként száraz sztyeppén.",
@@ -2564,7 +2550,6 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     parent: "KG-GB",
     coords: [74.577, 42.825],
     name: { de: "Freizeitpark Flamingo", hu: "Flamingo Vidámpark", ro: "Parcul de distracții Flamingo", en: "Flamingo Amusement Park"},
-    image: "/poi-images/flamingo-amusement-park-bishkek-life-v2.webp",
     description: {
       de: "Der Freizeitpark Flamingo in Bischkek bietet Spaß und Nervenkitzel für Kinder jeden Alters. Mit seinen bunten Karussells, Autoscootern und kleinen Achterbahnen ist er das perfekte Ziel für einen Familienausflug am Wochenende.",
       hu: "A biskeki Flamingo Vidámpark szórakozást és izgalmat kínál minden korosztályú gyermek számára. Színes körhintáival, dodzsemjeivel és kis hullámvasútjaival tökéletes célpont egy hétvégi családi kiránduláshoz.",

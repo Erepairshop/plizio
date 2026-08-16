@@ -233,7 +233,6 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     parent: "TW-NAN",
     coords: [120.9573, 23.4700],
     name: { de: "Yushan", hu: "Yushan", ro: "Muntele Yushan", en: "Yushan"},
-    image: "/poi-images/yushan-relief-v2.webp",
     description: {
       de: "Mit 3.952 Metern der höchste Berg Taiwans und ein Wahrzeichen der Insel.",
       hu: "Tajvan legmagasabb csúcsa, egy 3952 méter magas hegy, a sziget jelképe.",
@@ -682,7 +681,6 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     parent: "TW-TXG",
     coords: [121.2319, 24.3828],
     name: { de: "Xueshan", hu: "Xueshan", ro: "Muntele Xueshan", en: "Xueshan"},
-    image: "/poi-images/xueshan-relief-v2.webp",
     description: {
       de: "Der zweithöchste Berg Taiwans, berühmt für seine eiszeitlichen Formationen.",
       hu: "Tajvan második legmagasabb hegye, mely jégkorszaki formációiról híres.",
@@ -1455,7 +1453,6 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     parent: "TW-HUA",
     coords: [121.6736, 24.2052],
     name: { de: "Qingshui-Kliff", hu: "Qingshui-szikla", ro: "Stânca Qingshui", en: "Qingshui Cliff"},
-    image: "/poi-images/qingshui-cliff-relief-v2.webp",
     description: {
       de: "Spektakuläre Klippen, die fast senkrecht in den Pazifischen Ozean abfallen.",
       hu: "Látványos sziklák, melyek szinte függőlegesen zuhannak a Csendes-óceánba.",
@@ -2749,7 +2746,6 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     parent: "TW-NAN",
     coords: [121.2811, 24.1417],
     name: { de: "Hehuanshan", hu: "Hehuanshan", ro: "Muntele Hehuan", en: "Hehuanshan"},
-    image: "/poi-images/hehuanshan-relief-v2.webp",
     description: {
       de: "Ein leicht zugänglicher Dreitausender, der oft im Winter Schnee trägt.",
       hu: "Egy könnyen megközelíthető, 3000 méter feletti hegy, amely télen gyakran havas.",
@@ -3198,7 +3194,6 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     parent: "TW-TPE",
     coords: [121.5539, 25.1708],
     name: { de: "Qixingshan", hu: "Qixingshan", ro: "Muntele Qixing", en: "Qixingshan"},
-    image: "/poi-images/qixingshan-relief-v2.webp",
     description: {
       de: "Ein ruhender Vulkan und der höchste Berg im Großraum Taipeh.",
       hu: "Egy szunnyadó vulkán és a tágabb Tajpej régió legmagasabb hegye.",
@@ -4024,7 +4019,6 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     parent: "TW-NWT",
     coords: [121.5447, 25.2925],
     name: { de: "Laomei-Grünriff", hu: "Laomei zöld zátony", ro: "Reciful Verde Laomei", en: "Laomei Green Reef"},
-    image: "/poi-images/laomei-green-reef-relief-v2.webp",
     description: {
       de: "Eine Küstenformation mit von Vulkanismus geformten Rinnen, die im Frühjahr mit grünen Algen bedeckt sind.",
       hu: "Vulkanikus tevékenység által formált parti zátony, melyet tavasszal zöld alga borít.",
@@ -4941,7 +4935,6 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     parent: "TW-TXG",
     coords: [121.4344, 24.3619],
     name: { de: "Nanhushan", hu: "Nanhushan", ro: "Muntele Nanhu", en: "Nanhushan"},
-    image: "/poi-images/nanhushan-relief-v2.webp",
     description: {
       de: "Ein massiver Berggipfel im Zentralgebirge, bekannt für seine rauen und weiten Landschaften.",
       hu: "Egy hatalmas hegycsúcs a Központi-hegységben, amely zord és kiterjedt tájairól ismert.",
@@ -5354,7 +5347,6 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     parent: "TW-TTT",
     coords: [121.1394, 22.8122],
     name: { de: "Liji-Badlands", hu: "Liji rosszföldek", ro: "Badlands-urile Liji", en: "Liji Badlands"},
-    image: "/poi-images/liji-badlands-relief-v2.webp",
     description: {
       de: "Eine unwirkliche mondähnliche Landschaft aus erodiertem Schlammstein nahe Taitung.",
       hu: "Egy szürreális, holdszerű táj, amelyet erodált iszapkőzet alkot Taitung közelében.",
@@ -7241,7 +7233,6 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     parent: "TW-HUA",
     coords: [121.3289, 24.1089],
     name: { de: "Qilaishan", hu: "Qilaishan", ro: "Muntele Qilai", en: "Qilaishan"},
-    image: "/poi-images/qilaishan-relief-v2.webp",
     description: {
       de: "Ein zerklüfteter Berg, der wegen seiner extrem steilen Klippen als \"Schwarzer Berg\" bekannt ist.",
       hu: "Egy zord hegy, amelyet rendkívül meredek sziklái miatt \"Fekete Hegynek\" is neveznek.",
@@ -7870,7 +7861,6 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     parent: "TW-KHH",
     coords: [120.9083, 23.2428],
     name: { de: "Guanshan", hu: "Guanshan", ro: "Muntele Guan", en: "Guanshan"},
-    image: "/poi-images/guanshan-relief-v2.webp",
     description: {
       de: "Einer der prominentesten Gipfel im südlichen Abschnitt des Zentralgebirges.",
       hu: "A Központi-hegység déli szakaszának egyik legkiemelkedőbb hegycsúcsa.",
@@ -8247,7 +8237,6 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     parent: "TW-HSQ",
     coords: [121.2611, 24.4283],
     name: { de: "Pintianshan", hu: "Pintianshan", ro: "Muntele Pintian", en: "Pintianshan"},
-    image: "/poi-images/pintianshan-relief-v2.webp",
     description: {
       de: "Ein Berg mit spektakulären V-förmigen Schluchten, bekannt als die Wuling-Vier-Berge.",
       hu: "Látványos V-alakú szurdokokkal tagolt hegy, a Wuling Négy Hegyének egyike.",
@@ -8588,7 +8577,6 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     parent: "TW-ILN",
     coords: [121.5369, 24.4947],
     name: { de: "Taipingshan", hu: "Taipingshan", ro: "Muntele Taiping", en: "Taipingshan"},
-    image: "/poi-images/taipingshan-relief-v2.webp",
     description: {
       de: "Ein dicht bewaldeter Berg, der früher ein wichtiges Zentrum der Holzindustrie war.",
       hu: "Sűrű erdővel borított hegy, amely régen a faipar fontos központja volt.",
@@ -9522,7 +9510,6 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     parent: "TW-PIF",
     coords: [120.8039, 21.9422],
     name: { de: "Dajianshan", hu: "Dajianshan", ro: "Muntele Dajian", en: "Dajianshan"},
-    image: "/poi-images/dajianshan-relief-v2.webp",
     description: {
       de: "Ein markanter Felsengipfel im Kenting-Nationalpark, der oft als Matterhorn des Südens bezeichnet wird.",
       hu: "Jellegzetes sziklacsúcs a Kenting Nemzeti Parkban, amit gyakran Dél-Tajvan Matterhornjának neveznek.",
@@ -10763,7 +10750,6 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     parent: "TW-HSQ",
     coords: [121.0092, 24.6464],
     name: { de: "Shitoushan", hu: "Oroszlánfej-hegy", ro: "Muntele Shitou", en: "Lion's Head Mountain"},
-    image: "/poi-images/shitoushan-relief-v2.webp",
     description: {
       de: "Ein sanfter Bergrücken, der für seine buddhistischen Höhlentempel in den Felswänden bekannt ist.",
       hu: "Egy enyhe hegygerinc, amely a sziklafalakba vájt buddhista barlangtemplomairól híres.",

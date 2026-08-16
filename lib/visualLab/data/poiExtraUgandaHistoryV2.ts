@@ -165,7 +165,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Kasubi síremlékek",
       ro: "Mormintele Kasubi",
       en: "Kasubi Tombs"},
-    image: "/poi-images/kasubi-tombs-history-v2.webp",
     description: {
       de: "Die Kasubi-Gräber sind die Begräbnisstätte von vier Kabakas (Königen) von Buganda und ein wichtiges kulturelles Zentrum.",
       hu: "A Kasubi síremlékek Buganda négy kabakájának (királyának) temetkezési helye és fontos kulturális központ.",
@@ -450,7 +449,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Namugongo Mártírok Szentélye",
       ro: "Sanctuarul Martirilor din Namugongo",
       en: "Namugongo Martyrs Shrine"},
-    image: "/poi-images/namugongo-martyrs-shrine-history-v2.webp",
     description: {
       de: "Der Schrein erinnert an die ugandischen Märtyrer, die im 19. Jahrhundert wegen ihres christlichen Glaubens hingerichtet wurden.",
       hu: "A szentély a 19. században keresztény hitük miatt kivégzett ugandai mártíroknak állít emléket.",
@@ -579,7 +577,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Ugandai Nemzeti Mecset",
       ro: "Moscheea Națională a Ugandei",
       en: "Uganda National Mosque"},
-    image: "/poi-images/uganda-national-mosque-history-v2.webp",
     description: {
       de: "Die Nationale Moschee Ugandas, ehemals Gaddafi-Moschee, ist eine der größten Moscheen in Ostafrika mit einem beeindruckenden Minarett.",
       hu: "Az Ugandai Nemzeti Mecset, korábbi nevén Gaddafi Mecset, Kelet-Afrika egyik legnagyobb mecsete egy lenyűgöző minarettel.",
@@ -801,7 +798,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Patiko Erőd",
       ro: "Fortul Patiko",
       en: "Fort Patiko (Baker's Fort)"},
-    image: "/poi-images/fort-patiko-history-v2.webp",
     description: {
       de: "Fort Patiko wurde von Sir Samuel Baker erbaut und diente als Basis zur Bekämpfung des Sklavenhandels in der Region.",
       hu: "A Patiko erődöt Sir Samuel Baker építtette, és bázisként szolgált a rabszolga-kereskedelem elleni küzdelemben a régióban.",
@@ -966,7 +962,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Kabaka Palotája (Lubiri)",
       ro: "Palatul Kabaka (Lubiri)",
       en: "Kabaka's Palace (Lubiri)"},
-    image: "/poi-images/kabakas-palace-lubiri-history-v2.webp",
     description: {
       de: "Der Kabaka-Palast ist die offizielle Residenz des Königs von Buganda und ein Ort mit bewegter politischer Geschichte.",
       hu: "A Kabaka Palotája a bugandai király hivatalos rezidenciája és mozgalmas politikai múltú helyszín.",
@@ -1014,7 +1009,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Wamala sírok",
       ro: "Mormintele Wamala",
       en: "Wamala Tombs"},
-    image: "/poi-images/wamala-tombs-history-v2.webp",
     description: {
       de: "Die Wamala-Gräber sind die heilige Begräbnisstätte von Kabaka Ssuuna II. und repräsentieren ein Stück bugandische Geschichte.",
       hu: "A Wamala sírok II. Ssuuna kabaka szent temetkezési helye, amely Buganda történelmének egy darabját képviseli.",
@@ -1359,7 +1353,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Amabere Ga Nyina Mwiru barlangok",
       ro: "Peșterile Amabere Ga Nyina Mwiru",
       en: "Amabere Ga Nyina Mwiru Caves"},
-    image: "/poi-images/amabere-ga-nyina-mwiru-history-v2.webp",
     description: {
       de: "Diese Kalksteinhöhlen sind eng mit der lokalen Folklore des Chwezi-Reiches verbunden und eine wichtige Kulturstätte.",
       hu: "Ezek a mészkőbarlangok szorosan kapcsolódnak a Chwezi Birodalom helyi folklórjához, és fontos kulturális helyszínnek számítanak.",
@@ -1488,7 +1481,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Karambi királyi sírok",
       ro: "Mormintele regale din Karambi",
       en: "Karambi Royal Tombs"},
-    image: "/poi-images/karambi-royal-tombs-history-v2.webp",
     description: {
       de: "Die Karambi-Königsgräber sind die Begräbnisstätte der Könige (Omukamas) von Toro und ein Ort von historischer Bedeutung.",
       hu: "A Karambi királyi sírok Toro királyainak (Omukama) temetkezési helye, történelmi jelentőségű helyszín.",
@@ -1581,7 +1573,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Nakayima-fa",
       ro: "Copacul Nakayima",
       en: "Nakayima Tree"},
-    image: "/poi-images/nakayima-tree-history-v2.webp",
     description: {
       de: "Der Nakayima-Baum ist ein uralter Baum, der als heiliger Schrein für den Geist der Prinzessin Nakayima verehrt wird.",
       hu: "A Nakayima-fa egy ősi fa, amelyet Nakayima hercegnő szellemének szentélyeként tisztelnek.",
@@ -1674,7 +1665,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Ssezibwa vízesés",
       ro: "Cascadele Ssezibwa",
       en: "Ssezibwa Falls (Cultural Site)"},
-    image: "/poi-images/ssezibwa-falls-cultural-history-v2.webp",
     description: {
       de: "Die Ssezibwa-Fälle sind nicht nur ein Naturwunder, sondern auch eine bedeutende traditionelle und spirituelle Stätte der Buganda.",
       hu: "A Ssezibwa-vízesés nemcsak természeti csoda, hanem a bugandák jelentős hagyományos és spirituális helyszíne is.",
@@ -2235,7 +2225,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Munyonyo Mártírok Szentélye",
       ro: "Sanctuarul Munyonyo",
       en: "Munyonyo Martyrs Shrine"},
-    image: "/poi-images/munyonyo-martyrs-shrine-history-v2.webp",
     description: {
       de: "Der Munyonyo-Schrein markiert den Ort, an dem König Mwanga II. 1886 die Hinrichtung der ersten ugandischen christlichen Märtyrer befahl.",
       hu: "A Munyonyo szentély azt a helyet jelöli, ahol II. Mwanga király 1886-ban elrendelte az első ugandai keresztény mártírok kivégzését.",
@@ -2328,7 +2317,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Lugard Erőd",
       ro: "Fortul Lugard",
       en: "Fort Lugard"},
-    image: "/poi-images/fort-lugard-history-v2.webp",
     description: {
       de: "Fort Lugard war eine Festung, die vom britischen Kolonialverwalter Captain Frederick Lugard in Kampala erbaut wurde.",
       hu: "A Lugard erőd egy erődítmény volt, amelyet Frederick Lugard kapitány, brit gyarmati tisztviselő építtetett Kampalában.",
@@ -2376,7 +2364,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Kakoro sziklarajzai",
       ro: "Picturile rupestre Kakoro",
       en: "Kakoro Rock Paintings"},
-    image: "/poi-images/kakoro-rock-paintings-history-v2.webp",
     description: {
       de: "Die Felsmalereien von Kakoro sind historische Kunstwerke, die von alten Zivilisationen in den Granitfelsen der Region hinterlassen wurden.",
       hu: "A Kakoro sziklarajzok olyan történelmi műalkotások, amelyeket ősi civilizációk hagytak a régió gránitszikláin.",
@@ -2694,7 +2681,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Mugaba Palota",
       ro: "Palatul Mugaba",
       en: "Mugaba Palace"},
-    image: "/poi-images/mugaba-palace-history-v2.webp",
     description: {
       de: "Der Mugaba-Palast in Mbarara war die offizielle Residenz des Königs (Omugabe) des Ankole-Königreichs.",
       hu: "A mbararai Mugaba Palota az Ankole Királyság királyának (Omugabe) hivatalos rezidenciája volt.",
@@ -2859,7 +2845,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Egyenlítő-emlékmű Kayabwe",
       ro: "Monumentul Ecuatorului Kayabwe",
       en: "Equator Monument Kayabwe"},
-    image: "/poi-images/equator-monument-kayabwe-history-v2.webp",
     description: {
       de: "Das Äquator-Denkmal in Kayabwe ist ein historischer Markierungspunkt, der die Linie zwischen der Nord- und Südhalbkugel kennzeichnet.",
       hu: "A kayabwei Egyenlítő-emlékmű egy történelmi jelzőpont, amely az északi és a déli féltekét elválasztó vonalat mutatja.",
@@ -2907,7 +2892,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Walumbe Tanda gödrök",
       ro: "Gropile Walumbe Tanda",
       en: "Walumbe Tanda Pits"},
-    image: "/poi-images/walumbe-tanda-pits-history-v2.webp",
     description: {
       de: "Die Walumbe-Tanda-Gruben sind tiefe Löcher in der Erde, die mit Walumbe, dem Gott des Todes in der Buganda-Mythologie, assoziiert werden.",
       hu: "A Walumbe Tanda gödrök mély lyukak a földben, amelyeket Walumbével, a halál istenével hoznak összefüggésbe a buganda mitológiában.",
@@ -3036,7 +3020,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Speke-emlékmű Jinja",
       ro: "Monumentul Speke Jinja",
       en: "Speke Monument Jinja"},
-    image: "/poi-images/speke-monument-jinja-history-v2.webp",
     description: {
       de: "Dieses Denkmal ehrt John Hanning Speke, den ersten Europäer, der den Viktoriasee erreichte und den Weißen Nil entdeckte.",
       hu: "Ez az emlékmű John Hanning Speke-nek állít emléket, az első európainak, aki elérte a Viktória-tavat és felfedezte a Fehér-Nílust.",
@@ -3084,7 +3067,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Wadelai történelmi állomás",
       ro: "Stația istorică Wadelai",
       en: "Wadelai (Historical Station)"},
-    image: "/poi-images/wadelai-historical-station-history-v2.webp",
     description: {
       de: "Wadelai war ein wichtiger Posten für die britische Verwaltung und Entdecker wie Emin Pascha entlang des Albert-Nils.",
       hu: "Wadelai fontos állomáshely volt a brit közigazgatás és olyan felfedezők számára, mint Emin pasa az Albert-Nílus mentén.",
@@ -3132,7 +3114,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Nsongezi sziklaóvóhelyek",
       ro: "Adăposturile din stâncă Nsongezi",
       en: "Nsongezi Rock Shelters"},
-    image: "/poi-images/nsongezi-rock-shelters-history-v2.webp",
     description: {
       de: "Die Nsongezi-Felsunterstände sind eine wichtige archäologische Stätte aus der späten Steinzeit am Kagera-Fluss.",
       hu: "A nsongezi sziklaóvóhelyek egy fontos késő kőkorszaki régészeti lelőhely a Kagera folyó mentén.",
@@ -3180,7 +3161,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Ntusi földsáncok",
       ro: "Fortificațiile de pământ Ntusi",
       en: "Ntusi Earthworks"},
-    image: "/poi-images/ntusi-earthworks-history-v2.webp",
     description: {
       de: "Die Ntusi-Erdwerke bestehen aus massiven von Menschenhand geschaffenen Hügeln und Gräben, die auf eine blühende alte Gesellschaft hinweisen.",
       hu: "A Ntusi földsáncok hatalmas, ember alkotta dombokból és árkokból állnak, amelyek egy virágzó ősi társadalomra utalnak.",
@@ -3228,7 +3208,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Kibiro sólepárló falu",
       ro: "Satul de sare Kibiro",
       en: "Kibiro Salt Producing Village"},
-    image: "/poi-images/kibiro-salt-producing-village-history-v2.webp",
     description: {
       de: "Kibiro ist ein historisches Fischerdorf am Albertsee, das für seine jahrhundertealte traditionelle Salzgewinnung bekannt ist.",
       hu: "Kibiro egy történelmi halászfalu az Albert-tó partján, amely évszázados hagyományos sólepárlásáról ismert.",
@@ -3324,7 +3303,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: "Kampala Függetlenségi Emlékmű",
       ro: "Monumentul Independenței Kampala",
       en: "Independence Monument Kampala"},
-    image: "/poi-images/independence-monument-kampala-history-v2.webp",
     description: {
       de: "Dieses Denkmal im Zentrum von Kampala feiert Ugandas Unabhängigkeit von der britischen Kolonialherrschaft im Jahr 1962.",
       hu: "Ez a Kampalában található emlékmű Uganda 1962-es függetlenné válását ünnepli a brit gyarmati uralomtól.",

@@ -89,7 +89,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-EP",
     coords: [0.55, 6.5],
     name: { de: "Akwapim-Togo-Gebirge", hu: "Akwapim-Togo-hegység", ro: "Munții Akwapim-Togo", en: "Akwapim-Togo Range"},
-    image: "/poi-images/akwapim-togo-relief-v2.webp",
     description: { de: "Eine Gebirgskette im Osten Ghanas, die sich bis nach Togo erstreckt.", hu: "Hegyvonulat Ghána keleti részén, amely Togo területéig nyúlik.", ro: "Un lanț muntos în estul Ghanei, care se întinde până în Togo.", en: "A mountain range in eastern Ghana that extends into Togo." , es: "Una cadena montañosa en el este de Ghana que se extiende hasta Togo.", pt: "Uma cordilheira no leste do Gana que se estende até ao Togo.", fr: "Une chaîne de montagnes dans l'est du Ghana qui s'étend jusqu'au Togo."},
     facts: {
       de: ["Höchster Punkt ist der Mount Afadja.", "Wichtige Wasserscheide.", "Geologisch alt.", "Bekannt für seine sanften Hänge."],
@@ -129,7 +128,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-EP",
     coords: [0.35, 7.03],
     name: { de: "Mount Afadja", hu: "Afadja-hegy", ro: "Muntele Afadja", en: "Mount Afadja"},
-    image: "/poi-images/mount-afadja-relief-v2.webp",
     description: { de: "Der höchste Berg Ghanas in der Volta-Region.", hu: "Ghána legmagasabb hegye a Volta régióban.", ro: "Cel mai înalt munte din Ghana în regiunea Volta.", en: "The highest mountain of Ghana in the Volta region." , es: "La montaña más alta de Ghana, situada en la región de Volta.", pt: "A montanha mais alta do Gana, na região do Volta.", fr: "La plus haute montagne du Ghana dans la région de la Volta."},
     facts: {
       de: ["Höhe ca. 885 Meter.", "Liegt im Akwapim-Togo-Gebirge.", "Beliebtes Wanderziel.", "Umgeben von tropischem Wald."],
@@ -169,7 +167,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-ER",
     coords: [-0.3, 6.25],
     name: { de: "Kwae-Steilhang", hu: "Kwae-lejtő", ro: "Versantul Kwae", en: "Kwae Escarpment"},
-    image: "/poi-images/kwae-escarpment-relief-v2.webp",
     description: { de: "Eine markante Geländestufe in der Eastern Region.", hu: "Kifejezett tereplépcső a Keleti régióban.", ro: "O treaptă de relief marcantă în regiunea Eastern.", en: "A prominent escarpment in the Eastern Region." , es: "Un escalón geográfico prominente en la Región Oriental.", pt: "Um degrau geográfico proeminente na Região Oriental.", fr: "Un escarpement géographique proéminent dans la Région Orientale."},
     facts: {
       de: ["Prägt das Landschaftsbild.", "Erosionsanfälliges Gelände.", "Bietet weite Aussicht.", "Wichtiger ökologischer Korridor."],
@@ -250,7 +247,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-ER",
     coords: [-0.65, 6.6],
     name: { de: "Kwahu-Plateau", hu: "Kwahu-fennsík", ro: "Podișul Kwahu", en: "Kwahu Plateau"},
-    image: "/poi-images/kwahu-plateau-relief-v2.webp",
     description: { de: "Ein Hochplateau, das einen kühleren Lebensraum bietet.", hu: "Fennsík, amely hűvösebb élőhelyet biztosít.", ro: "Un podiș care oferă un habitat mai răcoros.", en: "A high plateau offering a cooler habitat." , es: "Una meseta alta que ofrece un hábitat más fresco.", pt: "Um planalto elevado que oferece um habitat mais fresco.", fr: "Un plateau élevé qui offre un habitat plus frais."},
     facts: {
       de: ["Dient als Erholungsgebiet.", "Kühleres Klima als das Tiefland.", "Traditionelle Siedlungsregion.", "Landwirtschaftlich genutzt."],
@@ -286,7 +282,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-NP",
     coords: [-0.5, 9.0],
     name: { de: "Volta-Becken", hu: "Volta-medence", ro: "Bazinul Volta", en: "Volta Basin"},
-    image: "/poi-images/volta-basin-relief-v2.webp",
     description: { de: "Ein großes geologisches Becken, das den größten Teil Ghanas einnimmt.", hu: "Nagy geológiai medence, amely Ghána nagy részét elfoglalja.", ro: "Un bazin geologic mare care ocupă cea mai mare parte a Ghanei.", en: "A large geological basin covering most of Ghana." , es: "Una gran cuenca geológica que ocupa la mayor parte de Ghana.", pt: "Uma grande bacia geológica que ocupa a maior parte do Gana.", fr: "Un vaste bassin géologique occupant la majeure partie du Ghana."},
     facts: {
       de: ["Zentrum des ghanaischen Flusssystems.", "Sandsteinformationen dominieren.", "Teilweise bewaldet.", "Wirtschaftlich bedeutsam."],
@@ -322,7 +317,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-BE",
     coords: [-2.25, 8.28],
     name: { de: "Bui-Schlucht", hu: "Bui-szurdok", ro: "Cheile Bui", en: "Bui Gorge"},
-    image: "/poi-images/bui-gorge-relief-v2.webp",
     description: { de: "Eine durch den Schwarzen Volta geformte Schlucht.", hu: "A Fekete-Volta által formált szurdok.", ro: "Un defileu adânc și spectaculos tăiat de râul Volta Neagră, locul actual al unui important baraj hidroenergetic.", en: "A gorge formed by the Black Volta." , es: "Una garganta formada por el Volta Negro.", pt: "Uma garganta formada pelo Volta Negro.", fr: "Une gorge formée par la Volta Noire."},
     facts: {
       de: ["Ort eines Wasserkraftwerks.", "Steile Felswände.", "Reiches Wildleben.", "Landschaftlich beeindruckend."],
@@ -439,7 +433,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-AH",
     coords: [-1.5, 6.7],
     name: { de: "Ashanti-Hochland", hu: "Ashanti-felföld", ro: "Podișul Ashanti", en: "Ashanti Uplands"},
-    image: "/poi-images/ashanti-uplands-relief-v2.webp",
     description: { de: "Hügellandschaft im Herzen des Landes.", hu: "Ghána középső részén elterülő dombvidék, amely az ország mezőgazdasági szívét alkotja.", ro: "Regiune deluroasă în inima țării.", en: "Hilly landscape in the heart of the country." , es: "Paisaje de colinas en el corazón del país.", pt: "Paisagem de colinas no coração do país.", fr: "Paysage vallonné au cœur du pays."},
     facts: {
       de: ["Bekannt für Goldvorkommen.", "Dichte Vegetation.", "Wichtige landwirtschaftliche Zone.", "Sanfte Erhebungen."],
@@ -475,7 +468,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-VR",
     coords: [1.1, 6.0],
     name: { de: "Denu-Küstenebene", hu: "Denu-alföld", ro: "Câmpia de coastă Denu", en: "Denu Coastal Plain"},
-    image: "/poi-images/denu-coastal-plain-relief-v2.webp",
     description: { de: "Ein flaches Küstentiefland im Südosten Ghanas, das durch Lagunen und sandige Strände geprägt ist.", hu: "Ghána délkeleti részén, a Togo határánál fekvő homokos tengerparti síkság.", ro: "Zonă costieră plată în estul Ghanei.", en: "A flat, low-lying coastal area in southeastern Ghana characterized by sandy beaches and lagoons." , es: "Una llanura costera baja en el sureste de Ghana, caracterizada por lagunas y playas arenosas.", pt: "Uma planície costeira baixa no sudeste do Gana, caracterizada por lagoas e praias arenosas.", fr: "Une plaine côtière basse au sud-est du Ghana, caractérisée par des lagunes et des plages de sable."},
     facts: {
       de: ["Liegt in der Volta Region.", "Wichtige Region für den Fischfang.", "Geringe Erhebung über dem Meeresspiegel."],
@@ -556,7 +548,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-NP",
     coords: [-0.8, 9.8],
     name: { de: "Gambo-Hügel", hu: "Gambo-dombok", ro: "Dealurile Gambo", en: "Gambo Hills"},
-    image: "/poi-images/gambo-hills-relief-v2.webp",
     description: { de: "Eine Hügelkette im Norden des Landes.", hu: "Dombvidék az ország északi részén.", ro: "O serie de dealuri ondulate situate în nordul Ghanei, caracterizate prin vegetație rară și soluri lateritice.", en: "A chain of hills in the north of the country." , es: "Una cadena de colinas en el norte del país.", pt: "Uma cadeia de colinas no norte do país.", fr: "Une chaîne de collines dans le nord du pays."},
     facts: {
       de: ["Trockenes Klima.", "Savannenvegetation.", "Kleine Siedlungen.", "Geringe Erhebung."],
@@ -637,7 +628,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-ER",
     coords: [-0.05, 6.15],
     name: { de: "Akuapem-Kamm", hu: "Akuapem-gerinc", ro: "Creasta Akuapem", en: "Akuapem Ridge"},
-    image: "/poi-images/akuapem-ridge-relief-v2.webp",
     description: { de: "Ein markanter Gebirgszug nordöstlich von Accra, bekannt für sein kühleres Klima und seine malerischen Aussichten.", hu: "Hegyvonulat Accrától északkeletre.", ro: "Un lanț muntos la nord-est de Accra.", en: "A prominent range of hills in southern Ghana known for its cool climate and lush vegetation." , es: "Una cordillera prominente al noreste de Accra, conocida por su clima más fresco y sus vistas pintorescas.", pt: "Uma cordilheira proeminente a nordeste de Acra, conhecida pelo seu clima mais fresco e vistas pitorescas.", fr: "Une crête montagneuse proéminente au nord-est d'Accra, connue pour son climat plus frais et ses vues pittoresques."},
     facts: {
       de: ["Teil des Akwapim-Togo-Gebirges.", "Beliebtes Ausflugsziel.", "Zentrum für Kakaoanbau in der Geschichte."],
@@ -673,7 +663,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-WR",
     coords: [-2.5, 5.5],
     name: { de: "Tano-Becken", hu: "Tano-medence", ro: "Bazinul Tano", en: "Tano Basin"},
-    image: "/poi-images/tano-basin-relief-v2.webp",
     description: { de: "Das Einzugsgebiet des Tano-Flusses im Südwesten, eine Region mit dichten Regenwäldern und fruchtbaren Böden.", hu: "A Tano folyó vízgyűjtő területe Ghána délnyugati részén, gazdag természeti kincsekkel.", ro: "O zonă depresionară fertilă formată de cursul râului Tano, esențială pentru agricultura din sud-vest.", en: "A humid basin in southwestern Ghana." , es: "La cuenca del río Tano en el suroeste, una región con densas selvas tropicales y suelos fértiles.", pt: "A bacia hidrográfica do rio Tano no sudoeste, uma região com densas florestas tropicais e solos férteis.", fr: "Le bassin versant de la rivière Tano dans le sud-ouest, une région aux forêts tropicales denses et aux sols fertiles."},
     facts: {
       de: ["Wichtiger Wasserweg.", "Reich an Bodenschätzen.", "Bedeutendes landwirtschaftliches Gebiet."],
@@ -709,7 +698,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-BE",
     coords: [-1.7, 8.0],
     name: { de: "Kintampo-Plateau", hu: "Kintampo-fennsík", ro: "Podișul Kintampo", en: "Kintampo Plateau"},
-    image: "/poi-images/kintampo-plateau-relief-v2.webp",
     description: { de: "Eine hochgelegene Hochebene im Zentrum Ghanas, die den Übergang vom Waldland zur Savanne markiert.", hu: "Ghána központi részén található fennsík, amely vízválasztóként is szolgál.", ro: "Zonă de tranziție între pădure și savană.", en: "A transition zone between forest and savanna." , es: "Una meseta elevada en el centro de Ghana que marca la transición del bosque a la sabana.", pt: "Um planalto elevado no centro do Gana que marca a transição da floresta para a savana.", fr: "Un plateau élevé au centre du Ghana qui marque la transition de la forêt à la savane."},
     facts: {
       de: ["Geografisches Zentrum des Landes.", "Bekannt für seine Wasserfälle.", "Prägend für das regionale Relief."],
@@ -745,7 +733,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-UE",
     coords: [-0.9, 10.5],
     name: { de: "Weißes-Volta-Tal", hu: "Fehér-Volta-völgy", ro: "Valea Volta Albă", en: "White Volta Valley"},
-    image: "/poi-images/white-volta-valley-relief-v2.webp",
     description: { de: "Ein fruchtbares Tal entlang des Weißen Volta.", hu: "Termékeny völgy a Fehér-Volta mentén.", ro: "O vale fertilă de-a lungul râului Volta Albă.", en: "A fertile valley along the White Volta." , es: "Un valle fértil a lo largo del Volta Blanco.", pt: "Um vale fértil ao longo do Volta Branco.", fr: "Une vallée fertile le long de la Volta Blanche."},
     facts: {
       de: ["Wichtige Lebensader im Norden.", "Landwirtschaftlich intensiv genutzt.", "Überschwemmungsgebiete.", "Saisonaler Wasserfluss."],
@@ -826,7 +813,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-ER",
     coords: [-0.35, 6.5],
     name: { de: "Fanteakwa-Steilhang", hu: "Fanteakwa-lejtő", ro: "Versantul Fanteakwa", en: "Fanteakwa Escarpment"},
-    image: "/poi-images/fanteakwa-escarpment-relief-v2.webp",
     description: { de: "Eine natürliche Geländekante in der Eastern Region.", hu: "Az Akwapim-Togo hegység része, egy meredek peremvidék Ghána keleti felén.", ro: "O treaptă de relief naturală în regiunea Eastern.", en: "A natural escarpment in the Eastern Region." , es: "Un borde natural del terreno en la Región Oriental.", pt: "Uma borda natural do terreno na Região Oriental.", fr: "Un escarpement naturel dans la Région Orientale."},
     facts: {
       de: ["Herausforderndes Gelände.", "Wandermöglichkeiten.", "Aussichtspunkte.", "Starke Vegetation."],
@@ -943,7 +929,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-ER",
     coords: [-0.2, 5.9],
     name: { de: "Akwapim-Ebene", hu: "Akwapim-alföld", ro: "Câmpia Akwapim", en: "Akwapim Plains"},
-    image: "/poi-images/akwapim-plains-relief-v2.webp",
     description: { de: "Die weiten Ebenen am Fuße des Akwapim-Gebirges, die eine wichtige landwirtschaftliche Zone darstellen.", hu: "Az Akwapim-hegység lábánál elterülő termékeny síkság Dél-Ghánában.", ro: "Teren plat până la ușor deluros sub creastă.", en: "A vast lowland area stretching south from the Akuapem hills towards the coast." , es: "Las vastas llanuras al pie de las montañas Akwapim, que constituyen una zona agrícola importante.", pt: "As vastas planícies no sopé das montanhas Akwapim, que constituem uma importante zona agrícola.", fr: "Les vastes plaines au pied des montagnes d'Akwapim, qui constituent une zone agricole importante."},
     facts: {
       de: ["Fruchtbare Sedimentböden.", "Nähe zur Hauptstadt Accra.", "Vielseitige landwirtschaftliche Nutzung."],
@@ -1177,7 +1162,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-UE",
     coords: [-0.85, 10.8],
     name: { de: "Bongo-Hügel", hu: "Bongo-dombok", ro: "Dealurile Bongo", en: "Bongo Hills"},
-    image: "/poi-images/bongo-hills-relief-v2.webp",
     description: { de: "Markante Granit-Hügel im extremen Norden.", hu: "Ghána északi részén található gránitsziklás dombvidék, különleges alakzatokkal.", ro: "Dealuri de granit marcante în extremul nord.", en: "Prominent granite hills in the extreme north." , es: "Llamativas colinas de granito en el extremo norte.", pt: "Colinas de granito marcantes no extremo norte.", fr: "Collines de granit marquantes dans l'extrême nord."},
     facts: {
       de: ["Einzigartige Felsformationen.", "Savannenlandschaft.", "Kulturreiches Gebiet.", "Trockenzeit-geprägt."],
@@ -1285,7 +1269,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-OT",
     coords: [0.4, 7.8],
     name: { de: "Buem-Steilhang", hu: "Buem-lejtő", ro: "Versantul Buem", en: "Buem Escarpment"},
-    image: "/poi-images/buem-escarpment-relief-v2.webp",
     description: { de: "Eine markante Geländestufe in der Oti-Region.", hu: "Természetes tereplépcső az Oti régióban.", ro: "O treaptă de relief marcată în regiunea Oti.", en: "A prominent escarpment in the Oti region." , es: "Un escalón geográfico prominente en la región de Oti.", pt: "Um degrau geográfico proeminente na região de Oti.", fr: "Un escarpement géographique proéminent dans la région d'Oti."},
     facts: {
       de: ["Wichtige geologische Formation.", "Dichter Bewuchs.", "Landschaftliches Highlight.", "Herausforderndes Gelände."],
@@ -1366,7 +1349,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-AA",
     coords: [0.05, 5.9],
     name: { de: "Shai-Hügel", hu: "Shai-dombok", ro: "Dealurile Shai", en: "Shai Hills"},
-    image: "/poi-images/shai-hills-relief-v2.webp",
     description: { de: "Ein kleiner Bergpark nahe der Hauptstadt.", hu: "Accra síkságából kiemelkedő szigethegyek, amelyek ma természetvédelmi területet alkotnak.", ro: "Un mic parc montan aproape de capitală.", en: "A small mountain park near the capital." , es: "Un pequeño parque de montaña cerca de la capital.", pt: "Um pequeno parque de montanha perto da capital.", fr: "Un petit parc de montagne près de la capitale."},
     facts: {
       de: ["Beliebtes Ausflugsziel.", "Felsige Formationen.", "Wildlife Reserve.", "Kurze Wanderungen."],
@@ -1447,7 +1429,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-WR",
     coords: [-2.1, 5.3],
     name: { de: "Kweku-Hügel", hu: "Kweku-dombok", ro: "Dealurile Kweku", en: "Kweku Hills"},
-    image: "/poi-images/kweku-hills-relief-v2.webp",
     description: { de: "Hügellandschaft im Westen Ghanas.", hu: "Dombvidék Ghána nyugati részén.", ro: "Un grup de dealuri proeminente care domină peisajul local, oferind perspective asupra platoului înconjurător.", en: "Hilly region in western Ghana." , es: "Paisaje de colinas en el oeste de Ghana.", pt: "Paisagem de colinas no oeste do Gana.", fr: "Paysage de collines dans l'ouest du Ghana."},
     facts: {
       de: ["Regenwald geprägt.", "Geringe Erhebung.", "Kakaoplantagen.", "Feuchtes Klima."],
@@ -1564,7 +1545,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-ER",
     coords: [-0.75, 6.55],
     name: { de: "Nkawkaw-Steilhang", hu: "Nkawkaw-lejtő", ro: "Versantul Nkawkaw", en: "Nkawkaw Escarpment"},
-    image: "/poi-images/nkawkaw-escarpment-relief-v2.webp",
     description: { de: "Eine beeindruckende Felswand im Kwahu-Hochland, die das Landschaftsbild der Eastern Region dominiert.", hu: "A Kwahu-fennsík meredek, látványos sziklafala a déli országrészben.", ro: "O faleză stâncoasă abruptă care marchează tranziția dintre câmpia de coastă și platoul Kwahu.", en: "The transition from plateau to lowland." , es: "Una impresionante pared rocosa en las tierras altas de Kwahu que domina el paisaje de la Eastern Region.", pt: "Uma impressionante parede rochosa nas terras altas de Kwahu que domina a paisagem da Eastern Region.", fr: "Une paroi rocheuse impressionnante dans les hautes terres de Kwahu qui domine le paysage de l'Eastern Region."},
     facts: {
       de: ["Markanter Steilhang.", "Beliebt bei Gleitschirmfliegern.", "Bietet weite Ausblicke über die Ebenen."],

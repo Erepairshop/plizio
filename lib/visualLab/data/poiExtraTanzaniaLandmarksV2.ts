@@ -57,7 +57,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Benjamin Mkapa Nemzeti Stadion",
       ro: "Stadionul Național Benjamin Mkapa",
       en: "Benjamin Mkapa National Stadium"},
-    image: "/poi-images/benjamin-mkapa-stadium-landmarks-v2.webp",
     description: {
       de: "Das größte Stadion in Tansania, das in Dar es Salaam liegt.",
       hu: "Tanzánia legnagyobb stadionja, amely Dar es Salaamban található.",
@@ -105,7 +104,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Szent József Katedrális",
       ro: "Catedrala Sfântul Iosif",
       en: "St. Joseph's Cathedral"},
-    image: "/poi-images/st-josephs-cathedral-landmarks-v2.webp",
     description: {
       de: "Eine beeindruckende gotische Kirche im Zentrum von Dar es Salaam, erbaut von deutschen Missionaren.",
       hu: "Egy lenyűgöző gótikus templom Dar es Salaam központjában, amelyet német misszionáriusok építettek.",
@@ -141,7 +139,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Azania Front Templom",
       ro: "Biserica Azania Front",
       en: "Azania Front Lutheran Church"},
-    image: "/poi-images/azania-front-church-landmarks-v2.webp",
     description: {
       de: "Ein markantes Wahrzeichen mit einem roten Ziegeldach an der Hafenfront von Dar es Salaam.",
       hu: "Egy feltűnő nevezetesség piros cseréptetővel Dar es Salaam kikötői sétányán.",
@@ -327,7 +324,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "PSPF Ikertornyok",
       ro: "Turnurile Gemene PSPF",
       en: "PSPF Twin Towers"},
-    image: "/poi-images/pspf-twin-towers-landmarks-v2.webp",
     description: {
       de: "Zwei ikonische Wolkenkratzer im Geschäftszentrum von Dar es Salaam, die das Stadtbild prägen.",
       hu: "Két ikonikus felhőkarcoló Dar es Salaam üzleti központjában, amelyek meghatározzák a városképet.",
@@ -600,7 +596,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Uhuru-emlékmű",
       ro: "Monumentul Uhuru",
       en: "Uhuru Monument"},
-    image: "/poi-images/uhuru-monument-landmarks-v2.webp",
     description: {
       de: "Ein bedeutendes Monument zur Feier der Unabhängigkeit Tansanias im Herzen von Dar es Salaam.",
       hu: "Egy jelentős emlékmű Tanzánia függetlenségének megünneplésére Dar es Salaam szívében.",
@@ -729,7 +724,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Nyerere Híd",
       ro: "Podul Nyerere",
       en: "Nyerere Bridge"},
-    image: "/poi-images/nyerere-bridge-landmarks-v2.webp",
     description: {
       de: "Eine majestätische Hängebrücke, die das Zentrum von Dar es Salaam mit dem Stadtteil Kigamboni verbindet.",
       hu: "Egy fenséges függőhíd, amely Dar es Salaam központját köti össze a Kigamboni negyeddel.",
@@ -777,7 +771,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Parlamenti Épület (Bunge)",
       ro: "Clădirea Parlamentului (Bunge)",
       en: "Parliament Building (Bunge)"},
-    image: "/poi-images/bunge-building-landmarks-v2.webp",
     description: {
       de: "Der beeindruckende Sitz der Nationalversammlung von Tansania in der Hauptstadt Dodoma.",
       hu: "A tanzániai Nemzetgyűlés lenyűgöző székhelye a fővárosban, Dodomában.",
@@ -1014,7 +1007,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Gaddafi-mecset Dodoma",
       ro: "Moscheea Gaddafi din Dodoma",
       en: "Gaddafi Mosque Dodoma"},
-    image: "/poi-images/gaddafi-mosque-landmarks-v2.webp",
     description: {
       de: "Eine der größten Moscheen in Tansania, finanziert vom ehemaligen libyschen Führer Muammar al-Gaddafi.",
       hu: "Tanzánia egyik legnagyobb mecsetje, amelyet a volt líbiai vezető, Moammer Kadhafi finanszírozott.",
@@ -1179,7 +1171,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Régi Patika",
       ro: "Vechea Farmacie",
       en: "Old Dispensary"},
-    image: "/poi-images/old-dispensary-landmarks-v2.webp",
     description: {
       de: "Ein prachtvoll verziertes Gebäude in Stone Town, das die multikulturelle Architektur Sansibars widerspiegelt.",
       hu: "Egy pompásan díszített épület Stone Townban, amely Zanzibár multikulturális építészetét tükrözi.",
@@ -1380,7 +1371,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Hamamni Perzsa Fürdők",
       ro: "Băile Persane Hamamni",
       en: "Hamamni Persian Baths"},
-    image: "/poi-images/hamamni-persian-baths-landmarks-v2.webp",
     description: {
       de: "Historische öffentliche Bäder in Sansibar, die im späten 19. Jahrhundert für die Elite erbaut wurden.",
       hu: "Történelmi nyilvános fürdők Zanzibárban, amelyeket a 19. század végén építettek az elit számára.",
@@ -1629,7 +1619,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Malindi-mecset",
       ro: "Moscheea Malindi",
       en: "Malindi Mosque"},
-    image: "/poi-images/malindi-mosque-landmarks-v2.webp",
     description: {
       de: "Eine der ältesten Moscheen in Stone Town, bekannt für ihr ungewöhnliches Minarett.",
       hu: "Stone Town egyik legrégebbi mecsetje, amely szokatlan minaretjéről ismert.",
@@ -1722,7 +1711,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Forodhani Zenepavilon",
       ro: "Pavilionul Forodhani",
       en: "Forodhani Bandstand"},
-    image: "/poi-images/forodhani-bandstand-landmarks-v2.webp",
     description: {
       de: "Ein historischer Pavillon in den Forodhani-Gärten, wo abends der berühmte Nachtmarkt stattfindet.",
       hu: "Egy történelmi pavilon a Forodhani kertekben, ahol esténként a híres éjszakai piac zajlik.",
@@ -1815,7 +1803,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "CCM Kirumba Stadion",
       ro: "Stadionul CCM Kirumba",
       en: "CCM Kirumba Stadium"},
-    image: "/poi-images/ccm-kirumba-stadium-landmarks-v2.webp",
     description: {
       de: "Ein bedeutendes Sportstadion in Mwanza, das oft für große Fußballspiele genutzt wird.",
       hu: "Egy jelentős sportstadion Mwanzában, amelyet gyakran használnak nagy futballmérkőzésekre.",
@@ -2304,7 +2291,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Arusha Óratorony",
       ro: "Turnul cu Ceas din Arusha",
       en: "Arusha Clock Tower"},
-    image: "/poi-images/arusha-clock-tower-landmarks-v2.webp",
     description: {
       de: "Ein markantes Wahrzeichen in Arusha, das angeblich genau in der Mitte zwischen Kairo und Kapstadt steht.",
       hu: "Egy feltűnő nevezetesség Arushában, amely állítólag pontosan félúton van Kairó és Fokváros között.",
@@ -2469,7 +2455,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Arusha-nyilatkozat Emlékmű",
       ro: "Monumentul Declarației de la Arusha",
       en: "Arusha Declaration Monument"},
-    image: "/poi-images/arusha-declaration-monument-landmarks-v2.webp",
     description: {
       de: "Ein Monument zur Erinnerung an die sozialistische Grundsatzerklärung Tansanias von 1967.",
       hu: "Tanzánia 1967-es szocialista elvi nyilatkozatára emlékeztető emlékmű.",
@@ -2742,7 +2727,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Sheikh Amri Abeid Stadion",
       ro: "Stadionul Sheikh Amri Abeid",
       en: "Sheikh Amri Abeid Stadium"},
-    image: "/poi-images/sheikh-amri-abeid-stadium-landmarks-v2.webp",
     description: {
       de: "Das zentrale Fußballstadion in Arusha, Schauplatz zahlreicher politischer und sportlicher Ereignisse.",
       hu: "Arusha központi futballstadionja, számos politikai és sportesemény helyszíne.",
@@ -2943,7 +2927,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Mwl. Nyerere Mauzóleum",
       ro: "Mausoleul Mwl. Nyerere",
       en: "Mwl. Nyerere Mausoleum"},
-    image: "/poi-images/mwl-nyerere-mausoleum-landmarks-v2.webp",
     description: {
       de: "Die letzte Ruhestätte des ersten Präsidenten Tansanias, Julius Nyerere, in seinem Heimatdorf Butiama.",
       hu: "Tanzánia első elnökének, Julius Nyererének végső nyughelye szülőfalujában, Butiamában.",
@@ -3072,7 +3055,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Krisztus Király Katedrális",
       ro: "Catedrala Hristos Regele",
       en: "Christ the King Cathedral"},
-    image: "/poi-images/christ-the-king-cathedral-moshi-landmarks-v2.webp",
     description: {
       de: "Eine beeindruckende katholische Kirche in Moshi am Fuße des Kilimandscharo.",
       hu: "Egy lenyűgöző katolikus templom Moshiban, a Kilimandzsáró lábánál.",
@@ -3165,7 +3147,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Umoja-emlékmű",
       ro: "Monumentul Umoja",
       en: "Umoja Monument"},
-    image: "/poi-images/umoja-monument-moshi-landmarks-v2.webp",
     description: {
       de: "Ein Denkmal in Moshi, das Einheit und Zusammenhalt symbolisiert.",
       hu: "Egy emlékmű Moshiban, amely az egységet és az összetartozást szimbolizálja.",
@@ -3294,7 +3275,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Iringa Boma",
       ro: "Iringa Boma",
       en: "Iringa Boma"},
-    image: "/poi-images/iringa-boma-landmarks-v2.webp",
     description: {
       de: "Ein historisches Gebäude, das einst als deutsche Kolonialverwaltung diente und heute ein Museum beherbergt.",
       hu: "Egy történelmi épület, amely egykor német gyarmati közigazgatásként szolgált, ma pedig múzeumot ad otthont.",
@@ -3783,7 +3763,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Dar es Salaam Főpályaudvar",
       ro: "Gara Centrală din Dar es Salaam",
       en: "Dar es Salaam Central Railway Station"},
-    image: "/poi-images/central-railway-station-dar-landmarks-v2.webp",
     description: {
       de: "Ein koloniales Bahnhofsgebäude, das den Startpunkt der historischen Zentralbahn bildet.",
       hu: "Egy gyarmati vasútállomás épülete, amely a történelmi központi vasútvonal kiindulópontja.",
@@ -4704,7 +4683,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Makumbusho Falumúzeum",
       ro: "Muzeul Satului Makumbusho",
       en: "Makumbusho Village Museum"},
-    image: "/poi-images/makumbusho-village-museum-landmarks-v2.webp",
     description: {
       de: "Ein Freilichtmuseum in Dar es Salaam, das traditionelle Häuser der tansanischen Stämme präsentiert.",
       hu: "Egy szabadtéri múzeum Dar es Salaamban, amely a tanzániai törzsek hagyományos házait mutatja be.",
@@ -4752,7 +4730,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Wami Híd",
       ro: "Podul Wami",
       en: "Wami Bridge"},
-    image: "/poi-images/wami-bridge-landmarks-v2.webp",
     description: {
       de: "Eine bedeutende Infrastrukturbrücke in der Pwani-Region, die eine wichtige Verkehrsader bildet.",
       hu: "Jelentős infrastrukturális híd a Pwani régióban, amely fontos közlekedési artéria.",
@@ -4938,7 +4915,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Tanzániai Nemzeti Bank Központ",
       ro: "Sediul Băncii Tanzaniei",
       en: "Bank of Tanzania Headquarters"},
-    image: "/poi-images/bank-of-tanzania-headquarters-landmarks-v2.webp",
     description: {
       de: "Zwei markante, gläserne Türme in Dar es Salaam, die die Zentralbank des Landes beherbergen.",
       hu: "Két feltűnő üvegtorony Dar es Salaamban, amelyek az ország jegybankjának adnak otthont.",
@@ -5103,7 +5079,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: "Aga Khan Kórház",
       ro: "Spitalul Aga Khan",
       en: "Aga Khan Hospital"},
-    image: "/poi-images/aga-khan-hospital-dar-landmarks-v2.webp",
     description: {
       de: "Eine hochmoderne medizinische Einrichtung in Dar es Salaam mit beeindruckender Architektur.",
       hu: "Egy ultramodern egészségügyi létesítmény Dar es Salaamban, lenyűgöző építészettel.",

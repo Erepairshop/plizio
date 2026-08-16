@@ -8,7 +8,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-3",
     coords: [10.2333, -0.7000],
     name: { de: "Ogooué-Fluss", hu: "Ogooué folyó", ro: "Râul Ogooué", en: "Ogooué River"},
-    image: "/poi-images/ogooue-river-nature-v2.webp",
     description: { de: "Der längste Fluss Gabuns, der fast das gesamte Land durchquert und in den Atlantik mündet.", hu: "Gabon leghosszabb folyója, amely szinte az egész országon keresztülfolyik, és az Atlanti-óceánba torkollik.", ro: "Cel mai lung râu din Gabon, care traversează aproape întreaga țară și se varsă în Oceanul Atlantic.", en: "The longest river in Gabon, traversing almost the entire country before emptying into the Atlantic Ocean." , es: "El río más largo de Gabón, que cruza casi todo el país y desemboca en el Atlántico.", pt: "O rio mais longo do Gabão, que atravessa quase todo o país e desagua no Atlântico.", fr: "Le plus long fleuve du Gabon, qui traverse presque tout le pays pour se jeter dans l'Atlantique."},
     descriptionAdvanced: {
       de: "Der Ogooué ist der bedeutendste Fluss Gabuns und mit einer Länge von etwa 1.200 Kilometern einer der großen Ströme Westzentralafrikas. Er entspringt auf den Batéké-Plateaus in der Republik Kongo und durchfließt Gabun fast in seiner gesamten Breite von Osten nach Westen. Sein Einzugsgebiet umfasst rund 267.000 Quadratkilometer, was fast das gesamte Staatsgebiet Gabuns abdeckt. Der Fluss ist eine lebenswichtige Verkehrsader, besonders in den Regionen, in denen dichte Regenwälder den Straßenbau erschweren. Historisch gesehen war der Ogooué der Weg für Entdecker wie Pierre Savorgnan de Brazza, um das Landesinnere zu erschließen. An seinen Ufern liegen wichtige Städte wie Lambaréné, bekannt durch das Krankenhaus von Albert Schweitzer. Der Fluss mündet südlich von Port-Gentil in einem riesigen Delta in den Atlantik, wobei er enorme Sedimentmengen transportiert.",
@@ -43,7 +42,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-6",
     coords: [12.8667, 0.5667],
     name: { de: "Ivindo-Fluss", hu: "Ivindo folyó", ro: "Râul Ivindo", en: "Ivindo River"},
-    image: "/poi-images/ivindo-river-nature-v2.webp",
     description: { de: "Ein bedeutender Nebenfluss des Ogooué, bekannt für seine spektakulären Wasserfälle.", hu: "Az Ogooué jelentős mellékfolyója, amely látványos vízeséseiről ismert.", ro: "Un afluent major al Ogooué, cunoscut pentru cascadele sale spectaculoase.", en: "A major tributary of the Ogooué, famous for its spectacular waterfalls." , es: "Un importante afluente del Ogooué, conocido por sus espectaculares cataratas.", pt: "Um importante afluente do Ogooué, conhecido pelas suas cataratas espetaculares.", fr: "Un affluent majeur de l'Ogooué, célèbre pour ses chutes spectaculaires."},
     descriptionAdvanced: {
       de: "Der Ivindo ist der wichtigste Nebenfluss des Ogooué im Nordosten Gabuns und bekannt für seine unberührte Wildnis und spektakulären Wasserfälle. Er fließt durch den Ivindo-Nationalpark, der seit 2021 zum UNESCO-Welterbe gehört. Besonders berühmt sind die Kongou-Fälle, die zu den imposantesten Wasserfällen Afrikas zählen und sich über eine Breite von mehr als drei Kilometern erstrecken. Der Fluss ist ein Schwarzwasserfluss, dessen dunkle Farbe durch gelöste Gerbstoffe aus der umliegenden Vegetation entsteht. In seinem Einzugsgebiet leben bedeutende Populationen von Waldelefanten, Flachlandgorillas und Schimpansen. Aufgrund seiner abgelegenen Lage und der zahlreichen Stromschnellen ist der Ivindo weitgehend frei von menschlicher Besiedlung geblieben, was ihn zu einem Rückzugsort für seltene Tierarten wie den Graupapagei macht. Der Fluss ist zudem für seine außergewöhnliche Vielfalt an endemischen Fischarten bekannt.",
@@ -78,7 +76,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-4",
     coords: [11.0500, -1.8667],
     name: { de: "Ngounié-Fluss", hu: "Ngounié folyó", ro: "Râul Ngounié", en: "Ngounié River"},
-    image: "/poi-images/ngounie-river-nature-v2.webp",
     description: { de: "Ein wichtiger Fluss im Südwesten Gabuns, der fruchtbare Täler durchfließt.", hu: "Fontos folyó Gabon délnyugati részén, amely termékeny völgyeken halad keresztül.", ro: "Un râu important în sud-vestul Gabonului, care curge prin văi fertile.", en: "An important river in southwestern Gabon, flowing through fertile valleys." , es: "Un río importante en el suroeste de Gabón que atraviesa valles fértiles.", pt: "Um rio importante no sudoeste do Gabão que atravessa vales férteis.", fr: "Une rivière majeure du sud-ouest du Gabon, traversant des vallées fertiles."},
     descriptionAdvanced: {
       de: "Die Ngounié ist der zweitwichtigste Nebenfluss des Ogooué und durchfließt den Süden Gabuns in nördlicher Richtung. Sie entspringt im zentralen Hochland des Chaillu-Massivs nahe der Grenze zur Republik Kongo. Auf ihrem Weg passiert sie bedeutende Städte wie Mouila und Fougamou, bevor sie schließlich bei Lambaréné in den Ogooué mündet. Die Ngounié ist bekannt für ihre landschaftliche Schönheit, geprägt durch sanfte Hügel und dichte Galeriewälder. In der Kolonialzeit war der Fluss ein wichtiger Transportweg für den Export von Erdnüssen und Palmöl aus dem Landesinneren. Heute spielt er eine zentrale Rolle für die lokale Fischerei und die Landwirtschaft in der Provinz Ngounié. Entlang des Flusses finden sich auch mehrere beeindruckende Stromschnellen und Wasserfälle, wie die Chutes de l'Impératrice, die benannt wurden zu Ehren der Kaiserin Eugénie während der französischen Expeditionen.",
@@ -113,7 +110,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-5",
     coords: [11.0333, -3.0000],
     name: { de: "Nyanga-Fluss", hu: "Nyanga folyó", ro: "Râul Nyanga", en: "Nyanga River"},
-    image: "/poi-images/nyanga-river-nature-v2.webp",
     description: { de: "Der südlichste Fluss Gabuns, der durch die Provinz Nyanga zum Meer fließt.", hu: "Gabon legdélibb folyója, amely Nyanga tartományon keresztül éri el a tengert.", ro: "Cel mai sudic râu din Gabon, care curge prin provincia Nyanga spre mare.", en: "The southernmost river in Gabon, flowing through the Nyanga province to the sea." , es: "El río más meridional de Gabón, que fluye hacia el mar a través de la provincia de Nyanga.", pt: "O rio mais meridional do Gabão, que corre para o mar através da província de Nyanga.", fr: "Le fleuve le plus au sud du Gabon, s'écoulant vers la mer à travers la province de la Nyanga."},
     descriptionAdvanced: {
       de: "Der Nyanga ist mit einer Länge von etwa 600 Kilometern der zweitgrößte Fluss Gabuns, der direkt in den Atlantik mündet. Er entspringt im südlichen Teil des Chaillu-Massivs und fließt zunächst nach Süden in die Republik Kongo, bevor er in einem weiten Bogen nach Nordwesten zurückkehrt und Gabun im äußersten Süden durchquert. Sein Lauf ist geprägt von tiefen Tälern und weiten Ebenen, die eine vielfältige Flora und Fauna beherbergen. An seiner Mündung bei Mayumba bildet der Fluss ein komplexes System aus Ästuar und Lagunen, das im Mayumba-Nationalpark geschützt ist. Die Region um den Nyanga ist relativ dünn besiedelt und bewahrt dadurch einen hohen Grad an biologischer Integrität. Der Fluss ist reich an Fisch und dient den lokalen Gemeinschaften als primäre Lebensgrundlage. Geologisch gesehen ist das Nyanga-Tal für seine Kalksteinformationen und die damit verbundenen Höhlensysteme bekannt.",
@@ -148,7 +144,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-7",
     coords: [11.8333, -1.3333],
     name: { de: "Berg Iboundji", hu: "Iboundji-hegy", ro: "Muntele Iboundji", en: "Mount Iboundji"},
-    image: "/poi-images/mount-iboundji-nature-v2.webp",
     description: { de: "Einer der höchsten Gipfel in Gabun, gelegen in der Provinz Ogooué-Lolo.", hu: "Gabon egyik legmagasabb csúcsa, amely Ogooué-Lolo tartományban található.", ro: "Unul dintre cele mai înalte vârfuri din Gabon, situat în provincia Ogooué-Lolo.", en: "One of the highest peaks in Gabon, located in the Ogooué-Lolo province." , es: "Uno de los picos más altos de Gabón, situado en la provincia de Ogooué-Lolo.", pt: "Um dos picos mais altos do Gabão, situado na província de Ogooué-Lolo.", fr: "L'un des plus hauts sommets du Gabon, situé dans la province de l'Ogooué-Lolo."},
     descriptionAdvanced: {
       de: "Der Mount Iboundji ist mit einer Höhe von etwa 1.575 Metern der höchste Berg Gabuns und ein zentrales Element des Chaillu-Massivs im Zentrum des Landes. Der Gipfel ist fast ständig in Wolken gehüllt, was zur Entstehung eines einzigartigen Bergregenwaldes mit hoher Feuchtigkeit und kühleren Temperaturen geführt hat. Geologisch besteht der Berg aus uraltem präkambrischem Gestein, das über Millionen von Jahren durch Erosion geformt wurde. Die Hänge des Iboundji beherbergen eine außergewöhnliche Artenvielfalt, darunter seltene Orchideen und endemische Pflanzenarten, die nur in diesen Höhenlagen vorkommen. Obwohl der Berg für Wanderer und Wissenschaftler von großem Interesse ist, bleibt er aufgrund der dichten Vegetation und der fehlenden Infrastruktur schwer zugänglich. In der lokalen Kultur hat der Berg eine spirituelle Bedeutung und gilt oft als Sitz von Ahnengeistern. Die Erhaltung dieses Ökosystems ist entscheidend für den Schutz der Wassereinzugsgebiete der umliegenden Flüsse.",
@@ -183,7 +178,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-4",
     coords: [11.4000, -1.7000],
     name: { de: "Berg Milondo", hu: "Milondo-hegy", ro: "Muntele Milondo", en: "Mount Milondo"},
-    image: "/poi-images/mount-milondo-nature-v2.webp",
     description: { de: "Ein markanter Berg in der Ngounié-Region, umgeben von dichtem Wald.", hu: "Jellegzetes hegy a Ngounié régióban, sűrű erdővel körülvéve.", ro: "Un munte proeminent în regiunea Ngounié, înconjurat de pădure deasă.", en: "A prominent mountain in the Ngounié region, surrounded by dense forest." , es: "Una montaña destacada en la región de Ngounié, rodeada de bosque denso.", pt: "Uma montanha marcante na região de Ngounié, rodeada por floresta densa.", fr: "Une montagne remarquable dans la région de la Ngounié, ceinte d'une forêt dense."},
     facts: {
       de: ["Beeindruckende Höhe", "Wichtiger Lebensraum"],
@@ -219,7 +213,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-1",
     coords: [9.3600, 0.3100],
     name: { de: "Pointe-Denis-Strand", hu: "Pointe-Denis tengerpart", ro: "Plaja Pointe-Denis", en: "Pointe-Denis Beach"},
-    image: "/poi-images/pointe-denis-nature-v2.webp",
     description: { de: "Ein wunderschöner Küstenstreifen gegenüber von Libreville, bekannt für seine Ruhe.", hu: "Gyönyörű tengerparti szakasz Libreville-lel szemben, amely nyugalmáról ismert.", ro: "O porțiune frumoasă de coastă vizavi de Libreville, cunoscută pentru liniștea sa.", en: "A beautiful stretch of coastline across from Libreville, known for its tranquility." , es: "Una hermosa franja costera frente a Libreville, conocida por su tranquilidad.", pt: "Uma bela faixa costeira em frente a Libreville, conhecida pela sua tranquilidade.", fr: "Une magnifique bande côtière face à Libreville, réputée pour son calme."},
     facts: {
       de: ["Beliebtes Ausflugsziel", "Schildkröten-Nistplatz"],
@@ -300,7 +293,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-8",
     coords: [8.7100, -0.6300],
     name: { de: "Kap Lopez", hu: "Lopez-fok", ro: "Capul Lopez", en: "Cap Lopez"},
-    image: "/poi-images/cap-lopez-nature-v2.webp",
     description: { de: "Der westlichste Punkt Gabuns, der die Mündung des Ogooué vom Atlantik trennt.", hu: "Gabon legnyugatibb pontja, amely elválasztja az Ogooué torkolatát az Atlanti-óceántól.", ro: "Cel mai vestic punct al Gabonului, care separă gura de vărsare a Ogooué de Atlantic.", en: "The westernmost point of Gabon, separating the mouth of the Ogooué from the Atlantic." , es: "El punto más occidental de Gabón, que separa la desembocadura del Ogooué del Atlántico.", pt: "O ponto mais ocidental do Gabão, que separa a foz do Ogooué do Atlântico.", fr: "Le point le plus à l'ouest du Gabon, séparant l'embouchure de l'Ogooué de l'Atlantique."},
     facts: {
       de: ["Westlichster Punkt", "Historischer Leuchtturm"],
@@ -336,7 +328,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-3",
     coords: [10.0000, -1.0000],
     name: { de: "Onangué-See", hu: "Onangué-tó", ro: "Lacul Onangué", en: "Lake Onangué"},
-    image: "/poi-images/lake-onangue-nature-v2.webp",
     description: { de: "Ein großer Süßwassersee im Ogooué-Delta, reich an Fisch und Vögeln.", hu: "Nagy édesvízi tó az Ogooué-deltában, halakban és madarakban gazdag.", ro: "Un lac mare de apă dulce în delta Ogooué, bogat în pești și păsări.", en: "A large freshwater lake in the Ogooué delta, rich in fish and birds." , es: "Un gran lago de agua dulce en el delta del Ogooué, rico en peces y aves.", pt: "Um grande lago de água doce no delta do Ogooué, rico em peixes e aves.", fr: "Un grand lac d'eau douce dans le delta de l'Ogooué, riche en poissons et en oiseaux."},
     facts: {
       de: ["Teil eines Feuchtgebiets", "Wichtig für lokale Fischer"],
@@ -408,7 +399,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-3",
     coords: [10.3000, -0.9000],
     name: { de: "Mandjé-See", hu: "Mandjé-tó", ro: "Lacul Mandjé", en: "Lake Mandjé"},
-    image: "/poi-images/lake-mandje-nature-v2.webp",
     description: { de: "Ein kleinerer See in der Nähe des Ogooué-Flusses mit einer einzigartigen Flora.", hu: "Kisebb tó az Ogooué folyó közelében, egyedülálló növényvilággal.", ro: "Un lac mai mic lângă râul Ogooué, cu o floră unică.", en: "A smaller lake near the Ogooué River with unique flora." , es: "Un lago pequeño cerca del río Ogooué con una flora única.", pt: "Um lago menor perto do rio Ogooué com uma flora única.", fr: "Un petit lac situé à proximité du fleuve Ogooué, doté d'une flore unique."},
     facts: {
       de: ["Abgelegene Lage", "Naturbelassen"],
@@ -444,7 +434,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-9",
     coords: [13.0000, 1.5000],
     name: { de: "Minkébé-Regenwald", hu: "Minkébé esőerdő", ro: "Pădurea Minkébé", en: "Minkébé Rainforest"},
-    image: "/poi-images/minkebe-forest-nature-v2.webp",
     description: { de: "Eines der größten zusammenhängenden Regenwaldgebiete Zentralafrikas.", hu: "Közép-Afrika egyik legnagyobb összefüggő esőerdőterülete.", ro: "Una dintre cele mai mari zone de pădure tropicală continuă din Africa Centrală.", en: "One of the largest contiguous rainforest areas in Central Africa." , es: "Una de las mayores áreas de selva tropical contigua de África Central.", pt: "Uma das maiores áreas de floresta tropical contígua da África Central.", fr: "L'une des plus vastes zones de forêt tropicale d'un seul tenant en Afrique centrale."},
     facts: {
       de: ["Riesige Artenvielfalt", "Wichtiger Kohlenstoffspeicher"],
@@ -480,7 +469,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-6",
     coords: [11.6000, -0.5000],
     name: { de: "Lopé-Wald", hu: "Lopé erdőség", ro: "Pădurea Lopé", en: "Lopé Forest"},
-    image: "/poi-images/lope-forest-nature-v2.webp",
     description: { de: "Ein Mosaik aus Wald und Savanne, das eine reiche Tierwelt beherbergt.", hu: "Erdő és szavanna mozaikja, amely gazdag állatvilágnak ad otthont.", ro: "Un mozaic de pădure și savană care adăpostește o faună bogată.", en: "A mosaic of forest and savannah that harbors a rich wildlife." , es: "Un mosaico de bosque y sabana que alberga una rica fauna silvestre.", pt: "Um mosaico de floresta e savana que abriga uma rica vida selvagem.", fr: "Une mosaïque de forêt et de savane abritant une faune d'une grande richesse."},
     facts: {
       de: ["UNESCO-Welterbe", "Heimat von Mandrills"],
@@ -516,7 +504,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-1",
     coords: [10.5000, 0.5000],
     name: { de: "Kristallberge", hu: "Kristály-hegység", ro: "Munții de Cristal", en: "Crystal Mountains"},
-    image: "/poi-images/crystal-mountains-nature-v2.webp",
     description: { de: "Ein Gebirgszug im Nordwesten Gabuns, bekannt für seine hohe Biodiversität.", hu: "Hegylánc Gabon északnyugati részén, amely magas biológiai sokféleségéről ismert.", ro: "Un lanț muntos în nord-vestul Gabonului, cunoscut pentru biodiversitatea sa ridicată.", en: "A mountain range in northwestern Gabon, known for its high biodiversity." , es: "Una cadena montañosa en el noroeste de Gabón, conocida por su alta biodiversidad.", pt: "Uma cadeia montanhosa no noroeste do Gabão, conhecida pela sua elevada biodiversidade.", fr: "Une chaîne de montagnes dans le nord-ouest du Gabon, connue pour sa grande biodiversité."},
     facts: {
       de: ["Wolkige Gipfel", "Viele endemische Pflanzen"],
@@ -552,7 +539,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-4",
     coords: [12.0000, -1.5000],
     name: { de: "Chaillu-Massiv", hu: "Chaillu-masszívum", ro: "Masivul Chaillu", en: "Chaillu Massif"},
-    image: "/poi-images/chaillu-massif-nature-v2.webp",
     description: { de: "Ein großes Gebirgsmassiv im Zentrum Gabuns, benannt nach einem Entdecker.", hu: "Hatalmas hegység Gabon központi részén, amelyet egy felfedezőről neveztek el.", ro: "Un masiv muntos mare în centrul Gabonului, numit după un explorator.", en: "A large mountain massif in central Gabon, named after an explorer." , es: "Un gran macizo montañoso en el centro de Gabón, que debe su nombre a un explorador.", pt: "Um grande maciço montanhoso no centro do Gabão, nomeado em homenagem a um explorador.", fr: "Un grand massif montagneux au centre du Gabon, nommé d'après un explorateur."},
     facts: {
       de: ["Quellgebiet vieler Flüsse", "Granitformationen"],
@@ -588,7 +574,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-5",
     coords: [10.6000, -3.4000],
     name: { de: "Mayumba-Küste", hu: "Mayumba-partvidék", ro: "Coasta Mayumba", en: "Mayumba Coast"},
-    image: "/poi-images/mayumba-coast-nature-v2.webp",
     description: { de: "Ein unberührter Küstenabschnitt im Süden, berühmt für die Lederschildkröten.", hu: "Érintetlen tengerparti szakasz délen, amely a kérgesteknőseiről híres.", ro: "O porțiune de coastă curată în sud, renumită pentru țestoasele luth.", en: "A pristine stretch of coastline in the south, famous for leatherback turtles." , es: "Un tramo de costa virgen en el sur, famoso por las tortugas laúd.", pt: "Um trecho de costa intocada no sul, famoso pelas tartarugas-de-couro.", fr: "Un littoral sauvage au sud, célèbre pour ses tortues luths."},
     facts: {
       de: ["Wilder Atlantik", "Wichtiger Naturschutz"],
@@ -624,7 +609,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-1",
     coords: [10.1167, 0.1667],
     name: { de: "Komo-Fluss", hu: "Komo folyó", ro: "Râul Komo", en: "Komo River"},
-    image: "/poi-images/komo-river-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss, der in das Ästuar von Gabun bei Libreville mündet.", hu: "Jelentős folyó, amely a Gabon-esztuárba torkollik Libreville közelében.", ro: "Un râu important care se varsă în estuarul Gabonului lângă Libreville.", en: "A significant river that flows into the Gabon Estuary near Libreville." , es: "Un río importante que desemboca en el estuario de Gabón cerca de Libreville.", pt: "Um rio importante que desagua no estuário do Gabão, perto de Libreville.", fr: "Un fleuve important qui se jette dans l'estuaire du Gabon près de Libreville."},
     facts: {
       de: ["Mündet ins Ästuar", "Wichtiger Verkehrsweg"],
@@ -660,7 +644,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-1",
     coords: [9.8000, 1.0000],
     name: { de: "Muni-Fluss", hu: "Muni folyó", ro: "Râul Muni", en: "Muni River"},
-    image: "/poi-images/muni-river-nature-v2.webp",
     description: { de: "Ein Fluss an der Grenze zu Äquatorialguinea, der ein breites Ästuar bildet.", hu: "Folyó az egyenlítői-gíneai határon, amely széles esztuárt alkot.", ro: "Un râu la granița cu Guineea Ecuatorială, care formează un estuar larg.", en: "A river on the border with Equatorial Guinea, forming a wide estuary." , es: "Un río en la frontera con Guinea Ecuatorial que forma un amplio estuario.", pt: "Um rio na fronteira com a Guiné Equatorial que forma um amplo estuário.", fr: "Une rivière à la frontière avec la Guinée équatoriale, formant un large estuaire."},
     facts: {
       de: ["Grenzfluss", "Mangrovenwälder"],
@@ -696,7 +679,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-6",
     coords: [12.8500, 0.3000],
     name: { de: "Kongou-Fälle", hu: "Kongou-vízesés", ro: "Cascadele Kongou", en: "Kongou Falls"},
-    image: "/poi-images/kongou-falls-nature-v2.webp",
     description: { de: "Eindrucksvolle Wasserfälle am Ivindo-Fluss, umgeben von dichtem Regenwald.", hu: "Lenyűgöző vízesések az Ivindo folyón, sűrű esőerdővel körülvéve.", ro: "Cascade impresionante pe râul Ivindo, înconjurate de pădure tropicală deasă.", en: "Impressive waterfalls on the Ivindo River, surrounded by dense rainforest." , es: "Impresionantes cataratas en el río Ivindo, rodeadas de densa selva tropical.", pt: "Cataratas impressionantes no rio Ivindo, rodeadas por densa floresta tropical.", fr: "Impressionnantes chutes d'eau sur la rivière Ivindo, entourées d'une forêt tropicale dense."},
     facts: {
       de: ["Über 50 m hoch", "Massive Wassermassen"],
@@ -732,7 +714,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-4",
     coords: [11.1000, -1.2000],
     name: { de: "Waka-Wald", hu: "Waka erdőség", ro: "Pădurea Waka", en: "Waka Forest"},
-    image: "/poi-images/waka-forest-nature-v2.webp",
     description: { de: "Ein abgelegenes Waldgebiet im Chaillu-Massiv mit einer tiefen Schlucht.", hu: "Elszigetelt erdőterület a Chaillu-masszívumban, mély szakadékkal.", ro: "O zonă forestieră izolată în masivul Chaillu, cu un defileu adânc.", en: "A remote forest area in the Chaillu Massif with a deep gorge." , es: "Una zona boscosa remota en el macizo de Chaillu con un profundo cañón.", pt: "Uma área florestal remota no maciço de Chaillu com um desfiladeiro profundo.", fr: "Une zone forestière isolée dans le massif du Chaillu abritant un canyon profond."},
     facts: {
       de: ["Tiefe Täler", "Vielzahl an Primaten"],
@@ -813,7 +794,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-4",
     coords: [12.3000, -1.8000],
     name: { de: "Birougou-Wald", hu: "Birougou erdőség", ro: "Pădurea Birougou", en: "Birougou Forest"},
-    image: "/poi-images/birougou-forest-nature-v2.webp",
     description: { de: "Ein bedeutendes Bergwaldgebiet, das den Chaillu-Gebirgszug schützt.", hu: "Jelentős hegyi erdőterület, amely a Chaillu-hegyláncot védi.", ro: "O zonă importantă de pădure montană care protejează lanțul muntos Chaillu.", en: "A significant montane forest area protecting the Chaillu mountain range." , es: "Una importante zona de bosque de montaña que protege la cordillera de Chaillu.", pt: "Uma importante área de floresta de montanha que protege a cordilheira de Chaillu.", fr: "Une zone importante de forêt de montagne protégeant la chaîne du Chaillu."},
     facts: {
       de: ["Bergregenwald", "Wichtiger Wasserspeicher"],
@@ -849,7 +829,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-8",
     coords: [9.2000, -1.5000],
     name: { de: "Fernan-Vaz-Lagune", hu: "Fernan-Vaz lagúna", ro: "Laguna Fernan Vaz", en: "Fernan Vaz lagoon"},
-    image: "/poi-images/fernan-vaz-lagoon-nature-v2.webp",
     description: { de: "Eine weitläufige Lagune an der Küste Gabuns, umgeben von Mangroven und Wäldern.", hu: "Kiterjedt lagúna Gabon tengerpartján, mangroveerdőkkel és erdőkkel körülvéve.", ro: "O lagună vastă pe coasta Gabonului, înconjurată de mangrove și păduri.", en: "A vast lagoon on the coast of Gabon, surrounded by mangroves and forests." , es: "Una extensa laguna en la costa de Gabón, rodeada de manglares y bosques.", pt: "Uma vasta lagoa na costa do Gabão, rodeada por mangais e florestas.", fr: "Une vaste lagune sur la côte gabonaise, entourée de mangroves et de forêts."},
     facts: {
       de: ["Reich an Vogelarten", "Malerische Aussichten"],
@@ -885,7 +864,6 @@ export const poiExtraGabonNatureV2: POI[] = [
     parent: "GA-8",
     coords: [9.0000, -1.3000],
     name: { de: "Ekwata-Insel", hu: "Ekwata-sziget", ro: "Insula Ekwata", en: "Ekwata Island"},
-    image: "/poi-images/ekwata-island-nature-v2.webp",
     description: { de: "Eine kleine Insel vor der Küste Gabuns, bekannt für ihre unberührte Natur.", hu: "Kis sziget Gabon partjainál, érintetlen természetéről ismert.", ro: "O mică insulă în largul coastei Gabonului, cunoscută pentru natura sa curată.", en: "A small island off the coast of Gabon, known for its pristine nature." , es: "Una pequeña isla frente a la costa de Gabón, conocida por su naturaleza virgen.", pt: "Uma pequena ilha ao largo da costa do Gabão, conhecida pela sua natureza intocada.", fr: "Une petite île au large des côtes du Gabon, connue pour sa nature vierge."},
     facts: {
       de: ["Vogelparadies", "Vom Tourismus unberührt"],

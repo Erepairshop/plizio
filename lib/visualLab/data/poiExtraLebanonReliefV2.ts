@@ -53,7 +53,6 @@ export const poiExtraLebanonReliefV2: POI[] = [
     parent: "LB-AS",
     coords: [36.1150, 34.3033],
     name: { de: "Qurnat as-Sauda", hu: "Kurnat asz-Szauda", ro: "Qurnat as Sawda", en: "Qurnat as Sawda"},
-    image: "/poi-images/qurnat-as-sawda-relief-v2.webp",
     description: {
       de: "Mit 3088 Metern ist er der höchste Gipfel im Libanongebirge und bietet an klaren Tagen Ausblicke bis zur Küste Zyperns.",
       hu: "A maga 3088 méterével a Libanon-hegység legmagasabb csúcsa, tiszta időben egészen Ciprus partjaiig ellátni innen.",
@@ -250,7 +249,6 @@ export const poiExtraLebanonReliefV2: POI[] = [
     parent: "LB-BI",
     coords: [36.0000, 33.8333],
     name: { de: "Bekaa-Ebene", hu: "Bekaa-völgy", ro: "Valea Bekaa", en: "Beqaa Valley"},
-    image: "/poi-images/bekaa-valley-relief-v2.webp",
     description: {
       de: "Ein breites und fruchtbares Tal zwischen dem Libanongebirge und dem Anti-Libanon, das als landwirtschaftliches Herz des Landes gilt.",
       hu: "Széles és termékeny völgy a Libanon-hegység és az Antilibanon között, amely az ország mezőgazdasági központjának számít.",
@@ -339,7 +337,6 @@ export const poiExtraLebanonReliefV2: POI[] = [
     parent: "LB-BH",
     coords: [36.2500, 34.0000],
     name: { de: "Anti-Libanon", hu: "Antilibanon", ro: "Munții Anti-Liban", en: "Anti-Lebanon Mountains"},
-    image: "/poi-images/anti-lebanon-mountains-relief-v2.webp",
     description: {
       de: "Ein markanter Gebirgszug, der die natürliche und politische Grenze zwischen dem Libanon und Syrien bildet.",
       hu: "Jelentős hegylánc, amely a természetes és politikai határt alkotja Libanon és Szíria között.",
@@ -464,7 +461,6 @@ export const poiExtraLebanonReliefV2: POI[] = [
     parent: "LB-JL",
     coords: [35.8333, 33.9500],
     name: { de: "Dschebel Sannin", hu: "Szannín-hegy", ro: "Muntele Sannine", en: "Mount Sannine"},
-    image: "/poi-images/mount-sannine-relief-v2.webp",
     description: {
       de: "Ein dominanter Berg nahe Beirut, dessen schneebedeckter Gipfel das Panorama der libanesischen Hauptstadt prägt.",
       hu: "Bejrút közelében emelkedő meghatározó hegy, melynek hóval borított csúcsa uralja a libanoni főváros látképét.",
@@ -508,7 +504,6 @@ export const poiExtraLebanonReliefV2: POI[] = [
     parent: "LB-BH",
     coords: [35.8500, 33.4116],
     name: { de: "Hermonberg", hu: "Hermon-hegy", ro: "Muntele Hermon", en: "Mount Hermon"},
-    image: "/poi-images/mount-hermon-relief-v2.webp",
     description: {
       de: "Ein massives Gebirge an der südlichen Grenze des Anti-Libanon, bekannt für seine religiöse und strategische Bedeutung.",
       hu: "Masszív hegység az Antilibanon déli határán, amely vallási és stratégiai jelentőségéről ismert.",
@@ -669,7 +664,6 @@ export const poiExtraLebanonReliefV2: POI[] = [
     parent: "LB-JL",
     coords: [35.6167, 33.6833],
     name: { de: "Chouf-Gebirge", hu: "Súf-hegység", ro: "Munții Chouf", en: "Chouf Mountains"},
-    image: "/poi-images/chouf-mountains-relief-v2.webp",
     description: {
       de: "Eine bewaldete Bergregion, die das größte Naturreservat des Libanon mit ausgedehnten Zedernwäldern beherbergt.",
       hu: "Erdős hegyvidék, amely Libanon legnagyobb természetvédelmi területének és kiterjedt cédruserdeinek ad otthont.",
@@ -938,7 +932,6 @@ export const poiExtraLebanonReliefV2: POI[] = [
     parent: "LB-BI",
     coords: [35.6333, 33.3333],
     name: { de: "Litani-Tal", hu: "Litáni-völgy", ro: "Valea Litani", en: "Litani Valley"},
-    image: "/poi-images/litani-valley-relief-v2.webp",
     description: {
       de: "Das Flusstal des Litani, dem längsten Fluss des Libanon, das tiefe Schluchten in die Landschaft schneidet.",
       hu: "A Litáni, Libanon leghosszabb folyójának völgye, amely mély szurdokokat vág a tájba.",
@@ -1495,7 +1488,6 @@ export const poiExtraLebanonReliefV2: POI[] = [
     parent: "LB-JL",
     coords: [35.7500, 34.0667],
     name: { de: "Adonis-Tal", hu: "Adonisz-völgy", ro: "Valea Adonis", en: "Adonis Valley"},
-    image: "/poi-images/adonis-valley-relief-v2.webp",
     description: {
       de: "Ein malerisches Flusstal, das in der antiken Mythologie eng mit der Legende von Adonis und Aphrodite verbunden ist.",
       hu: "Festői folyóvölgy, amely az ókori mitológiában szorosan kapcsolódik Adónisz és Aphrodité legendájához.",
@@ -1620,7 +1612,6 @@ export const poiExtraLebanonReliefV2: POI[] = [
     parent: "LB-JL",
     coords: [35.6833, 33.7000],
     name: { de: "Dschebel Barouk", hu: "Barouk-hegy", ro: "Muntele Barouk", en: "Mount Barouk"},
-    image: "/poi-images/mount-barouk-relief-v2.webp",
     description: {
       de: "Ein markanter Bergkamm im Chouf-Gebirge, der berühmt für seine alten Zedernbestände und atemberaubenden Aussichten ist.",
       hu: "Meghatározó hegygerinc a Súf-hegységben, amely híres régi cédruserdeiről és lélegzetelállító kilátásáról.",
@@ -1664,7 +1655,6 @@ export const poiExtraLebanonReliefV2: POI[] = [
     parent: "LB-AS",
     coords: [36.0833, 34.2833],
     name: { de: "Dschebel Makmel", hu: "Makmel-hegy", ro: "Muntele Makmel", en: "Mount Makmel"},
-    image: "/poi-images/mount-makmel-relief-v2.webp",
     description: {
       de: "Eine schroffe Gebirgsregion im nördlichen Libanon, die zu den höchsten und abgelegensten Teilen des Landes gehört.",
       hu: "Zord hegyvidék Észak-Libanonban, amely az ország legmagasabb és legelhagyatottabb részei közé tartozik.",
@@ -2077,7 +2067,6 @@ export const poiExtraLebanonReliefV2: POI[] = [
     parent: "LB-JL",
     coords: [35.7500, 33.8667],
     name: { de: "Dschebel Kneisseh", hu: "Kneisseh-hegy", ro: "Muntele Kneisseh", en: "Mount Kneisseh"},
-    image: "/poi-images/mount-kneisseh-relief-v2.webp",
     description: {
       de: "Ein auffälliger Berggipfel, dessen Name 'Kirchenberg' bedeutet und der das Landschaftsbild östlich von Beirut prägt.",
       hu: "Szembetűnő hegycsúcs, melynek neve 'Templomhegyet' jelent, és meghatározza a Bejrúttól keletre elterülő tájat.",
@@ -2346,7 +2335,6 @@ export const poiExtraLebanonReliefV2: POI[] = [
     parent: "LB-AS",
     coords: [35.9667, 34.2500],
     name: { de: "Qannoubin-Tal", hu: "Kannúbin-völgy", ro: "Valea Qannoubine", en: "Qannoubine Valley"},
-    image: "/poi-images/qannoubine-valley-relief-v2.webp",
     description: {
       de: "Ein steiles und schwer zugängliches Tal, das jahrhundertelang als sicherer Rückzugsort für maronitische Gemeinschaften diente.",
       hu: "Meredek és nehezen megközelíthető völgy, amely évszázadokon át biztonságos menedékként szolgált a maronita közösségek számára.",
@@ -3155,7 +3143,6 @@ export const poiExtraLebanonReliefV2: POI[] = [
     parent: "LB-AS",
     coords: [35.6583, 34.2500],
     name: { de: "Küste von Batroun", hu: "Batroun partvidéke", ro: "Coasta Batroun", en: "Batroun Coast"},
-    image: "/poi-images/batroun-coast-relief-v2.webp",
     description: {
       de: "Ein malerischer Küstenstreifen im Nordlibanon, der für seine natürlichen Felsformationen und klaren Buchten bekannt ist.",
       hu: "Festői partszakasz Észak-Libanonban, amely természetes sziklaalakzatairól és tiszta öbleiről ismert.",
@@ -3441,7 +3428,6 @@ export const poiExtraLebanonReliefV2: POI[] = [
     parent: "LB-AS",
     coords: [35.9333, 34.2000],
     name: { de: "Tannourine-Gebirge", hu: "Tannourine-hegység", ro: "Munții Tannourine", en: "Tannourine Mountains"},
-    image: "/poi-images/tannourine-mountains-relief-v2.webp",
     description: {
       de: "Eine zerklüftete und bewaldete Bergregion im Norden, die für ihre steilen Klippen und tiefen Dolinen bekannt ist.",
       hu: "Tagolt és erdős hegyvidék északon, amely meredek szikláiról és mély víznyelőiről ismert.",
@@ -3529,7 +3515,6 @@ export const poiExtraLebanonReliefV2: POI[] = [
     parent: "LB-JL",
     coords: [35.6000, 33.9500],
     name: { de: "Nahr al-Kalb-Tal", hu: "Nahr al-Kalb völgy", ro: "Valea Nahr al-Kalb", en: "Nahr al-Kalb Valley"},
-    image: "/poi-images/nahr-al-kalb-valley-relief-v2.webp",
     description: {
       de: "Das schmale Flusstal des 'Hundeflusses', das sich tief durch die Küstenberge schneidet und ein natürliches Hindernis bildet.",
       hu: "A 'Kutya-folyó' szűk völgye, amely mélyen bevágódik a parti hegyekbe, és természetes akadályt képez.",

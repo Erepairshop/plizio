@@ -57,7 +57,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Pico de São Tomé",
       ro: "Pico de São Tomé",
       en: "Pico de São Tomé"},
-    image: "/poi-images/pico-de-sao-tome-nature-v2.webp",
     description: {
       de: "Der Pico de São Tomé ist mit 2024 Metern der höchste Punkt der Insel und ein majestätischer Wächter über dem Atlantik. Der Berg ist fast ständig in dichte Nebel gehüllt, was den umliegenden Primärwald in eine mystische Atmosphäre taucht. Wanderer, die den anspruchsvollen Aufstieg wagen, werden mit einer einzigartigen Flora und Fauna belohnt, die nirgendwo sonst auf der Welt zu finden ist.",
       hu: "A 2024 méter magas Pico de São Tomé a sziget legmagasabb pontja és az Atlanti-óceán felett őrködő fenséges óriás. A hegyet szinte állandóan sűrű köd borítja, ami misztikus hangulatba árasztja a környező őserdőt. A kihívást jelentő túrára vállalkozók olyan egyedülálló növény- és állatvilággal találkozhatnak, amely a világon sehol máshol nem fordul elő.",
@@ -166,7 +165,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Pico Cão Grande",
       ro: "Pico Cão Grande",
       en: "Pico Cão Grande"},
-    image: "/poi-images/pico-cao-grande-nature-v2.webp",
     description: {
       de: "Der Pico Cão Grande ist ein spektakulärer vulkanischer Härtling, der wie eine gigantische Nadel über den südlichen Regenwald ragt. Mit seiner steilen, fast senkrechten Form ist er eines der markantesten Wahrzeichen des Landes und ein Symbol für die rohe Kraft der Geologie. Die Spitze verschwindet oft in den Wolken, was dem Monument eine geheimnisvolle und unnahbare Präsenz verleiht.",
       hu: "A Pico Cão Grande egy látványos vulkáni kürtőmaradvány, amely óriási tűként magasodik a déli esőerdő fölé. Meredek, szinte függőleges formájával az ország egyik legjellegzetesebb látnivalója és a geológia nyers erejének szimbóluma. Csúcsa gyakran eltűnik a felhőkben, ami titokzatos és megközelíthetetlen jelenlétet kölcsönöz a monumentumnak.",
@@ -347,7 +345,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Ilhéu das Rolas",
       ro: "Ilhéu das Rolas",
       en: "Ilhéu das Rolas"},
-    image: "/poi-images/ilheu-das-rolas-nature-v2.webp",
     description: {
       de: "Die Ilhéu das Rolas ist eine paradiesische Insel südlich von São Tomé, die direkt auf dem Äquator liegt. Sie ist bekannt für ihre unberührten weißen Sandstrände, das kristallklare Wasser und die üppige tropische Vegetation. Besucher können hier buchstäblich mit einem Bein in der nördlichen und mit dem anderen in der südlichen Hemisphäre stehen, während sie die absolute Ruhe genießen.",
       hu: "Az Ilhéu das Rolas egy paradicsomi sziget São Tométól délre, amely közvetlenül az Egyenlítőn fekszik. Érintetlen fehér homokos strandjairól, kristálytiszta vizéről és dús trópusi növényzetéről ismert. A látogatók itt szó szerint egyik lábukkal az északi, a másikkal a déli féltekén állhatnak, miközben élvezik a teljes nyugalmat.",
@@ -411,7 +408,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Obô Nemzeti Park",
       ro: "Parcul Național Obô",
       en: "Obô National Park"},
-    image: "/poi-images/parque-nacional-obo-nature-v2.webp",
     description: {
       de: "Der Obô-Nationalpark schützt die wertvollsten Regenwälder des Archipels und ist ein Hotspot der biologischen Vielfalt. Von dichten Mangroven an der Küste bis hin zu Nebelwäldern in den Bergen bietet der Park Lebensraum für zahlreiche endemische Arten. Es ist eine Welt des ewigen Grüns, in der Orchideen an riesigen Bäumen hängen und der Gesang seltener Vögel den Rhythmus der Wildnis bestimmt.",
       hu: "Az Obô Nemzeti Park a szigetcsoport legértékesebb esőerdőit óvja, és a biológiai sokféleség központja. A parti sűrű mangroveerdőktől a hegyi köderdőkig a park számos endemikus fajnak ad otthont. Ez az örök zöld világa, ahol orchideák függnek az óriási fákon, és ritka madarak éneke határozza meg a vadon ritmusát.",
@@ -520,7 +516,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Lagoa Azul",
       ro: "Lagoa Azul",
       en: "Lagoa Azul"},
-    image: "/poi-images/lagoa-azul-nature-v2.webp",
     description: {
       de: "Die Lagoa Azul ist eine traumhafte Bucht an der Nordküste, die für ihr leuchtend türkisfarbenes Wasser berühmt ist. Umgeben von markanten Baobab-Bäumen, bietet dieser Ort eine einzigartige Kulisse, in der das trockene Küstenklima auf die Frische des Ozeans trifft. Die ruhigen Gewässer laden zum Schwimmen und Schnorcheln ein, während die vulkanischen Felsen am Ufer zum Erkunden einladen.",
       hu: "A Lagoa Azul egy álomszép öböl az északi parton, amely ragyogó türkizkék vizéről híres. Jellegzetes majomkenyérfákkal körülvéve ez a hely egyedülálló környezetet kínál, ahol a száraz parti éghajlat találkozik az óceán frissességével. A nyugodt víz úszásra és búvárkodásra hívogat, miközben a parti vulkáni sziklák felfedezésre várnak.",
@@ -584,7 +579,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Rio Iô Grande",
       ro: "Rio Iô Grande",
       en: "Rio Iô Grande"},
-    image: "/poi-images/rio-io-grande-nature-v2.webp",
     description: {
       de: "Der Rio Iô Grande ist einer der wasserreichsten Flüsse der Insel und schlängelt sich durch die tiefen Täler des Südens. Sein Lauf ist geprägt von kaskadenartigen Wasserfällen und dichten Uferwäldern, die eine Lebensader für die lokale Tierwelt darstellen. In der Nähe seiner Mündung schafft der Fluss fruchtbare Alluvialebenen, die seit Jahrhunderten für die Landwirtschaft genutzt werden.",
       hu: "A Rio Iô Grande a sziget egyik legbővizűbb folyója, amely a dél mély völgyein kanyarog keresztül. Futását zuhatagos vízesések és sűrű parti erdők jellemzik, amelyek a helyi élővilág fontos életterét jelentik. A torkolat közelében a folyó termékeny hordalékos síkságokat hoz létre, amelyeket évszázadok óta használnak mezőgazdasági célokra.",
@@ -829,7 +823,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Ilhéu Santana",
       ro: "Ilhéu Santana",
       en: "Ilhéu Santana"},
-    image: "/poi-images/ilheu-santana-nature-v2.webp",
     description: {
       de: "Die Ilhéu Santana ist eine felsige Insel vor der Ostküste von São Tomé, die sich majestätisch aus dem Blau des Atlantiks erhebt. Sie ist ein Rückzugsort für Tausende von Seevögeln und bekannt für ihre dramatischen Klippen und versteckten Höhlen. Für die Fischer der Region ist die Insel ein heiliger Ort, der Schutz bietet und gleichzeitig die raue Schönheit der Meeresumwelt verkörpert.",
       hu: "Az Ilhéu Santana egy sziklás sziget São Tomé keleti partjainál, amely fenségesen emelkedik ki az Atlanti-óceán kékjéből. Seevögel (tengeri madarak) ezreinek menedékhelye, és drámai szikláiról, valamint rejtett barlangjairól ismert. A régió halászai számára a sziget szent hely, amely védelmet nyújt, és egyben megtestesíti a tengeri környezet nyers szépségét.",
@@ -1010,7 +1003,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Pico do Príncipe",
       ro: "Pico do Príncipe",
       en: "Pico do Príncipe"},
-    image: "/poi-images/pico-do-principe-nature-v2.webp",
     description: {
       de: "Der Pico do Príncipe ist die höchste Erhebung der Insel Príncipe und das Herzstück ihres Biosphärenreservats. Mit 947 Metern überragt er den dichten, fast unberührten Regenwald, der den Berg bis zum Gipfel bedeckt. Die Region um den Pico ist eine der feuchtesten der Welt, was eine üppige, moosbewachsene Welt schafft, in der die Zeit seit Jahrtausenden stillzustehen scheint.",
       hu: "A Pico do Príncipe Príncipe szigetének legmagasabb pontja és bioszféra-rezervátumának szíve. 947 méterével magasodik a sűrű, szinte érintetlen esőerdő fölé, amely a hegyet egészen a csúcsáig borítja. A Pico környéke a világ egyik legcsapadékosabb területe, ami dús, mohás világot hoz létre, ahol az idő évezredek óta állni látszik.",
@@ -1074,7 +1066,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Rio Contador",
       ro: "Rio Contador",
       en: "Rio Contador"},
-    image: "/poi-images/rio-contador-nature-v2.webp",
     description: {
       de: "Der Rio Contador ist ein wilder Gebirgsfluss im Nordwesten von São Tomé, der durch spektakuläre Schluchten ins Meer stürzt. Sein Wasser ist kristallklar und eiskalt, da es direkt aus den Hochlandregenwäldern stammt. Der Fluss ist bekannt für seine natürliche Kraft, die in der Vergangenheit genutzt wurde, um eines der ersten Wasserkraftwerke der Insel zu betreiben, dessen Ruinen heute von der Natur zurückerobert werden.",
       hu: "A Rio Contador egy vad hegyi folyó São Tomé északnyugati részén, amely látványos szurdokokon keresztül zúdul a tengerbe. Vize kristálytiszta és jéghideg, mivel közvetlenül a felföldi esőerdőkből származik. A folyó természetes erejéről ismert, amelyet a múltban a sziget egyik első vízerőművének működtetésére használtak, melynek romjait mára visszahódította a természet.",
@@ -1138,7 +1129,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Rio Abade",
       ro: "Rio Abade",
       en: "Rio Abade"},
-    image: "/poi-images/rio-abade-nature-v2.webp",
     description: {
       de: "Der Rio Abade ist ein ruhiger Fluss, der das östliche Mittelland entwässert und durch einige der ältesten Plantagengebiete der Insel fließt. Sein Lauf wird von hohen Bambushainen und uralten Bäumen gesäumt, deren Zweige weit über das Wasser hängen. Der Fluss ist ein Symbol für die Beständigkeit der Natur, die trotz der langen landwirtschaftlichen Nutzung der Umgebung ihre Wildheit und Reinheit bewahrt hat.",
       hu: "A Rio Abade egy nyugodt folyó, amely a sziget keleti középső területeit csapolja le, és az ország néhány legrégebbi ültetvényvidékén folyik keresztül. Futását magas bambuszligetek és ősi fák szegélyezik, melyek ágai mélyen a víz fölé nyúlnak. A folyó a természet állandóságának szimbóluma, amely a környező területek hosszú távú mezőgazdasági hasznosítása ellenére is megőrizte vadságát és tisztaságát.",
@@ -1202,7 +1192,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Lagoa Amélia",
       ro: "Lagoa Amélia",
       en: "Lagoa Amélia"},
-    image: "/poi-images/lagoa-amelia-nature-v2.webp",
     description: {
       de: "Die Lagoa Amélia ist kein gewöhnlicher See, sondern ein mit Regenwasser gefüllter Vulkankrater in den Bergen von São Tomé, der heute eine faszinierende Sumpflandschaft beherbergt. Der Weg dorthin führt durch dichten Nebelwald und bietet Einblicke in ein Ökosystem, das sich über Jahrtausende isoliert entwickelt hat. Auf dem schwammigen Boden des Kraters wachsen einzigartige Gräser und Moose, die den Ort zu einer botanischen Rarität machen.",
       hu: "A Lagoa Amélia nem egy hétköznapi tó, hanem egy esővízzel telt vulkáni kráter São Tomé hegyei között, amely mára egy lenyűgöző mocsárvidéknek ad otthont. Az oda vezető út sűrű köderdőn keresztül halad, és betekintést nyújt egy olyan ökoszisztémába, amely évezredek óta elszigetelten fejlődött. A kráter szivacsos talaján egyedülálló füvek és mohák nőnek, amelyek botanikai ritkasággá teszik a helyet.",
@@ -1383,7 +1372,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Ilhéu Bom Bom",
       ro: "Ilhéu Bom Bom",
       en: "Ilhéu Bom Bom"},
-    image: "/poi-images/ilheu-bom-bom-nature-v2.webp",
     description: {
       de: "Die Ilhéu Bom Bom ist eine kleine, grüne Perle vor der Nordküste von Príncipe, die durch einen langen Holzsteg mit der Hauptinsel verbunden ist. Die Insel ist von Korallenriffen umgeben, die zu den artenreichsten der Region gehören und Taucher aus aller Welt anlocken. Mit ihren einsamen Stränden und dem dichten Wald ist sie ein Sinnbild für die ungestörte tropische Natur und ein Refugium der Ruhe.",
       hu: "Az Ilhéu Bom Bom egy apró, zöld gyöngyszem Príncipe északi partjainál, amelyet egy hosszú fapadló köt össze a főszigettel. A szigetet korallzátonyok veszik körül, amelyek a régió fajokban leggazdagabbjai közé tartoznak, és vonzzák a búvárokat a világ minden tájáról. Magányos strandjaival és sűrű erdőivel a zavartalan trópusi természet szimbóluma és a nyugalom menedéke.",
@@ -1492,7 +1480,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Pico Papagaio",
       ro: "Pico Papagaio",
       en: "Pico Papagaio"},
-    image: "/poi-images/pico-papagaio-nature-v2.webp",
     description: {
       de: "Der Pico Papagaio, auch Papageienberg genannt, ist eine markante, kegelförmige Erhebung auf Príncipe, die wie eine grüne Pyramide aus dem Wald ragt. Er ist bekannt für seine steilen Hänge und die dichte Vegetation, die den Berg zu einem Paradies für Vögel und andere endemische Tiere macht. Von bestimmten Aussichtspunkten aus erinnert die Silhouette des Berges an den Kopf eines Papageis, was ihm seinen Namen einbrachte.",
       hu: "A Pico Papagaio, más néven Papagáj-hegy, egy jellegzetes kúp alakú magaslat Príncipén, amely zöld piramis ként emelkedik ki az erdőből. Meredek lejtőiről és sűrű növényzetéről ismert, ami a hegyet a madarak és más endemikus állatok paradicsomává teszi. Bizonyos nézőpontokból a hegy sziluettje egy papagáj fejére emlékeztet, innen ered a neve is.",
@@ -1556,7 +1543,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Rio Manuel Jorge",
       ro: "Rio Manuel Jorge",
       en: "Rio Manuel Jorge"},
-    image: "/poi-images/rio-manuel-jorge-nature-v2.webp",
     description: {
       de: "Der Rio Manuel Jorge ist ein lebhafter Fluss an der Ostküste von São Tomé, der durch fruchtbare Plantagengebiete und dichten Wald fließt. Er ist bekannt für seine zahlreichen Stromschnellen und die malerischen Wasserfälle, die sich in tiefe, natürliche Becken ergießen. Der Fluss spielt eine zentrale Rolle im Leben der lokalen Gemeinschaften, sowohl als Wasserquelle als auch als Ort der Erholung und spirituellen Bedeutung.",
       hu: "A Rio Manuel Jorge egy élettel teli folyó São Tomé keleti partján, amely termékeny ültetvényeken és sűrű erdőkön folyik keresztül. Számos zúgójáról és festői vízeséseiről ismert, amelyek mély, természetes medencékbe ömlenek. A folyó központi szerepet játszik a helyi közösségek életében, mind vízforrásként, mind kikapcsolódási és spirituális helyszínként.",
@@ -1684,7 +1670,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Rio Cantagalo",
       ro: "Rio Cantagalo",
       en: "Rio Cantagalo"},
-    image: "/poi-images/rio-cantagalo-nature-v2.webp",
     description: {
       de: "Der Rio Cantagalo ist ein wichtiger Fluss an der Ostküste, der dem gleichnamigen Bezirk seinen Namen gibt. Sein Lauf führt durch einige der fruchtbarsten Gebiete der Insel, wo Kakao und Kaffee in Hülle und Fülle gedeihen. Der Fluss ist bekannt für seine sanften Ufer und die kühlen Schattenplätze, die er unter den riesigen Urwaldbäumen bietet, was ihn zu einem beliebten Ort für Einheimische und Besucher macht.",
       hu: "A Rio Cantagalo egy fontos folyó a keleti parton, amely az azonos nevű körzetnek adja a nevét. Futása a sziget néhány legtermékenyebb területén halad keresztül, ahol bőségesen terem a kakaó és a kávé. A folyó szelíd partjairól és a hatalmas őserdei fák alatt kínált hűvös, árnyékos helyeiről ismert, ami népszerűvé teszi a helyiek és a látogatók körében egyaránt.",
@@ -1748,7 +1733,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Pico Mesa",
       ro: "Pico Mesa",
       en: "Pico Mesa"},
-    image: "/poi-images/pico-mesa-nature-v2.webp",
     description: {
       de: "Der Pico Mesa, der 'Tafelberg' von Príncipe, ist ein einzigartiger Berg mit einem flachen Gipfelplateau, das ihn von den umliegenden spitzen Gipfeln abhebt. Diese geologische Besonderheit bietet einen weiten Blick über die gesamte Insel und den Ozean. Das Plateau selbst ist von einem speziellen Hochlandregenwald bedeckt, der viele seltene Pflanzenarten beherbergt, die an die besonderen Bedingungen in dieser Höhe angepasst sind.",
       hu: "A Pico Mesa, Príncipe „táblahegye”, egy egyedülálló hegy lapos csúcsplatatival, amely megkülönbözteti a környező hegyes csúcsoktól. Ez a geológiai különlegesség széles kilátást nyújt az egész szigetre és az óceánra. Magát a fennsíkot speciális felföldi esőerdő borítja, amely számos olyan ritka növényfajnak ad otthont, amelyek alkalmazkodtak az ezen a magasságon uralkodó különleges körülményekhez.",
@@ -1812,7 +1796,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Ilhéu Caroço",
       ro: "Ilhéu Caroço",
       en: "Ilhéu Caroço"},
-    image: "/poi-images/ilheu-caroco-nature-v2.webp",
     description: {
       de: "Die Ilhéu Caroço, auch als 'Jockey's Cap' bekannt, ist eine dramatische, kegelförmige Felsinsel südlich von Príncipe. Sie erhebt sich steil aus dem tiefblauen Wasser und ist fast vollständig von dichten Algen und Meerespflanzen bewachsen. Die Insel ist ein wichtiger Brutplatz für Seevögel und ihre umliegenden Gewässer sind bekannt für ihre reiche marine Biodiversität, was sie zu einem Highlight für Naturbeobachtungen macht.",
       hu: "Az Ilhéu Caroço, más néven „zsokésapka”, egy drámai, kúp alakú sziklasziget Príncipétől délre. Meredeken emelkedik ki a mélykék vízből, és szinte teljesen sűrű algák és tengeri növények borítják. A sziget a tengeri madarak fontos költőhelye, a környező vizek pedig gazdag tengeri biológiai sokféleségükről ismertek, ami a természetmegfigyelések egyik fénypontjává teszi.",
@@ -1957,7 +1940,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Rio Caué",
       ro: "Rio Caué",
       en: "Rio Caué"},
-    image: "/poi-images/rio-caue-nature-v2.webp",
     description: {
       de: "Der Rio Caué ist die Lebensader des südlichsten Bezirks von São Tomé und fließt durch das Herz des Obô-Nationalparks. Sein Lauf ist geprägt von wilder, unberührter Natur und spektakulären Wasserfällen, die sich durch den dichten Dschungel bahnen. Der Fluss ist einer der reinsten der Insel und bietet zahlreichen seltenen Fisch- und Amphibienarten einen geschützten Lebensraum in einer Welt, die noch weitgehend unberührt ist.",
       hu: "A Rio Caué São Tomé legdélibbi körzetének élettere, amely az Obô Nemzeti Park szívén folyik keresztül. Futását vad, érintetlen természet és látványos vízesések jellemzik, amelyek a sűrű dzsungelen keresztül törnek utat. A folyó a sziget egyik legtisztább vize, számos ritka hal- és kétéltűfajnak nyújt védett élőhelyet egy még nagyrészt érintetlen világban.",
@@ -2138,7 +2120,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Praia Jalé",
       ro: "Praia Jalé",
       en: "Praia Jalé"},
-    image: "/poi-images/praia-jale-nature-v2.webp",
     description: {
       de: "Die Praia Jalé ist ein wilder, naturbelassener Strand im tiefen Süden, der für seine ökologische Bedeutung weltweit bekannt ist. Hier trifft der dichte Dschungel direkt auf den goldenen Sand und die kraftvolle Brandung des Atlantiks. Dieser Ort ist ein Refugium der Stille, wo der Mensch nur ein Gast ist und die Zyklen der Natur den Takt angeben, was ihn zu einem der authentischsten Naturerlebnisse des Archipels macht.",
       hu: "A Praia Jalé egy vad, érintetlen tengerpart a mély délen, amely ökológiai jelentőségéről világszerte ismert. Itt a sűrű dzsungel közvetlenül találkozik az aranyszínű homokkal és az Atlanti-óceán erőteljes hullámaival. Ez a hely a csend menedéke, ahol az ember csak vendég, és a természet ciklusai diktálják a tempót, ami a szigetcsoport egyik leghitelesebb természeti élményévé teszi.",
@@ -2202,7 +2183,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Rio Lembá",
       ro: "Rio Lembá",
       en: "Rio Lembá"},
-    image: "/poi-images/rio-lemba-nature-v2.webp",
     description: {
       de: "Der Rio Lembá ist der bedeutendste Fluss im Westen der Insel und ein Symbol für die ungezähmte Kraft der Natur. Er entspringt in den hohen Bergen des Zentralmassivs und bahnt sich seinen Weg durch einige der steilsten und am schwersten zugänglichen Täler von São Tomé. Sein Wasser speist die üppige Vegetation des Westens und schafft eine Umgebung, in der die Wildnis noch absolut und unangefochten regiert.",
       hu: "A Rio Lembá a sziget nyugati részének legjelentősebb folyója, a természet megszelídíthetetlen erejének szimbóluma. A központi hegység magas csúcsai között ered, és São Tomé néhány legmeredekebb és legnehezebben megközelíthető völgyén keresztül tör utat magának. Vize táplálja a nyugati rész dús növényzetét, olyan környezetet teremtve, ahol a vadon még abszolút és megkérdőjelezhetetlen úr.",
@@ -2311,7 +2291,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "São Nicolau-vízesés",
       ro: "Cascada São Nicolau",
       en: "São Nicolau Waterfall"},
-    image: "/poi-images/cascata-sao-nicolau-nature-v2.webp",
     description: {
       de: "Die Cascata de São Nicolau ist einer der bekanntesten und fotogensten Wasserfälle der Insel, eingebettet in die kühlen Gebirgswälder des Mé-Zóchi-Distrikts. Das Wasser stürzt über eine fast senkrechte Felswand in ein von Moosen und Farnen gesäumtes Becken. Dieser Ort bietet eine erfrischende Abkühlung von der tropischen Hitze und ist ein Symbol für die Wasserreichhaltigkeit und die natürliche Eleganz des santomeischen Hochlands.",
       hu: "A São Nicolau-vízesés a sziget egyik legismertebb és legfotogénebb vízesése, amely Mé-Zóchi körzet hűvös hegyi erdőiben fészkel. A víz szinte függőleges sziklafalon zúdul le egy mohával és páfránnyal szegélyezett medencébe. Ez a hely frissítő felüdülést nyújt a trópusi hőség elől, és a São Tomé-i felföld vízbőségének és természetes eleganciájának szimbóluma.",
@@ -2375,7 +2354,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       hu: "Rio Água Grande",
       ro: "Rio Água Grande",
       en: "Rio Água Grande"},
-    image: "/poi-images/rio-agua-grande-nature-v2.webp",
     description: {
       de: "Der Rio Água Grande ist der historische Fluss, der der Hauptstadt und ihrem Bezirk den Namen gibt. Er entspringt in den grünen Hügeln des Hinterlandes und fließt mitten durch das Herz von São Tomé-Stadt in den Atlantik. Trotz seiner Lage in einem urbanen Umfeld bewahrt der Fluss an seinen Oberläufen eine überraschende Natürlichkeit und bleibt ein zentrales Element im städtischen Gefüge und in der Geschichte der Insel.",
       hu: "A Rio Água Grande az a történelmi folyó, amely a fővárosnak és körzetének a nevét adja. A hátország zöld dombjai között ered, és São Tomé városának szívén keresztül ömlik az Atlanti-óceánba. Városi környezete ellenére a folyó felső szakaszai meglepően természetesek maradtak, és központi eleme a városi szövetnek és a sziget történelmének.",

@@ -485,7 +485,6 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     parent: "TL-DI",
     coords: [125.6667, -8.5417],
     name: { de: "Kraftwerk Hera", hu: "Hera Erőmű", ro: "Centrala Electrică Hera", en: "Hera Power Plant"},
-    image: "/poi-images/hera-power-plant-economic-v2.webp",
     description: { de: "Ein bedeutendes Schwerölkraftwerk in der Nähe von Dili, das einen großen Teil der Hauptstadt mit Strom versorgt.", hu: "Egy jelentős nehézolaj-erőmű Dili közelében, amely a főváros nagy részét ellátja árammal.", ro: "O importantă centrală electrică pe păcură lângă Dili, care furnizează energie electrică pentru o mare parte din capitală.", en: "A major heavy oil power plant near Dili that supplies electricity to a large part of the capital." , es: "Una importante central eléctrica de fueloil cerca de Dili, que suministra electricidad a gran parte de la capital.", pt: "Uma importante central elétrica de fuelóleo perto de Díli, que fornece eletricidade a grande parte da capital.", fr: "Une centrale électrique au fioul majeure près de Dili, fournissant de l'électricité à une grande partie de la capitale."},
     facts: {
       de: ["Liegt an der Nordküste.", "Bedeutend für Dili."],
@@ -602,7 +601,6 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     parent: "TL-LI",
     coords: [125.4833, -8.5667],
     name: { de: "Hafen von Tibar Bay", hu: "Tibar-öböl kikötője", ro: "Portul Golfului Tibar", en: "Tibar Bay Port"},
-    image: "/poi-images/tibar-bay-port-economic-v2.webp",
     description: { de: "Ein moderner Tiefseehafen westlich von Dili, der den Großteil des internationalen Frachtverkehrs abwickelt.", hu: "Egy modern mélyvízi kikötő Dilitől nyugatra, amely a nemzetközi teherforgalom nagy részét bonyolítja.", ro: "Un port modern de apă adâncă la vest de Dili, care gestionează majoritatea traficului internațional de marfă.", en: "A modern deepwater port west of Dili that handles the majority of international freight traffic." , es: "Un moderno puerto de aguas profundas al oeste de Dili, que gestiona la mayor parte del tráfico de carga internacional.", pt: "Um moderno porto de águas profundas a oeste de Dili, que lida com a maior parte do tráfego de carga internacional.", fr: "Un port en eau profonde moderne à l'ouest de Dili, traitant la majeure partie du trafic de fret international."},
     facts: {
       de: ["Modernes Infrastrukturprojekt.", "Entlastet den Hafen von Dili."],
@@ -638,7 +636,6 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     parent: "TL-MF",
     coords: [125.7167, -9.1667],
     name: { de: "Kraftwerk Betano", hu: "Betano Erőmű", ro: "Centrala Electrică Betano", en: "Betano Power Plant"},
-    image: "/poi-images/betano-power-plant-economic-v2.webp",
     description: { de: "Ein großes Kraftwerk an der Südküste, das zur Energieunabhängigkeit und industriellen Entwicklung der Region beiträgt.", hu: "Egy nagy erőmű a déli parton, amely hozzájárul a régió energiafüggetlenségéhez és ipari fejlődéséhez.", ro: "O mare centrală electrică pe coasta de sud, care contribuie la independența energetică și dezvoltarea industrială a regiunii.", en: "A large power plant on the south coast contributing to the region's energy independence and industrial development." , es: "Una gran central eléctrica en la costa sur que contribuye a la independencia energética de la región.", pt: "Uma grande central elétrica na costa sul que contribui para a independência energética da região.", fr: "Une grande centrale électrique sur la côte sud qui contribue à l'indépendance énergétique de la région."},
     facts: {
       de: ["Liegt an der Südküste.", "Unterstützt lokale Industrie."],
@@ -827,7 +824,6 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     parent: "TL-CO",
     coords: [125.2667, -9.3167],
     name: { de: "Versorgungsbasis Suai", hu: "Suai Ellátóbázis", ro: "Baza de Aprovizionare Suai", en: "Suai Supply Base"},
-    image: "/poi-images/suai-supply-base-economic-v2.webp",
     description: { de: "Ein logistisches Zentrum für die Erdöl- und Erdgasindustrie entlang der Timorsee.", hu: "A Timor-tenger menti kőolaj- és földgázipar logisztikai központja.", ro: "Un centru logistic pentru industria petrolului și gazelor de-a lungul Mării Timor.", en: "A logistical center for the oil and gas industry along the Timor Sea." , es: "Un centro logístico para la industria del petróleo y el gas a lo largo del Mar de Timor.", pt: "Um centro logístico para a indústria do petróleo e gás ao longo do Mar de Timor.", fr: "Un centre logistique pour l'industrie pétrolière et gazière le long de la mer de Timor."},
     facts: {
       de: ["Zentrum für Offshore-Projekte.", "Teil des Tasi-Mane-Projekts."],
@@ -908,7 +904,6 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     parent: "TL-DI",
     coords: [125.5736, -8.5492],
     name: { de: "Seehafen Dili", hu: "Dili Tengeri Kikötő", ro: "Portul Maritim Dili", en: "Dili Seaport"},
-    image: "/poi-images/dili-seaport-economic-v2.webp",
     description: { de: "Der historische Haupthafen der Hauptstadt, der zunehmend in ein Zentrum für Passagier- und Kreuzfahrtschiffe umgewandelt wird.", hu: "A főváros történelmi fő kikötője, amelyet egyre inkább utas- és tengerjáró hajók központjává alakítanak.", ro: "Principalul port istoric al capitalei, transformat din ce în ce mai mult într-un centru pentru nave de pasageri și croaziere.", en: "The historical main port of the capital, increasingly being transformed into a hub for passenger and cruise ships." , es: "El histórico puerto principal de la capital, transformado cada vez más en un centro para cruceros.", pt: "O porto principal histórico da capital, cada vez mais transformado num centro para navios de cruzeiro.", fr: "L'historique port principal de la capitale, de plus en plus transformé en centre pour les navires de croisière."},
     facts: {
       de: ["Historischer Knotenpunkt.", "Fokus auf Passagiere."],
@@ -1250,7 +1245,6 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     parent: "TL-BA",
     coords: [126.3667, -8.4667],
     name: { de: "Kalksteinbruch Baucau", hu: "Baucau Mészkőbánya", ro: "Cariera de Calcar Baucau", en: "Baucau Limestone Quarry"},
-    image: "/poi-images/baucau-limestone-quarry-economic-v2.webp",
     description: { de: "Eine bedeutende Abbauzone für Kalkstein auf dem Baucau-Plateau, der für den lokalen Bau und die Zementproduktion verwendet wird.", hu: "Egy jelentős mészkő-kitermelő zóna a Baucau-fennsíkon, amelyet a helyi építőiparban és cementgyártásban használnak.", ro: "O zonă importantă de extracție a calcarului pe platoul Baucau, utilizat pentru construcții locale și producția de ciment.", en: "A significant limestone extraction zone on the Baucau plateau, used for local construction and cement production." , es: "Una importante zona de extracción de caliza en la meseta de Baucau, utilizada para la construcción local.", pt: "Uma importante zona de extração de calcário no planalto de Baucau, utilizada para a construção local.", fr: "Une importante zone d'extraction de calcaire sur le plateau de Baucau, utilisée pour la construction locale."},
     facts: {
       de: ["Wichtiger Baustoff.", "Nutzt lokale Geologie."],
@@ -1556,7 +1550,6 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     parent: "TL-OE",
     coords: [124.3333, -9.2000],
     name: { de: "Sonderwirtschaftszone Oecusse", hu: "Oecusse Különleges Gazdasági Övezet", ro: "Zona Economică Specială Oecusse", en: "Oecusse Special Economic Zone"},
-    image: "/poi-images/oecusse-special-economic-zone-economic-v2.webp",
     description: { de: "Ein ambitioniertes Projekt (ZEESM) in der Exklave, um ausländische Investitionen, Handel und Tourismus anzuziehen.", hu: "Egy ambiciózus projekt (ZEESM) az exklávéban a külföldi befektetések, a kereskedelem és a turizmus vonzására.", ro: "Un proiect ambițios (ZEESM) în exclavă pentru a atrage investiții străine, comerț și turism.", en: "An ambitious project (ZEESM) in the exclave to attract foreign investment, trade, and tourism." },
     facts: {
       de: ["Bekannt als ZEESM.", "Förderung von Investitionen."],
@@ -1583,7 +1576,6 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     parent: "TL-VI",
     coords: [126.3667, -8.8500],
     name: { de: "Ölaustritte von Viqueque", hu: "Viqueque-i Olajszivárgások", ro: "Izvoarele de Petrol Viqueque", en: "Viqueque Oil Seeps"},
-    image: "/poi-images/viqueque-oil-seeps-economic-v2.webp",
     description: { de: "Natürliche Ölaustritte im Viqueque-Gebiet, die das Potenzial für Onshore-Ölexploration in Osttimor zeigen.", hu: "Természetes olajszivárgások a Viqueque térségben, amelyek a szárazföldi kőolaj-kutatás lehetőségét mutatják Kelet-Timorban.", ro: "Scurgeri naturale de petrol în zona Viqueque, care arată potențialul de explorare petrolieră pe uscat în Timorul de Est.", en: "Natural oil seeps in the Viqueque area indicating the potential for onshore oil exploration in East Timor." , es: "Fugas naturales de petróleo en la zona de Viqueque, que demuestran el potencial para la exploración petrolera terrestre en Timor Oriental.", pt: "Fugas naturais de petróleo na zona de Viqueque, que mostram o potencial para a exploração petrolífera terrestre em Timor-Leste.", fr: "Fuites naturelles de pétrole dans la région de Viqueque, démontrant le potentiel d'exploration pétrolière terrestre au Timor oriental."},
     facts: {
       de: ["Natürliches Öl.", "Potenzial für Exploration."],
@@ -1745,7 +1737,6 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     parent: "TL-ER",
     coords: [125.3967, -8.7512],
     name: { de: "Kaffeekooperative Ermera", hu: "Ermera Kávészövetkezet", ro: "Cooperativa de Cafea Ermera", en: "Ermera Coffee Co-op"},
-    image: "/poi-images/ermera-coffee-coop-economic-v2.webp",
     description: { de: "Ein Netzwerk von Kaffeebauern, das fairen Handel und nachhaltige Anbaumethoden in der Bergregion fördert.", hu: "Kávétermelők hálózata, amely a méltányos kereskedelmet és a fenntartható gazdálkodást támogatja a hegyvidéken.", ro: "O rețea de cultivatori de cafea care promovează comerțul echitabil și practicile agricole durabile în regiunea montană.", en: "A network of coffee farmers promoting fair trade and sustainable farming practices in the mountainous region." , es: "Una cooperativa de caficultores que promueve el comercio justo y métodos sostenibles en la región montañosa.", pt: "Uma cooperativa de cafeicultores que promove o comércio justo e métodos sustentáveis na região montanhosa.", fr: "Une coopérative de caféiculteurs qui promeut le commerce équitable et des méthodes durables dans la région montagneuse."},
     facts: {
       de: ["Fördert fairen Handel.", "Unterstützt lokale Bauern."],
@@ -1862,7 +1853,6 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     parent: "TL-LA",
     coords: [126.9967, -8.5186],
     name: { de: "Sägewerk Lospalos", hu: "Lospalos Fafeldolgozó", ro: "Fabrica de Cherestea Lospalos", en: "Lospalos Timber Mill"},
-    image: "/poi-images/lospalos-timber-mill-economic-v2.webp",
     description: { de: "Eine lokale Einrichtung zur Holzverarbeitung im Osten, die Bauholz aus nachhaltigen regionalen Quellen liefert.", hu: "Egy helyi fafeldolgozó létesítmény keleten, amely fenntartható regionális forrásokból biztosít épületfát.", ro: "O facilitate locală de prelucrare a lemnului în est, furnizând cherestea din surse regionale durabile.", en: "A local timber processing facility in the east providing lumber from sustainable regional sources." , es: "Una instalación local de procesamiento de madera en el este que suministra madera de construcción de fuentes regionales sostenibles.", pt: "Uma instalação local de processamento de madeira no leste que fornece madeira de construção de fontes regionais sustentáveis.", fr: "Une installation locale de transformation du bois dans l'est qui fournit du bois de construction issu de sources régionales durables."},
     facts: {
       de: ["Verarbeitet lokales Holz.", "Wichtig für den Bau."],
@@ -2267,7 +2257,6 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     parent: "TL-DI",
     coords: [125.5200, -8.5500],
     name: { de: "Pelican Paradise Resort Projekt", hu: "Pelican Paradise Resort Projekt", ro: "Proiectul Pelican Paradise Resort", en: "Pelican Paradise Resort Project"},
-    image: "/poi-images/pelican-paradise-resort-project-economic-v2.webp",
     description: { de: "Eine groß angelegte touristische Entwicklung westlich von Dili, die darauf abzielt, Arbeitsplätze zu schaffen und den Tourismus zu stärken.", hu: "Egy nagyszabású turisztikai fejlesztés Dilitől nyugatra, melynek célja a munkahelyteremtés és a turizmus fellendítése.", ro: "O dezvoltare turistică pe scară largă la vest de Dili, menită să creeze locuri de muncă și să stimuleze turismul.", en: "A large-scale tourism development west of Dili aiming to create jobs and boost tourism." , es: "Un desarrollo turístico a gran escala al oeste de Dili que pretende crear puestos de trabajo y fomentar el turismo.", pt: "Um desenvolvimento turístico de grande escala a oeste de Díli que visa criar postos de trabalho e fomentar o turismo.", fr: "Un développement touristique à grande échelle à l'ouest de Dili qui vise à créer des emplois et à favoriser le tourisme."},
     facts: {
       de: ["Ausländische Investition.", "Zentrum für Ökotourismus."],
@@ -2303,7 +2292,6 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     parent: "TL-DI",
     coords: [125.6000, -8.2333],
     name: { de: "Ökotourismus-Zentrum Atauro", hu: "Atauro Ökoturizmus Központ", ro: "Centrul de Ecoturism Atauro", en: "Atauro Eco-Tourism Hub"},
-    image: "/poi-images/atauro-eco-tourism-hub-economic-v2.webp",
     description: { de: "Ein wachsender Wirtschaftssektor auf der Insel Atauro, der sich auf nachhaltiges Tauchen und Gemeinschaftstourismus konzentriert.", hu: "Egy növekvő gazdasági ágazat Atauro szigetén, amely a fenntartható búvárkodásra és a közösségi turizmusra összpontosít.", ro: "Un sector economic în creștere pe insula Atauro, axat pe scufundări durabile și turism comunitar.", en: "A growing economic sector on Atauro Island focusing on sustainable diving and community-based tourism." , es: "Un centro de ecoturismo en la isla de Atauro, centrado en el buceo sostenible y el turismo comunitario.", pt: "Um centro de ecoturismo na ilha de Atauro, focado no mergulho sustentável e no turismo comunitário.", fr: "Un centre d'écotourisme sur l'île d'Atauro, axé sur la plongée durable et le tourisme communautaire."},
     facts: {
       de: ["Nachhaltige Entwicklung.", "Weltklasse-Tauchen."],
@@ -2600,7 +2588,6 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     parent: "TL-MT",
     coords: [126.0167, -8.5167],
     name: { de: "Salinen von Manatuto", hu: "Manatuto Sólepárlók", ro: "Salinele din Manatuto", en: "Manatuto Salt Works"},
-    image: "/poi-images/manatuto-salt-works-economic-v2.webp",
     description: { de: "Ein traditionelles Zentrum der Meersalzgewinnung, das einen wichtigen Einkommenszweig für die Küstengemeinden darstellt.", hu: "A tengeri só lepárlásának hagyományos központja, amely a partmenti közösségek fontos bevételi forrása.", ro: "Un centru tradițional de extracție a sării de mare, oferind o sursă importantă de venit pentru comunitățile de coastă.", en: "A traditional center of sea salt extraction providing an important source of income for coastal communities." , es: "Un centro tradicional de extracción de sal marina que constituye una importante fuente de ingresos para las comunidades costeras.", pt: "Um centro tradicional de extração de sal marinho que constitui uma importante fonte de rendimento para as comunidades costeiras.", fr: "Un centre traditionnel d'extraction de sel marin qui constitue une importante source de revenus pour les communautés côtières."},
     facts: {
       de: ["Traditionelle Methoden.", "Wichtig für Küstengemeinden."],
@@ -2753,7 +2740,6 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     parent: "TL-LI",
     coords: [125.3333, -8.5833],
     name: { de: "Zementwerk Liquiçá", hu: "Liquiçá Cementgyár", ro: "Fabrica de Ciment Liquiçá", en: "Liquiçá Cement Plant"},
-    image: "/poi-images/liquica-cement-plant-economic-v2.webp",
     description: { de: "Eine industrielle Anlage im Westen, die Baustoffe für die rasante infrastrukturelle Entwicklung des Landes produziert.", hu: "Egy nyugati ipari létesítmény, amely építőanyagokat termel az ország gyors infrastrukturális fejlődéséhez.", ro: "O facilitate industrială în vest, producând materiale de construcție pentru dezvoltarea rapidă a infrastructurii țării.", en: "An industrial facility in the west producing building materials for the country's rapid infrastructural development." , es: "Una planta industrial en el oeste que produce materiales de construcción para el rápido desarrollo de la infraestructura del país.", pt: "Uma fábrica industrial no oeste que produz materiais de construção para o rápido desenvolvimento da infraestrutura do país.", fr: "Une installation industrielle à l'ouest qui produit des matériaux de construction pour le développement rapide de l'infrastructure du pays."},
     facts: {
       de: ["Produziert Baumaterial.", "Fördert Infrastruktur."],
@@ -2978,7 +2964,6 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     parent: "TL-OE",
     coords: [124.3833, -9.1950],
     name: { de: "Hafen Pante Macassar", hu: "Pante Macassar Kikötő", ro: "Portul Pante Macassar", en: "Pante Macassar Port"},
-    image: "/poi-images/pante-macassar-port-economic-v2.webp",
     description: { de: "Der Haupthafen der Oecusse-Exklave, entscheidend für den Fährverkehr nach Dili und den internationalen Frachthandel.", hu: "Az Oecusse-exklávé fő kikötője, amely kulcsfontosságú a Dilibe tartó kompok és a nemzetközi teherforgalom számára.", ro: "Principalul port al exclavei Oecusse, crucial pentru serviciile de feribot către Dili și comerțul internațional cu mărfuri.", en: "The main port of the Oecusse exclave, crucial for ferry services to Dili and international freight trade." , es: "El puerto principal del enclave de Oecusse, crucial para el transporte por ferry a Dili y el comercio internacional de carga.", pt: "O porto principal do enclave de Oecusse, crucial para o transporte de ferry para Díli e o comércio internacional de carga.", fr: "Le port principal de l'enclave d'Oecusse, crucial pour le transport par ferry vers Dili et le commerce international de fret."},
     facts: {
       de: ["Verbindet Oecusse.", "Teil von ZEESM."],

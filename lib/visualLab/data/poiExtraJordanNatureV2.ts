@@ -629,7 +629,6 @@ export const poiExtraJordanNatureV2: POI[] = [
     parent: "JO-AQ",
     coords: [35.4208, 29.5758],
     name: { de: "Wadi Rum", hu: "Vádi Rum", ro: "Wadi Rum", en: "Wadi Rum"},
-    image: "/poi-images/wadi-rum-nature-v2.webp",
     description: { de: "Dieses spektakuläre Wüstental ist berühmt für seine monolithischen Felsformationen und roten Sanddünen.", hu: "Ez a látványos sivatagi völgy híres monolitikus sziklaalakzatairól és vörös homokdűnéiről.", ro: "Această vale deșertică spectaculoasă este faimoasă pentru formațiunile sale stâncoase monolitice și dunele de nisip roșu.", en: "This spectacular desert valley is famous for its monolithic rock formations and red sand dunes." , es: "Este espectacular valle desértico es famoso por sus formaciones rocosas monolíticas y dunas de arena roja.", pt: "Este vale desértico espetacular é famoso pelas suas formações rochosas monolíticas e dunas de areia vermelha.", fr: "Cette vallée désertique spectaculaire est célèbre pour ses formations rocheuses monolithiques et ses dunes de sable rouge."},
     facts: {
       de: ["Umfasst eine Fläche von rund 720 Quadratkilometern.", "Wurde 2011 zum UNESCO-Welterbe erklärt."],
@@ -665,7 +664,6 @@ export const poiExtraJordanNatureV2: POI[] = [
     parent: "JO-MD",
     coords: [35.4500, 31.5000],
     name: { de: "Totes Meer", hu: "Holt-tenger", ro: "Marea Moartă", en: "Dead Sea"},
-    image: "/poi-images/totes-meer-nature-v2.webp",
     description: { de: "Dieser abflusslose Salzsee liegt über 400 Meter unter dem Meeresspiegel und ist der tiefste trockene Punkt der Erde.", hu: "Ez a lefolyástalan sóstó több mint 400 méterrel a tengerszint alatt fekszik, és a Föld legmélyebb szárazföldi pontja.", ro: "Acest lac sărat endoreic se află la peste 400 de metri sub nivelul mării, fiind cel mai jos punct uscat de pe Pământ.", en: "This endorheic salt lake lies over 400 meters below sea level, making it the lowest dry point on Earth." , es: "Este lago salado endorreico se encuentra a más de 400 metros bajo el nivel del mar y es el punto terrestre más bajo del mundo.", pt: "Este lago salgado sem escoamento situa-se a mais de 400 metros abaixo do nível do mar e é o ponto mais baixo da Terra em terra firme.", fr: "Ce lac salé endoréique se situe à plus de 400 mètres sous le niveau de la mer et constitue le point terrestre le plus bas de la planète."},
     facts: {
       de: ["Der Salzgehalt liegt bei fast 34 Prozent.", "Das Wasser hat eine extrem hohe Dichte."],
@@ -701,7 +699,6 @@ export const poiExtraJordanNatureV2: POI[] = [
     parent: "JO-AT",
     coords: [35.6166, 30.6833],
     name: { de: "Biosphärenreservat Dana", hu: "Dana Bioszféra-rezervátum", ro: "Rezervația Biosferei Dana", en: "Dana Biosphere Reserve"},
-    image: "/poi-images/dana-biosphere-nature-v2.webp",
     description: { de: "Das größte Naturschutzgebiet Jordaniens umfasst vier verschiedene biogeografische Zonen und eine enorme Artenvielfalt.", hu: "Jordánia legnagyobb természetvédelmi területe négy különböző biogeográfiai zónát és hatalmas fajgazdagságot foglal magába.", ro: "Cea mai mare rezervație naturală din Iordania cuprinde patru zone biogeografice diferite și o biodiversitate enormă.", en: "Jordan's largest nature reserve encompasses four distinct biogeographical zones and enormous biodiversity." , es: "La reserva natural más grande de Jordania abarca cuatro zonas biogeográficas diferentes y una enorme biodiversidad.", pt: "A maior reserva natural da Jordânia abrange quatro zonas biogeográficas diferentes e uma enorme biodiversidade.", fr: "La plus grande réserve naturelle de Jordanie s'étend sur quatre zones biogéographiques différentes et abrite une biodiversité exceptionnelle."},
     facts: {
       de: ["Wurde 1989 gegründet.", "Beherbergt über 800 Pflanzenarten."],
@@ -782,7 +779,6 @@ export const poiExtraJordanNatureV2: POI[] = [
     parent: "JO-MD",
     coords: [35.6166, 31.4666],
     name: { de: "Mujib Biosphärenreservat", hu: "Múdzsib Bioszféra-rezervátum", ro: "Rezervația Biosferei Mujib", en: "Mujib Biosphere Reserve"},
-    image: "/poi-images/mujib-reserve-nature-v2.webp",
     description: { de: "Das am tiefsten gelegene Naturschutzgebiet der Erde besticht durch spektakuläre Schluchten und versteckte Wasserfälle.", hu: "A Föld legmélyebben fekvő természetvédelmi területe lenyűgöző szurdokaival és rejtett vízeséseivel hódít.", ro: "Cea mai joasă rezervație naturală de pe Pământ impresionează prin defileurile sale spectaculoase și cascadele ascunse.", en: "The lowest nature reserve on Earth captivates with its spectacular gorges and hidden waterfalls." , es: "La reserva natural más baja de la Tierra destaca por sus espectaculares cañones y cascadas ocultas.", pt: "A reserva natural mais baixa da Terra impressiona pelos seus desfiladeiros espetaculares e cascatas escondidas.", fr: "La réserve naturelle la plus basse de la planète impressionne par ses canyons spectaculaires et ses cascades cachées."},
     facts: {
       de: ["Liegt bis zu 410 Meter unter dem Meeresspiegel.", "Grenzt direkt an das Tote Meer."],
@@ -863,7 +859,6 @@ export const poiExtraJordanNatureV2: POI[] = [
     parent: "JO-AZ",
     coords: [36.8333, 31.8333],
     name: { de: "Azraq-Feuchtgebiet", hu: "Azrak Vizesélőhely", ro: "Zona Umedă Azraq", en: "Azraq Wetland Reserve"},
-    image: "/poi-images/azraq-wetland-nature-v2.webp",
     description: { de: "Diese Wüstenoase war einst ein riesiges Sumpfgebiet und ist heute ein wichtiger Rastplatz für Millionen von Zugvögeln.", hu: "Ez a sivatagi oázis egykor hatalmas mocsárvidék volt, ma pedig vándormadarak millióinak fontos pihenőhelye.", ro: "Această oază deșertică a fost odată o mlaștină vastă, iar astăzi este un loc de popas important pentru milioane de păsări migratoare.", en: "This desert oasis was once a vast marshland and is today an important resting place for millions of migratory birds." , es: "Este oasis del desierto fue antaño una enorme zona pantanosa y hoy es un importante lugar de descanso para millones de aves migratorias.", pt: "Este oásis do deserto foi outrora uma enorme zona pantanosa e hoje é um importante local de descanso para milhões de aves migratórias.", fr: "Cette oasis du désert était autrefois une vaste zone marécageuse et constitue aujourd'hui une étape importante pour des millions d'oiseaux migrateurs."},
     facts: {
       de: ["Wurde 1978 unter internationalen Schutz gestellt.", "Besitzt künstlich gepflegte Teiche für Vögel."],
@@ -980,7 +975,6 @@ export const poiExtraJordanNatureV2: POI[] = [
     parent: "JO-AZ",
     coords: [36.8000, 31.7833],
     name: { de: "Shaumari-Wildtierreservat", hu: "Saumari Vadrezervátum", ro: "Rezervația de Animale Sălbatice Shaumari", en: "Shaumari Wildlife Reserve"},
-    image: "/poi-images/shaumari-wildlife-nature-v2.webp",
     description: { de: "Ein kleines Reservat, das zur Zucht und Auswilderung seltener Wüstentiere wie der Arabischen Oryx-Antilope gegründet wurde.", hu: "Egy kis rezervátum, amelyet ritka sivatagi állatok, például az arab bejzák tenyésztésére és szabadon bocsátására hoztak létre.", ro: "O mică rezervație înființată pentru reproducerea și eliberarea animalelor deșertice rare, cum ar fi oryxul arab.", en: "A small reserve established for the breeding and reintroduction of rare desert animals like the Arabian oryx." , es: "Una pequeña reserva creada para la cría y reintroducción de animales raros del desierto como el órix de Arabia.", pt: "Uma pequena reserva fundada para a reprodução e reintrodução de animais raros do desierto, como o oryx árabe.", fr: "Une petite réserve créée pour l'élevage et la réintroduction d'animaux du désert rares, comme l'oryx d'Arabie."},
     facts: {
       de: ["Die Arabische Oryx wurde hier erfolgreich nachgezüchtet.", "Das Reservat ist nur 22 Quadratkilometer groß."],
@@ -1277,7 +1271,6 @@ export const poiExtraJordanNatureV2: POI[] = [
     parent: "JO-AJ",
     coords: [35.7500, 32.3833],
     name: { de: "Waldreservat Adschlun", hu: "Adzslún Erdőrezervátum", ro: "Rezervația Forestieră Ajloun", en: "Ajloun Forest Reserve"},
-    image: "/poi-images/ajloun-forest-nature-v2.webp",
     description: { de: "Ein dichtes Waldgebiet aus immergrünen Eichen, das eine wichtige Zuflucht für Rehe, Wildschweine und seltene Vogelarten bietet.", hu: "Örökzöld tölgyekből álló sűrű erdő, amely fontos menedéket nyújt az őzeknek, vaddisznóknak és ritka madárfajoknak.", ro: "O zonă de pădure deasă de stejari veșnic verzi, care oferă un refugiu important pentru căprioare, mistreți și specii rare de păsări.", en: "A dense forest area of evergreen oaks that provides an important refuge for deer, wild boars, and rare bird species." , es: "Una densa zona forestal de encinas siempreverdes que ofrece un importante refugio para corzos, jabalíes y especies de aves raras.", pt: "Uma área florestal densa de carvalhos perenes que oferece um refúgio importante para corços, javalis e espécies de aves raras.", fr: "Une zone forestière dense de chênes verts, offrant un refuge important pour les chevreuils, les sangliers et les espèces d'oiseaux rares."},
     facts: {
       de: ["Liegt auf einer Höhe von bis zu 1100 Metern.", "Ist ein Überrest der ursprünglichen Wälder Jordaniens."],
@@ -1430,7 +1423,6 @@ export const poiExtraJordanNatureV2: POI[] = [
     parent: "JO-JA",
     coords: [35.8333, 32.2333],
     name: { de: "Waldreservat Dibbeen", hu: "Dibbin Erdőrezervátum", ro: "Rezervația Forestieră Dibbeen", en: "Dibbeen Forest Reserve"},
-    image: "/poi-images/dibbeen-forest-nature-v2.webp",
     description: { de: "Dieses hügelige Reservat schützt die letzten verbliebenen Bestände der seltenen Aleppo-Kiefer in der Region.", hu: "Ez a dombos rezervátum védi a ritka aleppóifenyő utolsó megmaradt állományait a régióban.", ro: "Această rezervație deluroasă protejează ultimele populații rămase de pin de Alep rar din regiune.", en: "This hilly reserve protects the last remaining stands of the rare Aleppo pine in the region." , es: "Esta reserva montañosa protege las últimas poblaciones de pino carrasco de la región.", pt: "Esta reserva montanhosa protege as últimas populações remanescentes de pinheiro-de-Alepo na região.", fr: "Cette réserve vallonnée protège les derniers peuplements de pins d'Alep de la région."},
     facts: {
       de: ["Wurde 2004 als Schutzgebiet ausgewiesen.", "Beherbergt seltene Orchideenarten."],
@@ -1511,7 +1503,6 @@ export const poiExtraJordanNatureV2: POI[] = [
     parent: "JO-BA",
     coords: [35.5333, 31.7500],
     name: { de: "Jordan-Fluss", hu: "Jordán-folyó", ro: "Râul Iordan", en: "Jordan River"},
-    image: "/poi-images/jordan-river-nature-v2.webp",
     description: { de: "Dieser historisch und religiös bedeutende Fluss bildet die natürliche Grenze zwischen Jordanien und den palästinensischen Gebieten.", hu: "Ez a történelmileg és vallásilag jelentős folyó alkotja a természetes határt Jordánia és a palesztin területek között.", ro: "Acest râu cu o semnificație istorică și religioasă deosebită formează granița naturală între Iordania și teritoriile palestiniene.", en: "This historically and religiously significant river forms the natural border between Jordan and the Palestinian territories." , es: "Este río de gran importancia histórica y religiosa forma la frontera natural entre Jordania y los territorios palestinos.", pt: "Este rio de importância histórica e religiosa constitui a fronteira natural entre a Jordânia e os territórios palestinianos.", fr: "Ce fleuve d'une importance historique et religieuse majeure forme la frontière naturelle entre la Jordanie et les territoires palestiniens."},
     facts: {
       de: ["Mündet im Süden in das Tote Meer.", "Seine Gesamtlänge beträgt etwa 251 Kilometer."],
@@ -2204,7 +2195,6 @@ export const poiExtraJordanNatureV2: POI[] = [
     parent: "JO-IR",
     coords: [35.6833, 32.6833],
     name: { de: "Jarmuk-Fluss", hu: "Jarmuk-folyó", ro: "Râul Yarmouk", en: "Yarmouk River"},
-    image: "/poi-images/yarmouk-river-nature-v2.webp",
     description: { de: "Der größte Nebenfluss des Jordans gräbt sich tief in die Landschaft ein und trennt Jordanien von Syrien.", hu: "A Jordán legnagyobb mellékfolyója mélyen a tájba vájja magát, és elválasztja Jordániát Szíriától.", ro: "Cel mai mare afluent al Iordanului sapă adânc în peisaj și separă Iordania de Siria.", en: "The largest tributary of the Jordan River carves deep into the landscape and separates Jordan from Syria." , es: "El mayor afluente del Jordán se abre paso profundamente en el paisaje y separa a Jordania de Siria.", pt: "O maior afluente do Jordão escava profundamente a paisagem e separa a Jordânia da Síria.", fr: "Le plus grand affluent du Jourdain s'enfonce profondément dans le paysage et sépare la Jordanie de la Syrie."},
     facts: {
       de: ["Entspringt im Hauran-Gebiet in Syrien.", "War Schauplatz der historischen Schlacht am Jarmuk."],
@@ -2393,7 +2383,6 @@ export const poiExtraJordanNatureV2: POI[] = [
     parent: "JO-AZ",
     coords: [35.9166, 32.1833],
     name: { de: "Zarqa-Fluss", hu: "Zarka-folyó", ro: "Râul Zarqa", en: "Zarqa River"},
-    image: "/poi-images/zarqa-river-nature-v2.webp",
     description: { de: "Ein wichtiges Flusssystem im Norden Jordaniens, das durch steile Täler fließt und den König-Talal-Stausee speist.", hu: "Fontos folyórendszer Jordánia északi részén, amely meredek völgyeken folyik keresztül, és a Talal Király-gátat táplálja.", ro: "Un sistem fluvial important în nordul Iordaniei, care curge prin văi abrupte și alimentează Barajul King Talal.", en: "An important river system in northern Jordan that flows through steep valleys and feeds the King Talal Dam." , es: "Un importante sistema fluvial en el norte de Jordania que fluye a través de valles empinados y alimenta el embalse King Talal.", pt: "Um sistema fluvial importante no norte da Jordânia que corre por vales íngremes e alimenta a albufeira King Talal.", fr: "Un système fluvial important dans le nord de la Jordanie, qui traverse des vallées escarpées et alimente le réservoir King Talal."},
     facts: {
       de: ["Wird in der Bibel als Fluss Jabbok erwähnt.", "Sein Wasser wird intensiv für die Landwirtschaft genutzt."],
@@ -2474,7 +2463,6 @@ export const poiExtraJordanNatureV2: POI[] = [
     parent: "JO-AQ",
     coords: [35.4294, 29.3130],
     name: { de: "Dschabal Umm ad-Dami", hu: "Dzsebel Umm ad-Dámi", ro: "Jabal Umm ad-Dami", en: "Jabal Umm ad-Dami"},
-    image: "/poi-images/jabal-umm-ad-dami-nature-v2.webp",
     description: { de: "Mit über 1800 Metern ist dies der höchste Berg Jordaniens, gelegen im äußersten Süden nahe der saudischen Grenze.", hu: "Több mint 1800 méterével ez Jordánia legmagasabb hegye, amely a legdélibb részen, a szaúdi határ közelében található.", ro: "Cu peste 1800 de metri, acesta este cel mai înalt munte din Iordania, situat în sudul extrem, aproape de granița saudită.", en: "At over 1800 meters, this is the highest mountain in Jordan, located in the extreme south near the Saudi border." , es: "Con más de 1800 metros, esta es la montaña más alta de Jordania, situada en el extremo sur cerca de la frontera saudí.", pt: "Com mais de 1800 metros, esta é a montanha mais alta da Jordânia, situada no extremo sul, perto da fronteira com a Arábia Saudita.", fr: "Avec plus de 1800 mètres, c'est la plus haute montagne de Jordanie, située à l'extrême sud, près de la frontière saoudienne."},
     facts: {
       de: ["Erreicht eine Höhe von 1854 Metern.", "An klaren Tagen kann man von hier das Rote Meer sehen."],
@@ -2699,7 +2687,6 @@ export const poiExtraJordanNatureV2: POI[] = [
     parent: "JO-AQ",
     coords: [35.3977, 29.5719],
     name: { de: "Dschabal Ram", hu: "Dzsebel Ram", ro: "Jabal Ram", en: "Jabal Ram"},
-    image: "/poi-images/jabal-ram-nature-v2.webp",
     description: { de: "Ein massiver Sandsteinberg im Wadi Rum, der lange Zeit fälschlicherweise für den höchsten Gipfel des Landes gehalten wurde.", hu: "Masszív homokkő hegy a Vádi Rumban, amelyet sokáig tévesen az ország legmagasabb csúcsának tartottak.", ro: "Un munte masiv de gresie în Wadi Rum, care a fost mult timp considerat în mod eronat cel mai înalt vârf din țară.", en: "A massive sandstone mountain in Wadi Rum that was long mistakenly believed to be the country's highest peak." , es: "Una imponente montaña de arenisca en el Uadi Rum, considerada erróneamente durante mucho tiempo la cima más alta del país.", pt: "Uma montanha maciça de arenito no Wadi Rum, que durante muito tempo foi erroneamente considerada o pico mais alto do país.", fr: "Une montagne massive de grès dans le Wadi Rum, longtemps considérée à tort comme le plus haut sommet du pays."},
     facts: {
       de: ["Seine markanten Klippen ziehen viele Kletterer an.", "Erhebt sich 1734 Meter über den Meeresspiegel."],
@@ -2969,7 +2956,6 @@ export const poiExtraJordanNatureV2: POI[] = [
     parent: "JO-IR",
     coords: [35.7166, 32.6666],
     name: { de: "Waldreservat Jarmuk", hu: "Jarmuk Erdőrezervátum", ro: "Rezervația Forestieră Yarmouk", en: "Yarmouk Forest Reserve"},
-    image: "/poi-images/yarmouk-forest-reserve-nature-v2.webp",
     description: { de: "Ein hügeliges Schutzgebiet an der nördlichen Grenze, das reich an sommergrünen Eichen und saisonalen Wildblumen ist.", hu: "Dombos védett terület az északi határon, amely gazdag lombhullató tölgyekben és szezonális vadvirágokban.", ro: "O arie protejată deluroasă la granița de nord, bogată în stejari cu frunze căzătoare și flori sălbatice sezoniere.", en: "A hilly protected area on the northern border that is rich in deciduous oaks and seasonal wildflowers." , es: "Un área protegida montañosa en la frontera norte, rica en robles caducifolios y flores silvestres de temporada.", pt: "Uma área protegida montanhosa na fronteira norte, rica em carvalhos caducifólios e flores silvestres sazonais.", fr: "Une zone protégée vallonnée à la frontière nord, riche en chênes décidus et en fleurs sauvages saisonnières."},
     facts: {
       de: ["Wurde im Jahr 2010 offiziell eingerichtet.", "Bewahrt die landschaftliche Schönheit im Norden des Landes."],
@@ -3086,7 +3072,6 @@ export const poiExtraJordanNatureV2: POI[] = [
     parent: "JO-MD",
     coords: [35.5666, 31.4666],
     name: { de: "Wadi Mudschib (Fluss)", hu: "Vádi Múdzsib (folyó)", ro: "Wadi Mujib (Râu)", en: "Wadi Mujib (River)"},
-    image: "/poi-images/wadi-mujib-river-nature-v2.webp",
     description: { de: "Dieser spektakuläre Canyon wird oft als der Grand Canyon Jordaniens bezeichnet und führt ganzjährig Wasser.", hu: "Ezt a látványos kanyont gyakran Jordánia Grand Canyonjának nevezik, és egész évben vizet szállít.", ro: "Acest canion spectaculos este adesea numit Marele Canion al Iordaniei și transportă apă tot timpul anului.", en: "This spectacular canyon is often referred to as the Grand Canyon of Jordan and carries water year-round." , es: "Este espectacular cañón es a menudo llamado el Gran Cañón de Jordania y fluye agua durante todo el año.", pt: "Este desfiladeiro espetacular é frequentemente chamado de o Grand Canyon da Jordânia e corre água durante todo o ano.", fr: "Ce canyon spectaculaire est souvent appelé le Grand Canyon de Jordanie et l'eau y coule toute l'année."},
     facts: {
       de: ["Verfügt über tiefe, wasserführende Schluchten.", "Ist ein beliebter Ort für das Canyoning."],
@@ -3167,7 +3152,6 @@ export const poiExtraJordanNatureV2: POI[] = [
     parent: "JO-KA",
     coords: [35.4833, 31.0333],
     name: { de: "Wadi Hasa", hu: "Vádi Hasza", ro: "Wadi Hasa", en: "Wadi Hasa"},
-    image: "/poi-images/wadi-hasa-nature-v2.webp",
     description: { de: "Eine malerische Schlucht mit heißen Quellen und rosa Sandsteinwänden, die bei Wanderern sehr beliebt ist.", hu: "Festői szurdok meleg forrásokkal és rózsaszín homokkő falakkal, amely nagyon népszerű a túrázók körében.", ro: "Un defileu pitoresc cu izvoare termale și pereți de gresie roz, care este foarte popular printre drumeți.", en: "A picturesque gorge with hot springs and pink sandstone walls that is highly popular among hikers." , es: "Un pintoresco desfiladero con aguas termales y paredes de arenisca rosada, muy popular entre los excursionistas.", pt: "Um desfiladeiro pitoresco com águas termais e paredes de arenito cor-de-rosa, muito popular entre os caminhantes.", fr: "Une gorge pittoresque aux sources thermales et aux parois de grès rose, très prisée des randonneurs."},
     facts: {
       de: ["Die Wanderstrecke durch das Wadi ist rund 24 Kilometer lang.", "Das Wasser fließt das ganze Jahr über."],
@@ -3392,7 +3376,6 @@ export const poiExtraJordanNatureV2: POI[] = [
     parent: "JO-JA",
     coords: [35.8000, 32.1833],
     name: { de: "König-Talal-Stausee", hu: "Talal Király-gát (tó)", ro: "Barajul King Talal", en: "King Talal Dam"},
-    image: "/poi-images/king-talal-dam-nature-v2.webp",
     description: { de: "Der größte Stausee in den Hügeln von Jerash spielt eine wichtige Rolle bei der Bewässerung des Jordantals.", hu: "A Jeras dombjai között található legnagyobb víztározó fontos szerepet játszik a Jordán-völgy öntözésében.", ro: "Cel mai mare rezervor din dealurile Jerash joacă un rol important în irigarea Văii Iordanului.", en: "The largest reservoir in the hills of Jerash plays an important role in the irrigation of the Jordan Valley." , es: "El embalse más grande de las colinas de Gerasa desempeña un papel vital en el riego del valle del Jordán.", pt: "A maior albufeira nas colinas de Jerash desempenha um papel importante na irrigação do Vale do Jordão.", fr: "Le plus grand réservoir des collines de Gérasa joue un rôle crucial dans l'irrigation de la vallée du Jourdain."},
     facts: {
       de: ["Der Stausee hat eine Kapazität von 75 Millionen Kubikmetern.", "Er wird hauptsächlich vom Zarqa-Fluss gespeist."],

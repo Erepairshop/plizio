@@ -309,7 +309,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
       hu: "Krak des Chevaliers",
       ro: "Krak des Chevaliers",
       en: "Krak des Chevaliers"},
-    image: "/poi-images/sy-krak-des-chevaliers-history-v2.webp",
     description: {
       de: "Eine der am besten erhaltenen Kreuzritterburgen der Welt. Sie überblickt strategisch wichtiges Gelände und hielt zahlreichen Belagerungen stand.",
       hu: "A világ egyik legjobb állapotban fennmaradt keresztes lovagvára. Stratégiailag fontos területet felügyelt, és számos ostromot kiállt.",
@@ -1242,7 +1241,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
       hu: "Aleppói citadella",
       ro: "Citadela din Alep",
       en: "Citadel of Aleppo"},
-    image: "/poi-images/sy-aleppo-citadel-history-v2.webp",
     description: {
       de: "Ein massiver befestigter Palast im Zentrum einer der ältesten ununterbrochen bewohnten Städte der Welt. Ihre heutigen Mauern stammen großteils aus dem 12. Jahrhundert.",
       hu: "Egy hatalmas erődített palota a világ egyik legrégebb óta folyamatosan lakott városának közepén. Jelenlegi falai nagyrészt a 12. századból származnak.",
@@ -1527,7 +1525,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
       hu: "Omajjád-mecset",
       ro: "Marea Moschee Umayyadă",
       en: "Umayyad Mosque"},
-    image: "/poi-images/sy-umayyad-mosque-history-v2.webp",
     description: {
       de: "Diese im 8. Jahrhundert erbaute Moschee in Damaskus ruht auf den Fundamenten einer römischen Tempelanlage. Sie enthält das Grab Johannes des Täufers.",
       hu: "Ez a 8. században épült damaszkuszi mecset egy római templom alapjain nyugszik. Itt található Keresztelő János sírja.",
@@ -1740,7 +1737,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
       hu: "Apamea",
       ro: "Apamea",
       en: "Apamea"},
-    image: "/poi-images/sy-apamea-history-v2.webp",
     description: {
       de: "Einst eine florierende antike Metropole, bekannt für ihre fast zwei Kilometer lange Große Kolonnade. Ein Erdbeben im 12. Jahrhundert brachte die Stadt endgültig zu Fall.",
       hu: "Egykor virágzó ókori metropolisz, amely közel két kilométer hosszú nagy oszlopsoráról ismert. Egy 12. századi földrengés pusztította el végleg.",
@@ -2313,7 +2309,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
       hu: "Boszrai római színház",
       ro: "Teatrul Roman din Bosra",
       en: "Bosra Amphitheatre"},
-    image: "/poi-images/sy-bosra-amphitheatre-history-v2.webp",
     description: {
       de: "Ein außergewöhnlich gut erhaltenes Amphitheater aus dem 2. Jahrhundert, das aus schwarzem Basalt erbaut wurde. Im Mittelalter wurde es zu einer Festung umgewandelt.",
       hu: "Egy kivételesen jó állapotban fennmaradt, 2. századi amfiteátrum, amely fekete bazaltból épült. A középkorban erőddé alakították.",
@@ -2418,7 +2413,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
       hu: "Ebla",
       ro: "Ebla",
       en: "Ebla"},
-    image: "/poi-images/sy-ebla-history-v2.webp",
     description: {
       de: "Die Überreste einer antiken Zivilisation, berühmt für die Entdeckung tausender Keilschrifttafeln. Diese Archive lieferten entscheidende Erkenntnisse über die Sprachen des alten Orients.",
       hu: "Egy ókori civilizáció maradványai, amelyek több ezer ékírásos tábla felfedezéséről híresek. Ezek az archívumok döntő betekintést nyújtottak az ókori Kelet nyelveibe.",
@@ -2631,7 +2625,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
       hu: "Ugarit",
       ro: "Ugarit",
       en: "Ugarit"},
-    image: "/poi-images/sy-ugarit-history-v2.webp",
     description: {
       de: "Diese Hafenstadt aus der Bronzezeit ist der Fundort des ältesten bekannten Alphabets der Welt. Ihre engen Handelsbeziehungen reichten bis nach Ägypten und Zypern.",
       hu: "Ez a bronzkori kikötőváros a világ legrégebbi ismert ábécéjének lelőhelye. Szoros kereskedelmi kapcsolatai Egyiptomig és Ciprusig értek.",
@@ -2691,7 +2684,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
       hu: "Szaladin vára",
       ro: "Castelul lui Saladin",
       en: "Saladin's Castle"},
-    image: "/poi-images/sy-saladin-castle-history-v2.webp",
     description: {
       de: "Eine byzantinische und später kreuzritterliche Bergfestung, die tief in einen natürlichen Felsspalt gehauen ist. Sie wurde 1188 von Sultan Saladin erobert.",
       hu: "Egy bizánci, majd később keresztes lovagi hegyi erőd, amelyet mélyen egy természetes sziklahasadékba vájtak. Szaladin szultán hódította meg 1188-ban.",
@@ -2904,7 +2896,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
       hu: "Mári",
       ro: "Mari",
       en: "Mari"},
-    image: "/poi-images/sy-mari-history-v2.webp",
     description: {
       de: "Eine ehemalige mesopotamische Stadt am Euphrat, die einst den lukrativen Handel zwischen Sumer und der Levante kontrollierte. Ihre Ruinen beinhalten den großen Palast von Zimri-Lim.",
       hu: "Egykori mezopotámiai város az Eufrátesz mentén, amely egykor a Sumer és a Levante közötti jól jövedelmező kereskedelmet ellenőrizte. Romjai közt található Zimrí-Lim nagy palotája.",
@@ -3081,7 +3072,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
       hu: "Amrit",
       ro: "Amrit",
       en: "Amrit"},
-    image: "/poi-images/sy-amrit-history-v2.webp",
     description: {
       de: "Eine antike phönizische Ausgrabungsstätte nahe der Küste, die einen einzigartigen, in den Fels gehauenen Tempel aufweist, der von einem Wasserbecken umgeben war.",
       hu: "Egy ősi föníciai ásatási helyszín a part közelében, amelynek egyedi, sziklába vájt templomát egykor medence vette körül.",
@@ -3258,7 +3248,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
       hu: "Margat vára",
       ro: "Castelul Margat",
       en: "Margat Castle"},
-    image: "/poi-images/sy-margat-history-v2.webp",
     description: {
       de: "Eine schwarze Basaltfestung der Johanniter, die auf einem erloschenen Vulkan ruht und das Mittelmeer überblickt. Sie war eine der mächtigsten Trutzburgen des Templerordens.",
       hu: "A johanniták fekete bazaltból épült erődje, amely egy kialudt vulkánon nyugszik és a Földközi-tengerre néz. A templomos lovagrend egyik legerősebb végvára volt.",
@@ -3399,7 +3388,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
       hu: "Raszáfa",
       ro: "Resafa",
       en: "Resafa"},
-    image: "/poi-images/sy-resafa-history-v2.webp",
     description: {
       de: "Eine byzantinische Stadtmauer aus feinem Gipsstein inmitten der syrischen Wüste. Sie war ein wichtiger Pilgerort für den Heiligen Sergios.",
       hu: "Egy bizánci várfal finom gipszkőből a szír sivatag közepén. Szent Szergiosz fontos zarándokhelye volt.",
@@ -3504,7 +3492,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
       hu: "Qaszr al-Hejr as-Sarki",
       ro: "Qasr al-Hayr al-Sharqi",
       en: "Qasr al-Hayr al-Sharqi"},
-    image: "/poi-images/sy-qasr-al-hayr-al-sharqi-history-v2.webp",
     description: {
       de: "Zwei umayyadische Wüstenschlösser, die ursprünglich landwirtschaftliche Güter und Karawansereien waren. Ihre massiven Lehmmauern ragen noch heute aus dem Sand.",
       hu: "Két omajjád sivatagi kastély, amelyek eredetileg mezőgazdasági birtokok és karavánszerájok voltak. Hatalmas agyagfalaik ma is kiemelkednek a homokból.",
@@ -4221,7 +4208,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
       hu: "Szerdzsilla",
       ro: "Serjilla",
       en: "Serjilla"},
-    image: "/poi-images/sy-serjilla-history-v2.webp",
     description: {
       de: "Die am besten erhaltene der sogenannten Toten Städte Syriens. Die Geisterstadt bietet ein faszinierendes Bild des ländlichen Lebens im byzantinischen Reich.",
       hu: "Szíria úgynevezett Holt városainak legjobb állapotban fennmaradt tagja. A szellemváros lenyűgöző képet fest a bizánci birodalom vidéki életéről.",
@@ -4650,7 +4636,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
       hu: "Rakka városfala",
       ro: "Zidul orașului Al-Raqqah",
       en: "Al-Raqqah Wall"},
-    image: "/poi-images/sy-al-raqqah-wall-history-v2.webp",
     description: {
       de: "Große Teile der historischen Stadtmauer und das mächtige Bab Baghdad (Bagdad-Tor). Diese Monumente stammen aus der Blütezeit der Abbasiden-Dynastie.",
       hu: "A történelmi városfal nagy részei és a hatalmas Bab Bagdad (Bagdadi kapu). Ezek az emlékművek az Abbászida-dinasztia fénykorából származnak.",
@@ -4827,7 +4812,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
       hu: "Jupiter-templom",
       ro: "Templul lui Jupiter",
       en: "Temple of Jupiter"},
-    image: "/poi-images/sy-temple-of-jupiter-history-v2.webp",
     description: {
       de: "Überreste eines gigantischen römischen Tempels, der einst das Zentrum von Damaskus dominierte. Heute stehen noch einige seiner massiven korinthischen Säulen auf dem Suq Al-Hamidiyah.",
       hu: "Egy gigantikus római templom maradványai, amely egykor Damaszkusz központját uralta. Ma is áll néhány hatalmas korinthoszi oszlopa az Al-Hamidiyah szúkban.",
@@ -5256,7 +5240,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
       hu: "Damaszkuszi citadella",
       ro: "Citadela din Damasc",
       en: "Citadel of Damascus"},
-    image: "/poi-images/sy-damascus-citadel-history-v2.webp",
     description: {
       de: "Eine völlig ebenerdige Zitadelle, die nicht auf einem Hügel, sondern in der gleichen Höhe wie die restliche Altstadt erbaut wurde. Sie bot Schutz vor Kreuzzüglern und Mongolen.",
       hu: "Egy teljesen sík területen épült citadella, amely nem dombon, hanem az óváros többi részével azonos magasságban helyezkedik el. Védelmet nyújtott a keresztesek és a mongolok ellen.",
@@ -5757,7 +5740,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
       hu: "Dura-Európosz",
       ro: "Dura-Europos",
       en: "Dura-Europos"},
-    image: "/poi-images/sy-dura-europos-history-v2.webp",
     description: {
       de: "Eine multikulturelle Grenzstadt am Euphrat, die von Persern und Römern umkämpft war. Ihre Ruinen lieferten sensationelle Entdeckungen von Synagogen und Hauskirchen.",
       hu: "Egy multikulturális határváros az Eufrátesz partján, amelyért a perzsák és a rómaiak harcoltak. Romjai között szenzációs zsinagóga- és házi templom-felfedezéseket tettek.",

@@ -31,7 +31,6 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/kaema-plateau-relief-v2.webp",
     description: {
       de: "Eine große, hochgelegene Hochebene im Norden Nordkoreas, die oft als 'Dach Koreas' bezeichnet wird.",
       hu: "Nagy, magasan fekvő fennsík Észak-Korea északi részén, amelyet gyakran 'Korea tetejének' is neveznek.",
@@ -79,7 +78,6 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/chilbo-mountain-relief-v2.webp",
     description: {
       de: "Ein Berg in der Provinz Nord-Hamgyong, bekannt für seine außergewöhnlichen Felsformationen und seine Aussicht auf das Japanische Meer.",
       hu: "Hegy Észak-Hamgjong tartományban, amely kivételes sziklaalakzatairól és a Japán-tengerre nyíló kilátásáról ismert.",
@@ -518,7 +516,6 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/suyang-valley-relief-v2.webp",
     description: {
       de: "Ein malerisches Tal in der Nähe von Haeju, bekannt für seine Wasserfälle und historischen Verbindungen zur Goryeo-Dynastie.",
       hu: "Festői völgy Hedzsu közelében, vízeséseiről és a Korjo-dinasztiához fűződő történelmi kapcsolatairól ismert.",
@@ -611,7 +608,6 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/tongchon-coast-relief-v2.webp",
     description: {
       de: "Ein Küstenabschnitt in der Provinz Kangwon mit Sandstränden und malerischen Klippen.",
       hu: "Partszakasz Kangvon tartományban, homokos strandokkal és festői sziklákkal.",
@@ -659,7 +655,6 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/musan-plateau-relief-v2.webp",
     description: {
       de: "Eine Hochebene in der Provinz Nord-Hamgyong, reich an Eisenerzvorkommen.",
       hu: "Fennsík Észak-Hamgjong tartományban, gazdag vasérckészletekben.",
@@ -1134,7 +1129,6 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/changbai-mountains-korean-side-relief-v2.webp",
     description: {
       de: "Die koreanische Seite der Bergkette, die die Grenze zwischen China und Nordkorea bildet. Auf Koreanisch heißt sie Baekdudaegan.",
       hu: "A Kína és Észak-Korea határát képező hegylánc koreai oldala. Koreaiul Pekdudegan-nak hívják.",
@@ -1182,7 +1176,6 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/chosan-bay-coast-relief-v2.webp",
     description: {
       de: "Ein Küstenabschnitt am Gelben Meer in der Provinz Nord-Pyongan mit ausgedehnten Wattflächen.",
       hu: "Partszakasz a Sárga-tengernél Észak-Phjongan tartományban, kiterjedt árapálysíkságokkal.",
@@ -1230,7 +1223,6 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/puryong-valley-relief-v2.webp",
     description: {
       de: "Ein Tal in der Provinz Nord-Hamgyong, durch das der Fluss Puryong fließt.",
       hu: "Völgy Észak-Hamgjong tartományban, amelyen a Phurjong folyó folyik keresztül.",
@@ -1359,7 +1351,6 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/taebaek-mountains-north-relief-v2.webp",
     description: {
       de: "Der nördliche Ausläufer der Taebaek-Bergkette, der sich in Nordkorea erstreckt und das Kumgang-Gebirge umfasst.",
       hu: "A Thebek-hegylánc északi nyúlványa, amely Észak-Koreába nyúlik be, és magában foglalja a Kumgang-hegységet.",
@@ -1452,7 +1443,6 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/ryongam-cavern-relief-v2.webp",
     description: {
       de: "Ein großes Karsthöhlensystem in der Nähe von Pjöngjang, das für seine unterirdischen Flüsse und einzigartigen Felsformationen bekannt ist.",
       hu: "Nagy karsztbarlangrendszer Phenjan közelében, amely föld alatti folyóiról és egyedi sziklaalakzatairól ismert.",
@@ -1500,7 +1490,6 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/nandai-river-valley-relief-v2.webp",
     description: {
       de: "Das Tal, das vom Fluss Nandai durchflossen wird, während er durch Hamhung fließt und ins Japanische Meer mündet.",
       hu: "A völgy, amelyen a Nande folyó folyik keresztül Hamhungon át a Japán-tengerbe ömléséig.",
@@ -1597,7 +1586,6 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/hoechang-highlands-relief-v2.webp",
     description: {
       de: "Eine bergige Region in der Provinz Süd-Pyongan, die Teil des zentralen Gebirgsrückgrats Koreas ist.",
       hu: "Hegyvidéki régió Dél-Phjongan tartományban, amely Korea központi hegygerincének része.",
@@ -1645,7 +1633,6 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/sohung-river-valley-relief-v2.webp",
     description: {
       de: "Ein fruchtbares Tal in der Provinz Nord-Hwanghae, das für seine landwirtschaftliche Produktion bekannt ist.",
       hu: "Termékeny völgy Észak-Hvanghe tartományban, amely mezőgazdasági termeléséről ismert.",
@@ -1693,7 +1680,6 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/korea-bay-west-coast-relief-v2.webp",
     description: {
       de: "Der nördliche Teil der Westküste Nordkoreas, der die Koreabucht bildet, mit zahlreichen Inseln und Flussmündungen.",
       hu: "Észak-Korea nyugati partjának északi része, amely a Koreai-öbölt képezi, számos szigettel és folyótorkolattal.",
@@ -1741,7 +1727,6 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/east-korea-bay-east-coast-relief-v2.webp",
     description: {
       de: "Ein großer Einzugsbereich an der Ostküste mit den Städten Hamhung und Wonsan, der tiefere Gewässer und Sandstrände aufweist.",
       hu: "Nagy vízgyűjtő terület a keleti parton Hamhung és Vonszan városokkal, mélyebb vizekkel és homokos strandokkal.",
@@ -1834,7 +1819,6 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/songchon-river-gorge-relief-v2.webp",
     description: {
       de: "Eine Schlucht, die vom Fluss Songchon durch die zentralen Berge der Provinz Süd-Pyongan gegraben wurde.",
       hu: "Szurdok, amelyet a Szongcshon folyó vájt ki Dél-Phjongan tartomány központi hegyein keresztül.",

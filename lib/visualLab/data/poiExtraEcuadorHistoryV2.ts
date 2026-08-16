@@ -381,7 +381,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Ingapirca",
       ro: "Ingapirca",
       en: "Ingapirca"},
-    image: "/poi-images/ingapirca-history-v2.webp",
     description: {
       de: "Die größte und am besten erhaltene archäologische Inka-Stätte in Ecuador mit dem berühmten Sonnentempel.",
       hu: "Ecuador legnagyobb és legépebben fennmaradt inka régészeti lelőhelye, amely a híres Naptemplomról ismert.",
@@ -1554,7 +1553,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Pumapungo",
       ro: "Pumapungo",
       en: "Pumapungo"},
-    image: "/poi-images/pumapungo-history-v2.webp",
     description: {
       de: "Eine bedeutende Inka-Ruine im Herzen von Cuenca, die einst ein religiöses und administratives Zentrum war.",
       hu: "Jelentős inka rom Cuenca szívében, amely egykor vallási és közigazgatási központ volt.",
@@ -1683,7 +1681,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "La Compañía de Jesús",
       ro: "La Compañía de Jesús",
       en: "La Compañía de Jesús"},
-    image: "/poi-images/la-compania-de-jesus-history-v2.webp",
     description: {
       de: "Eine prunkvolle Jesuitenkirche in Quito, berühmt für ihr vollständig mit Blattgold verziertes Hauptschiff.",
       hu: "Egy pompás jezsuita templom Quitóban, amely híres a teljesen aranyfüsttel díszített főhajójáról.",
@@ -2244,7 +2241,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Basílica del Voto Nacional",
       ro: "Basílica del Voto Nacional",
       en: "Basílica del Voto Nacional"},
-    image: "/poi-images/basilica-del-voto-nacional-history-v2.webp",
     description: {
       de: "Eine monumentale neugotische Basilika in Quito, die größte ihrer Art in Südamerika.",
       hu: "Egy monumentális neogótikus bazilika Quitóban, amely a legnagyobb a maga nemében Dél-Amerikában.",
@@ -2841,7 +2837,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Cochasquí",
       ro: "Cochasquí",
       en: "Cochasquí"},
-    image: "/poi-images/cochasqui-history-v2.webp",
     description: {
       de: "Ein archäologischer Park mit Pyramiden und Grabhügeln der präinkaischen Quitu-Cara-Kultur.",
       hu: "Régészeti park a pre-inka Quitu-Cara kultúra piramisaival és sírhalmaival.",
@@ -3402,7 +3397,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Agua Blanca",
       ro: "Agua Blanca",
       en: "Agua Blanca"},
-    image: "/poi-images/agua-blanca-history-v2.webp",
     description: {
       de: "Die Überreste einer bedeutenden Stadt der Manteño-Kultur an der ecuadorianischen Küste.",
       hu: "A manteño kultúra egyik jelentős városának maradványai az ecuadori tengerparton.",
@@ -4848,7 +4842,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Mitad del Mundo",
       ro: "Mitad del Mundo",
       en: "Mitad del Mundo"},
-    image: "/poi-images/mitad-del-mundo-history-v2.webp",
     description: {
       de: "Das Denkmal, das die historische französische geodätische Mission zur Bestimmung der Äquatorlinie markiert.",
       hu: "Az emlékmű, amely a történelmi francia geodéziai missziót jelöli, amely az Egyenlítő vonalát határozta meg.",
@@ -5229,7 +5222,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Rumicucho Pucará",
       ro: "Rumicucho Pucará",
       en: "Rumicucho Pucará"},
-    image: "/poi-images/rumicucho-pucara-history-v2.webp",
     description: {
       de: "Eine Inka-Festung nahe dem Äquator, die als militärischer und zeremonieller Kontrollpunkt diente.",
       hu: "Inka erődítmény az Egyenlítő közelében, amely katonai és szertartási ellenőrzőpontként szolgált.",
@@ -5826,7 +5818,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Tulipe",
       ro: "Tulipe",
       en: "Tulipe"},
-    image: "/poi-images/tulipe-history-v2.webp",
     description: {
       de: "Ein archäologisches Zentrum mit Strukturen der Yumbo-Kultur, bekannt für seine versunkenen Wasserbecken.",
       hu: "A Yumbo kultúra építményeit bemutató régészeti központ, amely elsüllyedt medencéiről ismert.",
@@ -6567,7 +6558,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Baños del Inca en Coyoctor",
       ro: "Baños del Inca en Coyoctor",
       en: "Baños del Inca en Coyoctor"},
-    image: "/poi-images/banos-del-inca-en-coyoctor-history-v2.webp",
     description: {
       de: "In Fels gehauene Ruinen, die als heilige Bäder und Zeremonienstätten für Inka-Herrscher dienten.",
       hu: "Sziklába vájt romok, amelyek szent fürdőként és szertartási helyként szolgáltak az inka uralkodók számára.",
@@ -7956,7 +7946,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Cerro Hojas-Jaboncillo",
       ro: "Cerro Hojas-Jaboncillo",
       en: "Cerro Hojas-Jaboncillo"},
-    image: "/poi-images/cerro-hojas-jaboncillo-history-v2.webp",
     description: {
       de: "Eine weitläufige archäologische Stätte der Manteño-Kultur auf einem Hügel in Manabí.",
       hu: "A manteño kultúra kiterjedt régészeti lelőhelye egy dombon Manabíban.",
@@ -8157,7 +8146,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Monasterio de Santa Catalina de Siena",
       ro: "Monasterio de Santa Catalina de Siena",
       en: "Monasterio de Santa Catalina de Siena"},
-    image: "/poi-images/monasterio-de-santa-catalina-de-siena-history-v2.webp",
     description: {
       de: "Ein historisches Kloster in Quito, das einen Einblick in das koloniale Ordensleben bietet.",
       hu: "Történelmi kolostor Quitóban, amely bepillantást enged a gyarmati szerzetesi életbe.",
@@ -9150,7 +9138,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Santuario de Guápulo",
       ro: "Santuario de Guápulo",
       en: "Santuario de Guápulo"},
-    image: "/poi-images/santuario-de-guapulo-history-v2.webp",
     description: {
       de: "Eine der ältesten Kirchen in Ecuador, erbaut im malerischen Viertel Guápulo am Hang von Quito.",
       hu: "Ecuador egyik legrégebbi temploma, amely Quito domboldalán, a festői Guápulo negyedben épült.",
@@ -9675,7 +9662,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Pucará de Quitoloma",
       ro: "Pucará de Quitoloma",
       en: "Pucará de Quitoloma"},
-    image: "/poi-images/pucara-de-quitoloma-history-v2.webp",
     description: {
       de: "Eine historische Inka-Militärfestung in den nördlichen Anden von Ecuador.",
       hu: "Történelmi inka katonai erődítmény az észak-ecuadori Andokban.",
@@ -9912,7 +9898,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Palacio de Carondelet",
       ro: "Palacio de Carondelet",
       en: "Palacio de Carondelet"},
-    image: "/poi-images/palacio-de-carondelet-history-v2.webp",
     description: {
       de: "Der Regierungssitz der Republik Ecuador im historischen Zentrum von Quito.",
       hu: "Az Ecuadori Köztársaság kormányának székhelye Quito történelmi központjában.",
@@ -10293,7 +10278,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Puerta de la Ciudad",
       ro: "Puerta de la Ciudad",
       en: "Puerta de la Ciudad"},
-    image: "/poi-images/puerta-de-la-ciudad-history-v2.webp",
     description: {
       de: "Ein ikonisches Stadttor in Loja, das wie eine mittelalterliche Burg im spanischen Kolonialstil erbaut wurde.",
       hu: "Egy ikonikus városkapu Lojában, amely egy középkori spanyol gyarmati stílusú kastélyhoz hasonlít.",
@@ -11142,7 +11126,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Ruinas de Todos Santos",
       ro: "Ruinas de Todos Santos",
       en: "Ruinas de Todos Santos"},
-    image: "/poi-images/ruinas-de-todos-santos-history-v2.webp",
     description: {
       de: "Archäologische Stätte in Cuenca, an der Cañari-, Inka- und spanische Kolonialstrukturen übereinander liegen.",
       hu: "Régészeti lelőhely Cuencában, ahol a cañari, inka és spanyol gyarmati építmények egymásra épültek.",
@@ -11739,7 +11722,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Convento de San Agustín",
       ro: "Convento de San Agustín",
       en: "Convento de San Agustín"},
-    image: "/poi-images/convento-de-san-agustin-history-v2.webp",
     description: {
       de: "Ein bedeutendes Kolonialkloster in Quito, in dem die Unabhängigkeitserklärung von Ecuador unterzeichnet wurde.",
       hu: "Jelentős gyarmati kolostor Quitóban, ahol aláírták Ecuador függetlenségi nyilatkozatát.",
@@ -12192,7 +12174,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Iglesia de la Merced",
       ro: "Iglesia de la Merced",
       en: "Iglesia de la Merced"},
-    image: "/poi-images/iglesia-de-la-merced-history-v2.webp",
     description: {
       de: "Eine historische katholische Kirche in Quito, bekannt für ihren hohen weißen Turm und die barocke Kunst.",
       hu: "Történelmi katolikus templom Quitóban, amely magas fehér tornyáról és barokk művészetéről ismert.",
@@ -12645,7 +12626,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Hacienda Guachalá",
       ro: "Hacienda Guachalá",
       en: "Hacienda Guachalá"},
-    image: "/poi-images/hacienda-guachala-history-v2.webp",
     description: {
       de: "Die älteste noch erhaltene Hacienda Ecuadors, die auf das Jahr 1580 zurückgeht und viele historische Persönlichkeiten beherbergte.",
       hu: "Ecuador legrégebbi fennmaradt haciendája, amely 1580-ra nyúlik vissza, és számos történelmi személyiséget látott vendégül.",
@@ -12954,7 +12934,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Iglesia de la Balbanera",
       ro: "Iglesia de la Balbanera",
       en: "Iglesia de la Balbanera"},
-    image: "/poi-images/iglesia-de-la-balbanera-history-v2.webp",
     description: {
       de: "Die älteste katholische Kirche in Ecuador, erbaut aus Vulkangestein, um das erste spanische Dorf des Landes zu markieren.",
       hu: "Ecuador legrégebbi katolikus temploma, amelyet vulkáni kőből építettek az ország első spanyol falvának megjelölésére.",
@@ -13119,7 +13098,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Fortín de la Planchada",
       ro: "Fortín de la Planchada",
       en: "Fortín de la Planchada"},
-    image: "/poi-images/fortin-de-la-planchada-history-v2.webp",
     description: {
       de: "Eine alte koloniale Festung in Guayaquil, die zur Verteidigung gegen Piratenangriffe errichtet wurde.",
       hu: "Régi gyarmati erődítmény Guayaquilban, amelyet a kalóztámadások elleni védelemre építettek.",
@@ -13284,7 +13262,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Torre del Reloj",
       ro: "Torre del Reloj",
       en: "Torre del Reloj"},
-    image: "/poi-images/torre-del-reloj-history-v2.webp",
     description: {
       de: "Der Maurische Uhrenturm ist eines der bekanntesten historischen Bauwerke entlang des Malecón in Guayaquil.",
       hu: "A Mór óratorony Guayaquil egyik legismertebb történelmi épülete a Malecón mentén.",
@@ -13413,7 +13390,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Iglesia de San Francisco",
       ro: "Iglesia de San Francisco",
       en: "Iglesia de San Francisco"},
-    image: "/poi-images/iglesia-de-san-francisco-history-v2.webp",
     description: {
       de: "Ein massiver katholischer Komplex in Quito und der größte architektonische Ensemble unter den historischen Zentren in den Amerikas.",
       hu: "Hatalmas katolikus komplexum Quitóban, és a legnagyobb építészeti együttes az amerikai kontinens történelmi központjai között.",
@@ -13902,7 +13878,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Monumento a Guayas y Quil",
       ro: "Monumento a Guayas y Quil",
       en: "Monumento a Guayas y Quil"},
-    image: "/poi-images/monumento-a-guayas-y-quil-history-v2.webp",
     description: {
       de: "Ein Denkmal in Guayaquil, das den indigenen Häuptling Guayas und seine Frau Quil ehrt, nach denen die Stadt benannt sein soll.",
       hu: "Emlékmű Guayaquilban, amely Guayas törzsfőnököt és feleségét, Quilt tiszteli meg, akikről a várost állítólag elnevezték.",
@@ -15147,7 +15122,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Catedral Vieja de Cuenca",
       ro: "Catedral Vieja de Cuenca",
       en: "Catedral Vieja de Cuenca"},
-    image: "/poi-images/catedral-vieja-de-cuenca-history-v2.webp",
     description: {
       de: "Die erste Kathedrale von Cuenca, die heute als Museum für religiöse Kunst fungiert.",
       hu: "Cuenca első katedrálisa, amely ma vallási művészeti múzeumként működik.",
@@ -15564,7 +15538,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "Iglesia de Santo Domingo",
       ro: "Iglesia de Santo Domingo",
       en: "Iglesia de Santo Domingo"},
-    image: "/poi-images/iglesia-de-santo-domingo-history-v2.webp",
     description: {
       de: "Eine Dominikanerkirche im Herzen von Quito, die für ihre reiche barocke Innenausstattung und den Platz vor ihr bekannt ist.",
       hu: "Egy domonkos templom Quito szívében, amely gazdag barokk belső teréről és az előtte lévő térről ismert.",
@@ -15729,7 +15702,6 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: "La Rotonda",
       ro: "La Rotonda",
       en: "La Rotonda"},
-    image: "/poi-images/la-rotonda-history-v2.webp",
     description: {
       de: "Ein bedeutendes Denkmal, das das Treffen zwischen Simón Bolívar und José de San Martín in Guayaquil erinnert.",
       hu: "Jelentős emlékmű, amely Simón Bolívar és José de San Martín guayaquili találkozójának állít emléket.",

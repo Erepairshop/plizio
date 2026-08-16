@@ -201,7 +201,6 @@ export const poiExtraThailandReliefV2: POI[] = [
       hu: "Doi Pha Hom Pok",
       ro: "Doi Pha Hom Pok",
       en: "Doi Pha Hom Pok"},
-    image: "/poi-images/doi-pha-hom-pok-mountain-relief-v2.webp",
     description: {
       de: "Der zweithöchste Berg Thailands, bekannt für seine geothermischen heißen Quellen und die reiche Flora, einschließlich seltener Orchideen.",
       hu: "Thaiföld második legmagasabb hegye, amely geotermikus hőforrásairól és gazdag növényvilágáról, köztük ritka orchideákról ismert.",
@@ -248,7 +247,6 @@ export const poiExtraThailandReliefV2: POI[] = [
       hu: "Phetchabun-hegység",
       ro: "Munții Phetchabun",
       en: "Phetchabun Mountains"},
-    image: "/poi-images/phetchabun-mountains-relief-v2.webp",
     description: {
       de: "Eine Gebirgskette, die die Wasserscheide zwischen dem Chao-Phraya-Becken und dem Isan-Plateau bildet und eine wichtige geografische Trennlinie darstellt.",
       hu: "Egy hegylánc, amely a Chao Phraya-medence és az Isan-fennsík közötti vízválasztót képezi, fontos földrajzi elválasztó vonal.",
@@ -1420,7 +1418,6 @@ export const poiExtraThailandReliefV2: POI[] = [
       hu: "Ko Chang partvonala",
       ro: "Coasta Ko Chang",
       en: "Ko Chang Coastline"},
-    image: "/poi-images/ko-chang-coastline-relief-v2.webp",
     description: {
       de: "Die Küste der zweitgrößten Insel Thailands, geprägt von langen Sandstränden, Mangrovenwäldern und malerischen Fischerdörfern.",
       hu: "Thaiföld második legnagyobb szigetének partvonala, amelyet hosszú homokos strandok, mangrove-erdők és festői halászfalvak jellemeznek.",
@@ -1467,7 +1464,6 @@ export const poiExtraThailandReliefV2: POI[] = [
       hu: "Tenasserim-hegység",
       ro: "Dealurile Tenasserim",
       en: "Tenasserim Hills"},
-    image: "/poi-images/tenasserim-hills-relief-v2.webp",
     description: {
       de: "Eine lange Gebirgskette, die die natürliche Grenze zwischen Thailand und Myanmar bildet. Sie ist bekannt für ihre dichten Wälder und reiche Biodiversität.",
       hu: "Egy hosszú hegylánc, amely Thaiföld és Mianmar természetes határát képezi. Sűrű erdőiről és gazdag biodiverzitásáról ismert.",
@@ -1727,7 +1723,6 @@ export const poiExtraThailandReliefV2: POI[] = [
       hu: "Doi Luang Chiang Dao",
       ro: "Doi Luang Chiang Dao",
       en: "Doi Luang Chiang Dao"},
-    image: "/poi-images/doi-luang-chiang-dao-mountain-relief-v2.webp",
     description: {
       de: "Ein markanter Kalksteinberg im Norden Thailands, der als drittgrößter des Landes gilt und Teil eines UNESCO-Biosphärenreservats ist.",
       hu: "Egy jellegzetes mészkőhegy Észak-Thaiföldön, az ország harmadik legmagasabb hegyeként tartják számon, és az UNESCO Bioszféra-rezervátum része.",
@@ -2611,7 +2606,6 @@ export const poiExtraThailandReliefV2: POI[] = [
       hu: "Nan-folyó völgye",
       ro: "Valea Râului Nan",
       en: "Nan River Valley"},
-    image: "/poi-images/nan-river-valley-relief-v2.webp",
     description: {
       de: "Ein fruchtbares Tal, das von einem der wichtigsten Nebenflüsse des Chao Phraya bewässert wird und historisch für Landwirtschaft und Handel von Bedeutung ist.",
       hu: "Egy termékeny völgy, amelyet a Chao Phraya egyik legfontosabb mellékfolyója öntöz, és történelmileg fontos a mezőgazdaság és a kereskedelem szempontjából.",
@@ -2658,7 +2652,6 @@ export const poiExtraThailandReliefV2: POI[] = [
       hu: "Chumphon-szigetcsoport partvidéke",
       ro: "Coasta Arhipelagului Chumphon",
       en: "Chumphon Archipelago Coast"},
-    image: "/poi-images/chumphon-archipelago-coast-relief-v2.webp",
     description: {
       de: "Die Küstenlinie und eine Gruppe von Inseln im Golf von Thailand, bekannt für ihre unberührten Strände und erstklassigen Tauchplätze.",
       hu: "A Thai-öböl partvonala és egy szigetcsoport, amely érintetlen strandjairól és világszínvonalú búvárhelyeiről ismert.",
@@ -3287,7 +3280,6 @@ export const poiExtraThailandReliefV2: POI[] = [
       hu: "Khun Tan-hegység",
       ro: "Lanțul Khun Tan",
       en: "Khun Tan Range"},
-    image: "/poi-images/khun-tan-range-relief-v2.webp",
     description: {
       de: "Eine Gebirgskette in Nordthailand, die für den längsten Eisenbahntunnel des Landes bekannt ist, der durch sie hindurchführt.",
       hu: "Egy hegylánc Észak-Thaiföldön, amely az ország leghosszabb, rajta áthaladó vasúti alagútjáról ismert.",
@@ -4315,7 +4307,6 @@ export const poiExtraThailandReliefV2: POI[] = [
       hu: "Pran Buri partvidéke",
       ro: "Coasta Pran Buri",
       en: "Pran Buri Coast"},
-    image: "/poi-images/pran-buri-coast-relief-v2.webp",
     description: {
       de: "Ein ruhiger Küstenabschnitt südlich von Hua Hin, bekannt für seine unberührten Strände und den Pran Buri Forest Park mit seinen Mangrovenwäldern.",
       hu: "Egy csendes tengerparti szakasz Hua Hintől délre, amely érintetlen strandjairól és a Pran Buri Erdőpark mangrove-erdőiről ismert.",
@@ -6228,7 +6219,6 @@ export const poiExtraThailandReliefV2: POI[] = [
       hu: "Phi Phi-szigetek partvidéke",
       ro: "Coasta Insulelor Phi Phi",
       en: "Phi Phi Islands Coast"},
-    image: "/poi-images/phi-phi-islands-coast-relief-v2.webp",
     description: {
       de: "Die Küsten einer weltberühmten Inselgruppe, die für ihre dramatischen Kalksteinfelsen, türkisfarbenen Wasser und lebhaften Korallenriffe bekannt ist.",
       hu: "Egy világhírű szigetcsoport partvidéke, amely drámai mészkőszikláiról, türkizkék vizéről és élénk korallzátonyairól ismert.",
@@ -6356,7 +6346,6 @@ export const poiExtraThailandReliefV2: POI[] = [
       hu: "Kaeng Krachan-víztározó partja",
       ro: "Coasta lacului de acumulare Kaeng Krachan",
       en: "Kaeng Krachan Reservoir Coast"},
-    image: "/poi-images/kaeng-krachan-reservoir-coast-relief-v2.webp",
     description: {
       de: "Die Uferlinie des größten Stausees in Thailand, der sich im Kaeng Krachan Nationalpark befindet und von üppigen Wäldern und Bergen umgeben ist.",
       hu: "Thaiföld legnagyobb víztározójának partvonala, amely a Kaeng Krachan Nemzeti Parkban található, és buja erdők és hegyek veszik körül.",
@@ -7132,7 +7121,6 @@ export const poiExtraThailandReliefV2: POI[] = [
       hu: "Wang-folyó völgye",
       ro: "Valea Râului Wang",
       en: "Wang River Valley"},
-    image: "/poi-images/wang-river-valley-relief-v2.webp",
     description: {
       de: "Ein historisches Tal in Nordthailand, durch das der Wang-Fluss fließt und an dem die alte Stadt Lampang liegt.",
       hu: "Egy történelmi völgy Észak-Thaiföldön, amelyen keresztülfolyik a Wang folyó, és ahol Lampang ősi városa fekszik.",
@@ -8088,7 +8076,6 @@ export const poiExtraThailandReliefV2: POI[] = [
       hu: "Sam Pan Bok (Thaiföld Grand Canyonja)",
       ro: "Sam Pan Bok (Marele Canion al Thailandei)",
       en: "Sam Pan Bok (Grand Canyon of Thailand)"},
-    image: "/poi-images/sam-pan-bok-canyon-relief-v2.webp",
     description: {
       de: "Ein Abschnitt des Mekong-Flusses, der in der Trockenzeit tausende von löcherartigen Felsformationen freilegt und eine mondähnliche Landschaft schafft.",
       hu: "A Mekong folyó egy szakasza, amely a száraz évszakban több ezer lyukszerű sziklaalakzatot tár fel, holdbéli tájat hozva létre.",
@@ -8828,7 +8815,6 @@ export const poiExtraThailandReliefV2: POI[] = [
       hu: "Khao Sammuk partvidék",
       ro: "Coasta Khao Sammuk",
       en: "Khao Sammuk Coast"},
-    image: "/poi-images/khao-sammuk-coast-relief-v2.webp",
     description: {
       de: "Ein niedriger Hügel und eine Küstenlinie in Chonburi, die für ihre große Affenpopulation und einen chinesischen Schrein bekannt ist, der einer tragischen Liebesgeschichte gewidmet ist.",
       hu: "Egy alacsony domb és partvonal Chonburiban, amely nagy majompopulációjáról és egy tragikus szerelmi történetnek szentelt kínai szentélyről ismert.",
@@ -8992,7 +8978,6 @@ export const poiExtraThailandReliefV2: POI[] = [
       hu: "Dawna-hegység",
       ro: "Lanțul Dawna",
       en: "Dawna Range"},
-    image: "/poi-images/dawna-range-relief-v2.webp",
     description: {
       de: "Ein Teil des Tenasserim-Gebirges, das die Grenze zwischen Thailand und dem Kayin-Staat in Myanmar bildet.",
       hu: "A Tenasserim-hegység része, amely a határt képezi Thaiföld és a mianmari Kayin állam között.",
@@ -9660,7 +9645,6 @@ export const poiExtraThailandReliefV2: POI[] = [
       hu: "Ping-folyó völgye",
       ro: "Valea Râului Ping",
       en: "Ping River Valley"},
-    image: "/poi-images/ping-river-valley-relief-v2.webp",
     description: {
       de: "Das Tal, in dem die Stadt Chiang Mai liegt und das von einem der beiden Hauptquellflüsse des Chao Phraya bewässert wird.",
       hu: "A völgy, amelyben Csiangmaj városa fekszik, és amelyet a Chao Phraya két fő forrásfolyójának egyike öntöz.",

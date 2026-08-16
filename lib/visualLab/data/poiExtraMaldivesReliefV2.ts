@@ -8,7 +8,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     parent: "MV-26",
     coords: [73.528, 4.227],
     name: { de: "Kurumba Strand", hu: "Kurumba part", ro: "Plaja Kurumba", en: "Kurumba Beach"},
-    image: "/poi-images/kurumba-beach-relief-v2.webp",
     description: {
       de: "Dieser feinsandige Küstenabschnitt nahe der Hauptstadt bietet ruhiges, flaches Wasser und einen direkten Zugang zum Hausriff.",
       hu: "A fővároshoz közeli finomhomokos partszakasz sekély vizet és közvetlen hozzáférést kínál a közeli korallzátonyhoz.",
@@ -133,7 +132,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     parent: "MV-00",
     coords: [73.011, 4.298],
     name: { de: "Veligandu Strand", hu: "Veligandu part", ro: "Plaja Veligandu", en: "Veligandu Beach"},
-    image: "/poi-images/veligandu-beach-relief-v2.webp",
     description: {
       de: "Ein langer Sandstrand, der sich in eine spektakuläre Sandbank fortsetzt und oft von Meeresströmungen geformt wird.",
       hu: "Hosszú homokos part, amely egy látványos homokpadban folytatódik, és a tengeráramlatok folyamatosan formálják.",
@@ -402,7 +400,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     parent: "MV-02",
     coords: [72.928, 3.533],
     name: { de: "Dhigurah Strand", hu: "Dhigurah part", ro: "Plaja Dhigurah", en: "Dhigurah Beach"},
-    image: "/poi-images/dhigurah-beach-relief-v2.webp",
     description: {
       de: "Eine ausgedehnte, fast drei Kilometer lange Küstenlinie, die an einem schmalen Inselende in eine langgezogene Sandbank übergeht.",
       hu: "Kiterjedt, majdnem három kilométer hosszú partszakasz, amely a sziget keskeny végén egy elnyúló homokpadba megy át.",
@@ -527,7 +524,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     parent: "MV-20",
     coords: [72.936, 4.883],
     name: { de: "Fulhadhoo Strand", hu: "Fulhadhoo part", ro: "Plaja Fulhadhoo", en: "Fulhadhoo Beach"},
-    image: "/poi-images/fulhadhoo-beach-relief-v2.webp",
     description: {
       de: "Eine abgelegene und unberührte Küste mit puderzuckerweißem Sand und einer riesigen türkisblauen Lagune ohne starke Strömungen.",
       hu: "Félreeső és érintetlen partszakasz porcukor finomságú fehér homokkal és egy hatalmas türkizkék lagúnával, erős áramlatok nélkül.",
@@ -571,7 +567,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     parent: "MV-20",
     coords: [73.047, 5.150],
     name: { de: "Reethi Strand", hu: "Reethi part", ro: "Plaja Reethi", en: "Reethi Beach"},
-    image: "/poi-images/reethi-beach-relief-v2.webp",
     description: {
       de: "Diese malerische Küste im Baa-Atoll ist von dichten Palmen gesäumt und grenzt direkt an ein farbenfrohes, lebendiges Korallenriff.",
       hu: "Ez a festői part a Baa-atollban sűrű pálmafákkal van szegélyezve, és közvetlenül egy színes, élettel teli korallzátonyhoz csatlakozik.",
@@ -615,7 +610,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     parent: "MV-26",
     coords: [73.536, 4.218],
     name: { de: "Hulhumalé Strand", hu: "Hulhumalé part", ro: "Plaja Hulhumalé", en: "Hulhumalé Beach"},
-    image: "/poi-images/hulhumale-beach-relief-v2.webp",
     description: {
       de: "Ein weitläufiger, künstlich angelegter Strand auf einer aufgeschütteten Insel, der durch Wellenbrecher vor Erosion geschützt wird.",
       hu: "Egy kiterjedt, mesterségesen kialakított part egy feltöltött szigeten, amelyet hullámtörők védenek az eróziótól.",
@@ -937,7 +931,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     parent: "MV-02",
     coords: [72.868, 3.633],
     name: { de: "Lily Strand", hu: "Lily part", ro: "Plaja Lily", en: "Lily Beach"},
-    image: "/poi-images/lily-beach-relief-v2.webp",
     description: {
       de: "Eine von üppiger Vegetation umgebene Küste, deren feiner Sand sanft in das kristallklare, warme Wasser des Indischen Ozeans übergeht.",
       hu: "Buja növényzettel körülvett part, amelynek finom homokja lágyan olvad bele az Indiai-óceán kristálytiszta, meleg vizébe.",
@@ -1295,7 +1288,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     parent: "MV-20",
     coords: [73.078, 5.111],
     name: { de: "Soneva Fushi Strand", hu: "Soneva Fushi part", ro: "Plaja Soneva Fushi", en: "Soneva Fushi Beach"},
-    image: "/poi-images/soneva-fushi-beach-relief-v2.webp",
     description: {
       de: "Eine weitgehend naturbelassene Küste im Baa-Atoll, an der Mangroven und dichter Dschungel bis fast an die Wasserlinie heranreichen.",
       hu: "Nagyrészt érintetlen part a Baa-atollban, ahol a mangrove fák és a sűrű dzsungel majdnem a vízvonalig ér.",
@@ -1456,7 +1448,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     parent: "MV-00",
     coords: [72.766, 4.276],
     name: { de: "Nika Island Strand", hu: "Nika Island part", ro: "Plaja Nika Island", en: "Nika Island Beach"},
-    image: "/poi-images/nika-island-beach-relief-v2.webp",
     description: {
       de: "Eine von künstlichen Wellenbrechern geprägte Küste, die kleine, private und strömungsberuhigte Buchten entlang der Insel schafft.",
       hu: "Mesterséges hullámtörők által formált part, amely apró, privát és áramlatoktól mentes öblöket hoz létre a sziget mentén.",
@@ -1500,7 +1491,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     parent: "MV-26",
     coords: [73.717, 4.453],
     name: { de: "Meeru Island Strand", hu: "Meeru Island part", ro: "Plaja Meeru Island", en: "Meeru Island Beach"},
-    image: "/poi-images/meeru-island-beach-relief-v2.webp",
     description: {
       de: "Mit über eineinhalb Kilometern Länge ist dieser östliche Küstenstreifen einer der längsten ununterbrochenen Strände im Nord-Malé-Atoll.",
       hu: "Több mint másfél kilométeres hosszával ez a keleti partszakasz az egyik leghosszabb egybefüggő strand az Észak-Malé-atollban.",
@@ -1661,7 +1651,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     parent: "MV-00",
     coords: [72.959, 4.436],
     name: { de: "Thoddoo Strand", hu: "Thoddoo part", ro: "Plaja Thoddoo", en: "Thoddoo Beach"},
-    image: "/poi-images/thoddoo-beach-relief-v2.webp",
     description: {
       de: "Dieser Küstenstreifen auf einer großen landwirtschaftlichen Insel ist für seinen unberührten Korallensand und die Nähe zu tiefen Meeresströmungen bekannt.",
       hu: "Ez a partszakasz egy nagy mezőgazdasági szigeten fekszik, és érintetlen korallhomokjáról, valamint a mély tengeráramlatok közelségéről ismert.",
@@ -2038,7 +2027,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     parent: "MV-00",
     coords: [72.864, 4.215],
     name: { de: "Ukulhas Strand", hu: "Ukulhas part", ro: "Plaja Ukulhas", en: "Ukulhas Beach"},
-    image: "/poi-images/ukulhas-beach-relief-v2.webp",
     description: {
       de: "Eine vorbildlich saubere Küstenlinie, die für ihre umweltfreundliche Bewirtschaftung und das angrenzende lebendige Saumriff berühmt ist.",
       hu: "Példásan tiszta partszakasz, amely környezetbarát gazdálkodásáról és a határos, élettel teli szegélyzátonyáról híres.",
@@ -3673,7 +3661,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     parent: "MV-26",
     coords: [73.359, 3.876],
     name: { de: "Fihalhohi Strand", hu: "Fihalhohi part", ro: "Plaja Fihalhohi", en: "Fihalhohi Beach"},
-    image: "/poi-images/fihalhohi-beach-relief-v2.webp",
     description: {
       de: "Ein von hohen Kokospalmen beschatteter Küstenstreifen, dessen Sandstrände beinahe die gesamte kleine Insel im Süd-Malé-Atoll säumen.",
       hu: "Magas kókuszpálmák által árnyékolt partszakasz, amelynek homokos strandjai szinte az egész kis szigetet szegélyezik a Dél-Malé-atollban.",
@@ -3717,7 +3704,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     parent: "MV-02",
     coords: [72.802, 3.483],
     name: { de: "Sun Island Strand", hu: "Sun Island part", ro: "Plaja Sun Island", en: "Sun Island Beach"},
-    image: "/poi-images/sun-island-beach-relief-v2.webp",
     description: {
       de: "Eine breite und sonnige Küste, die sanft in eine ausgedehnte blaue Lagune gleitet und idealen Schutz vor hohen Wellen bietet.",
       hu: "Széles és napos part, amely lágyan siklik át egy kiterjedt kék lagúnába, és ideális védelmet nyújt a magas hullámok ellen.",

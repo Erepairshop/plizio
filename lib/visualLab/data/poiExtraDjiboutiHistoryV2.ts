@@ -31,7 +31,6 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       pt: ["O sítio foi explorado de forma abrangente por arqueólogos em 2008.", "Toda a área das pinturas rupestres estende-se por uma extensão de 3 km.", "Foram contadas mais de 900 gravuras diferentes no sítio.", "Os petróglifos mais antigos datam do Neolítico, cerca de 3.000 a.C.", "São representados animais que hoje estão extintos na região, como girafas.", "O local situa-se isolado no maciço de Makarrassou, no norte do país."],
       fr: ["Le site a été exploré en détail par des archéologues en 2008.", "L'ensemble de la zone des peintures rupestres s'étend sur 3 km.", "Plus de 900 gravures différentes ont été dénombrées sur le site.", "Les plus anciens pétroglyphes datent du néolithique, vers 3 000 av. J.-C.", "Des animaux aujourd'hui disparus de la région, comme les girafes, sont représentés.", "Le site est situé à l'écart, dans le massif de Makarrassou, au nord du pays."],
     }, },
-    image: "/poi-images/abourma-petroglyphs-history-v2.webp",
     description: {
       de: "Ein außergewöhnliches prähistorisches Felskunst-Areal, das Tausende von Gravuren aus der Jungsteinzeit zeigt, die Tiere und das menschliche Leben darstellen.",
       hu: "Rendkívüli prehisztorikus sziklaművészeti helyszín, ahol több ezer újkőkorszaki véset látható, amelyek állatokat és emberi életet ábrázolnak.",
@@ -124,7 +123,6 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       pt: ["O farol atual foi construído em 1952.", "A estrutura atinge uma altura total de 50 metros.", "O primeiro farol neste local datava de 1889.", "O sinal luminoso é visível até 20 milhas náuticas no mar.", "Marca o acesso norte ao estreito de Bab el-Mandeb.", "A torre situa-se perto da cidade histórica de Obock."],
       fr: ["Le phare actuel a été édifié en 1952.", "L'ouvrage atteint une hauteur totale de 50 mètres.", "Le premier phare sur ce site datait de 1889.", "Le signal lumineux est visible jusqu'à 20 milles nautiques en mer.", "Il marque l'accès nord du détroit de Bab el-Mandeb.", "La tour se trouve à proximité de la ville historique d'Obock."],
     }, },
-    image: "/poi-images/ras-bir-lighthouse-history-v2.webp",
     description: {
       de: "Der ursprüngliche Leuchtturm wurde Ende des 19. Jahrhunderts von den Franzosen erbaut, um die Schifffahrt am gefährlichen Eingang zum Roten Meer zu leiten.",
       hu: "Az eredeti világítótornyot a 19. század végén építették a franciák, hogy irányítsák a hajózást a Vörös-tenger veszélyes bejáratánál.",
@@ -374,7 +372,6 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       pt: ["O sítio é datado entre o 4º e o 3º milénio a.C.", "As ferramentas de obsidiana constituem mais de 80% dos achados líticos.", "As primeiras escavações sistemáticas ocorreram na década de 1970.", "Os habitantes já criavam gado bovino e caprino domesticado.", "Handoga situa-se numa zona árida que antigamente era mais húmida.", "Foram descobertos restos de estruturas de pedra circulares."],
       fr: ["Le site est daté entre le 4e et le 3e millénaire av. J.-C.", "Les outils en obsidienne représentent plus de 80 % des découvertes lithiques.", "Les premières fouilles systématiques ont eu lieu dans les années 1970.", "Les habitants élevaient déjà du bétail bovin et caprin domestiqué.", "Handoga se trouve dans une zone aride autrefois plus humide.", "Des vestiges de structures circulaires en pierre ont été découverts."],
     }, },
-    image: "/poi-images/handoga-site-history-v2.webp",
     description: {
       de: "Ein wichtiges Ausgrabungsgebiet nahe Dikhil, das Funde aus einer jahrtausendealten Besiedlung durch frühe nomadische Kulturen bietet.",
       hu: "Fontos feltárási terület Dikhil közelében, amely korai nomád kultúrák évezredes leleteit rejti.",
@@ -601,7 +598,6 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       pt: ["O sítio foi escavado extensivamente na década de 1980.", "Asa Koma significa 'Colina Vermelha' na língua local.", "Foram encontrados mais de 10.000 fragmentos de cerâmica na superfície.", "A fauna piscícola indica uma ligação ao Lago Abbé.", "A obsidiana foi utilizada para a fabricação de raspadores e pontas de seta.", "Os achados comprovam o consumo de ovelhas e cabras domesticadas."],
       fr: ["Le site a fait l'objet de fouilles approfondies dans les années 1980.", "Asa Koma signifie 'Colline Rouge' dans la langue locale.", "Plus de 10 000 fragments de céramique ont été trouvés à la surface.", "La faune piscicole suggère une connexion avec le lac Abbé.", "L'obsidienne était utilisée pour fabriquer des grattoirs et des pointes de flèches.", "Les découvertes attestent de la consommation de moutons et de chèvres domestiqués."],
     }, },
-    image: "/poi-images/asa-koma-history-v2.webp",
     description: {
       de: "Eine neolithische Fundstätte in der Nähe des Abbe-Sees, die Einblicke in das Leben der frühen Fischer und Hirten vor 4.000 Jahren gibt.",
       hu: "Neolitikus lelőhely az Abbe-tó közelében, amely bepillantást enged a 4000 évvel ezelőtti halászok és pásztorok életébe.",
@@ -896,7 +892,6 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       pt: ["Algumas estelas têm mais de dois metros de altura.", "Os locais de achado situam-se frequentemente perto de fontes de água.", "Os megalitos são datados aproximadamente do 1º milénio a.C.", "As gravuras mostram frequentemente símbolos abstratos ou armas.", "O maciço de Goda também é conhecido pela Floresta de Day.", "Existem semelhanças com megalitos na vizinha Etiópia."],
       fr: ["Certaines stèles mesurent plus de deux mètres de haut.", "Les sites se trouvent souvent à proximité de sources d'eau.", "Les mégalithes sont approximativement datés du 1er millénaire av. J.-C.", "Les gravures représentent souvent des symboles abstraits ou des armes.", "Le massif du Goda est également célèbre pour la forêt du Day.", "Des similitudes existent avec les mégalithes de l'Éthiopie voisine."],
     }, },
-    image: "/poi-images/goda-megaliths-history-v2.webp",
     description: {
       de: "In den Goda-Bergen finden sich zahlreiche rätselhafte Megalithgräber und Steinsetzungen, die von vorislamischen Bestattungsriten zeugen.",
       hu: "A Goda-hegységben számos rejtélyes megalitikus sír és kőépítmény található, amelyek az iszlám előtti temetkezési rítusokról tanúskodnak.",
@@ -1371,7 +1366,6 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       pt: ["A construção do caminho-de-ferro começou em 1897.", "O viaduto foi concluído por volta de 1900.", "Ali Sabieh situa-se a uma altitude de cerca de 750 metros.", "O caminho-de-ferro era explorado pela Compagnie Impériale des Chemins de Fer Éthiopiens.", "As peças de aço eram frequentemente enviadas da Europa.", "A ponte é um motivo popular para fotógrafos."],
       fr: ["La construction du chemin de fer a commencé en 1897.", "Le viaduc a été achevé vers 1900.", "Ali Sabieh est situé à une altitude d'environ 750 mètres.", "Le chemin de fer était exploité par la Compagnie Impériale des Chemins de Fer Éthiopiens.", "Les éléments en acier étaient souvent expédiés d'Europe.", "Le pont est un motif très apprécié des photographes."],
     }, },
-    image: "/poi-images/ali-sabieh-viaduct-history-v2.webp",
     description: {
       de: "Ein beeindruckendes Zeugnis der Ingenieurskunst aus der Kolonialzeit, das Teil der ursprünglichen Eisenbahnstrecke Dschibuti-Addis Abeba ist.",
       hu: "A gyarmati korszak mérnöki művészetének lenyűgöző bizonyítéka, amely az eredeti Dzsibuti-Addisz-Abeba vasútvonal része.",
@@ -1500,7 +1494,6 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       pt: ["As gravuras mais antigas podem ter mais de 5.000 anos.", "O ocre era o pigmento mais frequentemente utilizado nas pinturas.", "Balho situa-se perto do distrito de Tadjourah.", "As representações de gado mostram frequentemente chifres decorados.", "O sítio foi descrito pela primeira vez em meados do século XX.", "A arte rupestre faz parte de uma rede maior de sítios arqueológicos na região."],
       fr: ["Les gravures les plus anciennes pourraient dater de plus de 5 000 ans.", "L'ocre était le pigment le plus couramment utilisé pour les peintures.", "Balho est situé à proximité du district de Tadjourah.", "Les représentations de bétail montrent souvent des cornes décorées.", "Le site a été décrit pour la première fois au milieu du XXe siècle.", "L'art rupestre fait partie d'un réseau plus large de sites dans la région."],
     }, },
-    image: "/poi-images/balho-rock-art-history-v2.webp",
     description: {
       de: "Die Umgebung von Balho ist reich an prähistorischen Felsmalereien, die einen Einblick in die Tierwelt und die Kulturen der frühen Bewohner der Region geben.",
       hu: "Balho környéke gazdag prehisztorikus sziklarajzokban, amelyek bepillantást nyújtanak a régió korai lakóinak állatvilágába és kultúrájába.",
@@ -2541,7 +2534,6 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       pt: ["As descobertas datam do primeiro milénio antes de Cristo.", "O sítio localiza-se a cerca de 15 quilómetros a oeste da capital, Djibuti.", "Foram escavadas grandes quantidades de fragmentos de cerâmica pré-histórica.", "A cerâmica apresenta padrões específicos de picagem e incisão.", "Montes de conchas comprovam a utilização de recursos marinhos pelos habitantes.", "Ambado situa-se numa baía estrategicamente importante no Golfo de Tadjoura."],
       fr: ["Les découvertes sont datées du premier millénaire avant J.-C.", "Le site se trouve à environ 15 kilomètres à l'ouest de la capitale Djibouti.", "De grandes quantités de tessons de poterie préhistorique ont été exhumées.", "La céramique présente des motifs spécifiques piqués et incisés.", "Des amas coquilliers prouvent l'utilisation des ressources marines par les habitants.", "Ambado est situé dans une baie stratégiquement importante sur le golfe de Tadjourah."],
     }, },
-    image: "/poi-images/ambado-pottery-site-history-v2.webp",
     description: {
       de: "In der Nähe der Küste von Ambado wurden bedeutende Funde antiker Keramik gemacht, die auf maritime Handelsverbindungen in vergangenen Jahrhunderten hinweisen.",
       hu: "Ambado partjainak közelében jelentős ókori kerámialeleteket találtak, amelyek a múlt századok tengeri kereskedelmi kapcsolataira utalnak.",
@@ -2589,7 +2581,6 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       pt: ["As ruínas consistem principalmente em calcário de coral local.", "Khor Angar está estrategicamente localizada perto do estreito de Bab-el-Mandeb.", "A área de manguezal circundante é uma das maiores no Djibouti.", "O povoamento foi um importante posto comercial no século XIX.", "A região é um importante local de descanso para aves migratórias a caminho de África.", "Khor Angar situa-se a cerca de 100 quilómetros a norte da cidade de Obock."],
       fr: ["Les ruines sont principalement constituées de calcaire corallien local.", "Khor Angar occupe une position stratégique près du détroit de Bab-el-Mandeb.", "La mangrove environnante est l'une des plus grandes de Djibouti.", "Le site était un avant-poste commercial majeur au XIXe siècle.", "La région est une étape importante pour les oiseaux migrateurs vers l'Afrique.", "Khor Angar se trouve à environ 100 kilomètres au nord de la ville d'Obock."],
     }, },
-    image: "/poi-images/khor-angar-ruins-history-v2.webp",
     description: {
       de: "Überreste alter Befestigungen und Siedlungen an der Küste von Obock, die einst der Überwachung der strategischen Bab al-Mandeb-Straße dienten.",
       hu: "Régi erődítmények és települések maradványai Obock partjainál, amelyek egykor a stratégiai Bab al-Mandeb szoros felügyeletére szolgáltak.",
@@ -2637,7 +2628,6 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
       pt: ["As ermidas situam-se a uma altitude de cerca de 1.500 metros.", "Encontram-se no Parque Nacional de Day, a área protegida mais antiga do país.", "A floresta é composta por raros zimbros africanos (Juniperus procera).", "Estudiosos sufis têm utilizado o isolamento para meditação durante séculos.", "A região abriga o endémico e ameaçado fracolim-do-Djibouti.", "A área foi oficialmente declarada parque nacional na década de 1930."],
       fr: ["Les ermitages sont situés à une altitude d'environ 1 500 mètres.", "Ils se trouvent dans le parc national de Day, la plus ancienne aire protégée du pays.", "La forêt est composée de rares genévriers d'Afrique (Juniperus procera).", "Des savants soufis utilisent cet isolement pour la méditation depuis des siècles.", "La région abrite le francolin de Djibouti, une espèce endémique menacée.", "La zone a été officiellement classée parc national dans les années 1930."],
     }, },
-    image: "/poi-images/day-hermitage-history-v2.webp",
     description: {
       de: "Versteckt im Day-Wald befinden sich alte Rückzugsorte und Einsiedeleien, die von der langen religiösen und spirituellen Geschichte der Region zeugen.",
       hu: "A Day-erdőben elrejtve régi visszavonulási helyek és remetelakok találhatóak, amelyek a régió hosszú vallási és spirituális történetéről tanúskodnak.",

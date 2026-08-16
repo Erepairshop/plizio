@@ -8,7 +8,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-11",
     coords: [-77.8286, 18.1569],
     name: { de: "Jamaica Zoo", hu: "Jamaica Állatkert", ro: "Grădina Zoologică Jamaica", en: "Jamaica Zoo"},
-    image: "/poi-images/jamaica-zoo-life-v2.webp",
     description: { de: "Ein familienfreundlicher Zoo, der verschiedene exotische Tiere aus Jamaika und der ganzen Welt zeigt.", hu: "Családbarát állatkert, amely különböző egzotikus állatokat mutat be Jamaicából és a világ minden tájáról.", ro: "O grădină zoologică prietenoasă cu familiile, care prezintă diverse animale exotice din Jamaica și din întreaga lume.", en: "A family-friendly zoo showcasing various exotic animals from Jamaica and around the world." , es: "Un zoológico ideal para familias que muestra diversos animales exóticos de Jamaica y de todo el mundo.", pt: "Um jardim zoológico ideal para famílias, que apresenta vários animais exóticos da Jamaica e de todo o mundo.", fr: "Un zoo familial présentant divers animaux exotiques de Jamaïque et du monde entier."},
     facts: {
       de: ["Befindet sich in St. Elizabeth.", "Beherbergt Löwen, Zebras und Leguane."],
@@ -44,7 +43,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-02",
     coords: [-76.7570, 18.0264],
     name: { de: "Hope Zoo", hu: "Hope Állatkert", ro: "Grădina Zoologică Hope", en: "Hope Zoo"},
-    image: "/poi-images/hope-zoo-life-v2.webp",
     description: { de: "Der größte Zoo in Kingston, eingebettet in die Hope Botanical Gardens, der eine Vielzahl von Wildtieren beherbergt.", hu: "Kingston legnagyobb állatkertje, amely a Hope Botanikus Kertben található, és számos vadvilágnak ad otthont.", ro: "Cea mai mare grădină zoologică din Kingston, situată în Grădinile Botanice Hope, adăpostind o varietate de animale sălbatice.", en: "The largest zoo in Kingston, nestled within the Hope Botanical Gardens, housing a variety of wildlife." , es: "El zoológico más grande de Kingston, ubicado en los Hope Botanical Gardens, que alberga una gran variedad de vida silvestre.", pt: "O maior jardim zoológico de Kingston, inserido nos Hope Botanical Gardens, que abriga uma grande variedade de animais selvagens.", fr: "Le plus grand zoo de Kingston, niché au sein des jardins botaniques Hope, abritant une grande variété d'animaux sauvages."},
     facts: {
       de: ["Teil des Hope Royal Botanical Gardens.", "Bietet Schutzprogramme für gefährdete Arten."],
@@ -80,7 +78,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-10",
     coords: [-78.3361, 18.3150],
     name: { de: "Kool Runnings Wasserpark", hu: "Kool Runnings Vízipark", ro: "Parcul Acvatic Kool Runnings", en: "Kool Runnings Water Park"},
-    image: "/poi-images/kool-runnings-life-v2.webp",
     description: { de: "Jamaikas größter Wasserpark in Negril mit aufregenden Rutschen und einem künstlichen Fluss für Kinder.", hu: "Jamaica legnagyobb víziparkja Negrilben, izgalmas csúszdákkal és egy mesterséges folyóval a gyerekek számára.", ro: "Cel mai mare parc acvatic din Jamaica, situat în Negril, cu tobogane palpitante și un râu leneș pentru copii.", en: "Jamaica's largest water park located in Negril, featuring thrilling slides and a lazy river for kids." , es: "El parque acuático más grande de Jamaica en Negril, con emocionantes toboganes y un río artificial para niños.", pt: "O maior parque aquático da Jamaica em Negril, com escorregas emocionantes e um rio artificial para crianças.", fr: "Le plus grand parc aquatique de Jamaïque à Negril, avec des toboggans passionnants et une rivière artificielle pour les enfants."},
     facts: {
       de: ["Gegenüber vom Seven Mile Beach.", "Verfügt über 10 verschiedene Wasserrutschen."],
@@ -116,7 +113,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-06",
     coords: [-77.2625, 18.4231],
     name: { de: "Cranbrook Blumenwald", hu: "Cranbrook Virágerdő", ro: "Pădurea de Flori Cranbrook", en: "Cranbrook Flower Forest"},
-    image: "/poi-images/cranbrook-flower-forest-life-v2.webp",
     description: { de: "Ein wunderschöner Naturpark in St. Ann mit tropischen Gärten, einem Fluss und Ziplining für Familien.", hu: "Gyönyörű natúrpark St. Ann-ben trópusi kertekkel, folyóval és drótkötélpályával a családok számára.", ro: "Un parc natural frumos în St. Ann, cu grădini tropicale, un râu și tiroliană pentru familii.", en: "A beautiful nature park in St. Ann featuring tropical gardens, a river, and ziplining for families." , es: "Un hermoso parque natural en St. Ann con jardines tropicales, un río y tirolina para familias.", pt: "Um belo parque natural em St. Ann com jardins tropicais, um rio e tirolesa para famílias.", fr: "Un magnifique parc naturel à St. Ann avec des jardins tropicaux, une rivière et de la tyrolienne pour les familles."},
     facts: {
       de: ["Bietet Reiten und Pfau-Beobachtung.", "Eine Oase der Ruhe an der Nordküste."],
@@ -152,7 +148,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-08",
     coords: [-77.8681, 18.3183],
     name: { de: "Croydon Plantage", hu: "Croydon Ültetvény", ro: "Plantația Croydon", en: "Croydon Plantation"},
-    image: "/poi-images/croydon-plantation-life-v2.webp",
     description: { de: "Eine funktionierende Kaffee- und Ananasplantage in den Ausläufern der Catadupa Mountains.", hu: "Működő kávé- és ananászültetvény a Catadupa-hegység lábánál.", ro: "O plantație funcțională de cafea și ananas la poalele Munților Catadupa.", en: "A working coffee and pineapple plantation in the foothills of the Catadupa Mountains." , es: "Una plantación de café y piña en funcionamiento en las estribaciones de las Catadupa Mountains.", pt: "Uma plantação de café e ananás em funcionamento no sopé das Catadupa Mountains.", fr: "Une plantation de café et d'ananas en activité sur les contreforts des Catadupa Mountains."},
     facts: {
       de: ["Geburtsort von Samuel Sharpe.", "Produziert auch Honig und Zitrusfrüchte."],
@@ -224,7 +219,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-05",
     coords: [-76.9248, 18.3267],
     name: { de: "Brimmer Hall Landgut", hu: "Brimmer Hall Birtok", ro: "Moșia Brimmer Hall", en: "Brimmer Hall Estate"},
-    image: "/poi-images/brimmer-hall-estate-life-v2.webp",
     description: { de: "Ein historisches Anwesen in St. Mary, das noch immer Zuckerrohr, Bananen und Kakao anbaut.", hu: "Történelmi birtok St. Mary-ben, ahol még mindig cukornádat, banánt és kakaót termesztenek.", ro: "O proprietate istorică în St. Mary, care cultivă încă trestie de zahăr, banane și cacao.", en: "A historic estate in St. Mary that still cultivates sugar cane, bananas, and cocoa." , es: "Una finca histórica en St. Mary que todavía cultiva caña de azúcar, bananas y cacao.", pt: "Uma herdade histórica em St. Mary, que ainda cultiva cana-de-açúcar, bananas e cacau.", fr: "Un domaine historique à St. Mary qui cultive encore la canne à sucre, la banane et le cacao."},
     facts: {
       de: ["Eines der ältesten noch produzierenden Güter.", "Bietet traditionelle Traktor-Touren."],
@@ -260,7 +254,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-02",
     coords: [-76.7119, 18.0672],
     name: { de: "High Mountain Kaffeeplantage", hu: "High Mountain Kávéültetvény", ro: "Plantația de Cafea High Mountain", en: "High Mountain Coffee Plantation"},
-    image: "/poi-images/high-mountain-coffee-life-v2.webp",
     description: { de: "Eine hochgelegene Farm, die den weltberühmten jamaikanischen Kaffee produziert.", hu: "Magasan fekvő gazdaság, amely a világhírű jamaicai kávét termeli.", ro: "O fermă la altitudine înaltă care produce renumita cafea jamaicană.", en: "A high-altitude farm that produces the world-famous Jamaican coffee." , es: "Una granja de gran altitud que produce el café jamaicano de fama mundial.", pt: "Uma exploração em altitude elevada que produz o café jamaicano mundialmente famoso.", fr: "Une ferme d'altitude produisant le café jamaïcain de renommée mondiale."},
     facts: {
       de: ["Nutzt traditionelle Erntemethoden.", "Bietet einen Einblick in den Röstprozess."],
@@ -296,7 +289,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-05",
     coords: [-76.8914, 18.3522],
     name: { de: "St. Mary Bananenplantagen", hu: "St. Mary Banánültetvények", ro: "Plantațiile de Banane St. Mary", en: "St. Mary Banana Estates"},
-    image: "/poi-images/st-mary-banana-life-v2.webp",
     description: { de: "Große landwirtschaftliche Flächen in St. Mary, die der Bananenproduktion für den Export gewidmet sind.", hu: "Nagy mezőgazdasági területek St. Mary-ben, amelyeket exportra szánt banántermesztésre szenteltek.", ro: "Mari suprafețe agricole în St. Mary, dedicate producției de banane pentru export.", en: "Large agricultural areas in St. Mary dedicated to banana production for export." , es: "Grandes superficies agrícolas en St. Mary dedicadas a la producción de bananas para la exportación.", pt: "Grandes áreas agrícolas em St. Mary dedicadas à produção de banana para exportação.", fr: "De vastes zones agricoles dans le St. Mary, dédiées à la production de bananes pour l'exportation."},
     facts: {
       de: ["Bananen sind ein wichtiges Exportgut.", "Bietet Arbeitsplätze für lokale Bauern."],
@@ -332,7 +324,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-03",
     coords: [-76.2447, 17.9152],
     name: { de: "Duckenfield Zuckerrohrfelder", hu: "Duckenfield Cukornádföldek", ro: "Câmpurile de Trestie de Zahăr Duckenfield", en: "Duckenfield Sugar Cane Fields"},
-    image: "/poi-images/duckenfield-sugar-life-v2.webp",
     description: { de: "Ausgedehnte Zuckerrohrplantagen in St. Thomas, die das Rohmaterial für die lokale Zucker- und Rumindustrie liefern.", hu: "Kiterjedt cukornádültetvények St. Thomas-ban, amelyek a helyi cukor- és rumipar nyersanyagát biztosítják.", ro: "Plantații extinse de trestie de zahăr în St. Thomas, care furnizează materia primă pentru industria locală de zahăr și rom.", en: "Extensive sugar cane plantations in St. Thomas providing raw material for the local sugar and rum industry." , es: "Extensas plantaciones de caña de azúcar en St. Thomas que suministran materia prima para la industria local de azúcar y ron.", pt: "Extensas plantações de cana-de-açúcar em St. Thomas, que fornecem a matéria-prima para a indústria local de açúcar e rum.", fr: "Vastes plantations de canne à sucre à St. Thomas, fournissant la matière première pour l'industrie locale du sucre et du rhum."},
     facts: {
       de: ["Zuckerrohr wird maschinell und von Hand geerntet.", "Wichtiger Teil der jamaikanischen Agrargeschichte."],
@@ -368,7 +359,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-05",
     coords: [-76.8521, 18.2839],
     name: { de: "Orange River Forschungsstation", hu: "Orange River Mezőgazdasági Állomás", ro: "Stațiunea Agricolă Orange River", en: "Orange River Agricultural Station"},
-    image: "/poi-images/orange-river-agriculture-life-v2.webp",
     description: { de: "Ein Regierungszentrum für die Erforschung neuer landwirtschaftlicher Techniken und Pflanzensorten.", hu: "Kormányzati központ az új mezőgazdasági technikák és növényfajták kutatására.", ro: "Un centru guvernamental pentru cercetarea noilor tehnici agricole și soiuri de plante.", en: "A government center for researching new agricultural techniques and plant varieties." , es: "Un centro gubernamental para la investigación de nuevas técnicas agrícolas y variedades de plantas.", pt: "Um centro governamental para a investigação de novas técnicas agrícolas e variedades de plantas.", fr: "Un centre gouvernemental pour la recherche de nouvelles techniques agricoles et de variétés de plantes."},
     facts: {
       de: ["Fokus auf Kakaoforschung.", "Unterstützt lokale Bauern mit Setzlingen."],
@@ -404,7 +394,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-13",
     coords: [-77.1084, 17.9405],
     name: { de: "Bodles Agrarforschungsstation", hu: "Bodles Agrárkutató Állomás", ro: "Stațiunea de Cercetare Agricolă Bodles", en: "Bodles Agricultural Research Station"},
-    image: "/poi-images/bodles-research-life-v2.webp",
     description: { de: "Jamaikas wichtigste Forschungseinrichtung für Tierhaltung und Pflanzenzucht in Clarendon.", hu: "Jamaica legfontosabb állattenyésztési és növénynemesítési kutatóintézete Clarendonban.", ro: "Principala unitate de cercetare din Jamaica pentru creșterea animalelor și a plantelor în Clarendon.", en: "Jamaica's main research facility for animal husbandry and plant breeding in Clarendon." , es: "La principal institución de investigación de Jamaica para la ganadería y el fitomejoramiento en Clarendon.", pt: "A principal instituição de investigação da Jamaica para a pecuária e a seleção de plantas em Clarendon.", fr: "La principale institution de recherche de la Jamaïque pour l'élevage et la sélection végétale à Clarendon."},
     facts: {
       de: ["Zentrum der Jamaica-Hope-Rinderzucht.", "Entwickelt krankheitsresistente Pflanzen."],
@@ -440,7 +429,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-13",
     coords: [-77.2751, 17.9822],
     name: { de: "Clarendon Zitrusplantagen", hu: "Clarendon Citrusültetvények", ro: "Livezile de Citrice Clarendon", en: "Clarendon Citrus Orchards"},
-    image: "/poi-images/clarendon-citrus-life-v2.webp",
     description: { de: "Großflächige Obstgärten, in denen Orangen, Grapefruits und Limetten angebaut werden.", hu: "Nagy kiterjedésű gyümölcsösök, ahol narancsot, grapefruitot és lime-ot termesztenek.", ro: "Livezi la scară largă în care se cultivă portocale, grepfrut și lămâi verzi.", en: "Large-scale orchards where oranges, grapefruits, and limes are grown." , es: "Huertos a gran escala donde se cultivan naranjas, pomelos y limas.", pt: "Pomares de grande escala onde são cultivadas laranjas, toranjas e limas.", fr: "De vastes vergers où sont cultivés des oranges, des pamplemousses et des citrons verts."},
     facts: {
       de: ["Liefert Früchte für die lokale Saftproduktion.", "Erntezeit ist hauptsächlich im Winter."],
@@ -476,7 +464,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-11",
     coords: [-77.7423, 17.9048],
     name: { de: "Flagaman Melonenfarmen", hu: "Flagaman Dinnyeföldek", ro: "Fermele de Pepeni Flagaman", en: "Flagaman Melon Farms"},
-    image: "/poi-images/flagaman-melon-life-v2.webp",
     description: { de: "Die trockenen Ebenen von St. Elizabeth sind berühmt für den Anbau von saftigen Wassermelonen.", hu: "St. Elizabeth száraz síkságai a lédús görögdinnye termesztéséről híresek.", ro: "Câmpiile uscate din St. Elizabeth sunt renumite pentru cultivarea pepenilor verzi suculenți.", en: "The dry plains of St. Elizabeth are famous for growing juicy watermelons." , es: "Las llanuras secas de St. Elizabeth son famosas por el cultivo de jugosas sandías.", pt: "As planícies áridas de St. Elizabeth são famosas pelo cultivo de melancias sumarentas.", fr: "Les plaines sèches de St. Elizabeth sont célèbres pour la culture de pastèques juteuses."},
     facts: {
       de: ["Nutzt innovative Tropfbewässerung.", "Melonen werden auf der ganzen Insel verkauft."],
@@ -512,7 +499,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-03",
     coords: [-76.4385, 17.9251],
     name: { de: "Serge Island Milchfarm", hu: "Serge Island Tejgazdaság", ro: "Ferma de Lactate Serge Island", en: "Serge Island Dairy Farm"},
-    image: "/poi-images/serge-island-dairy-life-v2.webp",
     description: { de: "Eine der größten Milchfarmen Jamaikas, die die lokale Bevölkerung mit frischen Milchprodukten versorgt.", hu: "Jamaica egyik legnagyobb tejgazdasága, amely friss tejtermékekkel látja el a helyi lakosságot.", ro: "Una dintre cele mai mari ferme de lactate din Jamaica, furnizând populației locale produse lactate proaspete.", en: "One of Jamaica's largest dairy farms, supplying the local population with fresh dairy products." , es: "Una de las granjas lecheras más grandes de Jamaica, que abastece a la población local con productos lácteos frescos.", pt: "Uma das maiores explorações leiteiras da Jamaica, que fornece produtos lácteos frescos à população local.", fr: "L'une des plus grandes fermes laitières de Jamaïque, qui approvisionne la population locale en produits laitiers frais."},
     facts: {
       de: ["Hält hunderte von Kühen.", "Verfügt über moderne Melkanlagen."],
@@ -548,7 +534,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-07",
     coords: [-77.6534, 18.4907],
     name: { de: "Jamaica Swamp Safari Dorf", hu: "Jamaica Swamp Safari Falu", ro: "Satul Safari din Mlaștina Jamaicăi", en: "Jamaica Swamp Safari Village"},
-    image: "/poi-images/swamp-safari-life-v2.webp",
     description: { de: "Ein interaktiver Tierpark, in dem Besucher Krokodile, Schlangen und endemische Vögel hautnah erleben können.", hu: "Interaktív vadaspark, ahol a látogatók testközelből tapasztalhatják meg a krokodilokat, kígyókat és az endemikus madarakat.", ro: "Un parc de animale interactiv unde vizitatorii pot experimenta de aproape crocodili, șerpi și păsări endemice.", en: "An interactive animal park where visitors can experience crocodiles, snakes, and endemic birds up close." , es: "Un parque interactivo de vida silvestre donde los visitantes pueden ver de cerca cocodrilos, serpientes y aves endémicas.", pt: "Um parque interativo de vida selvagem onde os visitantes podem ver de perto crocodilos, cobras e aves endémicas.", fr: "Un parc animalier interactif où les visiteurs peuvent observer de près des crocodiles, des serpents et des oiseaux endémiques."},
     facts: {
       de: ["Drehort für einen James-Bond-Film.", "Setzt sich für den Schutz von Spitzkrokodilen ein."],
@@ -584,7 +569,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-08",
     coords: [-77.9405, 18.4146],
     name: { de: "Ahhh...Ras Natango Garten", hu: "Ahhh...Ras Natango Kert", ro: "Grădina Ahhh...Ras Natango", en: "Ahhh...Ras Natango Garden"},
-    image: "/poi-images/ras-natango-garden-life-v2.webp",
     description: { de: "Ein botanischer Garten und eine Kunstgalerie in den Hügeln über Montego Bay, beliebt bei Familien und Vogelliebhabern.", hu: "Botanikus kert és művészeti galéria a Montego Bay feletti dombokon, népszerű a családok és a madárbarátok körében.", ro: "O grădină botanică și o galerie de artă în dealurile de deasupra orașului Montego Bay, populară printre familii și iubitorii de păsări.", en: "A botanical garden and art gallery in the hills above Montego Bay, popular with families and bird lovers." , es: "Un jardín botánico y galería de arte en las colinas sobre Montego Bay, popular entre familias y amantes de las aves.", pt: "Um jardim botânico e galeria de arte nas colinas acima de Montego Bay, popular entre famílias e amantes de aves.", fr: "Un jardin botanique et une galerie d'art dans les collines surplombant Montego Bay, appréciés des familles et des amateurs d'oiseaux."},
     facts: {
       de: ["Bekannt für seine vielen Kolibris.", "Bietet Mal-Workshops für Kinder an."],
@@ -620,7 +604,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-10",
     coords: [-78.3619, 18.2618],
     name: { de: "Barneys Kolibri-Garten", hu: "Barney Kolibrikertje", ro: "Grădina de Colibri a lui Barney", en: "Barney's Hummingbird Garden"},
-    image: "/poi-images/barneys-hummingbird-life-v2.webp",
     description: { de: "Ein intimer Garten in Negril, wo Besucher verschiedene jamaikanische Kolibriarten aus nächster Nähe füttern können.", hu: "Egy meghitt kert Negrilben, ahol a látogatók közvetlen közelről etethetnek különböző jamaicai kolibrifajokat.", ro: "O grădină intimă în Negril, unde vizitatorii pot hrăni îndeaproape diverse specii de colibri din Jamaica.", en: "An intimate garden in Negril where visitors can hand-feed various Jamaican hummingbird species." , es: "Un jardín íntimo en Negril donde los visitantes pueden alimentar de cerca varias especies de colibríes jamaicanos.", pt: "Um jardim íntimo em Negril, onde os visitantes podem alimentar de perto várias espécies de colibris jamaicanos.", fr: "Un jardin intimiste à Negril où les visiteurs peuvent nourrir de près plusieurs espèces de colibris jamaïcains."},
     facts: {
       de: ["Beherbergt den Jamaika-Kolibri (Doctor Bird).", "Ruhige und friedliche Atmosphäre."],
@@ -635,7 +618,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
       de: "Im West End Viertel von Negril gelegen, ist Barney's Hummingbird Garden ein kleines, aber umso entzückenderes tropisches Paradies, das speziell auf die Beobachtung und den Schutz von Kolibris spezialisiert ist. In dem dicht bepflanzten, blühenden Garten können Besucher ein einzigartiges Erlebnis genießen: Aus kleinen, mit Zuckerwasser gefüllten Handfutternäpfen können sie diese regenbogenfarbenen, winzigen Vögel direkt in ihrer Hand halten und füttern. Barney und sein Team verfügen über tiefgehende Kenntnisse der lokalen Vogelwelt und teilen gerne ihr Wissen über die Gewohnheiten der verschiedenen Kolibriarten und die ökologischen Schätze Jamaikas. Die Ruhe des Gartens und das Schwirren der Vogelflügel bieten Naturliebhabern am Rande der beliebten Urlaubsstadt ein unvergessliches Erlebnis.",
       hu: "A Negril West End negyedében található Barney's Hummingbird Garden egy kicsiny, de annál elragadóbb trópusi paradicsom, amely kifejezetten a kolibrik megfigyelésére és védelmére szakosodott. A sűrűn beültetett, virágzó kertben a látogatók egyedülálló élményben részesülhetnek: cukros vízzel telt kisméretű etetőkből közvetlenül a kezükben tarthatják és etethetik ezeket a szivárványszínű, apró madarakat. Barney és csapata mély ismeretekkel rendelkezik a helyi madárvilágról, és szívesen osztják meg tudásukat a különböző kolibrifajok szokásairól és Jamaica ökológiai kincseiről. A kert békéje és a madarak szárnyainak surrogása felejthetetlen élményt nyújt a természetkedvelőknek a népszerű üdülőváros szélén.",
       ro: "Grădina de colibri a lui Barney (Barney's Flower & Hummingbird Garden) din Negril este un sanctuar intim și fermecător dedicat celei mai mici și mai vibrante păsări din Jamaica. Situată în zona stâncoasă West End, grădina este plantată meticulos cu flori bogate în nectar care atrag zilnic zeci de păsări colibri, inclusiv simbolul național 'Doctor Bird'. Vizitatorii se pot bucura de o experiență liniștită, învățând să interacționeze cu aceste creaturi delicate într-un cadru de grădină privată luxuriantă. Stilul de viață aici este definit de respectul pentru natură și de observația atentă, grădina servind ca un refugiu ecologic vital într-o zonă urbanizată. Este o destinație de top pentru fotografi și iubitori de natură, oferind o conexiune directă și emoționantă cu biodiversitatea unică a Jamaicăi de vest.",
-      en: "Nestled in the rocky West End of Negril, Barney's Flower & Hummingbird Garden is an intimate tropical sanctuary dedicated to the smallest and most vibrant birds of Jamaica. This private garden is meticulously landscaped with nectar-rich flowers specifically chosen to attract several species of hummingbirds, including the stunning Red-billed Streamertail, also known as the Doctor Bird. Visitors are invited to experience a rare connection with nature as they learn to hand-feed these delicate creatures with small nectar bottles. Barney and his knowledgeable staff share deep insights into bird behavior and the island’s unique biodiversity. The garden’s tranquil atmosphere, filled with the hum of wings, provides a peaceful refuge from the nearby tourist districts. It is highly rated as one of Negril’s top eco-attractions, offering unforgettable photographic opportunities and a profound appreciation for Jamaica’s natural wonders.",
       en: "Barney's Flower & Hummingbird Garden in Negril is an intimate and magical sanctuary located on the rugged West End cliffs. This small, private garden is a labor of love, meticulously planted with tropical flowers specifically chosen to attract Jamaica’s most iconic avian residents. It provides one of the best opportunities on the island for close-up photography and personal interaction with hummingbirds, including the magnificent Doctor Bird and the tiny Vervain Hummingbird. The atmosphere is quiet and respectful, allowing visitors to sit in comfort while these vibrant creatures zip and hover just inches away. Guided by the knowledgeable owners, guests can learn about the different species and the flora that sustains them. Barney's is a hidden gem that offers a moment of profound tranquility and natural wonder amidst the bohemian charm of Negril's cliffside community.",
       es: "Ubicado en el barrio de West End en Negril, el Barney's Hummingbird Garden es un pequeño pero encantador paraíso tropical especializado en la observación y protección de los colibríes. En este jardín densamente plantado y lleno de flores, los visitantes pueden disfrutar de una experiencia única: alimentar a estos minúsculos pájaros de colores del arcoíris directamente de sus manos con pequeños recipientes llenos de agua con azúcar. Barney y su equipo poseen un profundo conocimiento de la avifauna local y comparten gustosamente información sobre los hábitos de las diferentes especies de colibríes y los tesoros ecológicos de Jamaica. La tranquilidad del jardín y el zumbido de las alas de los pájaros ofrecen a los amantes de la naturaleza una experiencia inolvidable a las afueras de la popular ciudad turística.",
       pt: "Localizado no bairro de West End, em Negril, o Barney's Hummingbird Garden é um pequeno mas encantador paraíso tropical especializado na observação e proteção de colibris. No jardim densamente plantado e florido, os visitantes podem desfrutar de uma experiência única: alimentar estas minúsculas aves com as cores do arco-íris diretamente na mão, utilizando pequenos recipientes com água e açúcar. Barney e a sua equipa possuem conhecimentos profundos sobre a avifauna local e partilham com prazer o seu saber sobre os hábitos das diferentes espécies de colibris e os tesouros ecológicos da Jamaica. A tranquilidade do jardim e o zumbido das asas das aves oferecem aos amantes da natureza uma experiência inesquecível à margem da popular cidade turística.",
@@ -657,7 +639,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-08",
     coords: [-77.9427, 18.3976],
     name: { de: "Rocklands Vogelschutzgebiet", hu: "Rocklands Madárrezervátum", ro: "Sanctuarul de Păsări Rocklands", en: "Rocklands Bird Sanctuary"},
-    image: "/poi-images/rocklands-bird-life-v2.webp",
     description: { de: "Ein Schutzgebiet in der Nähe von Montego Bay, das tausende exotische Vögel anzieht, die teilweise aus der Hand fressen.", hu: "Védett terület Montego Bay közelében, amely több ezer egzotikus madarat vonz, amelyek egy része kézből is eszik.", ro: "O zonă protejată lângă Montego Bay care atrage mii de păsări exotice, dintre care unele mănâncă din mână.", en: "A sanctuary near Montego Bay that attracts thousands of exotic birds, some of which will feed from your hand." , es: "Un santuario cerca de Montego Bay que atrae a miles de aves exóticas, algunas de las cuales comen de la mano.", pt: "Um santuário perto de Montego Bay que atrai milhares de aves exóticas, algumas das quais comem na mão.", fr: "Un sanctuaire près de Montego Bay qui attire des milliers d'oiseaux exotiques, dont certains mangent dans la main."},
     facts: {
       de: ["Seit 1952 ein Zufluchtsort für Vögel.", "Heimat von Jamaika-Todi und Mango-Kolibri."],
@@ -693,7 +674,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-10",
     coords: [-78.3142, 18.3051],
     name: { de: "Königspalmen-Reservat", hu: "Királypálma Rezervátum", ro: "Rezervația de Palmieri Regali", en: "Royal Palm Reserve"},
-    image: "/poi-images/royal-palm-reserve-life-v2.webp",
     description: { de: "Ein 300 Hektar großes Naturschutzgebiet in Negril, das eine dichte Population endemischer Königspalmen und vieler Vogelarten schützt.", hu: "Egy 300 hektáros természetvédelmi terület Negrilben, amely endemikus királypálmák sűrű populációját és számos madárfajt véd.", ro: "O rezervație naturală de 300 de hectare în Negril, care protejează o populație densă de palmieri regali endemici și multe specii de păsări.", en: "A 300-acre nature reserve in Negril protecting a dense population of endemic royal palms and many bird species." , es: "Un área protegida de 300 hectáreas en Negril que protege una densa población de palmas reales endémicas y muchas especies de aves.", pt: "Uma área protegida de 300 hectares em Negril que protege uma densa população de palmeiras-reais endémicas e muitas espécies de aves.", fr: "Une réserve naturelle de 300 hectares à Negril qui protège une population dense de palmiers royaux endémiques et de nombreuses espèces d'oiseaux."},
     facts: {
       de: ["Umfasst über 100 Pflanzenarten.", "Beliebt für Vogelbeobachtungen."],
@@ -729,7 +709,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-14",
     coords: [-77.0392, 17.8341],
     name: { de: "Goat Islands Leguan-Schutzgebiet", hu: "Goat Islands Leguánvédelmi Terület", ro: "Rezervația de Iguane Goat Islands", en: "Goat Islands Iguana Reserve"},
-    image: "/poi-images/goat-islands-iguana-life-v2.webp",
     description: { de: "Kleine Inseln, die als letzter Zufluchtsort für den stark gefährdeten Jamaika-Wirtelschwanzleguan gelten.", hu: "Kis szigetek, amelyek a súlyosan veszélyeztetett jamaicai orrszarvú leguán utolsó menedékének számítanak.", ro: "Mici insule considerate ultimul refugiu pentru iguana jamaicană cu coadă spinoasă, grav amenințată.", en: "Small islands considered the last refuge for the critically endangered Jamaican iguana." , es: "Pequeñas islas consideradas el último refugio de la iguana de Jamaica, especie en peligro crítico.", pt: "Pequenas ilhas que são consideradas o último refúgio para a iguana da Jamaica, espécie em perigo crítico de extinção.", fr: "Petites îles considérées comme le dernier refuge de l'iguane de Jamaïque, espèce en danger critique d'extinction."},
     facts: {
       de: ["Galt einst als ausgestorben.", "Intensive Erhaltungsmaßnahmen sind im Gange."],
@@ -765,7 +744,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-11",
     coords: [-77.8229, 18.0163],
     name: { de: "Galleon Harbour Seekuh-Reservat", hu: "Galleon Harbour Lamantinrezervátum", ro: "Rezervația de Lamantini Galleon Harbour", en: "Galleon Harbour Manatee Reserve"},
-    image: "/poi-images/galleon-harbour-manatee-life-v2.webp",
     description: { de: "Ein geschütztes Küstengebiet, in dem die seltenen Antillen-Manatis (Seekühe) leben und brüten.", hu: "Védett part menti terület, ahol a ritka karibi lamantinok élnek és szaporodnak.", ro: "O zonă de coastă protejată unde trăiesc și se înmulțesc lamantinii antileni rari.", en: "A protected coastal area where rare Antillean manatees live and breed." , es: "Un área costera protegida donde viven y se reproducen los raros manatíes de las Antillas.", pt: "Uma área costeira protegida onde vivem e se reproduzem os raros peixes-boi das Antilhas.", fr: "Une zone côtière protégée où vivent et se reproduisent les rares lamantins des Antilles."},
     facts: {
       de: ["Seekühe werden oft in den Mangroven gesichtet.", "Streng geschützte Meereszone."],
@@ -801,7 +779,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-08",
     coords: [-77.9351, 18.4526],
     name: { de: "Bogue Islands Vogelschutzgebiet", hu: "Bogue-szigetek Madárrezervátum", ro: "Sanctuarul de Păsări Bogue Islands", en: "Bogue Islands Bird Sanctuary"},
-    image: "/poi-images/bogue-islands-bird-life-v2.webp",
     description: { de: "Eine Gruppe von Mangroveninseln in der Bucht von Montego Bay, die als wichtiger Nistplatz für Reiher und Pelikane dienen.", hu: "Mangroveszigetek csoportja a Montego Bay öbölben, amelyek fontos fészkelőhelyként szolgálnak gémek és pelikánok számára.", ro: "Un grup de insule de mangrove în Golful Montego Bay, care servesc drept loc important de cuibărit pentru stârci și pelicani.", en: "A group of mangrove islands in Montego Bay serving as an important nesting site for herons and pelicans." , es: "Un grupo de islas de manglares en la bahía de Montego Bay que sirven como importante lugar de anidación para garzas y pelícanos.", pt: "Um grupo de ilhas de mangais na baía de Montego Bay, que servem como importante local de nidificação para garças e pelicanos.", fr: "Un groupe d'îles de mangroves dans la baie de Montego Bay, servant de site de nidification majeur pour les hérons et les pélicans."},
     facts: {
       de: ["Bietet Schutz vor Stürmen.", "Zugänglich nur per Boot."],
@@ -837,7 +814,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-11",
     coords: [-77.7551, 17.0215],
     name: { de: "Middle Cay Vogelschutzgebiet", hu: "Middle Cay Madárrezervátum", ro: "Sanctuarul de Păsări Middle Cay", en: "Middle Cay Bird Sanctuary"},
-    image: "/poi-images/middle-cay-bird-life-v2.webp",
     description: { de: "Eine winzige, abgelegene Koralleninsel auf der Pedro Bank, die als Brutstätte für Seeschwalben und Tölpel dienen.", hu: "Apró, elszigetelt korallsziget a Pedro-padon, amely csérek és szulák költőhelyeként szolgál.", ro: "O insulă de corali mică și îndepărtată pe Pedro Bank, care servește drept loc de reproducere pentru rândunele de mare și gâște de mare.", en: "A tiny, remote coral island on the Pedro Bank serving as a breeding ground for terns and boobies." , es: "Una pequeña y remota isla de coral en el Banco de Pedro que sirve como lugar de cría para charranes y piqueros.", pt: "Uma ilhota de coral pequena e remota no Banco Pedro, que serve como local de reprodução para andorinhas-do-mar e atobás.", fr: "Une minuscule île corallienne isolée sur le Banc de Pedro, qui sert de lieu de reproduction pour les sternes et les fous."},
     facts: {
       de: ["Isoliert und unbewohnt.", "Wichtig für die marine Artenvielfalt."],
@@ -873,7 +849,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-03",
     coords: [-75.9812, 17.4021],
     name: { de: "Morant Cays Schildkröten-Nistplatz", hu: "Morant Cays Teknősfészkelő Hely", ro: "Loc de Cuibărit pentru Testoase Morant Cays", en: "Morant Cays Turtle Nesting Site"},
-    image: "/poi-images/morant-cays-turtle-life-v2.webp",
     description: { de: "Eine abgelegene Inselgruppe, auf der jedes Jahr hunderte bedrohte Meeresschildkröten ihre Eier ablegen.", hu: "Félreeső szigetcsoport, ahol minden évben több száz veszélyeztetett tengeri teknős rakja le tojásait.", ro: "Un grup de insule îndepărtate unde sute de broaște țestoase marine pe cale de dispariție își depun ouăle în fiecare an.", en: "A remote island group where hundreds of endangered sea turtles lay their eggs every year." , es: "Un archipiélago remoto donde cientos de tortugas marinas en peligro de extinción ponen sus huevos cada año.", pt: "Um arquipélago remoto onde centenas de tartarugas marinhas ameaçadas depositam os seus ovos todos os anos.", fr: "Un archipel isolé où des centaines de tortues marines menacées pondent leurs œufs chaque année."},
     facts: {
       de: ["Das Betreten ist während der Nistzeit streng reguliert.", "Beheimatet auch eine Wetterstation."],
@@ -909,7 +884,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-03",
     coords: [-76.5412, 17.9123],
     name: { de: "Font Hill Milchfarm", hu: "Font Hill Tejgazdaság", ro: "Ferma de Lactate Font Hill", en: "Font Hill Dairy Farm"},
-    image: "/poi-images/font-hill-dairy-life-v2.webp",
     description: { de: "Eine aktive Rinderfarm, die Milch und Rindfleisch produziert und gleichzeitig Naturschutzgebiete integriert.", hu: "Aktív szarvasmarhafarm, amely tejet és marhahúst termel, miközben természetvédelmi területeket is integrál.", ro: "O fermă activă de bovine care produce lapte și carne de vită, integrând în același timp zone de conservare a naturii.", en: "An active cattle farm producing milk and beef while integrating nature conservation areas." , es: "Una granja ganadera activa que produce leche y carne vacuna, integrando reservas naturales.", pt: "Uma exploração pecuária ativa que produz leite e carne de bovino, integrando simultaneamente reservas naturais.", fr: "Une ferme d'élevage active produisant du lait et de la viande bovine, tout en intégrant des réserves naturelles."},
     facts: {
       de: ["Verbindet Landwirtschaft mit Naturschutz.", "Hat einen eigenen kleinen Wildpark."],
@@ -945,7 +919,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-08",
     coords: [-77.8821, 18.2835],
     name: { de: "Seven Rivers Zitrusfarm", hu: "Seven Rivers Citrusfarm", ro: "Ferma de Citrice Seven Rivers", en: "Seven Rivers Citrus Farm"},
-    image: "/poi-images/seven-rivers-citrus-life-v2.webp",
     description: { de: "Ein üppiges Tal in St. James, das für den großflächigen Anbau von Orangen und Pampelmusen genutzt wird.", hu: "Buja völgy St. James-ben, amelyet nagyüzemi narancs- és pomelótermesztésre használnak.", ro: "O vale luxuriantă în St. James, folosită pentru cultivarea pe scară largă a portocalelor și pomelo.", en: "A lush valley in St. James used for the large-scale cultivation of oranges and pomelos." , es: "Un exuberante valle en St. James utilizado para el cultivo a gran escala de naranjas y toronjas.", pt: "Um vale luxuriante em St. James utilizado para o cultivo em larga escala de laranjas e toranjas.", fr: "Une vallée luxuriante dans le St. James, utilisée pour la culture à grande échelle d'oranges et de pamplemousses."},
     facts: {
       de: ["Profitiert vom Mikroklima der umliegenden Berge.", "Bietet saisonale Erntehelfer-Jobs."],
@@ -981,7 +954,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-12",
     coords: [-77.4912, 18.0654],
     name: { de: "Kendal Yam-Farmen", hu: "Kendal Jamgyökérfarmok", ro: "Fermele de Igname Kendal", en: "Kendal Yam Farms"},
-    image: "/poi-images/kendal-yam-farms-life-v2.webp",
     description: { de: "Die fruchtbaren Hänge von Manchester sind das Zentrum der jamaikanischen Yamswurzel-Produktion.", hu: "Manchester termékeny lejtői a jamaicai jamgyökér-termelés központjai.", ro: "Pantele fertile din Manchester sunt centrul producției jamaicane de igname.", en: "The fertile slopes of Manchester are the center of Jamaican yam production." , es: "Las fértiles laderas de Manchester son el centro de la producción jamaicana de ñame.", pt: "As encostas férteis de Manchester são o centro da produção de inhame da Jamaica.", fr: "Les pentes fertiles de Manchester sont le centre de la production jamaïcaine d'igname."},
     facts: {
       de: ["Yam ist ein Grundnahrungsmittel in Jamaika.", "Die Pflanzen werden traditionell an langen Stangen gezogen."],
@@ -1017,7 +989,6 @@ export const poiExtraJamaicaLifeV2: POI[] = [
     parent: "JM-12",
     coords: [-77.5143, 18.1522],
     name: { de: "Devon Kartoffelfelder", hu: "Devon Burgonyaföldek", ro: "Câmpurile de Cartofi Devon", en: "Devon Potato Farms"},
-    image: "/poi-images/devon-potato-farms-life-v2.webp",
     description: { de: "Die kühlen Temperaturen in den Bergen von Manchester ermöglichen den kommerziellen Anbau von Kartoffeln.", hu: "A Manchester-i hegyek hűvös hőmérséklete lehetővé teszi a burgonya kereskedelmi termesztését.", ro: "Temperaturile răcoroase din munții Manchester permit cultivarea comercială a cartofilor.", en: "The cool temperatures in the mountains of Manchester allow for the commercial cultivation of potatoes." , es: "Las temperaturas frescas en las montañas de Manchester permiten el cultivo comercial de patatas.", pt: "As temperaturas frescas nas montanhas de Manchester permitem o cultivo comercial de batatas.", fr: "Les températures fraîches dans les montagnes de Manchester permettent la culture commerciale de pommes de terre."},
     facts: {
       de: ["Das kühle Klima ist untypisch für die Karibik.", "Ein Großteil der lokalen Kartoffelernte stammt von hier."],

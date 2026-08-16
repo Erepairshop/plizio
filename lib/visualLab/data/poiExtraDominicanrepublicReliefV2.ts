@@ -8,7 +8,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-CM",
     coords: [-70.9, 19.0],
     name: { de: "Cordillera Central", hu: "Cordillera Central", ro: "Cordillera Central", en: "Cordillera Central"},
-    image: "/poi-images/do-cordillera-central-relief-v2.webp",
     description: { de: "Die höchste Gebirgskette der Karibik.", hu: "A Karib-térség legmagasabb hegylánca.", ro: "Cel mai înalt lanț muntos din Caraibe.", en: "The highest mountain range in the Caribbean." , es: "La cadena montañosa más alta del Caribe.", pt: "A cordilheira mais alta das Caraíbas.", fr: "La chaîne de montagnes la plus haute des Caraïbes."},
     facts: {
       de: ["Enthält den Pico Duarte", "Höchste Erhebung der Region", "Alpine Kiefernwälder", "Bedeutende Wasserscheide"],
@@ -44,7 +43,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-SB",
     coords: [-71.5, 18.1],
     name: { de: "Sierra de Bahoruco", hu: "Sierra de Bahoruco", ro: "Sierra de Bahoruco", en: "Sierra de Bahoruco"},
-    image: "/poi-images/do-sierra-de-bahoruco-relief-v2.webp",
     description: { de: "Ein bedeutendes Gebirge im Südwesten.", hu: "Jelentős hegység az ország délnyugati részén.", ro: "Un lanț muntos important în sud-vest.", en: "A major mountain range in the southwest." , es: "Una montaña importante en el suroeste.", pt: "Uma montanha importante no sudoeste.", fr: "Une montagne importante dans le sud-ouest."},
     facts: {
       de: ["Teil des Biosphärenreservats", "Große Artenvielfalt", "Karstgebirge", "Bedeutende Gipfel"],
@@ -80,7 +78,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-SO",
     coords: [-69.2, 18.9],
     name: { de: "Sierra Oriental", hu: "Sierra Oriental", ro: "Sierra Oriental", en: "Sierra Oriental"},
-    image: "/poi-images/do-sierra-oriental-relief-v2.webp",
     description: { de: "Eine Gebirgskette im Osten der Insel.", hu: "Hegylánc a sziget keleti részén.", ro: "Un lanț muntos în estul insulei.", en: "A mountain range in the eastern part of the island." , es: "Una cadena montañosa en el este de la isla.", pt: "Uma cadeia de montanhas no leste da ilha.", fr: "Une chaîne de montagnes dans l'est de l'île."},
     facts: {
       de: ["Ost-Gebirge", "Tropische Vegetation", "Wasserquelle für den Osten", "Sanfte Hügellandschaft"],
@@ -116,7 +113,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-CB",
     coords: [-70.5, 19.4],
     name: { de: "Cibao-Tal", hu: "Cibao-völgy", ro: "Valea Cibao", en: "Cibao Valley"},
-    image: "/poi-images/do-valle-cibao-relief-v2.webp",
     description: { de: "Die fruchtbarste Region der Dominikanischen Republik.", hu: "A Dominikai Köztársaság legtermékenyebb régiója.", ro: "Cea mai fertilă regiune din Republica Dominicană.", en: "The most fertile region of the Dominican Republic." , es: "La región más fértil de la República Dominicana.", pt: "A região mais fértil da República Dominicana.", fr: "La région la plus fertile de République dominicaine."},
     facts: {
       de: ["Zentrum der Landwirtschaft", "Umgeben von Gebirgen", "Wichtige Flüsse", "Große Anbauflächen"],
@@ -152,7 +148,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-LC",
     coords: [-69.5, 18.5],
     name: { de: "Küstenebene des Südens", hu: "Déli parti síkság", ro: "Câmpia de coastă a sudului", en: "Southern Coastal Plain"},
-    image: "/poi-images/do-liano-costero-relief-v2.webp",
     description: { de: "Eine weitläufige Tiefebene entlang der Südküste.", hu: "Kiterjedt alföld a déli part mentén.", ro: "O câmpie vastă de-a lungul coastei de sud.", en: "A vast lowland plain along the southern coast." , es: "Una extensa llanura a lo largo de la costa sur.", pt: "Uma extensa planície ao longo da costa sul.", fr: "Une vaste plaine côtière le long de la côte sud."},
     facts: {
       de: ["Ebene Landschaft", "Zuckerrohranbau", "Nähe zum Meer", "Bebautes Gebiet"],
@@ -188,7 +183,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-SM",
     coords: [-71.0, 18.4],
     name: { de: "Sierra Martín García", hu: "Sierra Martín García", ro: "Sierra Martín García", en: "Sierra Martín García"},
-    image: "/poi-images/do-sierra-martin-garcia-relief-v2.webp",
     description: { de: "Ein geschütztes Gebirge im Südwesten.", hu: "Védett hegység délnyugaton.", ro: "Un lanț muntos protejat în sud-vest.", en: "A protected mountain range in the southwest." , es: "Una montaña protegida en el suroeste.", pt: "Uma montanha protegida no sudoeste.", fr: "Une montagne protégée dans le sud-ouest."},
     facts: {
       de: ["Nationalpark", "Trockenwald", "Große Steilhänge", "Seltene Flora"],
@@ -224,7 +218,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-SJ",
     coords: [-71.2, 18.8],
     name: { de: "San-Juan-Ebene", hu: "San Juan-síkság", ro: "Câmpia San Juan", en: "San Juan Plain"},
-    image: "/poi-images/do-llano-de-san-juan-relief-v2.webp",
     description: { de: "Ein Hochtal zwischen zwei Gebirgsketten.", hu: "Magasvölgy két hegylánc között.", ro: "O vale înaltă între două lanțuri muntoase.", en: "A high valley between two mountain ranges." , es: "Un valle de altura entre dos cordilleras.", pt: "Um vale alto entre duas cordilheiras.", fr: "Une vallée d'altitude entre deux chaînes de montagnes."},
     facts: {
       de: ["Hochtal", "Landwirtschaftliche Nutzung", "Umgeben von Bergen", "Kühleres Klima"],
@@ -260,7 +253,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-PS",
     coords: [-69.4, 19.2],
     name: { de: "Halbinsel Samaná", hu: "Samaná-félsziget", ro: "Peninsula Samaná", en: "Samaná Peninsula"},
-    image: "/poi-images/do-peninsula-samana-relief-v2.webp",
     description: { de: "Ein hügeliges Vorgebirge im Nordosten.", hu: "Hilly félsziget északkeleten.", ro: "O peninsulă deluroasă în nord-est.", en: "A hilly peninsula in the northeast." , es: "Un promontorio montañoso en el noreste.", pt: "Um promontório montanhoso no nordeste.", fr: "Un promontoire vallonné dans le nord-est."},
     facts: {
       de: ["Hügelige Landschaft", "Tropische Wälder", "Steile Küsten", "Eingebuchtet"],
@@ -296,7 +288,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-AZ",
     coords: [-70.8, 18.4],
     name: { de: "Azua-Ebene", hu: "Azua-síkság", ro: "Câmpia Azua", en: "Azua Plain"},
-    image: "/poi-images/do-llano-de-azua-relief-v2.webp",
     description: { de: "Eine trockene Ebene im Südwesten.", hu: "Száraz alföld délnyugaton.", ro: "O câmpie uscată în sud-vest.", en: "A dry plain in the southwest." , es: "Una llanura seca en el suroeste.", pt: "Uma planície seca no sudoeste.", fr: "Une plaine sèche dans le sud-ouest."},
     facts: {
       de: ["Trockenes Klima", "Bewässerung nötig", "Landwirtschaft", "Küstennahe Lage"],
@@ -332,7 +323,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-NB",
     coords: [-71.5, 18.6],
     name: { de: "Sierra de Neiba", hu: "Sierra de Neiba", ro: "Sierra de Neiba", en: "Sierra de Neiba"},
-    image: "/poi-images/do-sierra-de-neiba-relief-v2.webp",
     description: { de: "Ein Gebirgszug zwischen dem Cibao-Tal und dem Enriquillo-Becken.", hu: "Hegylánc a Cibao-völgy és az Enriquillo-medence között.", ro: "Un lanț muntos între Valea Cibao și bazinul Enriquillo.", en: "A mountain range between the Cibao Valley and the Enriquillo Basin." , es: "Una cadena montañosa entre el valle del Cibao y la cuenca de Enriquillo.", pt: "Uma cordilheira entre o vale do Cibao e a bacia de Enriquillo.", fr: "Une chaîne de montagnes entre la vallée du Cibao et le bassin d'Enriquillo."},
     facts: {
       de: ["Gebirgszug", "Kalkgestein", "Trockene Hänge", "Gipfel"],
@@ -368,7 +358,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-LH",
     coords: [-69.5, 19.0],
     name: { de: "Los Haitises Hügel", hu: "Los Haitises dombok", ro: "Dealurile Los Haitises", en: "Los Haitises Hills"},
-    image: "/poi-images/do-los-haitises-hills-relief-v2.webp",
     description: { de: "Karst-Hügelkette in Los Haitises.", hu: "Karsztos dombság Los Haitisesben.", ro: "Lanț de dealuri carstice în Los Haitises.", en: "Karst hill range in Los Haitises." , es: "Cadena de colinas kársticas en Los Haitises.", pt: "Cadeia de colinas cársticas em Los Haitises.", fr: "Chaîne de collines karstiques dans Los Haitises."},
     facts: {
       de: ["Mogotes", "Kalkfelsen", "Dschungel", "Höhlenlandschaft"],
@@ -404,7 +393,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-LN",
     coords: [-70.2, 19.8],
     name: { de: "Nordküstenebene", hu: "Északi parti síkság", ro: "Câmpia de coastă nordică", en: "Northern Coastal Plain"},
-    image: "/poi-images/do-liano-costero-norte-relief-v2.webp",
     description: { de: "Schmale Tiefebene an der Nordküste.", hu: "Keskeny alföld az északi parton.", ro: "Câmpie joasă îngustă pe coasta de nord.", en: "Narrow lowland plain on the north coast." , es: "Llanura estrecha en la costa norte.", pt: "Planície estreita na costa norte.", fr: "Plaine étroite sur la côte nord."},
     facts: {
       de: ["Schmale Ebene", "Atlantikküste", "Tropisch", "Grün"],
@@ -440,7 +428,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-YM",
     coords: [-70.0, 18.8],
     name: { de: "Sierra de Yamasá", hu: "Sierra de Yamasá", ro: "Sierra de Yamasá", en: "Sierra de Yamasá"},
-    image: "/poi-images/do-sierra-de-yamasa-relief-v2.webp",
     description: { de: "Ein Gebirgszug nördlich von Santo Domingo.", hu: "Hegylánc Santo Domingótól északra.", ro: "Un lanț muntos la nord de Santo Domingo.", en: "A mountain range north of Santo Domingo." , es: "Una cadena montañosa al norte de Santo Domingo.", pt: "Uma cadeia de montanhas ao norte de Santo Domingo.", fr: "Une chaîne de montagnes au nord de Saint-Domingue."},
     facts: {
       de: ["Gebirge", "Wald", "Flussquellen", "Gipfel"],
@@ -476,7 +463,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-SE",
     coords: [-70.2, 18.9],
     name: { de: "Sierra Esmeralda", hu: "Sierra Esmeralda", ro: "Sierra Esmeralda", en: "Sierra Esmeralda"},
-    image: "/poi-images/do-sierra-esmeralda-relief-v2.webp",
     description: { de: "Ein grüner Gebirgszug in der Mitte des Landes.", hu: "Zöld hegylánc az ország közepén.", ro: "Un lanț muntos verde în centrul țării.", en: "A green mountain range in the center of the country." , es: "Una cadena montañosa verde en el centro del país.", pt: "Uma cadeia de montanhas verde no centro do país.", fr: "Une chaîne de montagnes verdoyante au centre du pays."},
     facts: {
       de: ["Grüner Bergzug", "Tropen", "Wandergebiet", "Wasserspeicher"],
@@ -512,7 +498,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-BN",
     coords: [-70.4, 18.9],
     name: { de: "Bonao-Tal", hu: "Bonao-völgy", ro: "Valea Bonao", en: "Bonao Valley"},
-    image: "/poi-images/do-valle-de-bona-relief-v2.webp",
     description: { de: "Ein fruchtbares Tal in der Bergregion.", hu: "Termékeny völgy a hegyvidéken.", ro: "O vale fertilă în zona montană.", en: "A fertile valley in the mountain region." , es: "Un valle fértil en la región montañosa.", pt: "Um vale fértil na região montanhosa.", fr: "Une vallée fertile dans la région montagneuse."},
     facts: {
       de: ["Fruchtbar", "Gebirgstal", "Regnerisch", "Agrikultur"],
@@ -548,7 +533,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-BB",
     coords: [-70.8, 19.8],
     name: { de: "Bajabonico-Ebene", hu: "Bajabonico-síkság", ro: "Câmpia Bajabonico", en: "Bajabonico Plain"},
-    image: "/poi-images/do-llanura-de-bajabonico-relief-v2.webp",
     description: { de: "Kleine Ebene im Norden.", hu: "Kis síkság északon.", ro: "Câmpie mică în nord.", en: "Small plain in the north." , es: "Pequeña llanura en el norte.", pt: "Pequena planície no norte.", fr: "Petite plaine dans le nord."},
     facts: {
       de: ["Flachland", "Küstennahe", "Tropisch", "Grün"],
@@ -584,7 +568,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-LV",
     coords: [-70.5, 19.2],
     name: { de: "La Vega-Ebene", hu: "La Vega-síkság", ro: "Câmpia La Vega", en: "La Vega Plain"},
-    image: "/poi-images/do-llano-de-la-vega-relief-v2.webp",
     description: { de: "Teil des großen Cibao-Tals.", hu: "A nagy Cibao-völgy része.", ro: "Parte a marii Văi Cibao.", en: "Part of the large Cibao Valley." , es: "Parte del gran valle del Cibao.", pt: "Parte do grande vale do Cibao.", fr: "Partie de la grande vallée du Cibao."},
     facts: {
       de: ["Ebene", "Reisanbau", "Fruchtbar", "Wetterabhängig"],
@@ -620,7 +603,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-SS",
     coords: [-69.3, 19.2],
     name: { de: "Sierra de Samaná", hu: "Sierra de Samaná", ro: "Sierra de Samaná", en: "Sierra de Samaná"},
-    image: "/poi-images/do-sierra-de-samana-relief-v2.webp",
     description: { de: "Gebirgszug auf der Halbinsel Samaná.", hu: "Hegylánc a Samaná-félszigeten.", ro: "Lanț muntos pe peninsula Samaná.", en: "Mountain range on the Samaná Peninsula." , es: "Cadena montañosa en la península de Samaná.", pt: "Cadeia de montanhas na península de Samaná.", fr: "Chaîne de montagnes sur la péninsule de Samaná."},
     facts: {
       de: ["Gebirge", "Steil", "Dschungel", "Aussicht"],
@@ -656,7 +638,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-MC",
     coords: [-69.0, 18.9],
     name: { de: "Miches-Ebene", hu: "Miches-síkság", ro: "Câmpia Miches", en: "Miches Plain"},
-    image: "/poi-images/do-llano-de-miches-relief-v2.webp",
     description: { de: "Küstenebene im Osten.", hu: "Parti síkság keleten.", ro: "Câmpie de coastă în est.", en: "Coastal plain in the east." , es: "Llanura costera en el este.", pt: "Planície costeira no leste.", fr: "Plaine côtière dans l'est."},
     facts: {
       de: ["Ebene", "Küstenlage", "Tropisch", "Grün"],
@@ -692,7 +673,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-SA",
     coords: [-70.3, 18.6],
     name: { de: "Sierra de Agua", hu: "Sierra de Agua", ro: "Sierra de Agua", en: "Sierra de Agua"},
-    image: "/poi-images/do-sierra-de-agua-relief-v2.webp",
     description: { de: "Ein Gebirgszug in der Mitte.", hu: "Hegylánc középen.", ro: "Un lanț muntos în centru.", en: "A mountain range in the center." , es: "Una cadena montañosa en el centro.", pt: "Uma cordilheira no centro.", fr: "Une chaîne de montagnes au centre."},
     facts: {
       de: ["Gebirge", "Wald", "Wasserspeicher", "Gipfel"],
@@ -728,7 +708,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-PR",
     coords: [-70.4, 18.3],
     name: { de: "Sierra de Peravia", hu: "Sierra de Peravia", ro: "Sierra de Peravia", en: "Sierra de Peravia"},
-    image: "/poi-images/do-sierra-de-peravia-relief-v2.webp",
     description: { de: "Gebirgszug im Süden.", hu: "Déli hegylánc.", ro: "Lanț muntos în sud.", en: "Mountain range in the south." , es: "Cadena montañosa en el sur.", pt: "Cadeia de montanhas no sul.", fr: "Chaîne de montagnes dans le sud."},
     facts: {
       de: ["Gebirge", "Trocken", "Steilhänge", "Aussicht"],
@@ -764,7 +743,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-SP",
     coords: [-69.3, 18.4],
     name: { de: "San Pedro-Ebene", hu: "San Pedro-síkság", ro: "Câmpia San Pedro", en: "San Pedro Plain"},
-    image: "/poi-images/do-llano-de-san-pedro-relief-v2.webp",
     description: { de: "Ebene im Südosten.", hu: "Délkeleti síkság.", ro: "Câmpie în sud-est.", en: "Plain in the southeast." , es: "Llanura en el sureste.", pt: "Planície no sudeste.", fr: "Plaine dans le sud-est."},
     facts: {
       de: ["Flachland", "Zuckerrohr", "Küste", "Entwickelt"],
@@ -800,7 +778,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-VR",
     coords: [-70.3, 19.1],
     name: { de: "Vega Real-Tal", hu: "Vega Real-völgy", ro: "Valea Vega Real", en: "Vega Real Valley"},
-    image: "/poi-images/do-valle-de-la-vega-real-relief-v2.webp",
     description: { de: "Ein bedeutendes Tal in der Mitte.", hu: "Jelentős völgy középen.", ro: "O vale importantă în centru.", en: "An important valley in the center." , es: "Un valle importante en el centro.", pt: "Um vale importante no centro.", fr: "Une vallée importante au centre."},
     facts: {
       de: ["Fruchtbar", "Tal", "Reisanbau", "Wasser"],
@@ -836,7 +813,6 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     parent: "DO-AT",
     coords: [-70.9, 19.7],
     name: { de: "Sierra de Altamira", hu: "Sierra de Altamira", ro: "Sierra de Altamira", en: "Sierra de Altamira"},
-    image: "/poi-images/do-sierra-de-altamira-relief-v2.webp",
     description: { de: "Gebirgszug im Norden.", hu: "Északi hegylánc.", ro: "Lanț muntos în nord.", en: "Mountain range in the north." , es: "Cadena montañosa en el norte.", pt: "Cordilheira no norte.", fr: "Chaîne de montagnes dans le nord."},
     facts: {
       de: ["Gebirge", "Wald", "Gipfel", "Wanderungen"],

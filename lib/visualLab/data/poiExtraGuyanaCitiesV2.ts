@@ -164,7 +164,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Georgetown",
       ro: "Georgetown",
       en: "Georgetown"},
-    image: "/poi-images/georgetown-cities-v2.webp",
     descriptionAdvanced: {
       de: "Georgetown, die Hauptstadt von Guyana, ist eine faszinierende Metropole am Atlantischen Ozean, die für ihre einzigartige Architektur und ihre Lage unterhalb des Meeresspiegels bekannt ist. Gegründet von den Briten im Jahr 1781, erlebte die Stadt wechselnde Herrschaften unter den Franzosen und Holländern, bevor sie 1812 endgültig ihren heutigen Namen zu Ehren von König Georg III. erhielt. Ein markantes Merkmal ist das komplexe System von Kanälen und Kokern (Schleusen), das ursprünglich von holländischen Ingenieuren entworfen wurde, um die Stadt vor Überflutungen zu schützen – eine Notwendigkeit, da Georgetown durch die Demerara-Seemauer vor den Gezeiten des Ozeans bewahrt werden muss. Die Architektur der Stadt wird oft als „Gartenstadt der Karibik“ bezeichnet und ist weltberühmt für ihre viktorianischen Holzgebäude. Das herausragendste Beispiel ist die St. George's Cathedral, eine der höchsten freistehenden Holzkirchen der Welt. Ein weiteres Wahrzeichen ist der Stabroek Market mit seinem markanten gusseisernen Uhrturm, der das Zentrum des städtischen Handels bildet. Georgetown ist nicht nur das politische und administrative Zentrum Guyanas, sondern auch der Sitz des CARICOM-Sekretariats, was seine Bedeutung für die gesamte karibische Region unterstreicht. Die Stadt beherbergt bedeutende kulturelle Institutionen wie das Nationalmuseum, das Anthropologische Museum und die Botanischen Gärten, in denen die Victoria-Amazonica-Seerose, das Nationalemblem Guyanas, gedeiht. In den letzten Jahren hat der Fund massiver Erdölvorkommen vor der Küste einen beispiellosen wirtschaftlichen Boom ausgelöst, der das Stadtbild durch moderne Hochhäuser und neue Infrastrukturprojekte rasant verändert. Trotz dieser Modernisierung bewahrt Georgetown seinen multikulturellen Charme, der durch die Einflüsse indischer, afrikanischer, indigener und europäischer Traditionen geprägt ist und sich besonders in der lebendigen kulinarischen Szene und den zahlreichen religiösen Festen manifestiert.",
       hu: "Georgetown nem csupán Guyana fővárosa, hanem Dél-Amerika és a Karib-térség találkozásának egyik legkülönlegesebb kulturális csomópontja. Az 1780-as években alapított város a Demerara-folyó torkolatánál fekszik, és legfontosabb jellemzője, hogy tengerszint alatti területen helyezkedik el. Emiatt a várost egy hatalmas gátrendszer, a híres „Seawall” védi az Atlanti-óceán betörésétől, a vízelvezetést pedig az eredetileg hollandok által tervezett bonyolult csatornahálózat biztosítja. A várost gyakran nevezik a „Karib-térség kertvárosának” a buja növényzet és a tágas sugárutak miatt. Az építészeti arculatát a viktoriánus kori faépületek határozzák meg, amelyek közül a Szent György-székesegyház a leghíresebb, mint a világ egyik legmagasabb faszerkezetű temploma. A Stabroek Market vörös-fehér vasvázas épülete és óratornya a város lüktető szíve, ahol a helyi kereskedelem évszázadok óta zajlik. Georgetown a régió diplomáciai központja is, itt található a Karibi Közösség (CARICOM) titkársága. A város kulturális életét a National Museum és a Walter Roth Antropológiai Múzeum gazdagítja, míg a Botanikus Kertben az ország nemzeti virága, a Victoria Regia tavirózsa látható. Az utóbbi években felfedezett hatalmas olajmezők gazdasági forradalmat hoztak, ami Georgetown látképét is átformálja: modern szállodák és irodaházak emelkednek a történelmi negyedek mellé. A lakosság sokszínűsége – indiai, afrikai, kínai és európai gyökerekkel – egyedülálló gasztronómiát és vibráló utcai életet teremt. Georgetown egyszerre őrzi a gyarmati múlt emlékeit és tör előre a modern jövő felé, miközben küzd a klímaváltozás okozta kihívásokkal, amelyeket a tengerszint emelkedése jelent a város számára.",
@@ -717,7 +716,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Linden",
       ro: "Linden",
       en: "Linden"},
-    image: "/poi-images/linden-cities-v2.webp",
     description: {
       de: "Linden ist ein wichtiger Verwaltungssitz und eine der bedeutendsten Städte der Region UD in Guyana.",
       hu: "Linden fontos közigazgatási központ és Guyana UD régiójának egyik legjelentősebb városa.",
@@ -803,7 +801,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "New Amsterdam",
       ro: "New Amsterdam",
       en: "New Amsterdam"},
-    image: "/poi-images/new-amsterdam-cities-v2.webp",
     description: {
       de: "New Amsterdam ist ein wichtiger Verwaltungssitz und eine der bedeutendsten Städte der Region EB in Guyana.",
       hu: "New Amsterdam fontos közigazgatási központ és Guyana EB régiójának egyik legjelentősebb városa.",
@@ -1321,7 +1318,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Anna Regina",
       ro: "Anna Regina",
       en: "Anna Regina"},
-    image: "/poi-images/anna-regina-cities-v2.webp",
     description: {
       de: "Anna Regina ist ein wichtiger Verwaltungssitz und eine der bedeutendsten Städte der Region PM in Guyana.",
       hu: "Anna Regina fontos közigazgatási központ és Guyana PM régiójának egyik legjelentősebb városa.",
@@ -1623,7 +1619,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Bartica",
       ro: "Bartica",
       en: "Bartica"},
-    image: "/poi-images/bartica-cities-v2.webp",
     description: {
       de: "Bartica ist ein wichtiger Verwaltungssitz und eine der bedeutendsten Städte der Region CU in Guyana.",
       hu: "Bartica fontos közigazgatási központ és Guyana CU régiójának egyik legjelentősebb városa.",
@@ -1756,7 +1751,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Rose Hall",
       ro: "Rose Hall",
       en: "Rose Hall"},
-    image: "/poi-images/rose-hall-cities-v2.webp",
     description: {
       de: "Rose Hall ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Rose Hall egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -1920,7 +1914,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Mahaica Village",
       ro: "Mahaica Village",
       en: "Mahaica Village"},
-    image: "/poi-images/mahaica-village-cities-v2.webp",
     description: {
       de: "Mahaica Village ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Mahaica Village egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -2012,7 +2005,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Mahaicony Village",
       ro: "Mahaicony Village",
       en: "Mahaicony Village"},
-    image: "/poi-images/mahaicony-village-cities-v2.webp",
     description: {
       de: "Mahaicony Village ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Mahaicony Village egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -2212,7 +2204,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Vreed-en-Hoop",
       ro: "Vreed-en-Hoop",
       en: "Vreed-en-Hoop"},
-    image: "/poi-images/vreed-en-hoop-cities-v2.webp",
     description: {
       de: "Vreed-en-Hoop ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Vreed-en-Hoop egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -2340,7 +2331,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Lethem",
       ro: "Lethem",
       en: "Lethem"},
-    image: "/poi-images/lethem-cities-v2.webp",
     description: {
       de: "Lethem ist ein wichtiger Verwaltungssitz und eine der bedeutendsten Städte der Region UT in Guyana.",
       hu: "Lethem fontos közigazgatási központ és Guyana UT régiójának egyik legjelentősebb városa.",
@@ -2381,7 +2371,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Mabaruma",
       ro: "Mabaruma",
       en: "Mabaruma"},
-    image: "/poi-images/mabaruma-cities-v2.webp",
     description: {
       de: "Mabaruma ist ein wichtiger Verwaltungssitz und eine der bedeutendsten Städte der Region BA in Guyana.",
       hu: "Mabaruma fontos közigazgatási központ és Guyana BA régiójának egyik legjelentősebb városa.",
@@ -2422,7 +2411,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Mahdia",
       ro: "Mahdia",
       en: "Mahdia"},
-    image: "/poi-images/mahdia-cities-v2.webp",
     description: {
       de: "Mahdia ist ein wichtiger Verwaltungssitz und eine der bedeutendsten Städte der Region PT in Guyana.",
       hu: "Mahdia fontos közigazgatási központ és Guyana PT régiójának egyik legjelentősebb városa.",
@@ -2463,7 +2451,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Port Kaituma",
       ro: "Port Kaituma",
       en: "Port Kaituma"},
-    image: "/poi-images/port-kaituma-cities-v2.webp",
     description: {
       de: "Port Kaituma ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Port Kaituma egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -2602,7 +2589,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Annandale",
       ro: "Annandale",
       en: "Annandale"},
-    image: "/poi-images/annandale-cities-v2.webp",
     description: {
       de: "Annandale ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Annandale egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -2649,7 +2635,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Enmore",
       ro: "Enmore",
       en: "Enmore"},
-    image: "/poi-images/enmore-cities-v2.webp",
     description: {
       de: "Enmore ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Enmore egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -2701,7 +2686,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Lusignan",
       ro: "Lusignan",
       en: "Lusignan"},
-    image: "/poi-images/lusignan-cities-v2.webp",
     description: {
       de: "Lusignan ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Lusignan egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -2753,7 +2737,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Buxton",
       ro: "Buxton",
       en: "Buxton"},
-    image: "/poi-images/buxton-cities-v2.webp",
     description: {
       de: "Buxton ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Buxton egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -2800,7 +2783,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Victoria",
       ro: "Victoria",
       en: "Victoria"},
-    image: "/poi-images/victoria-cities-v2.webp",
     description: {
       de: "Victoria ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Victoria egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -2847,7 +2829,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Paradise",
       ro: "Paradise",
       en: "Paradise"},
-    image: "/poi-images/paradise-cities-v2.webp",
     description: {
       de: "Paradise ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Paradise egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -3011,7 +2992,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Haslington",
       ro: "Haslington",
       en: "Haslington"},
-    image: "/poi-images/haslington-cities-v2.webp",
     description: {
       de: "Haslington ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Haslington egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -3607,7 +3587,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Plaisance",
       ro: "Plaisance",
       en: "Plaisance"},
-    image: "/poi-images/plaisance-cities-v2.webp",
     description: {
       de: "Plaisance ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Plaisance egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -3735,7 +3714,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Triumph",
       ro: "Triumph",
       en: "Triumph"},
-    image: "/poi-images/triumph-cities-v2.webp",
     description: {
       de: "Triumph ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Triumph egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -3899,7 +3877,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Better Hope",
       ro: "Better Hope",
       en: "Better Hope"},
-    image: "/poi-images/better-hope-cities-v2.webp",
     description: {
       de: "Better Hope ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Better Hope egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -4135,7 +4112,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Rosignol",
       ro: "Rosignol",
       en: "Rosignol"},
-    image: "/poi-images/rosignol-cities-v2.webp",
     description: {
       de: "Rosignol ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Rosignol egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -4182,7 +4158,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Bush Lot",
       ro: "Bush Lot",
       en: "Bush Lot"},
-    image: "/poi-images/bush-lot-cities-v2.webp",
     description: {
       de: "Bush Lot ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Bush Lot egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -4274,7 +4249,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Fyrish",
       ro: "Fyrish",
       en: "Fyrish"},
-    image: "/poi-images/fyrish-cities-v2.webp",
     description: {
       de: "Fyrish ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Fyrish egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -4510,7 +4484,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Albion",
       ro: "Albion",
       en: "Albion"},
-    image: "/poi-images/albion-cities-v2.webp",
     description: {
       de: "Albion ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Albion egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -4638,7 +4611,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Port Mourant",
       ro: "Port Mourant",
       en: "Port Mourant"},
-    image: "/poi-images/port-mourant-cities-v2.webp",
     description: {
       de: "Port Mourant ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Port Mourant egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -4766,7 +4738,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Whim",
       ro: "Whim",
       en: "Whim"},
-    image: "/poi-images/whim-cities-v2.webp",
     description: {
       de: "Whim ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Whim egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -4813,7 +4784,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Black Bush Polder",
       ro: "Black Bush Polder",
       en: "Black Bush Polder"},
-    image: "/poi-images/black-bush-polder-cities-v2.webp",
     description: {
       de: "Black Bush Polder ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Black Bush Polder egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -4860,7 +4830,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Springlands",
       ro: "Springlands",
       en: "Springlands"},
-    image: "/poi-images/springlands-cities-v2.webp",
     description: {
       de: "Springlands ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Springlands egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -5384,7 +5353,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Skeldon",
       ro: "Skeldon",
       en: "Skeldon"},
-    image: "/poi-images/skeldon-cities-v2.webp",
     description: {
       de: "Skeldon ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Skeldon egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -5431,7 +5399,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Adventure",
       ro: "Adventure",
       en: "Adventure"},
-    image: "/poi-images/adventure-cities-v2.webp",
     description: {
       de: "Adventure ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Adventure egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -5786,7 +5753,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Charity",
       ro: "Charity",
       en: "Charity"},
-    image: "/poi-images/charity-cities-v2.webp",
     description: {
       de: "Charity ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Charity egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -5833,7 +5799,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Aurora",
       ro: "Aurora",
       en: "Aurora"},
-    image: "/poi-images/aurora-cities-v2.webp",
     description: {
       de: "Aurora ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Aurora egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -5925,7 +5890,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Queenstown",
       ro: "Queenstown",
       en: "Queenstown"},
-    image: "/poi-images/queenstown-cities-v2.webp",
     description: {
       de: "Queenstown ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Queenstown egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -6053,7 +6017,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Parika",
       ro: "Parika",
       en: "Parika"},
-    image: "/poi-images/parika-cities-v2.webp",
     description: {
       de: "Parika ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Parika egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -6253,7 +6216,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Leonora",
       ro: "Leonora",
       en: "Leonora"},
-    image: "/poi-images/leonora-cities-v2.webp",
     description: {
       de: "Leonora ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Leonora egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -6628,7 +6590,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Tuschen",
       ro: "Tuschen",
       en: "Tuschen"},
-    image: "/poi-images/tuschen-cities-v2.webp",
     description: {
       de: "Tuschen ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Tuschen egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -6675,7 +6636,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Meten-Meer-Zorg",
       ro: "Meten-Meer-Zorg",
       en: "Meten-Meer-Zorg"},
-    image: "/poi-images/meten-meer-zorg-cities-v2.webp",
     description: {
       de: "Meten-Meer-Zorg ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Meten-Meer-Zorg egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -6722,7 +6682,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "De Willem",
       ro: "De Willem",
       en: "De Willem"},
-    image: "/poi-images/de-willem-cities-v2.webp",
     description: {
       de: "De Willem ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "De Willem egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -7030,7 +6989,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Ruimveldt",
       ro: "Ruimveldt",
       en: "Ruimveldt"},
-    image: "/poi-images/ruimveldt-cities-v2.webp",
     description: {
       de: "Ruimveldt ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Ruimveldt egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -7158,7 +7116,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "La Grange",
       ro: "La Grange",
       en: "La Grange"},
-    image: "/poi-images/la-grange-cities-v2.webp",
     description: {
       de: "La Grange ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "La Grange egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -7430,7 +7387,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Wales",
       ro: "Wales",
       en: "Wales"},
-    image: "/poi-images/wales-cities-v2.webp",
     description: {
       de: "Wales ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Wales egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -7522,7 +7478,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Pouderoyen",
       ro: "Pouderoyen",
       en: "Pouderoyen"},
-    image: "/poi-images/pouderoyen-cities-v2.webp",
     description: {
       de: "Pouderoyen ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Pouderoyen egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -7616,7 +7571,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Schoonord",
       ro: "Schoonord",
       en: "Schoonord"},
-    image: "/poi-images/schoonord-cities-v2.webp",
     description: {
       de: "Schoonord ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Schoonord egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -7663,7 +7617,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Goed Fortuin",
       ro: "Goed Fortuin",
       en: "Goed Fortuin"},
-    image: "/poi-images/goed-fortuin-cities-v2.webp",
     description: {
       de: "Goed Fortuin ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Goed Fortuin egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -7755,7 +7708,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Vreed-en-Rust",
       ro: "Vreed-en-Rust",
       en: "Vreed-en-Rust"},
-    image: "/poi-images/vreed-en-rust-cities-v2.webp",
     description: {
       de: "Vreed-en-Rust ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Vreed-en-Rust egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -7802,7 +7754,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Bagotville",
       ro: "Bagotville",
       en: "Bagotville"},
-    image: "/poi-images/bagotville-cities-v2.webp",
     description: {
       de: "Bagotville ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Bagotville egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -7849,7 +7800,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Nismes",
       ro: "Nismes",
       en: "Nismes"},
-    image: "/poi-images/nismes-cities-v2.webp",
     description: {
       de: "Nismes ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Nismes egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -8037,7 +7987,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Orinduik",
       ro: "Orinduik",
       en: "Orinduik"},
-    image: "/poi-images/orinduik-cities-v2.webp",
     description: {
       de: "Orinduik ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Orinduik egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -8201,7 +8150,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Paramakatoi",
       ro: "Paramakatoi",
       en: "Paramakatoi"},
-    image: "/poi-images/paramakatoi-cities-v2.webp",
     description: {
       de: "Paramakatoi ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Paramakatoi egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -8248,7 +8196,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Kato",
       ro: "Kato",
       en: "Kato"},
-    image: "/poi-images/kato-cities-v2.webp",
     description: {
       de: "Kato ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Kato egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -8448,7 +8395,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Annai",
       ro: "Annai",
       en: "Annai"},
-    image: "/poi-images/annai-cities-v2.webp",
     description: {
       de: "Annai ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Annai egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -8540,7 +8486,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Surama",
       ro: "Surama",
       en: "Surama"},
-    image: "/poi-images/surama-cities-v2.webp",
     description: {
       de: "Surama ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Surama egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -8587,7 +8532,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Gunns",
       ro: "Gunns",
       en: "Gunns"},
-    image: "/poi-images/gunns-cities-v2.webp",
     description: {
       de: "Gunns ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Gunns egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -8679,7 +8623,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Kumaka",
       ro: "Kumaka",
       en: "Kumaka"},
-    image: "/poi-images/kumaka-cities-v2.webp",
     description: {
       de: "Kumaka ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Kumaka egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",

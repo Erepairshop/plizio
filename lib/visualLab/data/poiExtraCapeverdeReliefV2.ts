@@ -201,7 +201,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       hu: "Monte Verde",
       ro: "Monte Verde",
       en: "Monte Verde"},
-    image: "/poi-images/monte-verde-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Monte Verde ist mit einer Höhe von 750 Metern die höchste Erhebung der Insel São Vicente und bildet das markante Zentrum des gleichnamigen Naturparks. Aufgrund seiner exponierten Lage fängt das Massiv häufig Passatwolken ein, was im Gegensatz zur sonst eher ariden Umgebung der Insel eine vergleichsweise üppige Vegetation ermöglicht. Auf dem Gipfel befinden sich mehrere Sendeanlagen und militärische Einrichtungen, während die Flanken von terrassierten Feldern geprägt sind, auf denen lokale Bauern unter schwierigen Bedingungen Landwirtschaft betreiben. Geologisch besteht das Massiv aus vulkanischem Gestein, das Zeugnis von der Entstehungsgeschichte der Kapverden ablegt. Der Aufstieg bietet Wanderern ein Panorama, das bei klarem Wetter bis zu den Nachbarinseln Santo Antão und Santa Luzia reicht. Heute ist der Berg ein wichtiges Ziel für den Ökotourismus und dient als wertvolles Forschungsgebiet für die endemische Flora der Region.",
       hu: "A Monte Verde 750 méteres magasságával São Vicente szigetének legmagasabb pontja, és a sziget középső részén elhelyezkedő azonos nevű natúrpark központja. Különleges elhelyezkedése miatt a hegy gyakran befogja az északkeleti passzátszeleket, így a csúcs környékén kialakuló ködös mikroklíma lehetővé teszi a sziget többi részére nem jellemző dúsabb vegetáció fejlődését. A hegytetőn távközlési tornyok és katonai létesítmények kaptak helyet, míg a lejtőkön teraszos földművelés zajlik, ahol a helyiek küzdenek az erózióval és a szárazsággal. Geológiailag a hegység vulkáni eredetű, meredek falai és mély völgyei a sziget kialakulásának korai szakaszait reprezentálják. A túrázók számára kijelölt ösvények vezetnek a csúcsra, ahonnan tiszta időben belátható a teljes Porto Grande-öböl, valamint a szomszédos Santo Antão és Santa Luzia szigete is. A terület kiemelt védelmet élvez, mivel számos olyan ritka növényfaj él itt, amely kizárólag a Zöld-foki-szigeteken található meg.",
@@ -525,7 +524,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       hu: "Bordeira do Fogo",
       ro: "Bordeira do Fogo",
       en: "Bordeira do Fogo"},
-    image: "/poi-images/bordeira-do-fogo-relief-v2.webp",
     descriptionAdvanced: {
       de: "Die Bordeira do Fogo ist eine monumentale Felswand auf der Insel Fogo, die den westlichen Rand der riesigen Chã das Caldeiras markiert. Diese halbkreisförmige Steilwand ragt bis zu 1000 Meter über den Boden der Caldera empor und erreicht an ihrem höchsten Punkt eine Gesamthöhe von etwa 2700 Metern über dem Meeresspiegel. Sie stellt den Überrest eines gewaltigen vulkanischen Einsturzes dar, der sich vor Hunderttausenden von Jahren ereignete, als der ursprüngliche Gipfel des Vulkans in den Ozean stürzte. Die Felswand zeigt beeindruckende geologische Schichten aus erstarrter Lava und Asche, die wie ein offenes Buch der Erdgeschichte wirken. Im Inneren der von der Bordeira umschlossenen Ebene leben Menschen in kleinen Siedlungen wie Portela und Bangaeira, trotz der ständigen Bedrohung durch den aktiven Pico do Fogo. Die Bordeira schützt die Siedlungen teilweise vor den Passatwinden, erzeugt aber auch gefährliche Fallwinde während schwerer Stürme. Für Wanderer bietet der Kammweg auf der Bordeira eine der spektakulärsten Aussichten im gesamten Atlantikraum.",
       hu: "A Bordeira do Fogo egy gigantikus sziklafal Fogo szigetén, amely a Chã das Caldeiras hatalmas kalderájának nyugati szegélyét alkotja. Ez a félköríves meredély helyenként 1000 méterrel magasodik a kaldera alja fölé, legmagasabb pontjai pedig elérik a tengerszint feletti 2700 méteres magasságot. A fal egy százezer évvel ezelőtti katasztrofális vulkáni omlás maradványa, amikor az ősvulkán jelentős része az óceánba csúszott, létrehozva ezt a drámai peremet. A sziklafal rétegeiben jól láthatók a különböző korokból származó megkövedett lávafolyamok és hamulerakódások, amelyek a sziget geológiai fejlődésének dokumentumai. A Bordeira által körbezárt területen, a Chã das Caldeiras-ban olyan települések találhatók, mint Portela és Bangaeira, ahol a lakók a Pico do Fogo állandó közelségében élnek. A masszív fal részben felfogja az uralkodó szeleket, de a viharok idején fellépő turbulenciák veszélyt is jelenthetnek. A Bordeira peremén vezető túraútvonalak lélegzetelállító kilátást nyújtanak az aktív vulkáni kúpra és a környező megkövült lávamezőkre.",
@@ -651,7 +649,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       hu: "Monte Trigo",
       ro: "Monte Trigo",
       en: "Monte Trigo"},
-    image: "/poi-images/monte-trigo-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Monte Trigo ist eine markante Erhebung im äußersten Westen der Insel Santo Antão, nahe dem abgelegensten Dorf der Kapverden, das denselben Namen trägt. Die Region ist durch ein extrem schroffes Relief gekennzeichnet, in dem steile Klippen direkt in den Atlantik abfallen. Geologisch gehört das Gebiet zum massiven Vulkanbau des Topo de Coroa, wobei der Monte Trigo eine bedeutende Flanke dieses Systems bildet. Aufgrund der Isolation ist die Landschaft fast unberührt und von einer spärlichen, aber spezialisierten Flora geprägt, die an die extreme Trockenheit angepasst ist. Der Zugang zum Berg und dem umliegenden Gebiet ist schwierig und erfolgt meist auf dem Seeweg oder über mehrtägige Wanderungen durch unwegsames Gelände. In der Nähe des Berges wurde das erste Dorf der Kapverden gegründet, das seinen Strombedarf zu 100 % aus Solarenergie deckt, was den Monte Trigo zu einem Symbol für Nachhaltigkeit macht. Die Gewässer rund um den Fuß des Berges sind bekannt für ihren Reichtum an Meeresfauna und ziehen Taucher sowie Forscher gleichermaßen an.",
       hu: "A Monte Trigo egy markáns kiemelkedés Santo Antão szigetének távoli nyugati részén, az azonos nevű, rendkívül elszigetelt falu közelében. A régiót extrém módon tagolt domborzat jellemzi, ahol a hatalmas sziklafalak közvetlenül az Atlanti-óceán mélykék vizébe szakadnak. Geológiailag a terület a Topo de Coroa vulkáni rendszeréhez tartozik, a Monte Trigo pedig ennek a rendszernek az egyik meghatározó nyugati nyúlványa. Az elszigeteltségnek köszönhetően a táj szinte érintetlen, a vegetáció ritkás, de különleges, alkalmazkodva a területen uralkodó állandó szárazsághoz és az erős sós szélhez. A hegy megközelítése rendkívül nehéz, leginkább csak tengeri úton vagy többnapos, embert próbáló túrával lehetséges a sziget belseje felől. A hegy lábánál fekvő falu volt az első a Zöld-foki-szigeteken, amely teljes egészében napelemes energiával biztosítja áramellátását, így a Monte Trigo a fenntarthatóság jelképévé is vált. A part menti vizek gazdag tengeri élővilága miatt a terület a kutatók és a búvárok körében is kiemelt jelentőséggel bír.",
@@ -885,7 +882,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       hu: "Monte Grande",
       ro: "Monte Grande",
       en: "Monte Grande"},
-    image: "/poi-images/monte-grande-sal-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Monte Grande ist mit einer Höhe von 406 Metern die höchste Erhebung der ansonsten flachen Wüsteninsel Sal. Er befindet sich im nördlichen Teil der Insel und hebt sich markant von der umliegenden Kalkstein- und Sandlandschaft ab. Geologisch handelt es sich um einen alten Vulkankegel, der durch die langsame Erosion über Millionen von Jahren seine heutige abgerundete Form erhalten hat. Trotz seiner geringen absoluten Höhe ist der Berg ein wichtiger Orientierungspunkt für Seefahrer und Wanderer gleichermaßen. Das Gebiet rund um den Monte Grande ist offiziell als Naturschutzgebiet ausgewiesen, um die seltene Wüstenflora und die hier nistenden Greifvögel zu schützen. Vom Gipfel aus bietet sich ein beeindruckender Blick über die gesamte Insel, einschließlich der Salzpfannen von Pedra de Lume und des internationalen Flughafens. Für Besucher stellt der Aufstieg eine willkommene Abwechslung zum Strandtourismus dar und ermöglicht Einblicke in die raue, vulkanische Seele der Insel.",
       hu: "A Monte Grande 406 méteres magasságával a sík és sivatagos Sal szigetének legmagasabb pontja. A sziget északi részén emelkedik ki, éles kontrasztot alkotva a környező mészköves és homokos síkságokkal. Geológiailag egy ősi vulkáni kúp maradványa, amely az évmilliók során zajló erózió hatására nyerte el mai, kissé lekerekített formáját. Annak ellenére, hogy abszolút értékben nem magas, a hegy fontos tájékozódási pontként szolgál a hajósok és a szigeten közlekedők számára. A Monte Grande környéke hivatalosan természetvédelmi területnek minősül, célja a ritka sivatagi növényzet és az itt fészkelő ragadozó madarak populációjának megőrzése. A csúcsról tiszta időben az egész sziget belátható, beleértve a Pedra de Lume sólepárlóit és a távolabbi dűnéket is. A túrázók számára viszonylag könnyű kihívást jelent, és lehetőséget ad arra, hogy a látogatók megismerjék Sal szigetének geológiai eredetét a népszerű tengerparti üdülőhelyeken túl.",
@@ -1119,7 +1115,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       hu: "Monte Penoso",
       ro: "Monte Penoso",
       en: "Monte Penoso"},
-    image: "/poi-images/monte-penoso-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Monte Penoso ist mit 436 Metern die höchste Erhebung der Insel Maio und bildet das Zentrum eines wichtigen Naturschutzgebietes. Er liegt im östlichen Teil der Insel und ist ein markantes Beispiel für die vulkanische Vergangenheit Maios, die heute weitgehend von Erosion gezeichnet ist. Der Berg besteht hauptsächlich aus phonolithischem Gestein und Lavadomen, die steil aus der umgebenden Ebene aufragen. Aufgrund der isolierten Lage haben sich am Monte Penoso mehrere endemische Pflanzenarten erhalten, die in der trockenen Umgebung der Insel sonst selten zu finden sind. Das Plateau rund um den Berg bietet Lebensraum für gefährdete Vogelarten und ist ein bedeutendes Forschungsgebiet für Geologen, die hier die Hebungsgeschichte der Insel studieren. Für Besucher bietet der Monte Penoso die beste Aussicht über Maio, von den weiten Salzwiesen im Westen bis zu den einsamen Stränden im Osten. Die Besteigung gilt als moderat und ist ein Muss für Naturliebhaber, die die stille Schönheit dieser weniger besuchten Insel entdecken möchten.",
       hu: "A 436 méter magas Monte Penoso Maio szigetének legmagasabb pontja, amely egy kiemelt jelentőségű természetvédelmi terület szívében található. A sziget keleti részén elhelyezkedő hegy Maio vulkáni múltjának egyik leglátványosabb tanújele, amely az évmilliók során bekövetkezett erős erózió ellenére is megőrizte karakteres formáját. Geológiai felépítését tekintve főként fonolit kőzetek és lávadómok alkotják, amelyek meredeken emelkednek ki a környező lankás vidékről. Az elszigetelt fekvésnek köszönhetően a Monte Penoso lejtőin számos olyan bennszülött növényfaj maradt fenn, amelyek a sziget szárazabb részein már ritkaságnak számítanak. A hegy körüli fennsík fontos élőhelyet biztosít több veszélyeztetett madárfaj számára, és a geológusok kedvelt kutatóhelye a sziget felemelkedésének tanulmányozására. A csúcsról nyílik a legszebb kilátás Maio szigetére, belátva a nyugati sós mocsarakat és a keleti part érintetlen homokos strandjait. A túra a csúcsra mérsékelten nehéz, de felejthetetlen élményt nyújt azoknak, akik a Zöld-foki-szigetek e kevésbé ismert szegletét keresik fel.",
@@ -1164,7 +1159,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       hu: "Monte Batalha",
       ro: "Monte Batalha",
       en: "Monte Batalha"},
-    image: "/poi-images/monte-batalha-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Monte Batalha ist eine markante geologische Formation im Norden der Insel Maio, die sich durch ihre charakteristische Kegelform auszeichnet. Mit einer Höhe von etwa 190 Metern ist er zwar niedriger als der Monte Penoso, dominiert aber dennoch die umliegende Halbwüstenlandschaft. Er ist Teil eines Ensembles von vulkanischen Überresten, die Zeugnis von der komplexen Entstehungsgeschichte der Insel ablegen. Die Flanken des Berges sind weitgehend kahl, weisen aber interessante geologische Aufschlüsse auf, die für das Studium der regionalen Tektonik von Bedeutung sind. In der Nähe des Berges befinden sich kleine ländliche Siedlungen, die von der traditionellen Ziegenhaltung und dem Trockenfeldbau leben. Der Monte Batalha dient den Einheimischen oft als Orientierungshilfe und ist mit lokalen Legenden über die frühe Besiedlung der Insel verknüpft. Wanderer schätzen den kurzen, aber steilen Aufstieg wegen der weiten Aussicht auf die Nordküste von Maio und die umliegenden Akazienwälder, die im Rahmen von Aufforstungsprogrammen angelegt wurden.",
       hu: "A Monte Batalha egy karakteres geológiai képződmény Maio szigetének északi részén, amely jellegzetes kúp alakjáról ismerhető fel. Bár magassága csak körülbelül 190 méter, így elmarad a Monte Penoso mögött, mégis meghatározó eleme a környező félsivatagi tájnak. A hegy azoknak a vulkáni maradványoknak a része, amelyek a sziget komplex kialakulásának korai szakaszairól tanúskodnak. Oldalai nagyrészt kopárak, de a felszínre bukkanó kőzetrétegek fontos információkkal szolgálnak a regionális tektonikai folyamatok tanulmányozásához. A hegy közelében kis vidéki települések találhatók, ahol a lakók hagyományos kecsketartásból és szárazművelésű mezőgazdaságból élnek. A Monte Batalha a helyiek számára fontos tájékozódási pont, és számos helyi legenda kötődik hozzá a sziget korai benépesülésével kapcsolatban. A túrázók kedvelik a rövid, de meredek kaptatót, mivel a csúcsról pazar kilátás nyílik Maio északi partvidékére és a közelben telepített akácerdőkre.",
@@ -1254,7 +1248,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       hu: "Monte Duarte",
       ro: "Monte Duarte",
       en: "Monte Duarte"},
-    image: "/poi-images/monte-duarte-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Monte Duarte ist eine markante Erhebung auf der Insel São Nicolau, die sich im zentral-östlichen Teil der Insel befindet. Mit einer Höhe von etwa 444 Metern bietet er eine beeindruckende Aussicht auf die zerklüftete Küstenlinie und die umliegenden Täler. Geologisch ist der Berg Teil des alten vulkanischen Massivs von São Nicolau, das durch tiefe Erosion und steile Abgründe geprägt ist. Die Landschaft um den Monte Duarte ist oft trocken, zeigt aber nach Regenfällen eine überraschende Verwandlung in ein sattes Grün. In der Nähe des Berges liegen traditionelle Dörfer, in denen die Zeit stehengeblieben zu sein scheint und wo der Anbau von Zuckerrohr und Mais noch heute die Lebensgrundlage bildet. Der Berg ist über alte Pfade erreichbar, die früher die einzigen Verbindungswege zwischen den isolierten Siedlungen waren. Für Wanderer stellt der Monte Duarte ein Ziel dar, das fernab der ausgetretenen Pfade liegt und authentische Einblicke in das ländliche Leben der Kapverden ermöglicht. Die Ruhe und die Weite der Landschaft machen diesen Ort zu einem Geheimtipp für Naturfotografen.",
       hu: "A Monte Duarte egy markáns kiemelkedés São Nicolau szigetén, amely a sziget közép-keleti részén helyezkedik el. Körülbelül 444 méteres magasságával lenyűgöző kilátást nyújt a szabdalt partvonalra és a környező völgyekre. Geológiailag a hegy São Nicolau ősi vulkáni masszívumának része, amelyet mély erózió és meredek szakadékok jellemeznek. A Monte Duarte körüli táj az év nagy részében száraz, de az esőzések után meglepő módon buja zöldbe borul. A hegy közelében hagyományos falvak találhatók, ahol az idő mintha megállt volna, és ahol a cukornád- valamint a kukoricatermesztés ma is a megélhetés alapját jelenti. A hegy régi ösvényeken érhető el, amelyek egykor az egyetlen összeköttetést jelentették az elszigetelt települések között. A túrázók számára a Monte Duarte olyan célpont, amely távol esik a kitaposott ösvényektől, és hiteles betekintést nyújt a Zöld-foki-szigetek vidéki életébe. A táj nyugalma és tágassága miatt a hely a természetfotósok körében is titkos tippnek számít.",
@@ -1380,7 +1373,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       hu: "Pico da Antónia",
       ro: "Pico da Antónia",
       en: "Pico da Antónia"},
-    image: "/poi-images/pico-da-antonia-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Pico da Antónia ist mit 1392 Metern die höchste Erhebung der Insel Santiago und das Herzstück des gleichnamigen Naturparks. Das Massiv dominiert den zentralen Teil der Insel und ist ein beeindruckendes Beispiel für die vulkanische Kraft, die den kapverdischen Archipel geformt hat. Geologisch besteht der Berg aus komplexen Formationen von Basalt und Phonolith, die durch Jahrmillionen der Erosion tief zerklüftet wurden. Aufgrund seiner Höhe fängt der Pico da Antónia feuchte Luftmassen ein, was im Gipfelbereich eine dichte Vegetation und sogar Nebelwälder ermöglicht, die einen scharfen Kontrast zu den trockenen Küstengebieten bilden. Der Park schützt zahlreiche endemische Pflanzen- und Tierarten, darunter seltene Vögel wie den Zwergreiher. Für Wanderer bietet der Aufstieg zum Gipfel eine der anspruchsvollsten, aber lohnendsten Erfahrungen auf den Kapverden, mit Ausblicken, die bei gutem Wetter die gesamte Insel Santiago und die Nachbarinseln Fogo und Maio umfassen. Kulturell ist der Berg tief im Bewusstsein der lokalen Bevölkerung verwurzelt und spielt eine Rolle in vielen regionalen Erzählungen.",
       hu: "A Pico da Antónia 1392 méteres magasságával Santiago szigetének legmagasabb pontja, és az azonos nevű natúrpark központi eleme. A hegység uralja a sziget középső részét, és lenyűgöző példája annak a vulkáni erőnek, amely a Zöld-foki-szigeteket létrehozta. Geológiailag a hegy bazalt és fonolit komplex képződményeiből áll, amelyeket az évmilliók során az erózió mélyen tagolttá tett. Magasságának köszönhetően a Pico da Antónia felfogja a nedves légtömegeket, ami a csúcs környékén sűrű vegetációt, sőt köderdőket tesz lehetővé, éles kontrasztot alkotva a sziget szárazabb partmenti területeivel. A park számos bennszülött növény- és állatfajt védelmez, köztük olyan ritka madarakat, mint a zöld-foki-szigeteki gém. A túrázók számára a csúcsra vezető út az egyik legnehezebb, de legkifizetődőbb élmény a szigeteken: tiszta időben az egész sziget, valamint a szomszédos Fogo és Maio is belátható innen. Kulturális szempontból a hegy mélyen beágyazódott a helyi lakosság tudatába, és számos regionális történetben és legendában szerepel.",
@@ -1542,7 +1534,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       hu: "Monte Tchota",
       ro: "Monte Tchota",
       en: "Monte Tchota"},
-    image: "/poi-images/monte-tchota-relief-v2.webp",
     description: {
       de: "Ein bewaldeter Berg im zentralen Hochland von Santiago, bekannt für seine kühleren Temperaturen und die reiche Vogelwelt.",
       hu: "Egy erdős hegy Santiago központi fennsíkján, amely hűvösebb hőmérsékletéről és gazdag madárvilágáról ismert.",
@@ -1779,7 +1770,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       hu: "Morro de Areia",
       ro: "Morro de Areia",
       en: "Morro de Areia"},
-    image: "/poi-images/morro-de-areia-relief-v2.webp",
     description: {
       de: "Ein ausgedehntes Gebiet mit Wanderdünen an der Westküste von Boa Vista, das eine beeindruckende Wüstenlandschaft direkt am Atlantik bildet.",
       hu: "Boa Vista nyugati partján fekvő kiterjedt vándordűnés terület, amely lenyűgöző sivatagi tájat alkot közvetlenül az Atlanti-óceán partján.",
@@ -1832,7 +1822,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       hu: "Monte Semedo",
       ro: "Monte Semedo",
       en: "Monte Semedo"},
-    image: "/poi-images/monte-semedo-relief-v2.webp",
     description: {
       de: "Ein markanter Gipfel im Norden von Santiago, der durch seine steilen Felswände und die karge, felsige Umgebung beeindruckt.",
       hu: "Egy jellegzetes csúcs Santiago északi részén, amely meredek sziklafalaival és kopár, sziklás környezetével nyűgöz le.",
@@ -1880,7 +1869,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       hu: "Monte Cintinha",
       ro: "Monte Cintinha",
       en: "Monte Cintinha"},
-    image: "/poi-images/monte-cintinha-relief-v2.webp",
     description: {
       de: "Ein markanter Berg auf São Nicolau, der die Silhouette der Insel prägt und ein wichtiges Wandergebiet im Zentrum darstellt.",
       hu: "Egy jellegzetes hegy São Nicolau szigetén, amely meghatározza a sziget sziluettjét, és fontos túrázóhely a központi részen.",
@@ -1973,7 +1961,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       hu: "Monte Biao",
       ro: "Monte Biao",
       en: "Monte Biao"},
-    image: "/poi-images/monte-biao-relief-v2.webp",
     description: {
       de: "Einer der höchsten Punkte von São Nicolau, umgeben von zerklüfteten Tälern und kleinen Bergdörfern.",
       hu: "São Nicolau egyik legmagasabb pontja, amelyet tagolt völgyek és kis hegyi falvak vesznek körül.",
@@ -2114,7 +2101,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       hu: "Monte Curral",
       ro: "Monte Curral",
       en: "Monte Curral"},
-    image: "/poi-images/monte-curral-relief-v2.webp",
     description: {
       de: "Ein Berg im Herzen der Stadt Espargos auf Sal, der heute als Standort für Kommunikationseinrichtungen dient.",
       hu: "Egy hegy Espargos városának szívében, Sal-szigeten, amely ma kommunikációs létesítmények helyszínéül szolgál.",
@@ -2207,7 +2193,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       hu: "Monte Arruda",
       ro: "Monte Arruda",
       en: "Monte Arruda"},
-    image: "/poi-images/monte-arruda-relief-v2.webp",
     description: {
       de: "Der höchste Gipfel der unbewohnten Insel Santa Luzia, der eine spektakuläre Aussicht auf die Nachbarinseln bietet.",
       hu: "A lakatlan Santa Luzia-sziget legmagasabb csúcsa, ahonnan látványos kilátás nyílik a szomszédos szigetekre.",
@@ -2408,7 +2393,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       hu: "Monte Joaquim",
       ro: "Monte Joaquim",
       en: "Monte Joaquim"},
-    image: "/poi-images/monte-joaquim-relief-v2.webp",
     description: {
       de: "Ein Hügel im Norden von Boa Vista, der aus der flachen Küstenebene ragt und ein wichtiger Brutplatz für Seevögel ist.",
       hu: "Egy domb Boa Vista északi részén, amely kiemelkedik a lapos tengerparti síkságból, és fontos fészkelőhely a tengeri madarak számára.",

@@ -129,7 +129,6 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
       hu: "Szent Péter és Pál-székesegyház",
       ro: "Catedrala Sf. Petru și Pavel",
       en: "Saint Peter and Paul Cathedral"},
-    image: "/poi-images/st-peter-paul-cathedral-landmarks-v2.webp",
     description: {
       de: "Eine beeindruckende Holzkirche in Paramaribo und die größte ihrer Art in Südamerika.",
       hu: "Egy lenyűgöző fatemplom Paramaribóban, és a legnagyobb ilyen jellegű építmény Dél-Amerikában.",
@@ -221,7 +220,6 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
       hu: "Paramaribo Központi Piac",
       ro: "Piața Centrală din Paramaribo",
       en: "Paramaribo Central Market"},
-    image: "/poi-images/centrale-markt-paramaribo-landmarks-v2.webp",
     description: {
       de: "Der größte überdachte Markt in der Karibik, bekannt für seine Vielfalt an Waren.",
       hu: "A Karib-térség legnagyobb fedett piaca, amely áruinak sokszínűségéről ismert.",
@@ -268,7 +266,6 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
       hu: "Neveh Shalom Zsinagóga",
       ro: "Sinagoga Neveh Shalom",
       en: "Neveh Shalom Synagogue"},
-    image: "/poi-images/neveh-shalom-synagogue-landmarks-v2.webp",
     description: {
       de: "Eine historische Synagoge in Paramaribo, die für ihren Sandboden bekannt ist.",
       hu: "Egy történelmi zsinagóga Paramaribóban, amely homokos padlójáról híres.",
@@ -468,7 +465,6 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
       hu: "Ahmadiyya Mecset",
       ro: "Moscheea Ahmadiyya",
       en: "Ahmadiyya Mosque"},
-    image: "/poi-images/ahmadiyya-mosque-landmarks-v2.webp",
     description: {
       de: "Eine wichtige Moschee in der Hauptstadt, die friedlich neben einer Synagoge steht.",
       hu: "Egy fontos mecset a fővárosban, amely békésen áll egy zsinagóga mellett.",
@@ -515,7 +511,6 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
       hu: "Jules Wijdenbosch híd",
       ro: "Podul Jules Wijdenbosch",
       en: "Jules Wijdenbosch Bridge"},
-    image: "/poi-images/jules-wijdenboschbrug-landmarks-v2.webp",
     description: {
       de: "Eine massive Brücke über den Suriname-Fluss, die Paramaribo mit Meerzorg verbindet.",
       hu: "Egy hatalmas híd a Suriname-folyó felett, amely Paramaribót köti össze Meerzorg-gal.",
@@ -562,7 +557,6 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
       hu: "Függetlenség tere",
       ro: "Piața Independenței",
       en: "Independence Square"},
-    image: "/poi-images/onafhankelijkheidsplein-landmarks-v2.webp",
     description: {
       de: "Das historische Zentrum von Paramaribo, umgeben von wichtigen Regierungsgebäuden.",
       hu: "Paramaribo történelmi központja, amelyet fontos kormányzati épületek vesznek körül.",
@@ -690,7 +684,6 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
       hu: "Pálmakert",
       ro: "Grădina cu palmieri",
       en: "Palmentuin"},
-    image: "/poi-images/palmentuin-landmarks-v2.webp",
     description: {
       de: "Ein historischer Park voller Königspalmen, der hinter dem Präsidentenpalast liegt.",
       hu: "Egy történelmi park tele királypálmákkal, amely az Elnöki Palota mögött található.",
@@ -737,7 +730,6 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
       hu: "Elnöki Palota",
       ro: "Palatul Prezidențial",
       en: "Presidential Palace"},
-    image: "/poi-images/presidential-palace-landmarks-v2.webp",
     description: {
       de: "Ein markantes weißes Gebäude, das als offizielle Residenz des Präsidenten dient.",
       hu: "Egy jellegzetes fehér épület, amely az elnök hivatalos rezidenciájaként szolgál.",

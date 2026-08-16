@@ -269,7 +269,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-HA",
     coords: [31.0494, -17.8174],
     name: { de: "Harare Botanischer Garten", hu: "Hararei Botanikus Kert", ro: "Grădina Botanică din Harare", en: "Harare Botanical Gardens"},
-    image: "/poi-images/harare-botanical-gardens-life-v2.webp",
     description: { de: "Ein großer botanischer Garten in Harare mit vielen heimischen Pflanzen.", hu: "Egy nagy botanikus kert Hararében, sok őshonos növénnyel.", ro: "O grădină botanică mare din Harare cu multe plante native.", en: "A large botanical garden in Harare with many native plants." , es: "Un gran jardín botánico en Harare con muchas plantas autóctonas.", pt: "Um grande jardim botânico em Harare com muitas plantas nativas.", fr: "Un grand jardin botanique à Harare avec de nombreuses plantes indigènes."},
     facts: {
       de: ["Beheimatet über 900 Pflanzenarten.", "Beliebt für Picknicks."],
@@ -350,7 +349,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-HA",
     coords: [30.8524, -17.9254],
     name: { de: "Kuimba Shiri Vogelpark", hu: "Kuimba Shiri Madárpark", ro: "Parcul de Păsări Kuimba Shiri", en: "Kuimba Shiri Bird Park"},
-    image: "/poi-images/kuimba-shiri-bird-park-life-v2.webp",
     description: { de: "Ein Vogelschutzgebiet am Lake Chivero.", hu: "Madárvédelmi terület a Chivero-tónál.", ro: "O rezervație de păsări pe malul lacului Chivero.", en: "A bird sanctuary on the shores of Lake Chivero." , es: "Una reserva de aves en el lago Chivero.", pt: "Uma reserva de aves no Lago Chivero.", fr: "Un sanctuaire d'oiseaux au bord du lac Chivero."},
     facts: {
       de: ["Rettungsstation für verletzte Vögel.", "Über 400 Vogelarten in der Region."],
@@ -386,7 +384,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-MA",
     coords: [32.6288, -20.1917],
     name: { de: "Chipinge Kaffeeregion", hu: "Chipinge Kávé Régió", ro: "Regiunea de Cafea Chipinge", en: "Chipinge Coffee Region"},
-    image: "/poi-images/chipinge-coffee-region-life-v2.webp",
     description: { de: "Ein bekanntes landwirtschaftliches Gebiet für den Kaffeeanbau.", hu: "Ismert mezőgazdasági terület a kávétermesztéshez.", ro: "O zonă agricolă cunoscută pentru cultivarea cafelei.", en: "A well-known agricultural area for coffee cultivation." , es: "Una conocida zona agrícola para el cultivo de café.", pt: "Uma área agrícola conhecida pelo cultivo de café.", fr: "Une zone agricole réputée pour sa culture du café."},
     facts: {
       de: ["Ideal für hochwertigen Arabica-Kaffee.", "Hochlandklima begünstigt das Wachstum."],
@@ -422,7 +419,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-MV",
     coords: [31.5000, -21.0000],
     name: { de: "Lowveld Zuckerrohrplantagen", hu: "Lowveld Cukornád Ültetvények", ro: "Plantațiile de Trestie de Zahăr Lowveld", en: "Lowveld Sugar Plantations"},
-    image: "/poi-images/lowveld-sugar-plantations-life-v2.webp",
     description: { de: "Große Plantagen für den Zuckerrohranbau im Südosten.", hu: "Nagy ültetvények a cukornád termesztéséhez délkeleten.", ro: "Plantații mari pentru cultivarea trestiei de zahăr în sud-est.", en: "Large plantations for sugar cane cultivation in the southeast." , es: "Grandes plantaciones para el cultivo de caña de azúcar en el sureste.", pt: "Grandes plantações para o cultivo de cana-de-açúcar no sudeste.", fr: "Grandes plantations pour la culture de la canne à sucre dans le sud-est."},
     facts: {
       de: ["Wichtigster Zuckerproduzent Zimbabwes.", "Bewässerung durch große Staudämme."],
@@ -458,7 +454,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-MV",
     coords: [30.9, -20.5],
     name: { de: "Drakensberg Naturschutzzentrum", hu: "Drakensberg Természetvédelmi Központ", ro: "Centrul de Conservare Drakensberg", en: "Drakensberg Conservation Center"},
-    image: "/poi-images/drakensberg-conservation-center-life-v2.webp",
     description: { de: "Ein Schutzzentrum für Wildtiere in der Region.", hu: "Vadvédelmi központ a régióban.", ro: "Un centru de conservare a faunei sălbatice în regiune.", en: "A wildlife conservation center in the region." , es: "Un centro de protección para la fauna silvestre de la región.", pt: "Um centro de proteção da vida selvagem na região.", fr: "Un centre de protection de la faune sauvage dans la région."},
     facts: {
       de: ["Fokus auf Schutz bedrohter Arten.", "Bildungsprogramme für Schüler."],
@@ -647,7 +642,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-MN",
     coords: [28.5, -20.5],
     name: { de: "Matobo Nashorn-Lebensraum", hu: "Matobo Orrszarvú Élőhely", ro: "Habitatul de Rinoceri Matobo", en: "Matobo Rhino Habitat"},
-    image: "/poi-images/matobo-rhino-habitat-life-v2.webp",
     description: { de: "Ein bekanntes Reservat zum Schutz des Breit- und Spitzmaulnashorns.", hu: "Ismert rezervátum a széles- és keskenyszájú orrszarvú védelmére.", ro: "O rezervație cunoscută pentru protejarea rinocerului alb și negru.", en: "A known reserve for protecting white and black rhinos." , es: "Una conocida reserva para la protección de los rinocerontes blancos y negros.", pt: "Uma reserva conhecida para a proteção do rinoceronte-branco e do rinoceronte-negro.", fr: "Une réserve renommée pour la protection des rhinocéros blancs et noirs."},
     facts: {
       de: ["Weltweit wichtiges Schutzgebiet für Nashörner.", "Teil des Matobo-Nationalparks."],
@@ -728,7 +722,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-ME",
     coords: [31.5, -18.5],
     name: { de: "Hwedza Landwirtschaftsgebiet", hu: "Hwedza Mezőgazdasági Régió", ro: "Regiunea Agricolă Hwedza", en: "Hwedza Farming District"},
-    image: "/poi-images/hwedza-farming-district-life-v2.webp",
     description: { de: "Ein landwirtschaftlich intensiv genutztes Gebiet mit Fokus auf Mais und Tabak.", hu: "Intenzíven mezőgazdasági terület, kukorica és dohánytermesztéssel.", ro: "O zonă agricolă intens utilizată, cu accent pe porumb și tutun.", en: "An intensely farmed district with focus on maize and tobacco." , es: "Una zona de agricultura intensiva centrada en el maíz y el tabaco.", pt: "Uma área de agricultura intensiva centrada no milho e no tabaco.", fr: "Une zone agricole intensive axée sur le maïs et le tabac."},
     facts: {
       de: ["Traditionelle Tabakanbaugebiete.", "Wichtige Nahrungsmittelquelle."],
@@ -764,7 +757,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-MA",
     coords: [32.7, -18.2],
     name: { de: "Nyanga Forellenfarm", hu: "Nyanga Pisztráng Farm", ro: "Ferma de Păstrăvi Nyanga", en: "Nyanga Trout Farm"},
-    image: "/poi-images/nyanga-trout-farm-life-v2.webp",
     description: { de: "Forellenzucht in den kühlen Höhenlagen von Nyanga.", hu: "Pisztrángtenyésztés Nyanga hűvös magaslataiban.", ro: "Păstrăvărie în zonele înalte și răcoroase din Nyanga.", en: "Trout farming in the cool highlands of Nyanga." , es: "Cría de truchas en las frescas alturas de Nyanga.", pt: "Criação de trutas nas frescas terras altas de Nyanga.", fr: "Élevage de truites dans les hauteurs fraîches de Nyanga."},
     facts: {
       de: ["Beliebtes Ziel für Angler.", "Frisches Bergwasser aus den Flüssen."],
@@ -800,7 +792,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-MI",
     coords: [29.8, -19.4],
     name: { de: "Gweru Antilopenpark", hu: "Gweru Antilop Park", ro: "Parcul Antilopelor Gweru", en: "Gweru Antelope Park"},
-    image: "/poi-images/gweru-antelope-park-life-v2.webp",
     description: { de: "Ein Schutzgebiet, das sich auf Löwen und andere Wildtiere konzentriert.", hu: "Védett terület, amely oroszlánokra és más vadvilágra fókuszál.", ro: "O zonă de conservare care se concentrează pe lei și alte animale sălbatice.", en: "A sanctuary focusing on lions and other wildlife." , es: "Un área protegida centrada en los leones y otros animales salvajes.", pt: "Uma área protegida centrada em leões e outros animais selvagens.", fr: "Une zone protégée axée sur les lions et d'autres animaux sauvages."},
     facts: {
       de: ["Bietet Löwen-Auswilderungsprogramme.", "Sehr bekannt für Tierbeobachtungen."],
@@ -836,7 +827,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-MN",
     coords: [29.5, -16.5],
     name: { de: "Sambezi-Tal Lebensraum", hu: "Zambézi-völgy Élőhely", ro: "Habitatul din Valea Zambezi", en: "Zambezi Valley Habitat"},
-    image: "/poi-images/zambezi-valley-habitat-life-v2.webp",
     description: { de: "Ein reiches Ökosystem entlang des Sambesi-Flusses.", hu: "Gazdag ökoszisztéma a Zambézi folyó mentén.", ro: "Un ecosistem bogat de-a lungul râului Zambezi.", en: "A rich ecosystem along the Zambezi River." , es: "Un rico ecosistema a lo largo del río Zambeze.", pt: "Um ecossistema rico ao longo do rio Zambeze.", fr: "Un écosystème riche le long du fleuve Zambèze."},
     facts: {
       de: ["Beheimatet Elefanten und Flusspferde.", "Wichtige Wanderroute für Tiere."],
@@ -872,7 +862,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-MN",
     coords: [25.8, -17.9],
     name: { de: "Victoria Falls Wildtierzentrum", hu: "Victoria Falls Vadvédelmi Központ", ro: "Centrul de Faună Sălbatică Victoria Falls", en: "Victoria Falls Wildlife Center"},
-    image: "/poi-images/victoria-falls-wildlife-center-life-v2.webp",
     description: { de: "Ein Zentrum in der Nähe der Wasserfälle zur Hilfe für Wildtiere.", hu: "Központ a vízesések közelében a vadvilág segítésére.", ro: "Un centru în apropierea cascadei pentru ajutorarea faunei sălbatice.", en: "A center near the falls for assisting wildlife." , es: "Un centro cerca de las cataratas para ayudar a la fauna silvestre.", pt: "Um centro perto das cataratas para ajudar a vida selvagem.", fr: "Un centre situé près des chutes pour venir en aide à la faune sauvage."},
     facts: {
       de: ["Hilfe bei verletzten Tieren der Umgebung.", "Bildungszentrum für Ökologie."],
@@ -953,7 +942,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-MA",
     coords: [32.7, -19.0],
     name: { de: "Mutare Obstbau-Region", hu: "Mutare Gyümölcstermesztő Régió", ro: "Regiunea de Livezi Mutare", en: "Mutare Orchard District"},
-    image: "/poi-images/mutare-orchard-district-life-v2.webp",
     description: { de: "Ein Gebiet bekannt für den Anbau von Zitrusfrüchten und exotischem Obst.", hu: "Citrusfélék és egzotikus gyümölcsök termesztéséről ismert terület.", ro: "O zonă cunoscută pentru cultivarea citricelor și a fructelor exotice.", en: "An area known for cultivation of citrus and exotic fruits." , es: "Una zona conocida por el cultivo de cítricos y frutas exóticas.", pt: "Uma área conhecida pelo cultivo de citrinos e frutas exóticas.", fr: "Une région réputée pour la culture des agrumes et des fruits exotiques."},
     facts: {
       de: ["Ideale klimatische Bedingungen für Obst.", "Export von Früchten nach Europa."],
@@ -989,7 +977,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-MW",
     coords: [29.9, -18.3],
     name: { de: "Kadoma Baumwollregion", hu: "Kadoma Gyapot Régió", ro: "Regiunea de Bumbac Kadoma", en: "Kadoma Cotton Region"},
-    image: "/poi-images/kadoma-cotton-region-life-v2.webp",
     description: { de: "Zentrum der Baumwollverarbeitung und Landwirtschaft.", hu: "Gyapotfeldolgozás és mezőgazdaság központja.", ro: "Centru de procesare a bumbacului și agricultură.", en: "Center for cotton processing and agriculture." , es: "Centro de procesamiento de algodón y agricultura.", pt: "Centro de processamento de algodão e agricultura.", fr: "Centre de transformation du coton et d'agriculture."},
     facts: {
       de: ["Historisches Zentrum für Baumwolle.", "Wichtig für die Textilindustrie."],
@@ -1106,7 +1093,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-MV",
     coords: [31.6, -21.0],
     name: { de: "Chiredzi Wildfarm", hu: "Chiredzi Vadvédelmi Ranch", ro: "Ferma de Faună Sălbatică Chiredzi", en: "Chiredzi Wildlife Ranch"},
-    image: "/poi-images/chiredzi-wildlife-ranch-life-v2.webp",
     description: { de: "Eine große Ranch zur Erhaltung heimischer Wildarten.", hu: "Nagy ranch az őshonos vadfajok megőrzésére.", ro: "O fermă mare pentru conservarea speciilor sălbatice native.", en: "A large ranch for conserving native wildlife." , es: "Un gran rancho dedicado a la conservación de especies silvestres nativas.", pt: "Um grande rancho dedicado à conservação de espécies selvagens nativas.", fr: "Un vaste ranch dédié à la conservation des espèces sauvages indigènes."},
     facts: {
       de: ["Beobachtung von Giraffen und Zebras.", "Umweltfreundlicher Tourismus."],
@@ -1187,7 +1173,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-BU",
     coords: [28.6, -20.1],
     name: { de: "Bulawayo Kinderpark", hu: "Bulawayo Gyermekpark", ro: "Parcul pentru Copii Bulawayo", en: "Bulawayo Children's Park"},
-    image: "/poi-images/bulawayo-childrens-park-life-v2.webp",
     description: { de: "Ein öffentlicher Park mit Spielbereichen für Kinder.", hu: "Nyilvános park játszóterekkel gyermekeknek.", ro: "O grădină publică cu zone de joacă pentru copii.", en: "A public park with play areas for children." , es: "Un parque público con zonas de juegos para niños.", pt: "Um parque público com áreas de lazer para crianças.", fr: "Un parc public avec des aires de jeux pour enfants."},
     facts: {
       de: ["Beliebtes Ziel für Familien am Wochenende.", "Gut gepflegte Grünanlagen."],
@@ -1223,7 +1208,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-ME",
     coords: [31.6, -18.6],
     name: { de: "Hwedza Vogelschutzgebiet", hu: "Hwedza Madárvédelmi Rezervátum", ro: "Rezervația de Păsări Hwedza", en: "Hwedza Bird Sanctuary"},
-    image: "/poi-images/hwedza-bird-sanctuary-life-v2.webp",
     description: { de: "Ein kleines, ruhiges Gebiet zum Beobachten von einheimischen Vögeln.", hu: "Kicsi, csendes terület őshonos madarak megfigyelésére.", ro: "O zonă mică și liniștită pentru observarea păsărilor native.", en: "A small, quiet area for observing native birds." , es: "Una zona pequeña y tranquila para observar aves autóctonas.", pt: "Uma área pequena e tranquila para observar aves nativas.", fr: "Une petite zone tranquille pour l'observation des oiseaux indigènes."},
     facts: {
       de: ["Ideal für Vogelliebhaber.", "Schutz von Sumpfgebieten."],
@@ -1264,7 +1248,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-MI",
     coords: [29.8, -18.9],
     name: { de: "Kwe Kwe Naturpark", hu: "Kwe Kwe Természetpark", ro: "Parcul Natural Kwe Kwe", en: "Kwe Kwe Nature Park"},
-    image: "/poi-images/kwe-kwe-nature-park-life-v2.webp",
     description: { de: "Ein regionaler Naturpark mit Fokus auf Flora und Fauna.", hu: "Regionális természetpark, fókuszban a flóra és fauna.", ro: "Un parc natural regional cu accent pe floră și faună.", en: "A regional nature park with focus on flora and fauna." , es: "Un parque natural regional centrado en la flora y la fauna.", pt: "Um parque natural regional com foco na flora e fauna.", fr: "Un parc naturel régional axé sur la flore et la faune."},
     facts: {
       de: ["Wandermöglichkeiten durch unberührte Natur.", "Beobachtung kleiner Wildtiere."],
@@ -1300,7 +1283,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-MV",
     coords: [30.8, -20.1],
     name: { de: "Masvingo Obstplantagen", hu: "Masvingo Gyümölcsültetvények", ro: "Livezile Masvingo", en: "Masvingo Orchards"},
-    image: "/poi-images/masvingo-orchard-life-v2.webp",
     description: { de: "Ein großes Gebiet für den Obstanbau nahe Masvingo.", hu: "Nagy terület gyümölcstermesztéshez Masvingo közelében.", ro: "O zonă mare pentru cultivarea fructelor lângă Masvingo.", en: "A large area for fruit cultivation near Masvingo." , es: "Una gran zona de cultivo de frutas cerca de Masvingo.", pt: "Uma grande área de cultivo de frutas perto de Masvingo.", fr: "Une vaste zone de culture fruitière près de Masvingo."},
     facts: {
       de: ["Hauptanbaugebiet für Mangos.", "Traditionelle Anbaumethoden."],
@@ -1336,7 +1318,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-MN",
     coords: [28.8, -16.5],
     name: { de: "Kariba Fischfarmen", hu: "Kariba Halászatok", ro: "Ferme de Pește Kariba", en: "Kariba Fish Farms"},
-    image: "/poi-images/kariba-fish-farms-life-v2.webp",
     description: { de: "Fischzuchtbetriebe am Kariba-Stausee.", hu: "Haltenyészetek a Kariba-tározónál.", ro: "Ferme piscicole la lacul de acumulare Kariba.", en: "Fish farms on Lake Kariba." , es: "Explotaciones piscícolas en el embalse de Kariba.", pt: "Explorações piscícolas na albufeira de Kariba.", fr: "Exploitations piscicoles sur le lac de retenue de Kariba."},
     facts: {
       de: ["Wichtige Proteinquelle für die Region.", "Professionelle Zuchtmethoden."],
@@ -1444,7 +1425,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-MV",
     coords: [31.8, -20.8],
     name: { de: "Hlabisa Gemeinschaftsfarm", hu: "Hlabisa Közösségi Farm", ro: "Ferma Comunitară Hlabisa", en: "Hlabisa Community Ranch"},
-    image: "/poi-images/hlabisa-community-ranch-life-v2.webp",
     description: { de: "Eine gemeinschaftlich betriebene Ranch für Viehzucht.", hu: "Közösségi üzemeltetésű ranch állattenyésztésre.", ro: "O fermă administrată în comun pentru creșterea animalelor.", en: "A community-operated ranch for livestock." , es: "Un rancho gestionado por la comunidad para la cría de ganado.", pt: "Um rancho gerido pela comunidade para a criação de gado.", fr: "Un ranch géré par la communauté pour l'élevage de bétail."},
     facts: {
       de: ["Förderung lokaler wirtschaftlicher Strukturen.", "Moderne Zuchttechniken."],
@@ -1480,7 +1460,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-MW",
     coords: [30.4, -17.5],
     name: { de: "Zvimba Anbaugebiet", hu: "Zvimba Termőterület", ro: "Districtul Agricol Zvimba", en: "Zvimba Crop District"},
-    image: "/poi-images/zvimba-crop-district-life-v2.webp",
     description: { de: "Ein bedeutendes Gebiet für die Produktion von Grundnahrungsmitteln.", hu: "Jelentős terület az alapvető élelmiszerek termeléséhez.", ro: "O zonă semnificativă pentru producția de alimente de bază.", en: "A significant area for the production of staple foods." , es: "Una región importante para la producción de alimentos básicos.", pt: "Uma região importante para a produção de alimentos básicos.", fr: "Une région importante pour la production de denrées alimentaires de base."},
     facts: {
       de: ["Versorgung der städtischen Märkte.", "Große Ernteerträge."],
@@ -1714,7 +1693,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-BU",
     coords: [28.5, -20.2],
     name: { de: "Bulawayo Vogelschutzgebiet", hu: "Bulawayo Madárvédelmi Rezervátum", ro: "Rezervația de Păsări Bulawayo", en: "Bulawayo Bird Sanctuary"},
-    image: "/poi-images/bulawayo-bird-sanctuary-life-v2.webp",
     description: { de: "Ein städtisches Schutzgebiet für diverse Vogelarten.", hu: "Városi védett terület különféle madárfajoknak.", ro: "O rezervație urbană pentru diverse specii de păsări.", en: "An urban sanctuary for diverse bird species." , es: "Un santuario urbano para diversas especies de aves.", pt: "Um santuário urbano para diversas espécies de aves.", fr: "Un sanctuaire urbain pour diverses espèces d'oiseaux."},
     facts: {
       de: ["Rückzugsort mitten in der Stadt.", "Beobachtungsstationen vorhanden."],
@@ -1750,7 +1728,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-MW",
     coords: [30.1, -17.4],
     name: { de: "Chinhoyi Ackerbaugebiet", hu: "Chinhoyi Szántóföldi Terület", ro: "Zona Agricolă Chinhoyi", en: "Chinhoyi Cropping Area"},
-    image: "/poi-images/chinhoyi-crops-life-v2.webp",
     description: { de: "Ein produktives Ackerbaugebiet in Mashonaland.", hu: "Termelékeny szántóföldi terület Mashonalandban.", ro: "O zonă agricolă productivă în Mashonaland.", en: "A productive farming area in Mashonaland." , es: "Una zona agrícola productiva en Mashonaland.", pt: "Uma área agrícola produtiva em Mashonaland.", fr: "Une zone de culture productive dans le Mashonaland."},
     facts: {
       de: ["Hauptanbau von Mais.", "Moderne landwirtschaftliche Kooperativen."],
@@ -1867,7 +1844,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-MI",
     coords: [30.5, -19.3],
     name: { de: "Mvuma Wildfarm", hu: "Mvuma Vadvédelmi Ranch", ro: "Ferma de Faună Sălbatică Mvuma", en: "Mvuma Wildlife Ranch"},
-    image: "/poi-images/mvuma-wildlife-ranch-life-v2.webp",
     description: { de: "Ein geschütztes Gebiet für Wildtiere der Savanne.", hu: "Védett terület a szavanna vadállatainak.", ro: "O zonă protejată pentru animalele sălbatice din savană.", en: "A protected area for savannah wildlife." , es: "Una zona protegida para la fauna silvestre de la sabana.", pt: "Uma área protegida para a vida selvagem da savana.", fr: "Une zone protégée pour la faune sauvage de la savane."},
     facts: {
       de: ["Schutz von Antilopenarten.", "Geführte Touren für Familien."],
@@ -1903,7 +1879,6 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     parent: "ZW-MV",
     coords: [30.0, -22.2],
     name: { de: "Beitbridge Zuckerrohr", hu: "Beitbridge Cukornád", ro: "Trestie de Zahăr Beitbridge", en: "Beitbridge Sugar Cane"},
-    image: "/poi-images/bebridge-sugar-plantations-life-v2.webp",
     description: { de: "Zuckerrohrplantagen im südlichen Grenzgebiet.", hu: "Cukornádültetvények a déli határvidéken.", ro: "Plantații de trestie de zahăr în zona de frontieră sudică.", en: "Sugar cane plantations in the southern border region." , es: "Plantaciones de caña de azúcar en la zona fronteriza del sur.", pt: "Plantações de cana-de-açúcar na zona fronteiriça do sul.", fr: "Plantations de canne à sucre dans la zone frontalière du sud."},
     facts: {
       de: ["Nutzung von Flusswasser zur Bewässerung.", "Wichtiger Exportartikel."],

@@ -665,7 +665,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     parent: "LK-2",
     coords: [80.7933, 6.7975],
     name: { de: "Kirigalpotta", hu: "Kirigalpotta", ro: "Kirigalpotta", en: "Kirigalpotta"},
-    image: "/poi-images/kirigalpotta-relief-v2.webp",
     description: {
       de: "Der zweithöchste Berg Sri Lankas und der höchste, der für die Öffentlichkeit zugänglich ist.",
       hu: "Srí Lanka második legmagasabb hegye, és a legmagasabb, amely a nyilvánosság számára is látogatható.",
@@ -1346,7 +1345,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     parent: "LK-2",
     coords: [80.8225, 6.8316],
     name: { de: "Thotupola Kanda", hu: "Thotupola Kanda", ro: "Thotupola Kanda", en: "Thotupola Kanda"},
-    image: "/poi-images/thotupola-kanda-relief-v2.webp",
     description: {
       de: "Der dritthöchste Berg Sri Lankas, der mit der Ramayana-Legende von König Ravana verbunden ist.",
       hu: "Srí Lanka harmadik legmagasabb hegye, amely Ravana király Rámájana-legendájához kapcsolódik.",
@@ -1991,7 +1989,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     parent: "LK-8",
     coords: [81.1166, 6.9333],
     name: { de: "Namunukula", hu: "Namunukula", ro: "Namunukula", en: "Namunukula"},
-    image: "/poi-images/namunukula-relief-v2.webp",
     description: {
       de: "Eine markante Bergkette in der Uva-Provinz, deren Name 'Neun Gipfel' bedeutet.",
       hu: "Egy feltűnő hegylánc az Uva tartományban, amelynek neve 'Kilenc csúcsot' jelent.",
@@ -2096,7 +2093,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     parent: "LK-2",
     coords: [80.8142, 6.9242],
     name: { de: "Hakgala", hu: "Hakgala", ro: "Hakgala", en: "Hakgala"},
-    image: "/poi-images/hakgala-relief-v2.webp",
     description: {
       de: "Ein Berg in der Nähe von Nuwara Eliya, der für seine botanischen Gärten an seinen Hängen berühmt ist.",
       hu: "Nuwara Eliya közelében található hegy, amely a lejtőin lévő botanikus kertekről híres.",
@@ -2849,7 +2845,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     parent: "LK-2",
     coords: [80.7833, 7.4000],
     name: { de: "Knuckles-Gebirge", hu: "Knuckles-hegység", ro: "Lanțul Muntos Knuckles", en: "Knuckles Mountain Range"},
-    image: "/poi-images/knuckles-mountain-range-relief-v2.webp",
     description: {
       de: "Ein massives Bergmassiv in Zentral-Sri Lanka, dessen Falten wie die Knöchel einer geballten Faust aussehen.",
       hu: "Masszív hegység Közép-Srí Lankán, amelynek redői egy ökölbe szorított kéz ujjperceire hasonlítanak.",
@@ -3998,7 +3993,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     parent: "LK-9",
     coords: [80.4358, 7.1555],
     name: { de: "Bathalegala", hu: "Bathalegala", ro: "Bathalegala", en: "Bathalegala"},
-    image: "/poi-images/bathalegala-relief-v2.webp",
     description: {
       de: "Ein markanter Berg im Bezirk Kegalle, der wegen seiner rechteckigen Form als 'Bibel-Felsen' bekannt ist.",
       hu: "Jellegzetes hegy a Kegalle körzetben, amely téglalap alakja miatt 'Biblia-szikla' néven is ismert.",
@@ -4787,7 +4781,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     parent: "LK-8",
     coords: [81.0456, 6.8580],
     name: { de: "Ella Rock", hu: "Ella-szikla", ro: "Stânca Ella", en: "Ella Rock"},
-    image: "/poi-images/ella-rock-relief-v2.webp",
     description: {
       de: "Eine berühmte Klippe in der Nähe des Dorfes Ella, die atemberaubende Ausblicke auf die umliegenden Täler bietet.",
       hu: "Híres sziklafal Ella falu közelében, amely lélegzetelállító kilátást nyújt a környező völgyekre.",
@@ -4928,7 +4921,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     parent: "LK-8",
     coords: [81.0636, 6.8711],
     name: { de: "Little Adam's Peak", hu: "Kis Ádám-csúcs", ro: "Micul Vârf al lui Adam", en: "Little Adam's Peak"},
-    image: "/poi-images/little-adams-peak-relief-v2.webp",
     description: {
       de: "Ein kleinerer, kegelförmiger Berg in Ella, benannt nach seiner Ähnlichkeit mit dem heiligen Adam's Peak.",
       hu: "Egy kisebb, kúp alakú hegy Ellában, amely a szent Ádám-csúcshoz való hasonlóságáról kapta a nevét.",
@@ -5753,7 +5745,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     parent: "LK-3",
     coords: [80.6486, 6.3861],
     name: { de: "Gongala", hu: "Gongala", ro: "Gongala", en: "Gongala"},
-    image: "/poi-images/gongala-relief-v2.webp",
     description: {
       de: "Ein markanter Berg im Sinharaja-Regenwald-Gebiet, bekannt für seine unberührte Natur.",
       hu: "Egy jellegzetes hegy a Sinharaja esőerdő régiójában, amely érintetlen természetéről ismert.",
@@ -6110,7 +6101,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     parent: "LK-2",
     coords: [80.8350, 7.4583],
     name: { de: "Lakegala", hu: "Lakegala", ro: "Lakegala", en: "Lakegala"},
-    image: "/poi-images/lakegala-relief-v2.webp",
     description: {
       de: "Ein beeindruckender, dreieckiger Felsgipfel in den Knuckles-Bergen, der oft mit alten Legenden in Verbindung gebracht wird.",
       hu: "Egy lenyűgöző, háromszög alakú sziklacsúcs a Knuckles-hegységben, amelyet gyakran ősi legendákkal hoznak összefüggésbe.",
@@ -7184,7 +7174,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     parent: "LK-2",
     coords: [80.5986, 6.8117],
     name: { de: "Bogawantalawa-Tal", hu: "Bogawantalawa-völgy", ro: "Valea Bogawantalawa", en: "Bogawantalawa Valley"},
-    image: "/poi-images/bogawantalawa-valley-relief-v2.webp",
     description: {
       de: "Ein malerisches Tal im Hochland, das aufgrund seiner außergewöhnlichen Teeproduktion auch 'Goldenes Tal des Tees' genannt wird.",
       hu: "Egy festői völgy a hegyvidéken, amelyet kivételes teatermelése miatt a 'Tea Arany Völgyének' is neveznek.",
@@ -8261,7 +8250,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     parent: "LK-2",
     coords: [80.8200, 7.2667],
     name: { de: "Mahaweli-Tal", hu: "Mahaweli-völgy", ro: "Valea Mahaweli", en: "Mahaweli Valley"},
-    image: "/poi-images/mahaweli-valley-relief-v2.webp",
     description: {
       de: "Das breite Flusstal des Mahaweli, des längsten Flusses Sri Lankas, bekannt für seine landwirtschaftliche Bedeutung.",
       hu: "A Mahaweli, Srí Lanka leghosszabb folyójának széles völgye, amely mezőgazdasági jelentőségéről ismert.",
@@ -9662,7 +9650,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     parent: "LK-1",
     coords: [80.2000, 6.9500],
     name: { de: "Kelani-Tal", hu: "Kelani-völgy", ro: "Valea Kelani", en: "Kelani Valley"},
-    image: "/poi-images/kelani-valley-relief-v2.webp",
     description: {
       de: "Ein historisch wichtiges Tal im Westen Sri Lankas, das für Kautschuk- und Teeplantagen bekannt ist.",
       hu: "Történelmileg fontos völgy Srí Lanka nyugati részén, amely gumi- és teaültetvényeiről ismert.",
@@ -9722,7 +9709,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     parent: "LK-2",
     coords: [80.8061, 6.8016],
     name: { de: "Horton Plains", hu: "Horton Plains", ro: "Câmpiile Horton", en: "Horton Plains"},
-    image: "/poi-images/horton-plains-relief-v2.webp",
     description: {
       de: "Ein hochgelegenes Plateau in Zentral-Sri Lanka, das von Bergwald und Grasland geprägt ist.",
       hu: "Egy magasan fekvő fennsík Közép-Srí Lankán, amelyet hegyi erdők és füves puszták jellemeznek.",
@@ -10187,7 +10173,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     parent: "LK-2",
     coords: [80.7872, 6.9405],
     name: { de: "Moon Plains", hu: "Hold-fennsík", ro: "Câmpiile Lunii", en: "Moon Plains"},
-    image: "/poi-images/moon-plains-relief-v2.webp",
     description: {
       de: "Ein landwirtschaftlich geprägtes Plateau in der Nähe von Nuwara Eliya mit einem weiten 360-Grad-Blick auf die umliegenden Berge.",
       hu: "Egy mezőgazdasági jellegű fennsík Nuwara Eliya közelében, ahonnan 360 fokos kilátás nyílik a környező hegyekre.",
@@ -10544,7 +10529,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     parent: "LK-5",
     coords: [81.1839, 8.6833],
     name: { de: "Nilaveli-Küste", hu: "Nilaveli-part", ro: "Coasta Nilaveli", en: "Nilaveli Coast"},
-    image: "/poi-images/nilaveli-coast-relief-v2.webp",
     description: {
       de: "Eine unberührte Küstenlinie an der Ostküste, berühmt für ihren weißen Sand und das klare, blaue Wasser.",
       hu: "Érintetlen partszakasz a keleti parton, amely fehér homokjáról és tiszta kék vizéről híres.",
@@ -11909,7 +11893,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
     parent: "LK-3",
     coords: [80.4572, 5.9483],
     name: { de: "Mirissa-Küste", hu: "Mirissa-part", ro: "Coasta Mirissa", en: "Mirissa Coast"},
-    image: "/poi-images/mirissa-coast-relief-v2.webp",
     description: {
       de: "Ein malerischer Küstenabschnitt im Süden Sri Lankas, der als einer der besten Orte für die Walbeobachtung gilt.",
       hu: "Festői partszakasz Srí Lanka déli részén, amely az egyik legjobb hely a bálnalesre.",

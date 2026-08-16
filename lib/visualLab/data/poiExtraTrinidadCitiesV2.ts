@@ -161,7 +161,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-SJL",
     coords: [-61.4583, 10.6500],
     name: { de: "San Juan", hu: "San Juan", ro: "San Juan", en: "San Juan"},
-    image: "/poi-images/tt-san-juan-cities-v2.webp",
     description: {
       de: "Ein wichtiger Verkehrsknotenpunkt und Handelszentrum in der Region San Juan-Laventille.",
       hu: "Fontos közlekedési csomópont és kereskedelmi központ a San Juan-Laventille régióban.",
@@ -204,7 +203,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-DMN",
     coords: [-61.5667, 10.6833],
     name: { de: "Diego Martin", hu: "Diego Martin", ro: "Diego Martin", en: "Diego Martin"},
-    image: "/poi-images/tt-diego-martin-cities-v2.webp",
     description: {
       de: "Ein wohlhabender Vorort westlich von Port of Spain, bekannt für seine Wohngebiete.",
       hu: "Jómódú előváros Port of Spaintól nyugatra, lakónegyedeiről ismert.",
@@ -247,7 +245,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-CTT",
     coords: [-61.4500, 10.4167],
     name: { de: "Couva", hu: "Couva", ro: "Couva", en: "Couva"},
-    image: "/poi-images/tt-couva-cities-v2.webp",
     description: {
       de: "Ein schnell wachsendes städtisches Zentrum in Zentral-Trinidad mit einer starken industriellen Basis.",
       hu: "Gyorsan növekvő városi központ Közép-Trinidadban, erős ipari háttérrel.",
@@ -290,7 +287,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-PTF",
     coords: [-61.6833, 10.1833],
     name: { de: "Point Fortin", hu: "Point Fortin", ro: "Point Fortin", en: "Point Fortin"},
-    image: "/poi-images/tt-point-fortin-cities-v2.webp",
     description: {
       de: "Ein Bezirk und wichtiges Zentrum der Öl- und Gasindustrie in Trinidad.",
       hu: "Kerület és Trinidad olaj- és gáziparának fontos központja.",
@@ -328,7 +324,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-PRT",
     coords: [-61.3833, 10.2667],
     name: { de: "Princes Town", hu: "Princes Town", ro: "Princes Town", en: "Princes Town"},
-    image: "/poi-images/tt-princes-town-cities-v2.webp",
     description: {
       de: "Eine historische Stadt in Süd-Trinidad, benannt nach den britischen Prinzen Albert und George.",
       hu: "Történelmi város Dél-Trinidadban, Albert és George brit hercegekről elnevezve.",
@@ -377,7 +372,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TUP",
     coords: [-61.3833, 10.6333],
     name: { de: "Tunapuna", hu: "Tunapuna", ro: "Tunapuna", en: "Tunapuna"},
-    image: "/poi-images/tt-tunapuna-cities-v2.webp",
     description: {
       de: "Eine geschäftige Stadt im East-West Corridor, bekannt für ihre Einkaufsmöglichkeiten und Märkte.",
       hu: "Forgalmas város az Kelet-Nyugat folyosón, bevásárlási lehetőségeiről és piacairól ismert.",
@@ -421,7 +415,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-SGE",
     coords: [-61.1333, 10.5833],
     name: { de: "Sangre Grande", hu: "Sangre Grande", ro: "Sangre Grande", en: "Sangre Grande"},
-    image: "/poi-images/tt-sangre-grande-cities-v2.webp",
     description: {
       de: "Die größte Stadt im Nordosten von Trinidad und ein Tor zu den östlichen Stränden.",
       hu: "Trinidad északkeleti részének legnagyobb városa, és a keleti strandok kapuja.",
@@ -459,7 +452,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-PED",
     coords: [-61.4833, 10.1667],
     name: { de: "Penal", hu: "Penal", ro: "Penal", en: "Penal"},
-    image: "/poi-images/tt-penal-cities-v2.webp",
     description: {
       de: "Eine Stadt in Süd-Trinidad, die für ihre starke indo-trinidadische Kultur bekannt ist.",
       hu: "Város Dél-Trinidadban, erős indo-trinidadi kultúrájáról ismert.",
@@ -503,7 +495,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-CTT",
     coords: [-61.4333, 10.3333],
     name: { de: "Gasparillo", hu: "Gasparillo", ro: "Gasparillo", en: "Gasparillo"},
-    image: "/poi-images/tt-gasparillo-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Nähe von Pointe-Á-Pierre, die für die größte Ölraffinerie des Landes bekannt ist.",
       hu: "Város Pointe-Á-Pierre közelében, az ország legnagyobb olajfinomítójáról ismert.",
@@ -547,7 +538,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-SIP",
     coords: [-61.5000, 10.1333],
     name: { de: "Siparia", hu: "Siparia", ro: "Siparia", en: "Siparia"},
-    image: "/poi-images/tt-siparia-cities-v2.webp",
     description: {
       de: "Das Verwaltungszentrum der Region Siparia und berühmt für das Siparia Fete Festival.",
       hu: "A Siparia régió közigazgatási központja, híres a Siparia Fete Fesztiválról.",
@@ -629,7 +619,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-SIP",
     coords: [-61.5500, 10.1833],
     name: { de: "Fyzabad", hu: "Fyzabad", ro: "Fyzabad", en: "Fyzabad"},
-    image: "/poi-images/tt-fyzabad-cities-v2.webp",
     description: {
       de: "Historisch bedeutsam als Geburtsort der Arbeiterbewegung in Trinidad und Tobago.",
       hu: "Történelmileg jelentős, mint a trinidad és tobagói munkásmozgalom szülőhelye.",
@@ -718,7 +707,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-SGE",
     coords: [-61.2000, 10.6333],
     name: { de: "Valencia", hu: "Valencia", ro: "Valencia", en: "Valencia"},
-    image: "/poi-images/tt-valencia-cities-v2.webp",
     description: {
       de: "Ein wachsendes Dorf an der Kreuzung wichtiger Straßen im Nordosten von Trinidad.",
       hu: "Növekvő falu fontos utak kereszteződésében Északkelet-Trinidadban.",
@@ -767,7 +755,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-CTT",
     coords: [-61.4000, 10.4500],
     name: { de: "Freeport", hu: "Freeport", ro: "Freeport", en: "Freeport"},
-    image: "/poi-images/tt-freeport-cities-v2.webp",
     description: {
       de: "Eine Stadt in Zentral-Trinidad mit einer Mischung aus landwirtschaftlichen und Wohngebieten.",
       hu: "Város Közép-Trinidadban, mezőgazdasági és lakóövezetek keverékével.",
@@ -811,7 +798,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-PED",
     coords: [-61.4500, 10.2167],
     name: { de: "Debe", hu: "Debe", ro: "Debe", en: "Debe"},
-    image: "/poi-images/tt-debe-cities-v2.webp",
     description: {
       de: "Bekannt für seine große Auswahl an indischen Delikatessen und Street Food, besonders Doubles.",
       hu: "Híres az indiai finomságok és utcai ételek széles választékáról, különösen a 'doubles'-ról.",
@@ -972,7 +958,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-SJL",
     coords: [-61.4936, 10.6567],
     name: { de: "Laventille", hu: "Laventille", ro: "Laventille", en: "Laventille"},
-    image: "/poi-images/tt-laventille-cities-v2.webp",
     description: {
       de: "Eine große Gemeinschaft östlich von Port of Spain, die als Geburtsort des Steelpan bekannt ist.",
       hu: "Nagy közösség Port of Spaintól keletre, a steelpan szülőhelyeként ismert.",
@@ -1021,7 +1006,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-SJL",
     coords: [-61.4667, 10.6667],
     name: { de: "Morvant", hu: "Morvant", ro: "Morvant", en: "Morvant"},
-    image: "/poi-images/tt-morvant-cities-v2.webp",
     description: {
       de: "Ein dicht besiedeltes Wohngebiet in der Region San Juan-Laventille.",
       hu: "Sűrűn lakott lakónegyed a San Juan-Laventille régióban.",
@@ -1182,7 +1166,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-SJL",
     coords: [-61.4167, 10.6500],
     name: { de: "St. Joseph", hu: "St. Joseph", ro: "St. Joseph", en: "St. Joseph"},
-    image: "/poi-images/tt-st-joseph-cities-v2.webp",
     description: {
       de: "Die erste Hauptstadt von Trinidad unter spanischer Herrschaft, reich an Kolonialgeschichte.",
       hu: "Trinidad első fővárosa a spanyol uralom alatt, gazdag gyarmati történelemmel.",
@@ -1226,7 +1209,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-SJL",
     coords: [-61.4167, 10.7167],
     name: { de: "Maracas Valley", hu: "Maracas-völgy", ro: "Valea Maracas", en: "Maracas Valley"},
-    image: "/poi-images/tt-maracas-valley-cities-v2.webp",
     description: {
       de: "Ein üppiges Tal in der Northern Range, das zur berühmten Maracas Bay führt.",
       hu: "Buján növényzetű völgy az Északi-hegységben, amely a híres Maracas-öbölhöz vezet.",
@@ -1387,7 +1369,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TUP",
     coords: [-61.3500, 10.6000],
     name: { de: "Piarco", hu: "Piarco", ro: "Piarco", en: "Piarco"},
-    image: "/poi-images/tt-piarco-cities-v2.webp",
     description: {
       de: "Standort des wichtigsten internationalen Flughafens von Trinidad und Tobago.",
       hu: "Trinidad és Tobago fő nemzetközi repülőterének helyszíne.",
@@ -1476,7 +1457,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TUP",
     coords: [-61.3333, 10.6333],
     name: { de: "Arouca", hu: "Arouca", ro: "Arouca", en: "Arouca"},
-    image: "/poi-images/tt-arouca-cities-v2.webp",
     description: {
       de: "Eine historische Stadt im East-West Corridor, die ursprünglich als spanische Mission gegründet wurde.",
       hu: "Történelmi város az Kelet-Nyugat folyosón, eredetileg spanyol misszióként alapították.",
@@ -1525,7 +1505,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TUP",
     coords: [-61.4333, 10.6333],
     name: { de: "Curepe", hu: "Curepe", ro: "Curepe", en: "Curepe"},
-    image: "/poi-images/tt-curepe-cities-v2.webp",
     description: {
       de: "Eine belebte Stadt, die als wichtiger Verkehrsknotenpunkt für öffentliche Verkehrsmittel bekannt ist.",
       hu: "Forgalmas város, amely a tömegközlekedés fontos csomópontjaként ismert.",
@@ -1614,7 +1593,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TUP",
     coords: [-61.4000, 10.6333],
     name: { de: "Saint Augustine", hu: "Saint Augustine", ro: "Saint Augustine", en: "Saint Augustine"},
-    image: "/poi-images/tt-st-augustine-cities-v2.webp",
     description: {
       de: "Heimat des Hauptcampus der University of the West Indies.",
       hu: "A Nyugat-indiai Egyetem fő campusának otthona.",
@@ -1658,7 +1636,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TUP",
     coords: [-61.3667, 10.6167],
     name: { de: "Trincity", hu: "Trincity", ro: "Trincity", en: "Trincity"},
-    image: "/poi-images/tt-trincity-cities-v2.webp",
     description: {
       de: "Eine geplante Gemeinschaft mit einem der größten Einkaufszentren der Karibik.",
       hu: "Tervezett közösség a Karib-térség egyik legnagyobb bevásárlóközpontjával.",
@@ -1783,7 +1760,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-DMN",
     coords: [-61.5833, 10.6833],
     name: { de: "Carenage", hu: "Carenage", ro: "Carenage", en: "Carenage"},
-    image: "/poi-images/tt-carenage-cities-v2.webp",
     description: {
       de: "Ein historisches Fischerdorf entlang der Küste westlich von Port of Spain.",
       hu: "Történelmi halászfalu a part mentén, Port of Spaintól nyugatra.",
@@ -1827,7 +1803,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-DMN",
     coords: [-61.5667, 10.6667],
     name: { de: "Westmoorings", hu: "Westmoorings", ro: "Westmoorings", en: "Westmoorings"},
-    image: "/poi-images/tt-westmoorings-cities-v2.webp",
     description: {
       de: "Eine der wohlhabendsten Wohngegenden in Trinidad und Tobago.",
       hu: "Trinidad és Tobago egyik legjómódúbb lakónegyede.",
@@ -1871,7 +1846,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-DMN",
     coords: [-61.5167, 10.7167],
     name: { de: "Maraval", hu: "Maraval", ro: "Maraval", en: "Maraval"},
-    image: "/poi-images/tt-maraval-cities-v2.webp",
     description: {
       de: "Ein großes Tal und eine Wohngegend am Rande von Port of Spain.",
       hu: "Nagy völgy és lakónegyed Port of Spain peremén.",
@@ -2003,7 +1977,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-CTT",
     coords: [-61.4167, 10.4667],
     name: { de: "Chase Village", hu: "Chase Village", ro: "Chase Village", en: "Chase Village"},
-    image: "/poi-images/tt-chase-village-cities-v2.webp",
     description: {
       de: "Eine wachsende Gemeinschaft entlang des Solomon Hochoy Highway.",
       hu: "Növekvő közösség a Solomon Hochoy autópálya mentén.",
@@ -2092,7 +2065,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-PRT",
     coords: [-61.2833, 10.0833],
     name: { de: "Moruga", hu: "Moruga", ro: "Moruga", en: "Moruga"},
-    image: "/poi-images/tt-moruga-cities-v2.webp",
     description: {
       de: "Ein historisches Dorf an der Südküste, wo Christoph Kolumbus angeblich gelandet ist.",
       hu: "Történelmi falu a déli parton, ahol állítólag Kolumbusz Kristóf partra szállt.",
@@ -2136,7 +2108,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-SGE",
     coords: [-60.9500, 10.8333],
     name: { de: "Toco", hu: "Toco", ro: "Toco", en: "Toco"},
-    image: "/poi-images/tt-toco-cities-v2.webp",
     description: {
       de: "Ein Fischerdorf an der nordöstlichsten Spitze von Trinidad.",
       hu: "Halászfalu Trinidad legészakkeletibb csücskén.",
@@ -2180,7 +2151,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-SGE",
     coords: [-61.0667, 10.8167],
     name: { de: "Matelot", hu: "Matelot", ro: "Matelot", en: "Matelot"},
-    image: "/poi-images/tt-matelot-cities-v2.webp",
     description: {
       de: "Ein abgelegenes Fischerdorf an der Nordküste, das für seine natürliche Schönheit bekannt ist.",
       hu: "Félreeső halászfalu az északi parton, természeti szépségéről ismert.",
@@ -2305,7 +2275,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-SIP",
     coords: [-61.6167, 10.2500],
     name: { de: "La Brea", hu: "La Brea", ro: "La Brea", en: "La Brea"},
-    image: "/poi-images/tt-la-brea-cities-v2.webp",
     description: {
       de: "Eine Stadt, die für das Pitch Lake bekannt ist, das größte natürliche Asphaltvorkommen der Welt.",
       hu: "Város, amely a Pitch Lake-ről, a világ legnagyobb természetes aszfaltlelőhelyéről ismert.",
@@ -2354,7 +2323,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-SIP",
     coords: [-61.7500, 10.0833],
     name: { de: "Cedros", hu: "Cedros", ro: "Cedros", en: "Cedros"},
-    image: "/poi-images/tt-cedros-cities-v2.webp",
     description: {
       de: "Ein Fischerdorf an der südwestlichen Spitze von Trinidad, nahe an Venezuela.",
       hu: "Halászfalu Trinidad délnyugati csücskén, közel Venezuelához.",
@@ -2695,7 +2663,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-MRC",
     coords: [-61.0000, 10.3000],
     name: { de: "Mayaro", hu: "Mayaro", ro: "Mayaro", en: "Mayaro"},
-    image: "/poi-images/tt-mayaro-cities-v2.webp",
     description: {
       de: "Ein langer, ununterbrochener Strand an der Ostküste, beliebt für Urlaub und Fischerei.",
       hu: "Hosszú, megszakítás nélküli strand a keleti parton, népszerű üdülő- és horgászhely.",
@@ -2739,7 +2706,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-MRC",
     coords: [-61.1667, 10.3000],
     name: { de: "Rio Claro", hu: "Rio Claro", ro: "Rio Claro", en: "Rio Claro"},
-    image: "/poi-images/tt-rio-claro-cities-v2.webp",
     description: {
       de: "Eine Stadt im Südosten von Trinidad, die als wichtiges landwirtschaftliches Zentrum dient.",
       hu: "Város Trinidad délkeleti részén, amely fontos mezőgazdasági központként szolgál.",
@@ -2783,7 +2749,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.5833, 11.2500],
     name: { de: "Roxborough", hu: "Roxborough", ro: "Roxborough", en: "Roxborough"},
-    image: "/poi-images/tt-roxborough-cities-v2.webp",
     description: {
       de: "Die zweitgrößte Stadt auf Tobago, in der Nähe des Argyle Wasserfalls gelegen.",
       hu: "Tobago második legnagyobb városa, az Argyle-vízesés közelében található.",
@@ -2827,7 +2792,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.5333, 11.3000],
     name: { de: "Speyside", hu: "Speyside", ro: "Speyside", en: "Speyside"},
-    image: "/poi-images/tt-speyside-cities-v2.webp",
     description: {
       de: "Ein Dorf an der Nordostküste von Tobago, berühmt für seine erstklassigen Tauchplätze.",
       hu: "Falu Tobago északkeleti partján, híres a kiváló búvárhelyeiről.",
@@ -3096,7 +3060,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.8333, 11.1500],
     name: { de: "Crown Point", hu: "Crown Point", ro: "Crown Point", en: "Crown Point"},
-    image: "/poi-images/tt-crown-point-cities-v2.webp",
     description: {
       de: "Standort des internationalen Flughafens von Tobago und vieler beliebter Strände.",
       hu: "Tobago nemzetközi repülőterének és számos népszerű strandnak a helyszíne.",
@@ -3185,7 +3148,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-SJL",
     coords: [-61.4722, 10.6556],
     name: { de: "Barataria", hu: "Barataria", ro: "Barataria", en: "Barataria"},
-    image: "/poi-images/tt-barataria-cities-v2.webp",
     description: {
       de: "Ein Wohn- und Geschäftsviertel in der Region San Juan-Laventille.",
       hu: "Lakó- és kereskedelmi negyed a San Juan-Laventille régióban.",
@@ -3229,7 +3191,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-POS",
     coords: [-61.5333, 10.6667],
     name: { de: "St. James", hu: "St. James", ro: "St. James", en: "St. James"},
-    image: "/poi-images/tt-st-james-cities-v2.webp",
     description: {
       de: "Ein pulsierender Bezirk von Port of Spain, bekannt als 'die Stadt, die niemals schläft'.",
       hu: "Port of Spain vibráló negyede, amelyet 'a város, amely soha nem alszik' néven ismernek.",
@@ -3570,7 +3531,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-POS",
     coords: [-61.5281, 10.6644],
     name: { de: "Woodbrook", hu: "Woodbrook", ro: "Woodbrook", en: "Woodbrook"},
-    image: "/poi-images/tt-woodbrook-cities-v2.webp",
     description: {
       de: "Ein Stadtteil von Port of Spain, der für seine vielen Restaurants, Bars und das Nachtleben bekannt ist.",
       hu: "Port of Spain egyik városrésze, amely számos étterméről, bárjáról és éjszakai életéről ismert.",
@@ -3983,7 +3943,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-POS",
     coords: [-61.5039, 10.6694],
     name: { de: "Belmont", hu: "Belmont", ro: "Belmont", en: "Belmont"},
-    image: "/poi-images/tt-belmont-cities-v2.webp",
     description: {
       de: "Ein historischer Vorort von Port of Spain, bekannt als Geburtsort vieler wichtiger Persönlichkeiten.",
       hu: "Port of Spain történelmi elővárosa, számos fontos személyiség szülőhelyeként ismert.",
@@ -4027,7 +3986,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.5500, 11.3167],
     name: { de: "Charlotteville", hu: "Charlotteville", ro: "Charlotteville", en: "Charlotteville"},
-    image: "/poi-images/tt-charlotteville-cities-v2.webp",
     description: {
       de: "Ein malerisches Fischerdorf an der Man-O-War Bay im Nordosten von Tobago.",
       hu: "Festői halászfalu a Man-O-War-öbölben, Tobago északkeleti részén.",
@@ -4116,7 +4074,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.6333, 11.2833],
     name: { de: "Parlatuvier", hu: "Parlatuvier", ro: "Parlatuvier", en: "Parlatuvier"},
-    image: "/poi-images/tt-parlatuvier-cities-v2.webp",
     description: {
       de: "Ein kleines Dorf an einer malerischen Bucht an der Nordküste von Tobago.",
       hu: "Kis falu egy festői öbölben, Tobago északi partján.",
@@ -4241,7 +4198,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-SJL",
     coords: [-61.3167, 10.7833],
     name: { de: "Blanchisseuse", hu: "Blanchisseuse", ro: "Blanchisseuse", en: "Blanchisseuse"},
-    image: "/poi-images/tt-blanchisseuse-cities-v2.webp",
     description: {
       de: "Ein abgelegenes Dorf an der Nordküste von Trinidad, bekannt für seine Strände und Wanderwege.",
       hu: "Félreeső falu Trinidad északi partján, strandjairól és túraútvonalairól ismert.",
@@ -4285,7 +4241,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-SGE",
     coords: [-61.0500, 10.8333],
     name: { de: "Grande Riviere", hu: "Grande Riviere", ro: "Grande Riviere", en: "Grande Riviere"},
-    image: "/poi-images/tt-grande-riviere-cities-v2.webp",
     description: {
       de: "Ein Dorf, das für seine hohe Konzentration an nistenden Lederschildkröten bekannt ist.",
       hu: "Egy falu, amely a fészkelő kérgesteknősök nagy koncentrációjáról ismert.",
@@ -4329,7 +4284,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-MRC",
     coords: [-60.9833, 10.1500],
     name: { de: "Guayaguayare", hu: "Guayaguayare", ro: "Guayaguayare", en: "Guayaguayare"},
-    image: "/poi-images/tt-guayaguayare-cities-v2.webp",
     description: {
       de: "Ein Fischerdorf an der südöstlichen Spitze von Trinidad, wo das erste Öl der Insel gefunden wurde.",
       hu: "Halászfalu Trinidad délkeleti csücskén, ahol a sziget első olaját találták.",
@@ -4373,7 +4327,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-SIP",
     coords: [-61.8833, 10.0667],
     name: { de: "Icacos", hu: "Icacos", ro: "Icacos", en: "Icacos"},
-    image: "/poi-images/tt-icacos-cities-v2.webp",
     description: {
       de: "Das südwestlichste Dorf in Trinidad, bekannt für seine Kokosnussplantagen.",
       hu: "Trinidad legdélnyugatibb faluja, kókuszültetvényeiről ismert.",
@@ -4417,7 +4370,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-SGE",
     coords: [-61.0333, 10.5000],
     name: { de: "Manzanilla", hu: "Manzanilla", ro: "Manzanilla", en: "Manzanilla"},
-    image: "/poi-images/tt-manzanilla-cities-v2.webp",
     description: {
       de: "Ein langer Küstenstreifen an der Ostküste, gesäumt von Tausenden von Kokospalmen.",
       hu: "Hosszú tengerparti szakasz a keleti parton, amelyet több ezer kókuszpálma szegélyez.",
@@ -4461,7 +4413,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.8167, 11.1833],
     name: { de: "Buccoo", hu: "Buccoo", ro: "Buccoo", en: "Buccoo"},
-    image: "/poi-images/tt-buccoo-cities-v2.webp",
     description: {
       de: "Ein Fischerdorf in Tobago, das für das Buccoo Reef und die wöchentlichen 'Sunday School'-Feiern bekannt ist.",
       hu: "Halászfalu Tobagóban, amely a Buccoo-korallzátonyról és a heti 'Sunday School' ünnepségekről ismert.",
@@ -4658,7 +4609,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.8000, 11.2000],
     name: { de: "Black Rock", hu: "Black Rock", ro: "Black Rock", en: "Black Rock"},
-    image: "/poi-images/tt-black-rock-cities-v2.webp",
     description: {
       de: "Ein Dorf an der Karibikküste von Tobago, Standort von Fort Bennett.",
       hu: "Falu Tobago karibi partján, a Fort Bennett helyszíne.",
@@ -4702,7 +4652,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.8000, 11.1833],
     name: { de: "Mount Irvine", hu: "Mount Irvine", ro: "Mount Irvine", en: "Mount Irvine"},
-    image: "/poi-images/tt-mount-irvine-cities-v2.webp",
     description: {
       de: "Ein Gebiet in Tobago, das für seinen Golfplatz und seine luxuriösen Villen bekannt ist.",
       hu: "Tobago egyik területe, amely golfpályájáról és luxusvilláiról ismert.",
@@ -4746,7 +4695,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.8167, 11.1667],
     name: { de: "Canaan", hu: "Canaan", ro: "Canaan", en: "Canaan"},
-    image: "/poi-images/tt-canaan-cities-v2.webp",
     description: {
       de: "Ein schnell wachsendes Gewerbe- und Wohngebiet im Südwesten von Tobago.",
       hu: "Gyorsan növekvő kereskedelmi és lakóövezet Tobago délnyugati részén.",
@@ -4834,7 +4782,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-CTT",
     coords: [-61.4833, 10.3667],
     name: { de: "Point Lisas", hu: "Point Lisas", ro: "Point Lisas", en: "Point Lisas"},
-    image: "/poi-images/tt-point-lisas-cities-v2.webp",
     description: {
       de: "Eines der größten Industriegebiete der Karibik mit Schwerpunkt auf Petrochemie.",
       hu: "A Karib-térség egyik legnagyobb ipari területe, petrolkémiai fókusszal.",
@@ -4959,7 +4906,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TUP",
     coords: [-61.35, 10.6333],
     name: { de: "Tacarigua", hu: "Tacarigua", ro: "Tacarigua", en: "Tacarigua"},
-    image: "/poi-images/tt-tacariqua-cities-v2.webp",
     description: {
       de: "Eine Stadt im East-West Corridor, Heimat des Nationalen Hockeyzentrums von Trinidad.",
       hu: "Város az Kelet-Nyugat folyosón, Trinidad Nemzeti Jégkorong Központjának otthona.",
@@ -5084,7 +5030,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TUP",
     coords: [-61.3167, 10.6333],
     name: { de: "D'Abadie", hu: "D'Abadie", ro: "D'Abadie", en: "D'Abadie"},
-    image: "/poi-images/tt-dabadie-cities-v2.webp",
     description: {
       de: "Ein wachsendes Wohngebiet zwischen Arouca und Arima.",
       hu: "Növekvő lakónegyed Arouca és Arima között.",
@@ -5128,7 +5073,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-CTT",
     coords: [-61.4667, 10.3833],
     name: { de: "California", hu: "California", ro: "California", en: "California"},
-    image: "/poi-images/tt-california-cities-v2.webp",
     description: {
       de: "Ein Dorf in der Nähe von Couva, das nach den kalifornischen Arbeitern benannt ist, die hierher kamen.",
       hu: "Falu Couva közelében, amelyet az ide érkezett kaliforniai munkásokról neveztek el.",
@@ -5172,7 +5116,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-SIP",
     coords: [-61.65, 10.1],
     name: { de: "Erin", hu: "Erin", ro: "Erin", en: "Erin"},
-    image: "/poi-images/tt-erin-cities-v2.webp",
     description: {
       de: "Ein Fischerdorf an der Südküste, das für seine Strände und seine ruhige Atmosphäre bekannt ist.",
       hu: "Halászfalu a déli parton, strandjairól és nyugodt légköréről ismert.",
@@ -5216,7 +5159,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-SGE",
     coords: [-61.1667, 10.45],
     name: { de: "Biche", hu: "Biche", ro: "Biche", en: "Biche"},
-    image: "/poi-images/tt-biche-cities-v2.webp",
     description: {
       de: "Ein ländliches Dorf im Zentrum von Trinidad, umgeben von Wäldern.",
       hu: "Vidéki falu Trinidad központjában, erdőkkel körülvéve.",
@@ -5260,7 +5202,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-PRT",
     coords: [-61.2667, 10.2],
     name: { de: "Tableland", hu: "Tableland", ro: "Tableland", en: "Tableland"},
-    image: "/poi-images/tt-tableland-cities-v2.webp",
     description: {
       de: "Eine ländliche Gemeinschaft in der Region Princes Town, die für die Landwirtschaft bekannt ist.",
       hu: "Vidéki közösség a Princes Town régióban, mezőgazdaságáról ismert.",
@@ -5304,7 +5245,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-PRT",
     coords: [-61.3333, 10.2333],
     name: { de: "New Grant", hu: "New Grant", ro: "New Grant", en: "New Grant"},
-    image: "/poi-images/tt-new-grant-cities-v2.webp",
     description: {
       de: "Eine Siedlung in der Region Princes Town mit einer Mischung aus Wohn- und Landwirtschaftsflächen.",
       hu: "Település a Princes Town régióban, lakó- és mezőgazdasági területek keverékével.",
@@ -5393,7 +5333,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.8167, 11.15],
     name: { de: "Bon Accord", hu: "Bon Accord", ro: "Bon Accord", en: "Bon Accord"},
-    image: "/poi-images/tt-bon-accord-cities-v2.webp",
     description: {
       de: "Ein Gebiet in Tobago in der Nähe von Crown Point, das für seine Lagune und Mangroven bekannt ist.",
       hu: "Tobago egy területe Crown Point közelében, lagúnájáról és mangroveiről ismert.",
@@ -5626,7 +5565,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.7833, 11.2167],
     name: { de: "Plymouth", hu: "Plymouth", ro: "Plymouth", en: "Plymouth"},
-    image: "/poi-images/tt-plymouth-cities-v2.webp",
     description: {
       de: "Einer der ältesten Orte auf Tobago, Standort von Fort James.",
       hu: "Tobago egyik legrégebbi helye, a Fort James helyszíne.",
@@ -5670,7 +5608,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.65, 11.2333],
     name: { de: "Pembroke", hu: "Pembroke", ro: "Pembroke", en: "Pembroke"},
-    image: "/poi-images/tt-pembroke-cities-v2.webp",
     description: {
       de: "Ein Dorf in Tobago, das für seine starken afrikanischen Traditionen und sein Erntedankfest bekannt ist.",
       hu: "Falu Tobagóban, amely erős afrikai hagyományairól és aratóünnepéről ismert.",
@@ -5867,7 +5804,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.75, 11.1833],
     name: { de: "Morne Quinton", hu: "Morne Quinton", ro: "Morne Quinton", en: "Morne Quinton"},
-    image: "/poi-images/tt-morne-quinton-cities-v2.webp",
     description: {
       de: "Ein Wohngebiet mit Blick auf Scarborough, Tobago.",
       hu: "Lakónegyed, kilátással Scarborough-ra, Tobago.",
@@ -5956,7 +5892,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.6333, 11.2333],
     name: { de: "Goldsborough", hu: "Goldsborough", ro: "Goldsborough", en: "Goldsborough"},
-    image: "/poi-images/tt-goldsborough-cities-v2.webp",
     description: {
       de: "Ein Gebiet in Tobago, das für die Goldsborough Bay und die nahe gelegenen Ruinen einer Zuckermühle bekannt ist.",
       hu: "Tobago egyik területe, amely a Goldsborough-öbölről és a közeli cukormalom romjairól ismert.",
@@ -6005,7 +5940,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.6167, 11.25],
     name: { de: "Belle Garden", hu: "Belle Garden", ro: "Belle Garden", en: "Belle Garden"},
-    image: "/poi-images/tt-belle-garden-cities-v2.webp",
     description: {
       de: "Ein Dorf an der windzugewandten Küste von Tobago.",
       hu: "Falu Tobago szél felőli partján.",
@@ -6098,7 +6032,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.7167, 11.2167],
     name: { de: "Mason Hall", hu: "Mason Hall", ro: "Mason Hall", en: "Mason Hall"},
-    image: "/poi-images/tt-mason-hall-cities-v2.webp",
     description: {
       de: "Eines der größten Binnendörfer auf Tobago.",
       hu: "Tobago egyik legnagyobb szárazföldi faluja.",
@@ -6142,7 +6075,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.6833, 11.2667],
     name: { de: "Castara", hu: "Castara", ro: "Castara", en: "Castara"},
-    image: "/poi-images/tt-castara-cities-v2.webp",
     description: {
       de: "Ein kleines Fischerdorf und ein wachsendes Ökotourismus-Ziel in einer abgelegenen Bucht.",
       hu: "Kis halászfalu és növekvő ökoturisztikai célpont egy félreeső öbölben.",
@@ -6392,7 +6324,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.6, 11.2667],
     name: { de: "Richmond", hu: "Richmond", ro: "Richmond", en: "Richmond"},
-    image: "/poi-images/tt-richmond-cities-v2.webp",
     description: {
       de: "Ein kleines Dorf in Tobago in der Nähe des Richmond Great House.",
       hu: "Kis falu Tobagóban, a Richmond Great House közelében.",
@@ -6481,7 +6412,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-TOB",
     coords: [-60.7, 11.2167],
     name: { de: "Glamis", hu: "Glamis", ro: "Glamis", en: "Glamis"},
-    image: "/poi-images/tt-glamis-cities-v2.webp",
     description: {
       de: "Ein kleines Dorf im Zentrum von Tobago.",
       hu: "Kis falu Tobago központjában.",
@@ -6614,7 +6544,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-CTT",
     coords: [-61.35, 10.4167],
     name: { de: "Brasso", hu: "Brasso", ro: "Brasso", en: "Brasso"},
-    image: "/poi-images/tt-brasso-cities-v2.webp",
     description: {
       de: "Ein ländliches Dorf in Zentral-Trinidad mit einer Geschichte in der Kakao- und Kaffeeproduktion.",
       hu: "Vidéki falu Közép-Trinidadban, kakaó- és kávétermelési múlttal.",
@@ -6658,7 +6587,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-PRT",
     coords: [-61.3667, 10.3167],
     name: { de: "Piparo", hu: "Piparo", ro: "Piparo", en: "Piparo"},
-    image: "/poi-images/tt-piparo-cities-v2.webp",
     description: {
       de: "Ein Dorf, das für den Ausbruch seines Schlammvulkans im Jahr 1997 bekannt ist.",
       hu: "Egy falu, amely az 1997-es iszapvulkán-kitöréséről ismert.",
@@ -6702,7 +6630,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-CTT",
     coords: [-61.4167, 10.4],
     name: { de: "Preysal", hu: "Preysal", ro: "Preysal", en: "Preysal"},
-    image: "/poi-images/tt-preysal-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Nähe von Couva, die für ihre Cricket-Tradition bekannt ist.",
       hu: "Város Couva közelében, krikett hagyományairól ismert.",
@@ -6746,7 +6673,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-CTT",
     coords: [-61.4, 10.35],
     name: { de: "Tortuga", hu: "Tortuga", ro: "Tortuga", en: "Tortuga"},
-    image: "/poi-images/tt-tortuga-cities-v2.webp",
     description: {
       de: "Ein historisches Dorf in Zentral-Trinidad, dessen Name 'Schildkröte' auf Spanisch bedeutet.",
       hu: "Történelmi falu Közép-Trinidadban, neve spanyolul 'teknőst' jelent.",
@@ -6790,7 +6716,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-CTT",
     coords: [-61.3, 10.45],
     name: { de: "Mamoral", hu: "Mamoral", ro: "Mamoral", en: "Mamoral"},
-    image: "/poi-images/tt-mamoral-cities-v2.webp",
     description: {
       de: "Ein ländliches Dorf in den zentralen Ebenen von Trinidad.",
       hu: "Vidéki falu Trinidad központi síkságain.",
@@ -6923,7 +6848,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-MRC",
     coords: [-61.15, 10.35],
     name: { de: "Ecclesville", hu: "Ecclesville", ro: "Ecclesville", en: "Ecclesville"},
-    image: "/poi-images/tt-ecclesville-cities-v2.webp",
     description: {
       de: "Ein ländliches Dorf in der Region Mayaro-Rio Claro.",
       hu: "Vidéki falu a Mayaro-Rio Claro régióban.",
@@ -7048,7 +6972,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-PRT",
     coords: [-61.2833, 10.3333],
     name: { de: "Brothers Road", hu: "Brothers Road", ro: "Brothers Road", en: "Brothers Road"},
-    image: "/poi-images/tt-brothers-road-cities-v2.webp",
     description: {
       de: "Ein Dorf im Süden von Trinidad, das für seine ländliche Landschaft bekannt ist.",
       hu: "Falu Dél-Trinidadban, vidéki tájáról ismert.",
@@ -7092,7 +7015,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     parent: "TT-PRT",
     coords: [-61.4, 10.3],
     name: { de: "Hardbargain", hu: "Hardbargain", ro: "Hardbargain", en: "Hardbargain"},
-    image: "/poi-images/tt-hardbargain-cities-v2.webp",
     description: {
       de: "Ein Dorf in der Nähe von Princes Town.",
       hu: "Falu Princes Town közelében.",

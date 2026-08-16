@@ -197,7 +197,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     parent: "AM-KT",
     coords: [44.7302, 40.1124],
     name: { de: "Tempel von Garni", hu: "Garni-templom", ro: "Templul Garni", en: "Garni Temple"},
-    image: "/poi-images/garni-temple-history-v2.webp",
     description: { de: "Ein klassisch hellenistischer Tempel in Armenien, der dem Sonnengott Mithras geweiht war.", hu: "Klasszikus hellenisztikus templom Örményországban, amelyet Mithrász napistennek szenteltek.", ro: "Un templu elenistic clasic din Armenia, dedicat zeului soarelui Mithras.", en: "A classical Hellenistic temple in Armenia, dedicated to the sun god Mithras." , es: "Un templo helenístico clásico en Armenia consagrado al dios del sol, Mitra.", pt: "Um templo helenístico clássico na Armênia dedicado ao deus do sol, Mitra.", fr: "Un temple hellénistique classique en Arménie, dédié au dieu du soleil Mithra."},
     facts: {
       de: ["Im 1. Jahrhundert nach Christus erbaut.", "Einziges erhaltenes griechisch-römisches Gebäude Armeniens."],
@@ -458,7 +457,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     parent: "AM-KT",
     coords: [44.8185, 40.1404],
     name: { de: "Kloster Geghard", hu: "Gegard-kolostor", ro: "Mănăstirea Geghard", en: "Geghard Monastery"},
-    image: "/poi-images/geghard-monastery-history-v2.webp",
     description: { de: "Ein mittelalterliches Kloster, das teilweise in den angrenzenden Berg gehauen wurde und zum UNESCO-Welterbe gehört.", hu: "Középkori kolostor, amelyet részben a szomszédos hegybe vájtak, és az UNESCO világörökség része.", ro: "O mănăstire medievală săpată parțial în muntele adiacent, parte a Patrimoniului Mondial UNESCO.", en: "A medieval monastery being partially carved out of the adjacent mountain, surrounded by cliffs." , es: "Un monasterio medieval parcialmente excavado en la montaña adyacente que es Patrimonio de la Humanidad por la UNESCO.", pt: "Um mosteiro medieval parcialmente esculpido na montanha adjacente e classificado como Patrimônio Mundial da UNESCO.", fr: "Un monastère médiéval partiellement creusé dans la montagne adjacente, inscrit au patrimoine mondial de l'UNESCO."},
     facts: {
       de: ["Gegründet im 4. Jahrhundert von Gregor dem Erleuchter.", "Benannt nach der Lanze, die Jesus am Kreuz verletzte."],
@@ -683,7 +681,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     parent: "AM-AR",
     coords: [44.3364, 40.1601],
     name: { de: "Kathedrale von Swartnoz", hu: "Zvartnotsz-székesegyház", ro: "Catedrala Zvartnots", en: "Zvartnots Cathedral"},
-    image: "/poi-images/zvartnots-cathedral-history-v2.webp",
     description: { de: "Die Ruinen einer runden armenischen Kathedrale aus dem 7. Jahrhundert, die bei einem Erdbeben zerstört wurde.", hu: "Egy 7. századi kerek örmény katedrális romjai, amely egy földrengésben pusztult el.", ro: "Ruinele unei catedrale armene circulare din secolul al VII-lea, distrusă de un cutremur.", en: "The ruins of a 7th-century centrally planned aisled tetraconch type Armenian cathedral." , es: "Las ruinas de una catedral armenia circular del siglo VII, que fue destruida por un terremoto.", pt: "As ruínas de uma catedral arménia circular do século VII, destruída por um sismo.", fr: "Les ruines d'une cathédrale arménienne circulaire du VIIe siècle, détruite par un tremblement de terre."},
     facts: {
       de: ["Erbaut zwischen 643 und 652.", "Gehört seit dem Jahr 2000 zum UNESCO-Welterbe."],
@@ -1016,7 +1013,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     parent: "AM-AR",
     coords: [44.5760, 39.8783],
     name: { de: "Kloster Chor Virap", hu: "Hor Virap-kolostor", ro: "Mănăstirea Khor Virap", en: "Khor Virap"},
-    image: "/poi-images/khor-virap-history-v2.webp",
     description: { de: "Ein bedeutender Wallfahrtsort mit Blick auf den Berg Ararat, wo Gregor der Erleuchter gefangen gehalten wurde.", hu: "Jelentős zarándokhely az Ararát-hegyre néző kilátással, ahol Világosító Szent Gergely raboskodott.", ro: "Un loc de pelerinaj important cu vedere la Muntele Ararat, unde Grigore Iluminătorul a fost ținut prizonier.", en: "An important pilgrimage site offering a spectacular view of Mount Ararat, famous as the prison of Gregory the Illuminator." , es: "Un importante lugar de peregrinación con vistas al monte Ararat, donde San Gregorio el Iluminador estuvo prisionero.", pt: "Um importante local de peregrinação com vista para o Monte Ararat, onde Gregório, o Iluminador, foi mantido prisioneiro.", fr: "Un lieu de pèlerinage majeur offrant une vue sur le mont Ararat, où Grégoire l'Illuminateur fut emprisonné."},
     facts: {
       de: ["Gregor der Erleuchter war hier 13 Jahre lang eingesperrt.", "Es liegt nur wenige Kilometer von der geschlossenen türkischen Grenze entfernt."],
@@ -1529,7 +1525,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     parent: "AM-VD",
     coords: [45.2330, 39.6845],
     name: { de: "Kloster Norawank", hu: "Noravank-kolostor", ro: "Mănăstirea Noravank", en: "Noravank"},
-    image: "/poi-images/noravank-history-v2.webp",
     description: { de: "Ein Kloster aus dem 13. Jahrhundert in einer engen Schlucht, das für seine rötlichen Klippen und seine Architektur berühmt ist.", hu: "13. századi kolostor egy szűk szurdokban, amely vöröses szikláiról és építészetéről híres.", ro: "O mănăstire din secolul al XIII-lea aflată într-un defileu îngust, faimoasă pentru stâncile sale roșiatice.", en: "A 13th-century Armenian monastery, located in a narrow gorge known for its tall, sheer, brick-red cliffs." , es: "Un monasterio del siglo XIII en un estrecho desfiladero, famoso por sus acantilados rojizos y su arquitectura.", pt: "Um mosteiro do século XIII num desfiladeiro estreito, famoso pelas suas falésias avermelhadas e pela sua arquitetura.", fr: "Un monastère du XIIIe siècle situé dans une gorge étroite, célèbre pour ses falaises rougeâtres et son architecture."},
     facts: {
       de: ["Erbaut vom berühmten Architekten Momik.", "Die Hauptkirche ist die Surb Astvatsatsin, eine zweistöckige Kirche."],
@@ -1898,7 +1893,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     parent: "AM-SU",
     coords: [46.2497, 39.3802],
     name: { de: "Kloster Tatew", hu: "Tatev-kolostor", ro: "Mănăstirea Tatev", en: "Tatev Monastery"},
-    image: "/poi-images/tatev-monastery-history-v2.webp",
     description: { de: "Ein befestigtes Kloster auf einem großen Basaltplateau, das im Mittelalter ein wichtiges intellektuelles Zentrum war.", hu: "Erődített kolostor egy nagy bazaltfennsíkon, amely a középkorban fontos szellemi központ volt.", ro: "O mănăstire fortificată situată pe un mare platou de bazalt, care a fost un important centru intelectual în Evul Mediu.", en: "A 9th-century historical monument standing on the edge of a deep gorge of the Vorotan River." , es: "Un monasterio fortificado sobre una gran meseta de basalto, que fue un importante centro intelectual en la Edad Media.", pt: "Um mosteiro fortificado num grande planalto de basalto, que foi um importante centro intelectual na Idade Média.", fr: "Un monastère fortifié sur un grand plateau basaltique, qui fut un centre intellectuel majeur au Moyen Âge."},
     facts: {
       de: ["Gegründet im 9. Jahrhundert.", "Die Pendelbahn Wings of Tatev führt zum Kloster."],
@@ -2159,7 +2153,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     parent: "AM-ER",
     coords: [44.5383, 40.1406],
     name: { de: "Festung Erebuni", hu: "Erebuni-erőd", ro: "Cetatea Erebuni", en: "Erebuni Fortress"},
-    image: "/poi-images/erebuni-fortress-history-v2.webp",
     description: { de: "Eine urartäische befestigte Stadt, die als Vorgänger der modernen Stadt Jerewan gilt.", hu: "Urartui erődített város, amelyet a modern Jereván elődjének tartanak.", ro: "Un oraș fortificat urartian, considerat predecesorul orașului modern Erevan.", en: "An Urartian fortified city, located in Yerevan, dating back to 782 BC." , es: "Una ciudad fortificada urartiana considerada la predecesora de la moderna ciudad de Ereván.", pt: "Uma cidade fortificada urartiana que é considerada a antecessora da moderna cidade de Erevan.", fr: "Une ville fortifiée urartéenne considérée comme l'ancêtre de la ville moderne d'Erevan."},
     facts: {
       de: ["Im Jahr 782 vor Christus von König Argischti I. erbaut.", "Der Name Erebuni wurde später zu Jerewan."],
@@ -2240,7 +2233,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     parent: "AM-AG",
     coords: [43.9463, 40.0932],
     name: { de: "Gedenkstätte Sardarapat", hu: "Szardarapati emlékmű", ro: "Memorialul Sardarapat", en: "Sardarapat Memorial"},
-    image: "/poi-images/sardarapat-memorial-history-v2.webp",
     description: { de: "Ein Denkmal zur Erinnerung an die Schlacht von Sardarapat im Jahr 1918, die die armenische Nation rettete.", hu: "Emlékmű az 1918-as szardarapati csata emlékére, amely megmentette az örmény nemzetet.", ro: "Un memorial dedicat Bătăliei de la Sardarapat din 1918, care a salvat națiunea armeană.", en: "A memorial complex to the Battle of Sardarapat, located in the Armavir Province." , es: "Un monumento conmemorativo de la batalla de Sardarapat en 1918, que salvó a la nación armenia.", pt: "Um monumento em memória da Batalha de Sardarapat em 1918, que salvou a nação arménia.", fr: "Un monument commémorant la bataille de Sardarapat en 1918, qui sauva la nation arménienne."},
     facts: {
       de: ["1968 zum 50. Jahrestag der Schlacht eröffnet.", "Enthält ein ethnografisches Museum."],
@@ -2393,7 +2385,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     parent: "AM-ER",
     coords: [44.4905, 40.1856],
     name: { de: "Zizernakaberd", hu: "Cicernakaberd", ro: "Tsitsernakaberd", en: "Tsitsernakaberd"},
-    image: "/poi-images/tsitsernakaberd-history-v2.webp",
     description: { de: "Die offizielle Gedenkstätte Armeniens für die Opfer des Völkermords an den Armeniern im Jahr 1915.", hu: "Örményország hivatalos emlékműve az 1915-ös örmény népirtás áldozatainak emlékére.", ro: "Memorialul oficial al Armeniei dedicat victimelor genocidului armean din 1915.", en: "The official memorial dedicated to the victims of the Armenian Genocide." , es: "El monumento oficial de Armenia a las víctimas del genocidio armenio de 1915.", pt: "O monumento oficial da Arménia às vítimas do genocídio arménio de 1915.", fr: "Le mémorial officiel de l'Arménie aux victimes du génocide arménien de 1915."},
     facts: {
       de: ["Der 44 Meter hohe Obelisk symbolisiert die nationale Wiedergeburt der Armenier.", "Eine ewige Flamme brennt im Zentrum der 12 Pylonen."],
@@ -2942,7 +2933,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     parent: "AM-ER",
     coords: [44.5247, 40.1953],
     name: { de: "Mutter Armenien", hu: "Örményország Anyja", ro: "Mama Armenia", en: "Mother Armenia"},
-    image: "/poi-images/mother-armenia-history-v2.webp",
     description: { de: "Eine monumentale Statue in Jerewan, die den Frieden durch Stärke symbolisiert.", hu: "Egy monumentális szobor Jerevánban, amely az erőn keresztüli békét szimbolizálja.", ro: "O statuie monumentală în Erevan care simbolizează pacea prin putere.", en: "A female personification of Armenia, located in Victory Park, Yerevan." , es: "Una estatua monumental en Ereván que simboliza la paz a través de la fuerza.", pt: "Uma estátua monumental em Erevan que simboliza a paz através da força.", fr: "Une statue monumentale à Erevan, symbolisant la paix par la force."},
     facts: {
       de: ["Ersetzte 1967 eine monumentale Statue von Josef Stalin.", "Das Podest beherbergt ein Militärmuseum."],
@@ -3410,7 +3400,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     parent: "AM-LO",
     coords: [44.7118, 41.0939],
     name: { de: "Kloster Haghpat", hu: "Haghpat-kolostor", ro: "Mănăstirea Haghpat", en: "Haghpat Monastery"},
-    image: "/poi-images/haghpat-monastery-history-v2.webp",
     description: { de: "Ein mittelalterlicher Klosterkomplex im Norden Armeniens, der im 10. Jahrhundert erbaut wurde.", hu: "Középkori kolostorkomplexum Örményország északi részén, amelyet a 10. században építettek.", ro: "Un complex monahal medieval în nordul Armeniei, construit în secolul al X-lea.", en: "A medieval Armenian monastery complex in Haghpat, built between the 10th and 13th centuries." , es: "Un complejo monástico medieval en el norte de Armenia, construido en el siglo X.", pt: "Um complexo monástico medieval no norte da Armênia, construído no século X.", fr: "Un complexe monastique médiéval situé dans le nord de l'Arménie, construit au Xe siècle."},
     facts: {
       de: ["Wurde von Königin Chosrowanusch gegründet.", "Gehört seit 1996 zum UNESCO-Welterbe."],
@@ -3707,7 +3696,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     parent: "AM-LO",
     coords: [44.6660, 41.0874],
     name: { de: "Kloster Sanahin", hu: "Szanahin-kolostor", ro: "Mănăstirea Sanahin", en: "Sanahin Monastery"},
-    image: "/poi-images/sanahin-monastery-history-v2.webp",
     description: { de: "Ein bedeutendes religiöses und kulturelles Zentrum des mittelalterlichen Armeniens, nahe Haghpat gelegen.", hu: "A középkori Örményország jelentős vallási és kulturális központja, Haghpat közelében.", ro: "Un important centru religios și cultural din Armenia medievală, situat lângă Haghpat.", en: "An Armenian monastery founded in the 10th century in the Lori Province." , es: "Un importante centro religioso y cultural de la Armenia medieval, situado cerca de Haghpat.", pt: "Um importante centro religioso e cultural da Arménia medieval, localizado perto de Haghpat.", fr: "Un centre religieux et culturel majeur de l'Arménie médiévale, situé à proximité de Haghpat."},
     facts: {
       de: ["Der Name bedeutet auf Armenisch »dieses ist älter als jenes«.", "Berühmt für seine mittelalterliche Schreibschule und Bibliothek."],
@@ -4040,7 +4028,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     parent: "AM-AG",
     coords: [44.2263, 40.3887],
     name: { de: "Festung Amberd", hu: "Amberd-erőd", ro: "Cetatea Amberd", en: "Amberd Fortress"},
-    image: "/poi-images/amberd-fortress-history-v2.webp",
     description: { de: "Eine Festungsruine aus dem 7. Jahrhundert, die sich auf einer Höhe von 2.300 Metern am Hang des Berges Aragaz befindet.", hu: "Egy 7. századi erődrom, amely 2300 méteres magasságban található az Aragac hegy lejtőjén.", ro: "O cetate ruinată din secolul al VII-lea, situată la 2.300 de metri altitudine pe versantul muntelui Aragats.", en: "A 7th-century fortress situated 2,300 meters above sea level on the slopes of Mount Aragats." , es: "Una ruina de fortaleza del siglo VII, situada a una altitud de 2.300 metros en la ladera del monte Aragats.", pt: "Uma ruína de fortaleza do século VII, situada a uma altitude de 2.300 metros na encosta do monte Aragats.", fr: "Les ruines d'une forteresse du VIIe siècle, situées à 2 300 mètres d'altitude sur le versant du mont Aragats."},
     facts: {
       de: ["Der Name bedeutet »Festung in den Wolken«.", "Wurde im 11. Jahrhundert von den Seldschuken eingenommen."],
@@ -4733,7 +4720,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     parent: "AM-VD",
     coords: [45.3375, 39.8719],
     name: { de: "Festung Smbataberd", hu: "Szmbataberd-erőd", ro: "Cetatea Smbataberd", en: "Smbataberd Fortress"},
-    image: "/poi-images/smbataberd-fortress-history-v2.webp",
     description: { de: "Eine beeindruckende mittelalterliche Festung in der Provinz Wajoz Dsor, die auf einem hohen Bergkamm liegt.", hu: "Lenyűgöző középkori erőd Vajoc Dzor tartományban, amely egy magas hegygerincen helyezkedik el.", ro: "O impresionantă fortăreață medievală în provincia Vayots Dzor, situată pe o creastă înaltă.", en: "A medieval fortress located upon the crest of a hill between the villages of Artabuynk and Yeghegis." , es: "Una impresionante fortaleza medieval en la provincia de Vayots Dzor, situada en una alta cresta montañosa.", pt: "Uma impressionante fortaleza medieval na província de Vayots Dzor, situada numa alta crista montanhosa.", fr: "Une impressionnante forteresse médiévale dans la province de Vayots Dzor, perchée sur une haute crête."},
     facts: {
       de: ["Wurde im 10. Jahrhundert von der Orbelian-Dynastie erbaut.", "Ihre massiven Mauern blieben lange Zeit uneinnehmbar."],
@@ -4922,7 +4908,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     parent: "AM-SU",
     coords: [46.0287, 39.5505],
     name: { de: "Karahundsch", hu: "Karahundzs", ro: "Karahunj", en: "Karahunj"},
-    image: "/poi-images/karahunj-history-v2.webp",
     description: { de: "Eine prähistorische archäologische Stätte, die oft als das »armenische Stonehenge« bezeichnet wird.", hu: "Őskori régészeti lelőhely, amelyet gyakran »örmény Stonehenge«-nek neveznek.", ro: "Un sit arheologic preistoric, numit adesea »Stonehenge-ul armenesc«.", en: "A prehistoric archaeological site, frequently referred to in international tourist lore as the »Armenian Stonehenge«." , es: "Un yacimiento arqueológico prehistórico a menudo denominado el «Stonehenge armenio».", pt: "Um sítio arqueológico pré-histórico frequentemente referido como o «Stonehenge armênio».", fr: "Un site archéologique préhistorique souvent surnommé le « Stonehenge arménien »."},
     facts: {
       de: ["Besteht aus über 200 großen Basaltsteinen.", "Viele der Steine weisen rätselhafte Löcher auf."],
@@ -5399,7 +5384,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     parent: "AM-AG",
     coords: [44.3160, 40.2642],
     name: { de: "Kirche von Oschakan", hu: "Osakan-templom", ro: "Biserica Oshakan", en: "Oshakan Church"},
-    image: "/poi-images/oshakan-church-history-v2.webp",
     description: { de: "Eine Kirche, die über dem Grab von Mesrop Maschtoz, dem Erfinder des armenischen Alphabets, errichtet wurde.", hu: "Templom, amelyet Meszrop Mastoc, az örmény ábécé megalkotójának sírja fölé emeltek.", ro: "O biserică construită deasupra mormântului lui Mesrop Maștoț, inventatorul alfabetului armean.", en: "A church built over the grave of Mesrop Mashtots, the creator of the Armenian alphabet." , es: "Una iglesia construida sobre la tumba de Mesrop Mashtots, el inventor del alfabeto armenio.", pt: "Uma igreja construída sobre o túmulo de Mesrop Mashtots, o inventor do alfabeto armênio.", fr: "Une église érigée sur le tombeau de Mesrop Machtots, l'inventeur de l'alphabet arménien."},
     facts: {
       de: ["Der Erfinder des armenischen Alphabets ist hier begraben.", "Das armenische Alphabet wurde im Jahr 405 geschaffen."],
@@ -5470,7 +5454,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     parent: "AM-LO",
     coords: [44.7600, 41.1504],
     name: { de: "Kloster Achtala", hu: "Ahtala-kolostor", ro: "Mănăstirea Akhtala", en: "Akhtala Monastery"},
-    image: "/poi-images/akhtala-monastery-history-v2.webp",
     description: { de: "Ein befestigtes Kloster aus dem 10. Jahrhundert, bekannt für seine sehr gut erhaltenen mittelalterlichen Fresken.", hu: "Erődített kolostor a 10. századból, amely nagyon jól megőrzött középkori freskóiról híres.", ro: "O mănăstire fortificată din secolul al X-lea, cunoscută pentru frescele sale medievale bine conservate.", en: "A 10th-century fortified monastery known for its well-preserved medieval frescoes." , es: "Un monasterio fortificado del siglo X, conocido por sus frescos medievales muy bien conservados.", pt: "Um mosteiro fortificado do século X, conhecido pelos seus frescos medievais muito bem preservados.", fr: "Un monastère fortifié du Xe siècle, célèbre pour ses fresques médiévales très bien conservées."},
     facts: {
       de: ["Die Fresken kombinieren byzantinische und armenische Kunststile.", "Wurde von den Fürsten der Bagratiden-Dynastie erbaut."],
@@ -5911,7 +5894,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     parent: "AM-AG",
     coords: [43.8580, 40.3400],
     name: { de: "Festung Daschtadem", hu: "Dastadem-erőd", ro: "Cetatea Dashtadem", en: "Dashtadem Fortress"},
-    image: "/poi-images/dashtadem-fortress-history-v2.webp",
     description: { de: "Eine weitläufige mittelalterliche Festung, die vom 10. bis zum 19. Jahrhundert kontinuierlich erweitert wurde.", hu: "Kiterjedt középkori erőd, amelyet a 10. századtól a 19. századig folyamatosan bővítettek.", ro: "O vastă cetate medievală, extinsă continuu din secolul al X-lea până în secolul al XIX-lea.", en: "A substantial medieval fortress, continuously expanded from the 10th to the 19th centuries." , es: "Una extensa fortaleza medieval que fue ampliada continuamente desde el siglo X hasta el XIX.", pt: "Uma vasta fortaleza medieval que foi continuamente ampliada do século X ao XIX.", fr: "Une vaste forteresse médiévale qui a été continuellement agrandie du Xe au XIXe siècle."},
     facts: {
       de: ["Besteht aus zwei massiven Verteidigungsmauern.", "Diente dem Schutz der westlichen Grenzen Armeniens."],
@@ -6316,7 +6298,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     parent: "AM-AG",
     coords: [44.0792, 40.3015],
     name: { de: "Kathedrale von Arutsch", hu: "Arucsavank", ro: "Catedrala Aruch", en: "Aruchavank"},
-    image: "/poi-images/aruchavank-history-v2.webp",
     description: { de: "Die Überreste einer der größten Kirchen Armeniens aus dem 7. Jahrhundert, mit einer einstmals riesigen Kuppel.", hu: "Örményország egyik legnagyobb 7. századi templomának maradványai, amelynek egykor hatalmas kupolája volt.", ro: "Rămășițele uneia dintre cele mai mari biserici din Armenia, din secolul al VII-lea, cu un fost dom imens.", en: "The remains of one of the largest 7th-century Armenian churches, originally featuring a massive dome." , es: "Los restos de una de las iglesias más grandes de Armenia del siglo VII, con una cúpula que antaño fue enorme.", pt: "Os restos de uma das maiores igrejas da Arménia do século VII, com uma cúpula que outrora foi enorme.", fr: "Les vestiges de l'une des plus grandes églises d'Arménie datant du VIIe siècle, dotée autrefois d'une coupole immense."},
     facts: {
       de: ["Die gewaltige Kuppel stürzte bei einem Erdbeben ein.", "War Teil eines großen Palastkomplexes."],

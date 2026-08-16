@@ -7,8 +7,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "mountain",
     name: { de: "Tatra-Gebirge", hu: "Tátra", ro: "Munții Tatra", en: "Tatra Mountains"},
-    image: "/poi-images/poland-tatra-mountains-relief-v2.webp",
-    coords: [19.95, 49.25],
     coords: [19.95, 49.25],
     description: {
       de: "Die Tatra ist das höchste Gebirge der Karpaten und das einzige Gebirge mit alpinem Charakter in Polen. Sie bildet eine natürliche Grenze zwischen Polen und der Slowakei.",
@@ -349,8 +347,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "mountain",
     name: { de: "Bieszczady-Gebirge", hu: "Bieszczady-hegység", ro: "Munții Bieszczady", en: "Bieszczady Mountains"},
-    image: "/poi-images/poland-bieszczady-mountains-relief-v2.webp",
-    coords: [22.5, 49.15],
     coords: [22.5, 49.15],
     description: {
       de: "Die Bieszczady sind ein Teil der Ostkarpaten im Südosten Polens. Das Gebirge ist bekannt für seine weiten Bergwiesen, die sogenannten Poloniny, und seine unberührte Natur.",
@@ -691,8 +687,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "peak",
     name: { de: "Tarnica", hu: "Tarnica", ro: "Vârful Tarnica", en: "Tarnica"},
-    image: "/poi-images/poland-tarnica-peak-relief-v2.webp",
-    coords: [22.7272, 49.0744],
     coords: [22.7272, 49.0744],
     description: {
       de: "Die Tarnica ist mit 1346 Metern der höchste Gipfel des polnischen Bieszczady-Gebirges. Der Berg zeichnet sich durch seine markante Form und das große Metallkreuz auf seinem Gipfel aus.",
@@ -736,8 +730,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "mountain",
     name: { de: "Heuscheuergebirge", hu: "Tábla-hegység", ro: "Munții Stołowe", en: "Stołowe Mountains"},
-    image: "/poi-images/poland-stolowe-mountains-relief-v2.webp",
-    coords: [16.33, 50.48],
     coords: [16.33, 50.48],
     description: {
       de: "Das Heuscheuergebirge ist das einzige Tafelgebirge Polens und Teil der Sudeten. Es ist berühmt für seine flachen Gipfel und bizarren Sandsteinformationen, die Felsenstädte bilden.",
@@ -898,8 +890,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "mountain",
     name: { de: "Pieninen", hu: "Pieninek", ro: "Munții Pieniny", en: "Pieniny Mountains"},
-    image: "/poi-images/poland-pieniny-mountains-relief-v2.webp",
-    coords: [20.45, 49.42],
     coords: [20.45, 49.42],
     description: {
       de: "Die Pieninen sind ein Kalksteingebirge im Süden Polens, das vom Fluss Dunajec in einem spektakulären Durchbruchstal geteilt wird. Sie sind bekannt für ihre schroffen Felswände und die reiche Flora.",
@@ -1024,8 +1014,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "mountain",
     name: { de: "Heiligkreuzgebirge", hu: "Szentkereszt-hegység", ro: "Munții Sfânta Cruce", en: "Holy Cross Mountains"},
-    image: "/poi-images/poland-holy-cross-mountains-relief-v2.webp",
-    coords: [21.0, 50.85],
     coords: [21.0, 50.85],
     description: {
       de: "Das Heiligkreuzgebirge ist eines der ältesten Gebirge Europas und liegt in Zentralpolen. Es ist bekannt für seine Geröllhalden aus Quarzit und das Benediktinerkloster auf dem Berg Łysa Góra.",
@@ -1294,8 +1282,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "peak",
     name: { de: "Lysica", hu: "Łysica", ro: "Vârful Łysica", en: "Łysica"},
-    image: "/poi-images/poland-lysica-peak-relief-v2.webp",
-    coords: [20.9011, 50.8906],
     coords: [20.9011, 50.8906],
     description: {
       de: "Die Łysica ist mit 612 Metern der höchste Gipfel des Heiligkreuzgebirges. Sie besteht aus zwei Gipfeln und ist fast vollständig von Tannenwäldern bedeckt, mit markanten Quarzit-Blockhalden an den Hängen.",
@@ -1600,8 +1586,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "mountain",
     name: { de: "Schlesische Beskiden", hu: "Sziléziai-Beszkidek", ro: "Beskizii Silezieni", en: "Silesian Beskids"},
-    image: "/poi-images/poland-beskid-slaski-range-relief-v2.webp",
-    coords: [19.0, 49.65],
     coords: [19.0, 49.65],
     description: {
       de: "Die Schlesischen Beskiden sind ein Gebirgszug in den Westbeskiden im Süden Polens. Sie sind ein wichtiges Zentrum für Wintersport und Tourismus, mit bekannten Kurorten wie Wisła und Szczyrk.",
@@ -1870,8 +1854,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "peak",
     name: { de: "Skrzyczne", hu: "Skrzyczne", ro: "Vârful Skrzyczne", en: "Skrzyczne"},
-    image: "/poi-images/poland-skrzyczne-peak-relief-v2.webp",
-    coords: [19.0303, 49.6844],
     coords: [19.0303, 49.6844],
     description: {
       de: "Das Skrzyczne ist mit 1257 Metern der höchste Berg der Schlesischen Beskiden. Es ist leicht an dem weithin sichtbaren Fernsehturm auf dem Gipfel zu erkennen und bietet zahlreiche Skipisten.",
@@ -1996,8 +1978,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "mountain",
     name: { de: "Krakau-Tschenstochauer Jura", hu: "Krakkó-Częstochowai-fennsík", ro: "Podișul Cracovia-Częstochowa", en: "Kraków-Częstochowa Upland"},
-    image: "/poi-images/poland-jura-upland-relief-v2.webp",
-    coords: [19.8, 50.2],
     coords: [19.8, 50.2],
     description: {
       de: "Der Krakau-Tschenstochauer Jura ist ein Kalkstein-Hochland im Süden Polens. Er ist bekannt für seine malerischen Felsformationen, tiefen Täler und die mittelalterlichen Burgen der 'Adlerhorst-Route'.",
@@ -2230,8 +2210,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "landmark",
     name: { de: "Lubliner Hochland", hu: "Lublini-fennsík", ro: "Podișul Lublin", en: "Lublin Upland"},
-    image: "/poi-images/poland-lublin-upland-relief-v2.webp",
-    coords: [22.8, 51.2],
     coords: [22.8, 51.2],
     description: {
       de: "Das Lubliner Hochland ist eine wellige Ebene im Osten Polens, die von Lössböden geprägt ist. Die Region ist bekannt für ihre tiefen Erosionsschluchten und die fruchtbare Landwirtschaft.",
@@ -2320,8 +2298,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "valley",
     name: { de: "Sandomirer Becken", hu: "Sandomierzi-medence", ro: "Bazinul Sandomierz", en: "Sandomierz Basin"},
-    image: "/poi-images/poland-sandomierz-basin-relief-v2.webp",
-    coords: [22.0, 50.2],
     coords: [22.0, 50.2],
     description: {
       de: "Das Sandomirer Becken ist eine ausgedehnte Tiefebene im Südosten Polens am Zusammenfluss von Weichsel und San. Es ist ein tektonisches Senkungsgebiet, das reich an Bodenschätzen ist.",
@@ -2346,7 +2322,6 @@ export const polandReliefV2: POI[] = [
       de: "Das Sandomirer Becken ist eine ausgedehnte, dreieckige Tieflandregion im Südosten Polens, die tektonisch als Senke am nördlichen Vorland der Karpaten entstanden ist. Das Landschaftsbild ist überwiegend flach bis leicht wellig und wird maßgeblich von den breiten, mäandrierenden Flusstälern der Weichsel (Wisła) und des San sowie deren zahlreichen Nebenflüssen bestimmt. Während der letzten Eiszeiten wurden hier riesige Mengen an Sanden, Tonen und Geröllen abgelagert, die heute den Untergrund bilden. Diese sandigen Böden sind oft von weitläufigen, dichten Kiefernwäldern bedeckt, wie etwa dem historischen Sandomirer Urwald (Puszcza Sandomierska). Geologisch verbirgt das Becken unter seiner Oberfläche bedeutende Schätze: Es beherbergt einige der wichtigsten Erdgas- und Schwefelvorkommen Polens, deren Abbau die industrielle Entwicklung der Region im 20. Jahrhundert stark vorangetrieben hat.",
       hu: "A Sandomierzi-medence egy kiterjedt, háromszög alakú síkvidéki régió Lengyelország délkeleti részén, amely tektonikusan a Kárpátok északi előterének süllyedékeként alakult ki. A tájkép túlnyomórészt lapos vagy enyhén hullámos, amelyet döntően a Visztula (Wisła) és a San folyók, valamint azok számos mellékfolyójának széles, kanyargós völgyei határoznak meg. A legutóbbi jégkorszakok során hatalmas mennyiségű homok, agyag és kavics rakódott itt le, amely a mai felszín alatti rétegeket alkotja. Ezeket a homokos talajokat gyakran kiterjedt, sűrű erdeifenyvesek borítják, mint például a történelmi Sandomierzi-őserdő (Puszcza Sandomierska). Geológiai értelemben a medence jelentős kincseket rejt a mélyben: itt találhatók Lengyelország legfontosabb földgáz- és kénlelőhelyei, amelyek kitermelése a 20. században erősen fellendítette a régió ipari fejlődését.",
       ro: "Bazinul Sandomierz este o regiune de câmpie extinsă, de formă triunghiulară, situată în sud-estul Poloniei, formată tectonic ca o depresiune în avanlandul nordic al Carpaților. Peisajul este predominant plat până la ușor vălurit și este determinat în mare măsură de văile largi, meandrate ale râurilor Vistula (Wisła) și San, precum și de numeroșii lor afluenți. În timpul ultimelor ere glaciare, aici s-au depus cantități uriașe de nisip, argilă și pietriș, care formează astăzi subsolul. Aceste soluri nisipoase sunt adesea acoperite de păduri întinse și dese de pini, cum ar fi istorica Pădure Sandomierz (Puszcza Sandomierska). Din punct de vedere geologic, bazinul ascunde comori semnificative sub suprafața sa: găzduiește unele dintre cele mai importante zăcăminte de gaze naturale și sulf din Polonia, a căror exploatare a impulsionat puternic dezvoltarea industrială a regiunii în secolul al XX-lea.",
-      en: "",
       en: "The Sandomierz Basin is an extensive, triangular lowland region in southeastern Poland, formed tectonically as a depression in the northern foreland of the Carpathian Mountains. The landscape is predominantly flat to gently undulating and is significantly defined by the broad, meandering river valleys of the Vistula (Wisła) and the San, along with their numerous tributaries. During the last Ice Ages, massive amounts of sand, clay, and gravel were deposited here, forming the present-day subsurface. These sandy soils are often covered by vast, dense pine forests, such as the historic Sandomierz Primeval Forest (Puszcza Sandomierska). Geologically, the basin conceals significant treasures beneath its surface: it harbors some of Poland's most important natural gas and sulfur deposits, the extraction of which heavily drove the region's industrial development in the 20th century.",
       es: "La cuenca de Sandomierz es una vasta región de tierras bajas de forma triangular en el sureste de Polonia, que se formó tectónicamente como una depresión en el antepaís norte de los Cárpatos. El paisaje es predominantemente llano a ligeramente ondulado y está determinado principalmente por los amplios valles fluviales meandrizantes del Vístula (Wisła) y el San, así como por sus numerosos afluentes. Durante las últimas glaciaciones, se depositaron aquí enormes cantidades de arena, arcilla y grava, que hoy forman el subsuelo. Estos suelos arenosos suelen estar cubiertos por extensos y densos bosques de pinos, como el histórico Bosque Primario de Sandomierz (Puszcza Sandomierska). Geológicamente, la cuenca esconde importantes tesoros bajo su superficie: alberga algunos de los yacimientos de gas natural y azufre más importantes de Polonia.",
       pt: "A Bacia de Sandomierz é uma vasta região de planície triangular no sudeste da Polónia, que surgiu tectonicamente como uma depressão no antepaís norte dos Cárpatos. A paisagem é predominantemente plana a ligeiramente ondulada e é determinada significativamente pelos amplos vales fluviais sinuosos do Vístula (Wisła) e do San, bem como pelos seus numerosos afluentes. Durante as últimas idades do gelo, foram depositadas aqui enormes quantidades de areia, argila e cascalho, que hoje formam o subsolo. Estes solos arenosos estão frequentemente cobertos por extensas e densas florestas de pinheiros, como a histórica Floresta de Sandomierz (Puszcza Sandomierska). Geologicamente, a bacia esconde tesouros importantes sob a sua superfície: abriga algumas das jazidas de gás natural e enxofre mais importantes da Polónia.",
@@ -2591,8 +2566,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "lake",
     name: { de: "Masurische Seenplatte", hu: "Mazuri-tóhátság", ro: "Regiunea Lacurilor Mazuriene", en: "Masurian Lake District"},
-    image: "/poi-images/poland-masurian-lake-district-relief-v2.webp",
-    coords: [21.5, 53.8],
     coords: [21.5, 53.8],
     description: {
       de: "Die Masurische Seenplatte ist eine eiszeitlich geprägte Hügellandschaft im Nordosten Polens mit über 2000 Seen. Sie ist das größte Seengebiet des Landes und ein wichtiges Touristenziel.",
@@ -2681,8 +2654,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "landmark",
     name: { de: "Lontzke-Düne", hu: "Lontzke-dűne", ro: "Duna Łącka", en: "Łącka Dune"},
-    image: "/poi-images/poland-lacka-dune-relief-v2.webp",
-    coords: [17.4, 54.75],
     coords: [17.4, 54.75],
     description: {
       de: "Die Lontzke-Düne ist die größte Wanderdüne im Slowinzischen Nationalpark an der Ostseeküste. Sie erreicht eine Höhe von über 30 Metern und bewegt sich jährlich mehrere Meter nach Osten.",
@@ -2726,8 +2697,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "valley",
     name: { de: "Hirschberger Tal", hu: "Jelenia Góra-i-medence", ro: "Depresiunea Jelenia Góra", en: "Jelenia Góra Valley"},
-    image: "/poi-images/poland-jelenia-gora-valley-relief-v2.webp",
-    coords: [15.75, 50.9],
     coords: [15.75, 50.9],
     description: {
       de: "Das Hirschberger Tal ist eine große Senke in den Westsudeten am Fuße des Riesengebirges. Es ist berühmt für seine hohe Dichte an historischen Schlössern, Parks und Herrensitzen.",
@@ -3068,8 +3037,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "mountain",
     name: { de: "Saybuscher Beskiden", hu: "Magas-Beszkidek", ro: "Beskizii Żywiecki", en: "Żywiec Beskids"},
-    image: "/poi-images/poland-beskid-zywiecki-range-relief-v2.webp",
-    coords: [19.3, 49.5],
     coords: [19.3, 49.5],
     description: {
       de: "Die Saybuscher Beskiden sind der zweithöchste Gebirgszug Polens nach der Tatra. Sie liegen an der Grenze zur Slowakei und beherbergen den Babia-Góra-Nationalpark.",
@@ -3113,8 +3080,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "mountain",
     name: { de: "Sudeten", hu: "Szudéták", ro: "Munții Sudeți", en: "Sudetes"},
-    image: "/poi-images/poland-sudetes-mountains-relief-v2.webp",
-    coords: [16.0, 50.5],
     coords: [16.0, 50.5],
     description: {
       de: "Die Sudeten sind ein Gebirgszug in Mitteleuropa, der sich entlang der Grenze zwischen Polen, Tschechien und Deutschland erstreckt. Sie bestehen aus vielen kleineren Massiven wie dem Riesengebirge.",
@@ -3419,8 +3384,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "mountain",
     name: { de: "Niedere Beskiden", hu: "Alacsony-Beszkidek", ro: "Beskizii Joși", en: "Low Beskids"},
-    image: "/poi-images/poland-beskid-niski-range-relief-v2.webp",
-    coords: [21.3, 49.4],
     coords: [21.3, 49.4],
     description: {
       de: "Die Niederen Beskiden sind der am niedrigsten gelegene Teil der Karpaten in Polen. Die Region ist bekannt für ihre sanften Hügel, die Lemken-Kultur und die älteste Ölindustrie der Welt.",
@@ -3761,8 +3724,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "mountain",
     name: { de: "Przemysler Vorgebirge", hu: "Przemyśli-előhegység", ro: "Piemontul Przemyśl", en: "Przemyśl Foothills"},
-    image: "/poi-images/poland-pogorze-przemyskie-upland-relief-v2.webp",
-    coords: [22.6, 49.65],
     coords: [22.6, 49.65],
     description: {
       de: "Das Przemysler Vorgebirge liegt im äußersten Südosten Polens und bildet den Übergang von den Karpaten zum Tiefland. Es ist geprägt durch abgerundete Hügel und tiefe Flusstäler.",
@@ -4103,8 +4064,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "mountain",
     name: { de: "Sandzer Beskiden", hu: "Sądecki-Beszkidek", ro: "Beskizii Sądecki", en: "Sądecki Beskids"},
-    image: "/poi-images/poland-beskid-sadecki-range-relief-v2.webp",
-    coords: [20.8, 49.45],
     coords: [20.8, 49.45],
     description: {
       de: "Die Sandzer Beskiden sind Teil der Westbeskiden und werden durch das Tal des Flusses Poprad geteilt. Die Region ist bekannt für ihre zahlreichen Mineralwasserquellen und Kurorte.",
@@ -4445,8 +4404,6 @@ export const polandReliefV2: POI[] = [
     parent: "PL",
     type: "mountain",
     name: { de: "Gorce-Gebirge", hu: "Gorce-hegység", ro: "Munții Gorce", en: "Gorce Mountains"},
-    image: "/poi-images/poland-gorce-mountains-relief-v2.webp",
-    coords: [20.15, 49.55],
     coords: [20.15, 49.55],
     description: {
       de: "Das Gorce-Gebirge ist ein Gebirgszug in den Westbeskiden im Süden Polens. Es zeichnet sich durch sternförmig vom zentralen Gipfel Turbacz ausgehende Kämme und weite Bergwiesen aus.",
@@ -4536,7 +4493,6 @@ export const polandReliefV2: POI[] = [
     type: "landmark",
     name: { de: "Polnisches Tiefland", hu: "Lengyel-alföld", ro: "Câmpia Poloneză", en: "Polish Plain"},
     image: "/poi-images/poland-north-european-plain-relief-v2.webp",
-    coords: [19.0, 52.3],
     coords: [19.0, 52.3],
     description: {
       de: "Das Polnische Tiefland ist Teil der Nordeuropäischen Ebene und bedeckt den größten Teil Zentral- und Nordpolens. Es ist eine weite, flache bis leicht hügelige Landschaft, die eiszeitlich geformt wurde.",
@@ -4735,7 +4691,6 @@ export const polandReliefV2: POI[] = [
     type: "mountain",
     name: { de: "Wieliczka-Vorgebirge", hu: "Wieliczkai-előhegység", ro: "Piemontul Wieliczka", en: "Wieliczka Foothills"},
     image: "/poi-images/poland-pogorze-wielickie-upland-relief-v2.webp",
-    coords: [20.0, 49.9],
     coords: [20.0, 49.9],
     description: {
       de: "Das Wieliczka-Vorgebirge liegt südlich von Krakau und bildet den nördlichsten Teil der Beskiden. Es ist eine Hügellandschaft, die weltweit für ihre Steinsalzvorkommen bekannt ist.",

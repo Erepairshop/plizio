@@ -701,7 +701,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     parent: "LB-JL",
     coords: [35.6414, 33.9442],
     name: { de: "Jeita-Grotte", hu: "Jeita-barlang", ro: "Grota Jeita", en: "Jeita Grotto"},
-    image: "/poi-images/jeita-grotto-landmarks-v2.webp",
     description: {
       de: "Ein beeindruckendes Tropfsteinhöhlensystem im Libanon, das in zwei Ebenen unterteilt ist.",
       hu: "Lenyűgöző cseppkőbarlang-rendszer Libanonban, amely két szintre oszlik.",
@@ -1114,7 +1113,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     parent: "LB-BA",
     coords: [35.4695, 33.8894],
     name: { de: "Taubenfelsen", hu: "Galamb-sziklák", ro: "Stâncile Porumbeilor", en: "Pigeon Rocks"},
-    image: "/poi-images/pigeon-rocks-landmarks-v2.webp",
     description: {
       de: "Zwei riesige Felsformationen im Meer vor der Küste des Beiruter Stadtteils Raouché.",
       hu: "Két hatalmas sziklaképződmény a tengerben, a bejrúti Raouché negyed partjainál.",
@@ -1527,7 +1525,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     parent: "LB-AS",
     coords: [35.9458, 34.2544],
     name: { de: "Kadisha-Tal", hu: "Kadisa-völgy", ro: "Valea Qadisha", en: "Qadisha Valley"},
-    image: "/poi-images/qadisha-valley-landmarks-v2.webp",
     description: {
       de: "Eine tiefe Schlucht im Nordlibanon, die historisch als Zufluchtsort für christliche Mönche diente.",
       hu: "Egy mély szurdok Észak-Libanonban, amely történelmileg keresztény szerzetesek menedékhelyeként szolgált.",
@@ -1688,7 +1685,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     parent: "LB-AS",
     coords: [36.0483, 34.2436],
     name: { de: "Zedern des Herrn", hu: "Az Úr cédrusai", ro: "Cedrii lui Dumnezeu", en: "Cedars of God"},
-    image: "/poi-images/cedars-of-god-landmarks-v2.webp",
     description: {
       de: "Eines der letzten verbliebenen Gebiete der weitreichenden Libanonzeder-Wälder der Antike.",
       hu: "Az ókori hatalmas libanoni cédruserdők egyik utolsó fennmaradt területe.",
@@ -1993,7 +1989,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     parent: "LB-JL",
     coords: [35.5861, 33.6975],
     name: { de: "Schloss Moussa", hu: "Moussa-kastély", ro: "Castelul Moussa", en: "Moussa Castle"},
-    image: "/poi-images/moussa-castle-landmarks-v2.webp",
     description: {
       de: "Eine von einem einzigen Mann erbaute Festung, die libanesische Geschichte und Traditionen darstellt.",
       hu: "Egyetlen ember által épített erődítmény, amely a libanoni történelmet és hagyományokat mutatja be.",
@@ -2037,7 +2032,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     parent: "LB-JL",
     coords: [35.5786, 33.6961],
     name: { de: "Beiteddine-Palast", hu: "Beiteddine-palota", ro: "Palatul Beiteddine", en: "Beiteddine Palace"},
-    image: "/poi-images/beiteddine-palace-landmarks-v2.webp",
     description: {
       de: "Ein Meisterwerk der libanesischen Architektur des 19. Jahrhunderts im Chouf-Gebirge.",
       hu: "A 19. századi libanoni építészet remekműve a Chouf-hegységben.",
@@ -2162,7 +2156,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     parent: "LB-JL",
     coords: [35.6453, 34.1200],
     name: { de: "Kreuzritterburg Byblos", hu: "Bübloszi keresztesvár", ro: "Castelul Cruciaților din Byblos", en: "Byblos Castle"},
-    image: "/poi-images/byblos-castle-landmarks-v2.webp",
     description: {
       de: "Eine von Kreuzrittern im 12. Jahrhundert aus römischen Ruinen errichtete Festung.",
       hu: "Egy keresztes lovagok által a 12. században római romokból épített erődítmény.",
@@ -3151,7 +3144,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     parent: "LB-BA",
     coords: [35.5158, 33.8931],
     name: { de: "Sursock-Museum", hu: "Sursock Múzeum", ro: "Muzeul Sursock", en: "Sursock Museum"},
-    image: "/poi-images/sursock-museum-landmarks-v2.webp",
     description: {
       de: "Ein Museum für moderne und zeitgenössische Kunst in einer prachtvollen Villa in Beirut.",
       hu: "Egy modern és kortárs művészeti múzeum egy pompás bejrúti villában.",
@@ -3780,7 +3772,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     parent: "LB-BA",
     coords: [35.5147, 33.8778],
     name: { de: "Nationalmuseum Beirut", hu: "Bejrúti Nemzeti Múzeum", ro: "Muzeul Național din Beirut", en: "National Museum of Beirut"},
-    image: "/poi-images/national-museum-of-beirut-landmarks-v2.webp",
     description: {
       de: "Das wichtigste archäologische Museum des Landes, das die Geschichte des Libanon bewahrt.",
       hu: "Az ország legfontosabb régészeti múzeuma, amely Libanon történelmét őrzi.",
@@ -3941,7 +3932,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     parent: "LB-AS",
     coords: [35.8622, 34.1736],
     name: { de: "Baatara-Schlucht-Wasserfall", hu: "Baatara-szurdok vízesés", ro: "Cascada Defileului Baatara", en: "Baatara Gorge Waterfall"},
-    image: "/poi-images/baatara-gorge-waterfall-landmarks-v2.webp",
     description: {
       de: "Ein spektakulärer Wasserfall, der durch drei natürliche Kalksteinbrücken in eine Höhle stürzt.",
       hu: "Látványos vízesés, amely három természetes mészkőhídon keresztül zuhan egy barlangba.",
@@ -4030,7 +4020,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     parent: "LB-JL",
     coords: [35.8353, 33.9936],
     name: { de: "Mzaar Kfardebian", hu: "Mzaar Kfardebian", ro: "Mzaar Kfardebian", en: "Mzaar Kfardebian"},
-    image: "/poi-images/mzaar-kfardebian-landmarks-v2.webp",
     description: {
       de: "Das größte und bekannteste Skigebiet im Nahen Osten, nur eine Autostunde von Beirut entfernt.",
       hu: "A Közel-Kelet legnagyobb és legismertebb síterepe, mindössze egy órányira Bejrúttól.",
@@ -4443,7 +4432,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     parent: "LB-BA",
     coords: [35.5064, 33.8944],
     name: { de: "Mohammad-al-Amin-Moschee", hu: "Mohammad-al-Amin mecset", ro: "Moscheea Mohammad Al-Amin", en: "Mohammad Al-Amin Mosque"},
-    image: "/poi-images/mohammad-al-amin-mosque-landmarks-v2.webp",
     description: {
       de: "Eine markante Moschee im Zentrum von Beirut, bekannt für ihre blauen Kuppeln und osmanische Architektur.",
       hu: "Egy jellegzetes mecset Bejrút központjában, amely kék kupoláiról és oszmán építészetéről ismert.",
@@ -4568,7 +4556,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     parent: "LB-BA",
     coords: [35.5056, 33.8953],
     name: { de: "Maronitische Georgskathedrale", hu: "Maronita Szent György-katedrális", ro: "Catedrala Maronită Sfântul Gheorghe", en: "Saint George Maronite Cathedral"},
-    image: "/poi-images/saint-george-maronite-cathedral-landmarks-v2.webp",
     description: {
       de: "Die Hauptkirche der maronitischen Erzdiözese Beirut, erbaut im neoklassizistischen Stil.",
       hu: "A bejrúti maronita főegyházmegye főtemploma, neoklasszicista stílusban épült.",
@@ -4837,7 +4824,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     parent: "LB-BA",
     coords: [35.5028, 33.8967],
     name: { de: "Römische Bäder von Beirut", hu: "Bejrúti római fürdők", ro: "Băile Romane din Beirut", en: "Roman Baths of Beirut"},
-    image: "/poi-images/roman-baths-of-beirut-landmarks-v2.webp",
     description: {
       de: "Antike Thermen im Herzen von Beirut, die das historische Erbe der Stadt als römische Kolonie zeigen.",
       hu: "Ókori termálfürdők Bejrút szívében, amelyek a város római kolóniaként meglévő történelmi örökségét mutatják be.",

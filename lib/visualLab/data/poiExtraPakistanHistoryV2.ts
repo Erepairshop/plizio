@@ -1322,7 +1322,6 @@ export const poiExtraPakistanHistoryV2: POI[] = [
       pt: ["Um importante sítio arqueológico com vestígios que remontam a várias épocas, incluindo os Aqueménidas, Mauryas e Kushanas.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Un site archéologique majeur avec des vestiges remontant à plusieurs époques, notamment les Achéménides, les Mauryas et les Kouchans.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/taxila-ruins-history-v2.webp",
     description: {
       de: "Eine bedeutende archäologische Stätte mit Überresten, die über mehrere Epochen zurückreichen, einschließlich der Achämeniden, Mauryas und Kushanas.",
       hu: "Jelentős régészeti lelőhely, amelynek maradványai több korszakból származnak, beleértve az Achaemenidákat, a Mauryákat és a Kusánokat.",
@@ -1883,7 +1882,6 @@ export const poiExtraPakistanHistoryV2: POI[] = [
       pt: ["Um complexo de caça do século XVII construído pelo imperador Mogol Jahangir em memória do seu antílope favorito.", "Localizada no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Un complexe de chasse du XVIIe siècle construit par l'empereur moghol Jahangir en mémoire de son antilope préférée.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/hiran-minar-monument-history-v2.webp",
     description: {
       de: "Ein Jagdkomplex aus dem 17. Jahrhundert, der vom Mogulkaiser Jahangir zum Gedenken an seine Lieblingsantilope erbaut wurde.",
       hu: "Egy 17. századi vadászkomplexum, amelyet Dzsahángír mogul sah építtetett kedvenc antilopja emlékére.",
@@ -2012,7 +2010,6 @@ export const poiExtraPakistanHistoryV2: POI[] = [
       pt: ["Um complexo monástico budista bem preservado do século I a.C. situado numa colina.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Un complexe monastique bouddhiste bien conservé du Ier siècle avant J.-C. situé sur une colline.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/takht-i-bahi-ruins-history-v2.webp",
     description: {
       de: "Ein gut erhaltener buddhistischer Klosterkomplex aus dem 1. Jahrhundert v. Chr. auf einem Hügel.",
       hu: "Egy jól megőrzött, i. e. 1. századi buddhista kolostorkomplexum egy dombtetőn.",
@@ -2573,7 +2570,6 @@ export const poiExtraPakistanHistoryV2: POI[] = [
       pt: ["Uma fortaleza maciça do século XVI construída por Sher Shah Suri. É conhecida pelas suas muralhas e portões imponentes.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Une forteresse massive du XVIe siècle construite par Sher Shah Suri. Elle est célèbre pour ses murs et ses portes imposants.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/rohtas-fort-historical-site-v2.webp",
     description: {
       de: "Eine massive Festung aus dem 16. Jahrhundert, die von Sher Shah Suri erbaut wurde. Sie ist bekannt für ihre imposanten Mauern und Tore.",
       hu: "Egy hatalmas, 16. századi erőd, amelyet Sér Sáh Szúri építtetett. Impozáns falairól és kapuiról ismert.",
@@ -3962,7 +3958,6 @@ export const poiExtraPakistanHistoryV2: POI[] = [
       pt: ["Um monumento nacional em Lahore que comemora a Resolução de Lahore de 1940, um passo importante para a fundação do Paquistão.", "Localizada no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Un monument national à Lahore commémorant la Résolution de Lahore de 1940, une étape majeure vers la fondation du Pakistan.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/minar-e-pakistan-monument-history-v2.webp",
     description: {
       de: "Ein Nationaldenkmal in Lahore, das an die Lahore-Resolution von 1940 erinnert, einen wichtigen Schritt zur Gründung Pakistans.",
       hu: "Nemzeti emlékmű Lahore-ban, amely az 1940-es Lahore-i határozatra emlékeztet, amely fontos lépés volt Pakisztán megalapítása felé.",
@@ -4307,7 +4302,6 @@ export const poiExtraPakistanHistoryV2: POI[] = [
       pt: ["Uma das maiores necrópoles do mundo, com inúmeros túmulos e mausoléus construídos ao longo de um período de 400 anos.", "Localizada no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["L'une des plus grandes nécropoles au monde, abritant d'innombrables tombes et mausolées construits sur une période de 400 ans.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/makli-necropolis-historical-site-v2.webp",
     description: {
       de: "Eine der größten Nekropolen der Welt mit unzähligen Gräbern und Mausoleen, die über einen Zeitraum von 400 Jahren erbaut wurden.",
       hu: "A világ egyik legnagyobb nekropolisza, számtalan sírral és mauzóleummal, amelyeket 400 év alatt építettek.",
@@ -4436,7 +4430,6 @@ export const poiExtraPakistanHistoryV2: POI[] = [
       pt: ["Uma mesquita do século XVII conhecida pelos seus elaborados azulejos e padrões geométricos.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Une mosquée du XVIIe siècle connue pour ses carrelages élaborés et ses motifs géométriques.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/shah-jahani-mosque-monument-history-v2.webp",
     description: {
       de: "Eine Moschee aus dem 17. Jahrhundert, die für ihre aufwendigen Kachelarbeiten und geometrischen Muster bekannt ist.",
       hu: "Egy 17. századi mecset, amely bonyolult csempe munkáiról és geometriai mintáiról ismert.",
@@ -5609,7 +5602,6 @@ export const poiExtraPakistanHistoryV2: POI[] = [
       pt: ["O mausoléu de Muhammad Ali Jinnah, o fundador do Paquistão. Um marco icónico de Karachi.", "Localizada no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Le mausolée de Muhammad Ali Jinnah, le fondateur du Pakistan. Un monument emblématique de Karachi.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/quaids-tomb-mausoleum-monument-history-v2.webp",
     description: {
       de: "Das Mausoleum von Muhammad Ali Jinnah, dem Gründer Pakistans. Ein ikonisches Wahrzeichen von Karatschi.",
       hu: "Muhammad Ali Dzsinnah, Pakisztán alapítójának mauzóleuma. Karacsi ikonikus nevezetessége.",
@@ -5918,7 +5910,6 @@ export const poiExtraPakistanHistoryV2: POI[] = [
       pt: ["Um complexo de templos hindus dedicados a um tanque considerado sagrado para o deus Shiva.", "Localizada no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Un complexe de temples hindous dédiés à un étang considéré comme sacré pour le dieu Shiva.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/katas-raj-temples-historical-site-v2.webp",
     description: {
       de: "Ein Komplex von Hindu-Tempeln, die einem Teich gewidmet sind, der als heilig für den Gott Shiva gilt.",
       hu: "Egy hindu templomkomplexum, amelyet egy Siva istennek szentelt tónak szenteltek.",
@@ -6479,7 +6470,6 @@ export const poiExtraPakistanHistoryV2: POI[] = [
       pt: ["Uma antiga fortaleza no vale de Hunza, com mais de 700 anos. Oferece vistas deslumbrantes sobre o vale.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Une ancienne forteresse dans la vallée de Hunza, datant de plus de 700 ans. Elle offre des vues imprenables sur la vallée.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/baltit-fort-historical-site-v2.webp",
     description: {
       de: "Eine alte Festung im Hunza-Tal, die über 700 Jahre alt ist. Sie bietet atemberaubende Ausblicke auf das Tal.",
       hu: "Egy ősi erőd a Hunza-völgyben, amely több mint 700 éves. Lenyűgöző kilátást nyújt a völgyre.",
@@ -7904,7 +7894,6 @@ export const poiExtraPakistanHistoryV2: POI[] = [
       pt: ["Uma necrópole islâmica primitiva, conhecida pelos seus túmulos de arenito intrincadamente esculpidos.", "Localizada no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Une nécropole islamique ancienne, célèbre pour ses tombes en grès richement sculptées.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/chaukhandi-tombs-historical-site-v2.webp",
     description: {
       de: "Eine frühe islamische Nekropole, die für ihre aufwendig geschnitzten Sandsteingräber bekannt ist.",
       hu: "Egy korai iszlám nekropolisz, amely bonyolultan faragott homokkő sírjairól ismert.",
@@ -8033,7 +8022,6 @@ export const poiExtraPakistanHistoryV2: POI[] = [
       pt: ["Um dos sítios mais antigos com evidências de agricultura e pecuária no Sul da Ásia, datado de cerca de 7000 a.C.", "Localizada no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["L'un des sites les plus anciens témoignant de l'agriculture et de l'élevage en Asie du Sud, daté d'environ 7000 av. J.-C.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/mehrgarh-ruins-history-v2.webp",
     description: {
       de: "Eine der frühesten Stätten mit Nachweisen für Ackerbau und Viehzucht in Südasien, datiert auf ca. 7000 v. Chr.",
       hu: "Az egyik legkorábbi lelőhely, amely bizonyítékot szolgáltat a dél-ázsiai földművelésre és állattenyésztésre, kb. i.e. 7000-re datálva.",
@@ -9422,7 +9410,6 @@ export const poiExtraPakistanHistoryV2: POI[] = [
       pt: ["Um monumento nacional e museu em Islamabad que representa as quatro províncias e os três territórios da nação.", "Localizada no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Un monument national et un musée à Islamabad, représentant les quatre provinces et les trois territoires du pays.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/pakistan-monument-monument-history-v2.webp",
     description: {
       de: "Ein Nationaldenkmal und Museum in Islamabad, das die vier Provinzen und drei Territorien der Nation repräsentiert.",
       hu: "Nemzeti emlékmű és múzeum Iszlámábádban, amely a nemzet négy tartományát és három területét képviseli.",
@@ -10703,7 +10690,6 @@ export const poiExtraPakistanHistoryV2: POI[] = [
       pt: ["A mesquita nacional do Paquistão em Islamabad. O seu design moderno, inspirado numa tenda beduína, é um marco da cidade.", "Localizada no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["La mosquée nationale du Pakistan à Islamabad. Son design moderne, inspiré d'une tente bédouine, est un symbole de la ville.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/faisal-mosque-monument-history-v2.webp",
     description: {
       de: "Die Nationalmoschee Pakistans in Islamabad. Ihr modernes Design, das von einem Beduinenzelt inspiriert ist, ist ein Wahrzeichen der Stadt.",
       hu: "Pakisztán nemzeti mecsete Iszlámábádban. Modern, beduin sátor ihlette dizájnja a város egyik nevezetessége.",
@@ -11696,7 +11682,6 @@ export const poiExtraPakistanHistoryV2: POI[] = [
       pt: ["Uma mesquita do século XVII em Lahore, famosa pelos seus elaborados azulejos de faiança e frescos.", "Situa-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Une mosquée du XVIIe siècle à Lahore, célèbre pour ses carrelages de faïence élaborés et ses fresques.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/wazir-khan-mosque-monument-history-v2.webp",
     description: {
       de: "Eine Moschee aus dem 17. Jahrhundert in Lahore, berühmt für ihre aufwendigen Fayence-Kachelarbeiten und Fresken.",
       hu: "Egy 17. századi mecset Lahore-ban, amely bonyolult fajansz csempe munkáiról és freskóiról híres.",

@@ -31,7 +31,6 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       pt: ["Capacidade de cerca de 15.250 lugares.", "Inaugurado em 2007 para eventos nacionais e internacionais.", "Principal local para jogos internacionais de futebol.", "Possui uma pista de atletismo totalmente equipada.", "Casa da seleção nacional 'Nzalang Nacional'."],
       fr: ["Capacité d'environ 15 250 places.", "Ouvert en 2007 pour des événements nationaux et internationaux.", "Site principal pour les rencontres internationales de football.", "Possède une installation d'athlétisme entièrement équipée.", "Terrain de l'équipe nationale 'Nzalang Nacional'."],
     }, },
-    image: "/poi-images/malabo-national-stadium-landmarks-v2.webp",
     description: {
       de: "Ein modernes Mehrzweckstadion in Malabo, das als Heimspielstätte der Fußballnationalmannschaft dient.",
       hu: "Modern többfunkciós stadion Malabóban, amely a nemzeti labdarúgó-válogatott hazai pályája.",
@@ -226,7 +225,6 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       es: ["Mayor arena deportiva del país con más de 35.000 plazas.", "Sede principal de la Copa de África 2015 en Guinea Ecuatorial.", "Importante punto de referencia para el desarrollo de Bata.", "Equipamiento de última generación para torneos internacionales.", "Símbolo de la creciente importancia del deporte en la región.", "Centro de grandes eventos nacionales."],
       pt: ["Maior arena desportiva do país com mais de 35.000 lugares.", "Principal sede da Taça das Nações Africanas de 2015 na Guiné Equatorial.", "Marco importante para o desenvolvimento de Bata.", "Equipamento moderno para torneios internacionais.", "Símbolo da crescente importância do desporto na região.", "Centro de grandes eventos nacionais."],
       fr: ["Plus grande arène sportive du pays avec plus de 35 000 places.", "Principal site de la Coupe d'Afrique des Nations 2015 en Guinée équatoriale.", "Point de repère important pour le développement de Bata.", "Équipements de pointe pour les tournois internationaux.", "Symbole de l'importance croissante du sport dans la région.", "Centre de grands événements nationaux."], } },
-    image: "/poi-images/bata-stadium-landmarks-v2.webp",
     description: {
       de: "Das größte Stadion Äquatorialguineas, gelegen in der Hafenstadt Bata auf dem Festland.",
       hu: "Egyenlítői-Guinea legnagyobb stadionja, amely a szárazföldi Bata kikötővárosában található.",
@@ -612,7 +610,6 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       es: ["Memorial para las víctimas de las explosiones del 7 de marzo de 2021.", "Lugar importante para la conmemoración nacional y el proceso de duelo.", "Diseño moderno y minimalista con gran impacto.", "Un símbolo de la unión de la gente en Bata.", "Se utiliza regularmente para eventos oficiales de conmemoración.", "Representa la superación de los traumas nacionales."],
       pt: ["Memorial para as vítimas das explosões de 7 de março de 2021.", "Local importante para a memória nacional e o trabalho de luto.", "Design moderno e minimalista com grande impacto.", "Um símbolo da união das pessoas em Bata.", "Utilizado regularmente para eventos oficiais de homenagem.", "Representa a superação de traumas nacionais."],
       fr: ["Lieu de mémoire pour les victimes des explosions du 7 mars 2021.", "Site majeur pour la commémoration nationale et le travail de deuil.", "Design moderne et minimaliste à fort impact.", "Un symbole de la solidarité des habitants de Bata.", "Utilisé régulièrement pour des cérémonies de commémoration officielles.", "Incarne la résilience face aux traumatismes nationaux."], } },
-    image: "/poi-images/martyrs-7m-monument-landmarks-v2.webp",
     description: {
       de: "Ein Denkmal in Bata, das den Opfern der verheerenden Explosionen in der Kaserne von Nkoantoma gedenkt.",
       hu: "Emlékmű Batában, amely a nkoantomai laktanyában történt pusztító robbanások áldozatainak állít emléket.",
@@ -641,7 +638,6 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: "UNGE Campus Malabo",
       ro: "Campusul UNGE Malabo",
       en: "UNGE Campus Malabo"},
-    image: "/poi-images/unge-campus-malabo-landmarks-v2.webp",
     description: {
       de: "Der Hauptcampus der Nationaluniversität von Äquatorialguinea in der Hauptstadt Malabo.",
       hu: "Az Egyenlítői-Guineai Nemzeti Egyetem fő kampusza a fővárosban, Malabóban.",
@@ -775,7 +771,6 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: "Ngolo konferenciaközpont",
       ro: "Centrul de Conferințe Ngolo",
       en: "Ngolo Conference Center"},
-    image: "/poi-images/ngolo-conference-center-landmarks-v2.webp",
     description: {
       de: "Ein bedeutendes Veranstaltungszentrum in Bata, das für regionale Konferenzen und kulturelle Events genutzt wird.",
       hu: "Jelentős rendezvényközpont Batában, amelyet regionális konferenciákra és kulturális eseményekre használnak.",
@@ -821,7 +816,6 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: "Pico Basile tévétorony",
       ro: "Turnul TV Pico Basile",
       en: "Pico Basile Tower"},
-    image: "/poi-images/pico-basile-tower-landmarks-v2.webp",
     description: {
       de: "Die markante Sendeanlage auf dem Gipfel des Pico Basile, der höchste Punkt der Insel Bioko.",
       hu: "Jellegzetes adótorony a Pico Basile csúcsán, Bioko szigetének legmagasabb pontján.",
@@ -867,7 +861,6 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: "Malabói spanyol kulturális központ",
       ro: "Centrul Cultural al Spaniei din Malabo",
       en: "Spanish Cultural Center in Malabo"},
-    image: "/poi-images/ccem-malabo-landmarks-v2.webp",
     description: {
       de: "Ein lebendiger Ort der Kultur und Bildung im historischen Viertel von Malabo.",
       hu: "A kultúra és az oktatás élénk központja Malabo történelmi negyedében.",
@@ -960,7 +953,6 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: "Bata marimba-emlékmű",
       ro: "Monumentul Marimba din Bata",
       en: "Marimba Monument of Bata"},
-    image: "/poi-images/marimba-monument-bata-landmarks-v2.webp",
     description: {
       de: "Ein künstlerisches Monument in Bata, das dem traditionellen Musikinstrument Marimba gewidmet ist.",
       hu: "Művészi emlékmű Batában, amelyet a hagyományos marimba hangszernek szenteltek.",
@@ -1006,7 +998,6 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: "Lubai kikötő (bővítés)",
       ro: "Portul Luba (extindere)",
       en: "Luba Port (Expansion)"},
-    image: "/poi-images/luba-port-expansion-landmarks-v2.webp",
     description: {
       de: "Die modernen Hafenanlagen von Luba, ein strategisches Logistikzentrum für die Öl- und Gasindustrie.",
       hu: "Luba modern kikötői létesítményei, az olaj- és gázipar stratégiai logisztikai központja.",
@@ -1054,7 +1045,6 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: "Annobón repülőtér (terminál)",
       ro: "Aeroportul Annobón (terminal)",
       en: "Annobón Airport (Terminal)"},
-    image: "/poi-images/annobon-airport-terminal-landmarks-v2.webp",
     description: {
       de: "Das moderne Terminalgebäude des Flughafens auf der abgelegenen Insel Annobón.",
       hu: "A távoli Annobón szigetén található repülőtér modern terminálépülete.",
@@ -1102,7 +1092,6 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: "Bányászati Minisztérium",
       ro: "Ministerul Minelor",
       en: "Ministry of Mines"},
-    image: "/poi-images/ministry-of-mines-malabo-landmarks-v2.webp",
     description: {
       de: "Ein beeindruckendes Regierungsgebäude in Malabo II, das den Bergbau- und Energiesektor verwaltet.",
       hu: "Lenyűgöző kormányzati épület Malabo II-ben, amely a bányászati és energiaágazatot irányítja.",
@@ -1243,7 +1232,6 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: "Bata új városháza",
       ro: "Noua Primărie din Bata",
       en: "New Bata City Hall"},
-    image: "/poi-images/bata-city-hall-new-landmarks-v2.webp",
     description: {
       de: "Das moderne Verwaltungsgebäude der Stadt Bata, ein Symbol für urbane Erneuerung.",
       hu: "Bata városának modern közigazgatási épülete, a városi megújulás szimbóluma.",
@@ -1387,7 +1375,6 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: "BEAC épület Malabo",
       ro: "Clădirea BEAC Malabo",
       en: "BEAC Building Malabo"},
-    image: "/poi-images/beac-building-malabo-landmarks-v2.webp",
     description: {
       de: "Der repräsentative Sitz der Zentralafrikanischen Zentralbank in der Hauptstadt Malabo.",
       hu: "A Közép-afrikai Államok Bankjának reprezentatív székhelye a fővárosban, Malabóban.",
@@ -1435,7 +1422,6 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: "Malabo Mall",
       ro: "Malabo Mall",
       en: "Malabo Mall"},
-    image: "/poi-images/malabo-mall-landmarks-v2.webp",
     description: {
       de: "Das größte moderne Einkaufs- und Freizeitzentrum in Äquatorialguinea.",
       hu: "Egyenlítői-Guinea legnagyobb modern bevásárló- és szórakoztató központja.",

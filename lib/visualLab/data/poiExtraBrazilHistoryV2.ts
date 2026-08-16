@@ -989,7 +989,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-MG",
     coords: [-43.5035, -20.3855],
     name: { de: "Ouro Preto", hu: "Ouro Preto", ro: "Ouro Preto", en: "Ouro Preto"},
-    image: "/poi-images/ouro-preto-history-v2.webp",
     description: { de: "Eine gut erhaltene Kolonialstadt, die im 18. Jahrhundert das Zentrum des brasilianischen Goldrausches war.", hu: "Egy kiválóan megőrzött gyarmati város, amely a 18. században a brazil aranyláz központja volt.", ro: "Un oraș colonial bine conservat, care a fost centrul goanei după aur din Brazilia în secolul al XVIII-lea.", en: "A well-preserved colonial town that was the center of the Brazilian gold rush in the 18th century." , es: "Una ciudad colonial bien conservada que fue el centro de la fiebre del oro brasileña en el siglo XVIII.", pt: "Uma cidade colonial bem preservada que foi o centro da corrida ao ouro brasileira no século XVIII.", fr: "Une ville coloniale bien préservée qui fut le centre de la ruée vers l'or brésilienne au XVIIIe siècle."},
     facts: {
       de: ["UNESCO-Weltkulturerbe seit 1980.", "Bekannt für barocke Architektur.", "Heimat vieler Kirchen.", "Steile, gepflasterte Straßen.", "Wichtiger Ort der Inconfidência Mineira."],
@@ -1753,7 +1752,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-BA",
     coords: [-38.5086, -12.9719],
     name: { de: "Pelourinho", hu: "Pelourinho", ro: "Pelourinho", en: "Pelourinho"},
-    image: "/poi-images/pelourinho-history-v2.webp",
     description: { de: "Das historische Zentrum von Salvador da Bahia mit seinen bunten Kolonialhäusern und afro-brasilianischer Kultur.", hu: "Salvador da Bahia történelmi központja színes gyarmati házakkal és afro-brazil kultúrával.", ro: "Centrul istoric al orașului Salvador da Bahia, cu case coloniale colorate și cultură afro-braziliană.", en: "The historic center of Salvador da Bahia, featuring colorful colonial houses and Afro-Brazilian culture." , es: "El centro histórico de Salvador de Bahía con sus coloridas casas coloniales y cultura afrobrasileña.", pt: "O centro histórico de Salvador da Bahia, com as suas casas coloniais coloridas e cultura afro-brasileira.", fr: "Le centre historique de Salvador da Bahia avec ses maisons coloniales colorées et sa culture afro-brésilienne."},
     facts: {
       de: ["Ehemaliger Sklavenmarkt.", "UNESCO-Weltkulturerbe.", "Zentrum des Capoeira.", "Viele historische Kirchen.", "Bunte Fassaden."],
@@ -2013,7 +2011,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-RS",
     coords: [-54.5552, -28.5492],
     name: { de: "São Miguel das Missões", hu: "São Miguel das Missões", ro: "São Miguel das Missões", en: "São Miguel das Missões"},
-    image: "/poi-images/sao-miguel-missoes-history-v2.webp",
     description: { de: "Ruinen einer Jesuitenreduktion aus dem 17. Jahrhundert im Süden Brasiliens.", hu: "Egy 17. századi jezsuita misszió romjai Dél-Brazíliában.", ro: "Ruinele unei reduceri iezuite din secolul al XVII-lea în sudul Braziliei.", en: "Ruins of a 17th-century Jesuit reduction in southern Brazil." , es: "Ruinas de una reducción jesuítica del siglo XVII en el sur de Brasil.", pt: "Ruínas de uma redução jesuítica do século XVII no sul do Brasil.", fr: "Ruines d'une réduction jésuite du XVIIe siècle dans le sud du Brésil."},
     facts: {
       de: ["Erbaut von Jesuiten.", "Teil der Guarani-Missionen.", "UNESCO-Weltkulturerbe.", "Beeindruckende Kirchenruine.", "Museum vor Ort."],
@@ -2885,7 +2882,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-MG",
     coords: [-44.1772, -21.1102],
     name: { de: "Tiradentes", hu: "Tiradentes", ro: "Tiradentes", en: "Tiradentes"},
-    image: "/poi-images/tiradentes-history-v2.webp",
     description: { de: "Eine charmante Kolonialstadt, benannt nach einem Helden der brasilianischen Unabhängigkeitsbewegung.", hu: "Egy bájos gyarmati város, amelyet a brazil függetlenségi mozgalom egyik hőséről neveztek el.", ro: "Un oraș colonial fermecător, numit după un erou al mișcării de independență a Braziliei.", en: "Tiradentes is a well-preserved colonial town in Minas Gerais named after Brazil's national independence hero. Its hills, churches, and cobblestone streets reflect the wealth of the 18th-century gold cycle." , es: "Una encantadora ciudad colonial, llamada así en honor a un héroe del movimiento de independencia brasileño.", pt: "Uma charmosa cidade colonial, nomeada em homenagem a um herói do movimento de independência brasileiro.", fr: "Une charmante ville coloniale, nommée en l'honneur d'un héros du mouvement d'indépendance brésilien."},
     facts: {
       de: ["Kopfsteinpflasterstraßen.", "Ehemalige Goldgräberstadt.", "Fahrt mit der Dampflokomotive möglich.", "Historische Kirchen.", "Kulinarisches Zentrum."],
@@ -3361,7 +3357,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-MG",
     coords: [-43.8569, -20.4994],
     name: { de: "Heiligtum von Congonhas", hu: "Congonhas szentélye", ro: "Sanctuarul din Congonhas", en: "Sanctuary of Congonhas"},
-    image: "/poi-images/congonhas-sanctuary-history-v2.webp",
     description: { de: "Das Heiligtum von Congonhas ist eine bedeutende Wallfahrtsstätte in Minas Gerais. Besonders bekannt ist es für die Prophetenstatuen und die barocke Anlage von Aleijadinho.", hu: "Zarándokhely, amely a 18. századi Aleijadinho művész híres szobrairól ismert.", ro: "Un loc de pelerinaj cu sculpturi faimoase ale artistului Aleijadinho din secolul al XVIII-lea.", en: "The Sanctuary of Congonhas is a major pilgrimage site in Minas Gerais and one of Brazil's best-known Baroque ensembles. It is especially famous for Aleijadinho's Twelve Prophets sculptures." , es: "El Santuario de Congonhas es un importante lugar de peregrinación en Minas Gerais. Es especialmente conocido por las estatuas de los profetas y el conjunto barroco de Aleijadinho.", pt: "O Santuário de Congonhas é um importante local de peregrinação em Minas Gerais. É especialmente conhecido pelas estátuas dos profetas e pelo conjunto barroco de Aleijadinho.", fr: "Le sanctuaire de Congonhas est un important lieu de pèlerinage dans le Minas Gerais. Il est particulièrement célèbre pour les statues des prophètes et l'ensemble baroque d'Aleijadinho."},
     facts: {
       de: ["UNESCO-Welterbe", "Im Bundesstaat Minas Gerais", "Berühmt für die Zwölf Propheten"],
@@ -4377,7 +4372,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-MG",
     coords: [-43.5975, -18.2458],
     name: { de: "Diamantina", hu: "Diamantina", ro: "Diamantina", en: "Diamantina"},
-    image: "/poi-images/diamantina-history-v2.webp",
     description: { de: "Eine historische Kolonialstadt, die durch den Diamantenabbau im 18. und 19. Jahrhundert reich wurde.", hu: "Történelmi gyarmati város, amely a 18. és 19. századi gyémántbányászatból gazdagodott meg.", ro: "Un oraș colonial istoric care s-a îmbogățit din mineritul de diamante în secolele XVIII și XIX.", en: "A historic colonial town that grew rich from diamond mining in the 18th and 19th centuries." , es: "Una ciudad colonial histórica que se enriqueció gracias a la extracción de diamantes en los siglos XVIII y XIX.", pt: "Uma cidade colonial histórica que enriqueceu graças à mineração de diamantes nos séculos XVIII e XIX.", fr: "Une ville coloniale historique qui s'est enrichie grâce à l'extraction de diamants aux XVIIIe et XIXe siècles."},
     facts: {
       de: ["UNESCO-Weltkulturerbe.", "Zentrum des Diamantenabbaus.", "Geburtsort von Juscelino Kubitschek.", "Gepflasterte Straßen.", "Einzigartige Architektur."],
@@ -5249,7 +5243,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-RJ",
     coords: [-44.713, -23.2198],
     name: { de: "Historisches Zentrum von Paraty", hu: "Paraty történelmi központja", ro: "Centrul istoric din Paraty", en: "Historic Center of Paraty"},
-    image: "/poi-images/paraty-history-v2.webp",
     description: { de: "Eine idyllische Küstenstadt, die früher ein wichtiger Hafen für den Goldtransport nach Portugal war.", hu: "Idilli part menti város, amely korábban a Portugáliába irányuló arany szállításának fontos kikötője volt.", ro: "Un oraș de coastă idilic, care a fost odată un port important pentru transportul aurului către Portugalia.", en: "An idyllic coastal town that was formerly an important port for transporting gold to Portugal." , es: "Una idílica ciudad costera que antiguamente fue un importante puerto para el transporte de oro a Portugal.", pt: "Uma cidade costeira idílica que foi outrora um porto importante para o transporte de ouro para Portugal.", fr: "Une ville côtière idyllique qui était autrefois un port important pour le transport de l'or vers le Portugal."},
     facts: {
       de: ["Autofreie Altstadt.", "Koloniale Architektur.", "Regelmäßige Überflutung durch Gezeiten.", "Endpunkt des Goldweges.", "UNESCO-Weltkulturerbe."],
@@ -6013,7 +6006,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-MA",
     coords: [-44.415, -2.4086],
     name: { de: "Alcântara", hu: "Alcântara", ro: "Alcântara", en: "Alcântara"},
-    image: "/poi-images/alcantara-history-v2.webp",
     description: { de: "Eine historische Stadt voller kolonialer Ruinen, die einst das Zentrum des Baumwollanbaus war.", hu: "Történelmi város gyarmati romokkal, amely egykor a gyapottermesztés központja volt.", ro: "Un oraș istoric plin de ruine coloniale, care a fost odată centrul cultivării bumbacului.", en: "A historic city full of colonial ruins that was once the center of cotton cultivation." , es: "Una ciudad histórica llena de ruinas coloniales, que una vez fue el centro del cultivo de algodón.", pt: "Uma cidade histórica repleta de ruínas coloniais, que outrora foi o centro do cultivo de algodão.", fr: "Une ville historique regorgeant de ruines coloniales, qui fut autrefois le centre de la culture du coton."},
     facts: {
       de: ["Ehemalige Aristokratenstadt.", "Viele koloniale Ruinen.", "Fest des Göttlichen Heiligen Geistes.", "Zugang per Boot von São Luís.", "Einst reich durch Baumwolle."],
@@ -6669,7 +6661,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-SE",
     coords: [-37.2069, -11.0147],
     name: { de: "São Cristóvão", hu: "São Cristóvão", ro: "São Cristóvão", en: "São Cristóvão"},
-    image: "/poi-images/sao-cristovao-history-v2.webp",
     description: { de: "Eine der ältesten Städte Brasiliens mit dem UNESCO-geschützten São-Francisco-Platz.", hu: "Brazília egyik legrégebbi városa az UNESCO által védett São Francisco térrel.", ro: "Unul dintre cele mai vechi orașe din Brazilia, cu Piața São Francisco protejată de UNESCO.", en: "One of Brazil's oldest cities, featuring the UNESCO-protected São Francisco Square." , es: "Una de las ciudades más antiguas de Brasil, con la Plaza de São Francisco protegida por la UNESCO.", pt: "Uma das cidades mais antigas do Brasil, com a Praça de São Francisco protegida pela UNESCO.", fr: "L'une des plus anciennes villes du Brésil, avec la place São Francisco classée par l'UNESCO."},
     facts: {
       de: ["Gegründet im Jahr 1590.", "Viertälteste Stadt Brasiliens.", "São-Francisco-Platz ist UNESCO-Erbe.", "Spanische koloniale Einflüsse.", "Wichtige religiöse Stätten."],
@@ -7253,7 +7244,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-GO",
     coords: [-50.1388, -15.9344],
     name: { de: "Goiás Velho", hu: "Goiás Velho", ro: "Goiás Velho", en: "Goiás Velho"},
-    image: "/poi-images/goias-velho-history-v2.webp",
     description: { de: "Die ehemalige Hauptstadt des Bundesstaates Goiás, bekannt für ihre koloniale Architektur und Traditionen.", hu: "Goiás állam egykori fővárosa, amely gyarmati építészetéről és hagyományairól ismert.", ro: "Fosta capitală a statului Goiás, cunoscută pentru arhitectura sa colonială și tradițiile sale.", en: "The former capital of the state of Goiás, known for its colonial architecture and traditions." , es: "La antigua capital del estado de Goiás, conocida por su arquitectura colonial y sus tradiciones.", pt: "A antiga capital do estado de Goiás, conhecida por sua arquitetura colonial e tradições.", fr: "L'ancienne capitale de l'État de Goiás, connue pour son architecture coloniale et ses traditions."},
     facts: {
       de: ["Historisches Zentrum ist UNESCO-Erbe.", "Berühmt für die Fogaréu-Prozession.", "Heimat der Dichterin Cora Coralina.", "Gegründet während des Goldrausches.", "Kopfsteinpflasterstraßen."],
@@ -7621,7 +7611,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-RJ",
     coords: [-43.1873, -22.8966],
     name: { de: "Cais do Valongo", hu: "Cais do Valongo", ro: "Cais do Valongo", en: "Valongo Wharf"},
-    image: "/poi-images/cais-do-valongo-history-v2.webp",
     description: { de: "Ein historischer Kai in Rio de Janeiro, der im 19. Jahrhundert der Hauptankunftsort für afrikanische Sklaven war.", hu: "Történelmi rakpart Rio de Janeiróban, amely a 19. században az afrikai rabszolgák fő érkezési pontja volt.", ro: "Un debarcader istoric din Rio de Janeiro, care a fost principalul punct de sosire pentru sclavii africani în secolul al XIX-lea.", en: "A historic wharf in Rio de Janeiro that was the main arrival point for African slaves in the 19th century." , es: "Un muelle histórico en Río de Janeiro, que fue el principal lugar de llegada de esclavos africanos en el siglo XIX.", pt: "Um cais histórico no Rio de Janeiro, que foi o principal local de chegada de escravos africanos no século XIX.", fr: "Un quai historique de Rio de Janeiro, qui était le principal lieu d'arrivée des esclaves africains au XIXe siècle."},
     facts: {
       de: ["UNESCO-Weltkulturerbe seit 2017.", "Wichtiger Ort der Erinnerung.", "2011 bei Ausgrabungen wiederentdeckt.", "Etwa 900.000 Sklaven kamen hier an.", "Befindet sich im Hafengebiet."],
@@ -8169,7 +8158,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-MG",
     coords: [-43.4155, -20.3777],
     name: { de: "Mariana", hu: "Mariana", ro: "Mariana", en: "Mariana"},
-    image: "/poi-images/mariana-history-v2.webp",
     description: { de: "Die älteste Stadt im Bundesstaat Minas Gerais, reich an barocker Architektur und Geschichte.", hu: "Minas Gerais állam legrégebbi városa, amely barokk építészetben és történelemben gazdag.", ro: "Cel mai vechi oraș din statul Minas Gerais, bogat în arhitectură barocă și istorie.", en: "The oldest city in the state of Minas Gerais, rich in Baroque architecture and history." , es: "La ciudad más antigua del estado de Minas Gerais, rica en arquitectura barroca e historia.", pt: "A cidade mais antiga do estado de Minas Gerais, rica em arquitetura barroca e história.", fr: "La plus ancienne ville de l'État du Minas Gerais, riche en architecture baroque et en histoire."},
     facts: {
       de: ["Erste Hauptstadt von Minas Gerais.", "Historische Kirchen.", "Besitzt eine berühmte Arp-Orgel.", "Gegründet im Jahr 1696.", "Wichtige Goldgräberstadt."],
@@ -8969,7 +8957,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-MG",
     coords: [-43.813, -19.8863],
     name: { de: "Sabará", hu: "Sabará", ro: "Sabará", en: "Sabará"},
-    image: "/poi-images/sabara-history-v2.webp",
     description: { de: "Eine historische Stadt in der Nähe von Belo Horizonte, bekannt für ihr barockes Erbe und das Jabuticaba-Festival.", hu: "Történelmi város Belo Horizonte közelében, amely barokk örökségéről és a Jabuticaba fesztiválról ismert.", ro: "Un oraș istoric lângă Belo Horizonte, cunoscut pentru moștenirea sa barocă și festivalul Jabuticaba.", en: "A historic city near Belo Horizonte, known for its Baroque heritage and the Jabuticaba festival." , es: "Una ciudad histórica cerca de Belo Horizonte, conocida por su patrimonio barroco y el festival de la Jabuticaba.", pt: "Uma cidade histórica perto de Belo Horizonte, conhecida pelo seu património barroco e pelo festival da Jabuticaba.", fr: "Une ville historique proche de Belo Horizonte, connue pour son patrimoine baroque et son festival de la Jabuticaba."},
     facts: {
       de: ["Gegründet im späten 17. Jahrhundert.", "Barocke Kirchen.", "Museum für Gold.", "Historisches Theatergebäude.", "Bekannt für Jabuticaba-Obst."],
@@ -9913,7 +9900,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-MG",
     coords: [-44.2463, -21.1352],
     name: { de: "São João del-Rei", hu: "São João del-Rei", ro: "São João del-Rei", en: "São João del-Rei"},
-    image: "/poi-images/sao-joao-del-rei-history-v2.webp",
     description: { de: "Eine historische Stadt in Minas Gerais, berühmt für ihre reiche barocke Architektur und die alte Eisenbahnstrecke.", hu: "Történelmi város Minas Gerais államban, amely gazdag barokk építészetéről és régi vasútvonaláról híres.", ro: "Un oraș istoric din Minas Gerais, faimos pentru arhitectura sa barocă bogată și linia veche de cale ferată.", en: "São João del Rei is a historic city in Minas Gerais with strong ties to Brazil's colonial gold era. Its churches, old streets, and preserved center keep that history visible." , es: "Una ciudad histórica en Minas Gerais, famosa por su rica arquitectura barroca y su antigua línea ferroviaria.", pt: "Uma cidade histórica em Minas Gerais, famosa por sua rica arquitetura barroca e pela antiga linha ferroviária.", fr: "Une ville historique du Minas Gerais, célèbre pour sa riche architecture baroque et son ancienne ligne de chemin de fer."},
     facts: {
       de: ["Stadt der Glocken.", "Geburtsort von Tancredo Neves.", "Dampfzugverbindung nach Tiradentes.", "Prächtige barocke Kirchen.", "Historisches Zentrum."],
@@ -10785,7 +10771,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-PI",
     coords: [-42.5297, -8.7616],
     name: { de: "Serra da Capivara", hu: "Serra da Capivara", ro: "Serra da Capivara", en: "Serra da Capivara"},
-    image: "/poi-images/serra-da-capivara-history-v2.webp",
     description: { de: "Ein archäologischer Nationalpark mit einigen der ältesten Felszeichnungen auf dem amerikanischen Kontinent.", hu: "Régészeti nemzeti park, amely az amerikai kontinens legrégebbi sziklarajzait tartalmazza.", ro: "Un parc național arheologic cu unele dintre cele mai vechi picturi rupestre de pe continentul american.", en: "An archaeological national park featuring some of the oldest rock art on the American continent." , es: "Un parque nacional arqueológico con algunas de las pinturas rupestres más antiguas del continente americano.", pt: "Um parque nacional arqueológico com algumas das pinturas rupestres mais antigas do continente americano.", fr: "Un parc national archéologique abritant certaines des peintures rupestres les plus anciennes du continent américain."},
     facts: {
       de: ["UNESCO-Weltkulturerbe.", "Tausende prähistorische Malereien.", "Beweise früher menschlicher Besiedlung.", "Felsformationen und Schluchten.", "Geleitet von Niède Guidon."],
@@ -11657,7 +11642,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-AM",
     coords: [-60.0233, -3.1302],
     name: { de: "Teatro Amazonas", hu: "Teatro Amazonas", ro: "Teatro Amazonas", en: "Amazon Theatre"},
-    image: "/poi-images/teatro-amazonas-history-v2.webp",
     description: { de: "Ein prachtvolles Opernhaus in Manaus, das während des Kautschukbooms im späten 19. Jahrhundert erbaut wurde.", hu: "Egy pompás operaház Manausban, amelyet a kaucsukláz idején, a 19. század végén építettek.", ro: "O casă de operă magnifică în Manaus, construită în timpul boom-ului cauciucului la sfârșitul secolului al XIX-lea.", en: "A magnificent opera house in Manaus, built during the rubber boom in the late 19th century." , es: "Un magnífico teatro de ópera en Manaus, construido durante el auge del caucho a finales del siglo XIX.", pt: "Uma magnífica casa de ópera em Manaus, construída durante o ciclo da borracha no final do século XIX.", fr: "Un magnifique opéra à Manaus, construit pendant le cycle du caoutchouc à la fin du XIXe siècle."},
     facts: {
       de: ["Eröffnet im Jahr 1896.", "Kuppel mit den Farben der brasilianischen Flagge.", "Materialien aus Europa importiert.", "Symbol des Kautschukreichtums.", "Austragungsort des Amazonas-Opernfestivals."],
@@ -12493,7 +12477,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-SP",
     coords: [-47.5561, -24.7083],
     name: { de: "Historisches Zentrum von Iguape", hu: "Iguape történelmi központja", ro: "Centrul istoric din Iguape", en: "Historic Center of Iguape"},
-    image: "/poi-images/iguape-history-v2.webp",
     description: { de: "Eine historische Stadt in São Paulo, die einst durch Goldwäscherei und Reisanbau blühte.", hu: "Történelmi város São Paulóban, amely egykor az aranymosásnak és a rizstermesztésnek köszönhetően virágzott.", ro: "Un oraș istoric din São Paulo, care a înflorit odată datorită spălării aurului și cultivării orezului.", en: "A historic city in São Paulo that once flourished due to gold panning and rice cultivation." , es: "Una ciudad histórica en São Paulo que en su día prosperó gracias a la extracción de oro y al cultivo de arroz.", pt: "Uma cidade histórica em São Paulo que outrora prosperou graças à mineração de ouro e ao cultivo de arroz.", fr: "Une ville historique de São Paulo qui prospéra autrefois grâce à l'orpaillage et à la culture du riz."},
     facts: {
       de: ["Gegründet im Jahr 1538.", "Eines der größten historischen Zentren im Bundesstaat São Paulo.", "Wichtiger Ort für den Reishandel.", "Alte Kolonialhäuser.", "Heiligtum von Bom Jesus de Iguape."],
@@ -12897,7 +12880,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-SP",
     coords: [-47.9263, -25.0147],
     name: { de: "Cananéia", hu: "Cananéia", ro: "Cananéia", en: "Cananéia"},
-    image: "/poi-images/cananeia-history-v2.webp",
     description: { de: "Eine der ältesten Siedlungen Brasiliens, gelegen in einer malerischen Küstenregion.", hu: "Brazília egyik legrégebbi települése, festői tengerparti régióban.", ro: "Cananéia este una dintre cele mai vechi așezări coloniale din Brazilia. Orașul păstrează un caracter istoric și este legat de începuturile colonizării portugheze.", en: "Cananéia is often described as one of the oldest settlements in Brazil. Located on the south coast of São Paulo state, it preserves traces of the earliest Portuguese presence in the region." , es: "Uno de los asentamientos más antiguos de Brasil, situado en una pintoresca región costera.", pt: "Um dos assentamentos mais antigos do Brasil, situado em uma pitoresca região costeira.", fr: "L'un des plus anciens établissements du Brésil, situé dans une région côtière pittoresque."},
     facts: {
       de: ["Beansprucht, die älteste Stadt Brasiliens zu sein.", "Historischer Hafen.", "Koloniale Architektur.", "Nahe der Ilha do Cardoso.", "Gegründet um 1531."],
@@ -13589,7 +13571,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-PR",
     coords: [-48.7119, -25.4283],
     name: { de: "Antonina", hu: "Antonina", ro: "Antonina", en: "Antonina"},
-    image: "/poi-images/antonina-history-v2.webp",
     description: { de: "Eine historische Hafenstadt im Bundesstaat Paraná, umgeben von der üppigen Natur der Serra do Mar.", hu: "Történelmi kikötőváros Paraná államban, a Serra do Mar buja természetével körülvéve.", ro: "Un oraș port istoric în statul Paraná, înconjurat de natura luxuriantă din Serra do Mar.", en: "A historic port city in the state of Paraná, surrounded by the lush nature of the Serra do Mar." , es: "Una histórica ciudad portuaria en el estado de Paraná, rodeada por la exuberante naturaleza de la Serra do Mar.", pt: "Uma histórica cidade portuária no estado do Paraná, rodeada pela natureza exuberante da Serra do Mar.", fr: "Une ville portuaire historique de l'État du Paraná, entourée par la nature luxuriante de la Serra do Mar."},
     facts: {
       de: ["Historische Architektur.", "Bedeutend während des Mate-Tee-Booms.", "Traditioneller Karneval.", "Ruinen des Theaters Macedo.", "Schöne Bucht von Antonina."],
@@ -14677,7 +14658,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-PR",
     coords: [-48.8322, -25.4766],
     name: { de: "Morretes", hu: "Morretes", ro: "Morretes", en: "Morretes"},
-    image: "/poi-images/morretes-history-v2.webp",
     description: { de: "Eine charmante historische Stadt in Paraná, berühmt für ihr traditionelles Gericht Barreado und die Zugfahrt durch den Atlantischen Regenwald.", hu: "Bájos történelmi város Paranában, híres hagyományos Barreado ételéről és az atlanti esőerdőn át vezető vonatútjáról.", ro: "Un oraș istoric fermecător din Paraná, faimos pentru felul de mâncare tradițional Barreado și plimbarea cu trenul prin pădurea atlantică.", en: "A charming historic town in Paraná, famous for its traditional Barreado dish and the train ride through the Atlantic Forest." , es: "Una encantadora ciudad histórica en Paraná, famosa por su plato tradicional Barreado y el viaje en tren por la Selva Atlántica.", pt: "Uma charmosa cidade histórica no Paraná, famosa pelo seu prato tradicional Barreado e pelo passeio de comboio pela Mata Atlântica.", fr: "Une charmante ville historique du Paraná, célèbre pour son plat traditionnel Barreado et son voyage en train à travers la forêt atlantique."},
     facts: {
       de: ["Koloniale Gebäude.", "Liegt am Fluss Nhundiaquara.", "Endstation der Serra Verde Express.", "Bekannt für Barreado-Eintopf.", "Gegründet im Jahr 1721."],
@@ -15513,7 +15493,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-GO",
     coords: [-48.9525, -15.8522],
     name: { de: "Pirenópolis", hu: "Pirenópolis", ro: "Pirenópolis", en: "Pirenópolis"},
-    image: "/poi-images/pirenopolis-history-v2.webp",
     description: { de: "Eine historische Stadt in Goiás, die für ihr koloniales Erbe und das Fest der Cavalhadas bekannt ist.", hu: "Történelmi város Goiásban, amely gyarmati örökségéről és a Cavalhadas fesztiválról ismert.", ro: "Un oraș istoric din Goiás, cunoscut pentru moștenirea sa colonială și festivalul Cavalhadas.", en: "Pirenópolis is a historic town in Goiás known for its well-preserved colonial architecture, cobblestone streets, and traditional festivals." , es: "Una ciudad histórica en Goiás, conocida por su patrimonio colonial y la fiesta de las Cavalhadas.", pt: "Uma cidade histórica em Goiás, conhecida pelo seu património colonial e pela festa das Cavalhadas.", fr: "Une ville historique du Goiás, connue pour son patrimoine colonial et la fête des Cavalhadas."},
     facts: {
       de: ["Bekannt als Piri.", "Gegründet im Jahr 1727.", "Historisches Zentrum unter Denkmalschutz.", "Cavalhadas-Festival.", "Umgeben von Wasserfällen."],
@@ -16565,7 +16544,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-BA",
     coords: [-38.9638, -12.6022],
     name: { de: "Cachoeira", hu: "Cachoeira", ro: "Cachoeira", en: "Cachoeira"},
-    image: "/poi-images/cachoeira-history-v2.webp",
     description: { de: "Eine historische Stadt im Bundesstaat Bahia, die ein wichtiges Zentrum der afro-brasilianischen Kultur und Geschichte ist.", hu: "Történelmi város Bahia államban, amely az afro-brazil kultúra és történelem fontos központja.", ro: "Un oraș istoric în statul Bahia, care este un centru important al culturii și istoriei afro-braziliene.", en: "A historic city in the state of Bahia that is an important center of Afro-Brazilian culture and history." , es: "Una ciudad histórica en el estado de Bahía, que es un importante centro de la cultura e historia afrobrasileñas.", pt: "Uma cidade histórica no estado da Bahia, que é um importante centro da cultura e história afro-brasileira.", fr: "Une ville historique de l'État de Bahia, qui est un centre important de la culture et de l'histoire afro-brésiliennes."},
     facts: {
       de: ["Koloniale Architektur.", "Am Ufer des Paraguaçu-Flusses.", "Wichtige Rolle in der Unabhängigkeit Brasiliens.", "Zentrum der Candomblé-Religion.", "Schwesterstadt von São Félix."],
@@ -17545,7 +17523,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-RN",
     coords: [-35.1947, -5.7563],
     name: { de: "Forte dos Reis Magos", hu: "Forte dos Reis Magos", ro: "Forte dos Reis Magos", en: "Forte dos Reis Magos"},
-    image: "/poi-images/forte-reis-magos-history-v2.webp",
     description: { de: "Eine sternförmige Festung in Natal, die im 16. Jahrhundert von den Portugiesen zur Verteidigung der Küste erbaut wurde.", hu: "Csillag alakú erőd Natalban, amelyet a 16. században építettek a portugálok a part védelmére.", ro: "O fortăreață în formă de stea în Natal, construită de portughezi în secolul al XVI-lea pentru a apăra coasta.", en: "The Forte dos Reis Magos is a star-shaped fortress in Natal, built by the Portuguese in 1598 to defend the northern coast of Brazil." , es: "Una fortaleza en forma de estrella en Natal, construida por los portugueses en el siglo XVI para defender la costa.", pt: "Uma fortaleza em forma de estrela em Natal, construída pelos portugueses no século XVI para defender a costa.", fr: "Une forteresse en forme d'étoile à Natal, construite par les Portugais au XVIe siècle pour défendre la côte."},
     facts: {
       de: ["Erbaut im Jahr 1598.", "Sternförmiger Grundriss.", "Befindet sich an der Mündung des Flusses Potengi.", "Ältestes Bauwerk in Natal.", "Enthält den Marco de Touros."],
@@ -18741,7 +18718,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-RJ",
     coords: [-43.1805, -22.9866],
     name: { de: "Forte de Copacabana", hu: "Forte de Copacabana", ro: "Forte de Copacabana", en: "Copacabana Fort"},
-    image: "/poi-images/forte-copacabana-history-v2.webp",
     description: { de: "Eine historische Militärbasis am Ende der Copacabana, die heute ein Militärmuseum beherbergt.", hu: "Történelmi katonai bázis a Copacabana végén, amely ma egy hadtörténeti múzeumnak ad otthont.", ro: "O bază militară istorică la capătul plajei Copacabana, care găzduiește astăzi un muzeu militar.", en: "Forte de Copacabana is a coastal fort at the southern end of Copacabana Beach in Rio de Janeiro. It combines military history with one of the city's best-known viewpoints." , es: "Una base militar histórica al final de Copacabana que hoy alberga un museo militar.", pt: "Uma base militar histórica no final de Copacabana que hoje abriga um museu militar.", fr: "Une base militaire historique située au bout de Copacabana, qui abrite aujourd'hui un musée militaire."},
     facts: {
       de: ["Erbaut im Jahr 1914.", "Beherbergt das Armeemuseum.", "Krupp-Kanonen aus Deutschland.", "Ort der Revolte der 18 vom Fort.", "Bietet einen Panoramablick auf die Copacabana."],
@@ -20009,7 +19985,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-RJ",
     coords: [-43.1763, -22.9258],
     name: { de: "Palácio do Catete", hu: "Palácio do Catete", ro: "Palatul Catete", en: "Catete Palace"},
-    image: "/poi-images/palacio-catete-history-v2.webp",
     description: { de: "Der ehemalige Präsidentenpalast Brasiliens in Rio de Janeiro, der heute als Museum der Republik dient.", hu: "Brazília egykori elnöki palotája Rio de Janeiróban, amely ma a Köztársaság Múzeumaként működik.", ro: "Fostul palat prezidențial al Braziliei din Rio de Janeiro, care servește acum ca Muzeul Republicii.", en: "The former presidential palace of Brazil in Rio de Janeiro, now serving as the Museum of the Republic." , es: "El antiguo palacio presidencial de Brasil en Río de Janeiro, que hoy funciona como el Museo de la República.", pt: "O antigo palácio presidencial do Brasil no Rio de Janeiro, que hoje serve como Museu da República.", fr: "L'ancien palais présidentiel du Brésil à Rio de Janeiro, qui sert aujourd'hui de musée de la République."},
     facts: {
       de: ["Sitz der Exekutive von 1897 bis 1960.", "Ort des Selbstmordes von Getúlio Vargas.", "Neoklassizistische Architektur.", "Beherbergt das Museum der Republik.", "Prächtige Gärten."],
@@ -20665,7 +20640,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-PA",
     coords: [-48.4913, -1.4527],
     name: { de: "Theatro da Paz", hu: "Theatro da Paz", ro: "Theatro da Paz", en: "Theatro da Paz"},
-    image: "/poi-images/theatro-da-paz-history-v2.webp",
     description: { de: "Ein prächtiges Opernhaus in Belém, das während der Glanzzeit des Kautschukbooms erbaut wurde.", hu: "Egy pompás operaház Belémben, amelyet a kaucsukláz virágkorában építettek.", ro: "O operă magnifică din Belém, construită în perioada de glorie a boom-ului cauciucului.", en: "The Theatro da Paz is a magnificent opera house in Belém, built during the rubber boom and reflecting the neoclassical architectural style of the 19th century." , es: "Un magnífico teatro de ópera en Belém, construido durante el apogeo del auge del caucho.", pt: "Uma magnífica casa de ópera em Belém, construída durante o apogeu do ciclo da borracha.", fr: "Un magnifique opéra à Belém, construit pendant l'apogée du cycle du caoutchouc."},
     facts: {
       de: ["Erbaut im Jahr 1878.", "Neoklassizistischer Stil.", "Fresken von Domenico de Angelis.", "Symbol des Reichtums aus Kautschuk.", "Kapazität für 900 Zuschauer."],
@@ -21105,7 +21079,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-PA",
     coords: [-48.5044, -1.4547],
     name: { de: "Forte do Presépio", hu: "Forte do Presépio", ro: "Forte do Presépio", en: "Forte do Presépio"},
-    image: "/poi-images/forte-do-presepio-history-v2.webp",
     description: { de: "Die erste portugiesische Verteidigungsanlage im Amazonasgebiet, die den Ursprung der Stadt Belém markiert.", hu: "Az első portugál védelmi létesítmény az Amazonas régióban, amely Belém városának eredetét jelöli.", ro: "Prima instalație de apărare portugheză din regiunea Amazonului, care marchează originea orașului Belém.", en: "The first Portuguese defense installation in the Amazon region, marking the origin of the city of Belém." , es: "La primera instalación de defensa portuguesa en la región amazónica, que marcó el origen de la ciudad de Belém.", pt: "A primeira instalação de defesa portuguesa na região amazônica, que marcou a origem da cidade de Belém.", fr: "Le premier ouvrage de défense portugais en Amazonie, marquant l'origine de la ville de Belém."},
     facts: {
       de: ["Gegründet im Jahr 1616.", "Ursprung der Stadt Belém.", "Schützte vor französischen und holländischen Angriffen.", "Historisches Museum im Inneren.", "Blick auf die Guajará-Bucht."],
@@ -22085,7 +22058,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-BA",
     coords: [-38.5327, -13.0102],
     name: { de: "Farol da Barra", hu: "Farol da Barra", ro: "Farol da Barra", en: "Barra Lighthouse"},
-    image: "/poi-images/farol-da-barra-history-v2.webp",
     description: { de: "Ein historischer Leuchtturm in Salvador, der sich im Forte de Santo Antônio da Barra befindet.", hu: "Történelmi világítótorony Salvadorban, amely a Forte de Santo Antônio da Barra erődben található.", ro: "Un far istoric în Salvador, situat în Forte de Santo Antônio da Barra.", en: "The Farol da Barra is a historic lighthouse in Salvador, built on the site of a 16th-century fort at the entrance to the Bay of All Saints." , es: "Un faro histórico en Salvador, situado en el Forte de Santo Antônio da Barra.", pt: "Um farol histórico em Salvador, localizado no Forte de Santo Antônio da Barra.", fr: "Un phare historique à Salvador, situé dans le Forte de Santo Antônio da Barra."},
     facts: {
       de: ["Einer der ältesten Leuchttürme Amerikas.", "Erbaut im Jahr 1698.", "Teil des nautischen Museums von Bahia.", "Beliebter Ort für Sonnenuntergänge.", "Schwarz-weiß gestreiftes Muster."],
@@ -23281,7 +23253,6 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-BA",
     coords: [-38.5086, -12.9736],
     name: { de: "Kirche und Kloster São Francisco", hu: "São Francisco templom és kolostor", ro: "Biserica și Mănăstirea São Francisco", en: "Church and Convent of São Francisco"},
-    image: "/poi-images/igreja-sao-francisco-history-v2.webp",
     description: { de: "Eine beeindruckende Barockkirche in Salvador, deren Inneres fast vollständig mit Blattgold überzogen ist.", hu: "Lenyűgöző barokk templom Salvadorban, melynek belsejét szinte teljesen aranyfüst borítja.", ro: "O impresionantă biserică barocă din Salvador, al cărei interior este aproape complet acoperit cu foiță de aur.", en: "An impressive Baroque church in Salvador, whose interior is almost completely covered in gold leaf." , es: "Una impresionante iglesia barroca en Salvador, cuyo interior está casi totalmente recubierto de pan de oro.", pt: "Uma impressionante igreja barroca em Salvador, cujo interior é quase totalmente revestido com folha de ouro.", fr: "Une impressionnante église baroque à Salvador, dont l'intérieur est presque entièrement recouvert de feuilles d'or."},
     facts: {
       de: ["Meisterwerk des brasilianischen Barocks.", "Hunderte Kilogramm Blattgold verwendet.", "Portugiesische Azulejo-Kacheln.", "Befindet sich in Pelourinho.", "Erbaut im 18. Jahrhundert."],

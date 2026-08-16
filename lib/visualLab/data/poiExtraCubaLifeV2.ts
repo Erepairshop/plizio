@@ -8,7 +8,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-10",
     coords: [-82.3550, 23.0850],
     name: { de: "Nationaler Zoo von Kuba", hu: "Kubai Nemzeti Állatkert", ro: "Grădina Zoologică Națională din Cuba", en: "National Zoo of Cuba"},
-    image: "/poi-images/zoologico-nacional-cuba-life-v2.webp",
     description: {
       de: "Der Nationalzoo von Kuba liegt in Havanna und zeigt viele afrikanische Tierarten. Große Freigehege prägen die Anlage.",
       hu: "Tágas állatkert Havannában, szabad téri kifutókkal számos afrikai állat számára.",
@@ -52,7 +51,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-09",
     coords: [-81.1600, 22.2800],
     name: { de: "Krokodilfarm Zapata", hu: "Zapata Krokodilfarm", ro: "Ferma de crocodili Zapata", en: "Zapata Crocodile Farm"},
-    image: "/poi-images/criadero-cocodrilos-zapata-life-v2.webp",
     description: {
       de: "Ein Zucht- und Schutzzentrum für das seltene kubanische Krokodil.",
       hu: "A Zapata-mocsár híres krokodilneveldéje, ahol a kubai vadon egyik jellegzetes faja látható.",
@@ -96,7 +94,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-10",
     coords: [-82.4700, 23.1300],
     name: { de: "Nationales Aquarium von Kuba", hu: "Kuba Nemzeti Akváriuma", ro: "Acvariul Național din Cuba", en: "National Aquarium of Cuba"},
-    image: "/poi-images/acuario-nacional-life-v2.webp",
     description: {
       de: "Ein bekanntes Aquarium in Havanna mit Delfinshows und Meeresbiologie.",
       hu: "Ismert akvárium Havannában, delfinshow-kkal és tengerbiológiai bemutatókkal.",
@@ -184,7 +181,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-10",
     coords: [-82.3800, 23.0600],
     name: { de: "Parque Lenin", hu: "Lenin Park", ro: "Parcul Lenin", en: "Lenin Park"},
-    image: "/poi-images/parque-lenin-life-v2.webp",
     description: {
       de: "Ein riesiger Freizeitpark in Havanna mit Spielplätzen und einer kleinen Eisenbahn.",
       hu: "Havanna nagy városi szabadidőparkja, amely családi programokhoz és szabadtéri pihenéshez kapcsolódik.",
@@ -228,7 +224,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-09",
     coords: [-81.1500, 22.2500],
     name: { de: "Tourismuszentrum Guamá", hu: "Guamá Turisztikai Központ", ro: "Centrul turistic Guamá", en: "Guamá Tourist Center"},
-    image: "/poi-images/centro-turistico-guamá-life-v2.webp",
     description: {
       de: "Ein Dorf im Taino-Stil, das per Boot im Zapata-Sumpf erreicht wird.",
       hu: "Taino stílusú falu, amely hajóval érhető el a Zapata-mocsárban.",
@@ -272,7 +267,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-10",
     coords: [-82.2900, 23.0600],
     name: { de: "Finca Vigía Garten", hu: "Finca Vigía kert", ro: "Grădina Finca Vigía", en: "Finca Vigía Gardens"},
-    image: "/poi-images/finca-la-vigia-life-v2.webp",
     description: {
       de: "Die Gärten von Finca Vigía gehören zum historischen Anwesen von Ernest Hemingway. Sie zeigen tropische Pflanzen und ruhige Spazierwege.",
       hu: "A Finca Vigía Hemingway kubai otthonához kötődő, ismert vidéki birtok Havana közelében.",
@@ -316,7 +310,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-08",
     coords: [-78.5000, 22.5000],
     name: { de: "Jardines del Rey Flora", hu: "Jardines del Rey növényvilága", ro: "Flora Jardines del Rey", en: "Jardines del Rey Flora"},
-    image: "/poi-images/jardines-del-rey-flora-life-v2.webp",
     description: {
       de: "Das Schutzgebiet in Jardines del Rey bewahrt einheimische Vögel und Reptilien. Es ist auch für Vogelbeobachtung und natürliche Strände interessant.",
       hu: "A Jardines del Rey szigetcsoport part menti növényvilágát bemutató természetes környezet.",
@@ -404,7 +397,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-10",
     coords: [-82.3900, 23.1200],
     name: { de: "Zoo von Havanna (26. Juli)", hu: "Havannai Állatkert (Július 26.)", ro: "Grădina Zoologică din Havana (26 Iulie)", en: "Havana Zoo (July 26)"},
-    image: "/poi-images/zoologico-de-26-life-v2.webp",
     description: {
       de: "Ein kleinerer Stadtzoo im Zentrum von Havanna. Er eignet sich für kurze Besuche und zeigt vor allem lokale Tierarten.",
       hu: "Kisebb városi állatkert Havanna szívében.",
@@ -448,7 +440,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-07",
     coords: [-83.6500, 22.4000],
     name: { de: "Tabakfarm Pinar", hu: "Pinari dohányfarm", ro: "Ferma de tutun Pinar", en: "Pinar Tobacco Farm"},
-    image: "/poi-images/finca-pinar-tabaco-life-v2.webp",
     description: {
       de: "Eine der vielen Farmen in Pinar del Río, wo die besten Zigarren entstehen.",
       hu: "Pinar del Río dohánybirtoka, ahol a kubai szivar alapját adó növényeket termesztik.",
@@ -492,7 +483,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-04",
     coords: [-80.0500, 21.8500],
     name: { de: "Kaffeeplantage Escambray", hu: "Escambray kávéültetvény", ro: "Plantația de cafea Escambray", en: "Escambray Coffee Plantation"},
-    image: "/poi-images/plantacion-cafe-escambray-life-v2.webp",
     description: {
       de: "Die Kaffeeplantage im Escambray-Gebirge steht für traditionellen Anbau im Bergklima. Sie ist ein typischer Ort für hochwertigen kubanischen Kaffee.",
       hu: "Escambray-hegységi kávéültetvény, amely a hegyvidéki mezőgazdaság hagyományát őrzi.",
@@ -536,7 +526,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-10",
     coords: [-82.4000, 23.1100],
     name: { de: "Parque Kike Acosta", hu: "Kike Acosta Park", ro: "Parcul Kike Acosta", en: "Kike Acosta Park"},
-    image: "/poi-images/parque-kike-acosta-life-v2.webp",
     description: {
       de: "Der Parque Kike Acosta ist ein kleiner, kinderfreundlicher Park in Havanna. Er dient der Nachbarschaft als ruhiger Treffpunkt mit Grünflächen.",
       hu: "Helyi közpark, amely a mindennapi pihenés és a közösségi élet tere.",
@@ -580,7 +569,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-08",
     coords: [-78.5500, 22.5500],
     name: { de: "Agroökologische Farm Cayo Coco", hu: "Cayo Coco agroökológiai farm", ro: "Ferma agroecologică Cayo Coco", en: "Agroecological Farm Cayo Coco"},
-    image: "/poi-images/finca-agroecologica-cayo-coco-life-v2.webp",
     description: {
       de: "Ein kleiner landwirtschaftlicher Betrieb auf der touristischen Insel.",
       hu: "Kis mezőgazdasági üzem a turisztikai szigeten.",
@@ -624,7 +612,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-13",
     coords: [-75.4000, 19.9500],
     name: { de: "Steinzooland", hu: "Kő-állatvilág", ro: "Zoo de Piatră", en: "Stone Zoo"},
-    image: "/poi-images/zoologico-de-piedra-life-v2.webp",
     description: {
       de: "Ein künstlerischer Park mit in Felsen gehauenen Tieren nahe Guantánamo. Der Ort ist eher Ausflugsziel als klassischer Zoo.",
       hu: "Különleges, kőszobrokkal kialakított állatkert és szabadidős park.",
@@ -668,7 +655,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-06",
     coords: [-76.6200, 20.3700],
     name: { de: "Parque Carlos Manuel de Céspedes", hu: "Carlos Manuel de Céspedes Park", ro: "Parcul Carlos Manuel de Céspedes", en: "Carlos Manuel de Céspedes Park"},
-    image: "/poi-images/parque-carlos-manuel-de-cespedes-life-v2.webp",
     description: {
       de: "Ein zentraler Park in Bayamo, ideal für Familien.",
       hu: "A kubai nemzeti hős nevét viselő városi park és találkozóhely.",
@@ -712,7 +698,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-05",
     coords: [-81.5700, 23.0400],
     name: { de: "Bio-Farm Matanzas", hu: "Matanzasi bio-farm", ro: "Bio-ferma Matanzas", en: "Organic Farm Matanzas"},
-    image: "/poi-images/finca-organic-matanzas-life-v2.webp",
     description: {
       de: "Die Bio-Farm in Matanzas arbeitet mit modernen und nachhaltigen Methoden. Sie verbindet Gemüseanbau, Besuchsangebote und Direktverkauf.",
       hu: "Modern mezőgazdasági üzem, a fenntarthatóságra fókuszálva.",
@@ -756,7 +741,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-02",
     coords: [-77.9200, 21.3900],
     name: { de: "Zoo von Camagüey", hu: "Camagüeyi állatkert", ro: "Grădina Zoologică din Camagüey", en: "Camaguey Zoo"},
-    image: "/poi-images/zoologico-camaguey-life-v2.webp",
     description: {
       de: "Der Zoo von Camagüey zeigt lokale und exotische Tiere. Er ist ein typisches Ziel für Bildung und Familienausflüge.",
       hu: "Camagüey városi állatkertje, amely családi programként is ismert.",
@@ -800,7 +784,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-05",
     coords: [-80.4000, 22.1500],
     name: { de: "Botanischer Garten Cienfuegos", hu: "Cienfuegosi Botanikus Kert", ro: "Grădina Botanică Cienfuegos", en: "Botanical Garden Cienfuegos"},
-    image: "/poi-images/jardin-botanico-cienfuegos-life-v2.webp",
     description: {
       de: "Der Botanische Garten von Cienfuegos gehört zu den älteren Gärten Amerikas. Er verbindet Forschung, Bildung und Spazierwege.",
       hu: "Cienfuegos botanikus kertje, amely a trópusi növények bemutatására épül.",
@@ -888,7 +871,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-04",
     coords: [-79.9800, 21.8000],
     name: { de: "Agroökologische Farm Trinidad", hu: "Trinidad agroökológiai farm", ro: "Ferma agroecologică Trinidad", en: "Agroecological Farm Trinidad"},
-    image: "/poi-images/finca-agroecologica-trinidad-life-v2.webp",
     description: {
       de: "Die agroökologische Farm bei Trinidad arbeitet mit traditionellen und nachhaltigen Methoden. Sie zeigt kleine Landwirtschaft in der Region.",
       hu: "Trinidad környéki agroökológiai birtok, amely fenntartható gazdálkodást mutat be.",
@@ -932,7 +914,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-13",
     coords: [-74.5000, 20.3500],
     name: { de: "Zoo von Baracoa", hu: "Baracoai állatkert", ro: "Grădina Zoologică din Baracoa", en: "Baracoa Zoo"},
-    image: "/poi-images/zoologico-de-baracoa-life-v2.webp",
     description: {
       de: "Der kleine Zoo von Baracoa ergänzt den Altstadtbesuch um lokale Tierarten. Er ist ein kurzer, familienfreundlicher Stopp in der ältesten Stadt Kubas.",
       hu: "Baracoa állatkertje, amely a kelet-kubai trópusi környezethez kapcsolódik.",
@@ -976,7 +957,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-13",
     coords: [-75.8200, 20.0200],
     name: { de: "Parque de la Alameda", hu: "Alameda Park", ro: "Parcul Alameda", en: "Alameda Park"},
-    image: "/poi-images/parque-santiago-de-cuba-life-v2.webp",
     description: {
       de: "Der Parque de la Alameda ist ein ruhiger Park in Santiago de Cuba. Er wird vor allem für Spaziergänge und Familienbesuche genutzt.",
       hu: "Santiago de Cuba egyik nagy városi parkja, amely a helyiek mindennapi pihenőhelye.",
@@ -1020,7 +1000,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-13",
     coords: [-74.5500, 20.3000],
     name: { de: "Kakaoplantage Baracoa", hu: "Baracoai kakaóültetvény", ro: "Plantația de cacao Baracoa", en: "Baracoa Cocoa Plantation"},
-    image: "/poi-images/finca-cacao-baracoa-life-v2.webp",
     description: {
       de: "Die Kakaofarm in Baracoa ist für hochwertigen kubanischen Kakao bekannt. Sie verbindet Ernte, Schokoladenproduktion und Besuch vor Ort.",
       hu: "Baracoa környéki kakaóbirtok, a kelet-kubai kakaótermesztés hagyományát mutatja be.",
@@ -1064,7 +1043,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-06",
     coords: [-77.1200, 20.3400],
     name: { de: "Zoo von Manzanillo", hu: "Manzanillói állatkert", ro: "Grădina Zoologică din Manzanillo", en: "Manzanillo Zoo"},
-    image: "/poi-images/zoologico-de-manzanillo-life-v2.webp",
     description: {
       de: "Der Zoo von Manzanillo ist ein kleiner Tierpark mit lokalen Arten. Er ist ein einfacher Ausflugspunkt für Familien und Kinder.",
       hu: "Manzanillo városi állatkertje, amely családi programként ismert.",
@@ -1108,7 +1086,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-12",
     coords: [-76.2600, 20.8800],
     name: { de: "Parque Calixto García", hu: "Calixto García Park", ro: "Parcul Calixto García", en: "Calixto García Park"},
-    image: "/poi-images/parque-holguin-life-v2.webp",
     description: {
       de: "Der Parque Calixto García ist ein zentraler Park in Holguín mit schattigen Wegen. Er ist ein beliebter Treffpunkt für Familien und Spaziergänger.",
       hu: "Holguín központi parkja a városi élet egyik fontos találkozóhelye.",
@@ -1152,7 +1129,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-13",
     coords: [-75.2000, 20.1000],
     name: { de: "Kakaofarm Guantánamo", hu: "Guantánamói kakaófarm", ro: "Ferma de cacao Guantánamo", en: "Guantanamo Cocoa Farm"},
-    image: "/poi-images/finca-cacao-guantanamo-life-v2.webp",
     description: {
       de: "Die Kakaofarm in Guantánamo zeigt kleinen Kakaoanbau mit nachhaltigem Ansatz. Sie steht für lokale Produktion und Bildung.",
       hu: "Guantánamo tartomány kakaótermelő birtoka, amely a trópusi mezőgazdaságra épül.",
@@ -1196,7 +1172,6 @@ export const poiExtraCubaLifeV2: POI[] = [
     parent: "CU-05",
     coords: [-81.5700, 23.0500],
     name: { de: "Zoo von Matanzas", hu: "Matanzasi állatkert", ro: "Grădina Zoologică din Matanzas", en: "Matanzas Zoo"},
-    image: "/poi-images/zoologico-de-matanzas-life-v2.webp",
     description: {
       de: "Der Zoo von Matanzas zeigt lokale Tiere in einer ruhigen Umgebung. Er ist ein einfacher Ausflugspunkt für Familien und Kinder.",
       hu: "Matanzas állatkertje helyi családi kirándulóhely és természetközeli program.",

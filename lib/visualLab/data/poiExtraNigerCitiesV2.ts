@@ -8,7 +8,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-8",
     coords: [2.1098, 13.5116],
     name: { de: "Niamey", hu: "Niamey", ro: "Niamey", en: "Niamey"},
-    image: "/poi-images/niamey-cities-v2.webp",
     description: {
       de: "Die geschäftige Hauptstadt Nigers breitet sich entlang des Flusses aus und ist das unbestrittene politische Zentrum.",
       hu: "Niger nyüzsgő fővárosa a folyó mentén terül el, és az ország vitathatatlan politikai központja.",
@@ -90,7 +89,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-7",
     coords: [8.9881, 13.8052],
     name: { de: "Zinder", hu: "Zinder", ro: "Zinder", en: "Zinder"},
-    image: "/poi-images/zinder-cities-v2.webp",
     description: {
       de: "Eine historisch bedeutsame Stadt im Süden, die für ihre traditionelle Architektur und den Sultanspalast berühmt ist.",
       hu: "Történelmileg jelentős város délen, amely hagyományos építészetéről és a szultáni palotáról híres.",
@@ -133,7 +131,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-4",
     coords: [7.1017, 13.5000],
     name: { de: "Maradi", hu: "Maradi", ro: "Maradi", en: "Maradi"},
-    image: "/poi-images/maradi-cities-v2.webp",
     description: {
       de: "Das wirtschaftliche Herz der südlichen Grenzregion ist ein blühendes Handelszentrum in der Nähe zu Nigeria.",
       hu: "A déli határvidék gazdasági szíve egy virágzó kereskedelmi központ Nigéria közelében.",
@@ -181,7 +178,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-5",
     coords: [5.2692, 14.8888],
     name: { de: "Tahoua", hu: "Tahoua", ro: "Tahoua", en: "Tahoua"},
-    image: "/poi-images/tahoua-cities-v2.webp",
     description: {
       de: "Ein wichtiger Knotenpunkt für den Handel zwischen den Wüstenregionen im Norden und dem fruchtbaren Süden.",
       hu: "Fontos csomópont az északi sivatagi régiók és a termékeny dél közötti kereskedelemben.",
@@ -258,7 +254,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-1",
     coords: [7.9697, 16.9692],
     name: { de: "Agadez", hu: "Agadez", ro: "Agadez", en: "Agadez"},
-    image: "/poi-images/agadez-cities-v2.webp",
     description: {
       de: "Die legendäre Wüstenstadt dient als Tor zur weiten Sahara und beeindruckt mit uralten Lehmmoscheen.",
       hu: "A legendás sivatagi város a hatalmas Szahara kapujaként szolgál, és ősi vályogmecseteivel lenyűgözi a látogatókat.",
@@ -302,7 +297,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-1",
     coords: [7.3853, 18.7369],
     name: { de: "Arlit", hu: "Arlit", ro: "Arlit", en: "Arlit"},
-    image: "/poi-images/arlit-cities-v2.webp",
     description: {
       de: "Die Industriestadt im rauen Norden entstand durch den Abbau von Uranvorkommen in der Wüstenlandschaft.",
       hu: "A zord északon található iparváros a sivatagi tájban rejlő uránkészletek kitermelése révén jött létre.",
@@ -351,7 +345,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-3",
     coords: [3.1937, 13.0490],
     name: { de: "Dosso", hu: "Dosso", ro: "Dosso", en: "Dosso"},
-    image: "/poi-images/dosso-cities-v2.webp",
     description: {
       de: "Ein kulturell reiches Zentrum im Südwesten, das tief in den vorkolonialen Traditionen verwurzelt ist.",
       hu: "Kulturálisan gazdag központ délnyugaton, amely mélyen gyökerezik a gyarmatosítás előtti hagyományokban.",
@@ -476,7 +469,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-2",
     coords: [12.6113, 13.3153],
     name: { de: "Diffa", hu: "Diffa", ro: "Diffa", en: "Diffa"},
-    image: "/poi-images/diffa-cities-v2.webp",
     description: {
       de: "Die östlichste Metropole des Landes liegt strategisch nah an der Grenze zu Nigeria und dem Tschadsee.",
       hu: "Az ország legkeletibb metropolisza stratégiailag közel fekszik a nigériai határhoz és a Csád-tóhoz.",
@@ -520,7 +512,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-5",
     coords: [5.2502, 13.7959],
     name: { de: "Birni-Nkonni", hu: "Birni-Nkonni", ro: "Birni-Nkonni", en: "Birni-Nkonni"},
-    image: "/poi-images/birni-nkonni-cities-v2.webp",
     description: {
       de: "Eine lebendige Grenzstadt, die stark vom florierenden Austausch von landwirtschaftlichen Produkten profitiert.",
       hu: "Élénk határváros, amely erősen profitál a mezőgazdasági termékek virágzó cseréjéből.",
@@ -564,7 +555,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-4",
     coords: [7.9874, 13.7573],
     name: { de: "Tessaoua", hu: "Tessaoua", ro: "Tessaoua", en: "Tessaoua"},
-    image: "/poi-images/tessaoua-cities-v2.webp",
     description: {
       de: "Einst ein mächtiges lokales Fürstentum, ist dieser Ort heute ein ruhiges Zentrum für Getreidebauern.",
       hu: "Egykor hatalmas helyi fejedelemség volt, ez a település ma a gabonatermesztők csendes központja.",
@@ -608,7 +598,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-3",
     coords: [4.0287, 13.6393],
     name: { de: "Dogondoutchi", hu: "Dogondoutchi", ro: "Dogondoutchi", en: "Dogondoutchi"},
-    image: "/poi-images/dogondoutchi-cities-v2.webp",
     description: {
       de: "Eine malerische Kleinstadt, die durch trockene Täler und von Bäumen gesäumte Straßen charakterisiert ist.",
       hu: "Festői kisváros, amelyet száraz völgyek és fákkal szegélyezett utcák jellemeznek.",
@@ -652,7 +641,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-3",
     coords: [3.4492, 11.8844],
     name: { de: "Gaya", hu: "Gaya", ro: "Gaya", en: "Gaya"},
-    image: "/poi-images/gaya-cities-v2.webp",
     description: {
       de: "Direkt am Ufer des Niger positioniert, profitiert dieser Ort stark vom Grenzverkehr mit Benin.",
       hu: "Közvetlenül a Niger partján fekszik, és ez a település nagymértékben profitál a Beninnel folyó határforgalomból.",
@@ -696,7 +684,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-5",
     coords: [5.9600, 14.0730],
     name: { de: "Madaoua", hu: "Madaoua", ro: "Madaoua", en: "Madaoua"},
-    image: "/poi-images/madaoua-cities-v2.webp",
     description: {
       de: "Inmitten einer wichtigen Agrarzone gelegen, ist diese Ortschaft berühmt für ihren Zwiebelanbau.",
       hu: "Egy fontos agrármarózóna közepén található, és ez a település hagyma termesztéséről híres.",
@@ -740,7 +727,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-4",
     coords: [7.6712, 13.9553],
     name: { de: "Mayahi", hu: "Mayahi", ro: "Mayahi", en: "Mayahi"},
-    image: "/poi-images/mayahi-cities-v2.webp",
     description: {
       de: "Eine wachsende Gemeinde, in der traditionelle Landwirtschaft und lokale Viehzucht die lokale Ökonomie antreiben.",
       hu: "Növekvő közösség, ahol a hagyományos mezőgazdaság és a helyi állattenyésztés hajtja a helyi gazdaságot.",
@@ -829,7 +815,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-6",
     coords: [0.7531, 14.0078],
     name: { de: "Téra", hu: "Téra", ro: "Téra", en: "Téra"},
-    image: "/poi-images/tera-cities-v2.webp",
     description: {
       de: "Eine ruhige Ortschaft im äußersten Westen des Landes, nahe der Grenze zu Burkina Faso.",
       hu: "Csendes település az ország legnyugatibb részén, Burkina Faso határának közelében.",
@@ -873,7 +858,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-7",
     coords: [9.1501, 13.7073],
     name: { de: "Mirriah", hu: "Mirriah", ro: "Mirriah", en: "Mirriah"},
-    image: "/poi-images/mirriah-cities-v2.webp",
     description: {
       de: "Dieses historische Dorf hat sich zu einer modernen Verwaltungseinheit mit starkem Fokus auf Landwirtschaft entwickelt.",
       hu: "Ez a történelmi falu egy modern közigazgatási egységgé fejlődött, erős mezőgazdasági fókusszal.",
@@ -917,7 +901,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-4",
     coords: [7.0485, 13.5627],
     name: { de: "Tibiri", hu: "Tibiri", ro: "Tibiri", en: "Tibiri"},
-    image: "/poi-images/tibiri-cities-v2.webp",
     description: {
       de: "Eine kompakte Ansiedlung im landwirtschaftlichen Herzen Nigers, die eng mit der Nachbarstadt Maradi verbunden ist.",
       hu: "Kompakt település Niger mezőgazdasági szívében, amely szorosan kapcsolódik a szomszédos Maradi városhoz.",
@@ -961,7 +944,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-6",
     coords: [1.5328, 14.2071],
     name: { de: "Tillabéri", hu: "Tillabéri", ro: "Tillabéri", en: "Tillabéri"},
-    image: "/poi-images/tillaberi-cities-v2.webp",
     description: {
       de: "Als Tor zur Sahelzone bietet diese Stadt am Nigerufer grüne Reisfelder inmitten trockener Gebiete.",
       hu: "A Száhel-övezet kapujaként ez a Niger-parti város zöld rizsföldeket kínál a száraz területek közepén.",
@@ -1050,7 +1032,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-7",
     coords: [8.9099, 12.9983],
     name: { de: "Magaria", hu: "Magaria", ro: "Magaria", en: "Magaria"},
-    image: "/poi-images/magaria-cities-v2.webp",
     description: {
       de: "Nahe der nigerianischen Grenze gelegen, floriert dieser Ort durch den konstanten Austausch von Handelswaren.",
       hu: "A nigériai határ közelében található település a kereskedelmi áruk folyamatos cseréje révén virágzik.",
@@ -1094,7 +1075,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-4",
     coords: [6.7650, 14.5106],
     name: { de: "Dakoro", hu: "Dakoro", ro: "Dakoro", en: "Dakoro"},
-    image: "/poi-images/dakoro-cities-v2.webp",
     description: {
       de: "Eine entlegene Kommune, die von pastoralen Traditionen lebt und große Herden von Nutztieren beherbergt.",
       hu: "Félreeső település, amely pásztorhagyományokból él, és nagy haszonállat-csordáknak ad otthont.",
@@ -1187,7 +1167,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-7",
     coords: [8.4749, 13.4231],
     name: { de: "Matameye", hu: "Matameye", ro: "Matameye", en: "Matameye"},
-    image: "/poi-images/matameye-cities-v2.webp",
     description: {
       de: "Dieses städtische Zentrum liegt eingebettet in fruchtbare Ebenen und ist ein Pfeiler der lokalen Versorgung.",
       hu: "Ez a termékeny síkságokba ágyazott városi központ a helyi ellátás egyik pillére.",
@@ -1275,7 +1254,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-7",
     coords: [8.8879, 14.9709],
     name: { de: "Tanout", hu: "Tanout", ro: "Tanout", en: "Tanout"},
-    image: "/poi-images/tanout-cities-v2.webp",
     description: {
       de: "Gelegen am Rande der Sahara, trotzt diese Siedlung den trockenen Winden mit widerstandsfähigen Kulturen.",
       hu: "A Szahara peremén fekvő település ellenálló növénykultúrákkal dacol a száraz szelekkel.",
@@ -1319,7 +1297,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-7",
     coords: [10.2704, 13.9835],
     name: { de: "Gouré", hu: "Gouré", ro: "Gouré", en: "Gouré"},
-    image: "/poi-images/goure-cities-v2.webp",
     description: {
       de: "Umgeben von sanften Hügeln, bietet dieses abgelegene Zentrum der Agrarwirtschaft eine friedliche Atmosphäre.",
       hu: "A szelíd dombokkal körülvett, eldugott agráripari központ békés légkört kínál.",
@@ -1363,7 +1340,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-5",
     coords: [6.2793, 15.4509],
     name: { de: "Abalak", hu: "Abalak", ro: "Abalak", en: "Abalak"},
-    image: "/poi-images/abalak-cities-v2.webp",
     description: {
       de: "Diese Gemeinde feiert das nomadische Erbe und ist alljährlich Gastgeber farbenfroher kultureller Zusammenkünfte.",
       hu: "Ez a közösség ünnepli a nomád örökséget, és minden évben színes kulturális összejöveteleknek ad otthont.",
@@ -1407,7 +1383,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-4",
     coords: [7.7786, 13.5060],
     name: { de: "Aguié", hu: "Aguié", ro: "Aguié", en: "Aguié"},
-    image: "/poi-images/aguie-cities-v2.webp",
     description: {
       de: "Ein stark bevölkerter Ort im Süden, der durch florierende Bauernmärkte und handwerkliche Betriebe auffällt.",
       hu: "Sűrűn lakott település délen, amely virágzó termelői piacokkal és kézműves vállalkozásokkal tűnik ki.",
@@ -1451,7 +1426,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-6",
     coords: [2.0862, 14.3165],
     name: { de: "Ouallam", hu: "Ouallam", ro: "Ouallam", en: "Ouallam"},
-    image: "/poi-images/ouallam-cities-v2.webp",
     description: {
       de: "Eine beschauliche Kleinstadt nördlich der Hauptstadt, die vorwiegend vom Hirtenwesen und Trockenfeldbau lebt.",
       hu: "Csendes kisváros a fővárostól északra, amely főként állattartásból és szárazgazdálkodásból él.",
@@ -1495,7 +1469,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-6",
     coords: [3.3168, 14.3521],
     name: { de: "Filingué", hu: "Filingué", ro: "Filingué", en: "Filingué"},
-    image: "/poi-images/filingue-cities-v2.webp",
     description: {
       de: "Eingebettet in trockene Steppen, bewahrt diese Siedlung den ursprünglichen Lebensstil der Sahel-Bewohner.",
       hu: "A száraz sztyeppék közé ágyazott település őrzi a száheli lakosok eredeti életmódját.",
@@ -1539,7 +1512,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-5",
     coords: [6.0428, 14.4229],
     name: { de: "Bouza", hu: "Bouza", ro: "Bouza", en: "Bouza"},
-    image: "/poi-images/bouza-cities-v2.webp",
     description: {
       de: "Inmitten einer rauen Landschaft gelegen, bietet dieser Ort durch lokale Wasserprojekte grüne Rückzugsorte.",
       hu: "A zord táj közepén fekvő település a helyi vízprojektek révén zöld menedéket kínál.",
@@ -1671,7 +1643,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-6",
     coords: [2.3689, 13.1007],
     name: { de: "Say", hu: "Say", ro: "Say", en: "Say"},
-    image: "/poi-images/say-cities-v2.webp",
     description: {
       de: "Als tiefreligiöses Zentrum südlich der Hauptstadt lockt dieser Ort Gläubige mit alten Moscheen an das Nigerufer.",
       hu: "Mélyen vallásos központként a fővárostól délre, ez a település ősi mecsetekkel vonzza a hívőket a Niger partjára.",
@@ -1715,7 +1686,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-4",
     coords: [7.1560, 13.3083],
     name: { de: "Madarounfa", hu: "Madarounfa", ro: "Madarounfa", en: "Madarounfa"},
-    image: "/poi-images/madarounfa-cities-v2.webp",
     description: {
       de: "Ein malerisches Dorf in der Nähe eines Sees, das in der Mythenwelt der lokalen Stämme eine große Rolle spielt.",
       hu: "Festői falu egy tó közelében, amely nagy szerepet játszik a helyi törzsek mítoszvilágában.",
@@ -1840,7 +1810,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-4",
     coords: [6.6974, 13.6558],
     name: { de: "Guidan Roumdji", hu: "Guidan Roumdji", ro: "Guidan Roumdji", en: "Guidan Roumdji"},
-    image: "/poi-images/guidan-roumdji-cities-v2.webp",
     description: {
       de: "Versteckt zwischen weiten Äckern, dient diese aufstrebende Kommune als wichtiger Versorger für die Provinz.",
       hu: "A tágas szántóföldek között megbúvó, feltörekvő község fontos ellátója a tartománynak.",
@@ -1884,7 +1853,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-2",
     coords: [11.9748, 13.2114],
     name: { de: "Maïné-Soroa", hu: "Maïné-Soroa", ro: "Maïné-Soroa", en: "Maïné-Soroa"},
-    image: "/poi-images/maine-soroa-cities-v2.webp",
     description: {
       de: "Diese östliche Ansiedlung zeichnet sich durch die Nähe zum Komadougou-Yobé-Fluss und fruchtbare Uferzonen aus.",
       hu: "Ezt a keleti települést a Komadougou Yobé folyó közelsége és termékeny part menti övezetei jellemzik.",
@@ -2009,7 +1977,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-5",
     coords: [5.7985, 15.8969],
     name: { de: "Tchin-Tabaraden", hu: "Tchin-Tabaraden", ro: "Tchin-Tabaraden", en: "Tchin-Tabaraden"},
-    image: "/poi-images/tchin-tabaraden-cities-v2.webp",
     description: {
       de: "Als administratives Zentrum für Nomaden bietet dieser entlegene Ort wichtige Infrastruktur in der trockenen Sahel-Weite.",
       hu: "Nomádok közigazgatási központjaként ez a távoli település fontos infrastruktúrát kínál a száraz száheli pusztaságban.",
@@ -2053,7 +2020,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-2",
     coords: [11.1648, 13.7256],
     name: { de: "Goudoumaria", hu: "Goudoumaria", ro: "Goudoumaria", en: "Goudoumaria"},
-    image: "/poi-images/goudoumaria-cities-v2.webp",
     description: {
       de: "Eine isolierte kleine Wüstenkommune im Osten, die stark vom lokalen Handel mit Datteln profitiert.",
       hu: "Szigetelt kis sivatagi község keleten, amely nagymértékben profitál a helyi datolyakereskedelemből.",
@@ -2141,7 +2107,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-6",
     coords: [2.3395, 13.3043],
     name: { de: "Kollo", hu: "Kollo", ro: "Kollo", en: "Kollo"},
-    image: "/poi-images/kollo-cities-v2.webp",
     description: {
       de: "Nur einen Steinwurf von Niamey entfernt, bewahrt diese Siedlung dennoch ihren charmanten dörflichen Charakter.",
       hu: "Csak egy kőhajításnyira van Niameytől, ez a település mégis megőrzi bájos falusias jellegét.",
@@ -2185,7 +2150,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-6",
     coords: [0.9174, 14.7308],
     name: { de: "Ayorou", hu: "Ayorou", ro: "Ayorou", en: "Ayorou"},
-    image: "/poi-images/ayorou-cities-v2.webp",
     description: {
       de: "Malerisch auf Flussinseln des Niger gebaut, ist dieser Ort besonders für seinen bunten Sonntagsmarkt bekannt.",
       hu: "Festőien a Niger folyó szigeteire épült, ez a település különösen színes vasárnapi piacáról ismert.",
@@ -2229,7 +2193,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-4",
     coords: [6.2519, 14.8812],
     name: { de: "Bermo", hu: "Bermo", ro: "Bermo", en: "Bermo"},
-    image: "/poi-images/bermo-cities-v2.webp",
     description: {
       de: "Inmitten der Halbwüste gelegen, dient das Dorf als wichtiger Rastplatz für wandernde Hirten und ihre Tiere.",
       hu: "A félsivatag közepén található falu fontos pihenőhelyként szolgál a vándorló pásztorok és állataik számára.",
@@ -2361,7 +2324,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-5",
     coords: [4.8436, 16.3268],
     name: { de: "Tassara", hu: "Tassara", ro: "Tassara", en: "Tassara"},
-    image: "/poi-images/tassara-cities-v2.webp",
     description: {
       de: "Als Teil der weiten Nomadenrouten im Norden dient diese Wüstengemeinde als seltener Zufluchtsort.",
       hu: "Az északi hatalmas nomád útvonalak részeként ez a sivatagi közösség ritka menedékhelyként szolgál.",
@@ -2449,7 +2411,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-5",
     coords: [4.6971, 16.1415],
     name: { de: "Tillia", hu: "Tillia", ro: "Tillia", en: "Tillia"},
-    image: "/poi-images/tillia-cities-v2.webp",
     description: {
       de: "Diese abgelegene Siedlung trotzt der feindlichen Wüstenlandschaft und schützt uralte Quellen.",
       hu: "Ez a távoli település dacol az ellenséges sivatagi tájjal, és megvédi az ősi forrásokat.",
@@ -2493,7 +2454,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-7",
     coords: [8.9667, 14.5333],
     name: { de: "Belbédji", hu: "Belbédji", ro: "Belbédji", en: "Belbédji"},
-    image: "/poi-images/belbedji-cities-v2.webp",
     description: {
       de: "Als agrarische Bastion in den trockenen Ebenen steht das Dorf für bemerkenswerte landwirtschaftliche Ausdauer.",
       hu: "Agrárbástyaként a száraz síkságokon a falu a figyelemre méltó mezőgazdasági kitartást képviseli.",
@@ -2537,7 +2497,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-1",
     coords: [8.0494, 19.0601],
     name: { de: "Iférouane", hu: "Iférouane", ro: "Iférouane", en: "Iférouane"},
-    image: "/poi-images/iferouane-cities-v2.webp",
     description: {
       de: "Tief im majestätischen Aïr-Gebirge gelegen, verzaubert diese ruhige Oase mit üppigen Gärten.",
       hu: "A fenséges Aïr-hegység mélyén fekvő csendes oázis buja kertjeivel varázsolja el a látogatókat.",
@@ -2581,7 +2540,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-1",
     coords: [12.9164, 18.6853],
     name: { de: "Bilma", hu: "Bilma", ro: "Bilma", en: "Bilma"},
-    image: "/poi-images/bilma-cities-v2.webp",
     description: {
       de: "Bekannt in ganz Afrika für seine jahrhundertealten Salzminen, markiert dieser Ort das Ende historischer Karawanen.",
       hu: "Évszázados sóbányáiról egész Afrikában ismert, ez a település jelöli a történelmi karavánok végét.",
@@ -2625,7 +2583,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-1",
     coords: [11.5833, 18.1065],
     name: { de: "Fachi", hu: "Fachi", ro: "Fachi", en: "Fachi"},
-    image: "/poi-images/fachi-cities-v2.webp",
     description: {
       de: "Umgeben von Sandmeeren ist dieses kleine ummauerte Dorf ein Wunder menschlicher Überlebenskunst.",
       hu: "A homoktengerekkel körülvett kis fallal körülvett falu az emberi túlélés csodája.",
@@ -2669,7 +2626,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-1",
     coords: [12.8876, 18.9893],
     name: { de: "Dirkou", hu: "Dirkou", ro: "Dirkou", en: "Dirkou"},
-    image: "/poi-images/dirkou-cities-v2.webp",
     description: {
       de: "Diese wichtige Transitsiedlung in der Sahara verbindet Niger direkt mit den Karawanenwegen nach Libyen.",
       hu: "Ez a fontos szaharai tranzittelepülés közvetlenül összeköti Nigert a Líbiába vezető karavánutakkal.",
@@ -2713,7 +2669,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-1",
     coords: [6.9329, 16.7865],
     name: { de: "Ingall", hu: "Ingall", ro: "Ingall", en: "Ingall"},
-    image: "/poi-images/ingall-cities-v2.webp",
     description: {
       de: "Als historisches Rückzugsgebiet der Sultane begeistert dieses Dorf mit jahrhundertealten Moscheen und Ruinen.",
       hu: "A szultánok történelmi menedékhelyeként ez a falu évszázados mecsetekkel és romokkal nyűgöz le.",
@@ -2757,7 +2712,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-7",
     coords: [8.5333, 13.5333],
     name: { de: "Kantché", hu: "Kantché", ro: "Kantché", en: "Kantché"},
-    image: "/poi-images/kantche-cities-v2.webp",
     description: {
       de: "Ein malerisches landwirtschaftliches Zentrum im Süden, das von ausgedehnten Feldern geprägt ist.",
       hu: "Festői mezőgazdasági központ délen, amelyet kiterjedt mezők jellemeznek.",
@@ -2801,7 +2755,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-4",
     coords: [6.9167, 14.2833],
     name: { de: "Kornaka", hu: "Kornaka", ro: "Kornaka", en: "Kornaka"},
-    image: "/poi-images/kornaka-cities-v2.webp",
     description: {
       de: "Die Kommune dient als ruhiges Bindeglied zwischen den weiten Savannen und den geschäftigeren Städten im Süden.",
       hu: "A község csendes összekötő kapocsként szolgál a hatalmas szavannák és a nyüzsgőbb déli városok között.",
@@ -2845,7 +2798,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-5",
     coords: [5.5222, 13.9453],
     name: { de: "Malbaza", hu: "Malbaza", ro: "Malbaza", en: "Malbaza"},
-    image: "/poi-images/malbaza-cities-v2.webp",
     description: {
       de: "Vor allem durch eine gewaltige Zementfabrik geprägt, ist dieser Ort ein seltener industrieller Eckpfeiler Nigers.",
       hu: "Főként egy hatalmas cementgyár által meghatározott település Niger ritka ipari sarokköve.",
@@ -2889,7 +2841,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-3",
     coords: [3.2667, 13.6167],
     name: { de: "Loga", hu: "Loga", ro: "Loga", en: "Loga"},
-    image: "/poi-images/loga-cities-v2.webp",
     description: {
       de: "Eingebettet im Dosso-Departement, erhält diese Region ihr Wasser aus dem historischen Dallol-Tal-System.",
       hu: "A Dosso megyébe ágyazott régió a vizét a történelmi Dallol völgyrendszerből nyeri.",
@@ -2977,7 +2928,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     parent: "NE-6",
     coords: [1.5647, 13.8561],
     name: { de: "Gothèye", hu: "Gothèye", ro: "Gothèye", en: "Gothèye"},
-    image: "/poi-images/gotheye-cities-v2.webp",
     description: {
       de: "Die Siedlung liegt idyllisch am großen Flussufer und pflegt eine tief verwurzelte Tradition des Bootsbaus.",
       hu: "A település idillikus helyen fekszik a nagy folyó partján, és a hajóépítés mélyen gyökerező hagyományát ápolja.",

@@ -8,7 +8,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-SA",
     coords: [-90.734, 14.558],
     name: { de: "Bogen der Santa Catalina", hu: "Santa Catalina-diadalív", ro: "Arcul din Santa Catalina", en: "Santa Catalina Arch"},
-    image: "/poi-images/arco-de-santa-catalina-landmarks-v2.webp",
     description: { de: "Ein ikonischer Bogen in Antigua, der ursprünglich die Nonnen eines Klosters unsichtbar über die Straße führte.", hu: "Ikonikus diadalív Antiguában, amely eredetileg a kolostor apácáinak láthatatlan átkelését szolgálta az utca felett.", ro: "Un arc iconic în Antigua, care inițial permitea călugărițelor dintr-o mănăstire să traverseze strada nevăzute.", en: "An iconic arch in Antigua, originally built to allow nuns from a convent to cross the street unseen." , es: "Un arco icónico en Antigua que originalmente permitía a las monjas de un convento cruzar la calle sin ser vistas.", pt: "Um arco icónico em Antigua que originalmente permitia que as freiras de um convento cruzassem a rua sem serem vistas.", fr: "Une arche emblématique d'Antigua qui permettait à l'origine aux religieuses d'un couvent de traverser la rue de manière invisible."},
     facts: {
       de: ["Erbaut im 17. Jahrhundert", "Eines der bekanntesten Wahrzeichen Antiguas", "Verbindet zwei Teile eines Klosters", "Uhr wurde später hinzugefügt"],
@@ -45,7 +44,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-SA",
     coords: [-90.733, 14.556],
     name: { de: "Palast der Generalkapitäne", hu: "Főkapitányi Palota", ro: "Palatul Căpitanilor Generali", en: "Palace of the Captains General"},
-    image: "/poi-images/palacio-de-los-capitanes-generales-landmarks-v2.webp",
     description: { de: "Der ehemalige Regierungssitz der spanischen Kolonie in Antigua, heute ein Kulturzentrum.", hu: "A spanyol gyarmat egykori kormányzati székhelye Antiguában, ma kulturális központ.", ro: "Fostul sediu guvernamental al coloniei spaniole din Antigua, acum un centru cultural.", en: "The former government headquarters of the Spanish colony in Antigua, now a cultural center." , es: "La antigua sede del gobierno colonial español en Antigua, hoy convertida en centro cultural.", pt: "A antiga sede do governo colonial espanhol em Antigua, hoje um centro cultural.", fr: "L'ancien siège du gouvernement colonial espagnol à Antigua, aujourd'hui un centre culturel."},
     facts: {
       de: ["Original aus dem 16. Jahrhundert", "Diente als Regierungssitz", "Zweimal von Erdbeben zerstört", "Doppelstöckige Arkade"],
@@ -82,7 +80,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-SA",
     coords: [-90.732, 14.56],
     name: { de: "La Merced Kirche", hu: "La Merced-templom", ro: "Biserica La Merced", en: "La Merced Church"},
-    image: "/poi-images/iglesia-de-la-merced-landmarks-v2.webp",
     description: { de: "Eine beeindruckende Barockkirche in Antigua, die den Erdbeben von 1773 standhielt.", hu: "Lenyűgöző barokk templom Antiguában, amely ellenállt az 1773-as földrengéseknek.", ro: "O biserică barocă impresionantă din Antigua, care a rezistat cutremurelor din 1773.", en: "An impressive baroque church in Antigua that withstood the 1773 earthquakes." , es: "Una impresionante iglesia barroca en Antigua que resistió los terremotos de 1773.", pt: "Uma impressionante igreja barroca em Antigua que resistiu aos terremotos de 1773.", fr: "Une impressionnante église baroque à Antigua qui a résisté aux tremblements de terre de 1773."},
     facts: {
       de: ["Ultra-barocke Fassade", "Fertiggestellt 1767", "Überlebte das große Erdbeben", "Enthält einen großen Brunnen"],
@@ -119,7 +116,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-SA",
     coords: [-90.729, 14.557],
     name: { de: "Kapuzinerinnenkloster", hu: "Kapucinus kolostor", ro: "Mănăstirea Capucinelor", en: "Convent of the Capuchins"},
-    image: "/poi-images/convento-de-las-capuchinas-landmarks-v2.webp",
     description: { de: "Ein gut erhaltenes Kloster in Antigua, bekannt für seinen einzigartigen runden Turm.", hu: "Jó állapotban megőrzött kolostor Antiguában, egyedülálló kör alakú tornyáról ismert.", ro: "O mănăstire bine conservată în Antigua, cunoscută pentru turnul său circular unic.", en: "A well-preserved convent in Antigua, known for its unique circular tower." , es: "Un convento bien conservado en Antigua, conocido por su torre circular única.", pt: "Um convento bem preservado em Antigua, conhecido pela sua torre circular única.", fr: "Un couvent bien conservé à Antigua, connu pour sa tour ronde unique."},
     facts: {
       de: ["Erbaut 1736", "Turm mit kreisförmigen Zellen", "Diente als Nonnenkloster", "Ruinen können besichtigt werden"],
@@ -156,7 +152,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-SA",
     coords: [-90.731, 14.552],
     name: { de: "Kirche San Francisco El Grande", hu: "Nagy Szent Ferenc-templom", ro: "Biserica San Francisco El Grande", en: "San Francisco El Grande Church"},
-    image: "/poi-images/iglesia-de-san-francisco-el-grande-landmarks-v2.webp",
     description: { de: "Eine der größten und ältesten Kirchen in Antigua, Grabstätte des Heiligen Hermano Pedro.", hu: "Antigua egyik legnagyobb és legrégebbi temploma, Szent Hermano Pedro sírhelye.", ro: "Una dintre cele mai mari și mai vechi biserici din Antigua, locul de înmormântare al Sfântului Hermano Pedro.", en: "One of the largest and oldest churches in Antigua, burial place of Saint Hermano Pedro." , es: "Una de las iglesias más grandes y antiguas de Antigua, lugar de sepultura del Santo Hermano Pedro.", pt: "Uma das maiores e mais antigas igrejas de Antigua, local de sepultamento do Santo Irmão Pedro.", fr: "L'une des plus grandes et des plus anciennes églises d'Antigua, lieu de sépulture de Saint Hermano Pedro."},
     facts: {
       de: ["Grab von Hermano Pedro de Betancur", "Wichtiger Wallfahrtsort", "Barockarchitektur", "Wurde nach Erdbeben wiederaufgebaut"],
@@ -193,7 +188,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-GU",
     coords: [-90.519, 14.619],
     name: { de: "Estadio Doroteo Guamuch Flores", hu: "Doroteo Guamuch Flores Stadion", ro: "Stadionul Doroteo Guamuch Flores", en: "Doroteo Guamuch Flores Stadium"},
-    image: "/poi-images/estadio-doroteo-guamuch-flores-landmarks-v2.webp",
     description: { de: "Das Nationalstadion von Guatemala in Guatemala-Stadt.", hu: "Guatemala nemzeti stadionja Guatemalavárosban.", ro: "Stadionul național al Guatemalei din Ciudad de Guatemala.", en: "The national stadium of Guatemala, located in Guatemala City." , es: "El estadio nacional de Guatemala en Ciudad de Guatemala.", pt: "O estádio nacional da Guatemala na Cidade da Guatemala.", fr: "Le stade national du Guatemala à Guatemala City."},
     facts: {
       de: ["Größtes Stadion Guatemalas", "Kapazität: 26.000", "Erbaut 1948", "Austragungsort für Fußball und Leichtathletik"],
@@ -230,7 +224,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-GU",
     coords: [-90.523, 14.625],
     name: { de: "Nationaltheater Miguel Ángel Asturias", hu: "Miguel Ángel Asturias Nemzeti Színház", ro: "Teatrul Național Miguel Ángel Asturias", en: "Miguel Ángel Asturias National Theater"},
-    image: "/poi-images/teatro-nacional-miguel-angel-asturias-landmarks-v2.webp",
     description: { de: "Ein markantes Kulturzentrum in Guatemala-Stadt, das einem Vulkan nachempfunden ist.", hu: "Jellegzetes kulturális központ Guatemalavárosban, amelyet egy vulkán formájára terveztek.", ro: "Un centru cultural distinctiv în Ciudad de Guatemala, modelat după un vulcan.", en: "A distinctive cultural center in Guatemala City, modeled to resemble a volcano." , es: "Un destacado centro cultural en la Ciudad de Guatemala cuyo diseño se asemeja a un volcán.", pt: "Um centro cultural marcante na Cidade da Guatemala, inspirado na forma de um vulcão.", fr: "Un centre culturel emblématique de Guatemala City, dont la forme rappelle celle d'un volcan."},
     facts: {
       de: ["Entworfen von Efraín Recinos", "Inspiriert von der Vulkanlandschaft", "Eröffnet 1978", "Hauptbühne für darstellende Künste"],
@@ -267,7 +260,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-GU",
     coords: [-90.512, 14.642],
     name: { de: "Metropolitankathedrale Guatemala-Stadt", hu: "Fővárosi Székesegyház", ro: "Catedrala Metropolitană din Guatemala", en: "Metropolitan Cathedral"},
-    image: "/poi-images/catedral-metropolitana-landmarks-v2.webp",
     description: { de: "Die Hauptkathedrale in Guatemala-Stadt mit neoklassizistischer und barocker Architektur.", hu: "Guatemalaváros fő székesegyháza neoklasszikus és barokk építészeti stílusban.", ro: "Catedrala principală din Ciudad de Guatemala, cu arhitectură neoclasică și barocă.", en: "The main cathedral in Guatemala City, featuring neoclassical and baroque architecture." , es: "La catedral principal de Ciudad de Guatemala, con arquitectura neoclásica y barroca.", pt: "A catedral principal da Cidade da Guatemala, com arquitetura neoclássica e barroca.", fr: "La cathédrale principale de Guatemala City, à l'architecture néoclassique et baroque."},
     facts: {
       de: ["Erbaut 1782-1815", "Widerstandsfähig gegen Erdbeben", "Enthält Kunst aus Antigua", "Zwölf Säulen symbolisieren die 12 Apostel"],
@@ -304,7 +296,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-CQ",
     coords: [-89.352, 14.566],
     name: { de: "Basilika von Esquipulas", hu: "Esquipulasi bazilika", ro: "Bazilica din Esquipulas", en: "Basilica of Esquipulas"},
-    image: "/poi-images/basilica-de-esquipulas-landmarks-v2.webp",
     description: { de: "Wichtigster Wallfahrtsort Mittelamerikas, beherbergt den Schwarzen Christus.", hu: "Közép-Amerika legfontosabb zarándokhelye, a Fekete Krisztus otthona.", ro: "Cel mai important loc de pelerinaj din America Centrală, găzduind Cristosul Negru.", en: "The most important pilgrimage site in Central America, housing the Black Christ." , es: "El lugar de peregrinación más importante de Centroamérica, hogar del Cristo Negro.", pt: "O local de peregrinação mais importante da América Central, que abriga o Cristo Negro.", fr: "Le plus important lieu de pèlerinage d'Amérique centrale, abritant le Christ Noir."},
     facts: {
       de: ["Heimat des Schwarzen Christus", "Erbaut im 18. Jahrhundert", "Jährlich Millionen von Pilgern", "Vier Glockentürme"],
@@ -341,7 +332,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-TO",
     coords: [-91.484, 14.887],
     name: { de: "Kirche von San Andrés Xecul", hu: "San Andrés Xecul temploma", ro: "Biserica din San Andrés Xecul", en: "Church of San Andrés Xecul"},
-    image: "/poi-images/iglesia-amarilla-san-andres-xecul-landmarks-v2.webp",
     description: { de: "Eine Kirche mit einer unglaublich farbenfrohen und detailreichen Fassade, die Maya- und christliche Symbole vereint.", hu: "Templom hihetetlenül színes és részletgazdag homlokzattal, amely a maja és a keresztény szimbólumokat ötvözi.", ro: "O biserică cu o fațadă incredibil de colorată și detaliată, care combină simboluri mayașe și creștine.", en: "A church with an incredibly colorful and detailed facade, blending Maya and Christian symbols." , es: "Una iglesia con una fachada increíblemente colorida y detallada que combina símbolos mayas y cristianos.", pt: "Uma igreja com uma fachada incrivelmente colorida e detalhada que combina símbolos maias e cristãos.", fr: "Une église avec une façade incroyablement colorée et détaillée qui combine des symboles mayas et chrétiens."},
     facts: {
       de: ["Auffallend gelbe Fassade", "Synkretistische Kunst", "Darstellungen von Engeln, Jaguaren und Mais", "Einzigartig in Guatemala"],
@@ -378,7 +368,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-GU",
     coords: [-90.521, 14.615],
     name: { de: "Torre del Reformador", hu: "A Reformátor tornya", ro: "Turnul Reformatorului", en: "Torre del Reformador"},
-    image: "/poi-images/torre-del-reformador-landmarks-v2.webp",
     description: { de: "Ein 75 Meter hoher Stahlturm in Guatemala-Stadt, der dem Eiffelturm nachempfunden ist.", hu: "75 méter magas acéltorony Guatemalavárosban, az Eiffel-torony mintájára.", ro: "Un turn de oțel de 75 de metri în Ciudad de Guatemala, modelat după Turnul Eiffel.", en: "A 75-meter-tall steel tower in Guatemala City, modeled after the Eiffel Tower." , es: "Una torre de acero de 75 metros en la Ciudad de Guatemala, inspirada en la Torre Eiffel.", pt: "Uma torre de aço com 75 metros de altura na Cidade da Guatemala, inspirada na Torre Eiffel.", fr: "Une tour en acier de 75 mètres à Guatemala City, inspirée de la Tour Eiffel."},
     facts: {
       de: ["Erbaut 1935", "Ehrt Präsident Justo Rufino Barrios", "75 Meter hoch", "Nachbau des Eiffelturms"],
@@ -415,7 +404,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-GU",
     coords: [-90.513, 14.643],
     name: { de: "Friedensdenkmal", hu: "Béke-emlékmű", ro: "Monumentul Păcii", en: "Monument to Peace"},
-    image: "/poi-images/monumento-a-la-paz-landmarks-v2.webp",
     description: { de: "Ein Denkmal im Innenhof des Nationalpalastes, das das Ende des Bürgerkriegs symbolisiert.", hu: "A Nemzeti Palota udvarán álló emlékmű, amely a polgárháború végét szimbolizálja.", ro: "Un monument în curtea Palatului Național, care simbolizează sfârșitul războiului civil.", en: "A monument in the courtyard of the National Palace, symbolizing the end of the civil war." },
     facts: {
       de: ["Errichtet 1997", "Symbolisiert den Friedensvertrag von 1996", "Zwei linke Hände, die sich vereinen", "Enthält die Namen der Opfer"],
@@ -439,7 +427,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-SR",
     coords: [-90.279, 14.269],
     name: { de: "Brücke der Sklaven", hu: "Rabszolgák hídja", ro: "Podul Sclavilor", en: "Bridge of the Slaves"},
-    image: "/poi-images/puente-de-los-esclavos-landmarks-v2.webp",
     description: { de: "Eine steinerne Bogenbrücke aus der Kolonialzeit über den Río Los Esclavos.", hu: "Gyarmati korból származó kő boltívhíd a Río Los Esclavos felett.", ro: "Un pod de piatră în arc din perioada colonială peste râul Los Esclavos.", en: "A colonial-era stone arch bridge over the Río Los Esclavos." , es: "Un puente de arcos de piedra de la época colonial sobre el río Los Esclavos.", pt: "Uma ponte de arcos de pedra da época colonial sobre o Rio Los Esclavos.", fr: "Un pont en arc en pierre de l'époque coloniale enjambant le Río Los Esclavos."},
     facts: {
       de: ["Erbaut im 16. Jahrhundert", "Elf Bögen", "Legende über den Teufel als Baumeister", "Wichtige historische Verkehrsverbindung"],
@@ -476,7 +463,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-GU",
     coords: [-90.505, 14.606],
     name: { de: "Popol Vuh Museum", hu: "Popol Vuh Múzeum", ro: "Muzeul Popol Vuh", en: "Popol Vuh Museum"},
-    image: "/poi-images/museo-popol-vuh-landmarks-v2.webp",
     description: { de: "Eines der wichtigsten Museen für Maya-Kunst und -Artefakte in Guatemala-Stadt.", hu: "Guatemalaváros egyik legfontosabb maja művészeti és leletmúzeuma.", ro: "Unul dintre cele mai importante muzee de artă și artefacte mayașe din Ciudad de Guatemala.", en: "One of the most important museums of Maya art and artifacts in Guatemala City." , es: "Uno de los museos más importantes de arte y artefactos mayas en la Ciudad de Guatemala.", pt: "Um dos museus mais importantes de arte e artefactos Maias na Cidade da Guatemala.", fr: "L'un des musées les plus importants d'art et d'artéfacts mayas à Guatemala City."},
     facts: {
       de: ["Umfangreiche Sammlung von Maya-Kunst", "Keramiken, Steinskulpturen, Textilien", "Befindet sich auf dem Campus der UFM", "Benannt nach dem heiligen Buch der K'iche'"],
@@ -513,7 +499,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-ES",
     coords: [-91.041, 14.103],
     name: { de: "Pasacaballo Hängebrücke", hu: "Pasacaballo függőhíd", ro: "Podul suspendat Pasacaballo", en: "Pasacaballo Suspension Bridge"},
-    image: "/poi-images/pasacaballo-suspension-bridge-landmarks-v2.webp",
     description: { de: "Eine moderne Hängebrücke, die eine wichtige Verkehrsverbindung im Süden darstellt.", hu: "Modern függőhíd, amely fontos közlekedési kapcsolatot jelent délen.", ro: "Un pod suspendat modern care reprezintă o legătură de transport importantă în sud.", en: "A modern suspension bridge that is an important transportation link in the south." , es: "Un moderno puente colgante que representa una importante conexión vial en el sur del país.", pt: "Uma ponte suspensa moderna que constitui uma importante ligação rodoviária no sul.", fr: "Un pont suspendu moderne constituant une liaison routière importante dans le sud du pays."},
     facts: {
       de: ["Überquert den Río María Linda", "Wichtige Verkehrsader", "Moderne Ingenieurskunst", "Verbindet Küstenregionen"],
@@ -550,7 +535,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-GU",
     coords: [-90.528, 14.593],
     name: { de: "La Aurora Zoo", hu: "La Aurora Állatkert", ro: "Grădina Zoologică La Aurora", en: "La Aurora Zoo"},
-    image: "/poi-images/la-aurora-zoo-landmarks-v2.webp",
     description: { de: "Der größte Zoo in Guatemala-Stadt, gegründet 1924.", hu: "Guatemalaváros legnagyobb állatkertje, 1924-ben alapították.", ro: "Cea mai mare grădină zoologică din Ciudad de Guatemala, fondată în 1924.", en: "The largest zoo in Guatemala City, founded in 1924." , es: "El zoológico más grande de Ciudad de Guatemala, fundado en 1924.", pt: "O maior jardim zoológico da Cidade da Guatemala, fundado em 1924.", fr: "Le plus grand zoo de Guatemala City, fondé en 1924."},
     facts: {
       de: ["Ältester Zoo in Guatemala", "Beherbergt einheimische und exotische Tiere", "Große Parkanlage", "Beliebtes Familienziel"],
@@ -587,7 +571,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-GU",
     coords: [-90.485, 14.611],
     name: { de: "Paseo Cayalá", hu: "Paseo Cayalá", ro: "Paseo Cayalá", en: "Paseo Cayalá"},
-    image: "/poi-images/paseo-cayala-landmarks-v2.webp",
     description: { de: "Eine moderne, geplante Stadtentwicklung in Guatemala-Stadt mit neoklassizistischer Architektur.", hu: "Modern, tervezett városfejlesztés Guatemalavárosban, neoklasszikus építészettel.", ro: "O dezvoltare urbană modernă, planificată, în Ciudad de Guatemala, cu arhitectură neoclasică.", en: "A modern, planned urban development in Guatemala City with neoclassical architecture." , es: "Un moderno desarrollo urbano planificado en la Ciudad de Guatemala con arquitectura neoclásica.", pt: "Um desenvolvimento urbano moderno e planeado na Cidade da Guatemala com arquitetura neoclássica.", fr: "Un développement urbain moderne planifié à Guatemala City à l'architecture néoclassique."},
     facts: {
       de: ["Luxuriöses Wohn- und Geschäftsviertel", "Fußgängerfreundliches Design", "Restaurants, Geschäfte und Kinos", "Nachbau eines europäischen Dorfes"],
@@ -624,7 +607,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-GU",
     coords: [-90.521, 14.613],
     name: { de: "Denkmal für Christoph Kolumbus", hu: "Kolumbusz Kristóf-emlékmű", ro: "Monumentul lui Cristofor Columb", en: "Monument to Christopher Columbus"},
-    image: "/poi-images/monumento-a-cristobal-colon-landmarks-v2.webp",
     description: { de: "Ein Denkmal in Guatemala-Stadt, das dem Entdecker gewidmet ist.", hu: "Guatemalavárosban található emlékmű, amelyet a felfedezőnek szenteltek.", ro: "Un monument în Ciudad de Guatemala dedicat exploratorului.", en: "A monument in Guatemala City dedicated to the explorer." , es: "Un monumento en Ciudad de Guatemala dedicado al explorador.", pt: "Um monumento na Cidade da Guatemala dedicado ao explorador.", fr: "Un monument à Guatemala City dédié à l'explorateur."},
     facts: {
       de: ["Erschaffen vom spanischen Bildhauer Tomás Mur", "Bronzestatue", "Historisch bedeutend, aber umstritten", "Befindet sich an der Avenida Las Américas"],
@@ -661,7 +643,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-GU",
     coords: [-90.528, 14.595],
     name: { de: "Nationalmuseum für Archäologie und Ethnologie", hu: "Nemzeti Régészeti és Néprajzi Múzeum", ro: "Muzeul Național de Arheologie și Etnologie", en: "National Museum of Archaeology and Ethnology"},
-    image: "/poi-images/museo-nacional-de-arqueologia-y-etnologia-landmarks-v2.webp",
     description: { de: "Das nationale Museum, das die Maya-Geschichte und das kulturelle Erbe Guatemalas zeigt.", hu: "A nemzeti múzeum, amely bemutatja a maja történelmet és Guatemala kulturális örökségét.", ro: "Muzeul național care prezintă istoria mayașă și patrimoniul cultural al Guatemalei.", en: "The national museum showcasing Maya history and Guatemala's cultural heritage." , es: "El museo nacional que exhibe la historia maya y el patrimonio cultural de Guatemala.", pt: "O museu nacional que apresenta a história Maia e o património cultural da Guatemala.", fr: "Le musée national présentant l'histoire maya et le patrimoine culturel du Guatemala."},
     facts: {
       de: ["Umfassende Sammlung von Maya-Artefakten", "Steinskulpturen aus Tikal und Quiriguá", "Jadeschmuck und Keramik", "Einblicke in die Ethnologie des Landes"],
@@ -698,7 +679,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-GU",
     coords: [-90.528, 14.622],
     name: { de: "Allgemeiner Friedhof Guatemala-Stadt", hu: "Fővárosi Központi Temető", ro: "Cimitirul General din Ciudad de Guatemala", en: "General Cemetery of Guatemala City"},
-    image: "/poi-images/cementerio-general-guatemala-city-landmarks-v2.webp",
     description: { de: "Ein historischer Friedhof mit kunstvollen Mausoleen und Gräbern berühmter Guatemalteken.", hu: "Történelmi temető díszes mauzóleumokkal és híres guatemalaiak sírjaival.", ro: "Un cimitir istoric cu mausolee și morminte elaborate ale guatemalezilor faimoși.", en: "A historic cemetery with elaborate mausoleums and tombs of famous Guatemalans." , es: "Un cementerio histórico con elaborados mausoleos y tumbas de famosos guatemaltecos.", pt: "Um cemitério histórico com mausoléus elaborados e túmulos de guatemaltecos famosos.", fr: "Un cimetière historique avec des mausolées élaborés et les tombes de Guatémaltèques célèbres."},
     facts: {
       de: ["Eröffnet 1880", "Grabstätten vieler Präsidenten", "Neoklassizistische und modernistische Architektur", "Historisches Denkmal"],
@@ -773,7 +753,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-GU",
     coords: [-90.518, 14.619],
     name: { de: "Eisenbahnmuseum Guatemala", hu: "Guatemalai Vasúti Múzeum", ro: "Muzeul Căilor Ferate din Guatemala", en: "Guatemala Railway Museum"},
-    image: "/poi-images/museo-del-ferrocarril-guatemala-landmarks-v2.webp",
     description: { de: "Museum in Guatemala-Stadt, das die Geschichte der Eisenbahn im Land dokumentiert.", hu: "Múzeum Guatemalavárosban, amely az ország vasúttörténetét dokumentálja.", ro: "Muzeu în Ciudad de Guatemala care documentează istoria căilor ferate din țară.", en: "Museum in Guatemala City documenting the history of railways in the country." , es: "Museo en Ciudad de Guatemala que documenta la historia del ferrocarril en el país.", pt: "Museu na Cidade da Guatemala que documenta a história do caminho-de-ferro no país.", fr: "Musée à Guatemala City documentant l'histoire du chemin de fer dans le pays."},
     facts: {
       de: ["Im ehemaligen Hauptbahnhof untergebracht", "Ausstellung von Lokomotiven und Waggons", "Geschichte des Bananen-Transports", "Wichtiger Teil der Industriegeschichte"],
@@ -810,7 +789,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-GU",
     coords: [-90.53, 14.646],
     name: { de: "Reliefkarte von Guatemala", hu: "Guatemala domborműtérképe", ro: "Harta în relief a Guatemalei", en: "Relief Map of Guatemala"},
-    image: "/poi-images/mapa-en-relieve-de-guatemala-landmarks-v2.webp",
     description: { de: "Eine riesige Freiluft-Reliefkarte von Guatemala in Guatemala-Stadt.", hu: "Guatemala hatalmas, szabadtéri domborműtérképe Guatemalavárosban.", ro: "O hartă gigantică în relief în aer liber a Guatemalei, în Ciudad de Guatemala.", en: "A giant open-air relief map of Guatemala, located in Guatemala City." , es: "Un enorme mapa en relieve de Guatemala al aire libre en Ciudad de Guatemala.", pt: "Um enorme mapa em relevo da Guatemala ao ar livre na Cidade da Guatemala.", fr: "Une immense carte en relief du Guatemala en plein air à Guatemala City."},
     facts: {
       de: ["Erbaut 1905", "Maßstab 1:10.000 (horizontal)", "Zeigt die Topographie des Landes", "Einzigartiges historisches Monument"],
@@ -847,7 +825,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-QZ",
     coords: [-91.503, 14.832],
     name: { de: "Cerro El Baúl", hu: "El Baúl-hegy", ro: "Dealul El Baúl", en: "El Baúl Hill"},
-    image: "/poi-images/cerro-el-baul-quetzaltenango-landmarks-v2.webp",
     description: { de: "Ein vulkanischer Dom, der einen Panoramablick auf Quetzaltenango bietet.", hu: "Vulkáni dóm, amely panorámás kilátást nyújt Quetzaltenangóra.", ro: "Un dom vulcanic care oferă o vedere panoramică asupra orașului Quetzaltenango.", en: "A volcanic dome offering a panoramic viewpoint over Quetzaltenango." , es: "Un domo volcánico que ofrece una vista panorámica de Quetzaltenango.", pt: "Uma cúpula vulcânica que oferece uma vista panorâmica de Quetzaltenango.", fr: "Un dôme volcanique offrant une vue panoramique sur Quetzaltenango."},
     facts: {
       de: ["Aussichtspunkt über Xela", "Geschützter Park", "Lavadom-Formation", "Leicht erreichbar von der Stadt"],
@@ -884,7 +861,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-QZ",
     coords: [-91.517, 14.843],
     name: { de: "Marimba-Denkmal", hu: "Marimba-emlékmű", ro: "Monumentul Marimba", en: "Marimba Monument"},
-    image: "/poi-images/monumento-a-la-marimba-quetzaltenango-landmarks-v2.webp",
     description: { de: "Ein Denkmal in Quetzaltenango, das dem Nationalinstrument Guatemalas gewidmet ist.", hu: "Emlékmű Quetzaltenangóban, Guatemala nemzeti hangszerének szentelve.", ro: "Un monument în Quetzaltenango dedicat instrumentului național al Guatemalei.", en: "A monument in Quetzaltenango dedicated to the national instrument of Guatemala." , es: "Un monumento en Quetzaltenango dedicado al instrumento nacional de Guatemala.", pt: "Um monumento em Quetzaltenango dedicado ao instrumento nacional da Guatemala.", fr: "Un monument à Quetzaltenango dédié à l'instrument national du Guatemala."},
     facts: {
       de: ["Ehrt die Marimba", "Symbol der nationalen Identität", "Befindet sich im Stadtzentrum", "Beliebter Treffpunkt"],
@@ -921,7 +897,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-SA",
     coords: [-90.758, 14.57],
     name: { de: "Kulturzentrum La Azotea", hu: "La Azotea Kulturális Központ", ro: "Centrul Cultural La Azotea", en: "La Azotea Cultural Center"},
-    image: "/poi-images/centro-cultural-la-azotea-landmarks-v2.webp",
     description: { de: "Ein Kulturzentrum in der Nähe von Antigua mit Museen zu Kaffee, Musik und Maya-Traditionen.", hu: "Kulturális központ Antigua közelében, kávé-, zene- és maja hagyományok múzeumával.", ro: "Un centru cultural lângă Antigua cu muzee despre cafea, muzică și tradiții mayașe.", en: "A cultural center near Antigua with museums on coffee, music, and Maya traditions." , es: "Un centro cultural cerca de Antigua con museos sobre café, música y tradiciones mayas.", pt: "Um centro cultural perto de Antigua com museus sobre café, música e tradições maias.", fr: "Un centre culturel près d'Antigua avec des musées sur le café, la musique et les traditions mayas."},
     facts: {
       de: ["Kaffeemuseum", "Sammlung traditioneller Instrumente", "Einblicke in Maya-Kultur", "Auf einer aktiven Kaffeeplantage"],
@@ -958,7 +933,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-SA",
     coords: [-90.726, 14.58],
     name: { de: "Finca Filadelfia Kaffeeplantage", hu: "Finca Filadelfia kávéültetvény", ro: "Plantația de cafea Finca Filadelfia", en: "Finca Filadelfia Coffee Resort"},
-    image: "/poi-images/finca-filadelfia-coffee-resort-landmarks-v2.webp",
     description: { de: "Eine der ältesten und berühmtesten Kaffeeplantagen Guatemalas in der Nähe von Antigua.", hu: "Guatemala egyik legrégebbi és leghíresebb kávéültetvénye Antigua közelében.", ro: "Una dintre cele mai vechi și mai faimoase plantații de cafea din Guatemala, lângă Antigua.", en: "One of the oldest and most famous coffee plantations in Guatemala, near Antigua." , es: "Una de las plantaciones de café más antiguas y famosas de Guatemala, cerca de Antigua.", pt: "Uma das plantações de café mais antigas e famosas da Guatemala, perto de Antigua.", fr: "L'une des plus anciennes et célèbres plantations de café du Guatemala, près d'Antigua."},
     facts: {
       de: ["Über 140 Jahre alt", "Bietet Kaffeetouren an", "Anbau von Schattenkaffee", "Luxuriöses Resort"],
@@ -995,7 +969,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-GU",
     coords: [-90.519, 14.606],
     name: { de: "Obelisk von Guatemala-Stadt", hu: "Guatemalavárosi obeliszk", ro: "Obeliscul din Ciudad de Guatemala", en: "Obelisk of Guatemala City"},
-    image: "/poi-images/obelisco-guatemala-city-landmarks-v2.webp",
     description: { de: "Ein Denkmal, das der Unabhängigkeit Guatemalas gewidmet ist.", hu: "Guatemala függetlenségének szentelt emlékmű.", ro: "Un monument dedicat independenței Guatemalei.", en: "A monument dedicated to the independence of Guatemala." , es: "Un monumento dedicado a la independencia de Guatemala.", pt: "Um monumento dedicado à independência da Guatemala.", fr: "Un monument dédié à l'indépendance du Guatemala."},
     facts: {
       de: ["Errichtet 1935", "Ehrt die Helden der Unabhängigkeit", "Wichtiger Verkehrsknotenpunkt", "Auch bekannt als Plaza del Obelisco"],
@@ -1032,7 +1005,6 @@ export const poiExtraGuatemalaLandmarksV2: POI[] = [
     parent: "GT-QZ",
     coords: [-91.518, 14.834],
     name: { de: "Zentralpark Quetzaltenango", hu: "Quetzaltenango Központi Park", ro: "Parcul Central Quetzaltenango", en: "Quetzaltenango Central Park"},
-    image: "/poi-images/parque-central-quetzaltenango-landmarks-v2.webp",
     description: { de: "Der Hauptplatz von Quetzaltenango, umgeben von wichtigen historischen Gebäuden.", hu: "Quetzaltenango főtere, amelyet fontos történelmi épületek vesznek körül.", ro: "Piața principală din Quetzaltenango, înconjurată de clădiri istorice importante.", en: "The main plaza of Quetzaltenango, surrounded by important historical buildings." , es: "La plaza principal de Quetzaltenango, rodeada de importantes edificios históricos.", pt: "A praça principal de Quetzaltenango, rodeada por importantes edifícios históricos.", fr: "La place principale de Quetzaltenango, entourée d'importants bâtiments historiques."},
     facts: {
       de: ["Herz der Stadt", "Umgeben von neoklassizistischen Gebäuden", "Kiosk im Zentrum", "Ort für soziale und kulturelle Veranstaltungen"],

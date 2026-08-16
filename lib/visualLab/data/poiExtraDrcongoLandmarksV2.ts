@@ -544,7 +544,6 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     parent: "CD-KN",
     coords: [15.327, -4.336],
     name: {"de": "Unabhängigkeitsdenkmal Kinshasa", "hu": "Függetlenségi Emlékmű", "ro": "Monumentul Independenței", "en": "Independence Monument Kinshasa"},
-    image: "/poi-images/cd-monument-independance-landmarks-v2.webp",
     description: {"de": "Das Unabhängigkeitsdenkmal in Kinshasa erinnert an die Befreiung des Landes von der belgischen Kolonialherrschaft im Jahr 1960. Es stellt eine wichtige nationale Gedenkstätte dar.", "hu": "Az ország függetlenségének tiszteletére emelt emlékmű Kinshasában.", "ro": "Monument situat în Kinshasa, comemorând eliberarea țării de sub dominația colonială belgiană în 1960.", "en": "The Monument de l'Indépendance in Kinshasa celebrates the country's freedom from Belgian colonial rule in 1960."},
     facts: {"de": ["Symbol der Souveränität", "Zentral gelegen in der Hauptstadt", "Ort offizieller Gedenkfeiern", "Erinnert an den 30. Juni 1960"], "hu": ["A gyarmati sorból való felszabadulást szimbolizálja", "Gyakori helyszíne az állami ünnepségeknek június 30-án", "Központi elhelyezkedése miatt a város egyik tájékozódási pontja"], "ro": ["Simbol al suveranității naționale", "Loc pentru festivitățile de 30 iunie", "Reprezentare artistică a libertății"], "en": ["Located near the Gare Centrale", "Symbol of national sovereignty", "Site of commemorative ceremonies"]},
     descriptionAdvanced: {
@@ -676,7 +675,6 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     parent: "CD-BC",
     coords: [13.054, -5.842],
     name: {"de": "Baobab de Stanley", "hu": "Stanley Baobabfája", "ro": "Baobabul lui Stanley", "en": "Stanley's Baobab"},
-    image: "/poi-images/cd-baobab-de-stanley-landmarks-v2.webp",
     description: {"de": "Der Baobab von Stanley in Boma ist ein jahrhundertealter Affenbrotbaum, in dessen hohlem Stamm der Forscher Henry Morton Stanley einst übernachtet haben soll.", "hu": "Egy hatalmas, több száz éves baobab fa Boma városában, amelyhez történelmi legendák fűződnek.", "ro": "Un baobab legendar în Boma, unde exploratorul Henry Morton Stanley și-ar fi gravat numele.", "en": "The Baobab de Stanley in Boma is a historic giant tree where the explorer Henry Morton Stanley reportedly camped."},
     facts: {"de": ["Historisches Naturdenkmal", "Umfang von über 15 Metern", "Standort in der Nähe des Hafens", "Beliebtes Ziel für Reisende"], "hu": ["Nevét Henry Morton Stanley felfedezőről kapta, aki állítólag megpihent alatta", "A fa törzsébe egykor börtöncellát is vájtak", "Az ország egyik legkülönlegesebb természeti és történelmi emléke"], "ro": ["Arbore multisecular", "Monument istoric național", "Atracție turistică în Boma"], "en": ["Over 1,000 years old", "Historic hollow trunk used as a post office", "Located in the former colonial capital"]},
     descriptionAdvanced: {

@@ -89,7 +89,6 @@ export const poiExtraYemenNatureV2: POI[] = [
     parent: "YE-SN",
     coords: [43.9833, 15.2667],
     name: { de: "Jabal an Nabi Shu'ayb", hu: "Nabi Suajb-hegy", ro: "Muntele Jabal an Nabi Shu'ayb", en: "Jabal an Nabi Shu'ayb"},
-    image: "/poi-images/jabal-an-nabi-shuayb-nature-v2.webp",
     description: {
       de: "Der Jabal an Nabi Shu'ayb ist mit 3.666 Metern der höchste Berg des Jemen und der gesamten Arabischen Halbinsel. Er bietet einen atemberaubenden Blick über die zerklüftete Landschaft in der Region Sanaa.",
       hu: "A 3666 méter magas Nabi Suajb-hegy Jemen és az egész Arab-félsziget legmagasabb pontja. Szanaa régiójában található, és lenyűgöző kilátást nyújt a környező zord hegyvidékre.",
@@ -133,7 +132,6 @@ export const poiExtraYemenNatureV2: POI[] = [
     parent: "YE-HD",
     coords: [48.3333, 15.2500],
     name: { de: "Wadi Dawan", hu: "Vadi Dawan", ro: "Wadi Dawan", en: "Wadi Dawan"},
-    image: "/poi-images/wadi-dawan-nature-v2.webp",
     description: {
       de: "Das Wadi Dawan ist ein gewaltiges Talsystem im Hadramaut, das durch seine dramatischen Klippen und oasenartigen Palmenhaine besticht. Durch den Talgrund fließt saisonal ein Fluss, der die jahrhundertealten Siedlungen mit Wasser versorgt.",
       hu: "A Vadi Dawan egy hatalmas völgyrendszer a Hadramaut régióban, amelyet drámai sziklafalak és pálmaligetek ékesítenek. A völgy alján időszakos folyó húzódik, amely évszázados településeket lát el vízzel.",
@@ -474,7 +472,6 @@ export const poiExtraYemenNatureV2: POI[] = [
     parent: "YE-SN",
     coords: [43.7000, 15.0833],
     name: { de: "Haraz-Gebirge", hu: "Haraz-hegység", ro: "Munții Haraz", en: "Haraz Mountains"},
-    image: "/poi-images/haraz-mountains-nature-v2.webp",
     description: {
       de: "Das Haraz-Gebirge zeichnet sich durch seine steilen, spektakulär terrassierten Hänge und tiefen Schluchten aus. Diese Gebirgslandschaft ist berühmt für ihren Kaffeeanbau und die hoch gelegenen, festungsartigen Dörfer, die förmlich an den Klippen kleben.",
       hu: "A Haraz-hegység meredek, teraszos lejtőiről és mély szurdokairól ismert. Ez a hegyvidéki táj híres a kávétermesztésről és a szinte a sziklákra tapadó, magasan fekvő erődített falvakról.",
@@ -707,7 +704,6 @@ export const poiExtraYemenNatureV2: POI[] = [
     parent: "YE-TA",
     coords: [44.0200, 13.5167],
     name: { de: "Jabal Sabir", hu: "Szabir-hegy", ro: "Muntele Jabal Sabir", en: "Jabal Sabir"},
-    image: "/poi-images/jabal-sabir-nature-v2.webp",
     description: {
       de: "Der majestätische Jabal Sabir überragt die Stadt Taiz und erreicht eine Höhe von über 3.000 Metern. Die fruchtbaren Hänge des Berges sind mit unzähligen Quellen durchzogen und bieten ideale Bedingungen für den Anbau von Qat und Gemüse.",
       hu: "A fenséges Szabir-hegy Taiz városa fölé magasodik, és több mint 3000 méteres magasságot ér el. A hegy termékeny lejtőit számtalan forrás szövi át, ideális feltételeket teremtve a kat és a zöldségek termesztéséhez.",
@@ -1101,7 +1097,6 @@ export const poiExtraYemenNatureV2: POI[] = [
     parent: "YE-SU",
     coords: [53.5000, 12.6833],
     name: { de: "Detwah-Lagune", hu: "Detwah-lagúna", ro: "Laguna Detwah", en: "Detwah Lagoon"},
-    image: "/poi-images/detwah-lagoon-nature-v2.webp",
     description: {
       de: "Die Detwah-Lagune auf der Insel Sokotra ist ein atemberaubendes Naturwunder mit blendend weißen Sandbänken und türkisfarbenem Wasser. Diese unberührte Meeresbucht ist ein wichtiges Ökosystem für zahlreiche Meeresbewohner und Rochen.",
       hu: "A Szokotra szigetén található Detwah-lagúna egy lenyűgöző természeti csoda, vakítóan fehér homokpadokkal és türkizkék vízzel. Ez az érintetlen tengeri öböl fontos ökoszisztéma számos tengeri élőlény és rája számára.",
@@ -1370,7 +1365,6 @@ export const poiExtraYemenNatureV2: POI[] = [
     parent: "YE-SU",
     coords: [54.0000, 12.5667],
     name: { de: "Hajhir-Gebirge", hu: "Hadzshir-hegység", ro: "Munții Hajhir", en: "Hajhir Mountains"},
-    image: "/poi-images/hajhir-mountains-nature-v2.webp",
     description: {
       de: "Das raue Hajhir-Gebirge bildet das granitene Rückgrat der Insel Sokotra. Die zerklüfteten Gipfel ragen steil aus dem Inselinneren auf und fangen genügend Feuchtigkeit ein, um endemische Pflanzenarten wie den Drachenblutbaum zu ernähren.",
       hu: "A zord Hadzshir-hegység alkotja Szokotra szigetének gránit gerincét. A csipkézett csúcsok meredeken emelkednek ki a sziget belsejéből, és elegendő nedvességet kötnek meg az endemikus növények, például a sárkányvérfa táplálásához.",
@@ -1414,7 +1408,6 @@ export const poiExtraYemenNatureV2: POI[] = [
     parent: "YE-SU",
     coords: [53.9833, 12.4833],
     name: { de: "Wadi Dirhur", hu: "Vadi Dirhur", ro: "Wadi Dirhur", en: "Wadi Dirhur"},
-    image: "/poi-images/wadi-dirhur-nature-v2.webp",
     description: {
       de: "Das Wadi Dirhur auf Sokotra ist eine dramatische, steile Kalksteinschucht. Am Grund der Schlucht schlängelt sich ein Süßwasserbach, der kleine Wasserbecken bildet, die von seltenen Wüstenrosen und Flaschenbäumen umgeben sind.",
       hu: "A szokotrai Vadi Dirhur egy drámai, meredek mészkőszurdok. A szurdok mélyén édesvizű patak kanyarog, apró medencéket hozva létre, amelyeket ritka sivatagi rózsák és palackfák vesznek körül.",
@@ -1575,7 +1568,6 @@ export const poiExtraYemenNatureV2: POI[] = [
     parent: "YE-SU",
     coords: [54.3000, 12.5667],
     name: { de: "Naturschutzgebiet Homhil", hu: "Homhil Természetvédelmi Terület", ro: "Rezervația Naturală Homhil", en: "Homhil Protected Area"},
-    image: "/poi-images/homhil-protected-area-nature-v2.webp",
     description: {
       de: "Das Homhil-Plateau auf Sokotra ist ein atemberaubendes Naturschutzgebiet, das für seine hohe Dichte an Weihrauch- und Drachenblutbäumen bekannt ist. Ein natürlicher Infinity-Pool bietet Ausblicke auf das glitzernde Arabische Meer.",
       hu: "A szokotrai Homhil-fennsík lenyűgöző természetvédelmi terület, amely tömjénfák és sárkányvérfák sűrű állományáról ismert. A területen található egy természetes végtelenített medence, kilátással az Arab-tengerre.",
@@ -1752,7 +1744,6 @@ export const poiExtraYemenNatureV2: POI[] = [
     parent: "YE-AB",
     coords: [45.3667, 13.0667],
     name: { de: "Wadi Bana", hu: "Vadi Bana", ro: "Wadi Bana", en: "Wadi Bana"},
-    image: "/poi-images/wadi-bana-nature-v2.webp",
     description: {
       de: "Das Wadi Bana ist ein bedeutendes Flusstal, das sich durch die südlichen Provinzen Ibb und Abyan zieht. Das ganzjährig fließende Wasser speist fruchtbare Ebenen und macht es zu einer der wichtigsten landwirtschaftlichen Zonen des Landes.",
       hu: "A Vadi Bana egy jelentős folyóvölgy, amely a déli Ibb és Abjan tartományokon halad keresztül. Egész évben folyó vize termékeny síkságokat táplál, így az ország egyik legfontosabb mezőgazdasági övezete.",
@@ -2057,7 +2048,6 @@ export const poiExtraYemenNatureV2: POI[] = [
     parent: "YE-IB",
     coords: [44.1833, 14.1500],
     name: { de: "Jabal Sumarah", hu: "Szumarah-hegy", ro: "Muntele Jabal Sumarah", en: "Jabal Sumarah"},
-    image: "/poi-images/jabal-sumarah-nature-v2.webp",
     description: {
       de: "Der Gebirgspass des Jabal Sumarah im Gouvernement Ibb schlängelt sich durch einige der grünsten und dramatischsten Landschaften des Jemen. Der Berg fängt Monsunregen ein und ist von dichten, terrassierten Feldern bedeckt.",
       hu: "Az Ibb kormányzóságban található Szumarah-hegy hágója Jemen legzöldebb és legdrámaibb tájain kanyarog keresztül. A hegy felfogja a monszunesőket, és sűrűn beépített teraszos mezők borítják.",
@@ -2101,7 +2091,6 @@ export const poiExtraYemenNatureV2: POI[] = [
     parent: "YE-HU",
     coords: [43.3333, 14.2000],
     name: { de: "Wadi Zabid", hu: "Vadi Zabid", ro: "Wadi Zabid", en: "Wadi Zabid"},
-    image: "/poi-images/wadi-zabid-nature-v2.webp",
     description: {
       de: "Das Wadi Zabid fließt von den westlichen Bergen herab in die Tihama-Küstenebene. Der Fluss brachte seit Jahrtausenden den fruchtbaren Schlick, auf dem alte Zivilisationen und die historische Stadt Zabid gediehen.",
       hu: "A Vadi Zabid a nyugati hegyekből folyik le a Tihama part menti síkságra. A folyó évezredeken át szállította azt a termékeny iszapot, amelyen ősi civilizációk és Zabid történelmi városa virágzott.",
@@ -2406,7 +2395,6 @@ export const poiExtraYemenNatureV2: POI[] = [
     parent: "YE-MW",
     coords: [43.4167, 15.2333],
     name: { de: "Wadi Surdud", hu: "Vadi Szurdud", ro: "Wadi Surdud", en: "Wadi Surdud"},
-    image: "/poi-images/wadi-surdud-nature-v2.webp",
     description: {
       de: "Das Wadi Surdud schneidet sich tief in das jemenitische Hochland ein und bildet ein grünes Tal, in dem Mangos und Bananen wachsen. Ein ständiger Wasserfluss macht die Schlucht zu einer lebenswichtigen Oase im rauen Gebirge.",
       hu: "A Vadi Szurdud mélyen bevágódik a jemeni felvidékbe, zöld völgyet alkotva, ahol mangó és banán terem. Az állandó vízáramlás létfontosságú oázissá teszi a szurdokot a zord hegyvidéken.",
@@ -2450,7 +2438,6 @@ export const poiExtraYemenNatureV2: POI[] = [
     parent: "YE-LA",
     coords: [44.8333, 13.0333],
     name: { de: "Wadi Tuban", hu: "Vadi Tuban", ro: "Wadi Tuban", en: "Wadi Tuban"},
-    image: "/poi-images/wadi-tuban-nature-v2.webp",
     description: {
       de: "Das Wadi Tuban ist ein bedeutendes Flusssystem, das seinen Ursprung im Hochland hat und in das Arabische Meer mündet. Die regelmäßigen Fluten des Wadis versorgen das Lahej-Delta mit Wasser und fruchtbaren Sedimenten.",
       hu: "A Vadi Tuban egy jelentős folyórendszer, amely a felvidékről ered és az Arab-tengerbe torkollik. A vádi rendszeres áradásai vízzel és termékeny üledékkel látják el a Lahej-deltát.",
@@ -2494,7 +2481,6 @@ export const poiExtraYemenNatureV2: POI[] = [
     parent: "YE-HU",
     coords: [43.1500, 14.7333],
     name: { de: "Wadi Siham", hu: "Vadi Sziham", ro: "Wadi Siham", en: "Wadi Siham"},
-    image: "/poi-images/wadi-siham-nature-v2.webp",
     description: {
       de: "Das Wadi Siham transportiert Wasser aus den zerklüfteten westlichen Gebirgen in die Tihama-Ebene. Das Flusstal ist gesäumt von Akazien und traditionellen Gehöften und spielt eine zentrale Rolle in der regionalen Landwirtschaft.",
       hu: "A Vadi Sziham a zord nyugati hegyekből szállítja a vizet a Tihama-síkságra. A folyóvölgyet akáciák és hagyományos tanyák szegélyezik, és központi szerepet játszik a regionális mezőgazdaságban.",
@@ -2655,7 +2641,6 @@ export const poiExtraYemenNatureV2: POI[] = [
     parent: "YE-LA",
     coords: [45.1500, 13.8000],
     name: { de: "Jabal Yafaa", hu: "Jafaa-hegy", ro: "Muntele Jabal Yafa'a", en: "Jabal Yafa'a"},
-    image: "/poi-images/jabal-yafaa-nature-v2.webp",
     description: {
       de: "Die massive Gebirgsregion Jabal Yafaa im Süden des Jemen ist für ihre einzigartige, mehrstöckige Steinarchitektur und ihre Unzugänglichkeit berüchtigt. Die rauen Hänge dieses Bergmassivs waren lange Zeit ein isoliertes Stammesgebiet.",
       hu: "A dél-jemeni hatalmas Jafaa-hegység egyedi, többszintes kőépítészetéről és megközelíthetetlenségéről hírhedt. Ennek a hegytömbnek a zord lejtői sokáig elszigetelt törzsi területként működtek.",

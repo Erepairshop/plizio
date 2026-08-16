@@ -196,8 +196,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Sanski Most", hu: "Sanski Most", ro: "Sanski Most", en: "Sanski Most"},
-    image: "/poi-images/bosniaherzegovina-sanskimost-cities-v2.webp",
-    coords: [16.6667, 44.7667],
     coords: [16.6667, 44.7667],
     description: {
       de: "Sanski Most liegt im Nordwesten des Landes am Fluss Sana. Die Stadt ist von neun Flüssen umgeben, was ihr eine einzigartige natürliche Umgebung verleiht.",
@@ -288,8 +286,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Živinice", hu: "Živinice", ro: "Živinice", en: "Živinice"},
-    image: "/poi-images/bosniaherzegovina-zivinice-cities-v2.webp",
-    coords: [18.6494, 44.4489],
     coords: [18.6494, 44.4489],
     description: {
       de: "Živinice ist eine Stadt im Nordosten von Bosnien-Herzegowina, nahe der Stadt Tuzla. Sie ist ein wichtiges industrielles und wirtschaftliches Zentrum des Kantons Tuzla.",
@@ -416,8 +412,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Bugojno", hu: "Bugojno", ro: "Bugojno", en: "Bugojno"},
-    image: "/poi-images/bosniaherzegovina-bugojno-cities-v2.webp",
-    coords: [17.4486, 44.0556],
     coords: [17.4486, 44.0556],
     description: {
       de: "Bugojno liegt im Tal des Flusses Vrbas in Zentralbosnien. Die Stadt ist ein bedeutendes Industrie- und Landwirtschaftszentrum, umgeben von waldreichen Bergen.",
@@ -724,8 +718,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Travnik", hu: "Travnik", ro: "Travnik", en: "Travnik"},
-    image: "/poi-images/bosniaherzegovina-travnik-cities-v2.webp",
-    coords: [17.6658, 44.2264],
     coords: [17.6658, 44.2264],
     description: {
       de: "Travnik ist die ehemalige Hauptstadt der osmanischen Wesire in Bosnien. Die Stadt liegt im Tal der Lašva und ist für ihre gut erhaltene mittelalterliche Festung bekannt.",
@@ -888,8 +880,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Gradiška", hu: "Gradiška", ro: "Gradiška", en: "Gradiška"},
-    image: "/poi-images/bosniaherzegovina-gradiska-cities-v2.webp",
-    coords: [17.2543, 45.1448],
     coords: [17.2543, 45.1448],
     description: {
       de: "Gradiška liegt am rechten Ufer der Save an der Grenze zu Kroatien. Die Stadt ist ein wichtiges Handelszentrum und einer der verkehrsreichsten Grenzübergänge des Landes.",
@@ -980,8 +970,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Cazin", hu: "Cazin", ro: "Cazin", en: "Cazin"},
-    image: "/poi-images/bosniaherzegovina-cazin-cities-v2.webp",
-    coords: [15.8667, 44.9667],
     coords: [15.8667, 44.9667],
     description: {
       de: "Cazin liegt im Nordwesten von Bosnien-Herzegowina im Kanton Una-Sana. Die Stadt ist für ihre hügelige Landschaft und die historische Burg Ostrožac bekannt.",
@@ -1144,8 +1132,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Gračanica", hu: "Gračanica", ro: "Gračanica", en: "Gračanica"},
-    image: "/poi-images/bosniaherzegovina-gracanica-cities-v2.webp",
-    coords: [18.3, 44.7],
     coords: [18.3, 44.7],
     description: {
       de: "Gračanica liegt im Nordosten des Landes im Tal der Spreča. Die Stadt ist ein dynamisches Zentrum für Unternehmertum und kleine bis mittlere Industriezweige.",
@@ -1524,8 +1510,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Lukavac", hu: "Lukavac", ro: "Lukavac", en: "Lukavac"},
-    image: "/poi-images/bosniaherzegovina-lukavac-cities-v2.webp",
-    coords: [18.5333, 44.5333],
     coords: [18.5333, 44.5333],
     description: {
       de: "Lukavac ist eine Industriestadt in der Nähe von Tuzla, bekannt für ihre chemische Industrie und den Modrac-See, der eines der größten künstlichen Gewässer des Landes ist.",
@@ -1760,8 +1744,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Gradačac", hu: "Gradačac", ro: "Gradačac", en: "Gradačac"},
-    image: "/poi-images/bosniaherzegovina-gradacac-cities-v2.webp",
-    coords: [18.4286, 44.8775],
     coords: [18.4286, 44.8775],
     description: {
       de: "Gradačac liegt im Norden von Bosnien und ist für seine markante Festung und den Turm von Husein-Kapetan Gradaščević bekannt. Die Stadt ist ein Zentrum für Obstanbau.",
@@ -2320,8 +2302,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Visoko", hu: "Visoko", ro: "Visoko", en: "Visoko"},
-    image: "/poi-images/bosniaherzegovina-visoko-cities-v2.webp",
-    coords: [18.1781, 43.9889],
     coords: [18.1781, 43.9889],
     description: {
       de: "Visoko liegt nordwestlich von Sarajevo am Zusammenfluss von Bosna und Fojnička. Die Stadt war im Mittelalter das politische und kulturelle Zentrum des bosnischen Staates.",
@@ -2664,8 +2644,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Konjic", hu: "Konjic", ro: "Konjic", en: "Konjic"},
-    image: "/poi-images/bosniaherzegovina-konjic-cities-v2.webp",
-    coords: [17.9608, 43.6514],
     coords: [17.9608, 43.6514],
     description: {
       de: "Konjic liegt an der Neretva, etwa auf halbem Weg zwischen Sarajevo und Mostar. Die Stadt ist für ihre rekonstruierte osmanische Brücke und die Holzschnitztradition bekannt.",
@@ -2792,8 +2770,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Derventa", hu: "Derventa", ro: "Derventa", en: "Derventa"},
-    image: "/poi-images/bosniaherzegovina-derventa-cities-v2.webp",
-    coords: [17.9078, 44.9781],
     coords: [17.9078, 44.9781],
     description: {
       de: "Derventa liegt im Norden der Republika Srpska am Fluss Ukrina. Die Stadt ist ein wichtiges wirtschaftliches Zentrum in der Region Posavina und bekannt für ihre Messen.",
@@ -3064,8 +3040,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Široki Brijeg", hu: "Široki Brijeg", ro: "Široki Brijeg", en: "Široki Brijeg"},
-    image: "/poi-images/bosniaherzegovina-sirokibrijeg-cities-v2.webp",
-    coords: [17.5833, 43.3833],
     coords: [17.5833, 43.3833],
     description: {
       de: "Široki Brijeg ist das administrative Zentrum des Kantons West-Herzegowina. Die Stadt liegt am Fluss Lištica und ist für ihr Franziskanerkloster auf dem Hügel bekannt.",
@@ -3372,8 +3346,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Vogošća", hu: "Vogošća", ro: "Vogošća", en: "Vogošća"},
-    image: "/poi-images/bosniaherzegovina-vogosca-cities-v2.webp",
-    coords: [18.3431, 43.9014],
     coords: [18.3431, 43.9014],
     description: {
       de: "Vogošća ist eine Gemeinde nördlich von Sarajevo und ein wichtiger industrieller Vorort der Hauptstadt. Die Stadt hat sich in den letzten Jahrzehnten stark entwickelt.",
@@ -3419,8 +3391,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Janja", hu: "Janja", ro: "Janja", en: "Janja"},
-    image: "/poi-images/bosniaherzegovina-janja-cities-v2.webp",
-    coords: [19.2458, 44.6656],
     coords: [19.2458, 44.6656],
     description: {
       de: "Janja liegt im Nordosten des Landes, südlich von Bijeljina, am Zusammenfluss der Janja mit der Drina. Sie ist eine der größten ländlichen Siedlungen in Bosnien.",
@@ -4123,8 +4093,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Jajce", hu: "Jajce", ro: "Jajce", en: "Jajce"},
-    image: "/poi-images/bosniaherzegovina-jajce-cities-v2.webp",
-    coords: [17.27, 44.3417],
     coords: [17.27, 44.3417],
     description: {
       de: "Jajce ist berühmt für seinen spektakulären Wasserfall im Stadtzentrum, wo die Pliva in die Vrbas stürzt. Die Stadt war einst die Residenz der bosnischen Könige.",
@@ -4215,8 +4183,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Kakanj", hu: "Kakanj", ro: "Kakanj", en: "Kakanj"},
-    image: "/poi-images/bosniaherzegovina-kakanj-cities-v2.webp",
-    coords: [18.1147, 44.1294],
     coords: [18.1147, 44.1294],
     description: {
       de: "Kakanj ist eine Industriestadt in Zentralbosnien, gelegen an der Autobahn Sarajevo-Zenica. Sie ist ein bedeutendes Zentrum für Bergbau und Energieerzeugung.",
@@ -4343,8 +4309,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Modriča", hu: "Modriča", ro: "Modriča", en: "Modriča"},
-    image: "/poi-images/bosniaherzegovina-modrica-cities-v2.webp",
-    coords: [18.2981, 44.9564],
     coords: [18.2981, 44.9564],
     description: {
       de: "Modriča liegt im Norden der Republika Srpska in der Region Posavina. Die Stadt ist vor allem für ihre Erdölraffinerie und ihre landwirtschaftliche Umgebung bekannt.",
@@ -4471,8 +4435,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Novi Travnik", hu: "Novi Travnik", ro: "Novi Travnik", en: "Novi Travnik"},
-    image: "/poi-images/bosniaherzegovina-novitravnik-cities-v2.webp",
-    coords: [17.6583, 44.1706],
     coords: [17.6583, 44.1706],
     description: {
       de: "Novi Travnik wurde nach dem Zweiten Weltkrieg als Industriestadt in Zentralbosnien gegründet. Die Stadt ist von Bergen umgeben und liegt im Tal der Grlonica.",
@@ -4707,8 +4669,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Zavidovići", hu: "Zavidovići", ro: "Zavidovići", en: "Zavidovići"},
-    image: "/poi-images/bosniaherzegovina-zavidovici-cities-v2.webp",
-    coords: [18.1481, 44.4444],
     coords: [18.1481, 44.4444],
     description: {
       de: "Zavidovići liegt am Zusammenfluss von Bosna, Krivaja und Gostović. Die Stadt ist weltweit für ihre mysteriösen Steinkugeln und ihre Holzindustrie bekannt.",
@@ -4943,8 +4903,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Foča", hu: "Foča", ro: "Foča", en: "Foča"},
-    image: "/poi-images/bosniaherzegovina-foca-cities-v2.webp",
-    coords: [18.7789, 43.5056],
     coords: [18.7789, 43.5056],
     description: {
       de: "Foča liegt im Osten des Landes am Zusammenfluss von Drina und Ćehotina. Die Stadt ist ein Tor zum Nationalpark Sutjeska und für ihre Rafting-Möglichkeiten bekannt.",
@@ -5179,8 +5137,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Pale", hu: "Pale", ro: "Pale", en: "Pale"},
-    image: "/poi-images/bosniaherzegovina-pale-cities-v2.webp",
-    coords: [18.5667, 43.8167],
     coords: [18.5667, 43.8167],
     description: {
       de: "Pale liegt östlich von Sarajevo am Fuße des Jahorina-Gebirges. Die Stadt ist ein wichtiges Zentrum für Wintertourismus und ein bedeutender Standort der Universität Ost-Sarajevo.",
@@ -5307,8 +5263,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Bosanska Krupa", hu: "Bosanska Krupa", ro: "Bosanska Krupa", en: "Bosanska Krupa"},
-    image: "/poi-images/bosniaherzegovina-bosanskakrupa-cities-v2.webp",
-    coords: [16.15, 44.8833],
     coords: [16.15, 44.8833],
     description: {
       de: "Bosanska Krupa liegt am Ufer der Flüsse Una und Krušnica im Nordwesten Bosniens. Die Stadt ist für ihre malerische Lage und die historische Festung Pset bekannt.",
@@ -5471,8 +5425,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Teslić", hu: "Teslić", ro: "Teslić", en: "Teslić"},
-    image: "/poi-images/bosniaherzegovina-teslic-cities-v2.webp",
-    coords: [17.8594, 44.6064],
     coords: [17.8594, 44.6064],
     description: {
       de: "Teslić liegt im zentralen Teil der Republika Srpska am Fluss Usora. Die Stadt ist berühmt für ihr Thermalbad Banja Vrućica, das eines der bedeutendsten im Land ist.",
@@ -5563,8 +5515,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Vitez", hu: "Vitez", ro: "Vitez", en: "Vitez"},
-    image: "/poi-images/bosniaherzegovina-vitez-cities-v2.webp",
-    coords: [17.7892, 44.1542],
     coords: [17.7892, 44.1542],
     description: {
       de: "Vitez liegt im Tal der Lašva in Zentralbosnien. Die Stadt ist ein blühendes wirtschaftliches Zentrum, das für seine zahlreichen Handelsunternehmen und die Industrie bekannt ist.",
@@ -5799,8 +5749,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Tomislavgrad", hu: "Tomislavgrad", ro: "Tomislavgrad", en: "Tomislavgrad"},
-    image: "/poi-images/bosniaherzegovina-tomislavgrad-cities-v2.webp",
-    coords: [17.2253, 43.7189],
     coords: [17.2253, 43.7189],
     description: {
       de: "Tomislavgrad liegt im Südwesten des Landes auf dem Duvanjsko polje. Die Stadt ist nach dem kroatischen König Tomislav benannt, der hier gekrönt worden sein soll.",
@@ -5851,8 +5799,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Vlasenica", hu: "Vlasenica", ro: "Vlasenica", en: "Vlasenica"},
-    image: "/poi-images/bosniaherzegovina-vlasenica-cities-v2.webp",
-    coords: [18.9406, 44.1814],
     coords: [18.9406, 44.1814],
     description: {
       de: "Vlasenica liegt im Osten der Republika Srpska, umgeben von waldreichen Bergen. Die Stadt ist ein wichtiges regionales Zentrum für Forstwirtschaft und Bildung.",
@@ -5898,8 +5844,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Rogatica", hu: "Rogatica", ro: "Rogatica", en: "Rogatica"},
-    image: "/poi-images/bosniaherzegovina-rogatica-cities-v2.webp",
-    coords: [19.0017, 43.9353],
     coords: [19.0017, 43.9353],
     description: {
       de: "Rogatica liegt im Osten von Bosnien-Herzegowina im Tal des Flusses Rakitnica. Die Stadt ist von Bergen umgeben und hat eine lange Geschichte, die bis in die Römerzeit zurückreicht.",
@@ -6026,8 +5970,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Bratunac", hu: "Bratunac", ro: "Bratunac", en: "Bratunac"},
-    image: "/poi-images/bosniaherzegovina-bratunac-cities-v2.webp",
-    coords: [19.3306, 44.1844],
     coords: [19.3306, 44.1844],
     description: {
       de: "Bratunac liegt im Osten des Landes am linken Ufer der Drina an der Grenze zu Serbien. Die Stadt ist ein Zentrum des Beerenanbaus in der Region.",
@@ -6370,8 +6312,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Višegrad", hu: "Višegrad", ro: "Višegrad", en: "Višegrad"},
-    image: "/poi-images/bosniaherzegovina-visegrad-cities-v2.webp",
-    coords: [19.2925, 43.7825],
     coords: [19.2925, 43.7825],
     description: {
       de: "Višegrad ist weltweit bekannt für die Mehmed-Paša-Sokolović-Brücke, die das zentrale Motiv in Ivo Andrićs Roman bildet. Die Stadt liegt an der Mündung der Rzav in die Drina.",
@@ -6462,8 +6402,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Kiseljak", hu: "Kiseljak", ro: "Kiseljak", en: "Kiseljak"},
-    image: "/poi-images/bosniaherzegovina-kiseljak-cities-v2.webp",
-    coords: [18.0772, 43.9431],
     coords: [18.0772, 43.9431],
     description: {
       de: "Kiseljak liegt in Zentralbosnien und ist berühmt für sein natürliches Mineralwasser. Die Stadt ist ein wichtiger Industriestandort und Erholungsort im Tal der Lepenica.",
@@ -6590,8 +6528,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Laktaši", hu: "Laktaši", ro: "Laktaši", en: "Laktaši"},
-    image: "/poi-images/bosniaherzegovina-laktasi-cities-v2.webp",
-    coords: [17.3014, 44.9083],
     coords: [17.3014, 44.9083],
     description: {
       de: "Laktaši liegt im Norden der Republika Srpska, nahe Banja Luka. Die Stadt ist ein bekanntes Thermalbad-Zentrum und ein wichtiger Standort für Landwirtschaft und Handel.",
@@ -6682,8 +6618,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Maglaj", hu: "Maglaj", ro: "Maglaj", en: "Maglaj"},
-    image: "/poi-images/bosniaherzegovina-maglaj-cities-v2.webp",
-    coords: [18.1028, 44.5497],
     coords: [18.1028, 44.5497],
     description: {
       de: "Maglaj liegt im Tal des Flusses Bosna und wird von einer gut erhaltenen mittelalterlichen Festung überragt. Die Stadt ist ein wichtiges Zentrum der Papierindustrie.",
@@ -6918,8 +6852,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Novi Grad", hu: "Novi Grad", ro: "Novi Grad", en: "Novi Grad"},
-    image: "/poi-images/bosniaherzegovina-novigrad-cities-v2.webp",
-    coords: [16.3778, 45.0461],
     coords: [16.3778, 45.0461],
     description: {
       de: "Novi Grad liegt im Nordwesten des Landes am Zusammenfluss von Una und Sana. Die Stadt hieß früher Bosanski Novi und ist für ihre malerische Lage am Fluss bekannt.",
@@ -6970,8 +6902,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Ilijaš", hu: "Ilijaš", ro: "Ilijaš", en: "Ilijaš"},
-    image: "/poi-images/bosniaherzegovina-ilijas-cities-v2.webp",
-    coords: [18.2711, 43.9514],
     coords: [18.2711, 43.9514],
     description: {
       de: "Ilijaš liegt nördlich von Sarajevo im Tal der Bosna. Die Stadt ist ein bedeutendes industrielles Zentrum der Metropolregion Sarajevo und für ihre Metallverarbeitung bekannt.",
@@ -7242,8 +7172,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Jablanica", hu: "Jablanica", ro: "Jablanica", en: "Jablanica"},
-    image: "/poi-images/bosniaherzegovina-jablanica-cities-v2.webp",
-    coords: [17.7617, 43.6603],
     coords: [17.7617, 43.6603],
     description: {
       de: "Jablanica liegt an der Neretva am Fuße des Prenj-Gebirges. Die Stadt ist berühmt für die Schlacht an der Neretva im Zweiten Weltkrieg und ihr Lammfleisch vom Grill.",
@@ -7370,8 +7298,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Prnjavor", hu: "Prnjavor", ro: "Prnjavor", en: "Prnjavor"},
-    image: "/poi-images/bosniaherzegovina-prnjavor-cities-v2.webp",
-    coords: [17.6622, 44.8703],
     coords: [17.6622, 44.8703],
     description: {
       de: "Prnjavor liegt im Norden der Republika Srpska und ist als Kleines Europa bekannt, da hier zahlreiche nationale Minderheiten seit über einem Jahrhundert friedlich zusammenleben.",
@@ -7534,8 +7460,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Srebrenik", hu: "Srebrenik", ro: "Srebrenik", en: "Srebrenik"},
-    image: "/poi-images/bosniaherzegovina-srebrenik-cities-v2.webp",
-    coords: [18.4881, 44.7083],
     coords: [18.4881, 44.7083],
     description: {
       de: "Srebrenik liegt im Nordosten des Landes und ist berühmt für seine mittelalterliche Festung, die auf einem steilen Felsen thront. Sie ist eine der besterhaltenen Burgen Bosniens.",
@@ -7587,7 +7511,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     type: "city",
     name: { de: "Hadžići", hu: "Hadžići", ro: "Hadžići", en: "Hadžići"},
     image: "/poi-images/bosniaherzegovina-hadzici-cities-v2.webp",
-    coords: [18.2011, 43.8236],
     coords: [18.2011, 43.8236],
     description: {
       de: "Hadžići ist eine Gemeinde südwestlich von Sarajevo am Fuße der Berge Igman und Bjelašnica. Die Stadt ist ein Tor zu den olympischen Bergen und bekannt für ihre Natur.",
@@ -7965,8 +7888,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Čapljina", hu: "Čapljina", ro: "Čapljina", en: "Čapljina"},
-    image: "/poi-images/bosniaherzegovina-capljina-cities-v2.webp",
-    coords: [17.7011, 43.1114],
     coords: [17.7011, 43.1114],
     description: {
       de: "Čapljina liegt in der südlichen Herzegowina am Zusammenfluss von vier Flüssen. Die Stadt ist für ihre mediterrane Atmosphäre und die Nähe zum Naturpark Hutovo Blato bekannt.",
@@ -8237,8 +8158,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Ljubuški", hu: "Ljubuški", ro: "Ljubuški", en: "Ljubuški"},
-    image: "/poi-images/bosniaherzegovina-ljubuski-cities-v2.webp",
-    coords: [17.5453, 43.1964],
     coords: [17.5453, 43.1964],
     description: {
       de: "Ljubuški liegt im Herzen der Herzegowina und ist berühmt für die Kravica-Wasserfälle. Die Stadt besitzt ein reiches historisches Erbe, darunter die Festung von Herzog Stjepan.",
@@ -8401,8 +8320,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Kladanj", hu: "Kladanj", ro: "Kladanj", en: "Kladanj"},
-    image: "/poi-images/bosniaherzegovina-kladanj-cities-v2.webp",
-    coords: [18.6917, 44.2253],
     coords: [18.6917, 44.2253],
     description: {
       de: "Kladanj liegt im Nordosten Bosniens im Tal der Drinjača. Die Stadt ist für ihre dichten Nadelwälder, Heilwasserquellen und das Skizentrum Karaula bekannt.",
@@ -8637,8 +8554,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Velika Kladuša", hu: "Velika Kladuša", ro: "Velika Kladuša", en: "Velika Kladuša"},
-    image: "/poi-images/bosniaherzegovina-velikakladusa-cities-v2.webp",
-    coords: [15.8056, 45.1844],
     coords: [15.8056, 45.1844],
     description: {
       de: "Velika Kladuša ist die nordwestlichste Stadt des Landes, direkt an der Grenze zu Kroatien. Sie ist für ihre mittelalterliche Burg und ihre starke industrielle Vergangenheit bekannt.",
@@ -8909,8 +8824,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Bileća", hu: "Bileća", ro: "Bileća", en: "Bileća"},
-    image: "/poi-images/bosniaherzegovina-bileca-cities-v2.webp",
-    coords: [18.4294, 42.8731],
     coords: [18.4294, 42.8731],
     description: {
       de: "Bileća liegt im Osten der Herzegowina am künstlichen Bileća-See. Die Stadt hat eine lange militärische Tradition und ist für ihre Karstlandschaft und Steingewinnung bekannt.",
@@ -9217,8 +9130,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Zvornik", hu: "Zvornik", ro: "Zvornik", en: "Zvornik"},
-    image: "/poi-images/bosniaherzegovina-zvornik-cities-v2.webp",
-    coords: [19.1025, 44.3853],
     coords: [19.1025, 44.3853],
     description: {
       de: "Zvornik liegt am linken Ufer der Drina an der Grenze zu Serbien. Die Stadt wird von der mächtigen Kula-Grad-Festung überragt und ist ein wichtiges regionales Zentrum.",
@@ -9309,8 +9220,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Gacko", hu: "Gacko", ro: "Gacko", en: "Gacko"},
-    image: "/poi-images/bosniaherzegovina-gacko-cities-v2.webp",
-    coords: [18.5353, 43.1672],
     coords: [18.5353, 43.1672],
     description: {
       de: "Gacko liegt im Südosten Bosniens in einer weiten Karstebene. Die Stadt ist ein wichtiges Energiezentrum aufgrund ihres großen Braunkohlekraftwerks.",
@@ -9437,8 +9346,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Odžak", hu: "Odžak", ro: "Odžak", en: "Odžak"},
-    image: "/poi-images/bosniaherzegovina-odzak-cities-v2.webp",
-    coords: [18.3267, 45.0108],
     coords: [18.3267, 45.0108],
     description: {
       de: "Odžak liegt im Norden des Landes in der Region Posavina, nahe der Grenze zu Kroatien. Die Stadt ist ein landwirtschaftliches Zentrum im fruchtbaren Tal der Save.",
@@ -9601,8 +9508,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Srebrenica", hu: "Srebrenica", ro: "Srebrenica", en: "Srebrenica"},
-    image: "/poi-images/bosniaherzegovina-srebrenica-cities-v2.webp",
-    coords: [19.2975, 44.1025],
     coords: [19.2975, 44.1025],
     description: {
       de: "Srebrenica liegt im Osten von Bosnien-Herzegowina in einem engen Tal. Die Stadt war historisch ein bedeutendes Zentrum des Silberbergbaus und ist heute ein Ort des Gedenkens.",
@@ -9693,8 +9598,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Busovača", hu: "Busovača", ro: "Busovača", en: "Busovača"},
-    image: "/poi-images/bosniaherzegovina-busovaca-cities-v2.webp",
-    coords: [17.8817, 44.0953],
     coords: [17.8817, 44.0953],
     description: {
       de: "Busovača liegt im Tal der Lašva in Zentralbosnien. Die Stadt ist ein wichtiger Verkehrsknotenpunkt und bekannt für ihre Berglandschaften und die Holzindustrie.",
@@ -9857,8 +9760,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Drvar", hu: "Drvar", ro: "Drvar", en: "Drvar"},
-    image: "/poi-images/bosniaherzegovina-drvar-cities-v2.webp",
-    coords: [16.3811, 44.3736],
     coords: [16.3811, 44.3736],
     description: {
       de: "Drvar liegt im westlichen Bosnien im Tal des Flusses Unac. Die Stadt ist historisch berühmt für die Höhle von Tito und den Widerstand im Zweiten Weltkrieg.",
@@ -9904,8 +9805,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Stolac", hu: "Stolac", ro: "Stolac", en: "Stolac"},
-    image: "/poi-images/bosniaherzegovina-stolac-cities-v2.webp",
-    coords: [17.9583, 43.0847],
     coords: [17.9583, 43.0847],
     description: {
       de: "Stolac liegt im Süden der Herzegowina am Fluss Bregava. Die Stadt wird oft als Freilichtmuseum bezeichnet, da sie zahlreiche historische Stätten aus verschiedenen Epochen beherbergt.",
@@ -9951,8 +9850,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Krupa na Uni", hu: "Krupa na Uni", ro: "Krupa na Uni", en: "Krupa na Uni"},
-    image: "/poi-images/bosniaherzegovina-krupannaui-cities-v2.webp",
-    coords: [16.1667, 44.9331],
     coords: [16.1667, 44.9331],
     description: {
       de: "Krupa na Uni ist eine Gemeinde im Nordwesten der Republika Srpska. Die Region ist für ihre hügelige Landschaft und ihre traditionelle ländliche Lebensweise bekannt.",
@@ -10115,8 +10012,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Šipovo", hu: "Šipovo", ro: "Šipovo", en: "Šipovo"},
-    image: "/poi-images/bosniaherzegovina-sipovo-cities-v2.webp",
-    coords: [17.0853, 44.2817],
     coords: [17.0853, 44.2817],
     description: {
       de: "Šipovo liegt im Westen der Republika Srpska am Zusammenfluss von Pliva und Janj. Die Stadt ist ein Paradies für Fliegenfischer und Naturliebhaber.",
@@ -10351,8 +10246,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Mrkonjić Grad", hu: "Mrkonjić Grad", ro: "Mrkonjić Grad", en: "Mrkonjić Grad"},
-    image: "/poi-images/bosniaherzegovina-mrkonjicgrad-cities-v2.webp",
-    coords: [17.0828, 44.4172],
     coords: [17.0828, 44.4172],
     description: {
       de: "Mrkonjić Grad liegt im Südwesten der Republika Srpska. Die Stadt ist bekannt für ihre Schmiedetradition und den nahegelegenen Balkana-See, ein beliebtes Ausflugsziel.",
@@ -10398,8 +10291,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Kneževo", hu: "Knezevo", ro: "Kneževo", en: "Kneževo"},
-    image: "/poi-images/bosniaherzegovina-knezevo-cities-v2.webp",
-    coords: [17.3833, 44.5],
     coords: [17.3833, 44.5],
     description: {
       de: "Kneževo liegt auf dem Plateau des Berges Vlašić in Zentralbosnien. Die Stadt hieß früher Skender Vakuf und ist für ihre reine Bergluft und dichten Wälder bekannt.",
@@ -10526,8 +10417,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Šekovići", hu: "Šekovići", ro: "Šekovići", en: "Šekovići"},
-    image: "/poi-images/bosniaherzegovina-sekovici-cities-v2.webp",
-    coords: [18.8553, 44.2981],
     coords: [18.8553, 44.2981],
     description: {
       de: "Šekovići liegt im Osten der Republika Srpska im Tal des Flusses Drinjača. Die Stadt ist für ihre Klöster und ihre unberührte Natur bekannt.",
@@ -10978,8 +10867,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Glamoč", hu: "Glamoč", ro: "Glamoč", en: "Glamoč"},
-    image: "/poi-images/bosniaherzegovina-glamoc-cities-v2.webp",
-    coords: [16.8481, 44.0453],
     coords: [16.8481, 44.0453],
     description: {
       de: "Glamoč liegt im Westen des Landes in einer weiten Karstebene, dem Glamoč-Feld. Die Stadt ist berühmt für ihren traditionellen Kreistanz und die Kartoffelproduktion.",
@@ -11142,8 +11029,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Bosansko Grahovo", hu: "Bosansko Grahovo", ro: "Bosansko Grahovo", en: "Bosansko Grahovo"},
-    image: "/poi-images/bosniaherzegovina-bosanskograhovo-cities-v2.webp",
-    coords: [16.3636, 44.1794],
     coords: [16.3636, 44.1794],
     description: {
       de: "Bosansko Grahovo liegt im Westen des Landes an der Grenze zu Kroatien. Die Stadt liegt in einem Hochtal und ist von den Gebirgen Dinara und Šator umgeben.",
@@ -11189,8 +11074,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Ribnik", hu: "Ribnik", ro: "Ribnik", en: "Ribnik"},
-    image: "/poi-images/bosniaherzegovina-ribnik-cities-v2.webp",
-    coords: [16.8167, 44.4167],
     coords: [16.8167, 44.4167],
     description: {
       de: "Ribnik liegt im Westen der Republika Srpska am Oberlauf der Sana. Die Stadt ist ein erstklassiges Ziel für Angler, besonders für das Fischen von Äschen und Forellen.",
@@ -11281,8 +11164,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Kalinovik", hu: "Kalinovik", ro: "Kalinovik", en: "Kalinovik"},
-    image: "/poi-images/bosniaherzegovina-kalinovik-cities-v2.webp",
-    coords: [18.45, 43.5],
     coords: [18.45, 43.5],
     description: {
       de: "Kalinovik liegt im Osten von Bosnien-Herzegowina auf einer hohen Hochebene. Die Stadt ist bekannt für ihr raues Bergklima und die Zucht von Qualitätsschafen.",
@@ -11373,8 +11254,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Han Pijesak", hu: "Han Pijesak", ro: "Han Pijesak", en: "Han Pijesak"},
-    image: "/poi-images/bosniaherzegovina-hanpijesak-cities-v2.webp",
-    coords: [18.95, 44.0833],
     coords: [18.95, 44.0833],
     description: {
       de: "Han Pijesak liegt im Osten der Republika Srpska auf der Romanija-Hochebene. Die Stadt ist berühmt für ihre reine Luft und ihre dichten Nadelwälder.",
@@ -11420,8 +11299,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Trnovo", hu: "Trnovo", ro: "Trnovo", en: "Trnovo"},
-    image: "/poi-images/bosniaherzegovina-trnovo-cities-v2.webp",
-    coords: [18.45, 43.6667],
     coords: [18.45, 43.6667],
     description: {
       de: "Trnovo liegt südöstlich von Sarajevo in einer gebirgigen Region zwischen den Bergen Igman und Treskavica. Die Stadt ist ein Zentrum für Bergsport und Ökotourismus.",
@@ -11467,8 +11344,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Osmaci", hu: "Osmaci", ro: "Osmaci", en: "Osmaci"},
-    image: "/poi-images/bosniaherzegovina-osmaci-cities-v2.webp",
-    coords: [18.9333, 44.3833],
     coords: [18.9333, 44.3833],
     description: {
       de: "Osmaci liegt im Osten der Republika Srpska in der Region Birač. Die Stadt ist ein kleines administratives Zentrum, umgeben von fruchtbarem Ackerland und Bergen.",
@@ -12063,8 +11938,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Istočno Sarajevo", hu: "Istočno Sarajevo", ro: "Istočno Sarajevo", en: "East Sarajevo"},
-    image: "/poi-images/bosniaherzegovina-istocnosarajevo-cities-v2.webp",
-    coords: [18.375, 43.8239],
     coords: [18.375, 43.8239],
     description: {
       de: "Istočno Sarajevo ist eine Stadt in der Republika Srpska, die an das eigentliche Sarajevo angrenzt. Sie besteht aus mehreren Gemeinden und ist ein wichtiges Bildungszentrum.",
@@ -12110,8 +11983,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Petrovo", hu: "Petrovo", ro: "Petrovo", en: "Petrovo"},
-    image: "/poi-images/bosniaherzegovina-petrovo-cities-v2.webp",
-    coords: [18.3736, 44.6431],
     coords: [18.3736, 44.6431],
     description: {
       de: "Petrovo liegt im Norden der Republika Srpska am Fuße des Ozren-Gebirges. Die Stadt ist bekannt für ihr reiches kulturelles Erbe und die unberührte Natur des Ozren.",
@@ -12157,8 +12028,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Milići", hu: "Milići", ro: "Milići", en: "Milići"},
-    image: "/poi-images/bosniaherzegovina-milići-cities-v2.webp",
-    coords: [19.09, 44.1708],
     coords: [19.09, 44.1708],
     description: {
       de: "Milići liegt im Osten der Republika Srpska in der Region Birač. Die Stadt ist ein bedeutendes Zentrum des Bergbaus, insbesondere für Bauxit.",
@@ -12204,8 +12073,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Stanari", hu: "Stanari", ro: "Stanari", en: "Stanari"},
-    image: "/poi-images/bosniaherzegovina-ukrina-cities-v2.webp",
-    coords: [17.8333, 44.75],
     coords: [17.8333, 44.75],
     description: {
       de: "Stanari liegt im Norden des Landes und ist eine der jüngsten Gemeinden in Bosnien-Herzegowina. Sie ist ein wichtiges Zentrum für Kohlebergbau und Energie.",
@@ -12253,7 +12120,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     name: { de: "Pelagićevo", hu: "Pelagićevo", ro: "Pelagićevo", en: "Pelagićevo"},
     image: "/poi-images/bosniaherzegovina-pelagicevo-cities-v2.webp",
     coords: [18.6, 44.9],
-    coords: [18.6, 44.9],
     description: {
       de: "Pelagićevo liegt in der Region Posavina im Norden des Landes. Die Stadt ist ein wichtiges landwirtschaftliches Zentrum und für ihren künstlichen See bekannt.",
       hu: "Pelagićevo a Posavina régióban fekszik az ország északi részén. A város fontos mezőgazdasági központ és mesterséges taváról ismert.",
@@ -12298,7 +12164,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     type: "city",
     name: { de: "Donji Žabar", hu: "Donji Žabar", ro: "Donji Žabar", en: "Donji Žabar"},
     image: "/poi-images/bosniaherzegovina-donjizabar-cities-v2.webp",
-    coords: [18.6481, 44.9431],
     coords: [18.6481, 44.9431],
     description: {
       de: "Donji Žabar liegt im Norden von Bosnien-Herzegowina in der Ebene von Semberija-Posavina. Die Stadt ist ein blühendes Zentrum für Handel und Dienstleistungen.",
@@ -12424,8 +12289,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Lopare", hu: "Lopare", ro: "Lopare", en: "Lopare"},
-    image: "/poi-images/bosniaherzegovina-lovare-cities-v2.webp",
-    coords: [18.85, 44.6333],
     coords: [18.85, 44.6333],
     description: {
       de: "Lopare liegt im Nordosten des Landes am Fuße des Majevica-Gebirges. Die Stadt ist ein regionales Zentrum für Obstbau und Forstwirtschaft.",
@@ -12471,8 +12334,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Vukosavlje", hu: "Vukosavlje", ro: "Vukosavlje", en: "Vukosavlje"},
-    image: "/poi-images/bosniaherzegovina-vukosavlje-cities-v2.webp",
-    coords: [18.25, 45.0],
     coords: [18.25, 45.0],
     description: {
       de: "Vukosavlje liegt im Norden der Republika Srpska in der fruchtbaren Ebene der Save. Die Gemeinde wurde in den 1990er Jahren gegründet und ist landwirtschaftlich geprägt.",
@@ -12563,8 +12424,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Petrovac", hu: "Petrovac", ro: "Petrovac", en: "Petrovac"},
-    image: "/poi-images/bosniaherzegovina-petrovac-cities-v2.webp",
-    coords: [16.48, 44.5],
     coords: [16.48, 44.5],
     description: {
       de: "Petrovac liegt im Westen der Republika Srpska auf der Drinić-Hochebene. Die Stadt ist ein Zentrum für Forstwirtschaft und bekannt für ihre unberührten Waldgebiete.",
@@ -12656,7 +12515,6 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     type: "city",
     name: { de: "Istočni Mostar", hu: "Istočni Mostar", ro: "Istočni Mostar", en: "East Mostar"},
     image: "/poi-images/bosniaherzegovina-istocnimostar-cities-v2.webp",
-    coords: [17.9833, 43.4333],
     coords: [17.9833, 43.4333],
     description: {
       de: "Istočni Mostar ist eine kleine Gemeinde in der Republika Srpska, die an Mostar grenzt. Die Region liegt im Gebirge Velež und ist für ihre weite Karstlandschaft bekannt.",

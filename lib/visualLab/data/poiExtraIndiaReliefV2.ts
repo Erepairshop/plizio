@@ -453,7 +453,6 @@ export const poiExtraIndiaReliefV2: POI[] = [
       hu: "Annamalai-hegység",
       ro: "Munții Annamalai",
       en: "Annamalai Hills"},
-    image: "/poi-images/annamalai-hills-mountain-relief-v2.webp",
     description: {
       de: "Eine Bergkette in den Westghats, bekannt für ihre hohe Artenvielfalt und als Teil des Anamalai-Tigerreservats.",
       hu: "A Nyugati-Ghátok egyik hegylánca, amely magas biodiverzitásáról és az Anamalai Tigrisrezervátum részeként ismert.",
@@ -597,7 +596,6 @@ export const poiExtraIndiaReliefV2: POI[] = [
       hu: "Shillong-fennsík",
       ro: "Podișul Shillong",
       en: "Shillong Plateau"},
-    image: "/poi-images/shillong-plateau-relief-v2.webp",
     description: {
       de: "Ein hohes Plateau in Meghalaya, das von den Hauptgebirgszügen des Himalaya isoliert ist und eine einzigartige Geologie aufweist.",
       hu: "Egy magas fennsík Meghalaya államban, amely elszigetelt a Himalája fő vonulataitól és egyedi geológiával rendelkezik.",
@@ -645,7 +643,6 @@ export const poiExtraIndiaReliefV2: POI[] = [
       hu: "Kaccsi-öböl partvidéke",
       ro: "Coasta Golfului Kutch",
       en: "Gulf of Kutch Coast"},
-    image: "/poi-images/gulf-of-kutch-coast-relief-v2.webp",
     description: {
       de: "Die Küstenlinie des Golfs von Kachchh ist bekannt für ihre extremen Gezeiten und ihren reichen marinen Nationalpark, den ersten in Indien.",
       hu: "A Kaccsi-öböl partvonala extrém árapály jelenségeiről és gazdag tengeri nemzeti parkjáról ismert, amely az első volt Indiában.",
@@ -954,7 +951,6 @@ export const poiExtraIndiaReliefV2: POI[] = [
       hu: "Párvati-völgy",
       ro: "Valea Parvati",
       en: "Parvati Valley"},
-    image: "/poi-images/parvati-valley-relief-v2.webp",
     description: {
       de: "Ein Flusstal in Himachal Pradesh, das für seine malerischen Dörfer, heißen Quellen und als beliebtes Ziel für Wanderer bekannt ist.",
       hu: "Egy folyóvölgy Himácsal Pradesben, festői falvairól, forró vizű forrásairól és a túrázók kedvelt célpontjaként ismert.",
@@ -2271,7 +2267,6 @@ export const poiExtraIndiaReliefV2: POI[] = [
       hu: "Kardamom-hegység",
       ro: "Munții Cardamom",
       en: "Cardamom Hills"},
-    image: "/poi-images/cardamom-hills-mountain-relief-v2.webp",
     description: {
       de: "Ein Teil der südlichen Westghats, bekannt für seine Gewürzplantagen, insbesondere Kardamom, Pfeffer und Kaffee.",
       hu: "A déli Nyugati-Ghátok része, amely fűszerültetvényeiről, különösen a kardamomról, a borsról és a kávéról ismert.",
@@ -2367,7 +2362,6 @@ export const poiExtraIndiaReliefV2: POI[] = [
       hu: "Palk-szoros partvidéke",
       ro: "Coasta Strâmtorii Palk",
       en: "Palk Strait Coast"},
-    image: "/poi-images/palk-strait-coast-relief-v2.webp",
     description: {
       de: "Die Küste entlang der Palkstraße, die den indischen Bundesstaat Tamil Nadu von Sri Lanka trennt. Bekannt für ihre ruhigen Gewässer und die Adamsbrücke.",
       hu: "A Palk-szoros menti partvidék, amely elválasztja Tamilnádu indiai államot Srí Lankától. Nyugodt vizeiről és az Ádám-hídjáról ismert.",
@@ -2676,7 +2670,6 @@ export const poiExtraIndiaReliefV2: POI[] = [
       hu: "Nubra-völgy",
       ro: "Valea Nubra",
       en: "Nubra Valley"},
-    image: "/poi-images/nubra-valley-relief-v2.webp",
     description: {
       de: "Ein hochgelegenes Kaltwüstental in Ladakh, das für seine Sanddünen, baktrischen Kamele und Klöster bekannt ist.",
       hu: "Egy magasan fekvő hideg sivatagi völgy Ladakhban, homokdűnéiről, baktriai tevéiről és kolostorairól ismert.",
@@ -2769,7 +2762,6 @@ export const poiExtraIndiaReliefV2: POI[] = [
       hu: "Pir Pandzsal-hegylánc",
       ro: "Lanțul Pir Panjal",
       en: "Pir Panjal Range"},
-    image: "/poi-images/pir-panjal-range-mountain-relief-v2.webp",
     description: {
       de: "Eine Gruppe von Bergen im Kleinen Himalaya, die das Kaschmirtal von der äußeren Ebene trennt.",
       hu: "Az Alacsony-Himalája egyik hegycsoportja, amely elválasztja a Kasmír-völgyet a külső síkságoktól.",
@@ -2862,7 +2854,6 @@ export const poiExtraIndiaReliefV2: POI[] = [
       hu: "Csambal-völgy",
       ro: "Valea Chambal",
       en: "Chambal Valley"},
-    image: "/poi-images/chambal-valley-relief-v2.webp",
     description: {
       de: "Bekannt für seine Badlands oder Schluchten, war dieses Flusstal historisch berüchtigt als Versteck für Banditen.",
       hu: "A terméketlen, szakadékos területeiről (badlands) ismert folyóvölgy történelmileg hírhedt volt a banditák búvóhelyeként.",
@@ -2910,7 +2901,6 @@ export const poiExtraIndiaReliefV2: POI[] = [
       hu: "Mannari-öböl partvidéke",
       ro: "Coasta Golfului Mannar",
       en: "Gulf of Mannar Coast"},
-    image: "/poi-images/gulf-of-mannar-coast-relief-v2.webp",
     description: {
       de: "Ein großes flaches Buchtgebiet, das Teil des Lakkadivischen Meeres ist und ein Biosphärenreservat von Weltrang darstellt.",
       hu: "Egy nagy, sekély öböl, amely a Lakkadív-tenger része és egy világszínvonalú bioszféra-rezervátumot alkot.",
@@ -3039,7 +3029,6 @@ export const poiExtraIndiaReliefV2: POI[] = [
       hu: "Dandakaranya-fennsík",
       ro: "Podișul Dandakaranya",
       en: "Dandakaranya Plateau"},
-    image: "/poi-images/dandakaranya-plateau-relief-v2.webp",
     description: {
       de: "Ein historisch und kulturell bedeutsames Plateau in Ost-Zentralindien, das sich über mehrere Bundesstaaten erstreckt.",
       hu: "Egy történelmileg és kulturálisan jelentős fennsík Kelet-Közép-Indiában, amely több államon átnyúlik.",
@@ -3276,7 +3265,6 @@ export const poiExtraIndiaReliefV2: POI[] = [
       hu: "Trisul",
       ro: "Trisul",
       en: "Trisul"},
-    image: "/poi-images/trisul-mountain-relief-v2.webp",
     description: {
       de: "Eine Gruppe von drei Himalaya-Gipfeln in Uttarakhand, deren höchster 7.120 Meter erreicht.",
       hu: "Három himalájai csúcsból álló hegycsoport Uttarakhandban, melyek közül a legmagasabb eléri a 7120 métert.",
@@ -3324,7 +3312,6 @@ export const poiExtraIndiaReliefV2: POI[] = [
       hu: "Kethen-völgy",
       ro: "Valea Kethen",
       en: "Kethen Valley"},
-    image: "/poi-images/kethen-valley-relief-v2.webp",
     description: {
       de: "Ein malerisches Tal in Arunachal Pradesh, bekannt für seine unberührte Natur und die Monpa-Stammesgemeinschaften.",
       hu: "Festői völgy Arunachal Pradesh-ben, érintetlen természetéről és a monpa törzsi közösségekről ismert.",
@@ -3489,7 +3476,6 @@ export const poiExtraIndiaReliefV2: POI[] = [
       hu: "Kumaon-Himalája",
       ro: "Himalaya Kumaon",
       en: "Kumaon Himalaya"},
-    image: "/poi-images/kumaon-himalaya-mountain-relief-v2.webp",
     description: {
       de: "Ein Abschnitt des Himalaya in Uttarakhand, der für seine zahlreichen Gipfel und Gletscher bekannt ist.",
       hu: "A Himalája egy szakasza Uttarakhandban, amely számos csúcsáról és gleccseréről ismert.",
@@ -3537,7 +3523,6 @@ export const poiExtraIndiaReliefV2: POI[] = [
       hu: "Karnátakai-fennsík",
       ro: "Podișul Karnataka",
       en: "Karnataka Plateau"},
-    image: "/poi-images/karnataka-plateau-relief-v2.webp",
     description: {
       de: "Ein Teil des größeren Dekkan-Plateaus, das den größten Teil des Bundesstaates Karnataka ausmacht und reich an Mineralien ist.",
       hu: "A nagyobb Dekkán-fennsík része, amely Karnátaka állam nagy részét teszi ki és ásványkincsekben gazdag.",

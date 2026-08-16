@@ -57,7 +57,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Páli Szent Vince-székesegyház",
       ro: "Catedrala Sfântul Vincențiu de Paul",
       en: "Cathedral of St Vincent de Paul"},
-    image: "/poi-images/tunis-st-vincent-de-paul-landmarks-v2.webp",
     description: {
       de: "Diese markante katholische Kathedrale im Herzen von Tunis vereint gotische, byzantinische und maurische Architekturelemente.",
       hu: "Ez a jellegzetes katolikus székesegyház Tunisz szívében ötvözi a gótikus, bizánci és mór építészeti elemeket.",
@@ -150,7 +149,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Radèsi Olimpiai Stadion",
       ro: "Stadionul Olimpic din Radès",
       en: "Radès Olympic Stadium"},
-    image: "/poi-images/rades-stade-olympique-landmarks-v2.webp",
     description: {
       de: "Das größte Stadion in Tunesien ist Austragungsort bedeutender Fußballspiele und Leichtathletikwettbewerbe.",
       hu: "Tunézia legnagyobb stadionja, amely fontos labdarúgó-mérkőzéseknek és atlétikai versenyeknek ad otthont.",
@@ -459,7 +457,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "A Kultúra Városa",
       ro: "Orașul Culturii",
       en: "City of Culture"},
-    image: "/poi-images/tunis-cite-culture-landmarks-v2.webp",
     description: {
       de: "Ein riesiger moderner Kulturkomplex in Tunis, der Theater, Kinos und Kunstgalerien unter einem architektonisch beeindruckenden Dach vereint.",
       hu: "Hatalmas modern kulturális komplexum Tuniszban, amely színházakat, mozikat és művészeti galériákat foglal magában.",
@@ -621,7 +618,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Tuniszi óratorony",
       ro: "Turnul cu Ceas din Tunis",
       en: "Clock Tower of Tunis"},
-    image: "/poi-images/tunis-uhrenturm-landmarks-v2.webp",
     description: {
       de: "Dieses ikonische stählerne Bauwerk am Platz des 14. Januar ist ein Symbol des modernen Tunis und ein zentraler Treffpunkt.",
       hu: "Ez az ikonikus acélépítmény a Január 14. téren a modern Tunisz szimbóluma és népszerű találkozóhely.",
@@ -819,7 +815,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Tuniszi Városháza",
       ro: "Primăria Tunis",
       en: "Tunis City Hall"},
-    image: "/poi-images/tunis-rathaus-landmarks-v2.webp",
     description: {
       de: "Ein monumentales Gebäude am Kasbah-Platz, das traditionelle islamische Architektur mit modernen Verwaltungseinrichtungen kombiniert.",
       hu: "Monumentális épület a Kasbah téren, amely ötvözi a hagyományos iszlám építészetet a modern adminisztratív funkciókkal.",
@@ -1665,7 +1660,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "El Ghriba zsinagóga",
       ro: "Sinagoga El Ghriba",
       en: "El Ghriba Synagogue"},
-    image: "/poi-images/djerba-ghriba-synagoge-landmarks-v2.webp",
     description: {
       de: "Die älteste noch erhaltene Synagoge Afrikas auf der Insel Djerba ist ein bedeutender Wallfahrtsort für jüdische Gläubige.",
       hu: "Afrika legrégebbi fennmaradt zsinagógája a Dzserba szigetén fontos zarándokhely a zsidó hívők számára.",
@@ -2046,7 +2040,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Kelibia erődje",
       ro: "Fortul Kelibia",
       en: "Kelibia Fort"},
-    image: "/poi-images/kelibia-festung-landmarks-v2.webp",
     description: {
       de: "Diese mächtige Festungsanlage überblickt das Mittelmeer und zeugt von der byzantinischen und osmanischen Militärgeschichte der Region.",
       hu: "Ez a hatalmas erődítmény a Földközi-tengerre néz, és a régió bizánci, valamint oszmán hadtörténetének állít emléket.",
@@ -2391,7 +2384,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Bourguiba-mauzóleum",
       ro: "Mausoleul Bourguiba",
       en: "Bourguiba Mausoleum"},
-    image: "/poi-images/monastir-bourguiba-mausoleum-landmarks-v2.webp",
     description: {
       de: "Ein prächtiges Grabmal für Habib Bourguiba, den ersten Präsidenten des unabhängigen Tunesiens, mit goldenen Kuppeln und Minaretten.",
       hu: "Pompás síremlék Habib Bourguiba, a független Tunézia első elnöke számára, aranykupolákkal és minaretekkel.",
@@ -2556,7 +2548,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Mahdia Nagymecset",
       ro: "Marea Moschee din Mahdia",
       en: "Great Mosque of Mahdia"},
-    image: "/poi-images/mahdia-grosse-moschee-landmarks-v2.webp",
     description: {
       de: "Diese festungsartige Moschee aus der Zeit der Fatimiden beeindruckt durch ihre schlichte Architektur ohne Minarett.",
       hu: "Ez az erődítményszerű mecset a Fatimidák korából származik, és minaret nélküli, letisztult építészetével nyűgöz le.",
@@ -2721,7 +2712,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Bab el Bhar",
       ro: "Bab el Bhar",
       en: "Bab el Bhar"},
-    image: "/poi-images/tunis-bab-el-bhar-landmarks-v2.webp",
     description: {
       de: "Das 'Tor zum Meer' bildet die historische Grenze zwischen der mittelalterlichen Medina von Tunis und der modernen Neustadt.",
       hu: "A 'Tenger kapuja' alkotja a történelmi határt Tunisz középkori medinája és a modern újváros között.",
@@ -3390,7 +3380,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Karthágó Akropolium",
       ro: "Acropolium din Cartagina",
       en: "Acropolium of Carthage"},
-    image: "/poi-images/karthago-akropolium-landmarks-v2.webp",
     description: {
       de: "Die ehemalige Kathedrale des Heiligen Louis thront auf dem Byrsa-Hügel und wird heute als kulturelles Veranstaltungszentrum genutzt.",
       hu: "Az egykori Szent Lajos-székesegyház a Byrsa-dombon magasodik, ma kulturális rendezvényközpontként működik.",
@@ -3483,7 +3472,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Hammamet Kasbah-ja",
       ro: "Kasbah din Hammamet",
       en: "Kasbah of Hammamet"},
-    image: "/poi-images/hammamet-kasbah-landmarks-v2.webp",
     description: {
       de: "Diese gut erhaltene Küstenfestung aus dem 13. Jahrhundert bietet atemberaubende Ausblicke auf das Meer und die Altstadt von Hammamet.",
       hu: "Ez a jól karbantartott, 13. századi tengerparti erődítmény lenyűgöző kilátást nyújt a tengerre és Hammamet óvárosára.",
@@ -3684,7 +3672,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Bab Saadoun",
       ro: "Bab Saadoun",
       en: "Bab Saadoun"},
-    image: "/poi-images/tunis-bab-saadoun-landmarks-v2.webp",
     description: {
       de: "Eines der historischen Stadttore von Tunis mit markanten dreifachen Bögen, das einst den Zugang zur Medina bewachte.",
       hu: "Tunisz egyik történelmi városkapuja jellegzetes hármas boltívvel, amely egykor a medina bejáratát őrizte.",
@@ -3777,7 +3764,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Sfax Kasbah-ja",
       ro: "Kasbah din Sfax",
       en: "Kasbah of Sfax"},
-    image: "/poi-images/sfax-kasbah-landmarks-v2.webp",
     description: {
       de: "Eine traditionelle islamische Festungsanlage, die einen wichtigen Teil der Verteidigungslinien der historischen Hafenstadt Sfax bildete.",
       hu: "Hagyományos iszlám erődítmény, amely a történelmi kikötőváros, Sfax védelmi vonalának fontos részét képezte.",
@@ -5331,7 +5317,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Borj el Kebir",
       ro: "Borj el Kebir",
       en: "Borj el Kebir"},
-    image: "/poi-images/djerba-borj-el-kebir-landmarks-v2.webp",
     description: {
       de: "Diese mächtige Festung in Houmt Souk wurde im 15. Jahrhundert errichtet und diente dem Schutz der Insel Djerba vor Piratenangriffen.",
       hu: "Ezt a Houmt Souk-ban található erődöt a 15. században emelték Dzserba szigetének védelmére a kalóztámadások ellen.",
@@ -5589,7 +5574,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Dar Ben Abdallah",
       ro: "Dar Ben Abdallah",
       en: "Dar Ben Abdallah"},
-    image: "/poi-images/tunis-dar-ben-abdallah-landmarks-v2.webp",
     description: {
       de: "Dieser prachtvolle Palast in der Medina von Tunis ist ein Meisterwerk tunesischer Wohnarchitektur aus dem späten 18. Jahrhundert.",
       hu: "Ez a csodálatos palota Tunisz medinájában a 18. század végi tunéziai lakóépítészet remekműve.",
@@ -5754,7 +5738,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Dar Othman",
       ro: "Dar Othman",
       en: "Dar Othman"},
-    image: "/poi-images/tunis-dar-othman-landmarks-v2.webp",
     description: {
       de: "Ein historisches Herrenhaus in der Medina von Tunis, das durch seine prächtige schwarz-weiße Marmorfassade und andalusische Elemente besticht.",
       hu: "Történelmi kúria Tunisz medinájában, amely pompás fekete-fehér márvány homlokzatával és andalúz elemeivel hódít.",
@@ -5883,7 +5866,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Borbély Mecset",
       ro: "Moscheea Bărbierului",
       en: "Mosque of the Barber"},
-    image: "/poi-images/kairouan-moschee-des-barbiers-landmarks-v2.webp",
     description: {
       de: "Ein prächtiger Zaouia-Komplex in Kairouan, bekannt für seine kunstvollen andalusischen Keramikfliesen und kunstvollen Stuckarbeiten.",
       hu: "Pompás Zaouia-komplexum Kairouanban, amely lenyűgöző andalúz kerámiacsempéiről és stukkómunkáiról ismert.",
@@ -6141,7 +6123,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Medjez el-Bab Traianus-hídja",
       ro: "Podul lui Traian din Medjez el-Bab",
       en: "Trajan's Bridge of Medjez el-Bab"},
-    image: "/poi-images/beja-trajansbrucke-landmarks-v2.webp",
     description: {
       de: "Die Überreste einer soliden römischen Steinbrücke, die unter Kaiser Trajan zur Überquerung des Flusses Medjerda errichtet wurde.",
       hu: "Egy masszív római kőhíd maradványai, amelyet Traianus császár idején építettek a Medjerda folyón való átkeléshez.",
@@ -6270,7 +6251,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Dar Hussein",
       ro: "Dar Hussein",
       en: "Dar Hussein"},
-    image: "/poi-images/tunis-dar-hussein-landmarks-v2.webp",
     description: {
       de: "Einer der prächtigsten Paläste in der Medina von Tunis, der als Residenz für Fürsten, Gouverneure und Minister diente.",
       hu: "Tunisz medinájának egyik legpompásabb palotája, amely fejedelmek, kormányzók és miniszterek rezidenciájaként szolgált.",
@@ -6615,7 +6595,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Bizerte Kasbah-ja",
       ro: "Kasbah din Bizerte",
       en: "Kasbah of Bizerte"},
-    image: "/poi-images/bizerte-kasbah-landmarks-v2.webp",
     description: {
       de: "Ein historisches byzantinisches Fort am alten Hafen von Bizerte, dessen massive Mauern den Eingang zum strategisch wichtigen Kanal bewachten.",
       hu: "Történelmi bizánci erőd Bizerte régi kikötőjénél, amelynek hatalmas falai a stratégiailag fontos csatorna bejáratát őrizték.",
@@ -6663,7 +6642,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Dar Jellouli",
       ro: "Dar Jellouli",
       en: "Dar Jellouli"},
-    image: "/poi-images/sfax-dar-jellouli-landmarks-v2.webp",
     description: {
       de: "Ein prächtiges traditionelles Wohnhaus in Sfax mit reichem Dekor aus andalusischen Fliesen und Holzschnitzereien.",
       hu: "Pompás, hagyományos lakóház Sfax városában, gazdag andalúz csempe- és fafaragás díszítéssel.",
@@ -6792,7 +6770,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Sfaxi Városháza",
       ro: "Primăria Sfax",
       en: "Sfax City Hall"},
-    image: "/poi-images/sfax-rathaus-landmarks-v2.webp",
     description: {
       de: "Das Hôtel de Ville in Sfax ist ein markantes Bauwerk im neu-maurischen Stil mit einer eleganten Fassade und einem zentralen Turm.",
       hu: "A Sfax-i városháza jellegzetes újmór stílusú épület, elegáns homlokzattal és központi toronnyal.",
@@ -7029,7 +7006,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Sousse-i Olimpiai Stadion",
       ro: "Stadionul Olimpic din Sousse",
       en: "Sousse Olympic Stadium"},
-    image: "/poi-images/sousse-stade-olympique-landmarks-v2.webp",
     description: {
       de: "Ein wichtiges tunesisches Sportstadion und Heimat der Étoile Sportive du Sahel, eines der erfolgreichsten Fußballvereine des Landes.",
       hu: "Fontos tunéziai sportstadion, az Étoile Sportive du Sahel otthona, amely az ország egyik legsikeresebb futballklubja.",
@@ -7077,7 +7053,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Testour Nagymecsete",
       ro: "Marea Moschee din Testour",
       en: "Great Mosque of Testour"},
-    image: "/poi-images/testour-grosse-moschee-landmarks-v2.webp",
     description: {
       de: "Eine einzigartige Moschee, die stark von andalusischen Flüchtlingen beeinflusst wurde und in ihrem Minarett spanische Architekturelemente zeigt.",
       hu: "Egyedülálló mecset, amelyre erős hatást gyakoroltak az andalúz menekültek, minaretjén spanyol építészeti elemek figyelhetők meg.",
@@ -7314,7 +7289,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: "Ennejma Ezzahra-palota",
       ro: "Palatul Ennejma Ezzahra",
       en: "Ennejma Ezzahra Palace"},
-    image: "/poi-images/sidi-bou-said-ennejma-ezzahra-landmarks-v2.webp",
     description: {
       de: "Dieser elegante Palast vereint maurische Architektur mit europäischen Einflüssen und bietet heute ein Museum für arabische und mediterrane Musik.",
       hu: "Ez az elegáns palota a mór építészetet európai hatásokkal ötvözi, ma az arab és mediterrán zene múzeumának ad otthont.",

@@ -9,7 +9,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     name: { de: "Stahlwerk Zenica", hu: "Zenicai Acélmű", ro: "Combinatul Siderurgic Zenica", en: "Zenica Steelworks"},
     image: "/poi-images/bosniaherzegovina-zenica-steelworks-economic-v2.webp",
     coords: [17.9048, 44.2252],
-    coords: [17.9048, 44.2252],
     description: {
       de: "Das Stahlwerk in Zenica ist das größte seiner Art in Bosnien und Herzegowina und ein zentraler Pfeiler der nationalen Schwerindustrie. Es wurde 1892 unter österreichisch-ungarischer Verwaltung gegründet und wird heute von ArcelorMittal betrieben.",
       hu: "A zenicai acélmű Bosznia-Hercegovina legnagyobb ilyen jellegű létesítménye és a nemzeti nehézipar központi pillére. 1892-ben alapították osztrák-magyar fennhatóság alatt, ma az ArcelorMittal üzemelteti.",
@@ -53,8 +52,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "industry",
     name: { de: "Kraftwerk Tuzla", hu: "Tuzlai Hőerőmű", ro: "Termocentrala Tuzla", en: "Tuzla Thermal Power Plant"},
-    image: "/poi-images/bosniaherzegovina-tuzla-power-plant-economic-v2.webp",
-    coords: [18.6014, 44.5211],
     coords: [18.6014, 44.5211],
     description: {
       de: "Das thermische Kraftwerk Tuzla ist das größte Kohlekraftwerk des Landes und eine essenzielle Quelle für die Stromversorgung. Es nutzt Braunkohle aus den nahegelegenen Minen von Kreka und Banovići zur Energieerzeugung.",
@@ -100,8 +97,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "industry",
     name: { de: "Industriezentrum Kakanj", hu: "Kakanji Ipari Központ", ro: "Centrul Industrial Kakanj", en: "Kakanj Industrial Hub"},
-    image: "/poi-images/bosniaherzegovina-kakanj-coal-power-economic-v2.webp",
-    coords: [18.1558, 44.1264],
     coords: [18.1558, 44.1264],
     description: {
       de: "Kakanj ist ein bedeutendes Zentrum für Kohlebergbau und Energieerzeugung in Zentralbosnien. Neben dem großen Braunkohlekraftwerk beherbergt die Stadt auch eines der wichtigsten Zementwerke des Landes.",
@@ -147,8 +142,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "factory",
     name: { de: "Aluminiumwerk Mostar", hu: "Mostari Alumíniumgyár", ro: "Combinatul de Aluminiu Mostar", en: "Aluminij Mostar"},
-    image: "/poi-images/bosniaherzegovina-mostar-aluminium-economic-v2.webp",
-    coords: [17.8225, 43.2847],
     coords: [17.8225, 43.2847],
     description: {
       de: "Aluminij Mostar ist das wichtigste Industrieunternehmen in der Region Herzegowina und ein bedeutender Exporteur von Rohaluminium. Die Fabrik nutzt die hydroelektrischen Ressourcen des Flusses Neretva für ihren hohen Energiebedarf.",
@@ -196,7 +189,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     name: { de: "Ölraffinerie Modriča", hu: "Modričai Olajfinomító", ro: "Rafinăria de Petrol Modriča", en: "Modriča Oil Refinery"},
     image: "/poi-images/bosniaherzegovina-modrica-oil-refinery-economic-v2.webp",
     coords: [18.2914, 44.9622],
-    coords: [18.2914, 44.9622],
     description: {
       de: "Die Raffinerie in Modriča ist auf die Herstellung von Motorölen, Schmierstoffen und Funktionsflüssigkeiten spezialisiert. Sie bildet zusammen mit der Raffinerie in Brod das Rückgrat der petrochemischen Industrie der Republika Srpska.",
       hu: "A modričai finomító motorolajok, kenőanyagok és funkcionális folyadékok gyártására specializálódott. A brodi finomítóval együtt a Boszniai Szerb Köztársaság petrolkémiai iparának gerincét alkotja.",
@@ -242,7 +234,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     name: { de: "Raffinerie Brod", hu: "Brodi Olajfinomító", ro: "Rafinăria Brod", en: "Brod Oil Refinery"},
     image: "/poi-images/bosniaherzegovina-brod-oil-refinery-economic-v2.webp",
     coords: [17.9942, 45.1436],
-    coords: [17.9942, 45.1436],
     description: {
       de: "Die Ölraffinerie in Brod an der Grenze zu Kroatien ist die einzige Anlage zur Verarbeitung von Rohöl in Bosnien und Herzegowina. Sie ist strategisch wichtig für die Kraftstoffversorgung des gesamten Westbalkans.",
       hu: "A horvát határon fekvő brodi olajfinomító az egyetlen kőolaj-feldolgozó létesítmény Bosznia-Hercegovinában. Stratégiai fontosságú az egész Nyugat-Balkán üzemanyag-ellátása szempontjából.",
@@ -286,8 +277,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "factory",
     name: { de: "Alumina Fabrik Zvornik", hu: "Zvorniki Timföldgyár", ro: "Fabrica de Alumină Zvornik", en: "Alumina Zvornik"},
-    image: "/poi-images/bosniaherzegovina-zvornik-alumina-economic-v2.webp",
-    coords: [19.1086, 44.4064],
     coords: [19.1086, 44.4064],
     description: {
       de: "Alumina Zvornik ist ein führender Hersteller von Tonerde, Zeolithen und Hydraten in Südosteuropa. Die Fabrik liegt am Ufer der Drina und exportiert ihre Produkte an die Aluminiumindustrie weltweit.",
@@ -333,8 +322,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "industry",
     name: { de: "Wasserkraftwerk Jablanica", hu: "Jablanicai Vízerőmű", ro: "Hidrocentrala Jablanica", en: "Jablanica Hydroelectric Power Plant"},
-    image: "/poi-images/bosniaherzegovina-jablanica-hydro-economic-v2.webp",
-    coords: [17.7558, 43.6744],
     coords: [17.7558, 43.6744],
     description: {
       de: "Das Wasserkraftwerk Jablanica war bei seiner Fertigstellung das größte hydroelektrische Projekt in Jugoslawien. Es nutzt das Wasser des Jablanica-Stausees zur Erzeugung sauberer Energie aus der Neretva.",
@@ -380,8 +367,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "factory",
     name: { de: "Zementwerk Lukavac", hu: "Lukavaci Cementgyár", ro: "Fabrica de Ciment Lukavac", en: "Lukavac Cement Factory"},
-    image: "/poi-images/bosniaherzegovina-lukavac-cement-economic-v2.webp",
-    coords: [18.5258, 44.5364],
     coords: [18.5258, 44.5364],
     description: {
       de: "Das Zementwerk Lukavac ist einer der modernsten Produzenten von Baustoffen in der Region. Es gehört zur österreichischen Asamer-Gruppe und ist bekannt für seine hohen ökologischen Standards in der Produktion.",
@@ -427,8 +412,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "industry",
     name: { de: "Kraftwerk Gacko", hu: "Gackói Hőerőmű", ro: "Termocentrala Gacko", en: "Gacko Thermal Power Plant"},
-    image: "/poi-images/bosniaherzegovina-gacko-power-plant-economic-v2.webp",
-    coords: [18.5144, 43.1672],
     coords: [18.5144, 43.1672],
     description: {
       de: "Das Kraftwerk Gacko liegt in der östlichen Herzegowina und nutzt die umliegenden Braunkohlevorkommen. Es ist ein lebenswichtiger Energielieferant für die Republika Srpska und einer der größten Arbeitgeber der Region.",
@@ -699,8 +682,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "industry",
     name: { de: "Kraftwerk Ugljevik", hu: "Ugljeviki Hőerőmű", ro: "Termocentrala Ugljevik", en: "Ugljevik Thermal Power Plant"},
-    image: "/poi-images/bosniaherzegovina-ugljevik-power-plant-economic-v2.webp",
-    coords: [18.9664, 44.6861],
     coords: [18.9664, 44.6861],
     description: {
       de: "Das Kraftwerk Ugljevik ist für seinen markanten, 310 Meter hohen Schornstein bekannt, der zu den höchsten Bauwerken auf dem Balkan gehört. Die Anlage ist ein zentraler Bestandteil des Energiesystems im Nordosten des Landes.",
@@ -746,8 +727,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "industry",
     name: { de: "EFT Kraftwerk Stanari", hu: "Stanari Hőerőmű", ro: "Termocentrala Stanari", en: "Stanari Thermal Power Plant"},
-    image: "/poi-images/bosniaherzegovina-stanari-power-plant-economic-v2.webp",
-    coords: [17.8186, 44.7472],
     coords: [17.8186, 44.7472],
     description: {
       de: "Das Kraftwerk Stanari ist das erste private Großkraftwerk in Bosnien und Herzegowina, finanziert durch die EFT-Gruppe. Es gilt als eine der effizientesten und umweltfreundlichsten Kohleanlagen in der gesamten Region.",
@@ -793,8 +772,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "mine",
     name: { de: "Silber- und Zinkmine Vareš", hu: "Vareši Ezüst- és Cinkbánya", ro: "Mina de Argint și Zinc Vareș", en: "Vareš Silver and Zinc Mine"},
-    image: "/poi-images/bosniaherzegovina-vares-silver-mine-economic-v2.webp",
-    coords: [18.3364, 44.1752],
     coords: [18.3364, 44.1752],
     description: {
       de: "Die Mine in Vareš ist ein bedeutendes Bergbauprojekt der britischen Firma Adriatic Metals. Hier werden hochwertige Erze wie Silber, Zink und Blei abgebaut, was zu einer wirtschaftlichen Wiederbelebung der historischen Bergbaustadt führt.",
@@ -840,8 +817,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "mine",
     name: { de: "Eisenerzmine Omarska", hu: "Omarskai Vasércbánya", ro: "Mina de Fier Omarska", en: "Omarska Iron Ore Mine"},
-    image: "/poi-images/bosniaherzegovina-omarska-iron-mine-economic-v2.webp",
-    coords: [16.8942, 44.8864],
     coords: [16.8942, 44.8864],
     description: {
       de: "Die Eisenerzmine Omarska nahe Prijedor liefert Rohstoffe für die Stahlwerke in Europa. Sie wird von ArcelorMittal betrieben und ist eines der wichtigsten Exportgüter für die Schwerindustrie des Landes.",
@@ -889,7 +864,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     name: { de: "Munitionsfabrik Igman", hu: "Igman Muníciógyár", ro: "Fabrica de Muniție Igman", en: "Igman Konjic Factory"},
     image: "/poi-images/bosniaherzegovina-konjic-igman-factory-economic-v2.webp",
     coords: [17.9644, 43.6622],
-    coords: [17.9644, 43.6622],
     description: {
       de: "Die Fabrik Igman in Konjic ist einer der größten Hersteller von Kleinkalibermunition in Südosteuropa. Das Unternehmen ist ein wichtiger Teil der bosnischen Verteidigungsindustrie und exportiert in über 50 Länder.",
       hu: "A konjici Igman gyár Délkelet-Európa egyik legnagyobb kis kaliberű lőszergyártója. A vállalat a boszniai védelmi ipar fontos része, és több mint 50 országba exportál.",
@@ -933,8 +907,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "factory",
     name: { de: "Speiseölfabrik Bimal", hu: "Bimal Étovajgyár", ro: "Fabrica de Ulei Comestibil Bimal", en: "Bimal Brčko Factory"},
-    image: "/poi-images/bosniaherzegovina-brcko-bimal-factory-economic-v2.webp",
-    coords: [18.8242, 44.8664],
     coords: [18.8242, 44.8664],
     description: {
       de: "Bimal Brčko ist die einzige Fabrik zur Herstellung von Speiseöl in Bosnien und Herzegowina. Sie ist ein Eckpfeiler der Lebensmittelindustrie im Distrikt Brčko und verarbeitet Ölsaaten für den gesamten regionalen Markt.",
@@ -980,8 +952,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "factory",
     name: { de: "Prevent Lederfabrik Visoko", hu: "Visokói Prevent Bőrgyár", ro: "Fabrica de Piele Prevent Visoko", en: "Prevent Visoko Factory"},
-    image: "/poi-images/bosniaherzegovina-visoko-prevent-factory-economic-v2.webp",
-    coords: [18.1758, 44.0042],
     coords: [18.1758, 44.0042],
     description: {
       de: "Prevent Visoko ist ein weltweit führender Zulieferer für die Automobilindustrie, spezialisiert auf die Verarbeitung von Leder und die Herstellung von Sitzbezügen. Die Stadt Visoko blickt auf eine jahrhundertelange Tradition im Lederhandwerk zurück.",
@@ -1027,8 +997,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "factory",
     name: { de: "Bekto Precisa Goražde", hu: "Bekto Precisa Goražde", ro: "Bekto Precisa Goražde", en: "Bekto Precisa Goražde"},
-    image: "/poi-images/bosniaherzegovina-gorazde-bekto-precisa-economic-v2.webp",
-    coords: [18.9814, 43.6764],
     coords: [18.9814, 43.6764],
     description: {
       de: "Bekto Precisa in Goražde ist ein hochmodernes Unternehmen für den Bau von Präzisionswerkzeugen und Spritzgussformen. Es hat Goražde zu einem Symbol für erfolgreiche industrielle Transformation nach dem Krieg gemacht.",
@@ -1074,8 +1042,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "factory",
     name: { de: "Coca-Cola Abfüllanlage Hadžići", hu: "Hadžići Coca-Cola Palackozó", ro: "Unitatea de Îmbuteliere Coca-Cola Hadžići", en: "Coca-Cola HBC Hadžići"},
-    image: "/poi-images/bosniaherzegovina-hadzici-coca-cola-economic-v2.webp",
-    coords: [18.2258, 43.8342],
     coords: [18.2258, 43.8342],
     description: {
       de: "Die Abfüllanlage von Coca-Cola HBC in Hadžići bei Sarajevo ist eine der modernsten Produktionsstätten für Erfrischungsgetränke in der Region. Sie versorgt den gesamten Inlandsmarkt und setzt Maßstäbe in der Logistik.",
@@ -1123,7 +1089,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     name: { de: "Violeta Fabrik Grude", hu: "Grudei Violeta Gyár", ro: "Fabrica Violeta Grude", en: "Violeta Grude Factory"},
     image: "/poi-images/bosniaherzegovina-grude-violeta-factory-economic-v2.webp",
     coords: [17.4144, 43.3661],
-    coords: [17.4144, 43.3661],
     description: {
       de: "Violeta in Grude ist die erfolgreichste bosnische Marke für Hygieneartikel. Die Fabrik produziert Papierprodukte und Reinigungsmittel, die weit über die Landesgrenzen hinaus in ganz Südosteuropa verkauft werden.",
       hu: "A grudei Violeta a legsikeresebb boszniai higiéniai termékmárka. A gyár papírtermékeket és tisztítószereket gyárt, amelyeket az ország határain túl is értékesítenek egész Délkelet-Európában.",
@@ -1167,8 +1132,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "factory",
     name: { de: "FEAL Široki Brijeg", hu: "Široki Brijeg-i FEAL", ro: "FEAL Široki Brijeg", en: "FEAL Široki Brijeg"},
-    image: "/poi-images/bosniaherzegovina-siroki-brijeg-feal-economic-v2.webp",
-    coords: [17.5942, 43.3852],
     coords: [17.5942, 43.3852],
     description: {
       de: "FEAL ist ein führender Spezialist für Aluminiumprofile und Konstruktionssysteme mit Sitz in Široki Brijeg. Das Unternehmen beliefert anspruchsvolle Projekte im Fassadenbau weltweit und ist ein technologischer Vorreiter in der Region.",
@@ -1216,7 +1179,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     name: { de: "Hafen Brčko", hu: "Brčkói Kikötő", ro: "Portul Brčko", en: "Port of Brčko"},
     image: "/poi-images/bosniaherzegovina-brcko-river-port-economic-v2.webp",
     coords: [18.8211, 44.8744],
-    coords: [18.8211, 44.8744],
     description: {
       de: "Der Hafen von Brčko ist der einzige internationale Flusshafen in Bosnien und Herzegowina und liegt an der schiffbaren Sava. Er dient als wichtigster trimodaler Logistikpunkt, der Wasserweg, Schiene und Straße verbindet.",
       hu: "A brčkói kikötő az egyetlen nemzetközi folyami kikötő Bosznia-Hercegovinában, a hajózható Száva folyón található. Fontos trimodális logisztikai pontként szolgál, amely összeköti a vízi utat, a vasutat és a közutat.",
@@ -1260,8 +1222,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "industry",
     name: { de: "Agrarregion Semberija", hu: "Semberija Mezőgazdasági Régió", ro: "Regiunea Agricolă Semberija", en: "Semberija Agricultural Region"},
-    image: "/poi-images/bosniaherzegovina-semberija-agriculture-economic-v2.webp",
-    coords: [19.2158, 44.7542],
     coords: [19.2158, 44.7542],
     description: {
       de: "Semberija ist das fruchtbarste Flachland Bosniens und das Zentrum der Nahrungsmittelproduktion. Die Region um Bijeljina gilt als die Kornkammer des Landes und liefert den Großteil des Getreides und Gemüses.",
@@ -1352,8 +1312,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "city",
     name: { de: "Gewerbezone PC-96 Vitez", hu: "Vitezi PC-96 Üzleti Zóna", ro: "Zona de Afaceri PC-96 Vitez", en: "Vitez PC-96 Business Zone"},
-    image: "/poi-images/bosniaherzegovina-vitez-business-zone-economic-v2.webp",
-    coords: [17.7911, 44.1544],
     coords: [17.7911, 44.1544],
     description: {
       de: "Die Geschäftszone PC-96 in Vitez ist eines der erfolgreichsten Zentren für Handel und Leichtindustrie in Zentralbosnien. Sie entstand nach 1996 und beherbergt Hunderte von Unternehmen aus verschiedenen Branchen.",
@@ -1399,8 +1357,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "industry",
     name: { de: "Wasserkraftwerk Višegrad", hu: "Višegradi Vízerőmű", ro: "Hidrocentrala Višegrad", en: "Višegrad Hydroelectric Power Plant"},
-    image: "/poi-images/bosniaherzegovina-visegrad-hydro-economic-v2.webp",
-    coords: [19.2942, 43.7664],
     coords: [19.2942, 43.7664],
     description: {
       de: "Das Wasserkraftwerk Višegrad nutzt die Drina zur Energiegewinnung und ist eine der wichtigsten Anlagen im Osten des Landes. Es verfügt über eine 67 Meter hohe Staumauer, die den großen Višegrad-Stausee bildet.",
@@ -1446,8 +1402,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "industry",
     name: { de: "Wasserkraftwerk Rama", hu: "Ramai Vízerőmű", ro: "Hidrocentrala Rama", en: "Rama Hydroelectric Power Plant"},
-    image: "/poi-images/bosniaherzegovina-rama-hydro-economic-v2.webp",
-    coords: [17.5311, 43.7464],
     coords: [17.5311, 43.7464],
     description: {
       de: "Das Wasserkraftwerk Rama nutzt das Wasser des Rama-Sees, einem der schönsten Stauseen des Landes. Es ist ein Hochdruckkraftwerk, das durch seine enorme Fallhöhe eine hocheffiziente Stromerzeugung ermöglicht.",
@@ -1493,8 +1447,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "factory",
     name: { de: "Natron-Hayat Maglaj", hu: "Natron-Hayat Maglaj", ro: "Natron-Hayat Maglaj", en: "Natron-Hayat Maglaj"},
-    image: "/poi-images/bosniaherzegovina-maglaj-natron-hayat-economic-v2.webp",
-    coords: [18.1064, 44.5552],
     coords: [18.1064, 44.5552],
     description: {
       de: "Natron-Hayat in Maglaj ist eine der größten Papier- und Zellstofffabriken auf dem Balkan. Das Werk wurde mit türkischem Kapital modernisiert und exportiert Papierverpackungen in die ganze Welt.",
@@ -1540,8 +1492,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     parent: "BA",
     type: "mine",
     name: { de: "Salzwerk Tuzla", hu: "Tuzlai Sóbánya és Lepárló", ro: "Salina și Fabrica de Sare Tuzla", en: "Tuzla Salt Works"},
-    image: "/poi-images/bosniaherzegovina-tuzla-salt-works-economic-v2.webp",
-    coords: [18.6811, 44.5452],
     coords: [18.6811, 44.5452],
     description: {
       de: "Tuzla verdankt seinen Namen und seine wirtschaftliche Geschichte den reichen Salzvorkommen. Das moderne Salzwerk verarbeitet Sole aus den unterirdischen Lagern und produziert hochwertiges Speise- und Industriesalz.",
@@ -2777,7 +2727,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     name: { de: "Geschäftsviertel Banja Luka", hu: "Banja Luka-i Üzleti Negyed", ro: "Districtul de Afaceri Banja Luka", en: "Banja Luka Business District"},
     image: "/poi-images/bosniaherzegovina-banja-luka-business-district-economic-v2.webp",
     coords: [17.1942, 44.7764],
-    coords: [17.1942, 44.7764],
     description: {
       de: "Das Geschäftsviertel von Banja Luka ist das administrative und finanzielle Zentrum der Republika Srpska. Es beherbergt die wichtigsten Regierungsgebäude, Banken und Zentralen großer Telekommunikationsunternehmen.",
       hu: "Banja Luka üzleti negyede a Boszniai Szerb Köztársaság adminisztratív és pénzügyi központja. Itt találhatók a legfontosabb kormányzati épületek, bankok és a nagy távközlési vállalatok központjai.",
@@ -3371,7 +3320,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     type: "city",
     name: { de: "Börse Sarajevo (SASE)", hu: "Szarajevói Tőzsde (SASE)", ro: "Bursa de Valori Sarajevo (SASE)", en: "Sarajevo Stock Exchange (SASE)"},
     image: "/poi-images/bosniaherzegovina-sarajevo-stock-exchange-economic-v2.webp",
-    coords: [18.4111, 43.8564],
     coords: [18.4111, 43.8564],
     description: {
       de: "Die Börse von Sarajevo ist der wichtigste Kapitalmarkt in der Föderation Bosnien und Herzegowina. Sie ist das finanzielle Herz der Hauptstadt und spielt eine entscheidende Rolle bei der Privatisierung und Investitionslenkung.",

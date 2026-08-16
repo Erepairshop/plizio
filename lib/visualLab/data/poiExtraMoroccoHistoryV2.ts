@@ -417,7 +417,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Volubilis római romjai",
       ro: "Ruinele romane de la Volubilis",
       en: "Roman City of Volubilis"},
-    image: "/poi-images/ma-volubilis-history-v2.webp",
     description: {
       de: "Eine der am besten erhaltenen römischen Ausgrabungsstätten in Nordafrika mit wunderschönen Mosaiken. Die Stadt war ein wichtiges Zentrum der Olivenölproduktion im antiken Imperium.",
       hu: "Észak-Afrika egyik legjobb állapotban fennmaradt római kori ásatása, amely gyönyörű mozaikjairól híres. A város az ókori birodalom olívaolaj-termelésének fontos központja volt.",
@@ -654,7 +653,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Aït Benhaddou kszárja",
       ro: "Ksarul Ait Benhaddou",
       en: "Ksar of Ait Benhaddou"},
-    image: "/poi-images/ma-ait-benhaddou-history-v2.webp",
     descriptionAdvanced: {
       de: "Aït Benhaddou ist ein beeindruckendes Beispiel marokkanischer Lehmarchitektur und liegt an den Ausläufern des Hohen Atlas im Ounila-Tal. Dieser befestigte Ksar wurde entlang der alten Karawanenroute zwischen der Sahara und Marrakesch errichtet und diente über Jahrhunderte als wichtiger Handelsposten. Die Anlage besteht aus zahlreichen ineinander verschachtelten Häusern, Türmen und Speichern, die alle aus rötlichem Lehm gestampft wurden. Seit 1987 gehört der Ort zum UNESCO-Weltkulturerbe und gilt als eines der besterhaltenen Ensembles dieser Art in Nordafrika. Berühmt wurde Aït Benhaddou auch als Drehort für zahlreiche internationale Filmproduktionen wie 'Lawrence von Arabien' oder 'Gladiator'. Während die meisten Bewohner heute in modernen Siedlungen auf der anderen Flussseite leben, beherbergt der Ksar immer noch einige Familien, die die Traditionen pflegen. Die Architektur spiegelt die soziale Hierarchie und die Verteidigungsbedürfnisse der damaligen Zeit wider, wobei die Gemeinschaftsspeicher (Agadirs) auf dem höchsten Punkt der Siedlung thronen.",
       hu: "Aït Benhaddou a marokkói vályogépítészet lenyűgöző példája, amely a Magas-Atlasz lábánál, az Ounila-völgyben található. Ezt a megerősített falut (ksar) a Szahara és Marrákes közötti ősi karavánút mentén építették fel, és évszázadokon át fontos kereskedelmi állomásként szolgált. Az együttes számos egymásba fonódó házból, toronyból és raktárból áll, amelyeket vöröses vályogból és sárból emeltek. 1987 óta az UNESCO Világörökség része, és Észak-Afrika egyik legjobb állapotban fennmaradt ilyen jellegű épületegyüttesének számít. Aït Benhaddou számos nemzetközi filmprodukció, például az 'Arábiai Lawrence' vagy a 'Gladiátor' forgatási helyszíneként is világhírre tett szert. Bár a legtöbb lakó ma már a folyó túloldalán lévő modern településen él, a ksarban még mindig lakik néhány család, akik őrzik a hagyományokat. Az építészet hűen tükrözi az akkori társadalmi hierarchiát és védelmi igényeket, a közösségi magtárakkal (agadírok) a település legmagasabb pontján.",
@@ -894,7 +892,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Koutoubia mecset",
       ro: "Moscheea Koutoubia",
       en: "Koutoubia Mosque"},
-    image: "/poi-images/ma-koutoubia-mosque-history-v2.webp",
     description: {
       de: "Die größte Moschee in Marrakesch mit einem fast 70 Meter hohen Minarett, das als Vorbild für die Giralda in Sevilla diente. Sie ist das Wahrzeichen der Stadt.",
       hu: "Marrákes legnagyobb mecsetje, amelynek közel 70 méter magas minaretje a sevillai Giralda mintájául is szolgált. A város szimbóluma.",
@@ -942,7 +939,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Hasszán-torony",
       ro: "Turnul Hassan",
       en: "Hassan Tower"},
-    image: "/poi-images/ma-hassan-tower-history-v2.webp",
     description: {
       de: "Das unvollendete Minarett einer großen Moschee, die Ende des 12. Jahrhunderts vom Almohaden-Sultan Yacoub al-Mansour in Auftrag gegeben wurde. Heute stehen nur noch der Turm und zahlreiche Säulen.",
       hu: "Egy befejezetlen minaret, amelyet a 12. század végén Yacoub al-Mansour almohád szultán rendelt el. Ma már csak a torony és számos oszlop áll.",
@@ -1071,7 +1067,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Chellah nekropolisz",
       ro: "Necropola Chellah",
       en: "Chellah Necropolis"},
-    image: "/poi-images/ma-chellah-history-v2.webp",
     description: {
       de: "Eine faszinierende Stätte, die sowohl römische Ruinen (Sala Colonia) als auch eine islamische Nekropole der Meriniden-Dynastie umfasst. Viele Störche nisten heute in den Ruinen.",
       hu: "Lenyűgöző helyszín, amely egyaránt magába foglal római romokat (Sala Colonia) és a Merinidák iszlám nekropoliszát. Ma sok gólya fészkel a romok között.",
@@ -1200,7 +1195,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Al-Qarawiyyin",
       ro: "Al-Qarawiyyin",
       en: "Al-Qarawiyyin"},
-    image: "/poi-images/ma-al-qarawiyyin-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Al-Qarawiyyin-Moschee und Universität in Fès gilt als die älteste kontinuierlich betriebene Bildungseinrichtung der Welt. Sie wurde im Jahr 859 von Fatima al-Fihri gegründet, einer gebildeten Erbin, die ihr Vermögen dem Bau eines religiösen und intellektuellen Zentrums widmete. Ursprünglich als Moschee konzipiert, entwickelte sich der Komplex schnell zu einem bedeutenden Ort für islamische Wissenschaften und Rechtswissenschaft. Unter der Almoraviden-Dynastie im 12. Jahrhundert erfuhr das Bauwerk massive Erweiterungen, die ihm sein heutiges architektonisches Gepräge mit über 200 Säulen und prächtigen Bögen verliehen. Die angeschlossene Bibliothek, die im 14. Jahrhundert von Sultan Abu Inan Faris formalisiert wurde, beherbergt Tausende seltener Manuskripte. Das Institut war über Jahrhunderte ein geistiger Treffpunkt für Gelehrte wie Ibn Chaldun und Maimonides. Heute ist die Al-Qarawiyyin sowohl ein spirituelles Zentrum als auch ein UNESCO-Weltkulturerbe, das bis zu 22.000 Gläubige aufnehmen kann.",
       hu: "A fezi al-Karavijjín mecset és egyetem a világ legrégebbi, folyamatosan működő felsőoktatási intézményeként ismert. Az intézményt 859-ben alapította Fatima al-Fihri, egy jómódú örökösnő, aki vagyonát egy közösségi vallási és tanulmányi központ létrehozására fordította. Az eredetileg mecsetként induló komplexum hamar az iszlám tudományok és a jogtudomány egyik legfontosabb központjává vált. Az Almoravida dinasztia idején, a 12. században jelentős bővítéseken ment keresztül, ekkor nyerte el mai építészeti formáját a 270 oszloppal és díszes boltívekkel. A 14. században Abu Inan Faris szultán által alapított könyvtár ma is több ezer ritka kéziratot őriz. Az egyetem évszázadokon át olyan híres tudósoknak adott otthont, mint Ibn Khaldún és Maimonidész. Napjainkban az épületegyüttes az UNESCO Világörökség része, és egyszerre szolgál spirituális központként és akadémiai intézményként, befogadóképessége eléri a 22 000 főt.",
@@ -1548,7 +1542,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Bab Mansour kapu",
       ro: "Poarta Bab Mansour",
       en: "Bab Mansour Gate"},
-    image: "/poi-images/ma-bab-mansour-history-v2.webp",
     descriptionAdvanced: {
       de: "Bab Mansour el-Aleuj ist das monumentale Haupttor zur kaiserlichen Stadt von Sultan Moulay Ismail in Meknès. Es gilt als eines der prächtigsten Beispiele maurischer Architektur in Nordafrika. Der Bau wurde gegen Ende der Regierungszeit von Moulay Ismail begonnen und im Jahr 1732 von seinem Sohn, Moulay Abdallah, abgeschlossen. Das Tor ist nach dem Architekten Mansour benannt, einem zum Islam konvertierten Christen. Besonders markant sind die massiven Marmorsäulen an den Flanken, die ursprünglich aus der nahegelegenen römischen Siedlung Volubilis stammen. Die Fassade ist mit komplexen Zellige-Mosaiken und grünen Keramikfliesen geschmückt, die typisch für die Stadt Meknès sind. In den oberen Bereichen befinden sich arabische Inschriften, die das Tor und den Sultan preisen. Heute dient das Tor als beeindruckendes Symbol der einstigen kaiserlichen Macht und ist Teil des UNESCO-Weltkulturerbes der historischen Stadt Meknès.",
       hu: "A Bab Mansour el-Aleuj a monumentális főkapu, amely Moulay Ismail szultán császári városába vezet Meknesben. Észak-Afrika egyik legpompásabb mór építészeti alkotásaként tartják számon. Építését Moulay Ismail uralkodásának végén kezdték meg, és fia, Moulay Abdallah fejezte be 1732-ben. A kapu Mansour építészről kapta a nevét, aki egy iszlámra betért keresztény volt. Különösen jellegzetesek az oldalán található hatalmas márványoszlopok, amelyeket a közeli római Volubilis romjaiból hoztak ide. A homlokzatot bonyolult zellige mozaikok és Meknes városára jellemző zöld kerámiacsempék díszítik. A felső részeken arab feliratok láthatóak, amelyek a kaput és a szultánt dicsőítik. Napjainkban a kapu az egykori császári hatalom lenyűgöző szimbóluma, és Meknes történelmi városának részeként az UNESCO Világörökségének tagja.",
@@ -1823,7 +1816,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Bahia-palota",
       ro: "Palatul Bahia",
       en: "Bahia Palace"},
-    image: "/poi-images/ma-bahia-palace-history-v2.webp",
     descriptionAdvanced: {
       de: "Der Bahia-Palast in Marrakesch ist ein herausragendes Beispiel für die marokkanische Palastarchitektur des späten 19. Jahrhunderts. Der Name bedeutet 'der Glanzvolle' oder 'die Schöne'. Der Bau wurde in den 1860er Jahren von Si Moussa, dem Großvisier von Sultan Moulay Hassan, begonnen und später von seinem Sohn Ba Ahmed umfassend erweitert. Der Palast erstreckt sich über eine Fläche von etwa zwei Hektar und besteht aus einer Vielzahl von Räumen, Höfen und Gärten, die ohne einen zentralen Masterplan organisch gewachsen sind. Besonders beeindruckend sind die geschnitzten Zedernholzdecken, die filigranen Stuckarbeiten und die farbenfrohen Zellige-Mosaike. Der große Ehrenhof mit seinem Marmorboden ist eines der bekanntesten Merkmale des Komplexes. Während der französischen Protektoratszeit diente der Palast als Residenz für den Generalresidenten. Heute ist er für die Öffentlichkeit zugänglich und vermittelt einen tiefen Einblick in das luxuriöse Leben des marokkanischen Adels dieser Ära.",
       hu: "A marrákesi Bahia-palota a 19. század végi marokkói palotaépítészet kiemelkedő példája. Neve 'fényeset' vagy 'szépet' jelent. Az építkezést az 1860-as években kezdte meg Si Moussa, Moulay Hassan szultán nagyvezíre, majd fia, Ba Ahmed bővítette jelentősen. A palota mintegy két hektáros területen fekszik, és számos szobából, udvarból és kertből áll, amelyek központi terv nélkül, organikusan kapcsolódnak egymáshoz. Különösen lenyűgözőek a faragott cédrusfa mennyezetek, a finom stukkómunkák és a színes zellige mozaikok. A hatalmas, márvánnyal burkolt díszudvar a komplexum egyik legismertebb eleme. A francia protektorátus idején a palota a főrezidens lakhelyeként szolgált. Napjainkban látogatható a nagyközönség számára, és mély betekintést nyújt a korabeli marokkói nemesség fényűző életmódjába.",
@@ -1990,7 +1982,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "El Badi-palota",
       ro: "Palatul El Badi",
       en: "El Badi Palace"},
-    image: "/poi-images/ma-el-badi-palace-history-v2.webp",
     description: {
       de: "Einst ein prachtvoller Palast, der Ende des 16. Jahrhunderts von Sultan Ahmad al-Mansur erbaut wurde. Heute zeugen seine gewaltigen Ruinen von seiner einstigen Größe und Reichtum.",
       hu: "Egykor pompás palota, amelyet a 16. század végén Ahmad al-Mansur szultán építtetett. Ma már csak hatalmas romjai tanúskodnak egykori nagyságáról.",
@@ -2119,7 +2110,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Szaadida sírok",
       ro: "Mormintele Saadiene",
       en: "Saadian Tombs"},
-    image: "/poi-images/ma-saadian-tombs-history-v2.webp",
     description: {
       de: "Ein historischer Friedhof in Marrakesch, der die Gräber der Saadier-Sultane aus dem späten 16. Jahrhundert beherbergt. Die Anlage wurde erst 1917 wiederentdeckt.",
       hu: "Történelmi temető Marrákesben, amely a 16. század végi szaadida szultánok sírjait rejti. A komplexumot csak 1917-ben fedezték fel újra.",
@@ -2320,7 +2310,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Bou Inania madrasza",
       ro: "Medersa Bou Inania",
       en: "Bou Inania Madrasa"},
-    image: "/poi-images/ma-bou-inania-madrasa-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Medersa Bou Inania in Fès ist eines der herausragendsten Bauwerke der Meriniden-Architektur in Marokko. Sie wurde zwischen 1350 und 1355 von Sultan Abu Inan Faris erbaut. Das Besondere an dieser Madrasa ist, dass sie nicht nur als theologische Schule diente, sondern auch als Freitagsmoschee fungierte, was durch ihr prachtvolles Minaret deutlich wird. Die Architektur zeichnet sich durch eine unglaubliche Detailtiefe aus: geschnitztes Zedernholz, fein gearbeiteter Stuck und komplexe Zellige-Mosaike bedecken fast jede Oberfläche des zentralen Hofes. Ein kleiner Bach fließt durch den Hof und diente ursprünglich rituellen Waschungen. Gegenüber der Madrasa befindet sich die berühmte Wasseruhr Dar al-Magana, die ebenfalls aus der Merinidenzeit stammt. Die Bou Inania wurde im 18. und 20. Jahrhundert umfassend restauriert und gilt heute als eines der wenigen religiösen Gebäude in Marokko, das auch von Nicht-Muslimen betreten werden darf.",
       hu: "A fezi Bou Inania medresze a merinida építészet egyik legkiemelkedőbb alkotása Marokkóban. 1350 és 1355 között építtette Abu Inan Faris szultán. E medresze különlegessége, hogy nemcsak teológiai iskolaként szolgált, hanem pénteki mecsetként is funkcionált, amit díszes minaretje is jelez. Az építészetet a részletek hihetetlen gazdagsága jellemzi: faragott cédrusfa, finoman kidolgozott stukkó és összetett zellige mozaikok borítják a központi udvar szinte minden felületét. Az udvaron egy kis patak folyik keresztül, amely eredetileg rituális mosakodásra szolgált. A medreszével szemben található a híres Dar al-Magana vízi óra, amely szintén a merinida korból származik. A Bou Inaniát a 18. és a 20. században jelentősen restaurálták, és ma azon kevés vallási épületek egyike Marokkóban, amelyet nem muszlimok is látogathatnak.",
@@ -2991,7 +2980,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Oudayas Kasbah",
       ro: "Kasbah din Oudayas",
       en: "Kasbah of the Udayas"},
-    image: "/poi-images/ma-kasbah-udayas-history-v2.webp",
     description: {
       de: "Eine Festungsanlage aus dem 12. Jahrhundert an der Mündung des Bou Regreg in Rabat. Ihre malerischen, weiß-blau gestrichenen Gassen locken viele Besucher an.",
       hu: "A 12. századi erődítmény a Bou Regreg folyó torkolatánál Rabatban. Festői, kék-fehérre mázolt utcái sok látogatót vonzanak.",
@@ -3084,7 +3072,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Tinmal mecset",
       ro: "Moscheea Tinmal",
       en: "Tinmal Mosque"},
-    image: "/poi-images/ma-tinmal-mosque-history-v2.webp",
     description: {
       de: "Eine der wenigen Moscheen in Marokko, die von Nicht-Muslimen betreten werden darf. Sie liegt isoliert im Hohen Atlas und war das spirituelle Zentrum der Almohaden.",
       hu: "Azon kevés mecsetek egyike Marokkóban, ahová nem muszlimok is beléphetnek. A Magas-Atlaszban elszigetelten fekszik, az almohádok spirituális központja volt.",
@@ -3249,7 +3236,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Lixus romjai",
       ro: "Ruinele Lixus",
       en: "Lixus Ruins"},
-    image: "/poi-images/ma-lixus-ruins-history-v2.webp",
     description: {
       de: "Die antike phönizische und spätere römische Stadt Lixus in der Nähe von Larache. Nach der griechischen Mythologie befand sich hier der Garten der Hesperiden.",
       hu: "Az ókori föníciai, majd római város, Lixus, Larache közelében. A görög mitológia szerint itt volt a Heszperidák kertje.",
@@ -3774,7 +3760,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Heri es-Souani",
       ro: "Heri es-Souani",
       en: "Heri es-Souani"},
-    image: "/poi-images/ma-heri-es-souani-history-v2.webp",
     description: {
       de: "Massive historische Getreidespeicher und Ställe in Meknes, die im 18. Jahrhundert von Sultan Moulay Ismail zur Versorgung seiner 12.000 Pferde erbaut wurden.",
       hu: "Hatalmas történelmi magtárak és istállók Meknesben, amelyeket a 18. században Moulay Ismail szultán építtetett 12 000 lova ellátására.",
@@ -4119,7 +4104,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Taourirt Kasbah",
       ro: "Kasbah Taourirt",
       en: "Kasbah Taourirt"},
-    image: "/poi-images/ma-kasbah-taourirt-history-v2.webp",
     description: {
       de: "Eine beeindruckende Lehmfestung in Ouarzazate, die einst der mächtigen Glaoui-Familie gehörte. Ihre verschlungenen Gänge und dekorierten Räume spiegeln den Reichtum des Atlas-Adels wider.",
       hu: "Lenyűgöző vályogerőd Ouarzazate-ban, amely egykor a hatalmas Glaoui család tulajdona volt. Kanyargós folyosói az atlaszi nemesség gazdagságát tükrözik.",
@@ -4284,7 +4268,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Telouet Kasbah",
       ro: "Kasbah Telouet",
       en: "Kasbah Telouet"},
-    image: "/poi-images/ma-kasbah-telouet-history-v2.webp",
     description: {
       de: "Eine verfallende, aber einst prächtige Festung im Hohen Atlas. Sie war der Stammsitz der Familie El Glaoui und kontrollierte die wichtige Karawanenroute nach Marrakesch.",
       hu: "Omladozó, de egykor pompás erőd a Magas-Atlaszban. Az El Glaoui család székhelye volt, és a Marrákesbe vezető fontos karavánutat ellenőrizte.",
@@ -4377,7 +4360,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Moulay Ismail mauzóleuma",
       ro: "Mausoleul Moulay Ismail",
       en: "Mausoleum of Moulay Ismail"},
-    image: "/poi-images/ma-moulay-ismail-mausoleum-history-v2.webp",
     description: {
       de: "Die letzte Ruhestätte des berüchtigtsten Sultans Marokkos. Das Heiligtum in Meknes zeichnet sich durch ruhige Höfe, plätschernde Brunnen und feine Handwerkskunst aus.",
       hu: "Marokkó leghírhedtebb szultánjának végső nyughelye. A meknesi szentélyt csendes udvarok, csobogó szökőkutak és finom kézművesség jellemzi.",
@@ -4650,7 +4632,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Tangeri Dar el Makhzen",
       ro: "Dar el Makhzen Tanger",
       en: "Dar el Makhzen Tangier"},
-    image: "/poi-images/ma-dar-el-makhzen-tangier-history-v2.webp",
     description: {
       de: "Der ehemalige Sultanspalast in der Kasbah von Tanger, der heute ein Museum für marokkanische Kunst und Altertümer beherbergt. Er bietet zudem einen Panoramablick auf die Straße von Gibraltar.",
       hu: "Az egykori szultáni palota Tanger Kasbahjában, amely ma marokkói művészeti és régészeti múzeumnak ad otthont. Panorámás kilátást nyújt a Gibraltári-szorosra.",
@@ -5211,7 +5192,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Ben Youssef madrasza",
       ro: "Medersa Ben Youssef",
       en: "Ben Youssef Madrasa"},
-    image: "/poi-images/ma-medersa-ben-youssef-history-v2.webp",
     description: {
       de: "Eine islamische Hochschule in Marrakesch, die einst die größte in Nordafrika war. Die detaillierten Stuckarbeiten, Schnitzereien und Mosaike sind atemberaubend.",
       hu: "Iszlám főiskola Marrákesben, amely egykor Észak-Afrika legnagyobbja volt. Részletgazdag stukkómunkái, faragványai és mozaikjai lélegzetelállítóak.",
@@ -5835,7 +5815,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Amerikai Követség Tangierben",
       ro: "Legația Americană",
       en: "American Legation Tangier"},
-    image: "/poi-images/ma-american-legation-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Amerikanische Gesandtschaft in Tanger ist ein einzigartiges historisches Denkmal und das erste nationale Kulturerbe der USA außerhalb ihres Staatsgebiets. Das Gebäude wurde den Vereinigten Staaten im Jahr 1821 von Sultan Moulay Sulaiman geschenkt und diente über 140 Jahre lang als diplomatische Vertretung. Heute beherbergt das elegante Stadthaus ein Kulturzentrum, ein Museum und eine Forschungsbibliothek, die die engen Beziehungen zwischen Marokko und den USA dokumentieren. Marokko war das erste Land der Welt, das die Unabhängigkeit der USA im Jahr 1777 offiziell anerkannte. Die Architektur des Gebäudes ist eine gelungene Mischung aus marokkanischem Riad-Stil und europäisch-kolonialen Einflüssen. Im Inneren finden Besucher eine faszinierende Sammlung von Kunstwerken, historischen Karten und Exponaten über die Rolle Tangers während des Zweiten Weltkriegs. Ein besonderes Highlight ist der Paul-Bowles-Flügel, der dem berühmten amerikanischen Schriftsteller gewidmet ist, der einen Großteil seines Lebens in Tanger verbrachte. Das Institut ist ein lebendiger Ort des kulturellen Austauschs und ein Symbol für eine der längsten ununterbrochenen diplomatischen Freundschaften der Weltgeschichte.",
       hu: "A tangeri Amerikai Követség egyedülálló történelmi emlékmű, és az USA első nemzeti örökségi helyszíne saját területén kívül. Az épületet 1821-ben Moulay Sulaiman szultán ajándékozta az Egyesült Államoknak, és több mint 140 éven át szolgált diplomáciai képviseletként. Ma az elegáns városi ház kulturális központnak, múzeumnak és kutatókönyvtárnak ad otthont, amely Marokkó és az USA szoros kapcsolatait dokumentálja. Marokkó volt az első ország a világon, amely 1777-ben hivatalosan elismerte az USA függetlenségét. Az épület építészete a marokkói riad-stílus és az európai-gyarmati hatások sikeres keveréke. Odabent a látogatók műalkotások, történelmi térképek és Tanger második világháborús szerepéről szóló kiállítási tárgyak lenyűgöző gyűjteményét találják. Különleges látnivaló a Paul Bowles-szárny, amelyet a híres amerikai írónak szenteltek, aki élete nagy részét Tangerben töltötte. Az intézet a kulturális csere élő helyszíne, és a világtörténelem egyik leghosszabb, megszakítás nélküli diplomáciai barátságának szimbóluma.",
@@ -6003,7 +5982,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Agadir Oufella Kasbah",
       ro: "Kasbah-ul din Agadir Oufella",
       en: "Kasbah of Agadir Oufella"},
-    image: "/poi-images/ma-agadir-oufella-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Kasbah von Agadir Oufella, auch bekannt als die alte Kasbah, thront auf einem Hügel 236 Meter über dem Meeresspiegel und bietet einen spektakulären Blick auf den Hafen und die moderne Stadt. Sie wurde im Jahr 1540 von Sultan Muhammad al-Shaykh aus der Saadier-Dynastie erbaut, um die Stadt vor portugiesischen Angriffen zu schützen. Lange Zeit war sie ein blühendes Wohnviertel mit engen Gassen und einer bedeutenden jüdischen Gemeinde. Das Schicksal der Kasbah änderte sich tragisch am 29. Februar 1960, als ein verheerendes Erdbeben Agadir erschütterte und die Festung fast vollständig zerstörte. Heute sind hauptsächlich die gewaltigen Außenmauern erhalten geblieben, die jedoch in den letzten Jahren sorgfältig restauriert wurden. Eine markante arabische Inschrift an der Mauer lautet übersetzt: „Glaube an Gott und ehre den König“. Die Ruinenstätte ist heute ein Ort des Gedenkens und ein wichtiges Symbol für die Widerstandsfähigkeit der Stadt. Besucher können den Hügel zu Fuß oder mit der Seilbahn erreichen und die geschichtsträchtige Stille genießen, während die Sonne über dem Atlantik untergeht.",
       hu: "Agadir Oufella kasbah-ja, más néven a régi kasbah, egy dombon trónol 236 méterrel a tengerszint felett, és látványos kilátást nyújt a kikötőre és a modern városra. 1540-ben építtette Muhammad al-Shaykh szaadi szultán, hogy megvédje a várost a portugál támadásoktól. Hosszú ideig virágzó lakónegyed volt, szűk utcákkal és jelentős zsidó közösséggel. A kasbah sorsa tragikusan megváltozott 1960. február 29-én, amikor egy pusztító földrengés rázta meg Agadirt, és szinte teljesen romba döntötte az erődöt. Ma főként a hatalmas külső falak maradtak meg, amelyeket azonban az elmúlt években gondosan restauráltak. A falon egy feltűnő arab felirat olvasható, amelynek jelentése: „Higgy Istenben és tiszteld a királyt”. A romterület ma az emlékezés helyszíne és a város ellenállóképességének fontos szimbóluma. A látogatók gyalog vagy felvonóval érhetik el a dombot, és élvezhetik a történelmi csendet, miközben a nap lenyugszik az Atlanti-óceán felett.",
@@ -6279,7 +6257,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Sijilmasa romjai",
       ro: "Ruinele Sijilmasa",
       en: "Sijilmasa Ruins"},
-    image: "/poi-images/ma-sijilmasa-ruins-history-v2.webp",
     description: {
       de: "Die Überreste einer einst florierenden mittelalterlichen Karawanenstadt am Rande der Sahara. Sie war ein entscheidendes Zentrum für den Transsaharahandel von Gold und Salz.",
       hu: "Egy egykor virágzó középkori karavánváros maradványai a Szahara peremén. Döntő fontosságú központ volt a transzszaharai arany- és sókereskedelemben.",
@@ -6408,7 +6385,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Amridil Kasbah",
       ro: "Kasbah Amridil",
       en: "Kasbah Amridil"},
-    image: "/poi-images/ma-amridil-kasbah-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Kasbah Amridil in der Oase Skoura ist eine der ikonischsten und meistfotografierten Festungen Marokkos. Sie wurde im 17. Jahrhundert von der Familie Nasiri erbaut, die für ihre religiöse Gelehrsamkeit bekannt war. Die Kasbah diente ursprünglich sowohl als befestigtes Wohnhaus als auch als Bildungszentrum. Das Gebäude ist ein herausragendes Beispiel für die Lehmbauweise (Pisé) und zeichnet sich durch seine vier markanten Ecktürme aus, die mit aufwendigen geometrischen Mustern verziert sind. Die Struktur wurde im Laufe der Jahrhunderte von den Nachkommen der Gründerfamilie liebevoll instand gehalten, wodurch sie ihren ursprünglichen Charakter bewahren konnte. Im Inneren können Besucher traditionelle Wohnbereiche, Ölmühlen und Brottöfen besichtigen, die einen lebendigen Eindruck vom Leben in einer Oase vermitteln. Die kulturelle Bedeutung der Kasbah wird dadurch unterstrichen, dass ihr Bild auf dem marokkanischen 50-Dirham-Schein abgebildet ist. Amridil ist nicht nur ein privates Museum, sondern ein lebendiges Erbe, das die Architektur und den Lebensstil der Draa-Tal-Region verkörpert.",
       hu: "Az Amridil kasbah a Skoura-oázisban Marokkó egyik legikonikusabb és legtöbbet fényképezett erődje. A 17. században építtette a vallási műveltségéről ismert Nasiri család. A kasbah eredetileg erődített lakóházként és oktatási központként is szolgált. Az épület a vályogépítészet (pisé) kiemelkedő példája, amelyet négy jellegzetes saroktornya határoz meg, melyeket bonyolult geometrikus minták díszítenek. A szerkezetet az évszázadok során az alapító család leszármazottai szeretettel gondozták, így megőrizhette eredeti karakterét. Odabent a látogatók hagyományos lakrészeket, olajmalmokat és kemencéket tekinthetnek meg, amelyek szemléletes képet adnak az oázisbeli életről. A kasbah kulturális jelentőségét hangsúlyozza, hogy képe látható a marokkói 50 dirhamos bankjegyen. Amridil nemcsak egy magánmúzeum, hanem egy élő örökség, amely a Draa-völgy régiójának építészetét és életmódját testesíti meg.",
@@ -6576,7 +6552,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Borj Nord",
       ro: "Borj Nord",
       en: "Borj Nord"},
-    image: "/poi-images/ma-borj-nord-history-v2.webp",
     descriptionAdvanced: {
       de: "Der Borj Nord ist eine imposante Festungsanlage in Fès, die im Jahr 1582 unter dem Saadier-Sultan Ahmad al-Mansur erbaut wurde. Er liegt auf einem Hügel nördlich der Medina Fès el-Bali und diente dazu, die Stadt zu überwachen und vor Aufständen sowie externen Bedrohungen zu schützen. Die Architektur des Borj Nord ist stark von portugiesischen Militärbauten beeinflusst, was ihn von den traditionellen marokkanischen Festungen unterscheidet. Die sternförmige Grundstruktur ermöglichte eine effektive Verteidigung mit Kanonen. Seit 1963 beherbergt das Bauwerk das nationale Waffenmuseum (Musée des Armes), das eine der weltweit bedeutendsten Sammlungen dieser Art zeigt. Die Exponate umfassen über 8.000 Stücke, darunter prunkvolle Säbel, historische Gewehre und eine riesige Kanone aus der Schlacht von Alcácer-Quibir. Von den Terrassen der Festung aus haben Besucher einen der besten Panoramablicke über die gesamte Altstadt von Fès. Der Borj Nord ist ein faszinierendes Beispiel für die Militärgeschichte Marokkos und die technologische Entwicklung der Verteidigungsanlagen im 16. Jahrhundert.",
       hu: "A Borj Nord egy impozáns erődítmény Fèsben, amely 1582-ben épült Ahmad al-Mansur szaadi szultán idején. A Fès el-Bali medina északi részén található dombon fekszik, és célja a város felügyelete, valamint a felkelések és külső fenyegetések elleni védelem volt. A Borj Nord építészetére erősen hatottak a portugál katonai építmények, ami megkülönbözteti a hagyományos marokkói erődöktől. A csillag alakú alaprajz hatékony védelmet tett lehetővé ágyúkkal. 1963 óta az épület a Nemzeti Fegyvermúzeumnak (Musée des Armes) ad otthont, amely a világ egyik legjelentősebb ilyen jellegű gyűjteményét mutatja be. A kiállítási tárgyak több mint 8000 darabot számlálnak, köztük pompás szablyákat, történelmi puskákat és egy hatalmas ágyút az Alcácer-Quibir-i csatából. Az erőd teraszairól a látogatók Fès egész óvárosára nyíló egyik legjobb panorámát élvezhetik. A Borj Nord Marokkó katonai történelmének és a 16. századi védelmi rendszerek technológiai fejlődésének lenyűgöző példája.",
@@ -6743,7 +6718,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Tamnougalt kszárja",
       ro: "Ksar Tamnougalt",
       en: "Ksar Tamnougalt"},
-    image: "/poi-images/ma-ksar-tamnougalt-history-v2.webp",
     description: {
       de: "Eines der ältesten Lehmdörfer im Draa-Tal, das einst die historische Hauptstadt der Mezguita-Region war. Seine Kasbahs und Gassen sind ein Labyrinth aus Geschichte.",
       hu: "A Draa-völgy egyik legrégebbi vályogfalva, amely egykor a Mezguita régió történelmi fővárosa volt. Kasbah-i és sikátorai a történelem igazi labirintusa.",
@@ -7016,7 +6990,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Dar Batha Múzeum",
       ro: "Muzeul Dar Batha",
       en: "Dar Batha Museum"},
-    image: "/poi-images/ma-dar-batha-history-v2.webp",
     description: {
       de: "Ein ehemaliger Königspalast im andalusischen Stil in Fes, der Ende des 19. Jahrhunderts erbaut wurde. Heute beherbergt er ein Museum für traditionelle marokkanische Kunst und Handwerk.",
       hu: "Egy andalúz stílusú egykori királyi palota Fesben, amelyet a 19. század végén építettek. Ma hagyományos marokkói művészeti és kézműves múzeumnak ad otthont.",
@@ -7577,7 +7550,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Rabati királyi palota",
       ro: "Palatul Regal din Rabat",
       en: "Dar al-Makhzen Rabat"},
-    image: "/poi-images/ma-dar-al-makhzen-rabat-history-v2.webp",
     description: {
       de: "Der offizielle Sitz des Königs von Marokko. Der weitläufige Palastkomplex in der Hauptstadt Rabat beeindruckt durch seine massiven Tore und die bewachte Paradefläche.",
       hu: "Marokkó királyának hivatalos rezidenciája. A fővárosban, Rabatban található hatalmas palotakomplexum lenyűgöző hatalmas kapuival és őrzött parádés terével.",
@@ -7778,7 +7750,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
       hu: "Chouara cserzőüzemek",
       ro: "Tăbăcăriile Chouara",
       en: "Chouara Tanneries"},
-    image: "/poi-images/ma-chouara-tanneries-history-v2.webp",
     description: {
       de: "Eine der ältesten Ledergerbereien der Welt, gelegen in der historischen Medina von Fes. Hier wird Leder noch immer mit denselben Methoden wie vor tausend Jahren bearbeitet.",
       hu: "A világ egyik legrégebbi bőrcserző üzeme a fesi medinában. Itt a bőrt még mindig ugyanolyan módszerekkel dolgozzák fel, mint ezer évvel ezelőtt.",

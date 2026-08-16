@@ -89,7 +89,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-MAG",
     coords: [-73.9242, 11.0383],
     name: { de: "Ciudad Perdida", hu: "Ciudad Perdida (Elveszett Város)", ro: "Ciudad Perdida", en: "Ciudad Perdida (Lost City)"},
-    image: "/poi-images/ciudad-perdida-history-v2.webp",
     description: {
       de: "Eine antike Stadt in der Sierra Nevada de Santa Marta, die von der Tairona-Kultur um 800 n. Chr. erbaut wurde.",
       hu: "Egy ősi város a Sierra Nevada de Santa Marta hegységben, amelyet a Tairona kultúra épített Kr. u. 800 körül.",
@@ -431,7 +430,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-BOL",
     coords: [-75.5391, 10.4225],
     name: { de: "Castillo San Felipe de Barajas", hu: "Castillo San Felipe de Barajas", ro: "Castillo San Felipe de Barajas", en: "Castillo San Felipe de Barajas"},
-    image: "/poi-images/castillo-san-felipe-history-v2.webp",
     description: {
       de: "Eine monumentale spanische Festung in Cartagena, die im 16. Jahrhundert zur Verteidigung gegen Piraten erbaut wurde.",
       hu: "Egy monumentális spanyol erőd Cartagenában, amelyet a 16. században építettek kalózok ellen.",
@@ -665,7 +663,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-HUI",
     coords: [-76.2238, 1.8841],
     name: { de: "Archäologischer Park San Agustín", hu: "San Agustín Régészeti Park", ro: "Parcul Arheologic San Agustín", en: "San Agustín Archaeological Park"},
-    image: "/poi-images/san-agustin-park-history-v2.webp",
     description: {
       de: "Die größte Sammlung von religiösen Monumenten und megalithischen Skulpturen in Südamerika.",
       hu: "A legnagyobb vallási műemlék- és megalitikus szoborgyűjtemény Dél-Amerikában.",
@@ -1403,7 +1400,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-CAU",
     coords: [-76.0333, 2.5833],
     name: { de: "Archäologischer Park Tierradentro", hu: "Tierradentro Régészeti Park", ro: "Parcul Arheologic Tierradentro", en: "Tierradentro Archaeological Park"},
-    image: "/poi-images/tierradentro-park-history-v2.webp",
     description: {
       de: "Bekannt für seine präkolumbianischen unterirdischen Grabkammern mit aufwendigen Wandmalereien.",
       hu: "Ismert a prekolumbián földalatti sírkamráiról, amelyeket bonyolult falfestmények díszítenek.",
@@ -1529,7 +1525,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-NAR",
     coords: [-77.5861, 0.8055],
     name: { de: "Santuario de Las Lajas", hu: "Las Lajas-bazilika", ro: "Sanctuarul Las Lajas", en: "Las Lajas Sanctuary"},
-    image: "/poi-images/las-lajas-sanctuary-history-v2.webp",
     description: {
       de: "Eine beeindruckende neugotische Kirche, die dramatisch in der Schlucht des Guáitara-Flusses erbaut wurde.",
       hu: "Egy lenyűgöző neogótikus templom, amely drámai módon épült a Guáitara-folyó szurdokába.",
@@ -2375,7 +2370,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-BOY",
     coords: [-73.5273, 5.6333],
     name: { de: "Plaza Mayor (Villa de Leyva)", hu: "Plaza Mayor (Villa de Leyva)", ro: "Plaza Mayor (Villa de Leyva)", en: "Plaza Mayor (Villa de Leyva)"},
-    image: "/poi-images/villa-de-leyva-plaza-history-v2.webp",
     description: {
       de: "Der größte kopfsteingepflasterte Platz in Kolumbien, umgeben von erhaltener Kolonialarchitektur aus dem 16. Jahrhundert.",
       hu: "Kolumbia legnagyobb macskaköves tere, amelyet 16. századi gyarmati építészet vesz körül.",
@@ -2913,7 +2907,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-BOY",
     coords: [-73.4313, 5.4411],
     name: { de: "Puente de Boyacá", hu: "Boyacá-híd", ro: "Podul Boyacá", en: "Puente de Boyacá"},
-    image: "/poi-images/puente-de-boyaca-history-v2.webp",
     description: {
       de: "Der Ort der entscheidenden Schlacht von Boyacá am 7. August 1819, die die Unabhängigkeit Kolumbiens sicherte.",
       hu: "Az 1819. augusztus 7-i döntő boyacái csata helyszíne, amely biztosította Kolumbia függetlenségét.",
@@ -4207,7 +4200,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-CUN",
     coords: [-74.0722, 4.5975],
     name: { de: "La Candelaria", hu: "La Candelaria (Bogotá)", ro: "La Candelaria", en: "La Candelaria"},
-    image: "/poi-images/la-candelaria-bogota-history-v2.webp",
     description: {
       de: "Das historische Viertel von Bogotá, bekannt für seine steilen Straßen, Kolonialhäuser und reiche Geschichte.",
       hu: "Bogotá történelmi negyede, amely meredek utcáiról, gyarmati házairól és gazdag történelméről ismert.",
@@ -5341,7 +5333,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-CAU",
     coords: [-76.6025, 2.443],
     name: { de: "El Morro del Tulcán", hu: "El Morro del Tulcán", ro: "El Morro del Tulcán", en: "El Morro del Tulcán"},
-    image: "/poi-images/morro-del-tulcan-history-v2.webp",
     description: {
       de: "Eine prähispanische Pyramide in Popayán, die von indigenen Völkern lange vor der Ankunft der Spanier errichtet wurde.",
       hu: "Egy prehispán piramis Popayánban, amelyet őslakos népek építettek jóval a spanyolok érkezése előtt.",
@@ -6007,7 +5998,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-MAG",
     coords: [-73.9616, 11.2864],
     name: { de: "Pueblito Chairama", hu: "Pueblito Chairama", ro: "Pueblito Chairama", en: "Pueblito Chairama"},
-    image: "/poi-images/pueblito-chairama-history-v2.webp",
     description: {
       de: "Ruinen eines alten Tairona-Dorfes im Tayrona-Nationalpark, die die Steinarchitektur der indigenen Kultur zeigen.",
       hu: "Egy ősi Tairona falu romjai a Tayrona Nemzeti Parkban, amelyek az őslakos kultúra kőépítészetét mutatják be.",
@@ -6277,7 +6267,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-BOL",
     coords: [-75.5862, 10.3238],
     name: { de: "Fuerte de San Fernando de Bocachica", hu: "San Fernando de Bocachica erőd", ro: "Fortul San Fernando de Bocachica", en: "Fort of San Fernando de Bocachica"},
-    image: "/poi-images/fort-san-fernando-bocachica-history-v2.webp",
     description: {
       de: "Eine Festung auf der Insel Tierrabomba, die die Hauptzufahrt zur Bucht von Cartagena schützte.",
       hu: "Egy erőd a Tierrabomba szigeten, amely a Cartagena-öböl fő bejáratát védte.",
@@ -7411,7 +7400,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-BOL",
     coords: [-75.5252, 10.4219],
     name: { de: "Convento de La Popa", hu: "La Popa kolostor", ro: "Mănăstirea La Popa", en: "Convento de la Popa"},
-    image: "/poi-images/monasterio-la-popa-history-v2.webp",
     description: {
       de: "Ein Kolonialkloster auf dem höchsten Punkt von Cartagena, das eine historische Kirche und einen Panoramablick bietet.",
       hu: "Egy gyarmati kolostor Cartagena legmagasabb pontján, amely történelmi templomot és panorámás kilátást kínál.",
@@ -8833,7 +8821,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-CUN",
     coords: [-74.0772, 4.5956],
     name: { de: "Casa de Nariño", hu: "Casa de Nariño", ro: "Casa de Nariño", en: "Casa de Nariño"},
-    image: "/poi-images/casa-de-narino-history-v2.webp",
     description: {
       de: "Der offizielle Sitz des Präsidenten von Kolumbien, benannt nach dem Unabhängigkeitsführer Antonio Nariño.",
       hu: "Kolumbia elnökének hivatalos rezidenciája, amelyet Antonio Nariño függetlenségi vezetőről neveztek el.",
@@ -9067,7 +9054,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-BOL",
     coords: [-75.5531, 10.4217],
     name: { de: "Santuario de San Pedro Claver", hu: "San Pedro Claver-szentély", ro: "Sanctuarul San Pedro Claver", en: "Sanctuary of Saint Peter Claver"},
-    image: "/poi-images/santuario-san-pedro-claver-history-v2.webp",
     description: {
       de: "Eine Kirche und ein Kloster in Cartagena, in dem die sterblichen Überreste von San Pedro Claver aufbewahrt werden.",
       hu: "Egy templom és kolostor Cartagenában, ahol San Pedro Claver földi maradványait őrzik.",
@@ -9301,7 +9287,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-SAN",
     coords: [-73.1673, 6.6346],
     name: { de: "Historisches Zentrum von Barichara", hu: "Barichara történelmi központja", ro: "Centrul Istoric Barichara", en: "Barichara Historic Centre"},
-    image: "/poi-images/barichara-historic-centre-history-v2.webp",
     description: {
       de: "Ein koloniales Dorf in Santander, berühmt für seine Straßen aus Stein und seine hervorragend erhaltene Architektur aus dem 18. Jahrhundert.",
       hu: "Egy gyarmati falu Santanderben, amely macskaköves utcáiról és kiválóan megőrzött 18. századi építészetéről híres.",
@@ -9695,7 +9680,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-CUN",
     coords: [-74.076, 4.598],
     name: { de: "Catedral Primada de Colombia", hu: "Kolumbia Prímás Katedrálisa", ro: "Catedrala Primată din Columbia", en: "Primary Cathedral of Colombia"},
-    image: "/poi-images/catedral-primada-colombia-history-v2.webp",
     description: {
       de: "Eine neoklassizistische Kathedrale am Plaza de Bolívar in Bogotá, die größte im Land.",
       hu: "Egy neoklasszikus katedrális a bogotái Plaza de Bolívaron, amely a legnagyobb az országban.",
@@ -10145,7 +10129,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-BOY",
     coords: [-73.0645, 5.7368],
     name: { de: "Pantano de Vargas Denkmal", hu: "Pantano de Vargas emlékmű", ro: "Monumentul Pantano de Vargas", en: "Pantano de Vargas Monument"},
-    image: "/poi-images/pantano-de-vargas-history-v2.webp",
     description: {
       de: "Ein massives Skulpturendenkmal, das an eine der härtesten Schlachten im kolumbianischen Unabhängigkeitskrieg erinnert.",
       hu: "Egy hatalmas szoboremlek, amely a kolumbiai függetlenségi háború egyik legkeményebb csatájának állít emléket.",
@@ -10523,7 +10506,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-CUN",
     coords: [-74.3541, 4.8197],
     name: { de: "Archäologischer Park Facatativá", hu: "Facatativá Régészeti Park", ro: "Parcul Arheologic Facatativá", en: "Facatativá Archaeological Park"},
-    image: "/poi-images/parque-arqueologico-facatativa-history-v2.webp",
     description: {
       de: "Bietet massive Felsformationen mit alten Piktogrammen, die vom indigenen Volk der Muisca hinterlassen wurden.",
       hu: "Hatalmas sziklaalakzatok találhatóak itt ősi piktogramokkal, amelyeket a muisca őslakos nép hagyott hátra.",
@@ -10937,7 +10919,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-BOY",
     coords: [-73.5739, 5.6366],
     name: { de: "Convento del Santo Ecce Homo", hu: "Santo Ecce Homo kolostor", ro: "Mănăstirea Santo Ecce Homo", en: "Convent of Santo Ecce Homo"},
-    image: "/poi-images/convento-santo-ecce-homo-history-v2.webp",
     description: {
       de: "Ein dominikanisches Kloster in der Nähe von Villa de Leyva, das im 17. Jahrhundert gegründet wurde.",
       hu: "Egy dominikánus kolostor Villa de Leyva közelében, amelyet a 17. században alapítottak.",
@@ -11099,7 +11080,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-CUN",
     coords: [-74.0739, 4.5973],
     name: { de: "Casa del Florero", hu: "Casa del Florero", ro: "Casa del Florero", en: "Museum of Independence - Casa del Florero"},
-    image: "/poi-images/casa-del-florero-history-v2.webp",
     description: {
       de: "Das historische Haus in Bogotá, wo ein Streit um eine Blumenvase am 20. Juli 1810 die Unabhängigkeitsbewegung auslöste.",
       hu: "A történelmi ház Bogotában, ahol egy virágváza körüli vita 1810. július 20-án kirobbantotta a függetlenségi mozgalmat.",
@@ -11225,7 +11205,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-CUN",
     coords: [-74.0765, 4.5961],
     name: { de: "Capitolio Nacional", hu: "Nemzeti Kapitólium", ro: "Capitoliul Național", en: "Capitolio Nacional"},
-    image: "/poi-images/capitolio-nacional-colombia-history-v2.webp",
     description: {
       de: "Der Sitz des kolumbianischen Kongresses, ein prächtiges neoklassizistisches Gebäude am Plaza de Bolívar.",
       hu: "A kolumbiai kongresszus székhelye, egy pompás neoklasszikus épület a Plaza de Bolívaron.",
@@ -11495,7 +11474,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-BOL",
     coords: [-75.5518, 10.4233],
     name: { de: "Palacio de la Inquisición", hu: "Inkvizíció Palotája", ro: "Palatul Inchiziției", en: "Palace of the Inquisition"},
-    image: "/poi-images/palacio-de-la-inquisicion-history-v2.webp",
     description: {
       de: "Ein koloniales Gebäude in Cartagena, das einst als Sitz der Spanischen Inquisition diente und heute ein historisches Museum ist.",
       hu: "Egy gyarmati épület Cartagenában, amely egykor a spanyol inkvizíció székhelyeként szolgált, ma pedig történelmi múzeum.",
@@ -12881,7 +12859,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-CUN",
     coords: [-74.0847, 4.6067],
     name: { de: "Estación de la Sabana", hu: "Estación de la Sabana", ro: "Gara de la Sabana", en: "La Sabana Railway Station"},
-    image: "/poi-images/estacion-de-la-sabana-history-v2.webp",
     description: {
       de: "Der historische Hauptbahnhof von Bogotá, ein nationales Denkmal der Architektur des frühen 20. Jahrhunderts.",
       hu: "Bogotá történelmi főpályaudvara, a 20. század eleji építészet nemzeti műemléke.",
@@ -13151,7 +13128,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-BOY",
     coords: [-73.1166, 5.7166],
     name: { de: "Monumento a los Lanceros", hu: "Lándzsások emlékműve", ro: "Monumentul Lăncierilor", en: "Monument to the Lancers"},
-    image: "/poi-images/monumento-a-los-lanceros-history-v2.webp",
     description: {
       de: "Ein riesiges Bronzedenkmal in Boyacá, das den mutigen Lanzenreitern der Schlacht von Pantano de Vargas gewidmet ist.",
       hu: "Egy hatalmas bronz emlékmű Boyacában, amelyet a pantano de vargasi csata bátor lándzsásainak szenteltek.",
@@ -13493,7 +13469,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     parent: "CO-CUN",
     coords: [-74.0725, 4.6014],
     name: { de: "Iglesia de San Francisco (Bogotá)", hu: "San Francisco templom (Bogotá)", ro: "Biserica San Francisco (Bogotá)", en: "Church of San Francisco (Bogotá)"},
-    image: "/poi-images/iglesia-de-san-francisco-bogota-history-v2.webp",
     description: {
       de: "Die älteste erhaltene Kirche in Bogotá, bekannt für ihren spektakulären holzgeschnitzten Altar aus dem 17. Jahrhundert.",
       hu: "Bogotá legrégebbi fennmaradt temploma, amely látványos, 17. századi fafaragott oltáráról ismert.",

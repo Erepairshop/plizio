@@ -8,7 +8,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-C",
     coords: [31.13, 30.06],
     name: { de: "Nil", hu: "Nílus", ro: "Nil", en: "Nile"},
-    image: "/poi-images/nilus-river-nature-v2.webp",
     description: { de: "Der längste Fluss der Welt, Lebensader Ägyptens.", hu: "A világ leghosszabb folyója, Egyiptom éltető ere.", ro: "Cel mai lung fluviu din lume, linia vitală a Egiptului.", en: "The longest river in the world, the lifeline of Egypt." , es: "El río más largo del mundo, arteria vital de Egipto.", pt: "O rio mais longo do mundo, a força vital do Egito.", fr: "Le plus long fleuve du monde, artère vitale de l'Égypte."},
     facts: {
       de: ["Fließt nach Norden", "Mündet ins Mittelmeer"],
@@ -43,7 +42,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-ASN",
     coords: [32.90, 22.80],
     name: { de: "Nasser-Stausee", hu: "Nasszer-tó", ro: "Lacul Nasser", en: "Lake Nasser"},
-    image: "/poi-images/nasser-see-lake-nature-v2.webp",
     description: { de: "Ein riesiger Stausee im Süden Ägyptens.", hu: "Egy hatalmas mesterséges tó Egyiptom déli részén.", ro: "Un lac artificial imens în sudul Egiptului.", en: "A massive reservoir in southern Egypt." , es: "Un enorme embalse en el sur de Egipto.", pt: "Um enorme reservatório no sul do Egito.", fr: "Un immense lac de retenue au sud de l'Égypte."},
     facts: {
       de: ["Durch den Assuan-Staudamm entstanden", "Einer der größten Stauseen der Welt"],
@@ -78,7 +76,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-BS",
     coords: [33.50, 24.50],
     name: { de: "Rotes Meer", hu: "Vörös-tenger", ro: "Marea Roșie", en: "Red Sea"},
-    image: "/poi-images/rotes-meer-sea-nature-v2.webp",
     description: { de: "Ein Nebenmeer des Indischen Ozeans zwischen Afrika und Asien.", hu: "Az Indiai-óceán melléktengere Afrika és Ázsia között.", ro: "O mare a Oceanului Indian între Africa și Asia.", en: "An inlet of the Indian Ocean between Africa and Asia." , es: "Un mar adyacente al océano Índico, entre África y Asia.", pt: "Um mar adjacente ao oceano Índico entre a África e a Ásia.", fr: "Une mer bordière de l'océan Indien située entre l'Afrique et l'Asie."},
     facts: {
       de: ["Bekannt für Korallenriffe", "Sehr salzhaltiges Wasser"],
@@ -158,7 +155,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-SIN",
     coords: [33.95, 28.50],
     name: { de: "Sinai-Gebirge", hu: "Sínai-hegység", ro: "Munții Sinai", en: "Sinai Mountains"},
-    image: "/poi-images/sinai-gebirge-mountain-nature-v2.webp",
     description: { de: "Eine Gebirgskette auf der Halbinsel Sinai.", hu: "Hegységrendszer a Sínai-félszigeten.", ro: "Un lanț muntos pe Peninsula Sinai.", en: "A mountain range on the Sinai Peninsula." , es: "Una cadena montañosa en la península del Sinaí.", pt: "Uma cordilheira na Península do Sinai.", fr: "Une chaîne de montagnes sur la péninsule du Sinaï."},
     facts: {
       de: ["Historisch bedeutsam", "Wüstenklima"],
@@ -193,7 +189,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-MT",
     coords: [27.00, 29.50],
     name: { de: "Qattara-Senke", hu: "Kattara-mélyföld", ro: "Depresiunea Qattara", en: "Qattara Depression"},
-    image: "/poi-images/qattara-depression-lake-nature-v2.webp",
     description: { de: "Eine tiefliegende Senke in der Libyschen Wüste.", hu: "Mélyföld a Líbiai-sivatagban.", ro: "O depresiune adâncă în Deșertul Libian.", en: "A deep basin in the Libyan Desert." , es: "Una depresión profunda en el desierto líbico.", pt: "Uma depressão profunda no deserto da Líbia.", fr: "Une dépression profonde dans le désert Libyque."},
     facts: {
       de: ["Unter dem Meeresspiegel", "Salzseen und Sümpfe"],
@@ -228,7 +223,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-MT",
     coords: [25.50, 29.20],
     name: { de: "Siwa-Oase", hu: "Siwa-oázis", ro: "Oaza Siwa", en: "Siwa Oasis"},
-    image: "/poi-images/siwa-oase-lake-nature-v2.webp",
     description: { de: "Eine isolierte Oase in der Wüste mit Salzseen.", hu: "Elszigetelt oázis a sivatagban, sós tavakkal.", ro: "O oază izolată în deșert cu lacuri sărate.", en: "An isolated oasis in the desert with salt lakes." , es: "Un oasis aislado en el desierto con lagos salados.", pt: "Um oásis isolado no deserto com lagos salgados.", fr: "Une oasis isolée dans le désert avec des lacs salés."},
     facts: {
       de: ["Berühmt für Dattelpalmen", "Alte Traditionen"],
@@ -263,7 +257,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-RS",
     coords: [36.30, 22.20],
     name: { de: "Gebel Elba", hu: "Gebel Elba", ro: "Gebel Elba", en: "Gebel Elba"},
-    image: "/poi-images/gebel-elba-mountain-nature-v2.webp",
     description: { de: "Ein Berg im Südosten Ägyptens mit hoher Biodiversität.", hu: "Hegy Egyiptom délkeleti részén, nagy biológiai sokféleséggel.", ro: "Un munte în sud-estul Egiptului cu biodiversitate ridicată.", en: "A mountain in southeast Egypt with high biodiversity." , es: "Una montaña en el sureste de Egipto con alta biodiversidad.", pt: "Uma montanha no sudeste do Egipto com elevada biodiversidade.", fr: "Une montagne du sud-est de l'Égypte dotée d'une grande biodiversité."},
     facts: {
       de: ["Nationalparkgebiet", "Nebelwald-ähnlich"],
@@ -298,7 +291,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-WAD",
     coords: [30.50, 24.50],
     name: { de: "Baris-Oase", hu: "Baris-oázis", ro: "Oaza Baris", en: "Baris Oasis"},
-    image: "/poi-images/baris-oase-lake-nature-v2.webp",
     description: { de: "Eine Oase in der Westlichen Wüste.", hu: "Oázis a Nyugati-sivatagban.", ro: "O oază în Deșertul de Vest.", en: "An oasis in the Western Desert." , es: "Un oasis en el Desierto Occidental.", pt: "Um oásis no Deserto Ocidental.", fr: "Une oasis dans le désert occidental."},
     facts: {
       de: ["Landwirtschaftlich genutzt", "Teil der Kharga-Oasen"],
@@ -333,7 +325,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-MT",
     coords: [28.90, 28.35],
     name: { de: "Bahariya-Oase", hu: "Baharija-oázis", ro: "Oaza Bahariya", en: "Bahariya Oasis"},
-    image: "/poi-images/bahariya-oase-lake-nature-v2.webp",
     description: { de: "Oase in der Westlichen Wüste mit heißen Quellen.", hu: "Oázis a Nyugati-sivatagban, meleg vizű forrásokkal.", ro: "Oază în Deșertul de Vest cu izvoare termale.", en: "Oasis in the Western Desert with hot springs." , es: "Oasis en el Desierto Occidental con manantiales de agua caliente.", pt: "Oásis no Deserto Ocidental com fontes termais.", fr: "Oasis dans le désert occidental avec des sources chaudes."},
     facts: {
       de: ["Funde von Dinosaurier-Fossilien", "Thermalquellen"],
@@ -368,7 +359,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-WAD",
     coords: [27.90, 27.00],
     name: { de: "Farafra-Oase", hu: "Farafra-oázis", ro: "Oaza Farafra", en: "Farafra Oasis"},
-    image: "/poi-images/farafra-oase-lake-nature-v2.webp",
     description: { de: "Bekannt für die Weiße Wüste in der Nähe.", hu: "A közeli Fehér-sivatagról ismert.", ro: "Cunoscută pentru Deșertul Alb din apropiere.", en: "Known for the White Desert nearby." , es: "Conocido por el Desierto Blanco que se encuentra cerca.", pt: "Conhecido pelo Deserto Branco nas proximidades.", fr: "Connue pour le désert Blanc situé à proximité."},
     facts: {
       de: ["Weiße Kreideformationen", "Einzigartige Landschaft"],
@@ -556,7 +546,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-WAD",
     coords: [29.00, 25.50],
     name: { de: "Dakhla-Oase", hu: "Dakhla-oázis", ro: "Oaza Dakhla", en: "Dakhla Oasis"},
-    image: "/poi-images/dakhla-oase-lake-nature-v2.webp",
     description: { de: "Eine fruchtbare Oase in der Westlichen Wüste.", hu: "Termékeny oázis a Nyugati-sivatagban.", ro: "O oază fertilă în Deșertul de Vest.", en: "A fertile oasis in the Western Desert." , es: "Un oasis fértil en el Desierto Occidental.", pt: "Um oásis fértil no Deserto Ocidental.", fr: "Une oasis fertile dans le désert occidental."},
     facts: {
       de: ["Viele kleine Dörfer", "Landwirtschaft"],
@@ -852,7 +841,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-WAD",
     coords: [30.55, 25.45],
     name: { de: "Kharga-Oase", hu: "Kharga-oázis", ro: "Oaza Kharga", en: "Kharga Oasis"},
-    image: "/poi-images/kharga-oase-lake-nature-v2.webp",
     description: { de: "Die größte Oase in der Westlichen Wüste Ägyptens.", hu: "A legnagyobb oázis Egyiptom Nyugati-sivatagában.", ro: "Cea mai mare oază din Deșertul de Vest al Egiptului.", en: "The largest oasis in Egypt's Western Desert." , es: "El oasis más grande del desierto occidental de Egipto.", pt: "O maior oásis no Deserto Ocidental do Egito.", fr: "La plus grande oasis du désert occidental égyptien."},
     facts: {
       de: ["Historischer Handelsort", "Wasserquellen"],
@@ -887,7 +875,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-C",
     coords: [31.20, 30.80],
     name: { de: "Nildelta", hu: "Nílus-delta", ro: "Delta Nilului", en: "Nile Delta"},
-    image: "/poi-images/niltal-delta-river-nature-v2.webp",
     description: { de: "Das fruchtbare Mündungsgebiet des Nils.", hu: "A Nílus termékeny torkolatvidéke.", ro: "Zona fertilă a estuarului Nilului.", en: "The fertile alluvial plain where the Nile river flows." , es: "La fértil zona de la desembocadura del Nilo.", pt: "A fértil zona da foz do Nilo.", fr: "La zone fertile de l'embouchure du Nil."},
     facts: {
       de: ["Sehr dicht besiedelt", "Wichtige Agrarregion"],
@@ -922,7 +909,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-KFS",
     coords: [30.80, 31.40],
     name: { de: "Burullus-See", hu: "Burullus-tó", ro: "Lacul Burullus", en: "Lake Burullus"},
-    image: "/poi-images/burullus-see-lake-nature-v2.webp",
     description: { de: "Ein Brackwassersee im Nildelta.", hu: "Sós vizű tó a Nílus-deltában.", ro: "Un lac cu apă salmastră în Delta Nilului.", en: "A brackish lake in the Nile Delta." , es: "Un lago de agua salobre en el delta del Nilo.", pt: "Um lago de água salobra no delta do Nilo.", fr: "Un lac d'eau saumâtre dans le delta du Nil."},
     facts: {
       de: ["Naturschutzgebiet", "Wichtiges Feuchtgebiet"],
@@ -957,7 +943,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-DK",
     coords: [32.00, 31.30],
     name: { de: "Manzala-See", hu: "Manzala-tó", ro: "Lacul Manzala", en: "Lake Manzala"},
-    image: "/poi-images/manzala-see-lake-nature-v2.webp",
     description: { de: "Der größte Lagunensee im Nildelta.", hu: "A legnagyobb lagúna a Nílus-deltában.", ro: "Cea mai mare lagună din Delta Nilului.", en: "The largest lagoon in the Nile Delta." , es: "El lago lagunar más grande del delta del Nilo.", pt: "O maior lago lagunar do Delta do Nilo.", fr: "Le plus grand lac lagunaire du delta du Nil."},
     facts: {
       de: ["Fischereiregion", "Salzhaltig"],
@@ -1037,7 +1022,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-BH",
     coords: [30.20, 31.30],
     name: { de: "Idku-See", hu: "Idku-tó", ro: "Lacul Idku", en: "Lake Idku"},
-    image: "/poi-images/idku-see-lake-nature-v2.webp",
     description: { de: "Ein flacher See im nördlichen Nildelta.", hu: "Sekély tó az északi Nílus-deltában.", ro: "Un lac puțin adânc în nordul Deltei Nilului.", en: "A shallow lake in the northern Nile Delta." , es: "Un lago poco profundo en el norte del delta del Nilo.", pt: "Um lago raso no norte do Delta do Nilo.", fr: "Un lac peu profond dans le nord du delta du Nil."},
     facts: {
       de: ["Brackwasser", "Wasservogel-Habitat"],
@@ -1072,7 +1056,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-ALX",
     coords: [29.90, 31.10],
     name: { de: "Mariut-See", hu: "Mariut-tó", ro: "Lacul Mariut", en: "Lake Mariut"},
-    image: "/poi-images/mariut-see-lake-nature-v2.webp",
     description: { de: "Ein See südlich von Alexandria.", hu: "Alexandriától délre fekvő tó.", ro: "Un lac la sud de Alexandria.", en: "A lake south of Alexandria." , es: "Un lago al sur de Alejandría.", pt: "Um lago ao sul de Alexandria.", fr: "Un lac au sud d'Alexandrie."},
     facts: {
       de: ["Durch Industrie belastet", "Ehemalige Ausdehnung größer"],
@@ -1296,7 +1279,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-FYM",
     coords: [30.60, 29.50],
     name: { de: "Qarun-See", hu: "Qarun-tó", ro: "Lacul Qarun", en: "Lake Qarun"},
-    image: "/poi-images/qarun-see-lake-nature-v2.webp",
     description: { de: "Ein Salzsee in der Faiyum-Oase.", hu: "Sós tó a Faiyum-oázisban.", ro: "Un lac sărat în Oaza Faiyum.", en: "A salt lake in the Faiyum Oasis." , es: "Un lago salado en el oasis de El Fayum.", pt: "Um lago salgado no oásis de Faiyum.", fr: "Un lac salé dans l'oasis du Fayoum."},
     facts: {
       de: ["Überreste eines größeren Sees", "Wichtiges Vogelschutzgebiet"],
@@ -1331,7 +1313,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-FYM",
     coords: [30.40, 29.10],
     name: { de: "Wadi El Rayan", hu: "Wadi El Rayan", ro: "Wadi El Rayan", en: "Wadi El Rayan"},
-    image: "/poi-images/wadi-el-rayan-lake-nature-v2.webp",
     description: { de: "Ein Gebiet mit zwei Seen und Wasserfällen.", hu: "Két tóból és vízesésekből álló terület.", ro: "O zonă cu două lacuri și cascade.", en: "An area with two lakes and waterfalls." , es: "Un área con dos lagos y cascadas.", pt: "Uma área com dois lagos e cascatas.", fr: "Une zone comprenant deux lacs et des cascades."},
     facts: {
       de: ["Nationalpark", "Einzige Wasserfälle Ägyptens"],
@@ -1447,7 +1428,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-SIN",
     coords: [33.90, 28.60],
     name: { de: "Gebel Katherina", hu: "Katalin-hegy", ro: "Gebel Katherina", en: "Mount Catherine"},
-    image: "/poi-images/gebels-alk-mountain-nature-v2.webp",
     description: { de: "Der höchste Berg Ägyptens.", hu: "Egyiptom legmagasabb hegye.", ro: "Cel mai înalt munte din Egipt.", en: "The highest mountain in Egypt." , es: "La montaña más alta de Egipto.", pt: "A montanha mais alta do Egipto.", fr: "La plus haute montagne d'Égypte."},
     facts: {
       de: ["Liegt auf der Sinai-Halbinsel", "Hohe Lage"],
@@ -1482,7 +1462,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-SIN",
     coords: [33.90, 28.50],
     name: { de: "Gebel Musa", hu: "Mózes-hegy", ro: "Gebel Musa", en: "Mount Sinai"},
-    image: "/poi-images/gebels-mousa-mountain-nature-v2.webp",
     description: { de: "Ein Berg von großer religiöser Bedeutung.", hu: "Nagy vallási jelentőségű hegy.", ro: "Un munte cu mare semnificație religioasă.", en: "A mountain of great religious significance." , es: "Una montaña de gran importancia religiosa.", pt: "Uma montanha de grande importância religiosa.", fr: "Une montagne d'une grande importance religieuse."},
     facts: {
       de: ["Traditioneller Ort der Offenbarung", "Pilgerziel"],
@@ -1517,7 +1496,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-SUZ",
     coords: [32.50, 29.30],
     name: { de: "Galala-Plateau", hu: "Galala-fennsík", ro: "Platoul Galala", en: "Galala Plateau"},
-    image: "/poi-images/galala-plateau-mountain-nature-v2.webp",
     description: { de: "Ein Hochplateau östlich des Niltals.", hu: "Fennsík a Nílus-völgyétől keletre.", ro: "Un platou înalt la est de Valea Nilului.", en: "A high plateau east of the Nile Valley." , es: "Una meseta elevada al este del valle del Nilo.", pt: "Um planalto elevado a leste do vale do Nilo.", fr: "Un haut plateau à l'est de la vallée du Nil."},
     facts: {
       de: ["Kalksteinplateau", "Wüstenlandschaft"],
@@ -1552,7 +1530,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-RS",
     coords: [33.40, 26.80],
     name: { de: "Gebel Shayib el-Banat", hu: "Gebel Shayib el-Banat", ro: "Gebel Shayib el-Banat", en: "Gebel Shayib el-Banat"},
-    image: "/poi-images/gebels-shayib-mountain-nature-v2.webp",
     description: { de: "Der höchste Berg außerhalb der Sinai-Halbinsel.", hu: "A legmagasabb hegy a Sínai-félszigeten kívül.", ro: "Cel mai înalt munte în afara Peninsulei Sinai.", en: "The highest mountain outside the Sinai Peninsula." , es: "La montaña más alta de Egipto fuera de la península del Sinaí.", pt: "A montanha mais alta do Egito fora da Península do Sinai.", fr: "La plus haute montagne d'Égypte en dehors de la péninsule du Sinaï."},
     facts: {
       de: ["Teil des Rotmeergebirges", "Schwierige Besteigung"],
@@ -1587,7 +1564,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-RS",
     coords: [33.80, 25.50],
     name: { de: "Gebel Hamada", hu: "Gebel Hamada", ro: "Gebel Hamada", en: "Gebel Hamada"},
-    image: "/poi-images/gebels-hamada-mountain-nature-v2.webp",
     description: { de: "Ein markanter Berg im Rotmeergebirge.", hu: "Jellegzetes hegy a Vörös-tengeri-hegységben.", ro: "Un munte distinctiv în Munții Mării Roșii.", en: "A prominent mountain in the Red Sea Mountains." , es: "Una montaña prominente en la cordillera del Mar Rojo.", pt: "Uma montanha marcante na cordilheira do Mar Vermelho.", fr: "Une montagne remarquable dans la chaîne de montagnes de la mer Rouge."},
     facts: {
       de: ["Wüstenberg", "Trockenes Klima"],
@@ -1622,7 +1598,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-RS",
     coords: [34.00, 25.00],
     name: { de: "Gebel Um Taghir", hu: "Gebel Um Taghir", ro: "Gebel Um Taghir", en: "Gebel Um Taghir"},
-    image: "/poi-images/gebels-umb-mountain-nature-v2.webp",
     description: { de: "Ein Gebirgsmassiv nahe Safaga.", hu: "Hegyvonulat Safaga közelében.", ro: "Un masiv muntos lângă Safaga.", en: "A mountain massif near Safaga." , es: "Un macizo montañoso cerca de Safaga.", pt: "Um maciço montanhoso perto de Safaga.", fr: "Un massif montagneux près de Safaga."},
     facts: {
       de: ["Karge Landschaft", "Bergbau-Region"],
@@ -1657,7 +1632,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-ASN",
     coords: [31.60, 22.30],
     name: { de: "Insel bei Abu Simbel", hu: "Sziget Abu Szimbelnél", ro: "Insulă lângă Abu Simbel", en: "Island near Abu Simbel"},
-    image: "/poi-images/abuh-simbel-island-nature-v2.webp",
     description: { de: "Eine Insel im Nasser-Stausee.", hu: "Sziget a Nasszer-tóban.", ro: "O insulă în Lacul Nasser.", en: "An island in Lake Nasser." , es: "Una isla en el embalse de Nasser.", pt: "Uma ilha na albufeira de Nasser.", fr: "Une île dans le lac de retenue Nasser."},
     facts: {
       de: ["Kleine Insel", "Künstlicher See"],
@@ -1845,7 +1819,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-C",
     coords: [31.20, 30.05],
     name: { de: "Gezira-Insel", hu: "Gezira-sziget", ro: "Insula Gezira", en: "Gezira Island"},
-    image: "/poi-images/gezirah-island-nature-v2.webp",
     description: { de: "Eine Insel im Nil mitten in Kairo.", hu: "Sziget a Nílusban, Kairó közepén.", ro: "O insulă pe Nil în mijlocul orașului Cairo.", en: "An island in the Nile in the middle of Cairo." , es: "Una isla en el Nilo en pleno centro de El Cairo.", pt: "Uma ilha no Nilo, bem no centro do Cairo.", fr: "Une île sur le Nil au milieu du Caire."},
     facts: {
       de: ["Zentraler Stadtteil", "Parklandschaften"],
@@ -2249,7 +2222,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-SIN",
     coords: [34.50, 28.00],
     name: { de: "Golf von Aqaba", hu: "Akabai-öböl", ro: "Golful Aqaba", en: "Gulf of Aqaba"},
-    image: "/poi-images/rotem-sea-coral-sea-nature-v2.webp",
     description: { de: "Ein Meeresarm des Roten Meeres.", hu: "A Vörös-tenger egyik tengeröble.", ro: "Un braț al Mării Roșii.", en: "An inlet of the Red Sea." , es: "Un brazo del Mar Rojo.", pt: "Um braço do Mar Vermelho.", fr: "Un bras de la mer Rouge."},
     facts: {
       de: ["Wichtig für den Tourismus", "Tiefe Gewässer"],
@@ -2284,7 +2256,6 @@ export const poiExtraEgyptNatureV2: POI[] = [
     parent: "EG-SUZ",
     coords: [33.00, 28.50],
     name: { de: "Golf von Suez", hu: "Szuezi-öböl", ro: "Golful Suez", en: "Gulf of Suez"},
-    image: "/poi-images/suez-golf-sea-nature-v2.webp",
     description: { de: "Ein nördlicher Arm des Roten Meeres.", hu: "A Vörös-tenger északi tengeröble.", ro: "Un braț nordic al Mării Roșii.", en: "A northern arm of the Red Sea." , es: "Un brazo septentrional del Mar Rojo.", pt: "Um braço norte do Mar Vermelho.", fr: "Un bras nord de la mer Rouge."},
     facts: {
       de: ["Ölförderung", "Verbindung zum Suezkanal"],

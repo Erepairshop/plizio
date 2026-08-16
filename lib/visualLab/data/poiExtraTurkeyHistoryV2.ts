@@ -53,7 +53,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     parent: "TR-63",
     coords: [38.922, 37.223],
     name: { de: "Göbekli Tepe", hu: "Göbekli Tepe", ro: "Göbekli Tepe", en: "Göbekli Tepe"},
-    image: "/poi-images/gobekli-tepe-history-v2.webp",
     description: { de: "Göbekli Tepe ist eine der ältesten bekannten Tempelanlagen der Welt, erbaut vor etwa 12.000 Jahren.", hu: "A Göbekli Tepe a világ egyik legrégebbi ismert templomkomplexuma, amelyet mintegy 12 000 évvel ezelőtt építettek.", ro: "Göbekli Tepe este unul dintre cele mai vechi complexe de temple cunoscute din lume, construit acum aproximativ 12.000 de ani.", en: "Göbekli Tepe is one of the oldest known temple complexes in the world, built around 12,000 years ago." , es: "Göbekli Tepe es uno de los complejos de templos más antiguos conocidos del mundo, construido hace unos 12.000 años.", pt: "Göbekli Tepe é um dos complexos de templos mais antigos conhecidos do mundo, construído há cerca de 12.000 anos.", fr: "Göbekli Tepe est l'un des plus anciens complexes de temples connus au monde, construit il y a environ 12 000 ans."},
     facts: {
       de: ["Gilt als der erste Tempel der Menschheit.", "Besteht aus massiven, T-förmigen Kalksteinpfeilern."],
@@ -89,7 +88,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     parent: "TR-35",
     coords: [27.341, 37.939],
     name: { de: "Ephesos", hu: "Epheszosz", ro: "Efes", en: "Ephesus"},
-    image: "/poi-images/ephesus-history-v2.webp",
     description: { de: "Ephesos war eine der bedeutendsten und ältesten griechischen Städte Kleinasiens und später eine große römische Metropole.", hu: "Epheszosz Kis-Ázsia egyik legjelentősebb és legrégebbi görög városa volt, később pedig egy hatalmas római metropolisz.", ro: "Efes a fost unul dintre cele mai importante și vechi orașe grecești din Asia Mică și, mai târziu, o mare metropolă romană.", en: "Ephesus was one of the most important and oldest Greek cities in Asia Minor and later a major Roman metropolis." , es: "Éfeso fue una de las ciudades griegas más importantes y antiguas de Asia Menor y, posteriormente, una gran metrópolis romana.", pt: "Éfeso foi uma das cidades gregas mais importantes e antigas da Ásia Menor e, posteriormente, uma grande metrópole romana.", fr: "Éphèse était l'une des villes grecques les plus importantes et les plus anciennes d'Asie Mineure, puis une grande métropole romaine."},
     facts: {
       de: ["Heimat des Artemis-Tempels, eines der sieben Weltwunder.", "Die Celsus-Bibliothek ist ein berühmtes Wahrzeichen."],
@@ -125,7 +123,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     parent: "TR-17",
     coords: [26.238, 39.957],
     name: { de: "Troja", hu: "Trója", ro: "Troia", en: "Troy"},
-    image: "/poi-images/troy-history-v2.webp",
     description: { de: "Troja ist eine historische Stadt, die durch Homers Ilias als Schauplatz des Trojanischen Krieges weltberühmt wurde.", hu: "Trója egy történelmi város, amely Homérosz Iliászának köszönhetően a trójai háború helyszíneként vált világhírűvé.", ro: "Troia este un oraș istoric devenit faimos în întreaga lume prin Iliada lui Homer, ca loc al Războiului Troian.", en: "Troy is a historical city made world-famous by Homer's Iliad as the setting of the Trojan War." , es: "Troya es una ciudad histórica que se hizo mundialmente famosa a través de la Ilíada de Homero como escenario de la Guerra de Troya.", pt: "Tróia é uma cidade histórica que se tornou mundialmente famosa através da Ilíada de Homero como o cenário da Guerra de Tróia.", fr: "Troie est une ville historique devenue mondialement célèbre grâce à l'Iliade d'Homère, en tant que théâtre de la guerre de Troie."},
     facts: {
       de: ["Entdeckt im 19. Jahrhundert von Heinrich Schliemann.", "Besteht aus mehreren Siedlungsschichten."],
@@ -422,7 +419,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     parent: "TR-19",
     coords: [34.615, 40.019],
     name: { de: "Hattuša", hu: "Hattusa", ro: "Hattușa", en: "Hattusa"},
-    image: "/poi-images/hattusa-history-v2.webp",
     description: { de: "Hattuša war die Hauptstadt des hethitischen Großreiches und besticht durch monumentale Stadttore und Tempelanlagen.", hu: "Hattusa a Hettita Birodalom fővárosa volt, amely monumentális városkapuival és templomkomplexumaival nyűgöz le.", ro: "Hattușa a fost capitala Imperiului Hitit și impresionează prin porțile sale monumentale și complexele de temple.", en: "Hattusa was the capital of the Hittite Empire and impresses with its monumental city gates and temple complexes." , es: "Hattuša fue la capital del Imperio Hitita y destaca por sus monumentales puertas de la ciudad y complejos de templos.", pt: "Hattuša foi a capital do Império Hitita e destaca-se pelas suas monumentais portas da cidade e complexos de templos.", fr: "Hattuša était la capitale de l'Empire hittite et se distingue par ses portes monumentales et ses complexes de temples."},
     facts: {
       de: ["Bekannt für das Löwentor und das Königstor.", "Hier wurde der älteste bekannte Friedensvertrag gefunden."],
@@ -458,7 +454,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     parent: "TR-17",
     coords: [26.277, 40.245],
     name: { de: "Gallipoli", hu: "Gallipoli", ro: "Gallipoli", en: "Gallipoli"},
-    image: "/poi-images/gallipoli-history-v2.webp",
     description: { de: "Die Halbinsel Gallipoli war im Ersten Weltkrieg Schauplatz erbitterter Kämpfe zwischen den Alliierten und dem Osmanischen Reich.", hu: "A Gallipoli-félsziget az első világháborúban az antant és az Oszmán Birodalom közötti heves harcok helyszíne volt.", ro: "Peninsula Gallipoli a fost locul unor bătălii aprige între Aliați și Imperiul Otoman în Primul Război Mondial.", en: "The Gallipoli Peninsula was the site of fierce fighting between the Allies and the Ottoman Empire during World War I." , es: "La península de Galípoli fue escenario de feroces batallas entre los Aliados y el Imperio Otomano durante la Primera Guerra Mundial.", pt: "A península de Galípoli foi palco de ferozes batalhas entre os Aliados e o Império Otomano durante a Primeira Guerra Mundial.", fr: "La péninsule de Gallipoli a été le théâtre de combats acharnés entre les Alliés et l'Empire ottoman pendant la Première Guerre mondiale."},
     facts: {
       de: ["Die Schlacht fand 1915 statt.", "Ein bedeutender Gedenkort für Australien und Neuseeland (ANZAC)."],
@@ -494,7 +489,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     parent: "TR-02",
     coords: [38.761, 38.051],
     name: { de: "Nemrut Dağı", hu: "Nemrut-hegy", ro: "Muntele Nemrut", en: "Mount Nemrut"},
-    image: "/poi-images/mount-nemrut-history-v2.webp",
     description: { de: "Der Nemrut Dağı ist berühmt für seine gewaltigen Götterstatuen, die König Antiochos I. auf dem Gipfel errichten ließ.", hu: "A Nemrut-hegy híres hatalmas istenszobrairól, amelyeket I. Antiokhosz király emeltetett a csúcson.", ro: "Muntele Nemrut este faimos pentru statuile uriașe ale zeilor, ridicate de regele Antioh I pe vârf.", en: "Mount Nemrut is famous for its massive statues of gods, erected by King Antiochus I on the summit." , es: "El Nemrut Dağı es famoso por sus gigantescas estatuas de dioses que el rey Antíoco I hizo erigir en la cima.", pt: "O Nemrut Dağı é famoso pelas suas gigantescas estátuas de deuses que o rei Antíoco I mandou erigir no cume.", fr: "Le Nemrut Dağı est célèbre pour ses gigantesques statues de dieux que le roi Antiochos Ier a fait ériger au sommet."},
     facts: {
       de: ["Der Berg ist 2150 Meter hoch.", "Die Statuenköpfe sind heute vom Rumpf getrennt."],
@@ -575,7 +569,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     parent: "TR-61",
     coords: [39.658, 40.690],
     name: { de: "Sumela-Kloster", hu: "Sümela-kolostor", ro: "Mănăstirea Sumela", en: "Sumela Monastery"},
-    image: "/poi-images/sumela-monastery-history-v2.webp",
     description: { de: "Das Sumela-Kloster ist ein beeindruckendes griechisch-orthodoxes Kloster, das spektakulär in eine steile Felswand gebaut wurde.", hu: "A Sümela-kolostor egy lenyűgöző görögkeleti kolostor, amely látványosan egy meredek sziklafalba épült.", ro: "Mănăstirea Sumela este o mănăstire greco-ortodoxă impresionantă, construită spectaculos pe o stâncă abruptă.", en: "The Sumela Monastery is an impressive Greek Orthodox monastery spectacularly built into a steep cliff face." , es: "El Monasterio de Sumela es un impresionante monasterio greco-ortodoxo construido espectacularmente en una escarpada pared rocosa.", pt: "O Mosteiro de Sumela é um impressionante mosteiro greco-ortodoxo construído espetacularmente numa parede rochosa íngreme.", fr: "Le monastère de Sumela est un impressionnant monastère gréco-orthodoxe construit de manière spectaculaire dans une paroi rocheuse abrupte."},
     facts: {
       de: ["Gegründet im späten 4. Jahrhundert.", "Befindet sich auf 1200 Metern Höhe im Altındere-Nationalpark."],
@@ -611,7 +604,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     parent: "TR-20",
     coords: [29.126, 37.925],
     name: { de: "Hierapolis", hu: "Hierapolisz", ro: "Hierapolis", en: "Hierapolis"},
-    image: "/poi-images/hierapolis-history-v2.webp",
     description: { de: "Hierapolis war eine antike griechische Stadt, die sich nahe den Thermalquellen von Pamukkale befand.", hu: "Hierapolisz egy ókori görög város volt, amely Pamukkale hőforrásainak közelében helyezkedett el.", ro: "Hierapolis a fost un oraș grecesc antic situat lângă izvoarele termale din Pamukkale.", en: "Hierapolis was an ancient Greek city located near the thermal springs of Pamukkale." , es: "Hierápolis fue una antigua ciudad griega situada cerca de las fuentes termales de Pamukkale.", pt: "Hierápolis foi uma antiga cidade grega situada perto das fontes termais de Pamukkale.", fr: "Hiérapolis était une cité grecque antique située près des sources thermales de Pamukkale."},
     facts: {
       de: ["Verfügt über ein sehr gut erhaltenes römisches Theater.", "Galt in der Antike als bedeutendes Heilzentrum."],
@@ -908,7 +900,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     parent: "TR-36",
     coords: [43.640, 40.507],
     name: { de: "Ani", hu: "Ani", ro: "Ani", en: "Ani"},
-    image: "/poi-images/ani-history-v2.webp",
     description: { de: "Ani war einst eine prächtige armenische Hauptstadt, die heute als verlassene Ruinenstadt an der türkisch-armenischen Grenze liegt.", hu: "Ani egykor pompás örmény főváros volt, amely ma elhagyatott romvárosként fekszik a török-örmény határon.", ro: "Ani a fost odată o capitală armeană magnifică, situată astăzi ca un oraș în ruine la granița turco-armeană.", en: "Ani was once a magnificent Armenian capital, now lying as an abandoned ruined city on the Turkish-Armenian border." , es: "Ani fue una vez una magnífica capital armenia, que hoy yace como una ciudad en ruinas abandonada en la frontera entre Turquía y Armenia.", pt: "Ani foi uma vez uma magnífica capital armênia, que hoje permanece como uma cidade em ruínas abandonada na fronteira entre a Turquia e a Armênia.", fr: "Ani fut autrefois une magnifique capitale arménienne, qui gît aujourd'hui comme une ville en ruines abandonnée à la frontière entre la Turquie et l'Arménie."},
     facts: {
       de: ["Bekannt als die Stadt der 1001 Kirchen.", "War ein wichtiger Knotenpunkt der Seidenstraße."],
@@ -1097,7 +1088,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     parent: "TR-42",
     coords: [32.827, 37.667],
     name: { de: "Çatalhöyük", hu: "Çatalhöyük", ro: "Çatalhöyük", en: "Çatalhöyük"},
-    image: "/poi-images/catalhoyuk-history-v2.webp",
     description: { de: "Çatalhöyük ist eine der ältesten und größten stadtähnlichen Siedlungen der Jungsteinzeit.", hu: "Çatalhöyük az újkőkorszak egyik legrégebbi és legnagyobb városszerű települése.", ro: "Çatalhöyük este una dintre cele mai vechi și mai mari așezări de tip urban din perioada neolitică.", en: "Çatalhöyük is one of the oldest and largest urban-like settlements of the Neolithic period." , es: "Çatalhöyük es uno de los asentamientos de estilo urbano más antiguos y grandes del Neolítico.", pt: "Çatalhöyük é um dos assentamentos de estilo urbano mais antigos e maiores do Neolítico.", fr: "Çatalhöyük est l'un des plus anciens et des plus grands établissements de style urbain du Néolithique."},
     facts: {
       de: ["Die Häuser hatten keine Türen und wurden über das Dach betreten.", "Bewohnt zwischen 7100 und 5700 vor Christus."],
@@ -1133,7 +1123,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     parent: "TR-35",
     coords: [27.184, 39.131],
     name: { de: "Pergamon", hu: "Pergamon", ro: "Pergam", en: "Pergamon"},
-    image: "/poi-images/pergamon-history-v2.webp",
     description: { de: "Pergamon war eine bedeutende antike Stadt und ein kulturelles Zentrum in Kleinasien, berühmt für seinen Altar.", hu: "Pergamon egy jelentős ókori város és kulturális központ volt Kis-Ázsiában, oltáráról volt híres.", ro: "Pergam a fost un oraș antic important și un centru cultural în Asia Mică, faimos pentru altarul său.", en: "Pergamon was a major ancient city and a cultural center in Asia Minor, famous for its altar." , es: "Pergamon fue una importante ciudad antigua y centro cultural en Asia Menor, famosa por su altar.", pt: "Pergamon foi uma cidade antiga significativa e um centro cultural na Ásia Menor, famosa pelo seu altar.", fr: "Pergamon était une cité antique majeure et un centre culturel en Asie mineure, célèbre pour son autel."},
     facts: {
       de: ["Besaß die zweitgrößte Bibliothek der antiken Welt.", "Der originale Pergamonaltar befindet sich heute in Berlin."],
@@ -1169,7 +1158,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     parent: "TR-09",
     coords: [28.724, 37.708],
     name: { de: "Aphrodisias", hu: "Aphrodisias", ro: "Aphrodisias", en: "Aphrodisias"},
-    image: "/poi-images/aphrodisias-history-v2.webp",
     description: { de: "Aphrodisias war eine kleine antike griechische Stadt in der historischen Region Karien, berühmt für ihren Aphrodite-Kult.", hu: "Aphrodisias egy kis ókori görög város volt a történelmi Kária régióban, híres volt Aphrodité-kultuszáról.", ro: "Aphrodisias a fost un mic oraș grecesc antic în regiunea istorică Caria, faimos pentru cultul său dedicat Afroditei.", en: "Aphrodisias was a small ancient Greek city in the historic region of Caria, famous for its cult of Aphrodite." , es: "Aphrodisias fue una pequeña ciudad griega antigua en la región histórica de Caria, famosa por su culto a Afrodita.", pt: "Aphrodisias foi uma pequena cidade grega antiga na região histórica da Cária, famosa pelo seu culto a Afrodite.", fr: "Aphrodisias était une petite ville grecque antique dans la région historique de Carie, célèbre pour son culte d'Aphrodite."},
     facts: {
       de: ["Die Stadt hatte eine hoch angesehene Bildhauerschule.", "Das antike Stadion ist eines der am besten erhaltenen weltweit."],
@@ -1205,7 +1193,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     parent: "TR-07",
     coords: [30.464, 36.982],
     name: { de: "Termessos", hu: "Termesszosz", ro: "Termessos", en: "Termessos"},
-    image: "/poi-images/termessos-history-v2.webp",
     description: { de: "Termessos ist eine der am besten erhaltenen antiken Städte der Türkei, dramatisch in einem steilen Tal gelegen.", hu: "Termesszosz Törökország egyik legjobb állapotban fennmaradt ókori városa, drámai módon egy meredek völgyben helyezkedik el.", ro: "Termessos este unul dintre cele mai bine conservate orașe antice din Turcia, situat dramatic într-o vale abruptă.", en: "Termessos is one of the best-preserved ancient cities in Turkey, dramatically located in a steep valley." , es: "Termessos es una de las ciudades antiguas mejor conservadas de Turquía, situada dramáticamente en un valle escarpado.", pt: "Termessos é uma das cidades antigas mais bem preservadas da Turquia, situada dramaticamente num vale íngreme.", fr: "Termessos est l'une des cités antiques les mieux préservées de Turquie, située de façon spectaculaire dans une vallée abrupte."},
     facts: {
       de: ["Sogar Alexander der Große scheiterte bei dem Versuch, die Stadt zu erobern.", "Befindet sich auf einer Höhe von über 1000 Metern."],
@@ -1322,7 +1309,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     parent: "TR-50",
     coords: [34.735, 38.373],
     name: { de: "Derinkuyu", hu: "Derinkuyu", ro: "Derinkuyu", en: "Derinkuyu"},
-    image: "/poi-images/derinkuyu-history-v2.webp",
     description: { de: "Derinkuyu ist eine antike unterirdische Stadt, die bis zu 20.000 Menschen mit ihrem Vieh und ihren Vorräten Schutz bot.", hu: "Derinkuyu egy ókori földalatti város, amely akár 20 000 ember számára is menedéket nyújtott állataikkal és készleteikkel együtt.", ro: "Derinkuyu este un oraș subteran antic care oferea adăpost pentru până la 20.000 de oameni, cu vitele și proviziile lor.", en: "Derinkuyu is an ancient underground city that provided shelter for up to 20,000 people along with their livestock and supplies." , es: "Derinkuyu es una antigua ciudad subterránea que albergó hasta 20.000 personas con su ganado y suministros.", pt: "Derinkuyu é uma antiga cidade subterrânea que abrigou até 20.000 pessoas com o seu gado e mantimentos.", fr: "Derinkuyu est une ancienne ville souterraine qui a abrité jusqu'à 20 000 personnes avec leur bétail et leurs provisions."},
     facts: {
       de: ["Erreicht eine Tiefe von etwa 85 Metern.", "Besteht aus mehreren durch Tunnel verbundenen Ebenen."],
@@ -1475,7 +1461,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     parent: "TR-07",
     coords: [29.980, 36.258],
     name: { de: "Myra", hu: "Müra", ro: "Myra", en: "Myra"},
-    image: "/poi-images/myra-history-v2.webp",
     description: { de: "Myra war eine bedeutende lykische Stadt und ist bekannt für ihre in Felsen gehauenen Gräber und das antike Theater.", hu: "Müra egy jelentős lükiai város volt, amely sziklába vájt sírjairól és ókori színházáról ismert.", ro: "Myra a fost un important oraș lician și este cunoscut pentru mormintele sale tăiate în stâncă și teatrul antic.", en: "Myra was a major Lycian city and is known for its rock-cut tombs and ancient theater." , es: "Myra fue una importante ciudad licia, famosa por sus tumbas excavadas en la roca y su antiguo teatro.", pt: "Myra foi uma cidade lícia significativa, conhecida pelos seus túmulos escavados na rocha e pelo seu teatro antigo.", fr: "Myra était une ville lycienne importante, célèbre pour ses tombeaux creusés dans la roche et son théâtre antique."},
     facts: {
       de: ["Nikolaus von Myra war hier im 4. Jahrhundert Bischof.", "Die lykischen Felsengräber sind in die Klippen eingemeißelt."],
@@ -1511,7 +1496,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     parent: "TR-06",
     coords: [32.836, 39.925],
     name: { de: "Anıtkabir", hu: "Anıtkabir", ro: "Anıtkabir", en: "Anıtkabir"},
-    image: "/poi-images/anitkabir-history-v2.webp",
     description: { de: "Anıtkabir ist das monumentale Mausoleum von Mustafa Kemal Atatürk, dem Gründer der modernen Türkischen Republik.", hu: "Az Anıtkabir Mustafa Kemal Atatürknek, a modern Török Köztársaság alapítójának monumentális mauzóleuma.", ro: "Anıtkabir este mausoleul monumental al lui Mustafa Kemal Atatürk, fondatorul Republicii Turce moderne.", en: "Anıtkabir is the monumental mausoleum of Mustafa Kemal Atatürk, the founder of the modern Turkish Republic." , es: "Anıtkabir es el mausoleo monumental de Mustafa Kemal Atatürk, el fundador de la moderna República Turca.", pt: "Anıtkabir é o mausoléu monumental de Mustafa Kemal Atatürk, o fundador da moderna República Turca.", fr: "Anıtkabir est le mausolée monumental de Mustafa Kemal Atatürk, le fondateur de la République turque moderne."},
     facts: {
       de: ["Der Bau dauerte fast zehn Jahre von 1944 bis 1953.", "Zieht jährlich Millionen von Besuchern an."],
@@ -1916,7 +1900,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     parent: "TR-27",
     coords: [37.868, 37.058],
     name: { de: "Zeugma", hu: "Zeugma", ro: "Zeugma", en: "Zeugma"},
-    image: "/poi-images/zeugma-history-v2.webp",
     description: { de: "Zeugma war eine antike Stadt am Euphrat, deren unglaubliche römische Mosaike heute Weltruhm genießen.", hu: "Zeugma egy ókori város volt az Eufrátesz mentén, amelynek hihetetlen római mozaikjai ma világhírűek.", ro: "Zeugma a fost un oraș antic pe Eufrat, ale cărui incredibile mozaicuri romane se bucură astăzi de faimă mondială.", en: "Zeugma was an ancient city on the Euphrates, whose incredible Roman mosaics now enjoy world fame." , es: "Zeugma fue una antigua ciudad a orillas del Éufrates, cuyos increíbles mosaicos romanos gozan hoy de fama mundial.", pt: "Zeugma foi uma cidade antiga nas margens do Eufrates, cujos incríveis mosaicos romanos gozam hoje de fama mundial.", fr: "Zeugma était une cité antique sur l'Euphrate, dont les incroyables mosaïques romaines jouissent aujourd'hui d'une renommée mondiale."},
     facts: {
       de: ["Ein Großteil der Stadt wurde durch einen Staudamm überflutet.", "Das Zeugma-Mosaik-Museum in Gaziantep beherbergt die Funde."],

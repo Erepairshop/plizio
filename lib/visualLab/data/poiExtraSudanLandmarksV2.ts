@@ -345,7 +345,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Meroé piramisai",
       ro: "Piramidele de la Meroe",
       en: "Pyramids of Meroe"},
-    image: "/poi-images/pyramids-of-meroe-landmarks-v2.webp",
     description: {
       de: "Eine beeindruckende Ansammlung antiker nubischer Pyramiden, die einst als Grabstätten für die Könige von Kusch dienten.",
       hu: "Lenyűgöző ókori núbiai piramiskomplexum, amely egykor a kusita királyok temetkezési helyéül szolgált.",
@@ -530,7 +529,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Szudáni Nemzeti Múzeum",
       ro: "Muzeul Național al Sudanului",
       en: "Sudan National Museum"},
-    image: "/poi-images/sudan-national-museum-landmarks-v2.webp",
     description: {
       de: "Das größte Museum des Landes beherbergt eine umfassende Sammlung zur sudanesischen Geschichte, einschließlich antiker nubischer Artefakte.",
       hu: "Az ország legnagyobb múzeuma, amely a szudáni történelem gazdag gyűjteményének, köztük ókori núbiai leleteknek ad otthont.",
@@ -715,7 +713,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Al-Nilin Mecset",
       ro: "Moscheea Al-Nilin",
       en: "Al-Nilin Mosque"},
-    image: "/poi-images/al-nilin-mosque-landmarks-v2.webp",
     description: {
       de: "Eine markante Moschee am Zusammenfluss von Weißem und Blauem Nil, bekannt für ihre einzigartige geodätische Kuppelkonstruktion.",
       hu: "A Fehér- és Kék-Nílus összefolyásánál álló feltűnő mecset, amely egyedi geodéziai kupolájáról híres.",
@@ -783,7 +780,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Tuti-híd",
       ro: "Podul Tuti",
       en: "Tuti Bridge"},
-    image: "/poi-images/tuti-bridge-landmarks-v2.webp",
     description: {
       de: "Eine moderne Hängebrücke, die die Hauptstadt Khartum mit der historischen und landwirtschaftlich geprägten Tuti-Insel verbindet.",
       hu: "Modern függőhíd, amely a fővárost, Kartúmot köti össze a történelmi és mezőgazdasági jellegű Tuti-szigettel.",
@@ -851,7 +847,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Kartúmi Elnöki Palota",
       ro: "Palatul Prezidențial din Khartoum",
       en: "Presidential Palace Khartoum"},
-    image: "/poi-images/presidential-palace-landmarks-v2.webp",
     description: {
       de: "Der offizielle Amtssitz der sudanesischen Regierung, ein majestätisches Gebäude am Ufer des Blauen Nils mit großer historischer Bedeutung.",
       hu: "A szudáni kormány hivatalos székhelye, egy fenséges történelmi épület a Kék-Nílus partján.",
@@ -907,7 +902,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Kalifa-ház Múzeum",
       ro: "Muzeul Casei Khalifa",
       en: "Khalifa House Museum"},
-    image: "/poi-images/khalifa-house-museum-landmarks-v2.webp",
     description: {
       de: "Das ehemalige Wohnhaus des Nachfolgers des Mahdi in Omdurman, heute ein Museum, das Artefakte aus der Mahdiyya-Zeit ausstellt.",
       hu: "A Mahdi utódjának egykori omdurmáni rezidenciája, ma a Mahdijja-korszak emlékeit bemutató múzeum.",
@@ -1128,7 +1122,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Mac Nimir-híd",
       ro: "Podul Mac Nimir",
       en: "Mac Nimir Bridge"},
-    image: "/poi-images/mac-nimir-bridge-landmarks-v2.webp",
     description: {
       de: "Eine der wichtigsten Verkehrsverbindungen über den Blauen Nil, die das Zentrum von Khartum mit der nördlichen Stadt Khartum Nord verbindet.",
       hu: "Az egyik legfontosabb közlekedési kapocs a Kék-Nílus felett, amely Kartúm központját köti össze Észak-Kartúmmal.",
@@ -1241,7 +1234,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Al-Kabir Mecset",
       ro: "Moscheea Al-Kabir",
       en: "Al Kabir Mosque"},
-    image: "/poi-images/al-kabir-mosque-khartoum-landmarks-v2.webp",
     description: {
       de: "Die große Zentralmoschee im Herzen von Khartum, ein wichtiges spirituelles Zentrum, das traditionelle und moderne islamische Architektur verbindet.",
       hu: "A kartúmi belváros nagy központi mecsetje, fontos spirituális központ, amely a hagyományos és modern iszlám építészetet ötvözi.",
@@ -1309,7 +1301,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Al-Fashir-i Nagymecset",
       ro: "Marea Moschee din Al-Fashir",
       en: "Great Mosque of Al-Fashir"},
-    image: "/poi-images/al-fashir-great-mosque-landmarks-v2.webp",
     description: {
       de: "Ein monumentales Gotteshaus im Bundesstaat Nord-Darfur, das durch seine charakteristische lokale Bauweise und kulturelle Bedeutung besticht.",
       hu: "Monumentális imaház Észak-Darfur államban, amely jellegzetes helyi építészetével és kulturális jelentőségével hívja fel magára a figyelmet.",
@@ -1377,7 +1368,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Omdurmáni Nagymecset",
       ro: "Marea Moschee din Omdurman",
       en: "Omdurman Grand Mosque"},
-    image: "/poi-images/omdurman-grand-mosque-landmarks-v2.webp",
     description: {
       de: "Eine der geschichtsträchtigsten Moscheen in der Zwillingsstadt Khartums, die als spiritueller Knotenpunkt für viele Sufi-Orden dient.",
       hu: "Az egyik legnagyobb történelmi múlttal rendelkező mecset Kartúm ikervárosában, amely számos szufi rend spirituális központjaként szolgál.",
@@ -1445,7 +1435,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Mahdi-mauzóleum",
       ro: "Mausoleul lui Mahdi",
       en: "Mahdi's Tomb"},
-    image: "/poi-images/mahdis-tomb-landmarks-v2.webp",
     description: {
       de: "Das beeindruckende Grabmal von Muhammad Ahmad, dem selbsternannten Mahdi, das mit seiner markanten Silberkuppel ein Wahrzeichen von Omdurman ist.",
       hu: "Muhammad Ahmad, az önjelölt Mahdi lenyűgöző síremléke, amely jellegzetes ezüst kupolájával Omdurmán egyik szimbóluma.",
@@ -1666,7 +1655,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Fehér-Nílus-híd",
       ro: "Podul Nilului Alb",
       en: "White Nile Bridge"},
-    image: "/poi-images/white-nile-bridge-landmarks-v2.webp",
     description: {
       de: "Eine der ältesten Stahlbrücken im Sudan, die Omdurman mit der Hauptstadt Khartum verbindet und täglich von Tausenden Pendlern genutzt wird.",
       hu: "Szudán egyik legrégebbi acélhídja, amely Omdurmánt köti össze a fővárossal, Kartúmmal, és naponta ingázók ezrei használják.",
@@ -1779,7 +1767,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Burri-híd",
       ro: "Podul Burri",
       en: "Burri Bridge"},
-    image: "/poi-images/burri-bridge-landmarks-v2.webp",
     description: {
       de: "Eine wichtige Brückenverbindung über den Blauen Nil, die den östlichen Teil von Khartum mit den Industriegebieten in Khartum Nord verbindet.",
       hu: "Fontos híd a Kék-Nílus felett, amely Kartúm keleti részét köti össze Észak-Kartúm ipari területeivel.",
@@ -1847,7 +1834,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "GNPOC Torony",
       ro: "Turnul GNPOC",
       en: "GNPOC Tower"},
-    image: "/poi-images/gnpoc-tower-landmarks-v2.webp",
     description: {
       de: "Ein markanter Wolkenkratzer in Khartum und Hauptsitz der Greater Nile Petroleum Operating Company, der den modernen Wirtschaftsboom symbolisiert.",
       hu: "Kartúm egyik jellegzetes felhőkarcolója, a Greater Nile Petroleum Operating Company székháza, amely a modern gazdasági fellendülést szimbolizálja.",
@@ -2068,7 +2054,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "NTC Torony",
       ro: "Turnul NTC",
       en: "NTC Tower"},
-    image: "/poi-images/ntc-tower-landmarks-v2.webp",
     description: {
       de: "Eines der höchsten Gebäude im Sudan, das als Sitz der National Telecommunication Corporation dient und eine futuristische Silhouette besitzt.",
       hu: "Szudán egyik legmagasabb épülete, amely a Nemzeti Távközlési Vállalat székhelyeként szolgál, és futurisztikus sziluettel rendelkezik.",
@@ -2181,7 +2166,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Corinthia Hotel Kartúm",
       ro: "Hotelul Corinthia Khartoum",
       en: "Corinthia Hotel Khartoum"},
-    image: "/poi-images/corinthia-hotel-khartoum-landmarks-v2.webp",
     description: {
       de: "Ein luxuriöses Fünf-Sterne-Hotel mit einer einzigartigen eiförmigen Architektur, das auch als 'Macadamia-Nuss' der Stadt bekannt ist.",
       hu: "Luxus ötcsillagos szálloda egyedi tojás alakú építészettel, amelyet a város 'makadámdiójaként' is emlegetnek.",
@@ -2434,7 +2418,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Jebel Barkal-i Ámon-templom",
       ro: "Templul lui Amon din Jebel Barkal",
       en: "Amun Temple of Jebel Barkal"},
-    image: "/poi-images/amun-temple-jebel-barkal-landmarks-v2.webp",
     description: {
       de: "Ein massives Tempelkomplex am Fuße des heiligen Berges Jebel Barkal, das als spirituelles Zentrum des antiken Reiches von Kusch diente.",
       hu: "Hatalmas templomkomplexum a szent Jebel Barkal hegy lábánál, amely az ókori Kusita Birodalom spirituális központjaként szolgált.",
@@ -2547,7 +2530,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Naqa-i Apedemak-templom",
       ro: "Templul lui Apedemak din Naqa",
       en: "Temple of Apedemak in Naqa"},
-    image: "/poi-images/temple-of-apedemak-naqa-landmarks-v2.webp",
     description: {
       de: "Ein bemerkenswert gut erhaltener antiker Tempelkomplex in der Wüste, gewidmet dem löwenköpfigen nubischen Gott Apedemak.",
       hu: "Kivételesen jó állapotban fennmaradt ókori templomkomplexum a sivatagban, amelyet az oroszlánfejű núbiai istennek, Apedemaknak szenteltek.",
@@ -2615,7 +2597,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Musawwarat es-Sufra",
       ro: "Marea Incintă din Musawwarat",
       en: "Musawwarat es-Sufra"},
-    image: "/poi-images/musawwarat-es-sufra-landmarks-v2.webp",
     description: {
       de: "Eine ausgedehnte meroitische Tempelanlage, die für ihre verwinkelten Korridore und unzähligen Elefantendarstellungen berühmt ist.",
       hu: "Kiterjedt meroitikus templomegyüttes, amely útvesztőszerű folyosóiról és számtalan elefántábrázolásáról híres.",
@@ -2904,7 +2885,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Nuri Piramisok",
       ro: "Piramidele de la Nuri",
       en: "Nuri Pyramids"},
-    image: "/poi-images/nuri-pyramids-landmarks-v2.webp",
     description: {
       de: "Ein bedeutender Friedhof mit den größten Pyramiden Nubiens, der als letzte Ruhestätte für König Taharqa und seine Nachfolger diente.",
       hu: "Jelentős temető Núbia legnagyobb piramisaival, amely Taharka király és utódainak végső nyughelyeként szolgált.",
@@ -3202,7 +3182,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Khatmiyya Mecset",
       ro: "Moscheea Khatmiyya",
       en: "Khatmiyya Mosque"},
-    image: "/poi-images/khatmiyya-mosque-landmarks-v2.webp",
     description: {
       de: "Eine der spektakulärsten Moscheen in Kassala, eingebettet am Fuße der steilen Taka-Berge, mit einem markanten oktogonalen Minarett.",
       hu: "Kasszala egyik leglátványosabb mecsete a meredek Taka-hegység lábánál, jellegzetes nyolcszögletű minarettel.",
@@ -3315,7 +3294,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Soleb-i Templom",
       ro: "Templul Soleb",
       en: "Soleb Temple"},
-    image: "/poi-images/soleb-temple-landmarks-v2.webp",
     description: {
       de: "Einer der am besten erhaltenen ägyptischen Tempel im Sudan, der von Amenophis III. erbaut und dem Gott Amun-Re gewidmet wurde.",
       hu: "Szudán egyik legjobb állapotban fennmaradt egyiptomi temploma, amelyet III. Amenhotep építtetett Ámon-Ré tiszteletére.",
@@ -3383,7 +3361,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Sesibi Templom",
       ro: "Templul Sesibi",
       en: "Sesibi Temple"},
-    image: "/poi-images/sesibi-temple-landmarks-v2.webp",
     description: {
       de: "Die Überreste eines altägyptischen Tempelkomplexes, der ursprünglich von Echnaton für den Sonnenkult von Aton gegründet wurde.",
       hu: "Egy ókori egyiptomi templomkomplexum maradványai, amelyet eredetileg Ehnaton alapított Aton napisten tiszteletére.",
@@ -3496,7 +3473,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Kermai Nyugati Deffufa",
       ro: "Deffufa de Vest din Kerma",
       en: "Western Deffufa of Kerma"},
-    image: "/poi-images/western-deffufa-kerma-landmarks-v2.webp",
     description: {
       de: "Ein massives und geheimnisvolles Bauwerk aus Lehmziegeln, das als Haupttempel der alten Zivilisation von Kerma diente.",
       hu: "Egy hatalmas és titokzatos vályogtégla építmény, amely az ősi kermai civilizáció főtemplomaként szolgált.",
@@ -3564,7 +3540,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Tabati Mecset",
       ro: "Moscheea din Tabat",
       en: "Tabat Mosque"},
-    image: "/poi-images/tabat-mosque-landmarks-v2.webp",
     description: {
       de: "Ein architektonisches Juwel im Bundesstaat Al-Dschazira, das traditionelle islamische Muster mit lokaler sudanesischer Handwerkskunst verbindet.",
       hu: "Építészeti ékszerdoboz Al-Dzsazíra államban, amely a hagyományos iszlám mintákat ötvözi a helyi szudáni kézművességgel.",
@@ -3677,7 +3652,6 @@ export const poiExtraSudanLandmarksV2: POI[] = [
       hu: "Kartúmi Nemzetközi Vásárközpont",
       ro: "Târgul Internațional din Khartoum",
       en: "Khartoum International Fairgrounds"},
-    image: "/poi-images/khartoum-international-fairgrounds-landmarks-v2.webp",
     description: {
       de: "Ein riesiger Ausstellungskomplex am Ufer des Blauen Nils, in dem alljährlich die größte internationale Messe des Sudan stattfindet.",
       hu: "Hatalmas kiállítási komplexum a Kék-Nílus partján, amely Szudán legnagyobb nemzetközi vásárának ad otthont minden évben.",

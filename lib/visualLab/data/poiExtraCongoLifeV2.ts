@@ -73,7 +73,6 @@ export const poiExtraCongoLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/lossi-gorilla-sanctuary-life-v2.webp",
     description: {
       de: "Ein bedeutendes Schutzgebiet für Flachlandgorillas, das in enger Zusammenarbeit mit der lokalen Bevölkerung verwaltet wird.",
       hu: "A síkvidéki gorillák jelentős védett területe, amelyet a helyi közösséggel szoros együttműködésben kezelnek.",
@@ -163,7 +162,6 @@ export const poiExtraCongoLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/tchimpounga-chimpanzee-life-v2.webp",
     description: {
       de: "Das größte Schimpansen-Waisenhaus in Afrika, gegründet vom Jane-Goodall-Institut für gerettete Jungtiere.",
       hu: "Afrika legnagyobb csimpánz-árvaháza, amelyet a Jane Goodall Intézet alapított mentett fiatal állatok számára.",
@@ -208,7 +206,6 @@ export const poiExtraCongoLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/brazzaville-zoo-life-v2.webp",
     description: {
       de: "Der zentrale Zoo der Hauptstadt, der einheimische Tierarten zeigt und ein beliebtes Ziel für Familien ist.",
       hu: "A főváros központi állatkertje, amely őshonos fajokat mutat be, és a családok kedvelt célpontja.",
@@ -344,7 +341,6 @@ export const poiExtraCongoLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/nkayi-sugar-fields-life-v2.webp",
     description: {
       de: "Ausgedehnte Plantagen rund um Nkayi, die das Zentrum der kongolesischen Zuckerproduktion bilden.",
       hu: "Hatalmas ültetvények Nkayi körül, amelyek a kongói cukortermelés központját alkotják.",
@@ -389,7 +385,6 @@ export const poiExtraCongoLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/mossaka-rice-fields-life-v2.webp",
     description: {
       de: "Fruchtbare Überschwemmungsgebiete am Kongo-Fluss, die für den Reisanbau genutzt werden.",
       hu: "Termékeny ártéri területek a Kongó-folyó mentén, amelyeket rizstermesztésre használnak.",
@@ -480,7 +475,6 @@ export const poiExtraCongoLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/ouesso-palm-oil-life-v2.webp",
     description: {
       de: "Großflächige Ölpalmen-Anbaugebiete im Norden des Landes, die für die lokale Versorgung und den Handel wichtig sind.",
       hu: "Nagy kiterjedésű olajpálma-termesztő területek az ország északi részén, amelyek fontosak a helyi ellátás szempontjából.",
@@ -525,7 +519,6 @@ export const poiExtraCongoLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/madingou-cassava-farms-life-v2.webp",
     description: {
       de: "Zahlreiche kleinbäuerliche Betriebe in der Bouenza-Region, die Maniok als Hauptnahrungsmittel anbauen.",
       hu: "Számos kisbirtokos gazdaság a Bouenza-régióban, ahol a maniokot mint fő élelmiszert termesztik.",
@@ -651,7 +644,6 @@ export const poiExtraCongoLifeV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/niari-coffee-plantations-life-v2.webp",
     description: {
       de: "In den kühleren Höhenlagen der Niari-Region wird hochwertiger Robusta-Kaffee angebaut.",
       hu: "A Niari-régió hűvösebb magaslatain kiváló minőségű Robusta kávét termesztenek.",
@@ -680,7 +672,6 @@ export const poiExtraCongoLifeV2: POI[] = [
       hu: "Batéké dohányföldek",
       ro: "Câmpurile de tutun din Batéké",
       en: "Batéké Tobacco Fields"},
-    image: "/poi-images/bateke-tobacco-fields-life-v2.webp",
     description: {
       de: "Die sandigen Böden des Batéké-Plateaus eignen sich hervorragend für den Anbau von Tabak.",
       hu: "A Batéké-fennsík homokos talaja kiválóan alkalmas dohánytermesztésre.",
@@ -728,7 +719,6 @@ export const poiExtraCongoLifeV2: POI[] = [
       hu: "Brazzaville-i vidámpark",
       ro: "Parcul de distracții Brazzaville",
       en: "Brazzaville Amusement Park"},
-    image: "/poi-images/brazzaville-children-park-life-v2.webp",
     description: {
       de: "Ein kleiner Freizeit- und Spielpark in der Hauptstadt, der Unterhaltung für Kinder bietet.",
       hu: "Egy kis szabadidő- és játszópark a fővárosban, amely szórakozást nyújt a gyerekeknek.",
@@ -776,7 +766,6 @@ export const poiExtraCongoLifeV2: POI[] = [
       hu: "Mbeli Bai megfigyelőpont",
       ro: "Punctul de observare Mbeli Bai",
       en: "Mbeli Bai Observation Point"},
-    image: "/poi-images/mbeli-bai-watch-life-v2.webp",
     description: {
       de: "Eine natürliche Waldlichtung im Nouabalé-Ndoki-Nationalpark, berühmt für die Beobachtung von Gorillas und Waldelefanten.",
       hu: "Természetes erdei tisztás a Nouabalé-Ndoki Nemzeti Parkban, amely híres a gorillák és erdei elefántok megfigyeléséről.",
@@ -824,7 +813,6 @@ export const poiExtraCongoLifeV2: POI[] = [
       hu: "Conkouati Gorilla-árvaház",
       ro: "Orfelinatul de gorile din Conkouati",
       en: "Conkouati Gorilla Orphanage"},
-    image: "/poi-images/conkouati-gorilla-orphanage-life-v2.webp",
     description: {
       de: "Ein Schutzzentrum innerhalb des Conkouati-Douli-Nationalparks, das verwaiste Gorillas auf ihre Rückkehr in die Wildnis vorbereitet.",
       hu: "A Conkouati-Douli Nemzeti Parkon belüli védelmi központ, amely felkészíti az árva gorillákat a vadonba való visszatérésre.",
@@ -872,7 +860,6 @@ export const poiExtraCongoLifeV2: POI[] = [
       hu: "Abala állattenyésztési körzetei",
       ro: "Zonele de creștere a animalelor din Abala",
       en: "Abala Cattle Ranches"},
-    image: "/poi-images/abala-cattle-ranches-life-v2.webp",
     description: {
       de: "Die offenen Savannen um Abala sind bekannt für die Rinderzucht und versorgen weite Teile des Nordens mit Fleisch.",
       hu: "Az Abala körüli nyílt szavannák az állattenyésztésről ismertek, és az északi rész nagy részét ellátják hússal.",
@@ -920,7 +907,6 @@ export const poiExtraCongoLifeV2: POI[] = [
       hu: "Mayombe-i banánligetek",
       ro: "Livezile de banani din Mayombe",
       en: "Mayombe Banana Groves"},
-    image: "/poi-images/mayombe-banana-groves-life-v2.webp",
     description: {
       de: "In den feuchten Tälern des Mayombe-Gebirges gedeihen Bananen und Kochbananen unter idealen Bedingungen.",
       hu: "A Mayombe-hegység nedves völgyeiben a banán és a főzőbanán ideális körülmények között fejlődik.",
@@ -968,7 +954,6 @@ export const poiExtraCongoLifeV2: POI[] = [
       hu: "Likouala papagáj-élőhelyek",
       ro: "Habitatul papagalilor din Likouala",
       en: "Likouala Parrot Habitats"},
-    image: "/poi-images/likouala-parrot-habitats-life-v2.webp",
     description: {
       de: "Die dichten Sumpfwälder von Likouala sind die Heimat des Graupapageis und anderer exotischer Vogelarten.",
       hu: "Likouala sűrű mocsári erdői a szürkepapagáj és más egzotikus madárfajok otthonai.",
@@ -1016,7 +1001,6 @@ export const poiExtraCongoLifeV2: POI[] = [
       hu: "Pool-régió földimogyoró-mezői",
       ro: "Câmpurile de arahide din Pool",
       en: "Pool Peanut Fields"},
-    image: "/poi-images/pool-peanut-fields-life-v2.webp",
     description: {
       de: "Die Region Pool ist bekannt für ihren intensiven Erdnussanbau, der die Märkte der nahen Hauptstadt Brazzaville versorgt.",
       hu: "A Pool-régió intenzív földimogyoró-termesztéséről ismert, amely a közeli Brazzaville piacait látja el.",
@@ -1064,7 +1048,6 @@ export const poiExtraCongoLifeV2: POI[] = [
       hu: "Odzala erdei elefánt-ösvény",
       ro: "Calea elefanților de pădure din Odzala",
       en: "Odzala Forest Elephant Path"},
-    image: "/poi-images/odzala-elephant-path-life-v2.webp",
     description: {
       de: "Ein Netzwerk von Pfaden im Odzala-Kokoua-Nationalpark, das von Waldelefanten auf ihrer Suche nach Nahrung und Wasser genutzt wird.",
       hu: "Ösvényhálózat az Odzala-Kokoua Nemzeti Parkban, amelyet az erdei elefántok használnak táplálékkeresés közben.",

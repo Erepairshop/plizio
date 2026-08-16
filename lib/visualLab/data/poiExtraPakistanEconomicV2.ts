@@ -941,7 +941,6 @@ export const poiExtraPakistanEconomicV2: POI[] = [
       pt: ["Localizado entre os bancos de areia naturais que protegem o porto do Mar Arábico.", "Porto principal da República Islâmica do Paquistão.", "Ligado a extensas redes ferroviárias e rodoviárias nacionais.", "Coração histórico e comercial da cidade de Karachi."],
       fr: ["Situé entre des bancs de sable naturels protégeant le port de la mer d'Arabie.", "Principal port de la République islamique du Pakistan.", "Relié à d'importants réseaux ferroviaires et routiers nationaux.", "Cœur historique et commercial de la ville de Karachi."],
     }, },
-    image: "/poi-images/karachi-port-economic-v2.webp",
     description: {
       de: "Pakistans größter und verkehrsreichster Seehafen, der einen bedeutenden Teil des nationalen Handels abwickelt. Ein Tor zur Arabischen See und ein wichtiger Knotenpunkt für den internationalen Seeverkehr.",
       hu: "Pakisztán legnagyobb és legforgalmasabb tengeri kikötője, amely az ország kereskedelmének jelentős részét bonyolítja. Kapu az Arab-tenger felé és a nemzetközi tengeri szállítás kulcsfontosságú csomópontja.",
@@ -1070,7 +1069,6 @@ export const poiExtraPakistanEconomicV2: POI[] = [
       pt: ["Permite o acesso direto ao oceano para as regiões interiores da Ásia.", "Ponto estratégico na costa sul da República Islâmica do Paquistão.", "Zona de importância vital para o comércio marítimo internacional.", "Símbolo da cooperação económica entre a China e o Paquistão."],
       fr: ["Permet un accès direct à l'océan pour les régions intérieures de l'Asie.", "Point stratégique sur la côte sud de la République islamique du Pakistan.", "Zone d'importance vitale pour le commerce maritime international.", "Symbole de la coopération économique entre la Chine et le Pakistan."],
     }, },
-    image: "/poi-images/gwadar-port-economic-v2.webp",
     description: {
       de: "Ein strategisch wichtiger Tiefseehafen am Arabischen Meer, entwickelt im Rahmen des China-Pakistan Economic Corridor (CPEC). Er soll zu einem wichtigen Handels- und Energieknotenpunkt in der Region werden.",
       hu: "Stratégiai mélytengeri kikötő az Arab-tengeren, a Kína-Pakisztán Gazdasági Folyosó (CPEC) részeként fejlesztve. Célja, hogy a régió kulcsfontosságú kereskedelmi és energetikai csomópontjává váljon.",
@@ -2351,7 +2349,6 @@ export const poiExtraPakistanEconomicV2: POI[] = [
       pt: ["Faisalabad é o coração têxtil do país, processando algodão das regiões circundantes.", "Localiza-se no território da República Islâmica do Paquistão.", "Está sob a influência das zonas climáticas entre o Hindu Kush e a planície do Indo.", "Desempenha um papel central na identidade económica da região."],
       fr: ["Faisalabad est le cœur textile du pays, transformant le coton des régions environnantes.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch et la plaine de l'Indus.", "Joue un rôle central dans l'identité économique de la région."],
     }, },
-    image: "/poi-images/faisalabad-textile-industry-economic-v2.webp",
     description: {
       de: "Bekannt als das 'Manchester Pakistans', ist Faisalabad das Zentrum der Textilindustrie des Landes. Unzählige Fabriken produzieren Stoffe, Garne und Fertigkleidung für den nationalen und internationalen Markt.",
       hu: "A 'Pakisztán Manchestereként' ismert Faisalabad az ország textiliparának központja. Számos gyár állít elő szöveteket, fonalakat és készruhákat a hazai és a nemzetközi piacra.",
@@ -3560,7 +3557,6 @@ export const poiExtraPakistanEconomicV2: POI[] = [
       pt: ["Sialkot é mundialmente conhecida pela fabricação de instrumentos cirúrgicos de alta qualidade. A cidade é um fornecedor global líder e exporta uma vasta gama de ferramentas médicas fabricadas por artesãos qualificados.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Sialkot est mondialement connue pour la fabrication d'instruments chirurgicaux de haute qualité. La ville est un fournisseur mondial de premier plan et exporte une large gamme d'outils médicaux fabriqués par des artisans expérimentés.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/sialkot-surgical-instruments-economic-v2.webp",
     description: {
       de: "Sialkot ist weltbekannt für die Herstellung hochwertiger chirurgischer Instrumente. Die Stadt ist ein führender globaler Anbieter und exportiert eine breite Palette von medizinischen Werkzeugen, die von erfahrenen Handwerkern hergestellt werden.",
       hu: "Sialkot világhírű a kiváló minőségű sebészeti műszerek gyártásáról. A város vezető globális beszállító, és tapasztalt kézművesek által készített orvosi eszközök széles skáláját exportálja.",
@@ -3608,7 +3604,6 @@ export const poiExtraPakistanEconomicV2: POI[] = [
       pt: ["Uma das maiores jazidas de lenhite do mundo no deserto de Thar. O campo é crucial para a segurança energética do Paquistão, sendo utilizado para a produção de eletricidade em centrais elétricas próximas.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["L'un des plus grands gisements de lignite au monde, situé dans le désert du Thar. Ce gisement est crucial pour la sécurité énergétique du Pakistan, car il est utilisé pour la production d'électricité dans les centrales voisines.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/thar-coalfield-mine-economic-v2.webp",
     description: {
       de: "Eines der größten Braunkohlevorkommen der Welt in der Wüste Thar. Das Feld ist entscheidend für Pakistans Energiesicherheit, da es zur Stromerzeugung in nahegelegenen Kraftwerken genutzt wird.",
       hu: "A világ egyik legnagyobb lignitkészlete a Thar-sivatagban. A mező kulcsfontosságú Pakisztán energiabiztonsága szempontjából, mivel a közeli erőművekben villamosenergia-termelésre használják.",
@@ -3809,7 +3804,6 @@ export const poiExtraPakistanEconomicV2: POI[] = [
       pt: ["Possui 19 níveis de exploração, dos quais vários estão abertos ao público.", "Localizada na cordilheira do Sal da República Islâmica do Paquistão.", "Microclima subterrâneo estável com ar saturado de sal.", "Local icónico pela sua mesquita construída inteiramente com tijolos de sal."],
       fr: ["Compte 19 niveaux d'exploitation, dont plusieurs sont ouverts au public.", "Située dans la chaîne de montagnes du Sel de la République islamique du Pakistan.", "Microclimat souterrain stable avec un air saturé de sel.", "Célèbre pour sa mosquée entièrement construite en briques de sel."],
     }, },
-    image: "/poi-images/khewra-salt-mine-economic-v2.webp",
     description: {
       de: "Das zweitgrößte Salzbergwerk der Welt und eine wichtige Quelle für rosa Himalaya-Salz. Es ist nicht nur ein bedeutender Wirtschaftsstandort, sondern auch eine beliebte Touristenattraktion mit einer unterirdischen Moschee.",
       hu: "A világ második legnagyobb sóbányája és a rózsaszín himalájai só fontos forrása. Nemcsak jelentős gazdasági helyszín, hanem népszerű turisztikai látványosság is egy földalatti mecsettel.",
@@ -3857,7 +3851,6 @@ export const poiExtraPakistanEconomicV2: POI[] = [
       pt: ["O maior campo de gás natural do Paquistão, que tem sido um pilar do abastecimento de energia do país desde a sua descoberta na década de 1950. O gás extraído aqui é utilizado em habitações e indústrias em todo o país.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Le plus grand gisement de gaz naturel du Pakistan, qui constitue un pilier de l'approvisionnement énergétique du pays depuis sa découverte dans les années 1950. Le gaz extrait ici est utilisé dans les foyers et les industries de tout le pays.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/sui-gas-field-economic-v2.webp",
     description: {
       de: "Pakistans größtes Erdgasfeld, das seit seiner Entdeckung in den 1950er Jahren ein Eckpfeiler der Energieversorgung des Landes ist. Das hier geförderte Gas wird in Haushalten und Industrien im ganzen Land verwendet.",
       hu: "Pakisztán legnagyobb földgázmezője, amely az 1950-es évekbeli felfedezése óta az ország energiaellátásának egyik alappillére. Az itt kitermelt gázt háztartásokban és iparágakban használják fel országszerte.",
@@ -4346,7 +4339,6 @@ export const poiExtraPakistanEconomicV2: POI[] = [
       pt: ["Uma enorme barragem de aterro no rio Indo, uma das maiores do mundo. É uma fonte importante para a geração de energia hidroelétrica e fornece água para irrigação nas planícies do Punjab e de Sindh.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Un barrage en terre massif sur l'Indus, l'un des plus grands au monde. C'est une source majeure de production d'hydroélectricité et il fournit de l'eau pour l'irrigation dans les plaines du Pendjab et du Sindh.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/tarbela-dam-energy-economic-v2.webp",
     description: {
       de: "Ein massiver erdgefüllter Damm am Indus, einer der größten der Welt. Er ist eine wichtige Quelle für die Wasserkrafterzeugung und liefert Wasser für die Bewässerung in den Ebenen von Punjab und Sindh.",
       hu: "Hatalmas földgát az Indus folyón, a világ egyik legnagyobbja. A vízenergia-termelés kulcsfontosságú forrása, és öntözővizet biztosít a pandzsábi és szindi síkságok számára.",
@@ -5591,7 +5583,6 @@ export const poiExtraPakistanEconomicV2: POI[] = [
       pt: ["Modelo de parque tecnológico integrado com zonas residenciais e comerciais.", "Localizado na periferia de Lahore, na República Islâmica do Paquistão.", "Clima subtropical com estações bem definidas no Panjabe.", "Elemento chave da estratégia de urbanismo inteligente da região."],
       fr: ["Modèle de parc technologique intégré avec zones résidentielles et commerciales.", "Situé à la périphérie de Lahore, en République islamique du Pakistan.", "Climat subtropical avec des saisons marquées dans le Pendjab.", "Élément clé de la stratégie d'urbanisme intelligent de la région."],
     }, },
-    image: "/poi-images/lahore-knowledge-park-economic-v2.webp",
     description: {
       de: "Ein Projekt zur Entwicklung eines Bildungs- und Forschungszentrums, das darauf abzielt, die wissensbasierte Wirtschaft zu fördern. Es soll Universitäten, Forschungszentren und Technologieunternehmen anziehen.",
       hu: "Egy oktatási és kutatási központ fejlesztésére irányuló projekt, amelynek célja a tudásalapú gazdaság előmozdítása. Célja egyetemek, kutatóközpontok és technológiai vállalatok vonzása.",
@@ -6345,7 +6336,6 @@ export const poiExtraPakistanEconomicV2: POI[] = [
       pt: ["Um complexo de reatores nucleares que contribui significativamente para o fornecimento de eletricidade ao Paquistão. É um símbolo do uso pacífico da energia nuclear pelo país para satisfazer as suas necessidades energéticas.", "Localizada no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Un complexe de réacteurs nucléaires contribuant de manière significative à l'approvisionnement en électricité du Pakistan. Il symbolise l'utilisation pacifique de l'énergie nucléaire par le pays pour répondre à ses besoins énergétiques.", "Située sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/chashma-nuclear-power-plant-economic-v2.webp",
     description: {
       de: "Ein Komplex von Kernreaktoren, der einen wesentlichen Beitrag zur Stromversorgung Pakistans leistet. Er ist ein Symbol für die friedliche Nutzung der Kernenergie des Landes zur Deckung seines Energiebedarfs.",
       hu: "Egy atomreaktor-komplexum, amely jelentősen hozzájárul Pakisztán villamosenergia-ellátásához. Az ország békés atomenergia-felhasználásának szimbóluma az energiaszükségletek kielégítésére.",
@@ -7770,7 +7760,6 @@ export const poiExtraPakistanEconomicV2: POI[] = [
       pt: ["É um motor chave para a manufatura de artigos de consumo doméstico no Panjabe.", "Situado no coração industrial da República Islâmica do Paquistão.", "Clima caracterizado por verões quentes e invernos suaves na planície do Indo.", "Representa a tradição artesanal e industrial da região."],
       fr: ["Un moteur clé pour la fabrication d'articles ménagers dans le Pendjab.", "Situé dans le cœur industriel de la République islamique du Pakistan.", "Climat caractérisé par des étés très chauds dans la plaine de l'Indus.", "Incarne la tradition artisanale et industrielle de la région."],
     }, },
-    image: "/poi-images/gujranwala-industrial-estate-economic-v2.webp",
     description: {
       de: "Ein wichtiger Industriestandort, der für seine Keramik-, Textil- und Maschinenbauindustrie bekannt ist. Die Stadt trägt maßgeblich zur Produktion und zum Export verschiedener Industriegüter bei.",
       hu: "Fontos ipari központ, amely kerámia-, textil- és gépiparáról ismert. A város jelentősen hozzájárul a különböző ipari termékek gyártásához és exportjához.",
@@ -7818,7 +7807,6 @@ export const poiExtraPakistanEconomicV2: POI[] = [
       pt: ["Uma mina na remota região de Chagai, no Baluchistão, que produz concentrados de cobre e ouro. O projeto é uma joint venture e um exemplo de cooperação internacional no setor mineiro.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Une mine située dans la région reculée de Chagai au Baloutchistan, produisant des concentrés de cuivre et d'or. Le projet est une coentreprise et un exemple de coopération internationale dans le secteur minier.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/saindak-copper-gold-mine-economic-v2.webp",
     description: {
       de: "Eine Mine in der abgelegenen Region Chagai in Belutschistan, die Kupfer- und Goldkonzentrate produziert. Das Projekt ist ein Joint Venture und ein Beispiel für internationale Zusammenarbeit im Bergbausektor.",
       hu: "Egy bánya a távoli Chagai régióban, Beludzsisztánban, amely réz- és aranykoncentrátumot termel. A projekt egy közös vállalat, és példa a nemzetközi együttműködésre a bányászati ágazatban.",
@@ -8235,7 +8223,6 @@ export const poiExtraPakistanEconomicV2: POI[] = [
       pt: ["O segundo maior porto marítimo do Paquistão, localizado perto de Karachi. É especializado no manuseio de bens industriais e matérias-primas e abriga uma grande zona industrial.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Le deuxième plus grand port maritime du Pakistan, situé près de Karachi. Il est spécialisé dans la manutention de produits industriels et de matières premières et abrite une vaste zone industrielle.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/port-qasim-economic-v2.webp",
     description: {
       de: "Der zweitgrößte Seehafen Pakistans, der sich in der Nähe von Karatschi befindet. Er ist spezialisiert auf die Abfertigung von Industriegütern und Rohstoffen und beherbergt eine große Industriezone.",
       hu: "Pakisztán második legnagyobb tengeri kikötője, Karacsi közelében található. Ipari áruk és nyersanyagok kezelésére szakosodott, és egy nagy ipari zónának ad otthont.",
@@ -8283,7 +8270,6 @@ export const poiExtraPakistanEconomicV2: POI[] = [
       pt: ["Um enorme depósito de cobre e ouro ainda inexplorado no Baluchistão. Tem o potencial de se tornar uma das maiores minas do mundo e fortalecer significativamente a economia paquistanesa.", "Localizado no território da República Islâmica do Paquistão.", "Sob a influência das zonas climáticas entre o Hindu Kush, a planície do Indo e o Mar Arábico.", "Desempenha um papel na identidade local da região."],
       fr: ["Un gisement de cuivre et d'or colossal mais encore inexploité au Baloutchistan. Il a le potentiel de devenir l'une des plus grandes mines au monde et de renforcer considérablement l'économie pakistanaise.", "Situé sur le territoire de la République islamique du Pakistan.", "Sous l'influence des zones climatiques entre l'Hindou Kouch, la plaine de l'Indus et la mer d'Arabie.", "Joue un rôle dans l'identité locale de la région."],
     }, },
-    image: "/poi-images/reko-diq-mine-project-economic-v2.webp",
     description: {
       de: "Ein riesiges, aber noch unerschlossenes Kupfer- und Goldvorkommen in Belutschistan. Es hat das Potenzial, eine der größten Minen der Welt zu werden und die pakistanische Wirtschaft erheblich zu stärken.",
       hu: "Hatalmas, de még kiaknázatlan réz- és aranylelőhely Beludzsisztánban. Potenciálisan a világ egyik legnagyobb bányájává válhat, jelentősen fellendítve Pakisztán gazdaságát.",
@@ -9708,7 +9694,6 @@ export const poiExtraPakistanEconomicV2: POI[] = [
       pt: ["Equipado com instalações modernas para eventos de escala global.", "Situado em Karachi, o centro financeiro da República Islâmica do Paquistão.", "Ponto de encontro chave para investidores no sul da Ásia.", "Impulsiona a imagem industrial moderna da região."],
       fr: ["Équipé d'installations modernes pour des événements d'envergure mondiale.", "Situé à Karachi, le centre financier de la République islamique du Pakistan.", "Point de rencontre clé pour les investisseurs en Asie du Sud.", "Véhicule l'image industrielle moderne de la région."],
     }, },
-    image: "/poi-images/karachi-expo-centre-economic-v2.webp",
     description: {
       de: "Ein wichtiges Veranstaltungszentrum für internationale Messen und Ausstellungen. Es dient als Plattform für pakistanische Unternehmen, um ihre Produkte und Dienstleistungen einem globalen Publikum zu präsentieren.",
       hu: "A nemzetközi vásárok és kiállítások kulcsfontosságú helyszíne. Platformként szolgál a pakisztáni vállalatok számára, hogy termékeiket és szolgáltatásaikat a globális közönségnek bemutassák.",
@@ -10593,7 +10578,6 @@ export const poiExtraPakistanEconomicV2: POI[] = [
       pt: ["O índice KSE-100 é o principal indicador de mercado da bolsa.", "Situada na rua I. I. Chundrigar, o distrito financeiro de Karachi, Paquistão.", "Opera sob o quadro regulador da Comissão de Bolsa e Valores.", "Instituição financeira central para a identidade económica da região."],
       fr: ["L'indice KSE-100 est le principal indicateur de performance du marché.", "Située sur l'avenue I. I. Chundrigar, le district financier de Karachi.", "Opère sous l'autorité de la Securities and Exchange Commission.", "Institution financière centrale pour l'identité économique de la région."],
     }, },
-    image: "/poi-images/pakistan-stock-exchange-economic-v2.webp",
     description: {
       de: "Die wichtigste Börse Pakistans mit Sitz in Karatschi. Sie spielt eine entscheidende Rolle bei der Kapitalbildung für Unternehmen und bietet Investitionsmöglichkeiten für lokale und ausländische Investoren.",
       hu: "Pakisztán legfontosabb tőzsdéje, székhelye Karacsiban található. Kulcsszerepet játszik a vállalatok tőkebevonásában, és befektetési lehetőségeket kínál a helyi és külföldi befektetők számára.",
@@ -10996,7 +10980,6 @@ export const poiExtraPakistanEconomicV2: POI[] = [
       pt: ["A central elétrica tem uma capacidade instalada de mais de 1.000 MW.", "Localizada na região de Azad Jammu e Caxemira, sob administração do Paquistão.", "Clima influenciado pela proximidade às encostas do Himalaia.", "Peça fundamental para a segurança alimentar e energética da região."],
       fr: ["La centrale électrique a une puissance installée de plus de 1 000 MW.", "Situé dans la région d'Azad Jammu-et-Cachemire.", "Climat influencé par la proximité des contreforts de l'Himalaya.", "Pièce maîtresse de la sécurité alimentaire et énergétique de la région."],
     }, },
-    image: "/poi-images/mangla-dam-energy-economic-v2.webp",
     description: {
       de: "Ein weiterer großer Damm in Pakistan, der für die Wasserkrafterzeugung und Bewässerung von entscheidender Bedeutung ist. Das Projekt wurde kürzlich erweitert, um die Stromerzeugungskapazität zu erhöhen.",
       hu: "Egy másik nagy gát Pakisztánban, amely kulcsfontosságú a vízenergia-termelés és az öntözés szempontjából. A projektet nemrégiben kibővítették az energiatermelési kapacitás növelése érdekében.",

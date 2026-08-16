@@ -76,7 +76,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       pt: ["Construído na década de 1940.", "Capacidade de cerca de 35.000 lugares sentados.", "Casa da seleção nacional (Walias).", "Renovado em 1999 para os padrões da CAF.", "Localizado centralmente perto da Praça Meskel.", "Sede do Campeonato Africano das Nações em 1962 e 1976."],
       fr: ["Année de construction dans les années 1940.", "Capacité d'environ 35 000 places assises.", "Terrain de l'équipe nationale (Walias).", "Rénové en 1999 selon les normes de la CAF.", "Idéalement situé près de la place Meskel.", "Lieu de la Coupe d'Afrique des Nations 1962 et 1976."],
     }, },
-    image: "/poi-images/addis-ababa-stadium-landmarks-v2.webp",
     description: {
       en: "A multi-purpose stadium in the heart of Addis Ababa, serving as a major venue for football matches and athletic events.",
       de: "Ein Mehrzweckstadion im Herzen von Addis Abeba, das als wichtiger Austragungsort für Fußballspiele und Leichtathletikveranstaltungen dient.",
@@ -747,7 +746,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       pt: ["Financiado pela China como um presente de 200 milhões de USD.", "Inaugurado em janeiro de 2012.", "A altura de 99,9 metros simboliza o 9 de setembro de 1999.", "Localiza-se no terreno da antiga prisão Alem Bekagn.", "Acolhe cimeiras dos 55 Estados-membros africanos.", "Possui um auditório plenário com 2.500 lugares."],
       fr: ["Financé par la Chine en cadeau pour 200 millions de dollars.", "Inauguré en janvier 2012.", "La hauteur de 99,9 mètres symbolise le 9 septembre 1999.", "Situé sur le site de l'ancienne prison Alem Bekagn.", "Accueille les sommets des 55 États membres africains.", "Dispose d'une salle plénière de 2 500 places."],
     }, },
-    image: "/poi-images/au-headquarters-landmarks-v2.webp",
     description: {
       en: "The modern complex serving as the headquarters for the African Union, featuring a prominent skyscraper.",
       de: "Der moderne Komplex dient als Hauptsitz der Afrikanischen Union und verfügt über einen markanten Wolkenkratzer.",
@@ -797,7 +795,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       pt: ["Edifício mais alto da Etiópia com 209 metros.", "Inaugurado oficialmente a 13 de fevereiro de 2022.", "Possui 53 andares e quatro pisos subterrâneos.", "Maior sede bancária da África Oriental.", "Dispõe de um restaurante com vista panorâmica.", "O custo da construção foi de cerca de 303 milhões de USD."],
       fr: ["Plus haut bâtiment d'Éthiopie avec 209 mètres.", "Inauguré officiellement le 13 février 2022.", "Possède 53 étages et quatre niveaux de sous-sol.", "Plus grand siège social de banque en Afrique de l'Est.", "Dispose d'un restaurant avec vue panoramique.", "Le coût de construction s'est élevé à environ 303 millions de dollars."],
     }, },
-    image: "/poi-images/cbe-headquarters-landmarks-v2.webp",
     description: {
       en: "The tallest building in Ethiopia, serving as the headquarters of the Commercial Bank of Ethiopia.",
       de: "Das höchste Gebäude Äthiopiens, das als Hauptsitz der Commercial Bank of Ethiopia dient.",
@@ -890,7 +887,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       pt: ["Comemora a libertação em 5 de maio de 1941", "Inclui relevos do Leão de Judá", "Marco central no bairro de Arat Kilo", "Marca o regresso do Imperador Haile Selassie", "Decorado com representações de patriotas etíopes", "Local das celebrações estatais anuais da vitória"],
       fr: ["Commémore la libération du 5 mai 1941", "Comprend des reliefs du Lion de Juda", "Point de repère central du quartier Arat Kilo", "Marque le retour de l'empereur Haile Selassie", "Orné de représentations de patriotes éthiopiens", "Lieu des célébrations annuelles de la victoire de l'État"],
     }, },
-    image: "/poi-images/meyazia-27-monument-landmarks-v2.webp",
     description: {
       en: "A historic monument in Addis Ababa commemorating the liberation of Ethiopia from Italian occupation.",
       de: "Ein historisches Denkmal in Addis Abeba, das an die Befreiung Äthiopiens von der italienischen Besatzung erinnert.",
@@ -1055,7 +1051,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       pt: ["Inaugurado em 12 de setembro de 1984 para o 10º aniversário da revolução.", "A coluna central atinge uma altura de exatamente 50 metros.", "Recorda a vitória na Guerra de Ogaden contra a Somália (1977-1978).", "Foi erguido como um presente do governo da Coreia do Norte.", "As homenagens aplicam-se tanto a soldados etíopes como cubanos.", "A estátua no topo é feita de bronze e pesa várias toneladas."],
       fr: ["Inauguré le 12 septembre 1984 pour le 10e anniversaire de la révolution.", "La colonne centrale atteint une hauteur exacte de 50 mètres.", "Commémore la victoire de la guerre de l'Ogaden contre la Somalie (1977-1978).", "A été érigé comme un cadeau du gouvernement nord-coréen.", "Les honneurs s'adressent aux soldats éthiopiens et cubains.", "La statue au sommet est en bronze et pèse plusieurs tonnes."],
     }, },
-    image: "/poi-images/tiglachin-monument-landmarks-v2.webp",
     description: {
       en: "A prominent memorial dedicated to Ethiopian and Cuban soldiers involved in the Ogaden War.",
       de: "Ein prominentes Denkmal, das den äthiopischen und kubanischen Soldaten im Ogadenkrieg gewidmet ist.",
@@ -1616,7 +1611,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       pt: ["Comemora o massacre de 19 de fevereiro de 1937 pelas tropas italianas.", "Localizado no bairro de Siddist Kilo, perto da universidade.", "A data corresponde ao 12º dia do mês de Yekatit no calendário etíope.", "Estima-se que 30.000 civis tenham perdido a vida nos tumultos.", "O monumento é um obelisco branco com relevos detalhados em bronze.", "Inaugurado oficialmente no aniversário da libertação da Etiópia."],
       fr: ["Commémore le massacre du 19 février 1937 par les troupes italiennes.", "Situé dans le quartier de Siddist Kilo, à proximité de l'université.", "La date correspond au 12e jour du mois de Yekatit dans le calendrier éthiopien.", "On estime que 30 000 civils ont perdu la vie lors de ces troubles.", "Le monument est un obélisque blanc avec des reliefs en bronze détaillés.", "Inauguré officiellement lors de l'anniversaire de la libération de l'Éthiopie."],
     }, },
-    image: "/poi-images/yekatit-12-monument-landmarks-v2.webp",
     description: {
       en: "A monument honoring the victims of the Graziani massacre during the Italian occupation of Addis Ababa.",
       de: "Ein Denkmal zu Ehren der Opfer des Graziani-Massakers während der italienischen Besetzung von Addis Abeba.",
@@ -1709,7 +1703,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       pt: ["Inaugurado em 1930 pelo imperador Haile Selassie.", "Homenageia o imperador Menelik II, o vencedor da Batalha de Adwa (1896).", "A estátua localiza-se na Praça Menelik II, em Adis Abeba.", "Foi escondido durante a ocupação italiana (1936-1941).", "O monumento foi desenhado e fundido na Alemanha por Hartel.", "O imperador Menelik II é considerado o fundador da cidade moderna de Adis Abeba."],
       fr: ["Inauguré en 1930 par l'empereur Haile Selassie.", "Honore Menelik II, vainqueur de la bataille d'Adoua (1896).", "La statue se dresse sur la place Menelik II à Addis-Abeba.", "Fut dissimulé pendant l'occupation italienne (1936-1941).", "Le monument a été conçu et coulé en Allemagne par Hartel.", "L'empereur Menelik II est considéré comme le fondateur d'Addis-Abeba."],
     }, },
-    image: "/poi-images/menelik-ii-monument-landmarks-v2.webp",
     description: {
       en: "An equestrian statue of Emperor Menelik II, celebrating his victory at the Battle of Adwa.",
       de: "Eine Reiterstatue von Kaiser Menelik II., die seinen Sieg in der Schlacht von Adwa feiert.",
@@ -1838,7 +1831,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       pt: ["Homenageia Abune Petros, um mártir da Igreja Ortodoxa Etíope.", "Foi executado em 29 de julho de 1936 pelos ocupantes italianos.", "O monumento situa-se no bairro de Piazza, no centro de Adis Abeba.", "Abune Petros recusou-se a excomungar os combatentes da resistência etíope.", "A estátua foi encomendada em 1941 após a libertação da Etiópia.", "Foi removido em 2013 devido a obras e reinstalado solenemente em 2016."],
       fr: ["Honore Abune Petros, un martyr de l'Église orthodoxe éthiopienne.", "Fut exécuté le 29 juillet 1936 par les occupants italiens.", "Le monument se trouve dans le quartier de Piazza, au centre d'Addis-Abeba.", "Abune Petros a refusé d'excommunier les résistants éthiopiens.", "La statue fut commandée en 1941 après la libération de l'Éthiopie.", "A été retiré en 2013 pour travaux et réinstallé solennellement en 2016."],
     }, },
-    image: "/poi-images/abune-petros-monument-landmarks-v2.webp",
     description: {
       en: "A statue commemorating Archbishop Abune Petros, an Ethiopian patriot executed during the Italian occupation.",
       de: "Eine Statue zum Gedenken an Erzbischof Abune Petros, einen äthiopischen Patrioten, der während der italienischen Besatzung hingerichtet wurde.",
@@ -2111,7 +2103,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       pt: ["A maior mesquita de Adis Abeba e um centro do Islão.", "Localiza-se no bairro de Merkato, o maior mercado de África.", "Foi concluída na década de 1940 durante a era italiana.", "A arquitetura mostra influências tanto italianas quanto árabes.", "Oferece espaço para milhares de fiéis nas orações de sexta-feira.", "Serve como sede principal do Conselho Etíope para Assuntos Islâmicos."],
       fr: ["La plus grande mosquée d'Addis-Abeba et un centre de l'Islam.", "Située dans le quartier de Merkato, le plus grand marché d'Afrique.", "Achevée dans les années 1940 pendant la période italienne.", "L'architecture présente des influences italiennes et arabes.", "Accueille des milliers de fidèles lors des prières du vendredi.", "Sert de siège au Conseil éthiopien pour les affaires islamiques."],
     }, },
-    image: "/poi-images/grand-anwar-mosque-landmarks-v2.webp",
     description: {
       en: "The largest and oldest mosque in Addis Ababa, located in the bustling Mercato district.",
       de: "Die größte und älteste Moschee in Addis Abeba, gelegen im belebten Mercato-Viertel.",
@@ -2420,7 +2411,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       pt: ["A maior igreja ortodoxa da Etiópia e a segunda maior de África.", "Localizada no bairro de Bole, perto do aeroporto internacional.", "O nome 'Medhane Alem' significa em Amárico 'Salvador do Mundo'.", "As obras de construção foram concluídas na década de 1990.", "Foi consagrada oficialmente em 12 de maio de 2004 pelo patriarca.", "Oferece espaço para mais de 5.000 pessoas no interior durante as celebrações."],
       fr: ["La plus grande église orthodoxe d'Éthiopie et la deuxième d'Afrique.", "Située dans le quartier de Bole, près de l'aéroport international.", "Le nom 'Medhane Alem' signifie 'Sauveur du Monde' en amharique.", "Les travaux de construction se sont achevés dans les années 1990.", "Consacrée officiellement le 12 mai 2004 par le patriarche.", "Peut accueillir plus de 5 000 personnes lors des grands offices."],
     }, },
-    image: "/poi-images/medhane-alem-cathedral-landmarks-v2.webp",
     description: {
       en: "An Ethiopian Orthodox Tewahedo cathedral in the Bole district, known for its massive size and architecture.",
       de: "Eine äthiopisch-orthodoxe Tewahedo-Kathedrale im Stadtteil Bole, bekannt für ihre massive Größe und Architektur.",
@@ -2602,7 +2592,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Dreifaltigkeitskathedrale",
       hu: "Szentháromság Katedrális",
       ro: "Catedrala Sfânta Treime"},
-    image: "/poi-images/holy-trinity-cathedral-landmarks-v2.webp",
     description: {
       en: "A highly ornate Orthodox cathedral that serves as the final resting place of Emperor Haile Selassie.",
       de: "Eine sehr kunstvoll gestaltete orthodoxe Kathedrale, die als letzte Ruhestätte von Kaiser Haile Selassie dient.",
@@ -2839,7 +2828,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Georgskathedrale",
       hu: "Szent György Katedrális",
       ro: "Catedrala Sfântul Gheorghe"},
-    image: "/poi-images/st-georges-cathedral-landmarks-v2.webp",
     description: {
       en: "An octagonal church in Addis Ababa, noted for its distinct architectural style and historical significance.",
       de: "Eine achteckige Kirche in Addis Abeba, die für ihren besonderen architektonischen Stil und ihre historische Bedeutung bekannt ist.",
@@ -3040,7 +3028,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Jubiläumspalast",
       hu: "Jubileumi Palota",
       ro: "Palatul Jubileului"},
-    image: "/poi-images/jubilee-palace-landmarks-v2.webp",
     description: {
       en: "Built to mark Emperor Haile Selassie's Silver Jubilee, it now serves as the official residence of the President.",
       de: "Er wurde anlässlich des silbernen Jubiläums von Kaiser Haile Selassie erbaut und dient heute als offizieller Wohnsitz des Präsidenten.",
@@ -3152,7 +3139,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       pt: ["Fundado em 1958 para preservar o património etíope.", "Alberga o famoso esqueleto de 'Lucy' com 3,2 milhões de anos.", "Composto por quatro secções principais: Paleontologia, Arqueologia, Arte e Etnografia.", "Exibe tronos imperiais originais e artefactos axumitas antigos.", "Situado perto da Universidade de Adis Abeba.", "Os restos fósseis de 'Selam' (Dinka) também estão aqui expostos."],
       fr: ["Fondé en 1958 pour préserver le patrimoine éthiopien.", "Abrite le célèbre squelette de « Lucy », vieux de 3,2 millions d'années.", "Comprend quatre sections principales : paléontologie, archéologie, art et ethnographie.", "Expose des trônes impériaux originaux et des artefacts anciens d'Axoum.", "Situé à proximité de l'université d'Addis-Abeba.", "Les restes fossiles de « Selam » (Dinka) y sont également exposés."],
     }, },
-    image: "/poi-images/national-museum-ethiopia-landmarks-v2.webp",
     description: {
       en: "A prominent museum housing important historical artifacts, including the famous hominid fossil 'Lucy'.",
       de: "Ein bedeutendes Museum, das wichtige historische Artefakte beherbergt, darunter das berühmte Hominiden-Fossil 'Lucy'.",
@@ -3226,7 +3212,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Gedenkmuseum des Roten Terrors",
       hu: "Vörös Terror Mártírjainak Emlékmúzeuma",
       ro: "Muzeul Memorial al Martirilor Terorii Roșii"},
-    image: "/poi-images/red-terror-martyrs-memorial-landmarks-v2.webp",
     description: {
       en: "A museum dedicated to the victims of the Derg regime's Red Terror campaign in the late 1970s.",
       de: "Ein Museum, das den Opfern der Roten Terror-Kampagne des Derg-Regimes in den späten 1970er Jahren gewidmet ist.",
@@ -3391,7 +3376,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Meskel-Platz",
       hu: "Meskel Tér",
       ro: "Piața Meskel"},
-    image: "/poi-images/meskel-square-landmarks-v2.webp",
     description: {
       en: "The main public square in Addis Ababa, famously used for public gatherings and the annual Meskel festival.",
       de: "Der wichtigste öffentliche Platz in Addis Abeba, berühmt für öffentliche Versammlungen und das jährliche Meskel-Fest.",
@@ -3592,7 +3576,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Biete Medhane Alem",
       hu: "Biete Medhane Alem",
       ro: "Biete Medhane Alem"},
-    image: "/poi-images/biete-medhane-alem-landmarks-v2.webp",
     description: {
       en: "Believed to be the largest monolithic rock-hewn church in the world, located in Lalibela.",
       de: "Gilt als die größte monolithische Felsenkirche der Welt und befindet sich in Lalibela.",
@@ -3640,7 +3623,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Biete Ghiorgis",
       hu: "Szent György-templom Lalibela",
       ro: "Biserica Sfântul Gheorghe Lalibela"},
-    image: "/poi-images/biete-ghiorgis-landmarks-v2.webp",
     description: {
       en: "The most famous and iconic of the rock-hewn churches in Lalibela, carved in the shape of a cross.",
       de: "Die berühmteste und ikonischste der Felsenkirchen in Lalibela, in Form eines Kreuzes geschnitzt.",
@@ -3769,7 +3751,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Obelisk von Aksum",
       hu: "Aksúmi Obeliszk",
       ro: "Obeliscul din Axum"},
-    image: "/poi-images/obelisk-of-axum-landmarks-v2.webp",
     description: {
       en: "A towering stele that stands as a remarkable testament to the engineering skills of the ancient Aksumite Empire.",
       de: "Eine hoch aufragende Stele, die ein bemerkenswertes Zeugnis der Ingenieurskunst des alten Aksumitischen Reiches ist.",
@@ -3817,7 +3798,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Stele des Königs Ezana",
       hu: "Ezana Király Sztéléje",
       ro: "Stela Regelui Ezana"},
-    image: "/poi-images/king-ezana-stela-landmarks-v2.webp",
     description: {
       en: "An ancient obelisk in Axum that has remained standing since its erection, showcasing intricate carvings.",
       de: "Ein alter Obelisk in Aksum, der seit seiner Errichtung stehen geblieben ist und komplizierte Schnitzereien aufweist.",
@@ -3865,7 +3845,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Kirche der Heiligen Maria von Zion",
       hu: "Sioni Mária Templom",
       ro: "Biserica Sfânta Maria din Sion"},
-    image: "/poi-images/church-mary-of-zion-landmarks-v2.webp",
     description: {
       en: "The most important church in Ethiopia, believed to hold the legendary Ark of the Covenant.",
       de: "Die wichtigste Kirche in Äthiopien, von der angenommen wird, dass sie die legendäre Bundeslade beherbergt.",
@@ -3913,7 +3892,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Debre Berhan Selassie Kirche",
       hu: "Debre Berhan Selassie Templom",
       ro: "Biserica Debre Berhan Selassie"},
-    image: "/poi-images/debre-berhan-selassie-landmarks-v2.webp",
     description: {
       en: "A historic church in Gondar, famous for its magnificent interior paintings of angelic faces on the ceiling.",
       de: "Eine historische Kirche in Gondar, berühmt für ihre prächtigen Innenmalereien von Engelsgesichtern an der Decke.",
@@ -4006,7 +3984,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Palast von Jimma Aba Jifar",
       hu: "Jimma Aba Jifar Palota",
       ro: "Palatul lui Jimma Aba Jifar"},
-    image: "/poi-images/palace-of-jimma-aba-jifar-landmarks-v2.webp",
     description: {
       en: "The royal residence of the last king of Jimma, showcasing traditional wooden architecture.",
       de: "Die königliche Residenz des letzten Königs von Jimma, die traditionelle Holzarchitektur zeigt.",
@@ -4135,7 +4112,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Al-Nejashi-Moschee",
       hu: "Al-Nejashi Mecset",
       ro: "Moscheea Al Nejashi"},
-    image: "/poi-images/al-nejashi-mosque-landmarks-v2.webp",
     description: {
       en: "One of the oldest mosques in Africa, marking the early presence of Islam in the region.",
       de: "Eine der ältesten Moscheen in Afrika, die die frühe Präsenz des Islam in der Region markiert.",
@@ -4264,7 +4240,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Bahnhof Dire Dawa",
       hu: "Dire Dawa Vasútállomás",
       ro: "Gara Dire Dawa"},
-    image: "/poi-images/dire-dawa-train-station-landmarks-v2.webp",
     description: {
       en: "A historic railway station built in the early 20th century as part of the Ethio-Djibouti Railway.",
       de: "Ein historischer Bahnhof, der im frühen 20. Jahrhundert als Teil der Äthiopien-Dschibuti-Eisenbahn erbaut wurde.",
@@ -4573,7 +4548,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Adey Abeba Stadion",
       hu: "Adey Abeba Stadion",
       ro: "Stadionul Adey Abeba"},
-    image: "/poi-images/adey-abeba-stadium-landmarks-v2.webp",
     description: {
       en: "A modern, large-capacity stadium constructed to host major international sporting events in Ethiopia.",
       de: "Ein modernes Stadion mit großer Kapazität, das für die Ausrichtung großer internationaler Sportveranstaltungen in Äthiopien gebaut wurde.",
@@ -4666,7 +4640,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: "Arthur Rimbaud Zentrum",
       hu: "Arthur Rimbaud Központ",
       ro: "Centrul Arthur Rimbaud"},
-    image: "/poi-images/arthur-rimbaud-center-landmarks-v2.webp",
     description: {
       en: "A cultural center and museum in Harar dedicated to the famous French poet who lived in the city.",
       de: "Ein Kulturzentrum und Museum in Harar, das dem berühmten französischen Dichter gewidmet ist, der in der Stadt lebte.",
@@ -4994,7 +4967,6 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       pt: ["A muralha abrange uma área de apenas cerca de 48 hectares.", "Existem no total 82 mesquitas dentro das muralhas da cidade.", "A construção das muralhas atuais é frequentemente atribuída ao Emir Nur no século XVI.", "Harar Jugol foi declarada Património Mundial da UNESCO em 2006.", "As cinco portas chamam-se Shoa, Budawa, Erer, Sanga e Berbere.", "As muralhas têm até 5 metros de altura em alguns pontos."],
       fr: ["L'enceinte englobe une superficie d'environ 48 hectares seulement.", "Il y a un total de 82 mosquées à l'intérieur des remparts.", "La construction des murs actuels est souvent attribuée à l'émir Nur au XVIe siècle.", "Harar Jugol a été classé au patrimoine mondial de l'UNESCO en 2006.", "Les cinq portes se nomment Shoa, Budawa, Erer, Sanga et Berbere.", "Les murs atteignent par endroits jusqu'à 5 mètres de hauteur."],
     }, },
-    image: "/poi-images/harar-jugol-walls-landmarks-v2.webp",
     description: {
       en: "The historic fortified walls surrounding the ancient city of Harar, dating back to the 16th century.",
       de: "Die historischen Befestigungsmauern, die die antike Stadt Harar umgeben und aus dem 16. Jahrhundert stammen.",

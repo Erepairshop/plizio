@@ -1137,7 +1137,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Mesa Verde Nemzeti Park",
       ro: "Parcul Național Mesa Verde",
       en: "Mesa Verde National Park"},
-    image: "/poi-images/mesa-verde-national-park-history-v2.webp",
     description: {
       de: "Ein Nationalpark, der für seine gut erhaltenen Felswohnungen der Anasazi bekannt ist.",
       hu: "A Pueblo nép jól megőrzött sziklalakásairól ismert nemzeti park.",
@@ -2058,7 +2057,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Cahokia Mounds",
       ro: "Movilele Cahokia",
       en: "Cahokia Mounds"},
-    image: "/poi-images/cahokia-mounds-history-v2.webp",
     description: {
       de: "Die Stätte einer präkolumbischen Stadt in der Nähe von St. Louis, der größten der Mississippian-Kultur.",
       hu: "Egy prekolumbiánus város helyszíne St. Louis közelében, a Mississippi-kultúra legnagyobbika.",
@@ -2979,7 +2977,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Jamestowni település",
       ro: "Așezarea Jamestown",
       en: "Jamestown Settlement"},
-    image: "/poi-images/jamestown-settlement-history-v2-photo-20260803.webp",
     description: {
       de: "Die erste dauerhafte englische Kolonie in Nordamerika, gegründet 1607.",
       hu: "Az első állandó angol gyarmat Észak-Amerikában, 1607-ben alapították.",
@@ -4116,7 +4113,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Plymouth-szikla",
       ro: "Stânca Plymouth",
       en: "Plymouth Rock"},
-    image: "/poi-images/plymouth-rock-history-v2.webp",
     description: {
       de: "Der traditionelle Ort, an dem die Pilgerväter 1620 in Plymouth, Massachusetts, an Land gingen.",
       hu: "A zarándokatyák partraszállásának hagyományos helyszíne 1620-ban, Plymouthban, Massachusettsben.",
@@ -5469,7 +5465,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Gyarmati Williamsburg",
       ro: "Williamsburgul Colonial",
       en: "Colonial Williamsburg"},
-    image: "/poi-images/colonial-williamsburg-history-v2.webp",
     description: {
       de: "Ein lebendiges Geschichtsmuseum, das einen Teil der Stadt Williamsburg aus der Zeit der Amerikanischen Revolution nachbildet.",
       hu: "Élő történeti múzeum, amely Williamsburg városának egy részét mutatja be az amerikai forradalom idejéből.",
@@ -6822,7 +6817,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Valley Forge",
       ro: "Valley Forge",
       en: "Valley Forge"},
-    image: "/poi-images/valley-forge-history-v2.webp",
     description: {
       de: "Der Ort des Winterlagers der Kontinentalarmee während des Amerikanischen Unabhängigkeitskrieges 1777-1778.",
       hu: "A kontinentális hadsereg téli táborának helyszíne az amerikai függetlenségi háború alatt, 1777-1778-ban.",
@@ -7995,7 +7989,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Yorktowni csatatér",
       ro: "Câmpul de luptă de la Yorktown",
       en: "Yorktown Battlefield"},
-    image: "/poi-images/yorktown-battlefield-history-v2-photo-20260803.webp",
     description: {
       de: "Der Ort der entscheidenden Schlacht des Amerikanischen Unabhängigkeitskrieges im Jahr 1781.",
       hu: "Az amerikai függetlenségi háború döntő csatájának helyszíne 1781-ben.",
@@ -9384,7 +9377,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Monticello",
       ro: "Monticello",
       en: "Monticello"},
-    image: "/poi-images/monticello-history-v2.webp",
     description: {
       de: "Die Hauptplantage von Thomas Jefferson, dem dritten Präsidenten der Vereinigten Staaten.",
       hu: "Thomas Jefferson, az Egyesült Ãllamok harmadik elnökének elsődleges ültetvénye.",
@@ -10737,7 +10729,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Fort McHenry",
       ro: "Fort McHenry",
       en: "Fort McHenry"},
-    image: "/poi-images/fort-mchenry-history-v2.webp",
     description: {
       de: "Eine historische Küstenfestung, deren Verteidigung im Krieg von 1812 das Gedicht 'The Star-Spangled Banner' inspirierte.",
       hu: "Történelmi tengerparti erőd, amelynek védelme az 1812-es háborúban a 'The Star-Spangled Banner' című verset ihlette.",
@@ -12162,7 +12153,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Pearl Harbor",
       ro: "Pearl Harbor",
       en: "Pearl Harbor"},
-    image: "/poi-images/pearl-harbor-history-v2.webp",
     description: {
       de: "Ein Lagunenhafen auf der Insel Oahu, Hawaii. Ort des Überraschungsangriffs, der die USA in den Zweiten Weltkrieg brachte.",
       hu: "Lagúna-kikötő Oahu szigetén, Hawaiin. A meglepetésszerű támadás helyszíne, amely beléptette az USA-t a második világháborúba.",
@@ -12435,7 +12425,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Little Bighorn-i csatatér",
       ro: "Câmpul de luptă de la Little Bighorn",
       en: "Little Bighorn Battlefield"},
-    image: "/poi-images/little-bighorn-battlefield-history-v2.webp",
     description: {
       de: "Gedenkt der Schlacht am Little Bighorn, in der die Lakota, Cheyenne und Arapaho die 7. Kavallerie von General Custer besiegten.",
       hu: "A Little Bighorn-i csatára emlékezik, ahol a lakoták, csejennek és arapahók legyőzték Custer tábornok 7. lovasságát.",
@@ -13572,7 +13561,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Ellis Island",
       ro: "Insula Ellis",
       en: "Ellis Island"},
-    image: "/poi-images/ellis-island-history-v2.webp",
     description: {
       de: "War von 1892 bis 1954 die verkehrsreichste Einwanderungsstation der Vereinigten Staaten.",
       hu: "1892-től 1954-ig az Egyesült Ãllamok legforgalmasabb bevándorlási állomása volt.",
@@ -13809,7 +13797,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Fort Sumter",
       ro: "Fort Sumter",
       en: "Fort Sumter"},
-    image: "/poi-images/fort-sumter-history-v2.webp",
     description: {
       de: "Eine Seefestung in Charleston, South Carolina, bekannt für die ersten Schüsse des Amerikanischen Bürgerkriegs.",
       hu: "Tengeri erőd Charlestonban, Dél-Karolinában, amely az amerikai polgárháború első lövéseiről ismert.",
@@ -14154,7 +14141,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Appomattox-i Bíróság",
       ro: "Tribunalul Appomattox",
       en: "Appomattox Court House"},
-    image: "/poi-images/appomattox-court-house-history-v2.webp",
     description: {
       de: "Der Ort, an dem General Robert E. Lee 1865 seine Army of Northern Virginia an General Ulysses S. Grant übergab.",
       hu: "A hely, ahol Robert E. Lee tábornok 1865-ben átadta Észak-Virginiai Hadseregét Ulysses S. Grant tábornoknak.",
@@ -15543,7 +15529,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Antietami csatatér",
       ro: "Câmpul de luptă de la Antietam",
       en: "Antietam Battlefield"},
-    image: "/poi-images/antietam-battlefield-history-v2.webp",
     description: {
       de: "Der Ort der blutigsten Eintagesschlacht in der amerikanischen Geschichte während des Bürgerkriegs 1862.",
       hu: "Az amerikai történelem legvéresebb egynapos csatájának helyszíne az 1862-es polgárháború alatt.",
@@ -16752,7 +16737,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Harpers Ferry",
       ro: "Harpers Ferry",
       en: "Harpers Ferry"},
-    image: "/poi-images/harpers-ferry-history-v2.webp",
     description: {
       de: "Eine historische Stadt, bekannt für John Browns Überfall auf das Arsenal im Jahr 1859.",
       hu: "Történelmi város, amely John Brown 1859-es fegyverraktár elleni rajtaütéséről ismert.",
@@ -16953,7 +16937,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Promontory Summit",
       ro: "Vârful Promontory",
       en: "Promontory Summit"},
-    image: "/poi-images/promontory-summit-history-v2.webp",
     description: {
       de: "Der Ort, an dem 1869 die erste transkontinentale Eisenbahn in den Vereinigten Staaten fertiggestellt wurde.",
       hu: "A hely, ahol 1869-ben befejeződött az első transzkontinentális vasút építése az Egyesült Ãllamokban.",
@@ -18018,7 +18001,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Chaco-kanyon",
       ro: "Canionul Chaco",
       en: "Chaco Canyon"},
-    image: "/poi-images/chaco-canyon-history-v2.webp",
     description: {
       de: "Ein bedeutendes Zentrum der Anasazi-Kultur mit massiven öffentlichen und zeremoniellen Gebäuden.",
       hu: "Az ősi Pueblo kultúra egyik fő központja, hatalmas köz- és szertartási épületekkel.",
@@ -18543,7 +18525,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Serpent Mound",
       ro: "Movila Șarpelui",
       en: "Serpent Mound"},
-    image: "/poi-images/serpent-mound-history-v2.webp",
     description: {
       de: "Ein prähistorischer Bildhügel auf einem Plateau über dem Ohio Brush Creek.",
       hu: "Egy őskori képhalom egy fennsíkon az Ohio Brush Creek felett.",
@@ -19104,7 +19085,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Taos Pueblo",
       ro: "Pueblo de Taos",
       en: "Taos Pueblo"},
-    image: "/poi-images/taos-pueblo-history-v2.webp",
     description: {
       de: "Ein altes Pueblo, das seit über 1000 Jahren ununterbrochen bewohnt ist.",
       hu: "Egy ősi pueblo, amely több mint 1000 éve folyamatosan lakott.",
@@ -20025,7 +20005,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "St. Augustine",
       ro: "St. Augustine",
       en: "St. Augustine"},
-    image: "/poi-images/st-augustine-history-v2.webp",
     description: {
       de: "Die älteste durchgehend bewohnte, von Europäern gegründete Stadt in den kontinentalen Vereinigten Staaten.",
       hu: "A legrégebbi, folyamatosan lakott, európaiak által alapított város az kontinentális Egyesült Ãllamokban.",
@@ -21522,7 +21501,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "San Juan Capistrano misszió",
       ro: "Misiunea San Juan Capistrano",
       en: "Mission San Juan Capistrano"},
-    image: "/poi-images/mission-san-juan-capistrano-history-v2.webp",
     description: {
       de: "Eine spanische Mission, die 1776 gegründet wurde und als 'Juwel der Missionen' bekannt ist.",
       hu: "Egy 1776-ban alapított spanyol misszió, amelyet a 'Missziók ékkövének' neveznek.",
@@ -22119,7 +22097,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Manzanar",
       ro: "Manzanar",
       en: "Manzanar"},
-    image: "/poi-images/manzanar-history-v2.webp",
     description: {
       de: "Eines von zehn Lagern, in denen während des Zweiten Weltkriegs über 120.000 japanische Amerikaner interniert wurden.",
       hu: "Egyike a tíz tábornak, ahol a második világháború alatt több mint 120 000 japán-amerikait internáltak.",
@@ -22167,7 +22144,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Wounded Knee-i csatatér",
       ro: "Câmpul de luptă de la Wounded Knee",
       en: "Wounded Knee Battlefield"},
-    image: "/poi-images/wounded-knee-battlefield-history-v2.webp",
     description: {
       de: "Der Ort eines Massakers an Lakota-Indianern durch die US-Armee im Jahr 1890.",
       hu: "A lakota indiánok lemészárlásának helyszíne az amerikai hadsereg által 1890-ben.",
@@ -23520,7 +23496,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Angel Island Bevándorlási Állomás",
       ro: "Stația de imigrare Angel Island",
       en: "Angel Island Immigration Station"},
-    image: "/poi-images/angel-island-immigration-station-history-v2.webp",
     description: {
       de: "Eine Einwanderungsstation in der Bucht von San Francisco, die hauptsächlich asiatische Einwanderer abfertigte.",
       hu: "Bevándorlási állomás a San Francisco-i öbölben, amely főként ázsiai bevándorlókat fogadott.",
@@ -24333,7 +24308,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Shiloh Nemzeti Katonai Park",
       ro: "Parcul Militar Național Shiloh",
       en: "Shiloh National Military Park"},
-    image: "/poi-images/shiloh-national-military-park-history-v2.webp",
     description: {
       de: "Bewahrt das Schlachtfeld der Schlacht von Shiloh im Amerikanischen Bürgerkrieg.",
       hu: "Megőrzi a shilohi csata csataterét az amerikai polgárháborúból.",
@@ -25002,7 +24976,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Vicksburg Nemzeti Katonai Park",
       ro: "Parcul Militar Național Vicksburg",
       en: "Vicksburg National Military Park"},
-    image: "/poi-images/vicksburg-national-military-park-history-v2.webp",
     description: {
       de: "Erinnert an die Schlacht und Belagerung von Vicksburg im Amerikanischen Bürgerkrieg.",
       hu: "A vicksburgi csatára és ostromára emlékezik az amerikai polgárháborúban.",
@@ -25131,7 +25104,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Trinity-telephely",
       ro: "Situl Trinity",
       en: "Trinity Site"},
-    image: "/poi-images/trinity-site-history-v2.webp",
     description: {
       de: "Der Ort der ersten Detonation einer Atomwaffe am 16. Juli 1945.",
       hu: "Az első atomfegyver felrobbantásának helyszíne 1945. július 16-án.",

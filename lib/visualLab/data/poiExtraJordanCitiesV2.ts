@@ -413,7 +413,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-AM",
     coords: [35.9283, 31.9454],
     name: { de: "Amman", hu: "Ammán", ro: "Amman", en: "Amman"},
-    image: "/poi-images/amman-cities-v2.webp",
     description: {
       de: "Amman ist die Hauptstadt Jordaniens und erstreckt sich über mehrere Hügel. Die Metropole vereint antike Ruinen mit moderner Architektur.",
       hu: "Ammán Jordánia dombokra épült fővárosa. A nyüzsgő metropoliszban az ókori romok és a modern épületek keverednek.",
@@ -515,7 +514,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-AZ",
     coords: [36.0961, 32.0645],
     name: { de: "Zarqa", hu: "Zarka", ro: "Zarqa", en: "Zarqa"},
-    image: "/poi-images/zarqa-cities-v2.webp",
     description: {
       de: "Zarqa ist das wichtigste Industriezentrum Jordaniens. Die am gleichnamigen Fluss gelegene Stadt wuchs durch Fabriken und Werkstätten rasant.",
       hu: "Zarka Jordánia legfontosabb ipari központja. Az azonos nevű folyó partján fekvő város a gyáraknak köszönhetően gyorsan növekedett.",
@@ -839,7 +837,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-IR",
     coords: [35.8500, 32.5556],
     name: { de: "Irbid", hu: "Irbid", ro: "Irbid", en: "Irbid"},
-    image: "/poi-images/irbid-cities-v2.webp",
     description: {
       de: "Irbid ist das wirtschaftliche Zentrum im Norden Jordaniens. Aufgrund zahlreicher Hochschulen ist sie als Universitätsstadt bekannt.",
       hu: "Irbid Észak-Jordánia gazdasági központja. A számos felsőoktatási intézmény miatt forgalmas egyetemvárosként ismert.",
@@ -1235,7 +1232,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-AQ",
     coords: [35.0006, 29.5321],
     name: { de: "Akaba", hu: "Akaba", ro: "Aqaba", en: "Aqaba"},
-    image: "/poi-images/aqaba-cities-v2.webp",
     description: {
       de: "Aqaba ist Jordaniens einziger Seehafen am Roten Meer. Die Küstenstadt zieht mit ihren Korallenriffen viele Taucher und Touristen an.",
       hu: "Akaba Jordánia egyetlen tengeri kikötője a Vörös-tengernél. A tengerparti város korallzátonyaival sok búvárt és turistát vonz.",
@@ -1343,7 +1339,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-AZ",
     coords: [36.0461, 32.0178],
     name: { de: "Russeifa", hu: "Ruszeifa", ro: "Russeifa", en: "Russeifa"},
-    image: "/poi-images/russeifa-cities-v2.webp",
     description: {
       de: "Russeifa verbindet die Städte Amman und Zarqa zu einem riesigen Ballungsraum. Sie zeichnet sich durch hohe Bevölkerungsdichte und Industrie aus.",
       hu: "Ruszeifa Ammánt és Zarkát köti össze egy hatalmas agglomerációvá. A várost magas népsűrűség és kiterjedt ipar jellemzi.",
@@ -1406,7 +1401,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-MD",
     coords: [35.7933, 31.7196],
     name: { de: "Madaba", hu: "Madaba", ro: "Madaba", en: "Madaba"},
-    image: "/poi-images/madaba-cities-v2.webp",
     description: {
       de: "Madaba ist weltberühmt für ihre byzantinischen Mosaike. Die friedliche Stadt beherbergt eine große christliche Minderheit und historische Kirchen.",
       hu: "Madaba világhírű a bizánci mozaikjairól. A békés város nagy keresztény kisebbségnek és történelmi templomoknak ad otthont.",
@@ -1514,7 +1508,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-IR",
     coords: [36.0069, 32.5592],
     name: { de: "Ar-Ramtha", hu: "Ar-Ramta", ro: "Ar-Ramtha", en: "Ar-Ramtha"},
-    image: "/poi-images/ar-ramtha-cities-v2.webp",
     description: {
       de: "Ar-Ramtha liegt unmittelbar an der syrischen Grenze. Die Stadt ist ein traditioneller Handelsknotenpunkt für Güter aus dem Norden.",
       hu: "Ar-Ramta közvetlenül a szír határon fekszik. A város az északról érkező áruk hagyományos kereskedelmi csomópontja.",
@@ -1577,7 +1570,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-MA",
     coords: [36.2031, 32.3333],
     name: { de: "Mafraq", hu: "Mafrak", ro: "Mafraq", en: "Mafraq"},
-    image: "/poi-images/mafraq-cities-v2.webp",
     description: {
       de: "Mafraq bildet das Tor zur jordanischen Wüste. Die Stadt ist ein wichtiger Verkehrsknotenpunkt in Richtung Syrien und Irak.",
       hu: "Mafrak a jordániai sivatag kapuja. A város fontos közlekedési csomópont Szíria és Irak irányába.",
@@ -1640,7 +1632,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-MN",
     coords: [35.8342, 30.1949],
     name: { de: "Ma'an", hu: "Ma'án", ro: "Ma'an", en: "Ma'an"},
-    image: "/poi-images/maan-cities-v2.webp",
     description: {
       de: "Ma'an ist die größte Stadt im kargen Süden Jordaniens. Sie hat eine reiche Geschichte als wichtige Station auf der Pilgerroute nach Mekka.",
       hu: "Ma'án Jordánia kietlen déli részének legnagyobb városa. Gazdag múltra tekint vissza, mint a Mekkába vezető zarándokút fontos állomása.",
@@ -1829,7 +1820,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-KA",
     coords: [35.7000, 31.1833],
     name: { de: "Karak", hu: "Karak", ro: "Karak", en: "Karak"},
-    image: "/poi-images/karak-cities-v2.webp",
     description: {
       de: "Karak thront majestätisch auf einem steilen Plateau im zentralen Hochland. Die Stadt wird von einer der größten Kreuzritterburgen der Levante dominiert.",
       hu: "Karak fenségesen magasodik egy meredek fennsíkon a központi hegyvidéken. A várost a Levante egyik legnagyobb keresztes vára uralja.",
@@ -1892,7 +1882,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-AT",
     coords: [35.6044, 30.8375],
     name: { de: "Tafilah", hu: "Tafila", ro: "Tafilah", en: "Tafilah"},
-    image: "/poi-images/tafilah-cities-v2.webp",
     description: {
       de: "Tafilah liegt eingebettet in die rauen Berge des südlichen Jordaniens. Die Region ist bekannt für ihre heißen Quellen und Naturschutzgebiete.",
       hu: "Tafila Dél-Jordánia zord hegyei között fekszik. A régió hőforrásairól és természetvédelmi területeiről ismert.",
@@ -1955,7 +1944,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-AJ",
     coords: [35.7517, 32.3325],
     name: { de: "Adschlun", hu: "Adzslún", ro: "Ajloun", en: "Ajloun"},
-    image: "/poi-images/ajloun-cities-v2.webp",
     description: {
       de: "Ajloun ist umgeben von dichten Pinien- und Eichenwäldern. Die hügelige Stadt ist ein beliebtes Ziel für Naturfreunde und Geschichtsliebhaber.",
       hu: "Adzslúnt sűrű fenyő- és tölgyerdők veszik körül. A dombos város a természetkedvelők és a történelem szerelmeseinek kedvelt célpontja.",
@@ -2207,7 +2195,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-BA",
     coords: [35.7272, 32.0392],
     name: { de: "As-Salt", hu: "Asz-Szalt", ro: "Al-Salt", en: "As-Salt"},
-    image: "/poi-images/as-salt-cities-v2.webp",
     description: {
       de: "As-Salt war einst die wichtigste Siedlung Jordaniens. Die Stadt besticht durch ihre gut erhaltenen osmanischen Häuser aus gelbem Sandstein.",
       hu: "Asz-Szalt egykor Jordánia legfontosabb települése volt. A város sárga homokkőből épült, jól megőrzött oszmán-kori házaival bűvöli el a látogatókat.",
@@ -2351,7 +2338,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-AM",
     coords: [36.0044, 31.8722],
     name: { de: "Sahab", hu: "Szahab", ro: "Sahab", en: "Sahab"},
-    image: "/poi-images/sahab-cities-v2.webp",
     description: {
       de: "Sahab liegt südöstlich der Hauptstadt und ist ein wichtiges Logistikzentrum. Der Vorort spielt eine zentrale Rolle in der jordanischen Industriegüterproduktion.",
       hu: "Szahab a fővárostól délkeletre fekszik, és fontos logisztikai központ. Az előváros központi szerepet játszik a jordániai ipari termelésben.",
@@ -2567,7 +2553,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-BA",
     coords: [35.8236, 32.0461],
     name: { de: "Ain Basha", hu: "Ajn Basa", ro: "Ain Basha", en: "Ain Basha"},
-    image: "/poi-images/ain-basha-cities-v2.webp",
     description: {
       de: "Ain Basha liegt am Rande der Hauptstadt auf fruchtbarem Boden. Die Stadt kombiniert landwirtschaftliche Tradition mit stetigem städtischem Wachstum.",
       hu: "Ajn Basa a főváros szélén, termékeny talajon fekszik. A város a mezőgazdasági hagyományokat és a folyamatos városi növekedést ötvözi.",
@@ -2630,7 +2615,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-AM",
     coords: [35.9500, 31.6961],
     name: { de: "Al-Dschiza", hu: "Al-Dzsiza", ro: "Al-Jiza", en: "Al-Jiza"},
-    image: "/poi-images/al-jiza-cities-v2.webp",
     description: {
       de: "Al-Jiza bildet das südliche Tor zum Großraum Amman. Die von Wüstenlandschaften umgebene Stadt ist vor allem für den internationalen Flughafen bekannt.",
       hu: "Al-Dzsiza az ammáni agglomeráció déli kapuja. A sivatagi tájjal övezett város leginkább a nemzetközi repülőtérről ismert.",
@@ -2693,7 +2677,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-KA",
     coords: [35.4858, 31.0336],
     name: { de: "Ghor es-Safi", hu: "Gór esz-Szafi", ro: "Ghor es-Safi", en: "Ghor es-Safi"},
-    image: "/poi-images/ghor-es-safi-cities-v2.webp",
     description: {
       de: "Ghor es-Safi liegt tief unter dem Meeresspiegel am Rande des Toten Meeres. Die heiße Talsenke ist das Zentrum der jordanischen Kaliproduktion.",
       hu: "Gór esz-Szafi mélyen a tengerszint alatt, a Holt-tenger szélén fekszik. A forró völgy a jordániai kálisótermelés központja.",
@@ -2801,7 +2784,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-IR",
     coords: [35.8833, 32.4833],
     name: { de: "Al-Husn", hu: "Al-Huszun", ro: "Al-Husn", en: "Al-Husn"},
-    image: "/poi-images/al-husn-cities-v2.webp",
     description: {
       de: "Al-Husn ist eine der traditionsreichsten Städte im Norden. Die hügelige Ortschaft ist für ihr friedliches Zusammenleben verschiedener Religionen berühmt.",
       hu: "Al-Huszun észak egyik legnagyobb hagyományokkal rendelkező városa. A dombos település a különböző vallások békés együttéléséről híres.",
@@ -3018,7 +3000,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-BA",
     coords: [35.7725, 32.0064],
     name: { de: "Fuheis", hu: "Fuheisz", ro: "Fuheis", en: "Fuheis"},
-    image: "/poi-images/fuheis-cities-v2.webp",
     description: {
       de: "Fuheis ist ein malerischer Ort nordwestlich von Amman, der fast ausschließlich von jordanischen Christen bewohnt wird. Es bewahrt sein ländliches, historisches Flair.",
       hu: "Fuheisz egy festői település Ammántól északnyugatra, amelyet szinte kizárólag jordániai keresztények laknak. Megőrizte vidékies, történelmi hangulatát.",
@@ -3162,7 +3143,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-IR",
     coords: [35.6094, 32.6106],
     name: { de: "Asch-Schunah asch-Schamaliyah", hu: "Es-Suna es-Samalijja", ro: "Ash-Shunah ash-Shamaliyah", en: "Ash-Shunah ash-Shamaliyah"},
-    image: "/poi-images/ash-shunah-ash-shamaliyah-cities-v2.webp",
     description: {
       de: "Ash-Shunah ash-Shamaliyah liegt im fruchtbaren Jordantal. Die intensive Landwirtschaft macht den Ort zu einem der wichtigsten Lebensmittelproduzenten des Landes.",
       hu: "Es-Suna es-Samalijja a termékeny Jordán-völgyben fekszik. Az intenzív mezőgazdaság a települést az ország egyik legfontosabb élelmiszertermelőjévé teszi.",
@@ -3270,7 +3250,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-KA",
     coords: [35.6961, 31.0667],
     name: { de: "Al-Mazar al-Dschanubi", hu: "Al-Mazar al-Dzsanubi", ro: "Al-Mazar al-Janubi", en: "Al-Mazar al-Janubi"},
-    image: "/poi-images/al-mazar-al-janubi-cities-v2.webp",
     description: {
       de: "Al-Mazar al-Janubi ist ein bedeutender Wallfahrtsort südlich von Karak. Die Stadt hat eine tiefe religiöse Bedeutung für Muslime weltweit.",
       hu: "Al-Mazar al-Dzsanubi jelentős zarándokhely Karaktól délre. A város mély vallási jelentőséggel bír a muszlimok számára világszerte.",
@@ -3333,7 +3312,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-IR",
     coords: [35.6833, 32.5000],
     name: { de: "Deir Abi Said", hu: "Dejr Abi Szaíd", ro: "Deir Abi Saeed", en: "Deir Abi Saeed"},
-    image: "/poi-images/deir-abi-saeed-cities-v2.webp",
     description: {
       de: "Deir Abi Saeed ist der zentrale Ort des Kourah-Distrikts. Die von dichten Eichenwäldern umgebene Stadt ist berühmt für ihr landwirtschaftliches Erbe.",
       hu: "Dejr Abi Szaíd a Kourah körzet központja. A sűrű tölgyerdőkkel körülvett város mezőgazdasági örökségéről híres.",
@@ -3441,7 +3419,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-AM",
     coords: [36.1119, 31.8153],
     name: { de: "Al-Muwaqqar", hu: "Al-Muvakkar", ro: "Al-Muwaqqar", en: "Al-Muwaqqar"},
-    image: "/poi-images/al-muwaqqar-cities-v2.webp",
     description: {
       de: "Al-Muwaqqar war ein prächtiger Wüstenpalast in frühislamischer Zeit. Heute ist es eine wachsende Stadt, die von den umliegenden Wüstenstämmen geprägt wird.",
       hu: "Al-Muvakkar a korai iszlám időkben egy pompás sivatagi palota volt. Ma egy növekvő város, amelyet a környező sivatagi törzsek határoznak meg.",
@@ -3504,7 +3481,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     parent: "JO-BA",
     coords: [35.7667, 31.9833],
     name: { de: "Mahis", hu: "Mahisz", ro: "Mahis", en: "Mahis"},
-    image: "/poi-images/mahis-cities-v2.webp",
     description: {
       de: "Mahis liegt auf den Hügeln über dem Jordantal. Die von Quellen durchzogene Landschaft macht den Ort zu einem grünen Zufluchtsort im heißen Sommer.",
       hu: "Mahisz a Jordán-völgye fölötti dombokon fekszik. A forrásokkal átszőtt táj zöld menedéket nyújt a forró nyárban.",

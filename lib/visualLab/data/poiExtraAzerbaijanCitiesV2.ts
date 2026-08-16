@@ -593,7 +593,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-BA",
     coords: [49.8822, 40.3953],
     name: { de: "Baku", hu: "Baku", ro: "Baku", en: "Baku"},
-    image: "/poi-images/baku-cities-v2.webp",
     description: {
       de: "Baku ist die Hauptstadt Aserbaidschans und die größte Stadt am Kaspischen Meer. Sie ist bekannt für ihre historische Altstadt und moderne Architektur wie die Flammentürme.",
       hu: "Baku Azerbajdzsán fővárosa és a Kaszpi-tenger legnagyobb városa. Ismert a történelmi óvárosáról és olyan modern építészeti csodáiról, mint a Láng-tornyok.",
@@ -712,7 +711,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-GA",
     coords: [46.3606, 40.6828],
     name: { de: "Gandscha", hu: "Ganja", ro: "Ganja", en: "Ganja"},
-    image: "/poi-images/ganja-cities-v2.webp",
     description: {
       de: "Gandscha ist die zweitgrößte Stadt Aserbaidschans und hat eine reiche Geschichte, die bis in die Antike zurückreicht. Die Stadt ist für ihre Dichter und historische Architektur berühmt.",
       hu: "Ganja Azerbajdzsán második legnagyobb városa, amely gazdag, az ókorig visszanyúló történelemmel rendelkezik. A város híres költőiről és történelmi építészetéről.",
@@ -1701,7 +1699,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-SM",
     coords: [49.6685, 40.5897],
     name: { de: "Sumqayıt", hu: "Sumqayit", ro: "Sumqayit", en: "Sumqayit"},
-    image: "/poi-images/sumqayit-cities-v2.webp",
     description: {
       de: "Sumqayıt ist die drittgrößte Stadt des Landes und ein wichtiges Zentrum der petrochemischen Industrie nahe Baku. Die Stadt entwickelte sich Mitte des 20. Jahrhunderts rasant.",
       hu: "Sumqayit az ország harmadik legnagyobb városa és a petrolkémiai ipar fontos központja Baku közelében. A város a 20. század közepén rohamosan fejlődött.",
@@ -1970,7 +1967,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-MI",
     coords: [47.0506, 40.7640],
     name: { de: "Mingəçevir", hu: "Mingachevir", ro: "Mingachevir", en: "Mingachevir"},
-    image: "/poi-images/mingachevir-cities-v2.webp",
     description: {
       de: "Mingəçevir ist als die Stadt des Lichts bekannt, da sich hier das größte Wasserkraftwerk des Landes befindet. Die Stadt liegt an den Ufern der Kura.",
       hu: "Mingachevir a fény városa néven ismert, mivel itt található az ország legnagyobb vízerőműve. A város a Kura folyó partján fekszik.",
@@ -2203,7 +2199,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-LA",
     coords: [48.8511, 38.7539],
     name: { de: "Lənkəran", hu: "Lankaran", ro: "Lankaran", en: "Lankaran"},
-    image: "/poi-images/lankaran-cities-v2.webp",
     description: {
       de: "Lənkəran liegt im Süden Aserbaidschans in der Nähe der iranischen Grenze. Die Region ist berühmt für ihr subtropisches Klima und den Anbau von Tee und Zitrusfrüchten.",
       hu: "Lankaran Azerbajdzsán déli részén fekszik, az iráni határ közelében. A régió híres szubtrópusi klímájáról, valamint a tea- és citrusfélék termesztéséről.",
@@ -2364,7 +2359,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-SR",
     coords: [48.9167, 39.9333],
     name: { de: "Şirvan", hu: "Shirvan", ro: "Shirvan", en: "Shirvan"},
-    image: "/poi-images/shirvan-cities-v2.webp",
     description: {
       de: "Şirvan ist eine bedeutende Industriestadt am Fluss Kura in der östlichen Tiefebene. Sie ist ein wichtiger Knotenpunkt für den Schienen- und Straßenverkehr.",
       hu: "Shirvan egy jelentős ipari város a Kura folyó mentén a keleti alföldön. A vasúti és közúti közlekedés fontos csomópontja.",
@@ -2804,7 +2798,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-NV",
     coords: [45.4122, 39.2089],
     name: { de: "Nachitschewan", hu: "Nakhchivan", ro: "Nakhicevan", en: "Nakhchivan"},
-    image: "/poi-images/nakhchivan-cities-v2.webp",
     description: {
       de: "Nachitschewan ist die Hauptstadt der gleichnamigen Autonomen Republik, einer Exklave Aserbaidschans. Die Stadt ist eine der ältesten Siedlungen im Kaukasus.",
       hu: "Nakhchivan az azonos nevű autonóm köztársaság, Azerbajdzsán egy exklávéjának fővárosa. A város a Kaukázus egyik legrégebbi települése.",
@@ -3325,7 +3318,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-YE",
     coords: [47.1500, 40.6167],
     name: { de: "Yevlax", hu: "Yevlakh", ro: "Yevlakh", en: "Yevlakh"},
-    image: "/poi-images/yevlakh-cities-v2.webp",
     description: {
       de: "Yevlax ist ein zentraler Verkehrsknotenpunkt in Aserbaidschan, an dem sich wichtige Straßen- und Eisenbahnlinien kreuzen. Die Stadt hat eine bedeutende landwirtschaftliche Umgebung.",
       hu: "Yevlakh Azerbajdzsán központi közlekedési csomópontja, ahol fontos közúti és vasúti vonalak keresztezik egymást. A város jelentős mezőgazdasági környezettel rendelkezik.",
@@ -3774,7 +3766,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-SA",
     coords: [47.1689, 41.2017],
     name: { de: "Şəki", hu: "Shaki", ro: "Shaki", en: "Shaki"},
-    image: "/poi-images/shaki-cities-v2.webp",
     description: {
       de: "Şəki liegt im Nordwesten Aserbaidschans und ist berühmt für seinen historischen Palast der Khane und Karawansereien. Die Stadt war ein wichtiges Zentrum der Seidenstraße.",
       hu: "Shaki Azerbajdzsán északnyugati részén található, és híres történelmi Kán-palotájáról, valamint karavánszerájairól. A város a Selyemút fontos állomása volt.",
@@ -4547,7 +4538,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-XA",
     coords: [46.7525, 39.8183],
     name: { de: "Xankəndi", hu: "Khankendi", ro: "Khankendi", en: "Khankendi"},
-    image: "/poi-images/khankendi-cities-v2.webp",
     description: {
       de: "Xankəndi ist eine Stadt in der Bergregion Karabach. Die Stadt war historisch ein wichtiges Zentrum für die Region und unterlief in der jüngeren Geschichte viele geopolitische Veränderungen.",
       hu: "Hahkendi egy város Karabah hegyvidéki régiójában. A város történelmileg fontos központja volt a területnek, és a közelmúltban sok geopolitikai változáson ment keresztül.",
@@ -4636,7 +4626,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-BAR",
     coords: [47.1267, 40.3744],
     name: { de: "Bərdə", hu: "Barda", ro: "Barda", en: "Barda"},
-    image: "/poi-images/barda-cities-v2.webp",
     description: {
       de: "Bərdə ist eine historische Stadt, die einst die Hauptstadt des antiken Königreichs Albania war. Sie liegt in der Kura-Aras-Ebene und ist reich an archäologischen Stätten.",
       hu: "Barda történelmi város, amely egykor az ókori Kaukázusi Albania királyságának fővárosa volt. A Kura-Araksz síkságon fekszik, és gazdag régészeti lelőhelyekben.",
@@ -4725,7 +4714,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-QBA",
     coords: [48.3142, 41.3622],
     name: { de: "Quba", hu: "Quba", ro: "Quba", en: "Quba"},
-    image: "/poi-images/quba-cities-v2.webp",
     description: {
       de: "Quba ist eine malerische Stadt im Nordosten des Landes, berühmt für ihre Apfelgärten und Teppichweberei. Die nahe gelegene Siedlung Qırmızı Qəsəbə ist ein Zentrum aserbaidschanischer Juden.",
       hu: "Quba festői város az ország északkeleti részén, híres almaültetvényeiről és szőnyegszövéséről. A közeli Qırmızı Qəsəbə az azerbajdzsáni zsidók központja.",
@@ -4994,7 +4982,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-GOY",
     coords: [47.7417, 40.6533],
     name: { de: "Göyçay", hu: "Goychay", ro: "Goychay", en: "Goychay"},
-    image: "/poi-images/goychay-cities-v2.webp",
     description: {
       de: "Göyçay ist die inoffizielle Hauptstadt des Granatapfels in Aserbaidschan. Die Stadt feiert jedes Jahr ein großes Granatapfelfestival, das Besucher aus dem ganzen Land anzieht.",
       hu: "Goychay a gránátalma nem hivatalos fővárosa Azerbajdzsánban. A város minden évben nagy gránátalma-fesztivált rendez, amely az egész országból vonzza a látogatókat.",
@@ -5263,7 +5250,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-SAL",
     coords: [48.9806, 39.5967],
     name: { de: "Salyan", hu: "Salyan", ro: "Salyan", en: "Salyan"},
-    image: "/poi-images/salyan-cities-v2.webp",
     description: {
       de: "Salyan liegt in der Nähe der Mündung des Kura-Flusses in das Kaspische Meer. Die Region ist wichtig für die Ölförderung und die Fischerei, insbesondere den Fang von Stör.",
       hu: "Salyan a Kura folyó Kaszpi-tengeri torkolatának közelében található. A régió fontos az olajkitermelés és a halászat, különösen a tokhal halászata szempontjából.",
@@ -5784,7 +5770,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-XAC",
     coords: [48.8078, 41.4719],
     name: { de: "Xaçmaz", hu: "Khachmaz", ro: "Khachmaz", en: "Khachmaz"},
-    image: "/poi-images/khachmaz-cities-v2.webp",
     description: {
       de: "Xaçmaz ist die größte landwirtschaftliche Region in Aserbaidschan, besonders bekannt für ihr Obst und Gemüse. Die Stadt dient als Tor zur beliebten Urlaubsregion Nabran.",
       hu: "Khachmaz Azerbajdzsán legnagyobb mezőgazdasági régiója, különösen zöldség- és gyümölcstermesztéséről ismert. A város kapuként szolgál a népszerű Nabran üdülőrégióhoz.",
@@ -5873,7 +5858,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-IMI",
     coords: [48.0600, 39.8692],
     name: { de: "İmişli", hu: "Imishli", ro: "Imishli", en: "Imishli"},
-    image: "/poi-images/imishli-cities-v2.webp",
     description: {
       de: "İmişli liegt im zentralen Teil Aserbaidschans und profitiert von der fruchtbaren Kura-Aras-Tiefebene. Die Stadt ist ein landwirtschaftliches Zentrum, das sich auf Zuckerproduktion spezialisiert hat.",
       hu: "Imishli Azerbajdzsán középső részén fekszik, és kihasználja a termékeny Kura-Araksz alföldet. A város egy mezőgazdasági központ, amely a cukortermelésre specializálódott.",
@@ -6142,7 +6126,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-AGC",
     coords: [47.4589, 40.0500],
     name: { de: "Ağcabədi", hu: "Agjabadi", ro: "Agjabadi", en: "Agjabadi"},
-    image: "/poi-images/agjabadi-cities-v2.webp",
     description: {
       de: "Ağcabədi ist ein historisches landwirtschaftliches Zentrum, das für seine Baumwollproduktion und Viehzucht bekannt ist. Die Stadt verbindet die Ebenen der Kura mit den Vorgebirgen des Kaukasus.",
       hu: "Agjabadi egy történelmi mezőgazdasági központ, amely gyapottermeléséről és állattenyésztéséről ismert. A város összeköti a Kura síkságát a Kaukázus lábával.",
@@ -6447,7 +6430,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-SMI",
     coords: [48.6386, 40.6303],
     name: { de: "Şamaxı", hu: "Shamakhi", ro: "Shamakhi", en: "Shamakhi"},
-    image: "/poi-images/shamakhi-cities-v2.webp",
     description: {
       de: "Şamaxı war einst die Hauptstadt des Reiches der Schirwanschahs und ist eine der ältesten Städte im Kaukasus. Heute ist sie für ihre historische Moschee und das Astrophysikalische Observatorium bekannt.",
       hu: "Shamakhi egykor a Shirvansah birodalom fővárosa volt, és a Kaukázus egyik legrégebbi városa. Ma történelmi mecsetéről és asztrofizikai obszervatóriumáról ismert.",
@@ -6572,7 +6554,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-SAB",
     coords: [48.4772, 39.9867],
     name: { de: "Sabirabad", hu: "Sabirabad", ro: "Sabirabad", en: "Sabirabad"},
-    image: "/poi-images/sabirabad-cities-v2.webp",
     description: {
       de: "Sabirabad liegt am Zusammenfluss der beiden wichtigsten Flüsse Aserbaidschans, Kura und Aras. Die Stadt ist ein landwirtschaftlicher Mittelpunkt der Region.",
       hu: "Sabirabad Azerbajdzsán két legfontosabb folyója, a Kura és az Araksz összefolyásánál fekszik. A város a régió mezőgazdasági központja.",
@@ -6841,7 +6822,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-SKR",
     coords: [46.0172, 40.8294],
     name: { de: "Şəmkir", hu: "Shamkir", ro: "Shamkir", en: "Shamkir"},
-    image: "/poi-images/shamkir-cities-v2.webp",
     description: {
       de: "Şəmkir hat eine reiche Geschichte, die stark durch deutsche Siedler im 19. Jahrhundert geprägt wurde. Die Stadt war früher als Annenfeld bekannt und zeigt noch heute deutsche Architektur.",
       hu: "Shamkir gazdag történelemmel rendelkezik, amelyet a 19. században érkező német telepesek erősen formáltak. A város korábban Annenfeld néven volt ismert, és még ma is őrzi a német építészet nyomait.",
@@ -7002,7 +6982,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-CAL",
     coords: [48.4978, 39.2053],
     name: { de: "Cəlilabad", hu: "Jalilabad", ro: "Jalilabad", en: "Jalilabad"},
-    image: "/poi-images/jalilabad-cities-v2.webp",
     description: {
       de: "Cəlilabad liegt im Süden Aserbaidschans in der fruchtbaren Mugan-Ebene. Die Wirtschaft der Stadt stützt sich stark auf die Landwirtschaft, insbesondere Weinbau und Getreideanbau.",
       hu: "Jalilabad Azerbajdzsán déli részén, a termékeny Mugan-síkságon fekszik. A város gazdasága erősen támaszkodik a mezőgazdaságra, különösen a szőlő- és gabonatermesztésre.",
@@ -7595,7 +7574,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-ZAQ",
     coords: [46.6433, 41.6336],
     name: { de: "Zaqatala", hu: "Zaqatala", ro: "Zagatala", en: "Zaqatala"},
-    image: "/poi-images/zaqatala-cities-v2.webp",
     description: {
       de: "Zaqatala ist eine charmante Stadt am Fuße des Großen Kaukasus. Die Region ist bekannt für ihre dichten Wälder, Haselnussplantagen und multikulturelle Bevölkerung.",
       hu: "Zaqatala egy bájos város a Nagy-Kaukázus lábánál. A régió sűrű erdeiről, mogyoróültetvényeiről és multikulturális lakosságáról ismert.",
@@ -7684,7 +7662,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-MAS",
     coords: [48.6653, 39.0342],
     name: { de: "Masallı", hu: "Masalli", ro: "Masalli", en: "Masalli"},
-    image: "/poi-images/masalli-cities-v2.webp",
     description: {
       de: "Masallı ist eine Stadt im Süden, die für ihre Thermalquellen und malerische Natur bekannt ist. Sie zieht viele Touristen an, die das Talysh-Gebirge und die Heilwasser besuchen.",
       hu: "Masalli egy déli város, amely híres termálforrásairól és festői természetéről. Sok turistát vonz, akik a Talis-hegységet és a gyógyvizeket keresik fel.",
@@ -7773,7 +7750,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-AGM",
     coords: [46.9272, 39.9933],
     name: { de: "Ağdam", hu: "Agdam", ro: "Agdam", en: "Agdam"},
-    image: "/poi-images/agdam-cities-v2.webp",
     description: {
       de: "Ağdam ist eine Stadt, die durch Konflikte schwere Zerstörungen erlitt und oft als Geisterstadt bezeichnet wurde. Gegenwärtig erlebt die Stadt umfassende Wiederaufbau- und Entwicklungsarbeiten.",
       hu: "Agdam egy olyan város, amely súlyos károkat szenvedett a konfliktusok során, és gyakran kísértetvárosként emlegették. Jelenleg a város átfogó újjáépítési és fejlesztési munkálatokon megy keresztül.",
@@ -7898,7 +7874,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-FUZ",
     coords: [47.1431, 39.6003],
     name: { de: "Füzuli", hu: "Fuzuli", ro: "Fuzuli", en: "Fuzuli"},
-    image: "/poi-images/fuzuli-cities-v2.webp",
     description: {
       de: "Füzuli ist eine Stadt im Südwesten Aserbaidschans, die in den letzten Jahren wiedererrichtet wurde. Die Stadt verfügt nun über einen modernen internationalen Flughafen und neue Infrastruktur.",
       hu: "Fuzuli egy délnyugat-azerbajdzsáni város, amelyet az elmúlt években újjáépítettek. A város ma már modern nemzetközi repülőtérrel és új infrastruktúrával rendelkezik.",
@@ -8095,7 +8070,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-QAB",
     coords: [47.8458, 40.9814],
     name: { de: "Qəbələ", hu: "Qabala", ro: "Gabala", en: "Qabala"},
-    image: "/poi-images/qabala-cities-v2.webp",
     description: {
       de: "Qəbələ ist ein beliebtes Touristenziel in den bewaldeten Bergen des Kaukasus. Die Region war in der Antike die Hauptstadt des Königreichs Albania und bietet viele historische Ruinen.",
       hu: "Qabala egy népszerű turisztikai célpont a Kaukázus erdős hegyeiben. A régió az ókorban Kaukázusi Albania fővárosa volt, és sok történelmi romot kínál.",
@@ -8139,7 +8113,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-BIL",
     coords: [48.5528, 39.4583],
     name: { de: "Biləsuvar", hu: "Bilasuvar", ro: "Bilasuvar", en: "Bilasuvar"},
-    image: "/poi-images/bilasuvar-cities-v2.webp",
     description: {
       de: "Biləsuvar liegt nahe der iranischen Grenze und ist primär eine landwirtschaftliche Region. Die Steppen der Umgebung werden intensiv für den Anbau von Baumwolle und Getreide genutzt.",
       hu: "Bilasuvar az iráni határ közelében található, és elsősorban mezőgazdasági régió. A környező sztyeppéket intenzíven használják gyapot- és gabonatermesztésre.",
@@ -8552,7 +8525,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-UCA",
     coords: [47.6536, 40.5186],
     name: { de: "Ucar", hu: "Ujar", ro: "Ujar", en: "Ujar"},
-    image: "/poi-images/ujar-cities-v2.webp",
     description: {
       de: "Ucar ist ein zentraler Verkehrsknotenpunkt für das aserbaidschanische Eisenbahnnetz. Die Stadt ist von weiten landwirtschaftlichen Feldern umgeben, auf denen hauptsächlich Baumwolle wächst.",
       hu: "Ujar az azerbajdzsáni vasúthálózat központi csomópontja. A várost kiterjedt mezőgazdasági földek veszik körül, ahol főleg gyapotot termesztenek.",
@@ -9145,7 +9117,6 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     parent: "AZ-TOV",
     coords: [45.6231, 40.9936],
     name: { de: "Tovuz", hu: "Tovuz", ro: "Tovuz", en: "Tovuz"},
-    image: "/poi-images/tovuz-cities-v2.webp",
     description: {
       de: "Tovuz liegt im Nordwesten Aserbaidschans in der Nähe von Georgien und Armenien. Die Region ist bekannt für ihre antiken Siedlungen und ihre florierende Weinindustrie.",
       hu: "Tovuz Azerbajdzsán északnyugati részén, Grúzia és Örményország közelében fekszik. A régió ókori településeiről és virágzó boriparáról ismert.",

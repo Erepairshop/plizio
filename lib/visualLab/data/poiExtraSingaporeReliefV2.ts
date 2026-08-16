@@ -201,7 +201,6 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       hu: "Bukit Timah-hegy",
       ro: "Dealul Bukit Timah",
       en: "Bukit Timah Hill"},
-    image: "/poi-images/sg-bukit-timah-hill-relief-v2.webp",
     description: {
       de: "Der höchste natürliche Punkt in Singapur mit einer Höhe von 163,63 Metern.",
       hu: "Szingapúr legmagasabb természetes pontja, 163,63 méter magas.",
@@ -762,7 +761,6 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       hu: "Mount Faber Park",
       ro: "Parcul Mount Faber",
       en: "Mount Faber Park"},
-    image: "/poi-images/sg-mount-faber-park-relief-v2.webp",
     description: {
       de: "Ein Hügel und Park mit Panoramablick auf die Stadt und die südlichen Inseln.",
       hu: "Egy hegy és park, ahonnan panorámás kilátás nyílik a városra és a déli szigetekre.",
@@ -927,7 +925,6 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       hu: "MacRitchie-víztározó Park",
       ro: "Parcul Rezervorului MacRitchie",
       en: "MacRitchie Reservoir Park"},
-    image: "/poi-images/sg-macritchie-reservoir-park-relief-v2.webp",
     description: {
       de: "Ein großes Talgebiet, das Singapurs ältestes Reservoir umgibt.",
       hu: "Egy nagy völgyterület, amely Szingapúr legrégebbi víztározóját veszi körül.",
@@ -1200,7 +1197,6 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       hu: "Changi Beach Park",
       ro: "Parcul Plaja Changi",
       en: "Changi Beach Park"},
-    image: "/poi-images/sg-changi-beach-park-relief-v2.webp",
     description: {
       de: "Einer der ältesten Küstenparks in Singapur mit einer dörflichen Atmosphäre.",
       hu: "Szingapúr egyik legrégebbi tengerparti parkja, falusias hangulattal.",
@@ -2178,7 +2174,6 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       hu: "Sentosa-sziget strandjai",
       ro: "Plajele insulei Sentosa",
       en: "Sentosa Island Beaches"},
-    image: "/poi-images/sg-sentosa-island-beaches-relief-v2.webp",
     description: {
       de: "Eine Reihe von künstlichen Stränden entlang der Südküste der Insel Sentosa.",
       hu: "Mesterséges strandok sorozata a Sentosa-sziget déli partja mentén.",
@@ -2379,7 +2374,6 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       hu: "Telok Blangah Hill Park",
       ro: "Parcul Dealul Telok Blangah",
       en: "Telok Blangah Hill Park"},
-    image: "/poi-images/sg-telok-blangah-hill-park-relief-v2.webp",
     description: {
       de: "Ein Teil der Southern Ridges, bekannt für seine Terrassengärten und den Forest Walk.",
       hu: "A Southern Ridges része, teraszos kertjeiről és a Forest Walkról (erdei sétány) ismert.",
@@ -2700,7 +2694,6 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       hu: "Sungei Buloh Vizes Élőhely Rezervátum",
       ro: "Rezervația de Zone Umede Sungei Buloh",
       en: "Sungei Buloh Wetland Reserve"},
-    image: "/poi-images/sg-sunget-buloh-wetland-reserve-relief-v2.webp",
     description: {
       de: "Ein wichtiges Küstengebiet für Zugvögel an der Nordwestküste von Singapur.",
       hu: "Fontos tengerparti terület a vándormadarak számára Szingapúr északnyugati partján.",
@@ -2793,7 +2786,6 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       hu: "Marina Barrage",
       ro: "Barajul Marina",
       en: "Marina Barrage"},
-    image: "/poi-images/sg-marina-barrage-relief-v2.webp",
     description: {
       de: "Ein Damm an der Küste, der ein Süßwasserreservoir im Herzen der Stadt bildet.",
       hu: "Egy tengerparti gát, amely egy édesvizű víztározót hoz létre a város szívében.",
@@ -4095,7 +4087,6 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       hu: "Kent Ridge Park",
       ro: "Parcul Kent Ridge",
       en: "Kent Ridge Park"},
-    image: "/poi-images/sg-kent-ridge-park-relief-v2.webp",
     description: {
       de: "Ein historischer Hügelpark, in dem eine der letzten Schlachten um Singapur im Zweiten Weltkrieg stattfand.",
       hu: "Egy történelmi hegyi park, ahol a második világháborúban Szingapúrért vívott egyik utolsó csata zajlott.",
@@ -4512,7 +4503,6 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       hu: "Clementi-erdő",
       ro: "Pădurea Clementi",
       en: "Clementi Forest"},
-    image: "/poi-images/sg-clementi-forest-relief-v2.webp",
     description: {
       de: "Ein großes, unbebautes Waldtal, das für seine reiche Biodiversität und natürlichen Bäche bekannt ist.",
       hu: "Egy nagy, beépítetlen erdei völgy, amely gazdag biodiverzitásáról és természetes patakjairól ismert.",

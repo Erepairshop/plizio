@@ -256,7 +256,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       pt: ["Inauguração oficial do parque em julho de 2016.", "Especializado no fabrico de têxteis e vestuário.", "Primeiro Eco-Industrial Park de África com ETAR ZLD.", "Oferece postos de trabalho a mais de 30.000 pessoas locais.", "Alberga empresas da Índia, China, EUA e Europa.", "Situado em Hawassa, a cerca de 275 quilómetros a sul de Addis Abeba."],
       fr: ["Ouverture officielle du parc en juillet 2016.", "Spécialisé dans la fabrication de textiles et de vêtements.", "Premier parc éco-industriel d'Afrique avec station ZLD.", "Fournit des emplois à plus de 30 000 personnes locales.", "Abrite des entreprises d'Inde, de Chine, des USA et d'Europe.", "Situé à Hawassa, à environ 275 km au sud d'Addis-Abeba."],
     }, },
-    image: "/poi-images/hawassa-industrial-park-economic-v2.webp",
     description: {
       de: "Der gröşte Industriepark Äthiopiens, spezialisiert auf Textilien und Bekleidungsproduktion für den internationalen Markt.",
       hu: "Etiópia legnagyobb ipari parkja, amely textíliák és ruházati termékek gyártására specializálódott a nemzetközi piac számára.",
@@ -351,7 +350,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       pt: ["O maior porto interior da Etiópia, fundado em 2009.", "Processa mais de 70% do tráfego nacional de contentores.", "Ligado diretamente ao caminho-de-ferro Etio-Djibuti.", "Localizado na cidade de Modjo, na região de Oromia.", "Possui serviços alfandegários e armazéns modernos.", "Nó importante para importações a partir do porto de Djibuti."],
       fr: ["Plus grand port intérieur d'Éthiopie, fondé en 2009.", "Traite plus de 70 % du trafic national de conteneurs.", "Directement relié au chemin de fer Ethio-Djibouti.", "Situé dans la ville de Modjo, dans la région d'Oromia.", "Dispose de services douaniers et d'entrepôts modernes.", "Point de passage majeur pour les importations du port de Djibouti."],
     }, },
-    image: "/poi-images/modjo-dry-port-economic-v2.webp",
     description: {
       de: "Der wichtigste Trockenhafen Äthiopiens, über den ein Groşteil der Import- und Exportgüter abgewickelt wird.",
       hu: "Etiópia legfontosabb szárazkikötŰ'je, amelyen a belföldi import- és exportáruk jelentŰ's része áthalad.",
@@ -626,7 +624,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       pt: ["Inauguração oficial do parque industrial em 2018.", "Especializado em têxteis, vestuário e engenharia mecânica.", "Localizado diretamente no importante corredor comercial para o Djibuti.", "Abrange uma área de cerca de 100 hectares de terreno.", "Alberga empresas da China e de outros países asiáticos.", "Criou mais de 10.000 postos de trabalho na região de Adama."],
       fr: ["Inauguration officielle du parc industriel en 2018.", "Spécialisé dans le textile, l'habillement et la construction mécanique.", "Situé directement sur l'important corridor commercial vers Djibouti.", "Couvre une superficie d'environ 100 hectares.", "Accueille des entreprises de Chine et d'autres pays asiatiques.", "A créé plus de 10 000 emplois dans la région d'Adama."],
     }, },
-    image: "/poi-images/adama-industrial-park-economic-v2.webp",
     description: {
       de: "Ein wichtiges Produktionszentrum für die Textil-, Bekleidungs- und Maschinenbauindustrie an der Hauptverkehrsader nach Dschibuti.",
       hu: "Fontos gyártási központ a textil-, ruházati és gépipar számára a Dzsibutiba vezetŰ' fŰ' útvonalon.",
@@ -863,7 +860,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       pt: ["Inauguração em 2014.", "Área total de mais de 350 hectares.", "Possui 20 pavilhões fabris na primeira fase.", "Criou mais de 18.000 postos de trabalho.", "Primeiro parque industrial estatal na Etiópia.", "Convenientemente localizado perto de Adis Abeba."],
       fr: ["Inauguration en 2014.", "Superficie totale de plus de 350 hectares.", "Dispose de 20 halls d'usine dans la phase un.", "A créé plus de 18 000 emplois.", "Premier parc industriel public d'Éthiopie.", "Idéalement situé près d'Addis-Abeba."],
     }, },
-    image: "/poi-images/bole-lemi-industrial-park-economic-v2.webp",
     description: {
       de: "Der erste staatlich entwickelte Industriepark Äthiopiens in Addis Abeba, fokussiert auf Leder- und Textilverarbeitung.",
       hu: "Etiópia elsŰ' állami fejlesztésű ipari parkja Addisz-Abebában, amely a bŰ'r- és textilfeldolgozásra összpontosít.",
@@ -1352,7 +1348,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       pt: ["Inaugurado em julho de 2017.", "Custo de desenvolvimento de 100 milhões de USD.", "A primeira fase abrange 75 hectares.", "Acolhe 15 pavilhões industriais.", "Possui uma estação de águas residuais ZLD.", "Potencial para 20.000 empregos."],
       fr: ["Inauguré en juillet 2017.", "Coûts de développement de 100 millions USD.", "La première phase comprend 75 hectares.", "Abrite 15 halls d'usine.", "Dispose d'une station d'épuration ZLD.", "Potentiel de 20 000 emplois."],
     }, },
-    image: "/poi-images/mekelle-industrial-park-economic-v2.webp",
     description: {
       de: "Ein wichtiger Industriekomplex in Nordäthiopien, der ausländische Direktinvestitionen in die verarbeitende Industrie anzieht.",
       hu: "Egy fontos ipari komplexum Észak-Etiópiában, amely közvetlen külföldi befektetéseket vonz a feldolgozóiparba.",
@@ -1381,7 +1376,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "Kombolcha Ipari Park",
       ro: "Parcul Industrial Kombolcha",
       en: "Kombolcha Industrial Park"},
-    image: "/poi-images/kombolcha-industrial-park-economic-v2.webp",
     description: {
       de: "Gelegen in der Region Amhara, stärkt dieser Park die regionale Wirtschaft durch exportorientierte Textil- und Bekleidungsproduktion.",
       hu: "Az Amhara régióban található park exportorientált textil- és ruházati termeléssel erŰ'síti a regionális gazdaságot.",
@@ -1474,7 +1468,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "Derba Midroc Cement Gyár",
       ro: "Fabrica de Ciment Derba Midroc",
       en: "Derba Midroc Cement Factory"},
-    image: "/poi-images/derba-midroc-cement-economic-v2.webp",
     description: {
       de: "Eine der gröşten Zementfabriken in Äthiopien, die wesentlich zur boomenden Bauindustrie des Landes beiträgt.",
       hu: "Etiópia egyik legnagyobb cementgyára, amely jelentŰ'sen hozzájárul az ország fellendülŰ' építŰ'iparához.",
@@ -1522,7 +1515,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "Mugher Cement Művek",
       ro: "Uzina de Ciment Mugher",
       en: "Mugher Cement Enterprise"},
-    image: "/poi-images/mugher-cement-enterprise-economic-v2.webp",
     description: {
       de: "Ein staatliches Unternehmen und einer der führenden Zementhersteller, der den inländischen Baustoffbedarf deckt.",
       hu: "Állami tulajdonú vállalat és vezetŰ' cementgyártó, amely a hazai építŰ'anyag-szükségletet elégíti ki.",
@@ -1570,7 +1562,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "Lega Dembi Aranybánya",
       ro: "Mina de Aur Lega Dembi",
       en: "Lega Dembi Gold Mine"},
-    image: "/poi-images/lega-dembi-gold-mine-economic-v2.webp",
     description: {
       de: "Die gröşte produzierende Goldmine in Äthiopien, die im Guji-Gebiet betrieben wird.",
       hu: "A legnagyobb termelŰ' aranybánya Etiópiában, amely a Guji régióban működik.",
@@ -1618,7 +1609,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "Kenticha Tantalum Bánya",
       ro: "Mina de Tantal Kenticha",
       en: "Kenticha Tantalum Mine"},
-    image: "/poi-images/kenticha-tantalum-mine-economic-v2.webp",
     description: {
       de: "Eines der wenigen groşen Abbaugebiete für Tantal in Afrika, ein wichtiges Mineral für die Elektronikindustrie.",
       hu: "Afrika kevés nagy tantál bányászati területének egyike, amely fontos ásványi anyag az elektronikai ipar számára.",
@@ -1783,7 +1773,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "Kilinto Ipari Park",
       ro: "Parcul Industrial Kilinto",
       en: "Kilinto Industrial Park"},
-    image: "/poi-images/kilinto-industrial-park-economic-v2.webp",
     description: {
       de: "Ein Industriepark am Stadtrand von Addis Abeba, der speziell für die pharmazeutische Produktion entwickelt wurde.",
       hu: "Egy ipari park Addisz-Abeba szélén, amelyet kifejezetten a gyógyszergyártás számára fejlesztettek ki.",
@@ -1831,7 +1820,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "Dire Dawa Ipari Park",
       ro: "Parcul Industrial Dire Dawa",
       en: "Dire Dawa Industrial Park"},
-    image: "/poi-images/dire-dawa-industrial-park-economic-v2.webp",
     description: {
       de: "Strategisch günstig nahe der dschibutischen Grenze gelegen, fördert dieser Park den Export von Textilien und Bekleidung.",
       hu: "A dzsibuti határ közelében, stratégiailag kedvezŰ' helyen található park a textilek és ruházati cikkek exportját segíti elŰ'.",
@@ -1879,7 +1867,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "Dire Dawa SzárazkikötŰ'",
       ro: "Portul Uscat Dire Dawa",
       en: "Dire Dawa Dry Port"},
-    image: "/poi-images/dire-dawa-dry-port-economic-v2.webp",
     description: {
       de: "Ein wichtiger Inlandsterminal für den Güterumschlag an der Eisenbahnstrecke Addis Abeba-Dschibuti.",
       hu: "Fontos belföldi terminál az árufuvarozás számára az Addisz-Abeba–Dzsibuti vasútvonalon.",
@@ -1927,7 +1914,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "Jimma Ipari Park",
       ro: "Parcul Industrial Jimma",
       en: "Jimma Industrial Park"},
-    image: "/poi-images/jimma-industrial-park-economic-v2.webp",
     description: {
       de: "Fokussiert auf die Agroindustrie und die Verarbeitung landwirtschaftlicher Produkte aus dem fruchtbaren Südwesten des Landes.",
       hu: "Az agrárágazatra és az ország termékeny délnyugati részébŰ'l származó mezŰ'gazdasági termékek feldolgozására összpontosít.",
@@ -2056,7 +2042,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "BGI Ethiopia Sörgyár",
       ro: "Berăria BGI Ethiopia",
       en: "BGI Ethiopia Brewery"},
-    image: "/poi-images/bgi-ethiopia-addis-ababa-economic-v2.webp",
     description: {
       de: "Eine der gröşten und ältesten Brauereien des Landes, bekannt für beliebte Marken wie St. George Beer.",
       hu: "Az ország egyik legnagyobb és legrégebbi sörgyára, amely a népszerű St. George sörrŰ'l ismert.",
@@ -2149,7 +2134,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "Debark Ipari Park",
       ro: "Parcul Industrial Debark",
       en: "Debark Industrial Park"},
-    image: "/poi-images/debark-industrial-park-economic-v2.webp",
     description: {
       de: "Ein neu entwickelter Industriepark, der die landwirtschaftliche Wertschöpfungskette in der Region stärken soll.",
       hu: "Egy újonnan fejlesztett ipari park, amelynek célja a régió mezŰ'gazdasági értékláncának megerŰ'sítése.",
@@ -2197,7 +2181,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "National Cement Gyár",
       ro: "Fabrica de Ciment NaÈâۼional",
       en: "National Cement Factory"},
-    image: "/poi-images/national-cement-share-company-economic-v2.webp",
     description: {
       de: "Eines der ältesten Zementwerke Äthiopiens in Dire Dawa, das kontinuierlich modernisiert wurde.",
       hu: "Etiópia egyik legrégebbi cementgyára Dire Dawa-ban, amelyet folyamatosan korszerűsítettek.",
@@ -2245,7 +2228,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "Wonji-Shoa Cukorgyár",
       ro: "Fabrica de Zahăr Wonji-Shoa",
       en: "Wonji-Shoa Sugar Factory"},
-    image: "/poi-images/wonji-shoa-sugar-factory-economic-v2.webp",
     description: {
       de: "Eine historische Zuckerfabrik, die den Grundstein für die äthiopische Zuckerindustrie legte.",
       hu: "Történelmi cukorgyár, amely letette az etióp cukoripar alapjait.",
@@ -2293,7 +2275,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "Tulu Kapi Aranybánya",
       ro: "Mina de Aur Tulu Kapi",
       en: "Tulu Kapi Gold Mine"},
-    image: "/poi-images/tulu-kapi-gold-mine-economic-v2.webp",
     description: {
       de: "Ein groşes Goldbergbauprojekt in der Region Oromia, das signifikant zur Steigerung der Goldexporte beitragen soll.",
       hu: "Nagy aranybányászati projekt az Oromia régióban, amely jelentŰ'sen hozzájárul az aranyexport növeléséhez.",
@@ -2731,7 +2712,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "Kombolcha SzárazkikötŰ'",
       ro: "Portul Uscat Kombolcha",
       en: "Kombolcha Dry Port"},
-    image: "/poi-images/kombolcha-dry-port-economic-v2.webp",
     description: {
       de: "Ein Logistikzentrum in der Amhara-Region, das Importeure und Exporteure im nördlichen Korridor bedient.",
       hu: "Logisztikai központ az Amhara régióban, amely az északi folyosón szolgálja ki az importŰ'röket és exportŰ'röket.",
@@ -2872,7 +2852,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "Dukem Keleti Iparzóna",
       ro: "Zona Industrială de Est Dukem",
       en: "Dukem Eastern Industry Zone"},
-    image: "/poi-images/dukem-eastern-industry-zone-economic-v2.webp",
     description: {
       de: "Eines der ersten Industrieprojekte, das von chinesischen Investoren in Äthiopien entwickelt wurde, mit Fokus auf verschiedene Fertigungsbereiche.",
       hu: "Az egyik elsŰ' kínai befektetŰ'k által fejlesztett ipari projekt Etiópiában, amely a különbözŰ' gyártási ágazatokra összpontosít.",
@@ -3613,7 +3592,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "Huajian CipŰ'gyár",
       ro: "Fabrica de ÎncălÈâۼăminte Huajian",
       en: "Huajian Shoe Factory"},
-    image: "/poi-images/huajian-shoe-factory-economic-v2.webp",
     description: {
       de: "Eine groşe Fabrik eines chinesischen Herstellers, die Millionen von Schuhen für den Export nach Europa und Amerika produziert.",
       hu: "Egy kínai gyártó nagy gyára, amely több millió cipŰ't gyárt európai és amerikai exportra.",
@@ -3661,7 +3639,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "Dangote Cement Etiópia",
       ro: "Fabrica de Ciment Dangote Etiopia",
       en: "Dangote Cement Ethiopia"},
-    image: "/poi-images/dangote-cement-ethiopia-economic-v2.webp",
     description: {
       de: "Das gröşte Zementwerk in Äthiopien, betrieben von der Dangote-Gruppe, das die lokale Infrastruktur stark unterstützt.",
       hu: "Etiópia legnagyobb cementgyára, amelyet a Dangote-csoport üzemeltet, és amely erŰ'sen támogatja a helyi infrastruktúrát.",
@@ -3744,7 +3721,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "Habesha Sörgyár",
       ro: "Berăria Habesha",
       en: "Habesha Breweries"},
-    image: "/poi-images/habesha-breweries-economic-v2.webp",
     description: {
       de: "Eine hochmoderne Brauerei in Debre Birhan, die sich schnell einen groşen Marktanteil im Land gesichert hat.",
       hu: "Egy ultramodern sörgyár Debre Birhanban, amely gyorsan jelentŰ's piaci részesedést szerzett az országban.",
@@ -3792,7 +3768,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "Metehera Cukorgyár",
       ro: "Fabrica de Zahăr Metehera",
       en: "Metehera Sugar Factory"},
-    image: "/poi-images/metehera-sugar-factory-economic-v2.webp",
     description: {
       de: "Eine riesige Zuckerrohrplantage und Fabrik im Awash-Tal, die eine zentrale Rolle in der Zuckerproduktion des Landes spielt.",
       hu: "Egy hatalmas cukornádültetvény és gyár az Awash-völgyben, amely központi szerepet játszik az ország cukortermelésében.",
@@ -3840,7 +3815,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "Mekelle SzárazkikötŰ'",
       ro: "Portul Uscat Mekelle",
       en: "Mekelle Dry Port"},
-    image: "/poi-images/mekelle-dry-port-economic-v2.webp",
     description: {
       de: "Das wichtigste Logistikzentrum in der Tigray-Region, das die Industriezonen im Norden mit den internationalen Häfen verbindet.",
       hu: "A Tigré régió legfontosabb logisztikai központja, amely az északi ipari övezeteket köti össze a nemzetközi kikötŰ'kkel.",
@@ -3888,7 +3862,6 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: "Almeda Textilgyár",
       ro: "Fabrica de Textile Almeda",
       en: "Almeda Textile Factory"},
-    image: "/poi-images/almeda-textile-factory-economic-v2.webp",
     description: {
       de: "Ein etablierter Textil- und Bekleidungshersteller im Norden Äthiopiens, der lokale Baumwolle verarbeitet.",
       hu: "Észak-Etiópia egyik bevált textil- és ruházati gyártója, amely helyi pamutot dolgoz fel.",

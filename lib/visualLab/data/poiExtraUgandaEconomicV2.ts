@@ -12,7 +12,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Namanve Ipari és Üzleti Park",
       ro: "Parcul Industrial și de Afaceri Namanve",
       en: "Namanve Industrial and Business Park"},
-    image: "/poi-images/namanve-industrial-and-business-park-economic-v2.webp",
     description: {
       de: "Ugandas größter Industriepark, der eine Vielzahl von Produktions- und Verarbeitungsbetrieben beherbergt.",
       hu: "Uganda legnagyobb ipari parkja, amely számos gyártó- és feldolgozóüzemnek ad otthont.",
@@ -76,7 +75,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Jinja Ipartelep",
       ro: "Zona Industrială Jinja",
       en: "Jinja Industrial Area"},
-    image: "/poi-images/jinja-industrial-area-economic-v2.webp",
     description: {
       de: "Ein historisches Industriezentrum in Uganda, bekannt für Textilien, Metallverarbeitung und Lebensmittelproduktion.",
       hu: "Történelmi ipari központ Ugandában, amely textíliáiról, fémfeldolgozásáról és élelmiszeriparáról ismert.",
@@ -140,7 +138,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Tororo Cementgyár",
       ro: "Fabrica de Ciment Tororo",
       en: "Tororo Cement Factory"},
-    image: "/poi-images/tororo-cement-factory-economic-v2.webp",
     description: {
       de: "Der größte Zementhersteller in Uganda, der eine entscheidende Rolle in der Bauindustrie des Landes spielt.",
       hu: "Uganda legnagyobb cementgyártója, amely döntő szerepet játszik az ország építőiparában.",
@@ -285,7 +282,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Hima Cementgyár",
       ro: "Fabrica de Ciment Hima",
       en: "Hima Cement Factory"},
-    image: "/poi-images/hima-cement-factory-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Zementwerk in Westuganda, das den nationalen und regionalen Baumarkt beliefert.",
       hu: "Jelentős cementgyár Nyugat-Ugandában, amely a hazai és regionális építőipari piacot látja el.",
@@ -349,7 +345,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Kilembe Rézbányák",
       ro: "Minele de Cupru Kilembe",
       en: "Kilembe Copper Mines"},
-    image: "/poi-images/kilembe-copper-mines-economic-v2.webp",
     description: {
       de: "Eine historische Bergbaustätte, die einst der größte Kupferproduzent Ugandas am Fuße des Rwenzori-Gebirges war.",
       hu: "Történelmi bányászati helyszín, amely egykor Uganda legnagyobb réztermelője volt a Rwenzori-hegység lábánál.",
@@ -413,7 +408,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Kakira Cukorgyár",
       ro: "Fabrica de Zahăr Kakira",
       en: "Kakira Sugar Works"},
-    image: "/poi-images/kakira-sugar-works-economic-v2.webp",
     description: {
       de: "Das größte Zuckerproduktionsunternehmen in Uganda, das auch erneuerbare Energie aus Bagasse erzeugt.",
       hu: "Uganda legnagyobb cukortermelő vállalata, amely bagaszból megújuló energiát is termel.",
@@ -477,7 +471,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Kinyara Cukorgyár",
       ro: "Fabrica de Zahăr Kinyara",
       en: "Kinyara Sugar Works"},
-    image: "/poi-images/kinyara-sugar-works-economic-v2.webp",
     description: {
       de: "Ein bedeutender Zuckerproduzent im Westen Ugandas, der einen wichtigen Beitrag zur lokalen Wirtschaft leistet.",
       hu: "Jelentős cukortermelő Nyugat-Ugandában, amely nagymértékben hozzájárul a helyi gazdasághoz.",
@@ -586,7 +579,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Lugazi Cukorgyár",
       ro: "Fabrica de Zahăr Lugazi",
       en: "Lugazi Sugar Factory"},
-    image: "/poi-images/lugazi-sugar-factory-economic-v2.webp",
     description: {
       de: "Eine der ältesten Zuckerfabriken des Landes, die von der Sugar Corporation of Uganda Limited betrieben wird.",
       hu: "Az ország egyik legrégebbi cukorgyára, amelyet a Sugar Corporation of Uganda Limited üzemeltet.",
@@ -650,7 +642,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Osukuru Foszfátprojekt",
       ro: "Proiectul de Fosfat Osukuru",
       en: "Osukuru Phosphate Project"},
-    image: "/poi-images/osukuru-phosphate-project-economic-v2.webp",
     description: {
       de: "Ein riesiger Industriekomplex, der auf die Herstellung von Düngemitteln, Stahl und anderen Produkten aus lokalen Mineralien abzielt.",
       hu: "Hatalmas ipari komplexum, amely műtrágyák, acél és egyéb termékek helyi ásványokból történő előállítására irányul.",
@@ -759,7 +750,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Bujagali Vízerőmű",
       ro: "Hidrocentrala Bujagali",
       en: "Bujagali Hydroelectric Power Station"},
-    image: "/poi-images/bujagali-hydroelectric-power-station-economic-v2.webp",
     description: {
       de: "Ein großes Wasserkraftwerk am Victoria-Nil, das eine wesentliche Quelle für die Stromversorgung Ugandas ist.",
       hu: "Nagy vízerőmű a Viktória-Níluson, amely Uganda villamosenergia-ellátásának egyik legfontosabb forrása.",
@@ -823,7 +813,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Karuma Vízerőmű",
       ro: "Hidrocentrala Karuma",
       en: "Karuma Hydroelectric Power Station"},
-    image: "/poi-images/karuma-hydroelectric-power-station-economic-v2.webp",
     description: {
       de: "Das größte Wasserkraftwerk Ugandas am Nil, das die Stromerzeugungskapazität des Landes erheblich steigert.",
       hu: "Uganda legnagyobb vízerőműve a Níluson, amely jelentősen növeli az ország áramtermelő kapacitását.",
@@ -887,7 +876,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Isimba Vízerőmű",
       ro: "Hidrocentrala Isimba",
       en: "Isimba Hydroelectric Power Station"},
-    image: "/poi-images/isimba-hydroelectric-power-station-economic-v2.webp",
     description: {
       de: "Ein wichtiges Laufwasserkraftwerk am Nil, das saubere Energie für das nationale Stromnetz Ugandas liefert.",
       hu: "Fontos folyóvizes erőmű a Níluson, amely tiszta energiát szolgáltat Uganda országos elektromos hálózatába.",
@@ -951,7 +939,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Kingfisher Olajmező",
       ro: "Câmpul Petrolier Kingfisher",
       en: "Kingfisher Oil Field"},
-    image: "/poi-images/kingfisher-oil-field-economic-v2.webp",
     description: {
       de: "Eines der Hauptölfelder in der Albertsee-Region, das entscheidend für die aufstrebende Ölindustrie Ugandas ist.",
       hu: "Az Albert-tó régiójának egyik fő olajmezője, amely kulcsfontosságú Uganda feltörekvő olajipara számára.",
@@ -1060,7 +1047,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Tilenga Olajprojekt",
       ro: "Proiectul Petrolier Tilenga",
       en: "Tilenga Oil Project"},
-    image: "/poi-images/tilenga-oil-project-economic-v2.webp",
     description: {
       de: "Ein umfangreiches Projekt zur Ölförderung im nördlichen Teil des Albertsees, geleitet von TotalEnergies.",
       hu: "Átfogó olajkitermelési projekt az Albert-tó északi részén, amelyet a TotalEnergies vezet.",
@@ -1124,7 +1110,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Soroti Gyümölcsgyár",
       ro: "Fabrica de Fructe Soroti",
       en: "Soroti Fruit Factory"},
-    image: "/poi-images/soroti-fruit-factory-economic-v2.webp",
     description: {
       de: "Ein staatlich unterstütztes Werk zur Verarbeitung von lokal angebauten Zitrusfrüchten und Mangos zu Saftkonzentraten.",
       hu: "Államilag támogatott üzem a helyben termesztett citrusfélék és mangók gyümölcslé-koncentrátummá történő feldolgozására.",
@@ -1188,7 +1173,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Mbarara Ipari Park",
       ro: "Parcul Industrial Mbarara",
       en: "Mbarara Industrial Park"},
-    image: "/poi-images/mbarara-industrial-park-economic-v2.webp",
     description: {
       de: "Ein wachsendes Industriezentrum im Westen Ugandas, das sich auf Agroindustrie und Fertigung konzentriert.",
       hu: "Növekvő ipari központ Nyugat-Ugandában, amely az agráriparra és a feldolgozóiparra összpontosít.",
@@ -1316,7 +1300,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Mukono Ipartelep",
       ro: "Zona Industrială Mukono",
       en: "Mukono Industrial Area"},
-    image: "/poi-images/mukono-industrial-area-economic-v2.webp",
     description: {
       de: "Ein wichtiges Fertigungszentrum in der Nähe von Kampala mit einer Vielzahl von Schwer- und Leichtindustrien.",
       hu: "Fontos gyártási központ Kampala közelében, amely számos nehéz- és könnyűipari létesítménnyel rendelkezik.",
@@ -1380,7 +1363,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Mbale Ipari Park",
       ro: "Parcul Industrial Mbale",
       en: "Mbale Industrial Park"},
-    image: "/poi-images/mbale-industrial-park-economic-v2.webp",
     description: {
       de: "Ein weiterer großer, von China unterstützter Industriepark, der auf die Herstellung verschiedener Konsumgüter spezialisiert ist.",
       hu: "Egy másik nagy, Kína által támogatott ipari park, amely különféle fogyasztási cikkek gyártására specializálódott.",
@@ -1444,7 +1426,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Bweyogerere Ipari Park",
       ro: "Parcul Industrial Bweyogerere",
       en: "Bweyogerere Industrial Park"},
-    image: "/poi-images/bweyogerere-industrial-park-economic-v2.webp",
     description: {
       de: "Ein strategisch günstig gelegener Industriepark im Großraum Kampala, der vor allem kleine und mittlere Unternehmen anzieht.",
       hu: "Stratégiailag kedvező fekvésű ipari park a nagyobb Kampala területén, amely főként a kis- és középvállalkozásokat vonzza.",
@@ -1508,7 +1489,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Luzira Ipari Park",
       ro: "Parcul Industrial Luzira",
       en: "Luzira Industrial Park"},
-    image: "/poi-images/luzira-industrial-park-economic-v2.webp",
     description: {
       de: "Ein Industriegebiet am Ufer des Victoriasees, bekannt für pharmazeutische Produktion und Lebensmittelverarbeitung.",
       hu: "Ipari terület a Viktória-tó partján, amely gyógyszergyártásról és élelmiszer-feldolgozásról ismert.",
@@ -1572,7 +1552,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Namekara Vermikulit Bánya",
       ro: "Mina de Vermiculit Namekara",
       en: "Namekara Vermiculite Mine"},
-    image: "/poi-images/namekara-vermiculite-mine-economic-v2.webp",
     description: {
       de: "Eine der größten Vermiculit-Lagerstätten der Welt, deren Abbau eine wichtige Rolle im ugandischen Bergbausektor spielt.",
       hu: "A világ egyik legnagyobb vermikulit-lelőhelye, amelynek bányászata fontos szerepet játszik az ugandai bányászati ágazatban.",
@@ -1636,7 +1615,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Tiira Aranybánya",
       ro: "Mina de Aur Tiira",
       en: "Tiira Gold Mine"},
-    image: "/poi-images/tiira-gold-mine-economic-v2.webp",
     description: {
       de: "Ein Goldabbaugebiet im Osten Ugandas, das sowohl handwerkliche als auch kleine gewerbliche Bergbauaktivitäten umfasst.",
       hu: "Aranybányászati terület Kelet-Ugandában, amely mind kézműves, mind kisüzemi bányászati tevékenységeket magában foglal.",
@@ -1700,7 +1678,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Bukakata Kikötője",
       ro: "Portul Bukakata",
       en: "Bukakata Port"},
-    image: "/poi-images/bukakata-port-economic-v2.webp",
     description: {
       de: "Ein wichtiger Fährhafen am Victoriasee, der das Festland mit den Ssese-Inseln verbindet und den Handel fördert.",
       hu: "Fontos kompkikötő a Viktória-tavon, amely összeköti a szárazföldet a Ssese-szigetekkel és elősegíti a kereskedelmet.",
@@ -1809,7 +1786,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Port Bell",
       ro: "Port Bell",
       en: "Port Bell"},
-    image: "/poi-images/port-bell-economic-v2.webp",
     description: {
       de: "Der wichtigste Hafen Ugandas am Victoriasee, der für den Import und Export von Gütern über den Seeweg nach Kenia und Tansania genutzt wird.",
       hu: "Uganda legfontosabb kikötője a Viktória-tavon, amelyet az áruk vízi úton történő importjára és exportjára használnak Kenyába és Tanzániába.",
@@ -1918,7 +1894,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Jinja Móló",
       ro: "Cheiul Jinja",
       en: "Jinja Pier"},
-    image: "/poi-images/jinja-pier-economic-v2.webp",
     description: {
       de: "Ein historischer Pier in Jinja, der einst ein Knotenpunkt für den Frachtverkehr auf dem Victoriasee war und saniert wird.",
       hu: "Történelmi móló Jinjában, amely egykor a Viktória-tó teherforgalmának központja volt, és jelenleg felújítás alatt áll.",
@@ -2531,7 +2506,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Entebbe Móló",
       ro: "Cheiul Entebbe",
       en: "Entebbe Pier"},
-    image: "/poi-images/entebbe-pier-economic-v2.webp",
     description: {
       de: "Ein kleinerer Hafen am Victoriasee, der hauptsächlich von Fischerbooten und Passagierfähren genutzt wird.",
       hu: "Egy kisebb kikötő a Viktória-tavon, amelyet főként halászhajók és utaskompok használnak.",
@@ -2676,7 +2650,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Majanji Kikötője",
       ro: "Portul Majanji",
       en: "Majanji Port"},
-    image: "/poi-images/majanji-port-economic-v2.webp",
     description: {
       de: "Ein historischer Landeplatz am Victoriasee nahe der kenianischen Grenze, der als Umschlagplatz für Fische und kleine Waren dient.",
       hu: "Történelmi kikötőhely a Viktória-tavon, a kenyai határ közelében, amely halak és apró áruk átrakodóhelyeként szolgál.",
@@ -2740,7 +2713,6 @@ export const poiExtraUgandaEconomicV2: POI[] = [
       hu: "Kasensero Kikötője",
       ro: "Portul Kasensero",
       en: "Kasensero Port"},
-    image: "/poi-images/kasensero-port-economic-v2.webp",
     description: {
       de: "Einer der größten und belebtesten Fischereihäfen am Victoriasee in Uganda nahe der Grenze zu Tansania.",
       hu: "Az egyik legnagyobb és legforgalmasabb halászkikötő Ugandában, a Viktória-tavon, a tanzániai határ közelében.",

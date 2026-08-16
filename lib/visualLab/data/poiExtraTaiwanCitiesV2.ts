@@ -197,7 +197,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-TPE",
     coords: [121.5654, 25.0329],
     name: { de: "Taipeh", hu: "Tajpej", ro: "Taipei", en: "Taipei"},
-    image: "/poi-images/taipei-cities-v2.webp",
     description: { de: "Die pulsierende Hauptstadt Taiwans, bekannt für den 508 Meter hohen Taipei 101 und lebhafte Nachtmärkte.", hu: "Tajvan nyüzsgő fővárosa, mely az 508 méter magas Taipei 101 felhőkarcolóról és az éjszakai piacokról ismert.", ro: "Capitala vibrantă a Taiwanului, faimoasă pentru zgârie-norul Taipei 101 înalt de 508 metri și piețele de noapte.", en: "The bustling capital of Taiwan, known for the 508-meter-tall Taipei 101 skyscraper and lively night markets." , es: "La vibrante capital de Taiwán, conocida por el Taipei 101 de 508 metros y sus animados mercados nocturnos.", pt: "A vibrante capital de Taiwan, conhecida pelo Taipei 101 de 508 metros e seus animados mercados noturnos.", fr: "La vibrante capitale de Taïwan, connue pour le Taipei 101 de 508 mètres et ses marchés de nuit animés."},
     facts: {
       de: ["508 m hoher Taipei 101", "2.6 Millionen Einwohner", "Gegründet im Jahr 1884", "Shilin-Nachtmarkt"],
@@ -794,7 +793,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-NWT",
     coords: [121.464, 25.011],
     name: { de: "Neu-Taipeh", hu: "Új-Tajpej", ro: "Noul Taipei", en: "New Taipei City"},
-    image: "/poi-images/new-taipei-cities-v2.webp",
     description: { de: "Die bevölkerungsreichste Stadt in Taiwan, die das gesamte Gebiet um Taipeh umschließt.", hu: "Tajvan legnépesebb városa, amely teljesen körülveszi a fővárost, Tajpejt.", ro: "Cel mai populat oraș din Taiwan, care înconjoară complet capitala Taipei.", en: "The most populous city in Taiwan, completely enclosing the capital Taipei." , es: "La ciudad más poblada de Taiwán, que rodea completamente la zona de Taipéi.", pt: "A cidade mais populosa de Taiwan, que envolve completamente a área de Taipé.", fr: "La ville la plus peuplée de Taïwan, qui entoure complètement la région de Taipei."},
     facts: {
       de: ["Bevölkerungsreichste Stadt", "Über 4 Millionen Einwohner", "Jiufen-Dorf ist bekannt", "Wurde 1979 zum Landkreis"],
@@ -1271,7 +1269,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-TAO",
     coords: [121.301, 24.993],
     name: { de: "Taoyuan", hu: "Taojüan", ro: "Taoyuan", en: "Taoyuan"},
-    image: "/poi-images/taoyuan-cities-v2.webp",
     description: { de: "Eine wichtige Industriestadt im Nordwesten, die den internationalen Hauptflughafen Taiwans beherbergt.", hu: "Jelentős iparváros északnyugaton, itt található Tajvan legfőbb nemzetközi repülőtere.", ro: "Un important oraș industrial în nord-vest, găzduind principalul aeroport internațional din Taiwan.", en: "A major industrial city in the northwest, home to Taiwan's main international airport." , es: "Una importante ciudad industrial en el noroeste que alberga el aeropuerto internacional de Taiwán.", pt: "Uma importante cidade industrial no noroeste que abriga o aeroporto internacional de Taiwan.", fr: "Une ville industrielle importante dans le nord-ouest qui abrite l'aéroport international de Taïwan."},
     facts: {
       de: ["Der größte Flughafen", "Zentrum der Elektronik", "2.3 Millionen Einwohner", "Wurde 2014 eigenständig"],
@@ -2648,7 +2645,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-TXG",
     coords: [120.673, 24.147],
     name: { de: "Taichung", hu: "Tajcsung", ro: "Taichung", en: "Taichung"},
-    image: "/poi-images/taichung-cities-v2.webp",
     description: { de: "Die zweitgrößte Stadt Taiwans, berühmt für angenehmes Klima und kulturelle Museen.", hu: "Tajvan második legnagyobb városa, amely kellemes klímájáról és kulturális múzeumairól híres.", ro: "Al doilea oraș ca mărime din Taiwan, faimos pentru clima plăcută și muzeele culturale.", en: "Taiwan's second largest city, famous for its pleasant climate and cultural museums." , es: "La segunda ciudad más grande de Taiwán, famosa por su clima agradable y sus museos culturales.", pt: "A segunda maior cidade de Taiwan, famosa pelo seu clima agradável e museus culturais.", fr: "La deuxième plus grande ville de Taïwan, célèbre pour son climat agréable et ses musées culturels."},
     facts: {
       de: ["2.8 Millionen Einwohner", "Heimat des Bubble Teas", "Naturkundemuseum", "Industriezentrum"],
@@ -3692,7 +3688,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-TNN",
     coords: [120.227, 22.999],
     name: { de: "Tainan", hu: "Tajnan", ro: "Tainan", en: "Tainan"},
-    image: "/poi-images/tainan-cities-v2.webp",
     description: { de: "Die älteste Stadt auf der Insel, reich an historischen Tempeln und traditioneller Esskultur.", hu: "A sziget legrégebbi városa, amely gazdag történelmi templomokban és hagyományos ételekben.", ro: "Cel mai vechi oraș de pe insulă, bogat în temple istorice și mâncare tradițională.", en: "The oldest city on the island, rich in historic temples and traditional food culture." , es: "La ciudad más antigua de la isla, rica en templos históricos y cultura gastronómica tradicional.", pt: "A cidade mais antiga da ilha, rica em templos históricos e cultura gastronômica tradicional.", fr: "La plus ancienne ville de l'île, riche en temples historiques et en culture gastronomique traditionnelle."},
     facts: {
       de: ["Älteste Stadt Taiwans", "Gegründet im Jahr 1624", "Ehemalige Qing-Hauptstadt", "Berühmt für alte Tempel"],
@@ -4565,7 +4560,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-KHH",
     coords: [120.301, 22.627],
     name: { de: "Kaohsiung", hu: "Kaohsziung", ro: "Kaohsiung", en: "Kaohsiung"},
-    image: "/poi-images/kaohsiung-cities-v2.webp",
     description: { de: "Eine bedeutende Hafenstadt im Süden, bekannt für den Liebesfluss und das Pier-2 Art Center.", hu: "Jelentős déli kikötőváros, amely a Szerelem-folyóról és a Pier-2 Művészeti Központról ismert.", ro: "Un important oraș portuar în sud, cunoscut pentru Râul Iubirii și Centrul de Artă Pier-2.", en: "A major port city in the south, known for the Love River and the Pier-2 Art Center." , es: "Una importante ciudad portuaria en el sur, conocida por el Love River y el Pier-2 Art Center.", pt: "Uma importante cidade portuária no sul, conhecida pelo Love River e pelo Pier-2 Art Center.", fr: "Une ville portuaire importante dans le sud, connue pour la rivière Love et le Pier-2 Art Center."},
     facts: {
       de: ["Größter Hafen Taiwans", "2.7 Millionen Einwohner", "347m hoher 85 Sky Tower", "Der Liebesfluss"],
@@ -4754,7 +4748,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-KEE",
     coords: [121.739, 25.127],
     name: { de: "Keelung", hu: "Csilung", ro: "Keelung", en: "Keelung"},
-    image: "/poi-images/keelung-cities-v2.webp",
     description: { de: "Eine geschäftige Hafenstadt im Nordosten, berühmt für ihren Nachtmarkt und regnerisches Wetter.", hu: "Forgalmas északkeleti kikötőváros, amely az éjszakai piacáról és esős időjárásáról híres.", ro: "Un oraș portuar aglomerat în nord-est, faimos pentru piața sa de noapte și vremea ploioasă.", en: "A bustling port city in the northeast, famous for its night market and rainy weather." , es: "Una bulliciosa ciudad portuaria en el noreste, famosa por su mercado nocturno y su clima lluvioso.", pt: "Uma movimentada cidade portuária no nordeste, famosa pelo seu mercado noturno e clima chuvoso.", fr: "Une ville portuaire animée dans le nord-est, célèbre pour son marché nocturne et son temps pluvieux."},
     facts: {
       de: ["Die regenreichste Stadt", "Zweitgrößter Hafen", "Miaokou-Nachtmarkt", "Früher Jilong genannt"],
@@ -5249,7 +5242,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-HSZ",
     coords: [120.967, 24.813],
     name: { de: "Hsinchu", hu: "Hszincsu", ro: "Hsinchu", en: "Hsinchu"},
-    image: "/poi-images/hsinchu-cities-v2.webp",
     description: { de: "Das Zentrum der taiwanesischen Halbleiterindustrie, oft als Silicon Valley von Taiwan bezeichnet.", hu: "A tajvani félvezetőipar központja, amelyet gyakran Tajvan Szilícium-völgyének neveznek.", ro: "Centrul industriei de semiconductori din Taiwan, adesea numit Silicon Valley-ul Taiwanului.", en: "The hub of Taiwan's semiconductor industry, often referred to as the Silicon Valley of Taiwan." , es: "El centro de la industria de semiconductores de Taiwán, a menudo llamado el Silicon Valley de Taiwán.", pt: "O centro da indústria de semicondutores de Taiwan, frequentemente chamado de Vale do Silício de Taiwan.", fr: "Le centre de l'industrie des semi-conducteurs de Taïwan, souvent appelé la Silicon Valley de Taïwan."},
     facts: {
       de: ["Hsinchu Science Park", "Silicon Valley Taiwans", "Als windige Stadt bekannt", "450 Tausend Einwohner"],
@@ -6086,7 +6078,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-CYI",
     coords: [120.449, 23.480],
     name: { de: "Chiayi", hu: "Csiaji", ro: "Chiayi", en: "Chiayi"},
-    image: "/poi-images/chiayi-cities-v2.webp",
     description: { de: "Eine historische Stadt im Zentrum Taiwans, die als Tor zur malerischen Alishan-Gebirgsregion dient.", hu: "Történelmi város Tajvan középső részén, amely kapuként szolgál a festői Alishan-hegységhez.", ro: "Un oraș istoric în centrul Taiwanului, servind drept poartă către pitoreasca regiune montană Alishan.", en: "A historic city in central Taiwan, serving as the gateway to the scenic Alishan mountain region." , es: "Una ciudad histórica en el centro de Taiwán que sirve como puerta de entrada a la pintoresca región montañosa de Alishan.", pt: "Uma cidade histórica no centro de Taiwan que serve como porta de entrada para a pitoresca região montanhosa de Alishan.", fr: "Une ville historique du centre de Taïwan qui sert de porte d'entrée vers la pittoresque région montagneuse d'Alishan."},
     facts: {
       de: ["Start der Alishan-Bahn", "Berühmt für Truthahn-Reis", "Tropisches Klima", "Ehemaliges Holzzentrum"],
@@ -6491,7 +6482,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-CHA",
     coords: [120.538, 24.081],
     name: { de: "Changhua", hu: "Csanghua", ro: "Changhua", en: "Changhua"},
-    image: "/poi-images/changhua-cities-v2.webp",
     description: { de: "Eine der ältesten Städte im Westen Taiwans, bekannt für den riesigen Buddha auf dem Bagua-Berg.", hu: "Nyugat-Tajvan egyik legrégebbi városa, amely a Bagua-hegyen álló hatalmas Buddha-szobráról ismert.", ro: "Unul dintre cele mai vechi orașe din vestul Taiwanului, cunoscut pentru uriașul Buddha de pe Muntele Bagua.", en: "One of the oldest cities in western Taiwan, known for the giant Buddha statue on Bagua Mountain." , es: "Una de las ciudades más antiguas del oeste de Taiwán, conocida por el gigantesco Buda en la montaña Bagua.", pt: "Uma das cidades mais antigas no oeste de Taiwan, conhecida pelo gigantesco Buda na montanha Bagua.", fr: "L'une des plus anciennes villes de l'ouest de Taïwan, connue pour le gigantesque Bouddha de la montagne Bagua."},
     facts: {
       de: ["26m hoher Großer Buddha", "Gegründet im Jahr 1723", "Eisenbahnknotenpunkt", "Am Fuße des Bagua-Berges"],
@@ -6680,7 +6670,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-PIF",
     coords: [120.487, 22.671],
     name: { de: "Pingtung", hu: "Pingtung", ro: "Pingtung", en: "Pingtung"},
-    image: "/poi-images/pingtung-cities-v2.webp",
     description: { de: "Eine tropische Stadt im Süden, die von reicher landwirtschaftlicher Kultur geprägt ist.", hu: "Trópusi város délen, amelyet gazdag mezőgazdasági kultúra jellemez.", ro: "Un oraș tropical din sud, caracterizat de o bogată cultură agricolă.", en: "A tropical city in the south, characterized by a rich agricultural culture." , es: "Una ciudad tropical en el sur, caracterizada por una rica cultura agrícola.", pt: "Uma cidade tropical no sul, caracterizada por uma rica cultura agrícola.", fr: "Une ville tropicale dans le sud, caractérisée par une riche culture agricole."},
     facts: {
       de: ["Landwirtschaftliches Zentrum", "Hauptstadt seit 1933", "Ganzjährig warmes Wetter", "Hakka- und Ureinwohnerkultur"],
@@ -6833,7 +6822,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-HSQ",
     coords: [121.012, 24.829],
     name: { de: "Zhubei", hu: "Csupej", ro: "Zhubei", en: "Zhubei"},
-    image: "/poi-images/zhubei-cities-v2.webp",
     description: { de: "Eine schnell wachsende Stadt im Bezirk Hsinchu, die durch High-Tech-Industrie und Zuzug boomt.", hu: "Gyorsan növekvő város Hszincsu megyében, amely a csúcstechnológiás ipar miatt virágzik.", ro: "Un oraș cu o creștere rapidă în județul Hsinchu, care înflorește datorită industriei high-tech.", en: "A rapidly growing city in Hsinchu County, booming due to the high-tech industry." , es: "Una ciudad de rápido crecimiento en el condado de Hsinchu, que está en auge gracias a la industria de alta tecnología.", pt: "Uma cidade de rápido crescimento no condado de Hsinchu, que está em expansão graças à indústria de alta tecnologia.", fr: "Une ville en croissance rapide dans le comté de Hsinchu, en plein essor grâce à l'industrie de haute technologie."},
     facts: {
       de: ["Sitz von Hsinchu County", "Wachsende Bevölkerung", "Biomedizinischer Park", "Neu gegründet 1988"],
@@ -6950,7 +6938,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-CHA",
     coords: [120.574, 23.958],
     name: { de: "Yuanlin", hu: "Jüanlin", ro: "Yuanlin", en: "Yuanlin"},
-    image: "/poi-images/yuanlin-cities-v2.webp",
     description: { de: "Eine wohlhabende Kleinstadt, die traditionelle Obstgärten mit moderner Entwicklung verbindet.", hu: "Egy jómódú kisváros, amely a hagyományos gyümölcsösöket a modern fejlődéssel ötvözi.", ro: "Un mic oraș prosper care combină livezile tradiționale cu dezvoltarea modernă.", en: "A prosperous small city that combines traditional orchards with modern development." , es: "Una próspera ciudad pequeña que combina huertos frutales tradicionales con el desarrollo moderno.", pt: "Uma pequena cidade próspera que combina pomares tradicionais com o desenvolvimento moderno.", fr: "Une petite ville prospère qui allie vergers traditionnels et développement moderne."},
     facts: {
       de: ["Stadtstatus seit 2015", "Eine sehr reiche Stadt", "Kandierte Früchte", "Über 120 Tausend Einwohner"],
@@ -7031,7 +7018,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-YUN",
     coords: [120.543, 23.709],
     name: { de: "Douliu", hu: "Touliu", ro: "Douliu", en: "Douliu"},
-    image: "/poi-images/douliu-cities-v2.webp",
     description: { de: "Die Verwaltungshauptstadt des Landkreises Yunlin, berühmt für Pomelos und historische Straßen.", hu: "Yunlin megye közigazgatási központja, amely pomelóiról és történelmi utcáiról híres.", ro: "Capitala administrativă a județului Yunlin, renumită pentru pomelo și străzile istorice.", en: "The administrative capital of Yunlin County, famous for pomelos and historic streets." , es: "La capital administrativa del condado de Yunlin, famosa por sus pomelos y calles históricas.", pt: "A capital administrativa do condado de Yunlin, famosa pelos seus pomelos e ruas históricas.", fr: "La capitale administrative du comté de Yunlin, célèbre pour ses pomelos et ses rues historiques."},
     facts: {
       de: ["Hauptstadt von Yunlin", "Taiping Alte Straße", "Pomelo-Anbaugebiet", "Gebäude im Barockstil"],
@@ -7544,7 +7530,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-TTT",
     coords: [121.150, 22.756],
     name: { de: "Taitung", hu: "Tajtung", ro: "Taitung", en: "Taitung"},
-    image: "/poi-images/taitung-cities-v2.webp",
     description: { de: "Eine entspannte Küstenstadt im Osten Taiwans, stark geprägt von indigenen Kulturen.", hu: "Nyugodt tengerparti város Tajvan keleti részén, amelyet erősen formálnak az őslakos kultúrák.", ro: "Un oraș de coastă relaxat din estul Taiwanului, puternic influențat de culturile indigene.", en: "A relaxed coastal city in eastern Taiwan, strongly influenced by indigenous cultures." , es: "Una relajada ciudad costera en el este de Taiwán, fuertemente marcada por las culturas indígenas.", pt: "Uma cidade costeira relaxada no leste de Taiwan, fortemente marcada pelas culturas indígenas.", fr: "Une ville côtière détendue dans l'est de Taïwan, fortement marquée par les cultures autochtones."},
     facts: {
       de: ["Zentrum Ost-Taiwans", "Heimat vieler Ureinwohner", "Heißluftballon-Festival", "Entspannter Lebensstil"],
@@ -8201,7 +8186,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-HUA",
     coords: [121.604, 23.977],
     name: { de: "Hualien", hu: "Hualien", ro: "Hualien", en: "Hualien"},
-    image: "/poi-images/hualien-cities-v2.webp",
     description: { de: "Das Tor zum spektakulären Taroko-Nationalpark, bekannt für seine Marmorindustrie und Strände.", hu: "A látványos Taroko Nemzeti Park kapuja, amely márványiparáról és strandjairól ismert.", ro: "Poarta către spectaculosul Parc Național Taroko, cunoscut pentru industria marmurei și plaje.", en: "The gateway to the spectacular Taroko National Park, known for its marble industry and beaches." , es: "La puerta de entrada al espectacular Parque Nacional Taroko, conocido por su industria del mármol y sus playas.", pt: "A porta de entrada para o espetacular Parque Nacional Taroko, conhecido pela sua indústria de mármore e praias.", fr: "La porte d'entrée du spectaculaire parc national de Taroko, connu pour son industrie du marbre et ses plages."},
     facts: {
       de: ["Tor zum Taroko-Park", "Marmorabbau-Industrie", "Häufige Erdbeben", "Bekannt für Mochi-Süßigkeiten"],
@@ -8282,7 +8266,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-MIA",
     coords: [120.896, 24.688],
     name: { de: "Toufen", hu: "Toufen", ro: "Toufen", en: "Toufen"},
-    image: "/poi-images/toufen-cities-v2.webp",
     description: { de: "Eine nordwestliche Stadt im Landkreis Miaoli mit einer starken Präsenz der Hakka-Kultur.", hu: "Északnyugati város Miaoli megyében, ahol a Hakka kultúra erős jelenléttel bír.", ro: "Un oraș din nord-vestul județului Miaoli cu o prezență puternică a culturii Hakka.", en: "A northwestern city in Miaoli County with a strong presence of Hakka culture." , es: "Una ciudad del noroeste en el condado de Miaoli con una fuerte presencia de la cultura Hakka.", pt: "Uma cidade do noroeste no condado de Miaoli com uma forte presença da cultura Hakka.", fr: "Une ville du nord-ouest dans le comté de Miaoli avec une forte présence de la culture Hakka."},
     facts: {
       de: ["Größte Stadt in Miaoli", "Starke Hakka-Bevölkerung", "Petrochemische Basis", "Am Fluss Zhonggang"],
@@ -8507,7 +8490,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-NAN",
     coords: [120.686, 23.903],
     name: { de: "Nantou", hu: "Nantou", ro: "Nantou", en: "Nantou"},
-    image: "/poi-images/nantou-cities-v2.webp",
     description: { de: "Die einzige Hauptstadt eines Binnenlandkreises in Taiwan, umgeben von sanften Hügeln.", hu: "Az egyetlen tengerparttal nem rendelkező megye fővárosa Tajvanon, szelíd dombokkal övezve.", ro: "Singura capitală a unui județ fără ieșire la mare din Taiwan, înconjurată de dealuri domoale.", en: "The only capital of a landlocked county in Taiwan, surrounded by rolling hills." , es: "La única capital de un condado sin salida al mar en Taiwán, rodeada de suaves colinas.", pt: "A única capital de um condado sem litoral em Taiwan, rodeada por colinas suaves.", fr: "La seule capitale d'un comté enclavé à Taïwan, entourée de douces collines."},
     facts: {
       de: ["Einzige Binnenhauptstadt", "Oolong-Tee-Produktion", "Zentrum des 1999 Erdbebens", "Bergiges Klima"],
@@ -8804,7 +8786,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-ILA",
     coords: [121.753, 24.757],
     name: { de: "Yilan", hu: "Jilan", ro: "Yilan", en: "Yilan"},
-    image: "/poi-images/yilan-cities-v2.webp",
     description: { de: "Eine malerische Stadt in der Lanyang-Ebene, berühmt für heiße Quellen und unberührte Natur.", hu: "Festői város a Lanyang-síkságon, amely hőforrásairól és érintetlen természetéről híres.", ro: "Un oraș pitoresc din Câmpia Lanyang, faimos pentru izvoarele termale și natura neatinsă.", en: "A picturesque city in the Lanyang Plain, famous for hot springs and untouched nature." , es: "Una pintoresca ciudad en la llanura de Lanyang, famosa por sus aguas termales y su naturaleza virgen.", pt: "Uma cidade pitoresca na planície de Lanyang, famosa por suas fontes termais e natureza intocada.", fr: "Une ville pittoresque dans la plaine de Lanyang, célèbre pour ses sources thermales et sa nature intacte."},
     facts: {
       de: ["Geothermische Quellen", "Kavalan-Whisky-Destillerie", "Häufige Taifune", "In der Lanyang-Ebene"],
@@ -8840,7 +8821,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-MIA",
     coords: [120.820, 24.564],
     name: { de: "Miaoli", hu: "Miaoli", ro: "Miaoli", en: "Miaoli"},
-    image: "/poi-images/miaoli-cities-v2.webp",
     description: { de: "Eine hügelige Bergstadt, die tief mit der traditionellen Hakka-Holzschnitzerei verwurzelt ist.", hu: "Hegyes-dombos város, amely mélyen gyökerezik a hagyományos hakka fafaragásban.", ro: "Un oraș montan deluros, adânc înrădăcinat în sculptura tradițională în lemn Hakka.", en: "A hilly mountain city deeply rooted in traditional Hakka woodcarving." , es: "Una ciudad montañosa y ondulada, profundamente arraigada en la talla de madera tradicional Hakka.", pt: "Uma cidade montanhosa e ondulada, profundamente enraizada na tradicional escultura em madeira Hakka.", fr: "Une ville vallonnée et montagneuse, profondément enracinée dans la sculpture sur bois traditionnelle Hakka."},
     facts: {
       de: ["Traditionelle Holzschnitzerei", "Zentrum der Erdölförderung", "Hügelige Landschaft", "Hakka-Kulturzentrum"],
@@ -9425,7 +9405,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-PEN",
     coords: [119.566, 23.565],
     name: { de: "Magong", hu: "Makung", ro: "Magong", en: "Magong"},
-    image: "/poi-images/magong-cities-v2.webp",
     description: { de: "Die größte Stadt auf den Penghu-Inseln, berühmt für ihre alten Tempel und Meeresfrüchte.", hu: "A Penghu-szigetek legnagyobb városa, amely ősi templomairól és tengeri ételeiről híres.", ro: "Cel mai mare oraș din insulele Penghu, faimos pentru templele sale antice și fructele de mare.", en: "The largest city on the Penghu Islands, famous for its ancient temples and seafood." , es: "La ciudad más grande de las islas Penghu, famosa por sus templos antiguos y mariscos.", pt: "A maior cidade das ilhas Penghu, famosa pelos seus templos antigos e marisco.", fr: "La plus grande ville des îles Penghu, célèbre pour ses temples anciens et ses fruits de mer."},
     facts: {
       de: ["Hauptstadt von Penghu", "Mazu-Tempel von 1592", "Ältester Tempel Taiwans", "Wichtiges Fischereizentrum"],
@@ -9542,7 +9521,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-CYQ",
     coords: [120.332, 23.459],
     name: { de: "Taibao", hu: "Tajpao", ro: "Taibao", en: "Taibao"},
-    image: "/poi-images/taibao-cities-v2.webp",
     description: { de: "Eine ruhige Kreisstadt im Landkreis Chiayi, in der sich die Südfiliale des Nationalen Palastmuseums befindet.", hu: "Csendes járási székhely Chiayi megyében, ahol a Nemzeti Palotamúzeum déli fiókintézménye található.", ro: "Un oraș liniștit din județul Chiayi, unde se află filiala de sud a Muzeului Național al Palatului.", en: "A quiet county seat in Chiayi County, home to the Southern Branch of the National Palace Museum." , es: "Una tranquila ciudad del condado de Chiayi, donde se encuentra la sucursal sur del Museo Nacional del Palacio.", pt: "Uma cidade tranquila no condado de Chiayi, onde se encontra a sucursal sul do Museu Nacional do Palácio.", fr: "Une ville tranquille dans le comté de Chiayi, où se trouve la branche sud du Musée national du Palais."},
     facts: {
       de: ["Sitz der Kreisverwaltung", "Südliches Palastmuseum", "HSR-Bahnhof von Chiayi", "Landwirtschaftliche Stadt"],
@@ -9578,7 +9556,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-CYQ",
     coords: [120.247, 23.464],
     name: { de: "Puzi", hu: "Pucu", ro: "Puzi", en: "Puzi"},
-    image: "/poi-images/puzi-cities-v2.webp",
     description: { de: "Eine traditionelle Küstengemeinde in Chiayi, bekannt für ihren alten Peitian-Mazu-Tempel.", hu: "Hagyományos tengerparti település Chiayiban, amely az ősi Peitian Mazu templomról ismert.", ro: "O comunitate de coastă tradițională din Chiayi, cunoscută pentru vechiul templu Peitian Mazu.", en: "A traditional coastal township in Chiayi, known for its ancient Peitian Mazu Temple." , es: "Una comunidad costera tradicional en Chiayi, conocida por su antiguo templo Peitian Mazu.", pt: "Uma comunidade costeira tradicional em Chiayi, conhecida pelo seu antigo templo Peitian Mazu.", fr: "Une communauté côtière traditionnelle à Chiayi, connue pour son ancien temple Peitian Mazu."},
     facts: {
       de: ["Peitian-Tempel von 1682", "Traditionelle Stickereien", "Kulturzentrum an der Küste", "Am Fluss Putzu"],
@@ -9731,7 +9708,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-HSQ",
     coords: [121.087, 24.735],
     name: { de: "Zhudong", hu: "Csutung", ro: "Zhudong", en: "Zhudong"},
-    image: "/poi-images/zhudong-cities-v2.webp",
     description: { de: "Eine historische Stadt im Landkreis Hsinchu, die einst durch den Holz- und Kohleabbau florierte.", hu: "Történelmi város Hszincsu megyében, amely egykor a fa- és szénbányászatnak köszönhetően virágzott.", ro: "Un oraș istoric din județul Hsinchu, care a înflorit cândva datorită mineritului de lemn și cărbune.", en: "A historic city in Hsinchu County that once flourished due to timber and coal mining." , es: "Una ciudad histórica en el condado de Hsinchu que alguna vez prosperó gracias a la minería de madera y carbón.", pt: "Uma cidade histórica no condado de Hsinchu que prosperou graças à exploração de madeira e carvão.", fr: "Une ville historique du comté de Hsinchu qui a prospéré grâce à l'exploitation du bois et du charbon."},
     facts: {
       de: ["Frühere Holz- und Kohlenindustrie", "Großer Hakka-Markt", "Zweitgrößte Stadt in Hsinchu", "Gebirgsübergang"],
@@ -9812,7 +9788,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-PIF",
     coords: [120.538, 22.551],
     name: { de: "Chaozhou", hu: "Csaucsou", ro: "Chaozhou", en: "Chaozhou"},
-    image: "/poi-images/chaozhou-cities-v2.webp",
     description: { de: "Eine lebendige Gemeinde im Süden Taiwans, berühmt für kaltes Rasiereis und gebratene Frühlingsrollen.", hu: "Élénk település Tajvan déli részén, amely hideg reszelt jeges desszertjéről és sült tavaszi tekercséről híres.", ro: "O comunitate vibrantă din sudul Taiwanului, faimoasă pentru gheața rasă rece și pachețelele de primăvară prăjite.", en: "A vibrant township in southern Taiwan, famous for cold shaved ice and fried spring rolls." , es: "Un animado municipio en el sur de Taiwán, famoso por el hielo raspado y los rollitos de primavera fritos.", pt: "Um município vibrante no sul de Taiwan, famoso pelo gelo picado e rolinhos primavera fritos.", fr: "Une municipalité animée du sud de Taïwan, célèbre pour sa glace pilée et ses rouleaux de printemps frits."},
     facts: {
       de: ["Südlicher Verkehrsknotenpunkt", "Traditionelles Schattentheater", "Kaltes Rasiereis", "Landwirtschaftliches Zentrum"],
@@ -10145,7 +10120,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-NAN",
     coords: [120.680, 23.974],
     name: { de: "Caotun", hu: "Caotun", ro: "Caotun", en: "Caotun"},
-    image: "/poi-images/caotun-cities-v2.webp",
     description: { de: "Die größte Gemeinde im Landkreis Nantou, die als landwirtschaftliches und kommerzielles Zentrum dient.", hu: "Nantou megye legnagyobb települése, amely mezőgazdasági és kereskedelmi központként szolgál.", ro: "Cea mai mare comunitate din județul Nantou, servind drept centru agricol și comercial.", en: "The largest township in Nantou County, serving as an agricultural and commercial center." , es: "El municipio más grande del condado de Nantou, que sirve como centro agrícola y comercial.", pt: "O maior município do condado de Nantou, servindo como um centro agrícola e comercial.", fr: "La plus grande municipalité du comté de Nantou, servant de centre agricole et commercial."},
     facts: {
       de: ["Handelszentrum von Nantou", "Traditionelle Strohschuhe", "Handwerksforschungsinstitut", "Reisanbaugebiet"],
@@ -10406,7 +10380,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-ILA",
     coords: [121.768, 24.676],
     name: { de: "Luodong", hu: "Luotung", ro: "Luodong", en: "Luodong"},
-    image: "/poi-images/luodong-cities-v2.webp",
     description: { de: "Die kleinste städtische Gemeinde Taiwans, die jedoch das geschäftlichste Zentrum im Landkreis Yilan ist.", hu: "Tajvan legkisebb városi települése, amely azonban Yilan megye legforgalmasabb üzleti központja.", ro: "Cea mai mică comunitate urbană din Taiwan, care este totuși cel mai aglomerat centru de afaceri din județul Yilan.", en: "Taiwan's smallest urban township, which is nevertheless the busiest business center in Yilan County." , es: "El municipio urbano más pequeño de Taiwán, que sin embargo es el centro comercial del condado de Yilan.", pt: "O menor município urbano de Taiwan, sendo, contudo, o centro comercial do condado de Yilan.", fr: "La plus petite municipalité urbaine de Taïwan, qui est néanmoins le centre commercial du comté de Yilan."},
     facts: {
       de: ["Kleinste städtische Gemeinde", "Geschäftszentrum von Yilan", "Früheres Holzzentrum", "Berühmter Nachtmarkt"],
@@ -10667,7 +10640,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-PIF",
     coords: [120.453, 22.467],
     name: { de: "Donggang", hu: "Tungkang", ro: "Donggang", en: "Donggang"},
-    image: "/poi-images/donggang-cities-v2.webp",
     description: { de: "Ein bedeutender Fischereihafen im Landkreis Pingtung, berühmt für Blauflossen-Thunfisch und Tempelfeste.", hu: "Jelentős halászkikötő Pingtung megyében, amely a kékúszójú tonhalról és a templomi fesztiválokról híres.", ro: "Un important port pescăresc din județul Pingtung, faimos pentru tonul cu înotătoare albastre și festivalurile de la temple.", en: "A major fishing port in Pingtung County, famous for bluefin tuna and temple festivals." , es: "Un importante puerto pesquero en el condado de Pingtung, famoso por el atún de aleta azul y las fiestas de los templos.", pt: "Um importante porto de pesca no condado de Pingtung, famoso pelo atum rabilho e festas nos templos.", fr: "Un port de pêche important dans le comté de Pingtung, célèbre pour son thon rouge et ses fêtes religieuses."},
     facts: {
       de: ["Blauflossen-Thunfisch-Fest", "Traditionelle Bootsverbrennung", "Hafen nach Xiaoliuqiu", "Zentrum daoistischer Tempel"],
@@ -10964,7 +10936,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     parent: "TW-PIF",
     coords: [120.744, 22.004],
     name: { de: "Hengchun", hu: "Hengcsun", ro: "Hengchun", en: "Hengchun"},
-    image: "/poi-images/hengchun-cities-v2.webp",
     description: { de: "Die südlichste Gemeinde Taiwans, die historische Stadtmauern und den Kenting-Nationalpark beheimatet.", hu: "Tajvan legdélibb települése, amely történelmi városfalaknak és a Kenting Nemzeti Parknak ad otthont.", ro: "Cea mai sudică comunitate din Taiwan, care găzduiește ziduri istorice ale orașului și Parcul Național Kenting.", en: "Taiwan's southernmost township, home to historic city walls and Kenting National Park." , es: "El municipio más meridional de Taiwán, hogar de murallas históricas y del Parque Nacional Kenting.", pt: "O município mais a sul de Taiwan, que alberga muralhas históricas e o Parque Nacional Kenting.", fr: "La municipalité la plus au sud de Taïwan, abritant des remparts historiques et le parc national de Kenting."},
     facts: {
       de: ["Kenting-Nationalpark", "Stadtmauer von 1879", "Südlichste Stadt Taiwans", "Tropisches Surfparadies"],

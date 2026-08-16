@@ -53,7 +53,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-ER",
     coords: [14.5, -22.95],
     name: { de: "Walvis Bay Hafen", hu: "Walvis Bay kikötő", ro: "Portul Walvis Bay", en: "Port of Walvis Bay"},
-    image: "/poi-images/walvis-bay-hafen-economic-v2.webp",
     description: { de: "Der größte Handelshafen Namibias und ein wichtiges Tor zum südlichen Afrika.", hu: "Namíbia legnagyobb kereskedelmi kikötője és fontos tranzitpont Dél-Afrika felé.", ro: "Cel mai mare port comercial din Namibia și o poartă importantă către sudul Africii.", en: "Namibia's largest commercial port and a major gateway to Southern Africa." , es: "El mayor puerto comercial de Namibia y una puerta de entrada vital al África austral.", pt: "O maior porto comercial da Namíbia e uma porta de entrada crucial para a África Austral.", fr: "Le plus grand port commercial de Namibie et une porte d'entrée majeure vers l'Afrique australe."},
     facts: {
       de: ["Verwaltet von Namport.", "Tiefwasserhafen am Atlantik.", "Wichtig für den Containerverkehr.", "Gateway für Binnenländer."],
@@ -94,7 +93,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-KA",
     coords: [15.15, -26.6333],
     name: { de: "Lüderitz Hafen", hu: "Lüderitz kikötő", ro: "Portul Lüderitz", en: "Port of Lüderitz"},
-    image: "/poi-images/luederitz-hafen-economic-v2.webp",
     description: { de: "Ein bedeutender Hafen für die Fischereiindustrie und den Export von Mineralien im Süden.", hu: "Jelentős kikötő a halászati ipar és az ásványkincsek exportja számára délen.", ro: "Un port important pentru industria pescuitului și exportul de minerale în sud.", en: "A major port for the fishing industry and mineral exports in the south." , es: "Un puerto importante para la industria pesquera y la exportación de minerales en el sur.", pt: "Um porto importante para a indústria pesqueira e para a exportação de minerais no sul.", fr: "Un port important pour l'industrie de la pêche et l'exportation de minerais dans le sud."},
     facts: {
       de: ["Zweithafen Namibias.", "Fokus auf Fischerei.", "Exportiert Zink und Blei.", "Historische Bedeutung."],
@@ -180,7 +178,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-ER",
     coords: [15.0461, -22.4636],
     name: { de: "Rössing-Uranmine", hu: "Rössing uránbánya", ro: "Mina de uraniu Rössing", en: "Rössing Uranium Mine"},
-    image: "/poi-images/roessing-uranmine-economic-v2.webp",
     description: { de: "Eine der längsten in Betrieb befindlichen Uranminen der Welt und ein wichtiger Wirtschaftsfaktor.", hu: "A világ egyik legrégebb óta működő uránbányája és fontos gazdasági tényező.", ro: "Una dintre cele mai vechi mine de uraniu din lume în funcțiune și un factor economic important.", en: "One of the longest-operating uranium mines in the world and a major economic driver." , es: "Una de las minas de uranio en funcionamiento más antiguas del mundo y un factor económico clave.", pt: "Uma das minas de urânio em funcionamento há mais tempo no mundo e um importante fator económico.", fr: "L'une des mines d'uranium les plus anciennes au monde encore en exploitation et un facteur économique majeur."},
     facts: {
       de: ["Produziert seit 1976.", "Gehört mehrheitlich CNUC.", "Tagebaubetrieb.", "Befindet sich in der Namib-Wüste."],
@@ -302,7 +299,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-ER",
     coords: [15.05, -22.65],
     name: { de: "Husab-Uranmine", hu: "Husab uránbánya", ro: "Mina de uraniu Husab", en: "Husab Uranium Mine"},
-    image: "/poi-images/husab-uranmine-economic-v2.webp",
     description: { de: "Eine der größten Uranminen der Welt, die erheblich zum Exportvolumen Namibias beiträgt.", hu: "A világ egyik legnagyobb uránbányája, amely jelentősen hozzájárul Namíbia exportjához.", ro: "Una dintre cele mai mari mine de uraniu din lume, contribuind semnificativ la exporturile Namibiei.", en: "One of the largest uranium mines globally, contributing significantly to Namibia's exports." , es: "Una de las minas de uranio más grandes del mundo, que contribuye significativamente al volumen de exportación de Namibia.", pt: "Uma das maiores minas de urânio do mundo, que contribui significativamente para o volume de exportação da Namíbia.", fr: "L'une des plus grandes mines d'uranium au monde, contribuant largement au volume des exportations namibiennes."},
     facts: {
       de: ["Eröffnet im Jahr 2016.", "Chinesische Investition.", "Zweitgrößte Uranmine der Welt.", "Enorme Förderkapazität."],
@@ -388,7 +384,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-ER",
     coords: [15.3167, -22.8167],
     name: { de: "Langer Heinrich Mine", hu: "Langer Heinrich bánya", ro: "Mina Langer Heinrich", en: "Langer Heinrich Mine"},
-    image: "/poi-images/langer-heinrich-mine-economic-v2.webp",
     description: { de: "Eine bedeutende Uranmine am Rande der Namib-Wüste, die eine wichtige Rolle im Bergbausektor spielt.", hu: "Jelentős uránbánya a Namib-sivatag szélén, amely fontos szerepet játszik a bányászati ágazatban.", ro: "O mină importantă de uraniu la marginea deșertului Namib, jucând un rol important în sectorul minier.", en: "A major uranium mine on the edge of the Namib Desert, playing a key role in the mining sector." , es: "Una importante mina de uranio en el borde del desierto del Namib que desempeña un papel clave en el sector minero.", pt: "Uma importante mina de urânio na orla do deserto do Namibe, que desempenha um papel fundamental no setor mineiro.", fr: "Une mine d'uranium majeure à la lisière du désert du Namib, jouant un rôle clé dans le secteur minier."},
     facts: {
       de: ["Entdeckt im Jahr 1973.", "Gehört Paladin Energy.", "Wurde nach Wartung reaktiviert.", "Abbau von Calcrete-Erz."],
@@ -429,7 +424,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-ER",
     coords: [14.9667, -22.25],
     name: { de: "Trekkopje-Uranmine", hu: "Trekkopje uránbánya", ro: "Mina de uraniu Trekkopje", en: "Trekkopje Uranium Mine"},
-    image: "/poi-images/trekkopje-uranmine-economic-v2.webp",
     description: { de: "Ein umfangreiches Uran-Bergbauprojekt in der Erongo-Region, betrieben von Orano.", hu: "Egy kiterjedt uránbányászati projekt az Erongo régióban, az Orano üzemeltetésében.", ro: "Un amplu proiect minier de uraniu în regiunea Erongo, operat de Orano.", en: "An extensive uranium mining project in the Erongo Region, operated by Orano." , es: "Un extenso proyecto minero de uranio en la región de Erongo, operado por Orano.", pt: "Um extenso projeto mineiro de urânio na região de Erongo, operado pela Orano.", fr: "Un vaste projet minier d'uranium dans la région d'Erongo, exploité par Orano."},
     facts: {
       de: ["Gehört dem französischen Konzern Orano.", "Große flache Erzlagerstätte.", "Nutzt eine eigene Entsalzungsanlage.", "Tagebaustruktur."],
@@ -470,7 +464,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-OT",
     coords: [17.2, -19.55],
     name: { de: "Ohorongo Zementwerk", hu: "Ohorongo Cementgyár", ro: "Fabrica de Ciment Ohorongo", en: "Ohorongo Cement Plant"},
-    image: "/poi-images/ohorongo-zementwerk-economic-v2.webp",
     description: { de: "Das größte und modernste Zementwerk Namibias, das die Inlandsnachfrage deckt.", hu: "Namíbia legnagyobb és legmodernebb cementgyára, amely a belföldi keresletet elégíti ki.", ro: "Cea mai mare și modernă fabrică de ciment din Namibia, acoperind cererea internă.", en: "Namibia's largest and most modern cement plant, satisfying domestic demand." , es: "La planta de cemento más grande y moderna de Namibia, que satisface la demanda nacional.", pt: "A fábrica de cimento maior e mais moderna da Namíbia, que satisfaz a procura interna.", fr: "La cimenterie la plus grande et la plus moderne de Namibie, couvrant la demande intérieure."},
     facts: {
       de: ["In der Nähe von Otavi.", "Verwendet lokale Rohstoffe.", "Hohe Energieeffizienz.", "Wichtig für die Bauwirtschaft."],
@@ -511,7 +504,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-KA",
     coords: [16.6, -27.8167],
     name: { de: "Skorpion Zinkmine", hu: "Skorpion cinkbánya", ro: "Mina de zinc Skorpion", en: "Skorpion Zinc Mine"},
-    image: "/poi-images/skorpion-zinkmine-economic-v2.webp",
     description: { de: "Eine bedeutende Zinkmine im Süden Namibias mit einer integrierten Raffinerie.", hu: "Egy jelentős cinkbánya Namíbia déli részén, integrált finomítóval.", ro: "O importantă mină de zinc în sudul Namibiei, cu o rafinărie integrată.", en: "A major zinc mine in southern Namibia with an integrated refinery." , es: "Una importante mina de zinc en el sur de Namibia con una refinería integrada.", pt: "Uma importante mina de zinco no sul da Namíbia com uma refinaria integrada.", fr: "Une importante mine de zinc dans le sud de la Namibie avec une raffinerie intégrée."},
     facts: {
       de: ["Gehört zu Vedanta Resources.", "Produziert hochreines Zink.", "Tagebaubetrieb nahe Rosh Pinah.", "Wichtiger Arbeitgeber im Süden."],
@@ -552,7 +544,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-KA",
     coords: [16.7667, -27.95],
     name: { de: "Rosh Pinah Zinkmine", hu: "Rosh Pinah cinkbánya", ro: "Mina de zinc Rosh Pinah", en: "Rosh Pinah Zinc Mine"},
-    image: "/poi-images/rosh-pinah-zinkmine-economic-v2.webp",
     description: { de: "Eine unterirdische Mine, die Zink- und Bleikonzentrate für den Export abbaut.", hu: "Földalatti bánya, amely cink- és ólomkoncentrátumot bányász exportra.", ro: "O mină subterană care extrage concentrate de zinc și plumb pentru export.", en: "An underground mine that extracts zinc and lead concentrates for export." , es: "Una mina subterránea que extrae concentrados de zinc y plomo para la exportación.", pt: "Uma mina subterrânea que extrai concentrados de zinco e chumbo para exportação.", fr: "Une mine souterraine qui extrait des concentrés de zinc et de plomb destinés à l'exportation."},
     facts: {
       de: ["Seit 1969 in Betrieb.", "Tiefbauverfahren.", "Treiber der lokalen Stadtentwicklung.", "Wichtiger Exporteur von Bleikonzentrat."],
@@ -593,7 +584,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-ER",
     coords: [15.75, -21.9833],
     name: { de: "Navachab-Goldmine", hu: "Navachab aranybánya", ro: "Mina de aur Navachab", en: "Navachab Gold Mine"},
-    image: "/poi-images/navachab-goldmine-economic-v2.webp",
     description: { de: "Eine etablierte Goldmine in der Nähe von Karibib und eine der wenigen in Namibia.", hu: "Egy jól bejáratott aranybánya Karibib közelében, és a kevesek egyike Namíbiában.", ro: "O mină de aur consacrată lângă Karibib și una dintre puținele din Namibia.", en: "An established gold mine near Karibib and one of the few in Namibia." , es: "Una mina de oro consolidada cerca de Karibib y una de las pocas en Namibia.", pt: "Uma mina de ouro estabelecida perto de Karibib e uma das poucas na Namíbia.", fr: "Une mine d'or établie près de Karibib et l'une des rares en Namibie."},
     facts: {
       de: ["Eröffnet im Jahr 1989.", "Tagebaubetrieb.", "Einzige Goldmine für lange Zeit.", "Produziert Goldbarren."],
@@ -634,7 +624,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-OT",
     coords: [17.2667, -19.0833],
     name: { de: "Otjikoto-Goldmine", hu: "Otjikoto aranybánya", ro: "Mina de aur Otjikoto", en: "Otjikoto Gold Mine"},
-    image: "/poi-images/otjikoto-goldmine-economic-v2.webp",
     description: { de: "Eine moderne Goldmine im Norden Namibias, die erhebliche wirtschaftliche Impulse setzt.", hu: "Modern aranybánya Észak-Namíbiában, amely jelentős gazdasági lendületet ad.", ro: "O mină modernă de aur în nordul Namibiei, care oferă un impuls economic semnificativ.", en: "A modern gold mine in northern Namibia providing significant economic impetus." , es: "Una moderna mina de oro en el norte de Namibia que genera importantes impulsos económicos.", pt: "Uma moderna mina de ouro no norte da Namíbia, que gera impulsos económicos significativos.", fr: "Une mine d'or moderne dans le nord de la Namibie, qui génère d'importantes retombées économiques."},
     facts: {
       de: ["Gehört B2Gold.", "Erste Produktion 2014.", "Nutzt ein eigenes Solarkraftwerk.", "Zweitgrößte Goldmine des Landes."],
@@ -675,7 +664,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-OS",
     coords: [17.4333, -19.1667],
     name: { de: "Tschudi-Kupfermine", hu: "Tschudi rézbánya", ro: "Mina de cupru Tschudi", en: "Tschudi Copper Mine"},
-    image: "/poi-images/tschudi-kupfermine-economic-v2.webp",
     description: { de: "Eine Kupfermine in der Nähe von Tsumeb, die reines Kupferkathoden produziert.", hu: "Egy rézbánya Tsumeb közelében, amely tiszta rézkatódokat állít elő.", ro: "O mină de cupru lângă Tsumeb, care produce catozi de cupru pur.", en: "A copper mine near Tsumeb producing pure copper cathodes." , es: "Una mina de cobre cerca de Tsumeb que produce cátodos de cobre puro.", pt: "Uma mina de cobre perto de Tsumeb que produz cátodos de cobre puro.", fr: "Une mine de cuivre située près de Tsumeb, produisant des cathodes de cuivre pur."},
     facts: {
       de: ["Tagebaubetrieb.", "Nutzt SX-EW-Technologie.", "Wichtig für die Region Oshikoto.", "Produziert hochreines Kupfer."],
@@ -716,7 +704,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-KH",
     coords: [16.6333, -22.6833],
     name: { de: "Matchless-Kupfermine", hu: "Matchless rézbánya", ro: "Mina de cupru Matchless", en: "Matchless Copper Mine"},
-    image: "/poi-images/matchless-kupfermine-economic-v2.webp",
     description: { de: "Eine historische und reaktivierte Kupfermine in der Khomas-Region.", hu: "Történelmi és újraindított rézbánya a Khomas régióban.", ro: "O mină de cupru istorică și reactivată în regiunea Khomas.", en: "A historic and reactivated copper mine in the Khomas region." , es: "Una mina de cobre histórica y reactivada en la región de Khomas.", pt: "Uma mina de cobre histórica e reativada na região de Khomas.", fr: "Une mine de cuivre historique et réactivée dans la région de Khomas."},
     facts: {
       de: ["Westlich von Windhoek gelegen.", "Untertagebau.", "Gehört zur Weatherly International.", "Lange Bergbautradition."],
@@ -757,7 +744,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-KH",
     coords: [17.25, -22.4333],
     name: { de: "Otjihase-Kupfermine", hu: "Otjihase rézbánya", ro: "Mina de cupru Otjihase", en: "Otjihase Copper Mine"},
-    image: "/poi-images/otjihase-kupfermine-economic-v2.webp",
     description: { de: "Eine der Hauptkupferminen nahe Windhoek, die Konzentrat für die Hütte in Tsumeb liefert.", hu: "Windhoek egyik fő rézbányája, amely koncentrátumot szállít a Tsumeb-i kohóba.", ro: "Una dintre principalele mine de cupru de lângă Windhoek, care furnizează concentrat pentru topitoria din Tsumeb.", en: "One of the main copper mines near Windhoek, supplying concentrate to the Tsumeb smelter." , es: "Una de las principales minas de cobre cerca de Windhoek, que suministra concentrado para la fundición de Tsumeb.", pt: "Uma das principais minas de cobre perto de Windhoek, que fornece concentrado para a fundição em Tsumeb.", fr: "L'une des principales mines de cuivre près de Windhoek, qui fournit du concentré pour la fonderie de Tsumeb."},
     facts: {
       de: ["Untertagebau.", "Östlich von Windhoek.", "Wichtiger Arbeitgeber.", "Produziert Kupfer und Pyrit."],
@@ -803,7 +789,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-KA",
     coords: [16.45, -28.5333],
     name: { de: "Namdeb Diamantenabbau Oranjemund", hu: "Namdeb gyémántbánya Oranjemund", ro: "Minerit de diamante Namdeb Oranjemund", en: "Namdeb Diamond Mining Oranjemund"},
-    image: "/poi-images/namdeb-oranjemund-economic-v2.webp",
     description: { de: "Das Zentrum der terrestrischen Diamantenförderung in Namibia an der Mündung des Oranje-Flusses.", hu: "A szárazföldi gyémántbányászat központja Namíbiában, az Oranje folyó torkolatánál.", ro: "Centrul extracției terestre de diamante din Namibia, la gura fluviului Orange.", en: "The center of terrestrial diamond mining in Namibia at the mouth of the Orange River." , es: "El centro de la extracción terrestre de diamantes en Namibia, en la desembocadura del río Oranje.", pt: "O centro da extração terrestre de diamantes na Namíbia, na foz do rio Oranje.", fr: "Le centre de l'extraction terrestre de diamants en Namibie, à l'embouchure du fleuve Oranje."},
     facts: {
       de: ["Eines der reichsten Diamantengebiete.", "Alluvialer Abbau.", "Joint Venture mit De Beers.", "Prägt die Stadt Oranjemund."],
@@ -844,7 +829,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-KA",
     coords: [15.1833, -26.9167],
     name: { de: "Elizabeth Bay Diamantenmine", hu: "Elizabeth Bay gyémántbánya", ro: "Mina de diamante Elizabeth Bay", en: "Elizabeth Bay Mine"},
-    image: "/poi-images/elizabeth-bay-mine-economic-v2.webp",
     description: { de: "Eine Küsten-Diamantenmine in der Nähe von Lüderitz, bekannt für ihre stürmische Umgebung.", hu: "Egy tengerparti gyémántbánya Lüderitz közelében, amely a viharos környezetéről ismert.", ro: "O mină de diamante de coastă lângă Lüderitz, cunoscută pentru mediul său furtunos.", en: "A coastal diamond mine near Lüderitz, known for its stormy environment." , es: "Una mina de diamantes costera cerca de Lüderitz, conocida por su entorno tormentoso.", pt: "Uma mina de diamantes costeira perto de Lüderitz, conhecida pelo seu ambiente tempestuoso.", fr: "Une mine de diamants côtière près de Lüderitz, connue pour son environnement tourmenté."},
     facts: {
       de: ["Südlich von Lüderitz.", "Abbau von Strandsedimenten.", "Historischer Bergbauort.", "Wurde mehrfach reaktiviert."],
@@ -885,7 +869,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-KA",
     coords: [15.3833, -27.4333],
     name: { de: "Bogenfels Diamantenmine", hu: "Bogenfels gyémántbánya", ro: "Mina de diamante Bogenfels", en: "Bogenfels Diamond Mine"},
-    image: "/poi-images/bogenfels-diamantenmine-economic-v2.webp",
     description: { de: "Ein historisches und spezialisiertes Diamantenabbaugebiet an der spektakulären Küste der Namib-Wüste.", hu: "Történelmi és specializált gyémántbányászati terület a Namib-sivatag látványos partvidékén.", ro: "O zonă istorică și specializată de extracție a diamantelor pe coasta spectaculoasă a deșertului Namib.", en: "A historic and specialized diamond mining area on the spectacular coast of the Namib Desert." , es: "Una zona histórica y especializada de extracción de diamantes en la espectacular costa del desierto del Namib.", pt: "Uma área histórica e especializada de mineração de diamantes na espetacular costa do deserto do Namibe.", fr: "Une zone historique et spécialisée d'extraction de diamants sur la côte spectaculaire du désert du Namib."},
     facts: {
       de: ["Benannt nach dem markanten Felsentor.", "Teil der Sperrgebiet-Historie.", "Fokus auf marine Terrassen.", "Schwierige Logistik."],
@@ -1079,7 +1062,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-ER",
     coords: [14.5333, -22.6167],
     name: { de: "Salzgewinnungsanlage Swakopmund", hu: "Swakopmundi Sótartalék", ro: "Salina Swakopmund", en: "Salt Company Swakopmund"},
-    image: "/poi-images/salzgewinnung-swakopmund-economic-v2.webp",
     description: { de: "Eine große Anlage zur Gewinnung von Meersalz durch Verdunstung an der Atlantikküste.", hu: "Nagy létesítmény tengeri só lepárlására az Atlanti-óceán partján.", ro: "O facilitate mare pentru obținerea sării de mare prin evaporare pe coasta Atlanticului.", en: "A large facility for the extraction of sea salt through evaporation on the Atlantic coast." , es: "Una gran instalación para la obtención de sal marina mediante evaporación en la costa atlántica.", pt: "Uma grande instalação para a obtenção de sal marinho através da evaporação na costa atlântica.", fr: "Une grande installation de production de sel marin par évaporation sur la côte atlantique."},
     facts: {
       de: ["Nördlich von Swakopmund.", "Produziert Tausende Tonnen Salz.", "Ein Magnet für Flamingos.", "Wichtiger lokaler Arbeitgeber."],
@@ -1237,7 +1219,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-ER",
     coords: [14.4167, -23.0167],
     name: { de: "Walvis Bay Salzgewinnung", hu: "Walvis Bay-i sólepárló", ro: "Extracția de sare Walvis Bay", en: "Walvis Bay Salt Holdings"},
-    image: "/poi-images/walvis-bay-salzgewinnung-economic-v2.webp",
     description: { de: "Einer der größten Solarsalzproduzenten Afrikas, der industrielles und Speisesalz exportiert.", hu: "Afrika egyik legnagyobb napenergia-só termelője, amely ipari és étkezési sót exportál.", ro: "Unul dintre cei mai mari producători de sare solară din Africa, exportând sare industrială și de masă.", en: "One of the largest solar salt producers in Africa, exporting industrial and table salt." , es: "Uno de los mayores productores de sal solar de África, exportando sal industrial y de mesa.", pt: "Um dos maiores produtores de sal solar da África, exportando sal industrial e de mesa.", fr: "L'un des plus grands producteurs de sel solaire d'Afrique, exportant du sel industriel et de table."},
     facts: {
       de: ["Riesige Verdunstungsbecken.", "Exportiert weltweit.", "Südlich der Lagune gelegen.", "Produziert über 1 Million Tonnen jährlich."],
@@ -1395,7 +1376,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-KH",
     coords: [17.0833, -22.5667],
     name: { de: "NamWater Hauptsitz", hu: "NamWater Központ", ro: "Sediul NamWater", en: "NamWater Headquarters"},
-    image: "/poi-images/namwater-hauptsitz-economic-v2.webp",
     description: { de: "Die Zentrale des nationalen Wasserversorgers, der die lebenswichtige Wasserinfrastruktur in ganz Namibia steuert.", hu: "A nemzeti vízszolgáltató központja, amely az egész Namíbiában elengedhetetlen vízinfrastruktúrát irányítja.", ro: "Sediul central al furnizorului național de apă, care controlează infrastructura vitală a apei în toată Namibia.", en: "The headquarters of the national water supplier, managing vital water infrastructure across Namibia." , es: "La sede del proveedor nacional de agua, que gestiona la infraestructura hídrica vital en toda Namibia.", pt: "A sede do fornecedor nacional de água, que gere a infraestrutura hídrica vital em toda a Namíbia.", fr: "Le siège du fournisseur national d'eau, qui gère l'infrastructure hydraulique vitale dans toute la Namibie."},
     facts: {
       de: ["Befindet sich in Windhoek.", "Staatliches Unternehmen.", "Verwaltet Dämme und Pipelines.", "Sichert die Wasserversorgung der Minen."],
@@ -1481,7 +1461,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-KH",
     coords: [17.0833, -22.5167],
     name: { de: "Van Eck Kraftwerk", hu: "Van Eck Erőmű", ro: "Centrala electrică Van Eck", en: "Van Eck Power Station"},
-    image: "/poi-images/van-eck-kraftwerk-economic-v2.webp",
     description: { de: "Ein Kohlekraftwerk in Windhoek, das zur Stabilisierung des nationalen Stromnetzes dient.", hu: "Széntüzelésű erőmű Windhoekban, amely a nemzeti villamosenergia-hálózat stabilizálását szolgálja.", ro: "O centrală pe cărbune din Windhoek care servește la stabilizarea rețelei electrice naționale.", en: "A coal-fired power station in Windhoek serving to stabilize the national power grid." , es: "Una central eléctrica de carbón en Windhoek que sirve para estabilizar la red eléctrica nacional.", pt: "Uma central elétrica a carvão em Windhoek que serve para estabilizar a rede elétrica nacional.", fr: "Une centrale thermique au charbon à Windhoek, servant à stabiliser le réseau électrique national."},
     facts: {
       de: ["Betrieben von NamPower.", "Liefert Spitzenlastenergie.", "Markante Kühltürme in Windhoek.", "Das einzige Kohlekraftwerk des Landes."],
@@ -1567,7 +1546,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-OM",
     coords: [14.2833, -17.4],
     name: { de: "Ruacana Wasserkraftwerk", hu: "Ruacana Vízerőmű", ro: "Hidrocentrala Ruacana", en: "Ruacana Hydroelectric Power Station"},
-    image: "/poi-images/ruacana-wasserkraftwerk-economic-v2.webp",
     description: { de: "Namibias wichtigste Stromquelle, gelegen an den Ruacana-Fällen am Kunene-Fluss.", hu: "Namíbia legfontosabb áramforrása, amely a Kunene folyó Ruacana-vízesésénél található.", ro: "Cea mai importantă sursă de energie a Namibiei, situată la cascada Ruacana pe râul Kunene.", en: "Namibia's main source of electricity, located at the Ruacana Falls on the Kunene River." , es: "La fuente de energía más importante de Namibia, situada en las cataratas Ruacana, en el río Kunene.", pt: "A fonte de energia mais importante da Namíbia, localizada nas quedas de Ruacana, no rio Cunene.", fr: "La plus importante source d'électricité de Namibie, située aux chutes de Ruacana sur le fleuve Cunene."},
     facts: {
       de: ["Größtes Kraftwerk Namibias.", "Nutzt das Wasser des Kunene.", "Unterirdische Turbinen.", "Kernstück der Stromversorgung."],
@@ -1608,7 +1586,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-KA",
     coords: [14.3, -28.5],
     name: { de: "Kudu-Gasfeld", hu: "Kudu gázmező", ro: "Câmpul de gaze Kudu", en: "Kudu Gas Field"},
-    image: "/poi-images/kudu-gasfeld-economic-v2.webp",
     description: { de: "Ein bedeutendes Offshore-Erdgasfeld vor der Küste Südnamibias mit großem Entwicklungspotenzial.", hu: "Jelentős tengeri földgázmező Namíbia déli partjainál, nagy fejlesztési potenciállal.", ro: "Un important câmp de gaze naturale offshore în largul coastei de sud a Namibiei, cu un mare potențial de dezvoltare.", en: "A major offshore natural gas field off the coast of southern Namibia with great development potential." , es: "Un importante campo de gas natural offshore frente a la costa del sur de Namibia con gran potencial de desarrollo.", pt: "Um importante campo de gás natural offshore ao largo da costa do sul da Namíbia, com grande potencial de desenvolvimento.", fr: "Un important gisement de gaz naturel offshore au large du sud de la Namibie, présentant un fort potentiel de développement."},
     facts: {
       de: ["Liegt im Atlantischen Ozean.", "Wichtig für zukünftige Energieprojekte.", "Entdeckt in den 1970er Jahren.", "Soll ein Gaskraftwerk versorgen."],
@@ -1649,7 +1626,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-ER",
     coords: [15.55, -21.3667],
     name: { de: "Omburu Solarkraftwerk", hu: "Omburu Naperőmű", ro: "Centrala solară Omburu", en: "Omburu Solar Power Station"},
-    image: "/poi-images/omburu-solarkraftwerk-economic-v2.webp",
     description: { de: "Eines der ersten und größten Photovoltaik-Kraftwerke in Namibia zur Förderung erneuerbarer Energien.", hu: "Namíbia egyik első és legnagyobb fotovoltaikus erőműve a megújuló energiák népszerűsítésére.", ro: "Una dintre primele și cele mai mari centrale fotovoltaice din Namibia pentru promovarea energiei regenerabile.", en: "One of the first and largest photovoltaic power plants in Namibia promoting renewable energy." , es: "Una de las primeras y mayores plantas de energía fotovoltaica en Namibia para promover las energías renovables.", pt: "Uma das primeiras e maiores centrais de energia fotovoltaica na Namíbia para promover as energias renováveis.", fr: "L'une des premières et des plus grandes centrales photovoltaïques de Namibie pour la promotion des énergies renouvelables."},
     facts: {
       de: ["Nahe Omaruru gelegen.", "Besteht aus über 30.000 Modulen.", "Reduziert die Abhängigkeit von Importen.", "Teil der grünen Energiewende."],
@@ -1690,7 +1666,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-ER",
     coords: [14.5, -22.25],
     name: { de: "Erongo Entsalzungsanlage", hu: "Erongo Sótalanító", ro: "Uzina de desalinizare Erongo", en: "Erongo Desalination Plant"},
-    image: "/poi-images/erongo-entsalzungsanlage-economic-v2.webp",
     description: { de: "Die größte Entsalzungsanlage im südlichen Afrika, die Wasser für die Minen der Erongo-Region liefert.", hu: "Dél-Afrika legnagyobb sótalanító üzeme, amely vizet biztosít az Erongo régió bányáinak.", ro: "Cea mai mare uzină de desalinizare din sudul Africii, furnizând apă minelor din regiunea Erongo.", en: "The largest desalination plant in southern Africa, providing water for the mines in the Erongo region." , es: "La planta de desalinización más grande del sur de África, que suministra agua a las minas de la región de Erongo.", pt: "A maior central de dessalinização da África Austral, que fornece água às minas da região de Erongo.", fr: "La plus grande usine de dessalement d'Afrique australe, fournissant de l'eau aux mines de la région d'Erongo."},
     facts: {
       de: ["Bei Wlotzkasbaken gelegen.", "Umkehrosmose-Technologie.", "Kapazität von 20 Millionen Kubikmetern.", "Wichtig für die Uranindustrie."],
@@ -1812,7 +1787,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-KH",
     coords: [17.0667, -22.5333],
     name: { de: "Meatco Fleischfabrik Windhoek", hu: "Meatco Húsgyár", ro: "Fabrica de carne Meatco", en: "Meatco Factory Windhoek"},
-    image: "/poi-images/meatco-fleischfabrik-economic-v2.webp",
     description: { de: "Der wichtigste fleischverarbeitende Betrieb in Namibia, der hochwertiges Rindfleisch für den Export produziert.", hu: "A legfontosabb húsfeldolgozó üzem Namíbiában, amely kiváló minőségű marhahúst állít elő exportra.", ro: "Cea mai importantă fabrică de procesare a cărnii din Namibia, producând carne de vită de înaltă calitate pentru export.", en: "The main meat processing facility in Namibia, producing high-quality beef for export." , es: "La planta de procesamiento de carne más importante de Namibia, que produce carne de vacuno de alta calidad para la exportación.", pt: "A empresa de processamento de carne mais importante da Namíbia, que produz carne bovina de alta qualidade para exportação.", fr: "L'entreprise de transformation de viande la plus importante de Namibie, produisant du bœuf de haute qualité pour l'exportation."},
     facts: {
       de: ["Staatlich unterstützt.", "Exportiert in die EU und nach Asien.", "Höchste Qualitätsstandards.", "Stützt den lokalen Agrarsektor."],
@@ -1853,7 +1827,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-KH",
     coords: [17.0667, -22.5167],
     name: { de: "Namibia Brauereien", hu: "Namíbiai Sörfőzdék", ro: "Berăriile Namibiei", en: "Namibia Breweries Limited"},
-    image: "/poi-images/namibia-brauereien-economic-v2.webp",
     description: { de: "Eine hochmoderne Brauerei in Windhoek, die international ausgezeichnetes Bier nach dem Reinheitsgebot braut.", hu: "Egy rendkívül modern sörfőzde Windhoekban, amely a Reinheitsgebot alapján nemzetközileg elismert sört főz.", ro: "O berărie ultramodernă din Windhoek, care produce bere premiată internațional conform Reinheitsgebot.", en: "A state-of-the-art brewery in Windhoek, brewing internationally awarded beer according to the Reinheitsgebot." , es: "Una cervecería de vanguardia en Windhoek que elabora cerveza premiada internacionalmente según la ley de pureza.", pt: "Uma cervejaria ultra-moderna em Windhoek que produz cerveja premiada internacionalmente de acordo com a lei da pureza.", fr: "Une brasserie ultra-moderne à Windhoek qui produit une bière récompensée internationalement selon la loi de pureté."},
     facts: {
       de: ["Produziert das berühmte Windhoek Lager.", "Einer der größten Arbeitgeber.", "Nutzt Solarenergie.", "Starker Export in Nachbarländer."],
@@ -1975,7 +1948,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-ER",
     coords: [14.5, -22.9333],
     name: { de: "Schiffbau- und Reparaturwerft Walvis Bay", hu: "Walvis Bay Hajógyár", ro: "Șantierul naval Walvis Bay", en: "Walvis Bay Shipyard"},
-    image: "/poi-images/ebh-namibia-economic-v2.webp",
     description: { de: "Eine wichtige Schiffbau- und Reparaturanlage an der Westküste Afrikas, die die maritime Industrie unterstützt.", hu: "Fontos hajóépítő és -javító létesítmény Afrika nyugati partján, amely a tengeri ipart támogatja.", ro: "O importantă facilitate de construcții și reparații navale pe coasta de vest a Africii, susținând industria maritimă.", en: "A major shipbuilding and repair facility on the west coast of Africa supporting the maritime industry." , es: "Una importante instalación de construcción y reparación de barcos en la costa oeste de África que apoya a la industria marítima.", pt: "Uma importante instalação de construção e reparação naval na costa oeste de África que apoia a indústria marítima.", fr: "Une installation majeure de construction et de réparation navale sur la côte ouest de l'Afrique, soutenant l'industrie maritime."},
     facts: {
       de: ["Betreibt Schwimmdocks.", "Wartet Ölplattformen und Schiffe.", "Zentrales maritimes Zentrum.", "Bietet spezialisierte Ingenieurdienstleistungen."],
@@ -2205,7 +2177,6 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     parent: "NA-KH",
     coords: [17.0833, -22.5833],
     name: { de: "Namdia Diamantenhandel", hu: "Namdia Gyémántkereskedelem", ro: "Comerțul cu diamante Namdia", en: "Namdia Diamond Trade"},
-    image: "/poi-images/namdia-diamantenhandel-economic-v2.webp",
     description: { de: "Das staatliche Unternehmen für den Handel und die Bewertung namibischer Diamanten auf dem Weltmarkt.", hu: "Az állami vállalat a namíbiai gyémántok kereskedelmére és értékelésére a világpiacon.", ro: "Compania de stat pentru comerțul și evaluarea diamantelor namibiene pe piața mondială.", en: "The state-owned company for trading and evaluating Namibian diamonds on the global market." , es: "La empresa estatal para el comercio y la valoración de los diamantes namibios en el mercado mundial.", pt: "A empresa estatal para o comércio e avaliação de diamantes namibianos no mercado mundial.", fr: "L'entreprise publique pour le commerce et l'évaluation des diamants namibiens sur le marché mondial."},
     facts: {
       de: ["Sitz in Windhoek.", "Fördert die Preisentdeckung.", "Sichert staatliche Einnahmen.", "Verkauft an globale Diamantenschleifer."],

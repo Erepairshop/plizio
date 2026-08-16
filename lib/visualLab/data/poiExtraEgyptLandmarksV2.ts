@@ -364,7 +364,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       pt: ["A torre foi oficialmente inaugurada em 11 de abril de 1961.", "Com 187 metros, foi a estrutura mais alta de África até 1971.", "O padrão de treliça da fachada é composto por 8 milhões de pedras de mosaico.", "O arquiteto Naoum Shebib é considerado um pioneiro da arquitetura em betão.", "O restaurante rotativo demora 70 minutos para uma volta completa.", "A construção foi financiada em parte por fundos do governo dos EUA."],
       fr: ["La tour a été officiellement inaugurée le 11 avril 1961.", "Avec ses 187 mètres, elle fut la plus haute structure d'Afrique jusqu'en 1971.", "Le motif en treillis de la façade est composé de 8 millions de tesselles de mosaïque.", "L'architecte Naoum Shebib est considéré comme un pionnier de l'architecture en béton.", "Le restaurant tournant met 70 minutes pour effectuer une rotation complète.", "La construction a été en partie financée par des fonds du gouvernement américain."],
     }, },
-    image: "/poi-images/eg-cairo-tower.webp",
     description: {
       de: "Ein 187 Meter hoher, freistehender Fernsehturm aus Beton, der einen Panoramablick auf Kairo bietet.",
       hu: "Egy 187 méter magas, szabadon álló beton tévétorony Kairóban, amely panorámás kilátást nyújt a városra.",
@@ -853,7 +852,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       pt: ["A biblioteca foi oficialmente inaugurada em 16 de outubro de 2002.", "O edifício tem onze andares, quatro dos quais são subterrâneos.", "A sala de leitura oferece espaço para até 2.000 leitores em simultâneo.", "A fachada é composta por 6.400 placas de granito de Assuã.", "Abriga uma cópia do arquivo da Internet (Wayback Machine).", "O diâmetro do teto em forma de disco é de 160 metros."],
       fr: ["La bibliothèque a été officiellement inaugurée le 16 octobre 2002.", "Le bâtiment compte onze étages, dont quatre sont souterrains.", "La salle de lecture peut accueillir jusqu'à 2 000 lecteurs simultanément.", "La façade est composée de 6 400 plaques de granit provenant d'Assouan.", "Elle abrite une copie des archives d'Internet (Wayback Machine).", "Le diamètre du toit en forme de disque est de 160 mètres."],
     }, },
-    image: "/poi-images/eg-bibliotheca-alexandrina.webp",
     description: {
       de: "Eine große Bibliothek und ein Kulturzentrum am Ufer des Mittelmeers in Alexandria.",
       hu: "Egy hatalmas könyvtár és kulturális központ az alexandriai Földközi-tenger partján.",
@@ -1090,7 +1088,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       pt: ["Fundada no ano 970 d.C. durante a dinastia fatímida.", "A Universidade de Al-Azhar foi oficialmente estabelecida como local de ensino em 988 d.C.", "A estrutura possui um total de cinco minaretes marcantes de diferentes épocas.", "A sala de oração central abrange uma área de mais de 3.000 metros quadrados.", "No século XV, o Sultão Qaitbay acrescentou um dos minaretes mais elaborados.", "O complexo abriga uma biblioteca com mais de 500.000 manuscritos valiosos."],
       fr: ["Fondée en 970 après J.-C. sous la dynastie des Fatimides.", "L'université Al-Azhar a été officiellement établie comme lieu d'enseignement en 988 après J.-C.", "L'édifice possède au total cinq minarets remarquables datant de différentes époques.", "La salle de prière centrale s'étend sur une surface de plus de 3 000 mètres carrés.", "Au XVe siècle, le sultan Qaitbay a ajouté l'un des minaretes les plus travaillés.", "Le site abrite une bibliothèque contenant plus de 500 000 manuscrits précieux."],
     }, },
-    image: "/poi-images/eg-al-azhar-mosque.webp",
     description: {
       de: "Eine historische islamische Moschee im islamischen Kairo, gegründet 972 und bekannt als Zentrum für islamische Gelehrsamkeit.",
       hu: "Egy történelmi iszlám mecset az iszlám Kairóban, melyet 972-ben alapítottak, és az iszlám oktatás központjaként ismert.",
@@ -1291,7 +1288,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       pt: ["Construída entre 1830 e 1848 em estilo otomano.", "Os dois minaretes atingem uma altura de 82 metros cada.", "A cúpula central tem um diâmetro de 21 metros.", "Muhammad Ali Pasha está sepultado num túmulo magnífico no interior.", "A mesquita está revestida com mais de 160 toneladas de alabastro.", "A torre do relógio de cobre no pátio foi um presente do rei Luís Filipe da França."],
       fr: ["Construite entre 1830 et 1848 dans le style ottoman.", "Les deux minarets atteignent chacun une hauteur de 82 mètres.", "Le dôme central a un diamètre de 21 mètres.", "Méhémet Ali est enterré dans un somptueux tombeau à l'intérieur.", "La mosquée est revêtue de plus de 160 tonnes d'albâtre.", "La tour de l'horloge en cuivre dans la cour était un cadeau du roi Louis-Philippe Ier."],
     }, },
-    image: "/poi-images/eg-muhammad-ali-mosque.webp",
     description: {
       de: "Eine prächtige osmanische Moschee in der Zitadelle von Kairo, die von der ganzen Stadt aus sichtbar ist.",
       hu: "Egy lenyűgöző oszmán mecset a kairói fellegvárban, amely a város minden pontjáról látható.",
@@ -1420,7 +1416,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       pt: ["Construída entre 1356 e 1363 durante a dinastia mameluca Bahri.", "O portal principal tem uns impressionantes 38 metros de altura.", "Os custos de construção foram tão elevados que o sultão teve de interromper a obra temporariamente.", "Um dos quatro minaretes originais desmoronou-se em 1361, matando 300 pessoas.", "O pátio central mede cerca de 32 por 34 metros.", "Nos cantos do complexo encontram-se as madraças para as quatro escolas jurídicas."],
       fr: ["Construite entre 1356 et 1363 sous la dynastie mamelouke des Bahrites.", "Le portail principal mesure une hauteur impressionnante de 38 mètres.", "Les coûts de construction étaient si élevés que le sultan a dû interrompre temporairement les travaux.", "L'un des quatre minarets d'origine s'est effondré en 1361, tuant 300 personnes.", "La cour centrale mesure environ 32 mètres sur 34.", "Les madrasas pour les quatre écoles juridiques se trouvent aux angles du complexe."],
     }, },
-    image: "/poi-images/eg-sultan-hassan-mosque.webp",
     description: {
       de: "Eine monumentale Moschee und Madrasa im historischen Viertel von Kairo, bekannt für ihre enormen Ausmaße.",
       hu: "Egy monumentális mecset és medresze Kairó történelmi negyedében, amely hatalmas méreteiről ismert.",
@@ -1621,7 +1616,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       pt: ["A ponte atual foi inaugurada em 6 de junho de 1933 pelo Rei Fuad I.", "O comprimento total da estrutura é de exatamente 382 metros.", "Os quatro leões de bronze foram originalmente fundidos em França.", "Inicialmente, a construção chamava-se Ponte Khedive-Ismail.", "A ponte tem 20 metros de largura e dispõe de caminhos pedonais largos.", "Foi a primeira ponte no Egito a ser construída com aço britânico importado."],
       fr: ["Le pont actuel a été inauguré le 6 juin 1933 par le roi Fouad Ier.", "La longueur totale de l'ouvrage est exactement de 382 mètres.", "Les quatre lions de bronze ont été initialement coulés en France.", "À l'origine, l'ouvrage s'appelait pont Khédive-Ismaïl.", "Le pont mesure 20 mètres de large et dispose de larges voies piétonnes.", "C'était le premier pont d'Égypte construit avec de l'acier britannique importé."],
     }, },
-    image: "/poi-images/eg-qasr-el-nil-bridge.webp",
     description: {
       de: "Ein historisches Bauwerk aus dem Jahr 1931, das den Tahrir-Platz über den Nil mit der Gezira-Insel verbindet.",
       hu: "Egy 1931-ből származó történelmi híd, amely a Tahrir teret köti össze a Gezira-szigettel a Nílus felett.",
@@ -2002,7 +1996,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       pt: ["O museu foi inaugurado em 15 de novembro de 1902.", "Existem mais de 120.000 objetos nos arquivos e salas de exposição.", "O projeto foi selecionado entre 87 propostas arquitetónicas submetidas.", "O edifício tem dois andares com um total de 107 salas.", "Foi o primeiro edifício do mundo concebido especificamente como um museu.", "A famosa máscara de ouro de Tutankhamon esteve aqui exposta durante quase 100 anos."],
       fr: ["Le musée a été inauguré le 15 novembre 1902.", "Plus de 120 000 objets se trouvent dans les archives et les salles d'exposition.", "Le projet a été choisi parmi 87 propositions architecturales soumises.", "Le bâtiment dispose de deux étages avec un total de 107 salles.", "C'était le premier bâtiment au monde conçu spécifiquement comme un musée.", "Le célèbre masque d'or de Toutânkhamon y a été exposé pendant près de 100 ans."],
     }, },
-    image: "/poi-images/eg-egyptian-museum-cairo.webp",
     description: {
       de: "Eines der bedeutendsten Museen für alte Geschichte am Tahrir-Platz, das eine umfangreiche Antikensammlung beherbergt.",
       hu: "Az ókori történelem egyik legfontosabb múzeuma a Tahrir téren, amely hatalmas régiséggyűjteménnyel rendelkezik.",
@@ -2239,7 +2232,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       pt: ["A pedra fundamental foi lançada em 2002.", "O museu estende-se por uma área de quase 500.000 metros quadrados.", "A estátua de Ramsés II pesa cerca de 83 toneladas.", "Mais de 100.000 artefactos serão exibidos nas galerias no total.", "O projeto é do escritório de arquitetura irlandês Heneghan Peng.", "O museu situa-se a apenas 2 quilómetros das Pirâmides de Gizé."],
       fr: ["La pose de la première pierre a eu lieu en 2002.", "Le musée s'étend sur une surface de près de 500 000 mètres carrés.", "La statue de Ramsès II pèse environ 83 tonnes.", "Plus de 100 000 objets seront exposés au total dans les galeries.", "La conception est l'œuvre du cabinet d'architectes irlandais Heneghan Peng.", "Le musée se trouve à seulement 2 kilomètres des pyramides de Gizeh."],
     }, },
-    image: "/poi-images/eg-grand-egyptian-museum.webp",
     description: {
       de: "Ein riesiger, moderner archäologischer Museumskomplex in der Nähe der Pyramiden von Gizeh, der als größter der Welt für eine einzige Zivilisation konzipiert wurde.",
       hu: "Egy hatalmas, modern régészeti múzeumkomplexum a gízai piramisok közelében, amelyet a világ legnagyobb egyetlen civilizációnak szentelt múzeumának terveztek.",
@@ -2620,7 +2612,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       pt: ["O museu foi inaugurado por etapas a partir de 2017.", "Alberga as múmias de 18 reis e 4 rainhas.", "A área de exposição abrange mais de 23.000 metros quadrados.", "O NMEC localiza-se no sítio histórico de Fustat, a primeira capital islâmica do Egito.", "A Royal Mummies Hall foi aberta ao público a 18 de abril de 2021.", "A coleção inclui mais de 50.000 artefactos de todas as épocas."],
       fr: ["Le musée a été ouvert par étapes à partir de 2017.", "Il abrite les momies de 18 rois et 4 reines.", "La surface d'exposition s'étend sur plus de 23 000 mètres carrés.", "Le NMEC se trouve sur le site historique de Fostat, la première capitale islamique d'Égypte.", "La salle des momies royales a été ouverte au public le 18 avril 2021.", "La collection comprend plus de 50 000 objets de toutes les époques."],
     }, },
-    image: "/poi-images/eg-nmec.webp",
     description: {
       de: "Ein modernes Museum in Fustat, das die ägyptische Geschichte in all ihren Epochen von der Prähistorie bis zur Moderne zeigt.",
       hu: "Egy modern múzeum Fustatban, amely az egyiptomi történelmet mutatja be minden korszakában, a történelem előttitől a modern időkig.",
@@ -2893,7 +2884,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       pt: ["A ópera foi oficialmente inaugurada em 10 de outubro de 1988.", "O Grande Teatro tem capacidade para 1.200 espectadores.", "Foi projetada por arquitetos japoneses em colaboração com egípcios.", "O complexo inclui um total de sete palcos e salas diferentes.", "A Ópera do Cairo também abriga um museu de arte moderna.", "Substituiu a Ópera Khedivial, construída em 1869 para a inauguração do Canal de Suez."],
       fr: ["L'opéra a été officiellement inauguré le 10 octobre 1988.", "Le Grand Théâtre peut accueillir 1 200 spectateurs.", "Il a été conçu par des architectes japonais en collaboration avec des Égyptiens.", "Le complexe comprend au total sept scènes et salles différentes.", "L'Opéra du Caire abrite également un musée d'art moderne.", "Il a remplacé l'Opéra khédival, construit en 1869 pour l'inauguration du canal de Suez."],
     }, },
-    image: "/poi-images/eg-cairo-opera-house.webp",
     description: {
       de: "Der wichtigste Ort für darstellende Künste in der ägyptischen Hauptstadt, im südlichen Teil der Gezira-Insel gelegen.",
       hu: "Az egyiptomi főváros előadó-művészetének elsődleges helyszíne, amely a Gezira-sziget déli részén található.",
@@ -3130,7 +3120,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       pt: ["O tempo de construção do palácio durou cerca de 10 anos.", "Foi erguido no local de uma antiga propriedade de Abdeen Bey.", "O palácio possui uma das maiores coleções de relógios do mundo.", "O museu de armas contém peças raras que pertenceram a Napoleão Bonaparte.", "Existem no total cinco museus separados dentro do complexo do palácio.", "O palácio estende-se por uma área de cerca de 24 feddans (aprox. 10 hectares)."],
       fr: ["La durée de construction du palais fut d'environ 10 ans.", "Il a été érigé sur l'emplacement d'une ancienne propriété d'Abdeen Bey.", "Le palais possède l'une des plus grandes collections d'horloges au monde.", "Le musée des armes contient des pièces rares ayant appartenu à Napoléon Bonaparte.", "Il y a au total cinq musées distincts au sein du complexe palatial.", "Le palais s'étend sur une surface d'environ 24 feddans (env. 10 hectares)."],
     }, },
-    image: "/poi-images/eg-abdeen-palace.webp",
     description: {
       de: "Ein historischer Palast in Kairo, der als einer der offiziellen Wohnsitze und Hauptarbeitsplätze des ägyptischen Präsidenten dient.",
       hu: "Egy történelmi kairói palota, amely az egyiptomi elnök egyik hivatalos rezidenciájaként és fő munkahelyeként szolgál.",
@@ -3619,7 +3608,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       pt: ["A construção foi totalmente concluída no ano de 1911.", "A arquitetura baseia-se em projetos apresentados na Exposição Universal de Paris de 1900.", "O palácio foi construído inteiramente em betão, o que era muito moderno na época.", "Após a morte do barão em 1929, o edifício deteriorou-se durante décadas.", "A restauração custou ao governo egípcio cerca de 100 milhões de libras.", "Existem lendas sobre uma torre giratória que conseguia seguir o sol."],
       fr: ["La construction a été entièrement achevée en 1911.", "L'architecture s'inspire de projets présentés lors de l'Exposition universelle de Paris en 1900.", "Le palais est entièrement construit en béton, ce qui était très moderne pour l'époque.", "Après la mort du baron en 1929, le bâtiment est tombé en ruines pendant des décennies.", "La restauration a coûté environ 100 millions de livres au gouvernement égyptien.", "Des légendes mentionnent une tour rotative capable de suivre le soleil."],
     }, },
-    image: "/poi-images/eg-baron-empain-palace.webp",
     description: {
       de: "Ein einzigartiger historischer Palast in Heliopolis, der von einem Hindutempel inspiriert und von einem belgischen Industriellen erbaut wurde.",
       hu: "Egy egyedülálló, hindu templom ihlette történelmi palota Heliopoliszban, amelyet egy belga iparos építtetett.",
@@ -4180,7 +4168,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       pt: ["A inauguração ocorreu no ano de 2001.", "O comprimento total é de cerca de 400 metros.", "Possui quatro torres em estilo islâmico.", "Localiza-se no bairro de Stanley, em Alexandria.", "Serve para aliviar a estrada costeira Corniche.", "Motivo importante para a indústria cinematográfica egípcia."],
       fr: ["L'inauguration a eu lieu en 2001.", "La longueur totale est d'environ 400 mètres.", "Possède quatre tours de style islamique.", "Se situe dans le quartier Stanley d'Alexandrie.", "Sert à désengorger la route côtière de la Corniche.", "Motif important pour l'industrie cinématographique égyptienne."],
     }, },
-    image: "/poi-images/eg-stanley-bridge.webp",
     description: {
       de: "Eine 400 Meter lange Brücke in Alexandria über das Mittelmeer, bekannt für ihr elegantes Design und ihre Nachtbeleuchtung.",
       hu: "Egy 400 méter hosszú híd Alexandriában a Földközi-tenger felett, amely elegáns kialakításáról és éjszakai kivilágításáról ismert.",
@@ -4633,7 +4620,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       pt: ["Contém 7.367 sepulturas identificadas", "Quase 12.000 desaparecidos homenageados no Memorial", "Comemora as batalhas de 1940 a 1942", "Gerido pela Commonwealth War Graves Commission", "Localiza-se a cerca de 100 km a oeste de Alexandria", "Contém túmulos de soldados de muitas nações"],
       fr: ["Contient 7 367 tombes identifiées", "Près de 12 000 disparus honorés au Mémorial", "Commémore les batailles de 1940 à 1942", "Géré par la Commonwealth War Graves Commission", "Situé à environ 100 km à l'ouest d'Alexandrie", "Contient des tombes de soldats de nombreuses nations"],
     }, },
-    image: "/poi-images/eg-el-alamein-cemetery.webp",
     description: {
       de: "Eine bedeutende Gedenkstätte und Ruhestätte für Soldaten der britischen und Commonwealth-Streitkräfte, die im Zweiten Weltkrieg fielen.",
       hu: "Jelentős emlékhely és nyughely a brit és a nemzetközösségi erők azon katonái számára, akik a második világháborúban estek el.",
@@ -4726,7 +4712,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       pt: ["A inauguração ocorreu em 1960.", "A capacidade máxima é de 75.000 lugares.", "Projetado pelo arquiteto Werner March.", "Casa do Al Ahly e do Zamalek.", "Local da final da Taça das Nações Africanas de 2006.", "Renovação abrangente em 2005."],
       fr: ["Inauguration en 1960.", "Capacité maximale de 75 000 places.", "Conçu par l'architecte Werner March.", "Terrain des clubs Al Ahly et Zamalek.", "Lieu de la finale de la Coupe d'Afrique des Nations 2006.", "Rénovation complète en 2005."],
     }, },
-    image: "/poi-images/eg-cairo-stadium.webp",
     description: {
       de: "Ein Mehrzweckstadion in Nasr City, bekannt als der Fahnenträger des ägyptischen Fußballs und nationaler Ereignisse.",
       hu: "Egy többcélú stadion Nasr Cityben, amely az egyiptomi labdarúgás és a nemzeti események központjaként ismert.",
@@ -5988,7 +5973,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Borg el-Arab Stadion",
       ro: "Stadionul Borg El Arab",
       en: "Borg El Arab Stadium"},
-    image: "/poi-images/eg-borg-el-arab-stadium.webp",
     description: {
       de: "Das größte Stadion Ägyptens und eines der größten in Afrika, in der Nähe des Mittelmeerortes Alexandria gelegen.",
       hu: "Egyiptom legnagyobb és Afrika egyik legnagyobb stadionja, amely a Földközi-tenger parti üdülőváros, Alexandria közelében található.",
@@ -6116,7 +6100,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Szuezi-csatorna híd",
       ro: "Podul Canalului Suez",
       en: "Suez Canal Bridge"},
-    image: "/poi-images/eg-suez-canal-bridge.webp",
     description: {
       de: "Eine Straßenbrücke, die den Sueskanal bei El Qantara überquert und die Kontinente Afrika und Asien verbindet.",
       hu: "Közúti híd, amely El Kantaránál keresztezi a Szuezi-csatornát, és összeköti Afrika és Ázsia kontinensét.",
@@ -6163,7 +6146,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Asszuáni-gát",
       ro: "Barajul Aswan",
       en: "Aswan High Dam"},
-    image: "/poi-images/eg-aswan-high-dam.webp",
     description: {
       de: "Ein monumentaler Steinschüttdamm, der quer über den Nil in Assuan gebaut wurde, den Nassersee bildete und die jährlichen Überschwemmungen kontrolliert.",
       hu: "Egy monumentális kőgát a Níluson Asszuánnál, amely létrehozta a Nasszer-tavat, és szabályozza a folyó éves áradásait.",
@@ -6543,7 +6525,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Montaza-palota",
       ro: "Palatul Montaza",
       en: "Montaza Palace"},
-    image: "/poi-images/eg-montaza-palace.webp",
     description: {
       de: "Ein großer Palast und weitläufige Gärten im Stadtteil Montaza von Alexandria mit Blick auf einen Strand am Mittelmeer.",
       hu: "Egy pompás palota és hatalmas kertek Alexandria Montaza negyedében, kilátással a Földközi-tenger partjára.",
@@ -6851,7 +6832,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Manial-palota",
       ro: "Palatul Manial",
       en: "Manial Palace"},
-    image: "/poi-images/eg-manial-palace.webp",
     description: {
       de: "Ein historisches Kunst- und Geschichtsmuseum im Stadtteil El Manial im Süden Kairos, das von Prinz Mohammed Ali Tewfik erbaut wurde.",
       hu: "Egy történelmi művészeti és történelmi múzeum Kairó déli részén, az El Manial negyedben, amelyet Mohammed Ali Tewfik herceg építtetett.",
@@ -7195,7 +7175,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Függő templom",
       ro: "Biserica Suspendată",
       en: "Hanging Church"},
-    image: "/poi-images/eg-hanging-church.webp",
     description: {
       de: "Eine der ältesten Kirchen Ägyptens im koptischen Kairo, die auf einzigartige Weise über dem Torhaus einer römischen Festung schwebt.",
       hu: "Egyiptom egyik legrégebbi temploma a kopt Kairóban, amely egyedülálló módon egy római erőd kapuháza felett lebegve épült.",
@@ -7467,7 +7446,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Ibn Túlún mecset",
       ro: "Moscheea lui Ibn Tulun",
       en: "Mosque of Ibn Tulun"},
-    image: "/poi-images/eg-ibn-tulun-mosque.webp",
     description: {
       de: "Die älteste noch in ihrer ursprünglichen Form erhaltene Moschee in Kairo, berühmt für ihre enorme Größe und ihr einzigartiges Spiralminarett.",
       hu: "Kairó legrégebbi, eredeti formájában fennmaradt mecsete, amely hatalmas méretéről és egyedi spirális minaretjéről híres.",
@@ -7919,7 +7897,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Szent Katalin-kolostor",
       ro: "Mănăstirea Sfânta Ecaterina",
       en: "Saint Catherine's Monastery"},
-    image: "/poi-images/eg-saint-catherine-monastery.webp",
     description: {
       de: "Ein griechisch-orthodoxes Kloster auf der Sinai-Halbinsel an der Mündung einer Schlucht am Fuße des Berges Sinai.",
       hu: "Egy görögkatolikus kolostor a Sínai-félszigeten, a Sínai-hegy lábánál fekvő szurdok torkolatánál.",
@@ -8227,7 +8204,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Ismeretlen katona emlékműve",
       ro: "Monumentul Soldatului Necunoscut",
       en: "Unknown Soldier Memorial"},
-    image: "/poi-images/eg-unknown-soldier-memorial.webp",
     description: {
       de: "Ein markantes pyramidenförmiges Denkmal in Kairo, das die im Oktoberkrieg 1973 verlorenen ägyptischen und arabischen Leben ehrt.",
       hu: "Egy kiemelkedő piramis alakú emlékmű Kairóban, amely az 1973-as októberi háborúban elvesztett egyiptomi és arab életeket tiszteli meg.",
@@ -8319,7 +8295,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Al-Rifa'i mecset",
       ro: "Moscheea Al-Rifa'i",
       en: "Al-Rifa'i Mosque"},
-    image: "/poi-images/eg-al-rifai-mosque.webp",
     description: {
       de: "Eine riesige Moschee in Kairo neben der Sultan-Hassan-Moschee, die als königliches Mausoleum für die ägyptische Königsfamilie dient.",
       hu: "Egy hatalmas mecset Kairóban, a Szultán Haszán mecset mellett, amely az egyiptomi királyi család mauzóleumaként szolgál.",
@@ -8483,7 +8458,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Rász-et-Tín palota",
       ro: "Palatul Ras El Tin",
       en: "Ras El Tin Palace"},
-    image: "/poi-images/eg-ras-el-tin-palace.webp",
     description: {
       de: "Ein historischer königlicher Palast an der Küste des Mittelmeers in Alexandria, einer der offiziellen Wohnsitze des Präsidenten.",
       hu: "Egy történelmi királyi palota a Földközi-tenger partján, Alexandriában, az elnök egyik hivatalos rezidenciája.",
@@ -8899,7 +8873,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Kalaún komplexum",
       ro: "Complexul Qalawun",
       en: "Qalawun Complex"},
-    image: "/poi-images/eg-qalawun-complex.webp",
     description: {
       de: "Ein massiver Architekturkomplex im islamischen Kairo, der ein Krankenhaus, eine Madrasa und ein von Sultan Qalawun erbautes Mausoleum umfasst.",
       hu: "Egy hatalmas építészeti komplexum az iszlám Kairóban, amely magában foglal egy kórházat, egy medreszét és Kalaún szultán által épített mauzóleumot.",
@@ -9243,7 +9216,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Núbiai Múzeum",
       ro: "Muzeul Nubian",
       en: "Nubian Museum"},
-    image: "/poi-images/eg-nubian-museum.webp",
     description: {
       de: "Ein archäologisches Museum in Assuan, das der Geschichte und Kultur des nubischen Volkes gewidmet ist.",
       hu: "Egy Asszuánban található régészeti múzeum, amelyet a núbiai nép történelmének és kultúrájának szenteltek.",
@@ -9731,7 +9703,6 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: "Görög-Római Múzeum",
       ro: "Muzeul Greco-Roman",
       en: "Graeco-Roman Museum"},
-    image: "/poi-images/eg-graeco-roman-museum.webp",
     description: {
       de: "Ein bedeutendes Museum in Alexandria, das Artefakte aus der ptolemäischen und römischen Zeit der ägyptischen Geschichte zeigt.",
       hu: "Egy kiemelkedő múzeum Alexandriában, amely az egyiptomi történelem ptolemaioszi és római korszakának leleteit mutatja be.",

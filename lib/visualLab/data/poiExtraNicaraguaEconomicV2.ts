@@ -12,7 +12,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "Corinto kikötő",
       ro: "Portul Corinto",
       en: "Port of Corinto"},
-    image: "/poi-images/puerto-corinto-economic-v2.webp",
     description: {
       de: "Puerto Corinto ist der wichtigste und größte Seehafen Nicaraguas an der Pazifikküste. Er schlägt einen Großteil der landwirtschaftlichen und industriellen Exporte des Landes um. Der Hafen ist durch eine vorgelagerte Insel natürlich geschützt.",
       hu: "A Puerto Corinto Nicaragua legfontosabb és legnagyobb csendes-óceáni tengeri kikötője. A kikötő bonyolítja le az ország mezőgazdasági és ipari exportjának jelentős részét. Természetes védelmet élvez egy előtte elterülő szigetnek köszönhetően.",
@@ -148,7 +147,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "El Bluff kikötő",
       ro: "Portul El Bluff",
       en: "Port of El Bluff"},
-    image: "/poi-images/puerto-el-bluff-economic-v2.webp",
     description: {
       de: "Puerto El Bluff ist ein bedeutender Hafen an der Karibikküste Nicaraguas, der an der Einfahrt zur Bucht von Bluefields liegt. Er dient als maritimes Tor für den östlichen Teil des Landes. Der Hafen wickelt vor allem Meeresfrüchte und Holzexporte ab.",
       hu: "Az El Bluff kikötő egy jelentős karibi kikötő Nicaraguában, amely a Bluefields-öböl bejáratánál fekszik. Tengeri kapuként szolgál az ország keleti része számára. A kikötő elsősorban a tenger gyümölcseit és a faexportot kezeli.",
@@ -284,7 +282,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "San Juan del Sur kikötő",
       ro: "Portul San Juan del Sur",
       en: "Port of San Juan del Sur"},
-    image: "/poi-images/puerto-san-juan-del-sur-economic-v2.webp",
     description: {
       de: "Der Hafen von San Juan del Sur ist der wichtigste Passagier- und Kreuzfahrthafen Nicaraguas an der Pazifikküste. Neben dem Tourismus werden hier auch lokale Fischereiprodukte umgeschlagen. Die Bucht bietet einen ruhigen Ankerplatz.",
       hu: "A San Juan del Sur kikötő Nicaragua legfontosabb utas- és tengerjáró kikötője a csendes-óceáni parton. A turizmus mellett itt rakodják át a helyi halászati termékeket is. Az öböl csendes horgonyzóhelyet biztosít.",
@@ -352,7 +349,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "Potosí kikötő",
       ro: "Portul Potosí",
       en: "Puerto Potosí"},
-    image: "/poi-images/puerto-potosi-economic-v2.webp",
     description: {
       de: "Puerto Potosí ist ein kleinerer Hafen im Golf von Fonseca, der hauptsächlich der lokalen Wirtschaft dient. Er befindet sich in der Nähe des Vulkans Cosigüina. Der Hafen ist wichtig für den Fährverkehr nach El Salvador.",
       hu: "A Potosí kikötő egy kisebb kikötő a Fonseca-öbölben, amely főként a helyi gazdaságot szolgálja. A Cosigüina vulkán közelében található. A kikötő fontos az El Salvadorba irányuló kompjáratok szempontjából.",
@@ -420,7 +416,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "Las Mercedes Szabadkereskedelmi Övezet",
       ro: "Zona Liberă Las Mercedes",
       en: "Las Mercedes Free Trade Zone"},
-    image: "/poi-images/zona-franca-las-mercedes-economic-v2.webp",
     description: {
       de: "Die Freihandelszone Las Mercedes in Managua ist eines der ältesten und größten Industriegebiete Nicaraguas. Sie beherbergt zahlreiche Textil- und Bekleidungsfabriken. Diese Zone ist ein wichtiger Motor für ausländische Direktinvestitionen.",
       hu: "A managuai Las Mercedes Szabadkereskedelmi Övezet Nicaragua egyik legrégebbi és legnagyobb ipari területe. Számos textil- és ruházati gyárnak ad otthont. Ez a zóna a közvetlen külföldi befektetések egyik fontos motorja.",
@@ -488,7 +483,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "San Antonio cukorgyár",
       ro: "Fabrica de zahăr San Antonio",
       en: "San Antonio Sugar Mill"},
-    image: "/poi-images/ingenio-san-antonio-economic-v2.webp",
     description: {
       de: "Das Ingenio San Antonio ist eine der größten Zuckerfabriken Zentralamerikas und ein Zentrum der nicaraguanischen Agrarindustrie. Neben Zucker produziert die Anlage auch Bioethanol und erneuerbare Energie aus Biomasse. Sie ist eng mit der Rumproduktion verbunden.",
       hu: "Az Ingenio San Antonio Közép-Amerika egyik legnagyobb cukorgyára és a nicaraguai agráripar központja. A cukor mellett a létesítmény bioetanolt és biomasszából származó megújuló energiát is termel. Szorosan kapcsolódik a rumgyártáshoz.",
@@ -692,7 +686,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "La Libertad aranybánya",
       ro: "Mina de aur La Libertad",
       en: "La Libertad Gold Mine"},
-    image: "/poi-images/mina-la-libertad-economic-v2.webp",
     description: {
       de: "La Libertad im Departement Chontales ist ein bedeutender Bergbaubetrieb zur Gewinnung von Gold. Sie stellt einen wesentlichen Teil der nationalen Edelmetallexporte. Die Mine hat erheblich zur Infrastrukturentwicklung der Region beigetragen.",
       hu: "A Chontales megyében található La Libertad egy jelentős aranykitermelő bányászati üzem. A nemzeti nemesfémexport jelentős részét adja. A bánya jelentősen hozzájárult a régió infrastrukturális fejlődéséhez.",
@@ -760,7 +753,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "Bonanza aranybánya",
       ro: "Mina de aur Bonanza",
       en: "Bonanza Gold Mine"},
-    image: "/poi-images/mina-bonanza-economic-v2.webp",
     description: {
       de: "Die Mine Bonanza, betrieben von Hemco, ist Teil des historischen Bergbaudreiecks in der karibischen Region Nicaraguas. Der Bergbau hier ist seit den 1930er Jahren aktiv. Neben dem industriellen Abbau gibt es hier auch eine starke Präsenz von handwerklichen Bergleuten.",
       hu: "A Hemco által üzemeltetett Bonanza bánya a nicaraguai karibi térség történelmi bányászati háromszögének része. A bányászat itt az 1930-as évek óta aktív. Az ipari kitermelés mellett az egyéni, kézműves bányászok is nagy számban jelen vannak.",
@@ -828,7 +820,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "Saratoga Szabadkereskedelmi Övezet",
       ro: "Zona Liberă Saratoga",
       en: "Saratoga Free Trade Zone"},
-    image: "/poi-images/zona-franca-saratoga-economic-v2.webp",
     description: {
       de: "Saratoga ist eine wichtige Industrie- und Exportverarbeitungszone in der Nähe von Ciudad Sandino. Sie konzentriert sich auf die leichte Fertigung und Bekleidungsindustrie. Der Park profitiert von der Nähe zur Hauptstadt Managua und wichtigen Verkehrsadern.",
       hu: "Saratoga egy fontos ipari és exportfeldolgozó zóna Ciudad Sandino közelében. A könnyűgyártásra és a ruházati iparra összpontosít. A park kihasználja a főváros, Managua és a fő közlekedési útvonalak közelségét.",
@@ -896,7 +887,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "Astro Szabadkereskedelmi Övezet",
       ro: "Zona Liberă Astro",
       en: "Astro Free Trade Zone"},
-    image: "/poi-images/zona-franca-astro-economic-v2.webp",
     description: {
       de: "Der Astro Industrial Park in Tipitapa ist eine moderne Gewerbezone, die für die Exportproduktion ausgelegt ist. Er bietet ausländischen Investoren erstklassige Infrastruktur. Viele Firmen hier fertigen Bekleidung für den nordamerikanischen Markt.",
       hu: "A tipitapai Astro Ipari Park egy modern, exporttermelésre tervezett kereskedelmi övezet. Első osztályú infrastruktúrát kínál a külföldi befektetőknek. Számos itteni vállalat az észak-amerikai piacra gyárt ruházatot.",
@@ -1100,7 +1090,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "Flor de Caña Szeszfőzde",
       ro: "Distileria Flor de Caña",
       en: "Flor de Caña Distillery"},
-    image: "/poi-images/destileria-flor-de-cana-economic-v2.webp",
     description: {
       de: "Die Destillerie von Flor de Caña in Chichigalpa ist der Produktionsort von Nicaraguas international bekanntestem Rum. Sie nutzt Vulkanboden und 100% erneuerbare Energien für den Destillationsprozess. Der Rum wird natürlich ohne Zuckerzusatz gereift.",
       hu: "A chichigalpai Flor de Caña szeszfőzde Nicaragua nemzetközileg legismertebb rumjának gyártási helye. Vulkáni talajt és 100%-ban megújuló energiát használ a lepárlási folyamathoz. A rumot természetes módon, hozzáadott cukor nélkül érlelik.",
@@ -1236,7 +1225,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "San Jacinto-Tizate geotermikus erőmű",
       ro: "Centrala geotermală San Jacinto-Tizate",
       en: "San Jacinto-Tizate Geothermal Plant"},
-    image: "/poi-images/planta-geotermica-san-jacinto-tizate-economic-v2.webp",
     description: {
       de: "San Jacinto-Tizate ist eines der modernsten Geothermiekraftwerke in Zentralamerika. Es hat die Kapazität der erneuerbaren Energieproduktion Nicaraguas drastisch erhöht. Polaris Infrastructure betreibt diese technologisch fortschrittliche Anlage.",
       hu: "A San Jacinto-Tizate Közép-Amerika egyik legmodernebb geotermikus erőműve. Drasztikusan megnövelte Nicaragua megújulóenergia-termelési kapacitását. A Polaris Infrastructure üzemelteti ezt a technológiailag fejlett létesítményt.",
@@ -1304,7 +1292,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "Centroamérica vízerőmű",
       ro: "Hidrocentrala Centroamérica",
       en: "Centroamérica Hydroelectric Plant"},
-    image: "/poi-images/planta-hidroelectrica-centroamerica-economic-v2.webp",
     description: {
       de: "Das Wasserkraftwerk Centroamérica nutzt das Wasser des künstlichen Apanás-Sees im Norden Nicaraguas. Es ist eine der ältesten und größten Wasserkraftanlagen des Landes. Die Anlage ist entscheidend für die Grundlastversorgung im nationalen Netz.",
       hu: "A Centroamérica vízerőmű a nicaraguai északon található mesterséges Apanás-tó vizét hasznosítja. Ez az ország egyik legrégebbi és legnagyobb vízerőműve. A létesítmény létfontosságú az országos hálózat alapterhelésének ellátásában.",
@@ -1440,7 +1427,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "Amayo szélerőműpark",
       ro: "Parcul Eolian Amayo",
       en: "Amayo Wind Farm"},
-    image: "/poi-images/parque-eolico-amayo-economic-v2.webp",
     description: {
       de: "Der Windpark Amayo in Rivas war das erste große Windkraftprojekt in Nicaragua. Die starken Winde, die über den Nicaragua-See wehen, bieten ideale Bedingungen für die Turbinen. Das Projekt markierte den Beginn einer massiven Wende hin zu Windenergie.",
       hu: "A rivasi Amayo szélerőműpark volt az első nagy szélenergia-projekt Nicaraguában. A Nicaragua-tó felett fújó erős szelek ideális feltételeket biztosítanak a turbinák számára. A projekt a szélenergiára való tömeges átállás kezdetét jelezte.",
@@ -1508,7 +1494,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "Camilo Ortega szélerőműpark",
       ro: "Parcul Eolian Camilo Ortega",
       en: "Camilo Ortega Wind Farm"},
-    image: "/poi-images/parque-eolico-camilo-ortega-economic-v2.webp",
     description: {
       de: "Ebenfalls in der Region Rivas gelegen, trägt der Windpark Camilo Ortega weiter zur Diversifizierung der nicaraguanischen Energiematrix bei. Die großen weißen Turbinen sind ein markantes Merkmal der lokalen Landschaft geworden. Er nutzt modernste Windtechnologie.",
       hu: "A szintén a Rivas régióban található Camilo Ortega szélerőműpark tovább hozzájárul a nicaraguai energiamátrix diverzifikálásához. A nagy fehér turbinák a helyi táj jellegzetes elemévé váltak. A legmodernebb széltechnológiát alkalmazza.",
@@ -1576,7 +1561,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "San Martín vágóhíd",
       ro: "Abatorul San Martín",
       en: "San Martín Slaughterhouse"},
-    image: "/poi-images/matadero-san-martin-economic-v2.webp",
     description: {
       de: "Der Nuevo Carnic oder San Martín Schlachthof in Nandaime ist eine der modernsten Fleischverarbeitungsanlagen Nicaraguas. Rindfleisch ist eines der wichtigsten Exportgüter des Landes. Die Anlage erfüllt strenge internationale Hygiene- und Qualitätsstandards.",
       hu: "A nandaime-i Nuevo Carnic vagy San Martín vágóhíd Nicaragua egyik legmodernebb húsfeldolgozó üzeme. A marhahús az ország egyik legfontosabb exportcikke. A létesítmény megfelel a szigorú nemzetközi higiéniai és minőségi előírásoknak.",
@@ -1644,7 +1628,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "CEMEX cementgyár (San Rafael del Sur)",
       ro: "Fabrica de ciment CEMEX San Rafael del Sur",
       en: "CEMEX San Rafael del Sur Cement Plant"},
-    image: "/poi-images/cemex-san-rafael-del-sur-economic-v2.webp",
     description: {
       de: "Das CEMEX-Werk in San Rafael del Sur ist die wichtigste Produktionsstätte für Zement in Nicaragua. Es liefert das grundlegende Baumaterial für nationale Infrastrukturprojekte, Straßen und Wohnungsbau. Das Werk betreibt auch eigene Kalksteinbrüche.",
       hu: "A San Rafael del Sur-i CEMEX gyár a legfontosabb cementgyártó létesítmény Nicaraguában. Alapvető építőanyagot biztosít az országos infrastrukturális projektekhez, az utakhoz és a lakásépítéshez. A gyár saját mészkőbányákat is üzemeltet.",
@@ -1712,7 +1695,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "Holcim cementgyár (Nagarote)",
       ro: "Fabrica de ciment Holcim Nagarote",
       en: "Holcim Nagarote Cement Plant"},
-    image: "/poi-images/holcim-nagarote-economic-v2.webp",
     description: {
       de: "Holcim betreibt in Nagarote ein modernes Zementmahlwerk. Die Anlage ist wichtig für die Versorgung des nordwestlichen Nicaraguas mit Baumaterialien. Das Unternehmen engagiert sich in der Region stark für Umwelt- und Sozialprogramme.",
       hu: "A Holcim modern cementőrlő üzemet működtet Nagarote-ban. A létesítmény fontos a nicaraguai északnyugati régió építőanyag-ellátása szempontjából. A vállalat komolyan részt vesz a térség környezetvédelmi és szociális programjaiban.",
@@ -1780,7 +1762,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "Centrolac tejüzem",
       ro: "Fabrica de lactate Centrolac",
       en: "Centrolac Dairy Plant"},
-    image: "/poi-images/planta-lactea-centrolac-economic-v2.webp",
     description: {
       de: "Centrolac ist ein führendes Unternehmen in der Verarbeitung von UHT-Milch (Haltbarmilch) in Zentralamerika. Die hochmoderne Anlage in Managua verarbeitet Milch von hunderten nicaraguanischen Viehzüchtern. Sie hat den Export von Milchprodukten stark angekurbelt.",
       hu: "A Centrolac vezető vállalat az UHT (tartós) tej feldolgozásában Közép-Amerikában. A korszerű managuai üzem nicaraguai szarvasmarha-tenyésztők százainak tejét dolgozza fel. Erőteljesen fellendítette a tejtermékek exportját.",
@@ -1848,7 +1829,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "Eskimo tejüzem",
       ro: "Fabrica de lactate Eskimo",
       en: "Eskimo Dairy Plant"},
-    image: "/poi-images/planta-lactea-eskimo-economic-v2.webp",
     description: {
       de: "Eskimo ist eine traditionelle und geliebte nicaraguanische Marke, besonders bekannt für ihre Eiscreme und Milchprodukte. Die Fabrik in Managua wurde später von der mexikanischen Grupo LALA übernommen. Sie bleibt ein fester Bestandteil der nicaraguanischen Esskultur.",
       hu: "Az Eskimo egy hagyományos és kedvelt nicaraguai márka, amely különösen fagylaltjairól és tejtermékeiről ismert. A managuai gyárat később a mexikói Grupo LALA vásárolta meg. Továbbra is szerves része a nicaraguai étkezési kultúrának.",
@@ -1916,7 +1896,6 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
       hu: "Rosita arany- és rézbánya",
       ro: "Mina de aur și cupru Rosita",
       en: "Rosita Gold and Copper Mine"},
-    image: "/poi-images/mina-rosita-economic-v2.webp",
     description: {
       de: "Rosita ist neben Siuna und Bonanza die dritte historische Minenstadt im Bergbaudreieck. Ursprünglich bekannt für den Kupferabbau, werden hier heute vor allem Goldrückstände wiederaufbereitet. Moderne Technologien erlauben die Nutzung alter Halden.",
       hu: "Siuna és Bonanza mellett Rosita a bányászati háromszög harmadik történelmi bányavárosa. Eredetileg rézbányászatáról volt ismert, ma azonban elsősorban aranyhulladékok újrafeldolgozása folyik itt. A modern technológiák lehetővé teszik a régi meddőhányók hasznosítását.",

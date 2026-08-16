@@ -237,7 +237,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: "Vat Phu",
       ro: "Wat Phu",
       en: "Vat Phou"},
-    image: "/poi-images/wat-phu-history-v2.webp",
     description: {
       de: "Ein antiker Khmer-Tempelkomplex am Fuße des Berges Phu Kao, der älter als Angkor Wat ist.",
       hu: "Ősi khmer templomkomplexum a Phu Kao hegy lábánál, amely régebbi, mint Angkorvat.",
@@ -726,7 +725,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: "Patuxai",
       ro: "Patuxai",
       en: "Patuxai"},
-    image: "/poi-images/patuxai-history-v2.webp",
     description: {
       de: "Ein imposanter Triumphbogen in Vientiane, der denjenigen gewidmet ist, die im Kampf um die Unabhängigkeit von Frankreich fielen.",
       hu: "Impozáns diadalív Vientiane-ban, amelyet a Franciaországtól való függetlenségért folytatott küzdelemben elesetteknek szenteltek.",
@@ -891,7 +889,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: "Királyi Palota Múzeum",
       ro: "Palatul Regal Haw Kham",
       en: "Royal Palace Museum"},
-    image: "/poi-images/haw-kham-history-v2.webp",
     description: {
       de: "Der ehemalige Königspalast von Luang Prabang, der heute ein Museum ist und die Geschichte der laotischen Monarchie zeigt.",
       hu: "Luang Prabang egykori királyi palotája, amely ma múzeumként működik, és a laoszi monarchia történetét mutatja be.",
@@ -1020,7 +1017,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: "Viengxay-barlangok",
       ro: "Peșterile Viengxay",
       en: "Viengxay Caves"},
-    image: "/poi-images/viengxay-caves-history-v2.webp",
     description: {
       de: "Ein umfangreiches Netzwerk aus Kalksteinhöhlen in der Provinz Houaphanh, das während des Indochinakriegs als versteckte Basis diente.",
       hu: "Mészkőbarlangok kiterjedt hálózata Houaphanh tartományban, amely rejtett bázisként szolgált az indokínai háború alatt.",
@@ -1185,7 +1181,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: "That Ing Hang",
       ro: "That Ing Hang",
       en: "That Ing Hang"},
-    image: "/poi-images/that-ing-hang-history-v2.webp",
     description: {
       de: "Ein bedeutender, heiliger Stupa in Savannakhet, der vermutlich Reliquien Buddhas enthält und ein wichtiges Pilgerziel ist.",
       hu: "Jelentős szent sztúpa Szavannakhetben, amely feltételezések szerint Buddha ereklyéit őrzi, és fontos zarándokhely.",
@@ -1278,7 +1273,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: "Vat Sisaket",
       ro: "Wat Sisaket",
       en: "Wat Si Saket"},
-    image: "/poi-images/wat-sisaket-history-v2.webp",
     description: {
       de: "Der älteste erhaltene Tempel in Vientiane, bekannt für seine Tausenden von winzigen Buddha-Statuen in den Galeriewänden.",
       hu: "Vientiane legrégebbi fennmaradt temploma, amely a galéria falain található apró Buddha-szobrok ezreiről ismert.",
@@ -1443,7 +1437,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: "Fekete Sztúpa",
       ro: "That Dam",
       en: "That Dam"},
-    image: "/poi-images/that-dam-history-v2.webp",
     description: {
       de: "Ein massiver verwitterter Stupa im Zentrum von Vientiane, von dem viele Laoten glauben, dass er von einem siebenköpfigen Naga bewohnt wird.",
       hu: "Egy masszív, viharvert sztúpa Vientiane központjában, amelyet a laoszi hiedelem szerint egy hétfejű naga védelmez.",
@@ -1608,7 +1601,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: "Vat Mai Suwannaphumaham",
       ro: "Wat Mai Suwannaphumaham",
       en: "Wat Mai Suwannaphumaham"},
-    image: "/poi-images/wat-mai-history-v2.webp",
     description: {
       de: "Einer der größten und am reichsten verzierten Tempel in Luang Prabang, berühmt für seine goldenen Reliefarbeiten an der Fassade.",
       hu: "Luang Prabang egyik legnagyobb és leggazdagabban díszített temploma, amely homlokzatának arany domborműveiről híres.",
@@ -1656,7 +1648,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: "Vat Viszun",
       ro: "Wat Visoun",
       en: "Wat Visoun"},
-    image: "/poi-images/wat-visoun-history-v2.webp",
     description: {
       de: "Der älteste noch erhaltene Tempel in Luang Prabang, der den einzigartigen Stupa in Form einer Wassermelone beherbergt.",
       hu: "Luang Prabang legrégebbi fennmaradt temploma, amely az egyedi, görögdinnye alakú sztúpát is magában foglalja.",
@@ -1842,7 +1833,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: "Lima 85-ös bázis",
       ro: "Lima Site 85 (Phou Pha Thi)",
       en: "Lima Site 85 (Phou Pha Thi)"},
-    image: "/poi-images/lima-site-85-history-v2.webp",
     description: {
       de: "Ein ehemaliger geheimer US-Radarpunkt auf einem steilen Berg, der 1968 Schauplatz einer intensiven Schlacht war.",
       hu: "Egykori titkos amerikai radarállomás egy meredek hegycsúcson, amely 1968-ban heves harcok helyszíne volt.",
@@ -1890,7 +1880,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: "Long Tieng bázis",
       ro: "Long Tieng",
       en: "Long Tieng"},
-    image: "/poi-images/long-tieng-history-v2.webp",
     description: {
       de: "Ehemals eine geheime CIA-Basis und Flughafen während des sogenannten Geheimkriegs, gelegen in einem versteckten Tal.",
       hu: "Egykori titkos CIA-bázis és repülőtér a titkos háború idején, egy eldugott hegyi völgyben.",
@@ -1983,7 +1972,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: "Muang Khun romjai",
       ro: "Ruinele din Muang Khoun",
       en: "Old Muang Khoun Ruins"},
-    image: "/poi-images/muang-khoun-history-v2.webp",
     description: {
       de: "Die Überreste der historischen alten Hauptstadt der Provinz Xieng Khouang, die durch schwere Bombardierungen weitgehend zerstört wurde.",
       hu: "Xieng Khouang tartomány történelmi régi fővárosának maradványai, amelyet a heves bombázások nagyrészt elpusztítottak.",
@@ -2076,7 +2064,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: "Vat Phia Vat romjai",
       ro: "Ruinele Wat Phia Wat",
       en: "Wat Phia Wat Ruins"},
-    image: "/poi-images/wat-phia-wat-history-v2.webp",
     description: {
       de: "Eine beeindruckende Ruine in Muang Khoun mit einer großen sitzenden Buddha-Statue, deren Tempelmauern durch Bomben zerstört wurden.",
       hu: "Lenyűgöző rom Muang Khunban, ahol egy nagy ülő Buddha-szobor látható a bombatalálatot kapott templomfalak között.",
@@ -2385,7 +2372,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: "That Sikhottabong",
       ro: "That Sikhottabong",
       en: "That Sikhottabong"},
-    image: "/poi-images/that-sikhot-history-v2.webp",
     description: {
       de: "Ein heiliger, goldener Stupa am Ufer des Mekong in Thakhek, der ein wichtiges Symbol des Sikhottabong-Reichs darstellt.",
       hu: "Szent, arany sztúpa a Mekong partján, Thakhekben, amely a Sikhottabong Birodalom fontos szimbóluma.",
@@ -2514,7 +2500,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: "Nong Tang-i csatatér",
       ro: "Câmpul de Luptă Nong Tang",
       en: "Nong Tang Battlefield"},
-    image: "/poi-images/nong-tang-battlefield-history-v2.webp",
     description: {
       de: "Ein See und die umliegenden von Kratern übersäten Hügel, wo während des geheimen Krieges in Laos heftige Kämpfe stattfanden.",
       hu: "Egy tó és a környező, kráterekkel tarkított dombok, ahol a laoszi titkos háború során heves harcok folytak.",
@@ -2859,7 +2844,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: "Vat Aham",
       ro: "Wat Aham",
       en: "Wat Aham"},
-    image: "/poi-images/wat-aham-history-v2.webp",
     description: {
       de: "Ein kleiner, aber wichtiger historischer Tempel in Luang Prabang, der einst das Zentrum des animistischen und buddhistischen Glaubens war.",
       hu: "Egy kicsi, de fontos történelmi templom Luang Prabangban, amely egykor az animista és buddhista hiedelmek központja volt.",

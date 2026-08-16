@@ -125,7 +125,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     parent: "KZ-AST",
     coords: [71.4305, 51.1283],
     name: { de: "Baiterek-Turm", hu: "Bajterek-torony", ro: "Turnul Bayterek", en: "Bayterek Tower"},
-    image: "/poi-images/bayterek-tower-landmarks-v2.webp",
     description: {
       de: "Ein futuristischer Aussichtsturm in Astana, der an den mythischen Lebensbaum und den magischen Vogel Samruk erinnert.",
       hu: "Astana futurisztikus kilátótornya, amely a mitikus életfát és a varázslatos Szamruk madarat jelképezi.",
@@ -298,7 +297,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     parent: "KZ-AST",
     coords: [71.4036, 51.1325],
     name: { de: "Khan Shatyr", hu: "Kán Satir", ro: "Han Șatîr", en: "Khan Shatyr"},
-    image: "/poi-images/khan-shatyr-landmarks-v2.webp",
     description: {
       de: "Ein riesiges, transparentes Zelt, das ein großes Einkaufs- und Unterhaltungszentrum im Herzen der Hauptstadt beherbergt.",
       hu: "Egy hatalmas, átlátszó sátor, amely egy bevásárló- és szórakoztatóközpontnak ad otthont a főváros szívében.",
@@ -354,7 +352,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     parent: "KZ-TUR",
     coords: [68.2706, 43.2975],
     name: { de: "Mausoleum von Hodscha Ahmad Jassawi", hu: "Hodzsa Ahmed Jasszaui mauzóleuma", ro: "Mausoleul lui Khoja Ahmed Yasawi", en: "Mausoleum of Khoja Ahmed Yasawi"},
-    image: "/poi-images/khoja-ahmed-yasawi-landmarks-v2.webp",
     description: {
       de: "Ein unvollendetes architektonisches Meisterwerk aus der Timuridenzeit, das als eines der wichtigsten Pilgerziele Zentralasiens gilt.",
       hu: "Egy befejezetlen építészeti remekmű a Timurida-korszakból, amely Közép-Ázsia egyik legfontosabb zarándokhelye.",
@@ -1031,7 +1028,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     parent: "KZ-ALA",
     coords: [77.0589, 43.1575],
     name: { de: "Medeo-Eisstadion", hu: "Medeu jégpálya", ro: "Patinoarul Medeu", en: "Medeu Skating Rink"},
-    image: "/poi-images/medeu-rink-landmarks-v2.webp",
     description: {
       de: "Eine hochgelegene Outdoor-Eisschnelllauf- und Bandy-Bahn tief in den Bergen des Transili-Alatau in der Nähe von Almaty.",
       hu: "Egy magasan fekvő, szabadtéri gyorskorcsolya- és jégkorongpálya a Transz-Ili Alatau hegyeiben, Almati közelében.",
@@ -2176,7 +2172,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     parent: "KZ-ALA",
     coords: [76.9531, 43.2586],
     name: { de: "Christi-Himmelfahrt-Kathedrale", hu: "Mennybemenetel-székesegyház", ro: "Catedrala Înălțării Domnului", en: "Ascension Cathedral"},
-    image: "/poi-images/ascension-cathedral-landmarks-v2.webp",
     description: {
       de: "Eine farbenfrohe russisch-orthodoxe Holzkirche im Panfilow-Park von Almaty, die fast vollständig ohne Nägel erbaut wurde.",
       hu: "Egy színes, orosz ortodox fatemplom Almati Panfilov parkjában, amelyet szinte teljesen szögek nélkül építettek.",
@@ -2457,7 +2452,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     parent: "KZ-ALA",
     coords: [76.9753, 43.2325],
     name: { de: "Kök-Töbe", hu: "Kök-Töbe", ro: "Kok Tobe", en: "Kok Tobe"},
-    image: "/poi-images/kok-tobe-landmarks-v2.webp",
     description: {
       de: "Ein markanter Berg am Rand von Almaty, der einen Vergnügungspark, eine Seilbahn und ein ikonisches Beatles-Denkmal bietet.",
       hu: "Egy kiemelkedő hegy Almati szélén, amely vidámparkkal, felvonóval és egy ikonikus Beatles-emlékművel vonzza a látogatókat.",
@@ -3127,7 +3121,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     parent: "KZ-AST",
     coords: [71.4719, 51.1256],
     name: { de: "Hazret-Sultan-Moschee", hu: "Hazret Szultan-mecset", ro: "Moscheea Hazret Sultan", en: "Hazret Sultan Mosque"},
-    image: "/poi-images/hazret-sultan-mosque-landmarks-v2.webp",
     description: {
       de: "Die größte Moschee in Zentralasien beeindruckt mit klassischen islamischen Elementen und traditionellen kasachischen Ornamenten.",
       hu: "Közép-Ázsia legnagyobb mecsetje, amely klasszikus iszlám elemekkel és hagyományos kazah díszítésekkel nyűgözi le a látogatókat.",
@@ -4560,7 +4553,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     parent: "KZ-ALA",
     coords: [76.9456, 43.2389],
     name: { de: "Unabhängigkeitsdenkmal", hu: "Függetlenségi emlékmű", ro: "Monumentul Independenței", en: "Independence Monument"},
-    image: "/poi-images/independence-monument-almaty-landmarks-v2.webp",
     description: {
       de: "Ein massiver Obelisk auf dem Platz der Republik in Almaty, gekrönt von der Figur des Goldenen Mannes auf einem geflügelten Schneeleoparden.",
       hu: "Egy masszív obeliszk Almati Köztársaság terén, melynek tetején az Aranyember szobra áll egy szárnyas hópárducon.",
@@ -4616,7 +4608,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     parent: "KZ-ALM",
     coords: [75.4744, 43.8011],
     name: { de: "Petroglyphen von Tamgaly", hu: "Tamgaly sziklarajzai", ro: "Petroglifele de la Tamgaly", en: "Tamgaly Petroglyphs"},
-    image: "/poi-images/tamgaly-petroglyphs-landmarks-v2.webp",
     description: {
       de: "Ein bedeutendes archäologisches Gebiet mit Tausenden von alten Felsritzungen, die heidnische Rituale, Jagdszenen und Sonnengottheiten zeigen.",
       hu: "Jelentős régészeti lelőhely több ezer ősi sziklarajzzal, amelyek pogány rituálékat, vadászjeleneteket és napisteneket ábrázolnak.",
@@ -4789,7 +4780,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     parent: "KZ-TUR",
     coords: [68.2683, 42.8500],
     name: { de: "Arystan-Bab-Mausoleum", hu: "Arisztan Bab-mauzóleum", ro: "Mausoleul Arystan Bab", en: "Arystan Bab Mausoleum"},
-    image: "/poi-images/arystan-bab-landmarks-v2.webp",
     description: {
       de: "Eine verehrte Pilgerstätte und Grabstätte eines Sufi-Mystikers, der der Legende nach der Lehrer von Hodscha Ahmad Jassawi war.",
       hu: "Egy tisztelt zarándokhely és egy szufi misztikus sírja, aki a legenda szerint Hodzsa Ahmed Jasszaui tanítója volt.",
@@ -4890,7 +4880,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     parent: "KZ-AST",
     coords: [71.4725, 51.1217],
     name: { de: "Nationalmuseum der Republik Kasachstan", hu: "A Kazah Köztársaság Nemzeti Múzeuma", ro: "Muzeul Național al Republicii Kazahstan", en: "National Museum of the Republic of Kazakhstan"},
-    image: "/poi-images/national-museum-kazakhstan-landmarks-v2.webp",
     description: {
       de: "Ein riesiger und moderner Museumskomplex, der die reiche Geschichte, Kultur und Kunst der kasachischen Nation von der Antike bis heute präsentiert.",
       hu: "Egy hatalmas és modern múzeumkomplexum, amely a kazah nemzet gazdag történelmét, kultúráját és művészetét mutatja be az ókortól napjainkig.",
@@ -5711,7 +5700,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     parent: "KZ-ALA",
     coords: [77.0811, 43.1283],
     name: { de: "Skigebiet Schymbulak", hu: "Simbolak síközpont", ro: "Stațiunea de schi Shymbulak", en: "Shymbulak Ski Resort"},
-    image: "/poi-images/shymbulak-resort-landmarks-v2.webp",
     description: {
       de: "Ein erstklassiges Wintersportgebiet in der Nähe von Almaty, bekannt für sein mildes Klima, sonnige Tage und große Mengen an Neuschnee.",
       hu: "Egy első osztályú téli sportközpont Almati közelében, amely enyhe klímájáról, napsütéses napjairól és a nagy mennyiségű friss hóról ismert.",
@@ -5767,7 +5755,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     parent: "KZ-ZHA",
     coords: [71.1814, 42.8331],
     name: { de: "Aischa-Bibi-Mausoleum", hu: "Aisa Bibi mauzóleuma", ro: "Mausoleul Aisha Bibi", en: "Aisha Bibi Mausoleum"},
-    image: "/poi-images/aisha-bibi-landmarks-v2.webp",
     description: {
       de: "Ein filigranes Meisterwerk karachanidischer Architektur aus dem 12. Jahrhundert, das mit wunderschönen Terrakotta-Fliesen verziert ist.",
       hu: "A karahanida építészet 12. századi, finoman megmunkált remekműve, amelyet gyönyörű terrakotta csempék díszítenek.",
@@ -6041,7 +6028,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     parent: "KZ-AST",
     coords: [71.4108, 51.1350],
     name: { de: "Astana Oper", hu: "Asztana Opera", ro: "Opera din Astana", en: "Astana Opera"},
-    image: "/poi-images/astana-opera-landmarks-v2.webp",
     description: {
       de: "Ein prunkvolles Theatergebäude, das klassische europäische Architektur mit nationalen kasachischen Motiven verbindet und herausragende Akustik bietet.",
       hu: "Egy pazar színházépület, amely a klasszikus európai építészetet a nemzeti kazah motívumokkal ötvözi, és kiváló akusztikát kínál.",
@@ -6250,7 +6236,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     parent: "KZ-TUR",
     coords: [68.3039, 42.8525],
     name: { de: "Ruinen von Otrar", hu: "Otrar romjai", ro: "Ruinele de la Otrar", en: "Otrar Ruins"},
-    image: "/poi-images/otrar-ruins-landmarks-v2.webp",
     description: {
       de: "Die archäologischen Überreste einer einst florierenden Oasenstadt an der Seidenstraße, die im 13. Jahrhundert von den Mongolen zerstört wurde.",
       hu: "Egy egykor virágzó selyemúti oázisváros régészeti maradványai, amelyet a 13. században a mongolok pusztítottak el.",
@@ -6306,7 +6291,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     parent: "KZ-AKM",
     coords: [71.0772, 51.0789],
     name: { de: "ALZHIR-Gedenkmuseum", hu: "ALZSIR Emlékmúzeum", ro: "Muzeul Memorial ALZHIR", en: "ALZHIR Memorial Museum"},
-    image: "/poi-images/alzhir-memorial-landmarks-v2.webp",
     description: {
       de: "Ein düsteres Gedenkzentrum, das auf dem Gelände eines ehemaligen sowjetischen Gulags für Frauen von angeblichen Vaterlandsverrätern errichtet wurde.",
       hu: "Egy komor emlékhely, amely a hazájukat elárulók feleségei számára létrehozott egykori szovjet gulág területén épült.",
@@ -6443,7 +6427,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     parent: "KZ-AST",
     coords: [71.4689, 51.1214],
     name: { de: "Kazakh Eli Denkmal", hu: "Kazah Eli emlékmű", ro: "Monumentul Kazakh Eli", en: "Kazakh Eli Monument"},
-    image: "/poi-images/kazakh-eli-monument-landmarks-v2.webp",
     description: {
       de: "Ein strahlend weißer Marmorpfeiler in Astana, der die Souveränität, Stärke und Zukunftsvision der kasachischen Nation repräsentiert.",
       hu: "Egy vakítóan fehér márványoszlop Astanában, amely a kazah nemzet szuverenitását, erejét és jövőképét jelképezi.",

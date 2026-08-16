@@ -628,8 +628,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "capital",
     name: { de: "Minsk", hu: "Minszk", ro: "Minsk", en: "Minsk"},
-    image: "/poi-images/belarus-minsk-cities-v2.webp",
-    coords: [27.5667, 53.9],
     coords: [27.5667, 53.9],
     description: {
       de: "Minsk ist die Hauptstadt von Belarus und ein bedeutendes politisches und wirtschaftliches Zentrum. Die Stadt liegt an der Swislatsch und ist für ihre breiten Boulevards bekannt.",
@@ -2338,8 +2336,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Homel", hu: "Homel", ro: "Gomel", en: "Gomel"},
-    image: "/poi-images/belarus-gomel-cities-v2.webp",
-    coords: [30.9833, 52.4333],
     coords: [30.9833, 52.4333],
     description: {
       de: "Homel ist die zweitgrößte Stadt von Belarus und liegt im Südosten des Landes am Fluss Sosch. Sie ist bekannt für ihre beeindruckende Palast- und Parkanlage.",
@@ -4012,8 +4008,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Mahiljou", hu: "Mahiljov", ro: "Moghilău", en: "Mogilev"},
-    image: "/poi-images/belarus-mogilev-cities-v2.webp",
-    coords: [30.3333, 53.9167],
     coords: [30.3333, 53.9167],
     description: {
       de: "Mahiljou ist eine historische Stadt im Osten von Belarus am Fluss Dnepr. Während des Ersten Weltkriegs diente sie zeitweise als Hauptquartier der russischen Armee.",
@@ -5686,8 +5680,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Witebsk", hu: "Vicebszk", ro: "Vitebsk", en: "Vitebsk"},
-    image: "/poi-images/belarus-vitebsk-cities-v2.webp",
-    coords: [30.2, 55.1833],
     coords: [30.2, 55.1833],
     description: {
       de: "Witebsk ist bekannt als die Geburtsstadt des Malers Marc Chagall und liegt im Norden von Belarus. Die Stadt ist ein bedeutendes kulturelles Zentrum mit vielen Kirchen.",
@@ -7468,8 +7460,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Hrodna", hu: "Hrodna", ro: "Grodno", en: "Grodno"},
-    image: "/poi-images/belarus-grodno-cities-v2.webp",
-    coords: [23.8333, 53.6667],
     coords: [23.8333, 53.6667],
     description: {
       de: "Hrodna liegt im Westen von Belarus nahe der Grenze zu Polen und Litauen. Die Stadt ist reich an Geschichte und besitzt viele gut erhaltene Architekturdenkmäler.",
@@ -7630,8 +7620,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Babrujsk", hu: "Babrujszk", ro: "Babruisk", en: "Babruysk"},
-    image: "/poi-images/belarus-babruysk-cities-v2.webp",
-    coords: [29.2167, 53.15],
     coords: [29.2167, 53.15],
     description: {
       de: "Babrujsk ist ein bedeutendes Industriezentrum am Fluss Beresina. Die Stadt ist historisch für ihre jüdische Gemeinde und ihre Festungsanlagen aus dem 19. Jahrhundert bekannt.",
@@ -8872,8 +8860,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Baranawitschy", hu: "Baranovicsi", ro: "Baranovici", en: "Baranovichi"},
-    image: "/poi-images/belarus-baranovichi-cities-v2.webp",
-    coords: [26.0167, 53.1333],
     coords: [26.0167, 53.1333],
     description: {
       de: "Baranawitschy ist ein wichtiger Eisenbahnknotenpunkt im Westen von Belarus. Die Stadt entwickelte sich im 19. Jahrhundert rasant durch den Ausbau des Schienennetzes.",
@@ -9754,8 +9740,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Baryssau", hu: "Boriszov", ro: "Borisov", en: "Barysaw"},
-    image: "/poi-images/belarus-barysaw-cities-v2.webp",
-    coords: [28.5, 54.2333],
     coords: [28.5, 54.2333],
     description: {
       de: "Baryssau ist ein Industriezentrum nordöstlich von Minsk an der Beresina. Die Stadt ist historisch für die Schlacht an der Beresina während Napoleons Rückzug bekannt.",
@@ -10096,8 +10080,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Pinsk", hu: "Pinszk", ro: "Pinsk", en: "Pinsk"},
-    image: "/poi-images/belarus-pinsk-cities-v2.webp",
-    coords: [26.1, 52.1167],
     coords: [26.1, 52.1167],
     description: {
       de: "Pinsk gilt als das Herz der Polesien-Region und liegt am Zusammenfluss von Pina und Pripjat. Die Stadt besitzt ein reiches architektonisches Erbe aus verschiedenen Epochen.",
@@ -10798,8 +10780,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Orscha", hu: "Orsa", ro: "Orșa", en: "Orsha"},
-    image: "/poi-images/belarus-orsha-cities-v2.webp",
-    coords: [30.4167, 54.5],
     coords: [30.4167, 54.5],
     description: {
       de: "Orscha ist ein wichtiger Verkehrsknotenpunkt am Oberlauf des Dnepr. Die Stadt ist bekannt für ihre Textilindustrie und ihre Rolle als strategische Festung in der Geschichte.",
@@ -11680,8 +11660,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Masyr", hu: "Mazir", ro: "Mazîr", en: "Mozyr"},
-    image: "/poi-images/belarus-mozyr-cities-v2.webp",
-    coords: [29.25, 52.05],
     coords: [29.25, 52.05],
     description: {
       de: "Masyr liegt auf malerischen Hügeln am Fluss Pripjat im Süden von Belarus. Die Stadt ist ein Zentrum der Ölraffinerie und besitzt eine reiche mittelalterliche Geschichte.",
@@ -11842,8 +11820,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Salihorsk", hu: "Szalihorszk", ro: "Salihorsk", en: "Soligorsk"},
-    image: "/poi-images/belarus-soligorsk-cities-v2.webp",
-    coords: [27.5333, 52.7833],
     coords: [27.5333, 52.7833],
     description: {
       de: "Salihorsk ist eine der jüngsten Städte des Landes und wurde als Bergbaustadt gegründet. Sie ist weltweit bekannt für ihre Produktion von Kalisalzen.",
@@ -12184,8 +12160,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Lida", hu: "Lida", ro: "Lida", en: "Lida"},
-    image: "/poi-images/belarus-lida-cities-v2.webp",
-    coords: [25.3, 53.8833],
     coords: [25.3, 53.8833],
     description: {
       de: "Lida ist bekannt für seine gut erhaltene Burg aus dem 14. Jahrhundert, die vom litauischen Großfürsten Gediminas erbaut wurde. Die Stadt ist auch ein Zentrum der Brauerei.",
@@ -12526,8 +12500,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Nawapolazk", hu: "Navapolack", ro: "Navapolack", en: "Novopolotsk"},
-    image: "/poi-images/belarus-novopolotsk-cities-v2.webp",
-    coords: [28.65, 55.5333],
     coords: [28.65, 55.5333],
     description: {
       de: "Nawapolazk ist eine junge Industriestadt am Fluss Westliche Düna. Sie wurde in den 1950er Jahren als Zentrum für die Ölraffinerie und Petrochemie errichtet.",
@@ -12940,8 +12912,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Maladsetschna", hu: "Maladzecsna", ro: "Maladzecina", en: "Maladzyechna"},
-    image: "/poi-images/belarus-maladzyechna-cities-v2.webp",
-    coords: [26.85, 54.3167],
     coords: [26.85, 54.3167],
     description: {
       de: "Maladsetschna ist ein wichtiges kulturelles und industrielles Zentrum in der Region Minsk. Die Stadt ist für ihre Musikfestivals und Theater bekannt.",
@@ -14146,8 +14116,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Polazk", hu: "Polack", ro: "Polack", en: "Polotsk"},
-    image: "/poi-images/belarus-polotsk-cities-v2.webp",
-    coords: [28.7833, 55.4833],
     coords: [28.7833, 55.4833],
     description: {
       de: "Polazk gilt als die älteste Stadt von Belarus und ist ein spirituelles Zentrum des Landes. Die Sophienkathedrale ist ein bedeutendes Denkmal der Stadtgeschichte.",
@@ -14272,8 +14240,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Schlobin", hu: "Zslobin", ro: "Jlobin", en: "Zhlobin"},
-    image: "/poi-images/belarus-zhlobin-cities-v2.webp",
-    coords: [30.0167, 52.8833],
     coords: [30.0167, 52.8833],
     description: {
       de: "Schlobin liegt am Fluss Dnepr und ist vor allem für sein großes Stahlwerk bekannt. Die Stadt ist ein wichtiger Verkehrsknotenpunkt im Südosten des Landes.",
@@ -14650,8 +14616,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Swetlahorsk", hu: "Szvetlahorszk", ro: "Svetlahorsk", en: "Svetlogorsk"},
-    image: "/poi-images/belarus-svetlogorsk-cities-v2.webp",
-    coords: [29.7333, 52.6333],
     coords: [29.7333, 52.6333],
     description: {
       de: "Swetlahorsk ist eine Industriestadt am Fluss Beresina. Sie entstand in den 1960er Jahren rund um ein großes Kraftwerk und Chemiebetriebe.",
@@ -15172,8 +15136,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Retschyza", hu: "Recsica", ro: "Recița", en: "Rechitsa"},
-    image: "/poi-images/belarus-rechitsa-cities-v2.webp",
-    coords: [30.3833, 52.3667],
     coords: [30.3833, 52.3667],
     description: {
       de: "Retschyza ist eine der ältesten Städte von Belarus und liegt am Dnepr. Heute ist sie das Zentrum der belarussischen Erdölförderung.",
@@ -15514,8 +15476,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Sluzk", hu: "Szluck", ro: "Sluțk", en: "Slutsk"},
-    image: "/poi-images/belarus-slutsk-cities-v2.webp",
-    coords: [27.55, 53.0167],
     coords: [27.55, 53.0167],
     description: {
       de: "Sluzk ist historisch berühmt für die Herstellung der Sluzker Gürtel, die ein Symbol des belarussischen Adels waren. Die Stadt liegt südlich von Minsk.",
@@ -15559,8 +15519,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Schodsina", hu: "Zsodzina", ro: "Jodzina", en: "Zhodzina"},
-    image: "/poi-images/belarus-zhodzina-cities-v2.webp",
-    coords: [28.3333, 54.1],
     coords: [28.3333, 54.1],
     description: {
       de: "Schodsina ist eine Industriestadt, die weltweit für die Produktion der riesigen BelAZ-Muldenkipper bekannt ist. Sie liegt etwa 50 km nordöstlich von Minsk.",
@@ -16189,8 +16147,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Slonim", hu: "Szlonyim", ro: "Slonim", en: "Slonim"},
-    image: "/poi-images/belarus-slonim-cities-v2.webp",
-    coords: [25.3167, 53.0833],
     coords: [25.3167, 53.0833],
     description: {
       de: "Slonim ist eine der ältesten Städte im Westen von Belarus und besitzt ein reiches jüdisches und polnisches Erbe. Die Stadt ist für ihre historischen Klöster bekannt.",
@@ -16567,8 +16523,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Kobryn", hu: "Kobrin", ro: "Kobrin", en: "Kobrin"},
-    image: "/poi-images/belarus-kobrin-cities-v2.webp",
-    coords: [24.35, 52.2167],
     coords: [24.35, 52.2167],
     description: {
       de: "Kobryn liegt im Südwesten von Belarus am Muchawez-Fluss. Die Stadt ist historisch mit dem russischen General Suworow verbunden, der dort ein Anwesen besaß.",
@@ -17269,8 +17223,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Waukawysk", hu: "Vavkaviszk", ro: "Vavkavîsk", en: "Vawkavysk"},
-    image: "/poi-images/belarus-vawkavysk-cities-v2.webp",
-    coords: [24.45, 53.15],
     coords: [24.45, 53.15],
     description: {
       de: "Waukawysk ist eine historische Stadt im Westen von Belarus. Sie ist für ihre Zementproduktion und die archäologischen Stätten in der Umgebung bekannt.",
@@ -17539,8 +17491,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Kalinkawitschy", hu: "Kalinkavicsi", ro: "Kalinkavici", en: "Kalinkavichy"},
-    image: "/poi-images/belarus-kalinkavichy-cities-v2.webp",
-    coords: [29.3333, 52.1167],
     coords: [29.3333, 52.1167],
     description: {
       de: "Kalinkawitschy ist ein wichtiger Eisenbahnknotenpunkt in der Region Homel. Die Stadt dient als Tor zum südlichen Belarus und den Polesien-Sümpfen.",
@@ -18493,8 +18443,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Smarhon", hu: "Szmarhon", ro: "Smarhon", en: "Smarhon"},
-    image: "/poi-images/belarus-smarhon-cities-v2.webp",
-    coords: [26.4, 54.4833],
     coords: [26.4, 54.4833],
     description: {
       de: "Smarhon liegt im Nordwesten von Belarus und ist historisch für seine Bärentrainingsschule aus dem 17. Jahrhundert sowie für seine Bagels bekannt.",
@@ -18943,8 +18891,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Rahatschou", hu: "Rahacsov", ro: "Rahaciov", en: "Rahachow"},
-    image: "/poi-images/belarus-rahachow-cities-v2.webp",
-    coords: [30.05, 53.1],
     coords: [30.05, 53.1],
     description: {
       de: "Rahatschou liegt am Zusammenfluss von Dnepr und Drut. Die Stadt ist in Belarus vor allem für ihre Produktion von Kondensmilch berühmt.",
@@ -19177,8 +19123,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Assipowitschy", hu: "Aszipovicsi", ro: "Asipovici", en: "Asipovichy"},
-    image: "/poi-images/belarus-asipovichy-cities-v2.webp",
-    coords: [28.6333, 53.3],
     coords: [28.6333, 53.3],
     description: {
       de: "Assipowitschy ist ein wichtiges Industrie- und Verkehrszentrum in der Region Mahiljou. Die Stadt besitzt einen großen Stausee und bedeutende Bahnanlagen.",
@@ -19519,8 +19463,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Horki", hu: "Horki", ro: "Horki", en: "Horki"},
-    image: "/poi-images/belarus-horki-cities-v2.webp",
-    coords: [30.9833, 54.2833],
     coords: [30.9833, 54.2833],
     description: {
       de: "Horki ist bekannt als Sitz der ältesten landwirtschaftlichen Hochschule des Landes. Die Stadt ist ein bedeutendes Bildungs- und Forschungszentrum.",
@@ -20365,8 +20307,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Nawahrudak", hu: "Navahrudak", ro: "Navahrudak", en: "Navahrudak"},
-    image: "/poi-images/belarus-navahrudak-cities-v2.webp",
-    coords: [25.8167, 53.6],
     coords: [25.8167, 53.6],
     description: {
       de: "Nawahrudak war die erste Hauptstadt des Großfürstentums Litauen. Die Stadt ist für ihre Burgruinen und als Heimat des Dichters Adam Mickiewicz bekannt.",
@@ -20995,8 +20935,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Wilejka", hu: "Vilejka", ro: "Vileika", en: "Vileyka"},
-    image: "/poi-images/belarus-vileyka-cities-v2.webp",
-    coords: [26.9167, 54.4833],
     coords: [26.9167, 54.4833],
     description: {
       de: "Wilejka liegt am Ufer des größten künstlichen Stausees des Landes. Die Stadt ist ein beliebtes Erholungsgebiet und ein Zentrum der Holzverarbeitung.",
@@ -21409,8 +21347,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Bjarosa", hu: "Bjaroza", ro: "Biaroza", en: "Byaroza"},
-    image: "/poi-images/belarus-byaroza-cities-v2.webp",
-    coords: [24.9833, 52.5333],
     coords: [24.9833, 52.5333],
     description: {
       de: "Bjarosa ist bekannt für die Ruinen des Kartäuserklosters aus dem 17. Jahrhundert. Die Stadt liegt in der Region Brest und ist ein Industriezentrum.",
@@ -21859,8 +21795,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Krytschau", hu: "Kricsav", ro: "Krîciau", en: "Krychaw"},
-    image: "/poi-images/belarus-krychaw-cities-v2.webp",
-    coords: [31.7167, 53.7167],
     coords: [31.7167, 53.7167],
     description: {
       de: "Krytschau liegt im Osten des Landes am Fluss Sosch. Die Stadt ist ein bedeutendes Zentrum für die Produktion von Zement und Baustoffen.",
@@ -21904,8 +21838,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Dsjarschynsk", hu: "Dzjarzsinszk", ro: "Dziarjînsk", en: "Dzyarzhynsk"},
-    image: "/poi-images/belarus-dzyarzhynsk-cities-v2.webp",
-    coords: [27.1333, 53.6833],
     coords: [27.1333, 53.6833],
     description: {
       de: "Dsjarschynsk liegt westlich von Minsk und ist nach Feliks Dserschinski benannt. In der Nähe befindet sich der höchste Punkt von Belarus.",
@@ -22138,8 +22070,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Iwazewitschy", hu: "Ivacevicsi", ro: "Ivațevici", en: "Ivatsevichy"},
-    image: "/poi-images/belarus-ivatsevichy-cities-v2.webp",
-    coords: [25.3333, 52.7167],
     coords: [25.3333, 52.7167],
     description: {
       de: "Iwazewitschy ist ein Industriezentrum in der Region Brest, das für seine Holz- und Möbelproduktion sowie für den historischen Koslow-Palast bekannt ist.",
@@ -22228,8 +22158,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Luninez", hu: "Luninyec", ro: "Lunineț", en: "Luninyets"},
-    image: "/poi-images/belarus-luninyets-cities-v2.webp",
-    coords: [26.8, 52.25],
     coords: [26.8, 52.25],
     description: {
       de: "Luninez ist ein wichtiger Eisenbahnknotenpunkt im Herzen der Polesien-Region. Die Stadt ist in Belarus als Erdbeer-Hauptstadt des Landes bekannt.",
@@ -22714,8 +22642,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Marjina Horka", hu: "Marjina Horka", ro: "Marjina Horka", en: "Maryina Horka"},
-    image: "/poi-images/belarus-maryina-horka-cities-v2.webp",
-    coords: [28.15, 53.5167],
     coords: [28.15, 53.5167],
     description: {
       de: "Marjina Horka ist das Zentrum des Pukhavichy-Distrikts und liegt südöstlich von Minsk. Die Stadt ist bekannt für ihre Militärstützpunkte und Parks.",
@@ -23236,8 +23162,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Pastawy", hu: "Pasztavi", ro: "Pastavî", en: "Pastavy"},
-    image: "/poi-images/belarus-pastavy-cities-v2.webp",
-    coords: [26.8333, 55.1167],
     coords: [26.8333, 55.1167],
     description: {
       de: "Pastawy ist eine charmante Stadt im Norden von Belarus, die für ihr Tyzenhauz-Palais und ihre historische Architektur im Stadtzentrum bekannt ist.",
@@ -23686,8 +23610,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Pruschany", hu: "Pruzsani", ro: "Prujanî", en: "Pruzhany"},
-    image: "/poi-images/belarus-pruzhany-cities-v2.webp",
-    coords: [24.45, 52.5667],
     coords: [24.45, 52.5667],
     description: {
       de: "Pruschany ist für sein Weißes Palais und seine reiche Geschichte in der Region Brest bekannt. Die Stadt besitzt einen großen Stadtpark und historische Kirchen.",
@@ -23992,8 +23914,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Dobrusch", hu: "Dobrus", ro: "Dobruș", en: "Dobrush"},
-    image: "/poi-images/belarus-dobrush-cities-v2.webp",
-    coords: [31.3167, 52.4167],
     coords: [31.3167, 52.4167],
     description: {
       de: "Dobrusch ist als Stadt der Brücken bekannt und liegt östlich von Homel. Sie ist berühmt für ihre jahrhundertealte Papierfabrik und ihre Wasserwege.",
@@ -24226,8 +24146,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Hlybokaje", hu: "Hlibokaje", ro: "Hlîbokaye", en: "Hlybokaye"},
-    image: "/poi-images/belarus-hlybokaye-cities-v2.webp",
-    coords: [27.6833, 55.1333],
     coords: [27.6833, 55.1333],
     description: {
       de: "Hlybokaje liegt in einer malerischen Seenregion im Norden von Belarus. Die Stadt ist für ihr Kirschfestival und ihre barocke Sakralarchitektur bekannt.",
@@ -24569,7 +24487,6 @@ export const belarusCitiesV2: POI[] = [
     type: "city",
     name: { de: "Stowbzy", hu: "Sztoubci", ro: "Stoubțî", en: "Stowbtsy"},
     image: "/poi-images/belarus-stowbtsy-cities-v2.webp",
-    coords: [26.7333, 53.4833],
     coords: [26.7333, 53.4833],
     description: {
       de: "Stowbzy liegt am Fluss Memel westlich von Minsk. Die Stadt ist eng mit dem belarussischen Nationaldichter Jakub Kolas verbunden, dessen Geburtsort nahegelegen ist.",
@@ -24983,8 +24900,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Lepel", hu: "Lepel", ro: "Lepel", en: "Lepel"},
-    image: "/poi-images/belarus-lepel-cities-v2.webp",
-    coords: [28.7, 54.8833],
     coords: [28.7, 54.8833],
     description: {
       de: "Lepel liegt an den Ufern des Lepeler Sees im Norden von Belarus. Die Stadt ist ein bekanntes Zentrum für Gesundheitstourismus und Naturschutz.",
@@ -25361,8 +25276,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Bychau", hu: "Bihav", ro: "Bîhau", en: "Bykhaw"},
-    image: "/poi-images/belarus-bykhaw-cities-v2.webp",
-    coords: [30.25, 53.5167],
     coords: [30.25, 53.5167],
     description: {
       de: "Bychau ist eine historische Stadt am Dnepr mit einer bedeutenden Festung aus dem 17. Jahrhundert. Sie war einst ein strategischer Verteidigungspunkt.",
@@ -25667,8 +25580,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Iwanawa", hu: "Ivanava", ro: "Ivanava", en: "Ivanava"},
-    image: "/poi-images/belarus-ivanava-cities-v2.webp",
-    coords: [25.5333, 52.15],
     coords: [25.5333, 52.15],
     description: {
       de: "Iwanawa liegt in der Region Brest und ist historisch mit Napoleon Orda verbunden. Die Stadt ist ein Zentrum der Agrarindustrie in der Polesien-Region.",
@@ -25793,8 +25704,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Schklou", hu: "Sklov", ro: "Șklou", en: "Shklow"},
-    image: "/poi-images/belarus-shklow-cities-v2.webp",
-    coords: [30.3, 54.2167],
     coords: [30.3, 54.2167],
     description: {
       de: "Schklou ist eine historische Stadt am Dnepr, die in Belarus als inoffizielle Gurken-Hauptstadt gilt. Die Stadt besitzt ein restauriertes barockes Rathaus.",
@@ -26027,8 +25936,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Schytkawitschy", hu: "Zitkavicsi", ro: "Jîtkavici", en: "Zhitkavichy"},
-    image: "/poi-images/belarus-zhitkavichy-cities-v2.webp",
-    coords: [27.85, 52.2167],
     coords: [27.85, 52.2167],
     description: {
       de: "Schytkawitschy dient als Tor zum Pripyatsky-Nationalpark im Süden von Belarus. Die Stadt ist ein Zentrum der Torf- und Forstwirtschaft.",
@@ -26333,8 +26240,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Ljuban", hu: "Ljuban", ro: "Liuban", en: "Lyuban"},
-    image: "/poi-images/belarus-lyuban-cities-v2.webp",
-    coords: [28.0, 52.7833],
     coords: [28.0, 52.7833],
     description: {
       de: "Ljuban liegt im Süden der Region Minsk und ist für seine umliegenden Wälder und Moore bekannt. Die Stadt ist ein Zentrum der Landwirtschaft und des Bergbaus.",
@@ -26639,8 +26544,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Hanzawitschy", hu: "Hancavicsi", ro: "Hanțavici", en: "Hantsavichy"},
-    image: "/poi-images/belarus-hantsavichy-cities-v2.webp",
-    coords: [26.4333, 52.75],
     coords: [26.4333, 52.75],
     description: {
       de: "Hanzawitschy liegt in einer waldreichen Gegend der Region Brest. Die Stadt ist für ihre traditionellen belarussischen Handwerke und Forstwirtschaft bekannt.",
@@ -26684,8 +26587,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Fanypal", hu: "Fanyipal", ro: "Fanipal", en: "Fanipol"},
-    image: "/poi-images/belarus-fanipol-cities-v2.webp",
-    coords: [27.3333, 53.75],
     coords: [27.3333, 53.75],
     description: {
       de: "Fanypal ist eine moderne Satellitenstadt von Minsk mit bedeutenden Industrieanlagen. Die Stadt ist für ihre Produktion von Eisenbahnwaggons bekannt.",
@@ -26729,8 +26630,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Masty", hu: "Maszti", ro: "Mastî", en: "Masty"},
-    image: "/poi-images/belarus-masty-cities-v2.webp",
-    coords: [24.5333, 53.4167],
     coords: [24.5333, 53.4167],
     description: {
       de: "Masty liegt am Fluss Memel und ist berühmt für die längste Fußgänger-Hängebrücke des Landes. Die Stadt ist ein Zentrum der Holzverarbeitung.",
@@ -26927,8 +26826,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Wetka", hu: "Vetka", ro: "Vetka", en: "Vyetka"},
-    image: "/poi-images/belarus-vyetka-cities-v2.webp",
-    coords: [31.1833, 52.5667],
     coords: [31.1833, 52.5667],
     description: {
       de: "Wetka ist ein Zentrum der Kultur der Altgläubigen in Belarus. Die Stadt beherbergt ein einzigartiges Museum für Volkskunst und religiöse Ikonen.",
@@ -27161,8 +27058,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Mikaschewitschy", hu: "Mikasevicsi", ro: "Mikașevici", en: "Mikashevichy"},
-    image: "/poi-images/belarus-mikashevichy-cities-v2.webp",
-    coords: [27.4667, 52.2167],
     coords: [27.4667, 52.2167],
     description: {
       de: "Mikaschewitschy ist für den größten Granitsteinbruch in Europa bekannt. Die Stadt liegt in der Region Brest und besitzt einen wichtigen Flusshafen.",
@@ -27251,8 +27146,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Berasino", hu: "Bjarazino", ro: "Berazino", en: "Byerazino"},
-    image: "/poi-images/belarus-byerazino-cities-v2.webp",
-    coords: [29.0, 53.8333],
     coords: [29.0, 53.8333],
     description: {
       de: "Berasino liegt am malerischen Ufer der Beresina südlich von Baryssau. Die Stadt ist ein lokales Zentrum der Industrie und des Flusstransports.",
@@ -27485,8 +27378,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Skidal", hu: "Szkidal", ro: "Skidal", en: "Skidal"},
-    image: "/poi-images/belarus-skidal-cities-v2.webp",
-    coords: [24.2167, 53.5833],
     coords: [24.2167, 53.5833],
     description: {
       de: "Skidal ist ein wichtiges Zentrum der Zuckerindustrie in der Region Hrodna. Die Stadt liegt verkehrsgünstig an der Straße zwischen Hrodna und Minsk.",
@@ -27755,8 +27646,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Petrykau", hu: "Petrjkav", ro: "Petrikau", en: "Pyetrykaw"},
-    image: "/poi-images/belarus-pyetrykaw-cities-v2.webp",
-    coords: [28.5, 52.1333],
     coords: [28.5, 52.1333],
     description: {
       de: "Petrykau liegt am Fluss Pripjat im Herzen der Polesien-Sümpfe. Die Stadt ist für ihren Flusshafen und die umliegende unberührte Natur bekannt.",
@@ -27800,8 +27689,6 @@ export const belarusCitiesV2: POI[] = [
     parent: "BY",
     type: "city",
     name: { de: "Tschawussy", hu: "Csavuszi", ro: "Ceavusî", en: "Chavusy"},
-    image: "/poi-images/belarus-chavusy-cities-v2.webp",
-    coords: [31.0, 53.8167],
     coords: [31.0, 53.8167],
     description: {
       de: "Tschawussy ist ein regionales Verwaltungszentrum in der Region Mahiljou. Die Stadt liegt an den Ufern des Flusses Schascha und besitzt eine lange Geschichte.",
@@ -27927,7 +27814,6 @@ export const belarusCitiesV2: POI[] = [
     type: "city",
     name: { de: "Kaszjukowitschy", hu: "Kaszjukovicsi", ro: "Kasțiukovici", en: "Kastsyukovichy"},
     image: "/poi-images/belarus-kastsyukovichy-cities-v2.webp",
-    coords: [32.05, 53.3333],
     coords: [32.05, 53.3333],
     description: {
       de: "Kaszjukowitschy ist eine Industriestadt im Osten von Belarus, nahe der russischen Grenze. Sie ist ein bedeutendes Zentrum für die Zement- und Baustoffproduktion.",

@@ -8,7 +8,6 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     parent: "TR-34",
     coords: [28.9811, 41.0128],
     name: { de: "Gülhane-Park", hu: "Gülhane park", ro: "Parcul Gülhane", en: "Gülhane Park"},
-    image: "/poi-images/gulhane-park-life-v2.webp",
     description: {
       de: "Ein historischer Stadtpark in Istanbul, der einst Teil der Gärten des Topkapı-Palastes war und heute eine grüne Oase bietet.",
       hu: "Isztambul egyik legrégebbi városi parkja, amely egykor a Topkapı palota kertjének része volt, ma pedig zöld oázis a város szívében.",
@@ -257,7 +256,6 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     parent: "TR-09",
     coords: [27.1833, 37.6667],
     name: { de: "Dilek-Halbinsel-Nationalpark", hu: "Dilek-félsziget Nemzeti Park", ro: "Parcul Național Peninsula Dilek", en: "Dilek Peninsula National Park"},
-    image: "/poi-images/dilek-peninsula-life-v2.webp",
     description: {
       de: "Ein artenreicher Nationalpark an der Ägäisküste mit unberührten Stränden, dichten Wäldern und frei lebenden Wildschweinen.",
       hu: "Egy fajokban gazdag nemzeti park az Égei-tenger partján, érintetlen strandokkal, sűrű erdőkkel és szabadon élő vaddisznókkal.",
@@ -377,7 +375,6 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     parent: "TR-34",
     coords: [28.9167, 41.0767],
     name: { de: "Isfanbul-Themenpark", hu: "Isfanbul Vidámpark", ro: "Parcul de Distracții Isfanbul", en: "Isfanbul Theme Park"},
-    image: "/poi-images/isfanbul-themepark-life-v2.webp",
     description: {
       de: "Ein großer Vergnügungspark in Istanbul, der Achterbahnen, Einkaufszentren und Unterhaltung für die ganze Familie bietet.",
       hu: "Egy hatalmas vidámpark Isztambulban, amely hullámvasutakkal, bevásárlóközpontokkal és családi szórakoztató programokkal várja a látogatókat.",
@@ -698,7 +695,6 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     parent: "TR-53",
     coords: [40.5219, 41.0201],
     name: { de: "Teeplantagen von Rize", hu: "Rize teaültetvényei", ro: "Plantațiile de ceai din Rize", en: "Rize Tea Plantations"},
-    image: "/poi-images/rize-tea-plantations-life-v2.webp",
     description: {
       de: "Die steilen, grünen Hügel der Schwarzmeerregion sind das Herzstück der türkischen Teeproduktion und bieten malerische Landschaften.",
       hu: "A fekete-tengeri régió meredek, zöldellő dombjai a török teatermelés központját jelentik, és festői tájat alkotnak.",
@@ -758,7 +754,6 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     parent: "TR-10",
     coords: [28.0000, 40.2000],
     name: { de: "Kuşcenneti-Nationalpark", hu: "Kuşcenneti Nemzeti Park", ro: "Parcul Național Kușcenneti", en: "Kuşcenneti National Park"},
-    image: "/poi-images/kuscenneti-nationalpark-life-v2.webp",
     description: {
       de: "Dieses Vogelparadies am Manyas-See ist ein wichtiger Rastplatz für Millionen von Zugvögeln auf ihrem Weg zwischen Europa und Afrika.",
       hu: "Ez a Manyas-tó partján fekvő madárparadicsom fontos pihenőhely a több millió vándormadár számára Európa és Afrika között.",
@@ -818,7 +813,6 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     parent: "TR-16",
     coords: [29.0667, 40.1833],
     name: { de: "Pfirsichgärten von Bursa", hu: "Bursa őszibarackligetei", ro: "Livezile de piersici din Bursa", en: "Bursa Peach Orchards"},
-    image: "/poi-images/bursa-peach-orchards-life-v2.webp",
     description: {
       de: "Die Region um Bursa ist berühmt für ihre weiten Obstplantagen, auf denen einige der saftigsten und süßesten Pfirsiche des Landes wachsen.",
       hu: "A Bursa környéki régió híres kiterjedt gyümölcsöskertjeiről, ahol az ország leglédúsabb és legédesebb őszibarackjai teremnek.",
@@ -1247,7 +1241,6 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     parent: "TR-34",
     coords: [29.0531, 41.1086],
     name: { de: "Emirgan-Park", hu: "Emirgan park", ro: "Parcul Emirgan", en: "Emirgan Park"},
-    image: "/poi-images/emirgan-park-life-v2.webp",
     description: {
       de: "Ein historischer Park am Bosporus, der besonders für sein jährliches Tulpenfestival im Frühling weltberühmt ist.",
       hu: "Egy történelmi park a Boszporusz partján, amely különösen a tavaszi, évente megrendezett tulipánfesztiváljáról világhírű.",
@@ -1568,7 +1561,6 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     parent: "TR-07",
     coords: [30.6550, 36.8828],
     name: { de: "Antalya Aquarium", hu: "Antalyai Akvárium", ro: "Acvariul din Antalya", en: "Antalya Aquarium"},
-    image: "/poi-images/antalya-aquarium-life-v2.webp",
     description: {
       de: "Eines der größten Aquarien der Welt, das Besucher mit einem massiven Unterwassertunnel und Themenbereichen wie der Schneewelt begeistert.",
       hu: "A világ egyik legnagyobb akváriuma, amely egy hatalmas víz alatti alagúttal és tematikus részekkel, például a Hóvilággal várja a látogatókat.",
@@ -1709,7 +1701,6 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     parent: "TR-28",
     coords: [38.3833, 40.9167],
     name: { de: "Haselnussplantagen von Giresun", hu: "Giresun mogyoróültetvényei", ro: "Plantațiile de aluni din Giresun", en: "Giresun Hazelnut Plantations"},
-    image: "/poi-images/giresun-hazelnut-life-v2.webp",
     description: {
       de: "Die Provinz Giresun ist das Zentrum der weltweiten Haselnussproduktion, deren Plantagen die steilen Hänge zum Schwarzen Meer hinab bedecken.",
       hu: "Giresun tartomány a globális mogyorótermelés központja, amelynek ültetvényei a Fekete-tenger felé ereszkedő meredek lejtőket borítják.",
@@ -1850,7 +1841,6 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     parent: "TR-39",
     coords: [27.9833, 41.8667],
     name: { de: "İğneada-Auwald-Nationalpark", hu: "İğneada Ártéri-erdő Nemzeti Park", ro: "Parcul Național Pădurea Inundabilă İğneada", en: "İğneada Floodplain Forests National Park"},
-    image: "/poi-images/igneada-floodplain-life-v2.webp",
     description: {
       de: "Ein seltenes Ökosystem aus überfluteten Wäldern an der bulgarischen Grenze, das eine unglaubliche Vielfalt an Flora und Fauna beheimatet.",
       hu: "Egy ritka ártéri erdei ökoszisztéma a bolgár határon, amely elképesztő változatosságú növény- és állatvilágnak ad otthont.",
@@ -1910,7 +1900,6 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     parent: "TR-34",
     coords: [29.0119, 41.0483],
     name: { de: "Yıldız-Park", hu: "Yıldız park", ro: "Parcul Yıldız", en: "Yıldız Park"},
-    image: "/poi-images/yildiz-park-life-v2.webp",
     description: {
       de: "Einst die königlichen Jagdgründe der osmanischen Sultane, bietet dieser riesige Park heute malerische Spazierwege und alte Pavillons.",
       hu: "Egykor az oszmán szultánok királyi vadászterülete volt, ma ez a hatalmas park festői sétányokat és régi pavilonokat kínál.",
@@ -1970,7 +1959,6 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     parent: "TR-41",
     coords: [29.3833, 40.8167],
     name: { de: "Faruk-Yalçın-Zoo", hu: "Faruk Yalçın Állatkert", ro: "Grădina Zoologică Faruk Yalçın", en: "Faruk Yalçın Zoo"},
-    image: "/poi-images/faruk-yalcin-zoo-life-v2.webp",
     description: {
       de: "Ein weitläufiger zoologischer Garten in der Nähe von Istanbul, der sich dem Tierschutz und der Bildung über bedrohte Arten widmet.",
       hu: "Egy kiterjedt állatkert Isztambul közelében, amely az állatvédelemnek és a veszélyeztetett fajok megismertetésének szenteli magát.",
@@ -2327,7 +2315,6 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     parent: "TR-09",
     coords: [27.8333, 37.8333],
     name: { de: "Feigengärten von Aydın", hu: "Aydın fügeligetei", ro: "Livezile de smochini din Aydın", en: "Aydın Fig Orchards"},
-    image: "/poi-images/aydin-fig-orchards-life-v2.webp",
     description: {
       de: "Die sonnenverwöhnte Region Aydın ist weltweit bekannt für den Anbau der besten Feigen, die hier in großen Mengen getrocknet werden.",
       hu: "A napsütötte Aydın régió világszerte ismert a legjobb minőségű fügék termesztéséről, amelyeket itt nagy mennyiségben aszalnak.",
@@ -2504,7 +2491,6 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     parent: "TR-06",
     coords: [32.6167, 40.4667],
     name: { de: "Soğuksu-Nationalpark", hu: "Soğuksu Nemzeti Park", ro: "Parcul Național Soğuksu", en: "Soğuksu National Park"},
-    image: "/poi-images/soguksu-nationalpark-life-v2.webp",
     description: {
       de: "Ein malerischer Nationalpark in der Nähe von Ankara, der für seine dichten Kiefernwälder und heilenden Thermalquellen bekannt ist.",
       hu: "Egy festői nemzeti park Ankara közelében, amely sűrű fenyőerdőiről és gyógyító termálforrásairól ismert.",
@@ -2681,7 +2667,6 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     parent: "TR-48",
     coords: [28.6231, 36.7919],
     name: { de: "İztuzu-Strand", hu: "İztuzu-part", ro: "Plaja İztuzu", en: "İztuzu Beach"},
-    image: "/poi-images/iztuzu-beach-life-v2.webp",
     description: {
       de: "Ein unberührter Sandstrandstreifen, der eine natürliche Barriere zwischen dem Süßwasserdelta des Dalyan-Flusses und dem Mittelmeer bildet.",
       hu: "Egy érintetlen homokos tengerpart, amely természetes gátat képez a Dalyan folyó édesvízi deltája és a Földközi-tenger között.",
@@ -2741,7 +2726,6 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     parent: "TR-34",
     coords: [28.9483, 41.0600],
     name: { de: "Miniatürk", hu: "Miniatürk", ro: "Miniatürk", en: "Miniatürk"},
-    image: "/poi-images/miniaturk-life-v2.webp",
     description: {
       de: "Ein beeindruckender Miniaturpark in Istanbul, der detailgetreue Nachbildungen der berühmtesten Bauwerke aus der Türkei und der osmanischen Geschichte zeigt.",
       hu: "Egy lenyűgöző miniatűr park Isztambulban, amely Törökország és az oszmán történelem leghíresebb építményeinek részletes másolatait mutatja be.",
@@ -2801,7 +2785,6 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     parent: "TR-44",
     coords: [38.3167, 38.3500],
     name: { de: "Aprikosenplantagen von Malatya", hu: "Malatya sárgabarack-ültetvényei", ro: "Plantațiile de caise din Malatya", en: "Malatya Apricot Orchards"},
-    image: "/poi-images/malatya-apricots-life-v2.webp",
     description: {
       de: "Die fruchtbaren Böden und das sonnige Klima dieser ostanatolischen Provinz machen sie zum Weltzentrum für den Anbau süßer Aprikosen.",
       hu: "A kelet-anatóliai tartomány termékeny talaja és napos éghajlata a világ központjává teszi az édes sárgabarack termesztését.",
@@ -2861,7 +2844,6 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     parent: "TR-36",
     coords: [42.6667, 40.3333],
     name: { de: "Sarıkamış-Allahuekber-Nationalpark", hu: "Sarıkamış-Allahuekber Nemzeti Park", ro: "Parcul Național Sarıkamış-Allahuekber", en: "Sarıkamış-Allahuekber Mountains National Park"},
-    image: "/poi-images/sarikamis-forest-life-v2.webp",
     description: {
       de: "Ein hochgelegener Nationalpark in Ostanatolien, berühmt für seine tiefen Schneedecken im Winter und die ausgedehnten, dichten Kiefernwälder.",
       hu: "Egy magaslati nemzeti park Kelet-Anatóliában, amely télen a vastag hótakarójáról és kiterjedt, sűrű fenyőerdeiről híres.",

@@ -269,7 +269,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CZL",
     coords: [-88.3885, 18.3927],
     name: { de: "Corozal Town", hu: "Corozal Town", ro: "Corozal Town", en: "Corozal Town"},
-    image: "/poi-images/corozal-town-cities-v2.webp",
     description: {
       de: "Eine ruhige Küstenstadt im Norden von Belize nahe der mexikanischen Grenze.",
       hu: "Csendes tengerparti város Észak-Belize-ben, a mexikói határ közelében.",
@@ -537,7 +536,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-OW",
     coords: [-88.563, 18.080],
     name: { de: "Orange Walk Town", hu: "Orange Walk Town", ro: "Orange Walk Town", en: "Orange Walk Town"},
-    image: "/poi-images/orange-walk-town-cities-v2.webp",
     description: {
       de: "Das Zentrum der Zuckerindustrie in Belize, oft als 'Sugar City' bezeichnet.",
       hu: "A belize-i cukoripar központja, gyakran 'Cukorvárosnak' is nevezik.",
@@ -697,7 +695,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-TOL",
     coords: [-88.800, 16.100],
     name: { de: "Punta Gorda", hu: "Punta Gorda", ro: "Punta Gorda", en: "Punta Gorda"},
-    image: "/poi-images/punta-gorda-town-cities-v2.webp",
     description: {
       de: "Die südlichste Stadt in Belize und das Tor zur Region Toledo.",
       hu: "Belize legdélibb városa és a Toledo régió kapuja.",
@@ -965,7 +962,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CYO",
     coords: [-89.133, 17.067],
     name: { de: "Benque Viejo del Carmen", hu: "Benque Viejo del Carmen", ro: "Benque Viejo del Carmen", en: "Benque Viejo del Carmen"},
-    image: "/poi-images/benque-viejo-del-carmen-cities-v2.webp",
     description: {
       de: "Eine Grenzstadt im Westen von Belize nahe der guatemaltekischen Grenze.",
       hu: "Határváros Nyugat-Belize-ben, a guatemalai határ közelében.",
@@ -1008,7 +1004,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-OW",
     coords: [-88.650, 17.883],
     name: { de: "Shipyard", hu: "Shipyard", ro: "Shipyard", en: "Shipyard"},
-    image: "/poi-images/shipyard-cities-v2.webp",
     description: {
       de: "Eine konservative mennonitische Gemeinschaft in Belize.",
       hu: "Konzervatív mennonita közösség Belize-ben.",
@@ -1096,7 +1091,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CYO",
     coords: [-88.967, 17.267],
     name: { de: "Spanish Lookout", hu: "Spanish Lookout", ro: "Spanish Lookout", en: "Spanish Lookout"},
-    image: "/poi-images/spanish-lookout-cities-v2.webp",
     description: {
       de: "Eine moderne und wohlhabende mennonitische Gemeinschaft.",
       hu: "Modern és virágzó mennonita közösség.",
@@ -1183,7 +1177,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-BZ",
     coords: [-88.400, 17.450],
     name: { de: "Hattieville", hu: "Hattieville", ro: "Hattieville", en: "Hattieville"},
-    image: "/poi-images/hattieville-cities-v2.webp",
     description: {
       de: "Eine Siedlung, die für die Opfer des Hurrikans Hattie gegründet wurde.",
       hu: "A Hattie hurrikán áldozatai számára alapított település.",
@@ -1343,7 +1336,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CYO",
     coords: [-89.067, 17.167],
     name: { de: "Santa Elena", hu: "Santa Elena", ro: "Santa Elena", en: "Santa Elena"},
-    image: "/poi-images/santa-elena-cities-v2.webp",
     description: {
       de: "Die Schwesterstadt von San Ignacio, verbunden durch die Hawkesworth Bridge.",
       hu: "San Ignacio testvérvárosa, a Hawkesworth híd köti össze vele.",
@@ -1386,7 +1378,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CYO",
     coords: [-88.850, 17.367],
     name: { de: "Valley of Peace", hu: "Valley of Peace", ro: "Valley of Peace", en: "Valley of Peace"},
-    image: "/poi-images/valley-of-peace-cities-v2.webp",
     description: {
       de: "Eine Flüchtlingsgemeinschaft, die hauptsächlich von Salvadorianern gegründet wurde.",
       hu: "Főként salvadoriak által alapított menekültközösség.",
@@ -1429,7 +1420,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-SC",
     coords: [-88.367, 16.517],
     name: { de: "Placencia Village", hu: "Placencia Village", ro: "Placencia Village", en: "Placencia Village"},
-    image: "/poi-images/placencia-village-cities-v2.webp",
     description: {
       de: "Ein malerisches Fischerdorf an der Spitze einer Halbinsel, heute ein beliebter Touristenort.",
       hu: "Egy népszerű halászfalu Stann Creek kerületben, amely homokos tengerpartjáról és nyüzsgő turizmusáról ismert.",
@@ -1805,7 +1795,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-BZ",
     coords: [-88.025, 17.742],
     name: { de: "Caye Caulker Village", hu: "Caye Caulker Village", ro: "Caye Caulker Village", en: "Caye Caulker Village"},
-    image: "/poi-images/caye-caulker-village-cities-v2.webp",
     description: {
       de: "Ein entspanntes Dorf auf der gleichnamigen Insel mit dem Motto 'Go Slow'.",
       hu: "Nyugodt falu az azonos nevű szigeten, mottója: 'Go Slow'.",
@@ -2037,7 +2026,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-SC",
     coords: [-88.283, 16.867],
     name: { de: "Hopkins", hu: "Hopkins", ro: "Hopkins", en: "Hopkins"},
-    image: "/poi-images/hopkins-village-cities-v2.webp",
     description: {
       de: "Ein traditionelles Garifuna-Fischerdorf an der Küste.",
       hu: "Hagyományos garifuna halászfalu a tengerparton.",
@@ -2080,7 +2068,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CZL",
     coords: [-88.133, 18.350],
     name: { de: "Sarteneja", hu: "Sarteneja", ro: "Sarteneja", en: "Sarteneja"},
-    image: "/poi-images/sarteneja-cities-v2.webp",
     description: {
       de: "Das größte Fischerdorf in Belize, bekannt für den Bau von Segelbooten.",
       hu: "Belize legnagyobb halászfaluja, a vitorlások építéséről ismert.",
@@ -2123,7 +2110,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-SC",
     coords: [-88.417, 16.533],
     name: { de: "Independence and Mango Creek", hu: "Independence és Mango Creek", ro: "Independence și Mango Creek", en: "Independence and Mango Creek"},
-    image: "/poi-images/independence-mango-creek-cities-v2.webp",
     description: {
       de: "Zwillingsdörfer, die einen wichtigen Hafen für die Bananenindustrie beherbergen.",
       hu: "Ikervárosok, amelyek a banánipar számára fontos kikötőnek adnak otthont.",
@@ -2166,7 +2152,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-BZ",
     coords: [-88.417, 17.567],
     name: { de: "Burrell Boom", hu: "Burrell Boom", ro: "Burrell Boom", en: "Burrell Boom"},
-    image: "/poi-images/burrell-boom-cities-v2.webp",
     description: {
       de: "Ein historisches kreolisches Dorf am Belize River.",
       hu: "Történelmi kreol falu a Belize-folyó partján.",
@@ -2209,7 +2194,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-BZ",
     coords: [-88.550, 17.767],
     name: { de: "Crooked Tree", hu: "Crooked Tree", ro: "Crooked Tree", en: "Crooked Tree"},
-    image: "/poi-images/crooked-tree-cities-v2.webp",
     description: {
       de: "Ein Dorf auf einer Insel in einer Lagune, ein Paradies für Vogelbeobachter.",
       hu: "Egy lagúnában lévő szigeten található falu, madármegfigyelő paradicsom.",
@@ -2252,7 +2236,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-BZ",
     coords: [-88.350, 17.200],
     name: { de: "Gales Point", hu: "Gales Point", ro: "Gales Point", en: "Gales Point"},
-    image: "/poi-images/gales-point-cities-v2.webp",
     description: {
       de: "Ein abgelegenes kreolisches Dorf auf einer Halbinsel, bekannt für Manatis.",
       hu: "Elszigetelt kreol falu egy félszigeten, manátuszokról ismert.",
@@ -2295,7 +2278,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-OW",
     coords: [-88.850, 17.900],
     name: { de: "Blue Creek Village", hu: "Blue Creek Village", ro: "Blue Creek Village", en: "Blue Creek Village"},
-    image: "/poi-images/blue-creek-village-cities-v2.webp",
     description: {
       de: "Eine weitere bedeutende mennonitische Gemeinschaft im Norden von Belize.",
       hu: "Egy másik jelentős mennonita közösség Észak-Belize-ben.",
@@ -2419,7 +2401,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CYO",
     coords: [-88.983, 17.067],
     name: { de: "San Antonio (Cayo)", hu: "San Antonio (Cayo)", ro: "San Antonio (Cayo)", en: "San Antonio (Cayo)"},
-    image: "/poi-images/san-antonio-cayo-cities-v2.webp",
     description: {
       de: "Ein großes Maya-Dorf im Cayo District, bekannt für Töpferei.",
       hu: "Nagy maja falu a Cayo kerületben, fazekasságáról ismert.",
@@ -2462,7 +2443,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-OW",
     coords: [-88.483, 18.267],
     name: { de: "Douglas", hu: "Douglas", ro: "Douglas", en: "Douglas"},
-    image: "/poi-images/douglas-village-cities-v2.webp",
     description: {
       de: "Ein ländliches Dorf im Orange Walk District, das am Ufer des Rio Hondo an der Grenze zu Mexiko liegt.",
       hu: "Egy kisebb település Orange Walk kerületben, a Hondo-folyó közelében, az ország északi részén.",
@@ -2549,7 +2529,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CZL",
     coords: [-88.550, 18.283],
     name: { de: "San Narciso", hu: "San Narciso", ro: "San Narciso", en: "San Narciso"},
-    image: "/poi-images/san-narciso-cities-v2.webp",
     description: {
       de: "Ein Dorf im Corozal District, bekannt für seine Zuckerrohrfarmen.",
       hu: "Falu a Corozal kerületben, cukornádültetvényeiről ismert.",
@@ -2597,7 +2576,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-TOL",
     coords: [-88.950, 16.250],
     name: { de: "San Pedro Columbia", hu: "San Pedro Columbia", ro: "San Pedro Columbia", en: "San Pedro Columbia"},
-    image: "/poi-images/san-pedro-columbia-cities-v2.webp",
     description: {
       de: "Ein großes Kekchi-Maya-Dorf im Toledo District.",
       hu: "Nagy kekchi-maja falu a Toledo kerületben.",
@@ -2685,7 +2663,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-SC",
     coords: [-88.350, 16.567],
     name: { de: "Seine Bight", hu: "Seine Bight", ro: "Seine Bight", en: "Seine Bight"},
-    image: "/poi-images/seine-bight-cities-v2.webp",
     description: {
       de: "Ein Garifuna-Dorf auf der Placencia-Halbinsel.",
       hu: "Garifuna falu a Placencia-félszigeten.",
@@ -2773,7 +2750,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CYO",
     coords: [-89.117, 17.183],
     name: { de: "Bullet Tree Falls", hu: "Bullet Tree Falls", ro: "Bullet Tree Falls", en: "Bullet Tree Falls"},
-    image: "/poi-images/bullet-tree-falls-cities-v2.webp",
     description: {
       de: "Ein Dorf am Mopan-Fluss, westlich von San Ignacio.",
       hu: "Falu a Mopan-folyó partján, San Ignaciótól nyugatra.",
@@ -2861,7 +2837,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-SC",
     coords: [-88.267, 16.817],
     name: { de: "Sittee River Village", hu: "Sittee River Village", ro: "Sittee River Village", en: "Sittee River Village"},
-    image: "/poi-images/sittee-river-village-cities-v2.webp",
     description: {
       de: "Ein Dorf an der Mündung des Sittee-Flusses, umgeben von Mangroven.",
       hu: "Falu a Sittee-folyó torkolatánál, mangrovékkal körülvéve.",
@@ -2985,7 +2960,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-OW",
     coords: [-88.583, 18.067],
     name: { de: "San Jose Palmar", hu: "San Jose Palmar", ro: "San Jose Palmar", en: "San Jose Palmar"},
-    image: "/poi-images/san-jose-palmar-cities-v2.webp",
     description: {
       de: "Ein Dorf in der Nähe von Orange Walk Town, bekannt für seine Fiestas.",
       hu: "Falu Orange Walk Town közelében, fiestáiról ismert.",
@@ -3028,7 +3002,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-OW",
     coords: [-88.617, 18.150],
     name: { de: "Yo Creek", hu: "Yo Creek", ro: "Yo Creek", en: "Yo Creek"},
-    image: "/poi-images/yo-creek-cities-v2.webp",
     description: {
       de: "Ein Dorf im Orange Walk District mit einer Mischung aus Mestizen- und Maya-Kultur.",
       hu: "Falu az Orange Walk kerületben, mesztic és maja kultúra keverékével.",
@@ -3120,7 +3093,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CYO",
     coords: [-89.0667, 17.1500],
     name: { de: "San Ignacio (Hauptstadt von Cayo)", hu: "San Ignacio (Cayo fővárosa)", ro: "San Ignacio (Capitala Cayo)", en: "San Ignacio (Cayo Capital)"},
-    image: "/poi-images/san-ignacio-el-cayo-capital-cities-v2.webp",
     description: {
       de: "Die Hauptstadt des Cayo-Distrikts und das wirtschaftliche Zentrum West-Belizes.",
       hu: "Cayo kerület központja és az ország második legnagyobb városa, fontos kulturális és turisztikai csomópont.",
@@ -3231,7 +3203,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-OW",
     coords: [-88.5500, 18.0667],
     name: { de: "Orange Walk Town (Hauptstadt von Orange Walk)", hu: "Orange Walk Town (Orange Walk fővárosa)", ro: "Orange Walk Town (Capitala Orange Walk)", en: "Orange Walk Town (Orange Walk Capital)"},
-    image: "/poi-images/orange-walk-ow-capital-cities-v2.webp",
     description: {
       de: "Die Hauptstadt des Orange Walk Distrikts, bekannt als 'Sugar City'.",
       hu: "Az Orange Walk kerület fővárosa, 'Cukorvárosként' ismert.",
@@ -3268,7 +3239,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-TOL",
     coords: [-88.8000, 16.1000],
     name: { de: "Punta Gorda (Hauptstadt von Toledo)", hu: "Punta Gorda (Toledo fővárosa)", ro: "Punta Gorda (Capitala Toledo)", en: "Punta Gorda (Toledo Capital)"},
-    image: "/poi-images/punta-gorda-toledo-capital-cities-v2.webp",
     description: {
       de: "Die Hauptstadt des Toledo Distrikts und südlichste Stadt Belizes.",
       hu: "A Toledo kerület fővárosa és Belize legdélibb városa.",
@@ -3343,7 +3313,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CZL",
     coords: [-88.45, 18.4167],
     name: { de: "Little Belize", hu: "Little Belize", ro: "Little Belize", en: "Little Belize"},
-    image: "/poi-images/little-belize-cities-v2.webp",
     description: {
       de: "Eine isolierte mennonitische Gemeinschaft im Corozal District.",
       hu: "Elszigetelt mennonita közösség a Corozal kerületben.",
@@ -3430,7 +3399,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-OW",
     coords: [-88.6, 18.1],
     name: { de: "San Jose (Orange Walk)", hu: "San Jose (Orange Walk)", ro: "San Jose (Orange Walk)", en: "San Jose (Orange Walk)"},
-    image: "/poi-images/san-jose-ow-cities-v2.webp",
     description: {
       de: "Ein Dorf südlich von Orange Walk Town.",
       hu: "Egy falu Orange Walk kerületben, amely a cukornád-termesztéséről és mezőgazdaságáról ismert.",
@@ -3473,7 +3441,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-OW",
     coords: [-88.6667, 17.75],
     name: { de: "Indian Church", hu: "Indian Church", ro: "Indian Church", en: "Indian Church"},
-    image: "/poi-images/indian-church-cities-v2.webp",
     description: {
       de: "Ein kleines Dorf am Rande der Maya-Stätte Lamanai.",
       hu: "Kis falu a Lamanai maja romváros szélén.",
@@ -3516,7 +3483,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-OW",
     coords: [-88.5833, 18.1333],
     name: { de: "San Estevan", hu: "San Estevan", ro: "San Estevan", en: "San Estevan"},
-    image: "/poi-images/san-estevan-cities-v2.webp",
     description: {
       de: "Ein historisches Dorf am New River im Orange Walk District.",
       hu: "Történelmi falu a New River mentén az Orange Walk kerületben.",
@@ -3559,7 +3525,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CYO",
     coords: [-89.1417, 17.0839],
     name: { de: "San Jose Succotz", hu: "San Jose Succotz", ro: "San Jose Succotz", en: "San Jose Succotz"},
-    image: "/poi-images/xunantunich-village-cities-v2.webp",
     description: {
       de: "Das Dorf am Fuße von Xunantunich, von dem die Fähre ablegt.",
       hu: "A falu Xunantunich lábánál, ahonnan a komp indul.",
@@ -3602,7 +3567,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-TOL",
     coords: [-88.6667, 16.4333],
     name: { de: "Maya Mopan", hu: "Maya Mopan", ro: "Maya Mopan", en: "Maya Mopan"},
-    image: "/poi-images/maya-mopan-cities-v2.webp",
     description: {
       de: "Eine Mopan-Maya-Gemeinschaft im Toledo District.",
       hu: "Mopan-maja közösség a Toledo kerületben.",
@@ -3690,7 +3654,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CZL",
     coords: [-88.3167, 18.45],
     name: { de: "Consejo", hu: "Consejo", ro: "Consejo", en: "Consejo"},
-    image: "/poi-images/consejo-cities-v2.webp",
     description: {
       de: "Eine ruhige Wohngegend am Meer, beliebt bei Expats.",
       hu: "Csendes tengerparti lakónegyed, népszerű a külföldiek körében.",
@@ -3850,7 +3813,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CYO",
     coords: [-88.9333, 17.2167],
     name: { de: "Santa Familia", hu: "Santa Familia", ro: "Santa Familia", en: "Santa Familia"},
-    image: "/poi-images/santa-familia-cities-v2.webp",
     description: {
       de: "Ein Dorf am Belize River, das für seine Landwirtschaft bekannt ist.",
       hu: "Falu a Belize-folyó mentén, mezőgazdaságáról ismert.",
@@ -3937,7 +3899,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-TOL",
     coords: [-88.4833, 16.3667],
     name: { de: "Monkey River Town", hu: "Monkey River Town", ro: "Monkey River Town", en: "Monkey River Town"},
-    image: "/poi-images/monkey-river-town-cities-v2.webp",
     description: {
       de: "Ein kleines kreolisches Dorf an der Mündung des Monkey River.",
       hu: "Kis kreol falu a Monkey River torkolatánál.",
@@ -3980,7 +3941,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-TOL",
     coords: [-89.1333, 16.15],
     name: { de: "Jalacte", hu: "Jalacte", ro: "Jalacte", en: "Jalacte"},
-    image: "/poi-images/jalacte-cities-v2.webp",
     description: {
       de: "Ein Maya-Dorf an der Grenze zu Guatemala im Toledo District.",
       hu: "Maja falu a guatemalai határon a Toledo kerületben.",
@@ -4068,7 +4028,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CYO",
     coords: [-88.9, 17.1167],
     name: { de: "San Roman (Cayo)", hu: "San Roman (Cayo)", ro: "San Roman (Cayo)", en: "San Roman (Cayo)"},
-    image: "/poi-images/san-roman-cayo-cities-v2.webp",
     description: {
       de: "Ein Dorf im Cayo District am Belize River.",
       hu: "Falu a Cayo kerületben a Belize-folyó mentén.",
@@ -4111,7 +4070,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-BZ",
     coords: [-88.35, 17.2],
     name: { de: "Gales Point Manatee", hu: "Gales Point Manatee", ro: "Gales Point Manatee", en: "Gales Point Manatee"},
-    image: "/poi-images/gales-point-manatee-cities-v2.webp",
     description: {
       de: "Ein kreolisches Dorf, das auch als Manatee bekannt ist, ein wichtiges Schutzgebiet für Seekühe.",
       hu: "Kreol falu, más néven Manatee, a tengeri tehenek fontos védett területe.",
@@ -4154,7 +4112,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-TOL",
     coords: [-88.9167, 16.3333],
     name: { de: "San Miguel (Toledo)", hu: "San Miguel (Toledo)", ro: "San Miguel (Toledo)", en: "San Miguel (Toledo)"},
-    image: "/poi-images/san-miguel-toledo-cities-v2.webp",
     description: {
       de: "Ein Maya-Dorf im Columbia River Forest Reserve.",
       hu: "Maja falu a Columbia River erdőrezervátumban.",
@@ -4197,7 +4154,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CYO",
     coords: [-89.0167, 17.1167],
     name: { de: "Cristo Rey (Cayo)", hu: "Cristo Rey (Cayo)", ro: "Cristo Rey (Cayo)", en: "Cristo Rey (Cayo)"},
-    image: "/poi-images/cristo-rey-cayo-cities-v2.webp",
     description: {
       de: "Ein Dorf am Macal River, südlich von San Ignacio.",
       hu: "Falu a Macal-folyó mentén, San Ignaciótól délre.",
@@ -4329,7 +4285,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CZL",
     coords: [-88.5833, 18.4667],
     name: { de: "Chan Chen", hu: "Chan Chen", ro: "Chan Chen", en: "Chan Chen"},
-    image: "/poi-images/chan-chen-cities-v2.webp",
     description: {
       de: "Ein Dorf im Corozal District, nahe der mexikanischen Grenze.",
       hu: "Egy falu Corozal kerületben, amely közel fekszik a mexikói határhoz és a Corozal-öbölhöz.",
@@ -4372,7 +4327,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CZL",
     coords: [-88.4, 18.2333],
     name: { de: "Progresso Lagoon Village", hu: "Progresso Lagoon Village", ro: "Progresso Lagoon Village", en: "Progresso Lagoon Village"},
-    image: "/poi-images/lagoon-village-cities-v2.webp",
     description: {
       de: "Ein malerisches Dorf an der Progresso-Lagune.",
       hu: "Festői falu a Progresso-lagúna partján.",
@@ -4504,7 +4458,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-TOL",
     coords: [-88.8833, 16.3],
     name: { de: "Big Falls", hu: "Big Falls", ro: "Big Falls", en: "Big Falls"},
-    image: "/poi-images/big-falls-toledo-cities-v2.webp",
     description: {
       de: "Ein Dorf im Toledo District, benannt nach den Wasserfällen am Rio Grande.",
       hu: "Falu a Toledo kerületben, a Rio Grande vízeséseiről elnevezve.",
@@ -4547,7 +4500,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-TOL",
     coords: [-88.5, 16.6167],
     name: { de: "Trio Village", hu: "Trio Village", ro: "Trio Village", en: "Trio Village"},
-    image: "/poi-images/trio-village-cities-v2.webp",
     description: {
       de: "Eine landwirtschaftliche Gemeinschaft an der Southern Highway.",
       hu: "Mezőgazdasági közösség a Déli autópálya mentén.",
@@ -4590,7 +4542,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-OW",
     coords: [-88.6333, 17.8333],
     name: { de: "San Pablo (Orange Walk)", hu: "San Pablo (Orange Walk)", ro: "San Pablo (Orange Walk)", en: "San Pablo (Orange Walk)"},
-    image: "/poi-images/x-pichil-cities-v2.webp",
     description: {
       de: "Eine kleine Siedlung im Hinterland, die tief in der Maya-Kultur verwurzelt ist und traditionelles Handwerk pflegt.",
       hu: "Egy apró település Corozal kerületben, amely a hagyományos falusi életmód őrzője.",
@@ -4633,7 +4584,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-TOL",
     coords: [-89.0, 16.0833],
     name: { de: "Crique Sarco", hu: "Crique Sarco", ro: "Crique Sarco", en: "Crique Sarco"},
-    image: "/poi-images/crique-sarco-cities-v2.webp",
     description: {
       de: "Ein abgelegenes Kekchi-Maya-Dorf am Temash River.",
       hu: "Elszigetelt kekchi-maja falu a Temash-folyó mentén.",
@@ -4676,7 +4626,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-TOL",
     coords: [-89.05, 16.2],
     name: { de: "San Vicente (Toledo)", hu: "San Vicente (Toledo)", ro: "San Vicente (Toledo)", en: "San Vicente (Toledo)"},
-    image: "/poi-images/san-vicente-toledo-cities-v2.webp",
     description: {
       de: "Ein kleines Maya-Dorf im Süden von Belize.",
       hu: "Kis maja falu Dél-Belize-ben.",
@@ -4719,7 +4668,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-OW",
     coords: [-88.55, 17.85],
     name: { de: "Carmelita", hu: "Carmelita", ro: "Carmelita", en: "Carmelita"},
-    image: "/poi-images/carmelita-cities-v2.webp",
     description: {
       de: "Ein Dorf am Northern Highway im Orange Walk District.",
       hu: "Falu az Északi autópálya mentén az Orange Walk kerületben.",
@@ -4762,7 +4710,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-TOL",
     coords: [-89.0167, 15.9833],
     name: { de: "Barranco", hu: "Barranco", ro: "Barranco", en: "Barranco"},
-    image: "/poi-images/barranco-cities-v2.webp",
     description: {
       de: "Das südlichste Küstendorf in Belize, eine traditionelle Garifuna-Gemeinde.",
       hu: "Belize legdélibb tengerparti faluja, egy hagyományos garifuna közösség.",
@@ -4805,7 +4752,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CYO",
     coords: [-88.75, 17.4333],
     name: { de: "La Gracia", hu: "La Gracia", ro: "La Gracia", en: "La Gracia"},
-    image: "/poi-images/la-gracia-cities-v2.webp",
     description: {
       de: "Ein kleines landwirtschaftliches Dorf im Cayo District.",
       hu: "Kis mezőgazdasági falu a Cayo kerületben.",
@@ -5109,7 +5055,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CYO",
     coords: [-88.7833, 17.2667],
     name: { de: "Roaring Creek", hu: "Roaring Creek", ro: "Roaring Creek", en: "Roaring Creek"},
-    image: "/poi-images/roaring-creek-cities-v2.webp",
     description: {
       de: "Ein Dorf am Hummingbird Highway, nahe Belmopan.",
       hu: "Falu a Hummingbird autópálya mentén, Belmopan közelében.",
@@ -5152,7 +5097,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CYO",
     coords: [-88.9333, 17.1833],
     name: { de: "Georgeville", hu: "Georgeville", ro: "Georgeville", en: "Georgeville"},
-    image: "/poi-images/georgeville-cities-v2.webp",
     description: {
       de: "Ein Dorf am George Price Highway im Cayo District.",
       hu: "Falu a George Price autópálya mentén a Cayo kerületben.",
@@ -5195,7 +5139,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CYO",
     coords: [-88.9, 17.2167],
     name: { de: "Unitedville", hu: "Unitedville", ro: "Unitedville", en: "Unitedville"},
-    image: "/poi-images/unitedville-cities-v2.webp",
     description: {
       de: "Ein Dorf im Cayo District, das strategisch günstig am George Price Highway zwischen Belmopan und San Ignacio liegt.",
       hu: "Település a Cayo kerületben, a George Price országút mentén, San Ignacio és Belmopan között.",
@@ -5238,7 +5181,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-TOL",
     coords: [-88.9833, 16.25],
     name: { de: "Santa Rosa (Toledo)", hu: "Santa Rosa (Toledo)", ro: "Santa Rosa (Toledo)", en: "Santa Rosa (Toledo)"},
-    image: "/poi-images/santa-rosa-toledo-cities-v2.webp",
     description: {
       de: "Eine indigene Mopan-Maya-Gemeinde im Toledo District, die für ihren nachhaltigen Kakaoanbau bekannt ist.",
       hu: "Maja őslakosok lakta falu Toledo kerületben, Belize legdélebbi részén.",
@@ -5281,7 +5223,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-SC",
     coords: [-88.3833, 16.6333],
     name: { de: "Riversdale", hu: "Riversdale", ro: "Riversdale", en: "Riversdale"},
-    image: "/poi-images/riversdale-cities-v2.webp",
     description: {
       de: "Ein kleines Fischerdorf an der Küste des Stann Creek District.",
       hu: "Kis halászfalu a Stann Creek kerület partján.",
@@ -5405,7 +5346,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-TOL",
     coords: [-88.9333, 16.2667],
     name: { de: "San Pablo (Toledo)", hu: "San Pablo (Toledo)", ro: "San Pablo (Toledo)", en: "San Pablo (Toledo)"},
-    image: "/poi-images/san-pablo-toledo-cities-v2.webp",
     description: {
       de: "Ein Dorf im ländlichen Toledo District.",
       hu: "Kisebb falu Toledo kerületben, ahol a helyi közösség szoros kapcsolatban él a természettel.",
@@ -5448,7 +5388,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-BZ",
     coords: [-88.2833, 17.85],
     name: { de: "Maskall", hu: "Maskall", ro: "Maskall", en: "Maskall"},
-    image: "/poi-images/maskall-cities-v2.webp",
     description: {
       de: "Dieses Dorf liegt an der Old Northern Road und ist ein Ausgangspunkt für Ausflüge in die Region.",
       hu: "Falu az Old Northern Highway mentén, kapu Altun Ha maja romvároshoz.",
@@ -5623,7 +5562,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-TOL",
     coords: [-89.15, 16.2333],
     name: { de: "Santa Teresa (Toledo)", hu: "Santa Teresa (Toledo)", ro: "Santa Teresa (Toledo)", en: "Santa Teresa (Toledo)"},
-    image: "/poi-images/santa-teresa-toledo-cities-v2.webp",
     description: {
       de: "Ein abgelegenes Dorf im Süden von Belize, das für seine traditionelle Lebensweise und die Nähe zum Dschungel geschätzt wird.",
       hu: "Egy félreeső maja falu Toledo kerületben, amely a hagyományos életmódjáról és kézművességéről ismert.",
@@ -5710,7 +5648,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-BZ",
     coords: [-88.3333, 17.65],
     name: { de: "Sand Hill", hu: "Sand Hill", ro: "Sand Hill", en: "Sand Hill"},
-    image: "/poi-images/sand-hill-cities-v2.webp",
     description: {
       de: "Ein Dorf am Northern Highway, nördlich von Ladyville.",
       hu: "Egy stratégiai elhelyezkedésű falu a Philip Goldson és az Old Northern Highway találkozásánál.",
@@ -5753,7 +5690,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-BZ",
     coords: [-88.3667, 17.7],
     name: { de: "Biscayne", hu: "Biscayne", ro: "Biscayne", en: "Biscayne"},
-    image: "/poi-images/biscayne-cities-v2.webp",
     description: {
       de: "Ein ruhiges Dorf im Belize District, das für seine reiche Vogelwelt und die Nähe zum Crooked Tree Wildlife Sanctuary bekannt ist.",
       hu: "Egy falu a Philip Goldson országút mentén, amely a Crooked Tree Wildlife Sanctuary közelében található.",
@@ -5801,7 +5737,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-SC",
     coords: [-88.3, 16.9],
     name: { de: "Silk Grass", hu: "Silk Grass", ro: "Silk Grass", en: "Silk Grass"},
-    image: "/poi-images/silk-grass-cities-v2.webp",
     description: {
       de: "Ein Dorf am Southern Highway, südlich von Dangriga.",
       hu: "Falu a Déli autópálya mentén, Dangrigától délre.",
@@ -5932,7 +5867,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CZL",
     coords: [-88.4333, 18.4167],
     name: { de: "Santa Cruz (Corozal)", hu: "Santa Cruz (Corozal)", ro: "Santa Cruz (Corozal)", en: "Santa Cruz (Corozal)"},
-    image: "/poi-images/santa-cruz-czl-cities-v2.webp",
     description: {
       de: "Ein kleines Dorf nahe Corozal Town.",
       hu: "Kis falu Corozal kerületben, amely a mexikói határ és a Hondo-folyó közvetlen közelében helyezkedik el.",
@@ -5975,7 +5909,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CZL",
     coords: [-88.4333, 18.35],
     name: { de: "San Joaquin (Corozal)", hu: "San Joaquin (Corozal)", ro: "San Joaquin (Corozal)", en: "San Joaquin (Corozal)"},
-    image: "/poi-images/san-joaquin-czl-cities-v2.webp",
     description: {
       de: "Ein Dorf südlich von Corozal Town.",
       hu: "Falu Corozal Towntól délre.",
@@ -6063,7 +5996,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CYO",
     coords: [-88.8333, 17.2333],
     name: { de: "Teakettle", hu: "Teakettle", ro: "Teakettle", en: "Teakettle"},
-    image: "/poi-images/teakettle-cities-v2.webp",
     description: {
       de: "Ein Dorf im Cayo District, das als Ausgangspunkt für Abenteuer in der berühmten Actun Tunichil Muknal Höhle dient.",
       hu: "Egy falu a George Price országút mentén, Cayo kerületben, az Actun Tunichil Muknal barlang közelében.",
@@ -6243,7 +6175,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-CYO",
     coords: [-88.9833, 17.2667],
     name: { de: "Buena Vista (Cayo)", hu: "Buena Vista (Cayo)", ro: "Buena Vista (Cayo)", en: "Buena Vista (Cayo)"},
-    image: "/poi-images/buena-vista-cayo-cities-v2.webp",
     description: {
       de: "Ein landwirtschaftliches Dorf im fruchtbaren Cayo District, umgeben von sanften Hügeln und Farmen.",
       hu: "Egy domboldalon elterülő falu Cayo kerületben, amely lenyűgöző kilátást nyújt a környező völgyekre.",
@@ -6374,7 +6305,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     parent: "BZ-BZ",
     coords: [-88.4333, 17.65],
     name: { de: "Gardenia", hu: "Gardenia", ro: "Gardenia", en: "Gardenia"},
-    image: "/poi-images/gardenia-cities-v2.webp",
     description: {
       de: "Ein Dorf am Northern Highway.",
       hu: "Egy kisebb település Belize Districtben, amely a békés vidéki életmódot képviseli az országút mentén.",

@@ -156,7 +156,6 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     parent: "GH-CP",
     coords: [-1.3486, 5.0825],
     name: {"de": "Elmina Castle", "hu": "Elmina vára", "ro": "Castelul Elmina", "en": "Elmina Castle"},
-    image: "/poi-images/elmina-castle-history-v2.webp",
     description: {"de": "Das älteste europäische Bauwerk in Subsahara-Afrika, 1482 von den Portugiesen als befestigter Posten für den Goldhandel erbaut.", "hu": "A portugálok által 1482-ben alapított építmény a legrégebbi európai erődítmény a térségben.", "ro": "Construit de portughezi în secolul al XV-lea, este cea mai veche structură europeană din Africa subsahariană. A funcționat ca centru comercial pentru aur și sclavi.", "en": "The oldest European building in sub-Saharan Africa, established to facilitate trade. It stands as a significant site of memory for the slave trade."},
     facts: {"de": ["Errichtet im Jahr 1482", "Ursprünglich São Jorge da Mina genannt", "Älteste europäische Festung in Westafrika", "1637 von den Niederländern erobert"], "hu": ["Eredetileg São Jorge da Mina", "Arany- és rabszolgakereskedelem", "Holland uralom alá került 1637-ben", "Sötét történeti emlékhely"], "ro": ["Construit în 1482.", "Prima așezare europeană în vestul Africii.", "Patrimoniu Mondial UNESCO.", "Localizat în orașul Elmina."], "en": ["Built by the Portuguese in 1482", "UNESCO World Heritage site", "Located in the Central Region", "Center for ivory and gold trade before slavery"]},
     descriptionAdvanced: {
@@ -625,7 +624,6 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     parent: "GH-CP",
     coords: [-1.1557, 5.5165],
     name: {"de": "Assin Manso Sklavenfluss", "hu": "Assin Manso rabszolgafolyó", "ro": "Râul Sclavilor Assin Manso", "en": "Assin Manso Slave River"},
-    image: "/poi-images/assin-manso-slave-river-history-v2.webp",
     description: {"de": "Ein heiliger Ort des Gedenkens, an dem versklavte Menschen ihr letztes Bad nahmen, bevor sie in die Küstenfestungen getrieben wurden.", "hu": "A rabszolgaútvonal egykori megállóhelye, ahol a foglyok utoljára fürödhettek.", "ro": "Locul unde sclavii capturați din nordul Ghanei făceau ultima baie în râu înainte de a fi trimiși la coasta oceanului. Un loc de reculegere și memorie.", "en": "A river where captive slaves took their final bath before the long march to the coastal dungeons. A sacred site for the African Diaspora."},
     facts: {"de": ["Ort des rituellen 'Letzten Bades'", "Zentrum für den jährlichen Emancipation Day", "Gedenkstätte für die afrikanische Diaspora", "Ehemaliger historischer Sklavenmarkt"], "hu": ["Rabszolgák fürdőhelye volt", "Emlékhely az áldozatoknak", "Kulturális megemlékezések", "Fájdalmas múltú hely"], "ro": ["Ultimul loc de baie.", "Situat în regiunea Assin.", "Loc de pelerinaj istoric.", "Simbol al traumei sclaviei."], "en": ["Historical transit point for captives", "Features a memorial wall of return", "Located in Central Region", "Significant site for spiritual healing"]},
     descriptionAdvanced: {
@@ -1236,7 +1234,6 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     parent: "GH-AA",
     coords: [-0.1925, 5.5486],
     name: {"de": "Unabhängigkeitsplatz (Accra)", "hu": "Függetlenség tere (Accra)", "ro": "Pia?a Independenței (Accra)", "en": "Independence Square (Accra)"},
-    image: "/poi-images/independence-square-accra-history-v2.webp",
     description: {"de": "Der auch als Black Star Square bekannte Platz in Accra ist der zentrale Ort für nationale Feierlichkeiten und ein Symbol der Befreiung.", "hu": "A nemzeti függetlenség tiszteletére emelt nagy tér az Accrai kormányzati negyedben.", "ro": "Piață simbolică din Accra, construită pentru a celebra independența țării. Găzduiește parade naționale și evenimente oficiale majore.", "en": "A landmark venue in Accra used for Ghana's Independence Day celebrations and other national events."},
     facts: {"de": ["Fertiggestellt im Jahr 1961", "Fasst bis zu 30.000 Menschen", "Standort des Unabhängigkeitsbogens", "Zentrum für Militärparaden am Nationalfeiertag"], "hu": ["1961-ben készült", "Katonai díszszemlék", "Függetlenségi emlékmű", "Központi gyülekezőhely"], "ro": ["Finalizată în 1961.", "Situată în Accra.", "Loc pentru parade naționale.", "Simbol al suveranității."], "en": ["Completed in 1961", "Features the Independence Arch", "Hosts massive public parades", "Symbol of Ghanaian sovereignty"]},
     descriptionAdvanced: {
@@ -1636,7 +1633,6 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     parent: "GH-BE",
     coords: [-1.7289, 8.0531],
     name: {"de": "Kintampo-Komplex", "hu": "Kintampo komplexum", "ro": "Complexul Kintampo", "en": "Kintampo Complex"},
-    image: "/poi-images/kintampo-complex-history-v2.webp",
     description: {"de": "Diese prähistorische Stätte belegt die Existenz einer der frühesten bäuerlichen Gesellschaften in Westafrika während der Jungsteinzeit.", "hu": "Kőkori leletekben gazdag régészeti terület, amely a korai emberi tevékenységet mutatja be.", "ro": "Situl arheologic al complexului Kintampo, care oferă informații despre dezvoltarea agriculturii și a așezărilor umane în perioada neolitică.", "en": "An archaeological site that gives its name to the Kintampo culture of the late Stone Age."},
     facts: {"de": ["Etwa 4.000 Jahre alte Besiedlung", "Namensgebend für die Kintampo-Kultur", "Funde von Steinäxten und Tonfiguren", "Früheste Belege für Landwirtschaft in Ghana"], "hu": ["Őskori eszközök", "Régészeti örökség", "Kintampo kultúra", "Tudományos kutatások"], "ro": ["Perioadă neolitică.", "Situat în Kintampo.", "Situl arheologic.", "Importanță agricolă timpurie."], "en": ["Key site for early agricultural evidence", "Located in Bono East Region", "Provides evidence of pottery and iron", "Crucial for West African prehistory"]},
     descriptionAdvanced: {
@@ -1985,7 +1981,6 @@ export const poiExtraGhanaHistoryV2: POI[] = [
     parent: "GH-CP",
     coords: [-1.3469, 5.0847],
     name: {"de": "Fort St. Jago", "hu": "Fort St. Jago", "ro": "Fortul Sf. Jago", "en": "Fort St. Jago"},
-    image: "/poi-images/fort-st-jago-history-v2.webp",
     description: {"de": "Ein strategisch auf einer Anhöhe gelegenes Fort in Elmina, das im 17. Jahrhundert von Niederländern zur Sicherung des Sklavenschlosses erbaut wurde.", "hu": "Elmina közelében lévő dombi erődítmény, amely a védelmet szolgálta.", "ro": "Fort construit pe un deal cu vedere spre Castelul Elmina, utilizat pentru a supraveghea și proteja baza comercială de jos.", "en": "A fortified position overlooking Elmina Castle, built by the Portuguese for observation and defense."},
     facts: {"de": ["Ursprünglich Fort Coenraadsburg genannt", "Erbaut zwischen 1637 und 1660", "Gilt als ältestes Militärgebäude Westafrikas", "Bietet Panorama-Blick auf Elmina Castle"], "hu": ["Katonai stratégiai pont", "Hollandok építették", "UNESCO világörökség", "Panoráma az erődökre"], "ro": ["Construit în 1665.", "Situat în Elmina.", "Poziție strategică pe deal.", "Protecție pentru Elmina."], "en": ["Original structure built in 1555", "Strategically built on Conraadsburg Hill", "Reflects military architecture", "Offers views of the coastal area"]},
     descriptionAdvanced: {

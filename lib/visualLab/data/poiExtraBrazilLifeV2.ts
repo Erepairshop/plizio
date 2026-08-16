@@ -53,7 +53,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-MT",
     coords: [-57.4475, -17.6531],
     name: { de: "Pantanal Matogrossense Nationalpark", hu: "Pantanal Matogrossense Nemzeti Park", ro: "Parcul Național Pantanal Matogrossense", en: "Pantanal Matogrossense National Park"},
-    image: "/poi-images/pantanal-matogrossense-animal-habitat-life-v2.webp",
     description: { de: "Ein riesiges Feuchtgebiet, das eine der größten Biodiversitäten Südamerikas beherbergt.", hu: "Hatalmas vizes élőhely, amely Dél-Amerika egyik legnagyobb biodiverzitásának ad otthont.", ro: "O zonă umedă imensă care găzduiește una dintre cele mai mari biodiversități din America de Sud.", en: "A vast wetland hosting one of the greatest biodiversities in South America." , es: "Un vasto humedal que alberga una de las mayores biodiversidades de América del Sur.", pt: "Um vasto pântano que abriga uma das maiores biodiversidades da América do Sul.", fr: "Une vaste zone humide abritant l'une des plus grandes biodiversités d'Amérique du Sud."},
     facts: {
       de: ["Größtes Feuchtgebiet der Welt.", "Heimat von Jaguaren und Kaimanen.", "Fläche von über 135.000 km².", "UNESCO-Welterbe."],
@@ -970,7 +969,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-MG",
     coords: [-44.0138, -19.8553],
     name: { de: "Zoo-Botanischer Garten Belo Horizonte", hu: "Belo Horizonte Állatkert és Botanikus Kert", ro: "Grădina Zoologică-Botanică Belo Horizonte", en: "Zoo-Botanical Foundation of Belo Horizonte"},
-    image: "/poi-images/zoo-botanico-bh-kid-landmark-life-v2.webp",
     description: { de: "Ein riesiger Parkkomplex, der einen Zoo, einen Botanischen Garten und ein japanisches Themengebiet umfasst.", hu: "Hatalmas parkkomplexum, amely állatkertet, botanikus kertet és egy japán tematikus területet foglal magába.", ro: "Un complex imens de parcuri care include o grădină zoologică, o grădină botanică și o zonă tematică japoneză.", en: "A vast park complex encompassing a zoo, a botanical garden, and a Japanese thematic area." , es: "Un enorme complejo de parques que incluye un zoológico, un jardín botánico y una zona temática japonesa.", pt: "Um enorme complexo de parques que inclui um zoológico, um jardim botânico e uma área temática japonesa.", fr: "Un immense complexe de parcs comprenant un zoo, un jardin botanique et une zone thématique japonaise."},
     facts: {
       de: ["Über 3000 Tierarten.", "Enthält ein Schmetterlingshaus.", "Gegründet 1959.", "Hat einen großen Süßwasseraquarium-Komplex."],
@@ -1518,7 +1516,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-SP",
     coords: [-47.5925, -23.4283],
     name: { de: "Historische Fazenda Ipanema", hu: "Történelmi Fazenda Ipanema", ro: "Ferma Istorică Ipanema", en: "Historic Fazenda Ipanema"},
-    image: "/poi-images/fazenda-ipanema-agriculture-life-v2.webp",
     description: { de: "Ein historisches landwirtschaftliches Anwesen im Bundesstaat São Paulo, berühmt für den Kaffeeanbau des 19. Jahrhunderts.", hu: "Egy történelmi mezőgazdasági birtok São Paulo államban, amely a 19. századi kávétermesztésről híres.", ro: "O proprietate agricolă istorică din statul São Paulo, renumită pentru cultivarea cafelei în secolul al XIX-lea.", en: "A historic agricultural estate in São Paulo state, famous for 19th-century coffee cultivation." , es: "Una histórica propiedad agrícola en el estado de São Paulo, famosa por el cultivo de café en el siglo XIX.", pt: "Uma histórica propriedade agrícola no estado de São Paulo, famosa pelo cultivo de café no século XIX.", fr: "Un domaine agricole historique dans l'État de São Paulo, célèbre pour la culture du café au XIXe siècle."},
     facts: {
       de: ["Wichtiges Zentrum der Kaffeeproduktion.", "Erbaut im 19. Jahrhundert.", "Heute Teil eines Nationalparks.", "Bewahrt historische Eisenhütten."],
@@ -2390,7 +2387,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-PR",
     coords: [-54.4822, -25.6141],
     name: { de: "Vogelpark Foz do Iguaçu", hu: "Foz do Iguaçu Madárpark", ro: "Parcul Păsărilor Foz do Iguaçu", en: "Bird Park Foz do Iguaçu"},
-    image: "/poi-images/parque-das-aves-animal-habitat-life-v2.webp",
     description: { de: "Ein ökologischer Park, der sich auf den Schutz von Vogelarten des Atlantischen Regenwaldes konzentriert.", hu: "Az atlanti esőerdő madárfajainak védelmére összpontosító ökológiai park.", ro: "Un parc ecologic care se concentrează pe conservarea speciilor de păsări din pădurea tropicală atlantică.", en: "An ecological park focusing on the conservation of Atlantic Rainforest bird species." , es: "Un parque ecológico enfocado en la conservación de especies de aves del Bosque Atlántico.", pt: "Um parque ecológico focado na conservação de espécies de aves da Mata Atlântica.", fr: "Un parc écologique axé sur la protection des espèces d'oiseaux de la forêt atlantique."},
     facts: {
       de: ["Über 1300 Vögel.", "143 verschiedene Arten.", "Riesige begehbare Volieren.", "Liegt nahe den Iguaçu-Wasserfällen."],
@@ -3514,7 +3510,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-MG",
     coords: [-46.5411, -21.7891],
     name: { de: "Fazenda São João Kaffeefarm", hu: "Fazenda São João Kávéfarm", ro: "Ferma de Cafea Fazenda São João", en: "Fazenda São João Coffee Farm"},
-    image: "/poi-images/fazenda-sao-joao-coffee-agriculture-life-v2.webp",
     description: { de: "Eine traditionelle Kaffeefarm im Süden von Minas Gerais, die authentische Einblicke in die brasilianische Kaffeeproduktion bietet.", hu: "Hagyományos kávéfarm Minas Gerais déli részén, amely hiteles bepillantást nyújt a brazil kávétermelésbe.", ro: "O fermă tradițională de cafea din sudul regiunii Minas Gerais care oferă o perspectivă autentică asupra producției braziliene de cafea.", en: "A traditional coffee farm in southern Minas Gerais offering authentic insights into Brazilian coffee production." , es: "Una finca de café tradicional en el sur de Minas Gerais que ofrece una visión auténtica de la producción de café brasileño.", pt: "Uma fazenda de café tradicional no sul de Minas Gerais que oferece visões autênticas da produção cafeeira brasileira.", fr: "Une ferme de café traditionnelle dans le sud du Minas Gerais, offrant un aperçu authentique de la production de café brésilien."},
     facts: {
       de: ["Produziert Spezialitätenkaffee.", "Bietet Verkostungstouren an.", "Fokus auf nachhaltigen Anbau.", "Liegt auf über 1000m Höhe."],
@@ -4854,7 +4849,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-SC",
     coords: [-48.6186, -26.8005],
     name: { de: "Beto Carrero World", hu: "Beto Carrero World", ro: "Beto Carrero World", en: "Beto Carrero World"},
-    image: "/poi-images/beto-carrero-world-kid-landmark-life-v2.webp",
     description: { de: "Der größte Themenpark Lateinamerikas, ideal für Familien und Kinder mit zahlreichen Achterbahnen und Shows.", hu: "Latin-Amerika legnagyobb vidámparkja, ideális családoknak és gyerekeknek számtalan hullámvasúttal és előadással.", ro: "Cel mai mare parc tematic din America Latină, ideal pentru familii și copii cu numeroase montagne russe și spectacole.", en: "The largest theme park in Latin America, ideal for families and children with numerous roller coasters and shows." , es: "El parque temático más grande de América Latina, ideal para familias y niños con numerosas montañas rusas y espectáculos.", pt: "O maior parque temático da América Latina, ideal para famílias e crianças, com inúmeras montanhas-russas e shows.", fr: "Le plus grand parc à thèmes d'Amérique latine, idéal pour les familles et les enfants avec de nombreuses montagnes russes et spectacles."},
     facts: {
       de: ["14 Millionen Quadratmeter groß.", "Gegründet 1991.", "Hat einen eigenen Zoo integriert.", "Mehr als 100 Attraktionen."],
@@ -6194,7 +6188,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-RS",
     coords: [-51.5647, -29.1763],
     name: { de: "Tal der Weinberge (Vale dos Vinhedos)", hu: "Szőlőültetvények Völgye (Vale dos Vinhedos)", ro: "Valea Podgoriilor (Vale dos Vinhedos)", en: "Valley of the Vineyards (Vale dos Vinhedos)"},
-    image: "/poi-images/vale-dos-vinhedos-agriculture-life-v2.webp",
     description: { de: "Die bekannteste Weinbauregion Brasiliens, die stark von italienischen Einwanderern geprägt ist.", hu: "Brazília leghíresebb borvidéke, amelyet erősen meghatároznak az olasz bevándorlók.", ro: "Cea mai renumită regiune viticolă din Brazilia, puternic influențată de imigranții italieni.", en: "Brazil's most famous wine-growing region, heavily influenced by Italian immigrants." , es: "La región vinícola más famosa de Brasil, fuertemente influenciada por los inmigrantes italianos.", pt: "A região vinícola mais famosa do Brasil, fortemente influenciada pelos imigrantes italianos.", fr: "La région viticole la plus célèbre du Brésil, fortement marquée par les immigrants italiens."},
     facts: {
       de: ["Zentrum der brasilianischen Weinproduktion.", "Bekannt für prickelnde Schaumweine.", "Einfluss italienischer Einwanderer.", "Beliebtes Ziel für Weintourismus."],
@@ -6886,7 +6879,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-RS",
     coords: [-50.9002, -29.4187],
     name: { de: "Gramado Zoo", hu: "Gramado Állatkert", ro: "Grădina Zoologică din Gramado", en: "Gramado Zoo"},
-    image: "/poi-images/gramado-zoo-animal-habitat-life-v2.webp",
     description: { de: "Ein Zoo, der ausschließlich der reichen und vielfältigen brasilianischen Tierwelt gewidmet ist.", hu: "Egy állatkert, amelyet kizárólag Brazília gazdag és változatos állatvilágának szenteltek.", ro: "O grădină zoologică dedicată exclusiv faunei sălbatice bogate și diverse a Braziliei.", en: "A zoo dedicated exclusively to the rich and diverse Brazilian wildlife." , es: "Un zoológico dedicado exclusivamente a la rica y diversa fauna brasileña.", pt: "Um zoológico dedicado exclusivamente à rica e diversificada fauna brasileira.", fr: "Un zoo exclusivement dédié à la faune brésilienne riche et diversifiée."},
     facts: {
       de: ["Nur brasilianische Tierarten.", "Keine Gitterkäfige, stattdessen Panzerglas.", "Große begehbare Volieren.", "Schwerpunkt auf Tierschutz und Bildung."],
@@ -8298,7 +8290,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-SP",
     coords: [-46.6111, -23.5938],
     name: { de: "Aquarium von São Paulo", hu: "São Paulo Akvárium", ro: "Acvariul din São Paulo", en: "Aquarium of São Paulo"},
-    image: "/poi-images/aquario-de-sao-paulo-kid-landmark-life-v2.webp",
     description: { de: "Eines der größten Aquarien in Südamerika, das neben Fischen auch Eisbären und Kängurus beheimatet.", hu: "Dél-Amerika egyik legnagyobb akváriuma, amely a halak mellett jegesmedvéknek és kenguruknak is otthont ad.", ro: "Unul dintre cele mai mari acvarii din America de Sud care, pe lângă pești, găzduiește și urși polari și canguri.", en: "One of the largest aquariums in South America, housing polar bears and kangaroos in addition to fish." , es: "Uno de los acuarios más grandes de Sudamérica, que alberga no solo peces, sino también osos polares y canguros.", pt: "Um dos maiores aquários da América do Sul, que abriga não apenas peixes, mas também ursos polares e cangurus.", fr: "L'un des plus grands aquariums d'Amérique du Sud, abritant non seulement des poissons, mais aussi des ours polaires et des kangourous."},
     facts: {
       de: ["Eröffnet im Jahr 2006.", "Über 2 Millionen Liter Wasser.", "Mehr als 3000 Tiere aus 300 Arten.", "Bietet auch eine Pinguin-Anlage."],
@@ -8954,7 +8945,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-RS",
     coords: [-50.8751, -29.3879],
     name: { de: "Snowland Gramado", hu: "Snowland Gramado", ro: "Snowland Gramado", en: "Snowland Gramado"},
-    image: "/poi-images/parque-das-neves-kid-landmark-life-v2.webp",
     description: { de: "Der erste Indoor-Schneepark in Amerika, der Wintersport und Spaß im Schnee für Familien bietet.", hu: "Amerika első beltéri hóparkja, amely téli sportokat és havas szórakozást kínál a családoknak.", ro: "Primul parc de zăpadă acoperit din America, oferind sporturi de iarnă și distracție în zăpadă pentru familii.", en: "The first indoor snow park in the Americas, offering winter sports and snow fun for families." , es: "El primer parque de nieve cubierto de América, que ofrece deportes de invierno y diversión en la nieve para familias.", pt: "O primeiro parque de neve indoor da América, que oferece esportes de inverno e diversão na neve para famílias.", fr: "Le premier parc de neige intérieur d'Amérique, proposant des sports d'hiver et des jeux de neige pour les familles."},
     facts: {
       de: ["Ganzjährig echter Schnee.", "Temperaturen unter Null Grad.", "Bietet Skifahren und Snowboarden.", "Beliebte Attraktion in den Bergen von Südbrasilien."],
@@ -10186,7 +10176,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-PA",
     coords: [-48.4736, -1.4522],
     name: { de: "Museum Emílio Goeldi Zoo-Botanischer Park", hu: "Emílio Goeldi Múzeum Állat- és Növénytani Parkja", ro: "Parcul Zoo-Botanic Muzeul Emílio Goeldi", en: "Emílio Goeldi Museum Zoo-Botanical Park"},
-    image: "/poi-images/museu-paraense-emilio-goeldi-animal-habitat-life-v2.webp",
     description: { de: "Eine bedeutende Forschungseinrichtung und ein Park im Amazonasgebiet, der sich der lokalen Flora und Fauna widmet.", hu: "Fontos amazóniai kutatóintézet és park, amely a helyi növény- és állatvilágnak szenteli magát.", ro: "O instituție importantă de cercetare și un parc din Amazon, dedicată florei și faunei locale.", en: "A major research institution and park in the Amazon dedicated to the local flora and fauna." , es: "Una importante institución de investigación y parque en la región amazónica, dedicada a la flora y fauna locales.", pt: "Uma importante instituição de pesquisa e parque na Amazônia, dedicada à flora e fauna locais.", fr: "Une importante institution de recherche et un parc en Amazonie, consacrés à la flore et à la faune locales."},
     facts: {
       de: ["Gegründet im Jahr 1866.", "Fokus auf die Biodiversität des Amazonas.", "Besitzt über 2000 amazonische Pflanzen.", "Beliebt für Bildungsausflüge."],
@@ -11382,7 +11371,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-BA",
     coords: [-39.0494, -14.7865],
     name: { de: "Die Kakaoroute von Bahia", hu: "Bahia Kakaóútja", ro: "Traseul Cacauei din Bahia", en: "The Cocoa Route of Bahia"},
-    image: "/poi-images/rota-do-cacau-agriculture-life-v2.webp",
     description: { de: "Eine landwirtschaftliche Region in Bahia, die historisch für den Anbau von Kakao und die Herstellung von Schokolade bekannt ist.", hu: "Bahia mezőgazdasági régiója, amely történelmileg a kakaótermesztésről és a csokoládégyártásról ismert.", ro: "O regiune agricolă din Bahia, cunoscută istoric pentru cultivarea cacauei și producția de ciocolată.", en: "An agricultural region in Bahia historically known for cocoa cultivation and chocolate production." , es: "Una región agrícola en Bahía, históricamente conocida por el cultivo de cacao y la producción de chocolate.", pt: "Uma região agrícola na Bahia, historicamente conhecida pelo cultivo de cacau e pela produção de chocolate.", fr: "Une région agricole de Bahia, historiquement réputée pour la culture du cacao et la fabrication du chocolat."},
     facts: {
       de: ["Zentrum des brasilianischen Kakaoanbaus.", "Schauplatz berühmter Jorge-Amado-Romane.", "Historische Kakaofarmen (Fazendas).", "Heute Fokus auf Premium-Schokolade."],
@@ -12002,7 +11990,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-SP",
     coords: [-46.5562, -23.7025],
     name: { de: "Stadt der Kinder", hu: "Gyermekek Városa", ro: "Orașul Copiilor", en: "City of Children (Cidade da Criança)"},
-    image: "/poi-images/cidade-das-criancas-kid-landmark-life-v2.webp",
     description: { de: "Der erste Themenpark in Brasilien, speziell für Familien und jüngere Kinder entworfen.", hu: "Brazília első vidámparkja, amelyet kifejezetten családok és kisebb gyermekek számára terveztek.", ro: "Primul parc tematic din Brazilia, conceput special pentru familii și copiii mai mici.", en: "The first theme park in Brazil, designed specifically for families and younger children." , es: "El primer parque temático de Brasil, diseñado especialmente para familias y niños pequeños.", pt: "O primeiro parque temático do Brasil, projetado especialmente para famílias e crianças pequenas.", fr: "Le premier parc à thèmes du Brésil, spécialement conçu pour les familles et les jeunes enfants."},
     facts: {
       de: ["Eröffnet im Oktober 1968.", "Befindet sich in São Bernardo do Campo.", "Zahlreiche klassische Karussells.", "Wurde kürzlich renoviert."],
@@ -13495,7 +13482,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-SP",
     coords: [-46.6212, -23.6508],
     name: { de: "Zoo von São Paulo", hu: "São Paulo Állatkert", ro: "Grădina Zoologică din São Paulo", en: "São Paulo Zoo"},
-    image: "/poi-images/parque-zoologico-de-sao-paulo-kid-landmark-life-v2.webp",
     description: { de: "Einer der größten und ältesten Zoos in Brasilien, mitten in einem erhaltenen Bereich des atlantischen Regenwaldes.", hu: "Brazília egyik legnagyobb és legrégebbi állatkertje, az atlanti esőerdő egyik megőrzött részén.", ro: "Una dintre cele mai mari și mai vechi grădini zoologice din Brazilia, aflată în mijlocul unei zone conservate din pădurea tropicală atlantică.", en: "One of the largest and oldest zoos in Brazil, located amidst a preserved area of the Atlantic Forest." , es: "Uno de los zoológicos más grandes y antiguos de Brasil, en medio de un área preservada de bosque atlántico.", pt: "Um dos maiores e mais antigos zoológicos do Brasil, em meio a uma área preservada de Mata Atlântica.", fr: "L'un des plus grands et plus anciens zoos du Brésil, au cœur d'une zone préservée de forêt atlantique."},
     facts: {
       de: ["Eröffnet im Jahr 1958.", "Beherbergt mehr als 3200 Tiere.", "Liegt in einem staatlichen Naturpark.", "Besitzt eine große Safari-Route."],
@@ -14295,7 +14281,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-RJ",
     coords: [-44.7171, -23.2201],
     name: { de: "Nachhaltige Fazenda Bananal", hu: "Fenntartható Fazenda Bananal", ro: "Ferma Durabilă Fazenda Bananal", en: "Sustainable Fazenda Bananal"},
-    image: "/poi-images/fazenda-bananal-agriculture-life-v2.webp",
     description: { de: "Eine ökologische Farm in Paraty, die traditionelle Landwirtschaft mit modernem Umweltbewusstsein verbindet.", hu: "Egy ökológiai farm Paratyban, amely a hagyományos mezőgazdaságot a modern környezettudatossággal ötvözi.", ro: "O fermă ecologică din Paraty care combină agricultura tradițională cu conștientizarea mediului modern.", en: "An ecological farm in Paraty that combines traditional agriculture with modern environmental awareness." , es: "Una granja ecológica en Paraty que combina la agricultura tradicional con la conciencia ambiental moderna.", pt: "Uma fazenda ecológica em Paraty que une a agricultura tradicional à consciência ambiental moderna.", fr: "Une ferme écologique à Paraty qui allie l'agriculture traditionnelle à une conscience environnementale moderne."},
     facts: {
       de: ["Fokus auf Agroforstwirtschaft.", "Bietet Bildungsprogramme an.", "Erzeugt Bio-Lebensmittel.", "Stammt aus dem 17. Jahrhundert."],
@@ -15275,7 +15260,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-SE",
     coords: [-37.0396, -10.9859],
     name: { de: "Ozeanarium von Aracaju", hu: "Aracaju Óceanárium", ro: "Oceanariul din Aracaju", en: "Aracaju Oceanarium"},
-    image: "/poi-images/oceanario-de-aracaju-animal-habitat-life-v2.webp",
     description: { de: "Das erste Ozeanarium im Nordosten Brasiliens, das vom Tamar-Projekt betrieben wird und lokale Meereslebewesen zeigt.", hu: "Brazília északkeleti részének első óceanáriuma, amelyet a Tamar Projekt üzemeltet, és bemutatja a helyi tengeri élővilágot.", ro: "Primul oceanariu din nord-estul Braziliei, operat de Proiectul Tamar și care prezintă viața marină locală.", en: "The first oceanarium in Northeastern Brazil, operated by the Tamar Project, showcasing local marine life." , es: "El primer oceanario del noreste de Brasil, operado por el Proyecto Tamar, que muestra la vida marina local.", pt: "O primeiro oceanário do Nordeste do Brasil, operado pelo Projeto Tamar, que mostra a vida marinha local.", fr: "Le premier océanarium du nord-est du Brésil, géré par le projet Tamar, présentant la vie marine locale."},
     facts: {
       de: ["Gebäude in Form einer Schildkröte.", "Rund 70 verschiedene Arten.", "Einblicke in das Leben von Seepferdchen.", "Teil des Meeresschildkröten-Schutzes."],
@@ -16579,7 +16563,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-RJ",
     coords: [-43.2241, -22.9056],
     name: { de: "BioParque do Rio", hu: "BioParque do Rio", ro: "BioParque do Rio", en: "BioParque do Rio"},
-    image: "/poi-images/bioparque-rio-kid-landmark-life-v2.webp",
     description: { de: "Ein moderner Zoo in Rio de Janeiro, der das klassische Zoo-Konzept in ein Zentrum für den Schutz der Biodiversität verwandelt hat.", hu: "Egy modern állatkert Rio de Janeiróban, amely a klasszikus állatkert-koncepciót a biodiverzitás védelmének központjává alakította át.", ro: "O grădină zoologică modernă din Rio de Janeiro, care a transformat conceptul clasic de grădină zoologică într-un centru pentru protecția biodiversității.", en: "A modern zoo in Rio de Janeiro that transformed the classic zoo concept into a biodiversity conservation center." , es: "Un moderno zoológico en Río de Janeiro que ha transformado el concepto clásico de zoo en un centro para la protección de la biodiversidad.", pt: "Um moderno zoológico no Rio de Janeiro que transformou o conceito clássico de zoo em um centro para a proteção da biodiversidade.", fr: "Un zoo moderne à Rio de Janeiro qui a transformé le concept classique de zoo en un centre de protection de la biodiversité."},
     facts: {
       de: ["Ersetzte den alten Zoo von Rio.", "Keine herkömmlichen Käfige mehr.", "Fokus auf Forschung und Erhaltung.", "Große Savannen-Nachbildung."],
@@ -17811,7 +17794,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-SP",
     coords: [-46.6339, -23.4566],
     name: { de: "Waldpark Horto Florestal", hu: "Horto Florestal Erdei Park", ro: "Parcul Forestier Horto Florestal", en: "Horto Florestal Forest Park"},
-    image: "/poi-images/horto-florestal-sao-paulo-kid-landmark-life-v2.webp",
     description: { de: "Ein großer Stadtpark im Norden von São Paulo, der Familien Erholungsflächen in der Natur bietet.", hu: "Nagy városi park São Paulo északi részén, amely kikapcsolódási lehetőséget kínál a családoknak a természetben.", ro: "Un mare parc urban din nordul orașului São Paulo care oferă familiilor spații de recreere în natură.", en: "A large urban park in northern São Paulo, offering families recreational areas in nature." , es: "Un gran parque urbano en el norte de São Paulo que ofrece áreas de recreación para familias en la naturaleza.", pt: "Um grande parque urbano no norte de São Paulo que oferece áreas de lazer na natureza para famílias.", fr: "Un grand parc urbain au nord de São Paulo offrant des espaces de loisirs en pleine nature pour les familles."},
     facts: {
       de: ["Über 170 Hektar Grünfläche.", "Heimat vieler Kapuzineraffen.", "Zahlreiche Picknick- und Spielplätze.", "Gegründet 1896."],
@@ -18683,7 +18665,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-PE",
     coords: [-35.0331, -8.3842],
     name: { de: "Zuckermühle Massangana", hu: "Massangana Cukormalom", ro: "Moara de Zahăr Massangana", en: "Massangana Sugar Mill"},
-    image: "/poi-images/engenho-massangana-agriculture-life-v2.webp",
     description: { de: "Eine historische Zuckerrohrplantage in Pernambuco, die wichtig für das Verständnis der landwirtschaftlichen Geschichte der Region ist.", hu: "Egy történelmi cukornádültetvény Pernambucóban, amely fontos a régió mezőgazdasági történelmének megértéséhez.", ro: "O plantație istorică de trestie de zahăr din Pernambuco care este importantă pentru înțelegerea istoriei agricole a regiunii.", en: "A historic sugarcane plantation in Pernambuco, important for understanding the agricultural history of the region." , es: "Una plantación de azúcar histórica en Pernambuco, fundamental para comprender la historia agrícola de la región.", pt: "Uma histórica plantação de cana-de-açúcar em Pernambuco, essencial para compreender a história agrícola da região.", fr: "Une plantation de canne à sucre historique à Pernambuco, essentielle pour comprendre l'histoire agricole de la région."},
     facts: {
       de: ["Stammt aus dem 19. Jahrhundert.", "Museum für die Geschichte des Zuckerrohrs.", "Verbund mit dem Abolitionisten Joaquim Nabuco.", "Erhaltene Herrenhäuser und Mühlen."],
@@ -18871,7 +18852,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-RJ",
     coords: [-42.2789, -22.5186],
     name: { de: "Biologisches Reservat Poço das Antas", hu: "Poço das Antas Biológiai Rezervátum", ro: "Rezervația Biologică Poço das Antas", en: "Poço das Antas Biological Reserve"},
-    image: "/poi-images/reserva-biologica-de-poco-das-antas-animal-habitat-life-v2.webp",
     description: { de: "Eines der wichtigsten Reservate zum Schutz des stark gefährdeten Goldenen Löwenäffchens.", hu: "A súlyosan veszélyeztetett arany oroszlánmajmocska védelmére szolgáló egyik legfontosabb rezervátum.", ro: "Una dintre cele mai importante rezervații pentru protecția tamarinului leu auriu, aflat pe cale de dispariție.", en: "One of the most important reserves for the protection of the highly endangered golden lion tamarin." , es: "Una de las reservas más importantes para la protección del tití león dorado, especie en grave peligro de extinción.", pt: "Uma das reservas mais importantes para a proteção do mico-leão-dourado, espécie em grave perigo de extinção.", fr: "L'une des réserves les plus importantes pour la protection du tamarin-lion doré, une espèce gravement menacée."},
     facts: {
       de: ["Erstes biologisches Reservat Brasiliens.", "Gegründet im Jahr 1974.", "Rund 5000 Hektar groß.", "Zentrum zum Schutz von Primaten."],
@@ -19131,7 +19111,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-SP",
     coords: [-47.2341, -22.3812],
     name: { de: "Öko-Farm Fazenda da Toca", hu: "Fazenda da Toca Ökofarm", ro: "Ferma Eco Fazenda da Toca", en: "Eco-Farm Fazenda da Toca"},
-    image: "/poi-images/fazenda-da-toca-agriculture-life-v2.webp",
     description: { de: "Einer der größten Produzenten von Bio-Eiern und Bio-Zitrusfrüchten in Brasilien mit Fokus auf Permakultur.", hu: "Brazília egyik legnagyobb biotojás- és biocitrus-termelője, a permakultúrára fókuszálva.", ro: "Unul dintre cei mai mari producători de ouă organice și citrice organice din Brazilia, cu accent pe permacultură.", en: "One of the largest producers of organic eggs and organic citrus fruits in Brazil, focusing on permaculture." , es: "Uno de los mayores productores de huevos y cítricos orgánicos de Brasil, con un enfoque en la permacultura.", pt: "Um dos maiores produtores de ovos e cítricos orgânicos do Brasil, com foco em permacultura.", fr: "L'un des plus grands producteurs d'œufs et d'agrumes biologiques du Brésil, axé sur la permaculture."},
     facts: {
       de: ["Pionier der Agrarökologie.", "Über 2300 Hektar Land.", "Integriert Bildung und Landwirtschaft.", "Verwendet keine chemischen Pestizide."],
@@ -20471,7 +20450,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-PR",
     coords: [-49.2316, -25.5686],
     name: { de: "Zoo von Curitiba", hu: "Curitibai Állatkert", ro: "Grădina Zoologică din Curitiba", en: "Curitiba Zoo"},
-    image: "/poi-images/zoologico-de-curitiba-kid-landmark-life-v2.webp",
     description: { de: "Ein weitläufiger Zoo im Süden Brasiliens, der Teil eines großen regionalen Parks ist und viele bedrohte Arten beherbergt.", hu: "Egy kiterjedt állatkert Dél-Brazíliában, amely egy nagy regionális park része, és számos veszélyeztetett fajnak ad otthont.", ro: "O grădină zoologică întinsă din sudul Braziliei care face parte dintr-un mare parc regional și găzduiește multe specii pe cale de dispariție.", en: "An extensive zoo in southern Brazil that is part of a large regional park and houses many endangered species." , es: "Un extenso zoológico en el sur de Brasil, parte de un gran parque regional, que alberga muchas especies en peligro.", pt: "Um vasto zoológico no sul do Brasil, parte de um grande parque regional, que abriga muitas espécies ameaçadas.", fr: "Un vaste zoo du sud du Brésil, intégré à un grand parc régional, abritant de nombreuses espèces menacées."},
     facts: {
       de: ["Eröffnet im Jahr 1982.", "Rund 1800 Tiere.", "Liegt im Iguaçu Regionalpark.", "Eintritt ist kostenlos."],
@@ -20875,7 +20853,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-MT",
     coords: [-55.8571, -15.3421],
     name: { de: "Elefanten-Schutzgebiet Brasilien", hu: "Brazíliai Elefántrezervátum", ro: "Sanctuarul de Elefanți din Brazilia", en: "Elephant Sanctuary Brazil"},
-    image: "/poi-images/santuario-de-elefantes-brasil-animal-habitat-life-v2.webp",
     description: { de: "Das erste und einzige Schutzgebiet für gerettete Elefanten in Lateinamerika.", hu: "Az első és egyetlen menedékhely megmentett elefántok számára Latin-Amerikában.", ro: "Primul și singurul sanctuar pentru elefanți salvați din America Latină.", en: "The first and only sanctuary for rescued elephants in Latin America." , es: "El primer y único santuario para elefantes rescatados en América Latina.", pt: "O primeiro e único santuário para elefantes resgatados na América Latina.", fr: "Le premier et seul sanctuaire pour éléphants rescapés en Amérique latine."},
     facts: {
       de: ["Nimmt ehemalige Zirkuselefanten auf.", "Bietet weite, natürliche Lebensräume.", "Nicht für das allgemeine Publikum geöffnet.", "Gegründet im Jahr 2013."],
@@ -22071,7 +22048,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-SP",
     coords: [-46.3276, -23.9314],
     name: { de: "Kaffeemuseum Santos", hu: "Santos Kávémúzeum", ro: "Muzeul Cafelei din Santos", en: "Coffee Museum Santos"},
-    image: "/poi-images/museu-do-cafe-santos-agriculture-life-v2.webp",
     description: { de: "Ein Museum im historischen Gebäude der ehemaligen Kaffeebörse, das der Geschichte des Kaffeehandels gewidmet ist.", hu: "Múzeum az egykori kávétőzsde történelmi épületében, amelyet a kávékereskedelem történetének szenteltek.", ro: "Un muzeu în clădirea istorică a fostei burse de cafea, dedicat istoriei comerțului cu cafea.", en: "A museum in the historic building of the former Coffee Exchange, dedicated to the history of the coffee trade." , es: "Un museo en el edificio histórico de la antigua Bolsa de Café, dedicado a la historia del comercio de café.", pt: "Um museu no edifício histórico da antiga Bolsa do Café, dedicado à história do comércio cafeeiro.", fr: "Un musée situé dans le bâtiment historique de l'ancienne bourse du café, dédié à l'histoire du commerce du café."},
     facts: {
       de: ["Untergebracht im Palast der Kaffeebörse.", "Zeigt Werkzeuge des Kaffeeanbaus.", "Betreibt ein eigenes Café mit Premium-Röstungen.", "Eröffnet im Jahr 1998 als Museum."],
@@ -23339,7 +23315,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-GO",
     coords: [-49.2451, -16.6719],
     name: { de: "Freizeitpark Mutirama", hu: "Mutirama Vidámpark", ro: "Parcul de Distracții Mutirama", en: "Mutirama Amusement Park"},
-    image: "/poi-images/parque-mutirama-kid-landmark-life-v2.webp",
     description: { de: "Ein traditioneller, öffentlicher Freizeitpark in Goiânia, der seit Generationen ein beliebtes Ziel für Familien ist.", hu: "Egy hagyományos, nyilvános vidámpark Goiâniában, amely generációk óta népszerű családi úti cél.", ro: "Un parc de distracții tradițional, public în Goiânia, care a fost o destinație populară pentru familii de generații.", en: "A traditional, public amusement park in Goiânia that has been a popular destination for families for generations." , es: "Un parque de atracciones público y tradicional en Goiânia, destino favorito de las familias desde hace generaciones.", pt: "Um parque de diversões público e tradicional em Goiânia, destino favorito das famílias há gerações.", fr: "Un parc d'attractions public et traditionnel à Goiânia, destination prisée des familles depuis des générations."},
     facts: {
       de: ["Eröffnet im Jahr 1969.", "Bietet mehr als 20 Attraktionen.", "Befindet sich im Zentrum von Goiânia.", "Kürzlich modernisiert."],
@@ -24391,7 +24366,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
     parent: "BR-SP",
     coords: [-45.0681, -23.4475],
     name: { de: "Tamar-Stiftung Ubatuba", hu: "Tamar Alapítvány Ubatuba", ro: "Fundația Tamar Ubatuba", en: "Tamar Foundation Ubatuba"},
-    image: "/poi-images/fundacao-tamar-ubatuba-animal-habitat-life-v2.webp",
     description: { de: "Eine wichtige Basis für den Schutz von Meeresschildkröten an der Nordküste des Bundesstaates São Paulo.", hu: "A tengeri teknősök védelmének fontos bázisa São Paulo állam északi partvidékén.", ro: "O bază importantă pentru protecția țestoaselor marine pe coasta de nord a statului São Paulo.", en: "An important base for the protection of marine turtles on the north coast of São Paulo state." , es: "Una base importante para la protección de las tortugas marinas en la costa norte del estado de São Paulo.", pt: "Uma base importante para a proteção das tartarugas marinhas no litoral norte do estado de São Paulo.", fr: "Une base importante pour la protection des tortues marines sur la côte nord de l'État de São Paulo."},
     facts: {
       de: ["Rettungs- und Rehabilitationszentrum.", "Zeigt verschiedene Meeresschildkrötenarten.", "Interaktive Bildungsprogramme.", "Zieht jährlich viele Schulklassen an."],

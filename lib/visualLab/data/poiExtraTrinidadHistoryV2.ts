@@ -8,7 +8,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-61.50, 10.65],
     name: { de: "Fort Gros Islet", hu: "Gros Islet erőd", ro: "Fortul Gros Islet", en: "Fort Gros Islet"},
-    image: "/poi-images/tt-fort-gros-islet-history-v2.webp",
     description: { de: "Historische Befestigung bei Port of Spain.", hu: "Történelmi erődítmény Port of Spain közelében.", ro: "Fortificație istorică lângă Port of Spain.", en: "Historic fortification near Port of Spain." , es: "Fortificación histórica cerca de Puerto España.", pt: "Fortificação histórica perto de Port of Spain.", fr: "Fortification historique près de Port-d'Espagne."},
     facts: {
       de: ["Erbaut im 18. Jahrhundert", "Diente der Verteidigung", "Strategische Lage am Hafen", "Heute ein historisches Denkmal"],
@@ -44,7 +43,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-61.40, 10.65],
     name: { de: "St. Joseph Ruinen", hu: "St. Joseph romok", ro: "Ruinele St. Joseph", en: "St. Joseph Ruins"},
-    image: "/poi-images/tt-st-joseph-ruins-history-v2.webp",
     description: { de: "Überreste der ersten spanischen Hauptstadt von Trinidad.", hu: "Trinidad első spanyol fővárosának maradványai.", ro: "Rămășițele primei capitale spaniole a Trinidadului.", en: "Remains of the first Spanish capital of Trinidad." , es: "Restos de la primera capital española de Trinidad.", pt: "Restos da primeira capital espanhola de Trinidad.", fr: "Restes de la première capitale espagnole de Trinidad."},
     facts: {
       de: ["Gegründet 1592", "Älteste europäische Siedlung", "Einstiges administratives Zentrum", "Archäologische Stätte"],
@@ -80,7 +78,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-61.46, 10.28],
     name: { de: "San Fernando Befestigungen", hu: "San Fernando erődítések", ro: "Fortificațiile San Fernando", en: "San Fernando Fortifications"},
-    image: "/poi-images/tt-san-fernando-fort-history-v2.webp",
     description: { de: "Historische Verteidigungslinien in San Fernando.", hu: "Történelmi védvonalak San Fernandóban.", ro: "Linii defensive istorice în San Fernando.", en: "Historic defensive lines in San Fernando." , es: "Líneas defensivas históricas en San Fernando.", pt: "Linhas defensivas históricas em San Fernando.", fr: "Lignes de défense historiques à San Fernando."},
     facts: {
       de: ["Schutz vor Überfällen", "Beobachtungsposten", "Erbaut im 18. Jahrhundert", "Blick auf den Golf"],
@@ -116,7 +113,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-61.20, 10.60],
     name: { de: "Missionsruinen Arima", hu: "Arima missziós romok", ro: "Ruinele misiunii Arima", en: "Arima Mission Ruins"},
-    image: "/poi-images/tt-mission-ruins-history-v2.webp",
     description: { de: "Überreste alter spanischer Missionsstationen.", hu: "Régi spanyol missziós állomások maradványai.", ro: "Rămășițele vechilor stații misionare spaniole.", en: "Remains of old Spanish mission stations." , es: "Restos de antiguas estaciones misioneras españolas.", pt: "Ruínas de antigas estações missionárias espanholas.", fr: "Vestiges d'anciennes stations missionnaires espagnoles."},
     facts: {
       de: ["Christianisierung der Ureinwohner", "Erbaut durch Kapuziner", "Koloniale Architekturspuren", "Historisches Kulturerbe"],
@@ -152,7 +148,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-61.57, 10.67],
     name: { de: "Carenage Verteidigungsanlage", hu: "Carenage védelmi létesítmény", ro: "Facilitatea defensivă Carenage", en: "Carenage Defensive Site"},
-    image: "/poi-images/tt-carenage-fort-history-v2.webp",
     description: { de: "Küstenbefestigung westlich von Port of Spain.", hu: "Parti erődítmény Port of Spaintől nyugatra.", ro: "Fortificație de coastă la vest de Port of Spain.", en: "Coastal fortification west of Port of Spain." , es: "Fortificación costera al oeste de Puerto España.", pt: "Fortificação costeira a oeste de Port of Spain.", fr: "Fortification côtière à l'ouest de Port-d'Espagne."},
     facts: {
       de: ["Schutz der Küstenlinie", "Teil des kolonialen Abwehrsystems", "Blick auf das Meer", "Historische Ruinen"],
@@ -224,7 +219,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-61.35, 10.60],
     name: { de: "Spanische Siedlungsruinen", hu: "Spanyol település romok", ro: "Ruinele așezării spaniole", en: "Spanish Settlement Ruins"},
-    image: "/poi-images/tt-spanishtown-ruins-history-v2.webp",
     description: { de: "Ausgrabungsstätte einer frühen Siedlung.", hu: "Egy korai település ásatási helyszíne.", ro: "Situl arheologic al unei așezări timpurii.", en: "Excavation site of an early settlement." , es: "Sitio de excavación de un asentamiento temprano.", pt: "Local de escavação de um assentamento antigo.", fr: "Site de fouilles d'un ancien établissement."},
     facts: {
       de: ["Frühe Kolonialgeschichte", "Handelsplatz", "Archäologische Funde", "17. Jahrhundert"],
@@ -296,7 +290,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-61.50, 10.65],
     name: { de: "Altes Gerichtsgebäude", hu: "Régi bírósági épület", ro: "Vechea clădire a tribunalului", en: "Old Courthouse"},
-    image: "/poi-images/tt-old-courthouse-history-v2.webp",
     description: { de: "Historisches Justizgebäude aus der Kolonialzeit.", hu: "Történelmi igazságügyi épület a gyarmati időkből.", ro: "Clădire istorică a justiției din perioada colonială.", en: "Historic justice building from colonial times." , es: "Histórico edificio judicial de la época colonial.", pt: "Histórico edifício judicial da época colonial.", fr: "Bâtiment judiciaire historique de l'époque coloniale."},
     facts: {
       de: ["Rechtsprechung im 19. Jahrhundert", "Architekturdenkmal", "Zentraler Regierungsort", "Restauriertes Erbe"],
@@ -332,7 +325,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-61.52, 10.67],
     name: { de: "Zitadelle Port of Spain", hu: "Port of Spain citadella", ro: "Citadela Port of Spain", en: "Port of Spain Citadel"},
-    image: "/poi-images/tt-port-of-spain-citadel-history-v2.webp",
     description: { de: "Ehemalige Verteidigungszitadelle der Stadt.", hu: "A város egykori védelmi citadellája.", ro: "Fosta citadelă defensivă a orașului.", en: "Former defensive citadel of the city." , es: "Antigua ciudadela de defensa de la ciudad.", pt: "Antiga cidadela de defesa da cidade.", fr: "Ancienne citadelle défensive de la ville."},
     facts: {
       de: ["Schutz der Hauptstadt", "Überblick über den Golf", "Historisches Bauwerk", "Erbaut um 1800"],
@@ -368,7 +360,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-60.70, 11.20],
     name: { de: "Holländische Siedlungsstätte", hu: "Holland településhely", ro: "Situl așezării olandeze", en: "Dutch Settlement Site"},
-    image: "/poi-images/tt-dutch-settlement-site-history-v2.webp",
     description: { de: "Archäologischer Fundort einer niederländischen Kolonie.", hu: "Egy holland kolónia régészeti ásatási helyszíne.", ro: "Situl arheologic al unei colonii olandeze.", en: "Archaeological site of a Dutch colony." , es: "Sitio arqueológico de una colonia holandesa.", pt: "Sítio arqueológico de uma colónia holandesa.", fr: "Site archéologique d'une colonie hollandaise."},
     facts: {
       de: ["Frühe Handelserfolge", "Koloniales Erbe", "Archäologische Ausgrabungen", "17. Jahrhundert"],
@@ -404,7 +395,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-61.30, 10.55],
     name: { de: "Herrenhaus-Ruinen", hu: "Kúria-romok", ro: "Ruinele conacului", en: "Manor Ruins"},
-    image: "/poi-images/tt-plantation-manor-ruins-history-v2.webp",
     description: { de: "Überreste eines alten Plantagen-Herrenhauses.", hu: "Egy régi ültetvény kúriájának maradványai.", ro: "Rămășițele conacului unei vechi plantații.", en: "Remains of an old plantation manor." , es: "Restos de una antigua casa señorial de plantación.", pt: "Ruínas de uma antiga casa senhorial de plantação.", fr: "Vestiges d'un ancien manoir de plantation."},
     facts: {
       de: ["Soziales Zentrum der Plantage", "Architektonische Details", "Koloniale Lebensweise", "Historische Fundstätte"],
@@ -512,7 +502,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-61.53, 10.68],
     name: { de: "Militärkrankenhaus-Ruinen", hu: "Katonai kórház romok", ro: "Ruinele spitalului militar", en: "Military Hospital Ruins"},
-    image: "/poi-images/tt-military-hospital-ruins-history-v2.webp",
     description: { de: "Überreste eines alten Krankenhauses für Soldaten.", hu: "Egy régi katonai kórház maradványai.", ro: "Rămășițele unui vechi spital pentru soldați.", en: "Remains of an old hospital for soldiers." , es: "Restos de un antiguo hospital para soldados.", pt: "Ruínas de um antigo hospital para soldados.", fr: "Vestiges d'un ancien hôpital pour soldats."},
     facts: {
       de: ["Versorgung von Militärpersonal", "Koloniale Medizin", "Architekturgeschichte", "Ruinenstätte"],
@@ -548,7 +537,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-61.50, 10.66],
     name: { de: "Sklavenmarkt-Stätte", hu: "Rabszolgapiac helyszíne", ro: "Locul pieței de sclavi", en: "Slave Market Site"},
-    image: "/poi-images/tt-slave-market-site-history-v2.webp",
     description: { de: "Denkmalgeschützter Ort der Sklavenzeit.", hu: "A rabszolgatartás korának emlékműhelye.", ro: "Loc protejat al erei sclaviei.", en: "Memorialized site of the slave era." , es: "Sitio protegido de la era de la esclavitud.", pt: "Local protegido da era da escravidão.", fr: "Site protégé de l'époque de l'esclavage."},
     facts: {
       de: ["Dunkles Kapitel der Geschichte", "Historische Erinnerung", "Ort der Mahnung", "Kolonialer Handel"],
@@ -584,7 +572,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-61.42, 10.50],
     name: { de: "Historische Zuckerraffinerie", hu: "Történelmi cukorfinomító", ro: "Rafinărie istorică de zahăr", en: "Historic Sugar Refinery"},
-    image: "/poi-images/tt-sugar-refinery-history-v2.webp",
     description: { de: "Überreste einer Raffinerie.", hu: "Egy finomító maradványai.", ro: "Rămășițele unei rafinării.", en: "Remains of a refinery." , es: "Restos de una refinería.", pt: "Restos de uma refinaria.", fr: "Restes d'une raffinerie."},
     facts: {
       de: ["Zuckerproduktion", "Industrielle Architektur", "19. Jahrhundert", "Historisches Relikt"],
@@ -620,7 +607,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-60.76, 11.21],
     name: { de: "Holländisches Fort Tobago", hu: "Holland erőd Tobago", ro: "Fortul olandez Tobago", en: "Dutch Fort Tobago"},
-    image: "/poi-images/tt-dutch-fort-tobago-history-v2.webp",
     description: { de: "Befestigungsanlage der Niederländer.", hu: "Holland erődítmény.", ro: "Fortificație olandeză.", en: "Dutch fortification." , es: "Fortificación de los holandeses.", pt: "Fortificação dos holandeses.", fr: "Fortification des Hollandais."},
     facts: {
       de: ["Kolonialstrategie", "Erbaut im 17. Jahrhundert", "Befestigung der Küste", "Trockenmauern"],
@@ -656,7 +642,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-61.31, 10.68],
     name: { de: "Kakaotrockenplatz", hu: "Kakaószárító", ro: "Loc de uscare a cacao-ului", en: "Cocoa Drying Floor"},
-    image: "/poi-images/tt-cocoa-drying-floor-history-v2.webp",
     description: { de: "Traditioneller Platz zum Trocknen von Kakao.", hu: "Hagyományos kakaószárító hely.", ro: "Loc tradițional pentru uscarea cacao-ului.", en: "Traditional floor for drying cocoa." , es: "Lugar tradicional para el secado de cacao.", pt: "Local tradicional para secagem de cacau.", fr: "Lieu traditionnel pour le séchage du cacao."},
     facts: {
       de: ["Landwirtschaftliche Tradition", "Kakao-Vorbereitung", "Historische Anlage", "Kulturelles Erbe"],
@@ -692,7 +677,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-61.40, 10.60],
     name: { de: "Spanische Garnison", hu: "Spanyol helyőrség", ro: "Garnizoana spaniolă", en: "Spanish Garrison"},
-    image: "/poi-images/tt-spanish-garrison-history-v2.webp",
     description: { de: "Historische Station spanischer Soldaten.", hu: "Spanyol katonák történelmi állomása.", ro: "Stație istorică a soldaților spanioli.", en: "Historic station for Spanish soldiers." , es: "Antigua estación de soldados españoles.", pt: "Antiga estação de soldados espanhóis.", fr: "Ancienne station de soldats espagnols."},
     facts: {
       de: ["Militärpräsenz", "Koloniale Sicherung", "Historische Gebäude", "18. Jahrhundert"],
@@ -728,7 +712,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-61.25, 10.55],
     name: { de: "Indigofärbebecken", hu: "Indigófestő kád", ro: "Cuva de vopsit indigo", en: "Indigo Dye Vat"},
-    image: "/poi-images/tt-indigo-vat-history-v2.webp",
     description: { de: "Historische Anlage zur Indigo-Herstellung.", hu: "Történelmi létesítmény indigó gyártásához.", ro: "Instalație istorică pentru producția de indigo.", en: "Historic facility for indigo production." , es: "Antigua instalación para la producción de índigo.", pt: "Antiga instalação de produção de índigo.", fr: "Ancienne installation de production d'indigo."},
     facts: {
       de: ["Farbstoffherstellung", "Frühe Industrie", "Koloniales Erbe", "Traditionelle Techniken"],
@@ -764,7 +747,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-60.70, 11.15],
     name: { de: "Zuckerwerkstätten Tobago", hu: "Tobago cukorműhelyek", ro: "Atelierele de zahăr Tobago", en: "Tobago Sugar Works"},
-    image: "/poi-images/tt-tobago-sugar-works-history-v2.webp",
     description: { de: "Überreste einer Zuckermanufaktur.", hu: "Egy cukormanufaktúra maradványai.", ro: "Rămășițele unei manufacturi de zahăr.", en: "Remains of a sugar manufactory." , es: "Restos de una fábrica de azúcar.", pt: "Restos de uma fábrica de açúcar.", fr: "Vestiges d'une manufacture de sucre."},
     facts: {
       de: ["Produktionsstätten", "Historische Maschinen", "Zuckerverarbeitung", "Landwirtschaftliche Geschichte"],
@@ -800,7 +782,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-60.80, 11.20],
     name: { de: "Spanisches Fort Tobago", hu: "Spanyol erőd Tobago", ro: "Fortul spaniol Tobago", en: "Spanish Fort Tobago"},
-    image: "/poi-images/tt-spanish-fort-tobago-history-v2.webp",
     description: { de: "Befestigung der Spanier.", hu: "Spanyol erődítmény.", ro: "Fortificație spaniolă.", en: "Spanish fortification." , es: "Fortificación de los españoles.", pt: "Fortificação dos espanhóis.", fr: "Fortification des Espagnols."},
     facts: {
       de: ["Strategische Präsenz", "Koloniales Abwehrwerk", "Historische Fundstätte", "18. Jahrhundert"],
@@ -836,7 +817,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-61.35, 10.65],
     name: { de: "Plantagen-Krankenhaus", hu: "Ültetvénykórház", ro: "Spitalul plantației", en: "Plantation Hospital"},
-    image: "/poi-images/tt-plantation-hospital-history-v2.webp",
     description: { de: "Historische Einrichtung für Plantagenarbeiter.", hu: "Történelmi intézmény az ültetvényi munkások számára.", ro: "Instituție istorică pentru muncitorii de pe plantații.", en: "Historic facility for plantation workers." , es: "Instalación histórica para trabajadores de plantaciones.", pt: "Instalação histórica para trabalhadores de plantações.", fr: "Installation historique pour les travailleurs des plantations."},
     facts: {
       de: ["Medizinische Versorgung", "Koloniale Fürsorge", "Architekturzeugnis", "Historische Aufarbeitung"],
@@ -872,7 +852,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-61.51, 10.65],
     name: { de: "Altes Hafenamt", hu: "Régi kikötői iroda", ro: "Vechea clădire a portului", en: "Old Port Office"},
-    image: "/poi-images/tt-old-port-office-history-v2.webp",
     description: { de: "Historisches Verwaltungsgebäude am Hafen.", hu: "Történelmi adminisztrációs épület a kikötőben.", ro: "Clădire administrativă istorică în port.", en: "Historic administration building at the harbor." , es: "Histórico edificio administrativo en el puerto.", pt: "Histórico edifício administrativo no porto.", fr: "Bâtiment administratif historique au port."},
     facts: {
       de: ["Hafenverwaltung", "Handelsgeschichte", "Koloniale Architektur", "Restauriertes Bauwerk"],
@@ -908,7 +887,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-61.45, 10.60],
     name: { de: "Spanische Kapelle", hu: "Spanyol kápolna", ro: "Capela spaniolă", en: "Spanish Chapel"},
-    image: "/poi-images/tt-spanish-chapel-history-v2.webp",
     description: { de: "Historische religiöse Stätte.", hu: "Történelmi vallási helyszín.", ro: "Situl religios istoric.", en: "Historic religious site." , es: "Lugar religioso histórico.", pt: "Local religioso histórico.", fr: "Lieu religieux historique."},
     facts: {
       de: ["Religiöse Mission", "Koloniales Erbe", "Erbaut im 18. Jahrhundert", "Kulturelles Zentrum"],
@@ -980,7 +958,6 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     parent: "TT",
     coords: [-60.78, 11.20],
     name: { de: "Fort James", hu: "James erőd", ro: "Fortul James", en: "Fort James"},
-    image: "/poi-images/tt-fort-james-history-v2.webp",
     description: { de: "Befestigungsanlage bei Plymouth.", hu: "Erődítmény Plymouth közelében.", ro: "Fortificație lângă Plymouth.", en: "Fortification near Plymouth." , es: "Fortificación cerca de Plymouth.", pt: "Fortificação perto de Plymouth.", fr: "Fortification près de Plymouth."},
     facts: {
       de: ["Schutz der Küste", "Historische Kanonen", "Überblick über Plymouth", "Erbaut im 18. Jahrhundert"],

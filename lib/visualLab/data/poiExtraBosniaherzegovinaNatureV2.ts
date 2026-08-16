@@ -7,8 +7,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "peak",
     name: { de: "Maglić", hu: "Maglić", ro: "Maglić", en: "Maglić"},
-    image: "/poi-images/bosniaherzegovina-maglic-nature-v2.webp",
-    coords: [18.7303, 43.2801],
     coords: [18.7303, 43.2801],
     description: {
       de: "Der Maglić ist mit 2386 Metern der höchste Gipfel von Bosnien und Herzegowina und liegt an der Grenze zu Montenegro im Sutjeska-Nationalpark.",
@@ -54,8 +52,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "river",
     name: { de: "Neretva", hu: "Neretva", ro: "Neretva", en: "Neretva"},
-    image: "/poi-images/bosniaherzegovina-neretva-river-nature-v2.webp",
-    coords: [17.8078, 43.3433],
     coords: [17.8078, 43.3433],
     description: {
       de: "Die Neretva ist der größte Fluss im östlichen Teil des Adria-Beckens und bekannt für ihr smaragdgrünes, extrem kaltes Wasser.",
@@ -101,8 +97,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "river",
     name: { de: "Una", hu: "Una", ro: "Una", en: "Una"},
-    image: "/poi-images/bosniaherzegovina-una-river-nature-v2.webp",
-    coords: [15.8681, 44.8122],
     coords: [15.8681, 44.8122],
     description: {
       de: "Die Una ist ein Fluss im Nordwesten des Landes, der für seine beeindruckenden Wasserfälle und die vielfältige Flora und Fauna im Una-Nationalpark bekannt ist.",
@@ -148,8 +142,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "river",
     name: { de: "Drina", hu: "Drina", ro: "Drina", en: "Drina"},
-    image: "/poi-images/bosniaherzegovina-drina-river-nature-v2.webp",
-    coords: [19.2889, 43.7825],
     coords: [19.2889, 43.7825],
     description: {
       de: "Die Drina bildet einen großen Teil der Grenze zwischen Bosnien und Herzegowina und Serbien und ist berühmt für ihre tiefen Schluchten und die historische Brücke von Višegrad.",
@@ -195,8 +187,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "river",
     name: { de: "Bosna", hu: "Boszna", ro: "Bosna", en: "Bosna"},
-    image: "/poi-images/bosniaherzegovina-bosna-river-nature-v2.webp",
-    coords: [18.2681, 43.8183],
     coords: [18.2681, 43.8183],
     description: {
       de: "Die Bosna ist der namensgebende Fluss des Landes, der vollständig innerhalb seiner Grenzen fließt und im Gebirge Igman nahe Sarajevo entspringt.",
@@ -242,8 +232,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "river",
     name: { de: "Vrbas", hu: "Orbász", ro: "Vrbas", en: "Vrbas"},
-    image: "/poi-images/bosniaherzegovina-vrbas-river-nature-v2.webp",
-    coords: [17.1917, 44.7667],
     coords: [17.1917, 44.7667],
     description: {
       de: "Der Vrbas ist ein bedeutender Fluss im Westen des Landes, der durch Banja Luka fließt und für seine spektakulären Schluchten und Rafting-Möglichkeiten bekannt ist.",
@@ -289,8 +277,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "landmark",
     name: { de: "Štrbački buk", hu: "Štrbački buk", ro: "Štrbački buk", en: "Štrbački buk"},
-    image: "/poi-images/bosniaherzegovina-strbacki-buk-nature-v2.webp",
-    coords: [16.0103, 44.6564],
     coords: [16.0103, 44.6564],
     description: {
       de: "Der Štrbački buk ist der höchste Wasserfall am Fluss Una und eines der spektakulärsten Naturdenkmäler im Una-Nationalpark.",
@@ -336,8 +322,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "mountain",
     name: { de: "Igman", hu: "Igman", ro: "Igman", en: "Igman"},
-    image: "/poi-images/bosniaherzegovina-igman-mountain-nature-v2.webp",
-    coords: [18.25, 43.75],
     coords: [18.25, 43.75],
     description: {
       de: "Der Igman ist ein Berg direkt südwestlich von Sarajevo, der für seine extrem niedrigen Temperaturen und als Austragungsort der Olympischen Spiele 1984 bekannt ist.",
@@ -383,8 +367,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "mountain",
     name: { de: "Trebević", hu: "Trebević", ro: "Trebević", en: "Trebević"},
-    image: "/poi-images/bosniaherzegovina-trebevic-mountain-nature-v2.webp",
-    coords: [18.4489, 43.8344],
     coords: [18.4489, 43.8344],
     description: {
       de: "Der Trebević ist der Hausberg von Sarajevo und bietet einen Panoramablick über die Stadt. Er ist durch eine Seilbahn direkt mit der Altstadt verbunden.",
@@ -435,8 +417,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "mountain",
     name: { de: "Prenj", hu: "Prenj", ro: "Prenj", en: "Prenj"},
-    image: "/poi-images/bosniaherzegovina-prenj-mountain-nature-v2.webp",
-    coords: [17.9, 43.5333],
     coords: [17.9, 43.5333],
     description: {
       de: "Das Prenj-Gebirge wird oft als der 'Himalaya von Herzegowina' bezeichnet und ist bekannt für seine schroffen Gipfel und tiefen Täler.",
@@ -487,8 +467,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "peak",
     name: { de: "Čvrsnica", hu: "Čvrsnica", ro: "Čvrsnica", en: "Čvrsnica"},
-    image: "/poi-images/bosniaherzegovina-cvrsnica-mountain-nature-v2.webp",
-    coords: [17.6, 43.6],
     coords: [17.6, 43.6],
     description: {
       de: "Die Čvrsnica ist eines der höchsten Gebirge in Herzegowina und beherbergt das Naturphänomen 'Hajdučka vrata', einen riesigen natürlichen Steinbogen.",
@@ -615,8 +593,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "lake",
     name: { de: "Blidinje-See", hu: "Blidinje-tó", ro: "Lacul Blidinje", en: "Blidinje Lake"},
-    image: "/poi-images/bosniaherzegovina-blidinje-lake-nature-v2.webp",
-    coords: [17.5133, 43.6108],
     coords: [17.5133, 43.6108],
     description: {
       de: "Der Blidinje-See ist der größte Bergsee des Landes und liegt auf einer Hochebene zwischen den Gebirgen Čvrsnica und Vran.",
@@ -779,8 +755,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "lake",
     name: { de: "Boračko-See", hu: "Boračko-tó", ro: "Lacul Boračko", en: "Boračko Lake"},
-    image: "/poi-images/bosniaherzegovina-boracko-lake-nature-v2.webp",
-    coords: [18.0361, 43.5539],
     coords: [18.0361, 43.5539],
     description: {
       de: "Der Boračko-See liegt am Fuße des Prenj-Gebirges und ist ein beliebtes Ziel für Wanderer und Camper in der Nähe der Stadt Konjic.",
@@ -826,8 +800,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "lake",
     name: { de: "Jablaničko-See", hu: "Jablaničko-tó", ro: "Lacul Jablaničko", en: "Jablaničko Lake"},
-    image: "/poi-images/bosniaherzegovina-jablanicko-lake-nature-v2.webp",
-    coords: [17.795, 43.7225],
     coords: [17.795, 43.7225],
     description: {
       de: "Der Jablaničko-See ist ein großer Stausee am Fluss Neretva, bekannt für seine türkisfarbene Farbe und als beliebtes Erholungsgebiet.",
@@ -873,8 +845,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "lake",
     name: { de: "Rama-See", hu: "Rama-tó", ro: "Lacul Rama", en: "Rama Lake"},
-    image: "/poi-images/bosniaherzegovina-rama-lake-nature-v2.webp",
-    coords: [17.5186, 43.7431],
     coords: [17.5186, 43.7431],
     description: {
       de: "Der Rama-See gilt als einer der schönsten Seen des Landes, berühmt für seine vielen Inseln und Halbinseln, insbesondere Šćit.",
@@ -920,8 +890,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "wildlife",
     name: { de: "Hutovo Blato", hu: "Hutovo Blato", ro: "Hutovo Blato", en: "Hutovo Blato"},
-    image: "/poi-images/bosniaherzegovina-hutovo-blato-nature-v2.webp",
-    coords: [17.785, 43.0536],
     coords: [17.785, 43.0536],
     description: {
       de: "Hutovo Blato ist ein Naturpark und Vogelschutzgebiet im Süden des Landes, eines der wichtigsten Feuchtgebiete für Zugvögel in Europa.",
@@ -1156,8 +1124,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "mountain",
     name: { de: "Zelengora", hu: "Zelengora", ro: "Zelengora", en: "Zelengora"},
-    image: "/poi-images/bosniaherzegovina-zelengora-mountain-nature-v2.webp",
-    coords: [18.5778, 43.3556],
     coords: [18.5778, 43.3556],
     description: {
       de: "Die Zelengora ist bekannt als der schönste Berg des Landes, berühmt für ihre weiten Grashochebenen und kristallklaren Gletscherseen, die 'Bergaugen' genannt werden.",
@@ -1284,8 +1250,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "river",
     name: { de: "Tara", hu: "Tara", ro: "Tara", en: "Tara"},
-    image: "/poi-images/bosniaherzegovina-tara-river-nature-v2.webp",
-    coords: [18.8436, 43.3492],
     coords: [18.8436, 43.3492],
     description: {
       de: "Der Fluss Tara bildet im Unterlauf die Grenze zu Montenegro und fließt durch die tiefste Schlucht Europas, bevor er mit der Piva die Drina bildet.",
@@ -1331,8 +1295,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "river",
     name: { de: "Pliva", hu: "Pliva", ro: "Pliva", en: "Pliva"},
-    image: "/poi-images/bosniaherzegovina-pliva-river-nature-v2.webp",
-    coords: [17.26, 44.34],
     coords: [17.26, 44.34],
     description: {
       de: "Die Pliva ist bekannt für ihre spektakuläre Mündung in den Vrbas in Jajce, wo sie einen 22 Meter hohen Wasserfall mitten in der Stadt bildet.",
@@ -1424,7 +1386,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "lake",
     name: { de: "Modrac-See", hu: "Modrac-tó", ro: "Lacul Modrac", en: "Modrac Lake"},
-    image: "/poi-images/bosniaherzegovina-modrac-lake-nature-v2.webp",
     coords: [18.4856, 44.4936],
     description: {
       de: "Ein Stausee in der Nähe von Tuzla, entstanden durch die Aufstauung des Flusses Spreča. Er ist ein beliebtes Erholungsgebiet für die Region.",
@@ -1470,7 +1431,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     parent: "BA",
     type: "river",
     name: { de: "Sana", hu: "Szana", ro: "Râul Sana", en: "Sana River"},
-    image: "/poi-images/bosniaherzegovina-sana-river-nature-v2.webp",
     coords: [16.6625, 44.7631],
     description: {
       de: "Ein Fluss im Nordwesten Bosniens, bekannt für seine Reinheit und grüne Farbe. Er entspringt in der Nähe von Mrkonjić Grad und mündet in die Una.",

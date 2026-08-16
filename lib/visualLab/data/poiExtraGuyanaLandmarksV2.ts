@@ -7,7 +7,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.1633, 6.8122],
     name: { de: "St. George's Cathedral", hu: "Szent György-székesegyház", ro: "Catedrala Sfântul Gheorghe", en: "St. George's Cathedral"},
-    image: "/poi-images/st-georges-cathedral-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Die St. George's Cathedral in Kapstadt, auch als 'Kathedrale des Volkes' bekannt, ist die älteste anglikanische Kathedrale im südlichen Afrika. Das beeindruckende Bauwerk wurde vom Architekten Sir Herbert Baker im neugotischen Stil entworfen, wobei der Grundstein bereits 1901 gelegt wurde. Besonders berühmt wurde die Kirche während der Zeit der Apartheid, als sie unter der Leitung von Erzbischof Desmond Tutu zu einem zentralen Ort des gewaltfreien Widerstands wurde. Hier begannen viele Protestmärsche, und die Kathedrale blieb für Menschen aller Hautfarben offen, was sie zu einem Symbol der Hoffnung und Gleichheit machte. Die Architektur besticht durch prächtige Buntglasfenster, darunter das markante Fenster zu Ehren von Gabriel Lory, und eine Krypta, die heute ein Jazz-Restaurant beherbergt. Im Inneren herrscht eine friedvolle Atmosphäre, die einen starken Kontrast zum geschäftigen Treiben des angrenzenden Company's Garden bildet. Ein Besuch bietet tiefe Einblicke in die religiöse und politische Geschichte Südafrikas.",
       hu: "A fokvárosi Szent György-székesegyház, amelyet gyakran a 'Nép katedrálisaként' emlegetnek, Dél-Afrika legrégebbi anglikán temploma. A neogótikus stílusú épületet Sir Herbert Baker tervezte, az alapkövet pedig 1901-ben tették le. A katedrális világhírnevét elsősorban az apartheid elleni küzdelemben betöltött szerepének köszönheti. Desmond Tutu érsek vezetése alatt a templom az ellenállás és a megbékélés szimbólumává vált, ahol minden rasszhoz tartozó hívőt szívesen láttak a szegregáció idején is. Az épület belsejét lenyűgöző színes üvegablakok díszítik, a kriptában pedig ma egy különleges jazz-étterem működik. A katedrális előtt kezdődött 1989-ben a híres 'lila eső' tiltakozás is, amely a politikai változások egyik előjele volt. A templom kertje közvetlenül csatlakozik a történelmi Company's Gardenhez, így a látogatók egyszerre élvezhetik a spirituális nyugalmat és a város történelmi központjának hangulatát.",
@@ -84,7 +83,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.1672, 6.8086],
     name: { de: "Stabroek Market", hu: "Stabroek Piac", ro: "Piața Stabroek", en: "Stabroek Market"},
-    image: "/poi-images/stabroek-market-landmarks-v2.webp",
     description: { de: "Ein geschäftiger historischer Markt in Georgetown, bekannt für seinen ikonischen Uhrenturm aus Gusseisen.", hu: "Georgetown forgalmas történelmi piaca, amely ikonikus öntöttvas óratornyáról ismert.", ro: "O piață istorică aglomerată din Georgetown, cunoscută pentru turnul său cu ceas iconic din fontă.", en: "A bustling historic market in Georgetown known for its iconic cast-iron clock tower." , es: "Un bullicioso mercado histórico en Georgetown, conocido por su icónica torre del reloj de hierro fundido.", pt: "Um mercado histórico movimentado em Georgetown, conhecido pela sua icónica torre do relógio de ferro fundido.", fr: "Un marché historique animé à Georgetown, connu pour son emblématique tour de l'horloge en fonte."},
     facts: {
       de: ["Eröffnet im Jahr 1881.", "Entworfen im viktorianischen Stil."],
@@ -119,7 +117,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.1661, 6.808],
     name: { de: "Parlamentsgebäude", hu: "Parlament Épülete", ro: "Clădirea Parlamentului", en: "Parliament Building"},
-    image: "/poi-images/parliament-building-guyana-landmarks-v2.webp",
     description: { de: "Ein markantes Gebäude im Renaissancestil in Georgetown, das als Sitz der Nationalversammlung von Guyana dient.", hu: "Egy feltűnő reneszánsz stílusú épület Georgetownban, amely Guyana Nemzetgyűlésének székhelyeként szolgál.", ro: "O clădire remarcabilă în stil renascentist în Georgetown, care servește drept sediu al Adunării Naționale a Guyanei.", en: "A striking Renaissance-style building in Georgetown serving as the seat of the National Assembly of Guyana." , es: "Un edificio destacado de estilo renacentista en Georgetown que sirve como sede de la Asamblea Nacional de Guyana.", pt: "Um edifício proeminente de estilo renascentista em Georgetown que serve como sede da Assembleia Nacional da Guiana.", fr: "Un bâtiment remarquable de style Renaissance à Georgetown qui sert de siège à l'Assemblée nationale de Guyane."},
     facts: {
       de: ["Erbaut im Jahr 1834.", "Entworfen von Joseph Hadfield."],
@@ -199,7 +196,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.161, 6.827],
     name: { de: "Umana Yana", hu: "Umana Yana", ro: "Umana Yana", en: "Umana Yana"},
-    image: "/poi-images/umana-yana-landmarks-v2.webp",
     description: { de: "Eine traditionelle konische Hütte im Wai-Wai-Stil, die als Symbol der indigenen Kultur Guyanas errichtet wurde.", hu: "Egy hagyományos Wai-Wai stílusú kúpos kunyhó, amelyet Guyana őslakos kultúrájának szimbólumaként emeltek.", ro: "O colibă conică tradițională în stil Wai-Wai, construită ca simbol al culturii indigene din Guyana.", en: "A traditional conical Wai-Wai style benab erected as a symbol of Guyana's indigenous culture." , es: "Una cabaña cónica tradicional al estilo Wai-Wai, construida como símbolo de la cultura indígena de Guyana.", pt: "Uma cabana cónica tradicional no estilo Wai-Wai, construída como um símbolo da cultura indígena da Guiana.", fr: "Une hutte conique traditionnelle de style Wai-Wai, construite comme symbole de la culture indigène du Guyana."},
     facts: {
       de: ["Ursprünglich 1972 erbaut.", "Der Name bedeutet Treffpunkt des Volkes."],
@@ -279,7 +275,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.1522, 6.8015],
     name: { de: "1763 Monument", hu: "1763-as Emlékmű", ro: "Monumentul 1763", en: "1763 Monument"},
-    image: "/poi-images/1763-monument-landmarks-v2.webp",
     description: { de: "Ein Denkmal in Georgetown, das an den Sklavenaufstand von 1763 und den Nationalhelden Cuffy erinnert.", hu: "Georgetowni emlékmű, amely az 1763-as rabszolgalázadásnak és Cuffy nemzeti hősnek állít emléket.", ro: "Un monument în Georgetown care comemorează rebeliunea sclavilor din 1763 și pe eroul național Cuffy.", en: "A monument in Georgetown commemorating the 1763 slave rebellion and the national hero Cuffy." , es: "Un monumento en Georgetown que conmemora la rebelión de esclavos de 1763 y al héroe nacional Cuffy.", pt: "Um monumento em Georgetown que comemora a revolta de escravos de 1763 e o herói nacional Cuffy.", fr: "Un monument à Georgetown commémorant la révolte des esclaves de 1763 et le héros national Cuffy."},
     facts: {
       de: ["Enthüllt im Jahr 1976.", "Werk des Bildhauers Philip Moore."],
@@ -314,7 +309,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.1645, 6.8095],
     name: { de: "Victoria Law Courts", hu: "Viktória Bíróságok", ro: "Tribunalele Victoria", en: "Victoria Law Courts"},
-    image: "/poi-images/victoria-law-courts-guyana-landmarks-v2.webp",
     description: { de: "Ein historisches Gerichtsgebäude mit imposanter Holzarchitektur, das das Justizsystem Guyanas repräsentiert.", hu: "Egy történelmi bírósági épület impozáns faépítészettel, amely Guyana igazságszolgáltatási rendszerét képviseli.", ro: "O clădire istorică a tribunalului cu o arhitectură impresionantă din lemn, reprezentând sistemul judiciar din Guyana.", en: "A historic courthouse with imposing wooden architecture representing Guyana's judicial system." , es: "Un edificio judicial histórico con una imponente arquitectura de madera que representa el sistema de justicia de Guyana.", pt: "Um edifício judicial histórico com uma imponente arquitetura de madeira que representa o sistema de justiça da Guiana.", fr: "Un bâtiment judiciaire historique à l'architecture imposante en bois, représentant le système judiciaire du Guyana."},
     facts: {
       de: ["Eröffnet im Jahr 1887.", "Steht vor einer Statue von Königin Victoria."],
@@ -349,7 +343,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.1633, 6.8115],
     name: { de: "Rathaus von Georgetown", hu: "Georgetown Városháza", ro: "Primăria Georgetown", en: "Georgetown City Hall"},
-    image: "/poi-images/city-hall-georgetown-landmarks-v2.webp",
     description: { de: "Ein architektonisches Juwel im neugotischen Stil, das oft als eines der schönsten Holzgebäude der Karibik beschrieben wird.", hu: "Neogótikus stílusú építészeti gyöngyszem, amelyet gyakran a Karib-térség egyik legszebb faépületeként írnak le.", ro: "O bijuterie arhitecturală în stil neogotic, descrisă adesea drept una dintre cele mai frumoase clădiri din lemn din Caraibe.", en: "A neo-Gothic architectural gem often described as one of the most beautiful wooden buildings in the Caribbean." , es: "Una joya arquitectónica de estilo neogótico, descrita a menudo como uno de los edificios de madera más bellos del Caribe.", pt: "Uma joia arquitetônica em estilo neogótico, frequentemente descrita como um dos edifícios de madeira mais bonitos do Caribe.", fr: "Un joyau architectural de style néogothique, souvent décrit comme l'un des plus beaux bâtiments en bois des Caraïbes."},
     facts: {
       de: ["Fertiggestellt im Jahr 1889.", "Entworfen von Ignatius Scoles."],
@@ -384,7 +377,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.1755, 6.7565],
     name: { de: "Providence-Stadion", hu: "Providence Stadion", ro: "Stadionul Providence", en: "Providence Stadium"},
-    image: "/poi-images/providence-stadium-landmarks-v2.webp",
     description: { de: "Die größte Sportarena in Guyana, die für internationale Cricket-Spiele und Großveranstaltungen genutzt wird.", hu: "Guyana legnagyobb sportarénája, amelyet nemzetközi krikettmérkőzésekre és nagyszabású rendezvényekre használnak.", ro: "Cea mai mare arenă sportivă din Guyana, folosită pentru meciuri internaționale de cricket și evenimente majore.", en: "The largest sports arena in Guyana, used for international cricket matches and major events." , es: "La arena deportiva más grande de Guyana, utilizada para partidos internacionales de críquet y grandes eventos.", pt: "A maior arena desportiva da Guiana, utilizada para jogos internacionais de críquete e grandes eventos.", fr: "La plus grande arène sportive de Guyane, utilisée pour les matchs de cricket internationaux et les grands événements."},
     facts: {
       de: ["Erbaut für den Cricket World Cup 2007.", "Bietet Platz für 15.000 Zuschauer."],
@@ -536,7 +528,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.1822, 6.7661],
     name: { de: "Demerara Harbour Bridge", hu: "Demerara Kikötői Híd", ro: "Podul Portului Demerara", en: "Demerara Harbour Bridge"},
-    image: "/poi-images/demerara-harbour-bridge-landmarks-v2.webp",
     description: { de: "Eine schwimmende Mautbrücke über den Demerara-Fluss, die eine wichtige Verkehrsverbindung in Guyana darstellt.", hu: "Egy úszó fizetős híd a Demerara-folyón, amely Guyana egyik fontos közlekedési kapcsolata.", ro: "Un pod plutitor cu taxă peste râul Demerara, reprezentând o importantă legătură de transport în Guyana.", en: "A floating toll bridge across the Demerara River, serving as a vital transport link in Guyana." , es: "Un puente de peaje flotante sobre el río Demerara, que representa una importante conexión de transporte en Guyana.", pt: "Uma ponte de pedágio flutuante sobre o rio Demerara, que representa uma importante conexão de transporte na Guiana.", fr: "Un pont à péage flottant sur le fleuve Demerara, qui constitue une liaison de transport importante au Guyana."},
     facts: {
       de: ["Eröffnet im Jahr 1978.", "Länge von 1,85 Kilometern."],
@@ -571,7 +562,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-MA",
     coords: [-57.5342, 6.2575],
     name: { de: "Berbice-Brücke", hu: "Berbice-híd", ro: "Podul Berbice", en: "Berbice Bridge"},
-    image: "/poi-images/berbice-bridge-landmarks-v2.webp",
     description: { de: "Eine Pontonbrücke über den Berbice-Fluss, die die Regionen im Osten Guyanas verbindet.", hu: "Pontonhíd a Berbice-folyón, amely Guyana keleti régióit köti össze.", ro: "Un pod de pontoane peste râul Berbice, care leagă regiunile din estul Guyanei.", en: "A pontoon bridge over the Berbice River, connecting the eastern regions of Guyana." , es: "Un puente de pontones sobre el río Berbice que conecta las regiones del este de Guyana.", pt: "Uma ponte de pontões sobre o rio Berbice, que liga as regiões do leste da Guiana.", fr: "Un pont de pontons sur le fleuve Berbice, reliant les régions de l'est de la Guyane."},
     facts: {
       de: ["Fertiggestellt im Jahr 2008.", "Länge von über 1,5 Kilometern."],
@@ -651,7 +641,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.1617, 6.818],
     name: { de: "State House", hu: "Állami Ház", ro: "Casa de Stat", en: "State House"},
-    image: "/poi-images/state-house-guyana-landmarks-v2.webp",
     description: { de: "Die offizielle Residenz des Präsidenten von Guyana, ein stattliches Holzgebäude mit historischer Bedeutung.", hu: "Guyana elnökének hivatalos rezidenciája, történelmi jelentőségű tekintélyes faépület.", ro: "Reședința oficială a Președintelui Guyanei, o clădire impunătoare din lemn cu importanță istorică.", en: "The official residence of the President of Guyana, a stately wooden building of historic significance." , es: "La residencia oficial del presidente de Guyana, un majestuoso edificio de madera con importancia histórica.", pt: "A residência oficial do presidente da Guiana, um imponente edifício de madeira com importância histórica.", fr: "La résidence officielle du président de Guyane, un imposant bâtiment en bois d'importance historique."},
     facts: {
       de: ["Erbaut im Jahr 1858.", "Zuvor Wohnsitz des britischen Gouverneurs."],
@@ -731,7 +720,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.1648, 6.8142],
     name: { de: "Nationalmuseum von Guyana", hu: "Guyanai Nemzeti Múzeum", ro: "Muzeul Național al Guyanei", en: "Guyana National Museum"},
-    image: "/poi-images/guyana-national-museum-landmarks-v2.webp",
     description: { de: "Ein wichtiges Museum, das die Flora, Fauna und historische Artefakte des Landes ausstellt.", hu: "Egy fontos múzeum, amely az ország flóráját, faunáját és történelmi műtárgyait mutatja be.", ro: "Un muzeu important care expune flora, fauna și artefactele istorice ale țării.", en: "A major museum exhibiting the flora, fauna, and historical artifacts of the country." , es: "Un museo importante que exhibe la flora, la fauna y artefactos históricos del país.", pt: "Um importante museu que exibe a flora, a fauna e artefatos históricos do país.", fr: "Un musée important qui expose la flore, la faune et des artefacts historiques du pays."},
     facts: {
       de: ["Gegründet im Jahr 1868.", "Befindet sich im Zentrum von Georgetown."],
@@ -811,7 +799,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.162, 6.8155],
     name: { de: "Walter Roth Museum", hu: "Walter Roth Múzeum", ro: "Muzeul Walter Roth", en: "Walter Roth Museum"},
-    image: "/poi-images/walter-roth-museum-landmarks-v2.webp",
     description: { de: "Ein Museum, das sich der Anthropologie widmet und die indigene Kultur und Geschichte Guyanas bewahrt.", hu: "Egy antropológiának szentelt múzeum, amely Guyana őslakos kultúráját és történelmét őrzi.", ro: "Un muzeu dedicat antropologiei, care păstrează cultura și istoria indigenă a Guyanei.", en: "A museum dedicated to anthropology, preserving the indigenous culture and history of Guyana." , es: "Un museo dedicado a la antropología que preserva la cultura e historia indígena de Guyana.", pt: "Um museu dedicado à antropologia que preserva a cultura e a história indígena da Guiana.", fr: "Un musée dédié à l'anthropologie qui préserve la culture et l'histoire indigène du Guyana."},
     facts: {
       de: ["Eröffnet im Jahr 1974.", "Untergebracht in einem charmanten Holzgebäude."],
@@ -1035,7 +1022,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.1578, 6.8145],
     name: { de: "Castellani House", hu: "Castellani Ház", ro: "Casa Castellani", en: "Castellani House"},
-    image: "/poi-images/castellani-house-landmarks-v2.webp",
     description: { de: "Das Gebäude beherbergt die Nationale Kunstgalerie von Guyana und verfügt über eine umfangreiche Kunstsammlung.", hu: "Az épület ad otthont Guyana Nemzeti Művészeti Galériájának, és kiterjedt művészeti gyűjteménnyel rendelkezik.", ro: "Clădirea găzduiește Galeria Națională de Artă a Guyanei și deține o vastă colecție de artă.", en: "The building houses the National Art Gallery of Guyana and features an extensive art collection." , es: "El edificio alberga la Galería Nacional de Arte de Guyana y cuenta con una extensa colección de arte.", pt: "O edifício abriga a Galeria Nacional de Arte da Guiana e possui uma extensa coleção de arte.", fr: "Le bâtiment abrite la Galerie nationale d'art du Guyana et possède une vaste collection d'art."},
     facts: {
       de: ["Benannt nach dem Architekten Cesar Castellani.", "Früher die Residenz des Premierministers."],
@@ -1070,7 +1056,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.1625, 6.813],
     name: { de: "Blockfreien-Denkmal", hu: "El nem kötelezettek emlékműve", ro: "Monumentul Nealiniaților", en: "Non-Aligned Monument"},
-    image: "/poi-images/non-aligned-monument-guyana-landmarks-v2.webp",
     description: { de: "Ein Denkmal in Georgetown zu Ehren der Gründer der Bewegung der Blockfreien Staaten.", hu: "Georgetowni emlékmű, amely az El Nem Kötelezett Országok Mozgalmának alapítói előtt tiszteleg.", ro: "Un monument în Georgetown care onorează fondatorii Mișcării Țărilor Nealiniate.", en: "A monument in Georgetown honoring the founders of the Non-Aligned Movement." , es: "Un monumento en Georgetown en honor a los fundadores del Movimiento de Países No Alineados.", pt: "Um monumento em Georgetown em homenagem aos fundadores do Movimento dos Países Não Alinhados.", fr: "Un monument à Georgetown en l'honneur des fondateurs du Mouvement des non-alignés."},
     facts: {
       de: ["Enthüllt 1972.", "Zeigt Büsten von vier prominenten Staatsoberhäuptern."],
@@ -1105,7 +1090,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.1651, 6.821],
     name: { de: "Red House (Kamana Court)", hu: "Vörös Ház (Kamana Court)", ro: "Casa Roșie (Curtea Kamana)", en: "Red House (Kamana Court)"},
-    image: "/poi-images/kamana-court-red-house-landmarks-v2.webp",
     description: { de: "Ein markantes rotes Holzgebäude in Georgetown, das heute das Cheddi Jagan Research Centre beherbergt.", hu: "Egy feltűnő piros faépület Georgetownban, amely ma a Cheddi Jagan Kutatóközpontnak ad otthont.", ro: "O clădire roșie remarcabilă din lemn în Georgetown, care găzduiește acum Centrul de Cercetare Cheddi Jagan.", en: "A prominent red wooden building in Georgetown, now housing the Cheddi Jagan Research Centre." , es: "Un distintivo edificio de madera roja en Georgetown que hoy alberga el Centro de Investigación Cheddi Jagan.", pt: "Um edifício de madeira vermelha marcante em Georgetown que hoje abriga o Centro de Pesquisa Cheddi Jagan.", fr: "Un bâtiment distinctif en bois rouge à Georgetown qui abrite aujourd'hui le centre de recherche Cheddi Jagan."},
     facts: {
       de: ["Erbaut im 19. Jahrhundert.", "Früher Residenz des Premierministers."],
@@ -1293,7 +1277,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.118, 6.817],
     name: { de: "Arthur Chung Konferenzzentrum", hu: "Arthur Chung Konferenciaközpont", ro: "Centrul de Conferințe Arthur Chung", en: "Arthur Chung Conference Centre"},
-    image: "/poi-images/arthur-chung-conference-centre-landmarks-v2.webp",
     description: { de: "Ein modernes Konferenzzentrum in Liliendaal, das für nationale und internationale Veranstaltungen genutzt wird.", hu: "Egy modern konferenciaközpont Liliendaalban, amelyet nemzeti és nemzetközi rendezvényekre használnak.", ro: "Un centru modern de conferințe în Liliendaal, folosit pentru evenimente naționale și internaționale.", en: "A modern conference center in Liliendaal, used for national and international events." , es: "Un moderno centro de conferencias en Liliendaal, utilizado para eventos nacionales e internacionales.", pt: "Um centro de conferências moderno em Liliendaal, utilizado para eventos nacionais e internacionais.", fr: "Un centre de conférence moderne à Liliendaal, utilisé pour des événements nationaux et internationaux."},
     facts: {
       de: ["Finanziert durch einen Zuschuss der chinesischen Regierung.", "Benannt nach dem ersten Präsidenten Guyanas."],
@@ -1328,7 +1311,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.1635, 6.813],
     name: { de: "Georgetown-Kenotaph", hu: "Georgetowni Kenotáfium", ro: "Cenotaful din Georgetown", en: "Georgetown Cenotaph"},
-    image: "/poi-images/georgetown-cenotaph-landmarks-v2.webp",
     description: { de: "Ein Kriegerdenkmal in Georgetown zum Gedenken an die Gefallenen der beiden Weltkriege.", hu: "Georgetowni háborús emlékmű a két világháborúban elesettek emlékére.", ro: "Un memorial de război în Georgetown care comemorează eroii căzuți în ambele războaie mondiale.", en: "A war memorial in Georgetown commemorating the fallen of both World Wars." , es: "Un monumento a los caídos en Georgetown en memoria de las víctimas de las dos guerras mundiales.", pt: "Um monumento aos mortos em Georgetown em memória dos caídos nas duas guerras mundiais.", fr: "Un monument aux morts à Georgetown à la mémoire des victimes des deux guerres mondiales."},
     facts: {
       de: ["Eingeweiht im Jahr 1923.", "Befindet sich vor der Bank of Guyana."],
@@ -1552,7 +1534,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-ES",
     coords: [-58.52, 6.7725],
     name: { de: "Fort Zeelandia", hu: "Fort Zeelandia", ro: "Fortul Zeelandia", en: "Fort Zeelandia"},
-    image: "/poi-images/fort-zeelandia-guyana-landmarks-v2.webp",
     description: { de: "Die Ruinen einer alten holländischen Festung auf Fort Island am Essequibo-Fluss.", hu: "Egy régi holland erőd romjai a Fort-szigeten, az Essequibo-folyón.", ro: "Ruinele unui vechi fort olandez de pe Insula Fort de pe râul Essequibo.", en: "The ruins of an old Dutch fortress on Fort Island along the Essequibo River." , es: "Las ruinas de una antigua fortaleza holandesa en la Isla de Fort, en el río Esequibo.", pt: "As ruínas de uma antiga fortaleza holandesa na Ilha de Fort, no rio Essequibo.", fr: "Les ruines d'une ancienne forteresse néerlandaise sur l'île de Fort, sur le fleuve Essequibo."},
     facts: {
       de: ["Erbaut im Jahr 1744.", "Schützte die holländische Kolonie Essequibo."],
@@ -1587,7 +1568,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-ES",
     coords: [-58.5203, 6.7728],
     name: { de: "Court of Policy", hu: "Kormányzósági Épület", ro: "Curtea de Politică", en: "Court of Policy"},
-    image: "/poi-images/court-of-policy-guyana-landmarks-v2.webp",
     description: { de: "Ein historisches Backsteingebäude neben Fort Zeelandia, das als Kirche, Gericht und Regierungssitz diente.", hu: "A Fort Zeelandia melletti történelmi téglaépület, amely templomként, bíróságként és kormányzati székhelyként szolgált.", ro: "O clădire istorică din cărămidă lângă Fortul Zeelandia, care a servit drept biserică, tribunal și sediu al guvernului.", en: "A historic brick building next to Fort Zeelandia that served as a church, courthouse, and seat of government." , es: "Un histórico edificio de ladrillo junto a Fort Zeelandia, que sirvió como iglesia, tribunal y sede del gobierno.", pt: "Um edifício histórico de tijolos ao lado do Fort Zeelandia, que serviu como igreja, tribunal e sede do governo.", fr: "Un bâtiment historique en briques à côté de Fort Zeelandia, qui a servi d'église, de tribunal et de siège du gouvernement."},
     facts: {
       de: ["Ältestes nicht-militärisches Gebäude Guyanas.", "Befindet sich auf Fort Island."],
@@ -1703,7 +1683,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-EB",
     coords: [-57.518, 6.2425],
     name: { de: "Mission Chapel", hu: "Missziós Kápolna", ro: "Capela Misiunii", en: "Mission Chapel"},
-    image: "/poi-images/mission-chapel-new-amsterdam-landmarks-v2.webp",
     description: { de: "Eine historische Kirche in New Amsterdam, die für ihre Rolle im Leben der versklavten Bevölkerung bekannt ist.", hu: "Történelmi templom New Amsterdamban, amely a rabszolgasorba taszított lakosság életében játszott szerepéről ismert.", ro: "O biserică istorică din New Amsterdam, cunoscută pentru rolul său în viața populației înrobite.", en: "A historic church in New Amsterdam known for its role in the lives of the enslaved population." , es: "Una iglesia histórica en New Amsterdam, conocida por su papel en la vida de la población esclavizada.", pt: "Uma igreja histórica em New Amsterdam, conhecida pelo seu papel na vida da população escravizada.", fr: "Une église historique à New Amsterdam, connue pour son rôle dans la vie de la population esclave."},
     facts: {
       de: ["Gegründet im Jahr 1819.", "Wichtige Stätte für freigelassene Sklaven."],
@@ -1783,7 +1762,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-EB",
     coords: [-57.519, 6.2435],
     name: { de: "All Saints Anglican Church", hu: "Mindenszentek Anglikán Templom", ro: "Biserica Anglicană Toți Sfinții", en: "All Saints Anglican Church"},
-    image: "/poi-images/all-saints-anglican-church-guyana-landmarks-v2.webp",
     description: { de: "Ein bedeutendes religiöses und architektonisches Wahrzeichen in der Stadt New Amsterdam.", hu: "Jelentős vallási és építészeti nevezetesség New Amsterdam városában.", ro: "Un important reper religios și arhitectural din orașul New Amsterdam.", en: "A significant religious and architectural landmark located in the town of New Amsterdam." , es: "Un importante hito religioso y arquitectónico en la ciudad de New Amsterdam.", pt: "Um marco religioso e arquitetónico importante na cidade de New Amsterdam.", fr: "Un monument religieux et architectural important dans la ville de New Amsterdam."},
     facts: {
       de: ["Eine der ältesten Kirchen in der Region.", "Verfügt über schöne Buntglasfenster."],
@@ -1899,7 +1877,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-UT",
     coords: [-59.8, 3.383],
     name: { de: "Takutu-Flussbrücke", hu: "Takutu-folyó Hídja", ro: "Podul Râului Takutu", en: "Takutu River Bridge"},
-    image: "/poi-images/takutu-river-bridge-landmarks-v2.webp",
     description: { de: "Eine internationale Brücke über den Takutu-Fluss, die Lethem in Guyana mit Bonfim in Brasilien verbindet.", hu: "Nemzetközi híd a Takutu-folyón, amely a guyanai Lethemet a brazíliai Bonfimmal köti össze.", ro: "Un pod internațional peste râul Takutu, care leagă Lethem din Guyana cu Bonfim din Brazilia.", en: "An international bridge across the Takutu River linking Lethem in Guyana to Bonfim in Brazil." , es: "Un puente internacional sobre el río Takutu que conecta Lethem en Guyana con Bonfim en Brasil.", pt: "Uma ponte internacional sobre o rio Tacutu que liga Lethem, na Guiana, a Bonfim, no Brasil.", fr: "Un pont international sur la rivière Takutu reliant Lethem en Guyane à Bonfim au Brésil."},
     facts: {
       de: ["Eröffnet im Jahr 2009.", "Ermöglicht den Wechsel des Links- und Rechtsverkehrs."],
@@ -2699,7 +2676,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.261, 6.0125],
     name: { de: "Linden-Soesdyke Highway Monument", hu: "Linden-Soesdyke Autópálya Emlékmű", ro: "Monumentul Autostrăzii Linden-Soesdyke", en: "Linden-Soesdyke Highway Monument"},
-    image: "/poi-images/linden-soesdyke-highway-monument-landmarks-v2.webp",
     description: { de: "Ein Meilenstein und Denkmal an der strategisch wichtigen Autobahn, die Georgetown mit Linden verbindet.", hu: "Mérföldkő és emlékmű a Georgetownot Lindennel összekötő, stratégiailag fontos autópályán.", ro: "O piatră de hotar și un monument pe autostrada strategică ce leagă Georgetown de Linden.", en: "A milestone and monument on the strategic highway connecting Georgetown with Linden." , es: "Un hito y monumento en la carretera estratégicamente importante que conecta Georgetown con Linden.", pt: "Um marco e monumento na rodovia estrategicamente importante que liga Georgetown a Linden.", fr: "Un jalon et un monument sur l'autoroute stratégiquement importante reliant Georgetown à Linden."},
     facts: {
       de: ["Die Autobahn ist 72 Kilometer lang.", "Gebaut in den späten 1960er Jahren."],
@@ -2851,7 +2827,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-EB",
     coords: [-57.29, 6.23],
     name: { de: "Rose Hall Sugar Estate", hu: "Rose Hall Cukornádültetvény", ro: "Plantația de Zahăr Rose Hall", en: "Rose Hall Sugar Estate"},
-    image: "/poi-images/rose-hall-sugar-estate-landmarks-v2.webp",
     description: { de: "Ein großes historisches und noch aktives landwirtschaftliches Zentrum für die Zuckerproduktion in der Region Berbice.", hu: "Nagy történelmi és máig aktív mezőgazdasági központ a cukorgyártás számára a Berbice régióban.", ro: "Un centru agricol mare, istoric și încă activ, pentru producția de zahăr în regiunea Berbice.", en: "A large historical and still active agricultural center for sugar production in the Berbice region." , es: "Un gran centro agrícola histórico y todavía activo para la producción de azúcar en la región de Berbice.", pt: "Um grande centro agrícola histórico e ainda ativo para a produção de açúcar na região de Berbice.", fr: "Un grand centre agricole historique et toujours actif pour la production de sucre dans la région de Berbice."},
     facts: {
       de: ["Eines der wichtigsten Zuckerwerke Guyanas.", "Bietet Arbeitsplätze für Tausende von Einheimischen."],
@@ -2931,7 +2906,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.161, 6.815],
     name: { de: "Promenade Gardens", hu: "Sétány Kertek", ro: "Grădinile Promenade", en: "Promenade Gardens"},
-    image: "/poi-images/promenade-gardens-georgetown-landmarks-v2.webp",
     description: { de: "Ein historischer öffentlicher Garten in Georgetown mit Denkmälern und einem traditionellen Musikpavillon.", hu: "Történelmi nyilvános kert Georgetownban műemlékekkel és hagyományos zenepavilonnal.", ro: "O grădină publică istorică în Georgetown, cu monumente și un chioșc de muzică tradițional.", en: "A historic public garden in Georgetown featuring monuments and a traditional bandstand." , es: "Un histórico jardín público en Georgetown con monumentos y un quiosco de música tradicional.", pt: "Um jardim público histórico em Georgetown com monumentos e um coreto tradicional.", fr: "Un jardin public historique à Georgetown avec des monuments et un pavillon de musique traditionnel."},
     facts: {
       de: ["Ort von Hinrichtungen während des Sklavenaufstands von 1823.", "Bietet einen friedlichen Rückzugsort im Stadtzentrum."],
@@ -2966,7 +2940,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.166, 6.826],
     name: { de: "Pegasus Hotel Landmark", hu: "Pegasus Hotel Épülete", ro: "Clădirea Hotelului Pegasus", en: "Pegasus Hotel Landmark"},
-    image: "/poi-images/pegasus-hotel-georgetown-landmarks-v2.webp",
     description: { de: "Ein ikonisches kreisförmiges Gebäude in Georgetown, das als eines der bekanntesten modernen Wahrzeichen der Stadt gilt.", hu: "Ikonikus kör alakú épület Georgetownban, amely a város egyik legismertebb modern nevezetessége.", ro: "O clădire circulară iconică în Georgetown, recunoscută drept unul dintre cele mai faimoase repere moderne ale orașului.", en: "An iconic circular building in Georgetown recognized as one of the city's most famous modern landmarks." , es: "Un icónico edificio circular en Georgetown, considerado uno de los monumentos modernos más conocidos de la ciudad.", pt: "Um edifício circular icónico em Georgetown, considerado um dos marcos modernos mais conhecidos da cidade.", fr: "Un bâtiment circulaire emblématique à Georgetown, considéré comme l'un des monuments modernes les plus célèbres de la ville."},
     facts: {
       de: ["Eröffnet im Jahr 1969.", "Kürzlich um hochmoderne Anbauten erweitert."],
@@ -3370,7 +3343,6 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     parent: "GY-DE",
     coords: [-58.2545, 6.4985],
     name: { de: "Cheddi Jagan Flughafen-Terminal", hu: "Cheddi Jagan Repülőtéri Terminál", ro: "Terminalul Aeroportului Cheddi Jagan", en: "Cheddi Jagan Airport Terminal"},
-    image: "/poi-images/cjia-airport-terminal-landmarks-v2.webp",
     description: { de: "Das Hauptgebäude des größten internationalen Flughafens in Guyana, ein Symbol für die globale Anbindung des Landes.", hu: "Guyana legnagyobb nemzetközi repülőterének főépülete, az ország globális kapcsolatának szimbóluma.", ro: "Clădirea principală a celui mai mare aeroport internațional din Guyana, un simbol al conectivității globale a țării.", en: "The main building of the largest international airport in Guyana, a symbol of the country's global connectivity." , es: "El edificio principal del mayor aeropuerto internacional de Guyana, un símbolo de la conectividad global del país.", pt: "O edifício principal do maior aeroporto internacional da Guiana, um símbolo da conectividade global do país.", fr: "Le bâtiment principal du plus grand aéroport international du Guyana, symbole de la connectivité mondiale du pays."},
     facts: {
       de: ["Ursprünglich als US-Militärbasis erbaut.", "Wurde kürzlich umfassend modernisiert."],

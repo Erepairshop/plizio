@@ -8,7 +8,6 @@ export const poiExtraJordanEconomicV2: POI[] = [
     parent: "JO-AQ",
     coords: [34.9983, 29.4739],
     name: { de: "Containerterminal Akaba", hu: "Akabai Konténerterminál", ro: "Terminalul de Containere Aqaba", en: "Aqaba Container Terminal"},
-    image: "/poi-images/aqaba-container-terminal-economic-v2.webp",
     description: { de: "Einer der wichtigsten Häfen am Roten Meer, der Jordanien mit dem globalen Handel verbindet.", hu: "A Vörös-tenger egyik legfontosabb kikötője, amely összeköti Jordániát a globális kereskedelemmel.", ro: "Unul dintre cele mai importante porturi la Marea Roșie, conectând Iordania la comerțul global.", en: "One of the most important ports on the Red Sea, connecting Jordan to global trade." , es: "Uno de los puertos más importantes del Mar Rojo, que conecta a Jordania con el comercio global.", pt: "Um dos portos mais importantes do Mar Vermelho, que liga a Jordânia ao comércio global.", fr: "L'un des ports les plus importants de la mer Rouge, reliant la Jordanie au commerce mondial."},
     facts: {
       de: ["Wichtiger Knotenpunkt für den regionalen Handel.", "Gilt als logistisches Tor zur Levante."],
@@ -89,7 +88,6 @@ export const poiExtraJordanEconomicV2: POI[] = [
     parent: "JO-KA",
     coords: [35.5342, 31.0366],
     name: { de: "Arabische Kali-Gesellschaft", hu: "Arab Kálisó Társaság (APC)", ro: "Compania Arabă de Potasiu", en: "Arab Potash Company"},
-    image: "/poi-images/arab-potash-company-economic-v2.webp",
     description: { de: "Ein bedeutendes Bergbauunternehmen am Toten Meer, das Mineralien gewinnt und weltweit exportiert.", hu: "Jelentős bányászati vállalat a Holt-tengernél, amely ásványi anyagokat termel ki és exportál világszerte.", ro: "O companie minieră importantă la Marea Moartă, care extrage minerale și le exportă la nivel mondial.", en: "A major mining company on the Dead Sea that extracts minerals and exports them worldwide." , es: "Una importante empresa minera en el Mar Muerto que extrae minerales y los exporta a todo el mundo.", pt: "Uma importante empresa mineira no Mar Morto que extrai minerais e os exporta para todo o mundo.", fr: "Une importante société minière sur la mer Morte qui extrait des minéraux et les exporte dans le monde entier."},
     facts: {
       de: ["Gehört zu den größten Produzenten von Kaliumchlorid.", "Nutzt die Verdunstung des Toten Meeres zur Gewinnung."],
@@ -566,7 +564,6 @@ export const poiExtraJordanEconomicV2: POI[] = [
     parent: "JO-MN",
     coords: [36.1600, 29.7400],
     name: { de: "Phosphatmine Eshidiya", hu: "Esidijai Foszfátbánya", ro: "Mina de Fosfat Eshidiya", en: "Eshidiya Phosphate Mine"},
-    image: "/poi-images/eshidiya-phosphate-mine-economic-v2.webp",
     description: { de: "Jordaniens größte Phosphatmine im Gouvernement Ma'an, die große Mengen an Rohstoffen für Düngemittel liefert.", hu: "Jordánia legnagyobb foszfátbányája Ma'án kormányzóságban, amely nagy mennyiségű nyersanyagot biztosít a műtrágyagyártáshoz.", ro: "Cea mai mare mină de fosfat din Iordania în guvernoratul Ma'an, furnizând cantități mari de materii prime pentru îngrășăminte.", en: "Jordan's largest phosphate mine in the Ma'an Governorate, providing large quantities of raw materials for fertilizers." , es: "La mayor mina de fosfatos de Jordania, en la gobernación de Ma'an, que suministra grandes cantidades de materias primas para fertilizantes.", pt: "A maior mina de fosfatos da Jordânia, na província de Ma'an, que fornece grandes quantidades de matérias-primas para fertilizantes.", fr: "La plus grande mine de phosphate de Jordanie, dans le gouvernorat de Ma'an, qui fournit de grandes quantités de matières premières pour les engrais."},
     facts: {
       de: ["Wichtig für Jordaniens Agrarexporte.", "Beschäftigt Tausende von Arbeitern in der Region."],
@@ -2240,7 +2237,6 @@ export const poiExtraJordanEconomicV2: POI[] = [
     parent: "JO-MA",
     coords: [36.2705, 32.2798],
     name: { de: "Entwicklungszone Mafraq", hu: "Mafraki Fejlesztési Zóna", ro: "Zona de Dezvoltare Mafraq", en: "Mafraq Development Area"},
-    image: "/poi-images/mafraq-development-area-economic-v2.webp",
     description: { de: "Eine Sonderwirtschaftszone, die als Logistik- und Industriezentrum zur Förderung von Investitionen konzipiert ist.", hu: "Különleges gazdasági övezet, amelyet logisztikai és ipari központként hoztak létre a beruházások ösztönzésére.", ro: "O zonă economică specială concepută ca un centru logistic și industrial pentru a promova investițiile.", en: "A special economic zone designed as a logistics and industrial center to promote investments." , es: "Una zona económica especial diseñada como centro logístico e industrial para fomentar la inversión.", pt: "Uma zona económica especial concebida como centro logístico e industrial para promover o investimento.", fr: "Une zone économique spéciale conçue comme un centre logistique et industriel pour promouvoir l'investissement."},
     facts: {
       de: ["Nutzt die Nähe zu Syrien und dem Irak.", "Konzentriert sich auf Transport und Leichtindustrie."],
@@ -2321,7 +2317,6 @@ export const poiExtraJordanEconomicV2: POI[] = [
     parent: "JO-TA",
     coords: [35.6322, 30.7303],
     name: { de: "Windpark Tafilah", hu: "Tafilai Szélerőműpark", ro: "Parcul Eolian Tafilah", en: "Tafilah Wind Farm"},
-    image: "/poi-images/tafilah-wind-farm-economic-v2.webp",
     description: { de: "Das erste kommerzielle Windenergieprojekt im Nahen Osten, das saubere Energie für das jordanische Netz produziert.", hu: "A Közel-Kelet első kereskedelmi szélerőmű-projektje, amely tiszta energiát termel a jordán hálózat számára.", ro: "Primul proiect comercial de energie eoliană din Orientul Mijlociu, producând energie curată pentru rețeaua iordaniană.", en: "The first commercial wind energy project in the Middle East, producing clean energy for the Jordanian grid." , es: "El primer proyecto de energía eólica comercial en Oriente Medio, que produce energía limpia para la red jordana.", pt: "O primeiro projeto comercial de energia eólica no Médio Oriente, que produz energia limpa para a rede jordaniana.", fr: "Le premier projet d'énergie éolienne commerciale au Moyen-Orient, produisant de l'énergie propre pour le réseau jordanien."},
     facts: {
       de: ["Hat eine Kapazität von 117 Megawatt.", "Reduziert den CO2-Ausstoß des Landes erheblich."],
@@ -2546,7 +2541,6 @@ export const poiExtraJordanEconomicV2: POI[] = [
     parent: "JO-MN",
     coords: [35.7925, 30.1261],
     name: { de: "Solarpark Shams Ma'an", hu: "Shams Ma'an Naperőmű", ro: "Centrala Solară Shams Ma'an", en: "Shams Ma'an Solar Power Plant"},
-    image: "/poi-images/shams-maan-solar-plant-economic-v2.webp",
     description: { de: "Eine der größten Photovoltaikanlagen in der Region, die zur Verringerung der Energieabhängigkeit Jordaniens beiträgt.", hu: "A régió egyik legnagyobb fotovoltaikus erőműve, amely hozzájárul Jordánia energiafüggőségének csökkentéséhez.", ro: "Una dintre cele mai mari centrale fotovoltaice din regiune, contribuind la reducerea dependenței energetice a Iordaniei.", en: "One of the largest photovoltaic plants in the region, helping to reduce Jordan's energy dependence." , es: "Una de las plantas fotovoltaicas más grandes de la región, que contribuye a reducir la dependencia energética de Jordania.", pt: "Uma das maiores centrais fotovoltaicas da região, que contribui para a redução da dependência energética da Jordânia.", fr: "L'une des plus grandes installations photovoltaïques de la région, contribuant à réduire la dépendance énergétique de la Jordanie."},
     facts: {
       de: ["Produziert etwa ein Prozent der gesamten Energie Jordaniens.", "Verwendet Millionen von Solarmodulen."],
@@ -2879,7 +2873,6 @@ export const poiExtraJordanEconomicV2: POI[] = [
     parent: "JO-AQ",
     coords: [35.0181, 29.6116],
     name: { de: "King Hussein International Airport", hu: "Közép-Keleti Logisztikai Repülőtér (Aqaba)", ro: "Aeroportul Internațional King Hussein", en: "King Hussein International Airport"},
-    image: "/poi-images/king-hussein-airport-economic-v2.webp",
     description: { de: "Der Flughafen von Akaba, der als wichtiges Zentrum für Tourismus und Luftfracht im Süden dient.", hu: "Az akabai repülőtér, amely a turizmus és a légi árufuvarozás fontos központja délen.", ro: "Aeroportul din Aqaba, care servește ca un centru important pentru turism și marfă aeriană în sud.", en: "The airport in Aqaba, serving as an important center for tourism and air cargo in the south." , es: "El aeropuerto de Aqaba, que sirve como un importante centro para el turismo y la carga aérea en el sur.", pt: "O aeroporto de Aqaba, que serve como um importante centro para o turismo e carga aérea no sul.", fr: "L'aéroport d'Aqaba, qui sert de plaque tournante majeure pour le tourisme et le fret aérien dans le sud."},
     facts: {
       de: ["Verfügt über eine Freihandelszone für Luftfracht.", "Wichtig für die Sonderwirtschaftszone Akaba."],
@@ -3068,7 +3061,6 @@ export const poiExtraJordanEconomicV2: POI[] = [
     parent: "JO-AM",
     coords: [35.9868, 31.7226],
     name: { de: "Queen Alia International Airport", hu: "Alia Királyné Nemzetközi Repülőtér", ro: "Aeroportul Internațional Queen Alia", en: "Queen Alia International Airport"},
-    image: "/poi-images/queen-alia-airport-economic-v2.webp",
     description: { de: "Das wichtigste Tor Jordaniens für internationale Passagiere und ein zentraler Knotenpunkt für den globalen Handel.", hu: "Jordánia legfontosabb kapuja a nemzetközi utasok számára és a globális kereskedelem központi csomópontja.", ro: "Principala poartă de acces a Iordaniei pentru pasagerii internaționali și un hub central pentru comerțul global.", en: "Jordan's main gateway for international passengers and a central hub for global trade." , es: "La puerta de entrada más importante de Jordania para pasajeros internacionales y un centro neurálgico para el comercio global.", pt: "A porta de entrada mais importante da Jordânia para passageiros internacionais e um centro nevrálgico para o comércio global.", fr: "La porte d'entrée la plus importante de Jordanie pour les passagers internationaux et une plaque tournante centrale pour le commerce mondial."},
     facts: {
       de: ["Verwaltet den Großteil der jordanischen Luftfracht.", "Wurde mehrfach für sein modernes Design ausgezeichnet."],
@@ -3293,7 +3285,6 @@ export const poiExtraJordanEconomicV2: POI[] = [
     parent: "JO-AM",
     coords: [36.0094, 31.8681],
     name: { de: "Industriegebiet Sahab", hu: "Szahab Ipari Park", ro: "Parcul Industrial Sahab", en: "Sahab Industrial Estate"},
-    image: "/poi-images/sahab-industrial-estate-economic-v2.webp",
     description: { de: "Eines der ältesten und größten Industriegebiete in Jordanien, das Hunderte von Produktionsstätten beherbergt.", hu: "Jordánia egyik legrégebbi és legnagyobb ipari területe, amely több száz termelőüzemnek ad otthont.", ro: "Una dintre cele mai vechi și mai mari zone industriale din Iordania, găzduind sute de unități de producție.", en: "One of the oldest and largest industrial areas in Jordan, housing hundreds of manufacturing facilities." , es: "Una de las zonas industriales más antiguas y grandes de Jordania, que alberga cientos de instalaciones de producción.", pt: "Uma das zonas industriais mais antigas e maiores da Jordânia, que abriga centenas de instalações de produção.", fr: "L'une des zones industrielles les plus anciennes et les plus vastes de Jordanie, abritant des centaines d'installations de production."},
     facts: {
       de: ["Bekannt für Lebensmittel-, Chemie- und Kunststoffproduktion.", "Bietet Arbeitsplätze für Zehntausende Menschen."],
@@ -3662,7 +3653,6 @@ export const poiExtraJordanEconomicV2: POI[] = [
     parent: "JO-AM",
     coords: [36.2417, 31.2583],
     name: { de: "Ölschiefer-Kraftwerk Attarat", hu: "Attarat Olajpala Erőmű", ro: "Centrala de Șist Bituminos Attarat", en: "Attarat Oil Shale Power Plant"},
-    image: "/poi-images/attarat-oil-shale-power-plant-economic-v2.webp",
     description: { de: "Ein bedeutendes Energieprojekt, das lokale Ölschiefervorkommen zur Stromerzeugung nutzt.", hu: "Jelentős energiaprojekt, amely a helyi olajpala-készleteket használja fel villamosenergia-termelésre.", ro: "Un proiect energetic major care utilizează depozitele locale de șist bituminos pentru a genera electricitate.", en: "A major energy project that uses local oil shale deposits to generate electricity." , es: "Un importante proyecto energético que utiliza los yacimientos locales de esquisto bituminoso para la generación de electricidad.", pt: "Um importante projeto energético que utiliza depósitos locais de xisto betuminoso para a geração de eletricidade.", fr: "Un projet énergétique majeur utilisant les gisements locaux de schiste bitumineux pour la production d'électricité."},
     facts: {
       de: ["Trägt zur Diversifizierung der Energiequellen bei.", "Eines der größten Investitionsprojekte im Land."],
@@ -3743,7 +3733,6 @@ export const poiExtraJordanEconomicV2: POI[] = [
     parent: "JO-AZ",
     coords: [36.1517, 32.1481],
     name: { de: "Samra-Kraftwerk", hu: "Samra Erőmű", ro: "Centrala Electrică Samra", en: "Samra Electric Power Plant"},
-    image: "/poi-images/samra-electric-power-plant-economic-v2.webp",
     description: { de: "Ein modernes Gasturbinenkraftwerk, das eine Schlüsselrolle bei der Deckung des jordanischen Strombedarfs spielt.", hu: "Modern gázturbinás erőmű, amely kulcsszerepet játszik a jordániai villamosenergia-szükséglet fedezésében.", ro: "O centrală modernă pe gaz, care joacă un rol cheie în satisfacerea cererii de energie electrică a Iordaniei.", en: "A modern gas turbine power plant that plays a key role in meeting Jordan's electricity demand." , es: "Una moderna central eléctrica de turbinas de gas que desempeña un papel clave para cubrir la demanda eléctrica de Jordania.", pt: "Uma moderna central elétrica de turbinas a gás que desempenha um papel fundamental na satisfação da procura de eletricidade da Jordânia.", fr: "Une centrale électrique moderne à turbines à gaz qui joue un rôle clé dans la satisfaction de la demande d'électricité de la Jordanie."},
     facts: {
       de: ["Nutzt Erdgas als primären Brennstoff.", "Wurde mehrmals erweitert, um die Kapazität zu erhöhen."],
@@ -3779,7 +3768,6 @@ export const poiExtraJordanEconomicV2: POI[] = [
     parent: "JO-MA",
     coords: [38.9886, 32.5592],
     name: { de: "Risha-Gasfeld", hu: "Risha Gázmező", ro: "Câmpul de Gaze Risha", en: "Risha Gas Field"},
-    image: "/poi-images/risha-gas-field-economic-v2.webp",
     description: { de: "Jordaniens einziges produzierendes Erdgasfeld, gelegen in der östlichen Wüste nahe der irakischen Grenze.", hu: "Jordánia egyetlen termelő földgázmezője a keleti sivatagban, az iraki határ közelében.", ro: "Singurul câmp de gaze naturale în producție din Iordania, situat în deșertul estic, lângă granița cu Irak.", en: "Jordan's only producing natural gas field, located in the eastern desert near the Iraqi border." , es: "El único campo de gas natural en producción de Jordania, situado en el desierto oriental cerca de la frontera con Irak.", pt: "O único campo de gás natural em produção na Jordânia, localizado no deserto oriental perto da fronteira com o Iraque.", fr: "Le seul champ de gaz naturel producteur de Jordanie, situé dans le désert oriental près de la frontière irakienne."},
     facts: {
       de: ["Wird von der National Petroleum Company betrieben.", "Liefert Gas direkt an ein nahegelegenes Kraftwerk."],
@@ -3896,7 +3884,6 @@ export const poiExtraJordanEconomicV2: POI[] = [
     parent: "JO-TA",
     coords: [35.9725, 30.8258],
     name: { de: "Phosphatmine Al Hasa", hu: "Al Hasa Foszfátbánya", ro: "Mina de Fosfat Al Hasa", en: "Al Hasa Phosphate Mine"},
-    image: "/poi-images/al-hasa-phosphate-mine-economic-v2.webp",
     description: { de: "Ein bedeutender Bergbaustandort in Zentralsüdjordanien, der stark zur Wirtschaft der Region Tafilah beiträgt.", hu: "Jelentős bányászati telephely Közép-Dél-Jordániában, amely erősen hozzájárul Tafila régió gazdaságához.", ro: "Un sit minier major în centrul și sudul Iordaniei, care contribuie puternic la economia regiunii Tafilah.", en: "A major mining site in central-south Jordan, contributing heavily to the economy of the Tafilah region." , es: "Un importante sitio minero en el centro-sur de Jordania que contribuye significativamente a la economía de la región de Tafilah.", pt: "Um importante local de mineração no centro-sul da Jordânia, que contribui significativamente para a economia da região de Tafilah.", fr: "Un site minier majeur dans le centre-sud de la Jordanie, contribuant de manière significative à l'économie de la région de Tafilah."},
     facts: {
       de: ["Gilt als eine der ältesten Phosphatminen des Landes.", "Wird kontinuierlich modernisiert, um die Effizienz zu steigern."],
@@ -4013,7 +4000,6 @@ export const poiExtraJordanEconomicV2: POI[] = [
     parent: "JO-AQ",
     coords: [34.9786, 29.4311],
     name: { de: "Neuer Hafen von Akaba", hu: "Akabai Új Kikötő", ro: "Noul Port Aqaba", en: "Aqaba New Port"},
-    image: "/poi-images/aqaba-new-port-economic-v2.webp",
     description: { de: "Eine hochmoderne Hafenanlage, die gebaut wurde, um die maritimen Kapazitäten Jordaniens zu erweitern.", hu: "Korszerű kikötői létesítmény, amely Jordánia tengeri kapacitásának bővítésére épült.", ro: "O facilitate portuară de ultimă generație construită pentru a extinde capacitățile maritime ale Iordaniei.", en: "A state-of-the-art port facility built to expand Jordan's maritime capacities." , es: "Una instalación portuaria de vanguardia construida para ampliar las capacidades marítimas de Jordania.", pt: "Uma instalação portuária de última geração construída para expandir as capacidades marítimas da Jordânia.", fr: "Une installation portuaire ultramoderne construite pour étendre les capacités maritimes de la Jordanie."},
     facts: {
       de: ["Ersetzte den alten Haupthafen in der Innenstadt.", "Umfasst spezialisierte Terminals für verschiedene Güter."],
@@ -4049,7 +4035,6 @@ export const poiExtraJordanEconomicV2: POI[] = [
     parent: "JO-AM",
     coords: [36.1283, 31.7456],
     name: { de: "Solarpark Baynouna", hu: "Baynouna Naperőmű", ro: "Proiectul Solar Baynouna", en: "Baynouna Solar Power Project"},
-    image: "/poi-images/baynouna-solar-power-project-economic-v2.webp",
     description: { de: "Das größte Solarenergieprojekt in Jordanien, gelegen östlich von Amman, das erheblich zur grünen Wende beiträgt.", hu: "A legnagyobb napenergia-projekt Jordániában, Ammántól keletre, amely jelentősen hozzájárul a zöld átálláshoz.", ro: "Cel mai mare proiect de energie solară din Iordania, situat la est de Amman, contribuind semnificativ la tranziția verde.", en: "The largest solar energy project in Jordan, located east of Amman, contributing significantly to the green transition." , es: "El mayor proyecto de energía solar en Jordania, situado al este de Ammán, que contribuye significativamente a la transición ecológica.", pt: "O maior projeto de energia solar na Jordânia, localizado a leste de Amã, que contribui significativamente para a transição ecológica.", fr: "Le plus grand projet d'énergie solaire en Jordanie, situé à l'est d'Amman, contribuant de manière significative à la transition écologique."},
     facts: {
       de: ["Erzeugt genug Strom, um Tausende Haushalte zu versorgen.", "Wurde von einem internationalen Konsortium finanziert."],

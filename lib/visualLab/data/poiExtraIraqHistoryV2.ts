@@ -521,7 +521,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     parent: "IQ-BB",
     coords: [44.4208, 32.5422],
     name: { de: "Babylon", hu: "Babilon", ro: "Babilon", en: "Babylon"},
-    image: "/poi-images/babylon-history-v2.webp",
     description: { de: "Eine der berühmtesten antiken Städte der Welt am Euphrat.", hu: "A világ egyik leghíresebb ókori városa az Eufrátesz mentén.", ro: "Unul dintre cele mai faimoase orașe antice de pe Eufrat.", en: "One of the most famous ancient cities in the world on the Euphrates." , es: "Una de las ciudades antiguas más famosas del mundo a orillas del Éufrates.", pt: "Uma das cidades antigas mais famosas do mundo nas margens do Éufrates.", fr: "L'une des villes antiques les plus célèbres au monde, située sur l'Euphrate."},
     facts: {
       de: ["Gegründet im 3. Jahrtausend v. Chr.", "Heimat der Hängenden Gärten.", "War einst die größte Stadt der Welt."],
@@ -745,7 +744,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     parent: "IQ-DQ",
     coords: [46.1033, 30.9625],
     name: { de: "Zikkurat des Mondgottes Nanna", hu: "Uri zikkurat", ro: "Ziguratul din Ur", en: "Ziggurat of Ur"},
-    image: "/poi-images/ur-ziggurat-history-v2.webp",
     description: { de: "Ein massiver Stufentempel der Sumerer, der dem Mondgott Nanna geweiht war.", hu: "A sumerek hatalmas lépcsős temploma, amelyet Nanna holdistennek szenteltek.", ro: "Un templu masiv în trepte al sumerienilor, dedicat zeului lunii Nanna.", en: "A massive step temple of the Sumerians dedicated to the moon god Nanna." },
     facts: {
       de: ["Erbaut um 2100 v. Chr.", "Unter König Ur-Nammu errichtet.", "Teilweise im 20. Jahrhundert restauriert."],
@@ -771,7 +769,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     parent: "IQ-NI",
     coords: [42.7667, 35.5833],
     name: { de: "Hatra", hu: "Hatra", ro: "Hatra", en: "Hatra"},
-    image: "/poi-images/hatra-history-v2.webp",
     description: { de: "Eine befestigte antike Stadt mit beeindruckender hellenistischer und römischer Architektur.", hu: "Erődített ókori város lenyűgöző hellenisztikus és római építészettel.", ro: "Un oraș antic fortificat cu o arhitectură elenistică și romană impresionantă.", en: "A fortified ancient city with impressive Hellenistic and Roman architecture." , es: "Una ciudad antigua fortificada con una impresionante arquitectura helenística y romana.", pt: "Uma cidade antiga fortificada com uma impressionante arquitetura helenística e romana.", fr: "Une cité antique fortifiée dotée d'une architecture hellénistique et romaine impressionnante."},
     facts: {
       de: ["Widerstand römischen Belagerungen.", "Hauptstadt des ersten arabischen Königreichs.", "Ein UNESCO-Weltkulturerbe."],
@@ -2075,7 +2072,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     parent: "IQ-NI",
     coords: [43.1492, 36.3592],
     name: { de: "Ninive", hu: "Ninive", ro: "Ninive", en: "Nineveh"},
-    image: "/poi-images/nineveh-history-v2.webp",
     description: { de: "Einst die größte Stadt der Welt und die bedeutendste Hauptstadt des Assyrischen Reiches.", hu: "Egykor a világ legnagyobb városa és az Asszír Birodalom legjelentősebb fővárosa.", ro: "Cândva cel mai mare oraș din lume și cea mai importantă capitală a Imperiului Asirian.", en: "Once the largest city in the world and the most important capital of the Assyrian Empire." },
     facts: {
       de: ["Lag am östlichen Ufer des Tigris.", "Zerstört im Jahr 612 v. Chr.", "Heimat der Bibliothek von Assurbanipal."],
@@ -2362,7 +2358,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     parent: "IQ-SD",
     coords: [43.8739, 34.2058],
     name: { de: "Große Moschee von Samarra", hu: "Szamarrai nagymecset", ro: "Marea Moschee din Samarra", en: "Great Mosque of Samarra"},
-    image: "/poi-images/samarra-great-mosque-history-v2.webp",
     description: { de: "Eine historische Moschee aus dem 9. Jahrhundert mit einem markanten spiralförmigen Minarett.", hu: "Egy történelmi mecset a 9. századból, amely feltűnő spirális minaretjéről ismert.", ro: "O moschee istorică din secolul al IX-lea, cu un minaret în spirală distinctiv.", en: "A historical 9th-century mosque with a distinctive spiral minaret." },
     facts: {
       de: ["Erbaut im Jahr 851.", "Das Minarett ist 52 Meter hoch.", "War einst die größte Moschee der Welt."],
@@ -2613,7 +2608,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     parent: "IQ-NI",
     coords: [43.3283, 36.0983],
     name: { de: "Nimrud", hu: "Nimrud", ro: "Nimrud", en: "Nimrud"},
-    image: "/poi-images/nimrud-history-v2.webp",
     description: { de: "Eine antike assyrische Stadt, die für ihre massiven Paläste und riesigen Steinfiguren berühmt war.", hu: "Ősi asszír város, amely hatalmas palotáiról és gigantikus kőfiguráiról volt híres.", ro: "Un oraș antic asirian renumit pentru palatele sale masive și figurile uriașe din piatră.", en: "An ancient Assyrian city famous for its massive palaces and giant stone figures." },
     facts: {
       de: ["Gegründet im 13. Jahrhundert v. Chr.", "Bekannt für geflügelte Stiere.", "Wurde im 21. Jahrhundert schwer beschädigt."],
@@ -3872,7 +3866,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     parent: "IQ-AR",
     coords: [44.0100, 36.1911],
     name: { de: "Zitadelle von Erbil", hu: "Erbíli citadella", ro: "Citadela din Erbil", en: "Erbil Citadel"},
-    image: "/poi-images/erbil-citadel-history-v2.webp",
     description: { de: "Eine befestigte Siedlung auf einem Siedlungshügel, die zu den ältesten durchgehend bewohnten Orten gehört.", hu: "Erődített település egy dombon, amely az egyik legrégebbi folyamatosan lakott hely a világon.", ro: "O așezare fortificată pe o colină, unul dintre cele mai vechi locuri locuite continuu.", en: "A fortified settlement on a tell, one of the oldest continuously inhabited places in the world." , es: "Un asentamiento fortificado sobre un montículo que figura entre los lugares habitados de forma continua más antiguos.", pt: "Um assentamento fortificado num monte que se conta entre os locais continuamente habitados mais antigos.", fr: "Un établissement fortifié situé sur un tell, considéré comme l'un des plus anciens sites habités en continu au monde."},
     facts: {
       de: ["Seit über 6000 Jahren bewohnt.", "Erhebt sich 32 Meter über die Stadt.", "Im Jahr 2014 zum UNESCO-Erbe erklärt."],
@@ -4636,7 +4629,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     parent: "IQ-BG",
     coords: [44.5806, 33.0936],
     name: { de: "Taq Kasra", hu: "Ták Kiszra", ro: "Taq Kasra", en: "Taq Kasra"},
-    image: "/poi-images/taq-kasra-history-v2.webp",
     description: { de: "Der beeindruckende Überrest eines sassanidischen Palastes, bekannt für sein riesiges Ziegelgewölbe.", hu: "Egy szászánida palota lenyűgöző maradványa, amely hatalmas téglaíve miatt ismert.", ro: "Rămășița impresionantă a unui palat sasanid, cunoscută pentru bolta sa uriașă de cărămidă.", en: "The impressive remain of a Sasanian palace, known for its massive brick vault." },
     facts: {
       de: ["Größter unbewehrter Ziegelbogen der Welt.", "Teil der antiken Stadt Ktesiphon.", "Erbaut im 3. oder 6. Jahrhundert."],
@@ -5175,7 +5167,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     parent: "IQ-SD",
     coords: [43.2625, 35.4561],
     name: { de: "Aššur", hu: "Assur", ro: "Assur", en: "Assur"},
-    image: "/poi-images/assur-history-v2.webp",
     description: { de: "Die erste Hauptstadt und das religiöse Zentrum des Assyrischen Reiches am Tigris.", hu: "Az Asszír Birodalom első fővárosa és vallási központja a Tigris folyó mentén.", ro: "Prima capitală și centrul religios al Imperiului Asirian, pe fluviul Tigru.", en: "The first capital and religious center of the Assyrian Empire on the Tigris." , es: "La primera capital y el centro religioso del Imperio Asirio a orillas del Tigris.", pt: "A primeira capital e o centro religioso do Império Assírio nas margens do Tigre.", fr: "La première capitale et le centre religieux de l'Empire assyrien sur les rives du Tigre."},
     facts: {
       de: ["Gegründet im 3. Jahrtausend v. Chr.", "Benannt nach dem Hauptgott der Assyrer.", "Verfügte über zahlreiche Tempel und Paläste."],
@@ -5255,7 +5246,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     parent: "IQ-KA",
     coords: [43.6022, 32.4358],
     name: { de: "Festung von Al-Uchaidir", hu: "Al-Uhaidir erőd", ro: "Fortăreața Al-Ukhaidir", en: "Al-Ukhaidir Fortress"},
-    image: "/poi-images/al-ukhaidir-fortress-history-v2.webp",
     description: { de: "Eine gewaltige Festungsanlage aus der abbasidischen Zeit, die sich einsam in der Wüste erhebt.", hu: "Egy hatalmas erődítmény az Abbászida-korszakból, amely magányosan emelkedik ki a sivatagból.", ro: "O fortăreață masivă din perioada abbasidă, care se ridică singuratică în deșert.", en: "A massive fortress from the Abbasid period rising lonely in the desert." , es: "Una imponente fortaleza de la época abasí que se alza solitaria en medio del desierto.", pt: "Uma imponente fortaleza da era abássida que se ergue solitária no meio do deserto.", fr: "Une imposante forteresse de l'époque abbasside qui se dresse solitaire au milieu du désert."},
     facts: {
       de: ["Erbaut im späten 8. Jahrhundert.", "Zeigt frühe islamische Architektur.", "Diente als Palast und Verteidigungsanlage."],
@@ -5803,7 +5793,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     parent: "IQ-BG",
     coords: [44.1989, 33.3536],
     name: { de: "Dur-Kurigalzu", hu: "Dúr-Kurigalzu", ro: "Dur-Kurigalzu", en: "Dur-Kurigalzu"},
-    image: "/poi-images/dur-kurigalzu-history-v2.webp",
     description: { de: "Eine antike Stadt im südlichen Mesopotamien mit einer markanten, bis heute sichtbaren Zikkurat-Ruine.", hu: "Ókori város Mezopotámia déli részén, egy ma is látható, jellegzetes zikkurat-rommal.", ro: "Un oraș antic din sudul Mesopotamiei, cu o ruină de zigurat vizibilă și astăzi.", en: "An ancient city in southern Mesopotamia with a distinctive ziggurat ruin still visible today." , es: "Una ciudad antigua en el sur de Mesopotamia con una destacada ruina de zigurat visible hasta hoy.", pt: "Uma cidade antiga no sul da Mesopotâmia com uma ruína de zigurate marcante e visível até hoje.", fr: "Une cité antique du sud de la Mésopotamie dotée d'une ruine de ziggourat remarquable, encore visible aujourd'hui."},
     facts: {
       de: ["Gegründet im 14. Jahrhundert v. Chr.", "Hauptstadt der Kassiten.", "Der Kern der Zikkurat ist 57 Meter hoch."],
@@ -5919,7 +5908,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     parent: "IQ-BB",
     coords: [44.3414, 32.3922],
     name: { de: "Borsippa", hu: "Borszippa", ro: "Borsippa", en: "Borsippa"},
-    image: "/poi-images/borsippa-history-v2.webp",
     description: { de: "Eine wichtige sumerische und babylonische Stadt, oft mit dem Turmbau zu Babel in Verbindung gebracht.", hu: "Fontos sumer és babiloni város, amelyet gyakran a bábeli toronnyal hoznak összefüggésbe.", ro: "Un important oraș sumerian și babilonian, adesea asociat cu Turnul Babel.", en: "An important Sumerian and Babylonian city, often associated with the Tower of Babel." , es: "Una importante ciudad sumeria y babilónica, a menudo relacionada con la Torre de Babel.", pt: "Uma importante cidade suméria e babilónica, muitas vezes associada à Torre de Babel.", fr: "Une importante cité sumérienne et babylonienne, souvent associée à la tour de Babel."},
     facts: {
       de: ["Zentrum des Nabu-Kultes.", "Der Stufenturm Birs Nimrud dominiert die Ruinen.", "Etwa 20 km südwestlich von Babylon."],
@@ -6107,7 +6095,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     parent: "IQ-MU",
     coords: [45.6394, 31.3253],
     name: { de: "Uruk", hu: "Uruk", ro: "Uruk", en: "Uruk"},
-    image: "/poi-images/uruk-history-v2.webp",
     description: { de: "Eine der ersten echten Städte der Menschheitsgeschichte und Heimat des legendären Königs Gilgamesch.", hu: "Az emberiség történelmének egyik első igazi városa és a legendás Gilgames király otthona.", ro: "Unul dintre primele orașe adevărate din istoria omenirii și patria legendarului rege Ghilgameș.", en: "One of the first true cities in human history and home to the legendary King Gilgamesh." },
     facts: {
       de: ["Spielte eine führende Rolle in der frühen Urbanisierung.", "Ursprungsort der Keilschrift.", "Auf dem Höhepunkt lebten hier bis zu 80000 Menschen."],
@@ -6214,7 +6201,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     parent: "IQ-DQ",
     coords: [45.9961, 30.8158],
     name: { de: "Eridu", hu: "Eridu", ro: "Eridu", en: "Eridu"},
-    image: "/poi-images/eridu-history-v2.webp",
     description: { de: "Galt in der sumerischen Mythologie als die allererste von den Göttern geschaffene Stadt.", hu: "A sumer mitológiában az istenek által teremtett legelső városnak tartották.", ro: "Considerat în mitologia sumeriană drept primul oraș creat de zei.", en: "Considered in Sumerian mythology as the very first city created by the gods." , es: "Considerada en la mitología sumeria como la primera ciudad creada por los dioses.", pt: "Considerada na mitologia suméria como a primeiríssima cidade criada pelos deuses.", fr: "Considérée dans la mythologie sumérienne comme la toute première cité créée par les dieux."},
     facts: {
       de: ["Eine der ältesten Siedlungen in Südmesopotamien.", "Kultzentrum des Wassergottes Enki.", "Wurde um 5400 v. Chr. gegründet."],
@@ -6654,7 +6640,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     parent: "IQ-NI",
     coords: [43.3033, 36.7725],
     name: { de: "Lalisch-Tempel", hu: "Lális templom", ro: "Templul Lalish", en: "Lalish Temple"},
-    image: "/poi-images/lalish-temple-history-v2.webp",
     description: { de: "Das heiligste Heiligtum der Jesiden, gelegen in einem malerischen Tal im Norden des Landes.", hu: "A jazidik legszentebb kegyhelye, amely egy festői völgyben található az ország északi részén.", ro: "Cel mai sfânt sanctuar al yazidiților, situat într-o vale pitorească din nordul țării.", en: "The holiest sanctuary of the Yazidis, located in a picturesque valley in the north of the country." },
     facts: {
       de: ["Grabstätte von Scheich Adi ibn Musafir.", "Zentrum der jährlichen jesidischen Pilgerfahrten.", "Ist schätzungsweise über 4000 Jahre alt."],
@@ -6905,7 +6890,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     parent: "IQ-BB",
     coords: [44.6294, 32.5403],
     name: { de: "Kisch", hu: "Kis", ro: "Kish", en: "Kish"},
-    image: "/poi-images/kish-history-v2.webp",
     description: { de: "Eine bedeutende antike Stadt, die laut Überlieferung die erste nach der Großen Flut gegründete Königsdynastie beherbergte.", hu: "Jelentős ókori város, amely a hagyomány szerint az özönvíz után alapított első királyi dinasztiának adott otthont.", ro: "Un important oraș antic care, conform tradiției, a găzduit prima dinastie regală după Marele Potop.", en: "An important ancient city that, according to tradition, hosted the first royal dynasty after the Great Flood." },
     facts: {
       de: ["War ein Zentrum des akkadischen Reiches.", "Die Könige von Kisch hatten eine Vormachtstellung.", "Wurde bereits um 3000 v. Chr. besiedelt."],
@@ -7336,7 +7320,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     parent: "IQ-NA",
     coords: [44.3142, 31.9958],
     name: { de: "Imam-Ali-Moschee", hu: "Imám Ali-mecset", ro: "Moscheea Imamului Ali", en: "Imam Ali Mosque"},
-    image: "/poi-images/imam-ali-mosque-history-v2.webp",
     description: { de: "Eine der heiligsten Stätten des schiitischen Islams und Grabmal von Ali ibn Abi Talib.", hu: "A síita iszlám egyik legszentebb helye és Ali ibn Abi Tálib sírhelye.", ro: "Unul dintre cele mai sfinte locuri ale islamului șiit și mormântul lui Ali ibn Abi Talib.", en: "One of the holiest sites of Shia Islam and the tomb of Ali ibn Abi Talib." },
     facts: {
       de: ["Das ursprüngliche Gebäude stammt aus dem 10. Jahrhundert.", "Weist eine massive vergoldete Kuppel auf.", "Zieht jährlich Millionen von Pilgern an."],
@@ -7839,7 +7822,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     parent: "IQ-KA",
     coords: [44.0294, 32.6161],
     name: { de: "Imam-Husain-Schrein", hu: "Imám Huszein-szentély", ro: "Altarul Imamului Husayn", en: "Imam Husayn Shrine"},
-    image: "/poi-images/imam-husayn-shrine-history-v2.webp",
     description: { de: "Das Mausoleum des dritten schiitischen Imams und ein Zentrum tief verwurzelter religiöser Traditionen.", hu: "A harmadik síita imám mauzóleuma és a mélyen gyökerező vallási hagyományok központja.", ro: "Mausoleul celui de-al treilea imam șiit și un centru de tradiții religioase profund înrădăcinate.", en: "The mausoleum of the third Shia Imam and a center of deeply rooted religious traditions." },
     facts: {
       de: ["Steht an der Stätte der Schlacht von Kerbela.", "Einer der meistbesuchten Pilgerorte der Welt.", "Die Wände sind aufwendig mit Glasmosaiken verziert."],
@@ -8054,7 +8036,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     parent: "IQ-BG",
     coords: [44.3886, 33.3364],
     name: { de: "Mustansiriyya-Madrasa", hu: "Musztansziríja Egyetem", ro: "Madrasa Al-Mustansiriya", en: "Al-Mustansiriya University"},
-    image: "/poi-images/al-mustansiriya-university-history-v2.webp",
     description: { de: "Eines der ältesten Universitätsgebäude der Welt, das in der Blütezeit Bagdads als intellektuelles Zentrum diente.", hu: "A világ egyik legrégebbi egyetemi épülete, amely Bagdad fénykorában szellemi központként szolgált.", ro: "Una dintre cele mai vechi clădiri universitare din lume, care a servit ca centru intelectual în perioada de glorie a Bagdadului.", en: "One of the oldest university buildings in the world, serving as an intellectual center during Baghdad prime." , es: "Uno de los edificios universitarios más antiguos del mundo, que sirvió como centro intelectual durante el apogeo de Bagdad.", pt: "Um dos edifícios universitários mais antigos do mundo, que serviu como centro intelectual durante o apogeu de Bagdá.", fr: "L'un des plus anciens bâtiments universitaires au monde, qui fut un centre intellectuel majeur à l'apogée de Bagdad."},
     facts: {
       de: ["Gegründet im Jahr 1227 vom Abbasiden-Kalifen Al-Mustansir.", "Lehrte islamisches Recht, Medizin und Mathematik.", "Überlebte den Mongolensturm auf Bagdad 1258."],

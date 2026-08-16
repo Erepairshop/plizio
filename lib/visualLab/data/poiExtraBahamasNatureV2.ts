@@ -9,7 +9,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-AB",
     coords: [-77.12, 26.45],
     name: { de: "Great Abaco", hu: "Nagy-Abaco", ro: "Marea Abaco", en: "Great Abaco"},
-    image: "/poi-images/great-abaco-island-nature-v2.webp",
     description: { de: "Die größte Insel in der Abaco-Kette, bekannt für ihre Kiefernwälder und ihre Bootsbau-Tradition.", hu: "Az Abaco-szigetcsoport legnagyobb szigete, fenyőerdőiről és hajóépítési hagyományairól ismert.", ro: "Cea mai mare insulă din lanțul Abaco, cunoscută pentru pădurile sale de pini și tradiția construcției de bărci.", en: "The largest island in the Abaco chain, known for its pine forests and boat-building tradition." , es: "La isla más grande de la cadena de las Ábaco, conocida por sus bosques de pinos y su tradición en la construcción de barcos.", pt: "A maior ilha da cadeia de Ábaco, conhecida pelas suas florestas de pinheiros e pela sua tradição de construção naval.", fr: "La plus grande île de la chaîne des Abacos, connue pour ses forêts de pins et sa tradition de construction navale."},
     facts: {
       de: ["Hauptinsel der Abacos", "Wichtiger Lebensraum für den Abaco-Papagei", "Historisches Zentrum des Bootsbaus"],
@@ -45,7 +44,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-AN",
     coords: [-77.98, 24.41],
     name: { de: "Andros", hu: "Andros-sziget", ro: "Insula Andros", en: "Andros Island"},
-    image: "/poi-images/andros-island-nature-v2.webp",
     description: { de: "Die größte Insel der Bahamas, durchzogen von Gezeitenbächen und bedeckt mit großen Kiefernwäldern.", hu: "A Bahama-szigetek legnagyobb szigete, árapály-patakokkal átszőve és nagy kiterjedésű fenyőerdőkkel borítva.", ro: "Cea mai mare insulă din Bahamas, străbătută de pâraie mareice și acoperită de păduri întinse de pini.", en: "The largest island in the Bahamas, crisscrossed by tidal creeks and covered in vast pine forests." , es: "La isla más grande de las Bahamas, surcada por arroyos de marea y cubierta de grandes bosques de pinos.", pt: "A maior ilha das Bahamas, atravessada por riachos de maré e coberta por grandes florestas de pinheiros.", fr: "La plus grande île des Bahamas, sillonnée par des bras de mer et recouverte de vastes forêts de pins."},
     facts: {
       de: ["Größte Insel der Bahamas", "Heimat des drittgrößten Barriereriffs der Welt", "Bekannt für seine Blue Holes"],
@@ -81,7 +79,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-EL",
     coords: [-76.32, 25.17],
     name: { de: "Eleuthera Insel", hu: "Eleuthera-sziget", ro: "Insula Eleuthera", en: "Eleuthera Island"},
-    image: "/poi-images/eleuthera-island-nature-v2.webp",
     description: { de: "Eine lange, schmale Insel, berühmt für ihre rosa Sandstrände und das Glass Window Bridge.", hu: "Hosszú, keskeny sziget, amely rózsaszín homokos strandjairól és a Glass Window hídról híres.", ro: "O insulă lungă și subțire, renumită pentru plajele sale cu nisip roz și Podul Glass Window.", en: "A long, thin island famous for its pink sand beaches and the Glass Window Bridge." , es: "Una isla larga y estrecha, famosa por sus playas de arena rosada y el Glass Window Bridge.", pt: "Uma ilha longa e estreita, famosa pelas suas praias de areia rosa e pela Glass Window Bridge.", fr: "Une île longue et étroite, célèbre pour ses plages de sable rose et le Glass Window Bridge."},
     facts: {
       de: ["Bedeutet 'Freiheit' auf Griechisch", "Kontrast zwischen Atlantik und Karibik", "Ananas-Hauptstadt der Bahamas"],
@@ -117,7 +114,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-CI",
     coords: [-75.45, 24.34],
     name: { de: "Katzeninsel", hu: "Macska-sziget", ro: "Insula Cat", en: "Cat Island"},
-    image: "/poi-images/cat-island-nature-v2.webp",
     description: { de: "Eine unberührte Insel mit dem höchsten Punkt der Bahamas, Mount Alvernia.", hu: "Érintetlen sziget a Bahamák legmagasabb pontjával, a Mount Alverniával.", ro: "Cat Island este una dintre cele mai puțin dezvoltate și naturale insule din Bahamas, renumită pentru dealurile sale și vegetația luxuriantă. Insula oferă oportunități excelente pentru ecoturism și drumeții.", en: "An unspoiled island featuring the highest point in The Bahamas, Mount Alvernia." , es: "Una isla virgen con el punto más alto de las Bahamas, el Monte Alvernia.", pt: "Uma ilha intocada com o ponto mais alto das Bahamas, o Monte Alvernia.", fr: "Une île préservée avec le point culminant des Bahamas, le mont Alvernia."},
     facts: {
       de: ["Unberührte Strände", "Hügeliges Gelände", "Reiche Obeah-Folklore"],
@@ -153,7 +149,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-LI",
     coords: [-75.12, 23.25],
     name: { de: "Long Island (Bahamas)", hu: "Hosszú-sziget (Bahamák)", ro: "Long Island (Bahamas)", en: "Long Island (Bahamas)"},
-    image: "/poi-images/long-island-bahamas-nature-v2.webp",
     description: { de: "Eine 80 Meilen lange Insel, die für ihre dramatischen Klippen und das Dean's Blue Hole bekannt ist.", hu: "Egy 80 mérföld hosszú sziget, amely drámai szikláiról és a Dean's Blue Hole-ról ismert.", ro: "O insulă de 80 de mile lungime, cunoscută pentru stâncile sale dramatice și Dean's Blue Hole.", en: "An 80-mile long island known for its dramatic cliffs and Dean's Blue Hole." , es: "Una isla de 80 millas de largo conocida por sus espectaculares acantilados y el Dean's Blue Hole.", pt: "Uma ilha de 80 milhas de comprimento, conhecida pelas suas falésias dramáticas e pelo Dean's Blue Hole.", fr: "Une île de 80 miles de long, connue pour ses falaises spectaculaires et le Dean's Blue Hole."},
     facts: {
       de: ["Durch den Wendekreis des Krebses geteilt", "Heimat des tiefsten Blue Hole der Welt", "Kontrastierende Küstenlinien"],
@@ -189,7 +184,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-IN",
     coords: [-73.38, 21.08],
     name: { de: "Great Inagua", hu: "Nagy-Inagua", ro: "Marea Inagua", en: "Great Inagua"},
-    image: "/poi-images/great-inagua-island-nature-v2.webp",
     description: { de: "Die südlichste Insel der Bahamas, dominiert von einem Nationalpark und einer riesigen Flamingokolonie.", hu: "A Bahama-szigetek legdélibb szigete, amelyet egy nemzeti park és egy hatalmas flamingókolónia ural.", ro: "Cea mai sudică insulă din Bahamas, dominată de un parc național și o colonie vastă de flamingo.", en: "The southernmost island of the Bahamas, dominated by a national park and a vast flamingo colony." , es: "La isla más meridional de las Bahamas, dominada por un parque nacional y una enorme colonia de flamencos.", pt: "A ilha mais meridional das Bahamas, dominada por um parque nacional e uma enorme colónia de flamingos.", fr: "L'île la plus méridionale des Bahamas, dominée par un parc national et une immense colonie de flamants roses."},
     facts: {
       de: ["Heimat von über 80.000 Flamingos", "Große Salzgewinnungsindustrie", "Wichtiges Vogelschutzgebiet"],
@@ -225,7 +219,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-RC",
     coords: [-74.84, 23.68],
     name: { de: "Rum Cay", hu: "Rum Cay", ro: "Rum Cay", en: "Rum Cay"},
-    image: "/poi-images/rum-cay-island-nature-v2.webp",
     description: { de: "Eine ruhige, hügelige Insel mit historischen Ruinen, Korallenriffen und ausgezeichneten Surfbedingungen.", hu: "Csendes, dombos sziget történelmi romokkal, korallzátonyokkal és kiváló szörfözési lehetőségekkel.", ro: "O insulă liniștită, deluroasă, cu ruine istorice, recife de corali și condiții excelente de surfing.", en: "A quiet, hilly island with historic ruins, coral reefs, and excellent surfing." , es: "Una isla tranquila y montañosa con ruinas históricas, arrecifes de coral y excelentes condiciones para el surf.", pt: "Uma ilha tranquila e montanhosa com ruínas históricas, recifes de coral e excelentes condições para o surf.", fr: "Une île calme et vallonnée avec des ruines historiques, des récifs coralliens et d'excellentes conditions de surf."},
     facts: {
       de: ["Ankerplatz für Christoph Kolumbus", "Einst ein Zentrum der Salzgewinnung", "Wellenreiterparadies"],
@@ -261,7 +254,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-IN",
     coords: [-73.57, 21.05],
     name: { de: "Lake Rosa", hu: "Rosa-tó", ro: "Lacul Rosa", en: "Lake Rosa"},
-    image: "/poi-images/lake-rosa-inagua-nature-v2.webp",
     description: { de: "Ein großer, flacher Salzwassersee im Inagua-Nationalpark, der als Futterplatz für Flamingos dient.", hu: "Nagy, sekély, sós vizű tó az Inagua Nemzeti Parkban, amely a flamingók táplálkozóhelye.", ro: "Un lac mare, de mică adâncime, cu apă sărată, în Parcul Național Inagua, care servește drept zonă de hrănire pentru flamingo.", en: "A large, shallow, saltwater lake within Inagua National Park, serving as a feeding ground for flamingos." , es: "Un gran lago de agua salada poco profundo en el Parque Nacional de Inagua, que sirve de zona de alimentación para los flamencos.", pt: "Um grande lago de água salgada pouco profundo no Parque Nacional de Inagua, que serve de zona de alimentação para os flamingos.", fr: "Un grand lac d'eau salée peu profond dans le parc national d'Inagua, qui sert de zone de nourrissage pour les flamants roses."},
     facts: {
       de: ["Auch bekannt als Lake Windsor", "Zentraler Teil des Flamingo-Lebensraums", "Wichtige Brutstätte"],
@@ -297,7 +289,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-AN",
     coords: [-78.1, 24.65],
     name: { de: "Goose River", hu: "Goose-folyó", ro: "Râul Goose", en: "Goose River"},
-    image: "/poi-images/goose-river-andros-nature-v2.webp",
     description: { de: "Ein breiter Gezeitenbach auf North Andros, der sich durch Mangrovenwälder schlängelt.", hu: "Széles árapály-patak Észak-Androson, amely mangroveerdőkön kanyarog keresztül.", ro: "Un pârâu mareic larg în North Andros, care șerpuiește prin pădurile de mangrove.", en: "A wide tidal creek in North Andros that winds through mangrove forests." , es: "Un amplio arroyo de marea en North Andros que serpentea a través de bosques de manglares.", pt: "Um largo riacho de maré em North Andros que serpenteia por florestas de mangue.", fr: "Un large bras de mer sur North Andros qui serpente à travers les forêts de mangroves."},
     facts: {
       de: ["Wichtiges Bonefishing-Gebiet", "Lebensraum für viele Fischarten und Krabben", "Teil des ausgedehnten Bachsystems von Andros"],
@@ -333,7 +324,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-SA",
     coords: [-77.4, 26.0],
     name: { de: "Abaco-Nationalpark Wald", hu: "Abaco Nemzeti Park erdő", ro: "Pădurea Parcului Național Abaco", en: "Abaco National Park Forest"},
-    image: "/poi-images/abaco-national-park-forest-nature-v2.webp",
     description: { de: "Ein 20.500 Hektar großes Schutzgebiet mit karibischem Kiefernwald, Heimat des Bahama-Papageis.", hu: "20 500 hektáros védett terület karibi fenyőerdővel, a Bahama-papagáj otthona.", ro: "O rezervație de 20.500 de acri de pădure de pini caraibieni, adăpost pentru papagalul Bahama.", en: "A 20,500-acre preserve of Caribbean pine forest, home to the Bahama Parrot." , es: "Un área protegida de 20.500 hectáreas con bosque de pinos del Caribe, hogar del loro de las Bahamas.", pt: "Uma área protegida de 20.500 hectares com floresta de pinheiros das Caraíbas, lar do papagaio-das-bahamas.", fr: "Une zone protégée de 20 500 hectares avec une forêt de pins des Caraïbes, habitat de l'Amazone des Bahamas."},
     facts: {
       de: ["Schutzgebiet für den Bahama-Papagei", "Wichtiger Brutplatz", "Umfasst große Flächen karibischer Kiefer"],
@@ -369,7 +359,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-EX",
     coords: [-76.79, 24.59],
     name: { de: "Saddleback Cay", hu: "Saddleback Cay", ro: "Saddleback Cay", en: "Saddleback Cay"},
-    image: "/poi-images/saddleback-cay-nature-v2.webp",
     description: { de: "Eine malerische, unbewohnte Insel in den nördlichen Exumas mit einem sichelförmigen Strand.", hu: "Festői, lakatlan sziget az északi Exumákon, félhold alakú stranddal.", ro: "O insulă pitorească, nelocuită, în nordul Exumas, cu o plajă în formă de semilună.", en: "A picturesque uninhabited island in the northern Exumas with a crescent-shaped beach." , es: "Una pintoresca isla deshabitada en el norte de las Exumas con una playa en forma de media luna.", pt: "Uma ilha pitoresca e desabitada no norte das Exumas, com uma praia em forma de lua crescente.", fr: "Une île pitoresque et inhabitée dans le nord des Exumas, dotée d'une plage en forme de croissant."},
     facts: {
       de: ["Teil der Exuma Cays", "Beliebter Ankerplatz für Yachten", "Klare, türkisfarbene Gewässer"],
@@ -405,7 +394,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-CI",
     coords: [-75.12, 23.85],
     name: { de: "Conception Island", hu: "Conception-sziget", ro: "Insula Conception", en: "Conception Island"},
-    image: "/poi-images/conception-island-nature-v2.webp",
     description: { de: "Eine unberührte, unbewohnte Insel, die als Nationalpark geschützt ist und ein wichtiger Lebensraum für Wildtiere ist.", hu: "Érintetlen, lakatlan sziget, amely nemzeti parkként védett és fontos vadvilági élőhely.", ro: "O insulă virgină, nelocuită, protejată ca parc național și un habitat vital pentru fauna sălbatică.", en: "A pristine, uninhabited island protected as a national park and a vital wildlife habitat." , es: "Una isla virgen y deshabitada, protegida como parque nacional y hábitat importante para la vida silvestre.", pt: "Uma ilha intocada e desabitada, protegida como parque nacional e um importante habitat para a vida selvagem.", fr: "Une île préservée et inhabitée, protégée en tant que parc national et constituant un habitat important pour la faune sauvage."},
     facts: {
       de: ["Nistplatz für Grüne Meeresschildkröten", "Wichtiger Brutplatz für Seevögel", "Spektakuläre Korallenriffe"],
@@ -441,7 +429,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS",
     coords: [-78.0, 24.5],
     name: { de: "Great Bahama Bank", hu: "Nagy Bahama-pad", ro: "Marele Banc Bahamian", en: "Great Bahama Bank"},
-    image: "/poi-images/great-bahama-bank-sea-nature-v2.webp",
     description: { de: "Eine riesige Unterwasserplattform aus Karbonat, die für ihr extrem flaches, türkisfarbenes Wasser bekannt ist.", hu: "Hatalmas, karbonátos víz alatti platform, amely rendkívül sekély, türkizkék vizéről ismert.", ro: "O platformă subacvatică vastă de carbonat, cunoscută pentru apele sale extrem de puțin adânci și turcoaz.", en: "A vast underwater carbonate platform known for its extremely shallow, turquoise waters." , es: "Una enorme plataforma submarina de carbonato, conocida por sus aguas turquesas extremadamente poco profundas.", pt: "Uma enorme plataforma submarina de carbonato, conhecida pelas suas águas azul-turquesa extremamente rasas.", fr: "Une immense plateforme sous-marine de carbonate, connue pour ses eaux turquoise extrêmement peu profondes."},
     facts: {
       de: ["Eine der größten Karbonatplattformen der Welt", "Durchschnittstiefe von weniger als 10 Metern", "Reich an marinem Leben"],
@@ -477,7 +464,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS",
     coords: [-78.5, 26.8],
     name: { de: "Little Bahama Bank", hu: "Kis Bahama-pad", ro: "Micul Banc Bahamian", en: "Little Bahama Bank"},
-    image: "/poi-images/little-bahama-bank-sea-nature-v2.webp",
     description: { de: "Eine weitere große Karbonatplattform nördlich von Grand Bahama, bekannt für ihre Sandbänke und Korallenriffe.", hu: "Egy másik nagy karbonátplatform a Grand Bahamától északra, homokpadjairól és korallzátonyairól ismert.", ro: "O altă platformă mare de carbonat la nord de Grand Bahama, cunoscută pentru bancurile de nisip și recifele de corali.", en: "Another large carbonate platform north of Grand Bahama, known for its sand flats and coral reefs." , es: "Otra gran plataforma de carbonato al norte de Gran Bahama, conocida por sus bancos de arena y arrecifes de coral.", pt: "Outra grande plataforma de carbonato a norte de Grand Bahama, conhecida pelos seus bancos de areia e recifes de coral.", fr: "Une autre grande plateforme carbonatée au nord de Grand Bahama, connue pour ses bancs de sable et ses récifs coralliens."},
     facts: {
       de: ["Getrennt von der Great Bahama Bank", "Wichtiges Fischereigebiet", "Lebensraum für Meeresschildkröten und Delfine"],
@@ -549,7 +535,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-AK",
     coords: [-74.1, 22.4],
     name: { de: "Bucht von Acklins", hu: "Acklins-öböl", ro: "Golful Acklins", en: "Bight of Acklins"},
-    image: "/poi-images/acklins-bight-sea-nature-v2.webp",
     description: { de: "Eine große, flache Lagune, die von Acklins, Crooked Island und Long Cay umschlossen wird.", hu: "Nagy, sekély lagúna, amelyet Acklins, Crooked Island és Long Cay vesz körül.", ro: "O lagună mare, de mică adâncime, închisă de Acklins, Crooked Island și Long Cay.", en: "A large, shallow lagoon enclosed by Acklins, Crooked Island, and Long Cay." , es: "Una laguna grande y poco profunda rodeada por Acklins, Crooked Island y Long Cay.", pt: "Uma lagoa grande e rasa cercada por Acklins, Crooked Island e Long Cay.", fr: "Un grand lagon peu profond entouré par Acklins, Crooked Island et Long Cay."},
     facts: {
       de: ["Geschütztes, warmes Gewässer", "Hervorragende Bedingungen für Bonefish", "Labyrinth aus Sandbänken und Kanälen"],
@@ -585,7 +570,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-EX",
     coords: [-76.0, 24.5],
     name: { de: "Exuma Sound", hu: "Exuma Sound", ro: "Strâmtoarea Exuma", en: "Exuma Sound"},
-    image: "/poi-images/exuma-sound-sea-nature-v2.webp",
     description: { de: "Ein tiefes Meeresbecken, das von Eleuthera, Cat Island und den Exuma Cays begrenzt wird.", hu: "Mély tengeri medence, amelyet Eleuthera, Cat Island és az Exuma Cays határol.", ro: "Un bazin oceanic adânc, mărginit de Eleuthera, Insula Cat și Exuma Cays.", en: "A deep body of water bordered by Eleuthera, Cat Island, and the Exuma Cays." , es: "Una cuenca oceánica profunda delimitada por Eleuthera, Cat Island y los Exuma Cays.", pt: "Uma bacia oceânica profunda delimitada por Eleuthera, Cat Island e Exuma Cays.", fr: "Un bassin océanique profond délimité par Eleuthera, Cat Island et les Exuma Cays."},
     facts: {
       de: ["Reich an pelagischen Fischarten", "Wichtig für den Tiefsee-Sportfischfang", "Verbindet mit dem Atlantik"],
@@ -657,7 +641,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-HI",
     coords: [-76.98, 26.47],
     name: { de: "Tilloo Cay Reservat", hu: "Tilloo Cay Rezervátum", ro: "Rezervația Tilloo Cay", en: "Tilloo Cay Reserve"},
-    image: "/poi-images/tilloo-cay-reserve-nature-v2.webp",
     description: { de: "Ein geschütztes Gebiet in den Abacos, das als wichtiger Nistplatz für Seevögel dient.", hu: "Védett terület az Abaco-szigeteken, amely a tengeri madarak fontos fészkelőhelye.", ro: "O zonă protejată în Abacos, care servește drept loc important de cuibărit pentru păsările marine.", en: "A protected area in the Abacos that serves as an important nesting site for seabirds." , es: "Un área protegida en los Abacos que sirve como importante lugar de anidación para aves marinas.", pt: "Uma área protegida nos Abacos que serve como importante local de nidificação para aves marinhas.", fr: "Une zone protégée dans les Abacos qui sert de lieu de nidification important pour les oiseaux de mer."},
     facts: {
       de: ["Wichtiger Brutplatz für Weißschwanz-Tropikvögel", "Dünen, Küstenbuschwerk und felsige Küste", "Von Bahamas National Trust verwaltet"],
@@ -693,7 +676,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-SA",
     coords: [-77.0, 26.35],
     name: { de: "Pelican Cays Land and Sea Park", hu: "Pelican Cays Szárazföldi és Tengeri Park", ro: "Parcul Terestru și Marin Pelican Cays", en: "Pelican Cays Land and Sea Park"},
-    image: "/poi-images/pelican-cays-land-sea-park-nature-v2.webp",
     description: { de: "Ein 2.100 Hektar großes Meeresschutzgebiet in den Abacos, das für seine Unterwasserhöhlen und Korallenriffe bekannt ist.", hu: "2100 hektáros tengeri rezervátum az Abaco-szigeteken, amely víz alatti barlangjairól és korallzátonyairól ismert.", ro: "O rezervație marină de 2.100 de acri în Abacos, cunoscută pentru peșterile sale subacvatice și recifele de corali.", en: "A 2,100-acre marine reserve in the Abacos known for its underwater caves and coral reefs." , es: "Una reserva marina de 2.100 hectáreas en las Ábacos, conocida por sus cuevas submarinas y arrecifes de coral.", pt: "Uma reserva marinha de 2.100 hectares nas Abacos, conhecida pelas suas grutas submarinas e recifes de coral.", fr: "Une réserve marine de 2 100 hectares dans les Abacos, connue pour ses grottes sous-marines et ses récifs coralliens."},
     facts: {
       de: ["Atemberaubendes Korallenriff-Ökosystem", "Beliebt zum Schnorcheln und Tauchen", "Schutz für eine Vielzahl von Meereslebewesen"],
@@ -729,7 +711,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-WG",
     coords: [-78.39, 27.26],
     name: { de: "Walker's Cay Nationalpark", hu: "Walker's Cay Nemzeti Park", ro: "Parcul Național Walker's Cay", en: "Walker's Cay National Park"},
-    image: "/poi-images/walker-s-cay-national-park-nature-v2.webp",
     description: { de: "Die nördlichste Insel der Bahamas, ein legendäres Sportfischerziel, das als Nationalpark geschützt ist.", hu: "A Bahamák legészakibb szigete, egy legendás sporthorgász-célpont, amely nemzeti parkként védett.", ro: "Cea mai nordică insulă din Bahamas, o destinație legendară pentru pescuitul sportiv, protejată ca parc național.", en: "The northernmost island in The Bahamas, a legendary sport-fishing destination protected as a national park." , es: "La isla más septentrional de las Bahamas, un legendario destino de pesca deportiva protegido como parque nacional.", pt: "A ilha mais setentrional das Bahamas, um destino lendário de pesca desportiva protegido como parque nacional.", fr: "L'île la plus septentrionale des Bahamas, une destination de pêche sportive légendaire protégée en tant que parc national."},
     facts: {
       de: ["Bekannt für Hochseefischerei", "Wichtige Korallenriffe", "Umfasst die umliegenden Meeresgebiete"],
@@ -765,7 +746,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-AK",
     coords: [-73.5, 23.08],
     name: { de: "Samana Cay", hu: "Samana Cay", ro: "Samana Cay", en: "Samana Cay"},
-    image: "/poi-images/samana-cay-island-nature-v2.webp",
     description: { de: "Eine heute unbewohnte Insel, die von einigen als erster Landeplatz von Kolumbus angesehen wird.", hu: "Ma már lakatlan sziget, amelyet egyesek Kolumbusz első partraszállási helyének tartanak.", ro: "O insulă acum nelocuită, considerată de unii primul loc de debarcare al lui Columb.", en: "A now-uninhabited island, considered by some to be Columbus's first landfall." , es: "Una isla actualmente deshabitada que algunos consideran el primer lugar de desembarco de Colón.", pt: "Uma ilha atualmente desabitada, considerada por alguns como o primeiro local de desembarque de Colombo.", fr: "Une île aujourd'hui inhabitée, considérée par certains comme le premier lieu de débarquement de Colomb."},
     facts: {
       de: ["Lange, unberührte Strände", "Keine ständige Bevölkerung", "Historisch umstritten"],
@@ -801,7 +781,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-CK",
     coords: [-74.22, 22.75],
     name: { de: "Mount Cauldwell", hu: "Cauldwell-hegy", ro: "Muntele Cauldwell", en: "Mount Cauldwell"},
-    image: "/poi-images/mount-cauldwell-nature-v2.webp",
     description: { de: "Eine der höchsten Erhebungen auf Crooked Island, die einen weiten Blick über die Insel bietet.", hu: "A Crooked-sziget egyik legmagasabb pontja, amely széles kilátást nyújt a szigetre.", ro: "Una dintre cele mai înalte cote de pe Insula Crooked, oferind vederi ample asupra insulei.", en: "One of the highest elevations on Crooked Island, offering sweeping views of the island." , es: "Una de las elevaciones más altas de Crooked Island, que ofrece una amplia vista de la isla.", pt: "Uma das elevações mais altas da Ilha Crooked, que oferece uma vista ampla sobre a ilha.", fr: "L'un des points culminants de Crooked Island, offrant une vue étendue sur l'île."},
     facts: {
       de: ["Höhe von ca. 34 Metern", "Guter Aussichtspunkt", "Teil des zentralen Hügelkamms der Insel"],
@@ -837,7 +816,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-AN",
     coords: [-77.78, 24.73],
     name: { de: "Fresh Creek", hu: "Fresh Creek", ro: "Pârâul Fresh", en: "Fresh Creek"},
-    image: "/poi-images/fresh-creek-andros-nature-v2.webp",
     description: { de: "Ein bedeutender Gezeitenbach auf Andros, der tief ins Landesinnere führt und mit Blue Holes verbunden ist.", hu: "Jelentős árapály-patak Androson, amely mélyen a sziget belsejébe nyúlik és kék lyukakkal van összeköttetésben.", ro: "Un pârâu mareic major pe Andros care duce adânc în interior și se conectează la găuri albastre.", en: "A major tidal creek on Andros that leads deep inland and connects to blue holes." , es: "Un importante arroyo de marea en Andros que se adentra profundamente en el interior y está conectado con agujeros azules.", pt: "Um importante riacho de maré em Andros que leva profundamente ao interior e está ligado a buracos azuis.", fr: "Un important bras de mer à Andros qui s'enfonce profondément dans les terres et est relié à des trous bleus."},
     facts: {
       de: ["Mündet in der Nähe von Andros Town", "Lebensraum für Tarpon und Bonefish", "Verbindet das Meer mit Binnen-Blue-Holes"],
@@ -873,7 +851,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-NP",
     coords: [-77.38, 25.03],
     name: { de: "Harrold and Wilson Ponds Nationalpark", hu: "Harrold és Wilson tavak Nemzeti Park", ro: "Parcul Național Iazurile Harrold și Wilson", en: "Harrold and Wilson Ponds National Park"},
-    image: "/poi-images/harrold-and-wilson-ponds-np-nature-v2.webp",
     description: { de: "Wichtiges Feuchtgebiet auf New Providence, das als wichtiger Lebensraum für Wasservögel ausgewiesen ist.", hu: "Fontos vizes élőhely New Providence-en, amelyet fontos vízimadár-élőhelynek jelöltek ki.", ro: "Zonă umedă importantă pe New Providence, desemnată ca habitat vital pentru păsările de apă.", en: "An important wetland area on New Providence, designated as a vital habitat for water birds." , es: "Importante humedal en New Providence, designado como hábitat crucial para aves acuáticas.", pt: "Importante zona húmida em New Providence, designada como habitat crucial para aves aquáticas.", fr: "Importante zone humide sur New Providence, désignée comme habitat essentiel pour les oiseaux aquatiques."},
     facts: {
       de: ["Wichtiges Vogelschutzgebiet auf New Providence", "Schutz für über 100 Vogelarten", "Süßwasser- und Salzwasserteiche"],
@@ -909,7 +886,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-AB",
     coords: [-77.5, 26.82],
     name: { de: "Fowl Cays Nationalpark", hu: "Fowl Cays Nemzeti Park", ro: "Parcul Național Fowl Cays", en: "Fowl Cays National Park"},
-    image: "/poi-images/fowlers-cay-reserve-nature-v2.webp",
     description: { de: "Ein Nationalpark in den Abacos mit blühenden Korallenriffen und einer reichen Unterwasserwelt.", hu: "Nemzeti park az Abaco-szigeteken, virágzó korallzátonyokkal és gazdag tengeri élővilággal.", ro: "Un parc național în Abacos, cu recife de corali înfloritoare și o viață marină abundentă.", en: "A national park in the Abacos with thriving coral reefs and abundant marine life." , es: "Un parque nacional en los Ábacos con prósperos arrecifes de coral y una rica vida submarina.", pt: "Um parque nacional nas Ábacos com recifes de coral prósperos e uma rica vida subaquática.", fr: "Un parc national dans les Abacos avec des récifs coralliens florissants et une vie sous-marine riche."},
     facts: {
       de: ["Beliebtes Ziel für Schnorchler", "Schutz für Korallenriffe und Seegraswiesen", "Liegt zwischen Man-O-War und Scotland Cay"],
@@ -945,7 +921,6 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-SS",
     coords: [-74.55, 24.05],
     name: { de: "Westküste von San Salvador", hu: "San Salvador nyugati partja", ro: "Coasta de Vest a San Salvador", en: "San Salvador West Coast"},
-    image: "/poi-images/san-salvador-west-coast-sea-nature-v2.webp",
     description: { de: "Die geschützte Westküste von San Salvador, bekannt für ihre spektakulären Wandtauchgänge.", hu: "San Salvador védett nyugati partja, amely látványos fali merüléseiről ismert.", ro: "Coasta de vest protejată a San Salvador, renumită pentru scufundările sale spectaculoase de perete.", en: "The sheltered western coast of San Salvador, renowned for its spectacular wall dives." , es: "La protegida costa oeste de San Salvador, conocida por sus espectaculares inmersiones en pared.", pt: "A costa oeste protegida de San Salvador, conhecida pelos seus mergulhos em paredão espetaculares.", fr: "La côte ouest protégée de San Salvador, réputée pour ses plongées sur tombants spectaculaires."},
     facts: {
       de: ["Steile Unterwasserwände", "Hervorragende Sichtverhältnisse", "Reiche Vielfalt an Korallen und Schwämmen"],

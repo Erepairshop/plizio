@@ -773,7 +773,6 @@ export const poiExtraTaiwanNatureV2: POI[] = [
     parent: "TW-HUA",
     coords: [121.4500, 24.2333],
     name: { de: "Nationalpark Taroko", hu: "Taroko Nemzeti Park", ro: "Parcul Național Taroko", en: "Taroko National Park"},
-    image: "/poi-images/taroko-national-park-nature-v2.webp",
     description: { de: "Der Nationalpark Taroko ist berühmt für seine gewaltigen Marmorschluchten und die tiefe Flussschlucht des Liwu.", hu: "A Taroko Nemzeti Park híres lenyűgöző márványszurdokairól és a Liwu folyó mély kanyonjáról.", ro: "Parcul Național Taroko este faimos pentru cheile sale masive de marmură și canionul adânc al râului Liwu.", en: "Taroko National Park is famous for its massive marble gorges and the deep canyon of the Liwu River." , es: "El Parque Nacional Taroko es famoso por sus enormes gargantas de mármol y el profundo desfiladero del río Liwu.", pt: "O Parque Nacional Taroko é famoso pelas suas enormes gargantas de mármore e pelo profundo desfiladeiro do rio Liwu.", fr: "Le parc national de Taroko est célèbre pour ses immenses gorges de marbre et le profond canyon de la rivière Liwu."},
     facts: {
       de: ["Wurde 1986 gegründet.", "Bekannt für den Schrein des Ewigen Frühlings."],
@@ -1142,7 +1141,6 @@ export const poiExtraTaiwanNatureV2: POI[] = [
     parent: "TW-NAN",
     coords: [120.9833, 23.4667],
     name: { de: "Nationalpark Yushan", hu: "Jusan Nemzeti Park", ro: "Parcul Național Yushan", en: "Yushan National Park"},
-    image: "/poi-images/yushan-national-park-nature-v2.webp",
     description: { de: "Der Nationalpark Yushan umfasst den höchsten Berggipfel Taiwans und zeichnet sich durch seine reiche alpine Flora aus.", hu: "A Jusan Nemzeti Park magában foglalja Tajvan legmagasabb hegycsúcsát, és gazdag alpesi növényvilágáról ismert.", ro: "Parcul Național Yushan include cel mai înalt vârf din Taiwan și este cunoscut pentru flora sa alpină bogată.", en: "Yushan National Park contains Taiwan's highest peak and is noted for its rich alpine flora." , es: "El Parque Nacional Yushan abarca el pico más alto de Taiwán y se caracteriza por su rica flora alpina.", pt: "O Parque Nacional Yushan abrange o pico mais alto de Taiwan e caracteriza-se pela sua rica flora alpina.", fr: "Le parc national de Yushan englobe le plus haut sommet de Taïwan et se caractérise par sa riche flore alpine."},
     facts: {
       de: ["Beherbergt den Jadeberg mit 3952 Metern.", "Ist ein wichtiges Schutzgebiet für den Formosa-Schwarzbären."],
@@ -1655,7 +1653,6 @@ export const poiExtraTaiwanNatureV2: POI[] = [
     parent: "TW-TPE",
     coords: [121.5500, 25.1667],
     name: { de: "Nationalpark Yangmingshan", hu: "Jangmingsan Nemzeti Park", ro: "Parcul Național Yangmingshan", en: "Yangmingshan National Park"},
-    image: "/poi-images/yangmingshan-national-park-nature-v2.webp",
     description: { de: "Der Nationalpark Yangmingshan in der Nähe von Taipeh ist bekannt für seine heißen Quellen und vulkanischen Fumarolen.", hu: "A Tajpej közelében fekvő Jangmingsan Nemzeti Park hőforrásairól és vulkanikus kigőzölgéseiről ismert.", ro: "Parcul Național Yangmingshan de lângă Taipei este cunoscut pentru izvoarele sale termale și fumarolele vulcanice.", en: "Yangmingshan National Park near Taipei is known for its hot springs and volcanic fumaroles." , es: "El Parque Nacional Yangmingshan, cerca de Taipéi, es conocido por sus aguas termales y fumarolas volcánicas.", pt: "O Parque Nacional Yangmingshan, perto de Taipé, é conhecido pelas suas fontes termais e fumarolas vulcânicas.", fr: "Le parc national de Yangmingshan, près de Taipei, est connu pour ses sources chaudes et ses fumerolles volcaniques."},
     facts: {
       de: ["Zahlreiche heiße Schwefelquellen prägen die Landschaft.", "Berühmt für die Kirschblüte im Frühling."],
@@ -1952,7 +1949,6 @@ export const poiExtraTaiwanNatureV2: POI[] = [
     parent: "TW-PIF",
     coords: [120.7833, 21.9833],
     name: { de: "Nationalpark Kenting", hu: "Kenting Nemzeti Park", ro: "Parcul Național Kenting", en: "Kenting National Park"},
-    image: "/poi-images/kenting-national-park-nature-v2.webp",
     description: { de: "Der Nationalpark Kenting liegt an der Südspitze Taiwans und bietet weiße Sandstrände sowie tropische Korallenriffe.", hu: "A Kenting Nemzeti Park Tajvan déli csücskén fekszik, fehér homokos strandokat és trópusi korallzátonyokat kínál.", ro: "Parcul Național Kenting se află la extremitatea sudică a Taiwanului și oferă plaje cu nisip alb și recife de corali tropicale.", en: "Kenting National Park is located at the southern tip of Taiwan and offers white sandy beaches and tropical coral reefs." , es: "El Parque Nacional Kenting se encuentra en el extremo sur de Taiwán y ofrece playas de arena blanca y arrecifes de coral tropicales.", pt: "O Parque Nacional Kenting situa-se na extremidade sul de Taiwan e oferece praias de areia branca e recifes de coral tropicais.", fr: "Le parc national de Kenting est situé à la pointe sud de Taïwan et offre des plages de sable blanc et des récifs coralliens tropicaux."},
     facts: {
       de: ["Ist der älteste Nationalpark Taiwans.", "Wurde im Jahr 1984 offiziell gegründet."],
@@ -2033,7 +2029,6 @@ export const poiExtraTaiwanNatureV2: POI[] = [
     parent: "TW-MIA",
     coords: [121.2333, 24.3833],
     name: { de: "Nationalpark Shei-Pa", hu: "Hsej-Pa Nemzeti Park", ro: "Parcul Național Shei-Pa", en: "Shei-Pa National Park"},
-    image: "/poi-images/shei-pa-national-park-nature-v2.webp",
     description: { de: "Der Nationalpark Shei-Pa schützt eine zerklüftete Gebirgsregion mit steilen Gipfeln und seltenen endemischen Tierarten.", hu: "A Hsej-Pa Nemzeti Park meredek csúcsokkal teli, zord hegyvidéket és ritka endemikus állatfajokat véd.", ro: "Parcul Național Shei-Pa protejează o regiune muntoasă accidentată, cu vârfuri abrupte și specii de animale endemice rare.", en: "Shei-Pa National Park protects a rugged mountainous region with steep peaks and rare endemic animal species." , es: "El Parque Nacional Shei-Pa protege una región montañosa escarpada con picos empinados y especies animales endémicas raras.", pt: "O Parque Nacional Shei-Pa protege uma região montanhosa escarpada com picos íngremes e espécies animais endémicas raras.", fr: "Le parc national de Shei-Pa protège une région montagneuse accidentée avec des sommets escarpés et des espèces animales endémiques rares."},
     facts: {
       de: ["Der Schneeberg ist der zweithöchste Berg der Insel.", "Heimat des seltenen Formosa-Lachses."],
@@ -3059,7 +3054,6 @@ export const poiExtraTaiwanNatureV2: POI[] = [
     parent: "TW-TXG",
     coords: [121.2319, 24.3836],
     name: { de: "Schneeberg (Xueshan)", hu: "Hó-hegy (Hszüesan)", ro: "Muntele de Zăpadă (Xueshan)", en: "Snow Mountain (Xueshan)"},
-    image: "/poi-images/xueshan-mountain-nature-v2.webp",
     description: { de: "Der Schneeberg ist mit 3886 Metern der zweithöchste Berg Taiwans und bietet anspruchsvolle Wanderwege durch unberührte Natur.", hu: "A Hó-hegy 3886 méteres magasságával Tajvan második legmagasabb hegye, kihívást jelentő túraútvonalakat kínál érintetlen természetben.", ro: "Muntele de Zăpadă, cu o altitudine de 3886 de metri, este al doilea munte ca înălțime din Taiwan și oferă trasee de drumeție solicitante în natură neatinsă.", en: "Snow Mountain, at 3886 meters, is Taiwan's second highest mountain, offering challenging hiking trails through untouched nature." , es: "La Montaña de Nieve (Xueshan) es el segundo pico más alto de Taiwán con 3886 metros y ofrece rutas de senderismo desafiantes a través de una naturaleza virgen.", pt: "A Montanha de Neve (Xueshan) é o segundo pico mais alto de Taiwan com 3886 metros e oferece trilhas desafiadoras através de uma natureza intocada.", fr: "La montagne des Neiges (Xueshan) est le deuxième plus haut sommet de Taïwan avec 3886 mètres et offre des sentiers de randonnée exigeants à travers une nature sauvage."},
     facts: {
       de: ["Gehört zum Nationalpark Shei-Pa.", "Sein Gipfel bietet oft atemberaubende Ausblicke auf ein Wolkenmeer."],
@@ -3464,7 +3458,6 @@ export const poiExtraTaiwanNatureV2: POI[] = [
     parent: "TW-NAN",
     coords: [120.9572, 23.4700],
     name: { de: "Jadeberg (Yushan)", hu: "Jáde-hegy (Jusan)", ro: "Muntele de Jad (Yushan)", en: "Jade Mountain (Yushan)"},
-    image: "/poi-images/yushan-mountain-nature-v2.webp",
     description: { de: "Der Jadeberg ist der höchste Punkt Taiwans und eine bedeutende Landmarke, die Bergsteiger aus aller Welt anzieht.", hu: "A Jáde-hegy Tajvan legmagasabb pontja, jelentős tájékozódási pont, amely a világ minden tájáról vonzza a hegymászókat.", ro: "Muntele de Jad este cel mai înalt punct din Taiwan și un punct de reper important care atrage alpiniști din întreaga lume.", en: "Jade Mountain is the highest point in Taiwan and a major landmark attracting mountaineers from around the world." , es: "La Montaña de Jade (Yushan) es el punto más alto de Taiwán y un hito importante que atrae a montañistas de todo el mundo.", pt: "A Montanha de Jade (Yushan) é o ponto mais alto de Taiwan e um marco importante que atrai montanhistas de todo o mundo.", fr: "La montagne de Jade (Yushan) est le point culminant de Taïwan et un point de repère important qui attire les alpinistes du monde entier."},
     facts: {
       de: ["Mit 3952 Metern der höchste Gipfel der Insel.", "Im Winter ist der Gipfel oft mit Schnee bedeckt."],
@@ -3500,7 +3493,6 @@ export const poiExtraTaiwanNatureV2: POI[] = [
     parent: "TW-NAN",
     coords: [120.1970, 23.8450],
     name: { de: "Zhuoshui-Fluss", hu: "Csuosuj-folyó", ro: "Râul Zhuoshui", en: "Zhuoshui River"},
-    image: "/poi-images/zhuoshui-river-nature-v2.webp",
     description: { de: "Der Zhuoshui-Fluss ist der längste Fluss Taiwans und hat eine immense Bedeutung für die Landwirtschaft im zentralen Teil der Insel.", hu: "A Csuosuj-folyó Tajvan leghosszabb folyója, és hatalmas jelentőséggel bír a sziget középső részének mezőgazdaságában.", ro: "Râul Zhuoshui este cel mai lung râu din Taiwan și are o importanță imensă pentru agricultura din partea centrală a insulei.", en: "The Zhuoshui River is the longest river in Taiwan and has immense importance for agriculture in the central part of the island." , es: "El río Zhuoshui es el río más largo de Taiwán y tiene una importancia inmensa para la agricultura en la parte central de la isla.", pt: "O rio Zhuoshui é o rio mais longo de Taiwan e tem uma importância imensa para a agricultura na parte central da ilha.", fr: "La rivière Zhuoshui est la plus longue rivière de Taïwan et revêt une importance immense pour l'agriculture dans la partie centrale de l'île."},
     facts: {
       de: ["Erreicht eine Gesamtlänge von rund 186 Kilometern.", "Sein Name bedeutet übersetzt schlammiges Wasser."],
@@ -4121,7 +4113,6 @@ export const poiExtraTaiwanNatureV2: POI[] = [
     parent: "TW-NWT",
     coords: [121.4333, 25.1667],
     name: { de: "Tamsui-Fluss", hu: "Tamszuj-folyó", ro: "Râul Tamsui", en: "Tamsui River"},
-    image: "/poi-images/tamsui-river-nature-v2.webp",
     description: { de: "Der Tamsui-Fluss fließt durch die Metropolregion Taipeh und mündet im Nordwesten der Insel in die Taiwanstraße.", hu: "A Tamszuj-folyó a tajpeji nagyvárosi régión folyik keresztül, és a sziget északnyugati részén ömlik a Tajvani-szorosba.", ro: "Râul Tamsui curge prin zona metropolitană Taipei și se varsă în Strâmtoarea Taiwan în nord-vestul insulei.", en: "The Tamsui River flows through the Taipei metropolitan area and empties into the Taiwan Strait in the northwest of the island." , es: "El río Tamsui fluye a través del área metropolitana de Taipéi y desemboca en el estrecho de Taiwán en el noroeste de la isla.", pt: "O rio Tamsui flui através da área metropolitana de Taipé e desagua no estreito de Taiwan, no noroeste da ilha.", fr: "La rivière Tamsui traverse la zone métropolitaine de Taipei et se jette dans le détroit de Taïwan, au nord-ouest de l'île."},
     facts: {
       de: ["Entsteht durch den Zusammenfluss mehrerer Flüsse.", "Ist von großer historischer Bedeutung für den Handel in Taipeh."],
@@ -4454,7 +4445,6 @@ export const poiExtraTaiwanNatureV2: POI[] = [
     parent: "TW-NAN",
     coords: [121.2727, 24.1363],
     name: { de: "Hehuan-Berg", hu: "Hohuan-hegy", ro: "Muntele Hehuan", en: "Mount Hehuan"},
-    image: "/poi-images/hehuanshan-mountain-nature-v2.webp",
     description: { de: "Der Hehuan-Berg ist ein beliebtes Ziel, um im subtropischen Taiwan Schnee zu erleben, da er über gut ausgebaute Straßen erreichbar ist.", hu: "A Hohuan-hegy népszerű célpont, ahol a szubtrópusi Tajvanon havat lehet látni, mivel jól kiépített utakon könnyen megközelíthető.", ro: "Muntele Hehuan este o destinație populară pentru a experimenta zăpada în Taiwanul subtropical, fiind accesibil pe drumuri bine întreținute.", en: "Mount Hehuan is a popular destination to experience snow in subtropical Taiwan, as it is accessible via well-maintained roads." , es: "La montaña Hehuan es un destino popular para experimentar la nieve en la Taiwán subtropical, ya que es accesible a través de carreteras bien desarrolladas.", pt: "A montanha Hehuan é um destino popular para experimentar a neve em Taiwan subtropical, uma vez que é acessível através de estradas bem desenvolvidas.", fr: "La montagne Hehuan est une destination populaire pour découvrir la neige à Taïwan, un pays subtropical, car elle est accessible par des routes bien aménagées."},
     facts: {
       de: ["Der höchste Pass liegt auf über 3200 Metern.", "Bietet hervorragende Bedingungen zur Sternenbeobachtung."],
@@ -4643,7 +4633,6 @@ export const poiExtraTaiwanNatureV2: POI[] = [
     parent: "TW-TPE",
     coords: [121.5530, 25.1705],
     name: { de: "Qixing-Berg", hu: "Csihszing-hegy", ro: "Muntele Qixing", en: "Qixing Mountain"},
-    image: "/poi-images/qixing-mountain-nature-v2.webp",
     description: { de: "Der Qixing-Berg ist der höchste schlafende Vulkan in Taiwan und das Herzstück des Nationalparks Yangmingshan.", hu: "A Csihszing-hegy Tajvan legmagasabb szunnyadó vulkánja, és a Jangmingsan Nemzeti Park központja.", ro: "Muntele Qixing este cel mai înalt vulcan adormit din Taiwan și inima Parcului Național Yangmingshan.", en: "Qixing Mountain is the highest dormant volcano in Taiwan and the centerpiece of Yangmingshan National Park." , es: "La montaña Qixing es el volcán inactivo más alto de Taiwán y el corazón del Parque Nacional Yangmingshan.", pt: "A montanha Qixing é o vulcão inativo mais alto de Taiwan e o coração do Parque Nacional Yangmingshan.", fr: "La montagne Qixing est le volcan endormi le plus haut de Taïwan et le cœur du parc national de Yangmingshan."},
     facts: {
       de: ["Die Höhe beträgt 1120 Meter.", "Der Name bedeutet Sieben-Sterne-Berg, aufgrund seiner sieben Gipfel."],
@@ -4976,7 +4965,6 @@ export const poiExtraTaiwanNatureV2: POI[] = [
     parent: "TW-ILA",
     coords: [121.5333, 24.4833],
     name: { de: "Taipingshan-Wald", hu: "Tajpingszan Erdő", ro: "Pădurea Taipingshan", en: "Taipingshan Forest"},
-    image: "/poi-images/taipingshan-forest-nature-v2.webp",
     description: { de: "Der Taipingshan-Wald war früher ein wichtiges Zentrum der Holzindustrie und ist heute ein nebliges Erholungsgebiet mit heißen Quellen.", hu: "A Tajpingszan Erdő egykor a faipar fontos központja volt, ma pedig egy ködbe burkolózó üdülőterület hőforrásokkal.", ro: "Pădurea Taipingshan a fost cândva un centru important al industriei lemnului și astăzi este o zonă de agrement încețoșată, cu izvoare termale.", en: "Taipingshan Forest was once a major center of the logging industry and is now a misty recreation area with hot springs." , es: "El bosque de Taipingshan fue anteriormente un centro clave de la industria maderera y hoy es una zona recreativa neblinosa con aguas termales.", pt: "A floresta de Taipingshan foi antigamente um centro importante da indústria madeireira e hoje é uma área de recreação enevoada com fontes termais.", fr: "La forêt de Taipingshan était autrefois un centre important de l'industrie forestière et est aujourd'hui une zone de loisirs brumeuse dotée de sources chaudes."},
     facts: {
       de: ["Bekannt für die Jianqing-Pfad, der auf einer alten Bahnstrecke verläuft.", "Liegt in einer Höhe von fast 2000 Metern."],
@@ -5741,7 +5729,6 @@ export const poiExtraTaiwanNatureV2: POI[] = [
     parent: "TW-HUA",
     coords: [121.5167, 23.9333],
     name: { de: "Liyu-See", hu: "Liju-tó", ro: "Lacul Liyu", en: "Liyu Lake"},
-    image: "/poi-images/liyu-lake-nature-v2.webp",
     description: { de: "Der Liyu-See ist der größte Binnensee im Osten Taiwans und wird von saftig grünen Hügeln umrahmt.", hu: "A Liju-tó Kelet-Tajvan legnagyobb szárazföldi tava, amelyet bujazöld dombok vesznek körül.", ro: "Lacul Liyu este cel mai mare lac interior din estul Taiwanului și este înconjurat de dealuri verzi luxuriante.", en: "Liyu Lake is the largest inland lake in eastern Taiwan and is surrounded by lush green hills." , es: "El lago Liyu es el lago interior más grande del este de Taiwán y está enmarcado por colinas de un verde exuberante.", pt: "O lago Liyu é o maior lago interior no leste de Taiwan e está emoldurado por colinas de um verde luxuriante.", fr: "Le lac Liyu est le plus grand lac intérieur de l'est de Taïwan et est encadré par des collines verdoyantes."},
     facts: {
       de: ["Ein beliebter Ort für Tretbootfahrten und Radtouren.", "Im April leuchtet der See durch unzählige Glühwürmchen."],
@@ -5894,7 +5881,6 @@ export const poiExtraTaiwanNatureV2: POI[] = [
     parent: "TW-TNN",
     coords: [120.0667, 23.0500],
     name: { de: "Nationalpark Taijiang", hu: "Tajcsiang Nemzeti Park", ro: "Parcul Național Taijiang", en: "Taijiang National Park"},
-    image: "/poi-images/taijiang-national-park-nature-v2.webp",
     description: { de: "Der Nationalpark Taijiang schützt weite Feuchtgebiete und Mangrovenwälder, die eine vielfältige Vogelwelt beherbergen.", hu: "A Tajcsiang Nemzeti Park kiterjedt vizes élőhelyeket és mangroveerdőket véd, amelyek változatos madárvilágnak adnak otthont.", ro: "Parcul Național Taijiang protejează vaste zone umede și păduri de mangrove, care adăpostesc o avifaună diversă.", en: "Taijiang National Park protects extensive wetlands and mangrove forests that harbor a diverse birdlife." , es: "El Parque Nacional Taijiang protege vastos humedales y bosques de manglares que albergan una avifauna diversa.", pt: "O Parque Nacional Taijiang protege vastas zonas húmidas e florestas de mangais que albergam uma avifauna diversificada.", fr: "Le parc national de Taijiang protège de vastes zones humides et des forêts de mangroves qui abritent une avifaune diversifiée."},
     facts: {
       de: ["Beheimatet den gefährdeten Schwarzstirnlöffler.", "Besteht aus einer einzigartigen Kombination aus Salinen und Lagunen."],
@@ -6155,7 +6141,6 @@ export const poiExtraTaiwanNatureV2: POI[] = [
     parent: "TW-PIF",
     coords: [120.4167, 22.4833],
     name: { de: "Gaoping-Fluss", hu: "Kaoping-folyó", ro: "Râul Gaoping", en: "Gaoping River"},
-    image: "/poi-images/gaoping-river-nature-v2.webp",
     description: { de: "Der Gaoping-Fluss ist der längste Fluss im Süden Taiwans und versorgt eine große landwirtschaftliche Ebene mit Wasser.", hu: "A Kaoping-folyó Dél-Tajvan leghosszabb folyója, amely egy kiterjedt mezőgazdasági síkságot lát el vízzel.", ro: "Râul Gaoping este cel mai lung râu din sudul Taiwanului și aprovizionează cu apă o câmpie agricolă mare.", en: "The Gaoping River is the longest river in southern Taiwan and supplies water to a large agricultural plain." , es: "El río Gaoping es el río más largo del sur de Taiwán y suministra agua a una gran llanura agrícola.", pt: "O rio Gaoping é o rio mais longo do sul de Taiwan e fornece água a uma grande planície agrícola.", fr: "La rivière Gaoping est la plus longue rivière du sud de Taïwan et fournit de l'eau à une grande plaine agricole."},
     facts: {
       de: ["Er hat das größte Einzugsgebiet aller taiwanischen Flüsse.", "Wird von der markanten Ligang-Brücke überspannt."],
@@ -6596,7 +6581,6 @@ export const poiExtraTaiwanNatureV2: POI[] = [
     parent: "TW-HUA",
     coords: [121.4969, 23.4619],
     name: { de: "Xiuguluan-Fluss", hu: "Hsziukulüan-folyó", ro: "Râul Xiuguluan", en: "Xiuguluan River"},
-    image: "/poi-images/xiuguluan-river-nature-v2.webp",
     description: { de: "Der Xiuguluan-Fluss schlängelt sich durch die tiefe Kluft der östlichen Bergkette und ist berühmt für Rafting-Abenteuer.", hu: "A Hsziukulüan-folyó a keleti hegyvonulat mély szurdokain kanyarog át, és híres a vadvízi evezésről.", ro: "Râul Xiuguluan șerpuiește prin defileul adânc al lanțului muntos estic și este faimos pentru aventurile de rafting.", en: "The Xiuguluan River winds through the deep gorge of the eastern mountain range and is famous for rafting adventures." , es: "El río Xiuguluan serpentea a través del profundo abismo de la cordillera oriental y es famoso por sus aventuras de rafting.", pt: "O rio Xiuguluan serpenteia através do profundo abismo da cordilheira oriental e é famoso pelas suas aventuras de rafting.", fr: "La rivière Xiuguluan serpente à travers le profond gouffre de la chaîne de montagnes orientale et est célèbre pour ses aventures de rafting."},
     facts: {
       de: ["Der längste Fluss im Osten der Insel.", "Mündet bei Fengbin in den Pazifischen Ozean."],
@@ -7505,7 +7489,6 @@ export const poiExtraTaiwanNatureV2: POI[] = [
     parent: "TW-TXG",
     coords: [121.0119, 24.2052],
     name: { de: "Basianshan-Wald", hu: "Pahszienszan Erdő", ro: "Pădurea Basianshan", en: "Basianshan Forest"},
-    image: "/poi-images/basianshan-forest-nature-v2.webp",
     description: { de: "Der Basianshan-Wald, was übersetzt Acht-Unsterbliche-Berg bedeutet, bietet eine üppige Vegetation und historische Holzfällerpfade.", hu: "A Pahszienszan Erdő, aminek neve Nyolc Halhatatlan Hegyét jelent, buja növényzetet és történelmi favágó ösvényeket kínál.", ro: "Pădurea Basianshan, al cărei nume se traduce prin Muntele celor Opt Nemuritori, oferă o vegetație luxuriantă și trasee istorice de tăiere a lemnului.", en: "Basianshan Forest, meaning Eight Immortals Mountain, offers lush vegetation and historical logging trails." , es: "El bosque de Basianshan, que se traduce como montaña de los Ocho Inmortales, ofrece una vegetación exuberante y senderos históricos de explotación maderera.", pt: "A floresta de Basianshan, que se traduz como montanha dos Oito Imortais, oferece uma vegetação luxuriante e trilhos históricos de exploração madeireira.", fr: "La forêt de Basianshan, ce qui se traduit par « montagne des Huit Immortels », offre une végétation luxuriante et des sentiers historiques d'exploitation forestière."},
     facts: {
       de: ["War einst eine der drei größten Holzfällersiedlungen Taiwans.", "Bekannt für seine vielfältigen Bambuswälder und Wasserfälle."],

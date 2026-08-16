@@ -706,7 +706,6 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
       hu: "Kjongbokkung palota",
       ro: "Palatul Gyeongbokgung",
       en: "Gyeongbokgung Palace"},
-    image: "/poi-images/gyeongbokgung-palace-landmarks-v2.webp",
     description: {
       de: "Der Gyeongbokgung-Palast, in Seoul gelegen, war der Hauptkönigspalast der Joseon-Dynastie und ist ein ikonisches Symbol der koreanischen Geschichte und Architektur.",
       hu: "A Szöulban található Kjongbokkung palota volt a Csoszon-dinasztia fő királyi palotája, a koreai történelem és építészet ikonikus szimbóluma.",
@@ -2023,7 +2022,6 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
       hu: "N Szöul Torony",
       ro: "Turnul N din Seul",
       en: "N Seoul Tower"},
-    image: "/poi-images/n-seoul-tower-landmarks-v2.webp",
     description: {
       de: "Der N Seoul Tower auf dem Namsan-Berg bietet einen Panoramablick auf die Stadt und ist ein beliebter Ort für Einheimische und Touristen.",
       hu: "A Namsan-hegyen álló N Szöul Torony panorámás kilátást nyújt a városra, és népszerű hely a helyiek és a turisták körében egyaránt.",
@@ -5383,7 +5381,6 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
       hu: "Pulguksza-templom",
       ro: "Templul Bulguksa",
       en: "Bulguksa Temple"},
-    image: "/poi-images/bulguksa-temple-landmarks-v2.webp",
     description: {
       de: "Ein buddhistischer Haupttempel des Jogye-Ordens in Gyeongju, der als Meisterwerk der goldenen Ära der buddhistischen Kunst im Silla-Königreich gilt.",
       hu: "A Csogje-rend fő buddhista temploma Kjongdzsuban, amelyet a Silla-királyság buddhista művészetének aranykorának mesterműveként tartanak számon.",
@@ -6196,7 +6193,6 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
       hu: "Csedzsu-sziget",
       ro: "Insula Jeju",
       en: "Jeju Island"},
-    image: "/poi-images/jeju-island-landmarks-v2.webp",
     description: {
       de: "Die größte Insel Südkoreas, bekannt für ihre vulkanische Landschaft mit Kratern und Lavaröhren. Ein beliebtes Urlaubsziel.",
       hu: "Dél-Korea legnagyobb szigete, amely vulkanikus tájáról, krátereiről és lávacsöveiről ismert. Népszerű üdülőhely.",
@@ -7009,7 +7005,6 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
       hu: "Szorakszan Nemzeti Park",
       ro: "Parcul Național Seoraksan",
       en: "Seoraksan National Park"},
-    image: "/poi-images/seoraksan-national-park-landmarks-v2.webp",
     description: {
       de: "Heimat des dritthöchsten Berges Südkoreas, des Seoraksan. Bekannt für seine landschaftliche Schönheit, Wasserfälle und Tempel.",
       hu: "Itt található Dél-Korea harmadik legmagasabb hegye, a Szorakszan. Festői szépségéről, vízeséseiről és templomairól ismert.",
@@ -8362,7 +8357,6 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
       hu: "Hvaszong erőd",
       ro: "Fortăreața Hwaseong",
       en: "Hwaseong Fortress"},
-    image: "/poi-images/hwaseong-fortress-landmarks-v2.webp",
     description: {
       de: "Eine beeindruckende Festung aus dem 18. Jahrhundert in Suwon, die die Stadt umgibt und militärische, wissenschaftliche und kommerzielle Funktionen vereint.",
       hu: "Egy lenyűgöző 18. századi erőd Suwonban, amely körülveszi a várost, és katonai, tudományos és kereskedelmi funkciókat egyesít.",
@@ -9355,7 +9349,6 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
       hu: "Kvanghvamun kapu",
       ro: "Poarta Gwanghwamun",
       en: "Gwanghwamun Gate"},
-    image: "/poi-images/gwanghwamun-gate-landmarks-v2.webp",
     description: {
       de: "Das Haupt- und größte Tor des Gyeongbokgung-Palastes in Seoul. Ein Wahrzeichen der langen Geschichte Koreas.",
       hu: "A szöuli Kjongbokkung palota fő és legnagyobb kapuja. Korea hosszú történelmének egyik jelképe.",
@@ -9664,7 +9657,6 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
       hu: "Lotte World Tower",
       ro: "Turnul Lotte World",
       en: "Lotte World Tower"},
-    image: "/poi-images/lotte-world-tower-landmarks-v2.webp",
     description: {
       de: "Ein 123-stöckiger Wolkenkratzer in Seoul. Es ist das höchste Gebäude in Südkorea und eines der höchsten der Welt.",
       hu: "Egy 123 emeletes felhőkarcoló Szöulban. Ez Dél-Korea legmagasabb épülete és a világ egyik legmagasabbja.",
@@ -10585,7 +10577,6 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
       hu: "Gamcheon Kulturális Falu",
       ro: "Satul Cultural Gamcheon",
       en: "Gamcheon Culture Village"},
-    image: "/poi-images/gamcheon-culture-village-landmarks-v2.webp",
     description: {
       de: "Ein farbenfrohes und künstlerisches Dorf in Busan, bekannt für seine steilen Straßen, verwinkelten Gassen und bunten Häuser. Auch 'Das Machu Picchu von Busan' genannt.",
       hu: "Egy színes és művészi falu Busanban, meredek utcáiról, kanyargós sikátorairól és élénk színű házairól ismert. 'Busan Machu Picchuja'-ként is emlegetik.",
@@ -11794,7 +11785,6 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
       hu: "Jeonju Hanok falu",
       ro: "Satul Jeonju Hanok",
       en: "Jeonju Hanok Village"},
-    image: "/poi-images/jeonju-hanok-village-landmarks-v2.webp",
     description: {
       de: "Befindet sich in der Stadt Jeonju und verfügt über 800 traditionelle koreanische Hanok-Häuser. Es ist ein lebendiges Museum und ein Zentrum der traditionellen Kultur.",
       hu: "Jeonju városában található, és több mint 800 hagyományos koreai hanok háznak ad otthont. Ez egy élő múzeum és a hagyományos kultúra központja.",
@@ -12247,7 +12237,6 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
       hu: "Dongdaemun Design Plaza (DDP)",
       ro: "Dongdaemun Design Plaza (DDP)",
       en: "Dongdaemun Design Plaza (DDP)"},
-    image: "/poi-images/dongdaemun-design-plaza-landmarks-v2.webp",
     description: {
       de: "Ein bedeutendes Wahrzeichen der Stadtentwicklung in Seoul mit einem unverwechselbaren neofuturistischen Design, das von Zaha Hadid entworfen wurde.",
       hu: "Szöul városfejlesztésének egyik fő nevezetessége, jellegzetes neofuturista dizájnjával, amelyet Zaha Hadid tervezett.",
@@ -12295,7 +12284,6 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
       hu: "Boseong zöld tea ültetvények",
       ro: "Plantațiile de ceai verde Boseong",
       en: "Boseong Green Tea Fields"},
-    image: "/poi-images/boseong-green-tea-fields-landmarks-v2.webp",
     description: {
       de: "Spektakuläre, weitläufige Teeplantagen in Boseong, die für die Produktion von hochwertigem Grüntee berühmt sind.",
       hu: "Látványos, kiterjedt teaültetvények Boseongban, amelyek kiváló minőségű zöld tea termeléséről híresek.",
@@ -12568,7 +12556,6 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
       hu: "Cheongsando-sziget",
       ro: "Insula Cheongsando",
       en: "Cheongsando Island"},
-    image: "/poi-images/cheongsando-island-landmarks-v2.webp",
     description: {
       de: "Ausgewiesen als erste 'Slow City' in Asien, ist es ein Ort, an dem die traditionelle Lebensweise und die unberührte Natur erhalten bleiben.",
       hu: "Ázsia első 'Slow City'-jeként jelölték ki, egy olyan hely, ahol megőrizték a hagyományos életmódot és az érintetlen természetet.",

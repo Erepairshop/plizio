@@ -8,7 +8,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.563, 8.946],
     name: { de: "Brücke der Amerikas", hu: "Amerika-híd", ro: "Podul Americilor", en: "Bridge of the Americas"},
-    image: "/poi-images/bridge-of-the-americas-landmarks-v2.webp",
     description: { de: "Eine bedeutende Straßenbrücke, die den Panamakanal überspannt.", hu: "Jelentős közúti híd, amely átível a Panama-csatornán.", ro: "Un pod rutier important care traversează Canalul Panama.", en: "A major road bridge that spans the Panama Canal." , es: "Un importante puente de carretera que cruza el Canal de Panamá.", pt: "Uma importante ponte rodoviária que atravessa o Canal do Panamá.", fr: "Un important pont routier qui enjambe le canal du Panama."},
     facts: {
       de: ["Fertiggestellt 1962", "Verbindet Nord- und Südamerika"],
@@ -45,7 +44,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.593, 9.008],
     name: { de: "Miraflores-Schleusen", hu: "Miraflores-zsiliprendszer", ro: "Ecluzele Miraflores", en: "Miraflores Locks"},
-    image: "/poi-images/miraflores-locks-landmarks-v2.webp",
     description: { de: "Schleusenanlage am südlichen Ende des Panamakanals.", hu: "Zsiliprendszer a Panama-csatorna déli végénél.", ro: "Sistem de ecluze la capătul sudic al Canalului Panama.", en: "Lock system at the southern end of the Panama Canal." , es: "Esclusas en el extremo sur del Canal de Panamá.", pt: "Sistema de eclusas na extremidade sul do Canal do Panamá.", fr: "Système d'écluses à l'extrémité sud du canal de Panama."},
     facts: {
       de: ["Beliebtes Besucherzentrum", "Hebt Schiffe auf den Gatun-See"],
@@ -82,7 +80,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.525, 8.925],
     name: { de: "Fuerte Amador", hu: "Fuerte Amador", ro: "Fuerte Amador", en: "Fuerte Amador"},
-    image: "/poi-images/fuerte-amador-landmarks-v2.webp",
     description: { de: "Ein ehemaliger US-Militärstützpunkt an der Einfahrt zum Kanal.", hu: "Egykori amerikai katonai támaszpont a csatorna bejáratánál.", ro: "O fostă bază militară americană la intrarea în canal.", en: "A former US military base at the entrance of the canal." , es: "Una antigua base militar estadounidense a la entrada del canal.", pt: "Uma antiga base militar dos EUA na entrada do canal.", fr: "Une ancienne base militaire américaine à l'entrée du canal."},
     facts: {
       de: ["Heute ein Kreuzfahrthafen", "Teil des Amador-Bezirks"],
@@ -119,7 +116,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.516, 8.981],
     name: { de: "Torre BBVA", hu: "Torre BBVA", ro: "Torre BBVA", en: "Torre BBVA"},
-    image: "/poi-images/torre-bbva-landmarks-v2.webp",
     description: { de: "Ein markanter Wolkenkratzer in Panama-Stadt.", hu: "Jellegzetes felhőkarcoló Panamavárosban.", ro: "Un zgârie-nori distinctiv în Ciudad de Panama.", en: "A prominent skyscraper in Panama City." , es: "Un rascacielos distintivo en Ciudad de Panamá.", pt: "Um arranha-céu marcante na Cidade do Panamá.", fr: "Un gratte-ciel remarquable à Panama City."},
     facts: {
       de: ["Moderne Büroarchitektur", "Im Finanzviertel"],
@@ -156,7 +152,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.538, 8.953],
     name: { de: "Teatro Nacional de Panamá", hu: "Panamai Nemzeti Színház", ro: "Teatrul Național din Panama", en: "National Theatre of Panama"},
-    image: "/poi-images/teatro-nacional-landmarks-v2.webp",
     description: { de: "Das wichtigste Opern- und Theaterhaus des Landes.", hu: "Az ország legfontosabb opera- és színházépülete.", ro: "Cea mai importantă clădire de operă și teatru din țară.", en: "The country's most important opera and theatre building." , es: "La principal casa de ópera y teatro del país.", pt: "A principal casa de ópera e teatro do país.", fr: "Le principal opéra et théâtre du pays."},
     facts: {
       de: ["Eingeweiht 1908", "Neoklassizistischer Stil"],
@@ -193,7 +188,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.537, 8.955],
     name: { de: "Palacio de las Garzas", hu: "Palacio de las Garzas", ro: "Palacio de las Garzas", en: "Palacio de las Garzas"},
-    image: "/poi-images/palacio-de-las-garzas-landmarks-v2.webp",
     description: { de: "Der Amtssitz des Präsidenten von Panama.", hu: "Panama elnökének hivatalos rezidenciája.", ro: "Reședința oficială a președintelui Panama.", en: "The official residence of the President of Panama." , es: "La sede oficial del Presidente de Panamá.", pt: "A sede oficial do Presidente do Panamá.", fr: "Le siège officiel du président du Panama."},
     facts: {
       de: ["Regierungssitz", "Historisches Gebäude am Wasser"],
@@ -230,7 +224,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-3",
     coords: [-79.645, 9.554],
     name: { de: "Fuerte San Jerónimo", hu: "Fuerte San Jerónimo", ro: "Fuerte San Jerónimo", en: "Fuerte San Jerónimo"},
-    image: "/poi-images/fuerte-san-jeronimo-landmarks-v2.webp",
     description: { de: "Eine alte Festung in der Hafenstadt Portobelo.", hu: "Régi erőd a Portobelo kikötővárosban.", ro: "O veche fortăreață în orașul portuar Portobelo.", en: "An old fortress in the port town of Portobelo." , es: "Una antigua fortaleza en la ciudad portuaria de Portobelo.", pt: "Uma antiga fortaleza na cidade portuária de Portobelo.", fr: "Une ancienne forteresse dans la ville portuaire de Portobelo."},
     facts: {
       de: ["Schutz vor Piraten", "UNESCO-Weltkulturerbe"],
@@ -267,7 +260,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.467, 9.043],
     name: { de: "Estadio Rommel Fernández", hu: "Estadio Rommel Fernández", ro: "Estadio Rommel Fernández", en: "Estadio Rommel Fernández"},
-    image: "/poi-images/estadio-rommel-fernandez-landmarks-v2.webp",
     description: { de: "Das größte Stadion Panamas.", hu: "Panama legnagyobb stadionja.", ro: "Cel mai mare stadion din Panama.", en: "The largest stadium in Panama." , es: "El estadio más grande de Panamá.", pt: "O maior estádio do Panamá.", fr: "Le plus grand stade du Panama."},
     facts: {
       de: ["Hauptort für Fußballspiele", "Benannt nach Rommel Fernández"],
@@ -304,7 +296,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.513, 8.986],
     name: { de: "Torre Global", hu: "Torre Global", ro: "Torre Global", en: "Torre Global"},
-    image: "/poi-images/torre-global-landmarks-v2.webp",
     description: { de: "Ein moderner Turm in Panama-Stadt.", hu: "Modern toronyépület Panamavárosban.", ro: "Un turn modern în Ciudad de Panama.", en: "A modern tower in Panama City." , es: "Una torre moderna en Ciudad de Panamá.", pt: "uma torre moderna na Cidade do Panamá.", fr: "Une tour moderne à Panama City."},
     facts: {
       de: ["Büro-Hochhaus", "Moderne Architektur"],
@@ -341,7 +332,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.508, 8.991],
     name: { de: "Parque Recreativo Omar", hu: "Parque Recreativo Omar", ro: "Parque Recreativo Omar", en: "Parque Recreativo Omar"},
-    image: "/poi-images/parque-recreativo-omar-landmarks-v2.webp",
     description: { de: "Ein beliebter Park in Panama-Stadt.", hu: "Népszerű park Panamavárosban.", ro: "Un parc popular în Ciudad de Panama.", en: "A popular park in Panama City." , es: "Un parque popular en la Ciudad de Panamá.", pt: "Um parque popular na Cidade do Panamá.", fr: "Un parc populaire à Panama City."},
     facts: {
       de: ["Grüne Lunge der Stadt", "Ideal für Sport"],
@@ -378,7 +368,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.539, 8.974],
     name: { de: "Edificio Hatillo", hu: "Edificio Hatillo", ro: "Edificio Hatillo", en: "Edificio Hatillo"},
-    image: "/poi-images/edificio-hatillo-landmarks-v2.webp",
     description: { de: "Ein bedeutendes Gebäude der Stadtverwaltung.", hu: "A városvezetés jelentős épülete.", ro: "O clădire semnificativă a administrației orașului.", en: "A significant municipal government building." , es: "Un edificio significativo de la administración municipal.", pt: "Um edifício significativo da administração municipal.", fr: "Un bâtiment important de l'administration municipale."},
     facts: {
       de: ["Zentrum der Kommunalverwaltung", "Moderne Funktionalität"],
@@ -415,7 +404,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.527, 8.973],
     name: { de: "Balboa-Denkmal", hu: "Balboa-emlékmű", ro: "Monumentul Balboa", en: "Balboa Monument"},
-    image: "/poi-images/monumento-a-vasco-nunez-de-balboa-landmarks-v2.webp",
     description: { de: "Ein Denkmal für den Entdecker Vasco Núñez de Balboa.", hu: "Emlékmű Vasco Núñez de Balboa felfedező tiszteletére.", ro: "Un monument dedicat exploratorului Vasco Núñez de Balboa.", en: "A monument dedicated to the explorer Vasco Núñez de Balboa." , es: "Un monumento al descubridor Vasco Núñez de Balboa.", pt: "Um monumento ao descobridor Vasco Núñez de Balboa.", fr: "Un monument au découvreur Vasco Núñez de Balboa."},
     facts: {
       de: ["Steht an der Avenida Balboa", "Blick auf den Pazifik"],
@@ -452,7 +440,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.538, 8.922],
     name: { de: "Amador Convention Center", hu: "Amador Konferencia Központ", ro: "Centrul de Convenții Amador", en: "Amador Convention Center"},
-    image: "/poi-images/centro-de-convenciones-amador-landmarks-v2.webp",
     description: { de: "Ein großes Veranstaltungszentrum auf der Amador-Halbinsel.", hu: "Nagy rendezvényközpont az Amador-félszigeten.", ro: "Un centru de evenimente mare pe peninsula Amador.", en: "A large event center on the Amador Causeway." , es: "Un gran centro de eventos en la península de Amador.", pt: "Um grande centro de eventos na península de Amador.", fr: "Un grand centre d'événements sur la péninsule d'Amador."},
     facts: {
       de: ["Moderne Veranstaltungsstätte", "Blick auf den Panamakanal"],
@@ -489,7 +476,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.518, 8.983],
     name: { de: "Torre Davivienda", hu: "Torre Davivienda", ro: "Torre Davivienda", en: "Torre Davivienda"},
-    image: "/poi-images/torre-davivienda-landmarks-v2.webp",
     description: { de: "Ein markantes Bürogebäude im Finanzviertel.", hu: "Jellegzetes irodaház a pénzügyi negyedben.", ro: "O clădire de birouri distinctivă în districtul financiar.", en: "A prominent office building in the financial district." , es: "Un edificio de oficinas destacado en el distrito financiero.", pt: "Um edifício de escritórios proeminente no distrito financeiro.", fr: "Un immeuble de bureaux remarquable dans le quartier financier."},
     facts: {
       de: ["Bedeutendes Finanzzentrum", "Architektonisches Highlight"],
@@ -526,7 +512,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.558, 9.055],
     name: { de: "Bahá'í-Tempel Panama", hu: "Panamai Bahá'í-templom", ro: "Templul Bahá'í din Panama", en: "Bahá'í Temple of Panama"},
-    image: "/poi-images/templo-bahai-panama-landmarks-v2.webp",
     description: { de: "Ein architektonisch einzigartiges Haus der Andacht.", hu: "Építészetileg egyedülálló imaház.", ro: "O casă de rugăciune arhitectural unică.", en: "An architecturally unique House of Worship." , es: "Una casa de adoración arquitectónicamente única.", pt: "Uma casa de adoração arquitetonicamente única.", fr: "Une maison d'adoration à l'architecture unique."},
     facts: {
       de: ["Auf einem Hügel gelegen", "Bekannt für seine Kuppel"],
@@ -563,7 +548,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.523, 9.055],
     name: { de: "Estadio Rod Carew", hu: "Estadio Rod Carew", ro: "Estadio Rod Carew", en: "Estadio Rod Carew"},
-    image: "/poi-images/estadio-de-beisbol-rod-carew-landmarks-v2.webp",
     description: { de: "Das wichtigste Baseballstadion des Landes.", hu: "Az ország legfontosabb baseball-stadionja.", ro: "Cel mai important stadion de baseball din țară.", en: "The country's main baseball stadium." , es: "El estadio de béisbol más importante del país.", pt: "O estádio de beisebol mais importante do país.", fr: "Le stade de baseball le plus important du pays."},
     facts: {
       de: ["Benannt nach Rod Carew", "Heimstätte der nationalen Ligen"],
@@ -600,7 +584,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.539, 8.951],
     name: { de: "Iglesia de San José", hu: "Iglesia de San José", ro: "Iglesia de San José", en: "Iglesia de San José"},
-    image: "/poi-images/iglesia-de-san-jose-landmarks-v2.webp",
     description: { de: "Eine Kirche in Casco Viejo, bekannt für ihren goldenen Altar.", hu: "Templom Casco Viejóban, arany oltáráról híres.", ro: "O biserică în Casco Viejo, celebră pentru altarul său de aur.", en: "A church in Casco Viejo, famous for its golden altar." , es: "Una iglesia en el Casco Viejo, conocida por su altar de oro.", pt: "Uma igreja no Casco Viejo, conhecida pelo seu altar de ouro.", fr: "Une église du Casco Viejo, connue pour son autel doré."},
     facts: {
       de: ["Goldener Altar aus dem 17. Jhd.", "Besuchermagnet"],
@@ -637,7 +620,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.516, 8.986],
     name: { de: "Nationalbibliothek Panama", hu: "Panamai Nemzeti Könyvtár", ro: "Biblioteca Națională din Panama", en: "National Library of Panama"},
-    image: "/poi-images/biblioteca-nacional-landmarks-v2.webp",
     description: { de: "Die zentrale staatliche Bibliothek des Landes.", hu: "Az ország központi állami könyvtára.", ro: "Biblioteca centrală de stat a țării.", en: "The country's central state library." },
     facts: {
       de: ["Bewahrt das kulturelle Erbe", "Wichtige Forschungseinrichtung"],
@@ -665,7 +647,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.514, 8.984],
     name: { de: "Torre Interbank", hu: "Torre Interbank", ro: "Torre Interbank", en: "Torre Interbank"},
-    image: "/poi-images/torre-interbank-landmarks-v2.webp",
     description: { de: "Ein Bürohochhaus in Panama-Stadt.", hu: "Irodaház-felhőkarcoló Panamavárosban.", ro: "Un zgârie-nori de birouri în Ciudad de Panama.", en: "An office skyscraper in Panama City." , es: "Un rascacielos de oficinas en Ciudad de Panamá.", pt: "Um arranha-céu de escritórios na Cidade do Panamá.", fr: "Un gratte-ciel de bureaux à Panama City."},
     facts: {
       de: ["Finanzviertel", "Moderne Glasfassade"],
@@ -702,7 +683,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.531, 8.972],
     name: { de: "Vasco Núñez de Balboa Statue", hu: "Vasco Núñez de Balboa szobor", ro: "Statuia Vasco Núñez de Balboa", en: "Vasco Núñez de Balboa Statue"},
-    image: "/poi-images/estatua-de-vasco-nunez-de-balboa-landmarks-v2.webp",
     description: { de: "Eine Statue zur Ehrung des Entdeckers des Pazifiks.", hu: "A Csendes-óceán felfedezőjének szobra.", ro: "O statuie în onoarea descoperitorului Pacificului.", en: "A statue honoring the discoverer of the Pacific." , es: "Una estatua para honrar al descubridor del Pacífico.", pt: "Uma estátua para honrar o descobridor do Pacífico.", fr: "Une statue en l'honneur du découvreur du Pacifique."},
     facts: {
       de: ["Beliebtes Fotomotiv", "Am Ufer der Avenida Balboa"],
@@ -739,7 +719,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.541, 8.959],
     name: { de: "Justizpalast", hu: "Igazságügyi Palota", ro: "Palatul Justiției", en: "Palace of Justice"},
-    image: "/poi-images/palacio-justicia-landmarks-v2.webp",
     description: { de: "Sitz des Obersten Gerichtshofs von Panama.", hu: "A panamai Legfelsőbb Bíróság székhelye.", ro: "Sediul Curții Supreme de Justiție din Panama.", en: "Seat of the Supreme Court of Panama." , es: "Sede de la Corte Suprema de Justicia de Panamá.", pt: "Sede do Supremo Tribunal de Justiça do Panamá.", fr: "Siège de la Cour suprême de justice du Panama."},
     facts: {
       de: ["Rechtssystemzentrum", "Beeindruckende Architektur"],
@@ -776,7 +755,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.512, 8.988],
     name: { de: "Torre Omega", hu: "Torre Omega", ro: "Torre Omega", en: "Torre Omega"},
-    image: "/poi-images/torre-omega-landmarks-v2.webp",
     description: { de: "Ein weiteres modernes Hochhaus im Finanzzentrum.", hu: "Újabb modern felhőkarcoló a pénzügyi központban.", ro: "Un alt zgârie-nori modern în centrul financiar.", en: "Another modern high-rise in the financial center." , es: "Otro moderno rascacielos en el centro financiero.", pt: "Outro arranha-céu moderno no centro financeiro.", fr: "Un autre gratte-ciel moderne dans le centre financier."},
     facts: {
       de: ["Zentral gelegen", "Büroflächen"],
@@ -813,7 +791,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.525, 8.975],
     name: { de: "Parque Urracá", hu: "Parque Urracá", ro: "Parque Urracá", en: "Parque Urracá"},
-    image: "/poi-images/parque-urracá-landmarks-v2.webp",
     description: { de: "Ein kleiner, aber feiner Stadtpark in Panama-Stadt.", hu: "Kicsi, de rendezett városi park Panamavárosban.", ro: "Un parc urban mic, dar îngrijit, în Ciudad de Panama.", en: "A small but nice city park in Panama City." , es: "Un parque urbano pequeño pero encantador en Ciudad de Panamá.", pt: "Um parque urbano pequeno mas agradável na Cidade do Panamá.", fr: "Un parc urbain petit mais charmant à Panama City."},
     facts: {
       de: ["Beliebt bei Einheimischen", "Nahe der Avenida Balboa"],
@@ -850,7 +827,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.501, 9.001],
     name: { de: "Torre Las Américas", hu: "Torre Las Américas", ro: "Torre Las Américas", en: "Torre Las Américas"},
-    image: "/poi-images/torre-las-americas-landmarks-v2.webp",
     description: { de: "Ein wichtiger Bürokomplex in Punta Pacifica.", hu: "Fontos irodakomplexum Punta Pacificában.", ro: "Un complex de birouri important în Punta Pacifica.", en: "A major office complex in Punta Pacifica." , es: "Un importante complejo de oficinas en Punta Pacifica.", pt: "Um importante complexo de escritórios em Punta Pacifica.", fr: "Un important complexe de bureaux à Punta Pacifica."},
     facts: {
       de: ["Geschäftszentrum", "Gute Aussicht auf die Bucht"],
@@ -887,7 +863,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.551, 8.961],
     name: { de: "Märtyrerdenkmal", hu: "Mártírok emlékműve", ro: "Monumentul Martirilor", en: "Monument to the Martyrs"},
-    image: "/poi-images/monumento-a-los-martires-landmarks-v2.webp",
     description: { de: "Ein Gedenkmal für die Ereignisse vom 9. Januar 1964.", hu: "Emlékmű az 1964. január 9-i események tiszteletére.", ro: "Un monument dedicat evenimentelor din 9 ianuarie 1964.", en: "A memorial for the events of January 9, 1964." , es: "Un monumento conmemorativo de los eventos del 9 de enero de 1964.", pt: "Um monumento comemorativo dos eventos de 9 de janeiro de 1964.", fr: "Un mémorial commémorant les événements du 9 janvier 1964."},
     facts: {
       de: ["Historisch bedeutsam", "Erinnert an Unabhängigkeitsbestrebungen"],
@@ -924,7 +899,6 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
     parent: "PA-8",
     coords: [-79.539, 8.956],
     name: { de: "Palacio Municipal", hu: "Palacio Municipal", ro: "Palacio Municipal", en: "Palacio Municipal"},
-    image: "/poi-images/palacio-municipal-landmarks-v2.webp",
     description: { de: "Das Rathaus von Panama-Stadt in Casco Viejo.", hu: "Panamaváros városháza a Casco Viejóban.", ro: "Primăria orașului Ciudad de Panama în Casco Viejo.", en: "The City Hall of Panama City in Casco Viejo." , es: "El ayuntamiento de la Ciudad de Panamá en el Casco Viejo.", pt: "A câmara municipal da Cidade do Panamá no Casco Viejo.", fr: "L'hôtel de ville de Panama City dans le Casco Viejo."},
     facts: {
       de: ["Historisches Zentrum der Stadtverwaltung", "Architektonisch prägend"],

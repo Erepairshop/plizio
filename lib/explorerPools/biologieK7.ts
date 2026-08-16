@@ -1988,7 +1988,6 @@ const K7_INLINE_LABELS: Record<string, K7L10n> = {
   "Baum": { de: "Baum", en: "Tree", hu: "Fa", ro: "Arbore" },
   "Biene": { de: "Biene", en: "Bee", hu: "Méh", ro: "Albină" },
   "Blume": { de: "Blume", en: "Flower", hu: "Virág", ro: "Floare" },
-  "Wurzel": { de: "Wurzel", en: "Root", hu: "Gyökér", ro: "Rădăcină" },
   "Clownfisch": { de: "Clownfisch", en: "Clownfish", hu: "Bohóchal", ro: "Pește-clovn" },
   "Anemone": { de: "Anemone", en: "Sea anemone", hu: "Tengeri rózsa", ro: "Anemonă" },
   "___ fixieren Stickstoff.": {

@@ -8,7 +8,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-87.15, 14.15],
     name: { de: "La Tigra Nationalpark", hu: "La Tigra Nemzeti Park", ro: "Parcul National La Tigra", en: "La Tigra National Park"},
-    image: "/poi-images/la-tigra-national-park-life-v2.webp",
     description: {
       de: "Ein kuhler Nebelwaldpark nahe Tegucigalpa.",
       hu: "Huvos koderdo park Tegucigalpa kozeleben.",
@@ -52,7 +51,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-87.13, 14.15],
     name: { de: "Uyuca-Reservat", hu: "Uyuca biologiai rezervatum", ro: "Rezervatia biologica Uyuca", en: "Uyuca Biological Reserve"},
-    image: "/poi-images/uyuca-biological-reserve-life-v2.webp",
     description: {
       de: "Ein bergiges Waldschutzgebiet sudlich der Hauptstadt.",
       hu: "Hegyi erdos vedett terulet a fovarostol delre.",
@@ -96,7 +94,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-87.98, 14.76],
     name: { de: "Cerro Azul Meambar", hu: "Cerro Azul Meambar", ro: "Cerro Azul Meambar", en: "Cerro Azul Meambar"},
-    image: "/poi-images/cerro-azul-meambar-life-v2.webp",
     description: {
       de: "Ein beliebter Bergpark oberhalb des Lago de Yojoa.",
       hu: "Nepszeru hegyi park a Lago de Yojoa folott.",
@@ -140,7 +137,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-88.66, 14.58],
     name: { de: "Celaque-Nationalpark", hu: "Celaque Nemzeti Park", ro: "Parcul National Celaque", en: "Celaque National Park"},
-    image: "/poi-images/celaque-national-park-life-v2.webp",
     description: {
       de: "Honduras wichtigstes Nebelwaldgebiet im Westen.",
       hu: "Honduras egyik legfontosabb koderdo-terulete nyugaton.",
@@ -184,7 +180,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-88.21, 15.50],
     name: { de: "Cusuco-Nationalpark", hu: "Cusuco Nemzeti Park", ro: "Parcul National Cusuco", en: "Cusuco National Park"},
-    image: "/poi-images/cusuco-national-park-life-v2.webp",
     description: {
       de: "Ein kuhler Bergwald in den Bergen von Cortes.",
       hu: "Huvos hegyi erdo Cortes hegyeiben.",
@@ -228,7 +223,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-86.79, 15.72],
     name: { de: "Pico Bonito Nationalpark", hu: "Pico Bonito Nemzeti Park", ro: "Parcul National Pico Bonito", en: "Pico Bonito National Park"},
-    image: "/poi-images/pico-bonito-national-park-life-v2.webp",
     description: {
       de: "Ein grosser Regen- und Nebelwald nahe La Ceiba.",
       hu: "Nagy eso- es koderdo La Ceiba kozeleben.",
@@ -272,7 +266,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-87.96, 15.78],
     name: { de: "Botanischer Garten Lancetilla", hu: "Lancetilla botanikus kert", ro: "Gradina botanica Lancetilla", en: "Lancetilla Botanical Garden"},
-    image: "/poi-images/lancetilla-botanical-garden-life-v2.webp",
     description: {
       de: "Ein riesiger tropischer Garten bei Tela.",
       hu: "Hatalmas tropusi kert Tela mellett.",
@@ -316,7 +309,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-87.46, 15.75],
     name: { de: "Jeannette Kawas Nationalpark", hu: "Jeannette Kawas Nemzeti Park", ro: "Parcul National Jeannette Kawas", en: "Jeannette Kawas National Park"},
-    image: "/poi-images/jeannette-kawas-national-park-life-v2.webp",
     description: {
       de: "Ein Kuestenpark mit Mangroven, Lagunen und Strandwald.",
       hu: "Parti park mangroveval, lagunakkal es parti erdovel.",
@@ -360,7 +352,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-87.41, 15.76],
     name: { de: "Punta Izopo Nationalpark", hu: "Punta Izopo Nemzeti Park", ro: "Parcul National Punta Izopo", en: "Punta Izopo National Park"},
-    image: "/poi-images/punta-izopo-national-park-life-v2.webp",
     description: {
       de: "Ein geschutztes Kuestengebiet zwischen Meer und Mangrove.",
       hu: "Veedett part menti terulet tenger es mangrove kozott.",
@@ -404,7 +395,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-86.8, 15.8],
     name: { de: "Cuero y Salado Wildreservat", hu: "Cuero y Salado vadrezervatum", ro: "Rezervatia salbatica Cuero y Salado", en: "Cuero y Salado Wildlife Refuge"},
-    image: "/poi-images/cuero-y-salado-wildlife-refuge-life-v2.webp",
     description: {
       de: "Ein Feuchtgebiet mit Mangroven und Kanalen an der Nordkueste.",
       hu: "Vizes elhely mangroveval es csatornakkal az eszaki parton.",
@@ -448,7 +438,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-86.52, 16.35],
     name: { de: "Cayos Cochinos Marine Reserve", hu: "Cayos Cochinos tengeri rezervatum", ro: "Rezervatia marina Cayos Cochinos", en: "Cayos Cochinos Marine Reserve"},
-    image: "/poi-images/cayos-cochinos-marine-reserve-life-v2.webp",
     description: {
       de: "Ein geschutztes Insel- und Riffgebiet vor der Nordkueste.",
       hu: "Veedett sziget- es zatonyterulet az eszaki part elott.",
@@ -492,7 +481,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-86.52, 16.31],
     name: { de: "Roatan Marine Science Center", hu: "Roatan tengertudomanyi kozpont", ro: "Centrul de stiinte marine Roatan", en: "Roatan Marine Science Center"},
-    image: "/poi-images/roatan-marine-science-center-life-v2.webp",
     description: {
       de: "Ein kleines Meereszentrum mit Fokus auf Schutz und Bildung.",
       hu: "Kis tengeri kozpont vedelemre es oktatasra fokuszalva.",
@@ -536,7 +524,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-86.59, 16.3],
     name: { de: "Archs Iguana and Marine Park", hu: "Archs leguan- es tengeripark", ro: "Arch's Iguana and Marine Park", en: "Arch's Iguana and Marine Park"},
-    image: "/poi-images/archs-iguana-and-marine-park-life-v2.webp",
     description: {
       de: "Ein Park auf Roatan, bekannt fur Leguane und Schildkroten.",
       hu: "Egy roatani park, amely leguanokrol es teknosokrol ismert.",
@@ -580,7 +567,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-86.5, 16.33],
     name: { de: "Daniel Johnson Sloth and Monkey Hangout", hu: "Daniel Johnson lajhar- es majompark", ro: "Daniel Johnson Sloth and Monkey Hangout", en: "Daniel Johnson Sloth and Monkey Hangout"},
-    image: "/poi-images/daniel-johnson-sloth-and-monkey-hangout-life-v2.webp",
     description: {
       de: "Ein bekanntes Tierrefugium auf Roatan mit Faultieren und Affen.",
       hu: "Ismert allatmenedek Roatanon lajharakkal es majmokkal.",
@@ -624,7 +610,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-89.15, 14.84],
     name: { de: "Iguana Research Station Copan", hu: "Copan leguan-kutatokozpont", ro: "Centrul de cercetare a iguanelor Copan", en: "Iguana Research Station Copan"},
-    image: "/poi-images/iguana-research-breeding-station-copan-life-v2.webp",
     description: {
       de: "Ein Schutzprojekt fur Leguane in Copan Ruinas.",
       hu: "Leguankvedo projekt Copan Ruinasban.",
@@ -668,7 +653,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-87.18, 14.11],
     name: { de: "El Picacho Park", hu: "El Picacho park", ro: "Parcul El Picacho", en: "El Picacho Park"},
-    image: "/poi-images/el-picacho-park-life-v2.webp",
     description: {
       de: "Ein Ausflugspark oberhalb von Tegucigalpa mit Zoo und Aussicht.",
       hu: "Kirandulopark Tegucigalpa felett, allatkerttel es kilatassal.",
@@ -712,7 +696,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-87.18, 14.08],
     name: { de: "Chiminike", hu: "Chiminike", ro: "Chiminike", en: "Chiminike"},
-    image: "/poi-images/chiminike-life-v2.webp",
     description: {
       de: "Ein interaktives Kindermuseum in Tegucigalpa.",
       hu: "Interaktiv gyerekmuzeum Tegucigalpaban.",
@@ -756,7 +739,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-87.2, 14.08],
     name: { de: "Zentralpark Tegucigalpa", hu: "Tegucigalpa kozponti park", ro: "Parcul central Tegucigalpa", en: "Tegucigalpa Central Park"},
-    image: "/poi-images/tegucigalpa-central-park-life-v2.webp",
     description: {
       de: "Der wichtigste Platz der Altstadt von Tegucigalpa.",
       hu: "Tegucigalpa belvarosanak legfontosabb tere.",
@@ -800,7 +782,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-87.2, 14.1],
     name: { de: "Cerro Juana Lainez Park", hu: "Cerro Juana Lainez park", ro: "Parcul Cerro Juana Lainez", en: "Cerro Juana Lainez Park"},
-    image: "/poi-images/cerro-juana-lainez-park-life-v2.webp",
     description: {
       de: "Ein beliebter Stadtpark mit Blick uber Tegucigalpa.",
       hu: "Nepszeru varosi park kilatassal Tegucigalpara.",
@@ -844,7 +825,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-88.03, 15.5],
     name: { de: "San Pedro Sula Zoo", hu: "San Pedro Sula allatkert", ro: "Gradina zoologica San Pedro Sula", en: "San Pedro Sula Zoo"},
-    image: "/poi-images/san-pedro-sula-zoo-life-v2.webp",
     description: {
       de: "Ein familienfreundlicher Zoo in der Industriestadt.",
       hu: "Csaladbarat allatkert az iparvarosban.",
@@ -888,7 +868,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-87.97, 14.82],
     name: { de: "Lago de Yojoa", hu: "Lago de Yojoa", ro: "Lacul Yojoa", en: "Lake Yojoa"},
-    image: "/poi-images/lago-de-yojoa-life-v2.webp",
     description: {
       de: "Der groesste See Hondurans mit reichem Vogelleben.",
       hu: "Honduras legnagyobb tava gazdag madarvilaggal.",
@@ -932,7 +911,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-83.95, 15.55],
     name: { de: "Laguna de Caratasca", hu: "Caratasca-laguna", ro: "Laguna Caratasca", en: "Caratasca Lagoon"},
-    image: "/poi-images/laguna-de-caratasca-life-v2.webp",
     description: {
       de: "Eine grosse Lagune in der Mosquitia-Kuestenwelt.",
       hu: "Nagy laguna a Mosquitia partvideken.",
@@ -976,7 +954,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-85.72, 15.76],
     name: { de: "Laguna de Guaimoreto", hu: "Guaimoreto-laguna", ro: "Laguna Guaimoreto", en: "Guaimoreto Lagoon"},
-    image: "/poi-images/laguna-de-guaimoreto-life-v2.webp",
     description: {
       de: "Ein kuestennahes Feuchtgebiet im Nordosten Hondurans.",
       hu: "Parti vizes elhely Honduras eszakkeleti reszen.",
@@ -1019,7 +996,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-86.83, 15.8],
     name: { de: "Laguna de los Micos", hu: "Laguna de los Micos", ro: "Laguna de los Micos", en: "Laguna de los Micos"},
-    image: "/poi-images/laguna-de-los-micos-life-v2.webp",
     description: {
       de: "Eine schmale Lagune an der Karibikkueste nahe Tela.",
       hu: "Keskeny laguna a karibi parton Tela kozeleben.",
@@ -1062,7 +1038,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-87.95, 15.83],
     name: { de: "Punta Sal Nationalpark", hu: "Punta Sal Nemzeti Park", ro: "Parcul National Punta Sal", en: "Punta Sal National Park"},
-    image: "/poi-images/punta-sal-national-park-life-v2.webp",
     description: {
       de: "Ein Kuestenpark mit Regenwald, Mangrove und Strand.",
       hu: "Parti park esodoerdovel, mangroveval es stranddal.",
@@ -1106,7 +1081,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-86.4, 15.7],
     name: { de: "Biologisches Reservat El Chile", hu: "El Chile biologiai rezervatum", ro: "Rezervatia biologica El Chile", en: "El Chile Biological Reserve"},
-    image: "/poi-images/reserva-biologica-el-chile-life-v2.webp",
     description: {
       de: "Ein geschutzter Wald nahe der Karibikkueste.",
       hu: "Veedett erdo a karibi part kozeleben.",
@@ -1150,7 +1124,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-87.28, 15.1],
     name: { de: "Montana de Yoro Nationalpark", hu: "Montana de Yoro Nemzeti Park", ro: "Parcul National Montana de Yoro", en: "Montana de Yoro National Park"},
-    image: "/poi-images/montana-de-yoro-national-park-life-v2.webp",
     description: {
       de: "Ein Hochlandpark mit Wald und kuhlen Naechten.",
       hu: "Magashegyi park erdovel es huvos ejszakakkal.",
@@ -1194,7 +1167,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-87.6, 14.43],
     name: { de: "Montana de Comayagua", hu: "Montana de Comayagua", ro: "Muntii Comayagua", en: "Comayagua Mountains"},
-    image: "/poi-images/montana-de-comayagua-life-v2.webp",
     description: {
       de: "Ein Bergwaldgebiet westlich von Comayagua.",
       hu: "Hegyi erdos terulet Comayaguatol nyugatra.",
@@ -1238,7 +1210,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-88.13, 14.37],
     name: { de: "Opalaca-Reservat", hu: "Opalaca rezervatum", ro: "Rezervatia Opalaca", en: "Opalaca Reserve"},
-    image: "/poi-images/reserva-biologica-opalaca-life-v2.webp",
     description: {
       de: "Ein abgelegenes Waldschutzgebiet in Westhonduras.",
       hu: "Elszigetelt erdos vedett terulet Nyugat-Hondurasban.",
@@ -1282,7 +1253,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
     parent: "HN",
     coords: [-85.97, 15.06],
     name: { de: "La Muralla Reservat", hu: "La Muralla rezervatum", ro: "Rezervatia La Muralla", en: "La Muralla Reserve"},
-    image: "/poi-images/reserva-biologica-la-muralla-life-v2.webp",
     description: {
       de: "Ein Waldschutzgebiet im nordostlichen Binnenland.",
       hu: "Erdovedelmi terulet az eszakkeleti belsobb videken.",

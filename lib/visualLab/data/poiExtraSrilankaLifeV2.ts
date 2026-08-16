@@ -593,7 +593,6 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     parent: "LK-32",
     coords: [81.7167, 6.5500],
     name: { de: "Kumana-Nationalpark", hu: "Kumana Nemzeti Park", ro: "Parcul Național Kumana", en: "Kumana National Park"},
-    image: "/poi-images/kumana-national-park-life-v2.webp",
     description: { de: "Ein Nationalpark, der für sein bedeutendes Vogelschutzgebiet bekannt ist.", hu: "Egy nemzeti park, amely jelentős madárrezervátumáról ismert.", ro: "Un parc național cunoscut pentru sanctuarul său important de păsări.", en: "A national park known for its important bird sanctuary." , es: "Un parque nacional, conocido por su importante reserva de aves.", pt: "Um parque nacional, conhecido pela sua importante reserva de aves.", fr: "Un parc national, connu pour son importante réserve ornithologique."},
     facts: {
       de: ["Bedeutender Nistplatz für Vögel", "Heimat von Leoparden und Elefanten", "Liegt an der Ostküste"],
@@ -629,7 +628,6 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     parent: "LK-82",
     coords: [81.2000, 6.4333],
     name: { de: "Lunugamvehera-Nationalpark", hu: "Lunugamvehera Nemzeti Park", ro: "Parcul Național Lunugamvehera", en: "Lunugamvehera National Park"},
-    image: "/poi-images/lunugamvehera-national-park-life-v2.webp",
     description: { de: "Ein Schutzgebiet für Elefanten, das als Korridor zwischen Yala und Udawalawe dient.", hu: "Elefántok menedékhelye, amely folyosóként szolgál Yala és Udawalawe között.", ro: "Un sanctuar pentru elefanți care servește drept coridor între Yala și Udawalawe.", en: "An elephant sanctuary serving as a corridor between Yala and Udawalawe." , es: "Un área protegida para elefantes que sirve como corredor entre Yala y Udawalawe.", pt: "Uma área protegida para elefantes que serve de corredor entre Yala e Udawalawe.", fr: "Une zone protégée pour les éléphants qui sert de corridor entre Yala et Udawalawe."},
     facts: {
       de: ["Wichtiger Elefantenkorridor", "Schützt das Einzugsgebiet des Stausees", "Reiche Vogelwelt und Hirsche"],
@@ -710,7 +708,6 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     parent: "LK-71",
     coords: [81.1667, 7.5000],
     name: { de: "Maduru-Oya-Nationalpark", hu: "Maduru Oya Nemzeti Park", ro: "Parcul Național Maduru Oya", en: "Maduru Oya National Park"},
-    image: "/poi-images/maduru-oya-national-park-life-v2.webp",
     description: { de: "Ein Park mit reicher Tierwelt und alten buddhistischen Ruinen in der Nähe des Stausees.", hu: "Gazdag vadvilággal és ősi buddhista romokkal rendelkező park a víztározó közelében.", ro: "Un parc cu faună bogată și ruine budiste antice lângă lacul de acumulare.", en: "A park with rich wildlife and ancient Buddhist ruins near the reservoir." , es: "Un parque con una rica vida silvestre y antiguas ruinas budistas cerca del embalse.", pt: "Um parque com uma vida selvagem rica e antigas ruínas budistas perto da albufeira.", fr: "Un parc à la vie sauvage riche et aux anciennes ruines bouddhistes près du réservoir."},
     facts: {
       de: ["Beherbergt viele asiatische Elefanten", "Alte buddhistische Schreine", "Staudamm aus dem 3. Jahrhundert"],
@@ -791,7 +788,6 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     parent: "LK-51",
     coords: [81.2333, 8.7167],
     name: { de: "Pigeon-Island-Nationalpark", hu: "Galamb-sziget Nemzeti Park", ro: "Parcul Național Insula Porumbelului", en: "Pigeon Island National Park"},
-    image: "/poi-images/pigeon-island-national-park-life-v2.webp",
     description: { de: "Einer der beiden marinen Nationalparks, berühmt für seine Korallenriffe und Schwarzspitzen-Riffhaie.", hu: "A két tengeri nemzeti park egyike, amely korallzátonyairól és feketeúszójú szirticápáiról híres.", ro: "Unul dintre cele două parcuri naționale marine, faimos pentru recifele sale de corali și rechinii de recif.", en: "One of the two marine national parks, famous for its coral reefs and blacktip reef sharks." , es: "Uno de los dos parques nacionales marinos, famoso por sus arrecifes de coral y tiburones de puntas negras.", pt: "Um dos dois parques nacionais marinhos, famoso pelos seus recifes de coral e tubarões-de-pontas-negras.", fr: "L'un des deux parcs nationaux marins, célèbre pour ses récifs coralliens et ses requins à pointes noires."},
     facts: {
       de: ["Beliebtes Ziel zum Schnorcheln", "Heimat von Riffhaien", "Benannt nach der Felsentaube"],
@@ -1592,7 +1588,6 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     parent: "LK-31",
     coords: [80.0964, 6.1367],
     name: { de: "Hikkaduwa-Nationalpark", hu: "Hikkaduwa Nemzeti Park", ro: "Parcul Național Hikkaduwa", en: "Hikkaduwa National Park"},
-    image: "/poi-images/hikkaduwa-national-park-life-v2.webp",
     description: { de: "Ein mariner Nationalpark im Südwesten, der für sein flaches Korallenriff und Meeresschildkröten bekannt ist.", hu: "Délnyugati tengeri nemzeti park, amely sekély korallzátonyáról és tengeri teknőseiről ismert.", ro: "Un parc național marin în sud-vest, cunoscut pentru reciful său de corali puțin adânc și țestoasele marine.", en: "A marine national park in the southwest known for its shallow coral reef and sea turtles." , es: "Un parque nacional marino en el suroeste, conocido por su arrecife de coral poco profundo y sus tortugas marinas.", pt: "Um parque nacional marinho no sudoeste, conhecido pelo seu recife de coral pouco profundo e pelas suas tartarugas marinhas.", fr: "Un parc national marin dans le sud-ouest, connu pour son récif corallien peu profond et ses tortues marines."},
     facts: {
       de: ["Schützt empfindliche Korallenriffe", "Begegnungen mit Meeresschildkröten", "Fahrten mit dem Glasbodenboot"],
@@ -2717,7 +2712,6 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     parent: "LK-32",
     coords: [81.7167, 6.8667],
     name: { de: "Lahugala-Kitulana-Nationalpark", hu: "Lahugala Kitulana Nemzeti Park", ro: "Parcul Național Lahugala Kitulana", en: "Lahugala Kitulana National Park"},
-    image: "/poi-images/lahugala-kitulana-national-park-life-v2.webp",
     description: { de: "Einer der kleinsten Nationalparks, aber ein wichtiger Lebensraum für Elefanten und endemische Vögel.", hu: "Az egyik legkisebb nemzeti park, de fontos élőhelye az elefántoknak és az endemikus madaraknak.", ro: "Unul dintre cele mai mici parcuri naționale, dar un habitat important pentru elefanți și păsări endemice.", en: "One of the smallest national parks, but an important habitat for elephants and endemic birds." , es: "Uno de los parques nacionales más pequeños, pero un hábitat importante para elefantes y aves endémicas.", pt: "Um dos parques nacionais mais pequenos, mas um habitat importante para elefantes e aves endémicas.", fr: "L'un des plus petits parcs nationaux, mais un habitat important pour les éléphants et les oiseaux endémiques."},
     facts: {
       de: ["Sehr kleiner Nationalpark", "Zieht Herden von Elefanten an", "Umfasst den Lahugala-See"],
@@ -4022,7 +4016,6 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     parent: "LK-21",
     coords: [80.5960, 7.2680],
     name: { de: "Botanischer Garten Peradeniya", hu: "Peradeniya Királyi Botanikus Kert", ro: "Grădina Botanică Regală Peradeniya", en: "Royal Botanical Gardens Peradeniya"},
-    image: "/poi-images/royal-botanical-gardens-peradeniya-life-v2.webp",
     description: { de: "Der größte botanische Garten des Landes, berühmt für seine Orchideensammlung und die riesige Javanische Feige.", hu: "Az ország legnagyobb botanikus kertje, amely orchideagyűjteményéről és hatalmas jávai fügefájáról híres.", ro: "Cea mai mare grădină botanică din țară, faimoasă pentru colecția sa de orhidee și uriașul smochin de Java.", en: "The largest botanical garden in the country, famous for its orchid collection and massive Javan fig tree." , es: "El jardín botánico más grande del país, famoso por su colección de orquídeas y la higuera gigante de Java.", pt: "O maior jardim botânico do país, famoso pela sua coleção de orquídeas e pela figueira-de-java gigante.", fr: "Le plus grand jardin botanique du pays, célèbre pour sa collection d'orchidées et le figuier géant de Java."},
     facts: {
       de: ["Gegründet im Jahr 1843", "Besitzt ein großes Orchideenhaus", "Zieht jährlich Millionen Besucher an"],
@@ -4751,7 +4744,6 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     parent: "LK-22",
     coords: [80.8167, 6.9167],
     name: { de: "Botanischer Garten Hakgala", hu: "Hakgala Botanikus Kert", ro: "Grădina Botanică Hakgala", en: "Hakgala Botanical Garden"},
-    image: "/poi-images/hakgala-botanical-garden-life-v2.webp",
     description: { de: "Der zweitgrößte botanische Garten, gelegen in kühlem Klima, bekannt für Farne und Rosen.", hu: "A második legnagyobb botanikus kert, hűvös éghajlaton, páfrányairól és rózsáiról ismert.", ro: "A doua cea mai mare grădină botanică, situată într-un climat răcoros, cunoscută pentru ferigi și trandafiri.", en: "The second largest botanical garden, located in a cool climate, known for ferns and roses." , es: "El segundo jardín botánico más grande, situado en un clima fresco, conocido por sus helechos y rosas.", pt: "O segundo maior jardim botânico, localizado num clima fresco, conhecido pelos seus fetos e rosas.", fr: "Le deuxième plus grand jardin botanique, situé dans un climat frais, connu pour ses fougères et ses roses."},
     facts: {
       de: ["Liegt auf über 1700 Metern Höhe", "Bekannt für seine Rosen-Gärten", "Angrenzend an das Hakgala-Naturreservat"],
@@ -5372,7 +5364,6 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     parent: "LK-11",
     coords: [79.9833, 7.1000],
     name: { de: "Botanischer Garten Henarathgoda", hu: "Henarathgoda Botanikus Kert", ro: "Grădina Botanică Henarathgoda", en: "Henarathgoda Botanical Garden"},
-    image: "/poi-images/henarathgoda-botanical-garden-life-v2.webp",
     description: { de: "Ein historischer Garten, in dem der erste Kautschukbaum Südasiens gepflanzt wurde.", hu: "Történelmi kert, ahol Dél-Ãzsia első kaucsukfáját elültették.", ro: "O grădină istorică unde a fost plantat primul arbore de cauciuc din Asia de Sud.", en: "A historical garden where the first rubber tree in South Asia was planted." , es: "Un jardín histórico donde se plantó el primer árbol de caucho del sur de Asia.", pt: "Um jardim histórico onde foi plantada a primeira árvore de borracha do sul da Ásia.", fr: "Un jardin historique où a été planté le premier hévéa d'Asie du Sud."},
     facts: {
       de: ["Gegründet im Jahr 1876", "Heimat seltener tropischer Bäume", "Wichtig für die frühe Kautschukindustrie"],
@@ -6029,7 +6020,6 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     parent: "LK-11",
     coords: [79.8612, 6.9118],
     name: { de: "Viharamahadevi-Park", hu: "Viharamahadevi Park", ro: "Parcul Viharamahadevi", en: "Viharamahadevi Park"},
-    image: "/poi-images/viharamahadevi-park-life-v2.webp",
     description: { de: "Der größte und älteste öffentliche Park in Colombo, mit einem großen Buddha und Wasserfontänen.", hu: "Colombo legnagyobb és legrégebbi nyilvános parkja, egy hatalmas Buddha-szoborral és szökőkutakkal.", ro: "Cel mai mare și mai vechi parc public din Colombo, cu o statuie mare a lui Buddha și fântâni arteziene.", en: "The largest and oldest public park in Colombo, featuring a large Buddha statue and water fountains." , es: "El parque público más grande y antiguo de Colombo, con un gran Buda y fuentes de agua.", pt: "O maior e mais antigo parque público de Colombo, com um grande Buda e fontes de água.", fr: "Le plus grand et le plus ancien parc public de Colombo, avec un grand Bouddha et des fontaines d'eau."},
     facts: {
       de: ["Früher als Victoria Park bekannt", "Gegenüber dem Rathaus gelegen", "Beliebt für Picknicks und Spaziergänge"],
@@ -6650,7 +6640,6 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     parent: "LK-22",
     coords: [80.7716, 6.9734],
     name: { de: "Victoria-Park", hu: "Victoria Park", ro: "Parcul Victoria", en: "Victoria Park Nuwara Eliya"},
-    image: "/poi-images/victoria-park-nuwara-eliya-life-v2.webp",
     description: { de: "Ein gepflegter Stadtpark im Hochland, benannt nach Königin Victoria, beliebt bei Vogelbeobachtern.", hu: "Jól gondozott hegyvidéki városi park, amelyet Viktória királynőről neveztek el, népszerű a madármegfigyelők körében.", ro: "Un parc urban bine întreținut în zonele înalte, numit după Regina Victoria, popular printre observatorii de păsări.", en: "A well-maintained urban park in the highlands, named after Queen Victoria, popular among birdwatchers." , es: "Un cuidado parque urbano en las tierras altas, nombrado en honor a la Reina Victoria, popular entre observadores de aves.", pt: "Um parque urbano bem cuidado nas terras altas, nomeado em honra da Rainha Vitória, popular entre observadores de aves.", fr: "Un parc urbain bien entretenu dans les hautes terres, nommé en l'honneur de la reine Victoria, prisé des ornithologues."},
     facts: {
       de: ["Benannt zum 60. Jubiläum von Königin Victoria", "Guter Ort für Vogelbeobachtung", "Besitzt farbenfrohe Blumenbeete"],
@@ -6911,7 +6900,6 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     parent: "LK-82",
     coords: [80.9880, 6.2300],
     name: { de: "Safari-Park Ridiyagama", hu: "Ridiyagama Szafaripark", ro: "Parcul de Safari Ridiyagama", en: "Ridiyagama Safari Park"},
-    image: "/poi-images/ridiyagama-safari-park-life-v2.webp",
     description: { de: "Ein weitläufiger Safaripark mit Freigehegen für afrikanische Löwen, asiatische Elefanten und bengalische Tiger.", hu: "Kiterjedt szafaripark hatalmas kifutókkal az afrikai oroszlánok, ázsiai elefántok és bengáli tigrisek számára.", ro: "Un parc de safari extins cu incinte mari în aer liber pentru lei africani, elefanți asiatici și tigri bengalezi.", en: "An expansive safari park with open-air enclosures for African lions, Asian elephants, and Bengal tigers." , es: "Un extenso parque safari con recintos abiertos para leones africanos, elefantes asiáticos y tigres de Bengala.", pt: "Um extenso parque safari com recintos abertos para leões africanos, elefantes asiáticos e tigres de Bengala.", fr: "Un vaste parc safari avec des enclos ouverts pour les lions africains, les éléphants d'Asie et les tigres du Bengale."},
     facts: {
       de: ["Der erste Safari-Park in Sri Lanka", "Eröffnet im Jahr 2016", "Umfasst über 500 Hektar Land"],
@@ -7829,7 +7817,6 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     parent: "LK-22",
     coords: [80.7022, 7.0261],
     name: { de: "Damro Labookellie Teeplantage", hu: "Damro Labookellie Teabirtok", ro: "Plantația de Ceai Damro Labookellie", en: "Damro Labookellie Tea Estate"},
-    image: "/poi-images/damro-labookellie-tea-estate-life-v2.webp",
     description: { de: "Eine der ältesten und größten Teeplantagen Sri Lankas, die malerische Ausblicke und Führungen anbietet.", hu: "Srí Lanka egyik legrégebbi és legnagyobb teabirtoka, amely festői kilátást és vezetett túrákat kínál.", ro: "Una dintre cele mai vechi și mai mari plantații de ceai din Sri Lanka, oferind priveliști pitorești și tururi ghidate.", en: "One of the oldest and largest tea estates in Sri Lanka, offering scenic views and guided tours." , es: "Una de las plantaciones de té más antiguas y grandes de Sri Lanka, que ofrece vistas pintorescas y visitas guiadas.", pt: "Uma das plantações de chá mais antigas e maiores do Sri Lanka, oferecendo vistas pitorescas e visitas guiadas.", fr: "L'une des plus anciennes et des plus grandes plantations de thé du Sri Lanka, offrant des vues pittoresques et des visites guidées."},
     facts: {
       de: ["Früher Mackwoods genannt", "Liegt auf über 1500 Metern", "Umfasst Tausende von Hektar"],
@@ -8774,7 +8761,6 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     parent: "LK-31",
     coords: [80.3700, 6.0000],
     name: { de: "Handunugoda-Teeplantage", hu: "Handunugoda Teabirtok", ro: "Plantația de Ceai Handunugoda", en: "Handunugoda Tea Estate"},
-    image: "/poi-images/handunugoda-tea-estate-life-v2.webp",
     description: { de: "Eine einzigartige tiefliegende Plantage in der Nähe von Galle, berühmt für ihren weißen Tee.", hu: "Egyedülálló, mélyföldi ültetvény Galle közelében, amely a fehér teájáról híres.", ro: "O plantație unică la joasă altitudine lângă Galle, faimoasă pentru ceaiul ei alb.", en: "A unique low-country estate near Galle, famous for its white tea." , es: "Una plantación única en tierras bajas cerca de Galle, famosa por su té blanco.", pt: "Uma plantação única em terras baixas perto de Galle, famosa pelo seu chá branco.", fr: "Une plantation unique en basse altitude près de Galle, célèbre pour son thé blanc."},
     facts: {
       de: ["Produziert Virgin White Tea", "Kein menschlicher Hautkontakt beim Pflücken", "Nahe der Küste gelegen"],
@@ -9323,7 +9309,6 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     parent: "LK-81",
     coords: [81.0475, 6.8850],
     name: { de: "Halpewatte-Teefabrik", hu: "Halpewatte Teagyár", ro: "Fabrica de Ceai Halpewatte", en: "Halpewatte Tea Factory"},
-    image: "/poi-images/halpewatte-tea-factory-life-v2.webp",
     description: { de: "Die größte Teefabrik in der Uva-Region, die detaillierte Einblicke in den Teeproduktionsprozess bietet.", hu: "Az Uva régió legnagyobb teagyára, amely részletes betekintést nyújt a teagyártás folyamatába.", ro: "Cea mai mare fabrică de ceai din regiunea Uva, oferind o privire detaliată asupra procesului de producție a ceaiului.", en: "The largest tea factory in the Uva region, providing detailed insights into the tea production process." , es: "La fábrica de té más grande de la región de Uva, que ofrece una visión detallada del proceso de producción de té.", pt: "A maior fábrica de chá na região de Uva, oferecendo uma visão detalhada do processo de produção de chá.", fr: "La plus grande usine de thé de la région d'Uva, offrant un aperçu détaillé du processus de production du thé."},
     facts: {
       de: ["Gegründet im Jahr 1940", "Größte Fabrik der Uva-Provinz", "Bietet umfangreiche Teeverkostungen"],
@@ -9548,7 +9533,6 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     parent: "LK-81",
     coords: [81.0550, 6.8700],
     name: { de: "Newburgh-Grünteefabrik", hu: "Newburgh Zöldtea Gyár", ro: "Fabrica de Ceai Verde Newburgh", en: "Newburgh Green Tea Factory"},
-    image: "/poi-images/newburgh-green-tea-factory-life-v2.webp",
     description: { de: "Eine spezialisierte Fabrik in Ella, die ausschließlich hochwertigen grünen Ceylon-Tee herstellt.", hu: "Egy speciális gyár Ellában, amely kizárólag kiváló minőségű ceyloni zöld teát állít elő.", ro: "O fabrică specializată în Ella, care produce exclusiv ceai verde de Ceylon de înaltă calitate.", en: "A specialized factory in Ella producing exclusively high-quality green Ceylon tea." , es: "Una fábrica especializada en Ella que produce exclusivamente té verde de Ceilán de alta calidad.", pt: "Uma fábrica especializada em Ella que produz exclusivamente chá verde do Ceilão de alta qualidade.", fr: "Une usine spécialisée à Ella qui produit exclusivement du thé vert de Ceylan de haute qualité."},
     facts: {
       de: ["Produziert nur grünen Tee", "Verwendet moderne Verarbeitungstechniken", "Befindet sich in Ella"],
@@ -9917,7 +9901,6 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     parent: "LK-92",
     coords: [80.3860, 7.2960],
     name: { de: "Pinnawala Freiluftzoo", hu: "Pinnawala Szabadtéri Állatkert", ro: "Grădina Zoologică în Aer Liber Pinnawala", en: "Pinnawala Open Zoo"},
-    image: "/poi-images/pinnawala-open-zoo-life-v2.webp",
     description: { de: "Der erste Freiluftzoo des Landes, der weitläufige Gehege für einheimische und exotische Tiere bietet.", hu: "Az ország első szabadtéri állatkertje, amely tágas kifutókat biztosít hazai és egzotikus állatoknak.", ro: "Prima grădină zoologică în aer liber din țară, oferind incinte spațioase pentru animale indigene și exotice.", en: "The country's first open-air zoo, providing spacious enclosures for indigenous and exotic animals." , es: "El primer zoológico al aire libre del país, que ofrece amplios recintos para animales autóctonos y exóticos.", pt: "O primeiro jardim zoológico ao ar livre do país, oferecendo amplos recintos para animais nativos e exóticos.", fr: "Le premier zoo en plein air du pays, offrant de vastes enclos pour les animaux indigènes et exotiques."},
     facts: {
       de: ["Eröffnet im Jahr 2015", "Tiere leben in natürlichen Lebensräumen", "Direkt neben dem Elefantenwaisenhaus"],
@@ -11114,7 +11097,6 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     parent: "LK-92",
     coords: [80.4000, 7.2700],
     name: { de: "Millennium-Elefanten-Stiftung", hu: "Millennium Elefánt Alapítvány", ro: "Fundația Elefanților Millennium", en: "Millennium Elephant Foundation"},
-    image: "/poi-images/millennium-elephant-foundation-life-v2.webp",
     description: { de: "Eine familienfreundliche Rettungsorganisation, in der Besucher respektvoll mit Elefanten interagieren können.", hu: "Egy családbarát mentőszervezet, ahol a látogatók tiszteletteljesen kapcsolatba léphetnek az elefántokkal.", ro: "O organizație de salvare potrivită pentru familii, unde vizitatorii pot interacționa respectuos cu elefanții.", en: "A family-friendly rescue organization where visitors can interact respectfully with elephants." , es: "Una organización de rescate ideal para familias, donde los visitantes pueden interactuar respetuosamente con elefantes.", pt: "Uma organização de resgate familiar onde os visitantes podem interagir respeitosamente com elefantes.", fr: "Une organisation de sauvetage familiale où les visiteurs peuvent interagir respectueusement avec les éléphants."},
     facts: {
       de: ["Kümmert sich um gerettete Elefanten", "Bietet Spaziergänge mit Elefanten an", "Fördert den Tierschutz"],

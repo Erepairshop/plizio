@@ -448,8 +448,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Bălți", hu: "Bălți", ro: "Bălți", en: "Bălți"},
-    image: "/poi-images/moldova-balti-cities-v2.webp",
-    coords: [27.9289, 47.7611],
     coords: [27.9289, 47.7611],
     description: {
       de: "Bălți ist das wirtschaftliche und kulturelle Zentrum im Norden Moldawiens. Die Stadt liegt am Fluss Răut und wird oft als die nördliche Hauptstadt des Landes bezeichnet.",
@@ -828,8 +826,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Bender", hu: "Bender", ro: "Bender", en: "Bender"},
-    image: "/poi-images/moldova-bender-cities-v2.webp",
-    coords: [29.4792, 46.8322],
     coords: [29.4792, 46.8322],
     description: {
       de: "Bender, auch als Tighina bekannt, ist eine historische Stadt am rechten Ufer des Dnjestr. Sie ist berühmt für ihre mittelalterliche Festung und ihre strategische Bedeutung.",
@@ -1316,8 +1312,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Rîbnița", hu: "Rîbnița", ro: "Rîbnița", en: "Rîbnița"},
-    image: "/poi-images/moldova-ribnita-cities-v2.webp",
-    coords: [29.0069, 47.7617],
     coords: [29.0069, 47.7617],
     description: {
       de: "Rîbnița ist eine bedeutende Industriestadt am linken Ufer des Dnjestr in Transnistrien. Sie ist bekannt für ihre Stahlproduktion und modernen Wohnviertel.",
@@ -1696,8 +1690,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Cahul", hu: "Cahul", ro: "Cahul", en: "Cahul"},
-    image: "/poi-images/moldova-cahul-cities-v2.webp",
-    coords: [28.1944, 45.9075],
     coords: [28.1944, 45.9075],
     description: {
       de: "Cahul ist eine Universitätsstadt und ein bekannter Kurort im Süden Moldawiens. Die Stadt ist berühmt für ihre Thermalquellen und Sanatorien.",
@@ -2076,8 +2068,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Ungheni", hu: "Ungheni", ro: "Ungheni", en: "Ungheni"},
-    image: "/poi-images/moldova-ungheni-cities-v2.webp",
-    coords: [27.8003, 47.2094],
     coords: [27.8003, 47.2094],
     description: {
       de: "Ungheni liegt an der Grenze zu Rumänien am Fluss Pruth. Die Stadt ist ein wichtiger Verkehrsknotenpunkt und bekannt für ihre Teppichindustrie.",
@@ -2348,8 +2338,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Soroca", hu: "Soroca", ro: "Soroca", en: "Soroca"},
-    image: "/poi-images/moldova-soroca-cities-v2.webp",
-    coords: [28.2847, 48.1561],
     coords: [28.2847, 48.1561],
     description: {
       de: "Soroca liegt am rechten Ufer des Dnjestr und ist berühmt für seine mittelalterliche Festung. Die Stadt gilt als die inoffizielle Hauptstadt der Roma-Gemeinschaft.",
@@ -2764,8 +2752,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Dubăsari", hu: "Dubăsari", ro: "Dubăsari", en: "Dubăsari"},
-    image: "/poi-images/moldova-dubasari-cities-v2.webp",
-    coords: [29.15, 47.2667],
     coords: [29.15, 47.2667],
     description: {
       de: "Dubăsari ist eine Stadt am Dnjestr in Transnistrien. Sie ist bekannt für ihr Wasserkraftwerk und den großen Stausee, der ein wichtiges Naherholungsgebiet ist.",
@@ -2811,8 +2797,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "capital",
     name: { de: "Comrat", hu: "Komrát", ro: "Comrat", en: "Comrat"},
-    image: "/poi-images/moldova-comrat-cities-v2.webp",
-    coords: [28.6572, 46.3003],
     coords: [28.6572, 46.3003],
     description: {
       de: "Comrat ist die Hauptstadt der Autonomen Region Gagausien im Süden Moldawiens. Die Stadt ist das kulturelle und administrative Zentrum des gagausischen Volkes.",
@@ -3349,8 +3333,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Edineț", hu: "Edineț", ro: "Edineț", en: "Edineț"},
-    image: "/poi-images/moldova-edinet-cities-v2.webp",
-    coords: [27.3031, 48.1692],
     coords: [27.3031, 48.1692],
     description: {
       de: "Edineț ist eine wichtige Stadt im Norden Moldawiens. Sie dient als administratives Zentrum des gleichnamigen Bezirks und ist bekannt für ihren großen Stadtpark.",
@@ -3477,8 +3459,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Căușeni", hu: "Căușeni", ro: "Căușeni", en: "Căușeni"},
-    image: "/poi-images/moldova-causeni-cities-v2.webp",
-    coords: [29.4144, 46.6414],
     coords: [29.4144, 46.6414],
     description: {
       de: "Căușeni ist eine Stadt im Südosten Moldawiens. Sie ist berühmt für ihre einzigartige mittelalterliche Kirche, die teilweise unter der Erde gebaut wurde.",
@@ -3677,8 +3657,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Taraclia", hu: "Taraclia", ro: "Taraclia", en: "Taraclia"},
-    image: "/poi-images/moldova-taraclia-cities-v2.webp",
-    coords: [28.6694, 45.9],
     coords: [28.6694, 45.9],
     description: {
       de: "Taraclia ist das Zentrum der bulgarischen Minderheit in Moldawien. Die Stadt liegt im Süden des Landes und pflegt eine starke bulgarische Kultur und Tradition.",
@@ -4057,8 +4035,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Durlești", hu: "Durlești", ro: "Durlești", en: "Durlești"},
-    image: "/poi-images/moldova-durlesti-cities-v2.webp",
-    coords: [28.7617, 47.0208],
     coords: [28.7617, 47.0208],
     description: {
       de: "Durlești ist eine Vorstadt von Chișinău und gehört zum Hauptstadtbezirk. Es ist ein schnell wachsendes Wohngebiet mit einer Mischung aus Tradition und Moderne.",
@@ -4185,8 +4161,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Fălești", hu: "Fălești", ro: "Fălești", en: "Fălești"},
-    image: "/poi-images/moldova-falesti-cities-v2.webp",
-    coords: [27.7092, 47.5753],
     coords: [27.7092, 47.5753],
     description: {
       de: "Fălești ist eine Stadt im Nordwesten Moldawiens. Sie ist das administrative Zentrum des Bezirks Fălești und ein wichtiger landwirtschaftlicher Umschlagplatz.",
@@ -4421,8 +4395,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Hîncești", hu: "Hîncești", ro: "Hîncești", en: "Hîncești"},
-    image: "/poi-images/moldova-hincesti-cities-v2.webp",
-    coords: [28.5861, 46.8286],
     coords: [28.5861, 46.8286],
     description: {
       de: "Hîncești liegt südwestlich von Chișinău und ist bekannt für das beeindruckende Schloss Manuc Bei. Die Stadt ist ein wichtiges kulturelles Zentrum in Zentralmoldawien.",
@@ -4657,8 +4629,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Vulcănești", hu: "Vulcănești", ro: "Vulcănești", en: "Vulcănești"},
-    image: "/poi-images/moldova-vulcanesti-cities-v2.webp",
-    coords: [28.4028, 45.6833],
     coords: [28.4028, 45.6833],
     description: {
       de: "Vulcănești ist eine Stadt im äußersten Süden Moldawiens, die zur Autonomen Region Gagausien gehört. Sie ist bekannt für das Denkmal der Schlacht von Cahul.",
@@ -4785,8 +4755,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Ceadîr-Lunga", hu: "Ceadîr-Lunga", ro: "Ceadîr-Lunga", en: "Ceadîr-Lunga"},
-    image: "/poi-images/moldova-ceadir-lunga-cities-v2.webp",
-    coords: [28.8306, 46.0583],
     coords: [28.8306, 46.0583],
     description: {
       de: "Ceadîr-Lunga ist die zweitgrößte Stadt in Gagausien. Sie ist ein bedeutendes Industriezentrum im Süden Moldawiens und Sitz vieler landwirtschaftlicher Betriebe.",
@@ -4949,8 +4917,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Ialoveni", hu: "Ialoveni", ro: "Ialoveni", en: "Ialoveni"},
-    image: "/poi-images/moldova-ialoveni-cities-v2.webp",
-    coords: [28.7778, 46.9428],
     coords: [28.7778, 46.9428],
     description: {
       de: "Ialoveni liegt südlich von Chișinău und ist für seine Weinproduktion weltberühmt. Hier befindet sich das berühmte Weingut Mileștii Mici mit den größten Weinkellern der Welt.",
@@ -5077,8 +5043,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Sîngerei", hu: "Sîngerei", ro: "Sîngerei", en: "Sîngerei"},
-    image: "/poi-images/moldova-singerei-cities-v2.webp",
-    coords: [28.1403, 47.6361],
     coords: [28.1403, 47.6361],
     description: {
       de: "Sîngerei ist eine Stadt im Norden Moldawiens. Sie dient als administratives Zentrum des Bezirks Sîngerei und ist von einer fruchtbaren Agrarlandschaft umgeben.",
@@ -5277,8 +5241,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Ocnița", hu: "Ocnița", ro: "Ocnița", en: "Ocnița"},
-    image: "/poi-images/moldova-ocnita-cities-v2.webp",
-    coords: [27.4811, 48.4086],
     coords: [27.4811, 48.4086],
     description: {
       de: "Ocnița ist die nördlichste Stadt Moldawiens und liegt direkt an der Grenze zur Ukraine. Sie ist ein bedeutender Eisenbahnknotenpunkt für den internationalen Verkehr.",
@@ -5441,8 +5403,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Briceni", hu: "Briceni", ro: "Briceni", en: "Briceni"},
-    image: "/poi-images/moldova-briceni-cities-v2.webp",
-    coords: [27.085, 48.3619],
     coords: [27.085, 48.3619],
     description: {
       de: "Briceni liegt im Nordwesten Moldawiens nahe der ukrainischen und rumänischen Grenze. Die Stadt ist bekannt für ihr mildes Klima und die ausgedehnten Obstgärten der Region.",
@@ -5533,8 +5493,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Drochia", hu: "Drochia", ro: "Drochia", en: "Drochia"},
-    image: "/poi-images/moldova-drochia-cities-v2.webp",
-    coords: [27.7511, 48.035],
     coords: [27.7511, 48.035],
     description: {
       de: "Drochia ist eine Stadt im Norden Moldawiens, die für ihre prächtige Kathedrale und ihre Rolle in der Zuckerindustrie bekannt ist. Sie ist das Zentrum des gleichnamigen Bezirks.",
@@ -5733,8 +5691,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Ștefan Vodă", hu: "Ștefan Vodă", ro: "Ștefan Vodă", en: "Ștefan Vodă"},
-    image: "/poi-images/moldova-stefan-voda-cities-v2.webp",
-    coords: [29.6614, 46.5133],
     coords: [29.6614, 46.5133],
     description: {
       de: "Ștefan Vodă liegt im Südosten Moldawiens, nahe der Grenze zur Ukraine. Die Stadt ist das Zentrum einer Region, die für ihre exzellenten Rotweine und landwirtschaftliche Produktion bekannt ist.",
@@ -5969,8 +5925,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Rezina", hu: "Rezina", ro: "Rezina", en: "Rezina"},
-    image: "/poi-images/moldova-rezina-cities-v2.webp",
-    coords: [28.9622, 47.7486],
     coords: [28.9622, 47.7486],
     description: {
       de: "Rezina liegt am rechten Ufer des Dnjestr gegenüber der Stadt Rîbnița. Die Stadt ist ein wichtiger Industriestandort, insbesondere für die Zementherstellung, und bietet schöne Flusslandschaften.",
@@ -6241,8 +6195,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Glodeni", hu: "Glodeni", ro: "Glodeni", en: "Glodeni"},
-    image: "/poi-images/moldova-glodeni-cities-v2.webp",
-    coords: [27.3144, 47.7714],
     coords: [27.3144, 47.7714],
     description: {
       de: "Glodeni ist eine Stadt im Nordwesten Moldawiens. Sie ist bekannt für das nahe gelegene Naturschutzgebiet Pădurea Domnească, eines der ältesten Waldgebiete des Landes.",
@@ -6405,8 +6357,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Rîșcani", hu: "Rîșcani", ro: "Rîșcani", en: "Rîșcani"},
-    image: "/poi-images/moldova-riscani-cities-v2.webp",
-    coords: [27.2519, 47.9547],
     coords: [27.2519, 47.9547],
     description: {
       de: "Rîșcani liegt im Norden Moldawiens und ist ein wichtiges regionales Zentrum. Die Stadt ist für ihre Lebensmittelindustrie und die Nähe zum Costești-Stausee bekannt.",
@@ -6452,8 +6402,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Cantemir", hu: "Cantemir", ro: "Cantemir", en: "Cantemir"},
-    image: "/poi-images/moldova-cantemir-cities-v2.webp",
-    coords: [28.2017, 46.2775],
     coords: [28.2017, 46.2775],
     description: {
       de: "Cantemir ist eine relativ junge Stadt im Süden Moldawiens am Fluss Pruth. Sie wurde nach dem moldauischen Fürsten Dimitrie Cantemir benannt und ist ein Zentrum der Weinindustrie.",
@@ -6616,8 +6564,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Basarabeasca", hu: "Basarabeasca", ro: "Basarabeasca", en: "Basarabeasca"},
-    image: "/poi-images/moldova-basarabeasca-cities-v2.webp",
-    coords: [28.9639, 46.3317],
     coords: [28.9639, 46.3317],
     description: {
       de: "Basarabeasca liegt im Süden Moldawiens an der Grenze zur Ukraine. Die Stadt ist ein historisch wichtiger Eisenbahnknotenpunkt und ein Zentrum der lokalen Lebensmittelindustrie.",
@@ -6663,8 +6609,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Cimișlia", hu: "Cimișlia", ro: "Cimișlia", en: "Cimișlia"},
-    image: "/poi-images/moldova-cimislia-cities-v2.webp",
-    coords: [28.7839, 46.5217],
     coords: [28.7839, 46.5217],
     description: {
       de: "Cimișlia liegt im Süden Moldawiens am Fluss Cogâlnic. Die Stadt ist ein wichtiger Verkehrsknotenpunkt und bekannt für ihre Textil- und Weinindustrie.",
@@ -6827,8 +6771,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Leova", hu: "Leova", ro: "Leova", en: "Leova"},
-    image: "/poi-images/moldova-leova-cities-v2.webp",
-    coords: [28.2542, 46.4864],
     coords: [28.2542, 46.4864],
     description: {
       de: "Leova liegt am östlichen Ufer des Flusses Pruth im Südwesten Moldawiens. Die Stadt ist ein wichtiger Grenzübergang zu Rumänien und ein Zentrum der Landwirtschaft.",
@@ -7243,8 +7185,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Nisporeni", hu: "Nisporeni", ro: "Nisporeni", en: "Nisporeni"},
-    image: "/poi-images/moldova-nisporeni-cities-v2.webp",
-    coords: [28.1819, 47.0817],
     coords: [28.1819, 47.0817],
     description: {
       de: "Nisporeni liegt in einer hügeligen Region im Westen Moldawiens. Die Stadt ist bekannt für ihre Weinberge, die malerische Umgebung und das nahe gelegene Vărzărești-Kloster.",
@@ -7479,8 +7419,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Grigoriopol", hu: "Grigoriopol", ro: "Grigoriopol", en: "Grigoriopol"},
-    image: "/poi-images/moldova-grigoriopol-cities-v2.webp",
-    coords: [29.3, 47.15],
     coords: [29.3, 47.15],
     description: {
       de: "Grigoriopol liegt am linken Ufer des Dnjestr in Transnistrien. Die Stadt wurde von armenischen Siedlern gegründet und besitzt ein reiches kulturelles Erbe aus dieser Zeit.",
@@ -7643,8 +7581,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Camenca", hu: "Camenca", ro: "Camenca", en: "Camenca"},
-    image: "/poi-images/moldova-camenca-cities-v2.webp",
-    coords: [28.7, 48.0333],
     coords: [28.7, 48.0333],
     description: {
       de: "Camenca ist eine Stadt im Norden Transnistriens, bekannt für ihr mildes Klima und als beliebter Kurort. Die Region ist berühmt für ihre Weinberge und Obstplantagen.",
@@ -7843,8 +7779,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Slobozia", hu: "Slobozia", ro: "Slobozia", en: "Slobozia"},
-    image: "/poi-images/moldova-slobozia-cities-v2.webp",
-    coords: [29.7, 46.7333],
     coords: [29.7, 46.7333],
     description: {
       de: "Slobozia liegt südlich von Tiraspol am linken Ufer des Dnjestr. Die Stadt ist ein wichtiges administratives Zentrum in Transnistrien und für ihre Landwirtschaft bekannt.",
@@ -8151,8 +8085,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Dnestrovsc", hu: "Dnestrovsc", ro: "Dnestrovsc", en: "Dnestrovsc"},
-    image: "/poi-images/moldova-dnestrovsc-cities-v2.webp",
-    coords: [29.9167, 46.6167],
     coords: [29.9167, 46.6167],
     description: {
       de: "Dnestrovsc liegt im Südosten Transnistriens am Ufer des Cuciurgan-Stausees. Die Stadt wurde als Wohnsiedlung für die Arbeiter des großen Wärmekraftwerks Cuciurgan errichtet.",
@@ -8747,8 +8679,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Codru", hu: "Codru", ro: "Codru", en: "Codru"},
-    image: "/poi-images/moldova-codru-cities-v2.webp",
-    coords: [28.8189, 46.9747],
     coords: [28.8189, 46.9747],
     description: {
       de: "Codru ist eine Stadt im Munizipium Chișinău. Sie dient vor allem als Wohngebiet und ist für ihre Forschungsinstitute im Bereich der Landwirtschaft und des Weinbaus bekannt.",
@@ -8947,8 +8877,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Cricova", hu: "Krikova", ro: "Cricova", en: "Cricova"},
-    image: "/poi-images/moldova-cricova-cities-v2.webp",
-    coords: [28.8617, 47.1333],
     coords: [28.8617, 47.1333],
     description: {
       de: "Cricova ist weltberühmt für seine riesigen unterirdischen Weinkeller. Die Stadt im Norden von Chișinău beherbergt eine der größten Weinsammlungen der Welt in ehemaligen Kalksteinminen.",
@@ -9039,8 +8967,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Cupcini", hu: "Cupcini", ro: "Cupcini", en: "Cupcini"},
-    image: "/poi-images/moldova-cupcini-cities-v2.webp",
-    coords: [27.3853, 48.1122],
     coords: [27.3853, 48.1122],
     description: {
       de: "Cupcini ist eine Industriestadt im Bezirk Edineț im Norden Moldawiens. Sie ist ein wichtiges Zentrum für die Verarbeitung landwirtschaftlicher Produkte, insbesondere Zucker und Konserven.",
@@ -9203,8 +9129,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Otaci", hu: "Otaci", ro: "Otaci", en: "Otaci"},
-    image: "/poi-images/moldova-otaci-cities-v2.webp",
-    coords: [27.7944, 48.4328],
     coords: [27.7944, 48.4328],
     description: {
       de: "Otaci liegt im Norden Moldawiens am rechten Ufer des Dnjestr gegenüber der ukrainischen Stadt Mohyliw-Podilskyj. Die Stadt ist ein bedeutender Grenz- und Handelsplatz.",
@@ -9295,8 +9219,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Costești", hu: "Costești", ro: "Costești", en: "Costești"},
-    image: "/poi-images/moldova-costesti-cities-v2.webp",
-    coords: [27.2117, 47.8594],
     coords: [27.2117, 47.8594],
     description: {
       de: "Costești ist bekannt für das große Wasserkraftwerk Stânca-Costești am Fluss Pruth, das gemeinsam mit Rumänien betrieben wird. Die Stadt liegt an einem malerischen Stausee.",
@@ -9423,8 +9345,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Biruința", hu: "Biruința", ro: "Biruința", en: "Biruința"},
-    image: "/poi-images/moldova-biruinta-cities-v2.webp",
-    coords: [28.0689, 47.8156],
     coords: [28.0689, 47.8156],
     description: {
       de: "Biruința ist eine kleine Stadt im Bezirk Sîngerei im Norden Moldawiens. Sie wurde in der Mitte des 20. Jahrhunderts als Industriesiedlung in der Nähe einer Zuckerfabrik gegründet.",
@@ -9515,8 +9435,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Cornești", hu: "Cornești", ro: "Cornești", en: "Cornești"},
-    image: "/poi-images/moldova-cornesti-cities-v2.webp",
-    coords: [27.9958, 47.3583],
     coords: [27.9958, 47.3583],
     description: {
       de: "Cornești ist eine Stadt im Bezirk Ungheni im Westen Moldawiens. Sie liegt in einer bewaldeten Region und ist ein wichtiger Haltepunkt an der Eisenbahnlinie nach Rumänien.",
@@ -9751,8 +9669,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Crasnoe", hu: "Crasnoe", ro: "Crasnoe", en: "Crasnoe"},
-    image: "/poi-images/moldova-crasnoe-cities-v2.webp",
-    coords: [29.8167, 46.6433],
     coords: [29.8167, 46.6433],
     description: {
       de: "Crasnoe ist eine kleine Industriestadt im Bezirk Slobozia in Transnistrien. Sie liegt südlich von Tiraspol und ist hauptsächlich auf die Lebensmittelverarbeitung spezialisiert.",
@@ -9879,8 +9795,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Frunză", hu: "Frunză", ro: "Frunză", en: "Frunză"},
-    image: "/poi-images/moldova-frunza-cities-v2.webp",
-    coords: [27.5961, 48.4069],
     coords: [27.5961, 48.4069],
     description: {
       de: "Frunză ist eine kleine Stadt im Bezirk Ocnița im Norden Moldawiens. Sie wurde als Siedlung für eine große Zuckerfabrik gegründet und trägt den Namen eines berühmten sowjetischen Militärführers.",
@@ -10043,8 +9957,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Ghindești", hu: "Ghindești", ro: "Ghindești", en: "Ghindești"},
-    image: "/poi-images/moldova-ghindesti-cities-v2.webp",
-    coords: [28.3814, 47.8544],
     coords: [28.3814, 47.8544],
     description: {
       de: "Ghindești ist eine kleine Stadt im Bezirk Florești im Norden Moldawiens. Sie liegt am Fluss Răut und ist für ihre Zuckerindustrie und ihre historische Bedeutung als Eisenbahnknoten bekannt.",
@@ -10135,8 +10047,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Iargara", hu: "Iargara", ro: "Iargara", en: "Iargara"},
-    image: "/poi-images/moldova-iargara-cities-v2.webp",
-    coords: [28.4358, 46.4286],
     coords: [28.4358, 46.4286],
     description: {
       de: "Iargara ist eine Stadt im Bezirk Leova im Südwesten Moldawiens. Sie ist ein bedeutender Eisenbahnknotenpunkt in der Region und ein Zentrum für den Handel mit Agrarprodukten.",
@@ -10182,8 +10092,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Maiac", hu: "Maiac", ro: "Maiac", en: "Maiac"},
-    image: "/poi-images/moldova-maiac-cities-v2.webp",
-    coords: [29.3853, 47.2347],
     coords: [29.3853, 47.2347],
     description: {
       de: "Maiac ist eine Stadt im Bezirk Grigoriopol in Transnistrien. Sie ist international bekannt für ihr leistungsstarkes Rundfunkzentrum, das Radioprogramme in viele Länder ausstrahlt.",
@@ -10274,8 +10182,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Mărculești", hu: "Mărculești", ro: "Mărculești", en: "Mărculești"},
-    image: "/poi-images/moldova-marculesti-cities-v2.webp",
-    coords: [28.2372, 47.8733],
     coords: [28.2372, 47.8733],
     description: {
       de: "Mărculești ist eine Stadt im Bezirk Florești im Norden Moldawiens. Sie ist bekannt für ihren internationalen Flughafen, der früher als Militärbasis diente und heute zivil genutzt wird.",
@@ -10546,8 +10452,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Lipcani", hu: "Lipcani", ro: "Lipcani", en: "Lipcani"},
-    image: "/poi-images/moldova-lipcani-cities-v2.webp",
-    coords: [26.8044, 48.2661],
     coords: [26.8044, 48.2661],
     description: {
       de: "Lipcani ist eine Stadt im äußersten Nordwesten Moldawiens am Fluss Pruth. Sie liegt am Dreiländereck mit Rumänien und der Ukraine und ist ein historisches Handelszentrum.",
@@ -10638,8 +10542,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Bucovăț", hu: "Bucovăț", ro: "Bucovăț", en: "Bucovăț"},
-    image: "/poi-images/moldova-bucovat-cities-v2.webp",
-    coords: [28.4611, 47.1883],
     coords: [28.4611, 47.1883],
     description: {
       de: "Bucovăț ist eine Stadt im Bezirk Strășeni in Zentralmoldawien. Sie liegt im Tal des Flusses Bîc und ist von den dichten Codru-Wäldern umgeben.",
@@ -10730,8 +10632,6 @@ export const moldovaCitiesV2: POI[] = [
     parent: "MD",
     type: "city",
     name: { de: "Tvardița", hu: "Tvardița", ro: "Tvardița", en: "Tvardița"},
-    image: "/poi-images/moldova-tvardita-cities-v2.webp",
-    coords: [28.9664, 46.155],
     coords: [28.9664, 46.155],
     description: {
       de: "Tvardița ist eine Stadt im Bezirk Taraclia im Süden Moldawiens. Sie wird überwiegend von ethnischen Bulgaren bewohnt und ist bekannt für ihre erfolgreiche Wein- und Spirituosenproduktion.",
@@ -11004,7 +10904,6 @@ export const moldovaCitiesV2: POI[] = [
     name: { de: "Vadul lui Vodă", hu: "Vadul lui Vodă", ro: "Vadul lui Vodă", en: "Vadul lui Vodă"},
     image: "/poi-images/moldova-vadul-lui-voda-cities-v2.webp",
     coords: [29.0767, 47.0911],
-    coords: [29.0767, 47.0911],
     description: {
       de: "Vadul lui Vodă ist der bekannteste Ferienort Moldawiens am Fluss Dnjestr. Die Stadt gehört zum Munizipium Chișinău und zieht im Sommer Tausende von Touristen an seine Sandstrände.",
       hu: "Vadul lui Vodă Moldova legismertebb üdülőhelye a Dnyeszter folyó partján. A város Chișinău municípium része, és nyáron turisták ezreit vonzza homokos strandjaival.",
@@ -11095,7 +10994,6 @@ export const moldovaCitiesV2: POI[] = [
     type: "city",
     name: { de: "Călărași", hu: "Călărași", ro: "Călărași", en: "Călărași"},
     image: "/poi-images/moldova-calarasi-cities-v2.webp",
-    coords: [28.3111, 47.2544],
     coords: [28.3111, 47.2544],
     description: {
       de: "Călărași liegt in einer malerischen Hügellandschaft im Zentrum Moldawiens. Die Stadt ist von den Codru-Wäldern umgeben und bekannt für Weinbrand und Naturschutzgebiete.",

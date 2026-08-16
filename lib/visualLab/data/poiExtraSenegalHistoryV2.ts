@@ -197,7 +197,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.3983, 14.6669],
     name: { de: "Sklavenhaus (Gorée)", hu: "Rabszolgaház (Gorée)", ro: "Casa Sclavilor (Gorée)", en: "House of Slaves (Gorée)"},
-    image: "/poi-images/sn-dk-house-slaves-history-v2.webp",
     description: { de: "Ein bedeutendes historisches Museum und Gedenkstätte für den atlantischen Sklavenhandel.", hu: "Jelentős történelmi múzeum és emlékhely az atlanti rabszolgakereskedelemről.", ro: "Un important muzeu istoric și memorial al comerțului cu sclavi peste Atlantic.", en: "A significant historical museum and memorial for the Atlantic slave trade." , es: "Un importante museo histórico y memorial del comercio atlántico de esclavos.", pt: "Um importante museu histórico e memorial do comércio atlântico de escravos.", fr: "Un important musée historique et un mémorial de la traite transatlantique des esclaves."},
     facts: {
       de: ["Erbaut um 1776 von den Niederländern.", "Symbol für den afrikanischen Sklavenhandel."],
@@ -386,7 +385,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-SL",
     coords: [-16.5019, 16.0286],
     name: { de: "Historisches Zentrum von Saint-Louis", hu: "Saint-Louis történelmi központja", ro: "Centrul istoric din Saint-Louis", en: "Historic Centre of Saint-Louis"},
-    image: "/poi-images/sn-sl-historic-centre-history-v2.webp",
     description: { de: "Die ehemalige Hauptstadt Französisch-Westafrikas mit prächtiger Kolonialarchitektur auf einer Insel.", hu: "Francia Nyugat-Afrika egykori fővárosa lenyűgöző gyarmati építészettel egy szigeten.", ro: "Fosta capitală a Africii Occidentale Franceze cu arhitectură colonială splendidă pe o insulă.", en: "The former capital of French West Africa with magnificent colonial architecture on an island." , es: "La antigua capital del África Occidental Francesa con una magnífica arquitectura colonial en una isla.", pt: "A antiga capital da África Ocidental Francesa com uma magnífica arquitetura colonial numa ilha.", fr: "L'ancienne capitale de l'Afrique-Occidentale française avec une magnifique architecture coloniale sur une île."},
     facts: {
       de: ["Gegründet im Jahr 1659 von den Franzosen.", "UNESCO-Weltkulturerbe seit dem Jahr 2000."],
@@ -467,7 +465,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-KA",
     coords: [-15.5225, 13.6933],
     name: { de: "Steinkreise von Sine Ngayène", hu: "Sine Ngayène kőkörök", ro: "Cercurile de piatră din Sine Ngayène", en: "Stone Circles of Sine Ngayène"},
-    image: "/poi-images/sn-ka-sine-ngayene-history-v2.webp",
     description: { de: "Eine beeindruckende archäologische Stätte mit hunderten megalithischen Steinkreisen und Grabhügeln.", hu: "Lenyűgöző régészeti lelőhely több száz megalitikus kőkörrel és sírhalommal.", ro: "Un sit arheologic impresionant cu sute de cercuri de piatră megalitice și tumuli.", en: "An impressive archaeological site with hundreds of megalithic stone circles and burial mounds." , es: "Un impresionante sitio arqueológico con cientos de círculos de piedra megalíticos y túmulos.", pt: "Um impressionante sítio arqueológico com centenas de círculos de pedra megalíticos e túmulos.", fr: "Un site archéologique impressionnant avec des centaines de cercles de pierres mégalithiques et des tumulus."},
     facts: {
       de: ["Teil der senegambischen Steinkreise.", "Besteht aus 52 Steinkreisen und 1102 bearbeiteten Steinen."],
@@ -548,7 +545,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-KA",
     coords: [-15.6177, 13.8647],
     name: { de: "Steinkreise von Wanar", hu: "Wanar kőkörök", ro: "Cercurile de piatră din Wanar", en: "Stone Circles of Wanar"},
-    image: "/poi-images/sn-ka-wanar-history-v2.webp",
     description: { de: "Eine weitere bedeutende Gruppe von Laterit-Steinkreisen, die auf alte Beisetzungsrituale hinweisen.", hu: "A laterit kőkörök másik jelentős csoportja, amely ősi temetkezési rituálékra utal.", ro: "Un alt grup semnificativ de cercuri de piatră din laterit indicând ritualuri antice de înmormântare.", en: "Another significant group of laterite stone circles indicating ancient burial rituals." , es: "Otro grupo importante de círculos de piedra de laterita que indican antiguos rituales de enterramiento.", pt: "Outro grupo importante de círculos de pedra de laterita que indicam antigos rituais de enterro.", fr: "Un autre groupe important de cercles de pierres de latérite qui indiquent d'anciens rituels d'inhumation."},
     facts: {
       de: ["UNESCO-Weltkulturerbe.", "Einige Steine haben eine Y- oder V-Form."],
@@ -629,7 +625,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-TC",
     coords: [-12.4616, 14.9011],
     name: { de: "Fort von Bakel", hu: "Bakel erődje", ro: "Fortul Bakel", en: "Fort of Bakel"},
-    image: "/poi-images/sn-tc-fort-bakel-history-v2.webp",
     description: { de: "Eine historische französische Festung am Ufer des Senegal-Flusses, die im 19. Jahrhundert erbaut wurde.", hu: "Történelmi francia erőd a Szenegál folyó partján, amelyet a 19. században építettek.", ro: "O fortăreață franceză istorică pe malurile fluviului Senegal, construită în secolul al XIX-lea.", en: "A historic French fortress on the banks of the Senegal River built in the 19th century." , es: "Una fortaleza francesa histórica a orillas del río Senegal, construida en el siglo XIX.", pt: "Uma fortaleza francesa histórica às margens do rio Senegal, construída no século XIX.", fr: "Une forteresse française historique sur les rives du fleuve Sénégal, construite au XIXe siècle."},
     facts: {
       de: ["Erbaut im Jahr 1820 durch René Caillié.", "Diente der Kontrolle des Flusshandels."],
@@ -746,7 +741,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-SL",
     coords: [-14.9583, 16.6533],
     name: { de: "Fort von Podor", hu: "Podor erődje", ro: "Fortul Podor", en: "Fort of Podor"},
-    image: "/poi-images/sn-sl-fort-podor-history-v2.webp",
     description: { de: "Ein altes koloniales Fort in der nördlichsten Stadt des Senegals, das eine wichtige Rolle im Handel spielte.", hu: "Egy régi gyarmati erőd Szenegál legészakibb városában, amely fontos szerepet játszott a kereskedelemben.", ro: "Un vechi fort colonial din cel mai nordic oraș din Senegal, care a jucat un rol important în comerț.", en: "An old colonial fort in the northernmost town of Senegal that played a major role in trade." , es: "Un antiguo fuerte colonial en la ciudad más septentrional de Senegal, que desempeñó un papel importante en el comercio.", pt: "Um antigo forte colonial na cidade mais setentrional do Senegal, que desempenhou um papel importante no comércio.", fr: "Un ancien fort colonial dans la ville la plus septentrionale du Sénégal, qui a joué un rôle important dans le commerce."},
     facts: {
       de: ["Rekonstruiert im Jahr 1854 von Louis Faidherbe.", "Ursprünglich im 18. Jahrhundert erbaut."],
@@ -827,7 +821,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-ZG",
     coords: [-16.7, 12.5333],
     name: { de: "Historischer Handelsposten Carabane", hu: "Carabane történelmi kereskedőállomás", ro: "Punct comercial istoric Carabane", en: "Historic Trading Post of Carabane"},
-    image: "/poi-images/sn-zg-carabane-history-v2.webp",
     description: { de: "Einst die erste französische Hauptstadt der Casamance-Region und ein florierendes Handelszentrum.", hu: "Egykor a Casamance régió első francia fővárosa és virágzó kereskedelmi központ volt.", ro: "Fostă primă capitală franceză a regiunii Casamance și un centru comercial înfloritor.", en: "Once the first French capital of the Casamance region and a thriving trading center." , es: "Antaño la primera capital francesa de la región de Casamance y un próspero centro comercial.", pt: "Outrora a primeira capital francesa da região de Casamança e um próspero centro comercial.", fr: "Autrefois la première capitale française de la région de Casamance et un centre commercial prospère."},
     facts: {
       de: ["Hat eine historische bretonische Kirche.", "Auf einer Insel an der Mündung des Casamance-Flusses gelegen."],
@@ -980,7 +973,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-DB",
     coords: [-15.8777, 14.8641],
     name: { de: "Große Moschee von Touba", hu: "Touba Nagy Mecsetje", ro: "Marea Moschee din Touba", en: "Great Mosque of Touba"},
-    image: "/poi-images/sn-db-touba-mosque-history-v2.webp",
     description: { de: "Eines der größten islamischen Gebäude in Afrika und das spirituelle Zentrum der Mouriden-Bruderschaft.", hu: "Afrika egyik legnagyobb iszlám épülete és a Muridizmus spirituális központja.", ro: "Una dintre cele mai mari clădiri islamice din Africa și centrul spiritual al frăției Mouride.", en: "One of the largest Islamic buildings in Africa and the spiritual center of the Mouride brotherhood." , es: "Uno de los edificios islámicos más grandes de África y el centro espiritual de la hermandad muridí.", pt: "Um dos maiores edifícios islâmicos em África e o centro espiritual da irmandade muride.", fr: "L'un des plus grands édifices islamiques d'Afrique et le centre spirituel de la confrérie mouride."},
     facts: {
       de: ["Fertiggestellt im Jahr 1963.", "Das Minarett ist 87 Meter hoch."],
@@ -1169,7 +1161,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.4947, 14.7225],
     name: { de: "Monument der Afrikanischen Renaissance", hu: "Az Afrikai Újjászületés Emlékműve", ro: "Monumentul Renașterii Africane", en: "African Renaissance Monument"},
-    image: "/poi-images/sn-dk-african-renaissance-history-v2.webp",
     description: { de: "Eine massive Bronzestatue in Dakar, die an 50 Jahre senegalesische Unabhängigkeit erinnert.", hu: "Egy hatalmas bronzszobor Dakarban, amely Szenegál függetlenségének 50. évfordulójára emlékezik.", ro: "O statuie masivă din bronz în Dakar care comemorează 50 de ani de independență senegaleză.", en: "A massive bronze statue in Dakar commemorating 50 years of Senegalese independence." , es: "Una estatua de bronce masiva en Dakar que conmemora 50 años de independencia senegalesa.", pt: "Uma enorme estátua de bronze em Dakar que comemora 50 anos da independência senegalesa.", fr: "Une statue massive en bronze à Dakar qui commémore 50 ans d'indépendance sénégalaise."},
     facts: {
       de: ["Mit 49 Metern höher als die Freiheitsstatue.", "Eröffnet im Jahr 2010."],
@@ -1250,7 +1241,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.5211, 14.7233],
     name: { de: "Mamelles-Leuchtturm", hu: "Mamelles világítótorony", ro: "Farul Mamelles", en: "Mamelles Lighthouse"},
-    image: "/poi-images/sn-dk-mamelles-lighthouse-history-v2.webp",
     description: { de: "Ein historischer Leuchtturm auf einem der Zwillingshügel am westlichsten Punkt Afrikas.", hu: "Történelmi világítótorony az egyik ikerdombon, Afrika legnyugatibb pontján.", ro: "Un far istoric situat pe una dintre colinele gemene din cel mai vestic punct al Africii.", en: "A historic lighthouse on one of the twin hills at the westernmost point of Africa." , es: "Un faro histórico en una de las colinas gemelas en el punto más occidental de África.", pt: "Um farol histórico numa das colinas gémeas no ponto mais ocidental de África.", fr: "Un phare historique sur l'une des collines jumelles au point le plus à l'ouest de l'Afrique."},
     facts: {
       de: ["Erbaut im Jahr 1864.", "Sein Licht reicht bis zu 53 Kilometer weit auf den Ozean."],
@@ -1367,7 +1357,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.4355, 14.6675],
     name: { de: "IFAN-Museum für afrikanische Kunst", hu: "IFAN Afrikai Művészetek Múzeuma", ro: "Muzeul de Arte Africane IFAN", en: "IFAN Museum of African Arts"},
-    image: "/poi-images/sn-dk-ifan-museum-history-v2.webp",
     description: { de: "Eines der ältesten Kunstmuseen in Westafrika, das die kulturelle und ethnografische Geschichte bewahrt.", hu: "Nyugat-Afrika egyik legrégebbi művészeti múzeuma, amely a kulturális és néprajzi történelmet őrzi.", ro: "Unul dintre cele mai vechi muzee de artă din Africa de Vest, care păstrează istoria culturală și etnografică.", en: "One of the oldest art museums in West Africa, preserving cultural and ethnographic history." , es: "Uno de los museos de arte más antiguos de África Occidental que preserva la historia cultural y etnográfica.", pt: "Um dos museus de arte mais antigos da África Ocidental, que preserva a história cultural e etnográfica.", fr: "L'un des plus anciens musées d'art d'Afrique de l'Ouest, qui préserve l'histoire culturelle et ethnographique."},
     facts: {
       de: ["Gegründet im Jahr 1938.", "Eingeweiht durch Léopold Sédar Senghor."],
@@ -1403,7 +1392,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.43, 14.6738],
     name: { de: "Historischer Bahnhof von Dakar", hu: "Dakar történelmi vasútállomása", ro: "Gara istorică din Dakar", en: "Historic Dakar Railway Station"},
-    image: "/poi-images/sn-dk-dakar-railway-history-v2.webp",
     description: { de: "Ein prächtiges Gebäude im Kolonialstil, das die Endstation der historischen Dakar-Niger-Eisenbahn war.", hu: "Egy pompás gyarmati stílusú épület, amely a történelmi Dakar-Niger vasútvonal végállomása volt.", ro: "O clădire splendidă în stil colonial care a fost punctul terminus al istoricei căi ferate Dakar-Niger.", en: "A magnificent colonial-style building that was the terminus of the historic Dakar-Niger Railway." , es: "Un magnífico edificio de estilo colonial que fue la estación final del histórico ferrocarril Dakar-Níger.", pt: "Um magnífico edifício de estilo colonial que foi a estação final da histórica linha ferroviária Dakar-Níger.", fr: "Un magnifique bâtiment de style colonial qui était la gare terminus de l'historique chemin de fer Dakar-Niger."},
     facts: {
       de: ["Eröffnet im Jahr 1914.", "Ein Symbol der französischen Kolonialisierung Westafrikas."],
@@ -1475,7 +1463,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.2725, 14.7175],
     name: { de: "Altstadt von Rufisque", hu: "Rufisque óvárosa", ro: "Orașul vechi Rufisque", en: "Old Town of Rufisque"},
-    image: "/poi-images/sn-dk-vieux-rufisque-history-v2.webp",
     description: { de: "Eine Hafenstadt, die einst ein wichtiges Zentrum für den Erdnusshandel war und alte Lagerhäuser besitzt.", hu: "Egy kikötőváros, amely egykor a földimogyoró-kereskedelem fontos központja volt, és régi raktárakkal rendelkezik.", ro: "Un oraș portuar care a fost odată un centru important pentru comerțul cu arahide și posedă depozite vechi.", en: "A port town that was once a major center for the peanut trade and has old warehouses." , es: "Una ciudad portuaria que fue un centro importante para el comercio del maní y que conserva antiguos almacenes.", pt: "Uma cidade portuária que já foi um centro importante para o comércio de amendoim e possui antigos armazéns.", fr: "Une ville portuaire qui fut un centre important pour le commerce de l'arachide et qui possède d'anciens entrepôts."},
     facts: {
       de: ["Gegründet im 16. Jahrhundert von Portugiesen.", "Wurde 1880 zur französischen Kommune."],
@@ -1556,7 +1543,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-TH",
     coords: [-16.84, 14.1627],
     name: { de: "Geburtshaus von Léopold Sédar Senghor", hu: "Léopold Sédar Senghor szülőháza", ro: "Casa natală a lui Léopold Sédar Senghor", en: "Birthplace of Léopold Sédar Senghor"},
-    image: "/poi-images/sn-th-joal-fadiouth-history-v2.webp",
     description: { de: "Das historische Elternhaus des ersten Präsidenten von Senegal, einem berühmten Dichter und Staatsmann.", hu: "Szenegál első elnökének, egy híres költőnek és államférfinak a történelmi szülőháza.", ro: "Casa istorică din copilărie a primului președinte al Senegalului, un renumit poet și om de stat.", en: "The historic childhood home of the first president of Senegal, a renowned poet and statesman." , es: "La casa natal histórica del primer presidente de Senegal, un famoso poeta y estadista.", pt: "A casa natal histórica do primeiro presidente do Senegal, um famoso poeta e estadista.", fr: "La maison natale historique du premier président du Sénégal, un célèbre poète et homme d'État."},
     facts: {
       de: ["Léopold Sédar Senghor wurde hier 1906 geboren.", "Heute ein Museum, das seinem Leben gewidmet ist."],
@@ -1637,7 +1623,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-SL",
     coords: [-16.5027, 16.0272],
     name: { de: "Gouverneurspalast von Saint-Louis", hu: "Saint-Louis kormányzói palotája", ro: "Palatul Guvernatorului din Saint-Louis", en: "Governor's Palace of Saint-Louis"},
-    image: "/poi-images/sn-sl-governor-palace-history-v2.webp",
     description: { de: "Das repräsentative Gebäude, das als Residenz des französischen Kolonialgouverneurs diente.", hu: "A tekintélyes épület, amely a francia gyarmati kormányzó rezidenciájaként szolgált.", ro: "Clădirea prestigioasă care a servit ca reședință a guvernatorului colonial francez.", en: "The prestigious building that served as the residence of the French colonial governor." , es: "El edificio representativo que sirvió como residencia del gobernador colonial francés.", pt: "O edifício representativo que serviu de residência ao governador colonial francês.", fr: "Le bâtiment représentatif qui servait de résidence au gouverneur colonial français."},
     facts: {
       de: ["Erbaut im 18. Jahrhundert auf den Ruinen eines alten Forts.", "Symbol der Kolonialmacht in Westafrika."],
@@ -1718,7 +1703,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.3972, 14.6719],
     name: { de: "Fort d'Estrées", hu: "d'Estrées erőd", ro: "Fort d'Estrées", en: "Fort d'Estrées"},
-    image: "/poi-images/sn-dk-fort-destrees-history-v2.webp",
     description: { de: "Ein altes kreisförmiges Fort auf der Insel Gorée, das heute das Historische Museum Senegals beherbergt.", hu: "Egy régi kör alakú erőd a Gorée-szigeten, amely ma Szenegál Történelmi Múzeumának ad otthont.", ro: "Un vechi fort circular pe Insula Gorée, care adăpostește astăzi Muzeul Istoric al Senegalului.", en: "An old circular fort on Gorée Island that today houses the Historical Museum of Senegal." , es: "Un antiguo fuerte circular en la isla de Gorée que alberga el Museo Histórico de Senegal.", pt: "Um antigo forte circular na ilha de Gorée que alberga o Museu Histórico do Senegal.", fr: "Un ancien fort circulaire sur l'île de Gorée qui abrite le Musée Historique du Sénégal."},
     facts: {
       de: ["Erbaut in den 1850er Jahren zum Schutz der Bucht von Dakar.", "Wurde später als Zivilgefängnis genutzt."],
@@ -1943,7 +1927,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-ZG",
     coords: [-16.2736, 12.5855],
     name: { de: "Koloniales Zentrum von Ziguinchor", hu: "Ziguinchor gyarmati központja", ro: "Centrul colonial din Ziguinchor", en: "Colonial Center of Ziguinchor"},
-    image: "/poi-images/sn-zg-ziguinchor-history-v2.webp",
     description: { de: "Die historischen Viertel der Stadt mit Überresten der portugiesischen und französischen Kolonialarchitektur.", hu: "A város történelmi negyedei a portugál és francia gyarmati építészet maradványaival.", ro: "Cartierele istorice ale orașului cu vestigii ale arhitecturii coloniale portugheze și franceze.", en: "The historic quarters of the city with remnants of Portuguese and French colonial architecture." , es: "Los barrios históricos de la ciudad con restos de arquitectura colonial portuguesa y francesa.", pt: "Os bairros históricos da cidade com restos de arquitetura colonial portuguesa e francesa.", fr: "Les quartiers historiques de la ville avec des vestiges d'architecture coloniale portugaise et française."},
     facts: {
       de: ["Gegründet im Jahr 1645 von den Portugiesen.", "Wurde 1888 an die Franzosen abgetreten."],
@@ -2096,7 +2079,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-ZG",
     coords: [-16.5458, 12.4844],
     name: { de: "Historisches Königtum von Oussouye", hu: "Oussouye történelmi királysága", ro: "Regatul istoric Oussouye", en: "Historic Kingdom of Oussouye"},
-    image: "/poi-images/sn-zg-oussouye-history-v2.webp",
     description: { de: "Das Zentrum der traditionellen Kultur der Diola, wo bis heute ein lokaler König regiert und animistische Traditionen pflegt.", hu: "A Diola hagyományos kultúra központja, ahol a mai napig egy helyi király uralkodik és ápolja az animista hagyományokat.", ro: "Centrul culturii tradiționale Diola, unde și astăzi domnește un rege local și păstrează tradițiile animiste.", en: "The center of traditional Diola culture, where a local king still rules and maintains animist traditions to this day." , es: "El centro de la cultura tradicional Diola, donde un rey local gobierna hasta hoy y cultiva tradiciones animistas.", pt: "O centro da cultura tradicional Diola, onde um rei local governa até hoje e cultiva tradições animistas.", fr: "Le centre de la culture traditionnelle Diola, où un roi local règne encore aujourd'hui et cultive des traditions animistes."},
     facts: {
       de: ["Bewahrt alte animistische Rituale.", "Der König von Oussouye vermittelt bei Konflikten."],
@@ -2132,7 +2114,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-SE",
     coords: [-15.5566, 12.708],
     name: { de: "Historische Festung von Sédhiou", hu: "Sédhiou történelmi erődje", ro: "Fortăreața istorică Sédhiou", en: "Historic Fortress of Sédhiou"},
-    image: "/poi-images/sn-se-sedhiou-history-v2.webp",
     description: { de: "Die Überreste eines alten französischen Forts, das eine Schlüsselrolle in der Kontrolle der Casamance spielte.", hu: "Egy régi francia erőd maradványai, amely kulcsszerepet játszott Casamance ellenőrzésében.", ro: "Rămășițele unui vechi fort francez care a jucat un rol cheie în controlul regiunii Casamance.", en: "The remains of an old French fort that played a key role in the control of the Casamance." , es: "Los restos de un antiguo fuerte francés que desempeñó un papel clave en el control de Casamance.", pt: "Os restos de um antigo forte francês que desempenhou um papel fundamental no controlo de Casamance.", fr: "Les vestiges d'un ancien fort français qui a joué un rôle clé dans le contrôle de la Casamance."},
     facts: {
       de: ["Sédhiou war einst die Hauptstadt der Casamance.", "Ein Zentrum der Mandinka-Kultur."],
@@ -2213,7 +2194,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.443, 14.6811],
     name: { de: "Große Moschee von Dakar", hu: "Dakar Nagy Mecsetje", ro: "Marea Moschee din Dakar", en: "Great Mosque of Dakar"},
-    image: "/poi-images/sn-dk-great-mosque-dakar-history-v2.webp",
     description: { de: "Eines der wichtigsten islamischen Heiligtümer Senegals mit beeindruckender marokkanischer Architektur.", hu: "Szenegál egyik legfontosabb iszlám szentélye lenyűgöző marokkói építészettel.", ro: "Unul dintre cele mai importante sanctuare islamice din Senegal, cu o arhitectură marocană impresionantă.", en: "One of the most important Islamic sanctuaries in Senegal with impressive Moroccan architecture." , es: "Uno de los santuarios islámicos más importantes de Senegal con una impresionante arquitectura marroquí.", pt: "Um dos santuários islâmicos mais importantes do Senegal, com uma impressionante arquitetura marroquina.", fr: "L'un des sanctuaires islamiques les plus importants du Sénégal avec une impressionnante architecture marocaine."},
     facts: {
       de: ["Eröffnet im Jahr 1964 von König Hassan II.", "Das Minarett ist 67 Meter hoch."],
@@ -2249,7 +2229,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-SL",
     coords: [-15.8833, 16.25],
     name: { de: "Historischer Ort von Nder", hu: "Nder történelmi helyszíne", ro: "Situl istoric de la Nder", en: "Historic Site of Nder"},
-    image: "/poi-images/sn-sl-nder-history-v2.webp",
     description: { de: "Ein Ort von großer historischer Bedeutung, bekannt für den heldenhaften Widerstand der Frauen von Nder.", hu: "Nagy történelmi jelentőségű hely, amely a nderi nők hősies ellenállásáról ismert.", ro: "Un loc de o mare importanță istorică, cunoscut pentru rezistența eroică a femeilor din Nder.", en: "A place of great historical importance, known for the heroic resistance of the women of Nder." , es: "Un lugar de gran importancia histórica, conocido por la heroica resistencia de las mujeres de Nder.", pt: "Um local de grande importância histórica, conhecido pela heroica resistência das mulheres de Nder.", fr: "Un lieu de grande importance historique, connu pour la résistance héroïque des femmes de Nder."},
     facts: {
       de: ["Im Jahr 1819 opferten sich die Frauen von Nder, um der Versklavung zu entgehen.", "Ein Symbol des senegalesischen Widerstands."],
@@ -2285,7 +2264,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-DB",
     coords: [-16.0166, 14.65],
     name: { de: "Historisches Zentrum von Kael", hu: "Kael történelmi központja", ro: "Centrul istoric Kael", en: "Historic Center of Kael"},
-    image: "/poi-images/sn-db-kael-history-v2.webp",
     description: { de: "Ein wichtiges spirituelles und historisches Zentrum im ehemaligen Baol-Königreich.", hu: "Fontos spirituális és történelmi központ az egykori Baol Királyságban.", ro: "Un important centru spiritual și istoric din fostul regat Baol.", en: "An important spiritual and historical center in the former Baol Kingdom." , es: "Un importante centro espiritual e histórico en el antiguo reino de Baol.", pt: "Um importante centro espiritual e histórico no antigo reino de Baol.", fr: "Un centre spirituel et historique important dans l'ancien royaume du Baol."},
     facts: {
       de: ["Ein historischer Knotenpunkt für islamische Gelehrte.", "Teil der religiösen Geografie der Mouriden."],
@@ -2321,7 +2299,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-DB",
     coords: [-16.2305, 14.6563],
     name: { de: "Residenz von Cheikh Ahmadou Bamba", hu: "Cheikh Ahmadou Bamba rezidenciája", ro: "Reședința lui Cheikh Ahmadou Bamba", en: "Residence of Cheikh Ahmadou Bamba"},
-    image: "/poi-images/sn-db-diourbel-residence-history-v2.webp",
     description: { de: "Das Haus, in dem der Gründer der Mouriden-Bruderschaft während seines Hausarrests lebte.", hu: "A ház, ahol a murid testvériség alapítója élt házi őrizete alatt.", ro: "Casa în care a trăit fondatorul frăției Mouride în timpul arestului la domiciliu.", en: "The house where the founder of the Mouride brotherhood lived during his house arrest." , es: "La casa donde vivió el fundador de la hermandad muridí durante su arresto domiciliario.", pt: "A casa onde viveu o fundador da irmandade muride durante o seu período de prisão domiciliária.", fr: "La demeure où vécut le fondateur de la confrérie mouride pendant son assignation à résidence."},
     facts: {
       de: ["Cheikh Ahmadou Bamba verbrachte hier seine letzten Jahre.", "Ein wichtiger Pilgerort für seine Anhänger."],
@@ -2438,7 +2415,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-SL",
     coords: [-16.495, 16.0278],
     name: { de: "Faidherbe-Brücke", hu: "Faidherbe-híd", ro: "Podul Faidherbe", en: "Faidherbe Bridge"},
-    image: "/poi-images/sn-sl-faidherbe-bridge-history-v2.webp",
     description: { de: "Eine ikonische Metallbrücke, die die Insel Saint-Louis mit dem Festland verbindet, entworfen von Gustave Eiffel.", hu: "Egy ikonikus fémhíd, amely a Saint-Louis-szigetet a szárazfölddel köti össze, Gustave Eiffel tervezte.", ro: "Un pod metalic iconic care leagă insula Saint-Louis de continent, proiectat de Gustave Eiffel.", en: "An iconic metal bridge connecting the island of Saint-Louis to the mainland, designed by Gustave Eiffel." , es: "Un icónico puente metálico que conecta la isla de Saint-Louis con el continente, diseñado por Gustave Eiffel.", pt: "Uma icónica ponte metálica que liga a ilha de Saint-Louis ao continente, projetada por Gustave Eiffel.", fr: "Un pont métallique emblématique reliant l'île de Saint-Louis au continent, conçu par Gustave Eiffel."},
     facts: {
       de: ["Erbaut im Jahr 1897.", "Überquert den Senegal-Fluss auf einer Länge von 507 Metern."],
@@ -2474,7 +2450,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-SL",
     coords: [-16.28, 15.895],
     name: { de: "Historisches islamisches Zentrum von Mpal", hu: "Mpal történelmi iszlám központja", ro: "Centrul islamic istoric Mpal", en: "Historic Islamic Center of Mpal"},
-    image: "/poi-images/sn-sl-mpal-history-v2.webp",
     description: { de: "Ein wichtiges religiöses Zentrum der Tidjaniyya-Sufi-Bruderschaft mit historischen Moscheen.", hu: "A Tidjaníja szúfi testvériség fontos vallási központja történelmi mecsetekkel.", ro: "Un important centru religios al frăției sufiste Tidjaniyya cu moschei istorice.", en: "An important religious center of the Tidjaniyya Sufi brotherhood with historic mosques." , es: "Un importante centro religioso de la hermandad sufí Tidjaniyya con mezquitas históricas.", pt: "Um centro religioso importante da irmandade sufi Tidjaniyya com mesquitas históricas.", fr: "Un centre religieux important de la confrérie soufie Tidjaniyya avec des mosquées historiques."},
     facts: {
       de: ["Gegründet im 19. Jahrhundert.", "Ein bedeutender Ort islamischer Bildung."],
@@ -2591,7 +2566,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-TH",
     coords: [-16.825, 14.1533],
     name: { de: "Gemischter Friedhof von Fadiouth", hu: "Fadiouth vegyes temetője", ro: "Cimitirul mixt din Fadiouth", en: "Mixed Cemetery of Fadiouth"},
-    image: "/poi-images/sn-th-fadiouth-cemetery-history-v2.webp",
     description: { de: "Ein einzigartiger Friedhof auf einem Hügel aus Muscheln, in dem Christen und Muslime Seite an Seite ruhen.", hu: "Egyedülálló temető egy kagylókból álló dombon, ahol keresztények és muszlimok egymás mellett nyugszanak.", ro: "Un cimitir unic pe un deal de scoici, unde creștini și musulmani se odihnesc unii lângă alții.", en: "A unique cemetery on a hill made of shells, where Christians and Muslims rest side by side." , es: "Un cementerio único sobre una colina de conchas, donde cristianos y musulmanes descansan lado a lado.", pt: "Um cemitério único sobre uma colina de conchas, onde cristãos e muçulmanos descansam lado a lado.", fr: "Un cimetière unique sur une colline de coquillages, où chrétiens et musulmans reposent côte à côte."},
     facts: {
       de: ["Zeugt von religiöser Toleranz im Senegal.", "Die Gräber sind oft mit Muscheln verziert."],
@@ -2627,7 +2601,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     parent: "SN-TC",
     coords: [-14.6166, 13.9166],
     name: { de: "Tata von Madièna", hu: "Madièna Tata (erőd)", ro: "Tata din Madièna", en: "Tata of Madièna"},
-    image: "/poi-images/sn-tc-tata-madiena-history-v2.webp",
     description: { de: "Eine historische, befestigte Umfassungsmauer, die spirituelle Führer der Region im 19. Jahrhundert schützte.", hu: "Egy történelmi erődített védőfal, amely a régió spirituális vezetőit védte a 19. században.", ro: "Un zid fortificat istoric care i-a protejat pe liderii spirituali ai regiunii în secolul al XIX-lea.", en: "A historic fortified wall that protected the spiritual leaders of the region in the 19th century." , es: "Un muro perimetral fortificado histórico que protegía a los líderes espirituales de la región en el siglo XIX.", pt: "Um muro perimetral fortificado histórico que protegia os líderes espirituais da região no século XIX.", fr: "Un mur d'enceinte fortifié historique qui protégeait les chefs spirituels de la région au XIXe siècle."},
     facts: {
       de: ["Erbaut aus Erde und Holz.", "Ein seltenes Beispiel lokaler Festungsarchitektur."],

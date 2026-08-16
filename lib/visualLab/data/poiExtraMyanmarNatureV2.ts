@@ -125,7 +125,6 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     parent: "MM-17",
     coords: [96.9333, 20.5500],
     name: { de: "Inle-See", hu: "Inle-tó", ro: "Lacul Inle", en: "Inle Lake"},
-    image: "/poi-images/inle-lake-nature-v2.webp",
     description: {
       de: "Ein berühmter Süßwassersee im Shan-Staat, bekannt für seine schwimmenden Dörfer und Einbeinruderer.",
       hu: "Híres édesvizű tó a Shan államban, amely úszó falvairól és az egy lábbal evező halászairól ismert.",
@@ -214,7 +213,6 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     parent: "MM-04",
     coords: [95.9500, 21.0000],
     name: { de: "Irrawaddy-Fluss", hu: "Iravádi-folyó", ro: "Râul Irrawaddy", en: "Irrawaddy River"},
-    image: "/poi-images/irrawaddy-river-nature-v2.webp",
     description: {
       de: "Der wichtigste und längste Fluss Myanmars, der als kommerzielle Wasserstraße und Lebensader des Landes dient.",
       hu: "Mianmar legfontosabb és leghosszabb folyója, amely kereskedelmi vízi útként és az ország ütőereként szolgál.",
@@ -258,7 +256,6 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     parent: "MM-01",
     coords: [94.6600, 23.0000],
     name: { de: "Chindwin-Fluss", hu: "Chindwin-folyó", ro: "Râul Chindwin", en: "Chindwin River"},
-    image: "/poi-images/chindwin-river-nature-v2.webp",
     description: {
       de: "Der größte Nebenfluss des Irrawaddy, der durch malerische Täler und dichte Dschungel im Westen fließt.",
       hu: "Az Iravádi legnagyobb mellékfolyója, amely festői völgyeken és sűrű dzsungeleken folyik keresztül nyugaton.",
@@ -302,7 +299,6 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     parent: "MM-11",
     coords: [97.7000, 28.3000],
     name: { de: "Hkakabo Razi", hu: "Hkakabo Razi", ro: "Hkakabo Razi", en: "Hkakabo Razi"},
-    image: "/poi-images/hkakabo-razi-nature-v2.webp",
     description: {
       de: "Höchster Berg in Myanmar und ganz Südostasien, gelegen im nördlichen Kachin-Staat an der Grenze zu China.",
       hu: "Mianmar és egész Délkelet-Ázsia legmagasabb hegye, az északi Kachin államban, a kínai határon.",
@@ -346,7 +342,6 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     parent: "MM-17",
     coords: [97.6000, 20.0000],
     name: { de: "Saluen-Fluss", hu: "Szalven-folyó", ro: "Râul Salween", en: "Salween River"},
-    image: "/poi-images/salween-river-nature-v2.webp",
     description: {
       de: "Einer der längsten unregulierten Flüsse Asiens, der durch tiefe Schluchten im Osten Myanmars fließt.",
       hu: "Ázsia egyik leghosszabb szabályozatlan folyója, amely mély szurdokokon folyik keresztül Kelet-Mianmarban.",
@@ -1083,7 +1078,6 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     parent: "MM-04",
     coords: [95.2700, 20.9200],
     name: { de: "Mount Popa", hu: "Popa-hegy", ro: "Muntele Popa", en: "Mount Popa"},
-    image: "/poi-images/mount-popa-nature-v2.webp",
     description: {
       de: "Ein erloschener Vulkan in Zentral-Myanmar, bekannt als heiliger Ort für die Verehrung der Nat-Geister.",
       hu: "Kialudt vulkán Közép-Mianmarban, amely a Nat-szellemek tiszteletének szent helyeként ismert.",
@@ -1208,7 +1202,6 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     parent: "MM-14",
     coords: [93.9000, 21.2300],
     name: { de: "Nat Ma Taung", hu: "Nat Ma Taung", ro: "Nat Ma Taung", en: "Nat Ma Taung"},
-    image: "/poi-images/nat-ma-taung-nature-v2.webp",
     description: {
       de: "Auch als Mount Victoria bekannt, ist er der höchste Berg im Chin-Staat und berühmt für seine endemische Flora.",
       hu: "A Victoria-hegyként is ismert csúcs a Chin állam legmagasabb hegye, híres endemikus növényvilágáról.",
@@ -1333,7 +1326,6 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     parent: "MM-01",
     coords: [94.4600, 22.3100],
     name: { de: "Alaungdaw-Kathapa-Nationalpark", hu: "Alaungdaw Kathapa Nemzeti Park", ro: "Parcul Național Alaungdaw Kathapa", en: "Alaungdaw Kathapa National Park"},
-    image: "/poi-images/alaungdaw-kathapa-national-park-nature-v2.webp",
     description: {
       de: "Der größte und älteste Nationalpark Myanmars, der für seine dichten Wälder und Wildtiere bekannt ist.",
       hu: "Mianmar legnagyobb és legrégebbi nemzeti parkja, amely sűrű erdeiről és vadvilágáról ismert.",
@@ -1377,7 +1369,6 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     parent: "MM-05",
     coords: [98.2300, 10.8300],
     name: { de: "Lampi-Marine-Nationalpark", hu: "Lampi-sziget Tengeri Nemzeti Park", ro: "Parcul Național Marin Lampi", en: "Lampi Island Marine National Park"},
-    image: "/poi-images/lampi-island-marine-national-park-nature-v2.webp",
     description: {
       de: "Myanmars erster mariner Nationalpark, gelegen im Mergui-Archipel, schützt reiche Korallenriffe und Mangroven.",
       hu: "Mianmar első tengeri nemzeti parkja, amely a Mergui-szigetvilágban található, gazdag korallzátonyokat és mangroveerdőket véd.",
@@ -2078,7 +2069,6 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     parent: "MM-06",
     coords: [96.1100, 17.0400],
     name: { de: "Hlawga-Nationalpark", hu: "Hlawga Nemzeti Park", ro: "Parcul Național Hlawga", en: "Hlawga National Park"},
-    image: "/poi-images/hlawga-national-park-nature-v2.webp",
     description: {
       de: "Ein Naturschutzgebiet in der Nähe von Yangon, das als Erholungszentrum und Wildpark dient.",
       hu: "Jangon közelében fekvő természetvédelmi terület, amely rekreációs központként és vadasparkként szolgál.",
@@ -2122,7 +2112,6 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     parent: "MM-04",
     coords: [95.2900, 20.9300],
     name: { de: "Popa-Mountain-Nationalpark", hu: "Popa-hegy Nemzeti Park", ro: "Parcul Național Muntele Popa", en: "Popa Mountain National Park"},
-    image: "/poi-images/popa-mountain-national-park-nature-v2.webp",
     description: {
       de: "Ein geschütztes Gebiet rund um den Mount Popa, das seltene Pflanzen und Tiere der Trockenzone bewahrt.",
       hu: "A Popa-hegy körüli védett terület, amely a száraz zóna ritka növényeit és állatait őrzi.",
@@ -2166,7 +2155,6 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     parent: "MM-11",
     coords: [97.6000, 27.9000],
     name: { de: "Khakaborazi-Nationalpark", hu: "Khakaborazi Nemzeti Park", ro: "Parcul Național Khakaborazi", en: "Khakaborazi National Park"},
-    image: "/poi-images/khakaborazi-national-park-nature-v2.webp",
     description: {
       de: "Ein Nationalpark in den Bergen von Kachin, der die unberührte alpine Flora und Fauna schützt.",
       hu: "Nemzeti park a Kachin hegyekben, amely az érintetlen alpesi növény- és állatvilágot védi.",
@@ -2615,7 +2603,6 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     parent: "MM-11",
     coords: [96.3400, 25.1200],
     name: { de: "Indawgyi-See", hu: "Indawgyi-tó", ro: "Lacul Indawgyi", en: "Indawgyi Lake"},
-    image: "/poi-images/indawgyi-lake-nature-v2.webp",
     description: {
       de: "Der größte Binnensee Myanmars und ein wichtiges Biosphärenreservat für Wasservögel.",
       hu: "Mianmar legnagyobb belvízi tava és fontos bioszféra-rezervátum vízimadarak számára.",
@@ -2659,7 +2646,6 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     parent: "MM-02",
     coords: [96.7000, 17.5000],
     name: { de: "Sittaung-Fluss", hu: "Sittaung-folyó", ro: "Râul Sittaung", en: "Sittaung River"},
-    image: "/poi-images/sittaung-river-nature-v2.webp",
     description: {
       de: "Ein wichtiger Fluss in Zentral-Myanmar, bekannt für seine starke Gezeitenwelle nahe der Mündung.",
       hu: "Fontos folyó Közép-Mianmarban, amely a torkolatánál lévő erős árapály-hullámáról ismert.",
@@ -2820,7 +2806,6 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     parent: "MM-02",
     coords: [96.5300, 17.5500],
     name: { de: "Moeyungyi-Feuchtgebiet", hu: "Moeyungyi Vizesélőhely Menedék", ro: "Sanctuarul Moeyungyi", en: "Moeyungyi Wetland Wildlife Sanctuary"},
-    image: "/poi-images/moeyungyi-wetland-nature-v2.webp",
     description: {
       de: "Ein künstlich angelegtes Feuchtgebiet in der Bago-Region, das zu einem wichtigen Rastplatz für Zugvögel wurde.",
       hu: "Mesterségesen létrehozott vizesélőhely a Bago régióban, amely a költöző madarak fontos pihenőhelyévé vált.",
@@ -2864,7 +2849,6 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     parent: "MM-05",
     coords: [99.1000, 11.1000],
     name: { de: "Lenya-Nationalpark", hu: "Lenya Nemzeti Park", ro: "Parcul Național Lenya", en: "Lenya National Park"},
-    image: "/poi-images/lenya-national-park-nature-v2.webp",
     description: {
       de: "Ein geplanter Nationalpark im Süden Myanmars, der die tieflandigen tropischen Regenwälder der Tanintharyi-Region bewahrt.",
       hu: "Tervezett nemzeti park Dél-Mianmarban, amely a Tanintharyi régió alföldi trópusi esőerdeit őrzi.",
@@ -3025,7 +3009,6 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     parent: "MM-05",
     coords: [98.0000, 14.1000],
     name: { de: "Tanintharyi-Naturreservat", hu: "Tanintharyi Természetvédelmi Terület", ro: "Rezervația Naturală Tanintharyi", en: "Tanintharyi Nature Reserve"},
-    image: "/poi-images/tanintharyi-nature-reserve-nature-v2.webp",
     description: {
       de: "Ein großes Schutzgebiet, das wichtige Biodiversitätskorridore zwischen Myanmar und Thailand schützt.",
       hu: "Nagy védett terület, amely fontos biodiverzitási folyosókat véd Mianmar és Thaiföld között.",
@@ -3069,7 +3052,6 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     parent: "MM-02",
     coords: [96.2000, 18.5000],
     name: { de: "Bago-Joma", hu: "Bago Yoma", ro: "Bago Yoma", en: "Bago Yoma"},
-    image: "/poi-images/bago-yoma-nature-v2.webp",
     description: {
       de: "Eine Bergkette, die die Becken der Flüsse Irrawaddy und Sittaung trennt, bekannt für ihre Teakholz-Wälder.",
       hu: "Hegylánc, amely elválasztja az Iravádi és a Sittaung folyók medencéit, teakfa-erdeiről ismert.",
@@ -3113,7 +3095,6 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     parent: "MM-11",
     coords: [96.5000, 26.5000],
     name: { de: "Hukaung-Tal-Wildreservat", hu: "Hukaung-völgy Vadvédelmi Terület", ro: "Sanctuarul Văii Hukaung", en: "Hukaung Valley Wildlife Sanctuary"},
-    image: "/poi-images/hukaung-valley-nature-v2.webp",
     description: {
       de: "Das größte Tigerreservat der Welt im abgelegenen Norden Myanmars, geprägt von dichten Dschungeln.",
       hu: "A világ legnagyobb tigrisrezervátuma Mianmar elszigetelt északi részén, amelyet sűrű dzsungelek jellemeznek.",

@@ -53,7 +53,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-AA",
     coords: [-0.0039, 5.6264],
     name: { de: "Hafen von Tema", hu: "Tema Kikötő", ro: "Portul Tema", en: "Tema Port"},
-    image: "/poi-images/ghana-tema-port.webp",
     description: { de: "Der größte Seehafen Ghanas liegt in Tema und ist ein wichtiges Logistikzentrum für Westafrika.", hu: "Ghána legnagyobb tengeri kikötője, amely a nemzeti export és import nagy részét kezeli.", ro: "Cel mai mare port maritim din Ghana, care gestionează cea mai mare parte a exporturilor și importurilor naționale.", en: "The largest seaport in Ghana, handling the majority of the national exports and imports." , es: "El puerto marítimo más grande de Ghana se encuentra en Tema y es un importante centro logístico para África Occidental.", pt: "O maior porto marítimo do Gana situa-se em Tema e é um importante centro logístico para a África Ocidental.", fr: "Le plus grand port maritime du Ghana est situé à Tema et constitue un centre logistique majeur pour l'Afrique de l'Ouest."},
     facts: {
       de: ["Eröffnet im Jahr 1962.", "Verfügt über moderne Containerterminals.", "Tor für den internationalen Handel Ghanas."],
@@ -134,7 +133,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-AH",
     coords: [-1.6705, 6.2081],
     name: { de: "AngloGold Ashanti Mine", hu: "AngloGold Ashanti Bánya", ro: "Mina AngloGold Ashanti", en: "AngloGold Ashanti Mine"},
-    image: "/poi-images/ghana-anglogold-ashanti.webp",
     description: { de: "AngloGold Ashanti betreibt in Obuasi eine der bedeutendsten Goldminen der Welt.", hu: "Egy hatalmas aranybánya Obuasiban, a világ egyik legnagyobb és legmélyebb bányája.", ro: "O mină masivă de aur în Obuasi, una dintre cele mai mari și mai adânci mine din lume.", en: "A massive gold mine in Obuasi, one of the largest and deepest mines in the world." , es: "AngloGold Ashanti opera en Obuasi una de las minas de oro más importantes del mundo.", pt: "A AngloGold Ashanti opera em Obuasi uma das minas de ouro mais importantes do mundo.", fr: "AngloGold Ashanti exploite à Obuasi l'une des mines d'or les plus importantes au monde."},
     facts: {
       de: ["Großes Goldbergwerk in Obuasi.", "Seit über 100 Jahren in Betrieb.", "Wichtiger Arbeitgeber in der Region."],
@@ -255,7 +253,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-WN",
     coords: [-2.2619, 6.223],
     name: { de: "Bauxitbergwerk Awaso", hu: "Awaso Bauxitbánya", ro: "Mina de Bauxită Awaso", en: "Awaso Bauxite Mine"},
-    image: "/poi-images/ghana-awaso-bauxite.webp",
     description: { de: "Die einzige in Betrieb befindliche Bauxitmine in Ghana, die den Rohstoff für die Aluminiumproduktion liefert.", hu: "Az egyetlen működő bauxitbánya Ghánában, amely nyersanyagot biztosít az alumíniumgyártáshoz.", ro: "Singura mină de bauxită operațională din Ghana, furnizând materia primă pentru producția de aluminiu.", en: "The only operating bauxite mine in Ghana, supplying the raw material for aluminum production." , es: "La única mina de bauxita en funcionamiento en Ghana, que suministra la materia prima para la producción de aluminio.", pt: "A única mina de bauxite em operação no Gana, que fornece a matéria-prima para a produção de alumínio.", fr: "La seule mine de bauxite en exploitation au Ghana, fournissant la matière première pour la production d'aluminium."},
     facts: {
       de: ["Seit den 1940er Jahren in Betrieb.", "Produziert Aluminiumerz.", "Wichtig für Ghanas Industrie."],
@@ -372,7 +369,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-WP",
     coords: [-1.9877, 5.2934],
     name: { de: "Manganbergwerk Nsuta", hu: "Nsuta Mangánbánya", ro: "Mina de Mangan Nsuta", en: "Nsuta Manganese Mine"},
-    image: "/poi-images/ghana-nsuta-manganese.webp",
     description: { de: "Eine bedeutende Manganmine nahe Tarkwa, die hochwertiges Manganerz für den Export abbaut.", hu: "Jelentős mangánbánya Tarkwa közelében, amely kiváló minőségű mangánércet bányász exportra.", ro: "O mină importantă de mangan lângă Tarkwa, care extrage minereu de mangan de înaltă calitate pentru export.", en: "A major manganese mine near Tarkwa, extracting high-quality manganese ore for export." , es: "Una importante mina de manganeso cerca de Tarkwa que extrae mineral de manganeso de alta calidad para la exportación.", pt: "Uma importante mina de manganês perto de Tarkwa, que extrai minério de manganês de alta qualidade para exportação.", fr: "Une importante mine de manganèse près de Tarkwa, extrayant du minerai de haute qualité pour l'exportation."},
     facts: {
       de: ["Über 100 Jahre in Betrieb.", "Einer der weltweit führenden Mangan-Exporteure.", "Nahe der Hafenstadt Takoradi gelegen."],
@@ -408,7 +404,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-EP",
     coords: [-0.8066, 6.0469],
     name: { de: "Diamantenfeld Akwatia", hu: "Akwatia Gyémántmező", ro: "Câmpul de Diamante Akwatia", en: "Akwatia Diamond Field"},
-    image: "/poi-images/ghana-akwatia-diamonds.webp",
     description: { de: "Das historische Zentrum des Diamantenabbaus in Ghana, bekannt für die Produktion von Industriediamanten.", hu: "A gyémántbányászat történelmi központja Ghánában, amely ipari gyémántok termeléséről ismert.", ro: "Centrul istoric al mineritului de diamante din Ghana, cunoscut pentru producția de diamante industriale.", en: "The historic center of diamond mining in Ghana, known for the production of industrial diamonds." , es: "El centro histórico de la minería de diamantes en Ghana, conocido por la producción de diamantes industriales.", pt: "O centro histórico da mineração de diamantes no Gana, conhecido pela produção de diamantes industriais.", fr: "Le centre historique de l'extraction de diamants au Ghana, connu pour la production de diamants industriels."},
     facts: {
       de: ["Bedeutendes Alluvialvorkommen.", "Hauptsächlich Industriediamanten.", "Prägte die Region über Jahrzehnte."],
@@ -444,7 +439,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-WP",
     coords: [-2.05, 4.4167],
     name: { de: "Jubilee-Ölfeld", hu: "Jubilee Olajmező", ro: "Câmpul Petrolier Jubilee", en: "Jubilee Oil Field"},
-    image: "/poi-images/ghana-jubilee-oil.webp",
     description: { de: "Das erste und größte Offshore-Ölfeld Ghanas im Golf von Guinea, das 2007 entdeckt wurde.", hu: "Ghána első és legnagyobb tengeri olajmezője a Guineai-öbölben, amelyet 2007-ben fedeztek fel.", ro: "Primul și cel mai mare câmp petrolier offshore din Ghana, în Golful Guineei, descoperit în 2007.", en: "Ghana's first and largest offshore oil field in the Gulf of Guinea, discovered in 2007." , es: "El primer y mayor campo petrolífero offshore de Ghana en el Golfo de Guinea, descubierto en 2007.", pt: "O primeiro e maior campo petrolífero offshore do Gana no Golfo da Guiné, descoberto em 2007.", fr: "Le premier et le plus grand champ pétrolifère offshore du Ghana dans le golfe de Guinée, découvert en 2007."},
     facts: {
       de: ["Entdeckt im Jahr 2007.", "Produktionsbeginn 2010.", "Verwendet FPSO-Einheiten (schwimmende Produktionsanlagen)."],
@@ -525,7 +519,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-AA",
     coords: [-0.0097, 5.6669],
     name: { de: "Ölraffinerie Tema", hu: "Tema Olajfinomító", ro: "Rafinăria de Petrol Tema", en: "Tema Oil Refinery"},
-    image: "/poi-images/ghana-tema-oil-refinery.webp",
     description: { de: "Die einzige Erdölraffinerie in Ghana, die Rohöl zu Benzin, Diesel und Flüssiggas verarbeitet.", hu: "Az egyetlen kőolaj-finomító Ghánában, amely nyersolajat dolgoz fel benzinné, dízellé és PB-gázzá.", ro: "Singura rafinărie de petrol din Ghana, care procesează țițeiul în benzină, motorină și gaz petrolier lichefiat.", en: "The only petroleum refinery in Ghana, processing crude oil into gasoline, diesel, and liquefied petroleum gas." , es: "La única refinería de petróleo en Ghana, que procesa crudo para obtener gasolina, diésel y gas licuado de petróleo.", pt: "A única refinaria de petróleo no Gana, que processa petróleo bruto em gasolina, diesel e gás liquefeito de petróleo.", fr: "L'unique raffinerie de pétrole du Ghana, qui transforme le pétrole brut en essence, diesel et gaz de pétrole liquéfié."},
     facts: {
       de: ["Kapazität von 45.000 Barrel pro Tag.", "Versorgt den lokalen Markt.", "Nahe dem Hafen von Tema gelegen."],
@@ -642,7 +635,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-AA",
     coords: [0.0197, 5.6569],
     name: { de: "VALCO-Aluminiumhütte", hu: "VALCO Alumíniumkohó", ro: "Topitoria de Aluminiu VALCO", en: "VALCO Aluminum Smelter"},
-    image: "/poi-images/ghana-valco-aluminum.webp",
     description: { de: "Eine große Aluminiumhütte in Tema, die Energie vom Akosombo-Staudamm nutzt, um Aluminium herzustellen.", hu: "Nagy alumíniumkohó Temában, amely az Akosombo-gát energiáját használja alumínium előállítására.", ro: "O mare topitorie de aluminiu în Tema, care utilizează energia de la barajul Akosombo pentru a produce aluminiu.", en: "A large aluminum smelter in Tema that uses energy from the Akosombo Dam to produce aluminum." , es: "Una gran fundición de aluminio en Tema que utiliza energía de la presa de Akosombo para producir aluminio.", pt: "Uma grande fundição de alumínio em Tema que utiliza energia da barragem de Akosombo para produzir alumínio.", fr: "Une grande fonderie d'aluminium à Tema utilisant l'énergie du barrage d'Akosombo pour produire de l'aluminium."},
     facts: {
       de: ["Volta Aluminium Company.", "Nutzt Wasserkraft.", "Wichtiger industrieller Arbeitgeber."],
@@ -678,7 +670,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-WP",
     coords: [-1.6667, 4.9667],
     name: { de: "Kraftwerk Takoradi", hu: "Takoradi Erőmű", ro: "Centrala Electrică Takoradi", en: "Takoradi Power Station"},
-    image: "/poi-images/ghana-takoradi-thermal.webp",
     description: { de: "Ein wichtiges Wärmekraftwerk in Aboadze bei Takoradi, das Ghana mit zusätzlicher Elektrizität versorgt.", hu: "Egy fontos hőerőmű Aboadzéban, Takoradi mellett, amely további villamos energiával látja el Ghánát.", ro: "O centrală termică importantă în Aboadze, lângă Takoradi, care furnizează electricitate suplimentară Ghanei.", en: "A major thermal power station in Aboadze near Takoradi, providing additional electricity to Ghana." , es: "Una importante central térmica en Aboadze, cerca de Takoradi, que suministra electricidad adicional a Ghana.", pt: "Uma importante central termoelétrica em Aboadze, perto de Takoradi, que fornece eletricidade adicional ao Gana.", fr: "Une importante centrale thermique à Aboadze près de Takoradi, fournissant de l'électricité supplémentaire au Ghana."},
     facts: {
       de: ["Gas- und Dampfturbinenkraftwerk.", "Reduziert die Abhängigkeit von Wasserkraft.", "Kapazität von über 300 MW."],
@@ -759,7 +750,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-WN",
     coords: [-2.35, 6.2667],
     name: { de: "Chirano Goldmine", hu: "Chirano Aranybánya", ro: "Mina de Aur Chirano", en: "Chirano Gold Mine"},
-    image: "/poi-images/ghana-chirano-gold.webp",
     description: { de: "Ein Goldbergbau-Komplex mit Tage- und Untertagebau in der westlichen Nordregion von Ghana.", hu: "Kombinált külszíni és földalatti aranybányászati komplexum Ghána nyugati északi régiójában.", ro: "Un complex minier de aur de suprafață și subteran în Regiunea de Nord-Vest a Ghanei.", en: "A combined open-pit and underground gold mining complex in the Western North Region of Ghana." , es: "Un complejo minero de oro con minería a cielo abierto y subterránea en la región de Western North de Ghana.", pt: "Um complexo de mineração de ouro com minas a céu aberto e subterrâneas na região de Western North do Gana.", fr: "Un complexe minier aurifère avec exploitation à ciel ouvert et souterraine dans la région de Western North au Ghana."},
     facts: {
       de: ["Kombinierter Abbau.", "Betrieben von Kinross Gold.", "Produziert jährlich beträchtliche Mengen Gold."],
@@ -795,7 +785,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-WP",
     coords: [-2.0167, 5.2333],
     name: { de: "Iduapriem Goldmine", hu: "Iduapriem Aranybánya", ro: "Mina de Aur Iduapriem", en: "Iduapriem Gold Mine"},
-    image: "/poi-images/ghana-iduapriem-gold.webp",
     description: { de: "Eine Tagebau-Goldmine im Tarkwa-Nsuaem-Gemeindebezirk, die sich auf ressourcenschonenden Abbau konzentriert.", hu: "Külszíni aranybánya a Tarkwa-Nsuaem körzetben, amely az erőforrás-takarékos bányászatra összpontosít.", ro: "O mină de aur la suprafață în municipalitatea Tarkwa-Nsuaem, axată pe exploatarea eficientă a resurselor.", en: "An open-pit gold mine in the Tarkwa-Nsuaem municipality, focusing on resource-efficient mining." , es: "Una mina de oro a cielo abierto en el distrito municipal de Tarkwa-Nsuaem que se centra en la extracción eficiente de recursos.", pt: "Uma mina de ouro a céu aberto no distrito municipal de Tarkwa-Nsuaem, que se concentra na exploração sustentável de recursos.", fr: "Une mine d'or à ciel ouvert dans le district municipal de Tarkwa-Nsuaem, axée sur une exploitation respectueuse des ressources."},
     facts: {
       de: ["Gehört zu AngloGold Ashanti.", "Tagebaubetrieb.", "Fokus auf Umweltschutz im Bergbau."],
@@ -831,7 +820,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-WP",
     coords: [-2.0333, 5.5333],
     name: { de: "Bogoso Goldmine", hu: "Bogoso Aranybánya", ro: "Mina de Aur Bogoso", en: "Bogoso Gold Mine"},
-    image: "/poi-images/ghana-bogoso-gold.webp",
     description: { de: "Ein historisches Goldbergbaugebiet im Südwesten Ghanas, das Teil des Ashanti-Goldgürtels ist.", hu: "Történelmi aranybányászati terület Délnyugat-Ghánában, amely az Ashanti aranyöv része.", ro: "O zonă istorică de exploatare a aurului în sud-vestul Ghanei, parte a centurii de aur Ashanti.", en: "A historic gold mining area in southwestern Ghana, part of the Ashanti Gold Belt." , es: "Una histórica zona minera de oro en el suroeste de Ghana, que forma parte del cinturón de oro de Ashanti.", pt: "Uma zona histórica de mineração de ouro no sudoeste do Gana, que faz parte da cintura de ouro de Ashanti.", fr: "Une zone historique d'exploitation aurifère dans le sud-ouest du Ghana, faisant partie de la ceinture d'or d'Ashanti."},
     facts: {
       de: ["Traditionsreicher Abbau.", "Erstreckt sich über ein großes Gebiet.", "Bekannt für refraktäres Erz."],
@@ -867,7 +855,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-AF",
     coords: [-2.3667, 7.0333],
     name: { de: "Ahafo Goldmine", hu: "Ahafo Aranybánya", ro: "Mina de Aur Ahafo", en: "Ahafo Gold Mine"},
-    image: "/poi-images/ghana-ahafo-gold.webp",
     description: { de: "Eine hochmoderne Goldmine von Newmont, die sowohl im Tagebau als auch unter Tage betrieben wird.", hu: "A Newmont korszerű aranybányája, amely külszíni és földalatti fejtéssel is működik.", ro: "O mină de aur de ultimă generație a Newmont, operată atât la suprafață, cât și în subteran.", en: "A state-of-the-art gold mine by Newmont, operated both open-pit and underground." , es: "Una mina de oro de última generación de Newmont, operada tanto a cielo abierto como bajo tierra.", pt: "Uma mina de ouro de última geração da Newmont, operada tanto a céu aberto como no subsolo.", fr: "Une mine d'or ultramoderne de Newmont, exploitée à ciel ouvert et en souterrain."},
     facts: {
       de: ["Betrieben von Newmont.", "Zwei Abbauzentren.", "Bedeutender Wirtschaftsfaktor der Ahafo-Region."],
@@ -903,7 +890,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-EP",
     coords: [-1.05, 6.3167],
     name: { de: "Akyem Goldmine", hu: "Akyem Aranybánya", ro: "Mina de Aur Akyem", en: "Akyem Gold Mine"},
-    image: "/poi-images/ghana-akyem-gold.webp",
     description: { de: "Die Akyem-Goldmine ist ein bedeutendes Tagebauprojekt im Osten Ghanas, das von Newmont betrieben wird.", hu: "Nagy külszíni aranybánya Kelet-Ghánában, amely magas biztonsági és környezetvédelmi szabványairól ismert.", ro: "O mare mină de aur la suprafață în estul Ghanei, recunoscută pentru standardele înalte de siguranță și mediu.", en: "A large open-pit gold mine in eastern Ghana, known for its high safety and environmental standards." , es: "La mina de oro Akyem es un importante proyecto a cielo abierto en el este de Ghana, operado por Newmont.", pt: "A mina de ouro Akyem é um importante projeto a céu aberto no leste do Gana, operado pela Newmont.", fr: "La mine d'or d'Akyem est un important projet à ciel ouvert dans l'est du Ghana, exploité par Newmont."},
     facts: {
       de: ["Befindet sich in der Eastern Region.", "Modernes Bergbauprojekt.", "Strenge Umweltauflagen für den Betrieb."],
@@ -984,7 +970,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-WP",
     coords: [-1.9333, 5.5167],
     name: { de: "Damang Goldmine", hu: "Damang Aranybánya", ro: "Mina de Aur Damang", en: "Damang Gold Mine"},
-    image: "/poi-images/ghana-damang-gold.webp",
     description: { de: "Eine der wichtigsten Minen von Gold Fields in Westafrika, gelegen in der Nähe der Tarkwa-Mine.", hu: "A Gold Fields egyik legfontosabb bányája Nyugat-Afrikában, a Tarkwa bánya közelében.", ro: "Una dintre cele mai importante mine ale Gold Fields în Africa de Vest, situată lângă mina Tarkwa.", en: "One of the most important mines for Gold Fields in West Africa, located near the Tarkwa mine." , es: "Una de las minas más importantes de Gold Fields en África Occidental, situada cerca de la mina de Tarkwa.", pt: "Uma das minas mais importantes da Gold Fields na África Ocidental, situada perto da mina de Tarkwa.", fr: "L'une des mines les plus importantes de Gold Fields en Afrique de l'Ouest, située à proximité de la mine de Tarkwa."},
     facts: {
       de: ["Tagebaubetrieb.", "Erweitert die Lebensdauer durch tiefere Grabungen.", "Schafft viele lokale Arbeitsplätze."],
@@ -1020,7 +1005,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-AH",
     coords: [-1.9667, 6.3667],
     name: { de: "Asanko Goldmine", hu: "Asanko Aranybánya", ro: "Mina de Aur Asanko", en: "Asanko Gold Mine"},
-    image: "/poi-images/ghana-asanko-gold.webp",
     description: { de: "Ein Multi-Gruben-Goldprojekt im Amansie West District der Ashanti-Region.", hu: "Többgödrös aranyprojekt az Ashanti régió Amansie West körzetében.", ro: "Un proiect aurifer cu mai multe gropi în Districtul Amansie West din Regiunea Ashanti.", en: "A multi-pit gold project in the Amansie West District of the Ashanti Region." , es: "Un proyecto de oro de múltiples canteras en el distrito Amansie West de la región de Ashanti.", pt: "Um projeto de ouro com várias minas a céu aberto no distrito de Amansie West, na região de Ashanti.", fr: "Un projet aurifère multicuvettes dans le district d'Amansie West, dans la région d'Ashanti."},
     facts: {
       de: ["Verarbeitet Oxid- und Gesteinserze.", "Wichtiger regionaler Arbeitgeber.", "Südwestlich von Kumasi."],
@@ -1173,7 +1157,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-CP",
     coords: [-1.8667, 5.9667],
     name: { de: "Edikan Goldmine", hu: "Edikan Aranybánya", ro: "Mina de Aur Edikan", en: "Edikan Gold Mine"},
-    image: "/poi-images/ghana-edikan-gold.webp",
     description: { de: "Eine Goldmine von Perseus Mining, die erste Mine des Unternehmens in Westafrika.", hu: "A Perseus Mining aranybányája, a vállalat első bányája Nyugat-Afrikában.", ro: "O mină de aur operată de Perseus Mining, prima mină a companiei în Africa de Vest.", en: "A gold mine operated by Perseus Mining, the company's first mine in West Africa." , es: "Una mina de oro de Perseus Mining, la primera mina de la empresa en África Occidental.", pt: "Uma mina de ouro da Perseus Mining, a primeira mina da empresa na África Ocidental.", fr: "Une mine d'or de Perseus Mining, la première mine de la société en Afrique de l'Ouest."},
     facts: {
       de: ["Produktion begann 2012.", "Großes Goldvorkommen.", "Betreibt mehrere Tagebaue."],
@@ -1209,7 +1192,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-WP",
     coords: [-2.35, 5.05],
     name: { de: "Nzema Goldmine", hu: "Nzema Aranybánya", ro: "Mina de Aur Nzema", en: "Nzema Gold Mine"},
-    image: "/poi-images/ghana-nzema-gold.webp",
     description: { de: "Eine Goldmine im Nzema East District, die sich auf den Abbau oberflächennaher Vorkommen konzentriert.", hu: "Aranybánya a Nzema East körzetben, amely a felszínközeli lerakódások bányászatára összpontosít.", ro: "O mină de aur în districtul Nzema East, axată pe extragerea depozitelor de lângă suprafață.", en: "A gold mine in the Nzema East District, focusing on mining near-surface deposits." , es: "Una mina de oro en el distrito de Nzema East que se centra en la extracción de yacimientos cercanos a la superficie.", pt: "Uma mina de ouro no distrito de Nzema East, que se concentra na exploração de depósitos superficiais.", fr: "Une mine d'or dans le district de Nzema East, spécialisée dans l'extraction de gisements de surface."},
     facts: {
       de: ["Fokus auf Oberflächenerze.", "Nahe der Küste gelegen.", "Verwendet CIL-Aufbereitungsverfahren."],
@@ -1245,7 +1227,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-WP",
     coords: [-2.1467, 5.4328],
     name: { de: "Prestea Goldbergwerk", hu: "Prestea Aranybánya", ro: "Mina de Aur Prestea", en: "Prestea Gold Mine"},
-    image: "/poi-images/ghana-prestea-underground.webp",
     description: { de: "Die Prestea-Untertagemine blickt auf eine lange Tradition im Goldbergbau zurück und nutzt moderne Fördermethoden.", hu: "Nagy hagyományokkal rendelkező földalatti aranybánya, amelyet évek inaktivitása után újranyitottak.", ro: "O mină de aur subterană tradițională, redeschisă după ani de inactivitate.", en: "A traditional underground gold mine that was reopened after years of inactivity." , es: "La mina subterránea de Prestea cuenta con una larga tradición en la minería de oro y utiliza métodos modernos de extracción.", pt: "A mina subterrânea de Prestea tem uma longa tradição na exploração de ouro e utiliza métodos de extração modernos.", fr: "La mine souterraine de Prestea bénéficie d'une longue tradition minière et utilise des méthodes d'extraction modernes."},
     facts: {
       de: ["Tiefgehende Goldbergbau-Anlage.", "Historischer Standort mit moderner Technik.", "Wichtige Quelle für hochwertiges Golderz."],
@@ -1281,7 +1262,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-SR",
     coords: [-1.15, 8.7833],
     name: { de: "Zementfabrik Buipe", hu: "Buipe Cementgyár", ro: "Fabrica de Ciment Buipe", en: "Buipe Cement Plant"},
-    image: "/poi-images/ghana-buipe-cement.webp",
     description: { de: "Ein wichtiges Zementwerk im Norden Ghanas, das Baustoffe für die regionalen Infrastrukturprojekte liefert.", hu: "Fontos cementgyár Észak-Ghánában, amely építőanyagokat szállít a regionális infrastrukturális projektekhez.", ro: "O fabrică importantă de ciment în nordul Ghanei, care furnizează materiale de construcție pentru proiectele regionale.", en: "An important cement plant in northern Ghana, providing building materials for regional infrastructure projects." , es: "Una importante planta de cemento en el norte de Ghana que suministra materiales de construcción para proyectos de infraestructuras regionales.", pt: "Uma importante fábrica de cimento no norte do Gana que fornece materiais de construção para projetos de infraestruturas regionais.", fr: "Une importante cimenterie dans le nord du Ghana qui fournit des matériaux de construction pour les projets d'infrastructure régionaux."},
     facts: {
       de: ["Produziert Portlandzement.", "Versorgt die nördlichen Regionen.", "Wichtig für die Bauindustrie."],
@@ -1434,7 +1414,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-AA",
     coords: [-0.015, 5.635],
     name: { de: "Ghacem Zementwerk Tema", hu: "Ghacem Cementgyár Tema", ro: "Fabrica de Ciment Ghacem Tema", en: "Ghacem Cement Plant Tema"},
-    image: "/poi-images/ghana-ghacem-tema.webp",
     description: { de: "Das Hauptwerk des größten Zementherstellers in Ghana, gelegen im Industriegebiet von Tema.", hu: "Ghána legnagyobb cementgyártójának fő üzeme a temai ipari övezetben.", ro: "Uzina principală a celui mai mare producător de ciment din Ghana, situată în zona industrială Tema.", en: "The main plant of the largest cement manufacturer in Ghana, located in the Tema industrial area." , es: "La planta principal del mayor fabricante de cemento de Ghana, situada en la zona industrial de Tema.", pt: "A principal fábrica do maior produtor de cimento do Gana, localizada na zona industrial de Tema.", fr: "L'usine principale du plus grand producteur de ciment du Ghana, située dans la zone industrielle de Tema."},
     facts: {
       de: ["Ghana Cement Company.", "Größter Zementproduzent.", "Importiert Klinker über den Hafen Tema."],
@@ -1515,7 +1494,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-WP",
     coords: [-1.755, 4.895],
     name: { de: "Ghacem Zementwerk Takoradi", hu: "Ghacem Cementgyár Takoradi", ro: "Fabrica de Ciment Ghacem Takoradi", en: "Ghacem Cement Plant Takoradi"},
-    image: "/poi-images/ghana-ghacem-takoradi.webp",
     description: { de: "Ein weiteres großes Zementwerk von Ghacem, das den westlichen Teil des Landes versorgt.", hu: "A Ghacem másik nagy cementgyára, amely az ország nyugati részét látja el.", ro: "O altă mare fabrică de ciment Ghacem, care aprovizionează partea de vest a țării.", en: "Another large cement plant by Ghacem, supplying the western part of the country." , es: "Otra gran planta de cemento de Ghacem que abastece a la parte occidental del país.", pt: "Outra grande fábrica de cimento da Ghacem que abastece a parte ocidental do país.", fr: "Une autre grande cimenterie de Ghacem, qui dessert la partie occidentale du pays."},
     facts: {
       de: ["Strategisch nahe dem Hafen Takoradi.", "Reduziert Transportkosten.", "Erweitert die Produktionskapazität."],
@@ -1551,7 +1529,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-EP",
     coords: [-0.3167, 5.8167],
     name: { de: "Blue Skies Saftfabrik", hu: "Blue Skies Gyümölcslégyár", ro: "Fabrica de Sucuri Blue Skies", en: "Blue Skies Juice Factory"},
-    image: "/poi-images/ghana-blue-skies.webp",
     description: { de: "Ein renommiertes Unternehmen in Nsawam, das frisches Obst und Säfte für den europäischen Markt produziert.", hu: "Egy neves vállalat Nsawamban, amely friss gyümölcsöt és gyümölcsleveket állít elő az európai piacra.", ro: "O companie renumită din Nsawam care produce fructe proaspete și sucuri pentru piața europeană.", en: "A renowned company in Nsawam producing fresh fruit and juices for the European market." , es: "Una empresa de renombre en Nsawam que produce fruta fresca y zumos para el mercado europeo.", pt: "Uma empresa de renome em Nsawam que produz fruta fresca e sumos para o mercado europeu.", fr: "Une entreprise de renom à Nsawam qui produit des fruits frais et des jus pour le marché européen."},
     facts: {
       de: ["Fokus auf Fairtrade.", "Exportiert frisch geschnittenes Obst.", "Wichtiger Arbeitgeber im Agrarsektor."],
@@ -1587,7 +1564,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-CP",
     coords: [-1.4333, 5.6167],
     name: { de: "Twifo Palmölfabrik", hu: "Twifo Pálmaolajgyár", ro: "Fabrica de Ulei de Palmier Twifo", en: "Twifo Oil Palm Plant"},
-    image: "/poi-images/ghana-twifo-oil-palm.webp",
     description: { de: "Eine der größten Palmölmühlen in Ghana, die rohes Palmöl aus lokalen Plantagen extrahiert.", hu: "Ghána egyik legnagyobb pálmaolajüzeme, amely nyers pálmaolajat von ki a helyi ültetvényekről.", ro: "Una dintre cele mai mari fabrici de ulei de palmier din Ghana, extrăgând ulei de palmier brut din plantațiile locale.", en: "One of the largest palm oil mills in Ghana, extracting crude palm oil from local plantations." , es: "Una de las mayores plantas de aceite de palma en Ghana, que extrae aceite crudo de plantaciones locales.", pt: "Uma das maiores fábricas de óleo de palma no Gana, que extrai óleo de palma bruto de plantações locais.", fr: "L'une des plus grandes huileries de palme du Ghana, extrayant l'huile brute des plantations locales."},
     facts: {
       de: ["Verarbeitet Tausende Tonnen Palmfrüchte.", "Unterstützt lokale Bauern.", "Produziert Palmöl für Lebensmittel und Kosmetik."],
@@ -1668,7 +1644,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-AA",
     coords: [-0.01, 5.66],
     name: { de: "Cargill Kakaoverarbeitung", hu: "Cargill Kakaófeldolgozó", ro: "Procesarea de Cacao Cargill", en: "Cargill Cocoa Processing"},
-    image: "/poi-images/ghana-cargill-cocoa.webp",
     description: { de: "Eine hochmoderne Kakaoverarbeitungsanlage in Tema, die ghanaischen Kakao zu Pulver und Butter verarbeitet.", hu: "Korszerű kakaófeldolgozó üzem Temában, amely a ghánai kakaót porrá és vajjá dolgozza fel.", ro: "O instalație modernă de procesare a cacauei în Tema, care transformă cacaua ghaneză în pudră și unt.", en: "A state-of-the-art cocoa processing facility in Tema that processes Ghanaian cocoa into powder and butter." , es: "Una modernísima planta de procesamiento de cacao en Tema que transforma el cacao ghanés en polvo y manteca.", pt: "Uma unidade de processamento de cacau ultramoderna em Tema que transforma o cacau do Gana em pó e manteiga.", fr: "Une usine de transformation de cacao ultramoderne à Tema, qui transforme le cacao ghanéen en poudre et en beurre."},
     facts: {
       de: ["Erhöht die Wertschöpfung im Land.", "Produziert Kakaomasse, -butter und -pulver.", "Nutzt modernste Technologie."],
@@ -1704,7 +1679,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-AA",
     coords: [-0.02, 5.67],
     name: { de: "CPC Kakaofabrik", hu: "CPC Kakaógyár", ro: "Fabrica de Cacao CPC", en: "CPC Cocoa Processing Company"},
-    image: "/poi-images/ghana-cpc-cocoa.webp",
     description: { de: "Ein staatlich unterstütztes Unternehmen in Tema, das hochwertige Schokolade und Halbfabrikate produziert.", hu: "Egy államilag támogatott vállalat Temában, amely kiváló minőségű csokoládét és félkész termékeket gyárt.", ro: "O companie susținută de stat în Tema, care produce ciocolată de înaltă calitate și produse semifinite.", en: "A state-backed company in Tema producing high-quality chocolate and semi-finished products." , es: "Una empresa con apoyo estatal en Tema que produce chocolate de alta calidad y productos semielaborados.", pt: "Uma empresa com apoio estatal em Tema que produz chocolate de alta qualidade e produtos semi-acabados.", fr: "Une entreprise soutenue par l'État à Tema, qui produit du chocolat de haute qualité et des produits semi-finis."},
     facts: {
       de: ["Cocoa Processing Company.", "Bekannt für die Marke 'Golden Tree'.", "Verarbeitet ausschließlich Premium-Kakao."],
@@ -1740,7 +1714,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-WP",
     coords: [-2.5667, 4.9833],
     name: { de: "Atuabo Gasverarbeitungsanlage", hu: "Atuabo Gázfeldolgozó", ro: "Uzina de Procesare a Gazelor Atuabo", en: "Atuabo Gas Processing Plant"},
-    image: "/poi-images/ghana-atuabo-gas.webp",
     description: { de: "Die erste Gasverarbeitungsanlage Ghanas, die Begleitgas aus den Offshore-Ölfeldern nutzt.", hu: "Ghána első gázfeldolgozó üzeme, amely a tengeri olajmezőkről származó kísérőgázt használja.", ro: "Prima uzină de procesare a gazelor din Ghana, care utilizează gazul asociat din câmpurile petroliere offshore.", en: "Ghana's first gas processing plant, utilizing associated gas from offshore oil fields." , es: "La primera planta de procesamiento de gas de Ghana, que utiliza gas asociado de los campos petroleros marinos.", pt: "A primeira central de processamento de gás do Gana, que utiliza gás associado de campos petrolíferos offshore.", fr: "La première usine de traitement de gaz du Ghana, qui utilise le gaz associé des gisements pétroliers offshore."},
     facts: {
       de: ["Betrieben von Ghana National Gas Company.", "Produziert Flüssiggas (LPG).", "Liefert Gas zur Stromerzeugung."],

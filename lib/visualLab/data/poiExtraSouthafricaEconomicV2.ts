@@ -242,7 +242,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-KZN",
     coords: [32.028, -28.794],
     name: { de: "Hafen von Richards Bay", hu: "Richards Bay kikötője", ro: "Portul Richards Bay", en: "Port of Richards Bay"},
-    image: "/poi-images/port-of-richards-bay-economic-v2.webp",
     description: { de: "Ein Tiefseehafen, der vor allem für den Export von Kohle und anderen trockenen Massengütern bekannt ist.", hu: "Mélyvízi kikötő, amely elsősorban a szén és egyéb száraz ömlesztett áruk exportjáról ismert.", ro: "Un port de mare adâncime, cunoscut în primul rând pentru exportul de cărbune și alte mărfuri uscate în vrac.", en: "A deep-water port primarily known for exporting coal and other dry bulk commodities." , es: "Un puerto de aguas profundas conocido principalmente por la exportación de carbón y otros productos a granel seco.", pt: "Um porto de águas profundas conhecido principalmente pela exportação de carvão e outros produtos a granel seco.", fr: "Un port en eau profonde connu principalement pour l'exportation de charbon et d'autres produits en vrac sec."},
     facts: {
       de: ["Beherbergt das größte Kohleexportterminal der Welt.", "In den 1970er Jahren speziell für den Umschlag von Massengutexporten gebaut."],
@@ -791,7 +790,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-WC",
     coords: [18.435, -33.902],
     name: { de: "Hafen von Kapstadt", hu: "Fokváros kikötője", ro: "Portul Cape Town", en: "Port of Cape Town"},
-    image: "/poi-images/port-of-cape-town-economic-v2.webp",
     description: { de: "Ein bedeutender Seehafen an einer der verkehrsreichsten Handelsrouten der Welt, bekannt für den Export von Frischprodukten.", hu: "Jelentős tengeri kikötő a világ egyik legforgalmasabb kereskedelmi útvonalán, amely híres a friss mezőgazdasági termékek exportjáról.", ro: "Un port maritim important situat de-a lungul uneia dintre cele mai aglomerate rute comerciale din lume, renumit pentru exportul de produse proaspete.", en: "A major seaport situated along one of the world's busiest trade routes, renowned for fresh produce export." , es: "Un puerto marítimo importante en una de las rutas comerciales más transitadas del mundo, conocido por la exportación de productos frescos.", pt: "Um porto marítimo importante numa das rotas comerciais mais movimentadas do mundo, conhecido pela exportação de produtos frescos.", fr: "Un port maritime important sur l'une des routes commerciales les plus fréquentées au monde, connu pour l'exportation de produits frais."},
     facts: {
       de: ["Dient als wichtigste Exportanlage für südafrikanisches Obst und Wein.", "Außerdem ein wichtiges Zentrum für Schiffsreparatur und -wartung in der Region."],
@@ -1673,7 +1671,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-WC",
     coords: [17.962, -33.023],
     name: { de: "Hafen von Saldanha", hu: "Saldanha kikötője", ro: "Portul Saldanha", en: "Port of Saldanha"},
-    image: "/poi-images/port-of-saldanha-economic-v2.webp",
     description: { de: "Der größte und tiefste natürliche Hafen der südlichen Hemisphäre, spezialisiert auf den Export von Eisenerz.", hu: "A déli félteke legnagyobb és legmélyebb természetes kikötője, amely a vasérc exportjára specializálódott.", ro: "Cel mai mare și mai adânc port natural din emisfera sudică, specializat în exportul de minereu de fier.", en: "The largest and deepest natural port in the Southern Hemisphere, specializing in iron ore export." , es: "El puerto natural más grande y profundo del hemisferio sur, especializado en la exportación de mineral de hierro.", pt: "O maior e mais profundo porto natural do hemisfério sul, especializado na exportação de minério de ferro.", fr: "Le plus grand et le plus profond port naturel de l'hémisphère sud, spécialisé dans l'exportation de minerai de fer."},
     facts: {
       de: ["Über eine 861 km lange Bahnstrecke mit der Eisenerzmine Sishen verbunden.", "Schlägt jährlich Millionen Tonnen Eisenerz um."],
@@ -1970,7 +1967,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-EC",
     coords: [27.915, -33.027],
     name: { de: "Hafen von East London", hu: "East London kikötője", ro: "Portul East London", en: "Port of East London"},
-    image: "/poi-images/port-of-east-london-economic-v2.webp",
     description: { de: "Südafrikas einziger verbliebener Flusshafen, der an der Mündung des Buffalo River liegt.", hu: "Dél-Afrika egyetlen megmaradt folyami kikötője, amely a Buffalo folyó torkolatánál található.", ro: "Singurul port fluvial rămas din Africa de Sud, situat la gura râului Buffalo.", en: "South Africa's only remaining river port, situated at the mouth of the Buffalo River." , es: "El único puerto fluvial restante de Sudáfrica, situado en la desembocadura del río Buffalo.", pt: "O único porto fluvial restante da África do Sul, localizado na foz do rio Buffalo.", fr: "Le seul port fluvial restant d'Afrique du Sud, situé à l'embouchure de la rivière Buffalo."},
     facts: {
       de: ["Dient in erster Linie der lokalen Automobil- und Landwirtschaftsindustrie.", "Verfügt über einen speziellen Getreidesilo-Aufbau."],
@@ -2087,7 +2083,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-EC",
     coords: [25.694, -33.801],
     name: { de: "Coega-Hafen", hu: "Ngqura kikötője", ro: "Portul Ngqura", en: "Port of Ngqura"},
-    image: "/poi-images/port-of-ngqura-economic-v2.webp",
     description: { de: "Ein Tiefseehafen in der Nähe der Coega Industrial Development Zone, der für Schiffe der neuen Generation ausgelegt ist.", hu: "Mélyvízi kikötő a Coega Ipari Fejlesztési Zóna mellett, amelyet az új generációs hajók fogadására terveztek.", ro: "Un port de mare adâncime adiacent Zonei de Dezvoltare Industrială Coega, conceput pentru a gestiona nave de nouă generație.", en: "A deep-water port adjacent to the Coega Industrial Development Zone, designed to handle new generation vessels." , es: "Un puerto de aguas profundas cerca de la Zona de Desarrollo Industrial de Coega, diseñado para barcos de nueva generación.", pt: "Um porto de águas profundas perto da Zona de Desenvolvimento Industrial de Coega, projetado para navios de nova geração.", fr: "Un port en eau profonde près de la zone de développement industriel de Coega, conçu pour les navires de nouvelle génération."},
     facts: {
       de: ["Einer der neuesten Häfen Südafrikas, der 2009 eröffnet wurde.", "Fungiert als wichtiger Umschlagplatz für die afrikanische Region."],
@@ -2195,7 +2190,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-GT",
     coords: [28.514, -25.671],
     name: { de: "Cullinan-Diamantenmine", hu: "Cullinan gyémántbánya", ro: "Mina de diamante Cullinan", en: "Cullinan Diamond Mine"},
-    image: "/poi-images/cullinan-diamond-mine-economic-v2.webp",
     description: { de: "Berühmt für die Förderung des Cullinan-Diamanten, des größten jemals gefundenen Rohdiamanten in Edelsteinqualität.", hu: "Híres arról, hogy itt találták a Cullinan gyémántot, a valaha talált legnagyobb drágakő minőségű nyersgyémántot.", ro: "Faimoasă pentru producerea diamantului Cullinan, cel mai mare diamant brut de calitate prețioasă găsit vreodată.", en: "Famous for producing the Cullinan Diamond, the largest gem-quality rough diamond ever found." , es: "Famosa por la extracción del diamante Cullinan, el diamante en bruto de calidad gema más grande jamás encontrado.", pt: "Famosa pela extração do diamante Cullinan, o maior diamante bruto de qualidade gema alguma vez encontrado.", fr: "Célèbre pour l'extraction du diamant Cullinan, le plus gros diamant brut de qualité gemme jamais trouvé."},
     facts: {
       de: ["Der Cullinan-Diamant wog bei seiner Entdeckung im Jahr 1905 3.106 Karat.", "Produziert weiterhin erhebliche Mengen seltener blauer Diamanten."],
@@ -2276,7 +2270,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-LP",
     coords: [29.316, -22.433],
     name: { de: "Venetia-Diamantenmine", hu: "Venetia gyémántbánya", ro: "Mina de diamante Venetia", en: "Venetia Diamond Mine"},
-    image: "/poi-images/venetia-diamond-mine-economic-v2.webp",
     description: { de: "Der größte Diamantenproduzent in Südafrika, der sich derzeit vom Tagebau auf den Untertagebau umstellt.", hu: "Dél-Afrika legnagyobb gyémántkitermelője, amely jelenleg a felszíni fejtésről a földalatti bányászatra tér át.", ro: "Cel mai mare producător de diamante din Africa de Sud, aflat în prezent în tranziție de la exploatarea de suprafață la cea subterană.", en: "The largest producer of diamonds in South Africa, currently transitioning from open-pit to underground mining." , es: "El mayor productor de diamantes de Sudáfrica, actualmente en transición de la minería a cielo abierto a la minería subterránea.", pt: "O maior produtor de diamantes da África do Sul, atualmente em transição da mineração a céu aberto para a mineração subterrânea.", fr: "Le plus grand producteur de diamants d'Afrique du Sud, actuellement en transition de l'exploitation à ciel ouvert vers l'exploitation souterraine."},
     facts: {
       de: ["Macht über 40 % der jährlichen Diamantenproduktion Südafrikas aus.", "Das Untertageprojekt wird die Lebensdauer der Mine bis 2046 verlängern."],
@@ -2312,7 +2305,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-NC",
     coords: [23.447, -28.381],
     name: { de: "Finsch-Diamantenmine", hu: "Finsch gyémántbánya", ro: "Mina de diamante Finsch", en: "Finsch Diamond Mine"},
-    image: "/poi-images/finsch-diamond-mine-economic-v2.webp",
     description: { de: "Eines der bedeutendsten untertägigen Diamantenbergwerke Südafrikas, bekannt für moderne Blockbau-Abbaumethoden.", hu: "Dél-Afrika egyik legjelentősebb földalatti gyémántbányája, amely modern omlasztásos bányászati technikáiról ismert.", ro: "Una dintre cele mai semnificative mine subterane de diamante din Africa de Sud, cunoscută pentru tehnicile moderne de exploatare în masă.", en: "One of South Africa's most significant underground diamond mines, known for modern block cave mining techniques." , es: "Una de las minas de diamantes subterráneas más importantes de Sudáfrica, conocida por sus modernos métodos de extracción de espeleología de bloques.", pt: "Uma das minas de diamantes subterrâneas mais importantes da África do Sul, conhecida pelos seus modernos métodos de extração por blocos.", fr: "L'une des mines de diamants souterraines les plus importantes d'Afrique du Sud, connue pour ses méthodes modernes d'extraction par foudroyage en bloc."},
     facts: {
       de: ["Ursprünglich in den 1960er Jahren als Tagebau entwickelt.", "Nutzt ein automatisiertes Erztransportsystem."],
@@ -2348,7 +2340,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-NC",
     coords: [23.003, -27.733],
     name: { de: "Sishen-Eisenerzmine", hu: "Sishen vasércbánya", ro: "Mina de minereu de fier Sishen", en: "Sishen Iron Ore Mine"},
-    image: "/poi-images/sishen-iron-ore-mine-economic-v2.webp",
     description: { de: "Einer der größten Eisenerz-Tagebaue der Welt, der hochwertiges Eisenerz fördert.", hu: "A világ egyik legnagyobb külszíni vasércbányája, amely kiváló minőségű vasércet termel ki.", ro: "Una dintre cele mai mari mine de minereu de fier de suprafață din lume, producând minereu de fier de înaltă calitate.", en: "One of the largest open-pit iron ore mines in the world, producing high-grade iron ore." , es: "Una de las minas de mineral de hierro a cielo abierto más grandes del mundo, que extrae mineral de alta calidad.", pt: "Uma das maiores minas de minério de ferro a céu aberto do mundo, que extrai minério de alta qualidade.", fr: "L'une des plus grandes mines de minerai de fer à ciel ouvert au monde, qui extrait du minerai de haute qualité."},
     facts: {
       de: ["Die Mine erstreckt sich über eine Länge von 14 Kilometern.", "Das Erz wird auf einer massiven, speziell dafür gebauten Bahnstrecke zum Hafen von Saldanha transportiert."],
@@ -2429,7 +2420,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-LP",
     coords: [31.127, -24.001],
     name: { de: "Palabora-Kupfermine", hu: "Palabora rézbánya", ro: "Mina de cupru Palabora", en: "Palabora Copper Mine"},
-    image: "/poi-images/palabora-copper-mine-economic-v2.webp",
     description: { de: "Südafrikas wichtigster Produzent von raffiniertem Kupfer, ursprünglich berühmt für das breiteste von Menschen gemachte Loch Afrikas.", hu: "Dél-Afrika fő finomított réztermelője, amely eredetileg Afrika legszélesebb mesterséges gödréről volt híres.", ro: "Principalul producător de cupru rafinat din Africa de Sud, renumit inițial pentru cea mai largă groapă creată de om din Africa.", en: "South Africa's main producer of refined copper, originally famous for having the widest man-made hole in Africa." , es: "El productor más importante de cobre refinado de Sudáfrica, famoso originalmente por ser el hoyo artificial más ancho de África.", pt: "O mais importante produtor de cobre refinado da África do Sul, famoso originalmente por ser o buraco artificial mais largo de África.", fr: "Le plus important producteur de cuivre raffiné d'Afrique du Sud, célèbre à l'origine pour être le plus grand trou artificiel d'Afrique."},
     facts: {
       de: ["Arbeitet nahe der Grenze zum Kruger-Nationalpark.", "Produziert auch Nebenprodukte wie Magnetit und Vermiculit."],
@@ -2510,7 +2500,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-LP",
     coords: [27.562, -23.666],
     name: { de: "Grootegeluk-Kohlemine", hu: "Grootegeluk szénbánya", ro: "Mina de cărbune Grootegeluk", en: "Grootegeluk Coal Mine"},
-    image: "/poi-images/grootegeluk-coal-mine-economic-v2.webp",
     description: { de: "Der größte Kohletagebau in Südafrika, der nahegelegene Kraftwerke mit Brennstoff versorgt.", hu: "Dél-Afrika legnagyobb külszíni szénbányája, amely a közeli erőműveket látja el fűtőanyaggal.", ro: "Cea mai mare mină de cărbune de suprafață din Africa de Sud, furnizând combustibil pentru centralele electrice din apropiere.", en: "The largest open-cast coal mine in South Africa, supplying fuel to nearby power stations." , es: "La mina de carbón a cielo abierto más grande de Sudáfrica, que suministra combustible a las centrales eléctricas cercanas.", pt: "A maior mina de carvão a céu aberto da África do Sul, que fornece combustível para as centrais elétricas próximas.", fr: "La plus grande mine de charbon à ciel ouvert d'Afrique du Sud, qui fournit du combustible aux centrales électriques voisines."},
     facts: {
       de: ["Verfügt über den weltgrößten Kohleaufbereitungskomplex.", "Stellt die primäre Kohleversorgung für die riesigen Kraftwerke Medupi und Matimba sicher."],
@@ -2546,7 +2535,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-MP",
     coords: [28.924, -25.903],
     name: { de: "Kusile-Kraftwerk", hu: "Kusile erőmű", ro: "Centrala electrică Kusile", en: "Kusile Power Station"},
-    image: "/poi-images/kusile-power-station-economic-v2.webp",
     description: { de: "Ein riesiges Kohlekraftwerk, das sich im Bau befindet und eines der größten der Welt werden soll.", hu: "Hatalmas, jelenleg is épülő széntüzelésű erőmű, amelyet a világ egyik legnagyobbnak terveztek.", ro: "O masivă centrală electrică pe cărbune aflată în construcție, proiectată să fie una dintre cele mai mari din lume.", en: "A massive coal-fired power station currently under construction, designed to be one of the largest in the world." , es: "Una enorme central eléctrica de carbón en construcción que se convertirá en una de las más grandes del mundo.", pt: "Uma enorme central elétrica a carvão em construção que se tornará uma das maiores do mundo.", fr: "Une énorme centrale électrique au charbon en construction qui deviendra l'une des plus grandes au monde."},
     facts: {
       de: ["Es ist das erste Kraftwerk in Südafrika, das eine Rauchgasentschwefelungsanlage installiert.", "Wird nach Fertigstellung eine Kapazität von 4.800 Megawatt haben."],
@@ -2582,7 +2570,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-LP",
     coords: [27.56, -23.704],
     name: { de: "Medupi-Kraftwerk", hu: "Medupi erőmű", ro: "Centrala electrică Medupi", en: "Medupi Power Station"},
-    image: "/poi-images/medupi-power-station-economic-v2.webp",
     description: { de: "Ein großes, trockengekühltes Kohlekraftwerk, das einen erheblichen Beitrag zum nationalen Stromnetz leistet.", hu: "Nagy, száraz hűtésű széntüzelésű erőmű, amely jelentősen hozzájárul az országos villamosenergia-hálózathoz.", ro: "O mare centrală electrică pe cărbune cu răcire uscată, contribuind semnificativ la rețeaua națională.", en: "A large dry-cooled coal-fired power station, significantly contributing to the national grid." , es: "Una gran central eléctrica de carbón refrigerada en seco que contribuye significativamente a la red eléctrica nacional.", pt: "Uma grande central elétrica a carvão refrigerada a seco que contribui significativamente para a rede elétrica nacional.", fr: "Une grande centrale électrique au charbon à refroidissement sec qui contribue de manière significative au réseau électrique national."},
     facts: {
       de: ["Nach installierter Kapazität das viertgrößte Kohlekraftwerk der Welt.", "Nutzt aufgrund von Wasserknappheit in der Region direkte Trockenkühlsysteme."],
@@ -2618,7 +2605,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-MP",
     coords: [28.971, -26.091],
     name: { de: "Kendal-Kraftwerk", hu: "Kendal erőmű", ro: "Centrala electrică Kendal", en: "Kendal Power Station"},
-    image: "/poi-images/kendal-power-station-economic-v2.webp",
     description: { de: "Eines von Eskoms Grundlast-Kohlekraftwerken und das weltweit größte indirekt trockengekühlte Kraftwerk.", hu: "Az Eskom egyik alaperőműve, és a világ legnagyobb közvetett szárazhűtésű szénerőműve.", ro: "Una dintre centralele electrice de bază pe cărbune ale Eskom și cea mai mare centrală cu răcire uscată indirectă la nivel global.", en: "One of Eskom's base-load coal-fired power stations and the largest indirect dry-cooled power station globally." , es: "Una de las centrales eléctricas de carbón de carga base de Eskom y la central eléctrica de refrigeración seca indirecta más grande del mundo.", pt: "Uma das centrais elétricas a carvão de carga base da Eskom e a maior central elétrica de refrigeração seca indireta do mundo.", fr: "L'une des centrales électriques au charbon en charge de base d'Eskom et la plus grande centrale électrique à refroidissement sec indirect au monde."},
     facts: {
       de: ["Kann 4.116 Megawatt Strom erzeugen.", "Seine massiven Kühltürme sind ein markantes Wahrzeichen in Mpumalanga."],
@@ -2699,7 +2685,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-MP",
     coords: [29.177, -26.544],
     name: { de: "Sasol-Werk Secunda", hu: "Secunda Sasol-üzem", ro: "Uzina Sasol Secunda", en: "Sasol Secunda Plant"},
-    image: "/poi-images/sasol-secunda-economic-v2.webp",
     description: { de: "Eine riesige Anlage für synthetische Kraftstoffe, die flüssige Kraftstoffe und Chemikalien aus Kohle herstellt.", hu: "Hatalmas szintetikus üzemanyag-előállító üzem, amely szénből folyékony üzemanyagokat és vegyszereket gyárt.", ro: "O masivă fabrică de combustibil sintetic care produce combustibili lichizi și substanțe chimice din cărbune.", en: "A massive synthetic fuel plant producing liquid fuels and chemicals from coal." , es: "Una enorme planta de combustibles sintéticos que produce combustibles líquidos y productos químicos a partir del carbón.", pt: "Uma enorme fábrica de combustíveis sintéticos que produz combustíveis líquidos e produtos químicos a partir do carvão.", fr: "Une immense usine de carburants synthétiques qui produit des carburants liquides et des produits chimiques à partir du charbon."},
     facts: {
       de: ["Die größte punktuelle Treibhausgasemissionsquelle der Erde.", "Nutzt das ursprünglich in Deutschland entwickelte Fischer-Tropsch-Verfahren."],
@@ -2780,7 +2765,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-FS",
     coords: [27.842, -26.837],
     name: { de: "Sasol-Werk Sasolburg", hu: "Sasolburg petrolkémiai üzem", ro: "Uzina Sasolburg", en: "Sasolburg Petrochemical Plant"},
-    image: "/poi-images/sasol-sasolburg-economic-v2.webp",
     description: { de: "Die ursprüngliche Sasol-Anlage, die für die Chemie- und Polymerproduktion von Kohle auf Erdgas umgestellt wurde.", hu: "Az eredeti Sasol-létesítmény, amely a szénről földgázra állt át a vegyipari és polimergyártás érdekében.", ro: "Facilitatea originală Sasol, tranzitată de la cărbune la gaze naturale pentru producția chimică și de polimeri.", en: "The original Sasol facility, transitioned from coal to natural gas for chemical and polymer production." , es: "La planta original de Sasol, que fue convertida de carbón a gas natural para la producción de químicos y polímeros.", pt: "A instalação original da Sasol, que foi convertida de carvão para gás natural para a produção de químicos e polímeros.", fr: "L'installation originale de Sasol, qui a été convertie du charbon au gaz naturel pour la production de produits chimiques et de polymères."},
     facts: {
       de: ["1950 gegründet, um Südafrikas Abhängigkeit von importiertem Öl zu verringern.", "Konzentriert sich heute stark auf hochwertige chemische Produkte."],
@@ -3194,7 +3178,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-EC",
     coords: [25.413, -33.784],
     name: { de: "Volkswagen-Werk Kariega", hu: "Volkswagen kariegai gyára", ro: "Fabrica Volkswagen Kariega", en: "Volkswagen Plant Kariega"},
-    image: "/poi-images/vw-kariega-plant-economic-v2.webp",
     description: { de: "Das größte Autowerk Afrikas, das das beliebte Polo-Modell für den internationalen Vertrieb produziert.", hu: "Afrika legnagyobb autógyára, amely a népszerű Polo modellt gyártja a nemzetközi piacokra.", ro: "Cea mai mare fabrică de mașini din Africa, producând popularul model Polo pentru distribuție internațională.", en: "The largest car plant in Africa, producing the popular Polo model for international distribution." , es: "La mayor planta automovilística de África, que produce el popular modelo Polo para la distribución internacional.", pt: "A maior fábrica de automóveis de África, que produz o popular modelo Polo para distribuição internacional.", fr: "La plus grande usine automobile d'Afrique, qui produit le modèle populaire Polo pour la distribution internationale."},
     facts: {
       de: ["Zuvor in Uitenhage (jetzt Kariega) angesiedelt.", "Ein Eckpfeiler der verarbeitenden Wirtschaft im Ostkap."],
@@ -3491,7 +3474,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-GT",
     coords: [28.322, -25.728],
     name: { de: "Ford-Werk Silverton", hu: "Ford silvertoni gyára", ro: "Fabrica Ford Silverton", en: "Ford Silverton Plant"},
-    image: "/poi-images/ford-silverton-plant-economic-v2.webp",
     description: { de: "Ein hochmodernes Automobilmontagewerk, spezialisiert auf die Produktion des Ford Ranger.", hu: "Korszerű autó-összeszerelő üzem, amely a Ford Ranger gyártására specializálódott.", ro: "O fabrică de asamblare auto extrem de avansată, specializată în producția de Ford Ranger.", en: "A highly advanced automotive assembly plant specializing in the production of the Ford Ranger." , es: "Una planta de montaje de automóviles de última generación especializada en la producción del Ford Ranger.", pt: "Uma fábrica de montagem de automóveis de última geração especializada na produção do Ford Ranger.", fr: "Une usine de montage automobile de pointe spécialisée dans la production du Ford Ranger."},
     facts: {
       de: ["Exportiert Pickup-Trucks in über 100 Märkte weltweit.", "Wurde kürzlich einem massiven Modernisierungs- und Erweiterungsprojekt unterzogen."],
@@ -3644,7 +3626,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-KZN",
     coords: [30.932, -29.988],
     name: { de: "Toyota-Werk Prospecton", hu: "Toyota prospectoni gyára", ro: "Fabrica Toyota Prospecton", en: "Toyota Prospecton Plant"},
-    image: "/poi-images/toyota-prospecton-plant-economic-v2.webp",
     description: { de: "Toyotas riesiges Montagewerk, in dem der Hilux, der Fortuner und andere Modelle für Afrika und Europa hergestellt werden.", hu: "A Toyota hatalmas összeszerelő üzeme, ahol a Hilux, a Fortuner és egyéb modellek készülnek afrikai és európai piacokra.", ro: "Facilitatea masivă de asamblare a Toyota care produce Hilux, Fortuner și alte modele pentru Africa și Europa.", en: "Toyota's massive assembly facility producing the Hilux, Fortuner, and other models for Africa and Europe." , es: "La enorme planta de montaje de Toyota donde se fabrican el Hilux, el Fortuner y otros modelos para África y Europa.", pt: "A enorme fábrica de montagem da Toyota onde são produzidos o Hilux, o Fortuner e outros modelos para a África e a Europa.", fr: "L'immense usine d'assemblage Toyota où sont fabriqués le Hilux, le Fortuner et d'autres modèles pour l'Afrique et l'Europe."},
     facts: {
       de: ["Erlitt während der Überschwemmungen in KwaZulu-Natal 2022 erhebliche Schäden, erholte sich aber vollständig.", "Eines der Automobilwerke mit dem höchsten Produktionsvolumen auf dem Kontinent."],
@@ -3977,7 +3958,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-EC",
     coords: [27.892, -33.031],
     name: { de: "Mercedes-Benz-Werk East London", hu: "Mercedes-Benz East London-i gyára", ro: "Fabrica Mercedes-Benz East London", en: "Mercedes-Benz Plant East London"},
-    image: "/poi-images/mercedes-east-london-plant-economic-v2.webp",
     description: { de: "Ein erstklassiges Automobilwerk, das für die Produktion der Mercedes-Benz C-Klasse verantwortlich ist.", hu: "Kiváló minőségű autógyár, amely a Mercedes-Benz C-osztály gyártásáért felel.", ro: "O fabrică auto de prim rang responsabilă pentru fabricarea Mercedes-Benz Clasa C.", en: "A premier automotive plant responsible for manufacturing the Mercedes-Benz C-Class." , es: "Una planta automotriz de primera clase responsable de la producción de la Clase C de Mercedes-Benz.", pt: "Uma fábrica automóvel de primeira classe responsável pela produção do Classe C da Mercedes-Benz.", fr: "Une usine automobile de premier ordre responsable de la production de la Classe C de Mercedes-Benz."},
     facts: {
       de: ["Zählte in Bezug auf die Qualität durchweg zu den weltbesten Mercedes-Benz-Werken.", "Bietet in der Region Ostkap eine beträchtliche Anzahl von Arbeitsplätzen."],
@@ -4166,7 +4146,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-WC",
     coords: [18.431, -33.676],
     name: { de: "Koeberg-Kernkraftwerk", hu: "Koeberg atomerőmű", ro: "Centrala nucleară Koeberg", en: "Koeberg Nuclear Power Station"},
-    image: "/poi-images/koeberg-nuclear-power-station-economic-v2.webp",
     description: { de: "Das einzige kommerzielle Kernkraftwerk in Afrika, das einen Großteil des Stroms für das Westkap liefert.", hu: "Afrika egyetlen kereskedelmi atomerőműve, amely a Nyugat-Fokföld villamosenergia-ellátásának jelentős részét biztosítja.", ro: "Singura centrală nucleară comercială din Africa, furnizând o mare parte din energia electrică pentru Western Cape.", en: "The only commercial nuclear power station in Africa, supplying a large portion of the Western Cape's electricity." , es: "La única central nuclear comercial en África, que suministra una gran parte de la electricidad para el Cabo Occidental.", pt: "A única central nuclear comercial em África, que fornece uma grande parte da eletricidade para o Cabo Ocidental.", fr: "La seule centrale nucléaire commerciale en Afrique, qui fournit une grande partie de l'électricité pour le Cap-Occidental."},
     facts: {
       de: ["Liegt an der Atlantikküste und nutzt Meerwasser zur Kühlung.", "Verfügt über zwei Druckwasserreaktoren."],
@@ -4319,7 +4298,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-NW",
     coords: [27.262, -25.669],
     name: { de: "Anglo-American-Platinmine", hu: "Anglo American platinabánya", ro: "Mina de platină Anglo American", en: "Anglo American Platinum Mine"},
-    image: "/poi-images/anglo-american-platinum-rustenburg-economic-v2.webp",
     description: { de: "Als Teil des Bushveld-Komplexes leistet diese Anlage einen wesentlichen Beitrag zur weltweiten Versorgung mit Platingruppenmetallen.", hu: "A Bushveld-komplexum részeként ez a létesítmény jelentősen hozzájárul a világ platinafém-ellátásához.", ro: "Parte a complexului Bushveld, această facilitate este un contributor major la aprovizionarea mondială cu metale din grupa platinei.", en: "Part of the Bushveld Complex, this facility is a major contributor to the world's platinum group metals supply." , es: "Como parte del complejo Bushveld, esta planta hace una contribución esencial al suministro mundial de metales del grupo del platino.", pt: "Como parte do complexo Bushveld, esta instalação contribui de forma essencial para o fornecimento mundial de metais do grupo da platina.", fr: "En tant que partie du complexe du Bushveld, cette installation apporte une contribution essentielle à l'approvisionnement mondial en métaux du groupe du platine."},
     facts: {
       de: ["Platin ist für Katalysatoren in der Automobilindustrie unverzichtbar.", "Der Bushveld-Komplex birgt den Großteil der weltweit bekannten Platinreserven."],
@@ -4400,7 +4378,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-NW",
     coords: [27.227, -25.541],
     name: { de: "Impala-Platinmine", hu: "Impala platinabánya", ro: "Mina de platină Impala", en: "Impala Platinum Mine"},
-    image: "/poi-images/impala-platinum-mine-economic-v2.webp",
     description: { de: "Einer der weltweit führenden Betriebe für Platingruppenmetalle in der Nähe von Rustenburg.", hu: "A világ egyik első számú platinafém-kitermelő üzeme, amely Rustenburg közelében található.", ro: "Una dintre principalele operațiuni de metale din grupa platinei la nivel global, situată lângă Rustenburg.", en: "One of the premier platinum group metals operations globally, situated near Rustenburg." , es: "Una de las operaciones líderes en el mundo para metales del grupo del platino cerca de Rustenburg.", pt: "Uma das operações líderes mundiais em metais do grupo da platina perto de Rustenburg.", fr: "L'une des principales opérations au monde pour les métaux du groupe du platine près de Rustenburg."},
     facts: {
       de: ["Verfügt über einen massiven untertägigen Fußabdruck mit mehreren Schachtsystemen.", "Beschäftigt Zehntausende von Arbeitern in der Region."],
@@ -4517,7 +4494,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     parent: "ZA-LP",
     coords: [31.111, -24.004],
     name: { de: "Foskor-Phosphatwerk", hu: "Foskor foszfátüzem", ro: "Uzina de fosfați Foskor", en: "Foskor Phosphate Plant"},
-    image: "/poi-images/foskor-phalaborwa-economic-v2.webp",
     description: { de: "Ein bedeutender Produzent von Rohphosphat und Phosphorsäure, die für landwirtschaftliche Düngemittel unerlässlich sind.", hu: "A mezőgazdasági műtrágyákhoz nélkülözhetetlen foszfátkőzet és foszforsav egyik fő termelője.", ro: "Un producător major de rocă fosfatică și acid fosforic, esențiale pentru îngrășămintele agricole.", en: "A major producer of phosphate rock and phosphoric acid, essential for agricultural fertilizers." , es: "Un importante productor de fosfato crudo y ácido fosfórico, esenciales para los fertilizantes agrícolas.", pt: "Um importante produtor de fosfato bruto e ácido fosfórico, essenciais para fertilizantes agrícolas.", fr: "Un producteur important de phosphate brut et d'acide phosphorique, essentiels aux engrais agricoles."},
     facts: {
       de: ["Exportiert hochwertige Phosphorsäure weltweit.", "Arbeitet mit den benachbarten Kupferbergbaubetrieben zusammen."],

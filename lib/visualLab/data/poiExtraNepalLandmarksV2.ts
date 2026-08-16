@@ -197,7 +197,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     parent: "NP-P1",
     coords: [86.8528, 28.0026],
     name: { de: "Everest-Basislager", hu: "Mount Everest alaptábor", ro: "Tabăra de bază Everest", en: "Everest Base Camp"},
-    image: "/poi-images/np-everest-base-camp-landmarks-v2.webp",
     description: {
       de: "Das südliche Basislager des Mount Everest liegt auf einer Höhe von 5.364 Metern und dient Bergsteigern als Akklimatisierungsstation.",
       hu: "A Mount Everest déli alaptábora 5364 méteres magasságban található, és az alpinisták akklimatizációs állomásaként szolgál.",
@@ -465,7 +464,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     parent: "NP-GA",
     coords: [83.9442, 28.1994],
     name: { de: "Weltfriedenspagode", hu: "Világbéke pagoda", ro: "Pagoda Păcii Mondiale", en: "World Peace Pagoda"},
-    image: "/poi-images/np-shanti-stupa-pokhara-landmarks-v2.webp",
     description: {
       de: "Dieses buddhistische Monument auf dem Anadu-Hügel oberhalb des Phewa-Sees wurde von japanischen Mönchen der Nipponzan-Myōhōji-Gemeinschaft erbaut.",
       hu: "Ezt a Phewa-tó feletti Anadu-dombon álló buddhista emlékművet a japán Nipponzan-Mjóhódzsi közösség szerzetesei építették.",
@@ -1561,7 +1559,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     parent: "NP-BA",
     coords: [85.3621, 27.7428],
     name: { de: "Kopan-Kloster", hu: "Kopan kolostor", ro: "Mănăstirea Kopan", en: "Kopan Monastery"},
-    image: "/poi-images/np-kopan-monastery-landmarks-v2.webp",
     description: {
       de: "Ein tibetisch-buddhistisches Kloster am Rande von Kathmandu, das 1969 von den Lamas Thubten Yeshe und Thubten Zopa Rinpoche gegründet wurde.",
       hu: "Egy tibeti buddhista kolostor Katmandu peremén, amelyet 1969-ben alapított Thubten Jese és Thubten Zopa Rinpocse láma.",
@@ -1757,7 +1754,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     parent: "NP-P1",
     coords: [86.7645, 27.8364],
     name: { de: "Kloster Tengboche", hu: "Tengbocse kolostor", ro: "Mănăstirea Tengboche", en: "Tengboche Monastery"},
-    image: "/poi-images/np-tengboche-monastery-landmarks-v2.webp",
     description: {
       de: "Das größte Gompa in der Khumbu-Region von Nepal wurde 1916 von Lama Gulu erbaut und nach Bränden in den Jahren 1934 und 1989 rekonstruiert.",
       hu: "Nepál Khumbu régiójának legnagyobb gompáját 1916-ban építette Láma Gulu, majd az 1934-es és 1989-es tűzvészek után újjáépítették.",
@@ -2421,7 +2417,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     parent: "NP-BA",
     coords: [85.2597, 27.6190],
     name: { de: "Dakshinkali-Tempel", hu: "Dakshinkali-templom", ro: "Templul Dakshinkali", en: "Dakshinkali Temple"},
-    image: "/poi-images/np-dakshinkali-temple-landmarks-v2.webp",
     description: {
       de: "Dieser Hindu-Tempel südlich von Kathmandu ist der Göttin Kali geweiht und bekannt für die rituellen Tieropfer, die dienstags und samstags stattfinden.",
       hu: "A Katmandutól délre fekvő, Káli istennőnek szentelt hindu templom a kedden és szombaton zajló rituális állatáldozatokról ismert.",
@@ -2761,7 +2756,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     parent: "NP-GA",
     coords: [84.5847, 27.9042],
     name: { de: "Manakamana-Tempel", hu: "Manakamana-templom", ro: "Templul Manakamana", en: "Manakamana Temple"},
-    image: "/poi-images/np-manakamana-temple-landmarks-v2.webp",
     description: {
       de: "Ein hinduistischer Tempel im Distrikt Gorkha, der der Göttin Bhagwati gewidmet ist. Pilger glauben, dass sie hier Herzenswünsche erfüllt.",
       hu: "Egy hindu templom Gorkha kerületben, amelyet Bhagvati istennőnek szenteltek. A zarándokok úgy holdják, hogy itt teljesülnek a szívbéli kívánságaik.",
@@ -3605,7 +3599,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     parent: "NP-GA",
     coords: [83.9575, 28.2046],
     name: { de: "Tal Barahi-Tempel", hu: "Tal Barahi-templom", ro: "Templul Tal Barahi", en: "Tal Barahi Temple"},
-    image: "/poi-images/np-tal-barahi-temple-landmarks-v2.webp",
     description: {
       de: "Ein zweistöckiger Pagodentempel auf einer kleinen Insel im Phewa-See in Pokhara, der der Schutzgöttin Ajima gewidmet ist.",
       hu: "Egy kétszintes pagoda-templom a Phewa-tó egyik apró szigetén, Pokharában, amelyet Adzsima védőistennőnek szenteltek.",
@@ -4773,7 +4766,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     parent: "NP-GA",
     coords: [83.9856, 28.2323],
     name: { de: "Bindhyabasini-Tempel", hu: "Bindhyabasini-templom", ro: "Templul Bindhyabasini", en: "Bindhyabasini Temple"},
-    image: "/poi-images/np-bindhyabasini-temple-landmarks-v2.webp",
     description: {
       de: "Der älteste Tempel in Pokhara steht auf einem kleinen Hügel im Stadtzentrum und ist der Göttin Bhagwati in ihrer Form als Durga gewidmet.",
       hu: "Pokhara legrégebbi temploma a városközpont egyik kis dombján áll, és Bhagvati istennőnek van szentelve Durga formájában.",
@@ -4816,7 +4808,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     parent: "NP-GA",
     coords: [83.9573, 28.1895],
     name: { de: "Davis-Fälle", hu: "Davis-vízesés", ro: "Cascada Davis", en: "Davis Falls"},
-    image: "/poi-images/np-davis-falls-landmarks-v2.webp",
     description: {
       de: "Ein Wasserfall in Pokhara, bei dem das Wasser in einen unterirdischen Tunnel stürzt, der 500 Meter lang und 30 Meter tief in die Erde reicht.",
       hu: "Egy vízesés Pokharában, ahol a víz egy föld alatti alagútba zuhan, amely 500 méter hosszú és 30 méter mélyen nyúlik a föld alá.",
@@ -5336,7 +5327,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     parent: "NP-GA",
     coords: [83.9555, 28.1887],
     name: { de: "Gupteshwor-Mahadev-Höhle", hu: "Gupteshwor Mahadev-barlang", ro: "Peștera Gupteshwor Mahadev", en: "Gupteshwor Mahadev Cave"},
-    image: "/poi-images/np-gupteshwor-mahadev-cave-landmarks-v2.webp",
     description: {
       de: "Eine tiefe, feuchte Kalksteinhöhle in Pokhara, die direkt gegenüber den Davis-Fällen liegt und einen großen Stalakmiten in Form eines Shiva-Lingams enthält.",
       hu: "Egy mély, nedves mészkőbarlang Pokharában, közvetlenül a Davis-vízeséssel szemben, amely egy nagy, Shiva-lingam alakú sztalagmitot rejt.",
@@ -5748,7 +5738,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     parent: "NP-GA",
     coords: [83.9785, 28.1893],
     name: { de: "Internationales Bergmuseum", hu: "Nemzetközi Hegymászó Múzeum", ro: "Muzeul Internațional al Munților", en: "International Mountain Museum"},
-    image: "/poi-images/np-international-mountain-museum-landmarks-v2.webp",
     description: {
       de: "Ein Museum in Pokhara, das sich der Geschichte des Bergsteigens, den Völkern des Himalayas und der Flora und Fauna der Region widmet.",
       hu: "Egy pokharai múzeum, amely a hegymászás történetének, a Himalája népeinek, valamint a régió növény- és állatvilágának van szentelve.",
@@ -6772,7 +6761,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     parent: "NP-GA",
     coords: [83.9452, 28.2435],
     name: { de: "Aussichtspunkt Sarangkot", hu: "Sarangkot kilátó", ro: "Punctul de belvedere Sarangkot", en: "Sarangkot Viewpoint"},
-    image: "/poi-images/np-sarangkot-viewpoint-landmarks-v2.webp",
     description: {
       de: "Ein berühmter Hügelkamm westlich von Pokhara, der für seine atemberaubenden Sonnenaufgänge über dem Annapurna-Massiv und dem Machapuchare bekannt ist.",
       hu: "Pokharától nyugatra fekvő híres hegygerinc, amely az Annapurna-masszívum és a Macshapucshare feletti lélegzetelállító napfelkeltékről ismert.",
@@ -7364,7 +7352,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     parent: "NP-BA",
     coords: [85.3142, 27.7145],
     name: { de: "Garten der Träume", hu: "Az Álmok Kertje", ro: "Grădina Viselor", en: "Garden of Dreams"},
-    image: "/poi-images/np-garden-of-dreams-landmarks-v2.webp",
     description: {
       de: "Ein neoklassizistischer historischer Garten in Kathmandu, der in den 1920er Jahren von Feldmarschall Kaiser Shamsher Rana erbaut wurde.",
       hu: "Egy neoklasszicista történelmi kert Katmanduban, amelyet az 1920-as években építtetett Kaiser Shamsher Rana tábornagy.",
@@ -7596,7 +7583,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     parent: "NP-BA",
     coords: [85.3184, 27.7150],
     name: { de: "Narayanhiti-Palastmuseum", hu: "Narayanhiti Palotamúzeum", ro: "Muzeul Palatului Narayanhiti", en: "Narayanhiti Palace Museum"},
-    image: "/poi-images/np-narayanhiti-palace-museum-landmarks-v2.webp",
     description: {
       de: "Der ehemalige königliche Palast im Zentrum von Kathmandu, der bis 2008 der Wohnsitz und Arbeitsplatz des Monarchen von Nepal war.",
       hu: "Az egykori királyi palota Katmandu központjában, amely 2008-ig a nepáli uralkodó lakhelye és munkahelye volt.",
@@ -8692,7 +8678,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     parent: "NP-BA",
     coords: [85.3622, 27.7797],
     name: { de: "Budhanilkantha-Tempel", hu: "Budhanilkantha-templom", ro: "Templul Budhanilkantha", en: "Budhanilkantha Temple"},
-    image: "/poi-images/np-budhanilkantha-temple-landmarks-v2.webp",
     description: {
       de: "Ein hinduistischer Freilufttempel am Fuße des Shivapuri-Hügels, der für eine große, aus einem einzigen Basaltblock gehauene Statue des schlafenden Vishnu bekannt ist.",
       hu: "Egy szabadtéri hindu templom a Shivapuri-hegy lábánál, amely egyetlen bazalttömbből kifaragott, alvó Visnut ábrázoló nagy szobráról ismert.",
@@ -9572,7 +9557,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     parent: "NP-BA",
     coords: [85.3122, 27.7088],
     name: { de: "Asan Tole", hu: "Asan Tole", ro: "Asan Tole", en: "Asan Tole"},
-    image: "/poi-images/np-asan-tole-landmarks-v2.webp",
     description: {
       de: "Ein traditioneller Marktplatz im Herzen von Kathmandu, an dem sich sechs Straßen kreuzen und der seit Jahrhunderten ein wichtiges Handelszentrum ist.",
       hu: "Hagyományos piac Katmandu szívében, ahol hat utca keresztezi egymást, és amely évszázadok óta fontos kereskedelmi központ.",
@@ -9768,7 +9752,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     parent: "NP-P1",
     coords: [86.6212, 27.1912],
     name: { de: "Halesi-Mahadev-Höhle", hu: "Halesi Mahadev-barlang", ro: "Peștera Halesi Mahadev", en: "Halesi Mahadev Cave"},
-    image: "/poi-images/np-halesi-mahadev-cave-landmarks-v2.webp",
     description: {
       de: "Ein bedeutender Pilgerort im Osten Nepals für Hindus, Buddhisten und Kirat. Die Höhle wird im Volksmund als das Pashupatinath des Ostens bezeichnet.",
       hu: "Kelet-Nepál jelentős zarándokhelye hinduk, buddhisták és kirátok számára. A barlangot a köznyelvben Kelet Pashupatinathjának nevezik.",
@@ -9856,7 +9839,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     parent: "NP-P1",
     coords: [87.7719, 27.4261],
     name: { de: "Pathibhara-Devi-Tempel", hu: "Pathibhara Devi-templom", ro: "Templul Pathibhara Devi", en: "Pathibhara Devi Temple"},
-    image: "/poi-images/np-pathibhara-devi-temple-landmarks-v2.webp",
     description: {
       de: "Einer der bedeutendsten hinduistischen Tempel Nepals, der auf dem Pathibhara-Hügel in der Taplejung-Region thront.",
       hu: "Nepál egyik legjelentősebb hindu temploma, amely a Pathibhara-hegyen trónol, Taplejung régióban.",
@@ -10520,7 +10502,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     parent: "NP-BA",
     coords: [85.4691, 27.7345],
     name: { de: "Bajrayogini-Tempel", hu: "Badzsrajogini-templom", ro: "Templul Bajrayogini", en: "Bajrayogini Temple"},
-    image: "/poi-images/np-bajrayogini-temple-landmarks-v2.webp",
     description: {
       de: "Ein tantrischer Tempel auf einem Hügel nahe der alten Stadt Sankhu, der der gleichnamigen buddhistischen Göttin gewidmet ist.",
       hu: "Egy tantrikus templom az ősi Sankhu város közelében egy dombon, amelyet a hasonló nevű buddhista istennőnek szenteltek.",

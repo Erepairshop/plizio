@@ -88,8 +88,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-AN",
     type: "mountain",
     name: { de: "Sierra Nevada", hu: "Sierra Nevada", ro: "Sierra Nevada", en: "Sierra Nevada"},
-    image: "/poi-images/spain-sierra-nevada-relief-v2.webp",
-    coords: [-3.3, 37.1],
     coords: [-3.3, 37.1],
     description: {
       de: "Dieses Hochgebirge in Andalusien beherbergt den höchsten Gipfel der Iberischen Halbinsel. Es ist Teil der Betischen Kordillere und ein wichtiges Skigebiet.",
@@ -432,8 +430,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-CT",
     type: "mountain",
     name: { de: "Pyrenäen", hu: "Pireneusok", ro: "Munții Pirinei", en: "Pyrenees"},
-    image: "/poi-images/spain-pyrenees-relief-v2.webp",
-    coords: [0.8, 42.6],
     coords: [0.8, 42.6],
     description: {
       de: "Dieses Grenzgebirge zwischen Spanien und Frankreich erstreckt sich über 430 Kilometer vom Golf von Biskaya bis zum Mittelmeer.",
@@ -479,8 +475,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-MD",
     type: "landmark",
     name: { de: "Meseta Central", hu: "Központi-felföld", ro: "Podișul Central", en: "Meseta Central"},
-    image: "/poi-images/spain-meseta-central-relief-v2.webp",
-    coords: [-3.7, 40.5],
     coords: [-3.7, 40.5],
     description: {
       de: "Die Meseta Central ist eine ausgedehnte Hochebene im Zentrum der Iberischen Halbinsel, die den größten Teil des spanischen Binnenlandes einnimmt.",
@@ -531,8 +525,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-CL",
     type: "mountain",
     name: { de: "Zentralsystem", hu: "Központi-hegységrendszer", ro: "Sistemul Central", en: "Central System"},
-    image: "/poi-images/spain-sistema-central-relief-v2.webp",
-    coords: [-5.2, 40.3],
     coords: [-5.2, 40.3],
     description: {
       de: "Dieses Gebirgssystem durchzieht die Mitte der Iberischen Halbinsel und trennt das Einzugsgebiet des Duero von dem des Tajo.",
@@ -659,8 +651,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-AR",
     type: "mountain",
     name: { de: "Iberisches Gebirge", hu: "Ibériai-hegység", ro: "Sistemul Iberic", en: "Iberian System"},
-    image: "/poi-images/spain-sistema-iberico-relief-v2.webp",
-    coords: [-1.8, 41.1],
     coords: [-1.8, 41.1],
     description: {
       de: "Ein weitläufiges Gebirgssystem im Osten Spaniens, das den Rand der Meseta Central bildet und die Wasserscheide zwischen Atlantik und Mittelmeer darstellt.",
@@ -895,8 +885,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-CL",
     type: "mountain",
     name: { de: "Kantabrisches Gebirge", hu: "Kantábriai-hegység", ro: "Munții Cantabrici", en: "Cantabrian Mountains"},
-    image: "/poi-images/spain-cordillera-cantabrica-relief-v2.webp",
-    coords: [-5.0, 43.0],
     coords: [-5.0, 43.0],
     description: {
       de: "Dieses Gebirge verläuft parallel zur nordspanischen Küste und bildet die Barriere zwischen dem feuchten 'Grünen Spanien' und der trockenen Hochebene.",
@@ -942,8 +930,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-AN",
     type: "mountain",
     name: { de: "Sierra Morena", hu: "Sierra Morena", ro: "Sierra Morena", en: "Sierra Morena"},
-    image: "/poi-images/spain-sierra-morena-relief-v2.webp",
-    coords: [-4.5, 38.3],
     coords: [-4.5, 38.3],
     description: {
       de: "Die Sierra Morena ist ein Mittelgebirge, das die natürliche Grenze zwischen der Meseta Central und dem Tal des Guadalquivir in Andalusien bildet.",
@@ -989,8 +975,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-AR",
     type: "valley",
     name: { de: "Ebro-Becken", hu: "Ebro-medence", ro: "Depresiunea Ebrului", en: "Ebro Basin"},
-    image: "/poi-images/spain-depresion-del-ebro-relief-v2.webp",
-    coords: [-0.8, 41.6],
     coords: [-0.8, 41.6],
     description: {
       de: "Dieses große dreieckige Tiefland im Nordosten Spaniens wird von den Pyrenäen, dem Iberischen Gebirge und dem Katalanischen Küstengebirge begrenzt.",
@@ -1031,7 +1015,6 @@ export const spainReliefV2: POI[] = [
     type: "valley",
     name: { de: "Guadalquivir-Becken", hu: "Guadalquivir-medence", ro: "Depresiunea Guadalquivir", en: "Guadalquivir Basin"},
     image: "/poi-images/spain-depresion-del-guadalquivir-relief-v2.webp",
-    coords: [-6.0, 37.4],
     coords: [-6.0, 37.4],
     description: {
       de: "Ein weites Tiefland im Südwesten Spaniens, das sich zwischen der Sierra Morena und der Betischen Kordillere zum Atlantik hin öffnet.",
@@ -1265,8 +1248,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-CL",
     type: "mountain",
     name: { de: "Sierra de Gredos", hu: "Sierra de Gredos", ro: "Sierra de Gredos", en: "Sierra de Gredos"},
-    image: "/poi-images/spain-sierra-de-gredos-relief-v2.webp",
-    coords: [-5.25, 40.25],
     coords: [-5.25, 40.25],
     description: {
       de: "Die Sierra de Gredos ist das höchste und beeindruckendste Teilmassiv des Zentralsystems im Westen Spaniens.",
@@ -1312,8 +1293,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-IB",
     type: "mountain",
     name: { de: "Sierra de Tramuntana", hu: "Sierra de Tramuntana", ro: "Sierra de Tramuntana", en: "Sierra de Tramuntana"},
-    image: "/poi-images/spain-sierra-de-tramuntana-relief-v2.webp",
-    coords: [2.8, 39.8],
     coords: [2.8, 39.8],
     description: {
       de: "Dieses Gebirge bildet das Rückgrat der Insel Mallorca und erstreckt sich entlang der gesamten Nordwestküste.",
@@ -1440,8 +1419,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-AR",
     type: "peak",
     name: { de: "Moncayo", hu: "Moncayo", ro: "Moncayo", en: "Moncayo"},
-    image: "/poi-images/spain-moncayo-relief-v2.webp",
-    coords: [-1.83, 41.78],
     coords: [-1.83, 41.78],
     description: {
       de: "Der Moncayo ist das höchste Massiv des Iberischen Gebirges und ragt isoliert über die Ebro-Ebene und die kastilische Meseta hinaus.",
@@ -1492,8 +1469,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-AN",
     type: "landmark",
     name: { de: "Cabo de Gata", hu: "Cabo de Gata", ro: "Cabo de Gata", en: "Cabo de Gata"},
-    image: "/poi-images/spain-cabo-de-gata-relief-v2.webp",
-    coords: [-2.2, 36.72],
     coords: [-2.2, 36.72],
     description: {
       de: "Ein Kap vulkanischen Ursprungs in Südostspanien, das für seine markanten geologischen Formationen und unberührten Küsten bekannt ist.",
@@ -1836,8 +1811,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-AN",
     type: "mountain",
     name: { de: "Sierra de Cazorla", hu: "Sierra de Cazorla", ro: "Sierra de Cazorla", en: "Sierra de Cazorla"},
-    image: "/poi-images/spain-sierra-de-cazorla-relief-v2.webp",
-    coords: [-2.9, 37.9],
     coords: [-2.9, 37.9],
     description: {
       de: "Dieses ausgedehnte Gebirge in der Provinz Jaén ist Teil des Präbetischen Systems und beherbergt das größte Naturschutzgebiet Spaniens.",
@@ -2000,8 +1973,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-CM",
     type: "mountain",
     name: { de: "Berge von Toledo", hu: "Toledói-hegyek", ro: "Munții Toledo", en: "Mountains of Toledo"},
-    image: "/poi-images/spain-montes-de-toledo-relief-v2.webp",
-    coords: [-4.5, 39.5],
     coords: [-4.5, 39.5],
     description: {
       de: "Dieses Mittelgebirge liegt im Herzen der Meseta Central und trennt die Einzugsgebiete von Tajo und Guadiana.",
@@ -2236,8 +2207,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-CL",
     type: "mountain",
     name: { de: "Sierra de Urbión", hu: "Sierra de Urbión", ro: "Sierra de Urbión", en: "Sierra de Urbión"},
-    image: "/poi-images/spain-sierra-de-urbion-relief-v2.webp",
-    coords: [-2.85, 42.0],
     coords: [-2.85, 42.0],
     description: {
       de: "Ein Gebirgsmassiv im Iberischen Gebirge, das für seine gletschergeformten Lagunen und als Quellgebiet des Douro bekannt ist.",
@@ -2436,8 +2405,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-MD",
     type: "peak",
     name: { de: "Peñalara", hu: "Peñalara", ro: "Peñalara", en: "Peñalara"},
-    image: "/poi-images/spain-peñalara-relief-v2.webp",
-    coords: [-3.955, 40.851],
     coords: [-3.955, 40.851],
     description: {
       de: "Die Peñalara ist der höchste Gipfel der Sierra de Guadarrama und ein bedeutendes Beispiel für Hochgebirgsökosysteme in Zentralspanien.",
@@ -2564,8 +2531,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-CL",
     type: "mountain",
     name: { de: "Berge von León", hu: "Leóni-hegyek", ro: "Munții Leónului", en: "Mountains of León"},
-    image: "/poi-images/spain-montes-de-leon-relief-v2.webp",
-    coords: [-6.5, 42.4],
     coords: [-6.5, 42.4],
     description: {
       de: "Dieses Gebirge im Nordwesten Spaniens verbindet das Kantabrische Gebirge mit dem Zentralsystem und umschließt das El Bierzo-Becken.",
@@ -2800,8 +2765,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-AR",
     type: "peak",
     name: { de: "Pico Aneto", hu: "Pico Aneto", ro: "Vârful Aneto", en: "Pico Aneto"},
-    image: "/poi-images/spain-aneto-relief-v2.webp",
-    coords: [0.657, 42.632],
     coords: [0.657, 42.632],
     description: {
       de: "Der Pico Aneto ist der höchste Gipfel der Pyrenäen und beherbergt den größten Gletscher dieses Gebirges.",
@@ -3000,8 +2963,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-CL",
     type: "peak",
     name: { de: "Torre de Cerredo", hu: "Torre de Cerredo", ro: "Torre de Cerredo", en: "Torre de Cerredo"},
-    image: "/poi-images/spain-torre-de-cerredo-relief-v2.webp",
-    coords: [-4.851, 43.198],
     coords: [-4.851, 43.198],
     description: {
       de: "Der höchste Gipfel des Kantabrischen Gebirges, gelegen in den Picos de Europa an der Grenze zwischen Asturien und León.",
@@ -3308,8 +3269,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-CL",
     type: "peak",
     name: { de: "Pico Almanzor", hu: "Pico Almanzor", ro: "Pico Almanzor", en: "Pico Almanzor"},
-    image: "/poi-images/spain-pico-almanzor-relief-v2.webp",
-    coords: [-5.298, 40.246],
     coords: [-5.298, 40.246],
     description: {
       de: "Dieser markante Granitgipfel ist die höchste Erhebung im Zentralsystem und befindet sich in der Sierra de Gredos.",
@@ -3436,8 +3395,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-AN",
     type: "mountain",
     name: { de: "Sierra Mágina", hu: "Sierra Mágina", ro: "Sierra Mágina", en: "Sierra Mágina"},
-    image: "/poi-images/spain-sierra-magina-relief-v2.webp",
-    coords: [-3.45, 37.7],
     coords: [-3.45, 37.7],
     description: {
       de: "Ein Gebirgsmassiv im Subbetischen System in der Provinz Jaén, bekannt für seine steilen Kalksteinhänge und Olivenhaine.",
@@ -3483,8 +3440,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-RI",
     type: "mountain",
     name: { de: "Sierra de la Demanda", hu: "Sierra de la Demanda", ro: "Sierra de la Demanda", en: "Sierra de la Demanda"},
-    image: "/poi-images/spain-sierra-de-la-demanda-relief-v2.webp",
-    coords: [-3.1, 42.2],
     coords: [-3.1, 42.2],
     description: {
       de: "Dieses Massiv im Nordwesten des Iberischen Gebirges beherbergt einige der höchsten Gipfel der Region La Rioja.",
@@ -3954,7 +3909,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-CM",
     type: "mountain",
     name: { de: "Serranía de Cuenca", hu: "Serranía de Cuenca", ro: "Serranía de Cuenca", en: "Serranía de Cuenca"},
-    image: "/poi-images/spain-serrania-de-cuenca-relief-v2.webp",
     coords: [-2.0, 40.3],
     description: {
       de: "Ein Gebirgszug im Osten Kastiliens, der für seine spektakulären Karstformationen und tiefen Schluchten bekannt ist. Er bildet einen Teil des Iberischen Systems.",
@@ -4675,7 +4629,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-PV",
     type: "mountain",
     name: { de: "Baskisches Gebirge", hu: "Baszk-hegység", ro: "Munții Basci", en: "Basque Mountains"},
-    image: "/poi-images/spain-montes-vascos-relief-v2.webp",
     coords: [-2.4, 43.1],
     description: {
       de: "Ein Gebirgszug im Norden Spaniens, der den Übergang zwischen dem Kantabrischen Gebirge und den Pyrenäen bildet. Die Gipfel sind oft in Nebel gehüllt.",
@@ -4982,7 +4935,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-AR",
     type: "mountain",
     name: { de: "Sierra de Albarracín", hu: "Sierra de Albarracín", ro: "Sierra de Albarracín", en: "Sierra de Albarracín"},
-    image: "/poi-images/spain-sierra-de-albarracin-relief-v2.webp",
     coords: [-1.6, 40.4],
     description: {
       de: "Ein Hochlandmassiv in der Region Aragonien, das Teil des südwestlichen Iberischen Systems ist. Es ist bekannt für sein raues Klima und dichte Kiefernwälder.",
@@ -5028,7 +4980,6 @@ export const spainReliefV2: POI[] = [
     parent: "ES-AN",
     type: "mountain",
     name: { de: "Serranía de Ronda", hu: "Serranía de Ronda", ro: "Serranía de Ronda", en: "Serranía de Ronda"},
-    image: "/poi-images/spain-serrania-de-ronda-relief-v2.webp",
     coords: [-5.1, 36.7],
     description: {
       de: "Eine zerklüftete Gebirgsregion in den Betischen Kordilleren Andalusiens. Sie ist berühmt für ihre steilen Abgründe und die typischen weißen Dörfer.",

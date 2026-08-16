@@ -184,7 +184,6 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       pt: ["Mais de 450 animais alojados permanentemente", "Representação de cerca de 75 espécies", "Localizado no município de Macouria", "Característica especial: Passarela pelas copas das árvores", "Foco em espécies endémicas amazónicas", "Centro de resgate para fauna selvagem ferida"],
       fr: ["Plus de 450 animaux logés en permanence", "Représentation d'environ 75 espèces animales", "Situé sur la commune de Macouria", "Particularité : Un sentier de la canopée", "Focus sur les espèces endémiques amazoniennes", "Centre de sauvetage pour les animaux sauvages blessés"],
     }, },
-    image: "/poi-images/gf-zoo-de-guyane.webp",
     description: {
       de: "Der Zoo in Macouria beheimatet Hunderte heimischer Tierarten des Regenwaldes, darunter Jaguare, Faultiere und Aras.",
       hu: "A Macouriában található állatkert az esőerdő több száz őshonos állatfajának, köztük jaguároknak és lajhároknak ad otthont.",
@@ -279,7 +278,6 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       pt: ["Utilização como colónia penal: 1852 a 1875", "Introdução dos macacos na década de 1980", "Única ilha com macacos-esquilo em liberdade", "Acessibilidade apenas por via marítima", "Trilho circular de cerca de 3,5 quilómetros", "Ruínas históricas do presídio"],
       fr: ["Utilisation comme bagne : 1852 à 1875", "Introduction des singes dans les années 1980", "Seule île avec des saïmiris en liberté", "Accessibilité uniquement par voie maritime", "Sentier de randonnée circulaire d'environ 3,5 km", "Ruines historiques du pénitencier"],
     }, },
-    image: "/poi-images/gf-ilet-la-mere.webp",
     description: {
       de: "Eine kleine Insel vor der Küste, die für ihre frei lebenden Totenkopfaffen bekannt ist, die oft Besucher begrüßen.",
       hu: "Egy apró sziget a partoknál, amely szabadon élő mókusmajmokról ismert, akik gyakran üdvözlik a látogatókat.",
@@ -329,7 +327,6 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       pt: ["Fundação oficial: 1998", "Área total: 14.800 hectares", "Local de nidificação mais importante da tartaruga-de-couro", "Estatuto de zona húmida Ramsar", "Época principal de reprodução de março a agosto", "Lar dos indígenas Kali'na"],
       fr: ["Fondation officielle : 1998", "Superficie totale : 14 800 hectares", "Principal site de nidification de la tortue luth", "Statut de zone humide d'importance internationale (Ramsar)", "Période de nidification de mars à août", "Terre des autochtones Kali'na"],
     }, },
-    image: "/poi-images/gf-reserve-amana.webp",
     description: {
       de: "Ein weitläufiges Küstenschutzgebiet, das Feuchtgebiete und Strände umfasst und als wichtiger Brutplatz für Vögel dient.",
       hu: "Kiterjedt partvidéki védett terület, amely vizes élőhelyeket és strandokat foglal magában, és madarak fészkelőhelye.",
@@ -496,7 +493,6 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       pt: ["Fundação por iniciativa privada: 1997", "Área: aprox. 2.464 hectares", "Localização no maciço montanhoso de Kaw", "Diversidade de rãs dardo (Dendrobates)", "Trilhos educativos botânicos bem desenvolvidos", "Proteção da floresta tropical primária"],
       fr: ["Fondation sur initiative privée : 1997", "Superficie : environ 2 464 hectares", "Emplacement sur le massif montagneux de Kaw", "Diversité de grenouilles dendrobates", "Sentiers botaniques pédagogiques bien aménagés", "Protection de la forêt tropicale primaire"],
     }, },
-    image: "/poi-images/gf-reserve-tresor.webp",
     description: {
       de: "Ein regionales Naturschutzgebiet, das ein reichhaltiges Tropenwaldökosystem mit einem Lehrpfad für Schulklassen bietet.",
       hu: "Regionális természetvédelmi terület, amely gazdag trópusi erdei ökoszisztémát és oktatóösvényt kínál iskolásoknak.",
@@ -843,7 +839,6 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       pt: ["Fundação da aldeia em 1977", "Comunidade de colonos Hmong do Laos", "Mercado semanal todos os domingos", "Principal fornecedor de frutas e vegetais", "Conhecido pela tradicional sopa Hmong", "Localização nas margens do rio Comté"],
       fr: ["Fondation du village en 1977", "Communauté de colons Hmong du Laos", "Marché hebdomadaire chaque dimanche", "Principal fournisseur de fruits et légumes", "Connu pour la soupe traditionnelle Hmong", "Situation au bord de la rivière Comté"],
     }, },
-    image: "/poi-images/gf-hmong-farm-cacao.webp",
     description: {
       de: "Eine von Hmong-Flüchtlingen gegründete landwirtschaftliche Siedlung, die heute den größten Teil des Gemüses für das Land produziert.",
       hu: "Hmong menekültek által alapított mezőgazdasági település, amely ma az ország zöldségellátásának nagy részét adja.",
@@ -1010,7 +1005,6 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       pt: ["Localização: Montsinéry-Tonnegrande", "Cultivo de centenas de espécies de orquídeas", "Laboratórios próprios para cultura in vitro", "Foco em orquídeas selvagens da Guiana", "Venda direta e exportação de plantas", "Formação em botânica tropical"],
       fr: ["Localisation : Montsinéry-Tonnegrande", "Culture de centaines d'espèces d'orchidées", "Laboratoires propres pour la culture in vitro", "Focus sur les orchidées sauvages de Guyane", "Vente directe et exportation de plantes", "Formations sur la botanique tropicale"],
     }, },
-    image: "/poi-images/gf-orchideenfarm-montsinery.webp",
     description: {
       de: "Ein spezialisierter landwirtschaftlicher Betrieb in Montsinéry, der seltene und endemische Orchideenarten des Amazonas züchtet.",
       hu: "Egy speciális mezőgazdasági üzem Montsinéryben, amely ritka és endemikus amazonasi orchideafajokat termeszt.",
@@ -1105,7 +1099,6 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       pt: ["Localização no município de Macouria", "Criação de abelhas Melipona sem ferrão", "Produção de mel de floresta certificado", "Produção de própolis e pólen biológicos", "Apicultura pedagógica para turmas escolares", "Gestão sustentável na floresta tropical"],
       fr: ["Emplacement dans la commune de Macouria", "Élevage d'abeilles mélipones sans dard", "Production de miel de forêt certifié", "Fabrication de propolis et de pollen bio", "Apiculture pédagogique pour les classes", "Exploitation durable en forêt tropicale"],
     }, },
-    image: "/poi-images/gf-bienenfarm-macouria.webp",
     description: {
       de: "Eine tropische Imkerei, die einzigartigen Honig aus dem Regenwald produziert und Kindern die Wichtigkeit der Bestäubung zeigt.",
       hu: "Trópusi méhészet, amely különleges esőerdei mézet állít elő, és megtanítja a gyerekeknek a beporzás fontosságát.",
@@ -1272,7 +1265,6 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       pt: ["Localiza-se no cantão de Matoury, cerca de 10 quilómetros a sul de Caiena.", "Especializada na criação do robusto porco crioulo da Guiana.", "Utiliza técnicas tradicionais de cultivo para frutas tropicais como o rambutão.", "Serve como um centro de formação agrícola reconhecido pelo Estado.", "Abriga raças raras de aves locais para conservação genética.", "Oferece módulos educativos sobre a proteção da floresta amazónica adjacente."],
       fr: ["Située dans le canton de Matoury, à environ 10 km au sud de Cayenne.", "Spécialisée dans l'élevage du robuste porc créole guyanais.", "Utilise des techniques traditionnelles pour les fruits tropicaux comme le ramboutan.", "Sert de centre de formation agricole reconnu par l'État.", "Abrite des races locales de volailles rares pour la conservation génétique.", "Propose des modules éducatifs sur la protection de la forêt amazonienne voisine."],
     }, },
-    image: "/poi-images/gf-lernbauernhof-matoury.webp",
     description: {
       de: "Ein speziell für Schulkinder konzipierter Bauernhof in Matoury, auf dem sie Nutztierhaltung und Gemüsegartenbau lernen können.",
       hu: "Kifejezetten iskolásoknak tervezett gazdaság Matouryban, ahol a haszonállatokról és zöldségtermesztésről tanulhatnak.",
@@ -1367,7 +1359,6 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       pt: ["Fundada para reviver a tradição do rum agrícola da Guiana.", "Utiliza exclusivamente sumo de cana acabado de espremer (Rhum Agricole).", "A maturação ocorre frequentemente em barricas de carvalho francês.", "O 'Toucan Blanc' tem um teor alcoólico típico de 50% Vol.", "Vencedor de várias medalhas de ouro no Concours Général Agricole de Paris.", "Localizada perto do histórico Camp de la Transportation."],
       fr: ["Fondée pour faire revivre la tradition du rhum agricole guyanais.", "Utilise exclusivement du jus de canne fraîchement pressé (Rhum Agricole).", "Le vieillissement s'effectue souvent en fûts de chêne français pour des notes complexes.", "Le 'Toucan Blanc' affiche un taux d'alcool typique de 50% Vol.", "Lauréat de plusieurs médailles d'or au Concours Général Agricole de Paris.", "Située à proximité de l'historique Camp de la Transportation."],
     }, },
-    image: "/poi-images/gf-rum-destillerie-toucan.webp",
     description: {
       de: "Ein lokaler Landwirtschaftsbetrieb in Saint-Laurent, der Zuckerrohr anbaut und traditionell zu hochwertigem Rum verarbeitet.",
       hu: "Helyi mezőgazdasági üzem Saint-Laurent-ban, amely cukornádat termeszt és hagyományos módon minőségi rumot készít belőle.",
@@ -1534,7 +1525,6 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       pt: ["Régina situa-se nas margens do rio Approuague, no leste do país.", "A polinização das flores é feita exclusivamente à mão de manhã cedo.", "A baunilha da Guiana caracteriza-se por uma maior concentração de vanilina.", "O processo de fermentação demora entre 3 e 6 meses.", "A fazenda promove a agrossilvicultura para proteger a floresta primária.", "A baunilha já era um bem cultural importante na região no século XIX."],
       fr: ["Régina se situe sur les rives du fleuve Approuague, dans l'est du pays.", "La pollinisation des fleurs de vanille se fait exclusivement à la main tôt le matin.", "La vanille de Guyane se distingue souvent par une concentration plus élevée en vanilline.", "Le processus de fermentation dure entre 3 et 6 mois.", "La plantation encourage l'agroforesterie pour protéger la forêt primaire.", "La vanille était déjà un produit culturel important de la région au XIXe siècle."],
     }, },
-    image: "/poi-images/gf-vanilleplantage-regina.webp",
     description: {
       de: "Eine nachhaltige Plantage nahe Regina, die tief im Wald natürliche Vanille kultiviert, eine der wertvollsten Ernten der Region.",
       hu: "Fenntartható ültetvény Regina közelében, amely az erdő mélyén természetes vaníliát termeszt, a régió egyik legértékesebb terményét.",
@@ -1665,7 +1655,6 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       pt: ["Sinnamary situa-se na costa atlântica, a cerca de 110 km de Caiena.", "Os zebus (Bos indicus) são originários do Sul da Ásia.", "A fazenda utiliza pastoreio rotativo para conservar o solo.", "Os zebus são mais resistentes a doenças tropicais do que as raças europeias.", "A região de Sinnamary é a principal zona de pecuária da Guiana.", "Os rebanhos alimentam-se quase exclusivamente de pastagens naturais da savana."],
       fr: ["Sinnamary se situe sur la côte atlantique, à environ 110 km de Cayenne.", "Les zébus (Bos indicus) sont originaires d'Asie du Sud et tolèrent la chaleur.", "La ferme utilise le pâturage tournant pour préserver les ressources du sol.", "Les zébus sont plus résistants aux maladies tropicales que les races européennes.", "La région de Sinnamary est la principale zone d'élevage bovin de Guyane.", "Les troupeaux se nourrissent presque exclusivement d'herbes naturelles de la savane."],
     }, },
-    image: "/poi-images/gf-zebu-farm-sinnamary.webp",
     description: {
       de: "Eine weitläufige Rinderfarm in den Savannen von Sinnamary, die sich auf hitzeresistente Zebu-Rinder spezialisiert hat.",
       hu: "Kiterjedt szarvasmarha-farm Sinnamary szavannáin, amely hőtűrő zebu marhák tenyésztésére specializálódott.",

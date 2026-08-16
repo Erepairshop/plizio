@@ -201,7 +201,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Tanger Med Kikötő",
       ro: "Portul Tanger Med",
       en: "Tanger Med Port"},
-    image: "/poi-images/ma-tanger-med-port-economic-v2.webp",
     description: {
       de: "Einer der größten und verkehrsreichsten Häfen in Afrika und dem Mittelmeerraum.",
       hu: "Afrika és a Földközi-tenger térségének egyik legnagyobb és legforgalmasabb kikötője.",
@@ -249,7 +248,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Casablanca Kikötője",
       ro: "Portul Casablanca",
       en: "Port of Casablanca"},
-    image: "/poi-images/ma-casablanca-port-economic-v2.webp",
     descriptionAdvanced: {
       de: "Der Hafen von Casablanca ist der historische wirtschaftliche Herzschlag Marokkos und einer der größten künstlichen Häfen der Welt. Er wurde Anfang des 20. Jahrhunderts unter französischer Verwaltung massiv ausgebaut und war der entscheidende Faktor für das Wachstum Casablancas zur größten Metropole des Landes. Der Hafen erstreckt sich über eine Fläche von rund 450 Hektar und verfügt über mehr als 8 Kilometer Kaianlagen. Er ist das wichtigste Tor für den marokkanischen Außenhandel, wobei hier ein Großteil der Importe von Industriegütern und Getreide sowie bedeutende Exporte von Phosphaten und Fertigerzeugnissen abgewickelt werden. Trotz der Konkurrenz durch Tanger Med bleibt Casablanca der führende Hafen für den nationalen Markt und den Containerverkehr im Inland. Der Hafenkomplex beherbergt auch wichtige Werften und einen der bedeutendsten Fischereihäfen Marokkos. In den letzten Jahren wurden umfangreiche Modernisierungsprogramme eingeleitet, um die Logistikprozesse zu digitalisieren und die Anbindung an das Schienen- und Autobahnnetz zu optimieren.",
       hu: "Casablanca kikötője Marokkó történelmi gazdasági motorja és a világ egyik legnagyobb mesterségesen kialakított kikötője. A modern kikötő kiépítése a 20. század elején, a francia protektorátus idején kezdődött, ami meghatározta Casablanca felemelkedését az ország legnagyobb metropoliszává. A kikötő mintegy 450 hektáron terül el, és több mint 8 kilométernyi rakparttal rendelkezik. Ez Marokkó legfontosabb kapuja a külkereskedelem számára, itt halad át az ipari cikkek és a gabonaimport nagy része, valamint jelentős foszfát- és késztermék-export is zajlik. Bár Tanger Med átvette a vezető szerepet a tranzitforgalomban, Casablanca továbbra is az országos piac első számú kiszolgálója és a belföldi konténerforgalom központja. A komplexum fontos hajógyáraknak és az ország egyik legjelentősebb halászkikötőjének is otthont ad. Az elmúlt években nagyszabású modernizációs programok indultak a logisztikai folyamatok digitalizálására és a vasúti, valamint autópályás kapcsolatok fejlesztésére.",
@@ -380,7 +378,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Jorf Lasfar Kikötő",
       ro: "Portul Jorf Lasfar",
       en: "Jorf Lasfar Port"},
-    image: "/poi-images/ma-jorf-lasfar-port-economic-v2.webp",
     description: {
       de: "Ein bedeutender Industriehafen, spezialisiert auf den Export von Phosphaten und Düngemitteln.",
       hu: "Jelentős ipari kikötő, amely foszfátok és műtrágyák exportjára specializálódott.",
@@ -635,7 +632,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Safi Kikötője",
       ro: "Portul Safi",
       en: "Port of Safi"},
-    image: "/poi-images/ma-safi-port-economic-v2.webp",
     description: {
       de: "Ein wichtiger Hafen für die Fischerei und den Export von Mineralien und chemischen Produkten.",
       hu: "Fontos kikötő a halászat, valamint ásványok és vegyi termékek exportja számára.",
@@ -980,7 +976,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Agadir Kikötője",
       ro: "Portul Agadir",
       en: "Port of Agadir"},
-    image: "/poi-images/ma-agadir-port-economic-v2.webp",
     descriptionAdvanced: {
       de: "Der Hafen von Agadir ist das wirtschaftliche Tor zum Souss-Massa-Tal, einer der fruchtbarsten und produktivsten Regionen Marokkos. Er ist ein multifunktionaler Komplex, der einen bedeutenden Fischereihafen, einen Handelshafen und eine Marina für den Tourismus umfasst. Als führender Exporthafen für landwirtschaftliche Erzeugnisse werden von hier aus riesige Mengen an Zitrusfrüchten, Tomaten und Gemüse nach Europa und Russland verschifft. Der Fischereihafen von Agadir gilt als einer der wichtigsten des Landes, insbesondere für den Fang und die Verarbeitung von Kopffüßern und pelagischen Fischen. Nach dem verheerenden Erdbeben von 1960 wurde der Hafen modernisiert und erweitert, um den Wiederaufbau und das Wachstum der Region zu unterstützen. Heute spielt er auch eine wachsende Rolle im Kreuzfahrttourismus, da Agadir ein beliebtes Ziel für internationale Schifffahrtslinien ist. Die kontinuierliche Verbesserung der Infrastruktur zielt darauf ab, die Logistikkosten für die lokalen Exporteure zu senken und die Position Agadirs als maritimer Knotenpunkt im Süden Marokkos zu festigen.",
       hu: "Agadir kikötője a Souss-Massa-völgy gazdasági kapuja, amely Marokkó egyik legtermékenyebb mezőgazdasági régiója. Ez egy multifunkcionális komplexum, amely magában foglal egy jelentős halászkikötőt, egy kereskedelmi kikötőt és egy modern turisztikai jachtkikötőt. Mint az ország első számú mezőgazdasági exportkikötője, innen indulnak útnak a hatalmas mennyiségű citrusfélék, paradicsom és egyéb zöldségek Európa és Oroszország felé. Agadir halászkikötője az egyik legfontosabb az országban, különösen a fejlábúak és a mélytengeri halak feldolgozása tekintetében. Az 1960-as pusztító földrengés után a kikötőt teljesen modernizálták és kibővítették, hogy támogassák a régió újjáépítését és gazdasági növekedését. Napjainkban a kikötő egyre fontosabb szerepet játszik a tengeri turizmusban is, mivel Agadir a nemzetközi skandináv és európai hajótársaságok kedvelt megállóhelye. A folyamatos fejlesztések célja a logisztikai költségek csökkentése és Agadir pozíciójának megerősítése a déli tengeri kereskedelemben.",
@@ -1472,7 +1467,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Nador Kikötője",
       ro: "Portul Nador",
       en: "Port of Nador"},
-    image: "/poi-images/ma-nador-port-economic-v2.webp",
     description: {
       de: "Ein Handelshafen am Mittelmeer, der die Wirtschaftsregion L'Oriental bedient.",
       hu: "Földközi-tengeri kereskedelmi kikötő, amely a L'Oriental gazdasági régiót szolgálja ki.",
@@ -1565,7 +1559,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Laayoune Kikötője",
       ro: "Portul Laâyoune",
       en: "Port of Laayoune"},
-    image: "/poi-images/ma-laayoune-port-economic-v2.webp",
     description: {
       de: "Ein wichtiger Hafen für den Export von Phosphat aus der Mine in Bou Craa und für die Fischerei.",
       hu: "Fontos kikötő a Bou Craa-i bányából származó foszfát exportálására és halászatra.",
@@ -1658,7 +1651,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Dakhla Kikötője",
       ro: "Portul Dakhla",
       en: "Port of Dakhla"},
-    image: "/poi-images/ma-dakhla-port-economic-v2.webp",
     description: {
       de: "Bedeutend für die Fischereiindustrie und zunehmend im Fokus für den Überseehandel.",
       hu: "Jelentős a halászati ipar számára, és egyre inkább a tengerentúli kereskedelem fókuszába kerül.",
@@ -1706,7 +1698,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "OCP Khouribga Foszfátbánya",
       ro: "Mina de fosfat OCP Khouribga",
       en: "OCP Khouribga Phosphate Mine"},
-    image: "/poi-images/ma-ocp-khouribga-economic-v2.webp",
     description: {
       de: "Die weltweit größte Produktionsstätte für Phosphatgestein, zentral für Marokkos Wirtschaft.",
       hu: "A világ legnagyobb foszfátkő-kitermelő helye, központi szerepet játszik Marokkó gazdaságában.",
@@ -1754,7 +1745,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "OCP Benguerir Bánya",
       ro: "Mina OCP Benguerir",
       en: "OCP Benguerir Mine"},
-    image: "/poi-images/ma-ocp-benguerir-economic-v2.webp",
     description: {
       de: "Ein wichtiges Phosphat-Bergwerkszentrum mit direktem Anschluss an industrielle Verarbeitungsanlagen.",
       hu: "Fontos foszfátbányászati központ, amely közvetlen kapcsolatban áll az ipari feldolgozó üzemekkel.",
@@ -1802,7 +1792,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "OCP Jorf Lasfar Ipari Komplexum",
       ro: "Complexul Industrial OCP Jorf Lasfar",
       en: "OCP Jorf Lasfar Industrial Complex"},
-    image: "/poi-images/ma-ocp-jorf-lasfar-economic-v2.webp",
     description: {
       de: "Der weltweit größte Hub zur Herstellung von Phosphatdüngemitteln und Phosphorsäure.",
       hu: "A világ legnagyobb központja a foszfátműtrágyák és a foszforsav gyártására.",
@@ -1850,7 +1839,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Renault-Nissan Tangeri Gyár",
       ro: "Uzina Renault-Nissan Tanger",
       en: "Renault-Nissan Tangier Plant"},
-    image: "/poi-images/ma-renault-tangier-economic-v2.webp",
     description: {
       de: "Eines der größten Automobilwerke in Afrika, das Millionen Fahrzeuge für den Export produziert.",
       hu: "Afrika egyik legnagyobb autógyára, amely több millió járművet állít elő exportra.",
@@ -1943,7 +1931,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Stellantis Kenitra Gyár",
       ro: "Uzina Stellantis Kenitra",
       en: "Stellantis Kenitra Plant"},
-    image: "/poi-images/ma-stellantis-kenitra-economic-v2.webp",
     description: {
       de: "Eine hochmoderne Automobilproduktionsstätte, die Verbrennungs- und Elektrofahrzeuge baut.",
       hu: "Korszerű autógyártó üzem, amely belső égésű és elektromos járműveket egyaránt gyárt.",
@@ -2252,7 +2239,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "SOMACA Autógyár",
       ro: "Uzina Auto SOMACA",
       en: "SOMACA Automotive Plant"},
-    image: "/poi-images/ma-somaca-casablanca-economic-v2.webp",
     description: {
       de: "Die älteste Automobilfabrik in Marokko, die seit langem Modelle für Renault und Dacia montiert.",
       hu: "A legrégebbi marokkói autógyár, amely régóta szerel össze Renault és Dacia modelleket.",
@@ -2345,7 +2331,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Midparc Casablanca Szabadkereskedelmi Övezet",
       ro: "Zona Liberă Midparc Casablanca",
       en: "Midparc Casablanca Free Zone"},
-    image: "/poi-images/ma-midparc-casablanca-economic-v2.webp",
     description: {
       de: "Ein Industriezentrum mit Schwerpunkt auf Luft- und Raumfahrt sowie Elektronik, nahe dem Flughafen.",
       hu: "A repülőtérhez közeli ipari központ, amely a repülőgépiparra és az elektronikára összpontosít.",
@@ -2393,7 +2378,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Tangier Automotive City",
       ro: "Tangier Automotive City",
       en: "Tangier Automotive City"},
-    image: "/poi-images/ma-tangier-automotive-city-economic-v2.webp",
     description: {
       de: "Eine Freihandelszone, die sich der Ansiedlung von Zulieferern der Automobilindustrie widmet.",
       hu: "Szabadkereskedelmi övezet, amely az autóipari beszállítók letelepedésére szolgál.",
@@ -2582,7 +2566,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Agropolis Meknes",
       ro: "Agropolis Meknes",
       en: "Agropolis Meknes"},
-    image: "/poi-images/ma-agropolis-meknes-economic-v2.webp",
     descriptionAdvanced: {
       de: "Agropolis Meknès ist die erste integrierte Industrieplattform Marokkos, die ausschließlich dem Agrar- und Lebensmittelsektor gewidmet ist. Die Zone liegt im Herzen einer der fruchtbarsten Agrarregionen des Landes, der Sais-Ebene, und wurde im Rahmen des Plans Green Morocco (Maroc Vert) entwickelt. Auf einer Fläche von etwa 130 Hektar bietet Agropolis eine umfassende Infrastruktur für die Verarbeitung, Verpackung und Vermarktung landwirtschaftlicher Erzeugnisse wie Olivenöl, Getreide und Milchprodukte. Ein zentrales Element ist der Qualipole, ein Kompetenzzentrum für Qualitätskontrolle und Lebensmittelsicherheit, das Labore und Forschungsstellen beherbergt. Die Zone fördert die Synergie zwischen Landwirtschaft und Industrie, indem sie Landwirten einen direkten Zugang zu modernen Verarbeitungskapazitäten verschafft. Strategisch an der Autobahn A2 gelegen, ermöglicht der Standort einen schnellen Transport der Produkte zu den großen Verbrauchszentren Marokkos sowie zu den Exporthäfen. Agropolis Meknès spielt eine Schlüsselrolle bei der Steigerung der Wertschöpfung in der lokalen Landwirtschaft und trägt zur Ernährungssicherheit und wirtschaftlichen Stabilität der Region Fès-Meknès bei.",
       hu: "Az Agropolis Meknes Marokkó első integrált ipari platformja, amelyet kizárólag az agrár- és élelmiszerszektornak szenteltek. Az övezet az ország egyik legtermékenyebb mezőgazdasági régiójának szívében, a Sais-síkságon található, és a Zöld Marokkó terv (Maroc Vert) keretében jött létre. A mintegy 130 hektáros területen az Agropolis átfogó infrastruktúrát kínál a mezőgazdasági termékek, például az olívaolaj, a gabonafélék és a tejtermékek feldolgozásához, csomagolásához és értékesítéséhez. A projekt központi eleme a Qualipole, egy minőségellenőrzési és élelmiszerbiztonsági kompetenciaközpont, amely laboratóriumoknak és kutatóhelyeknek ad otthont. Az övezet elősegíti a mezőgazdaság és az ipar közötti szinergiát azáltal, hogy a gazdálkodók számára közvetlen hozzáférést biztosít a modern feldolgozási kapacitásokhoz. Az A2-es autópálya mentén fekvő stratégiai elhelyezkedése lehetővé teszi a termékek gyors szállítását Marokkó nagy fogyasztói központjaiba és az exportkikötőkbe. Az Agropolis Meknes kulcsszerepet játszik a helyi mezőgazdaság hozzáadott értékének növelésében, hozzájárulva a Fes-Meknes régió élelmezésbiztonságához és gazdasági stabilitásához.",
@@ -2633,7 +2616,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Haliopolis Agadir",
       ro: "Haliopolis Agadir",
       en: "Haliopolis Agadir"},
-    image: "/poi-images/ma-haliopolis-agadir-economic-v2.webp",
     description: {
       de: "Eine Industriezone, die ausschließlich der Verarbeitung und Verpackung von Meeresfrüchten gewidmet ist.",
       hu: "Kizárólag a tenger gyümölcsei feldolgozására és csomagolására szentelt ipari övezet.",
@@ -2681,7 +2663,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Safi Erőmű",
       ro: "Centrala Electrică Safi",
       en: "Safi Power Plant"},
-    image: "/poi-images/ma-safi-energy-hub-economic-v2.webp",
     description: {
       de: "Ein modernes, hocheffizientes Wärmekraftwerk, das einen erheblichen Teil des marokkanischen Strombedarfs deckt.",
       hu: "Egy modern, nagy hatásfokú hőerőmű, amely a marokkói villamosenergia-igény jelentős részét fedezi.",
@@ -2729,7 +2710,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Tarfaya Szélerőműpark",
       ro: "Parcul Eolian Tarfaya",
       en: "Tarfaya Wind Farm"},
-    image: "/poi-images/ma-tarfaya-wind-farm-economic-v2.webp",
     description: {
       de: "Einer der größten Windparks Afrikas, der saubere Energie für das marokkanische Stromnetz liefert.",
       hu: "Afrika egyik legnagyobb szélerőműparkja, amely tiszta energiát szolgáltat a marokkói elektromos hálózatnak.",
@@ -2822,7 +2802,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Noor Ouarzazate Napenergia Komplexum",
       ro: "Complexul Solar Noor Ouarzazate",
       en: "Noor Ouarzazate Solar Complex"},
-    image: "/poi-images/ma-noor-ouarzazate-economic-v2.webp",
     description: {
       de: "Das größte konzentrierte Solarkraftwerk der Welt, ein Meilenstein für erneuerbare Energien in Marokko.",
       hu: "A világ legnagyobb koncentrált naperőműve, mérföldkő a megújuló energia terén Marokkóban.",
@@ -2870,7 +2849,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Jbel Aouam Bánya",
       ro: "Mina Jbel Aouam",
       en: "Jbel Aouam Mine"},
-    image: "/poi-images/ma-jbel-aouam-mine-economic-v2.webp",
     description: {
       de: "Eine polymetallische Mine in Zentralmarokko, die Blei, Zink und Silber fördert.",
       hu: "Polimetallikus bánya Közép-Marokkóban, amely ólmot, cinket és ezüstöt termel ki.",
@@ -2963,7 +2941,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Imiter Ezüstbánya",
       ro: "Mina de Argint Imiter",
       en: "Imiter Silver Mine"},
-    image: "/poi-images/ma-imiter-silver-mine-economic-v2.webp",
     description: {
       de: "Eine der größten und reinsten Silberminen der Welt, betrieben in der Region Drâa-Tafilalet.",
       hu: "A világ egyik legnagyobb és legtisztább ezüstbányája, a Drâa-Tafilalet régióban.",
@@ -3011,7 +2988,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Bou Azzer Kobaltbánya",
       ro: "Mina de Cobalt Bou Azzer",
       en: "Bou Azzer Cobalt Mine"},
-    image: "/poi-images/ma-bou-azzer-cobalt-mine-economic-v2.webp",
     descriptionAdvanced: {
       de: "Die Mine Bou Azzer im Anti-Atlas-Gebirge ist eine der außergewöhnlichsten Bergbaustätten weltweit, da sie die einzige Mine ist, in der Kobalt als Primärprodukt und nicht als Nebenprodukt der Kupfer- oder Nickelgewinnung abgebaut wird. Die Lagerstätte besteht aus hochwertigem Skutterudit-Erz und wird von der Compagnie de Tifnout Tiranimine (CTT), einer Tochtergesellschaft der Managem-Gruppe, betrieben. Die moderne Ausbeutung begann im Jahr 1928, nachdem die Vorkommen aufgrund ihrer markanten Oberflächenerscheinungen entdeckt worden waren. Kobalt aus Bou Azzer ist aufgrund seiner Reinheit und der ethischen Produktionsstandards auf dem Weltmarkt hochgeschätzt, insbesondere für die Herstellung von Lithium-Ionen-Batterien für Elektrofahrzeuge. Die Mine umfasst mehrere untertägige Abbaubereiche und eine Aufbereitungsanlage vor Ort, die das Erz zu hochwertigen Konzentraten verarbeitet. Gelegen in einer kargen Wüstenlandschaft, ist Bou Azzer ein wichtiger Arbeitgeber und fördert durch Infrastrukturprojekte die Entwicklung der umliegenden Dörfer. Die Mine ist ein Paradebeispiel für Marokkos Rolle als kritischer Rohstofflieferant für die globale grüne Energiewende.",
       hu: "Az Anti-Atlasz-hegységben található Bou Azzer bánya a világ egyik legkülönlegesebb bányászati helyszíne, mivel ez az egyetlen olyan bánya, ahol a kobaltot elsődleges termékként bányásszák, nem pedig a réz- vagy nikkelkitermelés melléktermékeként. A lelőhely kiváló minőségű szkutterudit ércből áll, és a Managem-csoporthoz tartozó Compagnie de Tifnout Tiranimine (CTT) üzemelteti. A modern kitermelés 1928-ban kezdődött, miután a készleteket a feltűnő felszíni jelek alapján felfedezték. A Bou Azzerből származó kobalt tisztasága és az etikus termelési szabványok miatt nagyra értékelt a világpiacon, különösen az elektromos járművek lítium-ion akkumulátorainak gyártásához. A bánya több földalatti fejtési területet és egy helyszíni feldolgozóüzemet foglal magában, amely az ércet kiváló minőségű koncentrátumokká dolgozza fel. A kietlen sivatagi tájon fekvő Bou Azzer fontos munkaadó, és infrastrukturális projektekkel segíti a környező falvak fejlődését. A bánya kiváló példája Marokkó kritikus nyersanyagszállító szerepének a globális zöldenergia-átmenetben.",
@@ -3106,7 +3082,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "OCP Safi Ipari Komplexum",
       ro: "Complexul Industrial OCP Safi",
       en: "OCP Safi Industrial Complex"},
-    image: "/poi-images/ma-ocp-safi-complex-economic-v2.webp",
     description: {
       de: "Ein riesiger chemischer Komplex für die Verarbeitung von Phosphat zu Säuren und Düngemitteln.",
       hu: "Hatalmas vegyipari komplexum a foszfát savakká és műtrágyákká történő feldolgozására.",
@@ -3199,7 +3174,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "LafargeHolcim Settat Cementgyár",
       ro: "Fabrica de Ciment LafargeHolcim Settat",
       en: "LafargeHolcim Settat Cement Plant"},
-    image: "/poi-images/ma-lafargeholcim-settat-economic-v2.webp",
     description: {
       de: "Eine der modernsten Zementfabriken in Afrika, die den Bauboom in der Region Casablanca unterstützt.",
       hu: "Afrika egyik legmodernebb cementgyára, amely a casablancai régió építőipari boomját támogatja.",
@@ -3484,7 +3458,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: "Maroc Phosphore Vegyiművek",
       ro: "Uzina Chimică Maroc Phosphore",
       en: "Maroc Phosphore Chemical Plant"},
-    image: "/poi-images/ma-maroc-phosphore-safi-economic-v2.webp",
     description: {
       de: "Teil des umfassenden Safi-Komplexes zur Umwandlung von Phosphat in hochwertige Dünger.",
       hu: "Az átfogó szafi-komplexum része, amely a foszfátot kiváló minőségű műtrágyákká alakítja.",

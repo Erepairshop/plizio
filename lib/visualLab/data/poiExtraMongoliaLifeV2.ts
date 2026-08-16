@@ -165,7 +165,6 @@ export const poiExtraMongoliaLifeV2: POI[] = [
       hu: "Ikh Nart Természetvédelmi Terület",
       ro: "Rezervația Naturală Ikh Nart",
       en: "Ikh Nart Nature Reserve"},
-    image: "/poi-images/mn-ikh-nart-life-v2.webp",
     description: {
       de: "Ein geschütztes Gebiet, das für seine zerklüfteten Felsen und als wichtiger Lebensraum für die bedrohten Argali-Wildschafe und Sibirischen Steinböcke bekannt ist.",
       hu: "Védett terület, amely sziklás vidékéről és a veszélyeztetett argali juhok, valamint szibériai kőszáli kecskék fontos élőhelyeként ismert.",
@@ -225,7 +224,6 @@ export const poiExtraMongoliaLifeV2: POI[] = [
       hu: "Gun-Galuut Természetvédelmi Terület",
       ro: "Rezervația Naturală Gun-Galuut",
       en: "Gun-Galuut Nature Reserve"},
-    image: "/poi-images/mn-gun-galuut-life-v2.webp",
     description: {
       de: "Ein vielfältiges Ökosystem mit Hochgebirgen, Steppen und Seen, das Kranichen, Argali-Schafen und unzähligen Wasservögeln Zuflucht bietet.",
       hu: "Változatos ökoszisztéma hegyekkel, sztyeppékkel és tavakkal, amely darvaknak, argali juhoknak és számtalan vízimadárnak nyújt menedéket.",
@@ -285,7 +283,6 @@ export const poiExtraMongoliaLifeV2: POI[] = [
       hu: "Nagy Góbi A Szigorúan Védett Terület",
       ro: "Rezervația Strictă Gobi A",
       en: "Great Gobi A Strictly Protected Area"},
-    image: "/poi-images/mn-great-gobi-a-life-v2.webp",
     description: {
       de: "Ein riesiges und extrem trockenes Schutzgebiet, das der letzte Zufluchtsort des seltenen Gobi-Bären und des wilden Baktrischen Kamels ist.",
       hu: "Hatalmas és rendkívül száraz védett terület, amely a ritka góbi medve és a vadon élő kétpúpú teve utolsó menedéke.",
@@ -345,7 +342,6 @@ export const poiExtraMongoliaLifeV2: POI[] = [
       hu: "Nagy Góbi B Szigorúan Védett Terület",
       ro: "Rezervația Strictă Gobi B",
       en: "Great Gobi B Strictly Protected Area"},
-    image: "/poi-images/mn-great-gobi-b-life-v2.webp",
     description: {
       de: "Eine weite Halbwüstenregion im Südwesten der Mongolei, die sich der Erhaltung von Takhi-Wildpferden und asiatischen Wildeseln widmet.",
       hu: "Félsivatagos régió Délnyugat-Mongóliában, amelyet a takhi vadlovak és az ázsiai vadszamarak védelmének szenteltek.",
@@ -405,7 +401,6 @@ export const poiExtraMongoliaLifeV2: POI[] = [
       hu: "Mongol Daguur Szigorúan Védett Terület",
       ro: "Aria Protejată Mongol Daguur",
       en: "Mongol Daguur Strictly Protected Area"},
-    image: "/poi-images/mn-mongol-daguur-life-v2.webp",
     description: {
       de: "Ein grenzüberschreitendes Schutzgebiet in der Ostmongolei, geprägt von Feuchtgebieten und Steppen, das für Zugvögel von globaler Bedeutung ist.",
       hu: "Határokon átnyúló védett terület Kelet-Mongóliában, amelyet vizes élőhelyek és sztyeppék jellemeznek, és globális jelentőségű a vándormadarak számára.",
@@ -465,7 +460,6 @@ export const poiExtraMongoliaLifeV2: POI[] = [
       hu: "Dariganga Természetvédelmi Terület",
       ro: "Rezervația Naturală Dariganga",
       en: "Dariganga Nature Reserve"},
-    image: "/poi-images/mn-dariganga-reserve-life-v2.webp",
     description: {
       de: "Ein Gebiet mit Vulkankegeln, Sanddünen und heiligen Seen, das großen Herden der mongolischen Gazelle als Lebensraum dient.",
       hu: "Vulkáni kúpokkal, homokdűnékkel és szent tavakkal tarkított terület, amely a mongol gazella hatalmas csordáinak szolgál élőhelyül.",
@@ -525,7 +519,6 @@ export const poiExtraMongoliaLifeV2: POI[] = [
       hu: "Numrug Szigorúan Védett Terület",
       ro: "Aria Protejată Numrug",
       en: "Numrug Strictly Protected Area"},
-    image: "/poi-images/mn-numrug-reserve-life-v2.webp",
     description: {
       de: "Eine unberührte Taiga- und Steppenlandschaft im äußersten Osten der Mongolei, die Heimat für Elche, Wölfe und den Ussuri-Braunbären ist.",
       hu: "Érintetlen tajga és sztyeppe Mongóliában legkeletibb csücskében, amely jávorszarvasok, farkasok és az usszuri barnamedve otthona.",
@@ -630,7 +623,6 @@ export const poiExtraMongoliaLifeV2: POI[] = [
       hu: "Sharga Természetvédelmi Terület",
       ro: "Rezervația Naturală Sharga",
       en: "Sharga Nature Reserve"},
-    image: "/poi-images/mn-sharga-reserve-life-v2.webp",
     description: {
       de: "Ein Steppenreservat im Westen der Mongolei, das speziell zum Schutz der extrem bedrohten mongolischen Saiga-Antilope eingerichtet wurde.",
       hu: "Sztyeppei rezervátum Nyugat-Mongóliában, amelyet kifejezetten a rendkívül veszélyeztetett mongol szajga antilop védelmére hoztak létre.",
@@ -690,7 +682,6 @@ export const poiExtraMongoliaLifeV2: POI[] = [
       hu: "Lkhachinvandad Természetvédelmi Terület",
       ro: "Rezervația Naturală Lkhachinvandad",
       en: "Lkhachinvandad Nature Reserve"},
-    image: "/poi-images/mn-lkhachinvandad-life-v2.webp",
     description: {
       de: "Ein hügeliges Schutzgebiet im Osten des Landes, das sich der Erhaltung von Gazellen und dem Schutz ihres natürlichen Steppenlebensraums widmet.",
       hu: "Dombos védett terület az ország keleti részén, amely a gazellák védelmének és természetes sztyeppei élőhelyük megőrzésének szenteli magát.",
@@ -750,7 +741,6 @@ export const poiExtraMongoliaLifeV2: POI[] = [
       hu: "Tsaatan Rénszarvas Táborok",
       ro: "Taberele de Reni Tsaatan",
       en: "Tsaatan Reindeer Camps"},
-    image: "/poi-images/mn-tsaatan-camps-life-v2.webp",
     description: {
       de: "In den nördlichen Wäldern der Taiga züchten die nomadischen Tsaatan-Familien Rentiere für Milch, Transport und als spirituelle Begleiter.",
       hu: "A tajga északi erdeiben a nomád tsaatan családok rénszarvasokat tenyésztenek tej, szállítás és spirituális célokból.",
@@ -810,7 +800,6 @@ export const poiExtraMongoliaLifeV2: POI[] = [
       hu: "Uvs Homoktövis Farmok",
       ro: "Ferme de Cătină Uvs",
       en: "Uvs Sea Buckthorn Farms"},
-    image: "/poi-images/mn-uvs-seabuckthorn-life-v2.webp",
     description: {
       de: "Die Provinz Uws ist berühmt für den Anbau des robusten, vitaminreichen Sanddorns, der in dem rauen Klima hervorragend gedeiht und zu Saft und Öl verarbeitet wird.",
       hu: "Az Uvs tartomány híres az ellenálló, vitaminban gazdag homoktövis termesztéséről, amely kiválóan megél a zord éghajlaton, és gyümölcslevet meg olajat készítenek belőle.",
@@ -915,7 +904,6 @@ export const poiExtraMongoliaLifeV2: POI[] = [
       hu: "Darkhan Búzaföldek",
       ro: "Câmpurile de Grâu Darkhan",
       en: "Darkhan Wheat Fields"},
-    image: "/poi-images/mn-darkhan-wheat-life-v2.webp",
     description: {
       de: "Rund um die Stadt Darchan erstrecken sich ausgedehnte landwirtschaftliche Flächen, die das Zentrum der mongolischen Weizen- und Getreideproduktion bilden.",
       hu: "Darkhan város körül kiterjedt mezőgazdasági területek találhatók, amelyek a mongol búza- és gabonatermelés központját alkotják.",
@@ -1020,7 +1008,6 @@ export const poiExtraMongoliaLifeV2: POI[] = [
       hu: "Selenge Mezőgazdasági Terület",
       ro: "Zona Agricolă Selenge",
       en: "Selenge Agricultural Area"},
-    image: "/poi-images/mn-selenge-farms-life-v2.webp",
     description: {
       de: "Das fruchtbare Tal des Flusses Selenge ist das wichtigste Anbaugebiet für Gemüse wie Kartoffeln, Karotten und Kohl in der sonst trockenen Mongolei.",
       hu: "A Selenge folyó termékeny völgye a legfontosabb termesztési terület olyan zöldségek számára, mint a burgonya, sárgarépa és káposzta, az egyébként száraz Mongóliában.",
@@ -1125,7 +1112,6 @@ export const poiExtraMongoliaLifeV2: POI[] = [
       hu: "Khovd Görögdinnyeföldek",
       ro: "Câmpurile de Pepene Verde Khovd",
       en: "Khovd Watermelon Fields"},
-    image: "/poi-images/mn-khovd-watermelon-life-v2.webp",
     description: {
       de: "Dank warmer Sommer und geschickter Bewässerungssysteme kultivieren Bauern in der Provinz Chowd einige der süßesten Wassermelonen Zentralasiens.",
       hu: "A meleg nyaraknak és a zseniális öntözőrendszereknek köszönhetően a Khovd tartomány gazdái Közép-Ázsia legédesebb görögdinnyéit termesztik.",
@@ -1230,7 +1216,6 @@ export const poiExtraMongoliaLifeV2: POI[] = [
       hu: "Góbi Tevetenyészet",
       ro: "Ferma de Cămile Gobi",
       en: "Gobi Camel Breeding"},
-    image: "/poi-images/mn-gobi-camel-farm-life-v2.webp",
     description: {
       de: "In den weiten Ebenen der Ömnögovi-Provinz züchten Nomaden das zweihöckrige Kamel für Wolle, Milch und als robustes Lasttier.",
       hu: "Az Ömnögovi tartomány hatalmas síkságain a nomádok kétpúpú tevéket tenyésztenek gyapjúért, tejért és strapabíró teherhordó állatként.",
@@ -2259,7 +2244,6 @@ export const poiExtraMongoliaLifeV2: POI[] = [
       hu: "Nairamdal Gyermekközpont",
       ro: "Centrul pentru Copii Nairamdal",
       en: "Nairamdal Children's Center"},
-    image: "/poi-images/mn-nairamdal-center-life-v2.webp",
     description: {
       de: "Ein berühmtes internationales Sommerlager nahe Ulaanbaatar, das seit Jahrzehnten Kinder aus aller Welt für Erholung und kulturellen Austausch zusammenbringt.",
       hu: "Híres nemzetközi nyári tábor Ulánbátor közelében, amely évtizedek óta hozza össze a világ minden tájáról érkező gyermekeket kikapcsolódás és kulturális csere céljából.",
@@ -2616,7 +2600,6 @@ export const poiExtraMongoliaLifeV2: POI[] = [
       hu: "Nemzeti Vidámpark",
       ro: "Parcul Național de Distracții",
       en: "National Amusement Park"},
-    image: "/poi-images/mn-national-amusement-park-life-v2.webp",
     description: {
       de: "Der größte Freizeitpark in Ulaanbaatar bietet Fahrgeschäfte, ein Riesenrad und künstliche Seen, was ihn zu einem beliebten Wochenendziel für Familien macht.",
       hu: "Ulánbátor legnagyobb vidámparkja vidámparki játékokat, óriáskereket és mesterséges tavakat kínál, ami miatt a családok kedvelt hétvégi célpontja.",

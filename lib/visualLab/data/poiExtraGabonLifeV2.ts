@@ -31,7 +31,6 @@ export const poiExtraGabonLifeV2: POI[] = [
       pt: ["Abrange uma área de cerca de 12,5 hectares.", "Foi oficialmente mapeado em 2001 por Mike Fay.", "Lar de uma população estável de elefantes da floresta.", "Património Mundial Natural da UNESCO desde o ano de 2021.", "O solo é extremamente rico em sódio e potássio.", "A WCS opera aqui uma estação de pesquisa permanente."],
       fr: ["Couvre une superficie d'environ 12,5 hectares.", "A été officiellement cartographié en 2001 par Mike Fay.", "Abrite une population stable d'éléphants de forêt.", "Patrimoine mondial naturel de l'UNESCO depuis 2021.", "Le sol est extrêmement riche en sodium et en potassium.", "La WCS y exploite une station de recherche permanente."],
     }, },
-    image: "/poi-images/langoue-bai-life-v2.webp",
     description: {
       de: "Eine natürliche Waldlichtung im Ivindo-Nationalpark, die für ihre hohe Konzentration an Waldelefanten und Gorillas bekannt ist.",
       hu: "Természetes erdei tisztás az Ivindo Nemzeti Parkban, amely az erdei elefántok és gorillák magas koncentrációjáról ismert.",
@@ -62,7 +61,6 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: "Moukalaba-Doudou gorilla élőhely",
       ro: "Habitatul gorilelor Moukalaba-Doudou",
       en: "Moukalaba-Doudou Gorilla Habitat"},
-    image: "/poi-images/moukalaba-doudou-gorilla-life-v2.webp",
     description: {
       de: "Ein bedeutendes Schutzgebiet für Primaten, insbesondere für Westliche Flachlandgorillas und Schimpansen im Süden Gabuns.",
       hu: "Jelentős főemlős-védelmi terület, különösen a nyugati síkvidéki gorillák és csimpánzok számára Dél-Gabonban.",
@@ -128,7 +126,6 @@ export const poiExtraGabonLifeV2: POI[] = [
       pt: ["Conhecida pelos únicos hipopótamos 'surfistas' do mundo.", "Parte do Parque Nacional de Loango desde o ano de 2002.", "Abriga baleias-jubarte entre julho e setembro.", "Avistamentos de elefantes diretamente na costa marítima.", "A lagoa de Iguela é um importante local de reprodução de peixes.", "O acesso é feito principalmente por pequenos aviões ou barco."],
       fr: ["Connue pour abriter les seuls hippopotames « surfeurs » au monde.", "Fait partie du parc national de Loango depuis 2002.", "Abrite des baleines à bosse entre juillet et septembre.", "Observations d'éléphants directement sur le littoral marin.", "La lagune d'Iguela est un site de reproduction important pour les poissons.", "L'accès se fait principalement par petit avion ou par bateau."],
     }, },
-    image: "/poi-images/iguela-reserve-life-v2.webp",
     description: {
       de: "Ein küstennahes Reservat, in dem Elefanten und Flusspferde oft am Strand und in den Lagunen zu sehen sind.",
       hu: "Tengerparti rezervátum, ahol az elefántok és vízilovak gyakran láthatók a strandon és a lagúnákban.",
@@ -176,7 +173,6 @@ export const poiExtraGabonLifeV2: POI[] = [
       pt: ["Protege cerca de 25% de todos os mangais do Gabão", "Fundado em setembro de 2002 como parque nacional", "O local de repouso mais importante para aves migratórias na África Central", "Abrange as baías de Mondah e Corisco", "Acolhe uma grande população de flamingos-rosa", "Reconhecido como sítio Ramsar de importância internacional"],
       fr: ["Protège environ 25 % de l'ensemble des mangroves du Gabon", "Créé en septembre 2002 en tant que parc national", "Principal lieu de repos pour les oiseaux migrateurs en Afrique centrale", "Comprend les baies de Mondah et de Corisco", "Abrite une importante population de flamants roses", "Reconnu comme site Ramsar d'importance internationale"],
     }, },
-    image: "/poi-images/akanda-birds-life-v2.webp",
     description: {
       de: "Wichtige Raststätte für Zehntausende von Zugvögeln in den ausgedehnten Mangrovenwäldern nördlich von Libreville.",
       hu: "Fontos pihenőhely költöző madarak tízezrei számára a Libreville-től északra fekvő kiterjedt mangroveerdőkben.",
@@ -205,7 +201,6 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: "Pongara teknőspart",
       ro: "Plaja țestoaselor Pongara",
       en: "Pongara Turtle Beach"},
-    image: "/poi-images/pongara-turtles-life-v2.webp",
     description: {
       de: "Ein entscheidender Nistplatz für Lederschildkröten, die jedes Jahr an die Sandstrände des Pongara-Nationalparks kommen.",
       hu: "A kérgesteknősök döntő fontosságú fészkelőhelye, amelyek minden évben a Pongara Nemzeti Park homokos partjaira érkeznek.",
@@ -253,7 +248,6 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: "Mwagna vadaspark",
       ro: "Parcul de animale Mwagna",
       en: "Mwagna Wilderness"},
-    image: "/poi-images/mwagna-park-life-v2.webp",
     description: {
       de: "Ein abgelegenes Wildnisgebiet im Osten Gabuns, das unberührte Lebensräume für Flachlandgorillas und Waldelefanten bietet.",
       hu: "Elszigetelt vadon Kelet-Gabonban, amely érintetlen élőhelyet biztosít a síkvidéki gorilláknak és erdei elefántoknak.",
@@ -369,7 +363,6 @@ export const poiExtraGabonLifeV2: POI[] = [
       pt: ["Lar das espetaculares quedas de água de Kongou.", "Património Mundial Natural da UNESCO desde o ano de 2021.", "O rio atinge profundidades superiores a 10 metros.", "Abriga o raro peixe-boi da África Ocidental.", "Os hipopótamos vivem aqui em grupos familiares sociais.", "Importante local de desova para mais de 100 espécies de peixes."],
       fr: ["Abrite les spectaculaires chutes de Kongou.", "Patrimoine mondial naturel de l'UNESCO depuis 2021.", "La rivière atteint des profondeurs de plus de 10 mètres.", "Abrite de rares lamantins d'Afrique de l'Ouest.", "Les hippopotames vivent ici en groupes familiaux sociaux.", "Zone de frai importante pour plus de 100 espèces de poissons."],
     }, },
-    image: "/poi-images/ivindo-hippos-life-v2.webp",
     description: {
       de: "Ruhige Abschnitte des Ivindo-Flusses, in denen große Gruppen von Flusspferden den Tag verbringen.",
       hu: "Az Ivindo folyó nyugodt szakaszai, ahol nagy vízilócsoportok töltik a napot.",
@@ -465,7 +458,6 @@ export const poiExtraGabonLifeV2: POI[] = [
       pt: ["O Parque Lékédi estende-se por uma área de cerca de 14.000 hectares.", "O projeto foi iniciado no início da década de 1990 pela empresa COMILOG.", "Bakoumba abriga um dos maiores grupos de mandris em semiliberdade do mundo.", "A ponte suspensa para observação de animais tem mais de 360 metros de comprimento.", "Mais de 30 chimpanzés foram reabilitados e parcialmente reintroduzidos aqui.", "A região de Bakoumba situa-se a uma altitude média de 500 metros acima do nível do mar."],
       fr: ["Le parc de la Lékédi s'étend sur une superficie d'environ 14 000 hectares.", "Le projet a été initié au début des années 1990 par la société COMILOG.", "Bakoumba abrite l'un des plus grands groupes de mandrills vivant en semi-liberté au monde.", "Le pont suspendu pour l'observation des animaux mesure plus de 360 mètres de long.", "Plus de 30 chimpanzés ont été réhabilités et partiellement réintroduits ici.", "La région de Bakoumba se situe à une altitude moyenne de 500 mètres au-dessus du niveau de la mer."],
     }, },
-    image: "/poi-images/bakoumba-primates-life-v2.webp",
     description: {
       de: "Ein Zentrum für den Schutz und die Erforschung von Primaten, insbesondere Mandrills und Gorillas, in der Nähe von Bakoumba.",
       hu: "A főemlősök, különösen a mandrillok és gorillák védelmére és kutatására szolgáló központ Bakoumba közelében.",
@@ -513,7 +505,6 @@ export const poiExtraGabonLifeV2: POI[] = [
       pt: ["As plantações da HEVEGAB foram fundadas oficialmente em 1981.", "Bitam fica a apenas cerca de 30 quilómetros da fronteira com os Camarões.", "Uma única seringueira pode produzir látex por até 25 anos.", "A produção anual de borracha no Gabão ultrapassa frequentemente as 10.000 toneladas.", "Mais de 2.000 hectares de terra estão reservados para a borracha apenas no setor de Bitam.", "A estação das chuvas em Bitam dura de setembro a maio, com breves interrupções."],
       fr: ["Les plantations HEVEGAB ont été officiellement fondées en 1981.", "Bitam se situe à seulement environ 30 kilomètres de la frontière avec le Cameroun.", "Un seul hévéa peut produire du latex pendant 25 ans.", "La production annuelle de caoutchouc au Gabon dépasse souvent les 10 000 tonnes.", "Plus de 2 000 hectares de terres sont réservés au caoutchouc rien que dans le secteur de Bitam.", "La saison des pluies à Bitam dure de septembre à mai avec de courtes interruptions."],
     }, },
-    image: "/poi-images/bitam-rubber-life-v2.webp",
     description: {
       de: "Große Kautschukbaum-Plantagen im Norden Gabuns, die eine wichtige Säule der lokalen Agrarwirtschaft darstellen.",
       hu: "Nagy kaucsukfa-ültetvények Gabon északi részén, amelyek a helyi agrárgazdaság fontos pillérei.",
@@ -542,7 +533,6 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: "Ntoum zöldségkertek",
       ro: "Grădinile de legume din Ntoum",
       en: "Ntoum Market Gardens"},
-    image: "/poi-images/ntoum-vegetables-life-v2.webp",
     description: {
       de: "Die fruchtbaren Gebiete um Ntoum dienen als 'Gemüsegarten' für die nahegelegene Hauptstadt Libreville.",
       hu: "A Ntoum környéki termékeny területek a közeli főváros, Libreville 'konyhakertjeként' szolgálnak.",
@@ -635,7 +625,6 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: "Woleu-Ntem kakaókertek",
       ro: "Grădinile de cacao din Woleu-Ntem",
       en: "Woleu-Ntem Cocoa Gardens"},
-    image: "/poi-images/woleu-ntem-cocoa-life-v2.webp",
     description: {
       de: "Traditionelle kleinbäuerliche Kakaoplantagen in der nördlichsten Provinz, bekannt für hochwertige Bohnen.",
       hu: "Hagyományos kisüzemi kakaóültetvények a legészakibb tartományban, amelyek kiváló minőségű babjaikról ismertek.",
@@ -683,7 +672,6 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: "Ogooué-Lolo kávékertek",
       ro: "Grădinile de cafea din Ogooué-Lolo",
       en: "Ogooué-Lolo Coffee Gardens"},
-    image: "/poi-images/ogooue-lolo-coffee-life-v2.webp",
     description: {
       de: "Hügelige Kaffeeplantagen in der zentralen Region Ogooué-Lolo, die ein kühleres Klima für den Anbau nutzen.",
       hu: "Dombvidéki kávéültetvények Ogooué-Lolo központi régiójában, amelyek a hűvösebb klímát használják ki a termesztéshez.",
@@ -731,7 +719,6 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: "Nyanga állattenyésztő legelők",
       ro: "Pășunile pentru vite din Nyanga",
       en: "Nyanga Cattle Pastures"},
-    image: "/poi-images/nyanga-cattle-life-v2.webp",
     description: {
       de: "Die weiten Savannen der Nyanga-Region sind das Zentrum der Rinderzucht in Gabun.",
       hu: "Nyanga régió tágas szavannái Gabon állattenyésztési központjai.",
@@ -798,7 +785,6 @@ export const poiExtraGabonLifeV2: POI[] = [
       pt: ["Lambaréné situa-se quase exatamente sobre o equador, no centro do Gabão.", "O rio Ogooué tem várias centenas de metros de largura neste ponto.", "O Lago Onangué abrange uma área de cerca de 400 quilómetros quadrados.", "Mais de 50 espécies de peixes diferentes são capturadas nas águas de Lambaréné.", "Tradicionalmente, o peixe é fumado sobre fogo aberto para ser conservado.", "O Hospital Schweitzer foi fundado em 1913 nas margens do Ogooué."],
       fr: ["Lambaréné est située presque exactement sur l'équateur, au centre du Gabon.", "Le fleuve Ogooué mesure plusieurs centaines de mètres de large à cet endroit.", "Le lac Onangué couvre une superficie d'environ 400 kilomètres carrés.", "Plus de 50 espèces de poissons différentes sont pêchées dans les eaux de Lambaréné.", "Le poisson est traditionnellement fumé au-dessus d'un feu ouvert pour le conserver.", "L'hôpital Schweitzer a été fondé en 1913 sur les rives de l'Ogooué."],
     }, },
-    image: "/poi-images/lambarene-fishery-life-v2.webp",
     description: {
       de: "Ein bedeutender Standort für die Binnenfischerei am Ogooué-Fluss und den umliegenden Seen.",
       hu: "A belvízi halászat jelentős helyszíne az Ogooué folyón és a környező tavakon.",
@@ -846,7 +832,6 @@ export const poiExtraGabonLifeV2: POI[] = [
       pt: ["Lebamba situa-se a cerca de 100 quilómetros a sul da capital provincial, Mouila.", "A rizicultura em zonas húmidas requer um nivelamento preciso dos campos.", "Os projetos da SOGADERP começaram a expandir-se massivamente no final da década de 1970.", "Uma colheita por ano é o padrão; com boa irrigação, são possíveis duas.", "O rio Ngounié fornece a água necessária para a irrigação em larga escala.", "Na região, cultivam-se principalmente variedades de arroz de grão longo para o mercado local."],
       fr: ["Lebamba se situe à environ 100 kilomètres au sud de la capitale provinciale, Mouila.", "La riziculture inondée nécessite un nivellement précis des champs.", "Les projets de la SOGADERP ont commencé à s'étendre massivement à la fin des années 1970.", "Une récolte par an est la norme ; avec une bonne irrigation, deux sont possibles.", "La rivière Ngounié fournit l'eau nécessaire à l'irrigation à grande échelle.", "La région cultive principalement des variétés de riz à grains longs pour le marché local."],
     }, },
-    image: "/poi-images/lebamba-rice-life-v2.webp",
     description: {
       de: "Landwirtschaftliche Projekte in der Ngounié-Provinz, die sich auf den großflächigen Anbau von Reis konzentrieren.",
       hu: "Ngounié tartomány mezőgazdasági projektjei, amelyek a nagyméretű rizstermesztésre összpontosítanak.",
@@ -875,7 +860,6 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: "Mpassa vadvédelmi terület",
       ro: "Rezervația de vânătoare Mpassa",
       en: "Mpassa Game Reserve"},
-    image: "/poi-images/mpassa-reserve-life-v2.webp",
     description: {
       de: "Ein Schutzgebiet in der Provinz Haut-Ogooué, das für die Wiederansiedlung von im Inland ausgestorbenen Arten genutzt wird.",
       hu: "Haut-Ogooué tartomány egyik védett területe, amelyet a belföldön kihalt fajok visszatelepítésére használnak.",
@@ -923,7 +907,6 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: "Sette Cama lagúna állatvilága",
       ro: "Fauna lagunei Sette Cama",
       en: "Sette Cama Lagoon Fauna"},
-    image: "/poi-images/sette-cama-lagoon-fauna-life-v2.webp",
     description: {
       de: "Die Lagunen von Sette Cama bieten einen Lebensraum für seltene Seekühe und zahlreiche Krokodilarten.",
       hu: "Sette Cama lagúnái életteret biztosítanak a ritka tengeriteheneknek és számos krokodilfajnak.",

@@ -233,7 +233,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     parent: "UZ-NW",
     coords: [64.1433, 41.5036],
     name: { de: "Muruntau-Goldmine", hu: "Muruntau aranybánya", ro: "Mina de aur Muruntau", en: "Muruntau Gold Mine"},
-    image: "/poi-images/muruntau-gold-mine-economic-v2.webp",
     description: { de: "Eine der größten Goldminen der Welt im Tagebau, gelegen in der Kysylkum-Wüste.", hu: "A világ egyik legnagyobb külszíni aranybányája a Kizil-kum sivatagban.", ro: "Una dintre cele mai mari mine de aur în carieră deschisă din lume, situată în deșertul Kyzylkum.", en: "One of the world's largest open-pit gold mines, located in the Kyzylkum Desert." , es: "Una de las mayores minas de oro del mundo a cielo abierto, situada en el desierto de Kyzyl Kum.", pt: "Uma das maiores minas de ouro do mundo a céu aberto, localizada no deserto de Kyzyl Kum.", fr: "L'une des plus grandes mines d'or à ciel ouvert du monde, située dans le désert du Kyzylkoum."},
     facts: {
       de: ["Gehört zu den tiefsten Tagebauen der Welt.", "Produziert jährlich Millionen Unzen Gold."],
@@ -926,7 +925,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     parent: "UZ-NW",
     coords: [65.3792, 40.1039],
     name: { de: "Bergbau- und Hüttenkombinat Navoi", hu: "Navoi Bányászati és Kohászati Kombinát", ro: "Combinatul Minier și Metalurgic Navoi", en: "Navoi Mining and Metallurgical Combinat"},
-    image: "/poi-images/navoi-mining-metallurgical-economic-v2.webp",
     description: { de: "Ein bedeutender Industriekomplex in Usbekistan, der sich auf den Abbau und die Verarbeitung von Gold und Uran spezialisiert hat.", hu: "Jelentős ipari komplexum Üzbegisztánban, amely arany és urán bányászatára és feldolgozására szakosodott.", ro: "Un complex industrial major în Uzbekistan, specializat în extracția și prelucrarea aurului și uraniului.", en: "A major industrial complex in Uzbekistan specializing in the mining and processing of gold and uranium." , es: "Un importante complejo industrial en Uzbekistán especializado en la extracción y el procesamiento de oro y uranio.", pt: "Um importante complexo industrial no Uzbequistão especializado na extração e processamento de ouro e urânio.", fr: "Un complexe industriel majeur en Ouzbékistan, spécialisé dans l'extraction et le traitement de l'or et de l'uranium."},
     facts: {
       de: ["Gegründet in den späten 1950er Jahren.", "Ein entscheidender Motor für Usbekistans Wirtschaft."],
@@ -1475,7 +1473,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     parent: "UZ-TO",
     coords: [69.5975, 40.8353],
     name: { de: "Bergbau- und Hüttenkombinat Olmaliq", hu: "Olmaliq Bányászati és Kohászati Kombinát", ro: "Combinatul Minier și Metalurgic Almalyk", en: "Almalyk Mining and Metallurgical Complex"},
-    image: "/poi-images/almalyk-mining-metallurgical-economic-v2.webp",
     description: { de: "Das größte Zentrum der Kupfermetallurgie in Usbekistan, das auch Zink, Blei und Edelmetalle produziert.", hu: "Üzbegisztán legnagyobb rézkohászati központja, amely cinket, ólmot és nemesfémeket is termel.", ro: "Cel mai mare centru de metalurgie a cuprului din Uzbekistan, care produce și zinc, plumb și metale prețioase.", en: "The largest center of copper metallurgy in Uzbekistan, also producing zinc, lead, and precious metals." , es: "El mayor centro de metalurgia del cobre en Uzbekistán, que también produce zinc, plomo y metales preciosos.", pt: "O maior centro de metalurgia do cobre no Uzbequistão, que também produz zinco, chumbo e metais preciosos.", fr: "Le plus grand centre de métallurgie du cuivre en Ouzbékistan, qui produit également du zinc, du plomb et des métaux précieux."},
     facts: {
       de: ["Verarbeitet Erze aus mehreren riesigen Gruben.", "Zentrales Element der usbekischen Buntmetallindustrie."],
@@ -2096,7 +2093,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     parent: "UZ-AN",
     coords: [72.2355, 40.6397],
     name: { de: "Automobilwerk Asaka (UzAuto)", hu: "Aszakai Autógyár (UzAuto)", ro: "Uzina de Automobile Asaka (UzAuto)", en: "Asaka Automobile Plant (UzAuto)"},
-    image: "/poi-images/uzauto-motors-asaka-economic-v2.webp",
     description: { de: "Ein großes Automobilwerk im Ferghanatal, das Fahrzeuge für den heimischen und internationalen Markt produziert.", hu: "Nagy autógyár a Fergana-völgyben, amely hazai és nemzetközi piacra gyárt járműveket.", ro: "O mare fabrică de automobile în Valea Fergana, care produce vehicule pentru piața internă și internațională.", en: "A large automobile plant in the Fergana Valley, producing vehicles for domestic and international markets." , es: "Una gran planta de automóviles en el valle de Ferganá que produce vehículos para el mercado nacional e internacional.", pt: "Uma grande fábrica de automóveis no Vale de Fergana, que produz veículos para o mercado interno e internacional.", fr: "Une usine automobile majeure dans la vallée de Ferghana, produisant des véhicules pour les marchés national et international."},
     facts: {
       de: ["Eröffnet 1996 durch ein Joint Venture.", "Produziert jährlich Hunderttausende Fahrzeuge."],
@@ -3590,7 +3586,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     parent: "UZ-QA",
     coords: [65.1583, 39.2561],
     name: { de: "Gasverarbeitungswerk Mubarek", hu: "Mubareki Gázfeldolgozó Üzem", ro: "Uzina de Procesare a Gazelor Mubarek", en: "Mubarek Gas Processing Plant"},
-    image: "/poi-images/mubarek-gas-processing-economic-v2.webp",
     description: { de: "Eines der größten Gasverarbeitungswerke in Zentralasien, das für die Reinigung von Erdgas zuständig ist.", hu: "Közép-Ázsia egyik legnagyobb gázfeldolgozó üzeme, amely a földgáz tisztításáért felelős.", ro: "Una dintre cele mai mari uzine de procesare a gazelor din Asia Centrală, responsabilă de purificarea gazelor naturale.", en: "One of the largest gas processing plants in Central Asia, responsible for the purification of natural gas." , es: "Una de las mayores plantas de procesamiento de gas de Asia Central, responsable de la purificación del gas natural.", pt: "Uma das maiores unidades de processamento de gás na Ásia Central, responsável pela purificação do gás natural.", fr: "L'une des plus grandes usines de traitement de gaz d'Asie centrale, chargée de l'épuration du gaz naturel."},
     facts: {
       de: ["Entfernt effektiv Schwefel aus dem geförderten Erdgas.", "Versorgt das inländische Pipelinenetz mit sauberem Gas."],
@@ -3707,7 +3702,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     parent: "UZ-QA",
     coords: [65.7892, 38.6042],
     name: { de: "Gaschemischer Komplex Shurtan", hu: "Surtani Gázkémiai Komplexum", ro: "Complexul Chimic de Gaze Shurtan", en: "Shurtan Gas Chemical Complex"},
-    image: "/poi-images/shurtan-gas-chemical-economic-v2.webp",
     description: { de: "Ein moderner Industriekomplex, der Erdgas zu Kunststoffen und anderen wertvollen chemischen Produkten verarbeitet.", hu: "Modern ipari komplexum, amely a földgázt műanyagokká és más értékes vegyipari termékekké dolgozza fel.", ro: "Un complex industrial modern care procesează gazele naturale în materiale plastice și alte produse chimice valoroase.", en: "A modern industrial complex that processes natural gas into plastics and other valuable chemical products." , es: "Un moderno complejo industrial que procesa gas natural en plásticos y otros productos químicos valiosos.", pt: "Um complexo industrial moderno que processa gás natural em plásticos e outros produtos químicos valiosos.", fr: "Un complexe industriel moderne qui transforme le gaz naturel en matières plastiques et autres produits chimiques précieux."},
     facts: {
       de: ["Wurde im Jahr 2001 offiziell in Betrieb genommen.", "Trägt maßgeblich zum Export von Polymerprodukten bei."],
@@ -3824,7 +3818,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     parent: "UZ-QA",
     coords: [65.5947, 38.4722],
     name: { de: "Kraftwerk Talimarjan", hu: "Talimardzsáni Hőerőmű", ro: "Centrala Electrică Talimarjan", en: "Talimarjan Power Plant"},
-    image: "/poi-images/talimarjan-power-plant-economic-v2.webp",
     description: { de: "Ein bedeutendes Wärmekraftwerk im Süden Usbekistans, das eine Schlüsselrolle in der Energieversorgung spielt.", hu: "Jelentős hőerőmű Üzbegisztán déli részén, amely kulcsszerepet játszik az energiaellátásban.", ro: "O centrală termoelectrică majoră în sudul Uzbekistanului, care joacă un rol cheie în furnizarea de energie.", en: "A major thermal power plant in southern Uzbekistan, playing a key role in energy supply." , es: "Una importante central termoeléctrica en el sur de Uzbekistán que desempeña un papel clave en el suministro de energía.", pt: "Uma importante central termoelétrica no sul do Uzbequistão, que desempenha um papel fundamental no fornecimento de energia.", fr: "Une centrale thermique importante dans le sud de l'Ouzbékistan, jouant un rôle clé dans l'approvisionnement énergétique."},
     facts: {
       de: ["Basiert auf hochmodernen Gas- und Dampfturbinen.", "Wurde mehrfach erweitert, um die Stromproduktion zu steigern."],
@@ -4670,7 +4663,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     parent: "UZ-TO",
     coords: [69.2561, 40.2222],
     name: { de: "Stahlwerk Bekabad", hu: "Bekabadi Acélmű", ro: "Uzina Siderurgică Bekabad", en: "Bekabad Steel Plant"},
-    image: "/poi-images/bekabad-steel-plant-economic-v2.webp",
     description: { de: "Das einzige integrierte Stahlwerk in Usbekistan, das Stahlschrott und Roheisen zu Bau- und Industriestahl verarbeitet.", hu: "Üzbegisztán egyetlen integrált acélműve, amely acélhulladékot és nyersvasat dolgoz fel építőipari és ipari acéllá.", ro: "Singura uzină siderurgică integrată din Uzbekistan, care transformă deșeurile de oțel și fonta în oțel pentru construcții și industrie.", en: "The only integrated steel plant in Uzbekistan, processing scrap steel and pig iron into construction and industrial steel." , es: "La única acería integrada de Uzbekistán, que procesa chatarra y arrabio para convertirlos en acero industrial y de construcción.", pt: "A única siderúrgica integrada do Uzbequistão, que processa sucata e ferro-gusa em aço para construção e industrial.", fr: "La seule usine sidérurgique intégrée d'Ouzbékistan, qui transforme la ferraille et la fonte en acier pour la construction et l'industrie."},
     facts: {
       de: ["Wurde bereits während des Zweiten Weltkriegs gegründet.", "Bedeckt den Großteil des nationalen Bedarfs an Bewehrungsstahl."],
@@ -6848,7 +6840,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     parent: "UZ-TO",
     coords: [69.5822, 41.4681],
     name: { de: "Chemiewerk Maxam-Chirchiq", hu: "Maxam-Csircsik Vegyimű", ro: "Uzina Chimică Maxam-Chirchiq", en: "Maxam-Chirchiq Chemical Plant"},
-    image: "/poi-images/maxam-chirchiq-chemical-economic-v2.webp",
     description: { de: "Ein führender Hersteller von mineralischen Düngemitteln und anderen chemischen Produkten in Usbekistan.", hu: "Ásványi műtrágyák és más vegyipari termékek vezető gyártója Üzbegisztánban.", ro: "Un producător de top de îngrășăminte minerale și alte produse chimice din Uzbekistan.", en: "A leading producer of mineral fertilizers and other chemical products in Uzbekistan." , es: "Un fabricante líder de fertilizantes minerales y otros productos químicos en Uzbekistán.", pt: "Um fabricante líder de fertilizantes minerais e outros produtos químicos no Uzbequistão.", fr: "Un fabricant leader d'engrais minéraux et d'autres produits chimiques en Ouzbékistan."},
     facts: {
       de: ["Wichtig für die stark ausgeprägte usbekische Landwirtschaft.", "Produziert neben Dünger auch Industriechemikalien."],
@@ -7325,7 +7316,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     parent: "UZ-SU",
     coords: [67.2764, 37.2147],
     name: { de: "Flusshafen Termiz", hu: "Termezi Folyami Kikötő", ro: "Portul Fluvial Termez", en: "Termez River Port"},
-    image: "/poi-images/termez-river-port-economic-v2.webp",
     description: { de: "Der einzige bedeutende Flusshafen Usbekistans am Amudarja, der für den Handel mit dem Süden von großer Bedeutung ist.", hu: "Üzbegisztán egyetlen jelentős folyami kikötője az Amu-darján, amely nagy jelentőséggel bír a déli irányú kereskedelemben.", ro: "Singurul port fluvial major al Uzbekistanului pe râul Amu Daria, având o mare importanță pentru comerțul cu sudul.", en: "Uzbekistan's only major river port on the Amu Darya, which is of great importance for trade with the south." , es: "El único puerto fluvial importante de Uzbekistán en el Amu Daria, de gran importancia para el comercio con el sur.", pt: "O único porto fluvial importante do Uzbequistão no Amu Darya, que é de grande importância para o comércio com o sul.", fr: "Le seul port fluvial important de l'Ouzbékistan sur l'Amou-Daria, d'une importance capitale pour le commerce avec le sud."},
     facts: {
       de: ["Spielt eine Hauptrolle bei humanitären Lieferungen.", "Ist strategisch günstig am Grenzfluss gelegen."],
@@ -7694,7 +7684,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     parent: "UZ-NW",
     coords: [65.3400, 40.1200],
     name: { de: "Freie Wirtschaftszone Navoi", hu: "Navoi Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Navoi", en: "Navoi Free Economic Zone"},
-    image: "/poi-images/navoi-free-economic-zone-economic-v2.webp",
     description: { de: "Ein großes Logistik- und Industriezentrum, das ausländische Investitionen durch Steuervorteile und moderne Infrastruktur anzieht.", hu: "Nagy logisztikai és ipari központ, amely adókedvezményekkel és modern infrastruktúrával vonzza a külföldi befektetéseket.", ro: "Un centru logistic și industrial mare care atrage investiții străine prin facilități fiscale și infrastructură modernă.", en: "A large logistics and industrial center attracting foreign investment through tax incentives and modern infrastructure." , es: "Un importante centro logístico e industrial que atrae inversión extranjera mediante beneficios fiscales e infraestructura moderna.", pt: "Um grande centro logístico e industrial que atrai investimento estrangeiro através de incentivos fiscais e infraestrutura moderna.", fr: "Un centre logistique et industriel majeur qui attire les investissements étrangers grâce à des avantages fiscaux et une infrastructure moderne."},
     facts: {
       de: ["Bietet Unternehmen zollfreie Bedingungen und Logistikhubs.", "Direkt an wichtige Bahn- und Luftfahrtrouten angebunden."],
@@ -7730,7 +7719,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     parent: "UZ-QR",
     coords: [57.8542, 42.6108],
     name: { de: "Gaschemischer Komplex Ustjurt", hu: "Ustyurt Gázkémiai Komplexum", ro: "Complexul Chimic de Gaze Ustyurt", en: "Ustyurt Gas Chemical Complex"},
-    image: "/poi-images/ustyurt-gas-chemical-economic-v2.webp",
     description: { de: "Ein riesiges Projekt in Karakalpakstan zur Verarbeitung von Gas aus dem Aralsee-Becken zu Polymeren.", hu: "Hatalmas projekt Karakalpaksztánban az Aral-tó medencéjéből származó gáz polimerekké történő feldolgozására.", ro: "Un proiect masiv în Karakalpakstan pentru procesarea gazului din bazinul Mării Aral în polimeri.", en: "A massive project in Karakalpakstan to process gas from the Aral Sea basin into polymers." , es: "Un proyecto gigante en Karakalpakistán para procesar gas de la cuenca del mar de Aral en polímeros.", pt: "Um projeto gigante em Caracalpaquistão para o processamento de gás da bacia do Mar de Aral em polímeros.", fr: "Un projet gigantesque au Karakalpakstan visant à transformer le gaz du bassin de la mer d'Aral en polymères."},
     facts: {
       de: ["Ein Milliardenprojekt zur Diversifizierung der Wirtschaft.", "Stärkt die Exportkapazitäten in der Region."],
@@ -7766,7 +7754,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     parent: "UZ-JI",
     coords: [67.8422, 40.1158],
     name: { de: "Automobilwerk Jizzax", hu: "Dzsizaki Autógyár", ro: "Uzina de Automobile Jizzakh", en: "Jizzakh Automobile Plant"},
-    image: "/poi-images/jizzakh-automobile-plant-economic-v2.webp",
     description: { de: "Ein modernes Montagewerk in der Sonderwirtschaftszone Jizzax, das Pkw und leichte Nutzfahrzeuge produziert.", hu: "Modern összeszerelő üzem a Dzsizaki Különleges Gazdasági Övezetben, amely személygépkocsikat és könnyű haszongépjárműveket gyárt.", ro: "O fabrică modernă de asamblare în Zona Economică Specială Jizzakh, care produce autoturisme și vehicule comerciale ușoare.", en: "A modern assembly plant in the Jizzakh Special Economic Zone, producing passenger cars and light commercial vehicles." , es: "Una moderna planta de montaje en la zona económica especial de Jizzax, que produce turismos y vehículos comerciales ligeros.", pt: "Uma moderna unidade de montagem na zona económica especial de Jizzax, que produz automóveis de passageiros e veículos comerciais ligeiros.", fr: "Une usine d'assemblage moderne dans la zone économique spéciale de Djizak, produisant des voitures particulières et des véhicules utilitaires légers."},
     facts: {
       de: ["Montiert unter anderem Fahrzeuge internationaler Marken.", "Fördert die Schaffung von Arbeitsplätzen in Zentralusbekistan."],
@@ -8747,7 +8734,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     parent: "UZ-SA",
     coords: [66.9417, 39.6583],
     name: { de: "Automobilfabrik Samarkand", hu: "Szamarkandi Autógyár", ro: "Fabrica de Automobile Samarkand", en: "Samarkand Automobile Factory"},
-    image: "/poi-images/samauto-factory-economic-v2.webp",
     description: { de: "Ein wichtiges Werk zur Herstellung von Bussen und Lastwagen, das eine Schlüsselrolle im usbekischen Transportsektor spielt.", hu: "Fontos busz- és teherautó-gyártó üzem, amely kulcsszerepet játszik az üzbég közlekedési szektorban.", ro: "O fabrică importantă pentru producția de autobuze și camioane, care joacă un rol cheie în sectorul transporturilor uzbec.", en: "An important plant for the production of buses and trucks, playing a key role in the Uzbek transport sector." , es: "Una importante planta de producción de autobuses y camiones que desempeña un papel clave en el sector del transporte uzbeko.", pt: "Uma importante fábrica para a produção de autocarros e camiões, que desempenha um papel fundamental no setor de transportes do Uzbequistão.", fr: "Une usine majeure pour la fabrication de bus et de camions, jouant un rôle clé dans le secteur des transports ouzbek."},
     facts: {
       de: ["Produziert verlässliche Nutzfahrzeuge für den Stadtverkehr.", "Kooperiert eng mit globalen Lkw-Herstellern."],

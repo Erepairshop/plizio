@@ -7,8 +7,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "castle",
     name: { de: "Prager Burg", hu: "Prágai vár", ro: "Cetatea Praga", en: "Prague Castle"},
-    image: "/poi-images/czechrepublic-prague-castle-history-v2.webp",
-    coords: [14.4016, 50.0911],
     coords: [14.4016, 50.0911],
     description: {
       de: "Das im 9. Jahrhundert gegründete Areal gilt als größtes geschlossenes Burgareal der Welt. Es diente über Jahrhunderte als Sitz der böhmischen Könige und heute des tschechischen Präsidenten.",
@@ -54,8 +52,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "battlefield",
     name: { de: "Schlachtfeld von Austerlitz", hu: "Austerlitzi csatatér", ro: "Câmpul de luptă de la Austerlitz", en: "Austerlitz Battlefield"},
-    image: "/poi-images/czechrepublic-austerlitz-battlefield-history-v2.webp",
-    coords: [16.7622, 49.1272],
     coords: [16.7622, 49.1272],
     description: {
       de: "Ort der berühmten Drei-Kaiser-Schlacht von 1805, bei der Napoleon Bonaparte die vereinigten russisch-österreichischen Truppen besiegte. Heute erinnert das Friedensdenkmal an die historischen Ereignisse.",
@@ -101,8 +97,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "castle",
     name: { de: "Burg Karlstein", hu: "Karlštejn vára", ro: "Castelul Karlštejn", en: "Karlštejn Castle"},
-    image: "/poi-images/czechrepublic-karlstejn-castle-history-v2.webp",
-    coords: [14.1883, 49.9392],
     coords: [14.1883, 49.9392],
     description: {
       de: "Eine majestätische gotische Burg, die 1348 von Kaiser Karl IV. gegründet wurde. Sie diente als Tresor für die kaiserlichen Regalien des Heiligen Römischen Reiches und die böhmischen Kronjuwelen.",
@@ -148,8 +142,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "monument",
     name: { de: "Gedenkstätte Theresienstadt", hu: "Terezín emlékhely", ro: "Memorialul Terezín", en: "Terezín Memorial"},
-    image: "/poi-images/czechrepublic-terezin-memorial-history-v2.webp",
-    coords: [14.1481, 50.5114],
     coords: [14.1481, 50.5114],
     description: {
       de: "Ursprünglich im 18. Jahrhundert als habsburgische Festung erbaut, diente Theresienstadt im Zweiten Weltkrieg als nationalsozialistisches Konzentrationslager und Ghetto für die jüdische Bevölkerung.",
@@ -195,8 +187,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "church",
     name: { de: "Beinhaus von Sedlec", hu: "Sedleci osszárium", ro: "Osuarul din Sedlec", en: "Sedlec Ossuary"},
-    image: "/poi-images/czechrepublic-sedlec-ossuary-history-v2.webp",
-    coords: [15.2881, 49.9618],
     coords: [15.2881, 49.9618],
     description: {
       de: "Eine kleine römisch-katholische Kapelle unter der Allerheiligenkirche, die für ihren außergewöhnlichen Dekor aus menschlichen Knochen von schätzungsweise 40.000 bis 70.000 Menschen bekannt ist.",
@@ -242,8 +232,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "monument",
     name: { de: "Vyšehrad", hu: "Vyšehrad", ro: "Vyšehrad", en: "Vyšehrad"},
-    image: "/poi-images/czechrepublic-vysehrad-history-v2.webp",
-    coords: [14.4197, 50.0644],
     coords: [14.4197, 50.0644],
     description: {
       de: "Eine historische Festung auf einem Hügel über der Moldau, die im 10. Jahrhundert gegründet wurde. Sie gilt als sagenumwobener erster Sitz der böhmischen Fürsten und beherbergt den nationalen Ehrenfriedhof.",
@@ -289,8 +277,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "battlefield",
     name: { de: "Schlachtfeld am Weißen Berg", hu: "Fehérhegyi csatatér", ro: "Câmpul de luptă de la Muntele Alb", en: "White Mountain Battlefield"},
-    image: "/poi-images/czechrepublic-white-mountain-battlefield-history-v2.webp",
-    coords: [14.3169, 50.0761],
     coords: [14.3169, 50.0761],
     description: {
       de: "Schauplatz der entscheidenden Schlacht von 1620 am Anfang des Dreißigjährigen Krieges. Die Niederlage der protestantischen böhmischen Stände führte zur Rekatholisierung und jahrhundertelangen Habsburgerherrschaft.",
@@ -336,8 +322,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "monument",
     name: { de: "Gedenkstätte Lidice", hu: "Lidice emlékhely", ro: "Memorialul Lidice", en: "Lidice Memorial"},
-    image: "/poi-images/czechrepublic-lidice-memorial-history-v2.webp",
-    coords: [14.1897, 50.1436],
     coords: [14.1897, 50.1436],
     description: {
       de: "Ein Mahnmal an der Stelle des Dorfes, das 1942 von den Nationalsozialisten als Vergeltung für das Attentat auf Reinhard Heydrich vollständig zerstört wurde. Die Anlage umfasst Ruinen und ein Museum.",
@@ -383,8 +367,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "ruins",
     name: { de: "Burgruine Trosky", hu: "Trosky várrom", ro: "Ruinele Castelului Trosky", en: "Trosky Castle Ruins"},
-    image: "/poi-images/czechrepublic-trosky-ruins-history-v2.webp",
-    coords: [15.2308, 50.5164],
     coords: [15.2308, 50.5164],
     description: {
       de: "Die markante Doppelruine einer gotischen Burg aus dem 14. Jahrhundert thront auf zwei Basaltkegeln im Böhmischen Paradies. Die Türme werden volkstümlich 'Baba' (Oma) und 'Panna' (Jungfrau) genannt.",
@@ -430,8 +412,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "ruins",
     name: { de: "Dolní Věstonice", hu: "Dolní Věstonice", ro: "Dolní Věstonice", en: "Dolní Věstonice"},
-    image: "/poi-images/czechrepublic-dolni-vestonice-history-v2.webp",
-    coords: [16.6542, 48.8892],
     coords: [16.6542, 48.8892],
     description: {
       de: "Eine der weltweit bedeutendsten archäologischen Fundstätten des Jungpaläolithikums. Hier wurde die berühmte 'Venus von Věstonice', die älteste bekannte Keramikfigur der Welt, entdeckt.",
@@ -738,8 +718,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "church",
     name: { de: "Georgsrotunde auf dem Říp", hu: "Szent György-rotunda a Říp-hegyen", ro: "Rotunda Sf. Gheorghe de pe Muntele Říp", en: "St. George Rotunda on Říp"},
-    image: "/poi-images/czechrepublic-rip-rotunda-history-v2.webp",
-    coords: [14.2894, 50.3861],
     coords: [14.2894, 50.3861],
     description: {
       de: "Eine romanische Rotunde auf dem Berg Říp, einem Ort von hoher nationaler Bedeutung. Laut Legende ließ sich hier der Urvater Tschech mit seinem Volk nieder und gründete das tschechische Land.",
@@ -974,8 +952,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "castle",
     name: { de: "Burg Pernstein", hu: "Pernštejn vára", ro: "Castelul Pernštejn", en: "Pernštejn Castle"},
-    image: "/poi-images/czechrepublic-pernstejn-castle-history-v2.webp",
-    coords: [16.3183, 49.4509],
     coords: [16.3183, 49.4509],
     description: {
       de: "Eine der am besten erhaltenen gotischen Burgen in Mähren, bekannt als die 'Marmorburg'. Sie wurde nie von Feinden eingenommen und besticht durch ihr komplexes Verteidigungssystem.",
@@ -1021,8 +997,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "monument",
     name: { de: "Festung Špilberk", hu: "Špilberk vár", ro: "Fortăreața Špilberk", en: "Špilberk Fortress"},
-    image: "/poi-images/czechrepublic-spilberk-fortress-history-v2.webp",
-    coords: [16.5994, 49.1947],
     coords: [16.5994, 49.1947],
     description: {
       de: "Die im 13. Jahrhundert gegründete Burg in Brünn wurde später zur gewaltigsten Barockfestung Mährens und zum berüchtigten Gefängnis für politische Gefangene der Habsburgermonarchie.",
@@ -1581,8 +1555,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "town",
     name: { de: "Historischer Marktplatz von Telč", hu: "Telč történelmi főtere", ro: "Piața istorică din Telč", en: "Telč Historic Square"},
-    image: "/poi-images/czechrepublic-telc-square-history-v2.webp",
-    coords: [15.4528, 49.1842],
     coords: [15.4528, 49.1842],
     description: {
       de: "Ein UNESCO-Weltkulturerbe, bekannt für seine geschlossene Reihe von Renaissance- und Barockhäusern mit hohen Giebeln und Arkaden. Das Ensemble entstand nach einem großen Stadtbrand im 16. Jahrhundert.",
@@ -1628,8 +1600,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "palace",
     name: { de: "Erzbischöfliches Schloss Kremsier", hu: "Kroměříži érseki palota", ro: "Palatul Arhiepiscopal din Kroměříž", en: "Kroměříž Archbishop's Palace"},
-    image: "/poi-images/czechrepublic-kromeriz-palace-history-v2.webp",
-    coords: [17.3931, 49.2997],
     coords: [17.3931, 49.2997],
     description: {
       de: "Eine prächtige Barockresidenz der Olmützer Bischöfe, berühmt für ihren Lustgarten und den Schlossgarten. Das Schloss war im Jahr 1848 Schauplatz des österreichischen Reichstages.",
@@ -1936,8 +1906,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "castle",
     name: { de: "Schloss Litomyšl", hu: "Litomyšli kastély", ro: "Castelul Litomyšl", en: "Litomyšl Castle"},
-    image: "/poi-images/czechrepublic-litomysl-castle-history-v2.webp",
-    coords: [16.3122, 49.8736],
     coords: [16.3122, 49.8736],
     description: {
       de: "Ein herausragendes Beispiel eines Arkadenschlosses im Renaissancestil des 16. Jahrhunderts. Die Außenfassaden sind fast vollständig mit kunstvollen Sgraffito-Dekorationen bedeckt.",
@@ -1983,8 +1951,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "castle",
     name: { de: "Burg Loket", hu: "Loket vára", ro: "Castelul Loket", en: "Loket Castle"},
-    image: "/poi-images/czechrepublic-loket-castle-history-v2.webp",
-    coords: [12.7536, 50.1864],
     coords: [12.7536, 50.1864],
     description: {
       de: "Eine massive romanisch-gotische Burg aus dem 12. Jahrhundert, die auf einem Felsvorsprung über dem Fluss Eger liegt. Sie diente als strategische Festung an der Grenze zum Heiligen Römischen Reich.",
@@ -2327,8 +2293,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "castle",
     name: { de: "Burg Bezděz", hu: "Bezděz vára", ro: "Castelul Bezděz", en: "Bezděz Castle"},
-    image: "/poi-images/czechrepublic-bezdez-castle-history-v2.webp",
-    coords: [14.7192, 50.5392],
     coords: [14.7192, 50.5392],
     description: {
       de: "Eine bedeutende frühgotische Burg, die 1264 von König Ottokar II. Premysl erbaut wurde. Sie gilt als eines der am besten erhaltenen Beispiele königlicher Baukunst des 13. Jahrhunderts.",
@@ -2374,8 +2338,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "monument",
     name: { de: "Hospital Kuks", hu: "Kuks kórház", ro: "Spitalul Kuks", en: "Kuks Hospital"},
-    image: "/poi-images/czechrepublic-kuks-hospital-history-v2.webp",
-    coords: [15.8894, 50.3925],
     coords: [15.8894, 50.3925],
     description: {
       de: "Ein monumentaler Barockkomplex, der Anfang des 18. Jahrhunderts von Graf Franz Anton von Sporck gegründet wurde. Er diente als Hospital für Veteranen und ist für seine Skulpturen bekannt.",
@@ -2898,8 +2860,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "town",
     name: { de: "Jüdisches Viertel in Třebíč", hu: "Třebíči zsidó negyed", ro: "Cartierul Evreiesc din Třebíč", en: "Třebíč Jewish Quarter"},
-    image: "/poi-images/czechrepublic-trebic-jewish-quarter-history-v2.webp",
-    coords: [15.8772, 49.2172],
     coords: [15.8772, 49.2172],
     description: {
       de: "Eines der am besten erhaltenen jüdischen Viertel in Europa und UNESCO-Weltkulturerbe. Es umfasst über 120 Häuser, zwei Synagogen und einen der bedeutendsten jüdischen Friedhöfe.",
@@ -3098,8 +3058,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "ruins",
     name: { de: "Burgruine Rabí", hu: "Rabí várrom", ro: "Ruinele Castelului Rabí", en: "Rabí Castle Ruins"},
-    image: "/poi-images/czechrepublic-rabi-ruins-history-v2.webp",
-    coords: [13.6186, 49.2797],
     coords: [13.6186, 49.2797],
     description: {
       de: "Die größte Burgruine in Böhmen mit einem gewaltigen Verteidigungssystem. Während der Hussitenkriege verlor der Anführer Jan Žižka hier bei einer Belagerung sein zweites Auge.",
@@ -3145,8 +3103,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "church",
     name: { de: "Rotunde in Starý Plzenec", hu: "Starý Plzenec-i rotunda", ro: "Rotunda din Starý Plzenec", en: "Starý Plzenec Rotunda"},
-    image: "/poi-images/czechrepublic-stary-plzenec-history-v2.webp",
-    coords: [13.4792, 49.6975],
     coords: [13.4792, 49.6975],
     description: {
       de: "Die Rotunde der hll. Peter und Paul ist einer der ältesten erhaltenen Sakralbauten Tschechiens. Sie war Teil der frühmittelalterlichen Burgstätte Pilsen, dem Verwaltungszentrum Westböhmens.",
@@ -3192,8 +3148,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "battlefield",
     name: { de: "Schlachtfeld von Kolin", hu: "Kolíni csatatér", ro: "Câmpul de luptă de la Kolin", en: "Kolin Battlefield"},
-    image: "/poi-images/czechrepublic-kolin-battlefield-history-v2.webp",
-    coords: [15.1225, 50.0125],
     coords: [15.1225, 50.0125],
     description: {
       de: "Schauplatz der Schlacht von 1757 während des Siebenjährigen Krieges, in der die österreichische Armee Friedrich den Großen besiegte. Es war die erste Niederlage des preußischen Königs in diesem Krieg.",
@@ -3644,8 +3598,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "castle",
     name: { de: "Egerer Burg", hu: "Chebi vár", ro: "Castelul Cheb", en: "Cheb Castle"},
-    image: "/poi-images/czechrepublic-cheb-castle-history-v2.webp",
-    coords: [12.3681, 50.0814],
     coords: [12.3681, 50.0814],
     description: {
       de: "Eine Kaiserpfalz, die im 12. Jahrhundert von Friedrich Barbarossa erbaut wurde. Sie ist bekannt für ihre seltene doppelstöckige romanisch-gotische Kapelle und den markanten Schwarzen Turm.",
@@ -3691,8 +3643,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "castle",
     name: { de: "Schloss Frauenberg", hu: "Hluboká kastély", ro: "Castelul Hluboká", en: "Hluboká Castle"},
-    image: "/poi-images/czechrepublic-hluboka-castle-history-v2.webp",
-    coords: [14.4414, 49.0511],
     coords: [14.4414, 49.0511],
     description: {
       de: "Ursprünglich eine gotische Burg, wurde Hluboká im 19. Jahrhundert im Stil der Windsor-Gotik umgebaut. Es gilt als eines der romantischsten Schlösser Tschechiens und war Sitz der Familie Schwarzenberg.",
@@ -3819,8 +3769,6 @@ export const czechrepublicHistoryV2: POI[] = [
     parent: "CZ",
     type: "castle",
     name: { de: "Schloss Orlík", hu: "Orlík vára", ro: "Castelul Orlík", en: "Orlík Castle"},
-    image: "/poi-images/czechrepublic-orlik-castle-history-v2.webp",
-    coords: [14.1697, 49.5128],
     coords: [14.1697, 49.5128],
     description: {
       de: "Das Schloss liegt auf einem Felsen am Ufer des Orlík-Stausees. Ursprünglich eine gotische Wasserburg, wurde es später zum neogotischen Stammsitz des mährischen Zweigs der Familie Schwarzenberg.",
@@ -3984,7 +3932,6 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "town",
     name: { de: "Slavonice", hu: "Slavonice", ro: "Slavonice", en: "Slavonice"},
     image: "/poi-images/czechrepublic-slavonice-history-v2.webp",
-    coords: [15.3525, 48.9972],
     coords: [15.3525, 48.9972],
     description: {
       de: "Eine historische Stadt an der Grenze zu Österreich, die für ihre außergewöhnlich gut erhaltenen Renaissance-Bürgerhäuser mit Sgraffito-Fassaden bekannt ist. Sie wird oft 'kleines Telč' genannt.",

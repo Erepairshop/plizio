@@ -8,7 +8,6 @@ export const poiExtraSyriaNatureV2: POI[] = [
     parent: "SY-DY",
     coords: [39.8166, 35.5333],
     name: { de: "Euphrat", hu: "Eufrátesz", ro: "Eufrat", en: "Euphrates"},
-    image: "/poi-images/euphrates-river-syria-nature-v2.webp",
     description: {
       de: "Der Euphrat ist der längste und wichtigste Fluss Syriens, der als Lebensader durch die Wüste fließt.",
       hu: "Az Eufrátesz Szíria leghosszabb és legfontosabb folyója, amely életet adó vízi útként kanyarog a sivatagban.",
@@ -277,7 +276,6 @@ export const poiExtraSyriaNatureV2: POI[] = [
     parent: "SY-HM",
     coords: [36.75, 35.1333],
     name: { de: "Orontes", hu: "Orontész", ro: "Orontes", en: "Orontes"},
-    image: "/poi-images/orontes-river-nature-v2.webp",
     description: {
       de: "Der Orontes fließt durch Westsyrien und ist bekannt für seine historischen Wasserräder in der Stadt Hama.",
       hu: "Az Orontész Nyugat-Szírián folyik keresztül, és leginkább a Hamá városában található történelmi vízkerekeiről ismert.",
@@ -321,7 +319,6 @@ export const poiExtraSyriaNatureV2: POI[] = [
     parent: "SY-HA",
     coords: [40.75, 36.5],
     name: { de: "Chabur", hu: "Hábúr", ro: "Khabur", en: "Khabur"},
-    image: "/poi-images/khabur-river-nature-v2.webp",
     description: {
       de: "Der Chabur ist der größte Nebenfluss des Euphrat in Syrien und prägt die fruchtbare Region Al-Dschasira.",
       hu: "A Hábúr az Eufrátesz legnagyobb szíriai mellékfolyója, amely a termékeny Al-Dzsazíra régiót formálja.",
@@ -446,7 +443,6 @@ export const poiExtraSyriaNatureV2: POI[] = [
     parent: "SY-RA",
     coords: [38.3333, 36.0],
     name: { de: "Assad-See", hu: "Aszad-tó", ro: "Lacul Assad", en: "Lake Assad"},
-    image: "/poi-images/lake-assad-nature-v2.webp",
     description: {
       de: "Der Assad-See ist der größte Stausee Syriens, der durch den Bau der Tabqa-Talsperre am Euphrat entstand.",
       hu: "Az Aszad-tó Szíria legnagyobb víztározója, amelyet a Tabka-gát felépítésével hoztak létre az Eufráteszen.",
@@ -607,7 +603,6 @@ export const poiExtraSyriaNatureV2: POI[] = [
     parent: "SY-HI",
     coords: [36.65, 34.6666],
     name: { de: "Qattinah-See", hu: "Kattina-tó", ro: "Lacul Qattinah", en: "Lake Qattinah"},
-    image: "/poi-images/lake-qattinah-nature-v2.webp",
     description: {
       de: "Der Qattinah-See ist ein historischer See südwestlich von Homs, dessen Staudamm teilweise aus der Antike stammt.",
       hu: "A Kattina-tó egy történelmi tó Homsz városától délnyugatra, amelynek gátja részben az ókorból származik.",
@@ -768,7 +763,6 @@ export const poiExtraSyriaNatureV2: POI[] = [
     parent: "SY-QU",
     coords: [35.85, 33.4166],
     name: { de: "Hermon-Berg", hu: "Hermon-hegy", ro: "Muntele Hermon", en: "Mount Hermon"},
-    image: "/poi-images/mount-hermon-syria-nature-v2.webp",
     description: {
       de: "Der Hermon-Berg ist der höchste Punkt Syriens und bildet eine markante natürliche Grenze im Südwesten des Landes.",
       hu: "A Hermon-hegy Szíria legmagasabb pontja, amely látványos természetes határt képez az ország délnyugati részén.",
@@ -893,7 +887,6 @@ export const poiExtraSyriaNatureV2: POI[] = [
     parent: "SY-SU",
     coords: [36.7333, 32.6666],
     name: { de: "Dschebel ad-Durus", hu: "Dzsebel ed-Drúz", ro: "Jabal al-Druze", en: "Jabal al-Druze"},
-    image: "/poi-images/jabal-al-druze-nature-v2.webp",
     description: {
       de: "Das vulkanische Bergland Dschebel ad-Durus erhebt sich majestätisch in der südsyrischen Region As-Suwaida.",
       hu: "A vulkanikus Dzsebel ed-Drúz hegyvidék fenségesen magasodik a dél-szíriai Asz-Szuwajda régióban.",
@@ -1054,7 +1047,6 @@ export const poiExtraSyriaNatureV2: POI[] = [
     parent: "SY-RD",
     coords: [36.2333, 33.8833],
     name: { de: "Anti-Libanon", hu: "Antilibanon", ro: "Munții Anti-Liban", en: "Anti-Lebanon Mountains"},
-    image: "/poi-images/anti-lebanon-mountains-syria-nature-v2.webp",
     description: {
       de: "Der Anti-Libanon ist ein schroffer Gebirgszug, der eine natürliche Barriere zwischen Syrien und dem Libanon bildet.",
       hu: "Az Antilibanon egy zord hegylánc, amely természetes akadályt képez Szíria és Libanon között.",
@@ -1098,7 +1090,6 @@ export const poiExtraSyriaNatureV2: POI[] = [
     parent: "SY-LA",
     coords: [36.1666, 35.25],
     name: { de: "Ansarija-Berge", hu: "Szíriai-partvidéki-hegység", ro: "Munții Al-Nusayriyah", en: "Syrian Coastal Mountain Range"},
-    image: "/poi-images/syrian-coastal-mountains-nature-v2.webp",
     description: {
       de: "Die dicht bewaldeten Ansarija-Berge verlaufen parallel zur Mittelmeerküste und fangen reichlich Niederschlag auf.",
       hu: "A sűrűn erdősült Szíriai-partvidéki-hegység a Földközi-tenger partjával párhuzamosan fut, és bőséges csapadékot kap.",
@@ -1223,7 +1214,6 @@ export const poiExtraSyriaNatureV2: POI[] = [
     parent: "SY-DY",
     coords: [39.25, 35.3333],
     name: { de: "Dschebel al-Bischri", hu: "Dzsebel el-Bisri", ro: "Jabal al-Bishri", en: "Jabal al-Bishri"},
-    image: "/poi-images/jabal-al-bishri-nature-v2.webp",
     description: {
       de: "Der Dschebel al-Bischri ist ein weitläufiges Hochland in der syrischen Wüste, das von Nomadenstämmen durchquert wird.",
       hu: "A Dzsebel el-Bisri egy kiterjedt fennsík a szíriai sivatagban, amelyet évszázadok óta nomád törzsek járnak be.",
@@ -1528,7 +1518,6 @@ export const poiExtraSyriaNatureV2: POI[] = [
     parent: "SY-RD",
     coords: [36.2833, 33.5166],
     name: { de: "Barada", hu: "Barada", ro: "Barada", en: "Barada"},
-    image: "/poi-images/barada-river-nature-v2.webp",
     description: {
       de: "Der Barada ist der Hauptfluss von Damaskus und erschafft die berühmte Ghouta-Oase, die der Stadt das Leben sichert.",
       hu: "A Barada Damaszkusz fő folyója, amely létrehozza a híres Gúta oázist, ezzel életben tartva a várost.",
@@ -1761,7 +1750,6 @@ export const poiExtraSyriaNatureV2: POI[] = [
     parent: "SY-ID",
     coords: [36.6, 35.7333],
     name: { de: "Dschebel Sawiye", hu: "Dzsebel Závija", ro: "Jabal Zawiya", en: "Jabal Zawiya"},
-    image: "/poi-images/jabal-zawiya-nature-v2.webp",
     description: {
       de: "Der Dschebel Sawiye ist ein Kalksteinmassiv in der Provinz Idlib, das für seine antiken toten Städte bekannt ist.",
       hu: "A Dzsebel Závija egy mészkőhegység Idlib tartományban, amely az ott található ókori holt városokról híres.",
@@ -2066,7 +2054,6 @@ export const poiExtraSyriaNatureV2: POI[] = [
     parent: "SY-RA",
     coords: [39.0833, 35.95],
     name: { de: "Balich", hu: "Balih", ro: "Balikh", en: "Balikh"},
-    image: "/poi-images/balikh-river-nature-v2.webp",
     description: {
       de: "Der Balich ist ein Nebenfluss des Euphrat, der bei der Stadt ar-Raqqa mündet und in der Antike dicht besiedelt war.",
       hu: "A Balih az Eufrátesz egyik mellékfolyója, amely Rakka városánál ömlik a fő folyóba, és az ókorban sűrűn lakott volt.",
@@ -2263,7 +2250,6 @@ export const poiExtraSyriaNatureV2: POI[] = [
     parent: "SY-DR",
     coords: [36.0166, 32.7],
     name: { de: "Muzairib-See", hu: "Muzairib-tó", ro: "Lacul Muzairib", en: "Lake Muzairib"},
-    image: "/poi-images/lake-muzairib-nature-v2.webp",
     description: {
       de: "Der Muzairib-See ist ein wichtiges Süßwassergewässer im Süden Syriens, das durch zahlreiche natürliche Quellen gespeist wird.",
       hu: "A Muzairib-tó egy fontos édesvízi tó Szíria déli részén, amelyet számos természetes forrás táplál.",
@@ -2936,7 +2922,6 @@ export const poiExtraSyriaNatureV2: POI[] = [
     parent: "SY-LA",
     coords: [35.9833, 35.85],
     name: { de: "Baer-Bassit-Wald", hu: "Baer-Basszit erdő", ro: "Pădurea Baer-Bassit", en: "Baer-Bassit Forest"},
-    image: "/poi-images/baer-bassit-forest-nature-v2.webp",
     description: {
       de: "Der Baer-Bassit-Wald erstreckt sich entlang der Mittelmeerküste und ist eine der letzten großen zusammenhängenden Waldflächen Syriens.",
       hu: "A Baer-Basszit erdő a Földközi-tenger partja mentén húzódik, és Szíria egyik utolsó nagy kiterjedésű, egybefüggő erdősége.",
@@ -2980,7 +2965,6 @@ export const poiExtraSyriaNatureV2: POI[] = [
     parent: "SY-LA",
     coords: [36.1833, 35.5833],
     name: { de: "Slenfeh-Wald", hu: "Szlenfe-erdő", ro: "Pădurea Slenfeh", en: "Slenfeh Forest"},
-    image: "/poi-images/slenfeh-forest-nature-v2.webp",
     description: {
       de: "Die kühlen Wälder von Slenfeh in den Ansarija-Bergen bieten an heißen Sommertagen einen erfrischenden Rückzugsort.",
       hu: "A Szíriai-partvidéki-hegységben található Szlenfe hűvös erdői frissítő menedéket nyújtanak a forró nyári napokon.",
@@ -3141,7 +3125,6 @@ export const poiExtraSyriaNatureV2: POI[] = [
     parent: "SY-HL",
     coords: [36.8666, 36.5],
     name: { de: "Afrin", hu: "Afrin", ro: "Afrin", en: "Afrin"},
-    image: "/poi-images/afrin-river-nature-v2.webp",
     description: {
       de: "Der Fluss Afrin durchfließt den von Olivenhainen geprägten Nordwesten Syriens, bevor er in die Türkei zurückkehrt.",
       hu: "Az Afrin folyó átszeli Szíria olajfaligetekkel borított északnyugati részét, mielőtt visszatérne Törökországba.",
@@ -3230,7 +3213,6 @@ export const poiExtraSyriaNatureV2: POI[] = [
     parent: "SY-TA",
     coords: [35.95, 35.2666],
     name: { de: "Al-Sinn", hu: "Al-Szinn", ro: "Al-Sinn", en: "Al-Sinn River"},
-    image: "/poi-images/al-sinn-river-nature-v2.webp",
     description: {
       de: "Der kurze, aber wasserreiche Al-Sinn-Fluss mündet in das Mittelmeer und ist entscheidend für die Küstenbewässerung.",
       hu: "A rövid, de bővizű Al-Szinn folyó a Földközi-tengerbe torkollik, és létfontosságú a partmenti öntözés számára.",

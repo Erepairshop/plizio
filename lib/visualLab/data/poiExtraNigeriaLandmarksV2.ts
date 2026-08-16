@@ -57,7 +57,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Nigériai Nemzeti Mecset",
       ro: "Moscheea Națională Nigeriană",
       en: "Nigerian National Mosque"},
-    image: "/poi-images/national-mosque-abuja-landmarks-v2.webp",
     description: {
       de: "Die Nigerianische Nationalmoschee in der Hauptstadt Abuja ist eines der architektonisch auffälligsten Gebäude des Landes und verfügt über eine goldene Kuppel sowie vier Minarette.",
       hu: "A nigériai fővárosban, Abujában található Nemzeti Mecset az ország egyik leglátványosabb épülete, amely aranykupolával és négy minarettel rendelkezik.",
@@ -186,7 +185,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Nemzeti Keresztény Központ",
       ro: "Centrul Național Creștin",
       en: "National Christian Centre"},
-    image: "/poi-images/national-christian-centre-abuja-landmarks-v2.webp",
     description: {
       de: "Das Nationale Christliche Zentrum in Abuja, früher als National Church of Nigeria bekannt, ist ein beeindruckendes neugotisches Gebäude und das Zentrum des christlichen Glaubens im Land.",
       hu: "Az abujai Nemzeti Keresztény Központ, korábbi nevén a Nigériai Nemzeti Templom, egy lenyűgöző neogótikus épület és az ország keresztény hitéletének központja.",
@@ -279,7 +277,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Nemzeti Művészeti Színház",
       ro: "Teatrul Național de Arte",
       en: "National Arts Theatre"},
-    image: "/poi-images/national-arts-theatre-lagos-landmarks-v2.webp",
     description: {
       de: "Das National Arts Theatre in Lagos ist das wichtigste Zentrum für darstellende Künste in Nigeria. Das markante Gebäude ist in Form einer Militärkappe gestaltet.",
       hu: "A lagosi Nemzeti Művészeti Színház Nigéria legfontosabb előadó-művészeti központja. A jellegzetes épületet egy katonai sapka formájára tervezték.",
@@ -372,7 +369,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Tafawa Balewa Tér",
       ro: "Piața Tafawa Balewa",
       en: "Tafawa Balewa Square"},
-    image: "/poi-images/tafawa-balewa-square-landmarks-v2.webp",
     description: {
       de: "Der Tafawa Balewa Square im Zentrum von Lagos ist ein historischer Platz, auf dem 1960 die Unabhängigkeit Nigerias gefeiert wurde. Er ist von großen Monumenten und Gebäuden umgeben.",
       hu: "A lagosi Tafawa Balewa Tér egy történelmi helyszín, ahol 1960-ban Nigéria függetlenségét ünnepelték. A teret hatalmas emlékművek és épületek veszik körül.",
@@ -420,7 +416,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Harmadik Szárazföldi Híd",
       ro: "Al Treilea Pod Continental",
       en: "Third Mainland Bridge"},
-    image: "/poi-images/third-mainland-bridge-landmarks-v2.webp",
     description: {
       de: "Die Third Mainland Bridge in Lagos ist mit 11,8 Kilometern Länge die längste Brücke Nigerias. Sie verbindet die Insel Lagos mit dem Festland und ist ein Meisterwerk der Ingenieurskunst.",
       hu: "A lagosi Harmadik Szárazföldi Híd 11,8 kilométeres hosszával Nigéria leghosszabb hídja. A Lagos-szigetet köti össze a szárazfölddel, és igazi mérnöki remekmű.",
@@ -513,7 +508,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Lekki-Ikoyi Összekötő Híd",
       ro: "Podul de Legătură Lekki-Ikoyi",
       en: "Lekki-Ikoyi Link Bridge"},
-    image: "/poi-images/lekki-ikoyi-link-bridge-landmarks-v2.webp",
     description: {
       de: "Die Lekki-Ikoyi Verbindungsbrücke in Lagos ist die erste Schrägseilbrücke Nigerias. Mit ihrem modernen Design ist sie schnell zu einem ikonischen Wahrzeichen der Stadt geworden.",
       hu: "A lagosi Lekki-Ikoyi Összekötő Híd Nigéria első ferdekábeles hídja. Modern dizájnjával hamar a város ikonikus látványosságává vált.",
@@ -750,7 +744,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "NECOM Ház",
       ro: "Clădirea NECOM",
       en: "NECOM House"},
-    image: "/poi-images/necom-house-lagos-landmarks-v2.webp",
     description: {
       de: "Das NECOM House in Lagos ist das höchste Gebäude in Nigeria. Der markante Wolkenkratzer diente ursprünglich als Hauptquartier der nigerianischen Telekommunikationsgesellschaft.",
       hu: "A lagosi NECOM Ház Nigéria legmagasabb épülete. A jellegzetes felhőkarcoló eredetileg a nigériai telekommunikációs vállalat székházaként szolgált.",
@@ -843,7 +836,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Godswill Akpabio Stadion",
       ro: "Stadionul Godswill Akpabio",
       en: "Godswill Akpabio Stadium"},
-    image: "/poi-images/godswill-akpabio-stadium-landmarks-v2.webp",
     description: {
       de: "Das Godswill Akpabio International Stadium in Uyo ist eine hochmoderne Sportstätte in Nigeria. Es ist aufgrund seines innovativen, netzartigen Außendesigns auch als 'Nest der Champions' bekannt.",
       hu: "Az Uyo városában található Godswill Akpabio Nemzetközi Stadion egy ultramodern sportlétesítmény Nigériában. Innovatív, hálószerű külső kialakítása miatt a 'Bajnokok Fészkeként' is ismert.",
@@ -972,7 +964,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Moshood Abiola Nemzeti Stadion",
       ro: "Stadionul Național Moshood Abiola",
       en: "Moshood Abiola National Stadium"},
-    image: "/poi-images/moshood-abiola-stadium-landmarks-v2.webp",
     description: {
       de: "Das Moshood Abiola Nationalstadion in Abuja ist eines der größten Mehrzweckstadien in Afrika. Es wurde gebaut, um die Afrikaspiele 2003 auszurichten.",
       hu: "Az abujai Moshood Abiola Nemzeti Stadion egyike Afrika legnagyobb többcélú stadionjainak. A 2003-as Afrika Játékok megrendezésére épült.",
@@ -1065,7 +1056,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "A Nigériai Központi Bank Székháza",
       ro: "Sediul Băncii Centrale a Nigeriei",
       en: "Central Bank of Nigeria Headquarters"},
-    image: "/poi-images/central-bank-of-nigeria-hq-landmarks-v2.webp",
     description: {
       de: "Der Hauptsitz der Central Bank of Nigeria in Abuja ist ein monumentales Bürogebäude und eines der höchsten Gebäude der Hauptstadt, das Nigerias Wirtschaftskraft symbolisiert.",
       hu: "A Nigériai Központi Bank abujai székháza egy monumentális irodaépület és a főváros egyik legmagasabb épülete, amely Nigéria gazdasági erejét szimbolizálja.",
@@ -1266,7 +1256,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Krisztus Temploma Katedrális Lagos",
       ro: "Catedrala Biserica lui Hristos Lagos",
       en: "Cathedral Church of Christ Lagos"},
-    image: "/poi-images/cathedral-church-of-christ-landmarks-v2.webp",
     description: {
       de: "Die Cathedral Church of Christ an der Marina in Lagos ist eine der ältesten und bekanntesten anglikanischen Kathedralen in Nigeria, die für ihre klassische Architektur berühmt ist.",
       hu: "A lagosi Marinán található Krisztus Temploma Katedrális Nigéria egyik legrégebbi és legismertebb anglikán székesegyháza, amely klasszikus építészetéről híres.",
@@ -1407,7 +1396,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Függetlenség Háza Lagos",
       ro: "Casa Independenței Lagos",
       en: "Independence House Lagos"},
-    image: "/poi-images/independence-house-lagos-landmarks-v2.webp",
     description: {
       de: "Das Independence House in Lagos war das erste Hochhaus, das nach der Unabhängigkeit Nigerias im Jahr 1960 gebaut wurde. Es steht als Symbol der nationalen Souveränität.",
       hu: "A lagosi Függetlenség Háza volt az első toronyház, amely Nigéria 1960-as függetlenné válása után épült. A nemzeti szuverenitás szimbólumaként áll.",
@@ -1773,7 +1761,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Kano-i Nagy Mecset",
       ro: "Marea Moschee din Kano",
       en: "Great Mosque of Kano"},
-    image: "/poi-images/great-mosque-of-kano-landmarks-v2.webp",
     description: {
       de: "Die Große Moschee von Kano ist ein wichtiges religiöses Gebäude im Norden Nigerias. Die ursprüngliche Moschee wurde im 15. Jahrhundert erbaut, das heutige Bauwerk stammt aus den 1950er Jahren.",
       hu: "A Kano-i Nagy Mecset egy fontos vallási épület Észak-Nigériában. Az eredeti mecsetet a 15. században építették, a jelenlegi építmény az 1950-es évekből származik.",
@@ -1902,7 +1889,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Mapo Csarnok",
       ro: "Sala Mapo",
       en: "Mapo Hall"},
-    image: "/poi-images/mapo-hall-ibadan-landmarks-v2.webp",
     description: {
       de: "Die Mapo Halle in Ibadan ist ein historisches Rathaus im Kolonialstil, das auf dem Mapo-Hügel erbaut wurde. Es ist ein markantes Wahrzeichen und Symbol für die lokale Verwaltung.",
       hu: "Az ibadani Mapo Csarnok egy gyarmati stílusban épült történelmi városháza, amely a Mapo-dombon található. Kiemelkedő tájékozódási pont és a helyi közigazgatás szimbóluma.",
@@ -1995,7 +1981,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Mary Slessor Ház",
       ro: "Casa Mary Slessor",
       en: "Mary Slessor House"},
-    image: "/poi-images/mary-slessor-house-landmarks-v2.webp",
     description: {
       de: "Das Mary Slessor Haus in Calabar ist ein historisches Gebäude, in dem die schottische Missionarin Mary Slessor lebte, die sich für Frauenrechte und die Abschaffung von Zwillingsmorden einsetzte.",
       hu: "A calabari Mary Slessor Ház egy történelmi épület, ahol a skót misszionárius, Mary Slessor élt, aki a női jogokért és az ikrek meggyilkolásának eltörléséért küzdött.",
@@ -2043,7 +2028,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Tinapa Üdülőközpont",
       ro: "Stațiunea Tinapa",
       en: "Tinapa Resort"},
-    image: "/poi-images/tinapa-resort-calabar-landmarks-v2.webp",
     description: {
       de: "Das Tinapa Resort in Calabar ist ein massives Geschäfts- und Freizeitzentrum, das zur Förderung von Handel und Tourismus in der Region entwickelt wurde. Es umfasst moderne Einkaufszentren und Studios.",
       hu: "A calabari Tinapa Üdülőközpont egy hatalmas üzleti és szabadidős komplexum, amelyet a régió kereskedelmének és turizmusának fellendítésére hoztak létre.",
@@ -2091,7 +2075,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Első Többszintes Épület",
       ro: "Prima Clădire cu Etaj",
       en: "First Storey Building"},
-    image: "/poi-images/first-storey-building-badagry-landmarks-v2.webp",
     description: {
       de: "Dieses Gebäude in Badagry gilt als das erste zweistöckige Gebäude in Nigeria. Es wurde 1845 von Missionaren erbaut und ist heute eine beliebte historische Touristenattraktion.",
       hu: "Ez a badagryi épület számít Nigéria első kétszintes épületének. 1845-ben építették misszionáriusok, és ma népszerű történelmi turisztikai látványosság.",
@@ -2220,7 +2203,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Badagry Örökség Múzeum",
       ro: "Muzeul Patrimoniului din Badagry",
       en: "Badagry Heritage Museum"},
-    image: "/poi-images/badagry-heritage-museum-landmarks-v2.webp",
     description: {
       de: "Das Badagry Heritage Museum ist in einem alten Kolonialgebäude untergebracht. Es bewahrt die dunkle Geschichte des transatlantischen Sklavenhandels in der Region auf.",
       hu: "A Badagry Örökség Múzeum egy régi gyarmati épületben kapott helyet. A transzatlanti rabszolgakereskedelem sötét történelmét őrzi a régióban.",
@@ -2421,7 +2403,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Benin Obájának Palotája",
       ro: "Palatul lui Oba din Benin",
       en: "Oba of Benin Palace"},
-    image: "/poi-images/oba-of-benin-palace-landmarks-v2.webp",
     description: {
       de: "Der Palast des Oba von Benin in Benin City ist die offizielle Residenz des traditionellen Herrschers des Königreichs Benin. Das Gelände beherbergt eine reiche Sammlung an Kunst und Geschichte.",
       hu: "A benin city-i Oba palotája a Benini Királyság hagyományos uralkodójának hivatalos rezidenciája. A terület gazdag művészeti és történelmi gyűjteménynek ad otthont.",
@@ -2514,7 +2495,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Aso Villa",
       ro: "Vila Aso",
       en: "Aso Villa"},
-    image: "/poi-images/aso-villa-abuja-landmarks-v2.webp",
     description: {
       de: "Die Aso Villa, auch als State House bekannt, ist der Arbeitsplatz und die offizielle Residenz des Präsidenten von Nigeria. Sie liegt im Schatten des beeindruckenden Aso Rock in Abuja.",
       hu: "Az Aso Villa, más néven Állami Ház, a nigériai elnök munkahelye és hivatalos rezidenciája. Az abujai Aso szikla árnyékában található.",
@@ -2562,7 +2542,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Abuja Városkapu",
       ro: "Poarta Orașului Abuja",
       en: "Abuja City Gate"},
-    image: "/poi-images/abuja-city-gate-landmarks-v2.webp",
     description: {
       de: "Das Abuja City Gate ist ein monumentaler Bogen, der Besucher an der Hauptverkehrsstraße zum Zentrum von Abuja begrüßt. Es symbolisiert den Eingang zur nigerianischen Hauptstadt.",
       hu: "Az Abuja Városkapu egy monumentális boltív, amely a főváros központjába vezető főúton üdvözli a látogatókat. A nigériai főváros bejáratát szimbolizálja.",
@@ -2610,7 +2589,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Kano Emírjének Palotája",
       ro: "Palatul Emirului din Kano",
       en: "Emir of Kano's Palace"},
-    image: "/poi-images/gidan-rumfa-landmarks-v2.webp",
     description: {
       de: "Gidan Rumfa ist der traditionelle Palast des Emir von Kano, der im 15. Jahrhundert erbaut wurde. Er ist ein Meisterwerk der traditionellen Hausa-Architektur.",
       hu: "A Gidan Rumfa Kano emírjének hagyományos palotája, amelyet a 15. században építettek. A hagyományos hausza építészet remekműve.",
@@ -2883,7 +2861,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Gidan Makama Múzeum",
       ro: "Muzeul Gidan Makama",
       en: "Gidan Makama Museum"},
-    image: "/poi-images/gidan-makama-museum-landmarks-v2.webp",
     description: {
       de: "Das Gidan Makama Museum in Kano ist in einem 500 Jahre alten Gebäude untergebracht, das früher als Palast diente. Es dokumentiert die lange und reiche Geschichte des Kano-Reiches.",
       hu: "A kanoi Gidan Makama Múzeum egy 500 éves épületben kapott helyet, amely korábban palotaként szolgált. A kanoi birodalom hosszú és gazdag történelmét dokumentálja.",
@@ -2931,7 +2908,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Szabadság Park Lagos",
       ro: "Parcul Libertății Lagos",
       en: "Freedom Park Lagos"},
-    image: "/poi-images/freedom-park-lagos-landmarks-v2.webp",
     description: {
       de: "Der Freedom Park in Lagos wurde auf dem Gelände des ehemaligen kolonialen Broad Street Gefängnisses errichtet. Heute ist es ein Denkmal und ein Ort für kulturelle Veranstaltungen.",
       hu: "A lagosi Szabadság Parkot az egykori gyarmati Broad Street-i börtön területén hozták létre. Ma emlékműként és kulturális rendezvények helyszíneként szolgál.",
@@ -3168,7 +3144,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Lagos Civil Központ",
       ro: "Centrul Civic Lagos",
       en: "Civic Centre Lagos"},
-    image: "/poi-images/civic-centre-lagos-landmarks-v2.webp",
     description: {
       de: "Das Civic Centre auf Victoria Island, Lagos, ist ein Meisterwerk der modernen Architektur am Wasser. Es dient als führender Veranstaltungsort für geschäftliche und gesellschaftliche Ereignisse.",
       hu: "A lagosi Victoria-szigeten található Civil Központ a modern vízparti építészet remekműve. Üzleti és társadalmi események vezető helyszíneként szolgál.",
@@ -3216,7 +3191,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Jaekel Ház",
       ro: "Casa Jaekel",
       en: "Jaekel House"},
-    image: "/poi-images/jaekel-house-lagos-landmarks-v2.webp",
     description: {
       de: "Das Jaekel House ist ein klassisches Herrenhaus aus der Kolonialzeit in Lagos, das heute ein Eisenbahnmuseum beherbergt. Es bietet Einblicke in die frühe Verkehrsgeschichte Nigerias.",
       hu: "A Jaekel Ház egy klasszikus gyarmati kori kúria Lagosban, amely ma egy vasúti múzeumnak ad otthont. Bepillantást nyújt Nigéria korai közlekedéstörténetébe.",
@@ -3309,7 +3283,6 @@ export const poiExtraNigeriaLandmarksV2: POI[] = [
       hu: "Teslim Balogun Stadion",
       ro: "Stadionul Teslim Balogun",
       en: "Teslim Balogun Stadium"},
-    image: "/poi-images/teslim-balogun-stadium-landmarks-v2.webp",
     description: {
       de: "Das Teslim Balogun Stadion in Lagos ist eine große Mehrzwecksportanlage, benannt nach einem berühmten nigerianischen Fußballspieler. Es ist ein Zentrum für Sportwettbewerbe im Bundesstaat Lagos.",
       hu: "A lagosi Teslim Balogun Stadion egy nagy többcélú sportlétesítmény, amelyet egy híres nigériai labdarúgóról neveztek el. A Lagos állambeli sportversenyek központja.",

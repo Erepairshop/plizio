@@ -93,7 +93,6 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: "Hisszár-hegység",
       ro: "Munții Hissar",
       en: "Gissar Range"},
-    image: "/poi-images/hissar-range-relief-v2.webp",
     description: {
       de: "Ein mächtiger Gebirgszug im Westen Tadschikistans, der das Serafschantal vom Süden trennt.",
       hu: "Egy hatalmas hegylánc Tádzsikisztán nyugati részén, amely elválasztja a Zarafson-völgyet a déli területektől.",
@@ -141,7 +140,6 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: "Zarafson-hegység",
       ro: "Munții Zeravșan",
       en: "Zeravshan Range"},
-    image: "/poi-images/zeravshan-range-relief-v2.webp",
     description: {
       de: "Ein Teilgebirge des Tian Shan, das von zahlreichen Gletschern durchzogen ist und beeindruckende alpine Landschaften bietet.",
       hu: "A Tien-san egyik vonulata, amelyet számos gleccser szel át, és lenyűgöző alpesi tájakat kínál.",
@@ -237,7 +235,6 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: "Kurama-hegység",
       ro: "Munții Kurama",
       en: "Kuramin Range"},
-    image: "/poi-images/kurama-range-relief-v2.webp",
     description: {
       de: "Ein nordwestlicher Ausläufer des Tian Shan, der durch reiche Mineralvorkommen und steile Berghänge geprägt ist.",
       hu: "A Tien-san északnyugati nyúlványa, amelyet gazdag ásványkincsek és meredek hegyoldalak jellemeznek.",
@@ -666,7 +663,6 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: "Vancs-hegység",
       ro: "Munții Vanch",
       en: "Vanch Range"},
-    image: "/poi-images/vanch-range-relief-v2.webp",
     description: {
       de: "Ein schmaler, aber sehr hoher Gebirgskamm im Westpamir, der tiefe Schluchten und steile Felswände bildet.",
       hu: "Egy keskeny, de nagyon magas hegygerinc a Nyugati-Pamírban, amely mély szurdokokat és meredek sziklafalakat alkot.",
@@ -762,7 +758,6 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: "Transz-Alaj-hegység",
       ro: "Lanțul Trans-Alai",
       en: "Trans-Alay Range"},
-    image: "/poi-images/trans-alay-range-relief-v2.webp",
     description: {
       de: "Die beeindruckende nördliche Grenze des Pamir-Plateaus, deren schneebedeckte Gipfel sich wie eine weiße Mauer erheben.",
       hu: "A Pamír-fennsík lenyűgöző északi határa, amelynek hófedte csúcsai fehér falként magasodnak.",
@@ -906,7 +901,6 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: "Alicsur-völgy",
       ro: "Valea Alichur",
       en: "Alichur Valley"},
-    image: "/poi-images/alichur-valley-relief-v2.webp",
     description: {
       de: "Ein weites, windgepeitschtes Hochtal im Ostpamir, das traditionell von kirgisischen Nomaden als Sommerweide genutzt wird.",
       hu: "Széles, szélfútta magashegyi völgy a Keleti-Pamírban, amelyet a kirgiz nomádok hagyományosan nyári legelőként használnak.",
@@ -954,7 +948,6 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: "Vahan-völgy",
       ro: "Valea Wakhan",
       en: "Wakhan Valley"},
-    image: "/poi-images/wakhan-valley-relief-v2.webp",
     description: {
       de: "Ein tiefes, geschichtsträchtiges Flusstal, das Tadschikistan von Afghanistan trennt und eine uralte Handelsroute bildet.",
       hu: "Egy mély, történelmi jelentőségű folyóvölgy, amely elválasztja Tádzsikisztánt Afganisztántól, és egy ősi kereskedelmi útvonalat képez.",
@@ -977,7 +970,6 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: "Jagnob-völgy",
       ro: "Valea Yagnob",
       en: "Yagnob Valley"},
-    image: "/poi-images/yagnob-valley-relief-v2.webp",
     description: {
       de: "Ein abgeschiedenes, schwer zugängliches Gebirgstal, in dem die Bewohner noch einen direkten Dialekt des antiken Sogdisch sprechen.",
       hu: "Egy elszigetelt, nehezen megközelíthető hegyi völgy, amelynek lakói még mindig az ősi szogd nyelv egy közvetlen dialektusát beszélik.",
@@ -1070,7 +1062,6 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: "Rast-völgy",
       ro: "Valea Rasht",
       en: "Rasht Valley"},
-    image: "/poi-images/rasht-valley-relief-v2.webp",
     description: {
       de: "Ein großes und fruchtbares Tal in Zentraltadschikistan, umgeben von schneebedeckten Hängen und durchzogen vom Fluss Surkhob.",
       hu: "Egy nagy és termékeny völgy Közép-Tádzsikisztánban, amelyet hófedte lejtők vesznek körül, és a Szurhob folyó szel át.",
@@ -1364,7 +1355,6 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: "Murgab-fennsík",
       ro: "Podișul Murghab",
       en: "Murghab Plateau"},
-    image: "/poi-images/murghab-plateau-relief-v2.webp",
     description: {
       de: "Eine weite, fast mondähnliche Hochebene im Ostpamir, extrem trocken, kalt und von nomadischer Kultur geprägt.",
       hu: "Széles, szinte holdszerű fennsík a Keleti-Pamírban, rendkívül száraz, hideg és nomád kultúra jellemzi.",

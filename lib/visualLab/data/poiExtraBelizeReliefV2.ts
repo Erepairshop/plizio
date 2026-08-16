@@ -12,7 +12,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
       hu: "Maya-hegység",
       ro: "Munții Maya",
       en: "Maya Mountains"},
-    image: "/poi-images/maya-mountains-relief-v2.webp",
     description: {
       de: "Das Maya-Gebirge ist ein Bergzug im Süden von Belize und im Osten Guatemalas.",
       hu: "A Maya-hegység egy hegylánc Belize déli és Guatemala keleti részén.",
@@ -63,7 +62,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
       hu: "Cockscomb-hegység",
       ro: "Munții Cockscomb",
       en: "Cockscomb Mountains"},
-    image: "/poi-images/cockscomb-range-relief-v2.webp",
     description: {
       de: "Eine Untereinheit des Maya-Gebirges in Belize.",
       hu: "A Maya-hegység egy alegysége Belize-ben.",
@@ -114,7 +112,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
       hu: "Bladen Branch-völgy",
       ro: "Valea Bladen Branch",
       en: "Bladen Branch Valley"},
-    image: "/poi-images/bladen-branch-relief-v2.webp",
     description: {
       de: "Ein abgelegenes Tal im Bladen Nature Reserve.",
       hu: "A Bladen Branch folyó völgye Belize egyik legérintetlenebb és legelzártabb vadonja a Maya-hegység szívében.",
@@ -217,7 +214,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
       hu: "Chiquibul-medence",
       ro: "Bazinul Chiquibul",
       en: "Chiquibul Basin"},
-    image: "/poi-images/chiquibul-basin-relief-v2.webp",
     description: {
       de: "Ein großes, bewaldetes Becken im Südwesten von Belize.",
       hu: "Hatalmas mészkőmedence Belize délnyugati részén, amely Közép-Amerika legnagyobb barlangrendszerét rejti.",
@@ -320,7 +316,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
       hu: "Sierra de Agua-hegység",
       ro: "Munții Sierra de Agua",
       en: "Sierra de Agua"},
-    image: "/poi-images/sierra-de-agua-relief-v2.webp",
     description: {
       de: "Eine hügelige Formation im Norden von Belize.",
       hu: "Egy markáns hegygerinc az északi Belize-ben, amely fontos vízválasztóként szolgál a régió folyói számára.",
@@ -371,7 +366,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
       hu: "Caracol-fennsík",
       ro: "Podișul Caracol",
       en: "Caracol Plateau"},
-    image: "/poi-images/caracol-plateau-relief-v2.webp",
     description: {
       de: "Ein Hochplateau in der Nähe der antiken Maya-Stadt Caracol.",
       hu: "Egy fennsík Caracol ősi maja város közelében.",
@@ -474,7 +468,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
       hu: "Golden Stream-völgy",
       ro: "Valea Golden Stream",
       en: "Golden Stream Valley"},
-    image: "/poi-images/golden-stream-valley-relief-v2.webp",
     description: {
       de: "Ein fruchtbares Tal im Toledo District, das nach dem klaren Golden Stream benannt ist und eine reiche Flora und Fauna besitzt.",
       hu: "Egy termékeny völgy Toledo kerületben, amelyen a kristálytiszta Golden Stream folyó halad keresztül.",
@@ -525,7 +518,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
       hu: "Rio Grande-dombság",
       ro: "Dealurile Rio Grande",
       en: "Rio Grande Hills"},
-    image: "/poi-images/rio-grande-hills-relief-v2.webp",
     description: {
       de: "Hügelige Region im Einzugsgebiet des Rio Grande im Süden Belizes, geprägt von Kalksteinformationen und Regenwald.",
       hu: "Kúpos karsztidomokkal tarkított dombság Belize déli részén, a Rio Grande folyó mentén.",
@@ -628,7 +620,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
       hu: "Sittee River-előhegyek",
       ro: "Poalele Munților Sittee River",
       en: "Sittee River Foothills"},
-    image: "/poi-images/sittee-river-foothills-relief-v2.webp",
     description: {
       de: "Die Ausläufer der Maya Mountains nahe dem Sittee River, die eine malerische Kulisse für die Region Stann Creek bilden.",
       hu: "A Maya-hegység keleti lábánál fekvő előhegyek, amelyek festői hátteret adnak a Sittee River völgyének.",
@@ -679,7 +670,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
       hu: "Stann Creek-völgy",
       ro: "Valea Stann Creek",
       en: "Stann Creek Valley"},
-    image: "/poi-images/stann-creek-valley-relief-v2.webp",
     description: {
       de: "Ein bedeutendes Tal im Stann Creek District.",
       hu: "Jelentős völgy a Stann Creek körzetében.",
@@ -730,7 +720,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
       hu: "Északi alföld",
       ro: "Câmpia de Nord",
       en: "Northern Lowlands"},
-    image: "/poi-images/northern-lowlands-relief-v2.webp",
     description: {
       de: "Die weiten Tiefebenen im Norden Belizes, die hauptsächlich für den großflächigen Zuckerrohranbau genutzt werden.",
       hu: "Belize északi részének tágas, lapos alföldje, amely az ország cukornád-termesztésének központja.",
@@ -781,7 +770,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
       hu: "Belize-folyó völgye",
       ro: "Valea râului Belize",
       en: "Belize River Valley"},
-    image: "/poi-images/belize-river-valley-relief-v2.webp",
     description: {
       de: "Das Flusstal des Belize River.",
       hu: "A Belize-folyó völgye.",
@@ -936,7 +924,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
       hu: "Gallon Jug-dombság",
       ro: "Dealurile Gallon Jug",
       en: "Gallon Jug Hills"},
-    image: "/poi-images/gallon-jug-hills-relief-v2.webp",
     description: {
       de: "Hügeliges Gelände im Orange Walk District.",
       hu: "Szelíden hullámzó dombvidék Orange Walk kerületben, egy hatalmas magánrezervátum területén.",
@@ -987,7 +974,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
       hu: "Blue Creek-dombság",
       ro: "Dealurile Blue Creek",
       en: "Blue Creek Hills"},
-    image: "/poi-images/blue-creek-hills-relief-v2.webp",
     description: {
       de: "Zerklüftete Hügellandschaft im Toledo District, die den spektakulären Blue Creek Canyon beherbergt.",
       hu: "Mészkő-lépcső Belize északnyugati határán, ahol a Blue Creek folyó látványos barlangokból tör elő.",
@@ -1038,7 +1024,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
       hu: "Mountain Pine Ridge-lejtő",
       ro: "Versantul Mountain Pine Ridge",
       en: "Mountain Pine Ridge Escarpment"},
-    image: "/poi-images/mountain-pine-ridge-escarpment-relief-v2.webp",
     description: {
       de: "Die markante Abbruchkante des Mountain Pine Ridge Hochlands.",
       hu: "A Mountain Pine Ridge-fennsík markáns letörése.",
@@ -1089,7 +1074,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
       hu: "Maya-hegység előhegyei",
       ro: "Poalele Munților Maya",
       en: "Maya Mountains Foothills"},
-    image: "/poi-images/maya-mountains-foothills-relief-v2.webp",
     description: {
       de: "Die sanften Ausläufer des Maya-Gebirges, die einen wichtigen ökologischen Übergangsbereich bilden.",
       hu: "A központi Maya-hegységet övező lankás dombvidék, amely Belize belső területeinek kapuja.",

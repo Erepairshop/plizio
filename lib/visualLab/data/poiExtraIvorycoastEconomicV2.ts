@@ -78,7 +78,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "San-Pédro Kikötője",
       ro: "Portul San-Pédro",
       en: "Port of San-Pédro"},
-    image: "/poi-images/ci-port-san-pedro.webp",
     description: {
       de: "Der zweitgrößte Hafen der Elfenbeinküste, weltweit führend im Kakaoexport.",
       hu: "Elefántcsontpart második legnagyobb kikötője, világelső a kakaóexportban.",
@@ -209,7 +208,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "Ity Aranybánya",
       ro: "Mina de Aur Ity",
       en: "Ity Gold Mine"},
-    image: "/poi-images/ci-ity-gold-mine.webp",
     description: {
       de: "Eine der ältesten und größten Goldminen der Elfenbeinküste in der Region Montagnes.",
       hu: "Elefántcsontpart egyik legrégebbi és legnagyobb aranybányája a Montagnes régióban.",
@@ -274,7 +272,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "Tongon Aranybánya",
       ro: "Mina de Aur Tongon",
       en: "Tongon Gold Mine"},
-    image: "/poi-images/ci-tongon-gold-mine.webp",
     description: {
       de: "Eine bedeutende Goldmine im Norden des Landes in der Region Savanes.",
       hu: "Jelentős aranybánya az ország északi részén, a Savanes régióban.",
@@ -339,7 +336,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "Agbaou Aranybánya",
       ro: "Mina de Aur Agbaou",
       en: "Agbaou Gold Mine"},
-    image: "/poi-images/ci-agbaou-gold-mine.webp",
     description: {
       de: "Eine kommerzielle Goldmine, die einen wichtigen Beitrag zum Bergbausektor leistet.",
       hu: "Kereskedelmi aranybánya, amely fontos szerepet játszik a bányászati szektorban.",
@@ -404,7 +400,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "Yaouré Aranybánya",
       ro: "Mina de Aur Yaouré",
       en: "Yaouré Gold Mine"},
-    image: "/poi-images/ci-yaoure-gold-mine.webp",
     description: {
       de: "Eine hochmoderne Goldmine in der Nähe von Yamoussoukro, die maßgeblich zur Exportwirtschaft beiträgt.",
       hu: "Egy ultramodern aranybánya Yamoussoukro közelében, amely jelentősen hozzájárul az exportgazdasághoz.",
@@ -469,7 +464,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "Sissingué Aranybánya",
       ro: "Mina de Aur Sissingué",
       en: "Sissingué Gold Mine"},
-    image: "/poi-images/ci-sissingue-gold-mine.webp",
     description: {
       de: "Eine weitere wichtige Goldmine im Norden, nahe der Grenze zu Mali.",
       hu: "Egy másik fontos aranybánya északon, a mali határ közelében.",
@@ -534,7 +528,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "Bonikro Aranybánya",
       ro: "Mina de Aur Bonikro",
       en: "Bonikro Gold Mine"},
-    image: "/poi-images/ci-bonikro-gold-mine.webp",
     description: {
       de: "Eine etablierte Goldmine, die über Jahre hinweg stabile Fördermengen liefert.",
       hu: "Egy jól bejáratott aranybánya, amely évek óta stabil kitermelést biztosít.",
@@ -644,7 +637,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "Foungbesso Nikkelbánya",
       ro: "Mina de Nichel Foungbesso",
       en: "Foungbesso Nickel Mine"},
-    image: "/poi-images/ci-foungbesso-nickel.webp",
     description: {
       de: "Ein bedeutendes Nickelabbauprojekt, das zur Diversifizierung des Bergbausektors beiträgt.",
       hu: "Jelentős nikkelbányászati projekt, amely hozzájárul a bányászati szektor diverzifikálásához.",
@@ -709,7 +701,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "Séguéla Aranybánya",
       ro: "Mina de Aur Séguéla",
       en: "Séguéla Gold Mine"},
-    image: "/poi-images/ci-seguela-gold-mine.webp",
     description: {
       de: "Ein vielversprechendes Goldabbaugebiet im Woroba Distrikt mit modernster Technologie.",
       hu: "Ígéretes aranybányászati terület a Woroba körzetben, a legmodernebb technológiával.",
@@ -774,7 +765,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "Cargill Kakaógyár",
       ro: "Fabrica de Cacao Cargill",
       en: "Cargill Cocoa Factory"},
-    image: "/poi-images/ci-cargill-cocoa-abidjan.webp",
     description: {
       de: "Eine der größten Kakaoverarbeitungsanlagen in Abidjan, die Rohkakao zu Halbfabrikaten verarbeitet.",
       hu: "Abidjan egyik legnagyobb kakaófeldolgozó üzeme, amely nyers kakaót dolgoz fel félkész termékekké.",
@@ -884,7 +874,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "Olam Kakaófeldolgozó",
       ro: "Procesarea Cacao Olam",
       en: "Olam Cocoa Processing"},
-    image: "/poi-images/ci-olam-cocoa-san-pedro.webp",
     description: {
       de: "Große Kakaoverarbeitungsanlage in San-Pédro zur Wertschöpfung vor dem Export.",
       hu: "Nagy kakaófeldolgozó üzem San-Pédróban, amely az export előtti értékteremtést szolgálja.",
@@ -949,7 +938,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "SANIA Pálmaolajgyár",
       ro: "Fabrica de Ulei de Palmier SANIA",
       en: "SANIA Palm Oil Factory"},
-    image: "/poi-images/ci-sania-palm-oil.webp",
     description: {
       de: "Ein führendes Unternehmen in der Verarbeitung von Palmöl in Westafrika, ansässig in Abidjan.",
       hu: "Vezető vállalat a pálmaolaj feldolgozásában Nyugat-Afrikában, székhelye Abidjanban van.",
@@ -1014,7 +1002,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "SUCAF Cukorgyár",
       ro: "Fabrica de Zahăr SUCAF",
       en: "SUCAF Sugar Factory"},
-    image: "/poi-images/ci-sucaf-ferkessedougou.webp",
     description: {
       de: "Eine der größten Zuckerfabriken des Landes, umgeben von weitläufigen Zuckerrohrplantagen in Ferkessédougou.",
       hu: "Az ország egyik legnagyobb cukorgyára, hatalmas cukornádültetvényekkel körülvéve Ferkessédougouban.",
@@ -1196,7 +1183,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "CIPREL Erőmű",
       ro: "Centrala Electrică CIPREL",
       en: "CIPREL Power Plant"},
-    image: "/poi-images/ci-ciprel-power-plant.webp",
     description: {
       de: "Das größte thermische Kraftwerk in Abidjan, das maßgeblich zur Stromversorgung des Landes beiträgt.",
       hu: "Abidjan legnagyobb hőerőműve, amely jelentősen hozzájárul az ország áramellátásához.",
@@ -1261,7 +1247,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "Azito Erőmű",
       ro: "Centrala Electrică Azito",
       en: "Azito Power Plant"},
-    image: "/poi-images/ci-azito-power-plant.webp",
     description: {
       de: "Ein wichtiges Gaskraftwerk in der Nähe von Abidjan, das zu den effizientesten Westafrikas zählt.",
       hu: "Fontos gázerőmű Abidjan közelében, amely Nyugat-Afrika leghatékonyabbjai közé tartozik.",
@@ -1371,7 +1356,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "Soubré Gát",
       ro: "Barajul Soubré",
       en: "Soubré Dam"},
-    image: "/poi-images/ci-soubre-dam.webp",
     description: {
       de: "Das leistungsstärkste Wasserkraftwerk der Elfenbeinküste am Fluss Sassandra.",
       hu: "Elefántcsontpart legnagyobb teljesítményű vízerőműve a Sassandra folyón.",
@@ -1436,7 +1420,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "Taabo Gát",
       ro: "Barajul Taabo",
       en: "Taabo Dam"},
-    image: "/poi-images/ci-taabo-dam.webp",
     description: {
       de: "Ein historisch wichtiges Wasserkraftwerk am Bandama-Fluss, das eine konstante Stromversorgung sicherstellt.",
       hu: "Történelmileg fontos vízerőmű a Bandama folyón, amely állandó áramellátást biztosít.",
@@ -1582,7 +1565,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "UNIWAX Textilgyár",
       ro: "Fabrica de Textile UNIWAX",
       en: "UNIWAX Textile Factory"},
-    image: "/poi-images/ci-uniwax-abidjan.webp",
     description: {
       de: "Die führende Fabrik für traditionelle afrikanische Wachsdruckstoffe (Pagne) in Westafrika.",
       hu: "A hagyományos afrikai viasznyomott textilek (Pagne) vezető gyára Nyugat-Afrikában.",
@@ -1692,7 +1674,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "SOLIBRA Sörfőzde",
       ro: "Berăria SOLIBRA",
       en: "SOLIBRA Brewery"},
-    image: "/poi-images/ci-solibra-brewery.webp",
     description: {
       de: "Die älteste und größte Brauerei der Elfenbeinküste, die Getränke für den nationalen Markt herstellt.",
       hu: "Elefántcsontpart legrégebbi és legnagyobb sörfőzdéje, amely a hazai piacra állít elő italokat.",
@@ -1910,7 +1891,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "Brassivoire Sörfőzde",
       ro: "Berăria Brassivoire",
       en: "Brassivoire Brewery"},
-    image: "/poi-images/ci-brassivoire.webp",
     description: {
       de: "Eine moderne Brauerei in Anyama, die als Joint Venture zwischen Heineken und CFAO betrieben wird.",
       hu: "Egy ultramodern sörfőzde Anyamában, amely fellendíti a versenyt az elefántcsontparti italpiacon.",
@@ -2017,7 +1997,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "Nestlé Yopougon Gyár",
       ro: "Fabrica Nestlé Yopougon",
       en: "Nestlé Factory Yopougon"},
-    image: "/poi-images/ci-nestle-yopougon.webp",
     description: {
       de: "Eine wichtige Lebensmittel- und Getränkefabrik im Industriegebiet Yopougon.",
       hu: "Fontos élelmiszer- és italgyártó üzem a yopougoni ipari negyedben.",
@@ -2082,7 +2061,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "FILTISAC Csomagolóüzem",
       ro: "Fabrica de Ambalaje FILTISAC",
       en: "FILTISAC Packaging Factory"},
-    image: "/poi-images/ci-filtisac.webp",
     description: {
       de: "Ein führender Hersteller von Jutesäcken und Kunststoffverpackungen, essenziell für den Kakao- und Kaffee-Export.",
       hu: "Vezető jutazsák- és műanyag csomagolóanyag-gyártó, amely elengedhetetlen a kakaó- és kávéexporthoz.",
@@ -2147,7 +2125,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "Kossou Gát",
       ro: "Barajul Kossou",
       en: "Kossou Dam"},
-    image: "/poi-images/ci-kossou-dam.webp",
     description: {
       de: "Ein großer Staudamm, der den riesigen Kossou-See bildet und das Zentrum der Elfenbeinküste mit Strom versorgt.",
       hu: "Nagy gát, amely a hatalmas Kossou-tavat hozza létre, és az ország közepét látja el árammal.",
@@ -2212,7 +2189,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "Buyo Gát",
       ro: "Barajul Buyo",
       en: "Buyo Dam"},
-    image: "/poi-images/ci-buyo-dam.webp",
     description: {
       de: "Wichtiger Staudamm am Fluss Sassandra im Westen, der den Buyo-See staut.",
       hu: "Fontos gát a nyugati Sassandra folyón, amely a Buyo-tavat duzzasztja fel.",
@@ -2277,7 +2253,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "SOTICI Műanyagcső Gyár",
       ro: "Fabrica de Țevi din Plastic SOTICI",
       en: "SOTICI PVC Pipe Factory"},
-    image: "/poi-images/ci-sotici-pvc.webp",
     description: {
       de: "Die größte Fabrik für PVC- und Polyethylenrohre in Westafrika, wichtig für Wasser- und Bauinfrastruktur.",
       hu: "Nyugat-Afrika legnagyobb PVC- és polietiléncső gyára, amely fontos a víz- és építőipari infrastruktúrában.",
@@ -2342,7 +2317,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "TRCI Kaucsukgyár",
       ro: "Fabrica de Cauciuc TRCI",
       en: "TRCI Rubber Factory"},
-    image: "/poi-images/ci-trci-rubber.webp",
     description: {
       de: "Die Tropical Rubber Côte d'Ivoire Fabrik in Bongo verarbeitet Naturkautschuk für den Weltmarkt.",
       hu: "A Tropical Rubber Côte d'Ivoire gyár Bongóban természetes kaucsukot dolgoz fel a világpiacra.",
@@ -2407,7 +2381,6 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       hu: "Foxtrot Tengeri Gázplatform",
       ro: "Platforma de Gaze Offshore Foxtrot",
       en: "Foxtrot Offshore Gas Platform"},
-    image: "/poi-images/ci-foxtrot-gas.webp",
     description: {
       de: "Eine entscheidende Offshore-Gasförderanlage, die den Großteil des Gases für ivorische Kraftwerke liefert.",
       hu: "Egy kulcsfontosságú tengeri gázkitermelő létesítmény, amely az elefántcsontparti erőművek gázának nagy részét adja.",

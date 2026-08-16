@@ -57,7 +57,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Kinshasa",
       ro: "Kinshasa",
       en: "Kinshasa"},
-    image: "/poi-images/cd-kinshasa-cities-v2.webp",
     description: {
       de: "Kinshasa ist die pulsierende Hauptstadt der Demokratischen Republik Kongo und eine der größten Städte Afrikas am Ufer des Kongo-Flusses.",
       hu: "A Kongói Demokratikus Köztársaság fővárosa és legnagyobb városa, a Kongó-folyó partján fekszik.",
@@ -117,7 +116,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       pt: ["Maluku situa-se a cerca de 80 quilómetros a leste do centro de Kinshasa.", "A siderurgia de Maluku foi inaugurada em 1974 sob a presidência de Mobutu Sese Seko.", "O local marca o início geográfico do vale de ruptura do Congo.", "O porto de Maluku é um centro logístico fundamental para o transporte de madeira.", "Na região encontra-se uma conhecida Aldeia de Crianças SOS.", "Maluku é uma das maiores comunas da capital em termos de área."],
       fr: ["Maluku est située à environ 80 kilomètres à l'est du centre-ville de Kinshasa.", "La sidérurgie de Maluku a été inaugurée en 1974 sous le président Mobutu Sese Seko.", "L'endroit marque le début géographique de la vallée de percée du Congo.", "Le port de Maluku est un nœud central pour le transport du bois.", "Un célèbre village d'enfants SOS se trouve dans la région.", "Maluku est l'une des plus grandes communes de la capitale en termes de superficie."],
     }, },
-    image: "/poi-images/cd-maluku-cities-v2.webp",
     description: {
       de: "Maluku ist eine ländliche Gemeinde im Osten von Kinshasa, die für ihren Flusshafen und als Tor zum Landesinneren bekannt ist.",
       hu: "Kinshasa egyik kerülete és ipari területe a Malebo-tó bejáratánál.",
@@ -206,7 +204,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       ro: ["Matadi este capitala provinciei Kongo Central și principalul port al țării.", "Podul Matadi a fost construit cu asistență japoneză și inaugurat în 1983.", "Orașul este situat la limita navigației maritime pe fluviul Congo.", "În apropiere se află Piatra lui Ielala, monument istoric cu inscripții din 1485.", "Economia orașului este dependentă în proporție de 90% de activitatea portuară.", "Matadi are un aeroport (IATA: MAT) care deservește zboruri interne.", "Este un nod rutier major care leagă RD Congo de enclava angoleză Cabinda.", "Populația orașului depășește 300.000 de locuitori conform estimărilor recente."],
       en: ["Matadi is the Democratic Republic of the Congo's primary ocean port.", "The Matadi Bridge is the only permanent crossing of the lower Congo River.", "The city was founded in 1886 by Sir Henry Morton Stanley.", "It serves as the administrative capital of the Kongo Central Province.", "The terrain is extremely hilly, earning the city the nickname 'Stoneland'.", "Matadi is the terminus of the railway line that connects the coast to Kinshasa.", "The climate is tropical, with a mean annual temperature of about 27°C.", "The port facility is located on the left bank, opposite the town of Vivi."],
     }, },
-    image: "/poi-images/cd-matadi-cities-v2.webp",
     description: {
       de: "Matadi ist die wichtigste Hafenstadt des Landes und liegt am Unterlauf des Kongo-Flusses, unweit des Atlantischen Ozeans.",
       hu: "Az ország legfontosabb tengeri kikötője a Kongó-folyó tölcsértorkolatánál.",
@@ -261,7 +258,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       pt: ["Boma foi a capital do Congo de 1886 a 1923.", "A primeira igreja cristã do país foi construída em Boma em 1890.", "Na cidade encontra-se um baobab de 700 anos que serviu como prisão.", "Boma situa-se a cerca de 100 quilómetros do interior do Atlântico.", "O caminho-de-ferro de Mayumbe ligava outrora Boma a Tshela, no norte.", "Boma foi um importante mercado de escravos na região no século XVIII."],
       fr: ["Boma fut la capitale du Congo de 1886 à 1923.", "La première église chrétienne du pays fut érigée à Boma en 1890.", "La ville abrite un baobab de 700 ans qui servait autrefois de prison.", "Boma se situe à environ 100 kilomètres à l'intérieur des terres depuis l'Atlantique.", "Le chemin de fer du Mayumbe reliait autrefois Boma à Tshela au nord.", "Boma était un important marché aux esclaves de la région au XVIIIe siècle."],
     }, },
-    image: "/poi-images/cd-boma-cities-v2.webp",
     description: {
       de: "Boma war die ehemalige Hauptstadt des Belgischen Kongos und dient heute als bedeutender Hafen für den Export von Holz und landwirtschaftlichen Produkten.",
       hu: "Történelmi kikötőváros, amely 1886 és 1926 között Belga Kongó fővárosa volt.",
@@ -312,7 +308,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       pt: ["Muanda possui o único porto marítimo do país para a exportação de petróleo.", "O Parque Nacional dos Mangais perto de Muanda é Património Natural da Humanidade.", "A cidade possui uma linha de praia com 15 quilómetros no Atlântico.", "Muanda situa-se a apenas cerca de 10 quilómetros a norte da fronteira com Angola.", "A extração de petróleo na região começou logo na década de 1970.", "A cidade possui o seu próprio aeroporto para ligações regionais."],
       fr: ["Muanda possède le seul port maritime du pays pour l'exportation du pétrole.", "Le parc national des Mangroves près de Muanda est inscrit au patrimoine mondial de l'UNESCO.", "La ville dispose d'une ligne de plage de 15 kilomètres sur l'Atlantique.", "Muanda est située à seulement 10 kilomètres environ au nord de la frontière angolaise.", "La production de pétrole dans la région a commencé dès les années 1970.", "La ville possède son propre aéroport pour les liaisons régionales."],
     }, },
-    image: "/poi-images/cd-muanda-cities-v2.webp",
     description: {
       de: "Muanda ist der einzige Küstenort der Demokratischen Republik Kongo und bekannt für seine Ölförderung sowie seine Sandstrände am Atlantik.",
       hu: "Az ország egyetlen jelentős óceánparti városa az Atlanti-óceán mentén.",
@@ -480,7 +475,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       pt: ["Mbanza-Ngungu foi nomeada em 1904 em honra do engenheiro Albert Thys.", "A cidade situa-se a meio caminho entre Matadi e Kinshasa.", "Nas grutas de Mbanza-Ngungu vive o único barbo cego do mundo.", "A cidade é famosa pela sua produção de morangos e vegetais.", "Mbanza-Ngungu alberga uma importante guarnição do exército congolês.", "O clima é considerado um dos mais saudáveis de toda a região."],
       fr: ["Mbanza-Ngungu a été nommée en 1904 d'après l'ingénieur Albert Thys.", "La ville se situe à mi-chemin entre Matadi et Kinshasa.", "Le seul barbeau aveugle au monde vit dans les grottes de Mbanza-Ngungu.", "La ville est célèbre pour sa production de fraises et de légumes.", "Mbanza-Ngungu abrite une importante garnison de l'armée congolaise.", "Le climat est considéré comme l'un des plus sains de toute la région."],
     }, },
-    image: "/poi-images/cd-mbanza-ngungu-cities-v2.webp",
     description: {
       de: "Mbanza-Ngungu ist eine Stadt in der Provinz Kongo Central, die für ihre Eisenbahngeschichte und die nahegelegenen Kalksteinhöhlen bekannt ist.",
       hu: "Város és vasúti csomópont Kongo Central tartományban, ismert a barlangjairól.",
@@ -525,7 +519,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       ro: ["Lubumbashi este capitala provinciei Haut-Katanga, la granița cu Zambia.", "Orașul a fost numit Élisabethville până în 1966, în onoarea reginei Belgiei.", "Este centrul economic al regiunii Copperbelt (Centura Cuprului).", "Populația orașului a crescut de la 50.000 în 1940 la peste 2 milioane astăzi.", "Aeroportul Luano este unul dintre cele mai tranzitate din RD Congo.", "Grădina Zoologică din Lubumbashi este una dintre cele mai vechi din regiune.", "Orașul este sediul central pentru mai multe bănci și companii internaționale.", "Lubumbashi are o climă cu ierni uscate și răcoroase (mai-august)."],
       en: ["Lubumbashi is the mining capital of the DRC and head of the Haut-Katanga Province.", "The city was founded in 1910 and renamed from Elisabethville in 1966.", "It sits at an altitude of 1,230m, providing a mild, pleasant climate.", "Home to the University of Lubumbashi, one of the DRC's top academic institutions.", "The city produces a significant portion of the world's cobalt and copper.", "TP Mazembe, the local football team, reached the FIFA Club World Cup final in 2010.", "Lubumbashi is a key rail link between central Africa and South African ports.", "The city hosted the 1960 declaration of independence for the State of Katanga."],
     }, },
-    image: "/poi-images/cd-lubumbashi-cities-v2.webp",
     description: {
       de: "Lubumbashi ist das wirtschaftliche Zentrum im Südosten des Landes und die Hauptstadt der mineralienreichen Provinz Haut-Katanga.",
       hu: "Az ország második legnagyobb városa és a bányászat központja Katanga régióban.",
@@ -576,7 +569,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       pt: ["Likasi recebeu o estatuto de cidade em 1943, sendo a terceira cidade do Congo.", "A cidade fica a cerca de 120 quilómetros a noroeste de Lubumbashi.", "Em Likasi encontra-se um importante museu mineiro.", "A mina de Shinkolobwe, perto de Likasi, forneceu urânio para o Projeto Manhattan.", "O lema da cidade é 'Aere Laboraque' (Pelo minério e pelo trabalho).", "A cidade situa-se no cruzamento dos caminhos-de-ferro para Dilolo e Sakania."],
       fr: ["Likasi a obtenu le statut de ville en 1943, devenant la troisième ville du Congo.", "La ville est située à environ 120 kilomètres au nord-ouest de Lubumbashi.", "Likasi abrite un important musée minier.", "La mine de Shinkolobwe, près de Likasi, a fourni l'uranium pour le projet Manhattan.", "La devise de la ville est 'Aere Laboraque' (Par le minerai et le travail).", "La ville est au carrefour des voies ferrées vers Dilolo et Sakania."],
     }, },
-    image: "/poi-images/cd-likasi-cities-v2.webp",
     description: {
       de: "Likasi ist ein bedeutendes Bergbauzentrum in der Provinz Haut-Katanga, das für seine reichen Kupfer- und Kobaltvorkommen bekannt ist.",
       hu: "Fontos bányászváros Haut-Katanga tartományban, réz- és kobaltlelőhelyekkel.",
@@ -672,7 +664,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       pt: ["A mina de Kipushi foi inaugurada em 1924.", "A cidade situa-se no ponto mais meridional do pedículo congolês.", "Kipushi possui um depósito de zinco com um teor de até 35%.", "Um estádio de futebol local é frequentemente utilizado para torneios transfronteiriços.", "A fronteira com a Zâmbia atravessa parcialmente a zona mineira.", "Kipushi está ligada diretamente a Lubumbashi por uma estrada asfaltada."],
       fr: ["La mine de Kipushi a été ouverte en 1924.", "La ville est située au point le plus au sud de la botte du Congo.", "Kipushi possède un gisement de zinc avec une teneur allant jusqu'à 35 %.", "Un stade de football local est souvent utilisé pour des tournois transfrontaliers.", "La frontière avec la Zambie traverse partiellement la zone minière.", "Kipushi est reliée directement à Lubumbashi par une route asphaltée."],
     }, },
-    image: "/poi-images/cd-kipushi-cities-v2.webp",
     description: {
       de: "Kipushi liegt direkt an der Grenze zu Sambia und ist berühmt für seine Zink- und Kupferminen, die zu den tiefsten Afrikas gehören.",
       hu: "Közvetlenül a zambiai határon fekvő bányászváros Katanga régióban.",
@@ -768,7 +759,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       ro: ["Kolwezi este reședința provinciei Lualaba din sudul RD Congo.", "Orașul este situat la o altitudine ridicată de 1.450 metri.", "Este cel mai mare producător de cobalt din întreaga lume.", "Calea ferată Benguela leagă orașul de Oceanul Atlantic.", "Bătălia de la Kolwezi din 1978 este un moment istoric cheie.", "Lacul Nzilo este principala sursă de energie hidroelectrică.", "Majoritatea marilor companii miniere chineze au sedii aici.", "Orașul este un nod logistic esențial pentru coridorul Lobito."],
       en: ["Kolwezi is the provincial capital of Lualaba Province.", "It sits at a high altitude of 1,450 meters (4,750 feet).", "The city is a global center for copper and cobalt mining.", "The 1978 Battle of Kolwezi involved a famous paratrooper drop.", "It is a key station on the Benguela Railway to Angola.", "The Nzilo Dam on the Lualaba River is located nearby.", "The city's economy is almost entirely based on mineral extraction.", "Kolwezi is a focal point of international green energy supply chains."],
     }, },
-    image: "/poi-images/cd-kolwezi-cities-v2.webp",
     description: {
       de: "Kolwezi ist die Welthauptstadt der Kobaltförderung und ein rasant wachsendes Bergbauzentrum im Süden der Demokratischen Republik Kongo.",
       hu: "Lualaba tartomány fővárosa, a világ egyik legjelentősebb kobaltbányászati központja.",
@@ -960,7 +950,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       ro: ["Kamina este reședința administrativă a provinciei Haut-Lomami.", "Orașul se află la o altitudine strategică de aproximativ 1100 de metri.", "Găzduiește Baza Kamina, una dintre cele mai mari baze aeriene din Africa.", "Este un nod feroviar vital pentru rețeaua națională SNCC.", "Economia se bazează pe creșterea bovinelor pe pășunile din jur.", "Universitatea din Kamina (UNIKAM) asigură educația superioară în provincie.", "Orașul este un centru principal de instruire pentru armata congoleză.", "Producția de bumbac și tutun este esențială pentru fermierii locali."],
       en: ["Kamina is the provincial capital of Haut-Lomami in southern DRC.", "The city is located on a plateau at an elevation of 1,100 meters (3,600 feet).", "It is home to the Kamina Base, a massive military complex with two airfields.", "The city is a key railway junction connecting three major national routes.", "Cattle ranching is a major economic activity in the surrounding savannas.", "The University of Kamina (UNIKAM) is the city's primary academic institution.", "Kamina serves as a primary strategic training site for the national military.", "The surrounding region is a major producer of cotton and tobacco crops."],
     }, },
-    image: "/poi-images/cd-kamina-cities-v2.webp",
     description: {
       de: "Kamina ist ein wichtiger Verkehrsknotenpunkt und Militärstützpunkt im Zentrum der ehemaligen Provinz Katanga.",
       hu: "Haut-Lomami tartomány fővárosa és fontos katonai bázis.",
@@ -1011,7 +1000,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       pt: ["Bukama situa-se no curso superior do rio Congo, que aqui é chamado de Lualaba.", "A cidade é um importante ponto de transbordo da companhia ferroviária nacional SNCC.", "O percurso navegável do rio estende-se de Bukama até Kongolo.", "A região pertence à depressão de Upemba, que inclui mais de 50 lagos.", "A ponte ferroviária de Bukama é um dos monumentos mais distintivos da cidade.", "A cidade é conhecida pelo comércio de peixe seco e fumado."],
       fr: ["Bukama se situe sur le cours supérieur du fleuve Congo, appelé ici Lualaba.", "La ville est un point de transbordement majeur pour la société nationale des chemins de fer SNCC.", "La partie navigable du fleuve s'étend de Bukama jusqu'à Kongolo.", "La région appartient à la dépression de l'Upemba, qui compte plus de 50 lacs.", "Le pont ferroviaire de Bukama est l'un des monuments les plus emblématiques de la ville.", "La ville est réputée pour son commerce de poissons séchés et fumés."],
     }, },
-    image: "/poi-images/cd-bukama-cities-v2.webp",
     description: {
       de: "Bukama ist eine Hafenstadt am Lualaba-Fluss, die als wichtiger Umschlagplatz zwischen Flussschifffahrt und Eisenbahn dient.",
       hu: "Folyami kikötő és vasúti állomás a Lualaba-folyó partján.",
@@ -1107,7 +1095,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       ro: ["Kalemie este capitala provinciei Tanganyika, situată pe malul vestic al lacului.", "Numele istoric al orașului, până în 1966, a fost Albertville.", "Orașul este situat la confluența lacului Tanganyika cu râul Lukuga.", "Portul Kalemie asigură legătura vitală cu portul Kigoma din Tanzania.", "Este un nod feroviar major ce leagă transportul naval de interiorul țării.", "Pescuitul industrial și artizanal furnizează hrană pentru întreaga regiune.", "Regiunea deține zăcăminte de cărbune în bazinul adiacent Lukuga.", "Universitatea din Kalemie (UNIKAL) este principalul centru de învățământ superior."],
       en: ["Kalemie is the capital city of Tanganyika Province in the southeast DRC.", "It was founded in 1892 and was known as Albertville until 1966.", "The city is located at the outlet of the Lukuga River from Lake Tanganyika.", "Kalemie Port is a key hub for trade with Tanzania, Burundi, and Zambia.", "It serves as a major terminus for the Congolese national railway (SNCC).", "The fishing industry, focusing on sardines, is a pillar of the local economy.", "The Lukuga coal deposits nearby are among the largest in the country.", "The University of Kalemie (UNIKAL) is a major regional educational center."],
     }, },
-    image: "/poi-images/cd-kalemie-cities-v2.webp",
     description: {
       de: "Kalemie liegt am Westufer des Tanganjikasees und ist ein strategischer Hafenort sowie der Endpunkt der Eisenbahnlinie aus dem Landesinneren.",
       hu: "Fontos kikötőváros a Tanganyika-tó nyugati partján, Tanganyika tartomány székhelye.",
@@ -1158,7 +1145,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       pt: ["A Ponte de Kongolo tem um comprimento total de 440 metros.", "A construção da ponte foi concluída durante a era colonial belga.", "Kongolo é uma paragem importante da linha ferroviária Kindu-Kalemie.", "O rio Lualaba é o curso superior do caudaloso rio Congo.", "A cidade possui uma catedral dedicada a São Paulo.", "Em Kongolo, ocorreu um massacre de missionários em 1962, durante os distúrbios após a independência."],
       fr: ["Le pont de Kongolo a une longueur totale de 440 mètres.", "La construction du pont a été achevée pendant l'époque coloniale belge.", "Kongolo est un arrêt important sur la ligne de chemin de fer Kindu-Kalemie.", "Le fleuve Lualaba est le cours supérieur du puissant fleuve Congo.", "La ville possède une cathédrale dédiée à Saint-Paul.", "Kongolo a été le théâtre d'un massacre de missionnaires en 1962 lors des troubles suivant l'indépendance."],
     }, },
-    image: "/poi-images/cd-kongolo-cities-v2.webp",
     description: {
       de: "Kongolo ist eine Stadt am Lualaba-Fluss, die für ihre beeindruckende Eisenbahnbrücke bekannt ist, welche den Fluss überspannt.",
       hu: "Város a Lualaba-folyó partján, amely stratégiai közlekedési pontként szolgál.",
@@ -1209,7 +1195,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       pt: ["O projeto Manono é considerado um dos maiores depósitos de lítio inexplorados do mundo.", "Na época colonial, Manono possuía uma das maiores fundições de estanho de África.", "A cidade situa-se a cerca de 450 quilómetros a oeste de Kalemie.", "As centrais hidroelétricas de Mpiana-Mwanga foram construídas na década de 1930.", "Manono foi palco de intensos combates durante a Segunda Guerra do Congo.", "A região possui depósitos significativos de tântalo e nióbio (coltán)."],
       fr: ["Le projet Manono est considéré comme l'un des plus grands gisements de lithium non exploités au monde.", "À l'époque coloniale, Manono disposait de l'une des plus grandes fonderies d'étain d'Afrique.", "La ville est située à environ 450 kilomètres à l'ouest de Kalemie.", "Les centrales hydroélectriques de Mpiana-Mwanga ont été construites dans les années 1930.", "Manono a été le théâtre de violents combats pendant la deuxième guerre du Congo.", "La région possède d'importants gisements de tantale et de niobium (coltan)."],
     }, },
-    image: "/poi-images/cd-manono-cities-v2.webp",
     description: {
       de: "Manono ist historisch als Bergbaustadt für Zinn bekannt und beherbergt heute eines der weltweit größten unerschlossenen Lithiumvorkommen.",
       hu: "Bányászváros Tanganyika tartományban, amely hatalmas ásványkincskészleteiről ismert.",
@@ -1299,7 +1284,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       ro: ["Bukavu este situat la coordonatele 2°30′S 28°52′E.", "Lacul Kivu este unul dintre 'lacurile ucigașe' din cauza riscului de erupție limnică.", "Orașul găzduiește sediul misiunii ONU (MONUSCO) pentru regiunea de sud.", "Aeroportul Kavumu deservește orașul și este situat la 30 km distanță.", "Industria locală include fabrici de bere (Primus) și procesarea cafelei.", "Bukavu are o topografie foarte accidentată, cu pante de peste 45 de grade.", "Catedrala Notre-Dame de la Paix a fost construită în stil neogotic.", "Regiunea Kivu de Sud este una dintre cele mai dens populate din RD Congo."],
       en: ["Bukavu's elevation is approximately 1,498 meters above sea level.", "The city was a major administrative center for the Kivu District since 1920.", "The Ruzizi I hydroelectric dam provides power to Bukavu and Cyangugu.", "Art Deco structures in the city are being considered for heritage protection.", "The city's population density exceeds 20,000 people per square kilometer in some areas.", "Bukavu is a major hub for the '3T' minerals: Tin, Tantalum, and Tungsten.", "The Lake Kivu ferry to Goma takes about 3 hours by speedboat.", "Local flora includes vibrant jacarandas and flamboyant trees."],
     }, },
-    image: "/poi-images/cd-bukavu-cities-v2.webp",
     description: {
       de: "Bukavu ist eine malerische Stadt am südlichen Ende des Kivusees, die für ihre Architektur aus der Kolonialzeit und ihre hügelige Landschaft bekannt ist.",
       hu: "Dél-Kivu tartomány fővárosa, a Kivu-tó déli partján fekszik.",
@@ -1331,7 +1315,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Uvira",
       ro: "Uvira",
       en: "Uvira"},
-    image: "/poi-images/cd-uvira-cities-v2.webp",
     description: {
       de: "Uvira liegt am nördlichsten Punkt des Tanganjikasees und ist ein wichtiger Handelsplatz an der Grenze zu Burundi.",
       hu: "Kikötőváros a Tanganyika-tó északi végénél, a burundi határ közelében.",
@@ -1379,7 +1362,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Baraka",
       ro: "Baraka",
       en: "Baraka"},
-    image: "/poi-images/cd-baraka-cities-v2.webp",
     description: {
       de: "Baraka ist eine wachsende Stadt am Westufer des Tanganjikasees, die sich nach Jahren des Konflikts zu einem regionalen Wirtschaftszentrum entwickelt.",
       hu: "Gyorsan fejlődő város a Tanganyika-tó partján, Dél-Kivu tartományban.",
@@ -1520,7 +1502,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Goma",
       ro: "Goma",
       en: "Goma"},
-    image: "/poi-images/cd-goma-cities-v2.webp",
     description: {
       de: "Goma ist die dynamische Hauptstadt von Nord-Kivu, die am Fuße des aktiven Vulkans Nyiragongo und am Nordufer des Kivusees liegt.",
       hu: "Észak-Kivu tartomány székhelye, a Kivu-tó partján, a Nyiragongo-vulkán lábánál.",
@@ -1643,7 +1624,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Beni",
       ro: "Beni",
       en: "Beni"},
-    image: "/poi-images/cd-beni-cities-v2.webp",
     description: {
       de: "Beni ist ein wichtiges Handelszentrum im Norden von Nord-Kivu, das für seine Produktion von Kaffee, Kakao und Palmöl bekannt ist.",
       hu: "Kereskedelmi központ Észak-Kivu északi részén, a Ruwenzori-hegység közelében.",
@@ -1808,7 +1788,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Butembo",
       ro: "Butembo",
       en: "Butembo"},
-    image: "/poi-images/cd-butembo-cities-v2.webp",
     description: {
       de: "Butembo ist eine blühende Handelsstadt im Hochland von Nord-Kivu, die für den Unternehmergeist ihrer Bewohner und den grenzüberschreitenden Handel bekannt ist.",
       hu: "Nagyváros Észak-Kivuban, amely híres pezsgő kereskedelmi életéről.",
@@ -1856,7 +1835,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Oicha",
       ro: "Oicha",
       en: "Oicha"},
-    image: "/poi-images/cd-oicha-cities-v2.webp",
     description: {
       de: "Oicha ist der Verwaltungssitz des Territoriums Beni und liegt inmitten fruchtbarer Agrarflächen im Nordosten des Landes.",
       hu: "Adminisztratív és kereskedelmi központ Észak-Kivu tartományban.",
@@ -1949,7 +1927,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Bunia",
       ro: "Bunia",
       en: "Bunia"},
-    image: "/poi-images/cd-bunia-cities-v2.webp",
     description: {
       de: "Bunia ist die Hauptstadt der Provinz Ituri und ein wichtiges Zentrum für den Goldbergbau und den Handel mit den Nachbarländern im Osten.",
       hu: "Ituri tartomány fővárosa, az ország északkeleti részének egyik központja.",
@@ -1991,7 +1968,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Mahagi",
       ro: "Mahagi",
       en: "Mahagi"},
-    image: "/poi-images/cd-mahagi-cities-v2.webp",
     description: {
       de: "Mahagi ist eine wichtige Grenzstadt zu Uganda und dient als bedeutendes Tor für den Import und Export von Waren im Nordosten des Kongo.",
       hu: "Város Ituri tartományban, az Albert-tó közelében és az ugandai határ mentén.",
@@ -2039,7 +2015,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Aru",
       ro: "Aru",
       en: "Aru"},
-    image: "/poi-images/cd-aru-cities-v2.webp",
     description: {
       de: "Aru liegt im äußersten Nordosten des Landes an der Grenze zu Uganda und ist ein wichtiger Stützpunkt für den grenzüberschreitenden Handel.",
       hu: "Jelentős kereskedelmi központ Ituri tartomány északkeleti sarkában.",
@@ -2087,7 +2062,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Isiro",
       ro: "Isiro",
       en: "Isiro"},
-    image: "/poi-images/cd-isiro-cities-v2.webp",
     description: {
       de: "Isiro ist die Hauptstadt der Provinz Haut-Uele und ein wichtiges Zentrum für die Verarbeitung von Kaffee und Baumwolle im Nordosten des Landes.",
       hu: "Haut-Uele tartomány fővárosa az ország északkeleti részén, trópusi környezetben.",
@@ -2129,7 +2103,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Watsa",
       ro: "Watsa",
       en: "Watsa"},
-    image: "/poi-images/cd-watsa-cities-v2.webp",
     description: {
       de: "Watsa ist eine Stadt in der Provinz Haut-Uele, die für ihre bedeutenden Goldvorkommen und die nahegelegene Kibali-Goldmine bekannt ist.",
       hu: "Bányászváros Haut-Uele tartományban, amely aranylelőhelyeiről nevezetes.",
@@ -2177,7 +2150,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Kisangani",
       ro: "Kisangani",
       en: "Kisangani"},
-    image: "/poi-images/cd-kisangani-cities-v2.webp",
     description: {
       de: "Kisangani ist die drittgrößte Stadt des Landes und ein strategischer Flusshafen am Ende der schiffbaren Strecke des Kongo-Flusses.",
       hu: "Tshopo tartomány székhelye, korábban Stanleyville néven ismerték, a Kongó-folyó mentén fekszik.",
@@ -2219,7 +2191,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Bafwasende",
       ro: "Bafwasende",
       en: "Bafwasende"},
-    image: "/poi-images/cd-bafwasende-cities-v2.webp",
     description: {
       de: "Bafwasende ist das größte Territorium der Provinz Tshopo und liegt in einer Region mit dichten Regenwäldern und handwerklichem Bergbau.",
       hu: "Nagy kiterjedésű település Tshopo tartományban, sűrű esőerdők szívében.",
@@ -2267,7 +2238,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Buta",
       ro: "Buta",
       en: "Buta"},
-    image: "/poi-images/cd-buta-cities-v2.webp",
     description: {
       de: "Buta ist die Hauptstadt der Provinz Bas-Uele und liegt an einer historischen Eisenbahnstrecke, die den Norden des Landes mit dem Kongo-Fluss verbindet.",
       hu: "Bas-Uele tartomány fővárosa, az ország északi részének egyik fontos városa.",
@@ -2309,7 +2279,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Bondo",
       ro: "Bondo",
       en: "Bondo"},
-    image: "/poi-images/cd-bondo-cities-v2.webp",
     description: {
       de: "Bondo ist eine Stadt im hohen Norden an der Grenze zur Zentralafrikanischen Republik und ein bedeutendes Zentrum für den Handel mit Tropenholz.",
       hu: "Város Bas-Uele tartományban, közel a Közép-afrikai Köztársaság határához.",
@@ -2357,7 +2326,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Gbadolite",
       ro: "Gbadolite",
       en: "Gbadolite"},
-    image: "/poi-images/cd-gbadolite-cities-v2.webp",
     description: {
       de: "Gbadolite ist bekannt als die einstige Prunkresidenz des ehemaligen Präsidenten Mobutu Sese Seko, mitten im dichten Dschungel der Provinz Nord-Ubangi.",
       hu: "Nord-Ubangi tartomány fővárosa, Mobutu elnök egykori fényűző rezidenciájáról ismert.",
@@ -2447,7 +2415,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Lisala",
       ro: "Lisala",
       en: "Lisala"},
-    image: "/poi-images/cd-lisala-cities-v2.webp",
     description: {
       de: "Lisala ist eine Hafenstadt am Kongo-Fluss und der Geburtsort des langjährigen kongolesischen Staatschefs Mobutu Sese Seko.",
       hu: "Mongala tartomány fővárosa a Kongó-folyó partján, Mobutu Sese Seko szülőhelye.",
@@ -2489,7 +2456,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Bumba",
       ro: "Bumba",
       en: "Bumba"},
-    image: "/poi-images/cd-bumba-cities-v2.webp",
     description: {
       de: "Bumba ist ein bedeutender Flusshafen am Kongo, der als Umschlagplatz für landwirtschaftliche Produkte wie Reis und Palmöl dient.",
       hu: "Stratégiai fontosságú folyami kikötőváros Mongala tartományban.",
@@ -2537,7 +2503,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Gemena",
       ro: "Gemena",
       en: "Gemena"},
-    image: "/poi-images/cd-gemena-cities-v2.webp",
     description: {
       de: "Gemena ist die Hauptstadt der Provinz Sud-Ubangi und ein pulsierendes Handelszentrum, das durch seinen Flughafen gut an Kinshasa angebunden ist.",
       hu: "Sud-Ubangi tartomány székhelye, az ország északnyugati részének központja.",
@@ -2579,7 +2544,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Zongo",
       ro: "Zongo",
       en: "Zongo"},
-    image: "/poi-images/cd-zongo-cities-v2.webp",
     description: {
       de: "Zongo liegt direkt am Ubangi-Fluss gegenüber von Bangui, der Hauptstadt der Zentralafrikanischen Republik, und ist ein wichtiger Grenzort.",
       hu: "Határváros az Ubangi-folyó partján, szemben a Közép-afrikai Köztársaság fővárosával, Banguival.",
@@ -2744,7 +2708,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Mbandaka",
       ro: "Mbandaka",
       en: "Mbandaka"},
-    image: "/poi-images/cd-mbandaka-cities-v2.webp",
     description: {
       de: "Mbandaka ist eine wichtige Hafenstadt am Äquator, wo der Ruki-Fluss in den mächtigen Kongo mündet.",
       hu: "Équateur tartomány fővárosa, közvetlenül az Egyenlítő mentén fekszik a Kongó-folyónál.",
@@ -2786,7 +2749,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Basankusu",
       ro: "Basankusu",
       en: "Basankusu"},
-    image: "/poi-images/cd-basankusu-cities-v2.webp",
     description: {
       de: "Basankusu ist ein bedeutendes Zentrum für den Handel mit Palmöl und liegt an der strategischen Stelle, wo sich die Flüsse Lulonga und Lopori treffen.",
       hu: "Város Équateur tartományban, a Lulonga-folyó partján, az esőerdők mélyén.",
@@ -2834,7 +2796,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Bikoro",
       ro: "Bikoro",
       en: "Bikoro"},
-    image: "/poi-images/cd-bikoro-cities-v2.webp",
     description: {
       de: "Bikoro ist eine kleine Hafenstadt am Tumbasee, die für ihre Fischerei und die umliegenden dichten Regenwälder bekannt ist.",
       hu: "Település Équateur tartományban, a Tumba-tó partján fekszik.",
@@ -2927,7 +2888,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Boende",
       ro: "Boende",
       en: "Boende"},
-    image: "/poi-images/cd-boende-cities-v2.webp",
     description: {
       de: "Boende ist die Hauptstadt der Provinz Tshuapa und liegt am schiffbaren Tshuapa-Fluss, umgeben von riesigen Regenwaldgebieten.",
       hu: "Tshuapa tartomány fővárosa a Tshuapa-folyó partján, az ország szívében.",
@@ -3017,7 +2977,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Tshikapa",
       ro: "Tshikapa",
       en: "Tshikapa"},
-    image: "/poi-images/cd-tshikapa-cities-v2.webp",
     description: {
       de: "Tshikapa ist weltbekannt als Zentrum der Diamantenförderung und liegt an der Mündung des Tshikapa-Flusses in den Kasai.",
       hu: "Kasaï tartomány fővárosa, amely világszerte ismert gyémántbányászatáról.",
@@ -3059,7 +3018,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Ilebo",
       ro: "Ilebo",
       en: "Ilebo"},
-    image: "/poi-images/cd-ilebo-cities-v2.webp",
     description: {
       de: "Ilebo ist ein entscheidender Verkehrsknotenpunkt, an dem die Eisenbahn aus dem Süden endet und der Flusstransport nach Kinshasa beginnt.",
       hu: "Kiemelt fontosságú folyami kikötő Kasaï tartományban, a Kasaï-folyó partján.",
@@ -3107,7 +3065,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Mweka",
       ro: "Mweka",
       en: "Mweka"},
-    image: "/poi-images/cd-mweka-cities-v2.webp",
     description: {
       de: "Mweka ist eine wichtige Station an der Eisenbahnlinie zwischen Kananga und Ilebo und bekannt für ihre handwerklichen Traditionen.",
       hu: "Város és vasútállomás Kasaï tartományban, Kananga és Ilebo között.",
@@ -3155,7 +3112,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Kananga",
       ro: "Kananga",
       en: "Kananga"},
-    image: "/poi-images/cd-kananga-cities-v2.webp",
     description: {
       de: "Kananga ist eine bedeutende Handelsstadt und die Hauptstadt der Provinz Kasaï-Central, die reich an kulturellem Erbe ist.",
       hu: "Kasaï-Central tartomány fővárosa, az ország egyik legjelentősebb belső városa.",
@@ -3197,7 +3153,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Tshimbulu",
       ro: "Tshimbulu",
       en: "Tshimbulu"},
-    image: "/poi-images/cd-tshimbulu-cities-v2.webp",
     description: {
       de: "Tshimbulu ist ein wichtiger Bahnknotenpunkt in der Provinz Kasaï-Central, der die Region mit den Bergbaugebieten im Süden verbindet.",
       hu: "Adminisztratív és kereskedelmi központ Kasaï-Central tartományban.",
@@ -3245,7 +3200,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Demba",
       ro: "Demba",
       en: "Demba"},
-    image: "/poi-images/cd-demba-cities-v2.webp",
     description: {
       de: "Demba ist eine Kleinstadt an der Eisenbahnlinie, die für ihre landwirtschaftliche Produktion, insbesondere Mais und Maniok, bekannt ist.",
       hu: "Város és terület Kasaï-Central tartományban, Kanangától északnyugatra.",
@@ -3293,7 +3247,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Mbuji-Mayi",
       ro: "Mbuji-Mayi",
       en: "Mbuji-Mayi"},
-    image: "/poi-images/cd-mbuji-mayi-cities-v2.webp",
     description: {
       de: "Mbuji-Mayi ist die Diamantenhauptstadt des Landes und eine der bevölkerungsreichsten Städte im Herzen der Demokratischen Republik Kongo.",
       hu: "Kasaï-Oriental tartomány fővárosa, az ország gyémántbányászatának fellegvára.",
@@ -3335,7 +3288,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Tshilenge",
       ro: "Tshilenge",
       en: "Tshilenge"},
-    image: "/poi-images/cd-tshilenge-cities-v2.webp",
     description: {
       de: "Tshilenge liegt in unmittelbarer Nähe von Mbuji-Mayi und ist ein wichtiges ländliches Zentrum für die Versorgung der Bergbauregion.",
       hu: "Kisebb bányászváros és adminisztratív központ Kasaï-Oriental tartományban.",
@@ -3383,7 +3335,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Kabinda",
       ro: "Kabinda",
       en: "Kabinda"},
-    image: "/poi-images/cd-kabinda-cities-v2.webp",
     description: {
       de: "Kabinda ist die Hauptstadt der Provinz Lomami und liegt auf einem Plateau, das für seine reiche Geschichte und Traditionen bekannt ist.",
       hu: "Lomami tartomány fővárosa, egy dombos vidéken elhelyezkedő település.",
@@ -3473,7 +3424,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Lusambo",
       ro: "Lusambo",
       en: "Lusambo"},
-    image: "/poi-images/cd-lusambo-cities-v2.webp",
     description: {
       de: "Lusambo ist die historische Hauptstadt der Provinz Sankuru und liegt am Ufer des schiffbaren Sankuru-Flusses.",
       hu: "Sankuru tartomány fővárosa a Sankuru-folyó partján.",
@@ -3515,7 +3465,6 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       hu: "Lodja",
       ro: "Lodja",
       en: "Lodja"},
-    image: "/poi-images/cd-lodja-cities-v2.webp",
     description: {
       de: "Lodja ist das größte Wirtschaftszentrum der Provinz Sankuru und ein wichtiger Sammelpunkt für Reis, Kaffee und Baumwolle.",
       hu: "Sankuru tartomány legnagyobb városa és kereskedelmi központja.",

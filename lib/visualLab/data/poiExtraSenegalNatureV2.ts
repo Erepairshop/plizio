@@ -8,7 +8,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-SL",
     coords: [-16.4833, 15.7833],
     name: { de: "Senegal-Fluss", hu: "Szenegál folyó", ro: "Fluviul Senegal", en: "Senegal River"},
-    image: "/poi-images/fleuve-senegal-nature-v2.webp",
     description: { de: "Der Senegal-Fluss bildet die natürliche Grenze zwischen Senegal und Mauretanien.", hu: "A Szenegál folyó alkotja a természetes határt Szenegál és Mauritánia között.", ro: "Fluviul Senegal formează granița naturală dintre Senegal și Mauritania.", en: "The Senegal River forms the natural border between Senegal and Mauritania." , es: "El río Senegal forma la frontera natural entre Senegal y Mauritania.", pt: "O rio Senegal forma a fronteira natural entre o Senegal e a Mauritânia.", fr: "Le fleuve Sénégal forme la frontière naturelle entre le Sénégal et la Mauritanie."},
     facts: {
       de: ["Länge ca. 1080 km", "Wichtige Wasserquelle für die Landwirtschaft"],
@@ -89,7 +88,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.2345, 14.8361],
     name: { de: "Lac Rose", hu: "Rózsaszín-tó", ro: "Lacul Roz", en: "Lake Retba"},
-    image: "/poi-images/lac-rose-nature-v2.webp",
     description: { de: "Ein durch Mikroorganismen pink gefärbter Salzsee nahe Dakar.", hu: "A mikroorganizmusok által rózsaszínre festett sós tó Dakar közelében.", ro: "Un lac sărat colorat în roz de microorganisme, aproape de Dakar.", en: "A salt lake colored pink by microorganisms, near Dakar." , es: "Un lago salado cerca de Dakar, teñido de rosa por microorganismos.", pt: "Um lago salgado perto de Dakar, tingido de rosa por microrganismos.", fr: "Un lac salé près de Dakar, teinté de rose par des micro-organismes."},
     facts: {
       de: ["Sehr hoher Salzgehalt", "Bekannt durch die Rallye Dakar"],
@@ -125,7 +123,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-TC",
     coords: [-12.75, 13.0167],
     name: { de: "Niokolo-Koba-Nationalpark", hu: "Niokolo-Koba Nemzeti Park", ro: "Parcul Național Niokolo-Koba", en: "Niokolo-Koba National Park"},
-    image: "/poi-images/parc-niokolo-koba-nature-v2.webp",
     description: { de: "Ein weitläufiges Schutzgebiet mit Galeriewäldern und Savannen.", hu: "Kiterjedt védett terület galériaerdőkkel és szavannákkal.", ro: "O zonă protejată vastă cu păduri galerii și savane.", en: "A vast protected area with gallery forests and savannas." , es: "Una extensa reserva natural con bosques de galería y sabanas.", pt: "Uma extensa reserva natural com florestas de galeria e savanas.", fr: "Une vaste réserve naturelle avec des forêts-galeries et des savanes."},
     facts: {
       de: ["UNESCO-Welterbe", "Heimat von Löwen und Elefanten"],
@@ -161,7 +158,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-FK",
     coords: [-16.6667, 13.8333],
     name: { de: "Saloum-Delta", hu: "Saloum-delta", ro: "Delta Saloum", en: "Saloum Delta"},
-    image: "/poi-images/delta-du-saloum-nature-v2.webp",
     description: { de: "Ein komplexes Mangroven-Ökosystem an der Mündung des Saloum.", hu: "Komplex mangrove ökoszisztéma a Saloum torkolatánál.", ro: "Un ecosistem complex de mangrove la vărsarea râului Saloum.", en: "A complex mangrove ecosystem at the mouth of the Saloum." , es: "Un complejo ecosistema de manglares en la desembocadura del Saloum.", pt: "Um complexo ecossistema de mangais na foz do Saloum.", fr: "Un écosystème complexe de mangroves à l'embouchure du Saloum."},
     facts: {
       de: ["Biosphärenreservat", "Reich an Vogelarten"],
@@ -197,7 +193,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-DK",
     coords: [-14.5333, 14.6667],
     name: { de: "Gorée-Insel", hu: "Gorée-sziget", ro: "Insula Gorée", en: "Gorée Island"},
-    image: "/poi-images/ile-de-goree-nature-v2.webp",
     description: { de: "Eine kleine Insel vor der Küste Dakars mit maritimer Vegetation.", hu: "Egy kis sziget Dakar partjainál, tengeri vegetációval.", ro: "O insulă mică în largul coastei Dakar, cu vegetație maritimă.", en: "A small island off the coast of Dakar, with maritime vegetation." , es: "Una pequeña isla frente a la costa de Dakar con vegetación marítima.", pt: "Uma pequena ilha ao largo da costa de Dakar com vegetação marítima.", fr: "Une petite île au large de la côte de Dakar avec une végétation maritime."},
     facts: {
       de: ["UNESCO-Welterbe", "Kleine felsige Insel"],
@@ -233,7 +228,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-ZC",
     coords: [-16.5, 12.5],
     name: { de: "Casamance-Fluss", hu: "Casamance folyó", ro: "Fluviul Casamance", en: "Casamance River"},
-    image: "/poi-images/fleuve-casamance-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss im Süden Senegals mit ausgedehnten Mangrovenwäldern.", hu: "Jelentős folyó Szenegál déli részén, kiterjedt mangroveerdőkkel.", ro: "Un râu important în sudul Senegalului cu păduri extinse de mangrove.", en: "A significant river in southern Senegal with extensive mangrove forests." , es: "Un río importante en el sur de Senegal con extensos manglares.", pt: "Um rio importante no sul do Senegal com extensos mangais.", fr: "Un fleuve important dans le sud du Sénégal avec de vastes mangroves."},
     facts: {
       de: ["Durchfließt die Region Casamance", "Wichtige Verkehrsader"],
@@ -269,7 +263,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-SL",
     coords: [-16.25, 16.5],
     name: { de: "Djoudj-Vogelreservat", hu: "Djoudj Madárrezervátum", ro: "Rezervația de păsări Djoudj", en: "Djoudj National Bird Sanctuary"},
-    image: "/poi-images/djoudj-sanctuarium-nature-v2.webp",
     description: { de: "Ein wichtiges Feuchtgebiet mit einem großen See und Marschland.", hu: "Fontos vizes élőhely egy nagy tóval és mocsárvidékkel.", ro: "O zonă umedă importantă cu un lac mare și mlaștini.", en: "An important wetland with a large lake and marshlands." , es: "Un humedal importante con un gran lago y marismas.", pt: "Uma zona húmida importante com um grande lago e pântanos.", fr: "Une zone humide importante avec un grand lac et des marais."},
     facts: {
       de: ["UNESCO-Welterbe", "Heimat von Millionen Zugvögeln"],
@@ -341,7 +334,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-SL",
     coords: [-15.8333, 16.1667],
     name: { de: "Lac de Guiers", hu: "Guiers-tó", ro: "Lacul Guiers", en: "Lac de Guiers"},
-    image: "/poi-images/lac-de-guier-nature-v2.webp",
     description: { de: "Der größte Süßwassersee Senegals, wichtig für die Trinkwasserversorgung.", hu: "Szenegál legnagyobb édesvizű tava, fontos ivóvízforrás.", ro: "Cel mai mare lac cu apă dulce din Senegal, important pentru aprovizionarea cu apă potabilă.", en: "The largest freshwater lake in Senegal, important for drinking water supply." , es: "El lago de agua dulce más grande de Senegal, vital para el suministro de agua potable.", pt: "O maior lago de água doce do Senegal, vital para o abastecimento de água potável.", fr: "Le plus grand lac d'eau douce du Sénégal, vital pour l'approvisionnement en eau potable."},
     facts: {
       de: ["Versorgt Dakar mit Wasser", "Niedriger Salzgehalt"],
@@ -746,7 +738,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.5333, 14.75],
     name: { de: "Pointe des Almadies", hu: "Almadies-fok", ro: "Pointe des Almadies", en: "Pointe des Almadies"},
-    image: "/poi-images/pointe-des-almadies-nature-v2.webp",
     description: { de: "Der westlichste Punkt des afrikanischen Festlandes am Atlantik.", hu: "Az afrikai kontinens legnyugatibb pontja az Atlanti-óceánnál.", ro: "Cel mai vestic punct al continentului african la Oceanul Atlantic.", en: "The westernmost point of the African mainland on the Atlantic." , es: "El punto más occidental de la tierra firme africana en el Atlántico.", pt: "O ponto mais ocidental do continente africano no Atlântico.", fr: "Le point le plus occidental de l'Afrique continentale sur l'Atlantique."},
     facts: {
       de: ["Atlantikküste", "Felsige Landspitze"],
@@ -935,7 +926,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.4833, 14.6667],
     name: { de: "Madeleine-Inseln", hu: "Madeleine-szigetek", ro: "Insulele Madeleine", en: "Madeleine Islands"},
-    image: "/poi-images/iles-de-la-madeleine-nature-v2.webp",
     description: { de: "Ein kleiner Nationalpark aus vulkanischen Felsen vor der Küste von Dakar.", hu: "Vulkáni sziklákból álló kis nemzeti park Dakar partjainál.", ro: "Un mic parc național format din roci vulcanice în largul coastei Dakar.", en: "A small national park made of volcanic rocks off the coast of Dakar." , es: "Un pequeño parque nacional de rocas volcánicas frente a la costa de Dakar.", pt: "Um pequeno parque nacional de rochas vulcânicas ao largo da costa de Dakar.", fr: "Un petit parc national de rochers volcaniques au large de la côte de Dakar."},
     facts: {
       de: ["Unbewohnt", "Vogelschutzgebiet"],
@@ -971,7 +961,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.28, 14.75],
     name: { de: "Mbao-Wald", hu: "Mbao erdő", ro: "Pădurea Mbao", en: "Mbao Forest"},
-    image: "/poi-images/foret-de-mbao-nature-v2.webp",
     description: { de: "Ein wichtiges Waldgebiet nahe Dakar, wichtig zur Erholung.", hu: "Fontos erdőterület Dakar közelében, fontos a kikapcsolódáshoz.", ro: "O zonă forestieră importantă aproape de Dakar, importantă pentru recreere.", en: "An important forest area near Dakar, important for recreation." , es: "Una importante zona forestal cerca de Dakar, clave para el recreo.", pt: "Uma importante área florestal perto de Dakar, essencial para o lazer.", fr: "Une zone forestière importante près de Dakar, essentielle pour la détente."},
     facts: {
       de: ["Lungen von Dakar", "Gefährdet durch Urbanisierung"],
@@ -1196,7 +1185,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-SL",
     coords: [-16.5, 15.8333],
     name: { de: "Langue de Barbarie", hu: "Langue de Barbarie", ro: "Langue de Barbarie", en: "Langue de Barbarie National Park"},
-    image: "/poi-images/parc-langue-de-barbarie-nature-v2.webp",
     description: { de: "Eine schmale Landzunge zwischen Atlantik und Senegal-Fluss.", hu: "Keskeny földnyelv az Atlanti-óceán és a Szenegál folyó között.", ro: "Un promontoriu îngust între Oceanul Atlantic și fluviul Senegal.", en: "A narrow sandspit between the Atlantic Ocean and the Senegal River." , es: "Una estrecha franja de tierra entre el océano Atlántico y el río Senegal.", pt: "Uma estreita faixa de terra entre o Oceano Atlântico e o Rio Senegal.", fr: "Une étroite bande de terre entre l'océan Atlantique et le fleuve Sénégal."},
     facts: {
       de: ["Brutplatz für Vögel", "Sandige Landschaft"],
@@ -1277,7 +1265,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-TC",
     coords: [-12.2, 12.5],
     name: { de: "Fouta-Djallon-Hochland (Ausläufer)", hu: "Fouta-Djallon-felföld (nyúlványai)", ro: "Podișul Fouta-Djallon (prelungiri)", en: "Fouta Djallon Highlands (outliers)"},
-    image: "/poi-images/massif-du-fouta-djallon-nature-v2.webp",
     description: { de: "Die Ausläufer des guineischen Hochlands im Südosten Senegals.", hu: "A guineai felföld nyúlványai Szenegál délkeleti részén.", ro: "Prelungirile podișului guineez în sud-estul Senegalului.", en: "The outliers of the Guinean highlands in southeastern Senegal." , es: "Las estribaciones de las tierras altas de Guinea en el sureste de Senegal.", pt: "As encostas das terras altas da Guiné no sudeste do Senegal.", fr: "Les contreforts des hautes terres guinéennes dans le sud-est du Sénégal."},
     facts: {
       de: ["Hügelige Landschaft", "Wasserschloss Westafrikas"],
@@ -1358,7 +1345,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-FK",
     coords: [-16.7, 13.7],
     name: { de: "Sine-Saloum-Delta", hu: "Sine-Saloum delta", ro: "Delta Sine-Saloum", en: "Sine-Saloum Delta"},
-    image: "/poi-images/delta-du-sine-saloum-nature-v2.webp",
     description: { de: "Ein großes Delta-System an der Küste, das von Sine und Saloum gebildet wird.", hu: "Nagy deltarendszer a parton, amelyet a Sine és a Saloum alkot.", ro: "Un sistem mare de deltă pe coastă, format de râurile Sine și Saloum.", en: "A large delta system on the coast formed by the Sine and Saloum rivers." , es: "Un gran sistema de delta en la costa formado por los ríos Sine y Saloum.", pt: "Um grande sistema de delta na costa, formado pelos rios Sine e Saloum.", fr: "Un grand système de delta sur la côte, formé par les fleuves Sine et Saloum."},
     facts: {
       de: ["UNESCO-Biosphärenreservat", "Mangrovenwälder"],
@@ -1394,7 +1380,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-LO",
     coords: [-14.5, 15.5],
     name: { de: "Ferlo-Ebene", hu: "Ferlo-síkság", ro: "Câmpia Ferlo", en: "Ferlo Plains"},
-    image: "/poi-images/plaine-du-ferlo-nature-v2.webp",
     description: { de: "Eine trockene Savannenregion in Nord-Zentral-Senegal.", hu: "Száraz szavannarégió Szenegál észak-középső részén.", ro: "O regiune de savană uscată în centrul-nordul Senegalului.", en: "A dry savanna region in north-central Senegal." , es: "Una región de sabana seca en el centro-norte de Senegal.", pt: "Uma região de savana seca no centro-norte do Senegal.", fr: "Une région de savane sèche dans le centre-nord du Sénégal."},
     facts: {
       de: ["Halbwüstenklima", "Viehzuchtgebiet"],
@@ -1475,7 +1460,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-SL",
     coords: [-16.35, 16.45],
     name: { de: "Lac Kassack", hu: "Kassack-tó", ro: "Lacul Kassack", en: "Lake Kassack"},
-    image: "/poi-images/lac-kassack-nature-v2.webp",
     description: { de: "Ein kleinerer See in der Nähe des Senegal-Flusses im Norden.", hu: "Kisebb tó a Szenegál folyó közelében, északon.", ro: "Un lac mai mic în apropierea fluviului Senegal în nord.", en: "A smaller lake near the Senegal River in the north." , es: "Un lago más pequeño cerca del río Senegal en el norte.", pt: "Um lago mais pequeno perto do rio Senegal no norte.", fr: "Un lac plus petit près du fleuve Sénégal dans le nord."},
     facts: {
       de: ["Saisonaler See", "Wichtig für die lokale Fauna"],
@@ -1511,7 +1495,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-DK",
     coords: [-18.0, 14.0],
     name: { de: "Atlantik-Küstengewässer", hu: "Atlanti-parti vizek", ro: "Ape de coastă atlantice", en: "Atlantic coastal waters"},
-    image: "/poi-images/zone-maritime-atlantic-nature-v2.webp",
     description: { de: "Der weite Atlantische Ozean vor der Küste des Senegals.", hu: "A hatalmas Atlanti-óceán Szenegál partjainál.", ro: "Vastul Ocean Atlantic în largul coastei Senegalului.", en: "The vast Atlantic Ocean off the coast of Senegal." , es: "El vasto océano Atlántico frente a la costa de Senegal.", pt: "O vasto Oceano Atlântico ao largo da costa do Senegal.", fr: "Le vaste océan Atlantique au large de la côte du Sénégal."},
     facts: {
       de: ["Reiche Fischgründe", "Wichtige Meeresströmungen"],
@@ -1592,7 +1575,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-SL",
     coords: [-15.0, 16.0],
     name: { de: "Senegal-Flusstal", hu: "Szenegál folyóvölgye", ro: "Valea fluviului Senegal", en: "Senegal River Valley"},
-    image: "/poi-images/vallee-du-fleuve-senegal-nature-v2.webp",
     description: { de: "Ein fruchtbares Tal entlang des Senegal-Flusses.", hu: "Termékeny völgy a Szenegál folyó mentén.", ro: "O vale fertilă de-a lungul fluviului Senegal.", en: "A fertile valley along the Senegal River." , es: "Un valle fértil a lo largo del río Senegal.", pt: "Um vale fértil ao longo do Rio Senegal.", fr: "Une vallée fertile le long du fleuve Sénégal."},
     facts: {
       de: ["Wichtig für den Ackerbau", "Regelmäßige Überschwemmungen"],
@@ -1709,7 +1691,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-TC",
     coords: [-13.0, 13.0],
     name: { de: "Gambia-Fluss", hu: "Gambia folyó", ro: "Fluviul Gambia", en: "Gambia River"},
-    image: "/poi-images/fleuve-gambie-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss, der durch den Osten und Süden des Senegals fließt.", hu: "Jelentős folyó, amely Szenegál keleti és déli részén folyik át.", ro: "Un râu important care traversează estul și sudul Senegalului.", en: "A major river flowing through eastern and southern Senegal." , es: "Un río importante que atraviesa el este y el sur de Senegal.", pt: "Um rio importante que atravessa o leste e o sul do Senegal.", fr: "Un fleuve important qui traverse l'est et le sud du Sénégal."},
     facts: {
       de: ["Schiffbar", "Reiche Ufervegetation"],
@@ -1745,7 +1726,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-DB",
     coords: [-15.5, 14.5],
     name: { de: "Patar-Wald", hu: "Patar erdő", ro: "Pădurea Patar", en: "Patar Forest"},
-    image: "/poi-images/foret-de-patar-nature-v2.webp",
     description: { de: "Ein Waldgebiet in Zentral-Senegal.", hu: "Erdőterület Közép-Szenegálban.", ro: "O zonă forestieră în centrul Senegalului.", en: "A forest area in central Senegal." , es: "Una zona forestal en el centro de Senegal.", pt: "Uma área florestal no centro do Senegal.", fr: "Une zone forestière dans le centre du Sénégal."},
     facts: {
       de: ["Saisonal trocken", "Heimat für Savannentiere"],
@@ -1826,7 +1806,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-SL",
     coords: [-16.2, 16.3],
     name: { de: "Lac de Panal", hu: "Panal-tó", ro: "Lacul Panal", en: "Lake Panal"},
-    image: "/poi-images/lac-de-panal-nature-v2.webp",
     description: { de: "Ein kleiner Sumpfsee nahe der mauretanischen Grenze.", hu: "Kis mocsaras tó a mauritániai határ közelében.", ro: "Un mic lac mlăștinos aproape de granița cu Mauritania.", en: "A small marshy lake near the Mauritanian border." , es: "Un pequeño lago pantanoso cerca de la frontera mauritana.", pt: "Um pequeno lago pantanoso perto da fronteira com a Mauritânia.", fr: "Un petit lac marécageux près de la frontière mauritanienne."},
     facts: {
       de: ["Wichtiges Vogelhabitat", "Schwankender Wasserstand"],
@@ -1862,7 +1841,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-ZC",
     coords: [-15.0, 12.5],
     name: { de: "Casamance-Hügel", hu: "Casamance dombok", ro: "Dealurile Casamance", en: "Casamance hills"},
-    image: "/poi-images/monts-de-casamance-nature-v2.webp",
     description: { de: "Hügellandschaft im Süden, die sich von der Küste ins Inland erstreckt.", hu: "Déli dombvidék, amely a parttól a belsejéig nyúlik.", ro: "Peisaj deluros în sud, care se extinde de la coastă spre interior.", en: "Hilly landscape in the south extending from the coast inland." , es: "Paisaje de colinas en el sur que se extiende desde la costa hacia el interior.", pt: "Paisagem de colinas no sul que se estende da costa para o interior.", fr: "Paysage vallonné dans le sud, s'étendant de la côte vers l'intérieur."},
     facts: {
       de: ["Bewaldete Hänge", "Milderes Klima als im Norden"],
@@ -1898,7 +1876,6 @@ export const poiExtraSenegalNatureV2: POI[] = [
     parent: "SN-TC",
     coords: [-13.5, 13.8],
     name: { de: "Tambacounda-Wald", hu: "Tambacounda erdő", ro: "Pădurea Tambacounda", en: "Tambacounda Forest"},
-    image: "/poi-images/foret-de-tamba-nature-v2.webp",
     description: { de: "Waldgebiet rund um die Stadt Tambacounda.", hu: "Erdőterület Tambacounda város körül.", ro: "Zonă forestieră în jurul orașului Tambacounda.", en: "Forest area around the city of Tambacounda." , es: "Zona forestal alrededor de la ciudad de Tambacounda.", pt: "Área florestal ao redor da cidade de Tambacounda.", fr: "Zone forestière autour de la ville de Tambacounda."},
     facts: {
       de: ["Trockenwald", "Teil des Niokolo-Koba-Ökosystems"],

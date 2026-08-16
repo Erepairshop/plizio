@@ -125,7 +125,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-G",
     coords: [43.3553, -11.7553],
     name: { de: "Mount Karthala", hu: "Karthala-vulkán", ro: "Muntele Karthala", en: "Mount Karthala"},
-    image: "/poi-images/mount-karthala-nature-v2.webp",
     description: {
       de: "Der Mount Karthala ist ein aktiver Schildvulkan und der höchste Punkt der Komoren auf der Insel Grande Comore.",
       hu: "A Karthala egy aktív pajzsvulkán és a Comore-szigetek legmagasabb pontja Grande Comore szigetén.",
@@ -213,7 +212,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-G",
     coords: [43.3333, -11.3783],
     name: { de: "Lac Salé", hu: "Lac Salé", ro: "Lac Salé", en: "Lac Salé"},
-    image: "/poi-images/lac-sale-nature-v2.webp",
     description: {
       de: "Der Lac Salé ist ein markanter Salzwassersee in einem Vulkankrater an der Nordspitze von Grande Comore.",
       hu: "A Lac Salé egy jellegzetes sós vizű tó egy vulkáni kráterben, Grande Comore északi csücskén.",
@@ -257,7 +255,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-A",
     coords: [44.4358, -12.2236],
     name: { de: "Lake Dzialandzé", hu: "Dzialandzé-tó", ro: "Lacul Dzialandzé", en: "Lake Dzialandzé"},
-    image: "/poi-images/lake-dzialandze-nature-v2.webp",
     description: {
       de: "Der Dzialandzé-See ist ein Kratersee im Hochland von Anjouan und eine wichtige Wasserquelle der Insel.",
       hu: "A Dzialandzé-tó egy krátertó Anjouan felföldjén, amely a sziget fontos vízforrása.",
@@ -301,7 +298,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-M",
     coords: [43.8331, -12.3553],
     name: { de: "Dziani Boudouni", hu: "Dziani Boudouni", ro: "Dziani Boudouni", en: "Dziani Boudouni"},
-    image: "/poi-images/dziani-boudouni-nature-v2.webp",
     description: {
       de: "Dziani Boudouni ist ein schwefelhaltiger Kratersee im Süden der Insel Mohéli.",
       hu: "A Dziani Boudouni egy csendes, partközeli víztest Mohéli szigetén. A környezetét mocsaras növényzet és nyugodt szigeti táj jellemzi.",
@@ -345,7 +341,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-M",
     coords: [43.7167, -12.3917],
     name: { de: "Nioumachoua Islets", hu: "Nioumachoua-szigetek", ro: "Insulele Nioumachoua", en: "Nioumachoua Islets"},
-    image: "/poi-images/nioumachoua-islets-nature-v2.webp",
     description: {
       de: "Die Nioumachoua-Inseln sind eine Gruppe kleiner unbewohnter Inseln vor der Südküste von Mohéli.",
       hu: "A Nioumachoua-szigetek apró, lakatlan szigetek csoportja Mohéli déli partjainál.",
@@ -389,7 +384,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-M",
     coords: [43.95, -12.3667],
     name: { de: "Chissioua Mchaco", hu: "Chissioua Mchaco", ro: "Chissioua Mchaco", en: "Chissioua Mchaco"},
-    image: "/poi-images/chissioua-mchaco-nature-v2.webp",
     description: {
       de: "Chissioua Mchaco ist eine kleine felsige Insel ?stlich von Moh?li. Sie ist unbewohnt und dient vor allem Seev?geln als R?ckzugsort.",
       hu: "Chissioua Mchaco egy apró, sziklás sziget Mohéli mellett. A száraz part és a nyílt tenger miatt madaraknak és tengeri élőlényeknek is fontos hely.",
@@ -433,7 +427,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-M",
     coords: [43.7, -12.4167],
     name: { de: "Chissioua Ouénéfou", hu: "Chissioua Ouénéfou", ro: "Chissioua Ouénéfou", en: "Chissioua Ouénéfou"},
-    image: "/poi-images/chissioua-ouenefou-nature-v2.webp",
     description: {
       de: "Chissioua Ouénéfou ist eine der größeren Inseln im Nioumachoua-Archipel vor Mohéli.",
       hu: "Chissioua Ouenefou egy kis szigetecske az Anjouan közelében fekvő tengeri térségben. A partot sziklák és sekély víz váltakozása teszi változatossá.",
@@ -521,7 +514,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-M",
     coords: [43.75, -12.4167],
     name: { de: "Chissioua Méa", hu: "Chissioua Méa", ro: "Chissioua Méa", en: "Chissioua Méa"},
-    image: "/poi-images/chissioua-mea-nature-v2.webp",
     description: {
       de: "Chissioua Méa ist eine idyllische Insel im Meerespark von Mohéli.",
       hu: "Chissioua Méa egy kisebb, lakatlan sziget a comore-i szigettengerben. A környező víz és a part menti élővilág miatt természetközeli hely.",
@@ -565,7 +557,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-A",
     coords: [44.25, -12.1833],
     name: { de: "Bimbini Peninsula", hu: "Bimbini-félsziget", ro: "Peninsula Bimbini", en: "Bimbini Peninsula"},
-    image: "/poi-images/bimbini-peninsula-nature-v2.webp",
     description: {
       de: "Die Bimbini-Halbinsel ist eine zerklüftete Landzunge im Westen von Anjouan.",
       hu: "A Bimbini-félsziget Anjouan egyik jól felismerhető partszakasza. A félsziget körül a sziklák, az áramlások és a nyílt víz határozzák meg a tájat.",
@@ -609,7 +600,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-A",
     coords: [44.45, -12.15],
     name: { de: "Vassy Forest", hu: "Vassy-erdő", ro: "Pădurea Vassy", en: "Vassy Forest"},
-    image: "/poi-images/vassy-forest-nature-v2.webp",
     description: {
       de: "Der Vassy-Wald ist eines der letzten erhaltenen primären Regenwaldgebiete auf Anjouan.",
       hu: "A Vassy-erdő Anjouan egyik utolsó megmaradt elsődleges esőerdője.",
@@ -653,7 +643,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-M",
     coords: [43.75, -12.4],
     name: { de: "Mohéli Marine Park", hu: "Mohéli Tengeri Park", ro: "Parcul Marin Mohéli", en: "Mohéli Marine Park"},
-    image: "/poi-images/moheli-marine-park-nature-v2.webp",
     description: {
       de: "Der Mohéli Meerespark ist das erste Schutzgebiet der Komoren und bewahrt eine reiche marine Biodiversität.",
       hu: "A Mohéli Tengeri Park a Comore-szigetek első védett területe, amely gazdag tengeri élővilágot őriz.",
@@ -697,7 +686,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-A",
     coords: [44.4333, -12.3167],
     name: { de: "Moya Beach", hu: "Moya-strand", ro: "Plaja Moya", en: "Moya Beach"},
-    image: "/poi-images/moya-beach-nature-v2.webp",
     description: {
       de: "Moya Beach ist ein Strand im S?den von Anjouan mit Sand und Klippen im Hintergrund. Der Ort eignet sich gut zum Baden und f?r ruhige Tage am Meer.",
       hu: "A Moya-strand egy festői homokos part Anjouan déli részén, sziklákkal körülvéve.",
@@ -785,7 +773,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-G",
     coords: [43.35, -11.4167],
     name: { de: "Hantsindzi Beach", hu: "Hantsindzi-strand", ro: "Plaja Hantsindzi", en: "Hantsindzi Beach"},
-    image: "/poi-images/hantsindzi-beach-nature-v2.webp",
     description: {
       de: "Hantsindzi Beach liegt im Norden von Grande Comore und wirkt deutlich abgelegener als die Str?nde nahe Moroni. Wei?e Sandfl?chen und schwarze Felsen wechseln sich hier ab.",
       hu: "Hantsindzi Beach Grande Comore északi részén, viszonylag eldugott partszakaszon fekszik. A fehér homok és a fekete kőzetek látványa erősen kontrasztos.",
@@ -829,7 +816,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-G",
     coords: [43.29, -11.4],
     name: { de: "Maloudja Beach", hu: "Maloudja-strand", ro: "Plaja Maloudja", en: "Maloudja Beach"},
-    image: "/poi-images/maloudja-beach-nature-v2.webp",
     description: {
       de: "Maloudja Beach ist bekannt für sein klares Wasser und die umliegenden Palmenhaine.",
       hu: "A Maloudja-strand tiszta vizéről és a környező pálmaligetekről ismert.",
@@ -873,7 +859,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-G",
     coords: [43.285, -11.39],
     name: { de: "Galawa Beach", hu: "Galawa-strand", ro: "Plaja Galawa", en: "Galawa Beach"},
-    image: "/poi-images/galawa-beach-nature-v2.webp",
     description: {
       de: "Galawa Beach ist einer der berühmtesten Strände der Komoren, gelegen im Norden von Grande Comore.",
       hu: "Galawa Beach Grande Comore egyik ismert tengerparti szakasza. A hosszú homokos part és a nyugodtabb víz miatt gyakran pihenésre használják.",
@@ -917,7 +902,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-A",
     coords: [44.5167, -12.35],
     name: { de: "Chiroroni Beach", hu: "Chiroroni-strand", ro: "Plaja Chiroroni", en: "Chiroroni Beach"},
-    image: "/poi-images/chiroroni-beach-nature-v2.webp",
     description: {
       de: "Chiroroni Beach liegt im S?dosten von Anjouan und zeigt die typische Mischung aus klarem Wasser und schwarzem Vulkangestein. Der Abschnitt geh?rt zu den ruhigeren K?stenorten der Insel.",
       hu: "Chiroroni Beach Anjouan délkeleti partján található, tiszta vízzel és sötét vulkanikus sziklákkal. A strand csendesebb, természetközeli helyek közé tartozik.",
@@ -961,7 +945,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-M",
     coords: [43.7667, -12.3167],
     name: { de: "Mount Mfiti", hu: "Mfiti-hegy", ro: "Muntele Mfiti", en: "Mount Mfiti"},
-    image: "/poi-images/mount-mfiti-nature-v2.webp",
     description: {
       de: "Der Mount Mfiti ist der höchste Berg der Insel Mohéli.",
       hu: "A Mfiti-hegy Mohéli szigetének legmagasabb pontja.",
@@ -1005,7 +988,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-A",
     coords: [44.45, -12.25],
     name: { de: "Lingoni Waterfalls", hu: "Lingoni-vízesések", ro: "Cascadele Lingoni", en: "Lingoni Waterfalls"},
-    image: "/poi-images/lingoni-waterfalls-nature-v2.webp",
     description: {
       de: "Die Lingoni-Wasserfälle sind ein eindrucksvolles Naturschauspiel im Herzen von Anjouan.",
       hu: "A Lingoni-vízesések lenyűgöző természeti látványosságot nyújtanak Anjouan szívében.",
@@ -1049,7 +1031,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-A",
     coords: [44.4833, -12.2167],
     name: { de: "River Ajaho", hu: "Ajaho-folyó", ro: "Râul Ajaho", en: "River Ajaho"},
-    image: "/poi-images/river-ajaho-nature-v2.webp",
     description: {
       de: "Der Ajaho ist einer der wenigen permanenten Flüsse auf der Insel Anjouan.",
       hu: "Az Ajaho egyike Anjouan sziget kevés állandó folyójának.",
@@ -1093,7 +1074,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-A",
     coords: [44.4167, -12.1833],
     name: { de: "River Goulat", hu: "Goulat-folyó", ro: "Râul Goulat", en: "River Goulat"},
-    image: "/poi-images/river-goulat-nature-v2.webp",
     description: {
       de: "Der Goulat ist ein Fluss im Nordwesten von Anjouan, der in den Indischen Ozean mündet.",
       hu: "A Goulat egy folyó Anjouan északnyugati részén, amely az Indiai-óceánba torkollik.",
@@ -1182,7 +1162,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     parent: "KM-G",
     coords: [43.3167, -11.6667],
     name: { de: "River Padzani", hu: "Padzani-folyó", ro: "Râul Padzani", en: "River Padzani"},
-    image: "/poi-images/river-padzani-nature-v2.webp",
     description: {
       de: "Der Padzani ist ein saisonaler Fluss auf der vulkanischen Insel Grande Comore.",
       hu: "A Padzani egy időszakos folyó Grande Comore vulkanikus szigetén.",

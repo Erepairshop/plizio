@@ -8,7 +8,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-03",
     coords: [-82.755, 22.997],
     name: { de: "Hafen von Mariel", hu: "Marieli kikötő", ro: "Portul Mariel", en: "Port of Mariel"},
-    image: "/poi-images/cu-mariel-port-economic-v2.webp",
     description: {
       de: "Wichtigster Containerhafen und Sonderwirtschaftszone Kubas.",
       hu: "Kuba legfontosabb konténerkikötője és különleges gazdasági övezete.",
@@ -52,7 +51,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-07",
     coords: [-80.46, 22.12],
     name: { de: "Cienfuegos Ölraffinerie", hu: "Cienfuegosi olajfinomító", ro: "Rafinăria de petrol Cienfuegos", en: "Cienfuegos Oil Refinery"},
-    image: "/poi-images/cu-cienfuegos-refinery-economic-v2.webp",
     description: {
       de: "Eine der größten Ölraffinerien auf Kuba.",
       hu: "Kuba egyik legnagyobb olajfinomítója.",
@@ -96,7 +94,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-10",
     coords: [-74.93, 20.67],
     name: { de: "Moa Nickel Werk", hu: "Moa-i nikkelüzem", ro: "Uzina de nichel Moa", en: "Moa Nickel Plant"},
-    image: "/poi-images/cu-moa-nickel-economic-v2.webp",
     description: {
       de: "Zentrum der Nickel- und Kobaltförderung in Kuba.",
       hu: "A kubai nikkel- és kobaltbányászat központja.",
@@ -140,7 +137,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-03",
     coords: [-82.35, 23.13],
     name: { de: "Hafen von Havanna", hu: "Havannai kikötő", ro: "Portul Havana", en: "Port of Havana"},
-    image: "/poi-images/cu-havana-port-economic-v2.webp",
     description: {
       de: "Der Hafen von Havanna ist der wichtigste Seehafen der kubanischen Hauptstadt. Er verbindet den Großraum Havanna mit dem Küstenschiffverkehr und dem Außenhandel.",
       hu: "A sziget fővárosának történelmi fő kikötője.",
@@ -184,7 +180,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-12",
     coords: [-75.83, 19.98],
     name: { de: "Hafen von Santiago", hu: "Santiago-i kikötő", ro: "Portul Santiago", en: "Port of Santiago"},
-    image: "/poi-images/cu-santiago-port-economic-v2.webp",
     description: {
       de: "Wichtigster Hafen im Osten Kubas.",
       hu: "Kuba keleti részének legfontosabb kikötője.",
@@ -228,7 +223,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-04",
     coords: [-81.57, 23.05],
     name: { de: "Hafen von Matanzas", hu: "Matanzasi kikötő", ro: "Portul Matanzas", en: "Port of Matanzas"},
-    image: "/poi-images/cu-matanzas-port-economic-v2.webp",
     description: {
       de: "Der Hafen von Matanzas liegt an der Bucht von Matanzas und dient der regionalen Versorgung. Er ist eng mit der Hafenstadt im Nordwesten Kubas verbunden.",
       hu: "Ipari kikötő és olajátrakó hely.",
@@ -272,7 +266,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-08",
     coords: [-77.26, 21.55],
     name: { de: "Hafen von Nuevitas", hu: "Nuevitasi kikötő", ro: "Portul Nuevitas", en: "Port of Nuevitas"},
-    image: "/poi-images/cu-nuevitas-port-economic-v2.webp",
     description: {
       de: "Wichtiger Industriehafen in Camagüey.",
       hu: "Nuevitas kikötője a camagüey-i part menti kereskedelem és áruszállítás fontos pontja.",
@@ -316,7 +309,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-10",
     coords: [-75.75, 20.85],
     name: { de: "Hafen von Antilla", hu: "Antillai kikötő", ro: "Portul Antilla", en: "Port of Antilla"},
-    image: "/poi-images/cu-antilla-port-economic-v2.webp",
     description: {
       de: "Antilla ist ein kleiner Hafen an der Nordküste der Provinz Holguín. Der Ort ist vor allem für Küstentransport und die Anbindung der umliegenden Gemeinden wichtig.",
       hu: "Kikötő a Nipe-öbölben.",
@@ -360,7 +352,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-04",
     coords: [-81.21, 23.04],
     name: { de: "Hafen von Cárdenas", hu: "Cárdenasi kikötő", ro: "Portul Cárdenas", en: "Port of Cárdenas"},
-    image: "/poi-images/cu-cardenas-port-economic-v2.webp",
     description: {
       de: "Der Hafen von Cárdenas liegt an der Nordküste der Provinz Matanzas und ist mit dem Handel der Stadt verbunden. Die Nähe zu Varadero macht ihn auch logistisch relevant.",
       hu: "Cárdenas történelmi kikötője a matanzasi partvidék egyik fontos tengeri kapuja.",
@@ -404,7 +395,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-14",
     coords: [-75.15, 19.9],
     name: { de: "Hafen von Guantánamo", hu: "Guantánamói kikötő", ro: "Portul Guantánamo", en: "Port of Guantánamo"},
-    image: "/poi-images/cu-guantanamo-port-economic-v2.webp",
     description: {
       de: "Der Hafen von Guantánamo unterstützt den Warenverkehr im äußersten Osten Kubas. Er ist mit der Bucht von Guantánamo und der regionalen Wirtschaft verknüpft.",
       hu: "Guantánamo kikötője a kelet-kubai partvidék regionális logisztikai pontja.",
@@ -448,7 +438,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-03",
     coords: [-82.38, 23.12],
     name: { de: "Havanna Industriekomplex", hu: "Havannai ipari komplexum", ro: "Complexul industrial Havana", en: "Havana Industrial Complex"},
-    image: "/poi-images/cu-fidel-industry-economic-v2.webp",
     description: {
       de: "Ein Industriekomplex in Havanna mit verschiedenen Fertigungsanlagen. Der Standort steht für die industrielle Basis der Hauptstadt.",
       hu: "Állami ipari létesítmény Kubában, a helyi termelési hálózat része.",
@@ -492,7 +481,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-12",
     coords: [-75.8, 20.0],
     name: { de: "Santiago Industriezone", hu: "Santiago-i ipari övezet", ro: "Zona industrială Santiago", en: "Santiago Industrial Zone"},
-    image: "/poi-images/cu-santiago-industry-economic-v2.webp",
     description: {
       de: "Die Industriezone von Santiago de Cuba bündelt Produktion und Arbeitsplätze im Osten der Insel. Sie ist ein wichtiger Teil der regionalen Wirtschaft.",
       hu: "Santiago de Cuba ipari egysége a város termelési hagyományaihoz kapcsolódik.",
@@ -536,7 +524,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-08",
     coords: [-77.5, 21.2],
     name: { de: "Zuckermühle Camagüey", hu: "Camagüeyi cukorgyár", ro: "Fabrica de zahăr Camagüey", en: "Camaguey Sugar Mill"},
-    image: "/poi-images/cu-sugar-mill-1-economic-v2.webp",
     description: {
       de: "Diese Zuckermühle in Camagüey steht für die klassische kubanische Zuckerindustrie. Sie verarbeitet das landwirtschaftliche Rohmaterial der Region.",
       hu: "Cukornád-feldolgozó üzem, amely a kubai cukoripar hagyományos eleme.",
@@ -580,7 +567,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-10",
     coords: [-75.5, 20.6],
     name: { de: "Zuckermühle Holguín", hu: "Holguíni cukorgyár", ro: "Fabrica de zahăr Holguín", en: "Holguin Sugar Mill"},
-    image: "/poi-images/cu-sugar-mill-2-economic-v2.webp",
     description: {
       de: "Die große Zuckermühle in Holguín ist auf hohe Verarbeitungskapazitäten ausgelegt. Sie gehört zur industriellen Zuckerwirtschaft im Osten Kubas.",
       hu: "Második cukorgyár, amely a helyi mezőgazdasági termeléshez kötődik.",
@@ -624,7 +610,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-04",
     coords: [-81.5, 23.0],
     name: { de: "Zementwerk Matanzas", hu: "Matanzasi cementgyár", ro: "Fabrica de ciment Matanzas", en: "Matanzas Cement Plant"},
-    image: "/poi-images/cu-cement-plant-economic-v2.webp",
     description: {
       de: "Das Zementwerk in Matanzas liefert Baustoffe für den regionalen Bedarf. Es ist eng mit der Bauwirtschaft der Provinz verbunden.",
       hu: "Cementgyár, amely az építőipar alapanyag-ellátásában játszik szerepet.",
@@ -668,7 +653,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-03",
     coords: [-82.4, 23.1],
     name: { de: "Fischereihafen Havanna", hu: "Havannai halászkikötő", ro: "Portul pescăresc Havana", en: "Havana Fishing Port"},
-    image: "/poi-images/cu-fishing-port-economic-v2.webp",
     description: {
       de: "Der Fischereihafen von Havanna ist ein Zentrum für Fang, Verarbeitung und Logistik. Er verbindet die Hauptstadt mit den maritimen Ressourcen der Küste.",
       hu: "Halászkikötő, ahol a tengeri fogás és a helyi feldolgozás kapcsolódik össze.",
@@ -712,7 +696,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-12",
     coords: [-75.85, 19.95],
     name: { de: "Wärmekraftwerk Santiago", hu: "Santiago-i hőerőmű", ro: "Termocentrala Santiago", en: "Santiago Thermal Power Plant"},
-    image: "/poi-images/cu-thermal-power-economic-v2.webp",
     description: {
       de: "Das Wärmekraftwerk in Santiago de Cuba versorgt den Osten der Insel mit Strom. Es ist Teil der regionalen Energieinfrastruktur.",
       hu: "Hőerőmű, amely a kubai villamosenergia-rendszer egyik alaplétesítménye.",
@@ -756,7 +739,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-09",
     coords: [-83.5, 22.5],
     name: { de: "Obstverarbeitung Pinar", hu: "Pinari gyümölcsfeldolgozás", ro: "Procesarea fructelor Pinar", en: "Pinar Fruit Processing"},
-    image: "/poi-images/cu-fruit-industry-economic-v2.webp",
     description: {
       de: "Die Obstverarbeitung in Pinar del Río konzentriert sich auf Fruchtprodukte für den Export. Sie ist Teil der agrarischen Verarbeitungskette im Westen.",
       hu: "Gyümölcsfeldolgozó üzem, amely a helyi termények feldolgozására épül.",
@@ -800,7 +782,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-09",
     coords: [-83.6, 22.6],
     name: { de: "Tabakindustrie Pinar", hu: "Pinari dohányipar", ro: "Industria tutunului Pinar", en: "Pinar Tobacco Industry"},
-    image: "/poi-images/cu-tobacco-industry-economic-v2.webp",
     description: {
       de: "Die Tabakindustrie von Pinar del Río steht für die Zigarrenproduktion im Westen Kubas. Hier treffen Tradition, Export und Markenwert zusammen.",
       hu: "Dohányipari létesítmény, amely Kuba egyik legismertebb ágazatához kapcsolódik.",
@@ -844,7 +825,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-10",
     coords: [-75.3, 20.9],
     name: { de: "Salzgewinnung Holguín", hu: "Holguíni sókitermelés", ro: "Producția de sare Holguín", en: "Holguin Salt Production"},
-    image: "/poi-images/cu-salt-production-economic-v2.webp",
     description: {
       de: "Die Salzgewinnung in Holguín nutzt die Küstenlage und die vorhandenen Meersalzressourcen. Das Produkt bleibt ein wichtiges Handelsgut.",
       hu: "Sótermelő egység, amely a parti és lagúnás környezethez kötődő kitermelésre épül.",
@@ -888,7 +868,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-03",
     coords: [-82.45, 23.1],
     name: { de: "Stahlwerk Havanna", hu: "Havannai acélmű", ro: "Oțelăria Havana", en: "Havana Steel Plant"},
-    image: "/poi-images/cu-steel-plant-economic-v2.webp",
     description: {
       de: "Das Stahlwerk von Havanna gehört zur Schwerindustrie der Hauptstadt. Es verarbeitet Metall und unterstützt die industrielle Basis der Stadt.",
       hu: "Acélgyár, amely a nehézipari termelés egyik alapvető kubai helyszíne.",
@@ -932,7 +911,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-07",
     coords: [-80.4, 22.1],
     name: { de: "Rum-Destillerie Cienfuegos", hu: "Cienfuegosi rumlepárló", ro: "Distileria de rom Cienfuegos", en: "Cienfuegos Rum Distillery"},
-    image: "/poi-images/cu-rum-distillery-1-economic-v2.webp",
     description: {
       de: "Die Rum-Destillerie in Cienfuegos produziert lokalen Rum für den kubanischen Markt und den Export. Sie ist eng mit der Zuckerrohrkette verbunden.",
       hu: "Rumfőzde, amely a kubai italgyártás és cukornádalapú hagyomány része.",
@@ -976,7 +954,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-12",
     coords: [-75.9, 20.1],
     name: { de: "Rum-Destillerie Santiago", hu: "Santiago-i rumlepárló", ro: "Distileria de rom Santiago", en: "Santiago Rum Distillery"},
-    image: "/poi-images/cu-rum-distillery-2-economic-v2.webp",
     description: {
       de: "Die Rum-Destillerie in Santiago steht für die traditionelle Rumproduktion im Osten Kubas. Sie verbindet lokale Marke, Handwerk und Export.",
       hu: "Második rumfőzde, amely a kubai italgyártás és a cukornádra épülő hagyomány része.",
@@ -1020,7 +997,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-14",
     coords: [-75.2, 19.95],
     name: { de: "Bergbau Guantánamo", hu: "Guantánamói bányászat", ro: "Minerit Guantánamo", en: "Guantanamo Mining"},
-    image: "/poi-images/cu-mining-facility-economic-v2.webp",
     description: {
       de: "Der Bergbaustandort in Guantánamo ist auf die Förderung mineralischer Rohstoffe ausgerichtet. Er bildet einen Teil der industriellen Basis im Osten.",
       hu: "Ásványkitermelő és feldolgozó létesítmény, amely a kubai bányászati szektort erősíti.",
@@ -1064,7 +1040,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-03",
     coords: [-82.35, 23.11],
     name: { de: "Textilfabrik Havanna", hu: "Havannai textilgyár", ro: "Fabrica de textile Havana", en: "Havana Textile Factory"},
-    image: "/poi-images/cu-textile-factory-economic-v2.webp",
     description: {
       de: "Die Textilfabrik in Havanna produziert Bekleidung und andere Textilwaren. Sie gehört zur städtischen Industrie der Hauptstadt.",
       hu: "Textilgyár, amely a helyi könnyűipari termeléshez kapcsolódik.",
@@ -1108,7 +1083,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-04",
     coords: [-81.5, 23.05],
     name: { de: "Getränkewerk Matanzas", hu: "Matanzasi üdítőgyár", ro: "Fabrica de băuturi Matanzas", en: "Matanzas Beverage Plant"},
-    image: "/poi-images/cu-beverage-plant-economic-v2.webp",
     description: {
       de: "Das Getränkewerk in Matanzas füllt Softdrinks und andere Getränke ab. Es bedient vor allem den regionalen Konsum.",
       hu: "Italgyár, amely üdítő- és egyéb italok előállítására szolgál.",
@@ -1152,7 +1126,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-07",
     coords: [-80.5, 22.1],
     name: { de: "Kraftwerk Cienfuegos", hu: "Cienfuegosi erőmű", ro: "Centrala electrică Cienfuegos", en: "Cienfuegos Power Plant"},
-    image: "/poi-images/cu-power-plant-economic-v2.webp",
     description: {
       de: "Das Kraftwerk in Cienfuegos liefert Energie für Industrie und Alltag. Es ist Teil der wichtigen Strominfrastruktur der Region.",
       hu: "Erőmű, amely a kubai villamosenergia-ellátás egyik alaphelyszíne.",
@@ -1196,7 +1169,6 @@ export const poiExtraCubaEconomicV2: POI[] = [
     parent: "CU-03",
     coords: [-82.2, 22.6],
     name: { de: "Hafen Surgidero", hu: "Surgidero kikötő", ro: "Portul Surgidero", en: "Port of Surgidero"},
-    image: "/poi-images/cu-port-surgidero-economic-v2.webp",
     description: {
       de: "Der Hafen von Surgidero ist ein kleiner lokaler Handelshafen mit Küstenzugang. Er unterstützt den Warentransport in seiner Umgebung.",
       hu: "Surgidero de Batabanó kikötői létesítménye a déli partvidékhez kötődik.",

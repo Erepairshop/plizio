@@ -57,7 +57,6 @@ export const poiExtraMongoliaReliefV2: POI[] = [
       hu: "Hüiten-csúcs",
       ro: "Vârful Khüiten",
       en: "Khüiten Peak"},
-    image: "/poi-images/khuiten-peak-relief-v2.webp",
     description: {
       de: "Der höchste Punkt der Mongolei liegt im Altai-Gebirge und ist dauerhaft mit Gletschern bedeckt.",
       hu: "Mongólia legmagasabb pontja az Altaj-hegységben található, melyet állandó gleccserek borítanak.",
@@ -117,7 +116,6 @@ export const poiExtraMongoliaReliefV2: POI[] = [
       hu: "Caszambagarav-hegy",
       ro: "Muntele Tsambagarav",
       en: "Tsambagarav Mountain"},
-    image: "/poi-images/tsambagarav-mountain-relief-v2.webp",
     description: {
       de: "Ein mächtiger, schneebedeckter Berg im Altai, der von nomadischen Adlerjägern umgeben ist.",
       hu: "Egy hatalmas, hóval borított hegy az Altajban, amelyet nomád sasvadászok vesznek körül.",
@@ -177,7 +175,6 @@ export const poiExtraMongoliaReliefV2: POI[] = [
       hu: "Mönh-Szaridag",
       ro: "Mönkh Saridag",
       en: "Mönkh Saridag"},
-    image: "/poi-images/monkh-saridag-relief-v2.webp",
     description: {
       de: "Der höchste Gipfel des Sajan-Gebirges liegt an der Grenze zwischen der Mongolei und Russland.",
       hu: "A Szaján-hegység legmagasabb csúcsa Mongólia és Oroszország határán fekszik.",
@@ -237,7 +234,6 @@ export const poiExtraMongoliaReliefV2: POI[] = [
       hu: "Dariganga-fennsík",
       ro: "Podișul Dariganga",
       en: "Dariganga Plateau"},
-    image: "/poi-images/dariganga-plateau-relief-v2.webp",
     description: {
       de: "Eine weite Hochebene vulkanischen Ursprungs im Osten der Mongolei, bekannt für ihre weiten Graslandschaften.",
       hu: "Egy vulkáni eredetű kiterjedt fennsík Mongólia keleti részén, amely tágas füves pusztáiról ismert.",
@@ -297,7 +293,6 @@ export const poiExtraMongoliaReliefV2: POI[] = [
       hu: "Darhad-völgy",
       ro: "Valea Darkhad",
       en: "Darkhad Valley"},
-    image: "/poi-images/darkhad-valley-relief-v2.webp",
     description: {
       de: "Ein isoliertes Becken im Norden der Mongolei, das von Rentierzüchtern und dichten Wäldern geprägt ist.",
       hu: "Egy elszigetelt medence Észak-Mongóliában, amelyet rénszarvastenyésztők és sűrű erdők jellemeznek.",
@@ -357,7 +352,6 @@ export const poiExtraMongoliaReliefV2: POI[] = [
       hu: "Nemegt-medence",
       ro: "Bazinul Nemegt",
       en: "Nemegt Basin"},
-    image: "/poi-images/nemegt-basin-relief-v2.webp",
     description: {
       de: "Ein trockenes Tal in der Wüste Gobi, das weltweit für seine reichen Dinosaurierfossilien berühmt ist.",
       hu: "Egy száraz völgy a Góbi-sivatagban, amely világszerte híres gazdag dinoszauruszfosszíliáiról.",
@@ -462,7 +456,6 @@ export const poiExtraMongoliaReliefV2: POI[] = [
       hu: "Szutaj-hegy",
       ro: "Muntele Sutai",
       en: "Sutai Mountain"},
-    image: "/poi-images/sutai-mountain-relief-v2.webp",
     description: {
       de: "Ein vergletscherter Gipfel an der Grenze mehrerer Provinzen, der von den lokalen Nomaden verehrt wird.",
       hu: "Egy eljegesedett csúcs több tartomány határán, amelyet a helyi nomádok tisztelnek.",
@@ -522,7 +515,6 @@ export const poiExtraMongoliaReliefV2: POI[] = [
       hu: "Haszagt-Hairhan",
       ro: "Khasagt Khairkhan",
       en: "Khasagt Khairkhan"},
-    image: "/poi-images/khasagt-khairkhan-relief-v2.webp",
     description: {
       de: "Ein zerklüfteter Berg im Gobi-Altai, dessen Hänge Lebensraum für seltene Schneeleoparden bieten.",
       hu: "Egy zord hegy a Góbi-Altajban, melynek lejtői ritka hópárducok élőhelyét biztosítják.",
@@ -582,7 +574,6 @@ export const poiExtraMongoliaReliefV2: POI[] = [
       hu: "Nagy-tavak medencéje",
       ro: "Depresiunea Marilor Lacuri",
       en: "Great Lakes Depression"},
-    image: "/poi-images/great-lakes-depression-relief-v2.webp",
     description: {
       de: "Eine riesige semi-aride Senke im Westen der Mongolei, die mehrere bedeutende Salz- und Süßwasserseen umfasst.",
       hu: "Egy hatalmas félszáraz medence Mongólia nyugati részén, amely több jelentős sós- és édesvizű tavat foglal magába.",
@@ -702,7 +693,6 @@ export const poiExtraMongoliaReliefV2: POI[] = [
       hu: "Góbi-sivatag",
       ro: "Deșertul Gobi",
       en: "Gobi Desert"},
-    image: "/poi-images/gobi-desert-relief-v2.webp",
     description: {
       de: "Eine der größten Wüsten der Welt, geprägt von extremen Temperaturschwankungen und weiten Kiesebenen.",
       hu: "A világ egyik legnagyobb sivataga, amelyet szélsőséges hőmérséklet-ingadozások és kiterjedt kavicsos síkságok jellemeznek.",
@@ -762,7 +752,6 @@ export const poiExtraMongoliaReliefV2: POI[] = [
       hu: "Toszt-hegység",
       ro: "Munții Tost",
       en: "Tost Mountains"},
-    image: "/poi-images/tost-mountains-relief-v2.webp",
     description: {
       de: "Eine abgelegene Bergkette in der Süd-Gobi, die als weltweit erstes Schutzgebiet speziell für Schneeleoparden deklariert wurde.",
       hu: "Egy távoli hegylánc a Dél-Góbiban, amelyet a világ első hópárduc-védelmi területének nyilvánítottak.",
@@ -975,7 +964,6 @@ export const poiExtraMongoliaReliefV2: POI[] = [
       hu: "Malcsin-csúcs",
       ro: "Vârful Malchin",
       en: "Malchin Peak"},
-    image: "/poi-images/malchin-peak-relief-v2.webp",
     description: {
       de: "Einer der fünf heiligen Gipfel des Tawan-Bogd-Massivs, der als einziger ohne spezielle Kletterausrüstung besteigbar ist.",
       hu: "A Tavan Bogd-masszívum öt szent csúcsának egyike, az egyetlen, amely speciális mászófelszerelés nélkül megmászható.",
@@ -1035,7 +1023,6 @@ export const poiExtraMongoliaReliefV2: POI[] = [
       hu: "Najramdal-csúcs",
       ro: "Vârful Nairamdal",
       en: "Nairamdal Peak"},
-    image: "/poi-images/nairamdal-peak-relief-v2.webp",
     description: {
       de: "Ein bedeutender Berggipfel im Altai, der den präzisen Dreiländereck zwischen der Mongolei, Russland und China markiert.",
       hu: "Egy jelentős hegycsúcs az Altajban, amely pontosan jelöli Mongólia, Oroszország és Kína hármashatárát.",
@@ -1095,7 +1082,6 @@ export const poiExtraMongoliaReliefV2: POI[] = [
       hu: "Burhan-Búdaj-hegy",
       ro: "Muntele Burkhan Buudai",
       en: "Burkhan Buudai Mountain"},
-    image: "/poi-images/burkhan-buudai-relief-v2.webp",
     description: {
       de: "Ein geschütztes Bergmassiv in der Provinz Gobi-Altai, das für seine reiche Flora und historische Heiligkeit bekannt ist.",
       hu: "Egy védett hegytömb Góbi-Altaj tartományban, amely gazdag növényvilágáról és történelmi szentségéről ismert.",
@@ -1155,7 +1141,6 @@ export const poiExtraMongoliaReliefV2: POI[] = [
       hu: "Tarvagataj-hegység",
       ro: "Munții Tarvagatai",
       en: "Tarvagatai Range"},
-    image: "/poi-images/tarvagatai-range-relief-v2.webp",
     description: {
       de: "Eine ausgedehnte, von dichten Nadelwäldern bedeckte Bergkette, die eine wichtige Wasserscheide in der zentralen Mongolei bildet.",
       hu: "Egy kiterjedt, sűrű tűlevelű erdőkkel borított hegylánc, amely fontos vízválasztót képez Közép-Mongóliában.",
@@ -1215,7 +1200,6 @@ export const poiExtraMongoliaReliefV2: POI[] = [
       hu: "Dajan-hegy",
       ro: "Muntele Dayan",
       en: "Dayan Mountain"},
-    image: "/poi-images/dayan-mountain-relief-v2.webp",
     description: {
       de: "Ein heiliger Berg in der Provinz Bajan-Ölgii, an dessen Hängen alte Petroglyphen und Grabstätten aus der Bronzezeit zu finden sind.",
       hu: "Szent hegy Bajan-Ölgij tartományban, amelynek lejtőin ősi sziklarajzok és bronzkori sírok találhatók.",
@@ -1320,7 +1304,6 @@ export const poiExtraMongoliaReliefV2: POI[] = [
       hu: "Adzs-Bogd-hegy",
       ro: "Muntele Aj Bogd",
       en: "Aj Bogd Mountain"},
-    image: "/poi-images/aj-bogd-relief-v2.webp",
     description: {
       de: "Ein markantes Massiv im Gobi-Altai, das durch raue klimatische Bedingungen und felsige Canyons charakterisiert wird.",
       hu: "Egy jellegzetes masszívum a Góbi-Altajban, amelyet zord éghajlati viszonyok és sziklás kanyonok jellemeznek.",
@@ -1380,7 +1363,6 @@ export const poiExtraMongoliaReliefV2: POI[] = [
       hu: "Szajljugem-hegység",
       ro: "Munții Saylyugem",
       en: "Saylyugem Mountains"},
-    image: "/poi-images/saylyugem-mountains-relief-v2.webp",
     description: {
       de: "Eine Bergkette, die als natürliche Barriere zwischen der mongolischen Steppe und der russischen Altai-Republik dient.",
       hu: "Egy hegylánc, amely természetes határként szolgál a mongol sztyeppe és az orosz Altaj Köztársaság között.",

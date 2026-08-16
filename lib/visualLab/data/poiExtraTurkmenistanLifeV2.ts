@@ -125,7 +125,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     parent: "TM-S",
     coords: [58.3585, 37.9366],
     name: { de: "Botanischer Garten Aschgabat", hu: "Aşgabati Botanikus Kert", ro: "Grădina Botanică din Așgabat", en: "Ashgabat Botanical Garden"},
-    image: "/poi-images/tm-ashgabat-botanical-garden-life-v2.webp",
     description: { de: "Der älteste botanische Garten in Turkmenistan mit einer reichen Sammlung an Wüstenpflanzen.", hu: "Türkmenisztán legrégebbi botanikus kertje, gazdag sivatagi növénygyűjteménnyel.", ro: "Cea mai veche grădină botanică din Turkmenistan cu o bogată colecție de plante de deșert.", en: "The oldest botanical garden in Turkmenistan with a rich collection of desert plants." , es: "El jardín botánico más antiguo de Turkmenistán, con una rica colección de plantas desérticas.", pt: "O jardim botânico mais antigo do Turquemenistão, com uma rica coleção de plantas do deserto.", fr: "Le plus ancien jardin botanique du Turkménistan, doté d'une riche collection de plantes du désert."},
     facts: {
       de: ["Gegründet im Jahr 1929.", "Beherbergt über 500 Pflanzenarten."],
@@ -350,7 +349,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     parent: "TM-S",
     coords: [58.3312, 37.9893],
     name: { de: "Nationaler Zoo von Turkmenistan", hu: "Türkmenisztáni Nemzeti Állatkert", ro: "Grădina Zoologică Națională din Turkmenistan", en: "National Zoo of Turkmenistan"},
-    image: "/poi-images/tm-ashgabat-zoo-life-v2.webp",
     description: { de: "Ein moderner Tierpark in Aschgabat, der viele lokale und exotische Tierarten schützt.", hu: "Modern állatkert Aşgabatban, amely számos helyi és egzotikus fajt véd.", ro: "O grădină zoologică modernă în Așgabat, care protejează multe specii locale și exotice.", en: "A modern zoo in Ashgabat protecting many local and exotic animal species." , es: "Un zoológico moderno en Asjabad que protege muchas especies animales locales y exóticas.", pt: "Um jardim zoológico moderno em Asgabate que protege muitas espécies animais locais e exóticas.", fr: "Un zoo moderne à Achgabat qui protège de nombreuses espèces animales locales et exotiques."},
     facts: {
       de: ["Der Zoo umfasst eine Fläche von 40 Hektar.", "Er wurde im Jahr 2010 eröffnet."],
@@ -467,7 +465,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     parent: "TM-A",
     coords: [58.2678, 37.9545],
     name: { de: "Achal-Tekkiner-Gestüt", hu: "Akhal-teke Ménesbirtok", ro: "Herghelia Akhal-Teke", en: "Akhal-Teke Stud Farm"},
-    image: "/poi-images/tm-akhal-teke-stud-farm-life-v2.webp",
     description: { de: "Eine landwirtschaftliche Einrichtung zur Zucht der berühmten turkmenischen Achal-Tekkiner-Pferde.", hu: "Mezőgazdasági létesítmény a híres türkmén akhal-teke lovak tenyésztésére.", ro: "O fermă agricolă pentru creșterea faimoșilor cai turkmeni Akhal-Teke.", en: "An agricultural facility for breeding the famous Turkmen Akhal-Teke horses." , es: "Una instalación agrícola para la cría de los famosos caballos turcomanos Akhal-Teke.", pt: "Uma instalação agrícola para a criação dos famosos cavalos turcomenos Akhal-Teke.", fr: "Une installation agricole pour l'élevage des célèbres chevaux turkmènes Akhal-Teke."},
     facts: {
       de: ["Diese Pferderasse ist für ihre Ausdauer bekannt.", "Die Pferde haben oft ein metallisch glänzendes Fell."],
@@ -584,7 +581,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     parent: "TM-A",
     coords: [58.1147, 37.8931],
     name: { de: "Gökdere-Schlucht", hu: "Gökdere-szurdok", ro: "Cheile Gökdere", en: "Gökdere Gorge"},
-    image: "/poi-images/tm-gokdere-gorge-life-v2.webp",
     description: { de: "Ein malerisches Naturgebiet in der Nähe von Aschgabat, das reich an einheimischer Flora und Fauna ist.", hu: "Festői természeti terület Aşgabat közelében, amely gazdag a helyi növény- és állatvilágban.", ro: "O zonă naturală pitorească lângă Așgabat, bogată în floră și faună nativă.", en: "A picturesque natural area near Ashgabat, rich in native flora and fauna." , es: "Un pintoresco paraje natural cerca de Asjabad, rico en flora y fauna autóctona.", pt: "Um pitoresco local natural perto de Asgabate, rico em flora e fauna nativa.", fr: "Un site naturel pittoresque près d'Achgabat, riche en flore et faune locales."},
     facts: {
       de: ["Ein beliebtes Ziel für Wanderer.", "Es gibt hier viele traditionelle turkmenische Kinderferienlager."],
@@ -845,7 +841,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     parent: "TM-S",
     coords: [58.3751, 37.9000],
     name: { de: "Park der 10 Jahre Unabhängigkeit", hu: "A Függetlenség 10 Éve Park", ro: "Parcul a 10 Ani de Independență", en: "10 Years of Independence Park"},
-    image: "/poi-images/tm-ashgabat-park-10-years-life-v2.webp",
     description: { de: "Ein weitläufiger Park in Aschgabat mit Springbrunnen und zahlreichen Denkmälern.", hu: "Kiterjedt park Aşgabatban, szökőkutakkal és számos emlékművel.", ro: "Un parc vast în Așgabat, cu fântâni și numeroase monumente.", en: "An expansive park in Ashgabat featuring fountains and numerous monuments." , es: "Un amplio parque en Asjabad con fuentes y numerosos monumentos.", pt: "Um parque amplo em Asgabate com fontes e numerosos monumentos.", fr: "Un vaste parc à Achgabat avec des fontaines et de nombreux monuments."},
     facts: {
       de: ["Er ist einer der größten Parks der Hauptstadt.", "Der Park ist für seine gepflegten Grünflächen bekannt."],
@@ -998,7 +993,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     parent: "TM-M",
     coords: [61.8330, 37.6001],
     name: { de: "Baumwollfelder von Mary", hu: "Mary Pamutmezők", ro: "Câmpurile de Bumbac din Mary", en: "Mary Cotton Fields"},
-    image: "/poi-images/tm-mary-cotton-fields-life-v2.webp",
     description: { de: "Ausgedehnte landwirtschaftliche Flächen in der Region Mary, die für die Baumwollproduktion entscheidend sind.", hu: "Kiterjedt mezőgazdasági területek Mary régióban, amelyek kulcsfontosságúak a pamuttermelésben.", ro: "Terenuri agricole extinse în regiunea Mary, cruciale pentru producția de bumbac.", en: "Extensive agricultural lands in the Mary region crucial for cotton production." , es: "Extensas áreas agrícolas en la región de Mary, fundamentales para la producción de algodón.", pt: "Extensas áreas agrícolas na região de Mary, fundamentais para a produção de algodão.", fr: "De vastes zones agricoles dans la région de Mary, essentielles pour la production de coton."},
     facts: {
       de: ["Baumwolle ist eines der wichtigsten Exportgüter Turkmenistans.", "Die Ernte findet traditionell im Herbst statt."],
@@ -1259,7 +1253,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     parent: "TM-L",
     coords: [63.5667, 39.1167],
     name: { de: "Amudarja-Feuchtgebiete", hu: "Amu-darja Vizesélőhelyek", ro: "Zonele Umede Amu Daria", en: "Amu Darya Wetlands"},
-    image: "/poi-images/tm-amudarya-wetlands-life-v2.webp",
     description: { de: "Wichtige Lebensräume für Wasservögel und Fische entlang des großen Flusses in Ostturkmenistan.", hu: "Fontos élőhelyek a vízimadarak és halak számára a kelet-türkmén nagy folyó mentén.", ro: "Habitate importante pentru păsările de apă și pești de-a lungul marelui râu din estul Turkmenistanului.", en: "Important habitats for waterfowl and fish along the major river in eastern Turkmenistan." , es: "Importantes hábitats para aves acuáticas y peces a lo largo del gran río en el este de Turkmenistán.", pt: "Importantes habitats para aves aquáticas e peixes ao longo do grande rio no leste do Turcomenistão.", fr: "Habitats importants pour les oiseaux aquatiques et les poissons le long du grand fleuve dans l'est du Turkménistan."},
     facts: {
       de: ["Diese Gebiete sind essentiell für Zugvögel.", "Der Fluss prägt die gesamte Ökologie der Region."],
@@ -1664,7 +1657,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     parent: "TM-S",
     coords: [58.3844, 37.9388],
     name: { de: "Märchenwelt-Freizeitpark", hu: "Mesevilág Vidámpark", ro: "Parcul de Distracții Lumea Basmelor", en: "World of Fairy Tales Amusement Park"},
-    image: "/poi-images/tm-ertegi-dunyasi-life-v2.webp",
     description: { de: "Ein Themenpark für Kinder in Aschgabat mit turkmenischen Märchenfiguren und modernen Fahrgeschäften.", hu: "Vidámpark gyermekeknek Aşgabatban, türkmén mesefigurákkal és modern játékokkal.", ro: "Un parc tematic pentru copii în Așgabat cu personaje din basme turkmene și atracții moderne.", en: "A theme park for children in Ashgabat featuring Turkmen fairy tale characters and modern rides." , es: "Un parque temático para niños en Asjabad con personajes de cuentos turkmenos y atracciones modernas.", pt: "Um parque temático para crianças em Asgabate com personagens de contos turquemenos e atrações modernas.", fr: "Un parc à thème pour enfants à Achgabat avec des personnages de contes turkmènes et des attractions modernes."},
     facts: {
       de: ["Er wurde als turkmenisches Disneyland konzipiert.", "Der Park bietet über 50 verschiedene Attraktionen."],
@@ -1700,7 +1692,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     parent: "TM-A",
     coords: [57.7333, 38.0167],
     name: { de: "Pflanzenreservat Kopet-Dag", hu: "Kopet-dag Növényrezervátum", ro: "Sanctuarul de Floră Kopet-Dag", en: "Kopet Dag Flora Sanctuary"},
-    image: "/poi-images/tm-kopetdag-flora-sanctuary-life-v2.webp",
     description: { de: "Ein spezielles Schutzgebiet zur Erhaltung der seltenen Bergflora im Kopet-Dag-Gebirge.", hu: "Különleges védett terület a Kopet-dag hegység ritka hegyvidéki növényvilágának megőrzésére.", ro: "O zonă specială de conservare pentru menținerea florei montane rare din Munții Kopet-Dag.", en: "A special conservation area for preserving the rare mountain flora of the Kopet Dag range." , es: "Un área protegida especial para la conservación de la rara flora de montaña en la cordillera de Kopet-Dag.", pt: "Uma área protegida especial para a conservação da rara flora de montanha na cordilheira Kopet-Dag.", fr: "Une zone protégée spéciale pour la conservation de la flore de montagne rare dans la chaîne du Kopet-Dag."},
     facts: {
       de: ["Hier wachsen zahlreiche endemische Pflanzenarten.", "Das Gebiet ist für seine wilde Tulpenblüte bekannt."],
@@ -1772,7 +1763,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     parent: "TM-B",
     coords: [54.3667, 39.5167],
     name: { de: "Zentralpark Balkanabat", hu: "Balkanabat Központi Park", ro: "Parcul Central Balkanabat", en: "Balkanabat Central Park"},
-    image: "/poi-images/tm-balkanabat-central-park-life-v2.webp",
     description: { de: "Eine grüne Oase in der Wüstenstadt Balkanabat, die Erholung für die lokale Bevölkerung bietet.", hu: "Zöld oázis a sivatagi Balkanabat városában, amely pihenést nyújt a helyi lakosságnak.", ro: "O oază verde în orașul deșertic Balkanabat, oferind recreere pentru populația locală.", en: "A green oasis in the desert city of Balkanabat, offering recreation for the local population." , es: "Un oasis verde en la ciudad desértica de Balkanabat, que ofrece relajación para la población local.", pt: "Um oásis verde na cidade desértica de Balkanabat, oferecendo relaxamento para a população local.", fr: "Une oasis de verdure dans la ville désertique de Balkanabat, offrant détente à la population locale."},
     facts: {
       de: ["Der Park wird durch spezielle Bewässerungssysteme grün gehalten.", "Er ist ein beliebter Treffpunkt am Abend."],
@@ -1808,7 +1798,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     parent: "TM-L",
     coords: [66.3833, 37.9333],
     name: { de: "Dinosaurier-Hochebene Khojapil", hu: "Khojapil Dinoszaurusz-fennsík", ro: "Platoul Dinozaurilor Khojapil", en: "Khojapil Dinosaur Plateau"},
-    image: "/poi-images/tm-khojapil-dinosaur-plateau-life-v2.webp",
     description: { de: "Ein faszinierender Ort für Familien, an dem versteinerte Dinosaurier-Fußabdrücke im Gestein erhalten sind.", hu: "Lenyűgöző hely a családok számára, ahol megkövesedett dinoszaurusz-lábnyomok maradtak fenn a sziklákban.", ro: "Un loc fascinant pentru familii, unde se păstrează urme pietrificate de dinozauri în stâncă.", en: "A fascinating place for families where fossilized dinosaur footprints are preserved in the rock." , es: "Un lugar fascinante para familias, donde se conservan huellas fosilizadas de dinosaurios en la roca.", pt: "Um local fascinante para famílias, onde se conservam pegadas fossilizadas de dinossauros na rocha.", fr: "Un lieu fascinant pour les familles, où des empreintes fossilisées de dinosaures sont conservées dans la roche."},
     facts: {
       de: ["Es gibt hier über 2500 versteinerte Fußabdrücke.", "Die Spuren stammen aus dem Jurazeitalter."],
@@ -1925,7 +1914,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     parent: "TM-S",
     coords: [58.3833, 37.9333],
     name: { de: "Felder der Landwirtschaftsuniversität", hu: "A Mezőgazdasági Egyetem Földjei", ro: "Terenurile Universității Agricole", en: "Agricultural University Fields"},
-    image: "/poi-images/tm-agricultural-university-fields-life-v2.webp",
     description: { de: "Versuchsfelder in Aschgabat, auf denen neue Anbaumethoden für das Wüstenklima entwickelt werden.", hu: "Kísérleti földek Aşgabatban, ahol új termesztési módszereket fejlesztenek a sivatagi éghajlathoz.", ro: "Terenuri experimentale în Așgabat unde se dezvoltă noi metode de cultivare pentru clima deșertului.", en: "Experimental fields in Ashgabat where new cultivation methods for the desert climate are developed." , es: "Campos experimentales en Asjabad, donde se desarrollan nuevos métodos de cultivo para el clima desértico.", pt: "Campos experimentais em Asgabate, onde se desenvolvem novos métodos de cultivo para o clima desértico.", fr: "Champs expérimentaux à Achgabat, où sont développées de nouvelles méthodes de culture adaptées au climat désertique."},
     facts: {
       de: ["Fokus auf wassersparende Bewässerungstechnologien.", "Studierende testen hier dürreresistente Weizensorten."],
@@ -2042,7 +2030,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     parent: "TM-B",
     coords: [52.9667, 40.0333],
     name: { de: "Awaza-Wasserpark", hu: "Awaza Aquapark", ro: "Parcul Acvatic Awaza", en: "Awaza Aqua Park"},
-    image: "/poi-images/tm-awaza-aqua-park-life-v2.webp",
     description: { de: "Ein großer Wasserpark an der kaspischen Küste, der bei Kindern und Touristen sehr beliebt ist.", hu: "Nagy vízipark a Kaszpi-tenger partján, amely nagyon népszerű a gyerekek és a turisták körében.", ro: "Un mare parc acvatic pe coasta Mării Caspice, foarte popular printre copii și turiști.", en: "A large water park on the Caspian coast that is very popular with children and tourists." , es: "Un gran parque acuático en la costa del Caspio, muy popular entre niños y turistas.", pt: "Um grande parque aquático na costa do Cáspio, muito popular entre crianças e turistas.", fr: "Un grand parc aquatique sur la côte de la mer Caspienne, très apprécié des enfants et des touristes."},
     facts: {
       de: ["Der Park bietet zahlreiche Rutschen und Schwimmbecken.", "Er ist Teil des riesigen Awaza-Tourismusprojekts."],
@@ -2078,7 +2065,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     parent: "TM-D",
     coords: [59.5000, 39.5000],
     name: { de: "Karakum-Flora-Reservat", hu: "Karakum Növényvédelmi Terület", ro: "Rezervația de Floră din Karakum", en: "Karakum Flora Reserve"},
-    image: "/poi-images/tm-karakum-flora-reserve-life-v2.webp",
     description: { de: "Ein geschützter Wüstenbereich, der die einzigartige, extrem trockenheitsresistente Flora bewahrt.", hu: "Védett sivatagi terület, amely megőrzi az egyedülálló, rendkívül szárazságtűrő növényvilágot.", ro: "O zonă de deșert protejată care conservă flora unică, extrem de rezistentă la secetă.", en: "A protected desert area preserving the unique, extremely drought-resistant flora." , es: "Un área desértica protegida que conserva la flora única, extremadamente resistente a la sequía.", pt: "Uma área desértica protegida que preserva a flora única, extremamente resistente à seca.", fr: "Une zone désertique protégée qui préserve la flore unique, extrêmement résistante à la sécheresse."},
     facts: {
       de: ["Saxaul-Bäume sind eine Schlüsselart in dieser Region.", "Die Pflanzenwurzeln reichen bis zu 20 Meter tief."],
@@ -2591,7 +2577,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     parent: "TM-S",
     coords: [58.3833, 37.9167],
     name: { de: "Ruhyyet-Park", hu: "Ruhyyet Park", ro: "Parcul Ruhyyet", en: "Ruhyyet Park"},
-    image: "/poi-images/tm-ruhyyet-park-life-v2.webp",
     description: { de: "Ein eleganter Stadtpark nahe dem Präsidentenpalast, bekannt für seine Marmorarchitektur und Ruhe.", hu: "Elegáns városi park az Elnöki Palota közelében, amely márványépítészetéről és nyugalmáról ismert.", ro: "Un parc urban elegant lângă Palatul Prezidențial, cunoscut pentru arhitectura sa din marmură și liniște.", en: "An elegant city park near the Presidential Palace, known for its marble architecture and tranquility." , es: "Un elegante parque urbano cerca del palacio presidencial, conocido por su arquitectura de mármol y tranquilidad.", pt: "Um elegante parque urbano perto do palácio presidencial, conhecido pela sua arquitetura de mármore e tranquilidade.", fr: "Un élégant parc urbain près du palais présidentiel, connu pour son architecture en marbre et sa tranquillité."},
     facts: {
       de: ["Der Park ist mit weißen Marmorwegen gepflastert.", "Er bietet einen perfekten Blick auf das Stadtzentrum."],
@@ -2663,7 +2648,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     parent: "TM-B",
     coords: [52.9667, 40.0167],
     name: { de: "Küstenpark Türkmenbaşy", hu: "Türkmenbaşy Tengerparti Park", ro: "Parcul Litoral Türkmenbașî", en: "Turkmenbashi Seaside Park"},
-    image: "/poi-images/tm-turkmenbashi-seaside-park-life-v2.webp",
     description: { de: "Ein landschaftlich reizvoller Park entlang der Küste, der Spaziergänge mit Meerblick ermöglicht.", hu: "Festői szépségű park a part mentén, amely tengerre néző sétákat kínál.", ro: "Un parc pitoresc de-a lungul coastei, care permite plimbări cu vedere la mare.", en: "A scenic park along the coast that allows for walks with sea views." , es: "Un parque pintoresco a lo largo de la costa, que permite paseos con vistas al mar.", pt: "Um parque pitoresco ao longo da costa, que permite passeios com vista para o mar.", fr: "Un parc pittoresque le long de la côte, qui permet des promenades avec vue sur la mer."},
     facts: {
       de: ["Die Meeresbrise macht ihn zu einem angenehmen Rückzugsort.", "Von hier aus kann man schöne Sonnenuntergänge beobachten."],
@@ -2744,7 +2728,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     parent: "TM-B",
     coords: [53.0000, 39.8000],
     name: { de: "Lebensraum der Kaspischen Robben", hu: "Kaszpi Fóka Élőhelye", ro: "Habitatul Focii Caspice", en: "Caspian Seal Habitat"},
-    image: "/poi-images/tm-caspian-seal-habitat-life-v2.webp",
     description: { de: "Ein Küstenschutzgebiet im Kaspischen Meer, das für das Überleben der bedrohten Kaspischen Robbe wichtig ist.", hu: "Parti védett terület a Kaszpi-tengeren, amely fontos a veszélyeztetett kaszpi fóka túlélése szempontjából.", ro: "O zonă de coastă protejată în Marea Caspică, importantă pentru supraviețuirea focii caspice pe cale de dispariție.", en: "A coastal protected area in the Caspian Sea important for the survival of the endangered Caspian seal." , es: "Un área de protección costera en el Mar Caspio, vital para la supervivencia de la foca del Caspio en peligro de extinción.", pt: "Uma área de proteção costeira no Mar Cáspio, vital para a sobrevivência da foca-do-cáspio em perigo de extinção.", fr: "Une zone de protection côtière de la mer Caspienne, vitale pour la survie du phoque de la Caspienne, une espèce en danger."},
     facts: {
       de: ["Die Kaspische Robbe ist die einzige marine Säugetierart im Kaspischen Meer.", "Ihre Population wird streng überwacht."],

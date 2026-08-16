@@ -8,7 +8,6 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     parent: "MM-17",
     coords: [98.0, 21.0],
     name: { de: "Shan-Hochland", hu: "Shan-fennsík", ro: "Podișul Shan", en: "Shan Hills"},
-    image: "/poi-images/shan-hills-relief-v2.webp",
     description: {
       de: "Ein ausgedehntes gebirgiges Hochland im Osten Myanmars, das für seine tiefen Schluchten und ethnische Vielfalt bekannt ist.",
       hu: "Mianmar keleti részét alkotó hatalmas hegyvidéki fennsík, amely mély szurdokairól és etnikai sokszínűségéről ismert.",
@@ -64,7 +63,6 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     parent: "MM-16",
     coords: [93.5, 19.5],
     name: { de: "Arakan-Joma-Gebirge", hu: "Arakan-hegység", ro: "Munții Arakan", en: "Arakan Mountains"},
-    image: "/poi-images/arakan-mountains-relief-v2.webp",
     description: {
       de: "Ein bedeutender Gebirgszug im Westen Myanmars, der eine natürliche Barriere zwischen der Rakhine-Küste und dem zentralen Becken bildet.",
       hu: "Jelentős hegység Mianmar nyugati részén, amely természetes határt képez a Rakhine-partvidék és a központi medence között.",
@@ -165,7 +163,6 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     parent: "MM-05",
     coords: [98.5, 13.0],
     name: { de: "Tenasserim-Berge", hu: "Tenasserim-hegység", ro: "Munții Tenasserim", en: "Tenasserim Hills"},
-    image: "/poi-images/tenasserim-hills-relief-v2.webp",
     description: {
       de: "Ein langer Gebirgszug, der das Rückgrat der Malaiischen Halbinsel bildet und entlang der Grenze zwischen Myanmar und Thailand verläuft.",
       hu: "Hosszú hegylánc, amely a Maláj-félsziget gerincét alkotja, és Mianmar, valamint Thaiföld határa mentén húzódik.",
@@ -221,7 +218,6 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     parent: "MM-01",
     coords: [96.0, 27.0],
     name: { de: "Patkai-Gebirge", hu: "Patkai-hegység", ro: "Munții Patkai", en: "Patkai Range"},
-    image: "/poi-images/patkai-range-relief-v2.webp",
     description: {
       de: "Ein markanter Gebirgszug an der Grenze zwischen Indien und Myanmar, gekennzeichnet durch steile Gipfel und tiefe Täler.",
       hu: "Kiemelkedő hegység az indiai-mianmari határon, amelyet meredek csúcsok és mély völgyek jellemeznek.",
@@ -378,7 +374,6 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     parent: "MM-11",
     coords: [96.7, 26.5],
     name: { de: "Kumon-Bum-Berge", hu: "Kumon Bum-hegység", ro: "Munții Kumon Bum", en: "Kumon Bum Mountains"},
-    image: "/poi-images/kumon-bum-mountains-relief-v2.webp",
     description: {
       de: "Eine nördliche Ausdehnung des Gebirgssystems im Kachin-Staat, die einige der unzugänglichsten Gipfel Südostasiens beherbergt.",
       hu: "A Kachin állam hegyrendszerének északi kiterjedése, amely Délkelet-Ázsia legnehezebben megközelíthető csúcsainak ad otthont.",
@@ -434,7 +429,6 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     parent: "MM-14",
     coords: [93.5, 22.0],
     name: { de: "Chin-Berge", hu: "Chin-hegység", ro: "Dealurile Chin", en: "Chin Hills"},
-    image: "/poi-images/chin-hills-relief-v2.webp",
     description: {
       de: "Ein zerklüfteter Gebirgszug, der Teil des Arakan-Joma-Systems ist und tief von engen Tälern und reißenden Bächen durchschnitten wird.",
       hu: "Zord hegylánc, amely az Arakan-hegység rendszerének része, és szűk völgyekkel, valamint gyors folyású patakokkal szabdalt.",
@@ -602,7 +596,6 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     parent: "MM-07",
     coords: [95.0, 16.0],
     name: { de: "Irrawaddy-Delta", hu: "Iravádi-delta", ro: "Delta Irrawaddy", en: "Irrawaddy Delta"},
-    image: "/poi-images/irrawaddy-delta-relief-v2.webp",
     description: {
       de: "Ein gewaltiges, tief gelegenes Flussdelta, das durch den Irrawaddy gebildet wird, der sich in mehrere Arme teilt.",
       hu: "Hatalmas, alacsonyan fekvő folyódeltája, amelyet az Iravádi-folyó alakított ki, mielőtt az Andamán-tengerbe ömlene.",
@@ -919,7 +912,6 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     parent: "MM-02",
     coords: [96.5, 18.5],
     name: { de: "Sittang-Tal", hu: "Sittang-völgy", ro: "Valea Sittang", en: "Sittang Valley"},
-    image: "/poi-images/sittang-valley-relief-v2.webp",
     description: {
       de: "Ein breites und fruchtbares Tal zwischen dem Bago Yoma und dem Shan-Hochland, das eine entscheidende Rolle für die Landwirtschaft spielt.",
       hu: "Széles és termékeny völgy a Bago Yoma és a Shan-fennsík között, amely döntő szerepet játszik a regionális mezőgazdaságban.",
@@ -1020,7 +1012,6 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     parent: "MM-01",
     coords: [94.5, 23.0],
     name: { de: "Chindwin-Tal", hu: "Chindwin-völgy", ro: "Valea Chindwin", en: "Chindwin Valley"},
-    image: "/poi-images/chindwin-valley-relief-v2.webp",
     description: {
       de: "Ein markantes geographisches Becken im Nordwesten Myanmars, das vom Chindwin-Fluss durch dichte Teakwälder gegraben wurde.",
       hu: "Egy elkülönülő földrajzi medence Északnyugat-Mianmarban, amelyet a Chindwin-folyó vájt ki a sűrű tíkfaerdők között.",
@@ -1076,7 +1067,6 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     parent: "MM-01",
     coords: [94.2, 24.0],
     name: { de: "Kabaw-Tal", hu: "Kabaw-völgy", ro: "Valea Kabaw", en: "Kabaw Valley"},
-    image: "/poi-images/kabaw-valley-relief-v2.webp",
     description: {
       de: "Ein Hochlandtal in der Sagaing-Region zwischen den Chin-Bergen und dem Chindwin-Fluss, bekannt für seine dichten Wälder.",
       hu: "Felvidéki völgy a Sagaing régióban, a Chin-hegység és a Chindwin-folyó között, amely sűrű erdeiről ismert.",
@@ -1602,7 +1592,6 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     parent: "MM-01",
     coords: [94.4, 21.8],
     name: { de: "Pondaung-Gebirge", hu: "Pondaung-hegység", ro: "Munții Pondaung", en: "Pondaung Range"},
-    image: "/poi-images/pondaung-range-relief-v2.webp",
     description: {
       de: "Ein markanter Bergrücken in den Regionen Magway und Sagaing, weltweit berühmt für seine wichtigen paläontologischen Fossilienfundstätten.",
       hu: "Kiemelkedő hegygerinc a Magway és Sagaing régiókban, amely világszerte híres fontos őslénytani fosszílialelőhelyeiről.",
@@ -2099,7 +2088,6 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     parent: "MM-01",
     coords: [94.1, 21.6],
     name: { de: "Ponnyadaung-Gebirge", hu: "Ponnyadaung-hegység", ro: "Munții Ponnyadaung", en: "Ponnyadaung Range"},
-    image: "/poi-images/ponnyadaung-range-relief-v2.webp",
     description: {
       de: "Ein etwa parallel zum Pondaung-Gebirge verlaufender Gebirgszug, geprägt von Trockenwäldern und saisonalen Bächen.",
       hu: "A Pondaung-hegységgel nagyjából párhuzamosan futó hegyvonulat, amelyet száraz erdők és szezonális patakok jellemeznek.",
@@ -2751,7 +2739,6 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     parent: "MM-17",
     coords: [99.7, 21.3],
     name: { de: "Loi Pangnao", hu: "Loi Pangnao", ro: "Loi Pangnao", en: "Loi Pangnao"},
-    image: "/poi-images/loi-pangnao-relief-v2.webp",
     description: {
       de: "Einer der herausragendsten Gipfel im Shan-Hochland, der sich durch seine beeindruckende Höhe und die umliegende Hochlandökologie auszeichnet.",
       hu: "A Shan-fennsík egyik kiemelkedő csúcsa, amely lenyűgöző magasságával és a környező hegyvidéki ökológiájával tűnik ki.",

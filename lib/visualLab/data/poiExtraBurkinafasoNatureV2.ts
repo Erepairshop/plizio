@@ -8,7 +8,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-04",
     coords: [-3.8, 11.5],
     name: { de: "Schwarzer Volta", hu: "Fekete-Volta", ro: "Volta Neagră", en: "Black Volta"},
-    image: "/poi-images/volta-noire-river-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss in Westafrika, der durch Burkina Faso fließt.", hu: "Jelentős nyugat-afrikai folyó, amely átfolyik Burkina Fasón.", ro: "Un râu important în Africa de Vest care curge prin Burkina Faso.", en: "A significant river in West Africa flowing through Burkina Faso." , es: "Un río importante en África Occidental que fluye a través de Burkina Faso.", pt: "Um rio importante na África Ocidental que corre através do Burkina Faso.", fr: "Un fleuve important d'Afrique de l'Ouest qui traverse le Burkina Faso."},
     facts: {
       de: ["Entspringt in Burkina Faso", "Wichtige Wasserquelle"],
@@ -44,7 +43,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-04",
     coords: [-4.6, 10.6],
     name: { de: "Tengrela-See", hu: "Tengrela-tó", ro: "Lacul Tengrela", en: "Tengrela Lake"},
-    image: "/poi-images/lac-tengrela-nature-v2.webp",
     description: { de: "Ein bedeutender See in Burkina Faso, bekannt für seine Nilpferdpopulation.", hu: "Jelentős tó Burkina Fasóban, amely a vízilópopulációjáról ismert.", ro: "Un lac important în Burkina Faso, cunoscut pentru populația sa de hipopotami.", en: "Lac Tengrela is a lake near Banfora in southwestern Burkina Faso. It is known for its calm water, hippos, and boat outings." , es: "Un lago importante en Burkina Faso, conocido por su población de hipopótamos.", pt: "Um lago importante no Burkina Faso, conhecido pela sua população de hipopótamos.", fr: "Un lac important du Burkina Faso, connu pour sa population d'hippopotames."},
     facts: {
       de: ["Heimat von Nilpferden", "Touristenattraktion"],
@@ -80,7 +78,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-11",
     coords: [-3.0, 11.6],
     name: { de: "Forêt Classée de Balé", hu: "Balé-erdő", ro: "Pădurea Balé", en: "Balé Forest"},
-    image: "/poi-images/bale-foret-nature-v2.webp",
     description: { de: "Die Balé-Waldzone ist ein geschützter Naturraum im Südwesten Burkina Fasos. Sie steht für dichte Vegetation und einen wichtigen Lebensraum für viele Arten.", hu: "A Balé-erdő védett erdős terület Burkina Faso nyugati részén. A sűrű növényzet és a természetes élővilág miatt fontos ökológiai helyszín.", ro: "Pădurea Bâle este un masiv forestier din Burkina Faso, legat de peisajele de savană din sud-vest. Ea oferă un habitat important pentru vegetație și animale.", en: "Bale Forest is a wooded area in Burkina Faso’s southwest. It represents the country’s savanna woodland landscape rather than dense rainforest." , es: "La zona boscosa de Balé es un espacio natural protegido en el suroeste de Burkina Faso. Destaca por su densa vegetación y como hábitat esencial para muchas especies.", pt: "A zona florestal de Balé é uma área natural protegida no sudoeste do Burkina Faso. Destaca-se pela vegetação densa e como um habitat importante para muitas espécies.", fr: "La zone forestière de Balé est un espace naturel protégé du sud-ouest du Burkina Faso. Elle se distingue par sa végétation dense et constitue un habitat vital pour de nombreuses espèces."},
     facts: {
       de: ["Geschützter Wald", "Im Südwesten", "Reiche Vegetation"],
@@ -116,7 +113,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-09",
     coords: [2.5, 11.9],
     name: { de: "W-Nationalpark", hu: "W Nemzeti Park", ro: "Parcul Național W", en: "W National Park"},
-    image: "/poi-images/parc-national-w-nature-v2.webp",
     description: { de: "Ein grenzüberschreitender Nationalpark zwischen Burkina Faso, Benin und Niger.", hu: "Határokon átnyúló nemzeti park Burkina Faso, Benin és Niger között.", ro: "Un parc național transfrontalier între Burkina Faso, Benin și Niger.", en: "A transboundary national park between Burkina Faso, Benin, and Niger." , es: "Un parque nacional transfronterizo entre Burkina Faso, Benín y Níger.", pt: "Um parque nacional transfronteiriço entre o Burkina Faso, o Benim e o Níger.", fr: "Un parc national transfrontalier entre le Burkina Faso, le Bénin et le Niger."},
     facts: {
       de: ["UNESCO-Welterbe", "Hohe Artenvielfalt"],
@@ -197,7 +193,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-45",
     coords: [-1.6, 11.2],
     name: { de: "Nazinga-Hügel", hu: "Nazinga-dombság", ro: "Dealurile Nazinga", en: "Nazinga Hills"},
-    image: "/poi-images/pic-de-nazinga-nature-v2.webp",
     description: { de: "Ein landschaftlich reizvolles Gebiet im Nazinga-Reservat.", hu: "A Nazinga-dombok a táj enyhe magaslatait adják a rezervátum térségében. A pont a vadon és a szárazföldi táj határát mutatja meg.", ro: "O zonă pitorească în rezervația Nazinga.", en: "Pic de Nazinga is a rocky high point in the Nazinga area. It adds a notable rise to a landscape better known for wildlife and dry savanna." , es: "Un área de gran belleza paisajística en la Reserva de Nazinga.", pt: "Uma área de grande beleza paisagística na Reserva de Nazinga.", fr: "Une zone de grande valeur paysagère dans la réserve de Nazinga."},
     facts: {
       de: ["Wildtierreservat", "Schöne Aussicht"],
@@ -233,7 +228,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-05",
     coords: [2.0, 14.5],
     name: { de: "Nigerfluss", hu: "Niger folyó", ro: "Râul Niger", en: "Niger River"},
-    image: "/poi-images/fleuve-niger-nature-v2.webp",
     description: { de: "Der drittlängste Fluss Afrikas, der auch in Burkina Faso verläuft.", hu: "Afrika harmadik leghosszabb folyója, amely Burkina Fasón is áthalad.", ro: "Al treilea cel mai lung râu din Africa, care trece și prin Burkina Faso.", en: "The third longest river in Africa, which also passes through Burkina Faso." , es: "El tercer río más largo de África, que también fluye por Burkina Faso.", pt: "O terceiro rio mais longo de África, que também passa pelo Burkina Faso.", fr: "Le troisième plus long fleuve d'Afrique, qui traverse également le Burkina Faso."},
     facts: {
       de: ["Große Bedeutung", "Wirtschaftszentrum"],
@@ -314,7 +308,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-10",
     coords: [-4.2, 11.6],
     name: { de: "Nilpferd-See", hu: "Víziló-tó", ro: "Lacul Hipopotamilor", en: "Hippo Lake"},
-    image: "/poi-images/mare-aux-hippopotames-nature-v2.webp",
     description: { de: "Die Mare aux Hippopotames ist ein bekanntes Feuchtgebiet und Lebensraum für Flusspferde. Das Naturgebiet gehört zu den wichtigsten Wasserflächen des Landes.", hu: "A Víziló-tó egy ismert vizes élőhely Burkina Fasóban. A vízhez kötődő élővilág és a tájvédelmi szerep miatt különösen fontos.", ro: "Marea cu hipopotami este un luciu de apă cunoscut pentru fauna sa și pentru atmosfera de zonă umedă. Este un punct natural asociat observației animalelor.", en: "Mare aux Hippopotames is a wetland area near Bobo-Dioulasso. It is one of Burkina Faso’s best-known places for seeing hippos in the wild." , es: "La Mare aux Hippopotames es un humedal conocido y hábitat de hipopótamos. Esta zona natural es una de las superficies de agua más importantes del país.", pt: "A Mare aux Hippopotames é uma zona húmida conhecida e habitat de hipopótamos. Esta área natural é uma das superfícies aquáticas mais importantes do país.", fr: "La Mare aux Hippopotames est une zone humide renommée et un habitat pour les hippopotames. Cette zone naturelle compte parmi les plans d'eau les plus importants du pays."},
     facts: {
       de: ["Feuchtgebiet", "Nilpferde als Merkmal", "Wichtiger Lebensraum"],
@@ -431,7 +424,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-04",
     coords: [-4.5, 11.3],
     name: { de: "Diossor-Berge", hu: "Diossor-hegyek", ro: "Munții Diossor", en: "Diossor Mountains"},
-    image: "/poi-images/monts-diossor-nature-v2.webp",
     description: { de: "Eine bergige Region im westlichen Burkina Faso.", hu: "A Diossor-hegység kisebb hegyvidéki táj Burkina Faso nyugati részén. A dombos felszín és a szárazabb környezet együtt alakítja a területet.", ro: "Munții Diossor reprezintă o formă de relief din vestul țării. Ei adaugă diversitate peisajului dintre câmpii și zonele de deal.", en: "A mountainous region in western Burkina Faso." , es: "Una región montañosa en el oeste de Burkina Faso.", pt: "Uma região montanhosa no oeste de Burkina Faso.", fr: "Une région montagneuse dans l'ouest du Burkina Faso."},
     facts: {
       de: ["Bergige Landschaft", "Ideal zum Wandern"],
@@ -512,7 +504,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-06",
     coords: [-1.2, 12.0],
     name: { de: "Roter Volta", hu: "Vörös-Volta", ro: "Volta Roșie", en: "Red Volta"},
-    image: "/poi-images/fleuve-volta-rouge-nature-v2.webp",
     description: { de: "Der Fleuve Volta Rouge ist ein wichtiger Wasserlauf im burkinischen Flusssystem. Entlang seines Verlaufs liegen landwirtschaftlich genutzte und ökologisch wertvolle Räume.", hu: "A Vörös-Volta folyó a térség vízhálózatának egyik fontos eleme. A folyó menti élőhelyek a szárazabb időszakokban is sokat jelentenek.", ro: "Volta Roșie este un curs de apă important în sistemul hidrografic al Burkinei Faso. El susține zonele rurale și echilibrul ecologic local.", en: "Fleuve Volta Rouge is part of the Volta river system in eastern Burkina Faso. It supports drainage and seasonal water flows across the region." , es: "El Volta Rojo es un curso de agua vital en el sistema fluvial de Burkina Faso, rodeado de zonas agrícolas y espacios de gran valor ecológico.", pt: "O Volta Vermelho é um curso de água importante no sistema fluvial do Burkina Faso. Ao longo do seu curso existem áreas agrícolas e ecologicamente valiosas.", fr: "La Volta Rouge est un cours d'eau essentiel du réseau fluvial burkinabè, bordé de zones agricoles et d'espaces à forte valeur écologique."},
     facts: {
       de: ["Fluss in Burkina Faso", "Teil des Voltabeckens", "Wasser für Dörfer"],
@@ -548,7 +539,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-12",
     coords: [-0.4, 14.7],
     name: { de: "Oursi-See", hu: "Oursi-tó", ro: "Lacul Oursi", en: "Oursi Lake"},
-    image: "/poi-images/mare-de-oursi-nature-v2.webp",
     description: { de: "Ein saisonaler See in der Sahel-Region.", hu: "Szezonális tó a Száhel-régióban.", ro: "Un lac sezonier în regiunea Sahel.", en: "Mare de Oursi is a seasonal lake in the Sahel zone of northern Burkina Faso. It is an important water point in a very dry environment." , es: "Un lago estacional en la región del Sahel.", pt: "Um lago sazonal na região do Sahel.", fr: "Un lac saisonnier dans la région du Sahel."},
     facts: {
       de: ["Vogelbeobachtung", "Wichtiges Feuchtgebiet"],
@@ -620,7 +610,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-09",
     coords: [1.1, 11.4],
     name: { de: "Kanala-Berge", hu: "Kanala-hegyek", ro: "Munții Kanala", en: "Kanala Mountains"},
-    image: "/poi-images/monts-kanala-nature-v2.webp",
     description: { de: "Die Monts Kanala bilden eine hügelige Landschaft in Burkina Faso. Das Relief sorgt für Abwechslung im sonst oft flachen savannenartigen Gelände.", hu: "A Kanala-hegység kisebb, tagolt domborzati elemként jelenik meg a burkinai tájban. A magasabb pontok és a környező szárazföld együtt adják a karakterét.", ro: "Munții Kanala sunt o zonă de relief care pune în valoare peisajul local. Ei aparțin reliefului ondulat specific unor regiuni din Burkina Faso.", en: "Monts Kanala are a small mountain area in Burkina Faso. Their low ridges shape the local landscape and break up the surrounding plain." , es: "Los Montes Kanala forman un paisaje de colinas en Burkina Faso. El relieve proporciona variedad en el terreno que, de otro modo, suele ser llano y tipo sabana.", pt: "Os Montes Kanala formam uma paisagem de colinas no Burkina Faso. O relevo proporciona variedade no terreno, que de outra forma é frequentemente plano e tipo savana.", fr: "Les Monts Kanala forment un paysage vallonné au Burkina Faso. Le relief apporte de la diversité dans un terrain par ailleurs souvent plat et de type savane."},
     facts: {
       de: ["Hügelige Landschaft", "Im Osten gelegen", "Prägt das Relief"],
@@ -701,7 +690,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-06",
     coords: [-1.4, 12.1],
     name: { de: "Weißer Volta", hu: "Fehér-Volta", ro: "Volta Albă", en: "White Volta"},
-    image: "/poi-images/fleuve-volta-blanche-nature-v2.webp",
     description: { de: "Ein bedeutender Flussarm in Burkina Faso.", hu: "A Fehér-Volta folyó a Burkina Faso-i vízrendszer fontos ága. A folyóvölgyek mentén mezőgazdasági és ökológiai szerepe is van.", ro: "Un braț important al râului în Burkina Faso.", en: "A major river branch in Burkina Faso." , es: "Un brazo fluvial de gran importancia en Burkina Faso.", pt: "Um braço de rio significativo em Burkina Faso.", fr: "Un bras de rivière majeur au Burkina Faso."},
     facts: {
       de: ["Wichtiger Wasserlauf", "Landschaftsprägend"],
@@ -737,7 +725,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-09",
     coords: [1.2, 11.5],
     name: { de: "Gourou-See", hu: "Gourou-tó", ro: "Lacul Gourou", en: "Gourou Lake"},
-    image: "/poi-images/mare-de-gourou-nature-v2.webp",
     description: { de: "Die Mare de Gourou ist ein kleines Gewässer in der östlichen Landeshälfte. In der Trockenzeit kann es als wichtiger Punkt für Tiere und Vögel dienen.", hu: "Kis tó Burkina Faso keleti részén.", ro: "Un lac mic în estul Burkina Faso.", en: "Mare de Gourou is a water body in northern Burkina Faso. In the dry season it becomes a valuable place for people, livestock, and wildlife." , es: "La Mare de Gourou es un pequeño cuerpo de agua en la mitad oriental del país. En la estación seca, puede servir como un punto importante para animales y aves.", pt: "A Mare de Gourou é um pequeno corpo de água na metade oriental do país. Na estação seca, pode servir como um ponto importante para animais e aves.", fr: "La Mare de Gourou est un petit plan d'eau situé dans la moitié est du pays. En saison sèche, elle peut constituer un point de ralliement crucial pour les animaux et les oiseaux."},
     facts: {
       de: ["Kleines Gewässer", "In Ostburkina", "Für Vögel wichtig"],
@@ -773,7 +760,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-04",
     coords: [-4.2, 10.9],
     name: { de: "Dindivier-Wald", hu: "Dindivier-erdő", ro: "Pădurea Dindivier", en: "Dindivier Forest"},
-    image: "/poi-images/foret-dindivier-nature-v2.webp",
     description: { de: "Der Dindivier-Wald ist ein bewaldetes Gebiet mit lokaler Bedeutung für Natur und Klima. Er bietet Schatten, Schutz und einen ruhigen Lebensraum für die Fauna.", hu: "A Dindivier-erdő egy kevésbé ismert, de értékes természetes terület. A helyi élővilág számára menedéket és árnyékos környezetet biztosít.", ro: "Pădurea Dindivier este o zonă împădurită din Burkina Faso, importantă pentru vegetație și echilibrul local al mediului. Ea aparține peisajelor naturale de tranziție dintre savană și zone mai dense.", en: "Foret Dindivier is a forest area in Burkina Faso’s interior. It reflects the patchwork of wooded zones that remain outside the driest plains." , es: "El bosque de Dindivier es una zona boscosa de importancia local para la naturaleza y el clima, ofreciendo refugio y paz para la fauna.", pt: "A floresta de Dindivier é uma área arborizada com importância local para a natureza e o clima. Oferece sombra, proteção e um habitat tranquilo.", fr: "La forêt de Dindivier est une zone boisée d'importance locale pour la biodiversité et le climat, offrant protection et calme à la faune."},
     facts: {
       de: ["Bewaldetes Gebiet", "Lokaler Lebensraum", "Schutz für Tiere"],
@@ -845,7 +831,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-03",
     coords: [-4.5, 11.3],
     name: { de: "Kourou-See", hu: "Kourou-tó", ro: "Lacul Kourou", en: "Kourou Lake"},
-    image: "/poi-images/mare-de-kourou-nature-v2.webp",
     description: { de: "Die Mare de Kourou ist ein natürliches Wasserbecken in einer trockeneren Umgebung. Es spielt eine Rolle als Sammelpunkt für Wasser und Tierleben.", hu: "A Kourou-mocsár vagy tómeder vízhez kötődő természetes élőhely. A szárazabb időszakban is fontos szerepe van a környék ökológiájában.", ro: "Mlaștina sau ochiul de apă de la Kourou este un punct natural legat de apă și de fauna locală. Astfel de locuri sunt importante pentru biodiversitate și pentru comunitățile din jur.", en: "Mare de Kourou is a seasonal water body in Burkina Faso. It becomes more important during the dry months when surface water is scarce." , es: "La Mare de Kourou es una cuenca de agua natural en un entorno más seco. Funciona como un punto de encuentro para el agua y la vida animal.", pt: "A Mare de Kourou é uma bacia de água natural num ambiente mais seco. Desempenha um papel como ponto de recolha de água e vida animal.", fr: "La Mare de Kourou est un bassin d'eau naturel situé dans un environnement aride. Elle sert de point de rassemblement pour l'eau et la faune sauvage."},
     facts: {
       de: ["Natürliches Wasserbecken", "Sammelpunkt für Tiere", "In trockener Umgebung"],
@@ -881,7 +866,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-04",
     coords: [-3.8, 10.4],
     name: { de: "Boulon-Wald", hu: "Boulon-erdő", ro: "Pădurea Boulon", en: "Boulon Forest"},
-    image: "/poi-images/foret-boulon-nature-v2.webp",
     description: { de: "Die Boulon-Waldzone liegt im Übergang zwischen Wald und Savanne. Sie ist wichtig für die lokale Biodiversität und die Beobachtung von Wildtieren.", hu: "A Boulon-erdő egy helyi természeti terület, amely a vidéki táj zöldebb részei közé tartozik. Élőhelyet ad a környék növény- és állatvilágának.", ro: "Pădurea Boulon este o zonă naturală din Burkina Faso, cu rol în menținerea vegetației și a microclimatului local. Ea oferă un habitat pentru specii specifice savanei împădurite.", en: "Foret Boulon is a forested area linked to the Boulon landscape in southwestern Burkina Faso. It helps preserve woodland habitat in the savanna zone." , es: "La zona forestal de Boulon se encuentra en la transición entre el bosque y la sabana, siendo clave para la biodiversidad y la observación de fauna.", pt: "A zona florestal de Boulon situa-se na transição entre a floresta e a savana. É importante para a biodiversidade local e a observação da vida selvagem.", fr: "La zone forestière de Boulon se situe à la transition entre forêt et savane, jouant un rôle majeur pour la biodiversité et l'observation de la faune."},
     facts: {
       de: ["Wald-Savannen-Übergang", "Wichtig für Biodiversität", "Lebensraum für Tiere"],
@@ -917,7 +901,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-09",
     coords: [1.8, 12.0],
     name: { de: "Diapaga-Hügel", hu: "Diapaga-dombság", ro: "Dealurile Diapaga", en: "Diapaga Hills"},
-    image: "/poi-images/monts-diapaga-nature-v2.webp",
     description: { de: "Die Monts Diapaga markieren ein felsigeres Relief im Osten Burkina Fasos. Sie ergänzen die trockene Landschaft um Höhenzüge und natürliche Aussichtspunkte.", hu: "A Diapaga-hegység a keleti országrész tagoltabb domborzatát képviseli. A magasabb pontok a száraz síkságok között jól elkülönülnek.", ro: "Munții Diapaga reprezintă un sector de relief din estul Burkinei Faso. Ei fac parte din peisajul mai accidentat al regiunii și marchează clar terenul.", en: "Monts Diapaga are a hill area in eastern Burkina Faso. They add broken relief to a region that is otherwise dominated by open plains." , es: "Los Montes Diapaga marcan un relieve rocoso en el este de Burkina Faso. Complementan el paisaje árido con cadenas montañosas y miradores naturales.", pt: "Os Montes Diapaga marcam um relevo rochoso no leste de Burkina Faso. Eles complementam a paisagem árida com cumes e miradouros naturais.", fr: "Les Monts Diapaga marquent un relief rocheux dans l'est du Burkina Faso. Ils complètent le paysage aride par des crêtes et des points de vue naturels."},
     facts: {
       de: ["Felsiges Relief", "Im Osten des Landes", "Höhenzüge im Gelände"],
@@ -953,7 +936,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-09",
     coords: [1.5, 11.0],
     name: { de: "Pendjari-Fluss", hu: "Pendjari folyó", ro: "Râul Pendjari", en: "Pendjari River"},
-    image: "/poi-images/fleuve-pendjari-nature-v2.webp",
     description: { de: "Ein wichtiger Fluss im Pendjari-Nationalpark.", hu: "A Pendjari folyó a déli és keleti vízhálózat fontos eleme lehet a térségben. A folyó menti zónák a természetes élőhelyek megőrzésében is szerepet kapnak.", ro: "Râul Pendjari este un curs de apă important în sud-vestul regiunii saheliene. El are valoare ecologică și susține ecosisteme locale de apă dulce.", en: "An important river in the Pendjari National Park." , es: "Un río importante ubicado en el Parque Nacional Pendjari.", pt: "Um rio importante no Parque Nacional de Pendjari.", fr: "Un fleuve important situé dans le parc national de la Pendjari."},
     facts: {
       de: ["Wichtiger Fluss", "Tierbeobachtung"],
@@ -1034,7 +1016,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-11",
     coords: [-2.8, 11.5],
     name: { de: "Balé-See", hu: "Balé-tó", ro: "Lacul Balé", en: "Balé Lake"},
-    image: "/poi-images/mare-de-bale-nature-v2.webp",
     description: { de: "Die Mare de Balé ist ein kleines, saisonales Gewässer in der Balé-Region. Es ist besonders in der Regenzeit ein wichtiger Punkt im Naturraum.", hu: "A Balé-mocsár vagy tómeder vízhez kötődő természeti helyszín. A száraz évszakban is fontos marad a környék ökológiai egyensúlyához.", ro: "Mlaștina sau lacul de la Bâle este un element natural legat de apă și de viața sălbatică. Astfel de locuri au un rol important pentru echilibrul mediului.", en: "Mare de Bale is a wetland or seasonal lake in Burkina Faso. It is part of the country’s network of small water points in the south and west." , es: "La Mare de Balé es un cuerpo de agua pequeño y estacional en la región de Balé. Es un punto importante en el entorno natural, especialmente durante la temporada de lluvias.", pt: "A Mare de Balé é um pequeno corpo de água sazonal na região de Balé. É um ponto importante no espaço natural, especialmente na época das chuvas.", fr: "La Mare de Balé est un petit plan d'eau saisonnier situé dans la région de la Balé. C'est un point important du milieu naturel, particulièrement durant la saison des pluies."},
     facts: {
       de: ["Saisonales Gewässer", "In der Balé-Region", "Wichtig in der Regenzeit"],
@@ -1070,7 +1051,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-11",
     coords: [-2.2, 11.2],
     name: { de: "Sissili-Wald", hu: "Sissili-erdő", ro: "Pădurea Sissili", en: "Sissili Forest"},
-    image: "/poi-images/foret-sissili-nature-v2.webp",
     description: { de: "Der Wald von Sissili ist ein Naturraum mit dichterer Vegetation als die umliegende Savanne. Er bietet Schutz für Pflanzen, Vögel und kleinere Wildtiere.", hu: "A Sissili-erdő a középső-délies zóna természetes növényzetének része. A helyi erdős foltok a talaj és a víz megőrzését is segítik.", ro: "Pădurea Sissili este o zonă naturală din sudul Burkinei Faso. Ea susține peisajul de savană și diversitatea biologică locală.", en: "Foret Sissili is a wooded area in south-central Burkina Faso. It reflects the more wooded Sudanian zone before the landscape becomes drier to the north." , es: "El bosque de Sissili es un espacio natural con una vegetación más densa que la sabana circundante, protegiendo plantas, aves y pequeños animales silvestres.", pt: "A floresta de Sissili é um espaço natural com vegetação mais densa do que a savana circundante. Oferece proteção a plantas, aves e pequenos animais selvagens.", fr: "La forêt de la Sissili est un espace naturel doté d'une végétation plus dense que la savane environnante, abritant plantes, oiseaux et petits mammifères."},
     facts: {
       de: ["Dichterer Wald", "Schutzraum für Tiere", "Mehr Vegetation als Savanne"],
@@ -1106,7 +1086,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-12",
     coords: [-0.3, 14.4],
     name: { de: "Gorom-Hügel", hu: "Gorom-dombság", ro: "Dealurile Gorom", en: "Gorom Hills"},
-    image: "/poi-images/monts-gorom-nature-v2.webp",
     description: { de: "Die Monts Gorom sind ein hügeliger Naturraum im Norden des Landes. Sie prägen die trockene Sahel-Landschaft mit kleinen Erhebungen.", hu: "A Gorom-hegység kisebb magaslati tájként jelenik meg a száraz északi vidékeken. A domborzat a sivatagosabb környezetet tagolja.", ro: "Munții Gorom aduc relief într-o regiune altfel dominată de câmpii și savană. Ei fac parte din reperele naturale ale zonei nordice.", en: "Monts Gorom are a small mountain area near Gorom-Gorom in the far north. They stand out in a region better known for flat Sahel plains." , es: "Los Montes Gorom son un área natural montañosa en el norte del país. Marcan el paisaje seco del Sahel con pequeñas elevaciones.", pt: "Os Montes Gorom são uma área natural montanhosa no norte do país. Caracterizam a paisagem seca do Sahel com pequenas elevações.", fr: "Les Monts Gorom sont un espace naturel montagneux dans le nord du pays. Ils marquent le paysage sec du Sahel par de petites élévations."},
     facts: {
       de: ["Hügel im Norden", "Sahel-Landschaft", "Karge Umgebung"],
@@ -1142,7 +1121,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-12",
     coords: [-0.9, 14.5],
     name: { de: "Arbinda-See", hu: "Arbinda-tó", ro: "Lacul Arbinda", en: "Arbinda Lake"},
-    image: "/poi-images/mare-de-arbinda-nature-v2.webp",
     description: { de: "Die Mare de Arbinda ist eine Wasserstelle in der nördlichen Sahelzone. In einer trockenen Region ist sie für Menschen, Tiere und den Alltag besonders wichtig.", hu: "Az Arbinda-mocsár vízhez kötődő élőhely a Száhel peremén. A helyiek számára az időszakos vízgyűjtés és a természet szempontjából is fontos.", ro: "Zona umedă de la Arbinda este legată de apă și de resursele naturale din nord. Ea contează pentru faună, vegetație și folosirea locală a terenului.", en: "Mare de Arbinda is a seasonal wetland in the northern Sahel zone. It is a valuable water point for people and livestock." , es: "La Mare de Arbinda es un punto de agua en el norte de la zona del Sahel. En una región árida, es especialmente importante para las personas, los animales y la vida cotidiana.", pt: "A Mare de Arbinda é um ponto de água no norte do Sahel. Numa região seca, é particularmente importante para as pessoas, os animais e o dia a dia.", fr: "La Mare d'Arbinda est un point d'eau situé dans le nord du Sahel. Dans cette région aride, elle est particulièrement importante pour les populations, les animaux et la vie quotidienne."},
     facts: {
       de: ["Wasserstelle im Norden", "In der Sahelzone", "Wichtig in der Trockenzeit"],
@@ -1178,7 +1156,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-09",
     coords: [1.6, 11.4],
     name: { de: "Pama-Wald", hu: "Pama-erdő", ro: "Pădurea Pama", en: "Pama Forest"},
-    image: "/poi-images/foret-pama-nature-v2.webp",
     description: { de: "Der Wald von Pama liegt im Südosten Burkina Fasos und ergänzt dort die offenen Savannenräume. Er ist ein wichtiger Naturraum für Pflanzen und Tiere.", hu: "A Pama-erdő a keleti országrész természetes vegetációjának egyik darabja. A védett környezet a nagyobb vadonrészekhez is kapcsolódik.", ro: "Pădurea Pama este o zonă naturală din estul Burkinei Faso. Ea contribuie la biodiversitatea unei regiuni cu savane și spații deschise.", en: "Foret Pama is part of the wooded landscape in southeastern Burkina Faso. It sits in one of the country’s better known conservation zones." , es: "El bosque de Pama se sitúa en el sureste de Burkina Faso, complementando las sabanas abiertas como un refugio vital para plantas y animales.", pt: "A floresta de Pama situa-se no sudeste do Burkina Faso e complementa as áreas de savana aberta. É um espaço natural importante para plantas e animais.", fr: "La forêt de Pama se trouve dans le sud-est du Burkina Faso, complétant les paysages de savane ouverte. C'est un espace naturel vital pour la flore et la faune."},
     facts: {
       de: ["Wald im Südosten", "Teil der Savannenlandschaft", "Schutzraum für Tiere"],
@@ -1214,7 +1191,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-04",
     coords: [-4.7, 10.6],
     name: { de: "Banfora-Felsen", hu: "Banfora-sziklák", ro: "Stâncile Banfora", en: "Banfora Cliffs"},
-    image: "/poi-images/monts-banfora-nature-v2.webp",
     description: { de: "Die Monts Banfora prägen die grüne Landschaft rund um Banfora im Südwesten des Landes. Die Fels- und Hügelformen gehören zu den bekanntesten Naturkulissen der Region.", hu: "A Banfora-hegység látványos domb- és sziklaformáival ismert táj Burkina Faso délnyugati részén. A kőzetformák a régió egyik legfelismerhetőbb elemei.", ro: "Munții Banfora sunt unul dintre cele mai cunoscute elemente de relief din sud-vestul țării. Ei dau un caracter aparte peisajului din jurul Banforei.", en: "Monts Banfora are the scenic hills and escarpments around Banfora. They are one of the country’s most recognizable relief features." , es: "Los Monts Banfora definen el paisaje verde alrededor de Banfora, en el suroeste del país. Las formaciones rocosas y de colinas se encuentran entre los escenarios naturales más conocidos de la región.", pt: "Os Monts Banfora definem a paisagem verde em redor de Banfora, no sudoeste do país. As formações rochosas e montanhosas estão entre os cenários naturais mais conhecidos da região.", fr: "Les Monts Banfora marquent le paysage verdoyant autour de Banfora, dans le sud-ouest du pays. Ces formations rocheuses comptent parmi les décors naturels les plus célèbres de la région."},
     facts: {
       de: ["Bei Banfora", "Felsige Hügel", "Bekannte Naturkulisse"],
@@ -1250,7 +1226,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-08",
     coords: [1.2, 13.5],
     name: { de: "Sirba-Fluss", hu: "Sirba folyó", ro: "Râul Sirba", en: "Sirba River"},
-    image: "/poi-images/fleuve-sirba-nature-v2.webp",
     description: { de: "Die Sirba ist ein Fluss im Osten Burkina Fasos und Teil des regionalen Wassersystems. Er ist für Felder, Vieh und lokale Lebensräume von Bedeutung.", hu: "A Sirba folyó a keleti vízhálózat egyik fontos eleme. A folyóparti területek a mezőgazdaság és a természetes élőhelyek számára is jelentősek.", ro: "Râul Sirba este un curs de apă important pentru zonele nord-estice ale Burkinei Faso. El are rol ecologic și sprijină viața locală.", en: "Fleuve Sirba is a river in eastern Burkina Faso. It contributes to drainage and seasonal water movement across the savanna belt." , es: "La Sirba es un río en el este de Burkina Faso y parte del sistema hídrico regional. Es vital para los cultivos, el ganado y los hábitats locales.", pt: "O Sirba é um rio no leste de Burkina Faso e parte do sistema hídrico regional. É importante para a agricultura, o gado e os habitats locais.", fr: "La Sirba est une rivière de l'est du Burkina Faso, intégrée au système hydrologique régional. Elle joue un rôle crucial pour les cultures, le bétail et les écosystèmes locaux."},
     facts: {
       de: ["Fluss im Osten", "Teil des Wassersystems", "Wichtig für Landwirtschaft"],
@@ -1286,7 +1261,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     parent: "BF-07",
     coords: [0.0, 14.0],
     name: { de: "Dori-See", hu: "Dori-tó", ro: "Lacul Dori", en: "Dori Lake"},
-    image: "/poi-images/mare-de-dori-nature-v2.webp",
     description: { de: "Die Mare de Dori ist eine Wasserstelle in der nördlichen Sahelzone. In einer trockenen Umgebung spielt sie für Menschen und Tiere eine wichtige Rolle.", hu: "A Dori-mocsár vagy tómeder a száraz északi térség egyik fontos vízpontja. A víz jelenléte itt különösen sokat számít az élővilág számára.", ro: "Zona umedă de la Dori este legată de apa disponibilă într-o regiune aridă. Ea contează pentru faună, vegetație și utilizarea terenurilor.", en: "Mare de Dori is a water body in the Sahel town of Dori. It is especially important when rainfall is low and water is limited." , es: "La Mare de Dori es un punto de agua en el norte del Sahel. En un entorno árido, desempeña un papel fundamental para las personas y los animales.", pt: "A Mare de Dori é um ponto de água no norte do Sahel. Num ambiente seco, desempenha um papel importante para as pessoas e os animais.", fr: "La Mare de Dori est un point d'eau situé dans le nord du Sahel. Dans cet environnement aride, elle joue un rôle essentiel pour les populations et les animaux."},
     facts: {
       de: ["Wasserstelle im Norden", "Sahel-Umgebung", "Wichtig in der Trockenzeit"],

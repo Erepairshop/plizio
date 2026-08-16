@@ -112,7 +112,6 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/juche-tower-landmarks-v2.webp",
     description: {
       de: "Ein Monument in Pjöngjang, das die Juche-Ideologie symbolisiert. Es ist 170 Meter hoch und bietet einen Panoramablick über die Stadt.",
       hu: "A Dzsucse-ideológiát szimbolizáló emlékmű Phenjanban. 170 méter magas, és panorámás kilátást nyújt a városra.",
@@ -637,7 +636,6 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/arch-of-triumph-pyongyang-landmarks-v2.webp",
     description: {
       de: "Nach dem Vorbild des Arc de Triomphe in Paris erbaut, um der koreanischen Widerstandsbewegung gegen Japan von 1925 bis 1945 zu gedenken.",
       hu: "A párizsi Diadalív mintájára épült, az 1925 és 1945 közötti japánellenes koreai ellenállási mozgalom emlékére.",
@@ -838,7 +836,6 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/kumsusan-palace-of-the-sun-landmarks-v2.webp",
     description: {
       de: "Dient als Mausoleum für Kim Il-sung und Kim Jong-il, die ehemaligen Führer Nordkoreas.",
       hu: "Kim Ir Szen és Kim Dzsongil, Észak-Korea korábbi vezetőinek mauzóleumaként szolgál.",
@@ -931,7 +928,6 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/grand-monument-on-mansu-hill-landmarks-v2.webp",
     description: {
       de: "Ein Komplex von Monumenten in Pjöngjang, dessen zentraler Teil zwei 22 Meter hohe Bronzestatuen von Kim Il-sung und Kim Jong-il sind.",
       hu: "Phenjani emlékműkomplexum, amelynek központi része Kim Ir Szen és Kim Dzsongil két 22 méter magas bronzszobra.",
@@ -1564,7 +1560,6 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/pyongyang-tv-tower-landmarks-v2.webp",
     description: {
       de: "Ein 150 Meter hoher freistehender Betonturm mit einem Beobachtungsdeck und einem Panoramarestaurant.",
       hu: "Egy 150 méter magas, szabadon álló betontorony kilátóterasszal és panorámaétteremmel.",
@@ -1657,7 +1652,6 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/party-foundation-monument-landmarks-v2.webp",
     description: {
       de: "Ein Denkmal in Pjöngjang, das die Arbeiterpartei Koreas verherrlicht. Es zeigt einen Hammer, eine Sichel und einen Pinsel.",
       hu: "Phenjani emlékmű, amely a Koreai Munkapártot dicsőíti. Egy kalapácsot, egy sarlót és egy ecsetet ábrázol.",
@@ -1891,7 +1885,6 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       ro: ["USS Pueblo a fost capturată pe 23 ianuarie 1968 în largul coastei de est.", "Un membru al echipajului a fost ucis în timpul atacului, iar 82 au fost capturați.", "Echipajul a fost eliberat în decembrie 1968, după 335 de zile de captivitate.", "Nava rămâne în inventarul oficial al Marinei SUA ca navă în serviciu activ.", "A fost mutată de la Wonsan la Phenian în 1999 pentru a deveni muzeu.", "La bord sunt expuse documente și fotografii din timpul interogării echipajului."],
       en: ["The ship was captured on January 23, 1968, off the eastern coast of Korea.", "One crew member was killed during the capture, while 82 others were taken prisoner.", "The crew was released in December 1968 after exactly 335 days in captivity.", "It remains the only US Navy ship currently held in captivity by a foreign nation.", "The vessel was moved from Wonsan to Pyongyang in 1999 to serve as a tourist site.", "Bullet holes from the 1968 engagement are still clearly visible on the hull and bridge."],
     }, },
-    image: "/poi-images/uss-pueblo-ag-er-2-landmarks-v2.webp",
     description: {
       de: "Ein Forschungsschiff der US Navy, das 1968 von Nordkorea gekapert wurde. Es ist heute ein Museumsschiff in Pjöngjang.",
       hu: "Az amerikai haditengerészet kutatóhajója, amelyet Észak-Korea 1968-ban elfogott. Ma múzeumhajó Phenjanban.",
@@ -2125,7 +2118,6 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       ro: ["Regele Tongmyong a murit în anul 19 î.Hr., după ce a fondat regatul în 37 î.Hr.", "Mormântul a fost mutat la Phenian în anul 427 d.Hr. din locația sa originală.", "Restaurarea din 1993 a vizat transformarea sitului într-un monument național major.", "Camera funerară este decorată cu fresce reprezentând flori de lotus.", "Situl include Templul Chongrung, reconstruit pentru a respecta stilul original.", "Face parte din primul sit UNESCO recunoscut în Coreea de Nord în 2004."],
       en: ["King Tongmyong passed away in 19 BC after founding the Goguryeo dynasty in 37 BC.", "The tomb was relocated to Pyongyang in 427 AD to coincide with the capital move.", "A massive restoration project was completed in 1993 to modernize the complex.", "The burial chamber contains murals that reflect the artistic style of the 5th century.", "The complex features 22 stone sculptures of military and civilian officials.", "It was designated as a UNESCO World Heritage site in 2004 for its cultural value."],
     }, },
-    image: "/poi-images/tomb-of-king-tongmyong-landmarks-v2.webp",
     description: {
       de: "Ein Mausoleum in der Nähe von Pjöngjang, das als Grabmal von Tongmyong, dem Gründer des alten Königreichs Goguryeo, gilt.",
       hu: "Phenjan melletti mauzóleum, amelyet Tongmjongnak, az ókori Kogurjo királyság alapítójának sírhelyeként tartanak számon.",
@@ -2539,7 +2531,6 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       ro: ["Înălțimea de 330 de metri îl face cea mai înaltă structură din Coreea de Nord.", "Construcția a durat oficial din 1987 până la finalizarea fațadei în 2011.", "Clădirea are 105 etaje și o formă distinctivă de prismă triunghiulară.", "Numele 'Ryugyong' provine de la un vechi nume al Phenianului, însemnând 'capitala sălciilor'.", "Peste 100.000 de LED-uri au fost instalate pe fațadă pentru proiecții nocturne.", "A fost prima clădire din afara SUA și Europei care a depășit 100 de etaje în plan."],
       en: ["At 330 meters, it is the tallest building in North Korea.", "Construction began in 1987 and the exterior was finalized only in 2011.", "The hotel features 105 floors and a total floor area of 360,000 square meters.", "It was originally intended to house 3,000 rooms and revolving restaurants.", "The facade display consists of over 100,000 LEDs added in 2018.", "The structural design consists of three wings, each measuring 100 meters in length."],
     }, },
-    image: "/poi-images/ryugyong-hotel-landmarks-v2.webp",
     description: {
       de: "Ein unvollendeter 105-stöckiger Wolkenkratzer in Pjöngjang. Der Bau begann 1987, wurde aber eingestellt. Er ist das höchste unbewohnte Gebäude der Welt.",
       hu: "Egy befejezetlen 105 emeletes felhőkarcoló Phenjanban. Az építkezés 1987-ben kezdődött, de leállt. Ez a világ legmagasabb lakatlan épülete.",
@@ -2704,7 +2695,6 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/may-day-stadium-landmarks-v2.webp",
     description: {
       de: "Das größte Stadion der Welt mit einer offiziellen Kapazität von 114.000 Zuschauern. Es wird für Massengymnastik und Staatsfeierlichkeiten genutzt.",
       hu: "A világ legnagyobb stadionja, hivatalos befogadóképessége 114 000 fő. Tömegtornákra és állami ünnepségekre használják.",
@@ -2941,7 +2931,6 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/arch-of-reunification-landmarks-v2.webp",
     description: {
       de: "Ein Denkmal am südlichen Eingang von Pjöngjang, das die Vorschläge von Kim Il-sung für die koreanische Wiedervereinigung symbolisiert. 2024 abgerissen.",
       hu: "Egy emlékmű Phenjan déli bejáratánál, amely Kim Ir Szen koreai újraegyesítésre vonatkozó javaslatait szimbolizálja. 2024-ben lebontották.",
@@ -3211,7 +3200,6 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       ro: ["Muzeul a fost stabilit inițial în 1953 și reconstruit în totalitate în 2013.", "Complexul muzeal acoperă o suprafață construită de peste 90.000 m².", "Panorama Bătăliei de la Taejon are o lungime de 132 de metri.", "Include o secțiune dedicată rezistenței anti-japoneze din anii 1930.", "Sunt expuse sute de avioane, tancuri și tunuri capturate sau distruse.", "Scările principale din interior sunt realizate din marmură albă importată."],
       en: ["The museum was founded in 1953 and underwent a massive rebuild in 2013.", "The total floor area of the new building is approximately 93,000 square meters.", "The rotating panorama mural is 15 meters high and 132 meters in circumference.", "It houses the captured USS Pueblo as its most famous outdoor exhibit.", "The museum contains over 80 exhibition halls detailing various war phases.", "The entrance features the 'Victory' sculpture group, reaching 27 meters in height."],
     }, },
-    image: "/poi-images/victorious-war-museum-landmarks-v2.webp",
     description: {
       de: "Ein Museum in Pjöngjang, das dem Koreakrieg gewidmet ist. Es zeigt die nordkoreanische Perspektive des Konflikts.",
       hu: "A koreai háborúnak szentelt múzeum Phenjanban. A konfliktus észak-koreai nézőpontját mutatja be.",
@@ -3592,7 +3580,6 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/international-friendship-exhibition-landmarks-v2.webp",
     description: {
       de: "Ein großer Museumskomplex im Myohyang-Gebirge. Er zeigt Geschenke, die ausländischen Würdenträgern an Kim Il-sung und Kim Jong-il überreicht wurden.",
       hu: "Egy nagy múzeumkomplexum a Mjohjang-hegységben. Külföldi méltóságok által Kim Ir Szennek és Kim Dzsongilnek átadott ajándékokat mutat be.",
@@ -3640,7 +3627,6 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/paektu-mountain-landmarks-v2.webp",
     description: {
       de: "Ein aktiver Vulkan an der Grenze zwischen Nordkorea und China. Er ist der höchste Berg der koreanischen Halbinsel und gilt als heiliger Ort der Revolution.",
       hu: "Aktív vulkán az észak-koreai-kínai határon. A Koreai-félsziget legmagasabb hegye, és a forradalom szent helyének számít.",
@@ -3805,7 +3791,6 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/dmz-panmunjom-landmarks-v2.webp",
     description: {
       de: "Die demilitarisierte Zone, eine Pufferzone, die Nord- und Südkorea trennt. Panmunjom ist die 'Waffenstillstandszone', in der Verhandlungen stattfinden.",
       hu: "A demilitarizált övezet, egy pufferzóna, amely elválasztja Észak- és Dél-Koreát. Panmindzson a 'fegyverszüneti falu', ahol a tárgyalások zajlanak.",
@@ -3898,7 +3883,6 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/kaesong-historic-city-landmarks-v2.webp",
     description: {
       de: "Die ehemalige Hauptstadt des Koryo-Reiches. Die Stadt verfügt über historische Stätten, die zum UNESCO-Weltkulturerbe gehören.",
       hu: "A Korjo-dinasztia egykori fővárosa. A város UNESCO világörökségi helyszínekkel rendelkezik.",
@@ -3991,7 +3975,6 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/masikryong-ski-resort-landmarks-v2.webp",
     description: {
       de: "Ein Skigebiet an der Ostküste Nordkoreas, das 2013 eröffnet wurde. Es war ein Prestigeprojekt von Kim Jong-un.",
       hu: "Síparadicsom Észak-Korea keleti partján, amelyet 2013-ban nyitottak meg. Kim Dzsongun presztízsberuházása volt.",
@@ -4261,7 +4244,6 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       ro: ["Stațiunea se întinde pe o plajă cu nisip lungă de peste 4 km.", "Aeroportul internațional Kalma a fost renovat special pentru turiști.", "Planul include construirea a peste 50 de hoteluri și vile.", "Construcția principală a demarat intens în cursul anului 2018.", "Wonsan este centrul administrativ al provinciei Kangwon.", "Zona este proiectată să găzduiască mii de turiști simultan."],
       en: ["The resort stretches along a 4-kilometer long white sand beach.", "Kalma International Airport features a 3,500-meter runway.", "The project involves over 100 buildings including dozens of hotels.", "Official construction on the coastal zone began in early 2018.", "Wonsan serves as the primary port on the East Sea (Sea of Japan).", "Recreational facilities include water parks and outdoor theaters."],
     }, },
-    image: "/poi-images/wonsan-kalma-coastal-tourist-area-landmarks-v2.webp",
     description: {
       de: "Ein großes Tourismusentwicklungsprojekt in Wonsan. Es soll Hotels, Strände und Unterhaltungseinrichtungen umfassen.",
       hu: "Egy nagyszabású turisztikai fejlesztési projekt Vonszanban. Szállodákat, strandokat és szórakoztató létesítményeket foglal magában.",

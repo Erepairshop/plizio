@@ -44,7 +44,6 @@ export const poiExtraPanamaEconomicV2: POI[] = [
     parent: "PA-8",
     coords: [-79.566, 8.953],
     name: { de: "Hafen Balboa", hu: "Balboa kikötő", ro: "Portul Balboa", en: "Port of Balboa"},
-    image: "/poi-images/puerto-balboa-economic-v2.webp",
     description: { de: "Der bedeutendste Hafen am pazifischen Eingang des Panamakanals.", hu: "A legjelentősebb kikötő a Panama-csatorna csendes-óceáni bejáratánál.", ro: "Cel mai important port de la intrarea în Pacific a Canalului Panama.", en: "The most significant port at the Pacific entrance to the Panama Canal." , es: "El puerto más importante en la entrada pacífica del Canal de Panamá.", pt: "O porto mais importante na entrada do Pacífico do Canal do Panamá.", fr: "Le port le plus important à l'entrée pacifique du canal du Panama."},
     facts: {
       de: ["Strategischer Knotenpunkt für den Pazifikhandel.", "Umschlagplatz für globale Schifffahrtslinien.", "Großflächige Container-Terminals.", "Zentrum für Logistik und Warenverteilung."],
@@ -81,7 +80,6 @@ export const poiExtraPanamaEconomicV2: POI[] = [
     parent: "PA-3",
     coords: [-80.603, 8.857],
     name: { de: "Cobre Panamá Mine", hu: "Cobre Panamá bánya", ro: "Mina Cobre Panamá", en: "Cobre Panama Mine"},
-    image: "/poi-images/mina-cobre-economic-v2.webp",
     description: { de: "Eine der größten Kupferminen der Welt.", hu: "A világ egyik legnagyobb rézbányája.", ro: "Una dintre cele mai mari mine de cupru din lume.", en: "One of the largest copper mines in the world." , es: "Una de las minas de cobre más grandes del mundo.", pt: "Uma das maiores minas de cobre do mundo.", fr: "L'une des plus grandes mines de cuivre au monde."},
     facts: {
       de: ["Wichtigster Kupferproduzent Panamas.", "Großer Arbeitgeber in der Region.", "Exportiert Konzentrat weltweit.", "Umfasst Tagebau und Verarbeitung."],
@@ -154,7 +152,6 @@ export const poiExtraPanamaEconomicV2: POI[] = [
     parent: "PA-3",
     coords: [-79.911, 9.349],
     name: { de: "Hafen Cristóbal", hu: "Cristóbal kikötő", ro: "Portul Cristóbal", en: "Port of Cristobal"},
-    image: "/poi-images/puerto-cristobal-economic-v2.webp",
     description: { de: "Wichtiger Hafen an der atlantischen Seite des Kanals.", hu: "Fontos kikötő a csatorna atlanti oldalán.", ro: "Port important pe partea atlantică a canalului.", en: "Significant port on the Atlantic side of the canal." , es: "Puerto importante en el lado atlántico del Canal.", pt: "Porto importante no lado atlântico do Canal.", fr: "Port important sur le côté atlantique du canal."},
     facts: {
       de: ["Bedient Transithäfen.", "Einst ein US-Betrieb.", "Logistisches Drehkreuz.", "Eng verbunden mit der Freihandelszone."],
@@ -191,7 +188,6 @@ export const poiExtraPanamaEconomicV2: POI[] = [
     parent: "PA-8",
     coords: [-79.575, 8.945],
     name: { de: "PSA Panama International Terminal", hu: "PSA Panama Nemzetközi Terminál", ro: "PSA Panama International Terminal", en: "PSA Panama International Terminal"},
-    image: "/poi-images/terminal-pacifico-economic-v2.webp",
     description: { de: "Ein moderner Container-Terminal am Pazifikeingang.", hu: "Modern konténerterminál a csendes-óceáni bejáratnál.", ro: "Un terminal modern de containere la intrarea în Pacific.", en: "A modern container terminal at the Pacific entrance." , es: "Una moderna terminal de contenedores en la entrada del Pacífico.", pt: "Um moderno terminal de contentores na entrada do Pacífico.", fr: "Un terminal à conteneurs moderne à l'entrée du Pacifique."},
     facts: {
       de: ["Strategische Lage am Pazifik.", "Teil des PSA-Netzwerks.", "Hohe Umschlagskapazität.", "Modernste Hafentechnologie."],
@@ -228,7 +224,6 @@ export const poiExtraPanamaEconomicV2: POI[] = [
     parent: "PA-9",
     coords: [-79.7, 8.0],
     name: { de: "Fischereiindustrie Veraguas", hu: "Veraguas halászati ipar", ro: "Industria pescărească Veraguas", en: "Veraguas Fishing Industry"},
-    image: "/poi-images/industria-pesquera-economic-v2.webp",
     description: { de: "Zentrum der kommerziellen Fischerei an der Pazifikküste.", hu: "A csendes-óceáni parti kereskedelmi halászat központja.", ro: "Centru al pescuitului comercial pe coasta Pacificului.", en: "Center for commercial fishing on the Pacific coast." , es: "Centro de la pesca comercial en la costa del Pacífico.", pt: "Centro da pesca comercial na costa do Pacífico.", fr: "Centre de la pêche commerciale sur la côte Pacifique."},
     facts: {
       de: ["Wichtiger Exportzweig.", "Verarbeitung von Fischprodukten.", "Große Fischereiflotte.", "Arbeitgeber für lokale Gemeinschaften."],
@@ -301,7 +296,6 @@ export const poiExtraPanamaEconomicV2: POI[] = [
     parent: "PA-4",
     coords: [-82.5, 8.7],
     name: { de: "Agrarindustrie Chiriquí", hu: "Chiriquí agrár-ipari zóna", ro: "Zona agroindustrială Chiriquí", en: "Chiriqui Agro-Industrial Zone"},
-    image: "/poi-images/zona-agroindustrial-economic-v2.webp",
     description: { de: "Zentrum für die Verarbeitung von Agrarprodukten.", hu: "Mezőgazdasági termékek feldolgozási központja.", ro: "Centru pentru procesarea produselor agricole.", en: "Center for processing agricultural products." , es: "Centro de procesamiento de productos agrícolas.", pt: "Centro de processamento de produtos agrícolas.", fr: "Centre de transformation des produits agricoles."},
     facts: {
       de: ["Verarbeitung von Kaffee und Gemüse.", "Exportorientierte Industrie.", "Wichtiger Sektor in Chiriquí.", "Förderung regionaler Produkte."],
@@ -338,7 +332,6 @@ export const poiExtraPanamaEconomicV2: POI[] = [
     parent: "PA-3",
     coords: [-79.95, 9.4],
     name: { de: "Ölterminal Chiriqui Grande", hu: "Chiriqui Grande olajterminál", ro: "Terminal petrolier Chiriqui Grande", en: "Chiriqui Grande Oil Terminal"},
-    image: "/poi-images/terminal-petrolero-economic-v2.webp",
     description: { de: "Wichtiger Umschlagplatz für Rohöl am Atlantik.", hu: "Fontos nyersolaj-átrakodóhely az Atlanti-óceánon.", ro: "Centru important de tranzit pentru țiței la Atlantic.", en: "Major terminal for crude oil on the Atlantic side." , es: "Importante punto de transbordo de crudo en el Atlántico.", pt: "Importante ponto de transbordo de petróleo bruto no Atlântico.", fr: "Important point de transbordement de pétrole brut sur l'Atlantique."},
     facts: {
       de: ["Strategischer Öl-Export.", "Moderne Tanker-Anlagen.", "Große Lagerkapazitäten.", "Verbindung zur Pipeline."],
@@ -411,7 +404,6 @@ export const poiExtraPanamaEconomicV2: POI[] = [
     parent: "PA-2",
     coords: [-80.55, 8.25],
     name: { de: "Zuckerrohrindustrie Aguadulce", hu: "Aguadulce cukornádipar", ro: "Industria zahărului din Aguadulce", en: "Aguadulce Sugar Industry"},
-    image: "/poi-images/industria-azucarera-economic-v2.webp",
     description: { de: "Zentrum der panamaischen Zuckerproduktion.", hu: "A panamai cukorgyártás központja.", ro: "Centrul producției de zahăr din Panama.", en: "Center of Panamanian sugar production." , es: "Centro de la producción de azúcar panameña.", pt: "Centro da produção de açúcar panamenha.", fr: "Centre de la production sucrière panaméenne."},
     facts: {
       de: ["Große Plantagengebiete.", "Wichtiger Arbeitgeber.", "Export von Zuckerprodukten.", "Moderne Zuckerfabrikation."],
@@ -448,7 +440,6 @@ export const poiExtraPanamaEconomicV2: POI[] = [
     parent: "PA-8",
     coords: [-79.4, 8.9],
     name: { de: "Erdgasterminal Panama", hu: "Panama földgázterminál", ro: "Terminal Gaze Naturale Panama", en: "Panama Natural Gas Terminal"},
-    image: "/poi-images/terminal-gas-natural-economic-v2.webp",
     description: { de: "Versorgungsanlage für Flüssigerdgas.", hu: "Cseppfolyósított földgáz-ellátó létesítmény.", ro: "Instalație de alimentare cu gaz natural lichefiat.", en: "Facility for liquefied natural gas supply." , es: "Instalación de suministro de gas natural licuado.", pt: "Instalação de abastecimento de gás natural liquefeito.", fr: "Installation d'approvisionnement en gaz naturel liquéfié."},
     facts: {
       de: ["Wichtige Energieversorgung.", "Moderne LNG-Lagerung.", "Unterstützt den Energiemix.", "Effiziente Verteilung."],
@@ -521,7 +512,6 @@ export const poiExtraPanamaEconomicV2: POI[] = [
     parent: "PA-8",
     coords: [-79.4, 9.05],
     name: { de: "Logistikzentrum Tocumen", hu: "Tocumen Logisztikai Központ", ro: "Centru Logistic Tocumen", en: "Tocumen Logistics Center"},
-    image: "/poi-images/zona-logistica-tocumen-economic-v2.webp",
     description: { de: "Wichtiges Drehkreuz am Flughafen Tocumen.", hu: "Fontos csomópont a Tocumen repülőtéren.", ro: "Nod logistic important pe aeroportul Tocumen.", en: "Major hub at Tocumen Airport." , es: "Importante centro logístico en el Aeropuerto Internacional de Tocumen.", pt: "Importante centro logístico no Aeroporto Internacional de Tocumen.", fr: "Plaque tournante logistique majeure à l'aéroport international de Tocumen."},
     facts: {
       de: ["Luftfracht-Drehkreuz.", "Schnelle Warenverteilung.", "Logistische Unterstützung.", "Effiziente Lagerlogistik."],
@@ -558,7 +548,6 @@ export const poiExtraPanamaEconomicV2: POI[] = [
     parent: "PA-8",
     coords: [-79.65, 8.85],
     name: { de: "Hafen Vacamonte", hu: "Vacamonte kikötő", ro: "Portul Vacamonte", en: "Port of Vacamonte"},
-    image: "/poi-images/puerto-vacamonte-economic-v2.webp",
     description: { de: "Wichtiger Hafen für die Fischereiindustrie.", hu: "Fontos kikötő a halászati ipar számára.", ro: "Port important pentru industria pescuitului.", en: "Important port for the fishing industry." , es: "Puerto importante para la industria pesquera.", pt: "Porto importante para a indústria pesqueira.", fr: "Port important pour l'industrie de la pêche."},
     facts: {
       de: ["Zentrum für Fischverarbeitung.", "Moderne Hafenanlagen.", "Umschlag von Fischprodukten.", "Arbeitsplatzschwerpunkt."],
@@ -667,7 +656,6 @@ export const poiExtraPanamaEconomicV2: POI[] = [
     parent: "PA-8",
     coords: [-79.9, 9.35],
     name: { de: "Eisenbahnterminal Colón", hu: "Colón Vasúti Terminál", ro: "Terminal Feroviar Colón", en: "Colon Rail Terminal"},
-    image: "/poi-images/terminal-ferroviaria-economic-v2.webp",
     description: { de: "Drehkreuz für den Schienentransport.", hu: "A vasúti szállítás csomópontja.", ro: "Nod pentru transportul feroviar.", en: "Hub for rail transport." , es: "Centro de transporte ferroviario.", pt: "Centro de transporte ferroviário.", fr: "Plaque tournante du transport ferroviaire."},
     facts: {
       de: ["Wichtiger Güterverkehr.", "Verbindung zwischen den Ozeanen.", "Effiziente Logistik.", "Ergänzt den Schiffsverkehr."],
@@ -704,7 +692,6 @@ export const poiExtraPanamaEconomicV2: POI[] = [
     parent: "PA-8",
     coords: [-79.6, 8.95],
     name: { de: "Panama Pacifico Logistics", hu: "Panama Pacifico Logisztika", ro: "Centru Logistic Panama Pacifico", en: "Panama Pacifico Logistics"},
-    image: "/poi-images/centro-logistico-panama-pacific-economic-v2.webp",
     description: { de: "Moderne Logistik- und Industriezone.", hu: "Modern logisztikai és ipari övezet.", ro: "Zonă logistică și industrială modernă.", en: "Modern logistics and industrial zone." , es: "Moderna zona logística e industrial.", pt: "Moderna zona logística e industrial.", fr: "Zone logistique et industrielle moderne."},
     facts: {
       de: ["Internationales Geschäftszentrum.", "Moderne Infrastruktur.", "Fokus auf Logistik.", "Attraktiv für globale Investoren."],
@@ -741,7 +728,6 @@ export const poiExtraPanamaEconomicV2: POI[] = [
     parent: "PA-4",
     coords: [-82.4, 8.4],
     name: { de: "Hafen Pedregal", hu: "Pedregal kikötő", ro: "Portul Pedregal", en: "Port of Pedregal"},
-    image: "/poi-images/puerto-pedregal-economic-v2.webp",
     description: { de: "Regionaler Hafen bei David.", hu: "Regionális kikötő David mellett.", ro: "Port regional lângă David.", en: "Regional port near David." , es: "Puerto regional cerca de David.", pt: "Porto regional perto de David.", fr: "Port régional près de David."},
     facts: {
       de: ["Wichtig für lokalen Handel.", "Unterstützt den Agrarsektor.", "Regionale Fracht.", "Küstennaher Betrieb."],
@@ -778,7 +764,6 @@ export const poiExtraPanamaEconomicV2: POI[] = [
     parent: "PA-8",
     coords: [-79.8, 9.1],
     name: { de: "Goldminenstandort Panama", hu: "Panama aranybánya helyszín", ro: "Locația minei de aur Panama", en: "Panama Gold Mining Site"},
-    image: "/poi-images/mina-oro-economic-v2.webp",
     description: { de: "Bergbau für Edelmetalle.", hu: "Bányászat nemesfémek számára.", ro: "Minerit pentru metale prețioase.", en: "Mining operation for precious metals." , es: "Minería para la obtención de metales preciosos.", pt: "Mineração para a obtenção de metais preciosos.", fr: "Exploitation minière pour les métaux précieux."},
     facts: {
       de: ["Edelmetallproduktion.", "Wichtiger Export.", "Industrieller Abbau.", "Wirtschaftlicher Beitrag."],
@@ -815,7 +800,6 @@ export const poiExtraPanamaEconomicV2: POI[] = [
     parent: "PA-8",
     coords: [-79.5, 9.0],
     name: { de: "Getränkeindustrie Panama", hu: "Panamai italipar", ro: "Industria băuturilor Panama", en: "Panama Beverage Industry"},
-    image: "/poi-images/industria-bebidas-economic-v2.webp",
     description: { de: "Produktionsstätte für Getränke.", hu: "Italgyártó létesítmény.", ro: "Facilitate de producție a băuturilor.", en: "Beverage manufacturing facility." , es: "Planta de producción de bebidas.", pt: "Local de produção de bebidas.", fr: "Site de production de boissons."},
     facts: {
       de: ["Versorgung des Binnenmarktes.", "Exportiert regional.", "Moderne Abfüllanlagen.", "Starker Sektor."],
@@ -924,7 +908,6 @@ export const poiExtraPanamaEconomicV2: POI[] = [
     parent: "PA-8",
     coords: [-79.55, 8.9],
     name: { de: "Schüttgutterminal Panama", hu: "Panama ömlesztettáru-terminál", ro: "Terminal de mărfuri în vrac Panama", en: "Panama Bulk Cargo Terminal"},
-    image: "/poi-images/terminal-granel-economic-v2.webp",
     description: { de: "Anlage zum Umschlag von losen Gütern.", hu: "Létesítmény ömlesztett áruk átrakodására.", ro: "Instalație pentru transbordarea mărfurilor în vrac.", en: "Facility for handling loose goods." , es: "Instalación para el manejo de mercancías a granel.", pt: "Instalação para a movimentação de mercadorias a granel.", fr: "Installation pour le transbordement de marchandises en vrac."},
     facts: {
       de: ["Umschlag von Getreide und Erzen.", "Effiziente Hafenlogistik.", "Wichtiger Import-Knoten.", "Moderne Fördertechnik."],
@@ -961,7 +944,6 @@ export const poiExtraPanamaEconomicV2: POI[] = [
     parent: "PA-4",
     coords: [-82.45, 8.45],
     name: { de: "Handelszentrum David", hu: "David kereskedelmi központ", ro: "Centru Comercial David", en: "David Commercial Center"},
-    image: "/poi-images/zona-comercial-david-economic-v2.webp",
     description: { de: "Hauptumschlagplatz für Waren im Westen.", hu: "Az áruk fő átrakodóhelye a nyugati régióban.", ro: "Principalul centru de schimb de mărfuri din vest.", en: "Main goods exchange hub in the west." , es: "Principal centro de transbordo de mercancías en el oeste.", pt: "Principal centro de transbordo de mercadorias no oeste.", fr: "Principal centre de transbordement de marchandises dans l'ouest."},
     facts: {
       de: ["Regionale Versorgung.", "Wichtiger Handelsplatz.", "Unterstützt lokale Wirtschaft.", "Vielfältige Geschäfte."],

@@ -229,14 +229,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
             }
       ]
 },
-    parent: "BJ",
-    description: "The primary multi-purpose sports stadium in Cotonou, used for major national and international events. It is a central hub for sports in Benin.",
-    facts: [
-      "Located in Cotonou",
-      "Major sports venue",
-      "Multi-purpose stadium",
-      "National events hub"
-],
     type: "landmark",
     parent: "BJ-LI",
     coords: [2.378, 6.386],
@@ -245,7 +237,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Barátság Stadion",
       ro: "Stadionul Prieteniei",
       en: "Friendship Stadium"},
-    image: "/poi-images/stade-amitie-cotonou-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Stade de l'Amitié Général Mathieu Kérékou ist die bedeutendste Sportstätte in Cotonou und dient als Heimspielstätte der beninischen Fußballnationalmannschaft. Eröffnet wurde das Stadion im Jahr 1982 als Ergebnis der engen bilateralen Zusammenarbeit zwischen der Volksrepublik China und Benin. Mit einer Kapazität von etwa 35.000 Zuschauern ist es der zentrale Ort für große Sportereignisse, kulturelle Festivals und politische Großveranstaltungen im Land. Im Jahr 2015 wurde es zu Ehren des verstorbenen Präsidenten Mathieu Kérékou offiziell umbenannt. Die Anlage umfasst neben dem Hauptfeld auch Leichtathletikbahnen und Trainingsplätze, was sie zum Herzstück des nationalen Sports macht. Geografisch liegt das Stadion im Stadtviertel Kouhounou und ist ein markanter Orientierungspunkt in der städtischen Landschaft von Cotonou.",
       hu: "A Stade de l'Amitié Général Mathieu Kérékou Cotonou legfontosabb sportlétesítménye és a benini labdarúgó-válogatott otthona. A stadion 1982-ben készült el a Kínai Népköztársaság és Benin közötti szoros együttműködés eredményeként. Körülbelül 35 000 néző befogadására alkalmas, így központi helyszíne a jelentős sporteseményeknek, kulturális fesztiváloknak és nagyszabású politikai gyűléseknek az országban. 2015-ben hivatalosan átnevezték a néhai Mathieu Kérékou elnök tiszteletére, aki meghatározó alakja volt Benin történelmének. A komplexum a futballpálya mellett atlétikai pályákat és edzőpályákat is magában foglal, ezzel a nemzeti sportélet szívévé vált. Földrajzilag a stadion a Kouhounou negyedben található, és Cotonou városképének egyik legismertebb tájékozódási pontja.",
@@ -330,14 +321,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
             }
       ]
 },
-    parent: "BJ",
-    description: "A prominent public square in Cotonou featuring a massive socialist-style monument. It serves as a major intersection and landmark in the city.",
-    facts: [
-      "Cotonou city landmark",
-      "Socialist-style monument",
-      "Major traffic junction",
-      "Public urban space"
-],
     type: "landmark",
     parent: "BJ-LI",
     coords: [2.417, 6.375],
@@ -346,7 +329,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Vörös Csillag tér",
       ro: "Piața Steaua Roșie",
       en: "Red Star Place"},
-    image: "/poi-images/place-etoile-rouge-cotonou-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Der Place de l'Etoile Rouge ist einer der ikonischsten Plätze in Cotonou und erinnert an die marxistisch-leninistische Ära von Benin. Er wurde am 30. November 1974 eingeweiht und beherbergt in seiner Mitte einen monumentalen Turm, der von einem großen roten Stern gekrönt wird, welcher die damalige Staatsideologie symbolisierte. Der Platz ist nicht nur ein politisches Symbol, sondern auch ein zentraler Verkehrsknotenpunkt, an dem mehrere Hauptverkehrsadern der Stadt aufeinandertreffen. Die Basis des Bauwerks ist mit Statuen geschmückt, die den revolutionären Geist und die Einheit des Volkes darstellen sollen. Trotz des politischen Wandels im Land hat der Platz seine architektonische Integrität bewahrt und bleibt ein wichtiger Treffpunkt für die Bewohner der Stadt. Die nächtliche Beleuchtung macht das Denkmal zu einem markanten Element der städtischen Nachtlandschaft.",
       hu: "A Place de l'Etoile Rouge Cotonou egyik legikonikusabb és történelmileg legjelentősebb tere, amely Benin marxista-leninista korszakának állít emléket. Az 1974. november 30-án felavatott tér közepén egy hatalmas oszlop áll, amelynek tetején egy vörös csillag található, szimbolizálva az akkori politikai ideológiát. A tér nem csupán politikai szimbólum, hanem Cotonou egyik legforgalmasabb közlekedési csomópontja is, ahol több főútvonal találkozik. Az építmény talapzatán elhelyezett szobrok a forradalmi eszméket és a nép egységét hivatottak kifejezni. Bár az ország politikai rendszere azóta megváltozott, a tér megőrizte építészeti integritását és fontos találkozóhely maradt a város lakói számára. A monumentális építmény éjszakai kivilágítása látványos elemévé teszi a városi környezetnek.",
@@ -439,7 +421,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Cotonou-i régi híd",
       ro: "Podul Vechi din Cotonou",
       en: "Old Bridge of Cotonou"},
-    image: "/poi-images/ancien-pont-cotonou-landmarks-v2.webp",
     description: {
       de: "Die erste Brücke, die die beiden Hälften von Cotonou über die Lagune verband und ein wichtiges Symbol der Stadtentwicklung ist.",
       hu: "Az első híd, amely összekötötte Cotonou két felét a lagúnán keresztül, és a városfejlesztés fontos szimbóluma.",
@@ -559,14 +540,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
             }
       ]
 },
-    parent: "BJ",
-    description: "The lighthouse of Cotonou, which has guided ships along the coast for decades. It remains an iconic maritime landmark for the port city.",
-    facts: [
-      "Cotonou coastal landmark",
-      "Maritime navigation aid",
-      "Historic lighthouse structure",
-      "Port city symbol"
-],
     type: "landmark",
     parent: "BJ-LI",
     coords: [2.427, 6.353],
@@ -575,7 +548,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Cotonou-i világítótorony",
       ro: "Farul din Cotonou",
       en: "Cotonou Lighthouse"},
-    image: "/poi-images/phare-cotonou-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Der Phare de Cotonou ist ein historischer Leuchtturm, der seit über einem Jahrhundert Schiffen den Weg zum wichtigsten Hafen von Benin weist. Das ursprüngliche Bauwerk wurde 1910 fertiggestellt und 1928 neu errichtet, um den Anforderungen der modernen Seeschifffahrt gerecht zu werden. Der Turm ist durch seine markante rot-weiß gestreifte Bemalung an der Küstenlinie weithin erkennbar. Mit einer Höhe von etwa 30 Metern ragt er aus den umliegenden Gebäuden heraus und sein Licht ist aus großer Entfernung auf dem Atlantik sichtbar. Obwohl seine Bedeutung im Zeitalter der modernen GPS-Technologie etwas abgenommen hat, bleibt der Turm ein wichtiges Symbol für das maritime Erbe der Stadt. In unmittelbarer Nähe des Leuchtturms befindet sich der Port Autonome de Cotonou, was Besuchern Einblicke in das geschäftige Hafenleben ermöglicht.",
       hu: "A Phare de Cotonou egy történelmi világítótorony, amely több mint egy évszázada irányítja a hajókat Benin legfontosabb kikötőjéhez. Az eredeti építmény 1910-ben készült el, majd 1928-ban újjáépítették, hogy megfeleljen a modern tengeri navigáció követelményeinek. A torony jellegzetes vörös és fehér vízszintes sávos festése messziről felismerhetővé teszi a partvonalon. Körülbelül 30 méteres magasságával kiemelkedik a környező épületek közül, és fénye nagy távolságból is látható az Atlanti-óceánon. Bár a modern GPS-technológia korában funkciója némileg háttérbe szorult, a torony továbbra is fontos szimbóluma a város tengeri örökségének. A világítótorony közvetlen közelében található a Port Autonome de Cotonou, így a látogatók bepillantást nyerhetnek a forgalmas kikötői életbe is.",
@@ -668,7 +640,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Mártírok tere",
       ro: "Piața Martirilor",
       en: "Martyrs' Square"},
-    image: "/poi-images/place-martyrs-cotonou-landmarks-v2.webp",
     description: {
       de: "Ein Denkmal und Platz in Cotonou, der den Opfern des Söldnerangriffs auf Benin im Jahr 1977 gewidmet ist.",
       hu: "Emlékmű és tér Cotonouban, amelyet az 1977-es Benin elleni zsoldostámadás áldozatainak szenteltek.",
@@ -715,7 +686,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Cotonou-i autonóm kikötő",
       ro: "Portul Autonom Cotonou",
       en: "Autonomous Port of Cotonou"},
-    image: "/poi-images/port-autonome-cotonou-landmarks-v2.webp",
     description: {
       de: "Die wirtschaftliche Lunge Benins und einer der wichtigsten Tiefwasserhäfen in Westafrika für den Transitverkehr.",
       hu: "Benin gazdasági motorja és Nyugat-Afrika egyik legfontosabb mélyvízi kikötője a tranzitforgalom számára.",
@@ -843,7 +813,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Irgalmasság Anyja katedrális",
       ro: "Catedrala Maicii Domnului a Milostivirii",
       en: "Cathedral of Our Lady of Mercy"},
-    image: "/poi-images/cathedrale-misericorde-cotonou-landmarks-v2.webp",
     description: {
       de: "Die markante rot-weiß gestreifte Kathedrale von Cotonou ist ein architektonisches Juwel und das Zentrum des katholischen Glaubens in der Stadt.",
       hu: "Cotonou jellegzetes piros-fehér csíkos katedrálisa építészeti gyöngyszem és a katolikus hitélet központja a városban.",
@@ -890,7 +859,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Elnöki Palota",
       ro: "Palatul Prezidențial",
       en: "Presidential Palace"},
-    image: "/poi-images/palais-marina-cotonou-landmarks-v2.webp",
     description: {
       de: "Offizieller Amtssitz und Residenz des Präsidenten der Republik Benin, bekannt als Palais de la Marina.",
       hu: "A Benini Köztársaság elnökének hivatalos hivatala és rezidenciája, amely Palais de la Marina néven ismert.",
@@ -1054,7 +1022,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Cotonou-i Kongresszusi Palota",
       ro: "Palatul Congreselor din Cotonou",
       en: "Congress Palace of Cotonou"},
-    image: "/poi-images/palais-congres-cotonou-landmarks-v2.webp",
     description: {
       de: "Ein großes Veranstaltungszentrum für internationale Konferenzen, kulturelle Events und politische Versammlungen in Benin.",
       hu: "Nemzetközi konferenciák, kulturális események és politikai gyűlések nagy helyszíne Beninben.",
@@ -1218,7 +1185,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Dantokpa piac",
       ro: "Piața Dantokpa",
       en: "Dantokpa Market"},
-    image: "/poi-images/marche-dantokpa-cotonou-landmarks-v2.webp",
     description: {
       de: "Einer der größten Freiluftmärkte Westafrikas, ein pulsierendes Labyrinth aus Waren, Farben und Gerüchen direkt an der Lagune.",
       hu: "Nyugat-Afrika egyik legnagyobb szabadtéri piaca, áruk, színek és illatok lüktető útvesztője közvetlenül a lagúna partján.",
@@ -1265,7 +1231,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Benini Nemzeti Gyűlés",
       ro: "Adunarea Națională a Beninului",
       en: "National Assembly of Benin"},
-    image: "/poi-images/assemblee-nationale-porto-novo-landmarks-v2.webp",
     description: {
       de: "Der Sitz des beninischen Parlaments in Porto-Novo, ein wichtiges Symbol der Demokratie und Gesetzgebung im Land.",
       hu: "A benini parlament székhelye Porto-Novóban, a demokrácia és a törvényhozás fontos szimbóluma az országban.",
@@ -1429,7 +1394,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Charles de Gaulle híd",
       ro: "Podul Charles de Gaulle",
       en: "Charles de Gaulle Bridge"},
-    image: "/poi-images/pont-charles-de-gaulle-porto-novo-landmarks-v2.webp",
     description: {
       de: "Eine zentrale Brücke in Porto-Novo, die die Lagune überquert und den Verkehr zwischen der Hauptstadt und Cotonou erleichtert.",
       hu: "Központi híd Porto-Novóban, amely átível a lagúnán, megkönnyítve a közlekedést a főváros és Cotonou között.",
@@ -1476,7 +1440,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Kormányzói palota",
       ro: "Palatul Guvernatorului",
       en: "Governor's Palace"},
-    image: "/poi-images/palais-gouverneur-porto-novo-landmarks-v2.webp",
     description: {
       de: "Ein prachtvolles Kolonialgebäude in Porto-Novo, das einst als Sitz der französischen Verwaltung diente.",
       hu: "Pompás gyarmati épület Porto-Novóban, amely egykor a francia közigazgatás székhelyeként szolgált.",
@@ -1568,7 +1531,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Cotonou-i városháza",
       ro: "Primăria din Cotonou",
       en: "Cotonou City Hall"},
-    image: "/poi-images/hotel-ville-cotonou-landmarks-v2.webp",
     description: {
       de: "Der Sitz der Stadtverwaltung von Cotonou, ein zentrales Gebäude für die lokale Politik und Administration.",
       hu: "Cotonou városvezetésének székhelye, a helyi politika és közigazgatás központi épülete.",
@@ -1696,7 +1658,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Abomey-Calavi Egyetem",
       ro: "Universitatea din Abomey-Calavi",
       en: "University of Abomey-Calavi"},
-    image: "/poi-images/universite-abomey-calavi-landmarks-v2.webp",
     description: {
       de: "Der Hauptcampus der größten Universität Benins, ein bedeutendes Zentrum für Bildung und Forschung in Westafrika.",
       hu: "Benin legnagyobb egyetemének fő campusa, az oktatás és kutatás jelentős központja Nyugat-Afrikában.",
@@ -1788,7 +1749,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Az 50. évforduló hídja",
       ro: "Podul Cinquantenaire",
       en: "Fiftieth Anniversary Bridge"},
-    image: "/poi-images/pont-cinquantenaire-cotonou-landmarks-v2.webp",
     description: {
       de: "Eine moderne Brücke in Cotonou, die zum 50. Jahrestag der Unabhängigkeit eingeweiht wurde und den Verkehrsfluss verbessert.",
       hu: "Modern híd Cotonouban, amelyet a függetlenség 50. évfordulóján avattak fel, és javítja a forgalom áramlását.",
@@ -1835,7 +1795,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Bulgária tér",
       ro: "Piața Bulgaria",
       en: "Bulgaria Square"},
-    image: "/poi-images/place-bulgarie-cotonou-landmarks-v2.webp",
     description: {
       de: "Ein markanter Platz in Cotonou, der an die internationale Zusammenarbeit während der sozialistischen Ära erinnert.",
       hu: "Jellegzetes tér Cotonouban, amely a szocialista korszak nemzetközi együttműködésére emlékeztet.",
@@ -1927,7 +1886,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Lenin tér",
       ro: "Piața Lenin",
       en: "Lenin Square"},
-    image: "/poi-images/place-lenine-cotonou-landmarks-v2.webp",
     description: {
       de: "Ein historischer Platz im Viertel Akpakpa, der an die politischen Wurzeln des modernen Benin erinnert.",
       hu: "Történelmi tér az Akpakpa negyedben, amely a modern Benin politikai gyökereire emlékeztet.",
@@ -2055,7 +2013,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Parakou-i nagy piac",
       ro: "Marea Piață din Parakou",
       en: "Grand Marché of Parakou"},
-    image: "/poi-images/grand-marche-parakou-landmarks-v2.webp",
     description: {
       de: "Das wirtschaftliche Zentrum Nordbenins, ein riesiger Markt, auf dem Produkte aus der gesamten Region gehandelt werden.",
       hu: "Parakou központi piaca, amely Észak-Benin gazdasági motorja és a régió kereskedelmének legfontosabb központja.",
@@ -2183,7 +2140,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Parakou-i vasútállomás",
       ro: "Gara din Parakou",
       en: "Parakou Railway Station"},
-    image: "/poi-images/gare-parakou-landmarks-v2.webp",
     description: {
       de: "Der nördliche Endpunkt der beninischen Eisenbahn, ein historisch und wirtschaftlich wichtiger Ort für den Transport.",
       hu: "A benini vasútvonal északi végállomása, történelmileg és gazdaságilag fontos helyszín a szállítás számára.",
@@ -2275,7 +2231,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Az ellenállás emlékműve",
       ro: "Monumentul Rezistenței",
       en: "Resistance Monument"},
-    image: "/poi-images/monument-resistance-natitingou-landmarks-v2.webp",
     description: {
       de: "Ein Denkmal in Natitingou, das den Helden des lokalen Widerstands gegen die Kolonialisierung gewidmet ist.",
       hu: "Emlékmű Natitingouban, amelyet a gyarmatosítás elleni helyi ellenállás hőseinek szenteltek.",
@@ -2403,7 +2358,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Megbékélés tere",
       ro: "Piața Reconcilierii",
       en: "Reconciliation Place"},
-    image: "/poi-images/place-reconciliation-ouidah-landmarks-v2.webp",
     description: {
       de: "Ein spirituell und historisch bedeutsamer Platz in Ouidah, der das Ende des Sklavenhandels und die Heilung der Geschichte markiert.",
       hu: "Spirituálisan és történelmileg jelentős tér Ouidah-ban, amely a rabszolga-kereskedelem végét és a történelem gyógyulását jelzi.",
@@ -2603,7 +2557,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Az evangelizáció 100. évfordulójának emlékműve",
       ro: "Monumentul Centenarului Evanghelizării",
       en: "Centenary of Evangelization Monument"},
-    image: "/poi-images/monument-centenaire-evangelisation-ouidah-landmarks-v2.webp",
     description: {
       de: "Ein Monument in Ouidah, das an die Ankunft der ersten katholischen Missionare in Benin erinnert.",
       hu: "Emlékmű Ouidah-ban, amely az első katolikus misszionáriusok Beninbe érkezésére emlékeztet.",
@@ -2650,7 +2603,6 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: "Jean Pliya Kulturális Központ",
       ro: "Centrul Cultural Jean Pliya",
       en: "Jean Pliya Cultural Center"},
-    image: "/poi-images/centre-culturel-jean-pliya-cotonou-landmarks-v2.webp",
     description: {
       de: "Ein bedeutendes kulturelles Zentrum in Cotonou, das Theater, Ausstellungen und Lesungen fördert.",
       hu: "Fontos kulturális központ Cotonouban, amely színházi előadásoknak, kiállításoknak és felolvasásoknak ad otthont.",

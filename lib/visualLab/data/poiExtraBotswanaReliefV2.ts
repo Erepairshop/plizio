@@ -8,7 +8,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-KW",
     coords: [22.0, -22.0],
     name: { de: "Kalahari-Wüste", hu: "Kalahári-sivatag", ro: "Deșertul Kalahari", en: "Kalahari Desert"},
-    image: "/poi-images/kalahari-desert-relief-v2.webp",
     description: { de: "Die Kalahari ist ein riesiges Becken aus Sand und die größte zusammenhängende Sandfläche der Erde.", hu: "A Kalahári hatalmas homokmedence, a Föld legnagyobb összefüggő homokos területe.", ro: "Kalahari este un bazin imens de nisip și cea mai mare zonă continuă de nisip de pe Pământ.", en: "The Kalahari is a vast basin of sand and the largest continuous sand surface on Earth." },
     facts: {
       de: ["Deckt den Großteil Botswanas ab.", "Keine permanente Oberflächengewässer."],
@@ -259,7 +258,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-NW",
     coords: [22.8, -19.3],
     name: { de: "Okavango-Delta", hu: "Okavango-delta", ro: "Delta Okavango", en: "Okavango Delta"},
-    image: "/poi-images/okavango-delta-relief-v2.webp",
     description: { de: "Eines der größten Binnendeltas der Welt, das in der Kalahari-Wüste endet.", hu: "A világ egyik legnagyobb belső deltája, amely a Kalahári-sivatagban végződik.", ro: "Una dintre cele mai mari delte interioare din lume, care se termină în deșertul Kalahari.", en: "One of the largest inland deltas in the world, ending in the Kalahari Desert." },
     facts: {
       de: ["UNESCO-Welterbe.", "Regelmäßige jährliche Überflutungen."],
@@ -537,7 +535,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-NW",
     coords: [21.7, -18.7],
     name: { de: "Tsodilo-Hügel", hu: "Tsodilo-dombok", ro: "Dealurile Tsodilo", en: "Tsodilo Hills"},
-    image: "/poi-images/tsodilo-hills-mountain-v2.webp",
     description: { de: "Einzigartige Erhebung in der flachen Kalahari, bekannt für Felsmalereien.", hu: "A Tsodilo-hegység sziklás magaslatai erősen kiemelkednek a környező sík vidékről. A dombok vallási és régészeti jelentősége miatt különleges tájelemek Botswana északnyugati részén.", ro: "Formațiuni stâncoase izolate în deșertul Kalahari, cele mai înalte puncte din nord-vestul Botswanei.", en: "Rising from the Kalahari, the Tsodilo Hills are the highest point in Botswana, consisting of four main quartzite ridges." },
     facts: {
       de: ["Heilige Stätte.", "Über 4000 Felsmalereien."],
@@ -644,7 +641,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-SE",
     coords: [29.0, -22.3],
     name: { de: "Limpopo-Fluss", hu: "Limpopo folyó", ro: "Râul Limpopo", en: "Limpopo River"},
-    image: "/poi-images/limpopo-river-relief-v2.webp",
     description: { de: "Ein bedeutender afrikanischer Grenzfluss.", hu: "Fontos afrikai határfolyó.", ro: "Un râu important de frontieră din Africa.", en: "A significant African border river." },
     facts: {
       de: ["Fließt in den Indischen Ozean.", "Grenzfluss zu Südafrika."],
@@ -670,7 +666,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-NW",
     coords: [24.5, -17.8],
     name: { de: "Chobe-Fluss", hu: "Chobe folyó", ro: "Râul Chobe", en: "Chobe River"},
-    image: "/poi-images/chobe-river-relief-v2.webp",
     description: { de: "Ein Fluss, der für seinen Wildreichtum bekannt ist.", hu: "Vadvilágban gazdag folyó.", ro: "Un râu cunoscut pentru fauna sa sălbatică bogată.", en: "A river known for its rich wildlife." },
     facts: {
       de: ["Nebenfluss des Sambesi.", "Lebensader für Elefanten."],
@@ -696,7 +691,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-NW",
     coords: [23.1, -20.6],
     name: { de: "Kwebe-Hügel", hu: "Kwebe-dombok", ro: "Dealurile Kwebe", en: "Kwebe Hills"},
-    image: "/poi-images/kwebe-hills-mountain-v2.webp",
     description: { de: "Eine markante Hügelkette nahe dem Okavango-Delta.", hu: "Karakteres dombság az Okavango-delta közelében.", ro: "Un lanț deluros distinctiv lângă Delta Okavango.", en: "A distinctive chain of hills near the Okavango Delta." },
     facts: {
       de: ["Wichtiger Orientierungspunkt.", "Geologisch interessant."],
@@ -722,7 +716,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-SE",
     coords: [25.9, -24.6],
     name: { de: "Notwane-Fluss", hu: "Notwane folyó", ro: "Râul Notwane", en: "Notwane River"},
-    image: "/poi-images/notwane-river-relief-v2.webp",
     description: { de: "Ein Fluss, der durch Gaborone fließt.", hu: "Gaboronén átfolyó folyó.", ro: "Un râu care trece prin Gaborone.", en: "A river that flows through Gaborone." },
     facts: {
       de: ["Versorgt die Hauptstadt.", "Teil des Limpopo-Beckens."],
@@ -748,7 +741,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-CE",
     coords: [24.4, -20.6],
     name: { de: "Boteti-Fluss", hu: "Boteti folyó", ro: "Râul Boteti", en: "Boteti River"},
-    image: "/poi-images/boteti-river-relief-v2.webp",
     description: { de: "Ein saisonaler Fluss, der Wasser in die Makgadikgadi-Pfannen führt.", hu: "Időszakos folyó, amely vizet vezet a Makgadikgadi-síkságokra.", ro: "Un râu sezonier care aduce apă în sărăturile Makgadikgadi.", en: "A seasonal river that carries water into the Makgadikgadi Pans." },
     facts: {
       de: ["Verbindet Okavango mit Pfannen.", "Wichtig für die Tierwelt."],
@@ -801,7 +793,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-NE",
     coords: [27.6, -21.2],
     name: { de: "Tati-Fluss", hu: "Tati folyó", ro: "Râul Tati", en: "Tati River"},
-    image: "/poi-images/tati-river-relief-v2.webp",
     description: { de: "Ein kleinerer Nebenfluss im Nordosten.", hu: "Kisebb mellékfolyó északkeleten.", ro: "Un afluent mai mic în nord-est.", en: "The Tati River flows through the city of Francistown, serving as a key drainage system in the northeastern region." },
     facts: {
       de: ["Fließt bei Francistown.", "Saisonal geprägt."],
@@ -944,7 +935,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-SE",
     coords: [25.9, -24.7],
     name: { de: "Moshaweng-Fluss", hu: "Moshaweng folyó", ro: "Râul Moshaweng", en: "Moshaweng River"},
-    image: "/poi-images/moshaweng-river-relief-v2.webp",
     description: { de: "Der Moshaweng River ist ein saisonaler Fluss in Botswana mit Bedeutung für Wasserführung und Landschaft.", hu: "Kis mellékfolyó délkeleten.", ro: "O vale de râu efemeră situată în sudul țării, crucială pentru ecosistemul arid din Kalahari.", en: "The Moshaweng is a seasonal river in southern Botswana, typical of the dry drainage systems found in the Kalahari region." },
     facts: {
       de: ["Saisonaler Wasserlauf", "Teil des Binnenflussnetzes", "prägt die Umgebung"],
@@ -1078,7 +1068,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-KW",
     coords: [20.7, -25.5],
     name: { de: "Nossob-Fluss", hu: "Nossob folyó", ro: "Râul Nossob", en: "Nossob River"},
-    image: "/poi-images/nossob-river-relief-v2.webp",
     description: { de: "Der Nossob River verläuft als zeitweise wasserführender Fluss durch den südlichen Kalahari-Raum.", hu: "A Nossob folyó inkább száraz meder, mint állandó vízfolyás. A Kalahári száraz tájának jól ismert, időszakosan vízzel telő eleme.", ro: "Un râu sezonier impunător care formează granița naturală dintre Botswana și Africa de Sud.", en: "The Nossob River is a fossil riverbed forming the border with South Africa within the Kgalagadi Transfrontier Park." },
     facts: {
       de: ["Ephemerer Fluss", "Kalahari-Region", "Grenzraum im Süden"],
@@ -1104,7 +1093,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-SE",
     coords: [24.0, -26.0],
     name: { de: "Molopo-Fluss", hu: "Molopo folyó", ro: "Râul Molopo", en: "Molopo River"},
-    image: "/poi-images/molopo-river-relief-v2.webp",
     description: { de: "Grenzfluss zu Südafrika im Süden.", hu: "Határfolyó Dél-Afrikával délen.", ro: "Râu de frontieră cu Africa de Sud în sud.", en: "Border river with South Africa in the south." },
     facts: {
       de: ["Sehr selten Wasser.", "Geologische Formation."],
@@ -1211,7 +1199,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-NW",
     coords: [23.5, -18.2],
     name: { de: "Kwando-Fluss", hu: "Kwando folyó", ro: "Râul Kwando", en: "Kwando River"},
-    image: "/poi-images/kwando-river-relief-v2.webp",
     description: { de: "Fluss im Norden Botswanas, Teil des Linyanti-Systems.", hu: "Folyó Botswana északnyugati részén, a Linyanti-rendszer része.", ro: "Râu în nordul Botswanei, parte a sistemului Linyanti.", en: "River in northern Botswana, part of the Linyanti system." },
     facts: {
       de: ["Reich an Feuchtgebieten.", "Lebensraum für Flusspferde."],
@@ -1237,7 +1224,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-NW",
     coords: [24.0, -18.2],
     name: { de: "Linyanti-Sumpf", hu: "Linyanti-mocsár", ro: "Mlaștina Linyanti", en: "Linyanti Swamp"},
-    image: "/poi-images/linyanti-swamp-relief-v2.webp",
     description: { de: "Ein ausgedehntes Sumpfgebiet im Norden.", hu: "Kiterjedt mocsárvidék északon.", ro: "O zonă mlăștinoasă extinsă în nord.", en: "An extensive swamp area in the north." },
     facts: {
       de: ["Sehr wildreich.", "Schwierig zu durchqueren."],
@@ -1263,7 +1249,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-NW",
     coords: [23.5, -18.6],
     name: { de: "Selinda-Spillway", hu: "Selinda-csatorna", ro: "Canalul Selinda", en: "Selinda Spillway"},
-    image: "/poi-images/selinda-spillway-relief-v2.webp",
     description: { de: "Ein Wasserweg, der den Kwando mit dem Okavango verbindet.", hu: "Vízi út, amely összeköti a Kwandót az Okavangóval.", ro: "Un canal natural fascinant care conectează ocazional râul Linyanti de delta Okavango.", en: "The Selinda Spillway is a unique waterway that can connect the Okavango Delta to the Linyanti River system during high floods." },
     facts: {
       de: ["Gelegentlich wasserführend.", "Sehr abgelegen."],
@@ -1289,7 +1274,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-NW",
     coords: [24.1, -19.2],
     name: { de: "Mababe-Depression", hu: "Mababe-mélyedés", ro: "Depresiunea Mababe", en: "Mababe Depression"},
-    image: "/poi-images/mababe-depression-relief-v2.webp",
     description: { de: "Ein ehemaliger See, heute eine riesige Grasfläche.", hu: "A Mababe-mélyedés alacsony fekvésű tájelemként kapcsolódik a botswanai északi vizes élőhelyekhez. A terület a felszíni lefolyás és a szezonális vízmozgás szempontjából fontos.", ro: "O depresiune joasă și plată, rămășiță a unui imens lac preistoric, acum o câmpie bogată în iarbă.", en: "The Mababe Depression is a vast, flat basin that was once part of the ancient Lake Makgadikgadi, now a seasonal marshland." },
     facts: {
       de: ["Ehemaliger See.", "Zieht viele Tiere an."],
@@ -1315,7 +1299,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-CE",
     coords: [27.0, -22.0],
     name: { de: "Matloutse-Fluss", hu: "Matloutse folyó", ro: "Râul Matloutse", en: "Matloutse River"},
-    image: "/poi-images/matloutse-river-relief-v2.webp",
     description: { de: "Ein Nebenfluss im östlichen Botswana.", hu: "Mellékfolyó Kelet-Botswanában.", ro: "Un afluent în estul Botswanei.", en: "A tributary in eastern Botswana." },
     facts: {
       de: ["Saisonaler Abfluss.", "Wichtig für die lokale Landwirtschaft."],
@@ -1341,7 +1324,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-NW",
     coords: [22.7, -19.5],
     name: { de: "Xudum-Delta", hu: "Xudum-delta", ro: "Delta Xudum", en: "Xudum Delta"},
-    image: "/poi-images/xudum-delta-relief-v2.webp",
     description: { de: "Ein Teil des Okavango-Deltas mit vielen Kanälen.", hu: "Az Okavango-delta egyik leglátványosabb vizes élőhelye, amely híres a gazdag vízi világáról.", ro: "O secțiune pitorească și sălbatică a deltei Okavango, caracterizată prin canale înguste și lagune cristaline.", en: "Xudum Delta is part of the Okavango wetland landscape in northern Botswana. It is defined by channels, marshes, and islands." },
     facts: {
       de: ["Reich an Wasserlilien.", "Viel Vogelwelt."],
@@ -1367,7 +1349,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-NW",
     coords: [22.2, -19.8],
     name: { de: "Goma-Sandrücken", hu: "Goma-homokhátság", ro: "Cresta de nisip Goma", en: "Goma Sand Ridge"},
-    image: "/poi-images/goma-sand-ridge-relief-v2.webp",
     description: { de: "Ein geologischer Rücken in der Kalahari.", hu: "Geológiai hát a Kalaháriban.", ro: "O crestă geologică în Kalahari.", en: "A geological ridge in the Kalahari." },
     facts: {
       de: ["Beeinflusst den Wasserfluss.", "Sandige Erhebung."],
@@ -1393,7 +1374,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-SO",
     coords: [24.7, -24.6],
     name: { de: "Jwaneng-Plateau", hu: "Jwaneng-fennsík", ro: "Platoul Jwaneng", en: "Jwaneng Plateau"},
-    image: "/poi-images/jwaneng-plateau-relief-v2.webp",
     description: { de: "Ein Plateau im Südosten Botswanas.", hu: "A Kalahári-medence szélén fekvő fennsík, amely geológiai adottságai révén a világ legértékesebb gyémántjait rejti.", ro: "Un platou înalt situat în sudul Botswanei, cunoscut pentru bogățiile sale geologice subterane.", en: "The Jwaneng Plateau is an elevated region in south-central Botswana, notable for its significant mineral wealth beneath the surface." },
     facts: {
       de: ["Bekannt für Diamanten.", "Flache Hochebene."],
@@ -1419,7 +1399,6 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-CE",
     coords: [26.7, -22.4],
     name: { de: "Serowe-Hügel", hu: "Serowe-dombok", ro: "Dealurile Serowe", en: "Serowe Hills"},
-    image: "/poi-images/serowe-hills-mountain-v2.webp",
     description: { de: "Hügellandschaft nahe der Stadt Serowe.", hu: "Serowe városához közeli dombvidék.", ro: "Dealuri de gresie care domină peisajul așezării Serowe, oferind protecție și puncte de observație.", en: "Hilly landscape near the town of Serowe." },
     facts: {
       de: ["Traditionelles Siedlungsgebiet.", "Schöne Aussichtspunkte."],

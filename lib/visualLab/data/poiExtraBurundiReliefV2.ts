@@ -93,7 +93,6 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: "Gikizi-hegy",
       ro: "Muntele Gikizi",
       en: "Mount Gikizi"},
-    image: "/poi-images/gikizi-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Berg Gikizi im Süden Burundis ist weltweit bekannt als der Standort der südlichsten Quelle des Nils. Er befindet sich in der Gemeinde Rutovu in der Provinz Bururi und erreicht eine Höhe von etwa 2.129 Metern. An der Stelle, die als Ursprung des längsten Flusses Afrikas gilt, wurde im Jahr 1938 eine kleine Steinpyramide errichtet, die heute ein bedeutendes touristisches Wahrzeichen ist. Geografisch liegt der Gikizi auf der Wasserscheide zwischen den Einzugsgebieten des Kongo und des Nils. Die Region zeichnet sich durch ein angenehmes Hochlandklima und eine grüne, hügelige Landschaft aus. Neben seiner hydrologischen Bedeutung ist der Berg auch ein Ort der Forschung für Geografen und Historiker, die sich mit der Entdeckung der Nilquellen befassten. Die Umgebung ist geprägt von traditioneller Landwirtschaft und kleinen Wäldern. Ein Besuch des Gikizi bietet nicht nur historische Einblicke, sondern auch weite Panoramablicke über das burundische Hinterland.",
       hu: "A Gikizi-hegy Burundi déli részén, Rutovu községben található, és világszerte a Nílus legdélebbi forrásvidékeként ismert. A 2129 méter magas hegy oldalában ered a Gasumo-patak, amelyet a geográfusok a világ leghosszabb folyójának legtávolabbi forrásaként azonosítottak. A nevezetes helyszínen 1938-ban egy kőpiramist emeltek, amely ma is az ország egyik legfontosabb turisztikai látványossága. A hegy a Kongó és a Nílus vízválasztóján fekszik, szimbolizálva Afrika két hatalmas folyamrendszerének találkozását. A környéket kellemes hegyvidéki klíma és üde zöld dombok jellemzik, ahol a helyiek évszázadok óta gazdálkodnak. A Gikizi nemcsak hidrológiai szempontból jelentős, hanem a felfedezések korának egyik utolsó nagy rejtélyéhez is kapcsolódik. A látogatók számára a helyszín spirituális és történelmi utazást kínál a kontinens szívébe. A csúcsról lenyűgöző kilátás nyílik a burundi tájra, ahol a természet és a történelem összefonódik.",
@@ -234,7 +233,6 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: "Gishora-domb",
       ro: "Dealul Gishora",
       en: "Gishora Hill"},
-    image: "/poi-images/gishora-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Gishora-Hügel in der Provinz Gitega ist einer der heiligsten Orte Burundis und das Zentrum der traditionellen Trommelkultur des Landes. Hier befindet sich das berühmte Gishora Drum Sanctuary, das von König Mwezi Gisabo im späten 19. Jahrhundert gegründet wurde. Die Hügelkuppe bietet einen weiten Blick über das zentrale Hochland und beherbergt die rituellen Trommeln, die zum UNESCO-Weltkulturerbe gehören. Gishora ist nicht nur ein geografischer Punkt, sondern ein lebendiges Symbol für die burundische Monarchie und nationale Identität. Die rituellen Tänze und Trommelvorführungen, die hier stattfinden, folgen jahrhundertealten Traditionen und ehren die Ahnen. Die Architektur der Anlage besteht aus traditionellen Rundhütten, die in die natürliche Landschaft des Hügels integriert sind. Für Besucher bietet Gishora die authentischste Möglichkeit, die spirituelle Kraft der burundischen Ingoma-Trommeln zu erleben. Der Hügel ist ein fester Bestandteil kultureller Reiserouten und ein Ort des nationalen Stolzes.",
       hu: "A Gitega tartományban található Gishora-domb Burundi egyik legszentebb helyszíne, a hagyományos burundi dobkultúra központja. Itt működik a híres Gishora Dobszentély, amelyet Mwezi Gisabo király alapított a 19. század végén. A dombtetőről pazar kilátás nyílik a központi felvidékre, miközben az UNESCO szellemi világörökség részét képező rituális dobok hangja tölti be a teret. Gishora nem csupán egy földrajzi pont, hanem a burundi monarchia és a nemzeti identitás élő szimbóluma. Az itt bemutatott rituális táncok és dobelőadások évszázados hagyományokat követnek, tisztelegve az ősök és az egykori uralkodók előtt. A szentély épületei hagyományos, kör alakú nádtetős kunyhók, amelyek szervesen illeszkednek a domb természetes vonulataiba. A látogatók számára Gishora kínálja a leghitelesebb élményt a burundi ingoma dobok spirituális erejének megismeréséhez. A domb a nemzeti büszkeség helyszíne és a kulturális turizmus egyik pillére.",
@@ -282,7 +280,6 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: "Teza-hegy",
       ro: "Muntele Teza",
       en: "Mount Teza"},
-    image: "/poi-images/teza-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Berg Teza ist eine der höchsten und eindrucksvollsten Erhebungen im Westen Burundis und liegt innerhalb des Kibira-Nationalparks. Mit einer Höhe von etwa 2.665 Metern überragt er die umliegende Landschaft und ist ein zentraler Bestandteil der Kongo-Nil-Wasserscheide. Die Hänge des Teza sind berühmt für ihre großflächigen Teeplantagen, die zu den qualitativ hochwertigsten in Ostafrika zählen. Der Berg spielt eine entscheidende Rolle für das regionale Ökosystem, da seine Nebelwälder als wichtiges Wassereinzugsgebiet fungieren. Botanisch gesehen ist die Region ein Hotspot der Biodiversität mit zahlreichen seltenen Farnen, Orchideen und Primatenarten. Historisch war der Teza während der Kolonialzeit ein bedeutender Standort für die landwirtschaftliche Erschließung des Hochlands. Das kühle, feuchte Klima auf dem Gipfel steht im starken Kontrast zu den heißen Ebenen des afrikanischen Grabenbruchs. Für Wanderer bietet der Aufstieg durch die Teefelder und Urwälder ein unvergleichliches Naturerlebnis in einer der grünsten Regionen Burundis.",
       hu: "A Teza-hegy Burundi nyugati részének egyik legmagasabb és legimpozánsabb csúcsa, amely a Kibira Nemzeti Park területén található. 2665 méteres magasságával messze kiemelkedik a környezetéből, és a Kongó-Nílus vízválasztó hegyláncának központi eleme. A hegy lankái világhírűek kiterjedt teültetvényeikről, amelyek Kelet-Afrika egyik legjobb minőségű teáját adják. Hidrológiai szempontból a Teza kulcsszerepet játszik, mivel köderdői hatalmas mennyiségű vizet raktároznak, táplálva a környező folyókat. Botanikai szempontból a terület a biodiverzitás valóságos kincsesbányája, ahol ritka páfrányok, orchideák és számos főemlősfaj él. Történelmileg a gyarmati idők óta a Teza a magaslati mezőgazdaság egyik központja. A csúcs hűvös és párás klímája éles ellentétben áll a Hasadékvölgy forró síkságaival. A túrázók számára a teaültetvényeken és őserdőkön keresztül vezető út az ország egyik legszebb természeti élményét nyújtja.",
@@ -330,7 +327,6 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: "Songa-hegy",
       ro: "Muntele Songa",
       en: "Mount Songa"},
-    image: "/poi-images/songa-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Berg Songa ist eine prominente Erhebung im zentralen Hochland von Burundi, südlich der Stadt Gitega. Er zeichnet sich durch seine charakteristische Silhouette aus, die das Relief der Region Songa prägt. Der Berg ist von großer Bedeutung für die lokale Landwirtschaft, da seine Hänge aufgrund des mineralreichen Bodens und der moderaten Temperaturen intensiv für den Anbau von Getreide und Hülsenfrüchten genutzt werden. Geografisch bildet der Songa einen Teil der hügeligen Übergangszone zwischen dem zentralen Plateau und den südlichen Ausläufern des Landes. In der lokalen Geschichte wird der Berg oft mit der traditionellen Viehzucht in Verbindung gebracht, die in dieser Region tief verwurzelt ist. Das Klima auf dem Berg ist deutlich kühler als in den tiefer gelegenen Regionen, was ihn zu einem beliebten Ziel für lokale Ausflüge macht. Die natürliche Vegetation besteht aus Grasland und Restbeständen von einheimischen Bäumen. Von den Höhen des Songa aus bietet sich ein weitreichender Blick über die fruchtbaren Ebenen Zentralburundis.",
       hu: "A Songa-hegy Burundi központi felvidékének meghatározó magaslata, amely Gitega városától délre fekszik. Karakteres sziluettje messziről felismerhetővé teszi a környéket, meghatározva a Songa régió domborzatát. A hegy kiemelt jelentőséggel bír a helyi mezőgazdaság számára, mivel ásványi anyagokban gazdag talaja és mérsékelt hőmérséklete kedvez a gabonafélék és hüvelyesek termesztésének. Földrajzilag a Songa a központi fennsík és az ország déli nyúlványai közötti átmeneti zóna részét képezi. A helyi történelemben a hegy gyakran kapcsolódik a hagyományos állattenyésztéshez, amelynek ezen a vidéken mély gyökerei vannak. A hegyen uralkodó klíma érezhetően hűvösebb az alacsonyabban fekvő területeknél, ami kedvelt célponttá teszi a környékbeliek körében. Természetes növényzetét füves puszták és őshonos fák maradványai alkotják. A magaslatokról pazar kilátás nyílik Közép-Burundi termékeny síkságaira és dombvidékeire.",
@@ -423,7 +419,6 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: "Karonje-hegy",
       ro: "Muntele Karonje",
       en: "Mount Karonje"},
-    image: "/poi-images/karonje-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Berg Karonje ist einer der höchsten Gipfel Burundis und erreicht eine beeindruckende Höhe von etwa 2.670 Metern. Er liegt auf der kongo-nilotischen Wasserscheide und markiert einen der markantesten Punkte des burundischen Gebirgsrückens. Geografisch trennt der Karonje die Zuflüsse des Tanganjikasees von denen des Nilsystems. Die Hänge sind von dichten Bergwäldern und Grasland bedeckt, die eine Vielzahl von endemischen Pflanzenarten beherbergen. Aufgrund seiner beträchtlichen Höhe ist der Gipfel oft in Wolken gehüllt, was zur Bildung einzigartiger Nebelwald-Ökosysteme führt. Historisch gesehen diente der Karonje als natürliches Hindernis und strategischer Beobachtungspunkt in der Region. Die kühlen Temperaturen und die hohe Luftfeuchtigkeit machen die Gegend ideal für den Anbau von Gebirgskulturen wie Tee und bestimmten Kaffeesorten. Der Aufstieg zum Gipfel gilt als eine der anspruchsvollsten, aber lohnendsten Wanderungen des Landes. Der Karonje bleibt ein zentrales Symbol für die alpine Landschaft Zentralafrikas.",
       hu: "A Karonje-hegy Burundi egyik legmagasabb csúcsa, amely lenyűgöző, 2670 méteres tengerszint feletti magasságával emelkedik a táj fölé. A Kongó-Nílus vízválasztó hegyláncán található, és az ország egyik legfontosabb domborzati választóvonalát jelöli. Földrajzi szempontból a Karonje választja el a Tanganyika-tóba igyekvő vizeket a Nílus-rendszer mellékfolyóitól. Lankáit sűrű hegyi erdők és füves puszták borítják, amelyek számos endemikus növényfajnak adnak otthont. Nagy magassága miatt a csúcsot gyakran felhők borítják, ami különleges köderdő-ökoszisztémák kialakulásához vezetett. Történelmileg a Karonje természetes akadályként és stratégiai megfigyelőpontként is szolgált a régióban. A hűvös éghajlat és a magas páratartalom ideális feltételeket teremt a magashegyi növények, például a tea és speciális kávéfajták termesztéséhez. A csúcsra vezető út az ország egyik legnehezebb, de legszebb túraútvonala. A Karonje a közép-afrikai alpesi táj egyik legfontosabb jelképe.",
@@ -519,7 +514,6 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: "Birira-hegy",
       ro: "Muntele Birira",
       en: "Mount Birira"},
-    image: "/poi-images/birira-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Mount Birira ist eine bedeutende Bergformation im östlichen Hochland von Burundi, die sich durch ihre zerklüftete Topographie und ökologische Vielfalt auszeichnet. Das Massiv erreicht Höhen, die oft über 2.300 Metern liegen, und spielt eine entscheidende Rolle für das ökologische Gleichgewicht der angrenzenden Ebenen. Geologisch ist der Birira eng mit dem ostafrikanischen Grabensystem verbunden, was sich in seiner steilen Flanke und den exponierten Felsformationen widerspiegelt. Die Hänge sind teilweise von dichten Gebirgswäldern bedeckt, die als Lebensraum für zahlreiche Vogelarten und kleinere Primaten dienen. In den niederschlagsreichen Monaten bilden sich am Berg temporäre Wasserfälle, die zur Schönheit und zum Wasserreichtum der Region beitragen. Die lokale Bevölkerung nutzt die fruchtbaren Ausläufer für den Anbau von Subsistenzkulturen wie Bananen und Mais, wobei die Bodenerosion eine ständige Herausforderung darstellt. Der Mount Birira ist zudem ein wichtiger Ort für die lokale Überlieferung und wird oft mit traditionellen spirituellen Praktiken in Verbindung gebracht. Die Region ist aufgrund ihrer Abgeschiedenheit ein Rückzugsort für die ursprüngliche Flora und Fauna Zentralafrikas.",
       hu: "A Birira-hegy Burundi keleti felföldjének jelentős hegyformációja, amelyet tagolt topográfiája és ökológiai sokszínűsége jellemez. A masszívum magassága gyakran meghaladja a 2300 métert, és döntő szerepet játszik a környező síkságok ökológiai egyensúlyában. Földtanilag a Birira szorosan kapcsolódik a kelet-afrikai árokrendszerhez, ami meredek oldalaiban és a felszínre bukkanó kőzetformációiban is megmutatkozik. A lejtőket részben sűrű hegyi erdők borítják, amelyek számos madárfaj és kisebb főemlős élőhelyeként szolgálnak. A csapadékos hónapokban időszakos vízesések alakulnak ki a hegyen, hozzájárulva a régió vízi gazdagságához és szépségéhez. A helyi lakosság a termékeny lábakat önellátó növények, például banán és kukorica termesztésére használja, bár a talajerózió folyamatos kihívást jelent. A Birira-hegy emellett a helyi hagyományok fontos helyszíne, gyakran kapcsolják össze tradicionális spirituális rituálékkal. Elszigeteltsége miatt a régió Közép-Afrika eredeti flórájának és faunájának egyik utolsó menedékhelye maradt.",
@@ -567,7 +561,6 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: "Nkoma-hegy",
       ro: "Muntele Nkoma",
       en: "Mount Nkoma"},
-    image: "/poi-images/nkoma-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Mount Nkoma ist ein markanter Bergzug im Südosten Burundis, der für seine beeindruckenden Quarzitformationen und seine historische Bedeutung bekannt ist. Mit einer Höhe von etwa 2.000 Metern bietet er einen weiten Überblick über das Plateau von Mosso und das Malagarasi-Flusssystem. Geologisch gesehen besteht der Nkoma aus sehr alten, widerstandsfähigen Gesteinen, die über Jahrmillionen der Erosion getrotzt haben und heute steile Klippen und Grate bilden. Die Vegetation ist eine Mischung aus Baumsavanne und montanen Grasländern, die an die saisonalen Trockenperioden angepasst sind. In der Geschichte Burundis diente der Mount Nkoma oft als natürlicher Schutzwall und strategischer Beobachtungspunkt während regionaler Konflikte. Die Umgebung des Berges ist dünn besiedelt, was zur Erhaltung der natürlichen Wildnis beigetragen hat, in der noch vereinzelte Bestände an Großwild vorkommen könnten. Das Gebiet ist auch für Geologen von Interesse, da es Einblicke in die frühe Krustenbildung Zentralafrikas bietet. Heute ist der Berg ein Symbol für die landschaftliche Beständigkeit und die raue Schönheit des burundischen Hinterlandes.",
       hu: "A Nkoma-hegy egy jellegzetes hegyvonulat Burundi délkeleti részén, amely lenyűgöző kvarcit formációiról és történelmi jelentőségéről ismert. Körülbelül 2000 méteres magasságával tágas kilátást nyújt a Mosso-fennsíkra és a Malagarasi folyórendszerre. Földtani szempontból a Nkoma igen idős, ellenálló kőzetekből épül fel, amelyek évmilliókon át ellenálltak az eróziónak, meredek sziklafalakat és gerinceket hozva létre. Növényzete a fás szavanna és a hegyi gyepek keveréke, amely alkalmazkodott a szezonális száraz időszakokhoz. Burundi történelmében a Nkoma-hegy gyakran szolgált természetes védműként és stratégiai megfigyelőpontként a regionális konfliktusok idején. A hegy környéke ritkán lakott, ami hozzájárult a természetes vadon megőrzéséhez, ahol még elszigetelt nagyvadállományok is előfordulhatnak. A terület a geológusok számára is érdekes, mivel betekintést nyújt Közép-Afrika korai kéregképződésébe. Ma a hegy a burundi hátország táji állandóságának és nyers szépségének szimbóluma.",
@@ -615,7 +608,6 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: "Mikuba-hegy",
       ro: "Muntele Mikuba",
       en: "Mount Mikuba"},
-    image: "/poi-images/mikuba-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Mount Mikuba ist einer der höchsten Gipfel im Nordwesten Burundis und bildet einen wesentlichen Bestandteil des bergigen Geländes entlang des Albert-Grabens. Er erreicht eine Höhe von über 2.600 Metern und ist oft in Wolken gehüllt, was das feuchte, kühle Klima der Hochlagen widerspiegelt. Die Geologie des Mikuba ist durch vulkanische Aktivitäten geprägt, die fruchtbare Böden an den unteren Hängen hinterlassen haben, wo heute intensive Landwirtschaft betrieben wird. In den höheren Zonen finden sich Reste des Afromontanen Regenwaldes, der Teil des größeren Kibira-Ökosystems ist. Diese Wälder beherbergen seltene Tierarten, darunter Berggalagos und verschiedene endemische Vögel. Für die Wasserwirtschaft Burundis ist der Mount Mikuba von unschätzbarem Wert, da er zahlreiche Nebenflüsse des Rusizi speist. Die Region um den Berg ist dicht besiedelt, da die klimatischen Bedingungen ideal für den Anbau von Getreide und Hülsenfrüchten sind. Trotz des menschlichen Drucks bleibt der Gipfelbereich eine wichtige Bastion für die Artenvielfalt und ein Ziel für wissenschaftliche Expeditionen.",
       hu: "A Mikuba-hegy Burundi északnyugati részének egyik legmagasabb csúcsa, amely az Albert-árok menti hegyvidéki terület szerves részét képezi. Magassága meghaladja a 2600 métert, és gyakran felhőkbe burkolózik, tükrözve a magashegyi területek nedves, hűvös éghajlatát. A Mikuba geológiáját vulkáni tevékenység határozta meg, amely termékeny talajt hagyott maga után az alsó lejtőkön, ahol ma intenzív mezőgazdaság folyik. A magasabb zónákban az afromontán esőerdő maradványai találhatók, amelyek a nagyobb Kibira-ökoszisztéma részét képezik. Ezek az erdők ritka állatfajoknak adnak otthont, köztük hegyi galágóknak és különféle endemikus madaraknak. Burundi vízgazdálkodása szempontjából a Mikuba-hegy felbecsülhetetlen értékű, mivel a Rusizi folyó számos mellékfolyóját táplálja. A hegy környéke sűrűn lakott, mivel az éghajlati feltételek ideálisak a gabonafélék és hüvelyesek termesztéséhez. Az emberi nyomás ellenére a csúcsrégió továbbra is a biológiai sokféleség fontos bástyája és tudományos expedíciók célpontja marad.",
@@ -663,7 +655,6 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: "Kirimbi-hegy",
       ro: "Muntele Kirimbi",
       en: "Mount Kirimbi"},
-    image: "/poi-images/kirimbi-relief-v2.webp",
     description: {
       de: "Ein hoher Gipfel in der Provinz Muramvya, der für seine ökologische Vielfalt geschätzt wird.",
       hu: "Magas hegycsúcs Muramvya tartományban, amelyet ökológiai sokféleségéért becsülnek.",
@@ -711,7 +702,6 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: "Kwinkona-hegy",
       ro: "Muntele Kwinkona",
       en: "Mount Kwinkona"},
-    image: "/poi-images/kwinkona-relief-v2.webp",
     description: {
       de: "Ein zentraler Gebirgsstock in der Provinz Karuzi, der die Wasserscheide im Zentrum des Landes bildet.",
       hu: "Központi hegytömb Karuzi tartományban, amely az ország közepén alkot vízválasztót.",
@@ -807,7 +797,6 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: "Mukuyo-hegy",
       ro: "Muntele Mukuyo",
       en: "Mount Mukuyo"},
-    image: "/poi-images/mukuyo-relief-v2.webp",
     description: {
       de: "Ein markanter Berg im Osten Burundis, der sich markant aus der umliegenden Savannenlandschaft erhebt.",
       hu: "Jellegzetes hegy Kelet-Burundiban, amely élesen emelkedik ki a környező szavannás tájból.",
@@ -855,7 +844,6 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: "Muregeya-hegy",
       ro: "Muntele Muregeya",
       en: "Mount Muregeya"},
-    image: "/poi-images/muregeya-relief-v2.webp",
     description: {
       de: "Ein hoher Gipfel in der Provinz Kayanza, eingebettet in die fruchtbare Vulkanlandschaft des Nordens.",
       hu: "Magas hegycsúcs Kayanza tartományban, az északi termékeny vulkanikus tájba ágyazva.",
@@ -903,7 +891,6 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: "Mpotsa-hegy",
       ro: "Muntele Mpotsa",
       en: "Mount Mpotsa"},
-    image: "/poi-images/mpotsa-relief-v2.webp",
     description: {
       de: "Ein heiliger Berg in Muramvya, auf dem früher die Könige Burundis zur rituellen Bestattung vorbereitet wurden.",
       hu: "Szent hegy Muramvyában, ahol egykor Burundi királyait készítették fel a rituális temetésre.",
@@ -1089,7 +1076,6 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: "Kumoso-alföld",
       ro: "Câmpia Kumoso",
       en: "Kumoso Lowlands"},
-    image: "/poi-images/kumoso-relief-v2.webp",
     description: {
       de: "Eine weite Ebene im Osten Burundis, die an der Grenze zu Tansania liegt und durch ein wärmeres Klima geprägt ist.",
       hu: "Széles síkság Kelet-Burundiban, a tanzániai határ mentén, amelyet melegebb klíma jellemez.",
@@ -1182,7 +1168,6 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: "Mugamba-felföld",
       ro: "Podișul Mugamba",
       en: "Mugamba Highlands"},
-    image: "/poi-images/mugamba-relief-v2.webp",
     description: {
       de: "Eine kühle und windige Hochgebirgsregion entlang der Nil-Kongo-Wasserscheide.",
       hu: "Hűvös és szeles magashegyi régió a Nílus-Kongó vízválasztó mentén.",

@@ -557,7 +557,6 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     parent: "AE-DU",
     coords: [55.2744, 25.1972],
     name: { de: "Burj Khalifa", hu: "Burdzs Kalifa", ro: "Burj Khalifa", en: "Burj Khalifa"},
-    image: "/poi-images/burj-khalifa-landmarks-v2.webp",
     description: {
       de: "Das höchste Gebäude der Welt ragt majestätisch über der Skyline von Dubai empor und bietet unvergleichliche Ausblicke.",
       hu: "A világ legmagasabb épülete lenyűgöző látványt nyújt Dubaj felett, és páratlan panorámával várja a látogatókat.",
@@ -882,7 +881,6 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     parent: "AE-AZ",
     coords: [54.4750, 24.4128],
     name: { de: "Scheich-Zayid-Moschee", hu: "Zájed sejk mecset", ro: "Marea Moschee Sheikh Zayed", en: "Sheikh Zayed Grand Mosque"},
-    image: "/poi-images/sheikh-zayed-grand-mosque-landmarks-v2.webp",
     description: {
       de: "Dieses prächtige Meisterwerk islamischer Architektur aus weißem Marmor beeindruckt mit riesigen Kuppeln und feinen Details.",
       hu: "A fehér márványból épült iszlám építészeti remekmű hatalmas kupoláival és finom díszítéseivel varázsolja el a nézőt.",
@@ -2215,7 +2213,6 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     parent: "AE-DU",
     coords: [55.1852, 25.1412],
     name: { de: "Burj Al Arab", hu: "Burdzs al-Arab", ro: "Burj Al Arab", en: "Burj Al Arab"},
-    image: "/poi-images/burj-al-arab-landmarks-v2.webp",
     description: {
       de: "Das weltberühmte Luxushotel in Form eines riesigen Segels steht auf einer künstlichen Insel vor der Küste.",
       hu: "A világhírű, hatalmas vitorlát formázó luxusszálloda egy mesterséges szigeten áll a tengerpart közelében.",
@@ -2576,7 +2573,6 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     parent: "AE-AZ",
     coords: [54.4000, 24.5333],
     name: { de: "Louvre Abu Dhabi", hu: "Louvre Abu-Dzabi", ro: "Louvre Abu Dhabi", en: "Louvre Abu Dhabi"},
-    image: "/poi-images/louvre-abu-dhabi-landmarks-v2.webp",
     description: {
       de: "Dieses spektakuläre Kunstmuseum verbindet französisches Design mit arabischem Erbe unter einer faszinierenden Metallkuppel.",
       hu: "Ez a látványos művészeti múzeum egy lenyűgöző fémkupola alatt ötvözi a francia dizájnt az arab örökséggel.",
@@ -2793,7 +2789,6 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     parent: "AE-DU",
     coords: [55.2785, 25.1975],
     name: { de: "The Dubai Mall", hu: "Dubai Mall", ro: "Dubai Mall", en: "The Dubai Mall"},
-    image: "/poi-images/the-dubai-mall-landmarks-v2.webp",
     description: {
       de: "Eines der größten Einkaufszentren der Welt bietet neben unzähligen Geschäften auch ein riesiges Aquarium und eine Eislaufbahn.",
       hu: "A világ egyik legnagyobb bevásárlóközpontja a számtalan üzlet mellett egy hatalmas akváriumot és jégpályát is rejt.",
@@ -2974,7 +2969,6 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     parent: "AE-DU",
     coords: [55.1390, 25.1124],
     name: { de: "Palm Jumeirah", hu: "Palm Jumeirah", ro: "Palm Jumeirah", en: "Palm Jumeirah"},
-    image: "/poi-images/palm-jumeirah-landmarks-v2.webp",
     description: {
       de: "Diese künstliche Inselgruppe in Form einer riesigen Palme ist ein weltweites Meisterwerk der modernen Ingenieurskunst.",
       hu: "Ez a hatalmas pálmafát formázó mesterséges szigetcsoport a modern mérnöki tudomány lenyűgöző remekműve.",
@@ -3119,7 +3113,6 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     parent: "AE-AZ",
     coords: [54.3167, 24.4614],
     name: { de: "Qasr Al Watan", hu: "Qasr Al Watan", ro: "Qasr Al Watan", en: "Qasr Al Watan"},
-    image: "/poi-images/qasr-al-watan-landmarks-v2.webp",
     description: {
       de: "Dieser prächtige Präsidentenpalast öffnet seine Türen für die Öffentlichkeit und zeigt das reiche arabische Erbe.",
       hu: "Ez a pompás elnöki palota megnyitotta kapuit a nagyközönség előtt, bemutatva a gazdag arab örökséget.",
@@ -3876,7 +3869,6 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     parent: "AE-AZ",
     coords: [54.6069, 24.4836],
     name: { de: "Ferrari World", hu: "Ferrari World", ro: "Ferrari World", en: "Ferrari World"},
-    image: "/poi-images/ferrari-world-landmarks-v2.webp",
     description: {
       de: "Der erste Ferrari-Themenpark der Welt bietet rasanten Nervenkitzel unter einem gigantischen roten Dach auf der Yas-Insel.",
       hu: "A világ első Ferrari vidámparkja szédületes izgalmakat kínál egy gigantikus piros tető alatt a Yas-szigeten.",
@@ -4705,7 +4697,6 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     parent: "AE-DU",
     coords: [55.3003, 25.2355],
     name: { de: "Dubai Frame", hu: "Dubai Frame", ro: "Dubai Frame", en: "Dubai Frame"},
-    image: "/poi-images/dubai-frame-landmarks-v2.webp",
     description: {
       de: "Das monumentale Bauwerk in Form eines riesigen Bilderrahmens verbindet die historische und moderne Seite der Stadt.",
       hu: "A hatalmas képkeretet formázó monumentális építmény összeköti a város történelmi és modern oldalát.",
@@ -5138,7 +5129,6 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     parent: "AE-DU",
     coords: [55.1228, 25.0797],
     name: { de: "Ain Dubai", hu: "Ain Dubai", ro: "Ain Dubai", en: "Ain Dubai"},
-    image: "/poi-images/ain-dubai-landmarks-v2.webp",
     description: {
       de: "Das größte und höchste Riesenrad der Welt steht auf der künstlichen Insel Bluewaters und bietet fantastische Ausblicke.",
       hu: "A világ legnagyobb és legmagasabb óriáskereke a Bluewaters mesterséges szigeten áll, fantasztikus kilátást nyújtva.",
@@ -5751,7 +5741,6 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     parent: "AE-DU",
     coords: [55.2818, 25.2192],
     name: { de: "Zukunftsmuseum", hu: "A Jövő Múzeuma", ro: "Muzeul Viitorului", en: "Museum of the Future"},
-    image: "/poi-images/museum-of-the-future-landmarks-v2.webp",
     description: {
       de: "Dieses architektonische Wunderwerk in Ringform präsentiert innovative Technologien und visionäre Konzepte für die Menschheit.",
       hu: "Ez a gyűrű alakú építészeti csoda innovatív technológiákat és vizionárius koncepciókat mutat be az emberiség számára.",
@@ -6436,7 +6425,6 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     parent: "AE-AZ",
     coords: [54.3175, 24.4617],
     name: { de: "Emirates Palace", hu: "Emirates Palace", ro: "Emirates Palace", en: "Emirates Palace"},
-    image: "/poi-images/emirates-palace-landmarks-v2.webp",
     description: {
       de: "Das luxuriöse Palasthotel an der Küste besticht durch seine vergoldeten Kuppeln und weitläufigen grünen Gärten.",
       hu: "A tengerparti luxus palotaszálló aranyozott kupoláival és kiterjedt zöldellő kertjeivel bűvöli el a látogatókat.",
@@ -7121,7 +7109,6 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     parent: "AE-DU",
     coords: [55.3044, 25.0673],
     name: { de: "Global Village", hu: "Global Village", ro: "Global Village", en: "Global Village"},
-    image: "/poi-images/global-village-landmarks-v2.webp",
     description: {
       de: "Dieser riesige Kultur- und Unterhaltungspark vereint Traditionen, Essen und Architektur aus Dutzenden von Ländern.",
       hu: "Ez a hatalmas kulturális és szórakoztató park több tucat ország hagyományait, ételeit és építészetét ötvözi.",
@@ -8418,7 +8405,6 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     parent: "AE-AZ",
     coords: [54.3564, 24.4815],
     name: { de: "Qasr Al Hosn", hu: "Qasr Al Hosn", ro: "Qasr Al Hosn", en: "Qasr Al Hosn"},
-    image: "/poi-images/qasr-al-hosn-landmarks-v2.webp",
     description: {
       de: "Das älteste Steingebäude von Abu Dhabi war einst eine Wachturmfestung und ist heute ein tiefgründiges historisches Museum.",
       hu: "Abu-Dzabi legrégebbi kőépülete egykor őrtoronyként és erődként szolgált, ma pedig mélyreható történelmi múzeum.",
@@ -8815,7 +8801,6 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     parent: "AE-DU",
     coords: [55.2444, 25.0598],
     name: { de: "Dubai Miracle Garden", hu: "Dubaji Csodakert", ro: "Dubai Miracle Garden", en: "Dubai Miracle Garden"},
-    image: "/poi-images/dubai-miracle-garden-landmarks-v2.webp",
     description: {
       de: "Ein farbenfroher Wüstengarten, in dem Millionen blühender Pflanzen atemberaubende Skulpturen und Landschaften bilden.",
       hu: "Színpompás sivatagi kert, ahol több millió virágzó növény lenyűgöző szobrokat és tájakat alkot.",
@@ -9176,7 +9161,6 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     parent: "AE-DU",
     coords: [55.1172, 25.1304],
     name: { de: "Atlantis, The Palm", hu: "Atlantis, The Palm", ro: "Atlantis, The Palm", en: "Atlantis, The Palm"},
-    image: "/poi-images/atlantis-the-palm-landmarks-v2.webp",
     description: {
       de: "Das ozeanbezogene Luxusresort auf der Palm Jumeirah bietet nicht nur traumhafte Zimmer, sondern auch einen riesigen Wasserpark.",
       hu: "A Palm Jumeirah-n található óceáni luxusüdülő nemcsak álomszép szobákat, hanem egy hatalmas víziparkot is kínál.",
@@ -9465,7 +9449,6 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     parent: "AE-SH",
     coords: [55.3850, 25.3644],
     name: { de: "Museum der islamischen Zivilisation", hu: "Iszlám Civilizáció Múzeuma", ro: "Muzeul Civilizației Islamice", en: "Sharjah Museum of Islamic Civilization"},
-    image: "/poi-images/sharjah-museum-of-islamic-civilization-landmarks-v2.webp",
     description: {
       de: "Ein ehemaliger traditioneller Markt am Ufer beherbergt heute Tausende von Artefakten aus der Geschichte des Islam.",
       hu: "A folyóparton álló egykori hagyományos piac ma az iszlám történelmének több ezer műtárgyát őrzi.",
@@ -9754,7 +9737,6 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     parent: "AE-AZ",
     coords: [55.7519, 24.2155],
     name: { de: "Al Jahili Fort", hu: "Al Jahili erőd", ro: "Fortul Al Jahili", en: "Al Jahili Fort"},
-    image: "/poi-images/al-jahili-fort-landmarks-v2.webp",
     description: {
       de: "Diese historische Lehmfestung in der Oasenstadt Al Ain ist eines der größten und bedeutendsten Bauwerke der Region.",
       hu: "Ez a történelmi vályogerőd Al Ain oázisvárosában a régió egyik legnagyobb és legjelentősebb építménye.",
@@ -11015,7 +10997,6 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     parent: "AE-DU",
     coords: [55.3000, 25.2636],
     name: { de: "Historisches Viertel Al Fahidi", hu: "Al Fahidi történelmi negyed", ro: "Cartierul istoric Al Fahidi", en: "Al Fahidi Historical Neighbourhood"},
-    image: "/poi-images/al-fahidi-historical-neighbourhood-landmarks-v2.webp",
     description: {
       de: "Die engen Gassen und Windtürme dieses alten Viertels bieten einen Einblick in das traditionelle Leben vor dem Ölboom.",
       hu: "A régi negyed szűk sikátorai és széltornyai bepillantást engednek az olajkorszak előtti hagyományos életbe.",

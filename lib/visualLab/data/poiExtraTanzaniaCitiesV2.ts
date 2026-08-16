@@ -233,7 +233,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-01",
     coords: [35.7419, -6.1731],
     name: { de: "Dodoma", hu: "Dodoma", ro: "Dodoma", en: "Dodoma"},
-    image: "/poi-images/tz-dodoma-cities-v2.webp",
     description: { de: "Tansanias Hauptstadt, bekannt für ihre weiten Straßen und politischen Gebäude.", hu: "Tanzánia fővárosa, amely széles utcáiról és politikai épületeiről ismert.", ro: "Capitala Tanzaniei, cunoscută pentru străzile sale largi și clădirile politice.", en: "Tanzania's capital, known for its wide streets and political buildings." , es: "Capital de Tanzania, conocida por sus amplias calles y edificios políticos.", pt: "Capital da Tanzânia, conhecida pelas suas ruas largas e edifícios políticos.", fr: "Capitale de la Tanzanie, connue pour ses larges rues et ses bâtiments politiques."},
     facts: {
       de: ["Die Nationalversammlung tagt hier.", "Seit 1974 planmäßige Hauptstadt."],
@@ -346,7 +345,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-07",
     coords: [39.2083, -6.7924],
     name: { de: "Dar es Salaam", hu: "Dar es Salaam", ro: "Dar es Salaam", en: "Dar es Salaam"},
-    image: "/poi-images/tz-dar-es-salaam-cities-v2.webp",
     description: { de: "Die größte Stadt und das wirtschaftliche Zentrum an der Küste des Indischen Ozeans.", hu: "A legnagyobb város és a gazdasági központ az Indiai-óceán partján.", ro: "Cel mai mare oraș și centrul economic pe coasta Oceanului Indian.", en: "The largest city and economic hub on the Indian Ocean coast." , es: "La ciudad más grande y el centro económico en la costa del Océano Índico.", pt: "A maior cidade e o centro económico na costa do Oceano Índico.", fr: "La plus grande ville et le centre économique sur la côte de l'océan Indien."},
     facts: {
       de: ["Der Hafen ist der wichtigste des Landes.", "Ehemalige Hauptstadt bis zur Verlegung."],
@@ -463,7 +461,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-19",
     coords: [32.9, -2.5167],
     name: { de: "Mwanza", hu: "Mwanza", ro: "Mwanza", en: "Mwanza"},
-    image: "/poi-images/tz-mwanza-cities-v2.webp",
     description: { de: "Die Felsenstadt am Südufer des Viktoriasees, berühmt für die Bismarckfelsen.", hu: "A Sziklaváros a Viktória-tó déli partján, híres a Bismarck-sziklákról.", ro: "Orașul stâncos de pe malul sudic al Lacului Victoria, faimos pentru Stâncile Bismarck.", en: "The Rock City on the southern shore of Lake Victoria, famous for the Bismarck Rocks." , es: "La ciudad rocosa en la orilla sur del lago Victoria, famosa por las rocas de Bismarck.", pt: "A cidade rochosa na margem sul do Lago Vitória, famosa pelas rochas de Bismarck.", fr: "La ville rocheuse sur la rive sud du lac Victoria, célèbre pour les rochers de Bismarck."},
     facts: {
       de: ["Zweitgrößte Stadt Tansanias.", "Zentrum der Fischereiindustrie."],
@@ -499,7 +496,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-02",
     coords: [36.6833, -3.3667],
     name: { de: "Arusha", hu: "Arusha", ro: "Arusha", en: "Arusha"},
-    image: "/poi-images/tz-arusha-cities-v2.webp",
     description: { de: "Das Tor zu den nördlichen Safariparks und am Fuße des Mount Meru gelegen.", hu: "Az északi szafariparkok kapuja, a Meru-hegy lábánál fekszik.", ro: "Poarta către parcurile de safari din nord, situat la poalele Muntelui Meru.", en: "The gateway to the northern safari parks, located at the foot of Mount Meru." , es: "La puerta de entrada a los parques de safari del norte, situada al pie del monte Meru.", pt: "A porta de entrada para os parques de safari do norte, situada ao pé do monte Meru.", fr: "La porte d'entrée des parcs de safari du nord, située au pied du mont Meru."},
     facts: {
       de: ["Sitz der Ostafrikanischen Gemeinschaft.", "Wichtiges diplomatisches Zentrum."],
@@ -580,7 +576,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-12",
     coords: [33.45, -8.9],
     name: { de: "Mbeya", hu: "Mbeya", ro: "Mbeya", en: "Mbeya"},
-    image: "/poi-images/tz-mbeya-cities-v2.webp",
     description: { de: "Eine hochgelegene Stadt im Südwesten, umgeben von Bergen und landwirtschaftlichen Flächen.", hu: "Egy magasan fekvő város délnyugaton, hegyekkel és mezőgazdasági területekkel övezve.", ro: "Un oraș la mare altitudine în sud-vest, înconjurat de munți și terenuri agricole.", en: "A high-altitude city in the southwest, surrounded by mountains and agricultural lands." , es: "Una ciudad de gran altitud en el suroeste, rodeada de montañas y tierras agrícolas.", pt: "Uma cidade de grande altitude no sudoeste, rodeada por montanhas e terras agrícolas.", fr: "Une ville de haute altitude dans le sud-ouest, entourée de montagnes et de terres agricoles."},
     facts: {
       de: ["Gegründet in den 1920er Jahren wegen Goldfunden.", "Wichtiger Verkehrsknotenpunkt nach Sambia."],
@@ -616,7 +611,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-05",
     coords: [37.6667, -8.8167],
     name: { de: "Morogoro", hu: "Morogoro", ro: "Morogoro", en: "Morogoro"},
-    image: "/poi-images/tz-morogoro-cities-v2.webp",
     description: { de: "Liegt am Fuße der Uluguru-Berge und ist ein wichtiges landwirtschaftliches Zentrum.", hu: "Az Uluguru-hegység lábánál fekszik, és fontos mezőgazdasági központ.", ro: "Situat la poalele Munților Uluguru, este un important centru agricol.", en: "Located at the foot of the Uluguru Mountains, it is an important agricultural center." , es: "Situada a los pies de las montañas Uluguru, es un importante centro agrícola.", pt: "Situada aos pés das montanhas Uluguru, é um importante centro agrícola.", fr: "Située au pied des montagnes Uluguru, c'est un centre agricole important."},
     facts: {
       de: ["Bekannt für den Anbau von Sisal.", "Heimat der Sokoine-Universität."],
@@ -697,7 +691,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-04",
     coords: [39.1, -5.0667],
     name: { de: "Tanga", hu: "Tanga", ro: "Tanga", en: "Tanga"},
-    image: "/poi-images/tz-tanga-cities-v2.webp",
     description: { de: "Eine ruhige Hafenstadt im Norden, berühmt für ihre historische Architektur und Sisal-Export.", hu: "Csendes északi kikötőváros, amely történelmi építészetéről és szizálexportjáról híres.", ro: "Un oraș-port liniștit în nord, faimos pentru arhitectura sa istorică și exportul de sisal.", en: "A quiet northern port city, famous for its historical architecture and sisal export." , es: "Una tranquila ciudad portuaria en el norte, famosa por su arquitectura histórica y exportación de sisal.", pt: "Uma tranquila cidade portuária no norte, famosa pela sua arquitetura histórica e exportação de sisal.", fr: "Une ville portuaire paisible dans le nord, célèbre pour son architecture historique et l'exportation de sisal."},
     facts: {
       de: ["Zweitgrößter Hafen des Landes.", "Nah an den Amboni-Höhlen."],
@@ -733,7 +726,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-17",
     coords: [32.6, -3.8333],
     name: { de: "Kahama", hu: "Kahama", ro: "Kahama", en: "Kahama"},
-    image: "/poi-images/tz-kahama-cities-v2.webp",
     description: { de: "Eine schnell wachsende Bergbaustadt im Nordwesten, angetrieben vom Goldabbau.", hu: "Gyorsan növekvő bányászváros északnyugaton, amelyet az aranybányászat hajt.", ro: "Un oraș minier cu creștere rapidă în nord-vest, impulsionat de extracția aurului.", en: "A rapidly growing mining town in the northwest, driven by gold mining." , es: "Una ciudad minera en rápido crecimiento en el noroeste, impulsada por la extracción de oro.", pt: "Uma cidade mineira em rápido crescimento no noroeste, impulsionada pela extração de ouro.", fr: "Une ville minière en croissance rapide dans le nord-ouest, stimulée par l'extraction de l'or."},
     facts: {
       de: ["Zentrum der Goldproduktion.", "Wichtiger Markt für lokale Bauern."],
@@ -886,7 +878,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-14",
     coords: [32.8, -5.0167],
     name: { de: "Tabora", hu: "Tabora", ro: "Tabora", en: "Tabora"},
-    image: "/poi-images/tz-tabora-cities-v2.webp",
     description: { de: "Ein historischer Handelsknotenpunkt Zentraltansanias, einst eine wichtige Karawanenstation.", hu: "Közép-Tanzánia történelmi kereskedelmi csomópontja, egykor fontos karavánállomás.", ro: "Un nod comercial istoric în centrul Tanzaniei, odată o importantă stație de caravane.", en: "A historic trading hub of central Tanzania, once an important caravan station." , es: "Un centro comercial histórico en Tanzania central, que fue una importante estación de caravanas.", pt: "Um centro comercial histórico na Tanzânia central, que foi uma importante estação de caravanas.", fr: "Un centre commercial historique dans le centre de la Tanzanie, qui était une importante station de caravanes."},
     facts: {
       de: ["Wichtiger Eisenbahnknotenpunkt.", "Berühmt für Mangobäume."],
@@ -1111,7 +1102,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-53",
     coords: [39.2, -6.1667],
     name: { de: "Zanzibar City", hu: "Zanzibar City", ro: "Zanzibar City", en: "Zanzibar City"},
-    image: "/poi-images/tz-zanzibar-city-cities-v2.webp",
     description: { de: "Die historische Hauptstadt der Insel Sansibar, bekannt für Stone Town und Gewürze.", hu: "Zanzibár sziget történelmi fővárosa, amely a Kővárosról és a fűszerekről ismert.", ro: "Capitala istorică a insulei Zanzibar, cunoscută pentru Stone Town și condimente.", en: "The historic capital of Zanzibar Island, known for Stone Town and spices." , es: "La capital histórica de la isla de Zanzíbar, conocida por Stone Town y las especias.", pt: "A capital histórica da ilha de Zanzibar, conhecida por Stone Town e especiarias.", fr: "La capitale historique de l'île de Zanzibar, connue pour Stone Town et ses épices."},
     facts: {
       de: ["Stone Town ist UNESCO-Weltkulturerbe.", "Zentrum des Nelkenhandels."],
@@ -1228,7 +1218,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-16",
     coords: [29.6333, -4.8833],
     name: { de: "Kigoma", hu: "Kigoma", ro: "Kigoma", en: "Kigoma"},
-    image: "/poi-images/tz-kigoma-cities-v2.webp",
     description: { de: "Die wichtigste Hafenstadt am Tanganjikasee und Endpunkt der Zentralbahn.", hu: "A Tanganjika-tó legfontosabb kikötővárosa és a Központi Vasút végállomása.", ro: "Cel mai important oraș-port de pe Lacul Tanganyika și punctul terminus al căii ferate centrale.", en: "The most important port city on Lake Tanganyika and terminus of the Central Railway." , es: "La ciudad portuaria más importante del lago Tanganica y punto final del Ferrocarril Central.", pt: "A cidade portuária mais importante do Lago Tanganica e ponto final do Caminho de Ferro Central.", fr: "La plus importante ville portuaire sur le lac Tanganyika et terminus du chemin de fer central."},
     facts: {
       de: ["Tiefster Hafen am See.", "Nahe dem Gombe-Nationalpark."],
@@ -1417,7 +1406,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-15",
     coords: [31.6167, -7.9667],
     name: { de: "Sumbawanga", hu: "Sumbawanga", ro: "Sumbawanga", en: "Sumbawanga"},
-    image: "/poi-images/tz-sumbawanga-cities-v2.webp",
     description: { de: "Ein regionales Zentrum in den Ufipa-Bergen, bekannt für seine isolierte Lage.", hu: "Regionális központ az Ufipa-hegységben, amely elszigetelt fekvéséről ismert.", ro: "Un centru regional în Munții Ufipa, cunoscut pentru locația sa izolată.", en: "A regional center in the Ufipa Mountains, known for its isolated location." , es: "Un centro regional en las montañas Ufipa, conocido por su ubicación aislada.", pt: "Um centro regional nas montanhas Ufipa, conhecido pela sua localização isolada.", fr: "Un centre régional dans les montagnes Ufipa, connu pour sa situation isolée."},
     facts: {
       de: ["Starke landwirtschaftliche Basis.", "Heimat des Fipa-Volkes."],
@@ -1570,7 +1558,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-10",
     coords: [35.65, -10.6833],
     name: { de: "Songea", hu: "Songea", ro: "Songea", en: "Songea"},
-    image: "/poi-images/tz-songea-cities-v2.webp",
     description: { de: "Das Zentrum im tiefen Süden, historisch bedeutsam durch den Maji-Maji-Aufstand.", hu: "A mélydél központja, történelmileg jelentős a Maji-Maji lázadás révén.", ro: "Centrul din sudul îndepărtat, semnificativ istoric datorită rebeliunii Maji-Maji.", en: "The center in the deep south, historically significant due to the Maji-Maji Rebellion." , es: "El centro en el sur profundo, históricamente significativo por la rebelión Maji-Maji.", pt: "O centro no extremo sul, historicamente significativo pela revolta Maji-Maji.", fr: "Le centre dans le sud profond, historiquement significatif pour la rébellion Maji-Maji."},
     facts: {
       de: ["Benannt nach einem Ngoni-Krieger.", "Wichtige Agrarregion."],
@@ -1606,7 +1593,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-03",
     coords: [37.3333, -3.3333],
     name: { de: "Moshi", hu: "Moshi", ro: "Moshi", en: "Moshi"},
-    image: "/poi-images/tz-moshi-cities-v2.webp",
     description: { de: "Die Hauptstadt des Kaffees in Tansania, direkt am Fuß des schneebedeckten Kilimandscharo.", hu: "Tanzánia kávéfővárosa, közvetlenül a hófödte Kilimandzsáró lábánál.", ro: "Capitala cafelei din Tanzania, chiar la poalele vulcanului acoperit de zăpadă Kilimanjaro.", en: "The coffee capital of Tanzania, right at the foot of the snow-capped Kilimanjaro." , es: "La capital del café en Tanzania, justo al pie del nevado Kilimanjaro.", pt: "A capital do café na Tanzânia, bem ao pé do nevado Kilimanjaro.", fr: "La capitale du café en Tanzanie, juste au pied du Kilimandjaro enneigé."},
     facts: {
       de: ["Startpunkt für Bergsteiger.", "Zentrum der Chagga-Kultur."],
@@ -1804,7 +1790,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-17",
     coords: [33.4167, -3.6667],
     name: { de: "Shinyanga", hu: "Shinyanga", ro: "Shinyanga", en: "Shinyanga"},
-    image: "/poi-images/tz-shinyanga-cities-v2.webp",
     description: { de: "Ein wichtiges Handelszentrum für Baumwolle und Rinder in den trockenen Ebenen.", hu: "Fontos kereskedelmi központ a gyapot és a szarvasmarha számára a száraz síkságokon.", ro: "Un important centru comercial pentru bumbac și vite în câmpiile uscate.", en: "An important trading center for cotton and cattle in the dry plains." , es: "Un importante centro comercial de algodón y ganado en las llanuras áridas.", pt: "Um importante centro comercial de algodão e gado nas planícies áridas.", fr: "Un centre commercial important pour le coton et le bétail dans les plaines arides."},
     facts: {
       de: ["Knotenpunkt für Diamantenbergbau.", "Große Sukuma-Population."],
@@ -1921,7 +1906,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-11",
     coords: [35.7, -7.7667],
     name: { de: "Iringa", hu: "Iringa", ro: "Iringa", en: "Iringa"},
-    image: "/poi-images/tz-iringa-cities-v2.webp",
     description: { de: "Auf einer Klippe erbaute Stadt, bekannt für ihr kühles Klima und deutsche Kolonialgeschichte.", hu: "Egy sziklára épült város, amely hűvös éghajlatáról és német gyarmati történelméről ismert.", ro: "Oraș construit pe o stâncă, cunoscut pentru clima răcoroasă și istoria colonială germană.", en: "A city built on a cliff, known for its cool climate and German colonial history." , es: "Ciudad construida sobre un acantilado, conocida por su clima fresco y su historia colonial alemana.", pt: "Cidade construída sobre uma falésia, conhecida pelo seu clima fresco e história colonial alemã.", fr: "Ville construite sur une falaise, connue pour son climat frais et son histoire coloniale allemande."},
     facts: {
       de: ["Historisches Zentrum der Hehe.", "Tor zum Ruaha-Nationalpark."],
@@ -1957,7 +1941,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-13",
     coords: [34.75, -4.8167],
     name: { de: "Singida", hu: "Singida", ro: "Singida", en: "Singida"},
-    image: "/poi-images/tz-singida-cities-v2.webp",
     description: { de: "Die Stadt der Seen, umgeben von zwei Sodaseen und bekannt für Sonnenblumenöl.", hu: "A tavak városa, két szódástóval körülvéve, és a napraforgóolajáról ismert.", ro: "Orașul lacurilor, înconjurat de două lacuri de sodiu și faimos pentru uleiul de floarea-soarelui.", en: "The city of lakes, surrounded by two soda lakes and known for sunflower oil." , es: "La ciudad de los lagos, rodeada por dos lagos salados y conocida por su aceite de girasol.", pt: "A cidade dos lagos, rodeada por dois lagos de soda e conhecida pelo seu óleo de girassol.", fr: "La ville des lacs, entourée de deux lacs de soude et connue pour son huile de tournesol."},
     facts: {
       de: ["Produziert viel Sonnenblumenöl.", "Wichtiger Eisenbahnhalt."],
@@ -1993,7 +1976,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-22",
     coords: [34.7667, -9.3333],
     name: { de: "Njombe", hu: "Njombe", ro: "Njombe", en: "Njombe"},
-    image: "/poi-images/tz-njombe-cities-v2.webp",
     description: { de: "Eine der kältesten Städte des Landes, berühmt für weitläufige Teeplantagen.", hu: "Az ország egyik leghidegebb városa, amely hatalmas teaültetvényeiről híres.", ro: "Unul dintre cele mai reci orașe din țară, faimos pentru plantațiile extinse de ceai.", en: "One of the coldest cities in the country, famous for extensive tea plantations." , es: "Una de las ciudades más frías del país, famosa por sus extensas plantaciones de té.", pt: "Uma das cidades mais frias do país, famosa pelas suas extensas plantações de chá.", fr: "L'une des villes les plus froides du pays, célèbre pour ses vastes plantations de thé."},
     facts: {
       de: ["Höchste Stadt Tansanias.", "Wichtig für Holzindustrie."],
@@ -2110,7 +2092,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-18",
     coords: [31.8167, -1.3333],
     name: { de: "Bukoba", hu: "Bukoba", ro: "Bukoba", en: "Bukoba"},
-    image: "/poi-images/tz-bukoba-cities-v2.webp",
     description: { de: "Die grüne Stadt am Westufer des Viktoriasees, umgeben von Bananen- und Kaffeefarmen.", hu: "A zöld város a Viktória-tó nyugati partján, banán- és kávéfarmokkal körülvéve.", ro: "Orașul verde de pe malul vestic al Lacului Victoria, înconjurat de ferme de banane și cafea.", en: "The green city on the western shore of Lake Victoria, surrounded by banana and coffee farms." , es: "La ciudad verde a orillas del lago Victoria, rodeada de granjas de café y plátanos.", pt: "A cidade verde às margens do lago Vitória, rodeada de quintas de café e bananas.", fr: "La ville verte au bord du lac Victoria, entourée de fermes de café et de bananes."},
     facts: {
       de: ["Zentrum des Haya-Volkes.", "Häufige Niederschläge das ganze Jahr."],
@@ -2263,7 +2244,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-06",
     coords: [38.9167, -6.7667],
     name: { de: "Kibaha", hu: "Kibaha", ro: "Kibaha", en: "Kibaha"},
-    image: "/poi-images/tz-kibaha-cities-v2.webp",
     description: { de: "Ein Bildungszentrum und Satellitenstadt nahe Dar es Salaam mit wachsender Industrie.", hu: "Dar es Salaam közeli oktatási központ és műholdváros növekvő iparral.", ro: "Un centru educațional și oraș satelit aproape de Dar es Salaam, cu o industrie în creștere.", en: "An educational center and satellite city near Dar es Salaam with growing industry." , es: "Un centro educativo y ciudad satélite cerca de Dar es Salaam con una industria en crecimiento.", pt: "Um centro educativo e cidade satélite perto de Dar es Salaam com uma indústria em crescimento.", fr: "Un centre éducatif et une ville satellite près de Dar es Salaam avec une industrie en pleine croissance."},
     facts: {
       de: ["Sitz wichtiger Schulen.", "Entlastet die Hauptstadtregion."],
@@ -2299,7 +2279,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-09",
     coords: [40.1833, -10.2667],
     name: { de: "Mtwara", hu: "Mtwara", ro: "Mtwara", en: "Mtwara"},
-    image: "/poi-images/tz-mtwara-cities-v2.webp",
     description: { de: "Die boomende Hafenstadt im Süden, getrieben von Cashewnüssen und Erdgas.", hu: "A dél fellendülő kikötővárosa, amelyet a kesudió és a földgáz hajt.", ro: "Orașul-port în plină expansiune din sud, impulsionat de caju și gaze naturale.", en: "The booming port city in the south, driven by cashew nuts and natural gas." , es: "La floreciente ciudad portuaria del sur, impulsada por los anacardos y el gas natural.", pt: "A florescente cidade portuária no sul, impulsionada pelos cajus e pelo gás natural.", fr: "La ville portuaire en plein essor du sud, portée par les noix de cajou et le gaz naturel."},
     facts: {
       de: ["Tiefwasserhafen aus der Kolonialzeit.", "Exportiert massenhaft Cashewnüsse."],
@@ -2452,7 +2431,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-22",
     coords: [34.8333, -8.85],
     name: { de: "Makambako", hu: "Makambako", ro: "Makambako", en: "Makambako"},
-    image: "/poi-images/tz-makambako-cities-v2.webp",
     description: { de: "Eine schnell wachsende Transitstadt, wo sich die TAZARA-Eisenbahn und der Tan-Zam-Highway treffen.", hu: "Gyorsan növekvő tranzitváros, ahol a TAZARA-vasút és a Tan-Zam autópálya találkozik.", ro: "Un oraș de tranzit în creștere rapidă, unde se întâlnesc calea ferată TAZARA și autostrada Tan-Zam.", en: "A fast-growing transit city where the TAZARA railway and the Tan-Zam Highway meet." , es: "Una ciudad de tránsito en rápido crecimiento donde convergen el ferrocarril TAZARA y la carretera Tan-Zam.", pt: "Uma cidade de trânsito em rápido crescimento onde se encontram a ferrovia TAZARA e a estrada Tan-Zam.", fr: "Une ville de transit en pleine expansion où se rejoignent le chemin de fer TAZARA et l'autoroute Tan-Zam."},
     facts: {
       de: ["Bekannt für den Holzhandel.", "Wichtiger Verkehrsknoten."],
@@ -2605,7 +2583,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-21",
     coords: [35.75, -4.2167],
     name: { de: "Babati", hu: "Babati", ro: "Babati", en: "Babati"},
-    image: "/poi-images/tz-babati-cities-v2.webp",
     description: { de: "Gelegen am Babatisee, eine Stadt im Rift Valley mit Blick auf den Berg Kwaraa.", hu: "A Babati-tó partján fekvő város a Hasadékvölgyben, kilátással a Kwaraa-hegyre.", ro: "Situat pe Lacul Babati, un oraș din Valea Riftului cu vedere la Muntele Kwaraa.", en: "Located on Lake Babati, a city in the Rift Valley overlooking Mount Kwaraa." , es: "Situada a orillas del lago Babati, una ciudad en el Valle del Rift con vistas al monte Kwaraa.", pt: "Situada às margens do lago Babati, uma cidade no Vale do Rift com vista para o monte Kwaraa.", fr: "Située au bord du lac Babati, une ville dans la vallée du Rift avec vue sur le mont Kwaraa."},
     facts: {
       de: ["Bekannt für Flusspferde im See.", "Zentrum der Manyara-Region."],
@@ -2677,7 +2654,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-08",
     coords: [39.7144, -9.9969],
     name: { de: "Lindi", hu: "Lindi", ro: "Lindi", en: "Lindi"},
-    image: "/poi-images/tz-lindi-cities-v2.webp",
     description: { de: "Eine ruhige und historische Küstenstadt am Indischen Ozean mit schwächerer Wirtschaft.", hu: "Csendes és történelmi tengerparti város az Indiai-óceánnál, gyengébb gazdasággal.", ro: "Un oraș de coastă liniștit și istoric la Oceanul Indian, cu o economie mai slabă.", en: "A quiet and historic coastal town on the Indian Ocean with a weaker economy." , es: "Una ciudad costera tranquila e histórica en el océano Índico con una economía más débil.", pt: "Uma cidade costeira tranquila e histórica no Oceano Índico com uma economia mais fraca.", fr: "Une ville côtière calme et historique sur l'océan Indien avec une économie plus faible."},
     facts: {
       de: ["War früher ein wichtiges Zentrum.", "Schöne unberührte Strände."],
@@ -2713,7 +2689,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-04",
     coords: [38.4833, -5.15],
     name: { de: "Korogwe", hu: "Korogwe", ro: "Korogwe", en: "Korogwe"},
-    image: "/poi-images/tz-korogwe-cities-v2.webp",
     description: { de: "Am Pangani-Fluss gelegen, eine malerische Stadt, umgeben von Sisal- und Teeplantagen.", hu: "A Pangani folyó partján fekvő festői város, szizál- és teaültetvényekkel övezve.", ro: "Situat pe râul Pangani, un oraș pitoresc înconjurat de plantații de sisal și ceai.", en: "Located on the Pangani River, a picturesque town surrounded by sisal and tea plantations." , es: "Situada en el río Pangani, es una ciudad pintoresca rodeada de plantaciones de sisal y té.", pt: "Situada no rio Pangani, é uma cidade pitoresca rodeada de plantações de sisal e chá.", fr: "Située sur la rivière Pangani, c'est une ville pittoresque entourée de plantations de sisal et de thé."},
     facts: {
       de: ["Bedeutend für Medizinforschung.", "Wichtiger Stopp an der B1-Straße."],
@@ -2749,7 +2724,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-11",
     coords: [35.2833, -8.2833],
     name: { de: "Mafinga", hu: "Mafinga", ro: "Mafinga", en: "Mafinga"},
-    image: "/poi-images/tz-mafinga-cities-v2.webp",
     description: { de: "Das Herz der tansanischen Holzindustrie, dominiert von riesigen Kiefern- und Eukalyptuswäldern.", hu: "A tanzániai faipar szíve, amelyet hatalmas fenyő- és eukaliptuszerdők uralnak.", ro: "Inima industriei lemnului din Tanzania, dominată de păduri uriașe de pini și eucalipt.", en: "The heart of Tanzania's timber industry, dominated by huge pine and eucalyptus forests." , es: "El corazón de la industria maderera de Tanzania, dominado por vastos bosques de pinos y eucaliptos.", pt: "O coração da indústria madeireira da Tanzânia, dominado por vastas florestas de pinheiros e eucaliptos.", fr: "Le cœur de l'industrie du bois en Tanzanie, dominé par de vastes forêts de pins et d'eucalyptus."},
     facts: {
       de: ["Produziert Papier und Bauholz.", "Kaltes Klima in den Bergen."],
@@ -2983,7 +2957,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-12",
     coords: [33.65, -9.25],
     name: { de: "Tukuyu", hu: "Tukuyu", ro: "Tukuyu", en: "Tukuyu"},
-    image: "/poi-images/tz-tukuyu-cities-v2.webp",
     description: { de: "Eine sehr feuchte, grüne Stadt am Fuße des Rungwe-Berges, ideal für Tee- und Kaffeeanbau.", hu: "Nagyon párás, zöld város a Rungwe-hegy lábánál, ideális tea- és kávétermesztésre.", ro: "Un oraș foarte umed și verde la poalele Muntelui Rungwe, ideal pentru cultivarea ceaiului și cafelei.", en: "A very humid, green town at the foot of Mount Rungwe, ideal for tea and coffee cultivation." , es: "Una ciudad muy húmeda y verde al pie del monte Rungwe, ideal para el cultivo de té y café.", pt: "Uma cidade muito úmida e verde ao pé do Monte Rungwe, ideal para o cultivo de chá e café.", fr: "Une ville très humide et verte au pied du mont Rungwe, idéale pour la culture du thé et du café."},
     facts: {
       de: ["Hatte früher den Namen Neu-Langenburg.", "Hat einen erloschenen Vulkan."],
@@ -3019,7 +2992,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-53",
     coords: [39.7167, -5.05],
     name: { de: "Wete", hu: "Wete", ro: "Wete", en: "Wete"},
-    image: "/poi-images/tz-wete-cities-v2.webp",
     description: { de: "Die zweitgrößte Stadt auf der Insel Pemba, bekannt für ihre traditionellen Dhaus.", hu: "Pemba szigetének második legnagyobb városa, amely hagyományos dhow hajóiról ismert.", ro: "Al doilea oraș ca mărime de pe insula Pemba, cunoscut pentru dhow-urile sale tradiționale.", en: "The second largest town on Pemba Island, known for its traditional dhows." , es: "La segunda ciudad más grande de la isla de Pemba, conocida por sus tradicionales dhows.", pt: "A segunda maior cidade da ilha de Pemba, conhecida pelos seus tradicionais dhows.", fr: "La deuxième plus grande ville de l'île de Pemba, connue pour ses dhows traditionnels."},
     facts: {
       de: ["Verwaltungszentrum von Nord-Pemba.", "Umgeben von Nelkenplantagen."],
@@ -3100,7 +3072,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-53",
     coords: [39.7667, -5.2458],
     name: { de: "Chake Chake", hu: "Chake Chake", ro: "Chake Chake", en: "Chake Chake"},
-    image: "/poi-images/tz-chake-chake-cities-v2.webp",
     description: { de: "Das geografische Zentrum von Pemba Island, oft als Inselhauptstadt angesehen.", hu: "A Pemba-sziget földrajzi központja, amelyet gyakran a sziget fővárosának tekintenek.", ro: "Centrul geografic al Insulei Pemba, considerat adesea capitala insulei.", en: "The geographical center of Pemba Island, often considered the island's capital." , es: "El centro geográfico de la isla de Pemba, a menudo considerada la capital de la isla.", pt: "O centro geográfico da ilha de Pemba, muitas vezes considerada a capital da ilha.", fr: "Le centre géographique de l'île de Pemba, souvent considérée comme la capitale de l'île."},
     facts: {
       de: ["Liegt an einer tiefen Bucht.", "Hat die ältesten Ruinen der Insel."],
@@ -3136,7 +3107,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-53",
     coords: [39.65, -5.3667],
     name: { de: "Mkoani", hu: "Mkoani", ro: "Mkoani", en: "Mkoani"},
-    image: "/poi-images/tz-mkoani-cities-v2.webp",
     description: { de: "Der wichtigste Fährhafen der Insel Pemba, der sie mit Sansibar und dem Festland verbindet.", hu: "Pemba szigetének legfontosabb kompkikötője, amely összeköti Zanzibárral és a szárazfölddel.", ro: "Cel mai important port de feribot al Insulei Pemba, conectând-o cu Zanzibar și continentul.", en: "The main ferry port of Pemba Island, connecting it to Zanzibar and the mainland." , es: "El puerto de ferris más importante de la isla de Pemba, que la conecta con Zanzíbar y el continente.", pt: "O porto de balsas mais importante da ilha de Pemba, que a conecta a Zanzibar e ao continente.", fr: "Le plus important port de ferry de l'île de Pemba, la reliant à Zanzibar et au continent."},
     facts: {
       de: ["Steil am Hügel gebaut.", "Kleiner, aber sehr belebter Ort."],
@@ -3289,7 +3259,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-03",
     coords: [37.7333, -4.0667],
     name: { de: "Same", hu: "Same", ro: "Same", en: "Same"},
-    image: "/poi-images/tz-same-cities-v2.webp",
     description: { de: "Ein wichtiger Zwischenstopp am Highway zwischen Moshi und Dar es Salaam bei den Pare-Bergen.", hu: "Fontos megállóhely a Moshi és Dar es Salaam közötti autópályán, a Pare-hegységnél.", ro: "O oprire importantă pe autostrada dintre Moshi și Dar es Salaam, lângă Munții Pare.", en: "An important stopover on the highway between Moshi and Dar es Salaam near the Pare Mountains." , es: "Una importante parada en la autopista entre Moshi y Dar es Salaam, cerca de las montañas Pare.", pt: "Uma importante paragem na autoestrada entre Moshi e Dar es Salaam, perto das montanhas Pare.", fr: "Une halte importante sur l'autoroute entre Moshi et Dar es Salaam, près des montagnes Pare."},
     facts: {
       de: ["Hauptstadt des Pare-Volkes.", "Ausgangspunkt für Bergwanderungen."],
@@ -3325,7 +3294,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-18",
     coords: [30.6558, -2.645],
     name: { de: "Ngara", hu: "Ngara", ro: "Ngara", en: "Ngara"},
-    image: "/poi-images/tz-ngara-cities-v2.webp",
     description: { de: "Eine hügelige Stadt ganz im Nordwesten, die in den 90er Jahren viele ruandische Flüchtlinge aufnahm.", hu: "Dombvidéki város a legészaknyugatibb részen, amely a 90-es években sok ruandai menekültet fogadott be.", ro: "Un oraș colinar în extremul nord-vest, care a primit mulți refugiați ruandezi în anii '90.", en: "A hilly town in the far northwest that took in many Rwandan refugees in the 90s." , es: "Una ciudad montañosa en el extremo noroeste que acogió a muchos refugiados ruandeses en los años 90.", pt: "Uma cidade montanhosa no extremo noroeste que acolheu muitos refugiados ruandeses nos anos 90.", fr: "Une ville vallonnée à l'extrême nord-ouest qui a accueilli de nombreux réfugiés rwandais dans les années 90."},
     facts: {
       de: ["Sehr nah an Ruanda.", "Abgelegene Bergregion."],
@@ -3361,7 +3329,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-09",
     coords: [38.8, -10.7167],
     name: { de: "Masasi", hu: "Masasi", ro: "Masasi", en: "Masasi"},
-    image: "/poi-images/tz-masasi-cities-v2.webp",
     description: { de: "Eine wichtige Binnenstadt im Süden, berühmt für die umgebenden markanten Granitfelsen.", hu: "Fontos szárazföldi város délen, amely a környező jellegzetes gránitsziklákról híres.", ro: "Un oraș important din interiorul sudului, faimos pentru rocile de granit proeminente din jur.", en: "An important inland city in the south, famous for the surrounding prominent granite rocks." , es: "Una importante ciudad del interior en el sur, famosa por los llamativos acantilados de granito que la rodean.", pt: "Uma importante cidade interior no sul, famosa pelos marcantes penhascos de granito que a rodeiam.", fr: "Une ville intérieure importante dans le sud, célèbre pour les falaises de granit saisissantes qui l'entourent."},
     facts: {
       de: ["Zentrum der Makua-Kultur.", "Historische Missionarsstation."],
@@ -3433,7 +3400,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-21",
     coords: [35.5333, -3.85],
     name: { de: "Mbulu", hu: "Mbulu", ro: "Mbulu", en: "Mbulu"},
-    image: "/poi-images/tz-mbulu-cities-v2.webp",
     description: { de: "Eine hoch gelegene Stadt im kraterartigen Hochland, dominiert vom Volk der Iraqw.", hu: "Magasan fekvő város a kráterszerű felvidéken, amelyet az iraqw nép ural.", ro: "Un oraș la mare altitudine pe un platou ca un crater, dominat de poporul Iraqw.", en: "A high-altitude town in the crater-like highlands, dominated by the Iraqw people." , es: "Una ciudad situada a gran altura en las tierras altas con forma de cráter, dominada por el pueblo Iraqw.", pt: "Uma cidade situada a grande altura nas terras altas em forma de cratera, dominada pelo povo Iraqw.", fr: "Une ville située en haute altitude dans les hauts plateaux en forme de cratère, dominée par le peuple Iraqw."},
     facts: {
       de: ["Das Klima ist auffällig kühl.", "Zentrum der katholischen Diözese."],
@@ -3586,7 +3552,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-06",
     coords: [38.9, -6.4333],
     name: { de: "Bagamoyo", hu: "Bagamoyo", ro: "Bagamoyo", en: "Bagamoyo"},
-    image: "/poi-images/tz-bagamoyo-cities-v2.webp",
     description: { de: "Ein altes Sklavenhandelszentrum, dessen historische Ruinen heute viele Touristen anziehen.", hu: "Egykori rabszolgakereskedelmi központ, amelynek történelmi romjai ma sok turistát vonzanak.", ro: "Un vechi centru de comerț cu sclavi, ale cărui ruine istorice atrag acum mulți turiști.", en: "An ancient slave trade center whose historical ruins now attract many tourists." , es: "Un antiguo centro de comercio de esclavos cuyas ruinas históricas atraen hoy a muchos turistas.", pt: "Um antigo centro de comércio de escravos cujas ruínas históricas atraem hoje muitos turistas.", fr: "Un ancien centre de traite des esclaves dont les ruines historiques attirent aujourd'hui de nombreux touristes."},
     facts: {
       de: ["War deutsche Kolonialhauptstadt.", "Der Name bedeutet 'Leg dein Herz nieder'."],
@@ -3622,7 +3587,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-20",
     coords: [33.8667, -2.05],
     name: { de: "Bunda", hu: "Bunda", ro: "Bunda", en: "Bunda"},
-    image: "/poi-images/tz-bunda-cities-v2.webp",
     description: { de: "Ein lebhaftes landwirtschaftliches Zentrum nahe der Serengeti, umgeben von Hügeln.", hu: "Egy nyüzsgő mezőgazdasági központ a Serengeti közelében, dombokkal körülvéve.", ro: "Un centru agricol animat lângă Serengeti, înconjurat de dealuri.", en: "A bustling agricultural center near the Serengeti, surrounded by hills." , es: "Un animado centro agrícola cerca del Serengueti, rodeado de colinas.", pt: "Um animado centro agrícola perto do Serengueti, rodeado de colinas.", fr: "Un centre agricole animé près du Serengeti, entouré de collines."},
     facts: {
       de: ["Wichtig für die Baumwollproduktion.", "Liegt auf der Route nach Mwanza."],
@@ -3658,7 +3622,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-01",
     coords: [35.7833, -4.9],
     name: { de: "Kondoa", hu: "Kondoa", ro: "Kondoa", en: "Kondoa"},
-    image: "/poi-images/tz-kondoa-cities-v2.webp",
     description: { de: "Eine zentral gelegene Stadt, die für die alten Felsmalereien in der nahen Umgebung berühmt ist.", hu: "Központi fekvésű város, amely a közelében található ősi sziklafestményekről híres.", ro: "Un oraș situat central, faimos pentru picturile rupestre antice din apropriere.", en: "A centrally located town famous for the ancient rock paintings in its vicinity." , es: "Una ciudad situada centralmente, famosa por las antiguas pinturas rupestres de sus alrededores.", pt: "Uma cidade situada centralmente, famosa pelas antigas pinturas rupestres nos seus arredores.", fr: "Une ville située au centre, célèbre pour les anciennes peintures rupestres des environs."},
     facts: {
       de: ["Kondoa-Irangi sind UNESCO-Erbe.", "Liegt in einer Halbwüstenregion."],
@@ -3991,7 +3954,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-08",
     coords: [39.4167, -8.7333],
     name: { de: "Kilwa Kivinje", hu: "Kilwa Kivinje", ro: "Kilwa Kivinje", en: "Kilwa Kivinje"},
-    image: "/poi-images/tz-kilwa-kivinje-cities-v2.webp",
     description: { de: "Ein altes Swahili-Handelszentrum mit verfallener deutscher Kolonialarchitektur an der Küste.", hu: "Régi szuahéli kereskedelmi központ omladozó német gyarmati építészettel a parton.", ro: "Un vechi centru comercial Swahili cu arhitectură colonială germană în ruină pe coastă.", en: "An old Swahili trading center with decaying German colonial architecture on the coast." , es: "Un antiguo centro comercial swahili con arquitectura colonial alemana en ruinas en la costa.", pt: "Um antigo centro comercial suaíli com arquitetura colonial alemã em ruínas na costa.", fr: "Un ancien centre commercial swahili avec une architecture coloniale allemande en ruines sur la côte."},
     facts: {
       de: ["Früherer Sklavenhafen.", "Hat viel historischen Charme."],
@@ -4216,7 +4178,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-08",
     coords: [39.5, -8.9333],
     name: { de: "Kilwa Masoko", hu: "Kilwa Masoko", ro: "Kilwa Masoko", en: "Kilwa Masoko"},
-    image: "/poi-images/tz-kilwa-masoko-cities-v2.webp",
     description: { de: "Der moderne Hub der Kilwa-Region und Sprungbrett zu den mittelalterlichen Ruinen von Kilwa Kisiwani.", hu: "A Kilwa régió modern központja és ugródeszka a középkori Kilwa Kisiwani romokhoz.", ro: "Nodul modern al regiunii Kilwa și rampa de lansare către ruinele medievale din Kilwa Kisiwani.", en: "The modern hub of the Kilwa region and stepping stone to the medieval ruins of Kilwa Kisiwani." , es: "El moderno centro de la región de Kilwa y trampolín hacia las ruinas medievales de Kilwa Kisiwani.", pt: "O moderno centro da região de Kilwa e ponto de partida para as ruínas medievais de Kilwa Kisiwani.", fr: "Le hub moderne de la région de Kilwa et tremplin vers les ruines médiévales de Kilwa Kisiwani."},
     facts: {
       de: ["Hat einen natürlichen Tiefwasserhafen.", "Zentrum für Touristen."],
@@ -4549,7 +4510,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-04",
     coords: [38.2833, -4.7833],
     name: { de: "Lushoto", hu: "Lushoto", ro: "Lushoto", en: "Lushoto"},
-    image: "/poi-images/tz-lushoto-cities-v2.webp",
     description: { de: "Der Hauptort der Usambara-Berge, bekannt für kühles Klima und spektakuläre Aussichtspunkte.", hu: "Az Usambara-hegység fő települése, amely hűvös éghajlatáról és látványos kilátóiról ismert.", ro: "Principalul oraș din Munții Usambara, cunoscut pentru clima rece și punctele de belvedere spectaculoase.", en: "The main town of the Usambara Mountains, known for its cool climate and spectacular viewpoints." , es: "La principal localidad de las montañas Usambara, conocida por su clima fresco y miradores espectaculares.", pt: "A principal localidade das montanhas Usambara, conhecida pelo clima fresco e miradouros espetaculares.", fr: "La ville principale des monts Usambara, connue pour son climat frais et ses points de vue spectaculaires."},
     facts: {
       de: ["Hieß früher Wilhelmstal.", "Ein Paradies für Wanderer."],
@@ -4666,7 +4626,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-53",
     coords: [39.5333, -6.3833],
     name: { de: "Makunduchi", hu: "Makunduchi", ro: "Makunduchi", en: "Makunduchi"},
-    image: "/poi-images/tz-makunduchi-cities-v2.webp",
     description: { de: "Die zweitgrößte Stadt auf Sansibar (Unguja), berühmt für das Mwaka Kogwa-Neujahrsfest.", hu: "Zanzibár (Unguja) második legnagyobb városa, híres a Mwaka Kogwa újévi fesztiválról.", ro: "Al doilea oraș ca mărime din Zanzibar (Unguja), faimos pentru festivalul de Anul Nou Mwaka Kogwa.", en: "The second largest town on Zanzibar (Unguja), famous for the Mwaka Kogwa New Year festival." , es: "La segunda ciudad más grande de Zanzíbar (Unguja), famosa por el festival de año nuevo Mwaka Kogwa.", pt: "A segunda maior cidade de Zanzibar (Unguja), famosa pelo festival de ano novo Mwaka Kogwa.", fr: "La deuxième plus grande ville de Zanzibar (Unguja), célèbre pour le festival du Nouvel An Mwaka Kogwa."},
     facts: {
       de: ["Liegt im Süden der Insel.", "Bewahrt alte Shirazi-Traditionen."],
@@ -4747,7 +4706,6 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     parent: "TZ-04",
     coords: [38.7833, -5.1667],
     name: { de: "Muheza", hu: "Muheza", ro: "Muheza", en: "Muheza"},
-    image: "/poi-images/tz-muheza-cities-v2.webp",
     description: { de: "Eine Durchgangsstadt nahe Tanga, die für ihre umfangreichen Orangenmärkte am Straßenrand bekannt ist.", hu: "Tanga melletti tranzitváros, amely a kiterjedt út menti narancspiacairól ismert.", ro: "Un oraș de tranzit lângă Tanga, cunoscut pentru piețele sale extinse de portocale de pe marginea drumului.", en: "A transit town near Tanga, known for its extensive roadside orange markets." , es: "Una ciudad de paso cerca de Tanga, conocida por sus extensos mercados de naranjas al borde de la carretera.", pt: "Uma cidade de passagem perto de Tanga, conhecida pelos seus extensos mercados de laranjas à beira da estrada.", fr: "Une ville de transit près de Tanga, connue pour ses vastes marchés d'oranges en bord de route."},
     facts: {
       de: ["Großes medizinisches Forschungszentrum.", "Wichtig für Gewürze und Obst."],

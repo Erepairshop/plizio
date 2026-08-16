@@ -129,7 +129,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
       hu: "Nurek-vízierőmű",
       ro: "Hidrocentrala Nurek",
       en: "Nurek Hydroelectric Power Plant"},
-    image: "/poi-images/nurek-hpp-economic-v2.webp",
     description: {
       de: "Eines der höchsten Staudammprojekte der Welt, das einen großen Teil des tadschikischen Stroms erzeugt.",
       hu: "A világ egyik legmagasabb gátja, amely Tádzsikisztán villamos energiájának jelentős részét termeli.",
@@ -193,7 +192,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
       hu: "Rogun-vízierőmű",
       ro: "Hidrocentrala Rogun",
       en: "Rogun Hydroelectric Power Plant"},
-    image: "/poi-images/rogun-hpp-economic-v2.webp",
     description: {
       de: "Ein gigantisches Staudammprojekt im Bau, das nach Fertigstellung der höchste Damm der Welt sein wird.",
       hu: "Egy hatalmas, építés alatt álló gátprojekt, amely befejezése után a világ legmagasabb gátja lesz.",
@@ -789,7 +787,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
       hu: "Zarafshon aranybánya",
       ro: "Mina de aur Zarafshon",
       en: "Zarafshon Gold Mine"},
-    image: "/poi-images/zarafshon-gold-mine-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Goldabbaugebiet in der Provinz Sughd, das maßgeblich zu den Edelmetallexporten beiträgt.",
       hu: "Jelentős aranybányászati terület Szugd tartományban, amely nagymértékben hozzájárul a nemesfém-exporthoz.",
@@ -934,7 +931,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
       hu: "Sangtuda 1 vízierőmű",
       ro: "Hidrocentrala Sangtuda 1",
       en: "Sangtuda 1 Hydroelectric Power Plant"},
-    image: "/poi-images/sangtuda-1-hpp-economic-v2.webp",
     description: {
       de: "Ein russisch-tadschikisches Gemeinschaftsprojekt am Fluss Wachsch zur Steigerung der Energiekapazität im Winter.",
       hu: "Orosz-tádzsik közös projekt a Vahs folyón a téli villamosenergia-kapacitás növelése érdekében.",
@@ -1043,7 +1039,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
       hu: "Kajrakkum vízierőmű",
       ro: "Hidrocentrala Kairakkum",
       en: "Kayrakkum Hydroelectric Power Plant"},
-    image: "/poi-images/kayrakkum-hpp-economic-v2.webp",
     description: {
       de: "Eine Talsperre am Syrdarja-Fluss im Norden Tadschikistans, die sowohl der Stromerzeugung als auch der Bewässerung dient.",
       hu: "Egy gát a Szir-darja folyón Tádzsikisztán északi részén, amely áramtermelésre és öntözésre is szolgál.",
@@ -1216,7 +1211,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
       hu: "Nizsnyij Pjandzs folyami kikötő",
       ro: "Portul Fluvial Nijni Piandj",
       en: "Nizhny Pyanj River Port"},
-    image: "/poi-images/nizhny-pyanj-port-economic-v2.webp",
     description: {
       de: "Ein wichtiger Grenzübergang und Handelshafen am Fluss Pandsch, der Tadschikistan mit Afghanistan verbindet.",
       hu: "Fontos határátkelő és kereskedelmi kikötő a Pjandzs folyón, amely összeköti Tádzsikisztánt Afganisztánnal.",
@@ -1721,7 +1715,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
       hu: "Suráb szénbánya",
       ro: "Mina de cărbune Shurab",
       en: "Shurab Coal Mine"},
-    image: "/poi-images/shurab-coal-mine-economic-v2.webp",
     description: {
       de: "Eine der ältesten Kohlebergbausiedlungen Tadschikistans, die eine lokale Energiequelle darstellt.",
       hu: "Tádzsikisztán egyik legrégebbi szénbányászati települése, amely a helyi energiaellátás fontos forrása.",
@@ -1902,7 +1895,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
       hu: "Khudzsand selyemgyár",
       ro: "Fabrica de Mătase Khujand",
       en: "Khujand Silk Factory"},
-    image: "/poi-images/khujand-silk-factory-economic-v2.webp",
     description: {
       de: "Eine historische Textilfabrik in der Region Sughd, die für die Verarbeitung traditioneller tadschikischer Seide bekannt ist.",
       hu: "Történelmi textilgyár Szugd régióban, amely a hagyományos tádzsik selyem feldolgozásáról ismert.",
@@ -2047,7 +2039,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
       hu: "Danghara szabadkereskedelmi övezet",
       ro: "Zona Economică Liberă Danghara",
       en: "Danghara Free Economic Zone"},
-    image: "/poi-images/danghara-fez-economic-v2.webp",
     description: {
       de: "Ein staatlich gefördertes Industriegebiet zur Anziehung ausländischer Investitionen im Textil- und Bausektor.",
       hu: "Államilag támogatott ipari terület, amelynek célja a külföldi befektetések vonzása a textil- és építőiparba.",
@@ -2228,7 +2219,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
       hu: "Pjandzs szabadkereskedelmi övezet",
       ro: "Zona Economică Liberă Panj",
       en: "Panj Free Economic Zone"},
-    image: "/poi-images/panj-fez-economic-v2.webp",
     description: {
       de: "Eine wirtschaftliche Sonderzone nahe der afghanischen Grenze, die auf Logistik und grenzüberschreitenden Handel ausgerichtet ist.",
       hu: "Az afgán határ közelében található különleges gazdasági övezet, amely a logisztikára és a határokon átnyúló kereskedelemre összpontosít.",
@@ -2661,7 +2651,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
       hu: "Szugd szabadkereskedelmi övezet",
       ro: "Zona Economică Liberă Sughd",
       en: "Sughd Free Economic Zone"},
-    image: "/poi-images/sughd-fez-economic-v2.webp",
     description: {
       de: "Ein Industriecluster in der Nähe von Chudschand, das kleine und mittlere Unternehmen im Norden des Landes unterstützt.",
       hu: "Ipari klaszter Khudzsand közelében, amely az északi országrész kis- és középvállalkozásait támogatja.",
@@ -2725,7 +2714,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
       hu: "Iskasim szabadkereskedelmi övezet",
       ro: "Zona Economică Liberă Ishkashim",
       en: "Ishkashim Free Economic Zone"},
-    image: "/poi-images/ishkashim-fez-economic-v2.webp",
     description: {
       de: "Ein Handelszentrum im Pamir-Gebirge, das den Austausch zwischen Tadschikistan und der afghanischen Region Badachschan erleichtert.",
       hu: "Kereskedelmi központ a Pamír-hegységben, amely megkönnyíti Tádzsikisztán és az afgán Badahsán régió közötti árucserét.",
@@ -2834,7 +2822,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
       hu: "Dusanbe hőerőmű",
       ro: "Centrala Termoelectrică Dushanbe",
       en: "Dushanbe Thermal Power Plant"},
-    image: "/poi-images/dushanbe-tpp-economic-v2.webp",
     description: {
       de: "Ein wichtiges kohlebefeuertes Kraftwerk, das die Hauptstadt während der kalten Wintermonate mit Strom und Fernwärme versorgt.",
       hu: "Fontos széntüzelésű erőmű, amely a hideg téli hónapokban árammal és távhővel látja el a fővárost.",
@@ -2979,7 +2966,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
       hu: "Takob fluoritbánya",
       ro: "Mina de fluorină Takob",
       en: "Takob Fluorite Mine"},
-    image: "/poi-images/takob-fluorite-mine-economic-v2.webp",
     description: {
       de: "Ein historisches Bergbaugebiet nördlich von Duschanbe, das für die Gewinnung von Flussspat (Fluorit) bekannt ist.",
       hu: "Történelmi bányászati terület Dusanbétől északra, amely a pátpát (fluorit) kinyeréséről ismert.",
@@ -3043,7 +3029,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
       hu: "Pakrut aranybánya",
       ro: "Mina de aur Pakrut",
       en: "Pakrut Gold Mine"},
-    image: "/poi-images/pakrut-gold-mine-economic-v2.webp",
     description: {
       de: "Ein hochmodernes Goldabbauprojekt in den Bergen nahe Vahdat, das durch ausländische Direktinvestitionen betrieben wird.",
       hu: "Ultramodern aranybányászati projekt a Vahdat közeli hegyekben, amelyet közvetlen külföldi tőkebefektetéssel működtetnek.",
@@ -3107,7 +3092,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
       hu: "Adraszmon ólom- és cinkbánya",
       ro: "Mina de plumb și zinc Adrasmon",
       en: "Adrasmon Lead-Zinc Mine"},
-    image: "/poi-images/adrasmon-lead-zinc-mine-economic-v2.webp",
     description: {
       de: "Ein Bergbaukomplex im Norden Tadschikistans, der Erze für den industriellen Export fördert und aufbereitet.",
       hu: "Bányászati komplexum Észak-Tádzsikisztánban, amely ipari exportra bányászik és dolgoz fel érceket.",
@@ -3288,7 +3272,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
       hu: "Dusanbe cementgyár",
       ro: "Fabrica de Ciment Dushanbe",
       en: "Dushanbe Cement Plant"},
-    image: "/poi-images/dushanbe-cement-plant-economic-v2.webp",
     description: {
       de: "Ein entscheidender Baustoffproduzent, der den Bauboom in der Hauptstadt und die Infrastrukturprojekte des Landes unterstützt.",
       hu: "Kulcsfontosságú építőanyag-gyártó, amely támogatja a fővárosi építőipari fellendülést és az országos infrastrukturális projekteket.",

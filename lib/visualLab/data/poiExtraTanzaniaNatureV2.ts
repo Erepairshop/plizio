@@ -8,7 +8,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-14",
     coords: [33.0, -1.0],
     name: { de: "Victoriasee", hu: "Viktória-tó", ro: "Lacul Victoria", en: "Lake Victoria"},
-    image: "/poi-images/victoria-see-nature-v2.webp",
     description: { de: "Der größte See Afrikas.", hu: "Afrika legnagyobb tava.", ro: "Cel mai mare lac din Africa.", en: "The largest lake in Africa." , es: "El lago más grande de África.", pt: "O maior lago de África.", fr: "Le plus grand lac d'Afrique."},
     facts: {
       de: ["Er ist der zweitgrößte Süßwassersee der Erde.", "Er grenzt an drei Länder.", "Der Nil entspringt hier.", "Er ist ein bedeutendes Ökosystem."],
@@ -44,7 +43,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-07",
     coords: [29.6, -6.0],
     name: { de: "Tanganjikasee", hu: "Tanganyika-tó", ro: "Lacul Tanganyika", en: "Lake Tanganyika"},
-    image: "/poi-images/tanganyika-see-nature-v2.webp",
     description: { de: "Der tiefste See Afrikas.", hu: "Afrika legmélyebb tava.", ro: "Cel mai adânc lac din Africa.", en: "The deepest lake in Africa." , es: "El lago más profundo de África.", pt: "O lago mais profundo de África.", fr: "Le lac le plus profond d'Afrique."},
     facts: {
       de: ["Er ist der zweittiefste See der Erde.", "Er enthält riesige Wassermengen.", "Er liegt im Ostafrikanischen Graben.", "Er ist sehr lang."],
@@ -80,7 +78,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-08",
     coords: [34.5, -7.5],
     name: { de: "Großer Ruaha", hu: "Nagy-Ruaha", ro: "Marele Ruaha", en: "Great Ruaha River"},
-    image: "/poi-images/ruaha-fluss-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss in Tansania.", hu: "Tanzánia egyik jelentős folyója.", ro: "Un râu important din Tanzania.", en: "A major river in Tanzania." , es: "Un río importante en Tanzania.", pt: "Um rio importante na Tanzânia.", fr: "Une rivière importante en Tanzanie."},
     facts: {
       de: ["Er fließt durch den Ruaha-Nationalpark.", "Er ist ein Nebenfluss des Rufiji.", "Der Wasserstand variiert stark.", "Er unterstützt die Tierwelt."],
@@ -269,7 +266,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-01",
     coords: [37.5, -9.0],
     name: { de: "Selous-Wald", hu: "Selous-erdő", ro: "Pădurea Selous", en: "Selous Forest"},
-    image: "/poi-images/selous-wald-nature-v2.webp",
     description: { de: "Ein bedeutendes Waldgebiet.", hu: "Jelentős erdőterület.", ro: "O zonă forestieră importantă.", en: "A major forest area." , es: "Un importante área forestal.", pt: "Uma importante área florestal.", fr: "Une zone forestière importante."},
     facts: {
       de: ["Es gehört zum Selous-Wildreservat.", "Es ist sehr groß.", "Es beherbergt viele Tierarten.", "Die Vegetation ist vielfältig."],
@@ -305,7 +301,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-01",
     coords: [39.0, -8.0],
     name: { de: "Rufiji", hu: "Rufiji", ro: "Rufiji", en: "Rufiji River"},
-    image: "/poi-images/rufiji-fluss-nature-v2.webp",
     description: { de: "Der größte Fluss Tansanias.", hu: "Tanzánia legnagyobb folyója.", ro: "Cel mai mare râu din Tanzania.", en: "The largest river in Tanzania." , es: "El río más grande de Tanzania.", pt: "O maior rio da Tanzânia.", fr: "Le plus grand fleuve de Tanzanie."},
     facts: {
       de: ["Er mündet in den Indischen Ozean.", "Er hat ein großes Delta.", "Er ist wirtschaftlich wichtig.", "Er ist ein Hauptfluss Tansanias."],
@@ -346,7 +341,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-15",
     coords: [39.75, -5.25],
     name: { de: "Pemba-Insel", hu: "Pemba-sziget", ro: "Insula Pemba", en: "Pemba Island"},
-    image: "/poi-images/pemba-insel-nature-v2.webp",
     description: { de: "Eine Gewürzinsel in Tansania.", hu: "Fűszersziget Tanzániában.", ro: "O insulă a mirodeniilor în Tanzania.", en: "A spice island in Tanzania." , es: "Una isla de especias en Tanzania.", pt: "Uma ilha de especiarias na Tanzânia.", fr: "Une île aux épices en Tanzanie."},
     facts: {
       de: ["Sie gehört zum Sansibar-Archipel.", "Sie ist bekannt für Nelken.", "Die Insel ist sehr fruchtbar.", "Das Tauchen ist dort beliebt."],
@@ -382,7 +376,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-08",
     coords: [34.5, -11.5],
     name: { de: "Malawisee", hu: "Malawi-tó", ro: "Lacul Malawi", en: "Lake Malawi"},
-    image: "/poi-images/malawi-see-nature-v2.webp",
     description: { de: "Ein bedeutender See im Süden.", hu: "Jelentős tó délen.", ro: "Un lac important în sud.", en: "A major lake in the south." , es: "Un lago importante en el sur.", pt: "Um lago importante no sul.", fr: "Un lac important dans le sud."},
     facts: {
       de: ["Er ist tief und lang.", "Er liegt in einem Grabenbruch.", "Die Fischvielfalt ist gigantisch.", "Er grenzt an Tansania."],
@@ -607,7 +600,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-01",
     coords: [39.5, -6.5],
     name: { de: "Indischer Ozean Küste", hu: "Indiai-óceán partvidék", ro: "Coasta Oceanului Indian", en: "Indian Ocean Coast"},
-    image: "/poi-images/indischer-ozean-kueste-nature-v2.webp",
     description: { de: "Die weite Küstenlinie Tansanias.", hu: "Tanzánia hosszú partvidéke.", ro: "Lunga linie de coastă a Tanzaniei.", en: "The long coastline of Tanzania." , es: "La extensa costa de Tanzania.", pt: "A vasta costa da Tanzânia.", fr: "La vaste côte de la Tanzanie."},
     facts: {
       de: ["Sie bietet viele Strände.", "Der Korallenreichtum ist hoch.", "Sie ist wichtig für den Tourismus.", "Das Klima ist tropisch."],
@@ -643,7 +635,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-02",
     coords: [36.75, -3.25],
     name: { de: "Mount Meru", hu: "Meru-hegy", ro: "Muntele Meru", en: "Mount Meru"},
-    image: "/poi-images/meru-berg-nature-v2.webp",
     description: { de: "Ein aktiver Vulkan in Tansania.", hu: "Aktív vulkán Tanzániában.", ro: "Un vulcan activ în Tanzania.", en: "An active volcano in Tanzania." , es: "Un volcán activo en Tanzania.", pt: "Um vulcão ativo na Tanzânia.", fr: "Un volcan actif en Tanzanie."},
     facts: {
       de: ["Er ist der zweithöchste Berg Tansanias.", "Er liegt im Arusha-Nationalpark.", "Er ist ein Schichtvulkan.", "Die Aussicht ist spektakulär."],
@@ -679,7 +670,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-02",
     coords: [36.0, -2.5],
     name: { de: "Natronsee", hu: "Natron-tó", ro: "Lacul Natron", en: "Lake Natron"},
-    image: "/poi-images/natron-see-nature-v2.webp",
     description: { de: "Ein alkalischer Salzsee.", hu: "Lúgos sós tó.", ro: "Un lac sărat alcalin.", en: "An alkaline salt lake." , es: "Un lago salino alcalino.", pt: "Um lago salino alcalino.", fr: "Un lac salin alcalin."},
     facts: {
       de: ["Er ist für Flamingos bekannt.", "Der Wasserstand schwankt sehr.", "Er ist ein vulkanisches Gebiet.", "Das Wasser ist extrem alkalisch."],
@@ -715,7 +705,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-02",
     coords: [35.0, -3.5],
     name: { de: "Eyasisee", hu: "Eyasi-tó", ro: "Lacul Eyasi", en: "Lake Eyasi"},
-    image: "/poi-images/eyasi-see-nature-v2.webp",
     description: { de: "Ein flacher Salzsee im Grabenbruch.", hu: "Sekély sós tó az árokban.", ro: "Un lac sărat puțin adânc în vale.", en: "A shallow salt lake in the rift valley." , es: "Un lago salino poco profundo en el Rift.", pt: "Um lago salgado raso no Vale do Rift.", fr: "Un lac salé peu profond dans le Rift."},
     facts: {
       de: ["Er liegt im Hochland.", "Er ist saisonabhängig.", "Die Umgebung ist sehr trocken.", "Er ist für die Hadza bekannt."],
@@ -751,7 +740,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-05",
     coords: [38.5, -4.75],
     name: { de: "Usambara-Berge", hu: "Usambara-hegység", ro: "Munții Usambara", en: "Usambara Mountains"},
-    image: "/poi-images/usambara-berge-nature-v2.webp",
     description: { de: "Ein Gebirge im Nordosten.", hu: "Hegység északkeleten.", ro: "Un lanț muntos în nord-est.", en: "A mountain range in the northeast." , es: "Una cadena montañosa en el noreste.", pt: "Uma cadeia montanhosa no nordeste.", fr: "Une chaîne de montagnes dans le nord-est."},
     facts: {
       de: ["Sie sind reich an Biodiversität.", "Das Klima ist angenehm.", "Es gibt viele endemische Arten.", "Die Landschaft ist grün."],
@@ -787,7 +775,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-01",
     coords: [38.5, -6.5],
     name: { de: "Ruvu", hu: "Ruvu", ro: "Ruvu", en: "Ruvu River"},
-    image: "/poi-images/ruvu-fluss-nature-v2.webp",
     description: { de: "Ein Fluss, der in den Ozean mündet.", hu: "Folyó, amely az óceánba torkollik.", ro: "Un râu care se varsă în ocean.", en: "A river that flows into the ocean." , es: "Un río que desemboca en el océano.", pt: "Um rio que desagua no oceano.", fr: "Un fleuve qui se jette dans l'océan."},
     facts: {
       de: ["Er ist wichtig für Dar es Salaam.", "Er durchquert weite Ebenen.", "Die Vegetation am Ufer ist dicht.", "Er ist für die Landwirtschaft wichtig."],
@@ -868,7 +855,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-06",
     coords: [33.0, -5.0],
     name: { de: "Wanyamwezi-Wald", hu: "Wanyamwezi-erdő", ro: "Pădurea Wanyamwezi", en: "Wanyamwezi Forest"},
-    image: "/poi-images/wanyamwezi-wald-nature-v2.webp",
     description: { de: "Ein großes Waldgebiet in Zentraltansania.", hu: "Nagy erdőterület Közép-Tanzániában.", ro: "O zonă forestieră mare în centrul Tanzaniei.", en: "A large forest area in central Tanzania." , es: "Un gran bosque en el centro de Tanzania.", pt: "Uma grande floresta no centro da Tanzânia.", fr: "Une grande forêt dans le centre de la Tanzanie."},
     facts: {
       de: ["Er ist sehr naturbelassen.", "Die Bäume sind typisch für die Region.", "Er bietet Lebensraum für Vögel.", "Das Klima ist trocken-tropisch."],
@@ -949,7 +935,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-02",
     coords: [34.75, -2.5],
     name: { de: "Serengeti Ebene", hu: "Serengeti-síkság", ro: "Câmpia Serengeti", en: "Serengeti Plains"},
-    image: "/poi-images/serengeti-steppenebene-nature-v2.webp",
     description: { de: "Ein riesiges Ökosystem.", hu: "Hatalmas ökoszisztéma.", ro: "Un ecosistem vast.", en: "A vast ecosystem." , es: "Un ecosistema gigantesco.", pt: "Um ecossistema gigantesco.", fr: "Un écosystème gigantesque."},
     facts: {
       de: ["Es ist weltweit bekannt.", "Die jährliche Migration findet hier statt.", "Die Savanne ist unendlich.", "Es ist ein Nationalpark."],
@@ -1066,7 +1051,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-02",
     coords: [35.8, -3.6],
     name: { de: "Manyarasee", hu: "Manyara-tó", ro: "Lacul Manyara", en: "Lake Manyara"},
-    image: "/poi-images/manyara-see-nature-v2.webp",
     description: { de: "Ein See im Grabenbruch.", hu: "Tó az árokban.", ro: "Un lac în valea de rift.", en: "A lake in the rift valley." , es: "Un lago en el Rift.", pt: "Um lago no Vale do Rift.", fr: "Un lac dans le Rift."},
     facts: {
       de: ["Er ist für Kletterlöwen bekannt.", "Er ist ein Sodasee.", "Die Flamingos sind häufig hier.", "Der See ist sehr flach."],
@@ -1102,7 +1086,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-08",
     coords: [32.5, -8.0],
     name: { de: "Rukwasee", hu: "Rukwa-tó", ro: "Lacul Rukwa", en: "Lake Rukwa"},
-    image: "/poi-images/rukuwa-see-nature-v2.webp",
     description: { de: "Ein großer, alkalischer See.", hu: "Nagy, lúgos tó.", ro: "Un lac mare, alcalin.", en: "A large, alkaline lake." , es: "Un lago grande y alcalino.", pt: "Um lago grande e alcalino.", fr: "Un grand lac alcalin."},
     facts: {
       de: ["Er liegt im Südwesten.", "Der Wasserstand schwankt stark.", "Er ist in einem Grabenbruch gelegen.", "Er ist ein wichtiges Feuchtgebiet."],
@@ -1138,7 +1121,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-01",
     coords: [36.5, -8.5],
     name: { de: "Kilombero", hu: "Kilombero", ro: "Kilombero", en: "Kilombero River"},
-    image: "/poi-images/kilombero-fluss-nature-v2.webp",
     description: { de: "Ein Fluss in Tansania.", hu: "Folyó Tanzániában.", ro: "Un râu în Tanzania.", en: "A river in Tanzania." , es: "Un río en Tanzania.", pt: "Um rio na Tanzânia.", fr: "Une rivière en Tanzanie."},
     facts: {
       de: ["Er speist die Rufiji-Flüsse.", "Das Kilombero-Tal ist fruchtbar.", "Er ist für die Landwirtschaft wichtig.", "Es gibt viele Sümpfe."],
@@ -1255,7 +1237,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-05",
     coords: [38.5, -5.5],
     name: { de: "Pangani", hu: "Pangani", ro: "Pangani", en: "Pangani River"},
-    image: "/poi-images/pangani-fluss-nature-v2.webp",
     description: { de: "Ein wichtiger Fluss im Norden.", hu: "Fontos folyó északon.", ro: "Un râu important în nord.", en: "A major river in the north." , es: "Un río importante en el norte.", pt: "Um rio importante no norte.", fr: "Une rivière importante dans le nord."},
     facts: {
       de: ["Er fließt aus dem Kilimandscharo-Gebiet.", "Er ist für die Bewässerung wichtig.", "Er mündet in den Ozean.", "Die Stromerzeugung erfolgt hier."],
@@ -1363,7 +1344,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-16",
     coords: [29.6, -4.75],
     name: { de: "Gombe-Wald", hu: "Gombe-erdő", ro: "Pădurea Gombe", en: "Gombe Forest"},
-    image: "/poi-images/gombe-wald-nature-v2.webp",
     description: { de: "Ein berühmter Wald für Schimpansen.", hu: "Híres erdő csimpánzok számára.", ro: "O pădure faimoasă pentru cimpanzei.", en: "A famous forest for chimpanzees." , es: "Un bosque famoso por los chimpancés.", pt: "Uma floresta famosa pelos chimpanzés.", fr: "Une forêt célèbre pour les chimpanzés."},
     facts: {
       de: ["Jane Goodall forschte hier.", "Es ist der Gombe-Stream-Nationalpark.", "Die Waldgebiete sind geschützt.", "Es ist sehr dicht."],
@@ -1480,7 +1460,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-17",
     coords: [30.0, -1.5],
     name: { de: "Ruwenzori-Ausläufer", hu: "Ruwenzori-nyúlványok", ro: "Piemontul Ruwenzori", en: "Ruwenzori Foothills"},
-    image: "/poi-images/ruwenzori-auslaeufer-nature-v2.webp",
     description: { de: "Bergiges Gelände im Nordwesten.", hu: "Hegyvidéki terep északnyugaton.", ro: "Teren muntos în nord-vest.", en: "Mountainous terrain in the northwest." , es: "Terreno montañoso en el noroeste.", pt: "Terreno montanhoso no noroeste.", fr: "Terrain montagneux au nord-ouest."},
     facts: {
       de: ["Sie sind Teil eines größeren Gebirges.", "Die Vegetation ist üppig.", "Das Gelände ist rau.", "Es gibt viele Wasserfälle."],
@@ -1516,7 +1495,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-05",
     coords: [38.75, -5.0],
     name: { de: "Bonde-Wald", hu: "Bonde-erdő", ro: "Pădurea Bonde", en: "Bonde Forest"},
-    image: "/poi-images/bonde-wald-nature-v2.webp",
     description: { de: "Ein kleineres Waldgebiet im Osten.", hu: "Kisebb erdőterület keleten.", ro: "O zonă forestieră mai mică în est.", en: "A smaller forest area in the east." , es: "Una zona forestal más pequeña en el este.", pt: "Uma área florestal menor no leste.", fr: "Une zone forestière plus petite dans l'est."},
     facts: {
       de: ["Es ist ein Schutzgebiet.", "Die Baumvielfalt ist hoch.", "Das Klima ist feucht.", "Es gibt seltene Vogelarten."],
@@ -1741,7 +1719,6 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
     parent: "TZ-01",
     coords: [39.25, -6.65],
     name: { de: "Bongoyo-Insel", hu: "Bongoyo-sziget", ro: "Insula Bongoyo", en: "Bongoyo Island"},
-    image: "/poi-images/bongoyo-insel-nature-v2.webp",
     description: { de: "Eine kleine Insel bei Daressalam.", hu: "Kis sziget Dar es Salaam közelében.", ro: "O insulă mică lângă Dar es Salaam.", en: "A small island near Dar es Salaam." , es: "Una pequeña isla cerca de Dar es Salaam.", pt: "Uma pequena ilha perto de Dar es Salaam.", fr: "Une petite île près de Dar es Salaam."},
     facts: {
       de: ["Sie gehört zum Marine-Reservat.", "Sie ist ein beliebtes Ausflugsziel.", "Die Strände sind schön.", "Das Wasser ist klar."],

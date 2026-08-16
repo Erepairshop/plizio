@@ -129,7 +129,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Abidjan",
       ro: "Abidjan",
       en: "Abidjan"},
-    image: "/poi-images/abidjan-cities-v2.webp",
     description: {
       de: "Wirtschaftsmetropole der Elfenbeinküste.",
       hu: "Elefántcsontpart gazdasági központja.",
@@ -176,7 +175,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Yamoussoukro",
       ro: "Yamoussoukro",
       en: "Yamoussoukro"},
-    image: "/poi-images/yamoussoukro-cities-v2.webp",
     description: {
       de: "Die politische Hauptstadt des Landes.",
       hu: "Az ország politikai fővárosa.",
@@ -262,7 +260,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Bouaké",
       ro: "Bouaké",
       en: "Bouaké"},
-    image: "/poi-images/bouak-cities-v2.webp",
     description: {
       de: "Die zweitgrößte Stadt des Landes.",
       hu: "Az ország második legnagyobb városa.",
@@ -355,7 +352,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Daloa",
       ro: "Daloa",
       en: "Daloa"},
-    image: "/poi-images/daloa-cities-v2.webp",
     description: {
       de: "Ein wichtiges Zentrum für den Kakaoanbau.",
       hu: "Fontos központja a kakaótermesztésnek.",
@@ -403,7 +399,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "San-Pédro",
       ro: "San-Pédro",
       en: "San-Pédro"},
-    image: "/poi-images/san-p-dro-cities-v2.webp",
     description: {
       de: "Besitzt den zweitgrößten Hafen der Elfenbeinküste.",
       hu: "Elefántcsontpart második legnagyobb kikötőjével rendelkezik.",
@@ -456,7 +451,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Korhogo",
       ro: "Korhogo",
       en: "Korhogo"},
-    image: "/poi-images/korhogo-cities-v2.webp",
     description: {
       de: "Die größte Stadt im Norden des Landes.",
       hu: "Az ország északi részének legnagyobb városa.",
@@ -549,7 +543,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Man",
       ro: "Man",
       en: "Man"},
-    image: "/poi-images/man-cities-v2.webp",
     description: {
       de: "Bekannt als die Stadt der 18 Berge.",
       hu: "A 18 hegy városaként ismert.",
@@ -597,7 +590,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Divo",
       ro: "Divo",
       en: "Divo"},
-    image: "/poi-images/divo-cities-v2.webp",
     description: {
       de: "Ein regionales Zentrum in der Gôh-Djiboua-Region.",
       hu: "Regionális központ a Gôh-Djiboua régióban.",
@@ -690,7 +682,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Gagnoa",
       ro: "Gagnoa",
       en: "Gagnoa"},
-    image: "/poi-images/gagnoa-cities-v2.webp",
     description: {
       de: "Ein bedeutendes landwirtschaftliches Zentrum im Süden.",
       hu: "Jelentős mezőgazdasági központ délen.",
@@ -743,7 +734,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Abengourou",
       ro: "Abengourou",
       en: "Abengourou"},
-    image: "/poi-images/abengourou-cities-v2.webp",
     description: {
       de: "Der historische Sitz des Indénié-Königreichs.",
       hu: "Az Indénié királyság történelmi központja.",
@@ -791,7 +781,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Agboville",
       ro: "Agboville",
       en: "Agboville"},
-    image: "/poi-images/agboville-cities-v2.webp",
     description: {
       de: "Ehemalige Kolonialstadt und Zentrum der Abbey-Kultur.",
       hu: "Korábbi gyarmati város és az Abbey kultúra központja.",
@@ -956,7 +945,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Grand-Bassam",
       ro: "Grand-Bassam",
       en: "Grand-Bassam"},
-    image: "/poi-images/grand-bassam-cities-v2.webp",
     description: {
       de: "Die historische erste Hauptstadt der Elfenbeinküste.",
       hu: "Elefántcsontpart történelmi első fővárosa.",
@@ -1004,7 +992,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Anyama",
       ro: "Anyama",
       en: "Anyama"},
-    image: "/poi-images/anyama-cities-v2.webp",
     description: {
       de: "Ein nördlicher Vorort von Abidjan.",
       hu: "Abidjan egyik északi külvárosa.",
@@ -1097,7 +1084,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Dabou",
       ro: "Dabou",
       en: "Dabou"},
-    image: "/poi-images/dabou-cities-v2.webp",
     description: {
       de: "Eine Stadt westlich von Abidjan nahe der Küste.",
       hu: "Város Abidjantól nyugatra a part közelében.",
@@ -1145,7 +1131,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Soubré",
       ro: "Soubré",
       en: "Soubré"},
-    image: "/poi-images/soubr-cities-v2.webp",
     description: {
       de: "Zentrum der größten Kakaoproduktionsregion des Landes.",
       hu: "Az ország legnagyobb kakaótermelő régiójának központja.",
@@ -1238,7 +1223,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Ferkessédougou",
       ro: "Ferkessédougou",
       en: "Ferkessédougou"},
-    image: "/poi-images/ferkess-dougou-cities-v2.webp",
     description: {
       de: "Ein wichtiger Verkehrsknotenpunkt im Norden.",
       hu: "Fontos közlekedési csomópont északon.",
@@ -1286,7 +1270,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Tiassalé",
       ro: "Tiassalé",
       en: "Tiassalé"},
-    image: "/poi-images/tiassal-cities-v2.webp",
     description: {
       de: "Bekannt für seine Brücke über den Bandama-Fluss.",
       hu: "A Bandama-folyó feletti hídjáról ismert.",
@@ -1334,7 +1317,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Issia",
       ro: "Issia",
       en: "Issia"},
-    image: "/poi-images/issia-cities-v2.webp",
     description: {
       de: "Eine aufstrebende Stadt in der Region Haut-Sassandra.",
       hu: "Feltörekvő város a Haut-Sassandra régióban.",
@@ -1430,7 +1412,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Guiglo",
       ro: "Guiglo",
       en: "Guiglo"},
-    image: "/poi-images/guiglo-cities-v2.webp",
     description: {
       de: "Liegt in einer waldreichen Region im Westen.",
       hu: "Egy erdős régióban fekszik nyugaton.",
@@ -1483,7 +1464,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Odienné",
       ro: "Odienné",
       en: "Odienné"},
-    image: "/poi-images/odienn-cities-v2.webp",
     description: {
       de: "Die bedeutendste Stadt im Nordwesten.",
       hu: "A legjelentősebb város északnyugaton.",
@@ -1576,7 +1556,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Katiola",
       ro: "Katiola",
       en: "Katiola"},
-    image: "/poi-images/katiola-cities-v2.webp",
     description: {
       de: "Berühmt für seine traditionelle Töpferei.",
       hu: "Hagyományos fazekasságáról híres.",
@@ -1624,7 +1603,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Boundiali",
       ro: "Boundiali",
       en: "Boundiali"},
-    image: "/poi-images/boundiali-cities-v2.webp",
     description: {
       de: "Ein landwirtschaftliches Zentrum im Savannen-Distrikt.",
       hu: "Mezőgazdasági központ a szavanna térségben.",
@@ -1765,7 +1743,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Bingerville",
       ro: "Bingerville",
       en: "Bingerville"},
-    image: "/poi-images/bingerville-cities-v2.webp",
     description: {
       de: "Ehemalige Hauptstadt der Kolonialzeit.",
       hu: "Korábbi gyarmati főváros.",
@@ -1906,7 +1883,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Bouna",
       ro: "Bouna",
       en: "Bouna"},
-    image: "/poi-images/bouna-cities-v2.webp",
     description: {
       de: "Liegt nahe dem Comoé-Nationalpark im Osten.",
       hu: "A keleten fekvő Comoé Nemzeti Park közelében található.",
@@ -1999,7 +1975,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Oumé",
       ro: "Oumé",
       en: "Oumé"},
-    image: "/poi-images/oum-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Region Gôh mit landwirtschaftlicher Prägung.",
       hu: "Mezőgazdasági jellegű város a Gôh régióban.",
@@ -2047,7 +2022,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Duékoué",
       ro: "Duékoué",
       en: "Duékoué"},
-    image: "/poi-images/du-kou-cities-v2.webp",
     description: {
       de: "Ein Handelsknotenpunkt im Westen des Landes.",
       hu: "Kereskedelmi csomópont az ország nyugati részén.",
@@ -2140,7 +2114,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Tengréla",
       ro: "Tengréla",
       en: "Tengréla"},
-    image: "/poi-images/tengr-la-cities-v2.webp",
     description: {
       de: "Die nördlichste Stadt der Elfenbeinküste an der Grenze zu Mali.",
       hu: "Elefántcsontpart legészakibb városa, a mali határnál.",
@@ -2188,7 +2161,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Arrah",
       ro: "Arrah",
       en: "Arrah"},
-    image: "/poi-images/arrah-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Moronou-Region.",
       hu: "Város a Moronou régióban.",
@@ -2236,7 +2208,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Sinfra",
       ro: "Sinfra",
       en: "Sinfra"},
-    image: "/poi-images/sinfra-cities-v2.webp",
     description: {
       de: "Eine multiethnische Stadt in der Marahoué-Region.",
       hu: "Többnemzetiségű város a Marahoué régióban.",
@@ -2284,7 +2255,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "M'Batto",
       ro: "M'Batto",
       en: "M'Batto"},
-    image: "/poi-images/m-batto-cities-v2.webp",
     description: {
       de: "Bekannt für seine vielfältige Landwirtschaft.",
       hu: "Sokszínű mezőgazdaságáról ismert.",
@@ -2380,7 +2350,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Aboisso",
       ro: "Aboisso",
       en: "Aboisso"},
-    image: "/poi-images/aboisso-cities-v2.webp",
     description: {
       de: "Eine Grenzstadt auf dem Weg nach Ghana.",
       hu: "Határváros a Ghána felé vezető úton.",
@@ -2476,7 +2445,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Bonoua",
       ro: "Bonoua",
       en: "Bonoua"},
-    image: "/poi-images/bonoua-cities-v2.webp",
     description: {
       de: "Berühmt für ihr jährliches Popo-Karnevalsfest.",
       hu: "Az éves Popo karneváli fesztiváljáról híres.",
@@ -2569,7 +2537,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Tabou",
       ro: "Tabou",
       en: "Tabou"},
-    image: "/poi-images/tabou-cities-v2.webp",
     description: {
       de: "Die westlichste Stadt an der ivorischen Küste.",
       hu: "Az elefántcsontparti partvidék legnyugatibb városa.",
@@ -2617,7 +2584,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Grand-Lahou",
       ro: "Grand-Lahou",
       en: "Grand-Lahou"},
-    image: "/poi-images/grand-lahou-cities-v2.webp",
     description: {
       de: "Eine malerische Stadt zwischen Ozean und Lagune.",
       hu: "Festői város az óceán és a lagúna között.",
@@ -2758,7 +2724,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Mankono",
       ro: "Mankono",
       en: "Mankono"},
-    image: "/poi-images/mankono-cities-v2.webp",
     description: {
       de: "Ein traditionelles Handelszentrum im Béré-Gebiet.",
       hu: "Hagyományos kereskedelmi központ a Béré térségben.",
@@ -2806,7 +2771,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Taabo",
       ro: "Taabo",
       en: "Taabo"},
-    image: "/poi-images/taabo-cities-v2.webp",
     description: {
       de: "Bekannt für seinen großen Wasserkraft-Staudamm.",
       hu: "Nagy vízerőművi gátjáról ismert.",
@@ -2854,7 +2818,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Jacqueville",
       ro: "Jacqueville",
       en: "Jacqueville"},
-    image: "/poi-images/jacqueville-cities-v2.webp",
     description: {
       de: "Eine Halbinselstadt in der Region der Lagunen.",
       hu: "Félszigeti város a lagúnák régiójában.",
@@ -2902,7 +2865,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Kouto",
       ro: "Kouto",
       en: "Kouto"},
-    image: "/poi-images/kouto-cities-v2.webp",
     description: {
       de: "Eine historische Stadt im Norden mit traditioneller Architektur.",
       hu: "Történelmi város északon, hagyományos építészettel.",
@@ -2950,7 +2912,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Mbengue",
       ro: "Mbengue",
       en: "Mbengue"},
-    image: "/poi-images/mbengue-cities-v2.webp",
     description: {
       de: "Ein wichtiges Zentrum für den Erdnuss- und Baumwollanbau.",
       hu: "A földimogyoró- és gyapottermesztés fontos központja.",
@@ -2998,7 +2959,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Ouangolodougou",
       ro: "Ouangolodougou",
       en: "Ouangolodougou"},
-    image: "/poi-images/ouangolodougou-cities-v2.webp",
     description: {
       de: "Eine wichtige Kreuzungsstadt nahe der Grenze zu Burkina Faso.",
       hu: "Fontos kereszteződési város Burkina Faso határa közelében.",
@@ -3094,7 +3054,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Touba",
       ro: "Touba",
       en: "Touba"},
-    image: "/poi-images/touba-cities-v2.webp",
     description: {
       de: "Die Hauptstadt der Bafing-Region.",
       hu: "A Bafing régió fővárosa.",
@@ -3142,7 +3101,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Vavoua",
       ro: "Vavoua",
       en: "Vavoua"},
-    image: "/poi-images/vavoua-cities-v2.webp",
     description: {
       de: "Ein wichtiges Zentrum für die Kaffeeproduktion in Haut-Sassandra.",
       hu: "A Haut-Sassandra kávétermelésének fontos központja.",
@@ -3235,7 +3193,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Agnibilékrou",
       ro: "Agnibilékrou",
       en: "Agnibilékrou"},
-    image: "/poi-images/agnibil-krou-cities-v2.webp",
     description: {
       de: "Eine lebhafte Handelsstadt nahe der Grenze zu Ghana.",
       hu: "Élénk kereskedőváros Ghána határa közelében.",
@@ -3283,7 +3240,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Bettié",
       ro: "Bettié",
       en: "Bettié"},
-    image: "/poi-images/betti-cities-v2.webp",
     description: {
       de: "Eine Stadt im Indénié-Djuablin-Gebiet.",
       hu: "Város az Indénié-Djuablin térségben.",
@@ -3379,7 +3335,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Daoukro",
       ro: "Daoukro",
       en: "Daoukro"},
-    image: "/poi-images/daoukro-cities-v2.webp",
     description: {
       de: "Heimat vieler ivorischer politischer Persönlichkeiten.",
       hu: "Számos elefántcsontparti politikai személyiség otthona.",
@@ -3619,7 +3574,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Kani",
       ro: "Kani",
       en: "Kani"},
-    image: "/poi-images/kani-cities-v2.webp",
     description: {
       de: "Eine Marktstadt in der Worodougou-Region.",
       hu: "Piacváros a Worodougou régióban.",
@@ -3715,7 +3669,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: "Bako",
       ro: "Bako",
       en: "Bako"},
-    image: "/poi-images/bako-cities-v2.webp",
     description: {
       de: "Eine landwirtschaftlich geprägte Stadt nahe Odienné.",
       hu: "Mezőgazdasági jellegű város Odienné közelében.",

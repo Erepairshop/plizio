@@ -70,7 +70,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       ro: ["Kenge este reședința oficială a provinciei Kwango.", "Orașul este traversat de șoseaua națională RN1.", "Altitudinea medie a localității este de 550 metri.", "Râul Wamba trece prin apropierea centrului urban.", "Populația locală este renumită pentru artizanatul tradițional Yaka.", "Distanța rutieră până la Kinshasa este de aproximativ 270 km.", "Orașul găzduiește numeroase instituții de învățământ superior.", "Economia se bazează pe tranzitul de produse agricole spre capitală."],
       en: ["Kenge is the provincial capital of Kwango Province.", "It is located approximately 270 kilometers east of Kinshasa.", "The city sits at an elevation of about 550 meters (1,800 feet).", "It is situated on the banks of the Wamba River.", "National Road 1 (RN1) is the primary transport artery through Kenge.", "The Yaka ethnic group is the predominant population in the area.", "The city is a major collection point for agricultural goods.", "Kenge is the seat of the Roman Catholic Diocese of Kenge."],
     }, },
-    image: "/poi-images/cd-kenge-cities-v2.webp",
     description: {
       de: "Kenge ist die Hauptstadt der Provinz Kwango und ein wichtiges regionales Handelszentrum.",
       hu: "Kenge a Kwango tartomány fővárosa és egy fontos regionális kereskedelmi központ.",
@@ -157,7 +156,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       ro: ["Bandundu este situat la coordonatele 3°19′S 17°23′E.", "Portul fluvial din Bandundu are o capacitate de descărcare de mii de tone lunar.", "Etnia Pende din regiune este celebră pentru măștile ritualice Mbuya.", "Orașul a fost un punct cheie în timpul revoltei Simba din anii 1960.", "Accesul la internet și telecomunicații este în curs de extindere rapidă.", "Principala sursă de energie este biomasa, urmată de generatoare diesel.", "Râul Kwilu are o lungime totală de peste 950 de kilometri.", "Bandundu găzduiește sediul guvernului provincial din Kwilu."],
       en: ["The city’s elevation is approximately 321 meters above sea level.", "Bandundu serves as a primary collecting point for agricultural produce in the region.", "The Kwilu River is navigable for large barges for most of the year.", "Bandundu’s airport has the IATA code FDU.", "The city is divided into several administrative communes, including Basoko and Disasi.", "The area experiences a tropical savanna climate (Aw) according to Köppen classification.", "Local trade is often conducted in Lingala and Kikongo languages.", "Infrastructure projects aim to link Bandundu with the Kikwit highway."],
     }, },
-    image: "/poi-images/cd-bandundu-cities-v2.webp",
     description: {
       de: "Bandundu, früher Banningville, ist die Hauptstadt der Provinz Kwilu und ein bedeutender Binnenhafen.",
       hu: "Bandundu, korábban Banningville, Kwilu tartomány fővárosa és jelentős folyami kikötő.",
@@ -205,7 +203,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-kikwit-cities-v2.webp",
     description: {
       de: "Kikwit ist die größte Stadt in der Provinz Kwilu und ein bedeutendes wirtschaftliches Zentrum.",
       hu: "Kikwit Kwilu tartomány legnagyobb városa és egy jelentős gazdasági központ.",
@@ -247,7 +244,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       ro: ["Inongo este situat la o altitudine de 315 metri.", "Lacul Maï-Ndombe a fost numit anterior Lacul Leopold II.", "Orașul este centrul administrativ al provinciei Maï-Ndombe.", "Principala cale de transport către Kinshasa este râul Fimi.", "Dieceza de Inongo acoperă o suprafață uriașă de pădure și apă.", "Exploatarea lemnului de esență nobilă este o activitate locală majoră.", "Inongo are un climat ecuatorial (Af) fără un sezon uscat real.", "Peștele afumat din Inongo este celebru în piețele din Kinshasa."],
       en: ["Inongo is the capital of Maï-Ndombe Province since 2015.", "The city is located on the eastern shore of Lake Maï-Ndombe.", "The lake's water is dark due to dissolved organic matter.", "Inongo Airport (IATA: INO) serves as the primary fast link to the city.", "The local population is largely involved in artisanal fishing.", "Inongo is located at 1.95° South and 18.28° East.", "The Roman Catholic Cathedral of Inongo is a major local landmark.", "The area is part of the world's largest tropical peatland complex."],
     }, },
-    image: "/poi-images/cd-inongo-cities-v2.webp",
     description: {
       de: "Inongo ist die Hauptstadt der Provinz Mai-Ndombe und liegt am Ufer des Mai-Ndombe-Sees.",
       hu: "Inongo Mai-Ndombe tartomány fővárosa, mely a Mai-Ndombe-tó partján fekszik.",
@@ -289,7 +285,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       ro: ["Kindu este reședința provinciei Maniema.", "Orașul se află pe malul stâng al fluviului Lualaba.", "Este capătul nordic al rețelei feroviare SNCC.", "Altitudinea orașului este de aproximativ 500 de metri.", "Aeroportul din Kindu poate primi avioane de transport greu.", "Orașul a fost un important centru comercial arab în trecut.", "Orezul este principala marfă tranzitată prin portul local.", "Universitatea din Kindu este principala instituție de învățământ."],
       en: ["Kindu is the capital city of Maniema Province.", "It is situated on the Lualaba River at an altitude of 500m.", "The city is the northern terminus of the railway from Lubumbashi.", "Kindu Airport features a 2,200-meter paved runway.", "Swahili culture and language are dominant due to historical trade.", "The city serves as a key inland port for northern river traffic.", "Rice cultivation is the primary agricultural activity in the area.", "The University of Kindu is a major regional educational hub."],
     }, },
-    image: "/poi-images/cd-kindu-cities-v2.webp",
     description: {
       de: "Kindu ist die Hauptstadt der Provinz Maniema und ein wichtiger Hafen am Lualaba-Fluss.",
       hu: "Kindu Maniema tartomány fővárosa és egy fontos kikötő a Lualaba folyón.",
@@ -337,7 +332,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-kalima-cities-v2.webp",
     description: {
       de: "Kalima ist eine Bergbaustadt in Maniema, die für ihre Zinnvorkommen bekannt ist.",
       hu: "Kalima egy bányászváros Maniemában, mely ónkészleteiről ismert.",
@@ -385,7 +379,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-kimpese-cities-v2.webp",
     description: {
       de: "Kimpese ist ein bedeutendes landwirtschaftliches und medizinisches Zentrum in Kongo Central.",
       hu: "Kimpese egy jelentős mezőgazdasági és egészségügyi központ Kongo Central tartományban.",
@@ -433,7 +426,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-inkisi-cities-v2.webp",
     description: {
       de: "Inkisi ist eine Stadt in Kongo Central, bekannt für die nahegelegenen Zongo-Wasserfälle.",
       hu: "Inkisi egy város Kongo Central tartományban, mely a közeli Zongo-vízesésekről ismert.",
@@ -481,7 +473,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-kasangulu-cities-v2.webp",
     description: {
       de: "Kasangulu ist die dem Westen am nächsten gelegene Stadt zu Kinshasa in der Provinz Kongo Central.",
       hu: "Kasangulu Kinshasához legközelebb eső nyugati város Kongo Central tartományban.",
@@ -529,7 +520,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-lukula-cities-v2.webp",
     description: {
       de: "Lukula ist eine Stadt in Kongo Central, die für ihre Forstwirtschaft und Landwirtschaft bekannt ist.",
       hu: "Lukula egy város Kongo Central tartományban, mely erdőgazdálkodásáról és mezőgazdaságáról ismert.",
@@ -626,7 +616,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-basoko-cities-v2.webp",
     description: {
       de: "Basoko ist eine Hafenstadt am Kongo-Fluss, an der Mündung des Aruwimi-Flusses.",
       hu: "Basoko egy kikötőváros a Kongó folyón, az Aruwimi folyó torkolatánál.",
@@ -723,7 +712,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-yangambi-cities-v2.webp",
     description: {
       de: "Yangambi ist bekannt für sein bedeutendes Biosphärenreservat und Forschungszentrum für den Regenwald.",
       hu: "Yangambi jelentős bioszféra-rezervátumáról és esőerdő-kutató központjáról ismert.",
@@ -771,7 +759,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-ubundu-cities-v2.webp",
     description: {
       de: "Ubundu ist eine Stadt südlich der Stanley Falls, am schiffbaren Teil des oberen Kongo.",
       hu: "Ubundu egy város a Stanley-vízesésektől délre, a felső Kongó hajózható szakaszán.",
@@ -819,7 +806,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-aketi-cities-v2.webp",
     description: {
       de: "Aketi ist eine Stadt in der Provinz Bas-Uele und ein historischer Eisenbahnknotenpunkt.",
       hu: "Aketi egy város Bas-Uele tartományban és egy történelmi vasúti csomópont.",
@@ -1010,7 +996,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-dungu-cities-v2.webp",
     description: {
       de: "Dungu liegt am Zusammenfluss der Flüsse Dungu und Kibali im Nordosten des Kongo.",
       hu: "Dungu a Dungu és a Kibali folyók összefolyásánál fekszik Kongó északkeleti részén.",
@@ -1103,7 +1088,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-faradje-cities-v2.webp",
     description: {
       de: "Faradje ist ein wichtiges Zentrum im Nordosten von Haut-Uele, nahe dem Garamba-Nationalpark.",
       hu: "Faradje egy fontos központ Haut-Uele északkeleti részén, a Garamba Nemzeti Park közelében.",
@@ -1151,7 +1135,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-mambasa-cities-v2.webp",
     description: {
       de: "Mambasa liegt im Herzen des Ituri-Regenwaldes und ist ein wichtiger Knotenpunkt.",
       hu: "Mambasa az Ituri esőerdő szívében fekszik, és egy fontos közlekedési csomópont.",
@@ -1199,7 +1182,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-djugu-cities-v2.webp",
     description: {
       de: "Djugu ist eine Stadt in der hügeligen Landschaft der Provinz Ituri.",
       hu: "Djugu egy város Ituri tartomány dombos vidékén.",
@@ -1247,7 +1229,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-rutshuru-cities-v2.webp",
     description: {
       de: "Rutshuru liegt in einer fruchtbaren Vulkanregion nördlich von Goma in Nord-Kivu.",
       hu: "Rutshuru egy termékeny vulkáni régióban fekszik Goma városától északra, Észak-Kivuban.",
@@ -1295,7 +1276,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-masisi-cities-v2.webp",
     description: {
       de: "Masisi ist bekannt für seine grünen Hügel und die bedeutende Rinderzucht in Nord-Kivu.",
       hu: "Masisi zöld dombjairól és jelentős szarvasmarha-tenyésztéséről ismert Észak-Kivuban.",
@@ -1343,7 +1323,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-lubero-cities-v2.webp",
     description: {
       de: "Lubero ist eine hochgelegene Stadt in Nord-Kivu mit einem gemäßigten Klima.",
       hu: "Lubero egy magasan fekvő város Észak-Kivuban, mérsékelt éghajlattal.",
@@ -1391,7 +1370,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-walikale-cities-v2.webp",
     description: {
       de: "Walikale ist eine abgelegene Bergbaustadt in Nord-Kivu, reich an Bodenschätzen.",
       hu: "Walikale egy távoli bányászváros Észak-Kivuban, mely ásványkincsekben gazdag.",
@@ -1439,7 +1417,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-kalehe-cities-v2.webp",
     description: {
       de: "Kalehe ist eine Stadt am westlichen Ufer des Kiwusees in Sud-Kivu.",
       hu: "Kalehe egy város a Kivu-tó nyugati partján, Dél-Kivuban.",
@@ -1487,7 +1464,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-walungu-cities-v2.webp",
     description: {
       de: "Walungu liegt in den fruchtbaren Hochlandregionen von Sud-Kivu.",
       hu: "Walungu Dél-Kivu termékeny felföldi régióiban fekszik.",
@@ -1535,7 +1511,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-mwenga-cities-v2.webp",
     description: {
       de: "Mwenga ist eine Bergbau- und Agrarstadt in der Provinz Sud-Kivu.",
       hu: "Mwenga egy bányász- és agrárváros Dél-Kivu tartományban.",
@@ -1583,7 +1558,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-shabunda-cities-v2.webp",
     description: {
       de: "Shabunda ist die Hauptstadt eines riesigen, abgelegenen Waldgebiets in Sud-Kivu.",
       hu: "Shabunda egy hatalmas, távoli erdei terület központja Dél-Kivuban.",
@@ -1631,7 +1605,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-nyunzu-cities-v2.webp",
     description: {
       de: "Nyunzu ist ein wichtiger Eisenbahnknotenpunkt in der Provinz Tanganyika.",
       hu: "Nyunzu egy fontos vasúti csomópont Tanganyika tartományban.",
@@ -1679,7 +1652,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-moba-cities-v2.webp",
     description: {
       de: "Moba ist eine Hafenstadt am westlichen Ufer des Tanganjikasees.",
       hu: "Moba egy kikötőváros a Tanganyika-tó nyugati partján.",
@@ -1727,7 +1699,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-pweto-cities-v2.webp",
     description: {
       de: "Pweto liegt am nördlichen Ende des Mweru-Sees an der Grenze zu Sambia.",
       hu: "Pweto a Mweru-tó északi végén fekszik, a zambiai határon.",
@@ -1775,7 +1746,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-kambove-cities-v2.webp",
     description: {
       de: "Kambove ist eine historische Bergbaustadt in der Provinz Haut-Katanga.",
       hu: "Kambove egy történelmi bányászváros Haut-Katanga tartományban.",
@@ -1872,7 +1842,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-malemba-nkulu-cities-v2.webp",
     description: {
       de: "Malemba-Nkulu ist eine Stadt am Lualaba-Fluss in der Provinz Haut-Lomami.",
       hu: "Malemba-Nkulu egy város a Lualaba folyó partján, Haut-Lomami tartományban.",
@@ -2018,7 +1987,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: [],
       fr: [],
     }, },
-    image: "/poi-images/cd-luputa-cities-v2.webp",
     description: {
       de: "Luputa ist eine Stadt an der Eisenbahnlinie in der Provinz Lomami.",
       hu: "Luputa egy város a vasútvonal mentén Lomami tartományban.",
@@ -2066,7 +2034,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: ["Cidade comercial histórica no centro", "Nó importante para o intercâmbio regional", "Marcada pela diversidade cultural", "Região: Província de Kasaï", "Importância para a rede histórica", "Clima: Tropical"],
       fr: ["Ville commerçante historique du centre", "Carrefour important pour les échanges régionaux", "Marquée par la diversité culturelle", "Région : Province du Kasaï", "Importance pour les réseaux historiques", "Climat : Tropical"],
     }, },
-    image: "/poi-images/cd-luebo-cities-v2.webp",
     description: {
       de: "Luebo ist eine historische Stadt am Fluss Lulua in der Provinz Kasaï.",
       hu: "Luebo egy történelmi város a Lulua folyó partján, Kasai tartományban.",
@@ -2114,7 +2081,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: ["Região: Kasai-Oriental", "Centro de mercado para produtos agrícolas", "Centro económico da província", "Ambiente agrícola fértil", "Sede de mercados regionais", "Importante nó de abastecimento"],
       fr: ["Région : Kasaï-Oriental", "Centre de marché pour les produits agricoles", "Centre économique de la province", "Terres agricoles fertiles", "Siège de marchés régionaux", "Nœud d'approvisionnement important"],
     }, },
-    image: "/poi-images/cd-katanda-cities-v2.webp",
     description: {
       de: "Katanda ist eine Bergbaustadt in Kasaï-Oriental, bekannt für ihre Diamantenvorkommen.",
       hu: "Katanda egy bányászváros Kasaï-Oriental tartományban, mely gyémántkészleteiről ismert.",
@@ -2211,7 +2177,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: ["Localização em zona florestal remota", "Ponto de referência administrativo", "Região: Sankuru", "Importância social para comunidades", "Infraestrutura desafiante", "Marcada pela floresta circundante"],
       fr: ["Situation dans une zone forestière reculée", "Point de repère administratif", "Région : Sankuru", "Importance sociale pour les communautés", "Infrastructures difficiles", "Marquée par la forêt environnante"],
     }, },
-    image: "/poi-images/cd-lomela-cities-v2.webp",
     description: {
       de: "Lomela ist eine abgelegene Stadt am gleichnamigen Fluss in der Provinz Sankuru.",
       hu: "Lomela egy távoli város az azonos nevű folyó partján, Sankuru tartományban.",
@@ -2259,7 +2224,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: ["Cidade de importância cultural", "Centro comercial local", "Região: Sankuru", "Ligação de comunidades rurais", "Importância administrativa", "Importante nó social"],
       fr: ["Ville d'importance culturelle", "Centre commercial local", "Région : Sankuru", "Mise en réseau des communautés rurales", "Importance administrative", "Important nœud social"],
     }, },
-    image: "/poi-images/cd-katako-kombe-cities-v2.webp",
     description: {
       de: "Katako-Kombe ist historisch bekannt als Geburtsort von Patrice Lumumba.",
       hu: "Katako-Kombe történelmileg Patrice Lumumba szülőhelyeként ismert.",
@@ -2454,7 +2418,6 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       pt: ["Localização no rio Ubangi", "Localidade fronteiriça", "Nó de comércio transfronteiriço", "Importância para o transporte fluvial", "Região: Sud-Ubangi", "Localização importante para o fluxo de mercadorias"],
       fr: ["Situation sur l'Oubangui", "Emplacement frontalier", "Carrefour pour le commerce transfrontalier", "Importance pour le transport fluvial", "Région : Sud-Ubangi", "Site stratégique pour les flux de marchandises"],
     }, },
-    image: "/poi-images/cd-libenge-cities-v2.webp",
     description: {
       de: "Libenge ist eine Grenzstadt am Ubangi-Fluss in der Provinz Sud-Ubangi.",
       hu: "Libenge egy határváros az Ubangi folyó partján, Dél-Ubangi tartományban.",

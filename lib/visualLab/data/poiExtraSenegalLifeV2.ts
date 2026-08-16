@@ -8,7 +8,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-TH",
     coords: [-17.0167, 14.65],
     name: { de: "Bandia-Reservat", hu: "Bandia Rezervátum", ro: "Rezervația Bandia", en: "Bandia Reserve"},
-    image: "/poi-images/reserve-bandia-life-v2.webp",
     description: { de: "Ein privates Naturschutzgebiet, in dem man Giraffen, Zebras und Nashörner beobachten kann.", hu: "Privát természetvédelmi terület, ahol zsiráfokat, zebrákat és orrszarvúkat lehet megfigyelni.", ro: "O rezervație naturală privată unde puteți observa girafe, zebre și rinoceri.", en: "A private nature reserve where you can spot giraffes, zebras, and rhinos." , es: "Una reserva natural privada donde se pueden observar jirafas, cebras y rinocerontes.", pt: "Uma reserva natural privada onde se podem observar girafas, zebras e rinocerontes.", fr: "Une réserve naturelle privée où l'on peut observer des girafes, des zèbres et des rhinocéros."},
     facts: {
       de: ["Beliebtes Ausflugsziel", "Bietet geführte Safaris"],
@@ -161,7 +160,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-KD",
     coords: [-14.95, 12.8833],
     name: { de: "Kolda-Landwirtschaftsregion", hu: "Kolda mezőgazdasági régió", ro: "Regiunea agricolă Kolda", en: "Kolda agricultural region"},
-    image: "/poi-images/ferme-de-kolda-life-v2.webp",
     description: { de: "Ein Zentrum für den Anbau von Getreide und Baumwolle im Süden des Landes.", hu: "Gabona- és gyapottermesztési központ az ország déli részén.", ro: "Un centru pentru cultivarea cerealelor și a bumbacului în sudul țării.", en: "A hub for grain and cotton cultivation in the south of the country." , es: "Un centro para el cultivo de cereales y algodón en el sur del país.", pt: "Um centro de cultivo de cereais e algodão no sul do país.", fr: "Un centre de culture de céréales et de coton dans le sud du pays."},
     facts: {
       de: ["Fruchtbarer Boden", "Traditionelle Anbaumethoden"],
@@ -197,7 +195,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.4333, 14.6667],
     name: { de: "Magic Land Dakar", hu: "Magic Land Dakar", ro: "Magic Land Dakar", en: "Magic Land Dakar"},
-    image: "/poi-images/parc-magic-land-life-v2.webp",
     description: { de: "Ein bekannter Freizeitpark für Kinder in Dakar direkt am Atlantik.", hu: "Népszerű gyerek vidámpark Dakarban, közvetlenül az Atlanti-óceán partján.", ro: "Un parc de distracții popular pentru copii în Dakar, chiar pe malul Atlanticului.", en: "A popular amusement park for kids in Dakar right by the Atlantic." , es: "Un conocido parque de atracciones para niños en Dakar, justo al lado del Atlántico.", pt: "Um conhecido parque de diversões para crianças em Dakar, mesmo junto ao Atlântico.", fr: "Un parc d'attractions connu pour enfants à Dakar, juste au bord de l'Atlantique."},
     facts: {
       de: ["Fahrgeschäfte", "Direkte Strandlage"],
@@ -233,7 +230,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-TH",
     coords: [-16.5, 14.7],
     name: { de: "Erdnussbecken", hu: "Földimogyoró-medence", ro: "Bazinul arahidelor", en: "Peanut Basin"},
-    image: "/poi-images/zone-arachidiere-life-v2.webp",
     description: { de: "Das Herzstück des senegalesischen Erdnussanbaus.", hu: "A szenegáli földimogyoró-termesztés központja.", ro: "Centrul cultivării arahidelor din Senegal.", en: "The heart of Senegalese peanut cultivation." , es: "El corazón del cultivo de maní en Senegal.", pt: "O coração do cultivo de amendoim no Senegal.", fr: "Le cœur de la culture de l'arachide au Sénégal."},
     facts: {
       de: ["Hauptanbaugebiet", "Wichtiges Exportgut"],
@@ -350,7 +346,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.45, 14.68],
     name: { de: "Kindermuseum Dakar", hu: "Dakar Gyerekmúzeum", ro: "Muzeul Copiilor din Dakar", en: "Dakar Children's Museum"},
-    image: "/poi-images/musee-des-enfants-life-v2.webp",
     description: { de: "Ein interaktives Museum, das spielerisches Lernen über Kultur und Natur fördert.", hu: "Interaktív múzeum, amely elősegíti a kultúráról és természetről való játékos tanulást.", ro: "Un muzeu interactiv care promovează învățarea jucăușă despre cultură și natură.", en: "An interactive museum that promotes playful learning about culture and nature." , es: "Un museo interactivo que promueve el aprendizaje lúdico sobre cultura y naturaleza.", pt: "Um museu interativo que promove a aprendizagem lúdica sobre cultura e natureza.", fr: "Un musée interactif qui favorise l'apprentissage ludique de la culture et de la nature."},
     facts: {
       de: ["Bildungsangebote", "Interaktive Ausstellungen"],
@@ -467,7 +462,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-SL",
     coords: [-16.45, 16.15],
     name: { de: "Gueumbeul-Reservat", hu: "Gueumbeul Rezervátum", ro: "Rezervația Gueumbeul", en: "Gueumbeul Reserve"},
-    image: "/poi-images/reserve-gueumbeul-life-v2.webp",
     description: { de: "Ein kleineres Schutzgebiet nahe Saint-Louis zur Erhaltung gefährdeter Tierarten.", hu: "Kisebb védett terület Saint-Louis közelében, a veszélyeztetett állatfajok megőrzésére.", ro: "O zonă protejată mai mică lângă Saint-Louis pentru conservarea speciilor pe cale de dispariție.", en: "A smaller protected area near Saint-Louis for the conservation of endangered species." , es: "Una pequeña reserva natural cerca de Saint-Louis para la conservación de especies animales en peligro.", pt: "Uma pequena reserva natural perto de Saint-Louis para a conservação de espécies animais em perigo.", fr: "Une petite réserve naturelle près de Saint-Louis pour la conservation des espèces animales en danger."},
     facts: {
       de: ["Schutz von Gazellen", "Ökologisches Bildungszentrum"],
@@ -503,7 +497,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-ZC",
     coords: [-16.3, 12.6],
     name: { de: "Reisfelder in Casamance", hu: "Rizsföldek Casamance-ban", ro: "Orezării în Casamance", en: "Rice fields in Casamance"},
-    image: "/poi-images/riziere-casamance-life-v2.webp",
     description: { de: "Traditionelle, terrassierte Reisfelder in der wasserreichen Casamance-Region.", hu: "Hagyományos, teraszos rizsföldek a vízben gazdag Casamance régióban.", ro: "Orezării tradiționale, terasate, în regiunea bogată în apă Casamance.", en: "Traditional terraced rice fields in the water-rich Casamance region." , es: "Campos de arroz tradicionales en terrazas en la región rica en agua de Casamance.", pt: "Campos de arroz tradicionais em socalcos na região rica em água de Casamance.", fr: "Champs de riz traditionnels en terrasses dans la région riche en eau de Casamance."},
     facts: {
       de: ["Wichtig für die Ernährung", "Malerische Landschaft"],
@@ -656,7 +649,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.44, 14.67],
     name: { de: "Zoo von Dakar", hu: "Dakar Állatkert", ro: "Grădina Zoologică din Dakar", en: "Dakar Zoo"},
-    image: "/poi-images/jardin-zoologique-dakar-life-v2.webp",
     description: { de: "Ein städtischer Zoo mit Fokus auf westafrikanische Tierwelt.", hu: "Városi állatkert, amely a nyugat-afrikai élővilágra összpontosít.", ro: "O grădină zoologică urbană axată pe fauna vest-africană.", en: "An urban zoo with a focus on West African wildlife." , es: "Un zoológico urbano centrado en la fauna de África Occidental.", pt: "Um jardim zoológico urbano focado na vida selvagem da África Ocidental.", fr: "Un zoo urbain axé sur la faune d'Afrique de l'Ouest."},
     facts: {
       de: ["Zentrum für lokale Arten", "Familienfreundlich"],
@@ -692,7 +684,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-LG",
     coords: [-16.7, 15.3],
     name: { de: "Lompoul-Dünen", hu: "Lompoul-dűnék", ro: "Dunele Lompoul", en: "Lompoul Dunes"},
-    image: "/poi-images/parc-lompoul-life-v2.webp",
     description: { de: "Sanddünen nahe der Küste, die bei Familien für Kamelritte beliebt sind.", hu: "Homokdűnék a part közelében, amelyek a családok körében tevegelés miatt népszerűek.", ro: "Dune de nisip aproape de coastă, populare printre familii pentru plimbări cu cămila.", en: "Sand dunes near the coast, popular among families for camel rides." , es: "Dunas de arena cerca de la costa, populares entre familias para paseos en camello.", pt: "Dunas de areia perto da costa, populares entre as famílias para passeios de camelo.", fr: "Dunes de sable près de la côte, populaires auprès des familles pour des balades à dos de chameau."},
     facts: {
       de: ["Abenteuer für Kinder", "Kameltouren"],
@@ -728,7 +719,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-TC",
     coords: [-13.6, 13.7],
     name: { de: "Baumwollfelder Tambacounda", hu: "Tambacounda gyapotföldek", ro: "Câmpuri de bumbac Tambacounda", en: "Tambacounda cotton fields"},
-    image: "/poi-images/culture-coton-tambacounda-life-v2.webp",
     description: { de: "Großflächiger Baumwollanbau, der die wirtschaftliche Basis der Region bildet.", hu: "Nagyszabású gyapottermesztés, amely a régió gazdasági alapját képezi.", ro: "Cultivarea pe scară largă a bumbacului, care constituie baza economică a regiunii.", en: "Large-scale cotton cultivation that forms the economic basis of the region." , es: "Cultivo de algodón a gran escala que constituye la base económica de la región.", pt: "Cultivo de algodão em grande escala que constitui a base económica da região.", fr: "Culture de coton à grande échelle qui constitue la base économique de la région."},
     facts: {
       de: ["Wichtigster Wirtschaftszweig", "Export-Produkt"],
@@ -809,7 +799,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-SL",
     coords: [-16.26, 16.48],
     name: { de: "Vogelbeobachtung Djoudj", hu: "Djoudj madármegfigyelés", ro: "Observarea păsărilor Djoudj", en: "Djoudj bird watching"},
-    image: "/poi-images/parc-national-oiseaux-life-v2.webp",
     description: { de: "Ein Paradies für junge Naturforscher, um Pelikane und Flamingos zu sehen.", hu: "Paradicsom a fiatal természetbúvároknak, hogy pelikánokat és flamingókat lássanak.", ro: "Un paradis pentru tinerii naturaliști pentru a vedea pelicani și flamingo.", en: "A paradise for young naturalists to see pelicans and flamingos." , es: "Un paraíso para jóvenes naturalistas donde observar pelícanos y flamencos.", pt: "Um paraíso para jovens naturalistas verem pelicanos e flamingos.", fr: "Un paradis pour les jeunes naturalistes pour observer des pélicans et des flamants roses."},
     facts: {
       de: ["Bildungsausflüge", "Große Vogelvielfalt"],
@@ -845,7 +834,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-TH",
     coords: [-16.9, 14.8],
     name: { de: "Geflügelfarm Thiès", hu: "Thiès baromfifarm", ro: "Fermă avicolă Thiès", en: "Thiès poultry farm"},
-    image: "/poi-images/ferme-avicole-thiès-life-v2.webp",
     description: { de: "Eine bedeutende Geflügelfarm, die frische Eier für die Region liefert.", hu: "Jelentős baromfifarm, amely friss tojást szállít a régióba.", ro: "O fermă avicolă importantă care furnizează ouă proaspete pentru regiune.", en: "A significant poultry farm that provides fresh eggs for the region." , es: "Una importante granja avícola que suministra huevos frescos a la región.", pt: "Uma importante quinta avícola que fornece ovos frescos à região.", fr: "Une importante ferme avicole qui fournit des œufs frais à la région."},
     facts: {
       de: ["Lokale Lebensmittelversorgung", "Moderne Farmhaltung"],
@@ -1106,7 +1094,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.46, 14.7],
     name: { de: "Kinderstrand Dakar", hu: "Dakar gyerekstrand", ro: "Plaja copiilor din Dakar", en: "Dakar children's beach"},
-    image: "/poi-images/plage-des-enfants-life-v2.webp",
     description: { de: "Ein bewachter Strandabschnitt, der besonders sicher für Kinder ist.", hu: "Őrzött partszakasz, amely különösen biztonságos a gyermekek számára.", ro: "O secțiune de plajă păzită, care este deosebit de sigură pentru copii.", en: "A guarded beach section that is particularly safe for kids." , es: "Una sección de playa vigilada que es especialmente segura para los niños.", pt: "Uma secção de praia vigiada que é especialmente segura para crianças.", fr: "Une section de plage surveillée qui est particulièrement sûre pour les enfants."},
     facts: {
       de: ["Überwacht", "Flaches Wasser"],
@@ -1187,7 +1174,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-FK",
     coords: [-16.4, 13.6],
     name: { de: "Fathala-Reservat", hu: "Fathala Rezervátum", ro: "Rezervația Fathala", en: "Fathala Reserve"},
-    image: "/poi-images/reserve-fathala-life-v2.webp",
     description: { de: "Ein Schutzgebiet, das sich auf den Schutz der Löwen spezialisiert hat.", hu: "Védett terület, amely az oroszlánok védelmére specializálódott.", ro: "O zonă protejată specializată în protecția leilor.", en: "A protected area specializing in the protection of lions." , es: "Una reserva que se especializa en la protección de leones.", pt: "Uma reserva que se especializa na proteção de leões.", fr: "Une réserve spécialisée dans la protection des lions."},
     facts: {
       de: ["Löwenschutz", "Natur-Safaris"],
@@ -1349,7 +1335,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-SL",
     coords: [-14.9, 16.6],
     name: { de: "Tomatenanbau Podor", hu: "Podor paradicsomtermesztés", ro: "Cultivarea roșiilor Podor", en: "Podor tomato cultivation"},
-    image: "/poi-images/culture-tomate-podor-life-v2.webp",
     description: { de: "Eine landwirtschaftlich bedeutende Region nahe der mauretanischen Grenze.", hu: "Mezőgazdaságilag jelentős régió a mauritániai határ közelében.", ro: "O regiune importantă din punct de vedere agricol lângă granița cu Mauritania.", en: "An agriculturally significant region near the Mauritanian border." , es: "Una región de gran importancia agrícola cerca de la frontera con Mauritania.", pt: "Uma região de grande importância agrícola perto da fronteira com a Mauritânia.", fr: "Une région d'une grande importance agricole près de la frontière mauritanienne."},
     facts: {
       de: ["Große Erträge", "Bewässerungsprojekte"],
@@ -1466,7 +1451,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.45, 14.7],
     name: { de: "Reitzentrum Dakar", hu: "Dakar Lovasközpont", ro: "Centru de echitație Dakar", en: "Dakar Equestrian Center"},
-    image: "/poi-images/centre-ecquestre-dakar-life-v2.webp",
     description: { de: "Ein Ort, an dem Kinder das Reiten lernen und Tiere pflegen können.", hu: "Hely, ahol a gyerekek lovagolni tanulhatnak és gondozhatják az állatokat.", ro: "Un loc unde copiii pot învăța să călărească și să îngrijească animalele.", en: "A place where kids can learn to ride horses and care for animals." , es: "Un lugar donde los niños pueden aprender a montar a caballo y cuidar de los animales.", pt: "Um local onde as crianças podem aprender a andar a cavalo e cuidar de animais.", fr: "Un lieu où les enfants peuvent apprendre à monter à cheval et prendre soin des animaux."},
     facts: {
       de: ["Reitunterricht", "Ponyreiten"],
@@ -1502,7 +1486,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-SL",
     coords: [-16.5, 16.0],
     name: { de: "Zwiebelanbau Saint-Louis", hu: "Saint-Louis hagyma-termesztés", ro: "Cultivarea cepei Saint-Louis", en: "Saint-Louis onion farming"},
-    image: "/poi-images/culture-oignon-stlouis-life-v2.webp",
     description: { de: "Ein Zentrum für den kommerziellen Zwiebelanbau in Nord-Senegal.", hu: "A kereskedelmi hagymatermesztés központja Észak-Szenegálban.", ro: "Un centru pentru cultivarea comercială a cepei în nordul Senegalului.", en: "A hub for commercial onion farming in northern Senegal." , es: "Un centro para el cultivo comercial de cebollas en el norte de Senegal.", pt: "Um centro para o cultivo comercial de cebolas no norte do Senegal.", fr: "Un centre pour la culture commerciale de l'oignon dans le nord du Sénégal."},
     facts: {
       de: ["Wichtiger Markt", "Lokale Landwirtschaft"],
@@ -1799,7 +1782,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-FK",
     coords: [-16.5, 13.7],
     name: { de: "Delta-Safari-Park", hu: "Delta Szafari Park", ro: "Parc Safari Delta", en: "Delta Safari Park"},
-    image: "/poi-images/parc-safari-delta-life-v2.webp",
     description: { de: "Ein Park, in dem man die lokale Fauna im Delta-Gebiet erleben kann.", hu: "Park, ahol átélhetjük a helyi élővilágot a delta területén.", ro: "Un parc unde puteți experimenta fauna locală în zona deltei.", en: "A park where you can experience the local fauna in the delta area." , es: "Un parque donde experimentar la fauna local en la zona del delta.", pt: "Um parque onde se pode experimentar a fauna local na área do delta.", fr: "Un parc où l'on peut découvrir la faune locale dans la zone du delta."},
     facts: {
       de: ["Geführte Touren", "Vogelbeobachtung"],
@@ -1835,7 +1817,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.2, 14.9],
     name: { de: "Gartenbau Niayes", hu: "Niayes kertészet", ro: "Horticultură Niayes", en: "Niayes horticulture"},
-    image: "/poi-images/ferme-maraichere-niayes-life-v2.webp",
     description: { de: "Die Gemüsekammer Senegals mit intensiver landwirtschaftlicher Nutzung.", hu: "Szenegál zöldségeskamrája intenzív mezőgazdasági hasznosítással.", ro: "Cămara de legume a Senegalului cu utilizare agricolă intensivă.", en: "The vegetable pantry of Senegal with intensive agricultural use." , es: "La huerta de Senegal con uso agrícola intensivo.", pt: "O celeiro de produtos hortícolas do Senegal com utilização agrícola intensiva.", fr: "Le potager du Sénégal avec une utilisation agricole intensive."},
     facts: {
       de: ["Hohe Produktivität", "Versorgung Dakars"],
@@ -1988,7 +1969,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.43, 14.67],
     name: { de: "Ozeanographisches Museum Dakar", hu: "Dakar Oceanográfiai Múzeum", ro: "Muzeul Oceanografic Dakar", en: "Dakar Oceanographic Museum"},
-    image: "/poi-images/musee-oceanographique-dakar-life-v2.webp",
     description: { de: "Ein Museum, das Kindern die Unterwasserwelt Senegals erklärt.", hu: "Múzeum, amely bemutatja Szenegál víz alatti világát a gyerekeknek.", ro: "Un muzeu care explică copiilor lumea subacvatică a Senegalului.", en: "A museum explaining the underwater world of Senegal to kids." , es: "Un museo que explica a los niños el mundo submarino de Senegal.", pt: "Um museu que explica às crianças o mundo subaquático do Senegal.", fr: "Un musée qui explique aux enfants le monde sous-marin du Sénégal."},
     facts: {
       de: ["Meeresbiologie", "Aquarium"],
@@ -2024,7 +2004,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-DB",
     coords: [-16.2, 14.6],
     name: { de: "Schafzucht Diourbel", hu: "Diourbel birkatartás", ro: "Creșterea oilor Diourbel", en: "Diourbel sheep farming"},
-    image: "/poi-images/elevage-de-moutons-diourbel-life-v2.webp",
     description: { de: "Eine Region, die für ihre Schafzucht bekannt ist.", hu: "Régió, amely birkatartásáról ismert.", ro: "O regiune cunoscută pentru creșterea oilor.", en: "A region known for its sheep farming." , es: "Una región conocida por su cría de ovejas.", pt: "Uma região conhecida pela sua criação de ovelhas.", fr: "Une région connue pour son élevage de moutons."},
     facts: {
       de: ["Traditionelle Viehzucht", "Lokale Märkte"],
@@ -2060,7 +2039,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-SL",
     coords: [-16.3, 16.4],
     name: { de: "Nationale Vogelreservat-Zone", hu: "Nemzeti Madárrezervátum Zóna", ro: "Zona Rezervației Naționale de Păsări", en: "National Bird Reserve Zone"},
-    image: "/poi-images/reserve-de-faune-birdlife-v2.webp",
     description: { de: "Ein weitläufiges Gebiet zur Beobachtung von Wasservögeln.", hu: "Kiterjedt terület vízi madarak megfigyelésére.", ro: "O zonă vastă pentru observarea păsărilor acvatice.", en: "A vast area for observing water birds." , es: "Una vasta zona para la observación de aves acuáticas.", pt: "Uma vasta zona para a observação de aves aquáticas.", fr: "Une vaste zone pour l'observation des oiseaux aquatiques."},
     facts: {
       de: ["Wichtiger Rastplatz", "Biodiversität"],
@@ -2141,7 +2119,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-SL",
     coords: [-15.7, 16.4],
     name: { de: "Zuckerrohranbau Richard-Toll", hu: "Richard-Toll cukornádtermesztés", ro: "Cultivarea trestiei de zahăr Richard-Toll", en: "Richard-Toll sugarcane cultivation"},
-    image: "/poi-images/culture-canne-sucre-richard-toll-life-v2.webp",
     description: { de: "Ein industrielles Anbaugebiet für Zuckerrohr im Norden Senegals.", hu: "Ipari cukornád-termesztési terület Észak-Szenegálban.", ro: "O zonă industrială de cultivare a trestiei de zahăr în nordul Senegalului.", en: "An industrial cultivation area for sugarcane in northern Senegal." , es: "Una zona de cultivo industrial de caña de azúcar en el norte de Senegal.", pt: "Uma zona de cultivo industrial de cana-de-açúcar no norte do Senegal.", fr: "Une zone de culture industrielle de canne à sucre dans le nord du Sénégal."},
     facts: {
       de: ["Große Plantagen", "Zuckerfabrikation"],
@@ -2177,7 +2154,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-DK",
     coords: [-17.44, 14.69],
     name: { de: "Abenteuerpark Dakar", hu: "Dakar Kalandpark", ro: "Parc de aventură Dakar", en: "Dakar Adventure Park"},
-    image: "/poi-images/parc-aventure-dakar-life-v2.webp",
     description: { de: "Ein Kletterpark für Kinder mit verschiedenen Schwierigkeitsgraden.", hu: "Mászóközpont gyerekeknek különböző nehézségi szintekkel.", ro: "Un parc de cățărare pentru copii cu diferite niveluri de dificultate.", en: "A climbing park for kids with various difficulty levels." , es: "Un parque de escalada para niños con diferentes niveles de dificultad.", pt: "Um parque de escalada para crianças com diferentes níveis de dificuldade.", fr: "Un parc d'escalade pour enfants avec différents niveaux de difficulté."},
     facts: {
       de: ["Sport für Kinder", "Sicherheitsausrüstung"],
@@ -2339,7 +2315,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-TH",
     coords: [-16.95, 14.75],
     name: { de: "Affenpark", hu: "Majompark", ro: "Parcul maimuțelor", en: "Monkey Park"},
-    image: "/poi-images/parc-des-singes-life-v2.webp",
     description: { de: "Ein kleines Schutzgebiet, wo man Affen in ihrer natürlichen Umgebung beobachten kann.", hu: "Kicsi védett terület, ahol majmokat figyelhetünk meg természetes környezetükben.", ro: "O zonă protejată mică unde puteți observa maimuțe în mediul lor natural.", en: "A small protected area where you can observe monkeys in their natural environment." , es: "Una pequeña reserva donde se pueden observar monos en su entorno natural.", pt: "Uma pequena reserva onde se podem observar macacos no seu ambiente natural.", fr: "Une petite réserve où l'on peut observer des singes dans leur environnement naturel."},
     facts: {
       de: ["Beobachtungstouren", "Bildungsarbeit"],
@@ -2402,7 +2377,6 @@ export const poiExtraSenegalLifeV2: POI[] = [
     parent: "SN-ZC",
     coords: [-16.2, 12.8],
     name: { de: "Mango-Anbau Casamance", hu: "Casamance mangó-termesztés", ro: "Cultivarea mango Casamance", en: "Casamance mango farming"},
-    image: "/poi-images/culture-mangue-casamance-life-v2.webp",
     description: { de: "Ein bedeutendes Gebiet für den Anbau von Mangos für den Export.", hu: "Jelentős terület mangótermesztésre exportra.", ro: "O zonă importantă pentru cultivarea mango pentru export.", en: "An important area for growing mangoes for export." , es: "Una zona importante para el cultivo de mangos para exportación.", pt: "Uma zona importante para o cultivo de mangas para exportação.", fr: "Une zone importante pour la culture de mangues destinées à l'exportation."},
     facts: {
       de: ["Export-Qualität", "Saisonale Ernte"],

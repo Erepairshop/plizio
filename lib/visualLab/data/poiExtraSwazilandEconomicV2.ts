@@ -12,7 +12,6 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
       hu: "Matsapha szárazkikötő",
       ro: "Portul uscat Matsapha",
       en: "Matsapha Dry Port"},
-    image: "/poi-images/matsapha-dry-port-economic-v2.webp",
     description: {
       de: "Der wichtigste Binnenhafen des Landes, der Eswatini über die Schiene mit den Seehäfen in Südafrika und Mosambik verbindet.",
       hu: "Az ország legfontosabb szárazföldi kikötője, amely vasúton köti össze Eswatinit a dél-afrikai és mozambiki tengeri kikötőkkel.",
@@ -121,7 +120,6 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
       hu: "Maloma antracitbánya",
       ro: "Mina de antracit Maloma",
       en: "Maloma Anthracite Mine"},
-    image: "/poi-images/maloma-anthracite-mine-economic-v2.webp",
     description: {
       de: "Eine bedeutende Mine im Süden des Landes, die hochwertigen Anthrazit für den Export und die lokale Industrie fördert.",
       hu: "Jelentős bánya az ország déli részén, amely kiváló minőségű antracitot termel exportra és a helyi ipar számára.",
@@ -185,7 +183,6 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
       hu: "Mpaka teherpályaudvar",
       ro: "Gara de mărfuri Mpaka",
       en: "Mpaka Goods Station"},
-    image: "/poi-images/mpaka-goods-station-economic-v2.webp",
     description: {
       de: "Ein strategischer Eisenbahnknotenpunkt im Osten Eswatinis, der für den Export von Kohle und Zucker entscheidend ist.",
       hu: "Stratégiai vasúti csomópont Kelet-Eswatiniben, amely döntő fontosságú a szén és a cukor exportja szempontjából.",
@@ -249,7 +246,6 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
       hu: "Malkerns gyümölcskonzervgyár",
       ro: "Fabrica de conserve Malkerns",
       en: "Malkerns Fruit Cannery"},
-    image: "/poi-images/malkerns-cannery-economic-v2.webp",
     description: {
       de: "Ein großes Verarbeitungszentrum für Zitrusfrüchte und Ananas, das Produkte für den weltweiten Export herstellt.",
       hu: "Hatalmas citrus- és ananászfeldolgozó központ, amely világszerte exportált termékeket állít elő.",
@@ -313,7 +309,6 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
       hu: "Nhlangano erdészeti központ",
       ro: "Centrul forestier Nhlangano",
       en: "Nhlangano Forestry Center"},
-    image: "/poi-images/nhlangano-forestry-economic-v2.webp",
     description: {
       de: "Ein zentraler Standort für die Holzverarbeitung im Süden, umgeben von weitläufigen Eukalyptus- und Pinienplantagen.",
       hu: "A déli országrész központi fafeldolgozó helyszíne, amelyet kiterjedt eukaliptusz- és fenyőültetvények vesznek körül.",
@@ -377,7 +372,6 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
       hu: "Bhunya cellulózgyár",
       ro: "Fabrica de celuloză Bhunya",
       en: "Bhunya Pulp Mill"},
-    image: "/poi-images/bhunya-pulp-mill-economic-v2.webp",
     description: {
       de: "Einst eine der größten Zellstofffabriken Afrikas, bleibt der Standort ein Herzstück der swasitischen Holzindustrie.",
       hu: "Egykor Afrika egyik legnagyobb cellulózgyára volt, a helyszín ma is a szváziföldi faipar egyik tartóoszlopa.",
@@ -441,7 +435,6 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
       hu: "Peak Timbers fűrészüzem",
       ro: "Gaterul Peak Timbers",
       en: "Peak Timbers Sawmill"},
-    image: "/poi-images/peak-timbers-sawmill-economic-v2.webp",
     description: {
       de: "Ein modernes Sägewerk im nördlichen Hochland, das hochwertiges Kiefernholz für den regionalen und internationalen Markt verarbeitet.",
       hu: "Modern fűrészüzem az északi magasföldön, amely kiváló minőségű fenyőfát dolgoz fel a regionális és nemzetközi piacra.",
@@ -505,7 +498,6 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
       hu: "Ubombo cukorfinomító",
       ro: "Rafinăria de zahăr Ubombo",
       en: "Ubombo Sugar Refinery"},
-    image: "/poi-images/ubombo-sugar-refinery-economic-v2.webp",
     description: {
       de: "Diese Anlage in Big Bend ist eine der leistungsstärksten Zuckerraffinerien des Landes und ein Pfeiler der Exportwirtschaft.",
       hu: "Ez a Big Bendben található létesítmény az ország egyik legnagyobb teljesítményű cukorfinomítója és az exportgazdaság pillére.",
@@ -633,7 +625,6 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
       hu: "Simunye cukorkomplexum",
       ro: "Complexul de zahăr Simunye",
       en: "Simunye Sugar Complex"},
-    image: "/poi-images/simunye-sugar-complex-economic-v2.webp",
     description: {
       de: "Einer der modernsten Agrar-Industrie-Standorte des Landes, der hocheffiziente Zuckerproduktion mit modernster Technik vereint.",
       hu: "Az ország egyik legmodernebb agrár-ipari helyszíne, amely a hatékony cukorgyártást ötvözi a legújabb technológiával.",
@@ -697,7 +688,6 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
       hu: "Eswatini Sörgyár Matsapha",
       ro: "Berăria Eswatini Matsapha",
       en: "Eswatini Brewery Matsapha"},
-    image: "/poi-images/eswatini-brewery-matsapha-economic-v2.webp",
     description: {
       de: "Die größte Brauerei des Landes, die sowohl lokale Biermarken als auch internationale Lizenzen produziert und abfüllt.",
       hu: "Az ország legnagyobb sörgyára, amely helyi márkákat és nemzetközi licenceket is gyárt és palackoz.",
@@ -761,7 +751,6 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
       hu: "Nhlangano textilgyár",
       ro: "Fabrica de textile Nhlangano",
       en: "Nhlangano Textile Factory"},
-    image: "/poi-images/nhlangano-textile-factory-economic-v2.webp",
     description: {
       de: "Ein wichtiger Standort der Bekleidungsindustrie, der Kleidung für große internationale Einzelhandelsketten produziert.",
       hu: "A ruházati ipar fontos helyszíne, amely nagy nemzetközi kiskereskedelmi láncok számára gyárt ruhákat.",
@@ -825,7 +814,6 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
       hu: "Sidvokodvo vasúti műhely",
       ro: "Atelierele feroviare Sidvokodvo",
       en: "Sidvokodvo Railway Workshop"},
-    image: "/poi-images/sidvokodvo-rail-workshops-economic-v2.webp",
     description: {
       de: "Das technische Herzstück von Eswatini Railways, wo Lokomotiven und Waggons für den gesamten regionalen Verkehr gewartet werden.",
       hu: "Az Eswatini Vasutak műszaki szíve, ahol a teljes regionális forgalom mozdonyait és vagonjait karbantartják.",
@@ -889,7 +877,6 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
       hu: "Matsapha-Dél Ipari Park",
       ro: "Zona industrială Matsapha Sud",
       en: "Matsapha South Industrial Estate"},
-    image: "/poi-images/matsapha-industrial-estate-south-economic-v2.webp",
     description: {
       de: "Eine Erweiterung des größten Industriegebiets des Landes, das Platz für neue Fabriken und Logistikzentren bietet.",
       hu: "Az ország legnagyobb ipari területének bővítése, amely új gyáraknak és logisztikai központoknak ad helyet.",
@@ -953,7 +940,6 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
       hu: "Oshoek határterminál",
       ro: "Terminalul de frontieră Oshoek",
       en: "Oshoek Border Terminal"},
-    image: "/poi-images/oshoek-border-terminal-economic-v2.webp",
     description: {
       de: "Der verkehrsreichste Landhafen zwischen Eswatini und Südafrika, über den der Großteil des täglichen Warenverkehrs abgewickelt wird.",
       hu: "A legforgalmasabb szárazföldi kikötő Eswatini és Dél-Afrika között, amelyen a napi áruforgalom nagy része áthalad.",
@@ -1017,7 +1003,6 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
       hu: "Lomahasha kereskedelmi központ",
       ro: "Hub-ul comercial Lomahasha",
       en: "Lomahasha Trade Hub"},
-    image: "/poi-images/lomahasha-trade-hub-economic-v2.webp",
     description: {
       de: "Ein entscheidender Grenzposten und Umschlagplatz für den Handel mit Mosambik, insbesondere für landwirtschaftliche Produkte.",
       hu: "Döntő fontosságú határátkelő és átrakodóhely a Mozambikkal folytatott kereskedelemben, különösen a mezőgazdasági termékek számára.",
@@ -1234,7 +1219,6 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
       hu: "Lavumisa teherterminál",
       ro: "Terminalul de marfă Lavumisa",
       en: "Lavumisa Freight Terminal"},
-    image: "/poi-images/lavumisa-freight-terminal-economic-v2.webp",
     description: {
       de: "Ein wichtiger Landhafen im tiefen Süden, der Eswatini mit der südafrikanischen Provinz KwaZulu-Natal verbindet.",
       hu: "Fontos szárazföldi kikötő a mély délen, amely Eswatinit a dél-afrikai KwaZulu-Natal tartománnyal köti össze.",
@@ -1298,7 +1282,6 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
       hu: "Mananga határátkelő",
       ro: "Postul de frontieră Mananga",
       en: "Mananga Border Post"},
-    image: "/poi-images/mananga-border-post-economic-v2.webp",
     description: {
       de: "Ein spezialisierter Grenzhafen im Norden, der hauptsächlich für den Transport von Zucker und landwirtschaftlichen Gütern genutzt wird.",
       hu: "Specializált határkikötő északon, amelyet főleg cukor és mezőgazdasági áruk szállítására használnak.",
@@ -1362,7 +1345,6 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
       hu: "Montigny fűrészüzem",
       ro: "Gaterul Montigny",
       en: "Montigny Sawmill"},
-    image: "/poi-images/montigny-sawmill-economic-v2.webp",
     description: {
       de: "Eines der größten und modernsten Sägewerke der Region, das eine breite Palette an Holzprodukten für den Export herstellt.",
       hu: "A régió egyik legnagyobb és legmodernebb fűrészüzeme, amely faipari termékek széles skáláját állítja elő exportra.",

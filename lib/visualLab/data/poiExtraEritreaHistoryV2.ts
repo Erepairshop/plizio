@@ -184,7 +184,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       pt: ["Adulis foi mencionada no Periplus Maris Erythraei no século I d.C.", "A cidade era o porto de exportação mais importante para o interior de Aksum.", "Arqueólogos descobriram aqui uma basílica bizantina do século V.", "Em 1868, tropas britânicas realizaram escavações durante a expedição de Magdala.", "A cidade foi em grande parte abandonada após ataques no final do século VII.", "Os achados importantes incluem cristais romanos e cerâmica do Médio Oriente."],
       fr: ["Adulis a été mentionnée dans le Périple de la mer Érythrée au Ier siècle ap. J.-C.", "La ville était le principal port d'exportation pour l'arrière-pays d'Aksoum.", "Les archéologues y ont découvert une basilique byzantine du Ve siècle.", "En 1868, les troupes britanniques y ont mené des fouilles lors de l'expédition de Magdala.", "La ville a été largement abandonnée après des raids à la fin du VIIe siècle.", "Les découvertes majeures incluent de la verrerie romaine et de la céramique du Moyen-Orient."],
     }, },
-    image: "/poi-images/adulis-ancient-port-history-v2.webp",
     description: {
       de: "Adulis war in der Antike ein bedeutendes Handelszentrum am Roten Meer, das Verbindungen zwischen dem Aksumitischen Reich, dem Römischen Reich und Indien pflegte. Die Ruinen zeugen von einer florierenden Zivilisation, die Elfenbein, Weihrauch und Sklaven handelte.",
       hu: "Adulisz az ókorban a Vörös-tenger egyik legfontosabb kereskedelmi központja volt, amely összekötötte az Akszúmi Birodalmat a Római Birodalommal és Indiával. A romok egy virágzó civilizációról tanúskodnak, amely elefántcsonttal és tömjénnel kereskedett.",
@@ -329,7 +328,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       pt: ["O planalto situa-se a cerca de 2.600 metros acima do nível do mar.", "A barragem de Safira data do período axumita e tem cerca de 60 metros de comprimento.", "Quatro colunas do templo Mariam Wakiro ainda permanecem de pé.", "Pinturas rupestres próximas mostram gado e figuras humanas.", "Qohaito foi redescoberta por investigadores ocidentais no século XIX.", "O sítio foi um importante centro urbano entre 100 a.C. e 600 d.C."],
       fr: ["Le plateau est situé à environ 2 600 mètres d'altitude.", "Le barrage de Safira date de l'époque aksoumite et mesure environ 60 mètres de long.", "Quatre colonnes du temple Mariam Wakiro sont encore debout aujourd'hui.", "Des peintures rupestres à proximité représentent des bovins et des figures humaines.", "Qohaito n'a été redécouverte par des chercheurs occidentaux qu'au XIXe siècle.", "Le site était un centre urbain majeur entre 100 av. J.-C. et 600 apr. J.-C."],
     }, },
-    image: "/poi-images/qohaito-ancient-city-history-v2.webp",
     description: {
       de: "Qohaito ist eine der berühmtesten archäologischen Stätten Eritreas, die auf einem Hochplateau liegt. Die Stadt florierte während der Zeit des Aksumitischen Reiches und beherbergt Ruinen von Tempeln und Palästen sowie prähistorische Felsmalereien in der Nähe.",
       hu: "Qohaito Eritrea egyik leghíresebb régészeti lelőhelye, amely egy fennsíkon található. A város az Akszúmi Birodalom idején virágzott, és templomok, valamint paloták romjait őrzi, emellett a közelben történelem előtti sziklarajzok is találhatók.",
@@ -546,7 +544,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       pt: ["A estela de Hawulti tem cerca de 5,5 metros de altura.", "A inscrição na estela data do século III a.C.", "Metera situa-se perto da proeminente montanha Amba Saim.", "Arqueólogos descobriram aqui um tesouro de ouro da era de Axum.", "O sítio foi extensivamente escavado na década de 1960 por Francis Anfray.", "Metera é frequentemente chamada de 'cidade dos monumentos'."],
       fr: ["La stèle de Hawulti mesure environ 5,5 mètres de haut.", "L'inscription sur la stèle date du IIIe siècle av. J.-C.", "Metera se trouve près de l'imposante montagne Amba Saim.", "Des archéologues y ont découvert un trésor d'or de l'époque d'Axoum.", "Le site a été largement fouillé dans les années 1960 par Francis Anfray.", "Metera est souvent appelée la 'cité des monuments'."],
     }, },
-    image: "/poi-images/metera-ancient-ruins-history-v2.webp",
     description: {
       de: "Metera, auch als Matara bekannt, ist eine bedeutende Ruinenstadt aus dem Aksumitischen Reich. Die Stätte ist berühmt für ihren Obelisken mit Inschriften aus dem 3. Jahrhundert, der zu den ältesten bekannten Ge'ez-Inschriften gehört.",
       hu: "Metera, más néven Matara, egy jelentős romváros az Akszúmi Birodalom korából. A helyszín híres a 3. századból származó, feliratos obeliszkjéről, amely az egyik legrégebbi ismert ge'ez nyelvű felirat.",
@@ -610,7 +607,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       pt: ["Keskese situa-se na região de Debub, a cerca de 135 km a sul de Asmara.", "Algumas das colunas monolíticas têm mais de 5 metros de comprimento.", "O sítio é associado à cultura inicial D'mt.", "Escavações na década de 1990 revelaram cerâmica e ferramentas.", "Keskese localiza-se a uma altitude de quase 2.500 metros.", "As ruínas estendem-se por várias colinas nos arredores."],
       fr: ["Keskese se trouve dans la région de Debub, à environ 135 km au sud d'Asmara.", "Certaines colonnes monolithiques mesurent plus de 5 mètres de long.", "Le site est associé à la culture précoce D'mt.", "Des fouilles dans les années 1990 ont mis au jour des céramiques et des outils.", "Keskese est situé à une altitude de près de 2 500 mètres.", "Les ruines s'étendent sur plusieurs collines des environs."],
     }, },
-    image: "/poi-images/keskese-ruins-history-v2.webp",
     description: {
       de: "Die Keskese-Ruinen sind Überreste einer antiken Siedlung in der südlichen Region Eritreas, die mit dem D'mt-Reich und frühen sabäischen Einflüssen in Verbindung gebracht werden. Vor Ort gefundene Obelisken weisen auf vorchristliche Kulte hin.",
       hu: "A Keskese romok egy ókori település maradványai Eritrea déli régiójában, amelyeket a D'mt birodalommal és korai szabeus hatásokkal hoznak összefüggésbe. Az itt talált obeliszkek kereszténység előtti kultuszokra utalnak.",
@@ -674,7 +670,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       pt: ["Nakfa foi a única cidade que permaneceu permanentemente sob controlo da EPLF durante a guerra.", "O sistema de trincheiras estende-se por centenas de quilómetros na região do Sahel.", "A moeda nacional da Eritreia, o Nakfa, foi introduzida em 1997.", "Hospitais subterrâneos podiam tratar centenas de pacientes simultaneamente.", "Forças etíopes bombardearam Nakfa quase diariamente durante anos.", "Nakfa situa-se numa altitude estratégica de cerca de 1.780 metros."],
       fr: ["Nakfa fut la seule ville à rester en permanence sous le contrôle du FPLE pendant la guerre.", "Le système de tranchées s'étend sur des centaines de kilomètres dans la région du Sahel.", "La monnaie nationale de l'Érythrée, le nakfa, a été introduite en 1997.", "Des hôpitaux souterrains pouvaient soigner des centaines de patients simultanément.", "Les forces éthiopiennes ont bombardé Nakfa presque quotidiennement pendant des années.", "Nakfa est située à une altitude stratégique d'environ 1 780 mètres."],
     }, },
-    image: "/poi-images/nakfa-trenches-history-v2.webp",
     description: {
       de: "Nakfa war das Hauptquartier der eritreischen Unabhängigkeitsbewegung und ein Symbol des jahrzehntelangen Befreiungskampfes gegen Äthiopien. Die ausgedehnten unterirdischen Netzwerke und Schützengräben in den Bergen sind bis heute sichtbar.",
       hu: "Nakfa az eritreai függetlenségi mozgalom főhadiszállása volt, és az Etiópia elleni évtizedes felszabadító harc szimbóluma. A hegyekben húzódó kiterjedt föld alatti hálózatok és lövészárkok ma is láthatók.",
@@ -764,7 +759,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Fiat Tagliero épület",
       ro: "Clădirea Fiat Tagliero",
       en: "Fiat Tagliero Building"},
-    image: "/poi-images/asmera-fiat-tagliero-history-v2.webp",
     description: {
       de: "Die Fiat Tagliero Tankstelle in Asmara ist eines der beeindruckendsten Beispiele für futuristische Architektur aus der italienischen Kolonialzeit. Das 1938 erbaute Gebäude gleicht einem Flugzeug mit freitragenden Flügeln.",
       hu: "Az asmarai Fiat Tagliero benzinkút az olasz gyarmati korszak futurista építészetének egyik leglenyűgözőbb példája. Az 1938-ban épült épület egy repülőgéphez hasonlít, hatalmas konzolos szárnyakkal.",
@@ -828,7 +822,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Asmarai Császári Palota",
       ro: "Palatul Imperial din Asmara",
       en: "Imperial Palace of Asmara"},
-    image: "/poi-images/imperial-palace-asmara-history-v2.webp",
     description: {
       de: "Der Kaiserpalast, auch bekannt als der Gouverneurspalast, wurde 1897 während der italienischen Kolonialzeit erbaut. Er diente später dem äthiopischen Kaiser Haile Selassie und wird heute für staatliche Empfänge genutzt.",
       hu: "A császári palota, más néven Kormányzói palota, 1897-ben épült az olasz gyarmati időszakban. Később Haile Selassie etióp császár használta, ma pedig állami fogadások helyszíne.",
@@ -892,7 +885,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Massawa óvárosa",
       ro: "Orașul vechi Massawa",
       en: "Massawa Old Town"},
-    image: "/poi-images/massawa-old-town-history-v2.webp",
     description: {
       de: "Die Altstadt von Massawa auf der Insel Batse besticht durch ihre einzigartige Architektur, die von osmanischen, ägyptischen und italienischen Einflüssen geprägt ist. Die aus Korallenkalkstein erbauten Gebäude spiegeln die reiche Handelsgeschichte der Hafenstadt wider.",
       hu: "A Batse-szigeten fekvő Massawa óvárosa egyedülálló építészetével tűnik ki, amelyet oszmán, egyiptomi és olasz hatások alakítottak. A korallmészkőből épült házak a kikötőváros gazdag kereskedelmi történelmét tükrözik.",
@@ -956,7 +948,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Sembel régészeti lelőhely",
       ro: "Situl arheologic Sembel",
       en: "Sembel Archaeological Site"},
-    image: "/poi-images/sembel-archaeological-site-history-v2.webp",
     description: {
       de: "Sembel ist eine antike städtische Siedlung in der Nähe der Hauptstadt Asmara. Die Ausgrabungen offenbarten eine fortgeschrittene Zivilisation, die zwischen 800 und 400 v. Chr. florierte und eine komplexe Steinarchitektur aufwies.",
       hu: "Sembel egy ókori városi település a főváros, Asmara közelében. Az ásatások egy fejlett civilizációt tártak fel, amely Kr. e. 800 és 400 között virágzott, és komplex kőépítészettel rendelkezett.",
@@ -1020,7 +1011,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Zula ókori kikötő",
       ro: "Portul antic Zula",
       en: "Ancient Port of Zula"},
-    image: "/poi-images/zula-ancient-port-history-v2.webp",
     description: {
       de: "Zula ist eine historische Stadt an der Bucht von Zula am Roten Meer, unweit der antiken Stätte Adulis. Im 19. Jahrhundert war der Ort von Bedeutung als Landungspunkt für die britische Napier-Expedition nach Äthiopien.",
       hu: "Zula egy történelmi város a Zula-öböl partján, a Vörös-tengernél, nem messze az ókori Adulisz lelőhelyétől. A 19. században fontos szerepet játszott a brit Napier-expedíció etiópiai partraszállási pontjaként.",
@@ -1084,7 +1074,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Enda Mariam székesegyház",
       ro: "Catedrala Enda Mariam",
       en: "Enda Mariam Cathedral"},
-    image: "/poi-images/enda-mariam-cathedral-history-v2.webp",
     description: {
       de: "Die orthodoxe Kathedrale Enda Mariam in Asmara ist eines der drei prominentesten religiösen Gebäude der Stadt. Sie vereint eine einzigartige Mischung aus traditioneller eritreischer Architektur und italienischem Rationalismus, die in den späten 1930er Jahren erbaut wurde.",
       hu: "Az asmarai ortodox Enda Mariam székesegyház a város három legkiemelkedőbb vallási épületének egyike. Az 1930-as évek végén épült templom a hagyományos eritreai építészet és az olasz racionalizmus egyedülálló keverékét ötvözi.",
@@ -1148,7 +1137,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Hulafá al-Rásidún mecset",
       ro: "Moscheea Khulafa al-Rashidun",
       en: "Khulafa al-Rashidun Mosque"},
-    image: "/poi-images/khulafa-al-rashidun-mosque-history-v2.webp",
     description: {
       de: "Die Khulafa-al-Rashidun-Moschee im Zentrum von Asmara wurde während der italienischen Kolonialzeit in den späten 1930er Jahren erbaut. Sie ist ein hervorragendes Beispiel für die islamische Architektur mit rationalistischen Elementen aus dieser Epoche.",
       hu: "Az asmarai központban található Hulafá al-Rásidún mecset az olasz gyarmati korszakban, az 1930-as évek végén épült. Az iszlám építészet és a korabeli racionalista elemek kiváló példája.",
@@ -1212,7 +1200,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Debre Bizen kolostor",
       ro: "Mănăstirea Debre Bizen",
       en: "Debre Bizen Monastery"},
-    image: "/poi-images/bizen-monastery-history-v2.webp",
     description: {
       de: "Debre Bizen ist eines der bekanntesten eritreisch-orthodoxen Klöster und thront spektakulär auf einem hohen Berg in der Nähe von Nefasit. Es wurde im 14. Jahrhundert gegründet und beherbergt eine bedeutende Sammlung antiker Manuskripte.",
       hu: "A Debre Bizen az egyik leghíresebb eritreai ortodox kolostor, amely látványosan magasodik egy hegyen Nefasit közelében. A 14. században alapították, és jelentős ősi kéziratgyűjteményt őriz.",
@@ -1276,7 +1263,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Szent József-székesegyház",
       ro: "Catedrala Sfântul Iosif",
       en: "St. Joseph's Cathedral"},
-    image: "/poi-images/st-josephs-cathedral-asmara-history-v2.webp",
     description: {
       de: "Die katholische St.-Josephs-Kathedrale in Asmara ist ein Meisterwerk der lombardisch-romanischen Architektur. Der große Glockenturm ist weithin sichtbar und prägt die Skyline der Hauptstadt seit ihrer Einweihung 1922.",
       hu: "Az asmarai katolikus Szent József-székesegyház a lombard-román építészet remekműve. Hatalmas harangtornya messziről látható, és 1922-es felszentelése óta meghatározza a főváros látképét.",
@@ -1340,7 +1326,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Cinema Impero",
       ro: "Cinema Impero",
       en: "Cinema Impero"},
-    image: "/poi-images/cinema-impero-history-v2.webp",
     description: {
       de: "Das Cinema Impero in Asmara ist eines der am besten erhaltenen Art-déco-Gebäude weltweit. Es wurde 1937 während der italienischen Herrschaft erbaut und trägt noch heute die charakteristischen Neonlichter und architektonischen Details der damaligen Zeit.",
       hu: "Az asmarai Cinema Impero a világ egyik legjobb állapotban fennmaradt art déco épülete. 1937-ben épült az olasz uralom alatt, és máig őrzi a korszak jellegzetes neonfényeit és építészeti részleteit.",
@@ -1449,7 +1434,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Kereni háborús temető",
       ro: "Cimitirul de Război din Keren",
       en: "Keren War Cemetery"},
-    image: "/poi-images/keren-war-cemetery-history-v2.webp",
     description: {
       de: "Der Kriegsfriedhof von Keren ehrt die Gefallenen der Schlacht von Keren während des Zweiten Weltkriegs. Es war eine der entscheidendsten Schlachten in Ostafrika, bei der britische und alliierte Truppen die italienischen Streitkräfte besiegten.",
       hu: "A kereni háborús temető a második világháborús kereni csata áldozatai előtt tiszteleg. Ez volt az egyik legdöntőbb csata Kelet-Afrikában, amelynek során a brit és szövetséges csapatok legyőzték az olasz erőket.",
@@ -1630,7 +1614,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Mariam Dearit szentély",
       ro: "Altarul Mariam Dearit",
       en: "Mariam Dearit Shrine"},
-    image: "/poi-images/mariam-dearit-history-v2.webp",
     description: {
       de: "Der Schrein von Mariam Dearit in Keren ist eine einzigartige katholische Pilgerstätte, die in das Innere eines massiven Baobab-Baumes integriert ist. Der Ort ist ein Zentrum des interreligiösen Friedens und zieht jährlich Tausende von Pilgern an.",
       hu: "A kereni Mariam Dearit szentély egy egyedülálló katolikus zarándokhely, amelyet egy hatalmas majomkenyérfa (baobab) belsejében alakítottak ki. A hely a vallásközi béke központja, amely évente zarándokok ezreit vonzza.",
@@ -1694,7 +1677,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Decemhare gyarmati városa",
       ro: "Orașul colonial Decemhare",
       en: "Colonial Town of Decemhare"},
-    image: "/poi-images/decemhare-historical-town-history-v2.webp",
     description: {
       de: "Decemhare wurde während der italienischen Kolonialzeit als wichtiges landwirtschaftliches und industrielles Zentrum geplant. Die Architektur und die städtebauliche Struktur der Stadt erinnern noch heute stark an Italien in den 1930er Jahren.",
       hu: "Decemharét az olasz gyarmati időszakban fontos mezőgazdasági és ipari központnak tervezték. A város építészete és városszerkezete még ma is erősen emlékeztet az 1930-as évek Olaszországára.",
@@ -1874,7 +1856,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Belew Kelew obeliszk",
       ro: "Obeliscul Belew Kelew",
       en: "Belew Kelew Obelisk"},
-    image: "/poi-images/belew-kelew-history-v2.webp",
     description: {
       de: "Belew Kelew in der archäologischen Zone von Metera beherbergt einen berühmten Stele (Obelisk), der für seine vorchristlichen Inschriften in Alt-äthiopisch (Ge'ez) bekannt ist. Es ist ein Symbol der prä-aksumitischen Kultur in der Region.",
       hu: "A meterai régészeti övezetben található Belew Kelew egy híres sztélének (obeliszknek) ad otthont, amely az óetióp (ge'ez) nyelvű, kereszténység előtti feliratairól ismert. A terület a pre-akszúmi kultúra szimbóluma.",
@@ -1938,7 +1919,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Dahlak Kebir nekropolisz",
       ro: "Necropola din Dahlak Kebir",
       en: "Dahlak Kebir Necropolis"},
-    image: "/poi-images/dahlak-kebir-necropolis-history-v2.webp",
     description: {
       de: "Auf der Insel Dahlak Kebir befinden sich Hunderte historischer Gräber mit kunstvoll geschnitzten koranischen Inschriften. Sie sind Zeugen eines mächtigen islamischen Sultanats, das im Roten Meer zwischen dem 10. und 15. Jahrhundert florierte.",
       hu: "A Dahlak Kebir szigeten több száz történelmi sírkő található művészien faragott koráni feliratokkal. Egy hatalmas iszlám szultanátus emlékei, amely a Vörös-tengeren virágzott a 10. és a 15. század között.",
@@ -2002,7 +1982,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Debre Sina kolostor",
       ro: "Mănăstirea Debre Sina",
       en: "Debre Sina Monastery"},
-    image: "/poi-images/debre-sina-monastery-history-v2.webp",
     description: {
       de: "Debre Sina in der Nähe von Elabered ist eines der ältesten orthodoxen Klöster in Eritrea, das bis ins 4. Jahrhundert zurückreicht. Die Pilgerreise nach Debre Sina ist eine der wichtigsten religiösen Traditionen im Land.",
       hu: "Az Elabered közelében található Debre Sina az egyik legrégebbi ortodox kolostor Eritreában, amelynek gyökerei a 4. századig nyúlnak vissza. A Debre Sinába tett zarándoklat az ország egyik legfontosabb vallási hagyománya.",
@@ -2111,7 +2090,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Medebar piac",
       ro: "Piața Medebar",
       en: "Medebar Market"},
-    image: "/poi-images/medebar-market-history-v2.webp",
     description: {
       de: "Der historische Medebar-Markt in Asmara wurde zur Zeit der italienischen Kolonialherrschaft gegründet. Es ist eine beeindruckende Open-Air-Werkstatt, auf der Handwerker Metallschrott und alte Reifen recyceln und in nützliche Haushaltswaren verwandeln.",
       hu: "Az asmarai történelmi Medebar piacot az olasz gyarmati uralom idején alapították. Ez egy lenyűgöző szabadtéri műhely, ahol a kézművesek fémhulladékot és régi gumiabroncsokat hasznosítanak újra hasznos háztartási cikkekké.",
@@ -2175,7 +2153,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Halhal csatatér",
       ro: "Câmpul de luptă Halhal",
       en: "Halhal Battle Site"},
-    image: "/poi-images/halhal-battle-site-history-v2.webp",
     description: {
       de: "Halhal in der Anseba-Region war während des eritreischen Unabhängigkeitskrieges ein strategisch wichtiger militärischer Vorposten. Eine Reihe intensiver Gefechte, bekannt als die Schlacht von Halhal, fanden hier statt.",
       hu: "Az Anseba régióban található Halhal az eritreai függetlenségi háború alatt stratégiailag fontos katonai előőrs volt. Számos intenzív összecsapás, közös nevükön a halhali csata zajlott itt.",
@@ -2239,7 +2216,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Afabet",
       ro: "Afabet",
       en: "Afabet"},
-    image: "/poi-images/afabet-battle-site-history-v2.webp",
     description: {
       de: "Afabet ist historisch bedeutsam für die entscheidende Schlacht von Afabet im Jahr 1988, bei der die eritreische Befreiungsfront das wichtigste äthiopische Kommandozentrum ('Nadew Command') zerstörte. Es markierte einen Wendepunkt im Krieg.",
       hu: "Afabet történelmi jelentőséggel bír az 1988-as sorsdöntő afabeti csata miatt, amelyben az eritreai felszabadítási front megsemmisítette a legfontosabb etióp parancsnoki központot ('Nadew Command'). Ez fordulópontot jelentett a háborúban.",
@@ -2348,7 +2324,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Történelmi Senefe",
       ro: "Orașul istoric Senefe",
       en: "Historical Senefe"},
-    image: "/poi-images/senefe-border-town-history-v2.webp",
     description: {
       de: "Senefe ist eine antike Stadt in der Nähe der äthiopischen Grenze am Rande des Großen Afrikanischen Grabenbruchs. Sie beherbergt historische Ruinen, die mit dem Aksumitischen Reich verbunden sind, und war auch während der Grenzkriege von großer Bedeutung.",
       hu: "Senefe egy ősi város az etióp határ közelében, a Nagy-hasadékvölgy szélén. Az Akszúmi Birodalomhoz köthető történelmi romok találhatók itt, és a határháborúk idején is kiemelt jelentőséggel bírt.",
@@ -2457,7 +2432,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Hamasien történelmi régió",
       ro: "Regiunea istorică Hamasien",
       en: "Historical Hamasien Region"},
-    image: "/poi-images/hamasien-province-history-v2.webp",
     description: {
       de: "Hamasien war das historische Kernland Eritreas rund um die heutige Hauptstadt Asmara. Die Region war das Zentrum früher Zivilisationen und mächtiger lokaler Machthaber, die das christliche Hochland dominierten.",
       hu: "Hamasien Eritrea történelmi központja volt a mai főváros, Asmara körül. A régió korai civilizációknak és hatalmas helyi uralkodóknak adott otthont, akik uralták a keresztény hegyvidéket.",
@@ -2521,7 +2495,6 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       hu: "Mendefera történelmi központ",
       ro: "Centrul istoric Mendefera",
       en: "Mendefera Historic Center"},
-    image: "/poi-images/mendefera-historic-center-history-v2.webp",
     description: {
       de: "Mendefera, einst bekannt als Adi Ugri, ist eine historische Stadt auf einem Hügel. Sie wurde früh besiedelt und spielte während der italienischen Kolonialzeit eine Rolle, doch der eigentliche Name erinnert an den heldenhaften Widerstand gegen Eindringlinge im Mittelalter.",
       hu: "Mendefera, egykor Adi Ugri néven ismert település, egy dombon fekvő történelmi város. Már korán betelepült, és szerepet játszott az olasz gyarmati időkben, ám mai neve a betolakodókkal szembeni hősies középkori ellenállásra emlékeztet.",

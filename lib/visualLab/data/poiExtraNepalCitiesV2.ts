@@ -453,7 +453,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Ghorahi",
       ro: "Ghorahi",
       en: "Ghorahi"},
-    image: "/poi-images/ghorahi-cities-v2.webp",
     description: {
       de: "Ghorahi ist eine der größten Städte im Dang-Tal und ein wichtiges Handels- und Bildungszentrum in der Provinz Lumbini. Die Stadt ist bekannt für ihre vielfältige Bevölkerung und dient als Tor zu den westlichen Hügelregionen.",
       hu: "Ghorahi a Dang-völgy egyik legnagyobb városa, a Lumbini tartomány fontos kereskedelmi és oktatási központja. A város sokszínű lakosságáról ismert, és kapuként szolgál a nyugati dombvidékek felé.",
@@ -545,7 +544,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Budhanilkantha",
       ro: "Budhanilkantha",
       en: "Budhanilkantha"},
-    image: "/poi-images/budhanilkantha-cities-v2.webp",
     description: {
       de: "Budhanilkantha ist eine Gemeinde am Fuße des Shivapuri-Hügels in Kathmandu, berühmt für ihren Tempel mit einer großen liegenden Statue des Gottes Vishnu. Es ist ein bedeutender Wallfahrtsort für Hindus.",
       hu: "Budhanilkantha egy település a Shivapuri-hegy lábánál Katmanduban, amely a nagy fekvő Visnu-szoborral rendelkező templomáról híres. Jelentős zarándokhely a hinduk számára.",
@@ -637,7 +635,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Tarakeshwar",
       ro: "Tarakeshwar",
       en: "Tarakeshwar"},
-    image: "/poi-images/tarakeshwar-cities-v2.webp",
     description: {
       de: "Tarakeshwar ist eine Gemeinde im nordwestlichen Teil des Kathmandu-Tals. Sie ist eine sich schnell entwickelnde städtische Region mit einer Mischung aus Wohn- und Landwirtschaftsflächen.",
       hu: "Tarakeshwar egy település a Katmandu-völgy északnyugati részén. Ez egy gyorsan fejlődő városi régió, ahol a lakó- és mezőgazdasági területek keverednek.",
@@ -981,7 +978,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Tilottama",
       ro: "Tilottama",
       en: "Tilottama"},
-    image: "/poi-images/tilottama-cities-v2.webp",
     description: {
       de: "Tilottama ist eine schnell wachsende Stadt in der Provinz Lumbini, die für ihre saubere Umwelt und geplante Stadtentwicklung bekannt ist. Sie liegt zwischen den Städten Butwal und Siddharthanagar.",
       hu: "Tilottama egy gyorsan növekvő város a Lumbini tartományban, amely tiszta környezetéről és tervezett városfejlesztéséről ismert. Butwal és Siddharthanagar városok között helyezkedik el.",
@@ -1979,7 +1975,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Gokarneshwar",
       ro: "Gokarneshwar",
       en: "Gokarneshwar"},
-    image: "/poi-images/gokarneshwar-cities-v2.webp",
     description: {
       de: "Gokarneshwar liegt im nordöstlichen Teil des Kathmandu-Tals und ist bekannt für den heiligen Gokarneshwar-Mahadev-Tempel am Ufer des Bagmati-Flusses. Es ist ein wichtiges religiöses Zentrum.",
       hu: "Gokarneshwar a Katmandu-völgy északkeleti részén található, és a Bagmati folyó partján álló szent Gokarneshwar Mahadev templomról ismert. Fontos vallási központ.",
@@ -2149,7 +2144,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Kalaiya",
       ro: "Kalaiya",
       en: "Kalaiya"},
-    image: "/poi-images/kalaiya-cities-v2.webp",
     description: {
       de: "Kalaiya ist die Hauptstadt des Distrikts Bara in der Provinz Madhesh. Es ist ein wichtiges landwirtschaftliches Handelszentrum in der zentralen Terai-Region.",
       hu: "Kalaiya a Bara kerület fővárosa a Madhesh tartományban. Fontos mezőgazdasági kereskedelmi központ a központi Terai régióban.",
@@ -2241,7 +2235,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Suryabinayak",
       ro: "Suryabinayak",
       en: "Suryabinayak"},
-    image: "/poi-images/suryabinayak-cities-v2.webp",
     description: {
       de: "Suryabinayak ist eine Gemeinde östlich von Kathmandu und Teil von Bhaktapur. Die Stadt ist bekannt für den Suryabinayak-Tempel, einen wichtigen Schrein, der dem Gott Ganesha gewidmet ist.",
       hu: "Suryabinayak egy település Katmandutól keletre, Bhaktapur része. A város a Suryabinayak templomról ismert, amely egy fontos, Ganesha istennek szentelt szentély.",
@@ -2693,7 +2686,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Chandragiri",
       ro: "Chandragiri",
       en: "Chandragiri"},
-    image: "/poi-images/chandragiri-cities-v2.webp",
     description: {
       de: "Chandragiri ist eine Gemeinde südwestlich von Kathmandu, bekannt für den Chandragiri-Hügel, der einen Panoramablick auf den Himalaya bietet. Eine Seilbahn führt auf den Gipfel zum Bhaleshwar-Mahadev-Tempel.",
       hu: "Chandragiri egy település Katmandutól délnyugatra, amely a Chandragiri-hegyről ismert, ahonnan panorámás kilátás nyílik a Himalájára. Egy felvonó visz fel a csúcsra a Bhaleshwar Mahadev templomhoz.",
@@ -3007,7 +2999,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Tokha",
       ro: "Tokha",
       en: "Tokha"},
-    image: "/poi-images/tokha-cities-v2.webp",
     description: {
       de: "Tokha ist eine historische Newar-Stadt nördlich von Kathmandu, die für ihre traditionelle Kultur und die Herstellung von 'Chaku', einer Melasse-Süßigkeit, bekannt ist.",
       hu: "Tokha egy történelmi newar város Katmandutól északra, amely hagyományos kultúrájáról és a 'chaku', egy melaszos édesség készítéséről ismert.",
@@ -3105,7 +3096,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Kageshwari-Manohara",
       ro: "Kageshwari-Manohara",
       en: "Kageshwari-Manohara"},
-    image: "/poi-images/kageshwari-manohara-cities-v2.webp",
     description: {
       de: "Diese Gemeinde im Kathmandu-Tal wurde durch den Zusammenschluss mehrerer kleinerer Dörfer gebildet. Sie liegt entlang des Manohara-Flusses und ist eine Mischung aus städtischem und ländlichem Leben.",
       hu: "Ez a Katmandu-völgyi település több kisebb falu egyesülésével jött létre. A Manohara folyó mentén fekszik, és a városi és vidéki élet keveréke.",
@@ -3158,7 +3148,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Bhimdatta",
       ro: "Bhimdatta",
       en: "Bhimdatta"},
-    image: "/poi-images/bhimdatta-cities-v2.webp",
     description: {
       de: "Bhimdatta, allgemein bekannt als Mahendranagar, ist eine wichtige Handelsstadt im äußersten Westen Nepals, nahe der Grenze zu Indien. Sie dient als Tor zum Shuklaphanta-Nationalpark.",
       hu: "A Bhimdattaként is ismert Mahendranagar egy fontos kereskedelmi város Nepál távol-nyugati részén, közel az indiai határhoz. A Shuklaphanta Nemzeti Park kapujaként szolgál.",
@@ -4120,7 +4109,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Mahalaxmi",
       ro: "Mahalaxmi",
       en: "Mahalaxmi"},
-    image: "/poi-images/mahalaxmi-cities-v2.webp",
     description: {
       de: "Mahalaxmi ist eine Gemeinde im Distrikt Lalitpur, die an Kathmandu angrenzt. Sie ist eine sich schnell urbanisierende Region mit einer wachsenden Bevölkerung.",
       hu: "Mahalaxmi egy település a Lalitpur kerületben, amely Katmanduval határos. Gyorsan urbanizálódó régió, növekvő népességgel.",
@@ -4830,7 +4818,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Madhyapur Thimi",
       ro: "Madhyapur Thimi",
       en: "Madhyapur Thimi"},
-    image: "/poi-images/madhyapur-thimi-cities-v2.webp",
     description: {
       de: "Madhyapur Thimi ist eine historische Newar-Stadt im Kathmandu-Tal, die für ihre Töpferkunst und traditionellen Feste bekannt ist. Sie liegt zentral zwischen Kathmandu, Lalitpur und Bhaktapur.",
       hu: "Madhyapur Thimi egy történelmi newar város a Katmandu-völgyben, amely fazekasságáról és hagyományos fesztiváljairól ismert. Központi helyen fekszik Katmandu, Lalitpur és Bhaktapur között.",
@@ -5036,7 +5023,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Jitpursimara",
       ro: "Jitpursimara",
       en: "Jitpursimara"},
-    image: "/poi-images/jitpursimara-cities-v2.webp",
     description: {
       de: "Jitpursimara ist eine Sub-Metropole in der Provinz Madhesh. Simara verfügt über einen wichtigen Inlandsflughafen, der als einer der Hauptzugänge nach Kathmandu auf dem Luftweg dient.",
       hu: "Jitpursimara egy al-metropolisz a Madhesh tartományban. Simara egy fontos belföldi repülőtérrel rendelkezik, amely Katmandu egyik fő légi kapujaként szolgál.",
@@ -5200,7 +5186,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Birtamod",
       ro: "Birtamod",
       en: "Birtamod"},
-    image: "/poi-images/birtamod-cities-v2.webp",
     description: {
       de: "Birtamod ist ein schnell wachsendes Handelszentrum im Distrikt Jhapa in Ostnepal. Es liegt am Mahendra Highway und ist ein wichtiger Verkehrsknotenpunkt der Region.",
       hu: "Birtamod egy gyorsan növekvő kereskedelmi központ a Jhapa kerületben, Kelet-Nepálban. A Mahendra autópálya mentén fekszik, és a régió fontos közlekedési csomópontja.",
@@ -5694,7 +5679,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Nagarjun",
       ro: "Nagarjun",
       en: "Nagarjun"},
-    image: "/poi-images/nagarjun-cities-v2.webp",
     description: {
       de: "Nagarjun ist eine Gemeinde, die den Nagarjun-Wald umfasst, einen Teil des Shivapuri-Nagarjun-Nationalparks. Es ist ein wichtiges städtisches Waldgebiet für das Kathmandu-Tal.",
       hu: "Nagarjun egy település, amely magában foglalja a Nagarjun-erdőt, a Shivapuri-Nagarjun Nemzeti Park részét. Ez egy fontos városi erdőterület a Katmandu-völgy számára.",
@@ -5786,7 +5770,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Lahan",
       ro: "Lahan",
       en: "Lahan"},
-    image: "/poi-images/lahan-cities-v2.webp",
     description: {
       de: "Lahan ist eine Stadt im Distrikt Siraha und ein wichtiger Markt in der Provinz Madhesh. Sie liegt am Mahendra Highway und ist bekannt für ihr medizinisches Institut und ihr pulsierendes Geschäftsleben.",
       hu: "Lahan egy város a Siraha kerületben és egy fontos piac a Madhesh tartományban. A Mahendra autópálya mentén fekszik, és orvosi intézetéről, valamint pezsgő üzleti életéről ismert.",
@@ -6023,7 +6006,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Triyuga",
       ro: "Triyuga",
       en: "Triyuga"},
-    image: "/poi-images/triyuga-cities-v2.webp",
     description: {
       de: "Triyuga, mit ihrem Zentrum in Gaighat, ist die Hauptstadt des Distrikts Udayapur. Die Stadt liegt in einem Tal und ist ein wichtiges Zentrum für Handel und Verwaltung in der Region.",
       hu: "Triyuga, amelynek központja Gaighatban van, az Udayapur kerület fővárosa. A város egy völgyben fekszik, és a régió fontos kereskedelmi és közigazgatási központja.",
@@ -6296,7 +6278,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Kohalpur",
       ro: "Kohalpur",
       en: "Kohalpur"},
-    image: "/poi-images/kohalpur-cities-v2.webp",
     description: {
       de: "Kohalpur ist eine schnell wachsende Gemeinde im Distrikt Banke und ein wichtiger Verkehrsknotenpunkt, der den Ost-West-Mahendra-Highway mit der nach Norden führenden Karnali-Autobahn verbindet.",
       hu: "Kohalpur egy gyorsan növekvő település a Banke kerületben, és fontos közlekedési csomópont, amely összeköti a kelet-nyugati Mahendra autópályát az északra vezető Karnali autópályával.",
@@ -6425,7 +6406,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Tikapur",
       ro: "Tikapur",
       en: "Tikapur"},
-    image: "/poi-images/tikapur-cities-v2.webp",
     description: {
       de: "Tikapur ist eine Gemeinde im Distrikt Kailali, die für ihren großen Park, den Tikapur Great Garden, bekannt ist, der als Erholungszentrum dient. Die Stadt ist auch ein landwirtschaftliches Zentrum.",
       hu: "Tikapur egy település a Kailali kerületben, amely nagy parkjáról, a Tikapur Nagy Kertről ismert, amely rekreációs központként szolgál. A város egyben mezőgazdasági központ is.",
@@ -7490,7 +7470,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Siraha",
       ro: "Siraha",
       en: "Siraha"},
-    image: "/poi-images/siraha-cities-v2.webp",
     description: {
       de: "Siraha ist die Hauptstadt des Distrikts Siraha in der Provinz Madhesh. Es ist ein historisches Zentrum mit vielen Tempeln und Teichen und ein wichtiger lokaler Marktplatz.",
       hu: "Siraha a Siraha kerület fővárosa a Madhesh tartományban. Történelmi központ, számos templommal és tóval, valamint fontos helyi piactér.",
@@ -7691,7 +7670,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Inaruwa",
       ro: "Inaruwa",
       en: "Inaruwa"},
-    image: "/poi-images/inaruwa-cities-v2.webp",
     description: {
       de: "Inaruwa ist die Hauptstadt des Distrikts Sunsari in der Provinz Koshi. Die Stadt liegt in der Terai-Region und ist ein Verwaltungs- und Handelszentrum für die Umgebung.",
       hu: "Inaruwa a Sunsari kerület fővárosa a Koshi tartományban. A város a Terai régióban fekszik, és a környék közigazgatási és kereskedelmi központja.",
@@ -7784,7 +7762,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Rajbiraj",
       ro: "Rajbiraj",
       en: "Rajbiraj"},
-    image: "/poi-images/rajbiraj-cities-v2.webp",
     description: {
       de: "Rajbiraj ist die Hauptstadt des Distrikts Saptari und eine der ersten geplanten Städte in Nepal. Sie ist ein wichtiges Bildungs- und Gesundheitszentrum in der östlichen Terai-Region.",
       hu: "Rajbiraj a Saptari kerület fővárosa és Nepál egyik első tervezett városa. Fontos oktatási és egészségügyi központ a keleti Terai régióban.",
@@ -7949,7 +7926,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Gulariya",
       ro: "Gulariya",
       en: "Gulariya"},
-    image: "/poi-images/gulariya-cities-v2.webp",
     description: {
       de: "Gulariya ist die Hauptstadt des Distrikts Bardiya und liegt nahe der indischen Grenze. Die Stadt ist ein Tor zum Bardiya-Nationalpark, der für seine Tiger- und Nashornpopulationen bekannt ist.",
       hu: "Gulariya a Bardiya kerület fővárosa, közel az indiai határhoz. A város a Bardiya Nemzeti Park kapuja, amely tigris- és orrszarvú-populációjáról ismert.",
@@ -8042,7 +8018,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Bhadrapur",
       ro: "Bhadrapur",
       en: "Bhadrapur"},
-    image: "/poi-images/bhadrapur-cities-v2.webp",
     description: {
       de: "Bhadrapur ist eine Teehandelsstadt im Distrikt Jhapa im Südosten Nepals. Sie verfügt über einen wichtigen Inlandsflughafen, der die Region mit Kathmandu verbindet.",
       hu: "Bhadrapur egy teakereskedelmi város a Jhapa kerületben, Délkelet-Nepálban. Fontos belföldi repülőtérrel rendelkezik, amely összeköti a régiót Katmanduval.",
@@ -8351,7 +8326,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Banepa",
       ro: "Banepa",
       en: "Banepa"},
-    image: "/poi-images/banepa-cities-v2.webp",
     description: {
       de: "Banepa ist eine historische Stadt im Kathmandu-Tal, die einst an einer wichtigen Handelsroute nach Tibet lag. Heute ist sie ein geschäftiges Handelszentrum und bekannt für den Chandeshwori-Tempel.",
       hu: "Banepa egy történelmi város a Katmandu-völgyben, amely egykor egy fontos, Tibetbe vezető kereskedelmi útvonal mentén feküdt. Ma forgalmas kereskedelmi központ, és a Chandeshwori templomról ismert.",
@@ -8444,7 +8418,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Baglung",
       ro: "Baglung",
       en: "Baglung"},
-    image: "/poi-images/baglung-cities-v2.webp",
     description: {
       de: "Baglung ist die Hauptstadt des Distrikts Baglung in der Provinz Gandaki. Die Stadt ist bekannt für ihre Hängebrücken, einschließlich einiger der höchsten und längsten in Nepal.",
       hu: "Baglung a Baglung kerület fővárosa a Gandaki tartományban. A város a függőhídjairól ismert, köztük néhány a legmagasabb és leghosszabb Nepálban.",
@@ -8645,7 +8618,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Waling",
       ro: "Waling",
       en: "Waling"},
-    image: "/poi-images/waling-cities-v2.webp",
     description: {
       de: "Waling ist eine Gemeinde im Distrikt Syangja und liegt am Ufer des Aandhikhola-Flusses. Es ist ein wachsendes Handelszentrum im Tal und bekannt für seinen Orangenanbau.",
       hu: "Waling egy település a Syangja kerületben, az Aandhikhola folyó partján. A völgy növekvő kereskedelmi központja, és narancstermesztéséről ismert.",
@@ -8693,7 +8665,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: "Malangwa",
       ro: "Malangwa",
       en: "Malangwa"},
-    image: "/poi-images/malangwa-cities-v2.webp",
     description: {
       de: "Malangwa ist die Hauptstadt des Distrikts Sarlahi in der Provinz Madhesh, direkt an der Grenze zu Indien. Es ist ein wichtiger lokaler Marktplatz für landwirtschaftliche Erzeugnisse.",
       hu: "Malangwa a Sarlahi kerület fővárosa a Madhesh tartományban, közvetlenül az indiai határon. Fontos helyi piac a mezőgazdasági termékek számára.",

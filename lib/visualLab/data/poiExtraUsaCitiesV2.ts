@@ -1925,7 +1925,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-NY",
     coords: [-74.0060, 40.7128],
     name: { de: "New York City", hu: "New York", ro: "New York", en: "New York City"},
-    image: "/poi-images/new-york-city-cities-v2.webp",
     description: {
       de: "Die bevölkerungsreichste Stadt der Vereinigten Staaten, ein globales Zentrum für Finanzen, Kultur und Medien.",
       hu: "Az Egyesült Államok legnépesebb városa, a pénzügy, a kultúra és a média globális központja.",
@@ -4318,7 +4317,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-CA",
     coords: [-118.2437, 34.0522],
     name: { de: "Los Angeles", hu: "Los Angeles", ro: "Los Angeles", en: "Los Angeles"},
-    image: "/poi-images/los-angeles-cities-v2.webp",
     description: {
       de: "Die größte Stadt in Kalifornien und das Zentrum der amerikanischen Film- und Unterhaltungsindustrie.",
       hu: "Kalifornia legnagyobb városa, az amerikai film- és szórakoztatóipar központja.",
@@ -5271,7 +5269,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-IL",
     coords: [-87.6298, 41.8781],
     name: { de: "Chicago", hu: "Chicago", ro: "Chicago", en: "Chicago"},
-    image: "/poi-images/chicago-cities-v2.webp",
     description: {
       de: "Die größte Stadt im Mittleren Westen, bekannt für ihre kühne Architektur und ihre Wolkenkratzer.",
       hu: "A Közép-Nyugat legnagyobb városa, merész építészetéről és felhőkarcolóiról ismert.",
@@ -7556,7 +7553,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-TX",
     coords: [-95.3698, 29.7604],
     name: { de: "Houston", hu: "Houston", ro: "Houston", en: "Houston"},
-    image: "/poi-images/houston-cities-v2.webp",
     description: {
       de: "Die größte Stadt in Texas, ein Zentrum der Öl- und Gasindustrie und der Weltraumforschung.",
       hu: "Texas legnagyobb városa, az olaj- és gázipar, valamint az űrkutatás központja.",
@@ -8977,7 +8973,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-AZ",
     coords: [-112.0740, 33.4484],
     name: { de: "Phoenix", hu: "Phoenix", ro: "Phoenix", en: "Phoenix"},
-    image: "/poi-images/phoenix-cities-v2.webp",
     description: {
       de: "Die Hauptstadt und bevölkerungsreichste Stadt von Arizona, bekannt für ihr heißes Wüstenklima.",
       hu: "Arizona fővárosa és legnépesebb városa, forró sivatagi éghajlatáról ismert.",
@@ -11256,7 +11251,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-PA",
     coords: [-75.1652, 39.9526],
     name: { de: "Philadelphia", hu: "Philadelphia", ro: "Philadelphia", en: "Philadelphia"},
-    image: "/poi-images/philadelphia-cities-v2.webp",
     description: {
       de: "Eine historisch bedeutsame Stadt, in der die Unabhängigkeitserklärung und die Verfassung unterzeichnet wurden.",
       hu: "Történelmileg jelentős város, ahol a Függetlenségi Nyilatkozatot és az Alkotmányt aláírták.",
@@ -11300,7 +11294,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-TX",
     coords: [-98.4936, 29.4241],
     name: { de: "San Antonio", hu: "San Antonio", ro: "San Antonio", en: "San Antonio"},
-    image: "/poi-images/san-antonio-cities-v2.webp",
     description: {
       de: "Eine Stadt mit reichem kolonialem Erbe, bekannt für den Alamo und den River Walk.",
       hu: "Gazdag gyarmati örökséggel rendelkező város, az Alamoról és a River Walkról ismert.",
@@ -12959,7 +12952,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-CA",
     coords: [-117.1611, 32.7157],
     name: { de: "San Diego", hu: "San Diego", ro: "San Diego", en: "San Diego"},
-    image: "/poi-images/san-diego-cities-v2.webp",
     description: {
       de: "Eine Küstenstadt in Südkalifornien, bekannt für ihre Strände, Parks und das milde Klima.",
       hu: "Part menti város Dél-Kaliforniában, strandjairól, parkjairól és enyhe éghajlatáról ismert.",
@@ -14632,7 +14624,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-TX",
     coords: [-96.7970, 32.7767],
     name: { de: "Dallas", hu: "Dallas", ro: "Dallas", en: "Dallas"},
-    image: "/poi-images/dallas-cities-v2.webp",
     description: {
       de: "Ein wichtiges Handels- und Kulturzentrum in Nordtexas.",
       hu: "Észak-Texas fontos kereskedelmi és kulturális központja.",
@@ -16809,7 +16800,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-CA",
     coords: [-121.8863, 37.3382],
     name: { de: "San José", hu: "San José", ro: "San Jose", en: "San Jose"},
-    image: "/poi-images/san-jose-cities-v2.webp",
     description: {
       de: "Das wirtschaftliche, kulturelle und politische Zentrum des Silicon Valley.",
       hu: "A Szilícium-völgy gazdasági, kulturális és politikai központja.",
@@ -18194,7 +18184,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-TX",
     coords: [-97.7431, 30.2672],
     name: { de: "Austin", hu: "Austin", ro: "Austin", en: "Austin"},
-    image: "/poi-images/austin-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Texas, bekannt für ihre lebendige Live-Musik-Szene und ihre Technologie-Industrie.",
       hu: "Texas fővárosa, élénk élőzenei színteréről és technológiai iparáról ismert.",
@@ -19465,7 +19454,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-FL",
     coords: [-81.6557, 30.3322],
     name: { de: "Jacksonville", hu: "Jacksonville", ro: "Jacksonville", en: "Jacksonville"},
-    image: "/poi-images/jacksonville-cities-v2.webp",
     description: {
       de: "Die flächenmäßig größte Stadt in den kontinentalen Vereinigten Staaten, an der Atlantikküste Floridas.",
       hu: "Az kontinentális Egyesült Államok legnagyobb területű városa, Florida atlanti partvidékén.",
@@ -20742,7 +20730,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-TX",
     coords: [-97.3327, 32.7555],
     name: { de: "Fort Worth", hu: "Fort Worth", ro: "Fort Worth", en: "Fort Worth"},
-    image: "/poi-images/fort-worth-cities-v2.webp",
     description: {
       de: "Eine Stadt in Nordtexas, bekannt für ihr westliches Erbe und ihre boomende Innenstadt.",
       hu: "Észak-texasi város, nyugati örökségéről és virágzó belvárosáról ismert.",
@@ -22235,7 +22222,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-OH",
     coords: [-82.9988, 39.9612],
     name: { de: "Columbus", hu: "Columbus", ro: "Columbus", en: "Columbus"},
-    image: "/poi-images/columbus-cities-v2.webp",
     description: {
       de: "Die Hauptstadt und größte Stadt Ohios, Sitz der Ohio State University.",
       hu: "Ohio fővárosa és legnagyobb városa, az Ohio State University székhelye.",
@@ -23614,7 +23600,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-NC",
     coords: [-80.8431, 35.2271],
     name: { de: "Charlotte", hu: "Charlotte", ro: "Charlotte", en: "Charlotte"},
-    image: "/poi-images/charlotte-cities-v2.webp",
     description: {
       de: "Ein wichtiges Finanzzentrum und die größte Stadt in North Carolina.",
       hu: "Fontos pénzügyi központ és Észak-Karolina legnagyobb városa.",
@@ -25035,7 +25020,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-IN",
     coords: [-86.1581, 39.7684],
     name: { de: "Indianapolis", hu: "Indianapolis", ro: "Indianapolis", en: "Indianapolis"},
-    image: "/poi-images/indianapolis-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Indiana, berühmt für das Autorennen Indianapolis 500.",
       hu: "Indiana fővárosa, híres az Indianapolis 500 autóversenyről.",
@@ -26882,7 +26866,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-WA",
     coords: [-122.3321, 47.6062],
     name: { de: "Seattle", hu: "Seattle", ro: "Seattle", en: "Seattle"},
-    image: "/poi-images/seattle-cities-v2.webp",
     description: {
       de: "Eine Küstenstadt und Technologiezentrum im pazifischen Nordwesten, umgeben von Wasser, Bergen und Wäldern.",
       hu: "Part menti város és technológiai központ a csendes-óceáni északnyugaton, vízzel, hegyekkel és erdőkkel körülvéve.",
@@ -28303,7 +28286,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-CO",
     coords: [-104.9903, 39.7392],
     name: { de: "Denver", hu: "Denver", ro: "Denver", en: "Denver"},
-    image: "/poi-images/denver-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Colorado, eine hochgelegene Stadt am Fuße der Rocky Mountains.",
       hu: "Colorado fővárosa, egy magasan fekvő város a Sziklás-hegység lábánál.",
@@ -30330,7 +30312,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-DC",
     coords: [-77.0369, 38.9072],
     name: { de: "Washington, D.C.", hu: "Washington D.C.", ro: "Washington, D.C.", en: "Washington, D.C."},
-    image: "/poi-images/washington-dc-cities-v2.webp",
     description: {
       de: "Die Hauptstadt der Vereinigten Staaten, Heimat von ikonischen Denkmälern und Bundesgebäuden.",
       hu: "Az Egyesült Államok fővárosa, ikonikus emlékművek és szövetségi épületek otthona.",
@@ -31499,7 +31480,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-MA",
     coords: [-71.0589, 42.3601],
     name: { de: "Boston", hu: "Boston", ro: "Boston", en: "Boston"},
-    image: "/poi-images/boston-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Massachusetts, eine der ältesten Städte der USA mit einer reichen Geschichte der Amerikanischen Revolution.",
       hu: "Massachusetts fővárosa, az USA egyik legrégebbi városa, gazdag amerikai forradalmi történelemmel.",
@@ -32374,7 +32354,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-TX",
     coords: [-106.4850, 31.7619],
     name: { de: "El Paso", hu: "El Paso", ro: "El Paso", en: "El Paso"},
-    image: "/poi-images/el-paso-cities-v2.webp",
     description: {
       de: "Eine Stadt im äußersten Westen von Texas an der Grenze zu Mexiko, mit einer starken hispanischen Kultur.",
       hu: "Város Texas legnyugatibb csücskében, a mexikói határon, erős spanyol kultúrával.",
@@ -33975,7 +33954,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-MI",
     coords: [-83.0458, 42.3314],
     name: { de: "Detroit", hu: "Detroit", ro: "Detroit", en: "Detroit"},
-    image: "/poi-images/detroit-cities-v2.webp",
     description: {
       de: "Historisch bekannt als das Zentrum der US-Automobilindustrie und Heimat des Motown-Sounds.",
       hu: "Történelmileg az amerikai autóipar központjaként és a Motown hangzás otthonaként ismert.",
@@ -35396,7 +35374,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-TN",
     coords: [-86.7816, 36.1627],
     name: { de: "Nashville", hu: "Nashville", ro: "Nashville", en: "Nashville"},
-    image: "/poi-images/nashville-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Tennessee und ein Zentrum der Country-Musik-Industrie.",
       hu: "Tennessee fővárosa és a country zeneiparának központja.",
@@ -38071,7 +38048,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-OR",
     coords: [-122.6750, 45.5051],
     name: { de: "Portland (Oregon)", hu: "Portland (Oregon)", ro: "Portland (Oregon)", en: "Portland, OR"},
-    image: "/poi-images/portland-or-cities-v2.webp",
     description: {
       de: "Die größte Stadt in Oregon, bekannt für ihre umweltfreundliche Kultur, Parks und Kaffeeszene.",
       hu: "Oregon legnagyobb városa, környezetbarát kultúrájáról, parkjairól és kávézóiról ismert.",
@@ -39528,7 +39504,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-TN",
     coords: [-90.0490, 35.1495],
     name: { de: "Memphis", hu: "Memphis", ro: "Memphis", en: "Memphis"},
-    image: "/poi-images/memphis-cities-v2.webp",
     description: {
       de: "Eine Stadt am Mississippi, berühmt als Geburtsort des Blues und Rock 'n' Roll.",
       hu: "Város a Mississippi folyó partján, a blues és a rock 'n' roll szülőhelyeként híres.",
@@ -40949,7 +40924,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-OK",
     coords: [-97.5164, 35.4676],
     name: { de: "Oklahoma City", hu: "Oklahoma City", ro: "Oklahoma City", en: "Oklahoma City"},
-    image: "/poi-images/oklahoma-city-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Oklahoma, bekannt für ihre Cowboy-Kultur und die Viehmärkte.",
       hu: "Oklahoma fővárosa, cowboy-kultúrájáról és szarvasmarha-vásárairól ismert.",
@@ -43192,7 +43166,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-NV",
     coords: [-115.1398, 36.1699],
     name: { de: "Las Vegas", hu: "Las Vegas", ro: "Las Vegas", en: "Las Vegas"},
-    image: "/poi-images/las-vegas-cities-v2.webp",
     description: {
       de: "Weltbekannt als Unterhaltungshauptstadt, berühmt für ihre Casinos, Shows und das pulsierende Nachtleben.",
       hu: "Világhírű szórakoztató főváros, híres kaszinóiról, műsorairól és pezsgő éjszakai életéről.",
@@ -45189,7 +45162,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-KY",
     coords: [-85.7585, 38.2527],
     name: { de: "Louisville", hu: "Louisville", ro: "Louisville", en: "Louisville"},
-    image: "/poi-images/louisville-cities-v2.webp",
     description: {
       de: "Die größte Stadt in Kentucky, berühmt für das Kentucky Derby und Bourbon-Brennereien.",
       hu: "Kentucky legnagyobb városa, híres a Kentucky Derbyről és a bourbon lepárlókról.",
@@ -46751,7 +46723,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-MD",
     coords: [-76.6122, 39.2904],
     name: { de: "Baltimore", hu: "Baltimore", ro: "Baltimore", en: "Baltimore"},
-    image: "/poi-images/baltimore-cities-v2.webp",
     description: {
       de: "Eine historische Hafenstadt in Maryland mit einer reichen maritimen Geschichte.",
       hu: "Történelmi kikötőváros Marylandben, gazdag tengerészeti múlttal.",
@@ -49285,7 +49256,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-WI",
     coords: [-87.9065, 43.0389],
     name: { de: "Milwaukee", hu: "Milwaukee", ro: "Milwaukee", en: "Milwaukee"},
-    image: "/poi-images/milwaukee-cities-v2.webp",
     description: {
       de: "Die größte Stadt in Wisconsin am Ufer des Michigansees, bekannt für ihre Brauereien.",
       hu: "Wisconsin legnagyobb városa a Michigan-tó partján, sörfőzdéiről ismert.",
@@ -51063,7 +51033,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-NM",
     coords: [-106.6504, 35.0844],
     name: { de: "Albuquerque", hu: "Albuquerque", ro: "Albuquerque", en: "Albuquerque"},
-    image: "/poi-images/albuquerque-cities-v2.webp",
     description: {
       de: "Die größte Stadt in New Mexico, bekannt für das International Balloon Fiesta.",
       hu: "Új-Mexikó legnagyobb városa, a Nemzetközi Hőlégballon Fesztiválról ismert.",
@@ -53060,7 +53029,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-AZ",
     coords: [-110.9747, 32.2226],
     name: { de: "Tucson", hu: "Tucson", ro: "Tucson", en: "Tucson"},
-    image: "/poi-images/tucson-cities-v2.webp",
     description: {
       de: "Eine Stadt in Arizona, umgeben von mehreren Gebirgszügen, mit einer Mischung aus indianischen, spanischen und anglo-amerikanischen Kulturen.",
       hu: "Város Arizonában, több hegylánccal körülvéve, indián, spanyol és angol-amerikai kultúrák keverékével.",
@@ -54085,7 +54053,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-CA",
     coords: [-119.7871, 36.7378],
     name: { de: "Fresno", hu: "Fresno", ro: "Fresno", en: "Fresno"},
-    image: "/poi-images/fresno-cities-v2.webp",
     description: {
       de: "Eine große Stadt im San Joaquin Valley in Kalifornien, ein wichtiges landwirtschaftliches Zentrum.",
       hu: "Nagy város a kaliforniai San Joaquin-völgyben, fontos mezőgazdasági központ.",
@@ -55434,7 +55401,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-CA",
     coords: [-121.4944, 38.5816],
     name: { de: "Sacramento", hu: "Sacramento", ro: "Sacramento", en: "Sacramento"},
-    image: "/poi-images/sacramento-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Kalifornien, bekannt für ihre Rolle im kalifornischen Goldrausch.",
       hu: "Kalifornia fővárosa, a kaliforniai aranylázban betöltött szerepéről ismert.",
@@ -56813,7 +56779,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-MO",
     coords: [-94.5786, 39.0997],
     name: { de: "Kansas City (Missouri)", hu: "Kansas City (Missouri)", ro: "Kansas City (Missouri)", en: "Kansas City, MO"},
-    image: "/poi-images/kansas-city-mo-cities-v2.webp",
     description: {
       de: "Eine große Stadt in Missouri, berühmt für ihren Jazz, ihre Brunnen und ihre Barbecue-Küche.",
       hu: "Nagy város Missouriban, híres jazz-éről, szökőkútjairól és barbecue konyhájáról.",
@@ -58162,7 +58127,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-CA",
     coords: [-118.1937, 33.7701],
     name: { de: "Long Beach", hu: "Long Beach", ro: "Long Beach", en: "Long Beach"},
-    image: "/poi-images/long-beach-cities-v2.webp",
     description: {
       de: "Eine Hafenstadt in Südkalifornien, Heimat des Queen Mary Ozeandampfers und des Aquarium of the Pacific.",
       hu: "Kikötőváros Dél-Kaliforniában, a Queen Mary óceánjáró és a Csendes-óceáni Akvárium otthona.",
@@ -59367,7 +59331,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-AZ",
     coords: [-111.8315, 33.4152],
     name: { de: "Mesa", hu: "Mesa", ro: "Mesa", en: "Mesa"},
-    image: "/poi-images/mesa-cities-v2.webp",
     description: {
       de: "Eine große Vorstadt östlich von Phoenix, eine der am schnellsten wachsenden Städte der USA.",
       hu: "Nagy külváros Phoenix-től keletre, az USA egyik leggyorsabban növekvő városa.",
@@ -60752,7 +60715,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-GA",
     coords: [-84.3880, 33.7490],
     name: { de: "Atlanta", hu: "Atlanta", ro: "Atlanta", en: "Atlanta"},
-    image: "/poi-images/atlanta-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Georgia, ein wichtiges Handels- und Verkehrszentrum im Südosten.",
       hu: "Georgia fővárosa, a délkelet fontos kereskedelmi és közlekedési központja.",
@@ -62059,7 +62021,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-CO",
     coords: [-104.8214, 38.8339],
     name: { de: "Colorado Springs", hu: "Colorado Springs", ro: "Colorado Springs", en: "Colorado Springs"},
-    image: "/poi-images/colorado-springs-cities-v2.webp",
     description: {
       de: "Eine Stadt am Fuße des Pikes Peak in Colorado, bekannt für ihre malerische Lage und militärische Präsenz.",
       hu: "Város a Pikes Peak lábánál Coloradóban, festői fekvéséről és katonai jelenlétéről ismert.",
@@ -62652,7 +62613,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-VA",
     coords: [-75.9780, 36.8529],
     name: { de: "Virginia Beach", hu: "Virginia Beach", ro: "Virginia Beach", en: "Virginia Beach"},
-    image: "/poi-images/virginia-beach-cities-v2.webp",
     description: {
       de: "Eine unabhängige Stadt an der Atlantikküste von Virginia, bekannt für ihre Strände und ihren langen Boardwalk.",
       hu: "Független város Virginia atlanti partvidékén, strandjairól és hosszú sétányáról ismert.",
@@ -64001,7 +63961,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-NC",
     coords: [-78.6382, 35.7796],
     name: { de: "Raleigh", hu: "Raleigh", ro: "Raleigh", en: "Raleigh"},
-    image: "/poi-images/raleigh-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von North Carolina, bekannt als die 'Stadt der Eichen' und Teil des Research Triangle Park.",
       hu: "Észak-Karolina fővárosa, a 'tölgyek városaként' ismert és a Research Triangle Park része.",
@@ -66172,7 +66131,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-NE",
     coords: [-95.9345, 41.2565],
     name: { de: "Omaha", hu: "Omaha", ro: "Omaha", en: "Omaha"},
-    image: "/poi-images/omaha-cities-v2.webp",
     description: {
       de: "Die größte Stadt in Nebraska, bekannt als Heimat von Warren Buffett und mehreren Fortune-500-Unternehmen.",
       hu: "Nebraska legnagyobb városa, Warren Buffett és több Fortune 500 vállalat otthonaként ismert.",
@@ -67881,7 +67839,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-FL",
     coords: [-80.1918, 25.7617],
     name: { de: "Miami", hu: "Miami", ro: "Miami", en: "Miami"},
-    image: "/poi-images/miami-cities-v2.webp",
     description: {
       de: "Eine Küstenmetropole in Südflorida, bekannt für ihre Strände, ihr Nachtleben und ihre lateinamerikanische Kultur.",
       hu: "Part menti metropolisz Dél-Floridában, strandjairól, éjszakai életéről és latin-amerikai kultúrájáról ismert.",
@@ -70310,7 +70267,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-CA",
     coords: [-122.2711, 37.8044],
     name: { de: "Oakland", hu: "Oakland", ro: "Oakland", en: "Oakland"},
-    image: "/poi-images/oakland-cities-v2.webp",
     description: {
       de: "Eine Hafenstadt in der San Francisco Bay Area, bekannt für ihre Vielfalt und ihren geschäftigen Hafen.",
       hu: "Kikötőváros a San Francisco-öböl térségében, sokszínűségéről és forgalmas kikötőjéről ismert.",
@@ -72919,7 +72875,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-MN",
     coords: [-93.2650, 44.9778],
     name: { de: "Minneapolis", hu: "Minneapolis", ro: "Minneapolis", en: "Minneapolis"},
-    image: "/poi-images/minneapolis-cities-v2.webp",
     description: {
       de: "Die größte Stadt in Minnesota, bekannt für ihre Parks, Seen und ihre blühende Kunstszene.",
       hu: "Minnesota legnagyobb városa, parkjairól, tavairól és virágzó művészeti életéről ismert.",
@@ -74448,7 +74403,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-OK",
     coords: [-95.9928, 36.1540],
     name: { de: "Tulsa", hu: "Tulsa", ro: "Tulsa", en: "Tulsa"},
-    image: "/poi-images/tulsa-cities-v2.webp",
     description: {
       de: "Eine Stadt in Oklahoma, einst als 'Ölhauptstadt der Welt' bekannt, mit einer reichen Art-déco-Architektur.",
       hu: "Város Oklahomában, egykor a 'világ olajfővárosaként' ismert, gazdag art deco építészettel.",
@@ -75149,7 +75103,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-TX",
     coords: [-97.1081, 32.7357],
     name: { de: "Arlington (Texas)", hu: "Arlington (Texas)", ro: "Arlington (Texas)", en: "Arlington, TX"},
-    image: "/poi-images/arlington-tx-cities-v2.webp",
     description: {
       de: "Eine Stadt im Metroplex Dallas-Fort Worth, bekannt für ihre Sportstadien und Vergnügungsparks.",
       hu: "Város a Dallas-Fort Worth Metroplexben, sportstadionjairól és vidámparkjairól ismert.",
@@ -76966,7 +76919,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-LA",
     coords: [-90.0715, 29.9511],
     name: { de: "New Orleans", hu: "New Orleans", ro: "New Orleans", en: "New Orleans"},
-    image: "/poi-images/new-orleans-cities-v2.webp",
     description: {
       de: "Eine Stadt in Louisiana am Mississippi, berühmt für ihr Nachtleben, ihre Live-Musik und ihre einzigartige Kultur.",
       hu: "Város Louisianában a Mississippi folyó partján, híres éjszakai életéről, élőzenéjéről és egyedi kultúrájáról.",
@@ -77919,7 +77871,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-KS",
     coords: [-97.3375, 37.6872],
     name: { de: "Wichita", hu: "Wichita", ro: "Wichita", en: "Wichita"},
-    image: "/poi-images/wichita-cities-v2.webp",
     description: {
       de: "Die größte Stadt in Kansas, bekannt als 'Luftfahrthauptstadt der Welt' wegen ihrer Rolle in der Flugzeugproduktion.",
       hu: "Kansas legnagyobb városa, a 'világ repülőgép-fővárosaként' ismert a repülőgépgyártásban betöltött szerepe miatt.",
@@ -79952,7 +79903,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-OH",
     coords: [-81.6944, 41.4993],
     name: { de: "Cleveland", hu: "Cleveland", ro: "Cleveland", en: "Cleveland"},
-    image: "/poi-images/cleveland-cities-v2.webp",
     description: {
       de: "Eine große Stadt in Ohio am Ufer des Eriesees, Heimat der Rock and Roll Hall of Fame.",
       hu: "Nagy város Ohióban az Erie-tó partján, a Rock and Roll Hírességek Csarnokának otthona.",
@@ -81157,7 +81107,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-FL",
     coords: [-82.4572, 27.9506],
     name: { de: "Tampa", hu: "Tampa", ro: "Tampa", en: "Tampa"},
-    image: "/poi-images/tampa-cities-v2.webp",
     description: {
       de: "Eine Stadt an der Golfküste Floridas, bekannt für ihre Museen und ihr kulturelles Angebot.",
       hu: "Város Florida Golf-partján, múzeumairól és kulturális kínálatáról ismert.",
@@ -82650,7 +82599,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-HI",
     coords: [-157.8583, 21.3069],
     name: { de: "Honolulu", hu: "Honolulu", ro: "Honolulu", en: "Honolulu"},
-    image: "/poi-images/honolulu-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Hawaii, ein wichtiges Tor zu den Vereinigten Staaten und ein beliebtes Touristenziel.",
       hu: "Hawaii fővárosa, fontos kapu az Egyesült Államokba és népszerű turisztikai célpont.",
@@ -84425,7 +84373,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-CA",
     coords: [-117.9143, 33.8366],
     name: { de: "Anaheim", hu: "Anaheim", ro: "Anaheim", en: "Anaheim"},
-    image: "/poi-images/anaheim-cities-v2.webp",
     description: {
       de: "Eine Stadt in Orange County, Kalifornien, die vor allem für den Disneyland Resort bekannt ist.",
       hu: "Város Orange megyében, Kaliforniában, leginkább a Disneyland Resortról ismert.",
@@ -85954,7 +85901,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-FL",
     coords: [-81.3792, 28.5383],
     name: { de: "Orlando", hu: "Orlando", ro: "Orlando", en: "Orlando"},
-    image: "/poi-images/orlando-cities-v2.webp",
     description: {
       de: "Eine Stadt in Zentralflorida, die weltweit für ihre Themenparks wie Walt Disney World und Universal Orlando bekannt ist.",
       hu: "Város Közép-Floridában, világszerte ismert vidámparkjairól, mint a Walt Disney World és a Universal Orlando.",
@@ -87915,7 +87861,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-PA",
     coords: [-79.9959, 40.4406],
     name: { de: "Pittsburgh", hu: "Pittsburgh", ro: "Pittsburgh", en: "Pittsburgh"},
-    image: "/poi-images/pittsburgh-cities-v2.webp",
     description: {
       de: "Eine Stadt in Pennsylvania, die für ihre Geschichte als Zentrum der Stahlindustrie und ihre zahlreichen Brücken bekannt ist.",
       hu: "Város Pennsylvaniában, az acélipar központjaként és számos hídjáról ismert.",
@@ -89696,7 +89641,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-MO",
     coords: [-90.1994, 38.6270],
     name: { de: "St. Louis", hu: "St. Louis", ro: "St. Louis", en: "St. Louis"},
-    image: "/poi-images/st-louis-cities-v2.webp",
     description: {
       de: "Eine große unabhängige Stadt in Missouri am Mississippi, bekannt für den Gateway Arch.",
       hu: "Nagy független város Missouriban a Mississippi folyó partján, a Gateway Archról ismert.",
@@ -90793,7 +90737,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-CA",
     coords: [-117.3755, 33.9806],
     name: { de: "Riverside", hu: "Riverside", ro: "Riverside", en: "Riverside"},
-    image: "/poi-images/riverside-cities-v2.webp",
     description: {
       de: "Eine Stadt in Südkalifornien, Geburtsort der kalifornischen Zitrusindustrie.",
       hu: "Város Dél-Kaliforniában, a kaliforniai citrusipar szülőhelye.",
@@ -91422,7 +91365,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-CA",
     coords: [-117.8677, 33.7455],
     name: { de: "Santa Ana", hu: "Santa Ana", ro: "Santa Ana", en: "Santa Ana"},
-    image: "/poi-images/santa-ana-cities-v2.webp",
     description: {
       de: "Der Sitz des Orange County in Kalifornien, eine dicht besiedelte Stadt mit einer großen hispanischen Bevölkerung.",
       hu: "Orange megye székhelye Kaliforniában, sűrűn lakott város nagy spanyol ajkú lakossággal.",
@@ -93563,7 +93505,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-OH",
     coords: [-84.5120, 39.1031],
     name: { de: "Cincinnati", hu: "Cincinnati", ro: "Cincinnati", en: "Cincinnati"},
-    image: "/poi-images/cincinnati-cities-v2.webp",
     description: {
       de: "Eine Stadt in Ohio am Ohio River, bekannt für ihre historische Architektur und ihr deutsches Erbe.",
       hu: "Város Ohióban az Ohio folyó partján, történelmi építészetéről és német örökségéről ismert.",
@@ -94444,7 +94385,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-KY",
     coords: [-84.4777, 38.0406],
     name: { de: "Lexington", hu: "Lexington", ro: "Lexington", en: "Lexington"},
-    image: "/poi-images/lexington-cities-v2.webp",
     description: {
       de: "Bekannt als die 'Pferdehauptstadt der Welt', umgeben von Bluegrass-Landschaften und Pferdefarmen.",
       hu: "A 'világ ló fővárosaként' ismert, Bluegrass tájakkal és lófarmokkal körülvéve.",
@@ -95361,7 +95301,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-AK",
     coords: [-149.9003, 61.2181],
     name: { de: "Anchorage", hu: "Anchorage", ro: "Anchorage", en: "Anchorage"},
-    image: "/poi-images/anchorage-cities-v2.webp",
     description: {
       de: "Die größte Stadt Alaskas, ein Tor zu den nahegelegenen Wildnisgebieten und Bergen.",
       hu: "Alaszka legnagyobb városa, kapu a közeli vadon területekhez és hegyekhez.",
@@ -95810,7 +95749,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-CA",
     coords: [-121.2908, 37.9577],
     name: { de: "Stockton", hu: "Stockton", ro: "Stockton", en: "Stockton"},
-    image: "/poi-images/stockton-cities-v2.webp",
     description: {
       de: "Eine Stadt im Central Valley von Kalifornien mit einem Binnenhafen am San Joaquin River.",
       hu: "Város Kalifornia Central Valley-jében, egy belvízi kikötővel a San Joaquin folyón.",
@@ -95854,7 +95792,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-OH",
     coords: [-83.5379, 41.6528],
     name: { de: "Toledo", hu: "Toledo", ro: "Toledo", en: "Toledo"},
-    image: "/poi-images/toledo-cities-v2.webp",
     description: {
       de: "Eine Hafenstadt in Ohio am westlichen Ende des Eriesees, bekannt für ihre Glasindustrie.",
       hu: "Kikötőváros Ohióban az Erie-tó nyugati végén, üvegiparáról ismert.",
@@ -97250,7 +97187,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-MN",
     coords: [-93.0900, 44.9537],
     name: { de: "Saint Paul", hu: "Saint Paul", ro: "Saint Paul", en: "Saint Paul"},
-    image: "/poi-images/st-paul-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Minnesota, die zusammen mit Minneapolis die 'Twin Cities' bildet.",
       hu: "Minnesota fővárosa, amely Minneapolis-szal együtt alkotja az 'Ikervárosokat'.",
@@ -98953,7 +98889,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-NJ",
     coords: [-74.1724, 40.7357],
     name: { de: "Newark", hu: "Newark", ro: "Newark", en: "Newark"},
-    image: "/poi-images/newark-cities-v2.webp",
     description: {
       de: "Die größte Stadt in New Jersey, ein wichtiger Luft-, Schifffahrts- und Eisenbahnknotenpunkt.",
       hu: "New Jersey legnagyobb városa, fontos légi, tengeri és vasúti csomópont.",
@@ -99582,7 +99517,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-NV",
     coords: [-115.0275, 36.0396],
     name: { de: "Henderson", hu: "Henderson", ro: "Henderson", en: "Henderson"},
-    image: "/poi-images/henderson-cities-v2.webp",
     description: {
       de: "Eine Stadt in Nevada, südöstlich von Las Vegas, bekannt für ihre Parks und Wanderwege.",
       hu: "Város Nevadában, Las Vegastól délkeletre, parkjairól és túraútvonalairól ismert.",
@@ -100319,7 +100253,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-TX",
     coords: [-96.6989, 33.0198],
     name: { de: "Plano", hu: "Plano", ro: "Plano", en: "Plano"},
-    image: "/poi-images/plano-cities-v2.webp",
     description: {
       de: "Eine wohlhabende Stadt nördlich von Dallas, Heimat vieler Unternehmenszentralen.",
       hu: "Jómódú város Dallastól északra, számos vállalati központ otthona.",
@@ -101524,7 +101457,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-CA",
     coords: [-117.8265, 33.6846],
     name: { de: "Irvine", hu: "Irvine", ro: "Irvine", en: "Irvine"},
-    image: "/poi-images/irvine-cities-v2.webp",
     description: {
       de: "Eine geplante Stadt in Orange County, Kalifornien, bekannt für ihre Sicherheit, Schulen und Parks.",
       hu: "Tervezett város Orange megyében, Kaliforniában, biztonságáról, iskoláiról és parkjairól ismert.",
@@ -102513,7 +102445,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-NC",
     coords: [-78.8986, 35.9940],
     name: { de: "Durham", hu: "Durham", ro: "Durham", en: "Durham"},
-    image: "/poi-images/durham-cities-v2.webp",
     description: {
       de: "Eine Stadt in North Carolina, bekannt für die Duke University und ihre Rolle im Research Triangle Park.",
       hu: "Város Észak-Karolinában, a Duke Egyetemről és a Research Triangle Parkban betöltött szerepéről ismert.",
@@ -104006,7 +103937,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-FL",
     coords: [-82.6403, 27.7676],
     name: { de: "St. Petersburg (Florida)", hu: "St. Petersburg (Florida)", ro: "St. Petersburg (Florida)", en: "St. Petersburg, FL"},
-    image: "/poi-images/st-petersburg-fl-cities-v2.webp",
     description: {
       de: "Eine Stadt an der Golfküste Floridas, bekannt für ihr angenehmes Wetter und ihre Kunstszene.",
       hu: "Város Florida Golf-partján, kellemes időjárásáról és művészeti életéről ismert.",
@@ -106183,7 +106113,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-NJ",
     coords: [-74.0776, 40.7282],
     name: { de: "Jersey City", hu: "Jersey City", ro: "Jersey City", en: "Jersey City"},
-    image: "/poi-images/jersey-city-cities-v2.webp",
     description: {
       de: "Eine Stadt in New Jersey gegenüber von Lower Manhattan, bekannt für ihre Skyline-Ansichten und ihre Vielfalt.",
       hu: "Város New Jersey-ben, Alsó-Manhattannel szemben, felhőkarcolóiról és sokszínűségéről ismert.",
@@ -106848,7 +106777,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-AZ",
     coords: [-111.8412, 33.3062],
     name: { de: "Chandler", hu: "Chandler", ro: "Chandler", en: "Chandler"},
-    image: "/poi-images/chandler-cities-v2.webp",
     description: {
       de: "Ein Vorort südöstlich von Phoenix, bekannt für seine Parks und seine wachsende Technologiebranche.",
       hu: "Külváros Phoenix-től délkeletre, parkjairól és növekvő technológiai iparáról ismert.",
@@ -107729,7 +107657,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-TX",
     coords: [-99.5076, 27.5036],
     name: { de: "Laredo", hu: "Laredo", ro: "Laredo", en: "Laredo"},
-    image: "/poi-images/laredo-cities-v2.webp",
     description: {
       de: "Eine Stadt am Rio Grande an der Grenze zu Mexiko, der größte Binnenhafen der Vereinigten Staaten.",
       hu: "Város a Rio Grande mentén a mexikói határon, az Egyesült Államok legnagyobb belvízi kikötője.",
@@ -109042,7 +108969,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-VA",
     coords: [-76.2859, 36.8508],
     name: { de: "Norfolk", hu: "Norfolk", ro: "Norfolk", en: "Norfolk"},
-    image: "/poi-images/norfolk-cities-v2.webp",
     description: {
       de: "Eine Hafenstadt in Virginia, Heimat der größten Marinebasis der Welt.",
       hu: "Kikötőváros Virginiában, a világ legnagyobb haditengerészeti bázisának otthona.",
@@ -110103,7 +110029,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-NV",
     coords: [-119.8138, 39.5296],
     name: { de: "Reno", hu: "Reno", ro: "Reno", en: "Reno"},
-    image: "/poi-images/reno-cities-v2.webp",
     description: {
       de: "Bekannt als 'Die größte kleine Stadt der Welt', eine Stadt in Nevada mit Casinos und Outdoor-Aktivitäten.",
       hu: "A 'világ legnagyobb kisvárosaként' ismert, nevadai város kaszinókkal és szabadtéri tevékenységekkel.",
@@ -111596,7 +111521,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-NY",
     coords: [-78.8784, 42.8864],
     name: { de: "Buffalo", hu: "Buffalo", ro: "Buffalo", en: "Buffalo"},
-    image: "/poi-images/buffalo-cities-v2.webp",
     description: {
       de: "Die zweitgrößte Stadt im Bundesstaat New York am Ostufer des Eriesees, nahe der Niagarafälle.",
       hu: "New York állam második legnagyobb városa az Erie-tó keleti partján, a Niagara-vízesés közelében.",
@@ -113053,7 +112977,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-IN",
     coords: [-85.1394, 41.0793],
     name: { de: "Fort Wayne", hu: "Fort Wayne", ro: "Fort Wayne", en: "Fort Wayne"},
-    image: "/poi-images/fort-wayne-cities-v2.webp",
     description: {
       de: "Die zweitgrößte Stadt in Indiana mit einer reichen Geschichte und einer wachsenden Wirtschaft.",
       hu: "Indiana második legnagyobb városa, gazdag történelemmel és növekvő gazdasággal.",
@@ -114510,7 +114433,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-ID",
     coords: [-116.2023, 43.6150],
     name: { de: "Boise", hu: "Boise", ro: "Boise", en: "Boise"},
-    image: "/poi-images/boise-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Idaho, bekannt für ihre Lebensqualität und den Zugang zu Outdoor-Aktivitäten.",
       hu: "Idaho fővárosa, életminőségéről és a szabadtéri tevékenységekhez való hozzáférésről ismert.",
@@ -115961,7 +115883,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-VA",
     coords: [-77.4360, 37.5407],
     name: { de: "Richmond (Virginia)", hu: "Richmond (Virginia)", ro: "Richmond (Virginia)", en: "Richmond, VA"},
-    image: "/poi-images/richmond-va-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Virginia, eine Stadt mit einer zentralen Rolle in der Geschichte des Bürgerkriegs.",
       hu: "Virginia fővárosa, a polgárháború történetében központi szerepet játszó város.",
@@ -117448,7 +117369,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-IA",
     coords: [-93.6212, 41.5908],
     name: { de: "Des Moines", hu: "Des Moines", ro: "Des Moines", en: "Des Moines"},
-    image: "/poi-images/des-moines-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Iowa, ein wichtiges Zentrum für die Versicherungsbranche und die Landwirtschaft.",
       hu: "Iowa fővárosa, a biztosítási ipar és a mezőgazdaság fontos központja.",
@@ -118899,7 +118819,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-LA",
     coords: [-91.1871, 30.4515],
     name: { de: "Baton Rouge", hu: "Baton Rouge", ro: "Baton Rouge", en: "Baton Rouge"},
-    image: "/poi-images/baton-rouge-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Louisiana am Mississippi, bekannt für ihre Industrie und ihre Universität.",
       hu: "Louisiana fővárosa a Mississippi folyó partján, iparáról és egyeteméről ismert.",
@@ -120530,7 +120449,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-WA",
     coords: [-117.4260, 47.6588],
     name: { de: "Spokane", hu: "Spokane", ro: "Spokane", en: "Spokane"},
-    image: "/poi-images/spokane-cities-v2.webp",
     description: {
       de: "Eine Stadt im Osten Washingtons, bekannt für ihre Wasserfälle im Stadtzentrum und ihre Outdoor-Aktivitäten.",
       hu: "Város Kelet-Washingtonban, a belvárosi vízeséseiről és szabadtéri tevékenységeiről ismert.",
@@ -121915,7 +121833,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-AL",
     coords: [-86.8025, 33.5207],
     name: { de: "Birmingham (Alabama)", hu: "Birmingham (Alabama)", ro: "Birmingham (Alabama)", en: "Birmingham, AL"},
-    image: "/poi-images/birmingham-al-cities-v2.webp",
     description: {
       de: "Die größte Stadt in Alabama, eine wichtige Stadt der Bürgerrechtsbewegung.",
       hu: "Alabama legnagyobb városa, a polgárjogi mozgalom fontos városa.",
@@ -123552,7 +123469,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-NY",
     coords: [-77.6109, 43.1566],
     name: { de: "Rochester (New York)", hu: "Rochester (New York)", ro: "Rochester (New York)", en: "Rochester, NY"},
-    image: "/poi-images/rochester-ny-cities-v2.webp",
     description: {
       de: "Eine Stadt im Westen von New York, bekannt als Geburtsort von Unternehmen wie Kodak und Xerox.",
       hu: "Város Nyugat-New Yorkban, olyan vállalatok szülőhelyeként ismert, mint a Kodak és a Xerox.",
@@ -124469,7 +124385,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-CO",
     coords: [-104.8319, 39.7294],
     name: { de: "Aurora (Colorado)", hu: "Aurora (Colorado)", ro: "Aurora (Colorado)", en: "Aurora, CO"},
-    image: "/poi-images/aurora-co-cities-v2.webp",
     description: {
       de: "Eine große Stadt östlich von Denver, bekannt für ihre militärische Präsenz und ihre Vielfalt.",
       hu: "Nagy város Denvertől keletre, katonai jelenlétéről és sokszínűségéről ismert.",
@@ -125818,7 +125733,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-AR",
     coords: [-92.2896, 34.7465],
     name: { de: "Little Rock", hu: "Little Rock", ro: "Little Rock", en: "Little Rock"},
-    image: "/poi-images/little-rock-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Arkansas, ein wichtiger Ort in der Geschichte der Aufhebung der Rassentrennung.",
       hu: "Arkansas fővárosa, a deszegregáció történetének fontos helyszíne.",
@@ -128000,7 +127914,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-MS",
     coords: [-90.1848, 32.2988],
     name: { de: "Jackson (Mississippi)", hu: "Jackson (Mississippi)", ro: "Jackson (Mississippi)", en: "Jackson, MS"},
-    image: "/poi-images/jackson-ms-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Mississippi, bekannt als 'Stadt mit Seele' für ihre Rolle in der Blues-, Gospel- und Jazzmusik.",
       hu: "Mississippi fővárosa, a 'lélekkel teli városként' ismert a blues, a gospel és a jazz zenében betöltött szerepe miatt.",
@@ -129487,7 +129400,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-RI",
     coords: [-71.4128, 41.8240],
     name: { de: "Providence", hu: "Providence", ro: "Providence", en: "Providence"},
-    image: "/poi-images/providence-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Rhode Island, eine der ältesten Städte der USA mit einer lebendigen Kunstszene.",
       hu: "Rhode Island fővárosa, az USA egyik legrégebbi városa, élénk művészeti élettel.",
@@ -130974,7 +130886,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-CT",
     coords: [-72.6851, 41.7637],
     name: { de: "Hartford", hu: "Hartford", ro: "Hartford", en: "Hartford"},
-    image: "/poi-images/hartford-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Connecticut, bekannt als 'Versicherungshauptstadt der Welt'.",
       hu: "Connecticut fővárosa, a 'világ biztosítási fővárosaként' ismert.",
@@ -132353,7 +132264,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-UT",
     coords: [-111.8910, 40.7608],
     name: { de: "Salt Lake City", hu: "Salt Lake City", ro: "Salt Lake City", en: "Salt Lake City"},
-    image: "/poi-images/salt-lake-city-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Utah, gegründet von Mormonen-Pionieren, nahe dem Großen Salzsee.",
       hu: "Utah fővárosa, mormon telepesek alapították, a Nagy-sóstó közelében.",
@@ -136197,7 +136107,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-GA",
     coords: [-81.0912, 32.0809],
     name: { de: "Savannah", hu: "Savannah", ro: "Savannah", en: "Savannah"},
-    image: "/poi-images/savannah-cities-v2.webp",
     description: {
       de: "Eine Küstenstadt in Georgia, bekannt für ihre historischen Plätze und ihre mit spanischem Moos bewachsenen Eichen.",
       hu: "Part menti város Georgiában, történelmi tereiről és spanyol mohával borított tölgyfáiról ismert.",
@@ -136241,7 +136150,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-NM",
     coords: [-105.9378, 35.6870],
     name: { de: "Santa Fe", hu: "Santa Fe", ro: "Santa Fe", en: "Santa Fe"},
-    image: "/poi-images/santa-fe-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von New Mexico, bekannt für ihre Pueblo-Architektur und als kreatives Kunstzentrum.",
       hu: "Új-Mexikó fővárosa, Pueblo-stílusú építészetéről és kreatív művészeti központként ismert.",
@@ -136953,7 +136861,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-AK",
     coords: [-134.4197, 58.3019],
     name: { de: "Juneau", hu: "Juneau", ro: "Juneau", en: "Juneau"},
-    image: "/poi-images/juneau-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Alaska, eine der wenigen Hauptstädte, die nicht über Straßen erreichbar ist.",
       hu: "Alaszka fővárosa, egyike azon kevés fővárosoknak, amelyeket nem lehet közúton megközelíteni.",
@@ -138224,7 +138131,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-AL",
     coords: [-86.3077, 32.3792],
     name: { de: "Montgomery", hu: "Montgomery", ro: "Montgomery", en: "Montgomery"},
-    image: "/poi-images/montgomery-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Alabama, eine Schlüsselstadt in der Bürgerrechtsbewegung.",
       hu: "Alabama fővárosa, a polgárjogi mozgalom kulcsfontosságú városa.",
@@ -139387,7 +139293,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-MD",
     coords: [-76.4922, 38.9784],
     name: { de: "Annapolis", hu: "Annapolis", ro: "Annapolis", en: "Annapolis"},
-    image: "/poi-images/annapolis-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Maryland, Heimat der United States Naval Academy.",
       hu: "Maryland fővárosa, az Egyesült Államok Tengerészeti Akadémiájának otthona.",
@@ -140730,7 +140635,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-NY",
     coords: [-73.7562, 42.6526],
     name: { de: "Albany (New York)", hu: "Albany (New York)", ro: "Albany (New York)", en: "Albany, NY"},
-    image: "/poi-images/albany-ny-cities-v2.webp",
     description: {
       de: "Die Hauptstadt des Bundesstaates New York mit einer langen Geschichte, die bis in die niederländische Kolonialzeit zurückreicht.",
       hu: "New York állam fővárosa, hosszú történelme a holland gyarmati időkig nyúlik vissza.",
@@ -142109,7 +142013,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-PA",
     coords: [-76.8867, 40.2732],
     name: { de: "Harrisburg", hu: "Harrisburg", ro: "Harrisburg", en: "Harrisburg"},
-    image: "/poi-images/harrisburg-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Pennsylvania am Susquehanna River.",
       hu: "Pennsylvania fővárosa a Susquehanna folyó partján.",
@@ -143488,7 +143391,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-NJ",
     coords: [-74.7429, 40.2171],
     name: { de: "Trenton", hu: "Trenton", ro: "Trenton", en: "Trenton"},
-    image: "/poi-images/trenton-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von New Jersey, bekannt für die entscheidende Schlacht von Trenton im Unabhängigkeitskrieg.",
       hu: "New Jersey fővárosa, a függetlenségi háború döntő trentoni csatájáról ismert.",
@@ -144399,7 +144301,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-DE",
     coords: [-75.5244, 39.1582],
     name: { de: "Dover", hu: "Dover", ro: "Dover", en: "Dover"},
-    image: "/poi-images/dover-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Delaware, dem 'ersten Staat', der die US-Verfassung ratifiziert hat.",
       hu: "Delaware fővárosa, az 'első állam', amely ratifikálta az amerikai alkotmányt.",
@@ -145742,7 +145643,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-ME",
     coords: [-69.7794, 44.3106],
     name: { de: "Augusta (Maine)", hu: "Augusta (Maine)", ro: "Augusta (Maine)", en: "Augusta, ME"},
-    image: "/poi-images/augusta-me-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Maine am Kennebec River.",
       hu: "Maine fővárosa a Kennebec folyó partján.",
@@ -147121,7 +147021,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-NH",
     coords: [-71.5376, 43.2081],
     name: { de: "Concord (New Hampshire)", hu: "Concord (New Hampshire)", ro: "Concord (New Hampshire)", en: "Concord, NH"},
-    image: "/poi-images/concord-nh-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von New Hampshire, bekannt für ihr Kapitolgebäude mit goldener Kuppel.",
       hu: "New Hampshire fővárosa, aranykupolás capitoliumáról ismert.",
@@ -148284,7 +148183,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-VT",
     coords: [-72.5754, 44.2601],
     name: { de: "Montpelier", hu: "Montpelier", ro: "Montpelier", en: "Montpelier"},
-    image: "/poi-images/montpelier-cities-v2.webp",
     description: {
       de: "Die kleinste Hauptstadt eines Bundesstaates in den USA nach Einwohnerzahl.",
       hu: "Az USA legkisebb lakosságú állami fővárosa.",
@@ -149051,7 +148949,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-MT",
     coords: [-112.0391, 46.5891],
     name: { de: "Helena", hu: "Helena", ro: "Helena", en: "Helena"},
-    image: "/poi-images/helena-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Montana, gegründet nach Goldfunden im 19. Jahrhundert.",
       hu: "Montana fővárosa, a 19. századi aranyleletek után alapították.",
@@ -150286,7 +150183,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-WY",
     coords: [-104.8202, 41.1399],
     name: { de: "Cheyenne", hu: "Cheyenne", ro: "Cheyenne", en: "Cheyenne"},
-    image: "/poi-images/cheyenne-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Wyoming, bekannt für das Cheyenne Frontier Days, das größte Outdoor-Rodeo der Welt.",
       hu: "Wyoming fővárosa, a Cheyenne Frontier Days-ről, a világ legnagyobb szabadtéri rodeójáról ismert.",
@@ -151088,7 +150984,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-ND",
     coords: [-100.7837, 46.8083],
     name: { de: "Bismarck", hu: "Bismarck", ro: "Bismarck", en: "Bismarck"},
-    image: "/poi-images/bismarck-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von North Dakota am Missouri River.",
       hu: "Észak-Dakota fővárosa a Missouri folyó partján.",
@@ -151639,7 +151534,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-SD",
     coords: [-100.3510, 44.3683],
     name: { de: "Pierre", hu: "Pierre", ro: "Pierre", en: "Pierre"},
-    image: "/poi-images/pierre-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von South Dakota, eine der kleinsten Hauptstädte der USA.",
       hu: "Dél-Dakota fővárosa, az USA egyik legkisebb fővárosa.",
@@ -152982,7 +152876,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-IL",
     coords: [-89.6501, 39.7817],
     name: { de: "Springfield (Illinois)", hu: "Springfield (Illinois)", ro: "Springfield (Illinois)", en: "Springfield, IL"},
-    image: "/poi-images/springfield-il-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Illinois, bekannt als Heimat von Abraham Lincoln.",
       hu: "Illinois fővárosa, Abraham Lincoln otthonaként ismert.",
@@ -153569,7 +153462,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-MO",
     coords: [-92.1735, 38.5767],
     name: { de: "Jefferson City", hu: "Jefferson City", ro: "Jefferson City", en: "Jefferson City"},
-    image: "/poi-images/jefferson-city-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Missouri, benannt nach Thomas Jefferson.",
       hu: "Missouri fővárosa, Thomas Jeffersonról nevezték el.",
@@ -154120,7 +154012,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-KY",
     coords: [-84.8734, 38.2009],
     name: { de: "Frankfort", hu: "Frankfort", ro: "Frankfort", en: "Frankfort"},
-    image: "/poi-images/frankfort-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Kentucky, eine kleine Stadt am Kentucky River.",
       hu: "Kentucky fővárosa, egy kisváros a Kentucky folyó partján.",
@@ -155535,7 +155426,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-MI",
     coords: [-84.5555, 42.7325],
     name: { de: "Lansing", hu: "Lansing", ro: "Lansing", en: "Lansing"},
-    image: "/poi-images/lansing-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Michigan, bekannt für ihre Rolle in der Automobilindustrie und als Regierungssitz.",
       hu: "Michigan fővárosa, az autóiparban betöltött szerepéről és kormányzati székhelyként ismert.",
@@ -156842,7 +156732,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-WI",
     coords: [-89.4012, 43.0731],
     name: { de: "Madison (Wisconsin)", hu: "Madison (Wisconsin)", ro: "Madison (Wisconsin)", en: "Madison, WI"},
-    image: "/poi-images/madison-wi-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Wisconsin, auf einer Landenge zwischen zwei Seen gebaut.",
       hu: "Wisconsin fővárosa, egy földszorosra épült két tó között.",
@@ -158185,7 +158074,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-FL",
     coords: [-84.2807, 30.4383],
     name: { de: "Tallahassee", hu: "Tallahassee", ro: "Tallahassee", en: "Tallahassee"},
-    image: "/poi-images/tallahassee-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Florida mit einer hügeligen Landschaft und mit spanischem Moos bewachsenen Eichen.",
       hu: "Florida fővárosa, dombos tájjal és spanyol mohával borított tölgyfákkal.",
@@ -159564,7 +159452,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-WV",
     coords: [-81.6326, 38.3498],
     name: { de: "Charleston (West Virginia)", hu: "Charleston (Nyugat-Virginia)", ro: "Charleston (Virginia de Vest)", en: "Charleston, WV"},
-    image: "/poi-images/charleston-wv-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von West Virginia am Zusammenfluss von Elk und Kanawha River.",
       hu: "Nyugat-Virginia fővárosa az Elk és a Kanawha folyók összefolyásánál.",
@@ -160799,7 +160686,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-OR",
     coords: [-123.0351, 44.9429],
     name: { de: "Salem (Oregon)", hu: "Salem (Oregon)", ro: "Salem (Oregon)", en: "Salem, OR"},
-    image: "/poi-images/salem-or-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Oregon im Willamette Valley, umgeben von Weinbergen und Ackerland.",
       hu: "Oregon fővárosa a Willamette-völgyben, szőlőültetvényekkel és termőföldekkel körülvéve.",
@@ -162178,7 +162064,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-WA",
     coords: [-122.9007, 47.0379],
     name: { de: "Olympia", hu: "Olympia", ro: "Olympia", en: "Olympia"},
-    image: "/poi-images/olympia-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Washington am südlichen Ende des Puget Sound.",
       hu: "Washington fővárosa a Puget Sound déli végén.",
@@ -162945,7 +162830,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     parent: "US-NV",
     coords: [-119.7674, 39.1638],
     name: { de: "Carson City", hu: "Carson City", ro: "Carson City", en: "Carson City"},
-    image: "/poi-images/carson-city-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Nevada, eine unabhängige Stadt in der Nähe des Lake Tahoe.",
       hu: "Nevada fővárosa, független város a Tahoe-tó közelében.",

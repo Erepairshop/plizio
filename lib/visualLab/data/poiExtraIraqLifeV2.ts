@@ -125,7 +125,6 @@ export const poiExtraIraqLifeV2: POI[] = [
     parent: "IQ-BG",
     coords: [44.3792, 33.3128],
     name: { de: "Al-Zawraa-Park", hu: "Al-Zawraa park", ro: "Parcul Al-Zawraa", en: "Al-Zawraa Park"},
-    image: "/poi-images/al-zawraa-park-life-v2.webp",
     description: { de: "Ein weitläufiger öffentlicher Park in Bagdad, der Grünflächen, einen Vergnügungspark und ein Stadion umfasst.", hu: "Bagdad tágas nyilvános parkja, amely zöldterületeket, egy vidámparkot és egy stadiont is magában foglal.", ro: "Un parc public spațios din Bagdad, care include zone verzi, un parc de distracții și un stadion.", en: "A spacious public park in Baghdad featuring green areas, an amusement park, and a stadium." , es: "Un extenso parque público en Bagdad que incluye zonas verdes, un parque de atracciones y un estadio.", pt: "Um amplo parque público em Bagdá que inclui áreas verdes, um parque de diversões e um estádio.", fr: "Un vaste parc public à Bagdad comprenant des espaces verts, un parc d'attractions et un stade."},
     facts: {
       de: ["Einer der größten Parks in Bagdad.", "Wurde in den 1970er Jahren angelegt."],
@@ -241,7 +240,6 @@ export const poiExtraIraqLifeV2: POI[] = [
     parent: "IQ-BG",
     coords: [44.3750, 33.3150],
     name: { de: "Bagdader Zoo", hu: "Bagdadi Állatkert", ro: "Grădina Zoologică din Bagdad", en: "Baghdad Zoo"},
-    image: "/poi-images/baghdad-zoo-life-v2.webp",
     description: { de: "Der größte Zoo im Irak, gelegen im Al-Zawraa-Park, der Familien eine Vielzahl an einheimischen und exotischen Tieren bietet.", hu: "Irak legnagyobb állatkertje, amely az Al-Zawraa parkban található, és számos helyi és egzotikus állattal várja a családokat.", ro: "Cea mai mare grădină zoologică din Irak, situată în Parcul Al-Zawraa, oferind familiilor o varietate de animale native și exotice.", en: "The largest zoo in Iraq, located in Al-Zawraa Park, offering families a variety of native and exotic animals." , es: "El zoológico más grande de Irak, situado en el Parque Al-Zawraa, que ofrece a las familias una gran variedad de animales autóctonos y exóticos.", pt: "O maior zoológico do Iraque, localizado no Parque Al-Zawraa, que oferece às famílias uma variedade de animais nativos e exóticos.", fr: "Le plus grand zoo d'Irak, situé dans le parc Al-Zawraa, offrant aux familles une grande variété d'animaux locaux et exotiques."},
     facts: {
       de: ["Eröffnete ursprünglich 1971.", "Beherbergt hunderte von Tierarten."],
@@ -1653,7 +1651,6 @@ export const poiExtraIraqLifeV2: POI[] = [
     parent: "IQ-BG",
     coords: [44.4750, 33.3120],
     name: { de: "Sindbad Land", hu: "Szindbád Földje", ro: "Sindbad Land", en: "Sindbad Land"},
-    image: "/poi-images/sindbad-land-life-v2.webp",
     description: { de: "Ein beliebter moderner Vergnügungspark in Bagdad, der nach der berühmten Figur Sindbad der Seefahrer benannt ist.", hu: "Népszerű modern vidámpark Bagdadban, amelyet a híres Tengerész Szindbád nevéről neveztek el.", ro: "Un parc de distracții modern și popular din Bagdad, numit după celebrul personaj Sindbad Marinarul.", en: "A popular modern amusement park in Baghdad, named after the famous character Sindbad the Sailor." , es: "Un popular y moderno parque de atracciones en Bagdad, que lleva el nombre del famoso personaje Simbad el Marino.", pt: "Um popular e moderno parque de diversões em Bagdá, nomeado em homenagem à famosa personagem Simbad, o Marujo.", fr: "Un parc d'attractions moderne et populaire à Bagdad, nommé d'après le célèbre personnage de Sindbad le marin."},
     facts: {
       de: ["Bietet zahlreiche Fahrgeschäfte für Kinder.", "Ein beliebtes Ausflugsziel an Wochenenden."],
@@ -2201,7 +2198,6 @@ export const poiExtraIraqLifeV2: POI[] = [
     parent: "IQ-AR",
     coords: [43.9858, 36.1915],
     name: { de: "Sami-Abdulrahman-Park", hu: "Sami Abdulrahman park", ro: "Parcul Sami Abdulrahman", en: "Sami Abdulrahman Park"},
-    image: "/poi-images/sami-abdulrahman-park-life-v2.webp",
     description: { de: "Der größte Park in Erbil, erbaut auf dem Gelände einer ehemaligen Militärbasis, heute eine grüne Oase der Ruhe.", hu: "Erbíl legnagyobb parkja, amelyet egy korábbi katonai bázis helyén építettek, ma a nyugalom zöld szigete.", ro: "Cel mai mare parc din Erbil, construit pe locul unei foste baze militare, astăzi o oază verde de liniște.", en: "The largest park in Erbil, built on the site of a former military base, today a green oasis of peace." , es: "El parque más grande de Erbil, construido sobre una antigua base militar, hoy es un oasis verde de tranquilidad.", pt: "O maior parque de Erbil, construído no terreno de uma antiga base militar, hoje é um oásis verde de tranquilidade.", fr: "Le plus grand parc d'Erbil, construit sur le site d'une ancienne base militaire, est aujourd'hui une oasis de verdure et de calme."},
     facts: {
       de: ["Erstreckt sich über hunderte Hektar.", "Benannt nach dem kurdischen Politiker Sami Abdulrahman."],
@@ -4414,7 +4410,6 @@ export const poiExtraIraqLifeV2: POI[] = [
     parent: "IQ-SU",
     coords: [45.4608, 35.5866],
     name: { de: "Chavi Land", hu: "Chavi Land", ro: "Chavi Land", en: "Chavi Land"},
-    image: "/poi-images/chavi-land-life-v2.webp",
     description: { de: "Einer der größten Vergnügungsparks in der Region Kurdistan, gelegen an den Hängen des Goizha-Berges in Sulaimaniyya.", hu: "A Kurdisztáni Régió egyik legnagyobb vidámparkja, amely a Goizha-hegy lejtőin található Szulejmánijjában.", ro: "Unul dintre cele mai mari parcuri de distracții din Regiunea Kurdistan, situat pe pantele muntelui Goizha din Sulaymaniyah.", en: "One of the largest amusement parks in the Kurdistan Region, located on the slopes of Mount Goizha in Sulaymaniyah." , es: "Uno de los parques de atracciones más grandes de la región del Kurdistán, situado en las laderas del monte Goizha en Sulaymaniyah.", pt: "Um dos maiores parques de diversões na região do Curdistão, localizado nas encostas do monte Goizha em Sulaymaniyah.", fr: "L'un des plus grands parcs d'attractions de la région du Kurdistan, situé sur les pentes du mont Goizha à Souleimaniye."},
     facts: {
       de: ["Verfügt über eine Seilbahn, die einen Panoramablick bietet.", "Zieht jährlich tausende Touristen an."],
@@ -5790,7 +5785,6 @@ export const poiExtraIraqLifeV2: POI[] = [
     parent: "IQ-SU",
     coords: [45.4328, 35.5683],
     name: { de: "Azadi-Park", hu: "Azadi park", ro: "Parcul Azadi", en: "Azadi Park"},
-    image: "/poi-images/azadi-park-life-v2.webp",
     description: { de: "Ein bedeutender Stadtpark in Sulaimaniyya, der wunderschöne Gärten, Denkmäler und ruhige Spazierwege bietet.", hu: "Jelentős városi park Szulejmánijjában, amely gyönyörű kerteket, emlékműveket és nyugodt sétányokat kínál.", ro: "Un parc urban important din Sulaymaniyah, care oferă grădini frumoase, monumente și alei liniștite.", en: "A significant urban park in Sulaymaniyah, offering beautiful gardens, monuments, and peaceful walking paths." , es: "Un importante parque urbano en Sulaymaniyah que ofrece hermosos jardines, monumentos y tranquilos senderos para pasear.", pt: "Um importante parque urbano em Sulaymaniyah que oferece belos jardins, monumentos e trilhas tranquilas para caminhadas.", fr: "Un important parc urbain à Souleimaniye, offrant de magnifiques jardins, des monuments et des sentiers de promenade paisibles."},
     facts: {
       de: ["Der Name 'Azadi' bedeutet Freiheit auf Kurdisch.", "Der Park war früher ein Militärstützpunkt."],
@@ -6050,7 +6044,6 @@ export const poiExtraIraqLifeV2: POI[] = [
     parent: "IQ-BA",
     coords: [47.7812, 30.5186],
     name: { de: "Basra-Familienpark", hu: "Bászrai Családi Park", ro: "Parcul Familial din Basra", en: "Basra Family Park"},
-    image: "/poi-images/basra-family-park-life-v2.webp",
     description: { de: "Ein beliebter Park im Süden des Irak, der den Familien von Basra einen Ort der Erholung in der Stadt bietet.", hu: "Népszerű park Dél-Irakban, amely Bászra családjai számára nyújt kikapcsolódási lehetőséget a városban.", ro: "Un parc popular din sudul Irakului, care oferă familiilor din Basra un loc de recreere în oraș.", en: "A popular park in southern Iraq, providing the families of Basra with a place for recreation in the city." , es: "Un parque popular en el sur de Irak que ofrece a las familias de Basora un lugar de descanso en la ciudad.", pt: "Um parque popular no sul do Iraque que oferece às famílias de Basra um local de lazer na cidade.", fr: "Un parc populaire du sud de l'Irak, offrant aux familles de Bassorah un lieu de détente dans la ville."},
     facts: {
       de: ["Oft an den Abenden gut besucht.", "Verfügt über Spielplätze und kleine Cafés."],
@@ -6670,7 +6663,6 @@ export const poiExtraIraqLifeV2: POI[] = [
     parent: "IQ-NI",
     coords: [43.1360, 36.3536],
     name: { de: "Mosul-Wälder", hu: "Moszuli erdők", ro: "Pădurile din Mosul", en: "Mosul Woods"},
-    image: "/poi-images/mosul-woods-life-v2.webp",
     description: { de: "Ein bewaldetes Erholungsgebiet am Ufer des Tigris, das als grüne Lunge der Stadt Mosul gilt.", hu: "A Tigris partján fekvő fásított pihenőövezet, amely Moszul város zöld tüdejének számít.", ro: "O zonă de recreere împădurită pe malurile Tigrului, considerată plămânul verde al orașului Mosul.", en: "A forested recreation area on the banks of the Tigris, considered the green lung of the city of Mosul." , es: "Una zona recreativa boscosa a orillas del Tigris, considerada el pulmón verde de la ciudad de Mosul.", pt: "Uma área recreativa arborizada nas margens do Tigre, considerada o pulmão verde da cidade de Mossul.", fr: "Une zone de loisirs boisée sur les rives du Tigre, considérée comme le poumon vert de la ville de Mossoul."},
     facts: {
       de: ["Lokal als 'Al-Ghabat' bekannt.", "Wurde nach den Konflikten der letzten Jahre teilweise wiederaufgeforstet."],
@@ -8118,7 +8110,6 @@ export const poiExtraIraqLifeV2: POI[] = [
     parent: "IQ-AR",
     coords: [43.9960, 36.1830],
     name: { de: "Shanidar-Park", hu: "Sanidar park", ro: "Parcul Shanidar", en: "Shanidar Park"},
-    image: "/poi-images/shanidar-park-life-v2.webp",
     description: { de: "Ein städtischer Park in Erbil, benannt nach der berühmten Höhle, bekannt für seine Kunstgalerien und grüne Architektur.", hu: "Városi park Erbílben, amelyet a híres barlangról neveztek el, és amely művészeti galériáiról és zöld építészetéről ismert.", ro: "Un parc urban din Erbil, numit după celebra peșteră, cunoscut pentru galeriile sale de artă și arhitectura verde.", en: "An urban park in Erbil, named after the famous cave, known for its art galleries and green architecture." , es: "Un parque urbano en Erbil, llamado así por la famosa cueva, conocido por sus galerías de arte y arquitectura verde.", pt: "Um parque urbano em Erbil, nomeado em homenagem à famosa caverna, conhecido pelas suas galerias de arte e arquitetura verde.", fr: "Un parc urbain à Erbil, nommé d'après la célèbre grotte, connu pour ses galeries d'art et son architecture verte."},
     facts: {
       de: ["Verbunden mit dem Minarett-Park durch eine Seilbahn.", "Beherbergt ein Zentrum für lokale Kunst."],
@@ -9458,7 +9449,6 @@ export const poiExtraIraqLifeV2: POI[] = [
     parent: "IQ-AR",
     coords: [43.9930, 36.1825],
     name: { de: "Minarett-Park", hu: "Minaret park", ro: "Parcul Minaret", en: "Minaret Park"},
-    image: "/poi-images/minaret-park-life-v2.webp",
     description: { de: "Ein historischer Park in Erbil, der das berühmte Choli-Minarett umgibt und eine ruhige Atmosphäre bietet.", hu: "Történelmi park Erbílben, amely a híres Csóli minaretet veszi körül, és nyugodt légkört kínál.", ro: "Un parc istoric din Erbil, care înconjoară faimosul minaret Choli și oferă o atmosferă liniștită.", en: "A historic park in Erbil surrounding the famous Mudhaffar Minaret and offering a peaceful atmosphere." , es: "Un parque histórico en Erbil que rodea el famoso Minarete de Choli y ofrece una atmósfera tranquila.", pt: "Um parque histórico em Erbil que rodeia o famoso Minarete de Choli e oferece uma atmosfera tranquila.", fr: "Un parc historique à Erbil qui entoure le célèbre minaret de Choli et offre une atmosphère paisible."},
     facts: {
       de: ["Das Minarett stammt aus dem 12. Jahrhundert.", "Ein beliebter Ort für Familienpicknicks."],
@@ -9826,7 +9816,6 @@ export const poiExtraIraqLifeV2: POI[] = [
     parent: "IQ-AR",
     coords: [44.0410, 36.9360],
     name: { de: "Naturschutzgebiet Barzan", hu: "Barzan Természetvédelmi Terület", ro: "Rezervația Naturală Barzan", en: "Barzan Nature Reserve"},
-    image: "/poi-images/barzan-nature-reserve-life-v2.webp",
     description: { de: "Ein bedeutendes Schutzgebiet in der Bergregion, das für seine reiche Flora und Fauna, darunter Wildziegen und Leoparden, bekannt ist.", hu: "Jelentős védett terület a hegyvidéken, amely gazdag növény- és állatvilágáról, köztük vadkecskékről és leopárdokról ismert.", ro: "O arie protejată importantă din regiunea montană, cunoscută pentru flora și fauna sa bogată, incluzând capre sălbatice și leoparzi.", en: "A significant protected area in the mountainous region, known for its rich flora and fauna, including wild goats and leopards." , es: "Una importante área protegida en la región montañosa, conocida por su rica flora y fauna, incluyendo cabras montesas y leopardos.", pt: "Uma importante área protegida na região montanhosa, conhecida pela sua rica flora e fauna, incluindo cabras selvagens e leopardos.", fr: "Une zone protégée importante dans la région montagneuse, connue pour sa flore et sa faune riches, notamment les chèvres sauvages et les léopards."},
     facts: {
       de: ["Strenge Jagdverbote schützen die Wildtiere.", "Bietet wichtige Lebensräume für seltene Vogelarten."],
@@ -9861,7 +9850,6 @@ export const poiExtraIraqLifeV2: POI[] = [
     parent: "IQ-NA",
     coords: [44.2562, 31.9546],
     name: { de: "Naturschutzgebiet Bahr Al-Najaf", hu: "Bahr Al-Nadzsaf Természetvédelmi Terület", ro: "Rezervația Naturală Bahr Al-Najaf", en: "Bahr Al-Najaf Nature Reserve"},
-    image: "/poi-images/bahr-al-najaf-reserve-life-v2.webp",
     description: { de: "Eine Senke in der Wüste, die sich nach starken Regenfällen in einen See verwandelt und viele Zugvögel anzieht.", hu: "Egy sivatagi medence, amely heves esőzések után tóvá alakul, és rengeteg vándormadarat vonz.", ro: "O depresiune din deșert care se transformă într-un lac după ploi abundente, atrăgând multe păsări migratoare.", en: "A desert depression that turns into a lake after heavy rains, attracting many migratory birds." , es: "Una depresión en el desierto que se transforma en un lago tras las fuertes lluvias, atrayendo a muchas aves migratorias.", pt: "Uma depressão no deserto que se transforma num lago após chuvas fortes e atrai muitas aves migratórias.", fr: "Une dépression dans le désert qui se transforme en lac après de fortes pluies et attire de nombreux oiseaux migrateurs."},
     facts: {
       de: ["Die Größe des Gewässers schwankt stark je nach Jahreszeit.", "Wichtiges Feuchtgebiet für Pelikane und Flamingos."],
@@ -10049,7 +10037,6 @@ export const poiExtraIraqLifeV2: POI[] = [
     parent: "IQ-SU",
     coords: [45.3800, 35.2500],
     name: { de: "Naturschutzgebiet Qara Dagh", hu: "Qara Dagh Természetvédelmi Terület", ro: "Rezervația Naturală Qara Dagh", en: "Qara Dagh Nature Reserve"},
-    image: "/poi-images/qara-dagh-reserve-life-v2.webp",
     description: { de: "Ein bewaldetes Berggebiet, das eines der letzten Rückzugsgebiete für den vom Aussterben bedrohten persischen Leoparden ist.", hu: "Erdős hegyvidéki terület, amely a kihalás szélén álló perzsa leopárd egyik utolsó menedékhelye.", ro: "O zonă montană împădurită care este unul dintre ultimele refugii pentru leopardul persan, pe cale de dispariție.", en: "A forested mountainous area that is one of the last refuges for the critically endangered Persian leopard." , es: "Una zona montañosa boscosa que es uno de los últimos refugios para el leopardo persa, en peligro de extinción.", pt: "Uma área montanhosa arborizada que é um dos últimos refúgios para o leopardo-persa, ameaçado de extinção.", fr: "Une zone montagneuse boisée qui constitue l'un des derniers refuges pour le léopard de Perse, en voie de disparition."},
     facts: {
       de: ["Erste Kamerafallen-Beweise des Leoparden im Irak wurden hier aufgenommen.", "Verfügt über dichte Eichenwälder."],
@@ -10084,7 +10071,6 @@ export const poiExtraIraqLifeV2: POI[] = [
     parent: "IQ-DQ",
     coords: [47.0227, 31.0259],
     name: { de: "Nationalpark Mesopotamische Marschen", hu: "Mezopotámiai Mocsarak Nemzeti Park", ro: "Parcul Național Mlaștinile Mesopotamiene", en: "Mesopotamian Marshes National Park"},
-    image: "/poi-images/mesopotamian-marshes-np-life-v2.webp",
     description: { de: "Der erste Nationalpark des Irak, der die einzigartige Artenvielfalt und Kultur der Marsch-Araber schützt.", hu: "Irak első nemzeti parkja, amely a mocsári arabok egyedülálló biológiai sokféleségét és kultúráját védi.", ro: "Primul parc național din Irak, protejând biodiversitatea și cultura unică a arabilor din mlaștini.", en: "Iraq's first national park, protecting the unique biodiversity and culture of the Marsh Arabs." , es: "El primer parque nacional de Irak, que protege la biodiversidad y la cultura únicas de los árabes de las marismas.", pt: "O primeiro parque nacional do Iraque, que protege a biodiversidade e a cultura únicas dos árabes do pântano.", fr: "Le premier parc national d'Irak, qui protège la biodiversité et la culture uniques des Arabes des marais."},
     facts: {
       de: ["Das Gebiet wurde 2016 zum UNESCO-Weltkulturerbe erklärt.", "Wichtiger Rastplatz für Millionen von Zugvögeln."],
@@ -10164,7 +10150,6 @@ export const poiExtraIraqLifeV2: POI[] = [
     parent: "IQ-WA",
     coords: [45.8160, 32.5000],
     name: { de: "Landwirtschaftsregion Al-Gharraf", hu: "Al-Garraf Mezőgazdasági Régió", ro: "Regiunea Agricolă Al-Gharraf", en: "Al-Gharraf Agricultural Region"},
-    image: "/poi-images/al-gharraf-agriculture-life-v2.webp",
     description: { de: "Ein fruchtbares landwirtschaftliches Gebiet entlang des Al-Gharraf-Kanals, der vom Tigris abzweigt und traditionellen Ackerbau ermöglicht.", hu: "Termékeny mezőgazdasági terület az Al-Garraf csatorna mentén, amely a Tigrisből ágazik ki, és hagyományos földművelést tesz lehetővé.", ro: "O zonă agricolă fertilă de-a lungul canalului Al-Gharraf, care se ramifică din Tigru, permițând agricultura tradițională.", en: "A fertile agricultural area along the Al-Gharraf Canal, which branches off from the Tigris, allowing traditional farming." , es: "Una fértil zona agrícola a lo largo del canal Al-Gharraf, que se desvía del río Tigris y permite el cultivo tradicional.", pt: "Uma fértil área agrícola ao longo do canal Al-Gharraf, que deriva do rio Tigre e permite a agricultura tradicional.", fr: "Une zone agricole fertile le long du canal d'Al-Gharraf, qui bifurque du Tigre et permet une agriculture traditionnelle."},
     facts: {
       de: ["Bekannt für den Anbau von Weizen und Gerste.", "Eines der ältesten durchgehend landwirtschaftlich genutzten Gebiete der Welt."],
@@ -10460,7 +10445,6 @@ export const poiExtraIraqLifeV2: POI[] = [
     parent: "IQ-BA",
     coords: [47.7738, 30.5258],
     name: { de: "Dattelpalmenhaine von Basra", hu: "Bászrai pálmaligetek", ro: "Livezile de Palmieri din Basra", en: "Basra Date Palm Groves"},
-    image: "/poi-images/basra-date-palms-life-v2.webp",
     description: { de: "Einst die größten Dattelpalmenhaine der Welt am Ufer des Schatt al-Arab, die noch heute hochwertige Datteln produzieren.", hu: "Egykor a világ legnagyobb datolyapálma-ligetei voltak a Satt el-Arab partján, amelyek még ma is kiváló minőségű datolyát termelnek.", ro: "Cândva cele mai mari livezi de curmali din lume pe malurile Shatt al-Arab, care și astăzi produc curmale de înaltă calitate.", en: "Once the largest date palm groves in the world on the banks of the Shatt al-Arab, still producing high-quality dates today." , es: "Antiguamente los palmerales de dátiles más grandes del mundo a orillas del Shatt al-Arab, que aún hoy producen dátiles de alta calidad.", pt: "Outrora os maiores palmeirais de tâmaras do mundo nas margens do Shatt al-Arab, que ainda hoje produzem tâmaras de alta qualidade.", fr: "Autrefois les plus grandes palmeraies de dattes au monde sur les rives du Chatt-el-Arab, produisant encore aujourd'hui des dattes de haute qualité."},
     facts: {
       de: ["Vor den 1980er Jahren gab es hier über 30 Millionen Dattelpalmen.", "Der Irak war einst der größte Dattelproduzent der Welt."],
@@ -11377,7 +11361,6 @@ export const poiExtraIraqLifeV2: POI[] = [
     parent: "IQ-DA",
     coords: [42.9950, 36.8820],
     name: { de: "Dohuk-Staudamm-Park", hu: "Dohuk-gát park", ro: "Parcul Barajului Dohuk", en: "Dohuk Dam Park"},
-    image: "/poi-images/dohuk-dam-park-life-v2.webp",
     description: { de: "Ein malerisches Erholungsgebiet am Dohuk-See, das Einheimischen und Touristen Möglichkeiten zum Picknicken und Bootfahren bietet.", hu: "Festői pihenőhely a Dohuk-tó partján, amely piknikezési és csónakázási lehetőségeket kínál a helyieknek és a turistáknak.", ro: "O zonă pitorească de agrement la Lacul Dohuk, care oferă localnicilor și turiștilor oportunități de picnic și plimbări cu barca.", en: "A picturesque recreation area at Lake Dohuk, offering locals and tourists opportunities for picnicking and boating." , es: "Una pintoresca zona recreativa en el lago Duhok que ofrece a locales y turistas oportunidades para hacer picnic y pasear en bote.", pt: "Uma área de lazer pitoresca no lago Duhok, que oferece a habitantes locais e turistas oportunidades para piqueniques e passeios de barco.", fr: "Une zone de loisirs pittoresque au bord du lac de Dohuk, offrant aux habitants et aux touristes des possibilités de pique-nique et de bateau."},
     facts: {
       de: ["Bietet atemberaubende Ausblicke auf die Berge und das Wasser.", "Ein sehr beliebtes Wochenendziel in der Region."],

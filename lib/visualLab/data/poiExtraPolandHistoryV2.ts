@@ -7,8 +7,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "battlefield",
     name: { de: "Schlachtfeld von Tannenberg", hu: "Grunwaldi csatamező", ro: "Câmpul de luptă de la Grunwald", en: "Grunwald Battlefield"},
-    image: "/poi-images/poland-grunwald-battlefield-history-v2.webp",
-    coords: [20.124, 53.484],
     coords: [20.124, 53.484],
     description: {
       de: "Ort einer der größten Schlachten des Mittelalters im Jahr 1410. Hier besiegte eine polnisch-litauische Allianz den Deutschen Orden entscheidend.",
@@ -313,8 +311,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "museum",
     name: { de: "Archäologisches Reservat Biskupin", hu: "Biskupini régészeti rezervátum", ro: "Rezervația Arheologică Biskupin", en: "Biskupin Archaeological Museum"},
-    image: "/poi-images/poland-biskupin-settlement-history-v2.webp",
-    coords: [17.744, 52.788],
     coords: [17.744, 52.788],
     description: {
       de: "Eine rekonstruierte befestigte Siedlung der Lausitzer Kultur aus der frühen Eisenzeit. Die Fundstätte wurde 1933 in einem Sumpfgebiet entdeckt.",
@@ -475,8 +471,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "monument",
     name: { de: "Westerplatte Denkmal", hu: "Westerplatte-emlékmű", ro: "Monumentul de la Westerplatte", en: "Westerplatte Memorial"},
-    image: "/poi-images/poland-westerplatte-history-v2.webp",
-    coords: [18.667, 54.407],
     coords: [18.667, 54.407],
     description: {
       de: "Halbinsel in Danzig, auf der am 1. September 1939 der Zweite Weltkrieg begann. Polnische Soldaten verteidigten das Depot sieben Tage lang.",
@@ -520,8 +514,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "castle",
     name: { de: "Königsschloss Wawel", hu: "Waweli királyi vár", ro: "Castelul Regal Wawel", en: "Wawel Royal Castle"},
-    image: "/poi-images/poland-wawel-castle-history-v2.webp",
-    coords: [19.936, 50.054],
     coords: [19.936, 50.054],
     description: {
       de: "Ehemalige Residenz der polnischen Könige in Krakau auf dem Wawelhügel. Es vereint Architekturstile von der Romanik bis zum Barock.",
@@ -754,8 +746,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "castle",
     name: { de: "Marienburg", hu: "Malborki vár", ro: "Castelul Malbork", en: "Malbork Castle"},
-    image: "/poi-images/poland-malbork-castle-history-v2.webp",
-    coords: [19.028, 54.039],
     coords: [19.028, 54.039],
     description: {
       de: "Die größte Backsteinburg der Welt und ehemaliger Hauptsitz des Deutschen Ordens. Diese massive Festung am Fluss Nogat ist ein UNESCO-Welterbe.",
@@ -799,8 +789,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "museum",
     name: { de: "Auschwitz-Birkenau Denkmal", hu: "Auschwitz-Birkenau emlékhely", ro: "Memorialul Auschwitz-Birkenau", en: "Auschwitz-Birkenau Memorial"},
-    image: "/poi-images/poland-auschwitz-birkenau-history-v2.webp",
-    coords: [19.202, 50.027],
     coords: [19.202, 50.027],
     description: {
       de: "Ehemaliges deutsches Konzentrations- und Vernichtungslager, das heute als Gedenkstätte und Museum dient. Es ist das Symbol des Holocaust.",
@@ -844,8 +832,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "ruins",
     name: { de: "Wolfsschanze", hu: "Farkasodú", ro: "Bârlogul Lupului", en: "Wolf's Lair"},
-    image: "/poi-images/poland-wolfs-lair-history-v2.webp",
-    coords: [21.494, 54.081],
     coords: [21.494, 54.081],
     description: {
       de: "Ruinen von Adolf Hitlers erstem militärischen Hauptquartier an der Ostfront im Zweiten Weltkrieg. Hier fand 1944 das Stauffenberg-Attentat statt.",
@@ -1006,8 +992,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "palace",
     name: { de: "Schloss Wilanów", hu: "Wilanówi palota", ro: "Palatul Wilanów", en: "Wilanów Palace"},
-    image: "/poi-images/poland-wilanow-palace-history-v2.webp",
-    coords: [21.09, 52.165],
     coords: [21.09, 52.165],
     description: {
       de: "Königliche Barockresidenz in Warschau, erbaut für König Jan III. Sobieski. Es ist eines der wenigen Denkmäler, die die Teilungen Polens überstanden.",
@@ -1051,8 +1035,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "church",
     name: { de: "Kloster Jasna Góra", hu: "Jasna Góra-i kolostor", ro: "Mănăstirea Jasna Góra", en: "Jasna Góra Monastery"},
-    image: "/poi-images/poland-jasna-gora-monastery-history-v2.webp",
-    coords: [19.097, 50.812],
     coords: [19.097, 50.812],
     description: {
       de: "Berühmtes Paulinerkloster in Częstochowa und der wichtigste Wallfahrtsort Polens. Es beherbergt die Ikone der Schwarzen Madonna.",
@@ -1789,8 +1771,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "town",
     name: { de: "Altstadt von Zamość", hu: "Zamość óvárosa", ro: "Orașul vechi Zamość", en: "Zamość Old Town"},
-    image: "/poi-images/poland-zamosc-old-town-history-v2.webp",
-    coords: [23.252, 50.717],
     coords: [23.252, 50.717],
     description: {
       de: "Eine nach italienischem Vorbild erbaute Renaissancestadt, bekannt als ideale Stadt. Sie wurde im 16. Jahrhundert von Jan Zamoyski gegründet.",
@@ -1834,8 +1814,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "mine",
     name: { de: "Feuersteinbergwerke Krzemionki", hu: "Krzemionki kovabánya", ro: "Minele de silex Krzemionki", en: "Krzemionki Flint Mines"},
-    image: "/poi-images/poland-krzemionki-mines-history-v2.webp",
-    coords: [21.488, 50.969],
     coords: [21.488, 50.969],
     description: {
       de: "Ein Komplex neolithischer und frühbronzezeitlicher Bergwerke für gestreiften Feuerstein. Es ist eines der größten prähistorischen Bergwerke der Welt.",
@@ -2140,8 +2118,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "castle",
     name: { de: "Schloss Łańcut", hu: "Łańcuti kastély", ro: "Castelul Łańcut", en: "Łańcut Castle"},
-    image: "/poi-images/poland-lancut-castle-history-v2.webp",
-    coords: [22.234, 50.068],
     coords: [22.234, 50.068],
     description: {
       de: "Eine der prachtvollsten Aristokratenresidenzen Polens, bekannt für ihre Kutschensammlung. Das Schloss ist von einem weitläufigen Park umgeben.",
@@ -2185,8 +2161,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "castle",
     name: { de: "Schloss Fürstenstein", hu: "Książ vára", ro: "Castelul Książ", en: "Książ Castle"},
-    image: "/poi-images/poland-ksiaz-castle-history-v2.webp",
-    coords: [16.292, 50.842],
     coords: [16.292, 50.842],
     description: {
       de: "Das größte Schloss in Schlesien, erbaut auf einem Felsen. Es beherbergt mysteriöse Tunnel aus dem Zweiten Weltkrieg, die Teil des Projekts Riese waren.",
@@ -2563,8 +2537,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "ruins",
     name: { de: "Ostrów Lednicki", hu: "Ostrów Lednicki", ro: "Ostrów Lednicki", en: "Ostrów Lednicki"},
-    image: "/poi-images/poland-ostrow-lednicki-history-v2.webp",
-    coords: [17.377, 52.526],
     coords: [17.377, 52.526],
     description: {
       de: "Eine Insel auf dem Lednica-See, die im 10. Jahrhundert eine wichtige Residenz der frühen polnischen Herrscher war. Möglicher Ort der Taufe Polens.",
@@ -2608,8 +2580,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "cathedral",
     name: { de: "Kathedrale von Gnesen", hu: "Gnieznói székesegyház", ro: "Catedrala din Gniezno", en: "Gniezno Cathedral"},
-    image: "/poi-images/poland-gniezno-cathedral-history-v2.webp",
-    coords: [17.592, 52.536],
     coords: [17.592, 52.536],
     description: {
       de: "Eine gotische Kathedrale in der ersten Hauptstadt Polens. Sie ist berühmt als Krönungsort der ersten polnischen Könige und Sitz des Primas.",
@@ -4390,8 +4360,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "town",
     name: { de: "Altstadt von Toruń", hu: "Toruń óvárosa", ro: "Orașul vechi Toruń", en: "Toruń Old Town"},
-    image: "/poi-images/poland-torun-old-town-history-v2.webp",
-    coords: [18.604, 53.01],
     coords: [18.604, 53.01],
     description: {
       de: "Eine gut erhaltene mittelalterliche Backsteinstadt an der Weichsel. Sie ist der Geburtsort des Astronomen Nikolaus Kopernikus.",
@@ -5128,8 +5096,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "town",
     name: { de: "Kazimierz Dolny", hu: "Kazimierz Dolny", ro: "Kazimierz Dolny", en: "Kazimierz Dolny"},
-    image: "/poi-images/poland-kazimierz-dolny-history-v2.webp",
-    coords: [21.948, 51.321],
     coords: [21.948, 51.321],
     description: {
       de: "Eine charmante Renaissancestadt an der Weichsel, bekannt für ihre Architektur und ihre jüdische Geschichte. Ein beliebtes Ziel für Künstler.",
@@ -5398,8 +5364,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "cathedral",
     name: { de: "Kathedrale von Frombork", hu: "Fromborki székesegyház", ro: "Catedrala din Frombork", en: "Frombork Cathedral"},
-    image: "/poi-images/poland-frombork-cathedral-history-v2.webp",
-    coords: [19.681, 54.357],
     coords: [19.681, 54.357],
     description: {
       de: "Eine befestigte Kathedralenanlage, in der Nikolaus Kopernikus lebte und arbeitete. Er entwickelte hier seine heliozentrische Theorie.",
@@ -5443,8 +5407,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "battlefield",
     name: { de: "Schlachtfeld von Racławice", hu: "Racławicei csatamező", ro: "Câmpul de luptă de la Racławice", en: "Racławice Battlefield"},
-    image: "/poi-images/poland-raclawice-battlefield-history-v2.webp",
-    coords: [20.245, 50.315],
     coords: [20.245, 50.315],
     description: {
       de: "Ort des Sieges polnischer Aufständischer über russische Truppen im Jahr 1794. Berühmt für den Einsatz von mit Sensen bewaffneten Bauern.",
@@ -5785,8 +5747,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "castle",
     name: { de: "Schloss Pszczyna", hu: "Pszczyna-i kastély", ro: "Castelul Pszczyna", en: "Pszczyna Castle"},
-    image: "/poi-images/poland-pszczyna-castle-history-v2.webp",
-    coords: [18.942, 49.978],
     coords: [18.942, 49.978],
     description: {
       de: "Eine neobarocke Residenz, die für ihre originalgetreu erhaltenen Innenräume bekannt ist. Einst war sie der Sitz der Fürsten von Pleß.",
@@ -5983,8 +5943,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "palace",
     name: { de: "Palast in Kozłówka", hu: "Kozłówkai palota", ro: "Palatul Kozłówka", en: "Kozłówka Palace"},
-    image: "/poi-images/poland-kozlowka-palace-history-v2.webp",
-    coords: [22.489, 51.459],
     coords: [22.489, 51.459],
     description: {
       de: "Eine spätbarocke Palastanlage der Familie Zamoyski, die heute als Museum dient. Sie beherbergt die einzige Galerie des Sozialistischen Realismus in Polen.",
@@ -6325,8 +6283,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "monument",
     name: { de: "Festung Silberberg", hu: "Ezüsthegyi erőd", ro: "Cetatea Srebrna Góra", en: "Srebrna Góra Fortress"},
-    image: "/poi-images/poland-srebrna-gora-fortress-history-v2.webp",
-    coords: [16.647, 50.57],
     coords: [16.647, 50.57],
     description: {
       de: "Die größte Bergfestung Europas, im 18. Jahrhundert von Preußen erbaut. Sie wurde nie eingenommen und gilt als Meisterwerk der Verteidigungsarchitektur.",
@@ -6667,8 +6623,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "monument",
     name: { de: "Festung Modlin", hu: "Modlini erőd", ro: "Cetatea Modlin", en: "Modlin Fortress"},
-    image: "/poi-images/poland-modlin-fortress-history-v2.webp",
-    coords: [20.686, 52.438],
     coords: [20.686, 52.438],
     description: {
       de: "Eine massive Festung am Zusammenfluss von Weichsel und Narew. Sie besitzt das längste Gebäude Europas, eine über 2 km lange Kaserne.",
@@ -6712,8 +6666,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "battlefield",
     name: { de: "Schlachtfeld von Cedynia", hu: "Cedyniai csatamező", ro: "Câmpul de luptă de la Cedynia", en: "Cedynia Battlefield"},
-    image: "/poi-images/poland-cedynia-battlefield-history-v2.webp",
-    coords: [14.202, 52.879],
     coords: [14.202, 52.879],
     description: {
       de: "Ort des Sieges von Herzog Mieszko I. über die Truppen von Markgraf Hodo im Jahr 972. Dies war der erste historisch belegte Sieg Polens.",
@@ -7090,8 +7042,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "town",
     name: { de: "Altstadt von Chełmno", hu: "Chełmno óvárosa", ro: "Orașul vechi Chełmno", en: "Chełmno Old Town"},
-    image: "/poi-images/poland-chelmno-old-town-history-v2.webp",
-    coords: [18.423, 53.348],
     coords: [18.423, 53.348],
     description: {
       de: "Eine mittelalterliche Stadt auf neun Hügeln, die ihren ursprünglichen schachbrettartigen Grundriss bewahrt hat. Bekannt als Stadt der Verliebten.",
@@ -7540,8 +7490,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "church",
     name: { de: "Abtei Tyniec", hu: "Tynieci apátság", ro: "Abația Tyniec", en: "Tyniec Abbey"},
-    image: "/poi-images/poland-tyniec-abbey-history-v2.webp",
-    coords: [19.802, 50.02],
     coords: [19.802, 50.02],
     description: {
       de: "Das älteste bestehende Kloster Polens, auf einem Kalkfelsen über der Weichsel erbaut. Es ist ein Zentrum der Benediktiner-Kultur.",
@@ -7846,8 +7794,6 @@ export const polandHistoryV2: POI[] = [
     parent: "PL",
     type: "park",
     name: { de: "Kalwaria Zebrzydowska", hu: "Kalwaria Zebrzydowska", ro: "Kalwaria Zebrzydowska", en: "Kalwaria Zebrzydowska"},
-    image: "/poi-images/poland-kalwaria-zebrzydowska-history-v2.webp",
-    coords: [19.671, 49.859],
     coords: [19.671, 49.859],
     description: {
       de: "Ein manieristischer Architektur- und Parkkomplex, der die Passion Christi darstellt. Es ist ein UNESCO-Weltkulturerbe und wichtiger Wallfahrtsort.",
@@ -7892,7 +7838,6 @@ export const polandHistoryV2: POI[] = [
     type: "park",
     name: { de: "Fürst-Pückler-Park Bad Muskau", hu: "Muskaui park", ro: "Parcul Muskau", en: "Muskau Park"},
     image: "/poi-images/poland-muskau-park-history-v2.webp",
-    coords: [14.721, 51.547],
     coords: [14.721, 51.547],
     description: {
       de: "Ein weitläufiger Landschaftspark, der sich über die Grenze zwischen Polen und Deutschland erstreckt. Er gilt als Meisterwerk der Gartenkunst.",

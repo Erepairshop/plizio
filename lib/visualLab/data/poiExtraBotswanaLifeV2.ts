@@ -8,7 +8,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-NW",
     coords: [22.85, -19.01],
     name: { de: "Okavango-Delta", hu: "Okavango-delta", ro: "Delta Okavango", en: "Okavango Delta"},
-    image: "/poi-images/okavango-delta-animal-habitat-life-v2.webp",
     description: { de: "Ein riesiges Binnendelta, das Lebensraum für zahlreiche Wildtiere bietet.", hu: "Hatalmas belföldi delta, amely számos vadállatnak ad otthont.", ro: "O deltă interioară vastă care oferă habitat pentru numeroase animale sălbatice.", en: "A vast inland delta providing habitat for numerous wildlife." , es: "Un enorme delta interior que ofrece hábitat a numerosa fauna salvaje.", pt: "Um enorme delta interior que oferece habitat a numerosa vida selvagem.", fr: "Un immense delta intérieur qui abrite une faune sauvage abondante."},
     facts: {
       de: ["Weltnaturerbe der UNESCO.", "Über 400 Vogelarten leben hier."],
@@ -85,7 +84,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-NW",
     coords: [24.50, -18.25],
     name: { de: "Chobe-Nationalpark", hu: "Chobe Nemzeti Park", ro: "Parcul Național Chobe", en: "Chobe National Park"},
-    image: "/poi-images/chobe-national-park-animal-habitat-life-v2.webp",
     description: { de: "Bekannt für seine riesigen Elefantenpopulationen am Flussufer.", hu: "Híres a folyóparti hatalmas elefántpopulációjáról.", ro: "Cunoscut pentru populațiile sale masive de elefanți de pe malul râului.", en: "Known for its massive elephant populations along the riverbank." , es: "Conocido por sus enormes poblaciones de elefantes a orillas del río.", pt: "Conhecido pelas suas enormes populações de elefantes nas margens do rio.", fr: "Connu pour ses vastes populations d'éléphants sur les rives du fleuve."},
     facts: {
       de: ["Größte Elefantenkonzentration Afrikas.", "Entlang des Chobe-Flusses gelegen."],
@@ -117,7 +115,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-CE",
     coords: [24.66, -20.66],
     name: { de: "Makgadikgadi-Salzpfannen", hu: "Makgadikgadi-sós síkság", ro: "Depresiunile sărate Makgadikgadi", en: "Makgadikgadi Pans"},
-    image: "/poi-images/makgadikgadi-pans-animal-habitat-life-v2.webp",
     description: { de: "Eine der größten Salzpfannen der Welt, wichtig für wandernde Flamingos.", hu: "A világ egyik legnagyobb sós síksága, fontos a vándorló flamingók számára.", ro: "Una dintre cele mai mari depresiuni sărate din lume, importantă pentru flamingo-urile migratoare.", en: "One of the world's largest salt pans, important for migratory flamingos." , es: "Uno de los salares más grandes del mundo, importante para los flamencos migratorios.", pt: "Uma das maiores salinas do mundo, importante para os flamingos migratórios.", fr: "L'un des plus grands marais salants du monde, important pour les flamants roses migrateurs."},
     facts: {
       de: ["Überreste eines riesigen Sees.", "Zeitweise Lebensraum für Zebras und Flamingos."],
@@ -194,7 +191,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-SE",
     coords: [25.92, -24.63],
     name: { de: "Gaborone Game Reserve", hu: "Gaborone Vadaspark", ro: "Rezervația de vânătoare Gaborone", en: "Gaborone Game Reserve"},
-    image: "/poi-images/gaborone-game-reserve-animal-habitat-life-v2.webp",
     description: { de: "Ein kleines, stadtnahes Schutzgebiet für Wildtiere.", hu: "Egy kicsi, városhoz közeli vadaspark.", ro: "O mică rezervație naturală aproape de oraș.", en: "A small, city-adjacent wildlife reserve." , es: "Una pequeña reserva de vida salvaje cerca de la ciudad.", pt: "Uma pequena reserva de vida selvagem perto da cidade.", fr: "Une petite réserve de faune proche de la ville."},
     facts: {
       de: ["Ideal für Familienausflüge.", "Beobachtung von Straußen und Impalas möglich."],
@@ -379,7 +375,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-SE",
     coords: [25.85, -24.75],
     name: { de: "Mokolodi Naturreservat", hu: "Mokolodi Természetvédelmi Terület", ro: "Rezervația Naturală Mokolodi", en: "Mokolodi Nature Reserve"},
-    image: "/poi-images/mokolodi-nature-reserve-animal-habitat-life-v2.webp",
     description: { de: "Ein Bildungszentrum für Naturschutz mit vielen interaktiven Möglichkeiten.", hu: "Természetvédelmi oktatóközpont sok interaktív lehetőséggel.", ro: "Un centru educațional pentru conservarea naturii cu multe oportunități interactive.", en: "An educational center for nature conservation with many interactive opportunities." , es: "Un centro educativo para la conservación de la naturaleza con muchas opciones interactivas.", pt: "Um centro educativo para a conservação da natureza com muitas opções interativas.", fr: "Un centre éducatif pour la conservation de la nature avec de nombreuses possibilités interactives."},
     facts: {
       de: ["Unterstützt das Rhino-Schutzprojekt.", "Tolle Möglichkeiten für Kinder."],
@@ -456,7 +451,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-CE",
     coords: [29.15, -22.18],
     name: { de: "Tuli-Block Farmgebiet", hu: "Tuli-Block mezőgazdasági terület", ro: "Regiunea agricolă Tuli-Block", en: "Tuli Block Farm Region"},
-    image: "/poi-images/northern-tulifarm-agriculture-life-v2.webp",
     description: { de: "Ein fruchtbares Landwirtschaftsgebiet entlang des Limpopo-Flusses.", hu: "Termékeny mezőgazdasági terület a Limpopo folyó mentén.", ro: "O regiune agricolă fertilă de-a lungul râului Limpopo.", en: "A fertile agricultural region along the Limpopo River." , es: "Una zona agrícola fértil a lo largo del río Limpopo.", pt: "Uma área agrícola fértil ao longo do rio Limpopo.", fr: "Une zone agricole fertile le long de la rivière Limpopo."},
     facts: {
       de: ["Hauptanbau von Nutzpflanzen.", "Reich an Wildtieren in den Randgebieten."],
@@ -533,7 +527,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-CE",
     coords: [24.40, -21.15],
     name: { de: "Boteti-Flussregion", hu: "Boteti folyóvidék", ro: "Regiunea râului Boteti", en: "Boteti River Region"},
-    image: "/poi-images/boteti-river-region-animal-habitat-life-v2.webp",
     description: { de: "Ein wichtiges Wasserreservoir für die umliegende Tierwelt.", hu: "Fontos víztározó a környékbeli állatvilág számára.", ro: "Un important rezervor de apă pentru fauna din jur.", en: "An important water reservoir for local wildlife." , es: "Un importante reservorio de agua para la fauna circundante.", pt: "Um reservatório de água importante para a fauna circundante.", fr: "Un important réservoir d'eau pour la faune environnante."},
     facts: {
       de: ["Zieht Zebras und Elefanten an.", "Lebensader in einer trockenen Umgebung."],
@@ -565,7 +558,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-KG",
     coords: [23.50, -21.66],
     name: { de: "Central Kalahari Game Reserve", hu: "Központi Kalahári Vadaspark", ro: "Rezervația Central Kalahari", en: "Central Kalahari Game Reserve"},
-    image: "/poi-images/central-kalahari-game-reserve-animal-habitat-life-v2.webp",
     description: { de: "Eines der größten und abgelegensten Wildschutzgebiete Afrikas.", hu: "Afrika egyik legnagyobb és legfélreesőbb vadrezervátuma.", ro: "Una dintre cele mai mari și mai izolate rezervații de animale din Africa.", en: "One of Africa's largest and most remote game reserves." , es: "Una de las reservas de fauna más grandes y remotas de África.", pt: "Uma das maiores e mais remotas reservas de vida selvagem de África.", fr: "L'une des réserves de faune les plus grandes et les plus reculées d'Afrique."},
     facts: {
       de: ["Weite Flächen ohne Zäune.", "Heimat vieler verschiedener Antilopenarten."],
@@ -750,7 +742,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-NW",
     coords: [23.50, -19.41],
     name: { de: "Moremi-Wildreservat", hu: "Moremi Vadaspark", ro: "Rezervația de vânătoare Moremi", en: "Moremi Game Reserve"},
-    image: "/poi-images/moremi-game-reserve-animal-habitat-life-v2.webp",
     description: { de: "Ein ökologisch vielfältiges Schutzgebiet am Rande des Okavango-Deltas.", hu: "Ökológiailag változatos védett terület az Okavango-delta szélén.", ro: "O rezervație ecologic diversă la marginea Deltei Okavango.", en: "An ecologically diverse reserve on the edge of the Okavango Delta." , es: "Una reserva protegida ecológicamente diversa en el borde del delta del Okavango.", pt: "Uma reserva protegida ecologicamente diversa na borda do delta do Okavango.", fr: "Une zone protégée écologiquement diversifiée en bordure du delta de l'Okavango."},
     facts: {
       de: ["Bekannt für Wildhunde.", "Sehr artenreich."],
@@ -1007,7 +998,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-CE",
     coords: [24.83, -19.91],
     name: { de: "Nxai-Pan-Nationalpark", hu: "Nxai Pan Nemzeti Park", ro: "Parcul Național Nxai Pan", en: "Nxai Pan National Park"},
-    image: "/poi-images/nxai-pan-national-park-animal-habitat-life-v2.webp",
     description: { de: "Ein flaches, grasiges Gebiet, das nach Regen grün wird.", hu: "Lapos, füves terület, amely eső után zöldell.", ro: "O zonă plată, ierboasă, care înverzește după ploi.", en: "A flat, grassy area that turns green after rain." , es: "Una zona llana y cubierta de hierba que se vuelve verde tras la lluvia.", pt: "Uma área plana e gramada que fica verde após a chuva.", fr: "Une zone plate et herbeuse qui devient verte après la pluie."},
     facts: {
       de: ["Beste Zeit: Regenzeit.", "Große Springbockherden."],
@@ -1120,7 +1110,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-CE",
     coords: [25.82, -20.89],
     name: { de: "Kubu-Insel", hu: "Kubu-sziget", ro: "Insula Kubu", en: "Kubu Island"},
-    image: "/poi-images/kubu-island-kid-landmark-life-v2.webp",
     description: { de: "Eine Felseninsel inmitten der Makgadikgadi-Salzpfannen.", hu: "Sziklasziget a Makgadikgadi-sós síkság közepén.", ro: "O insulă stâncoasă în mijlocul depresiunilor sărate Makgadikgadi.", en: "A rocky island in the middle of the Makgadikgadi salt pans." , es: "Una isla rocosa en medio de los salares de Makgadikgadi.", pt: "Uma ilha rochosa no meio das salinas de Makgadikgadi.", fr: "Une île rocheuse au milieu des marais salants de Makgadikgadi."},
     facts: {
       de: ["Beeindruckende Baobab-Bäume.", "Geologisch faszinierend."],
@@ -1233,7 +1222,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-CE",
     coords: [26.70, -22.31],
     name: { de: "Khama Rhino Schutzgebiet", hu: "Khama Orrszarvú Rezervátum", ro: "Rezervația de rinoceri Khama", en: "Khama Rhino Sanctuary"},
-    image: "/poi-images/khama-rhino-sanctuary-animal-habitat-life-v2.webp",
     description: { de: "Ein Schutzprojekt, das sich dem Erhalt des Breitmaulnashorns widmet.", hu: "Védelmi projekt a fehér orrszarvú megmentésére.", ro: "Un proiect de conservare dedicat salvării rinocerului alb.", en: "A conservation project dedicated to saving the white rhino." , es: "Un proyecto de conservación dedicado a la preservación del rinoceronte blanco.", pt: "Um projeto de conservação dedicado à preservação do rinoceronte-branco.", fr: "Un projet de conservation dédié à la préservation du rhinocéros blanc."},
     facts: {
       de: ["Erfolgreiche Zucht von Nashörnern.", "Bildungsprogramme für Kinder."],
@@ -1337,7 +1325,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-NW",
     coords: [23.41, -19.98],
     name: { de: "Maun Bildungszentrum", hu: "Maun oktatási központ", ro: "Centrul educațional Maun", en: "Maun Education Center"},
-    image: "/poi-images/maun-education-center-kid-landmark-life-v2.webp",
     description: { de: "Ein Zentrum, das Kindern die Tierwelt des Deltas näher bringt.", hu: "Központ, amely közelebb hozza a gyermekekhez a delta állatvilágát.", ro: "Un centru care apropie lumea animală a deltei de copii.", en: "A center bringing the delta's wildlife closer to children." , es: "Un centro que acerca la fauna del delta a los niños.", pt: "Um centro que aproxima a vida selvagem do delta das crianças.", fr: "Un centre qui fait découvrir la faune du delta aux enfants."},
     facts: {
       de: ["Interaktive Ausstellungen.", "Fokus auf Artenschutz."],
@@ -1846,7 +1833,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-CE",
     coords: [28.50, -22.50],
     name: { de: "Tuli-Block Rinderzucht", hu: "Tuli-Block szarvasmarha-tenyésztés", ro: "Cresterea vitelor Tuli-Block", en: "Tuli Block Cattle Farming"},
-    image: "/poi-images/tuli-block-cattle-farming-agriculture-life-v2.webp",
     description: { de: "Die Rinderzucht im Tuli-Block ist bekannt für ihre Qualität und die weiten Weideflächen im Osten des Landes.", hu: "Terület, amely híres szarvasmarha-termeléséről.", ro: "O regiune agricolă vitală renumită pentru creșterea vitelor de rasă și fermele comerciale extinse.", en: "The Tuli Block is a major agricultural zone where large-scale cattle ranching is a central part of the local way of life." },
     facts: {
       de: ["Traditionelle Viehwirtschaft", "Große Farmbetriebe", "Bedeutung für die Fleischindustrie"],
@@ -2025,7 +2011,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-CE",
     coords: [29.30, -22.25],
     name: { de: "Limpopo-Fluss Wildtierkorridor", hu: "Limpopo folyó vadvilági folyosó", ro: "Coridorul de faună al râului Limpopo", en: "Limpopo River Wildlife Corridor"},
-    image: "/poi-images/limpopo-river-wildlife-corridor-animal-habitat-life-v2.webp",
     description: { de: "Ein wichtiger Wanderweg für viele Tierarten.", hu: "Fontos vándorlási útvonal számos állatfaj számára.", ro: "Un traseu important de migrație pentru multe specii de animale.", en: "An important migration path for many animal species." },
     facts: {
       de: ["Verbindet verschiedene Parks.", "Hohe Biodiversität."],
@@ -2084,7 +2069,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-NW",
     coords: [22.95, -19.15],
     name: { de: "Okavango-Feuchtgebiete", hu: "Okavango-vizes élőhelyek", ro: "Zonele umede Okavango", en: "Okavango Wetlands"},
-    image: "/poi-images/okavango-wetlands-animal-habitat-life-v2.webp",
     description: { de: "Ein komplexes System aus Feuchtgebieten voller Leben.", hu: "Komplex vizes élőhelyrendszer, tele élettel.", ro: "Un sistem complex de zone umede plin de viață.", en: "A complex system of wetlands full of life." },
     facts: {
       de: ["Wichtiges Ökosystem.", "Viele Amphibienarten."],
@@ -2110,7 +2094,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-CE",
     coords: [26.75, -22.35],
     name: { de: "Serowe Rhino Schutzgebiet", hu: "Serowei Orrszarvú Rezervátum", ro: "Rezervația de rinoceri Serowe", en: "Serowe Rhino Sanctuary"},
-    image: "/poi-images/serowe-rhino-sanctuary-animal-habitat-life-v2.webp",
     description: { de: "Ein lokales Schutzgebiet zur Bewahrung der Nashorn-Population.", hu: "Helyi védett terület az orrszarvú populáció megőrzésére.", ro: "O rezervație locală pentru conservarea populației de rinoceri.", en: "A local reserve for preserving the rhino population." },
     facts: {
       de: ["Sehr gut geschützt.", "Beliebt für Schulbesuche."],
@@ -2136,7 +2119,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-KG",
     coords: [22.50, -22.50],
     name: { de: "Kalahari Savanne Landwirtschaft", hu: "Kalahári szavanna mezőgazdaság", ro: "Agricultură în savana Kalahari", en: "Kalahari Savanna Agriculture"},
-    image: "/poi-images/kalahari-savanna-agriculture-life-v2.webp",
     description: { de: "Trotz Trockenheit gibt es hier kleine landwirtschaftliche Projekte.", hu: "A szárazság ellenére kis mezőgazdasági projektek találhatók itt.", ro: "În ciuda aridității, există mici proiecte agricole aici.", en: "Despite aridity, small agricultural projects exist here." , es: "A pesar de la sequía, existen aquí pequeños proyectos agrícolas.", pt: "Apesar da seca, existem aqui pequenos projetos agrícolas.", fr: "Malgré la sécheresse, de petits projets agricoles existent ici."},
     facts: {
       de: ["Anbau von trockenheitsresistenten Sorten.", "Lokale Subsistenzwirtschaft."],
@@ -2249,7 +2231,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-SE",
     coords: [25.95, -24.62],
     name: { de: "Gaborone Zoo", hu: "Gaboronei Állatkert", ro: "Grădina Zoologică Gaborone", en: "Gaborone Zoo"},
-    image: "/poi-images/gaborone-zoo-kid-landmark-life-v2.webp",
     description: { de: "Ein kleiner Zoo für Kinder zur Tierbeobachtung.", hu: "Kis állatkert gyermekeknek állatmegfigyelés céljából.", ro: "O mică grădină zoologică pentru copii pentru observarea animalelor.", en: "A small zoo for children for wildlife observation." },
     facts: {
       de: ["Viele einheimische Tiere.", "Gut für Familien."],
@@ -2320,7 +2301,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-CE",
     coords: [24.80, -20.50],
     name: { de: "Makgadikgadi Zebra-Wanderung", hu: "Makgadikgadi zebra-vándorlás", ro: "Migrația zebrelor Makgadikgadi", en: "Makgadikgadi Zebra Migration"},
-    image: "/poi-images/makgadikgadi-zebra-migration-animal-habitat-life-v2.webp",
     description: { de: "Ein spektakuläres Naturschauspiel, wenn Zebras durch die Pfannen ziehen.", hu: "Lenyűgöző természeti látvány, amikor a zebrák átvonulnak a sós síkságokon.", ro: "Un spectacol natural spectaculos când zebrele traversează depresiunile.", en: "A spectacular natural phenomenon when zebras migrate across the pans." , es: "Un espectáculo natural espectacular cuando las cebras cruzan los salares.", pt: "Um espetáculo natural espetacular quando as zebras atravessam as salinas.", fr: "Un spectacle naturel spectaculaire lorsque les zèbres traversent les marais."},
     facts: {
       de: ["Zweitgrößte Zebra-Wanderung Afrikas.", "Tolles Naturerlebnis."],
@@ -2385,7 +2365,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-CE",
     coords: [24.45, -21.20],
     name: { de: "Boteti-Fluss Vogelbeobachtung", hu: "Boteti folyó madármegfigyelés", ro: "Observarea păsărilor pe râul Boteti", en: "Boteti River Birdwatching"},
-    image: "/poi-images/boteti-river-birdwatching-kid-landmark-life-v2.webp",
     description: { de: "Ein friedlicher Ort für Kinder, um Vögel zu beobachten.", hu: "Békés hely gyermekeknek madarak megfigyelésére.", ro: "Un loc liniștit pentru copii pentru a observa păsările.", en: "A peaceful place for children to observe birds." , es: "Un lugar tranquilo para que los niños observen aves.", pt: "Um local tranquilo para as crianças observarem aves.", fr: "Un endroit paisible pour que les enfants puissent observer les oiseaux."},
     facts: {
       de: ["Viele farbenfrohe Vogelarten.", "Sehr lehrreich."],
@@ -2489,7 +2468,6 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-KG",
     coords: [22.80, -22.80],
     name: { de: "Kalahari Wildtierkorridor", hu: "Kalahári vadvilági folyosó", ro: "Coridorul de faună Kalahari", en: "Kalahari Wildlife Corridor"},
-    image: "/poi-images/kalahari-wildlife-corridor-animal-habitat-life-v2.webp",
     description: { de: "Ein Korridor, der Tiere bei der Wanderung durch die Wüste schützt.", hu: "Folyosó, amely védi az állatokat a sivatagi vándorlás során.", ro: "Un coridor care protejează animalele în timpul migrației prin deșert.", en: "A corridor protecting animals migrating through the desert." , es: "Un corredor que protege a los animales durante su migración por el desierto.", pt: "Um corredor que protege os animais durante a sua migração pelo deserto.", fr: "Un corridor qui protège les animaux lors de leur migration à travers le désert."},
     facts: {
       de: ["Ökologisch essenziell.", "Schützt vor Fragmentierung."],

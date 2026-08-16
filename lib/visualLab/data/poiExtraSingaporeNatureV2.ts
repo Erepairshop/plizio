@@ -129,7 +129,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
       hu: "Bukit Timah Természetvédelmi Terület",
       ro: "Rezervația Naturală Bukit Timah",
       en: "Bukit Timah Nature Reserve"},
-    image: "/poi-images/sg-bukit-timah-nature-reserve-nature-v2.webp",
     description: {
       de: "Eines der ersten Waldreservate Singapurs, Heimat einer erstaunlichen Vielfalt an Pflanzen- und Tierarten.",
       hu: "Szingapúr egyik első erdőrezervátuma, amely rendkívül sokféle növény- és állatfajnak ad otthont.",
@@ -177,7 +176,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
       hu: "Sungei Buloh Vizes Élőhely Rezervátum",
       ro: "Rezervația de Zone Umede Sungei Buloh",
       en: "Sungei Buloh Wetland Reserve"},
-    image: "/poi-images/sg-sungei-buloh-wetland-reserve-nature-v2.webp",
     description: {
       de: "Singapurs erstes ASEAN-Kulturerbe-Park, bekannt für seine reiche Vogelwelt, insbesondere während der Zugzeit.",
       hu: "Szingapúr első ASEAN Örökség Parkja, amely gazdag madárvilágáról ismert, különösen a vándorlási időszakban.",
@@ -306,7 +304,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
       hu: "Labrador Természetvédelmi Terület",
       ro: "Rezervația Naturală Labrador",
       en: "Labrador Nature Reserve"},
-    image: "/poi-images/sg-labrador-nature-reserve-nature-v2.webp",
     description: {
       de: "Einzigartiges Küstenreservat, das einen felsigen Strand und eine reiche Artenvielfalt an der Küste bietet.",
       hu: "Egyedülálló tengerparti rezervátum, amely sziklás partot és gazdag tengerparti biodiverzitást kínál.",
@@ -354,7 +351,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
       hu: "Kranji Víztározó Park",
       ro: "Parcul Rezervorului Kranji",
       en: "Kranji Reservoir Park"},
-    image: "/poi-images/sg-kranji-reservoir-park-nature-v2.webp",
     description: {
       de: "Ein ruhiger Park im Nordwesten Singapurs, der einen Panoramablick auf die Straße von Johor bietet.",
       hu: "Egy csendes park Szingapúr északnyugati részén, panorámás kilátással a Johori-szorosra.",
@@ -447,7 +443,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
       hu: "Nővér-szigetek Tengeri Park",
       ro: "Parcul Marin Insulele Surorilor",
       en: "Sisters' Islands Marine Park"},
-    image: "/poi-images/sg-sisters-islands-marine-park-nature-v2.webp",
     description: {
       de: "Singapurs erster Meerespark, der reich an Korallenriffen, Seegraswiesen und Mangroven ist.",
       hu: "Szingapúr első tengeri parkja, amely korallzátonyokban, tengerifű-mezőkben és mangrovékban gazdag.",
@@ -756,7 +751,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
       hu: "Lower Peirce Víztározó Park",
       ro: "Parcul Rezervorului Lower Peirce",
       en: "Lower Peirce Reservoir Park"},
-    image: "/poi-images/sg-lower-peirce-reservoir-park-nature-v2.webp",
     description: {
       de: "Der zweitälteste Stausee Singapurs, bekannt für seinen malerischen Uferweg und den reifen Sekundärwald.",
       hu: "Szingapúr második legrégebbi víztározója, festői vízparti sétányáról és érett másodlagos erdőjéről ismert.",
@@ -1281,7 +1275,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
       hu: "Windsor Természetvédelmi Park",
       ro: "Parcul Natural Windsor",
       en: "Windsor Nature Park"},
-    image: "/poi-images/sg-windsor-nature-park-nature-v2.webp",
     description: {
       de: "Ein grüner Puffer für das Central Catchment Nature Reserve mit mehreren Süßwasserbächen und Sumpflebensräumen.",
       hu: "Zöld puffer a Központi Vízgyűjtő Természetvédelmi Terület számára, több édesvizű patakkal és mocsaras élőhellyel.",
@@ -1374,7 +1367,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
       hu: "Szingapúr-folyó",
       ro: "Râul Singapore",
       en: "Singapore River"},
-    image: "/poi-images/sg-singapore-river-nature-v2.webp",
     description: {
       de: "Der historische Fluss, der im Herzen von Singapur fließt und eine wichtige Rolle in seiner Geschichte spielte.",
       hu: "A Szingapúr szívében folyó történelmi folyó, amely fontos szerepet játszott a város történelmében.",
@@ -2208,7 +2200,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
       hu: "Kusu-sziget",
       ro: "Insula Kusu",
       en: "Kusu Island"},
-    image: "/poi-images/sg-kusu-island-nature-v2.webp",
     description: {
       de: "Bekannt als 'Schildkröteninsel', ein beliebtes Ziel für Pilger, die chinesische Tempel und malaiische Schreine besuchen.",
       hu: "A 'Teknős-szigetként' ismert népszerű zarándokhely, ahol kínai templomokat és maláj szentélyeket látogatnak.",
@@ -2337,7 +2328,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
       hu: "Szent János-sziget",
       ro: "Insula St. John",
       en: "St. John's Island"},
-    image: "/poi-images/sg-st-johns-island-nature-v2.webp",
     description: {
       de: "Eine hügelige Insel mit Sandstränden, die für ihre Lagunen, Picknickplätze und Wanderwege bekannt ist.",
       hu: "Egy dombos sziget homokos strandokkal, amely lagúnáiról, piknikezőhelyeiről és túraútvonalairól ismert.",
@@ -3438,7 +3428,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
       hu: "Jurong-tavi Kertek",
       ro: "Grădinile Lacului Jurong",
       en: "Jurong Lake Gardens"},
-    image: "/poi-images/sg-jurong-lake-gardens-nature-v2.webp",
     description: {
       de: "Singapurs dritter Nationalgarten im Herzen der Gemeinschaft, der Natur, Spiel und Gemeinschaftsaktivitäten vereint.",
       hu: "Szingapúr harmadik Nemzeti Kertje a közösség szívében, amely egyesíti a természetet, a játékot és a közösségi tevékenységeket.",

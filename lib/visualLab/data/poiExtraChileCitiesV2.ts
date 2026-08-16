@@ -1277,7 +1277,6 @@ export const poiExtraChileCitiesV2: POI[] = [
     parent: "CL-RM",
     coords: [-70.6693, -33.4489],
     name: { de: "Santiago", hu: "Santiago", ro: "Santiago", en: "Santiago"},
-    image: "/poi-images/santiago-cities-v2.webp",
     description: {
       de: "Die Hauptstadt und größte Metropole von Chile, gelegen in einem zentralen Becken.",
       hu: "Chile fővárosa és legnagyobb metropolisza, amely egy központi medencében fekszik.",
@@ -1614,7 +1613,6 @@ export const poiExtraChileCitiesV2: POI[] = [
     parent: "CL-RM",
     coords: [-70.5753, -33.6117],
     name: { de: "Puente Alto", hu: "Puente Alto", ro: "Puente Alto", en: "Puente Alto"},
-    image: "/poi-images/puente-alto-cities-v2.webp",
     description: {
       de: "Eine der bevölkerungsreichsten Städte Chiles, südlich der Hauptstadt gelegen.",
       hu: "Chile egyik legnépesebb városa, a fővárostól délre helyezkedik el.",
@@ -1810,7 +1808,6 @@ export const poiExtraChileCitiesV2: POI[] = [
     parent: "CL-RM",
     coords: [-70.7578, -33.5100],
     name: { de: "Maipú", hu: "Maipú", ro: "Maipú", en: "Maipú"},
-    image: "/poi-images/maipu-cities-v2.webp",
     description: {
       de: "Ein historischer Vorort von Santiago, berühmt für die Schlacht von Maipú.",
       hu: "Santiago történelmi külvárosa, amely a maipúi csatáról híres.",
@@ -2114,7 +2111,6 @@ export const poiExtraChileCitiesV2: POI[] = [
     parent: "CL-RM",
     coords: [-70.5258, -33.5256],
     name: { de: "La Florida", hu: "La Florida", ro: "La Florida", en: "La Florida"},
-    image: "/poi-images/la-florida-cities-v2.webp",
     description: {
       de: "Eine dicht besiedelte Gemeinde im südöstlichen Teil der Hauptstadtregion.",
       hu: "Egy sűrűn lakott község a fővárosi régió délkeleti részén.",

@@ -162,7 +162,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-11",
     coords: [5.5, 23.0],
     name: { de: "Hoggar-Gebirge", hu: "Hoggar-hegység", ro: "Munții Hoggar", en: "Hoggar Mountains"},
-    image: "/poi-images/hoggar-mountains-life-v2.webp",
     description: { de: "Eine beeindruckende Gebirgsregion mit einzigartiger Wüstenfauna.", hu: "Lenyűgöző hegyvidék egyedi sivatagi állatvilággal.", ro: "Munții Hoggar sunt un lanț muntos vulcanic impresionant în inima deșertului Sahara din Algeria.", en: "An impressive mountain region with unique desert fauna." , es: "Una impresionante región montañosa con una fauna desértica única.", pt: "Uma região montanhosa impressionante com uma fauna desértica única.", fr: "Une région montagneuse impressionnante avec une faune désertique unique."},
     facts: {
       de: ["Höchster Gipfel: Tahat", "Vulkanisches Gestein", "Seltene Antilopenarten"],
@@ -278,7 +277,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-36",
     coords: [8.4, 36.8],
     name: { de: "Nationalpark El Kala", hu: "El Kala Nemzeti Park", ro: "Parcul Național El Kala", en: "El Kala National Park"},
-    image: "/poi-images/el-kala-national-park-life-v2.webp",
     description: { de: "Ein Küstenpark, der wichtige Feuchtgebiete und Zugvogelrouten schützt.", hu: "Tengerparti park, amely védi a fontos vizes élőhelyeket és a költöző madarak útvonalait.", ro: "Un parc de coastă care protejează zone umede importante și rute de migrație ale păsărilor.", en: "A coastal park protecting important wetlands and migratory bird routes." , es: "Un parque costero que protege importantes humedales y rutas de aves migratorias.", pt: "Um parque costeiro que protege zonas húmidas importantes e rotas de aves migratórias.", fr: "Un parc côtier qui protège d'importantes zones humides et des routes d'oiseaux migrateurs."},
     facts: {
       de: ["Biosphärenreservat", "Wichtige Vogelbrutgebiete", "Küstenökosystem"],
@@ -502,7 +500,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-09",
     coords: [2.8, 36.4],
     name: { de: "Nationalpark Chréa", hu: "Chréa Nemzeti Park", ro: "Parcul Național Chréa", en: "Chréa National Park"},
-    image: "/poi-images/chrea-national-park-life-v2.webp",
     description: { de: "Der Chréa-Nationalpark ist ein beliebtes Erholungsgebiet in den Atlasbergen, bekannt für seine Wälder und das Skigebiet.", hu: "Az Atlasz-hegység egyik gyönyörű nemzeti parkja, amely népszerű túrázóhely és téli sportközpont.", ro: "Cunoscut pentru populația sa de macaci de Berberia din Munții Atlas.", en: "Known for its Barbary macaque population in the Atlas Mountains." , es: "El Parque Nacional de Chréa es una zona recreativa popular en las montañas del Atlas, conocida por sus bosques y su estación de esquí.", pt: "O Parque Nacional de Chréa é uma área de lazer popular nas montanhas do Atlas, conhecida pelas suas florestas e estância de esqui.", fr: "Le parc national de Chréa est une zone de loisirs populaire dans les montagnes de l'Atlas, connue pour ses forêts et sa station de ski."},
     facts: {
       de: ["Atlas-Nationalpark", "Zedernwälder", "Skigebiet bei Blida"],
@@ -654,7 +651,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-06",
     coords: [5.1, 36.7],
     name: { de: "Nationalpark Gouraya", hu: "Gouraya Nemzeti Park", ro: "Parcul Național Gouraya", en: "Gouraya National Park"},
-    image: "/poi-images/gouraya-national-park-life-v2.webp",
     description: { de: "Dieser Nationalpark bei Bejaia bietet eine atemberaubende Kombination aus steilen Klippen, dichten Wäldern und Küstenlandschaft.", hu: "Bejaia mellett található nemzeti park, amely lenyűgöző kilátást nyújt a Földközi-tengerre.", ro: "Parcul Național Gouraya protejează o zonă costieră diversă, incluzând peisaje montane și marine lângă Bejaia.", en: "A park on the Mediterranean coast with diverse flora and fauna." , es: "Este parque nacional cerca de Bejaia ofrece una impresionante combinación de acantilados escarpados, bosques densos y paisajes costeros.", pt: "Este parque nacional perto de Bejaia oferece uma combinação impressionante de falésias íngremes, florestas densas e paisagens costeiras.", fr: "Ce parc national près de Bejaia offre une combinaison impressionnante de falaises escarpées, de forêts denses et de paysages côtiers."},
     facts: {
       de: ["Küsten-Nationalpark", "Blick vom Pic des Singes", "Vielfältige Flora und Fauna"],
@@ -770,7 +766,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-09",
     coords: [3.0, 36.5],
     name: { de: "Mitidja-Ebene", hu: "Mitidja-alföld", ro: "Câmpia Mitidja", en: "Mitidja Plain"},
-    image: "/poi-images/mitidja-agriculture-life-v2.webp",
     description: { de: "Das fruchtbarste landwirtschaftliche Gebiet Algeriens, bekannt für Zitrusfrüchte.", hu: "Algéria egyik legtermékenyebb síksága, amely gyümölcstermesztéséről és kertészetéről híres.", ro: "Mitidja este o câmpie fertilă situată la sud de Alger, inima agricolă a țării.", en: "The most fertile agricultural area in Algeria, known for citrus fruits." , es: "La zona agrícola más fértil de Argelia, conocida por sus cítricos.", pt: "A zona agrícola mais fértil da Argélia, conhecida pelos citrinos.", fr: "La zone agricole la plus fertile d'Algérie, connue pour ses agrumes."},
     facts: {
       de: ["Zitrusfrüchteanbau", "Hauptanbaugebiet", "Reichhaltiger Boden"],
@@ -913,7 +908,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-39",
     coords: [6.8, 33.3],
     name: { de: "Oued Souf", hu: "Oued Souf", ro: "Oued Souf", en: "Oued Souf"},
-    image: "/poi-images/oued-souf-agriculture-life-v2.webp",
     description: { de: "Bekannt für den Anbau von Dattelpalmen in der Sahara.", hu: "A Szaharában folyó datolyapálma-termesztéséről ismert.", ro: "Cunoscută pentru cultivarea curmalilor în Sahara.", en: "Known for date palm cultivation in the Sahara." , es: "Conocido por el cultivo de palmeras datileras en el Sahara.", pt: "Conhecido pelo cultivo de tamareiras no Saara.", fr: "Connu pour la culture de palmiers dattiers dans le Sahara."},
     facts: {
       de: ["Dattelproduktion", "Oasenwirtschaft", "Traditionelle Methoden"],
@@ -1290,7 +1284,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-07",
     coords: [5.7, 34.8],
     name: { de: "Biskra Oase", hu: "Biskra oázis", ro: "Oaza Biskra", en: "Biskra Oasis"},
-    image: "/poi-images/biskra-agriculture-life-v2.webp",
     description: { de: "Biskra ist das Zentrum der Dattelproduktion in Algerien, berühmt für die hochwertige Sorte \"Deglet Nour\".", hu: "Biskra városa a sivatagi mezőgazdaság és a datolyatermesztés központja.", ro: "Regiunea Biskra este renumită pentru oazele sale vaste de curmali, esențiale pentru economia locală.", en: "Center for the cultivation of high-quality dates." , es: "Biskra es el centro de la producción de dátiles en Argelia, famoso por la variedad de alta calidad \"Deglet Nour\".", pt: "Biskra é o centro da produção de tâmara na Argélia, famoso pela variedade de alta qualidade \"Deglet Nour\".", fr: "Biskra est le centre de la production de dattes en Algérie, célèbre pour la variété de haute qualité \"Deglet Nour\"."},
     facts: {
       de: ["Dattelpalmen-Oasen", "Sorte Deglet Nour", "Hauptexporteur von Datteln"],
@@ -1703,7 +1696,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-16",
     coords: [3.0, 36.7],
     name: { de: "Botanischer Garten Hamma", hu: "Hamma Botanikus Kert", ro: "Grădina Botanică Hamma", en: "Hamma Botanical Garden"},
-    image: "/poi-images/algiers-botanical-garden-life-v2.webp",
     description: { de: "Der Jardin d'Essai du Hamma in Algier ist einer der weltweit bedeutendsten botanischen Gärten mit einer riesigen Pflanzenvielfalt.", hu: "Algír nagy botanikus kertje, amely változatos növényvilággal és pihenőhelyekkel várja a látogatókat.", ro: "Grădina Botanică din Alger este o oază verde urbană ce găzduiește o varietate mare de specii exotice.", en: "A green park in Algiers, ideal for families and children." , es: "El Jardin d'Essai du Hamma en Argel es uno de los jardines botánicos más importantes del mundo con una enorme diversidad de plantas.", pt: "O Jardin d'Essai du Hamma em Argel é um dos jardins botânicos mais importantes do mundo, com uma enorme diversidade de plantas.", fr: "Le Jardin d'Essai du Hamma à Alger est l'un des jardins botaniques les plus importants au monde, doté d'une immense diversité végétale."},
     facts: {
       de: ["Botanischer Garten", "Gegründet 1832", "Tropische und europäische Flora"],
@@ -2035,7 +2027,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-19",
     coords: [5.3, 36.1],
     name: { de: "Dinosaurierpark Sétif", hu: "Dinoszaurusz Park Sétif", ro: "Parcul Dinozaurilor Sétif", en: "Dinosaur Park Sétif"},
-    image: "/poi-images/dinosaur-park-setif-life-v2.webp",
     description: { de: "Der Dinosaurierpark in Sétif ist eine einzigartige Attraktion, die Bildung und Spaß für Kinder und Erwachsene verbindet.", hu: "Setif tematikus parkja, amely dinoszaurusz-szobrokkal és oktató jellegű kiállításokkal rendelkezik.", ro: "Parcul Dinozaurilor din Sétif este o atracție tematică educativă situată într-un cadru natural plăcut.", en: "A theme park with dinosaur replicas for children." , es: "El parque de dinosaurios de Sétif es una atracción única que combina educación y diversión para niños y adultos.", pt: "O parque dos dinossauros em Sétif é uma atração única que combina educação e diversão para crianças e adultos.", fr: "Le parc des dinosaures de Sétif est une attraction unique qui allie éducation et divertissement pour petits et grands."},
     facts: {
       de: ["Themenpark in Sétif", "Prähistorische Exponate", "Familienausflugsziel"],
@@ -2331,7 +2322,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-27",
     coords: [0.1, 35.9],
     name: { de: "Tierpark Mostaganem", hu: "Mostaganem Állatkert", ro: "Grădina Zoologică Mostaganem", en: "Mostaganem Zoo"},
-    image: "/poi-images/mostaganem-wildlife-park-life-v2.webp",
     description: { de: "Der Wildpark in Mostaganem beherbergt zahlreiche Tierarten und dient dem Schutz der regionalen Biodiversität.", hu: "Vadaspark Mostaganemben, ahol a helyi és egzotikus állatfajok közelebbről is megtekinthetők.", ro: "Parcul de animale sălbatice din Mostaganem oferă vizitatorilor ocazia de a observa specii locale.", en: "A small zoo focusing on local animal species." , es: "El parque natural de Mostaganem alberga numerosas especies animales y sirve para proteger la biodiversidad regional.", pt: "O parque de vida selvagem de Mostaganem alberga inúmeras espécies animais e serve para proteger a biodiversidade regional.", fr: "Le parc animalier de Mostaganem abrite de nombreuses espèces animales et sert à protéger la biodiversité régionale."},
     facts: {
       de: ["Zoo und Wildpark", "Schutz der Artenvielfalt", "Beliebtes Ausflugsziel"],
@@ -2555,7 +2545,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-31",
     coords: [-0.6, 35.7],
     name: { de: "Aquarium von Oran", hu: "Oráni Akvárium", ro: "Acvariul din Oran", en: "Oran Aquarium"},
-    image: "/poi-images/oran-aquarium-life-v2.webp",
     description: { de: "Das Aquarium von Oran präsentiert die faszinierende Unterwasserwelt des Mittelmeers und dient der Umweltbildung.", hu: "Orán tengeri akváriuma, amely bemutatja a Földközi-tenger változatos élővilágát.", ro: "Acvariul din Oran prezintă biodiversitatea marină a Mării Mediterane într-un cadru didactic.", en: "An aquarium showcasing the marine life of the Mediterranean." , es: "El acuario de Orán presenta el fascinante mundo submarino del Mediterráneo y sirve para la educación ambiental.", pt: "O aquário de Orã apresenta o fascinante mundo subaquático do Mediterrâneo e serve para a educação ambiental.", fr: "L'aquarium d'Oran présente le monde sous-marin fascinant de la Méditerranée et sert à l'éducation environnementale."},
     facts: {
       de: ["Meeresmuseum in Oran", "Mittelmeer-Fauna", "Bildungszentrum"],
@@ -2743,7 +2732,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-18",
     coords: [5.6, 36.6],
     name: { de: "Nationalpark Taza", hu: "Taza Nemzeti Park", ro: "Parcul Național Taza", en: "Taza National Park"},
-    image: "/poi-images/taza-national-park-life-v2.webp",
     description: { de: "Der Taza-Nationalpark ist ein UNESCO-Biosphärenreservat, das für seine dichten Eichenwälder und den Schutz des Berberaffen bekannt ist.", hu: "Jijel mellett fekvő, biodiverzitásáról híres nemzeti park a tengerpart közelében.", ro: "Parcul Național Taza este o rezervație naturală de coastă celebră pentru peisajele sale verzi și biodiversitate.", en: "A park protecting a great variety of birds and mammals." , es: "El Parque Nacional de Taza es una Reserva de la Biosfera de la UNESCO, conocida por sus densos bosques de robles y la protección del macaco de Berbería.", pt: "O Parque Nacional de Taza é uma Reserva da Biosfera da UNESCO, conhecida pelas suas densas florestas de carvalhos e pela proteção do macaco da Barbária.", fr: "Le parc national de Taza est une réserve de biosphère de l'UNESCO, connue pour ses forêts de chênes denses et la protection du macaque berbère."},
     facts: {
       de: ["Biosphärenreservat", "Schutz der Berberaffen", "Dichte Korkeichenwälder"],
@@ -2823,7 +2811,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-05",
     coords: [6.1, 35.6],
     name: { de: "Nationalpark Belezma", hu: "Belezma Nemzeti Park", ro: "Parcul Național Belezma", en: "Belezma National Park"},
-    image: "/poi-images/belezma-national-park-life-v2.webp",
     description: { de: "Belezma ist ein ökologisch wertvoller Nationalpark in der Region Batna, geprägt von einer einzigartigen Flora und Fauna der Bergregion.", hu: "Batna közelében található, változatos tájakkal rendelkező nemzeti park.", ro: "Parcul Național Belezma este cunoscut pentru pădurile sale de cedru și peisajul montan din zona Aures.", en: "A mountainous park known for its Atlas cedars." , es: "Belezma es un parque nacional de gran valor ecológico en la región de Batna, caracterizado por una flora y fauna únicas de la zona montañosa.", pt: "Belezma é um parque nacional ecologicamente valioso na região de Batna, caracterizado por uma flora e fauna únicas da região montanhosa.", fr: "Belezma est un parc national d'une grande valeur écologique dans la région de Batna, caractérisé par une flore et une faune uniques de la région montagneuse."},
     facts: {
       de: ["Berg-Nationalpark", "Biologische Vielfalt", "Landschaft bei Batna"],
@@ -2939,7 +2926,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-10",
     coords: [4.1, 36.4],
     name: { de: "Nationalpark Djurdjura", hu: "Djurdjura Nemzeti Park", ro: "Parcul Național Djurdjura", en: "Djurdjura National Park"},
-    image: "/poi-images/djurdjura-national-park-life-v2.webp",
     description: { de: "Der Djurdjura-Nationalpark beeindruckt durch seine markanten Gebirgszüge, tiefen Schluchten und seltenen Tierarten in der Kabylei.", hu: "Az ország egyik leglátványosabb hegyvidéki nemzeti parkja a Djurdjura-hegységben.", ro: "Parcul Național Djurdjura este celebru pentru peisajele montane spectaculoase și pădurile de cedru din nordul Algeriei.", en: "High peaks and home to Barbary macaques." , es: "El Parque Nacional de Djurdjura impresiona por sus llamativas cadenas montañosas, profundos desfiladeros y especies animales raras en la Cabilia.", pt: "O Parque Nacional de Djurdjura impressiona pelas suas impressionantes cadeias montanhosas, desfiladeiros profundos e espécies animais raras na Cabília.", fr: "Le parc national du Djurdjura impressionne par ses chaînes de montagnes escarpées, ses gorges profondes et ses espèces animales rares en Kabylie."},
     facts: {
       de: ["Hochgebirgspark", "Region der Kabylei", "Tiefe Felshöhlen"],
@@ -2974,7 +2960,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-38",
     coords: [2.0, 35.8],
     name: { de: "Nationalpark Theniet El Had", hu: "Theniet El Had Nemzeti Park", ro: "Parcul Național Theniet El Had", en: "Theniet El Had National Park"},
-    image: "/poi-images/theniet-el-had-national-park-life-v2.webp",
     description: { de: "Dieser Nationalpark ist berühmt für seine jahrhundertealten Atlas-Zedernwälder und bietet ideale Bedingungen zum Wandern.", hu: "Tlemcen felé vezető úton található, gyönyörű erdőkkel borított nemzeti park.", ro: "Parcul Național Theniet El Had este o rezervație montană cunoscută pentru pădurile sale seculare de cedru.", en: "Famous for its dense cedar forests." , es: "Este parque nacional es famoso por sus bosques centenarios de cedros del Atlas y ofrece condiciones ideales para el senderismo.", pt: "Este parque nacional é famoso pelas suas florestas centenárias de cedros do Atlas e oferece condições ideais para caminhadas.", fr: "Ce parc national est célèbre pour ses forêts de cèdres de l'Atlas centenaires et offre des conditions idéales pour la randonnée."},
     facts: {
       de: ["Alte Zedernwälder", "Wanderparadies", "Atlas-Gebirgsregion"],
@@ -3009,7 +2994,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-13",
     coords: [-1.3, 34.8],
     name: { de: "Nationalpark Tlemcen", hu: "Tlemcen Nemzeti Park", ro: "Parcul Național Tlemcen", en: "Tlemcen National Park"},
-    image: "/poi-images/tlemcen-national-park-life-v2.webp",
     description: { de: "Der Nationalpark von Tlemcen vereint historische Stätten, Wasserfälle und eine reiche Flora in einer malerischen Umgebung.", hu: "Tlemcen mellett elterülő nemzeti park, amely fontos szerepet tölt be a helyi ökoszisztémában.", ro: "Parcul Național Tlemcen oferă o combinație unică de ecosisteme forestiere și situri istorice culturale.", en: "A park that includes rich flora and historical sites." , es: "El Parque Nacional de Tremecén combina sitios históricos, cascadas y una rica flora en un entorno pintoresco.", pt: "O Parque Nacional de Tremecém combina locais históricos, cascatas e uma rica flora num ambiente pitoresco.", fr: "Le parc national de Tlemcen allie sites historiques, cascades et flore riche dans un cadre pittoresque."},
     facts: {
       de: ["Kultur und Natur", "Berühmte Wasserfälle", "Nahe der Stadt Tlemcen"],
@@ -3044,7 +3028,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-24",
     coords: [7.5, 36.4],
     name: { de: "Hammam Debagh", hu: "Hammam Debagh", ro: "Hammam Debagh", en: "Hammam Debagh"},
-    image: "/poi-images/guelma-thermal-baths-life-v2.webp",
     description: { de: "Guelma ist bekannt für seine heilenden Thermalquellen, insbesondere Hammam Meskhoutine mit seinen spektakulären Sinterterrassen.", hu: "Guelma termálforrásai, amelyek gyógyhatású vizükről és környezetükről ismertek.", ro: "Băile termale din Guelma sunt renumite pentru proprietățile lor terapeutice și izvorul natural fierbinte.", en: "Thermal springs that are very popular among families." , es: "Guelma es conocida por sus aguas termales curativas, especialmente Hammam Meskhoutine con sus espectaculares terrazas de travertino.", pt: "Guelma é conhecida pelas suas águas termais curativas, especialmente Hammam Meskhoutine com os seus espetaculares terraços de calcário.", fr: "Guelma est connue pour ses sources thermales curatives, en particulier Hammam Meskhoutine avec ses spectaculaires terrasses de calcaire."},
     facts: {
       de: ["Heilende Thermalquellen", "Sinterterrassen", "Historischer Kurort"],
@@ -3079,7 +3062,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-39",
     coords: [6.8, 33.3],
     name: { de: "Palmenhaine von El Oued", hu: "El Oued pálmaligetek", ro: "Lunzile de palmieri El Oued", en: "El Oued Palm Groves"},
-    image: "/poi-images/el-oued-palm-groves-life-v2.webp",
     description: { de: "Die Palmenhaine von El Oued, der \"Stadt der tausend Kuppeln\", nutzen traditionelle Anbautechniken inmitten der Sanddünen.", hu: "El Oued híres pálmaligetei, amelyek a sivatagi oázisok jellegzetes tájait képezik.", ro: "Palmieriile din El Oued sunt o oază imensă în deșert, esențială pentru cultivarea curmalelor în regiune.", en: "Traditional oasis farming in the desert." , es: "Los palmerales de El Oued, la \"ciudad de las mil cúpulas\", utilizan técnicas de cultivo tradicionales en medio de las dunas de arena.", pt: "Os palmeirais de El Oued, a \"cidade das mil cúpulas\", utilizam técnicas de cultivo tradicionais no meio das dunas de areia.", fr: "Les palmeraies d'El Oued, la « ville aux mille coupoles », utilisent des techniques de culture traditionnelles au milieu des dunes de sable."},
     facts: {
       de: ["Oasenlandwirtschaft", "Stadt der tausend Kuppeln", "Traditionelle Bewässerung"],
@@ -3159,7 +3141,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-29",
     coords: [0.1, 35.3],
     name: { de: "Weinberge von Mascara", hu: "Mascara szőlőskertek", ro: "Podgoriile Mascara", en: "Mascara Vineyards"},
-    image: "/poi-images/mascara-vineyards-life-v2.webp",
     description: { de: "Mascara ist das Zentrum der algerischen Weinproduktion, bekannt für seine fruchtbaren Hänge und die lange Weinbautradition.", hu: "Mascara térsége, ahol jelentős borkultúra és szőlőültetvények találhatók.", ro: "Regiunea Mascara este cunoscută pentru podgoriile sale tradiționale și calitatea strugurilor produși.", en: "Region with a long tradition in viticulture." , es: "Mascara es el centro de la producción vinícola argelina, conocida por sus laderas fértiles y su larga tradición vitivinícola.", pt: "Mascara é o centro da produção de vinho da Argélia, conhecida pelas suas encostas férteis e longa tradição vitivinícola.", fr: "Mascara est le centre de la production viticole algérienne, connue pour ses coteaux fertiles et sa longue tradition viticole."},
     facts: {
       de: ["Zentrum des Weinbaus", "Fruchtbare Böden", "Traditionelle Kellereien"],
@@ -3455,7 +3436,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-42",
     coords: [2.4, 36.6],
     name: { de: "Küstenlandwirtschaft Tipaza", hu: "Tipaza parti mezőgazdasága", ro: "Agricultura costieră Tipaza", en: "Tipaza Coastal Agriculture"},
-    image: "/poi-images/tipaza-coastal-agriculture-life-v2.webp",
     description: { de: "Die Küstenregion Tipaza ist ein wichtiges landwirtschaftliches Gebiet für den Anbau von Gemüse und Früchten am Mittelmeer.", hu: "Termékeny föld közvetlenül a tengerparton.", ro: "Zona agricolă de coastă din Tipaza beneficiază de un climat mediteranean ideal pentru diverse culturi.", en: "Fertile land right by the sea." , es: "La región costera de Tipaza es una zona agrícola importante para el cultivo de hortalizas y frutas junto al Mediterráneo.", pt: "A região costeira de Tipaza é uma área agrícola importante para o cultivo de legumes e frutas junto ao Mediterrâneo.", fr: "La région côtière de Tipaza est une zone agricole importante pour la culture de légumes et de fruits au bord de la Méditerranée."},
     facts: {
       de: ["Küstenlandwirtschaft", "Obst- und Gemüseanbau", "Mittelmeerklima"],
@@ -3535,7 +3515,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-47",
     coords: [3.7, 32.5],
     name: { de: "Oase Ghardaia", hu: "Ghardaia oázis", ro: "Oaza Ghardaia", en: "Ghardaia Oasis"},
-    image: "/poi-images/ghardaia-oasis-agriculture-life-v2.webp",
     description: { de: "Die Oasen von Ghardaia im M'Zab-Tal zeigen ein ausgeklügeltes System der Wüstenlandwirtschaft und Wasserverteilung.", hu: "Egyedülálló oázis-kultúra hagyományos öntözéssel.", ro: "Agricultura de oază din Ghardaïa este un exemplu remarcabil de adaptare tradițională în mediul arid.", en: "Unique oasis culture with traditional irrigation." , es: "Los oasis de Ghardaia, en el valle de M'Zab, muestran un sofisticado sistema de agricultura desértica y distribución de agua.", pt: "Os oásis de Ghardaia no Vale de M'Zab mostram um sistema sofisticado de agricultura no deserto e distribuição de água.", fr: "Les oasis de Ghardaïa, dans la vallée du M'Zab, présentent un système sophistiqué d'agriculture saharienne et de distribution d'eau."},
     facts: {
       de: ["UNESCO-M'Zab-Tal", "Wüstenlandwirtschaft", "Traditionelle Wassersysteme"],
@@ -3651,7 +3630,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-41",
     coords: [7.9, 36.3],
     name: { de: "Souk Ahras Landwirtschaft", hu: "Souk Ahras mezőgazdasága", ro: "Agricultura Souk Ahras", en: "Souk Ahras Agriculture"},
-    image: "/poi-images/souk-ahras-agriculture-life-v2.webp",
     description: { de: "Souk Ahras ist eine bedeutende Agrarregion im Nordosten Algeriens, spezialisiert auf Getreide und Viehzucht.", hu: "Gabonafélékre és hüvelyesekre fókuszáló régió.", ro: "Souk Ahras este o zonă agricolă fertilă care susține o varietate de culturi sezoniere importante.", en: "Region focusing on grains and legumes." , es: "Souk Ahras es una importante región agrícola en el noreste de Argelia, especializada en cereales y ganadería.", pt: "Souk Ahras é uma importante região agrícola no nordeste da Argélia, especializada em cereais e pecuária.", fr: "Souk Ahras est une région agricole majeure du nord-est de l'Algérie, spécialisée dans les céréales et l'élevage."},
     facts: {
       de: ["Agrarzentrum im Nordosten", "Getreide- und Fleischproduktion", "Hügellandschaften"],
@@ -3686,7 +3664,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-21",
     coords: [6.9, 36.8],
     name: { de: "Skikda Obstbau", hu: "Skikda gyümölcstermesztése", ro: "Cultivarea fructelor Skikda", en: "Skikda Fruit Growing"},
-    image: "/poi-images/skikda-agriculture-life-v2.webp",
     description: { de: "Die Provinz Skikda ist bekannt für ihre vielfältige Landwirtschaft, insbesondere für den Anbau von Zitrusfrüchten und Erdbeeren.", hu: "Eperről és citrusfélékről ismert.", ro: "Regiunea Skikda este un centru agricol și industrial important, situat pe malul Mării Mediterane.", en: "Known for strawberries and citrus fruits." , es: "La provincia de Skikda es conocida por su variada agricultura, especialmente por el cultivo de cítricos y fresas.", pt: "A província de Skikda é conhecida pela sua agricultura diversificada, especialmente pelo cultivo de citrinos e morangos.", fr: "La province de Skikda est connue pour son agriculture diversifiée, notamment pour la culture d'agrumes et de fraises."},
     facts: {
       de: ["Zitrusfrüchte-Anbau", "Erdbeerregion", "Export landwirtschaftlicher Güter"],
@@ -3721,7 +3698,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-37",
     coords: [-8.1, 27.7],
     name: { de: "Landwirtschaft in Tindouf", hu: "Mezőgazdaság Tindoufban", ro: "Agricultura în Tindouf", en: "Agriculture in Tindouf"},
-    image: "/poi-images/tindouf-agriculture-life-v2.webp",
     description: { de: "Trotz extremer Wüstenbedingungen werden in Tindouf innovative Projekte zur Selbstversorgung durch Oasenlandwirtschaft umgesetzt.", hu: "Kicsi mezőgazdasági projektek a sivatagban.", ro: "Tindouf este situat în sud-vestul Algeriei, într-o zonă deșertică ce dezvoltă mici inițiative agricole locale.", en: "Small agricultural projects in the desert." , es: "A pesar de las condiciones extremas del desierto, en Tinduf se llevan a cabo proyectos innovadores de autosuficiencia mediante la agricultura de oasis.", pt: "Apesar das condições extremas do deserto, em Tindouf são implementados projetos inovadores de autossuficiência através da agricultura de oásis.", fr: "Malgré les conditions désertiques extrêmes, des projets innovants d'autosuffisance sont mis en œuvre à Tindouf grâce à l'agriculture oasienne."},
     facts: {
       de: ["Wüstenlandwirtschaft", "Projekte zur Selbstversorgung", "Südwest-Algerien"],
@@ -3756,7 +3732,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-06",
     coords: [5.1, 36.7],
     name: { de: "Botanischer Garten Béjaïa", hu: "Béjaïa Botanikus Kert", ro: "Grădina Botanică Béjaïa", en: "Béjaïa Botanical Garden"},
-    image: "/poi-images/bejaia-botanical-garden-life-v2.webp",
     description: { de: "Der botanische Garten von Bejaia pflegt eine wertvolle Sammlung mediterraner Pflanzen in direkter Küstennähe.", hu: "Bejaia botanikus kertje, amely a város zöld oázisa és fontos oktatási központ.", ro: "Grădina Botanică din Bejaia oferă un spațiu de conservare pentru flora mediteraneană și locală.", en: "A relaxing garden for families in Béjaïa." , es: "El jardín botánico de Bejaia mantiene una valiosa colección de plantas mediterráneas en las inmediaciones de la costa.", pt: "O jardim botânico de Bejaia mantém uma valiosa coleção de plantas mediterrânicas na proximidade direta da costa.", fr: "Le jardin botanique de Béjaïa entretient une précieuse collection de plantes méditerranéennes à proximité immédiate de la côte."},
     facts: {
       de: ["Pflanzensammlung am Meer", "Mediterrane Flora", "Wissenschaftlicher Garten"],

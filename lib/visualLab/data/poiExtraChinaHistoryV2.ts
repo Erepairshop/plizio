@@ -741,7 +741,6 @@ export const poiExtraChinaHistoryV2: POI[] = [
       hu: "Ming-sírok",
       ro: "Mormintele Ming",
       en: "Ming Tombs"},
-    image: "/poi-images/ming-tombs-history-v2.webp",
     description: {
       de: "Eine Sammlung von Mausoleen, die von den Kaisern der Ming-Dynastie erbaut wurden. Dreizehn der sechzehn Ming-Kaiser sind hier begraben.",
       hu: "A Ming-dinasztia császárai által épített mauzóleumok gyűjteménye. Tizenhárom a tizenhat Ming császárból itt van eltemetve.",
@@ -1266,7 +1265,6 @@ export const poiExtraChinaHistoryV2: POI[] = [
       hu: "Jünkang-barlangok",
       ro: "Grotele Yungang",
       en: "Yungang Grottoes"},
-    image: "/poi-images/yungang-grottoes-history-v2.webp",
     description: {
       de: "Antike chinesische buddhistische Tempelgrotten in der Nähe der Stadt Datong in der Provinz Shanxi.",
       hu: "Ősi kínai buddhista templombarlangok Tatung városának közelében, Sanhszi tartományban.",
@@ -1314,7 +1312,6 @@ export const poiExtraChinaHistoryV2: POI[] = [
       hu: "Vörös sziklák csatája",
       ro: "Bătălia de la Stâncile Roșii",
       en: "Battle of Red Cliffs"},
-    image: "/poi-images/battle-of-red-cliffs-site-history-v2.webp",
     description: {
       de: "Der Ort einer entscheidenden Seeschlacht am Ende der Han-Dynastie, die den Grundstein für die Zeit der Drei Reiche legte.",
       hu: "Egy döntő tengeri csata helyszíne a Han-dinasztia végén, amely megalapozta a Három királyság korszakát.",
@@ -2631,7 +2628,6 @@ export const poiExtraChinaHistoryV2: POI[] = [
       hu: "Régi Nyári Palota romjai",
       ro: "Ruinele Vechiului Palat de Vară",
       en: "Old Summer Palace Ruins"},
-    image: "/poi-images/old-summer-palace-ruins-history-v2.webp",
     description: {
       de: "Die Ruinen eines riesigen Komplexes von Palästen und Gärten, der von den Kaisern der Qing-Dynastie erbaut wurde. Im Jahr 1860 zerstört.",
       hu: "A Csing-dinasztia császárai által épített hatalmas palota- és kertkomplexum romjai. 1860-ban lerombolták.",
@@ -2976,7 +2972,6 @@ export const poiExtraChinaHistoryV2: POI[] = [
       hu: "Csoukoutien",
       ro: "Situl Zhoukoudian",
       en: "Zhoukoudian Site"},
-    image: "/poi-images/zhoukoudian-site-history-v2.webp",
     description: {
       de: "Eine Höhlensystem-Stätte, die viele Entdeckungen von Homo erectus-Exemplaren, genannt Peking-Mensch, erbrachte.",
       hu: "Egy barlangrendszer, amely a Pekingi Embernek nevezett Homo erectus példányok számos felfedezését hozta.",
@@ -4113,7 +4108,6 @@ export const poiExtraChinaHistoryV2: POI[] = [
       hu: "Kajfengi Sárkány Pavilon",
       ro: "Pavilionul Dragonului din Kaifeng",
       en: "Kaifeng Dragon Pavilion"},
-    image: "/poi-images/kaifeng-dragon-pavilion-history-v2.webp",
     description: {
       de: "Ein Park, der an der Stelle der Kaiserpaläste mehrerer Dynastien errichtet wurde, als Kaifeng die Hauptstadt Chinas war.",
       hu: "Egy park, amelyet több dinasztia császári palotáinak helyén építettek, amikor Kajfeng volt Kína fővárosa.",
@@ -4278,7 +4272,6 @@ export const poiExtraChinaHistoryV2: POI[] = [
       hu: "Luting híd",
       ro: "Podul Luding",
       en: "Luding Bridge"},
-    image: "/poi-images/luding-bridge-history-v2.webp",
     description: {
       de: "Eine Hängebrücke über den Dadu-Fluss, berühmt als Ort einer heroischen Schlacht während des Langen Marsches der Roten Armee.",
       hu: "Egy függőhíd a Tatu-folyón, amely a Vörös Hadsereg Hosszú Menetelése során vívott hősies csata helyszíneként híres.",
@@ -5220,7 +5213,6 @@ export const poiExtraChinaHistoryV2: POI[] = [
       hu: "Marco Polo híd",
       ro: "Podul Marco Polo",
       en: "Marco Polo Bridge"},
-    image: "/poi-images/marco-polo-bridge-history-v2.webp",
     description: {
       de: "Eine Steinbrücke westlich von Peking, berühmt für die kunstvollen Löwenstatuen, die die Balustraden säumen, und den Zwischenfall von 1937, der den Zweiten Japanisch-Chinesischen Krieg auslöste.",
       hu: "Egy kőhíd Pekingtől nyugatra, amely a korlátokat szegélyező díszes oroszlánszobrokról és az 1937-es incidensről híres, amely a második kínai-japán háborút váltotta ki.",
@@ -5313,7 +5305,6 @@ export const poiExtraChinaHistoryV2: POI[] = [
       hu: "Hungcun falu",
       ro: "Satul Hongcun",
       en: "Hongcun Village"},
-    image: "/poi-images/hongcun-village-history-v2.webp",
     description: {
       de: "Ein altes Dorf in der Provinz Anhui mit Architektur und Schnitzereien, die bis in die Ming- und Qing-Dynastien zurückreichen.",
       hu: "Egy ősi falu Anhui tartományban, amelynek építészete és faragványai a Ming- és Csing-dinasztiáig nyúlnak vissza.",
@@ -6018,7 +6009,6 @@ export const poiExtraChinaHistoryV2: POI[] = [
       hu: "A Bund, Sanghaj",
       ro: "Bund, Shanghai",
       en: "The Bund, Shanghai"},
-    image: "/poi-images/shanghai-bund-history-v2.webp",
     description: {
       de: "Ein historisches Hafenviertel im Zentrum von Shanghai. Das Gebiet enthält Dutzende von historischen Gebäuden entlang des Huangpu-Flusses.",
       hu: "Egy történelmi vízparti terület Sanghaj központjában. A terület több tucat történelmi épületet tartalmaz a Huangpu folyó mentén.",
@@ -6579,7 +6569,6 @@ export const poiExtraChinaHistoryV2: POI[] = [
       hu: "Kaocsang romjai",
       ro: "Ruinele din Gaochang",
       en: "Ruins of Gaochang"},
-    image: "/poi-images/ruins-of-gaochang-history-v2.webp",
     description: {
       de: "Die Ruinen einer alten Oasenstadt am Rande der Taklamakan-Wüste in Xinjiang. Ein wichtiger Halt an der Seidenstraße.",
       hu: "Egy ősi oázisváros romjai a Takla-makán sivatag szélén, Hszincsiangban. Fontos megálló a Selyemúton.",
@@ -7104,7 +7093,6 @@ export const poiExtraChinaHistoryV2: POI[] = [
       hu: "Nankingi mészárlás emlékműve",
       ro: "Memorialul Masacrului din Nanjing",
       en: "Nanjing Massacre Memorial Hall"},
-    image: "/poi-images/nanjing-massacre-memorial-history-v2.webp",
     description: {
       de: "Eine Gedenkstätte in Nanjing, die an die Opfer des Massakers von 1937 erinnert. Der Ort verbindet Museum, Erinnerung und historische Dokumentation.",
       hu: "Emlékmű, amely az 1937-es nankingi mészárlásban a Japán Császári Hadsereg által meggyilkoltakra emlékezik.",
@@ -8370,7 +8358,6 @@ export const poiExtraChinaHistoryV2: POI[] = [
       hu: "Csiaoho romjai",
       ro: "Ruinele din Jiaohe",
       en: "Ruins of Jiaohe"},
-    image: "/poi-images/ruins-of-jiaohe-history-v2.webp",
     description: {
       de: "Die Ruinen einer alten Stadt, die auf einem Felsplateau in einem Flusstal in der Nähe von Turpan, Xinjiang, erbaut wurde.",
       hu: "Egy ősi város romjai, amelyet egy folyóvölgyben lévő sziklaplatóra építettek Turpan közelében, Hszincsiangban.",
@@ -8859,7 +8846,6 @@ export const poiExtraChinaHistoryV2: POI[] = [
       hu: "Vutang-hegység kolostorai",
       ro: "Mănăstirile din Munții Wudang",
       en: "Wudang Mountains Monasteries"},
-    image: "/poi-images/wudang-monasteries-history-v2.webp",
     description: {
       de: "Ein Komplex aus taoistischen Tempeln und Klöstern, die als Geburtsort des Tai Chi gelten.",
       hu: "Taoista templomok és kolostorok komplexuma, amelyet a Tai Chi szülőhelyének tartanak.",

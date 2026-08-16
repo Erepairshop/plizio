@@ -1133,7 +1133,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-AS",
     coords: [-57.6359, -25.2865],
     name: { de: "Asunción", hu: "Asunción", ro: "Asunción", en: "Asunción"},
-    image: "/poi-images/asuncion-cities-v2.webp",
     description: {
       de: "Die 1537 gegründete Hauptstadt von Paraguay ist das wichtigste wirtschaftliche und kulturelle Zentrum des Landes am Ufer des Río Paraguay.",
       hu: "Az 1537-ben alapított paraguayi főváros az ország legfontosabb gazdasági és kulturális központja a Paraguay folyó partján.",
@@ -1935,7 +1934,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-1",
     coords: [-57.4323, -23.4082],
     name: { de: "Concepción", hu: "Concepción", ro: "Concepción", en: "Concepción"},
-    image: "/poi-images/concepcion-cities-v2.webp",
     description: {
       de: "Eine wichtige Hafenstadt im Norden Paraguays, die 1773 gegründet wurde und als Handelszentrum für Landwirtschaft dient.",
       hu: "Észak-Paraguay fontos kikötővárosa, amelyet 1773-ban alapítottak, és a mezőgazdaság kereskedelmi központjaként szolgál.",
@@ -2017,7 +2015,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-2",
     coords: [-57.0764, -24.0917],
     name: { de: "San Pedro de Ycuamandiyú", hu: "San Pedro de Ycuamandiyú", ro: "San Pedro de Ycuamandiyú", en: "San Pedro de Ycuamandiyú"},
-    image: "/poi-images/san-pedro-ycuamandiyu-cities-v2.webp",
     description: {
       de: "Die Hauptstadt des Departements San Pedro, gegründet im Jahr 1786, ist von traditionellen Landgütern umgeben.",
       hu: "San Pedro megye 1786-ban alapított fővárosát hagyományos mezőgazdasági birtokok veszik körül.",
@@ -2711,7 +2708,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-3",
     coords: [-57.1422, -25.3858],
     name: { de: "Caacupé", hu: "Caacupé", ro: "Caacupé", en: "Caacupé"},
-    image: "/poi-images/caacupe-cities-v2.webp",
     description: {
       de: "Dieses geistliche Zentrum des Landes zieht jedes Jahr am 8. Dezember Millionen von Pilgern zur Basilika an.",
       hu: "Az ország szellemi központja minden év december 8-án zarándokok millióit vonzza a bazilikába.",
@@ -3045,7 +3041,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-4",
     coords: [-56.4387, -25.7486],
     name: { de: "Villarrica", hu: "Villarrica", ro: "Villarrica", en: "Villarrica"},
-    image: "/poi-images/villarrica-cities-v2.webp",
     description: {
       de: "Die Stadt am Fuße des Ybytyruzú-Gebirges wird wegen ihrer bewegten Geschichte oft als 'Wandernde Stadt' bezeichnet.",
       hu: "Az Ybytyruzú-hegység lábánál fekvő várost viharos múltja miatt gyakran 'vándorló városnak' nevezik.",
@@ -3739,7 +3734,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-5",
     coords: [-56.4403, -25.4444],
     name: { de: "Coronel Oviedo", hu: "Coronel Oviedo", ro: "Coronel Oviedo", en: "Coronel Oviedo"},
-    image: "/poi-images/coronel-oviedo-cities-v2.webp",
     description: {
       de: "Als wichtiger Verkehrsknotenpunkt in der Mitte der Region Oriental verbindet die Stadt Asunción mit Ciudad del Este.",
       hu: "A Keleti régió közepén található fontos közlekedési csomópontként a város Asunciónt köti össze Ciudad del Estével.",
@@ -3893,7 +3887,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-6",
     coords: [-56.3686, -26.1800],
     name: { de: "Caazapá", hu: "Caazapá", ro: "Caazapá", en: "Caazapá"},
-    image: "/poi-images/caazapa-cities-v2.webp",
     description: {
       de: "Diese im Jahr 1607 von Franziskanern gegründete Stadt bewahrt bis heute ihre kolonialen Wurzeln und Legenden.",
       hu: "Ezt a ferencesek által 1607-ben alapított várost ma is átitatják gyarmati gyökerei és legendái.",
@@ -4983,7 +4976,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-7",
     coords: [-55.8666, -27.3306],
     name: { de: "Encarnación", hu: "Encarnación", ro: "Encarnación", en: "Encarnación"},
-    image: "/poi-images/encarnacion-cities-v2.webp",
     description: {
       de: "Die 'Perle des Südens' ist berühmt für ihre Flusspromenade am Paraná und den spektakulären jährlichen Karneval.",
       hu: "A 'Dél gyöngye' híres a Paraná folyó parti sétányáról és a látványos éves karneválról.",
@@ -5425,7 +5417,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-8",
     coords: [-57.1458, -26.6694],
     name: { de: "San Juan Bautista", hu: "San Juan Bautista", ro: "San Juan Bautista", en: "San Juan Bautista"},
-    image: "/poi-images/san-juan-bautista-cities-v2.webp",
     description: {
       de: "Ein Zentrum der Jesuitenreduktionen in der Region Misiones, bekannt für seine ausgeprägte Reiter- und Gaucho-Kultur.",
       hu: "A Misiones régió jezsuita redukcióinak központja, amely kiemelkedő lovas- és gauchokultúrájáról ismert.",
@@ -5831,7 +5822,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-9",
     coords: [-57.1472, -25.6208],
     name: { de: "Paraguarí", hu: "Paraguarí", ro: "Paraguarí", en: "Paraguarí"},
-    image: "/poi-images/paraguari-cities-v2.webp",
     description: {
       de: "Die von markanten Hügeln umgebene Stadt war einst eine wichtige Bastion der spanischen Kolonialverwaltung.",
       hu: "A feltűnő dombokkal körülvett város egykor a spanyol gyarmati közigazgatás fontos bástyája volt.",
@@ -7245,7 +7235,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-10",
     coords: [-54.6111, -25.5097],
     name: { de: "Ciudad del Este", hu: "Ciudad del Este", ro: "Ciudad del Este", en: "Ciudad del Este"},
-    image: "/poi-images/ciudad-del-este-cities-v2.webp",
     description: {
       de: "Die zweitgrößte Stadt Paraguays am Dreiländereck ist ein riesiges Freihandelszentrum, das Käufer aus ganz Südamerika anzieht.",
       hu: "Paraguay második legnagyobb városa a hármashatáron egy hatalmas szabadkereskedelmi központ, amely egész Dél-Amerikából vonzza a vásárlókat.",
@@ -8551,7 +8540,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-11",
     coords: [-57.3847, -25.3125],
     name: { de: "Areguá", hu: "Areguá", ro: "Areguá", en: "Areguá"},
-    image: "/poi-images/aregua-cities-v2.webp",
     description: {
       de: "Die malerische Stadt am Ufer des Ypacaraí-Sees ist landesweit bekannt für ihre Töpferei und den Erdbeeranbau.",
       hu: "Az Ypacaraí-tó partján fekvő festői város országszerte ismert fazekasságáról és epertermesztéséről.",
@@ -8921,7 +8909,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-12",
     coords: [-58.3044, -26.8672],
     name: { de: "Pilar", hu: "Pilar", ro: "Pilar", en: "Pilar"},
-    image: "/poi-images/pilar-cities-v2.webp",
     description: {
       de: "Eine ruhige Hafenstadt am Fluss Paraguay, die für ihre Baumwolltextilindustrie und historischen Gebäude geschätzt wird.",
       hu: "Csendes kikötőváros a Paraguay folyón, amelyet pamut textiliparáért és történelmi épületeiért értékelnek.",
@@ -9723,7 +9710,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-13",
     coords: [-55.7333, -22.5472],
     name: { de: "Pedro Juan Caballero", hu: "Pedro Juan Caballero", ro: "Pedro Juan Caballero", en: "Pedro Juan Caballero"},
-    image: "/poi-images/pedro-juan-caballero-cities-v2.webp",
     description: {
       de: "Diese Grenzstadt teilt sich eine Straße mit der brasilianischen Stadt Ponta Porã und ist ein wichtiges Handelszentrum.",
       hu: "Ez a határváros egy utcán osztozik a brazil Ponta Porã városával, és fonto s kereskedelmi központ.",
@@ -10021,7 +10007,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-14",
     coords: [-54.3069, -24.0625],
     name: { de: "Salto del Guairá", hu: "Salto del Guairá", ro: "Salto del Guairá", en: "Salto del Guairá"},
-    image: "/poi-images/salto-del-guaira-cities-v2.webp",
     description: {
       de: "Einst Heimat spektakulärer Wasserfälle, ist die Stadt heute ein boomendes Einkaufsziel an der brasilianischen Grenze.",
       hu: "Az egykor látványos vízeséseknek otthont adó város ma a brazil határ egyik virágzó bevásárló célpontja.",
@@ -10571,7 +10556,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-15",
     coords: [-57.5236, -25.0931],
     name: { de: "Villa Hayes", hu: "Villa Hayes", ro: "Villa Hayes", en: "Villa Hayes"},
-    image: "/poi-images/villa-hayes-cities-v2.webp",
     description: {
       de: "Als Tor zur Region Chaco benannt zu Ehren des US-Präsidenten Rutherford B. Hayes, der das Gebiet Paraguay zusprach.",
       hu: "A Chaco régió kapuja, amelyet Rutherford B. Hayes amerikai elnök tiszteletére neveztek el, aki a területet Paraguaynak ítélte.",
@@ -10653,7 +10637,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-16",
     coords: [-57.8736, -21.0361],
     name: { de: "Fuerte Olimpo", hu: "Fuerte Olimpo", ro: "Fuerte Olimpo", en: "Fuerte Olimpo"},
-    image: "/poi-images/fuerte-olimpo-cities-v2.webp",
     description: {
       de: "Diese abgelegene Stadt im Alto Paraguay liegt idyllisch am Río Paraguay und schützte einst die nördliche Grenze.",
       hu: "Ez a távoli város Alto Paraguayban, idilli helyen, a Paraguay folyó partján fekszik, és egykor az északi határt védte.",
@@ -11347,7 +11330,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-17",
     coords: [-60.0333, -22.3333],
     name: { de: "Filadelfia", hu: "Filadelfia", ro: "Filadelfia", en: "Filadelfia"},
-    image: "/poi-images/filadelfia-cities-v2.webp",
     description: {
       de: "Im Herzen des Gran Chaco wurde diese Stadt in den 1930er Jahren von mennonitischen Einwanderern aus Russland gegründet.",
       hu: "A Gran Chaco szívében fekvő várost az 1930-as években oroszországi mennonita bevándorlók alapították.",
@@ -11384,7 +11366,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-11",
     coords: [-57.5083, -25.3397],
     name: { de: "San Lorenzo", hu: "San Lorenzo", ro: "San Lorenzo", en: "San Lorenzo"},
-    image: "/poi-images/san-lorenzo-cities-v2.webp",
     description: {
       de: "Als wichtiges Zentrum für Bildung ist San Lorenzo für seine große Universität und das lebhafte Studentenleben bekannt.",
       hu: "Fontos oktatási központként San Lorenzo a nagy egyeteméről és az élénk diákéletéről ismert.",
@@ -11538,7 +11519,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-11",
     coords: [-57.4872, -25.2725],
     name: { de: "Luque", hu: "Luque", ro: "Luque", en: "Luque"},
-    image: "/poi-images/luque-cities-v2.webp",
     description: {
       de: "Berühmt für die Herstellung von Filigranschmuck aus Gold und Silber sowie handgefertigten Saiteninstrumenten.",
       hu: "Híres az aranyból és ezüstből készült filigrán ékszereiről, valamint a kézzel készített vonós hangszereiről.",
@@ -11842,7 +11822,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-11",
     coords: [-57.4167, -25.3500],
     name: { de: "Capiatá", hu: "Capiatá", ro: "Capiatá", en: "Capiatá"},
-    image: "/poi-images/capiata-cities-v2.webp",
     description: {
       de: "Eine der bevölkerungsreichsten Städte der Metropolregion, geprägt durch dichte Besiedlung und historischen Kirchen.",
       hu: "A metropolisz egyik legnépesebb városa, sűrűn lakott és történelmi templomokkal rendelkezik.",
@@ -11890,7 +11869,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-11",
     coords: [-57.6083, -25.3408],
     name: { de: "Lambaré", hu: "Lambaré", ro: "Lambaré", en: "Lambaré"},
-    image: "/poi-images/lambare-cities-v2.webp",
     description: {
       de: "Direkt südlich der Hauptstadt gelegen, bietet die Stadt den Cerro Lambaré, von dessen Spitze sich ein großartiger Ausblick bietet.",
       hu: "A fővárostól közvetlenül délre található városban található a Cerro Lambaré, amelynek tetejéről csodálatos kilátás nyílik.",
@@ -12734,7 +12712,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-11",
     coords: [-57.5458, -25.3217],
     name: { de: "Fernando de la Mora", hu: "Fernando de la Mora", ro: "Fernando de la Mora", en: "Fernando de la Mora"},
-    image: "/poi-images/fernando-de-la-mora-cities-v2.webp",
     description: {
       de: "Eine lebendige Handels- und Wohnstadt, benannt nach einem der Gründerväter der paraguayischen Unabhängigkeit.",
       hu: "Nyüzsgő kereskedelmi és lakóváros, amelyet a paraguayi függetlenség egyik alapítójáról neveztek el.",
@@ -13182,7 +13159,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-11",
     coords: [-57.4856, -25.1706],
     name: { de: "Limpio", hu: "Limpio", ro: "Limpio", en: "Limpio"},
-    image: "/poi-images/limpio-cities-v2.webp",
     description: {
       de: "Eine der ältesten Städte des Landes, traditionell geprägt durch ihr Karanday-Geflecht für traditionelle Hüte.",
       hu: "Az ország egyik legrégebbi városa, amelyet hagyományosan a karanday fonás és a kalapkészítés jellemez.",
@@ -13276,7 +13252,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-11",
     coords: [-57.5333, -25.3956],
     name: { de: "Ñemby", hu: "Ñemby", ro: "Ñemby", en: "Ñemby"},
-    image: "/poi-images/nemby-cities-v2.webp",
     description: {
       de: "Eine rapide wachsende Gemeinde südöstlich der Hauptstadt, in der Landwirtschaft allmählich der Industrie weicht.",
       hu: "Gyorsan fejlődő település a fővárostól délkeletre, ahol a mezőgazdaság fokozatosan átadja helyét az iparnak.",
@@ -13508,7 +13483,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-11",
     coords: [-57.3333, -25.3833],
     name: { de: "Itauguá", hu: "Itauguá", ro: "Itauguá", en: "Itauguá"},
-    image: "/poi-images/itaugua-cities-v2.webp",
     description: {
       de: "International bekannt als die Heimat der Ñandutí, dem charakteristischen spinnennetzartigen Stickhandwerk.",
       hu: "Nemzetközileg a ñandutí otthonaként ismert, amely egy jellegzetes pókhálószerű hímzés.",
@@ -13668,7 +13642,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-11",
     coords: [-57.5333, -25.2167],
     name: { de: "Mariano Roque Alonso", hu: "Mariano Roque Alonso", ro: "Mariano Roque Alonso", en: "Mariano Roque Alonso"},
-    image: "/poi-images/mariano-roque-alonso-cities-v2.webp",
     description: {
       de: "Die Stadt ist vor allem als Standort für die große alljährliche internationale Landwirtschafts- und Industriemesse bekannt.",
       hu: "A város leginkább az évente megrendezett nagy nemzetközi mezőgazdasági és ipari vásár helyszíneként ismert.",
@@ -14476,7 +14449,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-11",
     coords: [-57.5833, -25.3667],
     name: { de: "Villa Elisa", hu: "Villa Elisa", ro: "Villa Elisa", en: "Villa Elisa"},
-    image: "/poi-images/villa-elisa-cities-v2.webp",
     description: {
       de: "Eine ruhige städtische Enklave in der Metropolregion, die durch die dänische Einwanderung im späten 19. Jahrhundert geprägt wurde.",
       hu: "Csendes városi enklávé a metropoliszban, amelyet a 19. század végi dán bevándorlás alakított ki.",
@@ -14519,7 +14491,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-11",
     coords: [-57.5500, -25.4167],
     name: { de: "San Antonio", hu: "San Antonio", ro: "San Antonio", en: "San Antonio"},
-    image: "/poi-images/san-antonio-cities-v2.webp",
     description: {
       de: "Am Ufer des Río Paraguay gelegen, bietet diese Industriestadt mehrere wichtige Binnenhäfen für das Land.",
       hu: "A Paraguay folyó partján fekvő iparváros több fontos belvízi kikötőt is kínál az ország számára.",
@@ -14607,7 +14578,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-11",
     coords: [-57.5333, -25.4500],
     name: { de: "Ypané", hu: "Ypané", ro: "Ypané", en: "Ypané"},
-    image: "/poi-images/ypane-cities-v2.webp",
     description: {
       de: "Bekannt als die 'Historische Stadt', da hier alte Schlachten und historische Ereignisse stattfanden.",
       hu: "A 'történelmi városként' ismert, mivel ősi csaták és történelmi események zajlottak itt.",
@@ -14773,7 +14743,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-11",
     coords: [-57.5667, -25.5000],
     name: { de: "Villeta", hu: "Villeta", ro: "Villeta", en: "Villeta"},
-    image: "/poi-images/villeta-cities-v2.webp",
     description: {
       de: "Als industrielles Kraftzentrum am Río Paraguay verfügt die Stadt über bedeutende Hafen- und Zementanlagen.",
       hu: "A Paraguay folyó ipari erőműveként a város jelentős kikötői és cementlétesítményekkel rendelkezik.",
@@ -14897,7 +14866,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-11",
     coords: [-57.4500, -25.4833],
     name: { de: "Guarambaré", hu: "Guarambaré", ro: "Guarambaré", en: "Guarambaré"},
-    image: "/poi-images/guarambare-cities-v2.webp",
     description: {
       de: "Umgeben von Zuckerrohrplantagen ist diese Stadt historisch für ihre Zuckerfabriken berühmt.",
       hu: "A cukornádültetvényekkel körülvett város történelmileg a cukorgyárairól híres.",
@@ -14985,7 +14953,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-11",
     coords: [-57.2833, -25.4000],
     name: { de: "Ypacaraí", hu: "Ypacaraí", ro: "Ypacaraí", en: "Ypacaraí"},
-    image: "/poi-images/ypacarai-cities-v2.webp",
     description: {
       de: "Die Geburtsstadt des legendären Liedes 'Recuerdos de Ypacaraí' zieht wegen ihres großen Sees viele Musiker und Touristen an.",
       hu: "A legendás 'Recuerdos de Ypacaraí' című dal szülőhelye nagyszerű tava miatt számos zenészt és turistát vonz.",
@@ -15073,7 +15040,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-10",
     coords: [-54.6167, -25.5500],
     name: { de: "Presidente Franco", hu: "Presidente Franco", ro: "Presidente Franco", en: "Presidente Franco"},
-    image: "/poi-images/presidente-franco-cities-v2.webp",
     description: {
       de: "Liegt am Zusammenfluss der Flüsse Paraná und Iguazú und beheimatet die atemberaubenden Wasserfälle Saltos del Monday.",
       hu: "A Paraná és az Iguazú folyók összefolyásánál fekszik, és itt találhatók a lenyűgöző Saltos del Monday vízesések.",
@@ -15305,7 +15271,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-10",
     coords: [-54.7667, -25.4667],
     name: { de: "Minga Guazú", hu: "Minga Guazú", ro: "Minga Guazú", en: "Minga Guazú"},
-    image: "/poi-images/minga-guazu-cities-v2.webp",
     description: {
       de: "Gegründet in den 1950er Jahren durch ein genossenschaftliches System, ist diese landwirtschaftlich florierende Stadt für ihren Fleiß bekannt.",
       hu: "Az 1950-es években szövetkezeti rendszerben alapított mezőgazdaságilag virágzó város szorgalmáról ismert.",
@@ -16293,7 +16258,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-10",
     coords: [-54.6333, -25.4000],
     name: { de: "Hernandarias", hu: "Hernandarias", ro: "Hernandarias", en: "Hernandarias"},
-    image: "/poi-images/hernandarias-cities-v2.webp",
     description: {
       de: "Wird stolz als 'Lateinamerikanische Hauptstadt der Energie' bezeichnet, da der Staudamm Itaipu zum großen Teil hier liegt.",
       hu: "Büszkén nevezik 'Latin-Amerika energiafővárosának', mivel az Itaipu-gát nagy része itt található.",
@@ -16337,7 +16301,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-10",
     coords: [-55.0667, -25.7833],
     name: { de: "Santa Rita", hu: "Santa Rita", ro: "Santa Rita", en: "Santa Rita"},
-    image: "/poi-images/santa-rita-cities-v2.webp",
     description: {
       de: "Als landwirtschaftliches Zentrum, das stark von brasilianischen Siedlern geprägt ist, gilt die Stadt als eine der reichsten des Landes.",
       hu: "A brazil telepesek által erősen befolyásolt mezőgazdasági központként a város az ország egyik leggazdagabbja.",
@@ -16407,7 +16370,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-7",
     coords: [-56.2333, -27.1667],
     name: { de: "Coronel Bogado", hu: "Coronel Bogado", ro: "Coronel Bogado", en: "Coronel Bogado"},
-    image: "/poi-images/coronel-bogado-cities-v2.webp",
     description: {
       de: "Die selbsternannte Hauptstadt der Chipa, Paraguays berühmtem Mais- und Käsebrot, lockt mit traditioneller Bäckereikunst.",
       hu: "A chipa, Paraguay híres kukorica- és sajtkenyerének önjelölt fővárosa, amely hagyományos pékáruival vonzza a látogatókat.",
@@ -16712,7 +16674,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-2",
     coords: [-56.4333, -24.6667],
     name: { de: "San Estanislao", hu: "San Estanislao", ro: "San Estanislao", en: "San Estanislao"},
-    image: "/poi-images/san-estanislao-cities-v2.webp",
     description: {
       de: "Umgangssprachlich oft Santaní genannt, bewahrt diese historische Jesuitenreduktion bis heute wertvolle Architektur.",
       hu: "A köznyelvben gyakran Santaní néven emlegetett történelmi jezsuita redukció ma is őrzi értékes építészetét.",
@@ -16981,7 +16942,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-1",
     coords: [-57.0500, -23.3333],
     name: { de: "Horqueta", hu: "Horqueta", ro: "Horqueta", en: "Horqueta"},
-    image: "/poi-images/horqueta-cities-v2.webp",
     description: {
       de: "Gelegen auf einer Kreuzung historischer Wege, verdankt die Stadt ihren Namen der spanischen Bezeichnung for eine Weggabelung.",
       hu: "A történelmi utak kereszteződésében fekvő város nevét a spanyol 'útvilla' kifejezésről kapta.",
@@ -17203,7 +17163,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-3",
     coords: [-56.9667, -25.3833],
     name: { de: "Eusebio Ayala", hu: "Eusebio Ayala", ro: "Eusebio Ayala", en: "Eusebio Ayala"},
-    image: "/poi-images/eusebio-ayala-cities-v2.webp",
     description: {
       de: "Landesweit verehrt für das Backen von Chipa, insbesondere der berühmten 'Chipa Barrero', die Besucher aus der ganzen Region anzieht.",
       hu: "Országszerte nagyra becsülik a chipa, különösen a híres 'chipa barrero' sütéséért, amely az egész régióból vonzza a látogatókat.",
@@ -17328,7 +17287,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-3",
     coords: [-57.0500, -25.4667],
     name: { de: "Piribebuy", hu: "Piribebuy", ro: "Piribebuy", en: "Piribebuy"},
-    image: "/poi-images/piribebuy-cities-v2.webp",
     description: {
       de: "Eine von Hügeln und Bächen durchzogene Gemeinde, die für ihren starken Widerstand im großen Krieg von 1869 bekannt ist.",
       hu: "Dombokkal és patakokkal tagolt település, amely az 1869-es nagy háborúban tanúsított erős ellenállásáról ismert.",
@@ -17372,7 +17330,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-4",
     coords: [-56.2667, -25.7000],
     name: { de: "Independencia", hu: "Independencia", ro: "Independencia", en: "Independencia"},
-    image: "/poi-images/independencia-cities-v2.webp",
     description: {
       de: "Stark geprägt durch deutsche und Schweizer Einwanderer, ist dieser Ort für seine Weinberge und das bayerische Flair im Ybytyruzú bekannt.",
       hu: "A német és svájci bevándorlók által erősen befolyásolt hely a szőlőültetvényeiről és a bajor hangulatról ismert az Ybytyruzúban.",
@@ -17461,7 +17418,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-9",
     coords: [-57.2333, -25.8000],
     name: { de: "Carapeguá", hu: "Carapeguá", ro: "Carapeguá", en: "Carapeguá"},
-    image: "/poi-images/carapegua-cities-v2.webp",
     description: {
       de: "Als Textilhauptstadt Paraguays versorgt die Stadt das Land mit Hängematten, Ponchos und handgewebten Stoffen.",
       hu: "Paraguay textilfővárosaként a város függőágyakkal, poncsókkal és kézzel szőtt szövetekkel látja el az országot.",
@@ -17658,7 +17614,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-8",
     coords: [-57.0333, -26.8667],
     name: { de: "San Ignacio Guazú", hu: "San Ignacio Guazú", ro: "San Ignacio Guazú", en: "San Ignacio Guazú"},
-    image: "/poi-images/san-ignacio-guazu-cities-v2.webp",
     description: {
       de: "Als die älteste Jesuitenreduktion in Paraguay bietet die Stadt heute wertvolle Einblicke in die barocke Kunst jener Epoche.",
       hu: "Paraguay legrégebbi jezsuita redukciójaként a város ma értékes betekintést nyújt a korszak barokk művészetébe.",
@@ -17747,7 +17702,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-17",
     coords: [-59.8333, -22.3833],
     name: { de: "Loma Plata", hu: "Loma Plata", ro: "Loma Plata", en: "Loma Plata"},
-    image: "/poi-images/loma-plata-cities-v2.webp",
     description: {
       de: "Als Zentrum der mennonitischen Kolonie Menno profiliert sich die Siedlung durch moderne Milchwirtschaft im trockenen Chaco.",
       hu: "A Menno mennonita kolónia központjaként a település a száraz Chacóban folytatott modern tejtermeléssel tűnik ki.",
@@ -17791,7 +17745,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-17",
     coords: [-60.6333, -22.0333],
     name: { de: "Mariscal Estigarribia", hu: "Mariscal Estigarribia", ro: "Mariscal Estigarribia", en: "Mariscal Estigarribia"},
-    image: "/poi-images/mariscal-estigarribia-cities-v2.webp",
     description: {
       de: "Tief im unwirtlichen Gebiet des Chaco gelegen, war die Stadt ein zentraler Verteidigungspunkt während des Chaco-Krieges.",
       hu: "A Chaco barátságtalan területének mélyén fekvő város a chaco-háború idején központi védelmi pont volt.",
@@ -17835,7 +17788,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-11",
     coords: [-57.4000, -25.4333],
     name: { de: "J. Augusto Saldívar", hu: "J. Augusto Saldívar", ro: "J. Augusto Saldívar", en: "J. Augusto Saldívar"},
-    image: "/poi-images/j-augusto-saldivar-cities-v2.webp",
     description: {
       de: "Ursprünglich unter dem Namen Posta Leiva bekannt, ist diese Stadt heute ein wichtiges Zentrum der Gemüseproduktion.",
       hu: "Az eredetileg Posta Leiva néven ismert város ma a zöldségtermesztés fontos központja.",
@@ -17960,7 +17912,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-10",
     coords: [-54.9000, -24.9667],
     name: { de: "San Alberto", hu: "San Alberto", ro: "San Alberto", en: "San Alberto"},
-    image: "/poi-images/san-alberto-cities-v2.webp",
     description: {
       de: "Als eine der wichtigsten Landwirtschaftsstädte der Region wird sie auch oft als die paraguayische Hauptstadt der Sojabohnen bezeichnet.",
       hu: "A régió egyik legfontosabb mezőgazdasági városaként gyakran a szójabab paraguayi fővárosaként is emlegetik.",
@@ -18004,7 +17955,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-10",
     coords: [-55.2333, -25.4000],
     name: { de: "Doctor Juan León Mallorquín", hu: "Doctor Juan León Mallorquín", ro: "Doctor Juan León Mallorquín", en: "Doctor Juan León Mallorquín"},
-    image: "/poi-images/doctor-juan-leon-mallorquin-cities-v2.webp",
     description: {
       de: "Gelegen entlang der wichtigen Route 2, ist diese Stadt nach einem paraguayischen Politiker und Juristen benannt.",
       hu: "A fontos 2-es út mentén fekvő várost egy paraguayi politikusról és jogászról nevezték el.",
@@ -18093,7 +18043,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-7",
     coords: [-55.8333, -27.3000],
     name: { de: "Cambyretá", hu: "Cambyretá", ro: "Cambyretá", en: "Cambyretá"},
-    image: "/poi-images/cambyreta-cities-v2.webp",
     description: {
       de: "Als Nachbarstadt von Encarnación ist Cambyretá wegen ihrer schönen Flussufer und den ruhigen Wohnvierteln beliebt.",
       hu: "Encarnación szomszédos városaként Cambyretá gyönyörű folyópartjai és csendes lakónegyedei miatt népszerű.",
@@ -18137,7 +18086,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-7",
     coords: [-56.2000, -26.8333],
     name: { de: "San Pedro del Paraná", hu: "San Pedro del Paraná", ro: "San Pedro del Paraná", en: "San Pedro del Paraná"},
-    image: "/poi-images/san-pedro-del-parana-cities-v2.webp",
     description: {
       de: "Eine der ältesten Städte in Itapúa, geprägt durch sanfte Hügel, weite Ländereien und den traditionellen Reitsport.",
       hu: "Itapúa egyik legrégebbi városa, amelyet szelíd dombok, kiterjedt földek és a hagyományos lovassportok jellemeznek.",
@@ -18181,7 +18129,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-7",
     coords: [-55.2333, -26.5833],
     name: { de: "Tomás Romero Pereira", hu: "Tomás Romero Pereira", ro: "Tomás Romero Pereira", en: "Tomás Romero Pereira"},
-    image: "/poi-images/tomas-romero-pereira-cities-v2.webp",
     description: {
       de: "Diese im Volksmund als Maria Auxiliadora bekannte Stadt ist berühmt für ihren intensiven Karottenanbau.",
       hu: "A köznyelvben Maria Auxiliadora néven ismert város híres intenzív sárgarépatermesztéséről.",
@@ -18306,7 +18253,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-7",
     coords: [-55.6500, -27.0833],
     name: { de: "Hohenau", hu: "Hohenau", ro: "Hohenau", en: "Hohenau"},
-    image: "/poi-images/hohenau-cities-v2.webp",
     description: {
       de: "Ein stark von deutschen Einwanderern geprägter Ort, der Teil der Vereinigten Kolonien im Süden des Landes ist.",
       hu: "A német bevándorlók által erősen befolyásolt hely, amely az ország déli részén található Egyesült Kolóniák része.",
@@ -18350,7 +18296,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-7",
     coords: [-55.8000, -27.2000],
     name: { de: "Capitán Miranda", hu: "Capitán Miranda", ro: "Capitán Miranda", en: "Capitán Miranda"},
-    image: "/poi-images/capitan-miranda-cities-v2.webp",
     description: {
       de: "Eine multikulturelle Gemeinde nahe Encarnación, bekannt für ihren außergewöhnlich produktiven Gartenbau.",
       hu: "Encarnaciónhoz közeli multikulturális település, amely kivételesen termelékeny kertészetéről ismert.",
@@ -18619,7 +18564,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-7",
     coords: [-55.6333, -27.0500],
     name: { de: "Obligado", hu: "Obligado", ro: "Obligado", en: "Obligado"},
-    image: "/poi-images/obligado-cities-v2.webp",
     description: {
       de: "Als industrielle Hauptstadt der Region ist Obligado ein wichtiger Pfeiler der Yerba-Mate-Produktion.",
       hu: "A régió ipari fővárosaként Obligado a yerba mate termelés egyik fontos pillére.",
@@ -18816,7 +18760,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-7",
     coords: [-55.5667, -27.0333],
     name: { de: "Bella Vista", hu: "Bella Vista", ro: "Bella Vista", en: "Bella Vista"},
-    image: "/poi-images/bella-vista-cities-v2.webp",
     description: {
       de: "Dieses malerische Zentrum der Mate-Tee-Industrie beeindruckt mit seinen großen Plantagen und der ruhigen Atmosphäre.",
       hu: "A mate tea iparának festői központja nagy ültetvényeivel és csendes légkörével nyűgöz le.",
@@ -18949,7 +18892,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-5",
     coords: [-55.6500, -25.3833],
     name: { de: "J. Eulogio Estigarribia", hu: "J. Eulogio Estigarribia", ro: "J. Eulogio Estigarribia", en: "J. Eulogio Estigarribia"},
-    image: "/poi-images/j-eulogio-estigarribia-cities-v2.webp",
     description: {
       de: "Umgangssprachlich oft als Campo 9 bezeichnet, ist die Stadt das Herzstück der modernen Milchindustrie Paraguays.",
       hu: "A köznyelvben gyakran Campo 9-ként emlegetett város a modern paraguayi tejipar szíve.",
@@ -18993,7 +18935,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-5",
     coords: [-55.9500, -25.5333],
     name: { de: "Repatriación", hu: "Repatriación", ro: "Repatriación", en: "Repatriación"},
-    image: "/poi-images/repatriacion-cities-v2.webp",
     description: {
       de: "Diese landwirtschaftliche Gemeinde wurde ursprünglich geschaffen, um paraguayischen Auswanderern die Rückkehr zu erleichtern.",
       hu: "Ezt a mezőgazdasági közösséget eredetileg azért hozták létre, hogy megkönnyítsék a paraguayi emigránsok visszatérését.",
@@ -19037,7 +18978,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-5",
     coords: [-56.7000, -25.5333],
     name: { de: "San José de los Arroyos", hu: "San José de los Arroyos", ro: "San José de los Arroyos", en: "San José de los Arroyos"},
-    image: "/poi-images/san-jose-de-los-arroyos-cities-v2.webp",
     description: {
       de: "Gelegen zwischen Bächen und Feldern, ist diese ruhige Stadt reich an Folklore und traditioneller Musik.",
       hu: "A patakok és mezők között fekvő csendes város gazdag folklórban és hagyományos zenében.",
@@ -19125,7 +19065,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-2",
     coords: [-56.5833, -24.1833],
     name: { de: "Choré", hu: "Choré", ro: "Choré", en: "Choré"},
-    image: "/poi-images/chore-cities-v2.webp",
     description: {
       de: "Ein agrarisch geprägtes Zentrum, das in den letzten Jahren durch Diversifizierung in der Landwirtschaft gewachsen ist.",
       hu: "Agrárközpont, amely az elmúlt években a mezőgazdaság diverzifikációja révén növekedett.",
@@ -19250,7 +19189,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-2",
     coords: [-56.5000, -23.8333],
     name: { de: "Santa Rosa del Aguaray", hu: "Santa Rosa del Aguaray", ro: "Santa Rosa del Aguaray", en: "Santa Rosa del Aguaray"},
-    image: "/poi-images/santa-rosa-del-aguaray-cities-v2.webp",
     description: {
       de: "Die am schnellsten wachsende Stadt im Departement bietet zunehmend Zugang zum Ökotourismus, einschließlich der nahegelegenen Laguna Blanca.",
       hu: "A megye leggyorsabban növekvő városa, amely egyre nagyobb hozzáférést biztosít az ökoturizmushoz, beleértve a közeli Laguna Blancát is.",
@@ -19419,7 +19357,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-1",
     coords: [-57.9667, -22.1667],
     name: { de: "Vallemí", hu: "Vallemí", ro: "Vallemí", en: "Vallemí"},
-    image: "/poi-images/vallemi-cities-v2.webp",
     description: {
       de: "Direkt am Río Paraguay gelegen, ist dieser abgelegene Ort vor allem für seine riesige Zementfabrik und die mystischen Höhlen bekannt.",
       hu: "Közvetlenül a Paraguay folyó partján fekvő távoli hely leginkább hatalmas cementgyáráról és misztikus barlangjairól ismert.",
@@ -19508,7 +19445,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     parent: "PY-13",
     coords: [-56.5167, -22.1333],
     name: { de: "Bella Vista Norte", hu: "Bella Vista Norte", ro: "Bella Vista Norte", en: "Bella Vista Norte"},
-    image: "/poi-images/bella-vista-norte-cities-v2.webp",
     description: {
       de: "Gelegen am Fluss Apa, der die natürliche Grenze zu Brasilien bildet, lebt die Stadt von Forstwirtschaft und Grenzkultur.",
       hu: "Az Apa folyó mentén fekvő város, amely természetes határt képez Brazíliával, az erdészetből és a határkultúrából él.",

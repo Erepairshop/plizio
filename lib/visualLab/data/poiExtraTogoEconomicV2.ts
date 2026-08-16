@@ -57,7 +57,6 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: "Kpémé foszfátrakodó móló",
       ro: "Moll de încărcare a fosfatului Kpémé",
       en: "Kpémé Phosphate Loading Wharf"},
-    image: "/poi-images/kpeme-wharf-economic-v2.webp",
     description: {
       de: "Der Wharf von Kpémé ist eine spezialisierte Hafenanlage für den Export von Phosphaten, dem wichtigsten Bergbauprodukt Togos. Er ragt weit in den Atlantik hinein, um großen Schiffen das Anlegen zu ermöglichen. Geographie K8 - Exportwirtschaft.",
       hu: "A Kpémé móló egy speciális kikötői létesítmény Togo legfontosabb bányászati termékének, a foszfátnak az exportálására. Messze benyúlik az Atlanti-óceánba, hogy lehetővé tegye a nagy hajók kikötését. Földrajz K8 - Exportgazdaság.",
@@ -153,7 +152,6 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: "CIMTOGO cementgyár, Lomé",
       ro: "Fabrica de ciment CIMTOGO Lomé",
       en: "CIMTOGO Cement Factory Lomé"},
-    image: "/poi-images/cimtogo-lome-economic-v2.webp",
     description: {
       de: "Das CIMTOGO-Werk in Lomé ist eine der führenden Zementproduktionsstätten des Landes und versorgt den lokalen Baumarkt sowie die Nachbarländer. Es ist ein zentraler Bestandteil der industriellen Infrastruktur der Hauptstadt. Geographie K8 - Bauindustrie.",
       hu: "A loméi CIMTOGO gyár az ország egyik vezető cementgyártó üzeme, amely a helyi építőipari piacot és a szomszédos országokat látja el. A főváros ipari infrastruktúrájának központi eleme. Földrajz K8 - Építőipar.",
@@ -201,7 +199,6 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: "WACEM cementgyár, Tabligbo",
       ro: "Fabrica de ciment WACEM Tabligbo",
       en: "WACEM Cement Factory Tabligbo"},
-    image: "/poi-images/wacem-tabligbo-economic-v2.webp",
     description: {
       de: "West African Cement (WACEM) betreibt in Tabligbo ein bedeutendes Werk zur Klinker- und Zementherstellung. Die Fabrik nutzt die reichen Kalksteinvorkommen der Region für die großflächige Produktion. Geographie K8 - Rohstoffverarbeitung.",
       hu: "A West African Cement (WACEM) jelentős klinker- és cementgyártó üzemet működtet Tabligbóban. A gyár a régió gazdag mészkőkészleteit hasznosítja a nagyüzemi termeléshez. Földrajz K8 - Nyersanyag-feldolgozás.",
@@ -249,7 +246,6 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: "Heidelberg Materials, Tabligbo",
       ro: "Heidelberg Materials Tabligbo",
       en: "Heidelberg Materials Tabligbo"},
-    image: "/poi-images/heidelberg-tabligbo-economic-v2.webp",
     description: {
       de: "Das Werk von Heidelberg Materials in Tabligbo ist eine hochmoderne Anlage zur Herstellung von Zementklinker. Es ist ein Beispiel für internationale Investitionen in den togoischen Industriesektor. Geographie K8 - Ausländische Direktinvestitionen.",
       hu: "A Heidelberg Materials tabligbói üzeme egy ultramodern cementklinker-gyártó létesítmény. Kiváló példája a togoi ipari szektorba irányuló nemzetközi befektetéseknek. Földrajz K8 - Közvetlen külföldi tőkebefektetések.",
@@ -297,7 +293,6 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: "SITEX textilgyár, Kara",
       ro: "Fabrica de textile SITEX Kara",
       en: "SITEX Textile Factory Kara"},
-    image: "/poi-images/sitex-kara-economic-v2.webp",
     description: {
       de: "SITEX ist eine bedeutende Textilfabrik in Kara, die lokal angebaute Baumwolle verarbeitet. Die Fabrik spielt eine wichtige Rolle bei der Wertschöpfung innerhalb der togoischen Landwirtschaft. Geographie K8 - Leichtindustrie.",
       hu: "A SITEX egy jelentős textilgyár Karában, amely helyben termesztett gyapotot dolgoz fel. A gyár fontos szerepet játszik a togoi mezőgazdaságon belüli értékteremtésben. Földrajz K8 - Könnyűipar.",
@@ -345,7 +340,6 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: "NIOTO olajosmag-feldolgozó",
       ro: "Prelucrarea semințelor oleaginoase NIOTO",
       en: "NIOTO Oilseed Processing"},
-    image: "/poi-images/nioto-lome-economic-v2.webp",
     description: {
       de: "NIOTO ist auf die Verarbeitung von Ölsaaten, insbesondere Baumwollsamen und Karité-Nüssen, spezialisiert. Das Werk produziert Speiseöle und Fette für den nationalen Bedarf und den Export. Sachkunde K3 - Nahrungsmittelproduktion.",
       hu: "A NIOTO olajos magvak, különösen gyapotmag és karité-dió (shea) feldolgozására specializálódott. Az üzem étolajokat és zsírokat gyárt a hazai szükségletekre és exportra. Sachkunde K3 - Élelmiszertermelés.",
@@ -393,7 +387,6 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: "BB Lomé sörgyár",
       ro: "Berăria BB Lomé",
       en: "BB Lomé Brewery"},
-    image: "/poi-images/bb-lome-economic-v2.webp",
     description: {
       de: "Die Brasserie du Bénin (BB Lomé) ist die größte Brauerei Togos und produziert eine Vielzahl von Getränken. Sie ist einer der bekanntesten Industriebetriebe und ein bedeutender Steuerzahler des Landes. Sachkunde K4 - Konsumgüterindustrie.",
       hu: "A Brasserie du Bénin (BB Lomé) Togo legnagyobb sörgyára, amely különféle italokat gyárt. Az ország egyik legismertebb ipari vállalata és jelentős adófizetője. Sachkunde K4 - Fogyasztási cikkek ipara.",
@@ -489,7 +482,6 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: "Togo Terminál Bolloré",
       ro: "Terminalul Togo Bolloré",
       en: "Togo Terminal Bolloré"},
-    image: "/poi-images/togo-terminal-economic-v2.webp",
     description: {
       de: "Togo Terminal wird von der Bolloré-Gruppe betrieben und ist ein wesentlicher Bestandteil des Hafens von Lomé. Es ist auf den Umschlag von Stückgut und Containern spezialisiert. Geographie K8 - Logistikzentren.",
       hu: "A Togo Terminált a Bolloré csoport üzemelteti, és a loméi kikötő szerves részét képezi. Darabáruk és konténerek rakodására specializálódott. Földrajz K8 - Logisztikai központok.",
@@ -585,7 +577,6 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: "SOPAL pálmaolaj-malom, Agou",
       ro: "Moara de ulei de palmier SOPAL Agou",
       en: "SOPAL Palm Oil Mill Agou"},
-    image: "/poi-images/sopal-agou-economic-v2.webp",
     description: {
       de: "SOPAL betreibt eine bedeutende Verarbeitungsanlage für Palmöl in der fruchtbaren Agou-Region. Die Mühle verarbeitet die Früchte der umliegenden Ölpalmenplantagen zu Rohöl. Sachkunde K3 - Landwirtschaftliche Industrie.",
       hu: "A SOPAL jelentős pálmaolaj-feldolgozó üzemet működtet a termékeny Agou régióban. A malom a környező olajpálma-ültetvények gyümölcseit dolgozza fel nyersolajjá. Sachkunde K3 - Mezőgazdasági ipar.",
@@ -633,7 +624,6 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: "ContourGlobal erőmű",
       ro: "Centrala electrică ContourGlobal",
       en: "ContourGlobal Power Plant"},
-    image: "/poi-images/contourglobal-lome-economic-v2.webp",
     description: {
       de: "Das Kraftwerk von ContourGlobal in Lomé ist eine der wichtigsten Stromerzeugungsanlagen Togos. Es nutzt verschiedene Brennstoffe, um die Energieversorgung des Landes und des Hafens sicherzustellen. Geographie K8 - Energieversorgung.",
       hu: "A ContourGlobal loméi erőműve Togo egyik legfontosabb villamosenergia-termelő létesítménye. Különböző üzemanyagokat használ az ország és a kikötő energiaellátásának biztosítására. Földrajz K8 - Energiaellátás.",
@@ -681,7 +671,6 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: "STSL üzemanyagraktár, Lomé",
       ro: "Depozitul de combustibil STSL Lomé",
       en: "STSL Fuel Depot Lomé"},
-    image: "/poi-images/stsl-fuel-depot-economic-v2.webp",
     description: {
       de: "Die Société Togolaise de Stockage de Lomé (STSL) betreibt ein großes Tanklager für Erdölprodukte direkt am Hafen. Es dient als strategische Reserve und Verteilzentrum für den gesamten Norden. Geographie K8 - Logistik.",
       hu: "A Société Togolaise de Stockage de Lomé (STSL) hatalmas üzemanyagraktárt üzemeltet közvetlenül a kikötőben. Stratégiai tartalékként és elosztóközpontként szolgál az egész északi régió számára. Földrajz K8 - Logisztika.",
@@ -729,7 +718,6 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: "SGMT malom, Lomé",
       ro: "Moara de cereale SGMT Lomé",
       en: "SGMT Flour Mill Lomé"},
-    image: "/poi-images/sgmt-flour-mill-economic-v2.webp",
     description: {
       de: "Die Société des Grands Moulins du Togo (SGMT) verarbeitet importiertes Getreide zu Mehl und anderen Backzutaten. Sie ist eine der wichtigsten Säulen der togoischen Lebensmittelindustrie. Sachkunde K3 - Nahrungsmittelverarbeitung.",
       hu: "A Société des Grands Moulins du Togo (SGMT) importált gabonát dolgoz fel lisztté és egyéb sütőipari alapanyagokká. A togoi élelmiszeripar egyik legfontosabb oszlopa. Sachkunde K3 - Élelmiszer-feldolgozás.",
@@ -777,7 +765,6 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: "Togo Carrière mészkőbánya",
       ro: "Cariera Togo Sika-Kondji",
       en: "Togo Carrière Sika-Kondji"},
-    image: "/poi-images/togo-carriere-economic-v2.webp",
     description: {
       de: "Dieser Kalksteinbruch in Sika-Kondji liefert den notwendigen Rohstoff für die Zementwerke der Region. Der Abbau erfolgt im großen Stil und ist entscheidend für die nationale Bauwirtschaft. Geographie K8 - Rohstoffgewinnung.",
       hu: "Ez a sika-kondji-i mészkőbánya biztosítja a szükséges nyersanyagot a régió cementgyárai számára. A kitermelés nagyüzemi módon folyik, és létfontosságú a nemzeti építőipar számára. Földrajz K8 - Nyersanyag-kitermelés.",
@@ -870,7 +857,6 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: "Kékéli Efficient Power erőmű",
       ro: "Centrala Kékéli Efficient Power",
       en: "Kékéli Efficient Power Plant"},
-    image: "/poi-images/kekeli-power-economic-v2.webp",
     description: {
       de: "Das Kékéli-Kraftwerk ist eine hochmoderne Gaskraftanlage in Lomé, die die Energieautarkie Togos stärken soll. Sie nutzt effiziente Technologie zur Reduzierung von Emissionen. Geographie K8 - Nachhaltige Energie.",
       hu: "A kékéli erőmű egy ultramodern gáztüzelésű erőmű Loméban, amelynek célja Togo energiafüggetlenségének erősítése. Hatékony technológiát alkalmaz a károsanyag-kibocsátás csökkentése érdekében. Földrajz K8 - Fenntartható energia.",
@@ -918,7 +904,6 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: "SCAN Togo cementgyár",
       ro: "Fabrica de ciment SCAN Togo",
       en: "SCAN Togo Cement Plant"},
-    image: "/poi-images/scan-togo-economic-v2.webp",
     description: {
       de: "Das SCAN Togo Zementwerk ist ein großer Industriekomplex, der zur Heidelberg-Materials-Gruppe gehört. Es ist auf die Herstellung von Zementklinker aus lokalen Kalksteinvorkommen spezialisiert. Geographie K8 - Schwere Industrie.",
       hu: "A SCAN Togo cementgyár egy nagy ipari komplexum, amely a Heidelberg Materials csoporthoz tartozik. A helyi mészkőkészletekből történő cementklinker-gyártásra specializálódott. Földrajz K8 - Nehézipar.",
@@ -1011,7 +996,6 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: "Lassa-i vízművek",
       ro: "Stația de pompare a apei Lassa",
       en: "Lassa Water Pumping Station"},
-    image: "/poi-images/pompage-lassa-economic-v2.webp",
     description: {
       de: "Die Pumpstation in Lassa ist eine lebenswichtige industrielle Anlage zur Wasserversorgung der Stadt Kara und ihres Umlands. Sie stellt die Aufbereitung und Verteilung von Trinkwasser sicher. Sachkunde K4 - Öffentliche Infrastruktur.",
       hu: "A lassa-i szivattyúállomás létfontosságú ipari létesítmény Kara város és környéke vízellátásához. Biztosítja az ivóvíz tisztítását és elosztását. Sachkunde K4 - Közműinfrastruktúra.",

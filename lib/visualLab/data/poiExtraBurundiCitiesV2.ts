@@ -12,7 +12,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Bujumbura",
       ro: "Bujumbura",
       en: "Bujumbura"},
-    image: "/poi-images/bujumbura-cities-v2.webp",
     descriptionAdvanced: {
       de: "Bujumbura, die größte Stadt Burundis und dessen wirtschaftliches Herzstück, liegt malerisch am nordöstlichen Ufer des Tanganjikasees. Gegründet als kleiner Militärposten während der deutschen Kolonialherrschaft am Ende des 19. Jahrhunderts, entwickelte sich der Ort unter belgischem Mandat rasch zu einem bedeutenden administrativen Zentrum. Die Stadtlandschaft ist geprägt von einer Mischung aus kolonialer Architektur und modernen afrikanischen Einflüssen, wobei die breiten Boulevards im Zentrum an die europäische Stadtplanung erinnern. Trotz der offiziellen Verlegung der politischen Hauptstadt nach Gitega im Jahr 2019 bleibt Bujumbura der entscheidende Motor für den Außenhandel des Landes. Der Hafen von Bujumbura ist der wichtigste Umschlagplatz für Waren, die über den See nach Tansania, Sambia und die Demokratische Republik Kongo transportiert werden. Exportgüter wie Kaffee, Tee und Baumwolle dominieren das wirtschaftliche Geschehen. Geografisch liegt die Stadt in der Imbo-Ebene, die durch ein tropisches Klima und fruchtbare Böden gekennzeichnet ist, was den umliegenden Regionen eine intensive landwirtschaftliche Nutzung ermöglicht. Kulturell bietet die Stadt eine lebendige Szene mit Märkten wie dem Marché Central, der als sozialer Treffpunkt fungiert, und dem Living Museum, das Einblicke in die traditionelle burundische Handwerkskunst und die lokale Flora und Fauna bietet. Die Gastronomie spiegelt die Nähe zum See wider, wobei Fischspezialitäten wie Ndagala und Mukeke fester Bestandteil der lokalen Identität sind. Bildungseinrichtungen wie die Universität von Burundi unterstreichen die Rolle der Stadt als intellektuelles Zentrum. Dennoch steht Bujumbura vor Herausforderungen wie dem schnellen Bevölkerungswachstum und der notwendigen Modernisierung der Infrastruktur, um seine Position als regionales Handelszentrum in Ostafrika zu festigen.",
       hu: "Bujumbura, Burundi legnagyobb városa és egykori fővárosa, a Tanganyika-tó északkeleti partján fekszik, és mindmáig az ország gazdasági és kulturális központja. A város története a 19. század végén kezdődött, amikor német katonai állomásként jött létre, majd a belga gyarmati uralom alatt vált jelentős közigazgatási egységgé. Bár 2019-ben a politikai fővárosi rangot Gitega vette át, Bujumbura maradt az ország kereskedelmi kapuja. Kikötője létfontosságú szerepet tölt be a régióban, hiszen itt zajlik az áruforgalom jelentős része a szomszédos országok, például Tanzánia és a Kongói Demokratikus Köztársaság felé. A város építészeti arculatát a gyarmati múlt emlékei és a modern afrikai stílus ötvözete határozza meg, széles sugárútjai és parkjai egyedi hangulatot kölcsönöznek a településnek. Gazdasága nagyban támaszkodik a mezőgazdasági termékek, különösen a kávé és a tea exportjára, de a könnyűipar és a szolgáltatási szektor is jelentős. A Tanganyika-tó közelsége nemcsak a kereskedelem, hanem a turizmus szempontjából is meghatározó; a tóparti strandok és éttermek a helyiek és a látogatók kedvelt pihenőhelyei. Bujumbura ad otthont az ország legfontosabb oktatási intézményeinek, köztük a Burundi Egyetemnek, amely a térség egyik kiemelkedő tudásközpontja. A város kulturális életét színesítik a helyi dobosok fellépései, a hagyományos táncok és a kézműves piacok, ahol a kosárfonás és a fafaragás remekei vásárolhatók meg. A népesség rohamos növekedése komoly kihívások elé állítja a városvezetést, különösen a lakhatás és a közlekedés fejlesztése terén, ugyanakkor Bujumbura továbbra is Burundi legdinamikusabban fejlődő urbánus területe marad.",
@@ -171,7 +170,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Gitega",
       ro: "Gitega",
       en: "Gitega"},
-    image: "/poi-images/gitega-cities-v2.webp",
     descriptionAdvanced: {
       de: "Gitega, die seit 2019 offizielle politische Hauptstadt von Burundi, liegt zentral im burundischen Hochland auf einer Höhe von etwa 1.500 Metern. Diese strategische und geografisch zentrale Lage war ausschlaggebend für die Entscheidung der Regierung, die administrativen Funktionen aus dem überlasteten Bujumbura hierher zu verlegen. Historisch gesehen war Gitega lange Zeit der Sitz der burundischen Könige (Mwami) und gilt daher als das kulturelle und spirituelle Herz des Landes. Die Stadt strahlt eine ruhigere, eher administrative Atmosphäre aus als die Hafenmetropole Bujumbura. Ein architektonisches und kulturelles Highlight ist das Nationalmuseum von Gitega, das eine beeindruckende Sammlung königlicher Artefakte, historischer Fotografien und ritueller Trommeln beherbergt. Diese Trommeln, die 'Karyenda', sind ein nationales Symbol und spielen bei zeremoniellen Anlässen eine zentrale Rolle. Wirtschaftlich ist Gitega ein bedeutendes Zentrum für den Agrarhandel, insbesondere für den Kaffeemarkt, da die kühleren Temperaturen und die fruchtbaren Böden der Umgebung ideal für den Anbau hochwertiger Kaffeebohnen sind. In der Stadt befinden sich auch wichtige religiöse Institutionen, darunter die Erzdiözese Gitega, deren Kathedrale das Stadtbild prägt. Die Infrastrukturentwicklung hat in den letzten Jahren durch den Regierungsbeschluss massiv an Fahrt gewonnen; neue Ministerien, Behörden und Wohnkomplexe entstehen, um den Anforderungen einer modernen Hauptstadt gerecht zu werden. Bildungseinrichtungen wie die Polytechnische Universität Gitega tragen zur Ausbildung der lokalen Fachkräfte bei. Trotz der Modernisierung bewahrt Gitega seinen Charme als Stadt mit tiefen historischen Wurzeln, umgeben von grünen Hügeln und Tälern, die typisch für die zentralafrikanische Landschaft sind. Die Entwicklung Gitegas ist ein zentrales Projekt für die Dezentralisierung und die nationale Einheit Burundis.",
       hu: "Gitega Burundi politikai fővárosa és az ország második legnagyobb városa, amely a központi fennsíkon, körülbelül 1500 méteres tengerszint feletti magasságban helyezkedik el. A város 2019-ben kapta vissza fővárosi rangját, amelyet a gyarmati idők előtt is birtokolt, mint a Burundi Királyság spirituális és kulturális központja. Gitega fekvése szimbolikus jelentőséggel bír: az ország mértani középpontjában található, ami megkönnyíti az adminisztratív elérhetőséget minden tartományból. A város történelme szorosan összefonódik a burundi uralkodók, a mwamik emlékével; egykor itt őrizték a királyi hatalmat jelképező szent dobokat. Ma a Gitegai Nemzeti Múzeum az ország legfontosabb gyűjteményének ad otthont, bemutatva a térség gazdag néprajzi és történelmi örökségét. Gazdasági szempontból a város a mezőgazdasági kereskedelem csomópontja, különösen a kávé- és tőzegfeldolgozás terén emelkedik ki. A környező domvidék kiváló adottságokat biztosít az ültetvényes gazdálkodáshoz, a hűvösebb hegyi klíma pedig kellemesebb életkörülményeket nyújt, mint a tóparti síkságok. Az utóbbi években Gitega látványos fejlődésen ment keresztül: kormányzati épületek, új úthálózatok és modern lakóparkok épültek, hogy kiszolgálják a politikai vezetés igényeit. A város vallási központ is, több jelentős katolikus és protestáns misszió székhelye, monumentális templomai meghatározzák az utcaképet. Gitega oktatási szerepe is növekszik, több főiskola és szakmai képző központ működik itt. A város lakói büszkék hagyományaikra, a híres burundi dobosok produkciói Gitega mindennapjainak és ünnepeinek szerves részét képezik. A fővárosi státusz visszaállítása nemcsak adminisztratív döntés volt, hanem Burundi nemzeti identitásának megerősítését és a gazdasági súlypont áthelyezését is célozta a belső területek felé.",
@@ -213,7 +211,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Muyinga",
       ro: "Muyinga",
       en: "Muyinga"},
-    image: "/poi-images/muyinga-cities-v2.webp",
     descriptionAdvanced: {
       de: "Muyinga liegt im Nordosten Burundis und ist die Hauptstadt der gleichnamigen Provinz. Mit einer Höhenlage von etwa 1.750 Metern gehört sie zu den höchstgelegenen Städten des Landes, was zu einem angenehmen, kühlen Klima führt. Die Region um Muyinga ist geologisch bedeutend, da sie reich an Bodenschätzen wie Gold und Kassiterit (Zinnstein) ist, deren Abbau eine wichtige Säule der lokalen Wirtschaft bildet. Historisch war die Stadt ein Zentrum für die Verbreitung des Christentums im Nordosten, was sich in der Gründung der Diözese Muyinga im Jahr 1968 widerspiegelt. Die Umgebung ist von hügeligem Gelände geprägt, das intensiv für den Anbau von Bananen, Kaffee und Bohnen genutzt wird. In der Nähe fließt der Ruvubu-Fluss, der Teil des Nil-Einzugsgebiets ist und eine vielfältige Tierwelt beherbergt. Muyinga dient als wichtiger Knotenpunkt für den Handel mit dem benachbarten Tansania und Ruanda, was der Stadt eine multikulturelle Atmosphäre verleiht.",
       hu: "Muyinga Burundi északkeleti részén található, és az azonos nevű tartomány székhelye. Körülbelül 1750 méteres tengerszint feletti magasságával az ország egyik legmagasabban fekvő városa, ami kellemes, hűvös éghajlatot eredményez. A Muyinga körüli régió geológiailag jelentős, mivel gazdag olyan ásványkincsekben, mint az arany és a kassziterit (ónkő), amelyek bányászata a helyi gazdaság egyik fontos pillére. Történelmileg a város a kereszténység terjedésének központja volt az északkeleti régióban, amit a Muyingai Egyházmegye 1968-as alapítása is tükröz. A környéket dombos vidék jellemzi, amelyet intenzíven hasznosítanak banán-, kávé- és babtermesztésre. A közelben folyik a Ruvubu-folyó, amely a Nílus vízgyűjtő területéhez tartozik, és változatos vadvilágnak ad otthont. Muyinga fontos csomópont a szomszédos Tanzániával és Ruandával folytatott kereskedelemben, ami multikulturális légkört kölcsönöz a városnak.",
@@ -261,7 +258,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Ngozi",
       ro: "Ngozi",
       en: "Ngozi"},
-    image: "/poi-images/ngozi-cities-v2.webp",
     descriptionAdvanced: {
       de: "Ngozi, im Norden Burundis gelegen, ist ein wichtiges regionales Zentrum und die Hauptstadt der gleichnamigen Provinz. Auf einer Höhe von etwa 1.800 Metern gelegen, ist die Stadt das Herzland der burundischen Kaffeeproduktion, wobei die fruchtbaren vulkanischen Böden und die reichlichen Niederschläge ideale Bedingungen für den Anbau von Arabica-Kaffee bieten. Die Stadt wurde während der Kolonialzeit als administrativer Posten ausgebaut und hat sich seither zu einer der am dichtesten besiedelten Regionen des Landes entwickelt. Ngozi beherbergt die Universität von Ngozi, eine der bedeutendsten privaten Bildungseinrichtungen Burundis, die 1999 gegründet wurde. Die Diözese Ngozi, die bereits 1959 ins Leben gerufen wurde, zeugt von der langen religiösen Tradition der Stadt. Das Stadtbild ist geprägt von lebhaften Märkten und einer wachsenden Infrastruktur, die Ngozi zu einem bedeutenden Bildungs- und Handelsstandort macht. In der Umgebung finden sich zahlreiche Kaffeewaschanlagen, die eine zentrale Rolle in der Qualitätskontrolle der burundischen Exporte spielen.",
       hu: "Ngozi Burundi északi részén található, fontos regionális központ és az azonos nevű tartomány székhelye. A mintegy 1800 méteres magasságban fekvő város a burundi kávétermesztés központi területe; a termékeny vulkanikus talaj és a bőséges csapadék ideális feltételeket biztosít az arabica kávé termesztéséhez. A várost a gyarmati időszakban adminisztratív posztként építették ki, és azóta az ország egyik legsűrűbben lakott régiójává vált. Ngozi ad otthont a Ngozi Egyetemnek, amely Burundi egyik legjelentősebb magán oktatási intézménye, és 1999-ben alapították. Az 1959-ben létrehozott Ngozi Egyházmegye a város hosszú vallási hagyományairól tanúskodik. A városképet élénk piacok és fejlődő infrastruktúra jellemzi, amelyek Ngozit fontos oktatási és kereskedelmi központtá teszik. A környéken számos kávémosó állomás található, amelyek kulcsszerepet játszanak a burundi exporttermékek minőségellenőrzésében.",
@@ -309,7 +305,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Rumonge",
       ro: "Rumonge",
       en: "Rumonge"},
-    image: "/poi-images/rumonge-cities-v2.webp",
     descriptionAdvanced: {
       de: "Rumonge liegt im Südwesten Burundis am Ufer des Tanganjikasees und ist als 'Hauptstadt des Palmöls' bekannt. Die Stadt profitiert von ihrem tropischen Klima und der fruchtbaren Küstenebene, die den großflächigen Anbau von Ölpalmen ermöglicht. Rumonge ist die viertgrößte Stadt des Landes und ein bedeutender Wirtschaftsfaktor aufgrund seines geschäftigen Hafens und der blühenden Fischereiindustrie. Der Tanganjikasee bietet hier reiche Bestände an Ndagala (Süßwasserheringen), die im ganzen Land geschätzt werden. Historisch war Rumonge ein wichtiger Posten an den arabisch-swahilischen Handelsrouten, was bis heute die kulturelle und religiöse Vielfalt der Stadt beeinflusst. In der Nähe befindet sich das Kigwena-Waldreservat, ein seltener Tieflandregenwald, der für seine Primaten und Vögel bekannt ist. Die Stadt ist ein beliebter Erholungsort mit Stränden am See, die sowohl lokale Touristen als auch Besucher aus Bujumbura anziehen. Durch ihre Lage an der Fernstraße nach Tansania ist Rumonge zudem ein strategischer Handelsknotenpunkt im Süden Burundis.",
       hu: "Rumonge Burundi délnyugati részén, a Tanganyika-tó partján fekszik, és a 'pálmaolaj fővárosaként' ismert. A város profitál a trópusi éghajlatból és a termékeny part menti síkságból, amely lehetővé teszi az olajpálmák nagyüzemi termesztését. Rumonge az ország negyedik legnagyobb városa, gazdasági jelentőségét forgalmas kikötője és virágzó halászata adja. A Tanganyika-tó itt gazdag ndagala (édesvízi hering) állománnyal rendelkezik, amelyet országszerte nagyra értékelnek. Történelmileg Rumonge az arab-szuahéli kereskedelmi útvonalak fontos állomása volt, ami a mai napig befolyásolja a város kulturális és vallási sokszínűségét. A közelben található a Kigwena Erdőrezervátum, egy ritka alföldi esőerdő, amely főemlőseiről és madárvilágáról híres. A város népszerű üdülőhely tóparti strandjaival, amelyek mind a helyi turistákat, mind a Bujumburából érkező látogatókat vonzzák. A Tanzánia felé vezető főút menti fekvése révén Rumonge stratégiai kereskedelmi csomópont Burundi déli részén.",
@@ -357,7 +352,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Kayanza",
       ro: "Kayanza",
       en: "Kayanza"},
-    image: "/poi-images/kayanza-cities-v2.webp",
     descriptionAdvanced: {
       de: "Kayanza ist das Verwaltungszentrum der gleichnamigen Provinz im Norden von Burundi und liegt auf einer Höhe von etwa 1950 Metern über dem Meeresspiegel. Die Region ist landesweit bekannt für ihre fruchtbaren vulkanischen Böden, die ideale Bedingungen für den Anbau von hochwertigem Arabica-Kaffee bieten, der eines der wichtigsten Exportgüter des Landes darstellt. Historisch gesehen war die Gegend ein bedeutendes landwirtschaftliches Zentrum, das bereits während der deutschen und belgischen Kolonialzeit eine zentrale Rolle in der regionalen Versorgung spielte. Das Stadtbild ist geprägt von einer Mischung aus kolonialer Architektur und modernen Verwaltungsgebäuden, die die wachsende wirtschaftliche Bedeutung widerspiegeln. Neben Kaffee werden in der Umgebung auch Tee, Bananen und verschiedene Getreidesorten in großem Stil angebaut. Aufgrund seiner strategischen Lage an der Hauptstraße nach Ruanda fungiert Kayanza zudem als wichtiger Handelsknotenpunkt für den grenzüberschreitenden Warenverkehr.",
       hu: "Kayanza az azonos nevű tartomány székhelye Burundi északi részén, amely körülbelül 1950 méteres tengerszint feletti magasságban helyezkedik el. A régió országos szinten híres termékeny vulkáni talajáról, amely ideális feltételeket biztosít a kiváló minőségű arabica kávé termesztéséhez, ami az ország egyik legfontosabb exportterméke. Történelmileg a terület jelentős mezőgazdasági központ volt, amely már a német és belga gyarmati időkben is központi szerepet játszott a régió ellátásában. A városkép a gyarmati építészet és a modern közigazgatási épületek keverékéből áll, tükrözve a növekvő gazdasági jelentőséget. A kávé mellett a környéken teát, banánt és különböző gabonaféléket is termesztenek nagy mennyiségben. Stratégiai elhelyezkedése miatt, a Ruandába vezető főút mentén, Kayanza fontos kereskedelmi csomópontként is szolgál a határon átnyúló áruforgalom számára.",
@@ -402,7 +396,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Bururi",
       ro: "Bururi",
       en: "Bururi"},
-    image: "/poi-images/bururi-cities-v2.webp",
     descriptionAdvanced: {
       de: "Bururi ist die Hauptstadt der gleichnamigen Provinz im Südwesten von Burundi und liegt in einer bergigen Region auf etwa 1830 Metern Höhe. Die Stadt ist vor allem für das nahegelegene Bururi-Naturwaldreservat bekannt, das eines der letzten verbliebenen montanen Regenwaldgebiete des Landes darstellt und eine Heimat für seltene Schimpansen bietet. Historisch gesehen war Bururi ein bedeutendes Bildungszentrum, in dem viele führende Persönlichkeiten des unabhängigen Burundi ihre Ausbildung erhielten. Die Stadt dient als administratives und kommerzielles Zentrum für eine Region, die stark von der Landwirtschaft geprägt ist, insbesondere vom Anbau von Kaffee und Tee. Das Klima ist aufgrund der Höhenlage kühler und feuchter als in den tiefer gelegenen Regionen des Tanganjikasees. Bururi spielt zudem eine strategische Rolle in der regionalen Verwaltung und beherbergt mehrere staatliche Institutionen sowie religiöse Missionen, die seit dem frühen 20. Jahrhundert präsent sind.",
       hu: "Bururi az azonos nevű tartomány fővárosa Burundi délnyugati részén, egy hegyvidéki régióban, körülbelül 1830 méteres magasságban. A város leginkább a közeli Bururi Erdő Természetvédelmi Területről ismert, amely az ország egyik utolsó megmaradt hegyi esőerdője, és ritka csimpánzoknak ad otthont. Történelmileg Bururi jelentős oktatási központ volt, ahol a független Burundi számos vezető személyisége kapta képzését. A város közigazgatási és kereskedelmi központként szolgál egy olyan régióban, amelyet erősen meghatároz a mezőgazdaság, különösen a kávé- és teatermesztés. Az éghajlat a tengerszint feletti magasság miatt hűvösebb és csapadékosabb, mint a Tanganyika-tó alacsonyabban fekvő vidékein. Bururi stratégiai szerepet játszik a regionális igazgatásban, és számos állami intézménynek, valamint a 20. század eleje óta jelen lévő vallási misszióknak ad otthont.",
@@ -447,7 +440,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Rutana",
       ro: "Rutana",
       en: "Rutana"},
-    image: "/poi-images/rutana-cities-v2.webp",
     descriptionAdvanced: {
       de: "Rutana liegt im Südosten von Burundi und ist die administrative Hauptstadt der gleichnamigen Provinz. Die Stadt befindet sich am Fuße der Gebirgskette, die das zentrale Hochland vom tiefer gelegenen Kumoso-Becken trennt, und liegt auf einer Höhe von etwa 1700 Metern. Ein herausragendes geografisches Merkmal der Region sind die Karera-Wasserfälle, die aufgrund ihrer gestuften Kaskaden und der umliegenden dichten Vegetation ein bedeutendes Ziel für den lokalen Tourismus darstellen. Die Wirtschaft von Rutana ist eng mit der Landwirtschaft verknüpft, wobei der Anbau von Zuckerrohr durch die nahegelegene SOSUMO-Fabrik (Société Sucrière du Mosso) eine zentrale Rolle spielt. Neben Zucker werden in der fruchtbaren Umgebung auch Kaffee, Erdnüsse und Maniok produziert. Historisch gesehen diente Rutana als wichtiger Posten zur Überwachung der östlichen Grenzgebiete und hat sich seit der Unabhängigkeit zu einem wichtigen regionalen Handelszentrum entwickelt.",
       hu: "Rutana Burundi délkeleti részén fekszik, és az azonos nevű tartomány közigazgatási székhelye. A város a központi felföldet az alacsonyabban fekvő Kumoso-medencétől elválasztó hegylánc lábánál található, körülbelül 1700 méteres magasságban. A régió kiemelkedő földrajzi látványossága a Karera-vízesés, amely lépcsőzetes zúgóival és a környező sűrű növényzettel a helyi turizmus fontos célpontja. Rutana gazdasága szorosan kapcsolódik a mezőgazdasághoz, ahol a cukornádtermesztés a közeli SOSUMO (Société Sucrière du Mosso) gyár révén központi szerepet játszik. A cukor mellett a termékeny vidéken kávét, földimogyorót és maniókát is termelnek. Történelmileg Rutana fontos posztként szolgált a keleti határvidékek ellenőrzésére, a függetlenség óta pedig jelentős regionális kereskedelmi központtá fejlődött.",
@@ -492,7 +484,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Muramvya",
       ro: "Muramvya",
       en: "Muramvya"},
-    image: "/poi-images/muramvya-cities-v2.webp",
     descriptionAdvanced: {
       de: "Muramvya liegt im zentralen Hochland von Burundi und hat eine außergewöhnliche historische Bedeutung als ehemalige königliche Hauptstadt des Königreichs Burundi. Auf einer Höhe von etwa 1900 Metern gelegen, diente der Ort über Jahrhunderte als politisches und spirituelles Zentrum, in dem die Monarchen (Mwami) residierten und wichtige traditionelle Zeremonien wie das Umuganuro-Fest stattfanden. Die Umgebung ist geprägt von sanften Hügeln und einer intensiven landwirtschaftlichen Nutzung, wobei Tee und Kaffee die wichtigsten Cash-Crops darstellen. Aufgrund seiner Höhenlage genießt Muramvya ein gemäßigtes Klima, das für den Anbau von Getreide und Hülsenfrüchten ideal ist. Die Stadt beherbergt noch heute Überreste der königlichen Kulturlandschaft, die von der UNESCO als potenzielles Welterbe anerkannt wurden. Heute fungiert Muramvya als Verwaltungszentrum der gleichnamigen Provinz und bleibt ein Symbol für die kulturelle Identität und die vorkoloniale Geschichte des Landes.",
       hu: "Muramvya Burundi központi felföldjén fekszik, és rendkívüli történelmi jelentőséggel bír, mint a Burundi Királyság egykori királyi fővárosa. A körülbelül 1900 méteres magasságban elhelyezkedő település évszázadokon át szolgált politikai és spirituális központként, ahol az uralkodók (Mwami) székeltek, és olyan fontos hagyományos ünnepségeket tartottak, mint az Umuganuro fesztivál. A környéket szelíd dombok és intenzív mezőgazdasági művelés jellemzi, ahol a tea és a kávé a legfontosabb piaci termények. Magassági fekvése miatt Muramvya mérsékelt éghajlatot élvez, amely ideális a gabonafélék és hüvelyesek termesztéséhez. A város ma is őrzi a királyi kultúrtáj maradványait, amelyeket az UNESCO potenciális világörökségi helyszínként ismert el. Ma Muramvya az azonos nevű tartomány közigazgatási központja, és továbbra is az ország kulturális identitásának és gyarmatosítás előtti történelmének szimbóluma.",
@@ -537,7 +528,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Makamba",
       ro: "Makamba",
       en: "Makamba"},
-    image: "/poi-images/makamba-cities-v2.webp",
     descriptionAdvanced: {
       de: "Makamba ist die südlichste Provinzhauptstadt Burundis und liegt in einer strategisch wichtigen Region nahe der Grenze zu Tansania. Die Stadt befindet sich auf einer Höhe von etwa 1450 Metern und dient als bedeutender Handels- und Verkehrsknotenpunkt für Waren, die zwischen dem Hafen von Dar es Salaam und dem Landesinneren von Burundi transportiert werden. Die Umgebung von Makamba ist durch fruchtbares Hügelland geprägt, in dem hauptsächlich Palmöl, Kaffee und Tabak angebaut werden. Aufgrund der Nähe zum Tanganjikasee spielt auch der Fischhandel eine Rolle in der lokalen Wirtschaft. Historisch gesehen war die Region oft ein Zufluchtsort für Rückkehrer, was zu einer dynamischen und vielfältigen Bevölkerungsstruktur geführt hat. Makamba hat sich in den letzten Jahrzehnten zu einem modernen Verwaltungszentrum entwickelt, das über eine wachsende Infrastruktur mit Schulen, Krankenhäusern und Märkten verfügt, die die gesamte Südregion versorgen.",
       hu: "Makamba Burundi legdélebbi tartományi fővárosa, amely stratégiailag fontos régióban, a tanzániai határ közelében fekszik. A város körülbelül 1450 méteres magasságban található, és jelentős kereskedelmi és közlekedési csomópontként szolgál a Dar es Salaam kikötője és Burundi belseje között szállított áruk számára. Makamba környékét termékeny dombvidék jellemzi, ahol főként pálmaolajat, kávét és dohányt termesztenek. A Tanganyika-tó közelsége miatt a halkereskedelem is szerepet játszik a helyi gazdaságban. Történelmileg a régió gyakran szolgált menedékül a hazatérők számára, ami dinamikus és sokszínű népességszerkezetet eredményezett. Makamba az elmúlt évtizedekben modern közigazgatási központtá fejlődött, növekvő infrastruktúrával, iskolákkal, kórházakkal és piacokkal, amelyek az egész déli régiót kiszolgálják.",
@@ -627,7 +617,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Kirundo",
       ro: "Kirundo",
       en: "Kirundo"},
-    image: "/poi-images/kirundo-cities-v2.webp",
     descriptionAdvanced: {
       de: "Kirundo liegt im äußersten Norden von Burundi und ist bekannt für seine einzigartige Seenlandschaft, zu der der Cohoha-See und der Rweru-See gehören. Die Stadt liegt auf einer Höhe von etwa 1350 Metern und ist das administrative Zentrum einer Region, die aufgrund ihrer Fischereiressourcen und fruchtbaren Ebenen von großer wirtschaftlicher Bedeutung ist. Das Klima ist hier etwas trockener als im zentralen Hochland, was den großflächigen Anbau von Sorghum, Bohnen und Mais ermöglicht. Historisch gesehen war Kirundo ein wichtiger Austauschort zwischen Burundi und Ruanda, was sich in der kulturellen Vielfalt und den Handelsbeziehungen widerspiegelt. Die Seen der Region sind nicht nur für die Fischerei wichtig, sondern beherbergen auch eine reiche Vogelwelt, was Kirundo zu einem bedeutenden Ort für den Naturschutz macht. Trotz der Herausforderungen durch periodische Trockenperioden bleibt Kirundo ein lebenswichtiges landwirtschaftliches Versorgungszentrum für den Norden des Landes.",
       hu: "Kirundo Burundi legészakibb részén fekszik, és egyedülálló tóvidékéről ismert, amelyhez a Cohoha-tó és a Rweru-tó is tartozik. A város körülbelül 1350 méteres magasságban található, és egy olyan régió közigazgatási központja, amely halászati erőforrásai és termékeny síkságai miatt nagy gazdasági jelentőséggel bír. Az éghajlat itt valamivel szárazabb, mint a központi felföldön, ami lehetővé teszi a cirok, a bab és a kukorica nagyüzemi termesztését. Történelmileg Kirundo fontos cserehely volt Burundi és Ruanda között, ami tükröződik a kulturális sokszínűségben és a kereskedelmi kapcsolatokban. A régió tavai nemcsak a halászat szempontjából fontosak, hanem gazdag madárvilágnak is otthont adnak, ami Kirundót a természetvédelem jelentős helyszínévé teszi. Az időszakos aszályok okozta kihívások ellenére Kirundo az ország északi részének létfontosságú mezőgazdasági ellátó központja marad.",
@@ -672,7 +661,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Bubanza",
       ro: "Bubanza",
       en: "Bubanza"},
-    image: "/poi-images/bubanza-cities-v2.webp",
     descriptionAdvanced: {
       de: "Bubanza liegt im Nordwesten von Burundi und ist die Hauptstadt der gleichnamigen Provinz. Die Stadt befindet sich am Rande der fruchtbaren Imbo-Ebene auf einer Höhe von etwa 1200 Metern und profitiert von der Nähe zum Rusizi-Nationalpark und dem Fluss Rusizi. Bubanza ist ein bedeutendes landwirtschaftliches Zentrum, in dem vor allem Baumwolle, Reis und Erdnüsse angebaut werden. Die Region spielt eine Schlüsselrolle in der nationalen Textilproduktion und der Versorgung mit Grundnahrungsmitteln. Historisch gesehen war Bubanza ein Gebiet intensiver landwirtschaftlicher Entwicklungsprogramme während der Kolonialzeit und nach der Unabhängigkeit. Die Stadt verfügt über ein gut ausgebautes Straßennetz, das sie mit der wirtschaftlichen Metropole Bujumbura verbindet. In den letzten Jahren hat Bubanza durch Investitionen in die Bildung und die lokale Verwaltung an Bedeutung gewonnen, während die umliegenden Feuchtgebiete weiterhin eine wichtige Rolle für die ökologische Stabilität des Westens spielen.",
       hu: "Bubanza Burundi északnyugati részén fekszik, és az azonos nevű tartomány fővárosa. A város a termékeny Imbo-síkság szélén található, körülbelül 1200 méteres magasságban, és profitál a Rusizi Nemzeti Park és a Rusizi-folyó közelségéből. Bubanza jelentős mezőgazdasági központ, ahol elsősorban gyapotot, rizst és földimogyorót termesztenek. A régió kulcsszerepet játszik az országos textilgyártásban és az alapvető élelmiszerellátásban. Történelmileg Bubanza az intenzív mezőgazdasági fejlesztési programok területe volt a gyarmati időkben és a függetlenség elnyerése után. A város jól kiépített úthálózattal rendelkezik, amely összeköti a gazdasági metropoliszal, Bujumburával. Az elmúlt években Bubanza az oktatási és helyi közigazgatási beruházások révén növelte jelentőségét, miközben a környező vizes élőhelyek továbbra is fontos szerepet játszanak a nyugati országrész ökológiai stabilitásában.",
@@ -717,7 +705,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Karuzi",
       ro: "Karuzi",
       en: "Karuzi"},
-    image: "/poi-images/karuzi-cities-v2.webp",
     descriptionAdvanced: {
       de: "Karuzi liegt im Herzen von Burundi und dient als administratives Zentrum der Provinz Karuzi. Die Stadt befindet sich in einer hügeligen Hochlandregion auf etwa 1600 Metern Höhe und ist zentraler Bestandteil des burundischen Hochlands. Karuzi ist primär landwirtschaftlich geprägt, wobei der Anbau von Kaffee, Bananen und verschiedenen Hülsenfrüchten die Grundlage der lokalen Existenz bildet. Die Region ist bekannt für ihre dichte Besiedlung und die kleinteilige Terrassenlandwirtschaft, die die Hänge der umliegenden Hügel prägt. Historisch gesehen war Karuzi ein wichtiger Standort für soziale Entwicklungsprojekte und Gesundheitsinitiativen, die darauf abzielen, die ländliche Infrastruktur im Zentrum des Landes zu stärken. Die Stadt fungiert als bedeutender Marktort, an dem Erzeugnisse aus dem Umland gehandelt werden. Karuzi profitiert zudem von seiner Lage an den Verbindungsstraßen zwischen den Städten Gitega und Muyinga, was den regionalen Warenaustausch fördert.",
       hu: "Karuzi Burundi szívében fekszik, és Karuzi tartomány közigazgatási központjaként szolgál. A város egy dombos felföldi régióban található, körülbelül 1600 méteres magasságban, és a burundi felföld központi részét képezi. Karuzi elsősorban mezőgazdasági jellegű, ahol a kávé, a banán és a különböző hüvelyesek termesztése képezi a helyi megélhetés alapját. A régió ismert sűrű népességéről és a kisparcellás teraszos művelésről, amely a környező dombok lejtőit jellemzi. Történelmileg Karuzi fontos helyszíne volt a társadalmi fejlesztési projekteknek és egészségügyi kezdeményezéseknek, amelyek célja a vidéki infrastruktúra megerősítése az ország központjában. A város jelentős piaci helyszínként működik, ahol a környék termékeivel kereskednek. Karuzi továbbá profitál a Gitega és Muyinga városokat összekötő utak menti elhelyezkedéséből, ami elősegíti a regionális árucserét.",
@@ -762,7 +749,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Cankuzo",
       ro: "Cankuzo",
       en: "Cankuzo"},
-    image: "/poi-images/cankuzo-cities-v2.webp",
     descriptionAdvanced: {
       de: "Cankuzo liegt im Osten von Burundi und ist die Hauptstadt der gleichnamigen Provinz, nahe der Grenze zu Tansania. Die Stadt befindet sich auf einer Höhe von etwa 1600 Metern und ist das Tor zum Ruvubu-Nationalpark, dem größten Nationalpark des Landes, der eine bedeutende Population an Nilpferden, Krokodilen und Wasservögeln beherbergt. Die Wirtschaft von Cankuzo ist stark von der Subsistenzlandwirtschaft und der Viehzucht geprägt, wobei Rinder in der lokalen Kultur eine hohe soziale Bedeutung haben. Aufgrund der abgelegenen Lage im Osten hat sich Cankuzo einen sehr traditionellen Charakter bewahrt, entwickelt sich jedoch zunehmend zu einem administrativen Stützpunkt für die Grenzüberschreitung und den Schutz der Biodiversität. Historisch war die Region ein Durchzugsgebiet für Karawanen und später ein wichtiger Verwaltungsposten für die Überwachung der östlichen Distrikte. Das Klima ist hier etwas trockener als im Westen, was die Landschaft zu einer Mischung aus bewaldeter Savanne und landwirtschaftlich genutzten Flächen macht.",
       hu: "Cankuzo Burundi keleti részén fekszik, és az azonos nevű tartomány fővárosa, a tanzániai határ közelében. A város körülbelül 1600 méteres magasságban található, és a Ruvubu Nemzeti Park kapuja, amely az ország legnagyobb nemzeti parkja, jelentős víziló-, krokodil- és vízimadár-populációval. Cankuzo gazdaságát erősen meghatározza az önellátó gazdálkodás és az állattenyésztés, ahol a szarvasmarháknak nagy társadalmi jelentősége van a helyi kultúrában. Távoli keleti elhelyezkedése miatt Cankuzo megőrizte hagyományos jellegét, de egyre inkább a határátkelés és a biodiverzitás védelmének adminisztratív bázisává válik. Történelmileg a régió karavánok átvonulási területe volt, később pedig fontos közigazgatási poszt a keleti körzetek ellenőrzésére. Az éghajlat itt valamivel szárazabb, mint nyugaton, így a táj erdős szavanna és mezőgazdasági területek keveréke.",
@@ -807,7 +793,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Ruyigi",
       ro: "Ruyigi",
       en: "Ruyigi"},
-    image: "/poi-images/ruyigi-cities-v2.webp",
     descriptionAdvanced: {
       de: "Ruyigi liegt im Osten von Burundi und ist die Hauptstadt der flächenmäßig bedeutenden gleichnamigen Provinz. Die Stadt befindet sich auf einer Höhe von etwa 1750 Metern und ist ein wichtiges regionales Zentrum, das das zentrale Hochland mit den trockeneren Ebenen des Ostens verbindet. Die Wirtschaft von Ruyigi basiert weitgehend auf der Landwirtschaft, wobei Kaffee, Bohnen und Mais die wichtigsten Erzeugnisse sind. Ein bedeutendes Merkmal der Stadt ist die Präsenz humanitärer Organisationen und sozialer Einrichtungen, wie die von Maison Shalom, die nach dem Bürgerkrieg eine wichtige Rolle beim Wiederaufbau und der Waisenfürsorge spielten. Historisch gesehen war Ruyigi ein strategischer Punkt für die Verwaltung der östlichen Provinzen während der Mandatszeit. Die Architektur der Stadt spiegelt diese administrative Bedeutung wider, mit mehreren Regierungsgebäuden und Schulen, die das Stadtbild prägen. Ruyigi dient zudem als Handelsplatz für landwirtschaftliche Produkte, die in Richtung der tansanischen Grenze transportiert werden.",
       hu: "Ruyigi Burundi keleti részén fekszik, és az azonos nevű, területileg jelentős tartomány fővárosa. A város körülbelül 1750 méteres magasságban található, és fontos regionális központ, amely összeköti a központi felföldet a keleti szárazabb síkságokkal. Ruyigi gazdasága nagyrészt a mezőgazdaságon alapul, ahol a kávé, a bab és a kukorica a legfontosabb termények. A város egyik meghatározó jellemzője a humanitárius szervezetek és szociális intézmények jelenléte, mint például a Maison Shalom, amely a polgárháború után fontos szerepet játszott az újjáépítésben és az árvák gondozásában. Történelmileg Ruyigi stratégiai pont volt a keleti tartományok igazgatásában a mandátum ideje alatt. A város építészete tükrözi ezt az adminisztratív jelentőséget, számos kormányzati épülettel és iskolával, amelyek meghatározzák a városképet. Ruyigi ezenkívül a tanzániai határ felé szállított mezőgazdasági termékek kereskedelmi helyszíneként is szolgál.",
@@ -852,7 +837,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Cibitoke",
       ro: "Cibitoke",
       en: "Cibitoke"},
-    image: "/poi-images/cibitoke-cities-v2.webp",
     descriptionAdvanced: {
       de: "Cibitoke ist die Hauptstadt der gleichnamigen Provinz im Nordwesten Burundis und liegt strategisch günstig nahe der Grenzen zu Ruanda und der Demokratischen Republik Kongo. Die Stadt liegt in einer fruchtbaren Ebene, die durch den Fluss Rusizi bewässert wird, was sie zu einem bedeutenden landwirtschaftlichen Zentrum des Landes macht. Hier werden vor allem Baumwolle, Tabak und verschiedene Getreidesorten für den nationalen Markt und den Export angebaut. Neben der Landwirtschaft spielt der Bergbau eine wachsende Rolle, da in der Umgebung Goldvorkommen entdeckt wurden, die handwerklich abgebaut werden. Das Klima ist tropisch-heiß, was typisch für die tiefer gelegenen Regionen des afrikanischen Grabenbruchs ist. Als administratives Zentrum beherbergt die Stadt wichtige Regierungsgebäude, Schulen und Gesundheitseinrichtungen, die die Versorgung der ländlichen Bevölkerung sicherstellen. Die Verkehrsanbindung über die Nationalstraße RN5 ist entscheidend für den grenzüberschreitenden Handel in der Region.",
       hu: "Cibitoke Burundi azonos nevű tartományának székhelye, amely az ország északnyugati részén, a Ruandával és a Kongói Demokratikus Köztársasággal közös határ közelében fekszik. A város a Rusizi-folyó völgyének termékeny síkságán terül el, ami meghatározza mezőgazdasági jelentőségét és gazdasági szerkezetét. A térségben intenzív gyapot- és dohánytermelés folyik, emellett a rizstermesztés is számottevő az öntözött területeken. A település fontos kereskedelmi csomópont, mivel az RN5-ös főút mentén helyezkedik el, amely összeköti Bujumburát az északi határvidékekkel. Az utóbbi években a környéken található aranylelőhelyek kiaknázása is fokozódott, ami új gazdasági lehetőségeket nyitott meg a helyi lakosság számára. Cibitoke adminisztratív központként számos oktatási és egészségügyi intézménynek ad otthont, amelyek a tartomány távolabbi területeit is kiszolgálják. A város éghajlata trópusi, a tengerszint feletti magassága pedig alacsonyabb Burundi legtöbb felföldi településénél.",
@@ -942,7 +926,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Mabanda",
       ro: "Mabanda",
       en: "Mabanda"},
-    image: "/poi-images/mabanda-cities-v2.webp",
     descriptionAdvanced: {
       de: "Mabanda ist eine strategische Grenzstadt im Süden Gabuns, gelegen in der Provinz Nyanga nahe der Grenze zur Republik Kongo. Die Stadt liegt an der Nationalstraße N6, die eine der wichtigsten Landverbindungen für den grenzüberschreitenden Handel in dieser Region darstellt. Aufgrund ihrer Lage fungiert Mabanda als bedeutender Transitknotenpunkt für Waren und Reisende zwischen den beiden Ländern. Geographisch ist der Ort in eine malerische Hügellandschaft eingebettet, die durch ein Mosaik aus dichten Waldstücken und offenen Savannen geprägt ist. Die lokale Wirtschaft profitiert erheblich von den Grenzaktivitäten, dem Handel und der Landwirtschaft, wobei besonders Nahrungsmittel für den lokalen Markt produziert werden. Mabanda hat in den letzten Jahren an Bedeutung gewonnen, da die Verbesserung der Straßeninfrastruktur den regionalen Austausch erleichtert hat. Die Bevölkerung ist bekannt für ihre Gastfreundschaft und ihre enge Verbundenheit mit den Traditionen des Südens. Neben dem Handel spielt die traditionelle Handwerkskunst eine Rolle im täglichen Leben der Bewohner. Die Stadt dient zudem als administratives Zentrum für den umliegenden Distrikt und bemüht sich um den Ausbau sozialer Einrichtungen, um mit dem Bevölkerungswachstum Schritt zu halten. Die natürliche Umgebung bietet Potenzial für naturnahen Tourismus, der jedoch noch in den Anfängen steckt.",
       hu: "Mabanda egy stratégiai határváros Gabon déli részén, a Nyanga tartományban, a Kongói Köztársaság határa közelében. A város az N6-os nemzeti út mentén fekszik, amely az egyik legfontosabb szárazföldi összeköttetés a határon átnyúló kereskedelem számára ebben a régióban. Elhelyezkedése miatt Mabanda jelentős tranzitcsomópontként szolgál az áruk és az utazók számára a két ország között. Földrajzilag a település festői dombos tájba ágyazódik, amelyet sűrű erdőfoltok és nyitott szavannák mozaikja jellemez. A helyi gazdaság jelentősen profitál a határmenti tevékenységekből, a kereskedelemből és a mezőgazdaságból, különösen a helyi piacra szánt élelmiszerek termeléséből. Mabanda jelentősége az elmúlt években nőtt, mivel az úthálózat fejlesztése megkönnyítette a regionális cserét. A lakosság vendégszeretetéről és a déli hagyományokhoz való erős kötődéséről ismert. A kereskedelem mellett a hagyományos kézművesség is szerepet játszik a lakók mindennapi életében. A város a környező körzet adminisztratív központjaként is szolgál, és törekszik a szociális létesítmények bővítésére, hogy lépést tartson a népességnövekedéssel. A természeti környezet lehetőséget kínál a természetközeli turizmus számára, bár ez még gyerekcipőben jár.",
@@ -990,7 +973,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Nyanza-Lac",
       ro: "Nyanza-Lac",
       en: "Nyanza-Lac"},
-    image: "/poi-images/nyanza-lac-cities-v2.webp",
     descriptionAdvanced: {
       de: "Nyanza-Lac ist eine bedeutende Hafenstadt im äußersten Süden Burundis, malerisch am Ufer des Tanganjikasees in der Provinz Makamba gelegen. Aufgrund ihrer Lage ist die Stadt ein entscheidendes wirtschaftliches Zentrum für die Fischereiindustrie und den Seehandel mit den Nachbarländern Tansania, Sambia und der Demokratischen Republik Kongo. Der Hafen von Nyanza-Lac ermöglicht den Umschlag von Waren wie Ölpalmenprodukten, Fisch und landwirtschaftlichen Erzeugnissen aus dem fruchtbaren Hinterland. Historisch gesehen war die Region ein wichtiger Punkt für die arabischen und swahili-sprechenden Händler im 19. Jahrhundert. Das Klima ist tropisch-feucht mit ganzjährig warmen Temperaturen, was den Anbau von Ölpalmen begünstigt, die die Landschaft rund um die Stadt prägen. In den letzten Jahren hat sich Nyanza-Lac auch zu einem Anziehungspunkt für lokalen Tourismus entwickelt, dank seiner Sandstrände und der Nähe zu Naturschutzgebieten. Die Stadt ist über die RN3 mit Bujumbura verbunden und dient als südlichster Endpunkt dieser wichtigen Verkehrsachse.",
       hu: "Nyanza-Lac Burundi legdélebbi részén, a Tanganyika-tó partján fekvő jelentős kikötőváros, amely Makamba tartományhoz tartozik. Földrajzi elhelyezkedése miatt a település kulcsfontosságú gazdasági központ, különösen a halászat és a tavi kereskedelem terén, amely Tansániával, Zambiával és a Kongói Demokratikus Köztársasággal köti össze az országot. A kikötőben jelentős az áruforgalom, főként pálmaolajat, halat és a termékeny hátországból származó mezőgazdasági cikkeket szállítanak. Történelmi szempontból a régió a 19. században az arab és szuahéli kereskedők egyik fontos állomása volt a belső afrikai útvonalakon. A trópusi nedves éghajlat kedvez az olajpálma-ültetvényeknek, amelyek meghatározzák a várost övező tájképet. Az utóbbi években Nyanza-Lac a belföldi turizmus egyik célpontjává is vált homokos strandjai és a közeli természeti szépségek miatt. A város az RN3-as főútvonal déli végpontja, amely közvetlen összeköttetést biztosít a korábbi fővárossal, Bujumburával.",
@@ -1125,7 +1107,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Gatumba",
       ro: "Gatumba",
       en: "Gatumba"},
-    image: "/poi-images/gatumba-cities-v2.webp",
     description: {
       de: "Gatumba liegt direkt nördlich von Bujumbura in einer flachen, feuchten Niederung. Der Ort ist eng mit dem Rusizi-Gebiet und den Uferlandschaften verbunden.",
       hu: "Bujumbura közvetlen közelében fekvő település, amely a Kongói Demokratikus Köztársaság felé vezető út mentén található.",
@@ -1173,7 +1154,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Kobero",
       ro: "Kobero",
       en: "Kobero"},
-    image: "/poi-images/kobero-cities-v2.webp",
     description: {
       de: "Kobero ist ein Grenzort im Nordosten Burundis. Die Lage macht den Ort zu einem wichtigen Punkt für Transit und kleinen Grenzhandel.",
       hu: "Fontos határmenti település Burundi északkeleti részén, a Tanzániába vezető főúton.",
@@ -1269,7 +1249,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Busoni",
       ro: "Busoni",
       en: "Busoni"},
-    image: "/poi-images/busoni-cities-v2.webp",
     description: {
       de: "Eine Stadt im Norden der Provinz Kirundo, in einer seenreichen und fruchtbaren Landschaft.",
       hu: "Város Kirundo tartomány északi részén, tavakban gazdag és termékeny vidéken.",
@@ -1413,7 +1392,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Matana",
       ro: "Matana",
       en: "Matana"},
-    image: "/poi-images/matana-cities-v2.webp",
     description: {
       de: "Matana liegt im Süden Burundis in einer kühleren Höhenlage. Der Ort ist von Landwirtschaft und kleinen Siedlungen in den Hügeln geprägt.",
       hu: "Város Bururi tartományban, az oktatás és a vallási élet jelentős központja.",
@@ -1461,7 +1439,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Minago",
       ro: "Minago",
       en: "Minago"},
-    image: "/poi-images/minago-cities-v2.webp",
     description: {
       de: "Minago liegt im Süden Burundis und ist ein ländlich geprägter Ort mit engem Bezug zu Landwirtschaft und regionalem Handel.",
       hu: "A Tanganyika-tó partja mentén elterülő település, amely pálmaültetvényeiről és halászatáról nevezetes.",
@@ -1509,7 +1486,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Isale",
       ro: "Isale",
       en: "Isale"},
-    image: "/poi-images/isale-cities-v2.webp",
     description: {
       de: "Isale liegt westlich von Bujumbura in den Hügeln über der Hauptstadt. Der Ort ist vor allem für Gemüseanbau und kleine Siedlungen bekannt.",
       hu: "Bujumbura tartományban fekvő dombvidéki település, amely az ország egykori fővárosának közelében található.",
@@ -1794,7 +1770,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Itaba",
       ro: "Itaba",
       en: "Itaba"},
-    image: "/poi-images/itaba-cities-v2.webp",
     description: {
       de: "Eine Stadt im Südosten der Provinz Gitega, im Herzen der zentralen Region.",
       hu: "Város Gitega tartomány délkeleti részén, a központi régió szívében.",
@@ -1842,7 +1817,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Giheta",
       ro: "Giheta",
       en: "Giheta"},
-    image: "/poi-images/giheta-cities-v2.webp",
     description: {
       de: "Giheta liegt westlich von Gitega und ist für Handwerk und kulturelle Orte bekannt. Der Ort verbindet ländliches Leben mit regionaler Kultur.",
       hu: "Gitega közelében fekvő település, amely különösen híres kézműves hagyományairól és művészeti iskolájáról.",
@@ -1890,7 +1864,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Songa",
       ro: "Songa",
       en: "Songa"},
-    image: "/poi-images/songa-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Provinz Bururi, gelegen in einer landschaftlich reizvollen Hügelregion.",
       hu: "Város Bururi tartományban, festői dombos vidéken.",
@@ -1938,7 +1911,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Vyanda",
       ro: "Vyanda",
       en: "Vyanda"},
-    image: "/poi-images/vyanda-cities-v2.webp",
     description: {
       de: "Vyanda liegt im Süden Burundis nahe dem gleichnamigen Waldreservat. Die Gegend ist von Wald, Landwirtschaft und Biodiversität geprägt.",
       hu: "Város Bururi tartomány déli részén, a Vyanda Erdőrezervátum közelében.",
@@ -2034,7 +2006,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Mugamba",
       ro: "Mugamba",
       en: "Mugamba"},
-    image: "/poi-images/mugamba-cities-v2.webp",
     description: {
       de: "Mugamba liegt im kühlen Hochland der Provinz Bururi. Der Ort ist von Teegebieten und bergiger Landwirtschaft umgeben.",
       hu: "Város Bururi tartomány északi részén, hűvös hegyvidéki régióban.",
@@ -2082,7 +2053,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Bisoro",
       ro: "Bisoro",
       en: "Bisoro"},
-    image: "/poi-images/bisoro-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Provinz Mwaro, bekannt für ihren ländlichen Handel und ihre Märkte.",
       hu: "Mwaro tartomány egyik települése, amely a hegyvidéki tájak és a hagyományos mezőgazdaság ötvözete.",
@@ -2226,7 +2196,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Gisozi",
       ro: "Gisozi",
       en: "Gisozi"},
-    image: "/poi-images/gisozi-cities-v2.webp",
     description: {
       de: "Gisozi liegt in der Provinz Mwaro und ist von Hügelland geprägt. Der Ort bietet weite Ausblicke über das zentrale Hochland.",
       hu: "Város Mwaro tartományban, felföldi táji szépségéről ismert.",
@@ -2322,7 +2291,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Muhanga",
       ro: "Muhanga",
       en: "Muhanga"},
-    image: "/poi-images/muhanga-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Provinz Kayanza, bekannt für ihre dichte Bevölkerung und intensiven Feldbau.",
       hu: "Város Kayanza tartományban, sűrű lakosságáról és intenzív szántóföldi műveléséről ismert.",
@@ -2370,7 +2338,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Rango",
       ro: "Rango",
       en: "Rango"},
-    image: "/poi-images/rango-cities-v2.webp",
     description: {
       de: "Rango liegt im hügeligen Norden Burundis und ist ein ruhiger ländlicher Ort. Die Umgebung wird vor allem von Ackerflächen genutzt.",
       hu: "Kayanza tartomány egyik települése, amely az ország északi részének sűrűn lakott és termékeny vidékén fekszik.",
@@ -2511,7 +2478,6 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: "Gatara",
       ro: "Gatara",
       en: "Gatara"},
-    image: "/poi-images/gatara-cities-v2.webp",
     description: {
       de: "Gatara liegt im westlichen Teil der Provinz Kayanza. Die Gegend ist bergig und eng mit Landwirtschaft verbunden.",
       hu: "Kayanza tartomány egyik hegyvidéki települése, amely az ország egyik legfontosabb kávétermelő vidékén található.",

@@ -341,7 +341,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     parent: "AZ-BA",
     coords: [49.4678, 40.1742],
     name: { de: "Sangatschal-Terminal", hu: "Səngəçal Terminál", ro: "Terminalul Sangachal", en: "Sangachal Terminal"},
-    image: "/poi-images/sangachal-terminal-economic-v2.webp",
     description: { de: "Das Sangatschal-Terminal ist einer der weltweit größten integrierten Öl- und Gasverarbeitungskomplexe an der Küste des Kaspischen Meeres.", hu: "A Səngəçal terminál a világ egyik legnagyobb integrált olaj- és gázfeldolgozó komplexuma a Kaszpi-tenger partján.", ro: "Terminalul Sangachal este unul dintre cele mai mari complexe integrate de procesare a petrolului și gazelor din lume, pe coasta Mării Caspice.", en: "The Sangachal Terminal is one of the world's largest integrated oil and gas processing complexes on the coast of the Caspian Sea." , es: "La Terminal de Sangachal es uno de los complejos integrados de procesamiento de petróleo y gas más grandes del mundo, ubicado en la costa del mar Caspio.", pt: "O Terminal de Sangachal é um dos maiores complexos integrados de processamento de petróleo e gás do mundo, situado na costa do Mar Cáspio.", fr: "Le terminal de Sangachal est l'un des plus grands complexes intégrés de traitement du pétrole et du gaz au monde, situé sur la côte de la mer Caspienne."},
     facts: {
       de: ["Verarbeitet Öl aus dem Azeri-Chirag-Gunashli-Feld.", "Bedeckt eine Fläche von über 550 Hektar."],
@@ -376,7 +375,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     parent: "AZ-BA",
     coords: [50.8167, 40.2333],
     name: { de: "Neft Daşları (Ölsteine)", hu: "Neft Daşları (Olajkövek)", ro: "Neft Dașlarî (Pietrele de Petrol)", en: "Neft Daşları (Oil Rocks)"},
-    image: "/poi-images/neft-daslari-economic-v2.webp",
     description: { de: "Neft Daşları ist eine Offshore-Siedlung und Industrieanlage im Kaspischen Meer, die als erste Offshore-Ölplattform der Welt gilt.", hu: "A Neft Daşları egy tengeri település és ipari létesítmény a Kaszpi-tengeren, amelyet a világ első tengeri olajfúró tornyának tartanak.", ro: "Neft Dașlarî este o așezare offshore și o instalație industrială în Marea Caspică, considerată prima platformă petrolieră offshore din lume.", en: "Neft Daşları is an offshore settlement and industrial facility in the Caspian Sea, considered the world's first offshore oil platform." , es: "Neft Daşları es un asentamiento marino e instalación industrial en el Mar Caspio, considerada la primera plataforma petrolífera offshore del mundo.", pt: "Neft Daşları é um assentamento offshore e instalação industrial no Mar Cáspio, considerada a primeira plataforma de petróleo offshore do mundo.", fr: "Neft Daşları est une cité offshore et un complexe industriel en mer Caspienne, considérée comme la première plateforme pétrolière offshore au monde."},
     facts: {
       de: ["Gegründet im Jahr 1949.", "Besteht aus einem Netzwerk von künstlichen Inseln und Brücken."],
@@ -1104,7 +1102,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     parent: "AZ-SM",
     coords: [49.6586, 40.6053],
     name: { de: "Chemie-Industriepark Sumqayıt", hu: "Sumqayıt Kémiai Ipari Park", ro: "Parcul Industrial Chimic Sumgait", en: "Sumgait Chemical Industrial Park"},
-    image: "/poi-images/sumgait-chemical-park-economic-v2.webp",
     description: { de: "Der Chemie-Industriepark Sumqayıt wurde gegründet, um die petrochemische Industrie Aserbaidschans zu entwickeln und Investitionen anzuziehen.", hu: "A Sumqayıt Kémiai Ipari Parkot Azerbajdzsán petrolkémiai iparának fejlesztése és befektetések vonzása céljából hozták létre.", ro: "Parcul Industrial Chimic Sumgait a fost înființat pentru a dezvolta industria petrochimică din Azerbaidjan și a atrage investiții.", en: "The Sumgait Chemical Industrial Park was established to develop Azerbaijan's petrochemical industry and attract investments." , es: "El Parque Industrial Químico de Sumqayıt fue fundado para desarrollar la industria petroquímica de Azerbaiyán y atraer inversiones.", pt: "O Parque Industrial Químico de Sumqayıt foi fundado para desenvolver a indústria petroquímica do Azerbaijão e atrair investimentos.", fr: "Le parc industriel chimique de Sumqayıt a été créé pour développer l'industrie pétrochimique de l'Azerbaïdjan et attirer les investissements."},
     facts: {
       de: ["Gegründet im Jahr 2011.", "Bietet steuerliche Anreize für ansässige Unternehmen."],
@@ -2066,7 +2063,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     parent: "AZ-DA",
     coords: [46.0792, 40.5203],
     name: { de: "Eisenerzlagerstätte Daşkəsən", hu: "Daşkəsəni Vasércbánya", ro: "Mina de Fier Dașkasan", en: "Dashkasan Iron Ore Deposit"},
-    image: "/poi-images/dashkasan-iron-ore-economic-v2.webp",
     description: { de: "Die Eisenerzlagerstätte Daşkəsən ist eines der größten Eisenerzvorkommen im Südkaukasus und von zentraler Bedeutung für die aserbaidschanische Metallurgie.", hu: "A Daşkəsəni vasércbánya a Dél-Kaukázus egyik legnagyobb vasérclelőhelye, amely központi jelentőségű az azerbajdzsáni kohászat számára.", ro: "Zăcământul de minereu de fier Dașkasan este unul dintre cele mai mari din Caucazul de Sud și esențial pentru metalurgia azeră.", en: "The Dashkasan iron ore deposit is one of the largest in the South Caucasus and of central importance to Azerbaijani metallurgy." , es: "El yacimiento de mineral de hierro de Daşkəsən es uno de los mayores del Cáucaso Sur y es fundamental para la metalurgia azerbaiyana.", pt: "O depósito de minério de ferro de Daşkəsən é uma das maiores jazidas de minério de ferro no sul do Cáucaso e de importância central para a metalurgia do Azerbaijão.", fr: "Le gisement de minerai de fer de Daşkəsən est l'un des plus importants du Caucase du Sud et revêt une importance centrale pour la métallurgie azerbaïdjanaise."},
     facts: {
       de: ["Das Erz wird im Tagebau gefördert.", "Wichtiger Lieferant für die Stahlindustrie."],
@@ -3334,7 +3330,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     parent: "AZ-GB",
     coords: [45.8117, 40.5656],
     name: { de: "Goldmine Gədəbəy", hu: "Gədəbəy Aranybánya", ro: "Mina de Aur Gadabay", en: "Gedabek Gold Mine"},
-    image: "/poi-images/gedabek-gold-mine-economic-v2.webp",
     description: { de: "Die Goldmine Gədəbəy ist ein bedeutendes Bergbauprojekt zur Gewinnung von Gold, Kupfer und Silber im Westen des Landes.", hu: "A Gədəbəy Aranybánya egy jelentős bányászati projekt arany, réz és ezüst kitermelésére az ország nyugati részén.", ro: "Mina de aur Gadabay este un proiect minier major pentru extragerea aurului, cuprului și argintului în vestul țării.", en: "The Gedabek Gold Mine is a major mining project for the extraction of gold, copper, and silver in the west of the country." , es: "La mina de oro de Gedabek es un destacado proyecto minero para la extracción de oro, cobre y plata en el oeste del país.", pt: "A mina de ouro de Gedabek é um projeto de mineração importante para a extração de ouro, cobre e prata no oeste do país.", fr: "La mine d'or de Gedabek est un projet minier majeur pour l'extraction d'or, de cuivre et d'argent dans l'ouest du pays."},
     facts: {
       de: ["Wird von Anglo Asian Mining betrieben.", "Die Produktion begann im Jahr 2009."],
@@ -3594,7 +3589,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     parent: "AZ-SM",
     coords: [49.6644, 40.6125],
     name: { de: "SOCAR Polymer-Werk", hu: "SOCAR Polimer Gyár", ro: "Fabrica SOCAR Polymer", en: "SOCAR Polymer Plant"},
-    image: "/poi-images/socar-polymer-plant-economic-v2.webp",
     description: { de: "Das SOCAR Polymer-Werk in Sumqayıt produziert Polypropylen und hochdichtes Polyethylen für den heimischen Markt und den Export.", hu: "A sumqayıti SOCAR Polimer Gyár polipropilént és nagy sűrűségű polietilént gyárt a hazai piacra és exportra.", ro: "Fabrica SOCAR Polymer din Sumgait produce polipropilenă și polietilenă de înaltă densitate pentru piața internă și export.", en: "The SOCAR Polymer Plant in Sumqayit produces polypropylene and high-density polyethylene for domestic and export markets." , es: "La planta SOCAR Polymer en Sumqayıt produce polipropileno y polietileno de alta densidad para el mercado nacional y la exportación.", pt: "A fábrica SOCAR Polymer em Sumqayıt produz polipropileno e polietileno de alta densidade para o mercado interno e exportação.", fr: "L'usine SOCAR Polymer de Sumqayıt produit du polypropylène et du polyéthylène haute densité pour le marché national et l'exportation."},
     facts: {
       de: ["Gegründet im Jahr 2013.", "Trägt zur Diversifizierung der Wirtschaft bei."],
@@ -4826,7 +4820,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     parent: "AZ-BA",
     coords: [49.9231, 40.3800],
     name: { de: "Heydar Aliyev Ölraffinerie", hu: "Heydər Əliyev Olajfinomító", ro: "Rafinăria de Petrol Heydar Aliyev", en: "Heydar Aliyev Baku Oil Refinery"},
-    image: "/poi-images/heydar-aliyev-refinery-economic-v2.webp",
     description: { de: "Die Heydar Aliyev Ölraffinerie in Baku verarbeitet Rohöl zu verschiedenen Erdölprodukten und ist die wichtigste Raffinerie in Aserbaidschan.", hu: "A bakui Heydər Əliyev Olajfinomító kőolajat dolgoz fel különböző kőolajtermékekké, és Azerbajdzsán legfontosabb finomítója.", ro: "Rafinăria de Petrol Heydar Aliyev din Baku procesează țiței în diverse produse petroliere, fiind principala rafinărie din Azerbaidjan.", en: "The Heydar Aliyev Oil Refinery in Baku processes crude oil into various petroleum products and is the main refinery in Azerbaijan." , es: "La refinería de petróleo Heydar Aliyev en Bakú procesa crudo en diversos productos derivados y es la más importante de Azerbaiyán.", pt: "A refinaria de petróleo Heydar Aliyev em Baku processa petróleo bruto em vários produtos petrolíferos e é a refinaria mais importante do Azerbaijão.", fr: "La raffinerie de pétrole Heydar Aliyev à Bakou transforme le pétrole brut en divers produits pétroliers et est la plus importante d'Azerbaïdjan."},
     facts: {
       de: ["Gegründet im Jahr 1953.", "Wird derzeit umfassend modernisiert."],
@@ -5482,7 +5475,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     parent: "AZ-BA",
     coords: [49.9261, 40.4678],
     name: { de: "Ölfeld Balaxanı", hu: "Balaxanı Olajmező", ro: "Câmpul Petrolier Balakhany", en: "Balakhany Oil Field"},
-    image: "/poi-images/balakhany-oil-field-economic-v2.webp",
     description: { de: "Das Ölfeld Balaxanı auf der Abşeron-Halbinsel ist eines der ältesten industriell erschlossenen Ölfelder der Welt, wo der Ölboom in Baku begann.", hu: "Az Abşeron-félszigeten található Balaxanı olajmező a világ egyik legrégebbi iparilag feltárt olajmezője, ahol a bakui olajbányászat fellendült.", ro: "Câmpul petrolier Balakhany din Peninsula Abșeron este unul dintre cele mai vechi câmpuri petroliere industriale din lume, locul unde a început boom-ul petrolului la Baku.", en: "The Balakhany Oil Field on the Absheron Peninsula is one of the oldest industrially developed oil fields in the world, where the Baku oil boom began." , es: "El yacimiento petrolífero de Balakhany, en la península de Absherón, es uno de los más antiguos del mundo explotados industrialmente, donde comenzó el auge del petróleo en Bakú.", pt: "O campo petrolífero de Balakhany, na península de Absheron, é um dos campos de petróleo explorados industrialmente mais antigos do mundo, onde começou o boom do petróleo em Baku.", fr: "Le champ pétrolifère de Balakhany, sur la péninsule d'Abchéron, est l'un des plus anciens champs pétrolifères exploités industriellement au monde, là où le boom pétrolier de Bakou a commencé."},
     facts: {
       de: ["Kommerzielle Ölförderung begann hier im 19. Jahrhundert.", "Viele alte Bohrinseln sind noch sichtbar."],
@@ -5517,7 +5509,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     parent: "AZ-BA",
     coords: [50.0000, 39.7500],
     name: { de: "Gasfeld Şah Dəniz", hu: "Şah Dəniz Gázmező", ro: "Câmpul de Gaze Șah Deniz", en: "Shah Deniz Gas Field"},
-    image: "/poi-images/shah-deniz-gas-field-economic-v2.webp",
     description: { de: "Das Gasfeld Şah Dəniz im Kaspischen Meer ist die größte Erdgaslagerstätte Aserbaidschans und eine Schlüsselquelle für den Südlichen Gaskorridor.", hu: "A Kaszpi-tengeren fekvő Şah Dəniz gázmező Azerbajdzsán legnagyobb földgázlelőhelye, és a Déli Gázfolyosó kulcsfontosságú forrása.", ro: "Câmpul de gaze Șah Deniz din Marea Caspică este cel mai mare zăcământ de gaze naturale din Azerbaidjan și o sursă cheie pentru Coridorul Sudic de Gaze.", en: "The Shah Deniz Gas Field in the Caspian Sea is Azerbaijan's largest natural gas deposit and a key source for the Southern Gas Corridor." , es: "El yacimiento de gas de Shah Deniz en el mar Caspio es el depósito de gas natural más grande de Azerbaiyán y una fuente clave para el Corredor Sur de Gas.", pt: "O campo de gás de Shah Deniz, no Mar Cáspio, é o maior depósito de gás natural do Azerbaijão e uma fonte fundamental para o Corredor de Gás do Sul.", fr: "Le gisement de gaz de Shah Deniz, dans la mer Caspienne, est le plus grand gisement de gaz naturel d'Azerbaïdjan et une source clé pour le corridor gazier sud."},
     facts: {
       de: ["Entdeckt im Jahr 1999.", "Enthält schätzungsweise über 1 Billion Kubikmeter Gas."],
@@ -5669,7 +5660,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     parent: "AZ-DA",
     coords: [46.1231, 40.6322],
     name: { de: "Goldmine Çovdar", hu: "Çovdar Aranybánya", ro: "Mina de Aur Chovdar", en: "Chovdar Gold Mine"},
-    image: "/poi-images/chovdar-gold-mine-economic-v2.webp",
     description: { de: "Die Goldmine Çovdar im Bezirk Daşkəsən ist ein wichtiges Bergbauzentrum, das zur Stärkung des nichtölbezogenen Sektors beiträgt.", hu: "A Daşkəsən körzetben található Çovdar Aranybánya fontos bányászati központ, amely hozzájárul a nem olajipari ágazat erősítéséhez.", ro: "Mina de aur Chovdar din districtul Dașkasan este un centru minier important care contribuie la consolidarea sectorului non-petrolier.", en: "The Chovdar Gold Mine in the Dashkasan district is an important mining center contributing to the strengthening of the non-oil sector." , es: "La mina de oro de Çovdar, en el distrito de Daşkəsən, es un importante centro minero que contribuye al fortalecimiento del sector no petrolero.", pt: "A mina de ouro de Çovdar, no distrito de Daşkəsən, é um importante centro mineiro que contribui para o fortalecimento do setor não petrolífero.", fr: "La mine d'or de Çovdar, dans le district de Daşkəsən, est un centre minier important qui contribue au renforcement du secteur non pétrolier."},
     facts: {
       de: ["Wird vom staatlichen Unternehmen AzerGold betrieben.", "Liefert neben Gold auch beträchtliche Silbermengen."],
@@ -5821,7 +5811,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     parent: "AZ-BA",
     coords: [49.4128, 40.1347],
     name: { de: "Zementwerk Qaradağ", hu: "Qaradaği Cementgyár", ro: "Fabrica de Ciment Garadagh", en: "Garadagh Cement Plant"},
-    image: "/poi-images/garadagh-cement-plant-economic-v2.webp",
     description: { de: "Das Zementwerk Qaradağ ist einer der wichtigsten Hersteller von Baumaterialien in Aserbaidschan und unterstützt den rasanten Infrastrukturausbau des Landes.", hu: "A Qaradaği Cementgyár Azerbajdzsán egyik legfontosabb építőanyaggyártója, amely támogatja az ország gyors infrastrukturális fejlődését.", ro: "Fabrica de ciment Garadagh este unul dintre cei mai importanți producători de materiale de construcție, susținând extinderea rapidă a infrastructurii.", en: "The Garadagh Cement Plant is one of the most important manufacturers of building materials in Azerbaijan, supporting the country's rapid infrastructure expansion." , es: "La planta de cemento de Qaradağ es uno de los fabricantes de materiales de construcción más importantes de Azerbaiyán.", pt: "A fábrica de cimento de Qaradağ é um dos mais importantes fabricantes de materiais de construção no Azerbaijão.", fr: "La cimenterie de Qaradağ est l'un des plus importants fabricants de matériaux de construction en Azerbaïdjan."},
     facts: {
       de: ["Befindet sich im Bezirk Qaradağ in Baku.", "Wurde von der Schweizer Holcim-Gruppe modernisiert."],
@@ -6009,7 +5998,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     parent: "AZ-BA",
     coords: [49.4500, 39.9900],
     name: { de: "Freie Wirtschaftszone Ələt", hu: "Ələt Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Alat", en: "Alat Free Economic Zone"},
-    image: "/poi-images/alat-free-economic-zone-economic-v2.webp",
     description: { de: "Die Freie Wirtschaftszone Ələt wurde geschaffen, um Logistik, Handel und High-Tech-Industrien durch steuerliche Vorteile und moderne Infrastruktur zu fördern.", hu: "Az Ələt Szabad Gazdasági Övezetet a logisztika, a kereskedelem és a csúcstechnológiai iparágak adókedvezményekkel és modern infrastruktúrával történő ösztönzése céljából hozták létre.", ro: "Zona Economică Liberă Alat a fost creată pentru a promova logistica, comerțul și industriile de înaltă tehnologie prin beneficii fiscale și infrastructură modernă.", en: "The Alat Free Economic Zone was created to promote logistics, trade, and high-tech industries through tax benefits and modern infrastructure." , es: "La Zona Económica Libre de Alat fue creada para fomentar la logística, el comercio y las industrias de alta tecnología mediante beneficios fiscales e infraestructuras modernas.", pt: "A Zona Económica Livre de Alat foi criada para promover a logística, o comércio e as indústrias de alta tecnologia através de benefícios fiscais e infraestruturas modernas.", fr: "La zone économique libre d'Alat a été créée pour promouvoir la logistique, le commerce et les industries de haute technologie grâce à des avantages fiscaux et des infrastructures modernes."},
     facts: {
       de: ["Umfasst Gebiete in der Nähe des neuen Hafens von Baku.", "Bietet 100%ige Befreiung von Zöllen und Steuern."],
@@ -7223,7 +7211,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     parent: "AZ-GA",
     coords: [46.3211, 40.6800],
     name: { de: "Aluminiumwerk Gəncə", hu: "Gəncəi Alumíniumgyár", ro: "Fabrica de Aluminiu Ganja", en: "Ganja Aluminium Plant"},
-    image: "/poi-images/ganja-aluminium-plant-economic-v2.webp",
     description: { de: "Das Aluminiumwerk Gəncə ist Teil des aserbaidschanischen Metallurgie-Komplexes und verarbeitet importiertes und lokales Rohmaterial.", hu: "A Gəncəi Alumíniumgyár az azerbajdzsáni kohászati komplexum része, amely importált és helyi nyersanyagokat egyaránt feldolgoz.", ro: "Fabrica de Aluminiu Ganja face parte din complexul metalurgic azer și procesează materii prime importate și locale.", en: "The Ganja Aluminium Plant is part of the Azerbaijani metallurgical complex and processes both imported and local raw materials." , es: "La planta de aluminio de Ganja forma parte del complejo metalúrgico de Azerbaiyán y procesa materia prima tanto local como importada.", pt: "A fábrica de alumínio de Ganja faz parte do complexo metalúrgico do Azerbaijão e processa matérias-primas importadas e locais.", fr: "L'usine d'aluminium de Ganja fait partie du complexe métallurgique azerbaïdjanais et traite des matières premières locales et importées."},
     facts: {
       de: ["Erbaut in der sowjetischen Ära.", "Ein wichtiger Arbeitgeber in der Region Gəncə."],

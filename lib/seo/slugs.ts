@@ -120,7 +120,6 @@ export const COUNTRY_SLUGS: Record<string, Partial<Record<Lang, string>> & { de:
   "cook-islands": { de: "cookinseln", hu: "cook-szigetek", ro: "insulele-cook", en: "cook-islands" },
   "french-polynesia": { de: "franzoesisch-polynesien", hu: "francia-polinezia", ro: "polinezia-franceza", en: "french-polynesia" },
   "new-caledonia": { de: "neukaledonien", hu: "uj-kaledonia", ro: "noua-caledonie", en: "new-caledonia" },
-  "palestine": { de: "palaestina", hu: "palesztina", ro: "palestina", en: "palestine" },
   romania: {
     de: "rumaenien",
     hu: "romania",
@@ -517,7 +516,7 @@ export const ISO2_TO_COUNTRY: Record<string, string> = {
   HU: "hungary", RO: "romania", SI: "slovenia", HR: "croatia",
   RS: "serbia", BA: "bosnia", ME: "montenegro", MK: "north-macedonia",
   AL: "albania", XK: "kosovo", BG: "bulgaria", GR: "greece",
-  HK: "hong-kong", CK: "cook-islands", PF: "french-polynesia", NC: "new-caledonia", PS: "palestine",
+  HK: "hong-kong", CK: "cook-islands", PF: "french-polynesia", NC: "new-caledonia",
   TR: "turkey", CY: "cyprus", MT: "malta",
   DK: "denmark", NO: "norway", SE: "sweden", FI: "finland", IS: "iceland",
   EE: "estonia", LV: "latvia", LT: "lithuania", BY: "belarus", UA: "ukraine", MD: "moldova",

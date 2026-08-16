@@ -8,7 +8,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-10",
     coords: [-70.0167, 18.4167],
     name: { de: "Hafen von Haina", hu: "Haina kikötő", ro: "Portul Haina", en: "Port of Haina"},
-    image: "/poi-images/haina-port-economic-v2.webp",
     description: { de: "Der wichtigste Frachthafen des Landes, durch den der Großteil der Importe abgewickelt wird.", hu: "Az ország legfontosabb teherkikötője, az import nagy részét itt bonyolítják.", ro: "Cel mai important port comercial al țării, prin care se derulează majoritatea importurilor.", en: "The country's most important cargo port, handling the majority of imports." , es: "El puerto de carga más importante del país, a través del cual se gestiona la gran mayoría de las importaciones.", pt: "O porto de carga mais importante do país, através do qual é processada a maioria das importações.", fr: "Le port de fret le plus important du pays, par lequel transite la grande majorité des importations."},
     facts: {
       de: ["Wichtigstes Tor für Importe.", "Zentrale industrielle Umschlagstelle.", "Verkehrsknotenpunkt bei Santo Domingo."],
@@ -44,7 +43,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-10",
     coords: [-69.6667, 18.4333],
     name: { de: "Hafen Punta Caucedo", hu: "Punta Caucedo kikötő", ro: "Portul Punta Caucedo", en: "Port of Punta Caucedo"},
-    image: "/poi-images/punta-caucedo-port-economic-v2.webp",
     description: { de: "Ein moderner Containerhafen in der Nähe des internationalen Flughafens Las Américas.", hu: "Modern konténerkikötő a Las Américas nemzetközi repülőtér közelében.", ro: "Un port modern de containere situat în apropierea aeroportului internațional Las Américas.", en: "A modern container port located near the Las Américas International Airport." , es: "Un moderno puerto de contenedores situado cerca del Aeropuerto Internacional Las Américas.", pt: "Um moderno porto de contentores situado perto do Aeroporto Internacional Las Américas.", fr: "Un port à conteneurs moderne situé à proximité de l'aéroport international Las Américas."},
     facts: {
       de: ["Moderne Container-Anlage.", "Direkte Anbindung an den Flughafen.", "Wichtig für den regionalen Handel."],
@@ -80,7 +78,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-07",
     coords: [-71.0833, 18.2000],
     name: { de: "Hafen von Barahona", hu: "Barahona kikötő", ro: "Portul Barahona", en: "Port of Barahona"},
-    image: "/poi-images/barahona-port-economic-v2.webp",
     description: { de: "Ein bedeutender Hafen für den Export von Agrarprodukten und Mineralien aus dem Südwesten.", hu: "Jelentős kikötő a délnyugati mezőgazdasági termékek és ásványok exportjához.", ro: "Un port semnificativ pentru exportul produselor agricole și al mineralelor din sud-vest.", en: "An important port for the export of agricultural products and minerals from the southwest." , es: "Un puerto importante para la exportación de productos agrícolas y minerales del suroeste.", pt: "Um porto importante para a exportação de produtos agrícolas e minerais do sudoeste.", fr: "Un port important pour l'exportation de produits agricoles et minéraux du sud-ouest."},
     facts: {
       de: ["Wichtig für den Südwesten.", "Umschlag von Rohstoffen.", "Förderung regionaler Exporte."],
@@ -116,7 +113,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-10",
     coords: [-69.6000, 18.4500],
     name: { de: "Hafen Boca Chica", hu: "Boca Chica kikötő", ro: "Portul Boca Chica", en: "Port of Boca Chica"},
-    image: "/poi-images/boca-chica-port-economic-v2.webp",
     description: { de: "Ein spezialisierter Hafen in der Nähe von Santo Domingo für touristische und leichte Frachtzwecke.", hu: "Specializált kikötő Santo Domingo közelében turisztikai és könnyűáru-szállítási célokra.", ro: "Un port specializat situat lângă Santo Domingo, utilizat în scopuri turistice și de mărfuri ușoare.", en: "A specialized port near Santo Domingo used for tourism and light freight purposes." , es: "Un puerto especializado cerca de Santo Domingo para fines turísticos y de carga ligera.", pt: "Um porto especializado perto de Santo Domingo para fins turísticos e de carga ligeira.", fr: "Un port spécialisé près de Saint-Domingue à des fins touristiques et de fret léger."},
     facts: {
       de: ["In der Nähe von Resorts.", "Umschlag von touristischen Gütern.", "Leichte Logistik-Operationen."],
@@ -152,7 +148,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-23",
     coords: [-69.3000, 18.4667],
     name: { de: "Hafen San Pedro de Macorís", hu: "San Pedro de Macorís kikötő", ro: "Portul San Pedro de Macorís", en: "Port of San Pedro de Macorís"},
-    image: "/poi-images/san-pedro-port-economic-v2.webp",
     description: { de: "Ein historischer Hafen, der früher stark für den Zucker-Export genutzt wurde und heute diversifiziert ist.", hu: "Történelmi kikötő, amelyet korábban erősen használtak cukorexportra, ma diverzifikált.", ro: "Un port istoric utilizat intens în trecut pentru exportul de zahăr, acum diversificat.", en: "A historical port previously heavily used for sugar export, now diversified." , es: "Un puerto histórico que antes se utilizaba mucho para la exportación de azúcar y que hoy está diversificado.", pt: "Um porto histórico que outrora era muito utilizado para a exportação de açúcar e que hoje está diversificado.", fr: "Un port historique qui était autrefois fortement utilisé pour l'exportation de sucre et qui est aujourd'hui diversifié."},
     facts: {
       de: ["Früheres Zentrum für Zucker.", "Diversifizierte Fracht.", "Unterstützt lokale Industrien."],
@@ -188,7 +183,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-18",
     coords: [-70.6833, 19.8000],
     name: { de: "Hafen von Puerto Plata", hu: "Puerto Plata kikötő", ro: "Portul Puerto Plata", en: "Port of Puerto Plata"},
-    image: "/poi-images/puerto-plata-port-economic-v2.webp",
     description: { de: "Wichtiger Nordhafen, der Kreuzfahrtverkehr und Handelsgüter kombiniert.", hu: "Fontos északi kikötő, amely a tengerjáró forgalmat és a kereskedelmi árukat ötvözi.", ro: "Port nordic important, care combină traficul de croazieră cu mărfurile comerciale.", en: "Important northern port that combines cruise traffic and commercial goods." , es: "Importante puerto del norte que combina el tráfico de cruceros y mercancías comerciales.", pt: "Importante porto do norte que combina o tráfego de cruzeiros e mercadorias comerciais.", fr: "Port important du nord combinant le trafic de croisières et les marchandises commerciales."},
     facts: {
       de: ["Kreuzfahrtschiff-Terminal.", "Handelsgüter im Norden.", "Tor für den Tourismus."],
@@ -224,7 +218,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-16",
     coords: [-71.7500, 19.7167],
     name: { de: "Hafen von Manzanillo", hu: "Manzanillo kikötő", ro: "Portul Manzanillo", en: "Port of Manzanillo"},
-    image: "/poi-images/manzanillo-port-economic-v2.webp",
     description: { de: "Ein strategischer Hafen im Nordwesten, oft für den Export von Bananen genutzt.", hu: "Stratégiai kikötő északnyugaton, gyakran használták banánexportra.", ro: "Un port strategic în nord-vest, utilizat adesea pentru exportul de banane.", en: "A strategic port in the northwest, often used for banana exports." , es: "Un puerto estratégico en el noroeste, utilizado frecuentemente para la exportación de bananos.", pt: "Um porto estratégico no noroeste, frequentemente utilizado para a exportação de bananas.", fr: "Un port stratégique dans le nord-ouest, souvent utilisé pour l'exportation de bananes."},
     facts: {
       de: ["Wichtig für Bananenexport.", "Strategische Lage im Nordwesten.", "Wachsende Kapazität."],
@@ -260,7 +253,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-19",
     coords: [-68.9667, 18.4167],
     name: { de: "Hafen von La Romana", hu: "La Romana kikötő", ro: "Portul La Romana", en: "Port of La Romana"},
-    image: "/poi-images/la-romana-port-economic-v2.webp",
     description: { de: "Ein Hafen, der eng mit der Zuckerindustrie und dem Tourismus in der Region verknüpft ist.", hu: "A régió cukoriparával és turizmusával szorosan összefonódott kikötő.", ro: "Un port strâns legat de industria zahărului și turismul din regiune.", en: "A port closely linked to the region's sugar industry and tourism." , es: "Un puerto estrechamente vinculado a la industria azucarera y al turismo de la región.", pt: "Um porto estreitamente ligado à indústria do açúcar e ao turismo na região.", fr: "Un port étroitement lié à l'industrie sucrière et au tourisme dans la région."},
     facts: {
       de: ["Nahe bei Zuckerrohrfeldern.", "Kreuzfahrtterminal.", "Unterstützt regionale Wirtschaft."],
@@ -296,7 +288,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-09",
     coords: [-70.3667, 18.9167],
     name: { de: "Falconbridge Nickel-Mine", hu: "Falconbridge nikkelbánya", ro: "Mina de nichel Falconbridge", en: "Falconbridge Nickel Mine"},
-    image: "/poi-images/falconbridge-mining-economic-v2.webp",
     description: { de: "Eine bedeutende Nickel-Mine in der Nähe von Bonao.", hu: "Jelentős nikkelbánya Bonao közelében.", ro: "O mină importantă de nichel situată în apropierea orașului Bonao.", en: "A major nickel mine located near Bonao." , es: "Una importante mina de níquel cerca de Bonao.", pt: "Uma importante mina de níquel perto de Bonao.", fr: "Une importante mine de nickel près de Bonao."},
     facts: {
       de: ["Hauptquelle für Nickel.", "Wichtiger Exportfaktor.", "Großer Arbeitgeber."],
@@ -332,7 +323,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-08",
     coords: [-70.1667, 18.9667],
     name: { de: "Barrick Gold Mine Pueblo Viejo", hu: "Barrick aranybánya Pueblo Viejo", ro: "Mina de aur Barrick Pueblo Viejo", en: "Barrick Gold Mine Pueblo Viejo"},
-    image: "/poi-images/barrick-pueblo-viejo-economic-v2.webp",
     description: { de: "Eine der größten Goldminen der Welt.", hu: "A világ egyik legnagyobb aranybányája.", ro: "Una dintre cele mai mari mine de aur din lume.", en: "One of the largest gold mines in the world." , es: "Una de las minas de oro más grandes del mundo.", pt: "Uma das maiores minas de ouro do mundo.", fr: "L'une des plus grandes mines d'or au monde."},
     facts: {
       de: ["Weltweit bedeutende Produktion.", "Modernste Abbau-Technologie.", "Zentrum für Edelmetalle."],
@@ -368,7 +358,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-09",
     coords: [-70.6167, 19.4833],
     name: { de: "Cementos Cibao", hu: "Cementos Cibao", ro: "Cementos Cibao", en: "Cementos Cibao"},
-    image: "/poi-images/cementos-cibao-economic-v2.webp",
     description: { de: "Ein großes Zementwerk, das die Baubranche im Norden beliefert.", hu: "Nagy cementgyár, amely ellátja az északi építőipart.", ro: "O fabrică mare de ciment care deservește industria construcțiilor din nord.", en: "A large cement factory supplying the construction industry in the north." , es: "Una gran fábrica de cemento que abastece al sector de la construcción en el norte.", pt: "Uma grande fábrica de cimento que abastece o setor da construção no norte.", fr: "Une grande cimenterie qui approvisionne le secteur de la construction dans le nord."},
     facts: {
       de: ["Baustoffversorgung.", "Wichtig für lokale Infrastruktur.", "Große Kapazitäten."],
@@ -404,7 +393,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-23",
     coords: [-69.3000, 18.4500],
     name: { de: "Nestlé Produktionsstätte San Pedro", hu: "Nestlé San Pedro üzem", ro: "Unitatea de producție Nestlé San Pedro", en: "Nestlé Production Facility San Pedro"},
-    image: "/poi-images/nestle-macoris-economic-v2.webp",
     description: { de: "Ein bedeutender Standort für die Lebensmittelverarbeitung.", hu: "Jelentős élelmiszeripari feldolgozóhely.", ro: "Un sit important pentru procesarea alimentelor.", en: "An important site for food processing." , es: "Un lugar destacado para el procesamiento de alimentos.", pt: "Um local importante para o processamento de alimentos.", fr: "Un site important pour la transformation alimentaire."},
     facts: {
       de: ["Lebensmittelherstellung.", "Export von verarbeiteten Lebensmitteln.", "Unterstützt landwirtschaftliche Produzenten."],
@@ -440,7 +428,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-09",
     coords: [-70.6667, 19.4500],
     name: { de: "Induveca Fabrik", hu: "Induveca gyár", ro: "Fabrica Induveca", en: "Induveca Factory"},
-    image: "/poi-images/induveca-factory-economic-v2.webp",
     description: { de: "Ein bedeutender Hersteller von Fleisch- und Wurstwaren.", hu: "Jelentős hús- és kolbásztermelő.", ro: "Un producător important de produse din carne și mezeluri.", en: "A major producer of meat products and sausages." , es: "Un importante productor de productos cárnicos y embutidos.", pt: "Um importante produtor de produtos de carne e charcutaria.", fr: "Un important producteur de viande et de charcuterie."},
     facts: {
       de: ["Marktführer bei Fleischwaren.", "Wichtiger Arbeitgeber.", "Traditionelle Verarbeitung."],
@@ -476,7 +463,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-23",
     coords: [-69.3500, 18.4500],
     name: { de: "Cemex Zementwerk San Pedro", hu: "Cemex San Pedro cementgyár", ro: "Fabrica de ciment Cemex San Pedro", en: "Cemex Cement Factory San Pedro"},
-    image: "/poi-images/cemex-san-pedro-economic-v2.webp",
     description: { de: "Großes Zementwerk für die Versorgung von Santo Domingo und Exportmärkten.", hu: "Nagy cementgyár Santo Domingo ellátására és exportpiacokra.", ro: "Fabrică mare de ciment pentru aprovizionarea capitalei Santo Domingo și piețele de export.", en: "Large cement factory supplying Santo Domingo and export markets." , es: "Gran fábrica de cemento para el suministro de Santo Domingo y mercados de exportación.", pt: "Grande fábrica de cimento para o abastecimento de Santo Domingo e mercados de exportação.", fr: "Grande cimenterie pour l'approvisionnement de Saint-Domingue et les marchés d'exportation."},
     facts: {
       de: ["Internationale Präsenz.", "Exportorientiert.", "Hohe Produktionskapazität."],
@@ -512,7 +498,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-10",
     coords: [-69.9500, 18.4833],
     name: { de: "Frito-Lay Fabrik", hu: "Frito-Lay gyár", ro: "Fabrica Frito-Lay", en: "Frito-Lay Factory"},
-    image: "/poi-images/frito-lay-dom-economic-v2.webp",
     description: { de: "Produktionsstätte für Snacks für den Inlandsmarkt und Export.", hu: "Snack-gyártó üzem a hazai piacra és exportra.", ro: "Unitate de producție de gustări pentru piața internă și export.", en: "Snack production facility for the domestic market and export." , es: "Planta de producción de snacks para el mercado nacional y la exportación.", pt: "Unidade de produção de snacks para o mercado interno e exportação.", fr: "Site de production de snacks pour le marché intérieur et l'exportation."},
     facts: {
       de: ["Populäre Snack-Marken.", "Produktion in Santo Domingo.", "Hoher Inlandsabsatz."],
@@ -584,7 +569,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-09",
     coords: [-70.4000, 18.9500],
     name: { de: "Baja Bonao Energiezentrum", hu: "Baja Bonao energiaközpont", ro: "Centrul energetic Baja Bonao", en: "Baja Bonao Energy Center"},
-    image: "/poi-images/baja-bonao-energy-economic-v2.webp",
     description: { de: "Ein bedeutendes Kraftwerk für die Energieversorgung der Industrieregion Cibao.", hu: "Jelentős erőmű a Cibao ipari régió energiaellátásához.", ro: "O centrală electrică importantă pentru alimentarea cu energie a regiunii industriale Cibao.", en: "A major power plant for energy supply to the Cibao industrial region." , es: "Una importante central eléctrica para el suministro energético de la región industrial del Cibao.", pt: "Uma central elétrica importante para o abastecimento de energia da região industrial de Cibao.", fr: "Une importante centrale électrique pour l'approvisionnement en énergie de la région industrielle de Cibao."},
     facts: {
       de: ["Energie für Fabriken.", "Wichtiges Infrastrukturprojekt.", "Regionale Energieversorgung."],
@@ -620,7 +604,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-10",
     coords: [-68.3833, 18.6667],
     name: { de: "Bavaro Energie-Anlage", hu: "Bavaro energiatelep", ro: "Instalație energetică Bavaro", en: "Bavaro Energy Facility"},
-    image: "/poi-images/bavaro-power-economic-v2.webp",
     description: { de: "Versorgung der Tourismuszentren mit elektrischer Energie.", hu: "Turisztikai központok villamosenergia-ellátása.", ro: "Alimentarea cu energie electrică a centrelor turistice.", en: "Supply of electrical energy to tourism centers." , es: "Suministro de energía eléctrica a los centros turísticos.", pt: "Abastecimento de energia elétrica aos centros turísticos.", fr: "Approvisionnement des centres touristiques en énergie électrique."},
     facts: {
       de: ["Unterstützt Tourismus.", "Zuverlässige Energie.", "Wichtig für Resorts."],
@@ -656,7 +639,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-10",
     coords: [-69.9000, 18.4833],
     name: { de: "Dominikanische Handwerkszentrale", hu: "Dominikai kézműves központ", ro: "Centrul de artizanat dominican", en: "Dominican Handicrafts Center"},
-    image: "/poi-images/artesanias-dominicanas-economic-v2.webp",
     description: { de: "Großhandelszentrum für den Export von lokalem Kunsthandwerk.", hu: "Nagykereskedelmi központ a helyi kézműves termékek exportjára.", ro: "Centru angro pentru exportul produselor artizanale locale.", en: "Wholesale center for the export of local handicrafts." , es: "Centro mayorista para la exportación de artesanía local.", pt: "Centro de venda por grosso para a exportação de artesanato local.", fr: "Centre de vente en gros pour l'exportation d'artisanat local."},
     facts: {
       de: ["Export von Souvenirs.", "Fördert traditionelle Künste.", "Wirtschaftsfaktor."],
@@ -692,7 +674,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-10",
     coords: [-70.0333, 18.4500],
     name: { de: "Kraftwerk Itabo", hu: "Itabo erőmű", ro: "Centrala electrică Itabo", en: "Itabo Power Plant"},
-    image: "/poi-images/itabo-power-plant-economic-v2.webp",
     description: { de: "Ein bedeutendes Wärmekraftwerk in der Nähe von Haina.", hu: "Jelentős hőerőmű Haina közelében.", ro: "O centrală termică importantă situată lângă Haina.", en: "A major thermal power plant located near Haina." , es: "Una importante central termoeléctrica cerca de Haina.", pt: "Uma importante central termoelétrica perto de Haina.", fr: "Une importante centrale thermique près de Haina."},
     facts: {
       de: ["Versorgt Santo Domingo.", "Große Stromproduktion.", "Industrielle Energie."],
@@ -728,7 +709,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-09",
     coords: [-70.7000, 19.4500],
     name: { de: "Freihandelszone Santiago", hu: "Santiago Szabadkereskedelmi Zóna", ro: "Zona Liberă Santiago", en: "Santiago Free Trade Zone"},
-    image: "/poi-images/zona-franca-santiago-economic-v2.webp",
     description: { de: "Ein riesiger Industriepark für Export-Unternehmen.", hu: "Hatalmas ipari park exportvállalatok számára.", ro: "Un parc industrial uriaș pentru companiile de export.", en: "A massive industrial park for export companies." , es: "Un inmenso parque industrial para empresas de exportación.", pt: "Um enorme parque industrial para empresas de exportação.", fr: "Un immense parc industriel pour les entreprises d'exportation."},
     facts: {
       de: ["Zahlreiche internationale Firmen.", "Beschäftigungs-Hub.", "Exporthilfe."],
@@ -764,7 +744,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-10",
     coords: [-69.7000, 18.4667],
     name: { de: "Freihandelszone Las Américas", hu: "Las Américas Szabadkereskedelmi Zóna", ro: "Zona Liberă Las Américas", en: "Las Américas Free Trade Zone"},
-    image: "/poi-images/zona-franca-las-americas-economic-v2.webp",
     description: { de: "Ein führender Industriepark für High-Tech und medizinische Produkte.", hu: "Vezető ipari park csúcstechnológiai és orvosi termékek számára.", ro: "Un parc industrial de frunte pentru produse high-tech și medicale.", en: "A leading industrial park for high-tech and medical products." , es: "Un parque industrial líder para alta tecnología y productos médicos.", pt: "Um parque industrial líder para alta tecnologia e produtos médicos.", fr: "Un parc industriel de premier plan pour la haute technologie et les produits médicaux."},
     facts: {
       de: ["High-Tech-Produktion.", "Medizinische Geräte.", "Exportzentrum."],
@@ -800,7 +779,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-09",
     coords: [-70.6500, 19.4667],
     name: { de: "BannerCorp Produktionsanlage", hu: "BannerCorp gyártóüzem", ro: "Unitatea de producție BannerCorp", en: "BannerCorp Production Facility"},
-    image: "/poi-images/bannercorp-production-economic-v2.webp",
     description: { de: "Produktionsstätte für Konsumgüter.", hu: "Fogyasztási cikkeket gyártó üzem.", ro: "Unitate de producție pentru bunuri de consum.", en: "Production facility for consumer goods." , es: "Planta de producción de bienes de consumo.", pt: "Instalação de produção de bens de consumo.", fr: "Site de production de biens de consommation."},
     facts: {
       de: ["Konsumgüter-Export.", "Wirtschaftliches Wachstum.", "Lokal verankert."],
@@ -836,7 +814,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-17",
     coords: [-70.1000, 19.2000],
     name: { de: "Bananen-Export-Zentrale", hu: "Banánexport központ", ro: "Centrul de export banane", en: "Banana Export Center"},
-    image: "/poi-images/platanos-export-economic-v2.webp",
     description: { de: "Zentrale für Sortierung und Export von landwirtschaftlichen Erzeugnissen.", hu: "Mezőgazdasági termékek válogató- és exportközpontja.", ro: "Centru de sortare și export pentru produse agricole.", en: "Central sorting and export center for agricultural products." , es: "Centro para la clasificación y exportación de productos agrícolas.", pt: "Centro de triagem e exportação de produtos agrícolas.", fr: "Centre de tri et d'exportation de produits agricoles."},
     facts: {
       de: ["Agrar-Export.", "Logistikzentrum.", "Qualitätssicherung."],
@@ -872,7 +849,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-22",
     coords: [-71.3500, 18.8167],
     name: { de: "Agro-Industrie San Juan", hu: "Agro-ipar San Juan", ro: "Agro-industrie San Juan", en: "Agro-industry San Juan"},
-    image: "/poi-images/agro-industrial-san-juan-economic-v2.webp",
     description: { de: "Verarbeitungsbetrieb für regionale landwirtschaftliche Produkte.", hu: "Feldolgozóüzem regionális mezőgazdasági termékek számára.", ro: "Unitate de procesare pentru produsele agricole regionale.", en: "Processing plant for regional agricultural products." , es: "Planta de procesamiento de productos agrícolas regionales.", pt: "Instalação de processamento de produtos agrícolas regionais.", fr: "Usine de transformation de produits agricoles régionaux."},
     facts: {
       de: ["Verarbeitung lokaler Ernten.", "Wertschöpfung vor Ort.", "Wichtig für Bauern."],
@@ -908,7 +884,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-09",
     coords: [-70.5000, 19.1000],
     name: { de: "Macadamia-Produktionszentrum", hu: "Makadámia-termelő központ", ro: "Centrul de producție de macadamia", en: "Macadamia Production Center"},
-    image: "/poi-images/macadamia-production-economic-v2.webp",
     description: { de: "Ein spezialisierter Betrieb zur Verarbeitung von Nüssen für den Export.", hu: "Szakosodott üzem diófélék exportra történő feldolgozására.", ro: "O unitate specializată pentru procesarea nucilor în vederea exportului.", en: "A specialized facility for processing nuts for export." , es: "Una planta especializada para el procesamiento de nueces destinadas a la exportación.", pt: "Uma unidade especializada no processamento de nozes para exportação.", fr: "Une entreprise spécialisée dans la transformation des noix pour l'exportation."},
     facts: {
       de: ["Hochwertiger Export.", "Spezialisierte Landwirtschaft.", "Nachhaltige Methoden."],
@@ -944,7 +919,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-10",
     coords: [-70.0333, 18.4000],
     name: { de: "Haina Container-Terminal", hu: "Haina konténerterminál", ro: "Terminalul de containere Haina", en: "Haina Container Terminal"},
-    image: "/poi-images/haina-container-terminal-economic-v2.webp",
     description: { de: "Ein hochmodernes Terminal für Containerabfertigung.", hu: "Korszerű terminál konténerkezelésre.", ro: "Un terminal modern pentru manipularea containerelor.", en: "A modern terminal for container handling." , es: "Una terminal ultramoderna para la manipulación de contenedores.", pt: "Um terminal ultramoderno para a movimentação de contentores.", fr: "Un terminal ultramoderne pour le traitement des conteneurs."},
     facts: {
       de: ["Schnelle Abfertigung.", "Wichtig für die Logistik.", "Moderne Kräne."],
@@ -980,7 +954,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-21",
     coords: [-70.1000, 18.4167],
     name: { de: "Industriezone San Cristóbal", hu: "San Cristóbal ipari zóna", ro: "Zona industrială San Cristóbal", en: "San Cristóbal Industrial Zone"},
-    image: "/poi-images/san-cristobal-industrial-zone-economic-v2.webp",
     description: { de: "Ein bedeutendes Industriegebiet mit diversifizierten Fabriken.", hu: "Jelentős ipari terület diverzifikált gyárakkal.", ro: "O zonă industrială semnificativă cu fabrici diversificate.", en: "A significant industrial area with diversified factories." , es: "Una zona industrial importante con fábricas diversificadas.", pt: "Uma zona industrial importante com fábricas diversificadas.", fr: "Une zone industrielle importante avec des usines diversifiées."},
     facts: {
       de: ["Vielfältige Produktion.", "Große Arbeitsplätze.", "Logistische Anbindung."],
@@ -1016,7 +989,6 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     parent: "DO-09",
     coords: [-70.5167, 19.3833],
     name: { de: "Geflügelverarbeitung Moca", hu: "Moca baromfifeldolgozó", ro: "Procesarea cărnii de pasăre Moca", en: "Moca Poultry Processing"},
-    image: "/poi-images/moca-poultry-processing-economic-v2.webp",
     description: { de: "Ein großer Verarbeitungsbetrieb für Geflügelprodukte.", hu: "Nagy feldolgozóüzem baromfitermékek számára.", ro: "O unitate mare de procesare pentru produse din carne de pasăre.", en: "A large processing plant for poultry products." , es: "Una gran planta de procesamiento de productos avícolas.", pt: "Uma grande unidade de processamento de produtos avícolas.", fr: "Une grande entreprise de transformation de produits avicoles."},
     facts: {
       de: ["Wichtig für den Markt.", "Lebensmittelstandard.", "Großproduktion."],

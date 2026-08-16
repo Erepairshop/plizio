@@ -233,7 +233,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     parent: "IL-HA",
     coords: [35.0116, 32.8197],
     name: { de: "Hafen von Haifa", hu: "Haifai kikötő", ro: "Portul Haifa", en: "Port of Haifa"},
-    image: "/poi-images/il-port-haifa-economic-v2.webp",
     description: { de: "Der größte Seehafen Israels, der eine zentrale Rolle im internationalen Handel und im Passagierverkehr des Landes spielt.", hu: "Izrael legnagyobb tengeri kikötője, amely központi szerepet játszik az ország nemzetközi kereskedelmében és személyforgalmában.", ro: "Cel mai mare port maritim din Israel, având un rol central în comerțul internațional și traficul de pasageri al țării.", en: "The largest seaport in Israel, playing a central role in the country's international trade and passenger traffic." , es: "El puerto marítimo más grande de Israel, que desempeña un papel central en el comercio internacional y el tráfico de pasajeros del país.", pt: "O maior porto marítimo de Israel, que desempenha um papel central no comércio internacional e no tráfego de passageiros do país.", fr: "Le plus grand port maritime d'Israël, qui joue un rôle central dans le commerce international et le transport de passagers du pays."},
     facts: {
       de: ["Eröffnet im Jahr 1933.", "Wichtiger Knotenpunkt am Mittelmeer.", "Befindet sich an der Bucht von Haifa."],
@@ -1115,7 +1114,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     parent: "IL-D",
     coords: [34.9541, 29.5394],
     name: { de: "Hafen von Eilat", hu: "Eilati kikötő", ro: "Portul Eilat", en: "Port of Eilat"},
-    image: "/poi-images/il-port-eilat-economic-v2.webp",
     description: { de: "Israels einziger Hafen am Roten Meer, der den direkten maritimen Zugang zu den Märkten in Asien und Ostafrika ermöglicht.", hu: "Izrael egyetlen kikötője a Vörös-tengeren, amely közvetlen tengeri hozzáférést biztosít az ázsiai és kelet-afrikai piacokhoz.", ro: "Singurul port al Israelului la Marea Roșie, oferind acces maritim direct către piețele din Asia și Africa de Est.", en: "Israel's only port on the Red Sea, providing direct maritime access to markets in Asia and East Africa." , es: "El único puerto de Israel en el Mar Rojo, que permite el acceso marítimo directo a los mercados de Asia y África Oriental.", pt: "O único porto de Israel no Mar Vermelho, que permite o acesso marítimo directo aos mercados da Ásia e da África Oriental.", fr: "Le seul port d'Israël sur la mer Rouge, qui permet un accès maritime direct aux marchés d'Asie et d'Afrique de l'Est."},
     facts: {
       de: ["Lage am Golf von Akaba.", "Wichtig für den asiatischen Handel.", "Südlichster Hafen Israels."],
@@ -1304,7 +1302,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     parent: "IL-HA",
     coords: [34.8817, 32.4681],
     name: { de: "Kraftwerk Orot Rabin", hu: "Orot Rabin Erőmű", ro: "Centrala Electrică Orot Rabin", en: "Orot Rabin Power Station"},
-    image: "/poi-images/il-orot-rabin-economic-v2.webp",
     description: { de: "Das größte Kraftwerk Israels, das sich an der Küste von Hadera befindet und einen erheblichen Teil des landesweiten Stroms erzeugt.", hu: "Izrael legnagyobb erőműve, amely Hadera partján található, és az országos áramtermelés jelentős részét adja.", ro: "Cea mai mare centrală electrică din Israel, situată pe coasta Haderei, producând o parte semnificativă a energiei țării.", en: "The largest power station in Israel, located on the coast of Hadera, generating a significant portion of the country's electricity." , es: "La central eléctrica más grande de Israel, situada en la costa de Hadera, que genera una parte significativa de la electricidad de todo el país.", pt: "A maior central elétrica de Israel, localizada na costa de Hadera, que gera uma parte significativa da eletricidade de todo o país.", fr: "La plus grande centrale électrique d'Israël, située sur la côte de Hadera, qui produit une part importante de l'électricité nationale."},
     facts: {
       de: ["Wurde 1981 in Betrieb genommen.", "Verwendet hauptsächlich Kohle und Gas.", "Befindet sich bei Hadera."],
@@ -1421,7 +1418,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     parent: "IL-D",
     coords: [34.5200, 31.6264],
     name: { de: "Kraftwerk Rutenberg", hu: "Rutenberg Erőmű", ro: "Centrala Electrică Rutenberg", en: "Rutenberg Power Station"},
-    image: "/poi-images/il-rutenberg-economic-v2.webp",
     description: { de: "Ein bedeutendes Kohle- und Gaskraftwerk in der Nähe von Aschkelon, das eine wichtige Rolle in der Energieversorgung des Südens spielt.", hu: "Jelentős szén- és gázerőmű Askelón közelében, amely fontos szerepet játszik a déli régió energiaellátásában.", ro: "O importantă centrală electrică pe cărbune și gaz lângă Așkelon, care joacă un rol major în aprovizionarea cu energie a sudului.", en: "A major coal and gas power plant near Ashkelon, playing an important role in the energy supply of the south." , es: "Una importante central eléctrica de carbón y gas cerca de Ascalón, que desempeña un papel vital en el suministro de energía del sur.", pt: "Uma importante central eléctrica a carvão e gás perto de Ashkelon, que desempenha um papel vital no fornecimento de energia do sul.", fr: "Une importante centrale électrique au charbon et au gaz située près d'Ashkelon, qui joue un rôle crucial dans l'approvisionnement énergétique du sud."},
     facts: {
       de: ["Benannt nach Pinchas Rutenberg.", "Zweitgrößtes Kraftwerk des Landes.", "Liegt direkt am Mittelmeer."],
@@ -1970,7 +1966,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     parent: "IL-TA",
     coords: [34.7761, 32.1039],
     name: { de: "Kraftwerk Reading", hu: "Reading Erőmű", ro: "Centrala Electrică Reading", en: "Reading Power Station"},
-    image: "/poi-images/il-reading-economic-v2.webp",
     description: { de: "Ein historisches Kraftwerk in Tel Aviv, das heute mit Erdgas betrieben wird und ein markantes Wahrzeichen der städtischen Küstenlinie ist.", hu: "Történelmi erőmű Tel-Avivban, amelyet ma földgázzal üzemeltetnek, és a városi partvonal jellegzetes tájékozódási pontja.", ro: "O centrală electrică istorică din Tel Aviv, operată în prezent cu gaze naturale, fiind un punct de reper pe coasta orașului.", en: "A historic power station in Tel Aviv, now powered by natural gas, which is a prominent landmark of the city's coastline." , es: "Una central eléctrica histórica en Tel Aviv que hoy funciona con gas natural y es un hito distintivo de la costa urbana.", pt: "Uma central eléctrica histórica em Telavive que hoje funciona a gás natural e é um marco distintivo da costa urbana.", fr: "Une centrale électrique historique à Tel Aviv, aujourd'hui alimentée au gaz naturel, qui constitue un repère emblématique de la côte urbaine."},
     facts: {
       de: ["Eröffnet im Jahr 1938.", "Liegt an der Mündung des Jarkon.", "Architektur im Bauhaus-Stil."],
@@ -2159,7 +2154,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     parent: "IL-D",
     coords: [34.7350, 31.0250],
     name: { de: "Sonnenkraftwerk Ashalim", hu: "Ashalim Naperőmű", ro: "Centrala Solară Ashalim", en: "Ashalim Power Station"},
-    image: "/poi-images/il-ashalim-economic-v2.webp",
     description: { de: "Ein innovatives Solarkraftwerk in der Negev-Wüste, das einen der höchsten Solartürme der Welt besitzt und erneuerbare Energie liefert.", hu: "Innovatív naperőmű a Negev-sivatagban, amely a világ egyik legmagasabb naptornyával rendelkezik, és megújuló energiát szolgáltat.", ro: "O centrală solară inovatoare în deșertul Negev, cu unul dintre cele mai înalte turnuri solare din lume, furnizând energie regenerabilă.", en: "An innovative solar power plant in the Negev Desert, featuring one of the tallest solar towers in the world and providing renewable energy." },
     facts: {
       de: ["Turmhöhe von über 240 Metern.", "Nutzt Tausende von Spiegeln.", "Wichtig für grüne Energie in Israel."],
@@ -2735,7 +2729,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     parent: "IL-HA",
     coords: [35.0394, 32.7931],
     name: { de: "Raffinerie Haifa", hu: "Haifai Finomító", ro: "Rafinăria Haifa", en: "Haifa Oil Refinery"},
-    image: "/poi-images/il-haifa-refinery-economic-v2.webp",
     description: { de: "Eine der größten Erdölraffinerien des Landes, bekannt für ihre ikonischen Kühltürme, die industrielle Kraft und Geschichte repräsentieren.", hu: "Az ország egyik legnagyobb kőolajfinomítója, amely ikonikus hűtőtornyairól ismert, és az ipari erőt valamint a történelmet jelképezi.", ro: "Una dintre cele mai mari rafinării de petrol din țară, cunoscută pentru turnurile sale de răcire iconice, reprezentând puterea industrială.", en: "One of the largest oil refineries in the country, known for its iconic cooling towers that represent industrial power and history." , es: "Una de las refinerías de petróleo más grandes del país, conocida por sus icónicas torres de refrigeración que representan la potencia industrial y la historia.", pt: "Uma das maiores refinarias de petróleo do país, conhecida pelas suas icónicas torres de refrigeração que representam a força industrial e a história.", fr: "L'une des plus grandes raffineries de pétrole du pays, connue pour ses tours de refroidissement emblématiques qui représentent la puissance industrielle et l'histoire."},
     facts: {
       de: ["Gegründet in der britischen Mandatszeit.", "Gehört zur Bazan-Gruppe.", "Wichtig für die petrochemische Industrie."],
@@ -3212,7 +3205,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     parent: "IL-D",
     coords: [34.6644, 31.8239],
     name: { de: "Raffinerie Aschdod", hu: "Asdodi Finomító", ro: "Rafinăria Așdod", en: "Ashdod Oil Refinery"},
-    image: "/poi-images/il-ashdod-refinery-economic-v2.webp",
     description: { de: "Ein moderner petrochemischer Komplex, der einen erheblichen Teil des israelischen Treibstoffbedarfs produziert und verarbeitet.", hu: "Modern petrolkémiai komplexum, amely az izraeli üzemanyag-szükséglet jelentős részét termeli és dolgozza fel.", ro: "Un complex petrochimic modern care produce și procesează o parte semnificativă din necesarul de combustibil al Israelului.", en: "A modern petrochemical complex that produces and processes a significant portion of Israel's fuel needs." },
     facts: {
       de: ["Inbetriebnahme im Jahr 1973.", "Zweitgrößte Raffinerie in Israel.", "Produziert Treibstoffe und Chemikalien."],
@@ -3284,7 +3276,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     parent: "IL-D",
     coords: [35.3970, 31.0360],
     name: { de: "Totes Meer Werke", hu: "Holt-tengeri Művek", ro: "Uzinele Mării Moarte", en: "Dead Sea Works"},
-    image: "/poi-images/il-dead-sea-works-economic-v2.webp",
     description: { de: "Ein riesiger industrieller Komplex, der wertvolle Mineralien wie Kali, Brom und Magnesium aus dem Wasser des Toten Meeres extrahiert.", hu: "Hatalmas ipari komplexum, amely értékes ásványokat, például hamuzsírt, brómot és magnéziumot von ki a Holt-tenger vizéből.", ro: "Un complex industrial uriaș care extrage minerale valoroase precum potasiu, brom și magneziu din apa Mării Moarte.", en: "A huge industrial complex that extracts valuable minerals such as potash, bromine, and magnesium from the water of the Dead Sea." , es: "Un enorme complejo industrial que extrae minerales valiosos como potasa, bromo y magnesio del agua del Mar Muerto.", pt: "Um enorme complexo industrial que extrai minerais valiosos como potássio, bromo e magnésio das águas do Mar Morto.", fr: "Un immense complexe industriel qui extrait des minéraux précieux tels que la potasse, le brome et le magnésium des eaux de la mer Morte."},
     facts: {
       de: ["Gegründet im Jahr 1929.", "Einer der weltgrößten Düngemittelproduzenten.", "Liegt am südlichen Becken des Sees."],
@@ -3545,7 +3536,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     parent: "IL-D",
     coords: [34.8144, 31.1444],
     name: { de: "Industriegebiet Ramat Hovaw", hu: "Ramat Hovav Ipari Park", ro: "Zona Industrială Ramat Hovav", en: "Ramat Hovav Industrial Zone"},
-    image: "/poi-images/il-ramat-hovav-economic-v2.webp",
     description: { de: "Ein bedeutendes Zentrum für die chemische Industrie im Süden Israels, das zahlreiche Fabriken und Entsorgungseinrichtungen beherbergt.", hu: "A vegyipar jelentős központja Izrael déli részén, amely számos gyárnak és hulladékkezelő létesítménynek ad otthont.", ro: "Un centru major pentru industria chimică în sudul Israelului, găzduind numeroase fabrici și instalații de eliminare a deșeurilor.", en: "A major center for the chemical industry in southern Israel, home to numerous factories and waste disposal facilities." , es: "Un importante centro para la industria química en el sur de Israel, que alberga numerosas fábricas e instalaciones de eliminación de residuos.", pt: "Um importante centro para a indústria química no sul de Israel, que alberga numerosas fábricas e instalações de eliminação de resíduos.", fr: "Un centre important pour l'industrie chimique dans le sud d'Israël, abritant de nombreuses usines et installations d'élimination des déchets."},
     facts: {
       de: ["Südlich von Be'er Scheva gelegen.", "Schwerpunkt auf Schwerindustrie.", "Verfügt über eine Sondermülldeponie."],
@@ -4094,7 +4084,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     parent: "IL-TA",
     coords: [34.8025, 32.0839],
     name: { de: "Israelische Diamantenbörse", hu: "Izraeli Gyémánttőzsde", ro: "Bursa de Diamante din Israel", en: "Israel Diamond Exchange"},
-    image: "/poi-images/il-diamond-exchange-economic-v2.webp",
     description: { de: "Das Herzstück des israelischen Diamantenhandels in Ramat Gan, das als einer der wichtigsten Umschlagplätze der Welt für Edelsteine gilt.", hu: "Az izraeli gyémántkereskedelem központja Ramat Ganban, amely a világ egyik legfontosabb drágakő-elosztó helye.", ro: "Inima comerțului cu diamante din Israel în Ramat Gan, considerat unul dintre cele mai importante centre de pietre prețioase din lume.", en: "The heart of the Israeli diamond trade in Ramat Gan, considered one of the world's most important trading hubs for gemstones." , es: "El corazón del comercio de diamantes de Israel en Ramat Gan, considerado uno de los centros de intercambio de piedras preciosas más importantes del mundo.", pt: "O coração do comércio de diamantes de Israel em Ramat Gan, considerado um dos centros de troca de pedras preciosas mais importantes do mundo.", fr: "Le cœur du commerce des diamants en Israël à Ramat Gan, considéré comme l'une des plus importantes places boursières de pierres précieuses au monde."},
     facts: {
       de: ["Ein Komplex aus vier Hochhäusern.", "Strengste Sicherheitsvorkehrungen.", "Verantwortlich für riesige Exportvolumen."],
@@ -4535,7 +4524,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     parent: "IL-HA",
     coords: [34.9578, 32.7892],
     name: { de: "Matam-Park", hu: "Matam Ipari Park", ro: "Parcul Matam", en: "Matam High-Tech Park"},
-    image: "/poi-images/il-matam-park-economic-v2.webp",
     description: { de: "Der erste und größte High-Tech-Park in Israel, gelegen in Haifa, der zahlreiche globale Technologieunternehmen und Forschungszentren anzieht.", hu: "Izrael első és legnagyobb csúcstechnológiai parkja Haifában, amely számos globális technológiai vállalatot és kutatóközpontot vonz.", ro: "Primul și cel mai mare parc high-tech din Israel, situat în Haifa, atrăgând numeroase companii tehnologice globale și centre de cercetare.", en: "The first and largest high-tech park in Israel, located in Haifa, attracting numerous global technology companies and research centers." , es: "El primer y más grande parque de alta tecnología de Israel, situado en Haifa, que atrae a numerosas empresas tecnológicas globales y centros de investigación.", pt: "O primeiro e maior parque de alta tecnologia em Israel, localizado em Haifa, que atrai inúmeras empresas tecnológicas globais e centros de investigação.", fr: "Le premier et le plus grand parc de haute technologie d'Israël, situé à Haïfa, qui attire de nombreuses entreprises technologiques mondiales et centres de recherche."},
     facts: {
       de: ["Gegründet in den 1970er Jahren.", "Knotenpunkt der israelischen Innovation.", "Beschäftigt Zehntausende von Ingenieuren."],
@@ -5912,7 +5900,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     parent: "IL-M",
     coords: [34.9122, 32.0000],
     name: { de: "Airport City Tel Aviv", hu: "Airport City Tel-Aviv", ro: "Airport City Tel Aviv", en: "Airport City Tel Aviv"},
-    image: "/poi-images/il-airport-city-economic-v2.webp",
     description: { de: "Ein bedeutendes Geschäfts- und Logistikzentrum in der Nähe des Ben-Gurion-Flughafens, das als Drehscheibe für Handel und Unternehmen dient.", hu: "Jelentős üzleti és logisztikai központ a Ben Gurion repülőtér közelében, amely a kereskedelem és a vállalatok csomópontjaként szolgál.", ro: "Un centru important de afaceri și logistică lângă Aeroportul Ben Gurion, care servește ca un hub pentru comerț și companii.", en: "A major business and logistics center near Ben Gurion Airport, serving as a hub for trade and companies." },
     facts: {
       de: ["Zentrale Lage in Israel.", "Sitz vieler Firmenzentralen.", "Bietet umfangreiche Lagerkapazitäten."],
@@ -7136,7 +7123,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     parent: "IL-M",
     coords: [34.7081, 31.9333],
     name: { de: "Meerwasserentsalzungsanlage Sorek", hu: "Sorek Sótalanító Üzem", ro: "Uzina de desalinizare Sorek", en: "Sorek Desalination Plant"},
-    image: "/poi-images/il-sorek-desalination-economic-v2.webp",
     description: { de: "Eine der größten Umkehrosmose-Entsalzungsanlagen der Welt, die einen entscheidenden Beitrag zur Trinkwasserversorgung des Landes leistet.", hu: "A világ egyik legnagyobb fordított ozmózisos sótalanító üzeme, amely döntő mértékben hozzájárul az ország ivóvízellátásához.", ro: "Una dintre cele mai mari uzine de desalinizare cu osmoză inversă din lume, contribuind decisiv la alimentarea cu apă potabilă a țării.", en: "One of the world's largest reverse osmosis desalination plants, making a crucial contribution to the country's drinking water supply." , es: "Una de las plantas de desalinización por ósmosis inversa más grandes del mundo, que realiza una contribución crucial al suministro de agua potable del país.", pt: "Uma das maiores centrais de dessalinização por osmose inversa do mundo, que dá um contributo crucial para o abastecimento de água potável do país.", fr: "L'une des plus grandes usines de dessalement par osmose inverse au monde, qui apporte une contribution décisive à l'approvisionnement en eau potable du pays."},
     facts: {
       de: ["Ging 2013 in Betrieb.", "Produziert Millionen Kubikmeter Wasser.", "Nutzung fortschrittlicher Filtertechnik."],
@@ -7217,7 +7203,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     parent: "IL-HA",
     coords: [34.8822, 32.4700],
     name: { de: "Entsalzungsanlage Hadera", hu: "Haderai Sótalanító Üzem", ro: "Uzina de desalinizare Hadera", en: "Hadera Desalination Plant"},
-    image: "/poi-images/il-hadera-desalination-economic-v2.webp",
     description: { de: "Eine wichtige Anlage an der Mittelmeerküste, die Meerwasser in Trinkwasser umwandelt und die Wasserknappheit der Region lindert.", hu: "Fontos létesítmény a Földközi-tenger partján, amely tengervizet ivóvízzé alakít, enyhítve a régió vízhiányát.", ro: "O instalație importantă pe coasta mediteraneană care transformă apa de mare în apă potabilă, atenuând deficitul de apă al regiunii.", en: "An important facility on the Mediterranean coast that converts seawater into drinking water, alleviating the region's water scarcity." , es: "Una instalación vital en la costa mediterránea que convierte el agua de mar en agua potable, aliviando la escasez de agua en la región.", pt: "Uma instalação vital na costa mediterrânica que converte água do mar em água potável, aliviando a escassez de água na região.", fr: "Une installation vitale sur la côte méditerranéenne qui transforme l'eau de mer en eau potable, atténuant ainsi la pénurie d'eau dans la région."},
     facts: {
       de: ["Eröffnet im Jahr 2009.", "Eine der größten Anlagen ihrer Art.", "Arbeitet eng mit dem Kraftwerk zusammen."],
@@ -7766,7 +7751,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     parent: "IL-D",
     coords: [35.1500, 30.9333],
     name: { de: "Phosphatmine Zin", hu: "Cin Foszfátbánya", ro: "Mina de fosfați Zin", en: "Zin Phosphate Mine"},
-    image: "/poi-images/il-zin-mine-economic-v2.webp",
     description: { de: "Eine der wichtigsten Minen in der Negev-Wüste, die große Mengen an Phosphaten für die chemische Industrie und den Export abbaut.", hu: "A Negev-sivatag egyik legfontosabb bányája, amely nagy mennyiségű foszfátot termel ki a vegyipar és az export számára.", ro: "Una dintre cele mai importante mine din deșertul Negev, extrăgând cantități mari de fosfați pentru industria chimică și export.", en: "One of the most important mines in the Negev Desert, extracting large quantities of phosphates for the chemical industry and export." , es: "Una de las minas más importantes del desierto del Néguev, que extrae grandes cantidades de fosfatos para la industria química y la exportación.", pt: "Uma das minas mais importantes do deserto do Negev, que extrai grandes quantidades de fosfatos para a indústria química e exportação.", fr: "L'une des mines les plus importantes du désert du Néguev, qui extrait de grandes quantités de phosphates pour l'industrie chimique et l'exportation."},
     facts: {
       de: ["Liegt tief in der Wüstenlandschaft.", "Sichert wertvolle Rohstoffe.", "Teil der israelischen Düngemittelproduktion."],
@@ -8423,7 +8407,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     parent: "IL-D",
     coords: [34.5167, 31.6333],
     name: { de: "Ölterminal Aschkelon", hu: "Askelóni Olajterminál", ro: "Terminalul petrolier Așkelon", en: "Ashkelon Oil Terminal"},
-    image: "/poi-images/il-ashkelon-terminal-economic-v2.webp",
     description: { de: "Ein entscheidender Knotenpunkt für den Öltransport, der das Rote Meer mit dem Mittelmeer verbindet und internationale Märkte versorgt.", hu: "Az olajszállítás döntő csomópontja, amely összeköti a Vörös-tengert a Földközi-tengerrel, és nemzetközi piacokat lát el.", ro: "Un punct central pentru transportul de petrol, conectând Marea Roșie cu Marea Mediterană și aprovizionând piețele internaționale.", en: "A crucial hub for oil transport, connecting the Red Sea with the Mediterranean and supplying international markets." , es: "Un centro crucial para el transporte de petróleo que conecta el Mar Rojo con el Mediterráneo y abastece a los mercados internacionales.", pt: "Um centro crucial para o transporte de petróleo que liga o Mar Vermelho ao Mediterrâneo e abastece os mercados internacionais.", fr: "Un centre crucial pour le transport du pétrole reliant la mer Rouge à la mer Méditerranée et approvisionnant les marchés internationaux."},
     facts: {
       de: ["Teil der EAPC-Pipeline.", "Kann große Supertanker abfertigen.", "Strategisch wichtige Infrastruktur."],
@@ -8576,7 +8559,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     parent: "IL-D",
     coords: [34.5833, 31.5167],
     name: { de: "Osem-Werk Sderot", hu: "Osem Gyár Szderót", ro: "Fabrica Osem Sderot", en: "Osem Factory Sderot"},
-    image: "/poi-images/il-osem-sderot-economic-v2.webp",
     description: { de: "Eine große Lebensmittelproduktionsstätte in Süd-Israel, die eine Vielzahl von beliebten israelischen Snacks und Grundnahrungsmitteln herstellt.", hu: "Nagy élelmiszergyártó létesítmény Dél-Izraelben, amely számos népszerű izraeli rágcsálnivalót és alapvető élelmiszert állít elő.", ro: "O mare unitate de producție alimentară în sudul Israelului, care fabrică o varietate de gustări populare și alimente de bază israeliene.", en: "A large food production facility in southern Israel, manufacturing a variety of popular Israeli snacks and staple foods." , es: "Una gran planta de producción de alimentos en el sur de Israel que fabrica una variedad de aperitivos y alimentos básicos israelíes populares.", pt: "Uma grande unidade de produção de alimentos no sul de Israel que fabrica uma variedade de snacks e alimentos básicos israelitas populares.", fr: "Un grand site de production alimentaire dans le sud d'Israël, fabriquant une variété de snacks et de denrées de base populaires en Israël."},
     facts: {
       de: ["Gehört zu den größten Arbeitgebern der Region.", "Produziert die berühmten Bamba-Snacks.", "Symbol der industriellen Resilienz."],

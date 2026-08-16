@@ -1101,7 +1101,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       hu: "Klang kikötő",
       ro: "Portul Klang",
       en: "Port Klang"},
-    image: "/poi-images/port-klang-trade-hub-economic-v2.webp",
     description: {
       de: "Malaysias größter und verkehrsreichster Hafen, ein wichtiges Tor für den internationalen Handel. Ein riesiges Netzwerk aus Kränen und Containern, das die malaysische Wirtschaft antreibt.",
       hu: "Malajzia legnagyobb és legforgalmasabb kikötője, a nemzetközi kereskedelem fontos kapuja. Daruk és konténerek hatalmas hálózata, amely a maláj gazdaságot mozgatja.",
@@ -1149,7 +1148,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       hu: "Tanjung Pelepas kikötő",
       ro: "Portul Tanjung Pelepas",
       en: "Port of Tanjung Pelepas"},
-    image: "/poi-images/tanjung-pelepas-port-trade-hub-economic-v2.webp",
     description: {
       de: "Ein hochmoderner Containerhafen in Johor, der als einer der effizientesten der Welt gilt. Ein strategischer Knotenpunkt an der Straße von Malakka.",
       hu: "Egy csúcstechnológiás konténerkikötő Johorban, amelyet a világ egyik leghatékonyabbjának tartanak. Stratégiai csomópont a Malaka-szorosban.",
@@ -2538,7 +2536,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       hu: "Bayan Lepas Szabad Ipari Zóna",
       ro: "Zona Industrială Liberă Bayan Lepas",
       en: "Bayan Lepas Free Industrial Zone"},
-    image: "/poi-images/bayan-lepas-ftez-industry-economic-v2.webp",
     description: {
       de: "Das 'Silicon Valley des Ostens', eine bedeutende Drehscheibe für die Elektronik- und Halbleiterindustrie in Penang. Ein Motor des technologischen Fortschritts in Malaysia.",
       hu: "A 'Kelet Szilícium-völgye', az elektronikai és félvezetőipar fontos központja Penangban. A technológiai fejlődés motorja Malajziában.",
@@ -3711,7 +3708,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       hu: "Rawangi Autóipari Klaszter",
       ro: "Clusterul Auto Rawang",
       en: "Rawang Automotive Cluster"},
-    image: "/poi-images/rawang-automotive-industry-economic-v2.webp",
     description: {
       de: "Ein wichtiges Zentrum für die Automobilproduktion in Malaysia, Heimat des nationalen Automobilherstellers Perodua. Hier werden die Autos der Nation gebaut.",
       hu: "Az autógyártás fontos központja Malajziában, a nemzeti autógyártó, a Perodua otthona. Itt épülnek a nemzet autói.",
@@ -4596,7 +4592,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       hu: "Kertehi Petrolkémiai Komplexum",
       ro: "Complexul Petrochimic Kerteh",
       en: "Kerteh Integrated Petrochemical Complex"},
-    image: "/poi-images/kerteh-petrochemical-complex-energy-economic-v2.webp",
     description: {
       de: "Ein riesiger integrierter Komplex für die Öl- und Gasindustrie in Terengganu, betrieben von Petronas. Das Herz der malaysischen Energiewirtschaft.",
       hu: "Hatalmas integrált komplexum az olaj- és gázipar számára Terengganuban, a Petronas üzemeltetésében. A maláj energiaipar szíve.",
@@ -5265,7 +5260,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       hu: "Pasir Gudang Nehézipari Terület",
       ro: "Zona Industrială Grea Pasir Gudang",
       en: "Pasir Gudang Heavy Industrial Area"},
-    image: "/poi-images/pasir-gudang-heavy-industry-economic-v2.webp",
     description: {
       de: "Ein wichtiges Industriegebiet in Johor, das sich auf Schwerindustrie wie Petrochemie, Palmölverarbeitung und Schiffbau konzentriert. Ein Kraftzentrum der Produktion.",
       hu: "Fontos ipari terület Johorban, amely a nehéziparra, például a petrolkémiára, a pálmaolaj-feldolgozásra és a hajógyártásra összpontosít. A termelés erőműve.",
@@ -5970,7 +5964,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       hu: "Bintulu LNG Komplexum",
       ro: "Complexul GNL Bintulu",
       en: "Bintulu LNG Complex"},
-    image: "/poi-images/bintulu-lng-complex-energy-economic-v2.webp",
     description: {
       de: "Einer der weltweit größten Flüssigerdgas-Produktionskomplexe an einem einzigen Standort. Ein zentrales Element der globalen Energieversorgungskette.",
       hu: "A világ egyik legnagyobb cseppfolyósított földgáz (LNG) termelő komplexuma egyetlen helyen. A globális energiaellátási lánc központi eleme.",
@@ -7395,7 +7388,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       hu: "Penang kikötő",
       ro: "Portul Penang",
       en: "Penang Port"},
-    image: "/poi-images/penang-port-trade-hub-economic-v2.webp",
     description: {
       de: "Der älteste und am längsten etablierte Hafen Malaysias, der die nördliche Region bedient. Ein historischer Handelshafen, der sich zu einem modernen Logistikzentrum entwickelt hat.",
       hu: "Malajzia legrégebbi és leghosszabb ideje működő kikötője, amely az északi régiót szolgálja ki. Történelmi kereskedelmi kikötő, amely modern logisztikai központtá fejlődött.",
@@ -8352,7 +8344,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       hu: "Mamut rézbánya",
       ro: "Mina de Cupru Mamut",
       en: "Mamut Copper Mine"},
-    image: "/poi-images/mamut-copper-mine-mine-economic-v2.webp",
     description: {
       de: "Eine ehemalige große Tagebau-Kupfermine in Sabah, in der Nähe des Kinabalu-Nationalparks. Obwohl heute stillgelegt, hinterließ sie eine dramatische Landschaftsveränderung.",
       hu: "Egy egykori nagy külszíni rézbánya Sabahban, a Kinabalu Nemzeti Park közelében. Bár ma már bezárt, drámai tájváltozást hagyott maga után.",
@@ -9705,7 +9696,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       hu: "Kulim Hi-Tech Park",
       ro: "Parcul Tehnologic Kulim",
       en: "Kulim Hi-Tech Park"},
-    image: "/poi-images/kulim-hitech-park-industry-economic-v2.webp",
     description: {
       de: "Malaysias erster High-Tech-Industriepark, der sich auf technologieintensive Industrien wie Waferfertigung und Medizintechnik konzentriert. Ein Zentrum für Innovation.",
       hu: "Malajzia első csúcstechnológiai ipari parkja, amely az olyan technológiaigényes iparágakra összpontosít, mint a lapkagyártás és az orvostechnikai eszközök. Az innováció központja.",
@@ -10734,7 +10724,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       hu: "KLIA Aeropolis",
       ro: "KLIA Aeropolis",
       en: "KLIA Aeropolis"},
-    image: "/poi-images/klia-aeropolis-trade-hub-economic-v2.webp",
     description: {
       de: "Eine aufstrebende Flughafenstadt, die sich auf Luft- und Raumfahrt, Luftfracht und Logistik konzentriert. Die Zukunft des Handels, zentriert um den internationalen Flughafen Kuala Lumpur.",
       hu: "Egy feltörekvő repülőtéri város, amely a repülésre, a légi teherszállításra és a logisztikára összpontosít. A kereskedelem jövője, amely a Kuala Lumpur-i Nemzetközi Repülőtér köré összpontosul.",
@@ -11403,7 +11392,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       hu: "Bukit Beruntung Ipari Park",
       ro: "Parcul Industrial Bukit Beruntung",
       en: "Bukit Beruntung Industrial Park"},
-    image: "/poi-images/bukit-beruntung-industrial-park-industry-economic-v2.webp",
     description: {
       de: "Ein großer Industriepark in Selangor, der eine Vielzahl von leichten bis mittleren Industrien beherbergt. Ein Mosaik aus Produktion und Handel.",
       hu: "Egy nagy ipari park Selangorban, amely könnyű- és középipari ágazatoknak ad otthont. A termelés és a kereskedelem mozaikja.",
@@ -12828,7 +12816,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       hu: "Manjung erőmű",
       ro: "Centrala Electrică Manjung",
       en: "Manjung Power Plant"},
-    image: "/poi-images/manjung-power-plant-energy-economic-v2.webp",
     description: {
       de: "Eines der größten Kohlekraftwerke Malaysias in Perak. Ein entscheidender Akteur bei der Deckung des Energiebedarfs der Nation, obwohl es Umweltdebatten auslöst.",
       hu: "Malajzia egyik legnagyobb szénerőműve Perakban. Döntő szereplő a nemzet energiaigényének kielégítésében, bár környezetvédelmi vitákat vált ki.",
@@ -13101,7 +13088,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       hu: "Johor kikötő",
       ro: "Portul Johor",
       en: "Johor Port"},
-    image: "/poi-images/johor-port-trade-hub-economic-v2.webp",
     description: {
       de: "Malaysias erster Freihafen in Pasir Gudang, der eine breite Palette von Gütern abwickelt. Ein vielseitiges Tor zur Weltwirtschaft.",
       hu: "Malajzia első szabadkikötője Pasir Gudangban, amely széles körű árukat kezel. Sokoldalú kapu a világgazdasághoz.",
@@ -14562,7 +14548,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       hu: "Sungai Besi bánya",
       ro: "Mina Sungai Besi",
       en: "Sungai Besi Mine"},
-    image: "/poi-images/sungai-besi-mine-mine-economic-v2.webp",
     description: {
       de: "Einst die größte Zinn-Tagebaumine der Welt, ein Überbleibsel aus der Zeit, als Zinn das Rückgrat der malaiischen Wirtschaft war. Heute ist es ein riesiger See.",
       hu: "Egykor a világ legnagyobb külszíni ónbányája, egy maradvány abból a korból, amikor az ón volt a maláj gazdaság gerince. Ma egy hatalmas tó.",
@@ -15195,7 +15180,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       hu: "Gebeng Ipari Terület",
       ro: "Zona Industrială Gebeng",
       en: "Gebeng Industrial Estate"},
-    image: "/poi-images/gebeng-industrial-estate-industry-economic-v2.webp",
     description: {
       de: "Ein petrochemischer und industrieller Knotenpunkt in der Nähe von Kuantan, Pahang. Ein Zentrum für Chemie- und fortschrittliche Materialproduktion.",
       hu: "Petrolkémiai és ipari központ Kuantan közelében, Pahangban. A vegyipar és a fejlett anyagok gyártásának központja.",
@@ -15243,7 +15227,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       hu: "Bakun vízerőmű",
       ro: "Hidrocentrala Bakun",
       en: "Bakun Hydroelectric Dam"},
-    image: "/poi-images/bakun-hydroelectric-dam-energy-economic-v2.webp",
     description: {
       de: "Ein riesiger Staudamm am Balui-Fluss in Sarawak, eines der größten Ingenieurprojekte in Malaysia. Eine massive Quelle erneuerbarer Energie, die Kontroversen auslöste.",
       hu: "Hatalmas gát a Balui folyón Sarawakban, Malajzia egyik legnagyobb mérnöki projektje. A megújuló energia hatalmas forrása, amely vitákat váltott ki.",
@@ -15444,7 +15427,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       hu: "Bukit Ibam bánya",
       ro: "Mina Bukit Ibam",
       en: "Bukit Ibam Mine"},
-    image: "/poi-images/bukit-ibam-mine-mine-economic-v2.webp",
     description: {
       de: "Eine ehemalige Eisenerzmine in Pahang, die in der Mitte des 20. Jahrhunderts eine wichtige Rolle spielte. Ihre Schließung symbolisierte den Wandel in der malaysischen Wirtschaftslandschaft.",
       hu: "Egykori vasércbánya Pahangban, amely a 20. század közepén játszott fontos szerepet. Bezárása a maláj gazdasági táj változását szimbolizálta.",
@@ -16833,7 +16815,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       hu: "Cyberjaya",
       ro: "Cyberjaya",
       en: "Cyberjaya"},
-    image: "/poi-images/cyberjaya-trade-hub-economic-v2.webp",
     description: {
       de: "Eine geplante Stadt mit einem Wissenschaftspark als Kernstück, das das Herz des Multimedia Super Corridor bildet. Malaysias Versuch, eine globale Tech-Metropole zu schaffen.",
       hu: "Egy tervezett város, amelynek központi eleme egy tudományos park, és amely a Multimédiás Szuperfolyosó szívét alkotja. Malajzia kísérlete egy globális technológiai metropolisz létrehozására.",

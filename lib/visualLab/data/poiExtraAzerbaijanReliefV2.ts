@@ -53,7 +53,6 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     parent: "AZ-QUS",
     coords: [47.8580, 41.2216],
     name: { de: "Bazardüzü", hu: "Bazardüzü", ro: "Bazardüzü", en: "Mount Bazarduzu"},
-    image: "/poi-images/bazarduzu-mountain-relief-v2.webp",
     description: {
       de: "Der Bazardüzü ist mit 4466 Metern der höchste Berg in Aserbaidschan und dem östlichen Kaukasus.",
       hu: "A Bazardüzü 4466 méteres magasságával Azerbajdzsán és a Kelet-Kaukázus legmagasabb csúcsa.",
@@ -294,7 +293,6 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     parent: "AZ-QUS",
     coords: [48.3333, 41.0500],
     name: { de: "Babadağ", hu: "Babadağ", ro: "Babadağ", en: "Mount Babadag"},
-    image: "/poi-images/babadag-mountain-relief-v2.webp",
     description: {
       de: "Der Babadağ ist ein 3629 Meter hoher Berg, der oft von Pilgern besucht wird.",
       hu: "A Babadağ egy 3629 méter magas hegy, amelyet gyakran látogatnak zarándokok.",
@@ -383,7 +381,6 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     parent: "AZ-QUS",
     coords: [47.9667, 41.1500],
     name: { de: "Tufandağ", hu: "Tufandağ", ro: "Tufandag", en: "Mount Tufandag"},
-    image: "/poi-images/tufandag-mountain-relief-v2.webp",
     description: {
       de: "Der Tufandağ erreicht eine Höhe von 4191 Metern und ist berühmt für seine raue, stürmische Umgebung.",
       hu: "A 4191 méter magas Tufandağ zord és viharos környezetéről híres.",
@@ -472,7 +469,6 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     parent: "AZ-NX",
     coords: [46.0461, 39.1583],
     name: { de: "Qapıcıq", hu: "Qapıcıq-hegy", ro: "Muntele Qapijiq", en: "Mount Kapudzhukh"},
-    image: "/poi-images/kapudzhukh-mountain-relief-v2.webp",
     description: {
       de: "Der Qapıcıq ist der höchste Berg in der Autonomen Republik Nachitschewan an der Grenze zu Armenien.",
       hu: "A Qapıcıq a Nahicseván Autonóm Köztársaság legmagasabb hegye az örmény határon.",
@@ -516,7 +512,6 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     parent: "AZ-LAN",
     coords: [48.5000, 38.6667],
     name: { de: "Talysch-Gebirge", hu: "Talisk-hegység", ro: "Munții Talîș", en: "Talysh Mountains"},
-    image: "/poi-images/talysh-mountains-relief-v2.webp",
     description: {
       de: "Das Talysch-Gebirge im Südosten Aserbaidschans ist dicht bewaldet und reich an Biodiversität.",
       hu: "A délkelet-azerbajdzsáni Talisk-hegység sűrűn erdősült és gazdag biológiai sokféleséggel rendelkezik.",
@@ -641,7 +636,6 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     parent: "AZ-SAB",
     coords: [48.2500, 39.8333],
     name: { de: "Kura-Aras-Niederung", hu: "Kura-Arax folyóvölgy", ro: "Câmpia Kura-Aras", en: "Kura-Aras Lowland"},
-    image: "/poi-images/kura-aras-lowland-relief-v2.webp",
     description: {
       de: "Die weitläufige Kura-Aras-Niederung bildet das landwirtschaftliche Herz Aserbaidschans.",
       hu: "A kiterjedt Kura-Arax folyóvölgy Azerbajdzsán mezőgazdasági központját képezi.",
@@ -910,7 +904,6 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     parent: "AZ-QOB",
     coords: [49.4000, 40.1000],
     name: { de: "Qobustan-Wüste", hu: "Qobustáni-sivatag", ro: "Deșertul Gobustan", en: "Gobustan Desert"},
-    image: "/poi-images/gobustan-desert-relief-v2.webp",
     description: {
       de: "Die Halbwüste von Qobustan ist durch eine karge, von Schlammvulkanen geprägte Landschaft gekennzeichnet.",
       hu: "A qobustáni félsivatagot kietlen, iszapvulkánokkal tarkított táj jellemzi.",
@@ -1071,7 +1064,6 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     parent: "AZ-ABS",
     coords: [50.1667, 40.4500],
     name: { de: "Abşeron-Halbinsel", hu: "Abşeron-félsziget", ro: "Peninsula Abșeron", en: "Absheron Peninsula"},
-    image: "/poi-images/absheron-peninsula-relief-v2.webp",
     description: {
       de: "Die Abşeron-Halbinsel ragt tief in das Kaspische Meer hinein und ist das wirtschaftliche Zentrum des Landes.",
       hu: "Az Abşeron-félsziget mélyen benyúlik a Kaszpi-tengerbe, és az ország gazdasági központja.",
@@ -1232,7 +1224,6 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     parent: "AZ-KAL",
     coords: [46.1000, 39.6000],
     name: { de: "Karabach-Hochland", hu: "Hegyi-Karabah fennsík", ro: "Podișul Karabah", en: "Karabakh Plateau"},
-    image: "/poi-images/karabakh-plateau-relief-v2.webp",
     description: {
       de: "Das Karabach-Hochland ist eine vulkanische Hochebene mit steilen Schluchten und alpinen Wiesen.",
       hu: "A Hegyi-Karabah fennsík egy vulkanikus fennsík meredek szurdokokkal és havasi rétekkel.",
@@ -1393,7 +1384,6 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     parent: "AZ-GYG",
     coords: [46.3333, 40.3500],
     name: { de: "Kəpəz", hu: "Kəpəz-hegy", ro: "Muntele Kapaz", en: "Mount Kapaz"},
-    image: "/poi-images/mount-kapaz-relief-v2.webp",
     description: {
       de: "Der Kəpəz ist ein markanter Berg, durch dessen massiven Felssturz im 12. Jahrhundert der Göygöl-See entstand.",
       hu: "A Kəpəz egy lenyűgöző hegy, amelynek 12. századi hatalmas sziklaomlása hozta létre a Göygöl-tavat.",
@@ -1437,7 +1427,6 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     parent: "AZ-NX",
     coords: [46.1500, 39.2000],
     name: { de: "Sangesurkamm", hu: "Zangezur-hegység", ro: "Munții Zangezur", en: "Zangezur Mountains"},
-    image: "/poi-images/zangezur-mountains-relief-v2.webp",
     description: {
       de: "Die rauen Sangesurberge bilden eine natürliche Grenze und zeichnen sich durch tiefe Schluchten aus.",
       hu: "A zord Zangezur-hegység természetes határt képez, és mély szurdokok jellemzik.",
@@ -1537,7 +1526,6 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     parent: "AZ-KAL",
     coords: [46.3167, 40.2667],
     name: { de: "Murovdağ", hu: "Murovdağ", ro: "Murovdag", en: "Murovdag"},
-    image: "/poi-images/murovdag-mountain-relief-v2.webp",
     description: {
       de: "Der Murovdağ ist die höchste Gebirgskette des Kleinen Kaukasus in Aserbaidschan.",
       hu: "A Murovdağ a Kis-Kaukázus legmagasabb hegylánca Azerbajdzsánban.",
@@ -1581,7 +1569,6 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     parent: "AZ-YEV",
     coords: [47.1500, 40.6167],
     name: { de: "Kura-Tal", hu: "Kura-völgy", ro: "Valea Kura", en: "Kura Valley"},
-    image: "/poi-images/kura-valley-relief-v2.webp",
     description: {
       de: "Das fruchtbare Tal des Kura-Flusses durchschneidet weite Teile des zentralen Aserbaidschans.",
       hu: "A Kura folyó termékeny völgye Közép-Azerbajdzsán nagy részét szeli át.",
@@ -2102,7 +2089,6 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     parent: "AZ-KUR",
     coords: [48.1667, 40.3333],
     name: { de: "Schirwan-Steppe", hu: "Sirván-sztyeppe", ro: "Stepa Șirvan", en: "Shirvan Steppe"},
-    image: "/poi-images/shirvan-steppe-relief-v2.webp",
     description: {
       de: "Die Schirwan-Steppe ist eine ausgedehnte, flache Halbwüste, die im Sommer extrem heiß wird.",
       hu: "A Sirván-sztyeppe egy kiterjedt, lapos félsivatag, amely nyáron rendkívül forróvá válik.",
@@ -2134,7 +2120,6 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     parent: "AZ-BEY",
     coords: [47.5000, 39.8333],
     name: { de: "Mil-Steppe", hu: "Mil-sztyeppe", ro: "Stepa Mil", en: "Mil Steppe"},
-    image: "/poi-images/mil-steppe-relief-v2.webp",
     description: {
       de: "Die Mil-Steppe liegt südlich des Kura-Flusses und besteht großteils aus kargem Grasland.",
       hu: "A Mil-sztyeppe a Kura folyótól délre fekszik, és nagyrészt kopár füves területekből áll.",
@@ -2178,7 +2163,6 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     parent: "AZ-SAL",
     coords: [48.5000, 39.5000],
     name: { de: "Mughan-Steppe", hu: "Muğan-sztyeppe", ro: "Stepa Mughan", en: "Mughan Steppe"},
-    image: "/poi-images/mughan-steppe-relief-v2.webp",
     description: {
       de: "Die Mughan-Steppe erstreckt sich bis in den Iran und ist heute teilweise bewässertes Agrarland.",
       hu: "A Muğan-sztyeppe egészen Iránig nyúlik, és ma részben öntözött mezőgazdasági terület.",
@@ -2447,7 +2431,6 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     parent: "AZ-SIY",
     coords: [49.2500, 40.9500],
     name: { de: "Beşbarmaq Dağı", hu: "Beşbarmaq-hegy", ro: "Muntele Beșbarmag", en: "Beshbarmag Mountain"},
-    image: "/poi-images/beshbarmag-mountain-relief-v2.webp",
     description: {
       de: "Der mythische Beşbarmaq Dağı, auch Fünf-Finger-Berg genannt, ist ein bedeutendes Wahrzeichen an der Küste.",
       hu: "A mitikus Beşbarmaq-hegy, más néven Ötujjú hegy, jelentős tájékozódási pont a part mentén.",
@@ -3328,7 +3311,6 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     parent: "AZ-XAC",
     coords: [48.6667, 41.7667],
     name: { de: "Küste von Nabran", hu: "Nabran-partvidék", ro: "Coasta Nabran", en: "Nabran Coast"},
-    image: "/poi-images/nabran-coast-relief-v2.webp",
     description: {
       de: "Die Küste von Nabran am Kaspischen Meer ist bekannt für ihre dichten Wälder, die direkt ans Ufer reichen.",
       hu: "A Kaszpi-tenger menti Nabran-partvidék sűrű erdeiről ismert, amelyek egészen a partig érnek.",

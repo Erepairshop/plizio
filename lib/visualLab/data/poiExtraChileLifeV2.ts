@@ -1101,7 +1101,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Chilei Nemzeti Állatkert",
       ro: "Grădina Zoologică Națională din Chile",
       en: "Chilean National Zoo"},
-    image: "/poi-images/cl-zoologico-nacional-life-v2.webp",
     descriptionAdvanced: {
       de: "Der Chilenische Nationalzoo (Zoológico Nacional de Chile) befindet sich am Fuße des Berges San Cristóbal innerhalb des Parque Metropolitano de Santiago, dem größten Stadtpark der Hauptstadt. Er wurde im Dezember 1925 eingeweiht und beherbergt heute über 1.000 Tiere aus rund 150 verschiedenen Arten, sowohl einheimische als auch exotische. Der Zoo spielt eine entscheidende Rolle im Naturschutz, insbesondere durch Zuchtprogramme für gefährdete einheimische Arten wie den Darwin-Frosch, den Andenkondor und das Vicunja. Aufgrund seiner Lage am Hang bietet der Zoo einzigartige vertikale Gehege und spektakuläre Ausblicke auf die Stadt Santiago. Besucher können den Zoo entweder zu Fuß erkunden oder die historische Standseilbahn nutzen, die eine Station am Eingang des Zoos hat. In den letzten Jahren hat sich der Fokus verstärkt auf Bildung und Tierschutz verlagert, um das Bewusstsein für die biologische Vielfalt Chiles zu schärfen. Trotz seiner relativ geringen Fläche von etwa 4,8 Hektar bleibt er eine der meistbesuchten Bildungseinrichtungen des Landes.",
       hu: "A Chilei Nemzeti Állatkert (Zoológico Nacional de Chile) a San Cristóbal-hegy lábánál található, a főváros legnagyobb városi parkján, a Parque Metropolitano de Santiagón belül. 1925 decemberében avatták fel, és ma több mint 1000 állatnak ad otthont, körülbelül 150 különböző fajból, mind őshonos, mind egzotikus egyedekből. Az állatkert döntő szerepet játszik a természetvédelemben, különösen az olyan veszélyeztetett őshonos fajok tenyésztési programjai révén, mint a Darwin-béka, az andoki kondor és a vikunya. Domboldali elhelyezkedése miatt az állatkert egyedülálló függőleges kifutókat és látványos kilátást kínál Santiago városára. A látogatók gyalogosan vagy a történelmi siklóval fedezhetik fel az állatkertet, amelynek egyik megállója az állatkert bejáratánál található. Az elmúlt években a hangsúly egyre inkább az oktatásra és az állatjólétre helyeződött, hogy növeljék a tudatosságot Chile biológiai sokféleségével kapcsolatban. Relatíve kis területe, körülbelül 4,8 hektár ellenére az ország egyik leglátogatottabb oktatási intézménye marad.",
@@ -2392,7 +2391,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Rancagua Szafaripark",
       ro: "Parcul Safari Rancagua",
       en: "Rancagua Safari Park"},
-    image: "/poi-images/cl-parque-safari-rancagua-life-v2.webp",
     description: {
       de: "Ein interaktiver Tierpark, in dem Besucher Safaris in speziellen Fahrzeugen unternehmen können, um Großkatzen und Pflanzenfresser hautnah zu erleben.",
       hu: "Interaktív vadaspark, ahol a látogatók speciális járműveken vehetnek részt szafarikon, és testközelből figyelhetik meg a nagymacskákat és növényevőket.",
@@ -3720,7 +3718,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Fantasilandia",
       ro: "Fantasilandia",
       en: "Fantasilandia"},
-    image: "/poi-images/cl-fantasilandia-life-v2.webp",
     description: {
       de: "Der größte Vergnügungspark in Chile mit zahlreichen Achterbahnen und Familienattraktionen im O'Higgins Park.",
       hu: "Chile legnagyobb vidámparkja számos hullámvasúttal és családi attrakcióval, amely az O'Higgins Parkban található.",
@@ -4904,7 +4901,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Colchagua-völgy",
       ro: "Valea Colchagua",
       en: "Colchagua Valley"},
-    image: "/poi-images/cl-valle-de-colchagua-life-v2.webp",
     description: {
       de: "Eines der bekanntesten Weinbaugebiete Chiles, berühmt für seine erstklassigen Rotweine wie Carménère, Cabernet Sauvignon und Merlot.",
       hu: "Chile egyik legismertebb borvidéke, amely prémium vörösborairól, mint például a Carménère, a Cabernet Sauvignon és a Merlot híres.",
@@ -6088,7 +6084,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Maipo-völgy",
       ro: "Valea Maipo",
       en: "Maipo Valley"},
-    image: "/poi-images/cl-valle-del-maipo-life-v2.webp",
     description: {
       de: "Eine historische Weinregion in der Nähe von Santiago, die oft als das \\\"Bordeaux Südamerikas\\\" bezeichnet wird.",
       hu: "Történelmi borvidék Santiago közelében, amelyet gyakran \\\"Dél-Amerika Bordeaux-jának\\\" is neveznek.",
@@ -6696,7 +6691,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Casablanca-völgy",
       ro: "Valea Casablanca",
       en: "Casablanca Valley"},
-    image: "/poi-images/cl-valle-de-casablanca-life-v2.webp",
     description: {
       de: "Ein Weinbaugebiet an der Küste, das für die Produktion von exzellenten kühleren Weißweinen wie Sauvignon Blanc und Chardonnay bekannt ist.",
       hu: "A partvidéken található borvidék, amely kiváló, hűvösebb éghajlatot kedvelő fehérborok, például Sauvignon Blanc és Chardonnay termeléséről ismert.",
@@ -7232,7 +7226,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Elqui-völgy",
       ro: "Valea Elqui",
       en: "Elqui Valley"},
-    image: "/poi-images/cl-valle-de-elqui-life-v2.webp",
     description: {
       de: "Ein fruchtbares Tal am Rande der Atacama-Wüste, bekannt für Papaya-Plantagen und die Produktion der Trauben für das Nationalgetränk Pisco.",
       hu: "Termékeny völgy az Atacama-sivatag szélén, amely papayaültetvényeiről és a chilei nemzeti ital, a Pisco szőlőjének termesztéséről híres.",
@@ -7945,7 +7938,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Queulat Nemzeti Park",
       ro: "Parcul Național Queulat",
       en: "Queulat National Park"},
-    image: "/poi-images/cl-parque-nacional-queulat-life-v2.webp",
     description: {
       de: "Ein Nationalpark, der für seinen Hängegletscher bekannt ist und dichte, unberührte Regenwälder sowie einen Lebensraum für Pumas und Pudús bietet.",
       hu: "A függőgleccseréről ismert nemzeti park, amely sűrű, érintetlen esőerdőkkel rendelkezik, és pumáknak, valamint puduknak nyújt élőhelyet.",
@@ -8337,7 +8329,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Humboldt-pingvin Nemzeti Rezervátum",
       ro: "Rezervația Națională Pinguinul Humboldt",
       en: "Humboldt Penguin National Reserve"},
-    image: "/poi-images/cl-reserva-pinguino-de-humboldt-life-v2.webp",
     description: {
       de: "Ein wichtiges Meeresschutzgebiet, das sich über mehrere Inseln erstreckt und eine der größten Kolonien von Humboldt-Pinguinen schützt.",
       hu: "Fontos tengeri védett terület, amely több szigetre is kiterjed, és a Humboldt-pingvinek egyik legnagyobb kolóniáját védi.",
@@ -8621,7 +8612,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Pan de Azúcar Nemzeti Park",
       ro: "Parcul Național Pan de Azúcar",
       en: "Pan de Azúcar National Park"},
-    image: "/poi-images/cl-parque-nacional-pan-de-azucar-life-v2.webp",
     description: {
       de: "Ein Küstenpark in der Atacama-Wüste, wo der Küstennebel (Camanchaca) eine einzigartige Flora und Fauna am Rande des Pazifiks ermöglicht.",
       hu: "Part menti park az Atacama-sivatagban, ahol a parti köd (camanchaca) egyedülálló növény- és állatvilágot tesz lehetővé a Csendes-óceán partján.",
@@ -9229,7 +9219,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Conguillío Nemzeti Park",
       ro: "Parcul Național Conguillío",
       en: "Conguillío National Park"},
-    image: "/poi-images/cl-parque-nacional-conguillio-life-v2.webp",
     description: {
       de: "Bekannt für seine Araukarienwälder (Monkey Puzzle Trees) und den aktiven Vulkan Llaima, bietet dieser Park Lebensraum für zahlreiche Bergtiere.",
       hu: "Az araukáriaerdőkről és az aktív Llaima vulkánról ismert park számos hegyi állatnak ad otthont.",
@@ -9657,7 +9646,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Vicente Pérez Rosales Nemzeti Park",
       ro: "Parcul Național Vicente Pérez Rosales",
       en: "Vicente Pérez Rosales National Park"},
-    image: "/poi-images/cl-parque-nacional-vicente-perez-rosales-life-v2.webp",
     description: {
       de: "Der älteste Nationalpark Chiles, der tiefe Wälder, die Petrohué-Wasserfälle und ein reiches Ökosystem für Pumas und kleine Beuteltiere umfasst.",
       hu: "Chile legrégebbi nemzeti parkja, amely mély erdőket, a Petrohué-vízeséseket és pumák, valamint kis erszényesek gazdag ökoszisztémáját foglalja magában.",
@@ -9833,7 +9821,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Laguna del Laja Nemzeti Park",
       ro: "Parcul Național Laguna del Laja",
       en: "Laguna del Laja National Park"},
-    image: "/poi-images/cl-parque-nacional-laguna-del-laja-life-v2.webp",
     description: {
       de: "Eine vulkanische und bergige Landschaft in der Region Biobío, die als wichtiger Zufluchtsort für Andenkondore, Füchse und Pumas dient.",
       hu: "Vulkanikus és hegyvidéki táj a Biobío régióban, amely fontos menedéket nyújt az andoki kondorkeselyűknek, rókáknak és pumáknak.",
@@ -10333,7 +10320,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Radal Siete Tazas Nemzeti Park",
       ro: "Parcul Național Radal Siete Tazas",
       en: "Radal Siete Tazas National Park"},
-    image: "/poi-images/cl-parque-nacional-radal-siete-tazas-life-v2.webp",
     description: {
       de: "Berühmt für seine sieben aufeinanderfolgenden natürlichen Wasserbecken, bietet der Park Schutz für viele bedrohte Vogel- und Säugetierarten.",
       hu: "Hét egymást követő természetes vizű medencéjéről híres park, amely számos veszélyeztetett madár- és emlősfajnak nyújt védelmet.",
@@ -10617,7 +10603,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Alerce Andino Nemzeti Park",
       ro: "Parcul Național Alerce Andino",
       en: "Alerce Andino National Park"},
-    image: "/poi-images/cl-parque-nacional-alerce-andino-life-v2.webp",
     description: {
       de: "Teil des Biosphärenreservats der temperierten Regenwälder, wichtig für den Schutz der jahrtausendealten Patagonischen Zypresse (Alerce).",
       hu: "A mérsékelt övi esőerdők bioszféra-rezervátumának része, amely fontos a több ezer éves patagóniai ciprus (Alerce) védelme szempontjából.",
@@ -10676,7 +10661,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Bernardo O'Higgins Nemzeti Park",
       ro: "Parcul Național Bernardo O'Higgins",
       en: "Bernardo O'Higgins National Park"},
-    image: "/poi-images/cl-parque-nacional-bernardo-ohiggins-life-v2.webp",
     description: {
       de: "Der größte Nationalpark in Chile, geprägt von Fjorden, Gletschern und Kanälen, der Huemul-Hirsche und Südliche See-Elefanten schützt.",
       hu: "Chile legnagyobb nemzeti parkja fjordokkal, gleccserekkel és csatornákkal, amely huemul szarvasokat és déli elefántfókákat véd.",
@@ -10735,7 +10719,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Alberto de Agostini Nemzeti Park",
       ro: "Parcul Național Alberto de Agostini",
       en: "Alberto de Agostini National Park"},
-    image: "/poi-images/cl-parque-nacional-alberto-de-agostini-life-v2.webp",
     description: {
       de: "Ein Biosphärenreservat am Ende der Welt in Feuerland, das die tiefen Fjorde der Darwin-Kordillere und zahlreiche marine Tierarten schützt.",
       hu: "Bioszféra-rezervátum a világ végén Tűzföldön, amely a Darwin-kordillera mély fjordjait és számos tengeri állatfajt véd.",
@@ -11451,7 +11434,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Huilo Huilo Biológiai Rezervátum",
       ro: "Rezervația Biologică Huilo Huilo",
       en: "Huilo Huilo Biological Reserve"},
-    image: "/poi-images/cl-reserva-biologica-huilo-huilo-life-v2.webp",
     description: {
       de: "Ein privates Naturschutzgebiet mitten im patagonischen Wald, das sich der Erhaltung endemischer und stark gefährdeter Arten wie dem Huemul widmet.",
       hu: "Magán természetvédelmi terület a patagóniai erdő közepén, amely az endemikus és kritikusan veszélyeztetett fajok, például a huemul szarvas megőrzésének szenteli magát.",
@@ -12671,7 +12653,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Yerba Loca Természetvédelmi Terület",
       ro: "Sanctuarul Naturii Yerba Loca",
       en: "Yerba Loca Nature Sanctuary"},
-    image: "/poi-images/cl-santuario-yerba-loca-life-v2.webp",
     description: {
       de: "Ein Schutzgebiet in den Anden nahe Santiago, das Kondoren, Füchsen und anderen Bergtieren einen wichtigen Lebensraum in großer Höhe bietet.",
       hu: "Santiago közelében, az Andokban található védett terület, amely nagy magasságban fontos élőhelyet biztosít a kondorkeselyűknek, rókáknak és más hegyi állatoknak.",
@@ -13423,7 +13404,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Limarí-völgy",
       ro: "Valea Limarí",
       en: "Limarí Valley"},
-    image: "/poi-images/cl-valle-del-limari-life-v2.webp",
     description: {
       de: "Ein fruchtbares Flusstal im semiariden Norden Chiles, das als 'Grüner Norden' bekannt ist und für den Anbau von Avocados, Trauben und Papayas geschätzt wird.",
       hu: "Termékeny folyóvölgy Chile félszáraz északi részén, amely 'Zöld Észak' néven ismert, és avokádó, szőlő és papaya termesztése miatt becsülik.",
@@ -13923,7 +13903,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Cachapoal-völgy",
       ro: "Valea Cachapoal",
       en: "Cachapoal Valley"},
-    image: "/poi-images/cl-valle-del-cachapoal-life-v2.webp",
     description: {
       de: "Ein windgeschütztes landwirtschaftliches Tal, das Teil der Rapel-Region ist und für hervorragende Rotweine und die reiche Obstproduktion steht.",
       hu: "Széltől védett mezőgazdasági völgy, amely a Rapel régió része, kiváló vörösborairól és gazdag gyümölcstermesztéséről ismert.",
@@ -14855,7 +14834,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Aconcagua-völgy",
       ro: "Valea Aconcagua",
       en: "Aconcagua Valley"},
-    image: "/poi-images/cl-valle-de-aconcagua-life-v2.webp",
     description: {
       de: "Ein sonniges Tal am Fuß der Anden, das vom Schmelzwasser des Aconcagua bewässert wird und neben Wein auch hervorragendes Tafelobst produziert.",
       hu: "Napos völgy az Andok lábánál, amelyet az Aconcagua olvadékvize öntöz, és a bor mellett kiváló asztali gyümölcsöt is termel.",
@@ -15031,7 +15009,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Los Flamencos Nemzeti Rezervátum",
       ro: "Rezervația Națională Los Flamencos",
       en: "Los Flamencos National Reserve"},
-    image: "/poi-images/cl-reserva-nacional-los-flamencos-life-v2.webp",
     description: {
       de: "Ein Naturschutzgebiet im Atacama-Salzseebecken, das die fragilen Brutstätten für drei verschiedene Flamingo-Arten schützt.",
       hu: "Természetvédelmi terület az Atacama sós medencéjében, amely három különböző flamingófaj törékeny költőhelyeit védi.",
@@ -15243,7 +15220,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "A Pingvinek Természeti Emlékműve",
       ro: "Monumentul Natural Pinguinii",
       en: "Los Pingüinos Natural Monument"},
-    image: "/poi-images/cl-monumento-natural-los-pinguinos-life-v2.webp",
     description: {
       de: "Ein wichtiges Schutzgebiet auf der Insel Magdalena im Süden Chiles, das als Brutstätte für mehr als 60.000 Magellan-Pinguine dient.",
       hu: "Fontos védett terület a dél-chilei Magdalena-szigeten, amely több mint 60 000 Magellán-pingvin költőhelyeként szolgál.",
@@ -16607,7 +16583,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "KidZania Santiago",
       ro: "KidZania Santiago",
       en: "KidZania Santiago"},
-    image: "/poi-images/cl-kidzania-santiago-life-v2.webp",
     description: {
       de: "Ein interaktiver Unterhaltungs- und Bildungspark, der wie eine echte Stadt im Kleinformat aufgebaut ist und Kindern ermöglicht, Berufe auszuprobieren.",
       hu: "Interaktív szórakoztató- és oktatópark, amely egy valódi miniatűr városként épült fel, és lehetővé teszi a gyerekek számára a szakmák kipróbálását.",
@@ -17863,7 +17838,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Mirador Interaktív Múzeum",
       ro: "Muzeul Interactiv Mirador",
       en: "Mirador Interactive Museum"},
-    image: "/poi-images/cl-museo-interactivo-mirador-life-v2.webp",
     description: {
       de: "Das größte Wissenschaftsmuseum Chiles mit hunderten von interaktiven Modulen, die es Familien ermöglichen, Physik und Technologie spielerisch zu entdecken.",
       hu: "Chile legnagyobb tudományos múzeuma több száz interaktív modullal, amelyek lehetővé teszik a családok számára a fizika és a technológia játékos felfedezését.",
@@ -18759,7 +18733,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Lonquéni Oktatófarm",
       ro: "Ferma Educațională din Lonquén",
       en: "Educational Farm of Lonquén"},
-    image: "/poi-images/cl-granja-educativa-de-lonquen-life-v2.webp",
     description: {
       de: "Ein pädagogischer Bauernhof in der Nähe von Santiago, der Stadtkindern den Kontakt zu Nutztieren und die ländliche Kultur Chiles näherbringt.",
       hu: "Egy oktatási célú farm Santiago közelében, amely a városi gyerekeket megismerteti a haszonállatokkal és a chilei vidéki kultúrával.",
@@ -18863,7 +18836,6 @@ export const poiExtraChileLifeV2: POI[] = [
       hu: "Hornopirén Nemzeti Park",
       ro: "Parcul Național Hornopirén",
       en: "Hornopirén National Park"},
-    image: "/poi-images/cl-parque-nacional-hornopiren-life-v2.webp",
     description: {
       de: "Ein raues Naturparadies in den Anden mit dichten Alerce-Wäldern und Gletschertälern, das eine Heimat für Pumas, Füchse und seltene Vogelarten bietet.",
       hu: "Zord természeti paradicsom az Andokban sűrű alerce erdőkkel és gleccservölgyekkel, amely pumáknak, rókáknak és ritka madárfajoknak ad otthont.",

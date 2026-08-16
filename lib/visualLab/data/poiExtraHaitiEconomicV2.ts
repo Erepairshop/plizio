@@ -8,7 +8,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-OU",
     coords: [-72.335, 18.539],
     name: { de: "Seehafen Port-au-Prince", hu: "Port-au-Prince-i kikötő", ro: "Portul Port-au-Prince", en: "Port of Port-au-Prince"},
-    image: "/poi-images/port-au-prince-port-economic-v2.webp",
     description: { de: "Hauptumschlagplatz für Haitis Importe und Exporte.", hu: "Haiti legfontosabb import- és exportkikötője.", ro: "Principalul port de import și export al Haitului.", en: "The main import and export terminal for Haiti." , es: "Centro logístico principal para las importaciones y exportaciones de Haití.", pt: "Principal centro de movimentação das importações e exportações do Haiti.", fr: "Principal centre de transit pour les importations et exportations d'Haïti."},
     facts: {
       de: ["Größter Hafen des Landes", "Zentrum für Containerumschlag"],
@@ -48,7 +47,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-NO",
     coords: [-72.204, 19.761],
     name: { de: "Seehafen Cap-Haïtien", hu: "Cap-Haïtien-i kikötő", ro: "Portul Cap-Haïtien", en: "Port of Cap-Haïtien"},
-    image: "/poi-images/cap-haitien-port-economic-v2.webp",
     description: { de: "Wichtiger Hafen im Norden für den regionalen Handel.", hu: "Fontos északi kikötő a regionális kereskedelem számára.", ro: "Port important în nord pentru comerțul regional.", en: "Key northern port serving regional trade." , es: "Puerto importante en el norte para el comercio regional.", pt: "Porto importante no norte para o comércio regional.", fr: "Port important dans le nord pour le commerce régional."},
     facts: {
       de: ["Versorgt den Norden", "Wichtiger Umschlagplatz"],
@@ -88,7 +86,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-NE",
     coords: [-72.000, 19.680],
     name: { de: "Caracol Industriepark", hu: "Caracol Ipari Park", ro: "Parcul Industrial Caracol", en: "Caracol Industrial Park"},
-    image: "/poi-images/caracol-industrial-park-economic-v2.webp",
     description: { de: "Großes Industrieareal für Textilherstellung.", hu: "Nagy ipari terület textilgyártáshoz.", ro: "Mare zonă industrială pentru producția textilă.", en: "Major industrial park focused on garment manufacturing." , es: "Gran área industrial para la fabricación de textiles.", pt: "Grande área industrial para o fabrico de têxteis.", fr: "Grande zone industrielle pour la fabrication textile."},
     facts: {
       de: ["Beschäftigt tausende Arbeiter", "Exportorientierte Zone"],
@@ -128,7 +125,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-NI",
     coords: [-73.088, 18.448],
     name: { de: "Hafen Miragoâne", hu: "Miragoâne-i kikötő", ro: "Portul Miragoâne", en: "Port of Miragoâne"},
-    image: "/poi-images/miragoane-port-economic-v2.webp",
     description: { de: "Hafen für den Export von Bodenschätzen.", hu: "Kikötő az ásványkincsek exportjához.", ro: "Port pentru exportul resurselor minerale.", en: "Port facility used for mineral exports." , es: "Puerto para la exportación de recursos minerales.", pt: "Porto para a exportação de recursos minerais.", fr: "Port pour l'exportation de ressources minérales."},
     facts: {
       de: ["Bauxit-Verschiffung", "Wichtig für die Region"],
@@ -168,7 +164,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-AR",
     coords: [-72.680, 19.112],
     name: { de: "Hafen Saint-Marc", hu: "Saint-Marc-i kikötő", ro: "Portul Saint-Marc", en: "Port of Saint-Marc"},
-    image: "/poi-images/saint-marc-port-economic-v2.webp",
     description: { de: "Regionaler Hafen für den Küstenhandel.", hu: "Regionális kikötő a partmenti kereskedelemhez.", ro: "Port regional pentru comerțul de coastă.", en: "Regional port supporting coastal trade." , es: "Puerto regional para el comercio costero.", pt: "Porto regional para o comércio costeiro.", fr: "Port régional pour le commerce côtier."},
     facts: {
       de: ["Hauptsächlich landwirtschaftliche Güter", "Regionaler Umschlag"],
@@ -208,7 +203,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-GA",
     coords: [-74.116, 18.641],
     name: { de: "Hafen Jérémie", hu: "Jérémie-i kikötő", ro: "Portul Jérémie", en: "Port of Jérémie"},
-    image: "/poi-images/jeremie-port-economic-v2.webp",
     description: { de: "Wichtiger Verbindungspunkt für die Grand'Anse Region.", hu: "Fontos összekötő pont Grand'Anse régió számára.", ro: "Punct important de legătură pentru regiunea Grand'Anse.", en: "Critical link for the Grand'Anse region." , es: "Punto de conexión importante para la región de Grand'Anse.", pt: "Ponto de ligação importante para a região de Grand'Anse.", fr: "Point de connexion important pour la région de la Grand'Anse."},
     facts: {
       de: ["Wichtig für isolierte Gebiete", "Lokaler Handel"],
@@ -320,7 +314,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-NE",
     coords: [-71.838, 19.664],
     name: { de: "Hafen Fort-Liberté", hu: "Fort-Liberté-i kikötő", ro: "Portul Fort-Liberté", en: "Port of Fort-Liberté"},
-    image: "/poi-images/fort-liberte-port-economic-v2.webp",
     description: { de: "Historischer Hafen im Nordosten.", hu: "Történelmi kikötő északkeleten.", ro: "Port istoric în nord-est.", en: "Historic port in the northeast." , es: "Puerto histórico en el noreste.", pt: "Porto histórico no nordeste.", fr: "Port historique dans le nord-est."},
     facts: {
       de: ["Natürlicher Tiefwasserhafen", "Wachsender Handel"],
@@ -360,7 +353,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-OU",
     coords: [-73.051, 18.847],
     name: { de: "Hafen La Gonâve", hu: "La Gonâve-i kikötő", ro: "Portul La Gonâve", en: "Port of La Gonâve"},
-    image: "/poi-images/la-gonave-port-economic-v2.webp",
     description: { de: "Verbindungshafen zur Insel La Gonâve.", hu: "Összekötő kikötő La Gonâve szigetéhez.", ro: "Port de legătură către insula La Gonâve.", en: "Connecting port to the island of La Gonâve." , es: "Puerto de conexión con la isla de La Gonâve.", pt: "Porto de ligação com a ilha de La Gonâve.", fr: "Port de liaison vers l'île de la Gonâve."},
     facts: {
       de: ["Versorgung der Inselbewohner", "Lokaler Fischereihafen"],
@@ -400,7 +392,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-OU",
     coords: [-72.316, 18.571],
     name: { de: "Cité Soleil Industriegebiet", hu: "Cité Soleil ipari övezet", ro: "Zona industrială Cité Soleil", en: "Cité Soleil Industrial Zone"},
-    image: "/poi-images/cite-soleil-manufacturing-economic-v2.webp",
     description: { de: "Industriegebiet am Rande der Hauptstadt.", hu: "Ipari terület a főváros szélén.", ro: "Zonă industrială la marginea capitalei.", en: "Industrial area on the outskirts of the capital." , es: "Zona industrial en la periferia de la capital.", pt: "Zona industrial na periferia da capital.", fr: "Zone industrielle en périphérie de la capitale."},
     facts: {
       de: ["Leichtindustrie", "Produktion für lokale Märkte"],
@@ -440,7 +431,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-AR",
     coords: [-72.686, 19.450],
     name: { de: "Gonaïves Industrie", hu: "Gonaïves ipar", ro: "Industria Gonaïves", en: "Gonaïves Industry"},
-    image: "/poi-images/gonaives-industry-economic-v2.webp",
     description: { de: "Zentrum für Salzgewinnung und Verarbeitung.", hu: "Sóbányászat és feldolgozás központja.", ro: "Centru pentru extracția și procesarea sării.", en: "Center for salt extraction and processing." , es: "Centro de extracción y procesamiento de sal.", pt: "Centro de extração e processamento de sal.", fr: "Centre d'extraction et de transformation du sel."},
     facts: {
       de: ["Große Salzsalinen", "Regionale industrielle Basis"],
@@ -480,7 +470,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-OU",
     coords: [-72.100, 18.650],
     name: { de: "Thomazeau Agrarindustrie", hu: "Thomazeau agráripar", ro: "Agroindustrie Thomazeau", en: "Thomazeau Agro-industry"},
-    image: "/poi-images/thomazeau-agri-industry-economic-v2.webp",
     description: { de: "Verarbeitungszentrum für landwirtschaftliche Produkte.", hu: "Mezőgazdasági termékek feldolgozó központja.", ro: "Centru de procesare pentru produse agricole.", en: "Processing hub for agricultural products." , es: "Centro de procesamiento para productos agrícolas.", pt: "Centro de processamento de produtos agrícolas.", fr: "Centre de transformation des produits agricoles."},
     facts: {
       de: ["Verarbeitung von Früchten", "Lokale Beschäftigung"],
@@ -520,7 +509,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-NO",
     coords: [-72.210, 19.600],
     name: { de: "Milot Bauindustrie", hu: "Milot építőipar", ro: "Industria construcțiilor Milot", en: "Milot Construction Industry"},
-    image: "/poi-images/milot-industry-economic-v2.webp",
     description: { de: "Zentrum für die Restaurierung und Baustoffe.", hu: "Restaurálási és építőanyag központ.", ro: "Centru pentru restaurare și materiale de construcție.", en: "Restoration and construction materials center." , es: "Centro de restauración y materiales de construcción.", pt: "Centro de restauração e materiais de construção.", fr: "Centre de restauration et de matériaux de construction."},
     facts: {
       de: ["Handwerkliche Fertigung", "Wichtig für historische Stätten"],
@@ -560,7 +548,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-CE",
     coords: [-72.106, 18.823],
     name: { de: "Mirebalais Energiezentrum", hu: "Mirebalais energiaközpont", ro: "Centru energetic Mirebalais", en: "Mirebalais Energy Center"},
-    image: "/poi-images/mirebalais-energy-economic-v2.webp",
     description: { de: "Wichtiger Standort für Energieinfrastruktur.", hu: "Fontos energia-infrastruktúra helyszín.", ro: "Locație importantă pentru infrastructura energetică.", en: "Important site for energy infrastructure." , es: "Ubicación importante para la infraestructura energética.", pt: "Localização importante para a infraestrutura energética.", fr: "Site important pour l'infrastructure énergétique."},
     facts: {
       de: ["Netzknotenpunkt", "Versorgung des Artibonite-Tals"],
@@ -600,7 +587,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-SU",
     coords: [-73.750, 18.200],
     name: { de: "Les Cayes Industrie", hu: "Les Cayes ipar", ro: "Industria Les Cayes", en: "Les Cayes Industry"},
-    image: "/poi-images/les-cayes-manufacturing-economic-v2.webp",
     description: { de: "Fertigungszentrum für Konsumgüter.", hu: "Fogyasztási cikkek gyártó központja.", ro: "Centru de producție pentru bunuri de larg consum.", en: "Manufacturing hub for consumer goods." , es: "Centro de fabricación de bienes de consumo.", pt: "Centro de fabricação de bens de consumo.", fr: "Centre de fabrication de biens de consommation."},
     facts: {
       de: ["Verarbeitung lokaler Rohstoffe", "Regionales Handelszentrum"],
@@ -676,7 +662,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-OU",
     coords: [-72.285, 18.511],
     name: { de: "Pétion-Ville Handelszentrum", hu: "Pétion-Ville kereskedelmi központ", ro: "Centru comercial Pétion-Ville", en: "Pétion-Ville Commercial Hub"},
-    image: "/poi-images/petion-ville-commerce-economic-v2.webp",
     description: { de: "Zentrum für Dienstleistungen und modernen Handel.", hu: "Szolgáltatások és modern kereskedelem központja.", ro: "Centru pentru servicii și comerț modern.", en: "Center for services and modern trade." , es: "Centro de servicios y comercio moderno.", pt: "Centro de serviços e comércio moderno.", fr: "Centre de services et de commerce moderne."},
     facts: {
       de: ["Finanzdienstleistungen", "Einzelhandel"],
@@ -716,7 +701,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-AR",
     coords: [-72.300, 19.350],
     name: { de: "Saint-Michel Agrar", hu: "Saint-Michel agrár", ro: "Agro Saint-Michel", en: "Saint-Michel Agro"},
-    image: "/poi-images/saint-michel-agri-economic-v2.webp",
     description: { de: "Zentrum für Zuckerrohrverarbeitung.", hu: "Cukornád-feldolgozó központ.", ro: "Centru de procesare a trestiei de zahăr.", en: "Center for sugarcane processing." , es: "Centro de procesamiento de caña de azúcar.", pt: "Centro de processamento de cana-de-açúcar.", fr: "Centre de transformation de la canne à sucre."},
     facts: {
       de: ["Zuckerproduktion", "Lokale Genossenschaften"],
@@ -756,7 +740,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-NO",
     coords: [-72.130, 19.650],
     name: { de: "Limonade Bildungs- und Industriepark", hu: "Limonade Oktatási és Ipari Park", ro: "Parcul educațional și industrial Limonade", en: "Limonade Educational and Industrial Park"},
-    image: "/poi-images/limonade-tech-economic-v2.webp",
     description: { de: "Campus für Agrartechnologie und Ausbildung.", hu: "Agrártechnológiai és képzési campus.", ro: "Campus pentru tehnologie agricolă și formare.", en: "Campus for agricultural technology and training." , es: "Campus de tecnología agrícola y formación.", pt: "Campus de tecnologia agrícola e formação.", fr: "Campus de technologie agricole et de formation."},
     facts: {
       de: ["Moderne Landwirtschaft", "Forschungszentrum"],
@@ -796,7 +779,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-SE",
     coords: [-72.533, 18.232],
     name: { de: "Hafen Jacmel", hu: "Jacmel-i kikötő", ro: "Portul Jacmel", en: "Port of Jacmel"},
-    image: "/poi-images/jacmel-port-economic-v2.webp",
     description: { de: "Kultur- und Hafenstadt.", hu: "Kulturális és kikötőváros.", ro: "Oraș cultural și portuar.", en: "Cultural and port city." , es: "Ciudad cultural y portuaria.", pt: "Cidade cultural e portuária.", fr: "Ville culturelle et portuaire."},
     facts: {
       de: ["Tourismus-Infrastruktur", "Kleiner Küstenhandel"],
@@ -836,7 +818,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-OU",
     coords: [-73.125, 18.835],
     name: { de: "Hafen Anse-à-Galets", hu: "Anse-à-Galets-i kikötő", ro: "Portul Anse-à-Galets", en: "Port of Anse-à-Galets"},
-    image: "/poi-images/anse-a-galets-port-economic-v2.webp",
     description: { de: "Hauptzugangspunkt zur Insel Gonâve.", hu: "Fő belépési pont Gonâve szigetére.", ro: "Principalul punct de acces pe insula Gonâve.", en: "Main entry point to the island of Gonâve." , es: "Punto de acceso principal a la isla de Gonâve.", pt: "Ponto de acesso principal à ilha de Gonâve.", fr: "Principal point d'accès à l'île de la Gonâve."},
     facts: {
       de: ["Versorgungsschnittstelle", "Regionaler Umschlag"],
@@ -876,7 +857,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-NO",
     coords: [-72.400, 19.780],
     name: { de: "Port-Margot Fischerei", hu: "Port-Margot halászat", ro: "Pescuit Port-Margot", en: "Port-Margot Fishing Industry"},
-    image: "/poi-images/port-margot-fishing-economic-v2.webp",
     description: { de: "Zentrum der lokalen Fischereiindustrie.", hu: "A helyi halászipar központja.", ro: "Centrul industriei locale de pescuit.", en: "Center of the local fishing industry." , es: "Centro de la industria pesquera local.", pt: "Centro da indústria pesqueira local.", fr: "Centre de l'industrie de la pêche locale."},
     facts: {
       de: ["Fischverarbeitung", "Versorgung der Nordküste"],
@@ -916,7 +896,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-NI",
     coords: [-73.080, 18.450],
     name: { de: "Miragoâne Industrie", hu: "Miragoâne ipar", ro: "Industria Miragoâne", en: "Miragoâne Industry"},
-    image: "/poi-images/miragoane-industrial-zone-economic-v2.webp",
     description: { de: "Industriegebiet zur Verarbeitung lokaler Ressourcen.", hu: "Ipari terület helyi nyersanyagok feldolgozására.", ro: "Zonă industrială pentru procesarea resurselor locale.", en: "Industrial area for processing local resources." , es: "Zona industrial para el procesamiento de recursos locales.", pt: "Zona industrial para o processamento de recursos locais.", fr: "Zone industrielle pour la transformation des ressources locales."},
     facts: {
       de: ["Baustoffverarbeitung", "Logistik"],
@@ -956,7 +935,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-OU",
     coords: [-72.380, 18.530],
     name: { de: "Carrefour Handelszone", hu: "Carrefour kereskedelmi zóna", ro: "Zonă comercială Carrefour", en: "Carrefour Commercial Zone"},
-    image: "/poi-images/carrefour-commerce-economic-v2.webp",
     description: { de: "Großes Handels- und Dienstleistungsgebiet.", hu: "Nagy kereskedelmi és szolgáltatási terület.", ro: "Mare zonă comercială și de servicii.", en: "Large commercial and service area." , es: "Gran área comercial y de servicios.", pt: "Grande área comercial e de serviços.", fr: "Grande zone commerciale et de services."},
     facts: {
       de: ["Wichtiger Dienstleistungsknoten", "Regionale Beschäftigung"],
@@ -996,7 +974,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-OU",
     coords: [-72.855, 18.435],
     name: { de: "Hafen Petit-Goâve", hu: "Petit-Goâve-i kikötő", ro: "Portul Petit-Goâve", en: "Port of Petit-Goâve"},
-    image: "/poi-images/petit-goave-port-economic-v2.webp",
     description: { de: "Regionaler Hafen an der Südküste.", hu: "Regionális kikötő a déli parton.", ro: "Port regional pe coasta de sud.", en: "Regional port on the south coast." , es: "Puerto regional en la costa sur.", pt: "Porto regional na costa sul.", fr: "Port régional sur la côte sud."},
     facts: {
       de: ["Agrarhandel", "Versorgung der lokalen Gemeinden"],
@@ -1036,7 +1013,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-SU",
     coords: [-73.550, 18.270],
     name: { de: "Hafen Saint-Louis-du-Sud", hu: "Saint-Louis-du-Sud-i kikötő", ro: "Portul Saint-Louis-du-Sud", en: "Port of Saint-Louis-du-Sud"},
-    image: "/poi-images/saint-louis-du-sud-port-economic-v2.webp",
     description: { de: "Kleiner Hafen für den regionalen Handel.", hu: "Kis kikötő a regionális kereskedelemhez.", ro: "Port mic pentru comerțul regional.", en: "Small port for regional trade." , es: "Pequeño puerto para el comercio regional.", pt: "Pequeno porto para o comércio regional.", fr: "Petit port pour le commerce régional."},
     facts: {
       de: ["Fischereistützpunkt", "Lokaler Güterumschlag"],
@@ -1076,7 +1052,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-SE",
     coords: [-72.750, 18.150],
     name: { de: "Bainet Fischerei", hu: "Bainet halászat", ro: "Pescuit Bainet", en: "Bainet Fishing Industry"},
-    image: "/poi-images/bainet-fishing-economic-v2.webp",
     description: { de: "Lokaler Knotenpunkt der Fischereiwirtschaft.", hu: "A halászat helyi csomópontja.", ro: "Nod local al industriei pescuitului.", en: "Local hub for the fishing industry." , es: "Nodo local de la industria pesquera.", pt: "Nó local da indústria pesqueira.", fr: "Carrefour local de l'économie de la pêche."},
     facts: {
       de: ["Fang und Verarbeitung", "Lokaler Markt"],
@@ -1116,7 +1091,6 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     parent: "HT-SU",
     coords: [-74.150, 18.150],
     name: { de: "Les Anglais Fischerei", hu: "Les Anglais halászat", ro: "Pescuit Les Anglais", en: "Les Anglais Fishing Industry"},
-    image: "/poi-images/les-anglais-fishing-economic-v2.webp",
     description: { de: "Kleiner Fischereihafen an der Westküste.", hu: "Kis halászkikötő a nyugati parton.", ro: "Port pescăresc mic pe coasta de vest.", en: "Small fishing port on the west coast." , es: "Pequeño puerto pesquero en la costa oeste.", pt: "Pequeno porto de pesca na costa oeste.", fr: "Petit port de pêche sur la côte ouest."},
     facts: {
       de: ["Traditioneller Fischfang", "Regionale Versorgung"],

@@ -93,7 +93,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Mogadishu Kikötő",
       ro: "Portul Mogadishu",
       en: "Mogadishu Port"},
-    image: "/poi-images/mogadishu-port-economic-v2.webp",
     description: {
       de: "Der größte Seehafen Somalias und ein entscheidendes Wirtschaftszentrum für den internationalen Handel am Indischen Ozean.",
       hu: "Szomália legnagyobb tengeri kikötője, amely kulcsfontosságú gazdasági központ a nemzetközi kereskedelemben az Indiai-óceánon.",
@@ -222,7 +221,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Berbera Kikötő",
       ro: "Portul Berbera",
       en: "Berbera Port"},
-    image: "/poi-images/berbera-port-economic-v2.webp",
     description: {
       de: "Ein wichtiger Tiefseehafen am Golf von Aden, der als strategisches Tor für den Seehandel am Horn von Afrika dient.",
       hu: "Fontos mélyvízi kikötő az Ádeni-öbölben, amely stratégiai kapuként szolgál a tengeri kereskedelem számára Afrika szarván.",
@@ -387,7 +385,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Kismayo Kikötő",
       ro: "Portul Kismayo",
       en: "Kismayo Port"},
-    image: "/poi-images/kismayo-port-economic-v2.webp",
     description: {
       de: "Bedeutender Handelshafen im Süden Somalias, der historisch eine große Rolle beim Export von landwirtschaftlichen Produkten spielte.",
       hu: "Jelentős kereskedelmi kikötő Szomália déli részén, amely történelmileg fontos szerepet játszott a mezőgazdasági termékek exportjában.",
@@ -435,7 +432,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Bosaso Kikötő",
       ro: "Portul Bosaso",
       en: "Bosaso Port"},
-    image: "/poi-images/bosaso-port-economic-v2.webp",
     description: {
       de: "Ein wichtiges wirtschaftliches Zentrum in der Region Puntland, das stark vom Seehandel und der Fischereiindustrie profitiert.",
       hu: "Fontos gazdasági központ Puntland régiójában, amely erősen profitál a tengeri kereskedelemből és a halászatból.",
@@ -483,7 +479,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Garacad Mélyvízi Kikötő",
       ro: "Portul de mare adâncime Garacad",
       en: "Garacad Deep Sea Port"},
-    image: "/poi-images/garacad-port-economic-v2.webp",
     description: {
       de: "Ein moderner Tiefseehafen, der zur Förderung des Seehandels und der wirtschaftlichen Entwicklung in Zentral-Somalia errichtet wurde.",
       hu: "Modern mélyvízi kikötő, amelyet a tengeri kereskedelem és Közép-Szomália gazdasági fejlődésének elősegítésére építettek.",
@@ -531,7 +526,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Hobyo Kikötő",
       ro: "Portul Hobyo",
       en: "Hobyo Port"},
-    image: "/poi-images/hobyo-port-economic-v2.webp",
     description: {
       de: "Historischer und aufstrebender Handelshafen an der Küste von Mudug, der für zukünftige Entwicklungen im Seehandel vorgesehen ist.",
       hu: "Történelmi és feltörekvő kereskedelmi kikötő Mudug partjainál, amelyet a tengeri kereskedelem jövőbeni fejlesztésére szánnak.",
@@ -579,7 +573,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Eyl Kikötő",
       ro: "Portul Eyl",
       en: "Eyl Port"},
-    image: "/poi-images/eyl-port-economic-v2.webp",
     description: {
       de: "Ein Fischerei- und kleiner Handelshafen in Nugaal, der traditionell von lokalen Gemeinschaften für die Küstenwirtschaft genutzt wird.",
       hu: "Egy halászati és kisebb kereskedelmi kikötő Nugaalban, amelyet hagyományosan a helyi közösségek használnak a part menti gazdaságban.",
@@ -849,7 +842,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Berbera Cementgyár",
       ro: "Fabrica de Ciment Berbera",
       en: "Berbera Cement Plant"},
-    image: "/poi-images/berbera-cement-economic-v2.webp",
     description: {
       de: "Eine industrielle Anlage zur Herstellung von Zement, die Baumaterialien für den Inlandsverbrauch und regionale Exportmärkte liefert.",
       hu: "Cementgyártásra szolgáló ipari létesítmény, amely építőanyagokat szállít a belföldi fogyasztásra és a regionális exportpiacokra.",
@@ -897,7 +889,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Las Khorey Halgyár",
       ro: "Fabrica de Pește Las Khorey",
       en: "Las Khorey Tuna Factory"},
-    image: "/poi-images/las-khorey-tuna-economic-v2.webp",
     description: {
       de: "Eine etablierte Fabrik, die sich auf die Verarbeitung und Konservierung von Thunfisch spezialisiert hat, um die marinen Ressourcen zu nutzen.",
       hu: "Egy jól bevált gyár, amely a tonhal feldolgozására és konzerválására szakosodott a tengeri erőforrások hasznosítása érdekében.",
@@ -945,7 +936,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Hafun Sógyár",
       ro: "Fabrica de Sare Hafun",
       en: "Hafun Salt Factory"},
-    image: "/poi-images/hafun-salt-economic-v2.webp",
     description: {
       de: "Eine historische industrielle Einrichtung zur Gewinnung und Verarbeitung von Meersalz an der Küste, mit enormem wirtschaftlichen Potenzial.",
       hu: "Történelmi ipari létesítmény a tengeri só kinyerésére és feldolgozására a parton, hatalmas gazdasági potenciállal.",
@@ -993,7 +983,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Juba Cukorgyár",
       ro: "Fabrica de Zahăr Juba",
       en: "Juba Sugar Estate"},
-    image: "/poi-images/juba-sugar-economic-v2.webp",
     description: {
       de: "Eine großflächige landwirtschaftliche und industrielle Anlage im Jubba-Tal zur Produktion und Raffination von Zucker.",
       hu: "Nagyszabású mezőgazdasági és ipari létesítmény a Jubba-völgyben cukortermelésre és finomításra.",
@@ -1041,7 +1030,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Habo Tonhalgyár",
       ro: "Fabrica de Ton Habo",
       en: "Habo Tuna Factory"},
-    image: "/poi-images/habo-tuna-economic-v2.webp",
     description: {
       de: "Eine Fabrik in der Region Bari, die sich auf die Verpackung von Meeresfrüchten und insbesondere Thunfisch für den Export konzentriert.",
       hu: "A Bari régióban található gyár, amely tenger gyümölcseire, különösen a tonhal exportra történő csomagolására összpontosít.",
@@ -1089,7 +1077,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Qandala Halászat",
       ro: "Procesarea Peștelui Qandala",
       en: "Qandala Fish Processing"},
-    image: "/poi-images/qandala-fish-economic-v2.webp",
     description: {
       de: "Ein maritimes Verarbeitungszentrum an der Küste, das die reiche Artenvielfalt im Meer nutzt, um Konserven für den Handel herzustellen.",
       hu: "Egy tengeri feldolgozó központ a parton, amely a tenger gazdag biodiverzitását használja fel a konzervgyártáshoz a kereskedelem számára.",
@@ -1137,7 +1124,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Bosaso Cserzőüzem",
       ro: "Tăbăcăria Bosaso",
       en: "Bosaso Tannery"},
-    image: "/poi-images/bosaso-tannery-economic-v2.webp",
     description: {
       de: "Eine Anlage zur Lederherstellung, die rohe Tierhäute aus dem großen somalischen Viehbestand für Lederwaren verarbeitet.",
       hu: "Bőrgyártó létesítmény, amely a nagy szomáliai állatállomány nyers állati bőreit dolgozza fel bőrárukhoz.",
@@ -1662,7 +1648,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Burao Cserzőüzem",
       ro: "Tăbăcăria Burao",
       en: "Burao Tannery"},
-    image: "/poi-images/burao-tannery-economic-v2.webp",
     description: {
       de: "Ein wichtiges Verarbeitungszentrum für Lederwaren, da Burao ein zentraler Umschlagplatz für Somalilands Viehhandel ist.",
       hu: "Fontos feldolgozó központ a bőráruk számára, mivel Burao a szomáliföldi állatkereskedelem központi tranzitállomása.",
@@ -1710,7 +1695,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Balcad Textilgyár",
       ro: "Fabrica de Textile Balcad",
       en: "Balcad Textile Factory"},
-    image: "/poi-images/balcad-textile-economic-v2.webp",
     description: {
       de: "Eine historische Produktionsstätte, die einst Baumwolle verarbeitete und Kleidung herstellte, mit Bemühungen zur Wiederbelebung des Sektors.",
       hu: "Történelmi gyártóüzem, amely egykor gyapotot dolgozott fel és ruházatot gyártott, az ágazat újjáélesztésére irányuló erőfeszítésekkel.",
@@ -1952,7 +1936,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Garowe Palackozó Üzem",
       ro: "Instalație de Îmbuteliere Garowe",
       en: "Garowe Bottling Plant"},
-    image: "/poi-images/garowe-bottling-economic-v2.webp",
     description: {
       de: "Eine industrielle Anlage, die Säfte und andere abgefüllte Getränke herstellt, um die städtische Bevölkerung in Puntland zu versorgen.",
       hu: "Ipari létesítmény, amely gyümölcsleveket és más palackozott italokat állít elő a városi lakosság ellátására Puntlandban.",
@@ -2045,7 +2028,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Mogadishu Műanyaggyár",
       ro: "Fabrica de Mase Plastice Mogadishu",
       en: "Mogadishu Plastics Factory"},
-    image: "/poi-images/mogadishu-plastics-economic-v2.webp",
     description: {
       de: "Ein Unternehmen, das Kunststoffrohre, Tanks und Haushaltswaren herstellt, die für den Wiederaufbau der Infrastruktur unerlässlich sind.",
       hu: "Műanyag csöveket, tartályokat és háztartási cikkeket gyártó vállalat, amelyek elengedhetetlenek az infrastruktúra újjáépítéséhez.",
@@ -3002,7 +2984,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Hargeisa Malom",
       ro: "Moara Hargeisa",
       en: "Hargeisa Flour Mill"},
-    image: "/poi-images/hargeisa-flour-economic-v2.webp",
     description: {
       de: "Eine große Mühlenanlage, die importierten Weizen zu Mehl verarbeitet, um die Ernährungssicherheit der Region zu unterstützen.",
       hu: "Nagy malomüzem, amely importált búzát dolgoz fel lisztté a régió élelmezésbiztonságának támogatása érdekében.",
@@ -3167,7 +3148,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Berbera Olajterminál",
       ro: "Terminalul Petrolier Berbera",
       en: "Berbera Oil Terminal"},
-    image: "/poi-images/berbera-oil-terminal-economic-v2.webp",
     description: {
       de: "Ein spezialisierter Hafenteil für den Import und die Lagerung von Erdölprodukten, der den Kraftstoffbedarf von Somaliland deckt.",
       hu: "A kikötő egy speciális része kőolajtermékek behozatalára és tárolására, amely lefedi Szomáliföld üzemanyagszükségletét.",
@@ -3215,7 +3195,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Bosaso Olajterminál",
       ro: "Terminalul Petrolier Bosaso",
       en: "Bosaso Oil Terminal"},
-    image: "/poi-images/bosaso-oil-terminal-economic-v2.webp",
     description: {
       de: "Wichtige maritime Infrastruktur zur Lagerung und Verteilung von Treibstoffen für den Binnenmarkt von Puntland und darüber hinaus.",
       hu: "Fontos tengeri infrastruktúra az üzemanyagok tárolására és elosztására Puntland belső piacán és azon túl.",
@@ -3308,7 +3287,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Maydh Kikötő",
       ro: "Portul Maydh",
       en: "Maydh Port"},
-    image: "/poi-images/maydh-port-economic-v2.webp",
     description: {
       de: "Ein alter Küstenhafen mit modernen Erweiterungen zur Förderung der Fischerei und des lokalen Seehandels in der Sanaag-Region.",
       hu: "Régi tengerparti kikötő modern bővítésekkel, amelyek célja a halászat és a helyi tengeri kereskedelem előmozdítása a Sanaag régióban.",
@@ -3401,7 +3379,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Mogadishu Szappangyár",
       ro: "Fabrica de Săpun Mogadishu",
       en: "Mogadishu Soap Factory"},
-    image: "/poi-images/mogadishu-soap-economic-v2.webp",
     description: {
       de: "Ein Betrieb für Konsumgüter, der Waschmittel und Seifen für den täglichen Bedarf der wachsenden städtischen Bevölkerung herstellt.",
       hu: "Fogyasztási cikkeket gyártó üzem, amely mosószereket és szappanokat állít elő a növekvő városi lakosság napi szükségleteinek kielégítésére.",
@@ -3566,7 +3543,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: "Eyl Halfeldolgozó",
       ro: "Procesarea Peștelui Eyl",
       en: "Eyl Fish Processing"},
-    image: "/poi-images/eyl-fish-processing-economic-v2.webp",
     description: {
       de: "Ein Küstenwerk, das den frischen Fang lokaler Fischer verarbeitet, um Fischereierzeugnisse haltbar zu machen und zu vermarkten.",
       hu: "Part menti üzem, amely feldolgozza a helyi halászok friss fogását, hogy a halászati termékek tartósítva legyenek és forgalmazhatók maradjanak.",

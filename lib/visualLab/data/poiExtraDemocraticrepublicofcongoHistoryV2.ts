@@ -12,7 +12,6 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
       hu: "Diogo Cão sziklája",
       ro: "Stânca lui Diogo Cão",
       en: "Rock of Diogo Cão"},
-    image: "/poi-images/rock-of-diogo-cao-history-v2.webp",
     description: {
       de: "Ein historischer Kalksteinfelsen bei Matadi, in den der portugiesische Seefahrer Diogo Cão 1485 Inschriften ritzte, um seine Ankunft zu markieren.",
       hu: "Egy történelmi mészkőszikla Matadi közelében, amelybe Diogo Cão portugál tengerész 1485-ben feliratokat vésett, megjelölve érkezését.",
@@ -60,7 +59,6 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
       hu: "Kisantu-székesegyház",
       ro: "Catedrala din Kisantu",
       en: "Kisantu Cathedral"},
-    image: "/poi-images/kisantu-cathedral-history-v2.webp",
     description: {
       de: "Die Kathedrale Notre-Dame des Sept Douleurs in Kisantu ist eine beeindruckende Backsteinkirche im neoromanischen Stil, die zwischen 1926 und 1936 erbaut wurde.",
       hu: "A kisantui Notre-Dame des Sept Douleurs katedrális egy lenyűgöző neoromán stílusú téglaépület, amely 1926 és 1936 között épült.",
@@ -108,7 +106,6 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
       hu: "Yangambi kutatóállomás",
       ro: "Stația de cercetare Yangambi",
       en: "Yangambi Research Station"},
-    image: "/poi-images/yangambi-research-station-history-v2.webp",
     description: {
       de: "In der Kolonialzeit war Yangambi das Zentrum des Instituts für Agronomie in Belgisch-Kongo und besaß die größte tropische Agrarbibliothek der Welt.",
       hu: "A gyarmati időkben Yangambi volt a Belga Kongó Agronómiai Intézetének központja, és itt volt a világ legnagyobb trópusi mezőgazdasági könyvtára.",
@@ -156,7 +153,6 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
       hu: "Palais de la Nation",
       ro: "Palais de la Nation",
       en: "Palais de la Nation"},
-    image: "/poi-images/palais-de-la-nation-history-v2.webp",
     description: {
       de: "Der Palais de la Nation in Kinshasa ist der Ort, an dem 1960 die Unabhängigkeit des Kongo von Belgien offiziell proklamiert wurde.",
       hu: "A kinshasai Palais de la Nation az a hely, ahol 1960-ban hivatalosan kikiáltották Kongó függetlenségét Belgiumtól.",
@@ -204,7 +200,6 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
       hu: "Upoto misszió (Lisala)",
       ro: "Misiunea Upoto (Lisala)",
       en: "Upoto Mission (Lisala)"},
-    image: "/poi-images/upoto-mission-history-v2.webp",
     description: {
       de: "Die Upoto-Mission wurde 1890 von baptistischen Missionaren am Kongo-Fluss gegründet und war eine der ersten christlichen Stationen im Norden.",
       hu: "Az Upoto missziót 1890-ben alapították baptista misszionáriusok a Kongó folyó mentén, és ez volt az egyik első keresztény állomás északon.",
@@ -297,7 +292,6 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
       hu: "Szent Péter és Pál-székesegyház",
       ro: "Catedrala Sf. Petru și Pavel",
       en: "Cathedral of St. Peter and Paul"},
-    image: "/poi-images/st-peter-paul-cathedral-history-v2.webp",
     description: {
       de: "Die Kathedrale in Lubumbashi, erbaut in den 1920er Jahren, ist ein bedeutendes religiöses und architektonisches Erbe der Kolonialstadt Elizabethville.",
       hu: "A lubumbashi székesegyház, amely az 1920-as években épült, Elizabethville gyarmati város jelentős vallási és építészeti öröksége.",
@@ -345,7 +339,6 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
       hu: "Leverville (Lusanga)",
       ro: "Leverville (Lusanga)",
       en: "Leverville (Lusanga)"},
-    image: "/poi-images/leverville-lusanga-history-v2.webp",
     description: {
       de: "Gegründet 1911 von Lord Leverhulme, war Leverville das Herz der Palmölproduktion der Huileries du Congo Belge, Vorläufer von Unilever.",
       hu: "A Lord Leverhulme által 1911-ben alapított Leverville volt a Huileries du Congo Belge, az Unilever elődjének pálmaolaj-termelési központja.",
@@ -393,7 +386,6 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
       hu: "Aketi vasútállomás",
       ro: "Gara din Aketi",
       en: "Aketi Railway Station"},
-    image: "/poi-images/aketi-railway-station-history-v2.webp",
     description: {
       de: "Aketi war der westliche Endpunkt der Vicicongo-Schmalspurbahn, die in der Kolonialzeit für den Export landwirtschaftlicher Güter aus dem Norden wichtig war.",
       hu: "Aketi volt a Vicicongo keskeny nyomtávú vasút nyugati végállomása, amely a gyarmati időkben fontos volt az északi mezőgazdasági áruk exportjához.",
@@ -534,7 +526,6 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
       hu: "Kilo-Moto aranybányák",
       ro: "Minele de aur Kilo-Moto",
       en: "Kilo-Moto Gold Mines"},
-    image: "/poi-images/kilo-moto-mines-history-v2.webp",
     description: {
       de: "Die Kilo-Moto-Minen im Nordosten waren während der Kolonialzeit die produktivsten Goldminen des Landes und formten die Wirtschaft der Ituri-Region.",
       hu: "Az északkeleti Kilo-Moto bányák a gyarmati időszakban az ország legtermékenyebb aranybányái voltak, és meghatározták Ituri régió gazdaságát.",
@@ -582,7 +573,6 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
       hu: "Történelmi Costermansville",
       ro: "Costermansville Istoric",
       en: "Historical Costermansville"},
-    image: "/poi-images/costermansville-bukavu-history-v2.webp",
     description: {
       de: "Gegründet als Ruzizi und später nach Gouverneur Costermans benannt, war Bukavu ein mondäner Erholungsort mit europäischem Flair am Kivusee.",
       hu: "Ruzizi néven alapították, majd Costermans kormányzóról nevezték el; Bukavu divatos üdülőhely volt európai hangulattal a Kivu-tó partján.",
@@ -630,7 +620,6 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
       hu: "Buta-székesegyház",
       ro: "Catedrala din Buta",
       en: "Cathedral of Buta"},
-    image: "/poi-images/buta-cathedral-history-v2.webp",
     description: {
       de: "Die Kathedrale in Buta ist ein monumentales Beispiel kirchlicher Architektur im Norden des Kongo, erbaut während der belgischen Missionsbestrebungen.",
       hu: "A butai székesegyház az egyházi építészet monumentális példája Észak-Kongóban, amely a belga missziós törekvések idején épült.",
@@ -678,7 +667,6 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
       hu: "Manono történelmi ónbányái",
       ro: "Minele de staniu istorice din Manono",
       en: "Historical Manono Tin Mines"},
-    image: "/poi-images/manono-mines-history-v2.webp",
     description: {
       de: "Manono war ein wichtiges Zentrum für den Abbau von Zinnerzen (Kassiterit) und ist heute für seine riesigen Lithiumvorkommen bekannt.",
       hu: "Manono az ónércek (kassziterit) bányászatának fontos központja volt, ma pedig hatalmas lítiumkészleteiről ismert.",
@@ -726,7 +714,6 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
       hu: "Idiofa (1964-es lázadás helyszíne)",
       ro: "Idiofa (Locul rebeliunii din 1964)",
       en: "Idiofa (1964 Rebellion Site)"},
-    image: "/poi-images/idiofa-rebellion-site-history-v2.webp",
     description: {
       de: "Idiofa war eines der Hauptzentren der Kwilu-Rebellion unter Pierre Mulele in den 1960er Jahren, die gegen die Zentralregierung gerichtet war.",
       hu: "Idiofa volt az egyik fő központja az 1960-as évek Pierre Mulele vezette Kwilu-lázadásának, amely a központi kormány ellen irányult.",
@@ -867,7 +854,6 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
       hu: "Kabambare szuahéli poszt",
       ro: "Postul Swahili Kabambare",
       en: "Kabambare Swahili Post"},
-    image: "/poi-images/kabambare-swahili-post-history-v2.webp",
     description: {
       de: "Kabambare war ein bedeutender Handelsaußenposten der Swahili-Araber im Maniema-Distrikt, der als Bindeglied zwischen Nyangwe und dem Tanganjikasee diente.",
       hu: "Kabambare a szuahéli-arabok jelentős kereskedelmi előretolt helyőrsége volt Maniema körzetben, amely összekötő kapocsként szolgált Nyangwe és a Tanganyika-tó között.",
@@ -915,7 +901,6 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
       hu: "Basoko történelmi erődje",
       ro: "Fortul Istoric Basoko",
       en: "Historical Basoko Fort"},
-    image: "/poi-images/basoko-historical-fort-history-v2.webp",
     description: {
       de: "Basoko am Zusammenfluss von Kongo und Aruwimi war ein wichtiger Militär- und Handelsposten des Kongo-Freistaates gegen arabische Händler.",
       hu: "A Kongó és az Aruwimi összefolyásánál fekvő Basoko a Kongói Szabadállam fontos katonai és kereskedelmi állomása volt az arab kereskedőkkel szemben.",
@@ -963,7 +948,6 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
       hu: "Gbadolite (Mobutu palotája)",
       ro: "Gbadolite (Palatul lui Mobutu)",
       en: "Gbadolite (Mobutu's Palace)"},
-    image: "/poi-images/gbadolite-palace-history-v2.webp",
     description: {
       de: "Gbadolite, bekannt als 'Versailles im Dschungel', war die luxuriöse Residenz von Mobutu Sese Seko, die heute eine verfallene Ruine ist.",
       hu: "A 'dzsungel Versailles-aként' ismert Gbadolite Mobutu Sese Seko luxusrezidenciája volt, amely ma már csak egy romos épület.",
@@ -1011,7 +995,6 @@ export const poiExtraDemocraticrepublicofcongoHistoryV2: POI[] = [
       hu: "Történelmi Kongolo-híd",
       ro: "Podul Istoric Kongolo",
       en: "Historical Kongolo Bridge"},
-    image: "/poi-images/kongolo-bridge-history-v2.webp",
     description: {
       de: "Die Kongolo-Brücke über den Lualaba-Fluss ist ein bedeutendes Ingenieurbauwerk aus der späten Kolonialzeit, das Schienen- und Straßenverkehr verbindet.",
       hu: "A Lualaba folyó feletti Kongolo-híd a késő gyarmati korszak jelentős mérnöki építménye, amely vasúti és közúti forgalmat köt össze.",

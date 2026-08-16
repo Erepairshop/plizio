@@ -220,7 +220,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["Porto principal para a exportação de camarão gigante da Guiana.", "Localizado estrategicamente na foz do rio Caiena.", "Dispõe de modernas câmaras frigoríficas e instalações de processamento.", "Modernização significativa dos cais nos anos 2010-2015.", "Oferece emprego direto a centenas de pescadores e trabalhadores.", "Sujeito às regulamentações de pesca da União Europeia."],
       fr: ["Port principal pour l'exportation des crevettes géantes de Guyane.", "Situé stratégiquement à l'embouchure de la rivière de Cayenne.", "Dispose de chambres froides modernes et d'installations de transformation.", "Modernisation importante des quais entre 2010 et 2015.", "Offre des emplois directs à des centaines de marins-pêcheurs et ouvriers.", "Soumis aux réglementations de pêche de l'Union européenne."],
     }, },
-    image: "/poi-images/gf-port-larivot-economic-v2.webp",
     description: {
       de: "Einer der wichtigsten Fischereihäfen von Französisch-Guayana, spezialisiert auf den Garnelenfang.",
       hu: "Francia Guyana egyik legfontosabb halászkikötője, amely a garnélarák-halászatra specializálódott.",
@@ -387,7 +386,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["Porto principal para a movimentação de peças de foguetões Ariane.", "Foi inaugurado em 1965 no âmbito do projeto espacial.", "Especializado na receção de navios Ro-Ro vindos da Europa.", "Acolhe um importante terminal de importação de petróleo para Kourou.", "Ligação direta ao Centro Espacial da Guiana (CSG).", "Pode receber navios com um calado de até 6 metros."],
       fr: ["Port principal pour le transbordement des éléments de fusées Ariane.", "Ouvert en 1965 dans le cadre du projet spatial.", "Spécialisé dans l'accueil des navires rouliers (Ro-Ro) en provenance d'Europe.", "Héberge un terminal d'importation pétrolier important pour Kourou.", "Liaison directe avec le Centre Spatial Guyanais (CSG).", "Peut accueillir des navires ayant un tirant d'eau allant jusqu'à 6 mètres."],
     }, },
-    image: "/poi-images/gf-port-pariacabo-economic-v2.webp",
     description: {
       de: "Der Hafen von Kourou, der hauptsächlich für den Transport von Raketenbauteilen für das Raumfahrtzentrum genutzt wird.",
       hu: "Kourou kikötője, amelyet elsősorban az űrközpont rakétaalkatrészeinek szállítására használnak.",
@@ -734,7 +732,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["Acolhe empresas para a manutenção da infraestrutura Ariane.", "Localização estratégica entre o porto e o centro espacial.", "Local mais importante para a produção de gás industrial na Guiana.", "Sede de várias empresas de logística para transporte pesado.", "Contribui significativamente para o valor acrescentado industrial de Kourou.", "Dispõe de instalações especializadas para armazenamento de mercadorias perigosas."],
       fr: ["Abrite des entreprises de maintenance des infrastructures Ariane.", "Idéalement située entre le port et la base spatiale.", "Principal site de production de gaz industriels en Guyane.", "Siège de plusieurs entreprises de logistique et de transport lourd.", "Contribue de manière significative à la valeur ajoutée industrielle de Kourou.", "Dispose d'installations spécialisées pour le stockage de matières dangereuses."],
     }, },
-    image: "/poi-images/gf-zi-pariacabo-economic-v2.webp",
     description: {
       de: "Ein wichtiges Industriegebiet in Kourou, das viele Zuliefererbetriebe des nahegelegenen Raumfahrtzentrums beherbergt.",
       hu: "Fontos ipari terület Kourou-ban, amely a közeli űrközpont számos beszállítójának ad otthont.",
@@ -1297,7 +1294,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["A maior zona comercial da Guiana Francesa.", "Sede dos principais hipermercados da capital.", "Localizada no cruzamento das estradas nacionais RN1 e RN2.", "Localização central para o setor automóvel do território.", "Dispõe de centros logísticos modernos para o comércio a retalho.", "Importante centro de emprego para a população local."],
       fr: ["Plus grande zone commerciale de Guyane française.", "Accueille les principaux hypermarchés de la capitale.", "Située au croisement des routes nationales RN1 et RN2.", "Emplacement central pour le secteur automobile du territoire.", "Dispose de centres logistiques modernes pour la grande distribution.", "Pôle d'emploi majeur pour la population locale."],
     }, },
-    image: "/poi-images/gf-zi-collery-economic-v2.webp",
     description: {
       de: "Das größte Gewerbegebiet der Hauptstadt Cayenne, das Handel, Logistik und Leichtindustrie konzentriert.",
       hu: "A főváros, Cayenne legnagyobb kereskedelmi és ipari területe, ahol a kereskedelem, logisztika és könnyűipar összpontosul.",
@@ -1572,7 +1568,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["Substituiu o antigo porto de Caiena em 1969.", "Gere quase todo o comércio marítimo do território.", "Situado na foz estratégica do rio Mahury.", "Acolhe uma grande central termoelétrica para o fornecimento de energia.", "Dispõe de terminais especializados para contentores e petróleo.", "Trabalhos de dragagem constantes garantem o canal para cargueiros."],
       fr: ["A remplacé l'ancien port de Cayenne en 1969.", "Traite la quasi-totalité du commerce maritime du territoire.", "Situé à l'embouchure stratégique du fleuve Mahury.", "Abrite une importante centrale thermique pour l'alimentation électrique.", "Dispose de terminaux spécialisés pour les conteneurs et les hydrocarbures.", "Des dragages permanents sécurisent le chenal pour les cargos."],
     }, },
-    image: "/poi-images/gf-zi-degrad-cannes-economic-v2.webp",
     description: {
       de: "Eine bedeutende Industriezone in Remire-Montjoly, direkt neben dem wichtigsten Handelshafen des Landes gelegen.",
       hu: "Jelentős ipari zóna Remire-Montjolyban, közvetlenül az ország legfontosabb kereskedelmi kikötője mellett.",
@@ -1667,7 +1662,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["O porto interior mais importante na fronteira com o Suriname.", "Especializado na exportação de toros de madeira tropical.", "Situa-se a cerca de 15 quilómetros para o interior a partir da foz do rio.", "Ponto central para o tráfego de ferry para Albina (Suriname).", "Apoia o abastecimento das comunidades isoladas no curso superior.", "A profundidade da água varia significativamente dependendo do nível da maré."],
       fr: ["Principal port intérieur à la frontière avec le Suriname.", "Spécialisé dans l'exportation de bois tropicaux en grumes.", "Situé à environ 15 kilomètres en amont de l'embouchure du fleuve.", "Point central pour le trafic de bac vers Albina (Suriname).", "Soutient l'approvisionnement des communes isolées du haut fleuve.", "La profondeur d'eau varie fortement selon le coefficient de marée."],
     }, },
-    image: "/poi-images/gf-port-saint-laurent-economic-v2.webp",
     description: {
       de: "Ein wichtiger Flusshafen am Maroni, der den Grenzhandel mit Suriname und den Zugang zum Landesinneren erleichtert.",
       hu: "Fontos folyami kikötő a Maroni folyón, amely megkönnyíti a Suriname-mal folytatott határmenti kereskedelmet és a belföldi hozzáférést.",
@@ -1870,7 +1864,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["Processa principalmente a madeira de Angélique, extremamente durável.", "O empregador industrial mais importante no oeste da Guiana.", "Sob a monitorização rigorosa do Office National des Forêts.", "Utiliza o rio Maroni para o transporte ecológico de toros.", "Produz madeira certificada para o mercado europeu.", "Os resíduos de madeira são cada vez mais utilizados para a produção de energia a partir de biomassa."],
       fr: ["Transforme principalement l'Angélique, un bois extrêmement durable.", "Principal employeur industriel de l'ouest guyanais.", "Sous la surveillance étroite de l'Office National des Forêts.", "Utilise le fleuve Maroni pour le transport écologique des bois en grumes.", "Produit du bois certifié pour le marché européen.", "Les déchets de bois sont de plus en plus valorisés en biomasse énergie."],
     }, },
-    image: "/poi-images/gf-sawmills-saint-laurent-economic-v2.webp",
     description: {
       de: "Mehrere große Sägewerke in Saint-Laurent-du-Maroni verarbeiten tropische Edelhölzer aus den umliegenden Wäldern.",
       hu: "Számos nagy fűrészüzem Saint-Laurent-du-Maroniban a környező erdőkből származó trópusi keményfát dolgoz fel.",
@@ -1920,7 +1913,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["Reservas de ouro estimadas em 85 toneladas em 2017", "Localização a 125 km ao sul de Saint-Laurent-du-Maroni", "Área de mineração planejada de cerca de 800 hectares", "Área da concessão abrange um total de 2.500 hectares", "Interrupção do projeto pelo governo em 2019", "Teor de ouro estimado em 1,5 gramas por tonelada"],
       fr: ["Réserves d'or estimées à 85 tonnes en 2017", "Situé à 125 km au sud de Saint-Laurent-du-Maroni", "Surface d'exploitation prévue d'environ 800 hectares", "La zone de concession couvre un total de 2 500 hectares", "Arrêt du projet par le gouvernement en 2019", "Teneur en minerai estimée à 1,5 gramme par tonne"],
     }, },
-    image: "/poi-images/gf-montagne-dor-economic-v2.webp",
     description: {
       de: "Ein umstrittenes industrielles Goldbergbauprojekt im Westen von Französisch-Guayana, das erhebliche wirtschaftliche, aber auch ökologische Auswirkungen hätte.",
       hu: "Vitatott ipari aranybányászati projekt Francia Guyana nyugati részén, amely jelentős gazdasági, de ökológiai hatásokkal is járna.",
@@ -1970,7 +1962,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["Jazidas de ouro estimadas em mais de 60 toneladas", "Localização no Escudo das Guianas paleoproterozoico, rico em minerais", "Exploração realizada pela Nordgold e Columbus Gold", "Área de mineração estende-se por vários quilômetros de comprimento", "Combinação de rocha primária e depósitos aluviais", "Regulamentações ambientais rigorosas para proteger a floresta tropical"],
       fr: ["Réserves d'or estimées à plus de 60 tonnes", "Située dans le bouclier guyanais paléoprotérozoïque riche en minéraux", "Exploration menée par Nordgold et Columbus Gold", "La zone d'exploitation s'étend sur plusieurs kilomètres de long", "Combinaison de roche primaire et de gisements alluvionnaires", "Normes environnementales strictes pour la protection de la forêt tropicale"],
     }, },
-    image: "/poi-images/gf-mine-esperance-economic-v2.webp",
     description: {
       de: "Ein großes Goldbergbaugebiet in der Nähe von Apatou, das einen wichtigen Teil zur legalen Goldproduktion des Territoriums beiträgt.",
       hu: "Egy nagy aranybányászati terület Apatou közelében, amely fontos részét képezi a terület legális aranytermelésének.",
@@ -2065,7 +2056,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["Localizada no município isolado de Saint-Élie", "Operada pela empresa de mineração Auplata", "Tradição que remonta à corrida do ouro do século XIX", "Uso de cianetação para extração de ouro desde 2015", "Mineração combinada de veios de quartzo e ouro aluvial", "Acessível através de uma pista de 13 quilômetros pela floresta"],
       fr: ["Située sur la commune isolée de Saint-Élie", "Exploitée par la société minière Auplata", "Tradition remontant à la ruée vers l'or du XIXe siècle", "Utilisation de la cyanuration pour l'extraction de l'or depuis 2015", "Exploitation combinée de filons de quartz et d'or alluvionnaire", "Accessible via une piste de 13 kilomètres à travers la forêt"],
     }, },
-    image: "/poi-images/gf-mine-dieu-merci-economic-v2.webp",
     description: {
       de: "Ein historisches und immer noch aktives Goldbergbaugebiet im Sektor Saint-Élie, typisch für die guayanische Bergbauindustrie.",
       hu: "Történelmi és még mindig aktív aranybányászati terület a Saint-Élie szektorban, amely jellemző a guyanai bányászatra.",
@@ -2115,7 +2105,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["Localização perto da fronteira com o Suriname em Maripasoula", "Parte do cinturão de rochas verdes Maroni-Itany, rico em minerais", "O principal operador é a empresa francesa Auplata", "Dependência da logística fluvial no rio Maroni", "Jazidas de ouro em zonas de cisalhamento geológico complexas", "Exploração através de perfurações até grandes profundidades"],
       fr: ["Située près de la frontière avec le Suriname à Maripasoula", "Fait partie de la ceinture de roches vertes Maroni-Itany riche en minéraux", "L'exploitant principal est la société française Auplata", "Dépendance vis-à-vis de la logistique fluviale sur le Maroni", "Gisements d'or dans des zones de cisaillement géologique complexes", "Exploration par forages jusqu'à de grandes profondeurs"],
     }, },
-    image: "/poi-images/gf-mine-yaou-economic-v2.webp",
     description: {
       de: "Eine bedeutende Goldlagerstätte im Südwesten von Französisch-Guayana in der Nähe von Maripasoula, einer Bergbauhochburg.",
       hu: "Jelentős aranylelőhely Francia Guyana délnyugati részén, Maripasoula, a bányászati fellegvár közelében.",
@@ -2165,7 +2154,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["Área de mineração histórica da década de 1950", "Localização cerca de 40 km ao sul de Maripasoula", "Exploração pela Reeve Resources (grupo Auplata)", "Ocorrência na bacia do rio Petit Inini", "Ouro ligado a veios de quartzo em rocha vulcânica", "Logística feita primariamente por vias aéreas ou pistas"],
       fr: ["Site minier historique datant des années 1950", "Situé à environ 40 km au sud de Maripasoula", "Exploration menée par Reeve Resources (groupe Auplata)", "Gisement situé dans le bassin versant de la rivière Petit Inini", "Or lié à des filons de quartz dans des roches volcaniques", "Logistique assurée principalement par voie aérienne ou par pistes"],
     }, },
-    image: "/poi-images/gf-mine-dorlin-economic-v2.webp",
     description: {
       de: "Ein sehr bekanntes Goldvorkommen in Französisch-Guayana, das aufgrund seines Reichtums sowohl legale als auch oft illegale Bergleute anzieht.",
       hu: "Nagyon ismert aranylelőhely Francia Guyanában, amely gazdagsága miatt legális és gyakran illegális bányászokat is vonz.",
@@ -2215,7 +2203,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["Altura do edifício de cerca de 90 metros.", "Inaugurado para o programa Ariane 5 na década de 1990.", "Oferece condições de sala limpa para a montagem de satélites.", "Possui plataformas móveis para a transferência de foguetões.", "Ponto central para a integração da carenagem da carga útil.", "Ambiente livre de poeira da classe 100.000 (ISO 8)."],
       fr: ["Hauteur du bâtiment d'environ 90 mètres.", "Inauguré pour le programme Ariane 5 dans les années 1990.", "Offre des conditions de salle blanche pour l'assemblage des satellites.", "Dispose de plateformes mobiles pour le transfert des fusées.", "Point central pour l'intégration de la coiffe.", "Environnement sans poussière de classe 100 000 (ISO 8)."],
     }, },
-    image: "/poi-images/gf-csg-baf-economic-v2.webp",
     description: {
       de: "Das riesige Gebäude, in dem die europäischen Ariane-Raketen vor dem Transport zur Startrampe endgültig montiert werden.",
       hu: "A hatalmas épület, ahol az európai Ariane rakétákat véglegesen összeszerelik az indítóállásba szállítás előtt.",
@@ -2265,7 +2252,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["Local de 117 lançamentos do Ariane 5 entre 1996 e 2023.", "O último lançamento ocorreu a 5 de julho de 2023.", "Possui duas enormes valas de chamas para a exaustão de gases.", "Duas torres de proteção contra raios de 90 metros protegem a instalação.", "Tanques de armazenamento criogénico para hidrogénio e oxigénio líquidos.", "A área da zona de lançamento abrange cerca de 700 hectares."],
       fr: ["Site de 117 lancements d'Ariane 5 entre 1996 et 2023.", "Le dernier lancement a eu lieu le 5 juillet 2023.", "Dispose de deux immenses fosses à flammes pour l'évacuation des gaz.", "Deux pylônes paratonnerres de 90 mètres de haut protègent l'installation.", "Réservoirs de stockage cryogéniques pour l'hydrogène et l'oxygène liquides.", "La zone de lancement s'étend sur environ 700 hectares."],
     }, },
-    image: "/poi-images/gf-ela3-launchpad-economic-v2.webp",
     description: {
       de: "Die primäre Startrampe für die Schwerlastrakete Ariane 5, eine gigantische industrielle und technologische Infrastruktur.",
       hu: "Az Ariane 5 nehéz hordozórakéta elsődleges indítóállása, gigantikus ipari és technológiai infrastruktúra.",
@@ -2432,7 +2418,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["Construído especificamente para o novo lançador Ariane 6.", "A torre de serviço móvel pesa impressionantes 8.200 toneladas.", "Integração horizontal do foguetão no edifício de montagem.", "Primeiro lançamento bem-sucedido do Ariane 6 em julho de 2024.", "Utiliza um sistema inovador de inundação por água no lançamento.", "O complexo abrange uma área total de 170 hectares."],
       fr: ["Construit spécifiquement pour le nouveau lanceur Ariane 6.", "Le portique mobile pèse le poids impressionnant de 8 200 tonnes.", "Intégration horizontale de la fusée dans le bâtiment d'assemblage.", "Premier lancement réussi d'Ariane 6 en juillet 2024.", "Utilise un système innovant de déluge d'eau lors du lancement.", "Le complexe s'étend sur une surface totale de 170 hectares."],
     }, },
-    image: "/poi-images/gf-ela4-launchpad-economic-v2.webp",
     description: {
       de: "Die modernste Startanlage in Kourou, speziell entworfen und gebaut für die neue Generation der Ariane-6-Raketen.",
       hu: "Kourou legmodernebb indítólétesítménye, amelyet kifejezetten az Ariane-6 rakéták új generációja számára terveztek és építettek.",
@@ -2482,7 +2467,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["Local do histórico primeiro lançamento do Ariane (antigo ELA-1)", "O primeiro lançamento do foguete Vega ocorreu em fevereiro de 2012", "A torre de manutenção móvel protege o foguete antes do lançamento", "Otimizado para cargas úteis de satélites de pequeno a médio porte", "O uso de motores de foguete a combustível sólido exige uma exaustão de gases especial", "Base para o veículo lançador modernizado Vega-C"],
       fr: ["Site du premier lancement historique d'Ariane (anciennement ELA-1)", "Le premier lancement de la fusée Vega a eu lieu en février 2012", "La tour de maintenance mobile protège la fusée avant le lancement", "Optimisé pour les charges utiles de satellites de petite à moyenne taille", "L'utilisation de moteurs à propergol solide nécessite une évacuation des gaz spécifique", "Base du lanceur modernisé Vega-C"],
     }, },
-    image: "/poi-images/gf-elv-launchpad-economic-v2.webp",
     description: {
       de: "Der Startkomplex für die europäischen Vega-Raketen, die für leichtere Satelliten und Erdbeobachtungsmissionen genutzt werden.",
       hu: "Az európai Vega rakéták indítókomplexuma, amelyeket könnyebb műholdakhoz és földmegfigyelési küldetésekhez használnak.",
@@ -2577,7 +2561,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["Localizada no município de Sinnamary, ao norte de Kourou", "O primeiro lançamento de uma Soyuz-STB ocorreu em 21 de outubro de 2011", "A torre de serviço móvel tem 52 metros de altura", "A rampa de lançamento está apenas 5 graus ao norte do equador", "Ocorreram um total de 27 lançamentos até a interrupção em 2022", "Aumento da capacidade de carga útil de 1,7t para 3t para a órbita GTO"],
       fr: ["Située sur la commune de Sinnamary, au nord de Kourou", "Le premier lancement d'une Soyouz-STB a eu lieu le 21 octobre 2011", "Le portique de service mobile mesure 52 mètres de haut", "Le pas de tir se situe à seulement 5 degrés au nord de l'équateur", "Un total de 27 lancements ont été effectués jusqu'à l'arrêt en 2022", "Capacité d'emport augmentée de 1,7t à 3t pour l'orbite GTO"],
     }, },
-    image: "/poi-images/gf-els-launchpad-economic-v2.webp",
     description: {
       de: "Eine Startrampe in der Nähe von Sinnamary, die in Zusammenarbeit mit Russland für Sojus-Raketen gebaut wurde, um mittlere Nutzlasten zu starten.",
       hu: "Egy indítóállás Sinnamary közelében, amelyet Oroszországgal együttműködve építettek a Szojuz rakéták számára közepes hasznos terhek indítására.",
@@ -2627,7 +2610,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["A fábrica está em funcionamento desde a fase inicial de desenvolvimento do porto espacial.", "Produz oxigénio líquido (LOX) e nitrogénio líquido (LN2) diretamente no local.", "A instalação está ligada diretamente às plataformas de lançamento através de tubagens especializadas.", "O ar atmosférico serve como principal matéria-prima para a separação criogénica.", "A instalação é gerida pela multinacional francesa Air Liquide.", "Desempenha um papel crítico no arrefecimento de componentes de satélites antes do lançamento."],
       fr: ["L'usine est opérationnelle depuis les premières phases de développement du port spatial.", "Elle produit de l'oxygène liquide (LOX) et de l'azote liquide (LN2) directement sur place.", "L'installation est reliée directement aux zones de lancement par des canalisations spécialisées.", "L'air atmosphérique sert de matière première principale pour la séparation cryogénique.", "L'établissement est géré par la multinationale française Air Liquide.", "Elle joue un rôle critique dans le refroidissement des composants de satellites avant le lancement."],
     }, },
-    image: "/poi-images/gf-air-liquide-kourou-economic-v2.webp",
     description: {
       de: "Eine spezialisierte Industrieanlage von Air Liquide im Raumfahrtzentrum, die flüssigen Sauerstoff und Wasserstoff als Raketentreibstoff produziert.",
       hu: "Az Air Liquide speciális ipari létesítménye az űrközpontban, amely folyékony oxigént és hidrogént állít elő rakétaüzemanyagként.",
@@ -2758,7 +2740,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["A UPG entrou em funcionamento para apoiar o programa Ariane 5.", "Produz anualmente cerca de 10.000 toneladas de propulsor sólido.", "O combustível é composto por cerca de 68% de perclorato de amónio como oxidante.", "A Regulus, o operador, é uma joint venture da Avio e da ArianeGroup.", "A instalação situa-se numa zona isolada do CSG por razões de segurança.", "O combustível produzido é utilizado no Ariane 5 e, agora, no Ariane 6."],
       fr: ["L'UPG a débuté son activité pour soutenir le programme Ariane 5.", "Elle produit environ 10 000 tonnes de propergol solide par an.", "Le carburant est composé à environ 68 % de perchlorate d'ammonium comme oxydant.", "Regulus, l'exploitant, est une coentreprise d'Avio et d'ArianeGroup.", "L'usine est située dans une zone isolée du CSG pour des raisons de sécurité.", "Le propergol produit est utilisé pour Ariane 5 et désormais pour Ariane 6."],
     }, },
-    image: "/poi-images/gf-upg-propellant-economic-v2.webp",
     description: {
       de: "Die Guiana Propellant Plant (Usine de Propergol de Guyane) mischt und gießt den festen Treibstoff für die riesigen Booster der Ariane-Raketen.",
       hu: "A Guyanai Hajtóanyag Gyár keveri és önti az Ariane rakéták hatalmas gyorsítóinak szilárd hajtóanyagát.",
@@ -3105,7 +3086,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["A usina contribui significativamente para a meta de atingir 100% de energias renováveis até 2030.", "Utiliza resíduos de madeira de desmatamentos autorizados e manutenção florestal.", "A capacidade da usina é suficiente para abastecer milhares de residencias em Kourou.", "São realizados controles rigorosos de emissões para garantir a qualidade do ar.", "O projeto é frequentemente apoiado pela Agência Francesa de Desenvolvimento (AFD).", "As cinzas da combustão podem ser usadas parcialmente como fertilizante na agricultura."],
       fr: ["La centrale contribue de manière significative à l'objectif de 100 % d'énergies renouvelables d'ici 2030.", "Elle utilise les déchets de bois issus de coupes autorisées et de l'entretien des forêts.", "La capacité de l'installation suffit à alimenter des milliers de foyers à Kourou.", "Des contrôles d'émissions stricts sont effectués pour garantir la qualité de l'air.", "Le projet est souvent soutenu par l'Agence Française de Développement (AFD).", "Les cendres de combustion peuvent être partiellement utilisées comme engrais agricole."],
     }, },
-    image: "/poi-images/gf-kourou-biomass-economic-v2.webp",
     description: {
       de: "Eine Anlage zur Stromerzeugung aus Holzabfällen und Biomasse, die zur Energieunabhängigkeit und zum Übergang zu grüner Energie im Territorium beiträgt.",
       hu: "Fahulladékból és biomasszából áramot termelő létesítmény, amely hozzájárul az energiához való függetlenséghez és a zöld energiára való átálláshoz a területen.",
@@ -3155,7 +3135,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["A instalação iniciou a sua operação comercial em 2020.", "Tem uma potência elétrica instalada de 5,1 megawatts.", "Cerca de 40.000 toneladas de biomassa de madeira são processadas anualmente como combustível.", "A instalação reduz as emissões de CO2 em cerca de 28.500 toneladas por ano.", "Situa-se no município de Roura, ao qual pertence a aldeia de Cacao.", "O projeto apoia os agricultores locais Hmong através da recolha de resíduos de desmatação."],
       fr: ["L'installation a débuté son exploitation commerciale en 2020.", "Elle dispose d'une puissance électrique installée de 5,1 mégawatts.", "Environ 40 000 tonnes de biomasse bois sont traitées annuellement comme combustible.", "L'installation réduit les émissions de CO2 d'environ 28 500 tonnes par an.", "Elle se trouve sur la commune de Roura, dont dépend le village de Cacao.", "Le projet soutient les agriculteurs Hmong locaux par le rachat des résidus de défrichage."],
     }, },
-    image: "/poi-images/gf-cacao-biomass-economic-v2.webp",
     description: {
       de: "Ein wichtiges Biomassekraftwerk in der Agrargemeinde Cacao, das Holzhackschnitzel aus der landwirtschaftlichen Rodung zur Stromerzeugung nutzt.",
       hu: "Egy fontos biomassza erőmű Cacao agrárközösségében, amely a mezőgazdasági erdőirtásból származó faaprítékot használja fel áramtermelésre.",
@@ -3322,7 +3301,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["O porto situa-se diretamente em frente à cidade brasileira de Oiapoque.", "Serve como porto oficial de entrada para o tráfego marítimo proveniente do Brasil.", "O rio Oiapoque aqui é fortemente influenciado pelas marés.", "As pirogas tradicionais são o principal meio de transporte para o tráfego fronteiriço local.", "O porto está sujeito a controlos aduaneiros e fronteiriços rigorosos por parte das autoridades francesas.", "Saint-Georges é o ponto final oriental da estrada nacional RN2."],
       fr: ["Le port est situé directement face à la ville brésilienne d'Oiapoque.", "Il sert de port d'entrée officiel pour le trafic maritime en provenance du Brésil.", "Le fleuve Oyapock est ici fortement soumis à l'influence des marées.", "Les pirogues traditionnelles sont le principal moyen de transport pour le trafic frontalier local.", "Le port est soumis à des contrôles douaniers et frontaliers stricts par les autorités françaises.", "Saint-Georges est le point terminal oriental de la route nationale RN2."],
     }, },
-    image: "/poi-images/gf-port-saint-georges-economic-v2.webp",
     description: {
       de: "Der wichtigste Hafen am Fluss Oyapock, der als zentraler Grenzübergang und Handelsplatz zwischen Französisch-Guayana und Brasilien dient.",
       hu: "Az Oyapock folyó legfontosabb kikötője, amely központi határátkelőhelyként és kereskedelmi állomásként szolgál Francia Guyana és Brazília között.",
@@ -3489,7 +3467,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["Maripasoula fica a vários dias de Saint-Laurent por via fluvial.", "O porto é o ponto de transbordo mais importante para produtos alimentares na zona do alto Maroni.", "Os níveis de água do rio determinam a capacidade máxima de carga das pirogas.", "Existem planos para ampliar o porto para complementar o crescente tráfego aéreo.", "O porto é um ponto de encontro para comerciantes da Guiana Francesa e do Suriname.", "Pilotos fluviais especializados 'Takari' conduzem a carga através dos rápidos."],
       fr: ["Maripasoula est à plusieurs jours de navigation de Saint-Laurent.", "Le port est le principal centre de transbordement de vivres dans la région du haut Maroni.", "Les niveaux d'eau du fleuve déterminent la capacité de charge maximale des pirogues.", "Des projets d'extension du port existent pour compléter le trafic aérien croissant.", "Le port est un point de rencontre pour les commerçants de Guyane et du Suriname.", "Des 'Takaris' (pilotes fluviaux) spécialisés dirigent le fret à travers les sauts."],
     }, },
-    image: "/poi-images/gf-port-maripasoula-economic-v2.webp",
     description: {
       de: "Ein vitaler Flusshafen weit im Landesinneren, der die logistische Nabelschnur für die südlichen Dschungelgemeinden am Lawa-Fluss darstellt.",
       hu: "Létfontosságú folyami kikötő mélyen a szárazföld belsejében, amely a Lawa folyó menti déli dzsungel települések logisztikai köldökzsinórja.",
@@ -3620,7 +3597,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["Grand-Santi depende totalmente das vias fluviais e aéreas.", "O porto serve como posto de abastecimento primário para as pirogas motorizadas da região.", "Os preços das mercadorias são significativamente mais elevados do que na costa devido aos elevados custos de transporte.", "Os pontos de acostagem foram reforçados para evitar a erosão causada pelas correntes do rio.", "O porto situa-se aproximadamente no meio da parte navegável do Maroni.", "Os agricultores locais utilizam o porto para enviar arroz e mandioca para outras aldeias."],
       fr: ["Grand-Santi dépend entièrement des voies fluviales et aériennes.", "Le port sert de station-service primaire pour les pirogues motorisées de la région.", "Les prix des marchandises sont nettement plus élevés qu'à la côte en raison des coûts de transport.", "Les points d'accostage ont été renforcés pour prévenir l'érosion par les courants du fleuve.", "Le port se situe environ au milieu de la partie navigable du Maroni.", "Les agriculteurs locaux utilisent le port pour expédier du riz et du manioc vers d'autres villages."],
     }, },
-    image: "/poi-images/gf-port-grand-santi-economic-v2.webp",
     description: {
       de: "Ein geschäftiger Anleger am Maroni-Fluss, der den Personen- und Warentransport für die abgelegenen Ndjuka-Gemeinden koordiniert.",
       hu: "Forgalmas kikötő a Maroni folyón, amely a távoli Ndjuka közösségek személy- és áruszállítását koordinálja.",
@@ -3751,7 +3727,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["Sinnamary é historicamente conhecido pela captura do peixe 'Acoupa'.", "O porto foi modernizado para apoiar a cooperativa de pesca local.", "Situa-se estrategicamente entre Caiena e Saint-Laurent.", "As correntes de maré na foz são frequentemente perigosas para barcos pequenos.", "O porto contribui para a segurança alimentar da região.", "Existem áreas protegidas para tartarugas marinhas nas proximidades."],
       fr: ["Sinnamary est historiquement réputé pour la pêche à l'acoupa.", "Le port a été modernisé pour soutenir la coopérative de pêche locale.", "Il est stratégiquement situé entre Cayenne et Saint-Laurent.", "Les courants de marée à l'embouchure sont souvent dangereux pour les petites embarcations.", "Le port contribue à la sécurité alimentaire de la région.", "Des zones de protection pour les tortues marines se trouvent à proximité."],
     }, },
-    image: "/poi-images/gf-port-sinnamary-economic-v2.webp",
     description: {
       de: "Ein regionaler Hafen, der hauptsächlich von Küstenfischern genutzt wird und eine wichtige Rolle für die lokale Lebensmittelversorgung spielt.",
       hu: "Regionális kikötő, amelyet elsősorban part menti halászok használnak, és fontos szerepet játszik a helyi élelmiszerellátásban.",
@@ -4086,7 +4061,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["Mana é considerada a zona de cultivo de arroz mais importante na Guiana Francesa.", "A irrigação dos campos é feita através de um sistema complexo de canais.", "A colheita ocorre geralmente duas vezes por ano.", "O arroz de Mana é vendido sob marcas locais em toda a Guiana.", "Os moinhos são um importante comprador para pequenos produtores independentes.", "Métodos de colheita mecanizados são usados para aumentar a eficiência."],
       fr: ["Mana est considérée comme la principale zone rizicole de Guyane française.", "L'irrigation des champs s'effectue via un système complexe de canaux.", "La récolte a généralement lieu deux fois par an.", "Le riz de Mana est vendu sous des marques locales dans toute la Guyane.", "Les rizeries sont un débouché majeur pour les petits agriculteurs indépendants.", "Des méthodes de récolte mécanisées sont employées pour accroître l'efficacité."],
     }, },
-    image: "/poi-images/gf-mana-rice-mills-economic-v2.webp",
     description: {
       de: "Große landwirtschaftliche Verarbeitungsanlagen im Nordwesten von Guayana, die den Großteil der lokalen Reisproduktion aufbereiten.",
       hu: "Nagy mezőgazdasági feldolgozó létesítmények Guyana északnyugati részén, amelyek a helyi rizstermelés nagy részét dolgozzák fel.",
@@ -4757,7 +4731,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["1675 como ano de fundação do município de Roura.", "90 por cento do território está coberto por floresta.", "Utilização principal de madeira de Angélique (Dicorynia guianensis).", "Monitorização rigorosa pelo Office National des Forêts.", "Logística através do rio navegável Mahury.", "Foco na silvicultura sustentável na bacia amazónica."],
       fr: ["1675 est l'année de fondation de la commune de Roura.", "90 % du territoire est recouvert de forêt.", "Utilisation principale du bois d'Angélique (Dicorynia guianensis).", "Surveillance stricte par l'Office National des Forêts.", "Logistique via le fleuve navigable Mahury.", "Focus sur la sylviculture durable dans le bassin amazonien."],
     }, },
-    image: "/poi-images/gf-roura-logging-economic-v2.webp",
     description: {
       de: "Ein Zentrum für kontrollierten Holzeinschlag und Verarbeitung, das wertvolle Hölzer wie Angelique aus den ausgedehnten Wäldern der Gemeinde exportiert.",
       hu: "Az ellenőrzött fakitermelés és -feldolgozás központja, amely értékes fákat, például Angelique-t exportál a település kiterjedt erdeiből.",
@@ -4852,7 +4825,6 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       pt: ["O ouro é o principal produto de exportação da Guiana Francesa.", "Cooperação com a Société des Mines de Guyane (SMG).", "Verificação da pureza do ouro antes da exportação internacional.", "Controle rigoroso do uso de mercúrio e cianeto.", "Localização na região metropolitana de Caiena.", "Processamento de ouro das minas do interior."],
       fr: ["L'or est le principal produit d'exportation de la Guyane française.", "Coopération avec la Société des Mines de Guyane (SMG).", "Contrôle de la pureté de l'or avant l'exportation internationale.", "Contrôle strict de l'utilisation du mercure et du cyanure.", "Située dans la zone métropolitaine de Cayenne.", "Traitement de l'or provenant des mines de l'arrière-pays."],
     }, },
-    image: "/poi-images/gf-gold-refinery-cayenne-economic-v2.webp",
     description: {
       de: "Spezialisierte Anlagen in der Hauptstadt, in denen das in den legalen Minen des Hinterlandes gewonnene Gold eingeschmolzen und für den Export aufbereitet wird.",
       hu: "Speciális létesítmények a fővárosban, ahol a hátország legális bányáiból kitermelt aranyat megolvasztják és exportra előkészítik.",

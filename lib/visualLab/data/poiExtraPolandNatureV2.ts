@@ -160,8 +160,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "lake",
     name: { de: "Morskie Oko", hu: "Morskie Oko", ro: "Morskie Oko", en: "Morskie Oko"},
-    image: "/poi-images/poland-morskie-oko-nature-v2.webp",
-    coords: [20.0714, 49.2011],
     coords: [20.0714, 49.2011],
     description: {
       de: "Das Morskie Oko ist der größte und bekannteste See im Tatra-Gebirge. Er liegt auf einer Höhe von 1.395 Metern und ist von Granitgipfeln umgeben, die fast 1.000 Meter über den Spiegel ragen.",
@@ -430,8 +428,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "peak",
     name: { de: "Meeraugspitze", hu: "Rysy", ro: "Vârful Rysy", en: "Rysy Peak"},
-    image: "/poi-images/poland-rysy-peak-nature-v2.webp",
-    coords: [20.0881, 49.1794],
     coords: [20.0881, 49.1794],
     description: {
       de: "Der Rysy ist ein Berg in der Hohen Tatra an der Grenze zwischen Polen und der Slowakei. Mit seinem nordwestlichen Gipfel stellt er den höchsten Punkt Polens dar.",
@@ -700,8 +696,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "forest",
     name: { de: "Białowieża-Urwald", hu: "Białowieża-erdő", ro: "Pădurea Białowieża", en: "Białowieża Forest"},
-    image: "/poi-images/poland-bialowieza-forest-nature-v2.webp",
-    coords: [23.85, 52.7],
     coords: [23.85, 52.7],
     description: {
       de: "Der Białowieża-Urwald ist eines der letzten und größten verbliebenen Teile des riesigen Urwaldes, der einst die europäische Tiefebene bedeckte. Er beherbergt die weltweit größte Population des europäischen Wisents.",
@@ -1150,8 +1144,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "park",
     name: { de: "Wanderdünen von Słowiński", hu: "Słowiński vándorló dűnék", ro: "Dunele de la Słowiński", en: "Słowiński Moving Dunes"},
-    image: "/poi-images/poland-slowinski-dunes-nature-v2.webp",
-    coords: [17.5, 54.75],
     coords: [17.5, 54.75],
     description: {
       de: "Im Słowiński-Nationalpark an der Ostseeküste befinden sich die größten Wanderdünen Mitteleuropas. Die Dünen bewegen sich durch Windeinfluss jährlich mehrere Meter landeinwärts.",
@@ -1384,8 +1376,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "valley",
     name: { de: "Dunajec-Durchbruch", hu: "Dunajec-áttörés", ro: "Defileul Dunajec", en: "Dunajec River Gorge"},
-    image: "/poi-images/poland-dunajec-gorge-nature-v2.webp",
-    coords: [20.43, 49.4],
     coords: [20.43, 49.4],
     description: {
       de: "Der Dunajec-Durchbruch im Pieniny-Gebirge ist eine der spektakulärsten Flussschluchten Europas. Der Fluss windet sich in engen Schleifen zwischen steilen Kalksteinfelsen hindurch.",
@@ -1546,8 +1536,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "lake",
     name: { de: "Spirdingsee", hu: "Śniardwy-tó", ro: "Lacul Śniardwy", en: "Śniardwy Lake"},
-    image: "/poi-images/poland-sniardwy-lake-nature-v2.webp",
-    coords: [21.75, 53.75],
     coords: [21.75, 53.75],
     description: {
       de: "Der Śniardwy ist der größte See Polens und liegt in der Masurischen Seenplatte. Wegen seiner enormen Ausdehnung wird er oft als das „Masurische Meer“ bezeichnet.",
@@ -1636,8 +1624,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "landmark",
     name: { de: "Halbinsel Hel", hu: "Hel-félsziget", ro: "Peninsula Hel", en: "Hel Peninsula"},
-    image: "/poi-images/poland-hel-peninsula-nature-v2.webp",
-    coords: [18.66, 54.63],
     coords: [18.66, 54.63],
     description: {
       de: "Die Halbinsel Hel ist eine 35 Kilometer lange sandige Landzunge, die die Danziger Bucht von der offenen Ostsee trennt. Sie entstand durch Meeresströmungen und Windablagerungen.",
@@ -1870,8 +1856,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "peak",
     name: { de: "Babia Góra", hu: "Babia Góra", ro: "Masivul Babia Góra", en: "Babia Góra"},
-    image: "/poi-images/poland-babia-gora-nature-v2.webp",
-    coords: [19.5303, 49.5731],
     coords: [19.5303, 49.5731],
     description: {
       de: "Die Babia Góra ist der höchste Gipfel der Beskiden außerhalb der Tatra. Aufgrund ihrer exponierten Lage ist sie für ihre extremen und wechselhaften Wetterbedingungen berüchtigt.",
@@ -2104,8 +2088,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "peak",
     name: { de: "Großer Heuscheuer", hu: "Szczeliniec Wielki", ro: "Szczeliniec Wielki", en: "Szczeliniec Wielki"},
-    image: "/poi-images/poland-szczeliniec-wielki-nature-v2.webp",
-    coords: [16.3392, 50.4853],
     coords: [16.3392, 50.4853],
     description: {
       de: "Der Szczeliniec Wielki ist der höchste Berg des Heuscheuergebirges. Er ist ein Tafelberg mit spektakulären Sandsteinfelsformationen, die an Tiere und Gebäude erinnern.",
@@ -2230,8 +2212,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "peak",
     name: { de: "Schneekoppe", hu: "Śnieżka", ro: "Vârful Śnieżka", en: "Śnieżka Peak"},
-    image: "/poi-images/poland-sniezka-peak-nature-v2.webp",
-    coords: [15.7403, 50.7361],
     coords: [15.7403, 50.7361],
     description: {
       de: "Die Schneekoppe ist der höchste Berg des Riesengebirges und der Sudeten. Auf dem Gipfel befindet sich eine charakteristische Wetterstation in Form von fliegenden Untertassen.",
@@ -2536,8 +2516,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "wildlife",
     name: { de: "Biebrza-Sümpfe", hu: "Biebrza-mocsarak", ro: "Mlaștinile Biebrza", en: "Biebrza Marshes"},
-    image: "/poi-images/poland-biebrza-marshes-nature-v2.webp",
-    coords: [22.65, 53.48],
     coords: [22.65, 53.48],
     description: {
       de: "Das Biebrza-Tal umfasst die größten und am besten erhaltenen Torfmoore und Feuchtgebiete Mitteleuropas. Es ist ein Paradies für Vögel und Elche im Nordosten Polens.",
@@ -2698,8 +2676,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "forest",
     name: { de: "Kampinos-Urwald", hu: "Kampinos-erdő", ro: "Pădurea Kampinos", en: "Kampinos Forest"},
-    image: "/poi-images/poland-kampinos-forest-nature-v2.webp",
-    coords: [20.58, 52.33],
     coords: [20.58, 52.33],
     description: {
       de: "Der Kampinos-Urwald liegt unmittelbar nordwestlich von Warschau. Das Gebiet ist geprägt durch ein einzigartiges Mosaik aus Binnendünen und sumpfigen Niederungen.",
@@ -2896,8 +2872,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "lake",
     name: { de: "Wigry-See", hu: "Wigry-tó", ro: "Lacul Wigry", en: "Wigry Lake"},
-    image: "/poi-images/poland-wigry-lake-nature-v2.webp",
-    coords: [23.05, 54.03],
     coords: [23.05, 54.03],
     description: {
       de: "Der Wigry-See liegt im Nordosten Polens in der Suwałki-Seenplatte. Er ist bekannt für seine unregelmäßige Form mit zahlreichen Inseln, Halbinseln und tiefen Buchten.",
@@ -3130,8 +3104,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "valley",
     name: { de: "Ojców-Tal", hu: "Ojcówi-völgy", ro: "Valea Ojców", en: "Ojców Valley"},
-    image: "/poi-images/poland-ojcow-valley-nature-v2.webp",
-    coords: [19.82, 50.21],
     coords: [19.82, 50.21],
     description: {
       de: "Das Ojców-Tal bei Krakau ist Teil des Ojców-Nationalparks, des kleinsten Nationalparks Polens. Es besticht durch spektakuläre Kalksteinformationen, Höhlen und historische Schlösser.",
@@ -3328,8 +3300,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "peak",
     name: { de: "Drei Kronen", hu: "Korona-hegy", ro: "Vârful Trei Coroane", en: "Trzy Korony"},
-    image: "/poi-images/poland-trzy-korony-nature-v2.webp",
-    coords: [20.4161, 49.4136],
     coords: [20.4161, 49.4136],
     description: {
       de: "Die Trzy Korony (Drei Kronen) sind der bekannteste Gipfel des Pieniny-Gebirges. Der Berg besteht aus fünf Kalksteintürmen und bietet einen der schönsten Ausblicke auf den Dunajec-Durchbruch.",
@@ -3378,8 +3348,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "river",
     name: { de: "Narew", hu: "Narew", ro: "Râul Narew", en: "Narew River"},
-    image: "/poi-images/poland-narew-river-nature-v2.webp",
-    coords: [22.86, 53.13],
     coords: [22.86, 53.13],
     description: {
       de: "Die Narew ist ein bedeutender Fluss im Nordosten Polens. Sie ist einer der wenigen anastomosierenden (vielarmigen) Flüsse der Welt und wird oft als „polnischer Amazonas“ bezeichnet.",
@@ -3468,8 +3436,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "landmark",
     name: { de: "Siklawa-Wasserfall", hu: "Siklawa-vízesés", ro: "Cascada Siklawa", en: "Siklawa Waterfall"},
-    image: "/poi-images/poland-siklawa-waterfall-nature-v2.webp",
-    coords: [20.0461, 49.2136],
     coords: [20.0461, 49.2136],
     description: {
       de: "Die Wielka Siklawa ist der größte Wasserfall Polens. Er befindet sich in der Hohen Tatra und stürzt vom Tal der Fünf Polnischen Seen in das Roztoka-Tal hinab.",
@@ -3738,8 +3704,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "landmark",
     name: { de: "Bärenhöhle", hu: "Medve-barlang", ro: "Peștera Ursului (Kletno)", en: "Bear Cave"},
-    image: "/poi-images/poland-bear-cave-nature-v2.webp",
-    coords: [16.85, 50.2333],
     coords: [16.85, 50.2333],
     description: {
       de: "Die Bärenhöhle in Kletno ist eine der längsten und schönsten Höhlen Polens. Sie ist berühmt für ihre reichen Tropfsteinformationen und zahlreiche Knochenfunde von eiszeitlichen Tieren.",
@@ -3972,8 +3936,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "landmark",
     name: { de: "Frische Nehrung", hu: "Visztula-turzás", ro: "Cordonul litoral al Vistulei", en: "Vistula Spit"},
-    image: "/poi-images/poland-vistula-spit-nature-v2.webp",
-    coords: [19.33, 54.38],
     coords: [19.33, 54.38],
     description: {
       de: "Die Frische Nehrung ist eine schmale sandige Landzunge, die das Frische Haff von der Ostsee trennt. Sie erstreckt sich von Polen bis in die russische Oblast Kaliningrad.",
@@ -4206,8 +4168,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "river",
     name: { de: "Kruttinna", hu: "Krutynia", ro: "Râul Krutynia", en: "Krutynia River"},
-    image: "/poi-images/poland-krutynia-river-nature-v2.webp",
-    coords: [21.43, 53.73],
     coords: [21.43, 53.73],
     description: {
       de: "Die Krutynia gilt als einer der schönsten Kajak-Flüsse in Europa. Sie fließt durch die Masurische Seenplatte und verbindet zahlreiche Seen in einer abwechslungsreichen Landschaft.",
@@ -4251,8 +4211,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "peak",
     name: { de: "Turbacz", hu: "Turbacz", ro: "Vârful Turbacz", en: "Turbacz Peak"},
-    image: "/poi-images/poland-turbacz-peak-nature-v2.webp",
-    coords: [20.11, 49.54],
     coords: [20.11, 49.54],
     description: {
       de: "Der Turbacz ist der höchste Gipfel des Gorce-Gebirges in Südpolen. Er ist ein wichtiger Knotenpunkt für Wanderwege und bietet bei klarem Wetter einen weiten Blick auf die Tatra.",
@@ -4629,8 +4587,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "peak",
     name: { de: "Zobten", hu: "Ślęża", ro: "Muntele Ślęża", en: "Mount Ślęża"},
-    image: "/poi-images/poland-mount-sleza-nature-v2.webp",
-    coords: [16.7, 50.86],
     coords: [16.7, 50.86],
     description: {
       de: "Die Ślęża ist ein isolierter Berg im schlesischen Tiefland bei Breslau. Sie war in der Bronzezeit ein heiliger Berg und ein Zentrum heidnischer Kulte, wovon antike Skulpturen zeugen.",
@@ -5043,8 +4999,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "lake",
     name: { de: "Solina-Stausee", hu: "Solinai-tó", ro: "Lacul Solina", en: "Solina Lake"},
-    image: "/poi-images/poland-solina-lake-nature-v2.webp",
-    coords: [22.45, 49.37],
     coords: [22.45, 49.37],
     description: {
       de: "Der Solina-See ist der größte Stausee Polens und liegt im Bieszczady-Gebirge. Er entstand durch die Aufstauung der Flüsse San und Solina und ist ein beliebtes Wassersportrevier.",
@@ -5385,8 +5339,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "river",
     name: { de: "Dunajec", hu: "Dunajec", ro: "Râul Dunajec", en: "Dunajec River"},
-    image: "/poi-images/poland-dunajec-river-nature-v2.webp",
-    coords: [20.4, 49.5],
     coords: [20.4, 49.5],
     description: {
       de: "Der Dunajec ist ein rechter Nebenfluss der Weichsel im Süden Polens. Er ist bekannt für seine Gebirgslandschaften und den spektakulären Durchbruch durch das Pieniny-Gebirge.",
@@ -5619,8 +5571,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "valley",
     name: { de: "Tal der Fünf Polnischen Seen", hu: "Öt-lengyel-tó völgye", ro: "Valea celor Cinci Lacuri Poloneze", en: "Five Polish Lakes Valley"},
-    image: "/poi-images/poland-five-lakes-valley-nature-v2.webp",
-    coords: [20.03, 49.21],
     coords: [20.03, 49.21],
     description: {
       de: "Das Tal der Fünf Polnischen Seen ist eines der schönsten Hochtäler der Hohen Tatra. Es ist eine postglaziale Landschaft mit fünf kristallklaren Bergseen auf verschiedenen Höhenstufen.",
@@ -5817,8 +5767,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "landmark",
     name: { de: "Steilküste von Wolin", hu: "Wolini sziklák", ro: "Faleza Wolin", en: "Wolin Cliffs"},
-    image: "/poi-images/poland-wolin-cliffs-nature-v2.webp",
-    coords: [14.5, 53.95],
     coords: [14.5, 53.95],
     description: {
       de: "Die Steilküste von Wolin im Nationalpark Wolin ist die höchste Kliffküste Polens. Die Erosion durch die Ostsee lässt die Klippen jährlich um mehrere Zentimeter zurückweichen.",
@@ -5979,8 +5927,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "forest",
     name: { de: "Roztocze-Wälder", hu: "Roztocze-erdők", ro: "Pădurile Roztocze", en: "Roztocze Forest"},
-    image: "/poi-images/poland-roztocze-forest-nature-v2.webp",
-    coords: [23.0, 50.58],
     coords: [23.0, 50.58],
     description: {
       de: "Die Roztocze-Wälder im Südosten Polens sind Teil eines Hügellandes mit urwüchsigen Buchen- und Tannenwäldern. Die Region ist bekannt für ihre saubere Luft und die kleinen Flüsse mit kleinen Kaskaden.",
@@ -6105,8 +6051,6 @@ export const polandNatureV2: POI[] = [
     parent: "PL",
     type: "river",
     name: { de: "Czarna Hańcza", hu: "Czarna Hańcza", ro: "Râul Czarna Hańcza", en: "Czarna Hańcza"},
-    image: "/poi-images/poland-czarna-hancza-river-nature-v2.webp",
-    coords: [23.23, 53.9],
     coords: [23.23, 53.9],
     description: {
       de: "Die Czarna Hańcza ist der wichtigste Fluss der Suwałki-Seenplatte. Sie fließt durch den Wigry-See und den Augustów-Urwald und ist eine klassische Kajakroute Polens.",
@@ -6376,7 +6320,6 @@ export const polandNatureV2: POI[] = [
     type: "lake",
     name: { de: "Dratzigsee", hu: "Drawsko-tó", ro: "Lacul Drawsko", en: "Drawsko Lake"},
     image: "/poi-images/poland-drawsko-lake-nature-v2.webp",
-    coords: [16.18, 53.58],
     coords: [16.18, 53.58],
     description: {
       de: "Der Drawsko-See ist der zweittiefste See Polens und liegt in der Dramburger Seenplatte. Er zeichnet sich durch seine rinnenseeartige Form und die große Insel Bielawa aus.",

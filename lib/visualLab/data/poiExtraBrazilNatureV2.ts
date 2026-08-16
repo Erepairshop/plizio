@@ -1209,7 +1209,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Amazonas",
       ro: "Fluviul Amazon",
       en: "Amazon River"},
-    image: "/poi-images/br-amazon-river-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Amazonas ist der wasserreichste Fluss der Erde und spielt eine entscheidende Rolle für das globale Klima und die Biodiversität. Er entspringt in den peruanischen Anden und fließt über 6.400 Kilometer durch das Amazonasbecken, bevor er in den Atlantischen Ozean mündet. Mit einem Einzugsgebiet von rund 7 Millionen Quadratmetern entwässert er etwa 40 Prozent Südamerikas. Die Abflussmenge ist so gewaltig, dass sie mehr Wasser führt als die nächsten sieben größten Flüsse zusammen. Der Amazonas beherbergt eine unglaubliche Vielfalt an Leben, darunter über 3.000 bekannte Fischarten und den berühmten Rosa Flussdelphin. Geographisch bildet er das Rückgrat des größten tropischen Regenwaldes der Welt, der oft als 'Lunge der Erde' bezeichnet wird. Der Fluss ist zudem eine lebenswichtige Verkehrsader für die Millionen Menschen, die an seinen Ufern leben, insbesondere in abgelegenen Regionen ohne Straßenanbindung. Historisch wurde der Fluss 1541 erstmals von dem Europäer Francisco de Orellana befahren.",
       hu: "Az Amazonas a föld legnagyobb vízhozamú folyója, és döntő szerepet játszik a globális éghajlatban és a biológiai sokféleségben. A perui Andokban ered, és több mint 6400 kilométeren keresztül folyik az Amazonas-medencén át, mielőtt az Atlanti-óceánba torkollik. Körülbelül 7 millió négyzetkilométeres vízgyűjtő területével Dél-Amerika mintegy 40 százalékát csapolja le. Vízhozama olyan hatalmas, hogy több vizet szállít, mint az utána következő hét legnagyobb folyó együttvéve. Az Amazonas az élet hihetetlen változatosságának ad otthont, beleértve több mint 3000 ismert halfajt és a híres rózsaszín folyami delfint. Földrajzilag a világ legnagyobb trópusi esőerdőjének gerincét alkotja, amelyet gyakran a 'Föld tüdejének' neveznek. A folyó emellett létfontosságú közlekedési útvonal a partjain élő több millió ember számára, különösen az útcsatlakozás nélküli távoli régiókban. Történelmileg a folyón először Francisco de Orellana európai hajós hajózott végig 1541-ben.",
@@ -1256,7 +1255,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "São Francisco-folyó",
       ro: "Râul São Francisco",
       en: "São Francisco River"},
-    image: "/poi-images/br-sao-francisco-river-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Rio São Francisco, oft liebevoll 'Velho Chico' genannt, ist einer der bedeutendsten Flüsse Brasiliens und eine lebenswichtige Wasserquelle für die trockene Region des Nordostens. Er entspringt im Gebirge Serra da Canastra im Bundesstaat Minas Gerais und fließt über 2.800 Kilometer durch fünf Bundesstaaten, bevor er in den Atlantik mündet. Als 'Fluss der nationalen Integration' verbindet er historisch und kulturell den Südosten mit dem Nordosten des Landes. Der Fluss ist bekannt für seine beeindruckenden Canyons im Bereich von Xingó und die zahlreichen Wasserkraftwerke, die einen Großteil der Energie für die Region erzeugen. Geographisch durchquert er verschiedene Biome, von der üppigen Vegetation des Cerrado bis hin zur semiariden Caatinga. In den letzten Jahrzehnten war der Fluss Gegenstand des massiven Umleitungsprojekts 'Transposição', das Wasser in dürregefährdete Gebiete leiten soll, jedoch auch ökologische Kontroversen auslöste. Er bleibt ein zentrales Element in der Folklore, Literatur und Musik der brasilianischen Identität.",
       hu: "A Rio São Francisco, amelyet gyakran becéznek 'Velho Chico'-nak, Brazília egyik legjelentősebb folyója, és létfontosságú vízforrás az északkeleti régió száraz területei számára. A Minas Gerais államban található Serra da Canastra hegységben ered, és több mint 2800 kilométeren keresztül folyik öt államon át, mielőtt az Atlanti-óceánba torkollik. A 'nemzeti integráció folyójaként' történelmileg és kulturálisan összeköti az ország délkeleti és északkeleti részét. A folyó híres a Xingó térségében található lenyűgöző kanyonjairól és a számos vízerőműről, amelyek a régió energiájának nagy részét termelik. Földrajzilag különböző biomokon halad keresztül, a Cerrado buja vegetációjától a félsivatagos Caatingáig. Az elmúlt évtizedekben a folyó a 'Transposição' nevű nagyszabású elterelési projekt tárgya volt, amelynek célja a víz eljuttatása a szárazság sújtotta területekre, bár ez ökológiai vitákat is kiváltott. A folyó a brazil identitás folklórjának, irodalmának és zenéjének központi eleme marad.",
@@ -1301,7 +1299,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Paraná-folyó",
       ro: "Râul Paraná",
       en: "Paraná River"},
-    image: "/poi-images/br-parana-river-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Paraná ist mit einer Gesamtlänge von etwa 4.880 Kilometern der zweitlängste Fluss Südamerikas nach dem Amazonas. Er entspringt im südlichen Brasilien am Zusammenfluss von Rio Grande und Paranaíba und fließt durch Paraguay und Argentinien bis zum Río de la Plata. Das Einzugsgebiet umfasst rund 2,6 Millionen Quadratkilometer und ist von enormer wirtschaftlicher Bedeutung für die Region. Am Oberlauf des Paraná befindet sich das Itaipu-Wasserkraftwerk, eines der leistungsstärksten der Welt, das Brasilien und Paraguay mit Energie versorgt. Der Fluss dient als wichtige Wasserstraße für den Transport von Getreide und Industriegütern aus dem Landesinneren zum Atlantik. Ökologisch ist das Flusssystem äußerst vielfältig und beherbergt zahlreiche Fischarten, darunter den geschätzten Dorado. Die Wasserführung unterliegt saisonalen Schwankungen, die maßgeblich vom subtropischen Regenfall im brasilianischen Hochland beeinflusst werden.",
       hu: "A Paraná-folyó Dél-Amerika második leghosszabb folyója az Amazonas után, teljes hossza megközelítőleg 4880 kilométer. Brazília déli részén, a Rio Grande és a Paranaíba folyók összefolyásánál ered, majd Paraguayon és Argentínán keresztülfolyva torkollik a Río de la Platába. Vízgyűjtő területe mintegy 2,6 millió négyzetkilométer, amely a kontinens egyik legfontosabb gazdasági övezete. A folyó felső szakaszán található az Itaipu-gát, a világ egyik legnagyobb vízerőműve, amely meghatározó szerepet tölt be Brazília és Paraguay energiaellátásában. Fontos hajózási útvonal, amely lehetővé teszi a mezőgazdasági termények és ipari cikkek eljutását a szárazföld belsejéből az Atlanti-óceánhoz. Ökológiai szempontból kiemelkedő a halfaunája, különösen a sporthorgászok körében népszerű aranydurbincs (dorado) jelenléte miatt. Vízjárása erősen függ a brazil felföld szubtrópusi csapadékmennyiségétől, ami jelentős szintingadozásokat eredményezhet.",
@@ -1346,7 +1343,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Tocantins-folyó",
       ro: "Râul Tocantins",
       en: "Tocantins River"},
-    image: "/poi-images/br-tocantins-river-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Rio Tocantins ist ein bedeutender Wasserlauf im zentralen Brasilien mit einer Länge von etwa 2.450 Kilometern. Er entspringt im Bundesstaat Goiás und fließt nach Norden, bis er in der Nähe der Insel Marajó in den Atlantik mündet. Entgegen der häufigen Annahme gehört er geografisch nicht zum Amazonas-Einzugssystem, obwohl er parallel zu dessen Mündung verläuft. Der Fluss ist durch das Tucuruí-Wasserkraftwerk geprägt, das zu den größten der Welt gehört und die regionale Industrie sowie Haushalte mit Strom versorgt. Die Vegetation entlang des Ufers wechselt von der Cerrado-Savanne im Süden zum tropischen Regenwald im Norden. Durch die Versandung und zahlreiche Stromschnellen ist die Schifffahrt auf weiten Teilen des Flusses eingeschränkt. Dennoch bleibt er eine lebenswichtige Ressource für die lokale Bevölkerung, die vom Fischfang und der Landwirtschaft in der fruchtbaren Ebene lebt. Die saisonalen Pegelunterschiede können bis zu zehn Meter betragen, was die Uferlandschaften periodisch verändert.",
       hu: "A Tocantins-folyó Közép-Brazília egyik legjelentősebb víziútja, hossza körülbelül 2450 kilométer. Goiás államban ered és északi irányba tart, amíg a Marajó-sziget közelében az Atlanti-óceánba nem torkollik. Bár gyakran az Amazonas-rendszer részének tekintik, földrajzilag különálló vízgyűjtővel rendelkezik, még ha torkolatuk közel is van egymáshoz. A folyón található a Tucuruí-vízerőmű, amely a világ egyik legnagyobb ilyen létesítménye, és kulcsszerepet játszik a régió iparának áramellátásában. A part menti növényzet délen a cerrado szavannáitól északon a trópusi esőerdőkig változik. A folyó hajózhatóságát számos zuhatag és a hordaléklerakódás nehezíti bizonyos szakaszokon. Ennek ellenére létfontosságú erőforrás a helyi közösségek számára, akik halászatból és a folyóparti mezőgazdaságból tartják fenn magukat. A vízszint ingadozása az esős és száraz évszak között elérheti a tíz métert is, ami rendszeresen átformálja a tájat.",
@@ -1390,7 +1386,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Araguaia-folyó",
       ro: "Râul Araguaia",
       en: "Araguaia River"},
-    image: "/poi-images/br-araguaia-river-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Rio Araguaia ist einer der wichtigsten Flüsse Brasiliens und der Hauptnebenfluss des Rio Tocantins, mit einer Länge von etwa 2.627 Kilometern. Er entspringt im Mato-Grosso-Plateau und fließt nach Norden, wobei er eine natürliche Grenze zwischen mehreren Bundesstaaten bildet. Weltberühmt ist der Araguaia für die Ilha do Bananal, die größte Flussinsel der Welt, die sich durch eine Aufspaltung des Flusslaufs bildet. In der Trockenzeit entstehen entlang des Ufers weite Sandstrände, die Touristen zum Campen und Angeln anziehen. Ökologisch ist das Gebiet ein Übergangsbereich zwischen dem Cerrado und dem Amazonas-Regenwald, was zu einer außergewöhnlichen Artenvielfalt führt. Hier leben unter anderem der Amazonas-Delfin, der Riesenotter und zahlreiche Kaiman-Arten. Der Fluss ist jedoch durch Entwaldung und intensive Landwirtschaft in seinem Einzugsgebiet bedroht, was zu erhöhter Erosion führt. Trotz seiner Größe ist der Araguaia aufgrund von Sandbänken und Stromschnellen nur eingeschränkt schiffbar.",
       hu: "Az Araguaia-folyó Brazília egyik legjelentősebb vízfolyása, a Tocantins fő mellékfolyója, hossza mintegy 2627 kilométer. A Mato Grosso-fennsíkon ered és északi irányba tart, természetes határt képezve több szövetségi állam között. Világhírnevét elsősorban a Bananal-szigetnek köszönheti, amely a világ legnagyobb folyami szigete, és a folyó két ágra szakadásával jön létre. A száraz évszakban a folyó mentén kiterjedt homokos strandok bukkannak elő, amelyek rengeteg turistát vonzanak kempingezésre és horgászatra. Ökológiai szempontból a terület átmeneti zónát képez a cerrado szavanna és az Amazonas-esőerdő között, ami rendkívüli biodiverzitást eredményez. Olyan fajok élnek itt, mint az amazóniai folyamidelfin, az óriásvidra és különböző kajmánfajok. A folyót azonban veszélyezteti a vízgyűjtő területén folyó erdőirtás és az intenzív mezőgazdaság, ami fokozott erózióhoz vezet. Mérete ellenére a homokpadok és zúgók miatt csak korlátozottan hajózható.",
@@ -1435,7 +1430,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Rio Negro",
       ro: "Rio Negro",
       en: "Negro River"},
-    image: "/poi-images/br-negro-river-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Rio Negro ist der größte linke Nebenfluss des Amazonas und der wasserreichste Schwarzwasserfluss der Erde. Er entspringt im kolumbianischen Hochland unter dem Namen Guainía und fließt über 2.250 Kilometer bis zu seiner Mündung bei Manaus. Seine charakteristische dunkle Färbung erhält er durch Huminsäuren, die aus verrottender Vegetation gelöst werden und den pH-Wert des Wassers senken. Dieses saure Milieu führt dazu, dass Mückenlarven kaum überleben können, was die Ufergebiete vergleichsweise insektenfrei macht. Berühmt ist das Phänomen „Encontro das Águas“, bei dem das schwarze Wasser des Rio Negro kilometerlang neben dem lehmigen Wasser des Rio Solimões fließt, ohne sich zu vermischen. Der Fluss beherbergt den Anavilhanas-Archipel, eines der größten Flussinselsysteme der Welt mit über 400 Inseln. Wirtschaftlich ist er für die Stadt Manaus als Transportweg und für den Ökotourismus von zentraler Bedeutung. Die Region ist zudem Heimat zahlreicher indigener Gemeinschaften, die seit Jahrtausenden im Einklang mit dem Fluss leben.",
       hu: "A Rio Negro az Amazonas legnagyobb bal oldali mellékfolyója és a világ legbővizűbb feketevizű folyója. Kolumbia hegyei között ered Guainía néven, és több mint 2250 kilométert tesz meg a manausi torkolatáig. Jellegzetes sötét színét a korhadó növényzetből kioldódó huminsavak adják, amelyek jelentősen csökkentik a víz pH-értékét. Ez a savas környezet gátolja a szúnyoglárvák fejlődését, így a folyóparti területek viszonylag rovarmentesek. Világhírű jelenség az „Encontro das Águas” (vizek találkozása), ahol a Rio Negro sötét vize és a Rio Solimões sárgás, agyagos vize kilométereken át egymás mellett folyik anélkül, hogy elkeveredne. A folyóban található az Anavilhanas-szigetvilág, amely több mint 400 szigetével a világ egyik legnagyobb folyami archipelágója. Gazdasági szempontból Manaus városa számára kulcsfontosságú szállítási útvonal és az ökoturizmus központja. A régió számos őslakos közösség otthona, akik évezredek óta harmóniában élnek a folyóval.",
@@ -1480,7 +1474,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Madeira-folyó",
       ro: "Râul Madeira",
       en: "Madeira River"},
-    image: "/poi-images/br-madeira-river-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Rio Madeira ist mit einer Länge von etwa 3.250 Kilometern der wichtigste und wasserreichste Nebenfluss des Amazonas. Er entsteht aus dem Zusammenfluss von Mamoré und Beni an der Grenze zwischen Brasilien und Bolivien. Seinen Namen „Madeira“ (Holz) erhielt er aufgrund der großen Mengen an Treibholz, die er während der Regenzeit mit sich führt. Er ist ein klassischer Weißwasserfluss, der reich an Sedimenten und Nährstoffen ist, was ihn zu einem der fischreichsten Gewässer der Welt macht. Die Schifffahrt auf dem Madeira ist für die Logistik im westlichen Amazonasgebiet von entscheidender Bedeutung, insbesondere für den Export von Soja. In den letzten Jahren wurden am Fluss große Wasserkraftwerke wie Santo Antônio und Jirau errichtet, die jedoch aufgrund ihrer ökologischen Auswirkungen umstritten sind. Der Fluss durchquert dichte Regenwaldgebiete, die eine Heimat für gefährdete Arten wie den Rosa Flussdelfin bieten. Die jährlichen Hochwasserereignisse düngen die umliegenden Auenwälder und sichern die biologische Produktivität des gesamten Ökosystems.",
       hu: "A Rio Madeira mintegy 3250 kilométeres hosszával az Amazonas legfontosabb és legbővizűbb mellékfolyója. A Mamoré és a Beni folyók összefolyásával jön létre Brazília és Bolívia határán. Nevét (a madeira portugálul fát jelent) a hatalmas mennyiségű uszadékfáról kapta, amelyet az esős évszakban szállít. Jellemzően fehéervizű folyó, amely hordalékban és tápanyagokban rendkívül gazdag, így a világ egyik legjelentősebb halállományával rendelkezik. A Madeira menti hajózás alapvető fontosságú a nyugat-amazóniai logisztika, különösen a szójaexport számára. Az elmúlt években olyan óriási vízerőművek épültek rajta, mint a Santo Antônio és a Jirau, amelyek ökológiai hatásai azonban vitatottak. A folyó sűrű esőerdőkön halad keresztül, amelyek olyan veszélyeztetett fajoknak adnak otthont, mint az amazóniai folyamidelfin. Az évenkénti áradások természetes módon trágyázzák a környező ártéri erdőket, biztosítva az egész ökoszisztéma biológiai termékenységét.",
@@ -1524,7 +1517,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Tapajós",
       ro: "Râul Tapajós",
       en: "Tapajós River"},
-    image: "/poi-images/br-tapajos-river-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Rio Tapajós ist einer der größten Nebenflüsse des Amazonas und zeichnet sich durch sein klares, blau-grünes Wasser aus. Er entsteht durch den Zusammenfluss von Rio Teles Pires und Rio Juruena und fließt über 800 Kilometer (bzw. 1.900 km inklusive Quellflüsse) durch den Bundesstaat Pará. Im Gegensatz zu vielen anderen Amazonas-Zuflüssen führt der Tapajós kaum Sedimente mit sich, was ihm seine einzigartige Transparenz verleiht. Bei der Stadt Santarém trifft er auf den Amazonas, wobei die Grenze zwischen den klaren und den lehmigen Wassermassen scharf markiert bleibt. Der Fluss ist bekannt für seine traumhaften Sandstrände, wie Alter do Chão, das oft als das „Karibik des Amazonas“ bezeichnet wird. In der Region befinden sich bedeutende Naturschutzgebiete wie der Nationalpark Amazônia, die eine enorme Vielfalt an Flora und Fauna schützen. Historisch ist der Fluss auch durch „Fordlândia“ bekannt, eine von Henry Ford gegründete Kautschukplantage, die heute eine Ruinenstadt ist. Aktuell steht der Schutz des Flusses vor geplanten Staudammprojekten und illegalem Goldabbau im Fokus internationaler Umweltschützer.",
       hu: "A Rio Tapajós az Amazonas egyik legnagyobb mellékfolyója, amely tiszta, kékeszöld vizéről nevezetes. A Teles Pires és a Juruena folyók összefolyásával jön létre, és több mint 800 kilométert (a forrásfolyókkal együtt 1900 km-t) tesz meg Pará államon keresztül. Sok más amazóniai mellékfolyóval ellentétben a Tapajós alig szállít hordalékot, ami egyedülálló átlátszóságot kölcsönöz neki. Santarém városánál találkozik az Amazonasszal, ahol a tiszta és az agyagos víztömegek határa élesen elkülönül. A folyó híres gyönyörű homokos strandjairól, mint például Alter do Chão, amelyet gyakran az „Amazonas Karib-tengerének” neveznek. A régióban olyan jelentős természetvédelmi területek találhatók, mint az Amazônia Nemzeti Park, amely a flóra és fauna hatalmas változatosságát óvja. Történelmileg a folyó a „Fordlândia” révén is ismert, amely a Henry Ford által alapított, mára romvárossá vált gumiültetvény. Jelenleg a folyó védelme a tervezett gátépítésekkel és az illegális aranybányászattal szemben áll a környezetvédők figyelmének középpontjában.",
@@ -1568,7 +1560,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Xingu-folyó",
       ro: "Râul Xingu",
       en: "Xingu River"},
-    image: "/poi-images/br-xingu-river-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Rio Xingu ist ein rund 1.980 Kilometer langer Nebenfluss des Amazonas im Norden Brasiliens. Er entspringt im Mato-Grosso-Plateau und fließt durch das Amazonasbecken, bevor er westlich der Insel Marajó in den Hauptstrom mündet. Der Fluss ist weltweit bekannt für den Nationalpark Xingu, das erste große indigene Schutzgebiet Brasiliens, das in den 1960er Jahren auf Initiative der Gebrüder Villas-Bôas gegründet wurde. Dieses Gebiet beheimatet zahlreiche indigene Ethnien, die ihre traditionelle Lebensweise bewahrt haben. In den letzten Jahren erlangte der Fluss traurige Berühmtheit durch den Bau des Belo-Monte-Staudamms, eines der größten Wasserkraftwerke der Welt, das massiv in den Wasserhaushalt und das Ökosystem eingreift. Der Xingu ist ein ökologisch sensibler Bereich mit vielen endemischen Fischarten und einer reichen Vogelwelt. Der Unterlauf des Flusses ist geprägt von riesigen Windungen und einer üppigen Ufervegetation. Trotz des technologischen Fortschritts bleibt der Kampf um den Schutz des Xingu ein Symbol für den Erhalt des Amazonas und der Rechte der indigenen Völker.",
       hu: "A Rio Xingu egy körülbelül 1980 kilométer hosszú mellékfolyó Brazília északi részén, amely az Amazonasba torkollik. A Mato Grosso-fennsíkon ered és az Amazonas-medencén keresztülfolyva éri el a főfolyamot a Marajó-szigettől nyugatra. A folyó világszerte ismert a Xingu Nemzeti Parkról, amely Brazília első nagy őslakos védelmi területe volt, és az 1960-as években jött létre a Villas-Bôas fivérek kezdeményezésére. Ez a terület számos olyan indián népcsoportnak ad otthont, akik megőrizték hagyományos életmódjukat. Az utóbbi években a folyó a Belo Monte-gát építése miatt került a figyelem középpontjába; ez a világ egyik legnagyobb vízerőműve, amely drasztikusan módosította a vízjárást és az ökoszisztémát. A Xingu ökológiailag rendkívül érzékeny terület, sok bennszülött halfajjal és gazdag madárvilággal. A folyó alsó szakasza hatalmas kanyarulatokkal és buja növényzettel jellemezhető. A technológiai fejlődés ellenére a Xingu védelméért folytatott küzdelem az Amazonas megőrzésének és az őslakosok jogainak szimbólumává vált.",
@@ -1612,7 +1603,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Iguaçu-folyó",
       ro: "Râul Iguaçu",
       en: "Iguazu River"},
-    image: "/poi-images/br-iguazu-river-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Rio Iguaçu ist ein rund 1.320 Kilometer langer Fluss im Süden Brasiliens, der vor allem durch die weltberühmten Iguaçu-Wasserfälle bekannt ist. Er entspringt im Küstengebirge Serra do Mar in der Nähe von Curitiba und fließt in westlicher Richtung durch den Bundesstaat Paraná. Kurz vor seiner Mündung in den Paraná stürzt der Fluss über eine zwei Meilen breite Basaltkante in die Tiefe und bildet dabei bis zu 275 einzelne Fälle. Diese Fälle gehören zum UNESCO-Weltnaturerbe und ziehen jährlich Millionen von Besuchern an. Der Flusslauf ist durch mehrere Staudämme zur Stromerzeugung reguliert, was den natürlichen Wasserfluss beeinflussen kann. Die umliegenden Nationalparks in Brasilien und Argentinien schützen einen der letzten Reste des Atlantischen Regenwaldes, der eine enorme Artenvielfalt beherbergt. Hier finden sich Jaguare, Nasenbären und seltene Orchideenarten in einer feuchten, nebelverhangenen Umgebung. Der Name „Iguaçu“ stammt aus dem Guaraní und bedeutet so viel wie „großes Wasser“, was angesichts der gewaltigen Naturgewalt der Fälle absolut zutreffend ist.",
       hu: "Az Iguaçu-folyó Brazília déli részén található, körülbelül 1320 kilométer hosszú, és elsősorban a világhírű Iguaçu-vízesésekről ismert. A Serra do Mar part menti hegységben ered Curitiba közelében, és nyugati irányba folyik keresztül Paraná államon. Közvetlenül a Paraná-folyóba való torkollása előtt a folyó egy több mint két mérföld széles bazaltperemen zúdul alá, akár 275 különálló vízesést alkotva. Ezek a vízesések az UNESCO Világörökség részét képezik, és évente több millió látogatót vonzanak. A folyó folyását több vízerőmű gátja szabályozza, ami befolyásolhatja a természetes vízhozamot. A környező brazíliai és argentínai nemzeti parkok az atlanti esőerdő egyik utolsó fennmaradt részét védik, amely rendkívüli biodiverzitással rendelkezik. Jaguárok, ormányos medvék és ritka orchideafajok találhatók meg ebben a párás, ködös környezetben. Az „Iguaçu” név a guarani nyelvből származik, jelentése „nagy víz”, ami a vízesések elsöprő erejét látva teljesen találó elnevezés.",
@@ -1776,7 +1766,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Pico da Neblina",
       ro: "Pico da Neblina",
       en: "Pico da Neblina"},
-    image: "/poi-images/br-pico-da-neblina-nature-v2.webp",
     description: {
       de: "Der höchste Berg Brasiliens, oft in dichten Nebel gehüllt, nahe der Grenze zu Venezuela.",
       hu: "Brazília legmagasabb hegye, amelyet gyakran sűrű köd borít a venezuelai határ közelében.",
@@ -2120,7 +2109,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Pico das Agulhas Negras",
       ro: "Pico das Agulhas Negras",
       en: "Pico das Agulhas Negras"},
-    image: "/poi-images/br-pico-das-agulhas-negras-nature-v2.webp",
     description: {
       de: "Der höchste Gipfel im Bundesstaat Rio de Janeiro mit markanten schwarzen Felsnadeln.",
       hu: "Rio de Janeiro állam legmagasabb csúcsa, jellegzetes fekete sziklacsúcsokkal.",
@@ -2500,7 +2488,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Roraima-hegy",
       ro: "Muntele Roraima",
       en: "Mount Roraima"},
-    image: "/poi-images/br-mount-roraima-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Mount Roraima ist der bekannteste der Tepuis, markante Tafelberge im Guayana-Hochland, und liegt am Dreiländereck von Brasilien, Venezuela und Guyana. Mit einer Höhe von 2810 Metern ist er ein geologisches Relikt aus dem Präkambrium und besteht aus etwa zwei Milliarden Jahre altem Sandstein. Die fast senkrecht abfallenden Felswände umschließen ein weitläufiges Plateau, auf dem eine einzigartige Flora und Fauna mit zahlreichen endemischen Arten, wie fleischfressenden Pflanzen, existiert. Der Berg wurde 1884 erstmals von dem britischen Forscher Everard im Thurn bestiegen und diente als Inspiration für Sir Arthur Conan Doyles Roman 'The Lost World'. In der Mythologie der lokalen Pemon-Indianer gilt der Roraima als der Stumpf eines mächtigen Baumes, der einst alle Früchte der Welt trug. Die extremen Wetterbedingungen auf dem Gipfel sorgen für häufige Niederschläge, die spektakuläre Wasserfälle an den Klippen entstehen lassen.",
       hu: "A Mount Roraima a guyanai pajzs legismertebb táblahegye, amely Brazília, Venezuela és Guyana hármas határán emelkedik a magasba. A 2810 méter magas képződmény a prekambriumi korszakból származik, kőzetei körülbelül kétmilliárd éves homokkőből állnak, ami a Föld egyik legősibb geológiai formációjává teszi. A hegyet szinte függőleges, 400 méter magas sziklafalak határolják, amelyek egy hatalmas, ködbe burkolózó fennsíkot zárnak körül. Ezen az elszigetelt területen különleges ökoszisztéma alakult ki, ahol számos endemikus faj, például húsevő növények és fekete békák élnek. Első dokumentált megmászása 1884-ben történt Everard im Thurn által, és ez az expedíció ihlette Sir Arthur Conan Doyle 'Az elveszett világ' című regényét. A helyi pemon indiánok hite szerint a Roraima egy hatalmas életfa tönkje, amely egykor a világ minden gyümölcsét biztosította az embereknek.",
@@ -3061,7 +3048,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Pico da Bandeira",
       ro: "Pico da Bandeira",
       en: "Pico da Bandeira"},
-    image: "/poi-images/br-pico-da-bandeira-nature-v2.webp",
     description: {
       de: "Der dritthöchste Berg Brasiliens, ein beliebtes Ziel für Bergsteiger zum Sonnenaufgang.",
       hu: "Brazília harmadik legmagasabb hegye, népszerű célpont a hegymászók körében a napfelkelte megtekintésére.",
@@ -4197,7 +4183,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Cukorsüveg-hegy",
       ro: "Muntele Căpățâna de Zahăr",
       en: "Sugarloaf Mountain"},
-    image: "/poi-images/br-sugarloaf-mountain-nature-v2.webp",
     description: {
       de: "Ein markanter Granitfelsen an der Mündung der Guanabara-Bucht, eines der Wahrzeichen Rios.",
       hu: "Jellegzetes gránitszikla a Guanabara-öböl torkolatánál, Rio egyik jelképe.",
@@ -5441,7 +5426,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Corcovado",
       ro: "Corcovado",
       en: "Corcovado"},
-    image: "/poi-images/br-corcovado-nature-v2.webp",
     description: {
       de: "Ein Berg in Rio de Janeiro, weltberühmt für die massive Christusstatue auf seinem Gipfel.",
       hu: "Hegy Rio de Janeiróban, amely világhírű a csúcsán álló hatalmas Krisztus-szoborról.",
@@ -6757,7 +6741,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Pedra da Gávea",
       ro: "Pedra da Gávea",
       en: "Pedra da Gávea"},
-    image: "/poi-images/br-pedra-da-gavea-nature-v2.webp",
     description: {
       de: "Ein riesiger Monolith, der sich direkt aus dem Ozean in Rio de Janeiro erhebt.",
       hu: "Hatalmas monolit, amely egyenesen az óceánból emelkedik ki Rio de Janeiróban.",
@@ -6849,7 +6832,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Monte Pascoal",
       ro: "Monte Pascoal",
       en: "Monte Pascoal"},
-    image: "/poi-images/br-monte-pascoal-nature-v2.webp",
     description: {
       de: "Historisch bedeutender Berg, das erste Land, das die portugiesischen Entdecker 1500 sahen.",
       hu: "Történelmi jelentőségű hegy, az első szárazföld, amelyet a portugál felfedezők megpillantottak 1500-ban.",
@@ -6896,7 +6878,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Lagoa dos Patos",
       ro: "Lagoa dos Patos",
       en: "Lagoa dos Patos"},
-    image: "/poi-images/br-lagoa-dos-patos-nature-v2.webp",
     description: {
       de: "Die größte Lagune Brasiliens und Südamerikas, parallel zum Atlantischen Ozean gelegen.",
       hu: "Brazília és Dél-Amerika legnagyobb lagúnája, amely párhuzamosan fekszik az Atlanti-óceánnal.",
@@ -6943,7 +6924,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Lagoa Mirim",
       ro: "Lagoa Mirim",
       en: "Mirim Lagoon"},
-    image: "/poi-images/br-lagoa-mirim-nature-v2.webp",
     description: {
       de: "Eine große Küstenlagune, die Brasilien mit Uruguay teilt und für ihre biologische Vielfalt bekannt ist.",
       hu: "Brazília és Uruguay által megosztott nagy tengerparti lagúna, amely biológiai sokféleségéről ismert.",
@@ -8187,7 +8167,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Lagoa da Conceição",
       ro: "Lagoa da Conceição",
       en: "Lagoa da Conceição"},
-    image: "/poi-images/br-lagoa-da-conceicao-nature-v2.webp",
     description: {
       de: "Eine malerische Salzwasserlagune auf der Insel Santa Catarina, umgeben von grünen Hügeln.",
       hu: "Festői sósvízű lagúna a Santa Catarina-szigeten, zöldellő dombokkal körülvéve.",
@@ -8234,7 +8213,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Fernando de Noronha",
       ro: "Fernando de Noronha",
       en: "Fernando de Noronha"},
-    image: "/poi-images/br-fernando-de-noronha-nature-v2.webp",
     description: {
       de: "Ein geschütztes vulkanisches Archipel im Atlantik, berühmt für seine unberührten Strände und Meeresbewohner.",
       hu: "Védett vulkáni szigetcsoport az Atlanti-óceánban, amely érintetlen strandjairól és tengeri élővilágáról híres.",
@@ -9622,7 +9600,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Ilha Grande",
       ro: "Ilha Grande",
       en: "Ilha Grande"},
-    image: "/poi-images/br-ilha-grande-nature-v2.webp",
     description: {
       de: "Eine autofreie tropische Insel vor der Küste von Rio de Janeiro, bekannt für ihre Dschungelpfade.",
       hu: "Autómentes trópusi sziget Rio de Janeiro partjainál, amely dzsungelösvényeiről ismert.",
@@ -9669,7 +9646,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Bananal-sziget",
       ro: "Insula Bananal",
       en: "Bananal Island"},
-    image: "/poi-images/br-ilha-do-bananal-nature-v2.webp",
     description: {
       de: "Die größte Flussinsel der Welt, eingebettet zwischen zwei Armen des Rio Araguaia.",
       hu: "A világ legnagyobb folyami szigete, az Araguaia-folyó két ága közé ékelődve.",
@@ -9716,7 +9692,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Marajó-sziget",
       ro: "Insula Marajó",
       en: "Marajó Island"},
-    image: "/poi-images/br-ilha-de-marajo-nature-v2.webp",
     description: {
       de: "Eine massive Küsteninsel in der Amazonasmündung, bekannt für ihre Wasserbüffel.",
       hu: "Hatalmas tengerparti sziget az Amazonas torkolatánál, amely a vízibivalyairól ismert.",
@@ -10960,7 +10935,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Ilhabela",
       ro: "Ilhabela",
       en: "Ilhabela"},
-    image: "/poi-images/br-ilhabela-nature-v2.webp",
     description: {
       de: "Die schöne Insel ist ein beliebtes Urlaubsziel mit üppigen Wäldern und zahlreichen Wasserfällen.",
       hu: "A gyönyörű sziget népszerű nyaralóhely buja erdőkkel és számos vízeséssel.",
@@ -11007,7 +10981,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Amazonasi esőerdő",
       ro: "Pădurea Amazoniană",
       en: "Amazon Rainforest"},
-    image: "/poi-images/br-amazon-rainforest-nature-v2.webp",
     description: {
       de: "Der größte tropische Regenwald der Erde, entscheidend für die Regulierung des Weltklimas.",
       hu: "A Föld legnagyobb trópusi esőerdeje, amely kulcsfontosságú a globális éghajlat szabályozásában.",
@@ -11351,7 +11324,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Mata Atlântica",
       ro: "Mata Atlântica",
       en: "Atlantic Forest"},
-    image: "/poi-images/br-atlantic-forest-nature-v2.webp",
     description: {
       de: "Ein stark bedrohtes, aber extrem biodiverses Biom entlang der Ostküste Brasiliens.",
       hu: "Erősen veszélyeztetett, de rendkívül biodiverz biom Brazília keleti partja mentén.",
@@ -12847,7 +12819,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: "Tijuca-erdő",
       ro: "Pădurea Tijuca",
       en: "Tijuca Forest"},
-    image: "/poi-images/br-tijuca-forest-nature-v2.webp",
     description: {
       de: "Der größte städtische Regenwald der Welt, der von Hand im Herzen von Rio de Janeiro wieder aufgeforstet wurde.",
       hu: "A világ legnagyobb városi esőerdeje, amelyet kézzel telepítettek újra Rio de Janeiro szívében.",

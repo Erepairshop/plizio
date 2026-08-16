@@ -57,7 +57,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Kwame Nkrumah Mauzóleum",
       ro: "Mausoleul Kwame Nkrumah",
       en: "Kwame Nkrumah Mausoleum"},
-    image: "/poi-images/kwame-nkrumah-mausoleum-landmarks-v2.webp",
     description: {
       de: "Ein monumentales Denkmal und die letzte Ruhestätte des ersten ghanaischen Präsidenten im Zentrum von Accra.",
       hu: "Egy monumentális emlékmu és Ghána elso elnökének végso nyughelye Accra központjában.",
@@ -104,7 +103,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Függetlenségi diadalív",
       ro: "Arcul Independenței",
       en: "Independence Arch"},
-    image: "/poi-images/independence-arch-landmarks-v2.webp",
     description: {
       de: "Ein Wahrzeichen der ghanaischen Unabhängigkeit auf dem Black Star Square in Accra.",
       hu: "A ghánai függetlenség jelképe a Black Star Square-en, Accrában.",
@@ -196,7 +194,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Fekete Csillag Kapu",
       ro: "Poarta Stelei Negre",
       en: "Black Star Gate"},
-    image: "/poi-images/black-star-gate-landmarks-v2.webp",
     description: {
       de: "Ein monumentaler Torbogen in Accra, der Ghanas Unabhängigkeit und den panafrikanischen Stolz symbolisiert.",
       hu: "Egy hatalmas kapu a Függetlenség tér szélén, melyet Afrika fekete csillaga díszít.",
@@ -288,7 +285,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Accra Nemzeti Stadion",
       ro: "Stadionul Sportiv din Accra",
       en: "Accra Sports Stadium"},
-    image: "/poi-images/accra-sports-stadium-landmarks-v2.webp",
     description: {
       de: "Das nationale Stadion Ghanas in der Hauptstadt Accra ist ein Zentrum für Fußball und große Sportveranstaltungen.",
       hu: "Egy nagy többfunkciós stadion a ghánai fovárosban, fontos sportesemények helyszíne.",
@@ -668,7 +664,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Ghánai Nemzeti Múzeum",
       ro: "Muzeul Național al Ghanei",
       en: "National Museum of Ghana"},
-    image: "/poi-images/national-museum-ghana-landmarks-v2.webp",
     description: {
       de: "Das größte und älteste der Museen in Ghana, mit Ausstellungen zur Kunst, Archäologie und Geschichte.",
       hu: "Ghána legnagyobb és legrégebbi múzeuma muvészeti, régészeti és történelmi kiállításokkal.",
@@ -760,7 +755,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Osu-kastély",
       ro: "Castelul Osu",
       en: "Osu Castle"},
-    image: "/poi-images/osu-castle-landmarks-v2.webp",
     description: {
       de: "Eine historische Festung an der Küste von Accra, die von dänischen Siedlern im 17. Jahrhundert erbaut wurde.",
       hu: "Történelmi erodítmény Accra partján, amelyet dán telepesek építettek a 17. században.",
@@ -807,7 +801,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Elmina-kastély",
       ro: "Castelul Elmina",
       en: "Elmina Castle"},
-    image: "/poi-images/elmina-castle-landmarks-v2.webp",
     description: {
       de: "Ein markantes Wahrzeichen an der Küste, das für seine strahlend weißen Mauern und seine düstere koloniale Geschichte bekannt ist.",
       hu: "A legrégebbi európai erodítmény a Szaharától délre, amelyet a portugálok építettek 1482-ben.",
@@ -899,7 +892,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Cape Coast-kastély",
       ro: "Castelul Cape Coast",
       en: "Cape Coast Castle"},
-    image: "/poi-images/cape-coast-castle-landmarks-v2.webp",
     description: {
       de: "Eine beeindruckende Küstenfestung, die stark in den historischen transatlantischen Sklavenhandel involviert war.",
       hu: "Lenyugözo tengerparti erod, amely erosen érintett volt a történelmi transzatlanti rabszolgakereskedelemben.",
@@ -991,7 +983,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Larabanga mecset",
       ro: "Moscheea Larabanga",
       en: "Larabanga Mosque"},
-    image: "/poi-images/larabanga-mosque-landmarks-v2.webp",
     description: {
       de: "Die älteste Moschee in Ghana und eine der ältesten in Westafrika, im sudanesisch-sahelischen Stil erbaut.",
       hu: "Ghána legrégebbi és Nyugat-Afrika egyik legrégebbi mecsete, szudáni-szaheli stílusban építve.",
@@ -1155,7 +1146,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Baba Yara Stadion",
       ro: "Stadionul Baba Yara",
       en: "Baba Yara Stadium"},
-    image: "/poi-images/baba-yara-stadium-landmarks-v2.webp",
     description: {
       de: "Das größte Stadion Ghanas befindet sich in Kumasi und ist die Heimstätte des berühmten Fußballvereins Asante Kotoko.",
       hu: "Ghána legnagyobb sportstadionja, Kumasi szívében található.",
@@ -1247,7 +1237,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Manhyia-palota",
       ro: "Palatul Manhyia",
       en: "Manhyia Palace"},
-    image: "/poi-images/manhyia-palace-landmarks-v2.webp",
     description: {
       de: "Der Sitz des Asantehene, des Königs des Ashanti-Reiches, reich an Tradition und Geschichte.",
       hu: "Az asantehene, az ashanti birodalom királyának székhelye, hagyományokban és történelemben gazdag.",
@@ -1375,7 +1364,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Kejetia Piac",
       ro: "Pia?a Kejetia",
       en: "Kejetia Market"},
-    image: "/poi-images/kejetia-market-landmarks-v2.webp",
     description: {
       de: "Einer der größten Freiluftmärkte Westafrikas, ein riesiger Komplex aus Ständen und Händlern in Kumasi.",
       hu: "Nyugat-Afrika egyik legnagyobb szabadtéri piaca, standok és árusok hatalmas komplexuma Kumasiban.",
@@ -1503,7 +1491,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Jubilee House",
       ro: "Jubilee House",
       en: "Jubilee House"},
-    image: "/poi-images/jubilee-house-landmarks-v2.webp",
     description: {
       de: "Der Präsidentenpalast in Accra, der als Residenz und Büro für den Präsidenten von Ghana dient.",
       hu: "Az accrai elnöki palota, amely Ghána elnökének rezidenciájaként és hivatalaként szolgál.",
@@ -1595,7 +1582,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Ghánai Nemzeti Színház",
       ro: "Teatrul Național din Ghana",
       en: "National Theatre of Ghana"},
-    image: "/poi-images/national-theatre-ghana-landmarks-v2.webp",
     description: {
       de: "Ein architektonisches Highlight in Accra, dessen Design an ein Segelschiff oder eine aufsteigende Welle erinnert.",
       hu: "Feltuno épület Accrában, amelynek kialakítása egy vitorlás hajóra vagy egy madárra emlékeztet.",
@@ -2011,7 +1997,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Jamestowni világítótorony",
       ro: "Farul din Jamestown",
       en: "Jamestown Lighthouse"},
-    image: "/poi-images/jamestown-lighthouse-landmarks-v2.webp",
     description: {
       de: "Der rot-weiß gestreifte Leuchtturm in Jamestown ist eines der bekanntesten Symbole des historischen Viertels von Accra.",
       hu: "Egy ikonikus, piros-fehér csíkos világítótorony Accra történelmi Jamestown negyedében.",
@@ -2247,7 +2232,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Szentháromság-székesegyház",
       ro: "Catedrala Sfânta Treime",
       en: "Holy Trinity Cathedral"},
-    image: "/poi-images/holy-trinity-cathedral-accra-landmarks-v2.webp",
     description: {
       de: "Eine beeindruckende anglikanische Kathedrale in Accra, bekannt für ihre koloniale Architektur.",
       hu: "Lenyugözo anglikán katedrális Accrában, amely gyarmati építészetérol ismert.",
@@ -2294,7 +2278,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Ghánai Nemzeti Mecset",
       ro: "Moscheea Naționala a Ghanei",
       en: "Ghana National Mosque"},
-    image: "/poi-images/national-mosque-ghana-landmarks-v2.webp",
     description: {
       de: "Die zweitgrößte Moschee Westafrikas, finanziert von der türkischen Regierung im osmanischen Stil.",
       hu: "Nyugat-Afrika második legnagyobb mecsete, amelyet a török kormány finanszírozott oszmán stílusban.",
@@ -2422,7 +2405,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Metal Cross Erod",
       ro: "Fortul Metal Cross",
       en: "Fort Metal Cross"},
-    image: "/poi-images/fort-metal-cross-landmarks-v2.webp",
     description: {
       de: "Ein britisches Fort an der Küste bei Dixcove, das auf einem markanten Felsen erbaut wurde.",
       hu: "Egy brit erod a parton Dixcove közelében, amelyet egy feltuno sziklára építettek.",
@@ -2514,7 +2496,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Batenstein Erod",
       ro: "Fortul Batenstein",
       en: "Fort Batenstein"},
-    image: "/poi-images/fort-batenstein-landmarks-v2.webp",
     description: {
       de: "Ein ehemaliges niederländisches Fort auf einem Hügel in Butre, das einen spektakulären Blick auf die Bucht bietet.",
       hu: "Butre városában, egy domb tetején található egykori holland erőd romjai.",
@@ -2642,7 +2623,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "San Sebastian Erod",
       ro: "Fortul San Sebastian",
       en: "Fort San Sebastian"},
-    image: "/poi-images/fort-san-sebastian-landmarks-v2.webp",
     description: {
       de: "Eines der ältesten Forts an der ghanaischen Küste in Shama, ursprünglich von Portugiesen erbaut.",
       hu: "Az egyik legrégebbi erod a ghánai tengerparton Shama-ban, eredetileg a portugálok építették.",
@@ -2806,7 +2786,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Adomi híd",
       ro: "Podul Adomi",
       en: "Adomi Bridge"},
-    image: "/poi-images/adomi-bridge-landmarks-v2.webp",
     description: {
       de: "Die einzige Hängebrücke Ghanas, die den Voltastrom überspannt und eine wichtige Verkehrsader darstellt.",
       hu: "Ghána egyetlen függohídja, amely a Volta folyón ível át, és fontos közlekedési útvonal.",
@@ -2898,7 +2877,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Akosombo-gát",
       ro: "Barajul Akosombo",
       en: "Akosombo Dam"},
-    image: "/poi-images/akosombo-dam-landmarks-v2.webp",
     description: {
       de: "Ein riesiger Staudamm am Volta-Fluss, der den Volta-See schuf und große Teile Ghanas mit Strom versorgt.",
       hu: "Hatalmas gát a Volta folyón, amely létrehozta a Volta-tavat, és Ghána nagy részét árammal látja el.",
@@ -3098,7 +3076,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Aliu Mahama Stadion",
       ro: "Stadionul Aliu Mahama",
       en: "Aliu Mahama Sports Stadium"},
-    image: "/poi-images/aliu-mahama-stadium-landmarks-v2.webp",
     description: {
       de: "Ein großes Sportstadion in Tamale, das für den Afrika-Cup 2008 neu errichtet wurde.",
       hu: "Egy nagy sportstadion Tamale-ban, amelyet a 2008-as Afrikai Nemzetek Kupájára építettek.",
@@ -3145,7 +3122,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Ndewura Jakpa Sírja",
       ro: "Mormântul lui Ndewura Jakpa",
       en: "Ndewura Jakpa Tomb"},
-    image: "/poi-images/ndewura-jakpa-tomb-landmarks-v2.webp",
     description: {
       de: "Die historische Ruhestätte des legendären Kriegerkönigs und Gründers des Gonja-Reiches.",
       hu: "A legendás harcos király és a Gonja Birodalom alapítójának történelmi nyughelye.",
@@ -3273,7 +3249,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Wesley Metodista Székesegyház",
       ro: "Catedrala Metodista Wesley",
       en: "Wesley Methodist Cathedral"},
-    image: "/poi-images/wesley-methodist-cathedral-landmarks-v2.webp",
     description: {
       de: "Eine majestätische Kirche in Cape Coast, die eine zentrale Rolle in der Ausbreitung des Methodismus in Ghana spielte.",
       hu: "Fenséges templom Cape Coaston, amely központi szerepet játszott a metodizmus ghánai elterjedésében.",
@@ -3365,7 +3340,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Santo Antonio Erod",
       ro: "Fortul Sfântul Anton",
       en: "Fort Saint Anthony"},
-    image: "/poi-images/fort-saint-anthony-landmarks-v2.webp",
     description: {
       de: "Ein ehemaliges portugiesisches Fort in Axim, das zweitälteste Bauwerk dieser Art an der Küste Ghanas.",
       hu: "Egykori portugál erod Aximban, a második legrégebbi ilyen jellegu építmény Ghána partjainál.",
@@ -3457,7 +3431,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Groß Friedrichsburg",
       ro: "Groß Friedrichsburg",
       en: "Fort Gross-Friedrichsburg"},
-    image: "/poi-images/fort-gross-friedrichsburg-landmarks-v2.webp",
     description: {
       de: "Ein bemerkenswertes Fort, das von den Brandenburgern erbaut wurde, als einziger deutscher Außenposten in Westafrika.",
       hu: "A brandenburgiak által épített figyelemre méltó erod, amely az egyetlen német eloretolt helyorség volt Nyugat-Afrikában.",
@@ -3504,7 +3477,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Navrongói székesegyház",
       ro: "Catedrala din Navrongo",
       en: "Navrongo Cathedral"},
-    image: "/poi-images/navrongo-cathedral-landmarks-v2.webp",
     description: {
       de: "Eine faszinierende Basilika aus dem Jahr 1906, erbaut aus Lehmziegeln mit Wandmalereien, die lokale und westliche Kunst verbinden.",
       hu: "Egy lenyugözo, 1906-ból származó bazilika, amely vályogtéglából épült, és a helyi és nyugati muvészetet ötvözo falfestményekkel büszkélkedhet.",
@@ -3632,7 +3604,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
       hu: "Essipong Stadion",
       ro: "Stadionul Essipong",
       en: "Essipong Stadium"},
-    image: "/poi-images/essipong-stadium-landmarks-v2.webp",
     description: {
       de: "Ein modernes Mehrzweckstadion in der Nähe von Sekondi-Takoradi, das für internationale Fußballturniere genutzt wird.",
       hu: "Modern stadion Sekondi-Takoradi ikervárosban, amelyet nemzetközi futballtornákra építettek.",

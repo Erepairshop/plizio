@@ -31,7 +31,6 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       pt: ["Com 3.011 metros, é a montanha mais alta do país.", "Parte do sistema vulcânico da 'Linha de Camarões'.", "As encostas estão divididas em diferentes zonas ecológicas.", "Habitat importante para espécies raras de macacos.", "O vulcão está geologicamente ativo, mas atualmente em fase de repouso.", "Oferece uma vista até à costa dos Camarões com tempo limpo."],
       fr: ["Avec 3 011 mètres, c'est la plus haute montagne du pays.", "Fait partie du système volcanique de la 'Ligne du Cameroun'.", "Les pentes sont divisées en différentes zones écologiques.", "Habitat important pour des espèces de singes rares.", "Le volcan est géologiquement actif mais actuellement en phase de repos.", "Offre par temps clair une vue jusqu'à la côte du Cameroun."],
     }, },
-    image: "/poi-images/pico-basile-nature-v2.webp",
     description: {
       de: "Der höchste Berg Äquatorialguineas, ein massiver Vulkan auf der Insel Bioko mit Blick auf Malabo.",
       hu: "Egyenlítői-Guinea legmagasabb hegye, egy masszív tűzhányó Bioko szigetén, amely Malabóra néz.",
@@ -167,7 +166,6 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       pt: ["O rio mais longo do continente (aprox. 338 km).", "Rota de transporte central para a indústria madeireira.", "A foz do rio é uma zona ecológica dinâmica.", "Habitat de crocodilos e de uma rica vida piscícola.", "A ponte em Mbini é uma estrutura marcante sobre o rio."],
       fr: ["Plus long fleuve de la partie continentale (env. 338 km).", "Voie de transport centrale pour l'industrie du bois.", "L'embouchure du fleuve est une zone écologique dynamique.", "Habitat pour les crocodiles et une faune piscicole riche.", "Le pont de Mbini est un ouvrage remarquable enjambant le fleuve."],
     }, },
-    image: "/poi-images/rio-benito-nature-v2.webp",
     description: {
       de: "Der längste Fluss im kontinentalen Teil von Äquatorialguinea, der das Land von Osten nach Westen durchquert.",
       hu: "Egyenlítői-Guinea kontinentális részének leghosszabb folyója, amely keletről nyugatra szeli át az országot.",
@@ -235,7 +233,6 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       pt: ["Ilha com cerca de 14 quilómetros quadrados de área.", "Historicamente um centro importante para o comércio.", "Possui algumas das praias de areia branca mais bonitas da região.", "As águas são conhecidas pela sua elevada transparência.", "Locais de desova importantes para tartarugas marinhas.", "A ilha é um símbolo do passado colonial da região."],
       fr: ["Île d'une superficie d'environ 14 kilomètres carrés.", "Historiquement un centre de commerce important.", "Possède certaines des plus belles plages de sable blanc de la région.", "Les eaux sont réputées pour leur grande transparence.", "Sites de nidification importants pour les tortues marines.", "L'île est un symbole du passé colonial de la région."],
     }, },
-    image: "/poi-images/corisco-island-nature-v2.webp",
     description: {
       de: "Eine paradiesische Insel im Golf von Guinea, bekannt für ihre weißen Sandstrände und türkisfarbenes Wasser.",
       hu: "Paradicsomi sziget a Guineai-öbölben, amely fehér homokos strandjairól és türkizkék vizéről ismert.",
@@ -420,7 +417,6 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       pt: ["Única província do país no hemisfério sul.", "A ilha é de origem vulcânica (formada há milhões de anos).", "Possui um pitoresco lago de cratera no centro.", "Lar do raro olho-branco-de-ano-bom.", "A cultura local é fortemente moldada pelo desenvolvimento isolado.", "A língua oficial inclui também o dialeto 'Fa d'Ambu'."],
       fr: ["Seule province du pays dans l'hémisphère sud.", "L'île est d'origine volcanique (formée il y a des millions d'années).", "Possède un lac de cratère pittoresque au centre.", "Habitat du rare Oiseau-lunettes d'Annobón.", "La culture locale est fortement marquée par un développement isolé.", "La langue officielle inclut aussi le dialecte 'Fa d'Ambu'."],
     }, },
-    image: "/poi-images/annobon-island-nature-v2.webp",
     description: {
       de: "Eine abgelegene Vulkaninsel südlich des Äquators, die einzige Provinz des Landes auf der Südhalbkugel.",
       hu: "Egy távoli vulkáni sziget az Egyenlítőtől délre, az ország egyetlen tartománya a déli féltekén.",
@@ -488,7 +484,6 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       pt: ["Maior ilha da Guiné Equatorial (aprox. 2.017 km²).", "Anteriormente conhecida pelo nome de Fernando Pó.", "Centro da produção nacional de cacau.", "A ilha possui uma terra vulcânica muito fértil.", "Oferece uma imensa diversidade ecológica num espaço reduzido.", "Sede da capital Malabo."],
       fr: ["Plus grande île de Guinée équatoriale (env. 2 017 km²).", "Anciennement connue sous le nom de Fernando Pó.", "Centre de la production nationale de cacao.", "L'île possède une terre volcanique très fertile.", "Offre une immense diversité écologique sur un petit espace.", "Siège de la capitale Malabo."],
     }, },
-    image: "/poi-images/bioko-island-nature-v2.webp",
     description: {
       de: "Die größte Insel Äquatorialguineas, auf der sich die Hauptstadt Malabo befindet, geprägt von vulkanischer Geographie.",
       hu: "Egyenlítői-Guinea legnagyobb szigete, ahol a főváros, Malabo található, vulkáni domborzat jellemzi.",
@@ -537,7 +532,6 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Biao-tó",
       ro: "Lago de Biao",
       en: "Lago de Biao"},
-    image: "/poi-images/lago-de-biao-nature-v2.webp",
     description: {
       de: "Ein malerischer Kratersee im südlichen Teil der Insel Bioko, umgeben von üppiger tropischer Vegetation.",
       hu: "Gyakran felhőkbe burkolózó, festői kráterto Bioko szigetének déli részén, dús trópusi növényzettel körülvéve.",
@@ -650,7 +644,6 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Luba nagy kalderája",
       ro: "Gran Caldera de Luba",
       en: "Gran Caldera de Luba"},
-    image: "/poi-images/gran-caldera-luba-nature-v2.webp",
     description: {
       de: "Ein massiver vulkanischer Einsturzkrater im Süden von Bioko, der eines der unberührtesten Waldgebiete Afrikas beherbergt.",
       hu: "Masszív vulkáni beszakadási kráter Bioko déli részén, amely Afrika egyik legérintetlenebb erdőterületének ad otthont.",
@@ -718,7 +711,6 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Muni-folyó",
       ro: "Râul Muni",
       en: "Muni River"},
-    image: "/poi-images/rio-muni-nature-v2.webp",
     description: {
       de: "Ein breites Ästuar im Südwesten Äquatorialguineas, das dem kontinentalen Teil des Landes seinen Namen gibt.",
       hu: "Széles tölcsértorkolat Egyenlítői-Guinea délnyugati részén, amely az ország kontinentális részének nevét adja.",
@@ -786,7 +778,6 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Ntem-folyó",
       ro: "Râul Ntem",
       en: "Ntem River"},
-    image: "/poi-images/rio-ntem-nature-v2.webp",
     description: {
       de: "Ein bedeutender Fluss im Norden des Landes, der als natürliche Grenze zwischen Kamerun und Äquatorialguinea fungiert.",
       hu: "Jelentős folyó az ország északi részén, amely természetes határként szolgál Kamerun és Egyenlítői-Guinea között.",
@@ -1035,7 +1026,6 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Altos de Nsork Nemzeti Park",
       ro: "Parcul Național Altos de Nsork",
       en: "Altos de Nsork National Park"},
-    image: "/poi-images/altos-de-nsork-nature-v2.webp",
     description: {
       de: "Ein abgelegener Nationalpark im Südosten des Landes, bekannt für seine hügelige Landschaft und unberührten Regenwälder.",
       hu: "Távoli nemzeti park az ország délkeleti részén, amely dombos tájáról és érintetlen esőerdőiről ismert.",
@@ -1103,7 +1093,6 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Wele-folyó",
       ro: "Râul Wele",
       en: "Wele River"},
-    image: "/poi-images/rio-wele-nature-v2.webp",
     description: {
       de: "Ein bedeutender Nebenfluss des Benito-Flusses, der weite Teile des östlichen Äquatorialguinea entwässert.",
       hu: "A Benito-folyó jelentős mellékfolyója, amely Egyenlítői-Guinea keleti részének jelentős területeit csapolja le.",
@@ -1216,7 +1205,6 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Moca-vízesések",
       ro: "Cascadele de la Moca",
       en: "Cascades of Moca"},
-    image: "/poi-images/cascadas-de-moca-nature-v2.webp",
     description: {
       de: "Spektakuläre Wasserfälle im Moca-Tal auf Bioko, die über vulkanisches Gestein in die Tiefe stürzen.",
       hu: "Látványos vízesések a Bioko-szigeti Moca-völgyben, amelyek vulkáni kőzeteken zúdulnak a mélybe.",
@@ -1284,7 +1272,6 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Arenas Blancas",
       ro: "Arenas Blancas",
       en: "Arenas Blancas"},
-    image: "/poi-images/arenas-blancas-nature-v2.webp",
     description: {
       de: "Ein wunderschöner Strandabschnitt in der Nähe von Luba, bekannt für seinen extrem feinen, weißen Sand.",
       hu: "Gyönyörű tengerparti szakasz Luba közelében, amely rendkívül finom, fehér homokjáról ismert.",
@@ -1352,7 +1339,6 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Mitra-hegy",
       ro: "Monte Mitra",
       en: "Monte Mitra"},
-    image: "/poi-images/monte-mitra-nature-v2.webp",
     description: {
       de: "Ein markanter Berg im kontinentalen Äquatorialguinea, der das umliegende Regenwaldbecken überragt.",
       hu: "Jellegzetes hegy Egyenlítői-Guinea kontinentális részén, amely a környező esőerdő-medence fölé magasodik.",
@@ -1420,7 +1406,6 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Guineai-öböl",
       ro: "Golful Guineei",
       en: "Gulf of Guinea"},
-    image: "/poi-images/golfo-de-guinea-nature-v2.webp",
     description: {
       de: "Der Teil des Atlantischen Ozeans, der die Küsten Äquatorialguineas und seiner Inseln umspült.",
       hu: "Az Atlanti-óceán azon része, amely Egyenlítői-Guinea partjait és szigeteit mossa.",
@@ -1488,7 +1473,6 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Rio Campo",
       ro: "Rio Campo",
       en: "Rio Campo"},
-    image: "/poi-images/rio-campo-nature-v2.webp",
     description: {
       de: "Ein Grenzfluss im Norden, der in einem weiten Ästuar in den Atlantik mündet und für seine Fischvorkommen bekannt ist.",
       hu: "Északi határfolyó, amely széles tölcsértorkolattal ömlik az Atlanti-óceánba, és halállományáról ismert.",
@@ -1624,7 +1608,6 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Temelón-hegy",
       ro: "Monte Temelón",
       en: "Monte Temelón"},
-    image: "/poi-images/monte-temelon-nature-v2.webp",
     description: {
       de: "Ein markanter Gipfel in der Provinz Centro Sur, Teil eines wichtigen ökologischen Korridors.",
       hu: "Jellegzetes csúcs Centro Sur tartományban, egy fontos ökológiai folyosó része.",
@@ -1692,7 +1675,6 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Ureca-erdő",
       ro: "Pădurea Ureca",
       en: "Ureca Forest"},
-    image: "/poi-images/bosque-de-ureca-nature-v2.webp",
     description: {
       de: "Einer der regenreichsten Orte der Welt, ein dichter Dschungel an der Südküste von Bioko.",
       hu: "A világ egyik legcsapadékosabb helye, sűrű dzsungel Bioko déli partvidékén.",
@@ -1760,7 +1742,6 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Kié-folyó",
       ro: "Râul Kié",
       en: "Kié River"},
-    image: "/poi-images/rio-kie-nature-v2.webp",
     description: {
       de: "Ein Fluss im nordöstlichen Dreiländereck, der durch Gabun, Kamerun und Äquatorialguinea fließt.",
       hu: "Folyó az északkeleti hármashatárnál, amely Gabonon, Kamerunon és Egyenlítői-Guineán folyik keresztül.",
@@ -1828,7 +1809,6 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
       hu: "Lañen-folyó",
       ro: "Râul Lañen",
       en: "Lañen River"},
-    image: "/poi-images/rio-lanen-nature-v2.webp",
     description: {
       de: "Ein idyllischer Flusslauf im Herzen des Monte Alén Nationalparks, bekannt für seine klaren Stromschnellen.",
       hu: "Idilli folyóág a Monte Alén Nemzeti Park szívében, amely tiszta zúgóiról ismert.",

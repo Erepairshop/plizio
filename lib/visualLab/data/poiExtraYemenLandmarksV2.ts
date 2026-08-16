@@ -197,7 +197,6 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     parent: "YE-SA",
     coords: [44.2153, 15.3503],
     name: { de: "Bab al-Jemen", hu: "Bab al-Jemen", ro: "Bab al-Yemen", en: "Bab al-Yemen"},
-    image: "/poi-images/bab-al-yemen-landmarks-v2.webp",
     description: {
       de: "Das Bab al-Jemen ist das historische Haupttor der Altstadt von Sanaa. Mit seiner beeindruckenden traditionellen jemenitischen Ziegelarchitektur markiert es den Eingang zu einem über 1.000 Jahre alten Handelsviertel.",
       hu: "A Bab al-Jemen a szanaai óváros történelmi főkapuja. Lenyűgöző hagyományos jemeni téglaépítészetével egy több mint 1000 éves kereskedelmi negyed bejáratát jelzi.",
@@ -754,7 +753,6 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     parent: "YE-SA",
     coords: [44.2003, 15.3134],
     name: { de: "Al-Saleh-Moschee", hu: "Al-Száleh mecset", ro: "Moscheea Al-Saleh", en: "Al Saleh Mosque"},
-    image: "/poi-images/al-saleh-mosque-landmarks-v2.webp",
     description: {
       de: "Die Al-Saleh-Moschee ist die größte moderne Moschee des Jemen, eröffnet im Jahr 2008 in Sanaa. Sie verbindet jemenitische Architektur mit modernen Bautechniken und fasst bis zu 44.000 Gläubige.",
       hu: "Az Al-Száleh mecset Jemen legnagyobb modern mecsetje, amelyet 2008-ban nyitottak meg Szanaában. A jemeni építészetet modern építési technikákkal ötvözi, és akár 44 000 hívő befogadására is alkalmas.",
@@ -879,7 +877,6 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     parent: "YE-AD",
     coords: [45.0322, 12.7758],
     name: { de: "Tawila-Zisternen", hu: "Tawila-ciszternák", ro: "Cisternele Tawila", en: "Cisterns of Tawila"},
-    image: "/poi-images/tawila-cisterns-landmarks-v2.webp",
     description: {
       de: "Die Tawila-Zisternen in Aden sind ein antikes Wassermanagementsystem aus vernetzten Becken vulkanischen Ursprungs. Sie wurden errichtet, um Regenwasser aufzufangen und Überschwemmungen in der Stadt zu verhindern.",
       hu: "Az ádeni Tawila-ciszternák egy ősi vízgazdálkodási rendszer, amely vulkanikus eredetű, összekapcsolt medencékből áll. Azért építették, hogy összegyűjtse az esővizet, és megakadályozza a város áradásait.",
@@ -1040,7 +1037,6 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     parent: "YE-AD",
     coords: [45.0485, 12.7781],
     name: { de: "Sira-Festung", hu: "Sira erőd", ro: "Fortăreața Sira", en: "Sira Fortress"},
-    image: "/poi-images/sira-fortress-landmarks-v2.webp",
     description: {
       de: "Die Sira-Festung thront auf einer vulkanischen Insel vor der Küste von Aden. Sie wurde im 11. Jahrhundert errichtet und spielte eine entscheidende Rolle bei der Verteidigung der Stadt gegen zahlreiche Invasoren.",
       hu: "A Sira erőd egy vulkanikus szigeten magasodik Áden partjainál. A 11. században épült, és döntő szerepet játszott a város védelmében számos megszállóval szemben.",
@@ -1084,7 +1080,6 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     parent: "YE-TA",
     coords: [44.0153, 13.5701],
     name: { de: "Kairo-Zitadelle von Taiz", hu: "Kairó-citadella (Taiz)", ro: "Castelul Cairo din Taiz", en: "Cairo Castle of Taiz"},
-    image: "/poi-images/qahira-castle-taiz-landmarks-v2.webp",
     description: {
       de: "Die Kairo-Zitadelle (Qal'at al-Qahira) thront auf einem markanten Felsvorsprung über Taiz. Sie wurde von den Sulaihiden erbaut und diente jahrhundertelang als Festung und königliche Residenz der Rasuliden.",
       hu: "A Kairó-citadella (Qal'at al-Qahira) egy kiemelkedő sziklás hegyfokon magasodik Taiz felett. A szulajhidák építették, és évszázadokon át erődként és a raszulidák királyi rezidenciájaként szolgált.",
@@ -1173,7 +1168,6 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     parent: "YE-HD",
     coords: [48.6259, 15.9262],
     name: { de: "Lehmhochhäuser von Shibam", hu: "Sibámi vályogfelhőkarcolók", ro: "Zgârie-norii din lut de la Shibam", en: "Mud Skyscrapers of Shibam"},
-    image: "/poi-images/shibam-skyscrapers-landmarks-v2.webp",
     description: {
       de: "Die ummauerte Stadt Shibam im Wadi Hadramaut ist als 'Manhattan der Wüste' bekannt. Ihre bis zu elfstöckigen Lehmhochhäuser sind eine architektonische Meisterleistung und bieten seit dem 16. Jahrhundert Schutz vor Überschwemmungen.",
       hu: "A Wadi Hadramautban található, fallal körülvett Sibám várost a 'sivatag Manhattanjeként' ismerik. Az akár tizenegy emeletes vályogfelhőkarcolók építészeti remekművek, és a 16. század óta nyújtanak védelmet az áradások ellen.",
@@ -1217,7 +1211,6 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     parent: "YE-MA",
     coords: [45.2415, 15.4024],
     name: { de: "Großer Damm von Marib", hu: "Máribi nagy gát", ro: "Marele Baraj din Marib", en: "Great Dam of Marib"},
-    image: "/poi-images/great-dam-marib-landmarks-v2.webp",
     description: {
       de: "Die Ruinen des historischen Damms von Marib sind ein Wunderwerk antiker Ingenieurskunst. Dieses Bauwerk der Sabäer transformierte die Wüste für über tausend Jahre in eine blühende Oase, bevor es im 6. Jahrhundert brach.",
       hu: "A történelmi máribi gát romjai az ókori mérnöki munka csodái. A szabeusok építménye több mint ezer évig virágzó oázissá változtatta a sivatagot, mielőtt a 6. században átszakadt volna.",
@@ -1378,7 +1371,6 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     parent: "YE-MA",
     coords: [45.3422, 15.4265],
     name: { de: "Baran-Tempel", hu: "Barán-templom", ro: "Templul Baran", en: "Baran Temple"},
-    image: "/poi-images/baran-temple-landmarks-v2.webp",
     description: {
       de: "Der Baran-Tempel, bekannt für seine sechs charakteristischen monolithischen Säulen, ist eine weitere bedeutende sabäische Stätte in Marib. Auch er wurde dem Gott Almaqah gewidmet und zeugt vom Reichtum der Weihrauchstraße.",
       hu: "A hat jellegzetes monolitikus oszlopáról ismert Barán-templom egy másik jelentős szabeus lelőhely Máribban. Szintén Almakah istennek szentelték, és a Tömjénút gazdagságáról tanúskodik.",
@@ -2319,7 +2311,6 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     parent: "YE-HD",
     coords: [48.9954, 16.0521],
     name: { de: "Al-Mihdar-Minarett", hu: "Al-Mihdar minaret", ro: "Minaretul Al-Mihdar", en: "Al-Mihdar Minaret"},
-    image: "/poi-images/al-mihdar-minaret-landmarks-v2.webp",
     description: {
       de: "Das Minarett der Al-Mihdar-Moschee in Tarim ist mit etwa 50 Metern das höchste Lehmminarett der Welt. Es besticht durch seine leuchtend weiße Kalksteinfassade und ist ein Symbol für die islamische Gelehrsamkeit der Stadt.",
       hu: "A tarimi Al-Mihdar mecset minaretje mintegy 50 méterével a világ legmagasabb vályogminaretje. Ragyogó fehér mészkőhomlokzatával lenyűgöző látvány, és a város iszlám tudományosságának szimbóluma.",
@@ -2552,7 +2543,6 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     parent: "YE-AM",
     coords: [43.6961, 16.1837],
     name: { de: "Brücke von Shaharah", hu: "Sahara hídja", ro: "Podul din Shaharah", en: "Shaharah Bridge"},
-    image: "/poi-images/shaharah-bridge-landmarks-v2.webp",
     description: {
       de: "Die Brücke von Shaharah ist eine atemberaubende steinerne Bogenbrücke aus dem 17. Jahrhundert, die eine tiefe Schlucht überspannt. Sie verbindet zwei Berggipfel in den unwirtlichen Hängen des nördlichen Jemen.",
       hu: "A Sahara hídja egy lélegzetelállító, 17. századi kő ívhíd, amely egy mély szurdokon ível át. Két hegycsúcsot köt össze Észak-Jemen zord hegyoldalain.",
@@ -2893,7 +2883,6 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     parent: "YE-IB",
     coords: [44.1481, 13.9213],
     name: { de: "Moschee der Königin Arwa", hu: "Arva királynő mecsetje", ro: "Moscheea Reginei Arwa", en: "Queen Arwa Mosque"},
-    image: "/poi-images/queen-arwa-mosque-landmarks-v2.webp",
     description: {
       de: "Die Moschee der Königin Arwa in Jibla stammt aus dem 11. Jahrhundert und war das Zentrum des sulaihidischen Reiches. Königin Arwa ließ ihren Palast in diese wunderschöne Moschee umwandeln, in der sie auch bestattet ist.",
       hu: "A dzsiblái Arva királynő mecset a 11. századból származik, és a szulajhida birodalom központja volt. Arva királynő saját palotáját alakíttatta át erre a gyönyörű mecsetre, ahol el is temették.",
@@ -3162,7 +3151,6 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     parent: "YE-BA",
     coords: [44.9455, 14.4172],
     name: { de: "Amiriya-Moschee", hu: "Amirija mecset", ro: "Moscheea Amiriya", en: "Amiriya Mosque"},
-    image: "/poi-images/amiriya-mosque-landmarks-v2.webp",
     description: {
       de: "Die Amiriya-Moschee in Rada'a ist ein exquisites Bauwerk aus dem 16. Jahrhundert. Sie vereint jemenitische und indische Stilelemente und wurde für ihre meisterhafte Restaurierung mit dem Aga Khan Award ausgezeichnet.",
       hu: "A rada'a-i Amirija mecset egy remek 16. századi építmény. Jemeni és indiai stíluselemeket ötvöz, mesteri felújításáért pedig Aga Khan építészeti díjjal tüntették ki.",
@@ -3467,7 +3455,6 @@ export const poiExtraYemenLandmarksV2: POI[] = [
     parent: "YE-MW",
     coords: [43.9054, 15.5002],
     name: { de: "Historische Stadt Kawkaban", hu: "Kawkaban történelmi városa", ro: "Orașul istoric Kawkaban", en: "Historic City of Kawkaban"},
-    image: "/poi-images/kawkaban-old-city-landmarks-v2.webp",
     description: {
       de: "Kawkaban ist eine befestigte historische Stadt, die auf einem Tafelberg in fast 3.000 Metern Höhe thront. Sie war ein uneinnehmbarer Rückzugsort für Imame und ist bekannt für ihre traditionellen Steinhäuser.",
       hu: "Kawkaban egy erődített történelmi város, amely egy fennsíkon, majdnem 3000 méteres magasságban fekszik. Bevehetetlen menedékhely volt az imámok számára, és hagyományos kőházairól ismert.",

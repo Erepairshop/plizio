@@ -314,7 +314,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-NW",
     coords: [10.150, 5.950],
     name: { de: "Bamenda Kaffeehof", hu: "Bamenda kávéudvar", ro: "Fermă de cafea Bamenda", en: "Bamenda Coffee Farm"},
-    image: "/poi-images/bamenda-kaffeehof-life-v2.webp",
     description: { de: "Traditioneller Kaffeeanbau im Hochland von Bamenda.", hu: "Hagyományos kávétermesztés Bamenda felföldjén.", ro: "Cultivarea tradițională a cafelei în ținuturile înalte din Bamenda.", en: "The coffee gardens around Bamenda offer a glimpse into the region's long-standing coffee culture and traditional highland farming practices." , es: "Cultivo tradicional de café en las tierras altas de Bamenda.", pt: "Cultivo tradicional de café nas terras altas de Bamenda.", fr: "Culture traditionnelle du café dans les hauts plateaux de Bamenda."},
     facts: {
       de: ["Arabica-Bohnen Anbau", "Höhenlage 1200m"],
@@ -430,7 +429,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-EN",
     coords: [14.316, 10.597],
     name: { de: "Maroua Erdnussfeld", hu: "Maroua földimogyoró-föld", ro: "Câmp de arahide Maroua", en: "Maroua Peanut Field"},
-    image: "/poi-images/maroua-erdnussfeld-life-v2.webp",
     description: { de: "Großflächiger Anbau von Erdnüssen im trockenen Norden.", hu: "Kiterjedt földimogyoró-termesztés az aszályos északon.", ro: "Cultivarea pe scară largă a arahidelor în nordul arid.", en: "Large-scale cultivation of peanuts in the arid north." , es: "Cultivo a gran escala de cacahuetes en el árido norte.", pt: "Cultivo em grande escala de amendoim no norte árido.", fr: "Culture à grande échelle d'arachides dans le nord aride."},
     facts: {
       de: ["Wichtige Proteinquelle", "Traditionelle Ernte"],
@@ -843,7 +841,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-SW",
     coords: [9.215, 4.015],
     name: { de: "Limbe Wildtierzentrum", hu: "Limbe vadaspark", ro: "Centrul pentru animale sălbatice Limbe", en: "Limbe Wildlife Center"},
-    image: "/poi-images/limbe-wildtierzentrum-life-v2.webp",
     description: { de: "Das Wildtierzentrum in Limbe kümmert sich um gerettete Primaten und andere Tiere. Es ist auch ein Lernort für Naturschutz im Südwesten Kameruns.", hu: "Menedékhely árva főemlősök és más állatok számára.", ro: "Stație de salvare pentru primate orfane și alte animale.", en: "Rescue station for orphaned primates and other animals." , es: "El centro de vida silvestre de Limbe se ocupa de primates y otros animales rescatados. También es un lugar de aprendizaje para la conservación de la naturaleza en el suroeste de Camerún.", pt: "O centro de vida selvagem em Limbe cuida de primatas e outros animais resgatados. É também um local de aprendizagem para a conservação da natureza no sudoeste dos Camarões.", fr: "Le centre de la vie sauvage de Limbe s'occupe de primates et d'autres animaux sauvés. C'est aussi un lieu d'apprentissage pour la protection de la nature dans le sud-ouest du Cameroun."},
     facts: {
       de: ["in Limbe", "für gerettete Tiere", "wichtiger Naturschutzort"],
@@ -995,7 +992,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-NO",
     coords: [13.383, 9.300],
     name: { de: "Garoua Flussfischerei", hu: "Garoua folyami halászat", ro: "Pescuit fluvial Garoua", en: "Garoua River Fishing"},
-    image: "/poi-images/garoua-flussfischerei-life-v2.webp",
     description: { de: "Die Flussfischerei in Garoua ist eng mit dem Benue und dem lokalen Alltag verbunden. Sie liefert Nahrung und Einkommen für viele Familien.", hu: "A Garoua környéki folyami halászat a Benue és mellékfolyói mentén zajlik. Sok helyi család megélhetését adja.", ro: "Pescuit tradițional pe râul Benue.", en: "River fishing on the Benue near Garoua is a vital traditional activity that sustains the local economy and provides a staple food source." , es: "La pesca fluvial en Garoua está estrechamente ligada al río Benué y a la vida cotidiana local. Proporciona alimento e ingresos a muchas familias.", pt: "A pesca fluvial em Garoua está intimamente ligada ao Benue e à vida quotidiana local. Fornece alimento e rendimento para muitas famílias.", fr: "La pêche fluviale à Garoua est étroitement liée au Bénoué et à la vie quotidienne locale. Elle fournit de la nourriture et des revenus à de nombreuses familles."},
     facts: {
       de: ["am Benue", "wichtig für den Alltag", "lokale Einkommensquelle"],
@@ -1147,7 +1143,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-SU",
     coords: [11.150, 2.916],
     name: { de: "Ebolowa Kakaogarten", hu: "Ebolowa kakaókert", ro: "Grădina de cacao Ebolowa", en: "Ebolowa Cocoa Garden"},
-    image: "/poi-images/ebolowa-kakaogarten-life-v2.webp",
     description: { de: "Die Kakaogärten bei Ebolowa zeigen den Anbau einer der wichtigsten Exportkulturen Kameruns. Sie sind typisch für die landwirtschaftliche Landschaft im Süden.", hu: "Az Ebolowa környéki kakaókertek a déli termőövezet részei. A kakaótermesztés a helyi gazdaság fontos eleme.", ro: "O grădină de cacao administrată de familie în zona pădurilor tropicale.", en: "The cocoa gardens of Ebolowa are the foundation of local livelihoods, where the process of harvesting and drying beans is a common sight." , es: "Los huertos de cacao cerca de Ebolowa muestran el cultivo de uno de los productos de exportación más importantes de Camerún. Son típicos del paisaje agrícola del sur.", pt: "Os jardins de cacau perto de Ebolowa mostram o cultivo de uma das mais importantes culturas de exportação dos Camarões. São típicos da paisagem agrícola do sul.", fr: "Les jardins de cacao près d'Ebolowa présentent la culture de l'une des plus importantes cultures d'exportation du Cameroun. Ils sont typiques du paysage agricole du sud."},
     facts: {
       de: ["Kakaoanbau im Süden", "nahe Ebolowa", "wichtige Exportpflanze"],
@@ -1263,7 +1258,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-OU",
     coords: [10.900, 5.733],
     name: { de: "Foumban Handwerkermarkt", hu: "Foumban kézművespiac", ro: "Piața de artizanat Foumban", en: "Foumban Craft Market"},
-    image: "/poi-images/foumban-handwerkermarkt-life-v2.webp",
     description: { de: "Der Handwerkermarkt von Foumban ist bekannt für Schnitzereien, Masken und Metallarbeiten. Er spiegelt die starke Handwerkstradition der Stadt wider.", hu: "A foumbani kézműves piac a hagyományos díszítő- és használati tárgyak központja. A város kulturális életének része.", ro: "Piața meșteșugarilor din Foumban este un loc important pentru artizani și obiecte tradiționale. Aici se întâlnesc comerțul local și meșteșugurile bamoun.", en: "The artisan market in Foumban is famous for its exquisite bronze work and wood carvings, preserving the ancient crafts of the Bamum people." , es: "El mercado de artesanía de Foumban es conocido por sus tallas, máscaras y trabajos en metal. Refleja la fuerte tradición artesanal de la ciudad.", pt: "O mercado de artesanato de Foumban é conhecido por esculturas, máscaras e trabalhos em metal. Reflete a forte tradição artesanal da cidade.", fr: "Le marché artisanal de Foumban est réputé pour ses sculptures, ses masques et ses travaux sur métal. Il reflète la forte tradition artisanale de la ville."},
     facts: {
       de: ["traditionelles Kunsthandwerk", "in Foumban", "bekannt für Souvenirs"],
@@ -1298,7 +1292,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-OU",
     coords: [10.050, 5.450],
     name: { de: "Dschang Museumspark", hu: "Dschang múzeumpark", ro: "Parcul muzeului Dschang", en: "Dschang Museum Park"},
-    image: "/poi-images/dschang-museumspark-life-v2.webp",
     description: { de: "Ein interaktiver Park am Museum der Zivilisationen.", hu: "Interaktív park a Civilizációk Múzeuma mellett.", ro: "Parcul muzeal din Dschang combină spațiul verde cu prezentarea culturii locale. Locul este folosit pentru vizite, educație și activități de familie.", en: "The museum park in Dschang is a peaceful cultural space where history, nature, and community life intersect in the western highlands." , es: "Un parque interactivo en el Museo de las Civilizaciones.", pt: "Um parque interativo junto ao Museu das Civilizações.", fr: "Un parc interactif au Musée des Civilisations."},
     facts: {
       de: ["Lehrreicher Parkbesuch", "Lokale Geschichte"],
@@ -1333,7 +1326,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-SU",
     coords: [9.916, 2.933],
     name: { de: "Kribi Fischmarkt", hu: "Kribi halpiac", ro: "Piața de pește Kribi", en: "Kribi Fish Market"},
-    image: "/poi-images/kribi-fischmarkt-life-v2.webp",
     description: { de: "Direkter Verkauf des frischen Tagesfangs am Strand.", hu: "A napi friss fogás közvetlen értékesítése a strandon.", ro: "Vânzarea directă a capturii proaspete de zi pe plajă.", en: "The Kribi fish market is a lively coastal hub where the daily catch of prawns, lobsters, and sea fish is sold directly from the Atlantic." , es: "Venta directa de la captura fresca del día en la playa.", pt: "Venda direta da captura fresca do dia na praia.", fr: "Vente directe de la pêche fraîche du jour sur la plage."},
     facts: {
       de: ["Frische Meeresfrüchte", "Küstentradition"],
@@ -1369,7 +1361,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-SW",
     coords: [9.233, 4.150],
     name: { de: "Buea Teeplantage", hu: "Buea teaültetvény", ro: "Plantație de ceai Buea", en: "Buea Tea Plantation"},
-    image: "/poi-images/buea-teeplantage-life-v2.webp",
     description: { de: "Die Teeplantagen bei Buea gehören zur Landwirtschaft am Fuß des Mount Cameroon. Das kühle Hochlandklima begünstigt den Teeanbau.", hu: "Tea termesztése a Kamerun-hegy lejtőin.", ro: "Cultivarea ceaiului pe versanții muntelui Camerun.", en: "Cultivation of tea on the slopes of Mount Cameroon." , es: "Las plantaciones de té cerca de Buea forman parte de la agricultura al pie del Monte Camerún. El clima fresco de montaña favorece el cultivo de té.", pt: "As plantações de chá perto de Buea fazem parte da agricultura no sopé do Monte Camarões. O clima fresco de altitude favorece o cultivo de chá.", fr: "Les plantations de thé près de Buea font partie de l'agriculture au pied du Mont Cameroun. Le climat frais d'altitude favorise la culture du thé."},
     facts: {
       de: ["Teeanbau in Buea", "am Mount Cameroon", "kühleres Hochlandklima"],
@@ -1558,7 +1549,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-OU",
     coords: [10.416, 5.483],
     name: { de: "Bafoussam Maisfeld", hu: "Bafoussam kukoricaföld", ro: "Câmp de porumb Bafoussam", en: "Bafoussam Corn Field"},
-    image: "/poi-images/bafoussam-maisfeld-life-v2.webp",
     description: { de: "Die Maisfelder bei Bafoussam zeigen die Bedeutung von Grundnahrungsmitteln im westkamerunischen Hochland. Der Anbau ist eng mit dem lokalen Markt verbunden.", hu: "A Bafoussam környéki kukoricaföldek a Nyugati-fennsík mezőgazdaságát mutatják. A gabonatermelés itt mindennapi tevékenység.", ro: "Zonă mare de cultivare a porumbului în regiunea de vest.", en: "The expansive maize fields around Bafoussam are a testament to the agricultural productivity of the fertile volcanic soils in the West Region." , es: "Los campos de maíz cerca de Bafoussam muestran la importancia de los alimentos básicos en las tierras altas del oeste de Camerún. El cultivo está estrechamente ligado al mercado local.", pt: "Os campos de milho perto de Bafoussam mostram a importância dos alimentos básicos nas terras altas do oeste dos Camarões. O cultivo está intimamente ligado ao mercado local.", fr: "Les champs de maïs près de Bafoussam montrent l'importance des aliments de base dans les hautes terres de l'ouest du Cameroun. La culture est étroitement liée au marché local."},
     facts: {
       de: ["Maisanbau im Westen", "nahe Bafoussam", "wichtig für die Ernährung"],
@@ -1594,7 +1584,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-ES",
     coords: [13.683, 4.583],
     name: { de: "Bertoua Waldhonig", hu: "Bertoua erdei méz", ro: "Miere de pădure Bertoua", en: "Bertoua Forest Honey"},
-    image: "/poi-images/bertoua-waldhonig-life-v2.webp",
     description: { de: "Waldhonig aus der Gegend von Bertoua stammt aus den Waldgebieten des Ostens. Er ist ein typisches Produkt der lokalen Sammelwirtschaft.", hu: "Bertoua környékén az erdei mézgyűjtés és a méhészkedés is fontos. A keleti erdőségek termékeihez kötődik.", ro: "Mierea de pădure din Bertoua este legată de resursele naturale din estul Camerunului. Produsul reflectă activitățile locale din zonele forestiere.", en: "Wild forest honey from the Bertoua region is highly prized for its unique flavor, harvested using traditional methods from the dense eastern forests." , es: "La miel de bosque de los alrededores de Bertoua proviene de las zonas forestales del este. Es un producto típico de la economía local de recolección.", pt: "O mel de floresta da zona de Bertoua provém das áreas florestais do leste. É um produto típico da economia local de recolha.", fr: "Le miel de forêt des environs de Bertoua provient des zones forestières de l'Est. C'est un produit typique de l'économie de cueillette locale."},
     facts: {
       de: ["Produkt aus dem Waldgebiet", "bei Bertoua", "Teil der Sammelwirtschaft"],
@@ -1783,7 +1772,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-NW",
     coords: [10.150, 5.966],
     name: { de: "Bamenda Museumsgarten", hu: "Bamenda múzeumkert", ro: "Grădina muzeului Bamenda", en: "Bamenda Museum Garden"},
-    image: "/poi-images/bamenda-museumsgarten-life-v2.webp",
     description: { de: "Der Museumsgarten in Bamenda verbindet Grünfläche mit lokaler Kultur. Er ist ein ruhiger Ort für Lernen und Erholung in der Stadt.", hu: "Családbarát kert kulturális tanösvénnyel.", ro: "O grădină potrivită pentru familie cu un traseu cultural.", en: "The museum garden in Bamenda is a tranquil space that blends historical education with the lush greenery of the northwestern highlands." , es: "El jardín del museo en Bamenda combina espacios verdes con la cultura local. Es un lugar tranquilo para el aprendizaje y el descanso en la ciudad.", pt: "O jardim do museu em Bamenda combina áreas verdes com a cultura local. É um lugar tranquilo para aprendizagem e lazer na cidade.", fr: "Le jardin du musée à Bamenda allie espaces verts et culture locale. C'est un lieu calme pour l'apprentissage et la détente dans la ville."},
     facts: {
       de: ["in Bamenda", "grüne Anlage", "mit kulturellem Bezug"],
@@ -1819,7 +1807,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-EN",
     coords: [14.566, 11.416],
     name: { de: "Waza Vogelbeobachtung", hu: "Waza madármegfigyelés", ro: "Observarea păsărilor Waza", en: "Waza Bird Watching"},
-    image: "/poi-images/waza-vogelbeobachtung-life-v2.webp",
     description: { de: "Die Vogelbeobachtung in Waza ist Teil des Besuchserlebnisses im Norden Kameruns. Die offenen Savannen ziehen viele Arten an.", hu: "A Waza térsége a madármegfigyelés egyik ismert kameruni helyszíne. A vizes élőhelyek sok fajt vonzanak.", ro: "Un paradis pentru observatorii de păsări din apropierea Parcului Național Waza.", en: "A paradise for bird watchers near Waza National Park." , es: "La observación de aves en Waza es parte de la experiencia de visita en el norte de Camerún. Las sabanas abiertas atraen a muchas especies.", pt: "A observação de aves em Waza faz parte da experiência de visita no norte dos Camarões. As savanas abertas atraem muitas espécies.", fr: "L'observation des oiseaux à Waza fait partie de l'expérience de visite dans le nord du Cameroun. Les savanes ouvertes attirent de nombreuses espèces."},
     facts: {
       de: ["im Norden Kameruns", "in der Savanne", "gut für Vogelbeobachtung"],
@@ -1855,7 +1842,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-SU",
     coords: [12.666, 2.666],
     name: { de: "Djoum Regenwald-Reservat", hu: "Djoum esőerdei rezervátum", ro: "Rezervația pădurilor tropicale Djoum", en: "Djoum Rainforest Reserve"},
-    image: "/poi-images/djoum-regenwald-life-v2.webp",
     description: { de: "Der Regenwald bei Djoum ist Teil des dichten südlichen Waldgürtels Kameruns. Er prägt das Leben mit Holz, Jagd und Sammelwirtschaft.", hu: "A Djoum környéki esőerdő a déli Kamerun sűrű erdős tájait képviseli. A helyi élet az erdő erőforrásaihoz kapcsolódik.", ro: "Zona de pădure tropicală din Djoum face parte din peisajul ecuatorial al sudului Camerunului. Aici viața locală este strâns legată de resursele forestiere.", en: "The rainforests around Djoum are home to incredible biodiversity, where the rhythms of life are dictated by the ancient canopy of the Congo Basin." , es: "La selva cerca de Djoum forma parte del denso cinturón forestal del sur de Camerún. Define la vida con la madera, la caza y la recolección.", pt: "A selva perto de Djoum faz parte da densa cintura florestal do sul dos Camarões. Molda a vida com a madeira, a caça e a recolha.", fr: "La forêt tropicale près de Djoum fait partie de la dense ceinture forestière du sud du Cameroun. Elle façonne la vie par le bois, la chasse et la cueillette."},
     facts: {
       de: ["dichter Regenwald", "im Süden Kameruns", "wichtig für Waldnutzung"],
@@ -1936,7 +1922,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-SU",
     coords: [11.150, 2.900],
     name: { de: "Ebolowa Obstmarkt", hu: "Ebolowa gyümölcspiac", ro: "Piața de fructe Ebolowa", en: "Ebolowa Fruit Market"},
-    image: "/poi-images/ebolowa-obstmarkt-life-v2.webp",
     description: { de: "Markt für tropische Früchte aus dem Süden.", hu: "Déli trópusi gyümölcsök piaca.", ro: "Piață pentru fructe tropicale din sud.", en: "Market for tropical fruits from the south." , es: "Mercado de frutas tropicales del sur.", pt: "Mercado de frutas tropicais do sul.", fr: "Marché de fruits tropicaux du sud."},
     facts: {
       de: ["Mangos und Ananas", "Frischer Direktverkauf"],
@@ -1972,7 +1957,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-SU",
     coords: [11.983, 2.933],
     name: { de: "Sangmelima Kakaokooperative", hu: "Sangmelima kakaószövetkezet", ro: "Cooperativa de cacao Sangmelima", en: "Sangmelima Cocoa Cooperative"},
-    image: "/poi-images/sangmelima-kakaokooperative-life-v2.webp",
     description: { de: "Die Kakaokooperative in Sangmelima bündelt den Anbau und Verkauf von Kakao aus dem Süden Kameruns. Sie ist Teil der lokalen Kleinbauernwirtschaft.", hu: "Kakaó közösségi feldolgozása.", ro: "Procesarea comunitară a cacao-ului.", en: "A cocoa cooperative near Sangmelima. It helps small farmers organize production and market their harvests." , es: "La cooperativa de cacao de Sangmelima agrupa el cultivo y la venta de cacao del sur de Camerún. Forma parte de la economía local de pequeños agricultores.", pt: "A cooperativa de cacau de Sangmelima agrupa o cultivo e a venda de cacau do sul dos Camarões. Faz parte da economia local de pequenos agricultores.", fr: "La coopérative de cacao de Sangmélima regroupe la culture et la vente de cacao du sud du Cameroun. Elle fait partie de l'économie locale des petits planteurs."},
     facts: {
       de: ["Kakao im Süden", "Kooperative bei Sangmelima", "stützt Kleinbauern"],
@@ -2053,7 +2037,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-LT",
     coords: [9.700, 4.050],
     name: { de: "Ambe Tierstation", hu: "Ambe állomás", ro: "Stația pentru animale Ambe", en: "Ambe Animal Station"},
-    image: "/poi-images/ambe-tierstation-life-v2.webp",
     description: { de: "Zentrum für Wildtierbeobachtung.", hu: "Vadvilág-megfigyelő központ.", ro: "Centru pentru observarea vieții sălbatice.", en: "Center for wildlife observation." , es: "Centro para la observación de la vida silvestre.", pt: "Centro para observação de vida selvagem.", fr: "Centre d'observation de la faune sauvage."},
     facts: {
       de: ["Ökologische Bildung", "Tierbeobachtung"],
@@ -2215,7 +2198,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-OU",
     coords: [10.600, 5.500],
     name: { de: "Foumbot Gemüsemarkt", hu: "Foumbot zöldségpiac", ro: "Piața de legume Foumbot", en: "Foumbot Vegetable Market"},
-    image: "/poi-images/foumbot-gemuesemarkt-life-v2.webp",
     description: { de: "Der Gemüsemarkt von Foumbot versorgt die Region mit frischen Produkten aus dem Hochland. Er ist ein typischer Treffpunkt für Händler und Bauern.", hu: "Nagy kereskedelmi központ friss zöldségek számára.", ro: "O piață mare pentru legume proaspete.", en: "The vegetable market in Foumbot is one of the most productive in the country, supplying fresh greens and tubers to markets across Cameroon." , es: "El mercado de verduras de Foumbot abastece a la región con productos frescos de las tierras altas. Es un punto de encuentro típico para comerciantes y agricultores.", pt: "O mercado de vegetais de Foumbot abastece a região com produtos frescos das terras altas. É um ponto de encontro típico para comerciantes e agricultores.", fr: "Le marché aux légumes de Foumbot approvisionne la région en produits frais des hauts plateaux. C'est un lieu de rencontre typique pour les commerçants et les agriculteurs."},
     facts: {
       de: ["regionaler Markt", "im Westen Kameruns", "Handel mit frischem Gemüse"],
@@ -2251,7 +2233,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-CE",
     coords: [11.500, 3.516],
     name: { de: "Mbalmayo Forstgarten", hu: "Mbalmayo erdőkert", ro: "Grădina forestieră Mbalmayo", en: "Mbalmayo Forest Garden"},
-    image: "/poi-images/mbalmayo-forstgarten-life-v2.webp",
     description: { de: "Der Forstgarten von Mbalmayo dient der Aufzucht und Pflege von Jungpflanzen. Er ist auch ein praktischer Lernort für Forstwirtschaft.", hu: "A mbalmaiói erdészeti faiskola a fák nevelésére és az újratelepítésre szolgál. A környék erdőgazdálkodásának része.", ro: "Grădina forestieră din Mbalmayo este asociată cu educația și cercetarea în domeniul pădurilor. Spațiul combină vegetația cu funcții practice și didactice.", en: "The forest gardens of Mbalmayo showcase sustainable agroforestry practices, where crops are grown in harmony with the surrounding tropical trees." , es: "El vivero forestal de Mbalmayo se dedica al cultivo y cuidado de plantas jóvenes. Es también un lugar de aprendizaje práctico para la silvicultura.", pt: "O jardim florestal de Mbalmayo dedica-se ao cultivo e cuidado de plantas jovens. É também um local de aprendizagem prática para a silvicultura.", fr: "Le jardin forestier de Mbalmayo est dédié à la culture et à l'entretien de jeunes plants. C'est aussi un lieu d'apprentissage pratique pour la foresterie."},
     facts: {
       de: ["in Mbalmayo", "für Jungpflanzen", "mit forstlichem Bezug"],
@@ -2368,7 +2349,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-EN",
     coords: [15.033, 12.083],
     name: { de: "Kousseri Fischhafen", hu: "Kousseri halászkikötő", ro: "Portul pescăresc Kousseri", en: "Kousseri Fishing Port"},
-    image: "/poi-images/kousseri-fischhafen-life-v2.webp",
     description: { de: "Der Fischhafen von Kousseri ist wichtig für den Handel im Nordosten Kameruns. Er versorgt die Märkte rund um den Tschadsee mit Fisch.", hu: "Fontos kirakodóhely a régió hala számára.", ro: "Un port important pentru peștele din regiune.", en: "Important landing place for fish from the region." , es: "El puerto pesquero de Kousseri es importante para el comercio en el noreste de Camerún. Abastece de pescado a los mercados de los alrededores del lago Chad.", pt: "O porto de pesca de Kousseri é importante para o comércio no nordeste dos Camarões. Abastece de peixe os mercados em redor do lago Chade.", fr: "Le port de pêche de Kousseri est important pour le commerce dans le nord-est du Cameroun. Il approvisionne en poisson les marchés autour du lac Tchad."},
     facts: {
       de: ["im äußersten Norden", "Fischhandel am Tschadsee", "wichtiger Versorgungsort"],
@@ -2521,7 +2501,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-LT",
     coords: [9.700, 4.033],
     name: { de: "Douala Botanischer Garten", hu: "Douala botanikus kert", ro: "Grădina botanică Douala", en: "Douala Botanical Garden"},
-    image: "/poi-images/douala-botanischer-garten-life-v2.webp",
     description: { de: "Ein grüner Park für Familien und Kinder.", hu: "A doualai botanikus kert városi zöld tér és oktatási helyszín. A trópusi növények bemutatására is szolgál.", ro: "Grădina botanică din Douala oferă un spațiu verde în mijlocul orașului. Este folosită pentru plimbare, observarea plantelor și relaxare urbană.", en: "The botanical gardens in Douala provide a rare green escape within the industrial city, preserving a variety of tropical plant species." , es: "Un parque verde para familias y niños.", pt: "Um parque verde para famílias e crianças.", fr: "Un parc de verdure pour les familles et les enfants."},
     facts: {
       de: ["Tropische Pflanzen", "Kinderspielplatz"],
@@ -2602,7 +2581,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-CE",
     coords: [11.520, 3.870],
     name: { de: "Yaoundé Zoo-Garten", hu: "Yaoundé állatkerti kert", ro: "Grădina zoologică Yaoundé", en: "Yaoundé Zoo Garden"},
-    image: "/poi-images/yaounde-zoo-garten-life-v2.webp",
     description: { de: "Ein kleiner Lehrgarten mit Tieren.", hu: "Egy kis oktatókert állatokkal.", ro: "O mică grădină educativă cu animale.", en: "A small educational garden with animals." , es: "Un pequeño jardín educativo con animales.", pt: "Um pequeno jardim educativo com animais.", fr: "Un petit jardin pédagogique avec des animaux."},
     facts: {
       de: ["Lernen über Tiere", "Interaktive Stationen"],
@@ -2719,7 +2697,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-SW",
     coords: [9.250, 4.166],
     name: { de: "Buea Fruchtgarten", hu: "Buea gyümölcskert", ro: "Grădina de fructe Buea", en: "Buea Fruit Garden"},
-    image: "/poi-images/buea-fruchtgarten-life-v2.webp",
     description: { de: "Die Fruchtgärten bei Buea profitieren von fruchtbaren vulkanischen Böden. Dort wachsen viele tropische Früchte für den lokalen Markt.", hu: "A Buea környéki gyümölcsösök a vulkáni lejtők termékeny földjét használják. A helyi kertgazdálkodás fontos elemei.", ro: "Grădina de fructe din Buea pune în valoare agricultura locală din zona de munte. Locul este legat de livezi și de producția alimentară regională.", en: "The fruit gardens on the slopes of Mount Cameroon benefit from rich volcanic soil, producing an abundance of oranges, bananas, and avocados." , es: "Los huertos de frutas cerca de Buea se benefician de suelos volcánicos fértiles. Allí crecen muchas frutas tropicales para el mercado local.", pt: "Os pomares de frutas perto de Buea beneficiam de solos vulcânicos férteis. Ali crescem muitas frutas tropicais para o mercado local.", fr: "Les vergers près de Buea bénéficient de sols volcaniques fertiles. De nombreux fruits tropicaux y poussent pour le marché local."},
     facts: {
       de: ["fruchtbare Böden", "am Mount Cameroon", "tropischer Obstbau"],

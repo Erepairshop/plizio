@@ -153,7 +153,6 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: "Bulunga-hegység",
       ro: "Munții Bulunga",
       en: "Bulunga Mountains"},
-    image: "/poi-images/bulunga-mountains-relief-v2.webp",
     description: {
       de: "Eine malerische Bergkette im zentralen Eswatini, die das Middleveld vom Lowveld trennt und für ihre Wanderwege bekannt ist.",
       hu: "Gondosan elhelyezkedő hegység Eswatini központi részén, amely elválasztja a Middleveldet a Lowveldtől, és túraútvonalairól ismert.",
@@ -246,7 +245,6 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: "Gobholo-barlangok",
       ro: "Peșterile Gobholo",
       en: "Gobholo Caves"},
-    image: "/poi-images/gobholo-caves-relief-v2.webp",
     description: {
       de: "Eines der größten Granit-Höhlensysteme in der südlichen Hemisphäre, das sich unter den Hügeln in der Nähe von Mbabane erstreckt.",
       hu: "A déli félteke egyik legnagyobb gránitbarlang-rendszere, amely a Mbabane környéki dombok alatt húzódik.",
@@ -342,7 +340,6 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: "Sinceni-hegység",
       ro: "Munții Sinceni",
       en: "Sinceni Mountains"},
-    image: "/poi-images/sinceni-mountains-relief-v2.webp",
     description: {
       de: "Ein Gebirgszug im Lubombo-Distrikt, der für seine unberührte Natur und die Artenvielfalt der afrikanischen Bergwelt bekannt ist.",
       hu: "A Lubombo körzetben található hegység, amely érintetlen természetéről és az afrikai hegyvidék biológiai sokféleségéről ismert.",
@@ -507,7 +504,6 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: "Makonjwa-hegység",
       ro: "Munții Makonjwa",
       en: "Makonjwa Mountains"},
-    image: "/poi-images/makonjwa-mountains-relief-v2.webp",
     description: {
       de: "Teil des Barberton Greenstone Belt, beherbergen diese Berge einige der ältesten Gesteinsformationen der Erde.",
       hu: "A Barberton Greenstone Belt részeként ezek a hegyek a Föld legősibb kőzetképződményeinek adnak otthont.",
@@ -555,7 +551,6 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: "Mahamba-hegy",
       ro: "Muntele Mahamba",
       en: "Mahamba Mountain"},
-    image: "/poi-images/mahamba-mountain-relief-v2.webp",
     description: {
       de: "Ein markanter Berg an der Südgrenze, der die Mahamba-Schlucht überragt und ein wichtiges geographisches Wahrzeichen ist.",
       hu: "Egy markáns hegy a déli határon, amely a Mahamba-szurdok felett magasodik, és fontos földrajzi tájékozódási pont.",
@@ -651,7 +646,6 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: "Highveld-perem",
       ro: "Escarpamentul Highveld",
       en: "Highveld Escarpment"},
-    image: "/poi-images/highveld-escarpment-relief-v2.webp",
     description: {
       de: "Der dramatische Übergang vom hohen Westen zum tiefer gelegenen zentralen Middleveld von Eswatini.",
       hu: "Drámai átmenet a magasnyugati részek és Eswatini alacsonyabban fekvő központi Middleveld vidéke között.",
@@ -792,7 +786,6 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: "Lowveld-síkság",
       ro: "Câmpia Lowveld",
       en: "Lowveld Plain"},
-    image: "/poi-images/lowveld-plain-relief-v2.webp",
     description: {
       de: "Die weite, flache Savannenebene im Osten Eswatinis, die für ihr heißes Klima und den Anbau von Zuckerrohr bekannt ist.",
       hu: "Eswatini keleti részének tágas, sík szavannája, amely forró éghajlatáról és cukornádtermesztéséről ismert.",
@@ -840,7 +833,6 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: "Nagy-völgy",
       ro: "Valea Mare",
       en: "Grand Valley"},
-    image: "/poi-images/grand-valley-relief-v2.webp",
     description: {
       de: "Ein tief eingeschnittenes Tal des Mkondo-Flusses, das sich durch den Süden des Landes zieht und dramatische Ausblicke bietet.",
       hu: "A Mkondo-folyó mélyen vágott völgye, amely az ország déli részén húzódik keresztül, drámai kilátást nyújtva.",
@@ -981,7 +973,6 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: "Mhlambanyatsi-erdő",
       ro: "Pădurea Mhlambanyatsi",
       en: "Mhlambanyatsi Forest"},
-    image: "/poi-images/mhlambanyatsi-forest-relief-v2.webp",
     description: {
       de: "Ein weitläufiges Waldgebiet in den Highlands, das hauptsächlich aus Pinien besteht und ein kühles, nebliges Klima aufweist.",
       hu: "Kiterjedt erdőterület a felföldön, amely főként fenyőkből áll, és hűvös, ködös klímával rendelkezik.",
@@ -1029,7 +1020,6 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: "Peak Fine-erdő",
       ro: "Pădurea Peak Fine",
       en: "Peak Fine Forest"},
-    image: "/poi-images/peak-fine-forest-relief-v2.webp",
     description: {
       de: "Ein bedeutendes Forstgebiet im Norden bei Piggs Peak, das für seine dichten Holzplantagen und grüne Berglandschaft bekannt ist.",
       hu: "Jelentős erdészeti terület északon, Piggs Peak közelében, amely sűrű faültetvényeiről és zöld hegyi tájairól ismert.",
@@ -1206,7 +1196,6 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: "Sandlane-erdő",
       ro: "Pădurea Sandlane",
       en: "Sandlane Forest"},
-    image: "/poi-images/sandlane-forest-relief-v2.webp",
     description: {
       de: "Ein ausgedehntes Waldgebiet an der Westgrenze zu Südafrika, das Teil des großen Usutu-Forstgürtels ist.",
       hu: "Kiterjedt erdőterület a nyugati határon Dél-Afrika mellett, amely a nagy Usutu erdősáv része.",
@@ -1254,7 +1243,6 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: "Gege-erdő",
       ro: "Pădurea Gege",
       en: "Gege Forest"},
-    image: "/poi-images/gege-forest-relief-v2.webp",
     description: {
       de: "In den südwestlichen Highlands gelegen, bietet der Gege-Wald eine Mischung aus natürlichen Beständen und Plantagen in rauer Landschaft.",
       hu: "A délnyugati felföldön található Gege-erdő természetes állományok és ültetvények keverékét kínálja a zord tájban.",

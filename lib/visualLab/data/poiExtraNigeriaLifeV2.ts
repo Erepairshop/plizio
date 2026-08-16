@@ -8,7 +8,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-BA",
     coords: [10.2333, 9.75],
     name: { de: "Yankari Nationalpark", hu: "Yankari Nemzeti Park", ro: "Parcul Național Yankari", en: "Yankari National Park"},
-    image: "/poi-images/ng-yankari-safari-life-v2.webp",
     description: { de: "Ein bedeutender Wildpark, bekannt für seine Elefanten und Warmwasserquellen.", hu: "Jelentős vadaspark, amely elefántjairól és meleg vizű forrásairól híres.", ro: "Un parc de animale semnificativ, cunoscut pentru elefanți și izvoarele termale.", en: "A significant game reserve known for its elephants and warm water springs." , es: "Un importante parque de vida silvestre, conocido por sus elefantes y manantiales de agua tibia.", pt: "Um importante parque de vida selvagem, conhecido pelos seus elefantes e fontes de água quente.", fr: "Un parc animalier important, connu pour ses éléphants et ses sources d'eau chaude."},
     facts: {
       de: ["Heimat von über 50 Elefantenarten", "Bekannt für die Wikki-Warmquellen", "Größtes Schutzgebiet in Nigeria", "Etabliert im Jahr 1956"],
@@ -89,7 +88,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-TA",
     coords: [11.5, 7.3333],
     name: { de: "Gashaka Gumti Nationalpark", hu: "Gashaka Gumti Nemzeti Park", ro: "Parcul Național Gashaka Gumti", en: "Gashaka Gumti National Park"},
-    image: "/poi-images/ng-gashaka-gumti-life-v2.webp",
     description: { de: "Der größte Nationalpark Nigerias mit vielfältiger Tierwelt in den Bergen.", hu: "Nigéria legnagyobb nemzeti parkja, változatos vadvilággal a hegyekben.", ro: "Cel mai mare parc național din Nigeria, cu faună diversă în munți.", en: "Nigeria's largest national park with diverse wildlife in the mountains." , es: "El parque nacional más grande de Nigeria con fauna diversa en las montañas.", pt: "O maior parque nacional da Nigéria com fauna diversificada nas montanhas.", fr: "Le plus grand parc national du Nigeria avec une faune diversifiée dans les montagnes."},
     facts: {
       de: ["Beinhaltet Chappal Waddi, Nigerias höchsten Gipfel", "Vielfältige Primatenpopulationen", "Erstreckt sich über 6.000 Quadratkilometer", "Wichtiger Hotspot für Biodiversität"],
@@ -125,7 +123,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-OY",
     coords: [3.9167, 7.3833],
     name: { de: "Olumene Kakao-Farm", hu: "Olumene kakaófarm", ro: "Fermă de cacao Olumene", en: "Olumene Cocoa Farm"},
-    image: "/poi-images/ng-olumene-farm-life-v2.webp",
     description: { de: "Eine der historischen Kakaoplantagen in der Oyo-Region.", hu: "Az Oyo régió egyik történelmi kakaóültetvénye.", ro: "Una dintre plantațiile istorice de cacao din regiunea Oyo.", en: "One of the historic cocoa plantations in the Oyo region." , es: "Una de las plantaciones de cacao históricas en la región de Oyo.", pt: "Uma das plantações históricas de cacau na região de Oyo.", fr: "L'une des plantations de cacao historiques dans la région d'Oyo."},
     facts: {
       de: ["Fokus auf nachhaltigen Kakaoanbau", "Bietet Besuchern Einblick in den Prozess", "Wichtiges regionales Wirtschaftsgut", "Traditionelle Anbaumethoden"],
@@ -350,7 +347,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-PL",
     coords: [8.8833, 9.9],
     name: { de: "Jos Wildtierpark", hu: "Jos Vadaspark", ro: "Parcul de animale Jos", en: "Jos Wildlife Park"},
-    image: "/poi-images/ng-jos-wildlife-life-v2.webp",
     description: { de: "Ein beliebter Familienpark mit einer Vielzahl von Tieren in Jos.", hu: "Népszerű családi park Josban, sokféle állattal.", ro: "Un parc familial popular cu o varietate de animale în Jos.", en: "A popular family park with a variety of animals in Jos." , es: "Un popular parque familiar con una gran variedad de animales en Jos.", pt: "Um popular parque familiar com uma variedade de animais em Jos.", fr: "Un parc familial populaire avec une grande variété d'animaux à Jos."},
     facts: {
       de: ["Ideal für Familienausflüge", "Beherbergt Löwen und Paviane", "Schöne landschaftliche Umgebung", "Lehrreich für Kinder"],
@@ -467,7 +463,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-LA",
     coords: [3.5, 6.4333],
     name: { de: "Lekki Naturschutzgebiet", hu: "Lekki Természetvédelmi Központ", ro: "Rezervația naturală Lekki", en: "Lekki Conservation Centre"},
-    image: "/poi-images/ng-lekkiconservation-life-v2.webp",
     description: { de: "Ein geschütztes Feuchtgebiet in Lagos mit einem berühmten Baumwipfelpfad.", hu: "Védett mocsaras terület Lagosban, híres lombkorona tanösvénnyel.", ro: "O zonă umedă protejată în Lagos, cu un celebru traseu la înălțime.", en: "A protected wetland in Lagos featuring a famous canopy walkway." , es: "Un humedal protegido en Lagos con una famosa pasarela entre las copas de los árboles.", pt: "Uma zona húmida protegida em Lagos com uma famosa passarela nas copas das árvores.", fr: "Une zone humide protégée à Lagos avec une célèbre passerelle suspendue."},
     facts: {
       de: ["Längster Baumwipfelpfad in Afrika", "Beheimatet Affen und seltene Vögel", "Ruhepol mitten in Lagos", "Fördert Umweltbildung"],
@@ -548,7 +543,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-OY",
     coords: [3.9, 7.37],
     name: { de: "Ibadan Kakao-Zentrum", hu: "Ibadan Kakaóközpont", ro: "Centrul de cacao Ibadan", en: "Ibadan Cocoa Centre"},
-    image: "/poi-images/ng-ibadan-cocoa-life-v2.webp",
     description: { de: "Ein landwirtschaftliches Forschungs- und Anbauzentrum für Kakao.", hu: "Mezőgazdasági kutató- és termesztőközpont kakaó számára.", ro: "Un centru de cercetare și cultivare agricolă pentru cacao.", en: "An agricultural research and cultivation center for cocoa." , es: "Un centro de investigación y cultivo agrícola para el cacao.", pt: "Um centro de pesquisa e cultivo agrícola para o cacau.", fr: "Un centre de recherche et de culture agricole pour le cacao."},
     facts: {
       de: ["Historisches Zentrum des Kakaoexports", "Forschung zu ertragreichen Sorten", "Wichtige Rolle in der nigerianischen Wirtschaft", "Schulungen für Bauern"],
@@ -584,7 +578,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-CR",
     coords: [8.3333, 4.95],
     name: { de: "Calabar Affenreservat", hu: "Calabari Majomrezervátum", ro: "Rezervația de maimuțe Calabar", en: "Calabar Monkey Sanctuary"},
-    image: "/poi-images/ng-calabar-monkey-life-v2.webp",
     description: { de: "Schutzgebiet für bedrohte Primatenarten in der Nähe von Calabar.", hu: "Védett terület veszélyeztetett főemlősfajok számára Calabar közelében.", ro: "Zonă protejată pentru specii de primate pe cale de dispariție lângă Calabar.", en: "Sanctuary for endangered primate species near Calabar." , es: "Área protegida para especies de primates amenazadas cerca de Calabar.", pt: "Área protegida para espécies de primatas ameaçadas perto de Calabar.", fr: "Zone protégée pour les espèces de primates menacées près de Calabar."},
     facts: {
       de: ["Fokus auf Artenschutz", "Bietet geführte Touren", "Wichtiger Lebensraum für Drill-Affen", "Bildung für lokale Schulen"],
@@ -620,7 +613,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-CR",
     coords: [8.5, 6.0],
     name: { de: "Cross-River Nationalpark", hu: "Cross-River Nemzeti Park", ro: "Parcul Național Cross-River", en: "Cross River National Park"},
-    image: "/poi-images/ng-crossriver-nat-life-v2.webp",
     description: { de: "Einer der letzten großen Primärwälder in Westafrika.", hu: "Az egyik utolsó nagy őserdő Nyugat-Afrikában.", ro: "Una dintre ultimele mari păduri primare din Africa de Vest.", en: "One of the last large primary forests in West Africa." , es: "Uno de los últimos grandes bosques primarios de África Occidental.", pt: "Uma das últimas grandes florestas primárias da África Ocidental.", fr: "L'une des dernières grandes forêts primaires d'Afrique de l'Ouest."},
     facts: {
       de: ["Enorm hohe Artenvielfalt", "Heimat seltener Gorillas", "UNESCO-Biosphärenreservat-Kandidat", "Dichter tropischer Regenwald"],
@@ -656,7 +648,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-KN",
     coords: [8.5167, 12.0],
     name: { de: "Kano Zoo", hu: "Kano Állatkert", ro: "Grădina Zoologică Kano", en: "Kano Zoo"},
-    image: "/poi-images/ng-kano-zoo-life-v2.webp",
     description: { de: "Ein beliebter städtischer Zoo für Familien in Kano.", hu: "Népszerű városi állatkert családok számára Kanóban.", ro: "O grădină zoologică urbană populară pentru familii în Kano.", en: "A popular urban zoo for families in Kano." , es: "Un popular zoológico urbano para familias en Kano.", pt: "Um popular zoológico urbano para famílias em Kano.", fr: "Un zoo urbain populaire pour les familles à Kano."},
     facts: {
       de: ["Verschiedene afrikanische Tierarten", "Große Spielbereiche für Kinder", "Wichtige Bildungsstätte", "Zentral gelegen in Kano"],
@@ -692,7 +683,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-EK",
     coords: [5.25, 7.6667],
     name: { de: "Ekiti Agrar-Zentrum", hu: "Ekiti Agrárközpont", ro: "Centrul Agrar Ekiti", en: "Ekiti Agricultural Centre"},
-    image: "/poi-images/ng-ekiti-agri-life-v2.webp",
     description: { de: "Ein Zentrum für den Anbau von Getreide und Gemüse in der Ekiti-Region.", hu: "Gabona- és zöldségtermesztési központ az Ekiti régióban.", ro: "Un centru pentru cultivarea cerealelor și legumelor în regiunea Ekiti.", en: "A center for cultivation of grains and vegetables in the Ekiti region." , es: "Un centro para el cultivo de cereales y hortalizas en la región de Ekiti.", pt: "Um centro para o cultivo de cereais e legumes na região de Ekiti.", fr: "Un centre de culture de céréales et de légumes dans la région d'Ekiti."},
     facts: {
       de: ["Fördert moderne Landwirtschaft", "Region für Mais- und Yamaanbau", "Unterstützt lokale Kleinbauern", "Demonstrationsbetrieb für Techniken"],
@@ -728,7 +718,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-OG",
     coords: [4.35, 6.75],
     name: { de: "Omo Reservat", hu: "Omo Rezervátum", ro: "Rezervația Omo", en: "Omo Forest Reserve"},
-    image: "/poi-images/ng-omo-reserve-life-v2.webp",
     description: { de: "Ein bedeutendes Waldschutzgebiet mit reicher Flora und Fauna.", hu: "Jelentős erdővédelmi terület gazdag növény- és állatvilággal.", ro: "O zonă protejată de pădure semnificativă, cu floră și faună bogată.", en: "A significant forest reserve with rich flora and fauna." , es: "Una importante reserva forestal con una rica flora y fauna.", pt: "Uma importante reserva florestal com uma rica flora e fauna.", fr: "Une importante réserve forestière dotée d'une flore et d'une faune riches."},
     facts: {
       de: ["Heimat von Waldelefanten", "Großes Forschungsgebiet", "Dichter Regenwald", "Schutz bedrohter Holzarten"],
@@ -764,7 +753,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-KD",
     coords: [7.45, 10.5],
     name: { de: "Kaduna Zoo", hu: "Kaduna Állatkert", ro: "Grădina Zoologică Kaduna", en: "Kaduna Zoo"},
-    image: "/poi-images/ng-kaduna-zoo-life-v2.webp",
     description: { de: "Ein bekannter Zoo mit botanischem Garten für die ganze Familie.", hu: "Ismert állatkert botanikus kerttel az egész család számára.", ro: "O grădină zoologică cunoscută cu grădină botanică pentru întreaga familie.", en: "A well-known zoo with botanical gardens for the whole family." , es: "Un conocido zoológico con jardín botánico para toda la familia.", pt: "Um zoológico conhecido com jardim botânico para toda a família.", fr: "Un zoo célèbre avec jardin botanique pour toute la famille."},
     facts: {
       de: ["Kombiniert Zoo und botanische Gärten", "Lehrreiche Exponate für Kinder", "Entspannter Ort für Familien", "Heimische und exotische Arten"],
@@ -845,7 +833,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-KW",
     coords: [4.55, 8.5],
     name: { de: "Kwara Agrar-Projekt", hu: "Kwara Agrárprojekt", ro: "Proiectul Agrar Kwara", en: "Kwara Agricultural Project"},
-    image: "/poi-images/ng-kwara-farm-life-v2.webp",
     description: { de: "Ein großes landwirtschaftliches Entwicklungsprojekt in Kwara.", hu: "Nagy mezőgazdasági fejlesztési projekt Kwarában.", ro: "Un mare proiect de dezvoltare agricolă în Kwara.", en: "A large agricultural development project in Kwara." , es: "Un gran proyecto de desarrollo agrícola en Kwara.", pt: "Um grande projeto de desenvolvimento agrícola em Kwara.", fr: "Un grand projet de développement agricole à Kwara."},
     facts: {
       de: ["Förderung moderner Anbautechniken", "Fokus auf Getreideproduktion", "Bietet Arbeitsplätze in der Region", "Zusammenarbeit mit internationalen Partnern"],
@@ -881,7 +868,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-IM",
     coords: [7.0, 5.5],
     name: { de: "Imo Staatszoo", hu: "Imo Állami Állatkert", ro: "Grădina Zoologică a Statului Imo", en: "Imo State Zoo"},
-    image: "/poi-images/ng-imo-zoo-life-v2.webp",
     description: { de: "Ein kleinerer Tierpark im Bundesstaat Imo für Erholung.", hu: "Kisebb vadaspark Imo államban a kikapcsolódáshoz.", ro: "O grădină zoologică mai mică în statul Imo pentru recreere.", en: "A smaller zoo in Imo State for recreation." , es: "Un pequeño parque zoológico en el estado de Imo para el ocio.", pt: "Um pequeno parque zoológico no estado de Imo para lazer.", fr: "Un petit parc animalier dans l'État d'Imo pour les loisirs."},
     facts: {
       de: ["Beliebtes Ausflugsziel für Schulen", "Fokus auf Bildung", "Schutz lokaler Fauna", "Gepflegte Anlagen"],
@@ -1034,7 +1020,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-EN",
     coords: [7.5, 6.45],
     name: { de: "Enugu Freizeitpark", hu: "Enugu Vidámpark", ro: "Parcul de recreere Enugu", en: "Enugu Recreational Park"},
-    image: "/poi-images/ng-enugu-park-life-v2.webp",
     description: { de: "Ein zentraler Erholungspark in der Stadt Enugu.", hu: "Központi pihenőpark Enugu városában.", ro: "Un parc central de recreere în orașul Enugu.", en: "A central recreational park in the city of Enugu." , es: "Un parque recreativo central en la ciudad de Enugu.", pt: "Um parque de lazer central na cidade de Enugu.", fr: "Un parc de loisirs central dans la ville d'Enugu."},
     facts: {
       de: ["Viele Spielplätze für Kinder", "Grünanlagen zum Entspannen", "Ort für Familienpicknicks", "Kulturelle Veranstaltungen"],
@@ -1070,7 +1055,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-BO",
     coords: [13.0, 11.5],
     name: { de: "Borno Safari", hu: "Borno Szafari", ro: "Safari Borno", en: "Borno Safari"},
-    image: "/poi-images/ng-borno-safari-life-v2.webp",
     description: { de: "Ein Safaripark in der Sahel-Region von Borno.", hu: "Szafari park Borno Száhel-régiójában.", ro: "Un parc de safari în regiunea Sahel din Borno.", en: "A safari park in the Sahel region of Borno." , es: "Un parque de safari en la región del Sahel de Borno.", pt: "Um parque de safari na região do Sahel de Borno.", fr: "Un parc de safari dans la région du Sahel de Borno."},
     facts: {
       de: ["Einzigartige Sahel-Flora und -Fauna", "Erleben von Wüsten-Ökosystemen", "Tourismus-Initiative in der Region", "Bildungsreisen über Trockengebiete"],
@@ -1106,7 +1090,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-DE",
     coords: [5.7, 5.5],
     name: { de: "Delta Naturschutzzone", hu: "Deltavidéki Természetvédelmi Zóna", ro: "Zona de Conservare Delta", en: "Delta Nature Conservation Zone"},
-    image: "/poi-images/ng-delta-nature-life-v2.webp",
     description: { de: "Eine Schutzgebiet im Nigerdelta für aquatische Fauna.", hu: "Védett terület a Niger-deltában, vízi állatvilág számára.", ro: "O zonă protejată în Delta Nigerului pentru fauna acvatică.", en: "A protected area in the Niger Delta for aquatic fauna." , es: "Una zona protegida en el delta del Níger para la fauna acuática.", pt: "Uma zona protegida no Delta do Níger para a fauna aquática.", fr: "Une zone protégée dans le delta du Niger pour la faune aquatique."},
     facts: {
       de: ["Wichtige Lebensräume für Mangroven-Arten", "Schutz von Fischbrutgebieten", "Forschung zu Delta-Ökosystemen", "Lokale Schutzinitiativen"],
@@ -1142,7 +1125,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-AB",
     coords: [7.5, 5.5],
     name: { de: "Abia Agrar-Hub", hu: "Abia Agrárközpont", ro: "Centrul Agrar Abia", en: "Abia Agricultural Hub"},
-    image: "/poi-images/ng-abia-agri-life-v2.webp",
     description: { de: "Ein bedeutender Hub für den Anbau von Ölpalmen.", hu: "Jelentős hub olajpálma termesztésére.", ro: "Un hub semnificativ pentru cultivarea palmierilor de ulei.", en: "A significant hub for oil palm cultivation." , es: "Un importante centro para el cultivo de palmas de aceite.", pt: "Um importante centro para o cultivo de dendezeiros (palmeiras-de-óleo).", fr: "Un centre important pour la culture du palmier à huile."},
     facts: {
       de: ["Fokus auf Palmölproduktion", "Moderne Verarbeitungsmethoden", "Wirtschaftliches Zentrum in Abia", "Unterstützung für Landwirte"],
@@ -1178,7 +1160,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-AN",
     coords: [7.0, 6.2],
     name: { de: "Anambra Waldreservat", hu: "Anambra Erdőrezervátum", ro: "Rezervația forestieră Anambra", en: "Anambra Forest Reserve"},
-    image: "/poi-images/ng-anambra-forest-life-v2.webp",
     description: { de: "Ein geschütztes Waldgebiet zur Bewahrung lokaler Baumarten.", hu: "Védett erdőterület a helyi fafajok megőrzésére.", ro: "O zonă forestieră protejată pentru conservarea speciilor locale de arbori.", en: "A protected forest area for preserving local tree species." , es: "Un área forestal protegida para la preservación de especies de árboles locales.", pt: "Uma área florestal protegida para a preservação de espécies de árvores locais.", fr: "Une zone forestière protégée pour la conservation des espèces d'arbres locales."},
     facts: {
       de: ["Schutz heimischer Flora", "Erholung für lokale Wildtiere", "Regionale Bildungsstätte", "Dichter Baumbestand"],
@@ -1214,7 +1195,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-SO",
     coords: [5.25, 13.0],
     name: { de: "Sokoto Zoo", hu: "Sokoto Állatkert", ro: "Grădina Zoologică Sokoto", en: "Sokoto Zoo"},
-    image: "/poi-images/ng-sokoto-zoo-life-v2.webp",
     description: { de: "Ein kleiner Tierpark in Sokoto für Familien.", hu: "Kisebb állatkert Sokotóban családoknak.", ro: "O grădină zoologică mică în Sokoto pentru familii.", en: "A small zoo in Sokoto for families." , es: "Un pequeño parque de animales en Sokoto para familias.", pt: "Um pequeno parque de animais em Sokoto para famílias.", fr: "Un petit parc animalier à Sokoto pour les familles."},
     facts: {
       de: ["Bietet lokale Tierarten", "Freizeitangebote für Familien", "Pädagogische Ausflüge", "Schutzbemühungen in der Region"],
@@ -1295,7 +1275,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-BA",
     coords: [9.85, 10.3],
     name: { de: "Bauchi Obstgarten", hu: "Bauchi Gyümölcsös", ro: "Livada Bauchi", en: "Bauchi Orchard"},
-    image: "/poi-images/ng-bauchi-orchard-life-v2.webp",
     description: { de: "Ein großer Obstgarten mit Fokus auf Zitrusfrüchte.", hu: "Nagy gyümölcsös, amely a citrusfélékre összpontosít.", ro: "O livadă mare cu focus pe citrice.", en: "A large orchard with a focus on citrus fruits." , es: "Un gran huerto con enfoque en frutas cítricas.", pt: "Um grande pomar com foco em citrinos.", fr: "Un grand verger axé sur les agrumes."},
     facts: {
       de: ["Produktion verschiedener Zitrusfrüchte", "Regionale Wirtschaftsstärkung", "Forschung zu Anbaumethoden", "Beliebtes Ziel für Schulausflüge"],
@@ -1331,7 +1310,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-BN",
     coords: [8.5, 7.7],
     name: { de: "Benue Agrar-Gemeinde", hu: "Benue Agrárközösség", ro: "Comunitatea Agrară Benue", en: "Benue Agricultural Community"},
-    image: "/poi-images/ng-benue-farm-life-v2.webp",
     description: { de: "Eine landwirtschaftlich geprägte Region, bekannt als der 'Nahrungsmittelkorb Nigerias'.", hu: "Mezőgazdasági régió, amelyet Nigéria 'éléskamrájaként' ismernek.", ro: "O regiune agricolă, cunoscută sub numele de 'coșul cu alimente al Nigeriei'.", en: "An agricultural region known as the 'food basket of Nigeria'." , es: "Una región agrícola conocida como la 'Cesta de Alimentos de Nigeria'.", pt: "Uma região agrícola conhecida como a 'Cesta de Alimentos da Nigéria'.", fr: "Une région agricole connue sous le nom de « Panier alimentaire du Nigeria »."},
     facts: {
       de: ["Hauptanbauregion für Yams", "Fruchtbare Böden", "Unterstützung für Großbauern", "Wirtschaftlicher Motor des Staates"],
@@ -1367,7 +1345,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-ON",
     coords: [5.2, 7.1],
     name: { de: "Ondo Kakao-Kooperative", hu: "Ondo Kakaószövetkezet", ro: "Cooperativa de Cacao Ondo", en: "Ondo Cocoa Cooperative"},
-    image: "/poi-images/ng-ondo-cacao-life-v2.webp",
     description: { de: "Eine führende Kooperative für Kakaoproduktion.", hu: "Vezető szövetkezet a kakaótermelésben.", ro: "O cooperativă lider în producția de cacao.", en: "A leading cooperative for cocoa production." , es: "Una cooperativa líder en la producción de cacao.", pt: "Uma cooperativa líder na produção de cacau.", fr: "Une coopérative de premier plan pour la production de cacao."},
     facts: {
       de: ["Fördert nachhaltigen Anbau", "Qualitätskontrolle für Export", "Faire Preise für Bauern", "Schulungen zur Verbesserung der Ernte"],
@@ -1403,7 +1380,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-EB",
     coords: [8.1, 6.2],
     name: { de: "Ebonyi Reis-Farm", hu: "Ebonyi Rizsfarm", ro: "Ferma de orez Ebonyi", en: "Ebonyi Rice Farm"},
-    image: "/poi-images/ng-ebonyi-rice-life-v2.webp",
     description: { de: "Ein großes Zentrum für den Anbau von hochwertigem Reis.", hu: "Nagy központ kiváló minőségű rizs termesztésére.", ro: "Un centru mare pentru cultivarea orezului de înaltă calitate.", en: "A large center for cultivation of high-quality rice." , es: "Un gran centro para el cultivo de arroz de alta calidad.", pt: "Um grande centro para o cultivo de arroz de alta qualidade.", fr: "Un grand centre de culture de riz de haute qualité."},
     facts: {
       de: ["Hauptanbaugebiet für Reis", "Moderne Bewässerungssysteme", "Wirtschaftlicher Beitrag zum Staat", "Schulungsprogramme für Anbau"],
@@ -1439,7 +1415,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-EK",
     coords: [5.25, 7.6],
     name: { de: "Ekiti Vogelbeobachtungszone", hu: "Ekiti Madármegfigyelő Zóna", ro: "Zonă de birdwatching Ekiti", en: "Ekiti Birdwatching Zone"},
-    image: "/poi-images/ng-ekiti-bird-life-v2.webp",
     description: { de: "Eine Zone zum Schutz und zur Beobachtung seltener Vogelarten.", hu: "Védett és megfigyelő zóna ritka madárfajok számára.", ro: "O zonă pentru protejarea și observarea speciilor rare de păsări.", en: "A zone for protecting and observing rare bird species." , es: "Una zona para la protección y observación de especies de aves raras.", pt: "Uma zona para a proteção e observação de espécies de aves raras.", fr: "Une zone de protection et d'observation d'espèces d'oiseaux rares."},
     facts: {
       de: ["Heimat seltener Zugvögel", "Bildungsstandort", "Störungsfreier Lebensraum", "Tourismus- und Forschungsprojekt"],
@@ -1475,7 +1450,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-JG",
     coords: [9.3, 12.0],
     name: { de: "Jigawa Agrar-Projekt", hu: "Jigawa Agrárprojekt", ro: "Proiectul Agrar Jigawa", en: "Jigawa Agricultural Project"},
-    image: "/poi-images/ng-jigawa-farm-life-v2.webp",
     description: { de: "Ein Großprojekt für den Anbau von Hirse und Sorghum.", hu: "Nagyprojekt köles- és ciroktermesztésre.", ro: "Un mare proiect pentru cultivarea meiului și a sorgului.", en: "A large project for cultivation of millet and sorghum." , es: "Un gran proyecto para el cultivo de mijo y sorgo.", pt: "Um grande projeto para o cultivo de milhete e sorgo.", fr: "Un grand projet pour la culture du mil et du sorgho."},
     facts: {
       de: ["Fokus auf Trockengebiets-Landwirtschaft", "Unterstützung der lokalen Ernährungssicherheit", "Einsatz angepasster Sorten", "Schulungen für kleine Betriebe"],
@@ -1547,7 +1521,6 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     parent: "NG-NA",
     coords: [8.5, 8.5],
     name: { de: "Nasarawa Agrar-Park", hu: "Nasarawa Agrárpark", ro: "Parcul Agrar Nasarawa", en: "Nasarawa Agricultural Park"},
-    image: "/poi-images/ng-nasarawa-farm-life-v2.webp",
     description: { de: "Ein Park zur Förderung landwirtschaftlicher Innovationen.", hu: "Park a mezőgazdasági innovációk előmozdítására.", ro: "Un parc pentru promovarea inovațiilor agricole.", en: "A park to promote agricultural innovations." , es: "Un parque para la promoción de innovaciones agrícolas.", pt: "Um parque para a promoção de inovações agrícolas.", fr: "Un parc pour la promotion des innovations agricoles."},
     facts: {
       de: ["Forschung für nachhaltige Landwirtschaft", "Testgelände für neue Techniken", "Bildungsangebote", "Fördert regionale Produktivität"],

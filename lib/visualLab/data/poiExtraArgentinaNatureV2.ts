@@ -201,7 +201,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Aconcagua",
       ro: "Aconcagua",
       en: "Aconcagua"},
-    image: "/poi-images/ar-aconcagua-nature-v2.webp",
     description: {
       de: "Der Aconcagua ist mit 6.960 Metern der höchste Berg der Anden, Südamerikas und außerhalb Asiens.",
       hu: "Az Aconcagua 6960 méteres magasságával az Andok, Dél-Amerika és az Ázsián kívüli világ legmagasabb hegye.",
@@ -922,7 +921,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Cerro Fitz Roy",
       ro: "Cerro Fitz Roy",
       en: "Cerro Fitz Roy"},
-    image: "/poi-images/ar-cerro-fitz-roy-nature-v2.webp",
     description: {
       de: "Ein markanter Granitgipfel in den südlichen patagonischen Anden an der Grenze zu Chile.",
       hu: "Feltűnő gránitcsúcs a dél-patagóniai Andokban, a chilei határ mentén.",
@@ -1499,7 +1497,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Cerro Torre",
       ro: "Cerro Torre",
       en: "Cerro Torre"},
-    image: "/poi-images/ar-cerro-torre-nature-v2.webp",
     description: {
       de: "Einer der spektakulärsten und am schwersten zu besteigenden Berge in Patagonien.",
       hu: "Az egyik leglátványosabb és legnehezebben megmászható hegy Patagóniában.",
@@ -1788,7 +1785,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Lanín-vulkán",
       ro: "Vulcanul Lanín",
       en: "Lanín Volcano"},
-    image: "/poi-images/ar-volcan-lanin-nature-v2.webp",
     description: {
       de: "Ein schneebedeckter Schichtvulkan an der Grenze zwischen Argentinien und Chile.",
       hu: "Hófödte rétegvulkán Argentína és Chile határán.",
@@ -1852,7 +1848,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Cerro Tronador",
       ro: "Cerro Tronador",
       en: "Cerro Tronador"},
-    image: "/poi-images/ar-cerro-tronador-nature-v2.webp",
     description: {
       de: "Ein erloschener Stratovulkan in den südlichen Anden, bekannt für seine zahlreichen Gletscher.",
       hu: "Kialudt rétegvulkán a déli Andokban, amely számos gleccseréről ismert.",
@@ -1916,7 +1911,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Monte Pissis",
       ro: "Monte Pissis",
       en: "Monte Pissis"},
-    image: "/poi-images/ar-monte-pissis-nature-v2.webp",
     description: {
       de: "Ein erloschener Vulkan in der Provinz La Rioja, der dritthöchste Berg in der westlichen Hemisphäre.",
       hu: "Kialudt vulkán La Rioja tartományban, a nyugati félteke harmadik legmagasabb hegye.",
@@ -2061,7 +2055,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Llullaillaco",
       ro: "Llullaillaco",
       en: "Llullaillaco"},
-    image: "/poi-images/ar-llullaillaco-nature-v2.webp",
     description: {
       de: "Ein schlafender Schichtvulkan an der Grenze, berühmt für die Entdeckung von Inka-Mumien.",
       hu: "Szunnyadó rétegvulkán a határon, amely az itt talált inka múmiákról híres.",
@@ -2170,7 +2163,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Ojos del Salado",
       ro: "Ojos del Salado",
       en: "Ojos del Salado"},
-    image: "/poi-images/ar-ojos-del-salado-nature-v2.webp",
     description: {
       de: "Der höchste Vulkan der Erde und der zweithöchste Berg der Anden.",
       hu: "A Föld legmagasabb vulkánja és az Andok második legmagasabb hegye.",
@@ -2315,7 +2307,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Nahuel Huapi-tó",
       ro: "Lacul Nahuel Huapi",
       en: "Nahuel Huapi Lake"},
-    image: "/poi-images/ar-lago-nahuel-huapi-nature-v2.webp",
     description: {
       de: "Ein großer, tiefer Gletschersee im Seenbezirk von Nordpatagonien.",
       hu: "Nagy, mély gleccsertó Észak-Patagónia tóvidékén.",
@@ -2460,7 +2451,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Argentino-tó",
       ro: "Lacul Argentino",
       en: "Argentino Lake"},
-    image: "/poi-images/ar-lago-argentino-nature-v2.webp",
     description: {
       de: "Der größte Süßwassersee Argentiniens, in den der berühmte Perito-Moreno-Gletscher kalbt.",
       hu: "Argentína legnagyobb édesvizű tava, amelybe a híres Perito Moreno-gleccser borjad.",
@@ -2524,7 +2514,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Viedma-tó",
       ro: "Lacul Viedma",
       en: "Viedma Lake"},
-    image: "/poi-images/ar-lago-viedma-nature-v2.webp",
     description: {
       de: "Ein durch Gletscherschmelze gespeister See im patagonischen Andenvorland.",
       hu: "Gleccserolvadék által táplált tó a patagóniai Andok előterében.",
@@ -2633,7 +2622,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Buenos Aires-tó",
       ro: "Lacul Buenos Aires",
       en: "Buenos Aires Lake"},
-    image: "/poi-images/ar-lago-buenos-aires-nature-v2.webp",
     description: {
       de: "Ein großer See in Patagonien, der in Chile als General Carrera-See bekannt ist.",
       hu: "Nagy tó Patagóniában, amely Chilében General Carrera-tó néven ismert.",
@@ -2697,7 +2685,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "San Martín-tó",
       ro: "Lacul San Martín",
       en: "San Martín Lake"},
-    image: "/poi-images/ar-lago-san-martin-nature-v2.webp",
     description: {
       de: "Der tiefste See Südamerikas, der durch seine unregelmäßige Form auffällt.",
       hu: "Dél-Amerika legmélyebb tava, amely szabálytalan alakjával tűnik ki.",
@@ -2761,7 +2748,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Mar Chiquita",
       ro: "Mar Chiquita",
       en: "Mar Chiquita"},
-    image: "/poi-images/ar-mar-chiquita-nature-v2.webp",
     description: {
       de: "Ein großer endorheischer Salzsee in der Provinz Córdoba, wichtig für Zugvögel.",
       hu: "Nagy lefolyástalan sós tó Córdoba tartományban, fontos a vándormadarak számára.",
@@ -3266,7 +3252,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Traful-tó",
       ro: "Lacul Traful",
       en: "Traful Lake"},
-    image: "/poi-images/ar-lago-traful-nature-v2.webp",
     description: {
       de: "Ein malerischer See in Patagonien, bekannt für seinen versunkenen Wald.",
       hu: "Festői tó Patagóniában, amely elsüllyedt erdejéről ismert.",
@@ -3663,7 +3648,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Paraná folyó",
       ro: "Râul Paraná",
       en: "Paraná River"},
-    image: "/poi-images/ar-rio-parana-nature-v2.webp",
     description: {
       de: "Einer der wichtigsten Flüsse Südamerikas, der ein riesiges Becken durchfließt.",
       hu: "Dél-Amerika egyik legfontosabb folyója, amely egy hatalmas medencén folyik keresztül.",
@@ -3772,7 +3756,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Uruguay folyó",
       ro: "Râul Uruguay",
       en: "Uruguay River"},
-    image: "/poi-images/ar-rio-uruguay-nature-v2.webp",
     description: {
       de: "Ein großer Fluss, der die natürliche Grenze zwischen Argentinien, Brasilien und Uruguay bildet.",
       hu: "Nagy folyó, amely természetes határt képez Argentína, Brazília és Uruguay között.",
@@ -3836,7 +3819,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Colorado folyó",
       ro: "Râul Colorado",
       en: "Colorado River"},
-    image: "/poi-images/ar-rio-colorado-nature-v2.webp",
     description: {
       de: "Ein Fluss, der die nördliche Grenze der historischen Region Patagonien markiert.",
       hu: "Folyó, amely a történelmi Patagónia régió északi határát jelöli.",
@@ -4593,7 +4575,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Río Negro",
       ro: "Río Negro",
       en: "Río Negro"},
-    image: "/poi-images/ar-rio-negro-nature-v2.webp",
     description: {
       de: "Der wichtigste Fluss der argentinischen Provinz Río Negro, bekannt für seine Obstplantagen im Tal.",
       hu: "Az argentin Río Negro tartomány legfontosabb folyója, amely a völgyében lévő gyümölcsösökről ismert.",
@@ -4954,7 +4935,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Chubut folyó",
       ro: "Râul Chubut",
       en: "Chubut River"},
-    image: "/poi-images/ar-rio-chubut-nature-v2.webp",
     description: {
       de: "Ein Fluss in Südpatagonien, an dessen Ufern sich walisische Einwanderer niederließen.",
       hu: "Folyó Dél-Patagóniában, amelynek partjain walesi bevándorlók telepedtek le.",
@@ -5018,7 +4998,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Santa Cruz folyó",
       ro: "Râul Santa Cruz",
       en: "Santa Cruz River"},
-    image: "/poi-images/ar-rio-santa-cruz-nature-v2.webp",
     description: {
       de: "Ein bedeutender patagonischer Fluss, der seine Quelle im Lago Argentino hat.",
       hu: "Jelentős patagóniai folyó, amelynek forrása az Argentino-tóban van.",
@@ -5082,7 +5061,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Bermejo folyó",
       ro: "Râul Bermejo",
       en: "Bermejo River"},
-    image: "/poi-images/ar-rio-bermejo-nature-v2.webp",
     description: {
       de: "Ein Fluss im Norden Argentiniens, der für seine intensive rötliche Farbe bekannt ist.",
       hu: "Folyó Észak-Argentínában, amely intenzív vöröses színéről ismert.",
@@ -5227,7 +5205,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Államok-sziget",
       ro: "Isla de los Estados",
       en: "Isla de los Estados"},
-    image: "/poi-images/ar-isla-de-los-estados-nature-v2.webp",
     description: {
       de: "Eine raue, unbewohnte Insel am östlichen Ende von Tierra del Fuego.",
       hu: "Zord, lakatlan sziget Tűzföld keleti végén.",
@@ -5516,7 +5493,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Victoria-sziget",
       ro: "Insula Victoria",
       en: "Victoria Island"},
-    image: "/poi-images/ar-isla-victoria-nature-v2.webp",
     description: {
       de: "Die größte Insel im Nahuel Huapi See, die für ihre dichten Wälder bekannt ist.",
       hu: "A Nahuel Huapi-tó legnagyobb szigete, amely sűrű erdeiről ismert.",
@@ -5805,7 +5781,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Martín García-sziget",
       ro: "Insula Martín García",
       en: "Martín García Island"},
-    image: "/poi-images/ar-isla-martin-garcia-nature-v2.webp",
     description: {
       de: "Eine kleine argentinische Insel im Río de la Plata nahe der uruguayischen Küste.",
       hu: "Kis argentin sziget a Río de la Platában, az uruguayi partok közelében.",
@@ -5914,7 +5889,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Misiones-i esőerdő",
       ro: "Pădurea Misionera",
       en: "Misiones Rainforest"},
-    image: "/poi-images/ar-selva-misionera-nature-v2.webp",
     description: {
       de: "Ein subtropischer Regenwald im Nordosten Argentiniens mit einer enormen Artenvielfalt.",
       hu: "Szubtrópusi esőerdő Északkelet-Argentínában, hatalmas biológiai sokféleséggel.",
@@ -6527,7 +6501,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Patagóniai Andoki Erdő",
       ro: "Pădurea Andino-Patagoneză",
       en: "Andean-Patagonian Forest"},
-    image: "/poi-images/ar-bosque-andino-patagonico-nature-v2.webp",
     description: {
       de: "Ein gemäßigter Regenwald entlang der Anden in Südargentinien.",
       hu: "Mérsékelt övi esőerdő az Andok mentén Dél-Argentínában.",
@@ -7392,7 +7365,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Arrayán-erdő",
       ro: "Pădurea Arrayanes",
       en: "Arrayanes Forest"},
-    image: "/poi-images/ar-bosque-de-arrayanes-nature-v2.webp",
     description: {
       de: "Ein einzigartiger Wald mit zimtfarbenen Arrayán-Bäumen auf der Halbinsel Quetrihué.",
       hu: "Különleges erdő fahéjszínű arrayán-fákkal a Quetrihué-félszigeten.",
@@ -7456,7 +7428,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
       hu: "Argentin-tenger",
       ro: "Marea Argentiniană",
       en: "Argentine Sea"},
-    image: "/poi-images/ar-mar-argentino-nature-v2.webp",
     description: {
       de: "Der südwestliche Teil des Atlantischen Ozeans, der sich entlang der argentinischen Küste erstreckt.",
       hu: "Az Atlanti-óceán délnyugati része, amely az argentin partok mentén húzódik.",

@@ -12,7 +12,6 @@ export const poiExtraEquatorialguineaReliefV2: POI[] = [
       hu: "Pico Quioveo",
       ro: "Pico Quioveo",
       en: "Pico Quioveo"},
-    image: "/poi-images/pico-quioveo-relief-v2.webp",
     description: {
       de: "Der Pico Quioveo ist der höchste Gipfel der Vulkaninsel Annobón und bietet einen weiten Blick über den Südatlantik.",
       hu: "A Pico Quioveo az Annobón vulkáni sziget legmagasabb csúcsa, ahonnan pazar kilátás nyílik a Dél-Atlanti-óceánra.",
@@ -141,7 +140,6 @@ export const poiExtraEquatorialguineaReliefV2: POI[] = [
       hu: "Pico do Fogo",
       ro: "Pico do Fogo",
       en: "Pico do Fogo"},
-    image: "/poi-images/pico-do-fogo-relief-v2.webp",
     description: {
       de: "Ein markanter vulkanischer Gipfel im Süden der Insel Annobón, der die raue maritime Landschaft prägt.",
       hu: "Egy jellegzetes vulkáni csúcs Annobón szigetének déli részén, amely meghatározza a vad tengeri tájat.",
@@ -234,7 +232,6 @@ export const poiExtraEquatorialguineaReliefV2: POI[] = [
       hu: "Pico Malabo",
       ro: "Pico Malabo",
       en: "Pico Malabo"},
-    image: "/poi-images/pico-malabo-relief-v2.webp",
     description: {
       de: "Der Pico Malabo ist ein erloschener Vulkan im Norden der Insel Bioko, der die gleichnamige Hauptstadt überragt.",
       hu: "A Pico Malabo egy kialudt vulkán Bioko szigetének északi részén, amely az azonos nevű főváros fölé magasodik.",
@@ -282,7 +279,6 @@ export const poiExtraEquatorialguineaReliefV2: POI[] = [
       hu: "Monte San Carlos",
       ro: "Monte San Carlos",
       en: "Monte San Carlos"},
-    image: "/poi-images/monte-san-carlos-relief-v2.webp",
     description: {
       de: "Mit über 2.200 Metern ist der Monte San Carlos einer der höchsten Gipfel im Süden der Insel Bioko.",
       hu: "A több mint 2200 méter magas Monte San Carlos Bioko szigetének egyik legmagasabb csúcsa a déli részen.",
@@ -378,7 +374,6 @@ export const poiExtraEquatorialguineaReliefV2: POI[] = [
       hu: "Moka-fennsík",
       ro: "Platoul Moka",
       en: "Moka Plateau"},
-    image: "/poi-images/moka-plateau-relief-v2.webp",
     description: {
       de: "Ein fruchtbares vulkanisches Hochplateau auf der Insel Bioko, bekannt für sein kühleres Klima und grüne Wiesen.",
       hu: "Termékeny vulkáni fennsík Bioko szigetén, amely hűvösebb klímájáról és zöld mezőiről ismert.",
@@ -426,7 +421,6 @@ export const poiExtraEquatorialguineaReliefV2: POI[] = [
       hu: "Lago Loreto krátervidék",
       ro: "Peisajul craterului Lago Loreto",
       en: "Lago Loreto Crater Landscape"},
-    image: "/poi-images/lago-loreto-krater-relief-v2.webp",
     description: {
       de: "Eine beeindruckende geologische Formation im Hochland von Bioko, bestehend aus einem vulkanischen Kratersee.",
       hu: "Lenyűgöző geológiai képződmény Bioko felföldjén, amely egy vulkáni krátertóból áll.",
@@ -474,7 +468,6 @@ export const poiExtraEquatorialguineaReliefV2: POI[] = [
       hu: "Niefang-hegyvidék",
       ro: "Zona montană Niefang",
       en: "Niefang Highlands"},
-    image: "/poi-images/niefang-bergland-relief-v2.webp",
     description: {
       de: "Die zentrale Gebirgskette im kontinentalen Teil Äquatorialguineas, die das Land in Nord-Süd-Richtung teilt.",
       hu: "Központi hegylánc az ország szárazföldi részén, amely észak-déli irányban osztja ketté a területet.",
@@ -663,7 +656,6 @@ export const poiExtraEquatorialguineaReliefV2: POI[] = [
       hu: "Altos de Nsork dombvidék",
       ro: "Dealurile Altos de Nsork",
       en: "Altos de Nsork Highlands"},
-    image: "/poi-images/altos-de-nsork-huegelland-relief-v2.webp",
     description: {
       de: "Eine hügelige Landschaft im äußersten Südosten von Río Muni, bekannt für ihre unberührten Waldformationen.",
       hu: "Dombvidéki táj Río Muni délkeleti csücskében, amely érintetlen erdőiről ismert.",
@@ -759,7 +751,6 @@ export const poiExtraEquatorialguineaReliefV2: POI[] = [
       hu: "Monte Chocolate",
       ro: "Monte Chocolate",
       en: "Monte Chocolate"},
-    image: "/poi-images/monte-chocolate-relief-v2.webp",
     description: {
       de: "Ein isolierter Berg mit einer charakteristischen Kegelform im Herzen des kontinentalen Äquatorialguinea.",
       hu: "Egy elkülönült hegy jellegzetes kúp alakjával a szárazföldi Egyenlítői-Guinea szívében.",
@@ -807,7 +798,6 @@ export const poiExtraEquatorialguineaReliefV2: POI[] = [
       hu: "Siete Cerros-hegység",
       ro: "Munții Siete Cerros",
       en: "Siete Cerros Mountains"},
-    image: "/poi-images/siete-cerros-gebirge-relief-v2.webp",
     description: {
       de: "Eine Kette von sieben markanten Hügeln, die eine natürliche Barriere im zentralen Río Muni bilden.",
       hu: "Hét jellegzetes dombból álló láncolat, amely természetes gátat alkot Río Muni központjában.",
@@ -855,7 +845,6 @@ export const poiExtraEquatorialguineaReliefV2: POI[] = [
       hu: "Benito-völgy",
       ro: "Valea Benito",
       en: "Benito Valley"},
-    image: "/poi-images/benito-tal-relief-v2.webp",
     description: {
       de: "Das tief eingeschnittene Tal des Benito-Flusses, das sich durch den tropischen Regenwald von Río Muni windet.",
       hu: "A Benito-folyó mélyen bevágott völgye, amely Río Muni trópusi esőerdőin kanyarog keresztül.",
@@ -903,7 +892,6 @@ export const poiExtraEquatorialguineaReliefV2: POI[] = [
       hu: "Wele-áttöréses völgy",
       ro: "Valea de străpungere Wele",
       en: "Wele Gorge Valley"},
-    image: "/poi-images/wele-durchbruchstal-relief-v2.webp",
     description: {
       de: "Ein dramatisches Tal im Osten, wo der Wele-Fluss die Gebirgsketten durchbricht und tiefe Schluchten bildet.",
       hu: "Drámai völgy keleten, ahol a Wele-folyó áttöri a hegyláncokat, mély szurdokokat alkotva.",
@@ -951,7 +939,6 @@ export const poiExtraEquatorialguineaReliefV2: POI[] = [
       hu: "Corisco-zátony",
       ro: "Reciful Corisco",
       en: "Corisco Reef"},
-    image: "/poi-images/corisco-riff-relief-v2.webp",
     description: {
       de: "Ein marines Reliefmerkmal vor der Insel Corisco, bestehend aus ausgedehnten Sandbänken und Korallenriffen.",
       hu: "Tengeri domborzati forma Corisco szigete előtt, amely kiterjedt homokpadokból és korallzátonyokból áll.",

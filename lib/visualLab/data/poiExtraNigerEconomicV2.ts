@@ -53,7 +53,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-1",
     coords: [7.3833, 18.7333],
     name: { de: "Uranmine SOMAIR", hu: "SOMAIR Uránbánya", ro: "Mina de uraniu SOMAIR", en: "SOMAIR Uranium Mine"},
-    image: "/poi-images/somair-uranium-mine-economic-v2.webp",
     description: { de: "Eine der größten und ältesten Uranminen im Niger nahe Arlit, die von der Gesellschaft SOMAIR im Tagebau betrieben wird.", hu: "Niger egyik legnagyobb és legrégebbi uránbányája Arlit közelében, amelyet a SOMAIR vállalat üzemeltet külszíni fejtéssel.", ro: "Una dintre cele mai mari și mai vechi mine de uraniu din Niger, lângă Arlit, operată de compania SOMAIR ca mină cu carieră deschisă.", en: "One of the largest and oldest uranium mines in Niger near Arlit, operated by the SOMAIR company as an open-pit mine." , es: "Una de las minas de uranio más grandes y antiguas de Níger, cerca de Arlit, operada a cielo abierto por la compañía SOMAIR.", pt: "Uma das maiores e mais antigas minas de urânio do Níger, perto de Arlit, operada a céu aberto pela empresa SOMAIR.", fr: "L'une des plus anciennes et des plus grandes mines d'uranium du Niger près d'Arlit, exploitée à ciel ouvert par la société SOMAIR."},
     facts: {
       de: ["1971 in Betrieb genommen.", "Liegt nahe der Stadt Arlit.", "Tagebau-Uranmine."],
@@ -89,7 +88,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-1",
     coords: [7.3667, 18.75],
     name: { de: "Uranmine COMINAK", hu: "COMINAK Uránbánya", ro: "Mina de uraniu COMINAK", en: "COMINAK Uranium Mine"},
-    image: "/poi-images/cominak-akouta-mine-economic-v2.webp",
     description: { de: "Eine historische Untertage-Uranmine in Akouta nahe Arlit, die jahrzehntelang zu den größten der Welt gehörte, bevor sie 2021 geschlossen wurde.", hu: "Történelmi földalatti uránbánya Akoutában, Arlit közelében, amely évtizedekig a világ legnagyobbjai közé tartozott, mielőtt 2021-ben bezárták.", ro: "O mină istorică de uraniu subterană din Akouta, lângă Arlit, care a fost una dintre cele mai mari din lume timp de decenii înainte de a se închide în 2021.", en: "A historic underground uranium mine in Akouta near Arlit, which was among the world's largest for decades before closing in 2021." , es: "Una mina de uranio subterránea histórica en Akouta, cerca de Arlit, que fue una de las más grandes del mundo durante décadas antes de cerrar en 2021.", pt: "Uma mina de urânio subterrânea histórica em Akouta, perto de Arlit, que foi uma das maiores do mundo durante décadas antes de fechar em 2021.", fr: "Une mine d'uranium souterraine historique à Akouta près d'Arlit, qui fut l'une des plus grandes au monde pendant des décennies avant de fermer en 2021."},
     facts: {
       de: ["Tiefbau-Uranmine.", "Wurde im März 2021 geschlossen.", "Produzierte über 75.000 Tonnen Uran."],
@@ -161,7 +159,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-7",
     coords: [9.0558, 14.1554],
     name: { de: "Raffinerie SORAZ", hu: "SORAZ Olajfinomító", ro: "Rafinăria SORAZ", en: "SORAZ Refinery"},
-    image: "/poi-images/soraz-zinder-refinery-economic-v2.webp",
     description: { de: "Die einzige Erdölraffinerie Nigers nahe Zinder, betrieben als Joint Venture mit China zur Verarbeitung des in Agadem geförderten Rohöls.", hu: "Niger egyetlen olajfinomítója Zinder közelében, amelyet Kínával közös vállalatként üzemeltetnek az Agademben kitermelt kőolaj feldolgozására.", ro: "Singura rafinărie de petrol din Niger lângă Zinder, operată ca un joint venture cu China pentru a procesa țițeiul extras din Agadem.", en: "Niger's only oil refinery near Zinder, operated as a joint venture with China to process crude oil extracted in Agadem." , es: "La única refinería de petróleo de Níger cerca de Zinder, operada como una empresa conjunta con China para procesar el petróleo crudo extraído en Agadem.", pt: "A única refinaria de petróleo do Níger perto de Zinder, operada como uma joint venture com a China para processar o petróleo bruto extraído em Agadem.", fr: "La seule raffinerie de pétrole du Niger près de Zinder, exploitée en joint-venture avec la Chine pour traiter le brut d'Agadem."},
     facts: {
       de: ["Kapazität von 20.000 Barrel/Tag.", "Liegt in der Region Zinder.", "Verarbeitet Öl aus dem Agadem-Becken."],
@@ -197,7 +194,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-3",
     coords: [13.25, 14.5],
     name: { de: "Ölfeld Agadem", hu: "Agadem Olajmező", ro: "Câmpul petrolier Agadem", en: "Agadem Oil Field"},
-    image: "/poi-images/agadem-oil-field-economic-v2.webp",
     description: { de: "Ein großes Erdölfördergebiet im Osten Nigers, das die Grundlage für die aufstrebende Erdölindustrie und den Export des Landes bildet.", hu: "Egy nagy kőolaj-kitermelő terület Kelet-Nigerben, amely az ország feltörekvő olajiparának és exportjának alapját képezi.", ro: "O zonă majoră de extracție a petrolului din estul Nigerului, care formează baza industriei petroliere în curs de dezvoltare și a exporturilor țării.", en: "A major oil production area in eastern Niger, forming the basis for the country's emerging oil industry and exports." , es: "Una gran zona de extracción de petróleo en el este de Níger, que constituye la base de la emergente industria petrolera y de las exportaciones del país.", pt: "Uma grande zona de extração de petróleo no leste do Níger, que constitui a base da emergente indústria petrolífera e das exportações do país.", fr: "Une grande zone d'extraction pétrolière dans l'est du Niger, qui constitue la base de l'industrie pétrolière émergente et des exportations du pays."},
     facts: {
       de: ["Zentrum der Ölförderung im Niger.", "Rund 463 km lange Pipeline nach Zinder.", "Geplanter Export-Pipeline-Ausbau."],
@@ -233,7 +229,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-1",
     coords: [7.9719, 17.2611],
     name: { de: "Kohlekraftwerk SONICHAR", hu: "SONICHAR Széntüzelésű Erőmű", ro: "Centrala pe cărbune SONICHAR", en: "SONICHAR Coal Power Plant"},
-    image: "/poi-images/sonichar-tchirozerine-economic-v2.webp",
     description: { de: "Ein Bergbau- und Kraftwerkskomplex in Tchirozerine, der Kohle abbaut, um Strom hauptsächlich für die Uranminen der Region Agadez zu erzeugen.", hu: "Bánya- és erőmű-komplexum Tchirozerine-ben, amely szenet termel ki, hogy elsősorban az Agadez régió uránbányáit lássa el árammal.", ro: "Un complex minier și energetic din Tchirozerine care extrage cărbune pentru a genera energie în principal pentru minele de uraniu din regiunea Agadez.", en: "A mining and power plant complex in Tchirozerine that mines coal to generate electricity primarily for the uranium mines in the Agadez region." , es: "Un complejo minero y de centrales eléctricas en Tchirozerine que extrae carbón para generar electricidad, principalmente para las minas de uranio de la región de Agadez.", pt: "Um complexo mineiro e de central elétrica em Tchirozerine que extrai carvão para gerar eletricidade, principalmente para as minas de urânio da região de Agadez.", fr: "Un complexe minier et électrique à Tchirozerine qui extrait du charbon pour produire de l'électricité, principalement pour les mines d'uranium d'Agadez."},
     facts: {
       de: ["Einzige aktive Kohlemine Nigers.", "Liefert Strom für die Uranindustrie.", "In der Nähe von Agadez."],
@@ -269,7 +264,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-6",
     coords: [1.4417, 13.9111],
     name: { de: "Goldmine Samira Hill", hu: "Samira Hill Aranybánya", ro: "Mina de aur Samira Hill", en: "Samira Hill Gold Mine"},
-    image: "/poi-images/samira-hill-gold-mine-economic-v2.webp",
     description: { de: "Die erste kommerzielle Goldmine im Niger, im Liptako-Gourma-Gebiet nahe der Grenze zu Burkina Faso gelegen, ein Schlüsselfaktor für den Goldexport.", hu: "Niger első kereskedelmi aranybányája a Liptako-Gourma térségben, Burkina Faso határának közelében, az aranyexport kulcsszereplője.", ro: "Prima mină de aur comercială din Niger, situată în zona Liptako-Gourma, aproape de granița cu Burkina Faso, un factor cheie pentru exportul de aur.", en: "Niger's first commercial gold mine, located in the Liptako-Gourma area near the border with Burkina Faso, a key factor in gold exports." , es: "La primera mina de oro comercial de Níger, ubicada en el área de Liptako-Gourma cerca de la frontera con Burkina Faso, un factor clave para la exportación de oro.", pt: "A primeira mina de ouro comercial do Níger, localizada na área de Liptako-Gourma perto da fronteira com o Burkina Faso, um fator-chave para a exportação de ouro.", fr: "La première mine d'or commerciale du Niger, située dans la zone du Liptako-Gourma près de la frontière avec le Burkina Faso, facteur clé de l'exportation d'or."},
     facts: {
       de: ["Eröffnete 2004.", "Befindet sich in der Region Tillabéri.", "Pionier der Goldindustrie im Niger."],
@@ -350,7 +344,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-1",
     coords: [8.3, 19.3],
     name: { de: "Goldabbau Tchibarakaten", hu: "Tchibarakaten Aranybánya", ro: "Mineritul de aur Tchibarakaten", en: "Tchibarakaten Gold Mining"},
-    image: "/poi-images/tchibarakaten-gold-mine-economic-v2.webp",
     description: { de: "Ein abgelegenes, aber bedeutendes Goldabbaugebiet im Aïr-Gebirge, das viele handwerkliche Bergleute anzieht und die lokale Wirtschaft ankurbelt.", hu: "Egy távoli, de jelentős aranybányászati terület az Aïr-hegységben, amely sok kézműves bányászt vonz, és fellendíti a helyi gazdaságot.", ro: "O zonă de exploatare a aurului îndepărtată, dar semnificativă în Munții Aïr, care atrage mulți mineri artizanali și stimulează economia locală.", en: "A remote but significant gold mining area in the Aïr Mountains, attracting many artisanal miners and boosting the local economy." , es: "Una zona de extracción de oro remota pero importante en las montañas de Aïr, que atrae a muchos mineros artesanales e impulsa la economía local.", pt: "Uma zona de mineração de ouro remota mas importante nas montanhas de Aïr, que atrai muitos mineiros artesanais e impulsiona a economia local.", fr: "Une zone d'exploitation aurifère isolée mais importante dans le massif de l'Aïr, qui attire de nombreux mineurs artisanaux et stimule l'économie locale."},
     facts: {
       de: ["Großer handwerklicher Bergbau.", "Liegt tief in der Wüste.", "Sorgte ab 2014 für einen Goldrausch."],
@@ -386,7 +379,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-1",
     coords: [12.3, 21.0],
     name: { de: "Goldfelder von Djado", hu: "Djado Aranyvölgy", ro: "Câmpurile de aur Djado", en: "Djado Gold Fields"},
-    image: "/poi-images/djado-gold-fields-economic-v2.webp",
     description: { de: "Die historischen Regionen von Djado in der Sahara erlebten ab 2014 einen massiven Goldrausch, der Tausende von Goldsuchern in die extreme Wüste lockte.", hu: "A szaharai történelmi Djado régiók 2014-től masszív aranylázat éltek át, ami több ezer aranyásót vonzott az extrém sivatagba.", ro: "Regiunile istorice din Djado din Sahara au cunoscut o masivă goană după aur începând din 2014, atrăgând mii de prospectori în deșertul extrem.", en: "The historical regions of Djado in the Sahara experienced a massive gold rush from 2014, attracting thousands of prospectors to the extreme desert." , es: "Las regiones históricas de Djado en el Sahara experimentaron una fiebre del oro masiva a partir de 2014, que atrajo a miles de buscadores de oro al desierto extremo.", pt: "As regiões históricas de Djado no Saara viveram uma corrida do ouro massiva a partir de 2014, que atraiu milhares de garimpeiros para o deserto extremo.", fr: "Les régions historiques du Djado, dans le Sahara, ont connu une ruée vers l'or massive à partir de 2014, attirant des milliers de chercheurs d'or dans le désert extrême."},
     facts: {
       de: ["Im äußersten Nordosten Nigers.", "Zentrum des handwerklichen Abbaus.", "Gold liegt oft nahe der Oberfläche."],
@@ -422,7 +414,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-2",
     coords: [3.195, 13.0483],
     name: { de: "Trockenhafen Dosso", hu: "Dosso Szárazkikötő", ro: "Portul uscat Dosso", en: "Dosso Dry Port"},
-    image: "/poi-images/dosso-dry-port-economic-v2.webp",
     description: { de: "Ein wichtiges Logistikzentrum in Dosso zur Erleichterung des internationalen Frachtverkehrs vom und zum Binnenstaat Niger über Seehäfen in Benin.", hu: "Fontos logisztikai központ Dossoból a nemzetközi áruforgalom megkönnyítésére a tengerparttal nem rendelkező Nigerből és Nigerbe a benini tengeri kikötőkön keresztül.", ro: "Un centru logistic important în Dosso pentru a facilita traficul internațional de marfă de la și către țara fără ieșire la mare Niger prin porturile maritime din Benin.", en: "An important logistics center in Dosso to facilitate international freight traffic to and from landlocked Niger via seaports in Benin." , es: "Un importante centro logístico en Dosso para facilitar el tráfico internacional de carga desde y hacia el estado sin litoral de Níger a través de puertos marítimos en Benín.", pt: "Um importante centro logístico em Dosso para facilitar o tráfego internacional de carga de e para o estado encravado do Níger através de portos marítimos no Benim.", fr: "Un centre logistique important à Dosso destiné à faciliter le trafic de fret international en provenance et à destination du Niger via les ports maritimes du Bénin."},
     facts: {
       de: ["Verbindet Niger mit dem Hafen von Cotonou.", "Zentrale Zollabfertigungsstelle.", "Reduziert Transportengpässe."],
@@ -458,7 +449,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-8",
     coords: [2.1, 13.5],
     name: { de: "Flusshafen Niamey", hu: "Niamey Folyami Kikötő", ro: "Portul fluvial Niamey", en: "Niamey River Port"},
-    image: "/poi-images/niamey-river-port-economic-v2.webp",
     description: { de: "Ein Hafen am Niger-Fluss in der Hauptstadt Niamey, der für die lokale und regionale Schifffahrt sowie den Warentransport während der Regenzeit genutzt wird.", hu: "Kikötő a Niger folyón a fővárosban, Niameyben, amelyet a helyi és regionális hajózásra, valamint áruszállításra használnak az esős évszakban.", ro: "Un port pe râul Niger în capitala Niamey, utilizat pentru navigația locală și regională, precum și pentru transportul de mărfuri în timpul sezonului ploios.", en: "A port on the Niger River in the capital Niamey, used for local and regional shipping as well as goods transport during the rainy season." , es: "Un puerto en el río Níger en la capital Niamey, utilizado para la navegación local y regional, así como para el transporte de mercancías durante la temporada de lluvias.", pt: "Um porto no rio Níger na capital Niamey, utilizado para a navegação local e regional, bem como para o transporte de mercadorias durante a estação das chuvas.", fr: "Un port sur le fleuve Niger dans la capitale Niamey, utilisé pour la navigation locale et régionale ainsi que le transport de marchandises pendant la saison des pluies."},
     facts: {
       de: ["Liegt am Fluss Niger.", "Abhängig vom saisonalen Wasserstand.", "Wichtig für den regionalen Handel."],
@@ -494,7 +484,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-2",
     coords: [3.4478, 11.8864],
     name: { de: "Hafen von Gaya", hu: "Gaya Folyami Kikötő", ro: "Portul fluvial Gaya", en: "Gaya River Port"},
-    image: "/poi-images/gaya-river-port-economic-v2.webp",
     description: { de: "Gaya, an der Grenze zu Benin gelegen, dient als wichtiger Flusshafen am Niger und Grenzposten für den Handel in Richtung Südatlantik.", hu: "A Benin határán fekvő Gaya fontos folyami kikötőként szolgál a Niger folyón és határállomásként a Dél-Atlanti-óceán felé irányuló kereskedelem számára.", ro: "Gaya, situată la granița cu Benin, servește ca port fluvial important pe Niger și punct de frontieră pentru comerțul către Atlanticul de Sud.", en: "Gaya, located on the border with Benin, serves as an important river port on the Niger and a border post for trade towards the South Atlantic." , es: "Gaya, situada en la frontera con Benín, sirve como un importante puerto fluvial en el Níger y puesto fronterizo para el comercio hacia el Atlántico Sur.", pt: "Gaya, situada na fronteira com o Benim, serve como um importante porto fluvial no Níger e posto fronteiriço para o comércio em direção ao Atlântico Sul.", fr: "Gaya, située à la frontière avec le Bénin, sert de port fluvial important sur le Niger et de poste frontière pour le commerce vers l'Atlantique Sud."},
     facts: {
       de: ["Wichtigster Grenzübergang nach Benin.", "Brücke über den Niger.", "Umschlagplatz für Waren."],
@@ -530,7 +519,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-5",
     coords: [5.5264, 13.9472],
     name: { de: "Zementwerk Malbaza", hu: "Malbaza Cementgyár", ro: "Fabrica de ciment Malbaza", en: "Malbaza Cement Plant"},
-    image: "/poi-images/malbaza-cement-plant-economic-v2.webp",
     description: { de: "Die wichtigste Zementfabrik im Niger, die lokal abgebaute Rohstoffe nutzt, um die wachsende Bauindustrie des Landes zu versorgen.", hu: "Niger legfontosabb cementgyára, amely helyben bányászott nyersanyagokat használ fel az ország növekvő építőiparának ellátására.", ro: "Cea mai importantă fabrică de ciment din Niger, care folosește materii prime extrase la nivel local pentru a aproviziona industria în creștere a construcțiilor din țară.", en: "The most important cement factory in Niger, using locally mined raw materials to supply the country's growing construction industry." , es: "La fábrica de cemento más importante de Níger, que utiliza materias primas extraídas localmente para abastecer a la creciente industria de la construcción del país.", pt: "A fábrica de cimento mais importante do Níger, que utiliza matérias-primas extraídas localmente para abastecer a crescente indústria da construção do país.", fr: "La plus importante usine de ciment du Niger, utilisant des matières premières locales pour approvisionner l'industrie du bâtiment en pleine croissance."},
     facts: {
       de: ["Produziert Zement für den Inlandsmarkt.", "In der Region Tahoua.", "Nutzt lokale Kalksteinvorkommen."],
@@ -566,7 +554,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-8",
     coords: [2.1836, 13.4815],
     name: { de: "Frachtflughafen Diori Hamani", hu: "Diori Hamani Teherkikötő", ro: "Hub de marfă Diori Hamani", en: "Diori Hamani Cargo Hub"},
-    image: "/poi-images/diori-hamani-cargo-hub-economic-v2.webp",
     description: { de: "Der internationale Flughafen von Niamey fungiert auch als der wichtigste Luftfracht- und Logistik-Hub für den Binnenstaat Niger.", hu: "Niamey nemzetközi repülőtere egyben a tengerparttal nem rendelkező Niger legfontosabb légi árufuvarozási és logisztikai központjaként is működik.", ro: "Aeroportul internațional din Niamey funcționează și ca cel mai important hub de marfă aeriană și logistică pentru țara fără ieșire la mare, Niger.", en: "The international airport of Niamey also functions as the most important air cargo and logistics hub for landlocked Niger." , es: "El aeropuerto internacional de Niamey funciona también como el centro de carga aérea y logística más importante para el estado sin litoral de Níger.", pt: "O aeroporto internacional de Niamey funciona também como o mais importante hub de carga aérea e logística para o estado encravado do Níger.", fr: "L'aéroport international de Niamey fait également office de principal hub de fret aérien et de logistique pour le Niger, pays enclavé."},
     facts: {
       de: ["Wichtigstes Tor zur Welt.", "Sitz der Zollverwaltung.", "Bedeutend für High-Value-Exporte."],
@@ -863,7 +850,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-8",
     coords: [2.0736, 13.5428],
     name: { de: "Wasserwerk Goudel", hu: "Goudel Vízmű", ro: "Uzina de apă Goudel", en: "Goudel Water Plant"},
-    image: "/poi-images/goudel-water-plant-economic-v2.webp",
     description: { de: "Die zentrale Wasseraufbereitungsanlage in Niamey, die Wasser aus dem Niger entnimmt und die Hauptstadt mit wichtigem Trinkwasser versorgt.", hu: "A központi víztisztító telep Niameyben, amely a Niger folyóból nyer vizet, és fontos ivóvízzel látja el a fővárost.", ro: "Stația centrală de tratare a apei din Niamey, care extrage apa din fluviul Niger și furnizează capitalei apă potabilă vitală.", en: "The central water treatment plant in Niamey, drawing water from the Niger River and supplying the capital with vital drinking water." , es: "La planta central de tratamiento de agua en Niamey, que extrae agua del río Níger y suministra agua potable vital a la capital.", pt: "A estação central de tratamento de água em Niamey, que extrai água do rio Níger e abastece a capital com água potável vital.", fr: "La station centrale de traitement des eaux de Niamey, qui puise l'eau du fleuve Niger et approvisionne la capitale en eau potable vitale."},
     facts: {
       de: ["Befindet sich am Ufer des Niger.", "Wichtigste Trinkwasserquelle Niameys.", "Wurde mehrfach ausgebaut."],
@@ -899,7 +885,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-6",
     coords: [1.4883, 14.6111],
     name: { de: "Kandadji-Talsperre", hu: "Kandadji-gát", ro: "Barajul Kandadji", en: "Kandadji Dam"},
-    image: "/poi-images/kandadji-dam-project-economic-v2.webp",
     description: { de: "Ein riesiges Wasserkraft- und Bewässerungsprojekt im Bau am Niger-Fluss, das die Energieunabhängigkeit und Landwirtschaft des Landes revolutionieren soll.", hu: "Egy hatalmas vízerőmű és öntözési projekt, amely a Niger folyón épül, és amely forradalmasítja az ország energiafüggetlenségét és mezőgazdaságát.", ro: "Un proiect uriaș de hidroenergie și irigații în construcție pe râul Niger, menit să revoluționeze independența energetică și agricultura țării.", en: "A massive hydropower and irrigation project under construction on the Niger River, designed to revolutionize the country's energy independence and agriculture." , es: "Un enorme proyecto hidroeléctrico y de riego en construcción en el río Níger, destinado a revolucionar la independencia energética y la agricultura del país.", pt: "Um enorme projeto hidroelétrico e de irrigação em construção no rio Níger, destinado a revolucionar a independência energética e a agricultura do país.", fr: "Un vaste projet hydroélectrique et d'irrigation en cours de construction sur le fleuve Niger, destiné à révolutionner l'indépendance énergétique et l'agriculture du pays."},
     facts: {
       de: ["Soll 130 Megawatt Strom erzeugen.", "Wird Tausende Hektar bewässern.", "Bedeutendstes Infrastrukturprojekt."],
@@ -935,7 +920,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-8",
     coords: [2.0833, 13.4333],
     name: { de: "Kraftwerk Gorou Banda", hu: "Gorou Banda Erőmű", ro: "Centrala electrică Gorou Banda", en: "Gorou Banda Power Plant"},
-    image: "/poi-images/gorou-banda-power-economic-v2.webp",
     description: { de: "Ein thermisches Kraftwerk in der Nähe von Niamey, das zur Stabilisierung der Stromversorgung der Hauptstadt und zur Verringerung der Importabhängigkeit gebaut wurde.", hu: "Egy hőerőmű Niamey közelében, amelyet a főváros áramellátásának stabilizálására és az importfüggőség csökkentésére építettek.", ro: "O centrală termică lângă Niamey, construită pentru a stabiliza alimentarea cu energie a capitalei și a reduce dependența de importuri.", en: "A thermal power plant near Niamey, built to stabilize the capital's power supply and reduce dependence on imports." , es: "Una central térmica cerca de Niamey, construida para estabilizar el suministro eléctrico de la capital y reducir la dependencia de las importaciones.", pt: "Uma central térmica perto de Niamey, construída para estabilizar o abastecimento elétrico da capital e reduzir a dependência das importações.", fr: "Une centrale thermique située près de Niamey, construite pour stabiliser l'approvisionnement électrique de la capitale et réduire la dépendance aux importations."},
     facts: {
       de: ["Wichtiger Stromversorger für Niamey.", "Nutzt Schweröl.", "Teil des nationalen Energieplans."],
@@ -971,7 +955,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-1",
     coords: [12.9167, 18.6833],
     name: { de: "Salinen von Bilma", hu: "Bilma Sópárlók", ro: "Salinele din Bilma", en: "Bilma Salt Pans"},
-    image: "/poi-images/bilma-salt-pans-economic-v2.webp",
     description: { de: "Ein historisches und immer noch aktives Zentrum der Salzgewinnung in der Ténéré-Wüste, von wo aus Kamelkarawanen das Salz bis heute transportieren.", hu: "Történelmi és ma is aktív sókitermelő központ a Ténéré-sivatagban, ahonnan tevekaravánok szállítják a sót mind a mai napig.", ro: "Un centru istoric și încă activ de extracție a sării în deșertul Ténéré, de unde caravanele de cămile transportă sarea până în prezent.", en: "A historic and still active center of salt extraction in the Ténéré desert, from where camel caravans transport the salt to this day." , es: "Un centro de extracción de sal histórico y aún activo en el desierto del Ténéré, desde donde las caravanas de camellos transportan la sal hasta hoy.", pt: "Um centro de extração de sal histórico e ainda ativo no deserto de Ténéré, de onde as caravanas de camelos transportam o sal até hoje.", fr: "Un centre de production de sel historique et toujours actif dans le désert du Ténéré, d'où les caravanes de chameaux transportent encore le sel aujourd'hui."},
     facts: {
       de: ["Produziert Salz in Blöcken.", "Ziel der berühmten Azalai-Karawanen.", "Traditionelle Handarbeit."],
@@ -1007,7 +990,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-1",
     coords: [11.5833, 18.2833],
     name: { de: "Salinen von Fachi", hu: "Fachi Sópárlók", ro: "Salinele din Fachi", en: "Fachi Salt Works"},
-    image: "/poi-images/fachi-salt-works-economic-v2.webp",
     description: { de: "Eine weitere wichtige Oase für die Salzgewinnung in der Sahara, deren Wirtschaft stark von der Salzproduktion für den Transsaharahandel abhängt.", hu: "Egy másik fontos oázis a szaharai sókitermeléshez, amelynek gazdasága erősen függ a transzszaharai kereskedelem számára történő sótermeléstől.", ro: "O altă oază importantă pentru extracția sării în Sahara, a cărei economie depinde puternic de producția de sare pentru comerțul trans-saharian.", en: "Another important oasis for salt extraction in the Sahara, whose economy depends heavily on salt production for trans-Saharan trade." , es: "Otro oasis importante para la extracción de sal en el Sahara, cuya economía depende fuertemente de la producción de sal para el comercio transahariano.", pt: "Outro oásis importante para a extração de sal no Saara, cuja economia depende fortemente da produção de sal para o comércio transariano.", fr: "Une autre oasis importante pour l'extraction de sel dans le Sahara, dont l'économie dépend fortement de la production de sel pour le commerce transsaharien."},
     facts: {
       de: ["Wichtige Station im Karawanennetz.", "Mitten in der Wüste gelegen.", "Traditionelle Salzpfannen."],
@@ -1124,7 +1106,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-7",
     coords: [8.9833, 13.8],
     name: { de: "Gerbereien von Zinder", hu: "Zinder Bőrcserzők", ro: "Tăbăcăriile din Zinder", en: "Zinder Tanneries"},
-    image: "/poi-images/zinder-tannery-economic-v2.webp",
     description: { de: "Traditionelle und semi-industrielle Anlagen in Zinder, die hochwertiges Leder produzieren, ein wichtiger Wirtschaftszweig in dieser historischen Handelsstadt.", hu: "Hagyományos és félipari létesítmények Zinderben, amelyek kiváló minőségű bőrt állítanak elő, amely fontos gazdasági ágazat ebben a történelmi kereskedővárosban.", ro: "Facilități tradiționale și semi-industriale din Zinder care produc piele de înaltă calitate, o industrie importantă în acest oraș comercial istoric.", en: "Traditional and semi-industrial facilities in Zinder producing high-quality leather, an important industry in this historic trading city." , es: "Instalaciones tradicionales y semiindustriales en Zinder que producen cuero de alta calidad, un sector económico importante en esta histórica ciudad comercial.", pt: "Instalações tradicionais e semi-industriais em Zinder que produzem couro de alta qualidade, um setor económico importante nesta histórica cidade comercial.", fr: "Installations traditionnelles et semi-industrielles à Zinder produisant un cuir de haute qualité, un secteur économique majeur de cette ville marchande historique."},
     facts: {
       de: ["Lange Tradition der Lederverarbeitung.", "Export nach Nigeria und darüber hinaus.", "Nutzt lokale Rohstoffe."],
@@ -1160,7 +1141,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-8",
     coords: [2.0833, 13.5167],
     name: { de: "Schlachthof Niamey", hu: "Niamey Vágóhíd", ro: "Abatorul din Niamey", en: "Niamey Slaughterhouse"},
-    image: "/poi-images/niamey-abattoir-economic-v2.webp",
     description: { de: "Der industrielle Schlachthofkomplex in der Hauptstadt, der eine zentrale Rolle in der Fleischverarbeitung und der Viehwirtschaft des Landes spielt.", hu: "A főváros ipari vágóhíd-komplexuma, amely központi szerepet játszik a húsfeldolgozásban és az ország állattenyésztésében.", ro: "Complexul abatorului industrial din capitală, care joacă un rol central în prelucrarea cărnii și în industria zootehnică a țării.", en: "The industrial slaughterhouse complex in the capital, playing a central role in meat processing and the country's livestock industry." , es: "El complejo de mataderos industriales de la capital, que desempeña un papel central en el procesamiento de carne y la industria ganadera del país.", pt: "O complexo industrial de matadouros da capital, que desempenha um papel central no processamento de carne e na indústria pecuária do país.", fr: "Le complexe d'abattoir industriel de la capitale, jouant un rôle central dans la transformation de la viande et l'économie pastorale du pays."},
     facts: {
       de: ["Verarbeitet Rinder, Schafe und Ziegen.", "Wichtig für die Lebensmittelversorgung.", "Befindet sich in Niamey."],
@@ -1196,7 +1176,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-5",
     coords: [5.6833, 13.9667],
     name: { de: "Zwiebelzentrum Galmi", hu: "Galmi Hagymafeldolgozó", ro: "Centrul de ceapă Galmi", en: "Galmi Onion Center"},
-    image: "/poi-images/galmi-onion-processing-economic-v2.webp",
     description: { de: "Galmi ist das Epizentrum des Anbaus und der Verarbeitung der berühmten violetten Zwiebeln, die in ganz Westafrika exportiert werden.", hu: "Galmi a híres lila hagyma termesztésének és feldolgozásának epicentruma, amelyet egész Nyugat-Afrikába exportálnak.", ro: "Galmi este epicentrul cultivării și procesării celebrelor cepe violete care sunt exportate în toată Africa de Vest.", en: "Galmi is the epicenter of the cultivation and processing of the famous purple onions exported throughout West Africa." , es: "Galmi es el epicentro del cultivo y procesamiento de las famosas cebollas moradas que se exportan a toda África Occidental.", pt: "Galmi é o epicentro do cultivo e processamento das famosas cebolas roxas que são exportadas para toda a África Ocidental.", fr: "Galmi est l'épicentre de la culture et de la transformation des célèbres oignons violets exportés dans toute l'Afrique de l'Ouest."},
     facts: {
       de: ["Ursprung der 'Violet de Galmi'-Zwiebel.", "Wichtiges landwirtschaftliches Industriezentrum.", "Massenexport in Nachbarländer."],
@@ -1232,7 +1211,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-1",
     coords: [6.7833, 17.5833],
     name: { de: "Salzgewinnung Teguidda-n-Tessoumt", hu: "Teguidda-n-Tessoumt Sókitermelés", ro: "Extracția sării din Teguidda-n-Tessoumt", en: "Teguidda-n-Tessoumt Salt Extraction"},
-    image: "/poi-images/teguidda-salt-extraction-economic-v2.webp",
     description: { de: "Eine einzigartige Stätte, an der salzige Tonerde abgebaut und in Hunderten von bunten Verdunstungsbecken zu Salz für Vieh verarbeitet wird.", hu: "Egyedülálló hely, ahol a sós agyagot bányásszák, és több száz színes párologtató medencében dolgozzák fel állati takarmánysóvá.", ro: "Un sit unic unde argila sărată este extrasă și procesată în sare pentru animale în sute de bazine de evaporare colorate.", en: "A unique site where salty clay is mined and processed into salt for livestock in hundreds of colorful evaporation ponds." , es: "Un lugar único donde se extrae arcilla salina y se procesa en cientos de coloridos estanques de evaporación para obtener sal para el ganado.", pt: "Um local único onde a argila salina é extraída e processada em centenas de tanques de evaporação coloridos para obter sal para o gado.", fr: "Un site unique où l'argile saline est extraite et transformée dans des centaines de bassins d'évaporation colorés pour produire du sel pour le bétail."},
     facts: {
       de: ["Auffällige bunte Salzbecken.", "Salz primär für den Viehkonsum.", "Wirtschaftliche Lebensader der Region."],
@@ -1268,7 +1246,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-4",
     coords: [7.1, 13.5],
     name: { de: "Trockenhafen Maradi", hu: "Maradi Szárazkikötő", ro: "Portul uscat Maradi", en: "Maradi Dry Port"},
-    image: "/poi-images/maradi-dry-port-project-economic-v2.webp",
     description: { de: "Ein in Entwicklung befindliches Logistikzentrum in Maradi, das den Handel mit dem nahegelegenen Nigeria und anderen Küstenstaaten beschleunigen soll.", hu: "Maradiban fejlesztés alatt álló logisztikai központ, amely a közeli Nigériával és más part menti államokkal folytatott kereskedelmet hivatott felgyorsítani.", ro: "Un centru logistic în dezvoltare în Maradi, menit să accelereze comerțul cu Nigeria vecină și cu alte state de coastă.", en: "A logistics center under development in Maradi, designed to accelerate trade with nearby Nigeria and other coastal states." , es: "Un centro logístico en desarrollo en Maradi, diseñado para acelerar el comercio con la cercana Nigeria y otros estados costeros.", pt: "Um centro logístico em desenvolvimento em Maradi, projetado para acelerar o comércio com a vizinha Nigéria e outros estados costeiros.", fr: "Un centre logistique en développement à Maradi, destiné à accélérer le commerce avec le Nigeria voisin et d'autres États côtiers."},
     facts: {
       de: ["Liegt nahe der nigerianischen Grenze.", "Soll Logistikkosten senken.", "Wichtig für die Wirtschaft Zentralnigers."],
@@ -1385,7 +1362,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-3",
     coords: [12.6167, 13.3167],
     name: { de: "Erdölexploration Diffa", hu: "Diffa Olajkutatás", ro: "Explorarea petrolieră Diffa", en: "Diffa Oil Exploration"},
-    image: "/poi-images/diffa-oil-exploration-economic-v2.webp",
     description: { de: "Das Gebiet um Diffa ist ein wichtiger Sektor für die Erkundung und Förderung von Erdöl im Tschadbecken, was erhebliche Investitionen anzieht.", hu: "A Diffa környéki terület a Csád-medence kőolajkutatásának és -kitermelésének fontos ágazata, amely jelentős befektetéseket vonz.", ro: "Zona din jurul Diffa este un sector important pentru explorarea și extracția petrolului din bazinul Ciad, atrăgând investiții semnificative.", en: "The area around Diffa is an important sector for the exploration and extraction of oil in the Chad Basin, attracting significant investments." , es: "El área alrededor de Diffa es un sector clave para la exploración y extracción de petróleo en la cuenca del Chad, atrayendo inversiones significativas.", pt: "A área em redor de Diffa é um setor fundamental para a exploração e extração de petróleo na bacia do Chade, atraindo investimentos significativos.", fr: "La zone autour de Diffa est un secteur clé pour l'exploration et l'extraction de pétrole dans le bassin du Tchad, attirant des investissements importants."},
     facts: {
       de: ["Teil des Agadem-Ölprojekts.", "Zieht internationale Ölkonzerne an.", "Verändert die regionale Wirtschaft."],
@@ -1421,7 +1397,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-6",
     coords: [1.4667, 13.95],
     name: { de: "Goldfeld Koma Bangou", hu: "Koma Bangou Aranymező", ro: "Câmpul aurifer Koma Bangou", en: "Koma Bangou Gold Field"},
-    image: "/poi-images/koma-bangou-gold-economic-v2.webp",
     description: { de: "Einer der wichtigsten handwerklichen Goldabbauorte im Tillabéri-Gebiet, an dem Zehntausende Menschen unter schwierigen Bedingungen nach Gold suchen.", hu: "Az egyik legfontosabb kézműves aranybányászati hely a Tillabéri régióban, ahol tízezrek keresnek aranyat nehéz körülmények között.", ro: "Unul dintre cele mai importante situri de exploatare artizanală a aurului din zona Tillabéri, unde zeci de mii de oameni caută aur în condiții dificile.", en: "One of the most important artisanal gold mining sites in the Tillabéri area, where tens of thousands of people search for gold under difficult conditions." , es: "Uno de los sitios de extracción de oro artesanal más importantes en el área de Tillabéri, donde decenas de miles de personas buscan oro en condiciones difíciles.", pt: "Um dos locais de mineração de ouro artesanal mais importantes na área de Tillabéri, onde dezenas de milhares de pessoas procuram ouro em condições difíceis.", fr: "L'un des sites d'exploitation aurifère artisanale les plus importants de la région de Tillabéri, où des dizaines de milliers de personnes cherchent de l'or dans des conditions difficiles."},
     facts: {
       de: ["Bekannt für handwerklichen Abbau.", "Tausende Arbeiter vor Ort.", "Wichtige inoffizielle Einnahmequelle."],
@@ -1457,7 +1432,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-6",
     coords: [0.9167, 14.7333],
     name: { de: "Viehmarkt Ayorou", hu: "Ayorou Állatpiac", ro: "Piața de animale Ayorou", en: "Ayorou Livestock Market"},
-    image: "/poi-images/ayorou-livestock-market-economic-v2.webp",
     description: { de: "Einer der größten und wichtigsten Viehmärkte in der Sahelzone, auf dem sonntags Tausende von Rindern, Schafen und Kamelen gehandelt werden.", hu: "A Száhel-övezet egyik legnagyobb és legfontosabb állatpiaca, ahol vasárnaponként több ezer szarvasmarhát, juhot és tevét cserélnek gazdát.", ro: "Una dintre cele mai mari și mai importante piețe de animale din Sahel, unde mii de bovine, oi și cămile sunt tranzacționate duminica.", en: "One of the largest and most important livestock markets in the Sahel, where thousands of cattle, sheep, and camels are traded on Sundays." , es: "Uno de los mercados de ganado más grandes e importantes del Sahel, donde los domingos se comercia con miles de reses, ovejas y camellos.", pt: "Um dos maiores e mais importantes mercados de gado do Sahel, onde aos domingos se negoceiam milhares de cabeças de gado, ovelhas e camelos.", fr: "L'un des marchés aux bestiaux les plus grands et les plus importants du Sahel, où des milliers de bovins, de moutons et de chameaux sont échangés le dimanche."},
     facts: {
       de: ["Großer regionaler Viehmarkt.", "Zieht Händler aus Nachbarländern an.", "Wirtschaftliches Zentrum am Niger-Fluss."],
@@ -1493,7 +1467,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-7",
     coords: [8.9833, 13.8],
     name: { de: "Erdnussverarbeitung Zinder", hu: "Zinder Földimogyoró-feldolgozó", ro: "Procesarea arahidelor Zinder", en: "Zinder Peanut Processing"},
-    image: "/poi-images/zinder-peanut-processing-economic-v2.webp",
     description: { de: "Zinder war und ist ein wichtiges Zentrum für die Verarbeitung und den Handel mit Erdnüssen, einem historischen Exportgut Nigers.", hu: "Zinder fontos központja volt és maradt a földimogyoró feldolgozásának és kereskedelmének, amely Niger történelmi exportcikke.", ro: "Zinder a fost și rămâne un centru important pentru procesarea și comercializarea arahidelor, un produs istoric de export al Nigerului.", en: "Zinder has been and remains an important center for the processing and trading of peanuts, a historical export product of Niger." , es: "Zinder fue y es un centro importante para el procesamiento y comercio de cacahuetes, un producto de exportación histórico de Níger.", pt: "Zinder foi e é um centro importante para o processamento e comércio de amendoim, um produto de exportação histórico do Níger.", fr: "Zinder était et reste un centre majeur pour la transformation et le commerce de l'arachide, un produit d'exportation historique du Niger."},
     facts: {
       de: ["Historisches Zentrum der Erdnussproduktion.", "Wichtig für die Öl- und Pastenherstellung.", "Prägte die Wirtschaft von Zinder."],
@@ -1529,7 +1502,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
     parent: "NE-5",
     coords: [5.2667, 14.8833],
     name: { de: "Phosphatabbau Tahoua", hu: "Tahoua Foszfátbánya", ro: "Mineritul fosfaților Tahoua", en: "Tahoua Phosphate Mining"},
-    image: "/poi-images/tahoua-phosphate-mining-economic-v2.webp",
     description: { de: "Das Gebiet um Tahoua verfügt über bedeutende Phosphatvorkommen, die für die Herstellung von Düngemitteln und die lokale Landwirtschaft abgebaut werden.", hu: "A Tahoua körüli terület jelentős foszfátlelőhelyekkel rendelkezik, amelyeket műtrágya gyártásához és a helyi mezőgazdasághoz bányásznak.", ro: "Zona din jurul Tahoua are depozite semnificative de fosfat, care sunt extrase pentru producția de îngrășăminte și pentru agricultura locală.", en: "The area around Tahoua has significant phosphate deposits, which are mined for the production of fertilizers and local agriculture." , es: "El área alrededor de Tahoua cuenta con importantes depósitos de fosfato, que se extraen para la producción de fertilizantes y la agricultura local.", pt: "A área ao redor de Tahoua possui depósitos significativos de fosfato, que são extraídos para a produção de fertilizantes e agricultura local.", fr: "La région de Tahoua dispose d'importants gisements de phosphate, exploités pour la production d'engrais et l'agriculture locale."},
     facts: {
       de: ["Wichtig für die Düngemittelproduktion.", "Fördert die landwirtschaftliche Entwicklung.", "Ressource in der Region Tahoua."],

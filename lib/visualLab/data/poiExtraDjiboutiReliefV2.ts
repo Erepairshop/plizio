@@ -381,7 +381,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: "Gessila-csúcs",
       ro: "Vârful Gessila",
       en: "Gessila Peak"},
-    image: "/poi-images/gessila-gipfel-relief-v2.webp",
     description: {
       de: "Ein markanter Gipfel im Norden von Tadjourah, der Teil der zerklüfteten Berglandschaft am Horn von Afrika ist.",
       hu: "Jellegzetes hegycsúcs Tadjoura északi részén, amely Afrika szarvának tagolt hegyvidéki tájához tartozik.",
@@ -429,7 +428,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: "Goba'ad-síkság",
       ro: "Câmpia Goba'ad",
       en: "Goba'ad Plain"},
-    image: "/poi-images/gobaad-ebene-relief-v2.webp",
     description: {
       de: "Eine weite, flache Senke im Südwesten Dschibutis, die durch tektonische Aktivitäten und Sedimentablagerungen geformt wurde.",
       hu: "Széles, lapos medence Dzsibuti délnyugati részén, amelyet tektonikus mozgások és üledéklerakódások formáltak.",
@@ -858,7 +856,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: "Petit Bara-medence",
       ro: "Depresiunea Petit Bara",
       en: "Petit Bara Depression"},
-    image: "/poi-images/petit-bara-senke-relief-v2.webp",
     description: {
       de: "Die kleinere Schwester der Grand-Bara-Senke, bestehend aus einer harten, rissigen Erdoberfläche, die typisch für die aride Region ist.",
       hu: "A Grand Bara-medence kisebb testvére, amely az arid régióra jellemző kemény, repedezett földfelszínből áll.",
@@ -1059,7 +1056,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: "Hanle-medence",
       ro: "Depresiunea Hanle",
       en: "Hanle Depression"},
-    image: "/poi-images/hanle-senke-relief-v2.webp",
     description: {
       de: "Eine ausgedehnte tektonische Senke, die eines der wenigen Gebiete mit fruchtbaren Schwemmböden im ansonsten kargen Landesinneren darstellt.",
       hu: "Kiterjedt tektonikus medence, amely az egyébként kopár belső vidék azon kevés területeinek egyike, ahol termékeny hordaléktalaj található.",
@@ -1224,7 +1220,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: "Gaggade-medence",
       ro: "Bazinul Gaggade",
       en: "Gaggade Basin"},
-    image: "/poi-images/gaggade-becken-relief-v2.webp",
     description: {
       de: "Das Gaggade-Becken ist eine geologisch interessante Senke mit weiten, flachen Ebenen.",
       hu: "Kiterjedt geomorfológiai medence a délnyugati részen, amelyet vulkáni masszívumok határolnak, sivár sivatagi tájat alkotva.",
@@ -1353,7 +1348,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: "Boura-hegymasszívum",
       ro: "Masivul muntos Boura",
       en: "Boura Mountain Massif"},
-    image: "/poi-images/boura-gebirgsmassiv-relief-v2.webp",
     description: {
       de: "Das Boura-Massiv erhebt sich markant über die umliegenden Wüstenlandschaften.",
       hu: "Jellegzetes hegylánc Dzsibuti déli részén, amely az etióp határt határozza meg, és ellenálló kőzetekből épül fel.",
@@ -1401,7 +1395,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: "Dakhatou-dombság",
       ro: "Dealurile Dakhatou",
       en: "Dakhatou Hills"},
-    image: "/poi-images/dakhatou-huegel-relief-v2.webp",
     description: {
       de: "Die Dakhatou-Hügel bilden eine sanfte Hügellandschaft im Hinterland von Djibouti.",
       hu: "Vulkáni dombláncok sorozata északon, amelyeket mély szurdokok és völgyek választanak el egymástól.",
@@ -1449,7 +1442,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: "Arta-hegyhát",
       ro: "Creasta Arta",
       en: "Arta Mountain Ridge"},
-    image: "/poi-images/arta-bergruecken-relief-v2.webp",
     description: {
       de: "Ein erhöhtes Hochplateau-Massiv nahe der Küste, das für sein kühleres Mikroklima und seine strategische Aussicht bekannt ist.",
       hu: "A tengerparthoz közeli magaslati fennsík-masszívum, amely hűvösebb mikroklímájáról és stratégiai kilátásáról ismert.",
@@ -1686,7 +1678,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: "Dikhili-fennsík",
       ro: "Podișul Dikhil",
       en: "Dikhil Plateau"},
-    image: "/poi-images/dikhil-plateau-relief-v2.webp",
     description: {
       de: "Ein ausgedehntes Sandstein- und Basaltplateau im Südwesten, das die Landschaft um die Stadt Dikhil dominiert.",
       hu: "Kiterjedt homokkő- és bazaltfennsík a délnyugati részen, amely meghatározza Dikhil városa körüli tájat.",
@@ -2031,7 +2022,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: "Eguere-Alleyta-masszívum",
       ro: "Masivul Eguere Alleyta",
       en: "Eguere Alleyta Massif"},
-    image: "/poi-images/eguere-alleyta-massiv-relief-v2.webp",
     description: {
       de: "Ein vulkanisches Massiv an der Grenze zwischen Tadjourah und Dikhil, bekannt für seine bizarren geologischen Formationen.",
       hu: "Vulkáni masszívum Tadjoura és Dikhil határán, amely különös geológiai formációiról ismert.",
@@ -3714,7 +3704,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: "Borawli-hegy",
       ro: "Muntele Borawli",
       en: "Mount Borawli"},
-    image: "/poi-images/mount-borawli-relief-v2.webp",
     description: {
       de: "Der Mount Borawli ist eine markante vulkanische Erhebung in der Nähe der äthiopischen Grenze.",
       hu: "Izolált vulkáni hegy Obocktól északra, amely fenségesen emelkedik az arid tengerparti síkság fölé.",
@@ -4023,7 +4012,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: "Yaguer-felföld",
       ro: "Podișul Yaguer",
       en: "Yaguer Highlands"},
-    image: "/poi-images/yaguer-hochland-relief-v2.webp",
     description: {
       de: "Das Yaguer-Hochland prägt mit seinen Plateaus das Relief im Nordwesten des Landes.",
       hu: "Magaslati hegyvidék a délnyugati részen, amelyet zord topográfiája és mély eróziós árkai jellemeznek.",
@@ -4764,7 +4752,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: "Doda-síkság",
       ro: "Câmpia Doda",
       en: "Doda Plain"},
-    image: "/poi-images/doda-ebene-relief-v2.webp",
     description: {
       de: "Eine halbtrockene Ebene im Norden, die den Übergang zwischen dem Bergland und der Küstenzone bildet.",
       hu: "Félszáraz síkság északon, amely átmenetet képez a hegyvidék és a tengerparti övezet között.",
@@ -4812,7 +4799,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: "As Eyla-vetődés",
       ro: "Falia As Eyla",
       en: "As Eyla Fault"},
-    image: "/poi-images/as-eyla-verwerfung-relief-v2.webp",
     description: {
       de: "Eine markante tektonische Bruchlinie in der Nähe von As Eyla, die die dynamische Erdkruste im Afar-Dreieck widerspiegelt.",
       hu: "Jellegzetes tektonikus törésvonal As Eyla közelében, amely az Afar-háromszög dinamikus földkérgét tükrözi.",
@@ -4941,7 +4927,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: "Ghoubbet-sziklák",
       ro: "Faleza Ghoubbet",
       en: "Ghoubbet Cliffs"},
-    image: "/poi-images/ghoubbet-klippen-relief-v2.webp",
     description: {
       de: "Steile, dunkle Basaltklippen, die den Ghoubbet-el-Kharab umgeben und einen dramatischen Kontrast zum blauen Wasser bilden.",
       hu: "Meredek, sötét bazaltsziklák, amelyek a Ghoubbet-el-Kharab öblöt veszik körül, drámai kontrasztot alkotva a kék vízzel.",

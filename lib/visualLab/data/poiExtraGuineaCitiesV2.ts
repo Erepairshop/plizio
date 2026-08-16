@@ -8,7 +8,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-C",
     coords: [-13.6773, 9.537],
     name: { de: "Conakry", hu: "Conakry", ro: "Conakry", en: "Conakry"},
-    image: "/poi-images/conakry-cities-v2.webp",
     description: {
       de: "Conakry ist die Hauptstadt von Guinea und eine wichtige Hafenstadt am Atlantischen Ozean. Sie liegt auf der Halbinsel Kaloum und ist das wirtschaftliche Zentrum des Landes.",
       hu: "Conakry Guinea fővárosa és legfontosabb kikötővárosa az Atlanti-óceán partján. A Kaloum-félszigeten fekszik, és az ország gazdasági központja.",
@@ -126,7 +125,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-N",
     coords: [-8.8179, 7.7562],
     name: { de: "Nzérékoré", hu: "Nzérékoré", ro: "Nzérékoré", en: "Nzérékoré"},
-    image: "/poi-images/nzerekore-cities-v2.webp",
     description: {
       de: "Nzérékoré ist die zweitgrößte Stadt Guineas und das Zentrum der Region Waldguinea. Sie ist ein wichtiger Handelsplatz für Kaffee, Kakao und Palmöl.",
       hu: "Nzérékoré Guinea második legnagyobb városa és az Erdős-Guinea régió központja. Fontos kereskedelmi csomópont a kávé, kakaó és pálmaolaj számára.",
@@ -174,7 +172,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-K",
     coords: [-9.3072, 10.3844],
     name: { de: "Kankan", hu: "Kankan", ro: "Kankan", en: "Kankan"},
-    image: "/poi-images/kankan-cities-v2.webp",
     description: {
       de: "Kankan ist eine historische Stadt am Fluss Milo und ein kulturelles Zentrum der Mandinka. Sie ist bekannt für ihre Universität und ihre Rolle im Fernhandel.",
       hu: "Kankan egy történelmi város a Milo-folyó partján, a mandinka nép kulturális központja. Híres egyeteméről és a távolsági kereskedelemben betöltött szerepéről.",
@@ -217,7 +214,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-D",
     coords: [-12.8658, 10.0569],
     name: { de: "Kindia", hu: "Kindia", ro: "Kindia", en: "Kindia"},
-    image: "/poi-images/kindia-cities-v2.webp",
     description: {
       de: "Kindia liegt nordöstlich von Conakry und ist bekannt für seine Bananenplantagen und den Anbau von Zitrusfrüchten. Die Stadt liegt am Fuße des Fouta Djallon.",
       hu: "Kindia Conakrytól északkeletre fekszik, híres banánültetvényeiről és citrusfélék termesztéséről. A város a Fouta Djallon hegység lábánál található.",
@@ -265,7 +261,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-L",
     coords: [-12.2833, 11.3167],
     name: { de: "Labé", hu: "Labé", ro: "Labé", en: "Labé"},
-    image: "/poi-images/labe-cities-v2.webp",
     description: {
       de: "Labé ist die Hauptstadt von Mittelguinea und das Herz des Fouta Djallon. Die Stadt ist ein Zentrum für Handel und Handwerk, insbesondere für Lederwaren.",
       hu: "Labé Közép-Guinea fővárosa és a Fouta Djallon szíve. A város a kereskedelem és a kézművesség, különösen a bőrtermékek központja.",
@@ -309,7 +304,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-F",
     coords: [-10.11, 9.1848],
     name: { de: "Kissidougou", hu: "Kissidougou", ro: "Kissidougou", en: "Kissidougou"},
-    image: "/poi-images/kissidougou-cities-v2.webp",
     description: {
       de: "Kissidougou liegt in der Region Faranah und ist bekannt für seine Kaffeeplantagen. Die Stadt dient als wichtiger Markt für die umliegenden ländlichen Gebiete.",
       hu: "Kissidougou a Faranah régióban található, és kávéültetvényeiről ismert. A város fontos piacként szolgál a környező vidéki területek számára.",
@@ -353,7 +347,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-N",
     coords: [-10.1333, 8.5667],
     name: { de: "Guéckédou", hu: "Guéckédou", ro: "Guéckédou", en: "Guéckédou"},
-    image: "/poi-images/gueckedou-cities-v2.webp",
     description: {
       de: "Guéckédou liegt im Süden Guineas nahe der Grenze zu Liberia und Sierra Leone. Die Stadt ist bekannt für ihren großen wöchentlichen Markt, der Händler aus drei Ländern anzieht.",
       hu: "Guéckédou Guinea déli részén fekszik, Libéria és Sierra Leone határának közelében. A város híres nagy heti piacáról, amely három ország kereskedőit vonzza.",
@@ -397,7 +390,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-M",
     coords: [-12.091, 10.374],
     name: { de: "Mamou", hu: "Mamou", ro: "Mamou", en: "Mamou"},
-    image: "/poi-images/mamou-cities-v2.webp",
     description: {
       de: "Mamou ist als 'Kreuzungsstadt' bekannt, da sie an der Verbindung zwischen Conakry und dem Landesinneren liegt. Sie ist das Tor zur Fouta Djallon Region.",
       hu: "Mamou 'kereszteződés-városként' ismert, mivel a Conakry és az ország belseje közötti összekötő úton fekszik. A Fouta Djallon régió kapuja.",
@@ -441,7 +433,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-B",
     coords: [-14.2483, 10.9317],
     name: { de: "Boké", hu: "Boké", ro: "Boké", en: "Boké"},
-    image: "/poi-images/boke-cities-v2.webp",
     description: {
       de: "Boké ist ein bedeutendes Bergbauzentrum in Westguinea, bekannt für seine riesigen Bauxitvorkommen. Die Stadt liegt am Fluss Rio Nuñez.",
       hu: "Boké jelentős bányászati központ Nyugat-Guineában, hatalmas bauxitkészleteiről ismert. A város a Rio Nuñez folyó partján fekszik.",
@@ -485,7 +476,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-N",
     coords: [-9.47, 8.54],
     name: { de: "Macenta", hu: "Macenta", ro: "Macenta", en: "Macenta"},
-    image: "/poi-images/macenta-cities-v2.webp",
     description: {
       de: "Macenta liegt in der waldreichen Region Südguineas und ist ein wichtiger Standort für die Forschung zu tropischen Nutzpflanzen wie Tee und Kaffee.",
       hu: "Macenta Dél-Guinea erdős régiójában fekszik, és a trópusi haszonnövények, mint a tea és a kávé kutatásának fontos helyszíne.",
@@ -529,7 +519,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-D",
     coords: [-13.3833, 9.7],
     name: { de: "Coyah", hu: "Coyah", ro: "Coyah", en: "Coyah"},
-    image: "/poi-images/coyah-cities-v2.webp",
     description: {
       de: "Coyah liegt in der Nähe von Conakry und ist bekannt für seine natürlichen Wasserquellen. Die Stadt ist ein schnell wachsendes Vorortzentrum.",
       hu: "Coyah Conakry közelében fekszik, és természetes vízforrásairól ismert. A város egy gyorsan növekvő elővárosi központ.",
@@ -617,7 +606,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-B",
     coords: [-14.5947, 10.6558],
     name: { de: "Kamsar", hu: "Kamsar", ro: "Kamsar", en: "Kamsar"},
-    image: "/poi-images/kamsar-cities-v2.webp",
     description: {
       de: "Kamsar ist eine wichtige Hafenstadt am Atlantik, die speziell für den Export von Bauxit aus den Minen von Sangarédi gebaut wurde.",
       hu: "Kamsar egy fontos atlanti-óceáni kikötőváros, amelyet kifejezetten a Sangarédi bányákból származó bauxit exportjára építettek.",
@@ -661,7 +649,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-B",
     coords: [-13.5833, 10.45],
     name: { de: "Fria", hu: "Fria", ro: "Fria", en: "Fria"},
-    image: "/poi-images/fria-cities-v2.webp",
     description: {
       de: "Fria ist bekannt als die erste Stadt in Afrika, die eine Aluminiumoxid-Raffinerie besaß. Sie ist ein bedeutendes Industriezentrum in Guinea.",
       hu: "Fria az első afrikai városként ismert, amely timföldfinomítóval rendelkezett. Guinea jelentős ipari központja.",
@@ -750,7 +737,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-K",
     coords: [-9.1667, 11.4167],
     name: { de: "Siguiri", hu: "Siguiri", ro: "Siguiri", en: "Siguiri"},
-    image: "/poi-images/siguiri-cities-v2.webp",
     description: {
       de: "Siguiri liegt am Niger im Nordosten Guineas und ist berühmt für seinen Goldbergbau. Die Stadt ist ein wichtiges Handelszentrum in der Region.",
       hu: "Siguiri a Niger folyó partján fekszik Guinea északkeleti részén, és híres aranybányászatáról. A város a régió fontos kereskedelmi központja.",
@@ -794,7 +780,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-D",
     coords: [-13.0333, 10.9],
     name: { de: "Télimélé", hu: "Télimélé", ro: "Télimélé", en: "Télimélé"},
-    image: "/poi-images/telimele-cities-v2.webp",
     description: {
       de: "Télimélé ist eine Stadt in der Region Kindia, die für ihre Viehzucht und ihren Agrarhandel bekannt ist. Sie liegt in einer bergigen Region.",
       hu: "Télimélé a Kindia régió egyik városa, amely állattenyésztéséről és mezőgazdasági kereskedelméről ismert. Hegyvidéki területen fekszik.",
@@ -838,7 +823,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-K",
     coords: [-9.8833, 10.65],
     name: { de: "Kouroussa", hu: "Kouroussa", ro: "Kouroussa", en: "Kouroussa"},
-    image: "/poi-images/kouroussa-cities-v2.webp",
     description: {
       de: "Kouroussa ist eine Stadt am Niger in der Kankan-Region. Sie ist bekannt als Geburtsort des berühmten Schriftstellers Camara Laye.",
       hu: "Kouroussa egy város a Niger folyó partján a Kankan régióban. Híres szülötte Camara Laye író.",
@@ -927,7 +911,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-D",
     coords: [-13.5167, 9.7833],
     name: { de: "Dubréka", hu: "Dubréka", ro: "Dubréka", en: "Dubréka"},
-    image: "/poi-images/dubreka-cities-v2.webp",
     description: {
       de: "Dubréka ist eine Stadt nördlich von Conakry, bekannt für ihre malerischen Berge und die Nähe zum Mount Soumba.",
       hu: "Dubréka Conakrytól északra fekvő város, híres festői hegyeiről és a Soumba-hegy közelségéről.",
@@ -971,7 +954,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-B",
     coords: [-14.0333, 10.1833],
     name: { de: "Boffa", hu: "Boffa", ro: "Boffa", en: "Boffa"},
-    image: "/poi-images/boffa-cities-v2.webp",
     description: {
       de: "Boffa ist eine Hafenstadt an der Atlantikküste, bekannt für ihren Fischfang und die historische Rolle im Überseehandel.",
       hu: "Boffa egy kikötőváros az atlanti parton, halászatáról és a tengerentúli kereskedelemben betöltött történelmi szerepéről ismert.",
@@ -1015,7 +997,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-N",
     coords: [-8.6833, 9.1667],
     name: { de: "Beyla", hu: "Beyla", ro: "Beyla", en: "Beyla"},
-    image: "/poi-images/beyla-cities-v2.webp",
     description: {
       de: "Beyla liegt im Südosten Guineas und ist ein wichtiges Bergbauzentrum für Eisenerz, insbesondere durch das Simandou-Projekt.",
       hu: "Beyla Guinea délkeleti részén fekszik, és a vasércbányászat fontos központja, különösen a Simandou-projekt révén.",
@@ -1059,7 +1040,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-F",
     coords: [-11.1167, 10.75],
     name: { de: "Dabola", hu: "Dabola", ro: "Dabola", en: "Dabola"},
-    image: "/poi-images/dabola-cities-v2.webp",
     description: {
       de: "Dabola liegt im geographischen Zentrum Guineas am Fluss Tinkisso. Sie ist ein wichtiger Knotenpunkt der Eisenbahn Conakry-Kankan.",
       hu: "Dabola Guinea földrajzi középpontjában fekszik, a Tinkisso-folyó partján. A Conakry-Kankan vasútvonal fontos csomópontja.",
@@ -1103,7 +1083,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-F",
     coords: [-10.7167, 11.3],
     name: { de: "Dinguiraye", hu: "Dinguiraye", ro: "Dinguiraye", en: "Dinguiraye"},
-    image: "/poi-images/dinguiraye-cities-v2.webp",
     description: {
       de: "Dinguiraye ist eine heilige Stadt des Islam in Guinea, bekannt für ihre große Moschee und die Rolle im Toucouleur-Reich.",
       hu: "Dinguiraye az iszlám egyik szent városa Guineában, híres nagy mecsetjéről és a Toucouleur Birodalomban betöltött szerepéről.",
@@ -1147,7 +1126,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-B",
     coords: [-13.2, 11.75],
     name: { de: "Gaoual", hu: "Gaoual", ro: "Gaoual", en: "Gaoual"},
-    image: "/poi-images/gaoual-cities-v2.webp",
     description: {
       de: "Gaoual liegt im Nordwesten Guineas und ist ein wichtiges Handelszentrum für Agrarprodukte in einer trockeneren Region des Landes.",
       hu: "Gaoual Guinea északnyugati részén fekszik, és a mezőgazdasági termékek fontos kereskedelmi központja az ország szárazabb régiójában.",
@@ -1191,7 +1169,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-K",
     coords: [-9.0167, 9.2667],
     name: { de: "Kérouané", hu: "Kérouané", ro: "Kérouané", en: "Kérouané"},
-    image: "/poi-images/kerouane-cities-v2.webp",
     description: {
       de: "Kérouané liegt im Südosten Guineas und ist bekannt für seine Diamantenvorkommen und den Handel mit Edelsteinen.",
       hu: "Kérouané Guinea délkeleti részén fekszik, híres gyémántkészleteiről és a drágakő-kereskedelemről.",
@@ -1280,7 +1257,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-L",
     coords: [-11.8833, 11.5833],
     name: { de: "Koubia", hu: "Koubia", ro: "Koubia", en: "Koubia"},
-    image: "/poi-images/koubia-cities-v2.webp",
     description: {
       de: "Koubia ist eine city in der Region Labé, bekannt für ihre traditionelle Landwirtschaft und Viehzucht im Fouta Djallon.",
       hu: "Koubia a Labé régió egyik városa, híres hagyományos mezőgazdaságáról és állattenyésztéséről a Fouta Djallon területén.",
@@ -1324,7 +1300,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-B",
     coords: [-13.3, 12.4833],
     name: { de: "Koundara", hu: "Koundara", ro: "Koundara", en: "Koundara"},
-    image: "/poi-images/koundara-cities-v2.webp",
     description: {
       de: "Koundara liegt im äußersten Nordwesten Guineas nahe der Grenze zum Senegal. Die Stadt ist ein wichtiger Grenzposten und Handelsort.",
       hu: "Koundara Guinea távoli északnyugati részén fekszik, a szenegáli határ közelében. A város fontos határállomás és kereskedelmi hely.",
@@ -1368,7 +1343,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-L",
     coords: [-12.9333, 11.4333],
     name: { de: "Lélouma", hu: "Lélouma", ro: "Lélouma", en: "Lélouma"},
-    image: "/poi-images/lelouma-cities-v2.webp",
     description: {
       de: "Lélouma ist eine Stadt im Herzen des Fouta Djallon Hochlandes, bekannt für ihr Handwerk und den Obstbau.",
       hu: "Lélouma a Fouta Djallon hegyvidék szívében fekvő város, híres kézművességéről és gyümölcstermesztéséről.",
@@ -1412,7 +1386,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-N",
     coords: [-8.5333, 7.8],
     name: { de: "Lola", hu: "Lola", ro: "Lola", en: "Lola"},
-    image: "/poi-images/lola-cities-v2.webp",
     description: {
       de: "Lola liegt im Südosten Guineas nahe dem Nimba-Massiv. Die Stadt ist ein Handelszentrum für landwirtschaftliche Produkte aus der Waldregion.",
       hu: "Lola Guinea délkeleti részén fekszik, a Nimba-masszívum közelében. A város az erdős régió mezőgazdasági termékeinek kereskedelmi központja.",
@@ -1545,7 +1518,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-K",
     coords: [-8.6833, 10.6333],
     name: { de: "Mandiana", hu: "Mandiana", ro: "Mandiana", en: "Mandiana"},
-    image: "/poi-images/mandiana-cities-v2.webp",
     description: {
       de: "Mandiana liegt im Osten Guineas am Fluss Sankarani. Die Stadt ist ein Zentrum für Goldgräber und Landwirtschaft in der Savanne.",
       hu: "Mandiana Guinea keleti részén fekszik, a Sankarani-folyó partján. A város az aranyásók és a szavannai mezőgazdaság központja.",
@@ -1589,7 +1561,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-M",
     coords: [-12.4, 11.05],
     name: { de: "Pita", hu: "Pita", ro: "Pita", en: "Pita"},
-    image: "/poi-images/pita-cities-v2.webp",
     description: {
       de: "Pita liegt im Fouta Djallon Gebirge und ist bekannt für seine spektakulären Wasserfälle und die traditionelle Weberei.",
       hu: "Pita a Fouta Djallon hegységben fekszik, híres látványos vízeséseiről és a hagyományos szövésről.",
@@ -1633,7 +1604,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-L",
     coords: [-11.6667, 11.45],
     name: { de: "Tougué", hu: "Tougué", ro: "Tougué", en: "Tougué"},
-    image: "/poi-images/tougue-cities-v2.webp",
     description: {
       de: "Tougué liegt im Norden Mittelguineas und ist ein bedeutendes Handelszentrum für Vieh und Getreide im Hochland.",
       hu: "Tougué Közép-Guinea északi részén fekszik, a hegyvidéki állat- és gabonakereskedelem jelentős központja.",
@@ -1721,7 +1691,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-M",
     coords: [-10.65, 10.6833],
     name: { de: "Dalaba", hu: "Dalaba", ro: "Dalaba", en: "Dalaba"},
-    image: "/poi-images/dalaba-cities-v2.webp",
     description: {
       de: "Dalaba ist bekannt für sein mildes Klima und wird oft als die 'Schweiz Guineas' bezeichnet. Sie war ein beliebter Erholungsort während der Kolonialzeit.",
       hu: "Dalaba enyhe éghajlatáról ismert, és gyakran 'Guinea Svájcaként' emlegetik. A gyarmati időkben népszerű üdülőhely volt.",
@@ -1765,7 +1734,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-K",
     coords: [-9.6167, 10.8333],
     name: { de: "Sanguiana", hu: "Sanguiana", ro: "Sanguiana", en: "Sanguiana"},
-    image: "/poi-images/sanguiana-cities-v2.webp",
     description: {
       de: "Sanguiana ist eine aufstrebende Stadt in der Region Kankan, die für ihre Reisfelder und die Fischerei am Niger bekannt ist.",
       hu: "Sanguiana egy fejlődő város a Kankan régióban, amely rizsföldjeiről és a Nigeren folyó halászatról ismert.",
@@ -1809,7 +1777,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-B",
     coords: [-13.9167, 11.1],
     name: { de: "Sangarédi", hu: "Sangarédi", ro: "Sangarédi", en: "Sangarédi"},
-    image: "/poi-images/sangaredi-cities-v2.webp",
     description: {
       de: "Sangarédi ist einer der wichtigsten Bergbauorte Guineas und beherbergt die größten Bauxitminen der Welt.",
       hu: "Sangarédi Guinea egyik legfontosabb bányászati települése, itt találhatók a világ legnagyobb bauxitbányái.",
@@ -1853,7 +1820,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-B",
     coords: [-14.4167, 10.8],
     name: { de: "Kolaboui", hu: "Kolaboui", ro: "Kolaboui", en: "Kolaboui"},
-    image: "/poi-images/kolaboui-cities-v2.webp",
     description: {
       de: "Kolaboui liegt im Boké-Korridor und dient als wichtiger Logistikknoten für den Transport von Bauxit zum Hafen Kamsar.",
       hu: "Kolaboui a Boké-folyosón fekszik, és a bauxit Kamsar kikötőjébe történő szállításának fontos logisztikai csomópontja.",
@@ -1897,7 +1863,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-L",
     coords: [-12.5, 11.75],
     name: { de: "Salambandé", hu: "Salambandé", ro: "Salambandé", en: "Salambandé"},
-    image: "/poi-images/salambande-cities-v2.webp",
     description: {
       de: "Salambandé ist eine ländliche Stadt in der Region Labé, bekannt für ihren Wochenmarkt und den Anbau von Getreide.",
       hu: "Salambandé egy vidéki város a Labé régióban, híres heti piacáról és a gabonatermesztésről.",
@@ -1941,7 +1906,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-L",
     coords: [-12.35, 11.45],
     name: { de: "Popodara", hu: "Popodara", ro: "Popodara", en: "Popodara"},
-    image: "/poi-images/popodara-cities-v2.webp",
     description: {
       de: "Popodara liegt in der Nähe von Labé und ist ein wichtiges agrarwirtschaftliches Zentrum im Fouta Djallon.",
       hu: "Popodara Labé közelében fekszik, és a Fouta Djallon fontos agrárgazdasági központja.",
@@ -1985,7 +1949,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-L",
     coords: [-12.1667, 11.4167],
     name: { de: "Diari", hu: "Diari", ro: "Diari", en: "Diari"},
-    image: "/poi-images/diari-cities-v2.webp",
     description: {
       de: "Diari ist ein bedeutendes religiöses und bildungspolitisches Zentrum im Fouta Djallon Hochland.",
       hu: "Diari jelentős vallási és oktatási központ a Fouta Djallon hegyvidéken.",
@@ -2029,7 +1992,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-M",
     coords: [-11.3833, 11.1333],
     name: { de: "Timbi-Madina", hu: "Timbi-Madina", ro: "Timbi-Madina", en: "Timbi-Madina"},
-    image: "/poi-images/timbi-madina-cities-v2.webp",
     description: {
       de: "Timbi-Madina ist bekannt als das Zentrum der Kartoffelproduktion in Guinea und liegt in einer fruchtbaren Ebene des Fouta Djallon.",
       hu: "Timbi-Madina Guinea burgonyatermesztési központjaként ismert, a Fouta Djallon egyik termékeny síkságán fekszik.",
@@ -2073,7 +2035,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-M",
     coords: [-11.85, 9.9],
     name: { de: "Ouré-Kaba", hu: "Ouré-Kaba", ro: "Ouré-Kaba", en: "Ouré-Kaba"},
-    image: "/poi-images/oure-kaba-cities-v2.webp",
     description: {
       de: "Ouré-Kaba liegt im Süden der Region Mamou nahe der Grenze zu Sierra Leone und ist ein wichtiger ländlicher Handelsort.",
       hu: "Ouré-Kaba a Mamou régió déli részén fekszik, Sierra Leone határának közelében, és fontos vidéki kereskedelmi hely.",
@@ -2205,7 +2166,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-D",
     coords: [-12.8333, 10.0167],
     name: { de: "Friguiagbé", hu: "Friguiagbé", ro: "Friguiagbé", en: "Friguiagbé"},
-    image: "/poi-images/friguiagbe-cities-v2.webp",
     description: {
       de: "Friguiagbé liegt in der Präfektur Kindia und ist ein bedeutender Produzent von Ananas und anderen tropischen Früchten.",
       hu: "Friguiagbé a Kindia prefektúrában fekszik, és az ananász, valamint más trópusi gyümölcsök jelentős termelője.",
@@ -2337,7 +2297,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-D",
     coords: [-13.2833, 9.6333],
     name: { de: "Wonkifong", hu: "Wonkifong", ro: "Wonkifong", en: "Wonkifong"},
-    image: "/poi-images/wonkifong-cities-v2.webp",
     description: {
       de: "Wonkifong ist ein wichtiges agrarisches Zentrum in der Nähe der Küste, bekannt für den Anbau von Getreide und Obst.",
       hu: "Wonkifong egy fontos mezőgazdasági központ a tengerpart közelében, híres gabona- és gyümölcstermesztéséről.",
@@ -2381,7 +2340,6 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     parent: "GN-N",
     coords: [-8.85, 7.8],
     name: { de: "Koulé", hu: "Koulé", ro: "Koulé", en: "Koulé"},
-    image: "/poi-images/koule-cities-v2.webp",
     description: {
       de: "Koulé liegt in der Nähe von Nzérékoré und ist ein wichtiger landwirtschaftlicher Handelsplatz in der Waldregion Guineas.",
       hu: "Koulé Nzérékoré közelében fekszik, és Guinea erdős régiójának fontos mezőgazdasági kereskedelmi helye.",

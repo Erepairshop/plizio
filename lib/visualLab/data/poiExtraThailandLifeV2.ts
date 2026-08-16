@@ -633,7 +633,6 @@ export const poiExtraThailandLifeV2: POI[] = [
       hu: "Sea Life Bangkok Ocean World",
       ro: "Sea Life Bangkok Ocean World",
       en: "Sea Life Bangkok Ocean World"},
-    image: "/poi-images/sea-life-bangkok-ocean-world-life-v2.webp",
     description: {
       de: "Ein Aquarium im Untergeschoss des Einkaufszentrums Siam Paragon, das eine beeindruckende Vielfalt an Meereslebewesen zeigt.",
       hu: "A Siam Paragon bevásárlóközpont alagsorában található akvárium, amely a tengeri élővilág lenyűgöző változatosságát mutatja be.",
@@ -2129,7 +2128,6 @@ export const poiExtraThailandLifeV2: POI[] = [
       hu: "Samphran Elefántpark és Állatkert",
       ro: "Samphran Elephant Ground & Zoo",
       en: "Samphran Elephant Ground & Zoo"},
-    image: "/poi-images/samphran-elephant-ground-zoo-life-v2.webp",
     description: {
       de: "Ein beliebter Ort, der für seine Elefantenshows und Krokodil-Wrestling-Vorführungen bekannt ist.",
       hu: "Népszerű hely, amely elefántbemutatóiról és krokodilbirkózó-előadásairól ismert.",
@@ -3445,7 +3443,6 @@ export const poiExtraThailandLifeV2: POI[] = [
       hu: "Pattaya Juhfarm",
       ro: "Ferma de Oi Pattaya",
       en: "Pattaya Sheep Farm"},
-    image: "/poi-images/pattaya-sheep-farm-life-v2.webp",
     description: {
       de: "Eine Farm mit einer märchenhaften Atmosphäre, auf der Besucher Schafe, Alpakas und andere Tiere füttern und mit ihnen interagieren können.",
       hu: "Egy farm meseatmoszférával, ahol a látogatók etethetik a juhokat, alpakákat és más állatokat, és kapcsolatba léphetnek velük.",
@@ -4905,7 +4902,6 @@ export const poiExtraThailandLifeV2: POI[] = [
       hu: "Chatuchak Park",
       ro: "Parcul Chatuchak",
       en: "Chatuchak Park"},
-    image: "/poi-images/chatuchak-park-life-v2.webp",
     description: {
       de: "Ein großer öffentlicher Park in Bangkok neben dem berühmten Chatuchak-Wochenendmarkt. Er bietet eine grüne Zuflucht vor dem Trubel der Stadt.",
       hu: "Egy nagy közpark Bangkokban a híres Chatuchak hétvégi piac mellett. Zöld menedéket nyújt a város nyüzsgése elől.",
@@ -5789,7 +5785,6 @@ export const poiExtraThailandLifeV2: POI[] = [
       hu: "The Blooms Orchideapark",
       ro: "Parcul de Orhidee The Blooms",
       en: "The Blooms Orchid Park"},
-    image: "/poi-images/the-blooms-orchid-park-life-v2.webp",
     description: {
       de: "Ein Park in Ratchaburi, der sich auf den Anbau und die Ausstellung einer großen Vielfalt von Orchideenarten spezialisiert hat.",
       hu: "Egy park Ratchaburiban, amely az orchideafajok széles választékának termesztésére és kiállítására szakosodott.",
@@ -5881,7 +5876,6 @@ export const poiExtraThailandLifeV2: POI[] = [
       hu: "Krabi Elefántmenhely",
       ro: "Sanctuarul de Elefanți Krabi",
       en: "Krabi Elephant Sanctuary"},
-    image: "/poi-images/krabi-elephant-sanctuary-life-v2.webp",
     description: {
       de: "Ein ethisches Elefantencamp, in dem Besucher gerettete Elefanten in einer pflegenden Umgebung füttern, mit ihnen spazieren gehen und sie baden können.",
       hu: "Egy etikus elefánttábor, ahol a látogatók egy gondoskodó környezetben etethetik, sétáltathatják és fürdethetik a megmentett elefántokat.",
@@ -6945,7 +6939,6 @@ export const poiExtraThailandLifeV2: POI[] = [
       hu: "Pororo Aquapark Bangkok",
       ro: "Pororo Aquapark Bangkok",
       en: "Pororo AquaPark Bangkok"},
-    image: "/poi-images/pororo-aquapark-bangkok-life-v2.webp",
     description: {
       de: "Ein Wasserpark auf dem Dach des Einkaufszentrums CentralPlaza Bangna, thematisiert nach der beliebten koreanischen Zeichentrickfigur Pororo.",
       hu: "A CentralPlaza Bangna bevásárlóközpont tetején található vízipark, amely a népszerű koreai rajzfilmfigura, Pororo témájára épül.",
@@ -7541,7 +7534,6 @@ export const poiExtraThailandLifeV2: POI[] = [
       hu: "Sakon Nakhon Lótuszfarm",
       ro: "Ferma de Lotus Sakon Nakhon",
       en: "Sakon Nakhon Lotus Farm"},
-    image: "/poi-images/chom-rom-bua-sakon-nakhon-life-v2.webp",
     description: {
       de: "Eine landwirtschaftliche Attraktion am Nong Han See, wo verschiedene Lotusarten für kulinarische und dekorative Zwecke angebaut werden.",
       hu: "Mezőgazdasági látványosság a Nong Han-tónál, ahol különféle lótuszfajtákat termesztenek kulináris és dekoratív célokra.",
@@ -8914,7 +8906,6 @@ export const poiExtraThailandLifeV2: POI[] = [
       hu: "Phu Phra Bat Park élővilága",
       ro: "Fauna sălbatică din Parcul Phu Phra Bat",
       en: "Phu Phra Bat Park Wildlife"},
-    image: "/poi-images/phu-phra-bat-historical-park-wildlife-v2.webp",
     description: {
       de: "Obwohl es sich um einen Geschichtspark handelt, beherbergt das Gebiet auch eine vielfältige Tierwelt in seinen Wäldern, darunter zahlreiche Vogelarten und kleine Säugetiere.",
       hu: "Bár történelmi park, a terület erdőiben változatos élővilág is megtalálható, beleértve számos madárfajt és kisemlőst.",
@@ -10302,7 +10293,6 @@ export const poiExtraThailandLifeV2: POI[] = [
       hu: "Siam Amazing Park",
       ro: "Siam Amazing Park",
       en: "Siam Amazing Park"},
-    image: "/poi-images/siam-amazing-park-life-v2.webp",
     description: {
       de: "Ein großer Vergnügungs- und Wasserpark in Bangkok, der eine Vielzahl von Fahrgeschäften und das größte Wellenbad der Welt bietet.",
       hu: "Egy nagy vidám- és vízipark Bangkokban, amely számos attrakciót és a világ legnagyobb hullámmedencéjét kínálja.",
@@ -11927,7 +11917,6 @@ export const poiExtraThailandLifeV2: POI[] = [
       hu: "IX. Ráma Király Park",
       ro: "Parcul Suan Luang Rama IX",
       en: "Suan Luang Rama IX Park"},
-    image: "/poi-images/suan-luang-rama-ix-park-life-v2.webp",
     description: {
       de: "Der größte öffentliche Park in Bangkok, der 1987 zum 60. Geburtstag von König Bhumibol Adulyadej erbaut wurde.",
       hu: "Bangkok legnagyobb közparkja, amelyet 1987-ben építettek Bhumibol Adulyadej király 60. születésnapjára.",
@@ -12055,7 +12044,6 @@ export const poiExtraThailandLifeV2: POI[] = [
       hu: "Phu Chong Na Yoi NP élővilága",
       ro: "Fauna sălbatică din PN Phu Chong Na Yoi",
       en: "Phu Chong Na Yoi NP Wildlife"},
-    image: "/poi-images/phu-chong-na-yoi-np-wildlife-v2.webp",
     description: {
       de: "Ein Nationalpark an der Grenze zu Laos und Kambodscha, bekannt für seine unberührten Wälder und die vielfältige Tierwelt, einschließlich seltener Vogelarten.",
       hu: "Egy nemzeti park Laosz és Kambodzsa határán, amely érintetlen erdőiről és változatos élővilágáról, köztük ritka madárfajokról ismert.",
@@ -13155,7 +13143,6 @@ export const poiExtraThailandLifeV2: POI[] = [
       hu: "Art in Paradise Bangkok",
       ro: "Art in Paradise Bangkok",
       en: "Art in Paradise Bangkok"},
-    image: "/poi-images/art-in-paradise-bangkok-life-v2.webp",
     description: {
       de: "Ein interaktives 3D-Kunstmuseum, in dem Besucher Teil der Kunstwerke werden können, was zu lustigen und kreativen Fotos führt.",
       hu: "Egy interaktív 3D művészeti múzeum, ahol a látogatók a műalkotások részévé válhatnak, ami vicces és kreatív fotókat eredményez.",
@@ -14615,7 +14602,6 @@ export const poiExtraThailandLifeV2: POI[] = [
       hu: "Doi Tung Királyi Villa és Kertek",
       ro: "Vila Regală și Grădinile Doi Tung",
       en: "Doi Tung Royal Villa & Gardens"},
-    image: "/poi-images/doi-tung-royal-villa-gardens-life-v2.webp",
     description: {
       de: "Ein Projekt der verstorbenen Prinzessinmutter Srinagarindra, das einen wunderschönen Blumengarten, eine königliche Villa und Entwicklungsprojekte für die lokalen Bergvölker umfasst.",
       hu: "Srinagarindra néhai hercegnő anyakirályné projektje, amely egy gyönyörű virágoskertet, egy királyi villát és fejlesztési projekteket foglal magában a helyi hegyi törzsek számára.",
@@ -15031,7 +15017,6 @@ export const poiExtraThailandLifeV2: POI[] = [
       hu: "Phu Ruea NP Mezőgazdaság",
       ro: "Agricultura în PN Phu Ruea",
       en: "Phu Ruea NP Agriculture"},
-    image: "/poi-images/phu-ruea-national-park-agriculture-v2.webp",
     description: {
       de: "Bekannt für sein kühles Klima, ist diese Region ein Zentrum für den Anbau von gemäßigten Blumen wie Rosen und Lilien sowie für Weinberge.",
       hu: "Hűvös éghajlatáról ismert ez a régió, amely a mérsékelt égövi virágok, például a rózsák és liliomok, valamint a szőlőültetvények termesztésének központja.",
@@ -15375,7 +15360,6 @@ export const poiExtraThailandLifeV2: POI[] = [
       hu: "Thale Noi Vízimadár Rezervátum",
       ro: "Rezervația de Păsări Acvatice Thale Noi",
       en: "Thale Noi Waterfowl Reserve"},
-    image: "/poi-images/thale-noi-waterfowl-reserve-life-v2.webp",
     description: {
       de: "Ein großes Feuchtgebiet im Norden des Songkhla-Sees, das ein Paradies für Vogelbeobachter ist und Tausenden von wandernden und heimischen Wasservögeln Schutz bietet.",
       hu: "Egy nagy vizes élőhely a Songkhla-tótól északra, amely a madármegfigyelők paradicsoma, és több ezer vándorló és őshonos vízimadárnak nyújt menedéket.",
@@ -15899,7 +15883,6 @@ export const poiExtraThailandLifeV2: POI[] = [
       hu: "Coro Field",
       ro: "Coro Field",
       en: "Coro Field"},
-    image: "/poi-images/coro-field-ratchaburi-life-v2.webp",
     description: {
       de: "Eine moderne Agrar-Tourismus-Farm in Ratchaburi, die sich auf den Anbau von hochwertigen japanischen Melonen und anderen Produkten konzentriert.",
       hu: "Egy modern agroturisztikai farm Ratchaburiban, amely a prémium minőségű japán dinnyék és más termékek termesztésére összpontosít.",

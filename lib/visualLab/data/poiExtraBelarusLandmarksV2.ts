@@ -7,8 +7,6 @@ export const belarusLandmarksV2: POI[] = [
     parent: "BY",
     type: "landmark",
     name: { de: "Nationalbibliothek von Belarus", hu: "Fehérorosz Nemzeti Könyvtár", ro: "Biblioteca Națională a Belarusului", en: "National Library of Belarus"},
-    image: "/poi-images/belarus-national-library-landmarks-v2.webp",
-    coords: [27.646, 53.931],
     coords: [27.646, 53.931],
     description: {
       de: "Dieses markante Gebäude in Minsk hat die Form eines Rhombenkuboktaeders. Mit seiner modernen Glasfassade und Lichtinstallation ist es ein Wahrzeichen der Stadt.",
@@ -52,8 +50,6 @@ export const belarusLandmarksV2: POI[] = [
     parent: "BY",
     type: "church",
     name: { de: "Rote Kirche (Minsk)", hu: "Vörös templom (Minszk)", ro: "Biserica Roșie din Minsk", en: "Red Church (Saints Simon and Helena)"},
-    image: "/poi-images/belarus-red-church-minsk-landmarks-v2.webp",
-    coords: [27.547, 53.896],
     coords: [27.547, 53.896],
     description: {
       de: "Die Kirche der Heiligen Simon und Helena ist wegen ihrer markanten Ziegelfarbe als Rote Kirche bekannt. Sie wurde im frühen 20. Jahrhundert im neoromanischen Stil erbaut.",
@@ -97,8 +93,6 @@ export const belarusLandmarksV2: POI[] = [
     parent: "BY",
     type: "cathedral",
     name: { de: "Heiliggeist-Kathedrale (Minsk)", hu: "Szentlélek-székesegyház (Minszk)", ro: "Catedrala Duhul Sfânt din Minsk", en: "Cathedral of the Holy Spirit"},
-    image: "/poi-images/belarus-holy-spirit-cathedral-minsk-landmarks-v2.webp",
-    coords: [27.555, 53.905],
     coords: [27.555, 53.905],
     description: {
       de: "Die Heiliggeist-Kathedrale ist die wichtigste orthodoxe Kirche in Minsk. Sie wurde ursprünglich im 17. Jahrhundert als katholisches Kloster im Barockstil errichtet.",
@@ -142,8 +136,6 @@ export const belarusLandmarksV2: POI[] = [
     parent: "BY",
     type: "museum",
     name: { de: "Museum des Großen Vaterländischen Krieges", hu: "A Nagy Honvédő Háború Múzeuma", ro: "Muzeul Marelui Război pentru Apărarea Patriei", en: "Great Patriotic War Museum"},
-    image: "/poi-images/belarus-great-patriotic-war-museum-landmarks-v2.webp",
-    coords: [27.538, 53.916],
     coords: [27.538, 53.916],
     description: {
       de: "Dieses moderne Museum in Minsk zeigt eine umfangreiche Sammlung zur Geschichte des Zweiten Weltkriegs. Das Gebäude beeindruckt durch seine symbolische Architektur.",
@@ -189,7 +181,6 @@ export const belarusLandmarksV2: POI[] = [
     name: { de: "Koloscha-Kirche (Grodno)", hu: "Koloizsai templom (Hrodna)", ro: "Biserica Caloja din Grodno", en: "Kolozha Church (St. Boris and Gleb)"},
     image: "/poi-images/belarus-kolozha-church-grodno-landmarks-v2.webp",
     coords: [23.818, 53.678],
-    coords: [23.818, 53.678],
     description: {
       de: "Die Koloscha-Kirche in Grodno ist eines der wenigen erhaltenen Denkmäler der Architektur aus der Zeit vor dem Mongolensturm. Sie ist berühmt für ihre verzierten Wände.",
       hu: "A hrodnai Kolozsai templom a mongol hódítás előtti időkből fennmaradt kevés építészeti emlék egyike. Falai színes kerámiabetétekkel díszítettek.",
@@ -233,8 +224,6 @@ export const belarusLandmarksV2: POI[] = [
     parent: "BY",
     type: "palace",
     name: { de: "Neues Schloss Grodno", hu: "Hrodnai újvár", ro: "Castelul Nou din Grodno", en: "New Grodno Castle"},
-    image: "/poi-images/belarus-new-grodno-castle-landmarks-v2.webp",
-    coords: [23.825, 53.675],
     coords: [23.825, 53.675],
     description: {
       de: "Das Neue Schloss wurde im 18. Jahrhundert als Sommerresidenz für polnische Könige erbaut. Es steht direkt gegenüber dem Alten Schloss auf einem Hügel über dem Njemen.",
@@ -467,8 +456,6 @@ export const belarusLandmarksV2: POI[] = [
     parent: "BY",
     type: "palace",
     name: { de: "Palast von Kosava", hu: "Kosszavai palota", ro: "Palatul din Cosava", en: "Kosava Castle (Puslowski Palace)"},
-    image: "/poi-images/belarus-kosava-castle-landmarks-v2.webp",
-    coords: [25.121, 52.766],
     coords: [25.121, 52.766],
     description: {
       de: "Der Puslowski-Palast in Kosava ist ein prachtvolles neogotisches Bauwerk aus dem 19. Jahrhundert. Er ist bekannt für seine zwölf Türme und seine märchenhafte Erscheinung.",
@@ -557,8 +544,6 @@ export const belarusLandmarksV2: POI[] = [
     parent: "BY",
     type: "ruins",
     name: { de: "Palastruine von Ruschany", hu: "Ruzsanyi palotarom", ro: "Ruinele Palatului Rujani", en: "Ruzhany Palace Ruins"},
-    image: "/poi-images/belarus-ruzhany-palace-ruins-landmarks-v2.webp",
-    coords: [24.896, 52.86],
     coords: [24.896, 52.86],
     description: {
       de: "Die Ruinen des Palastes von Ruschany gelten als das 'belarussische Versailles'. Einst war es die prächtige Residenz des mächtigen Sapeha-Geschlechts.",
@@ -603,7 +588,6 @@ export const belarusLandmarksV2: POI[] = [
     type: "museum",
     name: { de: "Stalin-Linie Gedenkkomplex", hu: "Sztálin-vonal emlékpark", ro: "Complexul Memorial Linia Stalin", en: "Stalin Line Historical Complex"},
     image: "/poi-images/belarus-stalin-line-complex-landmarks-v2.webp",
-    coords: [27.296, 54.058],
     coords: [27.296, 54.058],
     description: {
       de: "Die Stalin-Linie ist ein militärhistorisches Freilichtmuseum, das auf dem Verteidigungswall aus der Zeit vor dem Zweiten Weltkrieg basiert.",
@@ -693,8 +677,6 @@ export const belarusLandmarksV2: POI[] = [
     parent: "BY",
     type: "tower",
     name: { de: "Turm von Kamjanez", hu: "Kamjaneci torony", ro: "Turnul din Cameneț", en: "Kamyanets Tower (White Tower)"},
-    image: "/poi-images/belarus-kamyanets-tower-landmarks-v2.webp",
-    coords: [23.82, 52.405],
     coords: [23.82, 52.405],
     description: {
       de: "Der Turm von Kamjanez ist ein Backstein-Donjon aus dem 13. Jahrhundert. Er ist das einzige fast vollständig erhaltene Bauwerk dieser Art in Belarus.",
@@ -739,7 +721,6 @@ export const belarusLandmarksV2: POI[] = [
     type: "church",
     name: { de: "Wehrkirche Muravanka", hu: "Muravankai erődtemplom", ro: "Biserica fortificată Muravanka", en: "Church of the Nativity of the Blessed Virgin Mary (Muravanka)"},
     image: "/poi-images/belarus-muravanka-fortified-church-landmarks-v2.webp",
-    coords: [24.938, 53.697],
     coords: [24.938, 53.697],
     description: {
       de: "Diese befestigte Kirche in Muravanka ist ein seltenes Beispiel für sakrale Wehrarchitektur des 16. Jahrhunderts. Sie kombiniert religiöse Funktion mit Verteidigung.",
@@ -786,7 +767,6 @@ export const belarusLandmarksV2: POI[] = [
     name: { de: "Franz-Xaver-Kathedrale (Grodno)", hu: "Szent Ferenc-Xavér-székesegyház (Hrodna)", ro: "Catedrala Sfântul Francisc Xaveriu din Grodno", en: "Farny Church (St. Francis Xavier Cathedral)"},
     image: "/poi-images/belarus-farny-church-grodno-landmarks-v2.webp",
     coords: [23.831, 53.678],
-    coords: [23.831, 53.678],
     description: {
       de: "Die Farny-Kirche ist ein prächtiges Denkmal des Barocks in Grodno. Mit ihren hohen Türmen und der reichen Innenausstattung prägt sie das Stadtbild.",
       hu: "A Farny-templom a barokk építészet pompás emléke Hrodnában. Magas tornyaival és gazdag belső díszítésével a városkép meghatározó eleme.",
@@ -830,8 +810,6 @@ export const belarusLandmarksV2: POI[] = [
     parent: "BY",
     type: "church",
     name: { de: "Nikolaus-Kloster (Mahiljou)", hu: "Szent Miklós-kolostor (Mahiljov)", ro: "Mănăstirea Sfântul Nicolae din Moghilău", en: "Saint Nicholas Monastery (Mogilev)"},
-    image: "/poi-images/belarus-st-nicholas-monastery-mogilev-landmarks-v2.webp",
-    coords: [30.347, 53.893],
     coords: [30.347, 53.893],
     description: {
       de: "Dieses orthodoxe Frauenkloster ist ein bedeutendes Beispiel für den barocken Baustil von Mahiljou. Es ist bekannt für seine prächtige Ikonostase.",
@@ -877,7 +855,6 @@ export const belarusLandmarksV2: POI[] = [
     name: { de: "Rathaus Wizebsk", hu: "Vicebszki városháza", ro: "Primăria din Vitebsk", en: "Vitebsk Town Hall"},
     image: "/poi-images/belarus-vitebsk-town-hall-landmarks-v2.webp",
     coords: [30.206, 55.195],
-    coords: [30.206, 55.195],
     description: {
       de: "Das Rathaus von Wizebsk ist eines der wenigen erhaltenen historischen Rathäuser des Landes. Es kombiniert Barock und Klassizismus und beherbergt heute ein Museum.",
       hu: "A vicebszki városháza az ország kevés fennmaradt történelmi városházájának egyike. A barokk és a klasszicizmus jegyeit ötvözi, ma múzeum működik benne.",
@@ -921,8 +898,6 @@ export const belarusLandmarksV2: POI[] = [
     parent: "BY",
     type: "museum",
     name: { de: "Marc Chagall Museum (Wizebsk)", hu: "Marc Chagall Múzeum (Vicebszk)", ro: "Muzeul Marc Chagall din Vitebsk", en: "Marc Chagall Museum"},
-    image: "/poi-images/belarus-marc-chagall-museum-vitebsk-landmarks-v2.webp",
-    coords: [30.191, 55.201],
     coords: [30.191, 55.201],
     description: {
       de: "Dieses Museum befindet sich im Elternhaus des berühmten Malers Marc Chagall. Es zeigt das frühe Leben und die Einflüsse, die sein weltbekanntes Werk prägten.",
@@ -968,7 +943,6 @@ export const belarusLandmarksV2: POI[] = [
     name: { de: "Fronleichnamskirche (Neswisch)", hu: "Úrnapja-templom (Nyaszvizs)", ro: "Biserica Corpus Christi din Nesvîj", en: "Corpus Christi Church"},
     image: "/poi-images/belarus-corpus-christi-church-nesvizh-landmarks-v2.webp",
     coords: [26.684, 53.22],
-    coords: [26.684, 53.22],
     description: {
       de: "Die Fronleichnamskirche in Neswisch ist das erste Barockbauwerk in Osteuropa. Sie diente als Grabstätte für das mächtige Adelsgeschlecht der Radziwills.",
       hu: "A nyaszvizsi Úrnapja-templom Kelet-Európa első barokk stílusú épülete. A hatalmas Radziwiłł család temetkezési helyeként szolgált.",
@@ -1013,7 +987,6 @@ export const belarusLandmarksV2: POI[] = [
     type: "church",
     name: { de: "Dreifaltigkeitskirche (Herwjaty)", hu: "Szentháromság-templom (Gervjati)", ro: "Biserica Sfânta Treime din Gherviatî", en: "Church of the Holy Trinity (Herviaty)"},
     image: "/poi-images/belarus-holy-trinity-church-herviaty-landmarks-v2.webp",
-    coords: [26.283, 54.687],
     coords: [26.283, 54.687],
     description: {
       de: "Diese beeindruckende neogotische Kirche wird oft als das 'belarussische Notre-Dame' bezeichnet. Sie ist von einem wunderschönen Landschaftsgarten umgeben.",
@@ -1063,8 +1036,6 @@ export const belarusLandmarksV2: POI[] = [
     parent: "BY",
     type: "ruins",
     name: { de: "Burgruine Halshany", hu: "Halsanyi várrom", ro: "Ruinele Castelului Holșanî", en: "Halshany Castle Ruins"},
-    image: "/poi-images/belarus-halshany-castle-ruins-landmarks-v2.webp",
-    coords: [26.02, 54.251],
     coords: [26.02, 54.251],
     description: {
       de: "Die Burg Halshany war einst die prachtvolle Residenz der Familie Sapeha. Die Ruinen sind von zahlreichen Legenden und Geistergeschichten umgeben.",
@@ -1111,7 +1082,6 @@ export const belarusLandmarksV2: POI[] = [
     name: { de: "Basilika von Budslau", hu: "Budslaui bazilika", ro: "Basilica din Budslau", en: "Budslau Basilica"},
     image: "/poi-images/belarus-budslau-basilica-landmarks-v2.webp",
     coords: [27.452, 54.7873],
-    coords: [27.452, 54.7873],
     description: {
       de: "Die Marienbasilika in Budslau ist ein bedeutendes katholisches Heiligtum und eine päpstliche Basilica minor. Sie wurde im 18. Jahrhundert im spätbarocken Stil erbaut.",
       hu: "A budslaui Nagyboldogasszony-templom Fehéroroszország egyik legfontosabb katolikus zarándokhelye. A 18. század végén épült késő barokk stílusban.",
@@ -1155,8 +1125,6 @@ export const belarusLandmarksV2: POI[] = [
     parent: "BY",
     type: "theater",
     name: { de: "Nationaloper Minsk", hu: "Belorusz Nemzeti Operaház", ro: "Teatrul Național de Operă și Balet din Minsk", en: "Bolshoi Theatre of Belarus"},
-    image: "/poi-images/belarus-bolshoi-theatre-minsk-landmarks-v2.webp",
-    coords: [27.5613, 53.9103],
     coords: [27.5613, 53.9103],
     description: {
       de: "Das Nationale Akademische Große Opern- und Balletttheater befindet sich im historischen Dreifaltigkeitsviertel. Es ist das einzige Opernhaus in Belarus.",
@@ -1200,8 +1168,6 @@ export const belarusLandmarksV2: POI[] = [
     parent: "BY",
     type: "museum",
     name: { de: "Nationales Kunstmuseum", hu: "Nemzeti Művészeti Múzeum", ro: "Muzeul Național de Artă al Belarusului", en: "National Art Museum of Belarus"},
-    image: "/poi-images/belarus-national-art-museum-minsk-landmarks-v2.webp",
-    coords: [27.5607, 53.8985],
     coords: [27.5607, 53.8985],
     description: {
       de: "Das Museum beherbergt die größte Kunstsammlung des Landes mit über 30.000 Exponaten. Der Hauptbau wurde 1957 im neoklassizistischen Stil fertiggestellt.",
@@ -1247,7 +1213,6 @@ export const belarusLandmarksV2: POI[] = [
     name: { de: "Große Synagoge von Slonim", hu: "Szlonimi nagyzsinagóga", ro: "Sinagoga Mare din Slonim", en: "Slonim Great Synagogue"},
     image: "/poi-images/belarus-slonim-great-synagogue-landmarks-v2.webp",
     coords: [25.3192, 53.094],
-    coords: [25.3192, 53.094],
     description: {
       de: "Die Große Synagoge von Slonim ist eine der ältesten erhaltenen Barocksynagogen in Belarus. Sie wurde 1642 erbaut und diente einst als Festungsbau.",
       hu: "A szlonimi nagyzsinagóga Fehéroroszország egyik legrégebbi fennmaradt zsinagógája. Az 1642-ben épült barokk épület védelmi célokat is szolgált.",
@@ -1291,8 +1256,6 @@ export const belarusLandmarksV2: POI[] = [
     parent: "BY",
     type: "cathedral",
     name: { de: "St.-Stanislaus-Kathedrale", hu: "Szent Szaniszló-székesegyház", ro: "Catedrala Sfântul Stanislav din Moghilău", en: "Cathedral of St. Stanislaus"},
-    image: "/poi-images/belarus-st-stanislaus-cathedral-mogilev-landmarks-v2.webp",
-    coords: [30.3345, 53.8994],
     coords: [30.3345, 53.8994],
     description: {
       de: "Die barocke Kathedrale in Mahiljou wurde im 18. Jahrhundert auf dem Gelände eines ehemaligen Klosters errichtet. Sie ist bekannt für ihre wertvollen Fresken.",
@@ -1330,8 +1293,6 @@ export const belarusLandmarksV2: POI[] = [
     parent: "BY",
     type: "palace",
     name: { de: "Tyzenhauz-Palast", hu: "Tyzenhauz-palota", ro: "Palatul Tyzenhauz din Pastavy", en: "Tyzenhauz Palace"},
-    image: "/poi-images/belarus-tyzenhauz-palace-postavy-landmarks-v2.webp",
-    coords: [26.8374, 55.1092],
     coords: [26.8374, 55.1092],
     description: {
       de: "Der klassizistische Palast in Pastawy wurde im späten 18. Jahrhundert von Antoni Tyzenhauz in Auftrag gegeben. Er war ein Zentrum für Wissenschaft und Kunst.",
@@ -1363,8 +1324,6 @@ export const belarusLandmarksV2: POI[] = [
     parent: "BY",
     type: "landmark",
     name: { de: "Rathaus von Schklow", hu: "Sklovi városháza", ro: "Primăria din Șklov", en: "Shklov Town Hall"},
-    image: "/poi-images/belarus-shklov-town-hall-landmarks-v2.webp",
-    coords: [30.2976, 53.9873],
     coords: [30.2976, 53.9873],
     description: {
       de: "Das Rathaus von Schklow ist ein seltenes Beispiel für die Zivilarchitektur des späten 18. Jahrhunderts in Belarus. Es besticht durch seinen hohen Uhrturm.",
@@ -1409,7 +1368,6 @@ export const belarusLandmarksV2: POI[] = [
     type: "palace",
     name: { de: "Butrimowitsch-Palast", hu: "Butrimovics-palota", ro: "Palatul Butrimovici din Pinsk", en: "Butrimovich Palace"},
     image: "/poi-images/belarus-butrimovich-palace-pinsk-landmarks-v2.webp",
-    coords: [26.1085, 52.1145],
     coords: [26.1085, 52.1145],
     description: {
       de: "Der Palast in Pinsk ist ein bedeutendes Baudenkmal des späten 18. Jahrhunderts. Er verbindet Elemente des Barocks und des Klassizismus.",

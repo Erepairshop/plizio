@@ -11,7 +11,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Kopinang-hegy",
       ro: "Muntele Kopinang",
       en: "Mount Kopinang"},
-    image: "/poi-images/mount-kopinang-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Mount Kopinang ist ein markanter Tafelberg in den Pakaraima-Bergen im Zentrum Guyanas, der eine Höhe von etwa 1.594 Metern erreicht. Er gehört zur geologisch uralten Guayana-Schild-Formation und zeichnet sich durch seine steilen Klippen und ein flaches Gipfelplateau aus, das oft in Wolken gehüllt ist. Diese Isolation hat zur Entwicklung einer einzigartigen Flora und Fauna geführt, mit zahlreichen endemischen Arten, die nur auf diesem Berg oder in seiner unmittelbaren Umgebung vorkommen. Der Berg liegt in der Region Potaro-Siparuni und ist für seine anspruchsvollen klimatischen Bedingungen mit hohen Niederschlagsraten bekannt. Am Fuße des Berges befindet sich die Siedlung Kopinang, in der hauptsächlich Angehörige des indigenen Volkes der Patamona leben, für die der Berg eine große spirituelle Bedeutung hat. Die Region ist von unberührtem Regenwald und zahlreichen Wasserfällen umgeben, die das Quellgebiet für mehrere Nebenflüsse des Potaro bilden. Aufgrund der extremen Abgeschiedenheit ist der Mount Kopinang bisher nur wenig wissenschaftlich erforscht worden. Expeditionen zum Gipfel sind selten und erfordern eine aufwendige Logistik sowie die Zusammenarbeit mit lokalen Führern.",
       hu: "A Mount Kopinang egy jellegzetes táblahegy Guyana középső részén, a Pakaraima-hegységben, amely körülbelül 1594 méteres magasságot ér el. A geológiailag ősi Guayanai-pajzs képződményéhez tartozik, meredek sziklafalak és egy lapos, gyakran felhőkbe burkolózó csúcsfennsík jellemzi. Ez az elszigeteltség egyedülálló flóra és fauna kialakulásához vezetett, számos olyan endemikus fajjal, amelyek csak ezen a hegyen vagy annak közvetlen környezetében fordulnak elő. A hegy a Potaro-Siparuni régióban található, és híres kihívást jelentő éghajlati viszonyairól, valamint a rendkívül magas csapadékmennyiségről. A hegy lábánál fekszik Kopinang település, ahol főként a patamona indián nép tagjai élnek, akik számára a hegy nagy spirituális jelentőséggel bír. A régiót érintetlen esőerdők és számos vízesés veszi körül, amelyek a Potaro-folyó több mellékfolyójának forrásvidékét alkotják. Szélsőséges elszigeteltsége miatt a Mount Kopinang tudományosan még kevésbé feltárt. A csúcsra induló expedíciók ritkák, és komoly logisztikai felkészülést, valamint a helyi vezetőkkel való szoros együttműködést igényelnek.",
@@ -194,7 +193,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Wating-hegy",
       ro: "Muntele Wating",
       en: "Mount Wating"},
-    image: "/poi-images/mount-wating-relief-v2.webp",
     description: {
       de: "Der Mount Wating erhebt sich in der südlichen Region Upper Takutu-Upper Essequibo und bietet eine raue, felsige Landschaft.",
       hu: "A Wating-hegy a déli Upper Takutu-Upper Essequibo régióban emelkedik, zord, sziklás tájat kínálva.",
@@ -261,7 +259,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Makarapan-hegy",
       ro: "Muntele Makarapan",
       en: "Mount Makarapan"},
-    image: "/poi-images/mount-makarapan-relief-v2.webp",
     description: {
       de: "Ein isoliertes Bergmassiv in den Rupununi-Savannen, das oft als markanter Orientierungspunkt in der sonst flachen Landschaft dient.",
       hu: "Egy elszigetelt hegytömb a Rupununi-szavannákon, amely gyakran feltűnő tájékozódási pontként szolgál az egyébként sík tájon.",
@@ -328,7 +325,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Holitipu-hegy",
       ro: "Muntele Holitipu",
       en: "Mount Holitipu"},
-    image: "/poi-images/mount-holitipu-relief-v2.webp",
     description: {
       de: "Dieser Berg in der Mazaruni-Region ist bekannt für seine steilen Hänge und die dichte Bewaldung, die ihn zu einer Herausforderung für Entdecker macht.",
       hu: "Ez a Mazaruni régióban található hegy meredek lejtőiről és sűrű erdőzetéről ismert, ami kihívást jelent a felfedezők számára.",
@@ -395,7 +391,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Kamakusa-hegy",
       ro: "Muntele Kamakusa",
       en: "Mount Kamakusa"},
-    image: "/poi-images/mount-kamakusa-relief-v2.webp",
     description: {
       de: "Der Mount Kamakusa ragt markant in der Cuyuni-Mazaruni-Region auf und bildet einen wichtigen Teil der geologischen Struktur des Guyana-Schildes.",
       hu: "A Kamakusa-hegy feltűnően magasodik a Cuyuni-Mazaruni régióban, és fontos részét képezi a Guyanai-pajzs geológiai szerkezetének.",
@@ -462,7 +457,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Merume-hegység",
       ro: "Munții Merume",
       en: "Merume Mountains"},
-    image: "/poi-images/merume-mountains-relief-v2.webp",
     description: {
       de: "Eine Bergkette im Nordwesten Guyanas, die für ihr zerklüftetes Terrain und das Vorkommen seltener Mineralien wie Merumit bekannt ist.",
       hu: "Egy hegylánc Guyana északnyugati részén, amely zord terepéről és ritka ásványok, például a merumit előfordulásáról ismert.",
@@ -529,7 +523,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Imataka-hegység",
       ro: "Munții Imataka",
       en: "Imataka Mountains"},
-    image: "/poi-images/imataka-mountains-relief-v2.webp",
     description: {
       de: "Ein Höhenzug nahe der Grenze zu Venezuela, der von feuchten Tropenwäldern überzogen und reich an Eisenerz ist.",
       hu: "Egy hegyvonulat a venezuelai határ közelében, amelyet nedves trópusi erdők borítanak és gazdag vasércben.",
@@ -596,7 +589,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Appokail-hegy",
       ro: "Muntele Appokail",
       en: "Mount Appokail"},
-    image: "/poi-images/mount-appokail-relief-v2.webp",
     description: {
       de: "Ein abgelegener Gipfel im Hochland, der für seine unberührte Natur und steile Felswände charakteristisch ist.",
       hu: "Egy eldugott csúcs a felföldön, amely érintetlen természetéről és meredek sziklafalairól ismert.",
@@ -663,7 +655,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Weitipu-hegy",
       ro: "Muntele Weitipu",
       en: "Mount Weitipu"},
-    image: "/poi-images/mount-weitipu-relief-v2.webp",
     description: {
       de: "Ein markanter Tafelberg, der sich majestätisch über die grüne Decke des Regenwaldes erhebt und ein faszinierendes Ökosystem beherbergt.",
       hu: "Egy feltűnő táblahegy, amely fenségesen emelkedik ki az esőerdő zöld takarójából, és lenyűgöző ökoszisztémának ad otthont.",
@@ -730,7 +721,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Tulameng-hegy",
       ro: "Muntele Tulameng",
       en: "Mount Tulameng"},
-    image: "/poi-images/mount-tulameng-relief-v2.webp",
     description: {
       de: "Eine schroffe Erhebung im Westen Guyanas, die von dichten Wäldern umgeben ist und als natürliches Hindernis für die Fortbewegung gilt.",
       hu: "Egy zord kiemelkedés Guyana nyugati részén, amelyet sűrű erdők vesznek körül, és természetes akadályt jelent a közlekedésben.",
@@ -842,7 +832,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Maringma-hegy",
       ro: "Muntele Maringma",
       en: "Mount Maringma"},
-    image: "/poi-images/mount-maringma-relief-v2.webp",
     description: {
       de: "Ein Tepui in der Nähe des Roraima-Massivs, dessen flaches Gipfelplateau eine außergewöhnliche Vielfalt an fleischfressenden Pflanzen aufweist.",
       hu: "Egy tepui a Roraima-masszívum közelében, amelynek lapos csúcsfennsíkja a húsevő növények rendkívüli változatosságával büszkélkedhet.",
@@ -909,7 +898,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Kamoa-hegység",
       ro: "Munții Kamoa",
       en: "Kamoa Mountains"},
-    image: "/poi-images/kamoa-mountains-relief-v2.webp",
     description: {
       de: "Eine sehr abgelegene Bergkette im äußersten Süden Guyanas, die an den Acarai-Höhenzug grenzt und größtenteils unerforscht ist.",
       hu: "Egy nagyon távoli hegylánc Guyana legdélibb részén, amely az Acarai-hegyvonulattal határos, és nagyrészt feltáratlan.",
@@ -1043,7 +1031,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Mabura-domb",
       ro: "Dealul Mabura",
       en: "Mabura Hill"},
-    image: "/poi-images/mabura-hill-relief-v2.webp",
     description: {
       de: "Eine bewaldete Anhöhe, die als Zentrum der lokalen Holzindustrie bekannt ist, aber auch eine reiche Artenvielfalt in ihrer Umgebung bewahrt.",
       hu: "Egy erdős magaslat, amely a helyi faipar központjaként ismert, de egyben gazdag biológiai sokféleséget is megőriz a környezetében.",
@@ -1110,7 +1097,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Konawaruk-erdő",
       ro: "Pădurea Konawaruk",
       en: "Konawaruk Forest"},
-    image: "/poi-images/konawaruk-forest-relief-v2.webp",
     description: {
       de: "Ein ausgedehntes Waldgebiet entlang des Konawaruk-Flusses, das trotz historischem Bergbau noch immer bemerkenswerte Naturräume aufweist.",
       hu: "Egy kiterjedt erdőterület a Konawaruk folyó mentén, amely a történelmi bányászat ellenére még mindig figyelemre méltó természeti értékekkel rendelkezik.",
@@ -1177,7 +1163,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Essequibo-esőerdők",
       ro: "Pădurile Tropicale Essequibo",
       en: "Essequibo Rainforests"},
-    image: "/poi-images/essequibo-rainforests-relief-v2.webp",
     description: {
       de: "Die gewaltigen Regenwälder entlang des Essequibo-Flussbeckens zählen zu den größten intakten Waldökosystemen Südamerikas.",
       hu: "Az Essequibo folyó medencéje mentén elterülő hatalmas esőerdők Dél-Amerika legnagyobb érintetlen erdei ökoszisztémái közé tartoznak.",
@@ -1244,7 +1229,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Rupununi-szavanna",
       ro: "Savana Rupununi",
       en: "Rupununi Savanna"},
-    image: "/poi-images/rupununi-savanna-relief-v2.webp",
     description: {
       de: "Eine ausgedehnte Graslandschaft im Südwesten, die sich während der Regenzeit in ein riesiges Feuchtgebiet verwandelt.",
       hu: "Kiterjedt füves puszta délnyugaton, amely az esős évszakban hatalmas vizes élőhellyé változik.",
@@ -1356,7 +1340,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Fehérhomok-fennsík",
       ro: "Podișul Nisipurilor Albe",
       en: "White Sand Plateau"},
-    image: "/poi-images/white-sand-plateau-relief-v2.webp",
     description: {
       de: "Eine geologische Formation hinter der Küstenebene, die durch weiße, nährstoffarme Sandböden und spezialisierte Buschvegetation gekennzeichnet ist.",
       hu: "A partmenti síkság mögötti geológiai formáció, amelyet fehér, tápanyagban szegény homokos talajok és specializált bozótos növényzet jellemez.",
@@ -1423,7 +1406,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Demerara-partmenti síkság",
       ro: "Câmpia de Coastă Demerara",
       en: "Demerara Coastal Plain"},
-    image: "/poi-images/demerara-coastal-plain-relief-v2.webp",
     description: {
       de: "Die fruchtbare, aber tief liegende Küstenebene Guyanas, die durch ein komplexes System von Deichen und Kanälen vor dem Meer geschützt wird.",
       hu: "Guyana termékeny, de mélyen fekvő partmenti síksága, amelyet gátak és csatornák összetett rendszere véd a tengertől.",
@@ -1490,7 +1472,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Mazaruni-esőerdők",
       ro: "Pădurile Tropicale Mazaruni",
       en: "Mazaruni Rainforests"},
-    image: "/poi-images/mazaruni-rainforests-relief-v2.webp",
     description: {
       de: "Dichte, nahezu undurchdringliche Tropenwälder, die das Einzugsgebiet des Mazaruni-Flusses säumen und für ihre immense Artenvielfalt bekannt sind.",
       hu: "Sűrű, szinte áthatolhatatlan trópusi erdők, amelyek a Mazaruni folyó vízgyűjtőjét szegélyezik, és hatalmas fajgazdagságukról ismertek.",
@@ -1557,7 +1538,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Berbice-szavanna",
       ro: "Savana Berbice",
       en: "Berbice Savanna"},
-    image: "/poi-images/berbice-savanna-relief-v2.webp",
     description: {
       de: "Eine ausgedehnte Gras- und Strauchlandschaft im Osten Guyanas, die von einem Netzwerk kleiner Flüsse und Feuchtgebiete durchzogen ist.",
       hu: "Egy kiterjedt füves és cserjés táj Guyana keleti részén, amelyet kis folyók és vizes élőhelyek hálózata szel át.",
@@ -1624,7 +1604,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Felső-Takutu-erdő",
       ro: "Pădurea Takutu de Sus",
       en: "Upper Takutu Forest"},
-    image: "/poi-images/upper-takutu-forest-relief-v2.webp",
     description: {
       de: "Eine weite Waldregion im tiefen Süden, die als ökologische Brücke zwischen den Amazonaswäldern und dem Guyana-Schild fungiert.",
       hu: "Széles erdővidék a mély délen, amely ökológiai hídként szolgál az amazóniai erdők és a Guyanai-pajzs között.",
@@ -1691,7 +1670,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Barima-Waini mangróveerdők",
       ro: "Pădurile de Mangrove Barima-Waini",
       en: "Barima-Waini Mangrove Forests"},
-    image: "/poi-images/barima-waini-mangrove-forests-relief-v2.webp",
     description: {
       de: "Die ausgedehnten Küstenmangroven im Nordwesten Guyanas dienen als entscheidender Puffer gegen Meereserosion und als Kinderstube für Meereslebewesen.",
       hu: "A kiterjedt parti mangrovék Guyana északnyugati részén döntő pufferként szolgálnak a tengeri erózió ellen, és a tengeri élőlények bölcsőjeként funkcionálnak.",
@@ -1758,7 +1736,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Cuyuni-Mazaruni-felföld",
       ro: "Zonele Înalte Cuyuni-Mazaruni",
       en: "Cuyuni-Mazaruni Highlands"},
-    image: "/poi-images/cuyuni-mazaruni-highlands-relief-v2.webp",
     description: {
       de: "Ein komplexes System aus Hochebenen, tiefen Tälern und Tafelbergen, das den geologischen Kern des westlichen Guyanas bildet.",
       hu: "Fennsíkok, mély völgyek és táblahegyek összetett rendszere, amely Nyugat-Guyana geológiai magját alkotja.",

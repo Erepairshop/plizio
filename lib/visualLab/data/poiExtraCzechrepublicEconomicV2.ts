@@ -232,8 +232,6 @@ export const czechrepublicEconomicV2: POI[] = [
     parent: "CZ",
     type: "industry",
     name: { de: "Kernkraftwerk Temelín", hu: "Temelíni atomerőmű", ro: "Centrala nucleară de la Temelín", en: "Temelín Nuclear Power Station"},
-    image: "/poi-images/czechrepublic-temelin-nuclear-plant-economic-v2.webp",
-    coords: [14.3752, 49.1802],
     coords: [14.3752, 49.1802],
     description: {
       de: "Das größte Kraftwerk in der Tschechischen Republik produziert etwa 20 % des landesweiten Strombedarfs. Es nutzt zwei WWER-1000-Druckwasserreaktoren mit einer Gesamtleistung von über 2000 MW.",
@@ -281,7 +279,6 @@ export const czechrepublicEconomicV2: POI[] = [
     name: { de: "Pilsner Urquell Brauerei", hu: "Plzeňský Prazdroj sörgyár", ro: "Berăria Pilsner Urquell", en: "Pilsner Urquell Brewery"},
     image: "/poi-images/czechrepublic-pilsner-urquell-brewery-economic-v2.webp",
     coords: [13.3888, 49.7475],
-    coords: [13.3888, 49.7475],
     description: {
       de: "Die Geburtsstätte des Pilsner Bieres wurde 1842 gegründet und ist heute eines der wichtigsten Exportunternehmen der tschechischen Lebensmittelindustrie. Jährlich werden hier Millionen Hektoliter Bier produziert.",
       hu: "A pilseni típusú sör szülőhelyét 1842-ben alapították, ma a cseh élelmiszeripar egyik legfontosabb exportőre. Évente több millió hektoliter sört állítanak elő a gyárban.",
@@ -325,8 +322,6 @@ export const czechrepublicEconomicV2: POI[] = [
     parent: "CZ",
     type: "factory",
     name: { de: "Hyundai Werk Nošovice", hu: "Hyundai Nošovice autógyár", ro: "Fabrica Hyundai Nošovice", en: "Hyundai Motor Manufacturing Czech"},
-    image: "/poi-images/czechrepublic-hyundai-nosovice-economic-v2.webp",
-    coords: [18.4514, 49.6582],
     coords: [18.4514, 49.6582],
     description: {
       de: "Die einzige Hyundai-Produktionsstätte in der Europäischen Union wurde 2008 in Nošovice eröffnet. Das hochautomatisierte Werk produziert jährlich über 300.000 Fahrzeuge für den europäischen Markt.",
@@ -669,8 +664,6 @@ export const czechrepublicEconomicV2: POI[] = [
     parent: "CZ",
     type: "industry",
     name: { de: "Kernkraftwerk Dukovany", hu: "Dukovanyi atomerőmű", ro: "Centrala nucleară de la Dukovany", en: "Dukovany Nuclear Power Station"},
-    image: "/poi-images/czechrepublic-dukovany-nuclear-plant-economic-v2.webp",
-    coords: [16.1504, 49.0851],
     coords: [16.1504, 49.0851],
     description: {
       de: "Das erste Kernkraftwerk der Tschechischen Republik nahm 1985 den Betrieb auf. Es verfügt über vier Druckwasserreaktoren vom Typ WWER-440 und ist ein zentraler Pfeiler der mährischen Wirtschaft.",
@@ -718,7 +711,6 @@ export const czechrepublicEconomicV2: POI[] = [
     name: { de: "Tatra Lastwagenwerk", hu: "Tatra teherautógyár", ro: "Fabrica de camioane Tatra", en: "Tatra Trucks Factory"},
     image: "/poi-images/czechrepublic-tatra-trucks-factory-economic-v2.webp",
     coords: [18.1447, 49.5938],
-    coords: [18.1447, 49.5938],
     description: {
       de: "Tatra in Kopřivnice ist einer der ältesten Automobilhersteller der Welt. Das Werk ist spezialisiert auf schwere Geländelastwagen mit dem charakteristischen Zentralrohrrahmen-Konzept.",
       hu: "A kopřivnicei Tatra a világ egyik legrégebbi autógyártója. Az üzem nehéz terepjáró teherautókra specializálódott, amelyek jellegzetes központi csővázas alvázzal készülnek.",
@@ -764,7 +756,6 @@ export const czechrepublicEconomicV2: POI[] = [
     name: { de: "Bata-Industriekomplex Zlín", hu: "Bata ipari komplexum Zlín", ro: "Complexul industrial Bata Zlín", en: "Bata Industrial Complex Zlín"},
     image: "/poi-images/czechrepublic-bata-zlin-complex-economic-v2.webp",
     coords: [17.6591, 49.2248],
-    coords: [17.6591, 49.2248],
     description: {
       de: "Zlín war das Zentrum des globalen Schuhimperiums von Tomáš Baťa. Die funktionale Architektur der Fabrikgebäude und Arbeiterhäuser prägte die moderne Stadtplanung und Wirtschaftsgeschichte.",
       hu: "Zlín volt Tomáš Baťa globális cipőbirodalmának központja. A gyárépületek és munkásházak funkcionalista építészete meghatározta a modern várostervezést és gazdaságtörténetet.",
@@ -808,8 +799,6 @@ export const czechrepublicEconomicV2: POI[] = [
     parent: "CZ",
     type: "factory",
     name: { de: "ORLEN Unipetrol Raffinerie Litvínov", hu: "ORLEN Unipetrol finomító Litvínov", ro: "Rafinăria ORLEN Unipetrol Litvínov", en: "ORLEN Unipetrol Refinery Litvínov"},
-    image: "/poi-images/czechrepublic-orlen-unipetrol-litvinov-economic-v2.webp",
-    coords: [13.6134, 50.5958],
     coords: [13.6134, 50.5958],
     description: {
       de: "Die größte Erdölraffinerie Tschechiens ist ein Schlüsselstandort für die petrochemische Industrie. Sie verarbeitet Rohöl zu Treibstoffen, Kunststoffen und Düngemitteln.",
@@ -855,8 +844,6 @@ export const czechrepublicEconomicV2: POI[] = [
     parent: "CZ",
     type: "factory",
     name: { de: "Toyota Werk Kolín", hu: "Toyota gyár Kolín", ro: "Fabrica Toyota Kolín", en: "Toyota Motor Manufacturing Czech Kolín"},
-    image: "/poi-images/czechrepublic-tpca-toyota-kolin-economic-v2.webp",
-    coords: [15.2281, 50.0769],
     coords: [15.2281, 50.0769],
     description: {
       de: "Ehemals als TPCA bekannt, ist dieses Werk in Kolín heute vollständig im Besitz von Toyota. Es ist spezialisiert auf die Produktion von kompakten Stadtfahrzeugen für den europäischen Markt.",
@@ -902,8 +889,6 @@ export const czechrepublicEconomicV2: POI[] = [
     parent: "CZ",
     type: "mine",
     name: { de: "Tagebau Bílina", hu: "Bílina külszíni fejtés", ro: "Mina de cărbune Bílina", en: "Bílina Open-Cast Coal Mine"},
-    image: "/poi-images/czechrepublic-bilina-coal-mine-economic-v2.webp",
-    coords: [13.7314, 50.5511],
     coords: [13.7314, 50.5511],
     description: {
       de: "Der tiefste Braunkohletagebau in der Tschechischen Republik liefert Brennstoff für die nahegelegenen Kraftwerke. Er ist ein markantes Beispiel für die Bergbauwirtschaft in Nordböhmen.",
@@ -949,8 +934,6 @@ export const czechrepublicEconomicV2: POI[] = [
     parent: "CZ",
     type: "factory",
     name: { de: "Koh-i-Noor Hardtmuth Fabrik", hu: "Koh-i-Noor Hardtmuth gyár", ro: "Fabrica Koh-i-Noor Hardtmuth", en: "Koh-i-Noor Hardtmuth Factory"},
-    image: "/poi-images/czechrepublic-kohinoor-hardtmuth-economic-v2.webp",
-    coords: [14.4714, 48.9739],
     coords: [14.4714, 48.9739],
     description: {
       de: "Das 1790 gegründete Traditionsunternehmen in České Budějovice ist einer der weltweit größten Hersteller von Schreibwaren und Zeichenartikeln. Es ist berühmt für die Erfindung des modernen Bleistifts.",
@@ -996,8 +979,6 @@ export const czechrepublicEconomicV2: POI[] = [
     parent: "CZ",
     type: "factory",
     name: { de: "Petrof Klavierfabrik", hu: "Petrof zongoragyár", ro: "Fabrica de piane Petrof", en: "Petrof Pianos Factory"},
-    image: "/poi-images/czechrepublic-petrof-pianos-economic-v2.webp",
-    coords: [15.8564, 50.1914],
     coords: [15.8564, 50.1914],
     description: {
       de: "Petrof in Hradec Králové ist der größte Hersteller von akustischen Flügeln und Klavieren in Europa. Das 1864 gegründete Unternehmen ist ein Symbol für tschechische Handwerkskunst und Exportqualität.",
@@ -1043,8 +1024,6 @@ export const czechrepublicEconomicV2: POI[] = [
     parent: "CZ",
     type: "factory",
     name: { de: "Zentiva Pharmawerk", hu: "Zentiva gyógyszergyár", ro: "Fabrica de farmaceutice Zentiva", en: "Zentiva Pharmaceutical Plant"},
-    image: "/poi-images/czechrepublic-zentiva-prague-economic-v2.webp",
-    coords: [14.5441, 50.0632],
     coords: [14.5441, 50.0632],
     description: {
       de: "Das Hauptwerk von Zentiva in Prag-Dolní Měcholupy ist eines der größten Pharmaunternehmen in Mitteleuropa. Es produziert Generika für Millionen von Patienten in ganz Europa.",
@@ -1090,8 +1069,6 @@ export const czechrepublicEconomicV2: POI[] = [
     parent: "CZ",
     type: "factory",
     name: { de: "Spolana Neratovice Chemiewerk", hu: "Spolana Neratovice vegyianyaggyár", ro: "Combinatul chimic Spolana Neratovice", en: "Spolana Neratovice Chemical Plant"},
-    image: "/poi-images/czechrepublic-unipetrol-spolana-economic-v2.webp",
-    coords: [14.5022, 50.2741],
     coords: [14.5022, 50.2741],
     description: {
       de: "Einer der größten Chemiekomplexe in Tschechien, spezialisiert auf die Herstellung von PVC, Caprolactam und Düngemitteln. Es ist ein wichtiger Zulieferer für die Kunststoffindustrie.",
@@ -1137,8 +1114,6 @@ export const czechrepublicEconomicV2: POI[] = [
     parent: "CZ",
     type: "factory",
     name: { de: "Continental Barum Reifenwerk", hu: "Continental Barum gumiabroncsgyár", ro: "Fabrica de anvelope Continental Barum", en: "Continental Barum Tire Plant"},
-    image: "/poi-images/czechrepublic-continental-barum-economic-v2.webp",
-    coords: [17.5364, 49.2074],
     coords: [17.5364, 49.2074],
     description: {
       de: "Das Werk in Otrokovice ist eine der weltweit größten Reifenfabriken. Es produziert Reifen für PKW, LKW und Industriemaschinen unter der Marke Barum und für den Mutterkonzern Continental.",
@@ -1184,8 +1159,6 @@ export const czechrepublicEconomicV2: POI[] = [
     parent: "CZ",
     type: "landmark",
     name: { de: "Prager Börse", hu: "Prágai Értéktőzsde", ro: "Bursa de Valori din Praga", en: "Prague Stock Exchange"},
-    image: "/poi-images/czechrepublic-prague-stock-exchange-economic-v2.webp",
-    coords: [14.4264, 50.0894],
     coords: [14.4264, 50.0894],
     description: {
       de: "Der wichtigste Handelsplatz für Wertpapiere in Tschechien wurde nach dem Fall des Kommunismus 1992 neu gegründet. Er ist das Finanzzentrum des Landes und listet die größten tschechischen Unternehmen.",
@@ -1231,8 +1204,6 @@ export const czechrepublicEconomicV2: POI[] = [
     parent: "CZ",
     type: "port",
     name: { de: "Hafen von Děčín", hu: "Děčíni kikötő", ro: "Portul Děčín", en: "Port of Děčín"},
-    image: "/poi-images/czechrepublic-port-of-decin-economic-v2.webp",
-    coords: [14.2188, 50.7741],
     coords: [14.2188, 50.7741],
     description: {
       de: "Der bedeutendste Binnenhafen an der Elbe verbindet die tschechische Industrie mit den Seehäfen Hamburg und Bremen. Er ist ein zentraler Knotenpunkt für den Gütertransport per Schiff.",
@@ -1278,8 +1249,6 @@ export const czechrepublicEconomicV2: POI[] = [
     parent: "CZ",
     type: "factory",
     name: { de: "Aero Vodochody Flugzeugwerk", hu: "Aero Vodochody repülőgépgyár", ro: "Fabrica de avioane Aero Vodochody", en: "Aero Vodochody Aerospace Plant"},
-    image: "/poi-images/czechrepublic-aero-vodochody-economic-v2.webp",
-    coords: [14.3941, 50.2164],
     coords: [14.3941, 50.2164],
     description: {
       de: "Tschechiens größter Flugzeughersteller ist weltweit bekannt für seine Strahltrainer. Das Werk produziert eigene Militärflugzeuge und Komponenten für internationale Partner wie Airbus und Boeing.",
@@ -1325,8 +1294,6 @@ export const czechrepublicEconomicV2: POI[] = [
     parent: "CZ",
     type: "industry",
     name: { de: "Amazon Logistikzentrum Dobrovíz", hu: "Amazon logisztikai központ Dobrovíz", ro: "Centrul logistic Amazon Dobrovíz", en: "Amazon Fulfillment Center Dobrovíz"},
-    image: "/poi-images/czechrepublic-amazon-fulfillment-dobroviz-economic-v2.webp",
-    coords: [14.2214, 50.1064],
     coords: [14.2214, 50.1064],
     description: {
       de: "Das massive Logistikzentrum in der Nähe des Prager Flughafens ist eines der größten Gebäude Tschechiens. Es dient als zentrales Drehkreuz für den Online-Handel in Mitteleuropa.",
@@ -1374,7 +1341,6 @@ export const czechrepublicEconomicV2: POI[] = [
     name: { de: "Liberty Ostrava Stahlwerk", hu: "Liberty Ostrava acélmű", ro: "Combinatul siderurgic Liberty Ostrava", en: "Liberty Ostrava Steelworks"},
     image: "/poi-images/czechrepublic-liberty-ostrava-steel-economic-v2.webp",
     coords: [18.3114, 49.7914],
-    coords: [18.3114, 49.7914],
     description: {
       de: "Ein integriertes Hüttenwerk in Ostrava, das flüssigen Stahl zu einer breiten Palette von Produkten verarbeitet. Es ist ein bedeutender Akteur in der europäischen Stahlindustrie und Arbeitgeber in Schlesien.",
       hu: "Osztrávai integrált kohászati üzem, amely folyékony acélt dolgoz fel különféle termékekké. Az európai acélipar jelentős szereplője és fontos sziléziai munkaadó.",
@@ -1418,8 +1384,6 @@ export const czechrepublicEconomicV2: POI[] = [
     parent: "CZ",
     type: "factory",
     name: { de: "Lovochemie Düngemittelwerk", hu: "Lovochemie műtrágyagyár", ro: "Combinatul chimic Lovochemie", en: "Lovochemie Fertilizer Plant"},
-    image: "/poi-images/czechrepublic-lovochemie-lovosice-economic-v2.webp",
-    coords: [14.0714, 50.5182],
     coords: [14.0714, 50.5182],
     description: {
       de: "Der größte Hersteller von Stickstoff- und Mehrnährstoffdüngern in Tschechien. Das Werk in Lovosice ist entscheidend für die heimische Landwirtschaft und ein wichtiger Exporteur.",
@@ -1465,8 +1429,6 @@ export const czechrepublicEconomicV2: POI[] = [
     parent: "CZ",
     type: "factory",
     name: { de: "Crystalex Glaswerk", hu: "Crystalex üveggyár", ro: "Fabrica de sticlă Crystalex", en: "Crystalex Glassworks"},
-    image: "/poi-images/czechrepublic-crystalex-novy-bor-economic-v2.webp",
-    coords: [14.5564, 50.7514],
     coords: [14.5564, 50.7514],
     description: {
       de: "Der größte Hersteller von Trinkgläsern in Tschechien exportiert seine Produkte unter der Marke 'Bohemia Crystal' in die ganze Welt. Das Werk in Nový Bor führt eine jahrhundertealte Glastradition fort.",
@@ -1512,8 +1474,6 @@ export const czechrepublicEconomicV2: POI[] = [
     parent: "CZ",
     type: "factory",
     name: { de: "Becherovka Destillerie", hu: "Becherovka lepárló", ro: "Distileria Becherovka", en: "Becherovka Distillery"},
-    image: "/poi-images/czechrepublic-becherovka-distillery-economic-v2.webp",
-    coords: [12.8682, 50.2302],
     coords: [12.8682, 50.2302],
     description: {
       de: "Die Heimat des berühmten Kräuterlikörs in Karlovy Vary ist ein Symbol der tschechischen Getränkeindustrie. Seit 1807 wird das Rezept streng geheim gehalten und weltweit exportiert.",
@@ -1559,8 +1519,6 @@ export const czechrepublicEconomicV2: POI[] = [
     parent: "CZ",
     type: "mine",
     name: { de: "OKD Steinkohlebergbau Karviná", hu: "OKD feketekőszén-bányászat Karviná", ro: "Mina de huilă OKD Karviná", en: "OKD Hard Coal Mining Karviná"},
-    image: "/poi-images/czechrepublic-okd-mining-karvina-economic-v2.webp",
-    coords: [18.4814, 49.8514],
     coords: [18.4814, 49.8514],
     description: {
       de: "Das einzige aktive Steinkohlerevier in der Tschechischen Republik versorgt die Schwerindustrie mit Koks und Energie. Es ist das historische Herz des Ostrauer Reviers.",
@@ -1608,7 +1566,6 @@ export const czechrepublicEconomicV2: POI[] = [
     name: { de: "Kofola Fabrik Krnov", hu: "Kofola gyár Krnov", ro: "Fabrica Kofola Krnov", en: "Kofola Factory Krnov"},
     image: "/poi-images/czechrepublic-kofola-factory-krnov-economic-v2.webp",
     coords: [17.7014, 50.0914],
-    coords: [17.7014, 50.0914],
     description: {
       de: "Kofola ist die Antwort Mitteleuropas auf globale Cola-Marken. Das Werk in Krnov produziert dieses Kultgetränk, das in Tschechien und der Slowakei marktführend ist.",
       hu: "A Kofola Közép-Európa válasza a globális kólamárkákra. A krnovi gyár állítja elő ezt a kultikus italt, amely piacvezető Csehországban és Szlovákiában.",
@@ -1653,7 +1610,6 @@ export const czechrepublicEconomicV2: POI[] = [
     type: "factory",
     name: { de: "Prim Uhrenmanufaktur", hu: "Prim óramanufaktúra", ro: "Manufactura de ceasuri Prim", en: "Prim Watches Factory"},
     image: "/poi-images/czechrepublic-prim-watches-factory-economic-v2.webp",
-    coords: [16.1414, 50.3614],
     coords: [16.1414, 50.3614],
     description: {
       de: "Die Manufaktur in Nové Město nad Metují ist bekannt für die Herstellung hochwertiger mechanischer Armbanduhren. Prim ist ein bedeutendes Symbol für tschechische Präzisionsindustrie.",

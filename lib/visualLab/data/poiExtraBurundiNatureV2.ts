@@ -12,7 +12,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Tanganyika-tó",
       ro: "Lacul Tanganyika",
       en: "Lake Tanganyika"},
-    image: "/poi-images/tanganyika-lake-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Tanganjikasee ist ein afrikanisches Naturwunder von globaler Bedeutung und gilt als der zweittiefste und zweitälteste Süßwassersee der Welt. Er erstreckt sich über eine Länge von etwa 673 Kilometern im Ostafrikanischen Grabenbruch und bildet die Grenze zwischen Tansania, der Demokratischen Republik Kongo, Burundi und Sambia. Mit einer maximalen Tiefe von rund 1.470 Metern enthält er etwa 18 % des weltweit verfügbaren flüssigen Süßwassers. Die Isolation des Sees über Jahrmillionen hat zur Entwicklung einer einzigartigen Fauna geführt; besonders bekannt sind die über 250 Arten von Buntbarschen, die fast alle endemisch sind. Für die Anrainerstaaten ist der See eine kritische Ressource für den Fischfang und ein wichtiger Transportweg für den Handel zwischen Zentral- und Ostafrika. Das Wasser ist außergewöhnlich klar, was Sichtweiten von bis zu 20 Metern ermöglicht. Trotz seiner Größe ist das Ökosystem anfällig für Klimaveränderungen und Überfischung, weshalb internationale Schutzbemühungen zur Erhaltung dieses uralten Ökosystems verstärkt wurden.",
       hu: "A Tanganyika-tó globális jelentőségű természeti csoda, amely a világ második legmélyebb és második legősibb édesvízi tava. Az Kelet-afrikai árokrendszerben található tó hossza körülbelül 673 kilométer, és négy ország – Tanzánia, a Kongói Demokratikus Köztársaság, Burundi és Zambia – határán húzódik. Legnagyobb mélysége eléri az 1.470 métert, és a Föld teljes folyékony édesvízkészletének mintegy 18%-át tárolja. A tó több millió éves elszigeteltsége egyedülálló fauna kialakulásához vezetett; különösen híres a több mint 250 sügérfajáról, amelyek szinte mindegyike csak itt található meg. A környező államok számára a tó létfontosságú halászati terület és kulcsfontosságú szállítási útvonal Közép- és Kelet-Afrika között. Vize rendkívül tiszta, a látótávolság néhol eléri a 20 métert. Mérete ellenére az ökoszisztéma érzékeny a klímaváltozásra és a túlhalászatra, ezért nemzetközi védelmi programok dolgoznak ezen ősi életközösség megőrzésén.",
@@ -60,7 +59,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Ruzizi-folyó",
       ro: "Râul Ruzizi",
       en: "Ruzizi River"},
-    image: "/poi-images/ruzizi-river-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Ruzizi-Fluss ist eine bedeutende Wasserstraße in Ostafrika, die den Kivusee mit dem Tanganjikasee verbindet und dabei eine natürliche Grenze zwischen der Demokratischen Republik Kongo, Ruanda und Burundi bildet. Mit einer Gesamtlänge von etwa 117 Kilometern überwindet der Fluss einen beträchtlichen Höhenunterschied von über 600 Metern, was ihn für die Energieerzeugung durch mehrere Wasserkraftwerke besonders wertvoll macht. In seinem Unterlauf, bevor er in den Tanganjikasee mündet, bildet der Ruzizi weitläufige Sumpfgebiete und den Ruzizi-Nationalpark, der für seine Populationen von Flusspferden und Nilkrokodilen bekannt ist. Historisch gesehen war das Tal ein wichtiger Korridor für Wanderbewegungen und Handel in der Region des Großen Afrikanischen Grabenbruchs. Die Flora entlang der Ufer umfasst Papyrus-Sümpfe und dichte Galeriewälder, die zahlreichen bedrohten Vogelarten als Lebensraum dienen. Heute steht der Fluss vor ökologischen Herausforderungen durch Erosion und Sedimentation, bleibt jedoch eine Lebensader für die lokale Landwirtschaft und Fischerei.",
       hu: "A Ruzizi-folyó Kelet-Afrika egyik legfontosabb vízfolyása, amely a Kivu-tavat köti össze a Tanganyika-tóval, természetes határt alkotva a Kongói Demokratikus Köztársaság, Ruanda és Burundi között. A körülbelül 117 kilométer hosszú folyó jelentős, több mint 600 méteres szintkülönbséget küzd le, ami kiváló lehetőséget biztosít a vízenergia hasznosítására több duzzasztógáton keresztül. Alsó szakaszán, mielőtt a Tanganyika-tóba ömlene, a folyó kiterjedt mocsárvidéket és deltát hoz létre, amely a Ruzizi Nemzeti Park szívét alkotja, és híres népes víziló- és krokodilállományáról. Történelmileg a völgy fontos közlekedési folyosó volt az Afrikai-árok mentén zajló népvándorlások és kereskedelem számára. A part menti növényzetet papiruszsás-mocsarak és sűrű galériaerdők jellemzik, amelyek számos ritka madárfajnak nyújtanak menedéket. Napjainkban a folyó az öntözéses mezőgazdaság és a halászat alapvető forrása, bár a part menti talajerózió komoly környezetvédelmi kihívást jelent a régió számára.",
@@ -108,7 +106,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Kibira Nemzeti Park",
       ro: "Parcul Național Kibira",
       en: "Kibira National Park"},
-    image: "/poi-images/kibira-forest-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Kibira-Nationalpark erstreckt sich über den Gebirgskamm der Wasserscheide zwischen Kongo und Nil im Nordwesten Burundis und umfasst eines der letzten verbliebenen montanen Regenwaldgebiete des Landes. Mit einer Fläche von etwa 400 Quadratkilometern schließt er direkt an den Nyungwe-Wald in Ruanda an und bildet so ein grenzüberschreitendes Ökosystem von globaler Bedeutung. Der Park liegt auf einer Höhe zwischen 1600 und 2800 Metern und zeichnet sich durch eine enorme Biodiversität aus, darunter Primaten wie Schimpansen und verschiedene Meerkatzenarten sowie über 200 Vogelarten. Historisch diente der Wald als heiliges Jagdrevier der burundischen Könige und genoss dadurch einen gewissen traditionellen Schutz. Die Flora ist geprägt durch dichte Bestände von Symphonia globulifera und Podocarpus milanjianus, durchsetzt mit weiten Bambuswäldern in den höheren Lagen. Neben seiner ökologischen Funktion als Wasserspeicher für die umliegenden Täler ist der Park heute ein Schwerpunkt für den Ökotourismus und wissenschaftliche Forschung in Zentralafrika.",
       hu: "A Kibira Nemzeti Park Burundi északnyugati részén, a Kongó és a Nílus vízválasztó hegységének gerincén húzódik, magában foglalva az ország utolsó érintetlen hegyi esőerdőit. A mintegy 400 négyzetkilométeres terület közvetlenül határos a ruandai Nyungwe-erdővel, így együttesen a régió egyik legfontosabb határokon átnyúló ökoszisztémáját alkotják. A park 1600 és 2800 méter közötti tengerszint feletti magasságban fekszik, és rendkívüli biológiai sokféleségnek ad otthont, beleértve a csimpánzokat, számos cerkófmajom-félét és több mint 200 madárfajt. Történelmileg az erdő a burundi királyok szent vadászterülete volt, ami segített megőrizni természetes állapotát a gyarmati idők előtt. A növényvilágot sűrű köderdők, Podocarpus fajok és a magasabb régiókban kiterjedt bambuszerdők jellemzik. Az ökológiai jelentőségén túl a park alapvető fontosságú a környező mezőgazdasági területek vízellátása szempontjából, és napjainkban a kutatók és az ökoturizmus kedvelt célpontja.",
@@ -156,7 +153,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Ruvubu-folyó",
       ro: "Râul Ruvubu",
       en: "Ruvubu River"},
-    image: "/poi-images/ruvubu-river-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Ruvubu-Fluss ist der längste Fluss Burundis und bildet das Rückgrat des größten Nationalparks des Landes, dem Ruvubu-Nationalpark. Er entspringt im südlichen Hochland und fließt über eine Strecke von etwa 300 Kilometern nach Nordosten, bevor er sich mit dem Nyabarongo vereinigt, um den Kagera-Fluss zu bilden, einen der Hauptzuflüsse des Viktoriasees. Das Tal des Ruvubu ist geprägt durch weite Mäander, die von ausgedehnten Sumpfgebieten und saisonalen Überflutungsflächen flankiert werden. Historisch gesehen war die Region aufgrund ihrer Unzugänglichkeit ein Rückzugsort für Wildtiere und bewahrte eine ursprüngliche Savannenlandschaft, die in anderen Teilen Burundis durch Landwirtschaft verdrängt wurde. Die Tierwelt am Fluss ist beeindruckend und umfasst große Herden von afrikanischen Büffeln, Flusspferden sowie zahlreiche Wasservögel. Der Fluss spielt eine entscheidende Rolle für das regionale Ökosystem, da er als natürlicher Regulator für den Wasserhaushalt dient und Lebensraum für bedrohte Arten wie die Sitatunga-Antilope bietet. Heute stellt der Schutz des Flusseinzugsgebiets eine der wichtigsten naturschutzfachlichen Prioritäten der burundischen Regierung dar.",
       hu: "A Ruvubu-folyó Burundi leghosszabb folyója, amely az ország legnagyobb természetvédelmi területének, a Ruvubu Nemzeti Parknak a gerincét alkotja. A déli felföldeken eredő folyó mintegy 300 kilométeren keresztül kanyarog északkeleti irányba, mielőtt egyesülne a Nyabarongo-folyóval, hogy létrehozzák a Kagera-folyót, a Viktória-tó egyik fő táplálóját. A Ruvubu völgyét széles kanyarulatok, kiterjedt mocsárvidékek és időszakosan elöntött ártéri rétek jellemzik. Történelmileg a terület nehezen megközelíthető jellege miatt a vadon élő állatok egyik utolsó menedékhelyévé vált, megőrizve azt az eredeti szavannai tájat, amely Burundi más részein a mezőgazdasági terjeszkedés áldozatául esett. A folyó menti élővilág lenyűgöző, hatalmas bivalycsordák, vízilovak és számtalan vízimadár otthona. A folyó kulcsszerepet játszik a regionális ökoszisztémában, mivel természetes vízháztartás-szabályozóként működik, és olyan veszélyeztetett fajoknak nyújt életteret, mint a szitutunga antilop. Napjainkban a folyó vízgyűjtő területének megóvása Burundi környezetvédelmi stratégiájának egyik legfontosabb pillére.",
@@ -249,7 +245,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Heha-hegy",
       ro: "Muntele Heha",
       en: "Mount Heha"},
-    image: "/poi-images/heha-mountain-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Berg Heha ist mit einer Höhe von 2684 Metern der höchste Gipfel Burundis und ein markanter Bestandteil der Gebirgskette, die die Wasserscheide zwischen dem Kongo und dem Nil bildet. Er befindet sich in der Provinz Bujumbura Rural, etwa 20 Kilometer östlich des Tanganjikasees. Die Landschaft um den Mount Heha ist geprägt von sanften Hügeln, die in den höheren Lagen in afro-alpine Graslandschaften und Überreste von montanen Nebelwäldern übergehen. Historisch gesehen war die Besteigung des Berges eher lokalen Hirten und Bauern vorbehalten, während er heute ein beliebtes Ziel für Wanderer und Naturfreunde ist, die den Panoramablick über das Zentralplateau bis hin zu den Bergen des Kongo suchen. Aufgrund der fruchtbaren vulkanischen Böden an seinen Hängen wird bis in große Höhen Landwirtschaft betrieben, wobei vor allem Kaffee und Tee angebaut werden. Das Klima am Gipfel ist kühl und oft neblig, was einen starken Kontrast zur Hitze des Tanganjikasee-Beckens darstellt. Der Schutz der Hangvegetation ist entscheidend, um die Erosion in den tiefer gelegenen Tälern zu verhindern.",
       hu: "A Heha-hegy 2684 méteres magasságával Burundi legmagasabb pontja, és a Kongó-Nílus vízválasztó hegyláncának egyik legfontosabb csúcsa. A hegy Bujumbura Rural tartományban található, körülbelül 20 kilométerre keletre a Tanganyika-tótól. A Mount Heha környezetét hullámzó dombságok jellemzik, amelyek a magasabb szinteken afro-alpin gyepekké és hegyi köderdő-maradványokká alakulnak. Történelmileg a csúcs környékét főként helyi pásztorok lakták, napjainkban azonban a túrázók körében is népszerűvé vált, mivel tiszta időben lenyűgöző kilátás nyílik róla a központi fennsíkra és egészen a kongói hegyekig. A lejtők termékeny vulkáni talajának köszönhetően jelentős magasságokig folyik mezőgazdasági termelés, elsősorban kávét és teát termesztenek a területen. A csúcson uralkodó hűvös és gyakran ködös éghajlat éles ellentétben áll a Tanganyika-tó medencéjének forróságával. A hegyoldalak növényzetének megőrzése létfontosságú a talajerózió megfékezése és a környező völgyek vízellátásának biztosítása érdekében.",
@@ -297,7 +292,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Kagera-folyó",
       ro: "Râul Kagera",
       en: "Kagera River"},
-    image: "/poi-images/kagera-river-nature-v2.webp",
     description: {
       de: "Ein wichtiger Zufluss des Viktoriasees im Nordosten Burundis.",
       hu: "A Viktória-tó fontos mellékfolyója Burundi északkeleti részén.",
@@ -390,7 +384,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Cohoha-tó",
       ro: "Lacul Cohoha",
       en: "Lake Cohoha"},
-    image: "/poi-images/cohoha-lake-nature-v2.webp",
     description: {
       de: "Ein schöner See im Norden an der Grenze zwischen Burundi und Ruanda.",
       hu: "Gyönyörű tó északon, a Burundi és Ruanda közötti határon.",
@@ -438,7 +431,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Rweru-tó",
       ro: "Lacul Rweru",
       en: "Lake Rweru"},
-    image: "/poi-images/rweru-lake-nature-v2.webp",
     description: {
       de: "Ein See im Norden Burundis, bekannt für seine Sumpflandschaften.",
       hu: "Tó Burundi északi részén, amely mocsaras tájairól ismert.",
@@ -486,7 +478,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Karera-vízesések",
       ro: "Cascadele Karera",
       en: "Karera Waterfalls"},
-    image: "/poi-images/karera-falls-nature-v2.webp",
     description: {
       de: "Eine Serie von malerischen Wasserfällen inmitten üppiger Vegetation.",
       hu: "Gondosan elhelyezkedő festői vízesések sorozata buja növényzet közepette.",
@@ -534,7 +525,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "A Nílus forrása",
       ro: "Izvorul Nilului",
       en: "Source of the Nile"},
-    image: "/poi-images/nile-source-nature-v2.webp",
     description: {
       de: "Der südlichste Punkt, der als Quelle des mächtigen Nil-Flusses gilt.",
       hu: "A hatalmas Nílus-folyó forrásának tartott legdélebbi pont.",
@@ -630,7 +620,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Bururi Erdőrezervátum",
       ro: "Rezervația Forestieră Bururi",
       en: "Bururi Forest Reserve"},
-    image: "/poi-images/bururi-forest-nature-v2.webp",
     description: {
       de: "Ein wichtiges Waldgebiet in den südlichen Hochländern Burundis.",
       hu: "Fontos erdőterület Burundi déli felföldjein.",
@@ -678,7 +667,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Kigwena Erdőrezervátum",
       ro: "Rezervația Forestieră Kigwena",
       en: "Kigwena Forest Reserve"},
-    image: "/poi-images/kigwena-forest-nature-v2.webp",
     description: {
       de: "Ein Küstenwald am Ufer des Tanganjikasees.",
       hu: "Parti erdő a Tanganyika-tó partján.",
@@ -726,7 +714,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Monge Erdőrezervátum",
       ro: "Rezervația Forestieră Monge",
       en: "Monge Forest Reserve"},
-    image: "/poi-images/monge-forest-nature-v2.webp",
     description: {
       de: "Der Monge-Wald gehört zu den kleineren Waldgebieten im Süden Burundis. Er ist Teil einer hügeligen Landschaft mit Bedeutung für den lokalen Wasserhaushalt.",
       hu: "Hegyvidéki erdőség, amely az ország középső részén helyezkedik el és kulcsszerepet játszik a helyi mikroklíma szabályozásában.",
@@ -774,7 +761,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Rwihinda-tó",
       ro: "Lacul Rwihinda",
       en: "Lake Rwihinda"},
-    image: "/poi-images/rwihinda-lake-nature-v2.webp",
     description: {
       de: "Bekannt als 'Vogelsee', ist er ein Paradies für Zugvögel.",
       hu: "Az északi 'madarak tava', amely egy védett rezervátum és a költöző madarak fontos pihenőhelye.",
@@ -822,7 +808,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Malagarasi-folyó",
       ro: "Râul Malagarasi",
       en: "Malagarasi River"},
-    image: "/poi-images/malagarasi-river-nature-v2.webp",
     description: {
       de: "Ein großer Fluss im Osten, der in den Tanganjikasee mündet.",
       hu: "Nagy folyó keleten, amely a Tanganyika-tóba ömlik.",
@@ -870,7 +855,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Twinyoni-hegy",
       ro: "Muntele Twinyoni",
       en: "Mount Twinyoni"},
-    image: "/poi-images/twinyoni-mountain-nature-v2.webp",
     description: {
       de: "Der Twinyoni-Berg liegt in einer hügeligen Region Burundis und prägt die umliegenden Dörfer. Die Hänge werden oft landwirtschaftlich genutzt.",
       hu: "A Kibira-erdő közelében magasodó hegycsúcs, amely fontos megfigyelőpont és biológiai folyosó.",
@@ -918,7 +902,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Mukike-hegy",
       ro: "Muntele Mukike",
       en: "Mount Mukike"},
-    image: "/poi-images/mukike-mountain-nature-v2.webp",
     description: {
       de: "Der Mukike-Berg gehört zu den markanten Erhebungen südwestlich von Bujumbura. Er liegt in einem Übergang von Stadtland zu Hochland.",
       hu: "A Congo-Nílus vonulat egyik markáns hegye, amely meghatározza a táj képét Bujumbura tartományban.",
@@ -966,7 +949,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Manga-hegy",
       ro: "Muntele Manga",
       en: "Mount Manga"},
-    image: "/poi-images/manga-mountain-nature-v2.webp",
     description: {
       de: "Der Manga-Berg ist eine lokale Erhebung in einer bergigen Region Burundis. Er gehört zu den Höhenzügen, die das zentrale Hochland formen.",
       hu: "Szent hegy a hagyományos burundi kultúra számára.",
@@ -1014,7 +996,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Nílus-Kongó vízválasztó",
       ro: "Creasta Nil-Congo",
       en: "Nile-Congo Crest"},
-    image: "/poi-images/nile-congo-crest-nature-v2.webp",
     description: {
       de: "Eine Bergkette, die die Einzugsgebiete von Nil und Kongo trennt.",
       hu: "Hegylánc, amely elválasztja a Nílus és a Kongó vízgyűjtő területeit.",
@@ -1062,7 +1043,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Dogodogo-tó",
       ro: "Lacul Dogodogo",
       en: "Lake Dogodogo"},
-    image: "/poi-images/dogodogo-lake-nature-v2.webp",
     description: {
       de: "Der Dogodogo-See ist ein kleinerer See in Burundi und Teil einer lokalen Wasserlandschaft. Solche Gewässer sind wichtig für Landwirtschaft und Alltag.",
       hu: "Cibitoke tartományban található kisebb tó, amely a helyi közösségek és az élővilág számára is fontos vízvételi hely.",
@@ -1110,7 +1090,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Gacamirindi-tó",
       ro: "Lacul Gacamirindi",
       en: "Lake Gacamirindi"},
-    image: "/poi-images/gacamirindi-lake-nature-v2.webp",
     description: {
       de: "Ein malerischer See in der nördlichen Region von Kirundo.",
       hu: "Festői tó Kirundo északi régiójában.",
@@ -1158,7 +1137,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Kanzigiri-tó",
       ro: "Lacul Kanzigiri",
       en: "Lake Kanzigiri"},
-    image: "/poi-images/kanzigiri-lake-nature-v2.webp",
     description: {
       de: "Einer der vielen kleinen Seen im wasserreichen Norden Burundis.",
       hu: "A vízzel teli észak-burundi régió egyik kis tava.",
@@ -1206,7 +1184,6 @@ export const poiExtraBurundiNatureV2: POI[] = [
       hu: "Murungu-hegy",
       ro: "Muntele Murungu",
       en: "Mount Murungu"},
-    image: "/poi-images/murungu-mountain-nature-v2.webp",
     description: {
       de: "Der Murungu-Berg steht für die hügelige Reliefstruktur im zentralen Burundi. Die Erhebung gehört zu den vielen Höhenzügen des Landesinneren.",
       hu: "Egy másik jelentős hegycsúcs Burundi hegyvidéki táján, amely gazdag növénytakaróval büszkélkedhet.",

@@ -7,8 +7,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "palace",
     name: { de: "Rathaus von Sarajevo", hu: "Szarajevói városháza", ro: "Primăria din Sarajevo", en: "Sarajevo City Hall"},
-    image: "/poi-images/bosniaherzegovina-sarajevo-city-hall-landmarks-v2.webp",
-    coords: [18.4332, 43.8592],
     coords: [18.4332, 43.8592],
     description: {
       de: "Die im pseudo-maurischen Stil errichtete Vijećnica ist eines der prächtigsten Gebäude aus der österreichisch-ungarischen Zeit in Sarajevo.",
@@ -54,8 +52,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "monument",
     name: { de: "Gazi-Husrev-Beg-Moschee", hu: "Gazi Husrev bég mecset", ro: "Moscheea Gazi Husrev-beg", en: "Gazi Husrev-beg Mosque"},
-    image: "/poi-images/bosniaherzegovina-gazi-husrev-beg-mosque-landmarks-v2.webp",
-    coords: [18.4289, 43.8598],
     coords: [18.4289, 43.8598],
     description: {
       de: "Diese im 16. Jahrhundert erbaute Moschee gilt als das bedeutendste osmanische Bauwerk des Landes und ist das religiöse Zentrum von Sarajevo.",
@@ -101,8 +97,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "castle",
     name: { de: "Festung Počitelj", hu: "Počitelj vára", ro: "Cetatea Počitelj", en: "Počitelj Fortress"},
-    image: "/poi-images/bosniaherzegovina-pocitelj-fortress-landmarks-v2.webp",
-    coords: [17.7294, 43.134],
     coords: [17.7294, 43.134],
     description: {
       de: "Diese mittelalterliche und osmanische Festungsstadt liegt an einem Hang über dem Fluss Neretva.",
@@ -148,8 +142,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "monument",
     name: { de: "Ferhadija-Moschee", hu: "Ferhadija-mecset", ro: "Moscheea Ferhadija", en: "Ferhadija Mosque"},
-    image: "/poi-images/bosniaherzegovina-ferhadija-mosque-landmarks-v2.webp",
-    coords: [17.1869, 44.7672],
     coords: [17.1869, 44.7672],
     description: {
       de: "Die Ferhad-Pascha-Moschee in Banja Luka ist eines der bedeutendsten Beispiele osmanischer Architektur im Norden des Landes.",
@@ -195,8 +187,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "cathedral",
     name: { de: "Herz-Jesu-Kathedrale", hu: "Jézus Szíve-székesegyház", ro: "Catedrala Inima lui Isus", en: "Cathedral of Jesus' Sacred Heart"},
-    image: "/poi-images/bosniaherzegovina-cathedral-of-jesus-sacred-heart-landmarks-v2.webp",
-    coords: [18.4258, 43.8594],
     coords: [18.4258, 43.8594],
     description: {
       de: "Die Kathedrale in Sarajevo ist das größte katholische Gotteshaus in Bosnien und Herzegowina und Sitz des Erzbischofs.",
@@ -242,8 +232,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "monument",
     name: { de: "Alte Orthodoxe Kirche", hu: "Régi ortodox templom", ro: "Biserica Ortodoxă Veche", en: "Old Orthodox Church"},
-    image: "/poi-images/bosniaherzegovina-old-orthodox-church-landmarks-v2.webp",
-    coords: [18.43, 43.8604],
     coords: [18.43, 43.8604],
     description: {
       de: "Diese Kirche ist eines der ältesten religiösen Gebäude in Sarajevo und beherbergt ein bedeutendes Museum für Ikonen.",
@@ -289,8 +277,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "monument",
     name: { de: "Sebilj-Brunnen", hu: "Sebilj-kút", ro: "Fântâna Sebilj", en: "Sebilj Fountain"},
-    image: "/poi-images/bosniaherzegovina-sebilj-fountain-landmarks-v2.webp",
-    coords: [18.4313, 43.8597],
     coords: [18.4313, 43.8597],
     description: {
       de: "Der Sebilj ist ein hölzerner Brunnen im osmanischen Stil und das Wahrzeichen des historischen Marktplatzes Baščaršija.",
@@ -336,8 +322,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "museum",
     name: { de: "Nationalmuseum von Bosnien und Herzegowina", hu: "Bosznia-Hercegovinai Nemzeti Múzeum", ro: "Muzeul Național al Bosniei și Herțegovinei", en: "National Museum of Bosnia and Herzegovina"},
-    image: "/poi-images/bosniaherzegovina-national-museum-landmarks-v2.webp",
-    coords: [18.4022, 43.855],
     coords: [18.4022, 43.855],
     description: {
       de: "Das 1888 gegründete Nationalmuseum ist die älteste moderne Kultureinrichtung des Landes und beherbergt bedeutende archäologische Schätze.",
@@ -385,7 +369,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     name: { de: "Festung Ljubuški", hu: "Ljubuški vára", ro: "Cetatea Ljubuški", en: "Ljubuški Fortress"},
     image: "/poi-images/bosniaherzegovina-ljubuski-fortress-landmarks-v2.webp",
     coords: [17.5544, 43.2044],
-    coords: [17.5544, 43.2044],
     description: {
       de: "Diese Festung auf dem Hügel Butorovica ist auch als Festung von Herceg Stjepan bekannt und überblickt die Stadt Ljubuški.",
       hu: "Ez a Butorovica-dombon álló erőd Herceg Stjepan váraként is ismert, és Ljubuški városa felett magasodik.",
@@ -431,7 +414,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     name: { de: "Arslanagić-Brücke", hu: "Arslanagić-híd", ro: "Podul Arslanagić", en: "Arslanagić Bridge"},
     image: "/poi-images/bosniaherzegovina-arslanagic-bridge-landmarks-v2.webp",
     coords: [18.3533, 42.7161],
-    coords: [18.3533, 42.7161],
     description: {
       de: "Die Arslanagić-Brücke in Trebinje ist ein Meisterwerk der osmanischen Brückenarchitektur und wurde Stein für Stein an ihren heutigen Standort versetzt.",
       hu: "A trebinjei Arslanagić-híd az oszmán hídépítészet mesterműve, amelyet kövenként helyeztek át mai helyére.",
@@ -475,8 +457,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "monument",
     name: { de: "Ewige Flamme", hu: "Örökmécses", ro: "Flacăra Eternă", en: "Eternal Flame"},
-    image: "/poi-images/bosniaherzegovina-eternal-flame-landmarks-v2.webp",
-    coords: [18.4219, 43.8589],
     coords: [18.4219, 43.8589],
     description: {
       de: "Die Ewige Flamme ist ein Denkmal in Sarajevo für die militärischen und zivilen Opfer des Zweiten Weltkriegs.",
@@ -522,8 +502,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "museum",
     name: { de: "Museum Sarajevo 1878–1918", hu: "Szarajevó Múzeum 1878–1918", ro: "Muzeul Sarajevo 1878–1918", en: "Museum of Sarajevo 1878–1918"},
-    image: "/poi-images/bosniaherzegovina-museum-of-sarajevo-1878-1918-landmarks-v2.webp",
-    coords: [18.4288, 43.8576],
     coords: [18.4288, 43.8576],
     description: {
       de: "Dieses Museum befindet sich an der Straßenecke, an der 1914 das Attentat auf Erzherzog Franz Ferdinand stattfand.",
@@ -615,7 +593,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "tower",
     name: { de: "Friedensglockenturm Mostar", hu: "Mostari béke-harangtorony", ro: "Turnul clopotniță al păcii din Mostar", en: "Mostar Peace Bell Tower"},
-    image: "/poi-images/bosniaherzegovina-mostar-peace-bell-tower-landmarks-v2.webp",
     coords: [17.8078, 43.3392],
     description: {
       de: "Dieser Glockenturm gehört zur Franziskanerkirche St. Peter und Paul und ist mit 107 Metern der höchste Turm der Stadt. Er bietet eine weite Aussicht über Mostar.",
@@ -661,7 +638,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "cathedral",
     name: { de: "Kathedrale des heiligen Bonaventura", hu: "Szent Bonaventura-székesegyház", ro: "Catedrala Sfântul Bonaventura", en: "Cathedral of Saint Bonaventure"},
-    image: "/poi-images/bosniaherzegovina-cathedral-st-bonaventure-landmarks-v2.webp",
     coords: [17.1889, 44.7712],
     description: {
       de: "Diese römisch-katholische Kathedrale in Banja Luka zeichnet sich durch ihre moderne Architektur aus. Sie wurde nach der Zerstörung des alten Gebäudes durch ein Erdbeben 1969 neu errichtet.",
@@ -707,7 +683,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "church",
     name: { de: "Hercegovačka Gračanica", hu: "Hercegovačka Gračanica", ro: "Hercegovačka Gračanica", en: "Hercegovačka Gračanica"},
-    image: "/poi-images/bosniaherzegovina-hercegovacka-gracanica-landmarks-v2.webp",
     coords: [18.3583, 42.7139],
     description: {
       de: "Diese serbisch-orthodoxe Kirche liegt auf dem Crkvina-Hügel über Trebinje. Sie ist eine originalgetreue Kopie des Klosters Gračanica im Kosovo und dient als Grabstätte für Jovan Dučić.",
@@ -753,7 +728,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "museum",
     name: { de: "Museum für zeitgenössische Kunst der RS", hu: "Szerb Köztársaság Kortárs Művészeti Múzeuma", ro: "Muzeul de Artă Contemporană al RS", en: "Museum of Contemporary Art of RS"},
-    image: "/poi-images/bosniaherzegovina-museum-contemporary-art-rs-landmarks-v2.webp",
     coords: [17.1897, 44.7731],
     description: {
       de: "Das Museum in Banja Luka ist im Gebäude des ehemaligen Hauptbahnhofs untergebracht. Es sammelt und präsentiert zeitgenössische Kunstwerke aus Bosnien und Herzegowina sowie international.",
@@ -889,7 +863,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "tower",
     name: { de: "Uhrturm von Sarajevo", hu: "Szarajevói óratorony", ro: "Turnul cu ceas din Sarajevo", en: "Sarajevo Clock Tower"},
-    image: "/poi-images/bosniaherzegovina-sahat-kula-sarajevo-landmarks-v2.webp",
     coords: [18.4289, 43.8594],
     description: {
       de: "Dieser osmanische Uhrturm befindet sich in der Nähe der Gazi-Husrev-Beg-Moschee in Sarajevo. Er zeigt die Zeit nach dem Mondkalender an, wobei der Tag bei Sonnenuntergang beginnt.",
@@ -935,7 +908,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "museum",
     name: { de: "Kriegskind-Museum", hu: "Háborús Gyermekkor Múzeuma", ro: "Muzeul Copilăriei în Război", en: "War Child Museum"},
-    image: "/poi-images/bosniaherzegovina-war-child-museum-landmarks-v2.webp",
     coords: [18.4278, 43.8614],
     description: {
       de: "Dieses moderne Museum in Sarajevo erzählt die Geschichten von Kindern, die den Bosnienkrieg erlebt haben. Es zeigt persönliche Gegenstände und Zeugnisse der Überlebenden.",
@@ -981,7 +953,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "monument",
     name: { de: "Kaisermoschee", hu: "Császár-dzsámi", ro: "Moscheea Împăratului", en: "Emperor's Mosque"},
-    image: "/poi-images/bosniaherzegovina-emperors-mosque-sarajevo-landmarks-v2.webp",
     coords: [18.43, 43.8578],
     description: {
       de: "Die Kaisermoschee ist die älteste Moschee in Sarajevo und wurde zu Ehren von Sultan Mehmed II. errichtet. Sie ist ein bedeutendes religiöses Zentrum und Sitz des Großmuftis.",
@@ -1027,7 +998,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "monument",
     name: { de: "Synagoge von Sarajevo", hu: "Szarajevói zsinagóga", ro: "Sinagoga din Sarajevo", en: "Sarajevo Synagogue"},
-    image: "/poi-images/bosniaherzegovina-sarajevo-synagogue-landmarks-v2.webp",
     coords: [18.4253, 43.8569],
     description: {
       de: "Diese aschkenasische Synagoge in Sarajevo wurde im neomaurischen Stil erbaut. Sie ist die einzige heute noch aktive Synagoge in der Stadt und ein wichtiges Baudenkmal.",
@@ -1073,7 +1043,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "museum",
     name: { de: "Muslibegović-Haus", hu: "Muslibegović-ház", ro: "Casa Muslibegović", en: "Muslibegović House"},
-    image: "/poi-images/bosniaherzegovina-muslibegovic-house-landmarks-v2.webp",
     coords: [17.8131, 43.3442],
     description: {
       de: "Dieses historische Wohnhaus in Mostar ist ein herausragendes Beispiel osmanischer Architektur aus dem 18. Jahrhundert. Es ist heute ein Museum und ein exklusives Hotel.",
@@ -1119,7 +1088,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "museum",
     name: { de: "Jüdisches Museum", hu: "Bosznia-Hercegovinai Zsidó Múzeum", ro: "Muzeul Evreiesc din BiH", en: "Jewish Museum of Bosnia and Herzegovina"},
-    image: "/poi-images/bosniaherzegovina-jewish-museum-bih-landmarks-v2.webp",
     coords: [18.4275, 43.8594],
     description: {
       de: "Das Museum ist in der Alten Synagoge von Sarajevo untergebracht, dem ältesten jüdischen Sakralbau des Landes. Es dokumentiert die 450-jährige Geschichte der Juden in Bosnien.",
@@ -1165,7 +1133,6 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     parent: "BA",
     type: "monument",
     name: { de: "Tvrtko-I.-Denkmal", hu: "I. Tvrtko emlékmű", ro: "Monumentul lui Tvrtko I", en: "Tvrtko I Monument"},
-    image: "/poi-images/bosniaherzegovina-tvrtko-monument-sarajevo-landmarks-v2.webp",
     coords: [18.4144, 43.8572],
     description: {
       de: "Dieses Bronzedenkmal in Sarajevo zeigt König Tvrtko I. Kotromanić, den bedeutendsten Herrscher des mittelalterlichen Bosniens. Er krönte sich 1377 zum ersten bosnischen König.",

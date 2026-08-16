@@ -12,7 +12,6 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: "Casela Natúrpark",
       ro: "Casela Nature Parks",
       en: "Casela Nature Parks"},
-    image: "/poi-images/casela-nature-parks-life-v2.webp",
     description: {
       de: "Ein riesiger Freizeit- und Wildtierpark, in dem Besucher Safaris unternehmen, mit Löwen spazieren gehen und exotische Vögel beobachten können.",
       hu: "Egy hatalmas szabadidő- és vadaspark, ahol a látogatók szafarikon vehetnek részt, oroszlánokkal sétálhatnak és egzotikus madarakat figyelhetnek meg.",
@@ -147,7 +146,6 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: "Odysseo Óceanárium",
       ro: "Oceanariul Odysseo",
       en: "Odysseo Oceanarium"},
-    image: "/poi-images/odysseo-oceanarium-life-v2.webp",
     description: {
       de: "Das größte Ozeanarium im Indischen Ozean bietet einen faszinierenden Einblick in die Meeresökosysteme rund um Mauritius.",
       hu: "Az Indiai-óceán legnagyobb óceanáriuma lenyűgöző betekintést nyújt a Mauritius körüli tengeri ökoszisztémákba.",
@@ -192,7 +190,6 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: "Curious Corner of Chamarel",
       ro: "Curious Corner of Chamarel",
       en: "Curious Corner of Chamarel"},
-    image: "/poi-images/curious-corner-life-v2.webp",
     description: {
       de: "Ein Haus voller optischer Täuschungen und interaktiver Rätsel, das Besucher jeden Alters zum Staunen bringt.",
       hu: "Optikai csalódásokkal és interaktív rejtvényekkel teli ház, amely minden korosztályt lenyűgöz.",
@@ -282,7 +279,6 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: "Domaine de l'Etoile",
       ro: "Domaine de l'Etoile",
       en: "Domaine de l'Etoile"},
-    image: "/poi-images/domaine-de-letoile-life-v2.webp",
     description: {
       de: "Ein privates Naturreservat, das für seine reiche Flora und Fauna bekannt ist und zahlreiche Outdoor-Aktivitäten anbietet.",
       hu: "Magán természetvédelmi terület, amely gazdag flórájáról és faunájáról ismert, és számos szabadtéri tevékenységet kínál.",
@@ -327,7 +323,6 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: "Ile aux Aigrettes (Kócsagok szigete)",
       ro: "Ile aux Aigrettes",
       en: "Ile aux Aigrettes"},
-    image: "/poi-images/ile-aux-aigrettes-life-v2.webp",
     description: {
       de: "Eine kleine Koralleninsel, die als Naturschutzgebiet dient und Heimat für seltene Vögel und Riesenschildkröten ist.",
       hu: "Egy kis korallsziget, amely természetvédelmi területként szolgál, és ritka madaraknak és óriásteknősöknek ad otthont.",
@@ -372,7 +367,6 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: "Ebony Forest Rezervátum",
       ro: "Rezervația Ebony Forest",
       en: "Ebony Forest Reserve"},
-    image: "/poi-images/ebony-forest-life-v2.webp",
     description: {
       de: "Ein Naturschutzprojekt zur Wiederherstellung der ursprünglichen Ebenholzwälder von Mauritius, das seltene Tierarten beherbergt.",
       hu: "Természetvédelmi projekt Mauritius eredeti ébenfaerdőinek helyreállítására, amely ritka állatfajoknak ad otthont.",
@@ -417,7 +411,6 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: "Takamaka Boutique Borászat",
       ro: "Vinăria Takamaka",
       en: "Takamaka Boutique Winery"},
-    image: "/poi-images/takamaka-winery-life-v2.webp",
     description: {
       de: "Das einzige Weingut der Welt, das Wein ausschließlich aus Litschis herstellt und Einblicke in diesen speziellen Prozess bietet.",
       hu: "A világ egyetlen borászata, amely kizárólag licsiből készít bort, és betekintést nyújt ebbe a különleges folyamatba.",
@@ -462,7 +455,6 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: "Rhumerie de Chamarel",
       ro: "Rhumerie de Chamarel",
       en: "Rhumerie de Chamarel"},
-    image: "/poi-images/rhumerie-de-chamarel-life-v2.webp",
     description: {
       de: "Eine erstklassige Rum-Destillerie, die inmitten von Zuckerrohrplantagen liegt und traditionelle Destillationsmethoden zeigt.",
       hu: "Kiváló rumlepárló, amely cukornádültetvények közepén található, és hagyományos lepárlási módszereket mutat be.",
@@ -507,7 +499,6 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: "Chamareli Kávéültetvény",
       ro: "Plantația de Cafea Chamarel",
       en: "Chamarel Coffee Plantation"},
-    image: "/poi-images/chamarel-coffee-plantation-life-v2.webp",
     description: {
       de: "Die einzige Kaffeeproduktionsstätte auf Mauritius, die die berühmte Arabica-Bohne in der fruchtbaren Erde von Chamarel anbaut.",
       hu: "Mauritius egyetlen kávétermesztő helye, ahol a híres Arabica kávét termesztik Chamarel termékeny földjén.",
@@ -552,7 +543,6 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: "Heritage Természetvédelmi Terület",
       ro: "Rezervația Naturală Heritage",
       en: "Heritage Nature Reserve"},
-    image: "/poi-images/heritage-nature-reserve-life-v2.webp",
     description: {
       de: "Ein Schutzgebiet im Süden, das eine Mischung aus Küstenwald und Berglandschaft bietet und Heimat für Hirsche und Wildschweine ist.",
       hu: "Déli természetvédelmi terület, amely tengerparti erdők és hegyi tájak keverékét kínálja, szarvasok és vaddisznók otthona.",
@@ -597,7 +587,6 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: "Splash N Fun Szabadidőpark",
       ro: "Parcul de Agrement Splash N Fun",
       en: "Splash N Fun Leisure Park"},
-    image: "/poi-images/splash-n-fun-life-v2.webp",
     description: {
       de: "Der größte Wasserpark auf Mauritius mit zahlreichen Rutschen und Pools, ideal für einen Familienausflug.",
       hu: "Mauritius legnagyobb víziparkja számos csúszdával és medencével, ideális családi kirándulásokhoz.",
@@ -642,7 +631,6 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: "Mauritius Lovasutak",
       ro: "Trasee Ecvestre Mauritius",
       en: "Mauritius Horse Trails"},
-    image: "/poi-images/mauritius-horse-trails-life-v2.webp",
     description: {
       de: "Ein Reitzentrum im Norden, das Ausritte entlang der Strände und durch wunderschöne Landschaften anbietet.",
       hu: "Északi lovasközpont, amely lovaglást kínál a strandok mentén és gyönyörű tájakon keresztül.",
@@ -687,7 +675,6 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: "Belle Mare Gyümölcsöskertek",
       ro: "Livezile din Belle Mare",
       en: "Belle Mare Fruit Orchards"},
-    image: "/poi-images/belle-mare-fruit-orchards-life-v2.webp",
     description: {
       de: "Weite Obstgärten im Osten der Insel, in denen eine Vielzahl von tropischen Früchten wie Mangos und Papayas angebaut werden.",
       hu: "Hatalmas gyümölcsöskertek a sziget keleti részén, ahol számos trópusi gyümölcsöt, például mangót és papaját termesztenek.",
@@ -777,7 +764,6 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: "Pamplemousses Szarvaspark",
       ro: "Parcul de Căprioare Pamplemousses",
       en: "Pamplemousses Deer Park"},
-    image: "/poi-images/pamplemousses-deer-park-life-v2.webp",
     description: {
       de: "Ein kleiner Park innerhalb des Botanischen Gartens, in dem Javanerhirsche in einer geschützten Umgebung leben.",
       hu: "A botanikus kertben található kis park, ahol jávai szarvasok élnek védett környezetben.",
@@ -822,7 +808,6 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       hu: "Vallee des Couleurs Natúrpark",
       ro: "Parcul Natural Vallee des Couleurs",
       en: "Vallee des Couleurs Nature Park"},
-    image: "/poi-images/vallee-des-couleurs-life-v2.webp",
     description: {
       de: "Ein Abenteuerpark, der für seine 23-farbige Erde bekannt ist und zahlreiche Aktivitäten wie Ziplining und Quadfahren bietet.",
       hu: "Kalandpark, amely a 23 színű földjéről ismert, és számos tevékenységet kínál, például drótkötélpályát és quadozást.",
