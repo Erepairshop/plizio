@@ -43,20 +43,25 @@ jobs:
           node-version: '24'
           cache: 'npm'
 
-      - name: Cache .next (v3 Webpack memory build)
-        uses: actions/cache@v4
-        with:
-          path: .next/cache
-          key: nextcache-vps-v3-webpack-${{ runner.os }}-${{ hashFiles('package-lock.json') }}-${{ github.sha }}
-          restore-keys: |
-            nextcache-vps-v3-webpack-${{ runner.os }}-${{ hashFiles('package-lock.json') }}-
-            nextcache-vps-v3-webpack-${{ runner.os }}-
+      - name: Attach persistent Webpack cache
+        shell: bash
+        run: |
+          set -euo pipefail
+          # The self-hosted runner checkout is cleaned between jobs. Keep the
+          # cache beside shared assets instead of uploading it to GitHub.
+          CACHE_ROOT="${{ env.RELEASE_BASE }}/shared/next-cache"
+          LOCK_HASH=$(sha256sum package-lock.json | cut -c1-16)
+          CACHE_DIR="$CACHE_ROOT/node24-next16-$LOCK_HASH"
+          mkdir -p "$CACHE_DIR" .next
+          rm -rf .next/cache
+          ln -s "$CACHE_DIR" .next/cache
+          echo "Webpack cache: $CACHE_DIR ($(du -sm "$CACHE_DIR" | cut -f1) MB)"
 
       - name: Purge stale build output (preserve .next/cache for incremental builds)
         shell: bash
         run: |
           # Remove EVERYTHING from .next except the cache subdir that the
-          # actions/cache@v4 step just restored. Removes stale turbopack
+          # persistent-cache step just attached. Removes stale Turbopack
           # artifacts, server/static outputs from previous builds.
           if [ -d .next ]; then
             find .next -mindepth 1 -maxdepth 1 ! -name cache -exec rm -rf {} +
@@ -166,6 +171,8 @@ jobs:
         # Turbopack retained the 29 MB generated SEO module and spent hours in
         # GC at ~14 GB RSS. Webpack's memory-optimized mode keeps the same static
         # output contract while lowering the peak working set.
+        # POI detail pages are intentionally not a Next app route. The overlay
+        # steps below generate or restore every production POI HTML after export.
         run: npx next build --webpack
 
       - name: Verify out/ produced
@@ -337,42 +344,25 @@ jobs:
           SEO_GATE_CHECK_IMAGES: "1"
         run: node scripts/seo-release-gate.mjs
 
-      # GitHub Actions cache: 10 GB/repo, LRU-evicted. The key includes github.sha
-      # so EVERY deploy saves a fresh .next/cache; at ~9 GB that means constant
-      # eviction (2×9>10). Trim to a budget so multiple caches coexist and the
-      # save/restore is fast. Runs AFTER the build (cache already used), BEFORE the
-      # automatic post-job cache save. (2026-06-12)
-      - name: Trim .next/cache to budget (GitHub 10GB cache limit)
+      - name: Guard persistent Webpack cache size
         if: always()
         shell: bash
         run: |
           set +e
-          D=.next/cache
-          [ -d "$D" ] || exit 0
-          BEFORE=$(du -sm "$D" 2>/dev/null | cut -f1)
-          # CRITICAL: .next/cache/turbopack is a RocksDB-style SST database — deleting
-          # individual files inside it leaves a corrupt DB and the NEXT build dies with
-          # "Failed to restore task data ... Failed to open SST file" (happened 2026-06-12,
-          # caused by the old per-file trim below). Treat turbopack as an ATOMIC unit:
-          # keep it whole, trim only the rest of the cache per-file. (fix 2026-06-13)
-          TP="$D/turbopack"
-          TPSZ=$(du -sm "$TP" 2>/dev/null | cut -f1); TPSZ=${TPSZ:-0}
-          BUDGET_MB=3072
-          REST_MB=$(( BUDGET_MB - TPSZ )); [ "$REST_MB" -lt 256 ] && REST_MB=256
-          REST_B=$(( REST_MB * 1024 * 1024 ))
-          total=0
-          # newest-first over NON-turbopack files; once cumulative > rest-budget, delete
-          find "$D" -type f -not -path "$TP/*" -printf '%T@ %s %p\n' | sort -rn | while read -r _ size path; do
-            total=$((total + size))
-            if [ "$total" -gt "$REST_B" ]; then rm -f "$path"; fi
-          done
-          # safety valve: only if turbopack alone is absurdly large, drop it WHOLESALE
-          # (it regenerates on the next build — never partial-delete inside it).
-          if [ "$TPSZ" -gt 9216 ]; then echo "turbopack ${TPSZ}MB > 9GB → dropping wholesale"; rm -rf "$TP"; fi
-          # drop now-empty dirs (but never descend to corrupt turbopack — it has no empties to clean here)
-          find "$D" -type d -empty -delete 2>/dev/null
-          AFTER=$(du -sm "$D" 2>/dev/null | cut -f1)
-          echo ".next/cache trimmed: ${BEFORE:-?}MB -> ${AFTER:-?}MB (turbopack ${TPSZ}MB kept intact, rest budget ${REST_MB}MB)"
+          D=$(readlink -f .next/cache 2>/dev/null || true)
+          ROOT=$(readlink -f "${{ env.RELEASE_BASE }}/shared/next-cache" 2>/dev/null || true)
+          [ -n "$D" ] && [ -n "$ROOT" ] || { echo "WARN: cache path unavailable"; exit 0; }
+          case "$D" in "$ROOT"/*) ;; *) echo "WARN: unsafe cache path '$D'"; exit 0 ;; esac
+          SIZE=$(du -sm "$D" 2>/dev/null | cut -f1); SIZE=${SIZE:-0}
+          echo "Persistent Webpack cache: ${SIZE} MB"
+          # Never remove individual pack files. A partial Webpack/Turbopack cache
+          # is corrupt. If disk headroom would become unsafe, drop this complete
+          # cache version; it is disposable and the next build recreates it.
+          if [ "$SIZE" -gt 12288 ]; then
+            echo "Cache exceeds 12 GB; dropping this cache version as one unit"
+            rm -rf --one-file-system "$D"
+            mkdir -p "$D"
+          fi
 
       - name: Atomic static release + nginx reload
         run: |

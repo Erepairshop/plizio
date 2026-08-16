@@ -24,13 +24,39 @@ const Topic1Svg = memo(function Topic1Svg() {
   );
 });
 
-import { InteractiveMap } from "@/lib/visualLab/components/InteractiveMap";
-
 const Topic2Svg = memo(function Topic2Svg() {
   return (
-    <div className="w-full">
-      <InteractiveMap lang="hu" />
-    </div>
+    <svg width="100%" viewBox="0 0 240 140" role="img" aria-label="Germany and its federal states">
+      <defs>
+        <linearGradient id="state-map-bg" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stopColor="#ECFDF5" />
+          <stop offset="1" stopColor="#DBEAFE" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" rx="20" fill="url(#state-map-bg)" />
+      <path
+        d="M109 13l19 8 5 13 18 8-3 17 12 14-10 13 3 18-17 5-10 18-16-7-14 8-10-15-15-7 5-17-9-14 13-11-2-17 17-8z"
+        fill="#86EFAC"
+        stroke="#15803D"
+        strokeWidth="2"
+        strokeLinejoin="round"
+      />
+      <g fill="#2563EB" stroke="#EFF6FF" strokeWidth="1.5">
+        {[
+          [108, 28], [126, 35], [96, 43], [116, 49],
+          [139, 53], [87, 61], [105, 66], [128, 68],
+          [146, 76], [91, 80], [112, 86], [132, 91],
+          [100, 101], [119, 107], [136, 111], [112, 119],
+        ].map(([cx, cy], index) => (
+          <circle key={index} cx={cx} cy={cy} r="3.2" />
+        ))}
+      </g>
+      <text x="184" y="57" textAnchor="middle" fontSize="24" fontWeight="800" fill="#1E3A8A">16</text>
+      <text x="184" y="74" textAnchor="middle" fontSize="9" fontWeight="700" fill="#334155">Bundesländer</text>
+      <path d="M163 85h42" stroke="#94A3B8" strokeWidth="1" />
+      <circle cx="174" cy="101" r="4" fill="#2563EB" />
+      <text x="184" y="104" fontSize="8" fill="#475569">state</text>
+    </svg>
   );
 });
 

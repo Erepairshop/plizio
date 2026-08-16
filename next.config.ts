@@ -14,9 +14,8 @@ const nextConfig: NextConfig = {
     // retains the generated SEO module until it exhausts RAM + swap. Next's
     // low-risk Webpack memory mode trades a little build speed for a lower peak.
     webpackMemoryOptimizations: true,
-    // Turbopack persistent build cache → incremental `next build` (cold compile
-    // was ~14 min every deploy; cached recompile is a few min). Cache dir is
-    // .next/cache, persisted by actions/cache in deploy-vps.yml.
+    // Keep filesystem caching enabled for local/Turbopack builds too. The VPS
+    // workflow persists .next/cache in RELEASE_BASE/shared between runner jobs.
     turbopackFileSystemCacheForBuild: true,
   },
 };
