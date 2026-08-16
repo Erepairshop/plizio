@@ -180,48 +180,63 @@ interface RoundPool {
   maxLives: number;
 }
 
-function makeRule(grade: number, level: number, seed: number): Rule {
-  const pick = (arr: Rule[]) => {
-    const available = arr.slice(0, Math.min(arr.length, Math.max(2, level)));
-    return available[seed % available.length];
-  };
+export function makeRule(grade: number, level: number, seed: number): Rule {
+  const variant = Math.abs(seed) % 3;
+  const byLevel = (rules: Rule[]) => rules[Math.min(rules.length, Math.max(1, level)) - 1];
 
   if (grade <= 1) {
-    return pick([
-      { id: "multiple-of", promptKey: "rule_multiple-of", param: 2, test: (n) => n % 2 === 0 },
-      { id: "greater-than", promptKey: "rule_greater-than", param: 5, test: (n) => n > 5 },
-      { id: "less-than", promptKey: "rule_less-than", param: 6, test: (n) => n < 6 },
+    const greaterThan = 4 + variant;
+    const lessThan = 6 + variant;
+    const sumTo = 8 + variant * 2;
+    return byLevel([
+      { id: "even", promptKey: "rule_even", test: (n) => n % 2 === 0 },
+      { id: "greater-than", promptKey: "rule_greater-than", param: greaterThan, test: (n) => n > greaterThan },
+      { id: "less-than", promptKey: "rule_less-than", param: lessThan, test: (n) => n < lessThan },
+      { id: "odd", promptKey: "rule_odd", test: (n) => n % 2 === 1 },
+      { id: "sum-to", promptKey: "rule_sum-to", param: sumTo, test: () => false },
     ]);
   }
   if (grade <= 2) {
-    return pick([
+    const greaterThan = 10 + variant * 5;
+    const sumTo = 20 + variant * 5;
+    return byLevel([
       { id: "even", promptKey: "rule_even", test: (n) => n % 2 === 0 },
       { id: "odd", promptKey: "rule_odd", test: (n) => n % 2 === 1 },
-      { id: "greater-than", promptKey: "rule_greater-than", param: 10, test: (n) => n > 10 },
+      { id: "greater-than", promptKey: "rule_greater-than", param: greaterThan, test: (n) => n > greaterThan },
       { id: "multiple-of", promptKey: "rule_multiple-of", param: 5, test: (n) => n % 5 === 0 },
+      { id: "sum-to", promptKey: "rule_sum-to", param: sumTo, test: () => false },
     ]);
   }
   if (grade <= 3) {
-    return pick([
+    const sumTo = 20 + variant * 5;
+    return byLevel([
       { id: "multiple-of", promptKey: "rule_multiple-of", param: 3, test: (n) => n % 3 === 0 },
       { id: "multiple-of", promptKey: "rule_multiple-of", param: 4, test: (n) => n % 4 === 0 },
-      { id: "sum-to", promptKey: "rule_sum-to", param: 10, test: () => false },
+      { id: "sum-to", promptKey: "rule_sum-to", param: sumTo, test: () => false },
       { id: "even", promptKey: "rule_even", test: (n) => n % 2 === 0 },
+      { id: "odd", promptKey: "rule_odd", test: (n) => n % 2 === 1 },
     ]);
   }
   if (grade <= 5) {
-    return pick([
+    const sumTo = 20 + variant * 10;
+    const greaterThan = grade === 4 ? 30 + variant * 5 : 40 + variant * 10;
+    return byLevel([
       { id: "prime", promptKey: "rule_prime", test: isPrime },
       { id: "multiple-of", promptKey: "rule_multiple-of", param: 7, test: (n) => n % 7 === 0 },
       { id: "multiple-of", promptKey: "rule_multiple-of", param: 6, test: (n) => n % 6 === 0 },
-      { id: "sum-to", promptKey: "rule_sum-to", param: 20, test: () => false },
+      { id: "sum-to", promptKey: "rule_sum-to", param: sumTo, test: () => false },
+      { id: "greater-than", promptKey: "rule_greater-than", param: greaterThan, test: (n) => n > greaterThan },
     ]);
   }
-  return pick([
+  const sumTo = 40 + variant * 10;
+  const greaterThan = 50 + variant * 10;
+  const lessThan = 80 + variant * 10;
+  return byLevel([
     { id: "prime", promptKey: "rule_prime", test: isPrime },
     { id: "multiple-of", promptKey: "rule_multiple-of", param: 11, test: (n) => n % 11 === 0 },
-    { id: "sum-to", promptKey: "rule_sum-to", param: 50, test: () => false },
-    { id: "greater-than", promptKey: "rule_greater-than", param: 50, test: (n) => n > 50 },
+    { id: "sum-to", promptKey: "rule_sum-to", param: sumTo, test: () => false },
+    { id: "greater-than", promptKey: "rule_greater-than", param: greaterThan, test: (n) => n > greaterThan },
+    { id: "less-than", promptKey: "rule_less-than", param: lessThan, test: (n) => n < lessThan },
   ]);
 }
 
@@ -314,7 +329,16 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
       setBlades((prev) => {
         const nextUid = uidRef.current++;
         const [min, max] = pool.range;
-        const value = Math.floor(Math.random() * (max - min + 1)) + min;
+        const pairTarget = pool.rule.id === "sum-to" ? (pool.rule.param ?? max) : null;
+        const pendingValue = pendingPairRef.current?.value;
+        const matchingValue = pairTarget !== null && pendingValue !== undefined ? pairTarget - pendingValue : null;
+        const pairMax = pairTarget !== null ? Math.max(min, Math.min(max, pairTarget - 1)) : max;
+        const value = matchingValue !== null
+          && matchingValue >= min
+          && matchingValue <= max
+          && Math.random() < 0.45
+          ? matchingValue
+          : Math.floor(Math.random() * (pairMax - min + 1)) + min;
         const x = 12 + Math.random() * 76;
         const vx = (Math.random() - 0.5) * 35;
         // Stronger upward launch so numbers reach top area
