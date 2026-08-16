@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useCallback, useMemo, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { MathLevelBar, useMathGameProgress } from '@/components/visual-lab/MathGameProgress';
 
 export interface TimeWarpGameProps {
   grade: number;
@@ -131,6 +132,7 @@ const AnalogClock = ({ hours, minutes, size = 100, onClick }: { hours: number; m
 
 export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps) {
   const t = DICT[lang] || DICT.en;
+  const { progress, difficulty, mastery, selectLevel, recordAnswer } = useMathGameProgress('time-warp', grade);
 
   const [score, setScore] = useState(0);
   const [targetTime, setTargetTime] = useState<{ h: number; m: number }>({ h: 12, m: 0 });
@@ -139,7 +141,7 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
   const [gameWon, setGameWon] = useState(false);
   const [gameStarted, setGameStarted] = useState(false);
   const [correctCount, setCorrectCount] = useState(0);
-  const maxCorrect = Math.max(1, grade); // K1=1, K8=8
+  const maxCorrect = difficulty.rounds;
 
   const nextId = useRef(0);
   const stateRef = useRef({ targetTime, gameOver, gameWon });
@@ -159,18 +161,10 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
     // generated hours in the 1-12 range prevents visually identical clocks
     // from being judged differently.
     const h = Math.floor(Math.random() * 12) + 1;
-    let m = 0;
-    if (grade <= 2) {
-      m = 0;
-    } else if (grade === 3) {
-      m = Math.floor(Math.random() * 2) * 30; // 0 or 30
-    } else if (grade === 4) {
-      m = Math.floor(Math.random() * 12) * 5; // 0, 5, 10...
-    } else {
-      m = Math.floor(Math.random() * 60); // any minute
-    }
+    const step = difficulty.timeStep;
+    const m = Math.floor(Math.random() * (60 / step)) * step;
     return { h, m };
-  }, [grade]);
+  }, [difficulty.timeStep]);
 
   const generateNewTarget = useCallback(() => {
     setTargetTime(generateTime());
@@ -192,11 +186,11 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
       h: time.h,
       m: time.m,
       startY: Math.random() * 50 + 10, // 10% to 60% — stays within game area
-      duration: Math.random() * 8 + 12, // 12 to 20 seconds crossing time
+      duration: (Math.random() * 8 + 12) / difficulty.speedMultiplier,
     };
 
     setClocks(prev => prev.length >= 10 ? prev : [...prev, clock]);
-  }, [generateTime]);
+  }, [generateTime, difficulty.speedMultiplier]);
 
   useEffect(() => {
     if (gameOver || gameWon || !gameStarted) return;
@@ -205,16 +199,16 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
 
   useEffect(() => {
     if (gameOver || gameWon || !gameStarted) return;
-    
+
     // Initial spawn
     spawnClock();
 
     const intervalId = setInterval(() => {
       spawnClock();
-    }, 2000); // spawn every 2 seconds
+    }, Math.round(2000 / difficulty.speedMultiplier));
 
     return () => clearInterval(intervalId);
-  }, [spawnClock, gameOver, gameWon, gameStarted]);
+  }, [spawnClock, gameOver, gameWon, gameStarted, difficulty.speedMultiplier]);
 
   const handleGameOver = useCallback(() => {
     setGameOver(true);
@@ -226,6 +220,7 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
 
     if (clock.h === targetTime.h && clock.m === targetTime.m) {
       // Correct!
+      recordAnswer(true);
       setScore(s => s + 10);
       setClocks(prev => prev.filter(c => c.id !== clock.id));
       setCorrectCount(c => {
@@ -240,6 +235,7 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
       });
     } else {
       // Wrong! Game over.
+      recordAnswer(false);
       handleGameOver();
     }
   };
@@ -266,8 +262,20 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
     generateNewTarget();
   };
 
+  const changeLevel = (level: 1 | 2 | 3 | 4 | 5) => {
+    selectLevel(level);
+    setScore(0);
+    setCorrectCount(0);
+    setClocks([]);
+    setGameOver(false);
+    setGameWon(false);
+    setGameStarted(false);
+  };
   return (
     <div className="relative w-full h-[calc(100dvh-2rem)] min-h-[420px] max-h-[600px] bg-gray-950 overflow-hidden font-mono rounded-2xl shadow-[0_0_30px_rgba(6,182,212,0.3)] border border-cyan-900/50 flex flex-col select-none">
+      <div className="relative z-[60] px-3 pt-3">
+        <MathLevelBar grade={grade} lang={lang} progress={progress} mastery={mastery} onSelect={changeLevel} />
+      </div>
       
       {/* Background Starfield Effect */}
       <div className="absolute inset-0 opacity-20 pointer-events-none">

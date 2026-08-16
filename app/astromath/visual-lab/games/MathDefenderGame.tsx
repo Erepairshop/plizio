@@ -2,6 +2,8 @@
 
 import { useCallback, useEffect, useRef, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { MathLevelBar, useMathGameProgress } from "@/components/visual-lab/MathGameProgress";
+import type { MathDifficulty } from "@/lib/visualLab/mathCurriculum";
 
 type Lang = "de" | "hu" | "ro" | "en";
 
@@ -10,53 +12,71 @@ interface Problem {
   ans: number;
 }
 
-function generateProblem(grade: number): Problem {
+function randomInt(min: number, max: number): number {
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+export function generateDefenderProblem(grade: number, difficulty: MathDifficulty): Problem {
+  const cap = Math.min(9_999, difficulty.numberLimit);
   if (grade <= 1) {
-    // Add within 10
-    const a = Math.floor(Math.random() * 5) + 1;
-    const b = Math.floor(Math.random() * 5) + 1;
+    const a = randomInt(1, Math.max(3, Math.floor(cap / 2)));
+    const b = randomInt(1, Math.max(2, cap - a));
+    if (difficulty.level >= 4 && a + b <= cap) return { expr: `${a + b} − ${b}`, ans: a };
     return { expr: `${a} + ${b}`, ans: a + b };
   }
   if (grade === 2) {
-    // Add/Sub within 20
+    if (difficulty.level >= 4 && Math.random() > 0.55) {
+      const a = randomInt(2, 10);
+      const b = randomInt(2, Math.min(10, difficulty.level + 3));
+      return { expr: `${a} × ${b}`, ans: a * b };
+    }
     if (Math.random() > 0.5) {
-      const a = Math.floor(Math.random() * 10) + 1;
-      const b = Math.floor(Math.random() * 10) + 1;
+      const a = randomInt(1, Math.max(10, Math.floor(cap / 2)));
+      const b = randomInt(1, Math.max(10, cap - a));
       return { expr: `${a} + ${b}`, ans: a + b };
     } else {
-      const a = Math.floor(Math.random() * 10) + 10;
-      const b = Math.floor(Math.random() * 10) + 1;
+      const a = randomInt(10, cap);
+      const b = randomInt(1, a);
       return { expr: `${a} - ${b}`, ans: a - b };
     }
   }
   if (grade === 3) {
-    // Multiplication 1-10
-    const a = Math.floor(Math.random() * 9) + 2;
-    const b = Math.floor(Math.random() * 9) + 2;
+    const a = randomInt(2, Math.min(12, 5 + difficulty.level * 2));
+    const b = randomInt(2, Math.min(12, 5 + difficulty.level * 2));
+    if (difficulty.level >= 4 && Math.random() > 0.5) return { expr: `${a * b} ÷ ${a}`, ans: b };
     return { expr: `${a} × ${b}`, ans: a * b };
   }
   if (grade === 4) {
-    // Mult/Div
     if (Math.random() > 0.5) {
-      const a = Math.floor(Math.random() * 9) + 3;
-      const b = Math.floor(Math.random() * 9) + 3;
+      const a = randomInt(3, 10 + difficulty.level * 2);
+      const b = randomInt(3, 10 + difficulty.level * 2);
       return { expr: `${a} × ${b}`, ans: a * b };
     } else {
-      const b = Math.floor(Math.random() * 8) + 2;
-      const ans = Math.floor(Math.random() * 9) + 2;
+      const b = randomInt(2, 10 + difficulty.level);
+      const ans = randomInt(2, 10 + difficulty.level * 2);
       return { expr: `${b * ans} ÷ ${b}`, ans };
     }
   }
-  // Grade 5+ (Harder)
-  if (Math.random() > 0.6) {
-    const a = Math.floor(Math.random() * 15) + 5;
-    const b = Math.floor(Math.random() * 15) + 5;
+  const advancedMode = difficulty.level >= 4 ? randomInt(0, grade >= 6 ? 3 : 2) : randomInt(0, 1);
+  if (advancedMode === 0) {
+    const a = randomInt(3, 10 + difficulty.level * 3);
+    const b = randomInt(3, 10 + difficulty.level * 3);
     return { expr: `${a} × ${b}`, ans: a * b };
-  } else {
-    const a = Math.floor(Math.random() * 40) + 20;
-    const b = Math.floor(Math.random() * 40) + 20;
+  }
+  if (advancedMode === 1) {
+    const a = randomInt(20, Math.max(40, Math.min(2_000, Math.floor(cap / 2))));
+    const b = randomInt(10, Math.max(20, Math.min(2_000, cap - a)));
     return { expr: `${a} + ${b}`, ans: a + b };
   }
+  if (advancedMode === 2) {
+    const factor = randomInt(2, 9);
+    const ans = randomInt(2, 10 + difficulty.level * 3);
+    const offset = randomInt(1, 20);
+    return { expr: `${factor} × x + ${offset} = ${factor * ans + offset}`, ans };
+  }
+  const percent = [10, 20, 25, 50][randomInt(0, 3)];
+  const base = randomInt(2, 12 + difficulty.level * 3) * (100 / percent);
+  return { expr: `${percent}% von ${base}`, ans: base * percent / 100 };
 }
 
 interface Enemy {
@@ -144,6 +164,7 @@ interface Props {
 
 export default function MathDefenderGame({ grade, lang, onDone }: Props) {
   const t = T[lang] ?? T.en;
+  const { progress, difficulty, mastery, selectLevel, recordAnswer } = useMathGameProgress("math-defender", grade);
 
   const [phase, setPhase] = useState<"intro" | "playing" | "won" | "lost">("intro");
   const [score, setScore] = useState(0);
@@ -159,9 +180,9 @@ export default function MathDefenderGame({ grade, lang, onDone }: Props) {
   const lossTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   // Difficulty scaling
-  const spawnRate = grade <= 2 ? 3500 : grade <= 4 ? 2800 : 2000;
-  const gravity = grade <= 2 ? 2.5 : grade <= 4 ? 3.5 : 4.5;
-  const WIN_SCORE = Math.max(5, grade) * 10; // min 5 helyes, K6+=grade×1
+  const spawnRate = Math.round((grade <= 2 ? 3800 : grade <= 4 ? 3200 : 2600) / difficulty.speedMultiplier);
+  const gravity = (grade <= 2 ? 2.3 : grade <= 4 ? 3 : 3.7) * difficulty.speedMultiplier;
+  const WIN_SCORE = difficulty.rounds * 10;
 
   const start = useCallback(() => {
     if (lossTimerRef.current) clearTimeout(lossTimerRef.current);
@@ -186,7 +207,7 @@ export default function MathDefenderGame({ grade, lang, onDone }: Props) {
         if (prev.filter(e => e.state === "alive").length >= 5) return prev;
         const e: Enemy = {
           uid: uidRef.current++,
-          prob: generateProblem(grade),
+          prob: generateDefenderProblem(grade, difficulty),
           x: 15 + Math.random() * 70,
           y: -10, // top of svg
           vy: gravity + Math.random() * 2,
@@ -200,7 +221,7 @@ export default function MathDefenderGame({ grade, lang, onDone }: Props) {
       });
     }, spawnRate);
     return () => clearInterval(interval);
-  }, [phase, grade, spawnRate, gravity]);
+  }, [phase, grade, spawnRate, gravity, difficulty]);
 
   // Physics loop
   useEffect(() => {
@@ -285,6 +306,7 @@ export default function MathDefenderGame({ grade, lang, onDone }: Props) {
     }
 
     if (target) {
+      recordAnswer(true);
       // Hit!
       const tid = target.uid;
       setEnemies((prev) => prev.map(e => e.uid === tid ? { ...e, state: "dying", stateAt: performance.now() } : e));
@@ -292,6 +314,7 @@ export default function MathDefenderGame({ grade, lang, onDone }: Props) {
       setScore(s => s + 10);
       setInput("");
     } else {
+      recordAnswer(false);
       // Miss (wrong answer)
       setInput("");
       // optionally deduct points or just flash red
@@ -313,6 +336,17 @@ export default function MathDefenderGame({ grade, lang, onDone }: Props) {
 
   return (
     <div className="relative w-full max-w-2xl mx-auto flex flex-col gap-2 sm:gap-4">
+      <MathLevelBar
+        grade={grade}
+        lang={lang}
+        progress={progress}
+        mastery={mastery}
+        onSelect={(level) => {
+          selectLevel(level);
+          setPhase("intro");
+          setEnemies([]);
+        }}
+      />
       {/* Viewport */}
       <motion.div
         className="relative rounded-[24px] border border-cyan-500/20 overflow-hidden shadow-2xl"

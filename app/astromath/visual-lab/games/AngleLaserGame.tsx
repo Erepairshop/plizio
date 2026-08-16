@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { MathLevelBar, useMathGameProgress } from '@/components/visual-lab/MathGameProgress';
 
 export interface AngleLaserGameProps {
   grade: number;
@@ -60,18 +61,10 @@ const DICT = {
   }
 };
 
-const getOptionsForGrade = (grade: number): number[] => {
-  if (grade <= 2) return [0, 90, 180, 270];
-  if (grade <= 4) return [0, 45, 90, 135, 180, 225, 270, 315];
+const getAngleOptions = (step: number): number[] => {
   const opts: number[] = [];
-  for (let i = 0; i < 360; i += 10) opts.push(i);
+  for (let i = 0; i < 360; i += step) opts.push(i);
   return opts;
-};
-
-const getStepForGrade = (grade: number): number => {
-  if (grade <= 2) return 90;
-  if (grade <= 4) return 45;
-  return 10;
 };
 
 const PolarGrid = () => (
@@ -104,8 +97,8 @@ const AsteroidSVG = () => (
 
 export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGameProps) {
   const t = DICT[lang] || DICT.en;
-  
-  const MAX_ROUNDS = Math.max(1, grade);
+  const { progress, difficulty, mastery, selectLevel, recordAnswer } = useMathGameProgress('angle-laser', grade);
+  const MAX_ROUNDS = difficulty.rounds;
   const [round, setRound] = useState(1);
   const [score, setScore] = useState(0);
   
@@ -122,10 +115,10 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
   useEffect(() => {
     generateProblem();
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [round, grade]);
+  }, [round, grade, difficulty.angleStep]);
 
   const generateProblem = () => {
-    const opts = getOptionsForGrade(grade);
+    const opts = getAngleOptions(difficulty.angleStep);
     const randomAngle = opts[Math.floor(Math.random() * opts.length)];
     setTargetAngle(randomAngle);
     setCurrentAngle(0);
@@ -139,6 +132,7 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
     fireTimerRef.current = setTimeout(() => {
       setPhase('result');
       const hit = (currentAngle % 360) === (targetAngle % 360);
+      recordAnswer(hit);
       if (hit) {
         setScore(s => s + 1);
       }
@@ -170,12 +164,23 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
     }
   };
 
+  const changeLevel = (level: 1 | 2 | 3 | 4 | 5) => {
+    if (fireTimerRef.current) clearTimeout(fireTimerRef.current);
+    selectLevel(level);
+    setRound(1);
+    setScore(0);
+    setPhase('aiming');
+  };
+
   const asteroidX = 120 * Math.cos(targetAngle * Math.PI / 180);
   const asteroidY = -120 * Math.sin(targetAngle * Math.PI / 180);
   const isHit = (currentAngle % 360) === (targetAngle % 360);
 
   return (
     <div className="flex flex-col items-center w-full max-w-2xl mx-auto bg-slate-950 p-3 sm:p-6 rounded-2xl border border-slate-800 shadow-2xl overflow-hidden font-sans select-none">
+      <div className="w-full">
+        <MathLevelBar grade={grade} lang={lang} progress={progress} mastery={mastery} onSelect={changeLevel} />
+      </div>
       
       {/* Header Info */}
       <div className="w-full flex justify-between items-center mb-4">
@@ -269,7 +274,7 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
                 type="range" 
                 min="0" 
                 max="360" 
-                step={getStepForGrade(grade)} 
+                step={difficulty.angleStep}
                 value={currentAngle}
                 onChange={(e) => setCurrentAngle(Number(e.target.value))}
                 className="flex-1 cursor-pointer accent-cyan-500"

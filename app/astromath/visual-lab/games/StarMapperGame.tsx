@@ -1,6 +1,7 @@
 import React, { useEffect, useState, useRef, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Language } from '@/components/i18n/LocalizedText';
+import { MathLevelBar, useMathGameProgress } from '@/components/visual-lab/MathGameProgress';
 
 export interface StarMapperGameProps {
   grade: number;
@@ -69,17 +70,17 @@ const DICT = {
 
 export default function StarMapperGame({ grade, lang, onDone }: StarMapperGameProps) {
   const t = DICT[lang] || DICT.en;
+  const { progress, difficulty, mastery, selectLevel, recordAnswer } = useMathGameProgress('star-mapper', grade);
 
   const config = useMemo(() => {
-    if (grade <= 2) return { minX: 0, maxX: 4, minY: 0, maxY: 4 };
-    if (grade <= 4) return { minX: 0, maxX: 8, minY: 0, maxY: 8 };
-    return { minX: -5, maxX: 5, minY: -5, maxY: 5 };
-  }, [grade]);
+    const min = difficulty.allowNegativeCoordinates ? -difficulty.coordinateMax : 0;
+    return { minX: min, maxX: difficulty.coordinateMax, minY: min, maxY: difficulty.coordinateMax };
+  }, [difficulty]);
 
   const [gameState, setGameState] = useState<'start' | 'playing' | 'end'>('start');
   const [score, setScore] = useState(0);
   const [correctCount, setCorrectCount] = useState(0);
-  const maxCorrect = grade <= 5 ? 3 : 3 + (grade - 5);
+  const maxCorrect = difficulty.rounds;
   const [target, setTarget] = useState({ x: 0, y: 0 });
   const [currentPos, setCurrentPos] = useState({ x: 0, y: 0 });
   const [feedback, setFeedback] = useState<'correct' | 'wrong' | null>(null);
@@ -139,6 +140,7 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
     if (gameState !== 'playing' || feedback) return;
 
     if (currentPos.x === target.x && currentPos.y === target.y) {
+      recordAnswer(true);
       setScore(s => s + 10);
       setFeedback('correct');
       setCorrectCount(c => {
@@ -154,6 +156,7 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
         return next;
       });
     } else {
+      recordAnswer(false);
       setFeedback('wrong');
       if (feedbackTimerRef.current) clearTimeout(feedbackTimerRef.current);
       feedbackTimerRef.current = setTimeout(() => setFeedback(null), 1000);
@@ -198,6 +201,20 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
             </div>
           </div>
         )}
+      </div>
+
+      <div className="z-10 w-full">
+        <MathLevelBar
+          grade={grade}
+          lang={lang}
+          progress={progress}
+          mastery={mastery}
+          onSelect={(level) => {
+            selectLevel(level);
+            setGameState('start');
+            setFeedback(null);
+          }}
+        />
       </div>
 
       {gameState === 'start' && (

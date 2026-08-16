@@ -23,6 +23,7 @@ const AngleLaserGame = dynamic(() => import("@/app/astromath/visual-lab/games/An
 const TimeWarpGame = dynamic(() => import("@/app/astromath/visual-lab/games/TimeWarpGame"));
 const StarMapperGame = dynamic(() => import("@/app/astromath/visual-lab/games/StarMapperGame"));
 const MeteorScaleGame = dynamic(() => import("@/app/astromath/visual-lab/games/MeteorScaleGame"));
+const DataOrbitGame = dynamic(() => import("@/app/astromath/visual-lab/games/DataOrbitGame"));
 import GruselBuilderGame from "@/app/astromath/visual-lab/games/GruselBuilderGame";
 import BildGeschichteGame from "@/app/astromath/visual-lab/games/BildGeschichteGame";
 
@@ -120,6 +121,7 @@ const T: Record<Lang, Record<string, string>> = {
     comingSoon: "Bald verfügbar",
     close: "Schließen",
     soon: "Weitere visuelle Spiele kommen bald.",
+    dataOrbit: "Daten-Mission",
   },
   hu: {
     title: "Vizuális Labor",
@@ -136,6 +138,7 @@ const T: Record<Lang, Record<string, string>> = {
     comingSoon: "Hamarosan",
     close: "Bezárás",
     soon: "További vizuális játékok hamarosan.",
+    dataOrbit: "Adatküldetés",
   },
   ro: {
     title: "Laborator Vizual",
@@ -164,6 +167,7 @@ const T: Record<Lang, Record<string, string>> = {
     comingSoon: "În curând",
     close: "Închide",
     soon: "Mai multe jocuri vizuale vin în curând.",
+    dataOrbit: "Misiunea Datelor",
   },
   en: {
     title: "Visual Lab",
@@ -180,6 +184,7 @@ const T: Record<Lang, Record<string, string>> = {
     comingSoon: "Coming soon",
     close: "Close",
     soon: "More visual games coming soon.",
+    dataOrbit: "Data Mission",
   },
 };
 
@@ -220,6 +225,7 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "time-warp", type: "memory", labelKey: "timeWarp", available: true },
     { id: "star-mapper", type: "puzzle", labelKey: "starMapper", available: true },
     { id: "meteor-scale", type: "puzzle", labelKey: "meteorScale", available: true },
+    { id: "data-orbit", type: "puzzle", labelKey: "dataOrbit", available: true },
   ],
   deutsch: [
     { id: "tipp-sturm", type: "spotter", labelKey: "tippSturm", available: true },
@@ -644,6 +650,9 @@ function AstromathGameSwitch({
   }
   if (gameId === "meteor-scale") {
     return <MeteorScaleGame grade={grade} lang={lang} />;
+  }
+  if (gameId === "data-orbit") {
+    return <DataOrbitGame grade={grade} lang={lang} />;
   }
   return <FallbackBox title={gameId} info={tSoon} />;
 }

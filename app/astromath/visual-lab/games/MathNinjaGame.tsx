@@ -2,6 +2,8 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { MathLevelBar, useMathGameProgress } from "@/components/visual-lab/MathGameProgress";
+import { difficultyFor, type MathDifficulty } from "@/lib/visualLab/mathCurriculum";
 
 /* ------------------------------------------------------------------ */
 /* Types + rule system                                                  */
@@ -175,8 +177,11 @@ interface RoundPool {
   maxLives: number;
 }
 
-function makeRule(grade: number, seed: number): Rule {
-  const pick = (arr: Rule[]) => arr[seed % arr.length];
+function makeRule(grade: number, level: number, seed: number): Rule {
+  const pick = (arr: Rule[]) => {
+    const available = arr.slice(0, Math.min(arr.length, Math.max(2, level)));
+    return available[seed % available.length];
+  };
 
   if (grade <= 1) {
     return pick([
@@ -217,20 +222,20 @@ function makeRule(grade: number, seed: number): Rule {
   ]);
 }
 
-function poolFor(grade: number, seed: number): RoundPool {
-  const rule = makeRule(grade, seed);
-  const range: [number, number] =
-    grade <= 1 ? [1, 10]
-    : grade <= 2 ? [1, 20]
-    : grade <= 3 ? [1, 30]
-    : grade <= 5 ? [2, 60]
-    : [2, 100];
-  const spawnIntervalMs =
-    grade <= 2 ? 950 :
-    grade <= 4 ? 780 :
-    620;
+function poolFor(grade: number, difficulty: MathDifficulty, seed: number): RoundPool {
+  const rule = makeRule(grade, difficulty.level, seed);
+  const gradeBase = grade === 1 ? 10
+    : grade === 2 ? 20
+      : grade === 3 ? 30
+        : grade === 4 ? 50
+          : grade === 5 ? 60
+            : 100;
+  const levelGrowth = grade <= 2 ? 4 : grade <= 4 ? 10 : grade === 5 ? 20 : 30;
+  const range: [number, number] = [grade <= 3 ? 1 : 2, Math.min(250, gradeBase + (difficulty.level - 1) * levelGrowth)];
+  const baseSpawnInterval = grade <= 2 ? 1_050 : grade <= 4 ? 900 : 760;
+  const spawnIntervalMs = Math.round(baseSpawnInterval / difficulty.speedMultiplier);
   const durationMs = 45_000;
-  const goal = grade <= 5 ? 3 : 3 + (grade - 5); // K1-5=3, K6=4, K7=5, K8=6
+  const goal = difficulty.rounds;
   return { rule, range, spawnIntervalMs, durationMs, goal, maxLives: 3 };
 }
 
@@ -253,8 +258,9 @@ const PALETTE = ["#22D3EE", "#F472B6", "#A78BFA", "#FBBF24", "#34D399", "#F97316
 
 export default function MathNinjaGame({ grade, lang, onDone }: Props) {
   const t = T[lang] ?? T.en;
+  const { progress, difficulty, levelRef, mastery, selectLevel, recordAnswer } = useMathGameProgress("math-ninja", grade);
   const [phase, setPhase] = useState<"reveal" | "playing" | "won" | "lost">("reveal");
-  const [pool, setPool] = useState<RoundPool>(() => poolFor(grade, Math.floor(Math.random() * 1000)));
+  const [pool, setPool] = useState<RoundPool>(() => poolFor(grade, difficultyFor(grade, 1), Math.floor(Math.random() * 1000)));
 
   const [blades, setBlades] = useState<Blade[]>([]);
   const [slashPoints, setSlashPoints] = useState<SlashPoint[]>([]);
@@ -277,7 +283,7 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
   /* Start / restart */
   const start = useCallback(() => {
     const seed = Math.floor(Math.random() * 1000);
-    const p = poolFor(grade, seed);
+    const p = poolFor(grade, difficultyFor(grade, levelRef.current), seed);
     setPool(p);
     setBlades([]);
     setSlashPoints([]);
@@ -290,7 +296,7 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
     setLastComboText(null);
     pendingPairRef.current = null;
     setPhase("reveal");
-  }, [grade]);
+  }, [grade, levelRef]);
 
   /* Spawner */
   useEffect(() => {
@@ -484,6 +490,7 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
       }
 
       if (hitAnyCorrect > 0) {
+        for (let index = 0; index < hitAnyCorrect; index++) recordAnswer(true);
         setCombo((c) => {
           const newCombo = c + hitAnyCorrect;
           if (newCombo >= 3) setLastComboText(`${newCombo}× ${t.combo}`);
@@ -499,6 +506,7 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
         setFlash("good");
       }
       if (hitWrong) {
+        recordAnswer(false);
         scheduleLifeLoss();
       }
       return next;
@@ -544,6 +552,17 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
 
   return (
     <div className="relative w-full max-w-3xl mx-auto">
+      <MathLevelBar
+        grade={grade}
+        lang={lang}
+        progress={progress}
+        mastery={mastery}
+        onSelect={(level) => {
+          selectLevel(level);
+          setPhase("reveal");
+          setPool(poolFor(grade, difficultyFor(grade, level), Math.floor(Math.random() * 1000)));
+        }}
+      />
       <div
         className="relative rounded-[32px] border border-white/10 overflow-hidden shadow-2xl"
         style={{

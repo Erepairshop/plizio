@@ -4,6 +4,8 @@ import React, { useState, useEffect, useCallback, useMemo, useRef } from 'react'
 import { motion, AnimatePresence } from 'framer-motion';
 import { DragAndDropContainer, DragItem, DropZone } from '@/components/interactive/DragAndDropContainer';
 import { Language } from '@/components/i18n/LocalizedText';
+import { MathLevelBar, useMathGameProgress } from '@/components/visual-lab/MathGameProgress';
+import type { MathDifficulty } from '@/lib/visualLab/mathCurriculum';
 
 interface Props {
   grade: number;
@@ -12,6 +14,8 @@ interface Props {
 }
 
 type Fraction = { num: number; den: number };
+type FractionRepresentation = 'pie' | 'bar' | 'decimal' | 'percent';
+type FractionOption = { fraction: Fraction; type: FractionRepresentation; id: string };
 
 const DICT = {
   en: {
@@ -72,13 +76,10 @@ const DICT = {
   }
 };
 
-const generateFraction = (grade: number): Fraction => {
-  let maxDen = 4;
-  if (grade >= 3) maxDen = 8;
-  if (grade >= 5) maxDen = 12;
-  
-  const den = Math.floor(Math.random() * (maxDen - 1)) + 2; 
-  const num = Math.floor(Math.random() * (den - 1)) + 1; 
+export const generateFraction = (grade: number, difficulty: MathDifficulty): Fraction => {
+  const maxDen = difficulty.fractionMaxDenominator;
+  const den = Math.floor(Math.random() * (maxDen - 1)) + 2;
+  const num = Math.floor(Math.random() * (den - 1)) + 1;
   return { num, den };
 };
 
@@ -121,11 +122,12 @@ const BarFraction = ({ num, den, size = 60 }: { num: number; den: number; size?:
 };
 
 export default function FractionReactorGame({ grade, lang, onDone }: Props) {
+  const { progress, difficulty, mastery, selectLevel, recordAnswer } = useMathGameProgress('fraction-reactor', grade);
   const [status, setStatus] = useState<'start' | 'playing' | 'gameover' | 'won'>('start');
   const [score, setScore] = useState(0);
   const [lives, setLives] = useState(3);
   const [target, setTarget] = useState<Fraction>({ num: 1, den: 2 });
-  const [options, setOptions] = useState<{ fraction: Fraction; type: 'pie' | 'bar'; id: string }[]>([]);
+  const [options, setOptions] = useState<FractionOption[]>([]);
   const [round, setRound] = useState(0);
   const [feedback, setFeedback] = useState<string | null>(null);
   const [isCorrectDrop, setIsCorrectDrop] = useState<boolean | null>(null);
@@ -134,7 +136,7 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
   const feedbackTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   const T = DICT[lang] || DICT['en'];
-  const maxRounds = grade <= 5 ? 5 : 5 + (grade - 5);
+  const maxRounds = difficulty.rounds;
   const stars = useMemo(() => Array.from({ length: 40 }, (_, i) => ({
     top: `${(i * 47) % 100}%`,
     left: `${(i * 83) % 100}%`,
@@ -149,42 +151,48 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
   }, []);
 
   const generateOptions = useCallback((targetFraction: Fraction) => {
-    const newOptions: { fraction: Fraction; type: 'pie' | 'bar'; id: string }[] = [];
+    const newOptions: FractionOption[] = [];
+    const representationFor = (fraction: Fraction): FractionRepresentation => {
+      const choices: FractionRepresentation[] = ['pie', 'bar'];
+      if (grade >= 5 && difficulty.level >= 3) choices.push('decimal');
+      if (grade >= 5 && difficulty.level >= 4 && (fraction.num * 100) % fraction.den === 0) choices.push('percent');
+      return choices[Math.floor(Math.random() * choices.length)];
+    };
     
     // Correct one (or equivalent)
     const multiplier = Math.floor(Math.random() * (Math.floor(12 / targetFraction.den) || 1)) + 1;
     newOptions.push({
       fraction: { num: targetFraction.num * multiplier, den: targetFraction.den * multiplier },
-      type: Math.random() > 0.5 ? 'pie' : 'bar',
+      type: representationFor({ num: targetFraction.num * multiplier, den: targetFraction.den * multiplier }),
       id: Math.random().toString(36).substr(2, 9)
     });
 
     // Incorrect ones
-    while (newOptions.length < 4) {
-      const f = generateFraction(grade);
+    while (newOptions.length < difficulty.choices) {
+      const f = generateFraction(grade, difficulty);
       if (!areEquivalent(f, targetFraction) && !newOptions.some(o => areEquivalent(o.fraction, f))) {
         newOptions.push({
           fraction: f,
-          type: Math.random() > 0.5 ? 'pie' : 'bar',
+          type: representationFor(f),
           id: Math.random().toString(36).substr(2, 9)
         });
       }
     }
 
     return newOptions.sort(() => Math.random() - 0.5);
-  }, [grade]);
+  }, [difficulty, grade]);
 
   const startRound = useCallback((currentRound: number) => {
     if (currentRound >= maxRounds) {
       setStatus('won');
       return;
     }
-    const newTarget = generateFraction(grade);
+    const newTarget = generateFraction(grade, difficulty);
     setTarget(newTarget);
     setOptions(generateOptions(newTarget));
     setFeedback(null);
     setIsCorrectDrop(null);
-  }, [grade, maxRounds, generateOptions]);
+  }, [difficulty, grade, maxRounds, generateOptions]);
 
   const startGame = () => {
     if (roundTimerRef.current) clearTimeout(roundTimerRef.current);
@@ -201,6 +209,7 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
     if (isCorrectDrop !== null) return;
 
     if (areEquivalent(item.data!, target)) {
+      recordAnswer(true);
       setScore(s => s + 10);
       setIsCorrectDrop(true);
       setFeedback(T.correct);
@@ -210,6 +219,7 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
         startRound(nextRound);
       }, 1500);
     } else {
+      recordAnswer(false);
       setIsCorrectDrop(false);
       setFeedback(T.tryAgain);
       setLives(l => {
@@ -238,7 +248,19 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
   }];
 
   return (
-    <div className="relative w-full max-w-4xl mx-auto h-[calc(100dvh-2rem)] min-h-[520px] max-h-[650px] bg-slate-950 overflow-hidden border-2 border-slate-800 rounded-2xl shadow-2xl font-sans select-none">
+    <div className="w-full max-w-4xl mx-auto">
+      <MathLevelBar
+        grade={grade}
+        lang={lang}
+        progress={progress}
+        mastery={mastery}
+        onSelect={(level) => {
+          selectLevel(level);
+          setStatus('start');
+          setOptions([]);
+        }}
+      />
+      <div className="relative w-full h-[calc(100dvh-8rem)] min-h-[520px] max-h-[650px] bg-slate-950 overflow-hidden border-2 border-slate-800 rounded-2xl shadow-2xl font-sans select-none">
       {/* Background stars */}
       <div className="absolute inset-0 pointer-events-none opacity-40">
         {stars.map((star, i) => (
@@ -345,8 +367,14 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
                 <div className="bg-slate-900/50 p-2 sm:p-3 rounded-2xl border border-slate-700/50 backdrop-blur-sm cursor-grab active:cursor-grabbing hover:border-cyan-500/50 transition-colors group">
                   {opt.type === 'pie' ? (
                     <PieFraction num={opt.fraction.num} den={opt.fraction.den} size={80} />
-                  ) : (
+                  ) : opt.type === 'bar' ? (
                     <BarFraction num={opt.fraction.num} den={opt.fraction.den} size={80} />
+                  ) : (
+                    <div className="flex h-14 w-14 items-center justify-center text-center text-lg font-black text-cyan-200 sm:h-20 sm:w-20 sm:text-xl">
+                      {opt.type === 'percent'
+                        ? `${Math.round(opt.fraction.num * 100 / opt.fraction.den)}%`
+                        : (opt.fraction.num / opt.fraction.den).toFixed(2).replace(/0+$/, '').replace(/\.$/, '')}
+                    </div>
                   )}
                   <div className="hidden sm:block mt-2 text-center text-cyan-400 font-bold opacity-0 group-hover:opacity-100 transition-opacity">
                     {opt.fraction.num}/{opt.fraction.den}
@@ -405,6 +433,7 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
           />
         </div>
       )}
+      </div>
     </div>
   );
 }

@@ -3,6 +3,8 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { motion } from "framer-motion";
 import type { Language } from "@/components/i18n/LocalizedText";
+import { MathLevelBar, useMathGameProgress } from "@/components/visual-lab/MathGameProgress";
+import { difficultyFor, type MathDifficulty } from "@/lib/visualLab/mathCurriculum";
 
 const DICTIONARY = {
   en: { title: "Meteor Scale", score: "Score", gameOver: "Mission complete", next: "Continue", playAgain: "Play again", tryAgain: "Try again", choose: "Choose the missing number" },
@@ -34,45 +36,82 @@ function shuffled<T>(values: T[]): T[] {
   return result;
 }
 
-function generateProblem(grade: number): Problem {
+function randomInt(min: number, max: number): number {
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+export function generateMeteorProblem(grade: number, difficulty: MathDifficulty): Problem {
   let leftDisplay = "";
   let rightPrefix = "";
   let rightSuffix = "";
   let targetValue = 0;
 
   if (grade <= 2) {
-    targetValue = Math.floor(Math.random() * 9) + 1;
-    const rightBase = Math.floor(Math.random() * (10 - targetValue));
-    leftDisplay = String(rightBase + targetValue);
-    rightPrefix = `${rightBase} + `;
+    const cap = Math.min(difficulty.numberLimit, 10 + difficulty.level * (grade === 1 ? 2 : 8));
+    targetValue = randomInt(1, Math.max(2, Math.floor(cap / 2)));
+    const base = randomInt(0, Math.max(1, cap - targetValue));
+    if (difficulty.level >= 4 && base + targetValue > targetValue) {
+      leftDisplay = String(base);
+      rightPrefix = `${base + targetValue} − `;
+    } else {
+      leftDisplay = String(base + targetValue);
+      rightPrefix = `${base} + `;
+    }
   } else if (grade <= 4) {
-    if (Math.random() > 0.5) {
-      const leftValue = Math.floor(Math.random() * 20) + 10;
-      targetValue = Math.floor(Math.random() * 20) + 5;
+    const cap = Math.min(difficulty.numberLimit, grade === 3 ? 500 : 2_000);
+    if (difficulty.level >= 4 && Math.random() > 0.45) {
+      const factor = randomInt(2, Math.min(12, 3 + difficulty.level * 2));
+      targetValue = randomInt(2, Math.max(3, Math.min(20, Math.floor(cap / factor))));
+      leftDisplay = String(factor * targetValue);
+      rightPrefix = `${factor} × `;
+    } else if (Math.random() > 0.5) {
+      const leftValue = randomInt(10, Math.max(20, Math.floor(cap * 0.65)));
+      targetValue = randomInt(5, Math.max(10, Math.min(Math.floor(cap * 0.3), leftValue)));
       leftDisplay = String(leftValue);
       rightPrefix = `${leftValue + targetValue} − `;
     } else {
-      targetValue = Math.floor(Math.random() * 20) + 10;
-      const rightBase = Math.floor(Math.random() * 20) + 10;
-      leftDisplay = String(rightBase + targetValue);
-      rightPrefix = `${rightBase} + `;
+      targetValue = randomInt(5, Math.max(10, Math.floor(cap * 0.35)));
+      const base = randomInt(10, Math.max(20, cap - targetValue));
+      leftDisplay = String(base + targetValue);
+      rightPrefix = `${base} + `;
     }
-  } else if (Math.random() > 0.5) {
-    const factor = Math.floor(Math.random() * 8) + 2;
-    targetValue = Math.floor(Math.random() * 8) + 2;
-    leftDisplay = String(factor * targetValue);
-    rightPrefix = `${factor} × `;
   } else {
-    const divisor = Math.floor(Math.random() * 5) + 2;
-    const leftValue = Math.floor(Math.random() * 10) + 2;
-    targetValue = divisor * leftValue;
-    leftDisplay = String(leftValue);
-    rightSuffix = ` ÷ ${divisor}`;
+    const mode = difficulty.level >= 5 && grade >= 6
+      ? randomInt(0, 3)
+      : difficulty.level >= 3
+        ? randomInt(0, 2)
+        : randomInt(0, 1);
+    if (mode === 0) {
+      const factor = randomInt(2, Math.min(15, 5 + difficulty.level * 2));
+      targetValue = randomInt(2, Math.min(30, 8 + difficulty.level * 4));
+      leftDisplay = String(factor * targetValue);
+      rightPrefix = `${factor} × `;
+    } else if (mode === 1) {
+      const divisor = randomInt(2, Math.min(12, 4 + difficulty.level * 2));
+      const result = randomInt(2, Math.min(30, 8 + difficulty.level * 4));
+      targetValue = divisor * result;
+      leftDisplay = String(result);
+      rightSuffix = ` ÷ ${divisor}`;
+    } else if (mode === 2) {
+      const factor = randomInt(2, Math.min(10, 3 + difficulty.level));
+      const offset = randomInt(1, 5 * difficulty.level);
+      targetValue = randomInt(2, Math.min(25, 6 + difficulty.level * 4));
+      leftDisplay = String(factor * targetValue + offset);
+      rightPrefix = `${factor} × `;
+      rightSuffix = ` + ${offset}`;
+    } else {
+      const percent = [10, 20, 25, 50][randomInt(0, 3)];
+      const unit = randomInt(1, 4 + difficulty.level);
+      targetValue = unit * (100 / percent);
+      leftDisplay = String(unit);
+      rightPrefix = `${percent}% × `;
+    }
   }
 
   const meteorValues = [targetValue];
-  while (meteorValues.length < 4) {
-    const wrong = targetValue + Math.floor(Math.random() * 11) - 5;
+  const spread = Math.max(4, Math.ceil(Math.abs(targetValue) * 0.18));
+  while (meteorValues.length < difficulty.choices) {
+    const wrong = targetValue + randomInt(-spread, spread);
     if (wrong >= 0 && wrong !== targetValue && !meteorValues.includes(wrong)) meteorValues.push(wrong);
   }
 
@@ -81,8 +120,9 @@ function generateProblem(grade: number): Problem {
 
 export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGameProps) {
   const t = DICTIONARY[lang] ?? DICTIONARY.en;
-  const maxRounds = grade <= 5 ? 3 : 3 + (grade - 5);
-  const [problem, setProblem] = useState<Problem>(() => generateProblem(grade));
+  const { progress, difficulty, levelRef, mastery, selectLevel, recordAnswer } = useMathGameProgress("meteor-scale", grade);
+  const maxRounds = difficulty.rounds;
+  const [problem, setProblem] = useState<Problem>(() => generateMeteorProblem(grade, difficultyFor(grade, 1)));
   const [score, setScore] = useState(0);
   const [round, setRound] = useState(0);
   const [phase, setPhase] = useState<"playing" | "complete">("playing");
@@ -95,10 +135,20 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
       setPhase("complete");
       return;
     }
-    setProblem(generateProblem(grade));
+    setProblem(generateMeteorProblem(grade, difficultyFor(grade, levelRef.current)));
     setSelected(null);
     setStatus("idle");
-  }, [grade, maxRounds]);
+  }, [grade, levelRef, maxRounds]);
+
+  useEffect(() => {
+    if (timerRef.current) clearTimeout(timerRef.current);
+    setScore(0);
+    setRound(0);
+    setPhase("playing");
+    setProblem(generateMeteorProblem(grade, difficulty));
+    setSelected(null);
+    setStatus("idle");
+  }, [difficulty, grade]);
 
   useEffect(() => () => {
     if (timerRef.current) clearTimeout(timerRef.current);
@@ -116,12 +166,14 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
     if (phase !== "playing" || status !== "idle") return;
     setSelected(value);
     if (value === problem.targetValue) {
+      recordAnswer(true);
       setStatus("correct");
       setScore((current) => current + 10);
       const nextRound = round + 1;
       setRound(nextRound);
       timerRef.current = setTimeout(() => prepareRound(nextRound), 1300);
     } else {
+      recordAnswer(false);
       setStatus("wrong");
       timerRef.current = setTimeout(() => {
         setSelected(null);
@@ -134,6 +186,7 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
 
   return (
     <div className="relative mx-auto w-full max-w-2xl overflow-hidden rounded-2xl border border-slate-700 bg-slate-950 p-3 text-white shadow-2xl sm:p-5">
+      <MathLevelBar grade={grade} lang={lang} progress={progress} mastery={mastery} onSelect={selectLevel} />
       <div className="mb-3 flex items-center justify-between gap-2">
         <h2 className="text-xl font-black text-orange-400 sm:text-3xl">{t.title}</h2>
         <div className="shrink-0 rounded-full border border-slate-600 bg-slate-800 px-3 py-1.5 text-sm font-bold sm:text-lg">
@@ -143,7 +196,7 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
 
       <div className="rounded-xl border border-slate-800 bg-[#020617] p-3 sm:p-5">
         <p className="mb-3 text-center text-xs font-bold uppercase tracking-widest text-slate-400">{t.choose}</p>
-        <div className="grid grid-cols-4 gap-2 sm:gap-3">
+        <div className="grid gap-2 sm:gap-3" style={{ gridTemplateColumns: `repeat(${problem.meteorValues.length}, minmax(0, 1fr))` }}>
           {problem.meteorValues.map((value) => {
             const chosen = selected === value;
             const stateClass = chosen && status === "correct"
