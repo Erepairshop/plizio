@@ -1,6 +1,7 @@
 export type MathLevel = 1 | 2 | 3 | 4 | 5;
 
 export type MathGameId =
+  | "math-quest"
   | "math-ninja"
   | "math-defender"
   | "fraction-reactor"
@@ -113,6 +114,7 @@ export function difficultyFor(gradeInput: number, levelInput: number): MathDiffi
 }
 
 export const GAME_SKILLS: Record<MathGameId, MathSkill[]> = {
+  "math-quest": ["number-sense", "operations", "fractions", "decimals-percent", "patterns-algebra"],
   "math-ninja": ["number-sense", "operations", "patterns-algebra"],
   "math-defender": ["operations", "patterns-algebra"],
   "fraction-reactor": ["fractions", "decimals-percent"],
@@ -124,6 +126,7 @@ export const GAME_SKILLS: Record<MathGameId, MathSkill[]> = {
 };
 
 const MATH_GAME_MIN_GRADE: Record<string, number> = {
+  "math-quest": 1,
   "math-campaign": 1,
   "math-ninja": 1,
   "math-defender": 1,

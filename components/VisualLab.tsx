@@ -17,6 +17,7 @@ import {
   MapPinned,
   Scale,
   ChartNoAxesColumn,
+  Gamepad2,
   type LucideIcon,
 } from "lucide-react";
 import VisualLabIcon from "./VisualLabIcon";
@@ -39,6 +40,7 @@ const TimeWarpGame = dynamic(() => import("@/app/astromath/visual-lab/games/Time
 const StarMapperGame = dynamic(() => import("@/app/astromath/visual-lab/games/StarMapperGame"));
 const MeteorScaleGame = dynamic(() => import("@/app/astromath/visual-lab/games/MeteorScaleGame"));
 const DataOrbitGame = dynamic(() => import("@/app/astromath/visual-lab/games/DataOrbitGame"));
+const MathQuestGame = dynamic(() => import("@/app/astromath/visual-lab/games/MathQuestGame"), { ssr: false });
 import GruselBuilderGame from "@/app/astromath/visual-lab/games/GruselBuilderGame";
 import BildGeschichteGame from "@/app/astromath/visual-lab/games/BildGeschichteGame";
 
@@ -233,6 +235,7 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "memory-radar", type: "memory", labelKey: "memoryRadar", available: true },
   ],
   astromath: [
+    { id: "math-quest", type: "campaign", labelKey: "mathQuest", available: true },
     { id: "math-campaign", type: "campaign", labelKey: "mathCampaign", available: true },
     { id: "math-ninja", type: "spotter", labelKey: "mathNinja", available: true },
     { id: "math-defender", type: "spotter", labelKey: "mathDefender", available: true },
@@ -306,6 +309,7 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
 
 const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
   de: {
+    mathQuest: "Zahlenwelten",
     mathNinja: "Math Ninja",
     mathCampaign: "Math Odyssey",
     mathDefender: "Astro Defender",
@@ -328,6 +332,7 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     virusVault: "Virus-Tresor 🔐",
   },
   hu: {
+    mathQuest: "Számvilágok",
     mathNinja: "Math Ninja",
     mathCampaign: "Math Odyssey",
     mathDefender: "Astro Defender",
@@ -350,6 +355,7 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     virusVault: "Vírus-Páncélszekrény 🔐",
   },
   ro: {
+    mathQuest: "Lumile Numerelor",
     mathNinja: "Math Ninja",
     mathCampaign: "Math Odyssey",
     mathDefender: "Astro Defender",
@@ -372,6 +378,7 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     virusVault: "Seiful Virușilor 🔐",
   },
   en: {
+    mathQuest: "Number Worlds",
     mathNinja: "Math Ninja",
     mathCampaign: "Math Odyssey",
     mathDefender: "Astro Defender",
@@ -508,6 +515,7 @@ export default function VisualLab(props: VisualLabProps) {
 /* ------------------------------------------------------------------ */
 
 const GAME_ICONS: Record<string, { icon: LucideIcon; tone: string }> = {
+  "math-quest": { icon: Gamepad2, tone: "border-teal-300/30 bg-teal-400/10 text-teal-300" },
   "math-campaign": { icon: Rocket, tone: "border-amber-300/30 bg-amber-400/10 text-amber-300" },
   "math-ninja": { icon: Swords, tone: "border-rose-300/30 bg-rose-400/10 text-rose-300" },
   "math-defender": { icon: Shield, tone: "border-violet-300/30 bg-violet-400/10 text-violet-300" },
@@ -663,6 +671,9 @@ function AstromathGameSwitch({
     }
     if (gameId === "math-campaign") {
       return <MathCampaignGame grade={grade} lang={lang} />;
+    }
+    if (gameId === "math-quest") {
+      return <MathQuestGame grade={grade} lang={lang} />;
     }
     if (gameId === "math-ninja") {
       return <MathNinjaGame grade={grade} lang={lang} />;
