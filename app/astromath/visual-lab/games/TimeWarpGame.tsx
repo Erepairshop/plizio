@@ -78,13 +78,17 @@ const formatDuration = (minutes: number, lang: Lang) => {
 
 const randomItem = <T,>(items: T[]) => items[Math.floor(Math.random() * items.length)];
 
-const makeChoices = (answer: number, step: number, count: number, durationAnswer: boolean) => {
+const makeChoices = (answer: number, step: number, count: number, durationAnswer: boolean, uniqueAnalogFace = false) => {
   const values = new Set<number>([answer]);
+  const visualKeys = new Set<number>([uniqueAnalogFace ? normalizeMinutes(answer) % 720 : answer]);
   const offsets = Array.from({ length: 12 }, (_, index) => step * (index + 1)).flatMap((offset) => [offset, -offset]);
   for (const offset of offsets.sort(() => Math.random() - 0.5)) {
     const candidate = durationAnswer ? answer + offset : normalizeMinutes(answer + offset);
     if (durationAnswer && candidate <= 0) continue;
+    const visualKey = uniqueAnalogFace ? normalizeMinutes(candidate) % 720 : candidate;
+    if (visualKeys.has(visualKey)) continue;
     values.add(candidate);
+    visualKeys.add(visualKey);
     if (values.size >= count) break;
   }
   return [...values].sort(() => Math.random() - 0.5);
@@ -101,7 +105,7 @@ export const generateTimeChallenge = (grade: number, difficulty: MathDifficulty)
     + Math.floor(Math.random() * (60 / step)) * step;
 
   if (level === 1) {
-    return { kind: "digital-to-analog", start, answer: start, choices: makeChoices(start, step, difficulty.choices, false) };
+    return { kind: "digital-to-analog", start, answer: start, choices: makeChoices(start, step, difficulty.choices, false, true) };
   }
   if (level === 2) {
     return { kind: "analog-to-digital", start, answer: start, choices: makeChoices(start, step, difficulty.choices, false) };
