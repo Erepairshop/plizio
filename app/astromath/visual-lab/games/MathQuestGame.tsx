@@ -102,7 +102,7 @@ class MathQuestScene extends Phaser.Scene implements QuestControls {
     for (let x = 64; x < worldWidth; x += 128) this.platforms.create(x, 500, "mq-platform");
     this.createCourse(gateCount);
 
-    this.player = this.physics.add.sprite(110, 430, "mq-player").setDepth(20).setCollideWorldBounds(true);
+    this.player = this.physics.add.sprite(135, 420, "mq-player").setDepth(20).setCollideWorldBounds(true);
     this.player.setBodySize(34, 48).setOffset(5, 4);
     this.physics.add.collider(this.player, this.platforms);
     this.physics.add.collider(this.player, this.walls);
@@ -112,7 +112,7 @@ class MathQuestScene extends Phaser.Scene implements QuestControls {
     this.physics.add.overlap(this.player, this.finish, () => this.finishStage());
 
     this.cursors = this.input.keyboard!.createCursorKeys();
-    this.cameras.main.startFollow(this.player, true, 0.10, 0.10, -100, 0);
+    this.cameras.main.startFollow(this.player, true, 0.10, 0.10);
     this.emitStats();
   }
 
@@ -257,8 +257,8 @@ class MathQuestScene extends Phaser.Scene implements QuestControls {
     if (left && !right) { this.player.setVelocityX(-speed); this.player.setFlipX(true); }
     else if (right && !left) { this.player.setVelocityX(speed); this.player.setFlipX(false); }
     else this.player.setVelocityX(body.velocity.x * 0.72);
-    if (jump && this.time.now - this.lastGroundedAt < 130) {
-      this.player.setVelocityY(-455);
+    if (jump && this.time.now - this.lastGroundedAt < 170) {
+      this.player.setVelocityY(-565);
       this.lastGroundedAt = 0;
     }
     this.jumpQueued = false;
@@ -308,7 +308,7 @@ export default function MathQuestGame({ grade, lang, onDone }: Props) {
       backgroundColor: "#06111f",
       physics: { default: "arcade", arcade: { gravity: { x: 0, y: 920 }, debug: false } },
       scene,
-      scale: { mode: Phaser.Scale.ENVELOP, autoCenter: Phaser.Scale.CENTER_BOTH },
+      scale: { mode: Phaser.Scale.RESIZE, autoCenter: Phaser.Scale.CENTER_BOTH },
       render: { antialias: true, pixelArt: false },
     });
     return () => {
@@ -339,7 +339,7 @@ export default function MathQuestGame({ grade, lang, onDone }: Props) {
         <div className="flex gap-2 text-xs font-black sm:text-sm"><span className="rounded-lg bg-white/5 px-2 py-1">{t.world}: {stage}</span><span className="rounded-lg bg-rose-500/10 px-2 py-1 text-rose-200">♥ {stats.hearts}</span><span className="rounded-lg bg-amber-500/10 px-2 py-1 text-amber-200">● {stats.coins}</span><span className="rounded-lg bg-emerald-500/10 px-2 py-1 text-emerald-200">{stats.solved}/{stats.total}</span></div>
       </header>
 
-      <div className="relative h-[min(62dvh,560px)] min-h-[420px] w-full overflow-hidden bg-[#06111f] touch-none">
+      <div className="relative h-[min(54dvh,520px)] min-h-[360px] w-full overflow-hidden bg-[#06111f] touch-none sm:min-h-[420px]">
         <div ref={containerRef} className="absolute inset-0 overflow-hidden [&>canvas]:!block" />
         {phase === "playing" && <div className="pointer-events-none absolute left-1/2 top-3 z-20 w-[min(92%,560px)] -translate-x-1/2 rounded-xl border border-cyan-300/25 bg-slate-950/85 px-3 py-2 text-center font-mono text-base font-black text-white shadow-lg backdrop-blur sm:text-xl">{stats.question || t.hint}</div>}
 
@@ -353,16 +353,17 @@ export default function MathQuestGame({ grade, lang, onDone }: Props) {
           </div>
         )}
 
-        {phase === "playing" && (
-          <div className="absolute inset-x-0 bottom-3 z-20 flex items-end justify-between px-3 sm:px-5">
-            <div className="flex gap-2">
-              <button type="button" aria-label="Left" {...controlProps("left")} className="flex h-16 w-16 items-center justify-center rounded-2xl border border-white/20 bg-slate-950/75 text-3xl font-black text-white backdrop-blur active:bg-cyan-500/40">←</button>
-              <button type="button" aria-label="Right" {...controlProps("right")} className="flex h-16 w-16 items-center justify-center rounded-2xl border border-white/20 bg-slate-950/75 text-3xl font-black text-white backdrop-blur active:bg-cyan-500/40">→</button>
-            </div>
-            <button type="button" aria-label="Jump" {...controlProps("jump")} className="flex h-20 w-20 items-center justify-center rounded-full border border-amber-200/40 bg-amber-500/80 text-3xl font-black text-slate-950 shadow-lg active:scale-95">↑</button>
-          </div>
-        )}
       </div>
+
+      {phase === "playing" && (
+        <div className="flex h-24 touch-none items-center justify-between border-t border-white/10 bg-slate-950 px-3 sm:px-5">
+          <div className="flex gap-3">
+            <button type="button" aria-label="Left" {...controlProps("left")} className="flex h-16 w-16 select-none items-center justify-center rounded-2xl border border-white/20 bg-slate-800 text-3xl font-black text-white active:bg-cyan-500/40">←</button>
+            <button type="button" aria-label="Right" {...controlProps("right")} className="flex h-16 w-16 select-none items-center justify-center rounded-2xl border border-white/20 bg-slate-800 text-3xl font-black text-white active:bg-cyan-500/40">→</button>
+          </div>
+          <button type="button" aria-label="Jump" {...controlProps("jump")} className="flex h-20 w-20 select-none items-center justify-center rounded-full border border-amber-200/40 bg-amber-500 text-3xl font-black text-slate-950 shadow-lg active:scale-95">↑</button>
+        </div>
+      )}
     </div>
   );
 }
