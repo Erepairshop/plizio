@@ -13,6 +13,9 @@ export interface AngleLaserGameProps {
 const DICT = {
   en: {
     title: 'Angle Laser',
+    titleJunior: 'Angle Adventure',
+    titleMission: 'Angle Scanner',
+    titleLab: 'Precision Angle Lab',
     fire: 'FIRE',
     next: 'Next',
     target: 'Target Angle',
@@ -26,9 +29,15 @@ const DICT = {
     nextLevel: 'Next level',
     tryAgain: 'Try again',
     round: 'Round',
+    visibleHint: 'Set the shown target angle.',
+    hiddenHint: 'Read the beacon position from the angle grid.',
+    check: 'CHECK',
   },
   de: {
     title: 'Winkellaser',
+    titleJunior: 'Winkel-Abenteuer',
+    titleMission: 'Winkel-Scanner',
+    titleLab: 'Präzisionslabor Winkel',
     fire: 'FEUER',
     next: 'Weiter',
     target: 'Zielwinkel',
@@ -42,9 +51,15 @@ const DICT = {
     nextLevel: 'Nächstes Level',
     tryAgain: 'Erneut versuchen',
     round: 'Runde',
+    visibleHint: 'Stelle den angezeigten Zielwinkel ein.',
+    hiddenHint: 'Lies die Position der Bake am Winkelraster ab.',
+    check: 'PRÜFEN',
   },
   hu: {
     title: 'Lézerszög',
+    titleJunior: 'Szögkaland',
+    titleMission: 'Szögszkenner',
+    titleLab: 'Precíziós szöglabor',
     fire: 'LÖVÉS',
     next: 'Tovább',
     target: 'Célszög',
@@ -58,9 +73,15 @@ const DICT = {
     nextLevel: 'Következő szint',
     tryAgain: 'Újrapróbálom',
     round: 'Kör',
+    visibleHint: 'Állítsd be a megadott célszöget.',
+    hiddenHint: 'Olvasd le a jeladó helyzetét a szögrácsról.',
+    check: 'ELLENŐRZÉS',
   },
   ro: {
     title: 'Laser Unghiular',
+    titleJunior: 'Aventura Unghiurilor',
+    titleMission: 'Scaner de Unghiuri',
+    titleLab: 'Laborator de Precizie',
     fire: 'FOC',
     next: 'Următorul',
     target: 'Unghi Țintă',
@@ -74,6 +95,9 @@ const DICT = {
     nextLevel: 'Nivelul următor',
     tryAgain: 'Încearcă din nou',
     round: 'Rundă',
+    visibleHint: 'Setează unghiul țintă afișat.',
+    hiddenHint: 'Citește poziția balizei pe grila unghiulară.',
+    check: 'VERIFICĂ',
   }
 };
 
@@ -83,16 +107,29 @@ const getAngleOptions = (step: number): number[] => {
   return opts;
 };
 
-const PolarGrid = () => (
-  <div className="absolute inset-0 flex items-center justify-center opacity-30 pointer-events-none">
-    <div className="w-full h-[1px] bg-cyan-800 absolute" />
-    <div className="h-full w-[1px] bg-cyan-800 absolute" />
-    <div className="w-[140px] h-[140px] rounded-full border border-cyan-800 absolute" />
-    <div className="w-[280px] h-[280px] rounded-full border border-cyan-800 absolute" />
-    <div className="w-full h-[1px] bg-cyan-800 absolute rotate-45" />
-    <div className="w-full h-[1px] bg-cyan-800 absolute -rotate-45" />
-  </div>
-);
+const PolarGrid = ({ step, precision }: { step: number; precision: boolean }) => {
+  const tickStep = Math.max(5, Math.min(45, step));
+  const ticks = Array.from({ length: Math.floor(360 / tickStep) }, (_, index) => index * tickStep);
+  return (
+    <svg viewBox="0 0 100 100" className="pointer-events-none absolute inset-0 h-full w-full text-cyan-500/35" aria-hidden="true">
+      <circle cx="50" cy="50" r="44" fill="none" stroke="currentColor" strokeWidth="0.45" />
+      <circle cx="50" cy="50" r="30" fill="none" stroke="currentColor" strokeWidth="0.28" />
+      {precision && <circle cx="50" cy="50" r="16" fill="none" stroke="currentColor" strokeWidth="0.22" />}
+      {ticks.map((angle) => {
+        const radians = angle * Math.PI / 180;
+        const major = angle % 45 === 0;
+        const inner = major ? 38 : 41;
+        return <line key={angle} x1={50 + inner * Math.cos(radians)} y1={50 - inner * Math.sin(radians)} x2={50 + 44 * Math.cos(radians)} y2={50 - 44 * Math.sin(radians)} stroke="currentColor" strokeWidth={major ? 0.8 : 0.35} />;
+      })}
+      {[0, 90, 180, 270].map((angle) => {
+        const radians = angle * Math.PI / 180;
+        return <text key={angle} x={50 + 36 * Math.cos(radians)} y={50 - 36 * Math.sin(radians) + 1.4} fill="currentColor" fontSize="3.2" textAnchor="middle">{angle}°</text>;
+      })}
+      <line x1="6" y1="50" x2="94" y2="50" stroke="currentColor" strokeWidth="0.35" />
+      <line x1="50" y1="6" x2="50" y2="94" stroke="currentColor" strokeWidth="0.35" />
+    </svg>
+  );
+};
 
 const CannonSVG = () => (
   <svg viewBox="0 0 100 100" className="w-full h-full text-cyan-400 drop-shadow-[0_0_8px_rgba(34,211,238,0.8)]">
@@ -108,6 +145,24 @@ const AsteroidSVG = () => (
     <circle cx="35" cy="40" r="8" fill="#444" opacity="0.5" />
     <circle cx="65" cy="60" r="5" fill="#444" opacity="0.5" />
     <circle cx="50" cy="75" r="10" fill="#444" opacity="0.5" />
+  </svg>
+);
+
+const BeaconSVG = ({ advanced }: { advanced: boolean }) => (
+  <svg viewBox="0 0 100 100" className={`h-full w-full drop-shadow-[0_0_10px_rgba(34,211,238,0.8)] ${advanced ? "text-cyan-300" : "text-violet-300"}`}>
+    <circle cx="50" cy="50" r="32" fill="#07111f" stroke="currentColor" strokeWidth="5" />
+    <circle cx="50" cy="50" r="16" fill="none" stroke="currentColor" strokeWidth="3" strokeDasharray="5 4" />
+    <path d="M50 4 L60 22 L50 30 L40 22 Z M96 50 L78 60 L70 50 L78 40 Z M50 96 L40 78 L50 70 L60 78 Z M4 50 L22 40 L30 50 L22 60 Z" fill="currentColor" opacity="0.75" />
+    <circle cx="50" cy="50" r="5" fill="currentColor" />
+  </svg>
+);
+
+const InstrumentSVG = () => (
+  <svg viewBox="0 0 100 100" className="h-full w-full text-cyan-300 drop-shadow-[0_0_8px_rgba(34,211,238,0.7)]">
+    <circle cx="50" cy="50" r="27" fill="#07111f" stroke="currentColor" strokeWidth="3" />
+    <path d="M50 44 H94 V56 H50 Z" fill="currentColor" opacity="0.8" />
+    <circle cx="50" cy="50" r="13" fill="#0f172a" stroke="currentColor" strokeWidth="3" />
+    <circle cx="50" cy="50" r="4" fill="currentColor" />
   </svg>
 );
 
@@ -136,7 +191,8 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
 
   const generateProblem = () => {
     const opts = getAngleOptions(difficulty.angleStep);
-    const randomAngle = opts[Math.floor(Math.random() * opts.length)];
+    const candidates = difficulty.level >= 2 ? opts.filter((angle) => angle !== 0) : opts;
+    const randomAngle = candidates[Math.floor(Math.random() * candidates.length)];
     setTargetAngle(randomAngle);
     setCurrentAngle(0);
     setPhase('aiming');
@@ -197,9 +253,26 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
   const asteroidX = 120 * Math.cos(targetAngle * Math.PI / 180);
   const asteroidY = -120 * Math.sin(targetAngle * Math.PI / 180);
   const isHit = (currentAngle % 360) === (targetAngle % 360);
+  const visualMode = grade <= 3 ? 'junior' : grade <= 5 ? 'mission' : 'lab';
+  const hideTargetAngle = grade >= 5
+    ? difficulty.level >= 2
+    : grade >= 3 && difficulty.level >= 4;
+  const useAsteroid = visualMode === 'junior' && difficulty.level <= 2;
+  const precisionMode = visualMode === 'lab' || difficulty.level >= 3;
+  const displayTitle = visualMode === 'junior' ? t.titleJunior : visualMode === 'mission' ? t.titleMission : t.titleLab;
+  const shellClass = visualMode === 'junior'
+    ? 'border-violet-500/25 bg-slate-950'
+    : visualMode === 'mission'
+      ? 'border-cyan-500/25 bg-[#07111f]'
+      : 'border-sky-300/20 bg-[#050b11]';
+  const arenaClass = visualMode === 'junior'
+    ? 'border-violet-900/70 bg-gradient-to-b from-slate-900 to-violet-950/35'
+    : visualMode === 'mission'
+      ? 'border-cyan-900/80 bg-[#081522]'
+      : 'border-sky-800/60 bg-[#03090f]';
 
   return (
-    <div className="flex flex-col items-center w-full max-w-2xl mx-auto bg-slate-950 p-3 sm:p-6 rounded-2xl border border-slate-800 shadow-2xl overflow-hidden font-sans select-none">
+    <div className={`flex w-full max-w-2xl select-none flex-col items-center overflow-hidden rounded-2xl border p-3 font-sans shadow-2xl sm:p-6 ${shellClass}`}>
       <div className="w-full">
         <MathLevelBar grade={grade} lang={lang} progress={progress} mastery={mastery} onSelect={changeLevel} />
       </div>
@@ -213,18 +286,19 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
       {/* Title & Target */}
       <div className="text-center mb-4 sm:mb-6">
         <h2 className="text-2xl sm:text-3xl font-black text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500 uppercase tracking-wider sm:tracking-widest drop-shadow-[0_0_10px_rgba(34,211,238,0.3)]">
-          {t.title}
+          {displayTitle}
         </h2>
-        <div className="h-8 mt-2">
-            <p className="text-xl text-amber-300 font-mono font-bold tracking-widest">
-              {grade < 5 || phase !== 'aiming' ? `${t.target}: ${targetAngle}°` : `${t.target}: ???°`}
+        <div className="mt-2 min-h-12">
+            <p className={`font-mono text-xl font-bold tracking-widest ${visualMode === 'junior' ? 'text-amber-300' : 'text-cyan-200'}`}>
+              {!hideTargetAngle || phase !== 'aiming' ? `${t.target}: ${targetAngle}°` : `${t.target}: ???°`}
             </p>
+            <p className="mt-1 text-xs text-slate-400">{hideTargetAngle ? t.hiddenHint : t.visibleHint}</p>
         </div>
       </div>
 
       {/* Play Area */}
-      <div className="relative w-full max-w-[320px] aspect-square bg-slate-900 rounded-full border-4 border-slate-800 shadow-[0_0_30px_rgba(0,0,0,0.8)] flex items-center justify-center">
-        <PolarGrid />
+      <div className={`relative flex aspect-square w-full max-w-[320px] items-center justify-center rounded-full border-4 shadow-[0_0_30px_rgba(0,0,0,0.8)] ${arenaClass}`}>
+        <PolarGrid step={difficulty.angleStep} precision={precisionMode} />
 
         {/* Asteroid */}
         <AnimatePresence>
@@ -236,7 +310,7 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
               animate={{ scale: 1 }}
               exit={{ scale: 0 }}
             >
-               <AsteroidSVG />
+               {useAsteroid ? <AsteroidSVG /> : <BeaconSVG advanced={visualMode === 'lab'} />}
             </motion.div>
           )}
         </AnimatePresence>
@@ -251,8 +325,8 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
               animate={{ scale: 1.5, opacity: 0 }}
               transition={{ duration: 0.6, ease: "easeOut" }}
             >
-              <div className="w-full h-full bg-amber-400 rounded-full blur-xl" />
-              <div className="absolute inset-4 bg-white rounded-full blur-md" />
+              <div className={`h-full w-full rounded-full blur-xl ${useAsteroid ? 'bg-amber-400' : 'border-4 border-cyan-300 bg-cyan-400/25'}`} />
+              <div className={`absolute inset-4 rounded-full blur-md ${useAsteroid ? 'bg-white' : 'border-2 border-white/80'}`} />
             </motion.div>
           )}
         </AnimatePresence>
@@ -282,7 +356,7 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
           style={{ marginLeft: -32, marginTop: -32 }}
           animate={{ rotate: -currentAngle }}
         >
-           <CannonSVG />
+           {useAsteroid ? <CannonSVG /> : <InstrumentSVG />}
         </motion.div>
       </div>
 
@@ -302,11 +376,11 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
                 className="flex-1 cursor-pointer accent-cyan-500"
               />
             </div>
-            <button 
+            <button
               onClick={handleFire}
-              className="mt-2 px-10 py-3 bg-red-600 hover:bg-red-500 active:bg-red-700 rounded-full text-white font-black text-xl tracking-widest shadow-[0_0_15px_rgba(220,38,38,0.5)] transition-all"
+              className={`mt-2 rounded-full px-10 py-3 text-xl font-black tracking-widest text-white transition-all active:scale-95 ${visualMode === 'junior' ? 'bg-red-600 shadow-[0_0_15px_rgba(220,38,38,0.5)] hover:bg-red-500' : 'border border-cyan-300/40 bg-cyan-500/20 shadow-[0_0_18px_rgba(34,211,238,0.2)] hover:bg-cyan-500/30'}`}
             >
-              {t.fire}
+              {precisionMode ? t.check : t.fire}
             </button>
           </>
         ) : phase === 'result' ? (
@@ -332,13 +406,13 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
               animate={{ y: 0, opacity: 1 }}
               className="text-3xl font-black text-amber-400 uppercase tracking-widest drop-shadow-[0_0_10px_rgba(251,191,36,0.5)]"
             >
-              {score >= MAX_ROUNDS ? t.levelDone : t.roundOver}
+              {score >= round ? t.levelDone : t.roundOver}
             </motion.p>
             <button 
               onClick={resetGame}
               className="px-8 py-2 bg-blue-600 hover:bg-blue-500 rounded-full text-white font-bold transition-all"
             >
-              {score >= MAX_ROUNDS ? (progress.selectedLevel < 5 ? t.nextLevel : t.playAgain) : t.tryAgain}
+              {score >= round ? (round < 8 ? t.nextLevel : t.playAgain) : t.tryAgain}
             </button>
           </>
         ) : null}
