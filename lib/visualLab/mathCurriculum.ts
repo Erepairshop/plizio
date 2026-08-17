@@ -122,3 +122,19 @@ export const GAME_SKILLS: Record<MathGameId, MathSkill[]> = {
   "meteor-scale": ["operations", "patterns-algebra", "decimals-percent"],
   "data-orbit": ["data-probability", "patterns-algebra"],
 };
+
+const MATH_GAME_MIN_GRADE: Record<string, number> = {
+  "math-campaign": 1,
+  "math-ninja": 1,
+  "math-defender": 1,
+  "time-warp": 1,
+  "meteor-scale": 1,
+  "data-orbit": 1,
+  "angle-laser": 2,
+  "fraction-reactor": 3,
+  "star-mapper": 3,
+};
+
+export function isMathGameAvailableForGrade(gameId: string, grade: number): boolean {
+  return clampGrade(grade) >= (MATH_GAME_MIN_GRADE[gameId] ?? 1);
+}

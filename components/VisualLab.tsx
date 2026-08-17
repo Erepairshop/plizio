@@ -58,6 +58,7 @@ import { KEMIA_POOLS } from "@/lib/visualLab/pools/kemiaPool";
 import { BIOLOGIE_POOLS } from "@/lib/visualLab/pools/biologiePool";
 import { GESCHICHTE_POOLS } from "@/lib/visualLab/pools/geschichtePool";
 import type { GeographieVisualLabGradePool } from "@/lib/visualLab/types";
+import { isMathGameAvailableForGrade } from "@/lib/visualLab/mathCurriculum";
 
 const SACHKUNDE_POOLS: Record<number, SachkundeVisualLabGradePool> = {
   1: SACHKUNDE_VISUAL_LAB_K1,
@@ -391,8 +392,16 @@ for (const lg of ["de", "hu", "ro", "en"] as Lang[]) {
 function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps) {
   const [activeGame, setActiveGame] = useState<string | null>(null);
   const t = T[lang] ?? T.en;
-  const games = SUBJECT_GAMES[subject] ?? [];
+  const games = (SUBJECT_GAMES[subject] ?? []).filter((game) =>
+    subject !== "astromath" || isMathGameAvailableForGrade(game.id, grade)
+  );
   const isOpen = open;
+
+  useEffect(() => {
+    if (activeGame && subject === "astromath" && !isMathGameAvailableForGrade(activeGame, grade)) {
+      setActiveGame(null);
+    }
+  }, [activeGame, grade, subject]);
 
   // Lock body scroll while open
   useEffect(() => {
@@ -626,6 +635,9 @@ function AstromathGameSwitch({
     lang: Lang;
     tSoon: string;
   }) {
+    if (!isMathGameAvailableForGrade(gameId, grade)) {
+      return <FallbackBox title={gameId} info={tSoon} />;
+    }
     if (gameId === "math-campaign") {
       return <MathCampaignGame grade={grade} lang={lang} />;
     }
@@ -636,7 +648,6 @@ function AstromathGameSwitch({
     return <MathDefenderGame grade={grade} lang={lang} />;
   }
   if (gameId === "fraction-reactor") {
-    if (grade < 3) return <FallbackBox title="Bruchreaktor" info={lang === "hu" ? "Ez a játék 3. osztálytól elérhető." : lang === "ro" ? "Disponibil din clasa 3." : lang === "en" ? "Available from grade 3." : "Ab Klasse 3 verfügbar."} />;
     return <FractionReactorGame grade={grade} lang={lang} />;
   }
   if (gameId === "angle-laser") {

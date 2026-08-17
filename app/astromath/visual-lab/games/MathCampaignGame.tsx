@@ -4,6 +4,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import dynamic from "next/dynamic";
 import { AnimatePresence, motion } from "framer-motion";
 import { ArrowLeft, ArrowRight, Crown, Lock, RefreshCw, Sparkles, Star, Trophy, Zap } from "lucide-react";
+import { isMathGameAvailableForGrade } from "@/lib/visualLab/mathCurriculum";
 const MathNinjaGame = dynamic(() => import("./MathNinjaGame"));
 const MathDefenderGame = dynamic(() => import("./MathDefenderGame"));
 const FractionReactorGame = dynamic(() => import("./FractionReactorGame"));
@@ -142,7 +143,10 @@ function StageRow({ stage, lang, result, unlocked, onStart }: { stage: StageDef;
 
 export default function MathCampaignGame({ grade, lang, onDone }: Props) {
   const t = T[lang] ?? T.en;
-  const stages = useMemo(() => STAGES.filter(s => !(s.gameId === "fraction-reactor" && grade < 3)), [grade]);
+  const stages = useMemo(
+    () => STAGES.filter((stage) => isMathGameAvailableForGrade(stage.gameId, grade)),
+    [grade],
+  );
   const [save, setSave] = useState<SaveData>(() => loadSave(grade));
   const [view, setView] = useState<"hub" | "stage" | "result">("hub");
   const [activeStageId, setActiveStageId] = useState<StageId | null>(null);
