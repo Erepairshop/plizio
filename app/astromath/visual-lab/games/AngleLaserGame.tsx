@@ -32,6 +32,10 @@ const DICT = {
     visibleHint: 'Set the shown target angle.',
     hiddenHint: 'Read the beacon position from the angle grid.',
     check: 'CHECK',
+    adjust: 'ADJUST',
+    higher: 'Aim higher.',
+    lower: 'Aim lower.',
+    attempts: 'Attempts left',
   },
   de: {
     title: 'Winkellaser',
@@ -54,6 +58,10 @@ const DICT = {
     visibleHint: 'Stelle den angezeigten Zielwinkel ein.',
     hiddenHint: 'Lies die Position der Bake am Winkelraster ab.',
     check: 'PRÜFEN',
+    adjust: 'NACHSTELLEN',
+    higher: 'Stelle einen größeren Winkel ein.',
+    lower: 'Stelle einen kleineren Winkel ein.',
+    attempts: 'Versuche übrig',
   },
   hu: {
     title: 'Lézerszög',
@@ -76,6 +84,10 @@ const DICT = {
     visibleHint: 'Állítsd be a megadott célszöget.',
     hiddenHint: 'Olvasd le a jeladó helyzetét a szögrácsról.',
     check: 'ELLENŐRZÉS',
+    adjust: 'FINOMÍTÁS',
+    higher: 'Nagyobb szöget állíts be.',
+    lower: 'Kisebb szöget állíts be.',
+    attempts: 'Maradék próbák',
   },
   ro: {
     title: 'Laser Unghiular',
@@ -98,6 +110,10 @@ const DICT = {
     visibleHint: 'Setează unghiul țintă afișat.',
     hiddenHint: 'Citește poziția balizei pe grila unghiulară.',
     check: 'VERIFICĂ',
+    adjust: 'AJUSTEAZĂ',
+    higher: 'Alege un unghi mai mare.',
+    lower: 'Alege un unghi mai mic.',
+    attempts: 'Încercări rămase',
   }
 };
 
@@ -106,6 +122,92 @@ const getAngleOptions = (step: number): number[] => {
   for (let i = 0; i < 360; i += step) opts.push(i);
   return opts;
 };
+
+type AngleCategory = 'acute' | 'right' | 'obtuse' | 'straight' | 'reflex';
+type AngleChallenge =
+  | { kind: 'exact'; target: number }
+  | { kind: 'category'; target: number; category: AngleCategory }
+  | { kind: 'sum'; target: number; left: number; right: number }
+  | { kind: 'relation'; target: number; given: number; whole: number }
+  | { kind: 'calibration'; target: number; lower: number; upper: number };
+
+const normalizeAngle = (angle: number) => ((angle % 360) + 360) % 360;
+
+const categoryForAngle = (angle: number): AngleCategory | null => {
+  const normalized = normalizeAngle(angle);
+  if (normalized > 0 && normalized < 90) return 'acute';
+  if (normalized === 90) return 'right';
+  if (normalized > 90 && normalized < 180) return 'obtuse';
+  if (normalized === 180) return 'straight';
+  if (normalized > 180 && normalized < 360) return 'reflex';
+  return null;
+};
+
+const categoryName = (category: AngleCategory, lang: AngleLaserGameProps['lang']) => {
+  const names = {
+    en: { acute: 'acute angle', right: 'right angle', obtuse: 'obtuse angle', straight: 'straight angle', reflex: 'reflex angle' },
+    de: { acute: 'spitzen Winkel', right: 'rechten Winkel', obtuse: 'stumpfen Winkel', straight: 'gestreckten Winkel', reflex: 'überstumpfen Winkel' },
+    hu: { acute: 'hegyesszöget', right: 'derékszöget', obtuse: 'tompaszöget', straight: 'egyenesszöget', reflex: 'homorú szöget' },
+    ro: { acute: 'un unghi ascuțit', right: 'un unghi drept', obtuse: 'un unghi obtuz', straight: 'un unghi alungit', reflex: 'un unghi reflex' },
+  };
+  return names[lang][category];
+};
+
+const challengePrompt = (challenge: AngleChallenge, lang: AngleLaserGameProps['lang']) => {
+  if (challenge.kind === 'exact') {
+    return lang === 'de' ? `Stelle ${challenge.target}° ein.` : lang === 'hu' ? `Állíts be ${challenge.target}°-ot.` : lang === 'ro' ? `Setează ${challenge.target}°.` : `Set ${challenge.target}°.`;
+  }
+  if (challenge.kind === 'category') {
+    const name = categoryName(challenge.category, lang);
+    return lang === 'de' ? `Stelle einen ${name} ein.` : lang === 'hu' ? `Állíts be egy ${name}.` : lang === 'ro' ? `Setează ${name}.` : `Set a ${name}.`;
+  }
+  if (challenge.kind === 'sum') {
+    return lang === 'de' ? `Berechne und stelle ein: ${challenge.left}° + ${challenge.right}°` : lang === 'hu' ? `Számold ki és állítsd be: ${challenge.left}° + ${challenge.right}°` : lang === 'ro' ? `Calculează și setează: ${challenge.left}° + ${challenge.right}°` : `Calculate and set: ${challenge.left}° + ${challenge.right}°`;
+  }
+  if (challenge.kind === 'relation') {
+    return lang === 'de' ? `Welcher Winkel ergänzt ${challenge.given}° auf ${challenge.whole}°?` : lang === 'hu' ? `Mekkora szög egészíti ki ${challenge.given}°-ot ${challenge.whole}°-ra?` : lang === 'ro' ? `Ce unghi completează ${challenge.given}° până la ${challenge.whole}°?` : `Which angle completes ${challenge.given}° to ${challenge.whole}°?`;
+  }
+  return lang === 'de' ? `Unsichtbares Ziel zwischen ${challenge.lower}° und ${challenge.upper}°.` : lang === 'hu' ? `Láthatatlan cél ${challenge.lower}° és ${challenge.upper}° között.` : lang === 'ro' ? `Țintă invizibilă între ${challenge.lower}° și ${challenge.upper}°.` : `Hidden target between ${challenge.lower}° and ${challenge.upper}°.`;
+};
+
+export const generateAngleChallenge = (grade: number, level: number, step: number): AngleChallenge => {
+  const options = getAngleOptions(step).filter((angle) => angle > 0);
+  const pick = <T,>(items: T[]): T => items[Math.floor(Math.random() * items.length)];
+  if (level <= 1) return { kind: 'exact', target: pick(options) };
+
+  if (level === 2) {
+    const usable = options.filter((angle) => categoryForAngle(angle) !== null);
+    const target = pick(usable);
+    return { kind: 'category', target, category: categoryForAngle(target)! };
+  }
+
+  if (level === 3) {
+    const usable = options.filter((angle) => angle >= step * 2);
+    const target = pick(usable.length ? usable : options);
+    const splitSteps = Math.max(1, Math.floor(target / step) - 1);
+    const left = step * (1 + Math.floor(Math.random() * splitSteps));
+    return { kind: 'sum', target, left, right: target - left };
+  }
+
+  if (level === 4) {
+    const wholes = grade <= 2 ? [180, 360] : [90, 180, 360];
+    const possible = wholes.flatMap((whole) => options.filter((target) => target < whole).map((target) => ({ whole, target })));
+    const selected = pick(possible);
+    return { kind: 'relation', target: selected.target, given: selected.whole - selected.target, whole: selected.whole };
+  }
+
+  const target = pick(options);
+  return {
+    kind: 'calibration',
+    target,
+    lower: Math.max(0, target - step * 4),
+    upper: Math.min(360, target + step * 4),
+  };
+};
+
+const isCorrectAnswer = (challenge: AngleChallenge, angle: number) => challenge.kind === 'category'
+  ? categoryForAngle(angle) === challenge.category
+  : normalizeAngle(angle) === normalizeAngle(challenge.target);
 
 const PolarGrid = ({ step, precision }: { step: number; precision: boolean }) => {
   const tickStep = Math.max(5, Math.min(45, step));
@@ -173,8 +275,9 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
   const [round, setRound] = useState(1);
   const [score, setScore] = useState(0);
   
-  const [targetAngle, setTargetAngle] = useState(90);
+  const [challenge, setChallenge] = useState<AngleChallenge>({ kind: 'exact', target: 90 });
   const [currentAngle, setCurrentAngle] = useState(0);
+  const [attempts, setAttempts] = useState(0);
   
   const [phase, setPhase] = useState<'aiming' | 'firing' | 'result' | 'gameover'>('aiming');
   const fireTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
@@ -187,14 +290,12 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
   useEffect(() => {
     generateProblem();
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [round, grade, difficulty.angleStep]);
+  }, [round, grade, difficulty.angleStep, difficulty.level]);
 
   const generateProblem = () => {
-    const opts = getAngleOptions(difficulty.angleStep);
-    const candidates = difficulty.level >= 2 ? opts.filter((angle) => angle !== 0) : opts;
-    const randomAngle = candidates[Math.floor(Math.random() * candidates.length)];
-    setTargetAngle(randomAngle);
+    setChallenge(generateAngleChallenge(grade, difficulty.level, difficulty.angleStep));
     setCurrentAngle(0);
+    setAttempts(0);
     setPhase('aiming');
     fireLockedRef.current = false;
   };
@@ -206,12 +307,20 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
     if (fireTimerRef.current) clearTimeout(fireTimerRef.current);
     fireTimerRef.current = setTimeout(() => {
       setPhase('result');
-      const hit = (currentAngle % 360) === (targetAngle % 360);
-      recordAnswer(hit);
+      const hit = isCorrectAnswer(challenge, currentAngle);
+      const nextAttempts = attempts + 1;
+      setAttempts(nextAttempts);
+      const roundResolved = challenge.kind !== 'calibration' || hit || nextAttempts >= 5;
+      if (roundResolved) recordAnswer(hit);
       if (hit) {
         setScore(s => s + 1);
       }
     }, 400);
+  };
+
+  const adjustAim = () => {
+    setPhase('aiming');
+    fireLockedRef.current = false;
   };
 
   const nextRound = () => {
@@ -250,13 +359,14 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
     fireLockedRef.current = false;
   };
 
-  const asteroidX = 120 * Math.cos(targetAngle * Math.PI / 180);
-  const asteroidY = -120 * Math.sin(targetAngle * Math.PI / 180);
-  const isHit = (currentAngle % 360) === (targetAngle % 360);
+  const targetAngle = challenge.target;
+  const markerAngle = challenge.kind === 'category' && isCorrectAnswer(challenge, currentAngle) ? currentAngle : targetAngle;
+  const asteroidX = 120 * Math.cos(markerAngle * Math.PI / 180);
+  const asteroidY = -120 * Math.sin(markerAngle * Math.PI / 180);
+  const isHit = isCorrectAnswer(challenge, currentAngle);
+  const calibrationCanRetry = challenge.kind === 'calibration' && phase === 'result' && !isHit && attempts < 5;
+  const showBeacon = challenge.kind === 'exact' || (phase === 'result' && !calibrationCanRetry);
   const visualMode = grade <= 3 ? 'junior' : grade <= 5 ? 'mission' : 'lab';
-  const hideTargetAngle = grade >= 5
-    ? difficulty.level >= 2
-    : grade >= 3 && difficulty.level >= 4;
   const useAsteroid = visualMode === 'junior' && difficulty.level <= 2;
   const precisionMode = visualMode === 'lab' || difficulty.level >= 3;
   const displayTitle = visualMode === 'junior' ? t.titleJunior : visualMode === 'mission' ? t.titleMission : t.titleLab;
@@ -289,10 +399,13 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
           {displayTitle}
         </h2>
         <div className="mt-2 min-h-12">
-            <p className={`font-mono text-xl font-bold tracking-widest ${visualMode === 'junior' ? 'text-amber-300' : 'text-cyan-200'}`}>
-              {!hideTargetAngle || phase !== 'aiming' ? `${t.target}: ${targetAngle}°` : `${t.target}: ???°`}
+            <p className={`text-base font-bold sm:text-lg ${visualMode === 'junior' ? 'text-amber-300' : 'text-cyan-200'}`}>
+              {challengePrompt(challenge, lang)}
             </p>
-            <p className="mt-1 text-xs text-slate-400">{hideTargetAngle ? t.hiddenHint : t.visibleHint}</p>
+            {challenge.kind === 'calibration' && <p className="mt-1 text-xs text-slate-400">{t.attempts}: {Math.max(0, 5 - attempts)}</p>}
+            {phase === 'result' && !calibrationCanRetry && challenge.kind !== 'category' && (
+              <p className="mt-1 font-mono text-sm text-slate-400">{t.target}: {targetAngle}°</p>
+            )}
         </div>
       </div>
 
@@ -302,7 +415,7 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
 
         {/* Asteroid */}
         <AnimatePresence>
-          {!(phase === 'result' && isHit) && (
+          {showBeacon && !(phase === 'result' && isHit) && (
             <motion.div 
               className="absolute left-1/2 top-1/2 w-10 h-10"
               style={{ marginLeft: asteroidX - 20, marginTop: asteroidY - 20 }}
@@ -385,18 +498,18 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
           </>
         ) : phase === 'result' ? (
           <>
-            <motion.p 
+            <motion.p
               initial={{ scale: 0.5, opacity: 0 }}
               animate={{ scale: 1, opacity: 1 }}
               className={`text-2xl font-black uppercase tracking-widest ${isHit ? 'text-green-400 drop-shadow-[0_0_8px_rgba(74,222,128,0.8)]' : 'text-red-400 drop-shadow-[0_0_8px_rgba(248,113,113,0.8)]'}`}
             >
-              {isHit ? t.hit : t.miss}
+              {isHit ? t.hit : calibrationCanRetry ? (currentAngle < targetAngle ? t.higher : t.lower) : t.miss}
             </motion.p>
-            <button 
-              onClick={nextRound}
+            <button
+              onClick={calibrationCanRetry ? adjustAim : nextRound}
               className="px-8 py-2 bg-cyan-600 hover:bg-cyan-500 rounded-full text-white font-bold transition-all"
             >
-              {t.next}
+              {calibrationCanRetry ? t.adjust : t.next}
             </button>
           </>
         ) : phase === 'gameover' ? (
