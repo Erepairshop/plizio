@@ -3,7 +3,22 @@
 import { useState, useEffect } from "react";
 import dynamic from "next/dynamic";
 import { motion, AnimatePresence } from "framer-motion";
-import { X, Puzzle, Landmark, Star } from "lucide-react";
+import {
+  X,
+  Puzzle,
+  Landmark,
+  Star,
+  Rocket,
+  Swords,
+  Shield,
+  ChartPie,
+  Crosshair,
+  Clock3,
+  MapPinned,
+  Scale,
+  ChartNoAxesColumn,
+  type LucideIcon,
+} from "lucide-react";
 import VisualLabIcon from "./VisualLabIcon";
 import { shuffleDeterministic, useTimeoutRegistry } from "./astro-games/utils";
 import MeteorCatchGame from "@/app/astro-sachkunde/visual-lab/games/MeteorCatchGame";
@@ -492,16 +507,24 @@ export default function VisualLab(props: VisualLabProps) {
 /* GamePicker — choose which visual game                               */
 /* ------------------------------------------------------------------ */
 
-function gameIcon(type: VisualLabGameType, available: boolean) {
-  const cls = available ? "text-cyan-300" : "text-white/40";
-  switch (type) {
-    case "timeline":
-      return <Landmark size={22} className={cls} />;
-    case "campaign":
-      return <Star size={22} className={cls} />;
-    default:
-      return <Puzzle size={22} className={cls} />;
-  }
+const GAME_ICONS: Record<string, { icon: LucideIcon; tone: string }> = {
+  "math-campaign": { icon: Rocket, tone: "border-amber-300/30 bg-amber-400/10 text-amber-300" },
+  "math-ninja": { icon: Swords, tone: "border-rose-300/30 bg-rose-400/10 text-rose-300" },
+  "math-defender": { icon: Shield, tone: "border-violet-300/30 bg-violet-400/10 text-violet-300" },
+  "fraction-reactor": { icon: ChartPie, tone: "border-emerald-300/30 bg-emerald-400/10 text-emerald-300" },
+  "angle-laser": { icon: Crosshair, tone: "border-orange-300/30 bg-orange-400/10 text-orange-300" },
+  "time-warp": { icon: Clock3, tone: "border-pink-300/30 bg-pink-400/10 text-pink-300" },
+  "star-mapper": { icon: MapPinned, tone: "border-sky-300/30 bg-sky-400/10 text-sky-300" },
+  "meteor-scale": { icon: Scale, tone: "border-yellow-300/30 bg-yellow-400/10 text-yellow-300" },
+  "data-orbit": { icon: ChartNoAxesColumn, tone: "border-cyan-300/30 bg-cyan-400/10 text-cyan-300" },
+};
+
+function gameIcon(game: VisualLabGame) {
+  const fallbackIcon = game.type === "timeline" ? Landmark : game.type === "campaign" ? Star : Puzzle;
+  const config = GAME_ICONS[game.id];
+  const Icon = config?.icon ?? fallbackIcon;
+  const tone = game.available ? config?.tone ?? "border-cyan-300/25 bg-cyan-400/10 text-cyan-300" : "border-white/10 bg-white/5 text-white/40";
+  return <span className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-xl border ${tone}`}><Icon size={23} aria-hidden="true" /></span>;
 }
 
 function GamePicker({
@@ -537,7 +560,7 @@ function GamePicker({
             `}
           >
             <div className="flex items-center gap-3">
-              {gameIcon(g.type, g.available)}
+              {gameIcon(g)}
               <div className="flex-1">
                 <div className="text-white/90 font-medium">{t[g.labelKey] ?? g.id}</div>
                 {!g.available && (
