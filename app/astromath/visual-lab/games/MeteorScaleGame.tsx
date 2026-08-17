@@ -7,10 +7,17 @@ import { MathLevelBar, useMathGameProgress } from "@/components/visual-lab/MathG
 import { difficultyFor, type MathDifficulty } from "@/lib/visualLab/mathCurriculum";
 
 const DICTIONARY = {
-  en: { title: "Meteor Scale", score: "Score", gameOver: "Level complete!", next: "Continue", playAgain: "Continue learning", tryAgain: "Try again", choose: "Choose the missing number" },
-  de: { title: "Meteor-Waage", score: "Punkte", gameOver: "Level geschafft!", next: "Weiter", playAgain: "Weiterlernen", tryAgain: "Erneut versuchen", choose: "Wähle die fehlende Zahl" },
-  hu: { title: "Meteor Mérleg", score: "Pontszám", gameOver: "Szint teljesítve!", next: "Tovább", playAgain: "Tanulás folytatása", tryAgain: "Újrapróbálom", choose: "Válaszd ki a hiányzó számot" },
-  ro: { title: "Balanța Meteorilor", score: "Scor", gameOver: "Nivel complet!", next: "Continuă", playAgain: "Continuă să înveți", tryAgain: "Încearcă din nou", choose: "Alege numărul lipsă" },
+  en: { juniorTitle: "Meteor Balance", missionTitle: "Balance Mission", labTitle: "Equation Lab", score: "Score", gameOver: "Level complete!", next: "Continue", playAgain: "Continue learning", tryAgain: "Try again", choose: "Which number keeps both sides equal?", correct: "Balanced!" },
+  de: { juniorTitle: "Meteor-Waage", missionTitle: "Balance-Mission", labTitle: "Gleichungslabor", score: "Punkte", gameOver: "Level geschafft!", next: "Weiter", playAgain: "Weiterlernen", tryAgain: "Erneut versuchen", choose: "Welche Zahl hält beide Seiten gleich?", correct: "Im Gleichgewicht!" },
+  hu: { juniorTitle: "Meteor Mérleg", missionTitle: "Egyensúly-misszió", labTitle: "Egyenletlabor", score: "Pontszám", gameOver: "Szint teljesítve!", next: "Tovább", playAgain: "Tanulás folytatása", tryAgain: "Újrapróbálom", choose: "Melyik szám tartja egyensúlyban a két oldalt?", correct: "Egyensúlyban!" },
+  ro: { juniorTitle: "Balanța Meteorilor", missionTitle: "Misiunea Echilibrului", labTitle: "Laborator de Ecuații", score: "Scor", gameOver: "Nivel complet!", next: "Continuă", playAgain: "Continuă să înveți", tryAgain: "Încearcă din nou", choose: "Ce număr menține cele două părți egale?", correct: "Echilibrat!" },
+};
+
+const SKILL_LABELS = {
+  en: { addition: "Missing addend", inverse: "Inverse operation", groups: "Equal groups", equivalence: "Equivalent expressions", "two-step": "Two-step equation", percent: "Percentage equation" },
+  de: { addition: "Fehlender Summand", inverse: "Umkehraufgabe", groups: "Gleiche Gruppen", equivalence: "Gleichwertige Terme", "two-step": "Zweistufige Gleichung", percent: "Prozentgleichung" },
+  hu: { addition: "Hiányzó tag", inverse: "Fordított művelet", groups: "Egyenlő csoportok", equivalence: "Egyenértékű kifejezések", "two-step": "Kétlépéses egyenlet", percent: "Százalékegyenlet" },
+  ro: { addition: "Termen lipsă", inverse: "Operație inversă", groups: "Grupuri egale", equivalence: "Expresii echivalente", "two-step": "Ecuație în doi pași", percent: "Ecuație procentuală" },
 };
 
 interface MeteorScaleGameProps {
@@ -20,6 +27,7 @@ interface MeteorScaleGameProps {
 }
 
 interface Problem {
+  skill: "addition" | "inverse" | "groups" | "equivalence" | "two-step" | "percent";
   leftDisplay: string;
   rightPrefix: string;
   rightSuffix: string;
@@ -41,71 +49,86 @@ function randomInt(min: number, max: number): number {
 }
 
 export function generateMeteorProblem(grade: number, difficulty: MathDifficulty): Problem {
+  let skill: Problem["skill"] = "addition";
   let leftDisplay = "";
   let rightPrefix = "";
   let rightSuffix = "";
   let targetValue = 0;
+  const level = difficulty.level;
+  const gradeCap = grade === 1 ? 20 : grade === 2 ? 100 : grade === 3 ? 1_000 : grade === 4 ? 10_000 : 1_000;
+  const juniorCap = Math.min(difficulty.numberLimit, gradeCap);
 
-  if (grade <= 2) {
-    const cap = Math.min(difficulty.numberLimit, 10 + difficulty.level * (grade === 1 ? 2 : 8));
-    targetValue = randomInt(1, Math.max(2, Math.floor(cap / 2)));
-    const base = randomInt(0, Math.max(1, cap - targetValue));
-    if (difficulty.level >= 4 && base + targetValue > targetValue) {
-      leftDisplay = String(base);
-      rightPrefix = `${base + targetValue} − `;
-    } else {
-      leftDisplay = String(base + targetValue);
-      rightPrefix = `${base} + `;
-    }
-  } else if (grade <= 4) {
-    const cap = Math.min(difficulty.numberLimit, grade === 3 ? 500 : 2_000);
-    if (difficulty.level >= 4 && Math.random() > 0.45) {
-      const factor = randomInt(2, Math.min(12, 3 + difficulty.level * 2));
-      targetValue = randomInt(2, Math.max(3, Math.min(20, Math.floor(cap / factor))));
-      leftDisplay = String(factor * targetValue);
-      rightPrefix = `${factor} × `;
-    } else if (Math.random() > 0.5) {
-      const leftValue = randomInt(10, Math.max(20, Math.floor(cap * 0.65)));
-      targetValue = randomInt(5, Math.max(10, Math.min(Math.floor(cap * 0.3), leftValue)));
-      leftDisplay = String(leftValue);
-      rightPrefix = `${leftValue + targetValue} − `;
-    } else {
-      targetValue = randomInt(5, Math.max(10, Math.floor(cap * 0.35)));
-      const base = randomInt(10, Math.max(20, cap - targetValue));
-      leftDisplay = String(base + targetValue);
-      rightPrefix = `${base} + `;
-    }
+  if (level === 1) {
+    skill = "addition";
+    targetValue = randomInt(1, Math.max(2, Math.floor(juniorCap / 2)));
+    const base = randomInt(0, Math.max(1, juniorCap - targetValue));
+    leftDisplay = String(base + targetValue);
+    rightPrefix = `${base} + `;
+  } else if (level === 2) {
+    skill = "inverse";
+    const result = randomInt(0, Math.max(2, Math.floor(juniorCap / 2)));
+    targetValue = randomInt(1, Math.max(2, juniorCap - result));
+    leftDisplay = String(result);
+    rightPrefix = `${result + targetValue} − `;
+  } else if (level === 3 && grade <= 1) {
+    skill = "equivalence";
+    const leftA = randomInt(1, 9);
+    const leftB = randomInt(1, 10);
+    const total = leftA + leftB;
+    const rightBase = randomInt(0, Math.max(0, total - 1));
+    targetValue = total - rightBase;
+    leftDisplay = `${leftA} + ${leftB}`;
+    rightPrefix = `${rightBase} + `;
+  } else if (level === 3) {
+    skill = "groups";
+    const factorLimit = grade === 2 ? 5 : Math.min(12, 5 + grade);
+    const factor = randomInt(2, factorLimit);
+    targetValue = randomInt(2, grade === 2 ? 10 : Math.min(30, 8 + grade * 3));
+    leftDisplay = String(factor * targetValue);
+    rightPrefix = `${factor} × `;
+  } else if (level === 4 && grade <= 2) {
+    skill = "equivalence";
+    const cap = grade === 1 ? 20 : 100;
+    const leftA = randomInt(2, Math.max(3, Math.floor(cap * 0.55)));
+    const leftB = randomInt(1, Math.max(2, Math.min(leftA, Math.floor(cap * 0.3))));
+    const total = leftA + leftB;
+    const rightBase = randomInt(1, Math.max(2, total - 1));
+    targetValue = total - rightBase;
+    leftDisplay = `${leftA} + ${leftB}`;
+    rightPrefix = `${rightBase} + `;
+  } else if (level === 4) {
+    skill = "two-step";
+    const factor = randomInt(2, Math.min(10, grade + 3));
+    const offset = randomInt(1, Math.max(4, grade * 3));
+    targetValue = randomInt(2, Math.min(30, 8 + grade * 3));
+    leftDisplay = String(factor * targetValue + offset);
+    rightPrefix = `${factor} × `;
+    rightSuffix = ` + ${offset}`;
+  } else if (grade <= 2) {
+    skill = "equivalence";
+    const cap = grade === 1 ? 20 : 100;
+    const total = randomInt(5, cap);
+    const leftA = randomInt(1, total - 1);
+    const rightBase = randomInt(1, total - 1);
+    targetValue = total - rightBase;
+    leftDisplay = `${leftA} + ${total - leftA}`;
+    rightPrefix = `${rightBase} + `;
+  } else if (grade <= 5) {
+    skill = "two-step";
+    const factor = randomInt(2, Math.min(12, grade + 5));
+    const offset = randomInt(1, grade * 4);
+    targetValue = randomInt(2, Math.min(35, 10 + grade * 4));
+    leftDisplay = String(factor * (targetValue + offset));
+    rightPrefix = `${factor} × (`;
+    rightSuffix = ` + ${offset})`;
   } else {
-    const mode = difficulty.level >= 5 && grade >= 6
-      ? randomInt(0, 3)
-      : difficulty.level >= 3
-        ? randomInt(0, 2)
-        : randomInt(0, 1);
-    if (mode === 0) {
-      const factor = randomInt(2, Math.min(15, 5 + difficulty.level * 2));
-      targetValue = randomInt(2, Math.min(30, 8 + difficulty.level * 4));
-      leftDisplay = String(factor * targetValue);
-      rightPrefix = `${factor} × `;
-    } else if (mode === 1) {
-      const divisor = randomInt(2, Math.min(12, 4 + difficulty.level * 2));
-      const result = randomInt(2, Math.min(30, 8 + difficulty.level * 4));
-      targetValue = divisor * result;
-      leftDisplay = String(result);
-      rightSuffix = ` ÷ ${divisor}`;
-    } else if (mode === 2) {
-      const factor = randomInt(2, Math.min(10, 3 + difficulty.level));
-      const offset = randomInt(1, 5 * difficulty.level);
-      targetValue = randomInt(2, Math.min(25, 6 + difficulty.level * 4));
-      leftDisplay = String(factor * targetValue + offset);
-      rightPrefix = `${factor} × `;
-      rightSuffix = ` + ${offset}`;
-    } else {
-      const percent = [10, 20, 25, 50][randomInt(0, 3)];
-      const unit = randomInt(1, 4 + difficulty.level);
-      targetValue = unit * (100 / percent);
-      leftDisplay = String(unit);
-      rightPrefix = `${percent}% × `;
-    }
+    skill = "percent";
+    const percents = [10, 20, 25, 50];
+    const percent = percents[randomInt(0, percents.length - 1)];
+    const unit = randomInt(1, 4 + grade);
+    targetValue = unit * (100 / percent);
+    leftDisplay = String(unit);
+    rightPrefix = `${percent}% × `;
   }
 
   const meteorValues = [targetValue];
@@ -115,7 +138,7 @@ export function generateMeteorProblem(grade: number, difficulty: MathDifficulty)
     if (wrong >= 0 && wrong !== targetValue && !meteorValues.includes(wrong)) meteorValues.push(wrong);
   }
 
-  return { leftDisplay, rightPrefix, rightSuffix, targetValue, meteorValues: shuffled(meteorValues) };
+  return { skill, leftDisplay, rightPrefix, rightSuffix, targetValue, meteorValues: shuffled(meteorValues) };
 }
 
 export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGameProps) {
@@ -128,7 +151,6 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
   const [phase, setPhase] = useState<"playing" | "complete">("playing");
   const [status, setStatus] = useState<"idle" | "correct" | "wrong">("idle");
   const [selected, setSelected] = useState<number | null>(null);
-  const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const answerLockedRef = useRef(false);
 
   const prepareRound = useCallback((roundIndex: number) => {
@@ -144,7 +166,6 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
   }, [grade, levelRef, maxRounds, advanceToUnlockedLevel]);
 
   useEffect(() => {
-    if (timerRef.current) clearTimeout(timerRef.current);
     setScore(0);
     setRound(0);
     setPhase("playing");
@@ -154,12 +175,7 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
     answerLockedRef.current = false;
   }, [difficulty, grade]);
 
-  useEffect(() => () => {
-    if (timerRef.current) clearTimeout(timerRef.current);
-  }, []);
-
   const restart = () => {
-    if (timerRef.current) clearTimeout(timerRef.current);
     setScore(0);
     setRound(0);
     setPhase("playing");
@@ -174,27 +190,41 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
       recordAnswer(true);
       setStatus("correct");
       setScore((current) => current + 10);
-      const nextRound = round + 1;
-      setRound(nextRound);
-      timerRef.current = setTimeout(() => prepareRound(nextRound), 1300);
     } else {
       recordAnswer(false);
       setStatus("wrong");
-      timerRef.current = setTimeout(() => {
-        setSelected(null);
-        setStatus("idle");
-        answerLockedRef.current = false;
-      }, 850);
     }
   };
 
+  const continueRound = () => {
+    const nextRound = round + 1;
+    setRound(nextRound);
+    prepareRound(nextRound);
+  };
+
+  const retryProblem = () => {
+    setSelected(null);
+    setStatus("idle");
+    answerLockedRef.current = false;
+  };
+
   const beamRotation = status === "correct" ? 0 : status === "wrong" ? 7 : -7;
+  const visualMode = grade <= 2 ? "junior" : grade <= 5 ? "mission" : "lab";
+  const displayTitle = visualMode === "junior" ? t.juniorTitle : visualMode === "mission" ? t.missionTitle : t.labTitle;
+  const shellClass = visualMode === "junior"
+    ? "border-orange-500/30 bg-gradient-to-b from-slate-950 to-orange-950/35"
+    : visualMode === "mission"
+      ? "border-cyan-500/25 bg-[#071522]"
+      : "border-sky-300/20 bg-[#040a10]";
 
   return (
-    <div className="relative mx-auto w-full max-w-2xl overflow-hidden rounded-2xl border border-slate-700 bg-slate-950 p-3 text-white shadow-2xl sm:p-5">
+    <div className={`relative mx-auto w-full max-w-2xl overflow-hidden rounded-2xl border p-3 text-white shadow-2xl sm:p-5 ${shellClass}`}>
       <MathLevelBar grade={grade} lang={lang} progress={progress} mastery={mastery} onSelect={selectLevel} />
       <div className="mb-3 flex items-center justify-between gap-2">
-        <h2 className="text-xl font-black text-orange-400 sm:text-3xl">{t.title}</h2>
+        <div>
+          <h2 className={`text-xl font-black sm:text-3xl ${visualMode === "lab" ? "text-cyan-200" : "text-orange-400"}`}>{displayTitle}</h2>
+          <p className="text-xs font-bold uppercase tracking-widest text-white/45">{SKILL_LABELS[lang]?.[problem.skill] ?? SKILL_LABELS.en[problem.skill]}</p>
+        </div>
         <div className="shrink-0 rounded-full border border-slate-600 bg-slate-800 px-3 py-1.5 text-sm font-bold sm:text-lg">
           {t.score}: <span className="text-orange-400">{score}</span>
         </div>
@@ -216,7 +246,7 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
                 type="button"
                 onClick={() => chooseMeteor(value)}
                 disabled={status !== "idle"}
-                className={`aspect-square min-h-14 rounded-full border-2 text-lg font-black shadow-lg transition active:scale-95 sm:text-2xl ${stateClass}`}
+                className={`${visualMode === "junior" ? "aspect-square rounded-full" : visualMode === "mission" ? "min-h-14 rounded-xl" : "min-h-14 rounded-md"} border-2 text-lg font-black shadow-lg transition active:scale-95 sm:text-2xl ${stateClass}`}
               >
                 {value}
               </button>
@@ -246,9 +276,9 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
           <div className="absolute bottom-2 left-1/2 h-0 w-0 -translate-x-1/2 border-x-[30px] border-b-[55px] border-x-transparent border-b-cyan-700" />
         </div>
 
-        <div className="mt-1 flex h-7 items-center justify-center text-center font-bold" aria-live="polite">
-          {status === "correct" && <span className="text-emerald-400">✓</span>}
-          {status === "wrong" && <span className="text-rose-400">{t.tryAgain}</span>}
+        <div className="mt-1 flex min-h-16 flex-col items-center justify-center gap-2 text-center font-bold" aria-live="polite">
+          {status === "correct" && <><span className="text-emerald-400">✓ {t.correct}</span><button type="button" onClick={continueRound} className="rounded-full bg-emerald-500 px-6 py-2 font-black text-slate-950 active:scale-95">{t.next}</button></>}
+          {status === "wrong" && <><span className="text-rose-400">{t.tryAgain}</span><button type="button" onClick={retryProblem} className="rounded-full bg-white px-6 py-2 font-black text-slate-950 active:scale-95">{t.tryAgain}</button></>}
         </div>
         <div className="mt-2 flex justify-center gap-2">
           {Array.from({ length: maxRounds }).map((_, index) => (
