@@ -1,417 +1,312 @@
-import React, { useState, useEffect, useCallback, useMemo, useRef } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
-import { MathLevelBar, useMathGameProgress } from '@/components/visual-lab/MathGameProgress';
+"use client";
+
+import React, { useEffect, useMemo, useState } from "react";
+import { motion } from "framer-motion";
+import { MathLevelBar, useMathGameProgress, type MathDifficulty } from "@/components/visual-lab/MathGameProgress";
 
 export interface TimeWarpGameProps {
   grade: number;
-  lang: 'de' | 'hu' | 'ro' | 'en';
+  lang: "de" | "hu" | "ro" | "en";
   onDone?: (score: number) => void;
 }
 
-const DICT = {
-  de: {
-    title: 'Zeitkrümmung',
-    target: 'Zielzeit:',
-    score: 'Punkte:',
-    gameOver: 'Versuch beendet',
-    finalScore: 'Endergebnis:',
-    playAgain: 'Weiterlernen',
-  },
-  hu: {
-    title: 'Időhajlítás',
-    target: 'Cél idő:',
-    score: 'Pontszám:',
-    gameOver: 'Próbálkozás vége',
-    finalScore: 'Végső pontszám:',
-    playAgain: 'Tanulás folytatása',
-  },
-  ro: {
-    title: 'Deformarea Timpului',
-    target: 'Timp țintă:',
-    score: 'Scor:',
-    gameOver: 'Încercare încheiată',
-    finalScore: 'Scor final:',
-    playAgain: 'Continuă să înveți',
-  },
-  en: {
-    title: 'Time Warp',
-    target: 'Target Time:',
-    score: 'Score:',
-    gameOver: 'Attempt complete',
-    finalScore: 'Final Score:',
-    playAgain: 'Continue learning',
-  },
-};
+type Lang = TimeWarpGameProps["lang"];
+type ChallengeKind = "digital-to-analog" | "analog-to-digital" | "elapsed" | "difference" | "schedule";
 
-const formatTime = (h: number, m: number) => {
-  return `${h.toString().padStart(2, '0')}:${m.toString().padStart(2, '0')}`;
-};
-
-interface ClockData {
-  id: number;
-  h: number;
-  m: number;
-  startY: number;
-  duration: number;
+interface TimeChallenge {
+  kind: ChallengeKind;
+  start: number;
+  end?: number;
+  duration?: number;
+  legs?: number[];
+  answer: number;
+  choices: number[];
 }
 
-const AnalogClock = ({ hours, minutes, size = 100, onClick }: { hours: number; minutes: number; size?: number; onClick?: () => void }) => {
+const COPY = {
+  de: {
+    juniorTitle: "Uhren-Abenteuer", missionTitle: "Zeit-Mission", labTitle: "Chronometrie-Labor",
+    score: "Punkte", round: "Aufgabe", next: "Weiter", check: "Prüfen", correct: "Richtig!", wrong: "Noch nicht.",
+    levelDone: "Level geschafft!", roundDone: "Runde beendet", continue: "Weiterlernen", retry: "Erneut üben",
+    pickClock: "Tippe auf die passende Analoguhr.", readClock: "Welche Uhrzeit zeigt die Analoguhr?",
+    elapsed: "Wie spät ist es nach {duration}?", difference: "Wie viel Zeit vergeht?", schedule: "Wann endet der Zeitplan?",
+    starts: "Start", ends: "Ende", journey: "Abschnitt", morning: "vormittags", afternoon: "nachmittags", evening: "abends", noPressure: "Kein Zeitdruck. Rechne in Ruhe.",
+  },
+  hu: {
+    juniorTitle: "Órakaland", missionTitle: "Időmisszió", labTitle: "Kronometriai labor",
+    score: "Pont", round: "Feladat", next: "Tovább", check: "Ellenőrzés", correct: "Helyes!", wrong: "Még nem jó.",
+    levelDone: "Szint teljesítve!", roundDone: "A kör véget ért", continue: "Tanulás folytatása", retry: "Új gyakorlás",
+    pickClock: "Koppints a megfelelő analóg órára.", readClock: "Hány órát mutat az analóg óra?",
+    elapsed: "Mennyi az idő {duration} múlva?", difference: "Mennyi idő telik el?", schedule: "Mikor ér véget az időterv?",
+    starts: "Kezdés", ends: "Befejezés", journey: "Szakasz", morning: "délelőtt", afternoon: "délután", evening: "este", noPressure: "Nincs időkorlát. Számolj nyugodtan.",
+  },
+  ro: {
+    juniorTitle: "Aventura Ceasului", missionTitle: "Misiunea Timpului", labTitle: "Laborator de Cronometrie",
+    score: "Scor", round: "Sarcina", next: "Înainte", check: "Verifică", correct: "Corect!", wrong: "Nu încă.",
+    levelDone: "Nivel complet!", roundDone: "Rundă încheiată", continue: "Continuă să înveți", retry: "Exersează din nou",
+    pickClock: "Atinge ceasul analogic potrivit.", readClock: "Ce oră arată ceasul analogic?",
+    elapsed: "Cât va fi ceasul după {duration}?", difference: "Cât timp trece?", schedule: "Când se termină programul?",
+    starts: "Start", ends: "Sfârșit", journey: "Etapa", morning: "dimineața", afternoon: "după-amiaza", evening: "seara", noPressure: "Fără limită de timp. Calculează în ritmul tău.",
+  },
+  en: {
+    juniorTitle: "Clock Adventure", missionTitle: "Time Mission", labTitle: "Chronometry Lab",
+    score: "Score", round: "Task", next: "Next", check: "Check", correct: "Correct!", wrong: "Not yet.",
+    levelDone: "Level complete!", roundDone: "Round complete", continue: "Continue learning", retry: "Practice again",
+    pickClock: "Tap the matching analogue clock.", readClock: "What time does the analogue clock show?",
+    elapsed: "What time will it be after {duration}?", difference: "How much time passes?", schedule: "When does the schedule finish?",
+    starts: "Start", ends: "End", journey: "Stage", morning: "morning", afternoon: "afternoon", evening: "evening", noPressure: "No time limit. Take your time.",
+  },
+};
+
+const normalizeMinutes = (minutes: number) => ((minutes % 1440) + 1440) % 1440;
+
+const formatTime = (minutes: number, use24Hour: boolean) => {
+  const normalized = normalizeMinutes(minutes);
+  const minute = normalized % 60;
+  const hour24 = Math.floor(normalized / 60);
+  const hour = use24Hour ? hour24 : (hour24 % 12 || 12);
+  return `${use24Hour ? hour.toString().padStart(2, "0") : hour}:${minute.toString().padStart(2, "0")}`;
+};
+
+const formatDuration = (minutes: number, lang: Lang) => {
+  const hours = Math.floor(minutes / 60);
+  const rest = minutes % 60;
+  if (!hours) return `${rest} min`;
+  if (!rest) return lang === "hu" ? `${hours} óra` : lang === "ro" ? `${hours} h` : `${hours} h`;
+  return lang === "hu" ? `${hours} óra ${rest} perc` : `${hours} h ${rest} min`;
+};
+
+const randomItem = <T,>(items: T[]) => items[Math.floor(Math.random() * items.length)];
+
+const makeChoices = (answer: number, step: number, count: number, durationAnswer: boolean) => {
+  const values = new Set<number>([answer]);
+  const offsets = Array.from({ length: 12 }, (_, index) => step * (index + 1)).flatMap((offset) => [offset, -offset]);
+  for (const offset of offsets.sort(() => Math.random() - 0.5)) {
+    const candidate = durationAnswer ? answer + offset : normalizeMinutes(answer + offset);
+    if (durationAnswer && candidate <= 0) continue;
+    values.add(candidate);
+    if (values.size >= count) break;
+  }
+  return [...values].sort(() => Math.random() - 0.5);
+};
+
+export const generateTimeChallenge = (grade: number, difficulty: MathDifficulty): TimeChallenge => {
+  const level = difficulty.level;
+  const step = difficulty.timeStep;
+  const durationUnit = grade <= 2 ? step : Math.ceil((grade <= 4 ? 15 : 10) / step) * step;
+  const use24Hour = grade >= 3;
+  const hourMin = use24Hour ? 6 : 1;
+  const hourMax = use24Hour ? 19 : 11;
+  const start = (hourMin + Math.floor(Math.random() * (hourMax - hourMin + 1))) * 60
+    + Math.floor(Math.random() * (60 / step)) * step;
+
+  if (level === 1) {
+    return { kind: "digital-to-analog", start, answer: start, choices: makeChoices(start, step, difficulty.choices, false) };
+  }
+  if (level === 2) {
+    return { kind: "analog-to-digital", start, answer: start, choices: makeChoices(start, step, difficulty.choices, false) };
+  }
+  if (level === 3) {
+    const duration = durationUnit * (1 + Math.floor(Math.random() * (grade <= 2 ? 3 : 6)));
+    const answer = normalizeMinutes(start + duration);
+    return { kind: "elapsed", start, duration, answer, choices: makeChoices(answer, step, difficulty.choices, false) };
+  }
+  if (level === 4) {
+    const duration = durationUnit * (2 + Math.floor(Math.random() * (grade <= 2 ? 3 : 8)));
+    const end = normalizeMinutes(start + duration);
+    return { kind: "difference", start, end, answer: duration, choices: makeChoices(duration, step, difficulty.choices, true) };
+  }
+
+  const legCount = grade <= 2 ? 2 : 3;
+  const legs = Array.from({ length: legCount }, () => durationUnit * (1 + Math.floor(Math.random() * (grade <= 2 ? 2 : 6))));
+  const answer = normalizeMinutes(start + legs.reduce((sum, value) => sum + value, 0));
+  return { kind: "schedule", start, legs, answer, choices: makeChoices(answer, step, difficulty.choices, false) };
+};
+
+const AnalogClock = ({ minutes, technical = false }: { minutes: number; technical?: boolean }) => {
+  const size = 120;
   const center = size / 2;
-  const radius = size * 0.45;
-  const hourAngle = (hours % 12) * 30 + (minutes / 60) * 30;
-  const minuteAngle = minutes * 6;
+  const radius = 52;
+  const normalized = normalizeMinutes(minutes);
+  const minute = normalized % 60;
+  const hour = Math.floor(normalized / 60) % 12;
+  const hourAngle = hour * 30 + minute / 2;
+  const minuteAngle = minute * 6;
+  const point = (angle: number, length: number) => ({
+    x: center + length * Math.cos((angle - 90) * Math.PI / 180),
+    y: center + length * Math.sin((angle - 90) * Math.PI / 180),
+  });
+  const hourEnd = point(hourAngle, 28);
+  const minuteEnd = point(minuteAngle, 40);
 
   return (
-    <svg
-      width={size}
-      height={size}
-      viewBox={`0 0 ${size} ${size}`}
-      onClick={onClick}
-      onKeyDown={(event) => {
-        if (event.key === 'Enter' || event.key === ' ') {
-          event.preventDefault();
-          onClick?.();
-        }
-      }}
-      role="button"
-      tabIndex={0}
-      aria-label={`${hours}:${minutes.toString().padStart(2, '0')}`}
-      className="w-[88px] sm:w-[120px] h-auto cursor-pointer drop-shadow-[0_0_10px_rgba(79,209,197,0.6)] hover:drop-shadow-[0_0_20px_rgba(246,224,94,0.8)] transition-all"
-    >
-      <circle cx={center} cy={center} r={radius} fill="#111827" stroke="#06b6d4" strokeWidth="4" />
-      
-      {/* Ticks */}
-      {[...Array(12)].map((_, i) => {
-        const angle = (i * 30 - 90) * (Math.PI / 180);
-        const isHour = i % 3 === 0;
-        const tickLength = isHour ? 12 : 6;
-        const x1 = center + (radius - tickLength) * Math.cos(angle);
-        const y1 = center + (radius - tickLength) * Math.sin(angle);
-        const x2 = center + radius * Math.cos(angle);
-        const y2 = center + radius * Math.sin(angle);
-        return (
-          <line
-            key={i}
-            x1={x1}
-            y1={y1}
-            x2={x2}
-            y2={y2}
-            stroke={isHour ? "#22d3ee" : "#0891b2"}
-            strokeWidth={isHour ? "3" : "2"}
-          />
-        );
+    <svg viewBox="0 0 120 120" className="h-auto w-full max-w-[120px]" aria-label={formatTime(minutes, false)} role="img">
+      <circle cx="60" cy="60" r={radius} fill={technical ? "#07111f" : "#111827"} stroke={technical ? "#67e8f9" : "#a78bfa"} strokeWidth="4" />
+      {Array.from({ length: 12 }, (_, index) => {
+        const outer = point(index * 30, 48);
+        const inner = point(index * 30, index % 3 === 0 ? 39 : 43);
+        return <line key={index} x1={inner.x} y1={inner.y} x2={outer.x} y2={outer.y} stroke={technical ? "#67e8f9" : "#c4b5fd"} strokeWidth={index % 3 === 0 ? 3 : 1.5} />;
       })}
-
-      {/* Minute Hand */}
-      <line
-        x1={center}
-        y1={center}
-        x2={center + (radius * 0.75) * Math.cos((minuteAngle - 90) * (Math.PI / 180))}
-        y2={center + (radius * 0.75) * Math.sin((minuteAngle - 90) * (Math.PI / 180))}
-        stroke="#94a3b8"
-        strokeWidth="3"
-        strokeLinecap="round"
-      />
-
-      {/* Hour Hand */}
-      <line
-        x1={center}
-        y1={center}
-        x2={center + (radius * 0.5) * Math.cos((hourAngle - 90) * (Math.PI / 180))}
-        y2={center + (radius * 0.5) * Math.sin((hourAngle - 90) * (Math.PI / 180))}
-        stroke="#fde047"
-        strokeWidth="4"
-        strokeLinecap="round"
-      />
-
-      {/* Center dot */}
-      <circle cx={center} cy={center} r="4" fill="#ec4899" />
+      <line x1="60" y1="60" x2={minuteEnd.x} y2={minuteEnd.y} stroke="#e2e8f0" strokeWidth="3" strokeLinecap="round" />
+      <line x1="60" y1="60" x2={hourEnd.x} y2={hourEnd.y} stroke="#fbbf24" strokeWidth="5" strokeLinecap="round" />
+      <circle cx="60" cy="60" r="5" fill={technical ? "#22d3ee" : "#f472b6"} />
     </svg>
   );
 };
 
 export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps) {
-  const t = DICT[lang] || DICT.en;
-  const { progress, difficulty, mastery, selectLevel, recordAnswer, advanceToUnlockedLevel } = useMathGameProgress('time-warp', grade);
-
+  const t = COPY[lang] ?? COPY.en;
+  const { progress, difficulty, mastery, selectLevel, recordAnswer, advanceToUnlockedLevel } = useMathGameProgress("time-warp", grade);
+  const [round, setRound] = useState(1);
   const [score, setScore] = useState(0);
-  const [targetTime, setTargetTime] = useState<{ h: number; m: number }>({ h: 12, m: 0 });
-  const [clocks, setClocks] = useState<ClockData[]>([]);
-  const [gameOver, setGameOver] = useState(false);
-  const [gameWon, setGameWon] = useState(false);
-  const [gameStarted, setGameStarted] = useState(false);
-  const [correctCount, setCorrectCount] = useState(0);
-  const maxCorrect = difficulty.rounds;
-
-  const nextId = useRef(0);
-  const handledClockIdsRef = useRef<Set<number>>(new Set());
-  const stateRef = useRef({ targetTime, gameOver, gameWon });
-  const stars = useMemo(() => Array.from({ length: 50 }, (_, i) => ({
-    size: `${(i % 3) + 1}px`,
-    top: `${(i * 47) % 100}%`,
-    left: `${(i * 83) % 100}%`,
-    opacity: 0.2 + (i % 5) * 0.15,
-  })), []);
+  const [seed, setSeed] = useState(0);
+  const [selected, setSelected] = useState<number | null>(null);
+  const [checked, setChecked] = useState(false);
+  const [finished, setFinished] = useState(false);
+  const maxRounds = difficulty.rounds;
+  const visualMode = grade <= 2 ? "junior" : grade <= 5 ? "mission" : "lab";
+  const use24Hour = grade >= 3;
+  const challenge = useMemo(() => generateTimeChallenge(grade, difficulty), [grade, difficulty, seed]);
+  const isCorrect = selected === challenge.answer;
+  const durationAnswer = challenge.kind === "difference";
+  const displayTitle = visualMode === "junior" ? t.juniorTitle : visualMode === "mission" ? t.missionTitle : t.labTitle;
 
   useEffect(() => {
-    stateRef.current = { targetTime, gameOver, gameWon };
-  }, [targetTime, gameOver, gameWon]);
-
-  const generateTime = useCallback(() => {
-    // An analogue face cannot distinguish 1:00 from 13:00. Keeping the
-    // generated hours in the 1-12 range prevents visually identical clocks
-    // from being judged differently.
-    const h = Math.floor(Math.random() * 12) + 1;
-    const step = difficulty.timeStep;
-    const m = Math.floor(Math.random() * (60 / step)) * step;
-    return { h, m };
-  }, [difficulty.timeStep]);
-
-  const generateNewTarget = useCallback(() => {
-    setTargetTime(generateTime());
-  }, [generateTime]);
-
-  const spawnClock = useCallback(() => {
-    if (stateRef.current.gameOver || stateRef.current.gameWon) return;
-
-    // 35% chance to spawn the correct target, otherwise random
-    const isTarget = Math.random() < 0.35;
-    const time = isTarget ? stateRef.current.targetTime : generateTime();
-
-    if (!isTarget && time.h === stateRef.current.targetTime.h && time.m === stateRef.current.targetTime.m) {
-      time.h = (time.h + 1) % 24; // prevent accidental matches
-    }
-
-    const clock: ClockData = {
-      id: nextId.current++,
-      h: time.h,
-      m: time.m,
-      startY: Math.random() * 50 + 10, // 10% to 60% — stays within game area
-      duration: (Math.random() * 8 + 12) / difficulty.speedMultiplier,
-    };
-
-    setClocks(prev => prev.length >= 10 ? prev : [...prev, clock]);
-  }, [generateTime, difficulty.speedMultiplier]);
+    setSelected(null);
+    setChecked(false);
+  }, [seed]);
 
   useEffect(() => {
-    if (gameOver || gameWon || !gameStarted) return;
-    generateNewTarget();
-  }, [gameOver, gameWon, gameStarted, generateNewTarget]);
+    if (finished) onDone?.(score);
+  }, [finished, onDone, score]);
 
-  useEffect(() => {
-    if (gameOver || gameWon || !gameStarted) return;
+  const prompt = challenge.kind === "digital-to-analog" ? t.pickClock
+    : challenge.kind === "analog-to-digital" ? t.readClock
+      : challenge.kind === "elapsed" ? t.elapsed.replace("{duration}", formatDuration(challenge.duration!, lang))
+        : challenge.kind === "difference" ? t.difference
+          : t.schedule;
 
-    // Initial spawn
-    spawnClock();
-
-    const intervalId = setInterval(() => {
-      spawnClock();
-    }, Math.round(2000 / difficulty.speedMultiplier));
-
-    return () => clearInterval(intervalId);
-  }, [spawnClock, gameOver, gameWon, gameStarted, difficulty.speedMultiplier]);
-
-  const handleGameOver = useCallback(() => {
-    setGameOver(true);
-    setClocks([]); // Clear screen
-  }, []);
-
-  const handleClockClick = (clock: ClockData) => {
-    if (gameOver || gameWon || handledClockIdsRef.current.has(clock.id)) return;
-    handledClockIdsRef.current.add(clock.id);
-
-    if (clock.h === targetTime.h && clock.m === targetTime.m) {
-      // Correct!
-      recordAnswer(true);
-      setScore(s => s + 10);
-      setClocks(prev => prev.filter(c => c.id !== clock.id));
-      const nextCorrectCount = correctCount + 1;
-      setCorrectCount(nextCorrectCount);
-      if (nextCorrectCount >= maxCorrect) {
-        advanceToUnlockedLevel();
-        setGameWon(true);
-        setClocks([]);
-      } else {
-        generateNewTarget();
-      }
-    } else {
-      // Wrong! Game over.
-      recordAnswer(false);
-      handleGameOver();
-    }
+  const checkAnswer = () => {
+    if (selected === null || checked) return;
+    setChecked(true);
+    recordAnswer(isCorrect);
+    if (isCorrect) setScore((current) => current + 1);
   };
 
-  const handleClockEscape = (clock: ClockData) => {
-    if (stateRef.current.gameOver || stateRef.current.gameWon || handledClockIdsRef.current.has(clock.id)) return;
-    handledClockIdsRef.current.add(clock.id);
-
-    // If the escaped clock was the correct target, it's game over
-    if (clock.h === stateRef.current.targetTime.h && clock.m === stateRef.current.targetTime.m) {
-      handleGameOver();
-    } else {
-      // Otherwise just remove it from state
-      setClocks(prev => prev.filter(c => c.id !== clock.id));
+  const nextQuestion = () => {
+    if (round >= maxRounds) {
+      advanceToUnlockedLevel();
+      setFinished(true);
+      return;
     }
+    setRound((current) => current + 1);
+    setSeed((current) => current + 1);
   };
 
-  const startGame = () => {
+  const restart = () => {
+    setRound(1);
     setScore(0);
-    setGameOver(false);
-    setGameWon(false);
-    setCorrectCount(0);
-    setClocks([]);
-    handledClockIdsRef.current.clear();
-    setGameStarted(true);
-    generateNewTarget();
+    setFinished(false);
+    setSeed((current) => current + 1);
   };
 
   const changeLevel = (level: 1 | 2 | 3 | 4 | 5) => {
     selectLevel(level);
+    setRound(1);
     setScore(0);
-    setCorrectCount(0);
-    setClocks([]);
-    handledClockIdsRef.current.clear();
-    setGameOver(false);
-    setGameWon(false);
-    setGameStarted(false);
+    setFinished(false);
+    setSeed((current) => current + 1);
   };
+
+  const shellClass = visualMode === "junior"
+    ? "border-violet-500/30 bg-gradient-to-b from-slate-950 to-violet-950/55"
+    : visualMode === "mission"
+      ? "border-cyan-500/25 bg-[#071522]"
+      : "border-sky-300/20 bg-[#040a10]";
+
   return (
-    <div className="relative w-full h-[calc(100dvh-2rem)] min-h-[420px] max-h-[600px] bg-gray-950 overflow-hidden font-mono rounded-2xl shadow-[0_0_30px_rgba(6,182,212,0.3)] border border-cyan-900/50 flex flex-col select-none">
-      <div className="relative z-[60] px-3 pt-3">
-        <MathLevelBar grade={grade} lang={lang} progress={progress} mastery={mastery} onSelect={changeLevel} />
-      </div>
-      
-      {/* Background Starfield Effect */}
-      <div className="absolute inset-0 opacity-20 pointer-events-none">
-        {stars.map((star, i) => (
-          <div
-            key={i}
-            className="absolute bg-white rounded-full"
-            style={{
-              width: star.size,
-              height: star.size,
-              top: star.top,
-              left: star.left,
-              opacity: star.opacity,
-            }}
-          />
-        ))}
-      </div>
+    <div className={`w-full max-w-2xl select-none overflow-hidden rounded-2xl border p-3 text-white shadow-2xl sm:p-6 ${shellClass}`}>
+      <MathLevelBar grade={grade} lang={lang} progress={progress} mastery={mastery} onSelect={changeLevel} />
 
-      {/* Header UI */}
-      <div className="relative z-10 flex justify-between items-center gap-2 p-3 sm:p-6 bg-gradient-to-b from-gray-900 to-transparent">
-        <h1 className="text-sm sm:text-2xl font-black tracking-wide sm:tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-violet-500 uppercase drop-shadow-sm">
-          {t.title}
-        </h1>
-        
-        {gameStarted && !gameOver && (
-          <div className="flex flex-col items-center">
-            <span className="text-cyan-500 text-[10px] sm:text-sm font-bold uppercase tracking-wide sm:tracking-wider mb-1">{t.target}</span>
-            <div className="text-2xl sm:text-4xl font-black text-white drop-shadow-[0_0_10px_rgba(255,255,255,0.5)] bg-gray-800/80 px-3 sm:px-6 py-1.5 sm:py-2 rounded-lg sm:rounded-xl border border-gray-700">
-              {formatTime(targetTime.h, targetTime.m)}
-            </div>
-          </div>
-        )}
-
-        <div className="text-xs sm:text-xl font-bold text-emerald-400 bg-emerald-950/50 px-2 sm:px-4 py-1.5 sm:py-2 rounded-lg border border-emerald-900/50 whitespace-nowrap">
-          {t.score} {score}
+      <header className="mb-4 flex items-center justify-between gap-3">
+        <div>
+          <p className="text-[10px] font-bold uppercase tracking-[0.24em] text-white/45">{t.round} {round}/{maxRounds}</p>
+          <h2 className="text-xl font-black text-cyan-200 sm:text-3xl">{displayTitle}</h2>
         </div>
-      </div>
+        <div className="rounded-xl border border-white/10 bg-black/25 px-3 py-2 text-sm font-black text-emerald-300">{t.score}: {score}</div>
+      </header>
 
-      {/* Game Area */}
-      <div className="relative flex-grow w-full">
-        <AnimatePresence>
-          {clocks.map(clock => (
-            <motion.div
-              key={clock.id}
-              initial={{ x: -150 }}
-              animate={{ x: '120vw' }}
-              exit={{ opacity: 0, scale: 0.5 }}
-              transition={{ duration: clock.duration, ease: 'linear' }}
-              onAnimationComplete={() => handleClockEscape(clock)}
-              className="absolute left-0"
-              style={{ top: `${clock.startY}%` }}
-            >
-              <div className="transform hover:scale-110 active:scale-95 transition-transform duration-150">
-                <AnalogClock
-                  hours={clock.h}
-                  minutes={clock.m}
-                  size={120}
-                  onClick={() => handleClockClick(clock)}
-                />
+      {!finished ? (
+        <>
+          <section className="mb-4 rounded-2xl border border-white/10 bg-black/20 p-4 text-center sm:p-5">
+            <p className="mb-3 text-base font-bold text-white sm:text-lg">{prompt}</p>
+
+            {challenge.kind === "digital-to-analog" && (
+              <div className="mx-auto w-fit rounded-xl border border-cyan-400/25 bg-slate-950/70 px-5 py-2 font-mono text-3xl font-black text-cyan-200">{formatTime(challenge.start, use24Hour)}</div>
+            )}
+            {challenge.kind === "analog-to-digital" && (
+              <div className="mx-auto flex w-36 flex-col items-center justify-center">
+                <AnalogClock minutes={challenge.start} technical={visualMode !== "junior"} />
+                {use24Hour && <span className="mt-1 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs font-bold text-cyan-200">{Math.floor(challenge.start / 60) < 12 ? t.morning : Math.floor(challenge.start / 60) < 18 ? t.afternoon : t.evening}</span>}
               </div>
-            </motion.div>
-          ))}
-        </AnimatePresence>
-      </div>
+            )}
+            {challenge.kind === "elapsed" && (
+              <div className="flex items-center justify-center gap-3 text-xl font-black text-cyan-100"><span>{formatTime(challenge.start, use24Hour)}</span><span className="text-white/35">+</span><span>{formatDuration(challenge.duration!, lang)}</span></div>
+            )}
+            {challenge.kind === "difference" && (
+              <div className="flex items-center justify-center gap-3 text-lg font-black"><span className="rounded-lg bg-white/5 px-3 py-2">{t.starts}: {formatTime(challenge.start, use24Hour)}</span><span>→</span><span className="rounded-lg bg-white/5 px-3 py-2">{t.ends}: {formatTime(challenge.end!, use24Hour)}</span></div>
+            )}
+            {challenge.kind === "schedule" && (
+              <div>
+                <p className="mb-2 font-mono text-2xl font-black text-cyan-200">{t.starts}: {formatTime(challenge.start, use24Hour)}</p>
+                <div className="flex flex-wrap justify-center gap-2">
+                  {challenge.legs!.map((leg, index) => <span key={index} className="rounded-lg border border-cyan-400/20 bg-cyan-500/10 px-3 py-2 text-sm font-bold">{t.journey} {index + 1}: +{formatDuration(leg, lang)}</span>)}
+                </div>
+              </div>
+            )}
+          </section>
 
-      {/* Start / Game Over / Won Screens */}
-      <AnimatePresence>
-        {gameWon && (
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
-            className="absolute inset-0 z-50 flex flex-col items-center justify-center bg-gray-950/85 backdrop-blur-sm"
-          >
-            <motion.h2 initial={{ scale: 0.8 }} animate={{ scale: 1 }} className="text-4xl sm:text-6xl font-black text-emerald-400 mb-4 drop-shadow-[0_0_20px_rgba(52,211,153,0.6)]">
-              ✓
-            </motion.h2>
-            <p className="px-4 text-center text-xl sm:text-3xl text-cyan-100 mb-6 sm:mb-10">{t.finalScore} <span className="text-white font-black">{score}</span></p>
-            <button onClick={startGame} className="px-6 sm:px-10 py-3 sm:py-4 bg-gradient-to-r from-emerald-600 to-cyan-600 text-white font-black rounded-full text-base sm:text-xl uppercase tracking-wide sm:tracking-wider transition-all hover:scale-105 active:scale-95 mb-4">
-              {t.playAgain}
-            </button>
-            {onDone && <button onClick={() => onDone(score)} className="text-gray-400 hover:text-white uppercase text-sm tracking-wider font-bold mt-2 transition-colors">{t.finalScore}</button>}
-          </motion.div>
-        )}
+          <div className={`grid gap-2 sm:gap-3 ${challenge.kind === "digital-to-analog" ? "grid-cols-3" : "grid-cols-2"}`}>
+            {challenge.choices.map((choice) => {
+              const active = selected === choice;
+              const revealCorrect = checked && choice === challenge.answer;
+              const revealWrong = checked && active && !isCorrect;
+              return (
+                <button
+                  key={choice}
+                  type="button"
+                  disabled={checked}
+                  onClick={() => setSelected(choice)}
+                  className={`flex min-h-16 items-center justify-center rounded-2xl border p-2 font-mono text-xl font-black transition active:scale-95 ${revealCorrect ? "border-emerald-300 bg-emerald-500/25 text-emerald-100" : revealWrong ? "border-rose-400 bg-rose-500/20 text-rose-100" : active ? "border-cyan-300 bg-cyan-500/25 text-white" : "border-white/10 bg-white/5 text-white/80"}`}
+                >
+                  {challenge.kind === "digital-to-analog" ? <AnalogClock minutes={choice} technical={visualMode !== "junior"} /> : durationAnswer ? formatDuration(choice, lang) : formatTime(choice, use24Hour)}
+                </button>
+              );
+            })}
+          </div>
 
-        {(!gameStarted || gameOver) && !gameWon && (
-          <motion.div
-            initial={{ opacity: 0, backdropFilter: 'blur(0px)' }}
-            animate={{ opacity: 1, backdropFilter: 'blur(8px)' }}
-            exit={{ opacity: 0, backdropFilter: 'blur(0px)' }}
-            className="absolute inset-0 z-50 flex flex-col items-center justify-center bg-gray-950/80"
-          >
-            {gameOver ? (
+          <div className="mt-4 flex min-h-20 flex-col items-center justify-center gap-2">
+            {!checked ? (
               <>
-                <motion.h2
-                  initial={{ scale: 0.8, y: 20 }}
-                  animate={{ scale: 1, y: 0 }}
-                  className="px-4 text-center text-3xl sm:text-6xl font-black text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-pink-600 mb-4 drop-shadow-[0_0_20px_rgba(239,68,68,0.5)]"
-                >
-                  {t.gameOver}
-                </motion.h2>
-                <motion.p
-                  initial={{ opacity: 0 }}
-                  animate={{ opacity: 1 }}
-                  transition={{ delay: 0.2 }}
-                  className="px-4 text-center text-xl sm:text-3xl text-cyan-100 mb-6 sm:mb-10"
-                >
-                  {t.finalScore} <span className="text-white font-black">{score}</span>
-                </motion.p>
+                <button type="button" disabled={selected === null} onClick={checkAnswer} className="min-h-12 rounded-full bg-cyan-500 px-8 font-black text-slate-950 transition active:scale-95 disabled:opacity-35">{t.check}</button>
+                <p className="text-xs text-white/40">{t.noPressure}</p>
               </>
             ) : (
-              <motion.h2
-                initial={{ scale: 0.8, y: 20 }}
-                animate={{ scale: 1, y: 0 }}
-                className="px-4 text-center text-3xl sm:text-6xl font-black text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-600 mb-6 sm:mb-10 drop-shadow-[0_0_20px_rgba(6,182,212,0.5)]"
-              >
-                {t.title}
-              </motion.h2>
+              <motion.div initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} className="text-center">
+                <p className={`mb-2 text-xl font-black ${isCorrect ? "text-emerald-300" : "text-amber-300"}`}>{isCorrect ? t.correct : t.wrong}</p>
+                <button type="button" onClick={nextQuestion} className="min-h-11 rounded-full bg-white px-7 font-bold text-slate-950 active:scale-95">{t.next}</button>
+              </motion.div>
             )}
-
-            <motion.button
-              whileHover={{ scale: 1.05, boxShadow: "0 0 25px rgba(236,72,153,0.6)" }}
-              whileTap={{ scale: 0.95 }}
-              onClick={startGame}
-              className="px-7 sm:px-10 py-3 sm:py-4 bg-gradient-to-r from-pink-600 to-purple-600 text-white text-lg sm:text-2xl font-bold rounded-2xl shadow-[0_0_15px_rgba(219,39,119,0.4)] transition-all"
-            >
-              {gameOver ? t.playAgain : (lang === 'de' ? 'Starten' : lang === 'hu' ? 'Indítás' : lang === 'ro' ? 'Start' : 'Start')}
-            </motion.button>
-          </motion.div>
-        )}
-      </AnimatePresence>
-
+          </div>
+        </>
+      ) : (
+        <section className="flex min-h-[360px] flex-col items-center justify-center rounded-2xl border border-white/10 bg-black/25 p-6 text-center">
+          <div className="mb-4 text-5xl">✓</div>
+          <h3 className="text-3xl font-black text-emerald-300">{score >= round ? t.levelDone : t.roundDone}</h3>
+          <p className="my-5 text-xl text-white/75">{t.score}: <strong className="text-white">{score}/{round}</strong></p>
+          <button type="button" onClick={restart} className="min-h-12 rounded-full bg-cyan-500 px-8 font-black text-slate-950 active:scale-95">{score >= round ? t.continue : t.retry}</button>
+        </section>
+      )}
     </div>
   );
 }
