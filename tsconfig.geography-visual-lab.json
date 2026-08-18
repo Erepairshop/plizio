@@ -1,0 +1,24 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "skipLibCheck": true,
+    "incremental": false
+  },
+  "include": [
+    "components/VisualLab.tsx",
+    "components/visual-lab/GeographyGameProgress.tsx",
+    "components/visual-lab/GeographyRoundSession.tsx",
+    "components/visual-lab/GeographyLab.tsx",
+    "app/astro-geographie/visual-lab/games/GeographySkillGame.tsx",
+    "lib/visualLab/geographyCurriculum.ts",
+    "lib/visualLab/geographySkillContent.ts",
+    "lib/visualLab/prepareLegacyGeographyRounds.ts",
+    "next-env.d.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    ".next",
+    "out"
+  ]
+}

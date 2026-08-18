@@ -24,6 +24,9 @@ import {
   Network,
   PenLine,
   SearchCheck,
+  Compass,
+  CloudSun,
+  Leaf,
   type LucideIcon,
 } from "lucide-react";
 import VisualLabIcon from "./VisualLabIcon";
@@ -69,6 +72,7 @@ const SilbenSlicerGame = dynamic(() => import("@/app/astro-deutsch/visual-lab/ga
 const TippSturmGame = dynamic(() => import("@/app/astro-deutsch/visual-lab/games/TippSturmGame"));
 const VerbenVortexGame = dynamic(() => import("@/app/astro-deutsch/visual-lab/games/VerbenVortexGame"));
 const LanguageSkillGame = dynamic(() => import("@/app/astro-deutsch/visual-lab/games/LanguageSkillGame"));
+const GeographyLab = dynamic(() => import("./visual-lab/GeographyLab"));
 import { ASTRO_LANGUAGE_POOLS } from "@/lib/visualLab/pools/astroLanguagePools";
 import { ASTRO_ENGLISH_LANGUAGE_POOL } from "@/lib/visualLab/pools/astroEnglishLanguagePools";
 import { ASTRO_MAGYAR_LANGUAGE_POOL } from "@/lib/visualLab/pools/astroMagyarLanguagePools";
@@ -93,13 +97,12 @@ import { SACHKUNDE_VISUAL_LAB_K3 } from "@/lib/visualLab/pools/sachkundeK3";
 import { SACHKUNDE_VISUAL_LAB_K4 } from "@/lib/visualLab/pools/sachkundeK4";
 
 import type { SachkundeVisualLabGradePool } from "@/lib/visualLab/types";
-import { GEOGRAPHY_POOLS } from "@/lib/visualLab/pools/geographyPool";
 import { PHYSIK_POOLS } from "@/lib/visualLab/pools/physikPool";
 import { KEMIA_POOLS } from "@/lib/visualLab/pools/kemiaPool";
 import { BIOLOGIE_POOLS } from "@/lib/visualLab/pools/biologiePool";
 import { GESCHICHTE_POOLS } from "@/lib/visualLab/pools/geschichtePool";
-import type { GeographieVisualLabGradePool } from "@/lib/visualLab/types";
 import { isMathGameAvailableForGrade } from "@/lib/visualLab/mathCurriculum";
+import { isGeographyGameAvailableForGrade } from "@/lib/visualLab/geographyCurriculum";
 
 const ACTIVE_LANGUAGE_POOLS: LanguagePools = {
   de: ASTRO_LANGUAGE_POOLS.de,
@@ -171,6 +174,13 @@ const T: Record<Lang, Record<string, string>> = {
     close: "Schließen",
     soon: "Weitere visuelle Spiele kommen bald.",
     dataOrbit: "Daten-Mission",
+    kartenKompass: "Karten-Kompass",
+    landschaftDetektiv: "Landschafts-Detektiv",
+    klimaLabor: "Klima-Labor",
+    weltregionenAtlas: "Weltregionen-Atlas",
+    menschRaumNetz: "Mensch-Raum-Netz",
+    geoDatenCheck: "Geo-Daten-Check",
+    zukunftsPlaner: "Zukunfts-Planer",
   },
   hu: {
     title: "Vizuális Labor",
@@ -188,6 +198,13 @@ const T: Record<Lang, Record<string, string>> = {
     close: "Bezárás",
     soon: "További vizuális játékok hamarosan.",
     dataOrbit: "Adatküldetés",
+    kartenKompass: "Térképes iránytű",
+    landschaftDetektiv: "Tájdetektív",
+    klimaLabor: "Klímalabor",
+    weltregionenAtlas: "Világrégió-atlasz",
+    menschRaumNetz: "Ember és tér háló",
+    geoDatenCheck: "Földrajzi adatvizsgáló",
+    zukunftsPlaner: "Jövőtervező",
   },
   ro: {
     title: "Laborator Vizual",
@@ -217,6 +234,13 @@ const T: Record<Lang, Record<string, string>> = {
     close: "Închide",
     soon: "Mai multe jocuri vizuale vin în curând.",
     dataOrbit: "Misiunea Datelor",
+    kartenKompass: "Busola hărților",
+    landschaftDetektiv: "Detectivul peisajelor",
+    klimaLabor: "Laborator climatic",
+    weltregionenAtlas: "Atlasul regiunilor lumii",
+    menschRaumNetz: "Rețeaua om-spațiu",
+    geoDatenCheck: "Verificarea datelor geo",
+    zukunftsPlaner: "Planificatorul viitorului",
   },
   en: {
     title: "Visual Lab",
@@ -234,6 +258,13 @@ const T: Record<Lang, Record<string, string>> = {
     close: "Close",
     soon: "More visual games coming soon.",
     dataOrbit: "Data Mission",
+    kartenKompass: "Map Compass",
+    landschaftDetektiv: "Landscape Detective",
+    klimaLabor: "Climate Lab",
+    weltregionenAtlas: "World Regions Atlas",
+    menschRaumNetz: "Human-Space Network",
+    geoDatenCheck: "Geo Data Check",
+    zukunftsPlaner: "Future Planner",
   },
 };
 
@@ -257,6 +288,13 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "signal-runner", type: "puzzle", labelKey: "signalRunner", available: true },
     { id: "constellation-builder", type: "puzzle", labelKey: "constellationBuilder", available: true },
     { id: "memory-radar", type: "memory", labelKey: "memoryRadar", available: true },
+    { id: "karten-kompass", type: "puzzle", labelKey: "kartenKompass", available: true },
+    { id: "landschaft-detektiv", type: "spotter", labelKey: "landschaftDetektiv", available: true },
+    { id: "klima-labor", type: "puzzle", labelKey: "klimaLabor", available: true },
+    { id: "weltregionen-atlas", type: "puzzle", labelKey: "weltregionenAtlas", available: true },
+    { id: "mensch-raum-netz", type: "puzzle", labelKey: "menschRaumNetz", available: true },
+    { id: "geo-daten-check", type: "puzzle", labelKey: "geoDatenCheck", available: true },
+    { id: "zukunfts-planer", type: "puzzle", labelKey: "zukunftsPlaner", available: true },
   ],
   geschichte: [
     { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
@@ -504,6 +542,7 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
   const isLanguageSubject = ["deutsch", "english", "magyar", "romana"].includes(subject);
   const games = (SUBJECT_GAMES[subject] ?? []).filter((game) => {
     if (subject === "astromath") return isMathGameAvailableForGrade(game.id, grade);
+    if (subject === "geographie") return isGeographyGameAvailableForGrade(game.id, grade);
     if (isLanguageSubject && !game.id.startsWith("grusel-")) {
       return isLanguageGameAvailableForGrade(game.id, grade);
     }
@@ -517,6 +556,9 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
     }
     if (activeGame && isLanguageSubject && !activeGame.startsWith("grusel-")
       && !isLanguageGameAvailableForGrade(activeGame, grade)) {
+      setActiveGame(null);
+    }
+    if (activeGame && subject === "geographie" && !isGeographyGameAvailableForGrade(activeGame, grade)) {
       setActiveGame(null);
     }
   }, [activeGame, grade, isLanguageSubject, subject]);
@@ -627,6 +669,13 @@ const GAME_ICONS: Record<string, { icon: LucideIcon; tone: string }> = {
   "wort-netz": { icon: Network, tone: "border-violet-300/30 bg-violet-400/10 text-violet-200" },
   "schreibwerkstatt": { icon: PenLine, tone: "border-rose-300/30 bg-rose-400/10 text-rose-200" },
   "literatur-lupe": { icon: SearchCheck, tone: "border-fuchsia-300/30 bg-fuchsia-400/10 text-fuchsia-200" },
+  "karten-kompass": { icon: Compass, tone: "border-cyan-300/30 bg-cyan-400/10 text-cyan-200" },
+  "landschaft-detektiv": { icon: Landmark, tone: "border-amber-300/30 bg-amber-400/10 text-amber-200" },
+  "klima-labor": { icon: CloudSun, tone: "border-sky-300/30 bg-sky-400/10 text-sky-200" },
+  "weltregionen-atlas": { icon: MapPinned, tone: "border-indigo-300/30 bg-indigo-400/10 text-indigo-200" },
+  "mensch-raum-netz": { icon: Network, tone: "border-violet-300/30 bg-violet-400/10 text-violet-200" },
+  "geo-daten-check": { icon: ChartNoAxesColumn, tone: "border-blue-300/30 bg-blue-400/10 text-blue-200" },
+  "zukunfts-planer": { icon: Leaf, tone: "border-emerald-300/30 bg-emerald-400/10 text-emerald-200" },
 };
 
 function gameIcon(game: VisualLabGame) {
@@ -981,32 +1030,7 @@ function GeographieGameSwitch({
 }: {
   gameId: string; grade: number; lang: Lang; tSoon: string;
 }) {
-  const pool = GEOGRAPHY_POOLS;
-  if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
-  switch (gameId) {
-    case "meteor-catch": {
-      const round = pickRound(pool.meteorCatch, undefined);
-      return round ? <MeteorCatchGame round={localizeDeep(round, lang)} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    case "orbit-sort": {
-      const round = pickRound(pool.orbitSort, undefined);
-      return round ? <OrbitSortGame round={localizeDeep(round, lang)} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    case "signal-runner": {
-      const round = pickRound(pool.signalRunner, undefined);
-      return round ? <SignalRunnerGame round={localizeDeep(round, lang)} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    case "constellation-builder": {
-      const round = pickRound(pool.constellationBuilder, undefined);
-      return round ? <ConstellationBuilderGame round={localizeDeep(round, lang)} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    case "memory-radar": {
-      const rounds = pool.memoryRadar.slice(0, 3);
-      return rounds.length > 0 ? <MemoryRadarGame rounds={localizeDeep(rounds, lang)} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    default:
-      return <FallbackBox title={gameId} info={tSoon} />;
-  }
+  return <GeographyLab gameId={gameId} grade={grade} lang={lang} fallback={tSoon} />;
 }
 
 function PhysikGameSwitch({

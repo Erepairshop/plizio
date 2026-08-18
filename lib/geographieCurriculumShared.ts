@@ -139,8 +139,10 @@ export function getGeneratedQuestions(
 // kisbetűs + ékezet-független, hogy a tartalmilag azonos válaszokat egynek lássuk.
 function answerKey(q: CurriculumQuestion): string {
   let a = "";
-  if (q.type === "mcq" && Array.isArray(q.options) && typeof q.correct === "number") {
-    a = q.options[q.correct] ?? "";
+  if (q.type === "mcq") {
+    if (Array.isArray(q.options) && typeof q.correct === "number") {
+      a = q.options[q.correct] ?? "";
+    }
   } else if (q.answer != null) {
     a = Array.isArray(q.answer) ? (q.answer[0] ?? "") : String(q.answer);
   }
