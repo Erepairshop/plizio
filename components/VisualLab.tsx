@@ -27,6 +27,18 @@ import {
   Compass,
   CloudSun,
   Leaf,
+  Orbit,
+  RadioTower,
+  Sparkles,
+  Brain,
+  Keyboard,
+  ShieldCheck,
+  Languages,
+  ListTree,
+  Scissors,
+  RefreshCw,
+  Ghost,
+  Image,
   type LucideIcon,
 } from "lucide-react";
 import VisualLabIcon from "./VisualLabIcon";
@@ -653,6 +665,19 @@ export default function VisualLab(props: VisualLabProps) {
 /* ------------------------------------------------------------------ */
 
 const GAME_ICONS: Record<string, { icon: LucideIcon; tone: string }> = {
+  "meteor-catch": { icon: Crosshair, tone: "border-orange-300/30 bg-orange-400/10 text-orange-200" },
+  "orbit-sort": { icon: Orbit, tone: "border-indigo-300/30 bg-indigo-400/10 text-indigo-200" },
+  "signal-runner": { icon: RadioTower, tone: "border-cyan-300/30 bg-cyan-400/10 text-cyan-200" },
+  "constellation-builder": { icon: Sparkles, tone: "border-violet-300/30 bg-violet-400/10 text-violet-200" },
+  "memory-radar": { icon: Brain, tone: "border-pink-300/30 bg-pink-400/10 text-pink-200" },
+  "tipp-sturm": { icon: Keyboard, tone: "border-cyan-300/30 bg-cyan-400/10 text-cyan-200" },
+  "wort-waechter": { icon: ShieldCheck, tone: "border-emerald-300/30 bg-emerald-400/10 text-emerald-200" },
+  "artikel-asteroids": { icon: Languages, tone: "border-amber-300/30 bg-amber-400/10 text-amber-200" },
+  "satzbau-sniper": { icon: ListTree, tone: "border-sky-300/30 bg-sky-400/10 text-sky-200" },
+  "silben-slicer": { icon: Scissors, tone: "border-rose-300/30 bg-rose-400/10 text-rose-200" },
+  "verben-vortex": { icon: RefreshCw, tone: "border-violet-300/30 bg-violet-400/10 text-violet-200" },
+  "grusel-builder": { icon: Ghost, tone: "border-fuchsia-300/30 bg-fuchsia-400/10 text-fuchsia-200" },
+  "grusel-bild": { icon: Image, tone: "border-purple-300/30 bg-purple-400/10 text-purple-200" },
   "math-quest": { icon: Gamepad2, tone: "border-teal-300/30 bg-teal-400/10 text-teal-300" },
   "math-campaign": { icon: Rocket, tone: "border-amber-300/30 bg-amber-400/10 text-amber-300" },
   "math-ninja": { icon: Swords, tone: "border-rose-300/30 bg-rose-400/10 text-rose-300" },
