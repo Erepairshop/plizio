@@ -2,13 +2,15 @@
 
 import { ChangeEvent, useEffect, useRef, useState } from "react";
 import { AlignCenter, AlignLeft, AlignRight, Camera, Check, Copy, Download, Globe2, ImagePlus, Link2, LoaderCircle, MapPin, RotateCcw, Search, Send, ShieldCheck, SlidersHorizontal, Sparkles, Stamp, Type } from "lucide-react";
-import { canvasToBlob, renderPostcard, type PostcardFont, type PostcardLanguage, type PostcardPhotoEdit, type PostcardStamp, type PostcardTextAlign, type PostcardTheme } from "@/lib/postcard/renderPostcard";
+import { canvasToBlob, renderPostcard, type PostcardDistanceMode, type PostcardFont, type PostcardLanguage, type PostcardMood, type PostcardPhotoEdit, type PostcardStamp, type PostcardTextAlign, type PostcardTheme } from "@/lib/postcard/renderPostcard";
 import { getLanguage } from "@/lib/language";
+import QRCode from "qrcode";
 
 const themes: PostcardTheme[] = ["vintage", "polaroid", "airmail", "scrapbook", "minimal"];
 const fonts: PostcardFont[] = ["classic", "handwritten", "editorial", "modern", "typewriter"];
 const stamps: PostcardStamp[] = ["local", "passport", "airmail", "rail", "modern"];
 const DEFAULT_PHOTO_EDIT: PostcardPhotoEdit = { zoom: 1, offsetX: 0, offsetY: 0, rotation: 0, brightness: 100, contrast: 100, saturation: 100 };
+const ROUTE_API_URL = "https://plizio-camper.plizio.workers.dev/plan";
 const FONT_PREVIEWS: Record<PostcardFont, string> = {
   classic: "Georgia, serif",
   handwritten: '"Segoe Print", "Bradley Hand", cursive',
@@ -18,7 +20,139 @@ const FONT_PREVIEWS: Record<PostcardFont, string> = {
 };
 type ShareExpiry = "7" | "30" | "forever";
 type PlaceSearchRow = [name: string, country: string, url: string, lat: number | null, lng: number | null, kind: string];
+type LocationState = "idle" | "loading" | "ready" | "error";
 
+const moods: PostcardMood[] = ["joyful", "adventure", "calm", "romantic"];
+const MOOD_SYMBOLS: Record<PostcardMood, string> = { joyful: "☀", adventure: "⌁", calm: "❋", romantic: "♥" };
+
+const MOMENT_COPY: Record<PostcardLanguage, {
+  title: string;
+  intro: string;
+  mood: string;
+  moods: Record<PostcardMood, string>;
+  suggest: string;
+  distance: string;
+  locating: string;
+  locationMissing: string;
+  locationError: string;
+  locationReady: (distance: string) => string;
+  locationFallback: (distance: string) => string;
+  byCar: string;
+  straightLine: string;
+  routePrivacy: string;
+  placeLink: string;
+  qrTitle: string;
+  qrHint: string;
+  previewTap: string;
+  previewClose: string;
+  messages: Record<PostcardMood, (place: string, country: string) => string>;
+}> = {
+  de: {
+    title: "Dein Reisemoment", intro: "Gib der Karte eine Stimmung und verbinde sie mit dem echten Ort.", mood: "Stimmung",
+    moods: { joyful: "Sonnig", adventure: "Abenteuer", calm: "Auszeit", romantic: "Von Herzen" },
+    suggest: "Text vorschlagen", distance: "Entfernung von mir", locating: "Standort wird ermittelt…",
+    locationMissing: "Wähle zuerst einen Plizio-Ort mit Koordinaten aus.", locationError: "Dein Standort konnte nicht ermittelt werden.",
+    locationReady: (distance) => `Mit dem Auto sind es etwa ${distance} km bis zu diesem Ort.`, locationFallback: (distance) => `Die Fahrstrecke war nicht verfügbar. Luftlinie: ${distance} km.`, byCar: "Mit dem Auto", straightLine: "Luftlinie", routePrivacy: "Für die Fahrstrecke wird dein Standort nur an den Routendienst übermittelt und nicht in der Postkarte gespeichert.", placeLink: "Ort auf Plizio öffnen",
+    qrTitle: "QR-Code zum Reisemoment", qrHint: "Nach dem Erstellen eines Links erscheint der QR-Code auch auf neu heruntergeladenen Karten.", previewTap: "Vorschau vergrößern", previewClose: "Vorschau schließen",
+    messages: {
+      joyful: (place) => `Was für ein schöner Tag in ${place}! Ich schicke dir sonnige Grüße und ein kleines Stück dieser Reise.`,
+      adventure: (place, country) => `${place} in ${country} steckt voller Entdeckungen. Dieses Abenteuer werde ich so schnell nicht vergessen!`,
+      calm: (place) => `Ein ruhiger Moment in ${place}, fern vom Alltag. Ich wünschte, du könntest diese Aussicht gerade mit mir teilen.`,
+      romantic: (place) => `Ein besonderer Moment in ${place}, den ich von Herzen mit dir teilen möchte.`,
+    },
+  },
+  hu: {
+    title: "A te utazási pillanatod", intro: "Adj hangulatot a képeslapnak, és kösd össze a valódi hellyel.", mood: "Hangulat",
+    moods: { joyful: "Napsütés", adventure: "Kaland", calm: "Megpihenés", romantic: "Szívből" },
+    suggest: "Szövegjavaslat", distance: "Távolság tőlem", locating: "Helyzet meghatározása…",
+    locationMissing: "Először válassz koordinátával rendelkező Plizio-helyet.", locationError: "Nem sikerült meghatározni a helyzetedet.",
+    locationReady: (distance) => `Autóval körülbelül ${distance} km-re vagy ettől a helytől.`, locationFallback: (distance) => `Az autós útvonal nem volt elérhető. Légvonalban ${distance} km.`, byCar: "Autóval", straightLine: "Légvonal", routePrivacy: "Az autós útvonalhoz a helyzeted csak az útvonal-szolgáltatáshoz kerül, a képeslap nem tárolja.", placeLink: "Hely megnyitása a Plizión",
+    qrTitle: "QR-kód az utazási pillanathoz", qrHint: "A link elkészülte után a QR-kód az újonnan letöltött képeslapon is megjelenik.", previewTap: "Előnézet nagyítása", previewClose: "Előnézet bezárása",
+    messages: {
+      joyful: (place) => `Csodás nap ${place} városában! Küldök egy kis napsütést és egy darabot ebből az utazásból.`,
+      adventure: (place, country) => `${place}, ${country} tele van felfedeznivalóval. Ezt a kalandot sokáig nem fogom elfelejteni!`,
+      calm: (place) => `Egy nyugodt pillanat ${place} környékén, távol a hétköznapoktól. Bárcsak te is látnád ezt!`,
+      romantic: (place) => `Egy különleges pillanat ${place} városában, amit szívből szeretnék megosztani veled.`,
+    },
+  },
+  en: {
+    title: "Your travel moment", intro: "Give the card a mood and connect it to the real place.", mood: "Mood",
+    moods: { joyful: "Sunshine", adventure: "Adventure", calm: "Slow moment", romantic: "From the heart" },
+    suggest: "Suggest a message", distance: "Distance from me", locating: "Finding your location…",
+    locationMissing: "First choose a Plizio place that has coordinates.", locationError: "Your location could not be determined.",
+    locationReady: (distance) => `It is about ${distance} km by car to this place.`, locationFallback: (distance) => `The driving route was unavailable. Straight-line distance: ${distance} km.`, byCar: "By car", straightLine: "Straight line", routePrivacy: "Your location is sent only to the routing service and is not stored in the postcard.", placeLink: "Open place on Plizio",
+    qrTitle: "QR code for this travel moment", qrHint: "After creating a link, the QR code also appears on newly downloaded cards.", previewTap: "Enlarge preview", previewClose: "Close preview",
+    messages: {
+      joyful: (place) => `What a beautiful day in ${place}! Sending you some sunshine and a little piece of this journey.`,
+      adventure: (place, country) => `${place}, ${country} is full of discoveries. I will remember this adventure for a long time!`,
+      calm: (place) => `A quiet moment in ${place}, far from everyday life. I wish you could see this view with me.`,
+      romantic: (place) => `A special moment in ${place} that I wanted to share with you from the heart.`,
+    },
+  },
+  ro: {
+    title: "Momentul călătoriei tale", intro: "Alege o stare și leagă cartea poștală de locul real.", mood: "Stare",
+    moods: { joyful: "Soare", adventure: "Aventură", calm: "Liniște", romantic: "Din inimă" },
+    suggest: "Sugerează un mesaj", distance: "Distanța de la mine", locating: "Se caută poziția…",
+    locationMissing: "Alege mai întâi un loc Plizio cu coordonate.", locationError: "Poziția ta nu a putut fi determinată.",
+    locationReady: (distance) => `Sunt aproximativ ${distance} km cu mașina până la acest loc.`, locationFallback: (distance) => `Ruta auto nu este disponibilă. Distanța în linie dreaptă: ${distance} km.`, byCar: "Cu mașina", straightLine: "Linie dreaptă", routePrivacy: "Poziția ta este trimisă doar serviciului de rutare și nu este salvată în cartea poștală.", placeLink: "Deschide locul pe Plizio",
+    qrTitle: "Cod QR pentru acest moment", qrHint: "După crearea linkului, codul QR apare și pe cărțile poștale descărcate ulterior.", previewTap: "Mărește previzualizarea", previewClose: "Închide previzualizarea",
+    messages: {
+      joyful: (place) => `Ce zi frumoasă în ${place}! Îți trimit puțin soare și o parte din această călătorie.`,
+      adventure: (place, country) => `${place}, ${country} este plin de descoperiri. Nu voi uita prea curând această aventură!`,
+      calm: (place) => `Un moment liniștit în ${place}, departe de agitația zilnică. Mi-aș dori să vezi și tu priveliștea.`,
+      romantic: (place) => `Un moment special în ${place}, pe care vreau să îl împărtășesc cu tine din inimă.`,
+    },
+  },
+  it: {
+    title: "Il tuo momento di viaggio", intro: "Scegli un'emozione e collega la cartolina al luogo reale.", mood: "Atmosfera",
+    moods: { joyful: "Sole", adventure: "Avventura", calm: "Relax", romantic: "Dal cuore" },
+    suggest: "Suggerisci un messaggio", distance: "Distanza da me", locating: "Ricerca della posizione…",
+    locationMissing: "Scegli prima un luogo Plizio con coordinate.", locationError: "Non è stato possibile trovare la tua posizione.",
+    locationReady: (distance) => `Questo luogo dista circa ${distance} km in auto.`, locationFallback: (distance) => `Il percorso in auto non è disponibile. Distanza in linea d'aria: ${distance} km.`, byCar: "In auto", straightLine: "Linea d'aria", routePrivacy: "La posizione viene inviata solo al servizio di itinerari e non viene salvata nella cartolina.", placeLink: "Apri il luogo su Plizio",
+    qrTitle: "Codice QR del momento di viaggio", qrHint: "Dopo la creazione del link, il QR appare anche sulle cartoline scaricate in seguito.", previewTap: "Ingrandisci anteprima", previewClose: "Chiudi anteprima",
+    messages: {
+      joyful: (place) => `Che bella giornata a ${place}! Ti mando un po' di sole e un piccolo pezzo di questo viaggio.`,
+      adventure: (place, country) => `${place}, ${country} è piena di scoperte. Ricorderò a lungo questa avventura!`,
+      calm: (place) => `Un momento tranquillo a ${place}, lontano dalla vita quotidiana. Vorrei che vedessi questo panorama con me.`,
+      romantic: (place) => `Un momento speciale a ${place}, che desidero condividere con te dal profondo del cuore.`,
+    },
+  },
+};
+
+function distanceBetweenKm(fromLat: number, fromLng: number, toLat: number, toLng: number) {
+  const radians = (value: number) => value * Math.PI / 180;
+  const latDelta = radians(toLat - fromLat);
+  const lngDelta = radians(toLng - fromLng);
+  const a = Math.sin(latDelta / 2) ** 2 + Math.cos(radians(fromLat)) * Math.cos(radians(toLat)) * Math.sin(lngDelta / 2) ** 2;
+  return 6371 * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+}
+
+function formatDistance(value: number) {
+  return value < 10 ? value.toFixed(1) : String(Math.round(value));
+}
+
+async function drivingDistanceKm(fromLat: number, fromLng: number, toLat: number, toLng: number, straightKm: number) {
+  const controller = new AbortController();
+  const timeout = window.setTimeout(() => controller.abort(), 12000);
+  try {
+    const response = await fetch(ROUTE_API_URL, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ origin: [fromLng, fromLat], destination: [toLng, toLat], days: 1, stops: 0, mode: "car" }),
+      signal: controller.signal,
+    });
+    if (!response.ok) throw new Error("route_failed");
+    const result = await response.json();
+    const routePoints = Array.isArray(result?.route) ? result.route.filter((point: unknown) => Array.isArray(point) && point.length === 2) as [number, number][] : [];
+    const geometryKm = routePoints.reduce((total, point, index) => index === 0 ? 0 : total + distanceBetweenKm(routePoints[index - 1][1], routePoints[index - 1][0], point[1], point[0]), 0);
+    const summaryKm = Number(result?.summary?.km);
+    const routeKm = Number.isFinite(geometryKm) && geometryKm > 0 ? geometryKm : summaryKm;
+    if (!Number.isFinite(routeKm) || routeKm < straightKm * 0.9 || routeKm > Math.max(50000, straightKm * 12)) throw new Error("invalid_route");
+    return routeKm;
+  } finally {
+    window.clearTimeout(timeout);
+  }
+}
 const COPY = {
   de: {
     placeDefault: "Berlin", countryDefault: "Deutschland", messageDefault: "Grüße von diesem wunderschönen Ort!",
@@ -172,6 +306,8 @@ function RangeControl({ label, value, min, max, step = 1, unit = "", onChange }:
 
 export default function PostcardEditor() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
+  const mobileCanvasRef = useRef<HTMLCanvasElement>(null);
+  const qrImageRef = useRef<HTMLImageElement | null>(null);
   const imageRef = useRef<HTMLImageElement | null>(null);
   const objectUrlRef = useRef<string | null>(null);
   const placeShardCacheRef = useRef(new Map<string, PlaceSearchRow[]>());
@@ -193,6 +329,10 @@ export default function PostcardEditor() {
   const [fontSize, setFontSize] = useState(42);
   const [textAlign, setTextAlign] = useState<PostcardTextAlign>("left");
   const [stamp, setStamp] = useState<PostcardStamp>("local");
+  const [mood, setMood] = useState<PostcardMood>("joyful");
+  const [distanceKm, setDistanceKm] = useState<number | undefined>();
+  const [distanceMode, setDistanceMode] = useState<PostcardDistanceMode | undefined>();
+  const [locationState, setLocationState] = useState<LocationState>("idle");
   const [photoEdit, setPhotoEdit] = useState<PostcardPhotoEdit>({ ...DEFAULT_PHOTO_EDIT });
   const [photoName, setPhotoName] = useState("");
   const [imageRevision, setImageRevision] = useState(0);
@@ -203,7 +343,11 @@ export default function PostcardEditor() {
   const [publicUrl, setPublicUrl] = useState("");
   const [creatingLink, setCreatingLink] = useState(false);
   const [linkCopied, setLinkCopied] = useState(false);
+  const [qrDataUrl, setQrDataUrl] = useState("");
+  const [qrRevision, setQrRevision] = useState(0);
+  const [mobilePreviewOpen, setMobilePreviewOpen] = useState(false);
   const t = COPY[lang];
+  const moment = MOMENT_COPY[lang];
   const date = new Intl.DateTimeFormat(t.locale, { year: "numeric", month: "short", day: "numeric" }).format(new Date());
 
   useEffect(() => {
@@ -308,18 +452,50 @@ export default function PostcardEditor() {
   }, [lang, placeQuery, placeSearchOpen]);
 
   useEffect(() => {
-    if (!canvasRef.current) return;
-    renderPostcard(canvasRef.current, imageRef.current, { place, country, latitude, longitude, placeKind, message, sender, theme, date, lang, font, fontSize, textAlign, stamp, photoEdit });
-  }, [place, country, latitude, longitude, placeKind, message, sender, theme, date, lang, font, fontSize, textAlign, stamp, photoEdit, photoName, imageRevision]);
+    const canvas = canvasRef.current;
+    if (!canvas) return;
+    renderPostcard(canvas, imageRef.current, { place, country, latitude, longitude, placeKind, message, sender, theme, date, lang, font, fontSize, textAlign, stamp, mood, distanceKm, distanceMode, qrImage: qrImageRef.current, photoEdit });
+    const mobileCanvas = mobileCanvasRef.current;
+    const mobileContext = mobileCanvas?.getContext("2d");
+    if (mobileCanvas && mobileContext) {
+      mobileCanvas.width = 600;
+      mobileCanvas.height = Math.max(1, Math.round(canvas.height / 2));
+      mobileContext.drawImage(canvas, 0, 0, mobileCanvas.width, mobileCanvas.height);
+    }
+  }, [place, country, latitude, longitude, placeKind, message, sender, theme, date, lang, font, fontSize, textAlign, stamp, mood, distanceKm, distanceMode, qrRevision, photoEdit, photoName, imageRevision]);
 
   useEffect(() => () => {
     if (objectUrlRef.current) URL.revokeObjectURL(objectUrlRef.current);
   }, []);
 
   useEffect(() => {
+    let cancelled = false;
+    if (!publicUrl) {
+      qrImageRef.current = null;
+      setQrDataUrl("");
+      setQrRevision((value) => value + 1);
+      return () => { cancelled = true; };
+    }
+    void QRCode.toDataURL(publicUrl, { errorCorrectionLevel: "M", margin: 1, width: 220, color: { dark: "#28231e", light: "#fffaf0" } }).then((dataUrl) => {
+      if (cancelled) return;
+      const image = new Image();
+      image.onload = () => {
+        if (cancelled) return;
+        qrImageRef.current = image;
+        setQrDataUrl(dataUrl);
+        setQrRevision((value) => value + 1);
+      };
+      image.src = dataUrl;
+    }).catch(() => {
+      if (!cancelled) setQrDataUrl("");
+    });
+    return () => { cancelled = true; };
+  }, [publicUrl]);
+
+  useEffect(() => {
     setPublicUrl("");
     setLinkCopied(false);
-  }, [place, country, latitude, longitude, placeKind, sourcePoiUrl, message, sender, theme, font, fontSize, textAlign, stamp, photoEdit, photoName, imageRevision]);
+  }, [place, country, latitude, longitude, placeKind, sourcePoiUrl, message, sender, theme, font, fontSize, textAlign, stamp, mood, distanceKm, photoEdit, photoName, imageRevision]);
 
   function updatePhotoEdit(key: keyof PostcardPhotoEdit, value: number) {
     setPhotoEdit((current) => ({ ...current, [key]: value }));
@@ -332,6 +508,9 @@ export default function PostcardEditor() {
     setLatitude(row[3] ?? undefined);
     setLongitude(row[4] ?? undefined);
     setPlaceKind(row[5]);
+    setDistanceKm(undefined);
+    setDistanceMode(undefined);
+    setLocationState("idle");
     setPlaceQuery(row[0]);
     setPlaceSuggestions([]);
     setPlaceSearchState("idle");
@@ -344,6 +523,53 @@ export default function PostcardEditor() {
     setLatitude(undefined);
     setLongitude(undefined);
     setPlaceKind("");
+    setDistanceKm(undefined);
+    setDistanceMode(undefined);
+    setLocationState("idle");
+  }
+
+  function suggestMessage() {
+    setMessage(moment.messages[mood](place, country));
+    trackPostcard("postcard_message_suggested", { lang, mood });
+  }
+
+  function detectDistance() {
+    if (latitude == null || longitude == null) {
+      setNotice(moment.locationMissing);
+      setLocationState("error");
+      return;
+    }
+    if (!("geolocation" in navigator)) {
+      setNotice(moment.locationError);
+      setLocationState("error");
+      return;
+    }
+    setNotice("");
+    setLocationState("loading");
+    navigator.geolocation.getCurrentPosition(
+      async (position) => {
+        const straightDistance = distanceBetweenKm(position.coords.latitude, position.coords.longitude, latitude, longitude);
+        try {
+          const distance = await drivingDistanceKm(position.coords.latitude, position.coords.longitude, latitude, longitude, straightDistance);
+          setDistanceKm(distance);
+          setDistanceMode("road");
+          setLocationState("ready");
+          setNotice(moment.locationReady(formatDistance(distance)));
+          trackPostcard("postcard_distance_added", { distance: String(Math.round(distance)), mode: "road" });
+        } catch {
+          setDistanceKm(straightDistance);
+          setDistanceMode("straight");
+          setLocationState("ready");
+          setNotice(moment.locationFallback(formatDistance(straightDistance)));
+          trackPostcard("postcard_distance_added", { distance: String(Math.round(straightDistance)), mode: "straight_fallback" });
+        }
+      },
+      () => {
+        setLocationState("error");
+        setNotice(moment.locationError);
+      },
+      { enableHighAccuracy: false, timeout: 12000, maximumAge: 300000 },
+    );
   }
 
   function loadPhoto(event: ChangeEvent<HTMLInputElement>) {
@@ -422,7 +648,14 @@ export default function PostcardEditor() {
       body.append("country", country);
       body.append("lang", lang);
       body.append("theme", theme);
+      body.append("mood", mood);
+      if (distanceKm != null) body.append("distance_km", distanceKm.toFixed(1));
+      if (distanceMode) body.append("distance_mode", distanceMode);
       if (sourcePoiUrl) body.append("poi_url", sourcePoiUrl);
+      if (latitude != null && longitude != null) {
+        body.append("lat", latitude.toFixed(6));
+        body.append("lng", longitude.toFixed(6));
+      }
       body.append("expiry", shareExpiry);
       body.append("consent", "yes");
       body.append("website", "");
@@ -529,6 +762,23 @@ export default function PostcardEditor() {
               <label className="min-w-0 block"><span className="mb-2 block text-xs font-bold uppercase tracking-widest">{t.country}</span><input value={country} maxLength={60} onChange={(e) => { setCountry(e.target.value); clearSelectedPlace(); }} className="box-border min-w-0 w-full rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /></label>
             </div>
 
+            <section aria-label={moment.title} className="mt-5 overflow-hidden rounded-2xl border border-[#b7462f]/20 bg-gradient-to-br from-[#fff8e9] via-white/70 to-[#eef1e7] p-4 shadow-[0_10px_28px_rgba(80,53,28,.08)]">
+              <div className="flex items-start gap-3">
+                <span className="grid h-10 w-10 shrink-0 place-items-center rounded-full bg-[#b7462f] text-lg text-white shadow-sm">{MOOD_SYMBOLS[mood]}</span>
+                <div className="min-w-0"><h2 className="font-serif text-lg font-black">{moment.title}</h2><p className="mt-0.5 text-xs leading-5 text-[#6b5c4e]">{moment.intro}</p></div>
+              </div>
+              <fieldset className="mt-4"><legend className="text-[11px] font-bold uppercase tracking-widest text-[#6b5c4e]">{moment.mood}</legend>
+                <div className="mt-2 grid grid-cols-2 gap-2 sm:grid-cols-4 lg:grid-cols-2 xl:grid-cols-4">
+                  {moods.map((item) => <button type="button" key={item} aria-pressed={mood === item} onClick={() => setMood(item)} className={`min-h-11 rounded-xl border px-2 py-2 text-xs font-bold transition ${mood === item ? "border-[#b7462f] bg-[#f8dec0]/75 text-[#8f3928] shadow-sm" : "border-[#6d5037]/15 bg-white/65 text-[#65584c] hover:bg-white"}`}><span className="mr-1" aria-hidden="true">{MOOD_SYMBOLS[item]}</span>{moment.moods[item]}</button>)}
+                </div>
+              </fieldset>
+              <div className="mt-3 grid gap-2 sm:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2">
+                <button type="button" onClick={suggestMessage} className="flex min-h-11 items-center justify-center gap-2 rounded-xl bg-[#b7462f] px-3 py-2 text-sm font-bold text-white transition hover:-translate-y-0.5"><Sparkles size={16} />{moment.suggest}</button>
+                <button type="button" onClick={detectDistance} disabled={locationState === "loading"} className="flex min-h-11 items-center justify-center gap-2 rounded-xl border border-[#47745f]/30 bg-[#eef1e7]/80 px-3 py-2 text-sm font-bold text-[#345847] transition hover:bg-white disabled:cursor-wait disabled:opacity-60"><MapPin size={16} />{locationState === "loading" ? moment.locating : distanceKm == null ? moment.distance : `${distanceMode === "road" ? moment.byCar : moment.straightLine}: ${formatDistance(distanceKm)} km`}</button>
+              </div>
+              <p className="mt-2 text-xs leading-relaxed text-[#6b5c4e]">{moment.routePrivacy}</p>
+              {sourcePoiUrl ? <a href={sourcePoiUrl} className="mt-3 flex min-h-10 items-center justify-between gap-3 rounded-xl border border-[#47745f]/20 bg-white/65 px-3 py-2 text-sm font-bold text-[#345847] transition hover:bg-white"><span className="flex min-w-0 items-center gap-2"><MapPin size={15} className="shrink-0" /><span className="truncate">{moment.placeLink}</span></span><span aria-hidden="true">↗</span></a> : null}
+            </section>
             <label className="mt-5 block cursor-pointer rounded-2xl border-2 border-dashed border-[#b7462f]/35 bg-[#f8dec0]/35 p-5 text-center transition hover:bg-[#f8dec0]/65">
               <input type="file" accept="image/*" className="sr-only" onChange={loadPhoto} />
               <ImagePlus className="mx-auto text-[#b7462f]" />
@@ -595,6 +845,10 @@ export default function PostcardEditor() {
                     <input readOnly value={publicUrl} aria-label={t.publicReady} className="box-border min-w-0 flex-1 bg-transparent text-xs text-[#3d4c43] outline-none" />
                     <button type="button" onClick={copyPublicLink} className="grid h-9 w-9 shrink-0 place-items-center rounded-lg bg-[#e0e8dc] text-[#345847]" aria-label={t.copyLink}>{linkCopied ? <Check size={17} /> : <Copy size={17} />}</button>
                   </div>
+                  {qrDataUrl ? <div className="flex items-center gap-3 rounded-2xl border border-[#47745f]/20 bg-white/70 p-3">
+                    <img src={qrDataUrl} alt={moment.qrTitle} width={96} height={96} className="h-24 w-24 shrink-0 rounded-lg border border-[#6d5037]/10 bg-white p-1" />
+                    <div className="min-w-0"><strong className="block text-sm text-[#345847]">{moment.qrTitle}</strong><span className="mt-1 block text-xs leading-5 text-[#5a685f]">{moment.qrHint}</span></div>
+                  </div> : null}
                   <div className="grid grid-cols-2 gap-2">
                     <button type="button" onClick={copyPublicLink} className="flex items-center justify-center gap-2 rounded-full border border-[#47745f]/30 bg-white/70 px-3 py-2.5 text-sm font-bold text-[#345847]"><Copy size={16} /> {linkCopied ? t.copied : t.copyLink}</button>
                     <button type="button" onClick={sharePublicLink} className="flex items-center justify-center gap-2 rounded-full bg-[#47745f] px-3 py-2.5 text-sm font-bold text-white"><Send size={16} /> {t.shareLink}</button>
@@ -609,9 +863,14 @@ export default function PostcardEditor() {
           <div className="relative mx-auto min-w-0 w-full max-w-[880px] lg:sticky lg:top-6">
             <div className="absolute -inset-2 -rotate-1 rounded-[24px] bg-[#dfc5a0]/70 sm:-inset-5 sm:-rotate-2 sm:rounded-[36px]" />
             <div className="relative min-w-0 rounded-[16px] bg-white p-2 shadow-[0_24px_55px_rgba(56,36,16,.22)] transition duration-500 sm:rotate-[1deg] sm:rounded-[22px] sm:p-5 sm:shadow-[0_32px_80px_rgba(56,36,16,.25)] sm:hover:rotate-0">
+              <div aria-label="Live postcard mood" className="pointer-events-none absolute left-4 top-4 z-10 flex max-w-[calc(100%-2rem)] items-center gap-2 rounded-full border border-white/60 bg-[#28231e]/75 px-3 py-1.5 text-[10px] font-black uppercase tracking-[0.14em] text-white shadow-lg backdrop-blur-sm sm:left-7 sm:top-7"><span className="h-1.5 w-1.5 animate-pulse rounded-full bg-[#f4c95d]" /><span className="truncate">{moment.moods[mood]}{distanceKm == null ? "" : ` · ${distanceMode === "road" ? moment.byCar : moment.straightLine} ${formatDistance(distanceKm)} km`}</span></div>
               <canvas ref={canvasRef} className="box-border block h-auto max-w-full w-full rounded-[8px] bg-[#e7cda7] sm:rounded-[10px]" aria-label={t.previewLabel} />
             </div>
             <p className="mt-7 flex items-center justify-center gap-2 text-sm font-semibold text-[#65584c]"><Camera size={17} /> {t.preview}</p>
+            <button type="button" onClick={() => setMobilePreviewOpen((value) => !value)} aria-label={mobilePreviewOpen ? moment.previewClose : moment.previewTap} aria-expanded={mobilePreviewOpen} className={`fixed z-50 overflow-hidden rounded-2xl border border-white/70 bg-white/95 p-2 text-left shadow-[0_18px_55px_rgba(43,31,20,.35)] backdrop-blur transition-all duration-300 lg:hidden ${mobilePreviewOpen ? "bottom-20 left-3 right-3" : "bottom-20 right-3 w-28"}`}>
+              <span className="mb-1.5 flex items-center justify-between gap-2 px-1 text-[9px] font-black uppercase tracking-widest text-[#65584c]"><span className="flex items-center gap-1"><Camera size={11} />{t.previewLabel}</span><span aria-hidden="true">{mobilePreviewOpen ? "×" : "+"}</span></span>
+              <canvas ref={mobileCanvasRef} className={`mx-auto block h-auto rounded-lg bg-[#e7cda7] ${mobilePreviewOpen ? "max-h-[62vh] max-w-full" : "max-h-28 max-w-full"}`} aria-hidden="true" />
+            </button>
           </div>
         </div>
       </section>

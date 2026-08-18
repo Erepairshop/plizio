@@ -143,19 +143,35 @@ function cleanup_expired_cards(int $scanLimit = 120): void {
     }
 }
 
+function coordinate_value(mixed $value, float $minimum, float $maximum): ?float {
+    if ($value === null || $value === '' || !is_numeric($value)) return null;
+    $number = (float)$value;
+    return is_finite($number) && $number >= $minimum && $number <= $maximum ? $number : null;
+}
+
+function mood_value(mixed $value): string {
+    $mood = clean_text($value, 20);
+    return in_array($mood, ['joyful', 'adventure', 'calm', 'romantic'], true) ? $mood : 'joyful';
+}
+
+function distance_mode_value(mixed $value): string {
+    $mode = clean_text($value, 20);
+    return in_array($mode, ['road', 'straight'], true) ? $mode : 'straight';
+}
+
 function copy_for(string $lang): array {
     $all = [
-        'de' => ['title' => 'Eine persönliche Postkarte aus %s', 'description' => 'Jemand hat dir eine persönliche Reisepostkarte mit Plizio geschickt.', 'heading' => 'Eine Postkarte für dich', 'open' => 'Postkarte öffnen', 'download' => 'Herunterladen', 'share' => 'Weiterleiten', 'create' => 'Eigene Postkarte gestalten', 'expires' => 'Verfügbar bis %s', 'forever' => 'Dauerhaft verfügbar'],
-        'hu' => ['title' => 'Személyes képeslap innen: %s', 'description' => 'Valaki személyes utazási képeslapot küldött neked a Plizióval.', 'heading' => 'Képeslap érkezett neked', 'open' => 'Képeslap kinyitása', 'download' => 'Letöltés', 'share' => 'Továbbküldés', 'create' => 'Saját képeslap készítése', 'expires' => 'Elérhető eddig: %s', 'forever' => 'Korlátlan ideig elérhető'],
-        'en' => ['title' => 'A personal postcard from %s', 'description' => 'Someone sent you a personal travel postcard made with Plizio.', 'heading' => 'A postcard has arrived for you', 'open' => 'Open postcard', 'download' => 'Download', 'share' => 'Share', 'create' => 'Create your own postcard', 'expires' => 'Available until %s', 'forever' => 'Available without expiry'],
-        'ro' => ['title' => 'O carte poștală personală din %s', 'description' => 'Cineva ți-a trimis o carte poștală personală de călătorie creată cu Plizio.', 'heading' => 'Ai primit o carte poștală', 'open' => 'Deschide cartea poștală', 'download' => 'Descarcă', 'share' => 'Distribuie', 'create' => 'Creează propria carte poștală', 'expires' => 'Disponibilă până la %s', 'forever' => 'Disponibilă fără expirare'],
+        'de' => ['title' => 'Eine persönliche Postkarte aus %s', 'description' => 'Jemand hat dir eine persönliche Reisepostkarte mit Plizio geschickt.', 'heading' => 'Eine Postkarte für dich', 'open' => 'Postkarte öffnen', 'download' => 'Herunterladen', 'share' => 'Weiterleiten', 'create' => 'Eigene Postkarte gestalten', 'expires' => 'Verfügbar bis %s', 'forever' => 'Dauerhaft verfügbar', 'place' => 'Der echte Ort hinter dieser Karte', 'map' => 'Auf der Karte öffnen', 'distance' => '%s km Luftlinie vom Absender', 'road_distance' => '%s km mit dem Auto vom Absender', 'moods' => ['joyful' => 'Sonniger Moment', 'adventure' => 'Abenteuer', 'calm' => 'Auszeit', 'romantic' => 'Von Herzen']],
+        'hu' => ['title' => 'Személyes képeslap innen: %s', 'description' => 'Valaki személyes utazási képeslapot küldött neked a Plizióval.', 'heading' => 'Képeslap érkezett neked', 'open' => 'Képeslap kinyitása', 'download' => 'Letöltés', 'share' => 'Továbbküldés', 'create' => 'Saját képeslap készítése', 'expires' => 'Elérhető eddig: %s', 'forever' => 'Korlátlan ideig elérhető', 'place' => 'A képeslap valódi helye', 'map' => 'Megnyitás a térképen', 'distance' => '%s km légvonalban a feladótól', 'road_distance' => '%s km autóval a feladótól', 'moods' => ['joyful' => 'Napsütéses pillanat', 'adventure' => 'Kaland', 'calm' => 'Megpihenés', 'romantic' => 'Szívből']],
+        'en' => ['title' => 'A personal postcard from %s', 'description' => 'Someone sent you a personal travel postcard made with Plizio.', 'heading' => 'A postcard has arrived for you', 'open' => 'Open postcard', 'download' => 'Download', 'share' => 'Share', 'create' => 'Create your own postcard', 'expires' => 'Available until %s', 'forever' => 'Available without expiry', 'place' => 'The real place behind this card', 'map' => 'Open on the map', 'distance' => '%s km in a straight line from the sender', 'road_distance' => '%s km by car from the sender', 'moods' => ['joyful' => 'Sunny moment', 'adventure' => 'Adventure', 'calm' => 'Slow moment', 'romantic' => 'From the heart']],
+        'ro' => ['title' => 'O carte poștală personală din %s', 'description' => 'Cineva ți-a trimis o carte poștală personală de călătorie creată cu Plizio.', 'heading' => 'Ai primit o carte poștală', 'open' => 'Deschide cartea poștală', 'download' => 'Descarcă', 'share' => 'Distribuie', 'create' => 'Creează propria carte poștală', 'expires' => 'Disponibilă până la %s', 'forever' => 'Disponibilă fără expirare', 'place' => 'Locul real din spatele cărții', 'map' => 'Deschide pe hartă', 'distance' => 'La %s km în linie dreaptă de expeditor', 'road_distance' => 'La %s km cu mașina de expeditor', 'moods' => ['joyful' => 'Moment însorit', 'adventure' => 'Aventură', 'calm' => 'Liniște', 'romantic' => 'Din inimă']],
+        'it' => ['title' => 'Una cartolina personale da %s', 'description' => 'Qualcuno ti ha inviato una cartolina di viaggio personale creata con Plizio.', 'heading' => 'Hai ricevuto una cartolina', 'open' => 'Apri la cartolina', 'download' => 'Scarica', 'share' => 'Condividi', 'create' => 'Crea la tua cartolina', 'expires' => 'Disponibile fino al %s', 'forever' => 'Disponibile senza scadenza', 'place' => 'Il luogo reale della cartolina', 'map' => 'Apri sulla mappa', 'distance' => 'A %s km in linea d\'aria dal mittente', 'road_distance' => 'A %s km in auto dal mittente', 'moods' => ['joyful' => 'Momento di sole', 'adventure' => 'Avventura', 'calm' => 'Relax', 'romantic' => 'Dal cuore']],
     ];
     return $all[$lang] ?? $all['en'];
 }
-
 function render_card(string $token, array $meta): never {
     $escape = static fn(mixed $value): string => htmlspecialchars((string)$value, ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
-    $lang = in_array($meta['lang'] ?? '', ['de', 'hu', 'en', 'ro'], true) ? $meta['lang'] : 'en';
+    $lang = in_array($meta['lang'] ?? '', ['de', 'hu', 'en', 'ro', 'it'], true) ? $meta['lang'] : 'en';
     $copy = copy_for($lang);
     $place = clean_text($meta['place'] ?? '', 80) ?: clean_text($meta['country'] ?? '', 60) ?: 'Plizio';
     $title = sprintf($copy['title'], $place);
@@ -170,6 +186,27 @@ function render_card(string $token, array $meta): never {
     $poiCardOpen = $poiPath !== '' ? '<a class="poi-card-link" href="' . $escape($poiPath) . '" aria-label="' . $escape($poiLabel) . '">' : '';
     $poiCardClose = $poiPath !== '' ? '</a>' : '';
     $poiAction = $poiPath !== '' ? '<a class="poi" href="' . $escape($poiPath) . '">' . $escape($poiLabel) . '</a>' : '';
+    $country = clean_text($meta['country'] ?? '', 60);
+    $lat = coordinate_value($meta['lat'] ?? null, -90, 90);
+    $lng = coordinate_value($meta['lng'] ?? null, -180, 180);
+    $distanceKm = coordinate_value($meta['distance_km'] ?? null, 0, 25000);
+    $mood = mood_value($meta['mood'] ?? 'joyful');
+    $details = [];
+    if (isset($meta['mood'])) $details[] = $copy['moods'][$mood];
+    if ($distanceKm !== null) {
+        $distanceText = $distanceKm < 10 ? number_format($distanceKm, 1, '.', '') : number_format($distanceKm, 0, '.', '');
+        $distanceMode = distance_mode_value($meta['distance_mode'] ?? 'straight');
+        $details[] = sprintf($distanceMode === 'road' ? $copy['road_distance'] : $copy['distance'], $distanceText);
+    }
+    if ($lat !== null && $lng !== null) $details[] = number_format($lat, 4, '.', '') . '°, ' . number_format($lng, 4, '.', '') . '°';
+    $mapAction = '';
+    if ($lat !== null && $lng !== null) {
+        $mapUrl = 'https://www.openstreetmap.org/?mlat=' . rawurlencode((string)$lat) . '&mlon=' . rawurlencode((string)$lng) . '#map=14/' . rawurlencode((string)$lat) . '/' . rawurlencode((string)$lng);
+        $mapAction = '<a class="map-link" href="' . $escape($mapUrl) . '" target="_blank" rel="noopener noreferrer">' . $escape($copy['map']) . ' <span aria-hidden="true">↗</span></a>';
+    }
+    $placePanel = '<section class="place-panel"><span class="pin" aria-hidden="true">⌖</span><div class="place-copy"><p>' . $escape($copy['place']) . '</p><h2>' . $escape($place) . '</h2>'
+        . ($country !== '' ? '<strong>' . $escape($country) . '</strong>' : '')
+        . ($details ? '<span>' . $escape(implode(' • ', $details)) . '</span>' : '') . '</div>' . $mapAction . '</section>';
     $expires = $meta['expires_at'] ?? null;
     $expiryText = $expires
         ? sprintf($copy['expires'], (new DateTimeImmutable($expires))->format('Y-m-d'))
@@ -188,11 +225,12 @@ function render_card(string $token, array $meta): never {
         . '<meta property="og:image:width" content="' . (int)($meta['width'] ?? 1200) . '"><meta property="og:image:height" content="' . (int)($meta['height'] ?? 1500) . '"><meta property="og:image:alt" content="' . $escape($title) . '">'
         . '<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="' . $escape($title) . '"><meta name="twitter:description" content="' . $escape($description) . '"><meta name="twitter:image" content="' . $escape($socialImage) . '"><meta name="referrer" content="no-referrer">'
         . '<script defer src="https://stats.plizio.com/script.js" data-website-id="b718db4e-ee1b-43db-a89a-af4ecc5435bf"></script>'
-        . '<style nonce="' . $nonce . '">:root{color-scheme:light;font-family:Georgia,serif;background:#e8dcc6;color:#30271f}*{box-sizing:border-box}body{margin:0;min-height:100vh;overflow-x:hidden;background:radial-gradient(circle at 20% 10%,#fff8e8 0,transparent 34%),repeating-linear-gradient(0deg,#8d6d4510 0 1px,transparent 1px 10px),#e8dcc6}.wrap{width:min(940px,100%);margin:auto;padding:28px 18px 48px;text-align:center}.brand{display:inline-block;color:#332a21;text-decoration:none;font:900 18px/1 system-ui;letter-spacing:.2em}.eyebrow{margin:28px 0 10px;color:#9b4632;font:800 12px/1 system-ui;letter-spacing:.16em;text-transform:uppercase}h1{width:100%;margin:0 auto 24px;max-width:680px;font-size:clamp(2rem,6vw,4.2rem);line-height:.98;text-wrap:balance}.scene{position:relative;margin:0 auto;width:min(760px,100%);min-height:360px;perspective:1300px;overflow:clip}.envelope{position:absolute;inset:auto 5% 3% 5%;height:55%;border:1px solid #a78b63;background:#d5b989;box-shadow:0 20px 50px #49331d33;transition:opacity .7s 2.25s}.envelope:before{content:"";position:absolute;inset:0;background:linear-gradient(145deg,transparent 49.5%,#bea172 50%) left/50% 100% no-repeat,linear-gradient(215deg,transparent 49.5%,#c8aa78 50%) right/50% 100% no-repeat}.flap{position:absolute;z-index:3;left:5%;right:5%;bottom:30%;height:45%;transform-origin:top;clip-path:polygon(0 0,100% 0,50% 100%);background:#e1c796;border-top:1px solid #a78b63;animation:flap 1.7s .35s cubic-bezier(.35,0,.18,1) forwards}.card{position:relative;z-index:2;width:88%;margin:auto;transform:translateY(34%) scale(.92);opacity:.96;animation:arrive 1.85s 1.2s cubic-bezier(.18,.72,.18,1) forwards}.poi-card-link{display:block;color:inherit}.card img{display:block;width:100%;height:auto;max-height:72vh;object-fit:contain;border:10px solid #fffaf0;border-radius:5px;background:#fffaf0;box-shadow:0 25px 70px #3b28184d}.open{position:absolute;z-index:5;inset:42% auto auto 50%;transform:translate(-50%,-50%);border:0;border-radius:999px;padding:13px 22px;background:#9b4632;color:white;font:800 14px/1 system-ui;cursor:pointer;box-shadow:0 8px 24px #5e291f55;animation:hideOpen .45s 2.65s forwards}.actions{display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-top:25px}.actions a,.actions button{max-width:100%;border:1px solid #6f594033;border-radius:999px;padding:11px 18px;background:#fff8e8;color:#392f25;text-decoration:none;font:800 14px/1 system-ui;cursor:pointer}.actions .poi{background:#47745f;color:#fff;border-color:#47745f}.actions .primary{background:#9b4632;color:#fff;border-color:#9b4632}.expiry{font:600 12px/1.4 system-ui;color:#6f6254;margin-top:16px}@keyframes flap{0%{transform:rotateX(0);z-index:3}68%{transform:rotateX(168deg);z-index:3}100%{transform:rotateX(178deg);z-index:0}}@keyframes arrive{0%{transform:translateY(34%) scale(.92);opacity:.96}62%{transform:translateY(-2.5%) scale(.985);opacity:1}100%{transform:translateY(0) scale(1);opacity:1}}@keyframes hideOpen{to{opacity:0;visibility:hidden}}@media(max-width:600px){.wrap{padding-inline:10px}h1{max-width:330px;font-size:1.8rem;line-height:1.05}.scene{min-height:300px}.card{width:96%}.card img{border-width:6px}.envelope,.flap{left:2%;right:2%}.actions .primary{flex-basis:100%}}@media(prefers-reduced-motion:reduce){.flap,.card,.open{animation:none}.card{transform:none}.open{display:none}}</style></head><body>'
+        . '<style nonce="' . $nonce . '">:root{color-scheme:light;font-family:Georgia,serif;background:#e8dcc6;color:#30271f}*{box-sizing:border-box}body{margin:0;min-height:100vh;overflow-x:hidden;background:radial-gradient(circle at 20% 10%,#fff8e8 0,transparent 34%),repeating-linear-gradient(0deg,#8d6d4510 0 1px,transparent 1px 10px),#e8dcc6}.wrap{width:min(940px,100%);margin:auto;padding:28px 18px 48px;text-align:center}.brand{display:inline-block;color:#332a21;text-decoration:none;font:900 18px/1 system-ui;letter-spacing:.2em}.eyebrow{margin:28px 0 10px;color:#9b4632;font:800 12px/1 system-ui;letter-spacing:.16em;text-transform:uppercase}h1{width:100%;margin:0 auto 24px;max-width:680px;font-size:clamp(2rem,6vw,4.2rem);line-height:.98;text-wrap:balance}.scene{position:relative;margin:0 auto;width:min(760px,100%);min-height:360px;perspective:1300px;overflow:clip}.envelope{position:absolute;inset:auto 5% 3% 5%;height:55%;border:1px solid #a78b63;background:#d5b989;box-shadow:0 20px 50px #49331d33;transition:opacity .7s 2.25s}.envelope:before{content:"";position:absolute;inset:0;background:linear-gradient(145deg,transparent 49.5%,#bea172 50%) left/50% 100% no-repeat,linear-gradient(215deg,transparent 49.5%,#c8aa78 50%) right/50% 100% no-repeat}.flap{position:absolute;z-index:3;left:5%;right:5%;bottom:30%;height:45%;transform-origin:top;clip-path:polygon(0 0,100% 0,50% 100%);background:#e1c796;border-top:1px solid #a78b63}.card{position:relative;z-index:2;width:88%;margin:auto;transform:translateY(34%) scale(.92);opacity:.96}.poi-card-link{display:block;color:inherit}.card img{display:block;width:100%;height:auto;max-height:72vh;object-fit:contain;border:10px solid #fffaf0;border-radius:5px;background:#fffaf0;box-shadow:0 25px 70px #3b28184d}.open{position:absolute;z-index:5;inset:42% auto auto 50%;transform:translate(-50%,-50%);border:0;border-radius:999px;padding:13px 22px;background:#9b4632;color:white;font:800 14px/1 system-ui;cursor:pointer;box-shadow:0 8px 24px #5e291f55}.scene.opened .flap{animation:flap 1.7s cubic-bezier(.35,0,.18,1) forwards}.scene.opened .card{animation:arrive 1.85s .7s cubic-bezier(.18,.72,.18,1) forwards}.scene.opened .open{animation:hideOpen .35s .2s forwards}.place-panel{display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;gap:14px;width:min(760px,100%);margin:18px auto 0;padding:15px 16px;border:1px solid #6f594033;border-radius:20px;background:#fff8e8cc;box-shadow:0 12px 32px #49331d14;text-align:left}.pin{display:grid;width:42px;height:42px;place-items:center;border-radius:50%;background:#47745f;color:#fff;font:900 22px/1 system-ui}.place-copy{min-width:0}.place-copy p{margin:0 0 3px;color:#7d6652;font:800 10px/1 system-ui;letter-spacing:.13em;text-transform:uppercase}.place-copy h2{margin:0;overflow:hidden;text-overflow:ellipsis;font-size:1.25rem;white-space:nowrap}.place-copy strong,.place-copy span{display:block;margin-top:3px;color:#6f6254;font:600 12px/1.35 system-ui}.map-link{border-radius:999px;padding:10px 13px;background:#47745f;color:#fff;text-decoration:none;font:800 12px/1 system-ui;white-space:nowrap}.actions{display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-top:25px}.actions a,.actions button{max-width:100%;border:1px solid #6f594033;border-radius:999px;padding:11px 18px;background:#fff8e8;color:#392f25;text-decoration:none;font:800 14px/1 system-ui;cursor:pointer}.actions .poi{background:#47745f;color:#fff;border-color:#47745f}.actions .primary{background:#9b4632;color:#fff;border-color:#9b4632}.expiry{font:600 12px/1.4 system-ui;color:#6f6254;margin-top:16px}@keyframes flap{0%{transform:rotateX(0);z-index:3}68%{transform:rotateX(168deg);z-index:3}100%{transform:rotateX(178deg);z-index:0}}@keyframes arrive{0%{transform:translateY(34%) scale(.92);opacity:.96}62%{transform:translateY(-2.5%) scale(.985);opacity:1}100%{transform:translateY(0) scale(1);opacity:1}}@keyframes hideOpen{to{opacity:0;visibility:hidden}}@media(max-width:600px){.wrap{padding-inline:10px}.place-panel{grid-template-columns:auto minmax(0,1fr);padding:13px}.map-link{grid-column:1/-1;text-align:center}h1{max-width:330px;font-size:1.8rem;line-height:1.05}.scene{min-height:300px}.card{width:96%}.card img{border-width:6px}.envelope,.flap{left:2%;right:2%}.actions .primary{flex-basis:100%}}@media(prefers-reduced-motion:reduce){.flap,.card,.open{animation:none}.card{transform:none}.open{display:none}}</style></head><body>'
         . '<main class="wrap"><a class="brand" href="/">PLIZIO</a><p class="eyebrow">' . $escape($copy['open']) . '</p><h1>' . $escape($copy['heading']) . '</h1>'
-        . '<div class="scene"><div class="envelope"></div><div class="flap"></div><article class="card">' . $poiCardOpen . '<img src="' . $escape($asset) . '" width="' . (int)($meta['width'] ?? 1200) . '" height="' . (int)($meta['height'] ?? 1500) . '" alt="' . $escape($title) . '">' . $poiCardClose . '</article><button class="open" type="button">' . $escape($copy['open']) . '</button></div>'
+        . '<div class="scene"><div class="envelope"></div><div class="flap"></div><article class="card">' . $poiCardOpen . '<img src="' . $escape($asset) . '" width="' . (int)($meta['width'] ?? 1200) . '" height="' . (int)($meta['height'] ?? 1500) . '" alt="' . $escape($title) . '">' . $poiCardClose . '</article><button class="open" type="button" aria-expanded="false">' . $escape($copy['open']) . '</button></div>'
+        . $placePanel
         . '<div class="actions">' . $poiAction . '<a href="' . $escape($download) . '" download>' . $escape($copy['download']) . '</a><button id="share" type="button">' . $escape($copy['share']) . '</button><a class="primary" href="/postcard/?lang=' . $escape($lang) . '">' . $escape($copy['create']) . '</a></div><p class="expiry">' . $escape($expiryText) . '</p></main>'
-        . '<script nonce="' . $nonce . '">addEventListener("load",function(){try{umami.track("postcard_open",{lang:' . json_encode($lang) . '})}catch(e){}});document.querySelector(".open").onclick=function(){this.style.display="none"};document.getElementById("share").onclick=async function(){if(navigator.share){try{await navigator.share({title:' . json_encode($title) . ',text:' . json_encode($description) . ',url:location.href});try{umami.track("postcard_recipient_share",{lang:' . json_encode($lang) . '})}catch(e){}return}catch(e){if(e&&e.name==="AbortError")return}}try{await navigator.clipboard.writeText(location.href);this.textContent="✓"}catch(e){}};</script></body></html>';
+        . '<script nonce="' . $nonce . '">addEventListener("load",function(){try{umami.track("postcard_open",{lang:' . json_encode($lang) . '})}catch(e){}});document.querySelector(".open").onclick=function(){this.setAttribute("aria-expanded","true");document.querySelector(".scene").classList.add("opened")};document.getElementById("share").onclick=async function(){if(navigator.share){try{await navigator.share({title:' . json_encode($title) . ',text:' . json_encode($description) . ',url:location.href});try{umami.track("postcard_recipient_share",{lang:' . json_encode($lang) . '})}catch(e){}return}catch(e){if(e&&e.name==="AbortError")return}}try{await navigator.clipboard.writeText(location.href);this.textContent="✓"}catch(e){}};</script></body></html>';
     exit;
 }
 
@@ -244,9 +282,14 @@ $mime = (new finfo(FILEINFO_MIME_TYPE))->file($tmpUpload);
 if (!in_array($mime, ['image/webp', 'image/png', 'image/jpeg'], true)) json_response(415, ['ok' => false, 'error' => 'type']);
 
 $lang = clean_text($_POST['lang'] ?? 'en', 2);
-if (!in_array($lang, ['de', 'hu', 'en', 'ro'], true)) $lang = 'en';
+if (!in_array($lang, ['de', 'hu', 'en', 'ro', 'it'], true)) $lang = 'en';
 $theme = clean_text($_POST['theme'] ?? 'vintage', 20);
 if (!in_array($theme, ['vintage', 'polaroid', 'airmail', 'scrapbook', 'minimal'], true)) $theme = 'vintage';
+$mood = mood_value($_POST['mood'] ?? 'joyful');
+$latitude = coordinate_value($_POST['lat'] ?? null, -90, 90);
+$longitude = coordinate_value($_POST['lng'] ?? null, -180, 180);
+$distanceKm = coordinate_value($_POST['distance_km'] ?? null, 0, 25000);
+$distanceMode = distance_mode_value($_POST['distance_mode'] ?? 'straight');
 $expiry = clean_text($_POST['expiry'] ?? '30', 10);
 if (!in_array($expiry, ['7', '30', 'forever'], true)) $expiry = '30';
 
@@ -293,6 +336,11 @@ $meta = [
     'expires_at' => $expiresAt,
     'lang' => $lang,
     'theme' => $theme,
+    'mood' => $mood,
+    'lat' => $latitude,
+    'lng' => $longitude,
+    'distance_km' => $distanceKm,
+    'distance_mode' => $distanceMode,
     'place' => clean_text($_POST['place'] ?? '', 80),
     'country' => clean_text($_POST['country'] ?? '', 60),
     'poi_url' => valid_poi_path($_POST['poi_url'] ?? ''),

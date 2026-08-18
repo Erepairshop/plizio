@@ -552,13 +552,13 @@ const MORE: Record<Lang, string> = { de:"Mehr erfahren", hu:"Bővebben", ro:"Det
 const BACK: Record<Lang, string> = { de:"Zurück", hu:"Vissza", ro:"Înapoi", en:"Back", it:"Indietro", es:"Volver" };
 const TITLE_SUFFIX: Record<Lang, string> = { de:"Karte", hu:"térkép", ro:"hartă", en:"map", it:"mappa", es:"mapa" };
 const SEARCH_PH: Record<Lang, string> = { de:"Suche…", hu:"Keresés…", ro:"Caută…", en:"Search…", it:"Cerca…", es:"Buscar…" };
-const LOCATION_UI: Record<Lang, { button:string; locating:string; nearest:string; denied:string; unavailable:string }> = {
-  de: { button:"Mein Standort", locating:"Standort wird ermittelt…", nearest:"Am nächsten", denied:"Standortzugriff wurde nicht erlaubt.", unavailable:"Standort konnte nicht ermittelt werden." },
-  hu: { button:"Saját helyzetem", locating:"Helyzet meghatározása…", nearest:"Legközelebbi", denied:"A helyhozzáférés nincs engedélyezve.", unavailable:"A helyzet nem határozható meg." },
-  ro: { button:"Locația mea", locating:"Se determină locația…", nearest:"Cel mai apropiat", denied:"Accesul la locație nu a fost permis.", unavailable:"Locația nu a putut fi determinată." },
-  en: { button:"My location", locating:"Finding your location…", nearest:"Nearest", denied:"Location access was not allowed.", unavailable:"Your location could not be determined." },
-  it: { button:"La mia posizione", locating:"Posizione in corso…", nearest:"Più vicino", denied:"Accesso alla posizione non consentito.", unavailable:"Impossibile determinare la posizione." },
-  es: { button:"Mi ubicación", locating:"Buscando tu ubicación…", nearest:"Más cercano", denied:"No se permitió el acceso a la ubicación.", unavailable:"No se pudo determinar la ubicación." },
+const LOCATION_UI: Record<Lang, { button:string; locating:string; nearest:string; byCar:string; straight:string; denied:string; unavailable:string }> = {
+  de: { button:"Mein Standort", locating:"Standort wird ermittelt…", nearest:"Am nächsten", byCar:"mit dem Auto", straight:"Luftlinie", denied:"Standortzugriff wurde nicht erlaubt.", unavailable:"Standort konnte nicht ermittelt werden." },
+  hu: { button:"Saját helyzetem", locating:"Helyzet meghatározása…", nearest:"Legközelebbi", byCar:"autóval", straight:"légvonalban", denied:"A helyhozzáférés nincs engedélyezve.", unavailable:"A helyzet nem határozható meg." },
+  ro: { button:"Locația mea", locating:"Se determină locația…", nearest:"Cel mai apropiat", byCar:"cu mașina", straight:"în linie dreaptă", denied:"Accesul la locație nu a fost permis.", unavailable:"Locația nu a putut fi determinată." },
+  en: { button:"My location", locating:"Finding your location…", nearest:"Nearest", byCar:"by car", straight:"straight line", denied:"Location access was not allowed.", unavailable:"Your location could not be determined." },
+  it: { button:"La mia posizione", locating:"Posizione in corso…", nearest:"Più vicino", byCar:"in auto", straight:"in linea retta", denied:"Accesso alla posizione non consentito.", unavailable:"Impossibile determinare la posizione." },
+  es: { button:"Mi ubicación", locating:"Buscando tu ubicación…", nearest:"Más cercano", byCar:"en coche", straight:"en línea recta", denied:"No se permitió el acceso a la ubicación.", unavailable:"No se pudo determinar la ubicación." },
 };
 
 // Type → group mapping (5 visible groups). Unknown types fall into "other".
@@ -1535,28 +1535,30 @@ const locateBtn=document.getElementById('locateBtn'),locateStatus=document.getEl
 function locateMessage(text,isError){locateStatus.textContent=text;locateStatus.classList.add('show');locateStatus.classList.toggle('error',!!isError)}
 function geoDistanceKm(lon1,lat1,lon2,lat2){const r=Math.PI/180,a1=lat1*r,a2=lat2*r,dLat=(lat2-lat1)*r,dLon=(lon2-lon1)*r;const h=Math.sin(dLat/2)**2+Math.cos(a1)*Math.cos(a2)*Math.sin(dLon/2)**2;return 6371.0088*2*Math.atan2(Math.sqrt(h),Math.sqrt(Math.max(0,1-h)))}
 function distanceLabel(km){if(km<1)return Math.max(1,Math.round(km*1000))+' m';const n=km<10?km.toFixed(1):Math.round(km).toString();return (LANG==='en'?n:n.replace('.',','))+' km'}
-function revealNearest(id,p,km){
+async function roadDistanceKm(lon,lat,toLon,toLat,straightKm){const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),12000);try{const response=await fetch('https://plizio-camper.plizio.workers.dev/plan',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({origin:[lon,lat],destination:[toLon,toLat],days:1,stops:0,mode:'car'}),signal:controller.signal});if(!response.ok)throw new Error('route');const result=await response.json(),points=Array.isArray(result.route)?result.route:[];let geometryKm=0;for(let i=1;i<points.length;i++)geometryKm+=geoDistanceKm(points[i-1][0],points[i-1][1],points[i][0],points[i][1]);const summaryKm=Number(result&&result.summary&&result.summary.km),km=geometryKm>0?geometryKm:summaryKm;if(!Number.isFinite(km)||km<straightKm*.9||km>Math.max(50000,straightKm*12))throw new Error('route');return km}finally{clearTimeout(timer)}}
+function revealNearest(id,p,km,distanceMode){
   if(!activeGrps.has(p.grp)){activeGrps.add(p.grp);const chip=document.querySelector('.chip[data-g="'+p.grp+'"]');if(chip)chip.classList.add('on')}
   if(sIn.value){sIn.value='';applySearch()}else applyGrpFilter();
   s=Math.max(s,4.2);tx=W/2-p.cx*s;ty=H*.42-p.cy*s;ap();
   gP.querySelectorAll('.poi.location-nearest').forEach(el=>el.classList.remove('location-nearest'));
   const el=gP.querySelector('.poi[data-id="'+String(id).replace(/"/g,'\\"')+'"]');
   if(el)el.classList.add('location-nearest');
-  locateMessage(LOCATION_UI.nearest+': '+p.name+' · '+distanceLabel(km),false);
+  locateMessage(LOCATION_UI.nearest+': '+p.name+' · '+distanceMode+' '+distanceLabel(km),false);
 }
-function handleLocatedPosition(lon,lat){
+async function handleLocatedPosition(lon,lat){
   let bestId=null,best=null,bestKm=Infinity;
   for(const id in POI_INDEX){const p=POI_INDEX[id];if(!Number.isFinite(p.lon)||!Number.isFinite(p.lat)||(p.lon===0&&p.lat===0))continue;const km=geoDistanceKm(lon,lat,p.lon,p.lat);if(km<bestKm){bestKm=km;bestId=id;best=p}}
   for(const p of SUBMAP_POIS){const km=geoDistanceKm(lon,lat,p.lon,p.lat);if(km<bestKm){bestKm=km;bestId=null;best={name:p.n,lon:p.lon,lat:p.lat,submapUrl:p.u}}}
   locateBtn.disabled=false;locateBtn.classList.remove('loading');
   if(!best){locateMessage(LOCATION_UI.unavailable,true);return}
+  let shownKm=bestKm,distanceMode=LOCATION_UI.straight;try{shownKm=await roadDistanceKm(lon,lat,best.lon,best.lat,bestKm);distanceMode=LOCATION_UI.byCar}catch(e){}
   if(best.submapUrl){
-    locateMessage(LOCATION_UI.nearest+': '+best.name+' · '+distanceLabel(bestKm),false);
+    locateMessage(LOCATION_UI.nearest+': '+best.name+' · '+distanceMode+' '+distanceLabel(shownKm),false);
     try{sessionStorage.setItem('plizio_map_location',JSON.stringify({lon,lat,t:Date.now()}))}catch(e){}
     setTimeout(()=>{window.location.assign(best.submapUrl+'?locate=1')},350);
     return;
   }
-  revealNearest(bestId,best,bestKm);
+  revealNearest(bestId,best,shownKm,distanceMode);
 }
 locateBtn.addEventListener('click',()=>{
   if(!navigator.geolocation){locateMessage(LOCATION_UI.unavailable,true);return}

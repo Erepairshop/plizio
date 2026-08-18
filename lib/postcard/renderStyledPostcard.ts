@@ -1,4 +1,4 @@
-import type { PostcardContent, PostcardFont, PostcardLanguage, PostcardPhotoEdit, PostcardTextAlign, PostcardTheme } from "./renderPostcard";
+import type { PostcardContent, PostcardFont, PostcardLanguage, PostcardMood, PostcardPhotoEdit, PostcardTextAlign, PostcardTheme } from "./renderPostcard";
 
 type Palette = { ink: string; accent: string; paper: string };
 
@@ -19,6 +19,22 @@ const COPY: Record<PostcardLanguage, { journey: string; keepsake: string; messag
 };
 
 const UPPERCASE_LOCALE: Record<PostcardLanguage, string> = { de: "de-DE", hu: "hu-HU", en: "en-US", ro: "ro-RO", it: "it-IT" };
+
+const MOOD_LABELS: Record<PostcardLanguage, Record<PostcardMood, string>> = {
+  de: { joyful: "GLÜCKLICH", adventure: "ABENTEUER", calm: "AUSZEIT", romantic: "HERZENSMOMENT" },
+  hu: { joyful: "ÖRÖMTELI", adventure: "KALAND", calm: "NYUGALOM", romantic: "SZÍVBŐL" },
+  en: { joyful: "JOYFUL", adventure: "ADVENTURE", calm: "SLOW MOMENT", romantic: "FROM THE HEART" },
+  ro: { joyful: "BUCURIE", adventure: "AVENTURĂ", calm: "LINIȘTE", romantic: "DIN INIMĂ" },
+  it: { joyful: "GIOIA", adventure: "AVVENTURA", calm: "RELAX", romantic: "DAL CUORE" },
+};
+
+const DISTANCE_LABELS: Record<PostcardLanguage, { road: string; straight: string }> = {
+  de: { road: "AUTO", straight: "LUFTLINIE" },
+  hu: { road: "AUTÓVAL", straight: "LÉGVONAL" },
+  en: { road: "BY CAR", straight: "STRAIGHT LINE" },
+  ro: { road: "CU MAȘINA", straight: "LINIE DREAPTĂ" },
+  it: { road: "IN AUTO", straight: "LINEA AEREA" },
+};
 
 const FONT_FAMILIES: Record<PostcardFont, string> = {
   classic: "Georgia, serif",
@@ -399,11 +415,44 @@ function drawModernStamp(ctx: CanvasRenderingContext2D, content: PostcardContent
 }
 
 function drawStamp(ctx: CanvasRenderingContext2D, content: PostcardContent, x: number, y: number) {
-  if (content.stamp === "passport") drawPassportStamp(ctx, content, x, y);
-  else if (content.stamp === "airmail") drawAirmailStamp(ctx, content, x, y);
-  else if (content.stamp === "rail") drawRailStamp(ctx, content, x, y);
-  else if (content.stamp === "modern") drawModernStamp(ctx, content, x, y);
-  else drawLocalStamp(ctx, content, x, y);
+  const adjustedY = content.qrImage ? y - 90 : y;
+  if (content.stamp === "passport") drawPassportStamp(ctx, content, x, adjustedY);
+  else if (content.stamp === "airmail") drawAirmailStamp(ctx, content, x, adjustedY);
+  else if (content.stamp === "rail") drawRailStamp(ctx, content, x, adjustedY);
+  else if (content.stamp === "modern") drawModernStamp(ctx, content, x, adjustedY);
+  else drawLocalStamp(ctx, content, x, adjustedY);
+}
+
+function drawQrCode(ctx: CanvasRenderingContext2D, content: PostcardContent, canvasHeight: number) {
+  if (!content.qrImage) return;
+  ctx.save();
+  ctx.fillStyle = "#fffaf0";
+  ctx.shadowColor = "rgba(31,25,20,.22)";
+  ctx.shadowBlur = 14;
+  roundedRect(ctx, 976, canvasHeight - 232, 144, 144, 12);
+  ctx.fill();
+  ctx.shadowColor = "transparent";
+  ctx.drawImage(content.qrImage, 986, canvasHeight - 222, 124, 124);
+  ctx.restore();
+}
+
+function drawExperienceBadge(ctx: CanvasRenderingContext2D, content: PostcardContent, canvasHeight: number) {
+  const palette = PALETTES[content.theme];
+  const distanceKind = DISTANCE_LABELS[content.lang][content.distanceMode === "road" ? "road" : "straight"];
+  const distance = content.distanceKm == null ? "" : `  •  ${distanceKind} ${content.distanceKm < 10 ? content.distanceKm.toFixed(1) : Math.round(content.distanceKm)} KM`;
+  const label = `${MOOD_LABELS[content.lang][content.mood]}${distance}`;
+  ctx.save();
+  ctx.font = "800 15px Arial, sans-serif";
+  ctx.textAlign = "left";
+  const width = Math.min(420, ctx.measureText(label).width + 34);
+  ctx.globalAlpha = 0.9;
+  ctx.fillStyle = palette.accent;
+  roundedRect(ctx, 88, canvasHeight - 102, width, 34, 17);
+  ctx.fill();
+  ctx.globalAlpha = 1;
+  ctx.fillStyle = "#fffaf0";
+  ctx.fillText(label, 105, canvasHeight - 80);
+  ctx.restore();
 }
 
 function drawFooter(ctx: CanvasRenderingContext2D, content: PostcardContent, canvasHeight: number, ink: string, x = 1080) {
@@ -438,6 +487,8 @@ export function renderStyledPostcard(canvas: HTMLCanvasElement, image: HTMLImage
   else if (content.theme === "airmail") drawAirmail(ctx, image, content, palette, place, country, messageLines, messageFont, lineHeight, canvasHeight, sender);
   else if (content.theme === "scrapbook") drawScrapbook(ctx, image, content, palette, place, country, messageLines, messageFont, lineHeight, canvasHeight, sender);
   else drawMinimal(ctx, image, content, palette, place, country, messageLines, messageFont, lineHeight, canvasHeight, sender);
+  drawExperienceBadge(ctx, content, canvasHeight);
+  drawQrCode(ctx, content, canvasHeight);
 }
 
 function drawVintage(ctx: CanvasRenderingContext2D, image: HTMLImageElement | null, content: PostcardContent, palette: Palette, place: string, country: string, lines: string[], font: string, lineHeight: number, height: number, sender: string) {

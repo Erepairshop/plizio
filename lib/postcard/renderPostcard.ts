@@ -5,6 +5,8 @@ export type PostcardLanguage = "hu" | "de" | "en" | "ro" | "it";
 export type PostcardFont = "classic" | "handwritten" | "editorial" | "modern" | "typewriter";
 export type PostcardTextAlign = "left" | "center" | "right";
 export type PostcardStamp = "local" | "passport" | "airmail" | "rail" | "modern";
+export type PostcardMood = "joyful" | "adventure" | "calm" | "romantic";
+export type PostcardDistanceMode = "road" | "straight";
 
 export type PostcardPhotoEdit = {
   zoom: number;
@@ -31,6 +33,10 @@ export type PostcardContent = {
   fontSize: number;
   textAlign: PostcardTextAlign;
   stamp: PostcardStamp;
+  mood: PostcardMood;
+  distanceKm?: number;
+  distanceMode?: PostcardDistanceMode;
+  qrImage?: HTMLImageElement | null;
   photoEdit: PostcardPhotoEdit;
 };
 
