@@ -1,39 +1,47 @@
-const CACHE_NAME = "plizio-v10";
+const CACHE_NAME = "plizio-v11";
+const IS_PRODUCTION_HOST =
+  self.location.hostname === "plizio.com" ||
+  self.location.hostname === "www.plizio.com";
+
 // Paths that should be served stale-while-revalidate (cache-first, refresh in background).
 // Country POI JSONs, POI images and static Next chunks rarely change between deploys but
 // when they do, the new copy is fetched silently in the background and used next visit.
 const SWR_RE = /\/(data\/pois|poi-images|_next\/static)\//;
 
 self.addEventListener("install", (event) => {
+  if (!IS_PRODUCTION_HOST) {
+    self.skipWaiting();
+    return;
+  }
   event.waitUntil(
     caches.open(CACHE_NAME).then((cache) => {
-      return cache.addAll([
-        "/",
-        "/citydrive/",
-        "/quickpick/",
-        "/reflexgrid/",
-        "/memoryflash/",
-        "/daily/",
-        "/skyclimb/",
-        "/collection/",
-      ]);
-    })
+      // Keep install atomic and resilient: runtime requests populate the rest.
+      // A removed optional route must not prevent a new worker from activating.
+      return cache.addAll(["/"]);
+    }),
   );
   self.skipWaiting();
 });
 
 self.addEventListener("activate", (event) => {
   event.waitUntil(
-    caches.keys().then((keys) => {
-      return Promise.all(
-        keys.filter((key) => key !== CACHE_NAME).map((key) => caches.delete(key))
-      );
-    })
+    caches
+      .keys()
+      .then((keys) =>
+        Promise.all(
+          keys
+            .filter((key) => !IS_PRODUCTION_HOST || key !== CACHE_NAME)
+            .map((key) => caches.delete(key)),
+        ),
+      )
+      .then(() => self.clients.claim()),
   );
-  self.clients.claim();
 });
 
 self.addEventListener("fetch", (event) => {
+  // Tailnet/dev previews change continuously and must always use the network.
+  if (!IS_PRODUCTION_HOST) return;
+
   const url = new URL(event.request.url);
 
   // Never cache non-GET requests
@@ -51,10 +59,7 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  // Stale-while-revalidate for big static assets that change rarely:
-  // country POI JSON, POI images, Next.js static chunks. Massive speed-up
-  // on revisit — user gets cached version instantly, fresh copy fetched
-  // silently in the background for next time.
+  // Stale-while-revalidate for big static assets that change rarely.
   if (SWR_RE.test(url.pathname)) {
     event.respondWith(
       caches.open(CACHE_NAME).then((cache) =>
@@ -66,8 +71,8 @@ self.addEventListener("fetch", (event) => {
             })
             .catch(() => cached);
           return cached || fetchPromise;
-        })
-      )
+        }),
+      ),
     );
     return;
   }
@@ -83,8 +88,6 @@ self.addEventListener("fetch", (event) => {
         }
         return response;
       })
-      .catch(() => {
-        return caches.match(event.request);
-      })
+      .catch(() => caches.match(event.request)),
   );
 });
