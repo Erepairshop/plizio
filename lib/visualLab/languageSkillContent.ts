@@ -1,4 +1,5 @@
 import type { LanguageGameId, LanguageLevel } from "./languageCurriculum";
+import { GERMAN_SKILL_BANK } from "./languageSkillGermanBank";
 
 export type LanguageSkillGameId = Extract<LanguageGameId,
   "lese-detektiv" | "grammatik-scanner" | "text-retter" |
@@ -200,9 +201,16 @@ function rotate<T>(values: T[], offset: number): T[] {
 }
 
 export function buildLanguageSkillRounds(gameId: LanguageSkillGameId, lang: LanguageSkillLang, gradeInput: number, level: LanguageLevel, count: number): LanguageSkillRound[] {
-  const rows = BANK[lang]?.[gameId] ?? BANK.en[gameId];
   const grade = Math.max(1, Math.min(8, Math.floor(gradeInput) || 1));
-  const order = rotate(rows, grade + level * 2);
+  const rows: readonly Entry[] = lang === "de"
+    ? (GERMAN_SKILL_BANK[gameId][grade] ?? DE[gameId])
+    : (BANK[lang]?.[gameId] ?? BANK.en[gameId]);
+  // Reserve eight unique, difficulty-ordered German tasks for every level.
+  const levelStart = (level - 1) * 8;
+  const levelRows = lang === "de" && rows.length >= 40
+    ? rows.slice(levelStart, levelStart + 8)
+    : rows;
+  const order = rotate([...levelRows], grade + level * 2);
   return Array.from({ length: Math.max(1, count) }, (_, index) => {
     const [context, prompt, correctAnswer, wrongA, wrongB, explanation] = order[index % order.length];
     return {

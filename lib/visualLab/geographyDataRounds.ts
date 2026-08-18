@@ -37,10 +37,14 @@ function rotatedOptions(correct: string, wrong: string[], seed: number): string[
 function numberOptions(correct: number, unit: string, seed: number, deltas: number[]): { options: string[]; answer: string } {
   const render = (value: number) => `${value.toLocaleString('de-DE')} ${unit}`.trim();
   const answer = render(correct);
-  return {
-    answer,
-    options: rotatedOptions(answer, deltas.map((delta) => render(Math.max(0, correct + delta))), seed),
-  };
+  const values = [correct, ...deltas.map((delta) => Math.max(0, correct + delta))];
+  let step = 1;
+  while (new Set(values).size < 4) {
+    values.push(correct + step);
+    step += 1;
+  }
+  const wrong = [...new Set(values)].filter((value) => value !== correct).slice(0, 3).map(render);
+  return { answer, options: rotatedOptions(answer, wrong, seed) };
 }
 
 function explanation(lang: GeographySkillLang, calculation: string, answer: string): string {
@@ -154,7 +158,7 @@ function scenario(grade: Grade, lang: GeographySkillLang, level: GeographyLevel,
   }
   if (grade === 7 && variant === 1) {
     const births = 18 + level * 2;
-    const deaths = 10 + (index % 4);
+    const deaths = 10 + Math.floor(index / 4);
     const values = numberOptions(births - deaths, '‰', n, [-3, 3, 6]);
     return {
       prompt: localized(lang, `Die Geburtenrate liegt bei ${births} ‰, die Sterberate bei ${deaths} ‰. Wie hoch ist der natürliche Zuwachs?`, `The birth rate is ${births}‰ and the death rate is ${deaths}‰. What is the natural increase?`, `A születési arány ${births}‰, a halálozási arány ${deaths}‰. Mekkora a természetes szaporodás?`, `Rata natalității este ${births}‰, iar mortalitatea ${deaths}‰. Care este sporul natural?`),
@@ -164,7 +168,7 @@ function scenario(grade: Grade, lang: GeographySkillLang, level: GeographyLevel,
   }
   if (grade === 7 && variant === 2) {
     const start = 48 + level * 3;
-    const end = start + 5 + (index % 4);
+    const end = start + 5 + Math.floor(index / 4);
     const values = numberOptions(end - start, localized(lang, 'Prozentpunkte', 'percentage points', 'százalékpont', 'puncte procentuale'), n, [-2, 2, 4]);
     return {
       prompt: localized(lang, `Der Stadtbevölkerungsanteil steigt von ${start} % auf ${end} %. Um wie viele Prozentpunkte steigt er?`, `The urban population share rises from ${start}% to ${end}%. By how many percentage points?`, `A városi népesség aránya ${start}%-ról ${end}%-ra nő. Hány százalékpont a növekedés?`, `Ponderea populației urbane crește de la ${start}% la ${end}%. Cu câte puncte procentuale?`),
@@ -233,9 +237,10 @@ export function buildGeographyDataRounds(
   count: number,
 ): GeographySkillRound[] {
   return Array.from({ length: Math.max(1, count) }, (_, index) => {
-    const item = scenario(grade, lang, level, index);
+    const globalIndex = (level - 1) * 8 + index;
+    const item = scenario(grade, lang, level, globalIndex);
     return {
-      id: `geo-daten-check-g${grade}-l${level}-${index + 1}`,
+      id: `geo-daten-check-g${grade}-l${level}-${globalIndex + 1}`,
       gameId: 'geo-daten-check',
       grade,
       level,

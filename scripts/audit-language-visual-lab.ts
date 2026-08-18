@@ -62,6 +62,21 @@ for (const lang of ["de", "hu", "ro", "en"] as LanguageSkillLang[]) {
   }
 }
 
+for (let grade = 2; grade <= 8; grade += 1) {
+  for (const gameId of LANGUAGE_SKILL_GAME_IDS) {
+    if (!isLanguageGameAvailableForGrade(gameId, grade)) continue;
+    const seen = new Set<string>();
+    for (let level = 1; level <= 5; level += 1) {
+      const expected = LANGUAGE_LEVEL_ROUNDS[level as LanguageLevel];
+      const rounds = buildLanguageSkillRounds(gameId, "de", grade, level as LanguageLevel, expected);
+      for (const round of rounds) {
+        const taskKey = `${round.context}\u0000${round.prompt}`.toLocaleLowerCase("de");
+        assert(!seen.has(taskKey), `German levels repeat task: g${grade} ${gameId} ${round.id}`);
+        seen.add(taskKey);
+      }
+    }
+  }
+}
 assert(!isLanguageGameAvailableForGrade("literatur-lupe", 4), "Literature must stay hidden before grade 5");
 assert(isLanguageGameAvailableForGrade("literatur-lupe", 5), "Literature must open in grade 5");
 assert(!isLanguageGameAvailableForGrade("silben-slicer", 5), "Syllable game must stay hidden after grade 4");

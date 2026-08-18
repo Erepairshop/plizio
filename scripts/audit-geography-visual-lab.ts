@@ -29,6 +29,7 @@ let legacyRoundCount = 0;
 for (const grade of grades) {
   for (const lang of languages) {
     for (const gameId of GEOGRAPHY_SKILL_GAME_IDS) {
+      const seenTasks = new Set<string>();
       for (const level of levels) {
         const expected = GEOGRAPHY_LEVEL_ROUNDS[level];
         const rounds = buildGeographySkillRounds(gameId, grade, lang, level, expected);
@@ -36,6 +37,9 @@ for (const grade of grades) {
         if (rounds.length !== expected) errors.push(`${grade}/${lang}/${gameId}/L${level}: ${rounds.length} rounds, expected ${expected}`);
         const ids = new Set<string>();
         for (const round of rounds) {
+          const taskKey = `${round.context}\u0000${round.prompt}`.toLocaleLowerCase(lang).replace(/\s+/g, " ").trim();
+          if (seenTasks.has(taskKey)) errors.push(`${grade}/${lang}/${gameId}/L${level}: repeated task across levels: ${round.context}`);
+          seenTasks.add(taskKey);
           if (round.grade !== grade || round.level !== level || round.gameId !== gameId) errors.push(`${round.id}: metadata mismatch`);
           if (!round.id || ids.has(round.id)) errors.push(`${grade}/${lang}/${gameId}/L${level}: duplicate or empty id ${round.id}`);
           ids.add(round.id);

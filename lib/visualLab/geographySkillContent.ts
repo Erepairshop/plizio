@@ -8,7 +8,6 @@ import type { CurriculumMCQ, CurriculumQuestion } from "@/lib/curriculumTypes";
 import type { GeographieTheme } from "@/lib/geographieCurriculumShared";
 import type { GeographyLevel, GeographySkillGameId } from "./geographyCurriculum";
 import { buildGeographyDataRounds } from "./geographyDataRounds";
-import { buildGeographyFutureRounds } from "./geographyFutureRounds";
 
 export type GeographySkillLang = "de" | "en" | "hu" | "ro";
 
@@ -179,6 +178,45 @@ function complexity(question: CurriculumMCQ): number {
   return question.question.length + optionWeight + reasoningSignals;
 }
 
+const GAME_TOPIC_SIGNAL: Record<GeographySkillGameId, RegExp> = {
+  "karten-kompass": /map|kart|compass|kompass|scale|maßstab|atlas|gps|gis|time.zone|zeitzone|density|dichte|route|location|lage/i,
+  "landschaft-detektiv": /earth|erde|relief|mountain|berg|river|fluss|glacier|gletscher|volcan|vulkan|tecton|landform|weathering|erosion|ocean/i,
+  "klima-labor": /weather|wetter|climate|klima|vegetation|atmosphere|wind|pressure|druck|monsoon|monsun|desert|wüste|polar|ocean.current/i,
+  "weltregionen-atlas": /country|land|capital|hauptstadt|state|region|europe|europa|america|amerika|africa|afrika|asia|asien|austral|oceania|antarct|brazil|china|india|japan/i,
+  "mensch-raum-netz": /population|bevölkerung|city|stadt|village|dorf|econom|wirtschaft|industry|industrie|transport|verkehr|agricultur|landwirtschaft|migration|urban|trade|handel|global|digital/i,
+  "geo-daten-check": /data|daten|scale|maßstab|time.zone|zeitzone|height|höhe|climate.graph|klimadiagramm|density|dichte|population|bevölkerung|sector|sektor|trade|handel/i,
+  "zukunfts-planer": /sustain|nachhalt|energy|energie|waste|abfall|recycl|national.park|water|wasser|warming|erwärmung|rainforest|regenwald|pollution|verschmutz|future|zukunft|development|entwicklung|hunger/i,
+};
+
+function spread<T>(values: T[], count: number): T[] {
+  if (values.length <= count) return [...values];
+  return Array.from({ length: count }, (_, index) => values[Math.floor((index * values.length) / count)]);
+}
+
+function distinctQuestionBank(gameId: GeographySkillGameId, grade: Grade, lang: GeographySkillLang): CurriculumMCQ[] {
+  const primaryTopics = new Set(TOPICS[grade][gameId]);
+  const allTopicIds = CURRICULA[grade].flatMap((theme) => theme.subtopics.map((subtopic) => subtopic.id));
+  const raw = GET_QUESTIONS[grade](allTopicIds, lang, 5000).filter(validMcq);
+  const unique = [...new Map(raw.map((question) => [question.question.toLocaleLowerCase(lang).replace(/\s+/g, " ").trim(), question])).values()]
+    .sort((left, right) => complexity(left) - complexity(right) || left.question.localeCompare(right.question, lang));
+  const primary = unique.filter((question) => primaryTopics.has(question.subtopic));
+  const primaryKeys = new Set(primary.map((question) => question.question));
+  const related = unique.filter((question) => !primaryKeys.has(question.question) && GAME_TOPIC_SIGNAL[gameId].test(`${question.topic} ${question.subtopic} ${question.question}`));
+  const used = new Set<string>();
+  const selected: CurriculumMCQ[] = [];
+  const append = (items: CurriculumMCQ[], limit: number) => {
+    for (const item of spread(items.filter((question) => !used.has(question.question)), limit)) {
+      if (selected.length >= 40 || used.has(item.question)) continue;
+      selected.push(item);
+      used.add(item.question);
+    }
+  };
+  append(primary, Math.min(40, primary.length));
+  append(related, 40 - selected.length);
+  append(unique, 40 - selected.length);
+  return selected.sort((left, right) => complexity(left) - complexity(right) || left.question.localeCompare(right.question, lang));
+}
+
 export function buildGeographySkillRounds(
   gameId: GeographySkillGameId,
   gradeInput: number,
@@ -191,22 +229,14 @@ export function buildGeographySkillRounds(
   if (gameId === "geo-daten-check") {
     return buildGeographyDataRounds(grade, lang, level, count);
   }
-  if (gameId === "zukunfts-planer" && (grade === 5 || grade === 6)) {
-    return buildGeographyFutureRounds(grade, lang, level, count);
-  }
-  const topicIds = topicsForLevel(TOPICS[grade][gameId], level);
-  const requested = Math.max(count * 5, 30);
-  const pool = GET_QUESTIONS[grade](topicIds, lang, requested).filter(validMcq);
-  if (pool.length === 0) return [];
-
-  const longerPool = pool.filter((question) => question.question.trim().length >= 18);
-  const preferredPool = longerPool.length >= count ? longerPool : pool;
-  const unique = [...new Map(preferredPool.map((question) => [question.question, question])).values()]
-    .sort((left, right) => complexity(left) - complexity(right));
-  const bandStart = Math.floor(((level - 1) / 4) * Math.max(0, unique.length - count));
-  const levelOrdered = [...unique.slice(bandStart), ...unique.slice(0, bandStart)];
-  const offset = hash(`${gameId}:${grade}:${lang}:${level}:${levelOrdered.length}`) % levelOrdered.length;
-  const ordered = [...levelOrdered.slice(offset), ...levelOrdered.slice(0, offset)];
+  const topicIds = TOPICS[grade][gameId];
+  const bank = distinctQuestionBank(gameId, grade, lang);
+  if (bank.length === 0) return [];
+  const levelStart = (level - 1) * 8;
+  const reserved = bank.slice(levelStart, levelStart + 8);
+  const levelPool = reserved.length >= count ? reserved : bank;
+  const offset = hash(`${gameId}:${grade}:${lang}:${level}:${levelPool.length}`) % levelPool.length;
+  const ordered = [...levelPool.slice(offset), ...levelPool.slice(0, offset)];
   const copy = COPY[lang][gameId];
 
   return Array.from({ length: Math.max(1, count) }, (_, index) => {
