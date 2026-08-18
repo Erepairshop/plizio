@@ -114,7 +114,7 @@ export default function TippSturmGame({
   grade: number;
   lang: Language;
   round: TippSturmRound;
-  onDone?: (score: number) => void;
+  onDone?: (correct: number, total?: number) => void;
 }) {
   const t = T[lang] ?? T.de;
 
@@ -127,6 +127,7 @@ export default function TippSturmGame({
   const [phase, setPhase] = useState<Phase>("flash");
   const [typed, setTyped] = useState("");
   const [score, setScore] = useState(0);
+  const [correctCount, setCorrectCount] = useState(0);
   const [streak, setStreak] = useState(0);
   const [lastResult, setLastResult] = useState<"correct" | "wrong" | null>(null);
   const [letterResults, setLetterResults] = useState<LetterResult[]>([]);
@@ -148,7 +149,7 @@ export default function TippSturmGame({
       const nextIndex = index + 1;
       if (nextIndex >= wordQueue.length) {
         setPhase("done");
-        onDone?.(score);
+        onDone?.(correctCount, wordQueue.length);
       } else {
         setIndex(nextIndex);
         setTyped("");
@@ -156,8 +157,7 @@ export default function TippSturmGame({
       }
     }, 2200);
     return () => clearTimeout(timer);
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [phase]);
+  }, [correctCount, index, onDone, phase, wordQueue.length]);
 
   const handleSubmit = (value: string) => {
     if (submitCalledRef.current) return;
@@ -170,6 +170,7 @@ export default function TippSturmGame({
       isCorrect && newStreak >= 2 ? Math.min((newStreak - 1) * 5, 25) : 0;
 
     setScore((s) => s + basePoints + streakBonus);
+    if (isCorrect) setCorrectCount((value) => value + 1);
     setStreak(newStreak);
     setLastResult(isCorrect ? "correct" : "wrong");
     setLetterResults(compareWords(currentWord, value.trim()));
@@ -187,8 +188,7 @@ export default function TippSturmGame({
   }
 
   if (phase === "done") {
-    const maxScore = wordQueue.length * 10;
-    const pct = Math.round((score / maxScore) * 100);
+    const pct = Math.round((correctCount / wordQueue.length) * 100);
     const emoji = pct >= 80 ? "🏆" : pct >= 50 ? "🌟" : "💪";
     return (
       <div

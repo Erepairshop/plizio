@@ -1,183 +1,141 @@
 "use client";
 
-import React, { useState, useEffect } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
-import { VerbenVortexRound } from '@/lib/visualLab/languageTypes';
+import { AnimatePresence, motion } from "framer-motion";
+import { useEffect, useMemo, useRef, useState } from "react";
+import { VerbenVortexRound } from "@/lib/visualLab/languageTypes";
 
-const DICTIONARY = {
-  en: { correct: 'Correct!', wrong: 'Wrong!' },
-  de: { correct: 'Richtig!', wrong: 'Falsch!' },
-  hu: { correct: 'Helyes!', wrong: 'Helytelen!' },
-  ro: { correct: 'Corect!', wrong: 'Greșit!' }
+type Lang = "de" | "hu" | "ro" | "en";
+
+const DICTIONARY: Record<Lang, { title: string; correct: string; wrong: string }> = {
+  en: { title: "Choose the correct verb", correct: "Correct!", wrong: "Wrong!" },
+  de: { title: "Wähle das richtige Verb", correct: "Richtig!", wrong: "Falsch!" },
+  hu: { title: "Válaszd ki a megfelelő igét", correct: "Helyes!", wrong: "Hibás!" },
+  ro: { title: "Alege verbul corect", correct: "Corect!", wrong: "Greșit!" },
 };
+
+function shuffle<T>(values: T[]): T[] {
+  const next = [...values];
+  for (let i = next.length - 1; i > 0; i -= 1) {
+    const swapWith = Math.floor(Math.random() * (i + 1));
+    [next[i], next[swapWith]] = [next[swapWith], next[i]];
+  }
+  return next;
+}
 
 export interface VerbenVortexGameProps {
   grade: number;
-  lang: 'de' | 'hu' | 'ro' | 'en';
+  lang: Lang;
   round: VerbenVortexRound;
   onDone?: (score: number) => void;
 }
 
-type RoundData = {
-  pronoun?: string;
-  options?: string[];
-  correctAnswer?: string;
-} & VerbenVortexRound;
-
 export default function VerbenVortexGame({ lang, round, onDone }: VerbenVortexGameProps) {
-  const t = DICTIONARY[lang] || DICTIONARY['en'];
-  
-  const roundData = round as RoundData;
-  const pronoun = roundData.pronoun || "ich";
-  const options = roundData.options || ["bin", "bist", "ist", "sind"];
-  const correctAnswer = roundData.correctAnswer || "bin";
+  const t = DICTIONARY[lang] ?? DICTIONARY.en;
 
-  const [gameState, setGameState] = useState<'playing' | 'won' | 'lost'>('playing');
+  const allOptions = useMemo(() => {
+    const set = new Set([round.correctVerb, ...round.wrongVerbs]);
+    return shuffle(Array.from(set)).filter(Boolean);
+  }, [round.correctVerb, round.wrongVerbs, round.id]);
+
+  const [gameState, setGameState] = useState<"playing" | "won" | "lost">("playing");
   const [selected, setSelected] = useState<string | null>(null);
-  const [orbits, setOrbits] = useState<{ angle: number; radius: number; duration: number }[]>([]);
+  const timerRef = useRef<number | null>(null);
 
   useEffect(() => {
-    const newOrbits = options.map((_, i) => {
-      const baseAngle = (i * 360) / options.length;
-      const radius = 120 + Math.random() * 30;
-      const duration = 15 + Math.random() * 5;
-      return { angle: baseAngle, radius, duration };
-    });
-    setOrbits(newOrbits);
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [options.join(',')]);
+    setGameState("playing");
+    setSelected(null);
+    return () => {
+      if (timerRef.current !== null) window.clearTimeout(timerRef.current);
+      timerRef.current = null;
+    };
+  }, [round.id]);
 
   const handleSelect = (option: string) => {
-    if (gameState !== 'playing') return;
+    if (gameState !== "playing") return;
+
     setSelected(option);
-    if (option === correctAnswer) {
-      setGameState('won');
-      setTimeout(() => onDone?.(100), 2000);
-    } else {
-      setGameState('lost');
-      setTimeout(() => onDone?.(0), 2000);
-    }
+    const correct = option === round.correctVerb;
+    setGameState(correct ? "won" : "lost");
+
+    if (timerRef.current !== null) window.clearTimeout(timerRef.current);
+    timerRef.current = window.setTimeout(() => {
+      if (correct) {
+        onDone?.(1);
+      } else {
+        setGameState("playing");
+        setSelected(null);
+      }
+      timerRef.current = null;
+    }, 700);
   };
 
   return (
-    <div className="relative w-full h-full min-h-[400px] bg-slate-950 overflow-hidden flex items-center justify-center rounded-xl border border-cyan-900 shadow-[0_0_30px_rgba(0,255,255,0.15)] touch-none select-none">
-      
-      {/* Background Stars / Grid */}
-      <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-indigo-950 via-slate-950 to-black" />
-      
-      {/* Vortex background effect */}
-      <motion.div
-        className="absolute w-[300px] h-[300px] md:w-[500px] md:h-[500px] opacity-20 pointer-events-none"
-        animate={{ rotate: 360 }}
-        transition={{ duration: 30, repeat: Infinity, ease: "linear" }}
-      >
-        <svg viewBox="0 0 100 100" className="w-full h-full text-fuchsia-500 fill-current">
-          <path d="M50 0 C77.6 0 100 22.4 100 50 C100 77.6 77.6 100 50 100 C22.4 100 0 77.6 0 50 C0 22.4 22.4 0 50 0 Z M50 10 C27.9 10 10 27.9 10 50 C10 72.1 27.9 90 50 90 C72.1 90 90 72.1 90 50 C90 27.9 72.1 10 50 10 Z" />
-        </svg>
-      </motion.div>
-
-      {/* Center Vortex (Pronoun) */}
-      <motion.div 
-        className="absolute z-10 flex items-center justify-center w-24 h-24 md:w-32 md:h-32 rounded-full bg-slate-900/80 backdrop-blur-md border border-fuchsia-500 shadow-[0_0_40px_rgba(217,70,239,0.5)]"
-        animate={{
-          scale: gameState === 'lost' ? [1, 1.3, 0] : 1,
+    <div
+      className="relative w-full h-[clamp(390px,78dvh,540px)] rounded-xl border border-fuchsia-500/20 overflow-hidden"
+      style={{ background: `linear-gradient(140deg, ${round.theme.bg}, ${round.theme.accent}22)` }}
+    >
+      <div className="absolute inset-0 pointer-events-none opacity-60"
+        style={{
+          background: `radial-gradient(circle at 50% 24%, ${round.theme.accent}44, transparent 44%), radial-gradient(circle at 14% 86%, ${round.theme.accent}20, transparent 35%)`,
         }}
-        transition={{
-          scale: { duration: 0.8, ease: "easeInOut" },
-        }}
-      >
-        <div className="absolute inset-0 rounded-full border-2 border-cyan-400/30 border-dashed animate-[spin_12s_linear_infinite]" />
-        <span className="text-2xl md:text-4xl font-black text-white z-20 drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)]">
-          {pronoun}
-        </span>
-      </motion.div>
+      />
 
-      {/* Orbiting Verbs */}
-      <AnimatePresence>
-        {orbits.length > 0 && options.map((option, i) => {
-          const orbit = orbits[i];
-          const isSelected = selected === option;
-          const isCorrect = option === correctAnswer;
-          
-          return (
-            <motion.div
-              key={option}
-              className="absolute z-20 flex items-center justify-center pointer-events-none"
-              initial={{ rotate: orbit.angle }}
-              animate={
-                gameState === 'playing'
-                  ? { rotate: orbit.angle + 360 }
-                  : { rotate: orbit.angle }
-              }
-              transition={
-                gameState === 'playing'
-                  ? { duration: orbit.duration, repeat: Infinity, ease: "linear" }
-                  : { duration: 0.5, type: "spring" }
-              }
-            >
-              <motion.div
-                initial={{ x: orbit.radius, scale: 0, opacity: 0 }}
-                animate={
-                  gameState === 'playing'
-                    ? { x: orbit.radius, scale: 1, opacity: 1 }
-                    : (gameState === 'won' && isCorrect) || (gameState === 'lost' && isSelected)
-                    ? { x: 0, scale: 1.5, opacity: 1, zIndex: 30 }
-                    : { x: 0, scale: 0, opacity: 0 }
-                }
-                transition={{ duration: 0.8, type: 'spring' }}
-              >
-                <motion.div
-                  initial={{ rotate: -orbit.angle }}
-                  animate={
-                    gameState === 'playing'
-                      ? { rotate: -(orbit.angle + 360) }
-                      : { rotate: -orbit.angle }
-                  }
-                  transition={
-                    gameState === 'playing'
-                      ? { duration: orbit.duration, repeat: Infinity, ease: "linear" }
-                      : { duration: 0.5, type: "spring" }
-                  }
-                >
-                  <button
-                    onPointerDown={() => handleSelect(option)}
-                    disabled={gameState !== 'playing'}
-                    className={`pointer-events-auto px-4 py-2 md:px-6 md:py-3 rounded-full font-bold text-lg md:text-xl backdrop-blur-md transition-all border-2 whitespace-nowrap outline-none
-                      ${gameState !== 'playing' && isSelected && isCorrect ? 'bg-green-500/90 border-green-400 text-white shadow-[0_0_30px_rgba(34,197,94,0.8)]' : ''}
-                      ${gameState !== 'playing' && isSelected && !isCorrect ? 'bg-red-500/90 border-red-400 text-white shadow-[0_0_30px_rgba(239,68,68,0.8)]' : ''}
-                      ${gameState === 'playing' ? 'bg-slate-800/80 border-cyan-500/60 text-cyan-50 hover:bg-cyan-700 hover:border-cyan-300 hover:scale-110 shadow-[0_0_20px_rgba(34,211,238,0.4)] cursor-crosshair' : 'cursor-default'}
-                      ${gameState !== 'playing' && !isSelected && !isCorrect ? 'bg-slate-800/80 border-cyan-500/60 text-cyan-50' : ''}
-                    `}
-                  >
-                    {option}
-                  </button>
-                </motion.div>
-              </motion.div>
-            </motion.div>
-          );
-        })}
-      </AnimatePresence>
+      <div className="relative z-10 flex flex-col h-full p-4 md:p-5">
+        <div className="mb-3 rounded-lg border border-white/15 bg-black/35 px-3 py-2 text-xs font-bold text-white/85 sm:text-sm">
+          {round.title[lang] ?? round.title.en}
+        </div>
 
-      {/* Result Message Overlay */}
-      <AnimatePresence>
-        {gameState !== 'playing' && (
-          <motion.div
-            initial={{ opacity: 0, scale: 0.8, y: 20 }}
-            animate={{ opacity: 1, scale: 1, y: 0 }}
-            className="absolute bottom-12 z-40 px-6 py-3 md:px-8 md:py-4 rounded-2xl bg-slate-900/95 border border-slate-700 backdrop-blur-xl shadow-2xl"
+        <div className="relative mb-4 grid place-items-center">
+          <div
+            className="rounded-full border-2 border-white/25 bg-slate-900/85 text-white shadow-2xl"
+            style={{ width: 104, height: 104 }}
           >
-            <h2 className={`text-xl md:text-3xl font-black uppercase tracking-widest ${gameState === 'won' ? 'text-green-400 drop-shadow-[0_0_15px_rgba(34,197,94,0.8)]' : 'text-red-400 drop-shadow-[0_0_15px_rgba(239,68,68,0.8)]'}`}>
-              {gameState === 'won' ? t.correct : t.wrong}
-            </h2>
-          </motion.div>
-        )}
-      </AnimatePresence>
-      
-      {/* Visual SVG Elements for 'Space/Neon' theme */}
-      <svg className="absolute inset-0 w-full h-full pointer-events-none opacity-30">
-        <circle cx="50%" cy="50%" r="150" fill="none" stroke="currentColor" strokeWidth="1" className="text-cyan-500" strokeDasharray="4 8" />
-        <circle cx="50%" cy="50%" r="200" fill="none" stroke="currentColor" strokeWidth="1" className="text-fuchsia-500" strokeDasharray="2 12" />
-      </svg>
+            <div className="h-full flex items-center justify-center text-3xl sm:text-4xl font-black">{round.pronoun}</div>
+          </div>
+          <p className="mt-2 text-center text-sm text-white/80">{t.title}</p>
+        </div>
+
+        <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
+          {allOptions.map((option) => {
+            const isSelected = selected === option;
+            const isCorrect = option === round.correctVerb;
+            return (
+              <button
+                key={option}
+                onPointerDown={() => handleSelect(option)}
+                disabled={gameState !== "playing"}
+                className={`min-h-14 rounded-xl border-2 px-4 py-3 text-left font-bold text-base transition sm:text-lg md:text-xl active:scale-[.985] ${
+                  gameState === "playing"
+                    ? "border-white/20 bg-black/45 text-white/95 hover:bg-white/10"
+                    : isSelected && isCorrect
+                      ? "border-emerald-300 bg-emerald-500/20 text-emerald-100"
+                      : isSelected && !isCorrect
+                        ? "border-rose-300 bg-rose-500/20 text-rose-100"
+                        : "border-white/12 bg-black/25 text-white/70"
+                }`}
+              >
+                <span className="leading-snug">{option}</span>
+              </button>
+            );
+          })}
+        </div>
+
+        <AnimatePresence>
+          {gameState !== "playing" && (
+            <motion.div
+              initial={{ opacity: 0, scale: 0.96 }}
+              animate={{ opacity: 1, scale: 1 }}
+              exit={{ opacity: 0, scale: 0.98 }}
+              transition={{ duration: 0.2 }}
+              className="absolute inset-x-3 bottom-5 z-20 rounded-xl border border-white/20 bg-black/70 px-4 py-3 text-center shadow-[0_0_30px_rgba(255,255,255,0.2)]"
+            >
+              <p className={`text-2xl sm:text-3xl font-black ${gameState === "won" ? "text-emerald-300" : "text-rose-300"}`}>
+                {gameState === "won" ? t.correct : t.wrong}
+              </p>
+            </motion.div>
+          )}
+        </AnimatePresence>
+      </div>
     </div>
   );
 }

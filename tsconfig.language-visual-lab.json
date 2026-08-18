@@ -1,0 +1,25 @@
+{
+    "extends":  "./tsconfig.json",
+    "compilerOptions":  {
+                            "noEmit":  true,
+                            "skipLibCheck":  true,
+                            "incremental":  false
+                        },
+    "include":  [
+                    "components/VisualLab.tsx",
+                    "components/visual-lab/LanguageGameProgress.tsx",
+                    "components/visual-lab/LanguageRoundSession.tsx",
+                    "app/astro-deutsch/visual-lab/games/TippSturmGame.tsx",
+                    "app/astro-deutsch/visual-lab/games/VerbenVortexGame.tsx",
+                    "lib/visualLab/languageCurriculum.ts",
+                    "next-env.d.ts",
+                    "app/astro-deutsch/visual-lab/games/LanguageSkillGame.tsx",
+                    "lib/visualLab/languageSkillContent.ts",
+                    "lib/visualLab/prepareLegacyLanguageRounds.ts"
+                ],
+    "exclude":  [
+                    "node_modules",
+                    ".next",
+                    "out"
+                ]
+}

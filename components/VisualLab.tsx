@@ -18,6 +18,12 @@ import {
   Scale,
   ChartNoAxesColumn,
   Gamepad2,
+  BookOpenCheck,
+  ScanText,
+  SpellCheck2,
+  Network,
+  PenLine,
+  SearchCheck,
   type LucideIcon,
 } from "lucide-react";
 import VisualLabIcon from "./VisualLabIcon";
@@ -56,12 +62,30 @@ import VirusVaultGame from "@/app/astrinformatika/visual-lab/games/VirusVaultGam
 import { INFORMATIKA_POOLS } from "@/lib/visualLab/pools/informatikaPool";
 
 // Astrodeutsch Visual Lab játékok
-import WortWaechterGame from "@/app/astro-deutsch/visual-lab/games/WortWaechterGame";
-import ArtikelAsteroidsGame from "@/app/astro-deutsch/visual-lab/games/ArtikelAsteroidsGame";
-import SatzbauSniperGame from "@/app/astro-deutsch/visual-lab/games/SatzbauSniperGame";
-import SilbenSlicerGame from "@/app/astro-deutsch/visual-lab/games/SilbenSlicerGame";
-import TippSturmGame from "@/app/astro-deutsch/visual-lab/games/TippSturmGame";
+const WortWaechterGame = dynamic(() => import("@/app/astro-deutsch/visual-lab/games/WortWaechterGame"));
+const ArtikelAsteroidsGame = dynamic(() => import("@/app/astro-deutsch/visual-lab/games/ArtikelAsteroidsGame"));
+const SatzbauSniperGame = dynamic(() => import("@/app/astro-deutsch/visual-lab/games/SatzbauSniperGame"));
+const SilbenSlicerGame = dynamic(() => import("@/app/astro-deutsch/visual-lab/games/SilbenSlicerGame"));
+const TippSturmGame = dynamic(() => import("@/app/astro-deutsch/visual-lab/games/TippSturmGame"));
+const VerbenVortexGame = dynamic(() => import("@/app/astro-deutsch/visual-lab/games/VerbenVortexGame"));
+const LanguageSkillGame = dynamic(() => import("@/app/astro-deutsch/visual-lab/games/LanguageSkillGame"));
 import { ASTRO_LANGUAGE_POOLS } from "@/lib/visualLab/pools/astroLanguagePools";
+import { ASTRO_ENGLISH_LANGUAGE_POOL } from "@/lib/visualLab/pools/astroEnglishLanguagePools";
+import { ASTRO_MAGYAR_LANGUAGE_POOL } from "@/lib/visualLab/pools/astroMagyarLanguagePools";
+import { ASTRO_ROMANA_LANGUAGE_POOL } from "@/lib/visualLab/pools/astroRomanaLanguagePools";
+import { isLanguageGameAvailableForGrade } from "@/lib/visualLab/languageCurriculum";
+import { prepareLegacyLanguageRounds } from "@/lib/visualLab/prepareLegacyLanguageRounds";
+import { buildLanguageSkillRounds, LANGUAGE_SKILL_GAME_IDS, type LanguageSkillGameId, type LanguageSkillRound } from "@/lib/visualLab/languageSkillContent";
+import LanguageRoundSession from "./visual-lab/LanguageRoundSession";
+import type {
+  ArtikelAsteroidsRound,
+  SatzbauSniperRound,
+  SilbenSlicerRound,
+  TippSturmRound,
+  VerbenVortexRound,
+  WortWaechterRound,
+  LanguagePools,
+} from "@/lib/visualLab/languageTypes";
 
 import { SACHKUNDE_VISUAL_LAB_K1 } from "@/lib/visualLab/pools/sachkundeK1";
 import { SACHKUNDE_VISUAL_LAB_K2 } from "@/lib/visualLab/pools/sachkundeK2";
@@ -76,6 +100,13 @@ import { BIOLOGIE_POOLS } from "@/lib/visualLab/pools/biologiePool";
 import { GESCHICHTE_POOLS } from "@/lib/visualLab/pools/geschichtePool";
 import type { GeographieVisualLabGradePool } from "@/lib/visualLab/types";
 import { isMathGameAvailableForGrade } from "@/lib/visualLab/mathCurriculum";
+
+const ACTIVE_LANGUAGE_POOLS: LanguagePools = {
+  de: ASTRO_LANGUAGE_POOLS.de,
+  en: ASTRO_ENGLISH_LANGUAGE_POOL,
+  hu: ASTRO_MAGYAR_LANGUAGE_POOL,
+  ro: ASTRO_ROMANA_LANGUAGE_POOL,
+};
 
 const SACHKUNDE_POOLS: Record<number, SachkundeVisualLabGradePool> = {
   1: SACHKUNDE_VISUAL_LAB_K1,
@@ -252,6 +283,13 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "artikel-asteroids", type: "puzzle", labelKey: "artikelAsteroids", available: true },
     { id: "satzbau-sniper", type: "spotter", labelKey: "satzbauSniper", available: true },
     { id: "silben-slicer", type: "puzzle", labelKey: "silbenSlicer", available: true },
+    { id: "verben-vortex", type: "spotter", labelKey: "verbenVortex", available: true },
+    { id: "lese-detektiv", type: "memory", labelKey: "leseDetektiv", available: true },
+    { id: "grammatik-scanner", type: "spotter", labelKey: "grammatikScanner", available: true },
+    { id: "text-retter", type: "puzzle", labelKey: "textRetter", available: true },
+    { id: "wort-netz", type: "puzzle", labelKey: "wortNetz", available: true },
+    { id: "schreibwerkstatt", type: "puzzle", labelKey: "schreibwerkstatt", available: true },
+    { id: "literatur-lupe", type: "spotter", labelKey: "literaturLupe", available: true },
     { id: "grusel-builder", type: "puzzle", labelKey: "gruselBuilder", available: true },
     { id: "grusel-bild", type: "puzzle", labelKey: "gruselBild", available: true },
   ],
@@ -261,6 +299,13 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "artikel-asteroids", type: "puzzle", labelKey: "artikelAsteroids", available: true },
     { id: "satzbau-sniper", type: "spotter", labelKey: "satzbauSniper", available: true },
     { id: "silben-slicer", type: "puzzle", labelKey: "silbenSlicer", available: true },
+    { id: "verben-vortex", type: "spotter", labelKey: "verbenVortex", available: true },
+    { id: "lese-detektiv", type: "memory", labelKey: "leseDetektiv", available: true },
+    { id: "grammatik-scanner", type: "spotter", labelKey: "grammatikScanner", available: true },
+    { id: "text-retter", type: "puzzle", labelKey: "textRetter", available: true },
+    { id: "wort-netz", type: "puzzle", labelKey: "wortNetz", available: true },
+    { id: "schreibwerkstatt", type: "puzzle", labelKey: "schreibwerkstatt", available: true },
+    { id: "literatur-lupe", type: "spotter", labelKey: "literaturLupe", available: true },
   ],
   magyar: [
     { id: "tipp-sturm", type: "spotter", labelKey: "tippSturm", available: true },
@@ -268,6 +313,13 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "artikel-asteroids", type: "puzzle", labelKey: "artikelAsteroids", available: true },
     { id: "satzbau-sniper", type: "spotter", labelKey: "satzbauSniper", available: true },
     { id: "silben-slicer", type: "puzzle", labelKey: "silbenSlicer", available: true },
+    { id: "verben-vortex", type: "spotter", labelKey: "verbenVortex", available: true },
+    { id: "lese-detektiv", type: "memory", labelKey: "leseDetektiv", available: true },
+    { id: "grammatik-scanner", type: "spotter", labelKey: "grammatikScanner", available: true },
+    { id: "text-retter", type: "puzzle", labelKey: "textRetter", available: true },
+    { id: "wort-netz", type: "puzzle", labelKey: "wortNetz", available: true },
+    { id: "schreibwerkstatt", type: "puzzle", labelKey: "schreibwerkstatt", available: true },
+    { id: "literatur-lupe", type: "spotter", labelKey: "literaturLupe", available: true },
   ],
   romana: [
     { id: "tipp-sturm", type: "spotter", labelKey: "tippSturm", available: true },
@@ -275,6 +327,13 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "artikel-asteroids", type: "puzzle", labelKey: "artikelAsteroids", available: true },
     { id: "satzbau-sniper", type: "spotter", labelKey: "satzbauSniper", available: true },
     { id: "silben-slicer", type: "puzzle", labelKey: "silbenSlicer", available: true },
+    { id: "verben-vortex", type: "spotter", labelKey: "verbenVortex", available: true },
+    { id: "lese-detektiv", type: "memory", labelKey: "leseDetektiv", available: true },
+    { id: "grammatik-scanner", type: "spotter", labelKey: "grammatikScanner", available: true },
+    { id: "text-retter", type: "puzzle", labelKey: "textRetter", available: true },
+    { id: "wort-netz", type: "puzzle", labelKey: "wortNetz", available: true },
+    { id: "schreibwerkstatt", type: "puzzle", labelKey: "schreibwerkstatt", available: true },
+    { id: "literatur-lupe", type: "spotter", labelKey: "literaturLupe", available: true },
   ],
   informatika: [
     { id: "binary-bit-stream", type: "spotter", labelKey: "binaryBitStream", available: true },
@@ -325,6 +384,13 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     artikelAsteroids: "Artikel-Asteroiden 🪐",
     satzbauSniper: "Satzbau-Sniper 🎯",
     silbenSlicer: "Silben-Slicer ✂️",
+    verbenVortex: "Verben-Vortex",
+    leseDetektiv: "Lese-Detektiv",
+    grammatikScanner: "Grammatik-Scanner",
+    textRetter: "Text-Retter",
+    wortNetz: "Wort-Netz",
+    schreibwerkstatt: "Schreibwerkstatt",
+    literaturLupe: "Literatur-Lupe",
     binaryBitStream: "Bit-Strom 💾",
     codeCommander: "Code-Kommandeur 🤖",
     hardwareHero: "Hardware-Held 🖥️",
@@ -348,6 +414,13 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     artikelAsteroids: "Névelő-Aszteroidák 🪐",
     satzbauSniper: "Mondatépítő 🎯",
     silbenSlicer: "Szótag-Vágó ✂️",
+    verbenVortex: "Igeörvény",
+    leseDetektiv: "Olvasódetektív",
+    grammatikScanner: "Nyelvtanszkenner",
+    textRetter: "Szövegmenő",
+    wortNetz: "Szóháló",
+    schreibwerkstatt: "Íróműhely",
+    literaturLupe: "Irodalmi nagyító",
     binaryBitStream: "Bit-Folyam 💾",
     codeCommander: "Kód-Parancsnok 🤖",
     hardwareHero: "Hardver-Hős 🖥️",
@@ -371,6 +444,13 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     artikelAsteroids: "Asteroizi cu Articole 🪐",
     satzbauSniper: "Sniper de Propoziții 🎯",
     silbenSlicer: "Tăiător de Silabe ✂️",
+    verbenVortex: "Vârtej de verbe",
+    leseDetektiv: "Detectivul lecturii",
+    grammatikScanner: "Scaner gramatical",
+    textRetter: "Salvatorul textului",
+    wortNetz: "Rețeaua cuvintelor",
+    schreibwerkstatt: "Atelier de scriere",
+    literaturLupe: "Lupa literară",
     binaryBitStream: "Flux Binar 💾",
     codeCommander: "Comandant Cod 🤖",
     hardwareHero: "Erou Hardware 🖥️",
@@ -394,6 +474,13 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     artikelAsteroids: "Article Asteroids 🪐",
     satzbauSniper: "Sentence Sniper 🎯",
     silbenSlicer: "Syllable Slicer ✂️",
+    verbenVortex: "Verb Vortex",
+    leseDetektiv: "Reading Detective",
+    grammatikScanner: "Grammar Scanner",
+    textRetter: "Text Rescuer",
+    wortNetz: "Word Network",
+    schreibwerkstatt: "Writing Workshop",
+    literaturLupe: "Literature Lens",
     binaryBitStream: "Bit Stream 💾",
     codeCommander: "Code Commander 🤖",
     hardwareHero: "Hardware Hero 🖥️",
@@ -414,16 +501,25 @@ for (const lg of ["de", "hu", "ro", "en"] as Lang[]) {
 function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps) {
   const [activeGame, setActiveGame] = useState<string | null>(null);
   const t = T[lang] ?? T.en;
-  const games = (SUBJECT_GAMES[subject] ?? []).filter((game) =>
-    subject !== "astromath" || isMathGameAvailableForGrade(game.id, grade)
-  );
+  const isLanguageSubject = ["deutsch", "english", "magyar", "romana"].includes(subject);
+  const games = (SUBJECT_GAMES[subject] ?? []).filter((game) => {
+    if (subject === "astromath") return isMathGameAvailableForGrade(game.id, grade);
+    if (isLanguageSubject && !game.id.startsWith("grusel-")) {
+      return isLanguageGameAvailableForGrade(game.id, grade);
+    }
+    return true;
+  });
   const isOpen = open;
 
   useEffect(() => {
     if (activeGame && subject === "astromath" && !isMathGameAvailableForGrade(activeGame, grade)) {
       setActiveGame(null);
     }
-  }, [activeGame, grade, subject]);
+    if (activeGame && isLanguageSubject && !activeGame.startsWith("grusel-")
+      && !isLanguageGameAvailableForGrade(activeGame, grade)) {
+      setActiveGame(null);
+    }
+  }, [activeGame, grade, isLanguageSubject, subject]);
 
   // Lock body scroll while open
   useEffect(() => {
@@ -525,6 +621,12 @@ const GAME_ICONS: Record<string, { icon: LucideIcon; tone: string }> = {
   "star-mapper": { icon: MapPinned, tone: "border-sky-300/30 bg-sky-400/10 text-sky-300" },
   "meteor-scale": { icon: Scale, tone: "border-yellow-300/30 bg-yellow-400/10 text-yellow-300" },
   "data-orbit": { icon: ChartNoAxesColumn, tone: "border-cyan-300/30 bg-cyan-400/10 text-cyan-300" },
+  "lese-detektiv": { icon: BookOpenCheck, tone: "border-amber-300/30 bg-amber-400/10 text-amber-200" },
+  "grammatik-scanner": { icon: ScanText, tone: "border-sky-300/30 bg-sky-400/10 text-sky-200" },
+  "text-retter": { icon: SpellCheck2, tone: "border-emerald-300/30 bg-emerald-400/10 text-emerald-200" },
+  "wort-netz": { icon: Network, tone: "border-violet-300/30 bg-violet-400/10 text-violet-200" },
+  "schreibwerkstatt": { icon: PenLine, tone: "border-rose-300/30 bg-rose-400/10 text-rose-200" },
+  "literatur-lupe": { icon: SearchCheck, tone: "border-fuchsia-300/30 bg-fuchsia-400/10 text-fuchsia-200" },
 };
 
 function gameIcon(game: VisualLabGame) {
@@ -620,7 +722,7 @@ function GameHost({
       {subject === "astromath" ? (
         <AstromathGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
       ) : ["deutsch", "english", "magyar", "romana"].includes(subject) ? (
-        <DeutschGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} onDone={() => scheduleTimeout(onBack, 2500)} />
+        <DeutschGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
       ) : subject === "informatika" ? (
         <InformatikaGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} onDone={() => scheduleTimeout(onBack, 2500)} />
       ) : subject === "geographie" ? (
@@ -707,46 +809,59 @@ function DeutschGameSwitch({
   grade,
   lang,
   tSoon,
-  onDone,
 }: {
   gameId: string;
   grade: number;
   lang: Lang;
   tSoon: string;
-  onDone?: (score: number) => void;
 }) {
   // Pool betöltés: lang+grade → lang+1 → de+1 (pool-szintű fallback)
-  const pool = ASTRO_LANGUAGE_POOLS[lang]?.[grade]
-    ?? ASTRO_LANGUAGE_POOLS[lang]?.[1]
-    ?? ASTRO_LANGUAGE_POOLS['de']?.[1];
+  const fallbackPool = ACTIVE_LANGUAGE_POOLS[lang]?.[1];
+  const pool = ACTIVE_LANGUAGE_POOLS[lang]?.[grade] ?? fallbackPool;
 
-  // Round-szintű fallback: ha az adott pool-ban üres az array, de+1-ből vesszük
-  const dePool = ASTRO_LANGUAGE_POOLS['de']?.[1];
+  // Round-szintű fallback csak ugyanazon a nyelven belül történhet.
 
   if (gameId === "tipp-sturm") {
-    const round = pickRound(pool?.tippSturm, dePool?.tippSturm);
-    if (!round) return <FallbackBox title={gameId} info={tSoon} />;
-    return <TippSturmGame grade={grade} lang={lang} round={round} onDone={onDone} />;
+    const rounds = pool?.tippSturm?.length ? pool.tippSturm : fallbackPool?.tippSturm;
+    if (!rounds?.length) return <FallbackBox title={gameId} info={tSoon} />;
+    return <LanguageRoundSession gameId="tipp-sturm" grade={grade} lang={lang} rounds={(level) => prepareLegacyLanguageRounds("tipp-sturm", rounds, level)}
+      renderRound={(round, done, key) => <TippSturmGame key={key} grade={grade} lang={lang} round={round as TippSturmRound} onDone={done} />} />;
   }
   if (gameId === "wort-waechter") {
-    const round = pickRound(pool?.wortWaechter, dePool?.wortWaechter);
-    if (!round) return <FallbackBox title={gameId} info={tSoon} />;
-    return <WortWaechterGame grade={grade} lang={lang} round={round} onDone={onDone} />;
+    const rounds = pool?.wortWaechter?.length ? pool.wortWaechter : fallbackPool?.wortWaechter;
+    if (!rounds?.length) return <FallbackBox title={gameId} info={tSoon} />;
+    return <LanguageRoundSession gameId="wort-waechter" grade={grade} lang={lang} rounds={(level) => prepareLegacyLanguageRounds("wort-waechter", rounds, level)}
+      renderRound={(round, done, key) => <WortWaechterGame key={key} grade={grade} lang={lang} round={round as WortWaechterRound} onDone={done} />} />;
   }
   if (gameId === "artikel-asteroids") {
-    const round = pickRound(pool?.artikelAsteroids, dePool?.artikelAsteroids);
-    if (!round) return <FallbackBox title={gameId} info={tSoon} />;
-    return <ArtikelAsteroidsGame grade={grade} lang={lang} round={round} onDone={onDone} />;
+    const rounds = pool?.artikelAsteroids?.length ? pool.artikelAsteroids : fallbackPool?.artikelAsteroids;
+    if (!rounds?.length) return <FallbackBox title={gameId} info={tSoon} />;
+    return <LanguageRoundSession gameId="artikel-asteroids" grade={grade} lang={lang} rounds={(level) => prepareLegacyLanguageRounds("artikel-asteroids", rounds, level)}
+      renderRound={(round, done, key) => <ArtikelAsteroidsGame key={key} grade={grade} lang={lang} round={round as ArtikelAsteroidsRound} onDone={(score) => done(score, (round as ArtikelAsteroidsRound).words.length * 10)} />} />;
   }
   if (gameId === "satzbau-sniper") {
-    const round = pickRound(pool?.satzbauSniper, dePool?.satzbauSniper);
-    if (!round) return <FallbackBox title={gameId} info={tSoon} />;
-    return <SatzbauSniperGame grade={grade} lang={lang} round={round} onDone={onDone} />;
+    const rounds = pool?.satzbauSniper?.length ? pool.satzbauSniper : fallbackPool?.satzbauSniper;
+    if (!rounds?.length) return <FallbackBox title={gameId} info={tSoon} />;
+    return <LanguageRoundSession gameId="satzbau-sniper" grade={grade} lang={lang} rounds={(level) => prepareLegacyLanguageRounds("satzbau-sniper", rounds, level)}
+      renderRound={(round, done, key) => <SatzbauSniperGame key={key} grade={grade} lang={lang} round={round as SatzbauSniperRound} onDone={done} />} />;
   }
   if (gameId === "silben-slicer") {
-    const round = pickRound(pool?.silbenSlicer, dePool?.silbenSlicer);
-    if (!round) return <FallbackBox title={gameId} info={tSoon} />;
-    return <SilbenSlicerGame grade={grade} lang={lang} round={round} onDone={onDone} />;
+    const rounds = pool?.silbenSlicer?.length ? pool.silbenSlicer : fallbackPool?.silbenSlicer;
+    if (!rounds?.length) return <FallbackBox title={gameId} info={tSoon} />;
+    return <LanguageRoundSession gameId="silben-slicer" grade={grade} lang={lang} rounds={(level) => prepareLegacyLanguageRounds("silben-slicer", rounds, level)}
+      renderRound={(round, done, key) => <SilbenSlicerGame key={key} grade={grade} lang={lang} round={round as SilbenSlicerRound} onDone={(score) => done(score, (round as SilbenSlicerRound).words.length * 10)} />} />;
+  }
+  if (gameId === "verben-vortex") {
+    const rounds = pool?.verbenVortex?.length ? pool.verbenVortex : fallbackPool?.verbenVortex;
+    if (!rounds?.length) return <FallbackBox title={gameId} info={tSoon} />;
+    return <LanguageRoundSession gameId="verben-vortex" grade={grade} lang={lang} rounds={(level) => prepareLegacyLanguageRounds("verben-vortex", rounds, level)}
+      renderRound={(round, done, key) => <VerbenVortexGame key={key} grade={grade} lang={lang} round={round as VerbenVortexRound} onDone={done} />} />;
+  }
+  if (LANGUAGE_SKILL_GAME_IDS.includes(gameId as LanguageSkillGameId)) {
+    const skillGameId = gameId as LanguageSkillGameId;
+    return <LanguageRoundSession<LanguageSkillRound> gameId={skillGameId} grade={grade} lang={lang}
+      rounds={(level, count) => buildLanguageSkillRounds(skillGameId, lang, grade, level, count)}
+      renderRound={(round, done, key) => <LanguageSkillGame key={key} grade={grade} lang={lang} round={round} onDone={done} />} />;
   }
   if (gameId === "grusel-builder") {
     return <GruselBuilderGame grade={grade} lang={lang} />;
