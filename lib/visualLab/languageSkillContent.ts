@@ -7,6 +7,7 @@ export type LanguageSkillLang = "de" | "hu" | "ro" | "en";
 
 export interface LanguageSkillRound {
   id: string;
+  gameId: LanguageSkillGameId;
   title: string;
   instruction: string;
   context: string;
@@ -206,6 +207,7 @@ export function buildLanguageSkillRounds(gameId: LanguageSkillGameId, lang: Lang
     const [context, prompt, correctAnswer, wrongA, wrongB, explanation] = order[index % order.length];
     return {
       id: `${gameId}:${lang}:g${grade}:l${level}:r${index}`,
+      gameId,
       title: TITLES[lang][gameId],
       instruction: INSTRUCTIONS[lang][gameId],
       context,

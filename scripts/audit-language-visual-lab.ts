@@ -51,6 +51,7 @@ for (const lang of ["de", "hu", "ro", "en"] as LanguageSkillLang[]) {
         const rounds = buildLanguageSkillRounds(gameId, lang, grade, level as LanguageLevel, expected);
         assert(rounds.length === expected, `${lang} grade ${grade} ${gameId} level ${level}: wrong count`);
         for (const round of rounds) {
+          assert(round.gameId === gameId, `${round.id}: wrong game mechanic id`);
           assert(round.context && round.prompt && round.explanation, `${round.id}: missing text`);
           assert(round.options.length === 3 && new Set(round.options).size === 3, `${round.id}: options not unique`);
           assert(round.options.filter((option) => option === round.correctAnswer).length === 1, `${round.id}: correct answer mismatch`);
