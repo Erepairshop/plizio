@@ -71,9 +71,6 @@ const MathQuestGame = dynamic(() => import("@/app/astromath/visual-lab/games/Mat
 import GruselBuilderGame from "@/app/astromath/visual-lab/games/GruselBuilderGame";
 import BildGeschichteGame from "@/app/astromath/visual-lab/games/BildGeschichteGame";
 
-// Astro-Physik Visual Lab játékok
-import FormulaBlitzGame from "@/app/astro-physik/visual-lab/games/FormulaBlitzGame";
-
 // Astrinformatika Visual Lab játékok
 import BinaryBitStreamGame from "@/app/astrinformatika/visual-lab/games/BinaryBitStreamGame";
 import CodeCommanderGame from "@/app/astrinformatika/visual-lab/games/CodeCommanderGame";
@@ -92,6 +89,7 @@ const VerbenVortexGame = dynamic(() => import("@/app/astro-deutsch/visual-lab/ga
 const LanguageSkillGame = dynamic(() => import("@/app/astro-deutsch/visual-lab/games/LanguageSkillGame"));
 const GeographyLab = dynamic(() => import("./visual-lab/GeographyLab"));
 const BiologyLab = dynamic(() => import("./visual-lab/BiologyLab"));
+const PhysicsLab = dynamic(() => import("./visual-lab/PhysicsLab"));
 import { ASTRO_LANGUAGE_POOLS } from "@/lib/visualLab/pools/astroLanguagePools";
 import { ASTRO_ENGLISH_LANGUAGE_POOL } from "@/lib/visualLab/pools/astroEnglishLanguagePools";
 import { ASTRO_MAGYAR_LANGUAGE_POOL } from "@/lib/visualLab/pools/astroMagyarLanguagePools";
@@ -116,12 +114,12 @@ import { SACHKUNDE_VISUAL_LAB_K3 } from "@/lib/visualLab/pools/sachkundeK3";
 import { SACHKUNDE_VISUAL_LAB_K4 } from "@/lib/visualLab/pools/sachkundeK4";
 
 import type { SachkundeVisualLabGradePool } from "@/lib/visualLab/types";
-import { PHYSIK_POOLS } from "@/lib/visualLab/pools/physikPool";
 import { KEMIA_POOLS } from "@/lib/visualLab/pools/kemiaPool";
 import { GESCHICHTE_POOLS } from "@/lib/visualLab/pools/geschichtePool";
 import { isMathGameAvailableForGrade } from "@/lib/visualLab/mathCurriculum";
 import { isGeographyGameAvailableForGrade } from "@/lib/visualLab/geographyCurriculum";
 import { isBiologyGameAvailableForGrade } from "@/lib/visualLab/biologyCurriculum";
+import { isPhysicsGameAvailableForGrade } from "@/lib/visualLab/physicsCurriculum";
 
 const ACTIVE_LANGUAGE_POOLS: LanguagePools = {
   de: ASTRO_LANGUAGE_POOLS.de,
@@ -406,6 +404,13 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "signal-runner", type: "puzzle", labelKey: "signalRunner", available: true },
     { id: "constellation-builder", type: "puzzle", labelKey: "constellationBuilder", available: true },
     { id: "memory-radar", type: "memory", labelKey: "memoryRadar", available: true },
+    { id: "kraft-labor", type: "spotter", labelKey: "kraftLabor", available: true },
+    { id: "schaltkreis-werkstatt", type: "puzzle", labelKey: "schaltkreisWerkstatt", available: true },
+    { id: "optik-laser", type: "spotter", labelKey: "optikLaser", available: true },
+    { id: "energie-manager", type: "puzzle", labelKey: "energieManager", available: true },
+    { id: "messdaten-analyse", type: "puzzle", labelKey: "messdatenAnalyse", available: true },
+    { id: "experiment-check", type: "spotter", labelKey: "experimentCheck", available: true },
+    { id: "formel-detektiv", type: "puzzle", labelKey: "formelDetektiv", available: true },
   ],
   kemia: [
     { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
@@ -462,6 +467,13 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     lebensraumDetektiv: "Lebensraum-Detektiv",
     forschungsCheck: "Forschungs-Check",
     gesundheitsMission: "Gesundheits-Mission",
+    kraftLabor: "Physik-Scanner",
+    schaltkreisWerkstatt: "System-Werkstatt",
+    optikLaser: "Ablauf-Laser",
+    energieManager: "Zusammenhang-Netz",
+    messdatenAnalyse: "Muster-Analyse",
+    experimentCheck: "Experiment-Check",
+    formelDetektiv: "Physik-Detektiv",
     binaryBitStream: "Bit-Strom 💾",
     codeCommander: "Code-Kommandeur 🤖",
     hardwareHero: "Hardware-Held 🖥️",
@@ -499,6 +511,13 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     lebensraumDetektiv: "Élőhelydetektív",
     forschungsCheck: "Kutatásellenőrző",
     gesundheitsMission: "Egészségküldetés",
+    kraftLabor: "Fizikaszkenner",
+    schaltkreisWerkstatt: "Rendszerműhely",
+    optikLaser: "Folyamatlézer",
+    energieManager: "Összefüggésháló",
+    messdatenAnalyse: "Mintaelemző",
+    experimentCheck: "Kísérletellenőrző",
+    formelDetektiv: "Fizikadetektív",
     binaryBitStream: "Bit-Folyam 💾",
     codeCommander: "Kód-Parancsnok 🤖",
     hardwareHero: "Hardver-Hős 🖥️",
@@ -536,6 +555,13 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     lebensraumDetektiv: "Detectivul habitatelor",
     forschungsCheck: "Verificarea cercetării",
     gesundheitsMission: "Misiunea sănătății",
+    kraftLabor: "Scaner de fizică",
+    schaltkreisWerkstatt: "Atelier de sisteme",
+    optikLaser: "Laser de procese",
+    energieManager: "Rețeaua relațiilor",
+    messdatenAnalyse: "Analiza modelelor",
+    experimentCheck: "Verificarea experimentului",
+    formelDetektiv: "Detectivul fizicii",
     binaryBitStream: "Flux Binar 💾",
     codeCommander: "Comandant Cod 🤖",
     hardwareHero: "Erou Hardware 🖥️",
@@ -573,6 +599,13 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     lebensraumDetektiv: "Habitat Detective",
     forschungsCheck: "Research Check",
     gesundheitsMission: "Health Mission",
+    kraftLabor: "Physics Scanner",
+    schaltkreisWerkstatt: "Systems Workshop",
+    optikLaser: "Sequence Laser",
+    energieManager: "Connection Network",
+    messdatenAnalyse: "Pattern Analysis",
+    experimentCheck: "Experiment Check",
+    formelDetektiv: "Physics Detective",
     binaryBitStream: "Bit Stream 💾",
     codeCommander: "Code Commander 🤖",
     hardwareHero: "Hardware Hero 🖥️",
@@ -598,6 +631,7 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
     if (subject === "astromath") return isMathGameAvailableForGrade(game.id, grade);
     if (subject === "geographie") return isGeographyGameAvailableForGrade(game.id, grade);
     if (subject === "biologie") return isBiologyGameAvailableForGrade(game.id, grade);
+    if (subject === "physik") return isPhysicsGameAvailableForGrade(game.id, grade);
     if (isLanguageSubject && !game.id.startsWith("grusel-")) {
       return isLanguageGameAvailableForGrade(game.id, grade);
     }
@@ -617,6 +651,9 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
       setActiveGame(null);
     }
     if (activeGame && subject === "biologie" && !isBiologyGameAvailableForGrade(activeGame, grade)) {
+      setActiveGame(null);
+    }
+    if (activeGame && subject === "physik" && !isPhysicsGameAvailableForGrade(activeGame, grade)) {
       setActiveGame(null);
     }
   }, [activeGame, grade, isLanguageSubject, subject]);
@@ -754,6 +791,13 @@ const GAME_ICONS: Record<string, { icon: LucideIcon; tone: string }> = {
   "lebensraum-detektiv": { icon: Trees, tone: "border-lime-300/30 bg-lime-400/10 text-lime-200" },
   "forschungs-check": { icon: FlaskConical, tone: "border-sky-300/30 bg-sky-400/10 text-sky-200" },
   "gesundheits-mission": { icon: HeartPulse, tone: "border-rose-300/30 bg-rose-400/10 text-rose-200" },
+  "kraft-labor": { icon: Scale, tone: "border-orange-300/30 bg-orange-400/10 text-orange-200" },
+  "schaltkreis-werkstatt": { icon: Network, tone: "border-yellow-300/30 bg-yellow-400/10 text-yellow-200" },
+  "optik-laser": { icon: Crosshair, tone: "border-fuchsia-300/30 bg-fuchsia-400/10 text-fuchsia-200" },
+  "energie-manager": { icon: Sparkles, tone: "border-emerald-300/30 bg-emerald-400/10 text-emerald-200" },
+  "messdaten-analyse": { icon: ChartNoAxesColumn, tone: "border-sky-300/30 bg-sky-400/10 text-sky-200" },
+  "experiment-check": { icon: FlaskConical, tone: "border-cyan-300/30 bg-cyan-400/10 text-cyan-200" },
+  "formel-detektiv": { icon: Puzzle, tone: "border-violet-300/30 bg-violet-400/10 text-violet-200" },
 };
 
 function gameIcon(game: VisualLabGame) {
@@ -1116,35 +1160,7 @@ function PhysikGameSwitch({
 }: {
   gameId: string; grade: number; lang: Lang; tSoon: string;
 }) {
-  if (gameId === "formula-blitz") {
-    return <FormulaBlitzGame grade={grade} lang={lang} />;
-  }
-  const pool = PHYSIK_POOLS[grade];
-  if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
-  switch (gameId) {
-    case "meteor-catch": {
-      const round = pickRound(pool.meteorCatch, undefined);
-      return round ? <MeteorCatchGame round={localizeDeep(round, lang) as any} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    case "orbit-sort": {
-      const round = pickRound(pool.orbitSort, undefined);
-      return round ? <OrbitSortGame round={localizeDeep(round, lang) as any} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    case "signal-runner": {
-      const round = pickRound(pool.signalRunner, undefined);
-      return round ? <SignalRunnerGame round={localizeDeep(round, lang) as any} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    case "constellation-builder": {
-      const round = pickRound(pool.constellationBuilder, undefined);
-      return round ? <ConstellationBuilderGame round={localizeDeep(round, lang) as any} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    case "memory-radar": {
-      const rounds = pool.memoryRadar.slice(0, 3);
-      return rounds.length > 0 ? <MemoryRadarGame rounds={localizeDeep(rounds, lang) as any} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    default:
-      return <FallbackBox title={gameId} info={tSoon} />;
-  }
+  return <PhysicsLab gameId={gameId} grade={grade} lang={lang} fallback={tSoon} />;
 }
 
 function KemiaGameSwitch({

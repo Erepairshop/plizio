@@ -1,0 +1,21 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "skipLibCheck": true,
+    "incremental": false
+  },
+  "include": [
+    "components/VisualLab.tsx",
+    "components/visual-lab/PhysicsGameProgress.tsx",
+    "components/visual-lab/PhysicsRoundSession.tsx",
+    "components/visual-lab/PhysicsLab.tsx",
+    "app/astro-physik/visual-lab/games/PhysicsSkillGame.tsx",
+    "app/astro-physik/visual-lab/games/PhysicsSkillMechanics.tsx",
+    "lib/visualLab/physicsCurriculum.ts",
+    "lib/visualLab/physicsSkillContent.ts",
+    "lib/visualLab/prepareLegacyPhysicsRounds.ts",
+    "next-env.d.ts"
+  ],
+  "exclude": ["node_modules", ".next", "out"]
+}
