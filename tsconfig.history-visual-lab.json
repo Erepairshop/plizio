@@ -1,0 +1,21 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "skipLibCheck": true,
+    "incremental": false
+  },
+  "include": [
+    "components/VisualLab.tsx",
+    "components/visual-lab/HistoryGameProgress.tsx",
+    "components/visual-lab/HistoryRoundSession.tsx",
+    "components/visual-lab/HistoryLab.tsx",
+    "app/astro-geschichte/visual-lab/games/HistorySkillGame.tsx",
+    "app/astro-geschichte/visual-lab/games/HistorySkillMechanics.tsx",
+    "lib/visualLab/historyCurriculum.ts",
+    "lib/visualLab/historySkillContent.ts",
+    "lib/visualLab/prepareLegacyHistoryRounds.ts",
+    "next-env.d.ts"
+  ],
+  "exclude": ["node_modules", ".next", "out"]
+}

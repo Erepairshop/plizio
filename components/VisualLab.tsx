@@ -91,6 +91,7 @@ const GeographyLab = dynamic(() => import("./visual-lab/GeographyLab"));
 const BiologyLab = dynamic(() => import("./visual-lab/BiologyLab"));
 const PhysicsLab = dynamic(() => import("./visual-lab/PhysicsLab"));
 const ChemistryLab = dynamic(() => import("./visual-lab/ChemistryLab"));
+const HistoryLab = dynamic(() => import("./visual-lab/HistoryLab"));
 import { ASTRO_LANGUAGE_POOLS } from "@/lib/visualLab/pools/astroLanguagePools";
 import { ASTRO_ENGLISH_LANGUAGE_POOL } from "@/lib/visualLab/pools/astroEnglishLanguagePools";
 import { ASTRO_MAGYAR_LANGUAGE_POOL } from "@/lib/visualLab/pools/astroMagyarLanguagePools";
@@ -121,6 +122,7 @@ import { isGeographyGameAvailableForGrade } from "@/lib/visualLab/geographyCurri
 import { isBiologyGameAvailableForGrade } from "@/lib/visualLab/biologyCurriculum";
 import { isPhysicsGameAvailableForGrade } from "@/lib/visualLab/physicsCurriculum";
 import { isChemistryGameAvailableForGrade } from "@/lib/visualLab/chemistryCurriculum";
+import { isHistoryGameAvailableForGrade } from "@/lib/visualLab/historyCurriculum";
 
 const ACTIVE_LANGUAGE_POOLS: LanguagePools = {
   de: ASTRO_LANGUAGE_POOLS.de,
@@ -320,6 +322,13 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "signal-runner", type: "puzzle", labelKey: "signalRunner", available: true },
     { id: "constellation-builder", type: "puzzle", labelKey: "constellationBuilder", available: true },
     { id: "memory-radar", type: "memory", labelKey: "memoryRadar", available: true },
+    { id: "chronik-scanner", type: "spotter", labelKey: "chronikScanner", available: true },
+    { id: "epochen-sortierer", type: "puzzle", labelKey: "epochenSortierer", available: true },
+    { id: "ursache-wirkung", type: "puzzle", labelKey: "ursacheWirkung", available: true },
+    { id: "quellen-labor", type: "puzzle", labelKey: "quellenLabor", available: true },
+    { id: "zeitstrahl-analyse", type: "timeline", labelKey: "zeitstrahlAnalyse", available: true },
+    { id: "entscheidungs-rat", type: "puzzle", labelKey: "entscheidungsRat", available: true },
+    { id: "geschichts-detektiv", type: "spotter", labelKey: "geschichtsDetektiv", available: true },
   ],
   astromath: [
     { id: "math-quest", type: "campaign", labelKey: "mathQuest", available: true },
@@ -488,7 +497,14 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     bindungsLabor: "Bindungs-Labor",
     phAnalyse: "pH-Analyse",
     sicherheitsCheck: "Sicherheits-Check",
-    chemieDetektiv: "Chemie-Detektiv",    binaryBitStream: "Bit-Strom 💾",
+    chemieDetektiv: "Chemie-Detektiv",chronikScanner: "Chronik-Scanner",
+    epochenSortierer: "Epochen-Sortierer",
+    ursacheWirkung: "Ursache und Wirkung",
+    quellenLabor: "Quellen-Labor",
+    zeitstrahlAnalyse: "Zeitstrahl-Analyse",
+    entscheidungsRat: "Historischer Rat",
+    geschichtsDetektiv: "Geschichtsdetektiv",
+    binaryBitStream: "Bit-Strom 💾",
     codeCommander: "Code-Kommandeur 🤖",
     hardwareHero: "Hardware-Held 🖥️",
     packetPath: "Paket-Pfad 🌐",
@@ -538,7 +554,14 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     bindungsLabor: "Kötéslabor",
     phAnalyse: "pH-elemző",
     sicherheitsCheck: "Biztonsági ellenőrzés",
-    chemieDetektiv: "Kémiadetektív",    binaryBitStream: "Bit-Folyam 💾",
+    chemieDetektiv: "Kémiadetektív",chronikScanner: "Krónikaszkenner",
+    epochenSortierer: "Korszakrendező",
+    ursacheWirkung: "Ok és következmény",
+    quellenLabor: "Forráslabor",
+    zeitstrahlAnalyse: "Idővonal-elemzés",
+    entscheidungsRat: "Történelmi tanács",
+    geschichtsDetektiv: "Történelmi nyomozó",
+    binaryBitStream: "Bit-Folyam 💾",
     codeCommander: "Kód-Parancsnok 🤖",
     hardwareHero: "Hardver-Hős 🖥️",
     packetPath: "Adatcsomag Útvonal 🌐",
@@ -588,7 +611,14 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     bindungsLabor: "Laborator de legături",
     phAnalyse: "Analiza pH",
     sicherheitsCheck: "Control de siguranță",
-    chemieDetektiv: "Detectivul chimiei",    binaryBitStream: "Flux Binar 💾",
+    chemieDetektiv: "Detectivul chimiei",chronikScanner: "Scaner de cronici",
+    epochenSortierer: "Sortator de epoci",
+    ursacheWirkung: "Cauză și efect",
+    quellenLabor: "Laborator de surse",
+    zeitstrahlAnalyse: "Analiza cronologiei",
+    entscheidungsRat: "Consiliu istoric",
+    geschichtsDetektiv: "Detectiv istoric",
+    binaryBitStream: "Flux Binar 💾",
     codeCommander: "Comandant Cod 🤖",
     hardwareHero: "Erou Hardware 🖥️",
     packetPath: "Rută Pachete 🌐",
@@ -638,7 +668,14 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     bindungsLabor: "Bond Lab",
     phAnalyse: "pH Analysis",
     sicherheitsCheck: "Safety Check",
-    chemieDetektiv: "Chemistry Detective",    binaryBitStream: "Bit Stream 💾",
+    chemieDetektiv: "Chemistry Detective",chronikScanner: "Chronicle Scanner",
+    epochenSortierer: "Era Sorter",
+    ursacheWirkung: "Cause and Effect",
+    quellenLabor: "Source Lab",
+    zeitstrahlAnalyse: "Timeline Analysis",
+    entscheidungsRat: "History Council",
+    geschichtsDetektiv: "History Detective",
+    binaryBitStream: "Bit Stream 💾",
     codeCommander: "Code Commander 🤖",
     hardwareHero: "Hardware Hero 🖥️",
     packetPath: "Packet Path 🌐",
@@ -665,6 +702,7 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
     if (subject === "biologie") return isBiologyGameAvailableForGrade(game.id, grade);
     if (subject === "physik") return isPhysicsGameAvailableForGrade(game.id, grade);
     if (subject === "kemia") return isChemistryGameAvailableForGrade(game.id, grade);
+    if (subject === "geschichte") return isHistoryGameAvailableForGrade(game.id, grade);
     if (isLanguageSubject && !game.id.startsWith("grusel-")) {
       return isLanguageGameAvailableForGrade(game.id, grade);
     }
@@ -841,6 +879,13 @@ const GAME_ICONS: Record<string, { icon: LucideIcon; tone: string }> = {
   "ph-analyse": { icon: ChartNoAxesColumn, tone: "border-sky-300/30 bg-sky-400/10 text-sky-200" },
   "sicherheits-check": { icon: ShieldCheck, tone: "border-cyan-300/30 bg-cyan-400/10 text-cyan-200" },
   "chemie-detektiv": { icon: FlaskConical, tone: "border-violet-300/30 bg-violet-400/10 text-violet-200" },
+  "chronik-scanner": { icon: SearchCheck, tone: "border-amber-300/30 bg-amber-400/10 text-amber-200" },
+  "epochen-sortierer": { icon: ListTree, tone: "border-orange-300/30 bg-orange-400/10 text-orange-200" },
+  "ursache-wirkung": { icon: Workflow, tone: "border-rose-300/30 bg-rose-400/10 text-rose-200" },
+  "quellen-labor": { icon: BookOpenCheck, tone: "border-sky-300/30 bg-sky-400/10 text-sky-200" },
+  "zeitstrahl-analyse": { icon: Clock3, tone: "border-violet-300/30 bg-violet-400/10 text-violet-200" },
+  "entscheidungs-rat": { icon: Landmark, tone: "border-cyan-300/30 bg-cyan-400/10 text-cyan-200" },
+  "geschichts-detektiv": { icon: SearchCheck, tone: "border-emerald-300/30 bg-emerald-400/10 text-emerald-200" },
 };
 
 function gameIcon(game: VisualLabGame) {
@@ -1227,34 +1272,8 @@ function GeschichteGameSwitch({
 }: {
   gameId: string; grade: number; lang: Lang; tSoon: string;
 }) {
-  const pool = GESCHICHTE_POOLS[grade];
-  if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
-  switch (gameId) {
-    case "meteor-catch": {
-      const round = pickRound(pool.meteorCatch, undefined);
-      return round ? <MeteorCatchGame round={localizeDeep(round, lang) as any} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    case "orbit-sort": {
-      const round = pickRound(pool.orbitSort, undefined);
-      return round ? <OrbitSortGame round={localizeDeep(round, lang) as any} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    case "signal-runner": {
-      const round = pickRound(pool.signalRunner, undefined);
-      return round ? <SignalRunnerGame round={localizeDeep(round, lang) as any} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    case "constellation-builder": {
-      const round = pickRound(pool.constellationBuilder, undefined);
-      return round ? <ConstellationBuilderGame round={localizeDeep(round, lang) as any} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    case "memory-radar": {
-      const rounds = pool.memoryRadar.slice(0, 3);
-      return rounds.length > 0 ? <MemoryRadarGame rounds={localizeDeep(rounds, lang) as any} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    default:
-      return <FallbackBox title={gameId} info={tSoon} />;
-  }
+  return <HistoryLab gameId={gameId} grade={grade} lang={lang} fallback={tSoon} />;
 }
-
 function FallbackBox({ title, info }: { title: string; info: string }) {
   return (
     <div className="rounded-xl border border-cyan-500/30 bg-cyan-500/5 p-8 text-center">
