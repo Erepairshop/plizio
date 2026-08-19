@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { WortWaechterRound, Language } from "@/lib/visualLab/languageTypes";
 
@@ -54,6 +54,11 @@ export default function PacketPathGame({
   const [flash, setFlash] = useState<"correct" | "wrong" | null>(null);
   const [done, setDone] = useState(false);
   const [slideDir, setSlideDir] = useState<1 | -1>(1);
+  const timer = useRef<number | null>(null);
+
+  useEffect(() => () => {
+    if (timer.current !== null) window.clearTimeout(timer.current);
+  }, []);
 
   const current = queue[idx];
 
@@ -69,7 +74,8 @@ export default function PacketPathGame({
     setFlash(correct ? "correct" : "wrong");
     setSlideDir(routeChoice ? 1 : -1);
 
-    setTimeout(() => {
+    if (timer.current !== null) window.clearTimeout(timer.current);
+    timer.current = window.setTimeout(() => {
       setFlash(null);
       const nextIdx = idx + 1;
       if (nextIdx >= queue.length || newLives <= 0) {
@@ -78,6 +84,7 @@ export default function PacketPathGame({
       } else {
         setIdx(nextIdx);
       }
+      timer.current = null;
     }, 750);
   };
 

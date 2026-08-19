@@ -1,0 +1,21 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "skipLibCheck": true,
+    "incremental": false
+  },
+  "include": [
+    "components/VisualLab.tsx",
+    "components/visual-lab/InformaticsGameProgress.tsx",
+    "components/visual-lab/InformaticsRoundSession.tsx",
+    "components/visual-lab/InformaticsLab.tsx",
+    "app/astrinformatika/visual-lab/games/InformaticsSkillGame.tsx",
+    "app/astrinformatika/visual-lab/games/InformaticsSkillMechanics.tsx",
+    "lib/visualLab/informaticsCurriculum.ts",
+    "lib/visualLab/informaticsSkillContent.ts",
+    "lib/visualLab/prepareLegacyInformaticsRounds.ts",
+    "next-env.d.ts"
+  ],
+  "exclude": ["node_modules", ".next", "out"]
+}

@@ -72,12 +72,6 @@ import GruselBuilderGame from "@/app/astromath/visual-lab/games/GruselBuilderGam
 import BildGeschichteGame from "@/app/astromath/visual-lab/games/BildGeschichteGame";
 
 // Astrinformatika Visual Lab játékok
-import BinaryBitStreamGame from "@/app/astrinformatika/visual-lab/games/BinaryBitStreamGame";
-import CodeCommanderGame from "@/app/astrinformatika/visual-lab/games/CodeCommanderGame";
-import HardwareHeroGame from "@/app/astrinformatika/visual-lab/games/HardwareHeroGame";
-import PacketPathGame from "@/app/astrinformatika/visual-lab/games/PacketPathGame";
-import VirusVaultGame from "@/app/astrinformatika/visual-lab/games/VirusVaultGame";
-import { INFORMATIKA_POOLS } from "@/lib/visualLab/pools/informatikaPool";
 
 // Astrodeutsch Visual Lab játékok
 const WortWaechterGame = dynamic(() => import("@/app/astro-deutsch/visual-lab/games/WortWaechterGame"));
@@ -92,6 +86,7 @@ const BiologyLab = dynamic(() => import("./visual-lab/BiologyLab"));
 const PhysicsLab = dynamic(() => import("./visual-lab/PhysicsLab"));
 const ChemistryLab = dynamic(() => import("./visual-lab/ChemistryLab"));
 const HistoryLab = dynamic(() => import("./visual-lab/HistoryLab"));
+const InformaticsLab = dynamic(() => import("./visual-lab/InformaticsLab"));
 import { ASTRO_LANGUAGE_POOLS } from "@/lib/visualLab/pools/astroLanguagePools";
 import { ASTRO_ENGLISH_LANGUAGE_POOL } from "@/lib/visualLab/pools/astroEnglishLanguagePools";
 import { ASTRO_MAGYAR_LANGUAGE_POOL } from "@/lib/visualLab/pools/astroMagyarLanguagePools";
@@ -123,6 +118,7 @@ import { isBiologyGameAvailableForGrade } from "@/lib/visualLab/biologyCurriculu
 import { isPhysicsGameAvailableForGrade } from "@/lib/visualLab/physicsCurriculum";
 import { isChemistryGameAvailableForGrade } from "@/lib/visualLab/chemistryCurriculum";
 import { isHistoryGameAvailableForGrade } from "@/lib/visualLab/historyCurriculum";
+import { isInformaticsGameAvailableForGrade } from "@/lib/visualLab/informaticsCurriculum";
 
 const ACTIVE_LANGUAGE_POOLS: LanguagePools = {
   de: ASTRO_LANGUAGE_POOLS.de,
@@ -406,6 +402,13 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "hardware-hero", type: "puzzle", labelKey: "hardwareHero", available: true },
     { id: "packet-path", type: "puzzle", labelKey: "packetPath", available: true },
     { id: "virus-vault", type: "spotter", labelKey: "virusVault", available: true },
+    { id: "daten-scanner", type: "spotter", labelKey: "datenScanner", available: true },
+    { id: "system-sortierer", type: "puzzle", labelKey: "systemSortierer", available: true },
+    { id: "algorithmus-labor", type: "puzzle", labelKey: "algorithmusLabor", available: true },
+    { id: "netzwerk-router", type: "puzzle", labelKey: "netzwerkRouter", available: true },
+    { id: "cyber-schutz", type: "spotter", labelKey: "cyberSchutz", available: true },
+    { id: "debug-mission", type: "puzzle", labelKey: "debugMission", available: true },
+    { id: "code-detektiv", type: "spotter", labelKey: "codeDetektiv", available: true },
   ],
   physik: [
     { id: "formula-blitz", type: "spotter", labelKey: "formulaBlitz", available: true },
@@ -504,6 +507,13 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     zeitstrahlAnalyse: "Zeitstrahl-Analyse",
     entscheidungsRat: "Historischer Rat",
     geschichtsDetektiv: "Geschichtsdetektiv",
+    datenScanner: "Daten-Scanner",
+    systemSortierer: "System-Sortierer",
+    algorithmusLabor: "Algorithmus-Labor",
+    netzwerkRouter: "Netzwerk-Router",
+    cyberSchutz: "Cyber-Schutz",
+    debugMission: "Debug-Mission",
+    codeDetektiv: "Code-Detektiv",
     binaryBitStream: "Bit-Strom 💾",
     codeCommander: "Code-Kommandeur 🤖",
     hardwareHero: "Hardware-Held 🖥️",
@@ -561,6 +571,13 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     zeitstrahlAnalyse: "Idővonal-elemzés",
     entscheidungsRat: "Történelmi tanács",
     geschichtsDetektiv: "Történelmi nyomozó",
+    datenScanner: "Adatszkenner",
+    systemSortierer: "Rendszerrendező",
+    algorithmusLabor: "Algoritmuslabor",
+    netzwerkRouter: "Hálózati útválasztó",
+    cyberSchutz: "Kibervédelem",
+    debugMission: "Hibakereső küldetés",
+    codeDetektiv: "Kóddetektív",
     binaryBitStream: "Bit-Folyam 💾",
     codeCommander: "Kód-Parancsnok 🤖",
     hardwareHero: "Hardver-Hős 🖥️",
@@ -618,6 +635,13 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     zeitstrahlAnalyse: "Analiza cronologiei",
     entscheidungsRat: "Consiliu istoric",
     geschichtsDetektiv: "Detectiv istoric",
+    datenScanner: "Scaner de date",
+    systemSortierer: "Sortator de sisteme",
+    algorithmusLabor: "Laborator de algoritmi",
+    netzwerkRouter: "Router de rețea",
+    cyberSchutz: "Protecție cibernetică",
+    debugMission: "Misiune de depanare",
+    codeDetektiv: "Detectiv de cod",
     binaryBitStream: "Flux Binar 💾",
     codeCommander: "Comandant Cod 🤖",
     hardwareHero: "Erou Hardware 🖥️",
@@ -675,6 +699,13 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     zeitstrahlAnalyse: "Timeline Analysis",
     entscheidungsRat: "History Council",
     geschichtsDetektiv: "History Detective",
+    datenScanner: "Data Scanner",
+    systemSortierer: "System Sorter",
+    algorithmusLabor: "Algorithm Lab",
+    netzwerkRouter: "Network Router",
+    cyberSchutz: "Cyber Shield",
+    debugMission: "Debug Mission",
+    codeDetektiv: "Code Detective",
     binaryBitStream: "Bit Stream 💾",
     codeCommander: "Code Commander 🤖",
     hardwareHero: "Hardware Hero 🖥️",
@@ -703,6 +734,7 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
     if (subject === "physik") return isPhysicsGameAvailableForGrade(game.id, grade);
     if (subject === "kemia") return isChemistryGameAvailableForGrade(game.id, grade);
     if (subject === "geschichte") return isHistoryGameAvailableForGrade(game.id, grade);
+    if (subject === "informatika") return isInformaticsGameAvailableForGrade(game.id, grade);
     if (isLanguageSubject && !game.id.startsWith("grusel-")) {
       return isLanguageGameAvailableForGrade(game.id, grade);
     }
@@ -728,6 +760,12 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
       setActiveGame(null);
     }
     if (activeGame && subject === "kemia" && !isChemistryGameAvailableForGrade(activeGame, grade)) {
+      setActiveGame(null);
+    }
+    if (activeGame && subject === "geschichte" && !isHistoryGameAvailableForGrade(activeGame, grade)) {
+      setActiveGame(null);
+    }
+    if (activeGame && subject === "informatika" && !isInformaticsGameAvailableForGrade(activeGame, grade)) {
       setActiveGame(null);
     }
   }, [activeGame, grade, isLanguageSubject, subject]);
@@ -886,6 +924,18 @@ const GAME_ICONS: Record<string, { icon: LucideIcon; tone: string }> = {
   "zeitstrahl-analyse": { icon: Clock3, tone: "border-violet-300/30 bg-violet-400/10 text-violet-200" },
   "entscheidungs-rat": { icon: Landmark, tone: "border-cyan-300/30 bg-cyan-400/10 text-cyan-200" },
   "geschichts-detektiv": { icon: SearchCheck, tone: "border-emerald-300/30 bg-emerald-400/10 text-emerald-200" },
+  "binary-bit-stream": { icon: RadioTower, tone: "border-cyan-300/30 bg-cyan-400/10 text-cyan-200" },
+  "code-commander": { icon: ListTree, tone: "border-emerald-300/30 bg-emerald-400/10 text-emerald-200" },
+  "hardware-hero": { icon: Boxes, tone: "border-indigo-300/30 bg-indigo-400/10 text-indigo-200" },
+  "packet-path": { icon: Network, tone: "border-violet-300/30 bg-violet-400/10 text-violet-200" },
+  "virus-vault": { icon: ShieldCheck, tone: "border-rose-300/30 bg-rose-400/10 text-rose-200" },
+  "daten-scanner": { icon: ChartNoAxesColumn, tone: "border-cyan-300/30 bg-cyan-400/10 text-cyan-200" },
+  "system-sortierer": { icon: Boxes, tone: "border-indigo-300/30 bg-indigo-400/10 text-indigo-200" },
+  "algorithmus-labor": { icon: Workflow, tone: "border-emerald-300/30 bg-emerald-400/10 text-emerald-200" },
+  "netzwerk-router": { icon: Network, tone: "border-violet-300/30 bg-violet-400/10 text-violet-200" },
+  "cyber-schutz": { icon: ShieldCheck, tone: "border-sky-300/30 bg-sky-400/10 text-sky-200" },
+  "debug-mission": { icon: SearchCheck, tone: "border-rose-300/30 bg-rose-400/10 text-rose-200" },
+  "code-detektiv": { icon: ScanText, tone: "border-amber-300/30 bg-amber-400/10 text-amber-200" },
 };
 
 function gameIcon(game: VisualLabGame) {
@@ -1131,47 +1181,11 @@ function DeutschGameSwitch({
   return <FallbackBox title={gameId} info={tSoon} />;
 }
 
-function InformatikaGameSwitch({
-  gameId,
-  grade,
-  lang,
-  tSoon,
-  onDone,
-}: {
-  gameId: string;
-  grade: number;
-  lang: Lang;
-  tSoon: string;
-  onDone?: (score: number) => void;
+function InformatikaGameSwitch({ gameId, grade, lang, tSoon }: {
+  gameId: string; grade: number; lang: Lang; tSoon: string; onDone?: (score: number) => void;
 }) {
-  const pool = INFORMATIKA_POOLS[lang]?.[grade]
-    ?? INFORMATIKA_POOLS[lang]?.[5]
-    ?? INFORMATIKA_POOLS["hu"]?.[5];
-  if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
-
-  if (gameId === "binary-bit-stream") {
-    const round = pickRound(pool.binaryAsteroids, undefined);
-    return round ? <BinaryBitStreamGame grade={grade} lang={lang} round={round} onDone={onDone} /> : <FallbackBox title={gameId} info={tSoon} />;
-  }
-  if (gameId === "code-commander") {
-    const round = pickRound(pool.algorithmSniper, undefined);
-    return round ? <CodeCommanderGame grade={grade} lang={lang} round={round} onDone={onDone} /> : <FallbackBox title={gameId} info={tSoon} />;
-  }
-  if (gameId === "hardware-hero") {
-    const round = pickRound(pool.hardwareSort, undefined);
-    return round ? <HardwareHeroGame grade={grade} lang={lang} round={round} onDone={onDone} /> : <FallbackBox title={gameId} info={tSoon} />;
-  }
-  if (gameId === "packet-path") {
-    const round = pickRound(pool.termGuardian, undefined);
-    return round ? <PacketPathGame grade={grade} lang={lang} round={round} onDone={onDone} /> : <FallbackBox title={gameId} info={tSoon} />;
-  }
-  if (gameId === "virus-vault") {
-    const round = pickRound(pool.securitySturm, undefined);
-    return round ? <VirusVaultGame grade={grade} lang={lang} round={round} onDone={onDone} /> : <FallbackBox title={gameId} info={tSoon} />;
-  }
-  return <FallbackBox title={gameId} info={tSoon} />;
+  return <InformaticsLab gameId={gameId} grade={grade} lang={lang} fallback={tSoon} />;
 }
-
 function SachkundeGameSwitch({
   gameId,
   grade,

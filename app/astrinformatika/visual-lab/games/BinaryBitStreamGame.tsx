@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { ArtikelAsteroidsRound, Language } from "@/lib/visualLab/languageTypes";
 
@@ -48,6 +48,11 @@ export default function BinaryBitStreamGame({
   const [flash, setFlash] = useState<"correct" | "wrong" | null>(null);
   const [active, setActive] = useState(true);
   const [done, setDone] = useState(false);
+  const timer = useRef<number | null>(null);
+
+  useEffect(() => () => {
+    if (timer.current !== null) window.clearTimeout(timer.current);
+  }, []);
   const current = queue[idx];
 
   const pick = (cat: string) => {
@@ -62,7 +67,8 @@ export default function BinaryBitStreamGame({
     else setLives(newLives);
     setFlash(ok ? "correct" : "wrong");
 
-    setTimeout(() => {
+    if (timer.current !== null) window.clearTimeout(timer.current);
+    timer.current = window.setTimeout(() => {
       setFlash(null);
       const nextIdx = idx + 1;
       if (nextIdx >= queue.length || newLives <= 0) {
@@ -72,6 +78,7 @@ export default function BinaryBitStreamGame({
         setIdx(nextIdx);
         setActive(true);
       }
+      timer.current = null;
     }, 850);
   };
 

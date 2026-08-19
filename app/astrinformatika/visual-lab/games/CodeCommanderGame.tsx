@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { SatzbauSniperRound, Language } from "@/lib/visualLab/languageTypes";
 
@@ -58,6 +58,11 @@ export default function CodeCommanderGame({
   const [lives, setLives] = useState(3);
   const [flash, setFlash] = useState<"correct" | "wrong" | null>(null);
   const [done, setDone] = useState(false);
+  const timer = useRef<number | null>(null);
+
+  useEffect(() => () => {
+    if (timer.current !== null) window.clearTimeout(timer.current);
+  }, []);
 
   const nextNeeded = correct[built.length];
 
@@ -69,24 +74,28 @@ export default function CodeCommanderGame({
       setWordStates((prev) => prev.map((s, i) => (i === displayIdx ? "sniped" : s)));
       setFlash("correct");
       const newBuilt = [...built, word];
-      setTimeout(() => {
+      if (timer.current !== null) window.clearTimeout(timer.current);
+      timer.current = window.setTimeout(() => {
         setWordStates((prev) => prev.map((s, i) => (i === displayIdx ? "gone" : s)));
         setBuilt(newBuilt);
         setFlash(null);
         if (newBuilt.length >= correct.length) {
           setDone(true);
-          onDone?.(Math.max(lives, 1) * 20 + built.length * 5);
+          onDone?.(Math.max(lives, 1) * 20 + newBuilt.length * 5);
         }
+        timer.current = null;
       }, 500);
     } else {
       setWordStates((prev) => prev.map((s, i) => (i === displayIdx ? "wrong" : s)));
       setFlash("wrong");
       const nl = lives - 1;
       setLives(nl);
-      setTimeout(() => {
+      if (timer.current !== null) window.clearTimeout(timer.current);
+      timer.current = window.setTimeout(() => {
         setWordStates((prev) => prev.map((s, i) => (i === displayIdx ? "idle" : s)));
         setFlash(null);
         if (nl <= 0) { setDone(true); onDone?.(0); }
+        timer.current = null;
       }, 600);
     }
   };

@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { ArtikelAsteroidsRound, Language } from "@/lib/visualLab/languageTypes";
 
@@ -48,6 +48,11 @@ export default function HardwareHeroGame({
   const [flash, setFlash] = useState<"correct" | "wrong" | null>(null);
   const [flyUp, setFlyUp] = useState(false);
   const [done, setDone] = useState(false);
+  const timer = useRef<number | null>(null);
+
+  useEffect(() => () => {
+    if (timer.current !== null) window.clearTimeout(timer.current);
+  }, []);
 
   const current = queue[idx];
 
@@ -67,7 +72,8 @@ export default function HardwareHeroGame({
       setFlash("wrong");
     }
 
-    setTimeout(() => {
+    if (timer.current !== null) window.clearTimeout(timer.current);
+    timer.current = window.setTimeout(() => {
       setFlash(null);
       setFlyUp(false);
       const nextIdx = idx + 1;
@@ -77,6 +83,7 @@ export default function HardwareHeroGame({
       } else {
         setIdx(nextIdx);
       }
+      timer.current = null;
     }, ok ? 900 : 700);
   };
 
