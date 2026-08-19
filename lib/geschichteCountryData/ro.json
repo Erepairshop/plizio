@@ -13,7 +13,7 @@
         { "question": "Ce cultivau dacii cel mai mult?", "correct": "Cereale", "wrong": ["Orez", "Bumbac", "Cacao"] },
         { "question": "Cum erau numiți nobilii daci?", "correct": "Tarabostes", "wrong": ["Comati", "Patricieni", "Iloți"] },
         { "question": "Cum erau numiți oamenii de rând în societatea dacică?", "correct": "Comati", "wrong": ["Tarabostes", "Sclavi", "Faraoni"] },
-        { "question": "Ce fel de vase făceau dacii la roata olarului?", "correct": "Vase de lut", "wrong": ["Vase de porțelan", "Vase de sticlă", "Vase de plastic"] },
+        { "question": "Ce fel de vase făceau dacii la roata olarului?", "correct": "Vase de lut", "wrong": ["Vase din piatră", "Vase din bronz", "Vase din lemn"] },
         { "question": "Ce animal era adesea reprezentat pe steagul dacilor?", "correct": "Lupul", "wrong": ["Leul", "Vulturul", "Ursul"] },
         { "question": "Cum se numea steagul dacilor?", "correct": "Draco", "wrong": ["Vexillum", "Aquila", "Standard"] },
         { "question": "Dacii credeau în nemurire. Ce înseamnă acest lucru?", "correct": "Că sufletul nu moare", "wrong": ["Că trăiesc veșnic pe pământ", "Că se transformă în plante", "Că devin zei"] },
@@ -307,8 +307,8 @@
         { "question": "Dacia a fost prima provincie romană:", "correct": "Părăsită oficial", "wrong": ["Cucerită", "Bogată", "Mare"] },
         { "question": "Împăratul Aurelian este poreclit:", "correct": "Restitutor Orbis (Restauratorul lumii)", "wrong": ["Cel Rău", "Cuceritorul Daciei", "Bătrânul"] },
         { "question": "Unde s-a adăpostit populația în timpul invaziilor?", "correct": "În zonele muntoase și păduroase", "wrong": ["În buncăre", "Pe corăbii", "La Roma"] },
-        { "question": "Continuitatea populației în Dacia este demonstrată de:", "correct": "Descoperirile arheologice și limba", "wrong": ["Televiziune", "Ziarele vremii", "Internet"] },
-        { "question": "Ce fel de obiecte creștine s-au găsit?", "correct": "Donariul de la Biertan", "wrong": ["Icoane pe sticlă moderne", "Cărți tipărite", "Cruci de plastic"] },
+        { "question": "Continuitatea populației în Dacia este demonstrată de:", "correct": "Descoperirile arheologice și limba", "wrong": ["Doar legendele populare", "Documente din secolul al XIX-lea", "Relatări despre alte provincii romane"] },
+        { "question": "Ce fel de obiecte creștine s-au găsit?", "correct": "Donariul de la Biertan", "wrong": ["Tăblițe votive păgâne", "Monede fără simboluri creștine", "Arme dacice"] },
         { "question": "După retragere, legăturile cu Imperiul Roman:", "correct": "Au continuat, mai ales la Dunăre", "wrong": ["S-au rupt definitiv", "Nu au existat niciodată", "Au fost prin satelit"] }
       ],
       "typing": [

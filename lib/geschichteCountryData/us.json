@@ -379,7 +379,7 @@
         {"question": "Jefferson was concerned that the purchase might be ______.", "correct": "unconstitutional", "wrong": ["too cheap", "too small", "illegal in France"]},
         {"question": "How many states (or parts of states) were eventually created from this land?", "correct": "15", "wrong": ["5", "50", "13"]},
         {"question": "What was the primary reason Jefferson wanted New Orleans?", "correct": "To secure trade access to the Gulf of Mexico", "wrong": ["To build a palace", "To stop the British from fishing", "To find gold"]},
-        {"question": "The Louisiana Purchase provided vast land for ______.", "correct": "farming and expansion", "wrong": ["factories", "skyscrapers", "theme parks"]},
+        {"question": "The Louisiana Purchase provided vast land for ______.", "correct": "farming and expansion", "wrong": ["military reservations only", "a new national capital", "a separate French kingdom"]},
         {"question": "Which treaty officially transferred the land to the U.S.?", "correct": "Louisiana Purchase Treaty", "wrong": ["Treaty of Paris", "Treaty of Ghent", "Adams-Onis Treaty"]},
         {"question": "Before France, which country owned the Louisiana Territory?", "correct": "Spain", "wrong": ["Portugal", "Russia", "The Netherlands"]},
         {"question": "The purchase cost about ______ cents per acre.", "correct": "3", "wrong": ["50", "10", "1"]},
@@ -703,7 +703,7 @@
         {"question": "Who pioneered the assembly line for making affordable cars?", "correct": "Henry Ford", "wrong": ["Thomas Edison", "Andrew Carnegie", "John D. Rockefeller"]},
         {"question": "What are 'tenements'?", "correct": "Crowded and often poorly built apartment buildings", "wrong": ["Large mansions", "Schools", "Factories"]},
         {"question": "What was the 'Gospel of Wealth'?", "correct": "Andrew Carnegie's idea that the rich should give back to society", "wrong": ["A new religion", "A book about getting rich", "A law about taxes"]},
-        {"question": "Which invention revolutionized communication across long distances using dots and dashes?", "correct": "Telegraph", "wrong": ["Telephone", "Internet", "Radio"]},
+        {"question": "Which invention revolutionized communication across long distances using dots and dashes?", "correct": "Telegraph", "wrong": ["Telephone", "Phonograph", "Radio"]},
         {"question": "The move from farms to cities is called ______.", "correct": "Urbanization", "wrong": ["Ruralization", "Migration", "Industrialization"]},
         {"question": "Which industry did Cornelius Vanderbilt control?", "correct": "Railroads", "wrong": ["Steel", "Oil", "Banking"]},
         {"question": "What was the first major labor union in the U.S.?", "correct": "Knights of Labor", "wrong": ["American Red Cross", "The Grange", "The Whigs"]},
@@ -910,7 +910,7 @@
         {"question": "What were the 'Three Rs' of the New Deal?", "correct": "Relief, Recovery, Reform", "wrong": ["Reading, Riting, Rithmetic", "Reduce, Reuse, Recycle", "Roads, Rails, Radio"]},
         {"question": "What was the 'First Hundred Days'?", "correct": "A period of intense legislative activity", "wrong": ["The start of WWII", "FDR's vacation", "A training period for soldiers"]},
         {"question": "What did the CCC (Civilian Conservation Corps) do?", "correct": "Employed young men in environmental projects", "wrong": ["Built tanks", "Taught computer skills", "Ran banks"]},
-        {"question": "What is the purpose of Social Security?", "correct": "To provide pensions for the elderly and disabled", "wrong": ["To provide free internet", "To guard the President", "To print money"]},
+        {"question": "What is the purpose of Social Security?", "correct": "To provide pensions for the elderly and disabled", "wrong": ["To regulate banks", "To fund farm subsidies", "To build public roads"]},
         {"question": "What does the FDIC (Federal Deposit Insurance Corporation) do?", "correct": "Insures bank deposits", "wrong": ["Fixes cars", "Builds dams", "Protects forests"]},
         {"question": "What was the 'TVA' (Tennessee Valley Authority)?", "correct": "A project to provide electricity and flood control", "wrong": ["A new tax", "A space agency", "A secret police force"]},
         {"question": "What were FDR's 'Fireside Chats'?", "correct": "Radio broadcasts explaining his policies", "wrong": ["Cookouts at the White House", "Secret meetings", "War declarations"]},
@@ -1019,7 +1019,7 @@
         {"question": "What are 'Suburbs'?", "correct": "Residential areas outside of cities", "wrong": ["Underwater cities", "Farms", "Inner city slums"]},
         {"question": "What was 'Levittown'?", "correct": "The first mass-produced suburb", "wrong": ["A factory", "A military base", "The capital of NY"]},
         {"question": "What was the 'Interstate Highway Act'?", "correct": "A plan to build a national network of highways", "wrong": ["A law about walking", "A tax on gas", "A ban on cars"]},
-        {"question": "Which technology became common in US homes in the 1950s?", "correct": "Television", "wrong": ["Internet", "Smartphones", "Radios"]},
+        {"question": "Which technology became common in US homes in the 1950s?", "correct": "Television", "wrong": ["Home computers", "Microwave ovens", "Satellite television"]},
         {"question": "What was 'McCarthyism'?", "correct": "A period of intense anti-communist suspicion and 'witch hunts'", "wrong": ["A new religion", "A sports philosophy", "A type of architecture"]},
         {"question": "Who was Joseph McCarthy?", "correct": "A Senator who claimed communists had infiltrated the government", "wrong": ["A famous singer", "A general in WWII", "The President"]},
         {"question": "What was the 'Marshall Plan'?", "correct": "A US program to help rebuild Europe after the war", "wrong": ["A plan to invade Russia", "A strategy for golf", "A new tax system"]},
@@ -2755,9 +2755,9 @@
           "question": "The 'Internet of Things' (IoT) refers to:",
           "correct": "Everyday objects connected to the internet",
           "wrong": [
-            "The history of the web",
-            "Websites for shopping",
-            "Computer repair"
+            "A private network used only by universities",
+            "A protocol used only for email",
+            "A collection of digitized books"
           ]
         },
         {

@@ -150,7 +150,7 @@ for (const file of files) {
           if (pattern.test(question)) issue('ERROR', itemLoc, `question appears to be in the wrong language: ${question}`);
         }
         for (const pattern of suspiciousDistractors) {
-          if (wrong.some((answer) => pattern.test(answer)) || pattern.test(correct)) {
+          if (wrong.some((answer) => pattern.test(answer))) {
             issue('WARN', itemLoc, `childish/anachronistic answer choice: ${[correct, ...wrong].join(' | ')}`);
             break;
           }
