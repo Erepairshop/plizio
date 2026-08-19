@@ -90,6 +90,7 @@ const LanguageSkillGame = dynamic(() => import("@/app/astro-deutsch/visual-lab/g
 const GeographyLab = dynamic(() => import("./visual-lab/GeographyLab"));
 const BiologyLab = dynamic(() => import("./visual-lab/BiologyLab"));
 const PhysicsLab = dynamic(() => import("./visual-lab/PhysicsLab"));
+const ChemistryLab = dynamic(() => import("./visual-lab/ChemistryLab"));
 import { ASTRO_LANGUAGE_POOLS } from "@/lib/visualLab/pools/astroLanguagePools";
 import { ASTRO_ENGLISH_LANGUAGE_POOL } from "@/lib/visualLab/pools/astroEnglishLanguagePools";
 import { ASTRO_MAGYAR_LANGUAGE_POOL } from "@/lib/visualLab/pools/astroMagyarLanguagePools";
@@ -114,12 +115,12 @@ import { SACHKUNDE_VISUAL_LAB_K3 } from "@/lib/visualLab/pools/sachkundeK3";
 import { SACHKUNDE_VISUAL_LAB_K4 } from "@/lib/visualLab/pools/sachkundeK4";
 
 import type { SachkundeVisualLabGradePool } from "@/lib/visualLab/types";
-import { KEMIA_POOLS } from "@/lib/visualLab/pools/kemiaPool";
 import { GESCHICHTE_POOLS } from "@/lib/visualLab/pools/geschichtePool";
 import { isMathGameAvailableForGrade } from "@/lib/visualLab/mathCurriculum";
 import { isGeographyGameAvailableForGrade } from "@/lib/visualLab/geographyCurriculum";
 import { isBiologyGameAvailableForGrade } from "@/lib/visualLab/biologyCurriculum";
 import { isPhysicsGameAvailableForGrade } from "@/lib/visualLab/physicsCurriculum";
+import { isChemistryGameAvailableForGrade } from "@/lib/visualLab/chemistryCurriculum";
 
 const ACTIVE_LANGUAGE_POOLS: LanguagePools = {
   de: ASTRO_LANGUAGE_POOLS.de,
@@ -418,6 +419,13 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "signal-runner", type: "puzzle", labelKey: "signalRunner", available: true },
     { id: "constellation-builder", type: "puzzle", labelKey: "constellationBuilder", available: true },
     { id: "memory-radar", type: "memory", labelKey: "memoryRadar", available: true },
+    { id: "stoff-scanner", type: "spotter", labelKey: "stoffScanner", available: true },
+    { id: "element-sortierer", type: "puzzle", labelKey: "elementSortierer", available: true },
+    { id: "reaktions-puzzle", type: "puzzle", labelKey: "reaktionsPuzzle", available: true },
+    { id: "bindungs-labor", type: "puzzle", labelKey: "bindungsLabor", available: true },
+    { id: "ph-analyse", type: "spotter", labelKey: "phAnalyse", available: true },
+    { id: "sicherheits-check", type: "spotter", labelKey: "sicherheitsCheck", available: true },
+    { id: "chemie-detektiv", type: "puzzle", labelKey: "chemieDetektiv", available: true },
   ],
   biologie: [
     { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
@@ -474,7 +482,13 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     messdatenAnalyse: "Muster-Analyse",
     experimentCheck: "Experiment-Check",
     formelDetektiv: "Physik-Detektiv",
-    binaryBitStream: "Bit-Strom 💾",
+    stoffScanner: "Stoff-Scanner",
+    elementSortierer: "Element-Sortierer",
+    reaktionsPuzzle: "Reaktions-Puzzle",
+    bindungsLabor: "Bindungs-Labor",
+    phAnalyse: "pH-Analyse",
+    sicherheitsCheck: "Sicherheits-Check",
+    chemieDetektiv: "Chemie-Detektiv",    binaryBitStream: "Bit-Strom 💾",
     codeCommander: "Code-Kommandeur 🤖",
     hardwareHero: "Hardware-Held 🖥️",
     packetPath: "Paket-Pfad 🌐",
@@ -518,7 +532,13 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     messdatenAnalyse: "Mintaelemző",
     experimentCheck: "Kísérletellenőrző",
     formelDetektiv: "Fizikadetektív",
-    binaryBitStream: "Bit-Folyam 💾",
+    stoffScanner: "Anyagszkenner",
+    elementSortierer: "Elemválogató",
+    reaktionsPuzzle: "Reakciókirakó",
+    bindungsLabor: "Kötéslabor",
+    phAnalyse: "pH-elemző",
+    sicherheitsCheck: "Biztonsági ellenőrzés",
+    chemieDetektiv: "Kémiadetektív",    binaryBitStream: "Bit-Folyam 💾",
     codeCommander: "Kód-Parancsnok 🤖",
     hardwareHero: "Hardver-Hős 🖥️",
     packetPath: "Adatcsomag Útvonal 🌐",
@@ -562,7 +582,13 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     messdatenAnalyse: "Analiza modelelor",
     experimentCheck: "Verificarea experimentului",
     formelDetektiv: "Detectivul fizicii",
-    binaryBitStream: "Flux Binar 💾",
+    stoffScanner: "Scaner de substanțe",
+    elementSortierer: "Sortator de elemente",
+    reaktionsPuzzle: "Puzzle de reacții",
+    bindungsLabor: "Laborator de legături",
+    phAnalyse: "Analiza pH",
+    sicherheitsCheck: "Control de siguranță",
+    chemieDetektiv: "Detectivul chimiei",    binaryBitStream: "Flux Binar 💾",
     codeCommander: "Comandant Cod 🤖",
     hardwareHero: "Erou Hardware 🖥️",
     packetPath: "Rută Pachete 🌐",
@@ -606,7 +632,13 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     messdatenAnalyse: "Pattern Analysis",
     experimentCheck: "Experiment Check",
     formelDetektiv: "Physics Detective",
-    binaryBitStream: "Bit Stream 💾",
+    stoffScanner: "Matter Scanner",
+    elementSortierer: "Element Sorter",
+    reaktionsPuzzle: "Reaction Puzzle",
+    bindungsLabor: "Bond Lab",
+    phAnalyse: "pH Analysis",
+    sicherheitsCheck: "Safety Check",
+    chemieDetektiv: "Chemistry Detective",    binaryBitStream: "Bit Stream 💾",
     codeCommander: "Code Commander 🤖",
     hardwareHero: "Hardware Hero 🖥️",
     packetPath: "Packet Path 🌐",
@@ -632,6 +664,7 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
     if (subject === "geographie") return isGeographyGameAvailableForGrade(game.id, grade);
     if (subject === "biologie") return isBiologyGameAvailableForGrade(game.id, grade);
     if (subject === "physik") return isPhysicsGameAvailableForGrade(game.id, grade);
+    if (subject === "kemia") return isChemistryGameAvailableForGrade(game.id, grade);
     if (isLanguageSubject && !game.id.startsWith("grusel-")) {
       return isLanguageGameAvailableForGrade(game.id, grade);
     }
@@ -654,6 +687,9 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
       setActiveGame(null);
     }
     if (activeGame && subject === "physik" && !isPhysicsGameAvailableForGrade(activeGame, grade)) {
+      setActiveGame(null);
+    }
+    if (activeGame && subject === "kemia" && !isChemistryGameAvailableForGrade(activeGame, grade)) {
       setActiveGame(null);
     }
   }, [activeGame, grade, isLanguageSubject, subject]);
@@ -798,6 +834,13 @@ const GAME_ICONS: Record<string, { icon: LucideIcon; tone: string }> = {
   "messdaten-analyse": { icon: ChartNoAxesColumn, tone: "border-sky-300/30 bg-sky-400/10 text-sky-200" },
   "experiment-check": { icon: FlaskConical, tone: "border-cyan-300/30 bg-cyan-400/10 text-cyan-200" },
   "formel-detektiv": { icon: Puzzle, tone: "border-violet-300/30 bg-violet-400/10 text-violet-200" },
+  "stoff-scanner": { icon: SearchCheck, tone: "border-orange-300/30 bg-orange-400/10 text-orange-200" },
+  "element-sortierer": { icon: Boxes, tone: "border-amber-300/30 bg-amber-400/10 text-amber-200" },
+  "reaktions-puzzle": { icon: Workflow, tone: "border-fuchsia-300/30 bg-fuchsia-400/10 text-fuchsia-200" },
+  "bindungs-labor": { icon: Network, tone: "border-emerald-300/30 bg-emerald-400/10 text-emerald-200" },
+  "ph-analyse": { icon: ChartNoAxesColumn, tone: "border-sky-300/30 bg-sky-400/10 text-sky-200" },
+  "sicherheits-check": { icon: ShieldCheck, tone: "border-cyan-300/30 bg-cyan-400/10 text-cyan-200" },
+  "chemie-detektiv": { icon: FlaskConical, tone: "border-violet-300/30 bg-violet-400/10 text-violet-200" },
 };
 
 function gameIcon(game: VisualLabGame) {
@@ -1168,32 +1211,7 @@ function KemiaGameSwitch({
 }: {
   gameId: string; grade: number; lang: Lang; tSoon: string;
 }) {
-  const pool = KEMIA_POOLS[grade];
-  if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
-  switch (gameId) {
-    case "meteor-catch": {
-      const round = pickRound(pool.meteorCatch, undefined);
-      return round ? <MeteorCatchGame round={localizeDeep(round, lang) as any} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    case "orbit-sort": {
-      const round = pickRound(pool.orbitSort, undefined);
-      return round ? <OrbitSortGame round={localizeDeep(round, lang) as any} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    case "signal-runner": {
-      const round = pickRound(pool.signalRunner, undefined);
-      return round ? <SignalRunnerGame round={localizeDeep(round, lang) as any} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    case "constellation-builder": {
-      const round = pickRound(pool.constellationBuilder, undefined);
-      return round ? <ConstellationBuilderGame round={localizeDeep(round, lang) as any} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    case "memory-radar": {
-      const rounds = pool.memoryRadar.slice(0, 3);
-      return rounds.length > 0 ? <MemoryRadarGame rounds={localizeDeep(rounds, lang) as any} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    default:
-      return <FallbackBox title={gameId} info={tSoon} />;
-  }
+  return <ChemistryLab gameId={gameId} grade={grade} lang={lang} fallback={tSoon} />;
 }
 
 function BiologieGameSwitch({

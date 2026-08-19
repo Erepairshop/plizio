@@ -1,0 +1,21 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "skipLibCheck": true,
+    "incremental": false
+  },
+  "include": [
+    "components/VisualLab.tsx",
+    "components/visual-lab/ChemistryGameProgress.tsx",
+    "components/visual-lab/ChemistryRoundSession.tsx",
+    "components/visual-lab/ChemistryLab.tsx",
+    "app/astro-kemia/visual-lab/games/ChemistrySkillGame.tsx",
+    "app/astro-kemia/visual-lab/games/ChemistrySkillMechanics.tsx",
+    "lib/visualLab/chemistryCurriculum.ts",
+    "lib/visualLab/chemistrySkillContent.ts",
+    "lib/visualLab/prepareLegacyChemistryRounds.ts",
+    "next-env.d.ts"
+  ],
+  "exclude": ["node_modules", ".next", "out"]
+}
