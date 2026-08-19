@@ -39,6 +39,12 @@ import {
   RefreshCw,
   Ghost,
   Image,
+  Microscope,
+  Boxes,
+  Workflow,
+  Trees,
+  FlaskConical,
+  HeartPulse,
   type LucideIcon,
 } from "lucide-react";
 import VisualLabIcon from "./VisualLabIcon";
@@ -85,6 +91,7 @@ const TippSturmGame = dynamic(() => import("@/app/astro-deutsch/visual-lab/games
 const VerbenVortexGame = dynamic(() => import("@/app/astro-deutsch/visual-lab/games/VerbenVortexGame"));
 const LanguageSkillGame = dynamic(() => import("@/app/astro-deutsch/visual-lab/games/LanguageSkillGame"));
 const GeographyLab = dynamic(() => import("./visual-lab/GeographyLab"));
+const BiologyLab = dynamic(() => import("./visual-lab/BiologyLab"));
 import { ASTRO_LANGUAGE_POOLS } from "@/lib/visualLab/pools/astroLanguagePools";
 import { ASTRO_ENGLISH_LANGUAGE_POOL } from "@/lib/visualLab/pools/astroEnglishLanguagePools";
 import { ASTRO_MAGYAR_LANGUAGE_POOL } from "@/lib/visualLab/pools/astroMagyarLanguagePools";
@@ -111,10 +118,10 @@ import { SACHKUNDE_VISUAL_LAB_K4 } from "@/lib/visualLab/pools/sachkundeK4";
 import type { SachkundeVisualLabGradePool } from "@/lib/visualLab/types";
 import { PHYSIK_POOLS } from "@/lib/visualLab/pools/physikPool";
 import { KEMIA_POOLS } from "@/lib/visualLab/pools/kemiaPool";
-import { BIOLOGIE_POOLS } from "@/lib/visualLab/pools/biologiePool";
 import { GESCHICHTE_POOLS } from "@/lib/visualLab/pools/geschichtePool";
 import { isMathGameAvailableForGrade } from "@/lib/visualLab/mathCurriculum";
 import { isGeographyGameAvailableForGrade } from "@/lib/visualLab/geographyCurriculum";
+import { isBiologyGameAvailableForGrade } from "@/lib/visualLab/biologyCurriculum";
 
 const ACTIVE_LANGUAGE_POOLS: LanguagePools = {
   de: ASTRO_LANGUAGE_POOLS.de,
@@ -413,6 +420,13 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "signal-runner", type: "puzzle", labelKey: "signalRunner", available: true },
     { id: "constellation-builder", type: "puzzle", labelKey: "constellationBuilder", available: true },
     { id: "memory-radar", type: "memory", labelKey: "memoryRadar", available: true },
+    { id: "mikro-scanner", type: "spotter", labelKey: "mikroScanner", available: true },
+    { id: "bio-sortierstation", type: "puzzle", labelKey: "bioSortierstation", available: true },
+    { id: "prozess-puzzle", type: "puzzle", labelKey: "prozessPuzzle", available: true },
+    { id: "system-netz", type: "puzzle", labelKey: "systemNetz", available: true },
+    { id: "lebensraum-detektiv", type: "spotter", labelKey: "lebensraumDetektiv", available: true },
+    { id: "forschungs-check", type: "spotter", labelKey: "forschungsCheck", available: true },
+    { id: "gesundheits-mission", type: "puzzle", labelKey: "gesundheitsMission", available: true },
   ],
 };
 
@@ -441,6 +455,13 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     wortNetz: "Wort-Netz",
     schreibwerkstatt: "Schreibwerkstatt",
     literaturLupe: "Literatur-Lupe",
+    mikroScanner: "Mikro-Scanner",
+    bioSortierstation: "Bio-Sortierstation",
+    prozessPuzzle: "Prozess-Puzzle",
+    systemNetz: "System-Netz",
+    lebensraumDetektiv: "Lebensraum-Detektiv",
+    forschungsCheck: "Forschungs-Check",
+    gesundheitsMission: "Gesundheits-Mission",
     binaryBitStream: "Bit-Strom 💾",
     codeCommander: "Code-Kommandeur 🤖",
     hardwareHero: "Hardware-Held 🖥️",
@@ -471,6 +492,13 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     wortNetz: "Szóháló",
     schreibwerkstatt: "Íróműhely",
     literaturLupe: "Irodalmi nagyító",
+    mikroScanner: "Mikroszkenner",
+    bioSortierstation: "Biorendszerező",
+    prozessPuzzle: "Folyamatkirakó",
+    systemNetz: "Rendszerháló",
+    lebensraumDetektiv: "Élőhelydetektív",
+    forschungsCheck: "Kutatásellenőrző",
+    gesundheitsMission: "Egészségküldetés",
     binaryBitStream: "Bit-Folyam 💾",
     codeCommander: "Kód-Parancsnok 🤖",
     hardwareHero: "Hardver-Hős 🖥️",
@@ -501,6 +529,13 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     wortNetz: "Rețeaua cuvintelor",
     schreibwerkstatt: "Atelier de scriere",
     literaturLupe: "Lupa literară",
+    mikroScanner: "Micro-scaner",
+    bioSortierstation: "Stația de clasificare",
+    prozessPuzzle: "Puzzle de procese",
+    systemNetz: "Rețeaua sistemelor",
+    lebensraumDetektiv: "Detectivul habitatelor",
+    forschungsCheck: "Verificarea cercetării",
+    gesundheitsMission: "Misiunea sănătății",
     binaryBitStream: "Flux Binar 💾",
     codeCommander: "Comandant Cod 🤖",
     hardwareHero: "Erou Hardware 🖥️",
@@ -531,6 +566,13 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     wortNetz: "Word Network",
     schreibwerkstatt: "Writing Workshop",
     literaturLupe: "Literature Lens",
+    mikroScanner: "Micro Scanner",
+    bioSortierstation: "Bio Sorting Station",
+    prozessPuzzle: "Process Puzzle",
+    systemNetz: "Systems Network",
+    lebensraumDetektiv: "Habitat Detective",
+    forschungsCheck: "Research Check",
+    gesundheitsMission: "Health Mission",
     binaryBitStream: "Bit Stream 💾",
     codeCommander: "Code Commander 🤖",
     hardwareHero: "Hardware Hero 🖥️",
@@ -555,6 +597,7 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
   const games = (SUBJECT_GAMES[subject] ?? []).filter((game) => {
     if (subject === "astromath") return isMathGameAvailableForGrade(game.id, grade);
     if (subject === "geographie") return isGeographyGameAvailableForGrade(game.id, grade);
+    if (subject === "biologie") return isBiologyGameAvailableForGrade(game.id, grade);
     if (isLanguageSubject && !game.id.startsWith("grusel-")) {
       return isLanguageGameAvailableForGrade(game.id, grade);
     }
@@ -571,6 +614,9 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
       setActiveGame(null);
     }
     if (activeGame && subject === "geographie" && !isGeographyGameAvailableForGrade(activeGame, grade)) {
+      setActiveGame(null);
+    }
+    if (activeGame && subject === "biologie" && !isBiologyGameAvailableForGrade(activeGame, grade)) {
       setActiveGame(null);
     }
   }, [activeGame, grade, isLanguageSubject, subject]);
@@ -701,6 +747,13 @@ const GAME_ICONS: Record<string, { icon: LucideIcon; tone: string }> = {
   "mensch-raum-netz": { icon: Network, tone: "border-violet-300/30 bg-violet-400/10 text-violet-200" },
   "geo-daten-check": { icon: ChartNoAxesColumn, tone: "border-blue-300/30 bg-blue-400/10 text-blue-200" },
   "zukunfts-planer": { icon: Leaf, tone: "border-emerald-300/30 bg-emerald-400/10 text-emerald-200" },
+  "mikro-scanner": { icon: Microscope, tone: "border-cyan-300/30 bg-cyan-400/10 text-cyan-200" },
+  "bio-sortierstation": { icon: Boxes, tone: "border-violet-300/30 bg-violet-400/10 text-violet-200" },
+  "prozess-puzzle": { icon: Workflow, tone: "border-amber-300/30 bg-amber-400/10 text-amber-200" },
+  "system-netz": { icon: Network, tone: "border-emerald-300/30 bg-emerald-400/10 text-emerald-200" },
+  "lebensraum-detektiv": { icon: Trees, tone: "border-lime-300/30 bg-lime-400/10 text-lime-200" },
+  "forschungs-check": { icon: FlaskConical, tone: "border-sky-300/30 bg-sky-400/10 text-sky-200" },
+  "gesundheits-mission": { icon: HeartPulse, tone: "border-rose-300/30 bg-rose-400/10 text-rose-200" },
 };
 
 function gameIcon(game: VisualLabGame) {
@@ -1132,32 +1185,7 @@ function BiologieGameSwitch({
 }: {
   gameId: string; grade: number; lang: Lang; tSoon: string;
 }) {
-  const pool = BIOLOGIE_POOLS[grade];
-  if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
-  switch (gameId) {
-    case "meteor-catch": {
-      const round = pickRound(pool.meteorCatch, undefined);
-      return round ? <MeteorCatchGame round={localizeDeep(round, lang) as any} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    case "orbit-sort": {
-      const round = pickRound(pool.orbitSort, undefined);
-      return round ? <OrbitSortGame round={localizeDeep(round, lang) as any} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    case "signal-runner": {
-      const round = pickRound(pool.signalRunner, undefined);
-      return round ? <SignalRunnerGame round={localizeDeep(round, lang) as any} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    case "constellation-builder": {
-      const round = pickRound(pool.constellationBuilder, undefined);
-      return round ? <ConstellationBuilderGame round={localizeDeep(round, lang) as any} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    case "memory-radar": {
-      const rounds = pool.memoryRadar.slice(0, 3);
-      return rounds.length > 0 ? <MemoryRadarGame rounds={localizeDeep(rounds, lang) as any} /> : <FallbackBox title={gameId} info={tSoon} />;
-    }
-    default:
-      return <FallbackBox title={gameId} info={tSoon} />;
-  }
+  return <BiologyLab gameId={gameId} grade={grade} lang={lang} fallback={tSoon} />;
 }
 
 function GeschichteGameSwitch({
