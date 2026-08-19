@@ -373,7 +373,13 @@ export function generateKineticEnergy(lang: string, seed = Math.random()): Curri
       "Ce se întâmplă cu energia cinetică când viteza se dublează?",
       lang
     );
-  questions.push(createMCQ("energy", "kinetic_energy", q_speed, "It increases by 4 times", ["It increases by 2 times", "It stays the same", "It decreases"], rng));
+  questions.push(createMCQ("energy", "kinetic_energy", q_speed,
+    q4("Sie vervierfacht sich", "It increases by 4 times", "Négyszeresére nő", "Crește de 4 ori", lang),
+    [
+      q4("Sie verdoppelt sich", "It increases by 2 times", "Kétszeresére nő", "Crește de 2 ori", lang),
+      q4("Sie bleibt gleich", "It stays the same", "Változatlan marad", "Rămâne la fel", lang),
+      q4("Sie nimmt ab", "It decreases", "Csökken", "Scade", lang),
+    ], rng));
 
   // Template 3: "KE depends on..."
     const q_depends = q4(
@@ -383,7 +389,13 @@ export function generateKineticEnergy(lang: string, seed = Math.random()): Curri
       "Energia cinetică depinde de...",
       lang
     );
-  questions.push(createMCQ("energy", "kinetic_energy", q_depends, "mass and velocity", ["only mass", "only velocity", "only temperature"], rng));
+  questions.push(createMCQ("energy", "kinetic_energy", q_depends,
+    q4("Masse und Geschwindigkeit", "mass and velocity", "tömeg és sebesség", "masă și viteză", lang),
+    [
+      q4("nur Masse", "only mass", "csak tömeg", "doar masă", lang),
+      q4("nur Geschwindigkeit", "only velocity", "csak sebesség", "doar viteză", lang),
+      q4("nur Temperatur", "only temperature", "csak hőmérséklet", "doar temperatură", lang),
+    ], rng));
 
   // Template 4: Practical examples with KE
   const practicalKE = [
@@ -400,7 +412,16 @@ export function generateKineticEnergy(lang: string, seed = Math.random()): Curri
       "Un " + pKE.ro + " are multă energie cinetică din cauza...",
       lang
     );
-    questions.push(createMCQ("energy", "kinetic_energy", q, pKE.reason, ["lack of force", "low mass", "stationary position"], rng));
+    const reason = pKE.reason === "high velocity"
+      ? q4("hoher Geschwindigkeit", "high velocity", "nagy sebesség", "viteză mare", lang)
+      : pKE.reason === "acceleration"
+        ? q4("Beschleunigung", "acceleration", "gyorsulás", "accelerație", lang)
+        : q4("Kraft und Geschwindigkeit", "force and velocity", "erő és sebesség", "forță și viteză", lang);
+    questions.push(createMCQ("energy", "kinetic_energy", q, reason, [
+      q4("fehlender Kraft", "lack of force", "erő hiánya", "lipsa forței", lang),
+      q4("geringer Masse", "low mass", "kis tömeg", "masă mică", lang),
+      q4("Ruhezustand", "stationary position", "nyugalmi helyzet", "poziție staționară", lang),
+    ], rng));
   }
 
   // Template 5: Stopping distance
@@ -411,7 +432,13 @@ export function generateKineticEnergy(lang: string, seed = Math.random()): Curri
     "O mașină cu viteză mai mare are nevoie de frânare...",
     lang
   );
-  questions.push(createMCQ("energy", "kinetic_energy", q_stop, "a longer distance", ["a shorter distance", "the same distance", "no distance"], rng));
+  questions.push(createMCQ("energy", "kinetic_energy", q_stop,
+    q4("einen längeren Weg", "a longer distance", "hosszabb utat", "o distanță mai lungă", lang),
+    [
+      q4("einen kürzeren Weg", "a shorter distance", "rövidebb utat", "o distanță mai scurtă", lang),
+      q4("den gleichen Weg", "the same distance", "ugyanakkora utat", "aceeași distanță", lang),
+      q4("keinen Weg", "no distance", "semmilyen utat", "nicio distanță", lang),
+    ], rng));
 
   // Template 6: KE formula
   const q_formula = q4(
@@ -421,7 +448,9 @@ export function generateKineticEnergy(lang: string, seed = Math.random()): Curri
     "In formula KE = 1/2 x m x v2, ce este m?",
     lang
   );
-  questions.push(createMCQ("energy", "kinetic_energy", q_formula, "mass", ["velocity", "energy", "distance"], rng));
+  questions.push(createMCQ("energy", "kinetic_energy", q_formula,
+    q4("Masse", "mass", "tömeg", "masă", lang),
+    [q4("Geschwindigkeit", "velocity", "sebesség", "viteză", lang), q4("Energie", "energy", "energia", "energie", lang), q4("Strecke", "distance", "távolság", "distanță", lang)], rng));
 
   const q_vSquare = q4(
     "Warum wird die Geschwindigkeit in der KE-Formel quadriert?",
@@ -430,7 +459,13 @@ export function generateKineticEnergy(lang: string, seed = Math.random()): Curri
     "De ce este viteza la patrat in formula KE?",
     lang
   );
-  questions.push(createMCQ("energy", "kinetic_energy", q_vSquare, "Because velocity affects KE more strongly", ["Because its easier to calculate", "Because mass is squared", "No reason"], rng));
+  questions.push(createMCQ("energy", "kinetic_energy", q_vSquare,
+    q4("Weil die Geschwindigkeit die kinetische Energie quadratisch beeinflusst", "Because velocity affects KE more strongly", "Mert a sebesség négyzetesen hat a mozgási energiára", "Deoarece viteza influențează pătratic energia cinetică", lang),
+    [
+      q4("Weil es leichter zu berechnen ist", "Because it is easier to calculate", "Mert könnyebb kiszámítani", "Pentru că este mai ușor de calculat", lang),
+      q4("Weil die Masse quadriert wird", "Because mass is squared", "Mert a tömeg négyzetre van emelve", "Pentru că masa este la pătrat", lang),
+      q4("Ohne besonderen Grund", "No reason", "Nincs oka", "Fără motiv", lang),
+    ], rng));
 
   // Deduplicate
   const seen = new Set<string>();
@@ -557,7 +592,14 @@ export function generatePotentialEnergy(lang: string, seed = Math.random()): Cur
       "Ce tip de energie potențială are " + pType.ro + "?",
       lang
     );
-    questions.push(createMCQ("energy", "potential_energy", q, pType.type, ["kinetic", "thermal", "sound"], rng));
+    const potentialType = pType.type === "elastic PE"
+      ? q4("elastische potenzielle Energie", "elastic PE", "rugalmas helyzeti energia", "energie potențială elastică", lang)
+      : q4("gravitative potenzielle Energie", "gravitational PE", "gravitációs helyzeti energia", "energie potențială gravitațională", lang);
+    questions.push(createMCQ("energy", "potential_energy", q, potentialType, [
+      q4("kinetische Energie", "kinetic", "mozgási energia", "energie cinetică", lang),
+      q4("Wärmeenergie", "thermal", "hőenergia", "energie termică", lang),
+      q4("Schallenergie", "sound", "hangenergia", "energie sonoră", lang),
+    ], rng));
   }
 
   // Template 3: PE depends
@@ -568,7 +610,9 @@ export function generatePotentialEnergy(lang: string, seed = Math.random()): Cur
     "PE gravitațională depinde de...",
     lang
   );
-  questions.push(createMCQ("energy", "potential_energy", q_grav, "mass and height", ["only height", "only mass", "velocity"], rng));
+  questions.push(createMCQ("energy", "potential_energy", q_grav,
+    q4("Masse und Höhe", "mass and height", "tömeg és magasság", "masă și înălțime", lang),
+    [q4("nur Höhe", "only height", "csak magasság", "doar înălțime", lang), q4("nur Masse", "only mass", "csak tömeg", "doar masă", lang), q4("Geschwindigkeit", "velocity", "sebesség", "viteză", lang)], rng));
 
   // Template 4: PE to KE conversion
   const q_conv = q4(
@@ -867,7 +911,13 @@ export function generateEnergyConservation(lang: string, seed = Math.random()): 
     "Poate energia fi creata sau distrusa?",
     lang
   );
-  questions.push(createMCQ("energy", "energy_conservation", q_law, "No, it can only change form", ["Yes, both", "Yes, only created", "Yes, only destroyed"], rng));
+  questions.push(createMCQ("energy", "energy_conservation", q_law,
+    q4("Nein, sie kann nur ihre Form ändern", "No, it can only change form", "Nem, csak átalakulhat", "Nu, își poate schimba doar forma", lang),
+    [
+      q4("Ja, beides", "Yes, both", "Igen, mindkettő", "Da, ambele", lang),
+      q4("Ja, sie kann nur erschaffen werden", "Yes, only created", "Igen, csak létrehozható", "Da, doar creată", lang),
+      q4("Ja, sie kann nur zerstört werden", "Yes, only destroyed", "Igen, csak megsemmisíthető", "Da, doar distrusă", lang),
+    ], rng));
 
   // Template 2: State law
   const q_state = q4(

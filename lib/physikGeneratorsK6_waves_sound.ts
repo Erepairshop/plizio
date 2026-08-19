@@ -73,28 +73,31 @@ function q4(de: string, en: string, hu: string, ro: string, lang = "en"): string
 
 // ─── WAVE PROPERTIES ────────────────────────────────────────────────────────
 
-const WAVE_PROPERTIES_DATA = {
+function getWavePropertiesData(lang: string) {
+  return {
   formulas: [
     { de: "f = v / λ", en: "f = v / λ", hu: "f = v / λ", ro: "f = v / λ" },
     { de: "v = f × λ", en: "v = f × λ", hu: "v = f × λ", ro: "v = f × λ" },
     { de: "T = 1 / f", en: "T = 1 / f", hu: "T = 1 / f", ro: "T = 1 / f" },
   ],
   definitions: {
-    frequency: q4("Anzahl der Schwingungen pro Sekunde (Hz)", "Number of oscillations per second (Hz)", "A rezgések száma másodpercenként (Hz)", "Numărul de oscilații pe secundă (Hz)", "en"),
-    wavelength: q4("Abstand zwischen zwei gleichphasigen Punkten (m)", "Distance between two in-phase points (m)", "Távolság két azonos fázisú pont között (m)", "Distanța dintre două puncte în fază (m)", "en"),
-    amplitude: q4("Maximale Auslenkung der Welle (m)", "Maximum displacement of wave (m)", "A hullám maximális kitérése (m)", "Deplasarea maximă a undei (m)", "en"),
-    period: q4("Zeit für eine komplette Schwingung (s)", "Time for one complete oscillation (s)", "Egy teljes rezgés ideje (s)", "Timp pentru o oscilație completă (s)", "en"),
+    frequency: q4("Anzahl der Schwingungen pro Sekunde (Hz)", "Number of oscillations per second (Hz)", "A rezgések száma másodpercenként (Hz)", "Numărul de oscilații pe secundă (Hz)", lang),
+    wavelength: q4("Abstand zwischen zwei gleichphasigen Punkten (m)", "Distance between two in-phase points (m)", "Távolság két azonos fázisú pont között (m)", "Distanța dintre două puncte în fază (m)", lang),
+    amplitude: q4("Maximale Auslenkung der Welle (m)", "Maximum displacement of wave (m)", "A hullám maximális kitérése (m)", "Deplasarea maximă a undei (m)", lang),
+    period: q4("Zeit für eine komplette Schwingung (s)", "Time for one complete oscillation (s)", "Egy teljes rezgés ideje (s)", "Timp pentru o oscilație completă (s)", lang),
   },
-};
+  };
+}
 
 function generateWavePropertiesMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
   const rng = mulberry32(seed);
   const questions: CurriculumMCQ[] = [];
+  const wavePropertiesData = getWavePropertiesData(lang);
 
   // Template 1: Definition matching (6 questions)
   const props = ["frequency", "wavelength", "amplitude", "period"];
   for (const prop of props) {
-    const correct = WAVE_PROPERTIES_DATA.definitions[prop as keyof typeof WAVE_PROPERTIES_DATA.definitions];
+    const correct = wavePropertiesData.definitions[prop as keyof typeof wavePropertiesData.definitions];
     const wrong = [
       q4("Die Geschwindigkeit der Welle", "The speed of wave", "A hullám sebessége", "Viteza undei", lang),
       q4("Die Energie der Welle", "The energy of wave", "A hullám energiája", "Energia undei", lang),

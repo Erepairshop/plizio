@@ -277,7 +277,7 @@ export function generateDensityBasicsTyping(lang: string = "en", seed: number = 
     q4("Nenne die Einheiten für Dichte.", "Name the units for density.", "Nevezd meg a sűrűség egységeit.", "Numește unitățile pentru densitate.", lang),
     [
       q4("kg/m³ (Kilogramm pro Kubikmeter) und g/cm³ (Gramm pro Kubikzentimeter)", "kg/m³ (kilogram per cubic meter) and g/cm³ (gram per cubic centimeter)", "kg/m³ (kilogramm köbméterenként) és g/cm³ (gramm köbcentimeterenként)", "kg/m³ (kilogram pe metru cub) și g/cm³ (gram pe centimetru cub)", lang),
-      q4("kg/m³ és g/cm³", "kg/m³ and g/cm³", "kg/m³ és g/cm³", "kg/m³ și g/cm³", lang),
+      q4("kg/m³ und g/cm³", "kg/m³ and g/cm³", "kg/m³ és g/cm³", "kg/m³ și g/cm³", lang),
     ]
   ));
 
@@ -287,7 +287,7 @@ export function generateDensityBasicsTyping(lang: string = "en", seed: number = 
     q4("Nenne die Dichte von drei Stoffen in kg/m³.", "Name the density of three substances in kg/m³.", "Nevezz meg három anyag sűrűségét kg/m³-ben.", "Numește densitatea a trei substanțe în kg/m³.", lang),
     [
       q4("Wasser: 1000 kg/m³, Eisen: 7874 kg/m³, Gold: 19300 kg/m³", "Water: 1000 kg/m³, Iron: 7874 kg/m³, Gold: 19300 kg/m³", "Víz: 1000 kg/m³, Vas: 7874 kg/m³, Arany: 19300 kg/m³", "Apă: 1000 kg/m³, Fier: 7874 kg/m³, Aur: 19300 kg/m³", lang),
-      q4("Víz 1000, Vas 7874, Arany 19300", "Water 1000, Iron 7874, Gold 19300", "Víz 1000, Vas 7874, Arany 19300", "Apă 1000, Fier 7874, Aur 19300", lang),
+      q4("Wasser 1000, Eisen 7874, Gold 19300", "Water 1000, Iron 7874, Gold 19300", "Víz 1000, Vas 7874, Arany 19300", "Apă 1000, Fier 7874, Aur 19300", lang),
     ]
   ));
 
@@ -296,8 +296,8 @@ export function generateDensityBasicsTyping(lang: string = "en", seed: number = 
     "density_basics",
     q4("Was ist der Unterschied zwischen kg/m³ und g/cm³?", "What is the difference between kg/m³ and g/cm³?", "Mi a különbség a kg/m³ és a g/cm³ között?", "Care este diferența dintre kg/m³ și g/cm³?", lang),
     [
-      q4("kg/m³ és g/cm³ ugyanazt mérik, de különböző mértékegységekben; 1 g/cm³ = 1000 kg/m³", "kg/m³ and g/cm³ measure the same thing in different units; 1 g/cm³ = 1000 kg/m³", "kg/m³ és g/cm³ ugyanazt mérik, de különböző egységekben; 1 g/cm³ = 1000 kg/m³", "kg/m³ și g/cm³ măsoară același lucru în unități diferite; 1 g/cm³ = 1000 kg/m³", lang),
-      q4("1 g/cm³ = 1000 kg/m³ (konverziós tényező)", "1 g/cm³ = 1000 kg/m³ (conversion factor)", "1 g/cm³ = 1000 kg/m³ (átváltási tényező)", "1 g/cm³ = 1000 kg/m³ (factor de conversie)", lang),
+      q4("kg/m³ und g/cm³ messen dasselbe in verschiedenen Einheiten; 1 g/cm³ = 1000 kg/m³", "kg/m³ and g/cm³ measure the same thing in different units; 1 g/cm³ = 1000 kg/m³", "kg/m³ és g/cm³ ugyanazt mérik, de különböző egységekben; 1 g/cm³ = 1000 kg/m³", "kg/m³ și g/cm³ măsoară același lucru în unități diferite; 1 g/cm³ = 1000 kg/m³", lang),
+      q4("1 g/cm³ = 1000 kg/m³ (Konversionsfaktor)", "1 g/cm³ = 1000 kg/m³ (conversion factor)", "1 g/cm³ = 1000 kg/m³ (átváltási tényező)", "1 g/cm³ = 1000 kg/m³ (factor de conversie)", lang),
     ]
   ));
 
@@ -307,7 +307,7 @@ export function generateDensityBasicsTyping(lang: string = "en", seed: number = 
     q4("Warum schwimmt Eis im Wasser?", "Why does ice float in water?", "Miért úszik a jég a vízben?", "De ce plutează gheața în apă?", lang),
     [
       q4("Weil Eis eine niedrigere Dichte hat als Wasser (917 kg/m³ < 1000 kg/m³)", "Because ice has lower density than water (917 kg/m³ < 1000 kg/m³)", "Mert a jégnek alacsonyabb a sűrűsége, mint a víznek (917 kg/m³ < 1000 kg/m³)", "Pentru că gheața are o densitate mai mică decât apa (917 kg/m³ < 1000 kg/m³)", lang),
-      q4("Jég: 917 kg/m³, Víz: 1000 kg/m³ → jég kevésbé sűrű", "Ice: 917 kg/m³, Water: 1000 kg/m³ → ice less dense", "Jég 917, víz 1000 → jég úszik", "Gheață 917, apă 1000 → gheață plutește", lang),
+      q4("Eis: 917 kg/m³, Wasser: 1000 kg/m³ → Eis weniger dicht", "Ice: 917 kg/m³, Water: 1000 kg/m³ → ice less dense", "Jég 917, víz 1000 → jég úszik", "Gheață 917, apă 1000 → gheață plutește", lang),
     ]
   ));
 
@@ -317,7 +317,7 @@ export function generateDensityBasicsTyping(lang: string = "en", seed: number = 
     q4("Welcher Stoff hat eine sehr niedrige Dichte?", "Which substance has very low density?", "Melyik anyagnak nagyon alacsony a sűrűsége?", "Ce substanță are densitate foarte scăzută?", lang),
     [
       q4("Luft hat eine sehr niedrige Dichte von 1.29 kg/m³", "Air has very low density of 1.29 kg/m³", "A levegőnek nagyon alacsony a sűrűsége: 1.29 kg/m³", "Aerul are densitate foarte scăzută de 1.29 kg/m³", lang),
-      q4("Levegő: 1.29 kg/m³", "Air: 1.29 kg/m³", "Levegő: 1.29 kg/m³", "Aer: 1.29 kg/m³", lang),
+      q4("Luft: 1.29 kg/m³", "Air: 1.29 kg/m³", "Levegő: 1.29 kg/m³", "Aer: 1.29 kg/m³", lang),
     ]
   ));
 
@@ -326,15 +326,15 @@ export function generateDensityBasicsTyping(lang: string = "en", seed: number = 
     "density_basics",
     q4("Wenn ein Stoff eine Dichte von 2500 kg/m³ hat, schwimmt er im Wasser?", "If a substance has density 2500 kg/m³, will it float in water?", "Ha egy anyagnak 2500 kg/m³ a sűrűsége, úszni fog a vízben?", "Dacă o substanță are densitate 2500 kg/m³, va plutea în apă?", lang),
     [
-      q4("Nem, lesüllyed, mert 2500 kg/m³ > 1000 kg/m³ (víz sűrűsége)", "No, it will sink because 2500 kg/m³ > 1000 kg/m³ (water density)", "Nem, lesüllyed, mert nagyobb sűrűségű, mint a víz", "Nu, se va scufunda pentru că 2500 kg/m³ > 1000 kg/m³", lang),
-      q4("Lesüllyed (nagyobb sűrűségű mint a víz)", "It sinks (denser than water)", "Lesüllyed, mert sűrűbb", "Se scufundă, pentru că este mai dens", lang),
+      q4("Nein, es wird sinken, weil 2500 kg/m³ > 1000 kg/m³ (Wasserdichte)", "No, it will sink because 2500 kg/m³ > 1000 kg/m³ (water density)", "Nem, lesüllyed, mert nagyobb sűrűségű, mint a víz", "Nu, se va scufunda pentru că 2500 kg/m³ > 1000 kg/m³", lang),
+      q4("Es sinkt (dichter als Wasser)", "It sinks (denser than water)", "Lesüllyed, mert sűrűbb", "Se scufundă, pentru că este mai dens", lang),
     ]
   ));
 
   questions.push(createTyping(
     "density",
     "density_basics",
-    q4("Egy tárgy 500 kg tömegű és 0.5 m³ térfogatú. Mi a sűrűsége?", "An object has mass 500 kg and volume 0.5 m³. What is its density?", "Egy tárgy tömege 500 kg, térfogata 0.5 m³. Mi a sűrűsége?", "Un obiect are masă 500 kg și volum 0.5 m³. Care este densitatea sa?", lang),
+    q4("Ein Objekt hat Masse 500 kg und Volumen 0.5 m³. Was ist seine Dichte?", "An object has mass 500 kg and volume 0.5 m³. What is its density?", "Egy tárgy tömege 500 kg, térfogata 0.5 m³. Mi a sűrűsége?", "Un obiect are masă 500 kg și volum 0.5 m³. Care este densitatea sa?", lang),
     [
       q4("1000 kg/m³ (ρ = m/V = 500/0.5 = 1000)", "1000 kg/m³ (ρ = m/V = 500/0.5 = 1000)", "1000 kg/m³ (ρ = 500/0.5 = 1000)", "1000 kg/m³ (ρ = 500/0.5 = 1000)", lang),
       q4("1000 kg/m³", "1000 kg/m³", "1000 kg/m³", "1000 kg/m³", lang),
@@ -344,10 +344,10 @@ export function generateDensityBasicsTyping(lang: string = "en", seed: number = 
   questions.push(createTyping(
     "density",
     "density_basics",
-    q4("Melyik gyakorlati alkalmazása van a sűrűség ismeretének?", "What is a practical application of knowing density?", "Mi a sűrűség ismeretének gyakorlati alkalmazása?", "Care este o aplicație practică a cunoașterii densității?", lang),
+    q4("Was ist eine praktische Anwendung der Wissensdichte?", "What is a practical application of knowing density?", "Mi a sűrűség ismeretének gyakorlati alkalmazása?", "Care este o aplicație practică a cunoașterii densității?", lang),
     [
-      q4("Eldönthetjük, hogy egy anyag úszik-e vagy süllyed-e; kiválaszthatjuk az anyagokat a célra (könnyű vs nehéz)", "We can determine if material floats or sinks; select materials for purpose (light vs heavy)", "Eldönthetjük az anyag úszó/süllyedő voltát; anyagválasztás (könnyű/nehéz)", "Putem determina dacă plutează; selectare materiale (ușor vs greu)", lang),
-      q4("Úszás/süllyedés; anyagválasztás a célnak", "Floating/sinking; material selection", "Úszás/süllyedés eldöntése", "Plutire/scufundare; selectare materiale", lang),
+      q4("Wir können bestimmen, ob Material schwebt oder sinkt; wählen Sie Materialien für den Zweck (leicht vs schwer)", "We can determine if material floats or sinks; select materials for purpose (light vs heavy)", "Eldönthetjük az anyag úszó/süllyedő voltát; anyagválasztás (könnyű/nehéz)", "Putem determina dacă plutează; selectare materiale (ușor vs greu)", lang),
+      q4("Schweben/Sinken; Materialauswahl", "Floating/sinking; material selection", "Úszás/süllyedés eldöntése", "Plutire/scufundare; selectare materiale", lang),
     ]
   ));
 
@@ -516,7 +516,7 @@ export function generateFloatingSinkingTyping(lang: string = "en", seed: number 
     q4("Erkläre, warum ein Objekt schwimmt oder sinkt, basierend auf Dichte.", "Explain why an object floats or sinks based on density.", "Magyarázd meg, miért úszik vagy süllyed egy tárgy a sűrűség alapján.", "Explică de ce plutează sau se scufundă un obiect în funcție de densitate.", lang),
     [
       q4("Schwimmen: ρ_Objekt < ρ_Flüssigkeit; Sinken: ρ_Objekt > ρ_Flüssigkeit", "Float: ρ_object < ρ_liquid; Sink: ρ_object > ρ_liquid", "Úszás: ρ_tárgy < ρ_folyadék; Süllyedés: ρ_tárgy > ρ_folyadék", "Plutire: ρ_obiect < ρ_lichid; Scufundare: ρ_obiect > ρ_lichid", lang),
-      q4("Kevésbé sűrű úszik, sűrűbb süllyed", "Less dense floats, denser sinks", "Kevésbé sűrű úszik, sűrűbb süllyed", "Mai puțin dens plutește, mai dens se scufundă", lang),
+      q4("Weniger dichte Schwimmer, dichtere Senken", "Less dense floats, denser sinks", "Kevésbé sűrű úszik, sűrűbb süllyed", "Mai puțin dens plutește, mai dens se scufundă", lang),
     ]
   ));
 
@@ -526,77 +526,77 @@ export function generateFloatingSinkingTyping(lang: string = "en", seed: number 
     q4("Nenne drei Beispiele für Objekte, die schwimmen, und drei, die sinken.", "Name three floating objects and three sinking objects.", "Nevezz meg három úszó tárgyat és három süllyedő tárgyat.", "Numește trei obiecte care plutesc și trei care se scufundă.", lang),
     [
       q4("Schwimmen: Holz, Kork, Eis; Sinken: Eisen, Gold, Stein", "Float: Wood, Cork, Ice; Sink: Iron, Gold, Stone", "Úszás: Fa, Parafa, Jég; Süllyedés: Vas, Arany, Kő", "Plutire: Lemn, Plută, Gheață; Scufundare: Fier, Aur, Piatră", lang),
-      q4("Fa, parafa, jég úszik; vas, arany, kő süllyed", "Wood, cork, ice float; iron, gold, stone sink", "Fa, parafa, jég úszik; vas, arany, kő süllyed", "Lemn, plută, gheață plutesc; fier, aur, piatră se scufundă", lang),
+      q4("Holz, Kork, Eisschwimmer; Eisen, Gold, Steinbecken", "Wood, cork, ice float; iron, gold, stone sink", "Fa, parafa, jég úszik; vas, arany, kő süllyed", "Lemn, plută, gheață plutesc; fier, aur, piatră se scufundă", lang),
     ]
   ));
 
   questions.push(createTyping(
     "density",
     "floating_sinking",
-    q4("Miért úszik a jéghegy a vízben?", "Why does an iceberg float in water?", "Miért úszik a jéghegy a vízben?", "De ce plutează aisbergul în apă?", lang),
+    q4("Warum schwebt ein Eisberg im Wasser?", "Why does an iceberg float in water?", "Miért úszik a jéghegy a vízben?", "De ce plutează aisbergul în apă?", lang),
     [
-      q4("Mert a jég sűrűsége (917 kg/m³) kisebb, mint a víz sűrűsége (1000 kg/m³)", "Because ice density (917 kg/m³) is less than water density (1000 kg/m³)", "Mert a jég sűrűsége (917 kg/m³) kisebb, mint a víz sűrűsége (1000 kg/m³)", "Pentru că densitatea gheții (917 kg/m³) este mai mică decât densitatea apei (1000 kg/m³)", lang),
-      q4("Jég 917 < víz 1000", "Ice 917 < water 1000", "Jég 917 < víz 1000", "Gheață 917 < apă 1000", lang),
+      q4("Da die Eisdichte (917 kg/m³) kleiner ist als die Wasserdichte (1000 kg/m³)", "Because ice density (917 kg/m³) is less than water density (1000 kg/m³)", "Mert a jég sűrűsége (917 kg/m³) kisebb, mint a víz sűrűsége (1000 kg/m³)", "Pentru că densitatea gheții (917 kg/m³) este mai mică decât densitatea apei (1000 kg/m³)", lang),
+      q4("Eis 917 < Wasser 1000", "Ice 917 < water 1000", "Jég 917 < víz 1000", "Gheață 917 < apă 1000", lang),
     ]
   ));
 
   questions.push(createTyping(
     "density",
     "floating_sinking",
-    q4("Hogyan tud egy tengeralattjáró süllyedni vagy úszni?", "How can a submarine sink or float?", "Hogyan tud egy tengeralattjáró süllyedni vagy úszni?", "Cum poate un submarin să se scufunde sau să plutească?", lang),
+    q4("Wie kann ein U-Boot sinken oder schwimmen?", "How can a submarine sink or float?", "Hogyan tud egy tengeralattjáró süllyedni vagy úszni?", "Cum poate un submarin să se scufunde sau să plutească?", lang),
     [
-      q4("Balaszt tankokat töltve vagy ürítve megváltozik a sűrűsége - víz beszívása: > 1000 (süllyed), víz ürítése: < 1000 (úszik)", "By filling ballast tanks (density > 1000, sinks) or emptying (density < 1000, floats)", "Balaszt tankokat töltve (süllyed) vagy ürítve (úszik) a sűrűség változik", "Umplând rezervoare de balast (se scufundă) sau golind (plutește)", lang),
-      q4("Balaszt tankok: víz be = süllyed, víz ki = úszik", "Ballast: water in = sink, water out = float", "Balaszt: víz be = süllyed, víz ki = úszik", "Balast: apă în = scufundare, apă out = plutire", lang),
+      q4("Durch Füllen von Ballasttanks (Densität > 1000, Waschbecken) oder Entleerung (Densität < 1000, Schwimmer)", "By filling ballast tanks (density > 1000, sinks) or emptying (density < 1000, floats)", "Balaszt tankokat töltve (süllyed) vagy ürítve (úszik) a sűrűség változik", "Umplând rezervoare de balast (se scufundă) sau golind (plutește)", lang),
+      q4("Ballast: Wasser in = Spüle, Wasser aus = Schwimmer", "Ballast: water in = sink, water out = float", "Balaszt: víz be = süllyed, víz ki = úszik", "Balast: apă în = scufundare, apă out = plutire", lang),
     ]
   ));
 
   questions.push(createTyping(
     "density",
     "floating_sinking",
-    q4("Mi a különleges a jégen a többi anyaghoz képest?", "What is special about ice compared to other substances?", "Mi a különleges a jégen más anyagokhoz képest?", "Ce este special la gheață în comparație cu alte substanțe?", lang),
+    q4("Was ist das Besondere an Eis im Vergleich zu anderen Substanzen?", "What is special about ice compared to other substances?", "Mi a különleges a jégen más anyagokhoz képest?", "Ce este special la gheață în comparație cu alte substanțe?", lang),
     [
-      q4("A jég kevésbé sűrű, mint a folyékony víz, ami ritka a legtöbb anyagban - ezért úszik", "Ice is less dense than liquid water, which is rare - that's why it floats", "A jég kevésbé sűrű, mint a folyadék víz, ami ritka - ezért úszik", "Gheața este mai puțin densă decât apa lichidă, ceea ce este rar - de aceea plutează", lang),
-      q4("Jég sűrűsége < folyékony víz, ritka tulajdonság", "Ice density < liquid water, rare property", "Jég < víz, ritka tulajdonság", "Gheață < apă lichidă, proprietate rară", lang),
+      q4("Eis ist weniger dicht als flüssiges Wasser, das selten ist - deshalb schwimmt es", "Ice is less dense than liquid water, which is rare - that's why it floats", "A jég kevésbé sűrű, mint a folyadék víz, ami ritka - ezért úszik", "Gheața este mai puțin densă decât apa lichidă, ceea ce este rar - de aceea plutează", lang),
+      q4("Eisdichte < flüssiges Wasser, seltene Eigenschaft", "Ice density < liquid water, rare property", "Jég < víz, ritka tulajdonság", "Gheață < apă lichidă, proprietate rară", lang),
     ]
   ));
 
   questions.push(createTyping(
     "density",
     "floating_sinking",
-    q4("Milyen kapcsolat van a sűrűség és az úszás/süllyedés között?", "What is the relationship between density and floating/sinking?", "Mi a kapcsolat a sűrűség és az úszás/süllyedés között?", "Care este relația dintre densitate și plutire/scufundare?", lang),
+    q4("Was ist die Beziehung zwischen Dichte und Schweben/Sinken?", "What is the relationship between density and floating/sinking?", "Mi a kapcsolat a sűrűség és az úszás/süllyedés között?", "Care este relația dintre densitate și plutire/scufundare?", lang),
     [
-      q4("Ha a tárgy sűrűsége < folyadék sűrűsége, úszik; ha nagyobb, süllyed; ha egyenlő, lebeg", "Float if ρ_object < ρ_liquid; Sink if ρ_object > ρ_liquid; Suspend if equal", "Úszik ha ρ_tárgy < ρ_folyadék; Süllyed ha nagyobb; Lebeg ha egyenlő", "Plutește dacă ρ_obiect < ρ_lichid; Se scufundă dacă mai mare; Plutește dacă egal", lang),
-      q4("Sűrűség < úszik, > süllyed, = lebeg", "Density < float, > sink, = suspend", "Sűrűség < úszik, > süllyed, = lebeg", "Densitate < plutire, > scufundare, = suspensie", lang),
+      q4("Float, wenn ρ_object < ρ_liquid; Sink, wenn ρ_object > ρ_liquid; Suspend, wenn gleich", "Float if ρ_object < ρ_liquid; Sink if ρ_object > ρ_liquid; Suspend if equal", "Úszik ha ρ_tárgy < ρ_folyadék; Süllyed ha nagyobb; Lebeg ha egyenlő", "Plutește dacă ρ_obiect < ρ_lichid; Se scufundă dacă mai mare; Plutește dacă egal", lang),
+      q4("Dichte < Schwimmer, > Spüle, = Aussetzung", "Density < float, > sink, = suspend", "Sűrűség < úszik, > süllyed, = lebeg", "Densitate < plutire, > scufundare, = suspensie", lang),
     ]
   ));
 
   questions.push(createTyping(
     "density",
     "floating_sinking",
-    q4("Adjon meg olyan anyagok párokat, ahol az egyik úszik, a másik süllyed.", "Give examples of material pairs where one floats and one sinks.", "Adjon meg anyagpárok, ahol az egyik úszik, a másik süllyed.", "Dă exemple de perechi de materiale unde una plutește și cealaltă se scufundă.", lang),
+    q4("Nenne Beispiele von Materialpaaren, bei denen man schwebt und sinkt.", "Give examples of material pairs where one floats and one sinks.", "Adjon meg anyagpárok, ahol az egyik úszik, a másik süllyed.", "Dă exemple de perechi de materiale unde una plutește și cealaltă se scufundă.", lang),
     [
-      q4("Fa úszik (könnyű, ρ < 1000), Vas süllyed (nehéz, ρ > 1000); Kork úszik, Arany süllyed", "Wood floats (light, ρ < 1000), Iron sinks (heavy, ρ > 1000)", "Fa úszik, Vas süllyed; Kork úszik, Arany süllyed", "Lemn plutește, Fier se scufundă; Plută plutește, Aur se scufundă", lang),
-      q4("Fa-vas, kork-arany, jég-ólom párok", "Wood-iron, cork-gold, ice-lead pairs", "Fa-vas, kork-arany párok", "Lemn-fier, plută-aur perechi", lang),
+      q4("Holzschwimmer (leicht, ρ < 1000), Eisensenken (schwer, ρ > 1000))", "Wood floats (light, ρ < 1000), Iron sinks (heavy, ρ > 1000)", "Fa úszik, Vas süllyed; Kork úszik, Arany süllyed", "Lemn plutește, Fier se scufundă; Plută plutește, Aur se scufundă", lang),
+      q4("Holz-Eisen-, Kork-Gold-, Eis-Blei-Paare", "Wood-iron, cork-gold, ice-lead pairs", "Fa-vas, kork-arany párok", "Lemn-fier, plută-aur perechi", lang),
     ]
   ));
 
   questions.push(createTyping(
     "density",
     "floating_sinking",
-    q4("Mit csinál egy hajó, hogy a vízben maradjon, noha sok acélból készül?", "How does a ship stay afloat despite being made of dense steel?", "Hogyan marad vízen egy hajó, noha acélból készült?", "Cum rămâne o navă plutind deși este din oțel dens?", lang),
+    q4("Wie bleibt ein Schiff schwimmfähig, obwohl es aus dichtem Stahl besteht?", "How does a ship stay afloat despite being made of dense steel?", "Hogyan marad vízen egy hajó, noha acélból készült?", "Cum rămâne o navă plutind deși este din oțel dens?", lang),
     [
-      q4("A hajótest üreges, sok levegőt tartalmaz, így az átlagos sűrűsége < víz sűrűsége", "The hull is hollow with air inside, average density < water density", "A hajótest üreges, levegőt tartalmaz, így az átlagos sűrűsége < víz sűrűsége", "Corpul este gol cu aer înăuntru, densitate medie < densitate apă", lang),
-      q4("Üreges + levegő = alacsonyabb átlagos sűrűség", "Hollow + air = lower average density", "Üreges + levegő = alacsonyabb átlagos sűrűség", "Gol + aer = densitate medie mai mică", lang),
+      q4("Der Rumpf ist hohl mit Luft innen, durchschnittliche Dichte < Wasserdichte", "The hull is hollow with air inside, average density < water density", "A hajótest üreges, levegőt tartalmaz, így az átlagos sűrűsége < víz sűrűsége", "Corpul este gol cu aer înăuntru, densitate medie < densitate apă", lang),
+      q4("Hohl + Luft = geringere durchschnittliche Dichte", "Hollow + air = lower average density", "Üreges + levegő = alacsonyabb átlagos sűrűség", "Gol + aer = densitate medie mai mică", lang),
     ]
   ));
 
   questions.push(createTyping(
     "density",
     "floating_sinking",
-    q4("Milyen körülmények között lebeg egy tárgy (sem nem úszik, sem nem süllyed)?", "Under what conditions does an object suspend/hover in a liquid?", "Milyen körülmények között lebeg egy tárgy a folyadékban?", "Sub ce condiții plutează un obiect în suspensie în lichid?", lang),
+    q4("Unter welchen Bedingungen suspendiert ein Objekt in einer Flüssigkeit?", "Under what conditions does an object suspend/hover in a liquid?", "Milyen körülmények között lebeg egy tárgy a folyadékban?", "Sub ce condiții plutează un obiect în suspensie în lichid?", lang),
     [
-      q4("Ha a tárgy sűrűsége pontosan megegyezik a folyadék sűrűségével: ρ_tárgy = ρ_folyadék", "When object density exactly equals liquid density: ρ_object = ρ_liquid", "Ha a tárgy sűrűsége = folyadék sűrűsége: ρ_tárgy = ρ_folyadék", "Când densitatea obiectului = densitate lichid: ρ_obiect = ρ_lichid", lang),
-      q4("ρ_tárgy = ρ_folyadék → lebegés", "ρ_object = ρ_liquid → suspension", "ρ_tárgy = ρ_folyadék → lebegés", "ρ_obiect = ρ_lichid → suspensie", lang),
+      q4("Wenn die Objektdichte genau der Flüssigkeitsdichte entspricht: ρ_object = ρ_liquid", "When object density exactly equals liquid density: ρ_object = ρ_liquid", "Ha a tárgy sűrűsége = folyadék sűrűsége: ρ_tárgy = ρ_folyadék", "Când densitatea obiectului = densitate lichid: ρ_obiect = ρ_lichid", lang),
+      q4("ρ_object = ρ_liquid → Suspension", "ρ_object = ρ_liquid → suspension", "ρ_tárgy = ρ_folyadék → lebegés", "ρ_obiect = ρ_lichid → suspensie", lang),
     ]
   ));
 
@@ -738,7 +738,7 @@ export function generateDensityCalculationMCQ(lang: string = "en", seed: number 
     questions.push(createMCQ(
       "density",
       "density_calculation",
-      q4("Was ist der Umrechnungsfaktor zwischen g/cm³ und kg/m³?", "What is the conversion factor between g/cm³ and kg/m³?", "Mi az átváltási tényező g/cm³ és kg/m³ között?", "Care este factorul de conversie între g/cm³ și kg/m³?", lang),
+      q4("Was ist der Umrechnungsfaktor zwischen g/cm³ und kg/m³??", "What is the conversion factor between g/cm³ and kg/m³?", "Mi az átváltási tényező g/cm³ és kg/m³ között?", "Care este factorul de conversie între g/cm³ și kg/m³?", lang),
       q4("1 g/cm³ = 1000 kg/m³", "1 g/cm³ = 1000 kg/m³", "1 g/cm³ = 1000 kg/m³", "1 g/cm³ = 1000 kg/m³", lang),
       [
         q4("1 g/cm³ = 100 kg/m³", "1 g/cm³ = 100 kg/m³", "1 g/cm³ = 100 kg/m³", "1 g/cm³ = 100 kg/m³", lang),
@@ -781,7 +781,7 @@ export function generateDensityCalculationTyping(lang: string = "en", seed: numb
     q4("Ein Eisenblock hat eine Dichte von 7874 kg/m³ und ein Volumen von 0,25 m³. Berechne die Masse.", "An iron block has density 7874 kg/m³ and volume 0.25 m³. Calculate mass.", "Egy vasblokk sűrűsége 7874 kg/m³, térfogata 0,25 m³. Számítsd ki a tömeget!", "Un bloc de fier are densitate 7874 kg/m³ și volum 0,25 m³. Calculează masa.", lang),
     [
       q4("1968,5 kg (m = 7874 × 0.25)", "1968.5 kg (m = 7874 × 0.25)", "1968,5 kg (m = 7874 × 0,25)", "1968,5 kg (m = 7874 × 0,25)", lang),
-      q4("m ≈ 1969 kg vagy 1968,5 kg", "m ≈ 1969 kg or 1968.5 kg", "m ≈ 1969 kg vagy 1968,5 kg", "m ≈ 1969 kg sau 1968,5 kg", lang),
+      q4("m ≈ 1969 kg oder 1968.5 kg", "m ≈ 1969 kg or 1968.5 kg", "m ≈ 1969 kg vagy 1968,5 kg", "m ≈ 1969 kg sau 1968,5 kg", lang),
     ]
   ));
 
@@ -811,26 +811,26 @@ export function generateDensityCalculationTyping(lang: string = "en", seed: numb
     q4("Welche Formel benutzt du um das Volumen zu berechnen, wenn Masse und Dichte gegeben sind?", "Which formula do you use to calculate volume when mass and density are given?", "Melyik képletet használod a térfogat kiszámítására, ha tömeg és sűrűség ismert?", "Care formulă folosești pentru a calcula volumul atunci când sunt date masa și densitatea?", lang),
     [
       q4("V = m / ρ", "V = m / ρ", "V = m / ρ", "V = m / ρ", lang),
-      q4("V=m/ρ (térfogat = tömeg / sűrűség)", "V=m/ρ (volume = mass / density)", "V=m/ρ (térfogat = tömeg / sűrűség)", "V=m/ρ (volum = masă / densitate)", lang),
+      q4("V=m/ρ (Volumen = Masse / Dichte)", "V=m/ρ (volume = mass / density)", "V=m/ρ (térfogat = tömeg / sűrűség)", "V=m/ρ (volum = masă / densitate)", lang),
     ]
   ));
 
   questions.push(createTyping(
     "density",
     "density_calculation",
-    q4("Egy folyadékot 250 cm³ térfogatban mérve 200 g tömegű. Számítsd ki a sűrűségét g/cm³-ben!", "A liquid in 250 cm³ volume weighs 200 g. Calculate density in g/cm³.", "Egy folyadék 250 cm³ térfogatban 200 g tömegű. Számítsd ki a sűrűségét g/cm³-ben!", "Un lichid în volum 250 cm³ cântărește 200 g. Calculează densitate în g/cm³.", lang),
+    q4("Eine Flüssigkeit in 250 cm³ Volumen wiegt 200 g. Berechnen der Dichte in g/cm³.", "A liquid in 250 cm³ volume weighs 200 g. Calculate density in g/cm³.", "Egy folyadék 250 cm³ térfogatban 200 g tömegű. Számítsd ki a sűrűségét g/cm³-ben!", "Un lichid în volum 250 cm³ cântărește 200 g. Calculează densitate în g/cm³.", lang),
     [
-      q4("0,8 g/cm³ (ρ = 200 / 250)", "0.8 g/cm³ (ρ = 200 / 250)", "0,8 g/cm³ (ρ = 200 / 250)", "0,8 g/cm³ (ρ = 200 / 250)", lang),
-      q4("ρ = 0,8 g/cm³", "ρ = 0.8 g/cm³", "ρ = 0,8 g/cm³", "ρ = 0,8 g/cm³", lang),
+      q4("0.8 g/cm³ (ρ = 200 / 250)", "0.8 g/cm³ (ρ = 200 / 250)", "0,8 g/cm³ (ρ = 200 / 250)", "0,8 g/cm³ (ρ = 200 / 250)", lang),
+      q4("ρ = 0.8 g/cm³", "ρ = 0.8 g/cm³", "ρ = 0,8 g/cm³", "ρ = 0,8 g/cm³", lang),
     ]
   ));
 
   questions.push(createTyping(
     "density",
     "density_calculation",
-    q4("Mi az átváltási tényező g/cm³ és kg/m³ között?", "What is the conversion factor between g/cm³ and kg/m³?", "Mi az átváltási tényező g/cm³ és kg/m³ között?", "Care este factorul de conversie între g/cm³ și kg/m³?", lang),
+    q4("Was ist der Umrechnungsfaktor zwischen g/cm³ und kg/m³??", "What is the conversion factor between g/cm³ and kg/m³?", "Mi az átváltási tényező g/cm³ és kg/m³ között?", "Care este factorul de conversie între g/cm³ și kg/m³?", lang),
     [
-      q4("1 g/cm³ = 1000 kg/m³ (szorzás 1000-rel)", "1 g/cm³ = 1000 kg/m³ (multiply by 1000)", "1 g/cm³ = 1000 kg/m³ (szorzás 1000-rel)", "1 g/cm³ = 1000 kg/m³ (înmulțire cu 1000)", lang),
+      q4("1 g/cm³ = 1000 kg/m³ (mehrfach von 1000))", "1 g/cm³ = 1000 kg/m³ (multiply by 1000)", "1 g/cm³ = 1000 kg/m³ (szorzás 1000-rel)", "1 g/cm³ = 1000 kg/m³ (înmulțire cu 1000)", lang),
       q4("1 g/cm³ = 1000 kg/m³", "1 g/cm³ = 1000 kg/m³", "1 g/cm³ = 1000 kg/m³", "1 g/cm³ = 1000 kg/m³", lang),
     ]
   ));
@@ -838,7 +838,7 @@ export function generateDensityCalculationTyping(lang: string = "en", seed: numb
   questions.push(createTyping(
     "density",
     "density_calculation",
-    q4("Egy tárgy 500 g tömegű és a sűrűsége 2,5 g/cm³. Mekkora a térfogata cm³-ben?", "An object weighs 500 g with density 2.5 g/cm³. What is volume in cm³?", "Egy tárgy 500 g tömegű, sűrűsége 2,5 g/cm³. Mekkora a térfogata?", "Un obiect cântărește 500 g cu densitate 2,5 g/cm³. Care este volumul în cm³?", lang),
+    q4("Ein Objekt wiegt 500 g mit Dichte 2.5 g/cm³. Was ist Volumen in cm³?", "An object weighs 500 g with density 2.5 g/cm³. What is volume in cm³?", "Egy tárgy 500 g tömegű, sűrűsége 2,5 g/cm³. Mekkora a térfogata?", "Un obiect cântărește 500 g cu densitate 2,5 g/cm³. Care este volumul în cm³?", lang),
     [
       q4("200 cm³ (V = 500 / 2.5)", "200 cm³ (V = 500 / 2.5)", "200 cm³ (V = 500 / 2,5)", "200 cm³ (V = 500 / 2,5)", lang),
       q4("V = 200 cm³", "V = 200 cm³", "V = 200 cm³", "V = 200 cm³", lang),

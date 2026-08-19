@@ -500,9 +500,9 @@ export const PHYSIK_POOLS: Record<number, GeographieVisualLabGradePool> = {
           { id: "magnet-p", label: ml("Magnetkraft (Kühlschrank)", "Magnetic force (refrigerator)", "Mágneses erő (hűtőszekrény)", "Forță magnetică (frigider)"), emoji: "🧲" }
         ],
         slots: [
-          { id: "slot-4", label: ml("1. Schwächste", "1. Weakest", "1. Leggyengébb", "1. Cel mai slab") },
-          { id: "slot-4", label: "2." },
-          { id: "slot-4", label: "3." },
+          { id: "slot-1", label: ml("1. Schwächste", "1. Weakest", "1. Leggyengébb", "1. Cel mai slab") },
+          { id: "slot-2", label: "2." },
+          { id: "slot-3", label: "3." },
           { id: "slot-4", label: ml("4. Stärkste", "4. Strongest", "4. Legerősebb", "4. Cel mai puternic") }
         ],
         solution: ["feder-p", "reib-p", "magnet-p", "gewicht-p"]
@@ -520,10 +520,10 @@ export const PHYSIK_POOLS: Record<number, GeographieVisualLabGradePool> = {
           { id: "kochen", label: ml("Kochendes Wasser (100°C)", "Boiling water (100°C)", "Forrásban lévő víz (100°C)", "Apă clocotită (100°C)"), emoji: "♨️" }
         ],
         slots: [
-          { id: "slot-5", label: ml("1. Kalt", "1. Cold", "1. Hideg", "1. Frig") },
-          { id: "slot-5", label: "2." },
-          { id: "slot-5", label: "3." },
-          { id: "slot-5", label: ml("4. Heiß", "4. Hot", "4. Forró", "4. Fierbinte") }
+          { id: "slot-1", label: ml("1. Kalt", "1. Cold", "1. Hideg", "1. Frig") },
+          { id: "slot-2", label: "2." },
+          { id: "slot-3", label: "3." },
+          { id: "slot-4", label: ml("4. Heiß", "4. Hot", "4. Forró", "4. Fierbinte") }
         ],
         solution: ["eis", "zimmer", "kochen", "sonne"]
       }
@@ -1125,9 +1125,9 @@ export const PHYSIK_POOLS: Record<number, GeographieVisualLabGradePool> = {
           { id: "eisen", label: ml("Eisen (7,9 g/cm³)", "Iron (7.9 g/cm³)", "Vas (7,9 g/cm³)", "Fier (7,9 g/cm³)"), emoji: "🔩" }
         ],
         slots: [
-          { id: "slot-4", label: ml("1. Geringste Dichte", "1. Lowest Density", "1. Legalacsonyabb sűrűségű", "1. Cea mai mică densitate") },
-          { id: "slot-4", label: "2." },
-          { id: "slot-4", label: "3." },
+          { id: "slot-1", label: ml("1. Geringste Dichte", "1. Lowest Density", "1. Legalacsonyabb sűrűségű", "1. Cea mai mică densitate") },
+          { id: "slot-2", label: "2." },
+          { id: "slot-3", label: "3." },
           { id: "slot-4", label: ml("4. Höchste Dichte", "4. Highest density", "4. Legnagyobb sűrűség", "4. Cea mai mare densitate") }
         ],
         solution: ["holz", "wasser", "eisen", "gold"]
@@ -1145,10 +1145,10 @@ export const PHYSIK_POOLS: Record<number, GeographieVisualLabGradePool> = {
           { id: "kupfer", label: ml("Kupfer (sehr guter Leiter)", "Copper (very good conductor)", "Réz (nagyon jó vezető)", "Cupru (foarte bun conductor)"), emoji: "🥉" }
         ],
         slots: [
-          { id: "slot-5", label: ml("1. Schlecht (Isolator)", "1. Bad (insulator)", "1. Rossz (szigetelő)", "1. Defect (izolator)") },
-          { id: "slot-5", label: "2." },
-          { id: "slot-5", label: "3." },
-          { id: "slot-5", label: ml("4. Bester Leiter", "4. Best conductor", "4. Legjobb vezető", "4. Cel mai bun dirijor") }
+          { id: "slot-1", label: ml("1. Schlecht (Isolator)", "1. Bad (insulator)", "1. Rossz (szigetelő)", "1. Defect (izolator)") },
+          { id: "slot-2", label: "2." },
+          { id: "slot-3", label: "3." },
+          { id: "slot-4", label: ml("4. Bester Leiter", "4. Best conductor", "4. Legjobb vezető", "4. Cel mai bun dirijor") }
         ],
         solution: ["gummi", "salz", "eisen", "kupfer"]
       }
@@ -1747,9 +1747,9 @@ export const PHYSIK_POOLS: Record<number, GeographieVisualLabGradePool> = {
           { id: "tief", label: ml("Menschlicher tiefer Ton (z.B. 100 Hz)", "Human low tone (e.g. 100 Hz)", "Emberi mély hang (pl. 100 Hz)", "Tonul uman scăzut (de exemplu, 100 Hz)"), emoji: "🔈" }
         ],
         slots: [
-          { id: "slot-4", label: ml("1. Tiefste Frequenz", "1. Lowest Frequency", "1. Legalacsonyabb frekvencia", "1. Frecvența cea mai joasă") },
-          { id: "slot-4", label: "2." },
-          { id: "slot-4", label: "3." },
+          { id: "slot-1", label: ml("1. Tiefste Frequenz", "1. Lowest Frequency", "1. Legalacsonyabb frekvencia", "1. Frecvența cea mai joasă") },
+          { id: "slot-2", label: "2." },
+          { id: "slot-3", label: "3." },
           { id: "slot-4", label: ml("4. Höchste Frequenz", "4. Highest frequency", "4. Legmagasabb frekvencia", "4. Cea mai mare frecvență") }
         ],
         solution: ["infra", "tief", "hoch", "ultra"]
@@ -1767,10 +1767,10 @@ export const PHYSIK_POOLS: Record<number, GeographieVisualLabGradePool> = {
           { id: "milch", label: ml("Milchglas / Nebel", "Frosted glass / fog", "Tetüveg / Tetszett üveg / köd 4> Milyen energiát nyom össze a köd", "Sticlă mată/ceață"), emoji: "🌫️" }
         ],
         slots: [
-          { id: "slot-5", label: ml("1. Undurchlässig", "1. Impermeable", "1. Át nem eresztő", "1. Impermeabil") },
-          { id: "slot-5", label: "2." },
-          { id: "slot-5", label: "3." },
-          { id: "slot-5", label: ml("4. Perfekt transparent", "4. Perfectly transparent", "4. Tökéletesen átlátszó", "4. Perfect transparent") }
+          { id: "slot-1", label: ml("1. Undurchlässig", "1. Impermeable", "1. Át nem eresztő", "1. Impermeabil") },
+          { id: "slot-2", label: "2." },
+          { id: "slot-3", label: "3." },
+          { id: "slot-4", label: ml("4. Perfekt transparent", "4. Perfectly transparent", "4. Tökéletesen átlátszó", "4. Perfect transparent") }
         ],
         solution: ["stein", "milch", "klares", "vakuum"]
       }
@@ -2370,9 +2370,9 @@ export const PHYSIK_POOLS: Record<number, GeographieVisualLabGradePool> = {
           { id: "molekuel", label: ml("Molekül (z.B. Wasser)", "Molecule (e.g. water)", "Molekula (pl. víz)", "Moleculă (de exemplu, apă)"), emoji: "💧" }
         ],
         slots: [
-          { id: "slot-4", label: ml("1. Am kleinsten", "1. Smallest", "1. Legkisebb", "1. Cele mai mici") },
-          { id: "slot-4", label: "2." },
-          { id: "slot-4", label: "3." },
+          { id: "slot-1", label: ml("1. Am kleinsten", "1. Smallest", "1. Legkisebb", "1. Cele mai mici") },
+          { id: "slot-2", label: "2." },
+          { id: "slot-3", label: "3." },
           { id: "slot-4", label: ml("4. Am größten", "4. Largest", "4. Legnagyobb", "4. Cel mai mare") }
         ],
         solution: ["elektron", "kern", "atom", "molekuel"]
@@ -2390,10 +2390,10 @@ export const PHYSIK_POOLS: Record<number, GeographieVisualLabGradePool> = {
           { id: "roentgen", label: ml("Röntgenstrahlung", "X-rays", "Röntgensugarak", "Raze X"), emoji: "🩻" }
         ],
         slots: [
-          { id: "slot-5", label: ml("1. Niedrigste Energie", "1. Lowest energy", "1. A legalacsonyabb energia", "1. Cea mai scăzută energie") },
-          { id: "slot-5", label: "2." },
-          { id: "slot-5", label: "3." },
-          { id: "slot-5", label: ml("4. Höchste Energie", "4. Highest energy", "4. Legnagyobb energia", "4. Cea mai mare energie") }
+          { id: "slot-1", label: ml("1. Niedrigste Energie", "1. Lowest energy", "1. A legalacsonyabb energia", "1. Cea mai scăzută energie") },
+          { id: "slot-2", label: "2." },
+          { id: "slot-3", label: "3." },
+          { id: "slot-4", label: ml("4. Höchste Energie", "4. Highest energy", "4. Legnagyobb energia", "4. Cea mai mare energie") }
         ],
         solution: ["radio", "licht", "roentgen", "gamma"]
       }

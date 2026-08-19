@@ -187,47 +187,50 @@ export function generatePushPullTyping(lang: string = "en", seed: number = 0): C
 
 // ─── 2. FRICTION ──────────────────────────────────────────────────────────────
 
-const FRICTION_DATA = {
+function getFrictionData(lang: string) {
+  return {
   surfaces: [
-    { name: q4("Eis", "Ice", "Jég", "Gheață", "en"), friction: "low" },
-    { name: q4("Sandpapier", "Sandpaper", "Csiszolópapír", "Hârtie de șlefuit", "en"), friction: "high" },
-    { name: q4("Gummi", "Rubber", "Gumi", "Cauciuc", "en"), friction: "high" },
-    { name: q4("Öl", "Oil", "Olaj", "Ulei", "en"), friction: "low" },
-    { name: q4("Betonweg", "Concrete path", "Betonút", "Cale de beton", "en"), friction: "high" },
-    { name: q4("Seifiger Boden", "Soapy floor", "Szappanos padló", "Podea cu săpun", "en"), friction: "low" },
-    { name: q4("Reifengummi", "Tire rubber", "Gumiabroncs", "Anvelopă", "en"), friction: "high" },
-    { name: q4("Glatte Eis", "Smooth ice", "Sima jég", "Gheață netedă", "en"), friction: "low" },
+    { name: q4("Eis", "Ice", "Jég", "Gheață", lang), friction: "low" },
+    { name: q4("Sandpapier", "Sandpaper", "Csiszolópapír", "Hârtie de șlefuit", lang), friction: "high" },
+    { name: q4("Gummi", "Rubber", "Gumi", "Cauciuc", lang), friction: "high" },
+    { name: q4("Öl", "Oil", "Olaj", "Ulei", lang), friction: "low" },
+    { name: q4("Betonweg", "Concrete path", "Betonút", "Cale de beton", lang), friction: "high" },
+    { name: q4("Seifiger Boden", "Soapy floor", "Szappanos padló", "Podea cu săpun", lang), friction: "low" },
+    { name: q4("Reifengummi", "Tire rubber", "Gumiabroncs", "Anvelopă", lang), friction: "high" },
+    { name: q4("Glattes Eis", "Smooth ice", "Sima jég", "Gheață netedă", lang), friction: "low" },
   ],
   ways_to_reduce: [
-    q4("Öl auftragen", "Apply oil", "Olaj felvitele", "Aplicarea uleiului", "en"),
-    q4("Oberfläche glätten", "Smooth the surface", "Felület simítása", "Netezirea suprafeței", "en"),
-    q4("Wachsen verwenden", "Use wax", "Viasz használata", "Utilizarea cerii", "en"),
-    q4("Feuchtigkeitszufuhr", "Apply moisture", "Nedvesség felvitele", "Aplicarea umidității", "en"),
+    q4("Öl auftragen", "Apply oil", "Olaj felvitele", "Aplicarea uleiului", lang),
+    q4("Oberfläche glätten", "Smooth the surface", "Felület simítása", "Netezirea suprafeței", lang),
+    q4("Wachs verwenden", "Use wax", "Viasz használata", "Utilizarea cerii", lang),
+    q4("Feuchtigkeit auftragen", "Apply moisture", "Nedvesség felvitele", "Aplicarea umidității", lang),
   ],
-};
+  };
+}
 
 export function generateFrictionMCQ(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
   const rng = mulberry32(seed);
   const questions: CurriculumQuestion[] = [];
+  const frictionData = getFrictionData(lang);
 
   // Template 1: "Which surface has more friction?"
   for (let i = 0; i < 10; i++) {
-    const s1 = pick(FRICTION_DATA.surfaces, rng);
-    const s2 = pick(FRICTION_DATA.surfaces.filter(s => s.friction !== s1.friction), rng);
+    const s1 = pick(frictionData.surfaces, rng);
+    const s2 = pick(frictionData.surfaces.filter(s => s.friction !== s1.friction), rng);
     const highFriction = s1.friction === "high" ? s1 : s2;
     questions.push(createMCQ(
       "forces",
       "friction",
       q4(`Welche Oberfläche hat mehr Reibung: ${s1.name} oder ${s2.name}?`, `Which surface has more friction: ${s1.name} or ${s2.name}?`, `Melyik felület nagyobb súrlódással rendelkezik: ${s1.name} vagy ${s2.name}?`, `Care suprafață are mai multă frecare: ${s1.name} sau ${s2.name}?`, lang),
       highFriction.name,
-      FRICTION_DATA.surfaces.map(s => s.name).filter(n => n !== highFriction.name).slice(0, 3),
+      frictionData.surfaces.map(s => s.name).filter(n => n !== highFriction.name).slice(0, 3),
       rng
     ));
   }
 
   // Template 2: "What reduces friction?"
   for (let i = 0; i < 10; i++) {
-    const way = pick(FRICTION_DATA.ways_to_reduce, rng);
+    const way = pick(frictionData.ways_to_reduce, rng);
     questions.push(createMCQ(
       "forces",
       "friction",

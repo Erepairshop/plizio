@@ -234,7 +234,7 @@ function temperatureTyping(lang: string, seed: number = 0): CurriculumQuestion[]
       answer: "37",
     },
     {
-      de: `Scara de temperatură absolută se numește ___ .`,
+      de: `Die absolute Temperaturskala heißt ___ .`,
       en: `The absolute temperature scale is called ___.`,
       hu: `Az abszolút hőmérsékleti skála neve ___.`,
       ro: `Scara de temperatură absolută se numește ___.`,

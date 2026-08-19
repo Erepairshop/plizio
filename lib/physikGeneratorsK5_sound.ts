@@ -73,11 +73,10 @@ function createTyping(
   };
 }
 
-function q4(de: string, en: string, hu: string, ro: string): string {
-  const lang = typeof window !== 'undefined'
-    ? localStorage.getItem('language') || 'en'
-    : 'en';
+let activeSoundLang = "en";
 
+function q4(de: string, en: string, hu: string, ro: string): string {
+  const lang = activeSoundLang;
   if (lang === "de") return de;
   if (lang === "hu") return hu;
   if (lang === "ro") return ro;
@@ -1183,15 +1182,22 @@ function generateSpeedOfSoundTyping(seed?: number): CurriculumTyping[] {
 
 // ─── EXPORT GENERATORS ─────────────────────────────────────────────────────
 
+function withSoundLang<T extends CurriculumQuestion>(generator: (seed?: number) => T[]) {
+  return (lang = "en", seed = 0): T[] => {
+    activeSoundLang = lang;
+    return generator(seed);
+  };
+}
+
 const SOUND_GENERATORS = {
-  sound_waves: generateSoundWavesMCQ,
-  sound_waves_typing: generateSoundWavesTyping,
-  pitch_volume: generatePitchVolumeMCQ,
-  pitch_volume_typing: generatePitchVolumeTyping,
-  echo: generateEchoMCQ,
-  echo_typing: generateEchoTyping,
-  speed_of_sound: generateSpeedOfSoundMCQ,
-  speed_of_sound_typing: generateSpeedOfSoundTyping,
+  sound_waves: withSoundLang(generateSoundWavesMCQ),
+  sound_waves_typing: withSoundLang(generateSoundWavesTyping),
+  pitch_volume: withSoundLang(generatePitchVolumeMCQ),
+  pitch_volume_typing: withSoundLang(generatePitchVolumeTyping),
+  echo: withSoundLang(generateEchoMCQ),
+  echo_typing: withSoundLang(generateEchoTyping),
+  speed_of_sound: withSoundLang(generateSpeedOfSoundMCQ),
+  speed_of_sound_typing: withSoundLang(generateSpeedOfSoundTyping),
 };
 
 // Register generators

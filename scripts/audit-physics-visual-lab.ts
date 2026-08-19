@@ -9,6 +9,7 @@ import {
   buildPhysicsSkillRounds,
   type PhysicsSkillLang,
 } from "../lib/visualLab/physicsSkillContent";
+import { PHYSIK_POOLS } from "../lib/visualLab/pools/physikPool";
 
 const LANGS: PhysicsSkillLang[] = ["de", "en", "hu", "ro"];
 const LEVELS: PhysicsLevel[] = [1, 2, 3, 4, 5];
@@ -17,6 +18,22 @@ const failures: string[] = [];
 function fail(message: string) {
   failures.push(message);
 }
+
+function auditNestedIds(value: unknown, path: string) {
+  if (Array.isArray(value)) {
+    const ids = value
+      .filter((entry): entry is { id: string } => Boolean(entry) && typeof entry === "object" && typeof (entry as { id?: unknown }).id === "string")
+      .map((entry) => entry.id);
+    if (new Set(ids).size !== ids.length) fail(`${path} contains duplicate child ids: ${ids.join(", ")}`);
+    value.forEach((entry, index) => auditNestedIds(entry, `${path}[${index}]`));
+    return;
+  }
+  if (value && typeof value === "object") {
+    Object.entries(value).forEach(([key, entry]) => auditNestedIds(entry, `${path}.${key}`));
+  }
+}
+
+auditNestedIds(PHYSIK_POOLS, "PHYSIK_POOLS");
 
 for (let grade = 5; grade <= 8; grade += 1) {
   if (!isPhysicsGameAvailableForGrade("kraft-labor", grade)) fail(`grade ${grade} blocks skill games`);

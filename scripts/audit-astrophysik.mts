@@ -76,37 +76,34 @@ type Question = {
 };
 
 const LANGS = ["de", "en", "hu", "ro"];
-const GERMAN_HINTS = [
-  " der ",
-  " die ",
-  " das ",
-  " ist ",
-  " sind ",
-  " welche",
-  " welcher",
-  " welches",
-  " berechne",
-  " warum",
-  " wie ",
-  " was ",
-  " wenn ",
-  " kraft",
-  " wärme",
-  " strom",
-  " spannung",
-];
-const ENGLISH_HINTS = [
+const FOREIGN_LANGUAGE_HINTS = [
   " the ",
   " which ",
   " what ",
   " calculate",
-  " force",
-  " energy",
-  " current",
-  " voltage",
-  " resistance",
-  " light ",
-  " sound ",
+  " is ",
+  " are ",
+  " caused by",
+  " from ",
+  " between ",
+  " only ",
+  " nincs ",
+  " melyik ",
+  " hogyan ",
+  " hány ",
+  " között ",
+  " föld ",
+  " hold ",
+  " tömeg ",
+  " súly ",
+  " erő ",
+  " energia ",
+  " sebesség ",
+  " sugárzás ",
+  " este ",
+  " care ",
+  " dintre ",
+  " fără ",
 ];
 
 const grades: Record<Grade, {
@@ -184,14 +181,29 @@ function flattenText(value: unknown): string[] {
   return [];
 }
 
-function hasGermanSignal(text: string): boolean {
-  const normalized = ` ${text.toLowerCase()} `;
-  return GERMAN_HINTS.some((hint) => normalized.includes(hint));
+function flattenGermanText(value: unknown): string[] {
+  if (typeof value === "string") return [value];
+  if (Array.isArray(value)) return value.flatMap(flattenGermanText);
+  if (value && typeof value === "object") {
+    const record = value as Record<string, unknown>;
+    if (typeof record.de === "string") return [record.de];
+    return Object.entries(record)
+      .filter(([key]) => !["en", "hu", "ro"].includes(key))
+      .flatMap(([, entry]) => flattenGermanText(entry));
+  }
+  return [];
 }
 
-function hasEnglishSignal(text: string): boolean {
+function foreignLanguageSignals(text: string): string[] {
   const normalized = ` ${text.toLowerCase()} `;
-  return ENGLISH_HINTS.some((hint) => normalized.includes(hint));
+  const matches = FOREIGN_LANGUAGE_HINTS.filter((hint) => normalized.includes(hint));
+  if (/[őű]/i.test(text)) matches.push("[őű]");
+  if (/[șț]/i.test(text)) matches.push("[șț]");
+  return matches;
+}
+
+function hasForeignLanguageSignal(text: string): boolean {
+  return foreignLanguageSignals(text).length > 0;
 }
 
 function validateQuestion(q: Question, loc: string) {
@@ -288,9 +300,17 @@ for (const [gradeText, cfg] of Object.entries(grades)) {
       const questions = cfg.getQuestions([sub.id], 8);
       assert(questions.length > 0, `K${grade}/${sub.id}: getQuestions returned no questions`);
       questions.forEach((q, idx) => validateQuestion(q, `K${grade}/${sub.id}/q${idx}`));
-      const questionText = questions.map((q) => q.question ?? "").join(" ");
-      warn(hasGermanSignal(questionText), `K${grade}/${sub.id}: generated sample lacks German signal`);
-      warn(!hasEnglishSignal(questionText) || hasGermanSignal(questionText), `K${grade}/${sub.id}: generated sample looks English`);
+      const germanQuestions = [
+        ...(generator?.[sub.id]?.("de", grade * 100) ?? []),
+        ...(typingGenerator?.[`${sub.id}_typing`]?.("de", grade * 100 + 1) ?? []),
+      ];
+      const questionText = germanQuestions
+        .flatMap((q) => [q.question ?? "", ...(q.options ?? [])])
+        .join(" ");
+      warn(
+        !hasForeignLanguageSignal(questionText),
+        `K${grade}/${sub.id}: generated German bank contains ${foreignLanguageSignals(questionText).join(", ")}: ${questionText.slice(0, 220)}`,
+      );
     }
   }
 
@@ -338,7 +358,9 @@ for (const [key, rounds] of Object.entries({ ...PHYSIK_M2_POOLS, ...PHYSIK_M3_PO
   rounds.forEach((round: unknown, idx: number) => {
     const texts = flattenText(round);
     assert(texts.length > 0, `${key}/${idx}: round has no text`);
-    warn(texts.some(hasGermanSignal), `${key}/${idx}: round lacks German signal`);
+    const germanTexts = flattenGermanText(round);
+    warn(germanTexts.length > 0, `${key}/${idx}: round has no German text`);
+    warn(!hasForeignLanguageSignal(germanTexts.join(" ")), `${key}/${idx}: German round contains a foreign-language signal`);
   });
 }
 
