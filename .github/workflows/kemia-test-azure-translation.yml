@@ -29,9 +29,9 @@ jobs:
           set -a
           source /home/erik/plizio-audits/poi-only-technical-20260731/.azure-openai.env
           set +a
-          python3 scripts/test-translation/run-azure-kemia-translation.py
-          --queue translation-work/kemia-test/queue.json
-          --output translation-work/kemia-test/result-hu.jsonl
+          python3 scripts/test-translation/run-azure-kemia-translation.py \
+          --queue translation-work/kemia-test/queue.json \
+          --output translation-work/kemia-test/result-hu.jsonl \
           --language-name Hungarian
 
       - name: Translate Romanian
@@ -40,9 +40,9 @@ jobs:
           set -a
           source /home/erik/plizio-audits/poi-only-technical-20260731/.azure-openai.env
           set +a
-          python3 scripts/test-translation/run-azure-kemia-translation.py
-          --queue translation-work/kemia-test/queue.json
-          --output translation-work/kemia-test/result-ro.jsonl
+          python3 scripts/test-translation/run-azure-kemia-translation.py \
+          --queue translation-work/kemia-test/queue.json \
+          --output translation-work/kemia-test/result-ro.jsonl \
           --language-name Romanian
 
       - name: Translate English
@@ -51,9 +51,9 @@ jobs:
           set -a
           source /home/erik/plizio-audits/poi-only-technical-20260731/.azure-openai.env
           set +a
-          python3 scripts/test-translation/run-azure-kemia-translation.py
-          --queue translation-work/kemia-test/queue.json
-          --output translation-work/kemia-test/result-en.jsonl
+          python3 scripts/test-translation/run-azure-kemia-translation.py \
+          --queue translation-work/kemia-test/queue.json \
+          --output translation-work/kemia-test/result-en.jsonl \
           --language-name English
 
       - name: Validate exact coverage
