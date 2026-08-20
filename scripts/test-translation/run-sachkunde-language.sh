@@ -3,6 +3,8 @@ set -uo pipefail
 
 LANG_CODE="$1"
 LANG_NAME="$2"
+QUEUE_PATH="${3:-translation-work/sachkunde-test/queue.json}"
+OUTPUT_NAME="${4:-result-$LANG_CODE.jsonl}"
 WORK="/home/erik/plizio-translations/sachkunde-test-20260820"
 mkdir -p "$WORK"
 
@@ -14,8 +16,8 @@ status=1
 for pass in 1 2 3; do
   echo "Translation pass $pass for $LANG_CODE"
   python3 scripts/test-translation/run-azure-sachkunde-translation.py \
-    --queue translation-work/sachkunde-test/queue.json \
-    --output "$WORK/result-$LANG_CODE.jsonl" \
+    --queue "$QUEUE_PATH" \
+    --output "$WORK/$OUTPUT_NAME" \
     --language-name "$LANG_NAME"
   status=$?
   if [ "$status" -eq 0 ]; then break; fi
