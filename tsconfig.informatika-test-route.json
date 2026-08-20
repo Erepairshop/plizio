@@ -1,0 +1,16 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": { "noEmit": true, "incremental": false },
+  "include": [
+    "app/informatikatest/page.tsx",
+    "components/informatika-visual/**/*.tsx",
+    "lib/informatikaVisualContent.ts",
+    "lib/informatikaVisualGenerators.ts",
+    "lib/informatikaQuestionDiversity.ts",
+    "lib/informatikaCurriculum5.ts",
+    "lib/informatikaCurriculum6.ts",
+    "lib/informatikaCurriculum7.ts",
+    "lib/informatikaCurriculum8.ts",
+    "scripts/audit-informatika-test-route.ts"
+  ]
+}

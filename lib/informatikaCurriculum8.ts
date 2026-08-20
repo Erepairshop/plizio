@@ -1,4 +1,5 @@
 import type { CurriculumQuestion } from "./curriculumTypes";
+import { selectDiverseInformatikaQuestions } from "./informatikaQuestionDiversity";
 import type { KemiaTheme } from "./kemiaCurriculumShared";
 import INFO_K8_DATA from "./informatikaCurriculum8_data.json";
 
@@ -94,6 +95,5 @@ export function getInfoK8Questions(subtopicIds: string[], count = 10, countryCod
     }
   }
 
-  const shuffled = pool.sort(() => Math.random() - 0.5);
-  return shuffled.slice(0, count);
+  return selectDiverseInformatikaQuestions(pool, count);
 }
