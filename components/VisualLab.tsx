@@ -155,6 +155,7 @@ interface VisualLabProps {
   lang: Lang;
   open: boolean;
   onClose: () => void;
+  initialGameId?: string;
 }
 
 /* ------------------------------------------------------------------ */
@@ -455,6 +456,23 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
   ],
 };
 
+function isVisualLabGameAvailable(subject: VisualLabSubject, gameId: string, grade: number): boolean {
+  const game = SUBJECT_GAMES[subject]?.find((candidate) => candidate.id === gameId);
+  if (!game?.available || !Number.isInteger(grade) || grade < 1 || grade > 8) return false;
+
+  if (subject === "sachkunde") return grade <= 4;
+  if (subject === "astromath") return isMathGameAvailableForGrade(gameId, grade);
+  if (subject === "geographie") return isGeographyGameAvailableForGrade(gameId, grade);
+  if (subject === "biologie") return isBiologyGameAvailableForGrade(gameId, grade);
+  if (subject === "physik") return isPhysicsGameAvailableForGrade(gameId, grade);
+  if (subject === "kemia") return isChemistryGameAvailableForGrade(gameId, grade);
+  if (subject === "geschichte") return isHistoryGameAvailableForGrade(gameId, grade);
+  if (subject === "informatika") return isInformaticsGameAvailableForGrade(gameId, grade);
+  if (["deutsch", "english", "magyar", "romana"].includes(subject) && !gameId.startsWith("grusel-")) {
+    return isLanguageGameAvailableForGrade(gameId, grade);
+  }
+  return true;
+}
 const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
   de: {
     mathQuest: "Zahlenwelten",
@@ -723,53 +741,23 @@ for (const lg of ["de", "hu", "ro", "en"] as Lang[]) {
 /* Component                                                           */
 /* ------------------------------------------------------------------ */
 
-function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps) {
-  const [activeGame, setActiveGame] = useState<string | null>(null);
+function VisualLabInner({ subject, grade, lang, open, onClose, initialGameId }: VisualLabProps) {
+  const [activeGame, setActiveGame] = useState<string | null>(() =>
+    initialGameId && isVisualLabGameAvailable(subject, initialGameId, grade) ? initialGameId : null,
+  );
   const t = T[lang] ?? T.en;
-  const isLanguageSubject = ["deutsch", "english", "magyar", "romana"].includes(subject);
-  const games = (SUBJECT_GAMES[subject] ?? []).filter((game) => {
-    if (subject === "astromath") return isMathGameAvailableForGrade(game.id, grade);
-    if (subject === "geographie") return isGeographyGameAvailableForGrade(game.id, grade);
-    if (subject === "biologie") return isBiologyGameAvailableForGrade(game.id, grade);
-    if (subject === "physik") return isPhysicsGameAvailableForGrade(game.id, grade);
-    if (subject === "kemia") return isChemistryGameAvailableForGrade(game.id, grade);
-    if (subject === "geschichte") return isHistoryGameAvailableForGrade(game.id, grade);
-    if (subject === "informatika") return isInformaticsGameAvailableForGrade(game.id, grade);
-    if (isLanguageSubject && !game.id.startsWith("grusel-")) {
-      return isLanguageGameAvailableForGrade(game.id, grade);
-    }
-    return true;
-  });
+  const games = (SUBJECT_GAMES[subject] ?? []).filter((game) =>
+    isVisualLabGameAvailable(subject, game.id, grade),
+  );
   const isOpen = open;
 
   useEffect(() => {
-    if (activeGame && subject === "astromath" && !isMathGameAvailableForGrade(activeGame, grade)) {
-      setActiveGame(null);
-    }
-    if (activeGame && isLanguageSubject && !activeGame.startsWith("grusel-")
-      && !isLanguageGameAvailableForGrade(activeGame, grade)) {
-      setActiveGame(null);
-    }
-    if (activeGame && subject === "geographie" && !isGeographyGameAvailableForGrade(activeGame, grade)) {
-      setActiveGame(null);
-    }
-    if (activeGame && subject === "biologie" && !isBiologyGameAvailableForGrade(activeGame, grade)) {
-      setActiveGame(null);
-    }
-    if (activeGame && subject === "physik" && !isPhysicsGameAvailableForGrade(activeGame, grade)) {
-      setActiveGame(null);
-    }
-    if (activeGame && subject === "kemia" && !isChemistryGameAvailableForGrade(activeGame, grade)) {
-      setActiveGame(null);
-    }
-    if (activeGame && subject === "geschichte" && !isHistoryGameAvailableForGrade(activeGame, grade)) {
-      setActiveGame(null);
-    }
-    if (activeGame && subject === "informatika" && !isInformaticsGameAvailableForGrade(activeGame, grade)) {
-      setActiveGame(null);
-    }
-  }, [activeGame, grade, isLanguageSubject, subject]);
+    setActiveGame(initialGameId && isVisualLabGameAvailable(subject, initialGameId, grade) ? initialGameId : null);
+  }, [grade, initialGameId, subject]);
 
+  useEffect(() => {
+    if (activeGame && !isVisualLabGameAvailable(subject, activeGame, grade)) setActiveGame(null);
+  }, [activeGame, grade, subject]);
   // Lock body scroll while open
   useEffect(() => {
     if (isOpen) {

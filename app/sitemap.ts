@@ -2,6 +2,13 @@ import fs from "node:fs";
 import path from "node:path";
 import type { MetadataRoute } from "next";
 import { getGitLastMod } from "@/lib/seo/lastmod";
+import {
+  VISUAL_LAB_LANGS,
+  VISUAL_LAB_SEO_SUBJECTS,
+  getVisualLabStaticParams,
+  visualLabGameUrl,
+  visualLabSubjectUrl,
+} from "@/lib/visualLab/seoCatalog";
 import { discoverStaticMapPaths } from "@/lib/seo/staticMapSitemap";
 import { SITE_URL, hasIndexableContent, stateHasIndexablePois } from "@/lib/seo/routes";
 import {
@@ -53,6 +60,27 @@ const STATIC_ROOT_PAGES = [
   { url: "/postcard/", source: "app/postcard/page.tsx", priority: 0.8 },
 ] as const;
 
+const GAME_ROUTES = [
+  "astromath", "astro-ai", "astro-biologie", "astro-geographie", "astro-geschichte",
+  "astro-physik", "astro-sachkunde", "astrodeutsch", "astroenglish", "astrokemia",
+  "astromagyar", "astroromana", "astrinformatika", "codekids",
+  "deutschtest", "mathtest", "romaniantest", "biologietest", "physiktest", "kemiatest",
+  "geographietest", "geschichtetest", "sachkundetest", "englishtest", "informatikatest",
+  "aitest", "codekidstest",
+] as const;
+
+const VISUAL_LAB_HUB_PATHS = VISUAL_LAB_LANGS.map((lang) => `/${lang}/visual-lab/`);
+const VISUAL_LAB_SUBJECT_PATHS = VISUAL_LAB_SEO_SUBJECTS.flatMap((subject) =>
+  subject.locales.map((lang) => visualLabSubjectUrl(lang, subject.id)),
+);
+const VISUAL_LAB_GAME_PATHS = getVisualLabStaticParams().map(({ lang, subjectId, gameId }) =>
+  visualLabGameUrl(lang, subjectId, gameId),
+);
+const VISUAL_LAB_PATHS = [
+  ...VISUAL_LAB_HUB_PATHS,
+  ...VISUAL_LAB_SUBJECT_PATHS,
+  ...VISUAL_LAB_GAME_PATHS,
+];
 // Tier-1 sight page index — loaded at build time. Each entry produces
 // /<lang>/<country>/<state>/<host-poi>/sight/<slug>/ in the sitemap.
 type SightIdxEntry = { host_id: string; sight_name: string; slug: string };
@@ -88,7 +116,7 @@ export async function generateSitemaps() {
     (poi) => poi && poi.type !== "region" && poi.type !== "country" && hasIndexableContent(poi) && !!poi.parent && getCountryIdStrict(poi.parent) != null,
   );
   const ROOT_FIXED = STATIC_ROOT_PAGES.length + STATIC_MAP_PATHS.length;
-  const GAME_FIXED = 27;     // GAME_ROUTES.length (astro + test routes), emitted per lang
+  const GAME_FIXED = GAME_ROUTES.length;
   // Extra per-POI lang URLs (fr/tr/hr) — emitted by the sitemap() extra-lang loop,
   // so they MUST be counted here too or the last chunk gets dropped.
   let extraLangUrls = 0;
@@ -101,6 +129,7 @@ export async function generateSitemaps() {
   const totalUrls =
     ROOT_FIXED +
     GAME_FIXED * SUPPORTED_LANGS.length +
+    VISUAL_LAB_PATHS.length +
     ALL_COUNTRY_IDS.length * SUPPORTED_LANGS.length +
     CATEGORY_PARAMS.length * SUPPORTED_LANGS.length +
     INDEXABLE_REGIONS.length * SUPPORTED_LANGS.length +
@@ -171,21 +200,13 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
   // Per-language learning game + test routes. Each has an app/[lang]/<route>/
   // SSG wrapper that prerenders localized static HTML + a 4-lang hreflang cluster
   // (de/hu/ro/en), so Google can surface them in all four markets.
-  const GAME_ROUTES = [
-    // astro / interactive games
-    "astromath", "astro-ai", "astro-biologie", "astro-geographie", "astro-geschichte",
-    "astro-physik", "astro-sachkunde", "astrodeutsch", "astroenglish", "astrokemia",
-    "astromagyar", "astroromana", "astrinformatika", "codekids",
-    // written school tests
-    "deutschtest", "mathtest", "romaniantest", "biologietest", "physiktest", "kemiatest",
-    "geographietest", "geschichtetest", "sachkundetest", "englishtest", "informatikatest",
-    "aitest", "codekidstest",
-  ];
   const gameUrls = SUPPORTED_LANGS.flatMap((lang) =>
     GAME_ROUTES.map((route) =>
       createEntry(`/${lang}/${route}/`, `app/[lang]/${route}/page.tsx`, 0.85),
     ),
   );
+
+  const visualLabUrls = VISUAL_LAB_PATHS.map((route) => createEntry(route, null, 0.75));
 
   const stateUrls = SUPPORTED_LANGS.flatMap((lang) =>
     INDEXABLE_REGIONS.map((state) => createEntry(buildStatePath(lang, state.id), null, 0.8)),
@@ -247,12 +268,13 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
   };
   appendUnique(rootUrls);
   appendUnique(gameUrls);
+  appendUnique(visualLabUrls);
   appendUnique(countryUrls);
   appendUnique(categoryUrls);
   appendUnique(stateUrls);
   appendUnique(poiUrls);
   appendUnique(sightUrls);
-  // Chunk: id 0 = first 40k URLs, id 1 = next 40k, etc.
+  // Chunk: id 0 = first 20k URLs, id 1 = next 20k, etc.
   const start = id * CHUNK_SIZE;
   return all.slice(start, start + CHUNK_SIZE);
 }

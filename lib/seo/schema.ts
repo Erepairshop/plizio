@@ -226,6 +226,86 @@ export function buildLearningResourceSchema(input: {
   return node;
 }
 
+export type EducationalGameSchemaInput = {
+  name: string;
+  description: string;
+  url: string;
+  lang: Lang;
+  educationalLevel: string | string[];
+  teaches: string | string[];
+  typicalAgeRange?: string;
+  about?: string;
+  isPartOfCourse?: { name: string; url: string };
+};
+
+/**
+ * Schema graph for a browser-based educational game.
+ *
+ * LearningResource describes the pedagogical purpose, while
+ * SoftwareApplication describes the interactive web application. Keeping both
+ * nodes in one graph lets search engines understand the same URL without
+ * pretending every Visual Lab activity is a quiz or a downloadable app.
+ */
+export function buildEducationalGameSchema(input: EducationalGameSchemaInput): SchemaNode {
+  const url = toAbsoluteUrl(input.url);
+  const resourceId = `${url}#learning-resource`;
+  const applicationId = `${url}#educational-game`;
+  const course = input.isPartOfCourse
+    ? {
+        "@type": "Course",
+        name: input.isPartOfCourse.name,
+        url: toAbsoluteUrl(input.isPartOfCourse.url),
+      }
+    : undefined;
+
+  const learningResource: SchemaNode = {
+    "@type": "LearningResource",
+    "@id": resourceId,
+    name: input.name,
+    description: input.description,
+    url,
+    inLanguage: input.lang,
+    learningResourceType: "Game",
+    educationalUse: "practice",
+    educationalLevel: input.educationalLevel,
+    teaches: input.teaches,
+    isAccessibleForFree: true,
+    provider: buildProvider(),
+    audience: {
+      "@type": "EducationalAudience",
+      educationalRole: "student",
+    },
+    mainEntity: { "@id": applicationId },
+  };
+  if (input.typicalAgeRange) learningResource.typicalAgeRange = input.typicalAgeRange;
+  if (input.about) learningResource.about = input.about;
+  if (course) learningResource.isPartOf = course;
+
+  const application: SchemaNode = {
+    "@type": "SoftwareApplication",
+    "@id": applicationId,
+    name: input.name,
+    description: input.description,
+    url,
+    inLanguage: input.lang,
+    applicationCategory: "EducationalApplication",
+    operatingSystem: "Web",
+    browserRequirements: "Requires JavaScript",
+    isAccessibleForFree: true,
+    offers: {
+      "@type": "Offer",
+      price: "0",
+      priceCurrency: "EUR",
+    },
+    provider: buildProvider(),
+    isPartOf: { "@id": resourceId },
+  };
+
+  return {
+    "@context": "https://schema.org",
+    "@graph": [learningResource, application],
+  };
+}
 export function buildBreadcrumbSchema(items: BreadcrumbItem[]): SchemaNode {
   return {
     "@context": "https://schema.org",

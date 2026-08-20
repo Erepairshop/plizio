@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import dynamic from "next/dynamic";
+import Link from "next/link";
 import { useRouter } from "next/navigation";
 import {
   ArrowLeft,
@@ -50,11 +51,11 @@ const SUBJECTS: SubjectDef[] = [
   { id: "informatika", icon: Cpu, color: "#2563EB", grades: [5, 6, 7, 8], label: { de: "Informatik", hu: "Informatika", ro: "Informatică", en: "Informatics" } },
 ];
 
-const COPY: Record<Lang, { title: string; subtitle: string; grade: string; choose: string; back: string; note: string }> = {
-  de: { title: "Visual Lab", subtitle: "Interaktive Lernspiele", grade: "Klasse wählen", choose: "Fach wählen", back: "Zurück", note: "Ohne Karten, direkt zum Lernspiel" },
-  hu: { title: "Visual Lab", subtitle: "Interaktív tanulós játékok", grade: "Válassz osztályt", choose: "Válassz tantárgyat", back: "Vissza", note: "Térképek nélkül, közvetlenül a tanulós játékokhoz" },
-  ro: { title: "Visual Lab", subtitle: "Jocuri educative interactive", grade: "Alege clasa", choose: "Alege materia", back: "Înapoi", note: "Fără hărți, direct la jocurile educative" },
-  en: { title: "Visual Lab", subtitle: "Interactive learning games", grade: "Choose grade", choose: "Choose subject", back: "Back", note: "No maps, straight to the learning games" },
+const COPY: Record<Lang, { title: string; subtitle: string; grade: string; choose: string; back: string; note: string; catalogue: string }> = {
+  de: { title: "Visual Lab", subtitle: "Interaktive Lernspiele", grade: "Klasse wählen", choose: "Fach wählen", back: "Zurück", note: "Ohne Karten, direkt zum Lernspiel", catalogue: "Alle Lernspiele entdecken" },
+  hu: { title: "Visual Lab", subtitle: "Interaktív tanulós játékok", grade: "Válassz osztályt", choose: "Válassz tantárgyat", back: "Vissza", note: "Térképek nélkül, közvetlenül a tanulós játékokhoz", catalogue: "Az összes tanulójáték" },
+  ro: { title: "Visual Lab", subtitle: "Jocuri educative interactive", grade: "Alege clasa", choose: "Alege materia", back: "Înapoi", note: "Fără hărți, direct la jocurile educative", catalogue: "Descoperă toate jocurile" },
+  en: { title: "Visual Lab", subtitle: "Interactive learning games", grade: "Choose grade", choose: "Choose subject", back: "Back", note: "No maps, straight to the learning games", catalogue: "Explore all learning games" },
 };
 
 const GRADE_KEY = "plizio:visual-lab:grade";
@@ -99,6 +100,9 @@ export default function VisualLabPage() {
             </div>
             <Microscope className="text-[#b4502a]" size={30} aria-hidden />
           </div>
+          <Link href={`/${l}/visual-lab/`} className="mt-4 inline-flex min-h-11 items-center rounded-xl border border-[#d5c8b6] bg-white/70 px-4 text-sm font-black text-[#7a3f28] hover:border-[#b4502a]">
+            {t.catalogue}
+          </Link>
         </div>
       </header>
 
