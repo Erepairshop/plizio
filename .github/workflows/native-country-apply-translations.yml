@@ -17,7 +17,7 @@ on:
         type: choice
         required: true
         default: "full"
-        options: [full, missing-descadv, live-fallback-descadv, missing-citytips-structured]
+        options: [full, missing-descadv, live-fallback-descadv, live-fallback-sights, missing-citytips-structured]
       write:
         description: "Write files (false = dry-run)"
         type: choice

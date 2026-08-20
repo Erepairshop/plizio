@@ -220,6 +220,105 @@ def collect_live_fallback_descadv(
             + ", ".join(missing_source[:10])
         )
     return len(records)
+
+def normalized_sight_name(value: str) -> str:
+    return re.sub(r"[^\w]", "", str(value or "").casefold())
+
+
+def extract_sight_cards(source_html: str) -> list[dict[str, str]]:
+    section = re.search(r'<section class="plz-sights">.*?</section>', source_html, re.DOTALL)
+    if not section:
+        return []
+    cards: list[dict[str, str]] = []
+    for article in re.findall(r'<article class="plz-sight".*?</article>', section.group(0), re.DOTALL):
+        heading = re.search(r'<h3 itemprop="name">(.*?)</h3>', article, re.DOTALL)
+        description = re.search(r'<div itemprop="description"><p>(.*?)</p></div>', article, re.DOTALL)
+        heading_html = heading.group(1) if heading else ""
+        name_html = re.split(
+            r'<a class="plz-sight-sv|<span class="plz-sight-cat"', heading_html, maxsplit=1,
+        )[0]
+        cards.append({
+            "name": re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", name_html))).strip(),
+            "desc": extract_lead(
+                f'<p class="poi-lead-paragraph">{description.group(1)}</p>'
+            ) if description else "",
+        })
+    return cards
+
+
+def collect_live_fallback_sights(
+    repo: Path,
+    data: Path,
+    ids: set[str],
+    sidecar_root: Path,
+    records: list,
+    targets: dict,
+) -> int:
+    """Queue only sight descriptions that still equal their German live card."""
+    url_index = load_json(data / "_poi-url-index.json", {})
+    reverse_de = {
+        normalized_url_path((urls or {}).get("de")): poi_id
+        for poi_id, urls in url_index.items()
+        if poi_id in ids and normalized_url_path((urls or {}).get("de"))
+    }
+    native_pages: dict[str, Path] = {}
+    language_root = repo / LANGUAGE
+    if not language_root.is_dir():
+        raise SystemExit(f"Rendered language root is missing: {language_root}")
+    for native_page in sorted(language_root.glob("**/index.html")):
+        native_html = native_page.read_text(encoding="utf-8")
+        poi_id = reverse_de.get(normalized_url_path(alternate_url(native_html, "de")))
+        if poi_id:
+            native_pages[poi_id] = native_page
+
+    for poi_id in sorted(native_pages):
+        native_html = native_pages[poi_id].read_text(encoding="utf-8")
+        de_page = page_for_url(repo, alternate_url(native_html, "de"))
+        en_page = page_for_url(repo, str((url_index.get(poi_id) or {}).get("en") or ""))
+        if not de_page.exists() or not en_page.exists():
+            continue
+        native_cards = extract_sight_cards(native_html)
+        de_cards = extract_sight_cards(de_page.read_text(encoding="utf-8"))
+        en_cards = extract_sight_cards(en_page.read_text(encoding="utf-8"))
+        native_by_name = {
+            normalized_sight_name(card["name"]): card for card in native_cards if card["name"]
+        }
+        de_by_name = {
+            normalized_sight_name(card["name"]): card for card in de_cards if card["name"]
+        }
+        sidecar = load_json(sidecar_root / f"{poi_id}.json", {})
+        existing = sidecar.get("sights") if isinstance(sidecar.get("sights"), list) else []
+        existing_by_name = {
+            normalized_sight_name(item.get("sourceName")): item
+            for item in existing
+            if isinstance(item, dict) and item.get("sourceName")
+        }
+        for index, english_card in enumerate(en_cards):
+            source_name = english_card["name"]
+            key_name = normalized_sight_name(source_name)
+            native_card = native_by_name.get(key_name)
+            de_card = de_by_name.get(key_name)
+            source_text = english_card["desc"]
+            if not source_text or not native_card or not de_card:
+                continue
+            if native_card["desc"] != de_card["desc"] or not de_card["desc"]:
+                continue
+            current = existing_by_name.get(key_name)
+            if current is None and index < len(existing):
+                current = existing[index]
+            if isinstance(current, dict) and str(current.get("desc") or "").strip():
+                continue
+            record_key = f"core::{poi_id}::sights::{index}::desc"
+            records.append({"key": record_key, "text": source_text})
+            targets[record_key] = {
+                "kind": "core",
+                "poi": poi_id,
+                "field": "sights",
+                "index": index,
+                "part": "desc",
+                "sourceName": source_name,
+            }
+    return len(records)
 def layer_key(layer: str, poi_id: str, relative: str, path: list, index=None) -> str:
     raw = json.dumps([layer, poi_id, relative, path, index], ensure_ascii=False, separators=(",", ":"))
     return f"{layer}::{poi_id}::{hashlib.sha1(raw.encode()).hexdigest()[:16]}"
@@ -404,11 +503,12 @@ def main() -> int:
     parser.add_argument("--repo", type=Path, default=Path.cwd())
     parser.add_argument("--output-dir", type=Path, required=True)
     parser.add_argument("--language", required=True, help="Target sidecar language key, e.g. pt")
+    parser.add_argument("--sidecar-root", type=Path, default=None)
     parser.add_argument("--country-slug", required=True, help="Country slug in English URLs, e.g. portugal")
     parser.add_argument("--pois-file", required=True, help="POI source file under data/pois, e.g. PT.json")
     parser.add_argument(
         "--mode",
-        choices=("full", "missing-descadv", "live-fallback-descadv", "missing-citytips-structured"),
+        choices=("full", "missing-descadv", "live-fallback-descadv", "live-fallback-sights", "missing-citytips-structured"),
         default="full",
     )
     parser.add_argument(
@@ -442,7 +542,12 @@ def main() -> int:
                 f"'{LANGUAGE}'. Drop --only-rendered to bootstrap a new language."
             )
     records, targets = [], {}
-    if args.mode == "live-fallback-descadv":
+    sidecar_root = args.sidecar_root.resolve() if args.sidecar_root else data / "i18n" / LANGUAGE
+    if args.mode == "live-fallback-sights":
+        collect_live_fallback_sights(repo, data, ids, sidecar_root, records, targets)
+        file_counts = {"liveFallbackSightDescriptions": len(records)}
+        batch_prefix = f"{LANGUAGE}livefallback-sights-v1"
+    elif args.mode == "live-fallback-descadv":
         collect_live_fallback_descadv(repo, data, ids, records, targets)
         file_counts = {"liveFallbackDescAdv": len(records)}
         batch_prefix = f"{LANGUAGE}livefallback-v1"

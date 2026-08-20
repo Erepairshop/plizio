@@ -17,7 +17,7 @@ on:
         type: choice
         required: true
         default: "full"
-        options: [full, missing-descadv, live-fallback-descadv, missing-citytips-structured]
+        options: [full, missing-descadv, live-fallback-descadv, live-fallback-sights, missing-citytips-structured]
       limit:
         description: "Pending batches to translate; 0 means all"
         required: true
@@ -74,6 +74,7 @@ jobs:
             --country-slug "${{ steps.lang.outputs.slug }}" \
             --pois-file "$POIS" \
             --mode "${{ inputs.mode }}" \
+            --sidecar-root "$GITHUB_WORKSPACE/public/data/i18n/${{ inputs.language }}" \
             --only-rendered
           cat "$WORK/summary.json"
 

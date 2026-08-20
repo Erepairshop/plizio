@@ -710,14 +710,25 @@ for (const [lang, countryId] of NATIVE_LANGS) {
     if (!Array.isArray(native.sights) || !native.sights.length) continue;
     const p = poi as unknown as { sights?: Record<string, any[]> };
     const source = p.sights?.en || p.sights?.de || [];
-    const byName = new Map(source.map((s: any) => [norm(s?.name), s]));
+    const current = p.sights?.[lang] || source;
+    const translatedByName = new Map(
+      native.sights
+        .filter((item) => item?.sourceName)
+        .map((item) => [norm(item.sourceName), item]),
+    );
     p.sights ||= {};
-    p.sights[lang] = native.sights.map((translated, index) => {
-      const base = byName.get(norm(translated.sourceName)) || source[index] || {};
+    // A targeted sidecar may contain only the cards that still fell back to
+    // German. Build the full native list from the cleaned source/current arrays
+    // and overlay just those translations, otherwise partial sidecars would
+    // silently remove every already-localized card after the last translated one.
+    p.sights[lang] = source.map((base: any, index: number) => {
+      const local = current[index] || base || {};
+      const translated = translatedByName.get(norm(base?.name)) || {};
       return {
         ...base,
-        name: translated.name || base.name || translated.sourceName || "",
-        text: translated.desc || base.text || "",
+        ...local,
+        name: translated.name || local.name || base.name || translated.sourceName || "",
+        text: translated.desc || local.text || base.text || "",
       };
     });
     merged++;
