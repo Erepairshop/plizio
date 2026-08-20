@@ -124,6 +124,36 @@ def load_completed(path: Path) -> set[str]:
     return completed
 
 
+def quarantine_invalid_rows(path: Path) -> int:
+    if not path.exists():
+        return 0
+    valid_lines: list[str] = []
+    invalid_lines: list[str] = []
+    for line in path.read_text(encoding="utf-8", errors="replace").splitlines():
+        if not line.strip():
+            continue
+        try:
+            json.loads(line)
+            valid_lines.append(line)
+        except json.JSONDecodeError:
+            invalid_lines.append(line)
+    if not invalid_lines:
+        return 0
+
+    quarantine = path.with_suffix(path.suffix + ".invalid")
+    with quarantine.open("a", encoding="utf-8") as target:
+        for line in invalid_lines:
+            target.write(line + "\n")
+
+    temporary = path.with_suffix(path.suffix + ".tmp")
+    temporary.write_text(
+        "".join(line + "\n" for line in valid_lines),
+        encoding="utf-8",
+    )
+    temporary.replace(path)
+    return len(invalid_lines)
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--queue", type=Path, required=True)
@@ -142,6 +172,12 @@ def main() -> int:
         raise SystemExit("Azure OpenAI environment variables are required")
 
     queue = json.loads(args.queue.read_text(encoding="utf-8"))
+    quarantined = quarantine_invalid_rows(args.output)
+    if quarantined:
+        print(json.dumps({
+            "quarantined_invalid_rows": quarantined,
+            "quarantine": str(args.output.with_suffix(args.output.suffix + ".invalid")),
+        }), flush=True)
     completed = load_completed(args.output)
     pending = [task for task in queue if task["id"] not in completed]
     selected = pending if args.limit == 0 else pending[:args.limit]
