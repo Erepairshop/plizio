@@ -1,5 +1,5 @@
 import AI_K7_JSON from "./aiCurriculum7_data.json";
-import { pickDiverse } from "./testDiversity";
+import { selectDiverseAIQuestions } from "./aiQuestionDiversity";
 import type { KemiaTheme, KemiaQuestion } from "./kemiaCurriculumShared";
 
 type MultiLang = { de: string; hu: string; ro: string; en: string };
@@ -239,5 +239,5 @@ export function getAIK7Questions(subtopicIds: string[], count = 10, lang = "hu")
     const j = Math.floor(Math.random() * (i + 1));
     [pool[i], pool[j]] = [pool[j], pool[i]];
   }
-  return pickDiverse(pool, count);
+  return selectDiverseAIQuestions(pool, count);
 }

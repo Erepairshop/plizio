@@ -7,6 +7,8 @@ import { AI_K7_CURRICULUM, getAIK7Questions } from "@/lib/aiCurriculum7";
 import { AI_K8_CURRICULUM, getAIK8Questions } from "@/lib/aiCurriculum8";
 import { asCurriculumThemes } from "@/lib/kemiaCurriculumShared";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
+import { getLocalizedAIVisualTypes } from "@/lib/aiVisualGenerators";
+import { useLang } from "@/components/LanguageProvider";
 
 const AI_CHARS = ["🤖", "🧠", "💬", "⚖️", "🛠️", "🚀", "📊", "🔒", "💡", "📡", "🔋"];
 const AI_COLORS = [
@@ -17,7 +19,17 @@ const AI_COLORS = [
   "rgba(16,185,129,0.10)",
 ];
 
-const AI_CONFIG: LanguageTestEngineConfig = {
+const AI_ENGLISH_COUNTRIES=new Set(["US","GB","AU","CA","IE","NZ"]);
+const AI_GERMAN_COUNTRIES=new Set(["DE","AT","CH"]);
+const AI_COUNTRIES_BY_LANG:Record<string,LanguageTestEngineConfig["countries"]>={
+  de:[{code:"DE",flag:"🇩🇪",label:"Deutschland",sub:"Note 1-6"},{code:"AT",flag:"🇦🇹",label:"Österreich",sub:"Note 1-5"},{code:"CH",flag:"🇨🇭",label:"Schweiz",sub:"Note 6-1"}],
+  hu:[{code:"HU",flag:"🇭🇺",label:"Magyarország",sub:"1-5 osztályzat"}],
+  ro:[{code:"RO",flag:"🇷🇴",label:"România",sub:"Note 1-10"}],
+  en:[{code:"US",flag:"🌐",label:"English curriculum",sub:"A / B / C / D / F"}],
+};
+function resolveAIQuestionLanguage(countryCode:string|undefined,fallback:string):string{const code=(countryCode||"").toUpperCase();if(code==="HU")return"hu";if(code==="RO")return"ro";if(AI_ENGLISH_COUNTRIES.has(code))return"en";if(AI_GERMAN_COUNTRIES.has(code))return"de";return fallback;}
+function createAIConfig(lang:string):LanguageTestEngineConfig {
+const config: LanguageTestEngineConfig = {
   gameId: "aitest",
   title: { de: "KI TEST", hu: "AI TESZT", ro: "TEST AI", en: "AI TEST" },
   icon: "🤖",
@@ -98,7 +110,21 @@ const AI_CONFIG: LanguageTestEngineConfig = {
     date: { de: "Datum", hu: "Dátum", ro: "Data", en: "Date" },
   },
 };
+config.countries=AI_COUNTRIES_BY_LANG[lang]??AI_COUNTRIES_BY_LANG.de;
+config.ttsLang=({de:"de-DE",hu:"hu-HU",ro:"ro-RO",en:"en-US"}[lang]??"de-DE");
+config.dateLocale=({de:"de-DE",hu:"hu-HU",ro:"ro-RO",en:"en-US"}[lang]??"de-DE");
+config.visualTypes=getLocalizedAIVisualTypes(lang);
+config.getQuestions=(grade,subtopicIds,count,countryCode)=>{
+  const questionLang=resolveAIQuestionLanguage(countryCode,lang);
+  if(grade===5)return getAIK5Questions(subtopicIds,count,questionLang);
+  if(grade===6)return getAIK6Questions(subtopicIds,count,questionLang);
+  if(grade===7)return getAIK7Questions(subtopicIds,count,questionLang);
+  return getAIK8Questions(subtopicIds,count,questionLang);
+};
+return config;
+}
 
 export default function AITestPage() {
-  return <LanguageTestEngine config={AI_CONFIG} />;
+  const {lang}=useLang();
+  return <LanguageTestEngine config={createAIConfig(lang)} />;
 }
