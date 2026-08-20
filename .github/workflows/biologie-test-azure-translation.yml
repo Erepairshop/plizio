@@ -28,6 +28,13 @@ jobs:
       - name: Translate Hungarian
         run: bash scripts/test-translation/run-biologie-language.sh hu Hungarian
 
+      - name: Repair unchanged Hungarian strings
+        run: >-
+          python3 scripts/test-translation/run-azure-biologie-translation.py
+          --queue translation-work/biologie-test/repair-hu/queue.json
+          --output /home/erik/plizio-translations/biologie-test-20260820/repair-hu.jsonl
+          --language-name Hungarian
+
       - name: Translate Romanian
         run: bash scripts/test-translation/run-biologie-language.sh ro Romanian
 
@@ -49,6 +56,7 @@ jobs:
           path: |
             translation-work/biologie-test/source-manifest.json
             /home/erik/plizio-translations/biologie-test-20260820/result-hu.jsonl
+            /home/erik/plizio-translations/biologie-test-20260820/repair-hu.jsonl
             /home/erik/plizio-translations/biologie-test-20260820/result-ro.jsonl
             /home/erik/plizio-translations/biologie-test-20260820/result-en.jsonl
           retention-days: 7

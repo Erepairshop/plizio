@@ -19,7 +19,9 @@ The strings belong to grade 5-8 test questions, answer choices, short answers an
 Translate faithfully and use standard age-appropriate school biology terminology. Do not add, remove or
 simplify scientific facts. Preserve Latin species names, gene symbols, chromosome notation, numbers,
 units, percentages, mathematical notation and placeholders exactly. Proper names may use their established
-target-language form. Return only one JSON object with this schema:
+target-language form. Never proofread, correct or rewrite a German sentence in German. Every German phrase
+must become {language_name}; unchanged output is allowed only for symbols, Latin names and genuinely identical
+standalone international terms. Return only one JSON object with this schema:
 {{"translations":{{"input_key":"translated text"}}}}. Every input key must occur exactly once; no extra
 key is allowed. Do not add commentary or markdown. Use correct UTF-8 spelling and punctuation."""
 
