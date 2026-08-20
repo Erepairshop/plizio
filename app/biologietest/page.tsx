@@ -1,5 +1,6 @@
 "use client";
 
+import { useMemo } from "react";
 import { LanguageTestEngine, calculateCountryAwareMark } from "@/app/deutschtest/page";
 import { K5_CURRICULUM, getK5Questions } from "@/lib/biologieCurriculum5";
 import { K6_CURRICULUM, getK6Questions } from "@/lib/biologieCurriculum6";
@@ -11,7 +12,7 @@ import "@/lib/biologieGenerators6";
 import "@/lib/biologieGenerators7";
 import "@/lib/biologieGenerators8";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
-import { BIOLOGIE_VISUAL_TYPES } from "@/lib/biologieVisualGenerators";
+import { BIOLOGIE_VISUAL_TYPES, getLocalizedBiologieVisualTypes } from "@/lib/biologieVisualGenerators";
 import { useLang } from "@/components/LanguageProvider";
 
 const BIO_CHARS = ["🧬", "🔬", "🌿", "🐾", "🦋", "🐟", "🌱", "🫀", "🧠", "🦴", "🌳", "🐝", "🦎", "🐸", "🌺", "🧪"];
@@ -96,5 +97,17 @@ const BIO_CONFIG: LanguageTestEngineConfig = {
 export default function BiologieTestPage() {
   const { lang } = useLang();
   const locale = { de: "de-DE", hu: "hu-HU", ro: "ro-RO", en: "en-US" }[lang] ?? "de-DE";
-  return <LanguageTestEngine config={{ ...BIO_CONFIG, ttsLang: locale, dateLocale: locale }} />;
+  const config = useMemo(() => ({
+    ...BIO_CONFIG,
+    ttsLang: locale,
+    dateLocale: locale,
+    visualTypes: getLocalizedBiologieVisualTypes(lang),
+    getQuestions: (grade: number, subtopicIds: string[], count: number) => {
+      if (grade === 5) return getK5Questions(subtopicIds, count, lang);
+      if (grade === 6) return getK6Questions(subtopicIds, count, lang);
+      if (grade === 7) return getK7Questions(subtopicIds, count, lang);
+      return getK8Questions(subtopicIds, count, lang);
+    },
+  }), [lang, locale]);
+  return <LanguageTestEngine config={config} />;
 }

@@ -135,11 +135,11 @@ const PLANT_ORGANS = [
 ];
 
 const PHOTOSYNTHESIS_COMPONENTS = [
-  { input: "CO2", role: "Gas", source: "Luft", formula: "Kohlendioxid" },
-  { input: "Wasser", role: "Nährstoff", source: "Wurzeln", symbol: "H₂O" },
-  { input: "Licht", role: "Energie", source: "Sonne", essential: "notwendig" },
-  { output: "Sauerstoff", role: "Abfallprodukt", uses: "Atmung", breathe: "O₂" },
-  { output: "Zucker", role: "Energie", uses: "Wachstum", energy: "Glukose" },
+  { input: "CO2", role: "Ausgangsstoff", source: "Luft", formula: "Kohlendioxid" },
+  { input: "Wasser", role: "Ausgangsstoff", source: "Wurzeln", symbol: "H₂O" },
+  { input: "Licht", role: "Energiequelle", source: "Sonne", essential: "notwendig" },
+  { output: "Sauerstoff", role: "Produkt", uses: "Atmung", breathe: "O₂" },
+  { output: "Zucker", role: "energiereiches Produkt", uses: "Wachstum", energy: "Glukose" },
 ];
 
 const FLOWER_PARTS = [
@@ -548,8 +548,8 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
     const rng = seed ? mulberry32(seed) : Math.random;
     const questions: CurriculumQuestion[] = [];
     const templates = [
-      (c: typeof PHOTOSYNTHESIS_COMPONENTS[0]) => ({
-        q: `Was ist die Rolle von ${c.input || ""}${(c as any).output ? c.input : ""}?`,
+      (c: (typeof PHOTOSYNTHESIS_COMPONENTS)[number]) => ({
+        q: "Welche Rolle hat " + ("input" in c ? c.input : c.output) + " bei der Fotosynthese?",
         a: c.role,
         w: ["Katalysator", "Strukturelement", "Farbstoff"]
       }),

@@ -1,0 +1,21 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "skipLibCheck": true,
+    "incremental": false
+  },
+  "include": [
+    "app/biologietest/page.tsx",
+    "app/deutschtest/page.tsx",
+    "components/biologie-visual/**/*.tsx",
+    "components/testpapier-visual/**/*.tsx",
+    "lib/biologieCurriculum*.ts",
+    "lib/biologieGenerators*.ts",
+    "lib/biologieVisualContent.ts",
+    "lib/biologieVisualGenerators.ts",
+    "lib/languageTestTypes.ts",
+    "next-env.d.ts"
+  ],
+  "exclude": ["node_modules", ".next", "out"]
+}
