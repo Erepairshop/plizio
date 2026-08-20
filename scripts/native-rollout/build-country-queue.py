@@ -9,6 +9,7 @@ import html
 import json
 import re
 from pathlib import Path
+from urllib.parse import urlsplit
 
 
 LANG_KEYS = {"de", "hu", "ro", "en", "fr", "tr", "hr", "it", "es", "pt", "pl", "nl"}
@@ -141,6 +142,84 @@ def collect_missing_descadv(repo: Path, data: Path, ids: set[str], records: list
     return len(records)
 
 
+
+def normalized_url_path(value: str) -> str:
+    path = urlsplit(str(value or "")).path.strip("/")
+    return f"/{path}/" if path else ""
+
+
+def extract_lead(source_html: str) -> str:
+    match = re.search(r'<p class="poi-lead-paragraph">(.*?)</p>', source_html, re.DOTALL)
+    if not match:
+        return ""
+    text = html.unescape(re.sub(r"<[^>]+>", " ", match.group(1)))
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def alternate_url(source_html: str, language: str) -> str:
+    for match in re.finditer(r"<link\b[^>]*>", source_html, re.IGNORECASE):
+        tag = match.group(0)
+        hreflang = re.search(r'hreflang=["\']([^"\']+)["\']', tag, re.IGNORECASE)
+        href = re.search(r'href=["\']([^"\']+)["\']', tag, re.IGNORECASE)
+        if hreflang and href and hreflang.group(1).lower() == language:
+            return html.unescape(href.group(1))
+    return ""
+
+
+def page_for_url(repo: Path, value: str) -> Path:
+    relative = normalized_url_path(value).strip("/")
+    return repo / relative / "index.html"
+
+
+def collect_live_fallback_descadv(
+    repo: Path, data: Path, ids: set[str], records: list, targets: dict,
+) -> int:
+    """Queue only native leads that are byte-for-byte German fallbacks live."""
+    url_index = load_json(data / "_poi-url-index.json", {})
+    reverse_de = {
+        normalized_url_path((urls or {}).get("de")): poi_id
+        for poi_id, urls in url_index.items()
+        if poi_id in ids and normalized_url_path((urls or {}).get("de"))
+    }
+    matched: dict[str, Path] = {}
+    missing_source: list[str] = []
+    language_root = repo / LANGUAGE
+    if not language_root.is_dir():
+        raise SystemExit(f"Rendered language root is missing: {language_root}")
+
+    for native_page in sorted(language_root.glob("**/index.html")):
+        native_html = native_page.read_text(encoding="utf-8")
+        native_lead = extract_lead(native_html)
+        de_url = alternate_url(native_html, "de")
+        poi_id = reverse_de.get(normalized_url_path(de_url))
+        if not native_lead or not poi_id:
+            continue
+        de_page = page_for_url(repo, de_url)
+        if not de_page.exists():
+            continue
+        de_lead = extract_lead(de_page.read_text(encoding="utf-8"))
+        if native_lead == de_lead and de_lead:
+            matched[poi_id] = native_page
+
+    for poi_id in sorted(matched):
+        en_url = str((url_index.get(poi_id) or {}).get("en") or "")
+        en_page = page_for_url(repo, en_url)
+        if not en_url or not en_page.exists():
+            missing_source.append(poi_id)
+            continue
+        source_text = extract_lead(en_page.read_text(encoding="utf-8"))
+        if not source_text:
+            missing_source.append(poi_id)
+            continue
+        add(records, targets, f"core::{poi_id}::descAdv", source_text,
+            {"kind": "core", "poi": poi_id, "field": "descAdv"})
+
+    if missing_source:
+        raise SystemExit(
+            f"Missing English lead paragraph for {len(missing_source)} live fallback POIs: "
+            + ", ".join(missing_source[:10])
+        )
+    return len(records)
 def layer_key(layer: str, poi_id: str, relative: str, path: list, index=None) -> str:
     raw = json.dumps([layer, poi_id, relative, path, index], ensure_ascii=False, separators=(",", ":"))
     return f"{layer}::{poi_id}::{hashlib.sha1(raw.encode()).hexdigest()[:16]}"
@@ -329,7 +408,7 @@ def main() -> int:
     parser.add_argument("--pois-file", required=True, help="POI source file under data/pois, e.g. PT.json")
     parser.add_argument(
         "--mode",
-        choices=("full", "missing-descadv", "missing-citytips-structured"),
+        choices=("full", "missing-descadv", "live-fallback-descadv", "missing-citytips-structured"),
         default="full",
     )
     parser.add_argument(
@@ -363,7 +442,11 @@ def main() -> int:
                 f"'{LANGUAGE}'. Drop --only-rendered to bootstrap a new language."
             )
     records, targets = [], {}
-    if args.mode == "missing-descadv":
+    if args.mode == "live-fallback-descadv":
+        collect_live_fallback_descadv(repo, data, ids, records, targets)
+        file_counts = {"liveFallbackDescAdv": len(records)}
+        batch_prefix = f"{LANGUAGE}livefallback-v1"
+    elif args.mode == "missing-descadv":
         collect_missing_descadv(repo, data, ids, records, targets)
         file_counts = {"descAdv": len(records)}
         batch_prefix = f"{LANGUAGE}descadv-v1"

@@ -11,13 +11,13 @@ on:
         description: "Native language key"
         type: choice
         required: true
-        options: [fr, tr, hr, pl, nl]
+        options: [it, fr, tr, hr, pl, nl]
       mode:
         description: "Which completed queue to apply"
         type: choice
         required: true
         default: "full"
-        options: [full, missing-descadv, missing-citytips-structured]
+        options: [full, missing-descadv, live-fallback-descadv, missing-citytips-structured]
       write:
         description: "Write files (false = dry-run)"
         type: choice
