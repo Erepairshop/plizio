@@ -775,9 +775,9 @@ function generateTabelle(grade: number, cc: string): SchoolTaskBlock {
 
 // ─── VISUAL TASK GENERATORS ──────────────────────────────────────────────────
 
-const VISUAL_TOPIC_KEYS = new Set([
-  'zeichnen', 'messen', 'uhrzeit', 'grid_area', 'place_value',
-  'fraction_pizza', 'symmetry', 'sequence', 'timeline',
+export const MATH_VISUAL_TOPIC_KEYS = [
+  'zeichnen', 'drawing', 'messen', 'measuring', 'uhrzeit', 'clock_reading', 'grid_area', 'place_value',
+  'fraction_pizza', 'symmetry', 'symmetry_game', 'sequence', 'timeline',
   'number_line', 'angle', 'circle_draw', 'money',
   'g1_clock', 'g1_number_line', 'g1_place_value', 'g1_grid_count',
   'g1_sequence', 'g1_coins', 'g1_timeline', 'g1_fraction',
@@ -809,7 +809,9 @@ const VISUAL_TOPIC_KEYS = new Set([
   // Grade 8 visual topics
   'g8_func_visual', 'g8_prob_tree_visual', 'g8_sqrt_visual', 'g8_sys_visual',
   'g8_trans_visual', 'g8_stat_visual', 'g8_cyl_surface_visual', 'g8_ineq_visual',
-]);
+] as const;
+
+const VISUAL_TOPIC_KEYS = new Set<string>(MATH_VISUAL_TOPIC_KEYS);
 
 export function isVisualTopicKey(key: string): boolean {
   return VISUAL_TOPIC_KEYS.has(key);
@@ -819,16 +821,19 @@ export function isVisualTopicKey(key: string): boolean {
 function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): SubQuestion {
   const sfx = `${blockIdx}_${subIdx}`;
   switch (topicKey) {
+    case 'drawing':
     case 'zeichnen': {
       const targetLength = [3, 4, 5, 6, 7, 8, 9, 10][rnd(0, 7)];
       return { id: `vis_z_${sfx}`, answer: targetLength, points: 1, visualType: 'zeichnen',
         visualData: { type: 'zeichnen', params: { targetLength, unit: 'cm' } } };
     }
+    case 'measuring':
     case 'messen': {
       const targetLength = [3, 4, 5, 6, 7, 8, 9, 10, 11, 12][rnd(0, 9)];
       return { id: `vis_m_${sfx}`, answer: targetLength, points: 1, visualType: 'messen',
         visualData: { type: 'messen', params: { targetLength, unit: 'cm' } } };
     }
+    case 'clock_reading':
     case 'uhrzeit': {
       const targetHour = rnd(1, 12);
       const targetMinute = [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55][rnd(0, 11)];
@@ -853,6 +858,7 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
       return { id: `vis_fp_${sfx}`, answer: `${numerator}/${denominator}`, points: 1,
         visualType: 'fraction-pizza', visualData: { type: 'fraction-pizza', params: { numerator, denominator, operation: 'identify' } } };
     }
+    case 'symmetry_game':
     case 'symmetry': {
       const gridSize = [4, 6][rnd(0, 1)]; const pattern: number[][] = [];
       for (let r = 0; r < gridSize; r++) {
@@ -1625,10 +1631,12 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
 }
 
 // Map topicKey → block type
-const VISUAL_TOPIC_TO_TYPE: Record<string, TaskType> = {
-  zeichnen: 'visual_zeichnen', messen: 'visual_messen', uhrzeit: 'visual_uhrzeit',
+export const MATH_VISUAL_TOPIC_TO_TYPE: Readonly<Record<string, TaskType>> = {
+  zeichnen: 'visual_zeichnen', drawing: 'visual_zeichnen',
+  messen: 'visual_messen', measuring: 'visual_messen',
+  uhrzeit: 'visual_uhrzeit', clock_reading: 'visual_uhrzeit',
   grid_area: 'visual_grid_area', place_value: 'visual_place_value', fraction_pizza: 'visual_fraction_pizza',
-  symmetry: 'visual_symmetry', sequence: 'visual_sequence', timeline: 'visual_timeline',
+  symmetry: 'visual_symmetry', symmetry_game: 'visual_symmetry', sequence: 'visual_sequence', timeline: 'visual_timeline',
   number_line: 'visual_number_line', angle: 'visual_angle', circle_draw: 'visual_circle_draw', money: 'visual_money',
   g1_clock: 'visual_g1_clock', g1_number_line: 'visual_g1_number_line', g1_place_value: 'visual_g1_place_value',
   g1_grid_count: 'visual_g1_grid_count', g1_sequence: 'visual_g1_sequence', g1_coins: 'visual_g1_coins',
@@ -1713,18 +1721,18 @@ function generateVisualBlock(
   topicName: string,
   blockIdx: number,
 ): SchoolTaskBlock {
-  const SUB_COUNT = 3;
-  const subs: SubQuestion[] = [];
-  for (let i = 0; i < SUB_COUNT; i++) {
-    subs.push(generateVisualSub(topicKey, blockIdx, i));
-  }
+  // One visual interaction is one task point. The old implementation created
+  // three full interactions per block, turning a nominal 10-point visual test
+  // into a 30-point test and repeating the same instruction three times.
+  const sub = generateVisualSub(topicKey, blockIdx, 0);
+  const subs: SubQuestion[] = [{ ...sub, points: 1 }];
   // data = first sub's params (backwards compat for SchoolTaskBlock rendering)
   const firstParams = subs[0].visualData?.params ?? {};
   return {
     id: `block_visual_${topicKey}_${blockIdx}`,
-    type: VISUAL_TOPIC_TO_TYPE[topicKey] || 'visual_zeichnen',
+    type: MATH_VISUAL_TOPIC_TO_TYPE[topicKey] || 'visual_zeichnen',
     title: topicName,
-    totalPoints: SUB_COUNT,
+    totalPoints: 1,
     subQuestions: subs,
     data: firstParams as any,
   };
@@ -2051,8 +2059,15 @@ export function generateSchoolTest(
 
   if (effectiveTopics.length === 0) return [];
 
-  // Dynamic block count: 10 for up to 10 topics, +1 per extra topic beyond 10
-  const TOTAL_BLOCKS = Math.max(10, effectiveTopics.length);
+  const TOTAL_BLOCKS = 10;
+
+  // Keep every paper at ten points. When more topics are selected, sample
+  // evenly across the full selection instead of silently growing the test.
+  const testTopics = effectiveTopics.length <= TOTAL_BLOCKS
+    ? effectiveTopics
+    : Array.from({ length: TOTAL_BLOCKS }, (_, i) =>
+        effectiveTopics[Math.floor(i * effectiveTopics.length / TOTAL_BLOCKS)]
+      );
 
   // Derive global constraint from all selected topics.
   // Ha pl. a tanuló kiválasztotta az "összeadás 1-10-ig" témakört, akkor az összes
@@ -2064,7 +2079,7 @@ export function generateSchoolTest(
   // Visual topics (zeichnen, messen, uhrzeit) get their own visual block generator.
   const blocks: SchoolTaskBlock[] = [];
   for (let i = 0; i < TOTAL_BLOCKS; i++) {
-    const topic = effectiveTopics[i % effectiveTopics.length];
+    const topic = testTopics[i % testTopics.length];
 
     if (isVisualTopicKey(topic.key)) {
       // Visual block: 1 interaktív feladat = 1 pont
@@ -2075,7 +2090,7 @@ export function generateSchoolTest(
       const questionsInBlock = getItemsPerPointByKey(topic.key); // 2, 3, 4 or 5
       const block = generateAufgabenBlock(grade, cc, topic.key, topic.name, questionsInBlock, i, constraint ?? undefined);
       // Each block is worth exactly 1 point; questions share it equally
-      const pointPerQ = 1 / questionsInBlock;
+      const pointPerQ = block.subQuestions.length > 0 ? 1 / block.subQuestions.length : 0;
       const newSubQ = block.subQuestions.map(sq => ({ ...sq, points: pointPerQ }));
       blocks.push({ ...block, totalPoints: 1, subQuestions: newSubQ });
     }

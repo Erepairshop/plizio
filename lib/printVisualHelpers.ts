@@ -204,6 +204,68 @@ export function renderVisualPrintHtml(
   const p = params;
 
   switch (visualType) {
+    // Common Grade 2-4 visuals. These previously fell through to an empty
+    // question because visual sub-questions do not carry standalone text.
+    case 'zeichnen': {
+      const target = Number(p.targetLength) || 1;
+      const ticks = Array.from({ length: 13 }, (_, i) => `<line x1="${20 + i * 18.33}" y1="44" x2="${20 + i * 18.33}" y2="52" stroke="#64748b" stroke-width="1"/>`).join('');
+      return `<div style="text-align:center;"><svg width="260" height="72" viewBox="0 0 260 72"><line x1="20" y1="48" x2="240" y2="48" stroke="#cbd5e1" stroke-width="1" stroke-dasharray="4 4"/>${ticks}<text x="130" y="22" text-anchor="middle" font-size="11" fill="#334155">${target} ${p.unit || 'cm'}</text></svg></div>${blankLine(cc, p.unit || 'cm')}`;
+    }
+    case 'messen': {
+      const length = Math.max(50, Math.min(210, (Number(p.targetLength) || 5) * 16));
+      const x1 = (260 - length) / 2;
+      return `<div style="text-align:center;"><svg width="260" height="72" viewBox="0 0 260 72"><line x1="${x1}" y1="36" x2="${x1 + length}" y2="36" stroke="#0f172a" stroke-width="3" stroke-linecap="round"/><line x1="${x1}" y1="28" x2="${x1}" y2="44" stroke="#0f172a" stroke-width="1.5"/><line x1="${x1 + length}" y1="28" x2="${x1 + length}" y2="44" stroke="#0f172a" stroke-width="1.5"/></svg></div>${blankLine(cc, p.unit || 'cm')}`;
+    }
+    case 'uhrzeit':
+      return clockSvg(Number(p.targetHour) || 12, Number(p.targetMinute) || 0) + blankLine(cc);
+    case 'grid-area': {
+      const w = Math.max(1, Math.min(12, Number(p.width) || 1));
+      const h = Math.max(1, Math.min(8, Number(p.height) || 1));
+      const cell = Math.min(18, 144 / Math.max(w, h));
+      const width = w * cell, height = h * cell, x = (200 - width) / 2, y = (130 - height) / 2;
+      const grid = [...Array.from({ length: w + 1 }, (_, i) => `<line x1="${x + i * cell}" y1="${y}" x2="${x + i * cell}" y2="${y + height}" stroke="#94a3b8" stroke-width="${i === 0 || i === w ? 1.5 : 0.7}"/>`), ...Array.from({ length: h + 1 }, (_, i) => `<line x1="${x}" y1="${y + i * cell}" x2="${x + width}" y2="${y + i * cell}" stroke="#94a3b8" stroke-width="${i === 0 || i === h ? 1.5 : 0.7}"/>`)].join('');
+      return `<div style="text-align:center;"><svg width="200" height="130" viewBox="0 0 200 130">${grid}</svg></div>${blankLine(cc, p.mode === 'area' ? 'cm²' : 'cm')}`;
+    }
+    case 'place-value': {
+      const digits = String(p.number ?? '').padStart(Number(p.digits) || 1, '0').split('');
+      const cellW = 38, start = (240 - digits.length * cellW) / 2;
+      const cells = digits.map((digit, i) => `<rect x="${start + i * cellW}" y="22" width="34" height="38" rx="3" fill="none" stroke="#64748b" stroke-width="1.2"/><text x="${start + i * cellW + 17}" y="47" text-anchor="middle" font-size="18" font-weight="700" fill="#0f172a">${digit}</text>`).join('');
+      return `<div style="text-align:center;"><svg width="240" height="78" viewBox="0 0 240 78">${cells}</svg></div>${blankLine(cc)}`;
+    }
+    case 'fraction-pizza':
+      return `<div style="text-align:center;">${fractionCircleSvg(Number(p.numerator) || 0, Number(p.denominator) || 1, 50, 42)}</div>${blankLine(cc)}`;
+    case 'symmetry': {
+      const size = Math.max(2, Math.min(10, Number(p.gridSize) || 6));
+      const cell = 14, pattern = Array.isArray(p.pattern) ? p.pattern as number[][] : [];
+      const marks = pattern.flatMap((row, r) => row.map((value, c) => value ? `<circle cx="${20 + c * cell + cell / 2}" cy="${12 + r * cell + cell / 2}" r="4" fill="#64748b"/>` : '')).join('');
+      const lines = Array.from({ length: size + 1 }, (_, i) => `<line x1="${20 + i * cell}" y1="12" x2="${20 + i * cell}" y2="${12 + size * cell}" stroke="#cbd5e1" stroke-width="0.7"/><line x1="20" y1="${12 + i * cell}" x2="${20 + size * cell}" y2="${12 + i * cell}" stroke="#cbd5e1" stroke-width="0.7"/>`).join('');
+      const axis = 20 + size * cell / 2;
+      return `<div style="text-align:center;"><svg width="200" height="${32 + size * cell}" viewBox="0 0 200 ${32 + size * cell}">${lines}${marks}<line x1="${axis}" y1="8" x2="${axis}" y2="${18 + size * cell}" stroke="#0f172a" stroke-width="2" stroke-dasharray="4 3"/></svg></div>${blankLine(cc)}`;
+    }
+    case 'sequence': {
+      const display = (Array.isArray(p.sequence) ? p.sequence : []).map((value: unknown) => value == null ? '?' : String(value)).join('   ');
+      return `<div style="text-align:center;"><svg width="300" height="70" viewBox="0 0 300 70"><text x="150" y="40" text-anchor="middle" font-size="17" font-family="monospace" fill="#0f172a">${display}</text></svg></div>${blankLine(cc)}`;
+    }
+    case 'timeline': {
+      const start = Number(p.startHour) || 0, end = Number(p.endHour) || start + 1;
+      return `<div style="text-align:center;"><svg width="280" height="76" viewBox="0 0 280 76"><line x1="30" y1="38" x2="250" y2="38" stroke="#334155" stroke-width="2"/><circle cx="50" cy="38" r="5" fill="#334155"/><circle cx="230" cy="38" r="5" fill="#334155"/><text x="50" y="62" text-anchor="middle" font-size="11" fill="#334155">${start}:00</text><text x="230" y="62" text-anchor="middle" font-size="11" fill="#334155">${end}:00</text><text x="140" y="24" text-anchor="middle" font-size="13" fill="#0f172a">?</text></svg></div>${blankLine(cc)}`;
+    }
+    case 'number-line': {
+      const min = Number(p.min) || 0, max = Number(p.max) || min + 10;
+      return numberLineSvg(min, max, Math.max(1, (max - min) / 10), Number(p.target), true) + blankLine(cc);
+    }
+    case 'angle': {
+      const degrees = Number(p.targetAngle) || 45, rad = -degrees * Math.PI / 180;
+      return `<div style="text-align:center;"><svg width="150" height="100" viewBox="0 0 150 100"><line x1="30" y1="78" x2="126" y2="78" stroke="#334155" stroke-width="2"/><line x1="30" y1="78" x2="${30 + 82 * Math.cos(rad)}" y2="${78 + 82 * Math.sin(rad)}" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="4 3"/><text x="74" y="68" font-size="11" fill="#334155">${degrees}°</text></svg></div>${blankLine(cc, '°')}`;
+    }
+    case 'circle-draw':
+      return `<div style="text-align:center;"><svg width="170" height="105" viewBox="0 0 170 105"><line x1="25" y1="82" x2="145" y2="82" stroke="#cbd5e1" stroke-width="1" stroke-dasharray="4 4"/><circle cx="85" cy="54" r="3" fill="#334155"/><text x="85" y="22" text-anchor="middle" font-size="11" fill="#334155">r = ${Number(p.radius) || 1} cm</text></svg></div>${blankLine(cc)}`;
+    case 'money': {
+      const items = Array.isArray(p.items) ? p.items as Array<{ name: string; price: number }> : [];
+      const height = Math.max(78, 42 + items.length * 20);
+      const rows = items.map((item, i) => `<text x="35" y="${28 + i * 20}" font-size="11" fill="#334155">${item.name}</text><text x="210" y="${28 + i * 20}" text-anchor="end" font-size="11" fill="#334155">${Number(item.price).toFixed(2)} €</text>`).join('');
+      return `<div style="text-align:center;"><svg width="240" height="${height}" viewBox="0 0 240 ${height}">${rows}<line x1="30" y1="${35 + items.length * 20}" x2="215" y2="${35 + items.length * 20}" stroke="#64748b" stroke-width="1"/><text x="210" y="${52 + items.length * 20}" text-anchor="end" font-size="11" fill="#0f172a">${p.mode === 'change' ? `${Number(p.budget).toFixed(2)} € − ?` : '?'}</text></svg></div>${blankLine(cc, '€')}`;
+    }
     // ─── Grade 1 ─────────────────────────────────────────────────────────
     case 'g1-clock': {
       return clockSvg(p.hour, p.minute) + blankLine(cc);
