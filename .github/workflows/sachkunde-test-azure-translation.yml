@@ -1,0 +1,52 @@
+name: Sachkunde Test Azure Translation
+
+on:
+  push:
+    branches:
+      - codex/sachkunde-test-route-20260820
+    paths:
+      - ".github/workflows/sachkunde-test-azure-translation.yml"
+      - "scripts/test-translation/*sachkunde*"
+      - "translation-work/sachkunde-test/**"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: sachkunde-test-azure-translation
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: [self-hosted, vps-plizio]
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Translate Hungarian
+        run: bash scripts/test-translation/run-sachkunde-language.sh hu Hungarian
+
+      - name: Translate Romanian
+        run: bash scripts/test-translation/run-sachkunde-language.sh ro Romanian
+
+      - name: Translate English
+        run: bash scripts/test-translation/run-sachkunde-language.sh en English
+
+      - name: Validate exact coverage
+        run: >-
+          python3 scripts/test-translation/validate-sachkunde-results.py
+          --manifest translation-work/sachkunde-test/source-manifest.json
+          --result /home/erik/plizio-translations/sachkunde-test-20260820/result-hu.jsonl
+          --result /home/erik/plizio-translations/sachkunde-test-20260820/result-ro.jsonl
+          --result /home/erik/plizio-translations/sachkunde-test-20260820/result-en.jsonl
+
+      - name: Upload translations
+        uses: actions/upload-artifact@v4
+        with:
+          name: sachkunde-test-translations
+          path: |
+            translation-work/sachkunde-test/source-manifest.json
+            /home/erik/plizio-translations/sachkunde-test-20260820/result-hu.jsonl
+            /home/erik/plizio-translations/sachkunde-test-20260820/result-ro.jsonl
+            /home/erik/plizio-translations/sachkunde-test-20260820/result-en.jsonl
+          retention-days: 7
