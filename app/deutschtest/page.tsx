@@ -1584,11 +1584,8 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
              parts.push(`<span class="visual-option-chip">☐ ${printStrings.vertebrate}</span>`);
              parts.push(`<span class="visual-option-chip">☐ ${printStrings.invertebrate}</span>`);
           } else {
-             parts.push(`<span class="visual-option-chip">☐ ${printStrings.mammal}</span>`);
-             parts.push(`<span class="visual-option-chip">☐ ${printStrings.bird}</span>`);
-             parts.push(`<span class="visual-option-chip">☐ ${printStrings.fish}</span>`);
-             parts.push(`<span class="visual-option-chip">☐ ${printStrings.reptile}</span>`);
-             parts.push(`<span class="visual-option-chip">☐ ${printStrings.amphibian}</span>`);
+             parts.push(`<span class="visual-option-chip">☐ Haustier</span>`);
+             parts.push(`<span class="visual-option-chip">☐ Wildtier</span>`);
           }
           parts.push(`</div>`);
           break;
@@ -1669,7 +1666,12 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
           break;
         }
         default: {
-          parts.push(`<div class="answer-line"></div>`);
+          const configuredVisual = configVisualMap.get(q.type);
+          if (configuredVisual?.renderPrint) {
+            parts.push(`<div class="visual-hint-box">${configuredVisual.renderPrint(q)}</div>`);
+          } else {
+            parts.push(`<div class="answer-line"></div>`);
+          }
           break;
         }
       }

@@ -11,6 +11,9 @@ import { G4_Generators_Sachkunde, G4_Typing_Generators_Sachkunde } from "./sachk
 type QuestionGenerator = (seed?: number) => CurriculumQuestion[];
 type GeneratorMap = Record<string, QuestionGenerator>;
 
+/** Public Sachkunde test scope. Grades 5-8 remain archival Explorer content. */
+export const SACHKUNDE_ACTIVE_GRADES = [1, 2, 3, 4] as const;
+
 // ─── TOPIC NAMES (German) ───────────────────────────────────────────────────────
 
 const TOPIC_NAMES: Record<string, string> = {
@@ -271,6 +274,7 @@ export function getSachkundeQuestions(
   selectedSubtopicIds: string[],
   count = 10,
 ): CurriculumQuestion[] {
+  if (!(SACHKUNDE_ACTIVE_GRADES as readonly number[]).includes(grade)) return [];
   const themes = SACHKUNDE_CURRICULUM[grade] ?? [];
   const pool: CurriculumQuestion[] = [];
 

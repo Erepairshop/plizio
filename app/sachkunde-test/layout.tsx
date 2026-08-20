@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
     <>
-      <JsonLd data={buildLearningResourceSchema({ name: "Sachkunde-Test", description: "Kostenloser Online-Sachkundetest für Klasse 1 bis 4. Übe Natur, Tiere, Körper, Technik und Gesellschaft – direkt im Browser, ohne Anmeldung.", url: "/sachkunde-test/", educationalLevel: "Grades 1-8" })} />
+      <JsonLd data={buildLearningResourceSchema({ name: "Sachkunde-Test", description: "Kostenloser Online-Sachkundetest für Klasse 1 bis 4. Übe Natur, Tiere, Körper, Technik und Gesellschaft – direkt im Browser, ohne Anmeldung.", url: "/sachkunde-test/", educationalLevel: "Grades 1-4" })} />
       <JsonLd data={buildBreadcrumbSchema([{ name: "Home", item: "/" }, { name: "Sachkunde-Test", item: "/sachkunde-test/" }])} />
       {children}
     </>

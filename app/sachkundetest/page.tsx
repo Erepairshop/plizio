@@ -5,6 +5,7 @@ import {
   SACHKUNDE_CURRICULUM,
   getSachkundeQuestions,
   SACHKUNDE_SUBTOPIC_HINTS,
+  SACHKUNDE_ACTIVE_GRADES,
 } from "@/lib/sachkundeCurriculum";
 import { SACHKUNDE_VISUAL_TYPES } from "@/lib/sachkundeVisualGenerators";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
@@ -45,8 +46,8 @@ const SACHKUNDE_CONFIG: LanguageTestEngineConfig = {
   getQuestions: getSachkundeQuestions as any,
   subtopicHints: SACHKUNDE_SUBTOPIC_HINTS,
   visualTypes: SACHKUNDE_VISUAL_TYPES,
-  grades: [1, 2, 3, 4],
-  visualGrades: [1, 2, 3, 4],
+  grades: [...SACHKUNDE_ACTIVE_GRADES],
+  visualGrades: [...SACHKUNDE_ACTIVE_GRADES],
   hideLesetest: true,
 
   labels: {
