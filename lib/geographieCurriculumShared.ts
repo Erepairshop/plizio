@@ -146,7 +146,13 @@ function answerKey(q: CurriculumQuestion): string {
   } else if (q.answer != null) {
     a = Array.isArray(q.answer) ? (q.answer[0] ?? "") : String(q.answer);
   }
-  return a.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").trim();
+  return a
+    .normalize("NFKD")
+    .toLocaleLowerCase()
+    .replace(/[̀-ͯ]/g, "")
+    .replace(/[\p{P}\p{S}]+/gu, " ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 // Válasz-diverzitás round-robin elven: a kérdéseket válasz szerint vödrökbe rakjuk,
