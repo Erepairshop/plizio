@@ -35,6 +35,20 @@ jobs:
           translation-work/biologie-test/repair-hu/queue.json
           repair-hu.jsonl
 
+      - name: Repair remaining German Hungarian strings
+        run: >-
+          bash scripts/test-translation/run-biologie-language.sh
+          hu Hungarian
+          translation-work/biologie-test/repair2-hu/queue.json
+          repair2-hu.jsonl
+
+      - name: Repair remaining German Romanian strings
+        run: >-
+          bash scripts/test-translation/run-biologie-language.sh
+          ro Romanian
+          translation-work/biologie-test/repair2-ro/queue.json
+          repair2-ro.jsonl
+
       - name: Translate Romanian
         run: bash scripts/test-translation/run-biologie-language.sh ro Romanian
 
@@ -57,6 +71,8 @@ jobs:
             translation-work/biologie-test/source-manifest.json
             /home/erik/plizio-translations/biologie-test-20260820/result-hu.jsonl
             /home/erik/plizio-translations/biologie-test-20260820/repair-hu.jsonl
+            /home/erik/plizio-translations/biologie-test-20260820/repair2-hu.jsonl
+            /home/erik/plizio-translations/biologie-test-20260820/repair2-ro.jsonl
             /home/erik/plizio-translations/biologie-test-20260820/result-ro.jsonl
             /home/erik/plizio-translations/biologie-test-20260820/result-en.jsonl
           retention-days: 7
