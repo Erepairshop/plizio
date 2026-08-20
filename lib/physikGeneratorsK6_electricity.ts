@@ -1218,7 +1218,7 @@ export function generateElectricalSafetyMCQ(lang: string = "en", seed: number = 
     questions.push(createMCQ(
       "electricity",
       "electrical_safety",
-      q4("Welche Auswirkung hat Strom auf den menschlichen Körper?", "What are the dangers of electric current on the body?", "Mi a veszélye a testáramnak?", "Care sunt pericolele curentului electric pe corp?", lang),
+      q4("Welche Aussage zur Wirkung von Strom auf den Körper ist richtig?", "Which statement about electric current in the body is correct?", "Melyik állítás igaz az emberi testen átfolyó áram hatásáról?", "Care afirmație despre efectul curentului electric asupra corpului este corectă?", lang),
       q4(current.de, current.en, current.hu, current.ro, lang),
       [
         q4("Strom hat keine Auswirkung auf den Körper", "Current has no effect on the body", "Az áramnak nincs hatása a testre", "Curentul nu are efect pe corp", lang),

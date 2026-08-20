@@ -432,10 +432,9 @@ function generateEfficiencyMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
   }
 
   // Template 3: Efficiency ranking (7 questions)
-  const devices = pick(EFFICIENCY_DATA.examples, rng);
   for (let i = 0; i < 7; i++) {
     const device1 = pick(EFFICIENCY_DATA.examples, rng);
-    const device2 = pick(EFFICIENCY_DATA.examples, rng);
+    const device2 = pick(EFFICIENCY_DATA.examples.filter((device) => device.en !== device1.en), rng);
 
     const correct = device1.efficiency > device2.efficiency
       ? q4(`${device1.de}`, device1.en, device1.hu, device1.ro, lang)
@@ -446,7 +445,7 @@ function generateEfficiencyMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
         "energy_transfer",
         "efficiency",
         q4(
-          `Welche Gerät hat höheren Wirkungsgrad: ${q4(device1.de, device1.en, device1.hu, device1.ro, lang)} (${device1.efficiency}%) oder ${q4(device2.de, device2.en, device2.hu, device2.ro, lang)} (${device2.efficiency}%)?`,
+          `Welches Gerät hat höheren Wirkungsgrad: ${q4(device1.de, device1.en, device1.hu, device1.ro, lang)} (${device1.efficiency}%) oder ${q4(device2.de, device2.en, device2.hu, device2.ro, lang)} (${device2.efficiency}%)?`,
           `Which has higher efficiency: ${device1.en} (${device1.efficiency}%) or ${device2.en} (${device2.efficiency}%)?`,
           `Melyiknek magasabb a hatásfoka: ${device1.hu} (${device1.efficiency}%) vagy ${device2.hu} (${device2.efficiency}%)?`,
           `Care are eficiență mai mare: ${device1.ro} (${device1.efficiency}%) sau ${device2.ro} (${device2.efficiency}%)?`,
@@ -746,11 +745,11 @@ function generatePowerPlantsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
 
   // Template 5: Advantages & disadvantages (6 questions)
   const advantages = [
-    { de: "Wasserkraftwerk", en: "Hydroelectric", hu: "Vízierőmű", ro: "Hidroelectrică", adv: "Hoher Wirkungsgrad, keine Emissionen" },
-    { de: "Windkraftwerk", en: "Wind turbine", hu: "Szélkerék", ro: "Turbină eolian", adv: "Kostenlos, kein Abfall, erneuerbar" },
-    { de: "Solarkraftwerk", en: "Solar plant", hu: "Napelemes erőmű", ro: "Centrală solară", adv: "Saubere Energie, keine Emissionen" },
-    { de: "Kohlekraftwerk", en: "Coal plant", hu: "Szénerőmű", ro: "Centrală pe cărbune", adv: "Zuverlässig, konstante Leistung" },
-    { de: "Kernkraftwerk", en: "Nuclear plant", hu: "Atomerőmű", ro: "Centrală nucleară", adv: "Keine CO2-Emissionen, hohe Ausgangsleistung" },
+    { de: "Wasserkraftwerk", en: "Hydroelectric", hu: "Vízierőmű", ro: "Hidroelectrică", adv: { de: "Hoher Wirkungsgrad, keine Emissionen", en: "High efficiency and no direct emissions", hu: "Nagy hatásfok és nincs közvetlen kibocsátás", ro: "Eficiență ridicată și fără emisii directe" } },
+    { de: "Windkraftwerk", en: "Wind turbine", hu: "Szélkerék", ro: "Turbină eolian", adv: { de: "Kostenlos, kein Abfall, erneuerbar", en: "Renewable source with no fuel waste", hu: "Megújuló forrás, tüzelőanyag-hulladék nélkül", ro: "Sursă regenerabilă, fără deșeuri de combustibil" } },
+    { de: "Solarkraftwerk", en: "Solar plant", hu: "Napelemes erőmű", ro: "Centrală solară", adv: { de: "Saubere Energie, keine Emissionen", en: "Clean energy with no direct emissions", hu: "Tiszta energia közvetlen kibocsátás nélkül", ro: "Energie curată, fără emisii directe" } },
+    { de: "Kohlekraftwerk", en: "Coal plant", hu: "Szénerőmű", ro: "Centrală pe cărbune", adv: { de: "Zuverlässig, konstante Leistung", en: "Reliable, constant output", hu: "Megbízható, állandó teljesítmény", ro: "Putere fiabilă și constantă" } },
+    { de: "Kernkraftwerk", en: "Nuclear plant", hu: "Atomerőmű", ro: "Centrală nucleară", adv: { de: "Keine direkten CO2-Emissionen, hohe Leistung", en: "No direct CO2 emissions and high output", hu: "Nincs közvetlen szén-dioxid-kibocsátás, nagy teljesítmény", ro: "Fără emisii directe de CO2 și putere mare" } },
   ];
 
   for (const adv of advantages) {
@@ -765,7 +764,7 @@ function generatePowerPlantsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
           `Avantajul ${adv.ro}:`,
           lang
         ),
-        q4(adv.adv, adv.adv, adv.adv, adv.adv, lang),
+        q4(adv.adv.de, adv.adv.en, adv.adv.hu, adv.adv.ro, lang),
         [
           q4("Sehr billig", "Very cheap", "Nagyon olcsó", "Foarte ieftin", lang),
           q4("Keine Umweltbedenken", "No environmental issues", "Nincs környezetvédelmi aggály", "Fără probleme de mediu", lang),

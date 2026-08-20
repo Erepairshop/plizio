@@ -760,8 +760,8 @@ function generateEchoMCQ(seed?: number): CurriculumMCQ[] {
           `Milyen felületre van szükség a visszhang létrehozásához?`,
           `Ce tip de suprafață este necesară pentru a produce un ecou?`
         ),
-        "Eine harte, reflektierende Oberfläche",
-        ["Eine weiche Oberfläche", "Eine feuchte Oberfläche", "Eine bewegliche Oberfläche"],
+        q4("Eine harte, reflektierende Oberfläche", "A hard, reflective surface", "Kemény, hangvisszaverő felület", "O suprafață dură și reflectantă"),
+        [q4("Eine weiche Oberfläche", "A soft surface", "Puha felület", "O suprafață moale"), q4("Eine feuchte Oberfläche", "A damp surface", "Nedves felület", "O suprafață umedă"), q4("Eine bewegliche Oberfläche", "A moving surface", "Mozgó felület", "O suprafață mobilă")],
         rng
       )
     );
@@ -982,8 +982,8 @@ function generateSpeedOfSoundMCQ(seed?: number): CurriculumMCQ[] {
           `Mit jelent Mach 1?`,
           `Ce este Mach 1?`
         ),
-        "Die Schallgeschwindigkeit",
-        ["Doppelte Schallgeschwindigkeit", "Halbe Schallgeschwindigkeit", "Lichtgeschwindigkeit"],
+        q4("Die Schallgeschwindigkeit", "The speed of sound", "A hangsebesség", "Viteza sunetului"),
+        [q4("Doppelte Schallgeschwindigkeit", "Twice the speed of sound", "A hangsebesség kétszerese", "De două ori viteza sunetului"), q4("Halbe Schallgeschwindigkeit", "Half the speed of sound", "A hangsebesség fele", "Jumătate din viteza sunetului"), q4("Lichtgeschwindigkeit", "The speed of light", "A fénysebesség", "Viteza luminii")],
         rng
       )
     );
@@ -1001,8 +1001,8 @@ function generateSpeedOfSoundMCQ(seed?: number): CurriculumMCQ[] {
           `Miért látjuk a villámot a mennydörgés előtt?`,
           `De ce vedem fulgerul înainte de tunet?`
         ),
-        "Licht reist schneller als Schall",
-        ["Blitze sind stärker", "Donner braucht Zeit zu bilden", "Blitze sind näher"],
+        q4("Licht reist schneller als Schall", "Light travels faster than sound", "A fény gyorsabban terjed a hangnál", "Lumina se propagă mai repede decât sunetul"),
+        [q4("Blitze sind stärker", "Lightning is stronger", "A villám erősebb", "Fulgerul este mai puternic"), q4("Donner braucht Zeit zu bilden", "Thunder takes time to form", "A mennydörgés kialakulásához idő kell", "Tunetul are nevoie de timp pentru a se forma"), q4("Blitze sind näher", "Lightning is closer", "A villám közelebb van", "Fulgerul este mai aproape")],
         rng
       )
     );
@@ -1020,8 +1020,8 @@ function generateSpeedOfSoundMCQ(seed?: number): CurriculumMCQ[] {
           `Mit hoz létre a szuperszonikus robbanást?`,
           `Ce creează o bubuitoare sonoră?`
         ),
-        "Ein Objekt, das die Schallgeschwindigkeit bricht",
-        ["Ein explosives Gerät", "Ein lautes Lautsprecher", "Ein schneller Wind"],
+        q4("Ein Objekt, das die Schallgeschwindigkeit überschreitet", "An object moving faster than sound", "A hangsebességnél gyorsabban mozgó test", "Un obiect care se deplasează mai repede decât sunetul"),
+        [q4("Ein explosives Gerät", "An explosive device", "Egy robbanószerkezet", "Un dispozitiv exploziv"), q4("Ein lauter Lautsprecher", "A loud speaker", "Egy hangos hangszóró", "Un difuzor puternic"), q4("Ein schneller Wind", "A fast wind", "Erős szél", "Un vânt rapid")],
         rng
       )
     );

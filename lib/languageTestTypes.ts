@@ -27,8 +27,8 @@ export interface VisualQuestionType {
   printLabel: string;
   /** React component to render this question type */
   component: ComponentType<any>;  // eslint-disable-line @typescript-eslint/no-explicit-any
-  /** Generator function: (count: number) => TestQuestion[] */
-  generate: (count: number) => any[];  // eslint-disable-line @typescript-eslint/no-explicit-any
+  /** Generator function; the optional language localizes generated content. */
+  generate: (count: number, lang?: string) => any[];  // eslint-disable-line @typescript-eslint/no-explicit-any
   /** Which subtopic IDs trigger this visual type */
   subtopicIds: string[];
   /** How to extract the correct answer from a generated item */

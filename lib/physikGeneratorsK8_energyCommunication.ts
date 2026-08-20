@@ -183,7 +183,7 @@ function generateElectromagneticWavesMCQ(lang = "en", seed = 0): CurriculumMCQ[]
     qs.push(createMCQ("energy_comm", "electromagnetic_waves",
       q4("Wie breitet sich eine elektromagnetische Welle aus?", "EM wave: propagation?", "EM hullám: terjedés?", "Undă EM: propagare?", lang),
       q4("Elektrisches und magnetisches Feld schwingen senkrecht zueinander; im Vakuum mit c = 3x10^8 m/s", "Electric + magnetic field oscillate perpendicular, speed c = 3×10⁸ m/s in vacuum", "Elektromos + mágneses mező oszcillál derékszögben, c sebesség", "Câmp electric + magnetic oscilează perpendicular, viteză c = 3×10⁸ m/s", lang),
-      [q4("Nur elektrisch", "Only electric", "Nur elektrisch", "Doar electric", lang),
+      [q4("Nur elektrisch", "Only electric", "Csak elektromos", "Doar electric", lang),
        q4("Ohne magnetisches Feld", "Without magnetic", "Mágneses nélkül", "Fără magnetic", lang),
        q4("Keine Ausbreitung", "No propagation", "Nincs terjedés", "Fără propagare", lang)], rng));
   }
@@ -193,7 +193,7 @@ function generateElectromagneticWavesMCQ(lang = "en", seed = 0): CurriculumMCQ[]
       q4("Welche Reihenfolge hat das elektromagnetische Spektrum nach Wellenlaenge?", "EM spectrum: wavelength order?", "EM spektrum: hullámhossz sorrend?", "Spectrul EM: ordine lungime undă?", lang),
       q4("Radio -> Mikrowelle -> Infrarot -> sichtbares Licht -> UV -> Roentgen -> Gamma", "Radio (km) → Microwave (mm) → IR → Visible → UV → X-ray → Gamma (pm)", "Rádió (km) → Mikrohullám (mm) → IR → Látható → UV → Röntgen → Gamma", "Radio (km) → Microundă (mm) → IR → Vizibil → UV → Raze X → Gamma (pm)", lang),
       [q4("Umgekehrte Reihenfolge", "Reversed order", "Fordított sorrend", "Ordine inversă", lang),
-       q4("Keine Reihenfolge", "No order", "Keine Reihenfolge", "Fără ordine", lang),
+       q4("Keine Reihenfolge", "No order", "Nincs sorrend", "Fără ordine", lang),
        q4("Radio kommt nach Roentgenstrahlung", "Radio after X-ray", "Rádió után röntgen", "Radio după X-ray", lang)], rng));
   }
 
@@ -233,19 +233,19 @@ function generateRadioTVWirelessMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
 
   for (let i = 0; i < 5; i++) {
     qs.push(createMCQ("energy_comm", "radio_tv_wireless",
-      q4("Welche Frequenz nutzen WiFi und Bluetooth oft?", "WiFi & Bluetooth frequency?", "Welche Frequenz nutzen WiFi und Bluetooth oft?", "WiFi & Bluetooth frecvență?", lang),
+      q4("Welche Frequenz nutzen WiFi und Bluetooth oft?", "WiFi & Bluetooth frequency?", "Milyen frekvenciasávot használ gyakran a WiFi és a Bluetooth?", "WiFi & Bluetooth frecvență?", lang),
       q4("Beide nutzen oft das 2,4-GHz-ISM-Band; WiFi hat meist mehr Datenrate, Bluetooth kuerzere Reichweite", "Both 2.4 GHz band (ISM); WiFi: wider bandwidth (54 Mbps typ), Bluetooth: shorter range (~10m)", "Mindkettő 2,4 GHz sávban; WiFi: szélesebb sávszélesség, Bluetooth: rövidebb hatótáv", "Ambele 2,4 GHz bandă (ISM); WiFi: lărgime bandă mai largă (54 Mbps), Bluetooth: rază mai scurtă", lang),
-      [q4("Nur WiFi", "WiFi only", "Nur WiFi", "Doar WiFi", lang),
+      [q4("Nur WiFi", "WiFi only", "Csak a WiFi", "Doar WiFi", lang),
        q4("Immer voellig verschiedene Baender", "Different bands", "Eltérô sávok", "Benzi diferite", lang),
-       q4("Keine Frequenz", "No frequency", "Keine Frequenz", "Fără frecvență", lang)], rng));
+       q4("Keine Frequenz", "No frequency", "Egyik sem használ frekvenciát", "Fără frecvență", lang)], rng));
   }
 
   for (let i = 0; i < 6; i++) {
     qs.push(createMCQ("energy_comm", "radio_tv_wireless",
-      q4("Was ist typisch fuer 4G und 5G?", "Mobile phone 4G/5G?", "Was ist typisch f?r 4G und 5G?", "Telefon mobil 4G/5G?", lang),
+      q4("Was ist typisch fuer 4G und 5G?", "Mobile phone 4G/5G?", "Mi jellemző a 4G és 5G hálózatokra?", "Telefon mobil 4G/5G?", lang),
       q4("5G ermoeglicht hoehere Datenraten, geringere Latenz und mehr gleichzeitige Verbindungen als 4G", "4G: ~100 Mbps; 5G: ~1 Gbps (10× faster), lower latency, more simultaneous", "4G: ~100 Mbps; 5G: ~1 Gbps (10× gyorsabb), kevesebb késleltetés", "4G: ~100 Mbps; 5G: ~1 Gbps (10× mai rapid), latență mai mică, mai multe conexiuni", lang),
       [q4("Gleiche Geschwindigkeit", "Same speed", "Azonos sebesség", "Aceeași viteză", lang),
-       q4("4G ist schneller", "4G faster", "4G ist schneller", "4G mai rapid", lang),
+       q4("4G ist schneller", "4G faster", "A 4G gyorsabb", "4G mai rapid", lang),
        q4("5G existiert nicht", "5G not yet", "5G nincs még", "5G nu încă", lang)], rng));
   }
 

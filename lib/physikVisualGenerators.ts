@@ -3,6 +3,7 @@ import KraftRichtung from "@/components/physik-visual/KraftRichtung";
 import ThermometerAblesen from "@/components/physik-visual/ThermometerAblesen";
 import StromkreisDiagramm from "@/components/physik-visual/StromkreisDiagramm";
 import EnergieKette from "@/components/physik-visual/EnergieKette";
+import { getCircuitItems, getEnergyChainItems, getForceDirectionItems, getTemperatureItems, physicsVisualLang } from "@/lib/physikVisualContent";
 
 function shuffle<T>(arr: T[]): T[] {
   const copy = [...arr];
@@ -13,62 +14,6 @@ function shuffle<T>(arr: T[]): T[] {
   return copy;
 }
 
-function pick<T>(arr: T[]): T {
-  return arr[Math.floor(Math.random() * arr.length)];
-}
-
-const FORCE_DIRECTION_ITEMS = [
-  { scenario: "Ein Apfel fällt vom Baum.", objectEmoji: "🍎", answer: "↓", svgName: "KraftVektorSvg" },
-  { scenario: "Du schiebst einen Einkaufswagen nach vorne.", objectEmoji: "🛒", answer: "→", svgName: "KraftVektorSvg" },
-  { scenario: "Du ziehst einen Schlitten zu dir.", objectEmoji: "🛷", answer: "←", svgName: "KraftVektorSvg" },
-  { scenario: "Ein Ball springt nach oben zurück.", objectEmoji: "🏀", answer: "↑", svgName: "KraftVektorSvg" },
-  { scenario: "Luftwiderstand wirkt gegen die Bewegung nach links.", objectEmoji: "🏎️", answer: "→", svgName: "KraftVektorSvg" },
-  { scenario: "Die Gewichtskraft zieht die Hantel nach unten.", objectEmoji: "🏋️", answer: "↓", svgName: "KraftVektorSvg" },
-];
-
-const TEMPERATURE_ITEMS = [
-  { label: "Welche Temperatur zeigt das Thermometer?", value: 20, min: -10, max: 50 },
-  { label: "Lies die Temperatur am Thermometer ab.", value: 35, min: 0, max: 100 },
-  { label: "Wie warm ist die Flüssigkeit?", value: 60, min: 0, max: 100 },
-  { label: "Welche Temperatur ist eingestellt?", value: 5, min: -10, max: 30 },
-  { label: "Wie viele Grad Celsius sind zu sehen?", value: 80, min: 0, max: 100 },
-];
-
-const CIRCUIT_ITEMS = [
-  {
-    prompt: "Welches Schema zeigt einen geschlossenen einfachen Stromkreis?",
-    diagrams: ["🔋──💡", "🔋  💡", "🔋──/ ─💡", "💡──🔋  "],
-    correctIndex: 0,
-    svgName: "StromkreisV2Svg",
-  },
-  {
-    prompt: "Welches Schema zeigt eine Reihenschaltung mit zwei Lampen?",
-    diagrams: ["🔋──💡──💡", "🔋─┬💡\n  └💡", "🔋  💡  💡", "💡──🔋──💡"],
-    correctIndex: 0,
-    svgName: "StromkreisV2Svg",
-  },
-  {
-    prompt: "Welches Schema zeigt eine Parallelschaltung?",
-    diagrams: ["🔋─┬💡\n  └💡", "🔋──💡──💡", "🔋  💡  💡", "💡──🔋──/"],
-    correctIndex: 0,
-    svgName: "StromkreisV2Svg",
-  },
-  {
-    prompt: "In welchem Schema ist der Schalter offen?",
-    diagrams: ["🔋──💡", "🔋──/ ─💡", "🔋─┬💡\n  └💡", "🔋──💡──💡"],
-    correctIndex: 1,
-    svgName: "StromkreisV2Svg",
-  },
-];
-
-const ENERGY_CHAIN_ITEMS = [
-  { title: "Ordne die Energiekette einer Taschenlampe.", correctOrder: ["Batterie", "elektrische Energie", "Licht"] },
-  { title: "Ordne die Energiekette eines Windrads.", correctOrder: ["Wind", "Bewegung", "elektrische Energie"] },
-  { title: "Ordne die Energiekette eines Wasserkochers.", correctOrder: ["Steckdose", "elektrische Energie", "Wärme"] },
-  { title: "Ordne die Energiekette eines Solarmoduls.", correctOrder: ["Sonne", "Licht", "elektrische Energie"] },
-  { title: "Ordne die Energiekette beim Fahrradfahren.", correctOrder: ["Nahrung", "Bewegung", "Wärme"] },
-];
-
 const KRAFT_RICHTUNG: VisualQuestionType = {
   type: "kraft-richtung",
   label: "Kraftrichtung erkennen ↕️",
@@ -78,29 +23,29 @@ const KRAFT_RICHTUNG: VisualQuestionType = {
     "push_pull", "friction", "gravity", "air_resistance",
     "newton_first", "newton_second", "newton_third", "gravity_universal",
   ],
-  generate: (count) => shuffle(FORCE_DIRECTION_ITEMS).slice(0, count).map((item) => {
+  generate: (count, lang) => shuffle(getForceDirectionItems(lang)).slice(0, count).map((item) => {
     const options = shuffle(["↑", "↓", "←", "→"]);
     return {
       scenario: item.scenario,
-      objectEmoji: item.objectEmoji,
-      prompt: "In welche Richtung wirkt die wichtigste Kraft?",
+      prompt: item.prompt,
       options,
       correctIndex: options.indexOf(item.answer),
       question: item.scenario,
-      svgName: item.svgName,
+      sceneId: item.sceneId,
+      lang: physicsVisualLang(lang),
     };
   }),
   gradeAnswer: (q, given) => ({ correct: given === q.options[q.correctIndex], expected: q.options[q.correctIndex] }),
   mapProps: (q, userAnswer, submitted, onAnswer) => ({
     scenario: q.scenario,
-    objectEmoji: q.objectEmoji,
     prompt: q.prompt,
     options: q.options,
     correctIndex: q.correctIndex,
     userAnswer,
     submitted,
     onAnswer,
-    svgName: q.svgName,
+    sceneId: q.sceneId,
+    lang: q.lang,
   }),
   renderPrint: (q) => `${q.scenario} → ${q.options[q.correctIndex]}`,
 };
@@ -113,7 +58,7 @@ const THERMOMETER_ABLESEN: VisualQuestionType = {
   subtopicIds: [
     "temperature", "melting_boiling", "specific_heat", "phase_changes", "thermal_expansion",
   ],
-  generate: (count) => shuffle(TEMPERATURE_ITEMS).slice(0, count).map((item) => {
+  generate: (count, lang) => shuffle(getTemperatureItems(lang)).slice(0, count).map((item) => {
     const wrongs = shuffle([
       `${item.value - 10} °C`,
       `${item.value - 5} °C`,
@@ -127,6 +72,7 @@ const THERMOMETER_ABLESEN: VisualQuestionType = {
       options,
       correctIndex: options.indexOf(`${item.value} °C`),
       question: item.label,
+      lang: physicsVisualLang(lang),
     };
   }),
   gradeAnswer: (q, given) => ({ correct: given === q.options[q.correctIndex], expected: q.options[q.correctIndex] }),
@@ -140,6 +86,7 @@ const THERMOMETER_ABLESEN: VisualQuestionType = {
     userAnswer,
     submitted,
     onAnswer,
+    lang: q.lang,
   }),
   renderPrint: (q) => `${q.label} → ${q.options[q.correctIndex]}`,
 };
@@ -153,11 +100,12 @@ const STROMKREIS_DIAGRAMM: VisualQuestionType = {
     "simple_circuits", "series_circuits", "parallel_circuits",
     "current_voltage", "electrical_safety", "ohm_law", "resistance_calc", "electric_power",
   ],
-  generate: (count) => {
-    const pool = Array.from({ length: count }, () => pick(CIRCUIT_ITEMS));
+  generate: (count, lang) => {
+    const pool = shuffle(getCircuitItems(lang)).slice(0, count);
     return pool.map((item) => ({
       ...item,
       question: item.prompt,
+      lang: physicsVisualLang(lang),
     }));
   },
   gradeAnswer: (q, given) => ({ correct: given === q.diagrams[q.correctIndex], expected: `Schema ${String.fromCharCode(65 + q.correctIndex)}` }),
@@ -168,7 +116,7 @@ const STROMKREIS_DIAGRAMM: VisualQuestionType = {
     userAnswer,
     submitted,
     onAnswer,
-    svgName: q.svgName,
+    lang: q.lang,
   }),
   renderPrint: (q) => `${q.prompt} → Schema ${String.fromCharCode(65 + q.correctIndex)}`,
 };
@@ -182,13 +130,14 @@ const ENERGIE_KETTE: VisualQuestionType = {
     "energy_forms", "energy_conversion", "energy_chains", "renewable_energy",
     "power_plants", "solar_energy", "wind_energy", "electric_energy",
   ],
-  generate: (count) => {
-    const pool = Array.from({ length: count }, () => pick(ENERGY_CHAIN_ITEMS));
+  generate: (count, lang) => {
+    const pool = shuffle(getEnergyChainItems(lang)).slice(0, count);
     return pool.map((item) => ({
       title: item.title,
       stages: shuffle(item.correctOrder),
       correctOrder: item.correctOrder,
       question: item.title,
+      lang: physicsVisualLang(lang),
     }));
   },
   gradeAnswer: (q, given) => ({ correct: given === q.correctOrder.join(","), expected: q.correctOrder.join(" → ") }),
@@ -199,13 +148,47 @@ const ENERGIE_KETTE: VisualQuestionType = {
     userAnswer,
     submitted,
     onAnswer,
+    lang: q.lang,
   }),
   renderPrint: (q) => `${q.title} → ${q.correctOrder.join(" → ")}`,
 };
 
+const PHYSIK_VISUAL_LABELS = {
+  de: {
+    "kraft-richtung": ["Kraftrichtung erkennen ↕️", "Kraftrichtung"],
+    "thermometer-ablesen": ["Thermometer ablesen 🌡️", "Thermometer ablesen"],
+    "stromkreis-diagramm": ["Stromkreis lesen 🔋", "Stromkreis lesen"],
+    "energie-kette": ["Energiekette ordnen ⚡", "Energiekette ordnen"],
+  },
+  hu: {
+    "kraft-richtung": ["Erőirány felismerése ↕️", "Erőirány"],
+    "thermometer-ablesen": ["Hőmérő leolvasása 🌡️", "Hőmérő leolvasása"],
+    "stromkreis-diagramm": ["Áramkör olvasása 🔋", "Áramkör olvasása"],
+    "energie-kette": ["Energialánc rendezése ⚡", "Energialánc rendezése"],
+  },
+  ro: {
+    "kraft-richtung": ["Direcția forței ↕️", "Direcția forței"],
+    "thermometer-ablesen": ["Citirea termometrului 🌡️", "Citirea termometrului"],
+    "stromkreis-diagramm": ["Citirea circuitului 🔋", "Citirea circuitului"],
+    "energie-kette": ["Ordonarea lanțului energetic ⚡", "Lanț energetic"],
+  },
+  en: {
+    "kraft-richtung": ["Force direction ↕️", "Force direction"],
+    "thermometer-ablesen": ["Read the thermometer 🌡️", "Read the thermometer"],
+    "stromkreis-diagramm": ["Read the circuit 🔋", "Read the circuit"],
+    "energie-kette": ["Order the energy chain ⚡", "Energy chain"],
+  },
+} as const;
 export const PHYSIK_VISUAL_TYPES: VisualQuestionType[] = [
   KRAFT_RICHTUNG,
   THERMOMETER_ABLESEN,
   STROMKREIS_DIAGRAMM,
   ENERGIE_KETTE,
 ];
+export function getLocalizedPhysikVisualTypes(lang?: string): VisualQuestionType[] {
+  const labels = PHYSIK_VISUAL_LABELS[physicsVisualLang(lang)];
+  return PHYSIK_VISUAL_TYPES.map((visualType) => {
+    const localized = labels[visualType.type as keyof typeof labels];
+    return localized ? { ...visualType, label: localized[0], printLabel: localized[1] } : visualType;
+  });
+}

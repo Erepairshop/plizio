@@ -869,25 +869,23 @@ function generateArchimedMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
 
   // Template 1: Archimedes Principle definition (6 questions)
   for (let i = 0; i < 6; i++) {
-    const buoyancy = pick(["equal", "greater", "less"], rng);
-    const correctAns = buoyancy === "equal" ? q4("gleich", "equal", "egyenlő", "egal", lang) : q4("ungleich", "not equal", "nem egyenlő", "inegal", lang);
-    const wrongAns = buoyancy === "equal"
-      ? [q4("größer", "greater", "nagyobb", "mai mare", lang), q4("kleiner", "less", "kisebb", "mai mic", lang)]
-      : [q4("gleich", "equal", "egyenlő", "egal", lang)];
-
     questions.push(
       createMCQ(
         "density",
         "archimedes",
         q4(
-          `Nach Archimedisches Prinzip ist die Auftriebskraft ${buoyancy === "equal" ? "dem Gewicht der verdrängten Flüssigkeit..." : "nicht dem Gewicht der verdrängten Flüssigkeit..."}`,
-          `According to Archimedes' Principle, buoyancy force is ${buoyancy === "equal" ? "equal to the weight of displaced fluid" : "not equal to the weight of displaced fluid"}`,
-          `Arkhimédész törvénye szerint a felhajtóerő ${buoyancy === "equal" ? "egyenlő a kiszorított folyadék súlyával" : "nem egyenlő a kiszorított folyadék súlyával"}`,
-          `Conform Principiului Arhimede, forța de flotabilitate este ${buoyancy === "equal" ? "egală cu greutatea lichidului deplasat" : "nu este egală cu greutatea lichidului deplasat"}`,
+          "Womit ist die Auftriebskraft nach dem archimedischen Prinzip gleich?",
+          "According to Archimedes' principle, what is the buoyant force equal to?",
+          "Arkhimédész törvénye szerint mivel egyenlő a felhajtóerő?",
+          "Conform principiului lui Arhimede, cu ce este egală forța arhimedică?",
           lang
         ),
-        correctAns,
-        wrongAns,
+        q4("Mit dem Gewicht der verdrängten Flüssigkeit", "The weight of the displaced fluid", "A kiszorított folyadék súlyával", "Cu greutatea fluidului dislocat", lang),
+        [
+          q4("Mit der Masse des Körpers", "The object's mass", "A test tömegével", "Cu masa obiectului", lang),
+          q4("Mit dem Volumen des Körpers", "The object's volume", "A test térfogatával", "Cu volumul obiectului", lang),
+          q4("Mit dem Luftdruck", "Atmospheric pressure", "A légnyomással", "Cu presiunea atmosferică", lang),
+        ],
         rng
       )
     );

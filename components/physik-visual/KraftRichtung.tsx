@@ -1,16 +1,17 @@
 'use client';
-import * as K7 from "@/components/testpapier-visual/svg/K7SvgsB";
+import { PhysicsForceSceneSvg, type ForceSceneId } from "./PhysicsTestDiagrams";
+import { PHYSICS_VISUAL_UI, type PhysicsVisualLang } from "@/lib/physikVisualContent";
 
 interface Props {
   scenario: string;
-  objectEmoji: string;
   prompt: string;
   options: string[];
   correctIndex: number;
   userAnswer: string;
   submitted: boolean;
   onAnswer: (a: string) => void;
-  svgName?: string;
+  sceneId: ForceSceneId;
+  lang: PhysicsVisualLang;
 }
 
 const ARROW_STYLES: Record<string, string> = {
@@ -22,17 +23,24 @@ const ARROW_STYLES: Record<string, string> = {
 
 export default function KraftRichtung({
   scenario,
-  objectEmoji,
   prompt,
   options,
   correctIndex,
   userAnswer,
   submitted,
   onAnswer,
-  svgName,
+  sceneId,
+  lang,
 }: Props) {
+  const ui = PHYSICS_VISUAL_UI[lang];
   const correctAnswer = options[correctIndex];
   const isCorrect = userAnswer === correctAnswer;
+  const svgDirection = ({
+    "↑": "up",
+    "↓": "down",
+    "←": "left",
+    "→": "right",
+  } as const)[correctAnswer as "↑" | "↓" | "←" | "→"] ?? "right";
 
   return (
     <div className="px-1 py-1.5">
@@ -42,24 +50,13 @@ export default function KraftRichtung({
       </div>
 
       <div className="pl-6">
-        <div className="rounded-2xl border border-slate-200 bg-slate-50 px-3 py-3 mb-2">
+        <div className="px-1 py-2 mb-2">
           <div className="text-[11px] font-semibold uppercase tracking-[0.2em] text-slate-400 mb-2">
-            Situation
+            {ui.situation}
           </div>
-          <div className="flex items-center justify-between gap-3">
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 sm:gap-3">
             <div className="text-sm font-semibold text-slate-700">{scenario}</div>
-            {svgName && K7[`${svgName}NoBorder` as keyof typeof K7] ? (
-              <div className="rounded-2xl bg-white border border-slate-200 flex items-center justify-center shadow-sm p-2 min-w-[100px]">
-                {(() => {
-                  const SvgComponent = K7[`${svgName}NoBorder` as keyof typeof K7] as any;
-                  return <SvgComponent className="w-full max-w-[120px] h-auto max-h-20" />;
-                })()}
-              </div>
-            ) : (
-              <div className="w-14 h-14 rounded-2xl bg-white border border-slate-200 flex items-center justify-center text-3xl shadow-sm">
-                {objectEmoji}
-              </div>
-            )}
+            <PhysicsForceSceneSvg scene={sceneId} direction={svgDirection} className="w-full max-w-[150px] h-auto max-h-24 shrink-0" />
           </div>
         </div>
 
@@ -92,7 +89,7 @@ export default function KraftRichtung({
 
         {submitted && userAnswer && (
           <div className={`text-xs font-bold mt-2 ${isCorrect ? "text-emerald-500" : "text-red-500"}`}>
-            {isCorrect ? "✓ Richtig!" : `✗ Richtig: ${correctAnswer}`}
+            {isCorrect ? `✓ ${ui.correct}` : `✗ ${ui.correctPrefix} ${correctAnswer}`}
           </div>
         )}
       </div>
