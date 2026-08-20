@@ -7,6 +7,7 @@ import { G1_Generators_Sachkunde } from "./sachkundeGenerators1";
 import { G2_Generators_Sachkunde } from "./sachkundeGenerators2";
 import { G3_Generators_Sachkunde } from "./sachkundeGenerators3";
 import { G4_Generators_Sachkunde, G4_Typing_Generators_Sachkunde } from "./sachkundeGenerators4";
+import { localizeSachkundeQuestions } from "./sachkundeQuestionTranslations";
 
 type QuestionGenerator = (seed?: number) => CurriculumQuestion[];
 type GeneratorMap = Record<string, QuestionGenerator>;
@@ -273,6 +274,7 @@ export function getSachkundeQuestions(
   grade: number,
   selectedSubtopicIds: string[],
   count = 10,
+  lang = "de",
 ): CurriculumQuestion[] {
   if (!(SACHKUNDE_ACTIVE_GRADES as readonly number[]).includes(grade)) return [];
   const themes = SACHKUNDE_CURRICULUM[grade] ?? [];
@@ -311,7 +313,7 @@ export function getSachkundeQuestions(
     [pool[i], pool[j]] = [pool[j], pool[i]];
   }
 
-  return pool.slice(0, count);
+  return localizeSachkundeQuestions(pool.slice(0, count), lang);
 }
 
 // ─── GRADING (German system 1–6, same as Deutsch) ──────────────────────────────
