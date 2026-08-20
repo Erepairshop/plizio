@@ -124,34 +124,41 @@ def load_completed(path: Path) -> set[str]:
     return completed
 
 
-def quarantine_invalid_rows(path: Path) -> int:
+def normalize_completed_rows(path: Path) -> int:
     if not path.exists():
         return 0
-    valid_lines: list[str] = []
-    invalid_lines: list[str] = []
+    completed_lines: dict[str, str] = {}
+    discarded_lines: list[str] = []
     for line in path.read_text(encoding="utf-8", errors="replace").splitlines():
         if not line.strip():
             continue
         try:
-            json.loads(line)
-            valid_lines.append(line)
-        except json.JSONDecodeError:
-            invalid_lines.append(line)
-    if not invalid_lines:
+            row = json.loads(line)
+            row_id = row["id"]
+            if row.get("status") != "completed" or not isinstance(row_id, str):
+                discarded_lines.append(line)
+                continue
+            previous = completed_lines.get(row_id)
+            if previous is not None:
+                discarded_lines.append(previous)
+            completed_lines[row_id] = line
+        except (json.JSONDecodeError, KeyError, TypeError):
+            discarded_lines.append(line)
+    if not discarded_lines:
         return 0
 
     quarantine = path.with_suffix(path.suffix + ".invalid")
     with quarantine.open("a", encoding="utf-8") as target:
-        for line in invalid_lines:
+        for line in discarded_lines:
             target.write(line + "\n")
 
     temporary = path.with_suffix(path.suffix + ".tmp")
     temporary.write_text(
-        "".join(line + "\n" for line in valid_lines),
+        "".join(line + "\n" for line in completed_lines.values()),
         encoding="utf-8",
     )
     temporary.replace(path)
-    return len(invalid_lines)
+    return len(discarded_lines)
 
 
 def main() -> int:
@@ -172,10 +179,10 @@ def main() -> int:
         raise SystemExit("Azure OpenAI environment variables are required")
 
     queue = json.loads(args.queue.read_text(encoding="utf-8"))
-    quarantined = quarantine_invalid_rows(args.output)
+    quarantined = normalize_completed_rows(args.output)
     if quarantined:
         print(json.dumps({
-            "quarantined_invalid_rows": quarantined,
+            "quarantined_non_completed_rows": quarantined,
             "quarantine": str(args.output.with_suffix(args.output.suffix + ".invalid")),
         }), flush=True)
     completed = load_completed(args.output)
