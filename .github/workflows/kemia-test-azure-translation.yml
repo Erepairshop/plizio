@@ -24,45 +24,21 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Translate Hungarian
-        run: |
-          set -euo pipefail
-          set -a
-          source /home/erik/plizio-audits/poi-only-technical-20260731/.azure-openai.env
-          set +a
-          python3 scripts/test-translation/run-azure-kemia-translation.py \
-          --queue translation-work/kemia-test/queue.json \
-          --output translation-work/kemia-test/result-hu.jsonl \
-          --language-name Hungarian
+        run: bash scripts/test-translation/run-kemia-language.sh hu Hungarian
 
       - name: Translate Romanian
-        run: |
-          set -euo pipefail
-          set -a
-          source /home/erik/plizio-audits/poi-only-technical-20260731/.azure-openai.env
-          set +a
-          python3 scripts/test-translation/run-azure-kemia-translation.py \
-          --queue translation-work/kemia-test/queue.json \
-          --output translation-work/kemia-test/result-ro.jsonl \
-          --language-name Romanian
+        run: bash scripts/test-translation/run-kemia-language.sh ro Romanian
 
       - name: Translate English
-        run: |
-          set -euo pipefail
-          set -a
-          source /home/erik/plizio-audits/poi-only-technical-20260731/.azure-openai.env
-          set +a
-          python3 scripts/test-translation/run-azure-kemia-translation.py \
-          --queue translation-work/kemia-test/queue.json \
-          --output translation-work/kemia-test/result-en.jsonl \
-          --language-name English
+        run: bash scripts/test-translation/run-kemia-language.sh en English
 
       - name: Validate exact coverage
         run: >-
           python3 scripts/test-translation/validate-kemia-results.py
           --manifest translation-work/kemia-test/source-manifest.json
-          --result translation-work/kemia-test/result-hu.jsonl
-          --result translation-work/kemia-test/result-ro.jsonl
-          --result translation-work/kemia-test/result-en.jsonl
+          --result /home/erik/plizio-translations/kemia-test-20260820/result-hu.jsonl
+          --result /home/erik/plizio-translations/kemia-test-20260820/result-ro.jsonl
+          --result /home/erik/plizio-translations/kemia-test-20260820/result-en.jsonl
 
       - name: Upload translations
         uses: actions/upload-artifact@v4
@@ -70,7 +46,7 @@ jobs:
           name: kemia-test-translations
           path: |
             translation-work/kemia-test/source-manifest.json
-            translation-work/kemia-test/result-hu.jsonl
-            translation-work/kemia-test/result-ro.jsonl
-            translation-work/kemia-test/result-en.jsonl
+            /home/erik/plizio-translations/kemia-test-20260820/result-hu.jsonl
+            /home/erik/plizio-translations/kemia-test-20260820/result-ro.jsonl
+            /home/erik/plizio-translations/kemia-test-20260820/result-en.jsonl
           retention-days: 7
