@@ -1,7 +1,5 @@
 'use client';
 
-import { PHYSICS_VISUAL_UI, type PhysicsVisualLang } from "@/lib/physikVisualContent";
-
 interface Props {
   label: string;
   value: number;
@@ -12,7 +10,6 @@ interface Props {
   userAnswer: string;
   submitted: boolean;
   onAnswer: (a: string) => void;
-  lang: PhysicsVisualLang;
 }
 
 export default function ThermometerAblesen({
@@ -25,9 +22,7 @@ export default function ThermometerAblesen({
   userAnswer,
   submitted,
   onAnswer,
-  lang,
 }: Props) {
-  const ui = PHYSICS_VISUAL_UI[lang];
   const correctAnswer = options[correctIndex];
   const isCorrect = userAnswer === correctAnswer;
   const pct = Math.max(0, Math.min(100, ((value - min) / Math.max(max - min, 1)) * 100));
@@ -85,7 +80,7 @@ export default function ThermometerAblesen({
 
       {submitted && userAnswer && (
         <div className={`text-xs font-bold mt-2 pl-6 ${isCorrect ? "text-emerald-500" : "text-red-500"}`}>
-          {isCorrect ? `✓ ${ui.correct}` : `✗ ${ui.correctPrefix} ${correctAnswer}`}
+          {isCorrect ? "✓ Richtig!" : `✗ Richtig: ${correctAnswer}`}
         </div>
       )}
     </div>

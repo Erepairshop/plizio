@@ -1,7 +1,5 @@
 'use client';
 
-import { PHYSICS_VISUAL_UI, type PhysicsVisualLang } from "@/lib/physikVisualContent";
-
 import { useEffect, useRef, useState } from "react";
 
 interface Props {
@@ -11,7 +9,6 @@ interface Props {
   userAnswer: string;
   submitted: boolean;
   onAnswer: (a: string) => void;
-  lang: PhysicsVisualLang;
 }
 
 export default function EnergieKette({
@@ -21,9 +18,7 @@ export default function EnergieKette({
   userAnswer,
   submitted,
   onAnswer,
-  lang,
 }: Props) {
-  const ui = PHYSICS_VISUAL_UI[lang];
   const [selected, setSelected] = useState<string[]>([]);
   const [shuffled] = useState(() => [...stages].sort(() => Math.random() - 0.5));
   const initialized = useRef(false);
@@ -56,7 +51,7 @@ export default function EnergieKette({
       <div className="pl-6">
         <div className="flex items-center gap-1 mb-2 flex-wrap min-h-[28px]">
           {selected.length === 0 && (
-            <span className="text-slate-300 text-xs italic">{ui.energyHint}</span>
+            <span className="text-slate-300 text-xs italic">Tippe die Energie-Schritte in richtiger Reihenfolge an...</span>
           )}
           {selected.map((stage, i) => (
             <span key={`${stage}-${i}`} className="flex items-center gap-1">
@@ -97,7 +92,7 @@ export default function EnergieKette({
 
         {submitted && (
           <div className={`text-xs font-bold mt-2 ${isCorrect ? "text-emerald-500" : "text-red-500"}`}>
-            {isCorrect ? `✓ ${ui.correct}` : `✗ ${ui.correctPrefix} ${correctOrder.join(" → ")}`}
+            {isCorrect ? "✓ Richtig!" : `✗ Richtig: ${correctOrder.join(" → ")}`}
           </div>
         )}
       </div>

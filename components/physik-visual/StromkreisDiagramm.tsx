@@ -1,7 +1,5 @@
 'use client';
-
-import { PHYSICS_VISUAL_UI, type PhysicsVisualLang } from "@/lib/physikVisualContent";
-import { CircuitDiagramSvg, type CircuitDiagramId } from "./PhysicsTestDiagrams";
+import * as K7 from "@/components/testpapier-visual/svg/K7SvgsB";
 
 interface Props {
   prompt: string;
@@ -10,7 +8,7 @@ interface Props {
   userAnswer: string;
   submitted: boolean;
   onAnswer: (a: string) => void;
-  lang: PhysicsVisualLang;
+  svgName?: string;
 }
 
 export default function StromkreisDiagramm({
@@ -20,9 +18,8 @@ export default function StromkreisDiagramm({
   userAnswer,
   submitted,
   onAnswer,
-  lang,
+  svgName,
 }: Props) {
-  const ui = PHYSICS_VISUAL_UI[lang];
   const correctAnswer = diagrams[correctIndex];
   const isCorrect = userAnswer === correctAnswer;
 
@@ -33,6 +30,16 @@ export default function StromkreisDiagramm({
         <span className="text-sm font-bold text-slate-800">{prompt}</span>
       </div>
 
+      {svgName && K7[`${svgName}NoBorder` as keyof typeof K7] && (
+        <div className="pl-6 mb-4 flex justify-start">
+          <div className="rounded-2xl bg-white border border-slate-200 p-3 shadow-sm inline-flex">
+            {(() => {
+              const SvgComponent = K7[`${svgName}NoBorder` as keyof typeof K7] as any;
+              return <SvgComponent className="w-full max-w-[120px] h-auto max-h-20" />;
+            })()}
+          </div>
+        </div>
+      )}
 
       <div className="pl-6 grid grid-cols-2 gap-2">
         {diagrams.map((diagram, idx) => {
@@ -56,12 +63,11 @@ export default function StromkreisDiagramm({
               onClick={() => !submitted && onAnswer(diagram)}
             >
               <div className="text-[11px] font-semibold uppercase tracking-[0.2em] opacity-70 mb-2">
-                {ui.diagram} {String.fromCharCode(65 + idx)}
+                Schema {String.fromCharCode(65 + idx)}
               </div>
-              <CircuitDiagramSvg
-                kind={diagram as CircuitDiagramId}
-                className="mx-auto h-20 w-full max-w-[150px]"
-              />
+              <div className="text-2xl leading-8 whitespace-pre-wrap font-mono">
+                {diagram}
+              </div>
             </button>
           );
         })}
@@ -69,7 +75,7 @@ export default function StromkreisDiagramm({
 
       {submitted && userAnswer && (
         <div className={`text-xs font-bold mt-2 pl-6 ${isCorrect ? "text-emerald-500" : "text-red-500"}`}>
-          {isCorrect ? `✓ ${ui.correct}` : `✗ ${ui.correctPrefix} ${ui.diagram} ${String.fromCharCode(65 + correctIndex)}`}
+          {isCorrect ? "✓ Richtig!" : `✗ Richtig: Schema ${String.fromCharCode(65 + correctIndex)}`}
         </div>
       )}
     </div>

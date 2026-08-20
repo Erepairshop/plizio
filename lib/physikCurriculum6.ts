@@ -119,8 +119,7 @@ export function setK6GeneratorMap(map: PhysikGeneratorMap) {
 
 export function getK6Questions(
   selectedSubtopicIds: string[],
-  count = 10,
-  lang = "de"
+  count = 10
 ): PhysikQuestion[] {
   const themes = K6_CURRICULUM;
   let pool: PhysikQuestion[] = [];
@@ -148,7 +147,7 @@ export function getK6Questions(
             if (themeGens[sub.id]) { generatorFn = themeGens[sub.id]; break; }
           }
           if (generatorFn) {
-            pool.push(...generatorFn(lang, Math.floor(Math.random() * 1000000)));
+            pool.push(...generatorFn("de", Math.floor(Math.random() * 1000000)));
           } else {
             pool.push(...sub.questions);
           }
@@ -160,7 +159,7 @@ export function getK6Questions(
             if (themeGens[typingKey]) { typingFn = themeGens[typingKey]; break; }
           }
           if (typingFn) {
-            pool.push(...typingFn(lang, Math.floor(Math.random() * 1000000)));
+            pool.push(...typingFn("de", Math.floor(Math.random() * 1000000)));
           }
         }
       }
