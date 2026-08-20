@@ -1,0 +1,22 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "skipLibCheck": true,
+    "incremental": false
+  },
+  "include": [
+    "app/geschichtetest/page.tsx",
+    "app/deutschtest/page.tsx",
+    "components/geschichte-visual/**/*.tsx",
+    "components/testpapier-visual/**/*.tsx",
+    "lib/geschichteCountryContent.ts",
+    "lib/geschichteCurriculum*.ts",
+    "lib/geschichteGenerators*.ts",
+    "lib/geschichteVisualContent.ts",
+    "lib/geschichteVisualGenerators.ts",
+    "lib/languageTestTypes.ts",
+    "next-env.d.ts"
+  ],
+  "exclude": ["node_modules", ".next", "out"]
+}

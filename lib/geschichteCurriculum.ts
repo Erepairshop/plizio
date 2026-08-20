@@ -179,7 +179,35 @@ export function getGeschichteQuestions(
     pool.push(...qs);
   }
 
-  const shuffled = pool.sort(() => Math.random() - 0.5);
+  const normalize = (value: unknown): string => String(value ?? "")
+    .normalize("NFKC")
+    .toLocaleLowerCase()
+    .replace(/[\p{P}\p{S}]+/gu, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+  const answerKey = (question: CurriculumQuestion): string => {
+    if (question.type === "mcq") {
+      const options = Array.isArray(question.options) ? question.options : [];
+      return normalize(options[question.correct ?? -1]);
+    }
+    const answer = Array.isArray(question.answer) ? question.answer[0] : question.answer;
+    return normalize(answer);
+  };
+
+  // A history test should not ask for the same fact twice, even when the
+  // country pool contains differently worded variants of the same question.
+  const seenQuestions = new Set<string>();
+  const seenAnswers = new Set<string>();
+  const uniquePool = pool.filter(question => {
+    const questionKey = normalize(question.question);
+    const answer = answerKey(question);
+    if (!answer || seenQuestions.has(questionKey) || seenAnswers.has(answer)) return false;
+    seenQuestions.add(questionKey);
+    seenAnswers.add(answer);
+    return true;
+  });
+
+  const shuffled = uniquePool.sort(() => Math.random() - 0.5);
   return shuffled.slice(0, count);
 }
 
