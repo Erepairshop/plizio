@@ -7,7 +7,7 @@ on:
         description: "Native country language"
         type: choice
         required: true
-        options: [it, es, pt, fr, tr, hr, nl]
+        options: [it, es, pt, fr, tr, hr, nl, pl]
       limit:
         description: "Pending batches to translate; 0 means all"
         required: true
@@ -33,12 +33,16 @@ jobs:
           NATIVE_LANG="${{ inputs.language }}"
           WORK="/home/erik/plizio-translations/native-sights-${NATIVE_LANG}-20260805-v1"
           SOURCE_REPO=/home/erik/plizio/current
+          # A persistent self-hosted runner may retain results from an older run.
+          # Recreate only this language's exact work directory before queueing.
+          rm -rf "$WORK"
           # Sidecars come from THIS checkout: a freshly added language is not in the
           # rendered release yet, so reading them from $SOURCE_REPO would queue nothing.
           # The rendered English pages still come from the active release.
           python3 scripts/native-rollout/build-native-sights-queue.py \
             --repo "$SOURCE_REPO" --output-dir "$WORK" --language "$NATIVE_LANG" \
-            --sidecar-root "$GITHUB_WORKSPACE/public/data/i18n/$NATIVE_LANG"
+            --sidecar-root "$GITHUB_WORKSPACE/public/data/i18n/$NATIVE_LANG" \
+            --only-missing
           cat "$WORK/summary.json"
 
       - name: Translate through Azure OpenAI
@@ -58,6 +62,7 @@ jobs:
             fr) LANGUAGE_NAME="French" ;;
             tr) LANGUAGE_NAME="Turkish" ;;
             nl) LANGUAGE_NAME="Dutch" ;;
+            pl) LANGUAGE_NAME="Polish" ;;
             *) echo "::error::No language name mapped for $NATIVE_LANG"; exit 1 ;;
           esac
           set -a
