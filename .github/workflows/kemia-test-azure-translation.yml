@@ -1,0 +1,68 @@
+name: Chemistry Test Azure Translation
+
+on:
+  push:
+    branches:
+      - codex/kemia-translation-20260820
+    paths:
+      - ".github/workflows/kemia-test-azure-translation.yml"
+      - "scripts/test-translation/**"
+      - "translation-work/kemia-test/**"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: chemistry-test-azure-translation
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: self-hosted
+    timeout-minutes: 90
+    env:
+      AZURE_OPENAI_ENDPOINT: ${{ secrets.AZURE_OPENAI_ENDPOINT }}
+      AZURE_OPENAI_API_KEY: ${{ secrets.AZURE_OPENAI_API_KEY }}
+      AZURE_OPENAI_DEPLOYMENT: ${{ secrets.AZURE_OPENAI_DEPLOYMENT }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Translate Hungarian
+        run: >-
+          python scripts/test-translation/run-azure-kemia-translation.py
+          --queue translation-work/kemia-test/queue.json
+          --output translation-work/kemia-test/result-hu.jsonl
+          --language-name Hungarian
+
+      - name: Translate Romanian
+        run: >-
+          python scripts/test-translation/run-azure-kemia-translation.py
+          --queue translation-work/kemia-test/queue.json
+          --output translation-work/kemia-test/result-ro.jsonl
+          --language-name Romanian
+
+      - name: Translate English
+        run: >-
+          python scripts/test-translation/run-azure-kemia-translation.py
+          --queue translation-work/kemia-test/queue.json
+          --output translation-work/kemia-test/result-en.jsonl
+          --language-name English
+
+      - name: Validate exact coverage
+        run: >-
+          python scripts/test-translation/validate-kemia-results.py
+          --manifest translation-work/kemia-test/source-manifest.json
+          --result translation-work/kemia-test/result-hu.jsonl
+          --result translation-work/kemia-test/result-ro.jsonl
+          --result translation-work/kemia-test/result-en.jsonl
+
+      - name: Upload translations
+        uses: actions/upload-artifact@v4
+        with:
+          name: kemia-test-translations
+          path: |
+            translation-work/kemia-test/source-manifest.json
+            translation-work/kemia-test/result-hu.jsonl
+            translation-work/kemia-test/result-ro.jsonl
+            translation-work/kemia-test/result-en.jsonl
+          retention-days: 7
