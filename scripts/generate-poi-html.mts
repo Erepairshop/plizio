@@ -3953,7 +3953,7 @@ ${heroImg ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(heroImg)
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&display=swap" rel="stylesheet"/>
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260812pcnav1"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260820hero1"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countryName, faqItems, [
   { name: I("home", lang), url: `/${navLang}/` },
   { name: countryName, url: buildCountryPath(navLang, countryId) },
@@ -4608,7 +4608,7 @@ ${hreflangLinks}
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&display=swap" rel="stylesheet"/>
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260812pcnav1"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260820hero1"/>
 <style>
 .plz-sp-back{display:inline-flex;align-items:center;gap:.4rem;color:var(--accent);text-decoration:none;font-size:.85rem;margin-bottom:.5rem}
 .plz-sp-back:hover{color:var(--accent-deep)}
