@@ -53,6 +53,13 @@ jobs:
           translation-work/sachkunde-test-repair/queue.json
           repair-en.jsonl
 
+      - name: Repair remaining German Hungarian strings
+        run: >-
+          bash scripts/test-translation/run-sachkunde-language.sh
+          hu Hungarian
+          translation-work/sachkunde-test-repair2-hu/queue.json
+          repair2-hu.jsonl
+
       - name: Validate exact coverage
         run: >-
           python3 scripts/test-translation/validate-sachkunde-results.py
@@ -69,6 +76,12 @@ jobs:
           --result /home/erik/plizio-translations/sachkunde-test-20260820/repair-ro.jsonl
           --result /home/erik/plizio-translations/sachkunde-test-20260820/repair-en.jsonl
 
+      - name: Validate Hungarian quality repair coverage
+        run: >-
+          python3 scripts/test-translation/validate-sachkunde-results.py
+          --manifest translation-work/sachkunde-test-repair2-hu/source-manifest.json
+          --result /home/erik/plizio-translations/sachkunde-test-20260820/repair2-hu.jsonl
+
       - name: Upload translations
         uses: actions/upload-artifact@v4
         with:
@@ -82,4 +95,6 @@ jobs:
             /home/erik/plizio-translations/sachkunde-test-20260820/repair-hu.jsonl
             /home/erik/plizio-translations/sachkunde-test-20260820/repair-ro.jsonl
             /home/erik/plizio-translations/sachkunde-test-20260820/repair-en.jsonl
+            translation-work/sachkunde-test-repair2-hu/source-manifest.json
+            /home/erik/plizio-translations/sachkunde-test-20260820/repair2-hu.jsonl
           retention-days: 7
