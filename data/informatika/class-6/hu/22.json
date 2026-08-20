@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Mobilalkalmazások használata",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az az „app”?",
+      "options": [
+        "Az alkalmazás (application) rövidítése",
+        "Egy különleges mobiltelefon",
+        "Töltő",
+        "Csengőhang"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik operációs rendszer található a legtöbb okostelefonon (kivéve Apple)?",
+      "options": [
+        "iOS",
+        "Android",
+        "Windows",
+        "Linux"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az Apple eszközök operációs rendszere?",
+      "options": [
+        "macOS",
+        "iOS",
+        "Android",
+        "watchOS"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Honnan szerezhetők be biztonságosan az Android-alkalmazások?",
+      "options": [
+        "Google Play Áruház",
+        "E-mailben",
+        "Ismeretlen weboldalakról",
+        "Nincs"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Honnan szerezhetők be az iPhone-alkalmazások?",
+      "options": [
+        "Apple App Store",
+        "Microsoft Store",
+        "Amazon",
+        "Play Áruház"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mik az alkalmazáson belüli vásárlások ('in-app purchases')?",
+      "options": [
+        "Vásárlások a szupermarketben",
+        "További költségek egy általában ingyenes alkalmazáson belül",
+        "Új telefonok vásárlása",
+        "Használt alkalmazások"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelentenek az alkalmazás jogosultságai (Berechtigungen) egy appnál?",
+      "options": [
+        "Mennyibe kerül az alkalmazás",
+        "Mire férhet hozzá az alkalmazás (pl. kamera, névjegyek)",
+        "A fejlesztő neve",
+        "Az alkalmazás színe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért érdemes telepíteni az alkalmazásfrissítéseket (App-Updates)?",
+      "options": [
+        "A tárterület kitöltéséhez",
+        "Új funkciókért és biztonsági fejlesztésekért",
+        "A telefon lassításához",
+        "Csak hibák esetén"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'felhő-szinkronizáció' alkalmazásoknál?",
+      "options": [
+        "Adatok online tárolása, és elérhetők más eszközökön",
+        "A telefon vizes lesz",
+        "Alkalmazások törlődnek",
+        "Időjárás-előrejelzés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „natív app” (Native App)?",
+      "options": [
+        "Egy operációs rendszerre kifejlesztett alkalmazás",
+        "Egy természetből inspirált alkalmazás",
+        "Nagyon régi alkalmazás",
+        "Egy webalkalmazás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „webapp” (Web-App)?",
+      "options": [
+        "Egy böngészőben futó alkalmazás",
+        "Egy pókoknak szánt alkalmazás",
+        "Egy internetkapcsolat nélküli alkalmazás",
+        "Hardveralkatrész"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Push-értesítés'?",
+      "options": [
+        "A telefon rezeg lenyomáskor",
+        "Üzenetek, amelyeket egy alkalmazás közvetlenül a zárolási képernyőre küld",
+        "A telefon kikapcsolódik",
+        "Csengőhang törlése"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „Roaming”?",
+      "options": [
+        "Telefont feltölteni",
+        "Mobilszolgáltatás használata külföldön",
+        "Játékok játszása",
+        "Alkalmazások törlése"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'QR' a QR-kódban?",
+      "options": [
+        "Gyors válasz",
+        "Quality Result",
+        "Kérdéskör",
+        "Gyors olvasás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'repülő üzemmód' (Flugmodus)?",
+      "options": [
+        "A telefon tud repülni",
+        "Minden rádiós kapcsolat le van tiltva",
+        "Csak játékokat lehet benne játszani",
+        "A telefon gyorsabb lesz"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehet csökkenteni egy alkalmazás akkufogyasztását?",
+      "options": [
+        "Háttérfrissítés kikapcsolása",
+        "Több alkalmazás megnyitása",
+        "Fényerő maximumra",
+        "Wi‑Fi mindig be"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az 'cache' egy alkalmazásnál?",
+      "options": [
+        "Készpénz",
+        "Gyorsabb megjelenítéshez használt adatgyorsítótár",
+        "Egy titkos jelszó",
+        "Hardverhiba"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a kétfaktoros hitelesítés (2FA)?",
+      "options": [
+        "Két jelszó",
+        "Jelszó + második tényező (pl. kód SMS-ben)",
+        "Két személy használja a telefont",
+        "Egy nagyon hosszú jelszó"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az „NFC” (Near Field Communication)?",
+      "options": [
+        "Near Field Communication (érintésmentes fizetéshez)",
+        "Nincs gyorstöltés",
+        "Hálózati fájlközpont",
+        "Új mappa létrehozása"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik alkalmazás szolgál általában kommunikációra?",
+      "options": [
+        "Számológép",
+        "WhatsApp",
+        "Óra",
+        "Beállítások"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „beta-verzió”?",
+      "options": [
+        "Egy kész alkalmazás",
+        "Próbaverzió új funkciók kipróbálásához",
+        "Egy halaknak szánt alkalmazás",
+        "Drága alkalmazás"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Sideloading'?",
+      "options": [
+        "Telefont oldalra fektetni",
+        "Alkalmazások telepítése a hivatalos áruházakon kívüli forrásokból",
+        "Kábeles töltés",
+        "Alkalmazások törlése"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az 'Augmented Reality' (AR) alkalmazásokban?",
+      "options": [
+        "Csak virtuális valóság",
+        "Digitális információk megjelenítése a kamera képén",
+        "Fekete-fehér képek",
+        "Nincs internet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy 'widget'?",
+      "options": [
+        "Kis segéd a kezdőképernyőn",
+        "Az akkumulátor egy része",
+        "Egy különleges kábel",
+        "Egy hiba"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért fontos a jelkóddal védett zárolóképernyő (Sperrbildschirm)?",
+      "options": [
+        "Hogy szebben nézzen ki",
+        "Személyes adatok védelméhez elvesztés esetén",
+        "Hogy a telefon ne kapcsoljon ki",
+        "Nem fontos"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "gépelés",
+      "text": "Alkalmazás"
+    },
+    {
+      "type": "gépelés",
+      "text": "Android"
+    },
+    {
+      "type": "gépelés",
+      "text": "iOS"
+    },
+    {
+      "type": "gépelés",
+      "text": "Play Áruház"
+    },
+    {
+      "type": "gépelés",
+      "text": "Alkalmazásbolt"
+    },
+    {
+      "type": "gépelés",
+      "text": "Push"
+    },
+    {
+      "type": "gépelés",
+      "text": "Roaming"
+    },
+    {
+      "type": "gépelés",
+      "text": "NFC"
+    },
+    {
+      "type": "gépelés",
+      "text": "Jogosultság"
+    },
+    {
+      "type": "gépelés",
+      "text": "Alkalmazáson belül"
+    }
+  ]
+}

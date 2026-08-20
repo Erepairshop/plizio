@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Változók a programozásban",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi a változó a programozásban?",
+      "options": [
+        "Egy rögzített érték",
+        "Egy helyőrző olyan adatoknak, amelyek változhatnak",
+        "Hardveralkatrész",
+        "Egy programnév"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehet vizuálisan elképzelni egy változót?",
+      "options": [
+        "Kalapácsként",
+        "Dobozként vagy fiókként egy névvel",
+        "Képernyőként",
+        "Kábelként"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy 'változónév' (Variablenname)?",
+      "options": [
+        "Az eredmény",
+        "Az elnevezés, amellett található az érték",
+        "Egy jelszó",
+        "A programkód"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Értékadás' (Zuweisung)?",
+      "options": [
+        "Érték törlése",
+        "Egy változónak érték adása (pl. x = 5)",
+        "Kérdést feltenni",
+        "Nyomtató kiválasztása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen adattípust használunk egész számokhoz?",
+      "options": [
+        "Karakterlánc",
+        "Egész szám (integer)",
+        "Boolean",
+        "Float"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen adattípust használunk szöveghez?",
+      "options": [
+        "Egész szám (integer)",
+        "Float",
+        "Karakterlánc",
+        "Boolean"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tárol egy \"Boolean\"?",
+      "options": [
+        "Számok",
+        "Szöveg",
+        "Igazságértékek (True/False)",
+        "Képek"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen adattípust használunk tizedes számokhoz?",
+      "options": [
+        "Egész szám (integer)",
+        "Float (vagy Double)",
+        "Karakterlánc",
+        "Char"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a \"Deklarieren\" (deklarálás)?",
+      "options": [
+        "Érték törlése",
+        "Egy változó regisztrálása/létrehozása a programban",
+        "Egy program bezárása",
+        "Üzenet küldése"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „konstans”?",
+      "options": [
+        "Egy változó, amely gyakran változik",
+        "Egy érték, amely a program során nem változik",
+        "Egy hiba",
+        "Egy bemeneti eszköz"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha egy változónak új értéket adunk?",
+      "options": [
+        "A régi érték törlődik/felülíródik",
+        "Mindkét érték elmentésre kerül",
+        "A program összeomlik",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Megengedett-e, hogy változónevek szóközt tartalmazzanak (általában)?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak a végén",
+        "Csak elején"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik jel használatos gyakran hozzárendelésre?",
+      "options": [
+        "=",
+        "!",
+        "?",
+        "#"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az 'inicializálás'?",
+      "options": [
+        "Egy változó törlése",
+        "Az első értékadás a létrehozás után",
+        "A program befejezése",
+        "Mentés"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Megváltozhat-e egy változó típusa (egyes nyelvekben)?",
+      "options": [
+        "Igen (dinamikus típusozás)",
+        "Nem, soha",
+        "Csak ha újraindítják a PC-t",
+        "Csak hibák esetén"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy „globális” hatókör (Gültigkeitsbereich)?",
+      "options": [
+        "A változó az egész programban ismert",
+        "A változó csak egy függvényben érvényes",
+        "A változó globálisan az interneten érvényes",
+        "A változó titkos"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „lokális” változó?",
+      "options": [
+        "Az egész házban ismert",
+        "Csak egy meghatározott blokkban érvényes (pl. függvény)",
+        "Nem igényel internetet",
+        "Lassú"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívjuk a változóban tárolt értékek listáját?",
+      "options": [
+        "Karakterlánc",
+        "Tömb (vagy lista)",
+        "Boolean",
+        "Egész szám (integer)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik a `x = 5 + 3` esetén?",
+      "options": [
+        "x lesz a '5+3' szöveg",
+        "x lesz az 8 érték",
+        "Hiba van",
+        "Semmi"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Megengedett-e, hogy változónevek számmal kezdődjenek (általában)?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak ha rövidek",
+        "Csak Pythonban"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen adattípusa van a 'Hallo Welt'-nek?",
+      "options": [
+        "Egész szám (integer)",
+        "Boolean",
+        "Karakterlánc",
+        "Float"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen adattípusa van a 3.14 értéknek?",
+      "options": [
+        "Egész szám (integer)",
+        "Float",
+        "Karakterlánc",
+        "Boolean"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen adattípusa van a True értéknek?",
+      "options": [
+        "Egész szám (integer)",
+        "Karakterlánc",
+        "Boolean",
+        "Float"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az 'Inkrementálás' (növelés)?",
+      "options": [
+        "Érték növelése 1-gyel",
+        "Érték törlése",
+        "Érték felére csökkentése",
+        "Kép beszúrása"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Decrementálás' (csökkentés)?",
+      "options": [
+        "Érték megduplázása",
+        "Érték csökkentése 1-gyel",
+        "Érték mentése",
+        "Érték másolása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "gépelés",
+      "text": "Változó"
+    },
+    {
+      "type": "gépelés",
+      "text": "Egész szám (integer)"
+    },
+    {
+      "type": "gépelés",
+      "text": "Karakterlánc"
+    },
+    {
+      "type": "gépelés",
+      "text": "Boolean"
+    },
+    {
+      "type": "gépelés",
+      "text": "Float"
+    },
+    {
+      "type": "gépelés",
+      "text": "="
+    },
+    {
+      "type": "gépelés",
+      "text": "Inicializálás"
+    },
+    {
+      "type": "gépelés",
+      "text": "Deklarál"
+    },
+    {
+      "type": "gépelés",
+      "text": "Konstans"
+    },
+    {
+      "type": "gépelés",
+      "text": "Tömb"
+    }
+  ]
+}

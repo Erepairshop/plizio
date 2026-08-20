@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Loops",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a loop in programming?",
+      "options": [
+        "An error",
+        "A repetition of instructions",
+        "A hardware component",
+        "A program name"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a loop that has a fixed number of iterations called?",
+      "options": [
+        "Counting loop (for loop)",
+        "Infinite loop",
+        "Random loop",
+        "Single loop"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which loop checks a condition before it executes?",
+      "options": [
+        "while loop",
+        "for loop",
+        "If-Then",
+        "Delete loop"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens in an infinite loop?",
+      "options": [
+        "The program ends immediately",
+        "The commands are repeated infinitely often",
+        "The PC gets faster",
+        "The variable is deleted"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "for (as in a for-loop)",
+      "options": [
+        "if",
+        "for",
+        "while",
+        "repeat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "When does a while loop normally terminate?",
+      "options": [
+        "When the condition becomes false",
+        "When the condition becomes true",
+        "After exactly 10 times",
+        "Never"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'loop counter'?",
+      "options": [
+        "A device at the electrical panel",
+        "A variable that counts the iterations",
+        "The name of the programmer",
+        "A password"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'iterate' mean?",
+      "options": [
+        "Delete",
+        "Repeat a step",
+        "Save",
+        "Print"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use a loop inside another loop?",
+      "options": [
+        "Yes (nested loops)",
+        "No",
+        "Only in Java",
+        "Only twice"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which command breaks out of a loop prematurely?",
+      "options": [
+        "stop",
+        "break",
+        "exit",
+        "end"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which command immediately jumps to the next loop iteration?",
+      "options": [
+        "next",
+        "continue",
+        "skip",
+        "jump"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a head-controlled loop?",
+      "options": [
+        "The condition is at the beginning",
+        "The condition is at the end",
+        "The condition is secret",
+        "It has no condition"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a foot-controlled loop?",
+      "options": [
+        "The condition is at the end (is executed at least once)",
+        "It is operated by foot",
+        "It is very slow",
+        "It appears at the end of the program"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How many iterations does `for i from 1 to 5` have?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "Infinite"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if the termination condition is never reached?",
+      "options": [
+        "Infinite loop",
+        "The program crashes",
+        "The computer turns off",
+        "0 is output"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are loops often used for?",
+      "options": [
+        "To work through long lists",
+        "To clean the monitor",
+        "To save ink",
+        "To delete the Internet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a single iteration of a loop called?",
+      "options": [
+        "Step",
+        "Iteration",
+        "Round",
+        "Path"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Decision diamond (condition for a loop)",
+      "options": [
+        "Rectangle",
+        "Diamond",
+        "Oval",
+        "Circle"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does `i++` mean in many languages inside a loop?",
+      "options": [
+        "Increase i by 1",
+        "Decrease i by 1",
+        "i is positive",
+        "delete i"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a for-loop count backwards?",
+      "options": [
+        "Yes",
+        "No",
+        "Only in special cases",
+        "Only with an image"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the result of a loop that prints 'Hello' 3 times?",
+      "options": [
+        "HelloHelloHello",
+        "Hello 3",
+        "Hello",
+        "error"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'array traversal'?",
+      "options": [
+        "A loop that addresses each element of a list",
+        "A fast PC",
+        "A virus",
+        "A hardware test"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which loop do you use if you don't know how many repetitions are needed?",
+      "options": [
+        "while loop",
+        "for loop",
+        "Counting loop",
+        "Constant"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'loop body' mean?",
+      "options": [
+        "The PC case",
+        "The part of the code that is repeated",
+        "The condition",
+        "The counter"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Why use loops instead of copying code?",
+      "options": [
+        "Shorter code, easier to change, fewer errors",
+        "Because copying is prohibited",
+        "Because otherwise the PC gets too warm",
+        "Because it looks more colorful"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Loop"
+    },
+    {
+      "type": "typing",
+      "text": "Iteration"
+    },
+    {
+      "type": "typing",
+      "text": "Counting loop"
+    },
+    {
+      "type": "typing",
+      "text": "for"
+    },
+    {
+      "type": "typing",
+      "text": "while loop"
+    },
+    {
+      "type": "typing",
+      "text": "Infinite loop"
+    },
+    {
+      "type": "typing",
+      "text": "break"
+    },
+    {
+      "type": "typing",
+      "text": "continue"
+    },
+    {
+      "type": "typing",
+      "text": "Loop counter"
+    },
+    {
+      "type": "typing",
+      "text": "Loop body"
+    }
+  ]
+}

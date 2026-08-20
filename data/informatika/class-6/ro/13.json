@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Formatarea celulelor",
+  "language": "RO",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce simbol reprezintă de obicei „Aldin” (Bold) în bara de formatare?",
+      "options": [
+        "U",
+        "I",
+        "F",
+        "K"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește îmbinarea mai multor celule într-una singură?",
+      "options": [
+        "Împarte celulele",
+        "Amestecă celulele",
+        "Combină celulele",
+        "Grupează celulele"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce format numeric se folosește pentru sume de bani?",
+      "options": [
+        "Procent",
+        "Implicit",
+        "Monedă",
+        "Științific"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Cum poți colora fundalul unei celule?",
+      "options": [
+        "Culoare de umplere (pictogramă găleată)",
+        "Culoarea fontului",
+        "Chenar",
+        "Ștergere"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face formatarea „Cursiv”?",
+      "options": [
+        "Textul devine îngroșat",
+        "Textul este înclinat (italic)",
+        "Textul este subliniat",
+        "Textul devine mai mare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se schimbă alinierea textului într-o celulă?",
+      "options": [
+        "Poate fi aliniat doar la stânga",
+        "Prin simbolurile de aliniere (stânga, centru, dreapta)",
+        "Numai prin spații",
+        "Prin dimensiunea fontului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce se întâmplă dacă formatezi o celulă ca „procent”?",
+      "options": [
+        "Numărul este înmulțit cu 100 și se adaugă semnul %",
+        "Numărul este împărțit la 100",
+        "Numărul devine roșu",
+        "Nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde găsești opțiunea \"întrerupere de text\"?",
+      "options": [
+        "În setările paginii",
+        "În grupul „Aliniere”",
+        "La tipărire",
+        "Deloc"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum poți adăuga o bordură unei celule?",
+      "options": [
+        "Pictogramă chenar în grupul Font",
+        "Șterge celula",
+        "Schimbă fontul",
+        "A colora fundalul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un «format personalizat»?",
+      "options": [
+        "Un format pe care îl definești tu",
+        "Un format standard",
+        "Un virus",
+        "O imagine"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se schimbă fontul în Excel?",
+      "options": [
+        "Meniu derulant în grupul Font",
+        "Click dreapta pe coloană",
+        "În bara de formule",
+        "Deloc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce culoare are fontul implicit în Excel?",
+      "options": [
+        "Roșu",
+        "Albastru",
+        "Negru",
+        "Verde"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face simbolul „Mareste indentarea”?",
+      "options": [
+        "Textul se deplasează mai mult spre dreapta",
+        "Textul devine mai mare",
+        "Celula devine mai lată",
+        "Celula devine mai înaltă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se reprezintă corect o dată?",
+      "options": [
+        "Alege formatul celulei 'Dată'",
+        "Tastează simplu",
+        "Formatare ca text",
+        "Ca monedă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă „Formatare condiționată”?",
+      "options": [
+        "Celulele sunt formatate automat dacă îndeplinesc o regulă",
+        "Formatarea doar când plouă",
+        "Formatare manuală",
+        "Șterge formatarea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum poți ascunde zecimalele?",
+      "options": [
+        "Simbol „Eliminare zecimală”",
+        "Șterge celula",
+        "Fă culoarea fontului albă",
+        "Rotunjire în jos a unui număr"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face instrumentul „Transferează formatul” (pensulă)?",
+      "options": [
+        "Copiați doar conținutul",
+        "Copiază formatarea unei celule pe altele",
+        "Șterge formatarea",
+        "Schimbă culoarea celulei"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum poți ajusta automat lățimea coloanei?",
+      "options": [
+        "Dublu-clic pe marginea dintre două antete de coloane",
+        "Șterge coloană",
+        "Repornește PC-ul",
+        "Combină celulele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde găsești alinierea verticală?",
+      "options": [
+        "Grup Aliniere (sus, centru, jos)",
+        "Meniu Fișier",
+        "Meniu Inserare",
+        "Meniul Vizualizare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este diferența dintre «combinarea celulelor» și «aliniere centrată»?",
+      "options": [
+        "Combinarea unește mai multe celule într-una, Centrare aliniază textul",
+        "Nu există nicio diferență",
+        "Combinarea șterge textul",
+        "Centrarea face textul îngroșat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum poți șterge toate formatarea unei celule?",
+      "options": [
+        "Pictogramă gumă -> Șterge formatele",
+        "Apăsați tasta Del",
+        "Colorează celula în negru",
+        "Închide Excel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce format este setat implicit?",
+      "options": [
+        "Monedă",
+        "Implicit",
+        "Text",
+        "Număr"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numesc liniile dintre celule?",
+      "options": [
+        "Linii de rețea",
+        "Granițele celulei",
+        "Linii de tabel",
+        "Chenar"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Poți roti textul într-o celulă?",
+      "options": [
+        "Da, prin opțiunea Orientare",
+        "Nu",
+        "Doar la 90 de grade",
+        "Doar dacă inserezi o imagine"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce se întâmplă la „întreruperea rândului”?",
+      "options": [
+        "Textul lung este împărțit în mai multe rânduri în interiorul unei celule",
+        "Celula este ștearsă",
+        "Se inserează o linie nouă",
+        "Textul este tăiat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "tastare",
+      "text": "cursiv"
+    },
+    {
+      "type": "tastare",
+      "text": "Transferă formatarea"
+    },
+    {
+      "type": "tastare",
+      "text": "Monedă"
+    },
+    {
+      "type": "tastare",
+      "text": "F"
+    },
+    {
+      "type": "tastare",
+      "text": "Culoare de umplere"
+    },
+    {
+      "type": "tastare",
+      "text": "Chenar"
+    },
+    {
+      "type": "tastare",
+      "text": "Formatare condiționată"
+    },
+    {
+      "type": "tastare",
+      "text": "Calibri"
+    },
+    {
+      "type": "tastare",
+      "text": "Del"
+    },
+    {
+      "type": "tastare",
+      "text": "Procentaj"
+    }
+  ]
+}

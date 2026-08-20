@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Copyright and licenses",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What does copyright protect?",
+      "options": [
+        "Only hardware",
+        "Personal intellectual creations (e.g. texts, images, music)",
+        "Only the internet",
+        "Nothing"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "From when is a work protected?",
+      "options": [
+        "After registering with the authority",
+        "Automatically when created",
+        "Only after the author's death",
+        "Only with the © symbol"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can you just use other people's images for your own website?",
+      "options": [
+        "Yes, it is on the Internet",
+        "No, you need the creator's permission",
+        "Only if they are small",
+        "Only if you do not sell it"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Creative Commons' (CC) mean?",
+      "options": [
+        "A computer club",
+        "Standardized licenses for sharing works",
+        "A paint program",
+        "A social network"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does the abbreviation 'BY' mean in a CC license?",
+      "options": [
+        "Buy me",
+        "Attribution to the creator required",
+        "Non-commercial",
+        "No changes"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'NC' mean in a license?",
+      "options": [
+        "No Code",
+        "Non-commercial (no making money with it)",
+        "New version allowed",
+        "Only computers"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'ND' (No Derivatives) mean?",
+      "options": [
+        "No changes to the work permitted",
+        "No downloads",
+        "Only for Germany",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'public domain'?",
+      "options": [
+        "Proprietary works",
+        "Works whose copyright has expired or that are free",
+        "Works of government",
+        "Paid works"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How long does copyright usually last in Germany?",
+      "options": [
+        "10 years",
+        "Up to 70 years after the author's death",
+        "Forever",
+        "50 years after creation"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'pirated copy'?",
+      "options": [
+        "A picture of a pirate",
+        "An illegally made copy of a copyrighted work",
+        "A copy for friends",
+        "A backup copy"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can you simply save music from YouTube as an MP3?",
+      "options": [
+        "Yes, it is allowed",
+        "Usually it violates the terms of use",
+        "Only if you listen to it quietly",
+        "Only for classical (music)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'right to one's own image' (right to control use of your likeness)?",
+      "options": [
+        "You are allowed to photograph anything",
+        "People must agree before photos of them are published",
+        "Images belong to the camera manufacturer",
+        "Does not exist"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'plagiarism'?",
+      "options": [
+        "A disease",
+        "Presenting others' intellectual work as one's own",
+        "A new program",
+        "A special paper"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can you include images from the Internet in a school presentation?",
+      "options": [
+        "Yes (educational exception), but cite sources",
+        "No, never",
+        "Only if the teacher allows it",
+        "Only black-and-white images"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Open Source' software?",
+      "options": [
+        "Proprietary software",
+        "Software whose source code is freely viewable and modifiable",
+        "Windowless software",
+        "Free demo software"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'SA' (Share Alike) mean in CC licenses?",
+      "options": [
+        "Propagation under the same conditions",
+        "Only for friends",
+        "Saving allowed",
+        "Always print"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'software license'?",
+      "options": [
+        "A driver's license",
+        "Terms of use between developer and user",
+        "A program code",
+        "A hardware key"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is 'free' synonymous with 'free of copyright'?",
+      "options": [
+        "Yes",
+        "No, even free works are protected",
+        "Only for apps",
+        "Only on the internet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can you pass a purchased e-book on to 100 people?",
+      "options": [
+        "Yes, it belongs to me",
+        "No, usually only for private use",
+        "Only if you delete it",
+        "Only as a PDF"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Fair Use' (especially in US law)?",
+      "options": [
+        "fair play",
+        "Limited use without permission (e.g. for quotations)",
+        "Everything is allowed",
+        "Does not exist"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'source citation'?",
+      "options": [
+        "Water source",
+        "Naming the author and location/source of a work",
+        "A password",
+        "A link to delete"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'freeware'?",
+      "options": [
+        "Software that may be used for free but remains copyrighted",
+        "Completely free software",
+        "Broken software",
+        "Software for the forest"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'shareware'?",
+      "options": [
+        "Software for sharing",
+        "Trialware (software that must be purchased after a period)",
+        "hardware part",
+        "A social network"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can you use brand logos (e.g. Apple) for your own purposes?",
+      "options": [
+        "Yes, looks good",
+        "No (trademark law)",
+        "Only if you recolor it",
+        "Only private"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Why does copyright exist?",
+      "options": [
+        "To protect and reward creatives",
+        "To stop the Internet",
+        "To save paper",
+        "To annoy teachers"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Copyright"
+    },
+    {
+      "type": "typing",
+      "text": "License"
+    },
+    {
+      "type": "typing",
+      "text": "Creative Commons"
+    },
+    {
+      "type": "typing",
+      "text": "BY"
+    },
+    {
+      "type": "typing",
+      "text": "NC"
+    },
+    {
+      "type": "typing",
+      "text": "Plagiarism"
+    },
+    {
+      "type": "typing",
+      "text": "Source citation"
+    },
+    {
+      "type": "typing",
+      "text": "public domain"
+    },
+    {
+      "type": "typing",
+      "text": "Open Source"
+    },
+    {
+      "type": "typing",
+      "text": "©"
+    }
+  ]
+}

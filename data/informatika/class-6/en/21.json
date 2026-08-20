@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Event-driven programming",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What does 'event-driven' mean?",
+      "options": [
+        "Program runs rigidly top to bottom",
+        "Program responds to events (e.g. clicks)",
+        "Program runs only on events",
+        "Program is random"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a typical 'event'?",
+      "options": [
+        "Mouse click",
+        "Key press",
+        "Timer expiration",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is the part of the program that waits for an event called?",
+      "options": [
+        "Event Listener (event receiver)",
+        "Event Maker",
+        "Event Destroyer",
+        "Event Speaker"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'event handler'?",
+      "options": [
+        "A special cable",
+        "A code block that runs when an event occurs",
+        "The user",
+        "A virus"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Where is event-driven programming often used?",
+      "options": [
+        "graphical user interfaces (GUIs)",
+        "Old calculators",
+        "Only in databases",
+        "Only when printing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'main loop' in such programs?",
+      "options": [
+        "An infinite loop that waits for events",
+        "An error",
+        "The end of the program",
+        "A screensaver"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "A GUI program (event-driven)",
+      "options": [
+        "A web browser",
+        "A text editor",
+        "A video game",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if no event occurs?",
+      "options": [
+        "The program waits (idle)",
+        "The program terminates",
+        "The PC crashes",
+        "The monitor goes black"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a mouse movement be an event?",
+      "options": [
+        "Yes",
+        "No",
+        "Only for special mice",
+        "Only under Linux"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'callback'?",
+      "options": [
+        "A callback on the phone",
+        "A function that is called after an event",
+        "A deleted program",
+        "A hardware fault"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is it called when you press a button?",
+      "options": [
+        "Click event",
+        "Push event",
+        "Press event",
+        "Go event"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'focus event'?",
+      "options": [
+        "A sharp image",
+        "An element is selected/activated (e.g., text field)",
+        "The program closes",
+        "A timer starts"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'timer event'?",
+      "options": [
+        "A clock on the PC",
+        "An event that is triggered after a certain time",
+        "A fast program",
+        "A hardware defect"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which programming language is well known for event handling on the web?",
+      "options": [
+        "HTML",
+        "JavaScript",
+        "CSS",
+        "SQL"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'event bubble'?",
+      "options": [
+        "A bubblegum bubble",
+        "Propagation of an event to parent elements",
+        "A deleted event",
+        "A graphics error"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'asynchronous' mean?",
+      "options": [
+        "simultaneously",
+        "Asynchronous (program does not wait for completion)",
+        "Without power",
+        "Very fast"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can multiple event handlers respond to the same event?",
+      "options": [
+        "Yes",
+        "No",
+        "Only one is allowed",
+        "Only in Python"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'drag-and-drop' event?",
+      "options": [
+        "Drag and drop elements",
+        "Deleting files",
+        "Printing images",
+        "PC restart"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens on the load event?",
+      "options": [
+        "A file is deleted",
+        "A page or resource has finished loading",
+        "The PC gets warm",
+        "The Internet is gone"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Why is event-driven control user-friendly?",
+      "options": [
+        "Because the program responds flexibly to inputs",
+        "Because it is more colorful",
+        "Because it uses less electricity",
+        "Because it doesn't need variables"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'event propagation'?",
+      "options": [
+        "Multiplication of events",
+        "The propagation of an event in the DOM tree",
+        "Deleting events",
+        "Ignoring clicks"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'submit event'?",
+      "options": [
+        "Submitting a form",
+        "Starting the PC",
+        "Deleting text",
+        "Opening a file"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'keydown' event?",
+      "options": [
+        "Key was pressed",
+        "Key was released",
+        "Key is broken",
+        "PC is shutting down"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'keyup' event?",
+      "options": [
+        "Key was released",
+        "Key was pressed",
+        "capitalize",
+        "Internet upload"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can programs define their own events (custom events)?",
+      "options": [
+        "Yes",
+        "No",
+        "Only in Scratch",
+        "Only professionals"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Event"
+    },
+    {
+      "type": "typing",
+      "text": "Event Handler"
+    },
+    {
+      "type": "typing",
+      "text": "Event Listener"
+    },
+    {
+      "type": "typing",
+      "text": "Mouse click"
+    },
+    {
+      "type": "typing",
+      "text": "Keydown"
+    },
+    {
+      "type": "typing",
+      "text": "Keyup"
+    },
+    {
+      "type": "typing",
+      "text": "Timer"
+    },
+    {
+      "type": "typing",
+      "text": "Drag and Drop"
+    },
+    {
+      "type": "typing",
+      "text": "JavaScript"
+    },
+    {
+      "type": "typing",
+      "text": "event-driven"
+    }
+  ]
+}

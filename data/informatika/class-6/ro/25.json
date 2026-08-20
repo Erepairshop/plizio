@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Drepturi de autor și licențe",
+  "language": "RO",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce protejează dreptul de autor?",
+      "options": [
+        "Doar hardware",
+        "Creații intelectuale personale (de ex. texte, imagini, muzică)",
+        "Doar internetul",
+        "Nimic"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "De când este protejată o operă?",
+      "options": [
+        "După înregistrarea la instituție",
+        "Automatic la creare",
+        "Abia după moartea autorului",
+        "Numai cu simbolul ©"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Poți folosi pur și simplu imagini străine pentru propriul site web?",
+      "options": [
+        "Da, este pe internet",
+        "Nu, ai nevoie de permisiunea autorului",
+        "Doar dacă sunt mici",
+        "Doar dacă nu o vinzi"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă „Creative Commons” (CC)?",
+      "options": [
+        "Un club de informatică",
+        "Licențe standardizate pentru eliberarea operelor",
+        "Un program de desen",
+        "O rețea socială"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă abrevierea „BY” într‑o licență CC?",
+      "options": [
+        "Cumpără-mă",
+        "Atribuirea autorului este obligatorie",
+        "Nu comercial",
+        "Nicio modificare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă „NC” într‑o licență?",
+      "options": [
+        "Fără cod",
+        "Nepublicitar/comercial (nu se câștigă bani din asta)",
+        "Versiune nouă permisă",
+        "Doar calculatoare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă „ND” (No Derivatives)?",
+      "options": [
+        "Nu sunt permise modificări la operă",
+        "Fără descărcări",
+        "Doar pentru Germania",
+        "Nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Domeniu public” (Public Domain)?",
+      "options": [
+        "Lucrări secrete",
+        "Opere pentru care dreptul de autor a expirat sau care sunt libere",
+        "Operă guvernamentală",
+        "Lucrări cu plată"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cât timp este valabil, de regulă, dreptul de autor în Germania?",
+      "options": [
+        "10 ani",
+        "Până la 70 de ani după moartea autorului",
+        "Pentru totdeauna",
+        "50 de ani de la crearea operei"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o «copie pirat» (raubkopie)?",
+      "options": [
+        "O imagine cu un pirat",
+        "O copie creată ilegal a unei opere protejate",
+        "O copie pentru prieteni",
+        "O copie de siguranță"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Poți salva pur și simplu muzică de pe YouTube ca MP3?",
+      "options": [
+        "Da, este permis",
+        "De obicei încalcă termenii de utilizare",
+        "Doar dacă o asculți în șoaptă",
+        "Doar la clasic"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este «dreptul la propria imagine»?",
+      "options": [
+        "Este permis să fotografiezi totul",
+        "Persoanele trebuie să își dea acordul înainte ca fotografiile lor să fie publicate",
+        "Imaginile aparțin producătorului camerei",
+        "Nu există"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un «plagiat»?",
+      "options": [
+        "O boală",
+        "Atribuirea operelor intelectuale ale altora ca fiind proprii",
+        "Un program nou",
+        "O hârtie specială"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Poți include imagini din internet într-o prezentare pentru școală?",
+      "options": [
+        "Da (excepție pentru educație), dar menționați sursele",
+        "Nu, niciodată",
+        "Numai dacă profesorul permite",
+        "Doar imagini alb-negru"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este software-ul «Open Source»?",
+      "options": [
+        "Software secretă",
+        "Software al cărui cod sursă este liber vizibil și modificabil",
+        "Software fără ferestre",
+        "Software demo gratuită"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă „SA” (Share Alike) în licențele CC?",
+      "options": [
+        "Redistribuire în aceleași condiții",
+        "Doar pentru prieteni",
+        "Salvarea permisă",
+        "A tipări întotdeauna"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o „licență software”?",
+      "options": [
+        "Un permis de conducere",
+        "Contract de utilizare între dezvoltator și utilizator",
+        "Un cod de program",
+        "O cheie hardware"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "„Gratuit” înseamnă același lucru cu „fără drepturi de autor”?",
+      "options": [
+        "Da",
+        "Nu, chiar și lucrările gratuite sunt protejate",
+        "Doar la aplicații",
+        "Doar pe internet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Poți să dai unui altcineva un e-book cumpărat (de ex. la 100 persoane)?",
+      "options": [
+        "Da, îmi aparține",
+        "Nu, de obicei doar pentru uz privat",
+        "Doar dacă o ștergi",
+        "Doar ca PDF"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Fair Use” (în special în dreptul american)?",
+      "options": [
+        "Joc corect",
+        "Utilizare restrânsă fără permisiune (de ex. pentru citate)",
+        "Totul este permis",
+        "Nu există"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o «mențiune a sursei» (quellenangabe)?",
+      "options": [
+        "Punct de alimentare cu apă",
+        "Menționarea autorului și a locului de găsire a unei lucrări",
+        "O parolă",
+        "Un link pentru ștergere"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Freeware”?",
+      "options": [
+        "Software care poate fi folosit gratuit, dar rămâne protejat prin drepturi de autor",
+        "Software complet liber",
+        "Software defect",
+        "Software pentru pădure"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este «shareware»?",
+      "options": [
+        "Software pentru partajare",
+        "Software de testare care trebuie cumpărat după o perioadă",
+        "Componentă hardware",
+        "O rețea socială"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Poți folosi logo-uri de marcă (de ex. Apple) în scopuri proprii?",
+      "options": [
+        "Da, arată bine",
+        "Nu (drepturi de marcă)",
+        "Doar dacă o recolorezi",
+        "Doar privat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "De ce există dreptul de autor?",
+      "options": [
+        "Ca să protejezi și să plătești creatorii",
+        "Ca să oprești internetul",
+        "Ca să economisești hârtie",
+        "Ca să-i supări pe profesori"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "tastare",
+      "text": "Drepturi de autor"
+    },
+    {
+      "type": "tastare",
+      "text": "Licență"
+    },
+    {
+      "type": "tastare",
+      "text": "Creative Commons"
+    },
+    {
+      "type": "tastare",
+      "text": "BY"
+    },
+    {
+      "type": "tastare",
+      "text": "NC"
+    },
+    {
+      "type": "tastare",
+      "text": "Plagiat"
+    },
+    {
+      "type": "tastare",
+      "text": "Indicație a sursei"
+    },
+    {
+      "type": "tastare",
+      "text": "domeniu public"
+    },
+    {
+      "type": "tastare",
+      "text": "Open Source"
+    },
+    {
+      "type": "tastare",
+      "text": "©"
+    }
+  ]
+}

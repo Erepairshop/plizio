@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Cellaformázás",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Melyik szimbólum jelenti általában a 'Félkövér' formázást az eszköztáron?",
+      "options": [
+        "U",
+        "Én",
+        "F",
+        "K"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan nevezik azt, amikor több cellát egyesítenek egy cellává?",
+      "options": [
+        "Cellák felosztása",
+        "Cellák keverése",
+        "Cellák egyesítése",
+        "Cellák csoportosítása"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik számformátumot használjuk pénzösszegekhez?",
+      "options": [
+        "Százalék",
+        "Alapértelmezett",
+        "Pénznem",
+        "Tudományos"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehet kiszínezni egy cella hátterét?",
+      "options": [
+        "Kitöltő szín (vödör ikon)",
+        "Betűszín",
+        "Keret",
+        "Törlés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit okoz a 'Kursiv' formázás?",
+      "options": [
+        "A szöveg vastagabb lesz",
+        "A szöveg dőlt lesz",
+        "A szöveg aláhúzva lesz",
+        "A szöveg nagyobb lesz"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehet megváltoztatni a szöveg igazítását egy cellában?",
+      "options": [
+        "Csak balra zárt lehetséges",
+        "Az igazításikonok (balra, középre, jobbra) segítségével",
+        "Csak szóközökkel",
+        "A betűméret alapján"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha egy cellát 'százalék' formátumra állítunk?",
+      "options": [
+        "A számot megszorozzuk 100-zal és %-jelet adunk hozzá",
+        "A számot elosztjuk 100-zal",
+        "A szám piros lesz",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol található a 'sorszéjtörés' (sortörés) opció?",
+      "options": [
+        "oldalbeállításokban",
+        "Az „Igazítás” csoportban",
+        "Nyomtatás közben",
+        "Egyáltalán nem"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehet keretet adni egy cellának?",
+      "options": [
+        "Keret ikon a Betűtípus csoportban",
+        "Cellа törlése",
+        "Betűtípus megváltoztatása",
+        "Háttér színezése"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy „egyedi formátum” (Benutzerdefiniertes Format)?",
+      "options": [
+        "Egy egyéni formátum",
+        "Egy szabványos formátum",
+        "Egy vírus",
+        "Kép"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehet megváltoztatni a betűtípust Excelben?",
+      "options": [
+        "Legördülő menü a Betűtípus csoportban",
+        "Jobb kattintás az oszlopon",
+        "A képletsorban",
+        "Egyáltalán nem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen színű az Excel alapértelmezett betűszíne?",
+      "options": [
+        "Piros",
+        "Kék",
+        "Fekete",
+        "Zöld"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a 'Einzug vergrößern' ikon?",
+      "options": [
+        "A szöveg jobbra eltolódik",
+        "A szöveg nagyobb lesz",
+        "A cella szélesebb lesz",
+        "A cella magasabb lesz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kell helyesen megjeleníteni egy dátumot?",
+      "options": [
+        "Cellaformátum: dátum kiválasztása",
+        "Egyszerű beírás",
+        "Szövegként formázni",
+        "Pénznemként"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a \"Bedingte Formatierung\" (feltételes formázás)?",
+      "options": [
+        "A cellák automatikusan formázódnak, ha megfelelnek egy szabálynak",
+        "Formázás csak eső esetén",
+        "Kézi formázás",
+        "Formázás törlése"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehet elrejteni a tizedesjegyeket?",
+      "options": [
+        "'Tizedesjegy eltávolítása' ikon",
+        "Cellа törlése",
+        "Betűszín fehérre állítása",
+        "Szám lekerekítése lefelé"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a „Formátum másolása” eszköz (festőecset)?",
+      "options": [
+        "Csak a tartalmat másolja",
+        "Egy cella formázását más cellákra másolja",
+        "Formázás törlése",
+        "Megváltoztatja a cella színét"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehet automatikusan igazítani az oszlopszélességet?",
+      "options": [
+        "Dupla kattintás két oszlopfejléc közötti határra",
+        "Oszlop törlése",
+        "Számítógép újraindítása",
+        "Cellák egyesítése"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol található a függőleges igazítás?",
+      "options": [
+        "Csoport igazítása (felül, középen, alul)",
+        "Fájl menü",
+        "Beszúrás menü",
+        "Nézet menü"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a különbség a „cellák egyesítése” és a „középre igazítás” között?",
+      "options": [
+        "Az egyesítés több cellából egyet csinál, a középre igazítás rendezi a szöveget",
+        "Nincs különbség",
+        "Az egyesítés törli a szöveget",
+        "Középre igazítás nem teszi félkövérré a szöveget"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehet törölni egy cella összes formázását?",
+      "options": [
+        "Radír ikon -> Formázás törlése",
+        "Del billentyű lenyomása",
+        "Cellа feketére színezése",
+        "Excel bezárása"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik formátum van alapértelmezettként beállítva?",
+      "options": [
+        "Pénznem",
+        "Alapértelmezett",
+        "Szöveg",
+        "Szám"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják a cellák közötti vonalakat?",
+      "options": [
+        "Rácsvonalak",
+        "Cellahatárok",
+        "Táblázatvonalak",
+        "Keret"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet szöveget egy cellában elforgatni?",
+      "options": [
+        "Igen, az Orientáció opcióval",
+        "Nem",
+        "Csak 90 fokkal",
+        "Csak ha képet illeszt be"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik a sortöréskor?",
+      "options": [
+        "Hosszú szöveg több sorra tördelődik egy cellán belül",
+        "A cella törlődik",
+        "Egy új sor lesz beillesztve",
+        "A szöveg le lesz vágva"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "gépelés",
+      "text": "dőlt"
+    },
+    {
+      "type": "gépelés",
+      "text": "Formátum átvitele"
+    },
+    {
+      "type": "gépelés",
+      "text": "Pénznem"
+    },
+    {
+      "type": "gépelés",
+      "text": "F"
+    },
+    {
+      "type": "gépelés",
+      "text": "Kitöltő szín"
+    },
+    {
+      "type": "gépelés",
+      "text": "Keret"
+    },
+    {
+      "type": "gépelés",
+      "text": "Feltételes formázás"
+    },
+    {
+      "type": "gépelés",
+      "text": "Calibri"
+    },
+    {
+      "type": "gépelés",
+      "text": "Del"
+    },
+    {
+      "type": "gépelés",
+      "text": "Százalékos arány"
+    }
+  ]
+}

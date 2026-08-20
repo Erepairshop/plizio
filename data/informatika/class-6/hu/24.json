@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Adatvédelem és GDPR",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mit jelent a DSGVO rövidítés?",
+      "options": [
+        "Általános adatvédelmi rendelet",
+        "Digitális biztonság az élen",
+        "Adatvédelmi törvény online",
+        "Német biztonsági rendelet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mik a személyes adatok (personenbezogene Daten)?",
+      "options": [
+        "Csak a név",
+        "Minden olyan adat, amely egy személy azonosítására alkalmas",
+        "Csak titkok",
+        "Csak képek"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Tárolhat-e egy cég indok nélkül az adataidat?",
+      "options": [
+        "Igen, mindig",
+        "Nem, csak engedéllyel vagy jogalappal",
+        "Csak ha pénzt fizetnek értük",
+        "Csak ha 18 éven felüli valaki"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a tájékoztatáshoz való jog (Recht auf Auskunft)?",
+      "options": [
+        "Mindent szabad megkérdezni",
+        "Megtudhatod, milyen adatokat tárol rólad egy cég",
+        "Adatokat törölhetsz",
+        "Nincs"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az „elfelejtéshez való jog” (Recht auf Vergessenwerden)?",
+      "options": [
+        "Mindent szabad elfelejteni",
+        "A személyes adatok törléséhez való jog",
+        "A számítógépet törlik",
+        "Név nélkül is maradhatsz"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „adatvédelmi tájékoztató” (Datenschutzerklärung)?",
+      "options": [
+        "Egy ígéret",
+        "A weboldal által az adatok felhasználásáról adott tájékoztatás",
+        "Törvénykönyv",
+        "Egy hibaüzenet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Vannak-e a cookie-k adatvédelmi szempontból relevánsak?",
+      "options": [
+        "Nem, csak sütik",
+        "Igen, képesek követni a felhasználói viselkedést",
+        "Csak ha nagyok",
+        "Csak a Google-nál"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a \"Datensparsamkeit\" (adatminimalizálás)?",
+      "options": [
+        "Ne költs pénzt adatokra",
+        "Csak a szükséges adatokat gyűjteni",
+        "Adatok mentése USB-meghajtóra",
+        "Adatok elrejtése"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol érvényes elsősorban a GDPR (adatvédelmi rendelet)?",
+      "options": [
+        "az Egyesült Államokban",
+        "az Európai Unióban (EU)",
+        "Csak Németországban",
+        "Világszerte"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki felügyeli az adatvédelmet egy cégnél?",
+      "options": [
+        "A főnök",
+        "Az adatvédelmi felelős",
+        "A rendőrség",
+        "Senki"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Személyes adat-e a te IP-címed?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak ha ismerik azt",
+        "Csak hackereknél"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Feltölthetsz-e másokról készült fotókat az internetre engedély nélkül?",
+      "options": [
+        "Igen, nyilvános",
+        "Nem (saját képhez való jog)",
+        "Csak ha kicsik",
+        "Csak barátoknál"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „Phishing”?",
+      "options": [
+        "Egy sport",
+        "Kísérlet hamis e-mailekkel/oldalakkal adatokat szerezni (phishing)",
+        "Adattörlés",
+        "Gyors internet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mitől lesz egy jelszó biztonságos?",
+      "options": [
+        "Csak a név",
+        "Betűk, számok és speciális karakterek kombinációja",
+        "Csak 4 szám",
+        "A születési dátum"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Kitesz-e egy iskola nyilvánosan a jegyeidet?",
+      "options": [
+        "Igen, a motiváció miatt",
+        "Nem, adatvédelem miatt",
+        "Csak ha jók",
+        "Csak képpel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „hozzájárulás” (Einwilligung)?",
+      "options": [
+        "Egy szerződés",
+        "Önkéntes hozzájárulás az adatkezeléshez",
+        "Kötelezettség",
+        "Egy tiltás"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik egy adatvédelmi incidens (data breach) esetén?",
+      "options": [
+        "Semmi",
+        "A cégnek általában értesítenie kell a hatóságokat és az érintetteket",
+        "Az adatok értékessé válnak",
+        "Az áram kimarad"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A egészségügyi adatok különösen védettek?",
+      "options": [
+        "Igen (különleges kategóriák)",
+        "Nem, normál adatok",
+        "Csak a kórházban",
+        "Csak orvosoknak"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a „Titkosítás” (Verschlüsselung)?",
+      "options": [
+        "Adatok törlése",
+        "Adatok olvashatatlanná tétele, hogy csak jogosultak tudják azokat elolvasni",
+        "Adatok elrejtése",
+        "Adatok másolása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az \"Anonymisierung\" (anonimizálás)?",
+      "options": [
+        "Adatok törlése",
+        "Adatok módosítása úgy, hogy azok már ne legyenek hozzárendelhetők személyhez",
+        "Név megváltoztatása",
+        "Képek pixelesítése"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'jelszókezelő' (Passwort-Manager)?",
+      "options": [
+        "Egy ember",
+        "Jelszavak biztonságos tárolására szolgáló szoftver",
+        "Könyv",
+        "Egy jelszót törlő alkalmazás"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért fontos az adatvédelem?",
+      "options": [
+        "Magánszféra és szabadság védelméhez",
+        "Az internet drágábbá tételéhez",
+        "A reklám megakadályozásához",
+        "Hogy a számítógép tovább tartson"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Olvashatsz-e idegen e-maileket?",
+      "options": [
+        "Igen, ha a számítógépet használják",
+        "Nem (posta titka / adatvédelem)",
+        "Csak ha kíváncsi valaki",
+        "Csak adminisztrátorként"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „Tracking” (követés)?",
+      "options": [
+        "Futni megy",
+        "A felhasználói viselkedés követése az interneten",
+        "Adatok tárolása",
+        "Képek betöltése"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „Felügyeleti hatóság“?",
+      "options": [
+        "A rendőrség",
+        "Hatóság, amely ellenőrzi az adatvédelem betartását",
+        "A titkosszolgálat",
+        "A bíróság"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "gépelés",
+      "text": "GDPR"
+    },
+    {
+      "type": "gépelés",
+      "text": "személyes adat"
+    },
+    {
+      "type": "gépelés",
+      "text": "Hozzájárulás"
+    },
+    {
+      "type": "gépelés",
+      "text": "Elfeledtetés"
+    },
+    {
+      "type": "gépelés",
+      "text": "Adatvédelmi nyilatkozat"
+    },
+    {
+      "type": "gépelés",
+      "text": "Adatvédelem"
+    },
+    {
+      "type": "gépelés",
+      "text": "Titkosítás"
+    },
+    {
+      "type": "gépelés",
+      "text": "Adatminimalizálás"
+    },
+    {
+      "type": "gépelés",
+      "text": "Nyomkövetés"
+    },
+    {
+      "type": "gépelés",
+      "text": "Adathalászat"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Competențe media și știri false",
+  "language": "RO",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este competența media?",
+      "options": [
+        "A putea porni un PC",
+        "Capacitatea de a folosi media în mod critic și sigur",
+        "Doar să te uiți la televizor",
+        "Petrec mult timp pe telefon"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce sunt „știrile false”?",
+      "options": [
+        "Știri adevărate",
+        "Dezinformare difuzată în mod țintit",
+        "Glume amuzante",
+        "Buletine meteo"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "De ce se răspândesc știrile false?",
+      "options": [
+        "În scop de divertisment",
+        "Manipulare, câștig de bani sau propagandă/agitatie",
+        "Doar din greșeală",
+        "Din cauza erorilor tehnice"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un «impressum»?",
+      "options": [
+        "Un ștampilă",
+        "Informația legal obligatorie despre operatorul unui site web",
+        "O parolă",
+        "Un nume de imagine"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "După ce criterii recunoști adesea un site de știri serios?",
+      "options": [
+        "Multă publicitate",
+        "Avertisment legal existent și stil obiectiv",
+        "Titluri senzaționale",
+        "Fără dată"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o «verificare a faptelor» (faktencheck)?",
+      "options": [
+        "Verificarea unei afirmații pentru adevărabilitate",
+        "Un joc rapid",
+        "Ștergere date",
+        "Un test hardware"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o «bulă de filtrare»?",
+      "options": [
+        "Un jucărie",
+        "Algoritmii arată doar lucruri care îți confirmă propria opinie",
+        "Un calculator curat",
+        "O conexiune la internet rapidă"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o «cameră de ecou» (echokammer)?",
+      "options": [
+        "O cameră cu ecou",
+        "Spații în rețea în care auzi doar propria opinie",
+        "Un studio de înregistrări",
+        "O componentă hardware"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă „Clickbait”?",
+      "options": [
+        "Pescuit pe internet",
+        "Titluri concepute doar pentru a atrage click-uri (adesea exagerate)",
+        "Un browser nou",
+        "Un virus"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un «social bot»?",
+      "options": [
+        "O persoană drăguță",
+        "Un program care se pretinde om și influențează opiniile",
+        "Un robot în casă",
+        "O aplicație de jocuri"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ar trebui să distribui imediat un mesaj șocant?",
+      "options": [
+        "Da, să informezi rapid pe toată lumea",
+        "Nu, mai întâi verifica sursa și fă un verificator de fapte",
+        "Doar dacă are multe aprecieri (likes)",
+        "Doar dacă prietenii fac asta și ei"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Manipulare”?",
+      "options": [
+        "Lucru manual",
+        "Influențare țintită a oamenilor",
+        "Recuperare date",
+        "Curățare ecran"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un «deepfake»?",
+      "options": [
+        "O groapă adâncă",
+        "Imagini sau videoclipuri manipulate care par reale (generate de IA)",
+        "Un joc rapid",
+        "Un spațiu de stocare în cloud"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Unde găsești de obicei informații de încredere?",
+      "options": [
+        "Doar pe TikTok",
+        "La instituții media publice sau ziare cunoscute",
+        "În lanțurile de mesaje WhatsApp",
+        "În comentariile YouTube"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este «critica surselor» (quellenkritik)?",
+      "options": [
+        "Opriți o sursă",
+        "A pune la îndoială cine răspândește o informație și de ce",
+        "Ștergerea mesajelor",
+        "A critica televizorul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "De ce nu sunt „Like”-urile o dovadă a adevărului?",
+      "options": [
+        "Like-urile pot fi cumpărate sau generate de boți",
+        "Adevărul nu are nevoie de aprecieri",
+        "Fiecare place ceva diferit",
+        "Like-urile sunt întotdeauna adevărate"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este «cenzura»?",
+      "options": [
+        "Acordarea de note",
+        "Suprimarea informațiilor de către autorități de stat",
+        "O parolă",
+        "O greșeală de scriere"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este «propaganda»?",
+      "options": [
+        "Publicitate pentru produse",
+        "Răspândire sistematică a ideilor politice pentru a influența",
+        "O carte nouă",
+        "Un program de calculator"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un «lanț de mesaje» (kuriu)?",
+      "options": [
+        "O scrisoare din metal",
+        "Mesaj care te îndeamnă să-l redirecționezi la mulți alții",
+        "O parolă sigură",
+        "Un defect hardware"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum verifici autenticitatea unei imagini?",
+      "options": [
+        "Vizualizare",
+        "Căutare inversă a imaginii (de ex. Google Imagini)",
+        "Tipărire",
+        "Ștergere"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Hate Speech”?",
+      "options": [
+        "Discurs de ură pe internet",
+        "Un program zgomotos",
+        "Un mesaj rapid",
+        "O eroare a imaginii"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Netiquette”?",
+      "options": [
+        "Reguli pentru comportament politicos pe internet",
+        "Un tarif de internet",
+        "Un nume de browser",
+        "Un program antivirus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "De ce este gândirea critică importantă?",
+      "options": [
+        "Ca să nu cazi în capcana minciunilor",
+        "Ca să găsești totul rău",
+        "Ca să tastezi mai repede",
+        "Ca să economisești energie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o „satiră”?",
+      "options": [
+        "O minciună",
+        "Formă artistică care exagerează lucrurile pentru a le critica",
+        "Un raport serios",
+        "Un manual de montaj"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Se poate crede orice pe internet?",
+      "options": [
+        "Da, scrie acolo",
+        "Nu, ar trebui să fii întotdeauna sceptic și să verifici",
+        "Doar ce spun profesorii",
+        "Doar ce scrie pe Wikipedia"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "tastare",
+      "text": "Competențe media"
+    },
+    {
+      "type": "tastare",
+      "text": "Știri false"
+    },
+    {
+      "type": "tastare",
+      "text": "Mențiuni legale"
+    },
+    {
+      "type": "tastare",
+      "text": "Clickbait"
+    },
+    {
+      "type": "tastare",
+      "text": "Verificare a faptelor"
+    },
+    {
+      "type": "tastare",
+      "text": "Manipulare"
+    },
+    {
+      "type": "tastare",
+      "text": "Deepfake"
+    },
+    {
+      "type": "tastare",
+      "text": "Bule de filtrare"
+    },
+    {
+      "type": "tastare",
+      "text": "Hate Speech"
+    },
+    {
+      "type": "tastare",
+      "text": "Netichetă"
+    }
+  ]
+}

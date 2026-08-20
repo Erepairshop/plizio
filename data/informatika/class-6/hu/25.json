@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Szerzői jog és licencek",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mit véd a szerzői jog (urheberrecht)?",
+      "options": [
+        "Csak hardver",
+        "Személyes szellemi alkotások (pl. szövegek, képek, zene)",
+        "Csak az internet",
+        "Semmi"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mettől védett egy mű?",
+      "options": [
+        "A hivatalba történő bejelentkezés után",
+        "Automatikusan a létrehozással egyidejűleg",
+        "Csak a szerző halála után",
+        "Csak a ©-jellel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Használhatsz-e idegen képeket egyszerűen a saját weboldaladhoz?",
+      "options": [
+        "Igen, az interneten van",
+        "Nem, szükség van a szerző engedélyére",
+        "Csak ha kicsik",
+        "Csak ha nem adják el"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a \"Creative Commons\" (CC)?",
+      "options": [
+        "Számítógépes klub",
+        "Művek megosztására szabványosított licencek",
+        "Egy rajzprogram",
+        "Egy közösségi hálózat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'BY' rövidítés egy CC-licencben?",
+      "options": [
+        "Vásárolj engem",
+        "A szerző feltüntetése kötelező",
+        "Nem kereskedelmi",
+        "Nincs módosítás"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'NC' egy licencben?",
+      "options": [
+        "Kód nélkül",
+        "Nem kereskedelmi (nem lehet vele pénzt keresni)",
+        "új verzió megengedett",
+        "Csak számítógépek"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az 'ND' (No Derivatives)?",
+      "options": [
+        "A mű originalitásának megváltoztatása nem engedélyezett",
+        "Nincs letöltés",
+        "Csak Németország számára",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'köztulajdon' (Public Domain)?",
+      "options": [
+        "Titkos művek",
+        "Művek, amelyeknél lejárt a szerzői jog vagy amelyek szabadok",
+        "Kormányzati művek",
+        "Fizetős művek"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Meddig érvényes általában a szerzői jog Németországban?",
+      "options": [
+        "10 év",
+        "Az alkotó halálától számított legfeljebb 70 évig",
+        "Örökké",
+        "a létrehozástól számított 50 év"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „kalózmásolat” (Raubkopie)?",
+      "options": [
+        "Kép egy kalózról",
+        "Egy jogvédett mű illegálisan készített másolata",
+        "Egy másolat barátoknak",
+        "Biztonsági mentés"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Lementheted-e a YouTube-ról a zenét egyszerűen MP3-ként?",
+      "options": [
+        "Igen, megengedett",
+        "Általában megsérti a használati feltételeket",
+        "Csak ha halkan hallgatják",
+        "Csak klasszikusnál"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a személyhez fűződő képviseleti jog (Recht am eigenen Bild)?",
+      "options": [
+        "Mindent szabad lefotózni",
+        "A személyeknek bele kell egyezniük, mielőtt fényképeiket közzéteszik",
+        "A képek a fényképezőgép gyártójához tartoznak",
+        "Nincs"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'plágiátum' (Plagiat)?",
+      "options": [
+        "Egy betegség",
+        "Mások szellemi teljesítményének sajátként feltüntetése",
+        "Egy új program",
+        "Egy különleges papír"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Beilleszthetsz-e az iskolai dolgozatodba az internetről származó képeket?",
+      "options": [
+        "Igen (oktatásra vonatkozó korlátozás), de forrásokat megadni",
+        "Nem, soha",
+        "Csak ha a tanár engedélyezi",
+        "Csak fekete-fehér képek"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az „Open Source” szoftver?",
+      "options": [
+        "Titkos szoftver",
+        "Olyan szoftver, amelynek forráskódja szabadon megtekinthető és módosítható",
+        "Ablak nélküli szoftver",
+        "Ingyenes demó szoftver"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'SA' (ShareAlike) a Creative Commons-licencekben?",
+      "options": [
+        "Ugyanazon feltételek melletti továbbadás",
+        "Csak barátoknak",
+        "Mentés engedélyezve",
+        "Mindig kinyomtatni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „szoftverlicenc” (Software-Lizenz)?",
+      "options": [
+        "Egy jogosítvány",
+        "Használati szerződés fejlesztő és felhasználó között",
+        "Egy programkód",
+        "Hardverkulcs"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Jelenti-e a „Ingyenes” azt, hogy mentes a szerzői jogoktól?",
+      "options": [
+        "Igen",
+        "Nem, még az ingyenes művek is védettek",
+        "Csak alkalmazásoknál",
+        "Csak az interneten"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Átadhatsz-e egy megvásárolt e-könyvet 100 embernek?",
+      "options": [
+        "Igen, hozzám tartozik",
+        "Nem, általában csak magánhasználatra",
+        "Csak ha törli",
+        "Csak PDF-ként"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'Fair Use' (különösen az amerikai jogban)?",
+      "options": [
+        "Fair játék",
+        "Korlátozott felhasználás engedély nélkül (pl. idézetekhez)",
+        "Minden megengedett",
+        "Nincs"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „forrásmegjelölés” (Quellenangabe)?",
+      "options": [
+        "Ivóvízforrás",
+        "A mű szerzőjének és megtalálási helyének feltüntetése",
+        "Egy jelszó",
+        "Egy törlésre mutató hivatkozás"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'freeware'?",
+      "options": [
+        "Olyan szoftver, amely ingyenesen használható, de szerzői jogilag védett marad",
+        "Teljesen szabad szoftver",
+        "Törött szoftver",
+        "Erdőre szánt szoftver"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „Shareware”?",
+      "options": [
+        "Megosztó szoftver",
+        "Próbaverziós szoftver, amelyet idő után meg kell vásárolni",
+        "Hardver-alkatrész",
+        "Egy közösségi hálózat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Használhatsz-e márkajelzéseket (pl. Apple) saját célra?",
+      "options": [
+        "Igen, rendben van",
+        "Nem (védjegyjog)",
+        "Csak ha átszínezik",
+        "Csak privátban"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért létezik a szerzői jog?",
+      "options": [
+        "A kreatívokat védeni és díjazni",
+        "Az internet leállításához",
+        "Papír megtakarításához",
+        "A tanárok bosszantásához"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "gépelés",
+      "text": "Szerzői jog"
+    },
+    {
+      "type": "gépelés",
+      "text": "Licenc"
+    },
+    {
+      "type": "gépelés",
+      "text": "Creative Commons"
+    },
+    {
+      "type": "gépelés",
+      "text": "BY"
+    },
+    {
+      "type": "gépelés",
+      "text": "NC"
+    },
+    {
+      "type": "gépelés",
+      "text": "Plágium"
+    },
+    {
+      "type": "gépelés",
+      "text": "Forrásmegjelölés"
+    },
+    {
+      "type": "gépelés",
+      "text": "közkinccsé vált"
+    },
+    {
+      "type": "gépelés",
+      "text": "Nyílt forráskódú"
+    },
+    {
+      "type": "gépelés",
+      "text": "©"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Cell formatting",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Bold icon (B)",
+      "options": [
+        "U",
+        "I",
+        "F",
+        "K"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is it called to merge several cells into one?",
+      "options": [
+        "Split cells",
+        "Shuffle cells",
+        "Merge cells",
+        "Group cells"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Currency format (e.g., with two decimal places)",
+      "options": [
+        "Percent",
+        "Default",
+        "Currency",
+        "Scientific"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "How can you color the background of a cell?",
+      "options": [
+        "Fill color (bucket icon)",
+        "Font color",
+        "Border",
+        "Delete"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'Italic' formatting do?",
+      "options": [
+        "Text becomes bold",
+        "Text is italicized",
+        "Text is underlined",
+        "Text becomes larger"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How do you change the text alignment in a cell?",
+      "options": [
+        "Only left-aligned possible",
+        "Above the alignment icons (left, center, right)",
+        "Only by spaces",
+        "About the font size"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if you format a cell as 'Percent'?",
+      "options": [
+        "The number is multiplied by 100 and a % sign is appended",
+        "The number is divided by 100",
+        "The number becomes red",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where do you find the 'word wrap' option?",
+      "options": [
+        "In the page settings",
+        "In the 'Alignment' group",
+        "When printing",
+        "Not at all"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How can you give a cell a border?",
+      "options": [
+        "Border icon in the Font group",
+        "Delete cell",
+        "Change font",
+        "color background"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'custom format'?",
+      "options": [
+        "A format that you define yourself",
+        "A standard format",
+        "A virus",
+        "An image"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you change the font in Excel?",
+      "options": [
+        "Dropdown menu in the Font group",
+        "Right-click on the column",
+        "In the formula bar",
+        "Not at all"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the default font color in Excel?",
+      "options": [
+        "Red",
+        "Blue",
+        "Black",
+        "green"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'Increase indent' icon do?",
+      "options": [
+        "The text indents further to the right",
+        "The text gets larger",
+        "The cell becomes wider",
+        "The cell becomes taller"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you represent a date correctly?",
+      "options": [
+        "Choose cell format 'Date'",
+        "Just type",
+        "Format as text",
+        "As currency"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'conditional formatting' mean?",
+      "options": [
+        "Cells are automatically formatted when they meet a rule",
+        "Format only when raining",
+        "Manual formatting",
+        "Clear formatting"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How can you hide decimal places?",
+      "options": [
+        "Icon 'Remove decimal places'",
+        "Delete cell",
+        "Set font color to white",
+        "Round number down"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the Format Painter tool (brush) do?",
+      "options": [
+        "Copies only the content",
+        "Copies the formatting of a cell to others",
+        "Clears formatting",
+        "Changes the cell color"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How can you auto-fit the column width?",
+      "options": [
+        "Double-click on the boundary between two column headers",
+        "Delete column",
+        "Restart PC",
+        "Merge cells"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where do you find the vertical alignment?",
+      "options": [
+        "group alignment (top, middle, bottom)",
+        "File menu",
+        "Insert menu",
+        "View menu"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the difference between 'merge cells' and 'center across'?",
+      "options": [
+        "Merging makes several cells one, Centering aligns the text",
+        "There is no difference",
+        "Merging deletes the text",
+        "Centering makes the text bold"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How can you clear all formatting from a cell?",
+      "options": [
+        "Eraser icon -> Clear formatting",
+        "Press Delete key",
+        "Color cell black",
+        "Close Excel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Default format",
+      "options": [
+        "Currency",
+        "Default",
+        "Text",
+        "Number"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What are the lines between the cells called?",
+      "options": [
+        "gridlines",
+        "Cell borders",
+        "Table borders",
+        "Border"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you rotate text in a cell?",
+      "options": [
+        "Yes, via the orientation option",
+        "No",
+        "Only by 90 degrees",
+        "Only if you insert a picture"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens on a line break?",
+      "options": [
+        "Long text is split into multiple lines within a cell",
+        "The cell is deleted",
+        "A new row is inserted",
+        "The text is cut off"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "italic"
+    },
+    {
+      "type": "typing",
+      "text": "Format painter"
+    },
+    {
+      "type": "typing",
+      "text": "Currency"
+    },
+    {
+      "type": "typing",
+      "text": "F"
+    },
+    {
+      "type": "typing",
+      "text": "Fill color"
+    },
+    {
+      "type": "typing",
+      "text": "Border"
+    },
+    {
+      "type": "typing",
+      "text": "Conditional formatting"
+    },
+    {
+      "type": "typing",
+      "text": "Calibri"
+    },
+    {
+      "type": "typing",
+      "text": "Del"
+    },
+    {
+      "type": "typing",
+      "text": "Percentage"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Create charts",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What are diagrams used for?",
+      "options": [
+        "For hiding data",
+        "For the graphical representation of values",
+        "For deleting tables",
+        "For calculating"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pie chart",
+      "options": [
+        "Bar chart",
+        "Pie chart",
+        "Line chart",
+        "Scatter plot"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Line chart",
+      "options": [
+        "Bar chart",
+        "Line chart",
+        "Pie chart",
+        "area chart"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the label of the data groups in the chart called?",
+      "options": [
+        "Legend",
+        "Content",
+        "List",
+        "Code"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the x-axis in a chart usually?",
+      "options": [
+        "The vertical axis",
+        "The horizontal axis",
+        "The depth axis",
+        "The legend"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the y-axis in a chart usually?",
+      "options": [
+        "The horizontal axis",
+        "The vertical axis (value axis)",
+        "The label",
+        "The title"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How do you insert a chart?",
+      "options": [
+        "Insert -> Charts",
+        "File -> Print",
+        "Start -> Format",
+        "Data -> Sort"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What must you do before creating a chart?",
+      "options": [
+        "Turn off PC",
+        "Select data in the table",
+        "Change font",
+        "Turn on the printer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can you change the chart type afterwards?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if you start over",
+        "Only in black and white"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are 'data labels'?",
+      "options": [
+        "The legend",
+        "The exact values directly on the bars/points",
+        "The name of the file",
+        "The page number"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Where is the title of a chart usually located?",
+      "options": [
+        "Bottom left",
+        "At the very top",
+        "In the legend",
+        "behind the diagram"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a horizontal bar chart called?",
+      "options": [
+        "Pie chart",
+        "Bar chart",
+        "Network diagram",
+        "Scatter plot"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Select data' do in the context menu?",
+      "options": [
+        "Changes the font color",
+        "Allows changing the data range",
+        "Deletes the chart",
+        "Prints the chart"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can you copy charts into Word or PowerPoint?",
+      "options": [
+        "Yes, they often remain linked",
+        "No",
+        "Only as a screenshot",
+        "Only if you save them as a PDF"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'compound diagram'?",
+      "options": [
+        "Two chart types in one (e.g. column and line)",
+        "A chart with many colors",
+        "A broken diagram",
+        "A chart without data"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'scale axes' mean?",
+      "options": [
+        "Delete the axes",
+        "Adjust the value range of the axes (e.g. 0 to 100)",
+        "Make the axes colorful",
+        "Move the axes"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How can you color a single bar in the chart?",
+      "options": [
+        "Double-click the column slowly and change the fill color",
+        "Delete the entire diagram",
+        "To color the table",
+        "Doesn't work"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the purpose of the plus symbol (+) next to a selected diagram?",
+      "options": [
+        "For adding values",
+        "For quickly adding chart elements",
+        "For enlarging",
+        "For saving"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Scatter plot",
+      "options": [
+        "Pie chart",
+        "Scatter (XY) chart",
+        "Bar chart",
+        "Bar chart"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'secondary axis'?",
+      "options": [
+        "A second Y-axis for different value ranges",
+        "A substitute for the legend",
+        "A hidden axis",
+        "The x-axis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you create 3D charts?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with 3D glasses",
+        "Only in special programs"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens when you change values in the table?",
+      "options": [
+        "The diagram is deleted",
+        "The chart updates automatically",
+        "Nothing",
+        "You have to recreate it"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the funnel icon next to the chart for?",
+      "options": [
+        "For deleting",
+        "For filtering data series",
+        "For pouring",
+        "For sorting"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What are the small ticks on the axes called?",
+      "options": [
+        "Tick marks",
+        "Points",
+        "grid",
+        "Border"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you save charts as their own sheet?",
+      "options": [
+        "Yes (move diagram)",
+        "No",
+        "Only as an image",
+        "Only in the cloud"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Pie chart"
+    },
+    {
+      "type": "typing",
+      "text": "Line chart"
+    },
+    {
+      "type": "typing",
+      "text": "Bar chart"
+    },
+    {
+      "type": "typing",
+      "text": "Legend"
+    },
+    {
+      "type": "typing",
+      "text": "X-axis"
+    },
+    {
+      "type": "typing",
+      "text": "Y-axis"
+    },
+    {
+      "type": "typing",
+      "text": "Select / highlight"
+    },
+    {
+      "type": "typing",
+      "text": "Title"
+    },
+    {
+      "type": "typing",
+      "text": "Scatter plots"
+    },
+    {
+      "type": "typing",
+      "text": "Update"
+    }
+  ]
+}

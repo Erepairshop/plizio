@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Feltételes elágazások",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mit csinál egy feltételes elágazás?",
+      "options": [
+        "Mindig ugyanazt végrehajtani",
+        "A kód csak akkor fusson le, ha egy feltétel igaz",
+        "Kikapcsolja a PC-t",
+        "Képek rajzolása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik kulcsszót használják szinte mindig elágazáshoz?",
+      "options": [
+        "if (ha)",
+        "for",
+        "while",
+        "do"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az 'else' (különben)?",
+      "options": [
+        "A kód akkor fut, ha a feltétel HAMIS",
+        "A kód mindig fut",
+        "A kód törlődik",
+        "Egy új kérdés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik szimbólum a folyamatábrán az elágazást jelzi?",
+      "options": [
+        "Téglalap",
+        "Kereszt (#)",
+        "Ellipszis",
+        "Nyíl"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan nevezzük gyakran azt a elágazást, amelynek több mint két ága van?",
+      "options": [
+        "Többszörös elágazás (Switch/Case)",
+        "Nagy elágazás",
+        "Végtelen elágazás",
+        "Körkörös hivatkozás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy 'összehasonlító operátor' (Vergleichsoperator)?",
+      "options": [
+        "Egy technikus",
+        "Összehasonlító jelek, pl. ==, <, > értékek összehasonlítására",
+        "Egy nyomtató",
+        "Egy program"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a `==` sok programozási nyelvben?",
+      "options": [
+        "Értékadás",
+        "Egyenlőségvizsgálat",
+        "Egyenlőtlenség",
+        "Nagyobb mint"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a `!=`?",
+      "options": [
+        "Egyenlőség",
+        "Egyenlőtlenség",
+        "Fakultás",
+        "Fontos"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Lehetnek-e elágazások egymásba ágyazva?",
+      "options": [
+        "Igen (if egy if-ben)",
+        "Nem",
+        "Csak Scratch-ben",
+        "Csak hibák esetén"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'logikai operátor' (Logischer Operator)?",
+      "options": [
+        "Okos ember",
+        "Kapcsolatok, mint ÉS (AND), VAGY (OR), NEM (NOT)",
+        "Kábel",
+        "Egy monitor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mikor igaz egy ÉS (AND) kapcsolat?",
+      "options": [
+        "Ha mindkét feltétel igaz",
+        "Ha csak az egyik igaz",
+        "Ha egyik sem igaz",
+        "Mindig"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mikor igaz egy VAGY (OR) kapcsolat?",
+      "options": [
+        "Ha legalább egy feltétel igaz",
+        "Csak ha mindkettő igaz",
+        "Csak ha mindkettő hamis",
+        "Sosem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a NEM-operátor (NOT)?",
+      "options": [
+        "Mindent töröl",
+        "Megfordítja az igazságértéket (Igaz -> Hamis)",
+        "Megszakítja a programot",
+        "Semmi"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az `else if`?",
+      "options": [
+        "További feltétel ellenőrzése, ha az első hamis volt",
+        "A program befejezése",
+        "Ciklus indítása",
+        "Szöveg kiíratása"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az eredménye a `(5 > 3) AND (10 < 20)` kifejezésnek?",
+      "options": [
+        "Igaz (True)",
+        "Hamis (False)",
+        "8",
+        "Hiba"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az eredménye a `(5 < 3) OR (10 < 20)` kifejezésnek?",
+      "options": [
+        "Igaz (True)",
+        "Hamis (False)",
+        "30",
+        "Hiba"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy „feltételes kifejezés”?",
+      "options": [
+        "Egy felhasználónak feltett kérdés",
+        "Kifejezés, amely True vagy False értékre értékelődik",
+        "Egy hosszú szöveg",
+        "Kép neve"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy nevezzük azt a szerkezetet, hogy 'Ha A akkor B különben C'?",
+      "options": [
+        "Alternatíva",
+        "Ciklus",
+        "Értékadás",
+        "Konstans"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha egy 'if' feltétel hamis és nincs 'else'?",
+      "options": [
+        "A program egyszerűen kihagyja a blokkot",
+        "Hiba van",
+        "A számítógép összeomlik",
+        "A program megáll"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'boole-i logika'?",
+      "options": [
+        "Színekkel számolás",
+        "Kétértékű logika (igaz/hamis)",
+        "Egy régi nyelv",
+        "Hardvertervezés"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik jel gyakran jelenti a 'nagyobb vagy egyenlő'-t?",
+      "options": [
+        ">=",
+        "=>",
+        ">+",
+        ">>"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az eredménye a NOT (5 == 5) kifejezésnek?",
+      "options": [
+        "Hamis (False)",
+        "Igaz (True)",
+        "5",
+        "Hiba"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használunk elágazásokat a mindennapokban (példa)?",
+      "options": [
+        "Jelszóellenőrzés (ha helyes -> bejelentkezés, különben hiba)",
+        "Tészta főzéséhez",
+        "Alváshoz",
+        "Zenehallgatáshoz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a neve annak a blokkterületnek, amelyik a `{}` között áll egy `if` után gyakran?",
+      "options": [
+        "Tömb",
+        "Ház",
+        "Láda",
+        "Zárójel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az 'Behúzás' (indentálás) elágazásoknál?",
+      "options": [
+        "Kód szebbé tétele",
+        "Kódblokkokhoz tartozás láthatóvá tétele",
+        "Hely megtakarítása",
+        "Hűti a PC-t"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "gépelés",
+      "text": "Kiválasztás"
+    },
+    {
+      "type": "gépelés",
+      "text": "if"
+    },
+    {
+      "type": "gépelés",
+      "text": "else"
+    },
+    {
+      "type": "gépelés",
+      "text": "Kereszt (#)"
+    },
+    {
+      "type": "gépelés",
+      "text": "=="
+    },
+    {
+      "type": "gépelés",
+      "text": "ÉS"
+    },
+    {
+      "type": "gépelés",
+      "text": "VAGY"
+    },
+    {
+      "type": "gépelés",
+      "text": "NEM"
+    },
+    {
+      "type": "gépelés",
+      "text": "Boolean"
+    },
+    {
+      "type": "gépelés",
+      "text": "beágyazott"
+    }
+  ]
+}

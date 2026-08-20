@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Eseményvezérelt programozás",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mit jelent az 'Eseményvezérelt' (event-driven)?",
+      "options": [
+        "A program mereven felülről lefelé fut",
+        "A program reagál eseményekre (pl. kattintások)",
+        "A program csak eseményeknél fut",
+        "A program véletlenszerű"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi egy tipikus „esemény” (event)?",
+      "options": [
+        "Egérkattintás",
+        "billentyűnyomás",
+        "Időzítő lejárta",
+        "Minden említett"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják a program azon részét, amelyik egy eseményre vár?",
+      "options": [
+        "Eseményfigyelő (eseményfogadó)",
+        "Eseménykeltő",
+        "Eseménymegsemmisítő",
+        "Eseménybeszélő"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy „eseménykezelő” (Event Handler)?",
+      "options": [
+        "Egy különleges kábel",
+        "Kódrészlet, amely akkor fut le, amikor esemény történik",
+        "A felhasználó",
+        "Egy vírus"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol használják gyakran az eseményvezérelt programozást?",
+      "options": [
+        "Grafikus felhasználói felületek (GUI-k)",
+        "Régi zsebszámológépek",
+        "Csak adatbázisokban",
+        "Csak nyomtatáskor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a „Main Loop” (főciklus, főprogramhurok) ilyen programokban?",
+      "options": [
+        "Egy végtelen ciklus, amely eseményekre vár",
+        "Egy hiba",
+        "A program vége",
+        "Képernyőkímélő"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik program gyakran eseményvezérelt?",
+      "options": [
+        "Egy webböngésző",
+        "Egy szövegszerkesztő",
+        "Egy videojáték",
+        "Minden említett"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha semmilyen esemény nem következik be?",
+      "options": [
+        "A program vár (tétlen)",
+        "A program befejezi magát",
+        "A számítógép összeomlik",
+        "A monitor elsötétül"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e egy egérmozgás esemény?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak speciális egereknél",
+        "Csak Linux alatt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy „visszahívás” (Callback)?",
+      "options": [
+        "Visszahívás telefonon",
+        "Egy esemény hatására meghívott függvény",
+        "Törölt program",
+        "Hardverhiba"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják azt, amikor megnyomunk egy gombot?",
+      "options": [
+        "Kattintás esemény",
+        "Push-esemény",
+        "Sajtóesemény",
+        "Go-esemény"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy „fókusz esemény” (Focus-Event)?",
+      "options": [
+        "Éles kép",
+        "Egy elem kiválasztva/aktiválva (pl. szövegmező)",
+        "A program bezárul",
+        "Elindul egy időzítő"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy 'időzítő esemény' (Timer-Event)?",
+      "options": [
+        "Egy óra a számítógépen",
+        "Egy esemény, amely egy meghatározott idő után aktiválódik",
+        "Gyors program",
+        "Hardverhiba"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik programozási nyelv ismert nagyon a webes eseménykezelésre?",
+      "options": [
+        "HTML",
+        "JavaScript",
+        "CSS",
+        "SQL"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy „eseménybuborék” (Event Bubble)?",
+      "options": [
+        "Egy rágógumibuborék",
+        "Egy esemény továbbadása a feljebb lévő elemeknek",
+        "Egy törölt esemény",
+        "Grafikai hiba"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az \"Asynchron\"?",
+      "options": [
+        "Egyszerre",
+        "Aszinkron (a program nem vár a befejezésre)",
+        "Áram nélkül",
+        "Nagyon gyors"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Tudnak-e több eseménykezelő ugyanarra az eseményre reagálni?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak egy engedélyezett",
+        "Csak Python-ban"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy „húzás és ejtés” (Drag-and-Drop) esemény?",
+      "options": [
+        "Elemek húzása és elengedése",
+        "Fájlok törlése",
+        "Képek nyomtatása",
+        "Számítógép újraindítása"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik a 'load'-eseménykor?",
+      "options": [
+        "Egy fájl törlődik",
+        "Egy oldal vagy erőforrás betöltődött",
+        "A számítógép melegszik",
+        "Az internet eltűnt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért felhasználóbarát az eseményvezérlés (Event-Steuerung)?",
+      "options": [
+        "Mert a program rugalmasan reagál a bevitelre",
+        "Mert színesebb",
+        "Mert kevesebb áramot fogyaszt",
+        "Mert nem igényel változókat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az 'eseménypropagáció' (Event Propagation)?",
+      "options": [
+        "Események felszaporodása",
+        "Egy esemény terjedése az elemtörzsben",
+        "Események törlése",
+        "A kattintások figyelmen kívül hagyása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy 'submit' esemény (Submit-Event)?",
+      "options": [
+        "Egy űrlap beküldése",
+        "A számítógép indítása",
+        "Szöveg törlése",
+        "Fájl megnyitása"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Keydown' esemény?",
+      "options": [
+        "A billentyű megnyomva",
+        "A billentyű felengedve",
+        "A billentyű tönkrement",
+        "A számítógép leáll"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Keyup' esemény?",
+      "options": [
+        "A billentyű felengedve",
+        "A billentyű megnyomva",
+        "Nagybetűs írás",
+        "Internet-feltöltés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tudnak-e a programok saját eseményeket definiálni (egyedi események)?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak Scratch-ben",
+        "Csak szakembereknek"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "gépelés",
+      "text": "Esemény"
+    },
+    {
+      "type": "gépelés",
+      "text": "Eseménykezelő"
+    },
+    {
+      "type": "gépelés",
+      "text": "Eseményfigyelő"
+    },
+    {
+      "type": "gépelés",
+      "text": "Egérkattintás"
+    },
+    {
+      "type": "gépelés",
+      "text": "Billentyű lenyomva (keydown)"
+    },
+    {
+      "type": "gépelés",
+      "text": "Billentyű felengedve (keyup)"
+    },
+    {
+      "type": "gépelés",
+      "text": "Időzítő"
+    },
+    {
+      "type": "gépelés",
+      "text": "Húzás és ejtés"
+    },
+    {
+      "type": "gépelés",
+      "text": "JavaScript"
+    },
+    {
+      "type": "gépelés",
+      "text": "eseményvezérelt"
+    }
+  ]
+}

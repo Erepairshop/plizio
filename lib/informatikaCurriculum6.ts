@@ -1,5 +1,6 @@
 import type { KemiaTheme, KemiaQuestion } from "./kemiaCurriculumShared";
 import { selectDiverseInformatikaQuestions } from "./informatikaQuestionDiversity";
+import { INFORMATIKA_K6_GENERATED_TRANSLATIONS } from "./informatikaCurriculum6GeneratedTranslations";
 
 // ─── German (complete, all 30) ────────────────────────────────────────────────
 import t01_de from "@/data/informatika/class-6/de/1.json";
@@ -152,6 +153,9 @@ const K6_DATA: Record<string, LangBundle> = {
   "info_k6_t29": { de: t29_de, hu: t29_hu, ro: t29_ro, en: t29_en },
   "info_k6_t30": { de: t30_de, hu: t30_hu, ro: t30_ro, en: t30_en },
 };
+for (const [subtopicId, translations] of Object.entries(INFORMATIKA_K6_GENERATED_TRANSLATIONS)) {
+  Object.assign(K6_DATA[subtopicId], translations);
+}
 
 function languageForCountry(cc?: string): "de" | "hu" | "ro" | "en" {
   return (cc === "DE" || cc === "AT" || cc === "CH") ? "de"

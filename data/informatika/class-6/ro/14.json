@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Funcții simple",
+  "language": "RO",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Cu ce simbol începe fiecare funcție?",
+      "options": [
+        "+",
+        "=",
+        "?",
+        "!"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce funcție adună toate numerele dintr-un interval?",
+      "options": [
+        "PLUS",
+        "ADD",
+        "SUMĂ",
+        "TOTAL"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce calculează funcția MITTELWERT?",
+      "options": [
+        "Suma",
+        "Media (aritmetică)",
+        "Cel mai mare număr",
+        "Cel mai mic număr"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce funcție găsește cel mai mic număr?",
+      "options": [
+        "MIC",
+        "MIN",
+        "MAX",
+        "PUȚIN"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce funcție găsește cel mai mare număr?",
+      "options": [
+        "MARI",
+        "MAX",
+        "MIN",
+        "PUTERNIC"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum separi începutul și sfârșitul unui interval într-o funcție?",
+      "options": [
+        ";",
+        "-",
+        ":",
+        ","
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face funcția NUMĂR?",
+      "options": [
+        "Numără celulele cu numere",
+        "Numără toate celulele goale",
+        "Adună numerelor",
+        "Șterge conținutul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde poți insera rapid funcții?",
+      "options": [
+        "Prin simbolul fx (inserare funcție)",
+        "Din meniul de imprimare",
+        "Prin butonul drept al mouse-ului",
+        "Deloc"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce se întâmplă dacă o funcție este scrisă greșit?",
+      "options": [
+        "Apare un mesaj de eroare (de ex. #NAME?)",
+        "Excel se blochează",
+        "Calculatorul emite un bip",
+        "Se afișează 0"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pot fi funcțiile încorporate unele în altele?",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar în versiunea profesională",
+        "Doar de două ori"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce funcție numără toate celulele care nu sunt goale?",
+      "options": [
+        "COUNT",
+        "COUNTA",
+        "SUMĂ",
+        "COUNTIF"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face funcția ASTĂZI()?",
+      "options": [
+        "Afișează data curentă",
+        "Afișează ora",
+        "Șterge eticheta",
+        "Nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face funcția ROTUNDEAZĂ?",
+      "options": [
+        "Rotunjește celula",
+        "Rotunjește un număr la o anumită poziție",
+        "Șterge zecimalele",
+        "Mărește numărul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce funcție afișează data și ora curente?",
+      "options": [
+        "ASTĂZI",
+        "ACUM",
+        "ORĂ",
+        "DATĂ"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un «argument» într‑o funcție?",
+      "options": [
+        "Un conflict",
+        "O valoare sau un domeniu de care funcția are nevoie",
+        "Numele funcției",
+        "Rezultatul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Unde sunt afișați argumentele unei funcții?",
+      "options": [
+        "Între paranteze după numele funcției",
+        "Înainte de semnul egal",
+        "Deasupra celulei",
+        "Între ghilimele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se scrie suma de la A1 până la A10?",
+      "options": [
+        "=SUMME(A1:A10)",
+        "=SUMME(A1-A10)",
+        "=A1+A10",
+        "SUMĂ A1 până la A10"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă #DIV/0!?",
+      "options": [
+        "Împărțirea la zero nu este permisă",
+        "Celula este prea mică",
+        "Nume fals",
+        "Niciun valoare găsită"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face funcția PRODUS?",
+      "options": [
+        "Adună numere",
+        "Înmulteste toate numerele din argumente",
+        "Împarte numere",
+        "Scade numere"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum poți copia o funcție în alte celule?",
+      "options": [
+        "Trageți cu caseta de completare",
+        "Ctrl + C și Ctrl + V",
+        "Deloc",
+        "Tastează din nou"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce calculează =ANZAHL(A1:A5), dacă A1=10, A2=Text, A3=20?",
+      "options": [
+        "3",
+        "2",
+        "30",
+        "Eroare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face funcția DACA (simplu)?",
+      "options": [
+        "Verifică o condiție și returnează o valoare în funcție de rezultat",
+        "Adună doar când plouă",
+        "Șterge celulele",
+        "Caută text"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este rezultatul lui =SUMME(5;10;15)?",
+      "options": [
+        "30",
+        "15",
+        "5",
+        "51015"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face funcția ROTUND_SUPERIOR?",
+      "options": [
+        "Rotunjește un număr în sus",
+        "Găsește cel mai mare număr",
+        "Mărește textul",
+        "Nimic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce caracter separă argumentele într-o funcție (versiunea DE)?",
+      "options": [
+        ":",
+        ";",
+        ",",
+        "-"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "tastare",
+      "text": "SUMĂ"
+    },
+    {
+      "type": "tastare",
+      "text": "MEDIA"
+    },
+    {
+      "type": "tastare",
+      "text": "MIN"
+    },
+    {
+      "type": "tastare",
+      "text": "MAX"
+    },
+    {
+      "type": "tastare",
+      "text": "="
+    },
+    {
+      "type": "tastare",
+      "text": ":"
+    },
+    {
+      "type": "tastare",
+      "text": "COUNT"
+    },
+    {
+      "type": "tastare",
+      "text": "ASTĂZI"
+    },
+    {
+      "type": "tastare",
+      "text": "Argumente"
+    },
+    {
+      "type": "tastare",
+      "text": "#DIV/0!"
+    }
+  ]
+}
