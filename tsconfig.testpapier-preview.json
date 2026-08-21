@@ -1,0 +1,21 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "skipLibCheck": true,
+    "incremental": false,
+    "types": ["node", "react", "styled-jsx/global"]
+  },
+  "include": [
+    "app/testpapier-preview/page.tsx",
+    "components/chemie-visual/**/*.tsx",
+    "components/physik-visual/**/*.tsx",
+    "components/sachkunde-visual/**/*.tsx",
+    "components/biologie-visual/PflanzenAnatomie.tsx",
+    "components/testpapier-visual/svg/**/*.tsx",
+    "lib/kemiaVisualContent.ts",
+    "lib/physikVisualContent.ts",
+    "next-env.d.ts"
+  ],
+  "exclude": ["node_modules", ".next", "out"]
+}

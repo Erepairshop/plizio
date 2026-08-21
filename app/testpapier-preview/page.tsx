@@ -167,14 +167,13 @@ export default function TestpapierPreviewPage() {
               <h3 className="text-sm font-bold uppercase text-rose-600 mb-4">K7: LaborSymbol (Chemie)</h3>
               <LaborSymbol
                 prompt="Was bedeutet dieses Symbol?"
-                symbol="🧪"
-                title="Reagenzglas"
-                svgName="ReagenzglasSvg"
-                options={["Erhitzen", "Mischen", "Messen", "Schützen"]}
-                correctIndex={1}
+                diagramId="flammable"
+                options={["Entzündlich", "Giftig", "Ätzend", "Reizend"]}
+                correctIndex={0}
                 userAnswer={answers["q6"] || ""}
                 submitted={!!answers["q6"]}
                 onAnswer={(a) => handleAnswer("q6", a)}
+                lang="de"
               />
             </div>
 
@@ -182,12 +181,12 @@ export default function TestpapierPreviewPage() {
               <h3 className="text-sm font-bold uppercase text-rose-600 mb-4">K7: StromkreisDiagramm (Physik)</h3>
               <StromkreisDiagramm
                 prompt="Welcher Stromkreis ist geschlossen?"
-                diagrams={["Offen", "Geschlossen", "Kurzschluss"]}
-                svgName="StromkreisV2Svg"
+                diagrams={["open", "closed", "series", "parallel"]}
                 correctIndex={1}
                 userAnswer={answers["q7"] || ""}
                 submitted={!!answers["q7"]}
                 onAnswer={(a) => handleAnswer("q7", a)}
+                lang="de"
               />
             </div>
 
