@@ -1,0 +1,14 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "incremental": false
+  },
+  "include": [
+    "app/mathtest/page.tsx",
+    "components/SchoolTaskBlock.tsx",
+    "lib/schoolTaskGenerator.ts",
+    "lib/printVisualHelpers.ts",
+    "scripts/audit-math-test-route.ts"
+  ]
+}
