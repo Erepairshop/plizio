@@ -2,13 +2,6 @@ name: AI Test K7-K8 Azure Translation
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - codex/ai-test-route-20260821
-    paths:
-      - ".github/workflows/ai-test-k78-azure-translation.yml"
-      - "scripts/test-translation/*ai-k78*"
-      - "translation-work/ai-test-k78/**"
 
 permissions:
   contents: read
