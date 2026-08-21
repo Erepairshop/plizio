@@ -104,10 +104,9 @@ function temperatureMCQ(lang: string, seed: number = 0): CurriculumQuestion[] {
 
   // Q1-5: Freezing point identification
   for (let i = 0; i < 5; i++) {
-    const point = pick(celsiusPoints, rng);
-    const wrong1 = pick(celsiusPoints.filter((p) => p.temp !== point.temp), rng);
-    const wrong2 = pick(celsiusPoints.filter((p) => p.temp !== point.temp && p.temp !== wrong1.temp), rng);
-    const wrong3 = pick(celsiusPoints.filter((p) => p.temp !== point.temp && p.temp !== wrong1.temp && p.temp !== wrong2.temp), rng);
+    const point = celsiusPoints[0];
+    const distractors = shuffle(celsiusPoints.filter((p) => p.temp !== point.temp), rng);
+    const [wrong1, wrong2, wrong3] = distractors;
 
     questions.push(
       createMCQ(

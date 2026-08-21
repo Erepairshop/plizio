@@ -628,7 +628,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
     if (configVTs && configVTs.length > 0) {
       const qs: TestQuestion[] = [];
       for (const vt of configVTs) {
-        const generated = vt.generate(Math.ceil(count / configVTs.length));
+        const generated = vt.generate(Math.ceil(count / configVTs.length), langPrefix);
         for (const item of generated) {
           qs.push({ ...item, type: vt.type as TestQuestion["type"], subtopic: sid });
         }
@@ -1295,6 +1295,17 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
       "PlattentektonikSvg": `<svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg" fill="none" stroke-linecap="round" stroke-linejoin="round" style="width:100%; height:auto; max-height:80px;"><rect x="20" y="60" width="160" height="40" fill="rgba(239,68,68,0.05)" stroke="none" /><path d="M 20 60 L 80 60 L 120 100 L 20 100 Z" fill="rgba(59,130,246,0.2)" stroke="#3B82F6" stroke-width="2" stroke-linejoin="miter" /><path d="M 80 45 L 180 45 L 180 100 L 120 100 L 80 60 Z" fill="rgba(16,185,129,0.2)" stroke="#10B981" stroke-width="2" stroke-linejoin="miter" /><line x1="40" y1="40" x2="60" y2="40" stroke="#1F2937" stroke-width="2" /><polygon points="60,35 68,40 60,45" fill="#1F2937" stroke="none" /><line x1="160" y1="30" x2="140" y2="30" stroke="#1F2937" stroke-width="2" /><polygon points="140,25 132,30 140,35" fill="#1F2937" stroke="none" /><circle cx="110" cy="85" r="4" fill="rgba(239,68,68,0.5)" stroke="none" /><circle cx="105" cy="75" r="3" fill="rgba(239,68,68,0.5)" stroke="none" /><path d="M 105 70 Q 100 55 95 45" stroke="#EF4444" stroke-width="2" fill="none" stroke-dasharray="2 2" /></svg>`
     };
 
+    const buildKraftVektorSvg = (direction: string): string => {
+      const paths: Record<string, string> = {
+        "→": "M 100 60 L 155 60 M 144 50 L 155 60 L 144 70",
+        "←": "M 60 60 L 5 60 M 16 50 L 5 60 L 16 70",
+        "↑": "M 80 40 L 80 5 M 70 16 L 80 5 L 90 16",
+        "↓": "M 80 80 L 80 115 M 70 104 L 80 115 L 90 104",
+      };
+      const path = paths[direction] ?? paths["→"];
+      return `<svg viewBox="0 0 160 120" xmlns="http://www.w3.org/2000/svg" fill="none" stroke-linecap="round" stroke-linejoin="round" style="width:100%; height:auto; max-height:80px;"><rect x="60" y="40" width="40" height="40" rx="4" fill="rgba(31,41,55,0.15)" stroke="#1F2937" stroke-width="2" /><path d="${path}" stroke="#EF4444" stroke-width="2.5" /></svg>`;
+    };
+
     const renderQuestionPrint = (q: TestQuestion, qi: number): string => {
       const parts: string[] = [];
       const aufgabeNr = Math.floor(qi / 3) + 1;
@@ -1558,7 +1569,10 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
           const svgName = (q as any).svgName;
           const opts = q.options ?? [];
           parts.push(`<div class="visual-hint-box">`);
-          if (svgName && SVG_INLINE[svgName]) {
+          if (q.type === "kraft-richtung") {
+            const direction = opts[q.correctIndex] ?? "→";
+            parts.push(`<div style="text-align:center; margin-bottom:8px;">${buildKraftVektorSvg(direction)}</div>`);
+          } else if (svgName && SVG_INLINE[svgName]) {
             parts.push(`<div style="text-align:center; margin-bottom:8px;">${SVG_INLINE[svgName]}</div>`);
           } else {
             parts.push(`<div class="visual-emoji-box ${q.type.includes('organ') ? 'body' : q.type.includes('zell') ? 'cell' : q.type.includes('lebenszyklus') ? 'life' : q.type.includes('ernaehrung') ? 'nutrient' : ''}">${emoji}</div>`);

@@ -109,7 +109,7 @@ const MAGNET_INTERACTIONS = [
 
 // ─── 25. MAGNETS (MCQ GENERATOR) ───────────────────────────────────────────
 
-function generateMagnetsMCQ(seed?: number): CurriculumMCQ[] {
+function generateMagnetsMCQ(lang: string = "de", seed: number = 0): CurriculumMCQ[] {
   const rng = mulberry32(seed || Math.random() * 1000000);
   const topic = "magnetism";
   const subtopic = "magnets";
@@ -117,7 +117,6 @@ function generateMagnetsMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 1: Which material is magnetic? (7 versions)
   for (let i = 0; i < 7; i++) {
-    const lang = "de"; // Language for this generator
     const magnetic = pick(
       MAGNETIC_MATERIALS.filter(m => m.magnetic),
       rng
@@ -150,7 +149,6 @@ function generateMagnetsMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 2: What happens when two north poles meet? (7 versions)
   for (let i = 0; i < 7; i++) {
-    const lang = "de";
     const question = q4(
       `Was passiert, wenn zwei Nordpole sich treffen?`,
       `What happens when two north poles meet?`,
@@ -172,7 +170,6 @@ function generateMagnetsMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 3: What is a compass needle? (7 versions)
   for (let i = 0; i < 7; i++) {
-    const lang = "de";
     const question = q4(
       `Was ist eine Kompassnadel?`,
       `What is a compass needle?`,
@@ -194,7 +191,6 @@ function generateMagnetsMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 4: Which is NOT magnetic? (7 versions)
   for (let i = 0; i < 7; i++) {
-    const lang = "de";
     const notMagnetic = pick(
       MAGNETIC_MATERIALS.filter(m => !m.magnetic),
       rng
@@ -227,7 +223,6 @@ function generateMagnetsMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 5: What type of magnet attracts iron filings? (7 versions)
   for (let i = 0; i < 7; i++) {
-    const lang = "de";
     const magnet = pick(MAGNET_TYPES, rng);
     const question = q4(
       `Welcher Magnet-Typ zieht Eisenfeilspäne an?`,
@@ -253,7 +248,7 @@ function generateMagnetsMCQ(seed?: number): CurriculumMCQ[] {
 
 // ─── 25. MAGNETS (TYPING GENERATOR) ────────────────────────────────────────
 
-function generateMagnetsTyping(seed?: number): CurriculumTyping[] {
+function generateMagnetsTyping(lang: string = "de", seed: number = 0): CurriculumTyping[] {
   const questions: CurriculumTyping[] = [];
   const topic = "magnetism";
   const subtopic = "magnets";
@@ -267,7 +262,7 @@ function generateMagnetsTyping(seed?: number): CurriculumTyping[] {
         `Every magnet has a ___ pole and a ___ pole.`,
         `Minden mágnesnek van egy ___ pólusa és egy ___ pólusa.`,
         `Fiecare magnet are un pol ___ și un pol ___.`,
-        "de"
+        lang
       ),
       ["Nord", "North", "Északi", "Nord"]
     )
@@ -282,7 +277,7 @@ function generateMagnetsTyping(seed?: number): CurriculumTyping[] {
         `When two magnets with the same poles meet, they ___ each other.`,
         `Ha két mágnes ugyanolyan pólussal találkozik, ___ egymást.`,
         `Când doi magneți cu aceiași poli se întâlnesc, se ___.`,
-        "de"
+        lang
       ),
       ["abstoßen", "repel", "taszítják", "respinge"]
     )
@@ -297,7 +292,7 @@ function generateMagnetsTyping(seed?: number): CurriculumTyping[] {
         `The material ___ is very magnetic.`,
         `Az ___ anyag nagyon mágneses.`,
         `Materialul ___ este foarte magnetic.`,
-        "de"
+        lang
       ),
       ["Eisen", "iron", "vas", "fier"]
     )
@@ -312,7 +307,7 @@ function generateMagnetsTyping(seed?: number): CurriculumTyping[] {
         `A compass needle always points to Earth's ___ pole.`,
         `Az iránytű tűje mindig a Föld ___ pólusára mutat.`,
         `Acul unei busole arată întotdeauna către polul ___ al Pământului.`,
-        "de"
+        lang
       ),
       ["Nord", "north", "észak", "nord"]
     )
@@ -327,7 +322,7 @@ function generateMagnetsTyping(seed?: number): CurriculumTyping[] {
         `___ poles attract, like poles repel.`,
         `Az ___ pólusok vonzódnak, az azonosak taszítódnak.`,
         `Polii ___ se atrag, polii asemeni se resping.`,
-        "de"
+        lang
       ),
       ["Ungleiche", "opposite", "ellentétes", "opuși"]
     )
@@ -342,7 +337,7 @@ function generateMagnetsTyping(seed?: number): CurriculumTyping[] {
         `An ___ is a magnet powered by electricity.`,
         `Az ___ egy mágnes, amely villamos árammal működik.`,
         `Un ___ este un magnet alimentat de curent electric.`,
-        "de"
+        lang
       ),
       ["Elektromagnet", "electromagnet", "elektromágnes", "electromagnet"]
     )
@@ -357,7 +352,7 @@ function generateMagnetsTyping(seed?: number): CurriculumTyping[] {
         `The invisible force around a magnet is the ___ .`,
         `A mágnes körüli láthatatlan erő a ___ .`,
         `Forța invizibilă în jurul unui magnet este ___ .`,
-        "de"
+        lang
       ),
       ["Magnetfeld", "magnetic field", "mágneses mező", "câmp magnetic"]
     )
@@ -372,7 +367,7 @@ function generateMagnetsTyping(seed?: number): CurriculumTyping[] {
         `___ is a material that is NOT magnetic.`,
         `A ___ olyan anyag, amely NEM mágneses.`,
         `___ este un material care NU este magnetic.`,
-        "de"
+        lang
       ),
       ["Kupfer", "copper", "réz", "cupru"]
     )
@@ -387,7 +382,7 @@ function generateMagnetsTyping(seed?: number): CurriculumTyping[] {
         `Magnetic field lines go from North pole to ___ pole.`,
         `A mágneses térvonalak az Északi pólusról az ___ pólusra mennek.`,
         `Liniile de câmp magnetic merg de la polul Nord la polul ___.`,
-        "de"
+        lang
       ),
       ["Südpol", "South pole", "Déli pólus", "polul Sud"]
     )
@@ -402,7 +397,7 @@ function generateMagnetsTyping(seed?: number): CurriculumTyping[] {
         `___ are materials that are attracted by magnets.`,
         `A ___ olyan anyagok, amelyeket a mágnesek vonzanak.`,
         `___ sunt materiale care sunt atrase de magneți.`,
-        "de"
+        lang
       ),
       ["Ferromagnetische Stoffe", "ferromagnetic materials", "ferromágneses anyagok", "materiale feromagnetice"]
     )
@@ -413,7 +408,7 @@ function generateMagnetsTyping(seed?: number): CurriculumTyping[] {
 
 // ─── 26. MAGNETIC FIELD (MCQ GENERATOR) ────────────────────────────────────
 
-function generateMagneticFieldMCQ(seed?: number): CurriculumMCQ[] {
+function generateMagneticFieldMCQ(lang: string = "de", seed: number = 0): CurriculumMCQ[] {
   const rng = mulberry32(seed || Math.random() * 1000000);
   const topic = "magnetism";
   const subtopic = "magnetic_field";
@@ -421,7 +416,6 @@ function generateMagneticFieldMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 1: Magnetic field lines go from ___ to ___ (7 versions)
   for (let i = 0; i < 7; i++) {
-    const lang = "de";
     const question = q4(
       `Magnetische Feldlinien gehen vom ___ zum ___ Pol.`,
       `Magnetic field lines go from ___ to ___ pole.`,
@@ -443,7 +437,6 @@ function generateMagneticFieldMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 2: How can you visualize a magnetic field? (7 versions)
   for (let i = 0; i < 7; i++) {
-    const lang = "de";
     const question = q4(
       `Wie kann man ein Magnetfeld sichtbar machen?`,
       `How can you visualize a magnetic field?`,
@@ -465,7 +458,6 @@ function generateMagneticFieldMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 3: Where is a magnet's field strongest? (7 versions)
   for (let i = 0; i < 7; i++) {
-    const lang = "de";
     const question = q4(
       `Wo ist das Magnetfeld eines Magneten am stärksten?`,
       `Where is a magnet's magnetic field strongest?`,
@@ -487,7 +479,6 @@ function generateMagneticFieldMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 4: What creates Earth's magnetic field? (7 versions)
   for (let i = 0; i < 7; i++) {
-    const lang = "de";
     const question = q4(
       `Was erzeugt das Magnetfeld der Erde?`,
       `What creates Earth's magnetic field?`,
@@ -509,7 +500,6 @@ function generateMagneticFieldMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 5: Iron filings pattern around a bar magnet (7 versions)
   for (let i = 0; i < 7; i++) {
-    const lang = "de";
     const question = q4(
       `Wie sieht das Muster von Eisenfeilspänen um einen Stabmagnet aus?`,
       `What pattern do iron filings make around a bar magnet?`,
@@ -534,7 +524,7 @@ function generateMagneticFieldMCQ(seed?: number): CurriculumMCQ[] {
 
 // ─── 26. MAGNETIC FIELD (TYPING GENERATOR) ────────────────────────────────
 
-function generateMagneticFieldTyping(seed?: number): CurriculumTyping[] {
+function generateMagneticFieldTyping(lang: string = "de", seed: number = 0): CurriculumTyping[] {
   const questions: CurriculumTyping[] = [];
   const topic = "magnetism";
   const subtopic = "magnetic_field";
@@ -548,7 +538,7 @@ function generateMagneticFieldTyping(seed?: number): CurriculumTyping[] {
         `Magnetic field lines point from North pole to ___ pole.`,
         `A mágneses térvonalak az Északi pólusról az ___ pólusra mutatnak.`,
         `Liniile de câmp magnetic arată de la polul Nord la polul ___.`,
-        "de"
+        lang
       ),
       ["Südpol", "South pole", "Déli pólus", "polul Sud"]
     )
@@ -563,7 +553,7 @@ function generateMagneticFieldTyping(seed?: number): CurriculumTyping[] {
         `___ can show magnetic field lines.`,
         `A ___ láthatóvá tehet a mágneses térvonalakat.`,
         `___ poate arăta liniile de câmp magnetic.`,
-        "de"
+        lang
       ),
       ["Eisenfeilspäne", "iron filings", "vasfilings", "particulele de fier"]
     )
@@ -578,7 +568,7 @@ function generateMagneticFieldTyping(seed?: number): CurriculumTyping[] {
         `The invisible space around a magnet is the ___ .`,
         `A láthatatlan tér egy mágnes körül a ___ .`,
         `Spațiul invizibil din jurul unui magnet este ___ .`,
-        "de"
+        lang
       ),
       ["Magnetfeld", "magnetic field", "mágneses mező", "câmp magnetic"]
     )
@@ -593,7 +583,7 @@ function generateMagneticFieldTyping(seed?: number): CurriculumTyping[] {
         `Earth's magnetic field is created by ___ in the core.`,
         `A Föld mágneses mezője a magban lévő ___ hozza létre.`,
         `Câmpul magnetic terestru este creat de ___ din nucleul Pământului.`,
-        "de"
+        lang
       ),
       ["flüssiges Eisen", "liquid iron", "folyékony vas", "fier lichid"]
     )
@@ -608,7 +598,7 @@ function generateMagneticFieldTyping(seed?: number): CurriculumTyping[] {
         `The magnetic field is strongest at the ___ .`,
         `A mágneses mező a ___ helyen a legerősebb.`,
         `Câmpul magnetic este cel mai puternic la ___ .`,
-        "de"
+        lang
       ),
       ["Polen", "poles", "pólus", "poli"]
     )
@@ -623,7 +613,7 @@ function generateMagneticFieldTyping(seed?: number): CurriculumTyping[] {
         `Field lines show the ___ and direction of the magnetic field.`,
         `A térvonalak a mágneses mező ___ és irányát mutatják.`,
         `Liniile de câmp arată ___ și direcția câmpului magnetic.`,
-        "de"
+        lang
       ),
       ["Stärke", "strength", "erő", "intensitate"]
     )
@@ -638,7 +628,7 @@ function generateMagneticFieldTyping(seed?: number): CurriculumTyping[] {
         `A ___ creates a magnetic field without electricity.`,
         `Egy ___ mágneses mezőt hoz létre áram nélkül.`,
         `Un ___ creează un câmp magnetic fără electricitate.`,
-        "de"
+        lang
       ),
       ["Permanentmagnet", "permanent magnet", "állandó mágnes", "magnet permanent"]
     )
@@ -653,7 +643,7 @@ function generateMagneticFieldTyping(seed?: number): CurriculumTyping[] {
         `The compass needle points to Earth's ___ magnetic pole.`,
         `Az iránytű a Föld ___ mágneses pólusára mutat.`,
         `Acul busolei arată către polul magnetic ___ al Pământului.`,
-        "de"
+        lang
       ),
       ["Nord", "north", "északi", "nord"]
     )
@@ -668,7 +658,7 @@ function generateMagneticFieldTyping(seed?: number): CurriculumTyping[] {
         `Magnetic field lines never ___ each other.`,
         `A mágneses térvonalak soha nem ___ egymást.`,
         `Liniile de câmp magnetic nu se ___ niciodată.`,
-        "de"
+        lang
       ),
       ["schneiden", "cross", "keresztezik", "intersectează"]
     )
@@ -683,7 +673,7 @@ function generateMagneticFieldTyping(seed?: number): CurriculumTyping[] {
         `The ___ a magnet is, the stronger its magnetic field.`,
         `Minél ___ egy mágnes, annál erősebb a mágneses mezője.`,
         `Cu cât ___ este un magnet, cu atât mai puternic este câmpul său.`,
-        "de"
+        lang
       ),
       ["stärker", "stronger", "erősebb", "mai puternic"]
     )
@@ -694,7 +684,7 @@ function generateMagneticFieldTyping(seed?: number): CurriculumTyping[] {
 
 // ─── 27. STATIC ELECTRICITY (MCQ GENERATOR) ───────────────────────────────
 
-function generateStaticElectricityMCQ(seed?: number): CurriculumMCQ[] {
+function generateStaticElectricityMCQ(lang: string = "de", seed: number = 0): CurriculumMCQ[] {
   const rng = mulberry32(seed || Math.random() * 1000000);
   const topic = "magnetism";
   const subtopic = "static_electricity";
@@ -702,7 +692,6 @@ function generateStaticElectricityMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 1: What causes static electricity? (7 versions)
   for (let i = 0; i < 7; i++) {
-    const lang = "de";
     const question = q4(
       `Was verursacht statische Elektrizität?`,
       `What causes static electricity?`,
@@ -724,7 +713,6 @@ function generateStaticElectricityMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 2: Why does a balloon stick to wall after rubbing? (7 versions)
   for (let i = 0; i < 7; i++) {
-    const lang = "de";
     const question = q4(
       `Warum bleibt ein Ballon an der Wand haften, nachdem man ihn reibt?`,
       `Why does a balloon stick to the wall after rubbing on hair?`,
@@ -746,7 +734,6 @@ function generateStaticElectricityMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 3: What is lightning? (7 versions)
   for (let i = 0; i < 7; i++) {
-    const lang = "de";
     const question = q4(
       `Was ist Blitz?`,
       `What is lightning?`,
@@ -768,7 +755,6 @@ function generateStaticElectricityMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 4: Like charges ___ each other (7 versions)
   for (let i = 0; i < 7; i++) {
-    const lang = "de";
     const question = q4(
       `Gleiche Ladungen ___ sich gegenseitig.`,
       `Like charges ___ each other.`,
@@ -790,7 +776,6 @@ function generateStaticElectricityMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 5: Static electricity example (7 versions)
   for (let i = 0; i < 7; i++) {
-    const lang = "de";
     const question = q4(
       `Welches ist ein Beispiel für statische Elektrizität?`,
       `Which is an example of static electricity?`,
@@ -815,7 +800,7 @@ function generateStaticElectricityMCQ(seed?: number): CurriculumMCQ[] {
 
 // ─── 27. STATIC ELECTRICITY (TYPING GENERATOR) ────────────────────────────
 
-function generateStaticElectricityTyping(seed?: number): CurriculumTyping[] {
+function generateStaticElectricityTyping(lang: string = "de", seed: number = 0): CurriculumTyping[] {
   const questions: CurriculumTyping[] = [];
   const topic = "magnetism";
   const subtopic = "static_electricity";
@@ -829,7 +814,7 @@ function generateStaticElectricityTyping(seed?: number): CurriculumTyping[] {
         `Static electricity is caused by the transfer of ___ .`,
         `Statikus elektromosság az ___ átadása okozza.`,
         `Electricitatea statică este cauzată de transferul de ___ .`,
-        "de"
+        lang
       ),
       ["Elektronen", "electrons", "elektronok", "electroni"]
     )
@@ -844,7 +829,7 @@ function generateStaticElectricityTyping(seed?: number): CurriculumTyping[] {
         `A comb attracts paper after running through ___ .`,
         `Egy fésű vonzza a papírt, miután a ___ -ban húzzák.`,
         `Un pieptene atrage hârtia după ce se trece prin ___ .`,
-        "de"
+        lang
       ),
       ["Haar", "hair", "haj", "păr"]
     )
@@ -859,7 +844,7 @@ function generateStaticElectricityTyping(seed?: number): CurriculumTyping[] {
         `Lightning is a form of ___ discharge.`,
         `A villám a ___ kisülés egyik formája.`,
         `Fulgerul este o formă de descărcare ___ .`,
-        "de"
+        lang
       ),
       ["elektrischen", "electrical", "elektromos", "electrică"]
     )
@@ -874,7 +859,7 @@ function generateStaticElectricityTyping(seed?: number): CurriculumTyping[] {
         `When you pull off a sweater, sometimes ___ form.`,
         `Amikor leveszel egy pulóvert, néha ___ alakulnak ki.`,
         `Când scoți o bluză, uneori se formează ___ .`,
-        "de"
+        lang
       ),
       ["Funken", "sparks", "szikrák", "scântei"]
     )
@@ -889,7 +874,7 @@ function generateStaticElectricityTyping(seed?: number): CurriculumTyping[] {
         `Like charges ___ each other.`,
         `Az azonos töltések ___ egymást.`,
         `Sarcinile similare se ___ una pe cealaltă.`,
-        "de"
+        lang
       ),
       ["stoßen", "repel", "taszítják", "resping"]
     )
@@ -904,7 +889,7 @@ function generateStaticElectricityTyping(seed?: number): CurriculumTyping[] {
         `Opposite charges ___ each other.`,
         `Az ellentétes töltések ___ egymást.`,
         `Sarcinile opuse se ___ una pe cealaltă.`,
-        "de"
+        lang
       ),
       ["ziehen", "attract", "vonzódnak", "atrag"]
     )
@@ -919,7 +904,7 @@ function generateStaticElectricityTyping(seed?: number): CurriculumTyping[] {
         `Lightning is a very powerful ___ in the atmosphere.`,
         `A villám a légkörben nagyon erős ___ .`,
         `Fulgerul este o ___ foarte puternică în atmosferă.`,
-        "de"
+        lang
       ),
       ["Entladung", "discharge", "kisülés", "descărcare"]
     )
@@ -934,7 +919,7 @@ function generateStaticElectricityTyping(seed?: number): CurriculumTyping[] {
         `As you walk on a carpet, ___ can build up.`,
         `Ahogy a szőnyegen sétálsz, ___ lehet felépíteni.`,
         `Pe măsură ce mergi pe o covoară, se poate acumula ___ .`,
-        "de"
+        lang
       ),
       ["statische Elektrizität", "static electricity", "sztatikus elektromosság", "electricitate statică"]
     )
@@ -949,7 +934,7 @@ function generateStaticElectricityTyping(seed?: number): CurriculumTyping[] {
         `A lightning rod protects a building by guiding the ___ to ground.`,
         `Egy villámhárító az épületet azáltal védi meg, hogy a ___ -et a földre vezeti.`,
         `Un para-fulger protejează o clădire prin dirijarea ___ la pământ.`,
-        "de"
+        lang
       ),
       ["Entladung", "discharge", "kisülés", "descărcare"]
     )
@@ -964,7 +949,7 @@ function generateStaticElectricityTyping(seed?: number): CurriculumTyping[] {
         `You can feel static electricity when you brush your ___ .`,
         `Statikus elektromosságot érzel, amikor a ___ -ötcsiszolod.`,
         `Poți simți electricitate statică când te ___ .`,
-        "de"
+        lang
       ),
       ["bürstest", "brush", "kefélsz", "piepteni"]
     )
@@ -975,7 +960,7 @@ function generateStaticElectricityTyping(seed?: number): CurriculumTyping[] {
 
 // ─── 28. SIMPLE CIRCUITS (MCQ GENERATOR) ───────────────────────────────────
 
-function generateSimpleCircuitsMCQ(seed?: number): CurriculumMCQ[] {
+function generateSimpleCircuitsMCQ(lang: string = "de", seed: number = 0): CurriculumMCQ[] {
   const rng = mulberry32(seed || Math.random() * 1000000);
   const topic = "magnetism";
   const subtopic = "simple_circuits";
@@ -983,7 +968,6 @@ function generateSimpleCircuitsMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 1: What components make a simple circuit? (7 versions)
   for (let i = 0; i < 7; i++) {
-    const lang = "de";
     const question = q4(
       `Welche Komponenten sind in einem einfachen Stromkreis erforderlich?`,
       `What components make a simple circuit?`,
@@ -1005,7 +989,6 @@ function generateSimpleCircuitsMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 2: What happens when switch is open? (7 versions)
   for (let i = 0; i < 7; i++) {
-    const lang = "de";
     const question = q4(
       `Was passiert, wenn ein Schalter offen ist?`,
       `What happens when a switch is open?`,
@@ -1027,7 +1010,6 @@ function generateSimpleCircuitsMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 3: Which material is a conductor? (7 versions)
   for (let i = 0; i < 7; i++) {
-    const lang = "de";
     const conductors = [
       { de: "Kupfer", en: "Copper", hu: "Réz", ro: "Cupru" },
       { de: "Eisen", en: "Iron", hu: "Vas", ro: "Fier" },
@@ -1064,7 +1046,6 @@ function generateSimpleCircuitsMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 4: What provides energy in a circuit? (7 versions)
   for (let i = 0; i < 7; i++) {
-    const lang = "de";
     const question = q4(
       `Was liefert die Energie in einem Stromkreis?`,
       `What provides energy in a circuit?`,
@@ -1086,7 +1067,6 @@ function generateSimpleCircuitsMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 5: What stops electricity flow? (7 versions)
   for (let i = 0; i < 7; i++) {
-    const lang = "de";
     const question = q4(
       `Was stoppt den Stromfluss in einem Stromkreis?`,
       `What stops the flow of electricity in a circuit?`,
@@ -1111,7 +1091,7 @@ function generateSimpleCircuitsMCQ(seed?: number): CurriculumMCQ[] {
 
 // ─── 28. SIMPLE CIRCUITS (TYPING GENERATOR) ──────────────────────────────
 
-function generateSimpleCircuitsTyping(seed?: number): CurriculumTyping[] {
+function generateSimpleCircuitsTyping(lang: string = "de", seed: number = 0): CurriculumTyping[] {
   const questions: CurriculumTyping[] = [];
   const topic = "magnetism";
   const subtopic = "simple_circuits";
@@ -1125,7 +1105,7 @@ function generateSimpleCircuitsTyping(seed?: number): CurriculumTyping[] {
         `A circuit needs a source, ___, and a load.`,
         `Egy áramkörnek forrás, ___, és terhelés szükséges.`,
         `Un circuit are nevoie de o sursă, ___, și o sarcină.`,
-        "de"
+        lang
       ),
       ["Leiter", "conductor", "vezető", "conductor"]
     )
@@ -1140,7 +1120,7 @@ function generateSimpleCircuitsTyping(seed?: number): CurriculumTyping[] {
         `Materials that do not conduct electricity are called ___ .`,
         `Az elektromosságot nem vezető anyagokat ___ -nak nevezik.`,
         `Materialele care nu conduc electricitate se numesc ___ .`,
-        "de"
+        lang
       ),
       ["Isolatoren", "insulators", "szigetelők", "izolatoare"]
     )
@@ -1155,7 +1135,7 @@ function generateSimpleCircuitsTyping(seed?: number): CurriculumTyping[] {
         `A ___ is a metal wire that conducts electricity.`,
         `Egy ___ egy fémdrót, amely vezeti az elektromosságot.`,
         `Un ___ este un fir metalic care conduce electricitatea.`,
-        "de"
+        lang
       ),
       ["Leiter", "conductor", "vezető", "conductor"]
     )
@@ -1170,7 +1150,7 @@ function generateSimpleCircuitsTyping(seed?: number): CurriculumTyping[] {
         `A ___ breaks a circuit and stops the flow of electricity.`,
         `Egy ___ megszakítja az áramkört és megállítja az áramáramlást.`,
         `Un ___ întrerupe un circuit și oprește fluxul de electricitate.`,
-        "de"
+        lang
       ),
       ["Unterbrechung", "break", "szünet", "întrerupere"]
     )
@@ -1185,7 +1165,7 @@ function generateSimpleCircuitsTyping(seed?: number): CurriculumTyping[] {
         `A ___ provides the electrical energy for the circuit.`,
         `Egy ___ biztosítja a villamos energiát az áramkörhöz.`,
         `O ___ furnizează energia electrică pentru circuit.`,
-        "de"
+        lang
       ),
       ["Batterie", "battery", "akkumulátor", "baterie"]
     )
@@ -1200,7 +1180,7 @@ function generateSimpleCircuitsTyping(seed?: number): CurriculumTyping[] {
         `___ are materials that allow electricity to pass through easily.`,
         `A ___ olyan anyagok, amelyek könnyen engedik át az elektromosságot.`,
         `___ sunt materiale care permit electricității să treacă ușor.`,
-        "de"
+        lang
       ),
       ["Leiter", "Conductors", "Vezetők", "Conductori"]
     )
@@ -1215,7 +1195,7 @@ function generateSimpleCircuitsTyping(seed?: number): CurriculumTyping[] {
         `In a closed circuit, ___ flows.`,
         `Egy zárt áramkörben ___ folyik.`,
         `Într-un circuit închis, ___ curge.`,
-        "de"
+        lang
       ),
       ["Strom", "current", "áram", "curent"]
     )
@@ -1230,7 +1210,7 @@ function generateSimpleCircuitsTyping(seed?: number): CurriculumTyping[] {
         `A circuit with only one component is a ___ circuit.`,
         `Egy csak egy komponenssel rendelkező áramkör egy ___ áramkör.`,
         `Un circuit cu o singură componentă este un circuit ___ .`,
-        "de"
+        lang
       ),
       ["einfacher", "simple", "egyszerű", "simplu"]
     )
@@ -1245,7 +1225,7 @@ function generateSimpleCircuitsTyping(seed?: number): CurriculumTyping[] {
         `A light bulb in a circuit converts electrical energy into ___ .`,
         `A izzó az áramkörben az elektromos energiát ___ alakítja.`,
         `O becă într-un circuit convertește energia electrică în ___ .`,
-        "de"
+        lang
       ),
       ["Licht und Wärme", "light and heat", "fény és hő", "lumină și căldură"]
     )
@@ -1260,7 +1240,7 @@ function generateSimpleCircuitsTyping(seed?: number): CurriculumTyping[] {
         `____ are objects that use energy in a circuit.`,
         `A ____ olyan objektumok, amelyek az áramkörben energiát fogyasztanak.`,
         `____ sunt obiecte care consumă energie într-un circuit.`,
-        "de"
+        lang
       ),
       ["Lasten", "Loads", "Terhelések", "Sarcini"]
     )

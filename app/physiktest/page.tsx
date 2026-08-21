@@ -8,7 +8,9 @@ import { K8_CURRICULUM, getK8Questions } from "@/lib/physikCurriculum8";
 // Self-register all generators
 import "@/lib/physikRegistration";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
-import { PHYSIK_VISUAL_TYPES } from "@/lib/physikVisualGenerators";
+import { getLocalizedPhysikVisualTypes, PHYSIK_VISUAL_TYPES } from "@/lib/physikVisualGenerators";
+import { useLang } from "@/components/LanguageProvider";
+import { useMemo } from "react";
 
 const PHYSIK_CHARS = ["⚛️", "🔬", "⚡", "🧲", "🌊", "💡", "🌡️", "🔊", "🚀", "🔭", "⚙️", "🌍", "🔋", "🧪", "☢️", "📡"];
 const PHYSIK_COLORS = [
@@ -36,11 +38,7 @@ const PHYSIK_CONFIG: LanguageTestEngineConfig = {
   bgChars: PHYSIK_CHARS,
   bgColors: PHYSIK_COLORS,
 
-  countries: [
-    { code: "DE", flag: "🇩🇪", label: "Deutschland", sub: "Note 1–6" },
-    { code: "AT", flag: "🇦🇹", label: "Österreich", sub: "Note 1–5" },
-    { code: "CH", flag: "🇨🇭", label: "Schweiz", sub: "Note 6–1" },
-  ],
+  countries: [],
   calculateMark: calculateCountryAwareMark,
 
   curriculum: {
@@ -89,6 +87,27 @@ const PHYSIK_CONFIG: LanguageTestEngineConfig = {
   },
 };
 
+const PHYSIK_LOCALES: Record<string, string> = {
+  de: "de-DE",
+  hu: "hu-HU",
+  ro: "ro-RO",
+  en: "en-US",
+};
+
 export default function PhysikTestPage() {
-  return <LanguageTestEngine config={PHYSIK_CONFIG} />;
+  const { lang } = useLang();
+  const config = useMemo<LanguageTestEngineConfig>(() => ({
+    ...PHYSIK_CONFIG,
+    ttsLang: PHYSIK_LOCALES[lang] ?? "de-DE",
+    dateLocale: PHYSIK_LOCALES[lang] ?? "de-DE",
+    visualTypes: getLocalizedPhysikVisualTypes(lang),
+    getQuestions: (grade, subtopicIds, count) => {
+      if (grade === 5) return getK5Questions(subtopicIds, count, lang);
+      if (grade === 6) return getK6Questions(subtopicIds, count, lang);
+      if (grade === 7) return getK7Questions(subtopicIds, count, lang);
+      return getK8Questions(subtopicIds, count, lang);
+    },
+  }), [lang]);
+
+  return <LanguageTestEngine config={config} />;
 }

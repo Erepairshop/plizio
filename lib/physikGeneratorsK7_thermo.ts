@@ -866,9 +866,9 @@ function generateStatesMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
 
   // Template 1: State properties (6 questions)
   const states = [
-    { de: "Fest", en: "Solid", hu: "Szilárd", ro: "Solid", prop: "Feste Form und Volumen" },
-    { de: "Flüssig", en: "Liquid", hu: "Folyékony", ro: "Lichid", prop: "Festes Volumen, Flüssige Form" },
-    { de: "Gasförmig", en: "Gas", hu: "Gáz", ro: "Gaz", prop: "Keine feste Form oder Volumen" },
+    { de: "Fest", en: "Solid", hu: "Szilárd", ro: "Solid", prop: { de: "Feste Form und festes Volumen", en: "Fixed shape and fixed volume", hu: "Állandó alak és állandó térfogat", ro: "Formă și volum fixe" } },
+    { de: "Flüssig", en: "Liquid", hu: "Folyékony", ro: "Lichid", prop: { de: "Festes Volumen, veränderliche Form", en: "Fixed volume and variable shape", hu: "Állandó térfogat és változó alak", ro: "Volum fix și formă variabilă" } },
+    { de: "Gasförmig", en: "Gas", hu: "Gáz", ro: "Gaz", prop: { de: "Keine feste Form und kein festes Volumen", en: "No fixed shape or volume", hu: "Nincs állandó alakja vagy térfogata", ro: "Nu are formă sau volum fixe" } },
   ];
 
   for (const state of states) {
@@ -883,7 +883,7 @@ function generateStatesMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
           `${q4(state.de, state.en, state.hu, state.ro, lang)}: Proprietate?`,
           lang
         ),
-        q4(state.prop, state.prop, state.prop, state.prop, lang),
+        q4(state.prop.de, state.prop.en, state.prop.hu, state.prop.ro, lang),
         [
           q4("Kann Druck widerstehen", "Can resist pressure", "Ellenáll a nyomásnak", "Poate rezista la presiune", lang),
           q4("Hat keine Dichte", "Has no density", "Nincs sűrűsége", "Nu are densitate", lang),
