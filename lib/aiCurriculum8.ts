@@ -1,5 +1,7 @@
 import AI_K8_JSON from "./aiCurriculum8_data.json";
+import { aiK78Options, aiK78Text } from "./aiK78Translations";
 import { pickDiverse } from "./testDiversity";
+import { dedupeAiQuestions } from "./aiQuestionDiversity";
 import type { KemiaTheme, KemiaQuestion } from "./kemiaCurriculumShared";
 
 type MultiLang = { de: string; hu: string; ro: string; en: string };
@@ -203,6 +205,12 @@ export const AI_K8_CURRICULUM: KemiaTheme[] = [
 // Initialize questions for all subtopics
 AI_K8_CURRICULUM.forEach(theme => {
   theme.subtopics.forEach(sub => {
+    const subName = sub.name as unknown as MultiLang;
+    if (subName?.en) {
+      subName.de = aiK78Text(subName.en, "de", subName.de);
+      subName.hu = aiK78Text(subName.en, "hu", subName.hu);
+      subName.ro = aiK78Text(subName.en, "ro", subName.ro);
+    }
     const raw = getRawQuestions(sub.id);
     sub.questions = raw.map((q, idx) => {
       const qId = `${sub.id}_q${idx}`;
@@ -211,13 +219,13 @@ AI_K8_CURRICULUM.forEach(theme => {
           type: "mcq",
           topic: "ai",
           subtopic: sub.id,
-          question: q.question.hu,
-          options: q.options?.hu || [],
+          question: aiK78Text(q.question.en, "hu", q.question.hu),
+          options: aiK78Options(q.options?.en, "hu", q.options?.hu),
           correct: q.correct || 0,
           _lang: {
-            de: { q: q.question.de, opts: q.options?.de },
-            hu: { q: q.question.hu, opts: q.options?.hu },
-            ro: { q: q.question.ro, opts: q.options?.ro },
+            de: { q: aiK78Text(q.question.en, "de", q.question.de), opts: aiK78Options(q.options?.en, "de", q.options?.de) },
+            hu: { q: aiK78Text(q.question.en, "hu", q.question.hu), opts: aiK78Options(q.options?.en, "hu", q.options?.hu) },
+            ro: { q: aiK78Text(q.question.en, "ro", q.question.ro), opts: aiK78Options(q.options?.en, "ro", q.options?.ro) },
             en: { q: q.question.en, opts: q.options?.en }
           }
         } as any;
@@ -226,12 +234,12 @@ AI_K8_CURRICULUM.forEach(theme => {
           type: "typing",
           topic: "ai",
           subtopic: sub.id,
-          question: q.question.hu,
-          answer: q.answer && typeof q.answer === 'object' ? q.answer.hu : (q.answer || ""),
+          question: aiK78Text(q.question.en, "hu", q.question.hu),
+          answer: q.answer && typeof q.answer === 'object' ? aiK78Text(q.answer.en, "hu", q.answer.hu) : (q.answer || ""),
           _lang: {
-            de: { q: q.question.de, ans: q.answer && typeof q.answer === 'object' ? q.answer.de : q.answer },
-            hu: { q: q.question.hu, ans: q.answer && typeof q.answer === 'object' ? q.answer.hu : q.answer },
-            ro: { q: q.question.ro, ans: q.answer && typeof q.answer === 'object' ? q.answer.ro : q.answer },
+            de: { q: aiK78Text(q.question.en, "de", q.question.de), ans: q.answer && typeof q.answer === 'object' ? aiK78Text(q.answer.en, "de", q.answer.de) : q.answer },
+            hu: { q: aiK78Text(q.question.en, "hu", q.question.hu), ans: q.answer && typeof q.answer === 'object' ? aiK78Text(q.answer.en, "hu", q.answer.hu) : q.answer },
+            ro: { q: aiK78Text(q.question.en, "ro", q.question.ro), ans: q.answer && typeof q.answer === 'object' ? aiK78Text(q.answer.en, "ro", q.answer.ro) : q.answer },
             en: { q: q.question.en, ans: q.answer && typeof q.answer === 'object' ? q.answer.en : q.answer }
           }
         } as any;
@@ -258,6 +266,7 @@ export function getAIK8Questions(subtopicIds: string[], count = 10, lang = "hu")
       }
     });
   });
+  pool = dedupeAiQuestions(pool);
   for (let i = pool.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [pool[i], pool[j]] = [pool[j], pool[i]];

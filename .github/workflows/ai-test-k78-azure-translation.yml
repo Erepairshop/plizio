@@ -1,0 +1,46 @@
+name: AI Test K7-K8 Azure Translation
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ai-test-k78-azure-translation
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: [self-hosted, vps-plizio]
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Translate German
+        run: bash scripts/test-translation/run-ai-k78-language.sh de German
+
+      - name: Translate Hungarian
+        run: bash scripts/test-translation/run-ai-k78-language.sh hu Hungarian
+
+      - name: Translate Romanian
+        run: bash scripts/test-translation/run-ai-k78-language.sh ro Romanian
+
+      - name: Validate exact coverage
+        run: >-
+          python3 scripts/test-translation/validate-ai-k78-results.py
+          --manifest translation-work/ai-test-k78/source-manifest.json
+          --result /home/erik/plizio-translations/ai-test-k78-20260821/result-de.jsonl
+          --result /home/erik/plizio-translations/ai-test-k78-20260821/result-hu.jsonl
+          --result /home/erik/plizio-translations/ai-test-k78-20260821/result-ro.jsonl
+
+      - name: Upload translations
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-test-k78-translations
+          path: |
+            translation-work/ai-test-k78/source-manifest.json
+            /home/erik/plizio-translations/ai-test-k78-20260821/result-de.jsonl
+            /home/erik/plizio-translations/ai-test-k78-20260821/result-hu.jsonl
+            /home/erik/plizio-translations/ai-test-k78-20260821/result-ro.jsonl
+          retention-days: 7

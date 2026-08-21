@@ -1,0 +1,16 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": { "noEmit": true, "incremental": false },
+  "include": [
+    "app/aitest/page.tsx",
+    "components/ai-test-visual/**/*.tsx",
+    "lib/aiVisualContent.ts",
+    "lib/aiVisualGenerators.ts",
+    "lib/aiQuestionDiversity.ts",
+    "lib/aiCurriculum5.ts",
+    "lib/aiCurriculum6.ts",
+    "lib/aiCurriculum7.ts",
+    "lib/aiCurriculum8.ts",
+    "scripts/audit-ai-test-route.ts"
+  ]
+}
