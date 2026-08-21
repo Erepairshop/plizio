@@ -1584,11 +1584,8 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
              parts.push(`<span class="visual-option-chip">☐ ${printStrings.vertebrate}</span>`);
              parts.push(`<span class="visual-option-chip">☐ ${printStrings.invertebrate}</span>`);
           } else {
-             parts.push(`<span class="visual-option-chip">☐ ${printStrings.mammal}</span>`);
-             parts.push(`<span class="visual-option-chip">☐ ${printStrings.bird}</span>`);
-             parts.push(`<span class="visual-option-chip">☐ ${printStrings.fish}</span>`);
-             parts.push(`<span class="visual-option-chip">☐ ${printStrings.reptile}</span>`);
-             parts.push(`<span class="visual-option-chip">☐ ${printStrings.amphibian}</span>`);
+             parts.push(`<span class="visual-option-chip">☐ Haustier</span>`);
+             parts.push(`<span class="visual-option-chip">☐ Wildtier</span>`);
           }
           parts.push(`</div>`);
           break;
@@ -1669,8 +1666,11 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
           break;
         }
         default: {
+          const configuredVisual = configVisualMap.get(q.type);
           const registeredPrintSvg = typeof (q as any).printSvg === "string" ? (q as any).printSvg : "";
-          if (registeredPrintSvg) {
+          if (configuredVisual?.renderPrint) {
+            parts.push(`<div class="visual-hint-box">${configuredVisual.renderPrint(q)}</div>`);
+          } else if (registeredPrintSvg) {
             const prompt = (q as any).prompt ?? q.question ?? "";
             const hint = (q as any).clue ?? (q as any).hint ?? "";
             const options = (q as any).options ?? [];

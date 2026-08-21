@@ -10,9 +10,23 @@ interface Props {
   userAnswer: string;
   submitted: boolean;
   onAnswer: (a: string) => void;
+  ui?: {
+    cycle: string;
+    tapOrder: string;
+    correct: string;
+    correctPrefix: string;
+    missing: string;
+  };
 }
 
-export default function WasserkreislaufOrdnen({ stages, correctOrder, stageSvgs, userAnswer, submitted, onAnswer }: Props) {
+export default function WasserkreislaufOrdnen({ stages, correctOrder, stageSvgs, userAnswer, submitted, onAnswer, ui }: Props) {
+  const labels = ui ?? {
+    cycle: 'Kreislauf:',
+    tapOrder: 'Tippe in richtiger Reihenfolge...',
+    correct: '✓ Richtig!',
+    correctPrefix: '✗ Richtig:',
+    missing: 'SVG fehlt',
+  };
   const [selected, setSelected] = useState<string[]>([]);
   const [shuffled] = useState(() => [...stages].sort(() => Math.random() - 0.5));
   const initialized = useRef(false);
@@ -42,9 +56,9 @@ export default function WasserkreislaufOrdnen({ stages, correctOrder, stageSvgs,
     <div className="px-1 py-1.5 w-full">
       {/* Chain display */}
       <div className="flex items-center gap-1 mb-3 flex-wrap min-h-[26px]">
-        <span className="text-slate-400 text-xs shrink-0 mr-1">Kreislauf:</span>
+        <span className="text-slate-400 text-xs shrink-0 mr-1">{labels.cycle}</span>
         {selected.length === 0 && (
-          <span className="text-slate-300 text-xs italic">Tippe in richtiger Reihenfolge...</span>
+          <span className="text-slate-300 text-xs italic">{labels.tapOrder}</span>
         )}
         {selected.map((item, i) => (
           <span key={i} className="flex items-center gap-0.5">
@@ -89,7 +103,7 @@ export default function WasserkreislaufOrdnen({ stages, correctOrder, stageSvgs,
                 </div>
               )}
               <div className="h-12 w-full flex items-center justify-center mb-1">
-                {SvgComponent ? <SvgComponent /> : <div className="text-[10px] text-slate-400">SVG missing</div>}
+                {SvgComponent ? <SvgComponent /> : <div className="text-[10px] text-slate-400">{labels.missing}</div>}
               </div>
               <span className={`text-[10px] font-bold text-center leading-tight ${inChain ? 'text-blue-700' : 'text-slate-600'}`}>
                 {item}
@@ -101,7 +115,7 @@ export default function WasserkreislaufOrdnen({ stages, correctOrder, stageSvgs,
 
       {submitted && (
         <div className={`mt-3 text-xs font-bold text-center ${isCorrect ? 'text-emerald-500' : 'text-red-500'}`}>
-          {isCorrect ? '✓ Richtig!' : `✗ Richtig: ${correctOrder.join(' → ')}`}
+          {isCorrect ? labels.correct : `${labels.correctPrefix} ${correctOrder.join(' → ')}`}
         </div>
       )}
     </div>

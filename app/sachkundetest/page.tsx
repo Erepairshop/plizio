@@ -1,14 +1,21 @@
 "use client";
 
+import { useMemo } from "react";
 import { LanguageTestEngine, calculateCountryAwareMark } from "@/app/deutschtest/page";
 import {
   SACHKUNDE_CURRICULUM,
   getSachkundeQuestions,
   SACHKUNDE_SUBTOPIC_HINTS,
+  SACHKUNDE_ACTIVE_GRADES,
 } from "@/lib/sachkundeCurriculum";
 import { SACHKUNDE_VISUAL_TYPES } from "@/lib/sachkundeVisualGenerators";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
 import { useLang } from "@/components/LanguageProvider";
+import {
+  getLocalizedSachkundeVisualTypes,
+  localizeSachkundeCurriculum,
+  localizeSachkundeHints,
+} from "@/lib/sachkundeQuestionTranslations";
 
 const SK_CHARS = ["🌿", "🐾", "🧲", "🌍", "💧", "☀️", "🌡️", "🧪", "🔬", "🗺️", "⚡", "🌳", "🦋", "🐝"];
 const SK_COLORS = [
@@ -45,8 +52,8 @@ const SACHKUNDE_CONFIG: LanguageTestEngineConfig = {
   getQuestions: getSachkundeQuestions as any,
   subtopicHints: SACHKUNDE_SUBTOPIC_HINTS,
   visualTypes: SACHKUNDE_VISUAL_TYPES,
-  grades: [1, 2, 3, 4],
-  visualGrades: [1, 2, 3, 4],
+  grades: [...SACHKUNDE_ACTIVE_GRADES],
+  visualGrades: [...SACHKUNDE_ACTIVE_GRADES],
   hideLesetest: true,
 
   labels: {
@@ -87,5 +94,15 @@ const SACHKUNDE_CONFIG: LanguageTestEngineConfig = {
 export default function SachkundeTestPage() {
   const { lang } = useLang();
   const locale = { de: "de-DE", hu: "hu-HU", ro: "ro-RO", en: "en-US" }[lang] ?? "de-DE";
-  return <LanguageTestEngine config={{ ...SACHKUNDE_CONFIG, ttsLang: locale, dateLocale: locale }} />;
+  const config = useMemo(() => ({
+    ...SACHKUNDE_CONFIG,
+    ttsLang: locale,
+    dateLocale: locale,
+    curriculum: localizeSachkundeCurriculum(SACHKUNDE_CURRICULUM, lang),
+    subtopicHints: localizeSachkundeHints(SACHKUNDE_SUBTOPIC_HINTS, lang),
+    visualTypes: getLocalizedSachkundeVisualTypes(SACHKUNDE_VISUAL_TYPES, lang),
+    getQuestions: (grade: number, subtopicIds: string[], count: number) =>
+      getSachkundeQuestions(grade, subtopicIds, count, lang),
+  }), [lang, locale]);
+  return <LanguageTestEngine config={config} />;
 }

@@ -1,0 +1,100 @@
+name: Sachkunde Test Azure Translation
+
+on:
+  push:
+    branches:
+      - codex/sachkunde-test-route-20260820
+    paths:
+      - ".github/workflows/sachkunde-test-azure-translation.yml"
+      - "scripts/test-translation/*sachkunde*"
+      - "translation-work/sachkunde-test/**"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: sachkunde-test-azure-translation
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: [self-hosted, vps-plizio]
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Translate Hungarian
+        run: bash scripts/test-translation/run-sachkunde-language.sh hu Hungarian
+
+      - name: Translate Romanian
+        run: bash scripts/test-translation/run-sachkunde-language.sh ro Romanian
+
+      - name: Translate English
+        run: bash scripts/test-translation/run-sachkunde-language.sh en English
+
+      - name: Translate missing Hungarian variants
+        run: >-
+          bash scripts/test-translation/run-sachkunde-language.sh
+          hu Hungarian
+          translation-work/sachkunde-test-repair/queue.json
+          repair-hu.jsonl
+
+      - name: Translate missing Romanian variants
+        run: >-
+          bash scripts/test-translation/run-sachkunde-language.sh
+          ro Romanian
+          translation-work/sachkunde-test-repair/queue.json
+          repair-ro.jsonl
+
+      - name: Translate missing English variants
+        run: >-
+          bash scripts/test-translation/run-sachkunde-language.sh
+          en English
+          translation-work/sachkunde-test-repair/queue.json
+          repair-en.jsonl
+
+      - name: Repair remaining German Hungarian strings
+        run: >-
+          bash scripts/test-translation/run-sachkunde-language.sh
+          hu Hungarian
+          translation-work/sachkunde-test-repair2-hu/queue.json
+          repair2-hu.jsonl
+
+      - name: Validate exact coverage
+        run: >-
+          python3 scripts/test-translation/validate-sachkunde-results.py
+          --manifest translation-work/sachkunde-test/source-manifest.json
+          --result /home/erik/plizio-translations/sachkunde-test-20260820/result-hu.jsonl
+          --result /home/erik/plizio-translations/sachkunde-test-20260820/result-ro.jsonl
+          --result /home/erik/plizio-translations/sachkunde-test-20260820/result-en.jsonl
+
+      - name: Validate repair coverage
+        run: >-
+          python3 scripts/test-translation/validate-sachkunde-results.py
+          --manifest translation-work/sachkunde-test-repair/source-manifest.json
+          --result /home/erik/plizio-translations/sachkunde-test-20260820/repair-hu.jsonl
+          --result /home/erik/plizio-translations/sachkunde-test-20260820/repair-ro.jsonl
+          --result /home/erik/plizio-translations/sachkunde-test-20260820/repair-en.jsonl
+
+      - name: Validate Hungarian quality repair coverage
+        run: >-
+          python3 scripts/test-translation/validate-sachkunde-results.py
+          --manifest translation-work/sachkunde-test-repair2-hu/source-manifest.json
+          --result /home/erik/plizio-translations/sachkunde-test-20260820/repair2-hu.jsonl
+
+      - name: Upload translations
+        uses: actions/upload-artifact@v4
+        with:
+          name: sachkunde-test-translations
+          path: |
+            translation-work/sachkunde-test/source-manifest.json
+            /home/erik/plizio-translations/sachkunde-test-20260820/result-hu.jsonl
+            /home/erik/plizio-translations/sachkunde-test-20260820/result-ro.jsonl
+            /home/erik/plizio-translations/sachkunde-test-20260820/result-en.jsonl
+            translation-work/sachkunde-test-repair/source-manifest.json
+            /home/erik/plizio-translations/sachkunde-test-20260820/repair-hu.jsonl
+            /home/erik/plizio-translations/sachkunde-test-20260820/repair-ro.jsonl
+            /home/erik/plizio-translations/sachkunde-test-20260820/repair-en.jsonl
+            translation-work/sachkunde-test-repair2-hu/source-manifest.json
+            /home/erik/plizio-translations/sachkunde-test-20260820/repair2-hu.jsonl
+          retention-days: 7
