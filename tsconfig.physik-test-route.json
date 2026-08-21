@@ -1,0 +1,22 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "skipLibCheck": true,
+    "incremental": false
+  },
+  "include": [
+    "app/physiktest/page.tsx",
+    "app/deutschtest/page.tsx",
+    "components/physik-visual/**/*.tsx",
+    "components/testpapier-visual/svg/K7SvgsA.tsx",
+    "components/testpapier-visual/svg/K7SvgsB.tsx",
+    "lib/physikCurriculum*.ts",
+    "lib/physikGenerators*.ts",
+    "lib/physikRegistration.ts",
+    "lib/physikVisualContent.ts",
+    "lib/physikVisualGenerators.ts",
+    "next-env.d.ts"
+  ],
+  "exclude": ["node_modules", ".next", "out"]
+}
