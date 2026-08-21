@@ -1669,7 +1669,29 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
           break;
         }
         default: {
-          parts.push(`<div class="answer-line"></div>`);
+          const registeredPrintSvg = typeof (q as any).printSvg === "string" ? (q as any).printSvg : "";
+          if (registeredPrintSvg) {
+            const prompt = (q as any).prompt ?? q.question ?? "";
+            const hint = (q as any).clue ?? (q as any).hint ?? "";
+            const options = (q as any).options ?? [];
+            const orderItems = (q as any).items ?? [];
+            if (prompt) parts.push(`<div class="q-word">${prompt}</div>`);
+            parts.push(`<div style="text-align:center; margin:6px 0 8px;">${registeredPrintSvg}</div>`);
+            if (hint) parts.push(`<div class="hint-text">${hint}</div>`);
+            if (options.length > 0) {
+              parts.push(`<div class="visual-options-row">`);
+              options.forEach((option: string) => parts.push(`<span class="visual-option-chip">&#9744; ${option}</span>`));
+              parts.push(`</div>`);
+            } else if (orderItems.length > 0) {
+              parts.push(`<div class="visual-order-row">`);
+              orderItems.forEach((item: string) => parts.push(`<span class="visual-order-item"><span class="visual-order-num">___</span>${item}</span>`));
+              parts.push(`</div>`);
+            } else {
+              parts.push(`<div class="answer-line"></div>`);
+            }
+          } else {
+            parts.push(`<div class="answer-line"></div>`);
+          }
           break;
         }
       }

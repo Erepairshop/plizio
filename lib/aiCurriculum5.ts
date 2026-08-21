@@ -1,5 +1,6 @@
 import type { KemiaTheme, KemiaQuestion } from "./kemiaCurriculumShared";
 import { pickDiverse } from "./testDiversity";
+import { dedupeAiQuestions } from "./aiQuestionDiversity";
 import AI_K5_CONTENT from "./aiCurriculum5_data.json";
 
 type MultiLang = { de: string; hu: string; ro: string; en: string };
@@ -163,6 +164,7 @@ export function getAIK5Questions(subtopicIds: string[], count = 10, lang = "hu")
       }
     });
   });
+  pool = dedupeAiQuestions(pool);
   for (let i = pool.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [pool[i], pool[j]] = [pool[j], pool[i]];

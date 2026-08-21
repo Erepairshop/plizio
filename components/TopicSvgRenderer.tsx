@@ -321,7 +321,6 @@ export default function TopicSvgRenderer({ config, lang = "en" }: Props) {
           <rect width="240" height="140" fill={color + "10"} rx="20" />
           <foreignObject x="16" y="20" width="208" height="100">
             <div
-              xmlns="http://www.w3.org/1999/xhtml"
               style={{
                 alignItems: "center",
                 display: "flex",

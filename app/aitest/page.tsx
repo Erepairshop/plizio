@@ -7,6 +7,8 @@ import { AI_K7_CURRICULUM, getAIK7Questions } from "@/lib/aiCurriculum7";
 import { AI_K8_CURRICULUM, getAIK8Questions } from "@/lib/aiCurriculum8";
 import { asCurriculumThemes } from "@/lib/kemiaCurriculumShared";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
+import { getLocalizedAiVisualTypes } from "@/lib/aiVisualGenerators";
+import { useLang } from "@/components/LanguageProvider";
 
 const AI_CHARS = ["🤖", "🧠", "💬", "⚖️", "🛠️", "🚀", "📊", "🔒", "💡", "📡", "🔋"];
 const AI_COLORS = [
@@ -17,28 +19,37 @@ const AI_COLORS = [
   "rgba(16,185,129,0.10)",
 ];
 
-const AI_CONFIG: LanguageTestEngineConfig = {
+const AI_COUNTRIES: Record<string, LanguageTestEngineConfig["countries"]> = {
+  de: [
+    { code: "DE", flag: "🇩🇪", label: "Deutschland", sub: "Note 1–6" },
+    { code: "AT", flag: "🇦🇹", label: "Österreich", sub: "Note 1–5" },
+    { code: "CH", flag: "🇨🇭", label: "Schweiz", sub: "Note 6–1" },
+  ],
+  hu: [{ code: "HU", flag: "🇭🇺", label: "Magyarország", sub: "1–5 osztályzat" }],
+  ro: [{ code: "RO", flag: "🇷🇴", label: "România", sub: "Note 1–10" }],
+  en: [{ code: "US", flag: "🌐", label: "English curriculum", sub: "A / B / C / D / F" }],
+};
+
+function createAiConfig(lang: string): LanguageTestEngineConfig {
+ return {
   gameId: "aitest",
   title: { de: "KI TEST", hu: "AI TESZT", ro: "TEST AI", en: "AI TEST" },
   icon: "🤖",
   color: "#3B82F6",
 
-  ttsLang: "hu-HU",
+  ttsLang: ({ de: "de-DE", hu: "hu-HU", ro: "ro-RO", en: "en-US" }[lang] ?? "de-DE"),
   ttsRate: 0.88,
   ttsPitch: 1.1,
-  dateLocale: "hu-HU",
+  dateLocale: ({ de: "de-DE", hu: "hu-HU", ro: "ro-RO", en: "en-US" }[lang] ?? "de-DE"),
   storageKey: "aitest_country",
   grades: [5, 6, 7, 8],
   hideLesetest: true,
 
   bgChars: AI_CHARS,
   bgColors: AI_COLORS,
+  visualTypes: getLocalizedAiVisualTypes(lang),
 
-  countries: [
-    { code: "DE", flag: "🇩🇪", label: "Deutschland", sub: "Note 1–6" },
-    { code: "AT", flag: "🇦🇹", label: "Österreich", sub: "Note 1–5" },
-    { code: "CH", flag: "🇨🇭", label: "Schweiz", sub: "Note 6–1" },
-  ],
+  countries: AI_COUNTRIES[lang] ?? AI_COUNTRIES.de,
   calculateMark: calculateCountryAwareMark,
 
   curriculum: {
@@ -97,8 +108,10 @@ const AI_CONFIG: LanguageTestEngineConfig = {
     name: { de: "Name", hu: "Név", ro: "Nume", en: "Name" },
     date: { de: "Datum", hu: "Dátum", ro: "Data", en: "Date" },
   },
-};
+ };
+}
 
 export default function AITestPage() {
-  return <LanguageTestEngine config={AI_CONFIG} />;
+  const { lang } = useLang();
+  return <LanguageTestEngine config={createAiConfig(lang)} />;
 }
