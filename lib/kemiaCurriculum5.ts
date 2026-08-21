@@ -10,6 +10,7 @@ import {
   type KemiaGeneratorMap,
   type KemiaTheme,
 } from "./kemiaCurriculumShared";
+import { localizeKemiaQuestions } from "./kemiaQuestionTranslations";
 
 const K5: KemiaTheme[] = [
   {
@@ -99,8 +100,11 @@ export function setK5GeneratorMap(map: KemiaGeneratorMap) {
   K5_GENERATOR_MAP = map;
 }
 
-export function getK5Questions(selectedSubtopicIds: string[], count = 10) {
-  return getGeneratedQuestions(K5, K5_GENERATOR_MAP, selectedSubtopicIds, count);
+export function getK5Questions(selectedSubtopicIds: string[], count = 10, lang = "de") {
+  return localizeKemiaQuestions(
+    getGeneratedQuestions(K5, K5_GENERATOR_MAP, selectedSubtopicIds, count),
+    lang,
+  );
 }
 
 export { calculateKemiaMark, createMCQ, createTyping, mulberry32, pick, shuffle, asCurriculumThemes };

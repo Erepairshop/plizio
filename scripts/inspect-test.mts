@@ -20,7 +20,7 @@ const SIM_RUNS = 300;
 // sig: a getFn argumentum-sorrendje. "lang_mid"=(ids,lang,count), "lang_last"=(ids,count,lang), "no_lang"=(ids,count)
 const SUBJECTS = {
   geographie:  { sig: "lang_mid",  reg: ["../lib/geographieRegistration"], grades: [5,6,7,8], cur: (g) => [`../lib/geographieCurriculum${g}`, `K${g}_CURRICULUM`, `getK${g}Questions`] },
-  kemia:       { sig: "no_lang",   reg: ["../lib/kemiaRegistration"],      grades: [5,6,7,8], cur: (g) => [`../lib/kemiaCurriculum${g}`,      `K${g}_CURRICULUM`, `getK${g}Questions`] },
+  kemia:       { sig: "lang_last", reg: ["../lib/kemiaRegistration"],      grades: [5,6,7,8], cur: (g) => [`../lib/kemiaCurriculum${g}`,      `K${g}_CURRICULUM`, `getK${g}Questions`] },
   physik:      { sig: "lang_last", reg: ["../lib/physikRegistration"],     grades: [5,6,7,8], cur: (g) => [`../lib/physikCurriculum${g}`,     `K${g}_CURRICULUM`, `getK${g}Questions`] },
   biologie:    { sig: "no_lang",   reg: ["../lib/biologieGenerators5","../lib/biologieGenerators6","../lib/biologieGenerators7","../lib/biologieGenerators8"], grades: [5,6,7,8], cur: (g) => [`../lib/biologieCurriculum${g}`, `K${g}_CURRICULUM`, `getK${g}Questions`] },
   ai:          { sig: "lang_last", reg: [], grades: [5,6,7,8], cur: (g) => [`../lib/aiCurriculum${g}`, `AI_K${g}_CURRICULUM`, `getAIK${g}Questions`] },

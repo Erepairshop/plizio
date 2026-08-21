@@ -1,0 +1,22 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "skipLibCheck": true,
+    "incremental": false
+  },
+  "include": [
+    "app/kemiatest/page.tsx",
+    "app/deutschtest/page.tsx",
+    "components/chemie-visual/**/*.tsx",
+    "lib/kemiaCurriculum*.ts",
+    "lib/kemiaGenerators*.ts",
+    "lib/kemiaRegistration.ts",
+    "lib/kemiaVisualContent.ts",
+    "lib/kemiaQuestionTranslations.ts",
+    "lib/kemiaQuestionTranslations.generated.ts",
+    "lib/kemiaVisualGenerators.ts",
+    "next-env.d.ts"
+  ],
+  "exclude": ["node_modules", ".next", "out"]
+}

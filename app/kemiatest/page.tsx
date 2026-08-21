@@ -8,7 +8,9 @@ import { K8_CURRICULUM, getK8Questions } from "@/lib/kemiaCurriculum8";
 import { asCurriculumThemes } from "@/lib/kemiaCurriculumShared";
 import "@/lib/kemiaRegistration";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
-import { KEMIA_VISUAL_TYPES } from "@/lib/kemiaVisualGenerators";
+import { getLocalizedKemiaVisualTypes, KEMIA_VISUAL_TYPES } from "@/lib/kemiaVisualGenerators";
+import { useLang } from "@/components/LanguageProvider";
+import { useMemo } from "react";
 
 const KEMIA_CHARS = ["⚗️", "🧪", "⚛️", "🧬", "💧", "🔥", "🫧", "🔬", "🧫", "🧱", "🌡️", "🔋", "🌍", "☣️"];
 const KEMIA_COLORS = [
@@ -36,11 +38,7 @@ const KEMIA_CONFIG: LanguageTestEngineConfig = {
   bgChars: KEMIA_CHARS,
   bgColors: KEMIA_COLORS,
 
-  countries: [
-    { code: "DE", flag: "🇩🇪", label: "Deutschland", sub: "Note 1–6" },
-    { code: "AT", flag: "🇦🇹", label: "Österreich", sub: "Note 1–5" },
-    { code: "CH", flag: "🇨🇭", label: "Schweiz", sub: "Note 6–1" },
-  ],
+  countries: [],
   calculateMark: calculateCountryAwareMark,
 
   curriculum: {
@@ -89,6 +87,27 @@ const KEMIA_CONFIG: LanguageTestEngineConfig = {
   },
 };
 
+const KEMIA_LOCALES: Record<string, string> = {
+  de: "de-DE",
+  hu: "hu-HU",
+  ro: "ro-RO",
+  en: "en-US",
+};
+
 export default function KemiaTestPage() {
-  return <LanguageTestEngine config={KEMIA_CONFIG} />;
+  const { lang } = useLang();
+  const config = useMemo<LanguageTestEngineConfig>(() => ({
+    ...KEMIA_CONFIG,
+    ttsLang: KEMIA_LOCALES[lang] ?? "de-DE",
+    dateLocale: KEMIA_LOCALES[lang] ?? "de-DE",
+    visualTypes: getLocalizedKemiaVisualTypes(lang),
+    getQuestions: (grade, subtopicIds, count) => {
+      if (grade === 5) return getK5Questions(subtopicIds, count, lang);
+      if (grade === 6) return getK6Questions(subtopicIds, count, lang);
+      if (grade === 7) return getK7Questions(subtopicIds, count, lang);
+      return getK8Questions(subtopicIds, count, lang);
+    },
+  }), [lang]);
+
+  return <LanguageTestEngine config={config} />;
 }

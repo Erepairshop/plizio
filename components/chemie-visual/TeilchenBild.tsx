@@ -1,95 +1,48 @@
-'use client';
-import * as K7 from "@/components/testpapier-visual/svg/K7SvgsB";
+"use client";
+
+import { ParticleDiagramSvg, type ParticleDiagramId } from "./ChemistryTestDiagrams";
+import { KEMIA_VISUAL_UI, type KemiaVisualLang } from "@/lib/kemiaVisualContent";
 
 interface Props {
   prompt: string;
-  particles: { x: number; y: number }[];
-  mode: "solid" | "liquid" | "gas";
+  diagramId: ParticleDiagramId;
   options: string[];
   correctIndex: number;
   userAnswer: string;
   submitted: boolean;
-  onAnswer: (a: string) => void;
-  svgName?: string;
+  onAnswer: (answer: string) => void;
+  lang: KemiaVisualLang;
 }
 
-export default function TeilchenBild({
-  prompt,
-  particles,
-  mode,
-  options,
-  correctIndex,
-  userAnswer,
-  submitted,
-  onAnswer,
-  svgName,
-}: Props) {
+export default function TeilchenBild({ prompt, diagramId, options, correctIndex, userAnswer, submitted, onAnswer, lang }: Props) {
   const correctAnswer = options[correctIndex];
   const isCorrect = userAnswer === correctAnswer;
+  const ui = KEMIA_VISUAL_UI[lang];
 
-  return (
-    <div className="px-1 py-1.5">
-      <div className="flex items-center gap-2 mb-1.5">
-        <span className="text-slate-300 text-xs w-5 text-right shrink-0">→</span>
-        <span className="text-sm font-bold text-slate-800">{prompt}</span>
-      </div>
-
-      <div className="pl-6 flex flex-wrap items-center gap-4">
-        <div className="rounded-2xl border border-slate-200 bg-slate-50 px-3 py-3">
-          <div className="text-[11px] font-semibold uppercase tracking-[0.2em] text-slate-400 mb-2">
-            Teilchenbild
-          </div>
-          <div className="relative w-40 h-28 rounded-2xl border border-slate-200 bg-white overflow-hidden flex items-center justify-center">
-            {svgName && K7[`${svgName}NoBorder` as keyof typeof K7] ? (
-              (() => {
-                const SvgComponent = K7[`${svgName}NoBorder` as keyof typeof K7] as any;
-                return <SvgComponent className="w-full max-w-[120px] h-auto max-h-20" />;
-              })()
-            ) : (
-              <>
-                <div
-                  className={`absolute inset-x-0 bottom-0 ${
-                    mode === "solid" ? "h-20 bg-sky-100" : mode === "liquid" ? "h-14 bg-cyan-100" : "h-6 bg-violet-50"
-                  }`}
-                />
-                {particles.map((particle, idx) => (
-                  <div
-                    key={`${particle.x}-${particle.y}-${idx}`}
-                    className="absolute w-3.5 h-3.5 rounded-full bg-gradient-to-br from-emerald-400 to-teal-500 border border-white/70 shadow-sm"
-                    style={{ left: `${particle.x}%`, top: `${particle.y}%`, transform: "translate(-50%, -50%)" }}
-                  />
-                ))}
-              </>
-            )}
-          </div>
-        </div>
-
-        <div className="flex gap-1.5 flex-wrap max-w-md">
-          {options.map((option) => {
-            let cls = "px-3 py-1.5 rounded-full border font-bold text-xs transition-all ";
-            if (submitted) {
-              if (option === correctAnswer) cls += "bg-emerald-500 border-emerald-500 text-white";
-              else if (option === userAnswer && !isCorrect) cls += "bg-red-100 border-red-300 text-red-500";
-              else cls += "bg-white border-slate-200 text-slate-300";
-            } else {
-              cls += option === userAnswer
-                ? "bg-teal-500 border-teal-500 text-white"
-                : "bg-white border-slate-300 text-slate-700 hover:border-slate-400";
-            }
-            return (
-              <button key={option} className={cls} disabled={submitted} onClick={() => !submitted && onAnswer(option)}>
-                {option}
-              </button>
-            );
-          })}
-        </div>
-      </div>
-
-      {submitted && userAnswer && (
-        <div className={`text-xs font-bold mt-2 pl-6 ${isCorrect ? "text-emerald-500" : "text-red-500"}`}>
-          {isCorrect ? "✓ Richtig!" : `✗ Richtig: ${correctAnswer}`}
-        </div>
-      )}
+  return <div className="px-1 py-1.5">
+    <div className="mb-2 flex items-center gap-2">
+      <span className="w-5 shrink-0 text-right text-xs text-slate-300">→</span>
+      <span className="text-sm font-bold text-slate-800">{prompt}</span>
     </div>
-  );
+    <div className="flex flex-col gap-3 pl-6 sm:flex-row sm:items-center">
+      <div className="w-full max-w-[190px]">
+        <div className="mb-1 text-[11px] font-semibold uppercase tracking-[.2em] text-slate-400">{ui.particle}</div>
+        <ParticleDiagramSvg kind={diagramId} label={ui.particle + ": " + prompt} className="h-28 w-full" />
+      </div>
+      <div className="flex max-w-md flex-wrap gap-1.5">
+        {options.map((option) => {
+          let cls = "rounded-full border px-3 py-1.5 text-xs font-bold transition-all ";
+          if (submitted) {
+            cls += option === correctAnswer ? "border-emerald-500 bg-emerald-500 text-white" : option === userAnswer && !isCorrect ? "border-red-300 bg-red-100 text-red-500" : "border-slate-200 bg-white text-slate-300";
+          } else {
+            cls += option === userAnswer ? "border-teal-500 bg-teal-500 text-white" : "border-slate-300 bg-white text-slate-700 hover:border-slate-400";
+          }
+          return <button key={option} className={cls} disabled={submitted} onClick={() => !submitted && onAnswer(option)}>{option}</button>;
+        })}
+      </div>
+    </div>
+    {submitted && userAnswer && <div className={"mt-2 pl-6 text-xs font-bold " + (isCorrect ? "text-emerald-500" : "text-red-500")}>
+      {isCorrect ? "✓ " + ui.correct : "✗ " + ui.correctPrefix + " " + correctAnswer}
+    </div>}
+  </div>;
 }

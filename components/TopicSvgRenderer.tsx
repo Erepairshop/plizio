@@ -43,7 +43,7 @@ export default function TopicSvgRenderer({ config, lang = "en" }: Props) {
       const SvgComp = (BioSvgs as any)[name];
       if (!SvgComp) return <MissingSvg name={name} lang={lang} />;
       return (
-        <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden" 
+        <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden"
              style={{ backgroundColor: bg ?? "transparent" }}>
           <SvgComp lang={lang} color={color} />
         </div>
@@ -56,7 +56,7 @@ export default function TopicSvgRenderer({ config, lang = "en" }: Props) {
       const SvgComp = (KemiaSvgs as any)[name];
       if (!SvgComp) return <MissingSvg name={name} lang={lang} />;
       return (
-        <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden" 
+        <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden"
              style={{ backgroundColor: bg ?? "transparent" }}>
           <SvgComp lang={lang} color={color} />
         </div>
@@ -69,7 +69,7 @@ export default function TopicSvgRenderer({ config, lang = "en" }: Props) {
       const SvgComp = (PhysikSvgs as any)[name];
       if (!SvgComp) return <MissingSvg name={name} lang={lang} />;
       return (
-        <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden" 
+        <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden"
              style={{ backgroundColor: bg ?? "transparent" }}>
           <SvgComp lang={lang} color={color} />
         </div>
@@ -82,7 +82,7 @@ export default function TopicSvgRenderer({ config, lang = "en" }: Props) {
       const SvgComp = (GeschichteSvgs as any)[name];
       if (!SvgComp) return <MissingSvg name={name} lang={lang} />;
       return (
-        <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden" 
+        <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden"
              style={{ backgroundColor: bg ?? "transparent" }}>
           <SvgComp lang={lang} color={color} />
         </div>
@@ -95,7 +95,7 @@ export default function TopicSvgRenderer({ config, lang = "en" }: Props) {
       const SvgComp = (MathSvgs as any)[name];
       if (!SvgComp) return <MissingSvg name={name} lang={lang} />;
       return (
-        <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden" 
+        <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden"
              style={{ backgroundColor: bg ?? "transparent" }}>
           <SvgComp {...props} lang={lang} />
         </div>

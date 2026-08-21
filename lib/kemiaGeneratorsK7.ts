@@ -18,6 +18,7 @@ type GeneratorFn = (seed?: number) => GeneratedQuestion[];
 interface SubtopicSpec {
   focus: string;
   cards: ConceptCard[];
+  distractors?: ConceptCard[];
 }
 
 function card(term: string, definition: string, example: string): ConceptCard {
@@ -33,7 +34,13 @@ function buildWrongChoices(cards: ConceptCard[], correct: ConceptCard, rng: () =
   return wrongs.slice(0, 3);
 }
 
-function buildSubtopicGenerators(topic: string, subtopic: string, focus: string, cards: ConceptCard[]) {
+function buildSubtopicGenerators(
+  topic: string,
+  subtopic: string,
+  focus: string,
+  cards: ConceptCard[],
+  distractorCards: ConceptCard[] = cards
+) {
   const mcqTemplates = [
     (c: ConceptCard) => `${focus}: Welche Bezeichnung passt zu dieser Erklärung? ${c.definition}`,
     (c: ConceptCard) => `${focus}: Welcher Fachbegriff passt zu diesem Beispiel? ${c.example}`,
@@ -53,7 +60,7 @@ function buildSubtopicGenerators(topic: string, subtopic: string, focus: string,
     const questions: GeneratedQuestion[] = [];
 
     for (const current of ordered) {
-      const wrongChoices = buildWrongChoices(cards, current, rng);
+      const wrongChoices = buildWrongChoices(distractorCards, current, rng);
       for (const template of mcqTemplates) {
         questions.push(createMCQ(topic, subtopic, template(current), current.term, wrongChoices, rng));
       }
@@ -89,9 +96,13 @@ function buildSubtopicGenerators(topic: string, subtopic: string, focus: string,
 function buildTheme(topic: string, specs: Record<string, SubtopicSpec>) {
   const out: Record<string, GeneratorFn> = {};
   for (const [subtopic, spec] of Object.entries(specs)) {
-    Object.assign(out, buildSubtopicGenerators(topic, subtopic, spec.focus, spec.cards));
+    Object.assign(out, buildSubtopicGenerators(topic, subtopic, spec.focus, spec.cards, spec.distractors));
   }
   return out;
+}
+
+function pick(deck: ConceptCard[], ...indexes: number[]): ConceptCard[] {
+  return indexes.map((index) => deck[index]);
 }
 
 const ATOMIC_STRUCTURE: ConceptCard[] = [
@@ -152,45 +163,45 @@ const METALS_RESOURCES: ConceptCard[] = [
 
 export const K7_CHEMISTRY_GENERATORS: KemiaGeneratorMap = {
   atomic_structure: buildTheme("atomic_structure", {
-    protons_neutrons_electrons: { focus: "Protonen, Neutronen und Elektronen", cards: ATOMIC_STRUCTURE },
-    atomic_number: { focus: "Ordnungszahl", cards: ATOMIC_STRUCTURE },
-    mass_number: { focus: "Massenzahl", cards: ATOMIC_STRUCTURE },
-    electron_shells: { focus: "Elektronenschalen", cards: ATOMIC_STRUCTURE },
-    isotopes_intro: { focus: "Isotope", cards: ATOMIC_STRUCTURE },
+    protons_neutrons_electrons: { focus: "Protonen, Neutronen und Elektronen", cards: pick(ATOMIC_STRUCTURE, 2, 3, 4), distractors: ATOMIC_STRUCTURE },
+    atomic_number: { focus: "Ordnungszahl", cards: pick(ATOMIC_STRUCTURE, 2, 0), distractors: ATOMIC_STRUCTURE },
+    mass_number: { focus: "Massenzahl", cards: pick(ATOMIC_STRUCTURE, 6, 2, 3), distractors: ATOMIC_STRUCTURE },
+    electron_shells: { focus: "Elektronenschalen", cards: pick(ATOMIC_STRUCTURE, 7, 4), distractors: ATOMIC_STRUCTURE },
+    isotopes_intro: { focus: "Isotope", cards: pick(ATOMIC_STRUCTURE, 5, 6, 3), distractors: ATOMIC_STRUCTURE },
   }),
   periodic_table: buildTheme("periodic_table", {
-    groups_periods: { focus: "Gruppen und Perioden", cards: PERIODIC_TABLE },
-    alkali_metals: { focus: "Alkalimetalle", cards: PERIODIC_TABLE },
-    halogens: { focus: "Halogene", cards: PERIODIC_TABLE },
-    noble_gases: { focus: "Edelgase", cards: PERIODIC_TABLE },
-    periodic_trends_basic: { focus: "Periodische Trends", cards: PERIODIC_TABLE },
+    groups_periods: { focus: "Gruppen und Perioden", cards: pick(PERIODIC_TABLE, 2, 1, 0), distractors: PERIODIC_TABLE },
+    alkali_metals: { focus: "Alkalimetalle", cards: pick(PERIODIC_TABLE, 3, 2), distractors: PERIODIC_TABLE },
+    halogens: { focus: "Halogene", cards: pick(PERIODIC_TABLE, 4, 2), distractors: PERIODIC_TABLE },
+    noble_gases: { focus: "Edelgase", cards: pick(PERIODIC_TABLE, 5, 2), distractors: PERIODIC_TABLE },
+    periodic_trends_basic: { focus: "Periodische Trends", cards: pick(PERIODIC_TABLE, 0, 2, 1), distractors: PERIODIC_TABLE },
   }),
   bonding: buildTheme("bonding", {
-    chemical_bonds_intro: { focus: "Bindungsarten", cards: BONDING },
-    ionic_bonding: { focus: "Ionenbindung", cards: BONDING },
-    covalent_bonding: { focus: "Kovalente Bindung", cards: BONDING },
-    molecular_formulas: { focus: "Molekülformeln", cards: BONDING },
-    valence_intro: { focus: "Valenz", cards: BONDING },
+    chemical_bonds_intro: { focus: "Bindungsarten", cards: pick(BONDING, 0, 1, 5), distractors: BONDING },
+    ionic_bonding: { focus: "Ionenbindung", cards: pick(BONDING, 0, 5), distractors: BONDING },
+    covalent_bonding: { focus: "Kovalente Bindung", cards: pick(BONDING, 1, 2), distractors: BONDING },
+    molecular_formulas: { focus: "Molekülformeln", cards: pick(BONDING, 2, 4), distractors: BONDING },
+    valence_intro: { focus: "Valenz", cards: pick(BONDING, 3, 1), distractors: BONDING },
   }),
   reactions_stoich: buildTheme("reactions_stoich", {
-    equations_symbols: { focus: "Reaktionsschreibweise", cards: REACTIONS },
-    balancing_intro: { focus: "Ausgleichen von Gleichungen", cards: REACTIONS },
-    conservation_mass: { focus: "Massenerhaltung", cards: REACTIONS },
-    reaction_types_basic: { focus: "Reaktionstypen", cards: REACTIONS },
-    oxidation_intro: { focus: "Oxidation", cards: REACTIONS },
+    equations_symbols: { focus: "Reaktionsschreibweise", cards: pick(REACTIONS, 2, 0, 1), distractors: REACTIONS },
+    balancing_intro: { focus: "Ausgleichen von Gleichungen", cards: pick(REACTIONS, 2, 3), distractors: REACTIONS },
+    conservation_mass: { focus: "Massenerhaltung", cards: pick(REACTIONS, 3, 0, 1), distractors: REACTIONS },
+    reaction_types_basic: { focus: "Reaktionstypen", cards: pick(REACTIONS, 4, 5, 0, 1), distractors: REACTIONS },
+    oxidation_intro: { focus: "Oxidation", cards: pick(REACTIONS, 4, 0, 1), distractors: REACTIONS },
   }),
   acids_bases_salts: buildTheme("acids_bases_salts", {
-    acid_properties: { focus: "Säuren", cards: ACIDS_BASES_SALTS },
-    base_properties: { focus: "Basen", cards: ACIDS_BASES_SALTS },
-    salt_formation: { focus: "Salzbildung", cards: ACIDS_BASES_SALTS },
-    neutralization_equation: { focus: "Neutralisation", cards: ACIDS_BASES_SALTS },
-    indicator_colors: { focus: "Indikatoren", cards: ACIDS_BASES_SALTS },
+    acid_properties: { focus: "Säuren", cards: pick(ACIDS_BASES_SALTS, 0, 3, 2), distractors: ACIDS_BASES_SALTS },
+    base_properties: { focus: "Basen", cards: pick(ACIDS_BASES_SALTS, 1, 3, 2), distractors: ACIDS_BASES_SALTS },
+    salt_formation: { focus: "Salzbildung", cards: pick(ACIDS_BASES_SALTS, 5, 4, 0, 1), distractors: ACIDS_BASES_SALTS },
+    neutralization_equation: { focus: "Neutralisation", cards: pick(ACIDS_BASES_SALTS, 4, 0, 1, 5), distractors: ACIDS_BASES_SALTS },
+    indicator_colors: { focus: "Indikatoren", cards: pick(ACIDS_BASES_SALTS, 2, 3, 0, 1), distractors: ACIDS_BASES_SALTS },
   }),
   metals_resources: buildTheme("metals_resources", {
-    metal_properties: { focus: "Metalleigenschaften", cards: METALS_RESOURCES },
-    metal_reactivity: { focus: "Reaktivität von Metallen", cards: METALS_RESOURCES },
-    corrosion_protection: { focus: "Korrosionsschutz", cards: METALS_RESOURCES },
-    ores_extraction_intro: { focus: "Erze und Gewinnung", cards: METALS_RESOURCES },
-    alloys_intro: { focus: "Legierungen", cards: METALS_RESOURCES },
+    metal_properties: { focus: "Metalleigenschaften", cards: pick(METALS_RESOURCES, 0, 3), distractors: METALS_RESOURCES },
+    metal_reactivity: { focus: "Reaktivität von Metallen", cards: pick(METALS_RESOURCES, 0, 1), distractors: METALS_RESOURCES },
+    corrosion_protection: { focus: "Korrosionsschutz", cards: pick(METALS_RESOURCES, 1, 2), distractors: METALS_RESOURCES },
+    ores_extraction_intro: { focus: "Erze und Gewinnung", cards: pick(METALS_RESOURCES, 4, 5), distractors: METALS_RESOURCES },
+    alloys_intro: { focus: "Legierungen", cards: pick(METALS_RESOURCES, 3, 0), distractors: METALS_RESOURCES },
   }),
 };

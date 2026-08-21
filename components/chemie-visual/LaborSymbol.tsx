@@ -1,87 +1,48 @@
-'use client';
-import * as K7 from "@/components/testpapier-visual/svg/K7SvgsB";
+"use client";
+
+import { HazardDiagramSvg, type HazardDiagramId } from "./ChemistryTestDiagrams";
+import { KEMIA_VISUAL_UI, type KemiaVisualLang } from "@/lib/kemiaVisualContent";
 
 interface Props {
   prompt: string;
-  symbol: string;
-  title: string;
+  diagramId: HazardDiagramId;
   options: string[];
   correctIndex: number;
   userAnswer: string;
   submitted: boolean;
-  onAnswer: (a: string) => void;
-  svgName?: string;
+  onAnswer: (answer: string) => void;
+  lang: KemiaVisualLang;
 }
 
-export default function LaborSymbol({
-  prompt,
-  symbol,
-  title,
-  options,
-  correctIndex,
-  userAnswer,
-  submitted,
-  onAnswer,
-  svgName,
-}: Props) {
+export default function LaborSymbol({ prompt, diagramId, options, correctIndex, userAnswer, submitted, onAnswer, lang }: Props) {
   const correctAnswer = options[correctIndex];
   const isCorrect = userAnswer === correctAnswer;
+  const ui = KEMIA_VISUAL_UI[lang];
 
-  return (
-    <div className="px-1 py-1.5">
-      <div className="flex items-center gap-2 mb-1.5">
-        <span className="text-slate-300 text-xs w-5 text-right shrink-0">→</span>
-        <span className="text-sm font-bold text-slate-800">{prompt}</span>
-      </div>
-
-      <div className="pl-6 flex items-center gap-4 flex-wrap">
-        <div className="rounded-2xl border border-slate-200 bg-slate-50 px-4 py-3 min-w-[160px]">
-          <div className="text-[11px] font-semibold uppercase tracking-[0.2em] text-slate-400 mb-2">
-            Symbol
-          </div>
-          <div className="flex items-center gap-3">
-            {svgName && K7[`${svgName}NoBorder` as keyof typeof K7] ? (
-              <div className="flex items-center justify-center border border-rose-200 bg-rose-50 rounded-2xl p-2 min-w-[100px]">
-                {(() => {
-                  const SvgComponent = K7[`${svgName}NoBorder` as keyof typeof K7] as any;
-                  return <SvgComponent className="w-full max-w-[120px] h-auto max-h-20" />;
-                })()}
-              </div>
-            ) : (
-              <div className="w-16 h-16 rounded-2xl border border-rose-200 bg-rose-50 flex items-center justify-center text-4xl">
-                {symbol}
-              </div>
-            )}
-            <div className="text-sm font-bold text-slate-700">{title}</div>
-          </div>
-        </div>
-
-        <div className="flex gap-1.5 flex-wrap max-w-md">
-          {options.map((option) => {
-            let cls = "px-3 py-1.5 rounded-full border font-bold text-xs transition-all ";
-            if (submitted) {
-              if (option === correctAnswer) cls += "bg-emerald-500 border-emerald-500 text-white";
-              else if (option === userAnswer && !isCorrect) cls += "bg-red-100 border-red-300 text-red-500";
-              else cls += "bg-white border-slate-200 text-slate-300";
-            } else {
-              cls += option === userAnswer
-                ? "bg-rose-500 border-rose-500 text-white"
-                : "bg-white border-slate-300 text-slate-700 hover:border-slate-400";
-            }
-            return (
-              <button key={option} className={cls} disabled={submitted} onClick={() => !submitted && onAnswer(option)}>
-                {option}
-              </button>
-            );
-          })}
-        </div>
-      </div>
-
-      {submitted && userAnswer && (
-        <div className={`text-xs font-bold mt-2 pl-6 ${isCorrect ? "text-emerald-500" : "text-red-500"}`}>
-          {isCorrect ? "✓ Richtig!" : `✗ Richtig: ${correctAnswer}`}
-        </div>
-      )}
+  return <div className="px-1 py-1.5">
+    <div className="mb-2 flex items-center gap-2">
+      <span className="w-5 shrink-0 text-right text-xs text-slate-300">→</span>
+      <span className="text-sm font-bold text-slate-800">{prompt}</span>
     </div>
-  );
+    <div className="flex flex-col gap-3 pl-6 sm:flex-row sm:items-center">
+      <div className="w-full max-w-[180px]">
+        <div className="mb-1 text-[11px] font-semibold uppercase tracking-[.2em] text-slate-400">{ui.symbol}</div>
+        <HazardDiagramSvg kind={diagramId} label={ui.symbol + ": " + prompt} className="h-28 w-full" />
+      </div>
+      <div className="flex max-w-md flex-wrap gap-1.5">
+        {options.map((option) => {
+          let cls = "rounded-full border px-3 py-1.5 text-xs font-bold transition-all ";
+          if (submitted) {
+            cls += option === correctAnswer ? "border-emerald-500 bg-emerald-500 text-white" : option === userAnswer && !isCorrect ? "border-red-300 bg-red-100 text-red-500" : "border-slate-200 bg-white text-slate-300";
+          } else {
+            cls += option === userAnswer ? "border-rose-500 bg-rose-500 text-white" : "border-slate-300 bg-white text-slate-700 hover:border-slate-400";
+          }
+          return <button key={option} className={cls} disabled={submitted} onClick={() => !submitted && onAnswer(option)}>{option}</button>;
+        })}
+      </div>
+    </div>
+    {submitted && userAnswer && <div className={"mt-2 pl-6 text-xs font-bold " + (isCorrect ? "text-emerald-500" : "text-red-500")}>
+      {isCorrect ? "✓ " + ui.correct : "✗ " + ui.correctPrefix + " " + correctAnswer}
+    </div>}
+  </div>;
 }

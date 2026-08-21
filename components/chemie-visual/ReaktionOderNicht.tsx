@@ -1,84 +1,49 @@
-'use client';
-import * as K7 from "@/components/testpapier-visual/svg/K7SvgsB";
+"use client";
+
+import { ChangeDiagramSvg, type ChangeDiagramId } from "./ChemistryTestDiagrams";
+import { KEMIA_VISUAL_UI, type KemiaVisualLang } from "@/lib/kemiaVisualContent";
 
 interface Props {
   prompt: string;
   scenario: string;
-  sceneEmoji: string;
+  diagramId: ChangeDiagramId;
   options: string[];
   correctIndex: number;
   userAnswer: string;
   submitted: boolean;
-  onAnswer: (a: string) => void;
-  svgName?: string;
+  onAnswer: (answer: string) => void;
+  lang: KemiaVisualLang;
 }
 
-export default function ReaktionOderNicht({
-  prompt,
-  scenario,
-  sceneEmoji,
-  options,
-  correctIndex,
-  userAnswer,
-  submitted,
-  onAnswer,
-  svgName,
-}: Props) {
+export default function ReaktionOderNicht({ prompt, scenario, diagramId, options, correctIndex, userAnswer, submitted, onAnswer, lang }: Props) {
   const correctAnswer = options[correctIndex];
   const isCorrect = userAnswer === correctAnswer;
+  const ui = KEMIA_VISUAL_UI[lang];
 
-  return (
-    <div className="px-1 py-1.5">
-      <div className="flex items-center gap-2 mb-1.5">
-        <span className="text-slate-300 text-xs w-5 text-right shrink-0">→</span>
-        <span className="text-sm font-bold text-slate-800">{prompt}</span>
-      </div>
-
-      <div className="pl-6">
-        <div className="rounded-2xl border border-slate-200 bg-slate-50 px-3 py-3 mb-2">
-          <div className="flex items-center justify-between gap-3">
-            <div className="text-sm font-semibold text-slate-700">{scenario}</div>
-            {svgName && K7[`${svgName}NoBorder` as keyof typeof K7] ? (
-              <div className="rounded-2xl bg-white border border-slate-200 flex items-center justify-center shadow-sm p-2 min-w-[100px]">
-                {(() => {
-                  const SvgComponent = K7[`${svgName}NoBorder` as keyof typeof K7] as any;
-                  return <SvgComponent className="w-full max-w-[120px] h-auto max-h-20" />;
-                })()}
-              </div>
-            ) : (
-              <div className="w-14 h-14 rounded-2xl bg-white border border-slate-200 flex items-center justify-center text-3xl shadow-sm">
-                {sceneEmoji}
-              </div>
-            )}
-          </div>
-        </div>
-
-        <div className="flex gap-2 flex-wrap">
-          {options.map((option) => {
-            let cls = "px-3 py-2 rounded-2xl border text-xs font-bold transition-all ";
-            if (submitted) {
-              if (option === correctAnswer) cls += "bg-emerald-500 border-emerald-500 text-white";
-              else if (option === userAnswer && !isCorrect) cls += "bg-red-100 border-red-300 text-red-500";
-              else cls += "bg-white border-slate-200 text-slate-300";
-            } else {
-              cls += option === userAnswer
-                ? "bg-amber-500 border-amber-500 text-white"
-                : "bg-white border-slate-300 text-slate-700 hover:border-slate-400";
-            }
-            return (
-              <button key={option} className={cls} disabled={submitted} onClick={() => !submitted && onAnswer(option)}>
-                {option}
-              </button>
-            );
-          })}
-        </div>
-      </div>
-
-      {submitted && userAnswer && (
-        <div className={`text-xs font-bold mt-2 pl-6 ${isCorrect ? "text-emerald-500" : "text-red-500"}`}>
-          {isCorrect ? "✓ Richtig!" : `✗ Richtig: ${correctAnswer}`}
-        </div>
-      )}
+  return <div className="px-1 py-1.5">
+    <div className="mb-2 flex items-center gap-2">
+      <span className="w-5 shrink-0 text-right text-xs text-slate-300">→</span>
+      <span className="text-sm font-bold text-slate-800">{prompt}</span>
     </div>
-  );
+    <div className="pl-6">
+      <div className="mb-3 flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
+        <div className="text-sm font-semibold text-slate-700">{scenario}</div>
+        <ChangeDiagramSvg kind={diagramId} label={ui.diagram + ": " + scenario} className="h-28 w-full max-w-[190px]" />
+      </div>
+      <div className="flex flex-wrap gap-2">
+        {options.map((option) => {
+          let cls = "rounded-2xl border px-3 py-2 text-xs font-bold transition-all ";
+          if (submitted) {
+            cls += option === correctAnswer ? "border-emerald-500 bg-emerald-500 text-white" : option === userAnswer && !isCorrect ? "border-red-300 bg-red-100 text-red-500" : "border-slate-200 bg-white text-slate-300";
+          } else {
+            cls += option === userAnswer ? "border-amber-500 bg-amber-500 text-white" : "border-slate-300 bg-white text-slate-700 hover:border-slate-400";
+          }
+          return <button key={option} className={cls} disabled={submitted} onClick={() => !submitted && onAnswer(option)}>{option}</button>;
+        })}
+      </div>
+    </div>
+    {submitted && userAnswer && <div className={"mt-2 pl-6 text-xs font-bold " + (isCorrect ? "text-emerald-500" : "text-red-500")}>
+      {isCorrect ? "✓ " + ui.correct : "✗ " + ui.correctPrefix + " " + correctAnswer}
+    </div>}
+  </div>;
 }

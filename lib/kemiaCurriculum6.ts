@@ -1,4 +1,5 @@
 import { getGeneratedQuestions, type KemiaGeneratorMap, type KemiaTheme } from "./kemiaCurriculumShared";
+import { localizeKemiaQuestions } from "./kemiaQuestionTranslations";
 
 const K6: KemiaTheme[] = [
   {
@@ -88,8 +89,11 @@ export function setK6GeneratorMap(map: KemiaGeneratorMap) {
   K6_GENERATOR_MAP = map;
 }
 
-export function getK6Questions(selectedSubtopicIds: string[], count = 10) {
-  return getGeneratedQuestions(K6, K6_GENERATOR_MAP, selectedSubtopicIds, count);
+export function getK6Questions(selectedSubtopicIds: string[], count = 10, lang = "de") {
+  return localizeKemiaQuestions(
+    getGeneratedQuestions(K6, K6_GENERATOR_MAP, selectedSubtopicIds, count),
+    lang,
+  );
 }
 
 export { calculateKemiaMark } from "./kemiaCurriculumShared";

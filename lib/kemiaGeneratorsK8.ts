@@ -128,7 +128,7 @@ const RATES_EQUILIBRIUM = [
   card("Reaktionsgeschwindigkeit", "Wie schnell eine Reaktion abläuft.", "Brausetabletten reagieren schneller in warmem Wasser."),
   card("Temperatur", "Hohe Temperatur macht Teilchen beweglicher.", "Wärme beschleunigt viele Reaktionen."),
   card("Oberfläche", "Mehr Oberfläche kann Reaktionen beschleunigen.", "Pulver reagiert oft schneller als ein Brocken."),
-  card("Konzentration", "Mehr Teilchen in gleicher Menge.", "Starke Säure reagiert oft schneller."),
+  card("Konzentration", "Mehr Teilchen in gleicher Menge.", "Eine höhere Konzentration kann eine Reaktion beschleunigen."),
   card("Katalysator", "Beschleunigt Reaktionen ohne verbraucht zu werden.", "Enzyme sind Katalysatoren."),
   card("Gleichgewicht", "Hin- und Rückreaktion laufen gleich schnell.", "Das System bleibt dann stabil."),
 ];
