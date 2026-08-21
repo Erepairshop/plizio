@@ -5,6 +5,7 @@
 import type { CurriculumTheme, CurriculumQuestion } from "./curriculumTypes";
 import type { TestGradeMark } from "./languageTestTypes";
 import { pickDiverse } from "./testDiversity";
+import { localizeBiologieQuestions } from "./biologieQuestionTranslations";
 
 export type BiologieQuestion = CurriculumQuestion;
 export type BiologieTheme = CurriculumTheme;
@@ -99,7 +100,7 @@ export function setK6GeneratorMap(map: BiologieGeneratorMap) {
   K6_GENERATOR_MAP = map;
 }
 
-export function getK6Questions(
+function getK6QuestionsGerman(
   selectedSubtopicIds: string[],
   count = 10
 ): BiologieQuestion[] {
@@ -155,6 +156,10 @@ export function getK6Questions(
     [dedupedPool[i], dedupedPool[j]] = [dedupedPool[j], dedupedPool[i]];
   }
   return pickDiverse(dedupedPool, count);
+}
+
+export function getK6Questions(selectedSubtopicIds: string[], count = 10, lang = "de"): BiologieQuestion[] {
+  return localizeBiologieQuestions(getK6QuestionsGerman(selectedSubtopicIds, count), lang);
 }
 
 // ─── GRADING ──────────────────────────────────────────────────────────────

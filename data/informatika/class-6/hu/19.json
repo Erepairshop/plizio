@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Ciklusok",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi a ciklus a programozásban?",
+      "options": [
+        "Egy hiba",
+        "Utasítások ismétlése",
+        "Hardveralkatrész",
+        "Egy programnév"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják azt a ciklust, amely meghatározott számú ismétlést fut le?",
+      "options": [
+        "Számláló ciklus (for-ciklus)",
+        "Végtelen ciklus",
+        "Véletlenszerű ciklus",
+        "Egyszerű ciklus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik ciklus vizsgál egy feltételt, mielőtt végrehajtódik?",
+      "options": [
+        "While-ciklus",
+        "For-ciklus",
+        "Ha-Akkor",
+        "Törlő-ciklus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik egy végtelen ciklusban?",
+      "options": [
+        "A program azonnal leáll",
+        "A parancsok végtelenszer ismétlődnek",
+        "A számítógép gyorsabb lesz",
+        "A változó törlődik"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik szót használják gyakran egy számlálós ciklusnál?",
+      "options": [
+        "if",
+        "for",
+        "while",
+        "ismétlés"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mikor szokik általában véget egy while-ciklus?",
+      "options": [
+        "Ha a feltétel hamis (false) lesz",
+        "Ha a feltétel igaz (true) lesz",
+        "Pontosan 10-szer után",
+        "Sosem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy 'ciklusszámláló' (Schleifenzähler)?",
+      "options": [
+        "Eszköz a biztosítékszekrényen",
+        "Egy változó, amely számolja a futásokat",
+        "A programozó neve",
+        "Egy jelszó"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az 'Iterálás'?",
+      "options": [
+        "Törlés",
+        "Egy lépés ismétlése",
+        "Mentés",
+        "Nyomtatás"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Használható-e egy ciklus egy másik cikluson belül?",
+      "options": [
+        "Igen (beágyazott ciklusok)",
+        "Nem",
+        "Csak Java-ban",
+        "Csak kétszer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik parancs szakítja meg idő előtt a ciklust?",
+      "options": [
+        "leállít",
+        "break",
+        "kilépés",
+        "end"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik parancs ugrik rögtön a következő ciklusismétlésre?",
+      "options": [
+        "következő",
+        "folytatás",
+        "kihagyás",
+        "ugrás"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a fejvezérelt (elöltesztelő) ciklus?",
+      "options": [
+        "A feltétel a elején áll",
+        "A feltétel a végén áll",
+        "A feltétel titkos",
+        "Nincs hozzá feltétel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a lábvezérelt ciklus (Fußgesteuerte Schleife)?",
+      "options": [
+        "A feltétel a végén áll (legalább egyszer végrehajtódik)",
+        "Lábbal vezérelhető",
+        "Nagyon lassú",
+        "A program végén áll"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hányszor fut le a `for i from 1 to 5`?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "Végtelen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha a megszakítási feltétel soha nem teljesül?",
+      "options": [
+        "Végtelen ciklus",
+        "A program összeomlik",
+        "A számítógép kikapcsol",
+        "0 kerül kiírásra"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használunk gyakran ciklusokat?",
+      "options": [
+        "Hosszú listák feldolgozásához",
+        "A monitor tisztításához",
+        "A tinta megtakarításához",
+        "Az internet törléséhez"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a neve egyetlen iterációnak egy ciklusban?",
+      "options": [
+        "Lépés",
+        "Iteráció",
+        "Kör(körítés)",
+        "Út"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik szimbólum a folyamatábrán a ciklusfeltételt mutatja?",
+      "options": [
+        "Téglalap",
+        "Kereszt (#)",
+        "Ellipszis",
+        "Kör"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az `i++` sok nyelvekben egy cikluson belül?",
+      "options": [
+        "Növeld i-t 1-gyel",
+        "Csökkentsd i-t 1-gyel",
+        "i pozitív",
+        "i törlése"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e egy for-ciklus visszafelé számolni?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak különleges esetekben",
+        "Csak egy képpel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a végeredménye egy olyan ciklusnak, amely háromszor kiírja: „Hallo”?",
+      "options": [
+        "SziaSziaSzia",
+        "Szia 3",
+        "Szia",
+        "Hiba"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy „tömb bejárása” (Array-Durchlauf)?",
+      "options": [
+        "Ciklus, amely a lista minden elemére hivatkozik",
+        "Gyors PC",
+        "Egy vírus",
+        "Hardverteszt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen ciklust használunk, ha nem tudjuk, hányszor kell ismételni?",
+      "options": [
+        "While-ciklus",
+        "For-ciklus",
+        "Számláló ciklus",
+        "Konstans"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Ciklustörzs' (Schleifenkörper)?",
+      "options": [
+        "A PC háza",
+        "A kódnak az a része, amely ismétlődik",
+        "A feltétel",
+        "A számláló"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért használunk ciklusokat (Schleifen) ahelyett, hogy a kódot másolnánk?",
+      "options": [
+        "Rövidebb kód, könnyebb módosítani, kevesebb hiba",
+        "Mert a másolás tiltott",
+        "Mert különben a számítógép túlmelegedne",
+        "Mert színesebbnek néz ki"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "gépelés",
+      "text": "Ciklus"
+    },
+    {
+      "type": "gépelés",
+      "text": "Iteráció"
+    },
+    {
+      "type": "gépelés",
+      "text": "Számláló ciklus"
+    },
+    {
+      "type": "gépelés",
+      "text": "for"
+    },
+    {
+      "type": "gépelés",
+      "text": "While-ciklus"
+    },
+    {
+      "type": "gépelés",
+      "text": "Végtelen ciklus"
+    },
+    {
+      "type": "gépelés",
+      "text": "break"
+    },
+    {
+      "type": "gépelés",
+      "text": "folytatás"
+    },
+    {
+      "type": "gépelés",
+      "text": "Ciklusváltozó (ciklus számláló)"
+    },
+    {
+      "type": "gépelés",
+      "text": "Ciklusmag (a ciklus törzse)"
+    }
+  ]
+}

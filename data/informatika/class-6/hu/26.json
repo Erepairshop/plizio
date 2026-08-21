@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Médiakompetencia és álhírek",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi a médiakompetencia?",
+      "options": [
+        "Képes bekapcsolni egy számítógépet",
+        "A képesség a médiák kritikus és biztonságos használatára",
+        "Csak tévénézés",
+        "Rengeteg telefonozás"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mik a 'fake news' (álhírek)?",
+      "options": [
+        "Valódi hírek",
+        "Céltudatosan terjesztett hamis információk",
+        "Vicces viccek",
+        "Időjárás-jelentések"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért terjednek a hamis hírek (Fake News)?",
+      "options": [
+        "Szórakoztatás",
+        "Manipuláció, pénzkeresés vagy hangulatkeltés",
+        "Csak véletlenül",
+        "Műszaki hibák miatt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy „impresszum”?",
+      "options": [
+        "Egy bélyeg",
+        "Jogszabályban előírt üzemeltetői információ a weboldalon",
+        "Egy jelszó",
+        "Kép neve"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miből ismerhető fel gyakran egy hiteles hírportál?",
+      "options": [
+        "Rengeteg reklám",
+        "Létező impresszum és tárgyilagos stílus",
+        "Felháborító, kattintásvadász címek",
+        "Nincs dátum"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy „tényellenőrzés” (Faktencheck)?",
+      "options": [
+        "Állítás igazságtartalmának ellenőrzése",
+        "Gyors játék",
+        "Adattörlés",
+        "Hardverteszt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „szűrőbuborék” (Filterblase)?",
+      "options": [
+        "Egy játékszer",
+        "Az algoritmusok csak azokat a tartalmakat mutatják meg, amelyek megerősítik a saját véleményt",
+        "Tisztított/személyre szabott PC",
+        "Gyors internetkapcsolat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „visszhangkamra” (Echokammer)?",
+      "options": [
+        "Visszhangos szoba",
+        "Olyan hálózati terek, ahol csak a saját véleményüket hallják az emberek",
+        "Egy hangstúdió",
+        "Hardveralkatrész"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a \"Clickbait\"?",
+      "options": [
+        "Internetes adathalászat",
+        "Figyelemfelkeltő (kattintásra ösztönző) címsorok (gyakran túlzóak)",
+        "Egy új böngésző",
+        "Egy vírus"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy 'social bot'?",
+      "options": [
+        "Egy kedves ember",
+        "Egy program, amely embernek adja ki magát és befolyásolja a véleményeket",
+        "Otthoni robot",
+        "Játékalkalmazás"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Azonnal meg kell osztani egy sokkoló hírt?",
+      "options": [
+        "Igen, gyorsan mindenkit értesíteni",
+        "Nem, először ellenőrizni kell a forrást és tényellenőrzést végezni",
+        "Csak ha sok lájkjuk van",
+        "Csak ha a barátok is így csinálják"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'manipuláció'?",
+      "options": [
+        "Kézi munka",
+        "Emberek célzott befolyásolása",
+        "Adatmentés",
+        "Képernyő tisztítása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „deepfake”?",
+      "options": [
+        "Egy mély gödör",
+        "Csalásig hitelesnek tűnő, manipulált képek vagy videók (MI által generált)",
+        "Gyors játék",
+        "Felhőtárhely"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol találunk általában megbízható információkat?",
+      "options": [
+        "Csak TikTokon",
+        "Közszolgálati médiánál vagy ismert lapoknál",
+        "WhatsApp láncüzenetekben",
+        "YouTube-megjegyzésekben"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „Forráskritika” (Quellenkritik)?",
+      "options": [
+        "Forrás kikapcsolása",
+        "Megkérdőjelezni, hogy ki miért terjeszt egy információt",
+        "Üzenetek törlése",
+        "Kritizálja a tévét"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért nem bizonyíték az igazságra a sok \"Like\"?",
+      "options": [
+        "A lájkok vásárolhatók vagy botok által generálhatók",
+        "Az igazságnak nincs szüksége lájkokra",
+        "Mindenkinek más tetszik",
+        "A lájkok mindig igazak"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „Cenzúra”?",
+      "options": [
+        "Értékelések adása",
+        "Információelnyomás állami szervek által",
+        "Egy jelszó",
+        "Írási hiba"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „Propaganda”?",
+      "options": [
+        "Reklám termékekhez",
+        "Politikai gondolatok rendszerszintű terjesztése befolyásolás céljából",
+        "Egy új könyv",
+        "Számítógépes program"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'lánclevél' (Kettenbrief)?",
+      "options": [
+        "Fémlemezből készült levél",
+        "Üzenet, amely arra kéri, hogy továbbítsd sokaknak",
+        "Egy biztonságos jelszó",
+        "Hardverhiba"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan ellenőrzünk egy képet az eredetiség szempontjából?",
+      "options": [
+        "Megnézni",
+        "Képfordított keresés (pl. Google Képek)",
+        "Nyomtatás",
+        "Törlés"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'gyűlöletbeszéd' (Hate Speech)?",
+      "options": [
+        "Gyűlöletbeszéd az interneten",
+        "Egy hangos program",
+        "Gyors üzenet",
+        "Képhiba"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „Netikett” (Netiquette)?",
+      "options": [
+        "Szabályok az udvarias viselkedésre az interneten",
+        "Internetes díjcsomag",
+        "Böngésző neve",
+        "Vírusirtó program"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért fontos a kritikus gondolkodás?",
+      "options": [
+        "Hogy ne dőlj be hazugságoknak",
+        "Mindenben rosszat találni",
+        "Gyorsabb gépeléshez",
+        "Az áram megtakarításához"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „szatíra”?",
+      "options": [
+        "Egy hazugság",
+        "Művészi forma, amely túlzó módon ábrázol dolgokat, hogy kritizáljon",
+        "Egy komoly jelentés",
+        "Egy építési útmutató"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hihetsz-e mindennek az interneten?",
+      "options": [
+        "Igen, az ott áll",
+        "Nem, mindig szkeptikusnak kell lenni és ellenőrizni",
+        "Csak amit a tanár mond",
+        "Csak ami a Wikipédián áll"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "gépelés",
+      "text": "Médiakompetencia"
+    },
+    {
+      "type": "gépelés",
+      "text": "Álhír"
+    },
+    {
+      "type": "gépelés",
+      "text": "Impresszum"
+    },
+    {
+      "type": "gépelés",
+      "text": "Clickbait"
+    },
+    {
+      "type": "gépelés",
+      "text": "Tényellenőrzés"
+    },
+    {
+      "type": "gépelés",
+      "text": "Manipuláció"
+    },
+    {
+      "type": "gépelés",
+      "text": "Deepfake"
+    },
+    {
+      "type": "gépelés",
+      "text": "Szűrőbuborék"
+    },
+    {
+      "type": "gépelés",
+      "text": "Gyűlöletbeszéd"
+    },
+    {
+      "type": "gépelés",
+      "text": "Netikett"
+    }
+  ]
+}

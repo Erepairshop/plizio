@@ -1,5 +1,6 @@
 "use client";
 
+import { useMemo } from "react";
 import { LanguageTestEngine, calculateCountryAwareMark } from "@/app/deutschtest/page";
 import {
   GESCHICHTE_CURRICULUM,
@@ -9,6 +10,7 @@ import {
 } from "@/lib/geschichteCurriculum";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
 import { useLang } from "@/components/LanguageProvider";
+import { getLocalizedGeschichteVisualTypes } from "@/lib/geschichteVisualGenerators";
 
 const BG_CHARS = ["⚔️", "🏰", "👑", "📜", "🗡️"];
 const BG_COLORS = [
@@ -89,5 +91,11 @@ const GESCHICHTE_CONFIG: LanguageTestEngineConfig = {
 export default function GeschichteTestPage() {
   const { lang } = useLang();
   const locale = { de: "de-DE", hu: "hu-HU", ro: "ro-RO", en: "en-US" }[lang] ?? "de-DE";
-  return <LanguageTestEngine config={{ ...GESCHICHTE_CONFIG, ttsLang: locale, dateLocale: locale }} />;
+  const config = useMemo(() => ({
+    ...GESCHICHTE_CONFIG,
+    ttsLang: locale,
+    dateLocale: locale,
+    visualTypes: getLocalizedGeschichteVisualTypes(lang),
+  }), [lang, locale]);
+  return <LanguageTestEngine config={config} />;
 }

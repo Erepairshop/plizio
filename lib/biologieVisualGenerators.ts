@@ -21,6 +21,29 @@ import PflanzenAnatomie from "@/components/biologie-visual/PflanzenAnatomie";
 import ZellDiagram from "@/components/biologie-visual/ZellDiagram";
 import LebenszyklusTimeline from "@/components/biologie-visual/LebenszyklusTimeline";
 import DnaEvolutionErkennen from "@/components/biologie-visual/DnaEvolutionErkennen";
+import BiologyDiagramQuestion from "@/components/biologie-visual/BiologyDiagramQuestion";
+import BiologyLegacyMission from "@/components/biologie-visual/BiologyLegacyMission";
+import { biologyDiagramSvgMarkup } from "@/components/biologie-visual/BiologyTestDiagrams";
+import {
+  BIOLOGIE_VISUAL_TYPE_LABELS,
+  biologieVisualLang,
+  getCellItems,
+  getGeneticsItems,
+  getOrganItems,
+  getPlantItems,
+} from "@/lib/biologieVisualContent";
+import {
+  ANIMAL_CLASSIFICATION,
+  FOOD_CHAINS_LOCALIZED,
+  LEGACY_VISUAL_UI,
+  LIFECYCLES_LOCALIZED,
+  NUTRIENT_GROUPS,
+  NUTRIENT_MISSIONS,
+  ORGAN_MISSIONS,
+  ORGAN_SYSTEMS,
+  biologieLegacyLang,
+  text,
+} from "@/lib/biologieLegacyVisualContent";
 
 // ─── HELPERS ────────────────────────────────────────────────────────────────
 
@@ -495,14 +518,285 @@ const DNA_EVOLUTION_ERKENNEN: VisualQuestionType = {
 // ─── EXPORT ──────────────────────────────────────────────────────────────────
 
 
-export const BIOLOGIE_VISUAL_TYPES: VisualQuestionType[] = [
-  TIER_KLASSIFIZIERUNG_BIO,
-  ORGAN_ZUORDNUNG,
-  ERNAEHRUNGS_SORT,
-  NAHRUNGSKETTE_SORT,
-  ORGAN_DIAGRAM,
-  PFLANZEN_ANATOMIE,
-  ZELL_DIAGRAM,
-  LEBENSZYKLUS_TIMELINE,
-  DNA_EVOLUTION_ERKENNEN,
-];
+export const BIOLOGIE_VISUAL_TYPES: VisualQuestionType[] = getLocalizedBiologieVisualTypes("de");
+
+type DiagramFamily = "organ" | "plant" | "cell" | "genetics";
+type DiagramItem = {
+  id: string;
+  prompt: string;
+  hint: string;
+  options: string[];
+  answer: string;
+};
+
+function buildDiagramType(
+  type: string,
+  label: string,
+  family: DiagramFamily,
+  subtopicIds: string[],
+  items: DiagramItem[],
+  lang: string,
+): VisualQuestionType {
+  return {
+    type,
+    label,
+    printLabel: label,
+    component: BiologyDiagramQuestion,
+    subtopicIds,
+    generate: count => shuffle(items).slice(0, Math.min(count, items.length)).map(item => {
+      const distractors = shuffle(item.options.filter(option => option !== item.answer)).slice(0, 3);
+      const options = shuffle([item.answer, ...distractors]);
+      return {
+        question: item.prompt,
+        prompt: item.prompt,
+        hint: item.hint,
+        diagramId: item.id,
+        family,
+        printSvg: biologyDiagramSvgMarkup(family, item.id, `${item.prompt} ${item.answer}`),
+        options,
+        correctIndex: options.indexOf(item.answer),
+        lang,
+      };
+    }),
+    gradeAnswer: (question, given) => {
+      const expected = question.options[question.correctIndex];
+      return { correct: given === expected, expected };
+    },
+    mapProps: (question, userAnswer, submitted, onAnswer) => ({
+      family,
+      prompt: question.prompt,
+      hint: question.hint,
+      diagramId: question.diagramId,
+      options: question.options,
+      correctIndex: question.correctIndex,
+      userAnswer,
+      submitted,
+      onAnswer,
+      lang: question.lang,
+    }),
+    renderPrint: question => `${question.prompt} ${question.hint}`,
+  };
+}
+
+export function getLocalizedBiologieDiagramTypes(lang?: string): VisualQuestionType[] {
+  const activeLang = biologieVisualLang(lang);
+  const labels = BIOLOGIE_VISUAL_TYPE_LABELS[activeLang];
+  return [
+    buildDiagramType(
+      "organ-diagram",
+      labels[0],
+      "organ",
+      ["skeleton", "muscles", "body_systems", "skin", "digestive_system", "digestive_organs", "eye", "ear", "nose", "tongue", "skin_sense", "heart", "circulation"],
+      getOrganItems(activeLang),
+      activeLang,
+    ),
+    buildDiagramType(
+      "pflanzen-anatomie",
+      labels[1],
+      "plant",
+      ["plant_parts", "flower_structure", "plant_reproduction", "plant_types", "photosynthesis", "photosynthesis_detail"],
+      getPlantItems(activeLang),
+      activeLang,
+    ),
+    buildDiagramType(
+      "zell-diagram",
+      labels[2],
+      "cell",
+      ["cell_structure", "cell_organelles", "cell_division", "cell_cycle", "photosynthesis_detail", "cellular_respiration", "energy_transfer"],
+      getCellItems(activeLang),
+      activeLang,
+    ),
+    buildDiagramType(
+      "dna-evolution-erkennen",
+      labels[3],
+      "genetics",
+      ["genetics", "evolution", "dna", "mendel", "genetics_mendel", "evolution_basics", "genetics_traits"],
+      getGeneticsItems(activeLang),
+      activeLang,
+    ),
+  ];
+}
+
+function missionProps(
+  question: any,
+  userAnswer: string,
+  submitted: boolean,
+  onAnswer: (answer: string) => void,
+) {
+  return {
+    ...question,
+    userAnswer,
+    submitted,
+    onAnswer,
+  };
+}
+
+function getLocalizedBiologieLegacyTypes(lang?: string): VisualQuestionType[] {
+  const activeLang = biologieLegacyLang(lang);
+  const ui = LEGACY_VISUAL_UI[activeLang];
+  const common = {
+    correctLabel: ui.correct,
+    solutionLabel: ui.solution,
+    resetLabel: ui.reset,
+  };
+
+  const animalType: VisualQuestionType = {
+    type: "tier-klassifizierung-bio",
+    label: `🧭 ${ui.classificationLabel}`,
+    printLabel: ui.classificationLabel,
+    component: BiologyLegacyMission,
+    subtopicIds: ["fish", "amphibian", "reptile", "bird", "mammal", "vertebrate_comparison", "arthropods", "insects", "spiders", "mollusks", "worm"],
+    generate: count => shuffle([...ANIMAL_CLASSIFICATION]).slice(0, count).map(item => {
+      const correctAnswer = item.kind === "vertebrate" ? ui.vertebrate : ui.invertebrate;
+      return {
+        mode: "choice",
+        badge: item.kind === "vertebrate" ? "🦴" : "🪲",
+        prompt: ui.classificationPrompt,
+        title: text(item.name, activeLang),
+        clue: text(item.clue, activeLang),
+        clueLabel: ui.evidence,
+        options: shuffle([ui.vertebrate, ui.invertebrate]),
+        correctAnswer,
+        question: `${ui.classificationPrompt} ${text(item.name, activeLang)}`,
+        missionId: item.id,
+        ...common,
+      };
+    }),
+    gradeAnswer: (question, given) => ({ correct: given === question.correctAnswer, expected: question.correctAnswer }),
+    mapProps: missionProps,
+    renderPrint: question => `${question.title}: ${question.correctAnswer} (${question.clue})`,
+  };
+
+  const systemKeys = Object.keys(ORGAN_SYSTEMS) as Array<keyof typeof ORGAN_SYSTEMS>;
+  const organType: VisualQuestionType = {
+    type: "organ-zuordnung",
+    label: `🫀 ${ui.organLabel}`,
+    printLabel: ui.organLabel,
+    component: BiologyLegacyMission,
+    subtopicIds: ["body_systems", "skeleton", "muscles", "skin", "heart", "circulation", "blood_components", "blood_types", "eye", "ear", "nose", "tongue", "skin_sense"],
+    generate: count => shuffle([...ORGAN_MISSIONS]).slice(0, count).map(item => {
+      const systemKey = item.system as keyof typeof ORGAN_SYSTEMS;
+      const correctAnswer = text(ORGAN_SYSTEMS[systemKey], activeLang);
+      const distractors = shuffle(systemKeys.filter(key => key !== systemKey)).slice(0, 3);
+      return {
+        mode: "choice",
+        badge: "🫀",
+        prompt: ui.organPrompt,
+        title: text(item.name, activeLang),
+        clue: text(item.clue, activeLang),
+        clueLabel: ui.function,
+        options: shuffle([correctAnswer, ...distractors.map(key => text(ORGAN_SYSTEMS[key], activeLang))]),
+        correctAnswer,
+        question: `${ui.organPrompt} ${text(item.name, activeLang)}`,
+        missionId: item.id,
+        ...common,
+      };
+    }),
+    gradeAnswer: (question, given) => ({ correct: given === question.correctAnswer, expected: question.correctAnswer }),
+    mapProps: missionProps,
+    renderPrint: question => `${question.title}: ${question.correctAnswer} (${question.clue})`,
+  };
+
+  const nutrientKeys = Object.keys(NUTRIENT_GROUPS) as Array<keyof typeof NUTRIENT_GROUPS>;
+  const nutrientType: VisualQuestionType = {
+    type: "ernaehrungs-sort",
+    label: `🥗 ${ui.nutritionLabel}`,
+    printLabel: ui.nutritionLabel,
+    component: BiologyLegacyMission,
+    subtopicIds: ["nutrients", "healthy_diet", "digestive_organs", "digestive_system"],
+    generate: count => shuffle([...NUTRIENT_MISSIONS]).slice(0, count).map(item => {
+      const groupKey = item.group as keyof typeof NUTRIENT_GROUPS;
+      const correctAnswer = text(NUTRIENT_GROUPS[groupKey], activeLang);
+      return {
+        mode: "choice",
+        badge: "🥗",
+        prompt: ui.nutritionPrompt,
+        title: text(item.name, activeLang),
+        clue: `${text(item.clue, activeLang)} ${ui.nutritionHint}`,
+        clueLabel: ui.evidence,
+        options: shuffle(nutrientKeys.map(key => text(NUTRIENT_GROUPS[key], activeLang))),
+        correctAnswer,
+        question: `${ui.nutritionPrompt} ${text(item.name, activeLang)}`,
+        missionId: item.id,
+        ...common,
+      };
+    }),
+    gradeAnswer: (question, given) => ({ correct: given === question.correctAnswer, expected: question.correctAnswer }),
+    mapProps: missionProps,
+    renderPrint: question => `${question.title}: ${question.correctAnswer} (${question.clue})`,
+  };
+
+  const foodChainType: VisualQuestionType = {
+    type: "nahrungskette-sort",
+    label: `🌿 ${ui.foodChainLabel}`,
+    printLabel: ui.foodChainLabel,
+    component: BiologyLegacyMission,
+    subtopicIds: ["food_chain", "forest_layers", "freshwater", "saltwater", "water_organisms", "decomposition", "ecological_niche", "population"],
+    generate: count => shuffle([...FOOD_CHAINS_LOCALIZED]).slice(0, count).map(chain => {
+      const correctOrder = chain.stages.map(stage => text(stage, activeLang));
+      return {
+        mode: "order",
+        badge: "🌿",
+        prompt: ui.foodChainPrompt,
+        title: text(chain.habitat, activeLang),
+        items: correctOrder,
+        correctOrder,
+        emptyText: ui.tapOrder,
+        sequenceLabel: ui.chain,
+        question: `${ui.foodChainPrompt} ${text(chain.habitat, activeLang)}`,
+        missionId: chain.id,
+        ...common,
+      };
+    }),
+    gradeAnswer: (question, given) => ({ correct: given === question.correctOrder.join("|"), expected: question.correctOrder.join(" → ") }),
+    mapProps: missionProps,
+    renderPrint: question => `${question.title}: ${question.correctOrder.join(" → ")}`,
+  };
+
+  const lifecycleType: VisualQuestionType = {
+    type: "lebenszyklus-timeline",
+    label: `🦋 ${ui.lifecycleLabel}`,
+    printLabel: ui.lifecycleLabel,
+    component: BiologyLegacyMission,
+    subtopicIds: ["amphibian", "insects", "plant_reproduction", "arthropods", "cell_division", "cell_cycle"],
+    generate: count => shuffle([...LIFECYCLES_LOCALIZED]).slice(0, count).map(cycle => {
+      const correctOrder = cycle.stages.map(stage => text(stage, activeLang));
+      const itemEmojis = Object.fromEntries(correctOrder.map((stage, index) => [stage, cycle.emojis[index]]));
+      return {
+        mode: "order",
+        badge: "🦋",
+        prompt: ui.lifecyclePrompt,
+        title: text(cycle.organism, activeLang),
+        items: correctOrder,
+        itemEmojis,
+        correctOrder,
+        emptyText: ui.tapStages,
+        sequenceLabel: ui.sequence,
+        question: `${ui.lifecyclePrompt} ${text(cycle.organism, activeLang)}`,
+        missionId: cycle.id,
+        ...common,
+      };
+    }),
+    gradeAnswer: (question, given) => ({ correct: given === question.correctOrder.join("|"), expected: question.correctOrder.join(" → ") }),
+    mapProps: missionProps,
+    renderPrint: question => `${question.title}: ${question.correctOrder.join(" → ")}`,
+  };
+
+  return [animalType, organType, nutrientType, foodChainType, lifecycleType];
+}
+
+export function getLocalizedBiologieVisualTypes(lang?: string): VisualQuestionType[] {
+  const diagrams = getLocalizedBiologieDiagramTypes(lang);
+  const legacy = getLocalizedBiologieLegacyTypes(lang);
+  return [
+    legacy[0],
+    legacy[1],
+    legacy[2],
+    legacy[3],
+    diagrams[0],
+    diagrams[1],
+    diagrams[2],
+    legacy[4],
+    diagrams[3],
+  ];
+}

@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Egyszerű függvények",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Milyen jellel kezdődik minden függvény?",
+      "options": [
+        "+",
+        "=",
+        "?",
+        "!"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik függvény adja össze egy tartomány összes számát?",
+      "options": [
+        "PLUSZ",
+        "ADD",
+        "ÖSSZESEN",
+        "ÖSSZESEN"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mit számít ki a MITTELWERT függvény?",
+      "options": [
+        "Az összeg",
+        "Az átlagot",
+        "A legnagyobb szám",
+        "A legkisebb szám"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik függvény találja meg a legkisebb számot?",
+      "options": [
+        "KISBETŰS",
+        "MIN",
+        "MAX",
+        "KEVÉS"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik függvény találja meg a legnagyobb számot?",
+      "options": [
+        "NAGYBETŰS",
+        "MAX",
+        "MIN",
+        "ERŐS"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan választjuk el egy függvényben egy terület (blokk) kezdetét és végét?",
+      "options": [
+        ";",
+        "-",
+        ":",
+        ","
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál az ANZAHL függvény?",
+      "options": [
+        "Számokat tartalmazó cellákat számol",
+        "Minden üres cellát megszámol",
+        "Összeadja a számokat",
+        "Tartalom törlése"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol lehet gyorsan beilleszteni függvényeket?",
+      "options": [
+        "Az fx ikonról (függvény beszúrása)",
+        "A nyomtatási menüről",
+        "A jobb egérgombbal",
+        "Egyáltalán nem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha egy függvény neve helytelenül van leírva?",
+      "options": [
+        "Hibajelzés jelenik meg (pl. #NAME?)",
+        "Az Excel összeomlik",
+        "A számítógép sípol",
+        "0 jelenik meg"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Be lehet függvényeket egymásba ágyazni?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak profi verzióban",
+        "Csak kétszer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik függvény számolja meg az összes nem üres cellát?",
+      "options": [
+        "DARABSZÁM",
+        "DARABSZÁM2",
+        "ÖSSZESEN",
+        "ZÄHLENWENN"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a HEUTE() függvény?",
+      "options": [
+        "A jelenlegi dátumot mutatja",
+        "Az aktuális időt mutatja",
+        "Címke törlése",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a RUNDEN függvény?",
+      "options": [
+        "Lekerekíti a cellát",
+        "Egy szám kerekítése egy adott helyiértékre",
+        "Tizedesjegyek törlése",
+        "Növeli a számot"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik függvény adja vissza a jelenlegi dátumot és időt?",
+      "options": [
+        "MA",
+        "MOST",
+        "IDŐ",
+        "DÁTUM"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az „argumentum” egy függvényben?",
+      "options": [
+        "Egy vita",
+        "Egy érték vagy tartomány, amire a függvénynek szüksége van",
+        "A függvény neve",
+        "Az eredmény"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol állnak a függvény argumentumai?",
+      "options": [
+        "A függvény neve mögötti zárójelben",
+        "Az egyenlőségjel előtt",
+        "A cella fölött",
+        "idézőjelek között"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan írjuk le az A1–A10 cellák összegét?",
+      "options": [
+        "=SUMME(A1:A10)",
+        "=SUMME(A1-A10)",
+        "=A1+A10",
+        "ÖSSZESEN A1-től A10-ig"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a #DIV/0!?",
+      "options": [
+        "Nullával való osztás nem megengedett",
+        "A cella túl kicsi",
+        "Helytelen név",
+        "Nincs érték található"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a PRODUKT függvény?",
+      "options": [
+        "Számokat ad össze",
+        "Megszorozza az argumentumokban lévő összes számot",
+        "Osztozik számokon",
+        "Kivonja a számokat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehet egy függvényt más cellákra másolni?",
+      "options": [
+        "A kitöltő négyzettel húzva",
+        "Ctrl + C és Ctrl + V",
+        "Egyáltalán nem",
+        "újra gépel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit számít ki az =ANZAHL(A1:A5), ha A1=10, A2=Szöveg, A3=20?",
+      "options": [
+        "3",
+        "2",
+        "30",
+        "Hiba"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál az egyszerű WENN (HA) függvény?",
+      "options": [
+        "Ellenőriz egy feltételt és az eredménytől függően ad vissza egy értéket",
+        "Csak akkor ad össze, ha esik az eső",
+        "Cellák törlése",
+        "Szöveg keresése"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az eredménye az =SUMME(5;10;15) függvénynek?",
+      "options": [
+        "30",
+        "15",
+        "5",
+        "51015"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál az OBERGRENZE függvény?",
+      "options": [
+        "Egy szám felfelé kerekítése",
+        "Megtalálja a legnagyobb számot",
+        "Nagyítja a szöveget",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik jel választja el az argumentumokat egy függvényben (DE-verzió)?",
+      "options": [
+        ":",
+        ";",
+        ",",
+        "-"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "gépelés",
+      "text": "ÖSSZESEN"
+    },
+    {
+      "type": "gépelés",
+      "text": "ÁTLAG"
+    },
+    {
+      "type": "gépelés",
+      "text": "MIN"
+    },
+    {
+      "type": "gépelés",
+      "text": "MAX"
+    },
+    {
+      "type": "gépelés",
+      "text": "="
+    },
+    {
+      "type": "gépelés",
+      "text": ":"
+    },
+    {
+      "type": "gépelés",
+      "text": "DARABSZÁM"
+    },
+    {
+      "type": "gépelés",
+      "text": "MA"
+    },
+    {
+      "type": "gépelés",
+      "text": "Argumentumok"
+    },
+    {
+      "type": "gépelés",
+      "text": "#DIV/0!"
+    }
+  ]
+}

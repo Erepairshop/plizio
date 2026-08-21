@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Cyberzaklatás-megelőzés",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az a 'cyberbullying' (online zaklatás)?",
+      "options": [
+        "Internetes játék",
+        "Sértegetés, fenyegetés vagy zaklatás digitális eszközök segítségével",
+        "Gyors gépelés",
+        "Egy új mobiltelefon"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol fordul elő gyakran a cyberbullying (online zaklatás)?",
+      "options": [
+        "Közösségi hálózatokon",
+        "Messenger-csoportokban",
+        "Online játékokban",
+        "minden felsoroltban"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Mi jellemző a kibermegfélemlítésre (cyberbullying)?",
+      "options": [
+        "Csak egyszer történik meg",
+        "Gyakran tartós, és nagy közönséget ér el",
+        "Mindig vicces",
+        "A tettest mindig látni lehet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit kell először tenni, ha zaklatnak (mobbing)?",
+      "options": [
+        "Visszasértés",
+        "Megbízik valakiben (szülő, tanár)",
+        "A telefon eldobása",
+        "Semmit sem tenni"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Biztosan rögzíteni kell bizonyítékokat (képernyőképeket)?",
+      "options": [
+        "Igen, nagyon fontos a későbbi segítségnyújtáshoz",
+        "Nem, azonnal törölni kell",
+        "Csak ha színesek",
+        "Csak ha van ideje"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit lehet tenni a kibermobberek ellen alkalmazásokban?",
+      "options": [
+        "Blokkolás és jelentés",
+        "önnek pénzt küldeni",
+        "A profil törlése",
+        "önnek barátságosan írni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'cyber-stalking'?",
+      "options": [
+        "Gyors séta",
+        "Egy személy folyamatos online zaklatása és üldözése",
+        "Képek rajzolása",
+        "Programozás"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Terjeszthetsz-e kínos fotókat másokról engedély nélkül?",
+      "options": [
+        "Igen, vicces",
+        "Nem, ez bűncselekmény és zaklatás",
+        "Csak privát csoportokban",
+        "Csak a hétvégén"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért súlyosabb sokszor a cybermobbing, mint az iskolaudvari zaklatás?",
+      "options": [
+        "Mert ez 24 órán át történhet",
+        "Mert több szórakozás",
+        "Mert a számítógép drága",
+        "Nincs különbség"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy nevezik, ha valakit szándékosan kizárnak csoportokból?",
+      "options": [
+        "Exklúzió (kizárás)",
+        "Befogadás",
+        "Egyesítés",
+        "Törlés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mik az internetes 'trollok'?",
+      "options": [
+        "Mesebeli lény",
+        "Olyan emberek, akik szándékosan megzavarják és provokálják a vitákat",
+        "Gyors számítógépek",
+        "Speciális kiegészítők"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'gyűlöletbeszéd' (Hate Speech)?",
+      "options": [
+        "Gyűlöletbeszéd embercsoportok ellen",
+        "Egy hangos dal",
+        "Egy gépelési hiba",
+        "Egy új alkalmazás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Jelszavakat szabad továbbadni barátoknak?",
+      "options": [
+        "Igen, mindent megosztunk",
+        "Nem, a jelszavak magánjellegűek (védelem a visszaélések ellen)",
+        "Csak a legjobb barátnak",
+        "Csak WhatsApp-on"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'flaming'?",
+      "options": [
+        "Tűz gyújtása",
+        "Aggresszív sértegetés online vitákban",
+        "Képek szerkesztése",
+        "Számítógép hűtése"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Lehetnek-e a cyberbullyingnak jogi következményei?",
+      "options": [
+        "Igen, akár rendőrségi feljelentésig is",
+        "Nem, ez csak az internet",
+        "Csak felnőtteknek",
+        "Csak ha pénzt lopnak"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tenne ideálisan egy „bystander” (szemtanú)?",
+      "options": [
+        "Nevetés és továbbküldés",
+        "Segíts az áldozatnak, és ne támogasd a zaklatást",
+        "Figyelmen kívül hagyás",
+        "Részt venni"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „Nummer gegen Kummer“?",
+      "options": [
+        "Segítségkérő telefonszám problémák esetén",
+        "Egy rendelési telefonvonal",
+        "A rendőrség",
+        "Kvízműsor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az 'Empátia' az interneten?",
+      "options": [
+        "Gyors internet",
+        "Képes mások érzéseibe beleélni magát",
+        "Sok szöveg írása",
+        "Képek törlése"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy „hamis profil”?",
+      "options": [
+        "Olyan profil hamis névvel/képpel megtévesztés céljából",
+        "Törölt profil",
+        "Egy nagyon szép profil",
+        "Egy hivatalos profil"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Privát adatokat (cím, telefonszám) nyilvánosan közzétegyünk?",
+      "options": [
+        "Igen, hogy megtaláljanak",
+        "Nem, a magánélet védelme miatt",
+        "Csak a Facebookon",
+        "Csak kommentekben"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'doxing'?",
+      "options": [
+        "Kutyákat etetni",
+        "Magánadatok engedély nélküli közzététele zaklatás céljából",
+        "Adatok biztonsági mentése",
+        "Képek beszkennelése"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a 'happy slapping'?",
+      "options": [
+        "Egy játék",
+        "Testi támadások filmezése közzététel céljából",
+        "Taps",
+        "Vicces videók"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehet védekezni?",
+      "options": [
+        "Adatvédelmi beállítások használata",
+        "Kevés személyes megosztása",
+        "Biztonságos jelszavak használata",
+        "Minden említett"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az online polgári bátorság (Zivilcourage online)?",
+      "options": [
+        "Bátran kiállni az internetes sérelem ellen",
+        "Elrejtőzik",
+        "Hangosan kiabálni",
+        "Sok pénz adományozása"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Miért zaklatnak néhányan másokat?",
+      "options": [
+        "Unalom, bizonytalanság vagy hatalomérzet miatt",
+        "Mert túl sok gyümölcsöt esznek",
+        "Mert a számítógép elromlott",
+        "Mert nincs iskolájuk"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "gépelés",
+      "text": "Cyberzaklatás"
+    },
+    {
+      "type": "gépelés",
+      "text": "Képernyőkép"
+    },
+    {
+      "type": "gépelés",
+      "text": "blokkol"
+    },
+    {
+      "type": "gépelés",
+      "text": "Flaming"
+    },
+    {
+      "type": "gépelés",
+      "text": "Doxing"
+    },
+    {
+      "type": "gépelés",
+      "text": "Álprofil"
+    },
+    {
+      "type": "gépelés",
+      "text": "troll"
+    },
+    {
+      "type": "gépelés",
+      "text": "Empátia"
+    },
+    {
+      "type": "gépelés",
+      "text": "Polgári bátorság"
+    },
+    {
+      "type": "gépelés",
+      "text": "Gyűlöletbeszéd"
+    }
+  ]
+}

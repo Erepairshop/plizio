@@ -8,7 +8,7 @@ import { K8_CURRICULUM, getK8Questions } from "@/lib/geographieCurriculum8";
 import { asCurriculumThemes } from "@/lib/geographieCurriculumShared";
 import "@/lib/geographieRegistration";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
-import { GEOGRAPHIE_VISUAL_TYPES } from "@/lib/geographieVisualGenerators";
+import { getLocalizedGeographyVisualTypes } from "@/lib/geographieVisualGenerators";
 import { useLang } from "@/components/LanguageProvider";
 
 const GEO_CHARS = ["🗺️", "🌍", "🧭", "⛰️", "🌊", "🌋", "🏞️", "🛰️", "🪨", "🧱", "🌦️", "🌴"];
@@ -64,7 +64,7 @@ function createGeoConfig(lang: string): LanguageTestEngineConfig {
   hideLesetest: true,
   bgChars: GEO_CHARS,
   bgColors: GEO_COLORS,
-  visualTypes: GEOGRAPHIE_VISUAL_TYPES,
+  visualTypes: getLocalizedGeographyVisualTypes(lang),
   // Geography currently has one localized international curriculum, not
   // separate national pools. Only expose grading variants for the UI language.
   countries: GEO_COUNTRIES_BY_LANG[lang] ?? GEO_COUNTRIES_BY_LANG.de,

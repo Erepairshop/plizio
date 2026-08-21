@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Database basics",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a database?",
+      "options": [
+        "A game",
+        "A structured collection of data",
+        "A paint program",
+        "An operating system"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a row in a database table called?",
+      "options": [
+        "Column",
+        "Record",
+        "field",
+        "Cell"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a column in a database table called?",
+      "options": [
+        "Record",
+        "Data field (attribute)",
+        "Row",
+        "Title"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "MySQL (or another DBMS like PostgreSQL, SQLite)",
+      "options": [
+        "Microsoft Access",
+        "Microsoft Word",
+        "Paint",
+        "Calculator"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'primary key'?",
+      "options": [
+        "A password",
+        "A field that uniquely identifies each record",
+        "The name of the database",
+        "An image"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the advantage of a database compared to a simple list?",
+      "options": [
+        "Better sorting and linking of large amounts of data",
+        "You can draw in it",
+        "It is always free of charge",
+        "It does not need power"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'sort' mean in a database?",
+      "options": [
+        "Delete data",
+        "Order data according to a specific criterion (e.g. A–Z)",
+        "Shuffle data",
+        "Hide data"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'filter' in a database?",
+      "options": [
+        "A coffee filter",
+        "Shows only records that meet specific criteria",
+        "Deletes all data",
+        "Changes the colors"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a targeted query to the database called?",
+      "options": [
+        "Question",
+        "Query",
+        "Search",
+        "Command"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does the abbreviation SQL stand for?",
+      "options": [
+        "Simple Question Language",
+        "Structured Query Language",
+        "Super Quick List",
+        "System Quality Log"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'relational database'?",
+      "options": [
+        "Database with linked tables",
+        "Database for relatives",
+        "A very small database",
+        "A database without tables"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "An ID field (unique identifier)",
+      "options": [
+        "First name",
+        "Last name",
+        "ID number",
+        "hobby"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'form' in a database?",
+      "options": [
+        "A sheet of paper",
+        "A data entry form for records",
+        "A finished report",
+        "An error message"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'report'?",
+      "options": [
+        "A summary of data for printing",
+        "A letter to the boss",
+        "A new record",
+        "A virus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'redundancy' mean?",
+      "options": [
+        "Important data",
+        "Multiple occurrences of the same data (should be avoided)",
+        "Fast data transfer",
+        "Encryption"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the link between two tables called?",
+      "options": [
+        "Friendship",
+        "Relationship (Relationship)",
+        "Bridge",
+        "Node"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Boolean (stores only Yes/No)",
+      "options": [
+        "Text",
+        "Number",
+        "Boolean (Yes/No)",
+        "Date"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What do you do when indexing?",
+      "options": [
+        "Arrange books",
+        "To speed up searching in the database",
+        "Delete data",
+        "Insert images"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Where do you find databases in everyday life?",
+      "options": [
+        "In online shops",
+        "In library catalogs",
+        "In customer records",
+        "In all of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'flat database'?",
+      "options": [
+        "Consists of only one table",
+        "has no depth",
+        "Is on paper",
+        "Is broken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a database store images?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if you print them out",
+        "Only links to images"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is data integrity?",
+      "options": [
+        "That data is correct and consistent",
+        "That data is secret",
+        "That data is fast",
+        "That data is deleted"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens when deleting a record?",
+      "options": [
+        "The entire row is removed",
+        "Only one field becomes empty",
+        "The database is deleted",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which data type is best for a birth date?",
+      "options": [
+        "Text",
+        "Number",
+        "Date/Time",
+        "Currency"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'foreign key'?",
+      "options": [
+        "A key for the front door",
+        "A field that references a primary key in another table",
+        "An incorrect code",
+        "A hidden field"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Database"
+    },
+    {
+      "type": "typing",
+      "text": "Record"
+    },
+    {
+      "type": "typing",
+      "text": "Data field"
+    },
+    {
+      "type": "typing",
+      "text": "Primary key"
+    },
+    {
+      "type": "typing",
+      "text": "SQL"
+    },
+    {
+      "type": "typing",
+      "text": "filtering"
+    },
+    {
+      "type": "typing",
+      "text": "Sort"
+    },
+    {
+      "type": "typing",
+      "text": "Form"
+    },
+    {
+      "type": "typing",
+      "text": "Report"
+    },
+    {
+      "type": "typing",
+      "text": "Relationship"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Flowcharts",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a flowchart?",
+      "options": [
+        "A picture of a river",
+        "A graphical representation of an algorithm",
+        "A network diagram",
+        "A spreadsheet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Terminator (oval) for Start or End",
+      "options": [
+        "Rectangle",
+        "Diamond",
+        "Oval (or rounded rectangle)",
+        "Parallelogram"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What does a rectangle represent in a flowchart?",
+      "options": [
+        "A decision",
+        "A statement or process",
+        "Start",
+        "Input"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Decision diamond for a Yes/No decision",
+      "options": [
+        "Circle",
+        "Diamond",
+        "Square",
+        "Triangle"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a parallelogram often used for?",
+      "options": [
+        "Input or output",
+        "Process",
+        "End",
+        "Branching"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How are the symbols in a flowchart connected?",
+      "options": [
+        "With lines",
+        "With arrows (flow lines)",
+        "With dots",
+        "Not at all"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "In which direction is a flowchart usually read?",
+      "options": [
+        "From right to left",
+        "From bottom to top",
+        "From top to bottom",
+        "in a circle"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is an algorithm?",
+      "options": [
+        "A mathematical puzzle",
+        "A step-by-step procedure for solving a problem",
+        "A computer program",
+        "A piece of hardware"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How many outgoing edges does a diamond (decision) normally have?",
+      "options": [
+        "A",
+        "Two (Yes/No)",
+        "Three",
+        "Infinitely many"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if a flowchart contains a loop?",
+      "options": [
+        "It never ends",
+        "A part is repeated until a condition is met",
+        "It is false",
+        "The PC crashes"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does the word 'logic' mean?",
+      "options": [
+        "Correct reasoning/deduction",
+        "color theory",
+        "Printing technology",
+        "Power consumption"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Process (rectangular) for \"Turn light on\"",
+      "options": [
+        "Diamond",
+        "Rectangle",
+        "Circle",
+        "Arrow"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is often written inside a diamond (decision) symbol?",
+      "options": [
+        "A question",
+        "A name",
+        "The word 'End'",
+        "An image"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can a flowchart have multiple ends?",
+      "options": [
+        "Yes",
+        "No",
+        "Only one is allowed",
+        "Only if it is broken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Nassi–Shneiderman diagram'?",
+      "options": [
+        "Another word for flowchart",
+        "Another type of graphical representation (Nassi–Shneiderman)",
+        "A photo",
+        "A chart for music"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the purpose of planning with flowcharts?",
+      "options": [
+        "To find errors before programming",
+        "For passing the time",
+        "For coloring in",
+        "To save ink"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the point called where two arrows meet?",
+      "options": [
+        "Node (junction)",
+        "Intersection",
+        "End",
+        "Stop"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'input' mean in an algorithm?",
+      "options": [
+        "Data provided by the user",
+        "The result on the screen",
+        "Saving",
+        "Deletion"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'output' mean?",
+      "options": [
+        "Delete data",
+        "The result is displayed or output",
+        "Typing a text",
+        "Turn off power"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Condition (diamond) for \"Is the lamp on?\"",
+      "options": [
+        "Rectangle",
+        "Diamond",
+        "Oval",
+        "Arrow"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'infinite loop'?",
+      "options": [
+        "A beautiful ring",
+        "An algorithm that never ends",
+        "A short path",
+        "A fast computer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is pseudocode?",
+      "options": [
+        "An incorrect code",
+        "A textual description of an algorithm (mixture of German and code)",
+        "A secret language",
+        "An encryption method"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Input/output parallelogram for \"Read number\"",
+      "options": [
+        "Oval",
+        "Parallelogram",
+        "Rectangle",
+        "Diamond"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Why are arrowheads important?",
+      "options": [
+        "So that it looks nice",
+        "To indicate the direction of flow",
+        "To save space",
+        "They are unimportant"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What do you do when debugging?",
+      "options": [
+        "Catch beetles",
+        "find and fix an error in an algorithm or program",
+        "Add new features",
+        "Clean the monitor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Algorithm"
+    },
+    {
+      "type": "typing",
+      "text": "Oval"
+    },
+    {
+      "type": "typing",
+      "text": "Diamond"
+    },
+    {
+      "type": "typing",
+      "text": "Rectangle"
+    },
+    {
+      "type": "typing",
+      "text": "Arrow"
+    },
+    {
+      "type": "typing",
+      "text": "Parallelogram"
+    },
+    {
+      "type": "typing",
+      "text": "Loop"
+    },
+    {
+      "type": "typing",
+      "text": "Debugging"
+    },
+    {
+      "type": "typing",
+      "text": "Pseudocode"
+    },
+    {
+      "type": "typing",
+      "text": "Infinite loop"
+    }
+  ]
+}

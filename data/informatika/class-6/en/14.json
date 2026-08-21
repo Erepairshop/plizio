@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Simple functions",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "With which character does every function begin?",
+      "options": [
+        "+",
+        "=",
+        "?",
+        "!"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which function adds all numbers in a range?",
+      "options": [
+        "PLUS",
+        "ADD",
+        "SUM",
+        "TOTAL"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What does the function AVERAGE calculate?",
+      "options": [
+        "The sum",
+        "The average",
+        "The largest number",
+        "The smallest number"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which function finds the smallest number?",
+      "options": [
+        "LOWERCASE",
+        "MIN",
+        "MAX",
+        "FEW"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which function finds the largest number?",
+      "options": [
+        "UPPERCASE",
+        "MAX",
+        "MIN",
+        "STRONG"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How do you separate the start and the end of a range in a function?",
+      "options": [
+        ";",
+        "-",
+        ":",
+        ","
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What does the COUNT function do?",
+      "options": [
+        "Counts cells with numbers",
+        "Counts all empty cells",
+        "Adds the numbers",
+        "Deletes the content"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where can you quickly insert functions?",
+      "options": [
+        "From the fx icon (insert function)",
+        "From the print menu",
+        "From the right mouse button",
+        "Not at all"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if a function name is misspelled?",
+      "options": [
+        "An error message appears (e.g. #NAME?)",
+        "Excel crashes",
+        "The computer beeps",
+        "0 is shown"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Can you nest functions inside each other?",
+      "options": [
+        "Yes",
+        "No",
+        "Only in the pro version",
+        "Only twice"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which function counts all non-empty cells?",
+      "options": [
+        "COUNT",
+        "COUNTA",
+        "SUM",
+        "COUNTIF"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does the TODAY() function do?",
+      "options": [
+        "Displays the current date",
+        "Displays the time",
+        "Deletes the tag",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the ROUND function do?",
+      "options": [
+        "Make the cell round",
+        "Rounds a number to a specific place",
+        "Deletes decimal places",
+        "Increases the number"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which function returns the current date and time?",
+      "options": [
+        "TODAY",
+        "NOW",
+        "TIME",
+        "DATE"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'argument' in a function?",
+      "options": [
+        "A dispute",
+        "A value or range that the function requires",
+        "The name of the function",
+        "The result"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Where are the arguments of a function located?",
+      "options": [
+        "In parentheses after the function name",
+        "Before the equals sign",
+        "Above the cell",
+        "In quotation marks"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do you write the sum from A1 to A10?",
+      "options": [
+        "=SUM(A1:A10)",
+        "=SUM(A1-A10)",
+        "=A1+A10",
+        "SUM A1 to A10"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does #DIV/0! mean?",
+      "options": [
+        "Division by zero is not allowed",
+        "The cell is too small",
+        "wrong name",
+        "No value found"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the PRODUCT function do?",
+      "options": [
+        "Adds numbers",
+        "Multiplies all numbers in the arguments",
+        "Divides numbers",
+        "Subtracts numbers"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How can you copy a function to other cells?",
+      "options": [
+        "Drag with the fill handle",
+        "Ctrl + C and Ctrl + V",
+        "Not at all",
+        "Re-type"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does =ANZAHL(A1:A5) calculate when A1=10, A2=Text, A3=20?",
+      "options": [
+        "3",
+        "2",
+        "30",
+        "error"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does the IF function (simple) do?",
+      "options": [
+        "Checks a condition and returns a value depending on the result",
+        "Adds only if it's raining",
+        "Deletes cells",
+        "Searches for text"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the result of =SUM(5;10;15)?",
+      "options": [
+        "30",
+        "15",
+        "5",
+        "51015"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the CEILING function do?",
+      "options": [
+        "Rounds a number up",
+        "finds the largest number",
+        "Make the text large",
+        "Nothing at all"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Semicolon or comma depending on locale; in German Excel the semicolon (;) is often used",
+      "options": [
+        ":",
+        ";",
+        ",",
+        "-"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "SUM"
+    },
+    {
+      "type": "typing",
+      "text": "AVERAGE"
+    },
+    {
+      "type": "typing",
+      "text": "MIN"
+    },
+    {
+      "type": "typing",
+      "text": "MAX"
+    },
+    {
+      "type": "typing",
+      "text": "="
+    },
+    {
+      "type": "typing",
+      "text": ":"
+    },
+    {
+      "type": "typing",
+      "text": "COUNT"
+    },
+    {
+      "type": "typing",
+      "text": "TODAY"
+    },
+    {
+      "type": "typing",
+      "text": "Arguments"
+    },
+    {
+      "type": "typing",
+      "text": "#DIV/0!"
+    }
+  ]
+}

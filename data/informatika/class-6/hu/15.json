@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Diagrammok készítése",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mire szolgálnak a diagramok?",
+      "options": [
+        "Adatok elrejtéséhez",
+        "Értékek grafikus ábrázolásához",
+        "Táblák törléséhez",
+        "Számoláshoz"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik diagram a legalkalmasabb az egészhez viszonyított arányok megjelenítésére?",
+      "options": [
+        "Oszlopdiagram",
+        "Kördiagram",
+        "Vonaldiagramm",
+        "Pontdiagram"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik diagram mutatja legjobban az időbeli változást?",
+      "options": [
+        "Oszlopdiagram",
+        "Vonaldiagramm",
+        "Kördiagram",
+        "Területdiagram"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják az adatok csoportjainak feliratait a diagramon?",
+      "options": [
+        "Jelmagyarázat",
+        "Tartalom",
+        "Lista",
+        "Kód"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az X-tengely egy diagramon többnyire?",
+      "options": [
+        "A függőleges tengely",
+        "A vízszintes tengely",
+        "A mélységtengely",
+        "A jelmagyarázat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az Y-tengely egy diagramon többnyire?",
+      "options": [
+        "A vízszintes tengely",
+        "A függőleges tengely (értéktengely)",
+        "A felirat",
+        "A cím"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehet diagramot beszúrni?",
+      "options": [
+        "Beszúrás -> Diagramok",
+        "Fájl -> Nyomtatás",
+        "Start -> Formátum",
+        "Adatok -> Rendezés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit kell megtenni diagram készítése előtt?",
+      "options": [
+        "Számítógép kikapcsolása",
+        "Adatok kijelölése a táblázatban",
+        "Betűtípus megváltoztatása",
+        "Nyomtató bekapcsolása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Meg lehet-e utólag változtatni a diagram típusát?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak ha újrakezdi valaki",
+        "Csak fekete-fehérben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mik a 'adatfeliratok' (data labels)?",
+      "options": [
+        "A jelmagyarázat",
+        "A pontos értékek közvetlenül a sávok/pontok mellett",
+        "A fájl neve",
+        "Az oldalszám"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol van általában az ábra címe?",
+      "options": [
+        "Bal alsó",
+        "Legfelül",
+        "A jelmagyarázatban",
+        "A diagram mögött"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívjuk a vízszintes oszlopdiagramot?",
+      "options": [
+        "Kördiagram",
+        "Oszlopdiagram",
+        "Hálózati diagram",
+        "Pontdiagram"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tesz a 'Daten auswählen' a helyi menüben?",
+      "options": [
+        "Megváltoztatja a betű színét",
+        "Lehetővé teszi az adattartomány módosítását",
+        "Diagram törlése",
+        "Kinyomtatja a diagramot"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Másolhatók-e a diagramok Wordbe vagy PowerPointra?",
+      "options": [
+        "Igen, gyakran összekapcsolva maradnak",
+        "Nem",
+        "Csak képernyőképben",
+        "Csak ha PDF-ként mentik el"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy 'összetett diagram' (Verbunddiagramm)?",
+      "options": [
+        "Két diagramtípus egyben (pl. oszlop- és vonaldiagram)",
+        "Egy sokszínű diagram",
+        "Sérült diagram",
+        "Egy diagram adat nélkül"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az \"Achsen skalieren\" (tengelyek skálázása)?",
+      "options": [
+        "A tengelyek törlése",
+        "Az tengelyek értéktartományának beállítása (pl. 0-tól 100-ig)",
+        "Színesre tenni a tengelyeket",
+        "A tengelyek eltolása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehet egyetlen oszlopot kiszínezni a diagramon?",
+      "options": [
+        "Kétszer kattintani lassan az oszlopra és megváltoztatni a kitöltőszínt",
+        "Az egész diagram törlése",
+        "A táblázat színezése",
+        "Nem működik"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire szolgál a pluszjel (+) egy kijelölt diagram mellett?",
+      "options": [
+        "Értékek összeadásához",
+        "Diagramelemek gyors hozzáadásához",
+        "Nagyításhoz",
+        "Tároláshoz"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik diagramot használjuk tudományos mérési pontok ábrázolására?",
+      "options": [
+        "Kördiagram",
+        "Pont- (XY) diagram",
+        "Oszlopdiagram",
+        "Oszlopdiagram"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „másodlagos tengely” (Sekundärachse)?",
+      "options": [
+        "Más értéktartományokhoz második Y-tengely",
+        "Egy legendapótló",
+        "Egy rejtett tengely",
+        "Az X-tengely"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Készíthetők-e 3D-diagramok?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak 3D-s szemüveggel",
+        "Csak speciális programokban"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha megváltoztatjuk az értékeket egy táblázatban?",
+      "options": [
+        "A diagram törlődik",
+        "A diagram automatikusan frissül",
+        "Semmi",
+        "Újra létre kell hozni"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért van a tölcsér ikon a diagram mellett?",
+      "options": [
+        "Törléshez",
+        "Adatsorok szűréséhez",
+        "Öntéshez",
+        "Rendezéshez"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják az oszlopokhoz tartozó kis jelöléseket/töréseket a tengelyeken?",
+      "options": [
+        "részvonalak",
+        "Pontok",
+        "Rács",
+        "Keret"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Menthetők-e a diagramok külön lapként?",
+      "options": [
+        "Igen (diagram elmozgatása)",
+        "Nem",
+        "Csak képként",
+        "Csak a felhőben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "gépelés",
+      "text": "Kördiagram"
+    },
+    {
+      "type": "gépelés",
+      "text": "Vonaldiagramm"
+    },
+    {
+      "type": "gépelés",
+      "text": "Oszlopdiagram"
+    },
+    {
+      "type": "gépelés",
+      "text": "Jelmagyarázat"
+    },
+    {
+      "type": "gépelés",
+      "text": "X-tengely"
+    },
+    {
+      "type": "gépelés",
+      "text": "Y-tengely"
+    },
+    {
+      "type": "gépelés",
+      "text": "Kijelölés"
+    },
+    {
+      "type": "gépelés",
+      "text": "Cím"
+    },
+    {
+      "type": "gépelés",
+      "text": "Pontdiagramok"
+    },
+    {
+      "type": "gépelés",
+      "text": "Frissítés"
+    }
+  ]
+}

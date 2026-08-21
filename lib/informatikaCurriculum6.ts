@@ -1,4 +1,6 @@
 import type { KemiaTheme, KemiaQuestion } from "./kemiaCurriculumShared";
+import { selectDiverseInformatikaQuestions } from "./informatikaQuestionDiversity";
+import { INFORMATIKA_K6_GENERATED_TRANSLATIONS } from "./informatikaCurriculum6GeneratedTranslations";
 
 // ─── German (complete, all 30) ────────────────────────────────────────────────
 import t01_de from "@/data/informatika/class-6/de/1.json";
@@ -151,15 +153,28 @@ const K6_DATA: Record<string, LangBundle> = {
   "info_k6_t29": { de: t29_de, hu: t29_hu, ro: t29_ro, en: t29_en },
   "info_k6_t30": { de: t30_de, hu: t30_hu, ro: t30_ro, en: t30_en },
 };
+for (const [subtopicId, translations] of Object.entries(INFORMATIKA_K6_GENERATED_TRANSLATIONS)) {
+  Object.assign(K6_DATA[subtopicId], translations);
+}
 
-function _pickTasks(subId: string, cc?: string): RawTask[] {
-  const lang = (cc === "DE" || cc === "AT" || cc === "CH") ? "de"
+function languageForCountry(cc?: string): "de" | "hu" | "ro" | "en" {
+  return (cc === "DE" || cc === "AT" || cc === "CH") ? "de"
     : (cc === "RO") ? "ro"
     : (cc === "US" || cc === "GB" || cc === "AU" || cc === "CA" || cc === "IE" || cc === "NZ") ? "en"
     : "hu";
+}
+
+export function getInfoK6AvailableSubtopicIds(cc?: string): Set<string> {
+  const lang = languageForCountry(cc);
+  return new Set(Object.entries(K6_DATA).filter(([, bundle]) => Boolean(bundle[lang])).map(([id]) => id));
+}
+
+function _pickTasks(subId: string, cc?: string): RawTask[] {
+  const lang = languageForCountry(cc);
   const bundle = K6_DATA[subId];
   if (!bundle) return [];
-  const picked = bundle[lang] ?? bundle.de;
+  const picked = bundle[lang];
+  if (!picked) return [];
   return extractTasks(picked);
 }
 
@@ -250,10 +265,5 @@ export function getInfoK6Questions(subtopicIds: string[], count?: number, countr
     const tasks = _pickTasks(id, countryCode);
     pool.push(...jsonToQuestions(id, tasks));
   }
-  if (!count) return pool;
-  for (let i = pool.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [pool[i], pool[j]] = [pool[j], pool[i]];
-  }
-  return pool.slice(0, count);
+  return selectDiverseInformatikaQuestions(pool, count);
 }

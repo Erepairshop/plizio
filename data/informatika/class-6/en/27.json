@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Cyberbullying prevention",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is 'cyberbullying'?",
+      "options": [
+        "Playing on the Internet",
+        "Insulting, Threatening or Harassing Using Digital Media",
+        "Fast typing",
+        "A new mobile phone"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Where does cyberbullying often take place?",
+      "options": [
+        "On social networks",
+        "In messenger groups",
+        "In online games",
+        "In all of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is a feature of cyberbullying?",
+      "options": [
+        "It only happens once",
+        "It is often permanent and reaches a large audience",
+        "It is always funny",
+        "You can always see the perpetrator"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do first if you are being bullied?",
+      "options": [
+        "To insult back",
+        "To confide in someone (parents, teacher)",
+        "Discard the mobile phone",
+        "Do nothing at all"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Should one secure evidence (screenshots)?",
+      "options": [
+        "Yes, very important for later help",
+        "No, delete immediately",
+        "Only if they are colorful",
+        "Only if you have time"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What can you do against cyberbullies in apps?",
+      "options": [
+        "Block and Report",
+        "send them money",
+        "Delete the profile",
+        "write to them kindly"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'cyberstalking'?",
+      "options": [
+        "Fast walking",
+        "Persistently tracking and harassing a person online",
+        "Paint images",
+        "Programming"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can you share embarrassing photos of others without permission?",
+      "options": [
+        "Yes, it is funny",
+        "No, that is illegal and bullying",
+        "Only in private groups",
+        "Only on weekends"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Why is cyberbullying often worse than bullying on the schoolyard?",
+      "options": [
+        "Because it can take place 24 hours a day",
+        "Because it's more fun",
+        "Because the PC is expensive",
+        "No difference"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do you call it when someone is intentionally excluded from groups?",
+      "options": [
+        "exclusion",
+        "Inclusion",
+        "Merge",
+        "Deletion"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are 'trolls' on the Internet?",
+      "options": [
+        "mythical creature",
+        "People who deliberately disrupt and provoke discussions",
+        "Fast computers",
+        "Special accessories"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'hate speech'?",
+      "options": [
+        "hate speech against groups of people",
+        "A loud song",
+        "A typo",
+        "A new app"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you give passwords to friends?",
+      "options": [
+        "Yes, we share everything",
+        "No, passwords are private (protection against misuse)",
+        "Only to the best friend",
+        "Only via WhatsApp"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'flaming'?",
+      "options": [
+        "making fire",
+        "Aggressive insulting in online discussions",
+        "Edit images",
+        "Cool PC"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can cyberbullying have legal consequences?",
+      "options": [
+        "Yes, up to reporting to the police",
+        "No, it's just the Internet",
+        "Only for adults",
+        "Only if you steal money"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should a bystander ideally do?",
+      "options": [
+        "Laugh and forward",
+        "Help the victim and do not support the bullying",
+        "ignore",
+        "Participate"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Telephone Counselling for Children and Adolescents' (Nummer gegen Kummer)?",
+      "options": [
+        "A phone number for help with problems",
+        "An order hotline",
+        "The police",
+        "A quiz show"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'empathy' on the net mean?",
+      "options": [
+        "Fast internet",
+        "To empathize with others",
+        "Write a lot of text",
+        "Delete images"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'fake profile'?",
+      "options": [
+        "A profile with a false name/picture intended to deceive",
+        "A deleted profile",
+        "A very nice profile",
+        "An official profile"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should you post private data (address, phone) publicly?",
+      "options": [
+        "Yes, so you can be found",
+        "No, protection of privacy",
+        "Only on Facebook",
+        "Only in comments"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'doxing'?",
+      "options": [
+        "feed dogs",
+        "Publishing private data without permission to harass",
+        "Back up data",
+        "Scan images"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'happy slapping'?",
+      "options": [
+        "A game",
+        "filming physical attacks for publication",
+        "Clapping",
+        "Funny videos"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How can you protect yourself?",
+      "options": [
+        "Use privacy settings",
+        "Share little personal information",
+        "Use secure passwords",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'online civil courage' (standing up for others online)?",
+      "options": [
+        "Stand up bravely against injustice online",
+        "To hide oneself",
+        "Shout loudly",
+        "Donate a lot of money"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why do some people bully?",
+      "options": [
+        "Out of boredom, insecurity or a feeling of power",
+        "Because they eat too much fruit",
+        "Because the PC is broken",
+        "Because they have no school"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Cyberbullying"
+    },
+    {
+      "type": "typing",
+      "text": "Screenshot"
+    },
+    {
+      "type": "typing",
+      "text": "block"
+    },
+    {
+      "type": "typing",
+      "text": "flaming"
+    },
+    {
+      "type": "typing",
+      "text": "Doxing"
+    },
+    {
+      "type": "typing",
+      "text": "fake profile"
+    },
+    {
+      "type": "typing",
+      "text": "Troll"
+    },
+    {
+      "type": "typing",
+      "text": "Empathy"
+    },
+    {
+      "type": "typing",
+      "text": "Civic courage"
+    },
+    {
+      "type": "typing",
+      "text": "hate speech"
+    }
+  ]
+}

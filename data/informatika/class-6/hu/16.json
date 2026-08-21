@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Adatbázis alapjai",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az egy adatbázis?",
+      "options": [
+        "Egy játék",
+        "Adatok strukturált gyűjteménye",
+        "Egy rajzprogram",
+        "Operációs rendszer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy nevezik a sort egy adatbázis-táblában?",
+      "options": [
+        "Oszlop",
+        "Adatrekord",
+        "Mező",
+        "Cellа"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy nevezik az oszlopot egy adatbázis-táblában?",
+      "options": [
+        "Adatrekord",
+        "Adatmező (attribútum)",
+        "Sor",
+        "Cím"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik program egy ismert adatbázis-kezelő rendszer (DBMS)?",
+      "options": [
+        "Microsoft Access",
+        "Microsoft Word",
+        "Paint",
+        "Számológép"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'elsődleges kulcs' (Primärschlüssel)?",
+      "options": [
+        "Egy jelszó",
+        "Egy mező, amely egy rekordot egyértelműen azonosít",
+        "Az adatbázis neve",
+        "Kép"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az előnye az adatbázisnak egy egyszerű listával szemben?",
+      "options": [
+        "Nagy adatmennyiségek jobb rendezése és összekapcsolása",
+        "Benne lehet rajzolni",
+        "Mindig ingyenes",
+        "Nem igényel áramot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Rendezés' egy adatbázisban?",
+      "options": [
+        "Adatok törlése",
+        "Adatok rendezése egy adott kritérium szerint (pl. A–Z)",
+        "Adatok keverése",
+        "Adatok elrejtése"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy „szűrő” egy adatbázisban?",
+      "options": [
+        "Kávészűrő",
+        "Csak azokat a rekordokat jeleníti meg, amelyek megfelelnek bizonyos feltételeknek",
+        "Törli az összes adatot",
+        "Megváltoztatja a színeket"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívjuk a célzott lekérdezést az adatbázishoz?",
+      "options": [
+        "Kérdés",
+        "Lekérdezés (query)",
+        "Keresés",
+        "Parancs"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az SQL rövidítés?",
+      "options": [
+        "Simple Question Language",
+        "Structured Query Language",
+        "Super Quick List",
+        "System Quality Log"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „relációs adatbázis”?",
+      "options": [
+        "Összekapcsolt táblákat tartalmazó adatbázis",
+        "Rokonok adatbázisa",
+        "Nagyon kis adatbázis",
+        "Egy, táblázatok nélküli adatbázis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik mező alkalmas gyakran elsődleges kulcsként?",
+      "options": [
+        "Keresztnév",
+        "Vezetéknév",
+        "azonosító szám",
+        "Hobby"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy „űrlap” egy adatbázisban?",
+      "options": [
+        "Papírlap",
+        "Egy adatbeviteli űrlap rekordokhoz",
+        "Egy kész jelentés",
+        "Egy hibaüzenet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy „jelentés” (Report)?",
+      "options": [
+        "Adatok összegzése nyomtatáshoz",
+        "Levél a főnöknek",
+        "Egy új adatrekord",
+        "Egy vírus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Redundancia'?",
+      "options": [
+        "Fontos adatok",
+        "Ugyanazon adatok többszörös előfordulása (kerülendő)",
+        "Gyors adatátvitel",
+        "Titkosítás"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják a kapcsolódást két táblázat között?",
+      "options": [
+        "Barátság",
+        "Kapcsolat (Relationship)",
+        "Híd",
+        "Csomópont"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik adattípus tárol csak igent vagy nemet?",
+      "options": [
+        "Szöveg",
+        "Szám",
+        "Boolean (Igen/Nem)",
+        "Dátum"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinálunk az indexelés során?",
+      "options": [
+        "Könyvek rendezése",
+        "A keresés felgyorsítása az adatbázisban",
+        "Adatok törlése",
+        "Képek beszúrása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol találkozunk adatbázisokkal a mindennapokban?",
+      "options": [
+        "Webáruházakban",
+        "könyvtári katalógusokban",
+        "Ügyfélnyilvántartásokban",
+        "minden felsoroltban"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „lapos adatbázis” (Flache Datenbank)?",
+      "options": [
+        "Csak egy táblázatból áll",
+        "Nincs mélysége",
+        "Papíron található",
+        "Törött"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Tud-e egy adatbázis képeket tárolni?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak ha kinyomtatják",
+        "Csak képlinkek"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az adatintegritás?",
+      "options": [
+        "Hogy az adatok helyesek és konzisztenssek",
+        "Hogy az adatok titkosak",
+        "Hogy az adatok gyorsak",
+        "Hogy az adatok törlődnek"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik egy rekord törlésekor?",
+      "options": [
+        "Az egész sor eltávolítása",
+        "Csak egy mező lesz üres",
+        "Az adatbázis törlődik",
+        "Semmi"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik adattípus a legalkalmasabb egy születési dátum tárolására?",
+      "options": [
+        "Szöveg",
+        "Szám",
+        "Dátum/Idő",
+        "Pénznem"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy „idegen kulcs” (Fremdschlüssel)?",
+      "options": [
+        "Kulcs a bejárati ajtóhoz",
+        "Egy mező, amely egy másik tábla elsődleges kulcsára hivatkozik",
+        "Egy hibás kód",
+        "Egy rejtett mező"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "gépelés",
+      "text": "Adatbázis"
+    },
+    {
+      "type": "gépelés",
+      "text": "Adatrekord"
+    },
+    {
+      "type": "gépelés",
+      "text": "Adatmező"
+    },
+    {
+      "type": "gépelés",
+      "text": "Elsődleges kulcs"
+    },
+    {
+      "type": "gépelés",
+      "text": "SQL"
+    },
+    {
+      "type": "gépelés",
+      "text": "Szűrés"
+    },
+    {
+      "type": "gépelés",
+      "text": "Rendezés"
+    },
+    {
+      "type": "gépelés",
+      "text": "Űrlap"
+    },
+    {
+      "type": "gépelés",
+      "text": "Jelentés"
+    },
+    {
+      "type": "gépelés",
+      "text": "Kapcsolat"
+    }
+  ]
+}

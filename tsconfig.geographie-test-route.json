@@ -1,0 +1,22 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "skipLibCheck": true,
+    "incremental": false
+  },
+  "include": [
+    "app/geographietest/page.tsx",
+    "app/deutschtest/page.tsx",
+    "components/geographie-visual/**/*.tsx",
+    "components/testpapier-visual/**/*.tsx",
+    "lib/geographieCurriculum*.ts",
+    "lib/geographieGenerators*.ts",
+    "lib/geographieRegistration.ts",
+    "lib/geographieVisualContent.ts",
+    "lib/geographieVisualGenerators.ts",
+    "lib/languageTestTypes.ts",
+    "next-env.d.ts"
+  ],
+  "exclude": ["node_modules", ".next", "out"]
+}

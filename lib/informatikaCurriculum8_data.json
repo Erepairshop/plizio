@@ -353,7 +353,7 @@
     { "type": "typing", "question": { "de": "Erkölcs a neten?", "hu": "Erkölcs a neten?", "ro": "Morală pe net?", "en": "Ethics on the net?" }, "answer": { "de": "Ethik", "hu": "Etika", "ro": "Etică", "en": "Ethics" } },
     { "type": "typing", "question": { "de": "Viselkedési szabályok?", "hu": "Viselkedési szabályok?", "ro": "Reguli de comportament?", "en": "Rules of behavior?" }, "answer": { "de": "Netiquette", "hu": "Netikett", "ro": "Netichetă", "en": "Netiquette" } },
     { "type": "typing", "question": { "de": "Személyes adatok védelme?", "hu": "Személyes adatok védelme?", "ro": "Protecția datelor personale?", "en": "Data protection?" }, "answer": { "de": "Datenschutz", "hu": "Adatvédelem", "ro": "Protecție", "en": "Privacy" } },
-    { "type": "typing", "question": { "de": "Szerzői jog (angolul)?", "hu": "Szerzői jog (angolul)?", "ro": "Drept de autor (engl.)?", "en": "Author rights?" }, "answer": { "de": "Copyright", "hu": "Copyright", "ro": "Copyright", "en": "Copyright" } },
+    { "type": "typing", "question": { "de": "Urheberrecht (englisch)?", "hu": "Szerzői jog (angolul)?", "ro": "Drept de autor (engl.)?", "en": "Copyright term?" }, "answer": { "de": "Copyright", "hu": "Copyright", "ro": "Copyright", "en": "Copyright" } },
     { "type": "typing", "question": { "de": "Ötletlopás?", "hu": "Ötletlopás?", "ro": "Furt de idei?", "en": "Theft of ideas?" }, "answer": { "de": "Plagiat", "hu": "Plágium", "ro": "Plagiat", "en": "Plagiarism" } }
   ],
   "info_k8_opensource": [

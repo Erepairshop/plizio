@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "HTML/CSS bevezetés",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mit jelent a HTML?",
+      "options": [
+        "Hypertext jelölőnyelv",
+        "High Tech Modern Language",
+        "Home Tool Markup lista",
+        "Hyperlink szöveg mód logó"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használjuk a HTML‑t?",
+      "options": [
+        "Számoláshoz",
+        "Weboldalak strukturálása",
+        "Képmanipuláció",
+        "Vírusirtó"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a CSS?",
+      "options": [
+        "Cascading Style Sheets",
+        "Computer Style System",
+        "Creative Sheet stílus",
+        "Colorful Style Sheets"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használjuk a CSS‑t?",
+      "options": [
+        "Adatok tárolása",
+        "Weboldalak kinézete és elrendezése",
+        "Játékok programozása",
+        "Szövegírás"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják azokat az utasításokat HTML-ben?",
+      "options": [
+        "Kódok",
+        "Címkék",
+        "Címkék",
+        "Hookok"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen formát ölthet általában egy nyitó (start) tag?",
+      "options": [
+        "(címke)",
+        "{címke}",
+        "<tag>",
+        "[címke]"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen formát ölthet általában egy záró (end) tag?",
+      "options": [
+        "<tag>",
+        "</címke>",
+        "<\\címke>",
+        "<#címke>"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik tag határozza meg egy weboldal címét a böngészőfülben?",
+      "options": [
+        "<head>",
+        "<body>",
+        "<title>",
+        "<h1>"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik területen látható a weboldal tartalma?",
+      "options": [
+        "<head>",
+        "<body>",
+        "<meta>",
+        "<script>"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik tagot használjuk a legnagyobb címsorhoz?",
+      "options": [
+        "<h6>",
+        "<h1>",
+        "<p>",
+        "<head>"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik tagot használjuk egy normál bekezdéshez?",
+      "options": [
+        "<p>",
+        "<a>",
+        "<div>",
+        "<span>"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik taggel illesztünk be hivatkozást?",
+      "options": [
+        "<link>",
+        "<a>",
+        "<url>",
+        "<li>"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik taggel illesztünk be képet?",
+      "options": [
+        "<pic>",
+        "<image>",
+        "<img>",
+        "<src>"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik attribútum adja meg a kép forrását?",
+      "options": [
+        "href",
+        "src",
+        "régi",
+        "link"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért jó a képeknél az 'alt' attribútum?",
+      "options": [
+        "A kép korát mutatja",
+        "Alternatív szöveg arra az esetre, ha a kép nem töltődik be",
+        "Kép mérete",
+        "Kép színe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik CSS-attribútum változtatja a háttérszínt?",
+      "options": [
+        "color",
+        "background-color",
+        "font-color",
+        "fill"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik CSS-attribútum változtatja a szöveg színét?",
+      "options": [
+        "text-color",
+        "color",
+        "font-style",
+        "tint"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehet CSS-ben megváltoztatni a betűméretet?",
+      "options": [
+        "text-size",
+        "font-size",
+        "big",
+        "méretezés"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik HTML-címke hoz létre egy rendezetlen listát (pontokkal)?",
+      "options": [
+        "<ol>",
+        "<ul>",
+        "<li>",
+        "<list>"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a <li> tag?",
+      "options": [
+        "Létrehoz egy listát",
+        "Meghatároz egy listaelemet",
+        "Félkövérre állítja a szöveget",
+        "Összekapcsol egy oldalt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az 'href' egy link-tagben?",
+      "options": [
+        "Magas hivatkozás",
+        "Hypertext hivatkozás",
+        "Kezdőlap-hivatkozás",
+        "Rejtett hivatkozás"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehet egy külső CSS-fájlt beilleszteni HTML-be?",
+      "options": [
+        "<style>",
+        "<script>",
+        "<link>",
+        "<a>"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik jel választja el a CSS-ben a tulajdonságot és az értéket (pl. color ... red)?",
+      "options": [
+        "=",
+        ":",
+        ";",
+        "-"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik karakter zár le egy CSS-utasítást?",
+      "options": [
+        ".",
+        ";",
+        "!",
+        ","
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy 'szelektor' a CSS-ben (Selektor)?",
+      "options": [
+        "Egy program",
+        "Meghatározza, mely HTML-elemek legyenek formázva",
+        "Egy címke neve",
+        "Kép"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "gépelés",
+      "text": "HTML"
+    },
+    {
+      "type": "gépelés",
+      "text": "CSS"
+    },
+    {
+      "type": "gépelés",
+      "text": "Címkék"
+    },
+    {
+      "type": "gépelés",
+      "text": "h1"
+    },
+    {
+      "type": "gépelés",
+      "text": "p"
+    },
+    {
+      "type": "gépelés",
+      "text": "a"
+    },
+    {
+      "type": "gépelés",
+      "text": "img"
+    },
+    {
+      "type": "gépelés",
+      "text": "color"
+    },
+    {
+      "type": "gépelés",
+      "text": "background-color"
+    },
+    {
+      "type": "gépelés",
+      "text": "/"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Conditional branches",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What does a conditional branch do?",
+      "options": [
+        "Always execute the same",
+        "Run code only if a condition is true",
+        "Turn off the PC",
+        "Paint images"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "if",
+      "options": [
+        "if (when)",
+        "for",
+        "while",
+        "do"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'else' (otherwise) mean?",
+      "options": [
+        "The code is executed when the condition is FALSE",
+        "The code is always executed",
+        "The code is deleted",
+        "A new question"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Decision diamond",
+      "options": [
+        "Rectangle",
+        "Diamond",
+        "Oval",
+        "Arrow"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a branching with more than two possibilities often called?",
+      "options": [
+        "Multiple branching (switch/case)",
+        "multi-branching",
+        "Endless branching",
+        "Closed loop"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'comparison operator'?",
+      "options": [
+        "A technician",
+        "Symbols like ==, <, > to compare values",
+        "A printer",
+        "A program"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does `==` mean in many programming languages?",
+      "options": [
+        "Assignment",
+        "Equality comparison",
+        "Inequality",
+        "greater than"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does `!=` mean?",
+      "options": [
+        "equality",
+        "Inequality",
+        "factorial",
+        "Important"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can branches be nested?",
+      "options": [
+        "Yes (if inside an if)",
+        "No",
+        "Only in Scratch",
+        "Only for errors"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'logical operator'?",
+      "options": [
+        "A clever person",
+        "Operators such as AND, OR, NOT",
+        "A cable",
+        "A monitor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "When is an AND expression true?",
+      "options": [
+        "If both conditions are true",
+        "If only one is true",
+        "If none is true",
+        "always"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "When is an OR expression true?",
+      "options": [
+        "If at least one condition is true",
+        "Only if both are true",
+        "Only if both are false",
+        "Never"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the NOT operator do?",
+      "options": [
+        "Deletes everything",
+        "Reverses the truth value (True -> False)",
+        "Ends the program",
+        "Nothing"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does `else if` mean?",
+      "options": [
+        "Check another condition if the first was false",
+        "Exit the program",
+        "To start a loop",
+        "To output/print a text"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "True",
+      "options": [
+        "True",
+        "false",
+        "8",
+        "error"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "True",
+      "options": [
+        "True",
+        "false",
+        "30",
+        "error"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'conditional expression'?",
+      "options": [
+        "A question to the user",
+        "An expression that evaluates to True or False",
+        "A long text",
+        "An image name"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the structure 'If A then B else C' called?",
+      "options": [
+        "Alternative",
+        "Loop",
+        "Assignment",
+        "Constant"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if an if-condition is false and there is no else?",
+      "options": [
+        "The program simply skips the block",
+        "There is an error",
+        "The PC crashes",
+        "The program pauses"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Boolean logic'?",
+      "options": [
+        "Computing with colors",
+        "Logic based on two values (True/False)",
+        "An old language",
+        "hardware planning"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "≥ (greater than or equal to)",
+      "options": [
+        ">=",
+        "=>",
+        ">+",
+        ">>"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the result of `NOT (5 == 5)`?",
+      "options": [
+        "false",
+        "True",
+        "5",
+        "error"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What are branches used for in everyday life (example)?",
+      "options": [
+        "Password check (If correct -> login, otherwise error)",
+        "For cooking pasta",
+        "For sleeping",
+        "For listening to music"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the area between `{}` after an `if` often called?",
+      "options": [
+        "Block",
+        "house",
+        "Box",
+        "Bracket"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'indentation' in branching mean?",
+      "options": [
+        "Beautify code",
+        "Show affiliation of code blocks",
+        "Save space",
+        "Cool the PC"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Selection"
+    },
+    {
+      "type": "typing",
+      "text": "if"
+    },
+    {
+      "type": "typing",
+      "text": "else"
+    },
+    {
+      "type": "typing",
+      "text": "Diamond"
+    },
+    {
+      "type": "typing",
+      "text": "=="
+    },
+    {
+      "type": "typing",
+      "text": "AND"
+    },
+    {
+      "type": "typing",
+      "text": "OR"
+    },
+    {
+      "type": "typing",
+      "text": "NOT"
+    },
+    {
+      "type": "typing",
+      "text": "Boolean"
+    },
+    {
+      "type": "typing",
+      "text": "nested"
+    }
+  ]
+}

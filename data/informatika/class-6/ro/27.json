@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Prevenirea cyberbullying-ului",
+  "language": "RO",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este „Cyberbullying”?",
+      "options": [
+        "Jocuri pe internet",
+        "Insultare, amenințare sau hărțuire prin intermediul mediilor digitale",
+        "Tastare rapidă",
+        "Un telefon mobil nou"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Unde apare adesea cyberbullying-ul?",
+      "options": [
+        "În rețele sociale",
+        "În grupuri Messenger",
+        "În jocuri online",
+        "În toate cele menționate"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Care este un semn al hărțuirii cibernetice (cyberbullying)?",
+      "options": [
+        "Se întâmplă o singură dată",
+        "Este adesea permanent și ajunge la un public numeros",
+        "Este întotdeauna amuzant",
+        "Întotdeauna se vede făptașul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce ar trebui să faci mai întâi dacă ești hărțuit?",
+      "options": [
+        "A respinge jignirile",
+        "A te încrede în cineva (părinți, profesor)",
+        "Aruncarea telefonului",
+        "Nu face nimic"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ar trebui să salvezi dovezi (capturi de ecran)?",
+      "options": [
+        "Da, foarte important pentru ajutor ulterior",
+        "Nu, șterge imediat",
+        "Doar dacă sunt colorate",
+        "Doar dacă ai timp"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce poți face împotriva hărțuitorilor cibernetici în aplicații?",
+      "options": [
+        "Blochează și raportează",
+        "A le trimite bani",
+        "Ștergerea profilului",
+        "A le scrie politicos"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Cyber‑Stalking”?",
+      "options": [
+        "Mers rapid",
+        "Urmărirea și hărțuirea persistentă a unei persoane pe internet",
+        "Desenare imagini",
+        "Programare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Poți distribui fotografii jenante ale altora fără permisiune?",
+      "options": [
+        "Da, este amuzant",
+        "Nu, asta este ilegal și hărțuire",
+        "Doar în grupuri private",
+        "Doar în weekend"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "De ce este cyber-hărțuirea adesea mai gravă decât hărțuirea în curtea școlii?",
+      "options": [
+        "Pentru că se poate întâmpla 24 de ore pe zi",
+        "Pentru că este mai distractiv",
+        "Pentru că PC-ul este scump",
+        "Nu există nicio diferență"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește când excluzi cu bună știință pe cineva din grupuri?",
+      "options": [
+        "Excluziune (excludere)",
+        "Incluziune",
+        "Fuziune",
+        "Ștergere"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cine sunt „trolii” pe internet?",
+      "options": [
+        "Creaturi fantastice",
+        "Persoane care deranjează și provoacă deliberat discuțiile",
+        "Calculatoare rapide",
+        "Accesorii speciale"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Hate Speech”?",
+      "options": [
+        "Discurs de ură împotriva grupurilor de oameni",
+        "O melodie zgomotoasă",
+        "O greșeală de tastare",
+        "O aplicație nouă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ar trebui să împărtășești parolele cu prietenii?",
+      "options": [
+        "Da, împărtășim totul",
+        "Nu, parolele sunt private (protecție împotriva abuzului)",
+        "Doar celui mai bun prieten",
+        "Doar prin WhatsApp"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Flaming”?",
+      "options": [
+        "A face focul",
+        "Insulte agresive în discuții online",
+        "Editare imagini",
+        "Răcirea PC-ului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Poate avea cyberbullying-ul consecințe legale?",
+      "options": [
+        "Da, până la a depune plângere la poliție",
+        "Nu, este doar internet",
+        "Doar pentru adulți",
+        "Doar dacă furi bani"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face ideal un „spectator” (bystander)?",
+      "options": [
+        "Râzi și redirecționezi",
+        "A ajuta victima și a nu susține bullying-ul",
+        "Ignoră",
+        "Participare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este «Numărul împotriva grijiilor» (Nummer gegen Kummer)?",
+      "options": [
+        "Un număr de telefon pentru ajutor în caz de probleme",
+        "O linie telefonică pentru comenzi",
+        "Poliția",
+        "Un concurs de quiz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă „Empatie” pe internet?",
+      "options": [
+        "Internet rapid",
+        "A te pune în pielea altuia",
+        "A scrie mult text",
+        "Ștergere imagini"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un «profil fals»?",
+      "options": [
+        "Un profil cu nume/imagine falsă pentru a induce în eroare",
+        "Un profil șters",
+        "Un profil foarte frumos",
+        "Un profil oficial"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ar trebui să postezi public date private (adresă, tel.)?",
+      "options": [
+        "Da, pentru a fi găsit",
+        "Nu, protecția vieții private",
+        "Doar pe Facebook",
+        "Doar în comentarii"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Doxing”?",
+      "options": [
+        "A hrăni câinii",
+        "Publicarea datelor private fără permisiune pentru a hărțui",
+        "Salvare date",
+        "Scanare imagini"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Happy Slapping”?",
+      "options": [
+        "Un joc",
+        "Filmare a atacurilor fizice pentru publicare",
+        "Aplauze",
+        "Videoclipuri amuzante"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum te poți proteja?",
+      "options": [
+        "Folosește setările de confidențialitate",
+        "A împărtăși puțin din viața personală",
+        "A folosi parole sigure",
+        "Toate cele menționate"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este «curajul civil» online?",
+      "options": [
+        "A interveni curajos împotriva nedreptății online",
+        "A te ascunde",
+        "A țipa tare",
+        "A dona mulți bani"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "De ce îi hărțuiesc unii oameni pe alții?",
+      "options": [
+        "Din plictiseală, nesiguranță sau sentiment de putere",
+        "Pentru că mănâncă prea mult fructe",
+        "Pentru că PC-ul este stricat",
+        "Pentru că nu au școală"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "tastare",
+      "text": "Cyberbullying"
+    },
+    {
+      "type": "tastare",
+      "text": "Captură de ecran"
+    },
+    {
+      "type": "tastare",
+      "text": "bloca"
+    },
+    {
+      "type": "tastare",
+      "text": "Flaming"
+    },
+    {
+      "type": "tastare",
+      "text": "Doxing"
+    },
+    {
+      "type": "tastare",
+      "text": "Profil fals"
+    },
+    {
+      "type": "tastare",
+      "text": "Troll"
+    },
+    {
+      "type": "tastare",
+      "text": "Empatie"
+    },
+    {
+      "type": "tastare",
+      "text": "Curaj civic"
+    },
+    {
+      "type": "tastare",
+      "text": "Hate Speech"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+name: Biology Test Azure Translation
+
+on:
+  push:
+    branches:
+      - codex/biology-test-translation-20260820
+    paths:
+      - ".github/workflows/biologie-test-azure-translation.yml"
+      - "scripts/test-translation/run-azure-biologie-translation.py"
+      - "scripts/test-translation/run-biologie-language.sh"
+      - "scripts/test-translation/validate-biologie-results.py"
+      - "translation-work/biologie-test/**"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: biology-test-azure-translation
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: [self-hosted, vps-plizio]
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Translate Hungarian
+        run: bash scripts/test-translation/run-biologie-language.sh hu Hungarian
+
+      - name: Repair unchanged Hungarian strings
+        run: >-
+          bash scripts/test-translation/run-biologie-language.sh
+          hu Hungarian
+          translation-work/biologie-test/repair-hu/queue.json
+          repair-hu.jsonl
+
+      - name: Repair remaining German Hungarian strings
+        run: >-
+          bash scripts/test-translation/run-biologie-language.sh
+          hu Hungarian
+          translation-work/biologie-test/repair2-hu/queue.json
+          repair2-hu.jsonl
+
+      - name: Repair remaining German Romanian strings
+        run: >-
+          bash scripts/test-translation/run-biologie-language.sh
+          ro Romanian
+          translation-work/biologie-test/repair2-ro/queue.json
+          repair2-ro.jsonl
+
+      - name: Translate Romanian
+        run: bash scripts/test-translation/run-biologie-language.sh ro Romanian
+
+      - name: Translate English
+        run: bash scripts/test-translation/run-biologie-language.sh en English
+
+      - name: Validate exact coverage
+        run: >-
+          python3 scripts/test-translation/validate-biologie-results.py
+          --manifest translation-work/biologie-test/source-manifest.json
+          --result /home/erik/plizio-translations/biologie-test-20260820/result-hu.jsonl
+          --result /home/erik/plizio-translations/biologie-test-20260820/result-ro.jsonl
+          --result /home/erik/plizio-translations/biologie-test-20260820/result-en.jsonl
+
+      - name: Upload translations
+        uses: actions/upload-artifact@v4
+        with:
+          name: biologie-test-translations
+          path: |
+            translation-work/biologie-test/source-manifest.json
+            /home/erik/plizio-translations/biologie-test-20260820/result-hu.jsonl
+            /home/erik/plizio-translations/biologie-test-20260820/repair-hu.jsonl
+            /home/erik/plizio-translations/biologie-test-20260820/repair2-hu.jsonl
+            /home/erik/plizio-translations/biologie-test-20260820/repair2-ro.jsonl
+            /home/erik/plizio-translations/biologie-test-20260820/result-ro.jsonl
+            /home/erik/plizio-translations/biologie-test-20260820/result-en.jsonl
+          retention-days: 7

@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Folyamatábrák",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az egy folyamatábra (Flussdiagramm)?",
+      "options": [
+        "Kép egy folyról",
+        "Egy algoritmus grafikus ábrázolása",
+        "Egy hálózati terv",
+        "Egy Excel-táblázat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik szimbólum jelöli általában a kezdést vagy a befejezést?",
+      "options": [
+        "Téglalap",
+        "Kereszt (#)",
+        "Ellipszis (vagy lekerekített téglalap)",
+        "Paralelogramma"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mit ábrázol egy téglalap egy folyamatábrában?",
+      "options": [
+        "Egy döntés",
+        "Egy utasítás vagy folyamat",
+        "Indítás",
+        "Bemenet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik szimbólumot használják döntésre (Igen/Nem)?",
+      "options": [
+        "Kör",
+        "Kereszt (#)",
+        "Négyzet",
+        "Háromszög"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használják gyakran a paralelogrammát?",
+      "options": [
+        "Bemenet vagy kimenet",
+        "Folyamat",
+        "Vége",
+        "Elágazás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kapcsoljuk össze a szimbólumokat egy folyamatábrában?",
+      "options": [
+        "Vonalakkal",
+        "Nyilakkal (folyamatvonalak)",
+        "Pontokkal",
+        "Egyáltalán nem"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik irányba olvassuk általában a folyamatábrát?",
+      "options": [
+        "Jobbról balra",
+        "Alulról felfelé",
+        "Felülről lefelé",
+        "körben"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az algoritmus?",
+      "options": [
+        "Egy matematikai rejtvény",
+        "Lépésről lépésre útmutató egy probléma megoldásához",
+        "Számítógépes program",
+        "Egy hardver"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hány kimenete van általában egy rombusznak (döntés)?",
+      "options": [
+        "Egy",
+        "Két (Igen/Nem)",
+        "Három",
+        "Végtelen sok"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik, ha egy folyamatábrának (flowchart) van egy ciklusa?",
+      "options": [
+        "Soha nem ér véget",
+        "Egy rész ismétlődik, amíg egy feltétel teljesül",
+        "Hamis",
+        "A számítógép összeomlik"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'logika' szó?",
+      "options": [
+        "Helyes gondolkodás/lekövetkeztetés",
+        "Színtan",
+        "Nyomdatechnika",
+        "Energiafogyasztás"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik szimbólumot használjuk a 'Világítás bekapcsolása' művelethez?",
+      "options": [
+        "Kereszt (#)",
+        "Téglalap",
+        "Kör",
+        "Nyíl"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi szokott állni gyakran egy rombuszban?",
+      "options": [
+        "Egy kérdés",
+        "Egy név",
+        "A 'Ende' szó",
+        "Kép"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e egy folyamatábrának több vége?",
+      "options": [
+        "Igen",
+        "Nem",
+        "Csak egy engedélyezett",
+        "Csak ha elromlott"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy 'struktogram' (Struktogramm)?",
+      "options": [
+        "Egy másik szó a folyamatábrára",
+        "A grafikus ábrázolás egy másik módja (Nassi–Shneiderman)",
+        "Egy fénykép",
+        "Egy zenei diagram"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire szolgál a folyamatábrákkal történő tervezés?",
+      "options": [
+        "A hibák megtalálásához még a programozás előtt",
+        "Időtöltéshez",
+        "Színezéshez",
+        "A tinta megtakarításához"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy hívják azt a pontot, ahol két nyíl összefut?",
+      "options": [
+        "Csomóponthálózat",
+        "Kereszteződés",
+        "Vége",
+        "Megállít"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Bemenet' (Eingabe) egy algoritmusban?",
+      "options": [
+        "A felhasználó által megadott adatok",
+        "Az eredmény a képernyőn",
+        "Mentés",
+        "A törlés"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a \"Ausgabe\" (kimenet)?",
+      "options": [
+        "Adatok törlése",
+        "Az eredmény megjelenik vagy kiíródik",
+        "Szöveget begépelni",
+        "Áram kikapcsolása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik szimbólum helyes az 'Ég-e a lámpa?' kérdéshez?",
+      "options": [
+        "Téglalap",
+        "Kereszt (#)",
+        "Ellipszis",
+        "Nyíl"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „végtelen ciklus” (Endlosschleife)?",
+      "options": [
+        "Szép gyűrű",
+        "Soha véget nem érő algoritmus",
+        "Rövid út",
+        "Gyors számítógép"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a pseudokód?",
+      "options": [
+        "Egy hibás kód",
+        "Algoritmus szöveges leírása (keverék németből és kódból)",
+        "Egy titkos nyelv",
+        "Egy titkosítási eljárás"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik szimbólumot használjuk a 'Szám beolvasása' művelethez?",
+      "options": [
+        "Ellipszis",
+        "Paralelogramma",
+        "Téglalap",
+        "Kereszt (#)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért fontosak a nyílhegyek (Pfeilspitzen)?",
+      "options": [
+        "Hogy szépen nézzen ki",
+        "A folyamat irányát jelzőként",
+        "Hely takarékosságához",
+        "Jelentéktelenek"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinálunk a hibakeresés (debugging) során?",
+      "options": [
+        "Rovarokat fogni",
+        "Hiba keresése és javítása egy algoritmusban vagy programban",
+        "új funkciók beépítése",
+        "Letisztítja a monitort"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "gépelés",
+      "text": "Algoritmus"
+    },
+    {
+      "type": "gépelés",
+      "text": "Ellipszis"
+    },
+    {
+      "type": "gépelés",
+      "text": "Kereszt (#)"
+    },
+    {
+      "type": "gépelés",
+      "text": "Téglalap"
+    },
+    {
+      "type": "gépelés",
+      "text": "Nyíl"
+    },
+    {
+      "type": "gépelés",
+      "text": "Paralelogramma"
+    },
+    {
+      "type": "gépelés",
+      "text": "Ciklus"
+    },
+    {
+      "type": "gépelés",
+      "text": "Hibakeresés"
+    },
+    {
+      "type": "gépelés",
+      "text": "Pseudokód"
+    },
+    {
+      "type": "gépelés",
+      "text": "Végtelen ciklus"
+    }
+  ]
+}

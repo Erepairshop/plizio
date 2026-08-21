@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Variables in programming",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a variable in programming?",
+      "options": [
+        "A fixed value",
+        "A placeholder for data that can change",
+        "A hardware component",
+        "A program name"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How can you imagine a variable visually?",
+      "options": [
+        "As a hammer",
+        "As a box or drawer with a name",
+        "As a screen",
+        "As a cable"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'variable name'?",
+      "options": [
+        "The result",
+        "The label under which the value is found",
+        "A password",
+        "The program code"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'assignment' mean?",
+      "options": [
+        "Delete a value",
+        "Give a variable a value (e.g. x = 5)",
+        "To ask a question",
+        "Select a printer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which data type is used for whole numbers?",
+      "options": [
+        "String",
+        "Integer",
+        "Boolean",
+        "float"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which data type is used for text?",
+      "options": [
+        "Integer",
+        "float",
+        "String",
+        "Boolean"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What does a 'Boolean' store?",
+      "options": [
+        "Numbers",
+        "Text",
+        "Boolean values (True/False)",
+        "Images"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Which data type is used for decimal numbers?",
+      "options": [
+        "Integer",
+        "Float (or Double)",
+        "String",
+        "Char"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'declare' mean?",
+      "options": [
+        "Delete a value",
+        "To declare/create a variable in the program",
+        "Quit a program",
+        "To send a message"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'constant'?",
+      "options": [
+        "A variable that changes frequently",
+        "A value that does not change during the program",
+        "An error",
+        "An input device"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What happens when you assign a new value to a variable?",
+      "options": [
+        "The old value is deleted/overwritten",
+        "Both values are saved",
+        "The program crashes",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Are variable names allowed to contain spaces (usually)?",
+      "options": [
+        "Yes",
+        "No",
+        "Only at the end",
+        "Only at the beginning"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Equals sign (=) for assignment (or := in some languages)",
+      "options": [
+        "=",
+        "!",
+        "?",
+        "#"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'initialization'?",
+      "options": [
+        "Deleting a variable",
+        "The first assignment of a value after creation",
+        "Exiting the program",
+        "Saving"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can a variable change its type (in some languages)?",
+      "options": [
+        "Yes (dynamic typing)",
+        "No, never",
+        "Only if you restart the PC",
+        "Only for errors"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'global' scope?",
+      "options": [
+        "The variable is known everywhere in the program",
+        "The variable applies only within a function",
+        "The variable applies globally on the Internet",
+        "The variable is secret"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'local' variable?",
+      "options": [
+        "It is known throughout the house",
+        "It applies only within a specific block (e.g. function)",
+        "It does not need the internet",
+        "It is slow"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a list of values in a variable called?",
+      "options": [
+        "String",
+        "Array (or list)",
+        "Boolean",
+        "Integer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What happens at `x = 5 + 3`?",
+      "options": [
+        "x becomes the text '5+3'",
+        "x becomes the value 8",
+        "There is an error",
+        "Nothing"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Are variable names allowed to start with a number (usually)?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if they are short",
+        "Only for Python"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What data type is 'Hallo Welt'?",
+      "options": [
+        "Integer",
+        "Boolean",
+        "String",
+        "float"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What data type is the value 3.14?",
+      "options": [
+        "Integer",
+        "float",
+        "String",
+        "Boolean"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What data type is the value True?",
+      "options": [
+        "Integer",
+        "String",
+        "Boolean",
+        "float"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'increment' mean?",
+      "options": [
+        "Increase a value by 1",
+        "Delete a value",
+        "Halve a value",
+        "Insert an image"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'decrement' mean?",
+      "options": [
+        "Double a value",
+        "Decrease a value by 1",
+        "Save a value",
+        "Copy a value"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Variable"
+    },
+    {
+      "type": "typing",
+      "text": "Integer"
+    },
+    {
+      "type": "typing",
+      "text": "String"
+    },
+    {
+      "type": "typing",
+      "text": "Boolean"
+    },
+    {
+      "type": "typing",
+      "text": "float"
+    },
+    {
+      "type": "typing",
+      "text": "="
+    },
+    {
+      "type": "typing",
+      "text": "Initialization"
+    },
+    {
+      "type": "typing",
+      "text": "Declare"
+    },
+    {
+      "type": "typing",
+      "text": "Constant"
+    },
+    {
+      "type": "typing",
+      "text": "Array"
+    }
+  ]
+}

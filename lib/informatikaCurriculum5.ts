@@ -1,4 +1,5 @@
 import type { KemiaTheme, KemiaQuestion } from "./kemiaCurriculumShared";
+import { selectDiverseInformatikaQuestions } from "./informatikaQuestionDiversity";
 
 // ─── Raw JSON imports — all 4 languages, K5 ──────────────────────────────────
 import t01_hu from "@/data/informatika/class-5/hu/1.json";
@@ -293,10 +294,5 @@ export function getInfoK5Questions(subtopicIds: string[], count?: number, countr
     const tasks = _pickTasks(id, countryCode);
     pool.push(...jsonToQuestions(id, tasks));
   }
-  if (!count) return pool;
-  for (let i = pool.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [pool[i], pool[j]] = [pool[j], pool[i]];
-  }
-  return pool.slice(0, count);
+  return selectDiverseInformatikaQuestions(pool, count);
 }

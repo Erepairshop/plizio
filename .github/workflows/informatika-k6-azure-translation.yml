@@ -1,0 +1,55 @@
+name: Informatics K6 Azure Translation
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: informatics-k6-azure-translation
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: [self-hosted, vps-plizio]
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Translate Hungarian
+        run: bash scripts/test-translation/run-informatika-language.sh hu Hungarian
+
+      - name: Validate Hungarian
+        run: >-
+          python3 scripts/test-translation/validate-informatika-results.py
+          --manifest translation-work/informatika-k6/source-manifest-hu.json
+          --result /home/erik/plizio-translations/informatika-k6-20260820/result-hu.jsonl
+
+      - name: Translate Romanian
+        run: bash scripts/test-translation/run-informatika-language.sh ro Romanian
+
+      - name: Validate Romanian
+        run: >-
+          python3 scripts/test-translation/validate-informatika-results.py
+          --manifest translation-work/informatika-k6/source-manifest-ro.json
+          --result /home/erik/plizio-translations/informatika-k6-20260820/result-ro.jsonl
+
+      - name: Translate English
+        run: bash scripts/test-translation/run-informatika-language.sh en English
+
+      - name: Validate English
+        run: >-
+          python3 scripts/test-translation/validate-informatika-results.py
+          --manifest translation-work/informatika-k6/source-manifest-en.json
+          --result /home/erik/plizio-translations/informatika-k6-20260820/result-en.jsonl
+
+      - name: Upload translations
+        uses: actions/upload-artifact@v4
+        with:
+          name: informatika-k6-translations
+          path: |
+            translation-work/informatika-k6/source-manifest-*.json
+            translation-work/informatika-k6/missing-files.json
+            /home/erik/plizio-translations/informatika-k6-20260820/result-*.jsonl
+          retention-days: 7

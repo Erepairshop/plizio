@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Robotprogramozás",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az a robot?",
+      "options": [
+        "Egy fémből készült ember",
+        "Programozható gép, amely feladatokat hajt végre",
+        "Egy távirányítós autó",
+        "Számítógép-képernyő"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mik a robotnál a szenzorok (érzékelők)?",
+      "options": [
+        "Az izmok",
+        "Az érzékszervek (információt vesznek fel a környezetből)",
+        "Az agy",
+        "A kerekek"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mik az 'aktátorok' (aktuátorok)?",
+      "options": [
+        "A szemek",
+        "Mozgást végző részek (pl. motorok)",
+        "Az elemek (batteriák)",
+        "A programkódok"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik érzékelő segít a robotnak akadályok felismerésében?",
+      "options": [
+        "hőmérséklet-érzékelő",
+        "Ultrahangos érzékelő (távolság)",
+        "Páratartalom-érzékelő",
+        "Nyomásérzékelő"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a robot „irányítása“?",
+      "options": [
+        "A ház",
+        "A számítógép/mikrokontroller (az agy)",
+        "A kábel",
+        "A felhasználó"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az 'ipari robot' (Industrieroboter)?",
+      "options": [
+        "Egy játékszer",
+        "Ipari robot (pl. autógyártáshoz)",
+        "Porszívórobot",
+        "Robotkutya"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál egy „színszenzor”?",
+      "options": [
+        "Ő lefesti a robotot",
+        "Felismeri a padló vagy tárgyak színeit",
+        "Megváltoztatja a fény színét",
+        "Ő méri a hőmérsékletet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik programozási nyelvet használják gyakran kezdő robotokhoz?",
+      "options": [
+        "Scratch / Grafikus blokkok",
+        "Csak Assemblerben",
+        "HTML",
+        "SQL"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az \"Autonom\"?",
+      "options": [
+        "A robotnak mindig távirányításra van szüksége",
+        "A robot önállóan hoz döntéseket",
+        "A robot elromlott",
+        "A robot nagyon drága"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy „giroszenzor”?",
+      "options": [
+        "Egy élelmiszer-érzékelő",
+        "Egy forgást és dőlést mérő érzékelő",
+        "Egy fényszensor",
+        "Egy érintésérzékelő"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy 'szervomotor' (Servomotor)?",
+      "options": [
+        "Egy motor, amely pontosan egy szögre fordítható",
+        "Egy nagyon nagy motor",
+        "Benzinmotor",
+        "Tönkrement motor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használunk egy 'érintőszenzort'?",
+      "options": [
+        "Zenehallgatáshoz",
+        "Érintések vagy ütközések érzékelésére",
+        "Légnyomás méréséhez",
+        "Látáshoz"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy „humanoid robot”?",
+      "options": [
+        "Állatformájú robot",
+        "Emberhez hasonló robot",
+        "Egy repülő robot",
+        "Egy vízalatti robot"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mik a robotika törvényei (Isaac Asimov szerint)?",
+      "options": [
+        "Forgalmi szabályok robotok számára",
+        "Etikai szabályok a robotok viselkedésére vonatkozóan",
+        "Robotok eladására vonatkozó törvények",
+        "Nincs"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'mikrokontroller' (pl. Arduino, LEGO Hub)?",
+      "options": [
+        "Nagy PC",
+        "Kis számítógép egy vezérlésre szolgáló chipen",
+        "Egy kijelző",
+        "Akkumulátor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik egy szabályozási körben (regulátorban)?",
+      "options": [
+        "Adatok törlése",
+        "A robot viselkedését folyamatosan a szenzoradatokhoz igazítja",
+        "A robot körbe-körbe jár",
+        "Semmi"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'porszívórobot' (Saugroboter)?",
+      "options": [
+        "Ipari robot",
+        "Egy háztartási szolgáltatórobot",
+        "Egy repülő robot",
+        "Egy játékszer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért használnak robotokat veszélyes területeken?",
+      "options": [
+        "Mert olcsóbb",
+        "Emberek életének védelmére (pl. bombazsák hatástalanítása)",
+        "Mert a robotok szívesen vannak ott",
+        "Mert gyorsabban tudnak repülni"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az 'EVA-elv' a robotikában?",
+      "options": [
+        "Bemenet-feldolgozás-kimenet",
+        "Vége-előtt-kezdés",
+        "Elektronikai bekötés-akkumulátor",
+        "Kevés-munka-igényes egyszerűség"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik alkatrész biztosítja a robot számára az energiát?",
+      "options": [
+        "Motor",
+        "Akkumulátor / elem",
+        "Érzékelő",
+        "Kábel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az 'MI' (mesterséges intelligencia) a robotikában?",
+      "options": [
+        "Csak színes fények",
+        "A robot képessége, hogy tapasztalatokból tanuljon",
+        "Egy különleges motor",
+        "Egy ház/készülékház"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál egy „fogó” (gripper)?",
+      "options": [
+        "Ő lát dolgokat",
+        "Megfog és mozgat tárgyakat",
+        "Ő méri a hangot",
+        "Ő hűti a robotot"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „Teleoperation”?",
+      "options": [
+        "A robot önállóan működik",
+        "Robot távoli irányítása ember által",
+        "A robot telefonál",
+        "A robot ki van kapcsolva"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet robotokat a telefonnal irányítani?",
+      "options": [
+        "Igen, gyakran Bluetoothon vagy Wi-Fin keresztül",
+        "Nem, soha",
+        "Csak kábellel",
+        "Csak víz alatt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egy 'vonalérzékelő' (Liniensensor)?",
+      "options": [
+        "Egy hosszú szenzor",
+        "Egy érzékelő, amely segít a robotnak követni egy vonalat",
+        "Egy vonalzó",
+        "Íróeszköz"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "gépelés",
+      "text": "Robot"
+    },
+    {
+      "type": "gépelés",
+      "text": "Érzékelő"
+    },
+    {
+      "type": "gépelés",
+      "text": "Aktuátor"
+    },
+    {
+      "type": "gépelés",
+      "text": "Mikrokontroller"
+    },
+    {
+      "type": "gépelés",
+      "text": "autonóm"
+    },
+    {
+      "type": "gépelés",
+      "text": "Ultrahang"
+    },
+    {
+      "type": "gépelés",
+      "text": "Szervómotor"
+    },
+    {
+      "type": "gépelés",
+      "text": "humanoid"
+    },
+    {
+      "type": "gépelés",
+      "text": "EVA"
+    },
+    {
+      "type": "gépelés",
+      "text": "MI"
+    }
+  ]
+}
