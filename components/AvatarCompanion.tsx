@@ -6,6 +6,7 @@ import { OrbitControls } from '@react-three/drei';
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 import { clone as skeletonClone } from 'three/examples/jsm/utils/SkeletonUtils.js';
+import { usePathname } from 'next/navigation';
 import type { SkinDef } from '@/lib/skins';
 import type { FaceDef } from '@/lib/faces';
 import type { TopDef, BottomDef, ShoeDef, CapeDef, GlassesDef, GloveDef } from '@/lib/clothing';
@@ -85,6 +86,23 @@ const WALK_ANIM = 'Walking';
 const RUN_ANIM = 'Running';
 const FADE_DURATION = 0.5;
 const IDLE_TRICK_REACTIONS: AvatarAnimKey[] = ['wave', 'dance', 'spin', 'laughing', 'surprised'];
+
+// Temporary product switch: keep the avatar available for profile/shop previews,
+// but do not render it on test routes or Astro learning games.
+const HIDE_AVATAR_ON_LEARNING_ROUTES = true;
+
+function isLearningRoute(pathname: string): boolean {
+  const firstSegment = pathname.split('/').filter(Boolean)[0] ?? '';
+  if (firstSegment === 'avatar-test' || firstSegment === 'testpapier-preview') return false;
+
+  const isAstroRoute = firstSegment.startsWith('astro') || firstSegment === 'astrinformatika';
+  const isTestRoute = firstSegment === 'aitest'
+    || firstSegment === 'teste-romana'
+    || firstSegment.endsWith('test')
+    || firstSegment.endsWith('-test');
+
+  return isAstroRoute || isTestRoute;
+}
 
 function pickFirstExistingClip(actions: Record<string, THREE.AnimationAction>, candidates: string[]) {
   return candidates.find((name) => Boolean(actions[name])) || '';
@@ -691,6 +709,7 @@ export default function AvatarCompanion({
   passThrough = false,
   orbitControls = false,
 }: AvatarCompanionProps) {
+  const pathname = usePathname();
   const positionClass = fixed ? 'fixed z-50' : 'relative w-full h-full';
   const [avatarScale] = useState(() => fixed ? getAvatarScale() : 1);
   const [localJump, setLocalJump] = useState<{
@@ -715,6 +734,8 @@ export default function AvatarCompanion({
 
   const shouldClipClicks = fixed && !passThrough;
   const clickClip = 'ellipse(38% 45% at 50% 58%)';
+
+  if (HIDE_AVATAR_ON_LEARNING_ROUTES && isLearningRoute(pathname)) return null;
 
   return (
     <div

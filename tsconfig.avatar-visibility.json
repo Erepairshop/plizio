@@ -1,0 +1,19 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "skipLibCheck": true,
+    "incremental": false
+  },
+  "include": [
+    "components/AvatarCompanion.tsx",
+    "lib/accessories.ts",
+    "lib/avatarAttachments.ts",
+    "lib/clothing.ts",
+    "lib/faces.ts",
+    "lib/gender.ts",
+    "lib/hair.ts",
+    "lib/skins.ts"
+  ],
+  "exclude": ["node_modules", ".next", "out"]
+}
