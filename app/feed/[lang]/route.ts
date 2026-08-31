@@ -4,6 +4,8 @@ import {
   pois,
   type Lang,
 } from "@/lib/seo/slugs";
+import { existsSync, statSync } from "node:fs";
+import { extname, resolve, sep } from "node:path";
 import { SITE_URL, poiTitle, poiDescription } from "@/lib/seo/routes";
 import { getPoiImage } from "@/lib/seo/resolvePoiImage";
 
@@ -40,6 +42,43 @@ function escape(s: unknown): string {
     .replace(/'/g, "&apos;");
 }
 
+type FeedImage = {
+  url: string;
+  contentType: string;
+  length: number;
+};
+
+const IMAGE_CONTENT_TYPES: Record<string, string> = {
+  ".avif": "image/avif",
+  ".gif": "image/gif",
+  ".jpeg": "image/jpeg",
+  ".jpg": "image/jpeg",
+  ".png": "image/png",
+  ".webp": "image/webp",
+};
+
+function resolveFeedImage(src: string): FeedImage | undefined {
+  const contentType = IMAGE_CONTENT_TYPES[extname(src).toLowerCase()];
+  if (!contentType) return undefined;
+
+  if (/^https?:\/\//i.test(src)) {
+    return { url: src, contentType, length: 0 };
+  }
+
+  const pathname = `/${src.replace(/^\/+/, "")}`;
+  const publicRoot = resolve(process.cwd(), "public");
+  const diskPath = resolve(publicRoot, pathname.slice(1));
+  if (!diskPath.startsWith(`${publicRoot}${sep}`) || !existsSync(diskPath)) {
+    return undefined;
+  }
+
+  return {
+    url: new URL(pathname, `${SITE_URL}/`).toString(),
+    contentType,
+    length: statSync(diskPath).size,
+  };
+}
+
 export async function GET(
   _req: Request,
   { params }: { params: Promise<{ lang: string }> },
@@ -55,14 +94,21 @@ export async function GET(
   // feedet — a teljes POI-lista 30+ MB volt (53k item, parse-hiba 2026-06-06).
   // Tier-prioritassal (tier1 elore) max 500 item megy ki (~300 KB).
   const FEED_LIMIT = 500;
-  const items = pois
-    .map((poi) => ({ poi, src: getPoiImage(poi) }))
-    .filter((x): x is { poi: typeof x.poi; src: string } => Boolean(x.poi && x.poi.parent && x.poi.type !== "region" && x.poi.type !== "country" && x.src))
-    .sort((a, b) => ((a.poi as { tier?: number }).tier ?? 6) - ((b.poi as { tier?: number }).tier ?? 6))
-    .slice(0, FEED_LIMIT)
-    .map(({ poi, src }) => {
+  const rankedPois = pois
+    .filter((poi) => Boolean(poi && poi.parent && poi.type !== "region" && poi.type !== "country"))
+    .sort((a, b) => ((a as { tier?: number }).tier ?? 6) - ((b as { tier?: number }).tier ?? 6));
+  const feedEntries: Array<{ poi: (typeof pois)[number]; image: FeedImage }> = [];
+  for (const poi of rankedPois) {
+    const src = getPoiImage(poi);
+    const image = src ? resolveFeedImage(src) : undefined;
+    if (!image) continue;
+    feedEntries.push({ poi, image });
+    if (feedEntries.length === FEED_LIMIT) break;
+  }
+
+  const items = feedEntries
+    .map(({ poi, image }) => {
       const url = `${SITE_URL}${buildPoiPath(lang, poi)}`;
-      const image = src.startsWith("http") ? src : `${SITE_URL}${src}`;
       const title = poiTitle(poi, lang);
       const desc = poiDescription(poi, lang);
       return `  <item>
@@ -70,8 +116,10 @@ export async function GET(
     <link>${escape(url)}</link>
     <guid isPermaLink="true">${escape(url)}</guid>
     <description>${escape(desc)}</description>
-    <enclosure url="${escape(image)}" type="image/webp" length="0" />
-    <media:content url="${escape(image)}" medium="image" />
+    <enclosure url="${escape(image.url)}" type="${image.contentType}" length="${image.length}" />
+    <media:content url="${escape(image.url)}" type="${image.contentType}" fileSize="${image.length}" medium="image">
+      <media:title type="plain">${escape(title)}</media:title>
+    </media:content>
     <pubDate>${BUILD_DATE}</pubDate>
   </item>`;
     })
