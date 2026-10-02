@@ -1,7 +1,7 @@
 const WORDS = {
-  pl: { Sights: "Atrakcje", Map: "Mapa", Weather: "Pogoda", News: "WiadomoÅ›ci", History: "Historia", Castle: "Zamek", Photos: "ZdjÄ™cia", Hiking: "WÄ™drÃ³wki", Elevation: "WysokoÅ›Ä‡", Beaches: "PlaÅ¼e", Course: "Bieg rzeki", Visit: "Zwiedzanie", Nature: "Przyroda", Events: "Wydarzenia" },
+  pl: { Sights: "Atrakcje", Map: "Mapa", Weather: "Pogoda", News: "Wiadomo\u015bci", History: "Historia", Castle: "Zamek", Photos: "Zdj\u0119cia", Hiking: "W\u0119dr\u00f3wki", Elevation: "Wysoko\u015b\u0107", Beaches: "Pla\u017ce", Course: "Bieg rzeki", Visit: "Zwiedzanie", Nature: "Przyroda", Events: "Wydarzenia" },
   nl: { Sights: "Bezienswaardigheden", Map: "Kaart", Weather: "Weer", News: "Nieuws", History: "Geschiedenis", Castle: "Kasteel", Photos: "Foto's", Hiking: "Wandelen", Elevation: "Hoogte", Beaches: "Stranden", Course: "Rivierloop", Visit: "Bezoek", Nature: "Natuur", Events: "Evenementen" },
-  pt: { Sights: "AtraÃ§Ãµes", Map: "Mapa", Weather: "Tempo", News: "NotÃ­cias", History: "HistÃ³ria", Castle: "Castelo", Photos: "Fotografias", Hiking: "Caminhadas", Elevation: "Altitude", Beaches: "Praias", Course: "Curso do rio", Visit: "Visita", Nature: "Natureza", Events: "Eventos" },
+  pt: { Sights: "Atra\u00e7\u00f5es", Map: "Mapa", Weather: "Tempo", News: "Not\u00edcias", History: "Hist\u00f3ria", Castle: "Castelo", Photos: "Fotografias", Hiking: "Caminhadas", Elevation: "Altitude", Beaches: "Praias", Course: "Curso do rio", Visit: "Visita", Nature: "Natureza", Events: "Eventos" },
 };
 const BUCKETS = {
   city: ["Sights", "Map", "Weather", "News", "History"],
