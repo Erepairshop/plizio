@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { getCountryOgImage } from "./countryOgImages";
 import {
   SUPPORTED_LANGS,
   ALL_LANGS,
@@ -123,15 +124,6 @@ export function getCountryCopy(countryId: string, lang: Lang) {
   return COUNTRY_COPY[countryId]?.[lang] ?? templateCopy(countryId, lang);
 }
 
-// Per-ország og:image URL — a generic fallback "/geo-images/${countryId}-full.jpg".
-const COUNTRY_OG_IMAGE: Record<string, string> = {
-  germany: "/geo-images/germany-full.jpg",
-  romania: "/geo-images/romania/RO.webp",
-  hungary: "/geo-images/hungary/HU.webp",
-};
-function getCountryOgImage(countryId: string) {
-  return COUNTRY_OG_IMAGE[countryId] ?? `/geo-images/${countryId}-full.jpg`;
-}
 
 export const SEO_COPY = {
   de: {

@@ -200,6 +200,7 @@ const missingFiles = [];
 const noindex = [];
 const canonicalMissing = [];
 const canonicalMismatch = [];
+const invalidRenderedContent = [];
 const mapHits301 = [];
 const mapHits410 = [];
 const missingImages = new Map();
@@ -216,6 +217,9 @@ for (const u of urls) {
     continue;
   }
   const html = fs.readFileSync(htmlPath, "utf8");
+  // Do not inspect JS examples or hydration payloads as visible page content.
+  const visibleHtml = html.replace(/<(script|style)\b[^>]*>[\s\S]*?<\/\1\s*>/gi, "");
+  if (/\[object Object\]/i.test(visibleHtml)) invalidRenderedContent.push(u);
   if (hasNoindex(html)) noindex.push(u);
   const canon = canonicalOf(html);
   if (!canon) canonicalMissing.push(u);
@@ -245,6 +249,7 @@ report("sitemap URLs without exported HTML", missingFiles);
 report("sitemap URLs with noindex", noindex);
 report("sitemap URLs missing canonical", canonicalMissing);
 report("sitemap URLs with canonical mismatch", canonicalMismatch);
+report("pages with object interpolation in rendered content", invalidRenderedContent);
 report("sitemap URLs shadowed by nginx 301 map", mapHits301);
 report("sitemap URLs shadowed by nginx 410 map", mapHits410);
 

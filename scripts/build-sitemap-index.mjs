@@ -4,10 +4,11 @@
 // and the old approach copied a HARDCODED public/sitemap.xml that was frozen at
 // 9 chunks (0-8) while the data grew to 12+ chunks — silently orphaning the
 // tail chunks (incl. all /hr/ URLs) from Google. This scans reality instead.
-// Run AFTER flatten-sitemap-paths.mjs (chunks renamed) — image sitemap is always
-// generated, so its entry is appended unconditionally.
+// Run AFTER flatten-sitemap-paths.mjs and image sitemap generation. Reference
+// the actual image urlset chunks directly, never their intermediate index.
 import fs from "node:fs";
 import path from "node:path";
+import { imageSitemapEntries } from "./lib/image-sitemap-entries.mjs";
 
 const OUT = path.resolve(process.cwd(), process.env.OUT_DIR || "out");
 const SITE = "https://plizio.com";
@@ -40,11 +41,7 @@ const entries = chunks.map((f) => ({
   loc: `${SITE}/${f}`,
   lastmod: iso(fs.statSync(path.join(OUT, f)).mtime),
 }));
-const imgPath = path.join(OUT, "sitemap-images.xml");
-entries.push({
-  loc: `${SITE}/sitemap-images.xml`, // always produced by generate-image-sitemap.mts
-  lastmod: iso(fs.existsSync(imgPath) ? fs.statSync(imgPath).mtime : new Date()),
-});
+entries.push(...imageSitemapEntries(OUT, SITE));
 // SEO hub pages (country attractions + cities landing pages). Generated FRESH
 // from the authoritative _hub_manifest.json (build-country-sights writes it):
 // ~193 countries × {attractions,cities} × 4 langs. The old static
@@ -108,4 +105,4 @@ const xml =
   "\n</sitemapindex>\n";
 
 fs.writeFileSync(path.join(OUT, "sitemap.xml"), xml, "utf8");
-console.log(`[build-sitemap-index] wrote sitemap.xml index: ${chunks.length} data chunks + image sitemap`);
+console.log(`[build-sitemap-index] wrote sitemap.xml index: ${entries.length} direct sitemap entries`);

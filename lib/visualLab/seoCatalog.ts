@@ -333,6 +333,7 @@ export function getLocalizedGameContent(subjectId: string, gameId: string, lang:
   const focus = gameEntry.focus[lang];
   const grades = gradeText(lang, gameEntry.grades);
   const mechanic = MECHANICS[gameEntry.mechanic];
+  const mechanicName = mechanic.name[lang];
   const title = lang === "de"
     ? `${name}: ${subjectName}-Lernspiel | Plizio Visual Lab`
     : lang === "hu"
@@ -348,12 +349,12 @@ export function getLocalizedGameContent(subjectId: string, gameId: string, lang:
         ? `${focus} în ${name}: joc de ${subjectName.toLowerCase()} pentru ${grades}, cu cinci niveluri progresive.`
         : `${focus} with ${name}, a free interactive ${subjectName.toLowerCase()} learning game for ${grades} with five progressive levels.`;
   const intro = lang === "de"
-    ? `${name} verbindet ${focus} mit einer kurzen, mobilfreundlichen ${mechanic.name}. Die Aufgaben bleiben im Stoff von ${grades} und werden über fünf Stufen schrittweise anspruchsvoller.`
+    ? `${name} bietet kurze, mobilfreundliche Aufgaben zum Thema: ${focus}. Spielprinzip: ${mechanicName}. Die Aufgaben bleiben im Stoff von ${grades} und werden über fünf Stufen schrittweise anspruchsvoller.`
     : lang === "hu"
-      ? `A ${name} a következő területet gyakoroltatja: ${focus}. A mobilbarát ${mechanic.name} feladatai végig a ${grades} tananyagán belül maradnak, és öt szinten fokozatosan nehezednek.`
+      ? `A ${name} a következő területet gyakoroltatja: ${focus}. A mobilbarát ${mechanicName} feladatai végig a ${grades} tananyagán belül maradnak, és öt szinten fokozatosan nehezednek.`
       : lang === "ro"
-        ? `${name} exersează ${focus} printr-un ${mechanic.name} adaptat dispozitivelor mobile. Sarcinile rămân la nivelul pentru ${grades} și devin treptat mai dificile în cinci etape.`
-        : `${name} develops ${focus} through a mobile-friendly ${mechanic.name}. Tasks stay within the curriculum for ${grades} and become gradually more demanding across five levels.`;
+        ? `${name} exersează ${focus} printr-un ${mechanicName} adaptat dispozitivelor mobile. Sarcinile rămân la nivelul pentru ${grades} și devin treptat mai dificile în cinci etape.`
+        : `${name} develops ${focus} through a mobile-friendly ${mechanicName}. Tasks stay within the curriculum for ${grades} and become gradually more demanding across five levels.`;
   const outcomes = lang === "de"
     ? [focus, "fachliche Hinweise vergleichen und begründet entscheiden", "den eigenen Fortschritt über fünf Schwierigkeitsstufen festigen"]
     : lang === "hu"
@@ -365,7 +366,7 @@ export function getLocalizedGameContent(subjectId: string, gameId: string, lang:
   return {
     lang, subjectId: subjectEntry.id, gameId: gameEntry.id, key: gameEntry.key,
     url, canonical: `https://plizio.com${url}`, name, subjectName, title, description,
-    intro, gradeText: grades, mechanicName: mechanic.name[lang],
+    intro, gradeText: grades, mechanicName,
     mechanicDescription: mechanic.description[lang], learningOutcomes: outcomes,
     skillIds: gameEntry.skillIds, grades: gameEntry.grades, levelCount: 5,
     isAccessibleForFree: true,

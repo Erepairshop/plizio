@@ -93,6 +93,19 @@ export const spainCountry: POI[] = [
 
 export const spainRegions: POI[] = [
   {
+    id: "ES-VC",
+    type: "region",
+    parent: "ES",
+    coords: [-0.4, 39.5],
+    name: { de: "Valencia", hu: "Valencia", ro: "Valencia", en: "Valencia" },
+    description: {
+      de: "Die autonome Gemeinschaft Valencia liegt an der Mittelmeerküste Spaniens und umfasst die Provinzen Alicante, Castellón und Valencia.",
+      hu: "Valencia autonóm közösség Spanyolország földközi-tengeri partján fekszik, Alicante, Castellón és Valencia tartományokat foglalja magában.",
+      ro: "Comunitatea autonomă Valencia se află pe coasta mediteraneeană a Spaniei și cuprinde provinciile Alicante, Castellón și Valencia.",
+      en: "The autonomous Valencian Community lies on Spain's Mediterranean coast and comprises the provinces of Alicante, Castellón and Valencia.",
+    },
+  },
+  {
     id: "ES-GA",
     type: "region",
     parent: "ES",

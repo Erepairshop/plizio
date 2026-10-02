@@ -28,6 +28,8 @@ import type { POI } from "../lib/visualLab/data/poi";
 import * as _poiImageOverridesNs from "../lib/seo/poiImageOverrides";
 import * as _loaderNs from "./_load-full-pois";
 import { renderPoiImageContribution } from "./lib/render-poi-image-contribution.mts";
+import { selectLocalizedContent } from "./lib/localized-content.mjs";
+import { nativeTitleKeywords, nativeTitleFeature } from "./lib/native-title-keywords.mjs";
 import * as _poiHtmlUiNs from "../lib/seo/poi-html-ui";
 const _poiHtmlUi: any = (_poiHtmlUiNs as any).default ?? _poiHtmlUiNs;
 const poiHtmlUiText: typeof import("../lib/seo/poi-html-ui").poiHtmlUiText = (...args) => _poiHtmlUi.poiHtmlUiText(...args);
@@ -890,16 +892,16 @@ const PLIZIOGO_SET: Set<string> = (() => {
 // Curated keyword list for a POI, filtered to what the page actually offers.
 function titleKeywords(poi: POI, lang: Lang, feats?: TitleFeats): string[] {
   const bucket = TYPE_ALIAS[poi.type] || (TITLE_KEYWORDS[poi.type] ? poi.type : "landmark");
-  let kw = (TITLE_KEYWORDS[bucket]?.[lang] || TITLE_KEYWORDS.landmark[lang] || TITLE_KEYWORDS.landmark.en!).slice();
+  let kw = (nativeTitleKeywords(bucket, lang) || TITLE_KEYWORDS[bucket]?.[lang] || TITLE_KEYWORDS.landmark[lang] || TITLE_KEYWORDS.landmark.en!).slice();
   if (feats) {
     const drop = new Set<string>();
-    if (feats.hasSights === false) { const w = FEATURE_KW.sights[lang]; if (w) drop.add(w); }
-    if (!feats.hasWeather) { const w = FEATURE_KW.weather[lang]; if (w) drop.add(w); }
-    if (!feats.hasNews) { const w = FEATURE_KW.news[lang]; if (w) drop.add(w); }
+    if (feats.hasSights === false) { const w = nativeTitleFeature("sights", lang) || FEATURE_KW.sights[lang]; if (w) drop.add(w); }
+    if (!feats.hasWeather) { const w = nativeTitleFeature("weather", lang) || FEATURE_KW.weather[lang]; if (w) drop.add(w); }
+    if (!feats.hasNews) { const w = nativeTitleFeature("news", lang) || FEATURE_KW.news[lang]; if (w) drop.add(w); }
     if (drop.size) kw = kw.filter((k) => !drop.has(k));
-    const evW = FEATURE_KW.events[lang];
+    const evW = nativeTitleFeature("events", lang) || FEATURE_KW.events[lang];
     if (feats.hasEvents && evW && !kw.includes(evW)) kw = [kw[0], evW, ...kw.slice(1)].filter(Boolean) as string[];
-    if (kw.length === 0) kw = (TITLE_KEYWORDS[bucket]?.[lang] || TITLE_KEYWORDS.landmark.en!).slice();
+    if (kw.length === 0) kw = (nativeTitleKeywords(bucket, lang) || TITLE_KEYWORDS[bucket]?.[lang] || TITLE_KEYWORDS.landmark.en!).slice();
   }
   return kw;
 }
@@ -3213,10 +3215,10 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     }
   }
   const descShort = poi.description as Record<string, string> | undefined;
-  const _descShortLocal = getLocalized(descShort as Partial<Record<string, string>>, lang);
+  const usableShort = Object.fromEntries(Object.entries(descShort || {})
+    .filter(([, text]) => typeof text === "string" && !isPlaceholderDesc(text)));
   const descText = deSlop(stripCurriculumLeak(
-    getLocalized(descAdv as Partial<Record<string, string>>, lang)
-    || (isPlaceholderDesc(_descShortLocal) ? "" : _descShortLocal)
+    selectLocalizedContent(lang, [descAdv, usableShort])
     || ""), lang, poi.id);
 
   // Facts: prefer advanced

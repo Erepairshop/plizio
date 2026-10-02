@@ -67,6 +67,8 @@ for (const param of params) {
   if (!content.description || content.description.length < 90 || content.description.length > 190) errors.push(`Description length ${content.description.length}: ${content.url}`);
   if (!content.intro || content.intro.length < 120) errors.push(`Intro too short: ${content.url}`);
   if (!content.mechanicName || !content.mechanicDescription) errors.push(`Missing mechanic copy: ${content.url}`);
+  if (content.intro.includes("[object Object]")) errors.push(`Object interpolation in intro: ${content.url}`);
+  if (!content.intro.includes(content.mechanicName)) errors.push(`Localized mechanic missing from intro: ${content.url}`);
   if (content.learningOutcomes.length !== 3 || content.learningOutcomes.some((item) => !item.trim())) errors.push(`Invalid outcomes: ${content.url}`);
   if (!content.canonical.endsWith(content.url)) errors.push(`Invalid canonical: ${content.url}`);
   if (content.levelCount !== 5 || content.isAccessibleForFree !== true) errors.push(`Invalid learning metadata: ${content.url}`);

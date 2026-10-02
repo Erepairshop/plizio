@@ -123,6 +123,19 @@ jobs:
             echo "shared/poi-images not found, keeping committed manifest"
           fi
 
+      - name: Preserve published native translation sidecars
+        shell: bash
+        run: |
+          set -euo pipefail
+          SOURCE="${{ env.RELEASE_BASE }}/current/data/i18n"
+          if [ -d "$SOURCE" ]; then
+            mkdir -p public/data/i18n
+            # Runtime translation releases are not all committed. Keep them
+            # without overwriting the reviewed sidecars shipped by this ref.
+            rsync -a --ignore-existing --include='*/' --include='*.json' --exclude='*' "$SOURCE/" public/data/i18n/
+            echo "Native sidecars available: $(find public/data/i18n -name '*.json' -type f | wc -l)"
+          fi
+
       - name: Generate V2 POI JSON
         run: npx tsx scripts/prepare_v2_data.mjs
 
