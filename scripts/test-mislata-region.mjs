@@ -27,10 +27,10 @@ if (fs.existsSync(backupPath)) {
   assert.equal(text.replace(/\r\n/g, "\n"), expected, "Only Mislata's parent may change");
 }
 const nginx = fs.readFileSync(new URL("../deploy/nginx/plizio-static.conf", import.meta.url), "utf8");
-for (const [lang, country, oldRegion] of [
-  ["de", "spanien", "galicien"], ["hu", "spanyolorszag", "galicia"],
-  ["ro", "spania", "galicia"], ["en", "spain", "galicia"], ["es", "espana", "galicia"],
+for (const [lang, country, oldRegion, targetRegion] of [
+  ["de", "spanien", "galicien", "valencia"], ["hu", "spanyolorszag", "galicia", "valencia"],
+  ["ro", "spania", "galicia", "valencia"], ["en", "spain", "galicia", "valencian-community"], ["es", "espana", "galicia", "comunidad-valenciana"],
 ]) {
-  assert.ok(nginx.includes(`rewrite ^/${lang}/${country}/${oldRegion}/mislata/?$ /${lang}/${country}/valencia/mislata/ permanent;`));
+  assert.ok(nginx.includes(`rewrite ^/${lang}/${country}/${oldRegion}/mislata/?$ /${lang}/${country}/${targetRegion}/mislata/ permanent;`));
 }
 console.log("PASS: Mislata parent, Valencia region, five permanent redirects, source preservation");
