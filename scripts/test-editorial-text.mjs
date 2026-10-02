@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import { editorialText } from './lib/editorial-text.mjs';
 assert.equal(editorialText('Tip', 'de'), 'Tip');
 assert.equal(editorialText({de: 'Tipp', en: 'Tip'}, 'de'), 'Tipp');
+assert.equal(editorialText({ro: {ro: 'Zennor feast Romanian prose'}, en: 'English prose'}, 'ro'), 'Zennor feast Romanian prose');
 assert.equal(editorialText({de: {Morning: 'First', Midday: 'Then', Afternoon: 'Later', Evening: 'Last'}}, 'de'), 'First\n\nThen\n\nLater\n\nLast');
 assert.equal(editorialText([{de: 'One'}, {de: 'Two'}], 'de'), 'One\n\nTwo');
 assert.equal(editorialText({de: [{label: 'Climate', url: 'https://example.org'}]}, 'de'), '');

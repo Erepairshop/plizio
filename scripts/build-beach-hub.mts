@@ -7,6 +7,7 @@
  */
 import fs from "node:fs";
 import path from "node:path";
+import { editorialText } from "./lib/editorial-text.mjs";
 
 const OUT_DIR = process.env.OUT_DIR || "out";
 const SITE = "https://plizio.com";
@@ -97,7 +98,7 @@ const esc = (s: any) =>
 const L = <T,>(o: Record<string, T> | undefined, l: Lang): T | undefined => (o ? (o[l] ?? (o as any).en) : undefined);
 // Event fields may be a plain English string (legacy) or a {de,hu,ro,en} object (translated).
 const Lstr = (v: any, l: Lang): string =>
-  v && typeof v === "object" && !Array.isArray(v) ? String(v[l] ?? v.en ?? "") : String(v ?? "");
+  v && typeof v === "object" ? editorialText(v, l) : String(v ?? "");
 
 // --- Per-country data (reassigned by loadCountry in the main loop) ---
 type NearPoi = { id: string; name: Record<string, string>; lat: number; lon: number; type?: string };
