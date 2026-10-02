@@ -30,6 +30,7 @@ import * as _loaderNs from "./_load-full-pois";
 import { renderPoiImageContribution } from "./lib/render-poi-image-contribution.mts";
 import { selectLocalizedContent } from "./lib/localized-content.mjs";
 import { nativeTitleKeywords, nativeTitleFeature } from "./lib/native-title-keywords.mjs";
+import { editorialText } from "./lib/editorial-text.mjs";
 import * as _poiHtmlUiNs from "../lib/seo/poi-html-ui";
 const _poiHtmlUi: any = (_poiHtmlUiNs as any).default ?? _poiHtmlUiNs;
 const poiHtmlUiText: typeof import("../lib/seo/poi-html-ui").poiHtmlUiText = (...args) => _poiHtmlUi.poiHtmlUiText(...args);
@@ -2321,9 +2322,12 @@ function renderInfoCard(poi: POI, lang: Lang, countryId: string): string {
     if (fs.existsSync(tp)) {
       const ct = JSON.parse(fs.readFileSync(tp, "utf-8"));
       const L = (o: any) => (o && (o[lang] || o.en)) || [];
-      const tipLis = L(ct.tips).map((x: string, _i: number) => `<li>${escapeHtml(deSlop(stripCurriculumLeak(String(x)), lang, poi.id + ":ctip" + _i))}</li>`).join("");
+      const tipLis = L(ct.tips).map((x: unknown, _i: number) => {
+        const text = editorialText(x, lang);
+        return text ? `<li>${escapeHtml(deSlop(stripCurriculumLeak(text), lang, poi.id + ":ctip" + _i))}</li>` : "";
+      }).join("");
       const picks = (arr: any[], emoji: string) => arr.map((p: any, _i: number) =>
-        `<div class="plz-ic-pick"><span>${emoji}</span><div><b>${escapeHtml(String(p.name || ""))}</b><p>${escapeHtml(deSlop(stripCurriculumLeak(String(p.tip || "")), lang, poi.id + ":cpick" + emoji + _i))}</p></div></div>`).join("");
+        `<div class="plz-ic-pick"><span>${emoji}</span><div><b>${escapeHtml(editorialText(p.name, lang))}</b><p>${escapeHtml(deSlop(stripCurriculumLeak(editorialText(p.tip, lang)), lang, poi.id + ":cpick" + emoji + _i))}</p></div></div>`).join("");
       tipsHtml = `
   <div class="plz-ic-sec"><h4>💡 ${escapeHtml(t.tips)}</h4><ul class="plz-ic-tips">${tipLis}</ul></div>
   <div class="plz-ic-sec"><h4>🍽 ${escapeHtml(t.gastro)}</h4>${picks(L(ct.gastro_picks), "🍽")}</div>
@@ -2545,11 +2549,7 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
   }
 
   function pickStr(v: any): string {
-    if (typeof v === "string") return v;
-    if (v && typeof v === "object") {
-      return v[lang] || v.en || v.de || v.hu || v.ro || Object.values(v).find((x) => typeof x === "string") as string || "";
-    }
-    return "";
+    return editorialText(v, lang);
   }
   // Itinerary stop image: photos were fetched per stop (name + city_id coords)
   // into sight-image-map.json. The key was built from the stop name in some
@@ -2684,7 +2684,7 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
     const stops = md.stops || [];
     for (const w of weatherKeys) {
       const v = getVariantContent(md, w);
-      const nar = (v.narrative_4lang || {})[lang] || "";
+      const nar = editorialText(v.narrative_4lang?.[lang], lang);
       let prev: [number, number] | null = null;
       const stopCards = stops.map((s: any, i: number) => {
         const lk = v.stop_tips_lookup;
@@ -2825,7 +2825,7 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
     const tripName = `${C.title} — ${getLocalized((poi as any).name, lang) ?? poi.id}`;
     const tripDesc = (() => {
       const v = getVariantContent(defaultMd, "sunny");
-      const nar = (v.narrative_4lang || {})[lang] || "";
+      const nar = editorialText(v.narrative_4lang?.[lang], lang);
       return nar || C.intro || "";
     })();
     const itineraryItems = defaultMd.stops.map((s: any, i: number) => {

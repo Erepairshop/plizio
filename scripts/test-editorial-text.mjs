@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import { editorialText } from './lib/editorial-text.mjs';
+assert.equal(editorialText('Tip', 'de'), 'Tip');
+assert.equal(editorialText({de: 'Tipp', en: 'Tip'}, 'de'), 'Tipp');
+assert.equal(editorialText({de: {Morning: 'First', Midday: 'Then', Afternoon: 'Later', Evening: 'Last'}}, 'de'), 'First\n\nThen\n\nLater\n\nLast');
+assert.equal(editorialText([{de: 'One'}, {de: 'Two'}], 'de'), 'One\n\nTwo');
+assert.equal(editorialText({de: [{label: 'Climate', url: 'https://example.org'}]}, 'de'), '');
+assert.equal(editorialText({unsupported: 'Not prose'}, 'de'), '');
+assert.equal(editorialText({fr: 'French only'}, 'de'), '');
+assert.equal(editorialText(null, 'de'), '');
+assert.equal(editorialText(12, 'de'), '');
+console.log('PASS: nested locale tips, ordered narrative paragraphs and non-prose rejection');
