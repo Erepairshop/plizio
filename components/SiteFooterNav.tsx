@@ -51,6 +51,10 @@ const GROUPS: Group[] = [
       { href: "/educational-games", label: "Educational Games" },
       { href: "/brain-games", label: "Brain Games" },
       { href: "/visual-lab", label: "Visual Lab" },
+      { href: "/de/visual-lab/", label: "Visual Lab (Deutsch)" },
+      { href: "/en/visual-lab/", label: "Visual Lab (English)" },
+      { href: "/hu/visual-lab/", label: "Visual Lab (Magyar)" },
+      { href: "/ro/visual-lab/", label: "Visual Lab (Română)" },
     ],
   },
   {

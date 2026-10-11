@@ -1093,7 +1093,7 @@ export default function Home() {
                       )}
                       {mod.id === "games" && (
                         <div className="space-y-4">
-                          <Link href="/visual-lab" className="paper-primary-link flex items-center gap-3 px-4 py-3 transition-colors">
+                          <Link href={`/${['de', 'en', 'hu', 'ro'].includes(lang) ? lang : 'en'}/visual-lab/`} className="paper-primary-link flex items-center gap-3 px-4 py-3 transition-colors">
                             <Microscope size={21} className="shrink-0" />
                             <span className="min-w-0 flex-1">
                               <span className="block text-sm font-extrabold">{ht.visualLab}</span>
