@@ -25,8 +25,9 @@ and checked; unchanged verified files are skipped without remote reads. New
 images remain available locally during upload. A failed copy/check retains local
 images and evidence. Do not run broad repeated whole-catalogue checks manually.
 
-Fetchers should import `availability.available(family, key)` once per worker
-when deciding whether a requested image already exists. Checking only the local
+The existing `/home/erik/_fetch_images_allsource.py` has a backed-up, tested
+existence-only adapter to `availability.available(family, key)`. Other fetchers
+should import the same helper once per worker. Checking only the local
 file can needlessly redownload a verified R2 image. The helper uses a cached
 catalogue, not one network request per image.
 
