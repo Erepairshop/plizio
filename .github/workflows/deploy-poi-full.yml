@@ -154,6 +154,9 @@ jobs:
           rsync -a --exclude 'pois/' public/data/ out/data/
           echo "[poi-full] overlaid maps + poi-static + data into out/"
 
+      - name: Refresh available image manifest (local and verified R2)
+        run: python3 scripts/refresh-image-manifest.py --shared-root /home/erik/plizio/shared
+
       - name: Generate POI HTML overlay (FULL — all POIs, overwrites seeded POI pages)
         env:
           OUT_DIR: out
